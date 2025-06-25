@@ -13,6 +13,282 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내 집 마련도 취업도 막막, 서울 청년 7년간 31만명 줄었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/3D2WVUFTXFA2JOP7A4AEM3ZNLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/3D2WVUFTXFA2JOP7A4AEM3ZNLA/</guid>
+      <dc:creator>최연진 기자, 박진성 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:07:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACPJK5MEHJGAXM5XJ35FXWL5DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에서 일하고 싶어요 - 25일 서울시가 발표한 ‘서울시 청년 통계’에 따르면, 청년 인구는 2016년 318만명에서 2023년 287만명으로 31만명 감소했다. 저출생, 고령화에 극심한 취업난, 높은 생활비 등이 겹치며 감소세가 빨라질 것이라는 분석이 나온다. 지난 3월 서울 서초구 aT센터에서 열린 ‘2025 대한민국 채용 박람회’ 행사장이 청년들로 북적이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 원룸에 살던 수영 강사 정모(29)씨는 지난달 집을 정리하고 고향인 경남 거제로 떠났다. 2020년 상경한 지 5년 만이다. 계약직 수영 강사 일을 하며 받은 월급은 늘 200만원 언저리였다. 월세 70만원에 통신비, 교통비, 식비를 빼고 나면 사실상 남는 게 없었다. 정씨는 “영화 한 편 보기도 부담스러워 매일 밤 방구석에 누워 유튜브만 봤다”며 “내 처지가 한심해 결국 부모님 곁으로 돌아왔다”고 했다.&lt;br&gt;&lt;br&gt;수도(首都) 서울의 청년이 줄어들고 있다. 25일 서울시가 발표한 ‘서울시 청년 통계’에 따르면, 2016년 318만명에 달했던 청년(만 19~39세) 인구는 2023년 287만명으로 줄었다. 7년 만에 강원도 춘천시 인구와 비슷한 31만명이 증발한 것이다. &lt;br&gt;&lt;br&gt;같은 기간 65세 이상 노인 인구는 130만명에서 174만명으로 44만명 증가했다. 이 때문에 전체 서울 인구 중 청년 비율은 32.1%에서 30.5%로 떨어졌다. 인구 전문가들은 “저출생, 고령화 등 여파로 청년 인구가 계속 줄어들고 있어 올해는 30% 선도 무너질 가능성이 크다”며 “서울이 활력을 잃고 점점 더 늙어간다는 방증”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇혼자 사는 청년, 기초생활수급자 늘었다&lt;/b&gt;&lt;br&gt;&lt;br&gt;아직은 서울로 전입한 청년이 빠져나간 청년보다 더 많다. 하지만 그 차이는 해마다 눈에 띄게 줄어들고 있다. 전입 인구에서 전출 인구를 뺀 청년 순유입 인구는 2022년 3만1551명에서 2024년 1만5420명으로 2년 새 반 토막이 됐다. 앞으로 서울의 청년 인구 감소세가 더 빨라질 가능성이 높은 이유다. 전문가들은 “높은 주거비 부담 등으로 청년들의 삶의 질이 크게 떨어지고 있다”며 “구조적인 해법을 찾아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIEI2UBZ3JGURF3QUB7M6FO2QA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 청년 통계를 보면 실제로 서울 청년들은 더 외롭고 팍팍하게 살고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;나 홀로 사는 ‘청년 1인 가구’는 2016년 54만 가구에서 2022년 77만 가구로 43%(23만 가구) 증가했다. 같은 기간 전체 청년 가구 중 1인 가구의 비율은 51%에서 64%로 뛰었다. 서울 청년 가구 열 중 여섯 이상이 혼자 사는 것이다.&lt;br&gt;&lt;br&gt;이삼식 한양대 고령사회연구원장은 “서울에서 겨우 직장을 잡아도 주거비 등 생활비를 감당하지 못해 경기, 인천 등으로 튕겨 나가거나 원룸 등에서 혼자 사는 청년이 많다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;주거 환경은 더 악화됐다. 같은 기간 고시원, 오피스텔 등에 사는 청년 비율은 12%에서 19%로 상승했다. 아파트는 30%에서 27%로, 단독주택은 33%에서 28%로 하락했다. &lt;br&gt;&lt;br&gt;청년들이 사는 주택의 44%는 면적이 50㎡(약 15평) 미만이었다.&lt;br&gt;&lt;br&gt;국무조정실이 올 초 발표한 ‘2024년 청년 삶 실태 조사’에 따르면, 서울의 전세 보증금은 평균 2억9924만원으로 전국 평균(2억2585만원)보다 7000만원 이상 비쌌다. 월세도 전국 평균(38만원)보다 25만원 비싼 63만원 수준이었다.&lt;br&gt;&lt;br&gt;같은 조사에서 서울 청년의 연평균 소득은 2722만원으로 전국 평균(2625만원)보다 97만원 많았다. 김윤태 고려대 공공정책대학 교수는 “서울이 지방보다 일자리가 많다고 살기 좋을 것이라는 생각은 이제 착각”이라며 “버는 돈보다 드는 돈이 훨씬 많고, 불안정한 일자리도 많아 생활은 더 힘들 수 있다”고 했다.&lt;br&gt;&lt;br&gt;빈곤에 빠진 청년도 크게 늘어났다. 기초생활수급 대상인 청년은 2016년 3만1751명에서 2023년 4만6800명으로 증가했다. 7년 새 1만5000명(47%) 늘어난 것이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇남은 청년은 아프다&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울에 사는 청년의 건강은 악화한 것으로 나타났다. 서울 청년이 병원에서 쓴 진료비는 2016년 3조1000억원에서 2023년 5조2000억원으로 늘어났다. 청년 인구는 줄었는데 진료비 규모는 오히려 1.7배가 됐다. &lt;br&gt;&lt;br&gt;고혈압, 당뇨 등 만성 질환을 앓는 청년도 2016년 40만명에서 2023년 54만명으로 35% 증가했다. 이에 대해 서울시 관계자는 “청년 1인 가구가 늘어난 것과도 관련이 있어 보인다”고 했다. 서울 서대문구에서 혼자 살고 있는 대학원생 박모(30)씨는 “아르바이트 일이 끝나면 원룸에서 혼자 배달 음식과 맥주로 저녁을 때우기 일쑤”라며 “밤늦게까지 유튜브나 넷플릭스 드라마를 보다 보니 자는 시간도 들쭉날쭉하고 위염과 불면증, 고혈압을 달고 살게 됐다”고 했다. &lt;br&gt;&lt;br&gt;청년들은 마음도 아픈 것으로 조사됐다. 우울증 등 정신 질환으로 진료받은 청년은 2016년 12만명에서 26만명으로 2배 이상 증가했다.&lt;br&gt;&lt;br&gt;최근 1년간 2주 이상 생활에 지장이 있을 정도로 절망감을 경험한 적이 있다고 답한 청년 비율은 2016년 7.1%에서 2023년 8.4%로 상승했다. 특히 여성은 10.9%로 10명 중 1명꼴이었다.&lt;br&gt;&lt;br&gt;극단적 선택을 한 청년도 늘어나고 있다. 2016년엔 사망한 서울 청년 중 41.7%가 스스로 목숨을 끊었는데, 2023년엔 그 비율이 48.6%로 상승했다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “청년들의 우울증과 고립감을 줄이기 위해 다양한 상담 프로그램을 운영하고 지원책도 마련하고 있지만 한계가 있다”며 “보다 근본적인 고민이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ACPJK5MEHJGAXM5XJ35FXWL5DY.jpg?auth=7b295303a97391069b6d55704c89ba0eeefdc7b2559fed98c8051e4acd1eb764&amp;smart=true&amp;width=5955&amp;height=3970" type="image/jpeg" height="3970" width="5955">
+        <media:description type="plain">지난 3월 19일 서울 서초구 aT센터에서 열린 ‘2025 대한민국 채용박람회’가 청년 구직자들로 붐비고 있다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">윤동진</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>기업 지배 구조까지 언급한 고용 장관 후보자</title>
+      <link>https://www.chosun.com/national/labor/2025/06/26/QYOFWNME3VE23BDGMSA6DX2NZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/26/QYOFWNME3VE23BDGMSA6DX2NZI/</guid>
+      <dc:creator>김아사 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:14:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXFFAN5ADWSRLM74ZKAU62FAB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;철도 기관사 출신 김영훈 고용노동부 장관 후보자가 24일 오후 서울 중구 서울지방고용노동청 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관 후보자가 25일 SPC에서 지난달 발생한 노동자 사망 사고를 거론하며 “중대 재해 반복은 지배 구조부터 시작해 다층적 요소들이 작동한 것”이라며 “산업을 지배하는 여러 가지 지배 구조를 통합적으로 봐야 발본색원할 수 있다”고 밝혔다. 김 후보자가 중대 재해 문제에 ‘지배 구조’를 거론한 건 최고안전책임자(CSO) 등이 아닌 그룹 오너의 처벌이 필요하다는 강경 메시지를 밝힌 것으로 해석된다. 이는 그동안 노동계 주장을 되풀이한 것으로, 경영 현실을 전혀 고려하지 않은 발언이라는 비판이 나온다. &lt;br&gt;&lt;br&gt;김 후보자는 25일 서울 중구 인사청문회 준비 사무실에 출근하며 기자들과 만나 “중대 재해는 단순히 기술적, 인적 오류만의 문제가 아니다”라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;2022년 시행된 중대재해처벌법은 산업재해 발생 시 기업의 안전 관리 체계를 조사해 미비할 경우 사업주나 경영 책임자를 처벌할 수 있게 했다. 법 시행 후 CSO나 계열사 대표 등이 처벌 대상이 되는 경우가 많았다.&lt;br&gt;&lt;br&gt;법을 만들 때부터 과잉 입법과 실효성 논란이 있었지만, 노동계에선 한발 더 나아가 지배 구조 맨 꼭대기에 있는 그룹 오너에게 책임을 물어야 한다고 주장해 왔다. 회사에 실질적이고 최종적인 권한을 행사하는 이가 사고 책임을 져야 중대한 사고를 줄일 수 있다는 것이다. &lt;br&gt;&lt;br&gt;그러나 산업계에선 “대기업에는 수만 명의 노동자가 있는데, 사망자가 발생할 때마다 오너를 처벌하는 건 기업 경영을 하지 말라는 것”이라고 비판했다. 법조계에서도 이는 관리 범위를 벗어난, 불가능한 것에 책임을 묻는 행위여서 헌법상 ‘과잉 금지 원칙’ 등에 어긋난다고 지적한다. 법무법인 화우 홍정석 규제개혁솔루션 팀장(변호사)은 “오너 처벌은 형법상 책임주의, 명확성 원칙에 반하는 측면이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YXFFAN5ADWSRLM74ZKAU62FAB4.jpg?auth=e5019e3155a71da4ed3073aefd7f8e775c923f160a4c9138f06e43fe3a9245fe&amp;smart=true&amp;width=2863&amp;height=2005" type="image/jpeg" height="2005" width="2863">
+        <media:description type="plain">철도 기관사 출신 김영훈 고용노동부 장관 후보자가 24일 오후 서울 중구 서울지방고용노동청 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 작년 ‘빅5’ 병원 대규모 적자… 의료부문 손실만 5000억대</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/26/M7YJ6UFMY5AFLIE7UFTRXEUMOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/26/M7YJ6UFMY5AFLIE7UFTRXEUMOI/</guid>
+      <dc:creator>곽래건 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 20:03:00 +0000</pubDate>
+      <content:encoded>작년 2월부터 이어진 의정 갈등 여파로 서울 ‘빅5’ 병원이 작년 한 해 총 2000억원대 적자를 기록했다. 장례식장·주차장·부대 시설을 제외한 의료 부문은 6000억원에 가까운 적자를 냈다. &lt;br&gt;&lt;br&gt;25일 한지아 국민의힘 의원이 보건복지부에서 받은 자료에 따르면, 서울 ‘빅5’ 병원은 2023년에 111억원의 수익을 올렸지만, 지난해에는 2266억원의 적자를 낸 것으로 집계됐다. 다섯 곳 중 네 곳이 적자를 냈다. 서울대병원 1106억원, 삼성서울병원 525억원, 세브란스병원 447억원, 서울성모병원 193억원 등이다. 서울아산병원은 5억원의 흑자를 냈지만, 2023년(323억원 흑자)과 비교하면 흑자가 거의 다 사라졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XXSDIBTOFBF5OSHLMN4P2MZTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;핵심 원인은 전공의 이탈로 입원·수술 건수가 급감하며 환자가 줄었기 때문이다. 빅5 병원의 병상 가동률은 보통 90%가 넘었지만, 의정 갈등이 한창이던 작년 상반기 50%대까지 떨어졌다. &lt;br&gt;&lt;br&gt;부대 시설 수입 등을 제외한 순수 의료 부문만 따지면 적자 폭이 더 컸다. 서울대병원(2178억원), 삼성서울병원(1494억원), 세브란스병원(889억원), 서울성모병원(564억원), 서울아산병원(560억원) 등 다섯 병원 모두 적자였다. 2023년과 비교하면 빅5 병원 의료 부문 적자가 5000억원 이상 늘었다.&lt;br&gt;&lt;br&gt;다른 병원도 사정이 비슷했다. 부산대병원·강원대병원·전북대병원 등 국립대병원 17곳은 총 5586억원의 적자를 기록했다. 국립대병원 17곳 중 흑자를 기록한 곳은 충남대병원(53억원)과 분당서울대병원(17억원)뿐이었다. 한지아 의원은 “필수 의료 수가 현실화와 의료 인력 이탈 방지를 위한 지원 강화, 의정 갈등 해결을 위한 의료계와의 대화 재개 등 정부의 적극적인 역할이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;다만 최근엔 병원 가동이 일부 정상화되는 조짐도 나타나고 있다. 병원들은 작년 9월 이후 전공의 빈자리를 임상 강사나 진료 지원(PA) 간호사로 점차 대체해왔다. 한 빅5 병원 관계자는 “외래 진료를 의정 갈등 이전과 비교하면 현재 80~85% 정도는 회복한 상태”라고 했다.&lt;br&gt;&lt;br&gt;대형 병원이 중증·응급 환자 진료에 집중할 수 있도록 하는 ‘상급종합병원 구조 전환 사업’ 이후 중증 수술 건수도 회복세다. 2023년 9월 3만3000건이던 뇌동맥류·암 등 중증 수술은 의정 갈등 여파로 지난해 9월 2만7500건까지 줄었다가, 사업 시행 이후인 지난해 12월 3만7100건으로 약 35% 늘었다. 비(非)중증 환자가 상급종합병원 대신 2차 의료기관인 종합병원을 주로 이용하면서 종합병원 병상 가동률이 2024년 78.7%로 2023년보다 4.9%포인트 올랐다. 종합병원과 상급종합병원의 전체 환자 수는 지난해 12월 기준 전년 대비 98% 수준까지 회복했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 자택서 수억 돈다발… 돈 받고 자리 거래 혐의 ‘택시왕’ 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/BVZXFUZCEBHBXLRFLYNTS2TSRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/BVZXFUZCEBHBXLRFLYNTS2TSRY/</guid>
+      <dc:creator>구동완 기자, 김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NB7RWZDDJVAEFEF6ZQ7EKJK6GM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인택시 기사들의 최대 이익 단체인 서울개인택시운송사업조합 이사장 차모(72)씨가 조합 관련 직책 임명을 대가로 돈거래를 한 혐의로 지난 23일 경찰에 구속됐다. 그는 국내 대형 로펌의 변호인 2명을 선임한 뒤 구속의 적법성을 가려달라며 법원에 구속적부심을 청구했다. 차씨의 구속적부심은 26일 오후 서울중앙지법에서 열린다. 차씨는 자리 거래 혐의를 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;조합에서는 차씨가 그간 이른바 ‘택시왕’으로 군림하면서 무소불위의 권력을 휘둘렀다는 증언이 잇따라 나오고 있다. 폐쇄적 조합 권력 구조와 감시 부재가 맞물려 차씨가 10년 넘게 ‘인사 전횡’을 일삼았다는 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 차씨는 작년 6월쯤 조합 이사장 지위를 이용해 조합 관련 직책 등과 관련해 금품 거래를 했다는 의혹이 제기돼 본격 수사 대상에 오른 것으로 전해졌다. 이에 앞선 작년 4월 조합원 340여 명이 ‘조합바로세우기모임’을 구성해 대통령실과 국토부, 서울시 등 기관에 ‘차 이사장이 보직 임명을 미끼로 금품을 요구하고 있다’는 내용의 진정 및 탄원을 넣었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRBUUTVEMBALLBI6XQDO36WU74.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그해 10월 서울경찰청 광역수사단이 서울 송파구 조합 본사 사무실, 차씨 자택 등지를 잇따라 압수 수색했더니 수억 원대 현찰 다발을 발견한 것으로 전해졌다. 경찰은 이 돈이 차씨가 조합 이사장 지위를 활용해 조합원들로부터 모종의 청탁을 들어주는 대가로 받은 돈 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;일부 조합원들은 최근 잇따라 경찰에 출석해 차씨가 조합 내 자리에 임명해주는 대가로 금품을 요구했다고 진술했다고 한다. 경찰은 이들이 요구받았던 금액과 관련한 진술도 일부 확보한 것으로 알려졌다. 그러나 차씨는 경찰에 “현금 뭉칫돈은 (보직 임명 대가로 받은 돈이 아니라) 부동산을 팔고 받은 돈일 뿐”이라며 혐의를 부인하는 것으로 전해졌다. 차씨 변호인은 이날 본지 통화에서 “구속적부심을 앞두고 구체적인 입장을 밝히는 건 부적절하다”고 했다.&lt;br&gt;&lt;br&gt;서울개인택시조합은 개인택시 조합 가운데 최대 규모 단체다. 지난 2월 기준 서울 시내 개인택시 기사 4만9074명 중 대부분이 조합에 소속돼 있다. 매달 조합원당 조합비로 2만원 등을 받아 연 예산이 150억원 정도 된다. 개인택시는 전국 지방자치단체에서 수를 제한하기 때문에 새로 하려면 기존 운전자가 그만둔 뒤 면허를 발급받아야 한다. 이 면허 중개를 도맡아 하는 곳이 조합이다. 개인택시 기사들은 “아무리 개인 사업자라지만 조합 허가가 없으면 사실상 운전을 하지 못하니 조합의 영향력은 절대적”이라고 했다.&lt;br&gt;&lt;br&gt;39년 전인 1986년 개인택시 면허를 딴 차씨는 1998년 대의원, 2002년 서울 강남지부장 등을 거쳐 2005년 이사장을 지냈다. 조합 정관에 “이사장은 1회에 한해 연임할 수 있다”고 해 두 임기를 마친 이후 이사장 보궐선거 등에 재출마해 당선, 연임하는 방식으로 5번에 걸쳐 15년간 이사장을 지낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;개인택시조합에서 이사장은 ‘절대 권력’을 행사한다. 개인택시 기사에게 사형 선고와 같은 ‘제명’을 포함한 조합원 징계 권한도 이사장에게 있기 때문이다. 한 개인택시 기사는 “사실상 이사장이 우리 기사들의 ‘명줄’을 잡고 있다”고 했다. 연봉도 1억3000만~1억4000만원이다. 업무 추진비도 연 5000만원 선으로 전해졌다. &lt;br&gt;&lt;br&gt;최근 건설 경기가 나빠지고 내수가 부진한 탓에 일자리를 잃은 베이비부머 은퇴자들이 개인택시 업계로 잇따라 뛰어들어 조합의 영향력은 더욱 커지고 있다. 2023년 하반기 9381만원이던 면허 값은 지난해 1억193만원, 지난달 1억1500만원으로 상승했다.&lt;br&gt;&lt;br&gt;서울개인택시조합 관계자는 “이사장이 별다른 의결 없이 임명할 수 있는 조합 핵심 보직만 스무 자리가 넘고, 회의 참석 등으로 각종 수당을 받을 수 있는 자리까지 합하면 100자리가 넘는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 2021년엔 서울 지역 개인택시조합 간부들이 차량 수리비를 허위 청구해 수천만 원을 챙긴 혐의로 기소됐다. 2023년에는 조합 간부들이 특정 업체에 일감을 몰아주는 대가로 금품을 받은 일이 드러나 수사를 받았다. 개인택시조합 내부에선 “1인 사업자인 개인택시 기사들의 권익 보호를 명분으로 만든 개인택시조합이 실제로는 폐쇄적이고 권위주의적으로 운영되고 있다”며 “정부가 조합을 감시하는 장치를 만들 필요가 있다”는 이야기가 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞서울개인택시운송사업조합&lt;/b&gt;&lt;br&gt;&lt;br&gt;5만명에 달하는 서울 지역 개인택시 기사 대부분이 소속된 이익 단체. 전국개인택시운송사업조합연합회 산하에 있는 국내 개인택시 조합 가운데 최대 규모다. 단체에 소속된 개인택시 기사들은 매달 2만원의 조합비를 내 연간 예산이 150억원에 달한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 6월 26일</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/WZB633GQOFETFGKMWO4BGPLKWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/WZB633GQOFETFGKMWO4BGPLKWI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:47:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCBJL4IYFZC2DCI3KY5QUDUG24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 최저임금… 경총 “동결하자”</title>
+      <link>https://www.chosun.com/national/labor/2025/06/26/U6D4MT6UFNEGTO6PPOM3KDWPFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/26/U6D4MT6UFNEGTO6PPOM3KDWPFM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:27:01 +0000</pubDate>
+      <content:encoded>한국경영자총협회가 “선진국과 비교할 때 우리 최저임금은 이미 높다”면서 내년도 최저임금을 동결하자고 주장했다. &lt;br&gt;&lt;br&gt;경총은 25일 보도자료를 내고 경영계가 내년 최저임금을 올해와 같은 시급 1만30원으로 제시한 이유를 밝혔다. 우선 경총은 “우리나라의 중위 임금 대비 최저임금 수준이 적정 수준(45~60%)을 넘어섰다”고 지적했다. ‘중위임금’은 우리나라 근로자들을 임금순으로 줄 세웠을 때 가운데에 해당하는 임금이다. 최임위에 따르면 지난해 중위임금 대비 최저임금 비율은 63.4%로, G7(7국) 평균(50.1%)보다 높다. &lt;br&gt;&lt;br&gt;경총은 “특히 숙박·음식점업의 최저임금은 해당 업종 중위임금의 80%를 넘는 등 현재 최저임금 수준도 감당하기 어려운 업종이 많다“고 밝혔다.&lt;br&gt;&lt;br&gt;최저임금 인상률이 물가 상승률보다 가파른 점도 최저임금을 동결해야 할 이유라고 경총은 설명했다. 최근 10년간 최저임금 인상률(89.3%)은 물가 상승률(21.2%)의 4배에 달했다. 최근 5년간 물가 상승률(14.8%)도 최저임금 인상률(18.1%)을 따라잡지 못했다.&lt;br&gt;&lt;br&gt;경총은 최저임금이 명목임금보다 더 빠르게 오르고 있다고 지적했다. 지난 10년(2014~2024년) 동안 최저임금은 89.3% 올랐는데, 명목임금은 39.2% 올랐다.&lt;br&gt;&lt;br&gt;최저임금의 급격한 상승으로 최저임금을 못 받는 근로자도 늘고 있다. 최저임금 미만을 받는 근로자 비율은 2001년 4.3%(57만7000명)에서 작년 12.5%(276만1000명)까지 급증했다. 특히 숙박·음식점업의 경우 근로자 3명 중 1명(33.9%)이 최저임금 미만을 받았다. &lt;br&gt;&lt;br&gt;경총은 “중소·영세 기업과 소상공인의 임금 지불 능력이 이미 한계 상황에 직면했다”면서 “내년 최저임금을 결정할 때 최근 복합 위기 상황에서 이들의 경영 여건이 갈수록 악화하고 있는 점을 반드시 고려해야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;반면 노동계는 내년 최저임금을 올해보다 14.7% 오른 1만1500원으로 요구하고 있다. 노동계는 “최저임금 인상으로 저임금 노동자의 소비 지출이 증가해야 소상공인도 웃을 수 있다. 최저임금은 단순히 기업의 부담 문제가 아니라 사회적 책임”이라고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中교수 “마오쩌둥, 지평리 전투 패배 후 정전협상 고려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/UZHNAK5JTNCDTLF2KYJOUDCLBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/UZHNAK5JTNCDTLF2KYJOUDCLBQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:26:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRSMSKE7ARFS3ITG3M2BTI43DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25전쟁 당시 ‘지평리 전투’에서 중공군이 퇴각하는 모습. 지평리 전투는 1951년 2월 경기 양평군 지평리에서 벌어졌다. 유엔군이 남하하는 중공군과 싸워 이겼다. /지평리를 사랑하는 모임&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“‘지평리 전투’는 중공군이 이기기 힘들겠다는 생각을 처음으로 하게 된 전환점이었습니다. 한참 기세를 올리던 마오쩌둥(毛澤東)이 소련 스탈린에게 ‘2년 이상의 장기전을 준비해야겠다’는 전보를 보냈다는 사실을 최근 알게 됐습니다.”&lt;br&gt;&lt;br&gt;25일 오후 경기 양평군 양평도서관에서 6·25 전쟁 75주년 기념 국제 학술 심포지엄이 열렸다. ‘지평리 전투, 못 다한 이야기’란 제목으로 진행된 심포지엄에서 중국 화둥사범대의 선즈화(沈志华) 종신교수가 양평 지평리 전투에 대해 이런 평가를 내놓자 미국·프랑스의 전쟁사 전문가들이 술렁였다. 중국은 6·25 전쟁을 자신들이 미국 등 유엔군이 이긴 ‘승전(勝戰)’이라 주장한다. 그런데 선 교수가 6·25 전쟁 주도권이 연합군으로 넘어가게 된 전환점이 지평리 전투였다고 평가한 것이다. 선 교수는 1990년대부터 김일성이 마오쩌둥과 스탈린의 지원을 받아 6·25 전쟁을 일으킨 사실을 입증하는 옛 소련 정부 문서 등 외교 문서를 발굴해왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WI4PXQD5ZAUFKTEJA5F5P4L3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 ‘양평 국제 학술 심포지엄’에서 선즈화 중국 화둥사범대 종신교수가 발표하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1951년 2월 13~15일 벌어진 지평리 전투는 미군 23연대와 프랑스 대대 등 유엔군 5000여 명이 남하하는 중공군 3개 사단 약 3만명을 상대로 승리한 싸움이다. 당시 국군과 유엔군은 중공군이 참전한 이후 장진호 전투에서 대패했다. 이후 1·4후퇴로 서울까지 빼앗기면서 수세에 몰렸다. 그런데 프랑스 랄프 몽클라르(1892~1964) 장군이 이끄는 프랑스군과 미군이 지평리 전투에서 중공군의 인해전술 공격을 막아냈다. &lt;br&gt;&lt;br&gt;중공군과 백병전까지 벌인 국군과 유엔군이 38선을 지켜내고 반격의 발판을 마련한 지평리 전투는 중국으로선 인정하기 싫은 싸움일 수밖에 없다. 그러나 선 교수는 이날 지평리 전투에 대한 중국 정부의 비밀 문건 등을 인용해 “지평리 전투는 중공군이 한반도 파병 이래 엄중한 타격을 입은 첫 전투이자 전환점”이라고 평가했다. 그는 그 근거로 마오쩌둥이 지평리 전투 패배 직후인 1951년 2월 중공군 9개 사단의 ‘4차 대공세’를 종료시키고 정전 협상을 고려했다는 내부 문건을 소개했다. &lt;br&gt;&lt;br&gt;선 교수는 중공군의 패인에 대해선 “마오쩌둥이 전쟁 초기에 달성한 승리에 취해 전세 흐름을 못 읽었기 때문”이라고 했다. 당시 중공군 총사령관이었던 펑더화이(彭德懷)는 ‘전선이 확대되면서 병사들의 체력이 소진된 데다 병력·물자 보급도 차질을 빚고 있다’고 본국에 보고했다. 그러나 마오쩌둥은 ‘정신력으로 승리하라’며 공세 강화를 명령했다는 것이다. 선 교수는 “중공군은 혹한 속에서 치러진 함경남도 장진호 전투를 통해 중국식 인해전술로는 연합군을 패퇴시키기 어렵다는 것을 실감했음에도, 미군을 얕잡아보고 지평리에 5만 병력을 집결시켰다”며 “반면 매슈 리지웨이 미8군 사령관(중장)은 시기와 형세를 완벽히 파악해 지평리를 효과적으로 사수했다”고 했다.&lt;br&gt;&lt;br&gt;선 교수는 이번 행사를 위해 지평리 전투의 세부 전황을 연구했다고 한다. 그는 “각종 중국 정부·학계 문건의 세부 기록을 살핀 결과, 지평리 전투가 (6·25전쟁에서) 얼마나 중요한 전환점이 됐는지 깨달았다”고 했다. 과거 선 교수는 중국 정부에 민감할 수 있는 내용을 가감 없이 발표해 중국 네티즌들로부터 ‘항미원조(抗美援朝·미국에 맞서 북한을 도왔다는 뜻) 전쟁’의 정당성을 부정한다는 공격을 받기도 했다.&lt;br&gt;&lt;br&gt;이날 미국·프랑스의 전쟁사 전문 전·현직 장교들도 “지평리 전투가 없었다면 연합군이 밀려오는 중공군을 꺾기 힘들었을 것”이라고 했다. 윌리엄 마이클 알렉산더 미군 제2사단 제8군 역사담당관(예비역 대령)은 “지평리 전투는 중공군에 대한 미군의 첫 승리”라며 “당시 중공군을 ‘무적의 거인’으로 여겨왔던 미8군의 사기가 크게 올라갔다”고 했다. 이반 카도 프랑스군 국방역사부 국장(중령)은 “파병을 거절하다 늦게 미 제2보병사단에 예속돼 참전한 프랑스군은 지평리 전투를 계기로 미군과 동등한 전투 부대로 인정받았다”고 했다. 박동찬 국방부 군사편찬연구소 선임연구원은 “유엔군은 중공군 참전 이후 빼앗긴 작전 주도권을 지평리 전투에서 되찾았고 이를 계기로 공산군은 ‘군사적 완전 승리’ 구상을 포기하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 행사엔 16년째 지평리 전투 관련 자료를 복원하고 외부에 알려온 ‘지평리를 사랑하는 모임(지평사모)’ 회원들과 대한민국상이군경회, 대한민국전몰유족회, 주한미군 제11공병대대 병사 등 200여 명이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지하철 5호선 방화 당시 현장… 휘발유에 미끄러져 넘어진 임신부, 몇 초 후 불 ‘활활’</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/AFR3ZKN3DNDCXDKTNYOWJV5MLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/AFR3ZKN3DNDCXDKTNYOWJV5MLI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:24:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR24F6QULZAHRGJXK7ZK5RPFWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 31일 서울 지하철 5호선 열차 안에서 발생한 방화 사건 당시의 모습. 60대 남성이 객실 한가운데에 휘발유를 뿌리자 승객들이 놀라 대피하고 있다(왼쪽 사진). 한 임신부는 급하게 대피하다 바닥에 넘어졌다. 오른쪽 사진은 휘발유에 불이 붙어 타오르는 모습. 당시 시민들과 기관사가 소화기로 불을 진압해 인명 피해는 없었다. 서울남부지검은 25일 객실에 불을 지른 원모(67)씨를 살인 미수 등 혐의로 구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“노조 회계 공시 철회” 압박 나선 양대 노총</title>
+      <link>https://www.chosun.com/national/labor/2025/06/26/RBRF4WAMTZDNZH3QN5S7YJRG5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/26/RBRF4WAMTZDNZH3QN5S7YJRG5M/</guid>
+      <dc:creator>김아사 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:23:11 +0000</pubDate>
+      <content:encoded>민주노총과 한국노총은 25일 윤석열 정부가 노조 재정의 투명성을 위해 만든 ‘노조 회계공시 제도’를 전면 철회하라고 주장했다. 민노총 위원장 출신인 김영훈 고용노동부 장관 후보자는 이날 이들의 요구가 나온 직후 “노동계가 반발하는 이유가 있을 것인데 잘 살펴보겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;양대 노총은 이날 서울 용산 대통령실 앞에서 기자 회견을 열어 “윤석열 정부 시절 노동을 짓밟은 위법한 시행령과 행정지침을 만든 걸 원상회복하라”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;이들은 노조 회계공시 제도를 지목하며 “조세 행정을 빙자해 과도하게 노조 내부 운영에 관여하는 것”이라고 주장했다. 윤석열 정부가 도입한 이 제도는 노조가 회계공시를 해야 조합원이 낸 조합비의 15%에 대해 세액공제 혜택을 받을 수 있게 했다. 그동안 노조의 자금 운영이 불투명하다는 지적에 따른 것이었다.&lt;br&gt;&lt;br&gt;노동계 안팎에선 이를 두고 양대 노총이 정부에 청구서를 들이민 것이라고 했다. 노조의 살림살이를 드러내는 회계공시는 양대 노총의 불만이 큰 제도다. 한 노동계 관계자는 “양대 노총이 대선 승리에 일조한 몫을 요구하는 것 같다”며 “앞으로 입법 과정에서 노총 목소리가 더 커질 것”이라고 했다. 실제 양경수 민노총 위원장은 이날 “이재명 정부가 시행령과 행정지침을 바로잡는지 아닌지는 노동을 존중하고 노동자를 동반자로 여기는지를 가늠하는 시금석이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러나 양대 노총의 요구는 이재명 대통령의 공약과 상충하는 측면이 있다. 이 대통령은 사회 전반의 투명성 제고를 위한 회계 제도 재정비를 약속하면서 기업회계·비영리회계를 총괄하는 ‘회계기본법’을 제정하겠다고 공약했기 때문이다. 기업 회계는 투명하게 하라면서 노조 회계는 투명성을 저하시켜 과거로 되돌리는 것은 공약 취지에 맞지 않다는 것이다.&lt;br&gt;&lt;br&gt;양대 노총은 이날 노조 국고보조금 중단, 집회소음 규제 강화, 특별연장근로 인가제도 확대, 정부위원회 양대 노총 배제 등도 윤석열 정부의 노조 탄압으로 꼽으며 이를 원상회복하라고 요구했다. &lt;br&gt;&lt;br&gt;한편 한국노총, 민노총, 참여연대 등 300여개 단체가 참여하는 공적연금강화국민행동은 이날 국정기획위원회 앞에서 기자 회견을 열어 국민연금을 통한 노후 보장액을 더 올리라고 요구했다. 이들은 “연금개혁으로 소득 대체율(받는 돈)이 43%로 인상됐지만 여전히 낮다”며 “소득 대체율을 50%까지 인상해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[서초동 25시] “청탁하면 형 낮춰줄 줄 알았나” 법정서 호통친 판사</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/NMTQHHKAGNCMHETESIJMXWMBDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/NMTQHHKAGNCMHETESIJMXWMBDM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:22:48 +0000</pubDate>
+      <content:encoded>지난 11일 오전 광주지법 402호 법정. 선고를 앞두고 판사가 피고인 김모씨에게 “내게 ‘잘 봐달라’고 재판 청탁한 사람이 누구냐”고 물었다. 김씨는 당황하며 “그런 사실이 없다”며 잡아뗐다. 판사가 꾸짖으며 추궁하자 고개를 숙이며 “친한 형님이 판사님 지인에게 연락한 것 같다”고 털어놨다. 불법 도박장을 운영한 혐의로 재판정에 선 김씨는 이날 징역 1년 6개월에 약 5억원의 추징금을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;재판 청탁을 법정에서 공개한 장찬수(56·사법연수원 32기) 광주지법 부장판사는 25일 본지에 “법정에서 말하지 않았으면 김씨는 ‘청탁이 통해서 낮은 형량을 받았다’고 믿었을 것이다. 이런 일이 반복되면 사법 불신이 생긴다”며 “‘재판은 공정하다’는 사실을 일깨워 주고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;장 부장판사가 청탁 전화를 받은 건 이 사건 결심 공판 후인 지난달 말이었다. 장 부장판사는 “오랜 지인에게 전화가 와서 ‘김씨를 선처해달라’고 했다”며 “청탁금지법이 생긴 후 이런 로비는 사라진 줄 알았는데 곤혹스럽고 놀랐다”고 했다. 그는 “돈봉투 같은 걸 들고 왔다면 내게 뺨을 맞았을 거다. 당시엔 상대방이 곤란할까 봐 별말 없이 넘겼다”고 했다.&lt;br&gt;&lt;br&gt;피고인 김씨가 법정에서 “아는 형님에게 사정을 하소연했는데, 그 형님이 판사님 지인과 연이 있어 알아서 부탁해준 것 같다”고 변명한 데 대해선 “누가 요구하지도 않는데 재판 청탁을 하느냐. 삼척동자도 알 거짓말”이라고 했다. 이어 장 부장판사는 “판결문은 이미 써뒀기 때문에 김씨의 형량 등은 달라질 게 없었다”고 했다. &lt;br&gt;&lt;br&gt;장 부장판사는 “여전히 청탁이 통한다고 생각하는 국민들이 많고, 로비의 효과가 있는 것처럼 의뢰인을 속이는 법조 브로커도 많다”며 “전관이나 판사의 동기·동문 변호사를 찾는 것도 ‘선고에 영향이 있지 않을까’ 하는 인식 때문이다. 사법 불신이 사회 전반에 남아있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “법조 비리 단속도 중요하지만, 판사들 스스로가 ‘신독(愼獨·홀로 있을 때 더욱 조심함)’하는 자세를 갖추는 게 더 중요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>스타벅스 7년 만에… 플라스틱 빨대 재도입</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/26/FEUMWWXTHZGMJNXKOHNP5PVZTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/26/FEUMWWXTHZGMJNXKOHNP5PVZTA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:22:21 +0000</pubDate>
+      <content:encoded>스타벅스가 7년 만에 플라스틱 빨대를 다시 도입했다.&lt;br&gt;&lt;br&gt;스타벅스코리아는 전국 200여 매장에서 종이 빨대와 플라스틱 빨대를 함께 사용한다고 25일 밝혔다. 스타벅스코리아 측은 “종이 빨대에 대한 고객 불편을 해소하고 고객 편의성을 높이기 위해 식물성 원료를 소재로 한 플라스틱 빨대를 다시 도입했다”고 밝혔다.&lt;br&gt;&lt;br&gt;스타벅스는 지난 2018년 일회용 플라스틱 빨대가 환경오염을 유발한다는 이유로 국내 최초로 종이 빨대를 전면 도입했다. 하지만 소비자들이 “금방 눅눅해져 불편하다”고 불만을 터뜨렸다. 환경 보호를 위해 도입한 종이 빨대가 재활용되지 않고 일반 쓰레기로 버려지면서 ‘친환경이 맞느냐’는 논란도 이어졌다. 환경부는 2022년 11월부터 카페·식당에서 플라스틱 빨대 사용을 전면 금지하고 위반하면 과태료를 부과한다는 방침이었지만, 종이 빨대에 대한 논란이 계속되자 계도 기간을 무기한 연장한 상태다. 일본 스타벅스도 올해 종이 빨대에서 플라스틱 빨대로 돌아갔다. &lt;br&gt;&lt;br&gt;스타벅스코리아는 우선 200여 매장에서 플라스틱 빨대에 대한 고객 반응을 살핀 뒤 전체 2000여 매장에 확대 여부를 결정할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>벼랑 끝 몰린 김건희… 두 특검 모두 “소환 불응하면 체포영장”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/I3LAPLONQVAXLL222UOMXQ3L4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/I3LAPLONQVAXLL222UOMXQ3L4E/</guid>
+      <dc:creator>이민준 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:18:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PZO3SNXV3UBEKRLJ26ARA6RF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 서울 서초구 서초동 자택 앞에서 지지자들과 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 수사 외압 사건을 맡은 이명현 특별검사는 임성근 전 해병대 1사단장의 구명 로비 의혹을 받는 김건희 여사에 대해 “소환에 불응하면 체포영장을 청구하겠다”고 25일 밝혔다. 같은 날 도이치모터스 주가조작 의혹 등 김 여사 관련 의혹을 수사하는 민중기 특별검사도 김 여사에 대한 체포영장 청구 가능성을 밝혔다.&lt;br&gt;&lt;br&gt;김 여사는 ‘고(故) 채수근 상병 순직’ 사건에서 업무상 과실치사 혐의를 받은 임 전 사단장으로부터 구명 로비를 받았다는 의혹을 받고 있다. 앞서 임 전 사단장은 해병대 출신들이 모인 소셜미디어 단체 채팅방에 참여하던 ‘도이치모터스 주가조작’ 공범 이모씨를 통해 청탁한 정황이 드러났고, 이 때문에 이씨를 통해 김 여사에게 로비를 했다는 의혹이 불거졌다. 결과적으로 이 특검이 수사할 윤석열 전 대통령의 수사 외압 의혹 배경에 ‘김 여사 구명 로비’가 있는 것 아니냐는 것이다.&lt;br&gt;&lt;br&gt;이 특검은 이날 기자들을 만나 “구명 로비 의혹과 관련해 김 여사를 소환할 것이냐”는 질문에 “필요성이 있다면 해야 한다”고 답했다. “소환에 불응한다면 어떻게 대응할 것인가”라는 질문에는 “원칙적으로는 체포영장을 청구하는 것이 맞는다”고 했다.&lt;br&gt;&lt;br&gt;앞서 도이치모터스 주가조작, 명태균 공천 개입 의혹 등을 수사하는 민 특검도 지난 16일 “김 여사 대면 조사가 이뤄지리라 생각한다”고 밝힌 바 있다. 당시 김 여사는 검찰의 소환 통보를 받고도 우울증이 심해졌다며 서울아산병원에 입원했다. 민 특검은 이날 김 여사의 체포영장 청구 여부에 대해 “논의해서 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;법조계에선 “김 여사가 검찰 조사를 피한 탓에 벼랑 끝으로 몰린 것”이라는 반응이 나왔다. 김 여사는 명태균 수사팀의 출석 요구에 세 차례 불응했고, 도이치모터스 주가조작 재수사팀 출석 요구도 한 차례 불응했다. 차장검사 출신 변호사는 “체포영장 청구 조건이 갖춰진 만큼, 두 특검은 수사 개시와 함께 김 여사 신병부터 확보하려고 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 여사는 특검 조사에는 응하겠다는 입장인 것으로 전해졌다. 조사에 대비해 변호인단을 4명까지 늘리는 방안을 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4PZO3SNXV3UBEKRLJ26ARA6RF4.jpg?auth=c321f8896b0dce55994ea800dc5f1fc84e415fd4a5f20acd77fb855d90ec0e45&amp;smart=true&amp;width=1536&amp;height=1228" type="image/jpeg" height="1228" width="1536">
+        <media:description type="plain">윤석열 전 대통령 부인 김건희 여사가 서울 서초구 서초동 자택 앞에서 지지자들과 인사를 나누고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>내란 특검팀이 서울고검 청사에 입주한 까닭은…</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/UTGMMVTUVNB7XA2GJIJPCQ2D6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/UTGMMVTUVNB7XA2GJIJPCQ2D6Q/</guid>
+      <dc:creator>방극렬 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:17:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7M6B3KWRGU6V4NN5YAVGYCL4JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12.3 내란 및 외환 혐의 등을 수사하는 내란 특검팀 박지영 특검보가 24일 오후 서울 서초구 서울고검 기자실에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최대 267명으로 구성될 조은석 내란 특검팀은 서울 서초동 서울고검 청사에 사무실을 마련했다. 김건희 특검과 해병대원 특검이 서울 시내 상업용 건물에 입주한 것과 달리 관공서 건물에 수사 본부를 꾸린 것이다. 조 특검이 다른 특검과 달리 서울고검 청사를 사무실로 쓰기로 한 배경을 두고 윤석열 정부의 무인기(드론) 북한 침투 작전 등 수사를 염두에 뒀기 때문이란 말이 나온다. 한국군의 무인기 전력이나 작전 등 민감한 군사상 보안 사항을 수사하는 과정에서 혹시 있을지 모를 외국의 기밀 수집 작전에 대비하려는 것 같다는 얘기다. &lt;br&gt;&lt;br&gt;내란 특검팀은 윤석열 전 대통령의 내란·외환 혐의 등과 관련한 11가지 사건을 수사한다. 수사 대상엔 무인기를 평양으로 보내거나 오물 풍선을 타격해 북한 도발을 유도하고 전쟁을 일으키려 했는지도 포함돼 있다. 군 통수권자였던 윤 전 대통령과 김용현 전 국방부 장관, 문상호·노상원 등 전직 정보사령관 등을 비롯해 전현직 군 주요 장교들이 서울고검 청사에서 특검 수사를 받게 될 전망이다. 이처럼 민감한 군사 정보와 관련한 신문과 진술이 오가는 과정에서 적성국들의 스파이 작전이 벌어질 수도 있다고 조 특검은 우려한 것으로 알려졌다. 법조계 관계자는 “조 특검이 감사원 감사위원 시절 국방 관련 감사 사안을 다뤄본 것도 보안의 중요성을 강조하는 배경”이라고 했다.&lt;br&gt;&lt;br&gt;내란 특검팀은 러시아·우크라이나 전쟁을 통해 드론의 전략적 가치가 커진 점도 고려한 것으로 알려졌다. 북한과 중국 등 주변국이 러·우 전쟁을 계기로 드론 관련 군사상 첩보 수집을 확대할 가능성을 특검이 유의하고 있다는 얘기도 나온다. 실제로 북한은 2022년 12월 군용 드론 5대를 서울 등 수도권 일대에 투입한 적이 있다. 서울고검 청사는 국방부 훈령에 따라 국가 중요 시설로 분류되고, 사전 승인 없이는 드론 비행이 불가능해 보안 관리 측면에서 상업용 건물보다 낫다. 조 특검이 서울고검장을 지내 청사 구조에 익숙한 점도 고려된 것으로 알려졌다. 내란 특검팀은 보안 강화를 위해 청사 내 사무실에 별도 통신망 등을 설치 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7M6B3KWRGU6V4NN5YAVGYCL4JE.jpg?auth=4f286556d4df024a1871bb7b0810e34d3b4a08ff085b18d388cc3a28943fc7fa&amp;smart=true&amp;width=1334&amp;height=1018" type="image/jpeg" height="1018" width="1334">
+        <media:description type="plain">윤석열 전 대통령의 12.3 내란 및 외환 혐의 등을 수사하는 내란 특검팀 박지영 특검보가 24일 오후 서울 서초구 서울고검 기자실에서 브리핑을 하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 노선웅 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>소환 없이 영장 청구했다 기각… 특검 “尹 28일 출석하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/72B4RZD64BBKLNC4YF52ZXHBAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/72B4RZD64BBKLNC4YF52ZXHBAY/</guid>
+      <dc:creator>김희래 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 16:17:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJDAOPRSUE55DRZRPHYD6NEVW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀과 윤석열 전 대통령 측이 ‘체포 영장’을 놓고 치열한 수싸움을 벌인 끝에, 윤 전 대통령이 일단 1승을 거뒀다. &lt;br&gt;&lt;br&gt;내란 특검팀은 최근 수사 개시와 함께 윤 전 대통령에 대해 출국 금지 조치에 이어 24일 체포 영장까지 청구했다. 그러나 법원은 25일 “특검의 출석 요구에는 응할 계획이었는데, 소환 통보 한번 없이 영장을 청구한 것은 부당하다”는 윤 전 대통령 측 주장을 받아들여 체포 영장을 기각했다. 내란 특검팀 관계자는 “윤 전 대통령 측에 오는 28일 오전 9시 출석해 조사받으라고 통지했다. 소환에 불응하면 체포 영장 청구를 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;체포 영장 기각 직후 윤 전 대통령 측은 “특검 수사가 법률의 테두리 안에서 공정하게 이뤄지길 촉구한다”며 “윤 전 대통령은 특검 소환 요청에 당당히 응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53Y7OEWPCJFO7GEV4CGJTLHOWM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇치열한 체포 영장 수싸움, 조은석 1패&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검은 지난 24일 윤 전 대통령에 대한 체포 영장을 청구하며 “(윤 전 대통령은) 지난 5일과 12일 경찰의 출석 요구에 불응하고, 특검의 수사 개시 이후인 19일에도 경찰의 출석 요구에 불응했다”면서 “이는 특검 소환에도 응하지 않겠다는 뜻을 명확하게 밝힌 것”이라고 했다. 별도의 출석 요구 없이 체포 영장을 청구한 이유를 이렇게 밝힌 것이다.&lt;br&gt;&lt;br&gt;이에 윤 전 대통령 측은 “특검과 경찰은 명백히 별개의 수사기관으로 경찰 단계의 출석 요구를 원용해 체포 영장을 청구한 것은 타당하지 않다”며 “특검 소환에는 응할 계획이었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZ2FSICH5RGG3CQJD73MNJYPR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 두고 법조계에선 “특수통 검사 출신인 두 사람의 수싸움이 본격화됐다”는 말이 나왔다. 윤 전 대통령 측에 대해선 현행법상 체포 영장 청구 요건을 흔들어, 법원이 영장을 기각하도록 유도했다는 평가가 나왔다. 법조계 한 인사는 “줄곧 경찰 수사가 불법이라고 주장해 오던 윤 전 대통령 측이 특검 수사는 받을 계획이었다고 밝혔으니, 소환 한번 하지 않은 특검 입장이 난처해졌을 것”이라고 했다. &lt;br&gt;&lt;br&gt;반면 조 특검에 대해 “윤 전 대통령 측 대응까지 고려한 수를 둔 것”이라는 분석도 나왔다. 고법 부장 출신 한 변호사는 “조 특검이 이례적으로 영장 청구 사실을 공개한 것은 ‘소환 조사에 응하려고 했다’는 윤 전 대통령 측 주장의 신빙성을 흔들기 위한 것으로 보인다”고 했다. 하지만 결과는 조 특검 1패다. 법원이 성급한 조 특검의 영장 청구를 기각한 것이다. 다만 윤 전 대통령 측이 특검 조사에 응하겠다는 입장을 밝힌 만큼, 조 특검이 소기의 성과를 거뒀다는 평도 나온다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇출국 금지 이어 체포 영장, 무리수였나&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검이 체포 영장 청구까지 몰아붙인 나름의 이유가 있었다고 한다. 지난 23일 윤 전 대통령 측이 내란 재판에서 “특검법은 특정 정치 세력이 주도해 위헌적이다. 헌법재판소에 법률적 문제를 제기하겠다”는 입장을 밝혔기 때문이다.&lt;br&gt;&lt;br&gt;특검팀 내부에선 “특검 자체를 인정할 수 없다는 것 아니냐” “경찰 조사도 불응하는데 특검 조사에 응하겠느냐” 등의 반응이 나왔다고 한다. ‘특검법 위헌’까지 주장하고 나오니, 출석 요구를 해도 불응할 것이라고 판단했고, 위헌법률심판 제청 신청 등으로 ‘버티기’에 나설 가능성을 사전에 차단해야 한다는 공감대가 형성된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;하지만 이날 윤 전 대통령에 대한 체포 영장이 기각되자, 법조계에선 “의욕이 앞선 조 특검의 무리수였다”는 평가가 나왔다. 법조계 한 관계자는 “윤 전 대통령의 경우 조사에 응하겠다는 의사만 밝혀도 체포 영장을 발부하기가 쉽지 않다”며 “수사도 상당 부분 진행돼 있고, 도주 및 증거 인멸 우려도 크지 않은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇’외환죄’ 수사 의지 드러낸 조 특검&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검은 28일 윤 전 대통령에 대한 첫 조사를 진행할 계획이다. 윤 전 대통령을 비롯해 지난 정부·군 관계자들이 작년 10월 평양에 국군 무인기를 침투시켜 북한 도발을 유도하고 계엄 상황을 만들려 했다는 외환 혐의 수사에 집중할 것으로 보인다.&lt;br&gt;&lt;br&gt;형법상 외환죄는 외국과 모의해 우리나라에 위해를 가하는 중범죄로, 윤 전 대통령 등이 북한과 군사 도발을 모의했다는 점을 입증해야 한다. 조 특검은 평소 주변에서 “북한과 우리 정부가 모의했을 가능성이 낮지 않으냐. 모의를 했더라도 입증할 수 있겠느냐”는 의문에 대해 “그건 수사해 봐야 아는 것 아니냐”고 답한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PJDAOPRSUE55DRZRPHYD6NEVW4.jpg?auth=a8ddb8949f1487f7b22e3e03e19a5a1fdc28422b94ec048bc661eb5c8d8f07f1&amp;smart=true&amp;width=3872&amp;height=3072" type="image/jpeg" height="3072" width="3872">
+        <media:description type="plain">윤석열 전 대통령이 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, 특검이 청구한 尹 체포영장 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/BFOF4B446FFJRJAYQUH2JAASEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/BFOF4B446FFJRJAYQUH2JAASEI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:52:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/673HKOGWN3HET6PDTVCEKTSOUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀이 윤석열 전 대통령에 대해 공무 집행 방해 등 혐의로 청구한 체포 영장이 25일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;특검팀 관계자는 이날 “법원은 윤 전 대통령이 특검의 출석 요구에 응할 것을 밝히고 있다는 이유로 특검이 청구한 체포 영장을 기각했다”고 밝혔다. 특검팀은 윤 전 대통령 측에 오는 28일 오전 9시 출석하라고 통지했다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 출석 요구 없이 윤 전 대통령의 체포 영장을 청구했다. 이에 윤 전 대통령 측은 “특검의 출석 요구에 응할 계획이었는데, 특검이 소환 통지 절차를 생략한 채 위법하게 영장을 청구했다”고 주장했고, 법원은 이를 받아들였다.&lt;br&gt;&lt;br&gt;한편, 법원은 이날 밤 조 특검팀이 공무 집행 방해 등 혐의로 김용현 전 국방 장관을 추가 기소하며 요청한 구속 영장을 1심 구속 만기 3시간 전 발부했다. 사유는 “증거 인멸 염려가 있다”는 것이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“2032년부터는 해마다 1년 이상 기대수명 늘어나”</title>
+      <link>https://www.chosun.com/national/people/2025/06/26/IWBNITN6YNAZRCDAMKAGVDSFFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/26/IWBNITN6YNAZRCDAMKAGVDSFFE/</guid>
+      <dc:creator>남정미 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:35:00 +0000</pubDate>
+      <content:encoded>“2032년까지 영양과 건강 관리에 부지런한 사람들은 ‘수명 탈출 속도(Longevity Escape Velocity)’에 도달할 것이다.”&lt;br&gt;&lt;br&gt;자신의 저서를 통해 물리학 용어인 ‘특이점(Singularity)’을 대중적으로 정착시킨 미래학자이자 자신의 이름과 같은 디지털 피아노 브랜드를 만든 발명가인 레이 커즈와일(77)이 건강에 관한 새로운 패러다임을 제시했다. 인간의 기대수명 증가 속도가 평균수명의 증가 속도를 앞지르는 이른바 ‘수명 탈출 속도(LEV·키워드)’를 통해서다. 이 같은 주장을 담은 ‘The Singularity Is Nearer’(2024)를 최근 국내 출간(‘마침내 특이점이 시작된다’·비즈니스북스)한 커즈와일을 24일 서면으로 인터뷰했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N46NWPZ5MNFJVFGUKMODPUZ6GU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 텍사스 오스틴에서 매년 개최되는 세계적 융복합 콘퍼런스인 사우스 바이 사우스 웨스트(SXSW)에서 레이 커즈와일이 발언하고 있다.
+/게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;커즈와일은 “AI(인공지능)의 계산 능력이 기하급수적으로 증가함에 따라 미토콘드리아·엽록체 같은 세포 소기관, 세포, 조직, 장기, 그리고 궁극적으로는 전신을 포함한 모든 생명 활동을 모델링할 수 있게 될 것”이라며 “이에 따라 각 개인의 유전 코드에 맞춰 정밀하고 효율적이며 매우 효과적인 의료 치료법을 빠르게 찾아낼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;커즈와일은 2029년이면 기계가 인간 수준의 지능에 도달하고(AI의 튜링 테스트 통과), 2045년엔 인간과 기계가 완전히 융합되는 ‘특이점’이 올 것이며, 그 이전인 2030년대에 수명 탈출 속도에 도달할 것이라고 예언했다. &lt;br&gt;&lt;br&gt;그는 “‘수명 탈출 속도’에 한 번 도달하면 이후론 살아가는 해마다 기대수명이 1년 이상씩 늘어나게 되므로, 건강 측면에선 마치 시간이 거꾸로 가는 것과 같다”며 “이것이 영원히 살 수 있다는 보장은 아니지만, 나이가 들어도 사망 위험이 더 이상 증가하지 않는다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;이를 가능하게 하는 핵심 기술 중 하나는 분자 크기의 ‘나노봇’이다. “AI에 의해 구동되는 이 작은 기계들은 모든 종류의 병원체를 파괴하도록 프로그래밍할 수 있다. 또 모세혈관을 통해 비침습적으로 우리 뇌로 들어가 만성 스트레스 같은 정신적 분야의 질환 해소에도 도움을 줄 수 있다.”&lt;br&gt;&lt;br&gt;그는 ‘영생이 축복이 아니라고 생각하는 사람도 있다’는 질문에 “우리는 죽음이 좋은 것이고 삶에 의미를 부여한다고 스스로를 설득해 왔지만, 현실에서 죽음은 지금까지 우리가 쌓아온 관계와 지식, 지혜를 빼앗아 간다”고 했다.&lt;br&gt;&lt;br&gt;‘기술 발달에 지나치게 낙관적’이라는 비판에 대해선 “휴대폰이 처음 나왔을 땐 이를 안 쓰려는 사람도 많았지만, 오늘날 우리는 휴대폰 없이는 집을 나서지도 않는다”면서 “이미 우리는 소리를 듣기 위한 인공와우, 심장 박동을 조절하는 심박 조율기, 이동성을 회복하고 통증을 완화하는 인공 관절을 가지고 있죠. 이러한 것들이 우리를 덜 인간적으로 만들고 있나요”라고 되물었다.&lt;br&gt;&lt;br&gt;본인 스스로도 매일 약 80가지 영양제와 약을 먹으며 장수에 힘쓴다. “가능한 한 오래 건강을 유지해 ‘수명 탈출 속도’에 도달하는 게 내 목표”라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞수명 탈출 속도(LEV)&lt;/b&gt;&lt;br&gt;&lt;br&gt;기대수명 증가 속도가 평균수명 증가 속도를 추월하는 시점. 인간의 기대수명이 매년 1년 이상 증가해, 사는 만큼 해마다 수명이 더 늘어난다. 우주선이 지구 중력에서 벗어나는 순간인 ‘탈출 속도’처럼 노화라는 중력을 벗어나는 속도를 뜻한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>95세 권노갑, 125야드 거리서 ‘샷 이글’</title>
+      <link>https://www.chosun.com/politics/2025/06/26/UJLLMIT2UVDOVKMUDFRABMOPOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/2025/06/26/UJLLMIT2UVDOVKMUDFRABMOPOE/</guid>
+      <dc:creator>김정환 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:35:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYEUJYRYV5A7PPQD5S7IF6GIGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권노갑 김대중재단 이사장이 지난 24일 샷 이글을 치고 골프장 측으로부터 기념 증서를 받고 있다./권노갑 이사장 측 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상수(上壽·100세)를 바라보는 권노갑(95) 김대중재단 이사장이 ‘샷 이글’을 했다. 권 이사장은 동교동계 맏형이자 여권의 원로다.&lt;br&gt;&lt;br&gt;권 이사장은 지난 24일 경기 군포시 안양컨트리클럽에서 정·재계 인사들과 시니어티(6082야드)에서 정기 라운드에 나섰다. 권 이사장은 첫 홀부터 파를 기록했고, 15번 홀(파 4)에서 약 125야드(114m) 거리를 남기고 친 두 번째 샷을 그대로 홀에 넣었다. &lt;br&gt;&lt;br&gt;권 이사장은 이날 버디 5개, 이글 1개, 보기 2개를 묶어 2언더파 70타를 기록했다. 자신의 역대 최저 타 기록이었다. 권 이사장은 “샷 이글을 한 것도, 70타를 기록한 것도 그날이 처음”이라며 “당시 공이 워낙 잘 맞아 4개 홀에서 홀인원도 기록할 뻔했다”고 전했다.&lt;br&gt;&lt;br&gt;1930년생인 권 이사장은 젊은 시절 권투, 농구, 야구, 유도 등을 하는 등 운동 마니아였다. 골프는 정치 활동을 하느라 1990년대 초 60세가 넘어서야 입문했다. 이후 골프는 즐겨 쳤지만, 골프 실력이 크게 늘지 않았다. 그런데 90세 넘어 캐디의 조언으로 폼을 바꿨고, 200m 드라이버샷을 치는 등 실력이 일취월장했다. &lt;br&gt;&lt;br&gt;권 이사장은 학업 열정도 남다르다. 그는 83세였던 2013년에 ‘존 F. 케네디의 연설문에 나타난 정치 사상 연구’를 주제로 한 논문으로 국내 최고령 석사 학위를 받았다. 2023년엔 93세 나이로 한국외대에서 영문학 ‘국내 최고령 박사’에 도전했다. 이번 학기에 박사과정 수료를 했고, 이제 시험을 치고 논문만 쓰면 박사 학위를 받게 된다.&lt;br&gt;&lt;br&gt;권 이사장은 1960년대부터 김대중 전 대통령을 가까이에서 보필했고, 13·14·15대 국회의원을 지냈다. 현재 민주당 상임고문, 김대중노벨평화상기념사업회 명예이사장, 민주화추진협의회 이사장 등을 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 한국정보통신법학회 창립 세미나 개최</title>
+      <link>https://www.chosun.com/national/people/2025/06/26/C65VGZP2HZA5PCYCTBW7TQS73Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/26/C65VGZP2HZA5PCYCTBW7TQS73Q/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:35:00 +0000</pubDate>
+      <content:encoded>한국정보통신법학회(회장 이성엽)는 26일 서울 웨스틴 조선 호텔에서 ‘정보통신법의 현재와 미래’를 주제로 창립 세미나를 개최한다. 통신·방송·데이터·인공지능 등 정보통신기술(ICT)법 분야 전체를 아우르는 법이론 연구 단체다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“韓 찾아 함께 싸운 전우들 기리고파” 70여년 만에 소원 이룬 100세 참전용사</title>
+      <link>https://www.chosun.com/national/people/2025/06/26/3Q5ALATJKJCGTEMQFXEIHJN3TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/26/3Q5ALATJKJCGTEMQFXEIHJN3TM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:35:00 +0000</pubDate>
+      <content:encoded>“젊은 시절 전장(戰場)에서 나눴던 기도 덕에 내가 이렇게 오래 살 수 있었나 봅니다. 전우들의 영원한 평화를 빕니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCYOBECJKNBK7P2DO7OVLUJ7EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6·25전쟁 참전 용사 트라훈 테세마 감매(에티오피아·왼쪽)씨가 25일 서울 용산구 전쟁기념관에서 기념 촬영을 하고 있다. 에티오피아 국기 앞에서 경례하는 모습이다. 올해 100세인 그는 전쟁 75주년을 맞아 다시 대한민국 땅을 밟았다.
+/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 11시 40분쯤 서울 용산구 전쟁기념관. 휠체어에 탄 황토색 장교복 차림의 &lt;b&gt;트라훈 테세마 감매&lt;/b&gt;씨가 에티오피아 전사자비 앞에 멈춰 섰다. 비석에 새겨진 6·25 전쟁 에티오피아 전사자 122명의 이름을 물끄러미 바라보던 감매씨는 모자를 벗고 고개를 숙였다. 감매씨는 “죽기 전 꼭 한번 한국을 찾아 함께 싸웠던 전우들을 기리고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;감매씨는 1951년 5월 처음으로 한국 땅을 밟았다. 100세 노병(老兵) 감매씨는 당시 26세 청년이었다. 유엔군이 서울을 빼앗겼다 다시 찾은 지 2개월째를 맞아 전쟁은 치열해졌다. 감매씨는 에티오피아 ‘캉뉴(Kagnew·초전박살) 부대' 소속으로 파병돼 강원 양구·화천·철원 등 험준한 산악 지대를 누비며 작전을 수행했다. 캉뉴 부대는 하일레 셀라시에 에티오피아 황제의 친위 부대였다. 전투력도 황제의 근위대답게 강했다. 에티오피아군 3518명은 6·25 때 치른 253번의 전투에서 전승(全勝)했다. 그 과정에서 122명이 전사하고 536명이 다쳤다. 감매씨는 말했다. “남의 나라를 위해 싸운다고 몸을 사린 적은 단 한 번도 없었습니다. 그저 ‘오늘도 반드시 이긴다’는 생각으로 성실히 싸웠고, 죽음이 두려운 적도 없었습니다.”&lt;br&gt;&lt;br&gt;1952년 고국으로 돌아간 감매씨는 에티오피아 역사의 격랑에 휩쓸렸다. 감매씨는 “1960년 발생한 쿠데타에 내가 소속됐던 황제의 친위 부대가 해산됐다”고 했다. 감매씨는 군을 떠나야 했다. 이후 그는 에티오피아 주재 미국 대사관에서 경비 업무를 보다가 요리를 배워 평생을 호텔에서 요리사로 일했다. &lt;br&gt;&lt;br&gt;감매씨는 쿠데타로 부대가 해산되면서 군인 출신임을 당당히 드러낼 수도 없었다고 한다. 1974년 또 한 번의 쿠데타로 에티오피아 군주정이 무너지고 사회주의 정권이 들어서자 군인들은 고문을 당하고 감옥에 가거나 처형됐고, 재산은 몰수됐다. 우방이자 동맹국인 북한과 싸웠다는 이유로 연금도 받지 못한 참전 용사가 많다고 한다.&lt;br&gt;&lt;br&gt;올해 100세가 된 감매씨 소원은 한국을 다시 찾는 일이었다. 그는 “지난날을 떠올릴 때마다 내 젊음을 바친 한국과 전장에서 죽었던 전우들이 눈에 밟혔다”고 했다. 그는 “세월이 너무 많이 흘러 전투를 벌였던 지역의 이름조차 기억이 나지 않지만, 상체만 한 큰 총을 들고 싸웠던 일과 죽은 전우의 시체를 내 손으로 직접 옮겼던 일은 영화 속의 한 장면처럼 마음속에 남아 있다”고 했다.&lt;br&gt;&lt;br&gt;감매씨 방한은 한국전쟁참전국기념사업회(회장 신광철)와 경북 포항 양포교회의 노력으로 성사됐다. 하옥선 한국전쟁참전국기념사업회 에티오피아 지부장은 “지난달 23일 열린 100세 기념 생일 잔치에서 (감매씨가) ‘한국에 꼭 방문하고 싶다’는 의사를 밝혀 양포교회 측과 연결했다”고 했다. 양포교회는 매년 6월 6·25 전쟁과 베트남 전쟁 참전 용사를 초대해 기념 예배를 진행한다. 지난 19일 입국한 감매씨는 포항·대구·경주 등을 여행했다. 출국을 위해 공항으로 떠나는 길, 그는 오른손을 들어 경례하며 말했다. “허허벌판이던 한국에 이렇게 드높은 건물이 들어서고 활기찬 분위기를 뿜어내는 걸 두 눈으로 보니 기쁩니다. 살아있는 날 동안은 늘 한국을 위해 기도하고, 세상을 떠나면 하늘에서도 한국을 지키겠습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 강진수 前 데일리줌 부사장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/06/26/R3V4BPZVAZCCBA3LD7OWCPFT5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/26/R3V4BPZVAZCCBA3LD7OWCPFT5I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:35:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강진수&lt;/b&gt; 前 데일리줌 부사장 별세, &lt;b&gt;권정희&lt;/b&gt; 남편상, &lt;b&gt;강경아&lt;/b&gt; 제인디엠씨코리아 총괄이사·&lt;b&gt;강경희&lt;/b&gt;·&lt;b&gt;강승현&lt;/b&gt; 부친상, &lt;b&gt;윤선철&lt;/b&gt; 삼성SDS 물류사업부 차장·&lt;b&gt;나승민&lt;/b&gt; 포스코홀딩스 상무 장인상, &lt;b&gt;나조아&lt;/b&gt; 외조부상=23일18시45분 삼성서울병원, 발인 27일7시30분, (02)3410-6903&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김규헌&lt;/b&gt; 前 서울중앙지검 강력부장 별세, &lt;b&gt;김도윤&lt;/b&gt;·&lt;b&gt;김희윤&lt;/b&gt; 부친상, &lt;b&gt;권혁승&lt;/b&gt; 시부상=24일12시47분 서울아산병원, 발인 26일8시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박성득&lt;/b&gt; 前 정보통신부 차관 별세, &lt;b&gt;박세호&lt;/b&gt;·&lt;b&gt;박상호&lt;/b&gt; KT AX사업기획팀 부장 부친상=24일13시43분 이대목동병원, 발인 27일8시, (02)2650-5121&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정순남&lt;/b&gt; 별세, &lt;b&gt;조대현&lt;/b&gt; 조선일보 CS거창센터 대표 모친상=25일6시42분 경기 평택 안중장례문화센터, 발인 27일8시, (031)683-4440&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 한국사] 백제의 내우외환 시기… 소년 왕은 즉위 2년 만에 요절했죠</title>
+      <link>https://www.chosun.com/national/nie/2025/06/26/EAWIXIXI5ZA2FH7ETMZ5LYAL6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/26/EAWIXIXI5ZA2FH7ETMZ5LYAL6M/</guid>
+      <dc:creator>유석재 기자, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>국가유산청과 국립부여문화유산연구소가 백제 왕릉이 모여 있는 충남 공주의 왕릉원을 최근 재발굴한 결과, 2호분에 묻힌 임금이 만 14세에 죽은 ‘소년 임금’ 삼근왕(재위 477~479)일 가능성이 큰 것으로 나타났다는 뉴스가 나왔어요.&lt;br&gt;&lt;br&gt;무덤에서 나온 어금니 2점을 과학적으로 조사한 결과 10대 중후반의 것으로 드러났는데, 웅진 백제 시절 이 나이 무렵에 사망한 임금은 백제 23대 왕인 삼근왕뿐이었다는 거예요. 우리나라 고대 무덤 대부분은 도굴을 많이 당해 누가 묻혔는지 알기 어려운데, 백제 왕릉 중 주인이 밝혀진 곳은 공주 무령왕릉과 익산 쌍릉(무왕릉)에 이어 세 번째입니다. 그런데 ‘웅진 백제’란 무엇을 말하는 것일까요? 차근차근 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SY7LERKBVJHADB2C7Z5SDHXICA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;수도 한성 함락…남쪽으로 도읍 옮겨&lt;/b&gt;&lt;br&gt;&lt;br&gt;678년 동안 존속했던 백제에는 대략 세 곳의 수도가 있었습니다. 수도가 어디였는지에 따라서 세 시기로 구분하는데요. 한성(지금의 서울 송파구)에 도읍했던 시기를 ‘한성 백제’(기원전 18년~서기 475년), 웅진(충남 공주)에 있었던 시기를 ‘웅진 백제’(475~538), 사비(충남 부여)가 왕도였던 시기를 ‘사비 백제’(538~660)라고도 합니다. 지금도 옛 백제의 도시라고 하면 공주와 부여를 떠올리는 사람이 많죠.&lt;br&gt;&lt;br&gt;한성 백제는 13대 근초고왕(재위 346~375) 때 고구려를 비롯한 다른 나라를 압도할 정도로 전성기를 맞습니다. 그러나 21대 개로왕(재위 455~475)은 무리한 토목 공사를 벌여 국가 재정이 흔들렸고, 고구려 장수왕의 침공으로 한성(위례성)이 점령당하는 상황에 이르렀습니다. 개로왕은 도주하다가 고구려군에게 붙잡혀 살해당하고 맙니다.&lt;br&gt;&lt;br&gt;왕은 죽고 수도를 잃었을 뿐 아니라 한강 유역의 영토도 고구려에 빼앗겼습니다. 나라가 망할 지경의 큰 위기에 놓인 것이죠. 이때의 상황을 학계에서 ‘한성 백제의 멸망’이라 표현할 정도입니다. 최고 관직인 상좌평 자리에 있던 개로왕의 아들(동생이라는 설도 있음) 부여문주는 고구려가 침공했을 때 동맹국 신라에 파견돼 구원병을 얻어 돌아왔습니다. 그는 청천벽력 같은 소식에 좌절하지 않았고, 이미 점령당한 한성을 공격했습니다. 고구려군이 일단 한강 북쪽으로 물러난 뒤 부여문주는 22대 문주왕(재위 475~477)으로 즉위했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVM5LAWIOFFENBT6PNR5CFOFVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 공주 ‘무령왕릉과 왕릉원’은 ‘웅진 백제’ 시대 왕릉이 모여 있는 곳입니다. 왕릉원 1∼4호 무덤의 모습이에요.
+/국립부여문화유산연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;천도 4년 만에 임금 두 명이 잇달아 사망&lt;/b&gt;&lt;br&gt;&lt;br&gt;문주왕은 한 달 동안 고구려군과 대치했으나 이대로는 위험하다는 결론을 내렸습니다. 그래서 475년 10월 금강을 끼고 있어 방어에 유리한 남쪽의 웅진에 새로운 방어용 성곽을 짓고 천도(수도를 옮김)를 단행했습니다. ‘웅진 백제’가 시작된 것입니다. 문주왕은 나라의 커다란 위기를 극복하고 백제의 명맥을 이었다고 할 수 있습니다.&lt;br&gt;&lt;br&gt;하지만 웅진 백제는 초기부터 커다란 정치적 문제에 봉착하게 됩니다. 왕권이 크게 실추된 반면 대성팔족(大姓八族)이라고 불린 해(解)씨, 진(眞)씨, 목(木)씨 등 유력 가문이 득세했습니다. 고구려 장수왕은 한때 지금의 대전·세종시 일대까지 남진을 계속해 백제를 압박했습니다. 실로 내우외환(內憂外患)이라 할 만했습니다. 이런 상황에서 문주왕은 즉위 2년 만에 갑자기 죽었습니다. 사냥을 하러 궁성을 떠났다가 병관좌평(지금의 국방부 장관)인 귀족 해구의 사주를 받은 도적에게 목숨을 잃은 것입니다.&lt;br&gt;&lt;br&gt;백제 왕실은 다시 큰 위기에 빠지게 됐습니다. 문주왕의 아들인 삼근왕이 즉위했으나 겨우 만 12세였습니다. 삼근왕은 즉위 다음 해인 478년 다른 귀족인 진씨 세력의 힘을 빌려 해구를 공격해 죽였지만, 다음 해에 갑자기 사망했습니다. 어린 왕이 왜 죽었는지에 대한 기록은 없는데 학자들은 새로 권력을 잡은 진씨 세력의 정변이 있었던 것으로 추측합니다. 웅진으로 천도한 지 불과 4년 만에 두 왕이 죽었으니 백제의 정치적 상황은 몹시 불안했다고 할 수 있습니다. 게다가 삼근왕이 후사 없이 죽어 개로왕의 직계 왕통도 끊긴 셈이 됐습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MHGWOJNERHFFO3T5FNPXPRRW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공주 왕릉원 2호분에서 출토된 귀걸이(왼쪽 사진)와 어금니(오른쪽). 만 14세에 사망한 삼근왕의 어금니로 추정됩니다.
+/국립유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYBGJXVIRBCDNHGH64HD2G4VT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무령왕릉 내부. 무령왕은 백제를 중흥시킨 군주로 평가됩니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;웅진 시대 끝물, 다시 강국으로 올라서다&lt;/b&gt;&lt;br&gt;&lt;br&gt;여기서 24대 백제 왕으로 즉위한 사람이 문주왕의 조카인 동성왕(재위 479~501)입니다. 동성왕은 정치적 감각이 뛰어난 군주였습니다. 진씨 세력에 의해 옹립됐지만 서서히 진씨 세력을 억압하고 사(沙)씨와 연(燕)씨 같은 신진 귀족들의 힘을 키워 세력 균형을 도모했습니다.&lt;br&gt;&lt;br&gt;동성왕 때 중국 남북조시대 북위와 전쟁을 벌여 이겼다는 기록이 있고, 탐라국(지금의 제주도)을 무력으로 위협해 복속시키는 등 백제의 군사력도 커졌던 것으로 보입니다. 그러나 동성왕은 백씨 가문의 백가(苩加) 등 일부 귀족 세력의 반발로 문주왕처럼 사냥을 나섰다가 자객에게 살해당했습니다. 동성왕이 말년에 사치로 인해 민심을 잃은 결과라는 해석도 있죠.&lt;br&gt;&lt;br&gt;이제 동성왕의 형제로 추정되는 부여사마가 25대 무령왕(재위 501~523)으로 즉위했습니다. 중년의 나이에 왕이 된 그는 산전수전 다 겪은 인물인 데다 백성들의 지지를 받았습니다. 백가의 반란을 진압해 귀족 세력을 눌렀고,&lt;b&gt; &lt;/b&gt;민생 안정, 부국강병, 대외 교류에 다시 박차를 가했습니다.&lt;br&gt;&lt;br&gt;무령왕은 중국 남조의 양나라와 신라·일본으로 이어지는 국제 네트워크를 재건했고 고구려에 빼앗긴 영토를 상당 부분 되찾았습니다. 그래서 521년 양나라에 보낸 국서에서는 ‘갱위강국(更爲强國·다시 강한 나라가 됐다)’이란 자신감 넘치는 말을 쓸 수 있었습니다. 백제의 중흥 군주로 평가되는 그는 백제 왕 중에서는 오랜만에 천수를 누렸다고 할 수 있었어요.&lt;br&gt;&lt;br&gt;이제 무령왕의 아들인 26대 성왕(재위 523~554)은 웅진에서 즉위한 마지막 임금이 됩니다. 성왕은 왕권을 더욱 강화하기 위해 538년 사비(충남 부여) 천도를 단행해, 웅진 백제 시대가 끝나게 됩니다. 성왕은 신라와의 전쟁 끝에 죽었지만 백제는 이후에도 여전히 군사적으로 신라를 압도했고, 이는 7세기 나당(신라·당나라) 연합군과의 전쟁으로 이어지게 됩니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] (과음하여) 필름이 끊기다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/06/26/IDGPZRQ3TBHATAAXWFEQ6XIXNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/26/IDGPZRQ3TBHATAAXWFEQ6XIXNU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATMRAVQIIBD3VEBQEJAG4I7I3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [생활 속 경제] 집 담보로 매월 연금 받아… 집값 높을 때 가입해야 수령액도 많아요</title>
+      <link>https://www.chosun.com/national/nie/2025/06/26/V2DN2IVUV5CA7AS642EFSRUL7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/26/V2DN2IVUV5CA7AS642EFSRUL7Y/</guid>
+      <dc:creator>연유진 '꼬리에 꼬리를 무는 경제이야기' 저자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6SLKM2XCJHETJTGZXTS3JHTBE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q&lt;/b&gt;. 최근 ‘주택 연금’이 노후 대비 수단으로 떠오른다는 뉴스를 봤어요. 그런데 요즘처럼 집값이 오르는 시기에 가입하는 건 불리하다는 이야기도 많이 나옵니다. 주택 연금은 무엇이고, 왜 시기에 따라 유불리가 달라지나요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A&lt;/b&gt;. 요즘 “집은 있지만 현금이 없다”고 고민하는 어르신이 많아요. 이럴 때 활용할 수 있는 제도가 바로 주택 연금입니다. 주택 연금은 집을 한국주택금융공사에 담보로 맡기고, 그 대신 매달 연금처럼 돈을 받는 제도예요. 은행에서 돈을 빌릴 때 ‘주택 담보 대출(모기지론)’을 하는 경우가 많죠. 집을 담보로 돈을 빌리고, 장기간에 걸쳐 원금과 이자를 갚아 나가는 방식이에요. 주택 연금은 그 반대입니다. 집을 담보로 맡기고, 가입자가 사망하거나 계약을 해지할 때까지 돈을 받는 형식이라 ‘역(逆)모기지론’이라고도 불리죠.&lt;br&gt;&lt;br&gt;주택 연금은 부부 중 한 명이 55세 이상이면서 공시가격 12억원 이하 주택을 보유하고 있다면 가입할 수 있어요. 주택 연금은 서민·중산층의 노후 대비를 위한 제도이기 때문에 너무 비싼 집은 제외하는 거예요. 고가 주택 소유자는 시중은행이 출시한 주택연금 상품에 가입해야 해요.&lt;br&gt;&lt;br&gt;주택 연금에 가입하면 집은 담보로 등록되지만 소유권은 그대로 남습니다. 자신의 집에 계속 살면서도 노후 생활 자금을 받을 수 있는 거죠. 상품 유형에 따라 차이는 있지만, 일반적으로 가입자가 사망하면 주택금융공사가 담보 잡은 주택을 처분하고 그동안의 연금 지급액을 정산하는 방식이에요. 만약 그동안의 연금 지급액보다 처분한 집값이 높다면 남는 돈은 상속인에게 돌아가지요. &lt;br&gt;&lt;br&gt;주택 연금 가입자가 늘면 경제에 활기가 도는 효과가 있어요. 고령층에 추가 연금 소득이 생기면서 소비가 늘어나기 때문이에요. 한국은행 자료를 보면, 주택 연금 가입 의향이 있는 가구가 모두 연금을 들 경우 실질 국내총생산(GDP)이 0.5~0.7% 늘어날 것으로 예상된대요.&lt;br&gt;&lt;br&gt;그런데 요즘처럼 집값이 상승하는 시기에는 주택 연금에 가입하지 말라는 이야기도 있어요. 주택 연금을 중도 해지하는 사람들도 생기고요. 왜 그럴까요? 주택 연금 월 수령액이 가입 시점의 집값에 연동되기 때문입니다. 집값이 높을 때 가입해야 매월 받는 연금이 많아지는 거지요. 게다가 한번 결정된 연금은 집값이 변해도 조정되지 않아요. 주택금융공사에 따르면, 3억원짜리 주택을 가진 70세 가입자는 사망할 때까지 매달 89만원을 받아요. 그런데 같은 집 시세가 5억원일 때 가입하면 월 연금은 148만원이 되죠(2025년 3월 기준).&lt;br&gt;&lt;br&gt;다만 집 시세가 낮은 시기에 주택 연금에 가입했다고 무조건 손해인 것은 아닙니다. 주택 연금은 가입자가 사망하면 담보로 맡긴 집을 처분해 정산을 한다고 했지요? 받은 연금이 적으면, 그만큼 자녀 등 상속인의 몫이 커지는 거예요. 그러니 노후 자금이 정말 필요한 시점이 왔다면 집값 동향에 너무 연연할 필요는 없는 것이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 걱정을 사서 하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/06/26/JADD2YYC35CKTLNFIINUKMR4KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/26/JADD2YYC35CKTLNFIINUKMR4KU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJWRPHFHFBAHFE5VVTV4ESGJEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] set the bar high</title>
+      <link>https://www.chosun.com/national/nie/english/2025/06/26/RLXNMBP3ARGLVL4V2LFTXBTPYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/26/RLXNMBP3ARGLVL4V2LFTXBTPYE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUGUA6CD5JD43FGGSS46RDUZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2650] 오늘은 뭘 볼까</title>
+      <link>https://www.chosun.com/national/nie/2025/06/26/Y33BLUBW7RDMNP25ZVUHPVZ67I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/26/Y33BLUBW7RDMNP25ZVUHPVZ67I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEGQ2AT2NNF7LNHI5KWBMOYHQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 메이지유신 이후 급속 성장한 일본? 에도 시대 이미 ’100만 도시' 있었죠</title>
+      <link>https://www.chosun.com/national/nie/2025/06/26/DZOXWCYCMFGE7IOYJ5ONLGAE44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/26/DZOXWCYCMFGE7IOYJ5ONLGAE44/</guid>
+      <dc:creator>이진혁 출판 편집자</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YYICXEWWDFAORI6EG75KRBRONE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;신상목 지음｜출판사 뿌리와이파리｜가격 1만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;올해는 광복 80주년을 맞는 해입니다. 광복절은 해방의 기쁨이 담겨 있는 날이지만, 동시에 씁쓸한 역사를 떠올리게도 합니다. 1910년 일본에 국권을 빼앗기고 식민 통치를 견뎌야 했던 우리의 역사. 그때마다 이런 질문이 떠오릅니다. “왜 우리는 그토록 쉽게 나라를 빼앗겼을까?” 그러나 진짜 중요한 질문은 어쩌면 이쪽일지 모릅니다. “어떻게 일본은 그토록 빨리 강해졌는가?”&lt;br&gt;&lt;br&gt;오늘 소개할 책은 그 답을 에도 시대(1603~1868)에서 찾습니다. 흔히 일본 근대화 성공의 이유로 ‘메이지 유신’을 꼽지만 저자는 260년간 이어진 에도 시대에서 그 뿌리를 발견해요. 사실 우리는 에도 시대를 잘 알지 못합니다. 사무라이가 칼을 차고 다니던 시절 정도로만 인식하지요. 그러나 놀랍게도 에도 시대 일본은 유럽 대도시를 능가할 정도의 소비력과 상업 네트워크를 갖추고 있었습니다.&lt;br&gt;&lt;br&gt;에도 막부를 세운 도쿠가와 이에야스는 허허벌판이었던 에도(지금의 도쿄)에 대규모 수로와 운하를 건설하며 완전히 새로운 도시를 만들어냅니다. 여러 인프라가 들어선 에도는 급속 성장했고, 18세기 중반에는 이미 인구 100만을 자랑하는 거대 도시가 됩니다. 당시 파리 인구가 약 50만이었음을 생각하면 그 규모가 얼마나 대단했는지 짐작할 수 있지요.&lt;br&gt;&lt;br&gt;에도 시대의 번영은 특히 ‘참근교대(參勤交代)’라는 제도 덕분에 가능했다고 저자는 설명합니다. 이는 지방 다이묘(영주)들이 일정 기간마다 반드시 수도인 에도에 머무르도록 한 제도였는데, 수많은 다이묘와 수행원이 에도에 체류하면서 자연스럽게 거대한 소비 시장을 만들어냈습니다. 이 과정에서 건축, 운송, 숙박, 외식, 공연 등 수많은 산업이 생겨났고, 경쟁과 혁신을 통해 상업적 활기가 도시 전체로 퍼져나갔지요. 잇따라 화폐 경제와 금융 서비스도 발달했고, 출판 시장도 폭발적으로 성장했습니다. 18세기 중반 일본은 연간 100만명 이상이 전국을 여행하는 관광 선진국이기도 했습니다. 각종 숙박 시설과 관광 명소, 유흥 산업도 이에 따라 발전했지요.&lt;br&gt;&lt;br&gt;지식에 대한 개방적인 태도 역시 주목할 필요가 있습니다. 일본인들은 네덜란드 상인들을 통해 서양 학문을 적극적으로 수용했고, 이를 위해 국가적으로 사전 편찬과 번역 작업을 진행했습니다. 이는 이후 일본이 개항했을 때 빠르게 서양 문물을 수용할 수 있는 기반이 됩니다. 즉 에도 시대의 축적된 역량이 없었다면 메이지 유신과 그 이후 일본의 빠른 근대화도 없었을 것입니다.&lt;br&gt;&lt;br&gt;이 책은 단순히 일본을 칭송하지도 조선을 폄하하지도 않습니다. 다만 같은 동아시아 국가인데 왜 이렇게 다른 길을 걸었는지 냉정히 짚어보기를 권하지요. 자존심을 내세우기보다는, 과거를 성찰하는 것이 우리를 더 강하게 만들기 때문입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 단열재(斷熱材)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/26/7CN6IZHJY5DVFAKY7GR35P5JIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/26/7CN6IZHJY5DVFAKY7GR35P5JIQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 25 Jun 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXC4YLK5Q5CORGQTEEAIHT4G7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“한국선 저래도 돼?”...왕릉서 골프치던 남성, 외국인에 딱걸렸다</title>
       <link>https://www.chosun.com/national/national_general/2025/06/25/7RXIPVFMNVH4VCJCQV7MVXAPZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/7RXIPVFMNVH4VCJCQV7MVXAPZE/</guid>
@@ -597,15 +873,6 @@
       </media:content>
     </item>
     <item>
-      <title>부모·친구·외모 아니었다… 요즘 10대의 ‘행복 조건’ 1순위는</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/25/N443NTJ3J5FTTHUIFX6O3QSDGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/N443NTJ3J5FTTHUIFX6O3QSDGY/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 00:00:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSGZIRBEOSYGBR7EWLJKABAGXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험 6월 모의평가가 치러진 4일 서울의 한 고등학교에서 학생들이 시험 준비를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오늘날 한국의 10대 청소년에게 ‘행복의 조건’을 물었더니 가족이나 친구가 아닌 ‘재산’이 압도적 1위를 차지했다. &lt;br&gt;&lt;br&gt;대학내일20대연구소는 24일 10대 중‧고등학교 청소년의 경제적 계층과 행복에 대한 인식을 집중 분석한 보고서를 발표했다. 전국 17개 시‧도에 거주하는 14~18세 남녀 800명을 대상으로 지난 3월 21일부터 4월 2일까지 13일간 진행한 설문조사를 바탕으로 했다. &lt;br&gt;&lt;br&gt;연구소에 따르면 10대 청소년이 행복하기 위해 필요하다고 생각하는 요소는 ‘재산’(52.1%·복수응답)이 압도적인 1위였다. 이어 부모(39.5%), 절친한 친구(34.6%), 쉼‧휴식(32.8%), 외모(32.1%), 취미‧취향(30.8%), 삶의 목표‧꿈(30.3%) 순이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NPRUHY3JFDNNGDHFL6PWMR3GI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전반적으로 남학생에 비해 여학생의 응답률이 높았는데, 여학생들이 행복을 위해 필요로 하는 요소가 더 많은 것으로 추측된다. 다만 ‘연인’에 대해서는 남학생(26.9%)이 여학생(18.6%)보다 훨씬 높았다. &lt;br&gt;&lt;br&gt;특히 학업 성적 수준이 하위권인 경우 행복을 위해 삶의 목표‧꿈(36.5%)과 집(30.0%)이 필요하다고 보는 응답이 높았다. 가정 경제 수준이 하위층인 그룹은 정신력‧멘털(31.0%)을 꼽은 비율이 두드러졌다. &lt;br&gt;&lt;br&gt;10대들은 자신이 30세가 되더라도 부(富)의 계층 이동이 어려울 것이라고 인식했다. 현재 가정 수준이 상위인 그룹은 30세에 상위(13.0%) 또는 중상위(35.6%) 계층이 될 것이라고 예측했고, 현재 중위인 그룹은 이 수준을 유지할 것으로 보는 비율이 61.2%나 됐다. 하위 그룹은 중위(42.5%)나 중하위(38.5%)에 머무를 것으로 봤다. 지금의 경제적 수준이 30세 때에도 유지될 것으로 생각하는 10대가 많다는 것으로 풀이된다. &lt;br&gt;&lt;br&gt;이 같은 계층 인식은 ‘성적 수준’과도 밀접한 관계를 보였다. 현재 학업 성적이 중상위권 이상인 그룹에서는 절반(49.1%)가량이 30세에 자신의 경제적 계층을 중상위층 이상으로 예상했다. 반면 학업 성적이 중하위권 이하인 그룹에서는 10명 중 4명(40.0%)이 30세에 중하위층 이하가 될 것이라고 내다봤다. &lt;br&gt;&lt;br&gt;10대들은 대학 이외의 진로에 대해서는 어떻게 생각하고 있을까. 향후 창업이나 사업을 하겠다는 이들은 42.3%, 인플루언서 활동 의향은 36.9%로 긍정 응답률이 절반에 미치지 못했다. 다만 가정 경제 수준 상위층(51.0%)과 학업 성적 상위권(48.6%)인 그룹의 창업 의향은 다른 그룹에 비해 눈에 띄게 높았다. 집안의 경제력과 학업 성취도가 10대들의 미래에 다양한 기회를 부여하고, 자신감 형성에 영향을 미친다고 연구소는 해석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘마약 수사 외압 의혹’ 검찰 합수팀, 인천세관 등 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2025/06/25/FBQXS4CIQVFEJDWRAZ4JRAP3EY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/FBQXS4CIQVFEJDWRAZ4JRAP3EY/</guid>
@@ -613,24 +880,6 @@
       <description/>
       <pubDate>Wed, 25 Jun 2025 00:52:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMPCSIC7CZOW7FCNM4CPD6RTSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약 수사 외압 의혹’을 수사하는 검찰 합동수사팀이 인천세관과 세관 직원 주거지 등을 압수수색한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 검찰과 경찰, 국세청, 금융정보분석원(FIU)으로 구성된 대검찰청 합동수사팀은 지난 23일 인천세관과 마약 밀수 연루 혐의를 받는 세관 직원 주거지 등 10여 곳을 압수수색했다. 대검이 지난 10일 합동수사팀을 꾸린 지 약 2주 만이다.&lt;br&gt;&lt;br&gt;수사팀은 2023년 1월 말레이시아인들이 필로폰 약 74㎏을 국내로 밀수하는 과정에서 세관 공무원들이 연루됐다는 의혹과, 서울 영등포경찰서가 관련 진술을 밀수범으로부터 확보하자 대통령실과 경찰 고위 간부 등이 사건 은폐를 위해 외압을 행사했다는 의혹 등을 수사하고 있다.&lt;br&gt;&lt;br&gt;수사팀은 세관 직원 등의 휴대전화와 PC를 확보하고, 밀수 당시 CCTV 자료 확인을 위해 인천세관으로부터 CCTV 서버를 압수해 분석하고 있다. 세관 직원들과 밀수범들 사이에 금전 거래가 있는지 확인하기 위해 금융정보분석원을 통해 피의자와 그 가족의 계좌 흐름도 추적하고 있다. 수사팀은 기존에 이 사건 수사를 담당하던 영등포서에서 확보한 자료도 다시 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시아준수 협박해 8억 뜯어낸 여성 BJ, 대법서 징역 7년 확정</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/25/ENBRLXNG4ZBWVHYHN2KW6VYIAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/ENBRLXNG4ZBWVHYHN2KW6VYIAM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 00:45:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AHKCWL5UFDZ3B6LH4MBWSAXGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 뮤지컬 배우 김준수(시아준수). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘동방신기’ 출신 가수 겸 뮤지컬 배우 김준수(시아준수)씨를 협박해 수억 원을 뜯어낸 여성 BJ가 대법원에서 징역 7년 형을 확정받았다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 24일 특정경제범죄 가중처벌 등에 관한 법률 위반(공갈) 혐의로 기소된 30대 여성 A씨에 대한 상고심에서 상고 기각 결정을 내렸다. 이는 상고인이 주장하는 이유 자체가 형사소송법에서 정한 상고 사유에 해당하지 않아 상고 이유 자체를 검토하지 않았다는 의미다. 따라서 A씨는 징역 7년을 선고한 원심이 최종 확정됐다.&lt;br&gt;&lt;br&gt;온라인 동영상 플랫폼 ‘숲’(옛 아프리카TV)에서 BJ로 활동하던 A씨는 2020년 9월부터 작년 10월까지 김씨를 협박해 8억 4000만 원 상당의 금품을 빼앗은 혐의를 받는다. A씨는 김씨와의 대화를 녹음한 뒤 소셜미디어에 유포하겠다고 협박한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 1심 법원은 A씨에게 징역 7년을 선고했다. 이어 “피해자 약점을 이용해 협박하고 장기간 8억 원 이상의 돈을 갈취했다. 수법, 기간, 피해 금액 등을 볼 때 죄질이 매우 좋지 않다”며 “피해자가 정신적 피해를 입었고 엄벌을 탄원하고 있다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨는 형량이 너무 무겁다며 항소했으나 2심에서도 받아들여지지 않았다. 항소심 재판부는 1심과 같은 징역 7년 선고와 함께 “피고인이 피해자를 협박하는 수단이 된 사적 대화 녹음 파일 등이 저장돼 있다. 피고인에게 반환될 경우 추가 피해가 우려된다”며 휴대전화와 스마트폰 기기의 추가 몰수를 명령했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주서 80대·60대 父子 숨진 채 발견... 경찰 수사중</title>
-      <link>https://www.chosun.com/national/regional/2025/06/20/KBUOA74EHVC2BEFRV6HCXPKHVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/20/KBUOA74EHVC2BEFRV6HCXPKHVI/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 20 Jun 2025 10:56:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSFJXRNSQJHEDOTHYHCZGTJL64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 80대 아버지와 60대 아들이 숨진 채 발견돼 경찰이 수사 중이다.&lt;br&gt;&lt;br&gt;20일 제주서부경찰서에 따르면 전날 오후 3시 20분쯤 제주시 용담동 한 주택에서 80대 A씨와 60대 B씨가 숨져 있는 것을 집에 방문한 가족이 발견해 신고했다.&lt;br&gt;&lt;br&gt;아들인 B씨는 10여 년간 지병이 있는 아버지 A씨를 혼자서 간병해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 A씨를 살해한 뒤 스스로 목숨을 끊었을 가능성도 있는 것으로 보고, 부검을 의뢰하는 등 정확한 사건 경위를 조사중이다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살 예방 SNS 상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹측 “특검 체포영장은 위법”... 법원에 의견서 제출</title>
@@ -651,17 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKE3K6G3UVA2BNZOSXNGZHI27Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 서울 중구 롯데호텔에서 마리아 테레사 비 디존-데 베가 필리핀 대사(왼쪽)가 민병철 선플재단 이사장에게 감사패를 받았다./강지은 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국·필리핀 양국 국민들이 서로 존중하고 이해할 수 있도록 노력했다는 자부심을 느낍니다.”&lt;br&gt;&lt;br&gt;23일 오후 서울 중구 롯데호텔에서 열린 오찬 행사에서 4년 임기를 마치고 고국으로 돌아가는 마리아 테레사 비 디존-데 베가 필리핀 대사가 감격스러운 표정으로 말했다. 그는 7월엔 필리핀 외교부로 돌아간다. ‘선플(착한 댓글) 재단’ 이사장인 민병철 중앙대 석좌교수가 주최한 이날 환송 오찬엔 캄보디아·라오스·태국·카자흐스탄·튀르키예 대사 5명과 이학영 국회부의장, 인요한 국민의힘 의원, 이용선 더불어민주당 의원 등이 참석했다.&lt;br&gt;&lt;br&gt;2007년 ‘선플운동본부’를 만들어 18년간 선플 운동을 이끌고 있는 민 교수는 “세계로 뻗어나가는 한국 예술·문화처럼 외국인에 대한 존중 문화도 확산돼야 한다”며 2023년부터 ‘K-리스펙트 캠페인’을 벌이고 있다. 계절 근로자, 결혼 이주민 등 한국에서 자리 잡는 외국인이 증가하는 만큼 그들을 향한 차별과 혐오 표현도 늘고 있다는 판단에서다. 문화체육관광부 조사에 따르면 “외국인 인종·국가에 따른 편견이 있다”는 한국인 응답은 2019년 62.2%, 2022년엔 67.4%로 늘었다. &lt;br&gt;&lt;br&gt;디존-데 베가 대사는 그간 평소 친분이 있었던 필리핀 하원의원들에게 민 교수의 활동을 소개해왔다. 그 결과 필리핀 하원의원의 54%(168명)이 “우리도 필리핀에 있는 한국인들을 존중하겠다”는 취지의 서약에 서명했다고 한다. 살리 무라트 타메르 튀르키예 대사도 “전세계에서 외국인을 향한 친절과 존중이 생활 속에서 습관처럼 묻어날 수 있도록 우리도 노력하겠다”고 했다. 이 부의장은 “지난해 약 7만명의 필리핀인이 한국에 거주하고, 52만명 이상의 필리핀 관광객이 한국에 방문했다”며 “양국 교류 촉진과 존중 문화 확산에 기여한 대사님 노고에 깊이 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“왜 선배 행세해?”… 지인 무차별 폭행 의식불명 만든 40대 ‘징역 4년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/25/H66VNKAMURBY3FY4V23KSIGLQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/H66VNKAMURBY3FY4V23KSIGLQ4/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>선배 행세를 한다는 이유로 50대 남성을 폭행해 의식불명 상태에 이르게 한 40대 남성이 법원으로부터 징역형을 선고받았다.
-춘천지법 형사2부(재판장 김성래)는 중상해 혐의로 기소된 A(47)씨에게 징역 4년을 선고했다고 25일 밝혔다.
-</description>
-      <pubDate>Tue, 24 Jun 2025 23:18:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYLJLVBJZE4HG227QI7UJN3J74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선배 행세를 한다는 이유로 50대 남성을 폭행해 의식불명 상태에 이르게 한 40대 남성에게 법원이 징역형을 선고했다. &lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 중상해 혐의로 기소된 A(47)씨에게 징역 4년을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 22일 강원 춘천시 한 주점에서 동네 선배 B씨와 함께 술을 마시던 중 B씨의 일행인 C(55)씨를 폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 B씨 등과 술자리를 갖던 중 과거 잘못을 이유로 B씨에게 폭행을 당했고, B씨가 자리를 떠난 뒤에도 자신과 별다른 친분이 없던 C씨가 선배 행세를 하자 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 특히 범행 과정에서 행인들의 만류에도 불구하고 별다른 저항을 하지 않던 C씨의 얼굴과 머리, 가슴 부위를 지속적으로 폭행했다.&lt;br&gt;&lt;br&gt;이 폭행으로 C씨는 의식불명 상태에 빠졌고, 현재까지도 건강을 회복하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피해자는 의식 불명 상태가 돼 현재까지 건강을 회복하지 못했는데도 피고인이 피해 회복을 위해 노력했다는 정황이 발견되지 않는다”면서 “피해자 가족이 엄벌을 탄원하고 있는 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“살아 있는 게 기적”…총알 파편 다닥다닥 박힌 채 발견된 백구</title>
       <link>https://www.chosun.com/national/national_general/2025/06/25/YO2TN5JNCNB7TPZB7V43VYWUTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/YO2TN5JNCNB7TPZB7V43VYWUTY/</guid>
@@ -669,15 +907,6 @@
       <description/>
       <pubDate>Tue, 24 Jun 2025 22:31:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGNGIA2P4NFSFI64B5H2DHKA3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유기견 백구의 몸에 산탄총 파편이 박힌 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반려견에 비비탄을 쏴 죽음에 이르게 한 사건이 전해져 공분을 산 가운데, 온몸에 총알 파편 수십 개가 박힌 채 돌아다니던 백구가 발견됐다.&lt;br&gt;&lt;br&gt;25일 VIP동물의료센터에 따르면 최근 구조된 유기견 백구의 몸에서 70개가 넘는 산탄총 파편이 박혀 있는 것을 발견했다.&lt;br&gt;&lt;br&gt;구조 당시 백구의 겉모습으로는 총알 자국을 확인하기 어려웠다고 한다. 해외 입양을 앞두고 건강 검진을 위해 X레이 촬영을 했다가 산탄총 파편을 발견했고, 이 때문에 백구의 입양도 불가능해졌다.&lt;br&gt;&lt;br&gt;동물 병원 측은 곧바로 엑스레이, CT(컴퓨터 단층촬영) 등 정밀 검사에 들어갔다.&lt;br&gt;&lt;br&gt;안승엽 VIP동물의료센터 원장은 “총알이 머리 쪽부터 어깨, 가슴통, 엉덩이, 다리까지 너무 많이 있었다”며 “살아있는 게 기적”이라고 말했다.&lt;br&gt;&lt;br&gt;산탄총 파편 제거 수술은 3시간 넘게 진행됐다. 맨눈으로 탄알을 다 확인할 수 없어서 투시기를 이용해 수술 시간이 길어졌다.&lt;br&gt;&lt;br&gt;안 원장은 “탄알을 한 번에 다 제거하기는 현실적으로 어려워 백구의 얼굴을 위주로 최대한 많이 제거하는 방향을 선택했다”며 총 26개의 파편을 제거했다고 설명했다.&lt;br&gt;&lt;br&gt;병원 측은 추후 제거한 파편의 성분 분석 등을 통해 추가 수술 여부를 검토할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YS4SVP7WNGGPNCXHYCQCOUKSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;몸에 산탄총 파편이 박힌 채 발견된 유기견 백구./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 백구는 퇴원 후 귀동이라는 이름으로 가족을 기다리고 있다.&lt;br&gt;&lt;br&gt;백구 구조와 입양을 맡은 도그어스플래닛 측은 “귀동이의 얼굴에 상처가 조금 있다고 해도 보이지 않는 부분에서 느낄 수 있는 매력이 정말 많다”며 “정말 좋은 가족이자 친구가 돼 줄 수 있으니 예쁘게 봐달라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYLLJKXJ6VH6XBBJUDDP5RQKYU.png"&gt;&lt;figcaption&gt;&lt;small&gt;남성 3명이 식당 마당의 개들에게 비비탄을 쏘고 있다. /비글구조네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 8일 경남 거제에서는 비비탄 총알에 맞은 강아지가 발견되기도 했다.&lt;br&gt;&lt;br&gt;당시 20대 남성 3명은 오전 1시쯤 한 식당 마당에 있던 개 4마리에게 비비탄 수백 발을 난사했다. 이 사건으로 개 2마리는 안구가 손상됐으며, 1마리는 끝내 숨졌다.&lt;br&gt;&lt;br&gt;가해자 중에는 군인 2명도 포함된 것으로 조사됐다. 경찰은 군인 2명에 대해서는 군부대에 사건을 넘기고, 민간인 남성 1명은 동물보호법 위반과 주거침입, 재물손괴 등 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“부산 여고생 3명 사망, 실기 교사와 여러 문제 있었다” </title>
-      <link>https://www.chosun.com/national/national_general/2025/06/25/LEC34YC64BE7NJNJPERIOF7AJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/LEC34YC64BE7NJNJPERIOF7AJM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 22:29:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYE2GA2N2FUMGM5UTDYBPSVIUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산의 한 예술고 학생 3명이 숨진 사고와 관련해 해당 학교 학부모회 부회장과 숨진 학생들의 학원 강사가 23일 부산시의회에서 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 예술고 무용과에 재학 중이던 2학년 학생 3명이 숨진 사건과 관련해 학교 학부모회가 실기 교사와 마찰이 있었다는 주장을 제기했다. &lt;br&gt;&lt;br&gt;A예술고 학부모회는 24일 오후 부산시의회에서 기자회견을 열고 “왜 세 명의 아이가 같은 날, 같은 시간에, 같은 장소에서, 같은 선택을 할 수밖에 없었던 것인지 정확한 사실에 기반해 수사가 이뤄지길 간곡히 호소드린다”며 “학년 초부터 비정상적으로 이뤄진 학교 운영과 무관하지 않다. 그 깊은 연관성에 대해 잘 살펴봐 달라”고 했다. &lt;br&gt;&lt;br&gt;이날 학부모회 부회장은 “구체적으로 밝힐 수는 없지만, 올해 초 2학년 실기 교사에 대해 여러 부분에 문제가 있다고 보고 학생들과 분리해달라고 학교에 요구했다”며 “이달 초에는 관련 내용으로 경찰에 고발장을 접수하기도 했다”고 말했다. 이어 “현재는 강사가 학생들의 강의에서 제외됐고, 부산시교육청에서 심리 상담사를 학교에 파견한 것으로 파악됐다”고 했다. &lt;br&gt;&lt;br&gt;학부모회에 따르면 지난 1월 무용과 전공 강사 14명 중 11명이 한 번에 교체됐고, 3월 새 학기 시작 직후 신임 강사와 학생들의 마찰이 시작됐다. 예고 전공 수업은 강사의 수업 방식이나 학생과의 호흡에 따라 작품 완성도나 방향 등이 달라질 수 있다고 한다. &lt;br&gt;&lt;br&gt;숨진 B학생을 초등학교 6학년 때부터 봐왔다고 밝힌 한 강사는 “다른 부분에 대해서는 모르겠지만 B학생은 평소에 우울증을 앓고 있었다거나 힘들어하지 않았다”며 “문제 한 번 일으킨 적 없이 바르고 착한 학생이었다”고 했다. 그러면서 “다만 최근 들어 학교가 시끄러운 점을 알게 됐고 B학생과 면담을 했을 때 수업의 만족도가 높지 않았던 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;숨진 학생들이 유서에 ‘학업 스트레스와 진학 부담이 크다’고 적었지만 학업 성적은 좋았다고 한다. 학부모회 부회장은 “학업 스트레스가 없었다고 할 수 없지만 몸 관리, 하루 4~5시간 연습 등은 어릴 때부터 해왔던 것”이라며 “숨진 학생 모두 중상위권 성적을 유지하고 있었고, 한 학생의 경우 항상 실기 1등을 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난 21일 부산의 한 아파트 화단에서 고교생 3명이 쓰러진 채 발견돼 병원으로 옮겨졌지만 끝내 숨졌다. 해운대경찰서는 숨진 고교생 3명의 행적과 동기를 파악하기 위해 수사를 벌이고 있다. 경찰은 학생들이 발견된 장소에서 휴대전화와 소지품, 유서 등을 확보해 이를 분석 중이다. &lt;br&gt;&lt;br&gt;부산교육청은 공동대책반을 구성하고 특별감사에 착수했다. 교육청 관계자는 “해당 학교에 해묵은 갈등 구조와 분쟁 등 민원에 제기됐던 부분이 있었고, 이와 무관하지 않다고 보고 교육감 지시로 학교에 대한 특별감찰에 착수했다”고 설명했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;※우울감 등 말하기 어려운 고민이 있거나, 주변에 이같은 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화☎109 또는 SNS상담 마들랜(&lt;/b&gt;&lt;a href="http://www.129.go.kr/109/etc/madlan)" rel=""&gt;&lt;b&gt;www.129.go.kr/109/etc/madlan)&lt;/b&gt;&lt;/a&gt;&lt;b&gt;에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란 특검, 윤석열 체포영장 청구</title>
@@ -716,15 +945,6 @@
       </media:content>
     </item>
     <item>
-      <title>금연 구역 있으나 마나… 담배 연기, 피할 수가 없네</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/25/AH5ZUR75EBDGHJNF32SC2NTDUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/25/AH5ZUR75EBDGHJNF32SC2NTDUE/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UN4WKWRBLFDBNOCY46B3SNBTA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 경기도 성남시 판교역 출구 인근 금연 구역에 설치된 ‘금연 구역 흡연 금지/수시 단속 및 과태료 부과’ 현수막 앞에서 흡연자들이 담배를 피우고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 오후 서울 중구 삼각동에 위치한 ‘청계천 한빛광장’. ‘금연 공원’이라고 적힌 안내판에 흡연 금지 표시가 큼지막하게 그려져 있었다. 이 공원은 2012년 1월 전체가 금연 구역으로 지정됐다. 이곳에서 담배를 피우면 국민건강증진법에 따라 10만원의 과태료가 부과된다. 하지만 공원 곳곳에서 담배를 피우는 이들을 볼 수 있었다. 공원 벤치에는 빈 담뱃갑들이 마시고 버린 종이컵들과 함께 덩그러니 놓여 있었다.&lt;br&gt;&lt;br&gt;인근 대형 오피스 건물 옆도 사정이 비슷했다. 이 건물에는 어린이집이 두 곳이나 있어 건물 주변 30m가 전부 금연 구역이다. 어린이집 경계로부터 10m였던 기존의 금연 구역 정의를 30m까지로 확대하는 국민건강증진법 개정안이 작년 8월부터 시행됐기 때문이다. 건물 주변 곳곳에는 노란색 옷차림의 유아 그림과 함께 ‘금연 구역’ 플래카드가 걸려 있었다. 하지만 끽연족(族)들은 이곳에서도 거리낌 없이 담배를 피웠다.&lt;br&gt;&lt;br&gt;금연 구역이 확대된 지 10개월이 지났지만, 금연 구역 자체가 아예 유명무실한 것 아니냐는 지적이 나오고 있다. 흡연자들이 금연 구역에서도 사실상 자유롭게 담배를 피우고 있기 때문이다.&lt;br&gt;&lt;br&gt;우리나라는 2005년 세계보건기구(WHO)의 담배규제기본협약(FCTC)을 비준했고, 이에 따라 담배 규제 정책을 계속 확대했다. 지난해 말 서울의 금연 구역은 총 30만1063곳으로 2012년에 비해 4배 가까이로 늘었다. 한국건강증진개발원에 따르면 전국 금연 구역은 작년 9월 기준 187만3987곳이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJ7ZD55HKFBWFKJEK7UMWJWG7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 금연 구역 곳곳에서 담배 피우는 흡연자를 어렵지 않게 볼 수 있다. 이날 서울 광화문광장 인근 ‘배롱나무 숲길’ 탁자에는 ‘금연 구역’이라는 안내 표지가 붙어 있었지만 탁자에 앉은 한 남성은 전화 통화를 하며 연신 담배를 피워댔다. 인근 청진동 대형 오피스 건물 뒤편에도 금연 구역을 알리는 안내판이 곳곳에 붙어 있었지만, 양복을 입은 남성 다섯 명이 나무 아래에서 담배를 피우고 있었다. 이 건물 보안팀장은 “건물 주변이 대부분 금연 구역인데 흡연자가 너무 많아 골치”라며 “피우지 말라고 해도 ‘당신들 말을 왜 따라야 하냐’며 따지는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;서울시의 경우 지하철역 출구 10m 이내도 금연 구역에 해당한다. 하지만 이날 서울 지하철 2호선 을지로입구역 8번 출구 뒤편에서는 여럿이 담배를 피우고 있었다. 그 바로 앞에는 흡연 부스가 있었는데, 적지 않은 이가 부스 밖으로 나와 담배를 피우고 있었다. &lt;br&gt;&lt;br&gt;서울만의 문제가 아니다. 지난 17일 저녁 대형 오피스 빌딩이 밀집한 경기도 성남시 신분당선 판교역 인근. “흡연 금지, 수시 단속 및 과태료 부과”라고 적힌 플래카드가 여럿 붙어 있었지만 흡연자 10여 명이 담배를 피워댔다. 인근에 어린이집이 있는 이곳은 작년 8월부터 금연 구역이 됐다. &lt;br&gt;&lt;br&gt;금연 구역에서의 흡연을 단속 안 하는 것은 아니다. 하지만 대다수 지자체가 소수의 단속원·지도원만 운영 중이다. 한 보건소 관계자는 “단속원이 하루 종일 금연 구역을 지킬 수도 없고, 단속만으로는 한계가 있다”고 했다. 금연 구역에서 만난 시민들은 “단속원이 나올 때만 잠깐 사라질 뿐, 단속원이 가면 또다시 담배 연기로 가득 찬다”고 했다. 서울 중구의 한 어린이집 원장(38)은 “금연 구역인데도 흡연자들이 주변에서 하루 종일 담배를 피워댄다”며 “등원하는 아이들이 담배 연기에 그대로 노출되고, 마음 놓고 창문을 열 수도 없다”고 했다. &lt;br&gt;&lt;br&gt;길거리 흡연에 대한 불만도 많다. 서울 광화문광장 인근 식당에서 일하는 최모(56)씨는 “식당 입구에서 사람들이 하도 담배를 피워대 하루에도 10번 가까이 꽁초를 치워야 한다”며 “구청과 인근 회사에 여러 차례 민원을 넣었지만 소용이 없다”고 했다. 한 비흡연자는 “흡연이야 개인 자유지만, 내가 왜 길에서 간접 흡연 피해를 겪어야 하는지 분통이 터진다”고 했다. &lt;br&gt;&lt;br&gt;반면 흡연자들은 “담배 피울 곳이 없다”고 하소연한다. 판교역 금연 구역에서 만난 한 흡연자는 “작년에도 단속돼 과태료 5만원을 물었지만, 흡연 구역은 너무 멀어 어쩔 수 없이 여기서 계속 피운다”고 했다.&lt;br&gt;&lt;br&gt;외국도 공공 구역에서의 흡연 규제를 강화하는 추세다. 이탈리아 밀라노는 올해 초 거리를 포함한 모든 공공 장소에서 흡연을 불법으로 규정했다. 어기면 40~240유로(약 6만~37만원)의 벌금을 내야 한다. 일본 오사카도 올해 1월부터 길거리, 공원 등 공공 장소에서의 흡연을 전면 금지했다. 일반 궐련은 물론 전자 담배도 안 된다. &lt;br&gt;&lt;br&gt;우리나라는 궐련을 끼워 피우는 전자 담배의 경우 일반 담배와 같은 규제가 적용되지만, 니코틴액 등을 넣은 액상형 전자 담배는 아예 담배로 분류조차 되지 않아 금연 구역에서 피워도 단속조차 불가능하다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞금연 구역&lt;/b&gt;&lt;br&gt;&lt;br&gt;국민건강증진법에 따라 공공기관 청사·학교·병원·식당과 연면적 1000㎡ 이상 사무용 건물 등에서 흡연이 금지돼 있다. 어린이집·유치원·학교 경계에서 30m 이내도 금연 구역이다. 지자체는 이와 별도로 금연 구역을 설정할 수 있다. 위반하면 5만~10만원의 과태료가 부과된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김영훈 주도했던 철도 파업… 당시 70억 배상 판결</title>
       <link>https://www.chosun.com/national/labor/2025/06/25/WFXE7OFKLNAT7ER7QKIG7RAP6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/06/25/WFXE7OFKLNAT7ER7QKIG7RAP6M/</guid>
@@ -743,51 +963,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NRKYZPEDVE53FHRIGWOCCFPSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 곽창현씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/25/HRLGXABCXBG5NFKFXIFCXRGBMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/25/HRLGXABCXBG5NFKFXIFCXRGBMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:37:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;곽창현&lt;/b&gt; 별세, &lt;b&gt;권영희&lt;/b&gt; 남편상, &lt;b&gt;곽옥녀&lt;/b&gt;·&lt;b&gt;곽홍희&lt;/b&gt; 농축투데이 대표·&lt;b&gt;곽진희&lt;/b&gt;·&lt;b&gt;곽정녀&lt;/b&gt; 부친상, &lt;b&gt;황재영&lt;/b&gt;·&lt;b&gt;나옥란&lt;/b&gt; 시부상=23일18시3분 의정부 중앙병원, 발인 25일11시, (031)847-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤을상&lt;/b&gt; 별세, &lt;b&gt;이일구&lt;/b&gt; 남편상, &lt;b&gt;윤희일&lt;/b&gt; 前 경향신문 편집국장·&lt;b&gt;윤미영&lt;/b&gt; 대전내동중 교사·&lt;b&gt;윤희용&lt;/b&gt; 저스템 부사장 부친상, &lt;b&gt;김도현&lt;/b&gt; 장인상, &lt;b&gt;박현미&lt;/b&gt;·&lt;b&gt;황해영&lt;/b&gt; 시부상=24일10시37분 대전 을지대병원, 발인 26일6시, (042)259-1082&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이정철&lt;/b&gt; 별세, &lt;b&gt;이태양&lt;/b&gt; 삼성전자 커뮤니케이션실 프로·&lt;b&gt;이태진&lt;/b&gt; 부친상, &lt;b&gt;이혜원&lt;/b&gt; 시부상=24일8시56분 부산 삼신전문장례식장, 발인 26일8시30분, (051)323-0044&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정기용 前 원화랑 대표 별세… 백남준 알아본 안목으로 정평</title>
-      <link>https://www.chosun.com/national/people/2025/06/25/PSNGKEUINNBYFCWWYOYYATHQ7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/25/PSNGKEUINNBYFCWWYOYYATHQ7Y/</guid>
-      <dc:creator>김민정 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:37:00 +0000</pubDate>
-      <content:encoded>비디오아트 창시자 백남준의 국내 첫 전시를 열었던 정기용(93) 전 원화랑 대표가 23일 별세했다. 김종영, 임충섭, 존배 등 좋은 작가와 작품을 발굴하는 안목으로 미술계에서 정평 난 화상이자 소장가다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOZQPXTBEVEBND67HLFUPEG5RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고인은 서울대 불문과 재학 시절부터 미술품을 수집해 1978년 서울 인사동에 원화랑을 개관했다. 1960년대에 일찍이 박수근, 이중섭 등의 작품을 수집했고, 해외에서 활동하던 백남준을 눈여겨보고 1984년 그의 첫 국내전을 열었다. 독일 개념미술을 눈여겨보고 거장 요제프 보이스의 국내 첫 전시 등 해외 작가도 적극 소개했다. &lt;br&gt;&lt;br&gt;고인은 생전에 “일본의 현 단위 미술관에도 있는 명품들이 우리나라에 한 점도 없다는 게 내가 무리해서 비싼 작품을 사 모으게 된 이유”라고 했다. 소장한 김종영·백남준 등의 작품을 국립현대미술관에 기증하기도 했다. 빈소 서울성모병원, 발인은 26일 오전 8시 40분. (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새벽에 부모가 ‘청소 알바’ 간 사이… 10세·7세 자매의 비극</title>
-      <link>https://www.chosun.com/national/regional/2025/06/25/VJ5VJOW4A5G3PP5JFNWFGGARNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/25/VJ5VJOW4A5G3PP5JFNWFGGARNI/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:37:00 +0000</pubDate>
-      <content:encoded>24일 새벽 부산의 한 아파트에서 불이 나 10세 여자아이가 숨졌다. 7세 동생은 중태에 빠졌다. 부모가 청소 일을 하러 나간 사이 불이 난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부와 부산진경찰서 등에 따르면, 이날 오전 4시 15분쯤 부산진구 개금동에 있는 한 아파트 4층에서 불이 났다.&lt;br&gt;&lt;br&gt;불은 20분 만에 잡혔으나 집 안에 있던 A(10)양이 숨졌다. 동생 B(7)양은 대학 병원에서 치료를 받고 있으나 의식을 찾지 못하고 있다. &lt;br&gt;&lt;br&gt;아이들은 안방에서 쓰러진 채 발견됐다. 소방대원들은 “검은 연기가 자욱해 손으로 더듬어 가며 아이들을 구조했다”고 전했다. 소방 당국은 “거실에서 시작된 불이 주방과 안방까지 확산한 것으로 보인다”며 “정확한 화재 원인을 조사하고 있다”고 했다. 불길이 다른 집으로 번지진 않았다. 경찰은 “아이들이 연기를 많이 마셨다”며 “외상 흔적은 없었다”고 했다. &lt;br&gt;&lt;br&gt;당시 자매의 부모는 청소 아르바이트를 하러 나가 아이들만 집에 있었던 것으로 조사됐다. 경찰 관계자는 “부모가 오전 4시쯤 집을 나선 직후 불이 난 것으로 보인다”고 했다. 아이들의 부모는 이웃 주민의 전화를 받고 급히 돌아와 아파트 현관에서 울먹이며 애를 태웠다고 한다.&lt;br&gt;&lt;br&gt;부부가 어린아이들을 재우고 새벽 일을 나갈 정도로 살림이 넉넉지 않았던 것으로 보인다. 부산진구에 따르면, 자매의 부모는 지난 3월 행정복지센터를 찾아 생활고를 호소했다고 한다. 기초생활수급자는 아니었지만 소득이 적어 아이들 교육비를 지원받았다. 행정복지센터 관계자는 “주방 보조 일부터 독서실 아르바이트, 청소 아르바이트까지 가리지 않고 하며 두 아이를 키운 것으로 보인다”고 말했다. 부산진구는 주거비와 치료비 등 지원을 검토하고 있다. 이날 화재로 주민 50여 명이 대피했다. 주민들은 A양의 사망 소식에 안타까워했다. 60대 주민은 “아이들이 인사도 참 잘하고, 화목한 집이었는데 마음이 아프다”고 했다. A양이 다닌 초등학교에선 A양을 추모하는 시간을 가졌다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 상금 1억5000만원 ‘한국판 프리츠커상’ 만든다</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/25/TSFBBPOFZJCLNMHLQGL2ETAJRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/TSFBBPOFZJCLNMHLQGL2ETAJRY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:36:59 +0000</pubDate>
-      <content:encoded>서울시가 상금 1억5000만원을 내걸고 국제 건축상을 만든다. 이른바 한국판 ‘프리츠커상’을 제정하겠다는 것이다. 프리츠커상은 ‘건축계의 노벨상’으로 불리는 세계적인 건축상이다. 상금은 10만달러(약 1억4000만원)다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 24일 이러한 내용의 ‘K-건축문화 종합지원계획’을 발표했다. &lt;br&gt;&lt;br&gt;건축상의 이름은 가칭 ‘국제도시공간디자인상’이다. 2027년부터 2년마다 서울도시건축비엔날레 현장에서 시상한다는 계획이다. 서울시는 2017년부터 2년마다 국제 도시·건축 행사인 서울도시건축비엔날레를 열고 있다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “대상 상금은 프리츠커상과 비슷한 1억5000만원 수준으로 정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 “건축물뿐 아니라 도시의 공간과 문화를 바꾼 개발 프로젝트, 조경, 조명 등 분야에 대해서도 시상할 계획”이라고 했다. 이를 심사·운영할 서울건축재단도 설립한다. &lt;br&gt;&lt;br&gt;오 시장은 “우리나라에도 유망한 건축가들이 많고 청계천처럼 도시를 바꾼 혁신 사례도 있다”며 “권위 있는 국제 건축상을 만들어 국내외 건축가들이 세계적으로 성장할 수 있게 돕고 ‘K건축’도 널리 알릴 것”이라고 했다. &lt;br&gt;&lt;br&gt;서울은 이미 세계적인 건축가들의 경연장이 되고 있다. 용산구에 있는 아모레퍼시픽 본사는 데이비드 치퍼필드(영국)의 작품이다. 가수 아이유가 분양받아서 유명해진 에테르노청담 아파트는 스페인 건축가 라파엘 모네오가 설계했다. &lt;br&gt;&lt;br&gt;오 시장은 “미국 뉴욕, 싱가포르 등을 보면 혁신적인 건축이 도시의 경쟁력을 높이고 삶의 질을 바꾼다”며 “그 시작이 창의적인 건축가”라고 했다.&lt;br&gt;&lt;br&gt;프리츠커상 수상자는 일본이 9명으로 가장 많다. 이어 미국(8명), 영국(5명)등의 순이다. 우리나라는 아직 한 명도 배출하지 못하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 특허청 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/06/25/5ERQ57HDTVEKHLV54LU77Z2QHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/06/25/5ERQ57HDTVEKHLV54LU77Z2QHY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:36:00 +0000</pubDate>
-      <content:encoded>▲특허청◇과장급 신규임용▷특허심판원 심판장 민정임&lt;br&gt;&lt;br&gt;▲한국도로교통공단◇본부처장▷정보보호처장 조용석▷성과평가처장 소형준▷면허시험처장 우상태▷면허민원처장 손영철◇지방조직장▷제주특별자치도지부 지역본부장 유태선▷교통방송전북본부장 직무대리 장경하▷대구운전면허시험장 단장 이종숙▷인천운전면허시험장 단장 김철▷대전운전면허시험장 단장 오상운▷안산운전면허시험장 단장 허용▷의정부운전면허시험장 단장 문홍찬▷충주운전면허시험장 단장 이민정▷전북운전면허시험장 단장 이현철▷전남운전면허시험장 단장 남궁헌▷문경운전면허시험장 단장 이국환▷포항운전면허시험장 단장 박배섭&lt;br&gt;&lt;br&gt;▲세계일보◇승격&amp;lt;광고국&amp;gt;▷부국장 김재호◇전보 및 보직변경&amp;lt;기획국&amp;gt;▷기획팀장 안수용▷비서팀장 서화연&amp;lt;독자서비스국&amp;gt;▷수도권팀장 김범재&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>폭염 뒤 또 장맛비</title>
       <link>https://www.chosun.com/national/national_general/2025/06/25/ZLWPD5A7FRHXHG7GVWOYRBV52M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/25/ZLWPD5A7FRHXHG7GVWOYRBV52M/</guid>
@@ -797,78 +972,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUZBKDZIMVAEXEQFX7C7MQZ4LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 장마전선이 북상하며 전국 곳곳에 비를 뿌렸다. 광주광역시 북구 전남대 캠퍼스에도 장맛비가 내렸다. 학생들이 우산을 쓰고 걸어가고 있다. 길가에 여름꽃인 기생초가 활짝 폈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] nail biter</title>
-      <link>https://www.chosun.com/national/nie/english/2025/06/25/VYAKVITEMFHPFI7CU7QDVMCIZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/06/25/VYAKVITEMFHPFI7CU7QDVMCIZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL5ONH4BYFC4FHUPV2GMVMB3YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 경험을 쌓아 올리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/06/25/L35UURSSZFAVZBOWCDIFCKMPO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/06/25/L35UURSSZFAVZBOWCDIFCKMPO4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VFBJZJ6RVG4NEIHKB73ZADXW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 증정(贈呈)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/06/25/EPCCWOYG2RFDZJ6OU7C5BPWYJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/06/25/EPCCWOYG2RFDZJ6OU7C5BPWYJU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSBW7Q3SBEHNN3EGTX3B2CZY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 바삭한, 연약한</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/06/25/P7INRTGQEVBVRMVZCAE4RCXN3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/06/25/P7INRTGQEVBVRMVZCAE4RCXN3A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZDVEGWL3ZCZ3FMQSLPRUDG364.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2649] 얼굴 삼행시</title>
-      <link>https://www.chosun.com/national/nie/2025/06/25/GHRO6N5SA5GEHFLSCEE63PGKII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/25/GHRO6N5SA5GEHFLSCEE63PGKII/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H54WIU3DJVF2FD3I2SJLZV2EEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [400] ‘계제’, ‘게재’, ‘개재’ </title>
-      <link>https://www.chosun.com/national/nie/2025/06/25/NKS4VUE5Q5A5TINR5YRFOOCKQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/25/NKS4VUE5Q5A5TINR5YRFOOCKQA/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2QBX6BA3ZH6NOHZINGAHQKHCY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;*“지금 우리 처지에 큰 소리를 낼 (계제, 게재, 개재)가 못 된다.”&lt;br&gt;&lt;br&gt;*형의 논문이 해외 유명 학술지에 (계제, 게재, 개재)됐다.&lt;br&gt;&lt;br&gt;*이번 협상에는 수많은 변수가 (계제, 게재, 개재)돼있다.&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말을 골라 보세요. 차례대로 ‘계제’ ‘게재’ ‘개재’입니다. 이 세 말은 자주 쓰이는 한자어인데 뜻이 전혀 다르니 정확히 구분해 알아둡시다.&lt;br&gt;&lt;br&gt;‘계제(階梯)’는 원래 ‘사다리’라는 뜻을 갖고 있는데, 어떤 일을 차근차근 해나가는 순서나 절차를 비유적으로 말할 때 사용해요. 예를 들면 “계제를 밟아 일을 해야 한다”고 말할 수 있죠. 또 어떤 일을 할 수 있는 형편이나 기회를 의미하기도 합니다. “변명할 계제가 없었다”에선 ‘기회’라는 의미로 쓰였어요.&lt;br&gt;&lt;br&gt;‘게재(揭載)’는 글이나 그림을 신문이나 잡지 등에 싣는다는 뜻이에요. ‘등재’ ‘수록’과 비슷한 의미죠. 예를 들면 ‘그 회사는 신문에 사과문을 게재했다’와 같이 써요. &lt;br&gt;&lt;br&gt;‘개재(介在)’는 두 가지 사이에 어떤 것이 끼어 있는 상황을 말해요. 보통 어떤 문제나 요소가 중간에 끼어들었을 때 쓰는 말이에요. 유의어로는 ‘개입’이 있지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;- “계제를 밟아서 일을 해야지 그렇게 막무가내로 해서야 되겠느냐?”&lt;br&gt;&lt;br&gt;- 그 출판사는 소설의 게재 시점을 한 달 뒤로 미뤘다.&lt;br&gt;&lt;br&gt;- 두 사람이 결혼에 이르기까지는 많은 문제가 개재해 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>탈원전 다시 오나... 환경장관 후보자 “태양광이 중심”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/24/Q2CVXLIG6RCB3ECIK22LCYFTRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/24/Q2CVXLIG6RCB3ECIK22LCYFTRU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 13:04:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2O5CAH4GBLBLCSXVV4JEQM3YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관 후보자가 24일 서울 여의도 이룸센터에 마련된 후보자 사무실로 출근하기 위해 전기차에서 내리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성환 환경부 장관 후보자는 24일 “(태양광·풍력 등) 재생 에너지를 주 에너지원으로 쓰고, 우리나라에 기왕에 만들어진 원전을 일종의 보조 에너지원으로 쓰면서 빠른 속도로 탈탄소 정책을 펴나가는 게 정부 에너지 정책의 핵심 기조”라고 말했다. 이에 에너지 업계에서는 “사실상 문재인 정부의 탈(脫)원전, 재생 에너지 확대 정책이 다시 추진될 수도 있다”고 우려했다. &lt;br&gt;&lt;br&gt;김 후보자는 이날 오전 서울 여의도의 인사 청문회 준비 사무실로 출근하면서 기자들과 만나 “탈원전은 바로 할 일은 아니다”면서도 원전에 대해선 ‘보조 에너지원’이라고 선을 그었다. 그는 “전 세계적으로 에너지 시장의 총량을 100이라고 하면 90을 재생 에너지에, 10을 원전에 투자한다”면서 “화석 연료 에너지원을 줄이고 재생 에너지를 기반으로 한 전기를 모든 곳에서 사용해야 한다”고 했다. 기후 위기 극복을 위해 이산화탄소를 내뿜는 석탄 연료를 퇴출하고, 태양광·풍력 등 재생 에너지를 대거 늘려 이른바 ‘에너지의 전기화’를 조기 달성하자는 것이다. 지난해 에너지원별 발전 비율은 원전이 31.7%, 석탄과 LNG(액화천연가스)가 각각 28.1%, 신재생 에너지가 10.6%였다.&lt;br&gt;&lt;br&gt;김 후보자는 “태양광은 이미 다른 연료에 비해 많이 저렴해졌다”며 “재생 에너지의 간헐성을 보정하기 위한 에너지 저장 체계(ESS)나 ‘히트 펌프’ 같은 산업을 키우는 게 핵심”이라고도 했다. ESS는 재생 에너지로 생산한 전기를 저장하는 장치, 히트 펌프는 실내·외 등에서 열을 이동시켜 적은 에너지로 냉난방을 하는 장치를 각각 말한다.&lt;br&gt;&lt;br&gt;이에 대해 문주현 단국대 에너지공학과 교수는 “AI(인공지능)를 돌리려면 막대하고 안정적인 전력이 필요하기에 원전으로 저렴하게 전기를 생산할 수 있는 우리나라에서 굳이 원전을 배제할 필요는 없다”며 “ESS도 천문학적 비용과 화재 등 안전 문제를 안고 있다”고 했다. 세계 각국이 탄소 중립 달성을 위해 원전에 대한 투자를 늘려가는 흐름과 어긋날 수 있다는 것이다. &lt;br&gt;&lt;br&gt;정용훈 카이스트 원자력양자공학과 교수는 “우리나라가 가진 원전 기술을 활용하지 않고 재생에너지 일변도로 가면 중국에 종속될 수 있다”고 했다. 에너지 안보에도 우려가 제기된다는 것이다. IEA(세계에너지기구)에 따르면 작년 말 기준 전 세계 태양광 누적 설치 용량은 약 2.1~2.25TW(테라와트)로, 이 중 중국이 절반가량인 1TW를 차지한 것으로 나타났다. IEA는 폴리실리콘·웨이퍼·셀 등 태양광 제조 단계 전반을 합치면 중국의 점유율이 80% 이상이라고 진단했다. &lt;br&gt;&lt;br&gt;3선 의원인 김 후보자는 탈원전과 재생에너지 확대 관련 입법을 주도해 왔고, 이번 대선에서 이재명 선거대책위원회 정책본부 공동본부장을 맡아 기후·에너지 분야 공약을 만들었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“돈만 전달했을 뿐인데…보이스피싱인가요?” 그림자 배심원의 판단은</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/24/4MAWOL22DNAWTHDSOHHRRP67ZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/4MAWOL22DNAWTHDSOHHRRP67ZY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 13:24:12 +0000</pubDate>
-      <content:encoded>“배심원 여러분, 법에 따라 공정하게 직무를 수행하겠다는 선서를 하겠습니다. 모두 일어나 주십시오.”&lt;br&gt;&lt;br&gt;서울 서초구 서울중앙지법 417호 대법정. 법대 앞 배심원석에 앉아 있던 배심원 8명이 동시에 일어섰다. 가장 앞줄에 있던 한 여성은 오른손을 얼굴 옆에 대고 대표로 선서문을 읽었다.&lt;br&gt;&lt;br&gt;“사실을 정당하게 판단할 것과 재판장이 설명하는 법과 증거에 의해 판단할 것을 엄숙히 선서합니다.”&lt;br&gt;&lt;br&gt;법정 뒤편 방청석에 앉은 시민 20명도 사뭇 긴장한 표정으로 고개를 끄덕였다. 이들은 국민참여재판을 체험하는 ‘그림자 배심원’이었다. 정식 배심원들은 아니지만, 재판 전 과정을 지켜본 뒤 피고인에게 어떤 형이 적절할지 의견을 내는 모의 배심원단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFU6YB6CPJPMFAOJ7YC75SUROY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 서초동 서울중앙지법에서 우민제 판사가 그림자배심원들을 대상으로 국민참여재판과 그림자배심 프로그램에 대해 설명하고 있다. 그림자배심원은 국민참여재판 과정을 지켜본 뒤 유·무죄나 양형에 모의 평결을 하고 재판제도 개선을 위한 의견도 낸다. 정식 배심원과는 달리 판결에 직접 영향을 미치지는 않는다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 이날 전기통신금융사기피해방지및피해금환급에관한특별법위반 등 혐의로 기소된 30대 여성 A씨에 대한 국민참여재판을 진행했다. 이날 재판은 올해 서울중앙지법에서 열린 첫 국민참여재판이었다. 법정에는 정식 배심원 8명(예비 1명 포함)과 20명의 그림자 배심원이 참석했다.&lt;br&gt;&lt;br&gt;그림자 배심원은 정식 배심원과 마찬가지로 증거 조사와 신문, 변론까지 재판의 모든 과정을 지켜본다. 이후 유·무죄에 관한 평의·평결을 하고 양형 의견도 내지만, 이들의 판단이 실제 판결에 반영되지는 않는다. 정식 배심원이 국민들 중 무작위로 선발되는 것과 달리, 그림자 배심원은 자발적으로 신청한 시민들 중에 선발된다. 그림자 배심은 법원 ‘전자소송포털’ 사이트에서 희망 날짜와 법원을 선택해 온라인으로 신청할 수 있다.&lt;br&gt;&lt;br&gt;이날 재판을 받은 피고인 A씨는 작년 9월 피해자 4명에게서 송금받은 총 6400만원을 달러나 원화로 인출해 보이스피싱 조직원에게 전달한 혐의로 기소됐다. A씨 측은 “범죄가 맞는지 아닌지 국민의 눈높이로 판단하기 어렵다면 처벌받는 게 정당할지 의문”이라며, 시민들이 A씨의 행동을 어떻게 볼지 알고 싶어 국민참여재판을 신청했다고 밝혔다. &lt;br&gt;&lt;br&gt;쟁점은 A씨가 자신의 행동이 보이스피싱 범행이라는 사실을 알았는지 여부였다. 검찰은 “돈을 인출해 은행 근처에서 전달하는 등의 행위는 비상식적이고 당연히 보이스피싱 관련이라는 것을 예견할 수 있었을 것”이라고 지적했다. 그러나 A씨 측은 “정해진 사람에게 돈을 전달하는 일을 하면 신용 점수를 높여 대출을 받을 수 있다는 인터넷 광고를 보고, 실적을 쌓기 위해 했을 뿐 보이스피싱인지 몰랐다”며 무죄를 주장했다. 방청석에 앉아있던 배심원들은 검찰과 피고인 측 변호인을 번갈아 바라봤다. 메모를 하거나 고개를 갸웃거리기도 했다.&lt;br&gt;&lt;br&gt;검찰은 배심원들의 이해를 돕기 위해 ‘눈높이 설명’을 했다. 검사는 “보이스피싱 범죄에서는 미필적 고의가 있었는지가 핵심”이라며 “미필적 고의는 ‘속마음’이다. 자신의 행위가 보이스피싱 관련이라는 것을 알 수 있는데도 ‘그냥 하자’고 마음먹고 한 경우를 말한다”고 법률 용어를 쉽게 풀어 설명했다. “배심원들이 보이스피싱 범죄가 어떤 방법으로 이뤄지는지 수법을 알 필요가 있을 것 같다”면서, 보이스피싱 관련 뉴스 영상을 재생하기도 했다.&lt;br&gt;&lt;br&gt;또 검사는 “단지 피고인이 불쌍해 보인다는 이유로 유무죄를 판결해서는 안 된다”면서 “개인적 경험, 지역이나 정치적 성향 등은 잠시만 접어두고, 오직 법정에서 나오는 객관적인 증거와 진술에 한해 판단해주시길 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;이날 오전 11시에 시작한 재판은 오후 6시 30분이 되어서야 마무리됐다. A씨를 수사했던 경찰에 대한 증인 신문과 피고인 신문, 검찰 구형과 피고인 측 최후 진술까지 모든 절차가 진행됐다. &lt;br&gt;&lt;br&gt;재판이 끝난 뒤 진행된 모의 평결에서 그림자 배심원 7명은 만장일치로 A씨가 유죄라는 의견을 냈다. 형량에 대한 의견은 징역 2년(1명), 징역 6개월(1명), 징역형 집행유예(5명)로 갈렸다.&lt;br&gt;&lt;br&gt;재판부는 이날 A씨에게 징역 1년에 집행유예 2년, 사회봉사 명령 120시간과 추징금 110만원을 선고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울중앙지법, 김용현 ‘재판부 기피 신청’ 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/06/24/ZUWBMCFF4VE2XI7RTSD6QHCMOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/ZUWBMCFF4VE2XI7RTSD6QHCMOE/</guid>
@@ -876,36 +979,6 @@
       <description/>
       <pubDate>Tue, 24 Jun 2025 12:27:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYK3LZKGSBV2VHTFIIZCJZCMLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관이 내란 특별검사(특검)의 추가 기소 사건을 맡은 재판부를 바꿔달라며 법관 기피 신청을 했으나 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)은 24일 김 전 장관 측의 재판부 기피 신청을 기각했다고 밝혔다. 현행법상 재판 지연 의도가 명백한 기피 신청의 경우 재판부가 바로 기각할 수 있다.&lt;br&gt;&lt;br&gt;앞서 윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특검은 지난 18일 김 전 장관을 위계에 의한 공무집행방해 및 증거인멸교사 등 혐의로 추가 기소했다. 김 전 장관이 작년 12월 2일 대통령경호처를 속여 비화폰을 지급받은 뒤 민간인이었던 노상원 전 정보사령관에게 건넨 혐의와, 비상계엄 이후인 같은 달 5일 수행비서 역할을 한 양모씨에게 계엄 관련 자료 등을 없애라고 지시한 혐의 등을 적용했다.&lt;br&gt;&lt;br&gt;사건이 서울중앙지법 형사34부에 배당되자, 김 전 장관 측은 “재판부 구성원 전원에 대한 기피 신청을 접수한다”며 “형사소송법에 따라 심문 절차가 즉각 정지돼야 한다”고 했다. 서울중앙지법 형사34부는 25일 김 전 장관에 대한 구속영장 심문기일을 연다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>숙명여대, 김건희 여사 석사 학위 취소... 국민대도 박사 무효 착수</title>
-      <link>https://www.chosun.com/national/education/2025/06/24/FZBSEOXIZ5DN3FQ3SUUYIIMLWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/24/FZBSEOXIZ5DN3FQ3SUUYIIMLWU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 11:42:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZDF2QXFTPPWEM6EXGP5NZDRNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숙명여대가 윤석열 전 대통령 부인 김건희 여사의 석사 학위 논문을 취소하기로 했다. 숙대의 석사 학위 취소 결정에 따라 김 여사가 박사 학위를 받은 국민대도 박사 논문에 대한 취소 절차에 들어갔다. &lt;br&gt;&lt;br&gt;숙대는 “교육대학원 위원회가 교내 연구윤리진실성위원회의 취소 요청을 검토한 결과 학칙에 따라 김 여사의 석사 학위 취소를 결정했다”고 24일 밝혔다. 지난 2021년 김 여사의 석사 논문에 대한 표절 논란이 제기되고 대학이 2022년 관련 검증에 착수한 지 3년 만에 논문 취소가 결정된 것이다. &lt;br&gt;&lt;br&gt;김 여사는 1999년 숙대 교육대학원에 ‘파울 클레(Paul Klee)의 회화의 특성에 관한 연구’ 논문을 제출해 미술교육 석사 학위를 받았다. 대학 측은 숙대 졸업생으로 구성된 민주동문회와 일부 교수가 논문 표절 의혹을 제기하자 조사에 착수했지만 3년 동안 결과를 알리지 않아 ‘깜깜이 조사’라는 비판을 받았다. 윤 전 대통령에 대한 탄핵 절차가 본격 시작된 올 1월에야 해당 논문이 표절이라는 조사 결과를 확정하고 김 여사에게 통보했다. 김 여사는 별도 불복 의사를 표명하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;국민대도 이날 보도자료를 내고 김 여사의 박사 학위 취소 절차에 착수했다고 밝혔다. 국민대는 “고등교육법에 박사 학위 과정 입학 자격은 석사 학위를 소지한 자로 규정하고 있어 석사 학위가 취소된 경우 박사 학위 과정 입학은 자격 요건을 상실한다”고 설명했다. 김 여사는 지난 2008년 국민대 테크노디자인전문대학원에서 ‘아바타를 이용한 운세 콘텐츠 개발 연구: ‘애니타’ 개발과 시장 적용을 중심으로’라는 제목의 논문으로 박사 학위를 받았다. 테크노디자인전문대학원은 조만간 대학원위원회를 열고 김 여사의 박사 학위 취소 안건을 심의·의결할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DNLWIFTKBE6IPWP6KY2CILA76A.jpg?auth=53a40aa21fa2f78f69285042bc4d3eb466e5a030cbd804625e8083806faeb4a1&amp;smart=true&amp;width=600&amp;height=407" type="image/jpeg" height="407" width="600">
-        <media:description type="plain">윤석열 전 대통령의 부인인 김건희 여사가 서울 용산구 한남동 대통령 관저를 떠나고 있다. photo 뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>강경파 박단, 전공의 비대위원장 사퇴...의대생 복귀 논의 본격화될 듯  </title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/24/TQ3CIW3EFRDATPCENAYAUHWANY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/24/TQ3CIW3EFRDATPCENAYAUHWANY/</guid>
-      <dc:creator>조백건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 11:55:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMN7ZSTJRZO7VAVNORZL56X5SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 대한전공의협의회 비상대책위원장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 정부의 의대 증원 발표에 반발해 사직한 1만여 명 전공의들을 대표해왔던 박단 대한전공의협의회(대전협) 비상대책위원장이 24일 사퇴의 뜻을 밝혔다. &lt;br&gt;&lt;br&gt;박 위원장은 이날 각 병원 전공의들을 대상으로 보낸 공지에서 “모든 직을 내려놓고자 한다”며 “지난 1년 반, 부족하나마 최선을 다했으나 실망만 안겼다”고 했다. 이어 “모든 것이 내 불찰”이라며 “모쪼록 사태가 조속히 해결되기를 진심으로 기원한다”고 했다. &lt;br&gt;&lt;br&gt;박 위원장은 지난 1년 4개월간의 의정 갈등 기간에 사직 전공의들의 구심점 역할을 해왔다. 그와 지도부가 택한 카드는 정부의 대화 요구에 일절 응하지 않는 이른바 ‘탕핑(躺平·드러눕기)’이었다. 전공의 집단 사직의 여파로 중환자들이 몰리는 대형 병원마저도 수술과 입원이 반 토막 났다. 수술이 줄줄이 연기되자 암 환자 등은 조속한 갈등 타결을 요구하는 성명을 발표했다. 결국 작년 4월 윤석열 당시 대통령은 박 위원장에게 대화를 요청했고, 2시간 동안 면담이 진행됐다. 하지만 2000명 의대 증원 방침을 폐지해달라는 박 위원장의 요청을 윤 전 대통령이 수용하지 않으면서 면담은 성과 없이 끝났다. 면담 후 박 위원장은 소셜미디어에 “대한민국 의료의 미래는 없다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;전공의 공백 사태가 장기화하자, 정부는 작년 5월 2025학년도 의대 모집 인원을 2000명에서 1500명 선으로 줄이겠다고 했고, 올해 초엔 증원 자체를 백지화하겠다고 발표했다. 의료계에선 “탕핑으로 정부 양보를 이끌어 냈다”는 말이 나왔다. &lt;br&gt;&lt;br&gt;하지만 박 위원장은 증원 외에도 ‘필수 의료 (지원) 패키지’ 정책 등의 백지화를 추가 요구하는 등 강경 입장을 유지했다. 그러자 최근 전공의 사회 내에서도 “독단적 결정” “강경 노선으로 협상 골든 타임만 놓쳤다”는 비판이 터져 나오기 시작했다. 박 위원장의 사퇴는 이런 내부 반발과 무관치 않다는 지적이다. &lt;br&gt;&lt;br&gt;서울대병원·서울아산병원·세브란스병원 전공의 대표는 이날 입장문을 내고 “새 비대위 구성을 위한 임시 대의원 총회를 26일과 28일 열겠다”고 했다. 일각에선 박 위원장의 사퇴로 전공의·의대생 복귀 논의가 본격화할 것이란 말도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“가격 올려 섭취 줄이자”... 국민 60% “설탕세 부과해야”  </title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/06/24/5RT65H7ZJRGV5PS7GGGNV6AC3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/24/5RT65H7ZJRGV5PS7GGGNV6AC3I/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 11:50:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2ABIX2GIJJQ5ORXEWK66PV5OY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 대형마트에 설탕이 진열돼 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5세 아들을 키우는 김지민(41)씨는 ‘뽀로로 음료’를 주기적으로 사들인다. 11g의 당류(235mL 기준)가 함유돼 있다. 세계보건기구(WHO) 유아(3~5세) 당류 섭취 기준(35g)의 3분의 1 수준이다. 김씨는 “아이가 하루에 하나는 꼭 마셔 당을 너무 많이 먹게 되는 게 아닌가 걱정”이라고 했다. &lt;br&gt;&lt;br&gt;한국인들의 음료를 통한 당 섭취량이 늘고 있는 가운데, 국민 10명 중 6명은 ‘설탕세’ 도입에 찬성한다는 조사 결과가 나왔다. 설탕세는 설탕이 들어간 음료 등에 별도의 세금을 매기고, 가격을 올려 섭취를 줄이자는 취지다.&lt;br&gt;&lt;br&gt;24일 서울대학교 건강문화사업단이 한국리서치에 의뢰해 국민 1000명을 대상으로 조사한 결과를 보면, 당류 과다 식품에 건강개선부담금 형태로 ‘설탕세’를 부과하는 방식에 대해 58.9%가 찬성했다. 사업단은 “설탕세를 부과해 건강공동체기금을 조성하고, 이를 필수·공공의료 지원, 노인 및 취약계층 지원, 학교 체육 활동 및 급식 질 향상 등에 사용해야 한다”고 주장했다. 담뱃갑에 흡연 위험성을 경고하는 그림·문구를 넣는 것처럼 청량음료 제품에도 설탕 위험성에 대한 경고문을 써넣을 필요가 있다는 의견에는 82.3%가 찬성했다.&lt;br&gt;&lt;br&gt;설탕세는 1922년 노르웨이가 최초로 시행했다. 설탕세 시행 국가는 2000년까지 17국에 불과했으나 2016년 WHO가 각국에 도입을 권고한 이후 급속히 늘어 현재는 영국·이탈리아 등 120여 국이 됐다. 영국은 음료 100mL당 설탕 함유량에 따라 최대 0.24파운드(약 440원)를 부과한다. 베트남은 2027년부터 100mL당 당류 5g 이상인 청량음료에 8%의 특별소비세를 부과한다. &lt;br&gt;&lt;br&gt;국내에서 설탕세 도입 필요성이 제기되는 것은 당류를 과다 섭취하는 국민이 많아서다. 2021년 기준으로 국민 4명 중 1명(25.6%)이 WHO 권고 기준(성인 하루 50g)을 초과해 당류를 섭취하는 것으로 나타났다. 어린이·청소년은 10명 중 4명(40.3%)이 당류를 과다 섭취한다.&lt;br&gt;&lt;br&gt;윤영호 서울대 건강문화사업단장은 “정부가 ‘저당 정책’을 펼치고 있지만, 비만·당뇨 등 성인병은 줄지 않고 있어 설탕세를 도입할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹측 “기습 체포영장은 부당… 정당 절차 따르면 소환 응할 것”</title>
@@ -924,64 +997,6 @@
       <description/>
       <pubDate>Tue, 24 Jun 2025 10:44:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDRRN5HL6XXS6UH7IL7AKJXFRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 김용현 전 국방부 장관이 헌법재판소에서 열린 윤석열 대통령 탄핵심판 4차변론에 증인으로 출석해 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관이 내란 특검의 추가 기소에 반발해 제기한 이의신청을 심리할 재판부가 배당됐다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면 김 전 장관이 낸 이의신청은 이날 서울고법 형사20부(재판장 홍동기 수석부장판사)에 배당됐다. 해당 재판부는 김 전 장관 측의 보석 항고에 대해 이날 기각 결정을 내린 바 있다.&lt;br&gt;&lt;br&gt;앞서 지난 18일 내란 사건을 수사하고 있는 조은석 특검은 김 전 장관을 공무집행 방해, 증거인멸 교사 혐의로 추가 기소하고 김 전 장관에 대한 구속영장 발부를 법원에 요청했다. 이에 따라 서울중앙지법은 해당 기소 건을 형사34부(재판장 한성진)에 배당하고 구속심문 기일을 잡았다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 이같은 추가 기소에 반발하며 즉각 이의신청과 집행정지 신청을 제출했다. 내란특검법에 따르면 수사 대상이 된 자 또는 변호인 등은 특검 수사대상 사건과 무관한 자를 소환·조사한 경우 등 특검의 직무범위 이탈에 대해 서울고법에 이의신청을 할 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “법불아귀… 피의자 尹에 끌려다니지 않을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/24/BV2SBCOJDVEVPFE544SMWO42CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/BV2SBCOJDVEVPFE544SMWO42CQ/</guid>
-      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 09:53:52 +0000</pubDate>
-      <content:encoded>24일 윤석열 전 대통령에 대해 체포영장을 청구한 내란 특검 측은 “윤 전 대통령은 여러 피의자 중 한 명에 불과하다”며 “(윤 전 대통령 측에) 끌려다니지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKDA76PDHJI5JIDARMMEMYFK5U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검 박지영 특검보가 24일 오후 서울 서초구 서울고검 기자실에서 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀의 공보를 맡고 있는 박지영 특검보는 이날 오후 6시 20분 서울고검 기자실에서 브리핑을 열고 이같이 말했다. 박 특검보는 “다른 피의자들은 모두 조사를 받았지만, 윤 전 대통령은 조사에 응하지 않은 유일한 사람”이라고 지적했다. 이어 “특검은 수사 기간에 제한이 있고 여러 어려움이 예상된다”면서도 “끌려다니지 않겠다”고 했다. ‘법불아귀(法不阿貴)’라는 사자성어를 인용하며 “형사소송법에 따라 엄정하게 진행할 예정”이라고도 했다. 법불아귀는 ‘법은 신분이 귀한 자에게 아부하지 않는다’라는 뜻으로, 고대 중국 사상가인 한비자가 남긴 말이다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 5시 50분쯤 서울중앙지법에 윤 전 대통령의 체포영장을 청구했다. 영장 청구 여부를 결정할 일과 시간이 끝나기 직전에 청구된 만큼, 발부 여부는 25일 중 결정될 것으로 보인다. 박 특검보는 “청구 시각에 의미를 둔 것은 아니다”라며 “준비가 되자마자 영장을 청구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 경찰과 고위공직자범죄수사처(공수처)의 체포영장 집행을 저지하라고 대통령경호처에 지시했다는 의혹과 관련해 특수공무집행방해와 직권남용권리행사방해 혐의를 받는다. 비상계엄 직후 비화폰 자료 삭제를 지시했다는 의혹에 대해 특검은 직권남용 교사 혐의를 적용했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUIMPTK7ZDOTQBBKSAQOK7OXEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 혐의로 체포된 윤석열 대통령이 지난 1월 15일 오전 경기 과천 고위공직자범죄수사처(공수처)에 도착해 조사실로 향하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 특검보는 ‘체포영장 청구 사실을 공개하는 것이 이례적이지 않느냐’는 기자 질문엔 “조사를 위한 청구이기 때문에 말씀드린 것”이라고 했다. 추가 영장 청구 등에 대해선 “별도로 이야기하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;체포영장이 집행될 경우 조사할 시설이 마련됐느냐는 질문에 박 특검보는 “특별하게 조사실이 마련돼야 하느냐”며 “조사실 같은 경우 다 마련이 돼 있다”고 말했다. 전직 대통령이라고 해서 특별한 배려를 하지 않겠다는 뜻으로 풀이된다.&lt;br&gt;&lt;br&gt;앞서 경찰과 공수처, 국방부 조사본부로 구성된 공조수사본부는 지난해 12월 30일 윤 전 대통령에 대한 체포영장을 청구했고, 다음 날 법원이 이를 발부한 바 있다. 올 1월 15일 윤 전 대통령은 헌정 사상 처음으로 현직 대통령일 때 체포됐고, 체포 두 달 만인 지난 3월 7일 구속이 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, 윤석열 체포영장 청구… “출석 요구 3회 불응”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/24/V4UDQTDSAJD6DAGN2QI243SRJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/V4UDQTDSAJD6DAGN2QI243SRJI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 08:54:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERSCSK6ZN5NXPAB3KEEPYR4XI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란 및 외환 혐의 등을 수사하는 내란 특검은 24일 윤 전 대통령에 대해 특수공무집행방해 등 혐의로 체포영장을 청구했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검 측은 이날 언론 공지를 통해 “윤 전 대통령은 경찰의 출석 요구에 2회에 걸쳐 불응하고, 특검이 수사를 개시한 6월 18일 이후인 19일에도 출석에 불응하면서 이후 소환에도 응하지 않을 의사를 명확히 밝힌 것”이라고 했다. 이어 “23일 사건을 인계받은 특검은 사건의 연속성을 고려해 피의자 조사를 위한 체포영장을 청구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;경찰 비상계엄 특별수사단은 윤 전 대통령이 지난 1월 자신의 체포영장 집행을 저지하라고 지시한 혐의 및 12·3 비상계엄 직후 관련자들의 비화폰 관련 정보를 삭제하라고 지시한 혐의를 수사해왔다. 이에 대한 조사를 위해 세 차례에 걸쳐 소환 조사를 통보했지만, 윤 전 대통령 측은 경찰의 체포영장 집행 자체가 불법이라는 이유를 들며 조사에 불응했다. 또 체포영장 집행을 저지하라고 지시한 적도 없다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 경찰 특수단과 고위공직자범죄수사처(공수처), 국방부 조사본부로 구성된 공조수사본부는 지난해 12월 30일 윤 전 대통령에 대한 체포영장을 청구했고, 다음날 법원이 이를 발부한 바 있다. 특검이 이날 청구한 체포영장의 발부 여부도 25일 결정될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JQ5VYJGJAQ7CYV7IM43S332IPE.jpg?auth=c50cb019fc1065535851ac1395be86d9c709e6d4fe51bac861fd733dde8ebefe&amp;smart=true&amp;width=1969&amp;height=1468" type="image/jpeg" height="1468" width="1969">
-        <media:description type="plain">윤석열 전 대통령 /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독]“상품권 판다” 속여 6천만원 강탈…용인 지하주차장서 ‘사기극’ </title>
-      <link>https://www.chosun.com/national/incident/2025/06/24/CLPXHV5XQVD35JXWJP7A7OAEKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/24/CLPXHV5XQVD35JXWJP7A7OAEKI/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 09:41:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상품권 장외 거래를 가장해 고액 현금을 빼앗는 강도 사건이 벌어졌다. 경찰은 용의자 1명을 붙잡았고, 도주 중인 공범을 쫓고 있다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면, 이날 오후 4시 22분쯤 용인시 수지구 신봉동의 한 상가 지하주차장에서 “거래 도중 가방을 빼앗겼다”는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;조사 결과, 피해자인 50대 남성 A씨는 평소 상품권 장외거래를 해오던 인물로, 사건 당일 온라인 채팅을 통해 접촉한 이들과 거래 약속을 잡고 현장을 찾았다고 한다. 용의자들은 상가 지하주차장으로 A씨를 유인한 뒤, 대화 도중 갑자기 돌변해 A씨가 들고 있던 현금 6000만원이 든 가방을 강제로 빼앗고 달아난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범인은 2명이었다. 이 중 20대 남성 B씨는 현장에서 도주했지만, 경찰이 인근 수색 중 차량 내에서 검거했다. 차량에서는 그의 신원이 확인될 수 있는 신분증도 발견됐다. 함께 범행에 가담한 또 다른 남성은 현재 도주 중이다. 경찰은 감시 카메라와 차량 번호판 등을 분석해 추적 중이다. 경찰은 순찰차에 피해자를 태워 일대를 수색하는 한편, 인력을 지하주차장 일대에 긴급 배치했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유임된 송미령 “머릿수 위해 계엄 국무회의 동원...무력감·무능감” </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/24/NJZS4MRZOVDJ3GALZUHBJIODVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/NJZS4MRZOVDJ3GALZUHBJIODVQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 09:14:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XVQK7OISRLCFIERTUHCD4RTQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송미령 농림축산식품부 장관이 24일 서울 용산 대통령실 청사에서 열린 국무회의에 참석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 정부에서 임명됐지만 이재명 정부에서 유임된 송미령 농림축산식품부 장관이 ’12·3 비상계엄’이라는 조치를 두고 “이를 막지 못해 국민들에게 죄송하고 저 스스로 무력감이 있다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;24일 본지 취재를 종합하면 송 장관은 지난해 12월 17일 서울중앙지검에 참고인 신분으로 출석해 약 7시간 동안 조사를 받으며 계엄 선포 직전 국무회의에 참석한 경위와 당시 상황 등에 대해 진술했다. 조사는 변호인 입회하에 진행됐다.&lt;br&gt;&lt;br&gt;송 장관은 검사가 ‘현재 많은 국민들이 이번 비상계엄 조치에 대해 위헌적이라고 분노하고 있다. 이에 대한 입장은 어떠한가’라고 묻자 “저는 대통령의 계엄에 대해 동의하지도 않고 동조한 적도 없지만, 결과적으로 이를 막지 못한 것에 대해 국민들에게 죄송하다”며 “저 스스로 무력감, 무능감, 분노감도 있다”고 대답했다.&lt;br&gt;&lt;br&gt;그러면서 “머릿수를 채워주기 위해 동원돼서 이런 상황이 발생하게 된 것에 대해 복합적인 심정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;송 장관은 계엄 당일 오후 울산에서 이상민 전 행정안전부 장관과 함께 김장 행사 및 중앙지방정책협의회 회의 등에 참석했다. 이후 밤 9시 20분쯤 김포공항에 도착해 10분 뒤 강의구 대통령실 부속실장으로부터 용산 대통령실로 들어오라는 연락을 받고 이동했다. &lt;br&gt;&lt;br&gt;약 40분 뒤 송 장관은 대통령실 회의장에 도착했는데, 그는 당시 상황을 두고 “대통령이 처음 (회의를) 시작할 때 ‘여러분들은 걱정이 많으시지만 누구랑 논의할 사안이 아니었다’라고 말을 시작하면서 이게(계엄) 왜 필요한지에 대해 설명을 하셨는데, 정말 경황이 없어서 대통령이 무슨 말을 했는지 기억이 나지 않는다“고 했다. 이어 “계엄이란 말을 듣고 가슴이 콩닥거리고 머릿속이 하얗게 됐다”고도 했다. &lt;br&gt;&lt;br&gt;또 송 장관은 “대통령이 이야기할 때 반대하거나 말하는 사람은 없었고, 대통령 혼자 이야기를 계속 했다”고 말했다. 이를 국무회의로 생각했는지에 대해선 “국무회의의 시작을 알리지 않았고 회의의 안건을 알리지 않았으며 회의의 끝도 없었다”며 국무회의라고 생각한 적이 없다는 취지로 주장했다. &lt;br&gt;&lt;br&gt;이화여대 정치외교학과를 졸업한 송 장관은 서울대에서 도시계획학 석사와 행정학 박사 학위를 취득했다. 1997년 한국농촌경제연구원에 입사해 2015년 부원장을 역임했으며 선임연구위원으로 일하다 지난 2023년 농식품부 첫 여성 수장이 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박건영 대검 과장 사의… 검사들 줄줄이 檢 떠나나</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/24/SPOJVGX2RNGGZE6U4TOZKUVY7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/24/SPOJVGX2RNGGZE6U4TOZKUVY7Y/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 09:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IAISWCAHBHST36ZF4PZYM66R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SM엔터테인먼트(SM) 시세조종’ 사건 등을 수사한 박건영(49·사법연수원 36기) 대검찰청 법과학분석과장이 최근 사의를 표명했다. 이재명 정부 출범 이후 부장검사급 검찰 인사가 사직하는 사실상 첫 사례다.&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 박 과장은 최근 사표를 낸 뒤 사직 절차를 밟고 있는 것으로 알려졌다. 검찰 한 관계자는 “특별한 사직 이유를 밝히진 않은 것으로 안다”고 말했다. 박 과장은 서울중앙지검 검사, 대검 검찰연구관, 서울남부지검 금융·증권범죄합동수사단, 서울남부지검 금융조사2부장 등을 거쳤다.&lt;br&gt;&lt;br&gt;박 과장은 남부지검 근무 시절 카카오의 SM 시세조종 의혹 사건을 수사해 배재현 카카오 투자총괄대표와 카카오 법인 등을 기소했다. 작년 12·3 비상계엄 당시에는 박 과장이 국군 방첩사령부 간부와 통화를 했다는 사실이 알려져 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;법조계에서는 “이재명 정부가 검찰 개편·폐지를 밀어붙이는 상황에서 검사들이 잇따라 사퇴할 가능성도 있다”는 말이 나왔다. 한 부장검사는 “검찰청 폐지, 공소청 신설 등이 추진되며 검사들이 동요하는 분위기”라고 말했다. 다만 윤석열 정부에서 고위직을 지낸 일부 검사장들은 바로 사직하지 않고 직을 지킬 것이라는 전망도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>e음카드 캐시백 확대, 중기‧소상공인 금융지원 강화… 인천시, ‘긴급 민생경제 안정대책’ 추진</title>
-      <link>https://www.chosun.com/national/regional/2025/06/24/MXOPHFJRWFDLFCCUODHBPHZJ5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/24/MXOPHFJRWFDLFCCUODHBPHZJ5M/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 24 Jun 2025 02:54:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PNZYOLBVZFSBKNATFZ2AV7ZHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장이 24일 인천 남동구 인천시청 브리핑룸에서 긴급 민생경제 안정대책을 발표하고 있다. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 전자식 지역 화폐 인천e음 카드의 캐시백 비율을 높이고 중소기업과 소상공인 대상 금융 지원 강화 등 지역 경기 활성화 대책을 추진한다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 24일 이 같은 내용을 담은 ‘긴급 민생경제 안정 대책’을 발표했다. &lt;br&gt;&lt;br&gt;유 시장은 내수 경기 침체와 불안정한 중도 정세 등으로 지역 경제 상황이 악화돼 이번 대책을 준비하게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;인천시는 우선 7월부터 인천e음 카드의 캐시백을 현재 5%에서 7%로 확대한다. 9월부터는 10%로 확대할 계획이다. 이 같은 캐시백 비율은 연 매출 3억~30억원 규모의 가맹점에서 인천e음 카드를 사용할 경우 적용된다. 또 9월부터는 인구 감소 지역인 강화군과 옹진군에서 e음 카드를 사용할 경우, 최대 15%의 캐시백(연 매출액 30억원 이하)을 지급할 계획이다. 인천시는 이 같은 캐시백 비율을 연말까지 지속할 방침이다. &lt;br&gt;&lt;br&gt;인천시는 NH농협은행, 기술보증기금, 케이뱅크, 카카오뱅크 등과 협력해 중소기업과 수상공인 대상 4000억원대 경영 안정 자금 등 금융 지원도 나선다. &lt;br&gt;&lt;br&gt;인천시는 이 외에 소상공인들이 물류비 부담을 줄일 수 있게 1000원만 내면 택배를 보낼 수 있는 이른바 ‘천원택배’를 7월부터 연말까지 시행하고, 9월부터는 인천시립교향악단 정기공연, 인천 연고 프로스포츠 경기, 인천시티투어버스 등 인천의 문화·관광·체육 프로그램을 1000원에 이용할 수 있는 이른바 ‘천원티켓’(전국 1만명 대상)도 추진한다. &lt;br&gt;&lt;br&gt;인천시는 지역 상품 구매를 늘리고 공공기관 발주 사업의 지역 업체 참여 확대를 유도하는 내용의 캠페인도 지속할 방침이다. &lt;br&gt;&lt;br&gt;유정복 시장은 “어려운 경제 상황을 극복하기 위한 대책을 모든 수단을 동원해 마련하고자 했다”며 “시민이 체감할 수 있는 민생 정책을 확대하기 위해 더욱 힘쓰겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
