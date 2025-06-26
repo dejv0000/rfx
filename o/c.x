@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>30주년 ‘환경의 날’ 정부포상...하지원 에코나우 대표 등 3명 동백장</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/06/26/JB64JBCYFRBG5BLIUIXKETA2ZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/26/JB64JBCYFRBG5BLIUIXKETA2ZA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Jun 2025 10:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ5IQWXCOZEEFOJP5UWYZ6KR34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 광화문에서 열린 30주년 '환경의 날' 정부 포상 전달식에서 안세창 환경부 기후탄소정책실장(가운데)와 수상자들이 기념 촬영을 하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 ‘환경의 날’ 30주년을 맞아 환경부가 사회 각 분야에서 환경 보전을 위해 힘쓴 38명에게 정부 포상을 했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;환경부는 이날 오후 서울 광화문에서 안세창 기후탄소정책실장 주재로 정부 포상 전달식을 가졌다.&lt;br&gt;&lt;br&gt;국민훈장 동백장(冬柏章)은 하지원 에코나우 대표, 이창우 그린텍아이엔씨 대표이사, 조경두 인천연구원 명예연구위원 등 3명이 받았다.&lt;br&gt;&lt;br&gt;하지원 대표는 국내 유일의 UNEP(유엔환경계획) 공식 파트너인 비정부기구(NGO) 에코나우를 16년 간 이끌며 청소년 환경 교육, 환경특화도서관 운영 등을 통해 연간 3만여명에게 환경 교육을 진행한 공로를 인정 받았다.&lt;br&gt;&lt;br&gt;이창우 대표이사는 20여년 간 아프리카, 동남아시아 등에 우리나라의 상수관망 기술을 수출해 해외 시장 개척에 기여하고, 지방 상수도 현대화 사업을 통해 노후 상수도 시설을 개선해왔다.&lt;br&gt;&lt;br&gt;조경두 명예연구위원은 29년 간 지역 단위 기후변화 영향 적응 이슈를 발굴하고, 중앙정부와 지방자치단체간 협력을 강화해 각종 기후변화 적응 대책의 수립과 이행에 기여해왔다.&lt;br&gt;&lt;br&gt;이날 전달식에는 국민포장을 받은 조영민 삼성물산 리조트 상무, 국민포장을 받은 김응철 환경부 사무관, 이규진 아주대 교수도 참석했다.&lt;br&gt;&lt;br&gt;올해 환경의 날 정부 포상은 훈장 3명, 포장 5명, 대통령표창 15명, 국무총리표창 15명 등 총 38명에게 이뤄졌다.&lt;br&gt;&lt;br&gt;안세창 실장은 “우리 사회 곳곳에서 환경 보전을 위해 헌신한 모든 수상자 분들의 노고에 큰 감사를 전한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법 승계 의혹’ 이재용, 7월 17일 대법원 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/26/L2BFTJVJBBHWRBCRHH6MSSBLH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/L2BFTJVJBBHWRBCRHH6MSSBLH4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Jun 2025 10:06:06 +0000</pubDate>
+      <content:encoded>이재용 삼성전자 회장의 ‘삼성바이오로직스 분식회계 의혹’ 사건에 대한 대법원 판단이 오는 7월 17일 내려진다. 지난 2020년 9월 재판에 넘겨진 지 약 5년 만이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AIOCKMY6XBODHSSECMPZMA4RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장이 지난 2월 3일 서울 서초 서울고등법원에서 열린 '경영권 불법 승계' 의혹 자본시장과금융투자업에관한법률위반등 항소심 선고공판에서 무죄를 선고받은 후 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법조계에 따르면, 대법원 3부(주심 오석준 대법관)는 다음 달 17일 오전 11시 15분 이 회장을 비롯한 14명에 대한 상고심 선고를 진행한다. 지난 2월 대법원에 사건이 접수된 이후 5개월 만이다.&lt;br&gt;&lt;br&gt;이 회장은 2015년 제일모직과 삼성물산을 합병하면서 경영권 승계와 그룹 지배력 강화를 위해 주식 시세를 조종했다는 혐의 등으로 기소됐다. 이 과정에서 자신이 대주주로 있는 제일모직의 가치를 높이기 위해 자회사였던 삼성바이오로직스의 분식 회계에 관여했다는 혐의도 받았다. 이 회장은 자본시장법 위반, 업무상 배임, 외부감사법 위반 등 3개 죄목에 총 19개 혐의를 받았다. &lt;br&gt;&lt;br&gt;1·2심은 이 회장의 모든 혐의에 대해 무죄를 선고했다. 1심은 “제일모직·삼성물산 합병은 이 회장의 승계만을 목적으로 이뤄졌다고 볼 증거가 부족하다”며 “오히려 여러 증거나 사실관계에 따르면 삼성물산의 사업적 목적도 있었다고 봐야 한다”고 판단했다.&lt;br&gt;&lt;br&gt;검찰은 2심에서 2144건의 추가 증거를 제출하고 공소장을 변경하는 등 혐의 입증에 나섰지만, 2심 재판부 역시 “제출된 증거를 종합할 때 회계 처리에 (분식 회계 등) 고의성이 있다고 보기 어렵다”면서 “파급 효과가 큰 공소 사실을 추측, 시나리오, 가정(假定)에 의해 형사 책임을 인정할 수 없다”며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부모 청소일 나간 사이 화재 참변… 7세 동생 장기 기증하기로 </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/26/AU6AZZEMINEOHFSEW326RFCVTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/AU6AZZEMINEOHFSEW326RFCVTY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Jun 2025 08:34:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/237XPZD7WBPJ3PPHXA2OYWM6RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 어린이 2명이 숨지고 다친 부산진구의 한 아파트 화재 현장에서 소방당국과 경찰 등 관계 기관이 합동감식을 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모가 새벽 청소 일을 나간 사이 불이 나 어린 자매가 숨진 가운데, 둘째 딸인 7세 여아의 장기 기증 절차가 진행됐다.&lt;br&gt;&lt;br&gt;26일 연합뉴스에 따르면 부산진구 아파트 화재로 크게 다친 7세 여아가 병원에서 치료받다가 전날 뇌사 판정을 받았다. 부모는 한국장기조직기증원을 통해 딸의 장기를 기증하기로 결정했다. &lt;br&gt;&lt;br&gt;자매의 빈소는 따로 차려지지 않았으며 이날 오후 경남 김해에 있는 낙원추모공원에 유골이 안치될 예정이다. &lt;br&gt;&lt;br&gt;낙원추모공원 관계자는 “기증 수술을 마친 뒤 자매를 함께 추모 공원에 봉안하기로 했다”며 “유족은 깊은 슬픔 속에서 다른 생명을 살리기 위해 장기 기증을 결단했고 이식이 필요한 여러 환자에게 새로운 삶의 기회를 전하게 됐다”고 했다. 공원은 장기나 조직 기증자에게 안치단을 무상으로 제공하고 있다.&lt;br&gt;&lt;br&gt;어린 자매는 지난 23일 오전 4시 15분쯤 부산 부산진구 개금동의 한 아파트 4층에서 발생한 화재로 변을 당했다. 사고 당시 부모는 청소 일을 하러 집을 비운 상황이었다. 이 불로 안방에서 자고 있던 10세 여아 1명이 일산화탄소 중독으로 숨지고, 7세 여아 1명이 심정지 상태로 병원에 이송됐다. 아이는 치료를 받던 중 저산소증에 의한 뇌 손상으로 끝내 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“정치 성향 달라” 文 사저 앞서 시위자·유튜버 폭행 60대 집유</title>
+      <link>https://www.chosun.com/national/regional/2025/06/26/JTBSKRTWPVEAJOJTT4VQLYK6O4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/26/JTBSKRTWPVEAJOJTT4VQLYK6O4/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Jun 2025 08:45:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신과 정치적 성향이 다른 유튜버와 시위자 등을 폭행한 60대에게 1심에서 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;울산지법 형사2단독 사공민 부장판사는 특수폭행, 모욕 등의 혐의로 재판에 넘겨진 60대 A씨에게 징역 10개월에 집행유예 2년을 선고하고, 120시간의 사회봉사를 명령했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;진보 성향 유튜버인 A씨는 지난 2023년 4월 초 문재인 전 대통령의 사저가 있는 경남 양산시 평산마을 인근에서 1인 시위를 하고 있던 50대 B씨에게 다가가 뺨을 때렸다.&lt;br&gt;&lt;br&gt;A씨는 이후 3개월간 1인 시위를 이어간 B씨의 정강이와 엉덩이, 목 등을 발로 차거나 밀쳤다.&lt;br&gt;&lt;br&gt;그는 자신과 정치 성향이 다른 B씨가 계속 1인 시위를 하는 것에 화가 나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 평산마을에서 라이브 방송을 하는 다른 유튜버에게도 욕설을 하며 폭행했다. 그는 폭행과 모욕 등으로 1년 2개월간 재판을 받는 기간 중 범행을 이어갔다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 표현의 자유, 집회의 자유를 빙자해 자신과 정치적 성향이나 생각이 다른 사람들을 피해자로 삼은 점에서 죄질이 불량하다”며 “피해 정도가 심하지 않은 점, 일부 피해자들과 합의한 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장례식장 이용 불만 민원 매년 130여건… 물품 강매, 사용료 과다 청구 빈번</title>
+      <link>https://www.chosun.com/politics/goverment/2025/06/26/6ECXVBB52NANXC22YVTFU2SNOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/06/26/6ECXVBB52NANXC22YVTFU2SNOU/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 26 Jun 2025 08:35:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTVYFMFAWVLJHL5O4SV5BGZS3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회 박은령 민원정보분석과장이 26일 오전 정부세종청사에서 최근 5년 3개월간 장례식장과 관련해 접수된 민원 551건을 분석한 결과를 발표하고 있다. /국민권익위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“장례지도사가 입관식에서 노잣돈으로 시신에 5만원권 넣으라고 강요하더니, 유족이 보는 앞에서 돈을 챙겨 자기 호주머니에 넣었다.”&lt;br&gt;&lt;br&gt;“장례식장에서 꽃과 관, 운구차를 강매해 거절했더니 입관실을 쓰지 못하게 했다.”&lt;br&gt;&lt;br&gt;국민권익위원회는 이렇게 장례 과정에서 피해를 당했다는 내용의 민원이 2020년 1월부터 이달 3월까지 5년 3개월간 정부 각 기관에 총 551건 접수됐다고 26일 밝혔다. 장례 관련 민원은 코로나19 유행으로 장례식 다수가 축소돼 진행됐던 2020년과 2021년에는 각각 50건, 52건에 그쳤으나, 2022년 이후에는 매년 130여 건이 접수되고 있다. 장례 과정에서 불합리한 요구를 받았다는 민원이 가장 많았고, 음식물을 재사용하는 등 위생상 문제가 있다는 불만과 꽃이 재사용되고 있다는 민원이 그다음으로 많았다.&lt;br&gt;&lt;br&gt;한 민원인은 가입해둔 상조회사의 장례 서비스를 받으려 했으나, 장례식장 측이 지정한 상조회사를 이용하라고 강요했다고 밝혔다. 다른 민원인도 “모 병원 장례식장은 유족이 개인적으로 상조회사를 이용하거나 장례 비용을 후불하려 하는 경우에는 장례식장을 이용하지 못하게 한다”며 “장례식장의 ‘직영’ 서비스를 이용해야만 장례식을 치를 수 있게 하는 것은 갑질”이라는 의견을 냈다. 또 다른 민원인은 “장례식장이 자기네가 공급하는 유골함과 버스, 수의(壽衣)만 쓰라고 한다”며 “상조회사에 가입한 국민도 있고 회사가 장례를 지원해주는 경우도 있는데, 자기네 상품만 사라고 하는 것은 문제가 있다”고 고발했다.&lt;br&gt;&lt;br&gt;한 민원인은 장례식장 측이 장례용품을 안내서만 보고 고르게 했다고 지적했다. 민원인은 “‘수의1’ ‘수의2’ 등으로 번호만 붙은 품명과 6만~48만원의 금액이 적힌 가격표만 보여준 상태에서 어떤 수의를 선택할 것인지 물었다”고 했다.&lt;br&gt;&lt;br&gt;장례 관계자들이 계약한 내용을 지키지 않는다는 민원도 있었다. 관련 민원인은 “상조 도우미 2명은 계약서상 밤 10시 퇴근인데도 마음대로 1시간 일찍 퇴근해버리고, 발인일에는 아침상만 차리고 끝났는데도 8시간 근무한 것으로 청구했다”며 “가족장이라 도우미를 1명만 써도 됐는데, 2인 1조로 3일간 정산한 일당이 무려 70만원이었다”고 토로했다.&lt;br&gt;&lt;br&gt;장례식장 측이 사용료를 자의적으로 부과하고, 현금 결제를 유도하거나 현금 영수증 발급을 거부하는 등 탈세로 의심되는 행위를 한다는 신고도 있었다. 한 민원인은 “고인이 병원에서 사망해 시신이 같은 병원 장례식장으로 오전 10시쯤 옮겨졌고 장례식장을 다음 날 오전 5시까지 사용했는데 사용료로 2일 치 240만원이 청구됐다”며 “이의를 제기했더니 호텔처럼 ‘얼리 체크인’이라고 하더라”고 했다. 다른 민원인은 “장례식장 계약 전에 시신을 두세 시간 정도 안치실에 모셨는데, 다른 장례식장으로 가겠다고 하니 안치실 사용료로 39만원을 청구하더라”며 “고인을 모시는 게 급해 일단 사용료를 지불하고 영수증 처리를 해달라고 하자 간이 영수증만 만들어줬다”고 했다.&lt;br&gt;&lt;br&gt;장례식장 직원이 장례식장 주방의 비위생을 신고하기도 했다. 이 직원은 “주방 담당자가 각 빈소에서 상주들이 제사에 사용한 전과 소고기 산적, 사과, 배 등을 버리지 않고, 산적은 육개장에 넣고, 과일은 홍어무침 등에 재사용하고 있다”며 “상주들이 알게 될까 두렵다”고 했다. “제수용품을 유족들 몰래 재사용하면서 각 유족에게 제수 비용으로 15만원씩 받고 있다”는 고발도 있었다.&lt;br&gt;&lt;br&gt;화환과 관련해서도 재사용을 두고 민원이 접수됐다. 한 민원인은 “모 장례식장은 상주에게 들어온 근조 화환을 상주가 처분하면 불이익을 준다고 협박해 화환을 남겨두게 하고, 이를 특정 꽃집이 독점적으로 처분하도록 해 폭리를 취하고 있다”고 주장했다. “화환 배송 업체들이 화환을 수거해 꽃집에 다시 팔면서, 모든 거래를 현금으로만 한다”며 “화환 수거권을 얻기 위해 장례식장에 뒷돈을 주는 일도 횡행하고 있다”는 신고도 있었다.&lt;br&gt;&lt;br&gt;권익위 유철환 위원장은 “국민 대부분이 생애 한 번 이상 유족이 되는 경험을 하지만, 장례식장 이용과 관련해 불만이 있어도 고인에 대한 예의와 장례 절차로 인해 직접적으로 문제를 제기하는 데 어려움을 겪는 실정”이라고 지적했다. 권익위는 이번 민원 분석 결과를 통해 나타난 개선 요청 사항 등을 토대로 장례식장 관련 제도 개선안을 마련할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>고법 “남영진 전 KBS 이사장 해임 처분 취소해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/26/QV7DTDJ74ZFEPIDF4AG64SNLW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/QV7DTDJ74ZFEPIDF4AG64SNLW4/</guid>
@@ -867,24 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCOBCNS6R2EZJFT27VFUC4BEYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원 전세사기 피의자 정모 씨 부부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;760억원 규모의 ‘수원 일가족 전세사기’ 사건 주범이 2심에서도 사기죄 법정 최고형인 징역 15년을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소5-3부(재판장 박신영)는 25일 사기, 감정평가법 위반, 부동산 실명법 위반, 업무상 배임, 상법 위반 등의 혐의를 받는 임대인 정모씨 일가족에 대한 항소심 선고 공판을 열고, 정씨에게 징역 15년을 선고했다. 또 공범인 그의 아내 김모씨에게는 징역 6년을, 이들의 아들 정모씨에 대해선 징역 4년을 각각 선고했다. 1심과 같은 형이다.&lt;br&gt;&lt;br&gt;정씨 일가는 지난 2021년 1월부터 작년 9월까지 경기 수원시 등지에서 일가족 및 법인 명의로 보유한 약 800가구의 주택을 이용해 임차인 500여명으로부터 전세보증금 760억원을 가로챈 혐의를 받는다. 이들은 ‘무자본 갭투자’ 방식으로 주택 수백 가구를 취득한 것으로 파악됐다. 정씨는 700억원이 넘는 채무 초과 상태에서 계약을 계속하는 등 돌려막기 방식으로 임대를 해온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;정씨는 부동산 임대 법인 17개소를 설립해 법인카드로 상품권을 구매하고 이를 현금화하는 등 이른바 ‘상품권 깡’으로 법인 돈을 횡령한 혐의도 있다. 그는 범죄 수익금 중 13억원을 ‘리니지’ 등 게임에 쓰기도 했다. 감정평가사인 아들 정씨는 아버지의 요청을 받고 시세보다 높은 가격으로 임대 건물에 대해 ‘업(UP)감정’하는 방식으로 범행에 가담한 혐의를 받는다. 이들은 재판에서 “경기침체 등 외부적 요인 때문에 보증금을 반환하지 못한 것일 뿐, 사기의 고의성은 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UW44CWGRM3IE233DJHDA7EUV2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'수원 전세사기' 정씨 일가로부터 피해받은 임차인들이 가장 많이 거주하는 곳 중 한 곳인 경기 수원시의 한 빌라. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판부는 “(주범) 정씨는 2012년부터 별다른 자본 없이 이른바 갭투자 방식으로 임대 사업을 하면서 피해자들에게 막심한 경제적 피해를 줬으며 게임 아이템을 구매하기 위해 많은 돈을 허비했다”며 “다만 극히 적지만 일부 임차인의 피해를 회복시킨 것으로 보이고 보증보험으로 일부 피해도 회복될 수 있을 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “아들 정씨는 부친이 전반적인 자금 관리를 도맡았다지만 2023년 4월부터는 임대 사업의 위험성을 인지했음에도 사업을 정리하려는 노력을 전혀 하지 않았다”며 “아버지 부탁에 따라 감정평가사로서 윤리를 버리고 건물을 고액으로 평가해 보증보험에 가입되도록 했다”고 했다.&lt;br&gt;&lt;br&gt;이날 피해자 10여명이 법정을 찾았다. 방청석에 앉아있던 한 남성은 판결 선고를 마치자, 정씨 일가를 향해 “평생 감옥에서 썩어라”라고 큰 소리를 외치기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김용현, ‘내란 특검 추가 기소’ 이의 신청, 서울고법서 각하</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/25/F7SSBLTADBDRHAOO2YO3JXB7AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/F7SSBLTADBDRHAOO2YO3JXB7AI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 06:27:48 +0000</pubDate>
-      <content:encoded>김용현 전 국방부 장관이 내란 특검의 추가 기소에 반발해 낸 이의 신청을 서울고법이 각하했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWKEAM5XSMGI2RZICOTQZP3CNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사20부(재판장 홍동기)는 25일 김 전 장관이 낸 이의 신청을 각하했다. 각하란 소송 요건이 안 되는 사건을 심리하지 않고 그대로 종결하는 것이다.&lt;br&gt;&lt;br&gt;앞서 내란 사건을 수사하는 조은석 특별검사는 지난 18일 김 전 장관을 공무집행 방해 및 증거인멸 교사 혐의로 추가 기소하고, 구속영장 발부를 법원에 요청했다. 서울중앙지법은 이 추가 기소 사건을 형사34부(재판장 한성진)에 배당하고 구속영장 심문 기일을 잡았다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 특검의 추가 기소에 반발하며 법원에 이의 신청과 집행정지 신청을 제기했다. 내란 특검법에 따르면, 수사 대상이 된 자 또는 변호인 등은 특검 수사 대상 사건과 무관한 자를 소환·조사한 경우 등 특검의 직무 범위 이탈에 대해 서울고법에 이의신청을 할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘한동훈 독직폭행 무죄’ 정진웅 검사, 2심도 “정직 취소해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/25/WBSFL4J2QBH3PO54J5NIY42GFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/WBSFL4J2QBH3PO54J5NIY42GFU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 06:21:39 +0000</pubDate>
-      <content:encoded>한동훈 전 국민의힘 대표를 폭행한 혐의로 기소됐다가 무죄를 확정받은 정진웅 대전고검 검사에 대한 정직 처분이 취소돼야 한다는 2심 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3G6Y3TUUUZE3FGCHKOTCWHI3LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진웅 법무연수원 연구위원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 행정11-3부(재판장 김우수)는 25일 정 검사가 법무부 장관을 상대로 낸 징계 처분 취소 소송에서 1심과 같이 원고 승소로 판결했다. &lt;br&gt;&lt;br&gt;정 검사는 서울중앙지검 형사1부 부장검사로 재직하던 2020년 7월 이른바 ‘채널A 사건’ 관련 압수수색 과정에서, 당시 법무연수원 연구위원이던 한 전 대표와 몸싸움을 벌였다. 정 검사는 특정범죄가중처벌법상 독직폭행 혐의로 그해 10월 기소됐지만 2022년 11월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;법무부는 형사 재판 결과와 별도로, 직무상 의무 위반과 품위 손상을 이유로 작년 2월 정 검사에게 정직 2개월의 징계를 내렸다. 이에 불복한 정 검사는 징계 처분을 취소해 달라며 법무부를 상대로 행정소송을 냈다.&lt;br&gt;&lt;br&gt;​앞서 1심은 “형사 사건에서 무죄 판결이 있었고, 의무 위반 경위나 과정에서 과실 정도 등을 고려했을 때 중징계에 해당하는 정직 처분을 내리는 건 재량권의 일탈 및 남용”이라며 정 검사의 손을 들어줬다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>뉴진스, ‘독자 활동 금지’ 가처분 확정…불복 포기</title>
       <link>https://www.chosun.com/national/court_law/2025/06/25/VTFDFRYJERADHN3CPYRUMPLH5E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/VTFDFRYJERADHN3CPYRUMPLH5E/</guid>
@@ -892,33 +919,6 @@
       <description/>
       <pubDate>Wed, 25 Jun 2025 05:37:05 +0000</pubDate>
       <content:encoded>걸그룹 뉴진스 멤버들이 소속사 어도어의 동의 없이 독자적으로 연예계 활동을 할 수 없다는 법원의 가처분​ 결정이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DYG3DHCHKX5GJYARTBVYCQ56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(왼쪽부터 하니, 민지, 혜인, 해린, 다니엘)가 지난 3월 서울 서초구 서울중앙지방법원에서 어도어 측이 멤버들을 상대로 제기한 ‘기획사 지위보전 및 광고계약 체결 등 금지’ 가처분 첫 심문기일을 마친 후 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 뉴진스 멤버들은 ‘기획사 지위 보전 및 광고 계약 체결 등 금지’ 가처분 인용을 유지한 서울고법 민사25-2부(재판장 황병하)에 전날까지 재항고장을 제출하지 않았다. &lt;br&gt;&lt;br&gt;이 재판부는 지난 17일 뉴진스 측의 이의 신청 항고를 기각하면서, 뉴진스 멤버들이 소속사의 동의 없이 연예계 활동을 해서는 안 된다는 가처분 결정을 유지한 바 있다. 재항고는 법원의 결정 고지를 받은 날로부터 7일 이내에 제기해야 하는데, 뉴진스 멤버들이 기한 내 절차를 밟지 않으면서 법원의 결정이 확정됐다. &lt;br&gt;&lt;br&gt;뉴진스 멤버들은 소속사 어도어와 전속계약 분쟁을 벌이고 있다. 작년 8월 어도어가 민희진 전 대표이사를 해임한 일이 발단이 됐다. 뉴진스 멤버들은 민 전 대표의 복귀를 요구했지만 받아들여지지 않자, 같은 해 11월 어도어에 전속계약 해지를 통보했다. 어도어가 계약상 의무를 위반해 신뢰 관계가 파탄났다는 취지였다.&lt;br&gt;&lt;br&gt;이후 뉴진스 멤버들은 팀 이름을 ‘NJZ’로 바꾸고 독자적으로 광고 계약을 체결하는 등 연예계 활동을 했다. 이에 어도어는 지난 1월 독자적인 연예계 활동을 하지 못하게 해달라며 기획사 지위 보전 및 광고 계약 체결 등 금지 가처분을 신청했다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사50부(재판장 김상훈)는 지난 3월 해당 가처분 신청을 전부 인용하며 “뉴진스 멤버들은 어도어의 사전 승인·동의 없이 스스로 또는 어도어 외 제3자를 통해 연예 활동을 해서는 안 된다”고 판단했다. 뉴진스 멤버들이 이에 불복했지만 모두 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;또한 법원은 지난달 어도어가 뉴진스를 상대로 낸 간접 강제 신청을 받아들였고, 뉴진스 멤버들이 독자적으로 활동할 경우 멤버별로 위반 행위 1회당 10억원을 어도어에 지급하라고 결정했다.&lt;br&gt;&lt;br&gt;한편, 이번 가처분 사건과는 별개로 어도어가 뉴진스 멤버들을 상대로 낸 전속계약 유효 확인 소송은 1심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 경찰 수뇌부 재판서 “내란 야기한 자들에 엄정 책임…신속 재판해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/25/PDUPXBB2YRGZ7GZKOPT6EWPISA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/25/PDUPXBB2YRGZ7GZKOPT6EWPISA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 05:24:31 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWW7DPEZ4J4S6FXA4EIM7NGWRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 서울경찰청장(왼쪽)이 지난해 12월 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다. 오른쪽은 조지호 경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 내란 혐의로 기소된 경찰 수뇌부 재판에 처음으로 출석해 “더 신속한 재판이 필요하다”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 25일 조지호 경찰청장과 김봉식 전 서울경찰청장, 윤승영 전 경찰청 국가수사본부 수사기획조정관, 목현태 국회경비단장 등 경찰 지휘부 4명의 내란 중요임무 종사 혐의 재판을 진행했다. &lt;br&gt;&lt;br&gt;이날 내란 특검팀에서는 이윤제 특검보가 법정에 나와 “앞으로 조은석 특검의 지휘를 받아 공소유지를 담당하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이 특검보는 “온 나라를 혼란에 빠뜨린 12·3 내란 사태를 야기한 자들에 대한 엄정한 책임을 묻기 위해 사법 절차에 헌신하고 있는 재판부 수고에 감사드린다”며 “충실한 공소 유지 활동을 위해 신속하게 실체적 진실을 밝히려는 재판부의 소송 지휘에 적극 협력하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그동안 재판부와 검사들의 노고에도 불구하고 재판 장기화와 이에 따른 피고인들의 구속 기간 만료에 대한 국민의 걱정과 근심이 늘고 있다”며 “아무쪼록 재판부께서 더욱 더 신속하고 효율적으로 재판을 진행해 국민 우려를 불식시켜달라”고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 19일 검찰 특별수사본부로부터 내란 사건을 넘겨받고 관련 재판 공소 유지에 나섰다. 지난 23일 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에는 박억수 특검보가 출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장맛비 숨고르기에 전국 무더위...금요일 다시 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/25/TJQ3PD6WYZHZJFXG5EP5XOYZ7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/25/TJQ3PD6WYZHZJFXG5EP5XOYZ7Q/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 05:22:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUZBKDZIMVAEXEQFX7C7MQZ4LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장마가 잠시 숨 고르기를 하면서 26일 무더위가 나타날 것으로 예보됐다. 금요일인 27일에는 중부지방에 다시 비가 내리겠다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 26일 비구름대를 동반한 저기압의 영향으로 경기 북동부와 경북은 새벽까지, 강원도와 충북은 오전까지 비가 내리겠다. 예상 강수량은 강원 영서, 충북, 경북 중·북부 5∼30㎜, 강원 영동은 5∼20㎜로 예보됐다.&lt;br&gt;&lt;br&gt;다른 지역에선 비가 소강상태를 보이겠다. 강한 일사와 높은 습도 탓에 무더위가 예상된다. 26일 아침 최저기온은 18∼21도, 낮 최고기온은 26∼29도로 예보됐다. 내륙을 중심으로 낮 기온이 30도 안팎으로 오르겠고 최고 체감온도는 31도를 웃돌겠다.&lt;br&gt;&lt;br&gt;서울 등 수도권과 충청권은 27일부터 다시 비가 예고됐다. 27일 늦은 오후부터 인천, 경기서부에 비가 시작돼 밤에는 그 밖의 수도권과 충남으로 비가 확대되겠다. 27일 예상 강수량은 수도권과 충남에서 5mm 내외로 예보됐다. 비는 주말인 28일까지 이어질 것으로 전망된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지인 여성 폭행해 숨지게 한 30대… 항소심서도 징역 23년</title>
-      <link>https://www.chosun.com/national/regional/2025/06/25/XETWN4ABJNFZXO4YX7K5Q625WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/25/XETWN4ABJNFZXO4YX7K5Q625WY/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 05:16:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XZMC6FO2VVECOAQRUJJAWY5WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법.지법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린 자녀가 보는 앞에서 평소 알고 지내던 여성을 무차별 폭행해 살해한 30대 남성이 항소심에서도 원심과 같은 징역 23년을 선고받았다. &lt;br&gt;&lt;br&gt;대구고법 형사2부(재판장 왕해진)는 25일 살인 혐의로 1심에서 징역 23년을 선고받은 A씨에 대한 항소심에서 검사와 피고인의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 대구 남구 한 빌라에서 30대 여성 B씨를 마구 폭행해 숨지게 한 혐의로 재판에 넘겨졌다. 해당 빌라는 B씨의 집으로, 두 사람은 함께 술을 마시고 있던 중이었다. &lt;br&gt;&lt;br&gt;경찰은 상해치사 혐의를 적용해 A씨를 구속 송치했지만, 검찰이 보완 수사와 검찰시민위원회의 심의·의결을 거쳐 살인으로 혐의를 변경해 기소했다. B씨에 대한 부검 결과 늑골이 골절되면서 장기가 손상된 것으로 밝혀졌다. 사건 당시 현장에 B씨의 다섯 살짜리 딸이 함께 있었고, 엄마의 폭행 장면을 목격한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “사람의 가슴이나 복부를 장시간 타격할 경우 치명상을 입고 사망할 수도 있다는 것을 충분히 예견할 수 있는 만큼 미필적 살해의 고의가 있었음을 인정할 수 있다”면서 “A씨가 유족들로부터 용서받지 못했고 유족이 엄벌에 처해줄 것을 강력하게 탄원하고 있는 점 등을 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인터폴, 한국 사건에 첫 ‘은색 수배’… 14억 투자사기범 추적</title>
