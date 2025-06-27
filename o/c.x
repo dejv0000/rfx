@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>11억 빼돌려 필리핀으로 도주했던 은행원…18년만에 붙잡혀 강제송환</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/27/HHFZ57DU6NBXRFR2OFRVEAGYZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/HHFZ57DU6NBXRFR2OFRVEAGYZU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Jun 2025 04:48:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMFAKJSKHNO3PPN7PXGJX7L6SQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18년 만에 강제 송환된 은행 횡령사범. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 시중은행에서 대출 업무를 담당하며 11억원을 횡령해 필리핀으로 도주했던 50대 남성이 18년 만에 국내로 강제 송환됐다.&lt;br&gt;&lt;br&gt;27일 경찰청은 횡령 사범 A씨와 온라인 도박 사이트 운영자 등 2명을 필리핀 현지에서 검거해 이날 오전 강제 송환했다고 밝혔다.&lt;br&gt;&lt;br&gt;A(57)씨는 18년 전인 2007년 국내 시중은행에서 대출 담당 과장으로 근무하던 중 대출 관련 서류를 허위로 조작해 약 11억원을 횡령해 필리핀으로 도주했다. &lt;br&gt;&lt;br&gt;10년 넘게 붙잡히지 않았던 A씨는 2024년 9월 행정 서류 발급을 위해 필리핀 이민청에 방문했다가 현장에서 인터폴(국제형사경찰기구) 적색 수배자란 사실이 들통나 덜미를 잡혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 수갑을 찬 채 인천국제공항을 통해 한국으로 송환됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAB2UODUWBJUNE3QYHKUZVTOA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;필리핀에서 강제 송환된 도박사이트 운영자. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 온라인 도박사이트 운영자 B(41)씨도 필리핀 도피 생활 10년 만에 한국으로 강제 송환됐다.&lt;br&gt;&lt;br&gt;B씨는 2015년부터 공범 6명과 함께 필리핀을 거점으로 도박금 160억원 규모의 온라인 도박 사이트를 여러 개 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;B씨는 지난 3월 코리안 데스크(한인 사건 처리 전담 경찰관) 및 필리핀 이민청 수사관이 공조해 차량을 미행한 끝에 검거됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 검찰, ‘대장동 개발비리’ 김만배 징역 12년·유동규 징역 7년 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/06/27/U7KNSYICANFD5CR4O2S4OSC7MM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/U7KNSYICANFD5CR4O2S4OSC7MM/</guid>
@@ -953,19 +962,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/7M6B3KWRGU6V4NN5YAVGYCL4JE.jpg?auth=4f286556d4df024a1871bb7b0810e34d3b4a08ff085b18d388cc3a28943fc7fa&amp;smart=true&amp;width=1334&amp;height=1018" type="image/jpeg" height="1018" width="1334">
         <media:description type="plain">윤석열 전 대통령의 12.3 내란 및 외환 혐의 등을 수사하는 내란 특검팀 박지영 특검보가 24일 오후 서울 서초구 서울고검 기자실에서 브리핑을 하고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 노선웅 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>소환 없이 영장 청구했다 기각… 특검 “尹 28일 출석하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/26/72B4RZD64BBKLNC4YF52ZXHBAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/26/72B4RZD64BBKLNC4YF52ZXHBAY/</guid>
-      <dc:creator>김희래 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 16:17:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJDAOPRSUE55DRZRPHYD6NEVW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검팀과 윤석열 전 대통령 측이 ‘체포 영장’을 놓고 치열한 수싸움을 벌인 끝에, 윤 전 대통령이 일단 1승을 거뒀다. &lt;br&gt;&lt;br&gt;내란 특검팀은 최근 수사 개시와 함께 윤 전 대통령에 대해 출국 금지 조치에 이어 24일 체포 영장까지 청구했다. 그러나 법원은 25일 “특검의 출석 요구에는 응할 계획이었는데, 소환 통보 한번 없이 영장을 청구한 것은 부당하다”는 윤 전 대통령 측 주장을 받아들여 체포 영장을 기각했다. 내란 특검팀 관계자는 “윤 전 대통령 측에 오는 28일 오전 9시 출석해 조사받으라고 통지했다. 소환에 불응하면 체포 영장 청구를 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;체포 영장 기각 직후 윤 전 대통령 측은 “특검 수사가 법률의 테두리 안에서 공정하게 이뤄지길 촉구한다”며 “윤 전 대통령은 특검 소환 요청에 당당히 응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53Y7OEWPCJFO7GEV4CGJTLHOWM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇치열한 체포 영장 수싸움, 조은석 1패&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검은 지난 24일 윤 전 대통령에 대한 체포 영장을 청구하며 “(윤 전 대통령은) 지난 5일과 12일 경찰의 출석 요구에 불응하고, 특검의 수사 개시 이후인 19일에도 경찰의 출석 요구에 불응했다”면서 “이는 특검 소환에도 응하지 않겠다는 뜻을 명확하게 밝힌 것”이라고 했다. 별도의 출석 요구 없이 체포 영장을 청구한 이유를 이렇게 밝힌 것이다.&lt;br&gt;&lt;br&gt;이에 윤 전 대통령 측은 “특검과 경찰은 명백히 별개의 수사기관으로 경찰 단계의 출석 요구를 원용해 체포 영장을 청구한 것은 타당하지 않다”며 “특검 소환에는 응할 계획이었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZ2FSICH5RGG3CQJD73MNJYPR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 두고 법조계에선 “특수통 검사 출신인 두 사람의 수싸움이 본격화됐다”는 말이 나왔다. 윤 전 대통령 측에 대해선 현행법상 체포 영장 청구 요건을 흔들어, 법원이 영장을 기각하도록 유도했다는 평가가 나왔다. 법조계 한 인사는 “줄곧 경찰 수사가 불법이라고 주장해 오던 윤 전 대통령 측이 특검 수사는 받을 계획이었다고 밝혔으니, 소환 한번 하지 않은 특검 입장이 난처해졌을 것”이라고 했다. &lt;br&gt;&lt;br&gt;반면 조 특검에 대해 “윤 전 대통령 측 대응까지 고려한 수를 둔 것”이라는 분석도 나왔다. 고법 부장 출신 한 변호사는 “조 특검이 이례적으로 영장 청구 사실을 공개한 것은 ‘소환 조사에 응하려고 했다’는 윤 전 대통령 측 주장의 신빙성을 흔들기 위한 것으로 보인다”고 했다. 하지만 결과는 조 특검 1패다. 법원이 성급한 조 특검의 영장 청구를 기각한 것이다. 다만 윤 전 대통령 측이 특검 조사에 응하겠다는 입장을 밝힌 만큼, 조 특검이 소기의 성과를 거뒀다는 평도 나온다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇출국 금지 이어 체포 영장, 무리수였나&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검이 체포 영장 청구까지 몰아붙인 나름의 이유가 있었다고 한다. 지난 23일 윤 전 대통령 측이 내란 재판에서 “특검법은 특정 정치 세력이 주도해 위헌적이다. 헌법재판소에 법률적 문제를 제기하겠다”는 입장을 밝혔기 때문이다.&lt;br&gt;&lt;br&gt;특검팀 내부에선 “특검 자체를 인정할 수 없다는 것 아니냐” “경찰 조사도 불응하는데 특검 조사에 응하겠느냐” 등의 반응이 나왔다고 한다. ‘특검법 위헌’까지 주장하고 나오니, 출석 요구를 해도 불응할 것이라고 판단했고, 위헌법률심판 제청 신청 등으로 ‘버티기’에 나설 가능성을 사전에 차단해야 한다는 공감대가 형성된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;하지만 이날 윤 전 대통령에 대한 체포 영장이 기각되자, 법조계에선 “의욕이 앞선 조 특검의 무리수였다”는 평가가 나왔다. 법조계 한 관계자는 “윤 전 대통령의 경우 조사에 응하겠다는 의사만 밝혀도 체포 영장을 발부하기가 쉽지 않다”며 “수사도 상당 부분 진행돼 있고, 도주 및 증거 인멸 우려도 크지 않은 상황”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇’외환죄’ 수사 의지 드러낸 조 특검&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 특검은 28일 윤 전 대통령에 대한 첫 조사를 진행할 계획이다. 윤 전 대통령을 비롯해 지난 정부·군 관계자들이 작년 10월 평양에 국군 무인기를 침투시켜 북한 도발을 유도하고 계엄 상황을 만들려 했다는 외환 혐의 수사에 집중할 것으로 보인다.&lt;br&gt;&lt;br&gt;형법상 외환죄는 외국과 모의해 우리나라에 위해를 가하는 중범죄로, 윤 전 대통령 등이 북한과 군사 도발을 모의했다는 점을 입증해야 한다. 조 특검은 평소 주변에서 “북한과 우리 정부가 모의했을 가능성이 낮지 않으냐. 모의를 했더라도 입증할 수 있겠느냐”는 의문에 대해 “그건 수사해 봐야 아는 것 아니냐”고 답한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PJDAOPRSUE55DRZRPHYD6NEVW4.jpg?auth=a8ddb8949f1487f7b22e3e03e19a5a1fdc28422b94ec048bc661eb5c8d8f07f1&amp;smart=true&amp;width=3872&amp;height=3072" type="image/jpeg" height="3072" width="3872">
-        <media:description type="plain">윤석열 전 대통령이 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
     </item>
   </channel>
