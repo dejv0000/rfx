@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“두 눈을 의심” 버스정류장에 천막 치고 음식 구워 먹은 여성</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/27/YRSKLIXJUBFHNMJUMJLYP2JJPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/YRSKLIXJUBFHNMJUMJLYP2JJPU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Jun 2025 08:25:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KX7XVJZJH5DYHNJEARRPJNUXF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 버스정류장에 천막을 치고 앉아 있는 모습./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 여성이 버스정류장에 가림막을 치고 토치로 음식을 구워 먹는 모습이 포착돼 논란이 되고 있다.&lt;br&gt;&lt;br&gt;26일 한 온라인 커뮤니티에 ‘버스정류장에서 캠핑을’이라는 제목의 글과 함께 여러 장의 사진이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 충남의 한 해수욕장 앞 버스정류장 공간에 그늘막을 설치하고 캠핑을 즐기는 듯한 여성을 목격했다. 공개된 사진을 보면 한 여성이 버스정류장 앞 방향으로 차를 세운 뒤 천막을 설치했다. 차량 앞유리를 덮은 천막을 정류장 기둥에 고정해 그늘막을 만들었다. 그 밑에는 해루질 장비가 플라스틱 바구니 등과 함께 놓여 있었다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “여긴 해수욕장인데 사람들이 며칠 머물면서 해루질을 많이 한다”며 “그런데 60대로 보이는 아주머니가 저렇게 해놓고 토치까지 사용해 뭘 구워 먹고 있다”고 남겼다.&lt;br&gt;&lt;br&gt;A씨는 “바람 쐬러 왔다가 저걸 보고 두 눈을 의심했다”며 “저 버스정류장은 (실제로) 버스가 운행하고 정차하는 곳이다. 반대편에는 해루질하러 온 차와 캠핑카가 줄줄이 주차돼 있다”고 설명했다. 그러면서 “저 아주머니는 노숙자가 아니다. 장비 물품들 보니 해루질 용품들이 가득 있다. 누가 봐도 해루질하러 오셔서 저러고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “캠핑이 아니고 노숙 아니냐” “지도 보니 대로변이던데 놀랍다” “나도 독산해수욕장 가서 봤는데 보기 안 좋더라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZW6EMAUDYNA53L5XEGLZXTH6I4.jpg?auth=bc489733b1a4ae6e6a758f31b1adaf20297cee211165fd95c9655cabb01a779a&amp;smart=true&amp;width=640&amp;height=512" type="image/jpeg" height="512" width="640">
+        <media:description type="plain">한 여성이 버스정류장에 천막을 치고 앉아 있는 모습./보배드림</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이종범 KT 코치 시즌 중 퇴단… ‘최강야구’ 감독으로 간다</title>
+      <link>https://www.chosun.com/national/people/2025/06/27/JUXUFQARVRBSFEOZNWB43TPPOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/27/JUXUFQARVRBSFEOZNWB43TPPOM/</guid>
+      <dc:creator>양승수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 27 Jun 2025 08:25:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACLKCDPV5NOJXOUBJ7LTO2FQPM.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 대구 라이온즈파크에서 열린 삼성과 KT의 경기 직전 이종범 코치가 선수들과 대화를 나누고 있다. /박재만 스포츠조선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 KT 코치를 맡고 있던 ‘바람의 아들’ 이종범이 시즌 중에 팀을 떠나 예능 프로그램에 합류한다.&lt;br&gt;&lt;br&gt;KT는 27일 부산에서 열리는 KBO(한국야구위원회)리그 롯데와의 원정 경기를 앞두고 이종범 코치를 1군 엔트리에서 제외했다.&lt;br&gt;&lt;br&gt;이종범 코치는 최근 JTBC 예능 프로그램 ‘최강야구’의 차기 시즌 감독으로 합류한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이종범 코치는 지난해 10월 KT에 합류해 외야·주루 코치를 맡았고, 올 5월부터는 타격 코치로 보직이 변경됐다. 그러나 전반기를 마치기도 전 팀을 이탈하게 됐다. KT는 시즌 77경기 38승 36패 3무로 7위를 마크하고 있다. 가을 야구 싸움을 위해 치열한 순위 경쟁을 벌이고 있는 상황이다.&lt;br&gt;&lt;br&gt;현역 시절에는 해태(현 KIA)에서 ‘바람의 아들’로 불리며 KBO를 대표하는 수퍼스타였다. 선수 시절 성적은 1706경기, 타율 0.297, 194홈런, 730타점, 510도루다. 이후에도 국가대표 코치, LG방송 해설자 등 다양한 이력을 쌓아왔다.&lt;br&gt;&lt;br&gt;KT 관계자는 “이종범 코치가 최강 야구 감독 합류를 하고 싶다고 퇴단을 요청했다. 구단은 감독과 협의해서 요청 수락했다”며 “이종범 코치 부재에 따른 전력 공백은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘보호관찰 불만’ 천안준법지원센터 방화범, 2심도 ‘징역 10년’</title>
       <link>https://www.chosun.com/national/regional/2025/06/27/23PPEWQZBFCE5NXBR4JLGBOE5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/27/23PPEWQZBFCE5NXBR4JLGBOE5I/</guid>
@@ -887,15 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZUDNG7MEFEMNMBACVDLYJDXY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영록 전남도지사가 26일 도청 브리핑실에서 민선 8기 출범 3주년 기자회견문을 발표하고 있다./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영록 전남지사가 26일 전남도청 브리핑실에서 민선 8기(2023~2026년) 3주년 기자회견을 열고 “광주 민간·군(軍) 공항 통합 이전이 속도감 있게 진행될 것으로 보인다”고 밝혔다. &lt;br&gt;&lt;br&gt;이날 기자회견은 전날 이재명 대통령이 광주광역시를 찾아 군 공항 이전을 국가 차원에서 다루겠다고 약속한 이후 이뤄졌다. &lt;br&gt;&lt;br&gt;이 대통령은 “대통령실 산하 태스크포스(과업 수행 특별기획팀)를 꾸려 국가 차원에서 대응하겠다”고 했다. 전남도와 광주시, 무안군, 국방부, 기획재정부, 국토교통부, 주민, 외부 전문가 등이 태스크포스에 참여할 예정이다. &lt;br&gt;&lt;br&gt;김 지사는 3주년 기자회견에서 “이 대통령이 군 공항 이전을 직접 챙기겠다고 약속했다”며 “무안 주민이 충분히 만족할 수 있는 정부 차원의 획기적인 국가 지원 방안이 마련되도록 노력하겠다”고 말했다. 광주시는 기존 군 공항 부지를 개발하는 방식으로 1조원가량을 무안에 지원할 방침이다.&lt;br&gt;&lt;br&gt;이 밖에 전남 의대 설립에 대해서는 “이재명 정부에서 반드시 실현하겠다”고 했다. 김영록 지사는 “전남도 국립의과대학 설립은 이미 팔부 능선을 넘었다”며 “국립목포대, 국립순천대와 함께 지난달 만든 ‘통합의대 설립 공동준비위’를 중심으로 일을 빠르게 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘흙 냄새, 곰팡이 냄새 나요’, 인천서 수돗물 민원 80여건… “인체에는 무해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/26/KSGGS7CX6ZDYREWDF3KWXRVD34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/KSGGS7CX6ZDYREWDF3KWXRVD34/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Jun 2025 06:51:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4ZW3EH4MIHJTCRCU6ZZLVARLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 손을 씻기 위해 물을 틀고 있다. (기사 내용과 무관함)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 지역 수돗물에서 흙‧곰팡이 냄새가 심하게 난다는 주민들의 민원이 잇따르고 있다.&lt;br&gt;&lt;br&gt;26일 인천시 상수도사업본부에 따르면 지난 24일부터 25일까지 수돗물에서 악취가 난다는 민원이 80여 건 접수됐다. &lt;br&gt;&lt;br&gt;민원은 미추홀구와 남동구 지역을 중심으로 들어오고 있다고 시 상수도사업본부는 설명했다. &lt;br&gt;&lt;br&gt;시 상수도사업본부는 상수원인 팔당댐 원수(源水)에서 맛‧냄새 유발 물질인 2-MIB(메틸이소보르네올) 성분이 최근 급증해 이 같은 민원이 발생하는 것으로 파악하고 있다. &lt;br&gt;&lt;br&gt;팔당댐 원수의 2-MIB 농도는 지난 24일 1L당 80ng(나노그램)으로, 먹는 물 수질 감시 기준인 20ng보다 4배 정도 높았다고 한다. 시 상수도사업본부는 고수온의 영향으로 2-MIB를 유발하는 남조류가 일시적으로 많아진 것을 원인으로 보고있다. &lt;br&gt;&lt;br&gt;시 상수도사업본부는 분말 활성탄을 추가 투입해 맛‧냄새 유발 물질을 낮추는 등 정수 처리 공정을 강화했다. 현재 2-MIB 농도는 기준치 이하인 15ng 수준으로 내려온 상태다. &lt;br&gt;&lt;br&gt;시 상수도사업본부 관계자는 “2-MIB는 인체에 무해하고, 가열하면 사라지는 특성이 있다”며 “3분 이상 끓이면 냄새 없는 물을 마실 수 있다”고 했다. 이어 “수질 모니터링과 정수 처리 공정을 강화하는 등 비상 근무 체제를 유지하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>아오이 소라, 韓아이돌 성매매 의혹에 “AV배우는 매춘부 아니다”</title>
       <link>https://www.chosun.com/national/national_general/2025/06/26/R7R22ZL3QNGRJG3VFEWRRU5P2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/R7R22ZL3QNGRJG3VFEWRRU5P2M/</guid>
@@ -966,15 +978,6 @@
       <description/>
       <pubDate>Thu, 26 Jun 2025 00:53:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNVAASA4ABHXVD6LJLKWX5ZV2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이경규가 지난 8일 비틀거리며 차도를 걷고 있는 모습. /MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;약물 복용 운전 혐의로 경찰에 정식 입건된 코미디언 이경규(65)가 사건 당일 여러 차례 사고를 낸 사실이 드러났다.&lt;br&gt;&lt;br&gt;26일 MBN이 공개한 방범카메라 영상에 따르면 사건 당일 이경규는 병원을 방문하기 위해 길가에 차량을 주차하는 과정에서 주차돼 있던 버스를 가볍게 추돌했다. 이경규는 운전석에서 내린 뒤 비틀거리며 인도가 아닌 차도로 걸어가는 모습도 포착됐다.&lt;br&gt;&lt;br&gt;이경규는 피해 차량 운전자에게 감기약을 먹어서 감각이 느려져 차 뒤를 조금 쳤다고 설명했다고 한다. &lt;br&gt;&lt;br&gt;병원에 방문하기 전 주유소 세차장을 들러서는 직원이 후진하라고 손짓했지만 반대로 전진해 벽을 들이받았다.&lt;br&gt;&lt;br&gt;세차장을 빠져나온 뒤에는 신호등이 없는 도로에서 중앙선을 침범해 불법 좌회전을 하기도 했다.&lt;br&gt;&lt;br&gt;이씨 측 변호인 정구승 변호사는 조선닷컴과의 통화에서 “일부 사고가 있었지만 사건 당일 대체로 정상적으로 운행을 했다. 문제가 될 만한 큰 사고는 없었다”며 “걸음걸이는 원래 그래서 이를 입증할 평소 영상을 경찰에 제공할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;정 변호사는 “이경규씨가 평소에 운전을 거의 안 해서 운전이 서투르다”며 “세차장 같은 경우는 워낙 좁아서 이경규씨가 약물을 먹지 않은 상태에서도 접촉 사고를 낸 적이 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CYNKNCDOJMTFC5XWRRUTLVTEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이경규가 지난 24일 서울 강남경찰서에서 약물 운전 혐의 관련 조사를 마친 뒤 취재진 앞에 서있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이경규는 지난 8일 오후 2시쯤 강남구의 한 주차장에 주차 관리 요원의 실수로 자신의 차와 차종이 같은 다른 사람의 차를 몰고 이동하다, 차량 절도 의심 신고를 받고 출동한 경찰에 의해 약물 간이 시약 검사를 받았다. 해당 검사에서 양성 반응이 나오면서, 약물 운전 혐의로 조사를 받아왔다.&lt;br&gt;&lt;br&gt;경찰은 이경규를 약물 운전 혐의로 정식 입건했다. 처방 약이라도 도로교통법 제45조는 약물의 영향으로 정상적으로 운전하지 못할 우려가 있는 상태의 운전을 금지한다.&lt;br&gt;&lt;br&gt;이경규는 24일 서울 강남경찰서에서 조사를 마친 후 취재진에게 “공황장애 약을 먹고 운전하면 안 된다는 것을 크게 인지하지 못했다”며 “먹는 약 중 그런 계통의 약이 있다면 운전을 자제하는 것이 좋지 않겠냐는 말씀을 드리고, 저 자신도 앞으로 주의하도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양양 호텔 16층 객실에 나타난 비단뱀 한마리…“투숙객이 버린듯”</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/26/S5TEUDE26ZEWLJIUFXZSPXWS34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/S5TEUDE26ZEWLJIUFXZSPXWS34/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 25 Jun 2025 23:47:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIJU74WRPJGZDFYNH473SW5XT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양 소재의 한 호텔 객실에서 포획된 비단뱀./양양소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 양양의 한 호텔 객실에서 국제 멸종위기종인 비단뱀이 발견돼 소방당국이 포획했다. 반려동물로 기르던 뱀을 투숙객이 유기하고 간 것으로 추정된다.&lt;br&gt;&lt;br&gt;26일 양양소방서에 따르면 지난 16일 오후 5시쯤 양양군의 한 호텔 16층에서 뱀이 있다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;출동한 소방대원은 창틀 사이에 몸을 웅크리고 있던 뱀을 포획해 수거했다.&lt;br&gt;&lt;br&gt;발견된 뱀은 몸길이 약 50㎝로, 아프리카가 원산인 비단뱀류 ‘볼파이톤’이다. 성격이 온순하고 사육이 쉬워 국내에서도 반려동물로 흔히 길러지는 종이다. 국제적으로는 멸종위기종으로 지정돼 보호를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F62IRPFNHFGMXO37RZLE4JDPU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양 소재의 한 호텔 객실에서 비단뱀이 발견돼 소방당국이 포획에 나섰다./양양소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 이 뱀을 국립공원야생생물보전원 북부보전센터에 인계했다. 센터 측은 이 뱀이 생후 약 3개월 된 어린 개체로, 사람 손에 의해 길러진 흔적이 명확하다고 밝혔다.&lt;br&gt;&lt;br&gt;센터 관계자는 “온라인상에서 유통이 흔한 만큼, 무분별한 반입과 유기에 대한 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;포획된 비단뱀은 현재 국립공원야생생물보전원이 보호 중이며, 이달 말까지 소유자가 나타나지 않으면 지방환경청으로 인계될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
