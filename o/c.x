@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란특검, 尹 피의자 조사 종료... 조서 열람 중</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/28/ZMZUGLI5LBCC3I7MRAVTIGU7DE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/ZMZUGLI5LBCC3I7MRAVTIGU7DE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 13:02:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMVH3MTC7XBJ336BZ556GQCABM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 첫 특검 소환 조사가 마무리 수순에 접어들었다. 28일 오후 9시 50분부터 신문 절차를 종료하고, 조서 열람에 들어갔다.&lt;br&gt;&lt;br&gt;내란 특검 측은 언론 공지를 통해 조서 열람 사실을 밝혔다. 조서 열람은 조사자와 피의자 사이 문답을 마치고, 조사 과정에서 오고 간 문답이 조서에 이상 없이 기재됐는지 확인하는 절차다. 조사 양이 많을수록 시간도 더 많이 걸린다. 이재명 대통령은 국회의원 시절이던 2023년 8월 서울중앙지검에서 ‘백현동 개발 비리’ 의혹 관련 조사를 받았을 때 오전 10시 30분부터 오후 9시까지 10시간 30분 동안 조사를 받았고, 조서 열람에는 3시간가량을 썼다.&lt;br&gt;&lt;br&gt;다만 윤 전 대통령의 경우 이날 오전 있었던 ‘체포영장 집행 방해 지시’ 혐의 관련 조서에 이미 서명을 하지 않았고, 오후 1시 30분부터 4시 45분쯤까지 3시간 15분 동안은 조사를 거부해 실제 조사 시간은 이보다 적다. 특검에 따르면 윤 전 대통령은 오후 4시 45분부터 7시까지 2시간 15분 조사를 받았고, 저녁 식사 이후엔 오후 8시 25분부터 9시 50분까지 1시간 25분 조사를 받았다. 청사에 머무른 시간은 12시간을 넘겼지만, 실질적으로 조사가 이뤄진 것은 오전 조사 1시간을 더해도 4시간 40분에 그치는 것이다.&lt;br&gt;&lt;br&gt;한편 특검팀은 윤 전 대통령 조사가 파행을 겪는 등 조사가 충분하지 않았던 만큼 추가 소환이 불가피하다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상윤, 축구 용병 선수에 “코쟁이”... 논란 일자 자필 사과문</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/28/LVFP7JJIFJD5BAPD7THGGWJ3SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/28/LVFP7JJIFJD5BAPD7THGGWJ3SA/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 12:42:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEELINNGINCXJOPEFUUMI3ET4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;K리그1 경기 중계 도중 이상윤 해설위원(왼쪽))이 외국인 선수를 향해 '코쟁이'라는 발언을 해 인종차별적 발언이라는 지적이 직접 사과문을 올렸다. /뉴시스, 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 K리그1 경기 중계 도중 이상윤 해설위원이 외국인 선수를 향해 ‘코쟁이’라는 발언을 해 인종차별 논란이 일자 이 해설위원이 사과했다.&lt;br&gt;&lt;br&gt;28일 축구계에 따르면, 이상윤 해설위원은 27일 오후 7시 30분 김천종합운동장에서 열린 김천 상무와 전북 현대의 하나은행 K리그1 2025 21라운드 경기 중계에서 전북 공격수 안드레아 콤파뇨를 두고 “이탈리아산 폭격기, 코쟁이”라는 표현을 사용했다. 이날 경기는 전북이 2대 1로 승리했다. 이탈리아 국적의 콤파뇨는 두 골을 연달아 터뜨리며 팀 승리의 주역이 됐다. 이상윤 위원은 콤파뇨의 두 번째 득점 직후 문제의 발언을 했다. 표준국어대사전에서 ‘코쟁이’는 ‘코가 크다는 뜻에서 서양 사람을 놀림조로 이르는 말’이라고 설명하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XABGLCYNVNHXXBADIPFFW3NARM.png"&gt;&lt;figcaption&gt;&lt;small&gt;프로축구 전북 현대의 이탈리아 공격수 안드레아 콤파뇨. /전북 현대 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 장면을 본 축구 팬들은 온라인 커뮤니티 등에서 이 위원의 발언을 비판했다. 네티즌들은 “K리그의 품격을 훼손하는 발언이다” “인종차별적 발언이 방송에서 그대로 나온 것이 충격적이다” “저런 단어가 중계진 입에서 나오다니” “해외 해설진이 아시아 선수에 대해 ‘찢어진 눈’이라고 하는 것과 마찬가지” “콤파뇨 선수에게 직접 사과해야 한다”는 비판이 쏟아졌다. &lt;br&gt;&lt;br&gt;이에 이 해설위원은 28일 자신의 인스타그램을 통해 자필 사과문을 올리고 “부적절한 발언으로 불쾌감을 드린 점 진심으로 사과드린다”고 밝혔다. 그는 사과문에서 “전북 선수들과 콤파뇨 선수, K리그의 모든 외국인 선수에게 진심으로 사과드린다”라며 “골 장면 이후 흥분된 상태에서 선수의 기량을 칭찬하던 중, 부적절한 표현을 사용했다”고 했다. 그는 “평소 사용하지 않는 표현임에도 불구하고 순간적인 감정에 휩쓸려 나온 말”이라며 “의도와 상관없이 그 발언이 시청자분들께 상처가 되고 인종차별적 맥락으로 받아들여질 수 있었음을 깨달았다”고 했다.&lt;br&gt;&lt;br&gt;중계방송사인 스카이스포츠도 소셜미디어에 사과문을 올리고 “해설위원의 부적절한 발언에 대해 현장 제작사로서 무거운 책임감을 통감한다”면서 “마음속 깊은 상처를 받은 콤파뇨 선수와 K리그를 사랑하는 축구 팬, 그리고 시청자 여러분께도 진심 어린 사죄의 말씀을 드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란특검, 저녁 식사 후 尹 조사 재개… 자정까지 이어질 듯</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/28/FVMXYLL3J5FXZEVHYKENXG6IC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/FVMXYLL3J5FXZEVHYKENXG6IC4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 11:39:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOO4ZW5LTXV5DRKUY5VITSZSVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령을 소환한 내란특검이 28일 오후 8시 25분 조사를 재개했다. 오후 7시쯤 저녁 식사를 위해 중단했던 조사를 자정 전후까지 이어갈 전망이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 오후 4시 45분부터 7시까지 김정국(사법연수원 35기)·조재철(36기) 부장검사로부터 비상계엄 전후 국무회의 의결 과정 및 외환 혐의 등에 대한 조사를 받았다. 저녁 식사를 하고, 약간의 휴식을 취한 뒤 심야 조사에 들어가게 된다.&lt;br&gt;&lt;br&gt;앞서 오전 9시 56분 서울고검에 도착한 윤 전 대통령은 10시 14분부터 1시간가량 박창환 경찰청 중대범죄수사과장(총경)으로부터 체포영장 집행 저지 혐의에 대해 조사받았다. 특검팀은 점심 식사 후 이 혐의 조사를 이어가려 했지만 윤 전 대통령 측에서 경찰이 아닌 검찰이 조사를 해야 한다며 조사를 거부해 조사가 파행됐다.&lt;br&gt;&lt;br&gt;양측은 3시간가량 대치했으나, 특검팀이 체포 저지 혐의 조사를 중단하고 검찰이 주도하는 혐의 조사로 넘어가면서 윤 전 대통령 측도 응했다. 박지영 특검보는 오후 7시쯤 언론 브리핑에서 “오늘 중 조사를 마치긴 물리적으로 어려울 것으로 보인다”며 추가 소환 가능성을 열어뒀다. 조사는 피의자 신문 조서 열람을 포함해 자정 전에 끝낼 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6ZPREUG2C5MCDIQKWXHPRAMZJQ.jpg?auth=3e95141b0b2979eba7b0a1e425e3721577879ce0abfdbe22bbb4e3bce494f165&amp;smart=true&amp;width=5912&amp;height=3942" type="image/jpeg" height="3942" width="5912">
+        <media:description type="plain">&lt;YONHAP PHOTO-3107&gt; 윤석열 전 대통령 고검 현관으로 출석
+    (서울=연합뉴스) 서명곤 기자 = 윤석열 전 대통령이 28일 피의자 신분으로 내란특검 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하고 있다. 2025.6.28 [공동취재]
+    seephoto@yna.co.kr/2025-06-28 10:33:34/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>광화문 일대 ‘오징어 게임’ 퍼레이드로 차선 통제...교통 혼잡 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/28/4O7M6KADENH63EO7RPH6IFTGOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/28/4O7M6KADENH63EO7RPH6IFTGOQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 11:59:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSWWOG533RHEZKLJWFZ7AO4XCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;넷플릭스 시리즈 '오징어게임'의 마지막 시즌이 공개된 가운데 28일 오후 서울 광화문 광장에서 '오징어 게임 시즌3' 퍼레이드 행사가 진행되고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오후 서울 광화문 일대에서 ‘오징어 게임’을 테마로 한 대규모 퍼레이드가 열려 세종대로 일부가 통제됐다. 버스도 무정차 조치되며 교통 혼잡이 이어지자 시민들은 “오징어 게임 때문에 버스도 못 탔다”며 불만을 표하기도 했다.&lt;br&gt;&lt;br&gt;세계적인 흥행에 성공한 넷플릭스 시리즈 ‘오징어 게임’의 마지막 시즌이 공개된 가운데 이날 저녁 서울 세종대로에서는 ‘오징어 게임’ 대규모 퍼레이드가 열렸다. 이날 퍼레이드에 참가한 인원은 경찰 추산 5000여 명에 달했다.&lt;br&gt;&lt;br&gt;퍼레이드는 이날 오후 7시 30분부터 광화문 교차로에서 출발해 세종대로를 따라 서울광장까지 이어졌다. 세종대로 곳곳에서는 오징어게임의 대표 게임인 ‘무궁화 꽃이 피었습니다’가 진행됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUO4E2CW3FED5KJJMTOGMBKJNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 세종대로 일대에서 '오징어 게임 시즌3' 퍼레이드 행사가 진행되고 있는 가운데 외국인 관광객들이 사진과 영상을 찍고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퍼레이드가 진행되기 전인 오후 7시쯤부터 광화문 삼거리에서 서울광장까지 이어지는 세종대로 일부는 차선이 통제됐다. 세종대로 8개 차로 중 중앙 차로 4개가 통행이 통제됐고 서울정부청사 앞~광화문 삼거리 방향 2개 차선이 통제됐다. &lt;br&gt;&lt;br&gt;서울교통정보센터에 따르면 이날 오후 8시 30분쯤 세종대로(광화문~세종대로사거리)는 시속 15.4km로 서행 상태였다. 통제는 이날 오후 9시쯤 해제됐다. &lt;br&gt;&lt;br&gt;세종문화회관 앞 버스정류장도 무정차 조치됐다. 소셜미디어에서는 “오징어 게임 행사를 하나 본데 이러면 나는 어떻게 버스를 타냐” “오징어게임 퍼레이드 하려고 광화문 버스 차선까지 막고 어이가 없다. 어린이는 보지 못하는 청소년 관람불가 콘텐츠로 공공 이동 수단을 이렇게 막 통제하냐”는 등 시민들의 볼멘소리가 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IO2AKJSYSNBXJDVWN4UMM4KHLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 세종대로 일대에서 '오징어 게임 시즌3' 퍼레이드 행사가 진행되고 있는 가운데 외국인 관광객들이 사진과 영상을 찍고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 7시 50분쯤에는 새문안로 안전지대에서 대기하던 드라마 캐릭터 ‘영희’ 구조물이 세종대로사거리로 진입해 약 10분 정도 일부 통제가 이뤄지기도 했다. 이날 정오쯤부터는 사직로 경복궁역 6번 출구 앞에는 행사 준비에 쓰인 버스 14대가 이중 배치되고, 서울정부청사 앞부터 광화문 교차로 입구까지는 퍼레이드 차량 도열이 진행됐다.&lt;br&gt;&lt;br&gt;이번 행사는 서울시와 넷플릭스가 공동 주최하는 ‘2025 K-콘텐츠 서울여행주간’의 하나로 마련됐다. 서울시는 행사 당일 세종대로, 사직로, 새문안로 등 주요 도심 도로에 교통 안내 표지와 라바콘을 설치하고, 관할 경찰서와 협조해 안전 요원을 배치했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OA7XZ6SNIFB47LLLSW77KK445I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 시청광장에서 '오징어 게임 시즌3' 감독과 출연자가 참여하는 '팬 이벤트'가 진행되고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JBT4RN7QMVPDTBSM7DCEBOUWB4.jpg?auth=2800e5550326bea2c2e98edb14f2f266d000784563c91a533a145e5274bc6ba3&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">&lt;YONHAP PHOTO-3909&gt; '오징어게임 시즌3' 퍼레이드
+    (서울=연합뉴스) 윤동진 기자 = 28일 서울 세종대로에서 '오징어 게임 시즌3' 퍼레이드 행사가 진행되고 있다. 2025.6.28
+    mon@yna.co.kr/2025-06-28 20:47:13/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">윤동진</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹 내란 특검’ 서울고검에 수백명 몰려와 친윤·반윤 ‘맞불 집회’ </title>
+      <link>https://www.chosun.com/national/national_general/2025/06/28/LOUP6OVCL5ETFDACASV7ZN7HOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/28/LOUP6OVCL5ETFDACASV7ZN7HOU/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 11:03:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQH7I5LVP5F5HMBQWFG2AUDOTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 7시쯤 서울 서초구 서울고검 청사 앞 도로에서 수백명의 윤석열 전 대통령 지지자들이 응원 집회를 열고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 윤석열 전 대통령이 내란 특검 첫 소환 조사를 받는 가운데, 서울고등검찰청 인근에는 저녁이 되자 윤 전 대통령의 지지자들이 다시 수백 명 몰려왔다. 차로를 가운데 두고 촛불행동 등 윤 전 대통령을 반대하는 집회도 열려 ‘맞불 집회’가 이어졌다. &lt;br&gt;&lt;br&gt;28일 오후 7시쯤 서울 서초구 서울고검 앞 법원로에는 수백 명 규모의 윤 전 대통령 지지자들이 2개 차로를 점거하고 응원 집회가 열고 있었다. 이 도로는 오전 윤 전 대통령이 출석할 때 차량이 지나간 도로다. 이들은 윤 전 대통령이 조사를 마치고 귀가할 때까지 밤샘 집회를 이어갈 전망이다.&lt;br&gt;&lt;br&gt;집회 참가자들은 ‘사법 수호, 정치 수호’ ‘윤 어게인’ 등의 문구가 적힌 손팻말을 들고 “이재명 구속”을 연신 외쳤다. 일부 지지자들은 이재명 대통령의 얼굴과 함께 ‘Not my president’라는 문구가 적힌 손팻말을 흔들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUMG23AOEVEURDXTCCEOMONRQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 7시쯤 서울 서초구 서울고검 청사 앞 도로에서 수백명의 윤석열 전 대통령 지지자들이 응원 집회를 열고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차로 옆 건물 1층에도 ‘이재명 구속’이라 적힌 빨간 모자와 빨간 띠를 두른 윤 전 대통령 지지자들이 앉아 구호를 외치고 있었다. 인도 한 켠에서는 집회 참가자들이 저녁 끼니를 떼울 수 있도록 집회 주최 측에서 컵라면을 나눠주고 있었고 이를 받으려는 참가자들이 긴 줄을 서서 기다리고 있었다.&lt;br&gt;&lt;br&gt;이날 오전 10시쯤 300여 명에 달했던 지지자들은 윤 전 대통령이 서울고검 청사로 들어간 후 해산했다가 오후 6시쯤부터 다시 모였다. 이날 오후 서울 여의도에서 열린 보수 유튜버 안정권씨의 집회에 참석했던 지지자 수백 명이 행진을 취소하고 서울고검으로 모여 규모가 커지고 있다.&lt;br&gt;&lt;br&gt;한편 이곳으로부터 70m가량 떨어진 서초대로 일대에서는 진보 시민단체인 촛불행동이 2개 차로를 점거하고 윤 전 대통령의 구속과 국민의힘의 해산을 촉구하는 촛불 문화제를 열고 있었다. 이들은 ‘윤석열 김건희를 구속하라’ ‘국힘당을 해체하라’는 문구의 손팻말을 들고 “민주주의 파괴하는 내란수괴 윤석열을 구속하라”고 외치고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKGXO7X3SFBNJF6JKB6BI56JPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 7시쯤 서울 서초구 서초대로에서 촛불행동이 윤석열 전 대통령의 구속을 촉구하는 촛불문화제를 열고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 촛불행동 집회에 참가한 인원은 경찰 추산 400여 명이었다. 이들은 오후 6시쯤부터 집회를 열었고 오후 7시 30분부터 강남역을 거쳐 논현역으로 행진을 이어갔다.&lt;br&gt;&lt;br&gt;가까운 거리에서 양측의 집회가 열리자 이들은 4개 차로를 가운데 두고 양쪽에서 기싸움을 벌였다. 윤 전 대통령 지지자들은 신고된 집회 구역을 벗어나 촛불행동 맞은편 인도로 내려와서 손가락으로 욕설을 하고 노래를 불렀다. 태극기와 성조기를 흔들며 “종북 빨갱이들은 하루빨리 대한민국을 떠나라”고 소리를 지르기도 했다. 촛불행동 측 시위대도 고함을 지르며 ‘윤석열을 구속하라’는 문구가 적힌 손팻말을 거세게 흔들었다. 인도에서는 바리케이드 하나를 두고 시비가 붙기도 했다.&lt;br&gt;&lt;br&gt;한편 이날 오후 윤 전 대통령의 거부로 조사 과정에서 파행을 겪은 내란 특검은 3시간 30분 만에 조사를 재개했다. 이날 조사가 밤늦게까지 이어질 수 있다는 전망이 법조계에서 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLOXKRNHZZA3BOHRJ53IAFNYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 오후 서울 서초구 서초대로에서 윤석열 전 대통령의 지지자들이 촛불행동의 집회 참가자들을 향에 태극기를 흔들고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘명태균 의혹’도 김건희 특검팀으로 이첩</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/28/F555CWB2Y5CILDKKLJYKZEPM4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/F555CWB2Y5CILDKKLJYKZEPM4U/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 10:53:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NZEXLYHIAUYRMMDU5K4BC7BUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건 수사를 맡은 민중기 특별검사가 지난 27일 오전 서울 서초구 사무실로 출근하며 취재진의 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 정치 브로커 명태균씨 관련 사건들을 검찰로부터 넘겨받았다.&lt;br&gt;&lt;br&gt;시민단체 ‘사법정의바로세우기시민행동’(사세행)은 28일 입장문을 내고 “명태균 게이트와 관련해 검찰에 고발한 모든 사건이 지난 27일 김건희 특검으로 이첩 처분됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;명씨가 연루된 ‘공천 개입 의혹’은 윤 전 대통령 부부가 2022년 지방선거와 국회의원 재보궐 선거, 작년 국회의원 선거 등에서 공천에 개입했다는 내용이다. 김 여사는 2022년 대통령 선거 당시 명씨로부터 여론조사 결과를 무상으로 제공받고, 그 대가로 같은 해 열린 재보선에서 김영선 전 국민의힘 의원이 경남 창원 의창에 공천받도록 영향력을 행사했다는 의혹을 받고 있다. 김 여사는 또 지난해 총선 때 김상민 전 검사를 창원 의창 지역구에 공천하려고 한 의혹도 받는다.&lt;br&gt;&lt;br&gt;이 사건 수사는 창원지검이 작년 9월 명씨와 김영선 전 의원 자택 등을 압수 수색하며 본격화됐다. 작년 11월 검사 11명 규모의 특별수사팀이 창원지검에 꾸려지기도 했다. 작년 12월 특별수사팀은 2022년 국회의원 재보궐 선거 당시 수십 차례에 걸쳐 8070만원을 주고받은 김 전 의원과 명씨를 정치자금법 위반 혐의로 구속 기소했다. 특별수사팀은 올해 2월 중간 수사 결과를 발표하면서 공천 개입 의혹 사건 등을 서울중앙지검으로 보냈다. 이후 이 의혹 수사를 이어간 서울중앙지검 전담수사팀은 지난 5월부터 김 여사에게 공직선거법 및 정치자금법 위반 혐의 피의자 신분으로 세 차례 소환 통보를 했지만 김 여사는 응하지 않았다. 결국 서울중앙지검 전담수사팀은 이 사건을 맡은 지 4개월 만에 민중기 특검팀에 넘기게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 내란특검 “체포 방해 조사는 尹 거부로 못해…계엄 국무회의·외환 조사로 넘어가”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/28/DCVWZNVO2VC7TNMCJE234PUL4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/DCVWZNVO2VC7TNMCJE234PUL4Q/</guid>
@@ -867,24 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVBNP2O2GFJKNCAP5JCAO42E2M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김형두 헌법재판소장 권한대행과 헌법재판관들이 27일 오후 서울 종로구 헌법재판소 대심판정에서 열린 6월 심판사건 선고에 참석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2회 이상 음주운전한 경우 운전면허를 취소하고 2년간 취득을 금지하는 도로교통법 조항은 헌법에 어긋나지 않는다고 헌법재판소가 결정했다. &lt;br&gt;&lt;br&gt;헌재는 27일 이런 내용을 규정한 도로교통법 82조 제 2항 등에 대한 헌법소원 심판 결과 재판관 전원 일치 의견으로 합헌 결정을 내렸다. 헌재는 “과잉금지 원칙에 반해 일반적 행동의 자유나 직업의 자유를 침해하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 2007년 3월 음주운전으로 한 차례 면허가 정지됐다가, 2022년 6월 다시 음주운전으로 적발되면서 운전면허가 취소되고 2년간 취득이 금지됐다. A씨는 “운전을 직업으로 하는 사람들에 대해 직업을 유지하는 것을 불가능하게 하는 등 기본권을 침해한다”고 주장하며 헌법소원 심판을 청구했다. B씨도 “직업의 자유와 일반적 행동의 자유를 침해한다”며 같은 조항에 대해 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;헌재는 이 조항이 헌법에 어긋나지 않는다고 봤다. 헌재는 “운전으로 생업을 영위하는 개인이 2년간 운전면허를 받을 수 없게 되는 사익의 제한이 가볍다고 볼 수는 없다”면서도 “음주운전은 운전자 본인의 생명을 위협할 뿐만 아니라 무고한 타인의 생명을 앗아가고 그 가족의 삶을 파괴할 수 있는 중대 범죄로서, 그로 인한 사회적 폐해가 제한되는 사익에 비해 결코 작다고할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;또 “과거 위반 전력과의 시간적 간격이나 음주 운전 경위, 혈중알코올농도 수준 등을 개별적으로 고려하도록 하지 않고 일률적으로 결격 기간을 2년으로 정했다고 해서 그것이 지나치다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>출국 앞두고... 인천공항서 30대 외국인 남성 추락 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/53OMB7RA6ZG7JEE5YEFL4D5EZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/53OMB7RA6ZG7JEE5YEFL4D5EZE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 06:25:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3C22AQTTMVIDTC3HHDZBE4BB5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 관련 사진. 기사와 직접적인 관련이 없음. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항 출국장에서 30대 외국인 남성이 추락해 사망하는 사건이 발생했다. &lt;br&gt;&lt;br&gt;27일 인천공항경찰단 등에 따르면 이날 오전 8시 11분쯤 인천공항 제2여객터미널 3층 출국장 J 카운터 앞 난간에서 인도네시아 국적의 30대 남성 A씨가 갑자기 투신했다.&lt;br&gt;&lt;br&gt;A씨는 신고받고 출동한 119구급대에 의해 심폐소생술(CPR) 등 응급 처치를 받으면서 병원으로 옮겨졌으나 끝내 사망했다.&lt;br&gt;&lt;br&gt;이 남성은 국내에서 근무한 인도네시아 국적 근로자로 이날 자카르타행 여객기에 탑승할 예정이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “현장에서 유서 등은 발견되지 않았다”며 “정확한 사건 경위를 조사 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 검찰, ‘대장동 개발비리’ 김만배 징역 12년·유동규 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/U7KNSYICANFD5CR4O2S4OSC7MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/U7KNSYICANFD5CR4O2S4OSC7MM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 03:07:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WJWW6HSH44KW6OUZGR6EATXBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배 씨가 서울 서초구 서울중앙지법에서 열린 '대장동 개발 배임 혐의' 관련 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘대장동 개발 비리’ 사건을 주도한 민간업자들의 재판에서 화천대유 대주주 김만배씨게 징역 12년과 추징금 약 6111억을, 유동규 전 성남도시개발공사 기획본부장에겐 징역 7년과 벌금 17억400만원을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 27일 서울중앙지법 형사22부(재판장 조형우) 심리로 열린 민간업자들의 결심 재판에서 이같이 밝혔다. 검찰 측은 “김씨는 직접 로비를 담당하고 가장 많은 이득을 취한 핵심 인물”이라며 “자신의 죄를 은폐하고 책임을 전가하는 데 급급해 양형을 참작할 만한 사유를 찾을 수 없다”고 설명했다. 반면 유 전 본부장에 대해선 “공직자 신분으로 (비리를) 주도해 책임이 가볍지 않지만, 진실을 말해 개발 비리 실체가 밝혀질 수 있었다”며 이를 고려했다고 했다.&lt;br&gt;&lt;br&gt;검찰은 이들과 함께 재판을 받고 있는 정영학 회계사에게는 징역 10년과 추징금 646억원, 남욱 변호사에게는 징역 7년과 추징금 1010억원, 정민용 변호사에게는 징역 5년과 벌금 74억4000만원, 추징금 37억2000만원을 각각 구형했다.&lt;br&gt;&lt;br&gt;검찰 측은 최종 변론에서 “대장동 개발 사업은 처음부터 막대한 이익이 예상됐고, 정상적인 방법으로는 사업권을 취득할 수 없던 민간업자들은 선거 운동을 돕거나 뇌물을 주는 등 성남시와 공사의 공직자들에게 부정한 방법을 동원했다”고 “궁극적으로 개발 사업의 공정성, 투명성에 대한 국민 신뢰가 훼손돼 피고인들에 대해 엄정한 법의 심판이 필요하다”고 주장했다.&lt;br&gt;&lt;br&gt;대장동 민간업자들은 평당 1500만원이 넘는 대장동 택지 분양가를 평당 1400만원으로 낮춰 평가해 공사에 최소 651억원의 손해를 끼친 혐의로 기소됐다. 검찰은 이들이 공사 내부 정보를 통해 총 7886억원의 부당이익을 취한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 지하철 2·3호선 교대역, 가스 유입으로 무정차 통과</title>
       <link>https://www.chosun.com/national/national_general/2025/06/27/EG4KXCVQJNDZBFMSTJXTQZ7YPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/EG4KXCVQJNDZBFMSTJXTQZ7YPM/</guid>
@@ -907,24 +957,6 @@
       </media:content>
     </item>
     <item>
-      <title>김용현 추가 기소 사건, 내달 17일 본격 재판</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/QLP7JMIS2JAMDLWCVR4T7K43BU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/QLP7JMIS2JAMDLWCVR4T7K43BU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 02:44:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE2TD2RJHT5CQG6NDIF35PPXIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 김용현 전 국방부 장관이 국회에 출석해 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 김용현 전 국방부 장관에 대해 추가로 기소한 사건의 재판이 다음 달부터 시작된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 김 전 장관의 위계에 의한 공무집행방해 및 증거인멸교사 혐의의 공판준비기일을 7월 17일로 지정했다. 준비기일은 정식 재판 전에 범죄 혐의에 관한 피고인 측 입장을 확인하고 사건의 쟁점 등을 정리하는 절차다. 정식 재판이 아니라 피고인의 출석 의무는 없다.&lt;br&gt;&lt;br&gt;앞서 12·3 비상계엄과 관련한 내란·외환 혐의를 수사하는 조은석 특검은 지난 18일 김 전 장관을 추가 기소하고 구속 영장을 발부해달라고 법원에 요청했다. 당초 내란중요임무 종사 등 혐의로 작년 12월 27일 구속됐던 김 전 장관은 지난 26일 1심 구속기간 만료로 풀려나게 될 상황이었다.&lt;br&gt;&lt;br&gt;재차 구속될 위기에 놓이자 김 전 장관 측은 “특검의 기소는 불법”이라며 재판부 기피를 신청하는 등 각종 불복 수단을 동원했다. 그러나 법원은 구속 만료를 하루 앞둔 지난 25일 김 전 장관에 대해 추가로 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검팀, ‘임성근·조병노 구명로비' 기록 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/JI5UVOUPVVHDVGAVNBGM2F57IA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/JI5UVOUPVVHDVGAVNBGM2F57IA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 02:45:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAX3ARD4RUNPKJTKKUNQN2IQUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건 수사를 맡은 민중기 특별검사가 27일 오전 서울 서초구 사무실로 출근하며 취재진의 질의에 답변하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 부인 김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 임성근 전 해병대1사단장 등에 대한 ‘구명 로비’ 의혹 사건 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;민 특검은 27일 언론 공지를 통해 “전날 고위공직자범죄수사처(공수처)로부터 특검법상 수사 대상인 임성근, 조병노 등에 대한 구명로비 사건 관련 자료를 이첩받았다”고 밝혔다. &lt;br&gt;&lt;br&gt;‘임 전 사단장 구명 로비’ 의혹은 2023년 7월 고(故) 채수근 상병이 순직한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자 김 여사를 통해 구명 로비를 벌였다는 의혹이다. 공익신고자인 김규현 변호사가 공개한 통화 녹음에 따르면 이종호 전 블랙펄인베스트먼트 대표는 임 전 사단장이 사표를 낸다고 하자 “내가 VIP한테 얘기하겠다”며 사퇴를 만류했다. &lt;br&gt;&lt;br&gt;이 전 대표는 김 여사의 도이치모터스 주가조작 사건에서 김 여사의 계좌를 관리한 인물이다. 통화 내용이 알려지며 이 전 대표가 김 여사와의 친분을 이용해 임 전 사단장의 구명 로비를 펼쳤다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;‘세관 마약수사 외압’ 의혹은 2023년 1월 말레이시아 국적 피의자들이 인천 국제공항을 통해 대량의 필로폰을 밀수한 사건에 인천 세관 공무원들이 연루돼 있다는 의혹이다. 대통령실 등 고위 간부들이 사건을 수사하던 서울 영등포경찰서에 사건 은폐를 위해 외압을 행사했다는 내용이다. &lt;br&gt;&lt;br&gt;사건을 담당했던 백해룡 전 영등포서 형사과장(경정)은 지난해 7월 국회에 2023년 10월 중간 수사 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 ‘관세청 관련 문구 삭제’ 요청을 받았다고 증언했다. 조 경무관은 폭로 이후 별다른 징계를 받지 않았는데, 이와 관련해 김 여사와 친분이 있는 이 전 대표가 구명 로비를 벌였다는 의혹이 나왔다.&lt;br&gt;&lt;br&gt;임 전 사단장과 조 경무관에 대한 구명 로비 의혹은 특검팀 수사 대상이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 측 “오늘 퇴원 예정… 상태 호전되지는 않아"</title>
       <link>https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</guid>
@@ -934,15 +966,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FARFQ4Y633ROTFGANW6BBUK2SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 3일 서울 서초구 원명초등학교에 마련된 서초구 제3투표소에서 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울증 증세 등으로 서울아산병원에 입원했던 윤석열 전 대통령 배우자 김건희 여사가 11일 만인 27일 퇴원하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사 측 관계자는 “김 여사 건강이 아직 회복되지는 않았지만 오늘 퇴원할 예정”이라면서 “시간은 정해지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 16일 오후 3시 30분쯤 서울아산병원에 입원했다. 앞서 도이치모터스 주가 조작 의혹과 정치 브로커 명태균씨 관련 공천 개입 의혹과 관련해 검찰 소환 통보를 받았다. 검찰에서 사건을 넘겨받은 김건희 특검팀도 김 여사 대면조사를 추진할 것으로 보인다.&lt;br&gt;&lt;br&gt;김 여사 측은 이날 입장문을 내고 “(특검에) 비공개 소환 요청을 했다는 보도는 사실과 다르다”고 밝혔다. 김 여사 측은 “형사소송법 등 관련 법과 규정에 따라 특검이 정당한 소환 요청을 하면 일시·장소 등을 협의해 소환에 응할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;김 여사 의혹을 수사하는 민중기 특별검사는 이날 ‘김 여사 퇴원 일정에 맞춰 소환 일정을 조율하냐’는 질문에 “출석 요구를 한 적이 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢 ‘김민석 재산 의혹 사건’ 경찰 이송...“직접수사 자제”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/MTX5EZZZI5B6BJJIKDMEOCJYDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/MTX5EZZZI5B6BJJIKDMEOCJYDY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 01:24:27 +0000</pubDate>
-      <content:encoded>검찰이 김민석 국무총리 후보자의 재산 신고 누락 의혹에 대한 고발사건을 경찰에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EHCAMBL75FKCY54BYCPAJ3ZWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 서울중앙지검은 김 후보자의 뇌물수수, 정치자금법 위반, 조세포탈 혐의 고발사건을 서울경찰청으로 이송했다고 밝혔다. 앞서 이종배 국민의힘 서울시의원은 김 후보자가 수입보다 지출이 많다는 논란과 관련해 부정한 방법으로 금품을 수수했거나 조세를 포탈했을 가능성이 있다며 지난 19일 서울중앙지검에 김 후보자를 고발했다.&lt;br&gt;&lt;br&gt;이후 서울중앙지검은 지난 20일 이 고발사건을 형사1부(부장검사 김승호)에 배당했다. 그러자 더불어민주당은 “검찰은 대통령의 인사권과 국회의 인사청문권에 대한 부당한 월권을 당장 멈추라”며 반발했다.&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 사건 이송과 관련해 “검찰은 직접수사 개시를 자제하면서 민생사건 수사에 집중해나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한복 장식의 순우리말? 신임 복지1차관의 독특한 이름, 실제 뜻은 </title>
       <link>https://www.chosun.com/national/welfare-medical/2025/06/27/IGBMV6ZOZRDGBHFNKSLZTB4XSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/27/IGBMV6ZOZRDGBHFNKSLZTB4XSM/</guid>
@@ -950,15 +973,6 @@
       <description/>
       <pubDate>Fri, 27 Jun 2025 01:45:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSP5M72TNVPANHLH22YIXMPY5A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이스란 신임 보건복지부 1차관이 복지부 연금정책국장이던 지난 2023년 8월 서울 여의도 소상공인연합회 회관에서 열린 간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이스란 신임 복지부 1차관 이름을 두고 관가 안팎에서 설왕설래가 오가고 있다. ‘스란’이 옛날 궁중이나 양반가에서 입은 예복용 치마에 달린 장식을 뜻하는 순우리말이기 때문이다. 보통 20cm 폭으로 금박을 박았고, 용 같은 무늬로 만들기도 했다. 이 장식이 들어간 치마를 ‘스란 치마’로 부르기도 한다.&lt;br&gt;&lt;br&gt;이스란 1차관에 대한 온라인 문서에는 27일 오전 현재 ‘특이한 이름 소유자인데, 순우리말 이름으로 보이며 어원은 한복 스란치마로 추정된다’는 내용까지 등재된 상태다.&lt;br&gt;&lt;br&gt;하지만 실제 뜻은 이와 달랐다. 이 차관은 “출생 당시 한글 이름이 유행했는데, 아버지께서 뜻이 없는 한글로 이름을 지었고, 스란 치마와는 관계가 없다”고 했다. 한자도 없는 순우리말이라 당시 동사무소에서 출생 신고를 안 받아줘, 세 번을 찾아간 끝에 겨우 출생신고를 했다고 한다. 이 차관*의 다른 두 자매 역시 이름에 ‘스’자가 들어가 있다&lt;br&gt;&lt;br&gt;1972년생인 이 차관은 행시 40회로 전임 이기일 복지부 1차관과 건국대 동문이다. 역대 세 번째 복지부 여성 차관으로, 연금·복지 전문가로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭염·열대야 코앞...내일 무더위 속 전국에 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/06/27/NSVZHXQ5DJC6TLE7BQL7SM7GDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/06/27/NSVZHXQ5DJC6TLE7BQL7SM7GDQ/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 01:17:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54KIGEZNCFLUFFKTQESE5CE4SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 곳곳 비가 내린 지난 16일 서울 서대문구에서 상의가 비에 젖은 시민이 우산을 쓰고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당분간 내륙을 중심으로 낮 기온이 30도 이상으로 올라 더운 가운데, 28일 전국 대부분 지역에 비가 내리겠다.&lt;br&gt;&lt;br&gt;27일 기상청에 따르면, 28일부터 전국 대부분 지역에서 최고체감온도가 31도 이상(남부 지방 33도 안팎)으로 올라 덥겠다. 특히 이날부터 일부 전라권과 경상권에는 최고체감온도가 33도 이상으로 오를 것으로 예보됐다.&lt;br&gt;&lt;br&gt;체감온도는 기온에 습도의 영향이 더해져 사람이 느끼는 더위를 나타내는 온도다. 습도 55%를 기준으로 습도가 10%씩 증가·감소할 때마다 체감온도도 약 1도씩 증가·감소한다.&lt;br&gt;&lt;br&gt;28일 일부 지역에는 열대야가 나타날 전망이다. 열대야는 오후 6시부터 다음날 오전 9시까지 기온이 25도 이상으로 유지되는 현상이다.&lt;br&gt;&lt;br&gt;28일 수도권과 강원 내륙·산지, 충청권에 가끔 비가 내리겠다. 오전부터 오후 사이 남부 지방에 비가 내리는 곳이 있겠고, 전북 내륙과 경북권 남부 내륙, 경남 북서 내륙 일부 지역은 저녁까지 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;예상 강수량은 수도권 5~40mm, 강원도 5~40mm, 충청권 5~40mm, 전라권 5~50mm, 경상권 5~60mm 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김상환은 ‘인권법’, 오영준은 ‘우리법’ 출신</title>
