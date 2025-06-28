@@ -13,6 +13,31 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란 특검, 尹 전 대통령 오전 조사 종료... 국무회의 의결 과정도 조사 방침</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/28/B7VZW6O6W5ARXOHGLXRLPU4LRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/B7VZW6O6W5ARXOHGLXRLPU4LRE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 03:45:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOFSE5UYNSWTURDWMCUDOHUJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 28일 오후 12시 44분쯤 “윤석열 전 대통령의 오전 조사가 잘 진행됐다”고 밝혔다. 오전 중 진행된 체포영장 집행 저지 지시 혐의 관련 조사가 마무리 되는 대로 특검팀은 ‘12·3 비상계엄' 관련 국무회의 의결 과정 및 외환 혐의 조사를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 조사는 이날 오전 10시 14분쯤 시작됐다. 2시간 30분가량 진행된 것이다. 체포영장 집행을 방해하라고 지시한 혐의 등에 대한 조사는 경찰 비상계엄 특별수사단에서 해당 사건을 지휘했던 박창환 경찰청 중대범죄수사과장(총경)이 맡았고, 이장필·최상진 경감이 배석했다. 윤 전 대통령 측에선 채명성·송진호 변호사 2명이 조사에 입회했다.&lt;br&gt;&lt;br&gt;박지영 특검보는 박 총경이 첫 조사를 맡은 데 대해선 “경찰에서 파견된 대표적인 엘리트”라며 “처음부터 이 사건들을 수사해와 누구보다 잘 알고 있다. 오로지 수사 논리와 수사 효율성에 따른 것”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 조사 진행 상황에 따라 윤 전 대통령의 외환 혐의 및 국무회의에서의 비상계엄 의결 과정에 대해서도 물을 방침이다. 박지영 특검보는 “상당 부분 자료가 축적된 상황”이라며 “조사할 준비는 돼 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BUCBILWGMNIUJCTWEWOTK4WOUA.jpg?auth=5b0f22072059ac650a2371119f6592897d17b3e8fae14066092c67df926001b4&amp;smart=true&amp;width=2658&amp;height=1842" type="image/jpeg" height="1842" width="2658">
+        <media:description type="plain">&lt;YONHAP PHOTO-3162&gt; 포토라인 선 윤석열 전 대통령
+    (서울=연합뉴스) 서명곤 기자 = 윤석열 전 대통령이 28일 피의자 신분으로 내란특검 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하고 있다. 2025.6.28 [공동취재]
+    seephoto@yna.co.kr/2025-06-28 10:54:03/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>尹측 “내란특검, 경찰에 조사 부탁할 정도로 빈약해... ‘조사 잘됐다’ 발표는 자화자찬”</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/28/4BFEL3OMTZBPDKGZPPO22EYSTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/4BFEL3OMTZBPDKGZPPO22EYSTU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 28 Jun 2025 04:27:41 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 법률대리인단은 28일 입장을 내고 “내란 특검은 역대 최대 규모로 구성됐는데 경찰에 조사를 부탁해야 할 정도의 빈약한 수사 능력을 보여주고 있다”고 지적했다. 특검이 이날 오후 “오전 조사가 잘 진행됐다”고 발표한 데 대한 비판으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAZZGBY2QZEUDNKYZMT555XORM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령에 대한 첫 특검 대면조사가 28일 오전 서울 고등검찰청에 마련된 특검에서 열렸다. 윤 전 대통령이 특검에 출석하기 위해 차량에서 하차하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리인단은 “문재인 정권이 폐지한 검찰 포토라인에 전직 대통령을 서게 한 것이 자랑스러운 것인지, 경찰이 조사를 해줘 다행이라는 것인지, 특검 사무실에서 파견된 경찰이 수사를 주도하는 것에 어떠한 민망함도 없는 것인지, 실로 법조인으로서 어떠한 양식을 가지고 있는지 경악할 뿐”이라며 “공무집행을 가장한 불법행위로 특수공무집행방해, 특수건조물침입, 군사기지및군사시설보호법위반 혐의로 고발된 경찰이 직접 조사를 하는 것이 특검식 수사이느냐”고 했다. &lt;br&gt;&lt;br&gt;앞서 대리인단은 체포영장 집행 저지 지시 혐의를 수사한 박창환 경찰청 중대범죄수사과장(총경)을 고발한 바 있는데, 박 총경이 이날 조사에 입회하자 이를 가리켜 비판한 것이다.&lt;br&gt;&lt;br&gt;대리인단은 “조사에 입회한 변호인들은 검사가 직접 신문할 것, 고발된 경찰들은 이해충돌에 해당하며 현저하게 공정을 결여한 것으로 수사에서 배제할 것을 요구하고 있다”며 “특검이 최소한의 공정성에 대한 인식을 갖길 바란다”고 했다. &lt;br&gt;&lt;br&gt;이어 “정치적 목적과 수사의 균형이 파괴된 준비되지 않은 특검은 진실을 밝힐 수 없다”며 “이제라도 형사소송법이 규정한 피의자의 인권보장과 적법절차를 따르길 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 이날 오후 12시 44분쯤 “오전 조사는 잘 진행되었다”며 “체포 방해 관련 조사가 마무리되면, 이어서 김정국 부장검사(사법연수원 35기), 조재철 부장검사(36기)가 국무회의 의결 및 외환 등 관련 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>특검 “첫 조사는 박창환 총경… 외환 혐의도 상황 봐서 조사”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/28/TLUUOQZBKZE7PDHDGB2CKDYAT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/TLUUOQZBKZE7PDHDGB2CKDYAT4/</guid>
@@ -787,15 +812,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KAX3ARD4RUNPKJTKKUNQN2IQUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건 수사를 맡은 민중기 특별검사가 27일 오전 서울 서초구 사무실로 출근하며 취재진의 질의에 답변하고 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 부인 김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 임성근 전 해병대1사단장 등에 대한 ‘구명 로비’ 의혹 사건 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;민 특검은 27일 언론 공지를 통해 “전날 고위공직자범죄수사처(공수처)로부터 특검법상 수사 대상인 임성근, 조병노 등에 대한 구명로비 사건 관련 자료를 이첩받았다”고 밝혔다. &lt;br&gt;&lt;br&gt;‘임 전 사단장 구명 로비’ 의혹은 2023년 7월 고(故) 채수근 상병이 순직한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자 김 여사를 통해 구명 로비를 벌였다는 의혹이다. 공익신고자인 김규현 변호사가 공개한 통화 녹음에 따르면 이종호 전 블랙펄인베스트먼트 대표는 임 전 사단장이 사표를 낸다고 하자 “내가 VIP한테 얘기하겠다”며 사퇴를 만류했다. &lt;br&gt;&lt;br&gt;이 전 대표는 김 여사의 도이치모터스 주가조작 사건에서 김 여사의 계좌를 관리한 인물이다. 통화 내용이 알려지며 이 전 대표가 김 여사와의 친분을 이용해 임 전 사단장의 구명 로비를 펼쳤다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;‘세관 마약수사 외압’ 의혹은 2023년 1월 말레이시아 국적 피의자들이 인천 국제공항을 통해 대량의 필로폰을 밀수한 사건에 인천 세관 공무원들이 연루돼 있다는 의혹이다. 대통령실 등 고위 간부들이 사건을 수사하던 서울 영등포경찰서에 사건 은폐를 위해 외압을 행사했다는 내용이다. &lt;br&gt;&lt;br&gt;사건을 담당했던 백해룡 전 영등포서 형사과장(경정)은 지난해 7월 국회에 2023년 10월 중간 수사 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 ‘관세청 관련 문구 삭제’ 요청을 받았다고 증언했다. 조 경무관은 폭로 이후 별다른 징계를 받지 않았는데, 이와 관련해 김 여사와 친분이 있는 이 전 대표가 구명 로비를 벌였다는 의혹이 나왔다.&lt;br&gt;&lt;br&gt;임 전 사단장과 조 경무관에 대한 구명 로비 의혹은 특검팀 수사 대상이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원 “고려아연 신주발행 무효”…영풍, 1심서 승소</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/4Z2FWVDEYJF3FNGVTUEOKZWWFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/4Z2FWVDEYJF3FNGVTUEOKZWWFA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 01:33:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGNLXJMKUVL4ZKUWFUNPTX5D64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강성두 영풍 사장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려아연 경영권 분쟁을 벌여 온 최대주주 영풍이 고려아연을 상대로 낸 신주발행 무효 소송 1심에서 승소했다. &amp;nbsp;&lt;br&gt;&lt;br&gt;서울중앙지법 민사22부(재판장 최욱진)는 27일 영풍이 고려아연을 상대로 제기한 신주발행 무효 소송에서 원고 승소로 판결하며 “고려아연이 2023년 9월 13일에 한 액면금 5000원의 보통주식 104만 5430주의 신주발행을 무효로 한다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이 신주발행이 최윤범 고려아연 회장의 경영권 방어 목적이었다는 영풍 측 주장은 받아들이지 않았지만, 정관을 위반해 기존 주주의 신주인수권을 침해했다고 판단했다.&lt;br&gt;&lt;br&gt;고려아연은 2023년 9월 5270억원 규모의 보통주 104만5430를 새로 발행해 HMG글로벌에 배정했다. 새로 발행하는 주식을 특정 기업·금융기관에 배정하고 그 대가로 자금을 조달 받는 ‘제3자 배정 유상증자’ 방식으로 투자를 받은 것이다. HMG글로벌은 현대자동차·기아·현대모비스가 공동 투자해 미국에 설립한 회사다.&lt;br&gt;&lt;br&gt;그런데 영풍이 지난해 4월 이 신주발행을 무효로 해달라며 법원에 소송을 제기했다. 영풍 측은 유상증자가 최윤범 고려아연 회장 측에 우호적인 HMG글로벌 지분을 늘려 최 회장의 그룹 지배력을 높이려는 목적으로 이뤄졌다고 주장했다. 반면 고려아연은 이차전지 등 신사업을 위한 투자금 확보 차원이었다고 맞섰다.&lt;br&gt;&lt;br&gt;재판부는 “영풍 측이 제출한 증거만으로 HMG글로벌이 고려아연 경영진의 우호주주라고 단정하기 어렵다”며 “경영상 필요에 의해 이뤄진 것이 인정된다”고 했다. 고려아연이 2021년부터 현대차와 폐배터리 재활용 사업에 관한 협력을 지속적으로 논의했고, 2023년 8월 HMG글로벌과 사업 제휴 합의서를 체결한 날 신주인수계약을 맺은 점을 근거로 “전략적 제휴관계를 구축하기 위한 경영상 목적에서 신주발행을 한 것으로 인정된다”고 했다. &lt;br&gt;&lt;br&gt;그러나 재판부는 이 유상증자가 정관을 위반해 기존 주주의 권리를 침해했다고 판단했다. 고려아연 정관은 제3자 배정 유상증자가 가능한 경우 중 하나로 ‘회사가 경영상 필요로 외국의 합작법인에 신주를 발행하는 경우’로 정하고 있는데, 고려아연이 참여하지 않은 HMG글로벌은 여기에 해당하지 않는다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 “정관에 명시된 ‘외국의 합작법인’은 고려아연의 참여를 전제로 한 것으로 보는 것이 합당하다”며 “고려아연의 참여 없는 외국인 투자자나 상대방으로 해석하는 것은 문언의 한계를 벗어난다”고 했다. 그러면서 “HMG글로벌에게 이뤄진 신주발행은 정관을 중대하게 위반해 기존 주주의 신주인수권을 침해하는 것으로 무효”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 측 “오늘 퇴원 예정… 상태 호전되지는 않아"</title>
       <link>https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</guid>
@@ -803,15 +819,6 @@
       <description/>
       <pubDate>Fri, 27 Jun 2025 01:20:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FARFQ4Y633ROTFGANW6BBUK2SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 3일 서울 서초구 원명초등학교에 마련된 서초구 제3투표소에서 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울증 증세 등으로 서울아산병원에 입원했던 윤석열 전 대통령 배우자 김건희 여사가 11일 만인 27일 퇴원하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사 측 관계자는 “김 여사 건강이 아직 회복되지는 않았지만 오늘 퇴원할 예정”이라면서 “시간은 정해지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 16일 오후 3시 30분쯤 서울아산병원에 입원했다. 앞서 도이치모터스 주가 조작 의혹과 정치 브로커 명태균씨 관련 공천 개입 의혹과 관련해 검찰 소환 통보를 받았다. 검찰에서 사건을 넘겨받은 김건희 특검팀도 김 여사 대면조사를 추진할 것으로 보인다.&lt;br&gt;&lt;br&gt;김 여사 측은 이날 입장문을 내고 “(특검에) 비공개 소환 요청을 했다는 보도는 사실과 다르다”고 밝혔다. 김 여사 측은 “형사소송법 등 관련 법과 규정에 따라 특검이 정당한 소환 요청을 하면 일시·장소 등을 협의해 소환에 응할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;김 여사 의혹을 수사하는 민중기 특별검사는 이날 ‘김 여사 퇴원 일정에 맞춰 소환 일정을 조율하냐’는 질문에 “출석 요구를 한 적이 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고위공직자 44명 재산공개…1위는 114억 신고한 김삼화 양성평등교육원장</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/RUVDDHCDG5AJHNXM5TJP4UPODA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/RUVDDHCDG5AJHNXM5TJP4UPODA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 02:21:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2PKAZWCUVI5ZHLSQX2LL6WCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김삼화 여성가족부 한국양성평등교육진흥원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부공직자윤리위원회가 27일 ‘6월 고위 공직자 수시 재산등록 사항’을 관보에 공개했다. 대상자는 올해 3월 2일부터 4월 1일까지 신분이 변동한 고위 공직자 44명이다.&lt;br&gt;&lt;br&gt;이 기간 신고 재산이 가장 많은 현직 고위 공직자는 본인과 가족 명의 재산 총 114억8000만원을 신고한 김삼화 한국양성평등교육진흥원장이었다.&lt;br&gt;&lt;br&gt;김 원장은 본인과 배우자 소유의 서울 서초구 아파트, 충남 보령시의 논밭 등 46억4000만원 상당의 부동산을 신고했다. 예금과 증권도 각각 36억원, 34억원을 보유했다. 채무는 6억6000만원이다. 모친과 장·차남은 독립생계 유지를 이유로 재산 고지를 거부했다.&lt;br&gt;&lt;br&gt;김 원장은 제27회 사법시험에 합격해 한국성폭력상담소 이사장, 한국여성변호사회 회장, 대한변호사협회 부협회장 등을 지냈다. 2016년 제20대 총선에서 국민의당 비례대표로 국회에 입성해 국회의원으로 활동하기도 했다.&lt;br&gt;&lt;br&gt;박건태 국토교통부 한국도로공사 부사장은 79억2000만원을 신고해 뒤를 이었다. 박 부사장은 경북 경산시·울릉군의 토지, 대구와 서울 송파 아파트 등 46억9000만원 상당의 부동산을 자신과 가족 명의로 보유한 것으로 나타났다.&lt;br&gt;&lt;br&gt;양재수 과학기술정보통신부 한국데이터산업진흥원장은 45억3000만원을 신고해 3위를 기록했다. 양 원장은 본인과 배우자 명의 부동산 19억6000만원, 예금 22억5000만원을 재산으로 신고했다.&lt;br&gt;&lt;br&gt;퇴직자 중에는 박남서 전 영주시장이 84억6000만원으로 재산 신고액이 가장 많았다.&lt;br&gt;&lt;br&gt;이 밖에 윤혜정 전 한국데이터산업진흥원장이 69억3000만원, 이충상 전 국가인권위원회 상임위원이 68억5000만원의 재산을 신고해 퇴직자 재산 상위 3명에 들었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>檢 ‘김민석 재산 의혹 사건’ 경찰 이송...“직접수사 자제”</title>
