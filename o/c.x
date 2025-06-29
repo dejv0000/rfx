@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>光州 한강 작가 북카페 조성사업에 의회가 제동… “일회성·상징성 중심 기획” 비판</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/29/7KCEZTG4MJFGNN7HXVOMEXGYYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/7KCEZTG4MJFGNN7HXVOMEXGYYA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 05:13:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUTWULDTTZDIXBPADTWYUNURA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시청에 한강 작가의 노벨문학상 축하를 기념하는 현수막이 걸려 있다. /광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시가 한강 작가의 노벨상 수상을 기념해 조성하려 했던 북카페 사업 예산이 시의회에서 전액 삭감됐다.&lt;br&gt;&lt;br&gt;29일 광주시의회 등에 따르면 광주시가 올해 첫 추가경정예산안에 편성한 ‘골목길 문화사랑방 조성사업’ 예산 10억 5000만원이 예산결산특별위원회 심의 과정에서 전액 삭감됐다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 작년 10월 한강 작가가 노벨문학상 수상자로 선정되자 “이를 기념하는 북카페를 조성하겠다”고 밝혔다. 광주시는 어릴 적 한강 작가가 살았던 북구 중흥동 집터를 사들이려 했지만, 땅 주인이 광주시의 매입 제안을 거부했다. 그 땅에는 현재 2층 상가 건물이 들어서 있다.&lt;br&gt;&lt;br&gt;광주시는 예비비 4억8000만원을 들여 집터에서 약 25m 떨어진 곳에 있는 148㎡(약 45평) 크기의 공터를 사들였다. 예비비는 예측할 수 없는 예산 외의 지출 또는 예산 초과 지출에 충당하기 위해 편성하는 예산을 말한다.&lt;br&gt;&lt;br&gt;광주시는 이곳에 한강 작가의 대표작 이름을 딴 일명 ‘소년이 온다 북카페’를 지으려 했지만, 무산됐다. 한강 작가가 대표작 이름 사용을 반대했기 때문이다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “작년 11월부터 출판사 창비 측과 협의했지만 최근 ‘한강 작가가 거절했다’는 말을 들었다”며 “저작권료를 주더라도 소년이 온다는 이름을 쓰려고 했으나 아쉽게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이에 광주시는 ‘골목길 문화사랑방 조성사업’이란 이름으로 사업명을 변경해 시의회에 4층 규모 건물 건축 및 인테리어, 도서 구매에 필요한 예산 10억 5000만원 심의를 요청한 것이다.&lt;br&gt;&lt;br&gt;광주시의회 이명노 의원은 “노벨상 수상에 편승하는 일회성·상징성 중심의 기획”이라며 “전국 여러 지자체가 천편일률적으로 ‘한강의 도시’ 이미지를 소비하는 데 급급한 상황 속에서 광주는 보다 깊은 고민과 차별화된 전략이 필요하다”고 예산 삭감 이유를 전했다.&lt;br&gt;&lt;br&gt;이어 “재정 건전성 악화가 우려되는 와중에 추경으로 예산을 확보해야 할 정도로 이 사업이 시급한지 의문이고, 사업 심의 이전에 예비비로 부지를 매입한 점도 절차적으로 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZUTWULDTTZDIXBPADTWYUNURA4.jpg?auth=68bce0a58ea86b0ce1a2a1967767838030f48b9c133589a97efe788528032c0f&amp;smart=true&amp;width=2500&amp;height=1667" type="image/jpeg" height="1667" width="2500">
+        <media:description type="plain">광주광역시청에 한강 작가의 노벨문학상 축하를 기념하는 현수막이 걸려 있다. /광주광역시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>서울시에 ‘자율주행 마을버스’ 생긴다...동작구에 첫 도입, 30일 시범운행 시작</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/29/RZEKFK3ARRFF7MJRSD5M5MSLQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/RZEKFK3ARRFF7MJRSD5M5MSLQI/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 05:11:18 +0000</pubDate>
+      <content:encoded>서울시는 자율주행 마을버스인 ‘지역동행 자율주행버스’를 최초로 동작구에 도입, 30일부터 시범 운행을 시작한다고 29일 밝혔다. 그동안 심야나 새벽에 자율주행버스가 다녔지만 마을버스 운행 구간에 자율주행버스가 투입되는 건 처음이다.&lt;br&gt;&lt;br&gt;이번에 도입되는 동작구 지역동행 자율주행버스(동작 A01)는 숭실대 중문에서 숭실대입구역을 거쳐 중앙대 후문까지 편도 1.62㎞ 구간을 오간다. 전기 자율주행버스 2대가 승객들을 실어나르게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4CNHIJEKT7HZSDTROQPHXSJEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동작구 지역 동행 자율주행버스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운행시간은 평일 오전 10시부터 오후 4시 10분까지다. 방향별로 1일 14회 20∼25분 간격으로 운행한다. 낮 12시부터 오후 1시 30분까지는 운행이 잠시 중단된다.&lt;br&gt;&lt;br&gt;기존 심야·새벽동행 자율주행버스는 서울시에서 관리·운행을 맡았다. 반면 자율주행 마을버스는 지역 상황에 맞춰 운행 계획을 짤 수 있도록 자치구에서 직접 관리하게 했다.&lt;br&gt;&lt;br&gt;서울시는 1년차에는 전체 운영비를 지원하고, 2년차 이후에는 조례에 따라 승객 운송 실적과 운행 거리 등을 평가해 기술발전 지원금을 줄 계획이다. &lt;br&gt;&lt;br&gt;7월 11일까지 시승체험 등 사전 운행을 거친 뒤, 7월 14일부터 일반 승객 누구나 탑승할 수 있게 운행한다. 정식 운행 개시일인 7월14일부터는 버스 정보 안내 단말기에 실시간 도착 시간도 나온다.&lt;br&gt;&lt;br&gt;이용 요금은 무료다. 2026년 상반기 유료로 전환될 때까지 별도 요금 없이 이용할 수 있다. 다만 교통카드를 이용해 승·하차 태그는 해야 한다.&lt;br&gt;&lt;br&gt;오는 9월엔 동대문구 장한평역~경희의료원, 서대문구 가좌역~서대문구청 구간에도 자율주행 마을버스가 다니게 된다. &lt;br&gt;&lt;br&gt;서울시는 “시민 호응도와 운영 안정성을 모니터링해 대상 지역을 점진적으로 확대해나갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7월부터 국민연금 보험료 오른다… 月 최대 1만8000원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/06/29/I6H4PITFCNFKJI5ZHZVBJYIJ7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/29/I6H4PITFCNFKJI5ZHZVBJYIJ7A/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 05:07:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MLVF52XTWRYDYOLAVQP7SMOJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부에서 고객이 상담을 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 7월부터 한 달에 637만원 이상 버는 국민연금 납부자는 이전보다 월 1만8000원 오른 57만3300원을 보험료로 내야 한다. 직장 가입자의 경우 보험료를 근로자와 회사가 절반씩 나눠 내기 때문에 본인 부담은 월 9000원이 오른다. 자영업자나 프리랜서 등 지역 가입자는 인상분 전액을 본인이 부담한다. 이는 국민연금 보험료 부과 기준인 ‘기준소득월액’ 상·하한액 조정에 따른 것이다.&lt;br&gt;&lt;br&gt;29일 보건복지부와 국민연금공단에 따르면, 다음달부터 내년 6월까지 1년간 적용될 국민연금 기준소득월액 상한액이 월 617만원에서 637만원으로 오른다. 국민연금 전체 가입자의 최근 3년간 평균 소득 변동률(3.3%)을 반영한 것이다.&lt;br&gt;&lt;br&gt;국민연금 보험료는 월 소득의 9%로 정해져있지만, 소득이 많다고 무한정 높아지지 않는다. 월 637만원 넘게 버는 사람도 637만원 버는 것으로 간주해 보험료를 부과하는 것이다. 이에 따라 월 소득 637만원 이상 직장 가입자의 개인 부담분 보험료는 월 27만7650원에서 28만6650원으로 9000원 오른다. &lt;br&gt;&lt;br&gt;기존 상한액이었던 617만~637만원 구간 소득자들도 보험료가 월 1만8000원 미만까지 차등 인상된다. 직장가입자는 인상분의 절반을 본인이 내고, 나머지는 회사가 부담한다. 지역가입자는 인상분 전액을 본인이 부담해야 한다.&lt;br&gt;&lt;br&gt;소득이 낮은 국민연금 가입자에 적용되는 기준 소득 하한액도 월 39만원에서 40만원으로 1만원 높아졌다. 이에 따라 다음 달부터 40만원 이하 소득자의 보험료가 최대 월 900원 오른다. 40만원보다 소득이 낮은 사람도 40만원에 해당하는 보험료를 내는 것이다.&lt;br&gt;&lt;br&gt;월 소득액이 새 하한선인 40만원과 기존 상한액인 617만원 사이에 있는 가입자들은 소득이 달라지지 않는다면 보험료도 바뀌지 않는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해 계곡에서 물놀이하던 중학생 물에 빠져... 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2025/06/29/F4KUKOROPVGPZLJKFLL6MJXZIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/29/F4KUKOROPVGPZLJKFLL6MJXZIM/</guid>
+      <dc:creator>김해=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 04:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCCGQPG6DT6N32G55XTIW2SLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대 출동 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해 한 계곡에서 물놀이를 하던 중학생이 물에 빠지는 사고가 났다.&lt;br&gt;&lt;br&gt;29일 경남소방본부 등에 따르면 지난 28일 낮 12시 19분쯤 김해시 대청동 대청계곡에서 물놀이를 하던 중학생들 중 A군이 물에 빠졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 맥박은 있으나 호흡을 하지 못하는 A군을 응급처치한 뒤 병원으로 이송했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘민주당 돈봉투’ 윤관석 전 의원 내일 가석방</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/29/IA4B7DRDVNEETKWOYYFKEU73ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/29/IA4B7DRDVNEETKWOYYFKEU73ZI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 04:06:12 +0000</pubDate>
+      <content:encoded>‘더불어민주당 전당대회 돈봉투’ 사건으로 실형을 확정받고 복역 중인 윤관석 전 의원이 가석방으로 풀려나는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4AUBQHXBGJ3A7CIC4SAZPQPDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤관석 전 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 본지 취재를 종합하면, 법무부는 지난 23일 가석방심사위원회를 열고 윤 전 의원에 대해 가석방 적격 판단을 내렸다. 윤 전 의원은 오는 30일 풀려난다. 검찰이 2023년 8월 윤 전 의원을 정당법 위반 혐의로 구속기소한 지 약 1년 10개월 만이다. 현행법상 유기징역을 선고받은 자는 형기의 3분의 1이 지나면 가석방 대상이 된다.&lt;br&gt;&lt;br&gt;윤 전 의원은 2021년 5월 민주당 전당대회를 앞두고 송영길 전 대표의 당선을 위해 민주당 현역 의원들에게 제공할 현금 6000만원을 경선 캠프 관계자들에게 수수한 혐의로 재판에 넘겨졌고, 작년 10월 대법원에서 징역 2년이 확정됐다. &lt;br&gt;&lt;br&gt;이 밖에도 윤 전 의원은 돈봉투를 의원들에게 건넨 혐의로 추가 기소됐고, 1심에서 징역 9개월에 집행유예 2년을 선고받았다. 현재 2심이 진행되고 있다. 또 사업가로부터 입법 청탁을 받고 2000만원대 뇌물을 수수한 혐의로도 재판을 받고 있다. 지난 4월 1심에서 무죄를 선고 받았으나 검찰이 항소해 2심이 진행되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>일한 사람에게만 치킨 준 교도소…”차별” 소송 건 재소자, 결과는</title>
       <link>https://www.chosun.com/national/national_general/2025/06/29/VUI3WGMP6JAQTHU7HQHJVF52NQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/VUI3WGMP6JAQTHU7HQHJVF52NQ/</guid>
@@ -891,18 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUYA36XKK3E3IVPF6SAEVTWTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 괴산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교생들이 자신에게 욕을 한 것 같다며 손도끼를 들고 학교를 찾아간 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충북 괴산경찰서는 공중협박 혐의로 남성 A(22)씨를 불구속 입건했다고 27일 밝혔다. A씨는 지난 12일 오후 1시쯤 충북 증평군의 한 고등학교에 손도끼를 들고 찾아가 교직원 등을 위협한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 학교 건물 안까지 들어왔으나 이를 목격한 교사와 경비원 등의 제지를 받자 도주했다. A씨로 인해 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;경찰은 신고를 받고 출동해 방범카메라 등을 통해 자택에 있던 A씨를 붙잡았다. A씨는 “그 학교 학생들이 나에게 욕을 한 것 같아서 겁만 주려고 했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사건 경위를 파악한 뒤 A씨를 검찰에 송치할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“두 눈을 의심” 버스정류장에 천막 치고 음식 구워 먹은 여성</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/YRSKLIXJUBFHNMJUMJLYP2JJPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/YRSKLIXJUBFHNMJUMJLYP2JJPU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 08:25:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KX7XVJZJH5DYHNJEARRPJNUXF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 버스정류장에 천막을 치고 앉아 있는 모습./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 여성이 버스정류장에 가림막을 치고 토치로 음식을 구워 먹는 모습이 포착돼 논란이 되고 있다.&lt;br&gt;&lt;br&gt;26일 한 온라인 커뮤니티에 ‘버스정류장에서 캠핑을’이라는 제목의 글과 함께 여러 장의 사진이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 충남의 한 해수욕장 앞 버스정류장 공간에 그늘막을 설치하고 캠핑을 즐기는 듯한 여성을 목격했다. 공개된 사진을 보면 한 여성이 버스정류장 앞 방향으로 차를 세운 뒤 천막을 설치했다. 차량 앞유리를 덮은 천막을 정류장 기둥에 고정해 그늘막을 만들었다. 그 밑에는 해루질 장비가 플라스틱 바구니 등과 함께 놓여 있었다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “여긴 해수욕장인데 사람들이 며칠 머물면서 해루질을 많이 한다”며 “그런데 60대로 보이는 아주머니가 저렇게 해놓고 토치까지 사용해 뭘 구워 먹고 있다”고 남겼다.&lt;br&gt;&lt;br&gt;A씨는 “바람 쐬러 왔다가 저걸 보고 두 눈을 의심했다”며 “저 버스정류장은 (실제로) 버스가 운행하고 정차하는 곳이다. 반대편에는 해루질하러 온 차와 캠핑카가 줄줄이 주차돼 있다”고 설명했다. 그러면서 “저 아주머니는 노숙자가 아니다. 장비 물품들 보니 해루질 용품들이 가득 있다. 누가 봐도 해루질하러 오셔서 저러고 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “캠핑이 아니고 노숙 아니냐” “지도 보니 대로변이던데 놀랍다” “나도 독산해수욕장 가서 봤는데 보기 안 좋더라” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZW6EMAUDYNA53L5XEGLZXTH6I4.jpg?auth=bc489733b1a4ae6e6a758f31b1adaf20297cee211165fd95c9655cabb01a779a&amp;smart=true&amp;width=640&amp;height=512" type="image/jpeg" height="512" width="640">
-        <media:description type="plain">한 여성이 버스정류장에 천막을 치고 앉아 있는 모습./보배드림</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>이종범 KT 코치 시즌 중 퇴단… ‘최강야구’ 감독으로 간다</title>
       <link>https://www.chosun.com/national/people/2025/06/27/JUXUFQARVRBSFEOZNWB43TPPOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/27/JUXUFQARVRBSFEOZNWB43TPPOM/</guid>
@@ -910,15 +946,6 @@
       <description/>
       <pubDate>Fri, 27 Jun 2025 08:25:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACLKCDPV5NOJXOUBJ7LTO2FQPM.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 대구 라이온즈파크에서 열린 삼성과 KT의 경기 직전 이종범 코치가 선수들과 대화를 나누고 있다. /박재만 스포츠조선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 KT 코치를 맡고 있던 ‘바람의 아들’ 이종범이 시즌 중에 팀을 떠나 예능 프로그램에 합류한다.&lt;br&gt;&lt;br&gt;KT는 27일 부산에서 열리는 KBO(한국야구위원회)리그 롯데와의 원정 경기를 앞두고 이종범 코치를 1군 엔트리에서 제외했다.&lt;br&gt;&lt;br&gt;이종범 코치는 최근 JTBC 예능 프로그램 ‘최강야구’의 차기 시즌 감독으로 합류한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이종범 코치는 지난해 10월 KT에 합류해 외야·주루 코치를 맡았고, 올 5월부터는 타격 코치로 보직이 변경됐다. 그러나 전반기를 마치기도 전 팀을 이탈하게 됐다. KT는 시즌 77경기 38승 36패 3무로 7위를 마크하고 있다. 가을 야구 싸움을 위해 치열한 순위 경쟁을 벌이고 있는 상황이다.&lt;br&gt;&lt;br&gt;현역 시절에는 해태(현 KIA)에서 ‘바람의 아들’로 불리며 KBO를 대표하는 수퍼스타였다. 선수 시절 성적은 1706경기, 타율 0.297, 194홈런, 730타점, 510도루다. 이후에도 국가대표 코치, LG방송 해설자 등 다양한 이력을 쌓아왔다.&lt;br&gt;&lt;br&gt;KT 관계자는 “이종범 코치가 최강 야구 감독 합류를 하고 싶다고 퇴단을 요청했다. 구단은 감독과 협의해서 요청 수락했다”며 “이종범 코치 부재에 따른 전력 공백은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘보호관찰 불만’ 천안준법지원센터 방화범, 2심도 ‘징역 10년’</title>
-      <link>https://www.chosun.com/national/regional/2025/06/27/23PPEWQZBFCE5NXBR4JLGBOE5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/27/23PPEWQZBFCE5NXBR4JLGBOE5I/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 08:17:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보호관찰 업무에 불만을 품고 천안준법지원센터에 불을 지른 50대가 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 27일 현존 건조물 방화치상 등 혐의로 기소된 A(51)씨에 대한 항소심 선고공판에서 원심과 같은 징역 10년을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 30일 오전 부탄가스와 시너가 든 가방을 메고 충남 천안 서북구 성정동 천안준법지원센터에 찾아가 3층 전자감독실에 불을 지른 혐의를 받고 있다. 그는 당시 사무실에 도착하자 시너를 손에 쥐고 소리를 지른 뒤 자기 몸에 불을 붙였다. 불이 나자 가방을 벗어 던지면서 부탄가스가 폭발해 공무원 15명과 민원인 등 18명이 다쳤다. 또 3억원 상당의 재산 피해가 발생했다.&lt;br&gt;&lt;br&gt;작년 3월 천안준법지원센터 보호관찰 대상이 된 A씨는 센터 변경을 요청했지만 허가 절차 등이 복잡하다는 이유로 불만을 품고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “국가의 정당한 법 집행을 위협하는 범죄에 대해 엄중히 대처할 필요가 있는 점을 고려해 형을 정했다”며 징역 10년을 선고했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “1심이 여러 사정을 참작해 합리적으로 형량을 정한 것으로 보인다”며 A씨가 제기한 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이재명 성공 위해 범죄 가담…처벌 달게 받겠다" 유동규 최후진술</title>
@@ -930,24 +957,6 @@
       <content:encoded>유동규 전 성남도시개발공사 기획본부장이 27일 대장동 일당의 배임 사건 결심 공판에서 “이재명 대통령의 성공을 위해 범죄에 가담했고, 처벌은 달게 받겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QPVZFYHMMIDIGCT44V2MWJCUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사22부(재판장 조형우)는 이날 특정경제범죄가중처벌등에관한법률(배임 등) 혐의로 기소된 유 전 본부장 등 대장동 민간 업자에 대한 결심 공판을 진행했다. 이날 유 전 본부장은 약 4분간 마이크를 잡고 법정에서 최후 진술을 했다. 그는 법대 앞에 일어서 양손을 깍지 껴 맞잡고 고개를 숙인 채 말했다.&lt;br&gt;&lt;br&gt;유 전 본부장은 “이재명이라는 정치인을 알게 되고 그 사람의 정치적 성공을 위해 가담하게 되면서 많은 범죄에 연루가 됐다”면서 “저도 잘못한 책임이 있다. 그에 대한 처벌을 달게 받겠지만 (개인의) 금전적 이익이 아니라 이재명의 성공을 위해 그랬다”고 말했다. ‘이재명의 정치적 성공’을 말할 때는 목이 메인 듯 잠시 말을 멈추고 눈물을 삼키기도 했다.&lt;br&gt;&lt;br&gt;이어 “이재명을 위해 살다 보니 빚을 졌고, 빚을 져 가면서까지 이재명에게 누를 끼치지 않으려 노력했다”고 했다. 그는 “아직 미성년인 딸이 있다. 부양의 의무도 있고, 깊이 반성하고 있다”면서 “재판장님과 국민 여러분께 죄송하다”며 허리를 숙였다.&lt;br&gt;&lt;br&gt;유 전 본부장을 비롯한 일당들은 이 대통령이 성남시장이던 시절 성남시와 유착해 대장동 사업에서 성남도시개발공사에 확정 이익을 1830억원만 배당해, 공사에 최소 4895억원의 손해를 끼친 혐의 등을 받는다. 2021년 10월 이들의 첫 기소가 이뤄진 지 약 3년 8개월 만에 1심 재판이 마무리되는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLPEXV7CIEDXA2IY24BJSD3V7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유 대주주 김만배 씨 /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화천대유 대주주 김만배씨는 이어진 최후 진술에서 “기본적인 생활 어려울 정도로 삶이 파괴됐지만, 모든 것은 제 행동과 말이 빚은 일이다. 마땅히 감당할 몫이라 생각한다”면서 “정말 후회되는 일은 제 자신을 높이기 위해 수많은 과장과 허황된 말들을 했고, 오해가 오해를 낳아 주변 사람들을 고통받게 했다는 것이다”라고 했다.&lt;br&gt;&lt;br&gt;또 “세간에서 대장동 사업이 온갖 비리로 얼룩졌다지만 대장동은 성공한 사업”이라며 “부동산 가격 하락으로 민간 업자의 이익이 크게 늘어도, 성남시와 공사 역시 가져간 이익이 절대 적지 않아 이를 배임으로 논하는 것은 어이없는 일”이라고 했다. “허황된 말을 했던 것을 후회하며 제 부족함과 경솔함으로 피해를 입은 분들께 다시 한번 죄송하다”면서 발언을 마무리했다. &lt;br&gt;&lt;br&gt;이날 재판에서 검찰은 김씨에게 징역 12년을, 유 전 본부장에게 징역 7년과 벌금 17억4000만원을 구형했다. 재판부는 오는 30일 남은 피고인인 남욱·정영학·정민용씨의 최후 진술을 들은 뒤 재판 절차를 종결할 예정이다. 선고 날짜도 이날 고지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘36주 낙태’ 사건 구속영장 재신청...해당 병원 낙태 산모 수백명 달해</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/APB4XW7PJBBYXEG44XYVERDASA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/APB4XW7PJBBYXEG44XYVERDASA/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 08:05:52 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2ZZY4RU6EFV7JZQAZS5DK5GYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 한 20대 여성 유튜버가 임신 36주차 태아의 초음파 사진을 공개하면서 낙태사실을 알렸던 브이로그 장면 캡처/유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘36주 낙태’ 사건을 수사 중인 경찰이 낙태를 집도한 의사와 병원장에 대한 구속영장을 다시 신청했다. 보강 수사 결과, 해당 병원에서 낙태한 산모가 수백 명에 달한다는 내용이 추가 드러난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;서울경찰청 형사기동대는 지난 19일 살인 등 혐의로 집도의 A씨와 병원장 B씨에 대한 구속영장을 다시 신청했다고 27일 밝혔다. 지난 10월 청구한 구속영장이 기각된 후 보강 수사를 한 지 8개월 만이다.&lt;br&gt;&lt;br&gt;36주 낙태 사건은 작년 6월 20대 여성이 자신의 유튜브 채널에 낙태 수술 경험담을 담은 영상을 올리며 시작됐다. 보건복지부는 같은 해 7월 해당 여성과 낙태 수술 집도의에 대해 살인 혐의로 경찰에 수사를 의뢰했고, 경찰은 수사를 통해 해당 여성이 임신 36주 차에 인천의 한 병원에서 낙태 수술을 받은 사실을 확인했다. 36주차 태아는 출생 후에도 생존할 수 있어 살인 혐의가 적용됐다. 현행 모자보건법은 임신 24주 이후의 낙태는 산모의 생명이 위험하다는 예외적인 상황을 제외하면 원칙적으로 금지하고 있다.&lt;br&gt;&lt;br&gt;경찰은 지난해 10월 A씨와 B씨에 대해 살인 등 혐의로 구속영장을 신청했으나 법원에서 기각됐다. 당시 법원은 사실관계에 대한 자료가 상당 부분 수집된 점, 피의자의 주거가 일정한 점 등을 사유로 들었다.&lt;br&gt;&lt;br&gt;이날 오전 서울중앙지법에서 두 사람에 대한 구속 전 영장 실질 심사가 있었다. A씨와 B씨의 구속 여부는 이르면 이날 저녁 결정된다. 산모인 20대 여성에 대한 불구속 수사도 이어지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “범죄인 인도 후 추가 기소·처벌 규정은 합헌"</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/FR2SVSHBRRB6TPFRGOMZ7G2EKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/FR2SVSHBRRB6TPFRGOMZ7G2EKM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 06:23:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPWHATQZUKBTEO4SONRYRAAJEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두 헌법재판소장 권한대행과 헌법재판관들이 27일 오후 서울 종로구 헌법재판소 대심판정에서 열린 6월 심판사건 선고에 참석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄인 인도 조약 따라 송환된 범죄자에 대해 피청구국 동의가 있으면 그가 과거에 저지른 다른 범죄로 수사·처벌할 수 있도록 한 현행 규정이 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 27일 A씨가 ‘한국과 태국과 간의 범죄인 인도 조약 16조 1항’ 등이 위헌이라며 낸 헌법소원 사건에서 재판관 7명의 전원일치 의견으로 합헌 결정을 내렸다. &lt;br&gt;&lt;br&gt;이 조항은 ‘원칙적으로 인도가 허용된 범죄 이외에 인도 이전에 행해진 다른 범죄를 이유로 구금, 기소, 또는 심리되지 않는다’고 규정하면서도, 피청구국이 동의하는 경우 예외적으로 다른 범죄를 이유로 인도해 수사할 있도록 하고 있다. &lt;br&gt;&lt;br&gt;A씨는 2002~2023년 국내에서 범죄를 저지른 후 해외로 도피했다가, 태국에서 위조여권을 사용한 혐의로 교정시설에 수용돼 있던 중 2013년 범죄인 인도 조약에 따라 3년간 임시인도됐다. &lt;br&gt;&lt;br&gt;한국 정부는 A씨를 추가 기소하기 위해 2017년 태국에 인도 이외 범죄로 수사하겠다는 취지의 동의요청서를 보냈고, 태국 정부는 2017년 10월 A씨의 임시인도를 최종인도로 전환했다. 이후 2017~2018년 강도상해·강도살인·특수강도 등 여러 범죄로 대법원에서 징역형을 선고받고 복역 중이다.&lt;br&gt;&lt;br&gt;A씨는 자신이 조약 상 인도가 허용된 범죄 이외에 과거 범죄를 이유로 구금·기소됐다며 이에 의견을 내거나 이의신청을 할 수 있는 기회와 절차를 마련하지 않은 것이 법절차 원칙에 어긋난다고 했다. 또 한국이 태국에 동의를 요청할 때 기한을 정하지 않는 것은 법절차 원칙에 위반된다고도 주장했다.&lt;br&gt;&lt;br&gt;헌재는 현행 조항에 문제가 없다고 판단했다. 헌재는 “A씨 주장처럼 매번 인도된 범죄인에게 고지를 하고 의견·자료 제출 기회 등을 부여해야 한다면, 자칫 피청구국의 동의를 확보할 때까지 상대적으로 긴 시간이 소요될 수 있다”고 지적했다. 이어 “그 사이 추가적 범죄에 대한 처벌 공백이 발생할 수 있다”며 “형사사법 운용의 효율성을 제고하고 사법정의 실현이라는 목적을 달성하는 데 커다란 지장을 초래할 우려가 있다”고 했다. &lt;br&gt;&lt;br&gt;헌재는 또 “예측하기 어려운 수사 진행상왕에 따라 기한 내 동의요청을 할 수 없는 부득이한 상황이 발생할 때, 인도된 범죄인의 추가적 범죄에 대해 영원히 처벌할 수 없게 되는 불합리한 상황이 초래될 우려가 있다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“6월만 오면 우울”… ‘삼풍 유족’ 10명 중 6명 여전히 울분</title>
       <link>https://www.chosun.com/national/national_general/2025/06/27/DIX6E6RXTZEFJA4SFEBISR5MTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/DIX6E6RXTZEFJA4SFEBISR5MTY/</guid>
@@ -955,15 +964,6 @@
       <description/>
       <pubDate>Fri, 27 Jun 2025 07:50:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBZENP2R6HB2JMJRCRFHM7P4S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1995년 6월 29일 삼풍백화점 붕괴 참사가 발생한 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1995년 6월 502명의 희생자를 낳은 삼풍백화점 붕괴 참사 유족 10명 중 6명은 여전히 정신적 고통을 받고 있는 것으로 나타났다. 특히 이 중 절반은 극심한 심리 장애를 앓고 있었다.&lt;br&gt;&lt;br&gt;재난피해자권리센터 ‘우리함께’가 삼풍백화점 유족들을 대상으로 실시한 ‘삼풍백화점 붕괴 참사 30주기 유가족 실태조사 결과 보고서’를 27일 공개했다. 이번 조사는 삼풍백화점 참사 희생자의 부모, 자녀, 형제자매 등 유족 30명을 대상으로 진행됐다. 대형 참사 수십 년 뒤 희생자 유족들을 추적 분석한 조사는 사실상 이번이 처음이다.&lt;br&gt;&lt;br&gt;보고서에 따르면 참사가 발생한 지 30년이 지났음에도 유족들은 여전히 심리적 고통에 시달리는 것으로 조사됐다. 조사 결과, 응답자의 66.6%는 참사 이후 ‘외상 후 울분 장애(PTED)’를 앓고 있는 것으로 나타났다. 10명 중 6명꼴로 정서적 치유가 필요한 상황인 셈이다. PTED는 부정적인 사건 이후 억울함·분노·무력감 등을 장애를 뜻한다.&lt;br&gt;&lt;br&gt;구체적으로 참여자의 33.3%(10명)는 심한 장애 상태인 ‘중증도 울분’, 30%(9명)는 장기간의 울분감에 고통받는 ‘임상적 울분’ 상태로 나타났다. 한 유족은 “6월이 되면 우울증이 심하게 온다. 세월이 지나도 잊히지 않는다”고 했다.&lt;br&gt;&lt;br&gt;참사는 유족들의 가족 관계에도 악영향을 끼쳤다. 참사 전 가족 관계에 대한 질문에서 응답자의 절반에 가까운 48.3%(14명)가 ‘참사 후 가족 내 갈등을 겪었다’고 답했다. 참사로 인해 경직되고 폐쇄적인 성격으로 변한 점을 갈등 원인으로 언급한 유족도 있었다. 또 다른 유족은 “보상금을 받으러 친족이 학교로 오고 집을 때려 부쉈다”고 했다. 참사 희생자 구조·수습 등으로 인해 직업을 잃은 응답자도 21.7%(5명)나 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBSY2U5K2VJWICZCYU5LE6J5JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼풍백화점 붕괴 20주기인 2015년 6월 29일 서울 양재동 양재시민의 숲에 위치한 삼풍백화점 참사 위령탑에서 열린 제20주기 삼풍백화점 참사 추모제에 참석한 유가족들이 헌화 후 눈물을 훔치고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유족 상당수는 정부 대응이 부족했다고 지적했다. 응답자의 90%(27명)는 정부로부터 정보를 제대로 전달받지 못했고, 구조·수습·지원 과정에서 피해자의 목소리가 반영되지 않았다고 했다. 실제로 참사 이후 정부가 삼풍백화점 잔해를 서울 마포구 난지도 노을공원으로 옮기면서, 시신 미수습자 가족들이 잔해를 직접 파헤치는 일도 벌어졌다. 당시 이곳에선 희생자의 유골과 유류품이 발견됐다. 유족들은 참사 발생 19일 만에 정부가 구조·수습 활동을 중단한 점을 ‘무책임한 처사’라고 지적했다.&lt;br&gt;&lt;br&gt;유족들은 이번 조사에서 “참사 책임자들의 처벌 수준이 적절하지 않았다”고 입을 모았다. 책임자 처벌이 적절했다고 답한 유족은 단 한 명도 없었다. &lt;br&gt;&lt;br&gt;당시 이준 삼풍건설산업 회장과 이한상 사장은 업무상 과실치사 등 혐의로 징역 7년과 7년 6개월을 각각 받아 복역했다. 이충우·황철민 전 서초구청장에겐 징역 10개월에 300만원 이하 추징금이 선고됐다. &lt;br&gt;&lt;br&gt;한편 유족들이 참사와 관련해 책임이 가장 크다고 생각한 주체는 ‘삼풍 일가’ 75.8%(22명), ‘서초구청’ 65.5%(19명), ‘건설업자’ 58.6%(17명), ‘서울시’ 51.7%(15명), ‘중앙 정부’ 37.9%(11명) 등을 꼽았다. 상당수 응답자가 민간·정부 모두에 책임이 있다는 인식을 공유한 것이다.&lt;br&gt;&lt;br&gt;유족들은 참사 추모 시설에 대해서도 개선이 필요하다고 답했다. 유족들은 참사 현장에서 4㎞가량 떨어진 위령탑에 대해 응답자 절반이 불만족하다고 답했다. 응답자 중 73.4%(22명)는 위령탑의 위치 변경, 규모 확대, 공원화 등 추모 공간 재구성이 필요하다고 했다. 한 유족은 “우린 다 늙고 젊은 세대는 (위령탑) 위치도 모른다”며 “정부에서 관리를 해줬으면 한다”는 의견을 냈다.&lt;br&gt;&lt;br&gt;한편, 재난피해자권리센터 ‘우리함께’는 오는 29일 오전 10시 40분 서울 서초구 양재동 양재시민의숲의 삼풍백화점 참사 위령탑 앞에서 추모식을 열 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비상계엄으로 정신적 피해” 尹 상대 손해배상, 내달 25일 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/ZPCGVPSALZBBFNW4OX74Q457GY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/ZPCGVPSALZBBFNW4OX74Q457GY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 07:54:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRWYPN5H6NIO57DQR3E3SFYQV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포로 정신적 피해를 입었다며 일반 시민 100여명이 윤석열 전 대통령을 상대로 낸 손해배상 청구 소송의 1심 재판이 끝났다. 이에 대한 선고는 다음달 25일 나올 예정이다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사2단독 이성복 부장판사는 27일 시민 105명이 윤 전 대통령을 상대로 제기한 손해배상 소송의 첫 변론 기일을 열었다. 105명이란 숫자는 윤 전 대통령의 탄핵소추안 표결에 불참한 국민의힘 105명에게 항의한다는 의미이며, 배상 금액은 1인당 10만원이다. &lt;br&gt;&lt;br&gt;이날 원고 측 대리인 김정호 변호사는 “국정농단 당시 박근혜 전 대통령을 상대로 시민들이 냈던 손해배상 소송과 달리, 이번 사안은 비상계엄에 따른 내란 행위”라며 사안의 엄중함을 강조했다. 앞서 박 전 대통령에 대한 손해배상은 불법행위와 정신적 피해 사이에 인과관계가 인정되지 않아 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;김 변호사는 박정희 전 대통령이 1975년 발령한 ‘긴급조치 9호’가 위헌일 뿐 아니라 민사적 불법 행위에 해당해 국가가 당시 체포·처벌·구금된 피해자들의 배상 책임을 져야 한다는 대법원 전원합의체의 판결을 언급하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “우선 변론을 종결하고, 내달 25일에 판결 선고를 하겠다”며 “추가적으로 주장할 내용이 있으면 변론 재개를 신청해달라”고 했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령을 대리하는 윤갑근 변호사는 의견서를 내고 이날 재판에 출석하지 않았다. 윤 전 대통령 측은 의견서에서 “손해배상 청구에 대한 항의의 의미로 출석하지 않겠다” “이 소송은 소권(訴權) 남용” 등을 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 변호사는 변론 후 취재진과 만나 “박 전 대통령의 행위는 형법 위반이나 직권남용에 해당하지만 윤 전 대통령은 위헌적 내란 행위를 했다”며 “좀 더 전향적인 판결을 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 측 “특검과 출입 방식 협의 안돼도 내일 출석…김홍일·송진호·채명성 입회”</title>
