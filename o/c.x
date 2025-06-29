@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>일한 사람에게만 치킨 준 교도소…”차별” 소송 건 재소자, 결과는</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/29/VUI3WGMP6JAQTHU7HQHJVF52NQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/VUI3WGMP6JAQTHU7HQHJVF52NQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 03:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSIJEC6W5VPT5SUGC7DVXEVLHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동부구치소 내 법무부 기록물 디지털화 작업장 모습. 기사 내용과 직접적 연관 없음. /행정안전부 국가기록원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 재소자가 생산 작업을 한 수용자에게만 치킨과 피자 등 특식을 배식한 것은 위법하다며 행정소송을 제기했으나 법원이 받아들이지 않았다. &lt;br&gt;&lt;br&gt;29일 법조계에 따르면 서울행정법원 행정3부(재판장 최수진)는 재소자 A씨가 국가인권위원회를 상대로 제기한 진정 기각 처분 취소 소송에서 지난 4월 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;2016년부터 교도소에 수감 중인 A씨는 교도소장이 설 명절 등에 생산 작업을 한 출역 수용자들에게만 치킨과 피자 등 특식을 지급한다며 2022년 2월 인권위에 진정을 제기했다. 자신이 출역 여부를 결정할 수 없는 상황에서 출역 수용자들에게만 특식이 지급돼 차별받았다는 게 A씨의 주장이었다. &lt;br&gt;&lt;br&gt;인권위는 “지급 근거가 되는 예산과 지급 대상이 다르므로 비교 대상 집단이 본질적으로 동일하지 않다”며 A씨의 진정을 기각했다. 그러자 A씨는 인권위 결정을 취소해 달라며 행정소송까지 제기했다. &lt;br&gt;&lt;br&gt;재판부는 진정 내용이 인권침해나 차별에 해당하지 않는다고 봤다. 재판부는 “교도소장이 생산 작업에 종사한 수형자에게 치킨을 제공한 것은 교도 작업 활성화 도모를 목적으로 했고, 수익 증대에 기여한 수형자에 대한 포상으로 이뤄진 것”이라고 설명했다. 이어 “외부 통근 및 내부 작업장 근무 대상자는 수형자의 교화 및 건전한 사회 복귀 등의 목적에 따라 구체적 사정을 감안해 교도소장이 선정하는 것으로, 교도소장에게 재량이 인정된다”고 했다. 수용자에게 부과된 작업의 종류에 따라 제공하는 음식물을 달리하는 것 역시 교도소장의 재량이라는 것이다. &lt;br&gt;&lt;br&gt;재판부는 또 “징역형 집행은 필연적으로 수형자의 기본권 제한을 수반하고, 수형자의 교정 교화와 건전한 사회 복귀 도모라는 목적 달성을 위해 수형자는 합리적인 범죄 내의 제약은 감내해야 할 의무가 있다”고 했다. 그러므로 “교도소장의 합리적인 재량권 행사로 미출역 수용자들이 생산 작업에 종사한 수형자와 동등한 음식을 제공하지 못했더라도, 이는 불합리한 차별이라고 볼 수 없다”고 설명했다.&lt;u&gt; &lt;/u&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상속으로 나뉜 재개발 토지…대법 “투기 목적 아니라면 1인 1분양” </title>
+      <link>https://www.chosun.com/national/court_law/2025/06/29/2FTZCJBFVRBMJM5YQRHZFEH37E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/29/2FTZCJBFVRBMJM5YQRHZFEH37E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 03:42:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDER4KPOOUQY4S7A4SNAALS46Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재개발 정비구역 내 토지 주인이 과거 사망하고 자녀들에게 상속되면서 지분이 나뉜 경우, 투기 목적으로 지분을 쪼갠 것이 아니라면 상속등기 시점과 상관 없이 ‘1인 1분양권’을 줘야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 A씨 등 4명이 서울 은평구의 한 주택재개발사업조합을 상대로 낸 조합원 지위 확인 소송에서 원고 일부 승소 판결을 내린 원심을 지난달 확정했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;이 사건은 은평구 토지 770㎡를 갖고 있던 소유자가 1980년 사망하고 6명의 자녀에게 토지가 분할 상속되면서 시작됐다. 자녀들은 2005년 뒤늦게 상속등기를 마쳤고, 이후 A씨 등 4명이 자녀들로부터 각각 땅을 사들였다.&lt;br&gt;&lt;br&gt;이 토지는 2006년 재개발 정비구역 안에 포함됐다. A씨 등은 조합에 각각 분양을 신청했지만, 조합은 2022년 4명에게 1개 주택만 분양하기로 결정했다. 당시 서울시 조례에서 정한 ‘권리산정 기준일’ 이후에 상속등기로 소유권이 나눠졌기 때문에 단독 분양권을 인정할 수 없다는 이유였다.&lt;br&gt;&lt;br&gt;권리산정 기준일이란 재개발 계획 발표 이후 분양권을 노린 ‘지분 쪼개기’ 투기를 막기 위해 지방자치단체가 지정하는 날짜다. 기준일 이후에는 지분을 분할하더라도 단독 분양권을 받을 수 없다. 서울시 조례는 권리산정 기준일을 2003년 12월 30일을 정하고, 그 이전부터 소유한 지분 면적이 90㎡ 이상인 경우에 단독 분양 대상자가 된다고 규정하고 있었다.&lt;br&gt;&lt;br&gt;그러자 A씨 등은 원래 땅 주인이 사망하면서 상속이 개시된 1980년부터 소유권이 나뉘었다고 보고 단독 분양권을 줘야 한다며 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 조합 측 손을 들어줬다. 하지만 2심은 애초 상속을 받은 당시 ‘지분 쪼개기’ 등 투기 목적이 없었다면 각각의 소유권을 인정할 수 있다고 판단했따. 2심 재판부는 “상속인들에게 지분 쪼개기를 통해 분양 수를 늘리려는 목적이 있었다고 보이지 않는다”고 판단했다. 다만 4명 중 지분이 90㎡에 미치지 못한 2명은 분양 대상자가 아니라고 봤다.&lt;br&gt;&lt;br&gt;대법원도 2심과 같은 판단을 했다. 대법원은 “권리산정 기준일 이전에 상속이 개시되고 토지 중 지분 면적 90㎡ 이상을 소유하게 됐다면, 상속 등기가 권리산정기준일 이후에 이뤄졌다고 하더라도 독립된 1인의 분양 대상자가 될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “지분 쪼개기 의도가 전혀 없었는데도 등기가 늦었다는 이유만으로 1주택을 공급받지 못하게 되는 것은 개발 이익의 균등한 배분과 형평을 도모한다는 취지에 반한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>8세때부터 10년간 의붓딸 폭행... 계부 징역형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/29/7BRCKOUC7RFBPEPKNLCCSFZZE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/29/7BRCKOUC7RFBPEPKNLCCSFZZE4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 02:12:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HXDMSFRP6FDNPFQYU5INWTN6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지방법원 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의붓딸을 10년간 폭행하고 학대한 40대 계부와 친모가 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 판사는 특수협박·아동복지법 위반 혐의로 재판에 넘겨진 A씨에게 징역 1년 6개월을 선고했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;함께 기소된 친모 B씨에게는 징역 1년 6개월에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 부부는 2014년 5월 당시 8세이던 딸 C양이 남의 물건을 훔쳤다는 이유로 바닥에 내팽개치고, 발로 걷어차는가 하면 심지어 등산 스틱으로 얼굴 등을 여러 차례 때린 혐의를 받는다. &lt;br&gt;&lt;br&gt;지난 2018년에는 12세이던 C양이 자해를 시도한 뒤 그 사실을 상담 교사에게 말했다는 이유로 마구 때리고 흉기로 위협한 혐의도 받는다. &lt;br&gt;&lt;br&gt;또 A씨는 술에 취하면 아무 이유 없이 “우리 집이 안 풀리는 이유는 네 탓이다”라는 등의 이유로 상습적으로 폭력을 휘두르는 등 이들 부부는 8세 때부터 18세가 될 때까지 상습적으로 폭행하고 학대를 일삼은 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 “훈육이나 훈계 목적을 상실한 채 피해자를 상대로 무차별적으로 폭행을 가해 죄질이 나쁘다”며 “학대 영향을 받은 피해 아동은 어린 나이부터 여러 차례 자해를 시도하거나 정신과 치료를 받는 등 상당한 고통 속에서 살아온 것으로 보인다”고 지적했다. &lt;br&gt;&lt;br&gt;이어 “계부의 학대를 묵인한 친모에게 받은 정신적 상처 역시 매우 크다”며 “다만 범행 가담 정도가 낮고, 남편으로부터 가정폭력을 당한 것이 적극적으로 제지하지 못한 데 영향을 미쳤을 것으로 보이는 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>바다 한가운데서 악마가 된 노인…최고령 사형수 오종근 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/06/29/CSOBPTVDYFEWNA7OAJ4NQQQWQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/CSOBPTVDYFEWNA7OAJ4NQQQWQU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 02:08:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MGJLBSHPJD2FPUZZMSWEKNBKQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;2007년 8월 31일 오종근에게 살해당한 피해자들의 디지털카메라에서 나온 오종근의 뒷모습. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘보성 어부 살인 사건’의 장본인 오종근이 복역 도중 숨진 사실이 뒤늦게 전해졌다. 그는 국내 최고령 사형수로, 2007년 관광객 4명을 바다에 빠뜨려 살해한 혐의로 기소돼 사형이 확정됐다. &lt;br&gt;&lt;br&gt;29일 뉴시스에 따르면 관광객 4명을 연쇄 살해‧추행한 혐의(살인 등)로 사형을 선고받아 복역 중이던 오종근이 지난해 87세의 나이로 광주교도소에서 숨졌다. 지병으로 인해 사망한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;오종근은 2007년 8월 10대 남녀 관광객 2명을 자신의 배에 태운 뒤 바다로 나가서 여성을 성폭행하기 위해 남성을 먼저 바다에 밀어넣어 숨지게 한 뒤, 여성이 저항하자 역시 바다에 빠뜨려 살해했다. &lt;br&gt;&lt;br&gt;인심 좋게 바다를 구경시켜주겠다던 작고 마른 70대 어부는 배 위에서 돌변했다. 여성을 성추행하려다가 남자친구가 저지하자 그를 바다에 빠뜨리고 삿갓대로 못 올라오게 가격까지 했다. &lt;br&gt;&lt;br&gt;이후에도 오종근은 평소처럼 생업을 이어가다가 그해 9월 보성으로 관광 온 20대 여대생 2명을 또다시 배에 태우고 성폭행하려다가 살해했다. &lt;br&gt;&lt;br&gt;범행은 4명의 변사체가 잇따라 발견되면서 덜미가 잡혔다. 그러나 오종근은 자신의 잘못을 인정하지 않았다. 당시 오종근을 조사했던 프로파일러 권일용씨에게 “공짜로 배를 얻어 타려고 한 저놈들이 잘못”이라는 막말을 하기도 했다. &lt;br&gt;&lt;br&gt;1심은 오종근에게 사형을 선고했다. 재판부는 “성적 욕구를 채우기 위해 두 차례에 걸쳐 남녀 4명을 자신의 배에 태워 무참히 살해하고 체포된 후 범죄를 부인하는 등 재범의 우려가 있어 사회로부터 영원히 격리할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;오종근은 항소심 재판 과정에서는 변호인을 통해 “사형과 무기징역형 사이의 대체 형벌을 마련해야 한다”며 사형제 위헌법률심판을 제청했다. 헌법재판소가 사형제 위헌 판단에 나섰으나 2010년 2월 재판관 9명 중 5명의 의견으로 사형제 존치 합헌 결정을 내렸다. &lt;br&gt;&lt;br&gt;대법원은 그해 6월 사형을 최종 확정했고, 오종근은 국내 최고령 사형수이자 마지막 사형 확정자로 이름을 올렸다. &lt;br&gt;&lt;br&gt;이 밖에도 ‘밀양 단란주점 살인 사건’ 범인인 50대 남성 강모씨가 작년 8월 지병으로 사망한 것으로 전해졌다. 이에 따라 생존한 사형수는 57명으로 줄었다. &lt;br&gt;&lt;br&gt;우리나라는 사형제를 유지하고 있지만 1997년 이후 형을 집행하지 않아 실질적으로 사형제 폐지 국가다. 헌법재판소는 사형제에 대한 세 번째 위헌법률심판 제청 사건을 심리하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해군 함정서 여군부사관 속옷 훔친 병사…  징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/06/29/BMU74SHSD5EUNC4VVHKUC52UVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/29/BMU74SHSD5EUNC4VVHKUC52UVY/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 01:36:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해군 함정에서 당직 근무하면서, 여군부사관들의 침실에 몰래 들어가 속옷을 훔친 20대 전파탐지병(전탐병)에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;29일 법조계에 따르면 수원지법 형사 5단독 김주성 판사는 야간방실침입절도 등 혐의로 기소된 A씨에 대해 징역 3개월에 집행유예 1년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 해군 이지스함 전탐병으로 활동하던 지난 2023년 12월 25일 오전 4시쯤 당직 근무를 하면서 여군 침실 구역에 무단으로 들어가 B하사의 관물함에서 상‧하의 속옷 3점을 훔친 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 이듬해인 2024년 5월 12일 오전 5시 43분쯤 여군 침실 구역에 몰래 들어가 C하사 등 여군부사관 2명의 속옷 3점을 훔치기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 판사는 “피고인이 야간에 피해자들의 방에 침입해 속옷을 훔친 것으로, 그 죄질이 좋지 않고 피해자들로부터 용서받지도 못했다”며 “피고인이 범행을 인정하며 반성하는 점, 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아버지 시신 보름 넘게 방치한 40대 징역 6개월</title>
+      <link>https://www.chosun.com/national/regional/2025/06/29/P6GYS6MDMZDWTA55FKOU2OW75Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/29/P6GYS6MDMZDWTA55FKOU2OW75Y/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 01:34:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집 안방에서 숨진 아버지 시신을 보름 넘게 방치한 혐의로 재판에 넘겨진 40대 아들이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사 17단독 목명균 판사는 시체 유기 혐의로 기소된 A씨에게 징역 6개월을 선고했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 30일부터 12월 20일 사이에 부산 영도구 집 안방에서 숨진 것으로 추정되는 70대 아버지 B씨 시신을 올해 1월 3일까지 그대로 방치한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;B씨의 사망 시기와 장소, 보름 이상인 시신 방치 기간 등은 통화 기록과 검안의 소견 등으로 추정됐다.&lt;br&gt;&lt;br&gt;두 사람은 1994년 3월부터 30년 넘게 함께 살았다.&lt;br&gt;&lt;br&gt;B씨의 사망과 시신 방치는 올해 1월 3일 오후 이웃의 신고를 받고 출동한 경찰관이 현장을 확인하면서 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “경찰관이 집에 찾아왔을 때 아버지의 사망 사실을 알았기 때문에 시신을 고의로 방치하지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 경찰관이 출동하기 하루 전인 1월 2일 B씨와 친했던 이웃이 집을 방문했을 때 A씨가 “다음에 오라”며 돌려보냈고, 집안에 악취가 진동했던 점 등을 들어 유죄로 판단했다.&lt;br&gt;&lt;br&gt;A씨에게는 정신 질환 증상이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김포서 음주운전하다 하천에 빠진 30대 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/06/29/RBQD7QMOARDXLNPRIZPTPRSG2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/06/29/RBQD7QMOARDXLNPRIZPTPRSG2A/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 01:19:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GFVQB6K2BPJK2JULFNM2GDOTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시고 운전하다가 자신이 몰던 SUV(스포츠유틸리티차량)과 함께 하천으로 떨어진 30대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경기 김포경찰서는 도로교통법상 음주운전 혐의로 A씨를 불구속 입건했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오전 6시 34분쯤 김포시 고촌읍 도로에서 술을 마신 상태로 SUV를 운전하다 사고를 낸 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 당시 차량이 3m 아래 하천으로 떨어지면서 얼굴 부위를 다쳐 119 구급대에 의해 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;A씨의 혈중알코올농도는 0.08% 이상의 면허 취소 수치로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항 앞바다에서 수상오토바이와 모터보트 충돌…1명 사망</title>
+      <link>https://www.chosun.com/national/regional/2025/06/29/3G4TAGZFUZHU3GBKWROAXDQEUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/29/3G4TAGZFUZHU3GBKWROAXDQEUQ/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 00:48:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항 앞바다에서 수상 오토바이(제트스키)와 모터보트가 충돌해 1명이 숨졌다. &lt;br&gt;&lt;br&gt;29일 경북소방본부에 따르면, 지난 28일 오후 2시 37분쯤 경북 포항시 청하면 방어리항 앞바다에서 수상 오토바이와 모터보트가 충돌했다. &lt;br&gt;&lt;br&gt;이 사고로 수상 오토바이에 타고 있던 30대 A씨가 바다에 빠졌다. 신고를 받고 출동한 소방대원 등이 심정지 상태에 A씨를 구조해 병원으로 옮겼지만, 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 자세한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유승준 “석현준은 되고, 왜 난 안돼?” 반발…법무부 입장은 </title>
       <link>https://www.chosun.com/national/national_general/2025/06/29/MK2Q5A2KSBGQDO2X5NCO3DK32Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/MK2Q5A2KSBGQDO2X5NCO3DK32Y/</guid>
@@ -876,28 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPWHATQZUKBTEO4SONRYRAAJEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형두 헌법재판소장 권한대행과 헌법재판관들이 27일 오후 서울 종로구 헌법재판소 대심판정에서 열린 6월 심판사건 선고에 참석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범죄인 인도 조약 따라 송환된 범죄자에 대해 피청구국 동의가 있으면 그가 과거에 저지른 다른 범죄로 수사·처벌할 수 있도록 한 현행 규정이 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다.&lt;br&gt;&lt;br&gt;헌재는 27일 A씨가 ‘한국과 태국과 간의 범죄인 인도 조약 16조 1항’ 등이 위헌이라며 낸 헌법소원 사건에서 재판관 7명의 전원일치 의견으로 합헌 결정을 내렸다. &lt;br&gt;&lt;br&gt;이 조항은 ‘원칙적으로 인도가 허용된 범죄 이외에 인도 이전에 행해진 다른 범죄를 이유로 구금, 기소, 또는 심리되지 않는다’고 규정하면서도, 피청구국이 동의하는 경우 예외적으로 다른 범죄를 이유로 인도해 수사할 있도록 하고 있다. &lt;br&gt;&lt;br&gt;A씨는 2002~2023년 국내에서 범죄를 저지른 후 해외로 도피했다가, 태국에서 위조여권을 사용한 혐의로 교정시설에 수용돼 있던 중 2013년 범죄인 인도 조약에 따라 3년간 임시인도됐다. &lt;br&gt;&lt;br&gt;한국 정부는 A씨를 추가 기소하기 위해 2017년 태국에 인도 이외 범죄로 수사하겠다는 취지의 동의요청서를 보냈고, 태국 정부는 2017년 10월 A씨의 임시인도를 최종인도로 전환했다. 이후 2017~2018년 강도상해·강도살인·특수강도 등 여러 범죄로 대법원에서 징역형을 선고받고 복역 중이다.&lt;br&gt;&lt;br&gt;A씨는 자신이 조약 상 인도가 허용된 범죄 이외에 과거 범죄를 이유로 구금·기소됐다며 이에 의견을 내거나 이의신청을 할 수 있는 기회와 절차를 마련하지 않은 것이 법절차 원칙에 어긋난다고 했다. 또 한국이 태국에 동의를 요청할 때 기한을 정하지 않는 것은 법절차 원칙에 위반된다고도 주장했다.&lt;br&gt;&lt;br&gt;헌재는 현행 조항에 문제가 없다고 판단했다. 헌재는 “A씨 주장처럼 매번 인도된 범죄인에게 고지를 하고 의견·자료 제출 기회 등을 부여해야 한다면, 자칫 피청구국의 동의를 확보할 때까지 상대적으로 긴 시간이 소요될 수 있다”고 지적했다. 이어 “그 사이 추가적 범죄에 대한 처벌 공백이 발생할 수 있다”며 “형사사법 운용의 효율성을 제고하고 사법정의 실현이라는 목적을 달성하는 데 커다란 지장을 초래할 우려가 있다”고 했다. &lt;br&gt;&lt;br&gt;헌재는 또 “예측하기 어려운 수사 진행상왕에 따라 기한 내 동의요청을 할 수 없는 부득이한 상황이 발생할 때, 인도된 범죄인의 추가적 범죄에 대해 영원히 처벌할 수 없게 되는 불합리한 상황이 초래될 우려가 있다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 6월 29일 일요일(음력 6월 5일 己巳)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/3WPNZF3HYRFV5JDMROTIDI7DTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/3WPNZF3HYRFV5JDMROTIDI7DTA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 08:05:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 막다른 골목에선 쥐도 고양이 문다. 48년생 적음에도 만족할 줄 알면 진짜 부자. 60년생 친한 사이일수록 동업 꿈도 꾸지 마라. 72년생 수많은 사건들이 지금의 나를 만든 것. 84년생 동업 생각했다면 다음 기회에. 96년생 감사 마음 전할 수 있는 말과 행동 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 주변인 관계에 예의와 절차 잃지 않도록 주의. 49년생 궁하면 변해야 하고 변해야 통하는 법. 61년생 주변 모든 것에 감사하도록. 73년생 조작 말고 있는 그대로 수용하라. 85년생 의도적으로 스트레스 피하는 연습 하라. 97년생 남 탓만 하면 결코 발전 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 상황 휩쓸려 행동하면 손해 막급. 50년생 농사는 머슴 길쌈은 아낙에게 물어라. 62년생 아무리 굶주려도 송충이는 솔잎 먹어야. 74년생 3번 참고 3번 웃고 3번 칭찬하라. 86년생 뜨거운 열정 속 차가운 냉정도 잃지 마라. 98년생 만경 옥토가 닷냥 복만 못하다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 가족 사이에도 원칙은 필요. 39년생 심뇌혈관 질환을 주의. 51년생 동쪽은 이롭지 않으니 피하도록. 63년생 가족의 즐거움이 나의 행복. 75년생 유리할 때만 친구라지. 87년생 남 눈치 볼 것 없다. 99년생 인형 탈을 쓴 가면 놀이 같은 일상이다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 예상 밖의 선전에 행복이 곱절. 40년생 오늘을 잘 보내야 내일이 수월. 52년생 빡빡한 세상인심 유연성을 기르도록. 64년생 주변 사람과 갈등이 우려. 76년생 친구와 산삼은 오랠수록 진국. 88년생 극성스럽게 한다고 될 일인가. 00년생 언제나 선택은 자신의 몫.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 이참에 근본적인 재검토가 필요. 41년생 이 보 전진을 위한 일 보 후퇴. 53년생 이동과 변화로 상황을 반전시켜 봄이. 65년생 중심을 잡아 균형감을 잃지 않도록. 77년생 침묵이 가장 좋은 대응 방법. 89년생 동료나 친구의 도움이 기대. 01년생 겸손과 성실이 동조자를 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 제가 짓는 재앙은 피하기 어렵다. 42년생 반성 없는 삶은 발전이 없다. 54년생 네발짐승도 넘어질 때가 있는 법. 66년생 화해와 협력이 성공을 부른다. 78년생 하루를 참으면 열흘이 편안. 90년생 검은색과 숫자 1, 6 행운 부른다. 02년생 말보다 행동으로 보여주도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 이미 함께하였다면 의심 말아야. 43년생 문서 거래와 도장 사용에 주의가 필요. 55년생 무탈한 일상이 행복임을 알아야. 67년생 넉넉할 때 부족함에 대비하라. 79년생 흰색과 숫자 4, 9 행운 부른다. 91년생 웃는 낯에 침 뱉으랴. 03년생 방향만 옳다면 걱정할 것이 무엇.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 명예 운 좋아지는 시기. 44년생 변화무쌍한 하루가 될 듯. 56년생 쥐띠라면 동업을 고려해볼 만. 68년생 ‘두려움’이라는 병도 치유하기 나름. 80년생 누구에게도 기대지 말고 홀로 가라. 92년생 약점을 뒤집으면 장점 된다. 04년생 약속을 줄이면 쉼이 찾아온다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 남쪽 대문 이용하라 운기 빛난다. 45년생 어렵게 얻은 건 쉽게 잃지 않는 법. 57년생 가진 것 많을수록 근심도 많을 수밖에. 69년생 마음은 아침저녁으로 변한다더니. 81년생 행복은 더 많이 아닌 덜 바라는 데서 온다. 93년생 윗사람들 조언 무시하면 나만 손해.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 문 여는 사람이 문 닫는 사람. 46년생 초점 정확히 맞춰야 문제 해결. 58년생 최선의 판단은 이끌림 없는 고요한 상태에서 가능. 70년생 내용보다 포장 중요할 때 있다. 82년생 무조건 앞만 보고 달리면 위험천만. 94년생 앞에서 못 할 말 뒤에서도 하지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 조급히 서둘러 득 될 것 없다. 47년생 조바심 내지 말고 순리 따르도록. 59년생 주름 짙어지는 만큼 연륜도 깊어짐을 기억. 71년생 겨울 지낸 매화가 더 맑고 향기로운 법. 83년생 재정 상태 꼼꼼히 살펴보고 진행하라. 95년생 허물 있다면 고치기 꺼려하지 마라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>“6월만 오면 우울”… ‘삼풍 유족’ 10명 중 6명 여전히 울분</title>
       <link>https://www.chosun.com/national/national_general/2025/06/27/DIX6E6RXTZEFJA4SFEBISR5MTY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/DIX6E6RXTZEFJA4SFEBISR5MTY/</guid>
@@ -916,64 +966,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRWYPN5H6NIO57DQR3E3SFYQV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 23일 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 혐의·직권남용 권리행사 방해 혐의 사건 8차 공판에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포로 정신적 피해를 입었다며 일반 시민 100여명이 윤석열 전 대통령을 상대로 낸 손해배상 청구 소송의 1심 재판이 끝났다. 이에 대한 선고는 다음달 25일 나올 예정이다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사2단독 이성복 부장판사는 27일 시민 105명이 윤 전 대통령을 상대로 제기한 손해배상 소송의 첫 변론 기일을 열었다. 105명이란 숫자는 윤 전 대통령의 탄핵소추안 표결에 불참한 국민의힘 105명에게 항의한다는 의미이며, 배상 금액은 1인당 10만원이다. &lt;br&gt;&lt;br&gt;이날 원고 측 대리인 김정호 변호사는 “국정농단 당시 박근혜 전 대통령을 상대로 시민들이 냈던 손해배상 소송과 달리, 이번 사안은 비상계엄에 따른 내란 행위”라며 사안의 엄중함을 강조했다. 앞서 박 전 대통령에 대한 손해배상은 불법행위와 정신적 피해 사이에 인과관계가 인정되지 않아 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;김 변호사는 박정희 전 대통령이 1975년 발령한 ‘긴급조치 9호’가 위헌일 뿐 아니라 민사적 불법 행위에 해당해 국가가 당시 체포·처벌·구금된 피해자들의 배상 책임을 져야 한다는 대법원 전원합의체의 판결을 언급하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “우선 변론을 종결하고, 내달 25일에 판결 선고를 하겠다”며 “추가적으로 주장할 내용이 있으면 변론 재개를 신청해달라”고 했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령을 대리하는 윤갑근 변호사는 의견서를 내고 이날 재판에 출석하지 않았다. 윤 전 대통령 측은 의견서에서 “손해배상 청구에 대한 항의의 의미로 출석하지 않겠다” “이 소송은 소권(訴權) 남용” 등을 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 변호사는 변론 후 취재진과 만나 “박 전 대통령의 행위는 형법 위반이나 직권남용에 해당하지만 윤 전 대통령은 위헌적 내란 행위를 했다”며 “좀 더 전향적인 판결을 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 6월 28일 토요일(음력 6월 4일 戊辰)</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/S6LUIWZOQNGLLMSMMOYCV6XO2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/S6LUIWZOQNGLLMSMMOYCV6XO2I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 억지로 하지 말고 순리 따르도록. 48년생 큰 문제 아니라면 그냥 넘어가 주는 것이 어른. 60년생 경거망동 금물이니 기회 보고 천천히 움직이도록. 72년생 꾸준함과 연속성이 무엇보다 필요한 시기. 84년생 현실에 갇히면 미래 놓칠 수도. 96년생 쓸데없는 자존심 부리지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 옛것 무너지면 새것 출현하기 마련. 49년생 꼭 나설 일 아니면 뒤로 물러나 있는 게 상책. 61년생 어제는 맞는 줄 알았는데 오늘은 틀리네. 73년생 후회하거나 주저할 시간 없다. 85년생 꽃도 만개보다 반개했을 때 더 아름답다. 97년생 일단 멈춰서 왔던 길 되돌아보도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 천하의 용천검도 쓸 줄 모르면 무용지물. 50년생 주변 이야기 너무 신경 쓰지 마라. 62년생 자극과 고언 역시 격려로 여길 줄 알아야. 74년생 생각대로 안 되더라도 아쉬워할 것 없다. 86년생 약속과 모임은 빠지지 말고 참석하도록. 98년생 감사할 줄 알면 감사받을 일도 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 순조로워도 긴장의 끈 놓지 마라. 39년생 좋은 일에 금전 지출 있다. 51년생 이무기가 변해 교룡이 되는구나. 63년생 양보하는 자세가 필요. 75년생 원숭이띠와의 거래에 행운 따른다. 87년생 평소 먹은 마음 취중(醉中)에 난다. 99년생 수치심은 재앙을 좇는 지름길.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 어설픈 사냥꾼 상처입기 쉽다. 40년생 토끼 쫓다 사슴 놓칠라. 52년생 추락한 것은 반드시 오른다. 64년생 희망을 주는 사람이 되도록. 76년생 낙상이 두려우니 한 걸음도 신중하게. 88년생 첫인상이 성패를 좌우. 00년생 가어사(假御史)가 더 무서운 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 지혜로운 사람이라고 실수 없겠나. 41년생 운동과 활발한 활동이 최고의 보약. 53년생 상사에게 밉보이면 오래간다. 65년생 사랑과 연기는 감출 수 없다. 77년생 지난 일은 잊고 미래만 생각. 89년생 일렁이는 마음속 파도를 잠재우도록. 01년생 조금 더뎌도 괜찮다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 떠벌리지 말고 조용히 가라. 42년생 먼저는 근심스럽고 뒤에는 평안. 54년생 사람은 누구나 실수가 있는 법. 66년생 버리고 소유함에 연연해 마라. 78년생 가벼운 나들이로 삶의 활력을. 90년생 쉽고 가능한 것부터 시작하라. 02년생 이성의 유혹에 넘어가기 쉬운 하루.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 긍정적인 생각이 좋은 결과 낳는다. 43년생 흐름에 내맡겨두는 것도 한 방법. 55년생 오늘, 내일을 생각하라. 67년생 괜한 일로 마음고생할 수도. 79년생 나 자신이 좋아야 남도 좋다. 91년생 감정을 누르고 이성을 깨워야. 03년생 경중과 선후를 따져 진행하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 세상에 질투를 치료할 처방은 없다. 44년생 지나친 기대는 하지 않는 것이 상책. 56년생 뜻이 있으면 길은 열린다. 68년생 기쁨과 근심은 동전의 양면. 80년생 객관적인 입장에서 판단하도록. 92년생 버려야 새로 채우지. 04년생 짧으면 짧은 대로 쓸데가 따로 있는 법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 젊은 군사에겐 늙은 말이 필요. 45년생 왕후장상도 희로애락 네 글자 벗어나진 못한다. 57년생 무리만 하지 않으면 원만히 이뤄질 듯. 69년생 손에 쥐고도 모르는 행복이면 놓쳐야 알까. 81년생 세상에 옳지 않은 부모 계실까. 93년생 문서 운 있으니 매매 교환에 이익.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 시운이 도래하니 만사 순조롭다. 46년생 준마도 명장을 만나야 천리마라 한다. 58년생 재물의 진정한 목적이 무엇인지 생각해 보도록. 70년생 눈앞 현실만 말고 이면을 봐야. 82년생 오늘 당장 결과를 보려고 하지 마라. 94년생 노력만큼은 아니어도 대가는 있다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 수많은 사건이 지금의 자신을 만든 것. 47년생 뛰어난 기교는 보잘것없는 법. 59년생 일의 성패는 신속 과감에 달렸다. 71년생 묘책 있으나 시운 역행하는구나. 83년생 객은 힘들면 떠나지만 주인은 어떻게든 견뎌낸다. 95년생 대인 관계에 당당한 자신감 갖도록.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>내란 특검, 노상원 전 사령관 추가 기소… 구속영장 요청도 </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/FLMBGYKC4NBFTGOO2R7GALXELA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/FLMBGYKC4NBFTGOO2R7GALXELA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 07:23:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWN2SSYIKVABVM2FKJB2VM6W6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘내란 특검팀’이 12·3 비상계엄과 내란 사건으로 구속돼 재판을 받고 있는 노상원 전 정보사령관을 27일 추가 기소하며 추가 구속 영장 발부를 요청했다. 구속 기한(6개월) 만료에 따라 풀려나지 않게 하기 위해서다.&lt;br&gt;&lt;br&gt;내란 특검팀은 이날 언론 공지를 통해 “노 전 사령관에 대해 ‘부정선거 의혹’ 수사단 구성을 목적으로 군사 정보를 제공받은 혐의(개인정보보호법 위반)로 추가 공소를 제기했다”면서 “구속 영장 발부 필요성에 대한 의견서도 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 노 전 사령관이 부정선거 수사단 요원 선발을 위해 문상호 전 정보사령관 등으로부터 관련 인적 정보 등을 위법하게 제공받은 것으로 파악하고 있다. 두 사람은 계엄 이전부터 ‘계엄 선포 시 선거관리위원회 점거’ ‘부정선거 관련자 체포’ 등을 긴밀하게 논의한 혐의 등으로 기소됐다. 계엄 선포 이틀 전인 작년 12월 1일 경기도 안산의 롯데리아에서 정보사 대령 등과 모여 계엄을 모의한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 비상계엄 사태를 수사한 검찰은 올해 1월 10일 노 전 사령관을 내란 중요 임무 종사, 직권남용 혐의로 구속기소했다. 검찰은 지난달 민간인인 노 전 사령관이 장군 승진 등을 미끼로 금품을 받은 혐의(알선수재)로 추가 기소했다. 두 사건 1심 재판 중 구속 기한 만료가 다가오자 특검팀이 추가 기소한 것이다.&lt;br&gt;&lt;br&gt;특검팀은 “추가 공소를 제기하면서 (내란 재판을 맡고 있는) 서울중앙지법 형사25부에 변론 병합을 요청했다”며 “알선수재 재판도 형사25부에 병합해달라고 요청했다”고 했다. 내란 재판부에서 관련 범죄들을 모두 재판해달라는 취지다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해병대원 순직 사건’ 박정훈 대령 항소심, 김계환 전 사령관 증인 불출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/RHHCNMVXN5DVJO6ILLTALMGMQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/RHHCNMVXN5DVJO6ILLTALMGMQU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 07:23:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRQJKAYRUCWAIEKOPLJ5VWPOXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈 대령이 27일 오후 서울 서초구 고등법원에서 열린 상관명예훼손 등 2심 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘해병대원 순직 사건’과 관련해 항명 등 혐의를 받고 있는 박정훈 전 해병대 수사단장(대령)의 재판에 김계환 전 해병대 사령관이 증인으로 채택됐지만, 출석하지 않았다.&lt;br&gt;&lt;br&gt;27일 서울고법 형사4부(재판장 지영난)는 항명·상관명예훼손 혐의로 기소된 박 대령에 대한 두 번째 항소심을 열었다. 이날 재판은 김 전 사령관의 증인 신문이 예정돼 있었지만, 김 전 사령관 측은 전날 불출석 사유서를 제출하고 법정에 모습을 드러내지 않았다. 재판부는 “불출석 사유서는 건강이 좋지 않아 건강을 추스르고 7월 말경 출석해 증언하겠다는 내용”이라고 설명했다.&lt;br&gt;&lt;br&gt;이에 따라 재판부는 김 전 사령관에 대한 증인 신문을 다음달 25일로 변경하겠다고 밝혔다. 김 전 사령관이 불출석하면서 이날 재판은 6분 만에 마쳤다. 재판이 소득 없이 끝나자 방청석에선 야유와 탄식이 나오기도 했다. 박 대령 측은 “재판 바로 전날 불출석 사유서를 내는 건 재판을 지연시키려는 의도”라고 비판했다.&lt;br&gt;&lt;br&gt;해병대원 사망 사건을 맡고 있는 특검팀(김숙정·류관석·이금규·정민영)도 이날 재판을 방청했다. 재판부가 “이 사건 재판 진행 절차와 관련해서 의견 주실 부분이 있으면 말씀 달라”고 하자, 류 특검보는 “현 단계에서 구체적으로 드릴 말씀은 없다. 추후 의견이 있으면 절차를 밟아 드리겠다”고 짧게 말했다.&lt;br&gt;&lt;br&gt;한편 지난 기일에서 재판부는 이종섭 전 국방부 장관에 대한 항명 혐의를 추가하는 군검찰 측의 공소장 변경 신청을 허가했다. 당초 박 대령은 채모 해병대원 순직 사건 수사 기록을 민간 경찰로 이첩하는 것을 보류하라는 김계환 전 해병대 사령관의 명령에 따르지 않고 경북경찰청에 사건을 넘긴 항명 혐의와, 방송에서 ‘수사 외압 의혹’을 제기해 상관 명예훼손 혐의를 받았다. 군검찰은 여기에 김 전 사령관이 이 전 장관의 명령을 전달했으므로, 박 대령이 이 전 장관에게도 항명한 것이라고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “尹 28일 지하주차장 출석 허용 안 한다” 재확인</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/45HKS5QIOZEMPMJGOJEKDG4CZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/45HKS5QIOZEMPMJGOJEKDG4CZ4/</guid>
-      <dc:creator>방극렬 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 06:55:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RDFN23JHOJOAR2NNQGBF7TOKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지영 내란 특별검사보 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란과 외환 혐의를 수사한 조은석 특별검사팀은 28일 오전 10시로 예정된 윤 전 대통령 출석조사에 대해 “서울고검 지하주차장을 통한 출석은 어렵다는 의사를 윤 전 대통령 측에 전달했다“고 27일 밝혔다. 전날에 이어 1층 현관을 통한 공개 출석이 원칙이라는 뜻을 다시 강조한 것이다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 취재진에게 “윤 전 대통령 측에 어제처럼 지하주차장으로의 출입은 어렵다는 뜻을 전달했다”면서 “출석 불응으로 간주되는 상황이 발생되지 않길 바란다는 취지로서, 윤 전 대통령의 지위나 과거 경력 등에 비춰서 그런 상황이 발생하지 않으리라고 믿고 있다”고 했다. 이어 “1층 현관 출입을 전제로 대통령경호처, 서울경찰청과 윤 전 대통령 출석 관련 내용을 협의 중”이라고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 윤 전 대통령이 서울고검 지하주차장에 진입하는 과정에서 특검 측과 대치할 가능성에 대해 “그런 상황이 발생하지 않는다고 믿고 있고, 그런 상황을 전제로 말하는 것은 신뢰를 저버리는 것”이라고 했다. 그러면서 “1층 현관으로 출입하지 않고 지하주차장 (진입로가) 열릴 때까지 대기하는 것은 출석으로 보지 않을 예정”이라고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 28일 윤 전 대통령에 대한 심야 피의자 조사 가능성에 대해 “본인 동의가 있으면 가능하다”면서 “윤 전 대통령의 의사를 반영할 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측이 인권보호수사규칙에 따른 비공개 출석 요청을 특검이 받아들여야 한다고 주장하는 데 대해서는 “(내란이라는) 국가적 법익에 관한 죄에 있어서 피의자의 인권을 우선할 것이냐, 전국민으로 보이는 피해자 인권을 우선할 것이냐를 살펴볼 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 2·3호선 교대역, 가스 유입으로 무정차 통과</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/27/EG4KXCVQJNDZBFMSTJXTQZ7YPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/27/EG4KXCVQJNDZBFMSTJXTQZ7YPM/</guid>
-      <dc:creator>김도연 기자, 김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 02:34:29 +0000</pubDate>
-      <content:encoded>서울 서초구 지하철 2·3호선 교대역에 가스가 유입돼 2·3호선 열차가 무정차 통과하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XNJVX2LSFCJBHEGI6VXO7WR5E.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 서울 서초구 지하철 2·3호선 교대역 일대의 보안 카메라 화면. 이날 오전 10시 46분쯤 발생한 가스 누출 사고로 일대의 출입이 전면 통제되고 있다. /서울시 교통정보 시스템&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 서초소방서에 따르면, 이날 오전 10시 46분쯤 소방 당국에 ‘가스 냄새가 나는데, 가스가 새고 있는 것 같다’는 내용의 신고가 접수됐다. 신고는 교대역 역무실에서 접수된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울교통공사는 이에 오전 11시 10분부터 2호선 열차를, 오전 11시 21분부터는 3호선 열차도 무정차 통과시키고 있다. 시민들이 역사 안으로 들어오는 것도 통제하고 있다.&lt;br&gt;&lt;br&gt;가스는 역 11번 출구 인근 공사장에서 유입된 것으로 추정된다. 서울교통공사 관계자는 “공사 중 도시가스 배관을 건드려 가스가 샌 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 경찰, 소방 등은 교대역 10·11번 출구 앞 서초대로를 포함해 역사 인근 일대를 출입 통제하고 있다. 경찰 관계자는 “인근 공사장에서 포크레인이 가스 배관을 건드려 파손된 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;가스 관계자가 현장에 도착해 점검하고 있고, 소방 당국 역시 소방차 9대와 인력 33명을 투입해 조치하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 측 “특검과 출입 방식 협의 안돼도 내일 출석…김홍일·송진호·채명성 입회”</title>
       <link>https://www.chosun.com/national/court_law/2025/06/27/OQXZBH7WABH25GDC5O2Z6CRG5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/OQXZBH7WABH25GDC5O2Z6CRG5A/</guid>
@@ -987,15 +979,6 @@
       </media:content>
     </item>
     <item>
-      <title>김건희 측 “오늘 퇴원 예정… 상태 호전되지는 않아"</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/27/WRL6LYKORBAGZHH5ASB3V2ZCKY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 27 Jun 2025 01:20:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FARFQ4Y633ROTFGANW6BBUK2SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 3일 서울 서초구 원명초등학교에 마련된 서초구 제3투표소에서 투표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울증 증세 등으로 서울아산병원에 입원했던 윤석열 전 대통령 배우자 김건희 여사가 11일 만인 27일 퇴원하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사 측 관계자는 “김 여사 건강이 아직 회복되지는 않았지만 오늘 퇴원할 예정”이라면서 “시간은 정해지지 않았다”고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 16일 오후 3시 30분쯤 서울아산병원에 입원했다. 앞서 도이치모터스 주가 조작 의혹과 정치 브로커 명태균씨 관련 공천 개입 의혹과 관련해 검찰 소환 통보를 받았다. 검찰에서 사건을 넘겨받은 김건희 특검팀도 김 여사 대면조사를 추진할 것으로 보인다.&lt;br&gt;&lt;br&gt;김 여사 측은 이날 입장문을 내고 “(특검에) 비공개 소환 요청을 했다는 보도는 사실과 다르다”고 밝혔다. 김 여사 측은 “형사소송법 등 관련 법과 규정에 따라 특검이 정당한 소환 요청을 하면 일시·장소 등을 협의해 소환에 응할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;김 여사 의혹을 수사하는 민중기 특별검사는 이날 ‘김 여사 퇴원 일정에 맞춰 소환 일정을 조율하냐’는 질문에 “출석 요구를 한 적이 없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한복 장식의 순우리말? 신임 복지1차관의 독특한 이름, 실제 뜻은 </title>
       <link>https://www.chosun.com/national/welfare-medical/2025/06/27/IGBMV6ZOZRDGBHFNKSLZTB4XSM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/06/27/IGBMV6ZOZRDGBHFNKSLZTB4XSM/</guid>
@@ -1003,15 +986,6 @@
       <description/>
       <pubDate>Fri, 27 Jun 2025 01:45:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSP5M72TNVPANHLH22YIXMPY5A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이스란 신임 보건복지부 1차관이 복지부 연금정책국장이던 지난 2023년 8월 서울 여의도 소상공인연합회 회관에서 열린 간담회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이스란 신임 복지부 1차관 이름을 두고 관가 안팎에서 설왕설래가 오가고 있다. ‘스란’이 옛날 궁중이나 양반가에서 입은 예복용 치마에 달린 장식을 뜻하는 순우리말이기 때문이다. 보통 20cm 폭으로 금박을 박았고, 용 같은 무늬로 만들기도 했다. 이 장식이 들어간 치마를 ‘스란 치마’로 부르기도 한다.&lt;br&gt;&lt;br&gt;이스란 1차관에 대한 온라인 문서에는 27일 오전 현재 ‘특이한 이름 소유자인데, 순우리말 이름으로 보이며 어원은 한복 스란치마로 추정된다’는 내용까지 등재된 상태다.&lt;br&gt;&lt;br&gt;하지만 실제 뜻은 이와 달랐다. 이 차관은 “출생 당시 한글 이름이 유행했는데, 아버지께서 뜻이 없는 한글로 이름을 지었고, 스란 치마와는 관계가 없다”고 했다. 한자도 없는 순우리말이라 당시 동사무소에서 출생 신고를 안 받아줘, 세 번을 찾아간 끝에 겨우 출생신고를 했다고 한다. 이 차관*의 다른 두 자매 역시 이름에 ‘스’자가 들어가 있다&lt;br&gt;&lt;br&gt;1972년생인 이 차관은 행시 40회로 전임 이기일 복지부 1차관과 건국대 동문이다. 역대 세 번째 복지부 여성 차관으로, 연금·복지 전문가로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 여호와의 증인 대체복무요원 미성년자 성범죄 혐의로 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/26/6YHFWZM3OBEZ7KPY5N2J2IV77U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/26/6YHFWZM3OBEZ7KPY5N2J2IV77U/</guid>
-      <dc:creator>고유찬 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 26 Jun 2025 05:23:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대체복무 중이던 종교적 신념에 따른 병역거부자가 미성년자를 상대로 성범죄를 저지른 혐의로 구속 송치됐다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버범죄수사대는 아동·청소년의 성보호에 관한 법률 위반 혐의로 20대 남성 A씨를 구속해 지난 13일 서울중앙지검에 송치했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 A씨는 2022년 11월부터 최근까지 온라인을 통해 미성년자들에게 자신의 신체 사진 및 음란행위를 하는 영상 등 음란물을 전송한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;여호와의 증인 신도인 A씨는 2023년 11월 병역의무를 종교적 신념에 따라 거부한 사실이 인정돼 진주교도소에서 대체복무를 시작했으며, 복무 중 생활관에서 휴대전화를 이용해 범행을 이어간 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 피해자 중 한 명의 신고를 접수해 수사에 착수했으며, 지난 4일 법원에서 체포영장을 발부받아 A씨를 교도소 대체복무자 생활관에서 체포하고 휴대전화를 압수했다.&lt;br&gt;&lt;br&gt;이어 지난 6일 법원은 “범행 수법이 악질적이고 반복적”이라며 A씨에 대한 구속영장을 발부했다. 지금까지 확인된 피해자만 수십 명에 달하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현행 병역법에 따르면 금고 이상의 형이 확정되면 대체복무 자격이 박탈된다. 진주교도소 측은 “현재 구속 상태로 자체 징계 절차는 진행하지 않고 있으며, 수사 경과를 지켜보고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난달에도 대전교도소에서 종교적 신념을 이유로 대체복무 중이던 여호와의 증인 신도 B씨가 외출 중 음주운전을 하다 차량 추돌 사고를 내 경찰에 적발된 바 있다.&lt;br&gt;&lt;br&gt;당시 혈중알코올농도는 면허 취소 수치인 0.08%를 넘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
