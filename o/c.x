@@ -13,6 +13,16 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>﻿인천 공원에 등장한 대형 거북…알고보니 국내 최상위 포식자</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/XKHXFVXYIJEMDKYJECQ3LUJRSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/XKHXFVXYIJEMDKYJECQ3LUJRSY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 30 Jun 2025 22:19:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PUVPKHU2JEB3HRSPLYEBQRPRI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;인천 부평구 한 공원에 등장한 늑대거북. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 공원에 생태계교란생물로 지정된 ‘늑대거북’ 1마리가 출몰해 관할 구청이 대응에 나섰다. &lt;br&gt;&lt;br&gt;1일 인천시 부평구에 따르면 전날 오전 7시 42분쯤 “부평구 갈산동 한 공원에 대형 거북이가 돌아다닌다”는 민원이 접수됐다. &lt;br&gt;&lt;br&gt;현장에 나온 부평구 관계자들은 이 거북이가 생태 체험 장소로 활용되는 인근 유수지에서 탈출한 것으로 보고 유수지로 돌려보냈다. 그러나, 이 거북이는 생태계교란생물로 지정된 ‘늑대거북’이었다. 뒤늦게 파악한 부평구 측은 다시 포획 작업에 나설 방침이다. &lt;br&gt;&lt;br&gt;늑대거북은 파충류 애호가들 사이에서 반려동물로 인기를 누렸지만, 국내에서 천적 없이 최상위 포식자로 생태계를 위협하면서 2022년 10월 생태계교란생물로 지정됐다. 북미가 원산지인 늑대거북은 새끼일 때는 10㎝ 미만으로 작다. 하지만 다 자라면 등딱지 길이가 최대 47㎝까지 커지며 날카로운 턱을 이용해 입에 들어가는 것은 닥치는 대로 먹어 치운다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDU2TL3BUJGEND52PPWB7SGQX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정면에서 본 늑대거북. 공룡을 연상시키는 생김새다.
+/Sam Stukel. United States Fish and Wildlife Service&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;늑대거북은 물가 생물 중에서는 악어 다음 가는 최상위 포식자로 알려져 있다. 어류, 조류, 양서류는 물론이고 소형 포유류도 먹어 치울 정도로 포식성이 강하다. 성격이 사납고 공격적인데, 가만히 바닥에 매복하고 있다가 먹잇감이 다가오면 단번에 물어서 잡는다. 플로리다 등 미국에서는 늑대거북에게 발가락을 물려 크게 다치는 사례가 빈번하다고 한다. &lt;br&gt;&lt;br&gt;교란생물로 지정되면 학술연구, 교육, 전시 등 목적으로 지방환경청 허가를 받은 경우를 제외하고 수입, 사육, 양도, 양수가 금지된다. 함부로 유기하면 최대 200만원의 벌금, 2년 이하의 징역을 받을 수 있다. &lt;br&gt;&lt;br&gt;부평구 관계자는 “당직 민원을 처리하는 민간 위탁업체가 실수로 방사 조치를 했다”며 “주변 탐색과 포획 작업을 진행할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“尹 비상계엄 선포 후 한덕수·김용현에 뒤늦게 서명받았다”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/01/SDBJPG6PTNFHFEZFVBAZAXVQYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/SDBJPG6PTNFHFEZFVBAZAXVQYI/</guid>
@@ -686,22 +696,6 @@
       <description/>
       <pubDate>Sat, 28 Jun 2025 01:17:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWU6QHM2VZJMRINY4V4YSHMO7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 법률대리인단이 28일 윤 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀을 향해 “법령과 적법 절차를 위반하여 폭주하는 특검은 법 위의 존재냐”며 “특별검사도 검사일 뿐”이라고 말했다. 대리인단은 또 “말장난과 존재하지 않는 사실로 전직 대통령을 소환하여 조사하겠다는 것은 수사가 아니라 조작을 하겠다는 것과 다르지 않다”며 “정치적 선동이자 여론몰이”라고 했다.&lt;br&gt;&lt;br&gt;대리인단은 이날 윤 전 대통령이 특검에 출석한 직후 입장문을 내고 “문재인 정부가 폐지한 포토라인과 유사한 공개 소환의 방식을 강요하고 있다”고 비판했다. 대리인단은 “수사 절차와 피의자의 인권 보장이라는 문제에 대해, ‘1층 로비에서 언론에 노출되어야 한다’는 자극적인 사진 한 장으로 무마하려 하고 있다”며 특검이 ‘망신 주기’를 하고 있다고 했다. &lt;br&gt;&lt;br&gt;대리인단은 특검이 피의자의 소환 절차에 대한 법적 의무를 위반했다며 “정치적 중립성과 공정한 수사 의지에 대해 의문이 든다”고도 했다. 윤 전 대통령은 이날 오전 9시 56분쯤 특검 사무실이 있는 서울고검 1층 로비로 출석하며 취재진 100여 명이 대기하던 포토라인 앞에 섰다. &lt;br&gt;&lt;br&gt;대리인단은 이번 소환 조사에서 윤 전 대통령의 내란죄도 함께 다루지 않겠느냐는 시각에 대해서는 “특검이 윤석열 전 대통령에 대해 수사하고자 하는 것은 내란죄가 아니므로 전 국민이 피해자라는 말 역시 성립할 수 없다”고 했다. 체포영장 집행 저지 지시에 대해서도 “관련자들의 진술에서 전혀 확인할 수 없어 혐의조차 인정될 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이어 대리인단은 “전직 대통령으로서 법치주의의 수호를 최우선에 두었던 윤석열 전 대통령은 특검의 절차 위반과 법적 의무 위반, 수사를 앞세운 조작 시도에 대해 명백히 지적하고자 한다”면서도 “절차적 다툼으로 진실을 밝히는 것에 장애가 생겨서는 안 되기에 금일 조사에 응할 것”이라며 “특검이 논란을 자초하지 말고 특검 본연의 자세로 돌아가길 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 윤 전 대통령 측의 비공개 출석 요구를 받아들일 수 없다고 26일 밝혔다. 그러면서 “출석 조사를 거부하면 형사소송법에 따른 절차를 검토할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 전 대통령, 특검 공개 출석… 비상계엄 첫 대면 조사 시작</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/28/DQVHYOWE7JATLH6O44SWE2XITQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/DQVHYOWE7JATLH6O44SWE2XITQ/</guid>
-      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 28 Jun 2025 00:50:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VKKRDNXAJPJRPPVOTOC5INCOU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 28일 내란 특검에 공개 출석해 소환 조사를 받고 있다. 윤 전 대통령은 특검 출석을 앞두고 조은석 내란 특검 측과 비공개 출석 여부를 두고 신경전을 벌였는데, 결국 포토라인에 선 것이다.&lt;br&gt;&lt;br&gt;조 특검은 지난 10일 출범한 뒤, 8일 만에 수사 개시를 선언했다. 이후 한 차례 체포영장이 기각된 끝에 열흘 만인 이날 윤 전 대통령과 마주하게 됐다.&lt;br&gt;&lt;br&gt;오전 9시 50분쯤 윤 전 대통령은 검은색 승합차에 타 사저를 출발했다. 오전 9시 54분쯤 서울중앙지검 동문을 지나 청사에 도착했다. 서울고검 청사로 향하는 오르막길에서 잠시 멈췄던 승합차는 곧 현관으로 향했다. 앞서 윤 전 대통령 측은 지하로 출석하겠다며, 공개 소환을 강요할 경우 조사에 응할 수 없다는 입장을 밝힌 바 있다. 그러나 결국 이를 철회하고 서울고검 로비로 공개 출석한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMJGELHDIRLRNBMVRJUPQZG3M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 피의자 신분으로 내란특검 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 서울고검 측은 특검팀 요청에 따라 이날 오전 8시쯤 지하1~2층 주차장으로 연결되는 통로에 철제·플라스틱 바리케이드를 세워둬 차량 출입을 막았다. 경찰 기동대 480명과 대통령경호처 직원들도 배치됐다.&lt;br&gt;&lt;br&gt;남색 양복에 빨간색 넥타이를 맨 윤 전 대통령은 이날 오전 9시 56분쯤 내란 특검이 입주한 서울고검 청사 1층 로비에서 하차해 취재진 100여 명으로 구성된 포토라인 앞에 섰다. 대기 중이던 취재진이 ‘지하주차장으로 들어가지 않은 이유가 있느냐’ ‘조은석 특별검사를 8년 만에 피의자 신분으로 만났는데 어떻게 보시느냐’ ‘이번에도 진술거부권 행사하실 거냐’ 등 질문에 답하지 않고 곧장 빠르게 걸어 조사실로 향했다. 김홍일·채명성 변호사도 함께 조사실로 향했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 오전 10시 14분부터 윤 전 대통령 조사를 시작했다. 특검팀은 우선 윤 전 대통령이 지난 1월 경호처에 체포영장 집행을 저지하라고 지시했다는 혐의와, 비상계엄 직후 비화폰 관련 자료 삭제를 지시했다는 혐의를 물을 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXXLFALR2JA5XAWX535JECXW3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 탄 차가 서울고검 로비로 향하고 있다./양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BUCBILWGMNIUJCTWEWOTK4WOUA.jpg?auth=5b0f22072059ac650a2371119f6592897d17b3e8fae14066092c67df926001b4&amp;smart=true&amp;width=2658&amp;height=1842" type="image/jpeg" height="1842" width="2658">
-        <media:description type="plain">&lt;YONHAP PHOTO-3162&gt; 포토라인 선 윤석열 전 대통령
-    (서울=연합뉴스) 서명곤 기자 = 윤석열 전 대통령이 28일 피의자 신분으로 내란특검 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하고 있다. 2025.6.28 [공동취재]
-    seephoto@yna.co.kr/2025-06-28 10:54:03/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
-      </media:content>
     </item>
     <item>
       <title>드라마 ‘폭싹 속았수다’, 제주 해녀·사투리 매력 알렸다</title>
