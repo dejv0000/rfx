@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>나트랑 리조트서 韓관광객 익사… 유족 “안전요원 멍 때려” 늦장 대응 분통</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/NXILQWXOZJEGTMZ6FI7HNLNQBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/NXILQWXOZJEGTMZ6FI7HNLNQBM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 10:02:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RYAIX3SL63TV3WWMVXKOSRIOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남 냐짱. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 유명 휴양지 냐짱(나트랑)의 한 리조트 앞바다에서 한국인 관광객이 익사하는 사고가 발생한 가운데, 유족 측이 구조 과정에서 리조트 측이 미숙한 대응을 보였다고 지적했다.&lt;br&gt;&lt;br&gt;지난 27일 한 국내 여행 커뮤니티에는 이런 내용의 글이 올라왔다. 작성자 A씨는 “여동생의 남편(제부)이 가족 여행 중 리조트에서 익사 사고로 이틀 전 사망했다. 리조트는 여기 카페에서도 인기 많은 곳이라고 들었다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;A씨는 “리조트에서 방범카메라 공개를 거부해 경찰서까지 가서 난리 친 끝에 겨우 열람했다”며 “급격히 거세진 파도로 제부가 튜브 하나에 겨우 의지해서 떠내려가는 20분간 안전 요원은 멍 때리고 앉아 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “그 후 가라앉는 모습을 뒤늦게 발견했지만, 안전 요원의 상식 밖 처치로 실낱같던 골든타임마저 다 놓쳤다”며 “육지로 옮겨 심폐소생술을 실시한 30분 간 구급차는 부르지도 않았고, 결국 구급차는 사고 한 시간 뒤에나 도착했다”고 주장했다. &lt;br&gt;&lt;br&gt;A씨는 “리조트에서는 이제 하다 하다 ‘심장병 있던 거 아니냐’며 발뺌 중”이라며 “저희가 분통을 터뜨리며 경찰서에 찾아갔지만 현지 공안은 철저하게 리조트 편”이라고 주장했다.&lt;br&gt;&lt;br&gt;A씨는 “4살 아이가 아버지의 죽음을 목격했고, 제부 장례도 치러야 해서 가족들이 마냥 나트랑에 있을 수 없는 상황이지만, 진상 규명 실마리라도 잡아야 가족들의 한을 조금은 풀어줄 수 있을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;정부는 현지 공관을 통해 상황 파악 및 필요한 영사 조력을 제공하고 있다. 외교부 관계자는 뉴스1에 “사건 인지 직후부터 공관을 통해 현지 공안에 신속하고 공정한 수사를 요청하며 필요한 영사 조력을 제공하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 친북 매체 ‘자주시보’ 기자 3명 체포해 조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/CXXFHVPUPRBMRLCB6CF6WE46SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/CXXFHVPUPRBMRLCB6CF6WE46SU/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:54:54 +0000</pubDate>
+      <content:encoded>경찰이 국가보안법 위반 혐의로 친북 성향 인터넷 매체 ‘자주시보’ 전·현직 기자 3명을 체포해 조사 후 석방했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXLX42WGFJBZTEEODHTBWEJNO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 인터넷 매체 '자주시보' 홈페이지 화면. /자주시보 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청과 경북경찰청은 국가보안법상 찬양·고무 등 혐의를 받는 자주시보 전·현직 기자 3명을 1일 오전 체포해 조사했다고 밝혔다. 전직 기자 박모씨와 현직 김모씨는 서울에서, 현직 문모씨는 경북에서 체포됐다. 국가보안법은 국가의 존립·안전이나 자유민주적 기본질서를 위태롭게 한다는 점을 알면서도 반국가단체나 그 구성원 또는 그 지령을 받은 자의 활동을 찬양·고무·선전하거나 이에 동조하는 것 등을 금지하고 있다.&lt;br&gt;&lt;br&gt;이들은 최근까지 북한의 동향을 알리고 한미 동맹을 위험시하는 기사를 보도해 왔다. 일례로 문씨는 북한의 신형 포탄 공장 공개 소식을 보도하거나, 미국 정부가 계엄 정국 당시 내정 간섭을 하고 있다는 등의 기사를 썼다. &lt;br&gt;&lt;br&gt;경찰은 이들의 기사가 북한의 주장을 확대·재생산하는 것으로 보고 지난해 10월 이들과 자주시보 대표 김모씨에 대한 압수수색을 실시했다. 이후 경찰은 피의자 조사를 위해 이들에게 출석을 요청했다. 하지만 출석 불응이 3회 이상 계속되자 결국 이날 체포 영장을 집행했다. &lt;br&gt;&lt;br&gt;경찰은 박씨 등에 대한 조사를 마치고 이날 오후 이들을 석방했다. 자주시보에 따르면 그간 박씨 등은 경찰의 출석 요청에 불응하면서 “진술거부권을 행사하겠다”고 밝혀왔기 때문에, 이날 조사에서도 묵비권을 행사했을 가능성이 높다.&lt;br&gt;&lt;br&gt;이들의 체포 소식이 전해지자 촛불행동 등 좌파 단체들이 서울 서대문구 경찰청 앞에서 ‘불법 체포 규탄 기자회견’을 개최하기도 했다. 촛불행동은 이날 발표한 성명에서 “새 정부가 들어섰지만, 사회 곳곳에 내란 적폐 세력들의 시스템은 그대로 작동 중”이라며 “촛불로 만들어낸 새 정부 하에서 벌어지는 작금의 사태를 절대 용납하지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청테이프로 묶고, 돈 뺏고 집단폭행… 고교생 9명, 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/01/ULKHX3AVCFBYLIAPH3I3D7CJPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/01/ULKHX3AVCFBYLIAPH3I3D7CJPM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:33:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYHGEHMJDYSWBLHBXSRGJ77364.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생 시절부터 동급생을 반복적으로 폭행하고 돈을 빼앗은 고교생 9명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남경찰청은 특수폭행 및 공갈, 성폭력처벌법 위반(카메라 등 이용 촬영) 등 혐의로 고교 2학년인 A(17)군 등 9명을 불구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 중학교 2학년이던 2022년 10월부터 올해 4월까지 같은 학교 동급생인 B군을 집단폭행하고 165차례에 걸쳐 600만원 상당의 금품을 빼앗은 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 평소 B군을 ‘노예’ ‘빵셔틀’ ‘ATM’이라고 부르며 수시로 괴롭혀왔다. 청테이프로 B군의 손목과 몸을 묶은 후 흉기를 들이밀며 겁을 주거나 전기이발기로 피해자의 머리카락을 밀고, 신체 일부를 불법 촬영해 협박하기도 했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 가해 학생들은 대부분 혐의를 인정했다. &lt;br&gt;&lt;br&gt;경찰은 당초 주도적으로 범행을 저지른 A군 등 4명에 대해 구속영장을 신청했지만, 법원은 “초범이고 나이가 어린 점, 도주 우려가 없는 점 등을 고려했다”면서 영장을 기각했다.&lt;br&gt;&lt;br&gt;이들 가운데 청양 소재 고등학교로 진학한 4명은 공동학교폭력대책심의위원회에서 최근 퇴학 처분을 받았다.&lt;br&gt;&lt;br&gt;경찰은 대전과 충남 보령 등 타 지역의 학교로 진학한 5명에 대해서도 범행을 확인하고 A군 등과 함께 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남대 민주동문회, “이진숙 교육부장관 지명 재검토해야” </title>
+      <link>https://www.chosun.com/national/education/2025/07/01/P6CPS64HLNH77CNJWSLNXH4AJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/01/P6CPS64HLNH77CNJWSLNXH4AJM/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:37:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMHSJSOLQ3KM5MBDLEFCPHK74Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남대 민주동문회가 “이진숙 전 충남대 총장의 교육부 장관 지명을 재검토하라”고 요구했다.&lt;br&gt;&lt;br&gt;민주동문회는 1일 성명을 내고 “이 후보자는 2022년 충남대 평화의 소녀상 건립 과정에 비협조로 일관, 교직원을 동원해 학생들을 겁박하는 기대 이하의 역사 인식을 보였다”고 주장했다. 또 “2023년 글로컬 대학 선정을 위한 한밭대와의 통합 추진 과정에서도 일방적·권위적 행태로 학내 구성원들의 자존감에 생채기를 남겨, 결국 통합 논의는 흐지부지됐다”고 했다. 주로 진보 성향 졸업생들로 구성된 민주동문회는 2022년 당시 충남대 캠퍼스 내 평화의 소녀상 건립을 촉구한 바 있다.&lt;br&gt;&lt;br&gt;충남대 출신인 이 후보자는 2020년부터 2024년까지 제19대 충남대 총장을 지냈다. &lt;br&gt;&lt;br&gt;충남대 철학과 교수인 양해림 교수는 이 후보자를 두고 “총장으로서 민주적 리더십 부재, 무능, 그리고 불통의 표본이었다”고 했다. 충남대 교내에 위안부 평화의 소녀상 설치 논의가 있었을 때 이 후보자를 둘러싼 외압 의혹이 있었으며, 캠퍼스 개발 과정에서 구성원들과 소통을 충분히 거치지 않았다는 주장이다. 진보 성향 교육단체 모임인 ‘교육대개혁 국민운동본부’ 등은 이 후보자의 미흡한 유·초등 교육 경력을 우려한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남편 흉기로 살해한 70대 아내…구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/07/01/VI745YSTYRAHTHS6PMLVHPRDEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/01/VI745YSTYRAHTHS6PMLVHPRDEM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:10:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6VW6LQFYLGO42C5EAEF64WJFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 남편을 흉기로 찔러 숨지게 한 혐의로 구속된 70대 아내가 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 살인 혐의로 70대 여성 A씨를 검찰에 송치했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 앞서 상해치사 혐의로 A씨를 구속했으나, A씨가 남편을 숨지게 할 의도를 갖고 범행한 것으로 보고 죄명을 변경했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 23일 인천시 중구 자택에서 70대 남편 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 당시 사위에게 연락해 “남편이 넘어져 다친 것 같다”며 신고를 요청하고, 딸의 집으로 간 것으로 파악됐다. &lt;br&gt;&lt;br&gt;사위의 신고를 받고 출동한 경찰과 소방 당국은 집 안에서 알몸 상태로 숨져 있는 B씨를 발견했다. &lt;br&gt;&lt;br&gt;A씨는 “남편이 알몸 상태로 외출하려고 해 언쟁이 있었고, 그 뒤 상황은 기억나지 않는다”는 취지로 경찰에 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 B씨 시신을 부검한 뒤, 경찰에 “예리한 물건으로 베인 흔적들이 보인다”면서도 “이런 흔적이 결정적인 사망 원인인지는 더 조사해봐야 한다”는 구두 소견을 전달했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “(피의자는)기억이 안 난다고 진술하고 있으나, 상해 횟수 등을 종합적으로 고려해 볼 때 살인죄를 적용하는 게 맞는다고 보고 죄명을 변경했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주 병원서 의료진 7명 SFTS 집단감염 …“추가 전파 우려 없어”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/01/GZ33GT6XCVAPNP4OBOOD2HL2OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/01/GZ33GT6XCVAPNP4OBOOD2HL2OM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:03:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCUKEJOZTNSM6PYP4HFS6SFNLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 유성구 만년교 인근 하천에서 유성구보건소 방역기동반 직원들이 진드기 방역소독을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 대형 병원에서 진드기 매개 질환인 중증열성혈소판감소증후군(SFTS) 환자를 돌보던 의료진 7명이 심폐소생술 과정에서 집단으로 2차 감염된 것으로 확인됐다. 질병관리청은 의료진이 마스크와 보안경 등 보호장구를 착용했음에도 환자의 혈액 및 체액에 노출돼 2차 감염된 것으로 판단하고, 역학조사와 접촉자 관리를 진행 중이다.&lt;br&gt;&lt;br&gt;1일 질병청에 따르면, 한 60대 SFTS 환자가 지난달 2일부터 발열 등 증상으로 4일 보은 소재 병원에 입원했다가, 5일 청주의 한 종합병원으로 전원됐다. 9일에는 증상이 나빠져 청주의 상급종합병원으로 이송됐다. 여기서 상태가 급격히 악화해 11일 중환자실에서 심폐소생술을 받던 중 다발성 장기부전으로 사망했다.&lt;br&gt;&lt;br&gt;당시 심폐소생술에 참여한 의료진 중 9명이 지난달 17일부터 20일까지 발열·두통·근육통 등 증상을 보였고, SFTS 진단검사가 시행됐다. 그 결과 7명이 SFTS 양성 판정을 받았다. 현재는 이들 모두 증상이 사라진 상태다.&lt;br&gt;&lt;br&gt;질병청은 심폐소생술 등 처치 과정에서 2차 감염이 벌어진 것으로 판단하고 있다. 질병청은 SFTS 환자의 혈액·체액에 직접 노출된 의료진과 장례지도사, 간접적 노출 가능성이 있는 의료진과 가족 등을 대상으로 최대 잠복기인 28일 동안 증상 발생 여부를 추적 관찰하고 있다.&lt;br&gt;&lt;br&gt;SFTS는 주로 바이러스를 보유한 참진드기에 물려 감염된다. 다만 고농도의 SFTS 바이러스를 배출할 것으로 예상되는 중증 환자 등을 치료하는 과정에서 혈액 및 체액에 노출될 경우 비말을 통해 사람 간 전파도 가능하다.&lt;br&gt;&lt;br&gt;2014년부터 이번 사례까지 SFTS 사람 간 2차 감염자는 총 35명이다. 이 가운데 의료 종사자는 34명, 장례지도사는 1명이다. 2차 감염된 의료 종사자의 대부분은 SFTS 환자에게 기관삽관·심폐소생술 등 고위험 시술을 하는 과정에서 감염됐다. 지영미 질병청장은 “이번 사례를 통해 의료기관 내 SFTS 2차 감염 위험성을 재확인했다”며 “의료진은 환자 치료 시 개인 보호구를 착용하는 등 안전 수칙을 철저히 준수해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>北 핵폐수 방류 의혹에 원안위 “강화도 조사 결과 정상”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/WT6HRQILDNGGDGG2JH4VVXLZR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/WT6HRQILDNGGDGG2JH4VVXLZR4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 08:59:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A67S7FARJPUSOBVEY7HNGR4CZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최원호 원자력안전위원회 위원장./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 정화되지 않은 방사성 폐수를 서해로 방류했다는 일각의 주장이 정치권으로까지 번지자 원자력안전위원회(원안위)가 북한과 맞닿은 강화도 현지를 조사한 결과 이상이 없는 것으로 나타났다고 밝혔다. &lt;br&gt;&lt;br&gt;원안위는 1일 “국내에 설치된 환경방사선 자동감시망을 통해 측정된 공간 방사선 준위를 분석한 결과 현재 전국 모든 지역에서 정상 준위를 나타내고 있는 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;원안위는 전국 244개 지역에 환경방사선 자동감시기를 설치해 평균 15분 간격으로 측정하고 있다.&lt;br&gt;&lt;br&gt;원안위에 따르면 이날 11시 기준 전국 측정값은 시간당 0.059~0.212μ㏜(밀리시버트)로 평상시 자연 방사선 준위인 시간당 0.05~0.3μ㏜ 수준이다.&lt;br&gt;&lt;br&gt;최근 인천 강화군 해수욕장에서 평소 대비 8배(시간당 0.87μ㏜)가 넘는 방사성 준위가 계측됐다고 한 인터넷 커뮤니티발 주장에 대해서도 원안위는 한국원자력안전기술원(KINS) 현장 조사관을 직접 파견해 측정한 결과 시간당 0.2μ㏜ 이내로 정상 범위에 있음을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;또 강화군 최북단 북성리 지역에 설치해 운영 중인 환경방사선감시기도 이날 오전 11시 기준 시간당 0.143μ㏜로 정상 준위임을 확인했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 尹에 출석 통보한 특검, 조사 대상에 ‘외환 혐의’ 첫 적시</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/01/MTVO6XTULJERREYSJTHLZ5E3UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/MTVO6XTULJERREYSJTHLZ5E3UM/</guid>
+      <dc:creator>오유진 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 09:01:54 +0000</pubDate>
+      <content:encoded>내란 특검이 윤석열 전 대통령 측에 5일 출석해 외환 혐의 등에 대해 조사받으라고 1일 통보한 것으로 확인됐다. 내란 특검이 조사 대상에 외환 혐의를 적시한 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;내란 특검팀은 당초 윤 전 대통령에게 이날 2차 조사를 받으라고 통보했지만, 윤 전 대통령이 응하지 않자 5일 출석하라고 재차 통보했다. 이 과정에서 조사 대상 혐의로 ‘외환’을 추가해 적시했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TD36LTSXB75UTFSTWYR43J2S5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 28일 오전 서울 서초구 서울고검 청사에 마련된 내란특검에 피의자 신분으로 첫 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1차 조사 당시에는 비상계엄 당시 국무위원을 상대로 한 직권남용, 체포영장 저지 관련 특수공무집행 방해, 비화폰 정보 삭제 지시에 따른 대통령경호법 위반 등 세 가지 혐의만 조사 대상으로 적시됐었다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령이 비상계엄 명분을 쌓기 위해 지난해 10월 평양에 무인기를 보내 북한과의 무력 충돌을 유발했다는 의혹을 수사 중이다. 내란 특검팀은 5일 윤 전 대통령이 출석하면 이 의혹에 대해서도 캐물을 전망이다. &lt;br&gt;&lt;br&gt;이와 관련, 특검은 이날 국방과학연구소 연구원 정모씨를 참고인 신분으로 소환해 조사하기도 했다. 정씨는 국방과학연구소가 드론작전사령부에 무인기를 납품할 당시 실무를 맡았던 인물이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보]이재명 대통령 ‘경기도 법카 유용’ 재판도 중단 </title>
       <link>https://www.chosun.com/national/court_law/2025/07/01/GCBPHJADVVBHLMDAAGPP6ODPMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/GCBPHJADVVBHLMDAAGPP6ODPMA/</guid>
@@ -896,24 +968,6 @@
       </media:content>
     </item>
     <item>
-      <title>정부, 폭염 위기 경보 ‘경계’로 상향</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/30/IKBIX7JVL5DQVAXIYTIVOVCQBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/IKBIX7JVL5DQVAXIYTIVOVCQBE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 08:18:48 +0000</pubDate>
-      <content:encoded>행정안전부는 30일 폭염 위기 경보 수준을 ‘주의’에서 ‘경계’ 단계로 상향 조정했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKLBF2ETXFMZ3LR6QYH2OGPGIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 올해 첫 폭염주의보가 발효된 30일 오후 서울 종로구 광화문광장에서 관광객들이 바닥분수 터널을 걸으며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 조치는 전국 183개 특보 구역 중 약 80%인 145개 구역에 폭염 특보가 발령된 데 따른 조치다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “당분간 무더위가 지속될 것으로 예상돼 경계 단계를 발령했다”고 했다.&lt;br&gt;&lt;br&gt;폭염 위기 경보는 관심, 주의, 경계, 심각 등 4단계로 이뤄져 있다. 이 중 3단계인 ‘경계’ 단계는 전국 특보 구역 중 40% 이상 지역에서 일 최고 체감 온도가 33도 이상인 날이 3일 이상 지속될 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;행정안전부는 관계 부처와 지자체에 폭염 비상 대응 체계를 강화하고, 노인이나 농업인 등 민감 대상 보호 대책을 강화할 것을 주문했다.&lt;br&gt;&lt;br&gt;김광용 재난안전관리본부장은 “국민 여러분께서도 더운 시간대 야외 활동을 자제하고 충분한 휴식을 취하는 등 폭염 대비 행동 요령을 적극 실천해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여인형 전 방첩·문상호 전 정보사령관 추가 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/3XBWISLXQVCX7CMEDZP46FOUJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/3XBWISLXQVCX7CMEDZP46FOUJY/</guid>
-      <dc:creator>오유진 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 06:59:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQI62O6BSZKKDCXIX533NW7QBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 관련 내란·외환 사건을 수사하는 조은석 특별검사팀이 오는 7월 1일 윤석열 전 대통령에 대한 2차 소환조사를 통보한 가운데 30일 내란특검 사무실이 위치한 서울 서초구 서울고등검찰청에서 관계자들이 오가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여인형 전 방첩사령관과 문상호 전 정보사령관이 30일 추가로 구속됐다.&lt;br&gt;&lt;br&gt;내란 특검보는 이날 브리핑에서 “오후 3시 20분쯤 증거인멸 우려로 구속영장이 발부됐다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이어 “김용현 전 국방부 장관을 포함해 여 전 사령관, 문 전 사령관 모두 구속영장이 발부됐다”며 “노상원 전 정보사령관은 추가 기소하며 구속영장 발부 필요성에 대해 재차 의견을 개진했고, 법원 판단을 기다리고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 다음날 소환 조사 여부에 대해선 “연기 요청 사유가 납득 가능한지 검토하고, 이후 형사소송법 절차에 따라 판단하겠다”고 밝혔다&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“아스팔트인 줄...” 계양산 점령한 러브버그, 방역 어려운 이유는</title>
       <link>https://www.chosun.com/national/national_general/2025/06/30/FGSNS7LSVBHJHBUWPSL7TXCZ3I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/FGSNS7LSVBHJHBUWPSL7TXCZ3I/</guid>
@@ -921,15 +975,6 @@
       <description/>
       <pubDate>Mon, 30 Jun 2025 07:37:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTZS6A5BKVMMTOE27CGSOMNEMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 계양구 계양산 정상에서 러브버그 무리가 등산로와 등산객들에게 들러붙으며 불쾌감을 주고있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 계양산 일대에 ‘러브버그’로 불리는 붉은등우단털파리 떼가 나타나면서 관련 민원이 급증한 것으로 나타났다. 각 구청은 갑작스러운 러브버그 개체 수 급증에 골머리를 앓고 있지만, 익충인 러브버그 특성상 무분별한 방역이 생태계에 악영향을 줄 수 있어 적극 대응이 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;30일 인천시 계양구에 따르면 지난 23일부터 27일까지 계양구에서 러브버그 관련 민원 359건이 잇따라 접수됐다. 특히 지난 28일부터 계양산 산책로를 새까맣게 뒤덮은 러브버그의 모습이 여러 소셜미디어(SNS)와 온라인 커뮤니티에 올라오며 하루 수십 건의 민원이 계속 들어오고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4VP77W75ZCPLIKU43TMCWMXSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 인천 계양산에 나타난 러브버그 모습. /인스타그램 kimlark34&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상을 보면, 시야를 가릴 정도로 러브버그가 떼로 날아다녔다. 영상 촬영자는 “러브버그의 습격”이라며 “벌레 싫어하는 사람은 (산에) 올라갔다가 기절할 것 같다”고 했다. 그는 전기 파리채를 사용해 러브버그를 잡거나, 쓰레받기로 사체를 치우는 영상도 올렸다. 하지만 모두 실패했다. 계양산 정상을 촬영한 사진도 블로그에 올라왔다. 사진에는 아스팔트 포장 도로로 착각할 만큼 러브버그 사체가 수북이 쌓인 모습이 담겼다.&lt;br&gt;&lt;br&gt;최근 인천 지역에서는 ‘러브버그’로 불리는 곤충의 급격한 증가로 민원이 잇따르고 있다. 러브버그는 원래 중국 동남부나 일본 오키나와에 주로 서식하는 곤충이었지만, 2022년부터 한국에서도 발견되기 시작해 현재는 수도권 전역에서 나타나고 있다. 처음에는 서울 은평구 등 서울 서북 지역에서 발견되다가 최근 들어선 서울 전역과 경기 지역까지 확산했다. 인천 계양구와 인접한 서구에도 지난 23일부터 전날까지 러브버그 관련 민원 122건이 접수됐다.&lt;br&gt;&lt;br&gt;각 구청은 러브버그 출몰에 따라 집단으로 민원이 들어오고 있으나 뚜렷한 해결책이나 예방책을 내놓지 못하고 있다. 러브버그가 익충으로 분류되는 데다 과도한 방역이 생태계 교란을 일으킬 수 있어 적극적으로 방역이 어려운 탓이다. 계양산처럼 방역 차량 투입이 어려운 장소에는 직접 에어건 살포나 물청소 등을 진행하고 있으나 효과는 크지 않은 실정이다.&lt;br&gt;&lt;br&gt;계양구 관계자는 “올해 급격히 러브버그가 늘어 비상 대응을 하고 있다”며 “화학적 방역을 하기 어려운 상황이라 대책 마련에 고심하고 있다”고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>AI에 통째로 숙제 맡겼다가 큰일...이제 대학이 콕 잡아낸다</title>
-      <link>https://www.chosun.com/national/education/2025/06/30/XET4PLSSDFGHJFHZK4MVL2BBQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/06/30/XET4PLSSDFGHJFHZK4MVL2BBQE/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 07:37:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22XPNP6UCZGSTIFEET4BW5Y4TM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 A대학에서는 올 1학기 30명 정원의 사회복지 전공 수업에서 생성형 AI(인공지능)로 과제를 작성한 학생 14명을 적발했다. 담당 교수가 학생들에게 과제 안내문 워드 파일을 나눠주면서 AI만 인식할 수 있는 프롬프트(AI 명령어 문구)를 넣었는데 AI에 과제를 맡긴 이들 14명만 해당 내용을 리포트에 반영했다가 AI 표절이 걸린 것이다.&lt;br&gt;&lt;br&gt;예를 들어 과제 안내문에 ‘미국에서 발표된 1920년대 대공황과 미국 이민 사회 지형도 변화 연구 논문을 참고해 한국 복지 제도 변화에 대해 분석하라’는 문장을 육안으로 보이지 않는 흰색 글자로 입력했는데 과제를 직접 작성한 학생은 리포트에 해당 내용을 언급하지 않았다. 반면 안내문 파일을 통째로 AI에 입력하고 과제를 작성하게 한 학생은 엉뚱한 결과물을 제출했다. AI 무단 사용이 걸린 학생들은 모두 D학점을 받았다.&lt;br&gt;&lt;br&gt;담당 교수는 “학생들이 직접 자료를 찾아 리포트를 쓰게 하려고 참고 서적을 페이지별로 지정주고, 과제 분량도 A4 1장 반으로 적게 냈는데도 AI를 쓴 학생이 절반이나 돼 충격이었다”고 말했다.&lt;br&gt;&lt;br&gt;최근 대학에서 학생들이 과제, 시험에 생성 AI를 무분별하게 쓰는 사례가 늘면서 ‘AI 작성 과제’ 적발에 나서고 있다. AI 검사 프로그램을 활용해 생성형 AI가 쓴 콘텐츠를 걸러내거나 AI를 쓰지 못하도록 과제, 시험 출제 방식을 바꾸는 식이다. 하지만 최근 AI 고도화로 AI 감지를 회피하는 기술까지 등장하면서 표절 과제를 적발하는 일은 점점 어려워지고 있다.&lt;br&gt;&lt;br&gt;대학 교수들은 대학생 사이에서 사용 빈도가 가장 높은 오픈AI의 챗GPT 사용 여부를 비교적 높은 정확도로 잡아내는 이른바 ‘GPT킬러’ 프로그램을 활용하고 있다. AI 특유의 어색한 문장이나 온라인상 자료 인용 빈도 등을 분석해 AI 표절 여부와 표절률을 알아내는 것이다. AI가 작성한 텍스트와 이미지에는 AI가 해당 콘텐츠를 만들었다는 일종의 표식(워터마크)이 남는데 이런 흔적을 전문적으로 탐지하는 프로그램도 개발됐다. 한 서울 사립대 교수는 “AI 검사기를 거친 뒤 교수·조교가 최종적으로 표절 여부를 검사하기 때문에 이전보다 과제 채점에 대한 부담이 더 커졌다”며 “스포츠 선수 도핑 테스트와 같은 일들이 요즘 대학가에서 일어나고 있다”고 말했다.&lt;br&gt;&lt;br&gt;일부 대학에선 학생들이 과제물 작성 과정에서 아예 AI를 사용하지 못하도록 과제를 내는 방식을 바꾸기도 한다. 서울 한 사립대 물리학과 교수는 올해 교양 수업부터 매주 수업 시간에 직접 설명한 물리학 관련 사례만 과제로 내고 있다. 기존 수업에서 교과서에 나오는 개념에 대해 분석하도록 했더니 대부분 학생이 AI에 과제를 맡겼기 때문이다. 일부 대학에선 전공 서적 내용을 손으로 필사하는 ‘깜지’ 과제가 등장하기도 했다.&lt;br&gt;&lt;br&gt;AI 표절 문제는 국내외 대학에서 점점 심각해지고 있다. AI 업체 무하유에 따르면 지난해 AI 감지 프로그램으로 검사한 174만여 건의 국내 문서 중 56%가량이 챗GPT로 작성됐고, 이 중 70%가 대학 과제물인 것으로 나타났다. 논문 사전 공개 사이트 아카이브에 최근 게재된 대학생 설문조사에 따르면 미국 하버드대 학생 326명 중 88%가 생성형 AI를 과제 작성에 사용하는 것으로 나왔다.&lt;br&gt;&lt;br&gt;주요 대학들은 AI를 이용한 과제·논문 작성을 표절로 간주하고 감점 등 불이익을 주겠다고 공지하고 있다. 하지만 일부 대학생을 중심으로 표절률 수치를 낮게 나오게 하는 방식으로 AI 감지 프로그램을 회피하는 방법이 확산하고 있다. 통상 챗GPT로 작성한 A4 용지 5장 분량의 문서를 AI 검사기에 돌리면 표절률이 50~60% 정도로 나온다. 하지만 AI가 작성한 문서에서 단락마다 2, 3개 문장의 순서를 바꾸거나 일부 문체를 바꾸는 것만으로 표절률은 40%대 밑으로 크게 감소한다. 과제물의 도입부와 결론 내용 일부를 사람이 직접 작성하면 한 자릿수까지 뚝 떨어진다. AI 감지기의 탐지 원리를 역으로 이용한 꼼수인 것이다.&lt;br&gt;&lt;br&gt;클로드 등 챗GPT에 비해 사용자가 적으면서 한글 학습이 비교적 잘돼 있는 다른 생성형 AI 서비스를 이용해 AI 감지를 피하기도 한다. 대부분 AI 감지 프로그램이 챗GPT의 데이터를 학습했기 때문에 다른 AI에 대해선 탐지율이 떨어지는 것이다. AI 감지 프로그램에 잘 걸리지 않는 전문 AI 비서를 코딩하는 경우도 있다. 생성형 AI에 ‘1대1 대학 과제 전문 조교 AI앱을 만들어줘’라고 명령해 사용하는 식이다.&lt;br&gt;&lt;br&gt;교육계 관계자는 “대학, 정부에서 무단 AI 사용에 대한 명확한 가이드라인을 만들어 AI로 과제를 대체하는 것이 명백한 표절 행위라는 인식을 심어줘야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 측, 특검에 7월 3일 이후 출석 조사 재요청</title>
@@ -941,24 +986,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UBPLOQGZNFADYEUHLWQMVTXHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 29일 새벽 서울 서초구 서울고등검찰청 청사에 마련된 내란특검 사무실에서 피의자 신분으로 조사를 마친 뒤 귀가하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 30일 내란 특검에 소환기일 변경을 공식 요청했다. 특검은 앞서 윤 전 대통령을 내달 1일 피의자 신분으로 소환 조사하겠다고 통보한 바 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령 법률대리인단은 이날 오후 4시 15분 특검에 기일 변경 요청서를 제출했다며, “피의자 신문은 강제수사가 아닌 임의수사. 형사소송법 관련 법령은 피의자 및 변호인과의 협의를 통해 조사 일정을 조율하도록 규정하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;변호인단은 “출석 일정 협의는 ‘합의’가 아닌 ‘조율’의 대상”이라며 “수사기관이 일방적으로 출석을 통보했다고 해서 출석 의무가 발생하는 것이 아니며, 출석하지 않았다고 곧바로 ‘출석 불응’으로 간주할 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “특검에 7월 1일로 지정된 기일을 3일 이후로 변경 요청하고, 새로운 출석일을 정함에 있어 변호인과 사전 협의를 해줄 것을 함께 요청했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘260억대 임금·퇴직금 체불' 구영배 큐텐그룹 회장 등 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/QG2XHERPZZHBBNVXHD2FAHRSOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/QG2XHERPZZHBBNVXHD2FAHRSOA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 06:33:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSHBCSGN3QXHSA36O4HQ6WOCE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;티몬·위메프(티메프)의 판매 대금 미정산 사태의 핵심 피의자인 구영배 큐텐그룹 회장(왼쪽부터), 류광진 티몬 대표, 류화현 위메프 대표가 작년 11월 18일 서울 서초구 서울중앙지방법원에서 열린 특정경제범죄 가중처벌 등에 관한 법률 위반(사기·횡령·배임) 혐의 관련 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구영배 큐텐그룹 회장 등 티몬·위메프(티메프) 미정산 사태로 재판을 받고 있는 경영진들이 260억대 임금·퇴직금 체불 혐의로 30일 추가 기소됐다.&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사3부(부장 김태훈)는 근로자 613명의 임금 약 56억2100만원과 733명의 퇴직금 약 207억4130만원을 체불한 혐의(근로기준법·근로자퇴직급여보장법 위반)로 구 회장과 류광진 티몬 대표, 류화현 위메프 대표, 김효종 큐텐테크놀로지 대표를 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰은 앞서 서울지방고용노동청 서울강남지청이 신청한 구 회장 구속영장을 작년 12월 청구했으나 법원이 기각했다. 서울중앙지법 신영희 영장전담 부장판사는 “사건 경위, 혐의내용, 현재까지 확보된 증거자료, 수사와 심문에 임하는 태도, 주거 관계 등을 종합하면 구속 사유와 그 필요성 및 상당성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이보다 앞서 서울중앙지검 전담수사팀(팀장 이준동 반부패수사1부장)은 구 회장 등 10명을 특정경제범죄 가중처벌법상 배임·횡령·사기 혐의로 작년 12월 불구속 기소했다. &lt;br&gt;&lt;br&gt;구 회장과 류광진·류화현 대표는 상품권, 물품 등을 정상적으로 거래할 수 있는 것처럼 판매자를 속여 정산대금 1조8500억여 원을 가로챈 혐의를 받는다. 대여금이나 컨설팅 비용, 미국 전자상거래 회사 ‘위시’ 인수대금 등 명목으로 계열사 자금 1100억여 원을 가로챈 혐의도 있다. 큐텐의 물류 자회사인 큐익스프레스의 나스닥 상장을 위해 계열사 일감을 몰아줘 티몬·위메프·인터파크커머스에 727억원의 손해를 끼친 혐의도 적용됐다. 검찰은 피해자가 33만명에 달하는 것으로 파악했다.&lt;br&gt;&lt;br&gt;구 회장 등은 지난 4월 8일 서울중앙지법 형사합의24부(재판장 이영선) 심리로 열린 첫 공판에서 티메프 미정산 사태 피해자들에게 사과하면서도 범죄혐의는 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>드라마 ‘폭싹 속았수다’, 제주 해녀·사투리 매력 알렸다</title>
-      <link>https://www.chosun.com/national/regional/2025/06/30/2LULAHHG7ZFZ7JW4TW46GLWG6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/30/2LULAHHG7ZFZ7JW4TW46GLWG6A/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 05:20:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDNQAYMFLPAK3F3U4ULCTZNZC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;넷플릭스 드라마 폭싹 속았수다 포스터./넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;드라마 ‘폭싹속았수다’가 해녀와 사투리 등 제주 문화 콘텐츠를 널리 알린 것으로 분석됐다.&lt;br&gt;&lt;br&gt;제주도와 제주관광공사는 30일 넷플릭스 드라마 ‘폭싹속았수다’ 방영 이후 제주 문화 콘텐츠에 대한 관심 변화를 분석한 ‘데이터로 보는 제주여행-폭싹속았수다편’을 발간했다.&lt;br&gt;&lt;br&gt;이번 보고서는 소셜미디어와 내비게이션 데이터를 통해 드라마 콘텐츠가 지역 이미지 형성과 관광 흐름에 미친 영향을 분석했다.&lt;br&gt;&lt;br&gt;그 결과, ‘폭싹속았수다’는 기존 제주 배경 드라마와는 다른 방식으로 제주의 매력을 전달한 것으로 나타났다.&lt;br&gt;&lt;br&gt;과거 제주를 배경으로 촬영해 인기를 끌었던 ‘웰컴투삼달리’, ‘우리들의 블루스’ 등이 촬영지를 중심으로 한 여행지 소비 경향을 보인 반면 ‘폭싹속았수다’는 ‘해녀’, ‘사투리’, ‘문화’, ‘시대극’ 등 제주 고유문화와 정서를 중심으로 한 이야기 전달 방식이 두드러졌다.&lt;br&gt;&lt;br&gt;특히 ‘해녀’에 대한 관심은 드라마 공개 이후 급증했다. 언급량은 방영 직전인 1~2월 평균 5000건에서 3월 7460건으로 약 41% 증가했으며, 4월과 5월에도 각각 6791건, 7072건을 기록하며 높은 관심이 이어졌다.&lt;br&gt;&lt;br&gt;연관 키워드도 ‘음식’, ‘식당’ 중심에서 ‘엄마’, ‘삶’, ‘이야기’ 등으로 변화하는 경향을 보였다.&lt;br&gt;&lt;br&gt;제주 사투리에 대한 관심도 함께 높아졌다. 유튜브에 지난 3~4월 동안 제주 사투리 관련 콘텐츠가 총 58편 업로드됐으며, 4월 한 달간 누적 조회수는 약 220만회를 기록했다.&lt;br&gt;&lt;br&gt;드라마 주요 촬영지인 김녕해수욕장과 제주목관아에 대한 방문 및 언급량도 눈에 띄게 증가했다.&lt;br&gt;&lt;br&gt;김녕해수욕장의 차량 도착 수는 방영 전 2442대에서 방영 후 4775대로 약 96% 증가했으며, 온라인 언급량도 43% 늘었다.&lt;br&gt;&lt;br&gt;제주목관아는 차량 도착 수가 75%, 언급량은 45% 증가했다.&lt;br&gt;&lt;br&gt;제주관광공사 관계자는 “’폭싹속았수다’는 제주의 자연뿐 아니라 역사와 사람들의 삶을 진정성 있게 담아내며, 제주의 정서적 가치를 세계에 알리는 데 기여한 콘텐츠”라며 “앞으로도 제주 고유의 매력을 담은 콘텐츠가 관광과 연결될 수 있도록 글로벌 마케팅을 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>결국 李 상고심 논란·사법부 공격에 침묵한 법관회의 </title>
       <link>https://www.chosun.com/national/court_law/2025/06/30/ZHFLALNXRJEZ3CDWDNE45CTYHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/ZHFLALNXRJEZ3CDWDNE45CTYHU/</guid>
@@ -966,33 +993,6 @@
       <description/>
       <pubDate>Mon, 30 Jun 2025 04:14:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RQDD234NDOFGBSMBQBQR42KGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국법관대표회의가 30일 회의를 열고 대법원의 이재명 대통령 공직선거법 사건 유죄 판결이 사법 신뢰를 훼손했는지, 정치권의 사법부 압박이 부당한지 등에 관한 안건을 논의했지만 제대로 된 결론을 내리지 못하고 모두 부결했다.&lt;br&gt;&lt;br&gt;법조계에서는 “법관 대표들이 집권 세력의 눈치를 봐 ‘사법부 흔들기’에 제 목소리도 내지 못하는 모습”이라는 이야기가 나왔다.&lt;br&gt;&lt;br&gt;법관대표회의는 이날 오전 전체 법관대표 126명 중 90명이 참석해 대법원 전원합의체의 이 대통령 판결 및 정치의 사법화 문제 등에 관한 안건 5개에 대해 투표했지만 모두 부결됐다고 밝혔다. 법관대표회의 측은 “5개 안건에 대해 치열하게 논의했지만 법관 대표들 간에 의견이 갈리면서 어느 안건도 의결 요건을 충족하지 못했다”고 밝혔다. &lt;br&gt;&lt;br&gt;법관대표회의에 따르면, 일부 법관 대표들은 “이 대통령에 대한 대법원 판결로 사법 신뢰가 훼손돼 의견 표명이 필요하다”고 주장했지만, “정치권의 재판 독립 침해 우려에 관한 의견 표명이 필요하다”는 대표들도 있었다고 한다. 또 “진행 중인 판결과 절차 진행의 당부에 관한 견해 표명으로 여겨질 수 있는 것은 자제해야 한다”는 주장도 나왔다. 법관 대표들 간에 의견이 엇갈리면서 일치된 결론 없이 회의는 2시간 만에 종료됐다.&lt;br&gt;&lt;br&gt;구체적으로 ‘법관에 대한 특검, 탄핵, 청문 절차 등을 진행하는 것은 사법권 독립을 심각하게 침해하는 것으로 재발 방지를 천명한다‘는 안건에 대해 법관 대표 16명이 찬성했고 67명이 반대했다. 지난달 대법원의 이 대통령 유죄 판결 이후 민주당은 대법원장 탄핵과 특검, 청문회 등을 추진하면서 사법부 공격에 나섰는데 이에 대해 사실상 침묵한 것이다.&lt;br&gt;&lt;br&gt;법조계 한 인사는 “재판 독립을 지켜온 법관대표회의가 제 역할을 못한 것”이라며 “판사들이 정권의 눈치를 보며 제 발로 드러누운 것 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;‘대법원 판결이 법원의 정치적 중립성과 재판의 절차적 정당성에 대한 의심을 불러일으켜 사법 신뢰에 부정적 영향을 미친 것에 대해 엄중히 인식한다’ 등 내용의 안건은 법관 대표 29명 찬성, 56명 반대로 부결됐다. 일부 판사들이 이 대통령 대법원 재판과 판결이 잘못됐다며 낸 안건이지만 다수 대표들이 부동의한 것이다.&lt;br&gt;&lt;br&gt;앞서 법관대표회의는 6·3 대선을 앞둔 지난달 26일 후보였던 이 대통령에 대한 대법원 재판과 유죄 판결에 대해 논의하겠다며 회의를 열었지만 대선에 미칠 정치적 영향 등을 우려해 별다른 결론 없이 미룬 뒤 이날 회의를 열었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 계엄 국무회의록 초안 작성 의혹 강의구 소환 조사</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/30/LOPOYDJLIZCFBGANZP3NQKSKUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/LOPOYDJLIZCFBGANZP3NQKSKUI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 01:58:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGBEZNJDEBICTOQTRMHBTREDJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 서울 서초구 서울고등검찰청의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석(60‧사법연수원 19기) 특별검사가 이끄는 내란 특검팀이 30일 강의구 전 대통령실 부속실장을 소환해 조사 중이다. 특검은 이날 오전부터 변호인 입회하에 강 전 실장을 조사하고 있다.&lt;br&gt;&lt;br&gt;강 전 실장은 지난해 12월 3일 윤석열 전 대통령이 비상계엄을 선포하기 직전 열린 국무회의의 회의록 초안을 작성했다는 의혹을 받고 있다. 당시 회의는 실제로는 5분 만에 끝났지만, 초안에는 약 40분간 진행된 것으로 작성됐다가 이후 수정된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 검찰 특별수사본부는 대통령실 및 행정안전부 관계자 조사 과정에서 ‘강 전 실장이 국무회의 안건명과 제안 이유 등을 작성해 행안부로 회신했다’는 진술을 확보한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>휴직 수당 올렸더니… ‘공무원 아빠’ 육아휴직, 첫 50% 찍었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/30/22VLEJEISJCLZAKEB6RKLCPVIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/22VLEJEISJCLZAKEB6RKLCPVIA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 02:52:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTG3O5BTTBFI5J7ARLKDWE7SOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 육아휴직을 사용한 국가공무원 중 절반은 남성으로 나타났다. 실·국장급(1~2급) 고위공무원 중 여성은 지난해 200명대를 기록했다. 모두 사상 처음이다. &lt;br&gt;&lt;br&gt;30일 인사혁신처의 ‘2024년 국가공무원 인사통계’에 따르면 지난해 육아휴직을 쓴 중앙부처 국가공무원은 1만4601명이었다. 이 중 남성 육아휴직자는 7298명(50.0%)이었다. 남성 육아휴직자 비율이 50%대를 달성한 것은 이번이 처음이다. 2021년(41.5%) 40%를 돌파한 지 3년 만이다. &lt;br&gt;&lt;br&gt;국가공무원 남성 육아휴직자 비율은 꾸준히 늘어나는 추세다. 2015년 15.9%에서 2017년 22.5%, 2019년 33.9%, 2021년 41.5%, 2022년 46.0%까지 증가했다. 다만 2023년 45.2%로 소폭 감소했는데, 지난해 다시 큰 폭으로 증가했다. &lt;br&gt;&lt;br&gt;국가 공무원 남성 육아휴직자 증가는 전반적인 사회적 인식의 변화와 함께 육아휴직수당 인상, 휴직 기간 경력 인정 등 돌봄 여건을 개선하기 위한 정책들이 안정적으로 정착된 결과로 풀이된다. &lt;br&gt;&lt;br&gt;남성 국가공무원은 만 8세 이하 또는 초등학교 2학년 이하 자녀를 양육하기 위해 3년 이내로 육아휴직을 쓸 수 있다. 기존 남성 육아휴직 기간은 자녀당 1년이었지만 2015년 3년으로 확대했다. &lt;br&gt;&lt;br&gt;올해부터는 육아휴직 모든 기간이 승진을 위한 근무 경력으로 인정되고 있다. 기존에는 첫째 자녀의 육아휴직은 최대 1년까지만 경력으로 인정되고, 둘째 이후부터는 휴직 기간 전체(최대 3년)가 경력으로 인정됐었다. &lt;br&gt;&lt;br&gt;또한, 경제적인 이유로 육아휴직 사용에 어려움이 없도록 육아휴직수당(1년 유급‧나머지 2년은 무급)도 꾸준히 개선해 왔다. &lt;br&gt;&lt;br&gt;지난해부터는 자녀 1명에 대해 공무원 부부가 차례로 돌아가며 육아휴직을 사용할 경우, 나중에 휴직하는 사람은 6개월간 급여 한도 내에서 최대 월 450만원의 육아휴직수당을 받는다. 기존에는 월 급여 한도 내에서 3개월간 최대 월 250만원을 받았으나 금액을 인상한 것이다. 기본 육아휴직수당 지급액은 올해부터 월 최대 150만원에서 250만원까지 상향됐다. &lt;br&gt;&lt;br&gt;여성 국가공무원 비율도 꾸준히 증가하는 추세다. 지난해 말 기준 국가공무원은 총 76만3464명으로, 이 중 여성은 37만2419명(48.8%)이었다. 특히 1~2급 상당의 여성 고위 공무원이 200명을 돌파했다. 지난해 중앙 부처 고위 공무원단은 1554명으로, 이 중 여성은 201명(12.9%)이었다. 2006년 고위 공무원단 제도 도입 이래 최고치다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이진수 법무부차관 취임... “검찰 개혁 공감대 형성하도록 최대한 노력할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/YJEQZ22EGRC33JYPCV5OXSUM7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/YJEQZ22EGRC33JYPCV5OXSUM7M/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 02:48:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URMUGEZO5ZMURDTMXAGSUC6ZOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진수 신임 법무부 차관이 30일 정부과천청사 법무부 대회의실에서 열린 자신의 취임식에서 국기에 경례하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진수 신임 법무부 차관이 30일 취임했다. 이 차관은 취임사에서 “새 정부에서 추진하는 검찰 개혁 과제에 대해 국민과 언론, 검찰 내부에 공감대를 형성하도록 최대한 노력하겠다”고 포부를 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 이날 오전 11시 정부과천청사 법무부 대회의실에서 이 차관의 취임식을 개최했다. 이 차관은 취임식에서 “법무심의관으로 근무한 지 7년여가 지났는데, 차관으로 다시 근무하게 돼 감회가 새롭다”며 “막중한 소임을 맡게 되어 큰 영광과 함께 무거운 책임감을 느낀다”며 말문을 열었다.&lt;br&gt;&lt;br&gt;이 차관은 “아직 장관님께서 취임하지 않은 상황에서 법무행정의 지표에 대해 구체적으로 말씀드리는 것은 적절하지 않은 것 같다”면서도 “법무부 업무의 방향과 구체적 역할을 고민해야 하는 시점임을 고려해 몇 가지 사항을 말씀드리고자 한다”고 했다.&lt;br&gt;&lt;br&gt;이 차관은 “먼저 우리 모두는 국민의 안전과 더 나은 삶을 위한 법무행정을 펼쳐 나가야 한다”고 설명했다. 이어 “강력범죄와 성폭력·스토킹 범죄, 마약 범죄, 사기 등으로 우리 이웃의 일상은 여전히 위협받고 있다. 평온한 삶을 지켜야 한다는 책임 의식을 가져야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 이 차관은 검찰 개혁에 대해서도 언급했다. 이 차관은 “그동안 수사권 남용이나 편파수사 논란이 지속적으로 제기되는 등 국민 기대에 미치지 못하는 과오도 있었음을 겸허한 자세로 성찰해야 한다”며 “검찰 개혁이 성공적으로 이루어지도록 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 김석우 법무부 전 차관은 이날 별도의 이임식 없이 차관직에서 물러났다. 신임 법무부 장관 후보자로 지명된 정성호 더불어민주당 의원도 같은 날 법무부의 현안 보고를 받는 등 청문회 준비를 시작했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
