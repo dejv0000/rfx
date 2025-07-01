@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>로또 당첨되고도 고독사 한 남성…자녀는 “서류로만 아버지”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/02/VIHOVYFDE5E27BHPVYUGUIO6YA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/02/VIHOVYFDE5E27BHPVYUGUIO6YA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 22:07:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3U6YMIVFJBS7LVTDUWVWLXW2M.png"&gt;&lt;figcaption&gt;&lt;small&gt;유품정리사 김새별 대표. /유튜브 '엄튜브'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;로또 복권 2등에 당첨되고도 1년도 안 돼 고독사한 남성의 사연이 전해졌다. &lt;br&gt;&lt;br&gt;1일 엄성섭 앵커가 진행하는 유튜브 채널 ‘엄튜브’에 출연한 유품정리사 김새별 대표는 ‘불행한 죽음’에 관한 이야기를 하면서 “작년에 로또 당첨됐던 고인 분을 만나고 깜짝 놀랐었다”고 입을 열었다. &lt;br&gt;&lt;br&gt;김 대표는 “(유품 중에) 농협에서 발급된 돈을 찾아갔다는 증서가 있었다”며 “웬 돈을 이렇게 많이 받아왔나 하고 봤더니 ‘당첨금’이라고 적혀 있었다”고 했다. 고인이 된 남성은 로또 2등에 당첨되어 6500만원을 전액 현금으로 받아왔다고 한다. 김 대표는 “은행에서 지폐 100만원을 묶을 때 쓰는 띠지가 있지 않나. 그 띠지가 그렇게 길게 나오는지 몰랐다”며 “돈을 이렇게 많이도 묶는구나 싶었다”고 했다. &lt;br&gt;&lt;br&gt;김 대표는 한편으로 “로또에 당첨됐음에도 고인이 왜 이렇게 구질구질하고 힘든 인생을 살아 왔을까 싶었다”고 했다. 이어 “결국 그분이 할 수 있었던 건 그 당첨금으로 또 다른 로또를 매주 200만원어치씩 사고, 경마를 하고, 스포츠 토토를 하고. 그런 곳에 돈을 다 써버렸다”고 했다. &lt;br&gt;&lt;br&gt;고인의 자녀에게 연락했지만, 시신 인도마저 거부했다고 한다. 김 대표는 “자제분이 아버지가 돌아가셨다는 이야기를 듣고 ‘우리 아버지 아니다. 생물학적 아버지지만 나는 아버지에게 아무런 도움을 받은 적 없고, 아버지가 우리를 키워준 적도 없다. 다 어머니가 돈 벌어서 우리를 키웠다. 서류로만 아버지로 등록되어 있는 것이니 아무것도 못 한다’고 하더라”고 전했다. &lt;br&gt;&lt;br&gt;김 대표는 “당첨금이 생겼을 때 자식들 먹고살게 조금이라도 도움을 줬다면 그 남성이 그렇게까지 힘들게 죽음을 맞이하지는 않았을 것”이라며 “로또에 당첨됐다고 해서 그분이 과연 행복한 삶을 살았을까, 행복한 죽음을 맞이했을까 싶다”고 씁쓸해했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>AI 정부라면서… 5300억 들인 AI 교과서, 1년 만에 퇴출</title>
       <link>https://www.chosun.com/national/education/2025/07/02/TLU2DT5WWNCOZNXDFP5JSZTM3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/02/TLU2DT5WWNCOZNXDFP5JSZTM3U/</guid>
@@ -771,15 +780,6 @@
       <description/>
       <pubDate>Sat, 28 Jun 2025 14:47:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56HGZQI3XROJ7FBXSS7IDON6XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장마가 시작되며 서울과 인천, 경기 등 수도권에 러브버그(붉은등우단털파리)가 기승을 부리고 있는 가운데 27일 인천 서구 신검단중앙역에서 열린 인천도시철도 1호선 검단연장선 개통기념식장에서 한 시민이 몸에 붙은 러브버그를 떼어내고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6월 이른 여름 더위가 찾아오면서 일명 러브버그라 불리는 붉은등우단털파리의 활동이 크게 늘어 시민들의 불편이 이어지고 있다.&lt;br&gt;&lt;br&gt;28일 서울시에 따르면, 지난해 서울시에 접수된 러브버그 관련 민원은 9296건으로 1년 전 4418건 대비 두 배 가까이 증가했다. 이는 같은 유행성 생활 불쾌 곤충으로 분류되는 동양하루살이 민원(240건)의 약 38배에 달하는 수치다. 원래 중국 동남부나 일본 오키나와에 주로 서식하던 러브버그는 2022년부터 우리나라 수도권을 중심으로 대량 발견되고 있다. 성충 수컷은 3~4일, 암컷은 일주일 정도 생존한다. 암컷은 한 번에 200~300개의 알을 낳지만 생존율이 높지 않아, 대규모로 나타난 뒤 2주가량 지나면 개체 수가 급격히 감소하는 경향을 보인다.&lt;br&gt;&lt;br&gt;러브버그는 보통 6월 말부터 7월 초·중순에 많이 발생하는 계절성 곤충이다. 올해는 이례적인 고온과 장마의 영향으로 예년보다 이른 6월 중순부터 출몰하고 있다. 러브버그는 질병을 옮기지 않고 토양을 비옥하게 만드는 익충이다. 하지만 암수가 꼬리를 맞대고 이동하는 모습이 혐오감을 주는 등 시민들의 불편을 초래하고 있다. 각종 온라인 커뮤니티에는 “방충망에 잔뜩 붙어 있다” “고층 아파트까지 올라오고 외벽에 수십 마리가 붙어 있어서 기절할 뻔했다” “외출하면 벌레가 팔다리뿐만 아니라 얼굴에도 달라붙어 깜짝 놀란다”는 등의 민원이 이어지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBQOP7QUREF4YLKPO33IXUXZCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도심에 출몰한 일명 '러브버그' 붉은등우단털파리의 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;각 지자체는 현재 살수 등 친환경적인 방식의 방제 활동을 실시하고 있다. 무분별한 살충제 사용은 생태계에 악영향을 줄 수 있어 화학적 방역을 지양하고 있다. 서울시는 러브버그가 대량 발생할 것으로 예상되는 이달 말부터 은평구 백련산 일대에 광원·유인제 포집기를 운영한다. 영동대교 한강 수면 위에는 부유식 트랩을 운영하고 있다. &lt;br&gt;&lt;br&gt;전문가들은 러브버그는 밝은 색을 선호해 장기간 야외 활동 시 어두운색 옷을 입으면 러브버그를 피하는 데 도움이 된다고 조언했다. 러브버그는 날개가 약해 물을 싫어하는 특성이 있어 벽이나 방충망에 붙어 있을 때는 물을 뿌려 떼낼 수 있다. 보건소 관계자는 “러브버그는 발생 후 대략 2주 이내 자연 소멸하는 특성이 있다”며 “과도한 살충제 사용보다는 친환경적이고 실천 가능한 방법으로 대응하는 것이 바람직하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 피의자 조사 끝난 뒤 3시간 조서 열람 </title>
-      <link>https://www.chosun.com/national/court_law/2025/06/28/ZMZUGLI5LBCC3I7MRAVTIGU7DE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/28/ZMZUGLI5LBCC3I7MRAVTIGU7DE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 28 Jun 2025 13:02:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMVH3MTC7XBJ336BZ556GQCABM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란특검 사무실로 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 첫 특검 소환 조사가 마무리 수순에 접어들었다. 28일 오후 9시 50분부터 신문 절차를 종료하고, 조서 열람에 들어갔다.&lt;br&gt;&lt;br&gt;내란 특검 측은 언론 공지를 통해 조서 열람 사실을 밝혔다. 조서 열람은 조사자와 피의자 사이 문답을 마치고, 조사 과정에서 오고 간 문답이 조서에 이상 없이 기재됐는지 확인하는 절차다. 조사 양이 많을수록 시간도 더 많이 걸린다. 이재명 대통령은 국회의원 시절이던 2023년 8월 서울중앙지검에서 ‘백현동 개발 비리’ 의혹 관련 조사를 받았을 때 오전 10시 30분부터 오후 9시까지 10시간 30분 동안 조사를 받았고, 조서 열람에는 3시간가량을 썼다.&lt;br&gt;&lt;br&gt;다만 윤 전 대통령의 경우 이날 오전 있었던 ‘체포영장 집행 방해 지시’ 혐의 관련 조서에 이미 서명을 하지 않았고, 오후 1시 30분부터 4시 45분쯤까지 3시간 15분 동안은 조사를 거부해 실제 조사 시간은 이보다 적다. 특검에 따르면 윤 전 대통령은 오후 4시 45분부터 7시 25분까지 2시간 40분 조사를 받았고, 저녁 식사 이후엔 오후 8시 25분부터 9시 50분까지 1시간 25분 조사를 받았다. 청사에 머무른 시간은 15시간가량인데, 실질적으로 조사가 이뤄진 것은 오전 조사 1시간을 더해도 5시간 5분에 그치는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 조서 열람에 3시간가량을 썼다. 29일 오전 12시 40분쯤 조서에 서명했고, 2차 소환 일정을 특검 측과 조율 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 특검팀은 윤 전 대통령 조사가 파행을 겪는 등 조사가 충분하지 않았던 만큼 추가 소환이 불가피하다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>﻿인천 공원에 등장한 대형 거북…알고보니 국내 최상위 포식자</title>
