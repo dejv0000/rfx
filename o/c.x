@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>새벽 주차장서 여성 성폭행… ‘나는 솔로’ 남성 출연자, 구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/7EW6OXUYZJFZFIMU5HE5VL72VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/7EW6OXUYZJFZFIMU5HE5VL72VE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 05:11:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCQVC4R2NFAQXJ3JMTRE6CWX4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’를 통해 얼굴을 알린 남성 출연자가 성폭행 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 30대 남성 A씨를 준강간 혐의로 지난달 26일 구속 송치했다고 1일 밝혔다. 준강간 혐의는 심신미약이나 항거불능 상태를 이용한 간음죄를 의미한다.&lt;br&gt;&lt;br&gt;A씨는 지난달 21일 오전 3시 30분쯤 서울 마포구 서교동 한 주차장에서 20대 여성을 성폭행한 혐의를 받는다. 경찰은 A씨를 긴급 체포했으며 같은 달 23일 법원으로부터 구속영장을 발부받았다.&lt;br&gt;&lt;br&gt;A씨는 SBS플러스와 ENA에서 방영하는 ‘나는 솔로’ ‘나는 솔로, 그 후 사랑은 계속된다’에 연달아 출연해 왔다. 사건 직후 ‘나는 솔로’ 제작진은 “A씨의 범죄 혐의 관련, 법원의 구속영장 발부에 관한 내용을 뉴스 보도를 통해 알게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “사안의 중대성을 인식해 시청자들에게 불편함이 없도록 조치해 방송할 예정”이라며 “이미 방송한 분도 최대한 출연자를 편집·삭제하겠다”고 했다. 이후 26일 방영분에서는 A씨의 출연분이 통편집됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오영훈 제주지사 “관광객에 비용 부과하는 환경보전분담금 재검토”</title>
+      <link>https://www.chosun.com/national/regional/2025/07/01/3PQIVDQFWFD5NIN6DPULZKJNUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/01/3PQIVDQFWFD5NIN6DPULZKJNUU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 04:02:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLLQVCC7FFJE6M5TWEWJ6PMAPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오영훈 제주도지사 취임 3주년 기자회견에서 회견문을 읽고 있다./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주를 찾는 관광객에게 부과하려던 ‘환경보전분담금’ 추진이 중단된다.&lt;br&gt;&lt;br&gt;오영훈 제주도지사는 1일 제주도청에서 열린 취임 3주년 기자간담회에서 환경보전분담금 공약 이행 여부에 대한 질문에 “공약이라고 하더라도 지역경제에 악영향을 미친다면 검토가 필요하다”고 밝혔다. 오 지사는 “도민 삶에 부정적 영향을 미치는 게 확실시된다면 그 정책을 시행하는 것은 적절치 않다”며 “좀 더 숙고하겠다”고 했다.&lt;br&gt;&lt;br&gt;환경보전분담금은 원인자 부담 원칙에 따라 관광객에게 제주 자연환경을 보전하기 위한 비용 일부를 부담시키는 제도다. 제주의 자연환경과 생태계 보전, 관광산업의 지속 가능한 발전을 위해 제주도 조례로 정하는 숙박시설이나 차량(렌터카 등)을 이용하는 관광객 등에게 일정 금액을 부과하겠다는 것이다.&lt;br&gt;&lt;br&gt;‘환경보전분담금’은 그동안 여러차례 논의돼 왔지만 ‘입도세’라는 비난과 관광업계 우려 등 여러 문제에 맞닥뜨려 도입하지 못했다. 이 분담금을 처음 검토했던 시기 제주 관광객은 연간 1500만명에 달할 만큼 호황이었으나 현재는 1300만명 이하로 줄면서 제도 도입이 관광산업에 악영향을 끼칠 것이라는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;오영훈 제주지사도 지난 지방선거에서 환경보전분담금 도입을 공약으로 내걸었다. 하지만 당선 이후 관광업계 등에서 “관광객이 감소하는 흐름과 맞지 않는다”, “경기 둔화 속 타격이 우려된다”는 반발 목소리가 나오면서 오 지사도 지역경제에 미칠 영향 등을 우려하며 유보적인 입장을 보여왔다.&lt;br&gt;&lt;br&gt;오 지사는 취임 후 잘한 점에 대해 “제주 청년들이 좋은 일자리를 갖게 되는 게 가장 기분이 좋다”며 “도내 우주산업 관련 기관·기업 종사자 62%가 제주도민이며, 10월에 한화우주센터가 준공돼 협력업체들이 입주하게 되면 본격적으로 우주산업 인력이 양성·채용될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;아쉬운 점은 민생경제 부분을 꼽으며 “자영업자와 소상공인 활로 모색에 부족한 측면이 있는데, 앞으로 구체적인 대책을 마련해보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;오 지사는 “제주가 추진해 온 정책들은 새 정부 정책 기조와 맞닿아있을 뿐 아니라 글로벌 스탠더드를 만들어가고 있다”며 “남은 1년간 그동안의 성과를 더욱 확대하고 가시화하겠다”고 했다.제주를 찾는 관광객에게 부과하려던 ‘환경보전분담금’ 추진이 중단된다.&lt;br&gt;&lt;br&gt;오영훈 제주도지사는 1일 제주도청에서 열린 취임 3주년 기자간담회에서 환경보전분담금 공약 이행 여부에 대한 질문에 “공약이라고 하더라도 지역경제에 악영향을 미친다면 검토가 필요하다”고 밝혔다. 오 지사는 “도민 삶에 부정적 영향을 미치는 게 확실시된다면 그 정책을 시행하는 것은 적절치 않다”며 “좀 더 숙고하겠다”고 했다.&lt;br&gt;&lt;br&gt;환경보전분담금은 원인자 부담 원칙에 따라 관광객에게 제주 자연환경을 보전하기 위한 비용 일부를 부담시키는 제도다. 제주의 자연환경과 생태계 보전, 관광산업의 지속 가능한 발전을 위해 제주도 조례로 정하는 숙박시설이나 차량(렌터카 등)을 이용하는 관광객 등에게 일정 금액을 부과하겠다는 것이다.&lt;br&gt;&lt;br&gt;‘환경보전분담금’은 그동안 여러차례 논의돼 왔지만 ‘입도세’라는 비난과 관광업계 우려 등 여러 문제에 맞닥뜨려 도입하지 못했다. 이 분담금을 처음 검토했던 시기 제주 관광객은 연간 1500만명에 달할 만큼 호황이었으나 현재는 1300만명 이하로 줄면서 제도 도입이 관광산업에 악영향을 끼칠 것이라는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;오영훈 제주지사도 지난 지방선거에서 환경보전분담금 도입을 공약으로 내걸었다. 하지만 당선 이후 관광업계 등에서 “관광객이 감소하는 흐름과 맞지 않는다”, “경기 둔화 속 타격이 우려된다”는 반발 목소리가 나오면서 오 지사도 지역경제에 미칠 영향 등을 우려하며 유보적인 입장을 보여왔다.&lt;br&gt;&lt;br&gt;오 지사는 취임 후 잘한 점에 대해 “제주 청년들이 좋은 일자리를 갖게 되는 게 가장 기분이 좋다”며 “도내 우주산업 관련 기관·기업 종사자 62%가 제주도민이며, 10월에 한화우주센터가 준공돼 협력업체들이 입주하게 되면 본격적으로 우주산업 인력이 양성·채용될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;아쉬운 점은 민생경제 부분을 꼽으며 “자영업자와 소상공인 활로 모색에 부족한 측면이 있는데, 앞으로 구체적인 대책을 마련해보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;오 지사는 “제주가 추진해 온 정책들은 새 정부 정책 기조와 맞닿아있을 뿐 아니라 글로벌 스탠더드를 만들어가고 있다”며 “남은 1년간 그동안의 성과를 더욱 확대하고 가시화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘월세살이 16년’ 아나운서의 토로... “올해 50만원 올랐다” </title>
       <link>https://www.chosun.com/national/national_general/2025/07/01/D4YFZYPKARDONFUQJHE7UWZO5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/D4YFZYPKARDONFUQJHE7UWZO5Y/</guid>
@@ -822,15 +840,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHRJZR6GXVFV3P4JQXDDAHQTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 28일 서울 서초구 서울고검 청사에 내란 특검 대면조사를 받기 위해 출석하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 “윤석열 전 대통령이 오후 1시 30분부터 조사에 불응하고 있다”고 28일 밝혔다. 윤 전 대통령을 수사 개시 열흘 만에 소환했지만, 실질적으로 조사가 이뤄진 것은 한 시간가량에 불과하다고 한다. 윤 전 대통령의 첫 특검 소환 조사부터 파행된 것이다.&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 오후 3시 15분 브리핑을 열고 “오전 조사가 잘 진행됐고, 점심 식사 이후 조사를 재개하려 했으나 윤 전 대통령 측이 조사자 교체를 요구하며 조사실에 들어오지 않고 있다”고 밝혔다. 그러면서 “조사실에 입실하지 않은 것은 출석을 거부하는 것과 같다”며 “법정에서 피고인이 피고인석이 아니라 방청석에 앉아 있는 것과 똑같은 상황이다. 이 경우 판사가 피고인이 출석했다고 인정할 수 있겠느냐”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 오전 조사에는 특검팀의 박창환 경찰청 중대범죄수사과장(총경)이 들어가 체포영장 집행 저지 지시 의혹에 대해 물었는데, 윤 전 대통령의 법률대리인단은 “박 총경은 불법 체포를 지휘한 사람으로 고발돼 있다”며 문제를 제기했다. 박 특검보는 “당시 체포영장 집행의 주체는 고위공직자범죄수사처”라며 “박 총경은 무관하다”고 밝혔다. 이러한 해명을 윤 전 대통령 측에도 전달했다는 것이 특검 입장이다.&lt;br&gt;&lt;br&gt;박 특검보는 “수사하는 검사나 사법경찰관을 상대로 고소·고발이 빈번한 현실에서 피고발됐다는 사정만으로 업무에서 배제할 수는 없다”며 “사실상 형사 사법 절차를 마비시키는 것”이라고 했다. 이어 “전직 대통령이라고 해서 경찰 수사를 받지 않으리라는 법은 없다”며 “경찰 제도 자체를 인정하지 않는 것과 마찬가지”라고 했다. 이어 “허위 사실로 수사 진행을 방해하는 것에 대해서는 단호하게 대처하겠다”고 했다. 허위 사실을 유포해 수사를 방해한 것이 있는지 따져보고 수사를 개시할 수도 있다는 것이다. 다만 박 특검보는 “특정 변호인을 대상으로 수사 착수를 검토하는 단계는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QO4QGPZCERK5HAXFGZSGGKA6UI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 용산 대통령실 압수수색을 시도한 4월 16일 경찰 중대범죄수사과장 박창환 총경이 서울 용산 대통령실 민원실 앞에서 압수수색 관련 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 이날 오전 10시 14분 조사를 개시했고, 1시간가량 진행됐다고 밝혔다. 체포영장 집행 방해 의혹에 대한 조사를 하던 상황에서 조사가 중단된 셈이다. 이때 윤 전 대통령 측은 진술거부권을 행사하지 않고, 박 총경이 묻는 질문에 답했다는 게 특검 측 설명이다. 박 특검보는 “수사받는 사람이 수사하는 사람을 선택하는 경우가 있느냐”며 “수사하는 사람을 선택할 수 있는 사람은 우리나라 어디에도 없다”고 했다. 그러면서 “여전히 조사를 받자고 설득하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;조사실 문턱 대치 상황이 장기화될 경우 특검팀은 ‘출석 불응’으로 간주하고 후속 조치를 검토하겠다는 입장이다. 다만 ‘체포영장 청구를 검토하는 것이냐’는 기자 질문엔 “형사소송법에 따른 조치를 검토할 것”이라며 “체포영장 청구를 단정 짓긴 어렵다”고 했다. 이어 “특검팀은 조사가 진행 중인 사안에 대해서는 해당 조사자가 마무리를 짓는다는 게 저희 입장”이라고도 했다. 윤 전 대통령 측이 요구하는 조사자 교체를 받아들일 수 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, “박창환 총경, 尹 불법 체포 지휘, 사실 아냐” 尹 측 주장에 반박</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/28/PODRCVO35FEZJIPRYVVEMX2BLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/28/PODRCVO35FEZJIPRYVVEMX2BLE/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 28 Jun 2025 06:17:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXZRTVPO3JDU5NHJ3ED5AOZOY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란과 외환 등 각종 의혹의 정점에 있는 윤석열 전 대통령에 대한 첫 특검 대면조사가 28일 오전 서울 고등검찰청에 마련된 특검에서 열렸다. 윤 전 대통령이 특검에 출석하기위해 차량에서 하차하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 28일 내란 특검 조사에 출석한 가운데, 윤 전 대통령 측은 이날 조사를 맡은 박창환 경찰청 중대범죄수사과장(총경)에 대해 “공무집행을 가장한 불법행위 등으로 고발된 경찰”이라고 주장했다. 이에 경찰은 “사실이 아니다”라고 반박했다.&lt;br&gt;&lt;br&gt;경찰청은 이날 “박창환 총경이 불법 체포를 지휘한 사람이라는 윤석열 전 대통령의 변호인단 측의 주장은 사실이 아니다”라고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이어 경찰 관계자는 “박 총경은 윤 전 대통령에 대한 1차 체포영장 집행 시 현장에 가지 않았다”며 “2차 체포영장 집행 시에는 김성훈 전 경호처 차장과 이광우 전 경호본부장에 대한 체포영장 집행을 위해 현장에 갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 총경은 내란 사건 관련 경찰 특별수사단장으로서, 윤석열 전 대통령의 체포영장 저지·비화폰 삭제 등 주요 혐의에 대한 경찰 수사를 직접 지휘해왔다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오전 체포영장 집행 저지 지시 혐의 관련 조사를 진행했다. 체포영장 집행을 방해하라고 지시한 혐의 등에 대한 조사는 경찰 비상계엄 특별수사단에서 해당 사건을 지휘했던 박 총경이 맡았고 이장필·최상진 경감이 배석했다.&lt;br&gt;&lt;br&gt;이에 윤 전 대통령의 법률대리인단은 이날 입장을 내고 “공무집행을 가장한 불법행위로 특수공무집행방해, 특수건조물침입, 군사기지및군사시설보호법위반 혐의로 고발된 경찰이 직접 조사를 하는 것이 특검식 수사이느냐”고 했다. &lt;br&gt;&lt;br&gt;이어 대리인단은 “조사에 입회한 변호인들은 검사가 직접 신문할 것, 고발된 경찰은 이해충돌에 해당돼 공정성이 결여된 것으로 수사에 배제할 것을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 대리인단은 체포영장 집행 저지 지시 혐의를 수사한 박 총경을 비롯한 관련 경찰들을 서울중앙지검에 고발했다. 박 총경이 이날 조사에 입회하자 이를 가리켜 비판한 것이다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 이날 오전 9시 54분쯤 서울 서초구 서울고등검찰청에 마련된 특검에 출석했으며 윤 전 대통령의 오전 조사는 2시간 30분가량 진행됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>드라마 ‘폭싹 속았수다’, 제주 해녀·사투리 매력 알렸다</title>
       <link>https://www.chosun.com/national/regional/2025/06/30/2LULAHHG7ZFZ7JW4TW46GLWG6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/30/2LULAHHG7ZFZ7JW4TW46GLWG6A/</guid>
@@ -983,15 +992,6 @@
       <description/>
       <pubDate>Sun, 29 Jun 2025 14:35:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EU2DKKWKVBDNHKN7AJYVJAQHEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갓 조리한 음식을 빨리 식히고 싶을 땐 남는 아이스팩을 활용해보자. 아이스팩 위에 행주를 한 장 깔고 냄비나 그릇을 올려두면 내용물이 금세 차가워진다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 6월 30일</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/29/TQBVNWETGJEN5IQ7R6KMWXKKHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/TQBVNWETGJEN5IQ7R6KMWXKKHI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Jun 2025 14:34:00 +0000</pubDate>
-      <content:encoded>전국 무더운 가운데 곳곳에 소나기&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LO2BEDWNNHSNBVCQUNYHIWHWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
