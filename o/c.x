@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검 “尹 출석시간 조정 불가... 5일 오전 9시 출석 재통지"</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/01/CX3DPO2QIJGRLNARWPK7JNV4LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/CX3DPO2QIJGRLNARWPK7JNV4LQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 10:20:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH7XCCRYRHM2VHLPRVR2KVQKEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 28일 오전 대면 조사를 받기 위해 서울 서초구 서울고검에 마련된 내란 특검 사무실로 출석하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 내란 특별검사팀에 오는 5일 오전 9시로 예정된 출석 시각을 늦춰달라고 요청했지만, 특검이 이를 받아들이지 않기로 했다.&lt;br&gt;&lt;br&gt;내란 특검팀은 1일 “윤 전 대통령의 출석 시간 조정 요청을 수용하지 않기로 했다”며 “조사 경과와 조사량이 많은 점 등을 고려해 7월 5일 오전 9시경 출석을 재차 통지했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 이날 오전 9시를 2차 조사 시각으로 통보했으나, 윤 전 대통령이 응하지 않자 5일 출석하라고 재통보했다. 윤 전 대통령이 다시 불응할 경우, 특검은 체포영장 발부 등 강제수사 조치를 검토하겠다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산·대구·전주·강릉 등 59곳... 가장 뜨거웠던 ‘6월 마지막 날’</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/01/Q7OPM5EWIJGLDHMUTHTXY553VY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/01/Q7OPM5EWIJGLDHMUTHTXY553VY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 13:30:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKPTOP4IU5JIBFZW5P7WTX3OUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더운 날씨 이어지면서 전국 대부분 지역에 폭염특보가 발효된 1일 서울광장에서 한 시민이 쿨링포그 앞에서 부채질을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름도 폭염이 기승을 부리고 있다. 지난 30일 전국에서 6월 일평균 기온 신기록이 쏟아졌다. 한여름 무더위를 야기하는 북태평양고기압이 빠르게 세력을 넓히면서, 장마철인데도 비 소식 대신 ‘극한 폭염’이 우리나라를 달구고 있는 것이다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 폭염과 열대야 여파로 전국 기후 관측 기점 97곳 중 59곳(60.8%)에서 6월 일평균기온 신기록이 새롭게 쓰였다. 고기압 영향권에 머물면서 강한 일사가 낮 공기를 데웠고, 고온 다습한 남서풍이 밤사이 대거 들어오며 밤공기가 식지 못했기 때문이다.&lt;br&gt;&lt;br&gt;특히 남부 지방에선 종일 무더위가 심했다. 지난 30일 부산에선 일평균기온이 26.2도를 기록해 부산에서 근대 기상관측을 시작한 1904년 이후 역대 가장 더운 6월 하루를 보냈다. 전날인 29일 25.9도를 기록하며 종전 기록(2024년 6월 15일·25.8도)을 경신한 지 하루 만에 더 더운 날을 보낸 것이다. 대구도 이날 일평균기온이 30.7도로 집계돼 2005년 세웠던 종전 기록(30.1도)을 20년 만에 갈아치웠다. 대구에서 관측을 시작한 1907년 이후 가장 더운 하루였다. 영남권 문경(28.1도)·포항(31.6도), 호남권 전주(31.9도)·광주(29도)·여수(26.5도) 등도 이날 6월 일평균기온 신기록을 썼다.&lt;br&gt;&lt;br&gt;강원 강릉에서도 이날 일평균기온이 31.9도를 기록해 1911년 이후 114년 만에 가장 더운 6월 하루를 보냈다. 강릉을 비롯한 강원 영동은 여름철 고온 다습한 남서풍이 태백산맥을 타고 넘으며 더 뜨거워져 우리나라에서 열대야가 가장 심한 지역으로 꼽힌다. 강릉은 30일 오후 6시부터 1일 오전 9시까지 최저기온이 29.7도를 기록해 ‘초(超)열대야’(밤 최저기온 30도 이상)에 근접한 밤더위가 나타나기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCG3Q2KZFRITTBYSDHNK3VWTFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더위에 열대야까지 겹친 1일 서울 서초구 반포한강공원을 찾은 시민들이 달빛무지개분수를 보며 더위를 식히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 열대야는 계속될 것으로 예상된다. 2일 아침 최저기온은 23~27도, 낮 최고기온은 26~35도로 예보됐다. 서울의 경우 2일 새벽 시간대 실제 기온은 25도 내외로 예상되나, 상대습도가 85~90%에 달해 체감 기온은 28도로 더 높을 전망이다. 습도가 55%에서 10%포인트 높아질 때마다 체감기온은 1도씩 오른다. 한낮에도 실제 기온은 29도, 체감 기온은 31도로 예상됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여교사와 초등생의 로맨스? … “드라마 제작하지 말라” 교원단체 ‘발칵’</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/WUM7HD4DVJE2DKRSGCQV5FATCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/WUM7HD4DVJE2DKRSGCQV5FATCU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 11:41:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFM2MGLD4YJ4YLKQYSEMS6ZJSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘내가 사랑하는 초등학생’ 웹툰 표지 화면. /온라인 커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여교사가 초등학생 간 연애 감정을 소재로 한 ‘내가 사랑하는 초등학생’ 드라마가 만들어진다는 소식이 전해진 가운데, 교원 단체가 제작 중단을 촉구했다. &lt;br&gt;&lt;br&gt;한국교원단체총연합회는 1일 “창작과 예술적 독창성이라는 명분 아래 아동을 성적 대상화하는 시도는 결코 정당화될 수 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;교총은 “교사는 자신이 가르치는 학생과 신뢰 관계를 형성하고 여타 직종보다 높은 도덕성·전문성을 갖고 교육에 매진해야 하는 직위에 있다”며 “이러한 지위를 악용해 미성년 제자와 사적인 감정을 나누고 이를 연애 관계로 발전시키는 서사는 결코 로맨스나 판타지로 치부할 수 없는 명백한 그루밍 범죄의 미화”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이 드라마의 소재는 교육 현장에서 헌신하는 모든 교육자의 명예를 실추시키고 교직 사회 전체에 대한 깊은 불신을 초래할 것”이라며 “교사, 학생, 학부모 간의 신뢰라는 교육의 근간을 흔드는 행위”라고 했다.&lt;br&gt;&lt;br&gt;교총은 “이런 작품들이 로맨스나 판타지로 소비될 경우 현실에서 벌어지는 그루밍 범죄의 심각성을 희석할 수 있다”며 “문화·예술 영역에서 창작의 자유가 충분히 보장돼야 한다는 점에는 공감하지만, 교사를 학생 대상 그루밍 범죄 가해자로 묘사하는 내용은 교육 현장의 신뢰를 훼손할 것”이라고 했다.&lt;br&gt;&lt;br&gt;‘내가 사랑하는 초등학생’은 동명 웹툰을 원작으로 한다. 초등학교 여교사가 온라인 게임 속에서 만난 유저에게 호감을 느끼게 되지만 그 유저가 자신의 초등학생 제자라는 사실을 알게 되면서 벌어지는 이야기를 그린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>장마도 폭염엔 맥 못 춘다... 3주 빨리 끝날 듯</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/01/UEOTOXX4WZFBLAOSPWUDTKEBQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/01/UEOTOXX4WZFBLAOSPWUDTKEBQ4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 11:47:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZK5THCYCNJ2DJMRN4ST3ZUK6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무더운 날씨 이어지면서 전국 대부분 지역에 폭염특보가 발효된 1일 서울 광화문광장 바닥분수대에서 한 외국인 어린이가 더위를 식히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 장마가 일찍 찾아온 만큼 끝나는 시기도 빨라질 것이란 관측이 나온다. 장마를 일으키는 북태평양고기압이 한 달 정도 빠르게 우리나라 상공을 뒤덮으며 세력을 넓히고 있기 때문이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 1일 정체전선(장마전선)은 북한 상공에 형성돼 비를 뿌렸다. 정체전선이 이미 제주와 남부·중부를 차례로 지나 북한까지 북상했다는 뜻이다. &lt;br&gt;&lt;br&gt;장맛비는 남쪽 북태평양고기압과 북쪽 티베트 고기압이 충돌하는 과정에서 내린다. 두 고기압이 우리나라 상공에서 활발하게 충돌하는 6월 말부터 7월 중순까지를 장마라고 부른다. 이후 북태평양고기압이 세력을 넓혀 7월 말엔 우리나라를 완전히 장악하게 되는데, 이때 장마가 끝나고 한여름 폭염이 시작된다.&lt;br&gt;&lt;br&gt;그런데 올여름은 북태평양고기압이 지난달 19~20일 이미 남부 지방을 덮었고, 6월 말엔 중부 지방 상공까지 세력을 넓혔다. 이에 따라 제주는 평년(1991~2020년·30년 평균)보다 일주일, 남부·중부는 각각 3일과 5일 일찍 장마가 시작했다. 이와 함께 북태평양고기압이 만드는 고온 다습한 남서풍이 6월 중순부터 대거 들어오면서 전국적으로 폭염과 열대야가 발생하고 있다. &lt;br&gt;&lt;br&gt;북태평양고기압이 한반도에서 세력을 떨치고 있어 정체전선이 제주도까지 다시 내려오긴 힘들 전망이다. 이에 기상청은 제주도부터 곧 장마가 끝날 것으로 예상하고 있다. 제주도의 평년 장마 종료일은 7월 20일인데, 크게 앞당겨지는 것이다. 제주도와 위도가 비슷한 일본 북부 규슈 지역은 지난달 27일 이미 ‘장마 종료’가 선언됐다. 북부 규슈의 평년 장마 종료일은 7월 19일인데, 올해는 3주가량 앞당겨져 역대 가장 빠르게 장마가 끝났다. 북부 규슈보다 더 남쪽에 있는 오키나와도 올해 평년(6월 21일)보다 2주 정도 빠른 지난달 8일 장마가 끝났다. &lt;br&gt;&lt;br&gt;기상청 관계자는 “이달 중순까지 제주와 남부 지방 모두 장맛비 예보가 없기 때문에 이 지역에서 동시에 장마 종료가 선언될 수 있다”고 말했다. 남부와 중부의 평년 장마 종료일은 7월 24일, 7월 26일이다. &lt;br&gt;&lt;br&gt;중부 지방은 현재 북한에 걸쳐있는 정체전선의 남하 여부가 변수다. 북태평양고기압은 확장과 수축을 반복하기 때문에 정체전선이 다시 내려와 중부 지방에 비를 뿌릴 수도 있다. 통상 우리나라보다 장마가 먼저 끝나는 도쿄 등 일본 본토에서도 아직 장마 종료가 선언되지 않았다. 북태평양고기압 세력이 더 팽창할 경우엔 중부·남부·제주에서 동시에 장마가 끝날 가능성도 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LXGOKWIJOBFDBIFTP7OEW2SX5Y.jpg?auth=ba5bbd50da91f96a2633d69f59f12c24f3646395cbf862b091ba7865cba40fac&amp;smart=true&amp;width=4840&amp;height=3630" type="image/jpeg" height="3630" width="4840">
+        <media:description type="plain"> 장마와 폭염 사이
+    (파주=연합뉴스) 임병식 기자 = 1일 경기도 파주시 임진각에서 관광객들이 양산과 우산을 든 채 장맛비로 젖은 땅을 걷고 있다. 2025.7.1
+    andphotodo@yna.co.kr/2025-07-01 13:17:10/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">임병식</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘尹비판’ 임은정 ‘尹징계 총괄’ 김태훈, 검사장 파격 승진</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/01/DAP6AOF4P5C53MVWSF7C5IPQBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/DAP6AOF4P5C53MVWSF7C5IPQBU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 11:53:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUOCWR6IWVEHHP2F2CHACEXNKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정(왼쪽) 신임 서울동부지검장과 김태훈 신임 서울남부지검장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 1일 실시한 법무부·검찰 고위 간부 인사에서 임은정(51·사법연수원 30기) 대전지검 중요경제범죄조사단 부장검사와 김태훈(54·30기) 서울고검 검사가 각각 서울동부지검장과 서울남부지검장에 승진 발령되자 검찰에선 “파격적”이라는 반응이 나왔다.&lt;br&gt;&lt;br&gt;임 신임 검사장은 2007년 이른바 ’도가니 사건’ 공판검사로 알려진 인물이다. 2012년 12월 반공법 위반 재심 사건에서 “재판부가 판단해 달라”는 취지로 ‘백지 구형’을 하라는 상부 지시를 어기고 무죄를 구형해 이듬해 정직 4개월 징계를 받았다. 이후 임 검사장은 검찰 주류 인사들과 줄곧 갈등을 빚어왔다. 문재인 정부 때는 ‘검찰 개혁’ 방안에 공개 찬성했고, 전·현직 검찰 간부들을 고발하기도 했다. 조국 전 조국혁신당 대표의 배우자 정경심씨에 대한 검찰 수사도 비판했다.&lt;br&gt;&lt;br&gt;이 때문에 임 검사장은 친민주당 성향 검사로 분류됐다. 문재인 정부에선 법무부 감찰담당관을 지낸 반면 윤석열 정부 때는 ‘한명숙 모해 위증 교사 의혹’과 관련한 대검 감찰 상황을 유출한 혐의로 고위공직자범죄수사처(공수처)에서 피의자 조사를 받기도 했다. 임 검사장은 윤석열 정부 출범 후 한직으로 지방으로 좌천됐다. 그러나 지난달 이재명 대통령이 당선된 뒤 국정기획위원회 정치·행정 분과 전문위원으로 기용되고, 이날 검사장으로 승진하면서 부활했다.&lt;br&gt;&lt;br&gt;김태훈 검사장은 문재인 정부 때 대검 정책기획과장, 서울중앙지검 형사5부장, 법무부 검찰과장, 서울중앙지검 4차장을 지냈다. 법무부 검찰과장 시절 추미애 당시 법무부 장관의 윤석열 검찰총장 징계 실무를 총괄했다. 중앙지검 4차장 때는 ‘부실 수사’라는 비판을 받은 대장동 개발 비리 의혹과 도이치모터스 주가조작 의혹 수사를 지휘했다. 2021년 11월에는 대장동 수사팀원 16명이 ‘쪼개기’ 회식을 한 후 김 검사장 등이 코로나19에 집단 감염돼 논란이 일었다. 김 검사장은 2022년 대선에서 민주당이 재집권했다면 검사장 승진 1순위로 꼽혔다. 그러나 당시 대선에서 윤석열 전 대통령이 당선되면서 주로 항고 사건을 담당하는 부산고검과 서울고검으로 잇따라 전보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DBP5ILX3LRHUVBYYWJZ66JKAHE.jpg?auth=aa74cfd1864fcaad42bf2495aa2aec0fe2e00aa62766826ec8a714908b97bf19&amp;smart=true&amp;width=600&amp;height=338" type="image/jpeg" height="338" width="600">
+        <media:description type="plain">국정기획위원회 정치행정분과 전문위원을 맡은 임은정 대전지검 부장검사가 20일 오전 서울 종로구 정부서울청사 창성동 별관에서 열린 검찰청 업무보고에 참석해 있다. photo 뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>청계천로 ‘차 없는 거리’, 12일부터 차량 통행 허용</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/01/EBBHK5K32ZFLLHFMH6NGYAG73I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/EBBHK5K32ZFLLHFMH6NGYAG73I/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 11:37:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSV4DHAIVOM65U6YS6O2S7FPDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 청계천로 차 없는 거리 구간 중 관철동 지역. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 청계천로 일부 구간이 ‘차 없는 거리’에서 ‘차 있는 거리’로 바뀐다. 서울시는 오는 12일부터 청계천로 북측 광교~삼일교 구간(약 450ｍ)의 차량 통행 제한을 푼다고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 2005년 청계천을 복원한 뒤 청계천로 880m 구간(청계광장~삼일교)을 주말마다 ‘차 없는 거리’로 운영해왔다. 20년 만에 일부 구간의 차량 운행을 허용하는 것이다. 이 구간에는 주말에도 차량이 자유롭게 오갈 수 있다. &lt;br&gt;&lt;br&gt;다만 올해 말까지 한시적으로 개방한다. 서울시 관계자는 “개방 효과를 분석한 뒤 영구 개방할지 여부를 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울시가 일부 구간의 규제를 푸는 건 주변 상인들의 요구 때문이다. 종로구 관철동 상인들은 그동안 “차 없는 거리 때문에 상권이 죽었다”며 지정 해제를 요구해왔다. 이은삼 관철동문화발전위원회 사무국장은 “차량 통행이 제한되는 주말에 매출 타격이 더 크다”며 “일부 구간이라도 숨통을 틔워 달라고 지난 3월 서울시에 집단 민원을 냈다”고 했다. 서울시 관계자는 “차량 통행과 매출 간 상관관계가 있는지 확인할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 앞서 지난 1월 서대문구 연세로의 ‘대중교통 전용 지구’를 풀었다. 신촌 상인들이 “차 없는 거리가 생긴 이후 매출이 뚝 떨어졌다”며 민원을 지속적으로 제기했기 때문이다. 당시에도 2023년 1월부터 9개월간 통행 제한을 풀고 차량 통행과 매출 간 관계를 분석했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김영훈 고용장관 후보자, 재산 12억1500만원 신고</title>
+      <link>https://www.chosun.com/national/labor/2025/07/01/SRIY7TL5LRD23AK2QWN2XUP6GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/01/SRIY7TL5LRD23AK2QWN2XUP6GE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 01 Jul 2025 10:45:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4JFDYBE5NEDE22VOXGJ3X2OFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;철도 기관사 출신 김영훈 고용노동부 장관 후보자가 지난 24일 오후 서울 중구 서울지방고용노동청에 마련된 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관 후보자가 자신과 가족 명의로 총 12억1500만원의 자산을 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1일 김 후보자 인사청문 요청안에 따르면, 김 후보자 명의 재산은 부산 부산진구 양정동 아파트(약 3억5000만원)과 경남 창원 마산합포구 단독주택(약 2억1400만원), 2006년식 재규어(약 430만원) 등 총 10억3400만원 규모다.&lt;br&gt;&lt;br&gt;김 후보자 모친은 예금 약 7100만원과 경남 창원 마산합포구 부동산 등 총 1억4800만원을 신고했다. 2000년생인 김 후보자 아들은 예금 약 3200만원을 신고했다.&lt;br&gt;&lt;br&gt;김 후보자는 2006년 철도노조 불법파업을 주도한 혐의(업무방해)로 벌금 1000만원을 선고받았다. 민주노총 위원장 시절에는 서울 도심에서 수차례 불법 시위 등을 한 혐의(폭력행위처벌법상 공동주거침입 등)로 징역 6개월에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;김 후보자는 1989년 폐결핵으로 5급 전시근로역 판정을 받아 병역 의무를 면제 받았다. 김 후보자 아들은 육군 병장으로 2021년 만기 전역했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>나트랑 리조트서 韓관광객 익사… 유족 “안전요원 멍 때려” 늦장 대응 분통</title>
       <link>https://www.chosun.com/national/national_general/2025/07/01/NXILQWXOZJEGTMZ6FI7HNLNQBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/NXILQWXOZJEGTMZ6FI7HNLNQBM/</guid>
@@ -859,19 +932,6 @@
       </media:content>
     </item>
     <item>
-      <title>이종범, 시즌 중 예능행 논란에 “욕먹을 거 알고 있었다”</title>
-      <link>https://www.chosun.com/national/people/2025/06/30/SV5S3MWXCVEV7PW2BPGXWOA5F4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/06/30/SV5S3MWXCVEV7PW2BPGXWOA5F4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 11:19:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQCBEYUMD5E3VKAVL6YYVK74KI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;이종범 전 KT 코치. /스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 KT 코치를 맡고 있던 이종범이 시즌 중 팀을 떠나 TV 예능 프로그램 JTBC ‘최강야구’에 합류해 논란이 된 것에 대해 “욕을 먹을 수 있다는 것은 잘 알고 있었다”고 했다. &lt;br&gt;&lt;br&gt;이종범은 30일 JTBC와의 인터뷰에서 “몇몇 은퇴한 후배들에게 연락이 와, 내가 구심점이 돼 ‘최강야구’를 이끌어 주길 부탁받았고, 여러 날을 고민했다”며 “‘최강야구’가 한국 프로야구 흥행에 많은 역할을 해온 것을 잘 알고 있었기에 (KT) 이강철 감독님께 상의를 드렸고, 감독님이 내 생각과 입장을 너그럽게 이해해 주신 덕분에 새로운 도전에 나서게 됐다”고 했다. &lt;br&gt;&lt;br&gt;이종범은 “팬 여러분들께 죄송하다는 말씀을 꼭 드리고 싶다”며 “시즌 도중 구단을 떠나는 결정은 결코 쉽게 내린 것이 아니다. 제안을 받고 많은 걱정에 며칠을 심사숙고했다”고 했다. &lt;br&gt;&lt;br&gt;이종범은 “내 결정이 팀의 공백을 비롯해 야구계의 이례적인 행보로 비난받을 수 있다는 걸 알고 있었다”며 “(최강야구) 감독 제안을 받았을 때 나는 마침 구단에서 능력 있는 후배 코치들의 성장을 위해 한발짝 물러난 상황이었다. 후배 코치들이 너무 잘해주고 있는데, 내 존재가 오히려 부담이 될 수 있다는 걱정이 나에게도 부담이었기에, 이 부분을 감독님께서도 헤아려 주셨다”고 했다. &lt;br&gt;&lt;br&gt;이어 “‘최강야구’ 감독직을 수락하면 많은 욕을 먹을 수 있다는 것은 잘 알고 있었다”며 “감독직 자체만을 원했다면 ‘최강야구’를 선택하지 않았을 것이다. ‘최강야구’를 살리는 것은 한국 야구의 붐을 더욱 크게 할 수 있다고 본다”고 했다. &lt;br&gt;&lt;br&gt;이종범은 “특히, 새로 출범하는 ‘최강야구’는 유소년 야구 등 아마 야구에 대한 지원도 약속했다”며 “은퇴 선수들의 새로운 도전을 이끌고, 야구계 발전에도 도움이 되는 일인데, 예능이라고 해서 프로야구와 완전히 다른 세상이라고 생각하지 않는다. 진심이 담긴 열정적인 야구를 하도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 이종범은 JTBC 예능 프로그램인 ‘최강야구’의 차기 시즌 감독으로 합류한다. 이 프로그램은 이전 제작진과의 갈등으로 김성근 감독과 이대호, 박용택, 정근우 등 주요 선수들이 모두 빠져 새로운 출연진을 구성 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WQY3TFHJRJGLBA65PNRGQ7DDRI.jpg?auth=65f86c0aa9e5c622a6570248fa96df9513bad76d7d79cbed6e31e58449157042&amp;smart=true&amp;width=700&amp;height=394" type="image/jpeg" height="394" width="700">
-        <media:description type="plain">29일 잠실구장에서 열린 두산 베어스와 KT 위즈의 경기. 이종범 코치가 선수들 장비를 챙기고 있다. 잠실=박재만 기자 pjm@sportschosun.com/2025.04.29</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>‘ATM’, ‘노예’ 수년간 동급생 집단폭행… 학폭 가해 고교생 4명 퇴학 처분</title>
       <link>https://www.chosun.com/national/regional/2025/06/30/M4MVVOVOOVH5PCXPUB3V2BUSMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/30/M4MVVOVOOVH5PCXPUB3V2BUSMI/</guid>
@@ -881,15 +941,6 @@
 </description>
       <pubDate>Mon, 30 Jun 2025 10:34:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM7D42HSOVF6BNI6YNOP7YHGF4.png"&gt;&lt;figcaption&gt;&lt;small&gt;충남 청양에서 피해자를 청테이프로 결박한 후 신체 일부를 노출시켜 사진을 찍고, 삭발하는 등 4년 동안 학교폭력을 저지른 고교생 4명이 경찰에 입건됐다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수년간 동급생을 집단 폭행하고 수백만원의 금품을 빼앗은 고교생 4명이 퇴학 처분을 받았다.&lt;br&gt;&lt;br&gt;30일 교육계에 따르면 충남 청양교육지원청은 최근 학교폭력 심의위를 열고 이 같은 조치 사항을 피해 학생인 A군 측에 서면 전달했다.&lt;br&gt;&lt;br&gt;심의위는 또 가해 학생들로부터 A군을 보호하기 위해 접촉 금지와 협박 및 보복 행위 금지 조치도 함께 내렸다.&lt;br&gt;&lt;br&gt;심의위는 이번 결정에 대해 “장기간 신체 폭력과 언어 폭력, 금품 갈취 등 수많은 학교 폭력을 저질렀다”면서 “피해자가 중학교 때부터 3년여간 장기간에 걸쳐 수치스럽고 모욕적인 시간을 보냈고, 정신적 피해가 극심할 것으로 생각되는 점 등을 종합적으로 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;가해 학생들은 지난 2022년 10월 같은 학교 동급생이던 A군을 집단 폭행하고 금품을 빼앗는 등 지난 4월까지 165차례에 걸쳐 600만원 상당의 금품을 빼앗은 혐의로 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 또 청테이프로 A군의 팔을 묶은 뒤 신체 일부를 노출시켜 사진을 찍거나 A군에게 음주와 흡연을 강요하기도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 최근 이들에 대해 구속영장을 신청했으나 법원은 초범이고 나이가 어린 점 등을 고려해 이를 기각했다.&lt;br&gt;&lt;br&gt;한편 경찰은 참고인 조사 등을 통해 구속영장이 기각된 이들 4명 이외에도 범행에 가담한 다른 학교 동급생 4명도 추가로 입건해 조사를 벌이고 있다. 이들 모두 A군과 중학교 때까지 같은 학교에 재학했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “尹 조사일 재지정해 통보 예정…불응 시 마지막 조치”</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/UEI37U3ZE5EHJIS5PZGD4HS7CI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/UEI37U3ZE5EHJIS5PZGD4HS7CI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 08:23:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37ZOFDLWB5MGNA2CG54PXSAFQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 관련 내란·외환 사건을 수사하는 조은석 특별검사팀이 오는 7월 1일 윤석열 전 대통령에 대한 2차 소환조사를 통보한 가운데 30일 내란특검 사무실이 위치한 서울 서초구 서울고등검찰청에서 한 관계자가 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 내란 특검에 소환 기일 변경을 요청했지만 특검이 이를 받아들이지 않기로 했다. 당초 통보한 내달 1일에 출석하지 않으면 이번 주 중 다른 날짜를 지정해 다시 출석 요구를 통보하기로 했다.&lt;br&gt;&lt;br&gt;내란 특검보는 30일 오후 “변호인단의 기일 변경 요청을 받아들이지 않기로 했다”며 “(윤 전 대통령이) 내일 출석에 불응할 경우, 이번 주 중 특정 일시를 지정해 재차 통보할 예정”이라고 밝혔다. 이어 “그때도 출석하지 않으면 형사소송법상 마지막 단계 조치를 할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령 측이 당초 내달 3일 이후로 소환 기일 변경을 요청한 데 이어 5일 이후로 다시 연기를 요청했지만, 제출된 사유에 특별한 변화가 없어 이를 받아들이지 않기로 했다고 밝혔다. 그러면서 “출석하지 않을 경우 다시 소환 일자를 지정해 통보할 것”이라며, “7월 4일 또는 5일 출석 통보할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 “체포영장 재청구 땐 처음 체포영장을 청구할 때보다 청구 범위가 확대될 것으로 보인다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 28일 윤 전 대통령을 피의자 신분으로 불러 조사한 뒤 남은 조사를 위해 내달 1일 오전 9시에 다시 출석할 것을 요구했다. 그러나 윤 전 대통령 측은 전날 특검에 내달 3일 이후로 연기해달라는 의견서를 제출했다. 이날에는 같은 달 5일 이후로 기일을 연기해달라고 재차 요청했다.&lt;br&gt;&lt;br&gt;한편, 윤 전 대통령 측은 출석이 불가한 이유에 대해 “특검이 지난 28일 장시간 조사를 진행해 윤 전 대통령이 29일 새벽에 귀가했음에도, 충분한 시간적 여유 없이 즉시 재소환을 결정했다”며 “7월 3일 진행될 형사 공판에서 하루 종일 증인 신문이 예정돼 있어 건강상 문제로 5일 또는 6일 출석할 수 있다는 내용의 기일 변경 요청서를 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “특검이 일방적으로 지정한 7월 1일에 출석하지 않는다고 해도 이를 ‘출석 불응’이라 할 수 없다”며, 출석 불응 시 형사소송법상 조치를 하겠다는 특검의 입장을 정면 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란 특검, 尹경호처 김성훈·이광우 출국금지</title>
@@ -928,33 +979,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCDUZ6JUR5IQLBRGDPCMAKDJ2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서울 중구 양육비이행관리원 양육비선지급부에서 관계자들이 관련 상담업무를 보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 혼자 미성년 아이를 키우는 한 부모가 전 배우자에게 월 양육비를 받지 못한 경우, 국가에서 이를 먼저 지급하는 ‘양육비 선지급제’가 1일부터 시행된다. 결혼하지 않았더라도 아이 양육비를 약속받고 헤어진 경우도 대상에 포함된다. &lt;br&gt;&lt;br&gt;30일 여성가족부에 따르면, 한 부모 측이 양육비이행관리원 사이트(www.childsupport.or.kr)나 우편으로 신청서를 내면 확인 절차를 거쳐 미성년 자녀가 만 18세에 이를 때까지 자녀 1인당 월 20만원 한도로 양육비를 선지급받는다. 다만 세 가지 요건을 모두 충족해야 신청이 가능하다. 먼저 한 부모 측이 전 배우자 측에 약속받은 양육비를 선지급 신청 직전 연속 3개월(또는 3회) 이상 받지 못한 상태여야 한다. 둘째, 한 부모 가구의 소득 인정액이 기준 중위 소득 150% 이하여야 한다. 마지막으로, 양육비를 받아내려고 노력해 왔어야 한다. 여가부는 “양육비이행관리원에 필요한 법률 지원을 신청한 경우 등이 이 같은 노력에 해당된다”고 했다.&lt;br&gt;&lt;br&gt;이후 정부는 약속한 양육비를 부담하지 않은 전 배우자 측을 상대로 6개월 단위로 선지급 회수를 진행한다. 회수 통지서 송달과 독촉에도 내지 않으면 양육비이행관리원이 본인 동의 없이 소득·재산 정보를 조회한 뒤 압류 절차에 들어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰청 차장에 유재성·국수본부장에 박성주 발탁</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/29/TBLZMXX4L5DSRMJ663ZERZ4ZDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/29/TBLZMXX4L5DSRMJ663ZERZ4ZDU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 29 Jun 2025 08:53:09 +0000</pubDate>
-      <content:encoded>경찰이 신임 경찰청 차장과 국가수사본부장으로 유재성(59) 경찰청 국가수사본부 형사국장, 박성주(59) 광주경찰청장을 29일 각각 내정했다. 두 사람은 현재 치안감으로, 정식 임명되면 치안정감으로 승진한다. &lt;br&gt;&lt;br&gt;경찰은 “유재성 치안감은 국수본 형사국장, 대구경찰청장, 경찰청 사이버수사국장 등 다양한 분야에서 역량을 발휘했고, 박성주 치안감은 울산청장, 서울청 수사부장·수사과장 등 수사 분야에서 전문성을 발휘했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDTK5JP5JBP2XOLDNYJRX734LM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신임 경찰청 차장과 국가수사본부장으로 내정된 유재성·박성주 치안감. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 경찰 인사는 사실상 새로운 경찰 수장이 임명됐다는 의미를 가진다. 현재 조지호 경찰청장은 윤석열 전 대통령의 비상계엄에 가담했다는 이유로 지난해 12월 국회에서 탄핵소추됐고, 다음달 1일부터 탄핵 심판이 시작될 예정이다. 이에 따라 현재는 이호영 경찰청 차장이 경찰청장 직무 대행을 맡고 있다. 최장 180일의 탄핵 심판을 거쳐 조 청장의 탄핵 여부가 결정된 후에야 신임 경찰청장 인사가 가능한 상황에서, 유 치안감이 새로 경찰청 차장이 돼 경찰청장 직무 대행을 맡게 된 것이다. &lt;br&gt;&lt;br&gt;경찰청 국가수사본부장은 지난 3월 말 우종수 전 본부장이 임기 만료로 퇴임한 후 공석이었다. 국수본 산하에 구성된 경찰의 비상계엄 특별수사단은 백동흠 국수본 안보수사국장 지휘로 수사를 이어오다 지난 26일 관련 자료를 내란 특검에 인계하고 해산했다. 이후 박 치안감이 새 본부장으로 내정된 것이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘깡통전세 사기’ 임차보증금 8억 가로챈 40대, 징역 2년 8개월</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/06/30/BM4KZXJUN5AUDEEOEESSVAZDUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/06/30/BM4KZXJUN5AUDEEOEESSVAZDUA/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 08:50:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임차 보증금을 돌려줄 능력이 없으면서 세입자들로부터 보증금 수억원을 받아 가로챈 임대인에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 대전지법 형사5단독 장원지 부장판사는 사기 혐의로 기소된 A(40대)씨에게 징역 2년 8개월을 선고했다.&lt;br&gt;&lt;br&gt;다가구주택을 여러 채 소유한 A씨는 2020∼2023년 “선순위 임차 보증금과 근저당권 채무를 합해도 건물 매매가보다 적으니 안전한 건물”이라고 속여 세입자 10명에게서 임차 보증금 7억9500만원을 받아 챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;해당 건물들은 담보 대출과 전세 보증금을 합한 금액이 매매 가격보다 높아 보증금을 제때 돌려받지 못할 가능성이 큰 이른바 ‘깡통 전세’ 건물이었다.&lt;br&gt;&lt;br&gt;장 부장판사는 “전세 사기 범행은 사회 초년생 등 경제적 기반이 취약한 이들에게 감당하기 어려운 부채를 안기는 등 그 죄책이 무겁다”며 “피고인은 선순위 임대차 현황에 대해 허위로 고지했고 피해자들과 합의하지도 못해 엄한 처벌을 하지 않을 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대장동 업자’ 김만배·유동규·남욱, 10월 31일 1심 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/7DFYEIZSJBBMLL7TOY3RVAUJR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/7DFYEIZSJBBMLL7TOY3RVAUJR4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 08:21:25 +0000</pubDate>
-      <content:encoded>화천대유 대주주 김만배씨 등 대장동 일당의 배임 사건에 대한 1심 선고가 오는 10월 31일 나온다. 2021년 10월 이 사건 관련 첫 기소가 이뤄진 지 4년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLWQ4ZAL43J2U5LZZIKFDTX6MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화천대유자산관리 대주주 김만배 씨(왼쪽부터), 유동규 전 성남도시개발공사 본부장, 남욱 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건을 심리하는 서울중앙지법 형사22부(재판장 조형우)는 30일 열린 1심 결심 공판에서 “지난 4년간 꼬박꼬박 재판에 나오느라 고생이 많았다. 수사·공판 기록이 25만쪽 이상 될 것으로 보인다”면서 “10월 31일 오후 2시에 1심 선고를 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;대장동 일당은 이 대통령이 성남시장을 하던 때 성남시와 유착해 대장동 사업에서 성남도시개발공사에 확정 이익을 1830억원만 배당해, 공사에 최소 4895억원의 손해를 끼친 혐의 등을 받고 있다. 2021년 10월 대장동 사건과 관련한 첫 기소가 이뤄졌고, 190번의 재판 끝에 약 4년 만에 1심 결과가 나오게 됐다.&lt;br&gt;&lt;br&gt;재판부는 지난 27일에 이어 이날도 결심 절차를 진행했다. 대장동 사업 초기부터 사업을 이끈 남욱 변호사(천화동인 4호 소유주)는 이날 최후 진술에서 “이 사건이 불거지고 재판을 받으면서 처음에는 누군가를 원망하고 미워했다. 하지만 돌아보니 모두 제 책임”이라며 “동료들에게 믿음을 주지 못했고, 가족에게 책임감 없는 가장이었다”고 말했다.&lt;br&gt;&lt;br&gt;정영학 회계사(천화동인 5호 소유주)는 혐의를 전면 부인했다. 정 회계사는 “대장동 부지는 지하철이 없고 대중교통이 불편해 민간업자들은 당초 사업성을 높게 평가하지 않았다”면서 “민간업자들은 당초 막대한 이익을 취할 것을 예상하지 못했지만, 비교적 많은 이익을 본 것은 예상 못한 부동산 가격 폭등 덕분”이라고 했다.&lt;br&gt;&lt;br&gt;성남도시개발공사 전략사업팀장으로 일했던 정민용 변호사는 “오해를 살 만한 부적절한 행위가 있었을지는 몰라도, 검찰의 공소사실에 부합하는 위법은 없었다”며 두 손으로 얼굴을 감싸고 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;검찰은 김만배씨에게 징역 12년과 추징금 약 6111억원을, 유동규 전 본부장에게 징역 7년과 벌금 17억400만원을 구형했다. 남욱·정영학·정민용씨에게도 징역 5~10년을 각각 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강제징용 이춘식씨 자녀 2명 송치...배상금 수령 서류 위조 혐의</title>
       <link>https://www.chosun.com/national/national_general/2025/06/30/DUGCTNZBOBHCPAA3LPOM5BGF74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/DUGCTNZBOBHCPAA3LPOM5BGF74/</guid>
@@ -966,24 +990,6 @@
         <media:description type="plain">일제 강제징용 피해자인 이춘식 할아버지의 장남 이창환씨(가운데)가 지난해 10월 30일 오후 서울 서초구 서울중앙지방법원 앞에서 열린 기자회견에서 입장을 밝히고 있다. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">서대연</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“아스팔트인 줄...” 계양산 점령한 러브버그, 방역 어려운 이유는</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/30/FGSNS7LSVBHJHBUWPSL7TXCZ3I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/30/FGSNS7LSVBHJHBUWPSL7TXCZ3I/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 07:37:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTZS6A5BKVMMTOE27CGSOMNEMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 계양구 계양산 정상에서 러브버그 무리가 등산로와 등산객들에게 들러붙으며 불쾌감을 주고있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 계양산 일대에 ‘러브버그’로 불리는 붉은등우단털파리 떼가 나타나면서 관련 민원이 급증한 것으로 나타났다. 각 구청은 갑작스러운 러브버그 개체 수 급증에 골머리를 앓고 있지만, 익충인 러브버그 특성상 무분별한 방역이 생태계에 악영향을 줄 수 있어 적극 대응이 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;30일 인천시 계양구에 따르면 지난 23일부터 27일까지 계양구에서 러브버그 관련 민원 359건이 잇따라 접수됐다. 특히 지난 28일부터 계양산 산책로를 새까맣게 뒤덮은 러브버그의 모습이 여러 소셜미디어(SNS)와 온라인 커뮤니티에 올라오며 하루 수십 건의 민원이 계속 들어오고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4VP77W75ZCPLIKU43TMCWMXSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 인천 계양산에 나타난 러브버그 모습. /인스타그램 kimlark34&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상을 보면, 시야를 가릴 정도로 러브버그가 떼로 날아다녔다. 영상 촬영자는 “러브버그의 습격”이라며 “벌레 싫어하는 사람은 (산에) 올라갔다가 기절할 것 같다”고 했다. 그는 전기 파리채를 사용해 러브버그를 잡거나, 쓰레받기로 사체를 치우는 영상도 올렸다. 하지만 모두 실패했다. 계양산 정상을 촬영한 사진도 블로그에 올라왔다. 사진에는 아스팔트 포장 도로로 착각할 만큼 러브버그 사체가 수북이 쌓인 모습이 담겼다.&lt;br&gt;&lt;br&gt;최근 인천 지역에서는 ‘러브버그’로 불리는 곤충의 급격한 증가로 민원이 잇따르고 있다. 러브버그는 원래 중국 동남부나 일본 오키나와에 주로 서식하는 곤충이었지만, 2022년부터 한국에서도 발견되기 시작해 현재는 수도권 전역에서 나타나고 있다. 처음에는 서울 은평구 등 서울 서북 지역에서 발견되다가 최근 들어선 서울 전역과 경기 지역까지 확산했다. 인천 계양구와 인접한 서구에도 지난 23일부터 전날까지 러브버그 관련 민원 122건이 접수됐다.&lt;br&gt;&lt;br&gt;각 구청은 러브버그 출몰에 따라 집단으로 민원이 들어오고 있으나 뚜렷한 해결책이나 예방책을 내놓지 못하고 있다. 러브버그가 익충으로 분류되는 데다 과도한 방역이 생태계 교란을 일으킬 수 있어 적극적으로 방역이 어려운 탓이다. 계양산처럼 방역 차량 투입이 어려운 장소에는 직접 에어건 살포나 물청소 등을 진행하고 있으나 효과는 크지 않은 실정이다.&lt;br&gt;&lt;br&gt;계양구 관계자는 “올해 급격히 러브버그가 늘어 비상 대응을 하고 있다”며 “화학적 방역을 하기 어려운 상황이라 대책 마련에 고심하고 있다”고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 측, 특검에 7월 3일 이후 출석 조사 재요청</title>
-      <link>https://www.chosun.com/national/court_law/2025/06/30/UGIIBPT3PBDH5LNOBWX3CHRS3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/06/30/UGIIBPT3PBDH5LNOBWX3CHRS3U/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 30 Jun 2025 07:22:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UBPLOQGZNFADYEUHLWQMVTXHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 29일 새벽 서울 서초구 서울고등검찰청 청사에 마련된 내란특검 사무실에서 피의자 신분으로 조사를 마친 뒤 귀가하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 30일 내란 특검에 소환기일 변경을 공식 요청했다. 특검은 앞서 윤 전 대통령을 내달 1일 피의자 신분으로 소환 조사하겠다고 통보한 바 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령 법률대리인단은 이날 오후 4시 15분 특검에 기일 변경 요청서를 제출했다며, “피의자 신문은 강제수사가 아닌 임의수사. 형사소송법 관련 법령은 피의자 및 변호인과의 협의를 통해 조사 일정을 조율하도록 규정하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;변호인단은 “출석 일정 협의는 ‘합의’가 아닌 ‘조율’의 대상”이라며 “수사기관이 일방적으로 출석을 통보했다고 해서 출석 의무가 발생하는 것이 아니며, 출석하지 않았다고 곧바로 ‘출석 불응’으로 간주할 수도 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “특검에 7월 1일로 지정된 기일을 3일 이후로 변경 요청하고, 새로운 출석일을 정함에 있어 변호인과 사전 협의를 해줄 것을 함께 요청했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>결국 李 상고심 논란·사법부 공격에 침묵한 법관회의 </title>
