@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>골드바 101개, 김치통엔 돈뭉치... ﻿3000억 횡령 경남은행 직원의 황제생활</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/03/Q4VL2LIIIJAVPHNMGFIGQ6D2UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/Q4VL2LIIIJAVPHNMGFIGQ6D2UI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 22:25:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTQ7YUW2P5A6JFCLOULL2OCA6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;BNK경남은행 투자금융부장 이모씨가 횡령자금으로 환전한 골드바와 현금. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융권 사상 최대 규모의 횡령 사건을 일으킨 BNK경남은행 직원에게 징역 35년형이 확정됐다. 이 남성과 가족들은 빼돌린 고객 돈으로 초호화 생활을 누려왔던 것으로 드러났다. &lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 대법원은 최근 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 혐의로 재판에 넘겨진 전 경남은행 투자금융부장 이모씨의 항소를 기각하고 징역 35년을 확정했다. &lt;br&gt;&lt;br&gt;다만 대법원은 추징금 159억4629만원에 대해서는 파기환송 결정을 내렸다. 이씨가 압수당한 금괴의 가치를 재판 선고 시점의 시세로 재산정해야 한다는 취지다. &lt;br&gt;&lt;br&gt;이씨는 2008년부터 2022년까지 부동산 프로젝트 파이낸싱(PF) 대출 업무를 담당하면서 77차례에 걸쳐 총 2988억원을 빼돌린 혐의를 받았다. 단일 횡령 사건으로는 역대 최대 규모다. &lt;br&gt;&lt;br&gt;이씨는 PF 시행사들이 대출을 요청한 사실이 없는데도 허위로 서류를 꾸며 대출을 실행하고, 시행사들이 낸 대출 원리금을 빼돌리는 등의 수법으로 돈을 가로챘다. 이 돈은 자기 가족과 지인의 계좌 등에 이체했다. 또 자신의 횡령 사실을 숨기려고 다른 시행사의 대출 계좌로 송금하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HEAU5DENVEORFC4INYWYWHOOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨의 주거지에서 발견된 명품 가방과 신발들. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨와 가족들은 14년간 83억원 상당의 부동산을 사들이고 고가의 명품을 구매하는 등 월평균 7000만원이 넘는 돈을 펑펑 썼다고 검찰은 설명했다. 이 밖에도 이씨는 횡령 자금을 골드바‧상품권 구매, 골프‧피트니스 회원권 구매, 생활비와 자녀 유학비, 주식 투자 등에 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UURJS3EXQJAOJCQ3Q4R5LBQCVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;이씨의 아내가 김치통에 은닉한 현금과 수표. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융당국이 조사를 시작하자 이씨 가족은 도주에 적극적으로 가담했다. 이씨의 친형은 총 44억원을 현금화하는 데 도움을 줬고, 이씨가 범죄수익을 숨겨둔 오피스텔의 보증금과 월세를 납부해주며 관리를 도맡았다. 이씨의 아내는 현금을 수표로 바꿔 김치통 안에 숨겨두기도 했다. &lt;br&gt;&lt;br&gt;검찰은 이씨가 차명으로 보유했던 오피스텔 3곳에서 1㎏짜리 골드바 101개와 현금 45억원, 미화 5만 달러 등을 찾아내 압수했다. &lt;br&gt;&lt;br&gt;이씨의 친형과 아내는 물론이고 자금 세탁을 도와준 일당 7명 모두 실형이 확정됐다. 또 금융위원회는 경남은행에 6개월 일부 영업정지 중징계를 내렸고, 관련된 임직원 역시 정직부터 견책까지 징계 조치를 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BHXULKW6WFAFZF4TGE7IWTYODI.png?auth=673bf3fcfacea8003347946d114e1a9948f377bcbf75020b6640677e502e6d4e&amp;smart=true&amp;width=549&amp;height=309" type="image/png" height="309" width="549">
+        <media:description type="plain">BNK경남은행 투자금융부장 이모씨가 횡령자금으로 환전한 골드바와 현금. /서울중앙지검</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“태극기 문신이 왜 있어?”…日 공항서 취조당한 스웨덴 청년</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/03/ISIE3YEFVNCUFD3QJCRAV2HYQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/ISIE3YEFVNCUFD3QJCRAV2HYQE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 22:28:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZGXYR5VXZFUDA77SPSYSOFF4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태극기와 무궁화 문신을 한 스웨덴 출신 유튜버 스웨국인./유튜버&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스웨덴 출신 유튜버가 태극기 문신을 했다는 이유로 일본 공항에서 취조를 당한 일화를 털어놨다.&lt;br&gt;&lt;br&gt;지난 1일 유튜버 ‘스웨국인’은 ‘일본 공항에서 태극기 문신 보고 인종차별 발언과 조사까지 당한 이유’라는 제목의 영상을 올렸다.&lt;br&gt;&lt;br&gt;스웨국인은 “평생 절대 잊을 수 없는, 그리고 좀 많이 충격적이었던 1년 전 일본 공항에서 있었던 이야기를 얘기하고 싶다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;그는 작년 일주일간 일본 여행을 다녀왔다. 그가 한국에서 산 지 7년째 되던 해였다.&lt;br&gt;&lt;br&gt;당시 일본 공항에 도착해 입국 심사를 받던 중 공항 직원은 그의 팔에 새겨진 무궁화와 태극기 문신을 발견하곤 굳은 표정으로 “이게 무슨 문신이냐”고 물었다고 한다.&lt;br&gt;&lt;br&gt;이에 그는 “한국에서 7년을 살았다”며 “그 과정에서 만난 사람들, 경험한 문화, 받은 정 그리고 한국이라는 나라에 얼마나 깊은 애정을 가지게 됐는지를 영원히 몸에 새기고 싶어서 이 문신을 한 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;그러자 직원은 날카로운 목소리로 “왜 외국인이 한국 상징을 문신으로 새기냐”며 이해할 수 없다는 반응을 보였다.&lt;br&gt;&lt;br&gt;스웨국인은 직원에게 “내가 한국을 얼마나 사랑하는지 모른다. 거기에서 7년 동안 살았고 가족처럼 느껴지는 친구들도 있고 그 나라에서 정말 많은 걸 배웠다”고 설명했지만, 직원은 “이런 건 보통 한국인만 한다”며 싸늘한 반응을 보였었다.&lt;br&gt;&lt;br&gt;그 순간 속에서 울컥하는 느낌을 받았다는 스웨국인은 결국 직원에게 보안 인터뷰방으로 이동해 별도의 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;인터뷰방에서는 ‘누가 문신을 권유했는지’ ‘한국에서 어떤 활동을 했는지’ ‘왜 태극기와 무궁화 문신을 했는지’ 등의 질문이 30분 동안 이어졌다고 한다.&lt;br&gt;&lt;br&gt;그는 “북한에 온 줄 알았다”며 “2024년 일본에서 이런 일이 벌어졌다는 사실에 화도 났지만 서글픔이 더 컸다”고 회상했다.&lt;br&gt;&lt;br&gt;당시 스웨국인은 공항 직원에게 “태극기랑 무궁화는 단순한 디자인이 아니다. 제가 한국에서 보낸 시간, 그곳에서 느낀 따뜻함 그리고 그 나라를 향한 제 마음을 표현한 문신”이라고 재차 설명했다. &lt;br&gt;&lt;br&gt;뒤늦게 입국 허가가 떨어졌지만, 스웨국인은 공항 측으로부터 사과나 조사 이유를 듣지 못했다고 덧붙였다.&lt;br&gt;&lt;br&gt;스웨국인은 “무궁화를 몸에 새기고 태극기를 자랑스럽게 드러내는 이유는 단지 그게 예쁜 문양이어서가 아니라 그 안에 담긴 정신, 역사, 그 상징에 공감했기 때문”이라며 “이 사건 이후 문신에 대해 더 열심히 설명하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “한국을 사랑해 줘서 고맙다” “문신 때문에 30분을 취조 당했다니 믿기지 않는다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;일각에서는 “원래 문신이 있으면 일본 입국 심사가 어렵다”는 주장이 나오기도 했다.&lt;br&gt;&lt;br&gt;일본 입국 심사 제도에 따르면, 일본에 입국하려는 모든 외국인은 일부 면제 대상자를 제외하고는 지문과 얼굴 사진을 제공해야 한다. 이를 거부할 경우, 입국이 거절된다. 하지만 문신과 관련한 입국 조항은 따로 규정돼 있지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독]  범죄자들 中보다 캄보디아로 뛴다... 해외 도피처 1위된 2가지 이유</title>
       <link>https://www.chosun.com/national/national_general/2025/07/03/OTJXQ2IKWBH4ZD3HXIQG4L47HA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/OTJXQ2IKWBH4ZD3HXIQG4L47HA/</guid>
@@ -898,15 +919,6 @@
       <content:encoded>2일 현판식을 열고 공식 수사를 개시하는 김건희 특검과 순직 해병 특검이 동시에 겨누는 핵심 인물로 이종호(64) 전 블랙펄인베스트먼트 대표가 거론되고 있다. 과거 김 여사와 친분이 있는 이 전 대표가 각종 청탁과 민원 창구가 돼 왔다는 의혹이 수사 대상이다.&lt;br&gt;&lt;br&gt;이 전 대표가 처음 알려진 건 ‘도이치모터스 주가조작 사건’ 때다. 이 사건은 도이치모터스 경영진 등이 2009~2012년 주가조작 세력을 동원해 주가를 비정상적으로 끌어올렸다는 의혹인데, 이 전 대표는 이 사건 공범으로 기소돼 지난 4월 대법원에서 징역 2년에 집행유예 3년을 확정받았다. 2010년 10월~2011년 1월 김 여사 명의의 증권 계좌 3개가 도이치모터스 주가 조작에 사용됐는데, 당시 김 여사가 이 전 대표 등에 주식 매매를 일임(一任)한 것으로 조사됐다. 서울중앙지검은 작년 10월 김 여사를 증거 불충분으로 무혐의 처분했으나 서울고검이 재수사를 시작했고, 사건은 김건희 특검으로 넘어왔다.&lt;br&gt;&lt;br&gt;김건희 특검 수사 대상에는 ‘세관 마약 수사 외압 사건’도 포함돼 있다. 이 사건은 세관 직원들의 마약 사건 연루 혐의를 수사하는 과정에서 경찰 고위 간부의 외압이 있었고, 그 외압이 대통령실에서 시작됐다는 내용이다. 조병노 경무관이 외압을 행사한 당사자로 지목됐는데, 작년 7월 이 전 대표가 조 경무관에 대해 ‘(내가) 인사를 챙겨줬다’는 취지로 언급한 녹취록이 공개됐다. 이에 이 전 대표가 김 여사 등을 통해 조 경무관 ‘구명 로비’에 나섰는지 여부가 수사로 규명돼야 한다.&lt;br&gt;&lt;br&gt;이 전 대표는 또 고(故) 채수근 상병 부대장이었던 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹에도 등장한다. 해병대 수사단이 애초 임 전 사단장에게 업무상 과실치사 혐의를 적용해 경찰에 이첩하려 했다가 보류 지시를 받은 배경에 이 전 대표와 김 여사의 친분이 작용한 게 아니냐는 것이다. 이 전 대표는 해병대 출신 5명이 참여한 단체 채팅방(일명 ‘멋쟁해병’)에서 임 전 사단장 등과 교류한 정황이 드러났다.&lt;br&gt;&lt;br&gt;이 전 대표는 김건희 특검과 해병 특검 모두의 핵심 수사 대상인 셈이다. 두 특검은 조만간 이 전 대표를 소환 조사하는 것을 시작으로 ‘김건희 로비 의혹’의 실체 규명에 나설 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정몽준, ‘K리그 명예의 전당’ 헌액</title>
-      <link>https://www.chosun.com/national/people/2025/07/02/RYWFY4QPTJFJTNXT4PMAE7Z4IU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/02/RYWFY4QPTJFJTNXT4PMAE7Z4IU/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 15:35:00 +0000</pubDate>
-      <content:encoded>정몽준(74) 대한축구협회 명예회장이 프로축구 K리그 명예의 전당에 올랐다. 한국프로축구연맹은 정 명예회장을 포함한 6명이 ‘제2회 K리그 명예의 전당’에 헌액됐다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KEEWT6Y2JZATDJ4NEX47LTXQFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 명예회장은 한국프로축구연맹이 창설된 1994년부터 1998년까지 연맹을 이끌었다. 재임 중 K리그 타이틀 스폰서 제도, 10구단 체제 확대, 지역 연고제 정착 등을 이뤘다. 1993~2009년 대한축구협회장으로 활동하며 2002 한일 월드컵을 유치해 성공적으로 개최했다. 한국프로축구연맹은 “K리그와 한국 축구의 체계적인 발전을 견인한 업적을 기려 공헌자 부문 명예의 전당에 헌액했다”고 설명했다. 2023년 1회 명예의 전당 공헌자 부문엔 고(故) 박태준 포스코 명예회장이 뽑혔다. &lt;br&gt;&lt;br&gt;선수 부문 헌액자로는 고 유상철, 김병지(55), 김주성(59), 데얀(44·몬테네그로)이 선정됐다. 지도자 부문엔 K리그 통산 다승 3위(208승)에 오른 김호(81) 전 감독이 헌액됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 차 앞 유리 러브버그 자국은 식초로</title>
       <link>https://www.chosun.com/national/national_general/2025/07/01/RBYU3C5XPVECFPZLKDCLYGRP4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/RBYU3C5XPVECFPZLKDCLYGRP4I/</guid>
@@ -923,15 +935,6 @@
       <description/>
       <pubDate>Tue, 01 Jul 2025 14:35:00 +0000</pubDate>
       <content:encoded>무더운 날씨...최고 체감 온도 33도 안팎&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PFOUB6HFJ5AKHMMAB2XCCDBIWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청계천로 ‘차 없는 거리’, 12일부터 차량 통행 허용</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/01/EBBHK5K32ZFLLHFMH6NGYAG73I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/EBBHK5K32ZFLLHFMH6NGYAG73I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 11:37:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSV4DHAIVOM65U6YS6O2S7FPDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 청계천로 차 없는 거리 구간 중 관철동 지역. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구 청계천로 일부 구간이 ‘차 없는 거리’에서 ‘차 있는 거리’로 바뀐다. 서울시는 오는 12일부터 청계천로 북측 광교~삼일교 구간(약 450ｍ)의 차량 통행 제한을 푼다고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 2005년 청계천을 복원한 뒤 청계천로 880m 구간(청계광장~삼일교)을 주말마다 ‘차 없는 거리’로 운영해왔다. 20년 만에 일부 구간의 차량 운행을 허용하는 것이다. 이 구간에는 주말에도 차량이 자유롭게 오갈 수 있다. &lt;br&gt;&lt;br&gt;다만 올해 말까지 한시적으로 개방한다. 서울시 관계자는 “개방 효과를 분석한 뒤 영구 개방할지 여부를 결정할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울시가 일부 구간의 규제를 푸는 건 주변 상인들의 요구 때문이다. 종로구 관철동 상인들은 그동안 “차 없는 거리 때문에 상권이 죽었다”며 지정 해제를 요구해왔다. 이은삼 관철동문화발전위원회 사무국장은 “차량 통행이 제한되는 주말에 매출 타격이 더 크다”며 “일부 구간이라도 숨통을 틔워 달라고 지난 3월 서울시에 집단 민원을 냈다”고 했다. 서울시 관계자는 “차량 통행과 매출 간 상관관계가 있는지 확인할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;서울시는 앞서 지난 1월 서대문구 연세로의 ‘대중교통 전용 지구’를 풀었다. 신촌 상인들이 “차 없는 거리가 생긴 이후 매출이 뚝 떨어졌다”며 민원을 지속적으로 제기했기 때문이다. 당시에도 2023년 1월부터 9개월간 통행 제한을 풀고 차량 통행과 매출 간 관계를 분석했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김영훈 고용장관 후보자, 재산 12억1500만원 신고</title>
