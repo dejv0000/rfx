@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>요양병원서 같은 병실 환자에 흉기 휘두른 혐의 70대 체포</title>
+      <link>https://www.chosun.com/national/regional/2025/07/02/76YRF2IPNBFNFDHQVNPYVAJQKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/02/76YRF2IPNBFNFDHQVNPYVAJQKM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 13:33:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCBU36R3AINTT3AKLNPZU7DJZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 북부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 북부경찰서는 2일 요양병원 입소자에게 흉기를 휘둘러 다치게 한 혐의(살인미수)로 70대 남성 A씨를 현행범 체포했다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 7시 10분쯤 광주 북구 신안동 한 요양병원에서 같은 병실에 입원해 있던 60대 B씨의 안면부에 흉기를 휘둘러 다치게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 화장실 사용 문제로 말다툼을 벌이다가 B씨가 자신의 멱살을 잡자 흉기를 휘둘렀던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B씨는 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대관령휴게소 돌진한 SUV… 밥 먹다가 날벼락, 10명 중경상</title>
+      <link>https://www.chosun.com/national/incident/2025/07/02/QWJQXKHWPRAEXAITXWESOSNWFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/02/QWJQXKHWPRAEXAITXWESOSNWFQ/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 12:17:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQMFL4SKFJN2PAKDY3SWHJKG2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 11시 32분께 강원 강릉시 성산면 영동고속도로 강릉 방향 대관령 휴게소에서 80대 A씨가 몰던 스포츠유틸리티 차(SUV)가 휴게소 내 식당가로 돌진, 식당 안에 있던 10명이 중경상을 입고 인근 병원에서 치료받고 있다./강릉소방서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 여성 운전자가 몰던 SUV 차량이 고속도로 휴게소로 돌진해 10명이 중경상을 입었다. 차량은 휴게소 건물을 뚫고 들어가 식당 주방까지 부순 뒤에야 멈춰 섰다. 운전자는 “주차를 하다가 액셀을 잘못 밟았다”고 했다. &lt;br&gt;&lt;br&gt;강원도소방본부 등에 따르면, 2일 오전 11시 32분쯤 강원 강릉시 성산면 영동고속도로 강릉대관령휴게소(강릉 방면)에서 A(82)씨가 몰던 포드 익스플로러 차량이 휴게소 식당 건물로 돌진했다. 차량은 휴게소 주차장에서 식당 건물까지 약 6m를 질주한 뒤 건물 유리 벽과 철제 기둥을 뚫고 들어갔다. 사고 차량은 식당 주방까지 밀고 들어간 뒤에야 멈춰 섰다. 식탁과 의자는 형체를 알 수 없을 정도로 파손됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74TMJKDZA5AOLMPFJ2FTXFQHEA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 11시 32분쯤 강원 강릉시 성산면 영동고속도로 강릉 방향 대관령 휴게소에서 스포츠유틸리티 차(SUV)가 휴게소 내 식당가로 돌진해 10명이 중경상을 입고 인근 병원에서 치료받고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 점심 식사를 하던 B(30)씨 등 3명이 팔이 부러지는 등 중상을 입고 병원으로 이송됐다. C(60)씨 등 7명은 가벼운 부상을 당했다. 경상자 중 5명은 국내 대학 프로그램에 참석한 20대 외국인으로 조사됐다. 미국인 4명, 영국인 1명이다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “주차를 하다가 브레이크 대신 가속 페달을 잘못 밟아 사고를 냈다”고 진술한 것으로 알려졌다. 사고 당시 술을 마시거나 약물을 복용하진 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “주차장과 식당 건물 사이에 방지턱이나 울타리는 없었다”고 했다.&lt;br&gt;&lt;br&gt;고령 운전자 사고는 해마다 증가하고 있다. 한국도로교통공단에 따르면, 65세 이상 운전자가 낸 교통사고는 2020년 3만1072건에서 지난해 4만2369건으로 36% 증가했다. &lt;br&gt;&lt;br&gt;앞서 작년 7월 서울 시청역 근처 도로에선 60대 운전자가 몰던 차량이 역주행해 9명이 숨지고 7명이 다쳤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4DOTX4XFUBATTDSOHYZOPOSGIU.gif?auth=1755cee4517ac430b7690aea7e85854873ba89a88d4740e6b322eb1479c76605&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">2일 오전 11시 32분쯤 강원 강릉시 성산면 영동고속도로 강릉 방향 대관령 휴게소에서 스포츠유틸리티 차(SUV)가 휴게소 내 식당가로 돌진해 16명이 중경상을 입고 인근 병원에서 치료받고 있다. /독자 제공</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>안덕근·유상임, 내란 특검 조사 마치고 귀가… 한덕수·김정환은 조사 계속</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/02/AADESAFJMNHM5H5WLFEW3XLSOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/AADESAFJMNHM5H5WLFEW3XLSOQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 11:14:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLXVDBHWCVMVLBMWJZ26JZRVKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안덕근 산업통상자원부 장관이 2일 내란특검 조사를 마친 후 서초구 서울고검을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안덕근 산업통상자원부 장관이 2일 저녁 내란 특별검사팀 조사를 마치고 귀가했다. 조사실에 들어간 지 9시간여 만이다.&lt;br&gt;&lt;br&gt;내란 특검팀은 이날 저녁 “안 장관은 조사를 완료했다”고 밝혔다. 안 장관은 오후 7시 40분쯤 서울고검 조사실을 나섰다.&lt;br&gt;&lt;br&gt;안 장관은 지난해 12월 비상계엄 선포 직전 열린 국무회의에는 참석하지 않았지만, 해제를 위한 국무회의에는 참여했다. 특검은 그를 상대로 회의 참석 연락을 받았는지 여부와 불참 경위 등을 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이어 유상임 과학기술정보통신부 장관도 출석 5시간여 만인 오후 9시쯤 조사를 마치고 귀가했다. 유 장관 역시 계엄 선포 전 회의에는 불참했으나, 이후 열린 회의에는 참석한 인물이다.&lt;br&gt;&lt;br&gt;이날 함께 소환된 한덕수 전 국무총리, 김정환 전 대통령실 수행실장은 아직 조사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 구리시 교회에서 화재... 신도 100여명 대피 “인명 피해 없어”</title>
+      <link>https://www.chosun.com/national/regional/2025/07/02/MCBO27MLQFEU7NCG6JYLQERFHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/02/MCBO27MLQFEU7NCG6JYLQERFHA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 11:14:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL7QRSXVKJKW5KXAC6FTUHXCJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 경기도 구리시 교문동 새음교회에 화재가 발생해 소방대원들이 화재를 진압하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 6시 12분쯤 경기 구리시 교문동 한 교회에서 불이 났다.&lt;br&gt;&lt;br&gt;당시 교회에는 신도 100여명이 있었지만, 모두 대피해 현재까지 인명피해는 없는 상태다.&lt;br&gt;&lt;br&gt;경기북부소방재난본부는 이날 오후 7시 17분쯤 관할 소방서 소방관이 전부 출동하는 대응 1단계를 발령하고, 장비 28대와 인원 70명을 동원해 화재 진압에 나섰다.&lt;br&gt;&lt;br&gt;현장에는 검은 연기가 다량으로 발생했으며, 소방 당국은 불이 난 지 1시간 40여분만인 오후 7시 56분쯤 큰 불을 잡았다.&lt;br&gt;&lt;br&gt;불이 나자 구리시청은 시민들에게 “다량의 연기 발생 중. 주변 시민들께서는 현장 접근금지 주변 통행 차량 우회하기를 바란다”는 내용의 안전 문자를 전송했다.&lt;br&gt;&lt;br&gt;소방 관계자는 “화재 부지가 넓어 잔불 정리에 시간이 오래 걸릴 것으로 예상된다”며 “정확한 화재 경위 등을 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“차 멈췄다” 13대 고장 낸 ‘불량 휘발유’ 분석했더니… “99% 물”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/02/6SG6L7Q6QBGBFG7GOUDYG73LW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/02/6SG6L7Q6QBGBFG7GOUDYG73LW4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 10:15:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTZGXQLIUNDQTL2O56JDCSCT5A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;차량 주유 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산의 한 주유소에서 판매된 ‘불량 휘발유’의 성분이 물인 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;2일 군산시와 군산경찰서 등에 따르면 지난달 문제가 처음 불거진 후 채취한 시료를 한국석유관리원이 분석한 결과 성분 99%가 물인 것으로 드러났다.&lt;br&gt;&lt;br&gt;다만 군산시는 휘발유를 판매한 주유소 측이 고의로 물을 섞은 것은 아니라고 보고 있다. 주유소 지하에 매립된 석유 배관이 낡아 구멍이 뚫렸고 이로 인해 휘발유에 물이 섞이게 됐다는 분석이다.&lt;br&gt;&lt;br&gt;군산시는 최근 주유소 업주에게 경고 처분을 내렸다. 결과를 통보받은 경찰도 휘발유에 물이 흘러 들어가게 된 경위를 추가로 조사하고 있다. 피해 차량에 대한 배상은 주유소 측이 할 예정이다.&lt;br&gt;&lt;br&gt;앞서 이번 소동은 지난달 6일 오전 ‘셀프 주유소에서 휘발유를 주유했는데 차가 멈췄다’는 신고가 접수되며 알려졌다. 당시 운행을 멈춘 차량 수는 13대로 확인됐으며, 해당 주유기는 즉시 운영이 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 임성근 첫 조사 4시간만 종료… 임 “한 점 의혹 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/02/DZPRKNARYFBFZO3X3JYDUL2L4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/DZPRKNARYFBFZO3X3JYDUL2L4Y/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 10:22:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFP5MVO6ZRFOBBKYSFGXU36VDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 2일 오후 서울 서초구 서초한샘빌딩에 마련된 순직 해병 특검 사무실 앞에서 발언하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 2일 오후 6시 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병대원 특검팀의 1차 소환 조사를 마치고 “(구명 로비와 관련해) 한 점의 의혹도 없다”고 말했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오후 2시부터 약 4시간 가량 조사를 받았다. 해병 특검은 임 전 사단장이 받고 있는 과실치사 혐의와 구명 로비 의혹 등에 대해 물었다고 한다. 특검은 임 전 사단장을 추가로 불러 조사할 계획이다.&lt;br&gt;&lt;br&gt;임 전 사단장은 2023년 7월 경북 예천군 실종자 수색 작전 중 ‘수중 수색’ 등 지시를 내려 고(故) 채수근 상병이 숨지게 한 혐의(업무상 과실치사 등)를 받는다. 또 도이치모터스 주가조작 공범 이종호씨 등이 임 전 사단장을 구하기 위해 김건희 여사 측에 로비했다는 ‘구명 로비’ 의혹의 당사자다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 조사를 마치고 나와 “전반적으로 업무상 과실치사 혐의와 구명 로비 의혹에 대한 질문을 받았다”며 “그간 고위공직자범죄수사처에 수사 자료를 많이 냈고 경찰에서도 충분히 말했기에, 필요한 부분에 대해서만 선택적으로 진술했다”고 말했다. 그는 “헌법과 형사소송법에 보장된 진술거부권으로 누구든 (거부)할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;구명 로비 의혹에 관해서는 “제가 알고 있는 영역에서는 스스로 한 점의 의혹도 없다”면서도 “(이씨 등) 그분들이 어떤 활동이 있었는지는 알 수 없다”고 했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “임 전 사단장이 업무상 과실치사 혐의에 대해 상당 부분 진술을 거부했고, 다른 혐의들에 대해서는 일부 진술했다”며 “추후 소환 조사 일정을 다시 정할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 김건희 특검, 김 여사 포함 20여명 출국금지 조치</title>
       <link>https://www.chosun.com/national/court_law/2025/07/02/77MRVML7ZVHTJAADAB6Q2GF75Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/77MRVML7ZVHTJAADAB6Q2GF75Y/</guid>
@@ -865,33 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYHGEHMJDYSWBLHBXSRGJ77364.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생 시절부터 동급생을 반복적으로 폭행하고 돈을 빼앗은 고교생 9명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남경찰청은 특수폭행 및 공갈, 성폭력처벌법 위반(카메라 등 이용 촬영) 등 혐의로 고교 2학년인 A(17)군 등 9명을 불구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A군 등은 중학교 2학년이던 2022년 10월부터 올해 4월까지 같은 학교 동급생인 B군을 집단폭행하고 165차례에 걸쳐 600만원 상당의 금품을 빼앗은 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 평소 B군을 ‘노예’ ‘빵셔틀’ ‘ATM’이라고 부르며 수시로 괴롭혀왔다. 청테이프로 B군의 손목과 몸을 묶은 후 흉기를 들이밀며 겁을 주거나 전기이발기로 피해자의 머리카락을 밀고, 신체 일부를 불법 촬영해 협박하기도 했다.&lt;br&gt;&lt;br&gt;경찰 조사에서 가해 학생들은 대부분 혐의를 인정했다. &lt;br&gt;&lt;br&gt;경찰은 당초 주도적으로 범행을 저지른 A군 등 4명에 대해 구속영장을 신청했지만, 법원은 “초범이고 나이가 어린 점, 도주 우려가 없는 점 등을 고려했다”면서 영장을 기각했다.&lt;br&gt;&lt;br&gt;이들 가운데 청양 소재 고등학교로 진학한 4명은 공동학교폭력대책심의위원회에서 최근 퇴학 처분을 받았다.&lt;br&gt;&lt;br&gt;경찰은 대전과 충남 보령 등 타 지역의 학교로 진학한 5명에 대해서도 범행을 확인하고 A군 등과 함께 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>충남대 민주동문회, “이진숙 교육부장관 지명 재검토해야” </title>
-      <link>https://www.chosun.com/national/education/2025/07/01/P6CPS64HLNH77CNJWSLNXH4AJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/01/P6CPS64HLNH77CNJWSLNXH4AJM/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 09:37:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMHSJSOLQ3KM5MBDLEFCPHK74Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남대 민주동문회가 “이진숙 전 충남대 총장의 교육부 장관 지명을 재검토하라”고 요구했다.&lt;br&gt;&lt;br&gt;민주동문회는 1일 성명을 내고 “이 후보자는 2022년 충남대 평화의 소녀상 건립 과정에 비협조로 일관, 교직원을 동원해 학생들을 겁박하는 기대 이하의 역사 인식을 보였다”고 주장했다. 또 “2023년 글로컬 대학 선정을 위한 한밭대와의 통합 추진 과정에서도 일방적·권위적 행태로 학내 구성원들의 자존감에 생채기를 남겨, 결국 통합 논의는 흐지부지됐다”고 했다. 주로 진보 성향 졸업생들로 구성된 민주동문회는 2022년 당시 충남대 캠퍼스 내 평화의 소녀상 건립을 촉구한 바 있다.&lt;br&gt;&lt;br&gt;충남대 출신인 이 후보자는 2020년부터 2024년까지 제19대 충남대 총장을 지냈다. &lt;br&gt;&lt;br&gt;충남대 철학과 교수인 양해림 교수는 이 후보자를 두고 “총장으로서 민주적 리더십 부재, 무능, 그리고 불통의 표본이었다”고 했다. 충남대 교내에 위안부 평화의 소녀상 설치 논의가 있었을 때 이 후보자를 둘러싼 외압 의혹이 있었으며, 캠퍼스 개발 과정에서 구성원들과 소통을 충분히 거치지 않았다는 주장이다. 진보 성향 교육단체 모임인 ‘교육대개혁 국민운동본부’ 등은 이 후보자의 미흡한 유·초등 교육 경력을 우려한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>남편 흉기로 살해한 70대 아내…구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/07/01/VI745YSTYRAHTHS6PMLVHPRDEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/01/VI745YSTYRAHTHS6PMLVHPRDEM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 09:10:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6VW6LQFYLGO42C5EAEF64WJFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 남편을 흉기로 찔러 숨지게 한 혐의로 구속된 70대 아내가 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 살인 혐의로 70대 여성 A씨를 검찰에 송치했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 앞서 상해치사 혐의로 A씨를 구속했으나, A씨가 남편을 숨지게 할 의도를 갖고 범행한 것으로 보고 죄명을 변경했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 23일 인천시 중구 자택에서 70대 남편 B씨를 흉기로 여러 차례 찔러 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 당시 사위에게 연락해 “남편이 넘어져 다친 것 같다”며 신고를 요청하고, 딸의 집으로 간 것으로 파악됐다. &lt;br&gt;&lt;br&gt;사위의 신고를 받고 출동한 경찰과 소방 당국은 집 안에서 알몸 상태로 숨져 있는 B씨를 발견했다. &lt;br&gt;&lt;br&gt;A씨는 “남편이 알몸 상태로 외출하려고 해 언쟁이 있었고, 그 뒤 상황은 기억나지 않는다”는 취지로 경찰에 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;국립과학수사연구원은 B씨 시신을 부검한 뒤, 경찰에 “예리한 물건으로 베인 흔적들이 보인다”면서도 “이런 흔적이 결정적인 사망 원인인지는 더 조사해봐야 한다”는 구두 소견을 전달했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “(피의자는)기억이 안 난다고 진술하고 있으나, 상해 횟수 등을 종합적으로 고려해 볼 때 살인죄를 적용하는 게 맞는다고 보고 죄명을 변경했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주 병원서 의료진 7명 SFTS 집단감염 …“추가 전파 우려 없어”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/01/GZ33GT6XCVAPNP4OBOOD2HL2OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/01/GZ33GT6XCVAPNP4OBOOD2HL2OM/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 09:03:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCUKEJOZTNSM6PYP4HFS6SFNLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 유성구 만년교 인근 하천에서 유성구보건소 방역기동반 직원들이 진드기 방역소독을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 대형 병원에서 진드기 매개 질환인 중증열성혈소판감소증후군(SFTS) 환자를 돌보던 의료진 7명이 심폐소생술 과정에서 집단으로 2차 감염된 것으로 확인됐다. 질병관리청은 의료진이 마스크와 보안경 등 보호장구를 착용했음에도 환자의 혈액 및 체액에 노출돼 2차 감염된 것으로 판단하고, 역학조사와 접촉자 관리를 진행 중이다.&lt;br&gt;&lt;br&gt;1일 질병청에 따르면, 한 60대 SFTS 환자가 지난달 2일부터 발열 등 증상으로 4일 보은 소재 병원에 입원했다가, 5일 청주의 한 종합병원으로 전원됐다. 9일에는 증상이 나빠져 청주의 상급종합병원으로 이송됐다. 여기서 상태가 급격히 악화해 11일 중환자실에서 심폐소생술을 받던 중 다발성 장기부전으로 사망했다.&lt;br&gt;&lt;br&gt;당시 심폐소생술에 참여한 의료진 중 9명이 지난달 17일부터 20일까지 발열·두통·근육통 등 증상을 보였고, SFTS 진단검사가 시행됐다. 그 결과 7명이 SFTS 양성 판정을 받았다. 현재는 이들 모두 증상이 사라진 상태다.&lt;br&gt;&lt;br&gt;질병청은 심폐소생술 등 처치 과정에서 2차 감염이 벌어진 것으로 판단하고 있다. 질병청은 SFTS 환자의 혈액·체액에 직접 노출된 의료진과 장례지도사, 간접적 노출 가능성이 있는 의료진과 가족 등을 대상으로 최대 잠복기인 28일 동안 증상 발생 여부를 추적 관찰하고 있다.&lt;br&gt;&lt;br&gt;SFTS는 주로 바이러스를 보유한 참진드기에 물려 감염된다. 다만 고농도의 SFTS 바이러스를 배출할 것으로 예상되는 중증 환자 등을 치료하는 과정에서 혈액 및 체액에 노출될 경우 비말을 통해 사람 간 전파도 가능하다.&lt;br&gt;&lt;br&gt;2014년부터 이번 사례까지 SFTS 사람 간 2차 감염자는 총 35명이다. 이 가운데 의료 종사자는 34명, 장례지도사는 1명이다. 2차 감염된 의료 종사자의 대부분은 SFTS 환자에게 기관삽관·심폐소생술 등 고위험 시술을 하는 과정에서 감염됐다. 지영미 질병청장은 “이번 사례를 통해 의료기관 내 SFTS 2차 감염 위험성을 재확인했다”며 “의료진은 환자 치료 시 개인 보호구를 착용하는 등 안전 수칙을 철저히 준수해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>北 핵폐수 방류 의혹에 원안위 “강화도 조사 결과 정상”</title>
       <link>https://www.chosun.com/national/national_general/2025/07/01/WT6HRQILDNGGDGG2JH4VVXLZR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/WT6HRQILDNGGDGG2JH4VVXLZR4/</guid>
@@ -937,24 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4KCWIR4TNNTPNRKCJG2ELUQYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 시민 80명이 독도 동도 선착장에서 가로 30m, 세로 20m 크기의 태극기를 펼치고 있다. /서경덕 성신여대 교수·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민 10명 중 3명 꼴로 대한민국을 선진국으로 여긴다는 설문조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;국무조정실 광복 80년 기념사업추진기획단이 광복 80주년을 앞두고 시행한 설문조사 결과에 따르면, ‘지금 우리나라는 국제사회에서 어느 정도 지위를 차지한다고 생각하느냐’는 물음에 응답자의 27.8%가 선진국이라고 답했다. 중상위권이라는 응답자는 39.3%, 중진국이라는 응답자는 22.6%였다. 8.3%는 중하위권, 1.2%는 저개발국이라고 답했다.&lt;br&gt;&lt;br&gt;응답자 성별·연령별로 보면, 10·20대(18~29세) 남자의 42.3%는 한국이 선진국이라고 답했으나, 여자는 24.8%만이 선진국이라고 했고, 51.0%는 중상위권이라고 했다. 20대도 남자는 36.6%가 한국을 선진국으로 봤지만 여자는 21.3%만이 그랬다. 40·50대에서는 한국이 선진국이라는 응답이 남녀 모두 21.0~24.5%였다. 60대 남녀와 70대 이상 여자는 30% 이상이 한국을 선진국으로 봤고, 70대 남자만 23.5%였다.&lt;br&gt;&lt;br&gt;다만 한국이 선진국이라는 응답은 지난 20년 동안 크게 증가한 것이다. 2005년 광복 60년 조사에선 1.8%, 2015년 광복 70년 조사에선 8.2%였다. 한국이 선진국이라는 응답자는 10년 새 19.6%포인트 늘었다.&lt;br&gt;&lt;br&gt;‘우리 민족의 역사에 대해 대체로 얼마나 자랑스럽다고 생각하느냐’는 물음에는 응답자의 90.6%가 ‘자랑스럽다’고 했다. 2005년 조사에선 69.1%, 2015년 조사에선 83.3%였는데 더욱 늘어난 것이다. 세부 응답별로 보면, ‘매우 자랑스럽다’가 41.6%, ‘대체로 자랑스럽다’가 49.0%였다. ‘별로 자랑스럽지 못하다’는 7.8%, ‘전혀 자랑스럽지 못하다’는 1.1%였다.&lt;br&gt;&lt;br&gt;오늘날의 한국 사회에 대한 응답자들의 만족도는 분야별로 엇갈렸다. 응답자의 78.8%가 문화 발전, 49.4%가 경제 발전, 43.7%가 사회 질서 안정에 만족한다고 답했으나, 남북관계에 대해선 21.6%, 국민 통합은 21.0%, 정치 발전은 15.1%만이 만족한다고 했다. 불만족한다는 응답은 정치 발전(83.5%), 국민 통합(76.7%), 남북관계(72.6%), 사회 질서 안정(55.2%), 경제 발전(50.1%), 문화 발전(19.0%) 순으로 높았다.&lt;br&gt;&lt;br&gt;‘앞으로 우리나라가 어떤 나라가 되었으면 좋겠다고 생각하느냐’는 물음에는 24.8%가 ‘민주주의가 성숙된 나라’를 꼽았다. 19.1%는 ‘경제적으로 부유한 나라’, 다른 19.1%는 ‘사회 질서가 안정된 나라’를 바란다고 했다. 14.2%는 ‘미래 변화에 선제적으로 대응하는 나라’, 12.5%는 ‘국제사회에서 영향력을 발휘하는 나라’, 9.3%는 ‘남북한이 통일된 나라’였다.&lt;br&gt;&lt;br&gt;이번 조사는 광복 80년 기념사업추진기획단 의뢰로 여론조사 업체 리서치랩컨설팅이 지난 4월 24일부터 27일까지 전국 18세 이상 남녀 1500명을 대상으로 시행했다. 전화 면접 100% 방식이었고, 표본 오차는 95% 신뢰 수준에서 ±2.5%포인트였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>조지호 측 “국회 월담자 방치해 계엄 해제 도왔다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/01/ZQLDDXTGDVHQ5OUFQWVS7OVRIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/ZQLDDXTGDVHQ5OUFQWVS7OVRIQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 08:11:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USE5Z2PAN5IFPADBKKQ7BABYDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담했다는 이유로 탄핵 소추된 조지호 경찰청장 측이 1일 “(계엄 당시)대통령과 계엄사령관 직권 남용의 피해자”라고 주장했다. 또 당시 국회 월담을 방치해 사실상 계엄 해제 결의를 도왔다고도 했다.&lt;br&gt;&lt;br&gt;조 청장 측 변호인은 이날 헌법재판소에서 열린 탄핵심판 첫 변론 준비 기일에서 이같이 주장했다. 이날 기일은 작년 12월 12일 국회에서 탄핵소추된 지 약 7개월 만에 열린 것으로, 준비 절차를 담당하는 수명재판관으로 지정된 조한창·정정미 재판관이 주재했다. 조 청장은 출석하지 않았다.&lt;br&gt;&lt;br&gt;헌재는 조 청장의 탄핵 소추 사유를 세 가지로 정리했다. ①12·3 비상계엄 당시 국회를 봉쇄하고 출입 통제해 국회 계엄해제 요구권과 심의·표결권을 침해하고 국헌 문란 목적의 내란에 가담한 것 ②경찰 최고책임자로서 중앙선거관리위원회 시설에 경찰을 배치해 출입을 통제한 것 ③전국노동자대회에서 바리케이트를 설치해 경찰과 충돌을 유도하고 과잉 진압해 집회의 자유를 침해한 것 등이다.&lt;br&gt;&lt;br&gt;조 청장 측 변호인은 “국회 담벼락은 높이가 1.2m, 둘레가 4㎞로 완벽히 통제하려면 70개 중대 220대 버스가 필요하다”며 “조 청장은 그날 저녁 대통령 말을 듣고도 6개 중대 300여명만 투입해 국회를 관리했다. 이는 우발 상황에 대비한 최소한의 조치였다”고 했다. 또 “최초에는 출입을 허가해줬고 형식적으로는 정문을 통제했지만 사실상 월담을 방치함으로써 실제 국회 계엄해제 의결을 하는 데 조력했다”고 말했다. &lt;br&gt;&lt;br&gt;헌재는 조 청장의 형법상 내란죄와 직권남용죄를 탄핵소추 사유로 유지할 것인지 물어봤고, 국회 측은 유지하겠다고 답했다. 조 청장은 윤 전 대통령의 내란에 가담한 혐의로 올해 1월 기소돼 형사재판을 받고 있다.&lt;br&gt;&lt;br&gt;국회 측 법률대리인은 “윤석열 전 대통령 탄핵심판에서는 내란죄 성립 여부를 구체적으로 다투지 않았지만 그건 당시 형사재판이 시작되기 전이고 언제 끝날지 몰랐기 때문이었다”고 했다. 이어 “현재 형사재판에서 내란죄 성립 여부가 핵심 사안으로 중요하게 다뤄지고 있고 재판도 상당부분 진행이 됐다”며 “형사재판에서 나오는 증거와 결과가 이 재판정에 충분히 반영될 수 있었으면 한다”고 말했다. &lt;br&gt;&lt;br&gt;조 청장 측은 이에 “동일한 사건의 형사 재판이 진행 중이라는 이유로 탄핵 심판이 정지된 사례가 있다”며 “형사재판에서 받고 있는 혐의를 철회하지 않는다면, (탄핵심판 정지를)한번 검토해주셨으면 한다”고 말했다. 그러면서 “새 정부가 들어섰고 누군가 (경찰청장으로)임명을 받아야 하는데 탄핵심판이 걸림돌이 될까 봐 걱정된다는 것이 조 청장의 마음”이라고 했다. &lt;br&gt;&lt;br&gt;헌재는 조 청장의 형사재판을 담당하는 서울중앙지법 형사25부와 비상계엄 관련 내란·외환죄를 수사하는 조은석 특별검사팀, 서울중앙지검 등에 관련 기록 사본을 요청했다. 오는 22일 준비 기일을 한 차례 더 열고, 소추 사유에 대한 양측의 세부적인 입장을 듣기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>암 치료 후 업무 복귀한 이철우 지사… 기자들 빵 터뜨린 한마디</title>
-      <link>https://www.chosun.com/national/2025/07/01/TIBGWRGURJEWBBKZWEH7NIVJWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/01/TIBGWRGURJEWBBKZWEH7NIVJWU/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 06:34:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DN2JF3II3VC5FKOK576OCSGXS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경북 안동시 경북도청 다목적홀에서 이철우 경북도지사가 민선 8기 3주년을 맞아 도정 성과와 향후 계획에 대해 브리핑하고 있다. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암 치료를 위해 지난 5월 29일부터 자리를 비운 이철우 경북도지사가 한 달여 만인 1일 출근해 도정 브리핑을 진행했다. &lt;br&gt;&lt;br&gt;암 진단 후 33일 만에 모습을 보인 이 지사는 두 차례에 걸친 항암 치료로 머리숱이 줄어들고 약간 야윈 모습이었으나 시종 밝은 표정이었다. &lt;br&gt;&lt;br&gt;이 지사는 모두 발언에서 “우선 암 판정을 받고 치료를 위해 자리를 비운 점에 대해 심려를 끼쳐 죄송하다”며 “한 달 정도는 체력 회복에 집중하고 8월부터 APEC을 비롯한 당면 현안에 올인하겠다”고 했다. &lt;br&gt;&lt;br&gt;그는 도정 브리핑에서 “당장 10월에 열리는 경주 APEC 정상회의를 직접 챙기면서 차질 없이 준비하겠다”고 말했다. 또 “산불 피해 지역을 재건하는 특별법 제정과 포항 영일만항 개발, 수소·바이오 산업 육성 등 경북의 현안에 대해 이재명 대통령을 직접 만나 협조를 요청할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “대구경북 통합 신공항은 광주 공항처럼 국가 주도로 군 공항을 이전하는 개념으로 접근하는 게 가장 실효성이 있다”며 “광주나 수원보다 먼저 추진되기를 희망하고, 대구·경북 행정 통합도 독자적인 추진보다 국가 과제로 채택해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이재명 정부와의 협조에 대해선 “새 정부의 실용 정책을 긍정적으로 평가하면서 대통령 고향이 안동이고, 민선 7기 도지사를 같이 하면서 지역에 대한 애착이 있다는 것을 느꼈다”며 “이 정부의 정책이 경북도의 정책과 유사한 점이 많은 만큼 경북 발전을 위해 협조 체계를 구축하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFXMDI3J2FFJHEPDATQFWEXMPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경북 안동시 경북도청 다목적홀에서 이철우 경북도지사가 민선 8기 3주년을 맞아 도정 성과와 향후 계획에 대해 브리핑하고 있다. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 말미에&lt;b&gt; &lt;/b&gt;“떡 먹고 체한 줄 알았는데 암 판정을 받았다”며 “암은 스트레스가 원인도 되는 만큼 여러분들이 경북도정 기사를 잘 써주면 제가 기분이 좋아져 병도 빨리 나을 수 있으니 도와 달라”고 하자 폭소가 터져 나왔다. &lt;br&gt;&lt;br&gt;당초 이날 도정 브리핑은 양금희 경제부지사가 할 예정이었으나 지난달 29일 밤 이 지사가 직접하는 것으로 결정된 것으로 알려졌다. 일각에선 이 지사의 암 투병과 관련 시중에 확인되지 않은 각종 낭설들이 많이 나돌아 이를 진화하기 위해 직접 참석한 것 아니겠느냐는 시각도 있다. &lt;br&gt;&lt;br&gt;이 지사는 지난 5월 27일 복통을 호소하며 병원 진료를 받은 후 암진단을 받았다. 그 동안 이 지사의 치료 과정과 향후 거취를 놓고 지역 정치권에선 온갖 설이 쏟아져 나왔다. 특히 내년 도지사 선거가 있는 만큼 이 지사가 3선에 나오느냐가 지역 최고의 관심사였다. 이 지사의 3선 도지사 출마는 어렵게 됐다는 소문과 함께 야당인 국민의힘 쪽 인사들의 출마설이 줄을 이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“최태성도 쉽지 않아”…한국사시험 100점 맞은 최초 연예인</title>
       <link>https://www.chosun.com/national/national_general/2025/07/01/P62SWPANMVELNEU4YSRAIG2WFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/01/P62SWPANMVELNEU4YSRAIG2WFY/</guid>
@@ -962,15 +974,6 @@
       <description/>
       <pubDate>Tue, 01 Jul 2025 03:12:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3LONOZPJNMCJKVL74HIIIUA64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서경석./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 출신 방송인 서경석(53)이 공인중개사 자격증을 취득한 데 이어 연예인 최초로 한국사능력검정시험에서 만점을 받았다고 밝혔다. &lt;br&gt;&lt;br&gt;서경석은 1일 KBS ‘아침마당’에 출연해 지난 2월 치른 제73회 한국사능력검정시험에서 100점을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;그는 “(이 점수는)하늘이 내린 점수”라며 “그날 컨디션이 어떤지, 내가 좋아하는 내용이 얼마나 나왔느냐에 달렸다. 모든 기운이 그날 나에게 온 것”이라고 말했다. &lt;br&gt;&lt;br&gt;이어 “역사 전문가 최태성 선생님도 제대로 시험 보면 만점 쉽지 않을 거다. 친구니까 편하게 얘기하는 것”이라며 농담하기도 했다. &lt;br&gt;&lt;br&gt;서경석은 총 4번 시험에 응시했다. 그는 “80점이 넘으면 1급인데, 처음에는 가채점으로 81점이 나왔다. 실제 점수는 79점이 나왔다. OMR 카드에 번호를 잘못 옮겨 적었다”며 “만만하게 보면 안 되겠다 싶어서 시간이 좀 걸리고 괴롭더라도 바로바로 답을 표기하는 습관을 들였다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “두 번째 시험에서는 94점을 받았다. 개인 채널에 시험 후기를 올렸더니 수험생분들이 같이하자고 하더라. 더 높은 점수를 받아 보자고 또 봤고 99점을 받았다”며 “그만하려고 했는데, 마지막으로 한 번 더 보자 해서 봤다. 100점은 하늘이 내려야 하는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;시험을 본 계기에 대해서는 “어릴 때부터 역사를 좋아했다”고 말했다. 특히 그는 과거 MBC ‘느낌표’에서 해외로 유출된 문화재를 찾아오는 방송을 진행한 것을 계기로 역사를 제대로 배워보고 싶다는 생각을 했다고 한다.&lt;br&gt;&lt;br&gt;서경석은 “최태성 선생님 덕에 (시험을) 본 건 아니다”라며 “(최태성과는) 프로그램을 통해 알게 됐고, 9박 10일간 함께 여행하며 친해졌다. 좋아하는 역사 전문가였기에 가까워지고 싶었다. 모르는 것도 물어보면서 친해졌다”고 말했다.&lt;br&gt;&lt;br&gt;서울대 불어불문학과를 졸업한 서경석은 1993년 MBC 공채 개그맨으로 데뷔했다. 데뷔 후에도 그는 사이버한국외국어대학교 한국어학 학사, 중앙대학교 신문방송대학원 석사 학위를 취득하는 등 학문을 이어왔다.&lt;br&gt;&lt;br&gt;앞서 서경석은 2020년 공인중개사 시험에 도전해 1차 시험 합격 후 2021년 12월 2차 시험까지 통과하며 자격증을 취득하기도 했다. 당시 그는 유튜브 채널을 통해 “마지막 한 달은 고시원에 들어가 공부하고, 방송 끝나면 다시 공부하러 돌아갔다”며 합격 수기를 전했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검 “尹에 7월 5일 오전 9시 출석 통지"</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/01/3PGCN6JAZZDA5C2AKP2W2QTPU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/01/3PGCN6JAZZDA5C2AKP2W2QTPU4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 01 Jul 2025 02:15:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5QAXKAAWG3SUGK37YIT2NFC44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 29일 새벽 서울 서초구 서울고등검찰청 청사에 마련된 내란특검 사무실에서 피의자 신분으로 조사를 마친 뒤 귀가하고 있다.(공동취재)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄’ 관련 내란·외환 사건을 수사 중인 조은석 특별검사팀은 1일 윤석열 전 대통령의 불출석에 따라 오는 5일로 출석일을 다시 지정해 재소환 통보했다.&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 오전 브리핑에서 “윤 전 대통령이 금일 특검 출석에 불응했다”며 “7월 5일 오전 9시까지 출석하라고 통지했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 특검보는 “어제 윤 전 대통령 측이 7월 5일 이후에는 출석에 응하겠다는 취지를 밝힌 상황”이라고 했다. 윤 전 대통령 법률대리인단은 전날 특검에 5일 또는 6일 출석이 가능하다는 내용의 기일 변경 요청서를 제출한 바 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 이번에도 출석하지 않을 경우 체포영장 등 강제수사 조치를 검토하겠다는 방침이다. 박 특검보는 “7월 5일에도 불응한다면, 요건이 갖춰진 이상 법원에서도 (체포영장을) 내주지 않겠느냐는 생각이 든다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
