@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 상법 개정안 국회 본회의 통과</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209436.jpg" alt="4567.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;여야가 합의한 상법개정안이 3일 국회 본회의에서 통과되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 03 Jul 2025 06:11:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209436</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209436</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209436.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>금감원, 방시혁 의장 소환 조사...사기적 부정거래 혐의</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209432.jpg" alt="208749.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;방시혁 하이브 의장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;하이브 투자자들에게 기업공개(IPO) 계획이 없다고 속이고 상장을 추진한 혐의를 받는 방시혁 하이브 의장을 금융감독원이 불러 조사했다. &lt;br /&gt;&lt;br /&gt;3일 금융투자업계에 따르면, 금감원은 방 의장을 자본시장법상 사기적 부정거래 혐의로 지난달 말 소환 조사했다. &lt;br /&gt;&lt;br /&gt;방 의장은 하이브 상장 전 투자자와 벤처캐피털(VC) 등 기존 투자자들에겐 기업공개 계획이 없다고 한 뒤 지인이 설립한 사모펀드에 지분을 팔게 한 혐의를 받는다. 방 의장은 이 사모펀드 업체로부터 지분 매매 이익의 30%를 넘겨받기로 계약을 쓰고 하이브 증권신고서에는 누락한 것으로 알려졌다. 방 의장이 사모펀드로부터 받은 이익은 4000억 원대로 전해졌다. &lt;br /&gt;&lt;br /&gt;금감원은 조사를 거쳐 금융위원회 증권선물위원회를 통해 제재와 검찰 고발 여부를 결정할 것으로 보인다.</description>
+			<pubDate>Thu, 03 Jul 2025 05:35:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209432</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209432</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209432.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '故 이예람 중사 명예훼손' 중대장 유죄, 대대장 무죄 확정</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209420.jpg" alt="209420.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;20일 서울 동작구 국립서울현충원에서 열린 고(故) 이예람 중사 봉안식에서 유가족이 고인의 유골함을 어루만지고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;고(故) 이예람 공군 중사 사망 사건과 관련해 이 중사 명예를 훼손한 혐의로 기소된 중대장과 수사를 맡았던 군검사에게 징역형 집행유예가 확정됐다. 가해자 분리 조치를 제대로 하지 않은 등 혐의로 함께 기소된 대대장은 무죄를 확정 받았다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5554"&gt;서경환&amp;nbsp;&lt;/span&gt;대법관)는 7월 3일 김모 전 중대장과 박모 전 군검사에게 각각 징역 1년에 집행유예 2년, 김모 전 대대장에 대해 무죄를 선고한 원심을 확정했다(&lt;b&gt;2024도19673&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계 및 하급심]&lt;/b&gt;&lt;br /&gt;김 전 중대장은 이 중사에 대한 강제추행 사건이 발생한 뒤 이 중사가 전입하기로 한 제15특수임무비행단 중대장에게 이 중사에 대해 "이 중사가 사소한 언급만 해도 고소를 하려고 한다"고 허위사실을 말해 명예를 훼손한 혐의, 박 전 군검사는 이 중사에 대한 2차 가해 정황을 알면서도 수사를 소홀히 하고, 책임을 피하기 위해 윗선에 '이 중사 측 요청으로 조사기일이 연기됐다'고 허위보고한 혐의로 기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 김 전 중대장에게 징역 1년을 선고했으나, 항소심은 “적극적으로 허위사실을 전파하려고 했던 것은 아니며 자신의 발언이 초래할 구체적 위험성을 제대로 인식하지 못했던 것으로 보인다"며 징역 1년에 집행유예 2년을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;박 전 군검사 역시 1심에서 징역 1년을 선고받았으나, 항소심은 징역 1년에 집행유예 2년을 선고했다. 항소심은 "박 씨가 피해자가 사망에 이르게 한 주된 원인으로 평가하기 어렵고, 자신의 불성실한 직무를 진심으로 반성하는 모습을 보인다"며 양형 이유를 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;강제추행 사건 발생 후 가해자 차단 조치를 하지 않아 지휘관으로서 직무를 유기한 혐의를 받은 김 전 대대장은 1과 항소심에서 모두 무죄를 받았다. 조치가 부족한 면이 있었더라도 의식적으로 방임 내지 포기한 것은 아니라는 취지다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 세 사람에 대한 원심 판결을 확정했다. 대법원은 "원심 판단에 논리와 경험의 법칙을 위반해 자유심증주의 한계를 벗어나거나 법리를 오해한 잘못이 없다"고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Thu, 03 Jul 2025 04:35:46 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209391</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209391.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 김·장 조세쟁송그룹, 최신 이론·판례 19편 담은 《조세실무연구16》 발간</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/209389.jpg" alt="209389.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.kimchang.com/ko/main.kc" target="_blank"&gt;김·장 법률사무소&lt;/a&gt;&lt;/b&gt; 조세쟁송그룹이 최신 조세이론 및 실무에 관한 논문을 비롯한 판례평석 등의 연구자료 19편을 엮은 세무 전문서적 &lt;b&gt;《조세실무연구16》&lt;/b&gt;을 펴냈다.&lt;br /&gt;&lt;br /&gt;조세실무 시리즈는 조세 실무에서 겪게 되는 여러가지 쟁점들에 대한 연구 성과물과 김·장 법률사무소에서 수행하거나 주목할만한 판례들에 대한 평석을 담은 지침서다. 2009년부터 매년 발간돼 이번 책이 16번째다.&lt;br /&gt;&lt;br /&gt;집필에는 김·장 법률사무소 조세쟁송그룹의 변호사, 회계사, 세무사, 관세사 등 19명의 전문가들이 참여했다.&lt;br /&gt;&lt;br /&gt;책은 논문 6편, 평석 13편으로 구성됐다. 중요판례분석과 조세 분야에서 꾸준히 쟁점이 되고 있는 개정 세법의 적용 범위에 관한 문제를 조세법률주의와 부칙 규정의 합헌적 해석의 관점에서 다룬다. 납세자가 선택한 거래형식을 실질과세원칙을 근거로 재구성할 수 있는지 여부에 대해서는 부가가치세법을 중심으로 분석한 연구를 담았다. 또한 미국 법인세법의 기초개념을 설명하고, 관세 실무에 대한 논문을 비롯해 국가의 흥망성쇠와 관련된 세금의 역사를 통해 얻을 수 있는 교훈을 함께 소개하고 있다.&lt;br /&gt;&lt;br /&gt;13편의 판례평석은 국세기본법, 법인세법, 소득세법, 상속세 및 증여세법 등 세법 전반 및 국제조세조정에 관한 법률 등에 걸친 다양한 쟁점들을 짚는다. 주세법, 지방세법, 관세법 분야의 판례들이 담겼다. 이를 통해 과세관청과 납세자간의 분쟁과 이에 대한 법원의 고민을 생생하게 접할 수 있도록 했다.&lt;br /&gt;&lt;br /&gt;자료집 편찬에 참여한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6140"&gt;조성권&lt;/span&gt;(58·사법연수원 23기) 변호사는 "김앤장 조세쟁송그룹은 매년 발간하는 조세실무연구 시리즈를 통해 조세분야 실무자와 연구자들에게 깊이 있는 인사이트를 제공해 오고 있다"며 "전문성과 현실성을 겸비한 이번 신간자료 또한 여러 관계자들에게 유용한 실무가이드로 자리매김하길 기대한다"고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7625"&gt;이재홍&lt;/span&gt;(69·10기) 변호사는 간행사에서 "조세 제도는 국가 재정의 근간이자 경제 발전 및 소득 재분배 등 중요한 정책의 수단으로서 지속적인 연구와 발전을 통해 이러한 변화에 발맞추어 나아갈 필요가 있다"며 "조세 전문가는 당면한 실무상의 쟁점들을 깊이 있게 연구하고 널리 알림으로써 우리 조세제도 전반의 발전과 성숙을 도모해야 할 의무가 있다"고 말했다.</description>
-			<pubDate>Wed, 02 Jul 2025 05:23:50 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209389</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209389</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209389.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>지평, 프로젝트리츠 통합지원센터 발족</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209392.jpg" alt="5647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김형준 전문위원, 송한사·이석재(센터장)·이승환·이준혁·강민제·김보슬·박상배·강상원 변호사(앞줄 좌측부터 반시계 방향) 《사진=법무법인 지평》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;법무법인 지평&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;)은 리츠펀드그룹과 금융자문그룹, 건설·부동산그룹의 전문가들로 구성된 '프로젝트리츠 통합지원센터'를 발족했다고 2일 밝혔다.&lt;br /&gt;&lt;br /&gt;2025년 11월부터 시행되는 개정 부동산투자회사법에 선제적으로 대응하기 위해서다. 이번 개정안은 리츠를 통한 부동산개발사업 투자 활성화를 위해 '프로젝트리츠(Project REITs)' 제도를 도입하는 것이 핵심이다. 이를 통해 △개발사업 준공 전까지 주식분산의무·공모의무 면제 △영업인가 없이 설립신고만으로 영업행위 가능 △준공 후 공모의무기간 5년 연장 등의 규제 완화가 적용될 예정이다.&lt;br /&gt;&lt;br /&gt;프로젝트리츠 통합지원센터는 프로젝트리츠 설립 단계에서부터 개발, 운영 단계에 이르기까지 전 과정을 아우르는 통합적 자문 체계를 갖추고, 단계별로 마주할 수 있는 다양한 이슈에 효과적으로 대응할 수 있도록 지원할 계획이다.&lt;br /&gt;&lt;br /&gt;센터장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8835"&gt;이석재&lt;/span&gt;(49·사법연수원 31기) 변호사가 맡는다. 이 변호사는 국내 최초 앵커리츠인 이리츠코크렙 공모 상장을 비롯해 다수의 대형 리츠 거래를 자문했다. △리츠펀드 분야는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7940"&gt;이준혁&lt;/span&gt;(56·30기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14590"&gt;이승환&lt;/span&gt;(50·36기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="26014"&gt;강상원&lt;/span&gt;(43·43기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="32553"&gt;김보슬&lt;/span&gt;(37·변호사시험 5회) 변호사, 김형준 전문위원 △금융 분야는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9867"&gt;안상훈&lt;/span&gt;(49·32기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14085"&gt;박상배&lt;/span&gt;(51·36기) 변호사 △건설·부동산 분야는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11008"&gt;송한사&lt;/span&gt;(49·33기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="28602"&gt;강민제&lt;/span&gt;(41·4회) 변호사가 주요 구성원으로 참여한다.&lt;br /&gt;&lt;br /&gt;이석재 센터장은 "프로젝트리츠 제도 도입의 초기부터 축적한 경험과 실무 역량을 바탕으로, 시장 참여자들이 새로운 제도를 안정적으로 활용할 수 있도록 종합적이고 실질적인 자문을 제공하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;한편 지평은 2023년 12월부터 2024년 8월까지 국토교통부가 발주한 '부동산투자회사법령 체계 개편안 연구 용역'을 수행하며, 프로젝트리츠 도입을 제안하고 신설 규정(개정 부동산투자회사법 제26조의4) 마련에 참여한 바 있다.</description>
-			<pubDate>Wed, 02 Jul 2025 05:22:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209392</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209392</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209392.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
