@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>배우 이선균 협박해 3억원 뜯어낸 유흥업소 실장 보석</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/03/ZLGTM3F7DNDPHCMG4ETDMRTW2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/ZLGTM3F7DNDPHCMG4ETDMRTW2Y/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 09:01:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고(故) 이선균씨를 협박해 3억여 원을 뜯어낸 혐의로 기소된 유흥업소 실장이 석방됐다. &lt;br&gt;&lt;br&gt;3일 법조계에 따르면 공갈 등 혐의로 재판에 넘겨진 유흥업소 실장 A(31)씨가 지난달 26일 인천지법 형사항소3부(재판장 최성배)의 보석 허가 결정에 따라 최근 인천구치소에서 풀려났다. &lt;br&gt;&lt;br&gt;법원은 오는 16일 예정된 A씨의 항소심 선고공판에 앞서 구속 기간이 만료될 것으로 보고 보석을 허가한 것으로 파악됐다. A씨의 구속 만료 기간은 지난 6월 30일이었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;형사소송법상 항소나 상고 등 상소심에서는 구속 기간을 2개월씩 최대 3차례까지 갱신할 수 있는데, A씨의 경우 1심 선고 이후 지난해 12월과 2월, 4월 등 3회에 걸쳐 구속 기간이 갱신됐다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 9월 이씨에게 “휴대전화가 해킹돼 협박받고 있는데, 입막음용으로 돈이 필요하다”며 3억원을 뜯어낸 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;A씨를 협박한 해킹범은 같은 아파트에 살면서 평소 친하게 지낸 전직 영화배우 B(30)씨였던 것으로 드러났다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 지난해 12월 1심 재판에서 각각 징역 3년 6개월과 4년 2개월을 선고받았고, 판결에 불복해 2심 재판 중이다. B씨의 경우 A씨와 달리 구속 만료 기간이 아직 남아 있어, 여전히 구속 상태인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 내란 재판서 “이첩 무효” vs “꼬투리 잡기” 특검과 공방</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/03/HE6EKZKF2JEBVCLSRBIYMGRL44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/HE6EKZKF2JEBVCLSRBIYMGRL44/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 10:01:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWRDZV5OOOMZOQSDMVWLCALNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 윤석열 전 대통령이 서초동 서울중앙지법에서 열린 내란 우두머리 혐의 재판에 출석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 내란 혐의 사건을 넘겨받은 조은석 특별검사팀과 법정에서 공방을 벌였다. 윤 전 대통령 측은 검찰 비상계엄 측별수사본부가 특검에 사건을 이첩한 절차에 흠결이 있어 무효라고 주장했고 특검 측은 “납득할 수 없는 주장”이라고 반박했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 3일 윤 전 대통령의 내란 우두머리 혐의 9번째 재판을 열었다. 본격적인 재판에 앞서 윤 전 대통령 측은 특검이 검찰 특수본으로부터 내란 혐의 사건을 이첩받은 것이 무효라고 주장했다. 특검은 특수본에 사건 ‘인계’를 요구했을 뿐 ‘이첩’을 요구한 적은 없는데 사건을 이첩했다는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 위현석 변호사는 “특검법에서 ‘인계’는 특검 수사 대상인 사건을 넘겨받는 규정이고 ‘이첩’은 특검 수사 대상 중 공소유지 중인 각 사건 자체를 넘겨받는 규정”이라며 둘을 구분해야 한다고 했다. 수사 단계의 사건을 넘기는 ‘인계’와 기소가 이뤄져 재판 중인 사건을 넘겨받는 ‘이첩’을 구분해야 한다는 취지다. 그러면서 “이첩 요구가 없었는데도 이첩한 것은 법률에 따르지 않은 것으로 무효”라고 했다. &lt;br&gt;&lt;br&gt;그러자 박억수 특검보는 “인계 요청에 이첩 요청이 포함되는 것”이라며 “법과 상식에 비춰봤을 때 납득될 수 없는 주장”이라고 맞섰다. 그러면서 “누구나 알 수 있는 내용을 갖고 (꼬투리를) 잡고 있다”고 했다. 특검에 파견된 조재철 부장검사는 “(변호인 주장은) 특검법을 곡해하는 독자적인 해석”이라고 했다. &lt;br&gt;&lt;br&gt;이날 재판에서는 고동희 전 국군정보사령부 계획처장(대령)에 대한 증인 신문이 이뤄졌다. 고 대령은 계엄 당시 무장한 부대원 9명과 함께 경기 과천 중앙선거관리위원회로 출동해, 서버실을 확보하는 임무를 현장 지휘한 인물이다. 내란에 가담한 혐의로 지난 2월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;고 대령은 작년 12월 3일 계엄이 선포되기 약 5시간 전인 오후 5시쯤 문상호 당시 정보사령관으로부터 “오늘 야간에 상부 지시로 과천 중앙선관위 청사에서 임무가 있으니 출동 준비하라”는 지시를 받았다고 증언했다. 구체적인 임무가 무엇인지 묻는 검사 질문에 “선관위로 출입을 통제하고 서버실 위치를 확인한 뒤, 거길(서버실을) 지키고 있으면 된다는 지시였다”고 했다. &lt;br&gt;&lt;br&gt;고 대령은 이후 밤 9시 24분쯤 문 전 사령관으로부터 전화가 와 “30분 뒤 10시에 TV에 속보가 나올 거니 잘 지켜보라. 지켜보면 임무 시기를 알 수 있을 것”이라는 얘기를 들었다고 했다. &lt;br&gt;&lt;br&gt;고 대령은 문 전 사령관 지시에 따라 서버실 내부로 진입한 뒤 사진을 촬영해 전송했고, 선관위 당직 근무자들이 근무할 수 있도록 하되 휴대폰을 사용해 외부 연락을 할 수 없게 통제했다고 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;고 대령은 이후 이튿날 새벽 부대로 복귀하며 “떳떳하지 못한 일에 연루된 것 같다는 생각이 들었다”고 했다. 그러면서 부대원들에게 ‘우리 이상한 일에 휘말린 것 같다. 메신저 단체방부터 폭파하라’라고 지시했다고 했다.&lt;br&gt;&lt;br&gt;재판부는 다음 재판에서 고 대령 증인 신문을 마무리하고, 선관위 서버 반출과 관련해 증인 신문을 이어가기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북 포항에 식품로봇센터 들어선다...美위생협회와 업무협약</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/03/EOVB7UXWGZDHDHNUGWOCORMTKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/EOVB7UXWGZDHDHNUGWOCORMTKM/</guid>
+      <dc:creator>포항=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 09:27:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXW7ZYM2TVCE7LZBNFGBWOHPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항시에 들어설 식품로봇 푸드테크 연구지원센터 조감도/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항시에 식품 개발에 로봇 기술을 접목하는 연구 지원센터가 들어선다.&lt;br&gt;&lt;br&gt;3일 포항시 등에 따르면 이날 북구 흥해읍 포항융합기술산업지구에서 ‘식품로봇 푸드테크 연구지원센터(연구센터)’ 착공식이 열렸다. 이강덕 포항시장, 양금희 경북도 경제부지사, 주원철 농림축산식품부 식품산업정책관 등 200여 명이 참석했다.&lt;br&gt;&lt;br&gt;연구센터는 연면적 2500㎡ 규모로 실증센터, 키친 인큐베이팅, 공동 연구 장비실 등으로 구성되며 2026년 준공 예정이다. 총 사업비 155억원이 투입된다.&lt;br&gt;&lt;br&gt;연구센터에선 식품 로봇 기술 개발부터 외식업체별 맞춤형 주방 자동화 기술 등을 연구할 수 있다. 글로벌 식품 기기 인증을 지원하는 기관 역할도 수행한다.&lt;br&gt;&lt;br&gt;이날 착공식에서 포항시와 경북도는 미국위생협회(NSF)와 ‘글로벌 푸드테크 인증 협력’을 위한 업무협약을 체결했다. NSF는 식품 로봇 등 상업용 식품 기기 품질과 안전성을 검사하는 국제 공인 기관으로, 이 기관에서 인증을 받은 제품만이 북미와 유럽 시장으로 진출할 수 있다. &lt;br&gt;&lt;br&gt;이 협약을 통해 포항의 식품 로봇 푸드테크 연구지원센터는 미국·유럽에 이어 아시아 최초 NSF 시험인증기관으로 지정될 예정이다. 시험인증기관으로 지정되면 국내 기업들의 제품 인증 기간이 기존 6개월에서 1개월로 줄어들고 인증 비용도 절감할 수 있다.&lt;br&gt;&lt;br&gt;이강덕 포항시장은 “푸드테크 산업은 포항의 미래를 이끌 성장 동력이자 대한민국 식품 산업이 세계로 도약하는 출발점”이라며 “연구 지원 센터를 K푸드 세계화를 선도하는 핵심 거점으로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “윤상현 콜마 부회장, 父에 증여받은 주식 임의 처분 안돼"</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/03/2PPTLICUYBFUVFVKAWLUR2U7HI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/2PPTLICUYBFUVFVKAWLUR2U7HI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 08:44:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMYKLV6HYRE2PKQKKM2CA3XGBA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;콜마그룹 창업주인 윤동한(78) 한국콜마 회장이 장남 윤상현(51) 콜마홀딩스 대표이사 부회장에게 증여한 주식을 임의로 처분해선 안 된다는 법원 결정이 나왔다. &lt;br&gt;&lt;br&gt;3일 법조계와 한국콜마에 따르면 서울중앙지법은 윤동한 회장이 아들 윤상현 부회장을 상대로 낸 ‘주식 처분 금지’ 가처분 신청을 최근 인용했다. 이는 윤동한 회장이 지난 5월 법원에 윤상현 부회장에게 증여한 주식을 돌려달라는 ‘주식 반환 청구’ 소송을 내면서, 소송 결과가 나오기 전까지 주식 처분을 막아달라며 함께 신청한 것이다.&lt;br&gt;&lt;br&gt;윤동한 회장은 지난 2019년 경영 일선에서 물러나면서 자신이 갖고 있던 지주사 콜마홀딩스 주식 28.18%를 아들과 딸, 사위 등에게 증여했다. 윤상현 부회장은 이때 230만주를 받았고, 현재 무상증자로 460만주까지 늘어났다. 이후로 아들 윤상현 부회장이 그룹 지주사 콜마홀딩스를, 딸 윤여원 사장은 자회사 콜마비앤에이치 경영을 각각 맡아왔다. &lt;br&gt;&lt;br&gt;그런데 최근 윤상현 부회장이 콜마비앤에이치에 자신과 이승화 전 CJ제일제당 부사장을 사내이사로 선임하라고 요구하면서 남매 간 경영권 분쟁이 불거졌다. 윤여원 사장이 임명을 거부하자, 윤상현 부회장은 이사회 개편을 위한 임시 주주총회를 열 수 있게 해달라며 소송을 냈다. 이에 맞서 윤여원 사장은 위법 행위 중지 가처분 신청을 했다. &lt;br&gt;&lt;br&gt;여기에 윤동한 회장이 아들을 상대로 주식 반환 소송을 내며 부자 다툼으로까지 확대된 것이다. 윤동한 회장과 윤여원 대표 측은 아버지와 남매 3자 간 경영 합의를 윤 부회장이 어겼다고 주장하고 있다. 콜마홀딩스·한국콜마로 대표되는 화장품·제약 부분은 윤상현 부회장이, 콜마비앤에이치로 대표되는 건강기능식품 부문은 윤여원 대표가 맡기로 했는데 이를 위반했다는 것이다. &lt;br&gt;&lt;br&gt;콜마홀딩스 지분은 윤상현 부회장이 31.75%로 가장 많이 갖고 있다. 윤여원 대표와 남편이 10.62%를, 윤동한 회장이 5.59를 보유 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“너네 궁합 잘 맞아” 남녀 부하직원끼리 결혼 각서 강요한 본부장</title>
       <link>https://www.chosun.com/national/court_law/2025/07/03/OORNQTFVAZFRRKYSKWFKEQBHAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/OORNQTFVAZFRRKYSKWFKEQBHAI/</guid>
@@ -914,33 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CXR453DNCL7ICX7KBPVPFVUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;골프공 이미지. /픽사베이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70세 이상에게 회원권 판매를 거부한 골프클럽이 국가인권위원회의 차별 시정 권고를 받았다. &lt;br&gt;&lt;br&gt;2일 인권위에 따르면, 경기도 소재 A 골프클럽은 작년 5월 회원권을 구매하려는 진정인에게 ’70세 이상은 회원 가입을 할 수 없다’는 회칙을 들어 돌려보냈다. &lt;br&gt;&lt;br&gt;클럽 측은 골프장이 산지에 있어 급경사가 많고 고령자 안전사고가 발생해 불가피한 조치라고 주장했다.&lt;br&gt;&lt;br&gt;다만 인권위는 클럽 측의 이 같은 해명에도 70세 이상 회원권 구매 제한은 차별이라고 판단했다. 우선 인권위는 기존 회원의 경우 70세를 넘어도 자격이 소멸하거나 중단되지 않는다는 점을 들어 클럽 측 주장이 합리적이지 않다고 봤다. 또 개인 회원 중 70세 이상 회원이 49.4%로 상당한 비율을 차지하는데, 이 나이대 사고 발생 비율이 전체의 13.6%에 불과하다며 연령대와 사고 발생의 인과관계가 명확하지 않다고 판단했다. &lt;br&gt;&lt;br&gt;인권위는 클럽 측에 고연령 회원에 대한 보험 가입을 강화하고, 그 비용을 회원과 함께 부담하는 방안 등을 제안했다. &lt;br&gt;&lt;br&gt;인권위는 “최근 노인에 대한 부정적인 편견이나 고정관념에 의거해 스포츠 시설 이용에서 노인을 일률적으로 배제하는 ‘노 시니어 존’ 현상이 벌어지고 있다”며 “우리나라가 이미 초고령사회에 들어선 만큼, 노인의 건강할 권리뿐 아니라 적극적으로 문화와 여가를 향유할 권리도 보장될 수 있기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란특검, 유상임 과학기술정보통신부 장관 오후 3시30분 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/YJJO7XHCZFFYZNOU2PO7UHRRNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/YJJO7XHCZFFYZNOU2PO7UHRRNE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 05:40:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKGDH7FB63KBJISTFSTQBLPJVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유상임 과학기술정보통신부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특별검사팀이 2일 오전 10시 한덕수 전 국무총리와 안덕근 산업통상자원부 장관에 이어, 오후 3시 30분 유상임 과학기술정보통신부 장관을 소환했다.&lt;br&gt;&lt;br&gt;유 장관은 안 장관과 마찬가지로 비상계엄 선포 직전 열린 국무회의에 불참한 인물이다. 특검은 유 장관을 상대로 당시 회의에 참석하지 않은 경위 등을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;특검은 비상계엄 선포 당시 국무회의에 참석하지 않았더라도 관련 국무위원들을 잇따라 소환하고 있다. 비상계엄 전후 정황을 규명하겠다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘코요태 신지’ 예비남편 이혼 고백 “딸 있지만 전처가 키워”</title>
-      <link>https://www.chosun.com/national/people/2025/07/02/S666DYNWCJAVDCVJI6YQ624DW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/02/S666DYNWCJAVDCVJI6YQ624DW4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 05:50:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZV6Q3V7BYNHYTLODRFWJZG6BAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신지와 문원이 함께 발표하는 듀엣곡 ‘샬라카둘라’ 포스터. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼성그룹 ‘코요태’ 멤버 신지(44·본명 이지선)와 결혼을 앞둔 가수 문원(37·본명 박상문)이 초혼이 아니라는 사실을 고백했다.&lt;br&gt;&lt;br&gt;신지는 2일 자신의 유튜브 채널을 통해 문원과 함께 코요태 김종민, 빽가와 만나 상견례 겸 식사를 하는 모습을 공개했다. &lt;br&gt;&lt;br&gt;이 자리에서 문원은 “좀 놀라실 수도 있는 이야기다. 결혼을 한 번 했었다. 그리고 사랑스러운 딸이 한 명 있다”며 “전 부인이 키우고 있지만 서로 소통도 하고 아이를 위해 하나하나 신경 쓰려고 노력하고 있다”고 고백했다.&lt;br&gt;&lt;br&gt;문원은 “(신지가) 처음에는 몰랐다가 서로 깊어진 것 같으니까 솔직해져야겠다고 생각했다”며 “‘네가 좋으니까, 널 사랑하니까 포용할 수 있다’는 신지의 한마디가 저한테 엄청 힘이 됐다”고 했다.&lt;br&gt;&lt;br&gt;신지는 “얼마나 혼자 끙끙 앓았겠나. 힘들었겠다 싶었다. 우리가 아닌 제3자를 통해 오빠(종민)나 빽가가 알게 되면 서운할 수 있다고 생각한다”며 “지금 문원에 대해 많은 분이 잘 모르지만, 점점 알려지면 누군가의 입에서 이야기가 나오면 (실망을 줄 수 있으니) 우리가 직접 밝히는 게 맞겠다고 생각했다”고 설명했다.&lt;br&gt;&lt;br&gt;신지는 “이 사람의 책임감이 난 오히려 좋아 보였다”며 “나 몰라라 하는 사람이 아니라 자기 아이를 지키려고 하고 책임감 있게 케어하려는 모습이 사실 나한테는 좋아 보였다. 나한테도 저런 모습을 보여줄 수 있겠구나 싶었다”고 했다.&lt;br&gt;&lt;br&gt;빽가는 “둘이 좋으면 내가 신경 쓸 부분이 아니라고 생각한다. 난 오히려 이런 자리가 더 좋은 것 같다”고 응원했다. 김종민 역시 “다른 거 없다. 너희가 행복했으면 좋겠다. 우리가 바라는 건 딱 하나다. 눈치 보지 말고 둘 눈만 봐라”고 말했다.&lt;br&gt;&lt;br&gt;신지는 “후련하다. 발표하기 전에 멤버들에게 이야기하려고 했다. 그런데 발표가 돼서 순서가 뒤바뀌긴 했는데, 멤버가 너희만 행복하면 된다고 하니까 좋다”고 했다.&lt;br&gt;&lt;br&gt;두 사람은 내년 상반기 서울 모처에서 결혼식을 올릴 예정이다. 두 사람은 이미 웨딩 화보도 촬영한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰서 코앞에서 음주 뺑소니… 퇴근하던 경찰에 딱 걸렸다 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/02/QK3GYC4L2NAKFOLM3KCO3DZ3GE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/02/QK3GYC4L2NAKFOLM3KCO3DZ3GE/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 05:16:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDGF67KKDFFPVCCT42I3SCVKFY.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰서 앞에서 음주 상태로 불법 유턴을 하다 택시를 들이받은 차량(빨간색 원)이 도주하고 있다. 공교롭게 정문을 통해 퇴근하던 경찰이 이 상황을 바로 앞에서 목격하곤 그대로 추격에 나섰다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 상태로 경찰서 앞 도로에서 택시를 들이받고 그대로 도주하던 차량이 마침 퇴근하던 경찰관에게 붙잡힌 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;2일 강원경찰청에 따르면, 지난 5월 14일 오후 10시 57분쯤 춘천경찰서 앞 도로에서 30대 A씨가 몰던 승용차가 불법 유턴을 하다 직진하던 택시 앞 범퍼를 들이받았다. &lt;br&gt;&lt;br&gt;A씨는 아무런 조치를 하지 않은 채 그대로 달아났고, 이에 택시 기사는 차량 밖으로 나와 다급하게 “저 차 잡아주세요”라고 소리쳤다. &lt;br&gt;&lt;br&gt;이런 상황이 벌어졌을 당시는 공교롭게 춘천경찰서 교통관리계 소속 정명재 경감이 근무를 마치고 퇴근하던 중이었다. 정 경감은 차량을 타고 정문을 나서던 중 이 상황을 코앞에서 목격하곤 그대로 뺑소니 차량을 추격하기 시작했다. 이어 사고를 당한 택시와 또 다른 시민도 함께 달아나는 승용차를 쫓았다.&lt;br&gt;&lt;br&gt;그렇게 400m가량 이어진 A씨의 도주극은 춘천시 온의동 한 아파트 차단기에 차량이 가로막히면서 막을 내렸다. 뺑소니 차량을 뒤따르던 시민, 택시 운전사가 A씨 차량 주변을 막아 포위했고, A씨는 현장에서 경찰관에게 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 당시 상황이 담긴 경찰서 앞 방범카메라 영상과 A씨를 추격한 경찰관 차량의 블랙박스 영상을 유튜브 채널을 통해 공개하기도 했다. 영상에는 이 같은 모습이 고스란히 담겼다. &lt;br&gt;&lt;br&gt;경찰이 A씨의 혈중알코올농도 수치를 측정한 결과 0.2%가 넘는 면허 취소 수준이었던 것으로 조사됐다. 경찰은 도로교통법상 사고 후 미조치·음주운전 혐의로 A씨를 지난달 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 임성근 전 해병대 1사단장, 순직 해병 특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/02/T5I5YKUUOZFMLNG7ELJOI2T4N4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/T5I5YKUUOZFMLNG7ELJOI2T4N4/</guid>
@@ -966,15 +975,6 @@
       <description>2일 오전 11시 32분쯤 강원 강릉시 성산면 영동고속도로 강릉방면 강릉대관령 휴게소에서 80대 A씨가 몰던 포드 익스플로러 SUV 차량이 휴게소 식당가로 돌진하는 사고가 발생했다.</description>
       <pubDate>Wed, 02 Jul 2025 04:18:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3LGG2URQBFUHNFF6DJ3T6A7AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 강원 강릉시 영동고속도로 강릉대관령휴게소에서 포드 익스플로러 SUV 차량이 휴게소 식당가로 돌진하는 사고가 발생, 119 소방대원들이 구조 작업을 벌이고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 11시 32분쯤 강원 강릉시 성산면 영동고속도로 강릉 방면 강릉대관령 휴게소에서 80대 A씨가 몰던 포드 익스플로러 SUV 차량이 휴게소 식당가로 돌진하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 3명이 크게 다쳐 원주 세브란스기독병원과 강릉 아산병원, 강릉의료원으로 각각 이송됐으며, 또 다른 3명도 경상을 입어 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;당시 운전자는 음주나 약물 운전을 한 상태는 아니었으며, 경찰에 페달을 잘못 조작했다고 진술할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, ‘李 대통령 재판 연기’ 헌법소원 3건 줄줄이 각하</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/UVD6BHIIEVHCJKGIWEHF3C46XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/UVD6BHIIEVHCJKGIWEHF3C46XA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 03:17:09 +0000</pubDate>
-      <content:encoded>이재명 대통령의 형사 재판을 ‘헌법 84조’에 따라 미룬 법원 결정에 대해 제기된 헌법소원이 줄줄이 각하됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGDXDFCOHXGTORTSUAHFXMANIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 헌법재판소는 지난달 24일 대통령의 불소추 특권을 규정한 헌법 84조가 위헌임을 확인해달라는 헌법소원을 각하했다. 헌재는 “헌법 조항 자체는 심사 대상이 될 수 없으므로 심판 요건을 갖추지 못했다”고 밝혔다. 헌법 84조는 ‘대통령은 내란 또는 외환의 죄를 범한 경우를 제외하고는 재직 중 형사상의 소추를 받지 않는다’는 대통령의 불소추 특권을 규정한 조항이다.&lt;br&gt;&lt;br&gt;헌재는 또 이 대통령의 재판 지연과 불소추 특권 적용의 위헌성을 판단해달라며 제기된 헌법소원 2건도 전날 각하했다. 헌재는 “법원의 재판은 헌법소원의 대상이 될 수 없다”고 설명했다. 이와 유사한 취지의 또 다른 헌법소원 1건은 심리 중이다.&lt;br&gt;&lt;br&gt;앞서 이 대통령의 공직선거법 위반 사건 파기환송심을 맡은 서울고법과 대장동 사건 등을 맡은 서울중앙지법은 헌법 84조를 이유로 지난달 예정됐던 공판 기일을 취소하고 ‘기일 추후 지정’으로 무기한 연기한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
