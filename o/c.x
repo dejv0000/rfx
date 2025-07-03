@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김주현 전 민정수석, 내란 특검 조사 12시간 10분 만에 귀가</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/03/E57Q5EY7RREYNCA6TYB7IKV7TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/E57Q5EY7RREYNCA6TYB7IKV7TQ/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 13:09:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBZN2PWIHACSWZJ5VJSTN7KFTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석이 3일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실로 조사를 받기위해 출석하고 있다. 2025.7.3/뉴스1 ⓒ News1 이승배 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 내란 특별검사팀에 소환된 김주현 전 민정수석이 오후 9시 57분 조사를 마치고 귀가했다. 이날 오전 9시 47분 출석한 지 12시간 10분 만이다.&lt;br&gt;&lt;br&gt;김 전 수석은 서울고검 청사를 나와 ‘대통령 안전가옥(안가) 회동이 여전히 친목모임이라 해명했냐’ ‘친목모임이면 안가에서 하면 안 됐던 것 아니냐’는 등의 취재진 질문에는 답하지 않은 채 곧장 집으로 향했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 윤석열 전 대통령의 핵심 법률 참모였던 김 전 수석을 상대로 불법 계엄을 사후 은폐하도록 조언했는지, 계엄을 사전에 인지하거나 그 과정에 가담했는지 등을 조사한 것으로 알려졌다. 특히 계엄 해제 당일인 작년 12월 4일 대통령 안가에서 이뤄진 이른바 ‘안가 회동’을 구체적으로 규명하는 데 집중했다고 한다.&lt;br&gt;&lt;br&gt;당시 모임에는 김 전 수석, 박성재 전 법무부 장관, 이상민 전 행정안전부 장관, 이완규 법제처장 등이 참석했는데, 이들은 모두 단순 친목 모임이었다는고 주장해 왔다. 그러나 특검팀은 안가 회동이 계엄의 불법성을 확인하고, 계엄 선포문 작성과 서명을 통해 향후 법적 요건을 충족시킬 방법을 논의하기 위한 자리가 아니었는지 의심하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 앞서 강의구 전 대통령실 부속실장에게서 “계엄 이후 김 전 수석으로부터 ‘대통령의 국법상 행위는 문서로 해야 하는데 비상계엄 관련 문서가 있냐’는 질문을 받았다”는 취지의 진술을 받았다. 강 전 실장은 이후 새로 비상계엄 선포 문건을 작성해 한덕수 전 국무총리와 김용현 전 국방부 장관의 서명을 받았지만, 며칠 뒤 한 전 총리가 ‘없던 일로 하자’고 요청해 문건을 폐기했다고 한다.&lt;br&gt;&lt;br&gt;한편 특검팀은 김 전 수석뿐만 아니라 김성훈 전 경호처 차장도 불렀는데, 김 전 차장은 현재 심야 조사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>라이브 방송하며 노래방 도우미 부른 서울시 시보 공무원 해임</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/03/2OYFWCY4WBAOFD5HJ6POBN63MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/2OYFWCY4WBAOFD5HJ6POBN63MU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 12:49:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/76XHBTEF2JA7NDHR4FAFI75FV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 청사 전경. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유흥주점에서 라이브 방송을 진행하며 노래방 도우미를 부른 서울의 한 구청 소속 시보 공무원 A씨가 중징계인 해임 처분을 받았다.&lt;br&gt;&lt;br&gt;3일 서울시에 따르면 시는 지난달 27일 열린 인사위원회에서 구청 소속 30대 A씨에 대해 품위 유지 의무를 위반했다며 해임을 의결했다.&lt;br&gt;&lt;br&gt;지방공무원 해임은 파면, 해임, 강등, 정직, 감봉, 견책 등 6가지다. 정직 이상이면 중징계로 분류된다. 해임될 경우 3년간 공무원 재임용이 불가능하다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 유흥주점을 방문해 노래방 도우미를 불러놓고 라이브 방송을 한 사실이 알려져 조사를 받아왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘부당대출 의혹’ 농협중앙회 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/03/OE64RTNFYJA7VH3WO7XHB6IWSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/OE64RTNFYJA7VH3WO7XHB6IWSI/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 12:42:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLI6TLYASIJL5DVBEOTXPDCYSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사1부(부장 이준동)는 NH농협은행의 부당 대출 의혹과 관련해 3일 서울 서대문구 농협중앙회 본부 사무실을 압수 수색했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 농협은행이 서영홀딩스가 대출 조건을 충족하지 못하는데도 공사비를 부풀린 계약서를 근거로 200억원대 대출을 해 준 혐의를 수사 중이다. 지난 2월 농협은행 본사, 서영홀딩스, 서영산업개발그룹 등을 압수 수색했다. 지난 5월에는 한상권 서영홀딩스 대표의 구속영장을 청구했지만 법원은 “범죄혐의에 대해 다툴 여지가 있고 방어권을 보장할 필요가 있다”며 기각했다.&lt;br&gt;&lt;br&gt;농협은행의 서영홀딩스 부당 대출 의혹은 2023년 국정감사에서 처음 제기됐다. 농협은행이 신용보증기금의 보증이 나오기 전에 서영홀딩스에 100억원을 대출했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘공천 보장 대가’ 금품 받은 前 언론인 구속</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/07/03/LHK2OBBY4ZFKDH4Q2ATKPQHPFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/07/03/LHK2OBBY4ZFKDH4Q2ATKPQHPFA/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 11:25:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUCBS45U4SXYPLTGY4ZENG2CGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방선거 공천을 대가로 뒷돈을 받았다는 의혹을 받는 전직 언론인이 구속됐다.&lt;br&gt;&lt;br&gt;광주지법 김연경 영장전담 부장판사는 3일 정치자금법 위반 혐의로 A씨에 대해 “도주 및 증거 인멸 우려가 있다”면서 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;언론인으로 활동한 A씨는 전남지역의 한 기초단체장 선거 출마를 준비하던 B씨로부터 특정 정당의 공천을 받는 것을 돕는 대가로 금품을 받은 혐의를 받는다. B씨는 과거 전남도청 고위 간부로 근무했으며, 퇴직 후 정치활동을 벌여왔다.&lt;br&gt;&lt;br&gt;검찰은 지난달 A씨와 B씨에 대해 구속영장을 청구했지만 법원에서 기각되자 추가 수사를 벌여 A씨에 대해서만 구속영장을 재청구했다.&lt;br&gt;&lt;br&gt;검찰은 B씨가 A씨에게 제공한 금품이 지역 정치인에게 전달됐을 가능성을 배제하지 않고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 올해 첫 폭염 사망자 발생… 온열질환자 작년 두 배</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/07/03/USFGNRFRTZDMRCSOB4WCOYFZJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/07/03/USFGNRFRTZDMRCSOB4WCOYFZJE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 03 Jul 2025 10:37:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AQ6ZFVBFFLIDLOCE737WVQRUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염 특보가 발효된 3일 경기 수원시 영통구 망포동에서 살수차량이 도로에 물을 뿌리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염 특보가 이어지는 가운데 올해 경남 지역 첫 온열질환 사망자가 발생했다.&lt;br&gt;&lt;br&gt;경남도는 지난 2일 진주시에 거주하는 80대 여성 1명이 비닐하우스에서 쓰러진 상태로 발견돼 병원으로 옮겨졌지만 숨졌다고 3일 밝혔다. 병원 응급실에서는 ‘온열질환에 따른 사망’으로 분류했다. 이는 올해 경남도내 첫 사례다. 이날 경남 지역 18개 시군 전역에는 폭염 특보가 발효된 상태였다. &lt;br&gt;&lt;br&gt;같은 날 경남에서만 16명의 온열질환자가 나왔다. 지역별로는 창원 5명, 김해·창녕·산청 각 2명, 통영·밀양·거제·거창·합천 각 1명이다.&lt;br&gt;&lt;br&gt;올해 5월 15일부터 지난 2일까지 경남도내 누적 온열질환자는 총 69명(사망 1명 포함)이다. 이는 지난해 같은 기간 35명의 두 배 수준이다.&lt;br&gt;&lt;br&gt;경남도 관계자는 “물을 자주 마시고, 무더운 시간대에 야외 활동과 작업을 가급적 피해야 한다”면서 “불가피할 경우에는 충분한 휴식 시간을 가져야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>배우 이선균 협박해 3억원 뜯어낸 유흥업소 실장 보석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/03/ZLGTM3F7DNDPHCMG4ETDMRTW2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/ZLGTM3F7DNDPHCMG4ETDMRTW2Y/</guid>
@@ -912,51 +957,6 @@
       <description/>
       <pubDate>Wed, 02 Jul 2025 06:59:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CP3WLVPTMDABHXW7UFPSNUODJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송하윤. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 폭력 의혹이 제기된 뒤 사실상 활동을 중단했던 배우 송하윤이 약 1년 만에 구체적으로 해명에 나섰다. &lt;br&gt;&lt;br&gt;송하윤 측 법률대리인은 2일 입장문을 통해 “그간 송하윤 배우는 최초 유포자인 오모씨의 주장이 허위임을 입증하기 위한 증거 수집에 힘써 왔다”며 “그 결과 다수 증거를 자체 수집했고, 이를 바탕으로 오씨에 대한 형사 고소를 제기한 상태”라고 밝혔다. &lt;br&gt;&lt;br&gt;송하윤 측은 처음 학폭 의혹을 제기한 오씨 주장이 모두 사실무근이라며 그를 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 및 위계에 의한 업무방해 혐의로 형사 고소한 상태라고 밝혔다. &lt;br&gt;&lt;br&gt;송하윤 측은 “배우는 고등학교 재학 시절 오 모 씨에 대해 어떤 폭력도 행사한 사실이 없고, 학폭으로 인해 강제 전학을 간 사실도 없다”며 “이들 주장이 허위임을 드러내는 공공기관 자료 및 공증 진술서와 증거를 수사기관에 제출했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “오씨가 자신이 당한 폭행 사건의 목격자로 지목했던 고교 동창으로부터 그러한 폭행을 목격한 사실 자체가 없음을 확인받았다”며 “해당 동창은 자신이 그러한 사건을 목격한 적 없음을 오씨에게도 명확히 밝혔으나, 그럼에도 오씨가 자신을 목격자로 포장해 방송 제보 등을 강행했다고 알려왔다”고 했다. 또 “고교 재학 당시 담임선생님과도 연락이 닿아 송하윤 배우가 학교폭력으로 강제 전학을 갔다는 주장이 금시초문이라는 확인을 받았다”며 “여러 동창들도 직접 나서 ‘누군가를 해하는 사람이 절대 아니다”라는 진술을 해줬다”고 했다. &lt;br&gt;&lt;br&gt;송하윤 측은 현재 미국에 거주 중인 오씨가 관련 수사에 불응하고 있다고도 했다. 송하윤 측은 “경찰은 오씨가 정당한 사유 없이 수사기관의 출석 요구에 응하지 않음에 따라 지난 5월경 ‘지명통보 처분’을 내리고 경찰 전산망의 수배자 명단에 등록했다”며 “이에 따라 오씨가 국내에 입국할 시 수사가 곧바로 재개될 예정”이라고 했다. 그러면서 “송하윤은 미국 내에서 취할 수 있는 법적 조치에 대해 추가 검토 중”이라며 “허위 사실 유포에 가담한 제삼자에 대해서도 민·형사상 책임을 묻는 방안을 준비하고 있다”고 했다. &lt;br&gt;&lt;br&gt;송하윤 측은 작년 학폭 의혹이 처음 제기됐을 당시 적극적인 대응에 나서지 않았던 이유에 대해선 “섣부른 해명보다는 객관적인 수사를 통해 진실이 밝혀지는 것이 우선이라고 판단해 입장을 전하기까지 시간이 걸렸다”고 했다. 그러면서 “없었던 일을 입증하는 것은 너무도 어려운 일이었고 그만큼 적극적인 대응을 하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;송하윤의 학폭 논란은 작년 4월 불거졌다. 당시 한 남성이 방송 프로그램과 온라인 커뮤니티 등을 통해 자신이 2004년 고등학교 3학년 당시 송하윤에게 폭행을 당했다고 주장했다. 이 남성은 자신이 놀이터로 불려 나가 영문도 모른 채 90분간 따귀를 맞았다며, 송하윤이 또 다른 학폭 사건에 연루돼 다른 고등학교로 전학을 갔다고도 했다. &lt;br&gt;&lt;br&gt;당시 송하윤 측은 “사실이 아니다”라는 짧은 입장만 밝혔을 뿐 구체적인 해명은 하지 않았다. 이후 방송 등에 모습을 드러내지 않으면서 사실상 활동을 중단했다. &lt;br&gt;&lt;br&gt;송하윤은 최근 기존 소속사와의 계약도 만료된 상태다. 새로운 소속사 계약을 조율하며 활동 재개를 준비 중인 것으로 알려졌다. 이번에 약 1년 만에 입장을 낸 송하윤 측은 “새로운 환경에서 새로운 마음가짐으로 다시 대중 앞에 서고자 준비하고 있다”며 “더욱 겸손한 자세와 성숙한 모습으로 보답드릴 수 있도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“2주 남은 입주, 벌써 기다려져요”… 인천 ‘천원주택’ 입주, 7월 중 본격화</title>
-      <link>https://www.chosun.com/national/regional/2025/07/02/QCL5WEBM7FACBATHPCRVECY2SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/02/QCL5WEBM7FACBATHPCRVECY2SA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 06:48:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKND4L4ZSROI3I6OAGRWHG4LBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장(사진 가운데)이 2일 오전 인천 미추홀구 숭의동의 천원주택 입주 행사에서 주형환(왼쪽 두번쨰) 저출산고령사회위원회 부위원장 및 입주자 가족 등과 테이프커팅을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“천원주택에 살면서 열심히 돈을 모아, 몇 년 뒤엔 꼭 새 아파트를 분양받고 싶어요.”&lt;br&gt;&lt;br&gt;인천 미추홀구 숭의동에 사는 하모(여‧29)씨는 요즘 새 가구를 고르고, 집안 짐 정리를 하는 등 이사 준비를 하며 설레는 시간을 보내고 있다. &lt;br&gt;&lt;br&gt;무주택 신혼부부 등이 하루 1000원 정도인 한달 3만원의 임차료로 최장 6년간 살 수 있는 이른바 ‘천원주택’ 입주자로 선정돼 오는 16일 입주를 앞두고 있기 때문이다. &lt;br&gt;&lt;br&gt;하씨가 살게 될 천원주택은 현재 살고 있는 곳에서 얼마 떨어지지 않은 곳에 있다. 2023년 12월 준공된 숭의동의 한 신축빌라로, 약 72㎡ 면적에 방이 3개다. 4살짜리 아들과 11개월 딸 쌍둥이를 키우면서 남편과 함께 살아가는 데 부족함이 없다는 게 그의 설명이다. &lt;br&gt;&lt;br&gt;2024년 인천도시공사가 매입한 이 빌라는 전용면적 60∼77㎡ 규모의 44세대로 구성됐다. 가구당 방이 2∼3개이고, 주차면도 44면을 갖추고 있다. 경인전철 1호선 제물포역이 걸어서 7분 거리에 있고, 주변에 어린이집과 유치원 등이 있다. &lt;br&gt;&lt;br&gt;하씨는 “무엇보다 세 아이가 다니는 어린이집이 천원주택 바로 옆에 있어서, 그 부분이 가장 좋을 것 같다”고 했다. 그는 “지금 살고 있는 집에 비해 보증금과 임차료 부담이 절반 이상 크게 줄어들 것으로 예상한다”며 “이곳에 최대한 오래 살면서 열심히 저축해, 새 아파트를 분양 받아 이사 가고 싶다. 새 이웃들과도 함께 재미있게 살고 싶다”고 말했다. &lt;br&gt;&lt;br&gt;인천시에 따르면 천원주택 입주가 7월 중 본격화된다. &lt;br&gt;&lt;br&gt;지난달 5일 500명이 입주자로 선정됐는데, 하씨처럼 1~200번째로 선정된 사람들이 가장 먼저 입주를 원하는 천원주택을 선택하고 계약 절차를 밟고 있다.&lt;br&gt;&lt;br&gt;계약을 마무리한 사람들은 계약일 기준 60일 이내에 700만~1200만원의 보증금 납부와 입주를 마무리 해야 하는데, 현재 17가구가 입주를 마무리했다. &lt;br&gt;&lt;br&gt;201~400번째로 선정된 사람들은 이달 중, 401~500번째로 선정된 사람들은 8월 중 각각 입주할 천원주택 선정 절차를 밟을 예정이다. &lt;br&gt;&lt;br&gt;인천시는 선정된 입주자들을 위해 총 551가구의 천원주택을 확보해 놨다. 지역별로는 미추홀구가 253가구로 가장 많고, 서구가 126가구, 남동구 98가구, 계양구 53가구, 부평구 13가구, 중구 8가구 등이다. &lt;br&gt;&lt;br&gt;천원주택은 신혼부부 등의 주거비 부담을 대폭 낮춘 정책으로 주목받았다. 지난 3월 입주자 모집 결과, 500명 모집에 3681명이 신청해 7.36대 1의 경쟁률을 기록했다.&lt;br&gt;&lt;br&gt;인천시는 2일 하씨가 입주를 앞둔 미추홀구 숭의동의 한 천원주택에서 입주 기념행사를 가졌다.&lt;br&gt;&lt;br&gt;행사에선 유정복 인천시장이 하씨 등 입주자들에게 열쇠 모양의 입주 증서를 전달했고, 대통령 직속 저출산고령사회위원회는 인천시에 감사패를 수여했다.&lt;br&gt;&lt;br&gt;유 시장은 “인천시는 저출생 문제를 극복하기 위해 선도적으로 천원주택 정책을 시행했다”며 “앞으로도 신혼부부가 안정적인 주거 환경에서 미래를 설계할 수 있도록 다양한 주거 정책을 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 한덕수 전 국무총리 출국 금지</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/VWEAAW4S2FDNTD5VOD3UJSMAFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/VWEAAW4S2FDNTD5VOD3UJSMAFU/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 06:38:18 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 내란·외환 혐의 등을 수사하는 내란 특검이 한덕수 전 국무총리를 출국 금지한 것으로 2일 확인됐다. 한 전 총리는 12·3 비상계엄 선포 전 국무회의에 참석해 내란을 동조하거나 묵인한 혐의로 특검 수사를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM7GJJFHOIF5CBZGFE3RS4VURA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 2일 내란특검 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 지난달 18일 검경으로부터 한 전 총리에 대한 수사 기록을 넘겨받아 수사한 뒤 한 전 총리의 출국금지를 법무부에 신청했다고 한다.&lt;br&gt;&lt;br&gt;앞서 경찰청 국가수사본부 비상계엄 특별수사단은 지난 5월 한 전 총리에 대한 출국을 금지한 바 있다. 이후 내란 특검이 사건을 넘겨받으면서 다시 출국금지 조치를 한 것이다. 수사 기관이 바뀌면 다시 출국금지 조치를 밟아야 한다. 내란 특검은 윤 전 대통령, 김성훈 전 대통령경호처 차장, 이광우 전 경호처 경호본부장 등도 같은 조치를 취했다.&lt;br&gt;&lt;br&gt;통상 수사 기관은 수사 중인 피의자가 해외로 도피하지 못하도록 출국금지 조치를 한다. 1개월 단위로 출국금지를 연장할 수 있다. 또 형사 재판이 진행 중인 피고인의 경우에도 최대 6개월까지 출국금지 조치를 할 수 있다.&lt;br&gt;&lt;br&gt;한편 내란 특검은 이날 오전 10시부터 한 전 총리를 소환해 조사하고 있다. 특검은 한 전 총리에게 비상계엄 전후 국무회의 상황, 계엄선포령에 사후 서명을 한 뒤 폐기한 이유 등을 추궁하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국토 95%에 폭염특보... 12일까지 큰 비 소식 無</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/02/Q2Y6PU7OCNF65O7SLP5V7GCHKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/02/Q2Y6PU7OCNF65O7SLP5V7GCHKQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 06:07:34 +0000</pubDate>
-      <content:encoded>폭염이 심각해지고 있다. 오는 12일까지 전국에 큰 비 소식이 없어 무더위는 더 혹독해질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FALD3PWNCJF5PFLIOWBIOW5XRM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 현재 전국 특보구역 183곳 중 174곳에 폭염특보가 발효됐다. 폭염주의보가 97곳, 폭염경보가 77곳이다. 특보 구역이 전 국토를 포괄하는 만큼 우리나라 95%에 폭염특보가 내려진 셈이다.&lt;br&gt;&lt;br&gt;폭염특보가 아직 내려지지 않은 9곳은 강원 평창평지·태백, 제주도 산지·추자도, 인천 강화·옹진, 경기 김포, 서해5도, 흑산도 등이다. 높은 산지거나 선선한 바닷바람이 바로 들어오는 지역을 빼고는 모두 폭염특보가 내려진 것이다. &lt;br&gt;&lt;br&gt;문제는 당분간 폭염특보가 해제될 만한 요인이 없다는 것이다. 중부·남부와 제주 전역을 덮고 있는 북태평양고기압 세력이 약화할 기미를 보이지 않고 있다. 7월 말~8월 중순 한여름에 나타나는 풍경이 7월 초부터 보이고 있다.&lt;br&gt;&lt;br&gt;비 소식도 없는 상황이다. 기상청은 중기예보에서 오는 12일까지 비가 내리지 않겠다고 예보했다. 3일 새벽~아침 사이 수도권과 강원도에 빗방울이 예고됐으나, 강수량이 0.1㎜에 그쳐 거의 내리지 않는 수준이다.&lt;br&gt;&lt;br&gt;오는 12일까지 기온은 최저 22~28도, 최고 28~35도의 분포를 보일 것으로 예상됐다. 열대야가 나타나는 곳도 많겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 우리나라의 2010년대 폭염 일수와 열대야 일수는 1970년 대비 각 1.7배, 2.1배 증가했다. 폭염 및 열대야 일수는 2000년대까지는 큰 변화가 없었으나, 2010년대에 들어서면서 대폭 상승했다.&lt;br&gt;&lt;br&gt;1970년대 대비 2010년대 폭염일수는 평균 8.3일에서 14.0일로 1.7배, 열대야 일수는 평균 4.2일에서 9.0일로 2.1배 늘었다. 2020년대의 경우 각 16.7일, 12.9일로 2010년대보다 더 증가했다.&lt;br&gt;&lt;br&gt;최근 10년(2015∼2024년)을 기준으로 하면 폭염 일수와 열대야 일수는 각 16.3일, 11.0일로 평년(1991∼2020년)보다 5.3일, 4.4일 많았다.&lt;br&gt;&lt;br&gt;여름철 폭염은 주로 북태평양고기압 영향권에서 고온다습한 남서풍이 유입되면서 발생한다. 강한 햇볕에 의해 낮 동안 기온이 크게 오른 상황에서 밤사이 높은 습도에 의해 기온이 크게 떨어지지 않아 열대야까지 자주 발생한다.&lt;br&gt;&lt;br&gt;폭염이 많이 발생했던 해는 대체로 열대야도 많이 발생하는 경향이 있다. 기상청 관계자는 “과거 52년 동안 폭염일수와 열대야 일수의 상관계수는 0.84로 매우 높았다”고 설명했다. 상관계수가 1에 가까울수록 연관성이 높은 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“70세 이상은 안 돼요”… 회원권 판매 거부한 골프클럽, 인권위 판단은</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/02/L2AMEWYZUVH5HO3AAIJKBMZPBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/02/L2AMEWYZUVH5HO3AAIJKBMZPBU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 06:03:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CXR453DNCL7ICX7KBPVPFVUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;골프공 이미지. /픽사베이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70세 이상에게 회원권 판매를 거부한 골프클럽이 국가인권위원회의 차별 시정 권고를 받았다. &lt;br&gt;&lt;br&gt;2일 인권위에 따르면, 경기도 소재 A 골프클럽은 작년 5월 회원권을 구매하려는 진정인에게 ’70세 이상은 회원 가입을 할 수 없다’는 회칙을 들어 돌려보냈다. &lt;br&gt;&lt;br&gt;클럽 측은 골프장이 산지에 있어 급경사가 많고 고령자 안전사고가 발생해 불가피한 조치라고 주장했다.&lt;br&gt;&lt;br&gt;다만 인권위는 클럽 측의 이 같은 해명에도 70세 이상 회원권 구매 제한은 차별이라고 판단했다. 우선 인권위는 기존 회원의 경우 70세를 넘어도 자격이 소멸하거나 중단되지 않는다는 점을 들어 클럽 측 주장이 합리적이지 않다고 봤다. 또 개인 회원 중 70세 이상 회원이 49.4%로 상당한 비율을 차지하는데, 이 나이대 사고 발생 비율이 전체의 13.6%에 불과하다며 연령대와 사고 발생의 인과관계가 명확하지 않다고 판단했다. &lt;br&gt;&lt;br&gt;인권위는 클럽 측에 고연령 회원에 대한 보험 가입을 강화하고, 그 비용을 회원과 함께 부담하는 방안 등을 제안했다. &lt;br&gt;&lt;br&gt;인권위는 “최근 노인에 대한 부정적인 편견이나 고정관념에 의거해 스포츠 시설 이용에서 노인을 일률적으로 배제하는 ‘노 시니어 존’ 현상이 벌어지고 있다”며 “우리나라가 이미 초고령사회에 들어선 만큼, 노인의 건강할 권리뿐 아니라 적극적으로 문화와 여가를 향유할 권리도 보장될 수 있기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 임성근 전 해병대 1사단장, 순직 해병 특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/T5I5YKUUOZFMLNG7ELJOI2T4N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/T5I5YKUUOZFMLNG7ELJOI2T4N4/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 04:43:28 +0000</pubDate>
-      <content:encoded>임성근 전 해병대 1사단장이 2일 ‘순직 해병 사건 수사 의압 의혹’을 수사하는 이명현 특검팀에서 소환 조사를 받기 위해 출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOEMCBDKJVJMBBBCWQ3LFJ6W3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;채수근 해병 순직 사건 관련 구명 로비 의혹을 받는 임성근 전 해병대 1사단장이 2일 오후 서울 서초구 서초중앙로 순직해병 특별검사팀으로 소환되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 전 사단장은 2023년 7월 경북 예천군 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고(故) 채수근 상병의 부대장으로, 실종자 수색 당시 수중 수색 등의 지시를 내려 채 상병이 숨지는 데 관여하는 등 혐의(업무상 과실치사 등)를 받고 있다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오후 서울 서초동 특검팀 사무실에 출석하면서 기자들과 만나 “저는 오늘 성실하게 수사에 임하겠다”고 말했다. 이어 “특검께서 명명백백하게 밝혀서 진실이 다시 드러날 수 있기를 소망한다”고 했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 “채 상병의 죽음에 대해 당시 원소속 부대 사단장으로서 도의적 책임을 통감한다”면서도 “(검·경과 공수처 등) 2년간의 수사를 통해 많은 부분이 밝혀졌다. 특히 (저는) 수중으로 들어가라는 지시를 하지 않았으며, 당시 작전통제권이 없어 법적 책임이 없는 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;특검팀은 임 전 사단장에게 업무상 과실치사 혐의와 관련된 당시 상황 등에 대해 물어볼 방침인 것으로 전해졌다. 또 특검팀은 임 전 사단장이 해병 순직 사건과 관련해 지난 정부 대통령실이나 군 지휘부 등을 상대로 한 ‘구명 로비’에 나섰는지 등을 조사할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 이날 오전 현판식을 열고 수사를 공식 개시했다. 수사 개시 첫날부터 이 사건 핵심 피의자인 임 전 사단장을 불러 조사에 나선 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>훔친 휴대전화로 현금 2억여원 빼돌린 절도범...잡고 보니 전과 27범 </title>
