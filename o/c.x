@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신문방송편집인협회기금, 석좌교수 8월 말까지 공모</title>
+      <link>https://www.chosun.com/national/people/2025/07/03/ZF43XKUBEREVNGCYEHTLVJCYWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/03/ZF43XKUBEREVNGCYEHTLVJCYWY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 02 Jul 2025 15:51:00 +0000</pubDate>
+      <content:encoded>한국신문방송편집인협회기금은 퇴직 회원 중 1명을 선발해 1년간 3000만원의 강의비를 지원하는 석좌교수 희망자를 다음 달 31일까지 모집한다고 2일 밝혔다. 협회 임원 출신 언론인으로서 언론사 퇴직 후 5년을 넘지 않아야 하며, 신청서 제출 시점에 직업이 없어야 응모할 수 있다. 희망자는 한국신문방송편집인협회(&lt;a href="https://www.editor.or.kr" target="_self" rel="" title="https://www.editor.or.kr"&gt;https://www.editor.or.kr&lt;/a&gt;) 홈페이지에 신청서를 제출하면 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 이진숙 후보자, 제자 논문 10여개 표절 의혹</title>
       <link>https://www.chosun.com/national/education/2025/07/04/W34SRDBJXRHZHO3LPNNAB5T2HQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/04/W34SRDBJXRHZHO3LPNNAB5T2HQ/</guid>
@@ -887,15 +896,6 @@
       <description/>
       <pubDate>Wed, 02 Jul 2025 15:51:00 +0000</pubDate>
       <content:encoded>▲강원 동해시▷문화관광국장 임정규&lt;br&gt;&lt;br&gt;▲서울시의회◇3급 승진임용▷의정국장 서인석&lt;br&gt;&lt;br&gt;▲동국대◇부서장 및 부속기관장급 인사(겸직)▷BMC행정처장 겸 경기RISE사업단 운영부단장 겸 경기RISE사업단 운영본부장 유한림◇팀장 직위 승진 및 전보▷관리처 로터스관건설팀장 김학원▷실·팀장 전보 및 겸직▷BMC행정처 지역협력팀장 겸 경기RISE사업단 행정지원팀장 박혁상▷학생처 현장실습지원센터장 겸 IPP사업단 IPP행정팀장 길홍모▷연구기획본부 연구사업팀장 겸 서울RISE사업단 서울RISE사업팀장 조용신&lt;br&gt;&lt;br&gt;▲KBS▷콘텐츠전략본부 멀티플랫폼센터장 김윤환▷콘텐츠전략본부 드라마센터장 김상휘▷콘텐츠전략본부 멀티플랫폼센터 디지털전략국장 송영석&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 박정자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/07/03/SYFIZRVFCFGCRKJ63DUCAWQY3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/03/SYFIZRVFCFGCRKJ63DUCAWQY3M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;박정자&lt;/b&gt; 별세, &lt;b&gt;천현철&lt;/b&gt;·&lt;b&gt;천현수&lt;/b&gt; KBS창원 보도국장·&lt;b&gt;천현옥&lt;/b&gt; 모친상, &lt;b&gt;노왕호&lt;/b&gt; 장모상, &lt;b&gt;강윤숙&lt;/b&gt;·&lt;b&gt;강은숙&lt;/b&gt; 시모상=1일19시 경남 진주 경상국립대병원, 발인 4일7시, (055)750-8448&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송향례&lt;/b&gt; 별세, &lt;b&gt;신준호&lt;/b&gt; 광주광역시의회 홍보소통담당관실 공보팀장 모친상=2일8시18분 광주광역시 만평장례식장, 발인 4일7시30분, (062)611-0000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;안계옥&lt;/b&gt; 별세, &lt;b&gt;하성운&lt;/b&gt; 조선일보 CS칠원센터 대표 모친상=2일14시 경남 창원 큰사랑요양병원, 발인 3일7시, (055)231-5444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이택연&lt;/b&gt; 로엘 심장혈관흉부외과의원 원장 별세, &lt;b&gt;권지성&lt;/b&gt; 로엘 심장혈관흉부외과의원 부원장 남편상, &lt;b&gt;이지수&lt;/b&gt;·&lt;b&gt;이희수&lt;/b&gt;·&lt;b&gt;이희원&lt;/b&gt; 부친상=2일14시27분 신촌세브란스병원, 발인 4일5시, (02)2227-7500&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“제로 슈거? 결국 설탕 찾게 돼… 당장 단맛 유혹 끊어야”</title>
