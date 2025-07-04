@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란 특검, 윤석열 전 대통령 오늘 2차 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/05/TZK36LUASZCWFK4KSG6EGPZ3WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/05/TZK36LUASZCWFK4KSG6EGPZ3WA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 22:54:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LP3WMFX32YN4UBQ3SQ2NE5YIVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 28일 오전 서울 서초구 서울고검 청사에 마련된 내란특검에 피의자 신분으로 첫 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄과 관련한 내란·외환 사건을 수사하는 조은석 특별검사팀이 5일 윤석열 전 대통령을 두 번째로 소환해 조사한다. 지난달 28일 첫 조사가 이뤄진 지 일주일 만이다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령에게 이날 오전 9시, 서울고검 내 특검 사무실로 출석할 것을 통보했다. &lt;br&gt;&lt;br&gt;당초 지난달 30일로 예정됐던 2차 조사는 윤 전 대통령 측이 건강 문제와 재판 일정을 이유로 연기를 요청하면서 이달 1일로 조정됐다. 하지만 윤 전 대통령이 이에 불응해 결국 5일로 다시 소환일이 지정됐다.&lt;br&gt;&lt;br&gt;이번 조사에서 특검은 체포영장 집행 방해 혐의, 비화폰 통화기록 삭제 지시 의혹, 계엄 국무회의 과정에서의 직권남용, 그리고 무인기 작전 개입 등 외환 혐의에 대해 본격적으로 추궁할 방침이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 조사에 성실히 임하겠다는 입장을 밝혔으나, 1차 조사에서처럼 조사자 교체를 요구하며 마찰이 재현될 가능성도 있다. 당시 윤 전 대통령은 자신을 조사한 경찰 간부의 직무 적절성에 문제를 제기하며 일시적으로 조사에 불응한 바 있다.&lt;br&gt;&lt;br&gt;특검은 이번 소환 조사를 토대로 윤 전 대통령의 혐의 사실을 보다 구체화할 계획이며, 추가 소환이나 구속영장 청구 여부도 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신세경 얼굴에 염산 테러”… 협박·모욕글 450개 도배한 악플러 최후</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/05/UB4LZJW3PNC7XCDQOMIE7M2KJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/05/UB4LZJW3PNC7XCDQOMIE7M2KJE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 22:40:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3E523AF7JBDJEFDREIAJ6GIBI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신세경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 신세경(35)을 반복적으로 괴롭혀온 악플러에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 서울동부지법 형사3단독 이호동 부장판사는 최근 협박 및 모욕 혐의로 기소된 여성 김모(35)씨에게 징역 8개월을 선고했다. 김씨는 작년 6월부터 8월까지 디시인사이드 내 신세경 관련 게시판과 기타 드라마 게시판에 450여 개의 협박·모욕 글을 작성한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;김씨가 올린 글은 염산 테러를 예고하는 등 신세경을 협박하거나 신체·성적으로 비하하는 내용이 대부분이었다. 뿐만 아니라 각종 허위 사실을 포함해 신세경의 가족, 지인, 팬들을 모욕하는 표현도 반복적으로 게시한 것으로 알려졌다. 김씨는 모든 혐의를 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “김씨가 유명 연예인인 피해자에 대해 별다른 이유 없이 모욕적인 글과 해악을 가할 듯한 글을 다수 작성해 피해자가 상당한 정신적 고통을 겪고 있고 엄벌을 탄원하고 있다”고 했다. 다만 “김씨가 피해자에게 실제로 해악을 실현할 의사는 없었던 것으로 보이는 점 등을 고려했다”고 덧붙였다. 앞서 검찰은 지난달 26일 김씨에게 징역 2년을 구형했었다. &lt;br&gt;&lt;br&gt;소속사 더프레젠트컴퍼니는 “피해 사실을 인지한 직후 사안의 중대성을 고려해 여러 차례 공식 경고 및 법적 조치를 취해왔으나 가해 행위는 멈추지 않았고 오히려 그 수위가 증가해 형사 고소에 이르게 됐다”며 “이번 판결은 단순히 한 배우 개인에 대한 문제를 넘어, 사이버 폭력의 심각성을 우리 사회 전반에 경고하는 중대한 법적 선례가 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>갓에 하이힐 신은 소리꾼… 이희문 “기본 갖췄다면 파격 두려워 말라”</title>
       <link>https://www.chosun.com/national/weekend/2025/07/05/BBAVHA6LLZADPHZHOVO2OADYY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/07/05/BBAVHA6LLZADPHZHOVO2OADYY4/</guid>
@@ -925,24 +943,6 @@
       <description/>
       <pubDate>Thu, 03 Jul 2025 15:50:00 +0000</pubDate>
       <content:encoded>그림 놀이는 단순히 손을 움직이는 활동을 넘어 아이의 상상력과 표현력을 키우는 데 큰 도움이 됩니다. 특히 자신이 느낀 감정을 표현하고, 새로운 이야기를 만들어내는 능력을 기르는 데에도 효과적이지요. 오늘 소개할 ‘물감 얼룩 몬스터’ 놀이는 간단하지만 아이가 자신의 아이디어를 맘껏 펼칠 수 있도록 해주는 활동입니다.&lt;br&gt;&lt;br&gt;준비물은 도화지, 물감, 종이컵, 그리고 빨대입니다. 수채 물감이나 아크릴 물감 모두 사용 가능하며, 물에 물감을 조금 희석해서 종이컵에 담아두면 됩니다. 도화지 위에 물감을 한두 방울 떨어뜨리고, 빨대로 ‘후~’ 하고 입바람을 불면 물감이 여러 방향으로 번지며 독특한 얼룩이 생겨나지요. 이때 도화지를 살짝 기울이면 물감이 생각하지 못한 방향으로 퍼지며 더 흥미로운 형태가 만들어진답니다.&lt;br&gt;&lt;br&gt;아이는 퍼진 얼룩을 자세히 관찰하면서 머릿속의 상상을 하나씩 꺼내기 시작합니다. 얼룩에 눈, 팔, 뿔 등을 그려 넣어 몬스터 캐릭터를 그리는 것이죠. 여기에 이름을 붙이고, 몬스터의 성격이나 움직임을 자유롭게 상상해 보도록 아빠가 이끌어 주세요. 예를 들어 ‘이 몬스터는 배고프면 펑 하고 튀어나와’ ‘이건 다리가 다섯 개나 돼’와 같이 아이가 상상한 내용을 자연스럽게 말로 풀어낼 수 있도록 도와줍니다. &lt;br&gt;&lt;br&gt;아빠도 직접 놀이를 해 보세요. 몬스터를 만들고 ‘이 몬스터는 하늘을 날며 흰 구름을 먹지’ 같은 이야기를 덧붙여 보세요. 아이는 아빠의 표현을 들으며 더 많은 상상과 표현을 시도하게 되고 자연스럽게 언어 능력과 감정 표현력이 길러지지요.&lt;br&gt;&lt;br&gt;놀이가 끝나면 아이와 아빠가 만든 몬스터들을 벽에 붙여 ‘몬스터 마을’을 꾸며 보세요. 서로의 몬스터에 대해 이야기해 보는 시간도 아이에게는 특별한 경험이 됩니다. 이 과정을 통해 아이는 자신이 상상한 것을 말로 풀어내면서 몬스터의 움직임을 자연스럽게 묘사하게 됩니다. &lt;br&gt;&lt;br&gt;이번 주말, 아이와 함께 도화지 위 물감 한 방울로 시작되는 상상 여행을 떠나보세요. 아빠와 함께 상상력을 발휘해가며 만든 나만의 몬스터는 아이의 기억 속에 오래오래 남을 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 무당(無糖)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/04/IQEXVPUTJFADLKLQF6VAZYJQZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/04/IQEXVPUTJFADLKLQF6VAZYJQZE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XT62TZA3JRECJJS7AHDTQILUVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 딱딱해서 씹을 수 없다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/04/7N35DMQ2MNEDRIWDNT3GY6DJ44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/04/7N35DMQ2MNEDRIWDNT3GY6DJ44/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFIDEM23T5ELZK7JFVOB6KAO2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] 학문의 자유, 법으로 단죄 마라</title>
