@@ -13,13 +13,109 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
-      <title>신문방송편집인협회기금, 석좌교수 8월 말까지 공모</title>
-      <link>https://www.chosun.com/national/people/2025/07/03/ZF43XKUBEREVNGCYEHTLVJCYWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/03/ZF43XKUBEREVNGCYEHTLVJCYWY/</guid>
-      <dc:creator>조선일보</dc:creator>
+      <title>내란 특검, 이주호 교육부장관·박종준 전 대통령경호처장 오후 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/04/T66G37LJBBHZJHO2BRD3EKYPF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/T66G37LJBBHZJHO2BRD3EKYPF4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
       <description/>
-      <pubDate>Wed, 02 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>한국신문방송편집인협회기금은 퇴직 회원 중 1명을 선발해 1년간 3000만원의 강의비를 지원하는 석좌교수 희망자를 다음 달 31일까지 모집한다고 2일 밝혔다. 협회 임원 출신 언론인으로서 언론사 퇴직 후 5년을 넘지 않아야 하며, 신청서 제출 시점에 직업이 없어야 응모할 수 있다. 희망자는 한국신문방송편집인협회(&lt;a href="https://www.editor.or.kr" target="_self" rel="" title="https://www.editor.or.kr"&gt;https://www.editor.or.kr&lt;/a&gt;) 홈페이지에 신청서를 제출하면 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <pubDate>Fri, 04 Jul 2025 03:07:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HPWNZKWVJKR7DBG4QYSJ6RLOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 국무총리 직무대행 부총리 겸 교육부 장관이 지난 1일 서울 용산 대통령실 청사에서 열린 국무회의에 참석하고 있다./대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 4일 오후 이주호 교육부장관과 박종준 전 대통령경호처장을 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXIN7CGIA5JSQMOJ3VCZMJUBUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령 경호처장이 지난 2월 6일 오후 서울 여의도 국회에서 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회 3차 청문회에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀은 이 장관에게 비상계엄 전후 사정 등을 캐물을 것으로 보인다. 이 장관은 비상계엄 선포 직전 열린 국무회의에는 소집 통보를 받지 못해 불참했는데, 이튿날인 지난해 12월 4일 새벽 열린 비상계엄 해제를 위한 국무회의에는 참석했다. 특검팀은 지난 2일 안덕근 산업통상자원부 장관과 유상임 과학기술정보통신부 장관을 먼저 소환해 조사한 바 있다. 두 장관 역시 비상계엄 선포 직전 열린 국무회의에는 참석하지 않고, 이튿날 새벽 계엄 해제를 위한 국무회의에 참석했던 인물들이다.&lt;br&gt;&lt;br&gt;박 전 처장은 대통령경호처 직원들을 동원해 경찰과 고위공직자범죄수사처의 체포영장 집행을 방해한 혐의를 받고 있다. 윤 전 대통령의 지시를 받아 여인형 전 방첩사령관, 홍장원 전 국가정보원 1차장 등의 비화폰 통화기록을 삭제하라고 직원들에게 지시했다는 의혹도 제기된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>괴담으로 끝나기를... ‘7월5일 지진설’ 그날 다가오자 日 긴장</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/TXCCAOL7KBBTLCBGTSIWE7VIU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/TXCCAOL7KBBTLCBGTSIWE7VIU4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 01:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PS7XSGPK4BIW3GYRF742S3KCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 규슈 가고시마현 도카라 열도에서 지난달 하순 이후 발생한 소규모 지진이 3일 1000회를 넘었다고 일본 언론이 보도했다. 사진은 도카라 열도의 섬인 아쿠세키지마(惡石島). /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 유명 만화가의 예언을 시작으로 7월 일본 난카이에서 대지진이 발생할 것이란 괴담이 확산하는 가운데, 국내 한 지진학·지구물리학 전문가는 대지진이 현실화할 시 한반도가 30㎝ 넘게 흔들리는 등 한국에도 상당한 영향을 미칠 것으로 우려했다. &lt;br&gt;&lt;br&gt;홍태경 연세대 지구시스템과학과 교수는 4일 CBS 박재홍의 한판승부에서 “만약 난카이 해구에서 규모 8.0에 이르는 지진이 난다면, 한반도 남부의 가까운 곳이 난카이 해곡에서 500㎞ 안쪽에 있다”며 “난카이 해구에서 발생하는 지진이 남의 일만은 아닐 수 있다”고 했다. &lt;br&gt;&lt;br&gt;홍 교수는 지난 3월 미얀마 규모 7.7 지진이 발생했을 당시 1000㎞ 떨어진 방콕 시내 고층 건물이 흔들리거나 무너진 점을 언급하며 한반도에도 비슷한 영향이 있을 수 있다고 내다봤다. 그는 “난카이 해구에서 우리나라 한반도는 가까운 곳은 500㎞ 안쪽, 넓게 보면 1000㎞ 안쪽에 들어간다”며 “그렇기 때문에 한반도 전역의 고층 건물이 영향을 받을 가능성도 있다”고 했다. &lt;br&gt;&lt;br&gt;홍 교수는 현재 국내엔 고층 건물이 많은 상태라 피해가 더 클 수 있다고 우려했다. 그는 “난카이 해구의 마지막 지진인 1944년과 1946년 지진 때는 우리나라에 고층 건물이 없었다. 그래서 처음 겪어보는 상황이 벌어질지도 모른다”며 “굉장히 우려가 된다”고 했다. 그러면서 “만약에 난카이에서 규모 9.0 규모 지진이 발생하게 되면 이론적으로 간단하게만 계산해도 한반도가 30㎝ 넘게 흔들리게 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDWCNP6IKNFDMCENPTMGK4MSGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대지진을 예언한 타츠키 료의 만화 '내가 본 미래 완전판'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHNV5M3SDRFSJMVK3HT23QCRAE.png"&gt;&lt;figcaption&gt;&lt;small&gt;타츠키 료의 만화 ‘내가 본 미래 완전판’에서 올해 7월 대규모 재난 발생을 예언한 부분. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본에선 유명 만화가 다쓰키 료의 예언을 시작으로 대지진 괴담이 이어지고 있다. 다쓰키 료는 1999년 직접 꾼 예지몽을 바탕으로 ‘내가 본 미래’라는 만화책을 출간했는데, 여기에 “2025년 7월 5일 대지진이 발생해 동일본 대지진 때보다 3배 높은 쓰나미가 일본 서남권을 덮친다”는 내용이 담겼다. 다쓰키가 예견한 2011년 동일본 대지진과 2020년 코로나 팬데믹이 모두 들어맞은 바 있기에 이 같은 내용은 더욱 관심을 모았다. &lt;br&gt;&lt;br&gt;이 가운데 최근 도카라 열도에서 지진이 1000회 이상 발생하면서 대지진에 대한 우려가 더욱 커지는 상황이다. 도카라 열도 근해에서 지진이 연이어 발생하면 이후 다른 장소에서 대지진이 일어난다는 ‘도카라의 법칙’ 속설까지 회자되면서 불안이 이어지고 있다. 향후 30년 이내 발생 확률이 80% 정도로 알려진 난카이 대지진까지 언급되는 중이다. &lt;br&gt;&lt;br&gt;이에 홍 교수는 ‘도카라의 법칙’은 과학적으로 검증되지 않았다면서도, 대지진설 자체가 아예 근거 없는 이야기는 아니라고 봤다. 그는 “아무리 판의 경계부라고 하더라도 한자리에서 이렇게 집중적으로 규모 4 이상의 지진이 짧은 시간 동안에 많이 나는 경우는 굉장히 이례적”이라며 “보통 규모 9.0이나 8.0에 이르는 큰 지진이 나고 나서 여진이 발생할 때 이런 일이 관측된다”고 했다. 그러면서 “그런데 큰 지진도 없는 상태에서 이런 지진들이 발생한다는 건 바로 이 자리에 많은 응력이 쌓여 있고 힘이 배출되지 못한 상태로 있다는 걸 의미한다”고 했다. &lt;br&gt;&lt;br&gt;한편 7월 대지진설은 일본 여행 업계에도 타격을 입히고 있다. 지난 5월 일본을 찾은 홍콩인 수는 작년 같은 달과 비교해 11.2% 감소했으며, 홍콩 그레이터베이항공은 대지진설 영향으로 9월 1일부터 홍콩과 일본 돗토리현 요나고, 도쿠시마현 도쿠시마를 각각 잇는 항공편 운항을 중단하기로 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SG6CCCBUDZG5BDCL44ILCFTBXE.jpg?auth=f0b18b9971bfd83a656fb3fbc1f1ca2a4e998687be9422c671b4f5f3fb741ff8&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">타츠키 료의 만화 ‘내가 본 미래 완전판’에서 올해 7월 대규모 재난 발생을 예언한 부분. /X(옛 트위터)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>임은정 동부지검장 “검찰, 바뀐 모습 안 보이면 해체 가까운 개혁”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/VQFLSRWFCNDAHDAHQ5NQPWTAPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/VQFLSRWFCNDAHDAHQ5NQPWTAPE/</guid>
+      <dc:creator>김나연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 00:38:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6E3ZMS2RD5IO7F2OULS7PR3GAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 신임 서울동부지검장이 4일 서울 송파구 서울동부지방검찰청으로 출근하며 취재진 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 신임 동부지검장(51·사법연수원 30기)이 “검찰이 바뀐 모습을 보여주지 않으면 해체에 가까운 개혁을 당하지 않을까 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장은 4일 오전 8시 40분쯤 서울 송파구 동부지검 청사로 처음 출근하며 취재진에 “무거운 자리를 맡게 돼 감사하고 영광”이라는 소감과 함께 “검찰은 그동안 해온 봐주기 수사와 거짓말에 대해 (비판을) 감수해야 한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장은 검찰 개혁에 대한 내부 반발이 있다는 취재진 질문에 “윤석열 정부가 검찰 독재 정권이라는 평가가 있지 않느냐”며 “그때보다는 목소리가 한풀 꺾인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이어 “한때 존경했던 검찰 선배가 내란수괴로 조사받는 것이 참담한 후배가 한두 명이 아닌 것 같다”며 “검찰이 그때 잘못 평가했다는 반성을 하고 있다고 느끼고 있다”고 했다.&lt;br&gt;&lt;br&gt;정치적 배경이 얽힌 인사라는 평가에 대한 의견을 묻는 질문에는 “10년 넘게 내부 고발자 생활하며 늘 있었던 일”이라며 “앞으로의 행동으로 보여드릴 수 있을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장의 취임식은 이날 10시에 동부지검에서 진행될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이진숙 교육부 장관 후보자 인사청문요청안 제출도 안해  “법 위반 소지”</title>
+      <link>https://www.chosun.com/national/education/2025/07/04/RJED5DLWARHUHKLZH46PIQ7GU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/04/RJED5DLWARHUHKLZH46PIQ7GU4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 02:21:14 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62BEZHYBJXBFSHNUVY5RXCTXJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자가 30일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 부총리 겸 교육부 장관 후보자에 대한 인사청문회가 2주도 남지 않은 상황에서 이 후보자의 인사청문요청안이 아직 국회에 제출되지 않은 것으로 확인됐다. 인사청문회요청안이 제출된 날부터 인사청문회 관련 일정이 시작된다고 법에 규정돼 있어 일각에선 “법 위반 소지가 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;4일 교육계에 따르면 정부는 국회에 이 후보자에 대한 인사청문요청안을 제출하지 않은 것으로 나타났다. 인사청문요청안에는 요청 사유서와 더불어 학력, 경력, 재산 신고 사항 등 후보자 검증에 필요한 서류가 첨부된다. 이 때문에 교육계에선 인사청문요청안이 제출되지 않았는데 청문회 일정부터 잡혀 충분한 검증이 이뤄지기 어렵다는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;인사청문회법상 국회는 인사청문요청안을 접수한 날로부터 20일 이내 후보자에 대한 심사 또는 인사청문 절차를 마쳐야 한다. 인사청문요청안이 국회에 접수돼야 인사청문회 날짜를 잡고 경과보고서를 정부에 보내는 전체 일정이 잡히는 것이다. 이 후보자의 인사청문회는 오는 16일 열릴 예정이다.&lt;br&gt;&lt;br&gt;국회 의안정보시스템에 따르면 4일 현재 국방부, 과학기술정보통신부, 환경부 등 장관 후보자가 지명된 다른 12개 부처에서는 대부분 인사청문요청안을 국회에 제출한 상태다. 지난 29일 이 후보자와 같은 날에 지명된 기획재정부, 산업통상자원부 장관 후보자도 자료를 제출했다. 이 후보자가 인사청문요청안을 내지 않은 이유에 대해선 구체적으로 알려지지 않았다.&lt;br&gt;&lt;br&gt;정치권에 따르면 민주당이 지난 2일 야당 측에 이 후보자 청문회 일정을 16일로 정하고 일방적으로 통보한 것으로 알려졌다. 한 국회 관계자는 “기재부 등 다른 부처 장관과 달리 인사청문요청안이 접수되지 않은 상황에서 인사청문회 일정부터 덜컥 잡은 상황”이라며 “법 위반 소지가 있는 결정이지만 민주당 측의 명확한 설명도 없는 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;국회 교육위원회 야당 간사인 조정훈 의원(국민의힘)은 지난 3일 페이스북에 “인사청문요청안은 국회에 도착도 안 했는데, 청문회를 못 박았다”며 “법이 정한 ‘자료→협의→일정' 순서를 뒤집었다. 능력을 검증할 기본 자료도 없는데 무슨 근거로 날짜부터 정하라는 것인가”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 해병 특검, 尹 격노한 ‘안보실 회의’ 참석자들 소환 조사한다</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/04/T552ZHOQAFEYLACTJVPSIMQJLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/T552ZHOQAFEYLACTJVPSIMQJLU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 01:11:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WADRDJ5JSDNVTOXQZ3RXIBMJFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 3일 서울 서초구 서울중앙지방법원에서 열린 내란 1심 재판에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압 의혹’을 수사하는 해병 특검팀이 이른바 ‘격노설’ 규명을 위해 윤석열 전 대통령이 크게 화를 냈다는 국가안보실 회의 참석자들을 다음 주부터 차례로 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 해병 특검팀은 김태효 전 국가안보실 1차장 등 당시 대통령실에서 열린 안보실 회의 참석자들을 다음 주부터 불러 조사할 예정이다. 특검 관계자는 “회의 참석자를 비롯해 격노설의 정황을 알고 있는 인사들은 모두 수사 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;이른바 격노설 의혹은 윤 전 대통령이 2023년 7월 31일 오전 11시 대통령실에서 열린 안보실 회의에서 임성근 전 해병대 1사단장 등을 업무상 과실치사 혐의로 경찰에 이첩하는 내용의 수사 결과를 보고받고 크게 화를 냈다는 것이다. 윤 전 대통령은 회의 직후인 오전 11시 54분 이종섭 당시 국방장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 격노한 것으로 전해졌다. 이후 대통령실의 외압 등이 작용해 임 전 사단장이 혐의자에서 빠졌다는 것이 특검의 시각이다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 기자단 브리핑에서 “다음 주부터 이른바 ‘VIP 격노설’ 관련 조사를 본격화할 예정”이라며 “수사 외압 의혹이 촉발된 계기가 7월 31일 열린 대통령실 회의였다. 이 회의와 관련한 관계자들을 불러서 조사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해당 회의에는 김 전 차장 등 대통령실 국방·안보라인이 참석한 것으로 알려졌다. 김 전 차장은 작년 7월 국회 현안 질의에서 안보실 회의에 관해 “정확히 무슨 주제인지 기억 못 하지만, 저희 앞에서 (대통령이) 화낸 적이 없다”고 말했다. 당시 회의에서 순직 해병 사건이 보고·논의되지 않았다는 것이다.&lt;br&gt;&lt;br&gt;앞서 고위공직자범죄수사처는 이 사건을 수사했지만 안보실 회의 참석자 등 대통령실 관계자들에 대한 조사는 사실상 진행하지 못한 것으로 전해졌다. 해병 특검은 회의 참석자들을 대상으로 순직 해병 사건이 어떻게 보고됐는지, 윤 전 대통령이 격노했는지 등을 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 김계환 전 사령관 7일 오전 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/04/WXCPO36PB5A4ZCSL5STJZESSYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/WXCPO36PB5A4ZCSL5STJZESSYQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 01:54:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQAEWY32CVMORDZ4UJQBMXH3HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김계환 전 해병대 사령관이 작년 5월 21일 순직 해병 수사 외압 의혹 관련 사건 조사를 받기 위해 정부과천청사 고위공직자범죄수사처에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 오는 7일 김계환 전 해병대 사령관을 소환 조사할 예정이다. 김 전 사령관은 이른바 ‘VIP 격노설’ 등을 언급하고 해병대 수사단의 조사 기록 이첩을 중단시킨 것으로 지목된 핵심 당사자다.&lt;br&gt;&lt;br&gt;정민영 특검보는 4일 기자단 브리핑에서 “김 전 사령관을 7일 오전 10시 30분 불러 조사할 계획”이라며 “대통령실이나 이종섭 전 국방장관에게 (수사 외압 관련) 지시를 받았는지, 임성근 전 해병대 1사단장에게 (순직 사고 경위 관련) 허위 보고를 받았는지 등에 대해 조사할 것”이라고 말했다. 김 전 사령관은 그간 직권남용 등 혐의 피의자로 입건돼 고위공직자범죄수사처에서 수사를 받아왔다.&lt;br&gt;&lt;br&gt;김 전 사령관은 2023년 8월 고 채수근 상병 사망 사고에 대한 조사 기록을 경찰에 이첩하려던 박정훈 전 해병대 수사단장(대령)에게 이첩을 중단하라고 지시하고 이를 회수하는데 관여한 혐의를 받는다. 또 박 대령에게 “VIP가 격노하면서 (국방)장관과 통화한 후 이렇게 됐다”며 윤석열 전 대통령 관련 격노설을 전달한 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 그간 ‘VIP 격노설’을 부인하는 입장이었다. 그러나 작년 4·10 총선 이튿날 당시 군 내부 전산망에 올린 지휘 서신에서 “말하지 못하는 고뇌만 가득하다”는 심경을 드러내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사고 차량 번쩍 들어 옮겼다…꽉 막힌 도로에 나타난 구세주 정체는</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/MHNBCC55XVDGFFXNDZ3JLU3SKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/MHNBCC55XVDGFFXNDZ3JLU3SKQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 00:31:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZG7W7AYWZFZ5PUE3LD27WKCRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 차량을 옮기기 위해 나타난 지게차./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 차량 수습으로 퇴근길 도로가 통제되자 지게차가 등장해 문제의 차량을 번쩍 들어 옮긴 사연이 전해졌다.&lt;br&gt;&lt;br&gt;3일 ‘대한민국 경찰청’ 유튜브에는 ‘꽉 막힌 도로를 해결한 최종병기 지게차’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;당시 경찰은 “교통사고가 났다”는 신고를 받고 편도 2차선 도로로 출동했다. 반파된 사고 차량이 1차로에 세워져 있는 상황이었다. 급히 지원 나온 교통경찰도 현장에 투입해 차량을 통제하고 사고 수습을 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXY63OZHN5E2XFKM5FDY27NYJU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지게차가 사고 차량을 들어 옮기고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그 순간 도로 옆 건물에서 지게차가 나타났다. 지게차 운전자는 그대로 차량을 번쩍 들어 올려 안전한 장소로 이동시켰다.&lt;br&gt;&lt;br&gt;지게차 운전자는 다름아닌 사고 현장을 목격한 시민이었다. 그는 도로 옆 건물에서 지게차를 발견하고, 이를 빌려타 현장 지원을 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지게차 도움으로 사고 현장을 정리한 경찰은 차량을 다시 통행시켰고, 빠르게 사고 현장을 수습할 수 있었다.&lt;br&gt;&lt;br&gt;경찰 측은 “퇴근길 사고 현장 수습에 도움을 준 시민에게 감사장을 전달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZXY63OZHN5E2XFKM5FDY27NYJU.gif?auth=a676470e7288fef996a527ab795bc16d3b35c07095d0164bf8d277739d1c1d5f&amp;smart=true&amp;width=795&amp;height=481" type="image/jpeg" height="481" width="795">
+        <media:description type="plain">지게차가 사고 차량을 들어 옮기고 있다./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“아우 이걸… 전역하면 두고 봐" 상관 지적에 협박한 병사, 전역 후 처벌</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/7SVJOQQGDFG3BDV3FFSKXETNEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/7SVJOQQGDFG3BDV3FFSKXETNEA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 02:05:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOUBTA7VHFHKHPDUZ53HFGIJP4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 지적하는 상관에게 “전역하면 두고 보자”며 욕설을 하고 때리려는 시늉을 한 병사가 전역 후 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 4일 상관협박 혐의로 기소된 A(23)씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 강원도 춘천 지역 한 부대 내 병영 식당에서 부사관 B씨로부터 결식, 대리 서명 등에 대해 지적을 받았다. 이에 화가 난 A씨는 B씨에게 욕설을 하고는 주먹을 쥐고 팔을 위아래로 흔들며 “아우 이걸 때릴 수도 없고, 죽여버릴까”라고 말했다. &lt;br&gt;&lt;br&gt;A씨는 이런 사실을 들은 상사 C씨의 지시에 따라 행정반으로 이동하던 중 B씨에게 입막음을 시도했으나 B씨가 이를 거부하자 “전역하면 두고 보자”고 했다. 행정반에 도착한 뒤에도 C씨에게 욕설·협박 행위를 보고하는 B씨를 향해 “진짜 전역하면 두고 보자 너”라고 말하며 또다시 위협한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 판사는 “협박한 경위와 내용 등에 비추어 죄질이 좋지 않다”며 “다른 범죄로 여러 차례 소년보호처분과 처벌을 받은 전력이 있는 점 등을 종합했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정진우 신임 서울중앙지검장 “검찰이 변해야 할 것은 변하고 고칠 것은 고쳐야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/04/R2XF2F6CPVDKBMZ2QQWYXV7RZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/R2XF2F6CPVDKBMZ2QQWYXV7RZ4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 00:42:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBSNB5BHHZINFLQKON2CXBAUJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진우 신임 서울중앙지검장이 4일 오전 서울 서초구 서울중앙지방검찰청으로 출근하며 소회를 밝히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정진우 신임 서울중앙지검장이 4일 “검찰이 변해야 할 것은 변하고 고칠 것은 고쳐야 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;정 지검장은 이날 오전 10시부터 진행된 취임식에서 이같이 밝혔다. 정 지검장은 검찰 개혁에 대해 “아시다시피 현재 검찰의 역할과 기능에 대해 활발한 개혁논의가 진행 중에 있다”며 “이럴 때일수록 개혁논의의 출발점이 된 우리의 검찰권 행사에 대해 스스로 솔직하게 되돌아봐야 한다”고 했다. 그러면서 “잘못된 것은 바로 잡아야 한다”고 했다.&lt;br&gt;&lt;br&gt;다만 정 지검장은 “반면 우리가 지켜야 할 원칙과 해야만 하는 것들에 대해선 국민들에게 정확히 설명하고 이해를 구해야 할 것”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;정 지검장은 취임 이날 오전 서울중앙지검으로 출근하면서는 “어렵고 중요한 시기에 중책을 맡게 돼서 무거운 책임감을 느끼고 있다”며 “중앙지검 구성원들과 합심해서 법과 원칙에 따라 주어진 소임을 제대로 수행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;수사·기소권을 분리하는 법안에 대한 질문에 정 지검장은 “첫 출근하는 날이라 구체적인 말씀을 드리는 것은 어떨지 모르겠다”며 “국민으로부터 신뢰받는 검찰이 되도록 노력하겠다”고 했다. 이 대통령이 전날 기자회견에서 ‘기소하기로 정해두고 수사하는 건 수사 본질에 맞지 않는다’고 발언한 것에 대해선 “대통령님 말씀에 대해 가타부타 말하는 건 공직자의 예의가 아닌 것 같다”고 잘라 말했다.&lt;br&gt;&lt;br&gt;현 정부 들어 처음으로 단행된 검찰 고위 인사인 만큼, 지명 배경을 두고 각종 해석이 나오는 것에 대해 정 지검장은 “저에 대한 평가는 평가하는 분들의 몫”이라며 말을 아꼈다. 다만 “(지난 정권과 가까운 인사라는 평가에 대해선) 그런 비판이 있다는 부분을 겸허하게 귀 기울여 듣도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 정 지검장과 함께 신임 지검장으로 임명된 임은정 서울동부지검장, 김태훈 서울남부지검장도 이날 각 검찰청으로 첫 출근을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘민원 4700건’ 공포의 러브버그…서울시 나선 ‘친환경 방제’ 작업은</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/6C6GPXOKPZEX5CIUFC3X4FEQDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/6C6GPXOKPZEX5CIUFC3X4FEQDU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 00:04:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMSLVO5VWBKR3OMR5VWHBTVVFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 노원구 공릉동 삼육대학교에서 소방대원들이 물을 뿌리며 러브버그 현장 방제활동을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 러브버그(붉은등우단털파리)가 수도권에 집단 출몰하는 가운데, 올해 6월까지 서울시에 러브버그 방역 요청 민원이 4700건 가까이 접수됐다. 서울시는 러브버그가 서식하기 좋은 장소를 중심으로 화학 약품을 사용하지 않는 친환경적 방제에 나서기로 했다. &lt;br&gt;&lt;br&gt;서울시는 3일부터 공원과 산책로 등 민원이 집중된 지역을 중심으로 소방서와 협력해 ‘살수 방역 작업’을 실시한다. 러브버그가 물에 약하다는 생태적 특성을 활용해 화학약품 없이 개체 수를 조절하고, 자연 파괴 없이 시민 불편을 최소화한다는 방침이다. &lt;br&gt;&lt;br&gt;러브버그는 익충으로 분류되는 데다 무분별한 살충제 사용은 생태계 교란을 일으킬 염려가 있어 적극적인 방역에 한계가 있다. 하지만 최근 러브버그가 대량 발생하자 단순 불쾌감을 넘어 시민 생활에 실질적인 불편을 준다는 민원이 빗발쳤다. &lt;br&gt;&lt;br&gt;서울시에 따르면 러브버그 관련 민원은 2022년 4418건에서 2023년 5600건, 2024년 9296건으로 급증했다. 올해 상반기에도 4695건이 접수됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2H3MVXACJO7HDGEQH2ZWB7FX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;날개가 약한 러브버그의 특성상 나뭇잎 아래쪽에 살수하는 것으로 러브버그를 퇴치할 수 있다고 전문가는 설명했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더 큰 문제는 서울 시내와 주변에 새로운 러브버그 출몰지가 나타난다는 점이다. 지난 한 해 동안 금천구 러브버그 민원은 184건, 관악구는 280건에 불과했는데 올해 들어서는 금천구 698건, 관악구 508건으로 크게 늘었다. 이날 살수 작업이 이뤄진 서울 노원구 삼육대 인근 제명호 일대도 작년에는 러브버그 민원이 없었으나 올해 들어 눈에 띄게 늘었다. &lt;br&gt;&lt;br&gt;관련 분야 전문가인 김동건 삼육대 교수는 “노원구와 남양주, 구리 등 지역에서 작년에는 러브버그가 보이지 않았는데 올해는 퍼졌다”며 “기온보다는 녹지 축을 따라 퍼지는 양상이 나타난다”고 설명했다. &lt;br&gt;&lt;br&gt;서울시는 이 밖에도 실시간 발생 감시와 광원 포집기, 향기 유인제(은평구 백련산 일대) 운영 등 곤충 개체 수 조절을 위한 시범사업도 진행 중이다. 시민들에게는 물 뿌리기, 방충망 정비, 끈끈이 트랩 활용과 어두운색 옷 착용 등 생활 수칙도 홍보하고 있다. &lt;br&gt;&lt;br&gt;이동률 서울시 시민건강국장은 “친환경적이고 비화학적 방법으로 유행성 생활불쾌곤충의 개체 수를 조절해 시민 불편을 최소화하면서 사람과 곤충이 공존할 수 있는 생활 환경을 조성해나가겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여교사와 초등생 제자의 사랑?… 논란의 웹툰, 결국 판매 중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 00:55:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5L5B7LEDCFQ64MSF4NRUER7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 '내가 사랑하는 초등학생'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사와 초등학생 간 연애 감정을 소재로 한 웹툰 ‘내가 사랑하는 초등학생’이 각종 논란 끝에 결국 온라인에서 판매 중단됐다.&lt;br&gt;&lt;br&gt;4일 웹툰 업계에 따르면 네이버시리즈, 카카오페이지, 교보문고, 리디 등 주요 플랫폼은 최근 ‘내가 사랑하는 초등학생’의 서비스를 중단했다. 관련 민원이 쏟아지자 발행처 등과 협의해 판매 중단을 결정한 것으로 전해졌다. 현재 플랫폼에서 작품명을 검색하면 ‘검색 결과가 없다’고 뜬다.&lt;br&gt;&lt;br&gt;‘내가 사랑하는 초등학생’은 연인과 이별한 초등학교 여교사가 게임 속에서 만난 유저에게 호감을 느끼게 되지만, 그 유저가 실제로는 자기 제자라는 사실을 알게 되면서 벌어지는 이야기다. 2015년부터 2020년까지 연재되던 당시에도 소아성애와 그루밍 범죄 논란 등을 일으킨 바 있다.&lt;br&gt;&lt;br&gt;최근엔 드라마 제작 소식이 전해지며 교육 단체의 반발에 부딪혔다. 앞서 한국교원단체총연합회는 지난 1일 성명을 내고 “교사 지위를 악용해 미성년 제자와 사적인 감정을 나누고 이를 연애 관계로 발전시키는 서사는 결코 로맨스나 판타지로 치부할 수 없는 명백한 그루밍 범죄의 미화”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이 소재는 교육 현장에서 헌신하는 모든 교육자의 명예를 실추시키고 교직 사회 전체에 대한 깊은 불신을 초래할 것”이라며 “교사, 학생, 학부모 간 신뢰라는 교육의 근간을 흔드는 행위”라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 이진숙 후보자, 제자 논문 10여개 표절 의혹</title>
@@ -729,18 +825,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7HKET5HB3UMIHRAOBBI47KNLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 부산 기장군 아파트 화재 현장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트에서 부모가 외출한 사이 화재가 발생해 어린 자매가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;3일 부산소방재난본부 등에 따르면 전날 오후 10시 58분쯤 부산 기장군의 한 아파트에서 원인을 알 수 없는 화재가 발생했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방대원들은 아파트 내부에서 의식을 잃고 쓰러져 있던 A(11)양과 B(7)양을 구조해 인근 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;화재 당시 자매의 부모는 외출한 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부 관계자는 조선닷컴과의 통화에서 “부모가 무슨 일로 외출했었는지는 파악하지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이날 화재로 아파트 주민 등 수십 명이 긴급 대피했고, 아파트 내부 등을 태워 2850만원(소방 추산)의 재산 피해를 냈다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사하기 위해 이날 오전 합동 감식에 나설 예정이다.&lt;br&gt;&lt;br&gt;한편 부산에서는 지난달 24일에도 부모가 외출한 사이 화재가 발생해 10살, 7살의 어린 자매가 숨지는 사고가 발생한 바 있다. 사고 당시 부모는 청소 일을 하러 집을 비운 상황이었다. &lt;br&gt;&lt;br&gt;또 지난 2월에는 인천 서구의 한 빌라에서 불이 나 12세 여자아이가 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다. 당시 아이의 아버지는 신장 투석 치료를 위해 병원에 갔고, 어머니는 식당으로 출근한 상황이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>골드바 101개, 김치통엔 돈뭉치... ﻿3000억 횡령 경남은행 직원의 황제생활</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/03/Q4VL2LIIIJAVPHNMGFIGQ6D2UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/Q4VL2LIIIJAVPHNMGFIGQ6D2UI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 22:25:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTQ7YUW2P5A6JFCLOULL2OCA6U.png"&gt;&lt;figcaption&gt;&lt;small&gt;BNK경남은행 투자금융부장 이모씨가 횡령자금으로 환전한 골드바와 현금. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융권 사상 최대 규모의 횡령 사건을 일으킨 BNK경남은행 직원에게 징역 35년형이 확정됐다. 이 남성과 가족들은 빼돌린 고객 돈으로 초호화 생활을 누려왔던 것으로 드러났다. &lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 대법원은 최근 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 혐의로 재판에 넘겨진 전 경남은행 투자금융부장 이모씨의 항소를 기각하고 징역 35년을 확정했다. &lt;br&gt;&lt;br&gt;다만 대법원은 추징금 159억4629만원에 대해서는 파기환송 결정을 내렸다. 이씨가 압수당한 금괴의 가치를 재판 선고 시점의 시세로 재산정해야 한다는 취지다. &lt;br&gt;&lt;br&gt;이씨는 2008년부터 2022년까지 부동산 프로젝트 파이낸싱(PF) 대출 업무를 담당하면서 77차례에 걸쳐 총 2988억원을 빼돌린 혐의를 받았다. 단일 횡령 사건으로는 역대 최대 규모다. &lt;br&gt;&lt;br&gt;이씨는 PF 시행사들이 대출을 요청한 사실이 없는데도 허위로 서류를 꾸며 대출을 실행하고, 시행사들이 낸 대출 원리금을 빼돌리는 등의 수법으로 돈을 가로챘다. 이 돈은 자기 가족과 지인의 계좌 등에 이체했다. 또 자신의 횡령 사실을 숨기려고 다른 시행사의 대출 계좌로 송금하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HEAU5DENVEORFC4INYWYWHOOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이씨의 주거지에서 발견된 명품 가방과 신발들. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨와 가족들은 14년간 83억원 상당의 부동산을 사들이고 고가의 명품을 구매하는 등 월평균 7000만원이 넘는 돈을 펑펑 썼다고 검찰은 설명했다. 이 밖에도 이씨는 횡령 자금을 골드바‧상품권 구매, 골프‧피트니스 회원권 구매, 생활비와 자녀 유학비, 주식 투자 등에 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UURJS3EXQJAOJCQ3Q4R5LBQCVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;이씨의 아내가 김치통에 은닉한 현금과 수표. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융당국이 조사를 시작하자 이씨 가족은 도주에 적극적으로 가담했다. 이씨의 친형은 총 44억원을 현금화하는 데 도움을 줬고, 이씨가 범죄수익을 숨겨둔 오피스텔의 보증금과 월세를 납부해주며 관리를 도맡았다. 이씨의 아내는 현금을 수표로 바꿔 김치통 안에 숨겨두기도 했다. &lt;br&gt;&lt;br&gt;검찰은 이씨가 차명으로 보유했던 오피스텔 3곳에서 1㎏짜리 골드바 101개와 현금 45억원, 미화 5만 달러 등을 찾아내 압수했다. &lt;br&gt;&lt;br&gt;이씨의 친형과 아내는 물론이고 자금 세탁을 도와준 일당 7명 모두 실형이 확정됐다. 또 금융위원회는 경남은행에 6개월 일부 영업정지 중징계를 내렸고, 관련된 임직원 역시 정직부터 견책까지 징계 조치를 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BHXULKW6WFAFZF4TGE7IWTYODI.png?auth=673bf3fcfacea8003347946d114e1a9948f377bcbf75020b6640677e502e6d4e&amp;smart=true&amp;width=549&amp;height=309" type="image/png" height="309" width="549">
-        <media:description type="plain">BNK경남은행 투자금융부장 이모씨가 횡령자금으로 환전한 골드바와 현금. /서울중앙지검</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“태극기 문신이 왜 있어?”…日 공항서 취조당한 스웨덴 청년</title>
       <link>https://www.chosun.com/national/national_general/2025/07/03/ISIE3YEFVNCUFD3QJCRAV2HYQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/ISIE3YEFVNCUFD3QJCRAV2HYQE/</guid>
@@ -826,42 +910,6 @@
       <content:encoded>국내 최대 농산물 경매 시장인 서울 송파구 가락시장이 ‘주 5일 근무제’ 시범 도입을 검토하는 것으로 2일 전해졌다. 가락시장의 5070 중노년층 상인들은 그간 “나이가 들어 하루 12시간 이상의 고강도 노동을 주 6일 하기엔 무리가 있다. 개장일을 감축하자”고 해왔다&amp;lt;본지 6월 28일 자 A2면&amp;gt;.&lt;br&gt;&lt;br&gt;가락시장을 운영하는 서울농수산식품공사 관계자는 이날 “올해 11·12월, 내년 3·4월 총 4번에 걸쳐 월 1회 주 5일 근무제를 실시하는 방안을 검토 중”이라고 했다. 현재 가락시장에서는 토요일 하루를 제외하고 오후 6시 30분부터 다음 날 오전 8시까지 경매가 진행된다.&lt;br&gt;&lt;br&gt;“이제는 못 하겠다. 좀 쉬자”는 상인들의 호소에 가락시장은 지난 2년간 주 5일제를 두 차례 시범 운영한 적이 있다. 출하 물량이 적고 품질 관리가 쉬운 겨울철을 골라 실험해 봤다. 그런데 출하자(농민)들의 반발이 심해 정식 도입에는 실패했다. “휴일이 하루 더 생겨 신선한 농산물을 제때 팔지 못하면 품질 등급이 떨어져 가격 손실이 막심해진다”는 출하자(농민)들의 반발이 거셌기 때문이다. &lt;br&gt;&lt;br&gt;상인들과 농민 간 찬반 여론이 갈리자 공사 측은 ‘상인 교대 근무’를 대안으로 제시하기도 했었다. 시장 자체는 현행대로 주 6일 운영하되 중도매상들의 근무일을 조정해 ‘주 5일’로 근로 부담을 낮추겠다는 것이다. 그러나 상인·농민 모두 “경매를 진행하는 사람 수가 줄어들면 물량 수급 균형이 깨지게 되고 이는 가격 불안정으로 이어질 것”이란 우려를 제기해 무산됐다.&lt;br&gt;&lt;br&gt;공사 측은 “주 5일 시범 도입 이후에도 별문제 없이 시장이 돌아가는지를 중점적으로 살펴보겠다”며 “별다른 이상이 없다면 주 5일 근무제를 정식으로 도입하는 방안을 고려할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중·고교 수행평가, 수업 때만 하기로</title>
-      <link>https://www.chosun.com/national/education/2025/07/03/NA3SY63ZMBCY3MUD2JWSUUJYQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/03/NA3SY63ZMBCY3MUD2JWSUUJYQU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 강서구에 사는 이모씨는 학기 중엔 주말 가족 여행을 가지 않는다. 학교에서 내준 수행평가를 하느라 바쁜 고등학교 2학년 자녀를 도와줘야 하기 때문이다. 이씨는 “아이가 수행평가 보고서나 글짓기 초안을 작성하면 이후 맞춤법 확인하고 비문 고쳐주는 건 내 역할”이라며 “수행평가로 늘 잠이 부족한 아이가 조금이라도 더 쉴 수 있도록 논문이나 옛날 기사 등의 자료를 대신 찾아줄 때도 많다”고 했다.&lt;br&gt;&lt;br&gt;이씨처럼 부모가 집에서 도와주는 경우가 많아 ‘부모 숙제’라고도 불렸던 수행평가가 사라질 전망이다. 교육부는 “수행평가의 본래 취지를 살리고 학생들의 부담을 줄이기 위해 2학기부터 모든 수행평가는 수업 시간에 이뤄진다는 원칙을 철저히 적용한다”고 2일 밝혔다. 앞으로 시도교육청은 매 학기 시작 전에 모든 학교의 수행평가 계획을 점검해 부모나 학원이 도와줄 가능성이 높거나 학생이 수업 시간 외에 추가로 시간을 들여 자료를 조사해야 하는 수행평가는 치러지지 않도록 해야 한다. &lt;br&gt;&lt;br&gt;수행평가는 암기식 지필평가(중간·기말고사)의 한계를 극복하기 위해 1999년 도입됐다. 학생들의 학력을 다양한 방식으로 점검하고, 배우는 과정을 평가한다는 취지가 있었다. 그런데 한 학기에 과목당 3~5회씩 총 30~50회가량 실시되고 숙제로 내주는 경우가 많아 학생 부담이 너무 크다는 지적이 계속 제기됐다. 대부분 부모나 학원에서 도와줘 ‘부모 숙제’ ‘학원 숙제’라는 말까지 나왔다. 지난 4월 한 학부모는 국회 국민 동의 청원에 “수행평가가 본래 목적을 잃고 과도한 스트레스를 초래하니 폐지해달라”는 글을 올리기도 했다.&lt;br&gt;&lt;br&gt;교육부는 지금도 학생들에게 과도한 부담을 주는 수행평가는 치지 못하도록 하고 있다. 2020년 모든 수행평가를 수업 중에 하도록 하고 과제로 내주지 않도록 하는 지침도 만들었다. 그런데도 학교에서 이를 지키지 않자, 이번엔 교육청이 학기마다 일선 학교의 실태를 점검하도록 한 것이다. 교육부 관계자는 “앞으로 수행평가 횟수가 너무 많거나 특정 기간에 여러 수행평가를 몰아서 하는 것도 사전에 조정하도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문 닫는 대학에 ‘해산정리금’… 사립대 구조개선법 통과</title>
-      <link>https://www.chosun.com/national/education/2025/07/03/3HTDCCBWPRA25JWFZTPOPXMT2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/03/3HTDCCBWPRA25JWFZTPOPXMT2Y/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>신입생 충원에 어려움을 겪는 부실 대학의 퇴출을 유도하는 법안이 국회 교육위원회를 통과했다. 정부가 경영난을 겪는 사립대에 폐교를 명령할 수 있고, 대학 청산 후 남은 재산 일부를 설립자 측에 돌려줘 부실 대학들이 스스로 문을 닫게 하는 내용이 들어갔다. &lt;br&gt;&lt;br&gt;국회 교육위는 2일 전체회의를 열고 이런 내용의 ‘사립대 구조 개선 지원법 제정안’을 통과시켰다. 지난 2월 교육위 법안 심사 소위에서 여야 합의로 통과한 데 이어 상임위 문턱까지 넘은 것이다. 2010년 관련 법안이 국회에서 처음 발의된 이후 15년 만이다.&lt;br&gt;&lt;br&gt;정부는 인구 감소 등으로 재정 위기를 겪고 있는 사립대의 구조 개혁을 촉진하기 위해 해당 법안을 추진해왔다. 그동안 평가를 통해 부실 대학을 선별하고 예산 지원을 하지 않는 방식으로 대학 폐교를 유도해왔지만, 강제로 문을 닫게 할 법적 근거가 없었다. 이에 2000년 이후 문을 닫은 대학은 22곳뿐이고, 이 중 자진 폐교한 곳은 6곳에 불과하다. 현행법상 사립대는 문을 닫으면 학교 재산이 모두 국가로 귀속되기 때문에 학교 경영진은 학생 수가 줄어도 문을 닫지 않고 버티는 경우가 많았다. 이는 대학 교육의 질 저하, 교직원 임금 체불 등 운영 부실 문제로 이어졌다. 지난해 한국사학진흥재단이 전국 280개 대학의 결산서, 신입생 충원율 등으로 재정 진단을 진행한 결과 14곳이 ‘경영 위기 대학’으로 지정됐다. 경영 위기 대학은 운영 적자가 계속되거나 교직원 월급도 못 줄 정도로 재정이 어려운 상태였다. &lt;br&gt;&lt;br&gt;이 법안이 본회의를 통과하면 정부는 부실 대학에 대해 경영 진단을 거쳐 학생 모집 정지, 폐교, 학교법인 해산·청산 등을 명령할 수 있게 된다. 또 폐교 후 대학 자산에서 빚을 해소하고 교직원·학생들에게 위로금까지 지급한 뒤 남은 금액의 15%는 설립자 측에 ‘해산정리금’으로 돌려줄 수 있다. 교육부에 ‘사립대학구조개선심의회’를 두고 해산 절차를 심의하고, 폐교 대학의 교직원과 학생에게 퇴직 위로금 지급을 의무화하는 내용도 포함됐다. 폐교 대학 교직원의 고용 승계, 재취업 연계 등 보호책은 법안에 포함되지 않았다. &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민원 전화 두려운 MZ 공무원에 “괜·실·번·죄·바 기억하세요”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/03/7LRSZ7J3W5CHRG53RJ7UB2ZJ2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/7LRSZ7J3W5CHRG53RJ7UB2ZJ2I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2S2ENJIJRHRHDYSNRNQH7R5KA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“자, 따라 해 보실까요? 괜, 실, 번, 죄, 바!”&lt;br&gt;&lt;br&gt;지난 1일 서울시청 대회의실. 강단에 선 민원기획팀 임유미(42) 주임이 큰 소리로 외치자 시청 직원 100여 명이 웃으며 따라 했다.&lt;br&gt;&lt;br&gt;괜, 실, 번, 죄, 바는 “괜찮으시다면” “실례합니다만” “번거로우시겠지만” “죄송합니다만” “바쁘시겠지만”의 앞 글자를 따서 만든 말이다.&lt;br&gt;&lt;br&gt;“요 말을 먼저 던지면서 대화를 시작해 보세요. 대화가 훨씬 부드러워질 거예요. ‘쿠션’을 주는 거예요.”&lt;br&gt;&lt;br&gt;임씨는 민간 항공사 고객만족팀 출신의 ‘전화 응대 베테랑’이다. 공무원들은 진지한 표정으로 임씨 설명을 받아 적었다.&lt;br&gt;&lt;br&gt;이날 특강 주제는 ‘전화 응대 대화법-정서적 설득과 언어 설계 중심 교육’. 민원 응대 교육은 수시로 하지만 이렇게 전화 응대를 주제로 교육을 한 건 처음이다. 서울시 관계자는 “민원인과 통화를 어려워하는 MZ세대 직원들을 위해 특별히 마련했다”고 했다.&lt;br&gt;&lt;br&gt;그동안 특강을 열어 달라는 MZ세대 공무원들의 요청도 많았다고 한다. 이날 참석자 100여 명 중 8할이 20~30대 ‘MZ 공무원’이었다. &lt;br&gt;&lt;br&gt;최근 ‘콜 포비아(전화 공포증)’를 겪는 20~30대가 많다. 공직 사회도 예외는 아니다. 콜 포비아는 카카오톡 등 메신저에 익숙한 젊은 세대가 전화로 직접 대화하는 걸 어려워하는 현상이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHR2GBR545HGFKTOKWSPNXWBWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;취업 포털 알바천국이 지난해 20~30대 남녀 1186명을 대상으로 조사한 결과, 응답자의 39.3%가 ‘전화 통화 시 긴장을 느낀다’고 답했다.&lt;br&gt;&lt;br&gt;20대 공무원 A씨는 “민원인이 전화로 용건을 쏟아내면 말문이 갑자기 턱 막힌다”며 “일할 때 제일 무서운 게 민원인 전화”라고 했다.&lt;br&gt;&lt;br&gt;이날 특강에선 민원인과 부드럽게 대화를 이어가는 요령을 주로 다뤘다. 실제 상황을 가정한 ‘모의 전화 실습’도 했다.&lt;br&gt;&lt;br&gt;“민원인 얘기에 일단 먼저 맞장구를 친 뒤 설명을 해보세요. ‘Yes, but(네, 그런데)’ 화법이라고 해요. 먼저 공감하고, 상황을 설명한 뒤, 대안을 제시하세요. ‘공상대’ 화법이죠.”&lt;br&gt;&lt;br&gt;임씨 말을 열심히 받아 적던 공무원 B씨는 “공식처럼 달달 외워서 써먹겠다”고 했다.&lt;br&gt;&lt;br&gt;“전화벨은 세 번 울리기 전에 받는 게 좋아요. 늦게 받으면 꼭 ‘기다려 주셔서 감사합니다’라고 먼저 말하세요. 상대방도 부드럽게 답할 거예요.”&lt;br&gt;&lt;br&gt;특강을 듣고 난 공무원들은 “전화벨 소리만 들리면 가슴이 두근두근했는데 이제 자신감이 생겼다” “전화 대화법을 배운 게 태어나서 처음인데 너무 도움 된다”고 했다. 서울시 관계자는 “반응이 좋아 신입 직원 교육 때도 전화 특강을 열 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사람 잡는 다슬기… 두 달 새 4명 익사</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/03/OGGEN3BVY5BRDIZD6GN5DKCUDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/OGGEN3BVY5BRDIZD6GN5DKCUDM/</guid>
-      <dc:creator>영천=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>최근 하천에서 다슬기를 잡다가 물에 빠져 숨지는 사고가 전국에서 잇따르고 있다. 5~6월 두 달 새 4명이 숨졌다. “다슬기가 사람 잡는다”는 말이 나온다.&lt;br&gt;&lt;br&gt;지난달 30일 오후 11시 53분쯤 경북 영천 한 하천에서 다슬기를 잡던 80대 A씨가 물에 빠져 숨진 채 발견됐다. 이 하천 수심은 30㎝ 안팎이다. 같은 날 오후 10시 48분쯤 충북 보은 하천에서는 80대 B씨가 다슬기를 잡다가 물에 빠져 숨졌다. 소방청에 따르면, 최근 3년간(2022~2024년) 다슬기를 잡다가 숨진 사람은 15명이다. 한 해 평균 5명꼴이다. 올해는 벌써 4명이 숨졌다.&lt;br&gt;&lt;br&gt;무릎 높이 하천에서 다슬기를 잡던 사람들이 왜 잇따라 익사하는 걸까.&lt;br&gt;&lt;br&gt;다슬기는 자갈이나 돌에 붙은 이끼, 수초 등을 먹고 산다. 이 때문에 다슬기가 많이 서식하는 곳은 특히 미끄럽다. 경북 영천소방서 관계자는 “맨발로 들어가 다슬기를 잡다가 미끄러져 물에 빠지는 경우가 많다”고 했다. &lt;br&gt;&lt;br&gt;하천 가장자리는 수심이 얕지만 가운데는 움푹 파여 깊은 곳도 많다. 물살이 빠른 여울도 있다. 경북도 민물고기연구센터에 따르면, 다슬기는 요즘처럼 더운 날이면 상대적으로 수온이 낮은 깊은 바닥에 모인다. &lt;br&gt;&lt;br&gt;야행성이라 밤에 더 많이 나온다. 이를 노리고 밤에 다슬기를 잡는 사람도 많다. 최영상 대구보건대 명예교수는 “허리를 숙이고 물속만 집중하다 보면 수심이나 물살을 놓치기 쉽다. 밤에는 더 위험하다”고 했다. &lt;br&gt;&lt;br&gt;다슬기를 잡는 사람은 대체로 노인이다. 올해 다슬기를 잡다 숨진 4명 중 3명도 노인이었다. 노인들은 갑자기 미끄러지면 정신을 잃고 제대로 대처하지 못하는 경우가 많다. 수심이 얕은 곳에서 쉽게 빠져나오지 못하고 익사하는 경우가 생긴다는 것이다. &lt;br&gt;&lt;br&gt;다슬기는 5~9월이 제철이다. 가격이 1㎏당 4만원 수준으로 올라 직접 잡는 사람이 늘었다고 한다. 경북에선 고디, 충청에선 올갱이 등으로 불린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민노총 “16·19일 총파업”… 정부에 청구서 내민 노동계</title>
       <link>https://www.chosun.com/national/labor/2025/07/03/INNBF7PZINBUHFQWWN6TOWSL3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/03/INNBF7PZINBUHFQWWN6TOWSL3M/</guid>
@@ -878,24 +926,6 @@
       <description/>
       <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQBVLPTE7RGIXOKEJEXE7K3ZJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오후 경기 고양시 일산 호수공원에서 학생들이 물놀이를 하며 더위를 식히고 있다. 이날 서울의 한낮 최고기온이 30.9도, 체감기온은 32도를 웃도는 등 전국이 폭염에 신음했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>80대가 몰던 SUV, 휴게소 식당 덮쳐 10명 중경상</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/03/MUBNPJ2KINDYRJTCU6AGML3DWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/MUBNPJ2KINDYRJTCU6AGML3DWA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHWLS3HB4BGGRITRP6LKX5CWUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 11시32분쯤 강원 강릉시 영동고속도로 강릉대관령휴게소(강릉 방면)에서 A(82)씨가 몰던 포드 익스플로러 차량이 식당 건물로 돌진했다. 차량은 식당 건물을 뚫고 들어가 주방까지 부순 뒤에야 멈춰 섰다. 당시 점심 식사를 하던 B(30)씨 등 3명이 팔이 부러지는 등 중상을 입고 병원으로 이송됐다. C(60)씨 등 7명은 가벼운 부상을 당했다. A씨는 “주차를 하다가 브레이크 대신 가속페달을 잘못 밟아 사고를 냈다”고 했다. 사고 당시 술을 마시거나 약을 복용하진 않은 것으로 조사됐다. 고령 운전자 사고는 해마다 증가하고 있다. 한국도로교통공단에 따르면, 65세 이상 운전자가 낸 교통사고는 2020년 3만1072건에서 지난해 4만2369건으로 36% 증가했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 동국대 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/07/03/4H6DG5B6RFHLBLCBIUBZVCBUYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/03/4H6DG5B6RFHLBLCBIUBZVCBUYY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲강원 동해시▷문화관광국장 임정규&lt;br&gt;&lt;br&gt;▲서울시의회◇3급 승진임용▷의정국장 서인석&lt;br&gt;&lt;br&gt;▲동국대◇부서장 및 부속기관장급 인사(겸직)▷BMC행정처장 겸 경기RISE사업단 운영부단장 겸 경기RISE사업단 운영본부장 유한림◇팀장 직위 승진 및 전보▷관리처 로터스관건설팀장 김학원▷실·팀장 전보 및 겸직▷BMC행정처 지역협력팀장 겸 경기RISE사업단 행정지원팀장 박혁상▷학생처 현장실습지원센터장 겸 IPP사업단 IPP행정팀장 길홍모▷연구기획본부 연구사업팀장 겸 서울RISE사업단 서울RISE사업팀장 조용신&lt;br&gt;&lt;br&gt;▲KBS▷콘텐츠전략본부 멀티플랫폼센터장 김윤환▷콘텐츠전략본부 드라마센터장 김상휘▷콘텐츠전략본부 멀티플랫폼센터 디지털전략국장 송영석&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“제로 슈거? 결국 설탕 찾게 돼… 당장 단맛 유혹 끊어야”</title>
@@ -950,33 +980,6 @@
       <description/>
       <pubDate>Wed, 02 Jul 2025 11:14:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLXVDBHWCVMVLBMWJZ26JZRVKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안덕근 산업통상자원부 장관이 2일 내란특검 조사를 마친 후 서초구 서울고검을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안덕근 산업통상자원부 장관이 2일 저녁 내란 특별검사팀 조사를 마치고 귀가했다. 조사실에 들어간 지 9시간여 만이다.&lt;br&gt;&lt;br&gt;내란 특검팀은 이날 저녁 “안 장관은 조사를 완료했다”고 밝혔다. 안 장관은 오후 7시 40분쯤 서울고검 조사실을 나섰다.&lt;br&gt;&lt;br&gt;안 장관은 지난해 12월 비상계엄 선포 직전 열린 국무회의에는 참석하지 않았지만, 해제를 위한 국무회의에는 참여했다. 특검은 그를 상대로 회의 참석 연락을 받았는지 여부와 불참 경위 등을 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이어 유상임 과학기술정보통신부 장관도 출석 5시간여 만인 오후 9시쯤 조사를 마치고 귀가했다. 유 장관 역시 계엄 선포 전 회의에는 불참했으나, 이후 열린 회의에는 참석한 인물이다.&lt;br&gt;&lt;br&gt;이날 함께 소환된 한덕수 전 국무총리, 김정환 전 대통령실 수행실장은 아직 조사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 임성근 첫 조사 4시간만 종료… 임 “한 점 의혹 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/DZPRKNARYFBFZO3X3JYDUL2L4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/DZPRKNARYFBFZO3X3JYDUL2L4Y/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 10:22:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFP5MVO6ZRFOBBKYSFGXU36VDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 2일 오후 서울 서초구 서초한샘빌딩에 마련된 순직 해병 특검 사무실 앞에서 발언하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 2일 오후 6시 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병대원 특검팀의 1차 소환 조사를 마치고 “(구명 로비와 관련해) 한 점의 의혹도 없다”고 말했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오후 2시부터 약 4시간 가량 조사를 받았다. 해병 특검은 임 전 사단장이 받고 있는 과실치사 혐의와 구명 로비 의혹 등에 대해 물었다고 한다. 특검은 임 전 사단장을 추가로 불러 조사할 계획이다.&lt;br&gt;&lt;br&gt;임 전 사단장은 2023년 7월 경북 예천군 실종자 수색 작전 중 ‘수중 수색’ 등 지시를 내려 고(故) 채수근 상병이 숨지게 한 혐의(업무상 과실치사 등)를 받는다. 또 도이치모터스 주가조작 공범 이종호씨 등이 임 전 사단장을 구하기 위해 김건희 여사 측에 로비했다는 ‘구명 로비’ 의혹의 당사자다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 조사를 마치고 나와 “전반적으로 업무상 과실치사 혐의와 구명 로비 의혹에 대한 질문을 받았다”며 “그간 고위공직자범죄수사처에 수사 자료를 많이 냈고 경찰에서도 충분히 말했기에, 필요한 부분에 대해서만 선택적으로 진술했다”고 말했다. 그는 “헌법과 형사소송법에 보장된 진술거부권으로 누구든 (거부)할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;구명 로비 의혹에 관해서는 “제가 알고 있는 영역에서는 스스로 한 점의 의혹도 없다”면서도 “(이씨 등) 그분들이 어떤 활동이 있었는지는 알 수 없다”고 했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “임 전 사단장이 업무상 과실치사 혐의에 대해 상당 부분 진술을 거부했고, 다른 혐의들에 대해서는 일부 진술했다”며 “추후 소환 조사 일정을 다시 정할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 김건희 특검, 김 여사 포함 20여명 출국금지 조치</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/77MRVML7ZVHTJAADAB6Q2GF75Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/77MRVML7ZVHTJAADAB6Q2GF75Y/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 10:03:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GC6PDFUUMWUELL5U2EJLP6VJ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 윤석열 전 대통령 부인 김건희 여사가 서울 서초구 서초동 자택 앞에서 지지자들과 인사를 나누고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사를 포함해 관계자 20여명에 대해 출국금지 조치를 했다. &lt;br&gt;&lt;br&gt;2일 법조계에 따르면 특검팀은 검찰 등으로부터 사건을 넘겨받은 뒤 김 여사를 비롯해 주요 관계자들에 대한 출국금지를 법무부에 신청한 것으로 알려졌다. 이미 김 여사는 명태균씨의 공천개입 의혹을 수사하던 서울중앙지검 수사팀이 출국금지를 신청해 출국이 막힌 상태였는데, 담당 기관이 특검으로 바뀌면서 다시 신청을 낸 것이다. &lt;br&gt;&lt;br&gt;통상 수사기관은 수사 중인 피의자가 해외로 도피하지 못하도록 출국금지 조치를 한다. 다만 김 여사의 출국금지 사실이 알려진 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;특검팀이 주요 관계자들의 신병을 확보하면서, 피의자 소환조사 등 향후 절차도 속도감 있게 진행될 것이란 전망이 나온다. 이날 특검팀은 현판식을 열고 본격적인 수사를 개시했다. 수사 대상 의혹이 16개에 달해 특검팀은 특검보 4명이 2~3개 팀을 담당하는 식으로 동시다발적인 수사에 나설 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤관석, ‘입법 청탁 대가 뇌물 혐의’ 2심서도 무죄 주장</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/02/N23V3X2IJNCRHFB3CWC2BNJJRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/02/N23V3X2IJNCRHFB3CWC2BNJJRA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 02 Jul 2025 09:21:31 +0000</pubDate>
-      <content:encoded>입법 청탁을 받고 2000만원대 뇌물을 수수한 혐의로 기소된 윤관석 전 더불어민주당 의원이 2심에서도 무죄를 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVA4743XWREKAYD7REEMGZDSVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 돈 봉투 사건으로 복역하다 가석방된 윤관석 전 의원이 2일 오후 서울 서초구 서울고등법원에서 열린 뇌물수수 등 혐의 관련 항소심 1차 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사6-2부(재판장 최은정)는 2일 뇌물수수 등 혐의로 기소된 윤 전 의원의 항소심 첫 공판을 진행했다. 윤 전 의원 측은 “(후원은) 사적인 친분에서 비롯된 것일 뿐, 직무 관련성이 있었던 건 아니다”라며 혐의를 부인했다. &lt;br&gt;&lt;br&gt;윤 전 의원 측은 “검찰청법에 따라 검찰의 고위 공직자에 대한 수사는 제한되는데도, 검찰이 이를 넘어서 수사했다”면서 검찰이 수집한 증거가 위법하다고 주장했다. 검찰은 국회 법제실 직원 등을 증인으로 추가 신청하겠다고 했고, 재판부는 증인 채택 여부를 검토한 뒤 내달 20일 재판을 열기로 했다.&lt;br&gt;&lt;br&gt;윤 전 의원은 2017~2022년 욕실 자재 업체 대표 송씨에게 절수 설비 관련 법령 개정 등을 도와달라는 청탁을 받고, 그 대가로 골프장 이용료 770만원과 금품 등 2270만원 상당을 수수한 혐의로 작년 6월 기소됐다. 다른 민주당 의원들에게 총 850만원의 후원금을 내게 한 혐의(제3자 뇌물)도 받았다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 4월 윤 전 의원에게 무죄를 선고했다. 당시 재판부는 “유죄로 인정될 소지가 없지 않다”면서도 “우호적 친분 관계를 넘어 직무와 관련된 금품을 수수했다거나, 청탁의 대가로 제공된 뇌물이라고 인식했다고 단정할 증거가 부족하다”고 했다.&lt;br&gt;&lt;br&gt;한편 윤 전 의원은 ‘민주당 전당대회 돈봉투 사건’에서 자금을 조성한 혐의로 작년 10월 대법원에서 징역 2년이 확정받고, 지난달 30일 가석방으로 풀려났다. 의원들에게 돈 봉투를 건넨 혐의로도 기소돼 1심에서 징역 9개월에 집행유예 2년을 선고받고, 2심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
