@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>임재현 전 관세청장, 태평양 합류</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209450.jpg" alt="345663.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;임재현 고문. 《사진=법무법인 태평양》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 임재현 전 관세청장을 고문으로 영입했다고 4일 밝혔다.&lt;br /&gt;&lt;br /&gt;임재현 고문은 30년간 국세청, 기획재정부, 관세청 등의 조세정책, 조세행정, 관세행정 분야에서 근무한 공직생활 경험을 바탕으로 태평양의 조세그룹 및 통상전략혁신 허브에서 조세와 관세·통상 전분야에 대한 통찰력 있는 자문을 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;임 고문은 연세대학교를 졸업하고 행정고시 34회로 공직에 입문했다. 국세청 근무를 시작으로 조세심판원 상임심판관, 기획재정부 재산소비세정책관, 소득법인세정책관, 조세총괄정책관, 세제실장 등 세재실 요직을 두루 지냈다. 2022년 관세청장을 끝으로 공직에서 퇴임했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;(59·사법연수원 22기) 대표변호사는 "오랜 기간 조세 정책을 총괄해 온 임재현 고문의 합류로 태평양 조세그룹의 전문성이 한층 더 강화됐다"며 "새 정부 출범과 함께 조세법 개정이 예고되면서 대응방안을 고민하는 기업들에게 보다 체계적이고 장기적인 관점의 솔루션을 제공할 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;태평양은 최근 이화여대 명예교수인 최병일 고문과 관세청 차장을 지낸 이찬기 고문, 국제조세 전문가인 제레미 에버렛 외국회계사를 영입해 조세 및 관세∙통상 분야의 경쟁력을 강화했다.</description>
+			<pubDate>Fri, 04 Jul 2025 02:11:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209450</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209450</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209450.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>임은정 신임 동부지검장 "검찰, 바뀌지 않으면 해체에 가까운 개혁 당할 것"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209449.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;임은정 신임 서울동부지검장이 4일 서울 송파구 서울동부지방검찰청에서 열린 취임식에서 취임사를 하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7331"&gt;임은정&lt;/span&gt;(51·사법연수원 30기) 신임 동부지검장이 4일 "검찰이 수술대 위에 놓인 상황이어서 바뀐 모습을 보여주지 않으면 해체에 가까운 개혁을 당하지 않을까 생각된다"고 말했다.&lt;br /&gt;&lt;br /&gt;임 지검장은 이날 오전 서울 송파구 동부지검 청사로 첫 출근하면서 취재진과 만나 "검찰이 그동안 해온 봐주기 수사와 거짓말에 대해 (비판을) 감수해야 한다"며 이같이 밝혔다.&lt;br /&gt;&lt;br /&gt;임 지검장은 '검찰 개혁에 대한 내부 반발이 있다'는 질문에는 "내부 반발은 수십 년 동안 있었던 일이다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;정부가 검찰 독재 정권이라는 평가가 있지 않았느냐"며 "그때보다는 목소리가 한풀 꺾인 것 같다"고 답했다.&lt;br /&gt;&lt;br /&gt;이어 "한때 존경했던 검찰 선배가 내란수괴로 조사받는 것이 참담한 후배가 한두 명이 아닌 것 같다"며 "검찰이 그때 잘못 평가했다는 반성을 하고 있다고 느끼고 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;임 지검장의 승진이 '정치적 배경'이 얽힌 인사란 평가가 있다는 질문에는 "서 있는 곳에 따라 바탕색을 다르게 보시는 건 10년 넘게 내부고발자를 하며 익숙했던 일이라 감수해야 할 것 같다"면서도 "제 진심은 앞으로 하는 행동으로 보여드리겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특히 임 지검장은 "국정기획위원회 전문 위원으로 어제까지 출근했고 앞으로도 자문위원으로 목소리와 고민을 담을 것"이라며 "방향과 속도 부분에 대해선 국정위가 조만간 발표할 것 같다. 조금만 기다린다면 구체적인 안을 보실 수 있을 것"이라고 했다. &lt;br /&gt;&lt;br /&gt;또 임 지검장은 "대전지검만 해도&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 총장 때부터 있던 월성원전이나 통계청 같은 민주당 정권 표적 수사가 수년간 지속됐다. 그래서 일선 장기 미제가 한두 건이 아니다"라며 "동부지검에선 인지수사보다 최대한 주어진 수사에 대해 공정하고 신속하게 처리할 수 있도록 만전을 기할 생각"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰이 행동으로 보여주지 않아 국민의 불신을 얻었다고 밝힌 임 지검장은 "말을 실천하는 행동이 필요할 때다. 실천으로 보여드리겠다"고 강조했다.</description>
 			<pubDate>Fri, 04 Jul 2025 01:51:20 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/209403</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209403</guid>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>수원구치소, 오투엠과 '산소발생 마스크 비축' 협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209400.jpg" alt="345366.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;7월 2일 수원구치소에서 열린 업무협약식에서 김도형 소장(왼쪽 다섯 번째)과 서준걸 오투엠 대표이사(네 번째) 등 협약식 참석자들이 기념 촬영을 하고 있다. 수원구치소 제공&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원구치소(소장 김도형)는 산소발생마스크 전문 제조업체 오투엠과 재난 대응을 위한 사회공헌 협약을 7월 2일 체결했다.&lt;br /&gt;&lt;br /&gt;이날 경기도 수원시 팔달구 우만동 수원구치소 회의실에서 열린 협약식에서 양측은 고층 구조의 교정시설이 갖는 재난 취약성을 고려해, 실제 재난 발생 시 필요한 장비를 지원하는 실질적인 협력 방안을 논의했다.&lt;br /&gt;&lt;br /&gt;오투엠은 이번 협약을 통해 화재 등 재난 상황에서 보다 안전한 대피를 돕는 ‘산소발생 생명구조 마스크’ 6000매(약 1억 원 상당)를 기부하겠다고 약속했다.&lt;br /&gt;&lt;br /&gt;수원구치소는 해당 물품을 재난 대비용으로 비축하고, 위기 발생 시 신속하고 체계적으로 활용할 계획이다. 또 이번 협약을 계기로 교정시설 내 재난 안전 대응 체계를 더욱 강화하고, 민관 협력을 바탕으로 인명 보호와 공공안전 확보에 지속적으로 앞장설 방침이다.&lt;br /&gt;&lt;br /&gt;김도형 수원구치소장은 “이번 협약은 단순한 물품 지원을 넘어, 민관 협력을 통해 수용자의 생명을 보호하는 중요한 계기가 될 것”이라며 “앞으로도 재난 예방과 대응 체계 강화에 최선을 다하겠다”고 말했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 02 Jul 2025 10:34:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209400</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209400</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209400.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
