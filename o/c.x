@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한강변 압구정 4구역, 1664가구 대단지로 재건축</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/YRJTVMGREZBCJLOSVWRK4DTFDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/YRJTVMGREZBCJLOSVWRK4DTFDQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 13:58:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQPWKMLWZD3AQF3THKYR3ASTIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남 압구정4구역 정비사업 조감도 / 자료 = 서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 압구정4구역이 최고 70층, 1664가구 단지로 재건축될 전망이다.&lt;br&gt;&lt;br&gt;서울시는 이러한 내용의 ‘압구정4구역 정비계획안’이 도시계획위원회 수권분과위원회를 통과했다고 4일 밝혔다. &lt;br&gt;&lt;br&gt;서울의 대표 부촌(富村) 중 하나인 압구정동 일대는 현대, 미성, 한양 등 1만 가구가 6개 구역으로 나눠 재건축을 추진하고 있다. 4구역은 2구역에 이어 둘째로 서울시 심의를 통과했다. 2구역(신현대 9·11·12차)은 이미 시공사 선정 절차를 밟고 있다. 3구역과 5구역은 서울시 심의를 앞두고 있다.&lt;br&gt;&lt;br&gt;4구역은 압구정 현대 8차와 한양 3·4·6차 단지를 포함한다. 지어진 지 45~47년 된 노후 단지다. 성수대교 남단과 갤러리아백화점 사이에 있다.&lt;br&gt;&lt;br&gt;계획안에 따르면, 4개 단지(1341가구)를 하나로 합쳐 1664가구로 재건축한다. 이 중 공공주택은 193가구다.&lt;br&gt;&lt;br&gt;최고 높이는 먼저 심의를 통과한 2구역과 같은 250m로 확정됐다. 서울시 관계자는 “층수로는 최고 70층 안팎이 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;단지 북쪽에는 한강을 바라볼 수 있는 덱 공원을 조성한다. 일반 시민도 누구나 이용할 수 있게 개방한다. 통경축(개방감을 주는 열린 공간)을 확보하기 위해 단지 동쪽과 한강변에는 낮은 동(棟)을 배치한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 의사인데 평창서 농사?... 정은경 남편, 농지법 위반 의혹</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/04/WQZT3X2LYBAOVPFUAV2TR7NSW4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/04/WQZT3X2LYBAOVPFUAV2TR7NSW4/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 13:04:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I43MELAMSZCJQYLIDBLSMBUPCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정은경 보건복지부 장관 후보자가 지난달 30일 오전 서울 중구 소월로 T타워에 마련된 인사청문회 준비 사무실로 출근하며 취재진의 질문에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정은경 보건복지부 장관 후보자 배우자가 농지법을 위반했다는 의혹이 불거졌다. 인천에서 일하는 의사인데, 강원도 평창에 농지를 소유하고 있기 때문이다. 현행 농지법은 본인이 직접 농사를 짓는 것이 아니라면, 농지를 소유하지 못하게 제한하고 있다.&lt;br&gt;&lt;br&gt;4일 관보 등에 따르면 정 후보자의 배우자 A씨는 강원도 평창군 봉평면 원길리의 논과 밭을 5481㎡(약 1658평) 보유하고 있다. 일부는 감자밭으로 전해졌다. A씨는 1998년 7월 총 5749여㎡의 땅을 사들였다. 이 중 일부는 평창군청이 하천재해예방공사 목적으로 수용했다. 남은 땅의 공시지가는 현재 1㎡당 2만7100~3만4700원으로 매매 당시(1㎡당 4080~4600원)의 6.6~7.5배로 올라간 상태다.&lt;br&gt;&lt;br&gt;A씨에게 해당 땅을 판 B씨 측은 취재진에게 ‘A씨가 거의 매주 평창으로 내려와 같이 농사를 짓는다’고 말한 것으로 전해졌다. 하지만 마을 이장은 ‘해당 농지는 동네 주민이 경작중이고, 임대를 준 것으로 안다’며 ‘A씨 이름은 들어본 적이 없다’는 취지로 말했다. &lt;br&gt;&lt;br&gt;현행법상 직접 농사를 짓지 않을 경우 농지를 소유할 수 없다. 농지를 빌려주려면 한국농어촌공사에 땅을 위탁해야 한다. 하지만 A씨의 농지는 한국농어촌공사에 땅을 위탁한 사실이 없었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“열차에 화재 발생” 5호선 긴급 방송, 오작동이었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/04/LJ7WFODSVZEB7NVXEIQNZM7PFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/LJ7WFODSVZEB7NVXEIQNZM7PFI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 12:46:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5PM3IOVLSV7MHAGO52ZGSYXL6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 오전 방화로 추정되는 화재가 발생한 서울 지하철 5호선 마포역에서 열차 운행이 중단된 모습. 소방 당국과 서울교통공사에 따르면 31일 오전 8시 45분쯤 서울지하철 여의나루역과 마포역 사이를 지나는 열차에서 방화로 추정되는 불이 났다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 5호선에서 4일 화재 발생 안내 방송이 잘못 송출돼 승객들이 불안에 떨었다. &lt;br&gt;&lt;br&gt;4일 연합뉴스에 따르면, 이날 오전 11시쯤 지하철 5호선 5094호 열차에서 “지금 열차에 화재가 발생했다. 손수건이나 옷으로 입과 코를 막고 신속하게 안전한 곳으로 대피해달라”는 녹음 방송이 연이어 나왔다. 그러나 실제 화재는 발생하지 않았으며 노후화된 방송 장치의 오작동으로 화재 대피 안내 방송이 자동 송출된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이번 사고는 지난 5월 31일 발생한 지하철 5호선 방화 사건 이후 한 달여 만에 발생해 시민들의 불안감이 컸다. 당시 열차에 탑승했던 홍승표씨는 “열차에서 내리고 보니 다행히 불길이 보이지 않았다”며 “실제 화재가 발생했을 때 또 방송 오류인 줄 알고 대피하지 않다가 대형 사고로 이어지지는 않을까 걱정된다”고 말했다. &lt;br&gt;&lt;br&gt;서울교통공사 관계자는 “기관사가 화재가 발생하지 않았다고 계속 안내 방송을 해 승객들을 안심시켰다”고 설명했다. 해당 열차는 현재 차량 기지에서 원인 파악과 수리가 진행 중이다.&lt;br&gt;&lt;br&gt;지난 5월 31일 발생한 방화 사건은 지하철 5호선 여의나루역을 출발해 마포역 방향으로 달리던 열차에서 발생했다. 이 사건과 관련해 서울남부지검은 지난달 25일 살인미수와 현존전차방화치상, 철도안전법 위반 혐의로 원모(67)씨를 구속 기소했다. 원씨는 달리는 열차 안에서 휘발유를 바닥에 쏟아붓고 불을 질러 승객 160명을 살해하려다 미수에 그치고 승객 6명을 다치게 한 혐의를 받았다. &lt;br&gt;&lt;br&gt;검찰이 공개한 방범카메라 영상에서 원씨는 가방에 숨겨뒀던 휘발유를 바닥에 쏟아부었고, 같은 차량에 있던 승객들은 혼비백산하는 장면이 담겼다. 한 임산부는 바닥에 쏟아진 휘발유에 미끄러져 넘어졌고 신발 한 짝을 잃은 채 겨우 탈출했다. 방화범은 이를 아랑곳하지 않고 라이터로 불을 붙였고 붉은 화염이 객차 천장까지 치솟았다. 당시 사건에서는 기관사의 신속한 대응과 승객들의 침착한 대피로 대형 인명 피해를 막을 수 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, 원희룡·김 여사 일가도 출금...‘양평 고속도로 의혹’ 조사 나선다</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/04/L7LPZXJAHFCOTECRTOUE7KZTV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/L7LPZXJAHFCOTECRTOUE7KZTV4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 12:06:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUL3RJIZK2GKVSLDKNMV74UYX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 원희룡 전 국토부 장관이 출국금지된 것으로 확인됐다. 사진은 지난 2023년 원 전 장관이 경기 양평군 강상면 서울-양평 고속도로 대안 노선 종점 인근에서 현장점검 후 취재진의 질문에 답하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사를 둘러싼 각종 의혹을 수사하는 민중기 특별검사팀이 원희룡 전 국토부 장관을 출국 금지한 것으로 4일 알려졌다. 원 전 장관과 더불어 김 여사 일가도 출국이 금지됐다. 이들은 민 특검팀이 조사하는 16개 의혹 가운데 삼부토건 주가조작 의혹과 서울~양평 고속도로 노선 변경 특혜 의혹 등에 연루돼 있다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 법무부는 최근 원 전 장관과 김 여사의 모친 최은순씨, 오빠 김모씨 등에 대한 출국 금지 조치를 내렸다. 특검팀은 양평 고속도로 의혹과 관련해 이들에게 출국 금지를 신청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;양평 고속도로 의혹은 국토부가 김 여사 일가가 소유한 땅이 있는 곳으로 고속도로 건설 계획을 바꾸는 방식으로 김 여사 일가에게 특혜를 줬다는 의혹이다. 이와 관련해 민주당은 2023년 당시 현직 장관이었던 원 전 장관을 직권남용 혐의로 고발했다. 민 특검팀은 원 전 장관이 고속도로 노선 변경에 개입했는지 등을 확인할 전망이다.&lt;br&gt;&lt;br&gt;원 전 장관의 이름이 등장하는 또 다른 의혹은 삼부토건 주가조작 건이다. 해당 의혹은 2023년 5~6월 삼부토건이 우크라이나 재건 사업을 본격적으로 추진할 것처럼 투자자들을 속여 회사 주식을 인위적으로 부양시켰다는 내용이다. 당시 이종호 전 블랙펄인베스트먼트 대표가 카톡 대화방에서 지인들에게 “삼부 내일 체크하고”라는 메시지를 올리고, 이틀 뒤 윤석열 전 대통령 부부가 우크라이나 대통령 배우자인 젤렌스카 여사를 접견했다는 사실이 알려지면서 해당 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;원 전 장관은 그즈음 삼부토건 관계자들과 폴란드에서 열린 우크라이나 글로벌 재건 포럼에 함께 참석했다. 이런 정황으로 원 전 장관도 주가조작에 관여한 것이 아니냐는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 영동 밤 최저기온이 30도... 내일 초열대야 덮친다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/04/NQ5QCG23IBB33ONPOO4FEMU6AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/04/NQ5QCG23IBB33ONPOO4FEMU6AE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 11:56:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGOCPNQ4SZJTVOIR5UMFKB5MDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 오후 제주시 시민복지타운광장 분수대에서 어린이들이 시원한 물줄기를 맞으며 더위를 식히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말에도 극심한 폭염과 열대야(밤 최저기온 25도 이상)가 이어진다. 특히 남서풍이 태백산맥을 넘으며 더 뜨거워지는 강원 영동에선 밤 최저기온이 30도가 넘는 ‘초(超)열대야’가 발생할 수 있다. 이와 함께 아직 장마가 끝나지 않은 중부지방에는 약한 빗방울이 떨어지겠으나, 양이 적어 습도만 높일 것으로 예상된다.&lt;br&gt;&lt;br&gt;4일 기상청에 따르면, 주말인 5~6일 북태평양고기압의 영향으로 뜨거운 공기 이불을 덮은 듯 후텁지근하겠다. 5~6일 기온은 최저 21~28도, 최고 29~36도의 분포를 보이겠다. 현재 고도가 높은 강원도 일부 지역과 제주 산지를 제외한 전역에 폭염 특보가 발효돼 있다. 이달 중순까지 큰 비 소식이 없어 폭염 강도는 점차 세질 것으로 보인다.&lt;br&gt;&lt;br&gt;일요일인 6일엔 정체전선의 영향으로 인천·경기 북부와 강원도에 5㎜ 내외의 장맛비가 예고됐다. 다만 더위를 달래줄 만큼 많은 양은 아니어서, 비가 내린 후 높아진 습도 탓에 체감기온은 오히려 오를 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 ‘마른장마’를 겪으며 폭염과 열대야에 시달렸던 지난달은 역대 가장 뜨거운 6월이었던 것으로 분석됐다. 6월 전국 평균기온은 22.9도로 평년보다 1.5도 높았고, 가장 더웠던 작년(22.7도)보다도 0.2도가 높아 1973년 이래 역대 1위를 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너 술 마셨지”...동료 경찰에 숙취 운전 단속, 결국 해임 </title>
+      <link>https://www.chosun.com/national/regional/honam/2025/07/04/W76EBBJP3RGJDJODRJCQZLRZAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/07/04/W76EBBJP3RGJDJODRJCQZLRZAI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 12:53:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숙취운전으로 지구대를 출근했던 경찰관이 동료 경찰에 적발돼 해임처분 됐다.&lt;br&gt;&lt;br&gt;4일 전남 목포경찰서에 따르면 음주운전을 한 혐의(도로교통법 위반)로 입건한 삼학파출소 소속 30대 A 순경을 지난 5월 30일 해임 처분했다.&lt;br&gt;&lt;br&gt;A 순경은 지난 5월 2일 오전 8시 30분쯤 목포시 주거지에서 근무지인 파출소로 술이 덜 깬 상태에서 자신의 승용차를 운전한 혐의다.&lt;br&gt;&lt;br&gt;A순경은 당일 오전 3시까지 술을 마셨고, 술이 덜깬 상태로 출근을 했다가 함께 근무하는 동료 경찰관이 술 냄새를 맡아 음주운전 사실이 들통났다.&lt;br&gt;&lt;br&gt;당시 동료 경찰이 측정한 혈중알코올농도는 면허취소 수치였다.&lt;br&gt;&lt;br&gt;목포경찰서는 사안의 중대성을 감안해 단속 즉시 A 순경을 직위해제를 했고, 이후 징계위원회를 열어 해임 처분을 내렸다고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>익충이라며 손놓더니... 환경부, 3년만에 러브버그와 전쟁</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/04/P7QYSUGT7FA4TLRN7BKBADDX2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/04/P7QYSUGT7FA4TLRN7BKBADDX2M/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 11:51:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UXXIPQNNK5I2ZDLLTRMETW6P4Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4일 환경부 및 소속기관 직원들이 인천 계양구 소재 계양산을 중심으로 활동중인 러브버그 성체를 제거하기 위해 송풍기와 포충망을 활용해 방제 작업을 하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일명 ‘러브버그’로 불리는 붉은등우단털파리가 대규모로 발생한 인천 계양산 일대에서 환경부가 4일 대대적인 방제 작업을 펼쳤다. 이 곤충은 짝짓기하는 동안에는 물론 날아다닐 때도 암수가 쌍으로 다녀 ‘러브버그’로 불린다. 지자체 중심으로 이뤄지던 러브버그 방제에 환경부가 직접 나선 것은 이번이 처음이다. 그동안 러브버그가 ‘익충(益蟲)’이라는 이유로 방제 작업에 소극적이던 환경부가 최근 수도권 일대에 러브버그가 확산한 상황을 야기했다는 비판에 직면하자 뒤늦게 대응에 나선 것이다. &lt;br&gt;&lt;br&gt;환경부는 이날 “러브버그가 대발생한 계양산에 벌레 사체가 썩으며 악취가 난다는 등의 민원이 많아 국립생물자원관, 한강유역환경청, 국립야생동물질병관리원, 계양구청 등과 합동 방제 및 사체 처리를 진행했다”고 밝혔다. “아직 살아있는 개체를 잡기 위해 빛을 좋아하는 습성을 이용한 광원 포집 장비 등을 현장에 설치했다”고도 했다. 러브버그는 중국 남부에서 유입된 것으로 추정된다. 2015년 인천에서 최초로 발견·보고됐다. 2022년부터는 서울 은평구, 경기 고양시 등 서북부 지역에서 개체 수가 급증하기 시작하더니 현재는 수도권 전역에서 발견되고 있다. 러브버그 유충은 낙엽이 쌓인 토양에서 생활하다가 성충이 되면 한꺼번에 떼로 나타나 신혼 비행을 한다. 이에 초기에는 산 주변과 일대 주거지에서 러브버그가 주로 발견됐다. 그런데 첫 대발생 후 3년 만에 도심까지 진출한 것이다.&lt;br&gt;&lt;br&gt;환경부가 ‘러브버그와의 전쟁’에 나선 것은 더는 손쓰기 어려울 정도로 발생 규모가 커졌기 때문이다. 수도권뿐만 아니라 전국으로 러브버그가 확산될 수 있다는 우려도 나오고 있다. 외래종인 러브버그가 우리나라 전역에 퍼질 위험에 처한 것이다.&lt;br&gt;&lt;br&gt;러브버그는 사람을 물거나 질병을 옮기지 않고, 꽃의 수분을 돕는 등 생태적 이점이 많아 익충으로 분류된다. 이에 병해충 방제 대상에서 제외돼 있다. 유충부터 제거하는 식의 적극적 방제가 어려운 이유다. 그러나 러브버그는 고유종이 아닌 외래종이고, 단순한 혐오감뿐만 아니라 사람의 피부에 달라붙는 등 실생활의 불편을 초래하기 때문에 이제는 적극적 방제가 필요하다는 목소리가 커지고 있다.&lt;br&gt;&lt;br&gt;환경부는 러브버그뿐만 아니라 다른 곤충도 대발생이 일어날 수 있는 만큼 앞으로는 곤충별 방제도 실시한다는 계획이다. 러브버그 외에 대벌레, 동양하루살이, 미국선녀벌레, 깔따구 등이 7월 이후에도 대발생 가능성이 잠재된 곤충으로 분류된다. 살충제를 통한 방제는 다른 곤충에까지 악영향을 줄 수 있는 만큼 대발생 우려가 있는 곤충별로 습성을 이용해 방제하겠다는 것이 환경부 입장이다. ‘팅커벨’로 불리는 동양하루살이의 경우 흰색을 좋아하기에 하얀 방제포를 출몰지에 설치해 끈끈이에 달라붙어 죽게 하는 방식으로 방제하겠다는 것이다.&lt;br&gt;&lt;br&gt;환경부는 대발생 우려 곤충 관리에 대한 법적 근거도 마련한다는 방침이다. 러브버그를 비롯한 대발생 곤충을 ‘법정 지정종’으로 관리하겠다는 것이다. 환경부 관계자는 “현재는 아무리 대발생이 일어나도 해충이 아닌 이상 해당 곤충을 관리할 근거가 부족하다”며 “익충·해충에 관계없이 큰 불편함을 초래하는 곤충에 대한 관리 체계를 만들겠다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “한국 학계 글로벌 경쟁서 배제... 서울대 교수 빼가도 속수무책”</title>
       <link>https://www.chosun.com/national/national_general/2025/07/04/EQGSNT27OFCDXH5PV7IQSIA7TI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/EQGSNT27OFCDXH5PV7IQSIA7TI/</guid>
@@ -834,24 +897,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27C5RFIM3BPUVKVCLO2J3YEIYA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;식중독 검사.(기사 내용과 직접적인 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 고등학교에서 학생 30여 명이 식중독 증상을 호소해 인천시가 역학조사에 나섰다. &lt;br&gt;&lt;br&gt;3일 인천시에 따르면 전날 오후 3시쯤 인천 부평구의 한 고등학교에서 학생 35명이 설사와 복통 등 식중독 의심 증상을 보인다는 신고가 부평구보건소에 들어왔다. &lt;br&gt;&lt;br&gt;인천시는 조사 과정에서 식중독 의심 증상을 보인 학생 1명을 추가로 확인했다. 첫 증상은 지난달 30일 시작된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시는 의심 증상을 보인 학생 36명의 검체와 지난달 26일부터 지난 1일까지 급식 보존식 등을 채취해 식중독균 감염 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;학교 측은 급식실 등 교내 시설에 대한 소독 작업을 진행하고 있다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “의심 증상을 보인 학생들은 대부분은 호전된 상태”라며 “검체 분석 결과는 2주 정도 뒤에 나올 것으로 예상하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>매일 119원씩 모은 소방관들… 화재 피해 노인에게 새집 선물했다</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/03/476YUTF4NFCOVKX3U6LMDDWSJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/476YUTF4NFCOVKX3U6LMDDWSJY/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 05:30:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KYO7IZOLRD77EH4JF45P5HMVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨에게 ‘119원의 기적 드림 하우스 제1호’ 현판을 전달하는 모습. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목숨을 걸고 시민들을 지켜온 소방대원들이 재난 현장 밖에서도 기적을 만들어내고 있다. 인천소방본부 소방관들이 2019년부터 매일 119원씩 모아 진행하는 기부 캠페인 ‘119원의 기적’을 통해서다. 이번에는 화마에 집을 잃은 노인에게 새 보금자리를 선물했다.&lt;br&gt;&lt;br&gt;인천소방본부와 사랑의열매 인천지부는 화재 피해 시민인 70대 A씨 집을 찾아가 ‘119원의 기적 드림 하우스 제1호’ 현판을 전달했다고 3일 밝혔다. 기초생활수급자인 A씨는 지난 4월 강화군 길상면에 있는 집에 불이나 주택 전체가 소실되는 피해를 본 후 마땅한 거처 없이 지내왔다. 그런 A씨를 돕기 위해 인천 소방관들이 나섰다.&lt;br&gt;&lt;br&gt;인천소방본부는 ‘119원의 기적’ 프로젝트를 통해 지난 5월 A씨에게 3600만원을 지원했다. 주택 복구 비용 3400만원과 긴급 생계비 200만원이었다. 덕분에 A씨는 피해 복구를 완료한 새집에서 살 수 있게 됐다. A씨의 여동생은 “화재로 절망적인 상황에서 소방관들의 지원에 감사드린다”며 고마움을 전했다.&lt;br&gt;&lt;br&gt;‘119원의 기적’은 2019년 인천소방본부 서영재 소방경의 아이디어에서 시작됐다. 주택 화재로 한 집안의 가장이 숨지는 사고를 목격했고 남은 가족과 같은 피해자들을 도울 방법을 찾다가 매일 119원씩 모아보자는 의견을 냈다. 처음엔 뜻이 맞는 동료 직원들이 동참했고 인천소방본부가 본격적인 캠페인으로 확대하면서 소속 소방관 대부분이 참여하고 있다.&lt;br&gt;&lt;br&gt;최근엔 일반 시민과 지역 내 기업들도 힘을 합쳐 기부 규모가 크게 늘었다. 인천소방본부가 지난 5월까지 모금한 금액은 13억5000만원에 달한다. 그중 5억3000만원은 102회에 걸쳐 122가구에 긴급 지원했다. 인천소방본부 관계자는 “앞으로도 화재 피해로 어려움을 겪는 시민들의 신속한 일상 복귀를 돕기 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘선거법 위반’ 김태우 前 강서구청장, 2심서도 벌금 80만원</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/GZZA6NMKLJBEJGJRRLZMFIAFKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/GZZA6NMKLJBEJGJRRLZMFIAFKA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 05:14:30 +0000</pubDate>
-      <content:encoded>2023년 재·보궐선거 기간에 25인 이상이 모인 간담회에 참여한 혐의로 기소된 김태우 전 강서구청장이 2심에서도 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJIP6VLT55KNHGXLRGMKRRNNHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법 위반 혐의로 재판에 넘겨진 김태우 전 강서구청장이 작년 12월 서울 양천구 서울남부지법에서 열린 1심 선고 공판에 출석하며 법정으로 향하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 김종호)는 3일 공직선거법 위반 혐의로 기소된 김 전 구청장에게 1심과 같이 벌금 80만원을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 (모임을) 주최하는 형태였다고 판단하기 충분하고, 선거에 영향을 미쳤을 것”이라며 “피고인들의 주장과 법정에서의 태도 등을 고려했을 때 1심 판단을 유지하는 것이 타당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 구청장은 2023년 10월 국민의힘 후보로 강서구청장 보궐선거에 출마한 당시, 공식 선거운동 기간에 25인 이상의 집회·모임을 두 차례 개최한 혐의로 기소됐다. 두 번의 간담회에는 각각 31명, 121명의 시민이 참여했고, 김 전 구청장이 직접 지지를 호소하는 발언을 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;공직선거법 제103조는 선거운동 기간 중 선거에 영향을 미치게 하기 위해 향우회·종친회·동창회·단합대회·야유회 또는 참가 인원이 25명을 초과하는 그 밖의 집회나 모임을 개최하는 것을 금지하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>코로나 확산시기 대규모 집회… 민주노총 대구본부장 집행유예 2년</title>
       <link>https://www.chosun.com/national/regional/2025/07/03/CLRR2VD3JNGRXCYB574XB7RAVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/03/CLRR2VD3JNGRXCYB574XB7RAVY/</guid>
@@ -859,15 +904,6 @@
       <description/>
       <pubDate>Thu, 03 Jul 2025 05:03:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMMNNAMRRX5NQN6RDPMJH4P7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코로나19 확산으로 50명 이상 대면 행사 등이 금지된 시기에 대규모 집회를 연 노조 간부에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사5단독 안경록 부장판사는 3일 ‘사회적 거리 두기’ 3단계가 시행 중인 상태에서 대규모 집회를 연 혐의로 재판에 넘겨진 이길우 민주노총 대구본부장에게 징역 10개월에 집행유예 2년, 벌금 300만원을 선고했다. &lt;br&gt;&lt;br&gt;이 본부장은 2021년 10월 대구 도심 약 1.1㎞ 거리에서 5000명가량이 참여하는 민주노총 총파업 대회를 진행한 혐의 등으로 재판에 넘겨졌다. 집회가 열릴 당시는 감염병예방법과 대구시의 사회적 거리 두기 3단계 행정명령 고시 등에 따라 50명 이상이 참석하는 대면 행사나 집회가 금지된 상태였다. &lt;br&gt;&lt;br&gt;안 부장판사는 “당시 코로나19로 ’50명 이상 집합 금지’라는 사정이 있음에도 피고인은 집회 금지 통보를 받지 않도록 쪼개기 집회 신고를 한 것은 엄연한 위반 행위다. 다만, 집회의 자유는 가급적 보장할 필요가 있고, 법을 위반해 집회를 진행하는 과정에서도 위험을 최소화하려고 노력했던 부분 등을 고려했다”고 양형이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 이종섭·김계환·임성근·이종호 출국금지 조치</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/6XHYR73WLFD4BI2FVRCTKEPRU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/6XHYR73WLFD4BI2FVRCTKEPRU4/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 01:59:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUQIFIJ5L5GOHJD4JA4N5BEJEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근(왼쪽) 전 해병대 1사단장과 이종섭 전 국방부 장관. /이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹 등으로 수사를 받고 있는 이종섭 전 국방부 장관, 김계환 전 해병대 사령관 등이 최근 해병대원 특검으로부터 출국금지 조치를 당한 것으로 3일 확인됐다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 서울 서초동 특검 사무실에서 열린 브리핑에서 이 전 장관, 김 전 사령관을 포함해 임성근 전 해병대 1사단장, 이종호 전 블랙펄인베스트먼트 대표 등 주요 피의자에 대한 출국금지 조치를 했다고 밝혔다. 정 특검보는 “구체적으로 누가 출국금지 조치 됐는지 말씀드리는 건 수사 진행상 곤란하지만, 특검법상 수사 대상으로 명시돼 있는 이 전 장관 등에 대한 출국금지 조치가 이뤄졌다”며 “이외 다른 수사 대상자들에 대한 출국금지 조치도 이뤄졌다”고 말했다.&lt;br&gt;&lt;br&gt;이종섭 전 장관은 채 상병 사망 사건 조사 결과를 보고받고 결재했다가 경찰 이첩을 보류하고 법리 검토를 다시 하라며 회수하라고 지시했다는 혐의를 받는다. 김 전 사령관은 채 상병 사건을 경찰에 이첩하려던 박정훈 전 해병대 수사단장에게 이첩을 중단하라고 지시했다는 혐의를 받는다. 임 전 사단장은 실종자 수색 당시 수중 수색 등의 지시를 내려 채 상병이 숨지는 데 관여하는 등 혐의(업무상 과실치사 등)로 수사 대상에 올랐다.&lt;br&gt;&lt;br&gt;이 과정에서 김건희 여사와 과거 친분이 있던 이종호 전 대표가 임성근 전 사단장을 혐의자 목록에서 빼줬다는 ‘구명 로비’ 의혹도 제기돼 있다.&lt;br&gt;&lt;br&gt;특검은 전날 임 전 사단장을 불러 업무상 과실치사 혐의와 구명 로비 의혹 등을 물어본 것으로 알려졌다. 임 전 사단장은 4시간가량 조사를 받았지만 상당 부분 진술을 거부한 것으로 전해졌다. 이와 관련해 정민영 특검보는 “(임 전 사단장은 전날 조사에서) 업무상 과실치사 혐의에 대해서는 대부분 진술을 거부했다”며 “직권남용이나 구명 로비 의혹 등에 대해서도 일부 진술을 거부했다”고 말했다.&lt;br&gt;&lt;br&gt;정 특검보는 박정훈 전 해병대 수사단장 항명 사건 항소심 재판에 대해 “군 검찰단이 법원에 제출한 의견서를 보면서 공소유지 방안에 대해 논의 중”이라고 밝혔다. 채 상병 사건 초동 조사를 맡았던 박 전 단장은 수사 자료를 경찰에 이첩하는 과정에서 김 전 사령관의 이첩 보류 지시에 따르지 않았다가 항명 혐의로 기소된 바 있다. 박 전 단장은 1심에서 무죄를 선고받았으나 군 검찰이 항소해 현재 2심이 진행 중이다.&lt;br&gt;&lt;br&gt;또한 정 특검보는 “오늘 예정된 소환 조사는 없고, 집행 중인 압수수색도 없다”며 “기록을 검토하며 내부적으로 수사 방향을 논의 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘K뷰티의 힘’…올 상반기 화장품 수출 55억달러로 ‘역대 최대’</title>
@@ -906,15 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7TB3QW63RKGTNCV7SGQEMPFU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장마가 소강상태에 놓인 지난달 27일 오전 제주 서귀포시 표선면 보롬왓 농장에 제주 토종 수국과 메밀꽃이 절정을 맞아 방문객들의 시선을 사로 잡고 있다. 여름 꽃의 전령인 '제주 토종 수국'은 서양 수국과 다르게 장마가 한창인 7월 중순까지 탐스러운 대형 산방꽃차례를 유지한다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이르게 찾아온 장마가 끝도 빨랐다.&lt;br&gt;&lt;br&gt;기상청은 정체전선(장마전선) 움직임과 북태평양고기압의 확장세 등을 분석한 결과, 제주에서 지난달 26일 장마가 끝났다고 3일 밝혔다. 제주 장마는 평년보다 일주일 빠른 지난달 12일 시작했는데 2주 만에 끝난 것이다. 제주에 빗방울이 마지막으로 떨어진 것은 24일이지만, 정체전선의 영향권을 고려하면 26일까지가 장마철이었다는 분석이다.&lt;br&gt;&lt;br&gt;이번 장마는 전국 관측이 시작돼 각종 기록의 기준으로 삼는 1973년 이후 제주에서 두번째로 짧은 기록이다. 가장 짧았던 장마는 1973년의 ‘7일’로, 당시 6월 25일 장마가 시작해 7월 1일에 끝났다. 장마기간 7일 중 비가 내린 날은 평균 6일, 강수량은 30.9㎜에 그쳤다.&lt;br&gt;&lt;br&gt;기상청은 지난 1일부로 남부지방도 장마가 끝났다고 밝혔다. 남부지방의 경우 지난달 20일 장마가 시작해 12일 만에 끝난 것이다. 남부지방 역시 1973년(6일)에 이어 두번째로 짧은 장마였다.&lt;br&gt;&lt;br&gt;다만 기상청은 정확한 시작일과 종료일은 추후 분석이 필요하다는 입장이다. 통상 공식적인 장마 시작일과 종료일은 9월쯤 추후 분석을 통해 조정된다.&lt;br&gt;&lt;br&gt;중부지방은 아직 장마 영향권에 있다. 현재 북한 쪽에 형성된 장마전선이 중부까지 내려올 수도 있기 때문이다.&lt;br&gt;&lt;br&gt;장맛비를 불러오는 정체전선은 남쪽 북태평양고기압과 북쪽 티베트고기압이 충돌하는 과정에서 발달하는데, 아직 티베트고기압이 최전성기에 돌입하지 않아서 전선을 남쪽으로 밀어내릴 수도 있다.&lt;br&gt;&lt;br&gt;그러나 아무리 정체전선이 남하한다고 해도 남부와 제주까지 밀려내려올 가능성은 적기에 이날 장마 종료가 선언된 것이라고 기상청은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>李대통령 “차별 금지법, 중요 과제이나 민생·경제가 우선”</title>
-      <link>https://www.chosun.com/politics/blue_house/2025/07/03/TVBKBNIPGBH5DPZOSKUK7V2Y3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/blue_house/2025/07/03/TVBKBNIPGBH5DPZOSKUK7V2Y3A/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 03:10:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHEBKZG4XVM5HLLXIRSUYFDEBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 3일 오전 청와대 영빈관에서 열린 ‘대통령의 30일, 언론이 묻고 국민에게 답하다’ 기자회견에서 발언하고 있다. /대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 3일 ‘차별 금지법을 제정하기 위한 사회적 합의 도출에 노력할 의사가 있느냐’는 물음에 “민생과 경제가 더 시급하다”며 “우선적인 일부터 하자는 입장”이라고 답했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 오전 청와대 영빈관에서 열린 취임 30일 기자회견에서 ‘대선 경선 후보 시절 차별 금지법에 대해 사회적 합의가 더 필요하다고 말했는데, 공론장을 통해 사회적 합의를 이루기 위한 노력을 할 의사가 있느냐’는 질문을 받았다.&lt;br&gt;&lt;br&gt;이에 대해 이 대통령은 “(차별 금지법 제정은) 중요한 우리 사회의 과제 중 하나이긴 한데, 일에는 경중선후가 있다”며 “저는 무겁고 우선적인, 급한 일부터 하자는 입장”이라고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 이어서 “이런 갈등 요소가 많은 의제에 대해서는 집중적인 사회적 토론이 필요하다”고 했다. 그러면서도 “우리(행정부)는 집행 기관이기 때문에, 이런 것은 국회가 하는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;기자 저는 마이너하지만 사소하지 않고, 소수의 이야기이지만 모두의 이야기인 차별에 대한 질문을 준비했습니다. 대통령께서 대선 경선 후보 시절 차별 금지법에 대해서 사회적 합의가 더 필요하다고 말씀하셨는데요, 사회적 합의가 정말로 더 필요하다면, 대통령께서 선호하시는 타운홀 미팅 등 공론장을 통해서 사회적 합의를 이루기 위한 노력을 하실 의사가 있으신지 여쭙습니다. 그리고 또 차별 금지법이 아직은 이른 과제라면, 생활 동반자법이나 교통 약자 이동권 보장법 등 사회적 소수자들의 실질적인 권리를 보장할 수 있는 중간 단계 입법을 정부가 주도하실 생각이 있는지도 함께 여쭙습니다.&lt;br&gt;&lt;br&gt;이재명 대통령 차별 금지법 이야기는 참 예민하죠. 일단은 저는 그런 생각이 들어요. 중요한 우리 사회의 과제 중에 하나이긴 한데, 일단은 저는 민생과 경제, 이게 더 시급하다는 생각이 들어요. 일에는 경중선후라고 하는 게 있는데, 저는 무겁고 우선적인 급한 일부터 먼저 좀 하자는 입장입니다.&lt;br&gt;&lt;br&gt;가능하면 이런 갈등 요소가 많은 의제에 대해서는 저는 집중적인 사회적 토론이 필요하다고 생각해요. 지금 제가 그걸 할지, 다른 단위가 할지는 좀 봐야겠는데, 이런 건 사실 국회가 하는 게 좋죠, 가능하면. 우리는 집행 기관이기 때문에. 영 안 되면 마지막에 우리도 나서야 할지 모르겠지만. 가능하면 국회가 나서서 이런 논쟁적 의제들은 토론을 미리 해주면 좋을 것 같습니다.&lt;br&gt;&lt;br&gt;생활 동반자법은 저번 대선 때 우리 공약이었던 것 같은데? 이런 인권의 문제도 관심을 가져보도록 하겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“선생님, 우리 애 김밥도 좀”…소풍 날 교사가 받은 황당 요구</title>
       <link>https://www.chosun.com/national/national_general/2025/07/03/4MYTIONFSRBURIAGLEXFYXIYKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/03/4MYTIONFSRBURIAGLEXFYXIYKQ/</guid>
@@ -931,33 +958,6 @@
       <description/>
       <pubDate>Thu, 03 Jul 2025 03:01:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 서울 서초구 대법원 모습./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상통화를 하던 중 상대방 나체가 나오는 모습을 녹화해 저장한 행위는 신체를 ‘직접’ 촬영한 것이 아니기 때문에 불법촬영죄로 처벌할 수 없다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 지난달 성폭력범죄처벌법 위반(카메라 등 이용 촬영·반포)과 상해, 재물손괴 등 혐의로 기소된 남성 A씨 상고심에서 촬영 혐의를 무죄로 판결한 원심을 확정했다고 3일 밝혔다. 상해, 재물손괴 혐의에 대해선 벌금 300만원이 확정됐다.&lt;br&gt;&lt;br&gt;A씨는 2022년 여자친구 B씨와 영상통화를 하다가 B씨가 샤워를 하고 옷을 입는 모습을 3차례 걸쳐 몰래 녹화하고 저장한 혐의로 기소됐다. A씨는 이후 자신의 영상을 발견한 B씨가 따지며 화를 내자, 손으로 B씨 목을 조르고 양손으로 밀쳐 넘어뜨려 피아노에 머리를 부딪치게 하는 등 폭행한 혐의(상해), 이 과정에서 와인잔을 던져 거울을 깨뜨리고 벽지를 오염시킨 혐의(재물손괴)도 받았다.&lt;br&gt;&lt;br&gt;성폭력처벌법은 성적 욕망이나 수치심을 유발할 수 있는 ‘사람의 신체’를 상대 의사에 반해 촬영한 겨우 처벌하도록 규정하고 있다. 1심은 상해와 재물손괴 혐의를 유죄로 판단해 벌금 300만원을 선고했지만 불법촬영 혐의는 처벌할 수 없다고 판결했다. 1심 재판부는 “성폭력처벌법 조항의 촬영 대상은 ‘신체’로 봐야 한다”고 했다. 피해자 신체가 촬영된 화면이 ‘사람의 신체’는 아니며, 휴대전화 화면에 나타난 영상을 파일로 저장한 것을 ‘촬영’으로 해석할 수도 없다는 것이다.&lt;br&gt;&lt;br&gt;검사가 상소했지만 2심에 이어 대법원도 같은 판단을 내렸다. 대법원은 “사람의 신체 그 자체를 직접 촬영하는 행위만이 성폭력처벌법 조항에서 처벌하는 촬영 행위에 해당한다”고 했다. 대법원은 또 “영상통화를 하면서 자신의 신체를 카메라에 비춰 생성한 영상정보를 상대방에게 전송한 것은 자발적 의사로 자신의 신체를 직접 촬영한 것”이라며 “그 영상을 녹화·저장한 동영상은 ‘복제물’에 해당한다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 앞서 비슷한 사건에서도 성폭력처벌법의 불법촬영 처벌 조항을 엄격하게 해석해 신체 이미지를 촬영하는 행위에는 적용할 수 없다고 판결해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “대진 ’라돈 침대’, 소비자 정신적 피해 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/OYULOJAYQNBALAAXWQ3N3YNCDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/OYULOJAYQNBALAAXWQ3N3YNCDQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 02:30:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE4KSA7AQ62AT5SZ223SH2J4UE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대진침대 천안 공장에 쌓여 있는 라돈침대 매트리스. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발암 물질 ‘라돈’이 검출된 매트리스를 만든 대진침대가 소비자들의 정신적 피해에 대한 위자료 등을 지급해야 한다는 대법원 첫 판결이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 3일 이모씨 등 소비자 130여 명이 대진침대를 상대로 낸 손해배상 소송에서 원고 일부 승소로 판결한 원심을 확정했다. 다른 소비자들이 같은 취지로 낸 3건의 손해배상 소송에서도 원고 일부 승소 판결을 내렸다.&lt;br&gt;&lt;br&gt;대법원은 대진침대가 문제의 매트리스를 구매한 소비자들에게 매트리스 비용과 위자료 100만원씩 지급하라고 판결했다. 대법원은 “매트리스를 정상적으로 사용하던 중 독성 물질에 노출된 피해자에게 현실적으로 질병이 발생하지 않았더라도, 사회통념에 비추어 피해자가 정신상 고통을 입은 것으로 평가할 수 있다면 위자료를 인정할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이른바 ‘라돈 침대’ 사태는 2018년 5월 대진침대가 판매한 침대에서 1급 발암물질로 규정된 방사성 물질인 라돈이 다량 검출됐다는 언론 보도가 나오며 불거졌다. 이후 대진침대 제품의 방사선 피폭량이 기준치를 최대 9배까지 초과했다는 원자력안전위원회 발표가 나왔고, 다른 업체가 판매한 침구류에서도 라돈이 검출되면서 파문이 일었다. 이에 다수의 소비자들이 대진침대를 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;이 사건 1심은 “매트리스 제조·판매 당시 관련 규제 법령이 없었다”며 원고 패소 판결을 내렸지만, 2심은 이를 뒤집었다. 2심은 “대진침대가 피고가 인체에 유해한 방사성 물질을 사용해 안전하지 않은 매트리스를 만들어 판매한 것은 위법하고, 과실이 있다”며 “구체적으로 건강에 이상이 생기지 않았더라도 부당한 피폭으로 인한 정신적 손해는 인정된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李대통령 “주 4.5일제, 점진적으로 해야… 일괄 시행은 불가능”</title>
-      <link>https://www.chosun.com/politics/blue_house/2025/07/03/RDVXXFAIW5FFZK4TDAVHE5MLCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/blue_house/2025/07/03/RDVXXFAIW5FFZK4TDAVHE5MLCM/</guid>
-      <dc:creator>김경필 기자, 김태준 기자, 이해인 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 02:00:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZ5UZ7WLUJLDZA7YGDMYK4O73I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 3일 오전 청와대 영빈관에서 열린 ‘대통령의 30일, 언론이 묻고 국민에게 답하다’기자회견에서 기자의 질문에 답하고 있다. /대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령은 3일 대선 공약이었던 주 4.5일 근무제 시행과 관련해 “강제로 법을 통해서 일정 시점에 (일괄) 시행하는 것이라고 오해하는데, 그렇게 하는 것은 갈등이 너무 심해서 불가능하다”고 말했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 오전 청와대 영빈관에서 열린 취임 30일 기자회견에서 주 4.5일제 시행 시점에 관한 질문을 받고 “사회적 대화를 통해서 가능한 부분부터 점진적으로 해나가야 할 것 같다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;이 대통령은 “‘그러면 공무원, 공기업, 일부 대기업만 해서 빈익빈 부익부가 더 심화되지 않느냐’는 반론이 있는데, 그것도 일리 있는 지적”이라고 했다. 그러면서도 “(주 4.5일제가) 사회적인 흐름으로 정착돼 가다 보면 전체적으로 4.5일제가 실현 가능한 현실적인 목표가 되지 않을까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 또 “어쨌든 (근로 시간을) 줄여야 건강한 삶도 가능하고, 길게 보면 일자리 나누기라는 측면에서 일자리를 늘리는 효과도 있다”고 했다.&lt;br&gt;&lt;br&gt;야당 국민의힘의 주 4.5일제 방안에 대해서는 “4일 동안 한 시간씩 더 일하고 5일째는 반만 일하자는 것인데, 그것은 4.5일제가 아니라 변형 근로제”라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이재명 대통령의 관련 질의응답&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;기자&lt;/b&gt; 대통령님 취임 30일 축하드립니다. 저도 그렇고 많은 직장인이 기대하는 부분이, 주 4.5일제 시행에 대한 부분이거든요. 지금 주 5일제가 너무나 당연해진 것처럼, 주 4.5일제가 너무나 우리에게 당연해지는 시점을 언제쯤으로 예상하고 계신지 말씀 부탁드리겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;이재명 대통령&lt;/b&gt; 사실 저도 모르겠어요. 4.5일제는 꽤 논쟁적 의제였는데, 야당에서도 4.5일제를 하자고 얘기를 결국 했죠. 했는데, 그건 내용이 좀 달랐어요. 4일 동안에 한 시간씩 더 일하고 5일째는 반만 일하자, 그건 4.5일제가 아니죠. 변형 근로제 비슷한 거죠.&lt;br&gt;&lt;br&gt;저는 우리 사회가 노동 시간 단축, 반드시 해내야 한다고 생각해요. 많이 일하고, 생산성은 떨어지고, 힘은 들고, 국제 경쟁력은 점점 떨어지고, 이런 방식으로 우리가 계속 갈 수 있겠냐. 그야말로 질보다 양으로 승부해 왔다고 할 수 있죠. 그래서 노동 생산성도 올려야 되고, 노동 시간도 좀 줄여서 워라밸이 가능하게 만들어야 되고, 이게 국제적 추세이기 때문에, 지금도 우리가 OECD 평균 대비 120시간 이상 더 일한다고 해요. 한 달 반쯤 된다고 하죠? 한 달에서 두 달, 1년에.&lt;br&gt;&lt;br&gt;어쨌든 이걸 좀 줄여야 건강한 삶도 가능하다. 또 길게 보면 일자리 나누기란 측면에서 일자리 늘리는 효과도 있고요.&lt;br&gt;&lt;br&gt;그런데 이걸 강제로 법을 통해서 일정 시점에 시행이라고 오해하시는 분들이 계신데, 그렇게 하는 건 사실은 갈등, 대결, 대립이 너무 심해서 불가능합니다, 제가 보기에는. 그래서 이거를 사회적 대화를 통해서 가능한 부분부터 조금씩 조금씩 점진적으로 해나가야 될 것 같아요.&lt;br&gt;&lt;br&gt;그랬더니 일부에서 지적이, ‘아, 그러면 공무원, 공기업, 일부 대기업, 이런 데만 해가지고 빈익빈 부익부가 더 심화되지 않느냐.’ 이런 반론이 있습니다. 그것도 일리 있는 지적이긴 하죠. ‘내가 장시간 노동을 하니까 다른 데도 줄이지 마라.’ 이런 뜻은 아닐 거고, 그게 사회적인 흐름으로 정착돼 가다 보면 전체적으로 4.5일제가 실현 가능한 현실적인 목표가 되지 않을까 생각합니다.&lt;br&gt;&lt;br&gt;어릴 때 이야기해서 죄송한데, 제가 어릴 때 공장을 다닐 때 한 달 내내 아예 안 쉬었어요. 그러다 어느 날부터 한 달에 한 번은 쉬어 준다, 그래서 ‘아, 이런 좋은 제도가 있나’ 생각했어요. 그다음에 또 지나다 보니까 2주에 한 번씩은 쉬어 준다 그래서, 어느 날은 매주 한 번, 그러다 어느 날 반공일이 생겼죠. 그러다가 토요일도 아예 쉬게 되었는데, 많은 시간이 걸렸지만, 결국 이런 식으로 가야 하지 않을까. 가능하면 빨리 가고 싶어요, 정책적으로. 시점은 특정하지 못하는 점을 이해하기 바랍니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 내란 특검, 김주현 전 민정수석 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/DF7ASS5P5ZDKJCLVGIFUFWMHBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/DF7ASS5P5ZDKJCLVGIFUFWMHBQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 00:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HL2OF3FCASG6QBADSHZQI3HF3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검팀이 3일 김주현 전 민정수석을 소환했다.&lt;br&gt;&lt;br&gt;김 전 수석은 이날 오전 9시 46분께 특검 조사실이 마련된 서울고검 청사로 출석했다. 그는 ‘계엄 선포와 관련해 윤 전 대통령에 지시 받은 것이 있느냐’ ‘강의구 전 대통령실 부속실장에게 어떻게 연락했느냐” 등 취재진 질문에는 답하지 않은 채 곧장 조사실로 향했다.&lt;br&gt;&lt;br&gt;특검팀은 윤석열 전 대통령을 가까이서 보좌했던 김 전 수석을 상대로 비상계엄 선포 및 해제 과정, 사후 선포문이 작성됐다 폐기된 경위, 대통령 안가 회동에 관한 의혹 등을 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산서 8일 만에 또…부모 외출한 사이 화재로 어린 자매 사망</title>
