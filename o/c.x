@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 윤 前 대통령 오전 조사 종료 후 점심 식사 중... 오후 1시 7분 재개 예정</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/O5GIHGHNNJGM5BCPPSHTNZOG74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/O5GIHGHNNJGM5BCPPSHTNZOG74/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 03:12:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHUM2AT2SAGAWGRJ54SJPNG7OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란특검은 윤석열 전 대통령의 오전 조사가 12시 5분쯤 점심 식사를 위해 잠시 멈췄다고 밝혔다. 윤 전 대통령은 1시간가량 점심 식사를 한 뒤 오후 1시 7분부터 조사에 다시 임할 예정이다.&lt;br&gt;&lt;br&gt;이날 오전 조사는 박억수·장우성 특검보가 직접 참여해 지휘했다. 윤 전 대통령의 신문은 김정국·조재철 부장검사가 맡았다. 지난달 28일 1차 조사 당시 윤 전 대통령 측이 문제를 제기했던 박창환 경찰청 중대범죄수사과장(총경)은 직접 신문을 하지는 않는 대신, 조사실에 함께 들어가 지원했다. &lt;br&gt;&lt;br&gt;박지영 특검보는 “조사량이 많은 점과 신속한 조사 진행 등 수사의 효율성을 고려한 조치”라고 밝혔다. 가장 먼저 조사를 시작한 의혹은 ‘체포 방해’ 의혹이다. 조사는 1차 소환 때와 같이 서울고검 6층 조사실에서 이뤄지는 중이다. 이날 오전 9시 1분 서울고검 청사에 출석한 윤 전 대통령은 9시 4분 조사실에 입실했고, 별도 티타임 없이 곧바로 조사가 시작됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령 조사는 순조롭게 진행되고 있다는 것이 박지영 특검보 설명이다. 김홍일·배보윤·송진호·채명성 변호사 4명이 이날 조사에 동행했는데, 1차 조사 때 입회했던 송진호·채명성 변호사 2명이 이날도 입회한 상황이다. 조사하는 혐의 내용에 따라 변호인들이 수시로 교대하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란특검, 尹 전 대통령 도착하자마자 조사 시작  </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/VOCDZ7U4WFH6DKZP5AV7XVDTXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/VOCDZ7U4WFH6DKZP5AV7XVDTXI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 00:59:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PHTSCQU26VCEBFQVTH47NG5UFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서울 서초구 서울고등법원에 마련된 내란특검 사무실에 피의자 신분으로 출석하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란특검은 5일 윤석열 전 대통령이 오전 9시 1분 출석한 직후 별도의 ‘티타임’을 갖지 않고 바로 조사를 시작했다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령과 변호인단은 지난달 28일 1차 조사 때는 오전 9시 56분쯤 서울고검에 출석한 뒤, 박억수·장우성 특검보와 10여 분간 조사 일정 등을 안내 받는 티타임을 가진 바 있다. 이후 10시 14분부터 본격적인 조사가 시작됐었다. 앞서 검찰 조사를 받은 이명박·박근혜 전 대통령도 조사 전 검찰 지휘부와 10분가량 티타임을 가졌었다. &lt;br&gt;&lt;br&gt;이날 특검은 윤 전 대통령에게 체포 방해 의혹부터 묻겠다는 방침이다. 윤 전 대통령이 지난 1월 고위공직자범죄수사처와 경찰이 자신의 내란 혐의 체포영장을 집행하려 하자 대통령경호처를 동원해 이를 막았다는 의혹이다. 특검은 지난 4일 박종준 당시 경호처장을 불러 조사했고, 그 전날엔 김성훈 전 경호처 차장도 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRUVJVJV3VOPLIL7XX37W3ZHHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 내란 특검의 2차 조사를 받기 위해 조은석 특별검사팀 사무실이 있는 서울 서초구 서울고검에 도착해 차량에서 내리고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;계엄 선포 전후 국무회의 과정도 이날 주요 조사 대상이 될 전망이다. 특검은 앞서 한덕수 전 국무총리를 지난 2일 소환해 13시간 40분 동안 조사했고, 같은 날 안덕근 산업통상자원부 장관, 유상임 과학기술정보통신부 장관 및 김정환 전 대통령실 수행실장도 조사했다. 지난 3일엔 계엄 선포 이튿날 서울 삼청동 안가에서 회동을 주재한 사실이 알려진 김주현 전 민정수석도 조사했다. 4일엔 이주호 교육부 장관도 소환해 조사했다.&lt;br&gt;&lt;br&gt;특검은 또 윤 전 대통령의 외환 혐의와 관련 있는 ‘평양 무인기 투입’ 의혹에 대해서도 물을 방침이다. 특검은 드론작전사령부에 무인기를 납품했던 국방과학연구소 항공기술연구원 소속 연구원을 지난 1일 불러 조사했고, 이 밖에도 관련자를 계속해서 조사하고 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치매 부친 폭행해 숨지게 한 아들…항소심도 징역 10년</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/05/HI7DC4DVIZA4ZN3VW7HLVWTAWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/05/HI7DC4DVIZA4ZN3VW7HLVWTAWA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 01:47:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NESKUJHVQ3GUOO3KZOP33RRJUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방고등법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매로 소변 실수를 반복하던 70대 부친을 폭행해 숨지게 한 50대 아들이 항소심에서도 징역 10년형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 대전고법 제1형사부(재판장 박진환)는 존속살해 혐의로 기소된 A씨에게 1심과 같은 징역 10년을 선고하고, A씨와 검찰의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;A씨는 올해 1월 1일 충남 서산의 한 빌라에서 함께 거주하던 아버지를 폭행해 숨지게 한 혐의로 재판에 넘겨졌다. 조사 결과 A씨는 아버지의 치매 증상이 심해지며 소변 실수가 잦아지는 데 대해 불만을 품고 있었고, 사건 당일 늦은 밤 술을 마시고 귀가한 뒤 격분해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;1심 재판부는 “잔혹한 범행으로 피해자는 생을 마감했고, 유족은 상당 기간 정신적 고통을 겪을 것으로 보인다”고 판단했다. 다만 “피고인이 15년 이상 부친을 부양하고 간호해 왔으며, 그 과정에서 누적된 불만과 술에 취한 상태가 참작의 여지는 있다”며 징역 10년을 선고했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “1심 판결은 피고인의 주요 양형 요소를 충분히 고려한 것으로, 형량이 합리적인 판단에서 벗어나지 않았다”며 양측의 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 전 대통령 소환에 지지자 300명 모였다… 맞불 집회도</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/05/XJ7WI7J6WJDPTPVQYQFEUIAKB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/05/XJ7WI7J6WJDPTPVQYQFEUIAKB4/</guid>
+      <dc:creator>고유찬 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 00:15:53 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 5일 오전 서울고등검찰청에 출석했다. 이에 앞서 서울고검 인근에는 수백 명의 지지자들이 몰려들어 대규모 집회를 열고 윤 전 대통령을 응원했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXAQ6ZKFWREKTI4U2YWWKTWBBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 서울고등검찰청에 출석하는 가운데, 지지자들이 윤 전 대통령이 탄 차량을 보고 환호하고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 8시 30분쯤부터 서울 서초구 서울고검 인근 도로변에는 태극기와 성조기를 들고 빨간 모자와 띠를 두른 지지자 약 300명(경찰 비공식 추산)이 모여 ‘윤석열 대통령’, ‘이재명 구속’ 등의 구호를 반복해 외쳤다. 일부는 ‘AGAIN YOON’ 문구가 적힌 손팻말과 윤 전 대통령 얼굴이 인쇄된 수건을 들고 목소리를 높였다.&lt;br&gt;&lt;br&gt;오전 8시 57분 윤 전 대통령이 탑승한 차량은 서초구 자택인 아크로비스타를 출발해 교대역 인근을 지나 오전 8시 59분 서울고검 동문을 통과했다. 오전 9시 정각 고검 주차장 통로에 진입한 뒤 1층 현관까지 약 2분간 차량을 천천히 이동시키며 청사에 들어섰다. 차량은 청사 앞에서 지지자들이 모인 도로를 지나며 짧게 멈추기도 했고, 윤 전 대통령은 고검 청사 바깥에서는 창문을 열고 지지자들을 향해 손을 흔들었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QEFMCKRQ5NBN5M5B4CET2WCNQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 서울고등검찰청에 출석하는 가운데, 윤 전 대통령 지지자들이 응원 집회를 하고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TGZCLFPSJCKXHFWRZJXWF5HBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 서울고등검찰청에 출석하는 가운데, 윤 전 대통령 지지자들이 응원 집회를 하고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령이 탑승한 차량이 모습을 드러내자 현장은 일순간 환호로 가득 찼다. 지지자들은 “대통령님 힘내세요”, “윤 어게인”을 외치며 차량을 향해 손을 흔들었고, 일부는 차량을 향해 달려가기도 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 청사 안으로 들어간 뒤에도 집회는 이어졌다. 지지자들은 서울고검 서편 도로로 이동해 확성기를 단 차량에서 “이재명 구속, 싹 다 구속”이라는 구호를 반복적으로 내보냈다. 일부 유튜버들은 마이크를 잡고 “우리 대통령님은 반드시 이겨내실 것”이라며 즉석 발언을 이어갔다. 현장에는 한국사 강사 전한길씨도 모습을 드러냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVDP7HNRMBFQBGO4XN4URAM65A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 서울고등검찰청에 출석하는 가운데, 지지자들이 윤 전 대통령이 탄 차량을 보고 환호하고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 동시에 맞은편에는 이재명 대통령 지지자 20여 명이 맞불 집회를 벌였다. 이들은 파란색 모자와 스카프를 착용한 채 ‘Yoon Prison’이라 적힌 손팻말을 들고 윤 전 대통령 측 지지자들과 고성을 주고받았다. 일부는 가벼운 몸싸움도 벌였다. 경찰은 양측을 분리하며 물리적 충돌을 차단했다.&lt;br&gt;&lt;br&gt;경찰은 이날 고검 청사 안팎에 기동대 12개 부대, 약 720여 명을 배치했다. 1차 출석 때보다 경력을 4개 부대 늘린 규모다. 청사 전체에는 청원경찰 12명도 배치됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDYVRLT3ENE4VCIABIZGNQPALI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 윤석열 전 대통령이 내란 혐의 관련 특별검사의 소환 조사를 받기 위해 서울고등검찰청에 출석하는 가운데, 이재명 대통령 지지자들이 맞불 집회를 하고 있다. /고유찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 윤 전 대통령의 자택이 있는 서초구 아크로비스타 인근에도 일부 지지자들이 모였다. 이들은 “윤석열 대통령님 힘내세요”, “윤 대통령 부당 재판” 등의 문구가 적힌 현수막과 태극기를 내걸고 윤 전 대통령에 대한 지지를 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검 “尹 ‘체포 방해’부터 부장검사가 조사… 박창환 총경은 지원 역할만”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/XP4IB3FPD5HHRJ7HRLK2ZUC4T4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/XP4IB3FPD5HHRJ7HRLK2ZUC4T4/</guid>
+      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 01:32:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4AGUMH4JLSWWNY4CJV7DVNZVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란특검은 5일 윤석열 전 대통령 조사에 박억수·장우성 특검보가 직접 참여해 지휘하고 있다고 밝혔다. 윤 전 대통령의 신문은 김정국·조재철 부장검사가 맡았다. 지난달 28일 1차 조사 당시 윤 전 대통령 측이 문제를 제기했던 박창환 경찰청 중대범죄수사과장(총경)은 직접 신문을 하지는 않는 대신, 조사실에 함께 들어가 지원하고 있다.&lt;br&gt;&lt;br&gt;내란특검의 박지영 특검보는 이날 오전 10시 29분 브리핑을 열고 이 같이 밝혔다. 박지영 특검보는 “조사량이 많은 점과 신속한 조사 진행 등 수사의 효율성을 고려한 조치”라고 밝혔다. 가장 먼저 조사하는 것은 ‘체포 방해’ 의혹이라고 한다. 조사는 1차 소환 때와 같이 서울고검 6층 조사실에서 이뤄지고 있다. 이날 오전 9시 1분 서울고검 청사에 출석한 윤 전 대통령은 9시 4분 조사실에 입실했고, 별도 티타임 없이 곧바로 조사가 시작됐다.&lt;br&gt;&lt;br&gt;이 의혹 조사를 두고 지난달 28일 윤 전 대통령 측은 조사를 맡았던 박 총경이 “체포영장 집행에 참여했다”는 이유를 들어 오후 조사 재개에 불응했었다. 특검은 박 총경이 체포 방해 의혹 조사를 맡아야 한다는 원칙을 고수해왔으나, 이날 2차 조사에선 부장검사 2명에게 신문을 맡기면서 한 발 물러선 것이다. ‘윤 전 대통령의 이의 제기를 수용한 것으로 봐야 하느냐’는 기자 질문에 박지영 특검보는 “수사 효율성의 관점에서 봐달라”며 “김성훈 전 대통령경호처 차장, 박종준 전 경호처장 등에 대한 조사가 이뤄진 점도 영향을 미쳤다”고 밝혔다. 앞서 진행된 김 전 차장과 박 전 처장 조사는 검사들이 맡았다고 한다.&lt;br&gt;&lt;br&gt;특검은 박 총경에게 조사를 맡기지 않는 대신, 검찰 출신 박억수·경찰 출신 장우성 특검보를 조사실 내부에 배치했다. 윤 전 대통령에게 직접 질문하는 역할은 1차 소환 때 외환 혐의를 조사했던 김정국·조재철 부장검사가 전담한다. 박 총경과 구승기 검사는 조사실 안에서 자료 출력 및 세부 질문 보강 등 역할을 맡고 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령 조사는 순조롭게 진행되고 있다는 것이 박지영 특검보 설명이다. 김홍일·배보윤·송진호·채명성 변호사 4명이 이날 조사에 동행했는데, 1차 조사 때 입회했던 송진호·채명성 변호사 2명이 이날도 입회한 상황이다. 조사하는 혐의 내용에 따라 변호인들이 수시로 교대하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 이날 조사 결과에 따라 윤 전 대통령 추가 소환 여부를 검토할 계획이다. 조사할 양이 많아 이날 중으로 조사를 마치지 못할 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮 최고 온도 ‘36도’까지...밤에는 열대야 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/05/K6JFINVNDBHCJLUXISZR2SQEY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/05/K6JFINVNDBHCJLUXISZR2SQEY4/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 00:40:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYFLY2IAQ5O7DFKX4U4MQ5NQKQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어진 4일 오후 대구 수성구에서 시민들이 양산과 부채로 뙤약볕을 가리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 전국 대부분 지역에서 최고 체감온도가 33도 이상으로 오르는 등 후텁지근한 날씨가 이어지겠다. 밤에는 열대야가 나타나는 곳이 많겠다.&lt;br&gt;&lt;br&gt;기상청은 당분간 기온이 평년(최저 19~22도, 최고 26~30도) 수준보다 높을 것이라고 예보했다. 주요 도시 예상 최고 기온은 서울 31도, 인천 30도, 강릉 36도, 대전 33도, 대구 36도, 광주 33도, 부산 33도 등으로 예보됐다. &lt;br&gt;&lt;br&gt;전국 대부분 지역에서 최고 체감온도는 33도 이상을 기록해 온열질환에 각별한 주의가 필요하겠다. 일부 경기도와 강원 동해안, 충청권, 남부 지방, 제주도 동부는 최고 체감온도가 35도 안팎에 이르기도 하겠다. 사람이 실제로 느끼는 온도인 ‘체감온도’는 습도 55%를 기준으로 습도가 10%포인트 증가할 때마다 1도 증가한다. &lt;br&gt;&lt;br&gt;극심한 폭염과 열대야(밤 최저기온 25도 이상)가 이어질 전망이다. 강릉에서 초열대야(밤 최저기온 30도 이상)가 나타난 데 이어 서울에서도 열대야가 지속하고 있다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 전국이 ‘좋음’~‘보통’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹 체포 방해 의혹' 박종준 前 경호처장, 13시간 조사 마치고 귀가</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/2T5SYFEFBRGUVDKTQUO57LQM4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/2T5SYFEFBRGUVDKTQUO57LQM4Y/</guid>
+      <dc:creator>양인성 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 23:47:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6PPBYFVA5FKTM3WU4J452F4FI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장이 전날부터 5일 새벽 2시 반까지 이어진 내란 특검 조사를 마치고 서울 서초구 서울고검 청사를 떠나고 있다. /양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 고위공직자범죄수사처가 윤석열 전 대통령의 체포영장을 집행하는 것을 방해했다는 의혹을 받는 박종준 전 대통령경호처장이 내란 특검에서 13시간가량의 강도 높은 조사를 받고 5일 오전 2시 30분쯤 귀가했다.&lt;br&gt;&lt;br&gt;대기 중이던 기자들이 ‘윤 전 대통령에게 체포영장 집행 저지 지시를 받았는가’ ‘비화폰 정보 삭제 지시하셨나’ 등을 물었지만, 박 전 처장은 “수사 과정에서 소상히 말했다. 지금은 밝힐 입장이 없다”며 답하지 않았다.&lt;br&gt;&lt;br&gt;특검은 전날부터 이어진 조사에서 박 전 처장에게 윤 전 대통령의 체포 방해 지시가 있었는지 여부를 집중적으로 물은 것으로 전해졌다. 또 비상계엄 선포 나흘 뒤인 작년 12월 7일 윤 전 대통령과 홍장원 전 국가정보원 1차장 등의 비화폰 정보가 삭제된 경위에 대해서도 캐물은 것으로 전해졌다. 특검은 두 의혹 모두 윤 전 대통령의 지시에 따라 이뤄진 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;특검은 이날 윤 전 대통령을 소환해 체포 방해 의혹부터 물을 방침이다. 특검은 지난달 28일 1차 조사 때도 체포 방해 의혹부터 조사를 시작했지만, 조사관으로 참여한 박창환 경찰청 중대범죄수사과장(총경)이 체포영장 집행에 참여했다는 점을 근거로 박 총경의 조사가 부적절하다고 주장했다. 조사는 3시간 15분 동안 파행했다. 특검은 이날도 박 총경이 체포 방해 의혹을 조사해야 한다는 방침을 세운 상황이어서, 조사가 다시 파행될 가능성도 법조계에서 제기된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹 전 대통령, 오전 9시 1분 내란특검 2차 소환 출석... 묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/MPAIGNV6XNFVDEXRCTAN6N72JY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/MPAIGNV6XNFVDEXRCTAN6N72JY/</guid>
+      <dc:creator>이민준 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 04 Jul 2025 23:58:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7YERZNNI5HJ7JTVMZJO2462GQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 5일 오전 9시 1분 내란 특검이 있는 서울고검 청사에 도착해 조사를 받고 있다. 지난달 28일 1차 조사가 이뤄진지 일주일 만이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 오전 8시 56분쯤 사저를 출발했다. 당초 윤 전 대통령 측은 1차 조사 때와 같은 오전 10시에 출석하겠다는 입장이었지만, 특검 측은 오전 9시 출석 원칙을 고수했다. 일각에선 윤 전 대통령이 오전 9시보다 늦게 출석하며 신경전을 벌일 수 있다는 관측이 나오기도 했었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇1차 조사처럼 공개 출석... 변호인 4명 동행&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령이 탄 차량은 교대역 사거리를 지나 오전 9시쯤 서울중앙지검·서울고검 청사 동문으로 진입했다. 윤 전 대통령은 창문을 열고 법원삼거리와 동문 사이에 모인 지지자들을 바라보기도 했다. 고검 청사 바깥에서는 창문을 열고 지지자들을 향해 손을 흔들었다.&lt;br&gt;&lt;br&gt;짙은 남색 양복에 빨간색 넥타이를 맨 차림의 윤 전 대통령은 오전 9시 1분 하차해 곧바로 조사실로 향했다. 대기 중이던 취재진이 “국민들에게 사과하거나, 혐의에 대해 설명하실 말씀 없는지” “오늘도 경찰의 조사를 거부하시는지” “사후 계엄 선포문 작성에 관여 안 했는지. 폐기는 왜 승인했는지” 등을 물었지만, 윤 전 대통령은 답하지 않았다. 이날 조사에는 김홍일·배보윤·송진호·채명성 변호사가 동행했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난달 28일 1차 조사 때와 마찬가지로 이날도 서울고검 1층 중앙 현관을 통해 공개 출석했다. 윤 전 대통령은 1차 조사 당시 지하주차장을 통해 비공개 출석할 수 있도록 해달라고 요구했지만, 특검 측이 이를 받아들이지 않고 출입구를 바리케이드로 막자 공개 출석한 바 있다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇특검, ‘체포 방해’ 의혹부터 조사 방침&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 조사에서 특검은 윤 전 대통령에게 체포 방해 의혹부터 묻겠다는 방침이라고 한다. 이 의혹은 윤 전 대통령이 지난 1월 고위공직자범죄수사처와 경찰이 자신의 내란 혐의 체포영장을 집행하려 하자 대통령경호처를 동원해 이를 막았다는 것이다. 특검은 지난 4일 박종준 당시 경호처장을 불러 조사했고, 그 전날엔 김성훈 전 경호처 차장도 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCOXXJ2KMZAGTLDQ6EQ73H5HIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;前경호차장 특검 출석 - 3일 김성훈 전 경호처 차장이 '내란 특검' 조사를 받기 위해 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측이 1차 조사 때처럼 조사관 교체를 요구할 가능성도 있다. 당시 윤 전 대통령 측은 체포 방해 의혹 조사를 맡은 박창환 경찰청 중대범죄수사과장(총경)이 “체포영장 집행에 참여했다”며 오후 1시 30분부터 재개될 조사에 응하지 않았다. 파행은 3시간 15분 동안 이어졌고, 특검 측이 조사관을 부장검사로 교체하면서 조사가 재개된 바 있다. 특검은 이날도 박 총경이 체포 방해 의혹 조사를 해야 한다는 방침을 세운 상태다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇계엄선포 국무회의·무인기 의혹도 조사&lt;/b&gt;&lt;br&gt;&lt;br&gt;계엄 선포 전후 국무회의 과정도 이날 주요 조사 대상이 될 전망이다. 특검은 앞서 한덕수 전 국무총리를 지난 2일 소환해 13시간 40분 동안 조사했고, 같은 날 안덕근 산업통상자원부 장관, 유상임 과학기술정보통신부 장관 및 김정환 전 대통령실 수행실장도 조사했다. 지난 3일엔 계엄 선포 이튿날 서울 삼청동 안가에서 회동을 주재한 사실이 알려진 김주현 전 민정수석도 조사했다. 4일엔 이주호 교육부 장관도 소환해 조사했다.&lt;br&gt;&lt;br&gt;특검은 또 윤 전 대통령의 외환 혐의와 관련 있는 ‘평양 무인기 투입’ 의혹에 대해서도 물을 방침이다. 특검은 드론작전사령부에 무인기를 납품했던 국방과학연구소 항공기술연구원 소속 연구원을 지난 1일 불러 조사했고, 이 밖에도 관련자를 계속해서 조사하고 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMSVR6VO3P7QONPTZQS7AAZYCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동당 기관지 노동신문이 지난해 '평양 침투 한국 무인기'라고 주장하며 공개한 사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내란 특검, 윤석열 전 대통령 오늘 2차 소환 조사</title>
       <link>https://www.chosun.com/national/national_general/2025/07/05/TZK36LUASZCWFK4KSG6EGPZ3WA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/05/TZK36LUASZCWFK4KSG6EGPZ3WA/</guid>
@@ -800,15 +872,6 @@
       </media:content>
     </item>
     <item>
-      <title>[알립니다] 제59회 청룡봉사상 선정</title>
-      <link>https://www.chosun.com/special/announcement/2025/07/04/QRJYQNYJ7JDMJFBSAYETH7XKHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/07/04/QRJYQNYJ7JDMJFBSAYETH7XKHE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:55:00 +0000</pubDate>
-      <content:encoded>경찰청과 조선일보사가 운영하는 제59회 청룡봉사상의 주인공이 결정됐습니다. 수상자들에게는 상패와 표창장, 상금 각 1000만원을 드립니다. 시상식은 오는 8일(화) 오전 11시 프레스센터 20층 국제회의장에서 열립니다. &lt;br&gt;&lt;br&gt;▲충상 : 백원진(경찰청) 경정 &lt;br&gt;&lt;br&gt;▲신상 : 김영봉(서울청 관악서) 경감, 김정원(경기남부청 수원서부서) 경사&lt;br&gt;&lt;br&gt;▲용상 : 신진훈(경남청 형사기동대) 경위, 이율학(경기북부청 남양주남부서) 경사 &lt;br&gt;&lt;br&gt;▲인상 : 이대성·황영숙(경상북도 영주시), 하상훈(경기도 남양주시) &lt;br&gt;&lt;br&gt;▲의상 : 故 곽한길(서울시 성동구), 수기안토(인도네시아)&lt;br&gt;&lt;br&gt;▲주최 : 조선일보·경찰청&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>무서운 폭염… 온열 질환자 하루 100명 발생</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/07/04/272GK4CMB5FQ7AIAKKPMTCVCGU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/04/272GK4CMB5FQ7AIAKKPMTCVCGU/</guid>
@@ -840,15 +903,6 @@
       </media:content>
     </item>
     <item>
-      <title>라돈 검출된 대진침대… 대법 “소비자에 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/WLBF43TOJVC3XLH4TUFCKKKTEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/WLBF43TOJVC3XLH4TUFCKKKTEM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>방사성 물질 ‘라돈’이 검출된 매트리스를 판매했던 ‘대진침대’가 소비자들에게 정신적 피해 위자료 100만원씩을 지급하라는 대법원 판결이 나왔다. 대법원 1부(주심 노태악 대법관)는 3일 ‘라돈 침대’ 구매자 130여 명이 대진침대를 상대로 낸 손해배상 소송에서 원고 일부 승소로 판결한 원심을 확정했다. 다른 구매자들이 같은 취지로 낸 3건의 손해배상 소송에서도 대법원은 같은 판결을 내렸다. &lt;br&gt;&lt;br&gt;라돈 침대 사태는 2018년 5월 대진침대가 판매한 매트리스에서 1급 발암 물질 라돈이 다량 검출됐다는 언론 보도가 나오며 시작됐다. 원자력안전위원회는 대진침대가 라돈이 발생하는 음이온 물질(모나자이트)을 사용해 매트리스를 만들었고, 일부 제품은 방사선 피폭량이 기준치의 최대 9배까지 초과했다고 발표하며 수거·폐기 명령을 내렸다. 그러자 소비자들이 대진침대를 상대로 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;1심은 “당시엔 관련 규제 법령이 없었고, 구매자들의 건강 상태에 이상이 있다는 객관적 증거도 없다”며 원고 패소 판결을 내렸으나 2심은 “대진침대가 방사성 물질을 사용해 안전하지 않은 매트리스를 만들어 판 것은 위법하다”며 “소비자들이 구체적으로 건강에 이상이 있지 않았더라도, 부당한 피폭으로 인한 정신적 손해는 인정된다”고 판단했다.&lt;br&gt;&lt;br&gt;대법원도 이날 “매트리스를 정상적으로 사용하던 중 독성 물질에 노출된 피해자에게 현실적으로 질병이 발생하지 않았더라도, 사회 통념에 비춰 피해자가 정신상 고통을 입었다면 위자료를 인정할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>9살, 그리고 6살</title>
       <link>https://www.chosun.com/national/2025/07/04/C4FYGDB5XFDJBBPHV422TLSPMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/04/C4FYGDB5XFDJBBPHV422TLSPMY/</guid>
@@ -871,15 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUB73W6NN5P6XGIRCBJBQ3NNTY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울 중구 동대문디자인플라자(DDP)에서 열린 '서울시 중장년 일자리박람회 2025'에서 구직자들이 채용 게시판을 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 오전 9시 30분 서울 중구 동대문디자인플라자(DDP). &lt;br&gt;&lt;br&gt;“입장하세요.” 안내 방송이 나오자 40~60대 50여 명이 행사장으로 달렸다. 이날 이곳에선 서울시50플러스재단이 개최한 ‘서울시 중장년 일자리 박람회’가 열렸다. 일자리를 찾는 40~60대와 기업을 이어주는 자리다. 올해 3회째로 지난 1~2일 이틀간 구직자 4553명이 몰렸다. 역대 최대다. 기업 120곳이 부스를 차렸다.&lt;br&gt;&lt;br&gt;이날 만난 중장년들은 “100세까지 먹고살아야 하는데 정년 지났다고 노는 건 사치”라고 입을 모았다.&lt;br&gt;&lt;br&gt;이지은 50플러스재단 선임은 “지방에서 KTX 타고 온 사람도 꽤 보였다”고 했다. 이런 중장년을 전문가들은 ‘액티브 시니어’라고도 부른다.&lt;br&gt;&lt;br&gt;임정빈(61)씨는 작년 12월 중소기업에서 퇴직한 뒤 실업급여를 받으며 살고 있다. 그는 “애써 모은 재산을 곶감 빼먹듯이 하다간 ‘100세 시대’에 큰일 날 것 같아서 나왔다”고 했다. &lt;br&gt;&lt;br&gt;지난 5월 통계청이 발표한 ‘고령층 노동시장 참여 실태 조사’ 결과에 따르면, 우리나라 55~79세 남녀의 평균 희망 근로 연령은 73.3세였다. 정년 퇴직 이후에도 10년 이상 더 일하고 싶다는 뜻이다. 6년 전 조사 때보다 0.8세 상승했다. &lt;br&gt;&lt;br&gt;요즘 중장년은 건강하고 경력도 화려하다. 박주완(72)씨는 시중은행 지점장 출신이다. 그는 “사무직은 평생 지겹도록 해봤으니 이제는 몸 쓰는 육체노동도 해보고 싶다”며 “나이는 칠순이지만 꾸준하게 관리해 젊은 사람들보다 산도 잘 탄다”고 했다. &lt;br&gt;&lt;br&gt;한상열(56)씨는 작년까지 국무총리실에서 일했다고 한다. 한씨는 “그동안 모신 총리만 15명”이라며 “공직 경험을 200% 활용할 수 있는 일을 찾고 있다”고 말했다.&lt;br&gt;&lt;br&gt;그러나 실제 취업에 성공할 확률은 ‘바늘구멍’ 수준이다. 윤경수(58)씨는 이날 기업 부스 수십 곳을 다녔지만 일자리를 잡지 못했다고 했다. 그는 “아직 한창 일할 나이라고 생각하는데 기업들은 조금이라도 어린 사람을 찾는 것 같다”고 했다. 지난해 구직자 3414명이 이 박람회장을 찾았지만 실제로 채용된 사람은 158명(4.6%)이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘범죄 소굴’ 캄보디아에 납치된 한국인 266명 구조</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/CVFTK2SRUVCHBAVT7ZLO3GRZKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/CVFTK2SRUVCHBAVT7ZLO3GRZKY/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QMP5ZIPT5D33BWF2YDTLSPEDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제59회 청룡봉사상 ‘충(忠)상’은 캄보디아 한국 대사관에 경찰 영사로 파견된 백원진(49) 경정이 받는다. 백 경정은 2022년 8월부터 캄보디아에 파견돼 3년 가까이 근무 중이다.&lt;br&gt;&lt;br&gt;백 경정은 경찰 내에서 ‘인도차이나반도 전문가’로 꼽힌다. 2015년부터 2018년까지 라오스 초대 경찰 영사관으로 근무했다. 귀국 직후엔 캄보디아 근무에 자원했다. 그는 “라오스에 근무하면서 베트남·라오스·캄보디아 등 메콩강 유역 일대 국가의 분위기나 행정·풍토에 익숙해졌고 매력도 느끼게 됐다”며 “기회가 된다면 캄보디아에서도 교민들의 안전을 위해 힘써보고 싶었다”고 했다.&lt;br&gt;&lt;br&gt;최근 캄보디아는 취업 사기를 빙자해 외국인을 납치·감금한 후 보이스피싱 등 범죄에 동원하는 인신매매 조직의 새로운 근거지로 떠오르고 있다. 한국 국민들 역시 “특별한 기술 없이도 큰돈을 벌 수 있다”는 말에 속아 캄보디아를 찾았다가 여권과 휴대폰을 뺏기고 범죄 조직에 납치되는 사례가 늘고 있다. &lt;br&gt;&lt;br&gt;백 경정이 2023년부터 지난 2월까지 직접 구조한 우리 국민은 총 266명에 달한다. 영사콜센터 등에 구조 신고가 접수되면 위치를 확인한 후, 현지 경찰과 협력해 신고자를 찾아 나선다. 이들이 행정 수속을 마쳐 한국으로 돌아갈 때까지 백 경정이 숙박비 등을 대준 적도 많다.&lt;br&gt;&lt;br&gt;캄보디아 현지의 한국인 범죄자를 검거하는 것도 그의 역할이다. 백 경정은 캄보디아 파견 후 인터폴 적색 수배자 등 총 68명을 현지에서 검거해 국내로 송환했다. 지난해 5월 태국을 찾은 한국인 관광객을 납치해 금품을 빼앗고 살해한 뒤 캄보디아로 도주했던 이른바 ‘드럼통 살인 사건’의 주범 이모(28)씨도 그가 잡았다. 이씨가 캄보디아에서 발견됐다는 첩보를 입수한 백 경정은 현지 경찰들에게서 첩보를 입수한 지 1시간 만에 체포 작전을 실시해 검거에 성공했다. &lt;br&gt;&lt;br&gt;백씨 등 전 세계의 경찰 영사는 24시간 상시 대기 체제로 근무한다. 백 경정은 “국민의 안전을 지키기 위해 각국에서 수많은 경찰 영사가 고군분투하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>종신형 면한 ‘힙합 거물’… 다섯 개 혐의 중 두 개만 유죄</title>
       <link>https://www.chosun.com/national/people/2025/07/04/XASI4WEEGRETLF7ZTKUZNWHJPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/04/XASI4WEEGRETLF7ZTKUZNWHJPQ/</guid>
@@ -889,24 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FB3ZIS3DJNFD7E2UKI2UFIBT5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;숀 디디 콤스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성들을 성착취하고 범죄 조직을 운영한 혐의 등으로 기소됐던 미국의 힙합 스타 숀 디디 콤스(56·활동명 퍼프 대디)가 기사회생했다. 2일 미국 뉴욕 맨해튼 연방지방법원 배심원단은 다섯 개의 혐의로 형사 재판에 넘겨진 피고인 콤스에 대해 성착취 등 핵심 혐의 세 가지는 무죄로, 상대적으로 비중이 낮은 두 혐의만 유죄로 평결했다.&lt;br&gt;&lt;br&gt;완전 무죄는 아니지만 사실상 콤스의 승리라고 미 언론들은 전했다. 혐의가 모두 유죄 판결을 받을 경우 종신형에 처해질 수도 있었기 때문이다. 초조한 표정으로 법정에 들어섰던 콤스는 평결 직후 환한 얼굴로 연신 “감사하다”고 말했다. &lt;br&gt;&lt;br&gt;콤스는 1997년 총격으로 숨진 친구를 위한 추모곡 ‘아일 비 미싱 유(I’ll be Missing You)’ 등 여러 히트곡으로 한국에서도 유명하다. 그는 힙합계에서 절대적인 자신의 영향력을 이용해 여러 여성에게 성행위를 강요했다는 혐의를 받았다. 미 연방수사국(FBI)은 작년 3월 플로리다주 마이애미와 캘리포니아주 로스앤젤레스에 있는 그의 호화 저택을 압수 수색하며 수사를 진행한 뒤 작년 9월 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7JYCMVN2ZPFVBLNVENZ375NC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노란 상의를 입은 션 디디 콤스(퍼프대디)가 2일 뉴욕 맨해튼 연방법원 공판에서 배심원단 평결을 지켜보는 모습을 그린 법정 스케치.
 /로이터 연합뉴스 
   &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 콤스는 열악하기로 악명 높은 브루클린 메트로폴리탄 구치소에 수감됐다. 8주간 이어진 법정 공방에서 콤스는 성 착취 혐의와 관련한 행위에 강제성이 없음을 입증하는 데 주력했다. 배심원단은 콤스가 여자 친구와 주고받은 휴대전화 메시지 등을 고려할 때 강제성을 인정하기 어렵다고 판단해 무죄 평결을 내렸다. 또 다른 핵심 혐의인 범죄 조직 운영과 관련해서도 증거 부족을 이유로 무죄로 판단했다. &lt;br&gt;&lt;br&gt;콤스는 평결 직후 석방을 요청했지만 재판부는 콤스의 폭력적 성향을 문제 삼아 신청을 기각했다. 형량 선고는 10월 있을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 이창직 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/07/04/XC6KM46QLRG2LFR4H4B7JXM5XQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/04/XC6KM46QLRG2LFR4H4B7JXM5XQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이창직&lt;/b&gt; 별세, &lt;b&gt;이동명&lt;/b&gt; 강원도민일보 인제 주재 기자·&lt;b&gt;이동현&lt;/b&gt; 푸디시트 마트 2사업부장 부친상=3일2시55분 강원 평창 진부장례식장, 발인 5일9시, (033)335-3240&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이태희&lt;/b&gt; 별세, &lt;b&gt;이재상&lt;/b&gt; 이노션 미디어 비즈니스팀 국장 부친상, &lt;b&gt;문슬기&lt;/b&gt; 알피티 트레이딩 차장 시부상=2일18시10분 서울성모병원, 발인 5일7시30분, (02)2258-5925&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이충기&lt;/b&gt; 前 SBS 농구단 단장 별세=3일6시29분 서울아산병원, 발인 5일9시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조선비즈 장윤서·류현정·이정아 ’2025년 상반기 과학취재상' 수상</title>
-      <link>https://www.chosun.com/national/people/2025/07/04/66IHP7JCK5E4DDFLUTRJTO5UYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/04/66IHP7JCK5E4DDFLUTRJTO5UYA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OEKPEYLB5CHVIS4NZXKCYGKV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장윤서, 류현정, 이정아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선비즈 장윤서·류현정·이정아 기자가 ‘53.9%, 나는 고령 장애인입니다’ 시리즈로 한국과학기자협회가 주는 ’2025년 상반기 과학취재상' 수상자로 선정됐다. 심층 데이터 분석과 4개월간 현장 르포를 통해, 고령화와 장애의 연결 고리를 구조적으로 추적하고, 의료와 복지 패러다임 전환을 제시한 기획 기사다. 시상식은 16일 오후 1시 서울 강남구 과학기술회관에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“업무 공백? 출산이 오히려 커리어 ‘전환점’ 됐죠”</title>
@@ -927,24 +954,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2X74O7MPZHSBBNP5ACSL2YWZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2025/07/04/E32WQI4LWJCAJPXIXNW4VWEY4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/07/04/E32WQI4LWJCAJPXIXNW4VWEY4Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWEAW6I5WVF2HJJYR2F4KUN72Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면/리프린트/25-7-4일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난달 27일 ‘우리 아이가 태어났어요’ 코너에 실린 이서윤&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" rel=""&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[고수 아빠의 육아 비결] 아빠와 만드는 나만의 ‘몬스터’… 물감 얼룩 놀이로 표현력 쑥쑥</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/07/04/GKIRQYBG3VCIBL5GKJKXP2E4XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/07/04/GKIRQYBG3VCIBL5GKJKXP2E4XU/</guid>
-      <dc:creator>황성한 '기적의 아빠 육아' 저자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>그림 놀이는 단순히 손을 움직이는 활동을 넘어 아이의 상상력과 표현력을 키우는 데 큰 도움이 됩니다. 특히 자신이 느낀 감정을 표현하고, 새로운 이야기를 만들어내는 능력을 기르는 데에도 효과적이지요. 오늘 소개할 ‘물감 얼룩 몬스터’ 놀이는 간단하지만 아이가 자신의 아이디어를 맘껏 펼칠 수 있도록 해주는 활동입니다.&lt;br&gt;&lt;br&gt;준비물은 도화지, 물감, 종이컵, 그리고 빨대입니다. 수채 물감이나 아크릴 물감 모두 사용 가능하며, 물에 물감을 조금 희석해서 종이컵에 담아두면 됩니다. 도화지 위에 물감을 한두 방울 떨어뜨리고, 빨대로 ‘후~’ 하고 입바람을 불면 물감이 여러 방향으로 번지며 독특한 얼룩이 생겨나지요. 이때 도화지를 살짝 기울이면 물감이 생각하지 못한 방향으로 퍼지며 더 흥미로운 형태가 만들어진답니다.&lt;br&gt;&lt;br&gt;아이는 퍼진 얼룩을 자세히 관찰하면서 머릿속의 상상을 하나씩 꺼내기 시작합니다. 얼룩에 눈, 팔, 뿔 등을 그려 넣어 몬스터 캐릭터를 그리는 것이죠. 여기에 이름을 붙이고, 몬스터의 성격이나 움직임을 자유롭게 상상해 보도록 아빠가 이끌어 주세요. 예를 들어 ‘이 몬스터는 배고프면 펑 하고 튀어나와’ ‘이건 다리가 다섯 개나 돼’와 같이 아이가 상상한 내용을 자연스럽게 말로 풀어낼 수 있도록 도와줍니다. &lt;br&gt;&lt;br&gt;아빠도 직접 놀이를 해 보세요. 몬스터를 만들고 ‘이 몬스터는 하늘을 날며 흰 구름을 먹지’ 같은 이야기를 덧붙여 보세요. 아이는 아빠의 표현을 들으며 더 많은 상상과 표현을 시도하게 되고 자연스럽게 언어 능력과 감정 표현력이 길러지지요.&lt;br&gt;&lt;br&gt;놀이가 끝나면 아이와 아빠가 만든 몬스터들을 벽에 붙여 ‘몬스터 마을’을 꾸며 보세요. 서로의 몬스터에 대해 이야기해 보는 시간도 아이에게는 특별한 경험이 됩니다. 이 과정을 통해 아이는 자신이 상상한 것을 말로 풀어내면서 몬스터의 움직임을 자연스럽게 묘사하게 됩니다. &lt;br&gt;&lt;br&gt;이번 주말, 아이와 함께 도화지 위 물감 한 방울로 시작되는 상상 여행을 떠나보세요. 아빠와 함께 상상력을 발휘해가며 만든 나만의 몬스터는 아이의 기억 속에 오래오래 남을 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[기자의 시각] 학문의 자유, 법으로 단죄 마라</title>
       <link>https://www.chosun.com/opinion/journalist_view/2025/07/03/3L2QF2GF6NE3THVGVFFEL5Q2S4/</link>
       <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2025/07/03/3L2QF2GF6NE3THVGVFFEL5Q2S4/</guid>
@@ -962,15 +971,6 @@
       <description/>
       <pubDate>Thu, 03 Jul 2025 13:09:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBZN2PWIHACSWZJ5VJSTN7KFTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석이 3일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실로 조사를 받기위해 출석하고 있다. 2025.7.3/뉴스1 ⓒ News1 이승배 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 내란 특별검사팀에 소환된 김주현 전 민정수석이 오후 9시 57분 조사를 마치고 귀가했다. 이날 오전 9시 47분 출석한 지 12시간 10분 만이다.&lt;br&gt;&lt;br&gt;김 전 수석은 서울고검 청사를 나와 ‘대통령 안전가옥(안가) 회동이 여전히 친목모임이라 해명했냐’ ‘친목모임이면 안가에서 하면 안 됐던 것 아니냐’는 등의 취재진 질문에는 답하지 않은 채 곧장 집으로 향했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 윤석열 전 대통령의 핵심 법률 참모였던 김 전 수석을 상대로 불법 계엄을 사후 은폐하도록 조언했는지, 계엄을 사전에 인지하거나 그 과정에 가담했는지 등을 조사한 것으로 알려졌다. 특히 계엄 해제 당일인 작년 12월 4일 대통령 안가에서 이뤄진 이른바 ‘안가 회동’을 구체적으로 규명하는 데 집중했다고 한다.&lt;br&gt;&lt;br&gt;당시 모임에는 김 전 수석, 박성재 전 법무부 장관, 이상민 전 행정안전부 장관, 이완규 법제처장 등이 참석했는데, 이들은 모두 단순 친목 모임이었다는고 주장해 왔다. 그러나 특검팀은 안가 회동이 계엄의 불법성을 확인하고, 계엄 선포문 작성과 서명을 통해 향후 법적 요건을 충족시킬 방법을 논의하기 위한 자리가 아니었는지 의심하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 앞서 강의구 전 대통령실 부속실장에게서 “계엄 이후 김 전 수석으로부터 ‘대통령의 국법상 행위는 문서로 해야 하는데 비상계엄 관련 문서가 있냐’는 질문을 받았다”는 취지의 진술을 받았다. 강 전 실장은 이후 새로 비상계엄 선포 문건을 작성해 한덕수 전 국무총리와 김용현 전 국방부 장관의 서명을 받았지만, 며칠 뒤 한 전 총리가 ‘없던 일로 하자’고 요청해 문건을 폐기했다고 한다.&lt;br&gt;&lt;br&gt;한편 특검팀은 김 전 수석뿐만 아니라 김성훈 전 경호처 차장도 불렀는데, 김 전 차장은 현재 심야 조사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 내란 재판서 “이첩 무효” vs “꼬투리 잡기” 특검과 공방</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/HE6EKZKF2JEBVCLSRBIYMGRL44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/HE6EKZKF2JEBVCLSRBIYMGRL44/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 10:01:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWRDZV5OOOMZOQSDMVWLCALNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 윤석열 전 대통령이 서초동 서울중앙지법에서 열린 내란 우두머리 혐의 재판에 출석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 내란 혐의 사건을 넘겨받은 조은석 특별검사팀과 법정에서 공방을 벌였다. 윤 전 대통령 측은 검찰 비상계엄 측별수사본부가 특검에 사건을 이첩한 절차에 흠결이 있어 무효라고 주장했고 특검 측은 “납득할 수 없는 주장”이라고 반박했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 3일 윤 전 대통령의 내란 우두머리 혐의 9번째 재판을 열었다. 본격적인 재판에 앞서 윤 전 대통령 측은 특검이 검찰 특수본으로부터 내란 혐의 사건을 이첩받은 것이 무효라고 주장했다. 특검은 특수본에 사건 ‘인계’를 요구했을 뿐 ‘이첩’을 요구한 적은 없는데 사건을 이첩했다는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 위현석 변호사는 “특검법에서 ‘인계’는 특검 수사 대상인 사건을 넘겨받는 규정이고 ‘이첩’은 특검 수사 대상 중 공소유지 중인 각 사건 자체를 넘겨받는 규정”이라며 둘을 구분해야 한다고 했다. 수사 단계의 사건을 넘기는 ‘인계’와 기소가 이뤄져 재판 중인 사건을 넘겨받는 ‘이첩’을 구분해야 한다는 취지다. 그러면서 “이첩 요구가 없었는데도 이첩한 것은 법률에 따르지 않은 것으로 무효”라고 했다. &lt;br&gt;&lt;br&gt;그러자 박억수 특검보는 “인계 요청에 이첩 요청이 포함되는 것”이라며 “법과 상식에 비춰봤을 때 납득될 수 없는 주장”이라고 맞섰다. 그러면서 “누구나 알 수 있는 내용을 갖고 (꼬투리를) 잡고 있다”고 했다. 특검에 파견된 조재철 부장검사는 “(변호인 주장은) 특검법을 곡해하는 독자적인 해석”이라고 했다. &lt;br&gt;&lt;br&gt;이날 재판에서는 고동희 전 국군정보사령부 계획처장(대령)에 대한 증인 신문이 이뤄졌다. 고 대령은 계엄 당시 무장한 부대원 9명과 함께 경기 과천 중앙선거관리위원회로 출동해, 서버실을 확보하는 임무를 현장 지휘한 인물이다. 내란에 가담한 혐의로 지난 2월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;고 대령은 작년 12월 3일 계엄이 선포되기 약 5시간 전인 오후 5시쯤 문상호 당시 정보사령관으로부터 “오늘 야간에 상부 지시로 과천 중앙선관위 청사에서 임무가 있으니 출동 준비하라”는 지시를 받았다고 증언했다. 구체적인 임무가 무엇인지 묻는 검사 질문에 “선관위로 출입을 통제하고 서버실 위치를 확인한 뒤, 거길(서버실을) 지키고 있으면 된다는 지시였다”고 했다. &lt;br&gt;&lt;br&gt;고 대령은 이후 밤 9시 24분쯤 문 전 사령관으로부터 전화가 와 “30분 뒤 10시에 TV에 속보가 나올 거니 잘 지켜보라. 지켜보면 임무 시기를 알 수 있을 것”이라는 얘기를 들었다고 했다. &lt;br&gt;&lt;br&gt;고 대령은 문 전 사령관 지시에 따라 서버실 내부로 진입한 뒤 사진을 촬영해 전송했고, 선관위 당직 근무자들이 근무할 수 있도록 하되 휴대폰을 사용해 외부 연락을 할 수 없게 통제했다고 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;고 대령은 이후 이튿날 새벽 부대로 복귀하며 “떳떳하지 못한 일에 연루된 것 같다는 생각이 들었다”고 했다. 그러면서 부대원들에게 ‘우리 이상한 일에 휘말린 것 같다. 메신저 단체방부터 폭파하라’라고 지시했다고 했다.&lt;br&gt;&lt;br&gt;재판부는 다음 재판에서 고 대령 증인 신문을 마무리하고, 선관위 서버 반출과 관련해 증인 신문을 이어가기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산서 8일 만에 또…부모 외출한 사이 화재로 어린 자매 사망</title>
