@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란특검, 尹 전 대통령 조사 오후 1시 7분 재개... ‘체포 방해’ 조사는 끝나</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/05/T55YUTBGSRBD5B3X67AT56N3XU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/T55YUTBGSRBD5B3X67AT56N3XU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 04:10:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LYMGGXLGEM3TJ4AG3GM5X6JXFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란특검은 윤석열 전 대통령의 피의자 조사를 오후 1시 7분 재개했다고 밝혔다. 특검은 이날 오전 9시 4분부터 3시간가량 윤 전 대통령을 조사했고, 오후 12시 5분쯤 점심 식사를 위해 조사를 잠시 멈췄었다. 윤 전 대통령의 ‘체포 방해’ 의혹에 대한 조사는 오전 중 마무리됐다고 한다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난달 28일 1차 조사 때는 오전 조사에 참여한 박창환 경찰청 중대범죄수사과장(총경)이 체포영장 집행에 참여했다는 점을 이유로 오후 조사에 불응한 바 있다. 그러나 특검이 이날 조사관을 부장검사 2명으로 바꾸는 등 윤 전 대통령 측 요구를 일부 받아들이면서 윤 전 대통령도 조사에 임하고 있는 것이다.&lt;br&gt;&lt;br&gt;이날 오전 조사는 박억수·장우성 특검보가 직접 참여해 지휘했다. 윤 전 대통령의 신문은 김정국·조재철 부장검사가 맡았다. 지난달 28일 1차 조사 당시 윤 전 대통령 측이 문제를 제기했던 박 총경은 직접 신문을 하지는 않는 대신, 조사실에 함께 들어가 지원했다. 두 부장검사는 윤 전 대통령이 지난 1월 고위공직자범죄수사처의 체포영장 집행을 막으라고 대통령경호처에 지시했다는 의혹을 집중적으로 캐묻고, 해당 의혹에 대한 조사를 마무리했다고 한다. &lt;br&gt;&lt;br&gt;박지영 특검보는 “조사량이 많은 점과 신속한 조사 진행 등 수사의 효율성을 고려한 조치”라고 밝혔다. 가장 먼저 조사를 시작한 의혹은 ‘체포 방해’ 의혹이다. 조사는 1차 소환 때와 같이 서울고검 6층 조사실에서 이뤄지는 중이다. 이날 오전 9시 1분 서울고검 청사에 출석한 윤 전 대통령은 9시 4분 조사실에 입실했고, 별도 티타임 없이 곧바로 조사가 시작됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령 조사는 순조롭게 진행되고 있다는 것이 박지영 특검보 설명이다. 김홍일·배보윤·송진호·채명성 변호사 4명이 이날 조사에 동행했는데, 1차 조사 때 입회했던 송진호·채명성 변호사 2명이 이날도 입회한 상황이다. 조사하는 혐의 내용에 따라 변호인들이 수시로 교대하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KH6AXZBCKRBE3J62CX4NPASYBI.JPG?auth=979dfc5e4609794de68e29b5ccde132db0c443e5a1fc59f4c9f2ccb305ebc576&amp;smart=true&amp;width=1585&amp;height=892" type="image/jpeg" height="892" width="1585">
+        <media:description type="plain">윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다. (공동취재) 2025.7.5/뉴스1 ⓒ News1 구윤성 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 구윤성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 윤 前 대통령 오전 조사 종료 후 점심 식사 중... 오후 1시 7분 재개 예정</title>
       <link>https://www.chosun.com/national/court_law/2025/07/05/O5GIHGHNNJGM5BCPPSHTNZOG74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/05/O5GIHGHNNJGM5BCPPSHTNZOG74/</guid>
@@ -952,16 +965,6 @@
       <description/>
       <pubDate>Thu, 03 Jul 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2X74O7MPZHSBBNP5ACSL2YWZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[기자의 시각] 학문의 자유, 법으로 단죄 마라</title>
-      <link>https://www.chosun.com/opinion/journalist_view/2025/07/03/3L2QF2GF6NE3THVGVFFEL5Q2S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/opinion/journalist_view/2025/07/03/3L2QF2GF6NE3THVGVFFEL5Q2S4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 14:55:00 +0000</pubDate>
-      <content:encoded>“11년이나 걸리다니.” 지난 1월 서울고법 307호 법정. 박유하 세종대 명예교수가 법정을 나서며 씁쓸한 표정으로 한 말이다. 위안부 피해자들이 그를 상대로 낸 손해배상 소송의 항소심 선고가 끝난 직후였다. 법원은 “학문적 연구에 사용된 표현은 학계·사회의 평가 및 토론으로 검증하는 게 바람직하다”며 원고 패소 판결을 내렸다. 1심은 박 교수가 위안부 피해자들의 명예를 훼손했다며 9000만원을 배상하라고 판결했지만, 2심에서 뒤집힌 것이다. 피해자 측이 상고하지 않으면서, 이 판결은 지난 2월 확정됐다.&lt;br&gt;&lt;br&gt;그리고 6개월 뒤인 3일, 서울고법은 국가가 박 교수에게 형사보상금 875만원을 지급하라고 결정했다. 형사재판에서도 무죄가 확정된 그가 소송 과정에 부담한 변호사 비용 등을 보상받게 된 것이다. 박 교수가 민형사 소송에 휘말린 지 11년 만이다.&lt;br&gt;&lt;br&gt;875만원이 법정에서 감내한 11년 세월을 보상할 수 있을까. 이 사건은 박 교수가 ‘제국의 위안부’를 출간한 2013년 8월로 거슬러 올라간다. 책에는 “위안부의 불행을 낳은 것은 식민 지배, 가난, 가부장제라는 복잡한 구조였다”는 주장이 담겼다. 위안부와 관련된 기존 서술과는 결이 달랐다. 이듬해 6월, 위안부 피해자들은 “책에 쓰인 허위 사실로 명예를 훼손당했다”며 박 교수를 상대로 민형사 소송을 제기했다.&lt;br&gt;&lt;br&gt;형사 재판 1심은 “박 교수 견해에 대한 판단은 재판이 아니라 학문의 장에서 이뤄져야 한다”며 무죄로 판단했다. 그러나 2심은 책 속 일부 표현이 피해자들의 명예를 훼손했다고 보고 벌금 1000만원을 선고했다. 대법원은 2023년 10월 “책 속 표현은 학문적 주장으로 평가하는 것이 타당하다”며 무죄 취지로 사건을 서울고법으로 돌려보냈다. 파기환송심은 작년 4월 박 교수에게 무죄를 선고했고, 검찰이 재상고하지 않아 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;비슷한 사례는 또 있다. 류석춘 전 연세대 교수는 “위안부는 현대의 매춘과 유사하다”는 발언으로 기소됐다가, 지난 2월 대법원에서 “류 전 교수의 발언은 통념에 어긋나고 비유가 부적절하지만 추상적 의견이기 때문에 명예훼손에 해당하지 않는다”는 판단을 받았다.&lt;br&gt;&lt;br&gt;두 학자의 주장이 옳았는지에 대한 평가는 각자의 몫이다. 그러나 학자가 자신의 견해를 밝혔다는 이유로 법정에 서야 하는 상황은 우려스럽다. 그간 위안부 문제는 기존의 관점과 다른 견해를 허용하지 않는 분위기 속에서 좀처럼 나아가지 못했다. 그러나 팩트와 주장이 있으면 공론장에서 논쟁하고 반박하면서 풀어야 한다. 모두가 같은 목소리만 낸다면, 학문은 정체될 수밖에 없다. &lt;br&gt;&lt;br&gt;법원은 세상의 다툼이 마지막으로 흘러드는 ‘하수구’다. 하지만 학문의 자유까지 그 속에 고여서는 안 된다. 학문의 자유를 국가기관이 법으로 단죄하는 일이 다시는 반복되지 않기를 바란다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AHLB4A6QTRBSNOGTPHMWH6BXMI.png?auth=37a102a5d7baab172fcd8646d96f207b5e2ae31068e48ab3a2d437dfe85dbf3a&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
     </item>
     <item>
       <title>김주현 전 민정수석, 내란 특검 조사 12시간 10분 만에 귀가</title>
