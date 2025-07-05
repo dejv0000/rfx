@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대낮 미용실 흉기 난동으로 업주 중태…범인은 20대 아들이었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/06/SJAZQ437T5D3RBDQO4ZDNTZ2HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/SJAZQ437T5D3RBDQO4ZDNTZ2HY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 22:53:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니가 운영하는 미용실을 찾아가 흉기를 휘둘러 어머니와 손님 2명을 다치게 한 20대 아들이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면 전날 낮 12시쯤 경남 창원시 성산구의 한 미용실에서 20대 남성 A씨가 어머니인 미용실 업주 B(60대)씨에게 흉기를 휘둘러 중상을 입혔다.&lt;br&gt;&lt;br&gt;B씨는 병원으로 옮겨졌지만 생명이 위독한 상태인 것으로 알려졌다. 사건 당시 미용실에 있던 여성과 남성 손님도 부상을 입었다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했는데, 아직 범행 동기는 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;경찰은 남성에 대해 구속영장을 신청하고 범행 동기를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>미성년자와 모텔 투숙한 30대, 경찰 피해 난간 매달렸다 추락</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/06/MH6AWF766ZH4NDF6IJYALMGUHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/MH6AWF766ZH4NDF6IJYALMGUHM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 05 Jul 2025 21:45:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미성년자와 모텔에 투숙했던 30대 남성이 경찰을 피해 창밖 난간에 매달려 있다가 추락해 중상을 입는 사건이 발생했다.&lt;br&gt;&lt;br&gt;5일 충남 당진경찰서 등에 따르면 전날 오후 10시 40분쯤 경찰에 ‘딸이 충남 당진시 송악읍에 있는 모텔에 성인 남자와 있는 것 같다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이에 경찰이 해당 모텔을 찾아가 신고 사실을 확인하려 하자, 미성년자와 있던 30대 남성 A씨는 창문 쪽으로 달아났다.&lt;br&gt;&lt;br&gt;이후 A씨는 3층 높이 난간에 매달려 있다가 바닥으로 추락해 골절상 등을 입어 병원 치료를 받고 있다. 다행히 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 회복하는 대로 미성년자와 모텔에 있었던 이유 등 자세한 사건 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김민석 ‘기적의 배추 수익률’... 최대 고랭지 재배단지 農心은</title>
       <link>https://www.chosun.com/national/2025/07/06/RJ5IMXZ6ARB7XD7UIYM4RGLUX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/06/RJ5IMXZ6ARB7XD7UIYM4RGLUX4/</guid>
@@ -829,15 +847,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQLP7USBZJC3NOI2GGW22BI544.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시내 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 경기침체와 인구 감소로 부동산 활황세가 꺾이면서 부동산 경매 물건이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;4일 제주지법에 따르면 상반기(1~6월) 제주에서 진행된 법원 경매 건수는 3651건이다. 이는 전년 동기 3085건과 비교해 566건(18.3%) 급증한 것이다.&lt;br&gt;&lt;br&gt;이같은 경매물건 건수는 역대 가장 많다. 연간 최다 경매 물량이 나왔던 2008년 상반기 3434건보다도 217건(6.3%)이 많았다. 2008년 당시에는 미국 서브프라임 모기지론으로 촉발된 글로벌 금융위기의 여파로 1년 동안 제주지법 경매 물량이 8024건이 쏟아졌다.&lt;br&gt;&lt;br&gt;올해 제주지법 경매 물량은 현 추세대로라면 작년 6079건에 이어 2년 연속 6000건을 넘어설 것으로 전망된다.&lt;br&gt;&lt;br&gt;이처럼 경매 물량은 쏟아지고 있지만, 매각률과 매각가율은 낮아진 것으로 나타났다.&lt;br&gt;&lt;br&gt;상반기 제주지법 경매 물량 매각 건수는 692건으로 매각률은 19%에 그쳤다. 또 경매 물량의 총 감정가는 4027억 8711만 원이었지만, 매각가는 2003억 5603만원, 매각가율은 49.7%였다. 전년 동기 매각률 22.8%, 매각가율 56.5%와 비교하면 각각 3.8%포인트(p), 6.8%포인트 낮은 것이다.&lt;br&gt;&lt;br&gt;매각률 편차는 용도별로 컸다. 상반기 제주지법 경매 물량의 용도별 현황을 보면 아파트 97건(130억 6200만 원), 단독주택 및 다가구주택 213건(342억 9249만 원), 연립주택 및 다세대 317건(217억 5353만 원), 토지 1313건(1364억 8761만 원), 자동차 및 중기 162건(10억 7960만 원), 오피스텔 및 근린시설 532건(307억 2074만 원), 기타 1017건(1653만 9116만 원)이었다.&lt;br&gt;&lt;br&gt;이중 아파트 매각률은 39.2%였지만, 오피스텔·근린생활시설 등 업무용 건물 매각률은 12.2%에 그쳤다. 토지 매각률도 15.2%에 머물고 있다.&lt;br&gt;&lt;br&gt;부동산 업계 관계자는 “장기간 경기침체와 고금리 여파로 사업장과 개인 물량이 경매로 나오고 있다”며 “실수요자에 매수 기회가 될 수 있지만 정부가 대출 규제를 강화한 데다 불황이 이어지면 관망세가 지속할 가능성도 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검, 이주호 교육부장관·박종준 전 대통령경호처장 오후 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/T66G37LJBBHZJHO2BRD3EKYPF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/T66G37LJBBHZJHO2BRD3EKYPF4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 03:07:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HPWNZKWVJKR7DBG4QYSJ6RLOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 국무총리 직무대행 부총리 겸 교육부 장관이 지난 1일 서울 용산 대통령실 청사에서 열린 국무회의에 참석하고 있다./대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 4일 오후 이주호 교육부장관과 박종준 전 대통령경호처장을 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXIN7CGIA5JSQMOJ3VCZMJUBUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령 경호처장이 지난 2월 6일 오후 서울 여의도 국회에서 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회 3차 청문회에 출석해 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀은 이 장관에게 비상계엄 전후 사정 등을 캐물을 것으로 보인다. 이 장관은 비상계엄 선포 직전 열린 국무회의에는 소집 통보를 받지 못해 불참했는데, 이튿날인 지난해 12월 4일 새벽 열린 비상계엄 해제를 위한 국무회의에는 참석했다. 특검팀은 지난 2일 안덕근 산업통상자원부 장관과 유상임 과학기술정보통신부 장관을 먼저 소환해 조사한 바 있다. 두 장관 역시 비상계엄 선포 직전 열린 국무회의에는 참석하지 않고, 이튿날 새벽 계엄 해제를 위한 국무회의에 참석했던 인물들이다.&lt;br&gt;&lt;br&gt;박 전 처장은 대통령경호처 직원들을 동원해 경찰과 고위공직자범죄수사처의 체포영장 집행을 방해한 혐의를 받고 있다. 윤 전 대통령의 지시를 받아 여인형 전 방첩사령관, 홍장원 전 국가정보원 1차장 등의 비화폰 통화기록을 삭제하라고 직원들에게 지시했다는 의혹도 제기된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>괴담으로 끝나기를... ‘7월5일 지진설’ 그날 다가오자 日 긴장</title>
       <link>https://www.chosun.com/national/national_general/2025/07/04/TXCCAOL7KBBTLCBGTSIWE7VIU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/TXCCAOL7KBBTLCBGTSIWE7VIU4/</guid>
@@ -947,19 +956,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFSRE62KF5FWPMJEA55QRWCD2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이곳은 1500㎡(약 450평) 규모 공사 현장입니다. 수십억 위안(수천억 원)이 들어갔습니다. 중식당과 술집, 노래방, 중국식 야외 정자를 만들 겁니다.”&lt;br&gt;&lt;br&gt;중국 동영상 공유 플랫폼 ‘틱톡’에 최근 올라온 한 영상에서 건장한 40대 중국인 남성이 팔짱을 낀 채 설명하자 10명이 “알겠다”며 고개를 끄덕였다. 영상을 촬영한 장소는 중국이 아닌 서울 중구 명동 거리 한복판이었다. 예상 매각가가 4000억원이 넘는 8층짜리 건물의 한 층(7층)을 통째로 임차해 공사 준비가 한창인 이곳엔 곳곳에 모래가 쌓여 있었다. 이 남성은 건물 곳곳을 돌면서 손짓으로 ‘이곳은 닭 요리 코너’ ‘이곳은 횟집 자리’라고 했다. 이어 “이 층 전체에 중국식 가게 8개를 짓겠다”며 “특히 중식당은 (중국 전통 건축 양식인) 휘파(徽派)나 소파(蘇派) 양식으로 아름답게 만들자”고 했다. &lt;br&gt;&lt;br&gt;정부는 지난 3월 올 3분기(7~9월)부터 연말까지 유커(游客·중국인 단체 관광객)들에 대한 한시적 무비자 입국을 허용하겠다고 발표했다. 이후 명동 등 유커들이 즐겨 찾는 주요 상권에 투자하려는 중국계 ‘큰손’들이 한국으로 몰리고 있다. 작년 11월 중국 정부가 선제적으로 한국인 입국자에게 단기 무비자 입국을 허용한 데 이어 한한령(限韓令·한류 금지령) 전면 해제 가능성에 대한 기대감이 커지면서 중국 면세 업계와 여행사, 엔터테인먼트 기업들의 한국 투자도 활발해지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZTD4FIIFBHOBEBA75FTX6R3LM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명동 등 서울 도심에 ‘차이나 머니’가 본격 유입되는 상황은 작년 12월 비상계엄 사태로 조성된 정치적 혼란이 어느 정도 해소된 영향도 있는 것으로 분석된다. 홍콩 사우스차이나모닝포스트(SCMP)는 여행 마케팅 업체 차이나 트레이딩 데스크 자료를 인용해 올해 4~6월 중국인 관광객의 한국 여행 예약이 작년 12월~올해 2월보다 약 24% 증가했다고 최근 보도했다. 이 매체는 “중국 관광객들은 한국을 정치적 안정이 회복된 안전한 여행지로 인식하고 있다”고 했다.&lt;br&gt;&lt;br&gt;중국 면세·여행 업계와 엔터테인먼트 업계의 한국 진출도 활발해지고 있다. 중국국영면세점그룹(CDFG) 및 모기업인 중국여유그룹(CTG)은 중국인 관광객 수익의 60~70%를 차지하는 중국인 단체 관광객을 겨냥해 신라면세점·롯데면세점과 협력 방안을 논의 중이라고 최근 밝혔다. SM엔터의 2대 주주로 올라선 중국 ‘텐센트 뮤직’은 SM엔터와 손잡고 중국 현지에서 아이돌 그룹을 제작할 계획이라고 발표했다.&lt;br&gt;&lt;br&gt;중국인들은 의료 관광 비자 사업에도 본격 진출하고 있다. 한국관광공사 한국관광데이터랩에 따르면, 올 1월부터 5월까지 외국인 의료 소비액(7145억원)이 작년 같은 기간(4084억원)에 비해 75% 증가했다. 여행 업계 관계자는 “피부·성형 치료를 받겠다는 중국인 환자가 늘어난 영향이 가장 크다”고 했다.&lt;br&gt;&lt;br&gt;중국인은 서울 중심지 위주로 부동산도 사들이고 있다. 법원 등기정보광장에 따르면, 외국인의 부동산 매매는 올해 1월 833건에서 지난 4월 1238건으로 약 49% 증가했다. 그런데 1~4월 전체 매매 건수 중 총 2791건(66.9%)이 중국인 매수였다. 부동산 관계자는 “중국 투자자들이 여러 명이 자금을 모아 한 명이 부동산을 매수한 뒤 처분할 때 이익을 나눠 갖는 ‘부동산 쇼핑’에 잇따라 나서고 있다”고 했다.&lt;br&gt;&lt;br&gt;중국인의 부동산 ‘싹쓸이’ 열풍에 정부·지자체는 대응책을 고심하고 있다. 서울시는 지난달 외국인 대상 자금 조달 계획서 검증과 실거주 여부 점검, 이행 강제금 부과 등을 포함한 감시 체계를 도입하겠다고 발표했다. 국회엔 최근 외국인이 투기과열지구나 조정대상지역에서 토지를 매입하려면 시장·군수·구청장의 허가를 받도록 하는 내용의 부동산거래신고법 개정안도 발의됐다.&lt;br&gt;&lt;br&gt;명동 한복판 건물에 중국풍 식당가를 조성하겠다는 포부를 밝힌 틱톡 영상 속 남성은 서울 송파구에서 중식당 ‘동방명주’를 운영했던 왕모(47)씨다. 왕씨의 아내 등도 최근 2~3년간 명동 거리에 중국식 훠궈 식당 등을 연 것으로 전해졌다. 중국재한교민협회 총회장을 맡고 있는 왕씨와 함께 건물 내부를 함께 둘러보는 영상 속 인물들은 중국 남부 구이저우(貴州), 푸젠(福建) 상공회의소 관계자들이라고 영상에서 소개한다. 구이저우·푸젠 상공회의소는 중국 지역 정부나 기업의 해외 진출을 돕는 경제 단체다. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/KUGDMT7YFFBPZH2TZ4CLM7MXCM.png?auth=ef32e80e4f3498a7f3636f1d3ab29110b712160efc37746aca3bf5c83729e718&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=양인성</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>바꿔간 샤넬 신발 사이즈는 250㎜</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/LH7YXUWIEJDI7NVFHEPMX6NNJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/LH7YXUWIEJDI7NVFHEPMX6NNJM/</guid>
-      <dc:creator>유희곤 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:58:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JU6ZYMUEMIO2JPH3CPTGOK6AFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무속인 ‘건진 법사’ 전성배(65)씨가 통일교에서 ‘김건희 여사 청탁용’으로 받은 명품 가방을 신발 등으로 바꿨을 때, 교환한 신발 크기는 250㎜였던 것으로 3일 전해졌다. 김 여사 발 치수와 유사한 크기의 신발로 교환된 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울남부지검 가상자산범죄합동수사부(부장 박건욱)는 샤넬 측 기록 등을 확인해 전씨가 2022년 4월과 7월에 윤모 전 통일교(현 세계평화통일가정연합) 세계선교본부장에게서 받은 1000만원대 샤넬백 2개를 추가 금액을 내고 신발 1개와 가방 3개로 바꿨을 당시 신발 크기(250㎜)를 확인했다고 한다. 김 여사 측 한 인사는 “김 여사가 일반적인 여성들보다 발이 큰 편인 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;전씨는 윤 전 본부장이 건넨 선물을 받은 사실은 인정하면서도, 김 여사에게 주지 않았고 잃어버려서 현재 갖고 있지 않다고 주장하고 있다. 하지만 검찰은 조사 과정에서 샤넬백을 바꿔 간 당사자가 유경옥 전 대통령실 행정관이라는 사실을 확인했다. 그는 김 여사가 전시 기획사 코바나컨텐츠를 경영할 때부터 함께했던 최측근이어서, 김 여사가 교환을 지시한 것 아니냐는 의혹이 커졌다.&lt;br&gt;&lt;br&gt;유 전 행정관은 검찰 조사에서 “(과거 코바나컨텐츠 고문이었던) 전씨가 다른 사람에게 선물한다며 가방을 교환해 오라고 심부름시킨 것”이라며 “김 여사는 (내가 심부름한 사실을) 모른다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 샤넬 가방과 신발 등 실물을 확보하지 못하자, 신발 주인을 찾으려는 이른바 ‘신데렐라 수사’에 나섰다. 이 과정에서 신발 사이즈가 추가로 나온 것인데, 이 역시 김 여사가 관련됐을 가능성을 더하는 추가 정황인 셈이다. 물론 김 여사가 아닌 다른 여성을 위해 교환했을 가능성도 있다.&lt;br&gt;&lt;br&gt;검찰로부터 사건을 넘겨받은 김건희 특검은 샤넬백 등이 실제 김 여사에게 전달됐는지 확인에 나설 방침이다. 신발 크기 역시 확인할 것으로 보인다. 청탁금지법상 공직자의 배우자는 처벌할 수 없는 만큼, 윤 전 대통령이 알았는지도 수사 대상이다.&lt;br&gt;&lt;br&gt;한편 순직 해병 수사 외압 의혹을 수사하는 이명현 특별검사팀은 이종섭 전 국방부 장관, 김계환 전 해병대 사령관, 임성근 전 해병대 1사단장, 이종호 전 블랙펄인베스트먼트 대표를 출국 금지 조치했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JU6ZYMUEMIO2JPH3CPTGOK6AFE.jpg?auth=729737b816297701db1a7ee1ab95f13d2fe4ef142dae476cec8ffbe428a7b43c&amp;smart=true&amp;width=1536&amp;height=1228" type="image/jpeg" height="1228" width="1536">
-        <media:description type="plain">윤석열 전 대통령 부인 김건희 여사./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박세연 기자</media:credit>
       </media:content>
     </item>
     <item>
