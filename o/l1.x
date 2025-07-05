@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>내란 특검 "윤 전 대통령 체포저지 혐의 조사부터…신문 순조롭게 진행"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209484.jpg" alt="45646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;윤석열 전 대통령이 5일 내란 특검의 2차 조사를 받기 위해 출석하고 있다. 《사진=백성현 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'12·3 비상계엄' 관련 내란·외환 사건을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&lt;/span&gt;(60·사법연수원 19기) 특별검사팀은 5일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(65·23기)전 대통령의 2차 대면조사에서 체포영장 집행 저지 혐의부터 조사를 진행하고 있다고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&lt;/span&gt;(55·29기) 특검보는 이날 브리핑에서 "현재 체포 저지 관련 조사가 진행되는 것으로 알고 있다"며 "확인한 바로는 현재 순조롭게 신문이 진행되고 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령 조사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6682"&gt;박억수&lt;/span&gt;(54·29)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="11135"&gt;장우성&lt;/span&gt;(53·34기)특검보, 김정국(50·29)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="14688"&gt;조재철&lt;/span&gt;(48·36기) 부장검사, 박창환 경찰청 중대범죄수사과장(총경),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24292"&gt;구승기&lt;/span&gt;(40·변1회)검사, 문영석 수사관 등이 참여했다.&lt;br /&gt;&lt;br /&gt;특검보 지휘 아래 김정국·조재철 부장검사가 윤 전 대통령을 신문하고, 박창환 총경과 구승기 검사가 조사를 지원하는 방식으로 조사가 이뤄지고 있다고 박 특검보는 밝혔다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령 측은 지난달 28일 1차 조사에선 불법체포 혐의로 고발된 박창환 총경이 체포 저지 혐의 조사자로 나선 점을 문제 삼으며 조사를 거부한 바 있다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "내부 논의를 거쳐 조사량이 많은 점, 신속한 조사 진행 등 수사 효율성을 고려해 이 같은 방식으로 진행하고 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;'박 총경을 조사 지원을 맡겼단건 윤 전 대통령의 이의제기를 일정부분 수용한 것이냐'는 질문에는 "효율성 관점 그 자체로 이해해주면 된다"며 "효율성을 고려한 것"이라고 답했다. &lt;br /&gt;&lt;br /&gt;박 특검보는 '조사 지원의 역할'에 대해 "필요한 자료나 급박한, 예상치 않은 질문이 있을 때 바로 현장에서 뽑아서 준다든지, 신문할 때 (윤 전 대통령의) 답변을 보고 자신이 조사한 바에 따르면 좀 다르다든지, (박 총경이) 현장에 있어야지 그 부분에 대해 서로 논의를 통해서 조사와 신문이 제대로 이뤄질 수 있다"고 설명했다. &lt;br /&gt;&lt;br /&gt;2차 조사를 마치고 충분히 조사가 완료됐다고 판단이 되면 다음 단계로 가냐는 질문에는 "현 단계에서 말씀드리기 어려울 것 같다"고 답했다. &lt;br /&gt;</description>
+			<pubDate>Sat, 05 Jul 2025 03:28:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209484</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209484</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209484.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[속보] 윤석열 전 대통령, 내란 특검 2차 출석</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209483.jpg" alt="45646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;윤석열 전 대통령이 5일 내란 특검의 2차 조사를 받기 위해 출석하고 있다. 《사진=백성현 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령이 내란 사건을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀의 대면조사를 받기 위해 출석했다. 6월 28일 조사에 이은 2차 조사다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령은 5일 오전 9시 1분께 차를 타고 특검 사무실이 마련된 서울고검 현관 앞에 도착했다.&lt;br /&gt;&lt;br /&gt;1차 출석 때와 마찬가지로 '국민께 한 말씀 해달라. 오늘도 사과하지 않느냐' 등의 질문에 아무런 답을 하지 않았다.&lt;br /&gt;&lt;br /&gt;내란 특검팀은 윤 전 대통령을 상대로 체포영장 집행 저지 의혹, 비화폰 기록 삭제 지시 의혹, 비상계엄 전후 국무회의 상황과 사후 계엄 선포문 작성 관여 의혹, 외환 혐의까지 폭넓게 확인할 방침이다.&lt;br /&gt;</description>
 			<pubDate>Sat, 05 Jul 2025 00:28:11 -0000</pubDate>
@@ -233,16 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209455</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209455.jpg</media:thumbnail>
 			<dc:creator>홍윤지 기자</dc:creator>
-		</item>
-		<item>
-			<title>안산범방, '효 사랑' 자장면 나눔 봉사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209467.jpg" alt="56.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;6월 25일 안산 단원구 선부동성당 사랑의 나눔터에서 안산범방 관계자가 자장면 나눔 봉사를 하고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년 범죄예방위원 안산지역협의회(회장 손인국, 이하 안산범방)는 6월 25일 경기 안산시 단원구 선부동성당 마리아 교육관에서 독거 노인을 위한 '효 사랑' 자장면 나눔 봉사를 진행했다.&lt;br /&gt;&lt;br /&gt;이날 안산범방 최종진 운영실장과 위원 20여 명이  참여해 독거 노인들에게 자장면 배식을 하고, 미리 마련한 과자를 전달했다. 이날 노인 180여 명이 성당을 찾았다.&lt;br /&gt;&lt;br /&gt;안산범방은 2017년부터 소외된 노인을 위해 자장면 봉사를 해왔다. 매월 2회 선부동성당과 안산 부곡동 복지관에서 350여 명의 어르신들에게 자장면과 쌀밥을 제공하고 있다.</description>
-			<pubDate>Fri, 04 Jul 2025 07:06:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209467</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209467</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209467.jpg</media:thumbnail>
-			<dc:creator>김종완 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
