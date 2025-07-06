@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“카카오T 어려워” 택시앱 잘 못쓰는 고령자 위해 대신 택시 불러주는 서울시</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/06/H6HKBPWUTFDZPNAFU6ZHIQDLSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/H6HKBPWUTFDZPNAFU6ZHIQDLSY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 03:34:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM46OECHW37V5FSGBFY6LN7NFQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 31일 서울 강서구 김포국제공항 국제선 택시승강장에 택시들이 늘어서 있다. /김용재 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 카카오T 등 앱을 통한 택시 이용에 어려움을 겪는 고령자를 위해 콜센터에 전화해 택시를 호출할 수 있는 ‘동행 온다콜택시’ 서비스를 오는 7일 오후 2시부터 시범 운영한다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;동행 온다콜택시 서비스는 고령자뿐만 아니라 택시를 부르고 싶은 서울시민 누구나 콜센터(1855-0120)로 전화해 출발지와 목적지를 말하면 이용할 수 있다. 전화를 받은 콜센터 직원은 배차 시스템에 정보를 입력하고, 승객 주변의 택시 기사에게 승·하차지 정보를 전달한다.&lt;br&gt;&lt;br&gt;택시 배차가 확정되면 승객에게 차량 위치 및 번호, 택시 기사 연락처가 카카오톡 알림톡이나 문자메시지로 전송된다. 이 서비스는 시범 운영 기간 동안 오전 9시부터 오후 10시까지 이용할 수 있는데, 서울시는 향후 24시간 운영 여부도 검토하겠다는 방침이다.&lt;br&gt;&lt;br&gt;동행 온다콜택시는 고령자 등 디지털 약자를 배려해 추진되는 사업이라고 서울시는 설명했다. 서울연구원 2024년 조사에 따르면, 20~40대는 60% 이상이 앱으로 택시를 호출하는 반면, 60대 이상은 80%가 거리에서 손을 흔들어 택시를 잡는 ‘배회 영업’ 택시를 주로 이용하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;콜택시 시스템 운영과 구축 비용은 티머니모빌리티가 전액 부담한다. 서울시는 서울 택시 7만1000대 중 약 3만6000대가 티머니모빌리티의 ‘온다택시’에 가입돼 있어서 원활한 차량 배차가 가능할 것으로 내다보고 있다.&lt;br&gt;&lt;br&gt;티머니모빌리티는 이미 창원, 춘천 등에서 디지털 약자를 위한 택시 전화 호출 서비스를 운영 중이다. 서울지역 법인·개인택시조합은 택시운송사업자와 운수종사자에게 이번 콜택시 사업을 적극 알리고 참여를 독려하겠다는 방침이다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “디지털 기기 이용에 어려움이 있는 시민의 이동 편의를 높이기 위한 지원을 다각적으로 고민해 개선하는 중”이라며 “앞으로도 약자의 이동권 보장을 위한 서비스를 지속 발굴해나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“술 취한 친구가 물에 빠졌어요”… 20대 남성, 신고 4시간 만에 시신으로 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/07/06/A5XCCL72BJGNPACBD3FQXJ3NWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/06/A5XCCL72BJGNPACBD3FQXJ3NWU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 03:29:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취한 상태로 물에 빠진 것으로 보이는 20대 남성이 인천 서구 경인아라뱃길에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;6일 인천 서부경찰서 등에 따르면 이날 오전 9시 20분쯤 인천시 서구 당하동 경인아라뱃길 시천교 아래 수로에서 20대 A씨가 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 5시 22분쯤 A씨가 물에 빠졌다는 신고를 받고 수색 작업을 벌이다 4시간 정도 만에 A씨의 시신을 인양했다. &lt;br&gt;&lt;br&gt;A씨의 친구는 “술에 취한 A씨가 물에 빠졌다”는 취지로 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 사인을 확인하기 위해 국립과학수사연구원에 부검을 의뢰할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “타살 정황 등 범죄 관련성은 확인되지 않았다”며 “수사 관련 내용은 구체적으로 확인해 줄 수 없다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양양서 40ｍ 낭떠러지 추락한 차량…나무에 걸려 기적 생존 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/06/33SCCJROH5HT7EADE43WH25RXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/33SCCJROH5HT7EADE43WH25RXU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 02:29:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSFY5TLAJJFOVMVJBAMVNZDIQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 강원 양양군의 한 국도에서 발생한 차량 추락사고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국도를 달리던 차량이 40ｍ 아래 낭떠러지로 추락했지만 나무에 걸려 운전자 등 탑승자들이 목숨을 건졌다.&lt;br&gt;&lt;br&gt;6일 소방당국 등에 따르면 전날 오후 3시 32분쯤 강원 양양군의 한 국도에서 60대 A씨가 몰던 렉스턴 차량이 보호난간을 들이받은 뒤 40ｍ 아래 낭떠러지로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 운전자 A씨 등 탑승자 4명이 다쳐 인근 병원에서 치료를 받고 있지만 생명에 지장 있을 정도로 크게 다친 사람은 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 추락 당시 차량이 나무 등에 걸리며 충격이 완화돼 이들이 목숨을 건진 것으로 보고 있다. &lt;br&gt;&lt;br&gt;운전자 A씨는 경찰 조사에서 브레이크가 잘 듣지 않았다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수백 건 정보공개 청구한 뒤 ‘청구 내역도 공개하라’는 민원인… 법원 “공개해야” </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/06/C75GXBPSW5GEVBDDQF65J5DPO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/06/C75GXBPSW5GEVBDDQF65J5DPO4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 02:18:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRL7KSGBMDGHQYMG7VJUDRL4HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울행정법원·서울가정법원 건물에 붙어있는 대한민국법원 상징 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민원인이 공무원 근무시간과 징계이력 등 수백 건의 무더기 정보공개 청구를 한 뒤에 자신이 청구한 내역을 정리해 알려달라며 또 정보공개 청구를 한 경우에도 공공기관은 가능한 범위 내에서 답변해줘야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 A씨가 국민권익위원회를 상대로 낸 정보공개 거부 처분 취소 소송에서 원고 일부 승소로 판결했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 권익위에 고충민원을 넣었다가 답변을 받지 못하자 2022~2023년 수백 건의 정보공개 청구를 했다. 자신의 민원 처리와 관련한 심의결과서, 조사관 배정 시간, 결재 시간, 결재 근거 규정 등 모든 세부 정보를 요구했다. 또 담당 공무원들의 근무 시간과 통화 내역, 출장 내역, 징계 기록까지 공개하라고 했다.&lt;br&gt;&lt;br&gt;이 같은 반복적인 정보공개 청구에 이어 A씨는 작년 2월 자신이 2년간 신청한 정보공개 청구의 접수일자와 접수번호, 기안·결재 시간을 알려달라는 내용의 정보공개 청구를 넣었다.&lt;br&gt;&lt;br&gt;권익위는 정보를 공개하지 않고 이틀 만에 별도 회신 없이 종결 처리했다. 부패방지권익위법과 내부 민원처리지침 등에 따라 ‘질의성 유사 반복 민원’은 별도 회신 없이 종결할 수 있다는 이유를 들었다. 그러자 A씨는 “비공개 결정을 하면서 근거와 이유를 명시하지 않았다”며 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 A씨 손을 들어줬다. 재판부는 “이번 사건은 민원이 아니라 정보공개 청구이기 때문에 권익위법이 아니라 정보공개법을 따라야 하고, 이에 따르면 종결 처리 대상이 아니다”라고 판단했다. &lt;br&gt;&lt;br&gt;재판부는 “A씨가 공무원들에게 수십 차례 전화 통화를 시도하다가 연락이 되지 않자 해당 공무원의 근무 내역이나 징계 기록에 관한 정보공개 청구를 하고 있어서 공무원들이 심리적 압박이나 불편을 느꼈을 수는 있다고 보인다”면서도, 단지 권익위 공무원을 괴롭힐 목적으로만 정보공개 청구를 한 것이라고 단정할 수는 없다고 했다. &lt;br&gt;&lt;br&gt;재판부는 “A씨는 자신의 정보 공개 청구가 적정하게 처리됐는지 확인하고자 할 수 있다”며 “권익위는 가능한 범위 내에서 정보를 공개함으로써 의문 사항을 해소시켜주는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>명의 도용 당한 고객에게 ‘대출금 갚으라’ 소송 낸 금융사…대법 “안 갚아도 된다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/06/CFQUYCXXKJG7TC7ZURR4BWCH3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/06/CFQUYCXXKJG7TC7ZURR4BWCH3I/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 02:05:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPPAWEMBM5MRXDWFKBHNIWVHLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융사가 본인 확인을 제대로 하지 않고 도용된 명의로 대출을 해줬다면 명의자 본인에게 대출금을 돌려달라고 요구할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 금융사 오릭스캐피탈이 A씨를 상대로 낸 대여금 소송에서 원고 패소로 판결한 원심을 최근 확정했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2019년 남양주시 아파트 전세 계약을 맺고, 한 보험회사에서 2억2000만원의 임대차보증금 담보 대출을 받았다. 이때 A씨는 대출모집법인 B사에 대출서류 작성을 위임하고 인감증명서와 주민등록 초·등본, 예금통장 사본 등을 건넸다. 대출모집법인은 금융사와 계약을 맺고 대출 절차와 필요 서류를 안내하는 등 실무를 대신해주는 곳이다.&lt;br&gt;&lt;br&gt;문제는 대출이 이뤄지고 일주일 뒤에 B사가 A씨 명의 서류를 이용해 오릭스캐피탈에 2억800만원의 대출을 받으면서 불거졌다. 앞선 대출 실행 내용이 신용정보조회 시스템에 반영되기까지 시차가 걸리는 점을 이용해 ‘이중 대출’ 사기를 벌인 것이다.&lt;br&gt;&lt;br&gt;오릭스캐피탈은 부정 대출이 이뤄진 것을 이듬해 뒤늦게 확인하고, 명의자인 A씨에게 대출금과 이자를 변제하라며 소송을 냈다. 한편 B사 관계자들은 불법 중복 대출을 받고 대출금을 편취한 혐의(사기) 등으로 기소돼 2022년 징역형을 확정 받았다.&lt;br&gt;&lt;br&gt;1심은 오릭스캐피탈 손을 들어줬다. 대출모집법인이 고객 명의를 도용해 이중 대출을 받을 것이라고 의심하기 어려운 상황이었다고 판단한 것이다. 민법상 대리인이 권한을 넘어서는 법률 행위를 했을 때, 그런 권한이 있다고 믿을 만한 정당한 이유가 있다면 본인(A씨)에게도 책임을 묻게 돼 있다. 1심 재판부는 “B사는 대출계약 당시 A씨의 신분증과 인감증명서, 예금통장 등 대출계약 체결과 본인 확인에 필요한 모든 서류를 갖추고 있었기 때문에 신빙성을 의심할 만한 정황이 없었다”고 했다.&lt;br&gt;&lt;br&gt;그러나 2심은 오릭스캐피탈에 본인 확인과 대출 관리·감독 의무를 철저히 하지 않은 잘못이 있다며 판결을 뒤집었다. 2심 재판부는 “오릭스는 금융실명법에 따른 본인 확인 의무가 있고, 서민들의 주거안정을 위해 마련된 전세자금 대출 제도가 불법·부당대출로 악용되지 않도록 대출 실행에 대한 관리·감독을 철저히 해야 할 주의 의무가 있다”며 “임대차보증금이 계약서 기재와 같이 납입됐는지 여부 등을 확인하기만 했더라도 이중 대출을 막을 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;대법원도 2심과 같은 결론을 내렸다. 대법원은 “금융회사는 금융거래에서 본인과 대리권 확인에 있어 일반인보다 고도의 주의 의무가 있다”며 “오릭스캐피탈이 대출 실행 이후에도 이중대출이 아니었는지 사후적으로 점검하고 관리·감독하지 않았기 때문에 B사가 이중대출을 반복적으로 받을 수 있었다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>야금야금 96차례 빼돌린 회삿돈이 26억원… 결국 꼬리잡힌 회계 직원</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/06/NA4KMQ6IYZHUTIEE5DXDQH7F7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/06/NA4KMQ6IYZHUTIEE5DXDQH7F7Y/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 01:18:20 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2I34IDRX6N7VRQDVOHYH6JE6BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사 회계·경리 업무를 총괄하며 5년간 25억원이 넘는 회삿돈을 개인 계좌로 빼돌려 사용한 40대 여성에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 김기풍)는 특정경제범죄가중처벌법상 횡령 혐의로 기소된 A(여·46)씨에게 징역 3년에 집행유예 4년을 선고했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2018년 4월부터 2023년 8월까지 경기 김포시 기계 제조·도매업체에서 근무하면서 총 96차례에 걸쳐 회삿돈 25억8190여 만원을 빼돌려 쓴 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 회사의 회계·경리 업무를 총괄하면서 회사 자금을 대표이사나 거래처에 송금한 것처럼 꾸민 뒤, 자신의 계좌로 보내 부동산을 사거나 생활비 등으로 사용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 회사 회계 업무를 총괄하는 권한을 이용해 5년간 25억원이 넘는 거액을 횡령해 개인적인 용도로 사용했다”며 “범행의 기간이나 피해액 규모 등을 보면 죄질이 매우 불량하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 범행을 자백하고, 반성하는 모습을 보이고 있다”며 “피해액 중 상당 부분을 직접 지급하고, 나머지는 대물변제 방식으로 지급하기로 한 점, 피해 회사와 합의해 피해 회사가 피고인의 처벌을 원치 않는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 청나라 여행한 조선 실학자의 깨달음 “도덕보다 풍요로운 삶이 먼저”</title>
+      <link>https://www.chosun.com/national/nie/2025/06/30/UTSFOLNTIBBJLCO2KJ5CTPDNTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/06/30/UTSFOLNTIBBJLCO2KJ5CTPDNTU/</guid>
+      <dc:creator>표정훈 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Sun, 29 Jun 2025 15:31:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZAPPSATDZGI5AESCCPDENRUUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;열하일기 첫걸음&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;박수밀 지음 l 출판사 돌베개 l 가격 1만7000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선 후기 실학자 연암 박지원(1737~1805)이 쓴 ‘열하일기’는 그가 청나라 건륭제의 생일을 축하하기 위한 사신단에 개인 수행원 자격으로 참가하여, 북경과 황제의 여름 피서지 열하(현재 허베이성 청더시)까지 여행한 기록입니다. 1780년 5월 25일 한양을 떠나 같은 해 10월 27일에 돌아온 여정이었습니다. 여행 중 겪고 보고 듣고 대화하고 생각한 것을 문학, 정치, 경제, 음악, 미술, 건축, 의학 등 다양한 분야와 형식에 걸쳐 담아낸 책입니다. 이 책은 한문학자인 저자가 쓴 열하일기 ‘안내서’입니다.&lt;br&gt;&lt;br&gt;압록강 건너 책문이라는 마을에 도착했을 때 연암은 탁자 위에 다양한 크기의 술잔이 놓여 있는 것을 보았습니다. 각자 먹고 싶은 양에 맞는 잔에 술을 따르도록 되어 있는 것입니다. 또 가축 종류에 따라 우리 만드는 법이 달랐습니다. 생활 기구들이 규격에 맞고 있어야 할 자리에 배치되어 있었습니다. 연암은 이를 관찰하며 ‘이용후생(利用厚生)‘의 깨달음을 얻습니다. 이는 사회를 운영하는 데 있어 도덕을 강조하기 앞서 물질적 여건이 우선 갖춰져야 한다는 생각이었습니다.&lt;br&gt;&lt;br&gt;“이용이 있은 다음에야 후생이 될 것이고 후생이 된 다음에야 정덕(正德), 곧 도덕이 바르게 설 것이다. 생활이 넉넉하지 못할진대, 어떻게 도덕을 바르게 할 수 있단 말인가.”&lt;br&gt;&lt;br&gt;이용후생은 실생활에 도움이 되는 도구들을 만들어 삶을 풍요롭게 하는 것입니다. 경제 활동보다 도덕을 앞세웠던 전통적 유학의 원리를 뒤집는 혁신적인 생각입니다. 연암은 8월 3일과 4일 북경의 유리창 거리를 방문했습니다. 문방구와 골동품, 서화(書畫)와 서적을 파는 상점들로 가득한 곳이어서 조선 사신들은 반드시 이곳을 찾았습니다. 그런데 연암은 많은 인파와 번화한 풍경을 보며 오히려 고독감에 사로잡힙니다. &lt;br&gt;&lt;br&gt;“나는 유리창에 외롭게 서 있다. 내가 입은 옷과 쓰고 있는 것은 중국 사람들이 알지 못하는 것이다. 나의 용모는 중국 사람들이 처음 보는 모습이다. 사람들이 나를 몰라보게 되었으니 나는 성인도 되고 부처도 되고 현인과 호걸도 된 셈이다.”&lt;br&gt;&lt;br&gt;저자는 당시 연암이 ‘군중 속의 고독’을 느꼈으리라 짐작합니다. 무수한 사람 가운데 자신을 아는 사람이 하나도 없는 익명성, 즉 근대 도시의 감수성을 느꼈다는 것입니다. &lt;br&gt;&lt;br&gt;연암이 지닌 두둑한 보따리에는 붓과 벼루, 필담 나눈 종이, 꾸준히 적은 일기밖에 없었습니다. 연암은 철저히 보고 깊이 생각하며 자신이 본 풍경을 기록했습니다. 저자는 ‘열하일기’의 의미를 이렇게 말합니다. “‘열하일기’에는 세상의 모든 것을 알기를 원하고, 배우길 원하는 한 문장가의 탐구심과 호기심으로 가득하다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대낮 미용실 흉기 난동으로 업주 중태…범인은 20대 아들이었다</title>
       <link>https://www.chosun.com/national/national_general/2025/07/06/SJAZQ437T5D3RBDQO4ZDNTZ2HY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/SJAZQ437T5D3RBDQO4ZDNTZ2HY/</guid>
@@ -859,15 +922,6 @@
       </media:content>
     </item>
     <item>
-      <title>임은정 동부지검장 “검찰, 바뀐 모습 안 보이면 해체 가까운 개혁”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/VQFLSRWFCNDAHDAHQ5NQPWTAPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/VQFLSRWFCNDAHDAHQ5NQPWTAPE/</guid>
-      <dc:creator>김나연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 00:38:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6E3ZMS2RD5IO7F2OULS7PR3GAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 신임 서울동부지검장이 4일 서울 송파구 서울동부지방검찰청으로 출근하며 취재진 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 신임 동부지검장(51·사법연수원 30기)이 “검찰이 바뀐 모습을 보여주지 않으면 해체에 가까운 개혁을 당하지 않을까 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장은 4일 오전 8시 40분쯤 서울 송파구 동부지검 청사로 처음 출근하며 취재진에 “무거운 자리를 맡게 돼 감사하고 영광”이라는 소감과 함께 “검찰은 그동안 해온 봐주기 수사와 거짓말에 대해 (비판을) 감수해야 한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장은 검찰 개혁에 대한 내부 반발이 있다는 취재진 질문에 “윤석열 정부가 검찰 독재 정권이라는 평가가 있지 않느냐”며 “그때보다는 목소리가 한풀 꺾인 것 같다”고 했다. &lt;br&gt;&lt;br&gt;이어 “한때 존경했던 검찰 선배가 내란수괴로 조사받는 것이 참담한 후배가 한두 명이 아닌 것 같다”며 “검찰이 그때 잘못 평가했다는 반성을 하고 있다고 느끼고 있다”고 했다.&lt;br&gt;&lt;br&gt;정치적 배경이 얽힌 인사라는 평가에 대한 의견을 묻는 질문에는 “10년 넘게 내부 고발자 생활하며 늘 있었던 일”이라며 “앞으로의 행동으로 보여드릴 수 있을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;임 지검장의 취임식은 이날 10시에 동부지검에서 진행될 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이진숙 교육부 장관 후보자 인사청문요청안 제출도 안해  “법 위반 소지”</title>
       <link>https://www.chosun.com/national/education/2025/07/04/RJED5DLWARHUHKLZH46PIQ7GU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/04/RJED5DLWARHUHKLZH46PIQ7GU4/</guid>
@@ -895,36 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQAEWY32CVMORDZ4UJQBMXH3HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김계환 전 해병대 사령관이 작년 5월 21일 순직 해병 수사 외압 의혹 관련 사건 조사를 받기 위해 정부과천청사 고위공직자범죄수사처에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 오는 7일 김계환 전 해병대 사령관을 소환 조사할 예정이다. 김 전 사령관은 이른바 ‘VIP 격노설’ 등을 언급하고 해병대 수사단의 조사 기록 이첩을 중단시킨 것으로 지목된 핵심 당사자다.&lt;br&gt;&lt;br&gt;정민영 특검보는 4일 기자단 브리핑에서 “김 전 사령관을 7일 오전 10시 30분 불러 조사할 계획”이라며 “대통령실이나 이종섭 전 국방장관에게 (수사 외압 관련) 지시를 받았는지, 임성근 전 해병대 1사단장에게 (순직 사고 경위 관련) 허위 보고를 받았는지 등에 대해 조사할 것”이라고 말했다. 김 전 사령관은 그간 직권남용 등 혐의 피의자로 입건돼 고위공직자범죄수사처에서 수사를 받아왔다.&lt;br&gt;&lt;br&gt;김 전 사령관은 2023년 8월 고 채수근 상병 사망 사고에 대한 조사 기록을 경찰에 이첩하려던 박정훈 전 해병대 수사단장(대령)에게 이첩을 중단하라고 지시하고 이를 회수하는데 관여한 혐의를 받는다. 또 박 대령에게 “VIP가 격노하면서 (국방)장관과 통화한 후 이렇게 됐다”며 윤석열 전 대통령 관련 격노설을 전달한 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 그간 ‘VIP 격노설’을 부인하는 입장이었다. 그러나 작년 4·10 총선 이튿날 당시 군 내부 전산망에 올린 지휘 서신에서 “말하지 못하는 고뇌만 가득하다”는 심경을 드러내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사고 차량 번쩍 들어 옮겼다…꽉 막힌 도로에 나타난 구세주 정체는</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/MHNBCC55XVDGFFXNDZ3JLU3SKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/MHNBCC55XVDGFFXNDZ3JLU3SKQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 00:31:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZG7W7AYWZFZ5PUE3LD27WKCRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 차량을 옮기기 위해 나타난 지게차./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사고 차량 수습으로 퇴근길 도로가 통제되자 지게차가 등장해 문제의 차량을 번쩍 들어 옮긴 사연이 전해졌다.&lt;br&gt;&lt;br&gt;3일 ‘대한민국 경찰청’ 유튜브에는 ‘꽉 막힌 도로를 해결한 최종병기 지게차’라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;당시 경찰은 “교통사고가 났다”는 신고를 받고 편도 2차선 도로로 출동했다. 반파된 사고 차량이 1차로에 세워져 있는 상황이었다. 급히 지원 나온 교통경찰도 현장에 투입해 차량을 통제하고 사고 수습을 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXY63OZHN5E2XFKM5FDY27NYJU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지게차가 사고 차량을 들어 옮기고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그 순간 도로 옆 건물에서 지게차가 나타났다. 지게차 운전자는 그대로 차량을 번쩍 들어 올려 안전한 장소로 이동시켰다.&lt;br&gt;&lt;br&gt;지게차 운전자는 다름아닌 사고 현장을 목격한 시민이었다. 그는 도로 옆 건물에서 지게차를 발견하고, 이를 빌려타 현장 지원을 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지게차 도움으로 사고 현장을 정리한 경찰은 차량을 다시 통행시켰고, 빠르게 사고 현장을 수습할 수 있었다.&lt;br&gt;&lt;br&gt;경찰 측은 “퇴근길 사고 현장 수습에 도움을 준 시민에게 감사장을 전달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZXY63OZHN5E2XFKM5FDY27NYJU.gif?auth=a676470e7288fef996a527ab795bc16d3b35c07095d0164bf8d277739d1c1d5f&amp;smart=true&amp;width=795&amp;height=481" type="image/jpeg" height="481" width="795">
-        <media:description type="plain">지게차가 사고 차량을 들어 옮기고 있다./유튜브</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“아우 이걸… 전역하면 두고 봐" 상관 지적에 협박한 병사, 전역 후 처벌</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/7SVJOQQGDFG3BDV3FFSKXETNEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/7SVJOQQGDFG3BDV3FFSKXETNEA/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 02:05:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOUBTA7VHFHKHPDUZ53HFGIJP4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 지적하는 상관에게 “전역하면 두고 보자”며 욕설을 하고 때리려는 시늉을 한 병사가 전역 후 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 4일 상관협박 혐의로 기소된 A(23)씨에게 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 3월 강원도 춘천 지역 한 부대 내 병영 식당에서 부사관 B씨로부터 결식, 대리 서명 등에 대해 지적을 받았다. 이에 화가 난 A씨는 B씨에게 욕설을 하고는 주먹을 쥐고 팔을 위아래로 흔들며 “아우 이걸 때릴 수도 없고, 죽여버릴까”라고 말했다. &lt;br&gt;&lt;br&gt;A씨는 이런 사실을 들은 상사 C씨의 지시에 따라 행정반으로 이동하던 중 B씨에게 입막음을 시도했으나 B씨가 이를 거부하자 “전역하면 두고 보자”고 했다. 행정반에 도착한 뒤에도 C씨에게 욕설·협박 행위를 보고하는 B씨를 향해 “진짜 전역하면 두고 보자 너”라고 말하며 또다시 위협한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 판사는 “협박한 경위와 내용 등에 비추어 죄질이 좋지 않다”며 “다른 범죄로 여러 차례 소년보호처분과 처벌을 받은 전력이 있는 점 등을 종합했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정진우 신임 서울중앙지검장 “검찰이 변해야 할 것은 변하고 고칠 것은 고쳐야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/R2XF2F6CPVDKBMZ2QQWYXV7RZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/R2XF2F6CPVDKBMZ2QQWYXV7RZ4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 00:42:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBSNB5BHHZINFLQKON2CXBAUJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진우 신임 서울중앙지검장이 4일 오전 서울 서초구 서울중앙지방검찰청으로 출근하며 소회를 밝히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정진우 신임 서울중앙지검장이 4일 “검찰이 변해야 할 것은 변하고 고칠 것은 고쳐야 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;정 지검장은 이날 오전 10시부터 진행된 취임식에서 이같이 밝혔다. 정 지검장은 검찰 개혁에 대해 “아시다시피 현재 검찰의 역할과 기능에 대해 활발한 개혁논의가 진행 중에 있다”며 “이럴 때일수록 개혁논의의 출발점이 된 우리의 검찰권 행사에 대해 스스로 솔직하게 되돌아봐야 한다”고 했다. 그러면서 “잘못된 것은 바로 잡아야 한다”고 했다.&lt;br&gt;&lt;br&gt;다만 정 지검장은 “반면 우리가 지켜야 할 원칙과 해야만 하는 것들에 대해선 국민들에게 정확히 설명하고 이해를 구해야 할 것”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;정 지검장은 취임 이날 오전 서울중앙지검으로 출근하면서는 “어렵고 중요한 시기에 중책을 맡게 돼서 무거운 책임감을 느끼고 있다”며 “중앙지검 구성원들과 합심해서 법과 원칙에 따라 주어진 소임을 제대로 수행할 것”이라고 했다.&lt;br&gt;&lt;br&gt;수사·기소권을 분리하는 법안에 대한 질문에 정 지검장은 “첫 출근하는 날이라 구체적인 말씀을 드리는 것은 어떨지 모르겠다”며 “국민으로부터 신뢰받는 검찰이 되도록 노력하겠다”고 했다. 이 대통령이 전날 기자회견에서 ‘기소하기로 정해두고 수사하는 건 수사 본질에 맞지 않는다’고 발언한 것에 대해선 “대통령님 말씀에 대해 가타부타 말하는 건 공직자의 예의가 아닌 것 같다”고 잘라 말했다.&lt;br&gt;&lt;br&gt;현 정부 들어 처음으로 단행된 검찰 고위 인사인 만큼, 지명 배경을 두고 각종 해석이 나오는 것에 대해 정 지검장은 “저에 대한 평가는 평가하는 분들의 몫”이라며 말을 아꼈다. 다만 “(지난 정권과 가까운 인사라는 평가에 대해선) 그런 비판이 있다는 부분을 겸허하게 귀 기울여 듣도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 정 지검장과 함께 신임 지검장으로 임명된 임은정 서울동부지검장, 김태훈 서울남부지검장도 이날 각 검찰청으로 첫 출근을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>여교사와 초등생 제자의 사랑?… 논란의 웹툰, 결국 판매 중단</title>
       <link>https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</guid>
@@ -932,40 +956,6 @@
       <description/>
       <pubDate>Fri, 04 Jul 2025 00:55:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5L5B7LEDCFQ64MSF4NRUER7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 '내가 사랑하는 초등학생'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사와 초등학생 간 연애 감정을 소재로 한 웹툰 ‘내가 사랑하는 초등학생’이 각종 논란 끝에 결국 온라인에서 판매 중단됐다.&lt;br&gt;&lt;br&gt;4일 웹툰 업계에 따르면 네이버시리즈, 카카오페이지, 교보문고, 리디 등 주요 플랫폼은 최근 ‘내가 사랑하는 초등학생’의 서비스를 중단했다. 관련 민원이 쏟아지자 발행처 등과 협의해 판매 중단을 결정한 것으로 전해졌다. 현재 플랫폼에서 작품명을 검색하면 ‘검색 결과가 없다’고 뜬다.&lt;br&gt;&lt;br&gt;‘내가 사랑하는 초등학생’은 연인과 이별한 초등학교 여교사가 게임 속에서 만난 유저에게 호감을 느끼게 되지만, 그 유저가 실제로는 자기 제자라는 사실을 알게 되면서 벌어지는 이야기다. 2015년부터 2020년까지 연재되던 당시에도 소아성애와 그루밍 범죄 논란 등을 일으킨 바 있다.&lt;br&gt;&lt;br&gt;최근엔 드라마 제작 소식이 전해지며 교육 단체의 반발에 부딪혔다. 앞서 한국교원단체총연합회는 지난 1일 성명을 내고 “교사 지위를 악용해 미성년 제자와 사적인 감정을 나누고 이를 연애 관계로 발전시키는 서사는 결코 로맨스나 판타지로 치부할 수 없는 명백한 그루밍 범죄의 미화”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이 소재는 교육 현장에서 헌신하는 모든 교육자의 명예를 실추시키고 교직 사회 전체에 대한 깊은 불신을 초래할 것”이라며 “교사, 학생, 학부모 간 신뢰라는 교육의 근간을 흔드는 행위”라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 이진숙 후보자, 제자 논문 10여개 표절 의혹</title>
-      <link>https://www.chosun.com/national/education/2025/07/04/W34SRDBJXRHZHO3LPNNAB5T2HQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/04/W34SRDBJXRHZHO3LPNNAB5T2HQ/</guid>
-      <dc:creator>최인준 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6PXFJJQBEIQ3EWAH44QGIU6ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자가 30일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 부총리 겸 교육부 장관 후보자가 충남대 건축공학과 교수 재직 시절 제자의 석박사 학위 논문을 그대로 요약해 학술지에 발표한 사례가 여럿 확인됐다. 그러면서 이 후보자는 본인을 ‘제1 저자’로 올린 것으로 나타났다. &lt;br&gt;&lt;br&gt;본지가 2000년 이후 이 후보자가 1저자로 쓴 논문을 비슷한 시기 이 후보자가 지도한 대학원생들의 석박사 학위 논문과 비교한 결과, 10개 이상 논문에서 제자 학위 논문을 표절한 정황이 나타났다. &lt;br&gt;&lt;br&gt;문제가 된 이 후보자의 논문들은 제자들의 석박사 학위 논문과 비슷한 시기나 길게는 1년여 뒤 학술지에 발표됐다. 이들 상당수는 제자 학위 논문에 실린 실험 데이터, 연구 대상·장소뿐 아니라 결론까지 별다른 수정 없이 가져왔다. 예를 들어, 이 후보자가 2009년 3월 대한건축학회에 발표한 ‘공동주택 야관 경관 조명 사례 조사를 통한 조명 디자인 감성 평가’는 그해 2월 발행된 이 후보자 지도 대학원생 김모씨의 석사 학위 논문 ‘공동 주택 야간 경관 조명 디자인 지침에 관한 연구’와 상당수 내용이 겹쳤다. 논문 표절 검색 서비스 ‘카피킬러’로 두 논문을 비교한 결과, 표절률이 52%로 나왔다. 통상 표절률이 20%를 넘으면 다른 논문을 베낀 것으로 보는데, 배 넘는 수치가 나온 것이다. 동일 문장(6어절 이상)이 19개, 의심 문장(일부만 같은 문장) 73개가 포함된 것으로 분석됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IV6YKQWOVDVHC3V4MKJAYYIOU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 후보자가 2003년 7월 대한건축학회에 발표한 논문 ‘UGR(Unified Glare Rating·눈부심 등급)의 보정 및 불쾌글레어 주관 평가를 위한 실험적 연구’는 전년도 8월 권모씨의 석사 학위 논문 ‘UGR(Unified Glare Rating)의 보정 및 불쾌글레어의 주관 평가에 관한 연구’와 제목부터 내용까지 매우 비슷했다. 카피킬러로 두 논문을 비교 분석했더니, 표절률이 43% 나왔다. 두 논문의 유사도를 구글의 AI 서비스 ‘노트북LM’에서 분석했더니 “두 문헌은 제목, 초록, 서론, 이론적 배경, 실험 방법 및 결과, 그리고 결론에 이르기까지 매우 높은 수준의 내용 및 문장 유사성을 보인다”는 결과가 나왔다. 노트북LM은 “두 문헌의 핵심 내용이 완벽하게 일치할 뿐 아니라 동일한 표현과 문장 구조가 반복된다”면서 “두 문헌은 동일한 연구 프로젝트의 다른 형태의 결과물”이라고 했다.&lt;br&gt;&lt;br&gt;이 후보자는 이렇게 제자의 학위 논문 내용을 상당수 가져와 다른 논문을 발표하면서 본인을 ‘제1 저자’로 올렸다. 제자들은 공동 연구자 등으로 표기됐다. 각주나 참고 문헌에 제자의 학위 논문을 인용했다는 문구도 없었다. 일반적으로 교수가 본인이 지도한 석박사생의 학위 논문을 요약해 학술지에 투고하는 경우는 많다. 하지만 이때 ‘1저자’는 논문 작성자인 석박사생이 되며, 논문을 지도한 교수는 통상 ‘교신저자’로 이름을 올린다. 또 각주에는 ‘본 연구는 ○○○의 대학교 석사(혹은 박사) 학위 논문을 요약·수정했다’라는 단서도 달아야 한다. 대부분 국내 학회들은 이런 연구 논문 작성 규정을 철저히 따르고, 이를 어기면 연구 윤리를 위반한 것으로 간주한다. 서울 지역 사립대 공대 A 교수는 “교수가 학생에게 논문의 아이디어나 주제를 제공했다 해도 연구에 가장 기여한 것은 학생이기 때문에 그걸 요약해 학술지에 발표할 때도 1 저자는 학생이 되어야 한다”면서 “지도 교수가 본인을 ‘1 저자’로 올린 것은 제자 연구를 본인의 연구 성과로 꾸민 것으로 심각한 연구 윤리 위반”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZSB67JVZZH6VECNK3LBC4K4AE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 후보자는 또 2018년 제목뿐 아니라 실험 설계 방식과 결론 등이 거의 동일한 논문 2편을 한 달 차이로 각기 다른 학술지에 발표한 것으로 확인됐다. 이 후보자는 각 논문에 서로 인용하거나 참고했다는 각주를 달지 않았다. 연구 윤리 규정에 어긋나는 부당 중복 게재가 될 수 있다는 지적이다.&lt;br&gt;&lt;br&gt;논문 표절 문제는 과거에도 교육부 장관이나 후보자의 발목을 잡았다. 2006년 노무현 정부 당시 김병준 교육부총리는 논문 표절 의혹이 제기돼 임명된 지 13일 만에 물러났다. 2014년 박근혜 정부 때 김명수 교육부 장관 후보자는 제자가 쓴 석사 학위 논문을 그대로 요약해 학술지에 발표했다는 의혹이 제기돼 논란이 되자 대통령이 지명을 철회했다. &lt;br&gt;&lt;br&gt;이 후보자 측은 이날 논문 표절 의혹에 대한 본지 질의에 “해당 사항은 인사 청문회를 통해 해명하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/Y6PXFJJQBEIQ3EWAH44QGIU6ZQ.jpg?auth=fc0a9320664b370e067281433d58ceb71be8369cbf591881ad72f089f213df2b&amp;smart=true&amp;width=3918&amp;height=2632" type="image/jpeg" height="2632" width="3918">
-        <media:description type="plain">이진숙 교육부 장관 후보자가 30일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 빌딩 한층 통째로 빌려 중식당… 명동 몰려드는 ‘왕서방’</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/U5UWRG3G3ZDMDNFXU7QOW3FK4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/U5UWRG3G3ZDMDNFXU7QOW3FK4M/</guid>
-      <dc:creator>장윤 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFSRE62KF5FWPMJEA55QRWCD2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이곳은 1500㎡(약 450평) 규모 공사 현장입니다. 수십억 위안(수천억 원)이 들어갔습니다. 중식당과 술집, 노래방, 중국식 야외 정자를 만들 겁니다.”&lt;br&gt;&lt;br&gt;중국 동영상 공유 플랫폼 ‘틱톡’에 최근 올라온 한 영상에서 건장한 40대 중국인 남성이 팔짱을 낀 채 설명하자 10명이 “알겠다”며 고개를 끄덕였다. 영상을 촬영한 장소는 중국이 아닌 서울 중구 명동 거리 한복판이었다. 예상 매각가가 4000억원이 넘는 8층짜리 건물의 한 층(7층)을 통째로 임차해 공사 준비가 한창인 이곳엔 곳곳에 모래가 쌓여 있었다. 이 남성은 건물 곳곳을 돌면서 손짓으로 ‘이곳은 닭 요리 코너’ ‘이곳은 횟집 자리’라고 했다. 이어 “이 층 전체에 중국식 가게 8개를 짓겠다”며 “특히 중식당은 (중국 전통 건축 양식인) 휘파(徽派)나 소파(蘇派) 양식으로 아름답게 만들자”고 했다. &lt;br&gt;&lt;br&gt;정부는 지난 3월 올 3분기(7~9월)부터 연말까지 유커(游客·중국인 단체 관광객)들에 대한 한시적 무비자 입국을 허용하겠다고 발표했다. 이후 명동 등 유커들이 즐겨 찾는 주요 상권에 투자하려는 중국계 ‘큰손’들이 한국으로 몰리고 있다. 작년 11월 중국 정부가 선제적으로 한국인 입국자에게 단기 무비자 입국을 허용한 데 이어 한한령(限韓令·한류 금지령) 전면 해제 가능성에 대한 기대감이 커지면서 중국 면세 업계와 여행사, 엔터테인먼트 기업들의 한국 투자도 활발해지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZTD4FIIFBHOBEBA75FTX6R3LM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명동 등 서울 도심에 ‘차이나 머니’가 본격 유입되는 상황은 작년 12월 비상계엄 사태로 조성된 정치적 혼란이 어느 정도 해소된 영향도 있는 것으로 분석된다. 홍콩 사우스차이나모닝포스트(SCMP)는 여행 마케팅 업체 차이나 트레이딩 데스크 자료를 인용해 올해 4~6월 중국인 관광객의 한국 여행 예약이 작년 12월~올해 2월보다 약 24% 증가했다고 최근 보도했다. 이 매체는 “중국 관광객들은 한국을 정치적 안정이 회복된 안전한 여행지로 인식하고 있다”고 했다.&lt;br&gt;&lt;br&gt;중국 면세·여행 업계와 엔터테인먼트 업계의 한국 진출도 활발해지고 있다. 중국국영면세점그룹(CDFG) 및 모기업인 중국여유그룹(CTG)은 중국인 관광객 수익의 60~70%를 차지하는 중국인 단체 관광객을 겨냥해 신라면세점·롯데면세점과 협력 방안을 논의 중이라고 최근 밝혔다. SM엔터의 2대 주주로 올라선 중국 ‘텐센트 뮤직’은 SM엔터와 손잡고 중국 현지에서 아이돌 그룹을 제작할 계획이라고 발표했다.&lt;br&gt;&lt;br&gt;중국인들은 의료 관광 비자 사업에도 본격 진출하고 있다. 한국관광공사 한국관광데이터랩에 따르면, 올 1월부터 5월까지 외국인 의료 소비액(7145억원)이 작년 같은 기간(4084억원)에 비해 75% 증가했다. 여행 업계 관계자는 “피부·성형 치료를 받겠다는 중국인 환자가 늘어난 영향이 가장 크다”고 했다.&lt;br&gt;&lt;br&gt;중국인은 서울 중심지 위주로 부동산도 사들이고 있다. 법원 등기정보광장에 따르면, 외국인의 부동산 매매는 올해 1월 833건에서 지난 4월 1238건으로 약 49% 증가했다. 그런데 1~4월 전체 매매 건수 중 총 2791건(66.9%)이 중국인 매수였다. 부동산 관계자는 “중국 투자자들이 여러 명이 자금을 모아 한 명이 부동산을 매수한 뒤 처분할 때 이익을 나눠 갖는 ‘부동산 쇼핑’에 잇따라 나서고 있다”고 했다.&lt;br&gt;&lt;br&gt;중국인의 부동산 ‘싹쓸이’ 열풍에 정부·지자체는 대응책을 고심하고 있다. 서울시는 지난달 외국인 대상 자금 조달 계획서 검증과 실거주 여부 점검, 이행 강제금 부과 등을 포함한 감시 체계를 도입하겠다고 발표했다. 국회엔 최근 외국인이 투기과열지구나 조정대상지역에서 토지를 매입하려면 시장·군수·구청장의 허가를 받도록 하는 내용의 부동산거래신고법 개정안도 발의됐다.&lt;br&gt;&lt;br&gt;명동 한복판 건물에 중국풍 식당가를 조성하겠다는 포부를 밝힌 틱톡 영상 속 남성은 서울 송파구에서 중식당 ‘동방명주’를 운영했던 왕모(47)씨다. 왕씨의 아내 등도 최근 2~3년간 명동 거리에 중국식 훠궈 식당 등을 연 것으로 전해졌다. 중국재한교민협회 총회장을 맡고 있는 왕씨와 함께 건물 내부를 함께 둘러보는 영상 속 인물들은 중국 남부 구이저우(貴州), 푸젠(福建) 상공회의소 관계자들이라고 영상에서 소개한다. 구이저우·푸젠 상공회의소는 중국 지역 정부나 기업의 해외 진출을 돕는 경제 단체다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KUGDMT7YFFBPZH2TZ4CLM7MXCM.png?auth=ef32e80e4f3498a7f3636f1d3ab29110b712160efc37746aca3bf5c83729e718&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=양인성</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김주현 전 민정수석, 내란 특검 조사 12시간 10분 만에 귀가</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/03/E57Q5EY7RREYNCA6TYB7IKV7TQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/03/E57Q5EY7RREYNCA6TYB7IKV7TQ/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 13:09:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBZN2PWIHACSWZJ5VJSTN7KFTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석이 3일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실로 조사를 받기위해 출석하고 있다. 2025.7.3/뉴스1 ⓒ News1 이승배 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 내란 특별검사팀에 소환된 김주현 전 민정수석이 오후 9시 57분 조사를 마치고 귀가했다. 이날 오전 9시 47분 출석한 지 12시간 10분 만이다.&lt;br&gt;&lt;br&gt;김 전 수석은 서울고검 청사를 나와 ‘대통령 안전가옥(안가) 회동이 여전히 친목모임이라 해명했냐’ ‘친목모임이면 안가에서 하면 안 됐던 것 아니냐’는 등의 취재진 질문에는 답하지 않은 채 곧장 집으로 향했다.&lt;br&gt;&lt;br&gt;특검팀은 이날 윤석열 전 대통령의 핵심 법률 참모였던 김 전 수석을 상대로 불법 계엄을 사후 은폐하도록 조언했는지, 계엄을 사전에 인지하거나 그 과정에 가담했는지 등을 조사한 것으로 알려졌다. 특히 계엄 해제 당일인 작년 12월 4일 대통령 안가에서 이뤄진 이른바 ‘안가 회동’을 구체적으로 규명하는 데 집중했다고 한다.&lt;br&gt;&lt;br&gt;당시 모임에는 김 전 수석, 박성재 전 법무부 장관, 이상민 전 행정안전부 장관, 이완규 법제처장 등이 참석했는데, 이들은 모두 단순 친목 모임이었다는고 주장해 왔다. 그러나 특검팀은 안가 회동이 계엄의 불법성을 확인하고, 계엄 선포문 작성과 서명을 통해 향후 법적 요건을 충족시킬 방법을 논의하기 위한 자리가 아니었는지 의심하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 앞서 강의구 전 대통령실 부속실장에게서 “계엄 이후 김 전 수석으로부터 ‘대통령의 국법상 행위는 문서로 해야 하는데 비상계엄 관련 문서가 있냐’는 질문을 받았다”는 취지의 진술을 받았다. 강 전 실장은 이후 새로 비상계엄 선포 문건을 작성해 한덕수 전 국무총리와 김용현 전 국방부 장관의 서명을 받았지만, 며칠 뒤 한 전 총리가 ‘없던 일로 하자’고 요청해 문건을 폐기했다고 한다.&lt;br&gt;&lt;br&gt;한편 특검팀은 김 전 수석뿐만 아니라 김성훈 전 경호처 차장도 불렀는데, 김 전 차장은 현재 심야 조사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
