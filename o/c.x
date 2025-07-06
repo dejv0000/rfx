@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 맨홀서 작업자 1명 심정지·1명 실종… 소방 대원 60명 ‘수색 中’</title>
+      <link>https://www.chosun.com/national/incident/2025/07/06/P7O5OFLX2BHQRDNPMGCXUGGCJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/06/P7O5OFLX2BHQRDNPMGCXUGGCJU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 04:34:13 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 계양구 도로 맨홀 작업자 2명 중 1명이 의식을 잃고, 1명이 실종돼 소방 당국이 구조 작업에 나섰다. &lt;br&gt;&lt;br&gt;6일 인천소방본부에 따르면 이날 오전 9시 22분쯤 인천시 계양구 병방동 한 도로 맨홀 안에서 40대 남성 A씨가 심정지 상태로 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 현장에 출동한 119 구급대에 의해 심폐소생술(CPR) 등 응급처치를 받으면서 병원으로 옮겨져 치료 중인 것으로 알려졌다. 소방 당국은 또 A씨와 함께 맨홀 안에서 작업하다 실종된 50대 B씨를 찾고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 “맨홀 안에 사람이 빠져 있다”는 동료의 신고를 받고 현장에 출동했다. 특수 차량 20여 대와 인원 60여 명을 투입해 수색 작업을 진행하고 있다. &lt;br&gt;&lt;br&gt;소방 관계자는 “맨홀 안에서 어떤 작업을 하고 있었는지 확인 중”이라며 “관로 등을 따라 수색 작업을 진행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72SYZGMZONDTTBF6ETJDGZ4VL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 인천시 계양구 병방동의 한 맨홀에서 구조 작업 중인 소방 당국./인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정은경 복지장관 후보자 재산 56억원 신고…배우자 ‘손소독제’ 주식·평창 농지 포함</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/06/MOZAOJPVSJGQZJ2RKSGKAMCOQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/06/MOZAOJPVSJGQZJ2RKSGKAMCOQM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 06 Jul 2025 04:46:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGT44NPWYRDQDNRM6ONWGUU7EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정은경 보건복지부 장관 후보자가 지난달 30일 오전 서울 중구 남대문로에 마련된 인사청문회 준비 사무실로 출근하고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정은경 보건복지부 장관 후보자가 보유 재산으로 56억여원을 신고한 것으로 나타났다.&lt;br&gt;&lt;br&gt;6일 국회에 제출된 인사청문요청안에 따르면, 정 후보자는 총 56억1779만원의 재산을 신고했다. 배우자와 공동 명의로 보유한 서울 용산구 아파트(12억6200만원)와 본인 명의의 예금 13억5654만원, 사인 간 채권 6400만원을 신고했다.&lt;br&gt;&lt;br&gt;배우자는 강원도 평창군 봉평면에 위치한 817평(2701㎡) 규모 농지(7320만원)과 843평(2786㎡) 규모 농지(9667만원)를 신고했다. 예금 13억6193만원과 주식 5억2117만원어치도 보유하고 있다고 신고했다. 주식 내역에는 손소독제 원료인 주정을 생산하는 창해에탄올 주식 5000주를 비롯해 삼성전자(400주), LG유플러스(4790주), LG디스플레이(500주), 신한지주(5700주), 비상장사인 오픈팝닷컴 주식 101만 3333주 등이 포함됐다. 이 외에 사인간 채권 2억원과 2007년식 소나타(197만원)도 함께 신고했다. &lt;br&gt;&lt;br&gt;앞서 정 후보자는 배우자가 코로나 대유행 시기에 ‘코로나 수혜주’인 창해에탄올 주식을 지속적으로 추가 매수했던 것으로 알려져 ‘공직자 이해 충돌’ 논란에 휩싸였다. 정 후보자는 지난달 30일 “배우자의 주식 관련한 보도에 잘못된 내용이 많이 있다”며 “청문회를 통해 사실관계를 기반으로 충실하게 설명하겠다”고 했다. 배우자의 평창 농지를 놓고도 농지법 위반 의혹이 불거졌다. 현행 농지법은 본인이 직접 농사를 짓는 것이 아니라면 농지를 소유할 수 없도록 제한하고 있다. 정 후보자의 배우자는 인천에서 일하는 의사다.&lt;br&gt;&lt;br&gt;정 후보자의 장남은 2024년식 싼타페 하이브리드 차량(4344만원)과 3억2744만원의 예금, 6251만원 상당의 주식을 신고했다. 차남은 1억8443만원의 예금과 6249만원 상당의 주식을 보유하고 있는 것으로 나타났다. 두 아들 모두 육군 이병으로 입대해 복무를 마쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“카카오T 어려워” 택시앱 잘 못쓰는 고령자 위해 대신 택시 불러주는 서울시</title>
       <link>https://www.chosun.com/national/national_general/2025/07/06/H6HKBPWUTFDZPNAFU6ZHIQDLSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/H6HKBPWUTFDZPNAFU6ZHIQDLSY/</guid>
@@ -931,15 +949,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62BEZHYBJXBFSHNUVY5RXCTXJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자가 30일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 부총리 겸 교육부 장관 후보자에 대한 인사청문회가 2주도 남지 않은 상황에서 이 후보자의 인사청문요청안이 아직 국회에 제출되지 않은 것으로 확인됐다. 인사청문회요청안이 제출된 날부터 인사청문회 관련 일정이 시작된다고 법에 규정돼 있어 일각에선 “법 위반 소지가 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;4일 교육계에 따르면 정부는 국회에 이 후보자에 대한 인사청문요청안을 제출하지 않은 것으로 나타났다. 인사청문요청안에는 요청 사유서와 더불어 학력, 경력, 재산 신고 사항 등 후보자 검증에 필요한 서류가 첨부된다. 이 때문에 교육계에선 인사청문요청안이 제출되지 않았는데 청문회 일정부터 잡혀 충분한 검증이 이뤄지기 어렵다는 우려가 나오고 있다.&lt;br&gt;&lt;br&gt;인사청문회법상 국회는 인사청문요청안을 접수한 날로부터 20일 이내 후보자에 대한 심사 또는 인사청문 절차를 마쳐야 한다. 인사청문요청안이 국회에 접수돼야 인사청문회 날짜를 잡고 경과보고서를 정부에 보내는 전체 일정이 잡히는 것이다. 이 후보자의 인사청문회는 오는 16일 열릴 예정이다.&lt;br&gt;&lt;br&gt;국회 의안정보시스템에 따르면 4일 현재 국방부, 과학기술정보통신부, 환경부 등 장관 후보자가 지명된 다른 12개 부처에서는 대부분 인사청문요청안을 국회에 제출한 상태다. 지난 29일 이 후보자와 같은 날에 지명된 기획재정부, 산업통상자원부 장관 후보자도 자료를 제출했다. 이 후보자가 인사청문요청안을 내지 않은 이유에 대해선 구체적으로 알려지지 않았다.&lt;br&gt;&lt;br&gt;정치권에 따르면 민주당이 지난 2일 야당 측에 이 후보자 청문회 일정을 16일로 정하고 일방적으로 통보한 것으로 알려졌다. 한 국회 관계자는 “기재부 등 다른 부처 장관과 달리 인사청문요청안이 접수되지 않은 상황에서 인사청문회 일정부터 덜컥 잡은 상황”이라며 “법 위반 소지가 있는 결정이지만 민주당 측의 명확한 설명도 없는 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;국회 교육위원회 야당 간사인 조정훈 의원(국민의힘)은 지난 3일 페이스북에 “인사청문요청안은 국회에 도착도 안 했는데, 청문회를 못 박았다”며 “법이 정한 ‘자료→협의→일정' 순서를 뒤집었다. 능력을 검증할 기본 자료도 없는데 무슨 근거로 날짜부터 정하라는 것인가”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 해병 특검, 尹 격노한 ‘안보실 회의’ 참석자들 소환 조사한다</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/T552ZHOQAFEYLACTJVPSIMQJLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/T552ZHOQAFEYLACTJVPSIMQJLU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 01:11:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WADRDJ5JSDNVTOXQZ3RXIBMJFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 3일 서울 서초구 서울중앙지방법원에서 열린 내란 1심 재판에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압 의혹’을 수사하는 해병 특검팀이 이른바 ‘격노설’ 규명을 위해 윤석열 전 대통령이 크게 화를 냈다는 국가안보실 회의 참석자들을 다음 주부터 차례로 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 해병 특검팀은 김태효 전 국가안보실 1차장 등 당시 대통령실에서 열린 안보실 회의 참석자들을 다음 주부터 불러 조사할 예정이다. 특검 관계자는 “회의 참석자를 비롯해 격노설의 정황을 알고 있는 인사들은 모두 수사 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;이른바 격노설 의혹은 윤 전 대통령이 2023년 7월 31일 오전 11시 대통령실에서 열린 안보실 회의에서 임성근 전 해병대 1사단장 등을 업무상 과실치사 혐의로 경찰에 이첩하는 내용의 수사 결과를 보고받고 크게 화를 냈다는 것이다. 윤 전 대통령은 회의 직후인 오전 11시 54분 이종섭 당시 국방장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 격노한 것으로 전해졌다. 이후 대통령실의 외압 등이 작용해 임 전 사단장이 혐의자에서 빠졌다는 것이 특검의 시각이다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 기자단 브리핑에서 “다음 주부터 이른바 ‘VIP 격노설’ 관련 조사를 본격화할 예정”이라며 “수사 외압 의혹이 촉발된 계기가 7월 31일 열린 대통령실 회의였다. 이 회의와 관련한 관계자들을 불러서 조사할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;해당 회의에는 김 전 차장 등 대통령실 국방·안보라인이 참석한 것으로 알려졌다. 김 전 차장은 작년 7월 국회 현안 질의에서 안보실 회의에 관해 “정확히 무슨 주제인지 기억 못 하지만, 저희 앞에서 (대통령이) 화낸 적이 없다”고 말했다. 당시 회의에서 순직 해병 사건이 보고·논의되지 않았다는 것이다.&lt;br&gt;&lt;br&gt;앞서 고위공직자범죄수사처는 이 사건을 수사했지만 안보실 회의 참석자 등 대통령실 관계자들에 대한 조사는 사실상 진행하지 못한 것으로 전해졌다. 해병 특검은 회의 참석자들을 대상으로 순직 해병 사건이 어떻게 보고됐는지, 윤 전 대통령이 격노했는지 등을 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, 김계환 전 사령관 7일 오전 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/04/WXCPO36PB5A4ZCSL5STJZESSYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/WXCPO36PB5A4ZCSL5STJZESSYQ/</guid>
@@ -947,15 +956,6 @@
       <description/>
       <pubDate>Fri, 04 Jul 2025 01:54:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQAEWY32CVMORDZ4UJQBMXH3HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김계환 전 해병대 사령관이 작년 5월 21일 순직 해병 수사 외압 의혹 관련 사건 조사를 받기 위해 정부과천청사 고위공직자범죄수사처에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 오는 7일 김계환 전 해병대 사령관을 소환 조사할 예정이다. 김 전 사령관은 이른바 ‘VIP 격노설’ 등을 언급하고 해병대 수사단의 조사 기록 이첩을 중단시킨 것으로 지목된 핵심 당사자다.&lt;br&gt;&lt;br&gt;정민영 특검보는 4일 기자단 브리핑에서 “김 전 사령관을 7일 오전 10시 30분 불러 조사할 계획”이라며 “대통령실이나 이종섭 전 국방장관에게 (수사 외압 관련) 지시를 받았는지, 임성근 전 해병대 1사단장에게 (순직 사고 경위 관련) 허위 보고를 받았는지 등에 대해 조사할 것”이라고 말했다. 김 전 사령관은 그간 직권남용 등 혐의 피의자로 입건돼 고위공직자범죄수사처에서 수사를 받아왔다.&lt;br&gt;&lt;br&gt;김 전 사령관은 2023년 8월 고 채수근 상병 사망 사고에 대한 조사 기록을 경찰에 이첩하려던 박정훈 전 해병대 수사단장(대령)에게 이첩을 중단하라고 지시하고 이를 회수하는데 관여한 혐의를 받는다. 또 박 대령에게 “VIP가 격노하면서 (국방)장관과 통화한 후 이렇게 됐다”며 윤석열 전 대통령 관련 격노설을 전달한 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 그간 ‘VIP 격노설’을 부인하는 입장이었다. 그러나 작년 4·10 총선 이튿날 당시 군 내부 전산망에 올린 지휘 서신에서 “말하지 못하는 고뇌만 가득하다”는 심경을 드러내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여교사와 초등생 제자의 사랑?… 논란의 웹툰, 결국 판매 중단</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/04/G6GLBUAXOZF2BA5PZCPDY2FHOQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 04 Jul 2025 00:55:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5L5B7LEDCFQ64MSF4NRUER7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웹툰 '내가 사랑하는 초등학생'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사와 초등학생 간 연애 감정을 소재로 한 웹툰 ‘내가 사랑하는 초등학생’이 각종 논란 끝에 결국 온라인에서 판매 중단됐다.&lt;br&gt;&lt;br&gt;4일 웹툰 업계에 따르면 네이버시리즈, 카카오페이지, 교보문고, 리디 등 주요 플랫폼은 최근 ‘내가 사랑하는 초등학생’의 서비스를 중단했다. 관련 민원이 쏟아지자 발행처 등과 협의해 판매 중단을 결정한 것으로 전해졌다. 현재 플랫폼에서 작품명을 검색하면 ‘검색 결과가 없다’고 뜬다.&lt;br&gt;&lt;br&gt;‘내가 사랑하는 초등학생’은 연인과 이별한 초등학교 여교사가 게임 속에서 만난 유저에게 호감을 느끼게 되지만, 그 유저가 실제로는 자기 제자라는 사실을 알게 되면서 벌어지는 이야기다. 2015년부터 2020년까지 연재되던 당시에도 소아성애와 그루밍 범죄 논란 등을 일으킨 바 있다.&lt;br&gt;&lt;br&gt;최근엔 드라마 제작 소식이 전해지며 교육 단체의 반발에 부딪혔다. 앞서 한국교원단체총연합회는 지난 1일 성명을 내고 “교사 지위를 악용해 미성년 제자와 사적인 감정을 나누고 이를 연애 관계로 발전시키는 서사는 결코 로맨스나 판타지로 치부할 수 없는 명백한 그루밍 범죄의 미화”라고 했다.&lt;br&gt;&lt;br&gt;이어 “이 소재는 교육 현장에서 헌신하는 모든 교육자의 명예를 실추시키고 교직 사회 전체에 대한 깊은 불신을 초래할 것”이라며 “교사, 학생, 학부모 간 신뢰라는 교육의 근간을 흔드는 행위”라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
