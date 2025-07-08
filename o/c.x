@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>재학생 3명 숨진 고교 교장 “철저하고 신속한 진상규명 해야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/08/DQHKMZOV7BHOLLC4Z35E5XIQSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/08/DQHKMZOV7BHOLLC4Z35E5XIQSQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 05:06:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEBRY5LMJN5LUC4TXAQCNMMMXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현임숙 브리엘예고 교장이 8일 부산시의회 브리핑룸에서 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 고등학교에 다니는 여학생 3명이 동시에 숨진 사건과 관련해 해당 학교 교장이 기자회견을 열고 철저하고 신속한 진상 규명을 촉구했다.&lt;br&gt;&lt;br&gt;현임숙 브니엘예술고등학교 교장은 8일 부산시의회 브리핑룸에서 기자회견을 열고 “학교를 책임지는 교장으로서 저는 지금 헤아릴 수 없는 슬픔과 고통 속에 이 자리에 섰다”며 “저희 학교에서 일어난 비통한 일로 큰 충격과 고통을 받으셨을 모든 분께 진심으로 머리 숙여 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;현 교장은 “이 비극의 핵심 원인은 갑작스러운 11명의 강사 교체와 그로 인한 학생들의 극심한 혼란과 좌절에 있다”며 “강사 채용 과정에서 난 철저히 배제됐다. 행정 관계자와 몇몇 인사들이 상의도 없이 특정인과 가까운 이들을 강사로 상당수 채용했다”고 주장했다.&lt;br&gt;&lt;br&gt;현 교장은 “학생들은 지금 이 순간에도 고통받고 있다”며 “철저하고 신속한 진상 규명, 신속하고 공정한 교육청 감사가 진행될 수 있도록 해달라”고 했다.&lt;br&gt;&lt;br&gt;이 학교에 재학 중이던 여학생 3명은 지난달 21일 새벽 1시 39분쯤 부산의 한 아파트 화단에서 숨진 채 발견됐다. 학생들 모두 유서를 남겼으며, 유서 내용은 대부분 학업 스트레스와 부담감이 크다는 내용인 것으로 알려졌다. 부산시교육청은 사건 이후 공동 대책반을 구성해 진상 파악에 나섰다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 김건희 특검, ‘공천개입 의혹’ 윤상현·김영선 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/08/4YSLGLVX6ZHK5MTQK5UL2VZPQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/4YSLGLVX6ZHK5MTQK5UL2VZPQ4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 04:32:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJH6T4J67BQVB44GHKPBDBFKDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤상현 국민의힘 의원이 서울 여의도 국회 소통관에서 열린 현안 관련 기자회견에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 8일 ‘공천개입 의혹’ 관련 윤상현 국민의힘 의원 사무실과 자택 등을 압수수색했다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 특검은 이날 오전부터 공천개입 의혹 관련 윤 의원, 김영선 전 국민의힘 의원, 김상민 전 부장검사 자택 등을 압수수색하고 있다.&lt;br&gt;&lt;br&gt;이 사건은 명씨가 김건희 여사에게 김영선 전 의원 공천을 부탁했다는 내용이다. 김 전 의원은 2022년 6월 국민의힘 공천을 받아 창원 의장 보궐선거에 당선됐다.&lt;br&gt;&lt;br&gt;검찰은 당시 수십 차례에 걸쳐 8070만원을 주고받은 김 전 의원과 명씨를 정치자금법 위반 혐의로 작년 12월 구속 기소하고 관련 수사를 이어오다 특검에 이첩했다.&lt;br&gt;&lt;br&gt;윤 의원은 김 전 의원이 명씨에게 청탁을 했다는 2022년 당시 국민의힘 공천관리위원장이었다. 여권에서는 윤 전 의원 역시 이 사건에 연루돼 있을 것이란 의혹을 제기했는데, 이번에 첫 강제수사를 받게 된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>MZ세대의 국민연금 불신...온라인 키워드 분석하니 ‘이민’ ‘고갈’ ‘폰지사기’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/08/KPCPJA3GGZDZNHAT4CHHVCKGXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/08/KPCPJA3GGZDZNHAT4CHHVCKGXI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 04:45:31 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OO4AZWIBKWOQPTWHRPVWHA5JTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금 제도에 대해 일부 MZ세대(1980년대 초~2000년대 초 출생)가 온라인상에서 ‘고갈’ ‘개혁’ 등의 단어를 언급하며 심한 불신감을 표출했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;8일 국민연금공단 국민연금연구원의 ‘국민연금 인식에 대한 키워드 분석’ 보고서에 따르면 MZ세대가 주로 이용하는 온라인 커뮤니티에서 2023년 국민연금 관련 담론이 폭발적으로 증가했다. 연구진이 스누라이프(서울대), 고파스(고려대), 서담(서강대) 등 대학생 인터넷 커뮤니티와 디시인사이드, 네이트판 등 일반 오픈형 커뮤니티의 글을 분석한 결과다. 분석 시점은 2017년 7월~2019년 6월, 2022년 7월~2024년 6월 각각 2년 기간이었다.&lt;br&gt;&lt;br&gt;분석 결과 대학 커뮤니티의 국민연금 관련 게시글은 2017년 7월~2019년 6월 117건에서 2022년 7월~2024년 6월 996건으로 8.5배로 급증했다. 같은 기간 개방형 커뮤니티에서도 143건에서 613건으로 약 4.3배로 늘어났다. &lt;br&gt;&lt;br&gt;대학 커뮤니티에서는 ‘폐지’, ‘이민’, ‘고갈’, ‘폰지사기’, ‘탈퇴’ 등의 키워드가 자주 언급됐다. 보고서는 “대학 커뮤니티 내에서 국민연금 제도에 대한 불안과 우려가 상당히 크다는 점을 시사한다”고 분석했다. 오픈형 커뮤니티에서는 ‘적립금’ ‘국민’ ‘연금개혁’ ‘환급’, ‘세대’, ‘출산율’ 등의 키워드가 도출됐다. 보고서는 “대학 커뮤니티와 오픈형 커뮤니티 이용자 모두 국민연금 기금 소진에 대한 우려와 연금개혁에 대한 높은 관심을 가지고 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 3월 여야는 보험료율을 13%로 올리고 소득대체율은 43%로 올리는 ‘더 내고 더 받는’ 연금개혁안을 처리하며 18년 만에 연금개혁을 이뤄냈다. 이 개혁안에 대해 MZ세대를 중심으로 반발이 이어졌는데, 개혁안 이전에도 MZ세대들이 국민연금에 대해 깊은 불신을 가졌던 것이 연구 보고서로 일부 확인된 것이다.&lt;br&gt;&lt;br&gt;연구진은 해당 보고서가 “특정 사이트에서 수집된 문건에 기반하기 때문에 MZ세대 전체의 인식을 대표하지는 못한다”면서도 “추후 MZ세대를 대상으로 한 심층 인터뷰 연구로 보완될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>납북자가족모임, 대북 전단 살포 전면 중단 선언...“납북자 송환 위한 분위기 조성”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/08/RIWCGEZE2FHHFMXK26IIQZXKUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/08/RIWCGEZE2FHHFMXK26IIQZXKUA/</guid>
+      <dc:creator>파주=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 04:42:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTDTEEIZSNCHXIQCPXGRCHKIPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 경기도 파주시 임진각에서 전후납북자피해가족들이 대북 전단 살포 중지하는 기자회견을 연 가운데 최성룡(오른쪽에서 세번째) 대표를 비롯한 참석자들이 함께 손을 잡고 포즈를 취하고 있다. / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;납북자가족모임이 대북 전단 살포를 중단하기로 했다. 접경지역 주민 반발과 정부 요청, 법적 논란 등이 이어진 가운데, 남북 대화 재개와 납북자 문제 해결을 위한 조치라는 설명이다.&lt;br&gt;&lt;br&gt;납북자가족모임은 8일 오전 11시 경기 파주시 임진각 한반도생태평화 종합관광센터에서 파주시와 공동 기자회견을 열고 “오늘부터 전단 살포를 중단한다”고 발표했다.&lt;br&gt;&lt;br&gt;최성룡 납북자가족모임 대표는 “통일부 김남중 차관과 윤후덕 의원 등의 전화를 받고 내부 논의를 거쳤다”며 “정부가 납북자 문제 해결 의지를 보인 만큼 일단 중단을 결정했다”고 말했다. 이어 “다른 단체들도 함께 해달라”고 했다.&lt;br&gt;&lt;br&gt;이번 결정은 최근 통일부 고위 당국자가 직접 최 대표에게 전화를 걸어 정부 차원의 대응 의지를 전달한 데 따른 것으로 알려졌다. 최 대표에 따르면, 최근 통일부가 “납북자 문제에 대해 진정성 있게 접근 중이며 대화를 통해 문제를 풀어가고자 한다”는 입장을 비공식적으로 전했다고 한다. 이에 납북자가족모임은 내부 회의를 거쳐 전단 살포 중단을 결정했다.&lt;br&gt;&lt;br&gt;납북자가족모임은 지난해 10월부터 전단 살포 활동을 재개해 임진각과 철원 등지에서 공개 또는 기습적으로 전단을 날려왔다. &lt;br&gt;&lt;br&gt;경기도와 접경지역 주민, 시민단체 등은 이에 반발했고, 일부 단체는 생명권 침해를 이유로 전단 살포 금지 가처분 신청을 제기했다. 1·2심과 대법원은 “표현의 자유 제한은 신중해야 한다”며 신청을 기각하기도 했다. &lt;br&gt;&lt;br&gt;법적 제재가 어려운 상황에서 파주시는 지난달 대북 전단 살포를 금지하는 조례를 제정했다. 김경일 파주시장은 “전단 살포로 인한 지역 불안이 컸다”며 “이번 중단 선언은 의미 있는 조치”라고 밝혔다.&lt;br&gt;&lt;br&gt;납북자가족모임은 2008년부터 전단을 날려왔으며, 2013년 박근혜 정부 요청으로 활동을 중단했다가 지난해 다시 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>달궈진 동해 바다, 참다랑어 떼 불렀다… 영덕서 62마리 한꺼번에 잡혀</title>
       <link>https://www.chosun.com/national/2025/07/08/4RRITT5ONVH5XAO4ZKEPE76L2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/08/4RRITT5ONVH5XAO4ZKEPE76L2Y/</guid>
@@ -719,24 +755,6 @@
       </media:content>
     </item>
     <item>
-      <title>차량 4대 훔치고, 무인점포 털고... 제주서 경찰과 추격전 벌인 10대들</title>
-      <link>https://www.chosun.com/national/regional/2025/07/07/NE7UCBNLMVAC3KP7VBFRGEOYDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/07/NE7UCBNLMVAC3KP7VBFRGEOYDI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 07:35:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIEZNBJOV5HUVHS3546VKCYKQ4.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 차량 4대를 훔치고 절도 행각까지 일삼은 중학생 2명이 경찰과 추격전 끝에 붙잡혔다. &lt;br&gt;&lt;br&gt;7일 제주서부경찰서에 따르면 지난 3일 특수공무집행방해 치상 등의 혐의로 입건된 A(14)군과 B(14)군의 추가 범행이 확인됐다.&lt;br&gt;&lt;br&gt;피의자들은 지난 2일 새벽 0시20분쯤 서귀포시 서귀동 소재 주차장에서 스포츠유틸리티차량(SUV)을 훔친 후 제주시까지 이동해 수차례 교통사고를 내고 도주한 혐의를 받고 있다. 범행 당일 저녁 피의자들은 경찰의 정지 명령을 무시하고 순찰차와 다른 차량 1대를 잇달아 충돌하고 달아난 혐의도 있다. 막다른 길에 몰린 이들은 또다시 순찰차를 수차례 들이받은 후 주차된 차량과도 충돌했다.&lt;br&gt;&lt;br&gt;그러나 피의자들은 멈추지 않고 제주시 애월읍까지 도망한 후 해당 SUV를 버리고 다시 차량을 훔쳐 바꿔탄 뒤 도주했다. 경찰은 추적 끝에 3일 새벽 서귀포시에서 A 군과 B 군을 연이어 검거하는 데 성공했다.&lt;br&gt;&lt;br&gt;경찰 수사 과정에서 피의자들의 여죄도 확인됐다. 피의자들은 지난달 28일 새벽 5시30분쯤 제주시 외도동에서 차량을 훔치고 애월읍 한 무인점포에서 현금 30만원 상당을 절도했다. 이틀 후인 30일 새벽 0시30분쯤 서귀포시 대정읍에서도 차량을 훔친 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 피의자들에 대해 특수공무집행방해 치상, 특수 절도, 무면허 운전, 특가법상 도주차량, 도로교통법 위반 등 혐의로 입건하고 범행 동기 등을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“세계의 지붕 히말라야 위기 지구 전체 위기될 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/3KPSD6TKR5BVLNGEGZFJV4XRNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/3KPSD6TKR5BVLNGEGZFJV4XRNY/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 07:27:59 +0000</pubDate>
-      <content:encoded>BYN블랙야크그룹(회장 강태선)은 5일(현지 시각) 네팔 수도 카트만두에서 네팔등산협회(NMA), 네팔 쿰부 파상 라무 지역자치구, 네팔 NGO(비정부기구) 사가르마타(에베레스트) 오염통제위원회(SPCC)와 ‘히말라야의 미래’를 주제로 한 ‘서밋 포 어스(Summit for Earth)’를 공동 개최했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVVUYI4NGVCTZBK3NGEX4VMXSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밍마 치리 셰르파 네팔 쿰부 파상 라무 지역자치구 시장, 강태선 BYN블랙야크그룹 회장, 라마 카지 셰르파 사가르마타오염 통제위원회 회장, 타쿠 라즈 판데 네팔등산협회 부회장(사진 왼쪽부터) '히말라야 기후 헌장 2025'에 서명한 후 국제사회에 동참을 호소했다. /BYN블랙야크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 포럼은 SPCC위원장 체링 셰르파가 마헤슈워 다칼 산림환경부 공동 차관에게 최근 마무리된 사가르마타 삼바드(Sagarmatha Sambaad·에베레스트 대화)에서 히말라야 지역 사회의 목소리가 정책에 반영됐는지 질문하며 세션이 시작됐다.&lt;br&gt;&lt;br&gt;다칼 차관은 “히말라야 빙하 해빙의 위기를 언급하며 지구를 구하고 싶다면 먼저 산을 구해야 하며, 생물다양성 손실을 막기 위해서는 우선 기후 변화 문제 해결에 나서야 한다”며 히말라야 지역의 환경 문제들이 서로 연관되어 있음을 강조했다. &lt;br&gt;&lt;br&gt;그는 또 “녹색기후기금(GCF)과 기타 기후 관련 재원의 최소 80%가 기후 변화의 영향을 가장 많이 받는 지역 사회에 지원될 것”이라고 약속했다.&lt;br&gt;&lt;br&gt;세계자연기금(WWF) 가나 샤얌 구룽 네팔 지부 대표는 “히말라야 생태계에서 중요한 역할을 하는 빙하 지역의 영구 동토층 발달을 면밀히 모니터링할 필요성이 있다”며 “급변하는 기후 속에서 식량 안보뿐만 아니라 영적 안녕에 대해서도 우려해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGEMLBOVTZGT5AFF7XZTXEWOLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;날로 심화하는 기후 위기에 대응하기 위해 마련된  '서밋 포 어스' 포럼에서 히말라야 기후 관련 패널 토론이 진행되고 있다. /BYN블랙야크 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제통합산악개발센터(ICIMOD) 페마 걘초 사무총장은 “증거 기반 정책 수립의 중요성을 강조하면서 과학적 데이터를 수집하고, 이를 국제 학회에서 발표해 정책에 영향을 미치도록 해야 한다”며 “기후 변화는 어느 한 국가가 단독으로 해결할 수 있는 문제가 아니기 때문에 힌두쿠시 히말라야 지역 전역에 걸친 국경 간 협력이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;바드리 프라사드 판데이 문화관광민간항공부 장관도 심화하는 기후 위기 극복을 위해 지구의 심장이자 인류 생존에 필수적인 히말라야를 보존하기 위한 통합적인 행동의 필요성을 강조했다.&lt;br&gt;&lt;br&gt;강태선 회장은 “‘세계의 지붕’이자 남극과 북극 다음으로 많은 빙하가 있어 ‘제3극’이라고도 불리는 히말라야 지역은 지구 온난화로 인한 적설량 감소 및 농토 침수, 등반가들이 남긴 쓰레기 문제 등으로 인해 주변 생태계가 위협받고 있다”며 환경보전의 필요성을 거듭 강조했다.&lt;br&gt;&lt;br&gt;이날 포럼에서는 탄소 배출 감소 노력 등 전 지구적 목표와 더불어 오랜 시간 히말라야와 공존하며 조화롭게 살아온 지역 사회의 경험 도입과 아이스폴 닥터, 셰르파들의 스토리 확산, 드론 및 위성 기술을 활용한 협력 등 글로벌과 로컬, 전통과 현대를 아우르는 실천적 의지 반영을 촉구했다. &lt;br&gt;&lt;br&gt;‘서밋 포 어스’에 참여한 단체들은 히말라야의 심화하는 기후 위기에 깊은 우려를 표명하고, 기후 정의를 증진하기 위한 핵심 원칙과 전략적 행동을 담은 선언문인 ‘히말라야 기후 헌장 2025’에 공동 서명한 뒤 국제 사회의 관심과 연대를 촉구했다. 또 2026년 히말라야 기후 위원회(Himalayan Climate Committee·HCC)를 발족한다는 구체적인 로드맵도 제시됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNLRNITKG5EANMS7WGGF6TECOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;네팔등산협회에서 감사패를 받은 강태선 BYN블랙야크그룹 회장이 네팔 정부를 대표한 바드리 판데 문화관광민간항공부 장관과 감사패를 들어보이고 있다. /BYN블랙야크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강태선 회장은 “ ‘가장 높은 곳에서 시작된 변화는 머지않아 가장 낮은 곳까지 닿을 것’이라는 히말라야의 조용한 경고처럼 이곳의 기후 위기는 이제 전 인류가 직면한 공동의 문제”라며 “이번 선언은 단지 약속의 문서가 아니라, 기후 정의를 위한 공동의 행동을 촉구하는 목소리” 라고 국제사회의 동참을 호소했다. &lt;br&gt;&lt;br&gt;이날 야크 앤 예티 호텔에서 열린 포럼에는 바드리 판데 장관 등 네팔 정부 관계자와 NGO 단체 등 200여명이 참석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>슈카월드, ‘Sea of Japan’ 지도 사용 사과… “3000만원 기부할 것”</title>
       <link>https://www.chosun.com/national/national_general/2025/07/07/IBJU63DHRNC2RB7K3V7GUTETWM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/IBJU63DHRNC2RB7K3V7GUTETWM/</guid>
@@ -744,15 +762,6 @@
       <description/>
       <pubDate>Mon, 07 Jul 2025 07:19:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP2MCW6XCZE57NTUCXLXSPVU6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '슈카월드'가 라이브 중 사용한 'Sea of Japan’이라고 적힌 지도. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 359만명을 보유한 경제 유튜버 슈카월드(본명 전석재)가 ‘Sea of Japan’(일본해)이라고 적힌 지도를 사용한 데 대해 사과했다. 그는 이번 일을 계기로 독립운동가 후손 돕기에 3000만원을 기부할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;슈카월드는 전날 유튜브 라이브를 통해 일본 난카이 지진에 대해 설명하며 동해 대신 ‘Sea of Japan’이라고 적힌 지도를 사용했다. &lt;br&gt;&lt;br&gt;논란이 일자 그는 다음 날 “일본 측 자료를 사용하다 보니 나온 실수로 100% 저의 잘못”이라며 사과했다. &lt;br&gt;&lt;br&gt;슈카월드는 “사전 검수를 했음에도 방송 직전에 더 시각적으로 나은 지도로 바꿔 넣다 발생한 사고”라며 “이번 실수는 저 자신도 용납하기 힘든 사항이며, 많은 분에게 심려를 끼쳐드려 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “동해는 동해이며, 독도는 당연히 우리 땅”이라며 이번 일을 사죄하는 마음을 담아 대한적십자사의 ‘독립운동가 후손 돕기’ 캠페인에 3000만원을 기부하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;그는 당시 라이브 중 표기를 지적하는 네티즌에 대해 10분가량 채팅을 금지시켰다는 지적에 대해선 “채팅 관리를 전담하고 있는 관리자가 사태를 진정시키기 위해 채금(채팅 금지)했다”며 “라이브 중 채팅을 보지 않아 미처 인지하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “옳은 일을 지적하는 채팅을 금하는 것은 맞지 않는 일로, 이 역시 제 잘못”이라며 “비난이나 욕설 등이 아닌 정당한 자료 지적은 앞으로 금하지 않도록 주의하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 냉장고 문에 우유 두지 마세요</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/06/2QPEUDECZNEHJCMPBDXRHOATEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/06/2QPEUDECZNEHJCMPBDXRHOATEE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Jul 2025 14:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D2WYT4NK45GK7ML6ZLWJ7TTOHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름철엔 냉장고 안팎의 온도 차가 크기 때문에 자주 여닫는 문 쪽에 우유나 요구르트를 두면 상하기 쉽다. 선반 안쪽에 넣으면 신선하게 보관할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“떡볶이 4만 5000원, 콜라 1만원”…청담동 식당 물가에 ‘깜짝’</title>
@@ -910,15 +919,6 @@
       <description/>
       <pubDate>Mon, 07 Jul 2025 01:23:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQPOUS5E3BONXBCDBR45B6MPA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김계환 전 해병대사령관이 7일 오전 서울 서초구 해병 특검 사무실에 조사를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김계환 전 해병대 사령관이 7일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 피의자 신분으로 출석했다. 특검은 김 전 사령관을 상대로 이른바 ‘VIP(윤석열 전 대통령) 격노설’과 수사 외압 의혹의 연결 고리를 규명할 계획이다.&lt;br&gt;&lt;br&gt;김 전 사령관은 이날 오전 10시 20분쯤 서울 서초구 해병 특검 사무실에 출석했다. 그는 “박정훈 전 해병대 수사단장에게 윤 전 대통령의 격노 사실을 알린 적 없느냐” “이종섭 전 국방장관에게 명시적으로 (조사 기록) 이첩 보류 지시를 받았느냐” 등 취재진의 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;김 전 사령관은 ‘VIP 격노설’을 언급하고 해병대 수사단의 조사 기록 이첩을 중단시킨 것으로 지목된 핵심 피의자다. 김 전 사령관은 2023년 8월 해병대 수사단이 고(故) 채수근 상병 사망 사고 조사 기록을 경찰 이첩하지 못하도록 막았으나, 박 전 단장이 이를 어기고 경찰에 기록을 넘기자 이를 회수하는 데 관여했다는 혐의(직권남용)를 받는다. 박 전 단장에게 “VIP가 격노하면서 (국방)장관과 통화한 후 이렇게 됐다”며 윤 전 대통령의 격노설을 전달한 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;특검은 이날 김 전 사령관을 상대로 대통령실이나 이 전 장관에게 이첩 보류 등 수사 외압 지시를 받았는지, 윤 전 대통령의 격노 사실을 들은 적 있는지 등을 집중적으로 캐물을 예정이다. 또 임성근 전 해병대 1사단장에게 순직 사고 경위를 허위로 보고받았는지 등에 대해서도 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광화문광장에서 딱지맨과 딱지치기 대결</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/OERY6GYZJFFJJBRMPW2M7G2SAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/OERY6GYZJFFJJBRMPW2M7G2SAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 06 Jul 2025 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLKQXULBVFDTVC6KTXDMSTVIPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오종찬 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 서울 종로구 광화문광장에서 넷플릭스 드라마 ‘오징어게임’ 체험 행사가 열렸다. 한 어린이가 ‘오징어게임’에 등장하는 ‘딱지맨’과 딱지치기 대결을 하고 있다. 폭염 속에도 관광객들이 행사장을 가득 메웠다. 서울시와 넷플릭스는 지난달 28일부터 이날까지 광화문광장 등에서 ‘2025 K콘텐츠 서울여행주간’ 행사를 열었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정은경, 재산 56억 신고… 의사 남편, 평창에 농지 코로나 수혜 주식 보유</title>
