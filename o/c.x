@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이시영 전남편 “둘째 임신 반대한 건 맞아”... 법적 문제는? </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/08/PZJIWFYJYRBBPB4WOTU7VBM2RA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/08/PZJIWFYJYRBBPB4WOTU7VBM2RA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:42:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IL3SOPIJNBEH3ADLFUDVB6FFUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이시영 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이시영이 전남편의 동의 없이 냉동 배아를 이식해 출산을 앞두고 있다는 사실을 밝힌 가운데, 전남편은 “둘째 임신에 반대한 건 맞다”면서도 “둘째가 생겼으니 아빠로서의 책임을 다하려고 한다”고 했다. &lt;br&gt;&lt;br&gt;이에 ‘비동의 냉동 배아 임신’에 대한 법적 논란이 불거지기도 했다. 이와 관련, 한 가정법원 판사 출신 변호사는 전남편 동의 없는 시험관 출산이 법적 문제가 생길 소지가 있다고 봤다. &lt;br&gt;&lt;br&gt;서울가정법원 판사 출신의 이현곤 새올법률사무소 변호사는 8일 자신의 페이스북을 통해 직접 이시영 사안을 언급하며 “이혼한 남편의 허락 없이 시험관 임신을 통해 출산한 부분에 대한 법적 책임도 문제될 소지가 있다”고 했다. &lt;br&gt;&lt;br&gt;또 이 변호사는 이시영 전남편과 앞으로 태어날 아이의 관계에 대해선 “혼인 중의 자가 아니기 때문에 인지 절차를 밟아야 한다”며 “생부가 직접 인지할 수도 있고, 인지 청구 소송을 할 수도 있다”고 했다. 혼인 외 출생자를 친생자로 인정받기 위해서는 인지 절차를 밟아야 한다. 이를 통해 자녀는 법적으로 부모와의 관계를 인정받게 되고, 부모는 자녀에 대한 양육 책임을 지게 된다. &lt;br&gt;&lt;br&gt;이 변호사는 “법적으로 부자관계가 성립되면 친권, 양육권, 면접교섭권, 상속권 등 모든 권리의무가 발생한다”며 “양육비 지급의무도 당연히 발생한다”고 했다. 아울러 “당사자 사이의 관계와 부자관계는 별개”라고도 했다. &lt;br&gt;&lt;br&gt;앞서 이날 오전 이시영은 자신의 인스타그램을 통해 과거 시험관 시술을 시도하며 보관한 냉동 배아를 전남편 동의 없이 이식해 임신 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;이시영은 “결혼 생활 중 시험관 시술로 둘째 아기를 준비했다. 하지만 수정된 배아를 이식받지 않은 채 긴 시간이 흘렀고, 이혼에 대한 이야기 또한 자연스럽게 오가게 되었다”며 “모든 법적 관계가 정리되어 갈 즈음, 공교롭게도 배아 냉동 보관 5년의 만료 시기가 다가오면서 선택을 해야 하는 시간이 왔고, 폐기 시점을 앞두고, 이식받는 결정을 제가 직접 내렸다”고 했다. 그러면서 “상대방은 동의하지 않았지만, 제가 내린 결정에 대한 무게는 온전히 제가 안고 가려 한다”고 했다.&lt;br&gt;&lt;br&gt;이후 전남편 A씨는 디스패치를 통해 직접 “둘째 임신에 반대한 건 맞다”는 입장을 밝혔다. 이어 “하지만 둘째가 생겼으니 아빠로서의 책임을 다하려고 한다”며 “둘째 출산과 양육에 필요한 부분도 협의해서 각자의 역할에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염이 유발한 강한 소나기...서울 서남권에 호우주의보</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/08/NC2K7ZQBZRDQJOVPIRJG7CBTUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/08/NC2K7ZQBZRDQJOVPIRJG7CBTUM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 09:48:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HH7S54PIPZYMTVYC6BDT5DOFZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 찜통더위가 이어지고 있는 8일 전북 완주군 삼봉로 일원에 소나기가 쏟아지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강도 높은 폭염의 와중에 느닷없는 강한 소나기가 쏟아지고 있다. 폭염이 만든 대류불안정이 소나기의 원인으로 꼽힌다.&lt;br&gt;&lt;br&gt;기상청은 8일 오후 6시30분을 기해 서울 서남권과 경기 이천 등에 호우주의보를 발령한다고 밝혔다. &lt;br&gt;&lt;br&gt;오후 6시30분 현재 양천구에 시간당 28.5㎜, 영등포구에 시간당 28㎜의 강한 소나기가 내리고 있다. ‘강한 비’의 기준이 시간당 15㎜ 이상, ’매우 강한 비’의 기준이 30㎜ 이상이다. 30㎜가 넘어가면 운전할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는다.&lt;br&gt;&lt;br&gt;강한 소나기의 원인은 ‘폭염’과 ‘동풍’이다. 낮동안 강한 일사에 의해 뜨거운 공기가 위로 올라가고, 여기에 뜨거운 동풍까지 불어오며 대류불안정이 커진다. 이 뜨거운 공기가 다른 공기와 충돌하면서 산발적 비구름대를 만든 것이다.&lt;br&gt;&lt;br&gt;비는 8일 밤까지 이어질 전망이다. 소나기 구름대가 이동하며 비를 뿌리기 때문에, 지역과 상관없이 불시에 강한 비가 쏟아질 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강화도 주변 바닷물 “방사능 오염 없어”…인천시, 수질 안전성 확인</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/08/YAM3HTXURBADTATHUKBIG53LFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/08/YAM3HTXURBADTATHUKBIG53LFA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:28:41 +0000</pubDate>
+      <content:encoded>일각에서 제기되고 있는 북한 우라늄 정련공장 폐수 방류에 따른 서해 오염 주장과 관련해 인천시가 확인에 나선 결과, 방사능이 검출되지 않은 것으로 나타났다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WX65GZ64E5AKJBKJL64K346HPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시는 강화군 일대 해역 3곳의 바닷물을 채수해 방사능 항목을 분석한 결과 수질 안전성이 확인됐다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;인천시보건환경연구원은 지난 3일 강화군 주문도 서남방 해역, 교동대교 남단, 서검도 북쪽 해역에서 시료를 채수해 삼중수소와 세슘 등 방사능 항목에 대한 검사를 진행했다. &lt;br&gt;&lt;br&gt;인천시는 조사 대상 모든 지점에서 삼중수소와 세슘이 최소검출가능농도(MDA) 미만 수준으로 확인됐다고 설명했다. &lt;br&gt;&lt;br&gt;삼중수소와 세슘은 방사능 사고가 발생했을 경우, 방출되는 대표적인 핵종으로 알려져 있다. &lt;br&gt;&lt;br&gt;인천시는 강화군 해역의 바닷물 수질을 지속해서 모니터링할 계획이다. &lt;br&gt;&lt;br&gt;인천시는 이동형 방사선 감시 장비의 인천 추가 배치와 해양수산부와 원자력안전위원회 등이 참여하는 범부처 ‘서해 환경 모니터링 특별팀’ 구성을 정부에 건의하기도 했다. &lt;br&gt;&lt;br&gt;한편 원자력안전위원회는 북한 황해북도 평산 우라늄 정련공장에서 방사선 폐수가 서해로 흘러가 오염이 발생하고 있다는 일각의 주장이 확산하자, 지난 4일 강화도 일대 바닷물 시료를 채취한 상태다. 분석엔 2주 정도의 시간이 필요할 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“스케이트 못타 훈육” 7세 딸 폭행한 아빠 구속 송치</title>
+      <link>https://www.chosun.com/national/2025/07/08/OBPV3NANR5A3PAQCMCEWYB7JFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/08/OBPV3NANR5A3PAQCMCEWYB7JFM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:47:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4FR74NMZIBTTHVCP3MJPAPJ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인라인 스케이트를 제대로 못 탄다며 7살 딸을 폭행한 남성이 구속돼 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청은 40대 남성 A씨를 아동복지법 위반 혐의로 8일 구속 송치했다고 밝혔다. A씨는 지난 3일 서울 광진구 뚝섬한강공원에서 자신의 딸을 주먹으로 때리고 발길질한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 폭행 장면을 목격한 행인의 신고로 출동한 경찰은 A씨를 현행범으로 체포했다. A씨의 딸은 타박상을 입었으나 입원해야 할 정도로 다치지는 않았다고 한다. A씨는 “딸이 인라인 스케이트를 제대로 타지 못해 훈육하려 했다”는 취지로 경찰에 진술한 것으로 전해진다.&lt;br&gt;&lt;br&gt;경찰은 범행의 중대성과 재범 우려 등을 고려해 지난 4일 A씨에 대한 구속영장을 신청했다. A씨는 지난 5일부터 구속 상태로 수사를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유아인에 프로포폴 불법 처방한 의사, 2심도 벌금 4000만원</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/08/4W7H3D2EW5AZPKHWJU2OTYOBYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/4W7H3D2EW5AZPKHWJU2OTYOBYQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 09:02:51 +0000</pubDate>
+      <content:encoded>배우 유아인(39·본명 엄홍식)씨에게 진료기록 없이 의료용 프로포폴 등을 처방한 의사가 2심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZO63QHYEZHK75S34OQKCLPKN3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로포폴 상습 투약 혐의로 기소된 배우 유아인/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9-2부(재판장 류창성)는 8일 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 의사 A씨에게 1심과 같이 벌금 4000만원을 선고했다. 재판부는 “이미 1심이 여러 사정을 감안해 양형 사유를 반영한 것으로 보인다”라며 검찰과 A씨 양측의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;A씨는 유아인씨에게 고용량의 의료용 프로포폴을 투여하고도 진료 기록을 남기지 않은 혐의 등으로 기소됐다. 검찰은 작년 1월 A씨를 비롯해 유아인씨에게 수면제와 프로포폴 등을 과다 처방한 의사 6명을 기소한 바 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 8월 “A씨는 6차례에 걸쳐 진찰 없이 거짓으로 처방전을 작성하는 등 프로포폴을 돈벌이 수단으로 이용해 죄질이 좋지 않다”며 그에게 벌금 4000만원을 선고했다.&lt;br&gt;&lt;br&gt;한편 유아인씨는 2020년 9월~2022년 3월 서울 일대 병원에서 프로포폴 등을 181회 상습 투약한 혐의 등으로 지난 3일 대법원에서 징역 1년에 집행유예 2년을 확정받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 사건 자료 회수한 前 경북경찰청 수사부장 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/08/ADQNY4F52FHCJMQFNBNQOOZ32M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/ADQNY4F52FHCJMQFNBNQOOZ32M/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:41:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUBODJFQXFOLLC3E3GRJWWQGRY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;해병 특검의 정민영 특검보가 7일 오전 서울 서초구 특검 사무실에서 기자단 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압 의혹’을 수사하는 해병 특검이 8일 노모 전 경북경찰청 수사부장(경무관)을 불러 조사하고 있다. 노 경무관은 2023년 8월 국방부 검찰단이 고 채수근 상병 순직 사고 관련 해병대 수사단의 조사 기록을 경북청에서 회수하는 과정에 관여한 당사자다.&lt;br&gt;&lt;br&gt;법조계에 따르면 해병 특검은 이날 오전부터 노 경무관을 불러 조사하고 있다. 정민영 특검보는 이날 브리핑에서 “박정훈 전 해병대 수사단장이 2023년 8월 2일 이첩한 (조사) 기록을 국방부 검찰단이 회수한 과정과 관련해 경찰 관계자들을 참고인으로 조사하고 있다”고 설명했다. 당시 국방부의 자료 회수가 위법한지, 대통령실의 외압이 있었는지 등을 확인하는 차원이다.&lt;br&gt;&lt;br&gt;노 경무관은 해병대 수사단이 경북청으로 이첩한 채 상병 순직 사고 조사 기록을 국방부 검찰단이 회수하기 전 유재은 당시 국방부 법무관리관에게 전화를 받은 인물이다. 해당 통화 이후 국방부 검찰단은 경북청에서 사건을 회수했다. 해당 기록에는 임성근 전 해병대 1사단장이 과실치사 혐의자로 적시돼 있었는데, 특검은 대통령실 등이 외압을 행사해 국방부 측이 기록을 회수한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;특검은 국방부와 경찰 관계자 등을 상대로 조사 자료 회수 과정을 구체적으로 규명한다는 방침이다. 김동혁 국방부 검찰단장도 조만간 불러 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘520억 배임·횡령' 메디콕스 경영진 구속 기소·지명수배 </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/08/7ULPUK6RYJBPHPAUEMQYXNAUXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/7ULPUK6RYJBPHPAUEMQYXNAUXY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:41:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUWLGOZ7W75TOPO4O6XZHAVU6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;메디콕스 CI./메디콕스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 이승학)는 코스닥 상장사 메디콕스, 코스닥 상장사였으나 2021년 10월 상장 폐지된 에이아이비트(제이앤케이인더스트리) 등을 잇달아 무자본으로 인수한 후 법인 자금 520억원을 유출한 혐의 등으로 메디콕스 부회장 박모씨와 이모씨를 구속 기소했다고 8일 밝혔다. 도주한 회장 2명은 기소중지하고 지명수배했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 박씨와 이씨는 메디콕스의 제3자 배정 유상증자 대금이 부족하자 2021년 11월 부동산 시행사 주식을 무상으로 양도받았는데도, 이를 50억원에 매수한 것처럼 허위 공시한 혐의(특정경제범죄가중처벌법상 배임·자본시장법 위반)를 받는다. 비슷한 시기에 메디콕스가 인수할 필요가 없는 부동산 시행사의 전환사채(CB) 50억원어치를 인수해 법인에 손해를 끼치고, 이 중 20억원을 돌려받아 사적으로 사용한 혐의(특경법상 배임·배임수재)도 있다. &lt;br&gt;&lt;br&gt;이들은 2019년 12월에도 이씨가 보유하고 있던 비상장 주식 41억원어치를 메디콕스 법인 자금으로 인수해 회사에 손해를 끼친 혐의(특경법상 배임)도 적용됐다.&lt;br&gt;&lt;br&gt;검찰은 이 밖에 가족과 지인 등을 직원으로 허위 등재하고 개인별로 1억3300만원에서 2억8800만원까지 회삿돈을 임의로 사용한 혐의(업무상 횡령 및 배임)로 총괄사장 황모씨 등 5명도 불구속 기소했다.&lt;br&gt;&lt;br&gt;검찰이 확인한 메디콕스 경영진의 횡령·배임 액수는 도주한 회장 2명을 포함해 총 520억원에 이른다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “기업 사냥꾼들이 호재성 신사업을 한다는 명목으로 상장사를 무자본 인수한 다음, 인위적으로 주가를 올리고 회사 자금은 빼돌려서 재무구조가 나빠진 기업이 상장폐지된 사건”이라면서 “영장심사에 출석하지 않고 도주한 경영진을 추적하는 한편, 불법적으로 축적한 재산도 추적해 소액투자자들의 피해 회복에 사용되도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 김건희 특검, 경찰청 압수수색... “통일교 의혹 관련”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/08/CJDB7VQSIZG3FNZVFP4FN6GFSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/CJDB7VQSIZG3FNZVFP4FN6GFSA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 08 Jul 2025 08:32:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZ3FTTADQKKSVAQPXSTHFUN7DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 8일 경찰청을 압수수색하고 있다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 특검팀은 경찰청 형사국 범죄정보와 정보국에 수사관 등을 보내 압수수색을 진행하고 있다. 특검팀은 “업무 협조 차원에서 관련 자료를 제출받는 차원”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 압수수색은 통일교 의혹과 관련한 것으로 전해졌다. 앞서 경찰이 통일교 간부들의 원정도박 의혹을 수사했지만, 윤모 통일교 세계본부장이 윤석열 전 대통령 부부와 가까운 건진법사 전성배씨의 도움을 받아 이를 무마했다는 의혹이 제기돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 37도, 100년 만의 더위...두겹 공기 이불에 갇힌 한반도</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/08/HFA4HMNPTVCOZOQLAYIKVMXSQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/08/HFA4HMNPTVCOZOQLAYIKVMXSQ4/</guid>
@@ -805,27 +877,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBB2EETJYRMHZOZQWOCVEYPAFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 17일 정식 개장하는 서울 노원구의 자연휴양림 숙소 '수락 휴'. /노원구 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 17일 정식 개장하는 서울 노원구의 자연휴양림 숙소 ‘수락 휴’ 객실이 예약 개시 3분 만에 매진되는 등 인기를 끈 것으로 알려졌다. &lt;br&gt;&lt;br&gt;7일 노원구에 따르면, 수락 휴는 수락산 숲에 휴식과 치유 공간을 만들고자 2018년부터 사업이 착수됐다. 구비 110억원을 포함해 국비 43억, 시비 33억, 특교금 40억, 특교세 5억 등 총 231억원이 투입됐다. &lt;br&gt;&lt;br&gt;레스토랑과 카페를 제외하고는 모두 구청이 직영한다. 임시 운영을 거쳐 시설물의 하자를 바로잡았고, 오는 17일 정식 개장할 예정이다. 임시 운영 기간에는 ‘사연 공모전’ ‘LP 기부 이벤트’ 등을 통해 선정된 주민과 수락 휴 조성 관계자, 지역 봉사 단체 등 구정 기여자들이 숙박 기회를 얻었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FL7AQDA3CZE43DAAWWCPTWGBWQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;수락 휴 4인실 내부 모습. /노원구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5MHC2BT7RBU5FFV6R5XLKYHFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;수락 휴 6인실 트리하우스 외관. /노원구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2FDLTJDNB5LVRVYOP2BTN6XB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[노원구 참고사진03] 수락휴 본동 및 불멍존(낮)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 진행된 7월치 예약이 3분여 만에 마감될 정도로 인기를 끈 것으로 전해졌다. 노원구 지역 카페 등에서는 지난달부터 예약 일자와 방법 등을 공유하는 글이 잇달았다. &lt;br&gt;&lt;br&gt;수락 휴는 매월 7일 익월 객실 50%를 노원구민 우선으로, 10일부터 잔여 객실을 전 국민이 ‘숲나들e’ 누리집을 통해 선착순 예약할 수 있다. 이용 요금은 성수기 및 주말과 비수기 및 주중으로 상이하며, 투숙 인원과 객실 타입 등에 따라 최소 7만원에서 25만원으로 책정됐다. &lt;br&gt;&lt;br&gt;구 관계자는 무장애 숲길, 계곡 피크닉장, 유아 숲 체험원 등 연계 체험 시설의 준공을 앞뒀다고도 했다. 구 관계자는 “수락 휴 정식 운영이 시작되면 즐길 거리는 한층 풍성해질 것”이라며 “방문자센터 앞에서 가능한 불멍 외에 천체 망원경을 이용한 밤 놀이터, 숲 해설, 국궁 체험 등 아웃도어 프로그램도 준비 중”이라고 했다. &lt;br&gt;&lt;br&gt;오승록 구청장은 “숲에 한 번, 시설에 또 한 번, 즐길 거리에 다시 한번 놀라게 하기 위해 작은 것 하나까지 신경을 많이 썼다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘음주운전 접촉사고’ 전 프로야구 선수 장원삼, 벌금 700만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/EBZQ2GSYPNFYZKAMSBV7FUDHWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/EBZQ2GSYPNFYZKAMSBV7FUDHWY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 10:22:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJ6ZOTLJ4YJD3HYYHGFTYKUJLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 프로야구 선수 장원삼. /인스타그램 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 8월 음주 운전이 적발된 프로야구 선수 출신 장원삼씨가 벌금형을 선고받은 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 부산지법 동부지원은 지난 3월 6일 교통사고처리특례법(치상), 도로교통법 위반(음주 운전) 혐의로 약식 기소된 장씨에게 벌금 700만원의 약식명령을 내렸다. 이 명령은 같은 달 26일 확정됐다. &lt;br&gt;&lt;br&gt;장씨는 작년 8월 17일 부산 수영구 광안동 한 도로에서 술을 마신 채 후진하던 중 후방에서 정지하고 있던 차량을 들이받은 혐의로 재판에 넘겨졌다. 장씨는 사고를 내기 전 경남 창원에서 술을 마시고 부산 수영구 아파트 정문까지 약 40km를 음주 운전한 혐의도 받았다. 경찰이 출동해 장씨의 혈중알코올농도를 측정했을 당시 운전면허 취소 수준의 수치(혈중알코올농도 0.08% 이상)가 나온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;장씨는 이 같은 사건이 언론 보도 등을 통해 알려진 뒤 자신의 인스타그램을 통해 직접 사고 당일 경위와 사과문을 올리기도 했다. &lt;br&gt;&lt;br&gt;장씨는 전날 음주를 하고 숙취가 남은 상태에서 운전을 하다 사고를 냈다며 “사고 당일 술을 마시고 음주를 한 것은 아니지만, 제 스스로 숙취가 남아있었다면 택시를 부르거나 동행인들 함께 하여 운전하지 말거나 대중교통을 이용해야 했는데 ‘당일이 아닌 전날 마셨고, 수면도 충분히 했으니 괜찮겠다’라는 안일한 생각으로 운전대를 잡아 사고를 냈다”고 사과했다. &lt;br&gt;&lt;br&gt;당시 장씨는 JTBC 예능 프로그램 ‘최강야구’에 출연 중이었는데, 자진 하차하겠다는 의사를 밝히기도 했다. 실제로 이후 최강야구에서 자진 하차하는 등 활동을 중단했다. 장씨는 2006년 현대 유니콘스에 입단해 삼성, LG, 롯데 투수로 활약하다가 2020년 은퇴한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OKNPSIOTFBBQXHFTH3B22DFH5Q.png?auth=294e474f2c9e0777b5f0e3e094d0e5518b2ded63e960bce2943b177ff7c74d7d&amp;smart=true&amp;width=520&amp;height=390" type="image/png" height="390" width="520">
-        <media:description type="plain">전 프로야구 선수 장원삼 SNS 캡처</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“평소 무시해서”...모친 흉기로 수차례 찌른 20대 아들 ‘구속’ </title>
-      <link>https://www.chosun.com/national/2025/07/07/WB67JO2D6NGDBPVXS6IVLA5PRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/07/WB67JO2D6NGDBPVXS6IVLA5PRA/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 10:02:20 +0000</pubDate>
-      <content:encoded>어머니가 운영하는 미용실을 찾아가 흉기를 휘둘러 다치게 한 20대 아들이 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7BU3ED2QJA33IPBLCSXD5VK6A.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 존속 살해 미수 혐의 등으로 A씨를 구속했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 앞서 지난 5일 낮 12시쯤 창원시 성산구 용호동 한 아파트 단지 상가에 있는 미용실에서 흉기로 어머니 B(60대)씨를 수차례 찔러 크게 다치게 한 혐의를 받는다. A씨는 인근 주민의 신고로 출동한 경찰에 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;얼굴 등을 크게 다친 B씨는 수술을 받고 회복 중으로 전해졌다. 여전히 의식은 없다고 한다. 당시 미용실에 있던 남녀 손님 2명도 다쳤다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 B씨와 단둘이 살면서 범행 당일 B씨와 함께 출근해 가게 문을 열었다. &lt;br&gt;&lt;br&gt;체포 직후 진술을 하지 않던 A씨는 이후 경찰에 “어머니가 평소 자신을 무시해 불만이 쌓여 범행했다”는 취지로 진술했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 구속한 만큼 진술에 신빙성이 있는지를 확인하면서 구체적인 범행 동기를 계속 확인할 계획이다”며 “범행 당시 A씨가 약물을 했는지 여부도 혈액검사 등을 통해 확인 중에 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] ‘비상계엄 가담’ 노상원 전 정보사령관 추가 구속</title>
       <link>https://www.chosun.com/national/court_law/2025/07/07/QSNLOXBETBEVNIL56WAQPFKMVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/07/QSNLOXBETBEVNIL56WAQPFKMVY/</guid>
@@ -842,15 +893,6 @@
       <description/>
       <pubDate>Mon, 07 Jul 2025 09:41:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM6VQWUEJQ6EZLY3QDWJWC7UQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강혜경씨(오른쪽)와 법률 대리를 맡은 문건일 변호사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 부인 김건희 여사의 ‘명태균 공천 개입’ 의혹을 수사하는 김건희 특검팀이 이 의혹을 처음 제보한 강혜경씨를 불러 조사하기로 7일 결정했다.&lt;br&gt;&lt;br&gt;강씨 측은 언론 공지를 통해 “오늘(7일) 특검팀에 먼저 연락해 자료 제출 및 출석 의사를 전달했다”며 “현재 일정을 조율하는 단계”라고 했다. 특검은 참고인으로 강씨를 불러 의혹 전반을 물을 것으로 보인다. 강씨 측은 “적극적으로 특검 수사에 협조해 진실을 밝히는데 앞장서겠다는 입장”이라고 했다. 조사에는 반년 넘게 강씨를 대리하는 문건일 변호사가 동행할 것으로 전해졌다. &lt;br&gt;&lt;br&gt;강씨는 명씨가 실질적으로 운영하던 여론조사업체 미래한국연구소의 부소장을 지낸 바 있다. 김영선 전 의원 보좌관으로 일하면서 명씨와도 오랜 시간 교류했는데, 김 전 의원이 2022년 6월 보궐선거 당시 공천을 받은 배경에 윤 전 대통령 부부가 있다는 취지로 작년 9월에 처음 폭로했다. 명씨가 윤 전 대통령 부부에게 지난 대선 당시 여론조사 결과 81건을 무상으로 제공하고, 그 대가로 비용 3억7520만원 대신 김 전 의원 공천을 받아왔다는 것이다.&lt;br&gt;&lt;br&gt;이 밖에도 강씨는 오세훈 서울시장이 2021년 선거 당시 명씨로부터 무상 여론조사를 제공받았고, 그 대가로 후원자 김한정씨가 명씨에게 금전을 줬다는 의혹 등도 제기한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해수부 이전 반발’ 세종시장, 대통령실에 부작용·우려 담긴 공개서한</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/07/BRPDVFZKJNDN7IGBAVOK4Z6TAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/07/BRPDVFZKJNDN7IGBAVOK4Z6TAU/</guid>
-      <dc:creator>세종=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 09:29:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OWLSNUSGJXHDZVS2MXXFCRF44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최민호 세종시장은 지난 2일 오전 정부세종청사 해양수산부 정문에서 해수부 부산 이전을 반대하는 1인 시위를 벌였다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양수산부 연내 이전을 추진하는 정부 방침에 반대해온 최민호 세종시장이 7일 이재명 대통령에게 공개서한을 보냈다. 공개서한에는 해수부 이전에 따른 부작용과 우려에 대한 질문 4개가 담겼다.&lt;br&gt;&lt;br&gt;최 시장은 이날 시청에서 기자회견을 열고 “지난 4일 대전에서 열린 타운홀 미팅에서 공개적으로 질의하려고 했던 내용인데, 당시 못한 질문에 대한 대통령의 고견을 듣고 싶다”면서 서한을 보낸 이유를 밝혔다.&lt;br&gt;&lt;br&gt;서한문은 이승원 세종시 경제부시장이 이날 오전 10시쯤 서울 대통령실을 찾아 전달했다.&lt;br&gt;&lt;br&gt;최 시장은 서한문을 통해 해수부 부산 이전과 관련한 국정 비효율 우려, 행정수도 완성 국정 과제와의 충돌, 이전 시기 적절성 등 4개 부분에 대해 의문을 제기했다.&lt;br&gt;&lt;br&gt;첫째는 북극항로 개설과 해양 강국 실현이라는 국가 목표 달성에 비춰볼 때 해수부 부산 이전이 비효과적이고, 국정 비효율·낭비가 발생할 수 있다는 지적에 대한 답변을 요구했다.&lt;br&gt;&lt;br&gt;두 번째는 대통령의 행정 수도 완성 공약과 해수부 부산 이전이 어떤 정합성을 갖는지에 대한 설명을 요구했다. 세 번째는 부산의 경제 활성화를 위한 해수부 이전이 국정 비효율과 해수부를 떠나 보낸 지역(세종시)의 경제적 손실도 고려했는지다.&lt;br&gt;&lt;br&gt;끝으로 해수부 이전 시기를 연내로 못박아 성급한 이전으로 인해 발생할 수 있는 문제점에 대해 질문했다.&lt;br&gt;&lt;br&gt;최 시장은 “대통령의 공약은 중요하다. 그러나 국민주권정부의 정책은 국민의 이해와 공감 속에 추진되어야 한다”면서 “행정수도 완성과 정면 배치되는 해수부의 단독 이전이 어떤 정합성을 갖는지 충분한 설득과 공감을 위해서라도 대통령님의 응답을 기다리겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“모욕적 발언에 위협성 과시”… 울산 아파트 관리실 전원 사직, 무슨 일?</title>
@@ -887,46 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZHHFVYHOCQTEZ53HBO54EG4TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /X(옛 트위터) 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태와 관련해 개인정보보호법 위반 등 혐의로 추가 기소되면서 구속 연장 기로에 놓인 노상원 전 국군 정보사령관이 “법정에 1분도 늦지 않고 재판에 성실히 임하겠다”고 했다. &lt;br&gt;&lt;br&gt;노 전 사령관은 7일 서울중앙지법 형사21부(재판장 이현복) 심리로 열린 구속영장 심문 기일에 출석해 이같이 말했다. 비상계엄 관련 내란·외환 의혹을 수사하는 조은석 특별검사팀 소속 장우성 특검보는 “노 전 사령관이 증거를 인멸하고 잠적할 것은 염려를 넘어 예견되는 상황”이라며 구속 필요성을 강조했다. 재판부는 “오늘 중 구속영장 발부 여부를 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;노 전 사령관은 민간인 신분으로 김용현 전 국방장관 공관에 드나들며 12·3 비상계엄을 사전에 모의한 혐의(내란 중요임무 종사)로 지난 1월 구속 기소됐다. 오는 9일 1심 구속 기한(6개월)이 만료될 예정이다. &lt;br&gt;&lt;br&gt;내란 특검은 지난달 27일 노 전 사령관을 개인정보보호법 위반 혐의로 추가 기소하면서 법원에 추가 구속영장 발부도 요청했다. 특검은 노 전 사령관이 중앙선거관리위원회의 부정선거 의혹을 수사할 ‘제2수사단’을 구성하기로 마음 먹고 문상호 당시 정보사령관과 정보사 김봉규·정성욱 대령에게 정보사 소속 인물 정보를 요청해 넘겨 받았다고 보고 있다.&lt;br&gt;&lt;br&gt;노 전 사령관은 앞서 김봉규 정보사 대령과 구삼회 육군 준장 등 현역 군인들에게 진급을 도와주겠다면서 금품을 요구하고 현금과 상품권을 받은 혐의(특정범죄가중처벌법상 알선수재)로도 지난 5월 추가 기소됐다. 공소장에는 노 전 사령관이 김 대령으로부터 현금 1500만원과 백화점 상품권 100만원을, 구 준장으로부터 현금 500만원을 받았다고 적시됐다.&lt;br&gt;&lt;br&gt;노 전 사령관 측은 이날 “김 대령에게는 현금을 요구한 적도 받은 적도 없다”고 주장했다. 구 준장에게는 쇼핑백을 받긴 했지만 그 안에 와인과 백화점 상품권만 들어있었고 현금 500만원을 받은 적은 없다고 했다.&lt;br&gt;&lt;br&gt;‘제2수사단’ 구성에 대해선 “수사단을 꾸리려고 한 것은 맞지만 부정선거 의혹이 아니라 탈북 관련자 수사를 위한 목적이었다”며 “또 김용현 당시 국방장관의 명령에 따라 명단을 받았을 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;노 전 사령관은 이날 심문에 직접 출석해 “개인정보보호법 위반이 어떤 것인지 알지도 못했고 (김용현) 장관님이 하라고 해서 (명단을) 갖다 드린 것”이라며 “나쁘게 이용하려거나 팔아먹은 것이 아닌데 이런 결과가 돼서 정말로 가슴 아프게 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “군대 생활을 잘 끝내진 못했지만 한 번도 도주하거나 증거 인멸하는 것은 생각조차 해본 적 없다”며 “특검 수사에 철저히 성실히 임하고, 판사님이 걱정할 일 없이 성실히 (재판에)임하겠다”고 했다.&lt;br&gt;&lt;br&gt;장우성 특검보는 “잘못을 뉘우치지 않고 거짓 주장을 하는 상황과 내란 혐의로 재판을 받고 있는 사정을 고려하면, 불구속 상태에 있으면 잠적할 것은 염려를 넘어 예견까지 되는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “개인정보보호법 위반은 군사법원에서 징역 20년이 선고된 블랙요원 유출 사건과 죄질이 유사하고 알선수재 혐의도 유사한 금액을 수수한 것에 대해 징역형이 선고된 사례가 다수 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원이 구속영장을 발부하면 노 전 사령관은 다시 최장 6개월간 구속될 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광주경찰청, 한덕수 ‘천원 밥집 후원’ 공직선거법 위반 혐의 수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/2KL4W4RLLRE6DO3UCIUFHVK55U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/2KL4W4RLLRE6DO3UCIUFHVK55U/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 07:41:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUVRU5PFO2BUHS5GLJQAYG7XNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 지난 2일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에서 조사를 받은 후 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리가 대통령 권한대행 시절 ‘1000원 백반집’에 사비로 후원한 것을 두고 조국혁신당이 공직선거법 위반 혐의로 고발한 사건과 관련해 광주경찰이 수사를 하고 있다.&lt;br&gt;&lt;br&gt;광주경찰청 반부패수사대는 “지난 5월 2일 조국혁신당이 국가수사본부에 고발한 한 전 총리의 공직선거법 위반 혐의 사건을 배당받아 수사 절차가 진행 중”이라고 7일 밝혔다.&lt;br&gt;&lt;br&gt;한 전 총리는 지난 4월 15일 광주광역시의 한 전통시장에 있는 1000원 백반집을 찾아 사비 격려금을 전달했다.&lt;br&gt;&lt;br&gt;당시 해당 식당은 어려운 이웃도 식사를 할 수 있도록 1000원에 백반을 팔았다고 한다. 한 전 총리의 격려금은 인근 식재료 가게에 선결제하는 방식으로 제공된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 조국혁신당은 지난 5월 2일 한 전 총리가 대통령 선거 출마 선언을 하자 “출마 예정자 신분으로 최근 개인 기부 사실을 홍보한 것은 공직선거법 제113조 위반이다”며 국수본에 고발장을 냈다.&lt;br&gt;&lt;br&gt;경찰은 지난달 18일 사건을 배당받은 뒤 기초 증거 수집과 고발인 측 조사, 전 총리실 관계자 등을 대상으로 한 참고인 조사를 한 것으로 전해졌다. 경찰 관계자는 “한 전 총리 소환 조사 여부는 추후 수사를 통해 결정하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OUVRU5PFO2BUHS5GLJQAYG7XNQ.jpg?auth=451943e3fc021542f4fd93410c68fc5ac6cddc0bfdb0a2bba160ab41ef84c964&amp;smart=true&amp;width=1544&amp;height=1039" type="image/jpeg" height="1039" width="1544">
-        <media:description type="plain">한덕수 전 국무총리가 지난 2일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에서 조사를 받은 후 귀가하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김성진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>슈카월드, ‘Sea of Japan’ 지도 사용 사과… “3000만원 기부할 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/IBJU63DHRNC2RB7K3V7GUTETWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/IBJU63DHRNC2RB7K3V7GUTETWM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 07:19:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XP2MCW6XCZE57NTUCXLXSPVU6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜브 '슈카월드'가 라이브 중 사용한 'Sea of Japan’이라고 적힌 지도. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 359만명을 보유한 경제 유튜버 슈카월드(본명 전석재)가 ‘Sea of Japan’(일본해)이라고 적힌 지도를 사용한 데 대해 사과했다. 그는 이번 일을 계기로 독립운동가 후손 돕기에 3000만원을 기부할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;슈카월드는 전날 유튜브 라이브를 통해 일본 난카이 지진에 대해 설명하며 동해 대신 ‘Sea of Japan’이라고 적힌 지도를 사용했다. &lt;br&gt;&lt;br&gt;논란이 일자 그는 다음 날 “일본 측 자료를 사용하다 보니 나온 실수로 100% 저의 잘못”이라며 사과했다. &lt;br&gt;&lt;br&gt;슈카월드는 “사전 검수를 했음에도 방송 직전에 더 시각적으로 나은 지도로 바꿔 넣다 발생한 사고”라며 “이번 실수는 저 자신도 용납하기 힘든 사항이며, 많은 분에게 심려를 끼쳐드려 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 “동해는 동해이며, 독도는 당연히 우리 땅”이라며 이번 일을 사죄하는 마음을 담아 대한적십자사의 ‘독립운동가 후손 돕기’ 캠페인에 3000만원을 기부하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;그는 당시 라이브 중 표기를 지적하는 네티즌에 대해 10분가량 채팅을 금지시켰다는 지적에 대해선 “채팅 관리를 전담하고 있는 관리자가 사태를 진정시키기 위해 채금(채팅 금지)했다”며 “라이브 중 채팅을 보지 않아 미처 인지하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “옳은 일을 지적하는 채팅을 금하는 것은 맞지 않는 일로, 이 역시 제 잘못”이라며 “비난이나 욕설 등이 아닌 정당한 자료 지적은 앞으로 금하지 않도록 주의하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“떡볶이 4만 5000원, 콜라 1만원”…청담동 식당 물가에 ‘깜짝’</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/H6GNN4ELBJFA7NCSSTOR44ZQRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/H6GNN4ELBJFA7NCSSTOR44ZQRM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 06:36:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRYJDYLZAJHXPOLZ2S5XQ46UZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 강남 청담동에 있는 떡볶이 가게에서 식사를 하고 받은 영수증./유튜브 채널 '도징징'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 청담동 떡볶이집에서 판매하는 콜라 한 캔 가격이 1만원인 사실이 알려지면서 온라인에서 화제가 되고 있다. &lt;br&gt;&lt;br&gt;7일 여러 온라인 커뮤니티에는 ‘청담동은 콜라 1캔이 만원이라고?’라는 제목의 영상이 공유됐다. 15만 유튜버 도징징이 지난 3월 올린 강남구 청담동 떡볶이집 체험 영상이 소셜미디어(SNS)에서 뒤늦게 확산한 것이다. &lt;br&gt;&lt;br&gt;유튜버는 영상을 통해 동인천 1000원 떡볶이와 강남 청담동의 4만5000원 떡볶이를 비교했다. 그가 방문한 청담동의 한 카페는 발레파킹까지 가능한 곳이었다. 메뉴 가격도 일반 매장에 비해 비쌌다. &lt;br&gt;&lt;br&gt;그는 “오늘 먹을 건 떡볶이인데 어마어마하다, 가격들이 장난 아니다. 코코아가 1만8000원, 아이스크림이 2만8000원”이라며 놀라워했다. 공개된 메뉴판에 따르면 ‘닭떡볶이’ 4만5000원, ‘왕김말이떡볶이’ 4만2000원, ‘홍합치즈떡볶이’와 ‘마라로제떡볶이’ 각각 4만원이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZV3BKTDECFF27KSAO5OW7KP4XE.png"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버가 먹은 떡볶이 사진./유튜브 채널 '도징징'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음료 가격도 만만치 않았다. 유튜버는 “아메리카노가 1만3000원이다. 이게 말이 되냐. 이 가격이면 스타벅스에서 3잔을 먹는다. 더 무서운 건 아이스는 2000원이 추가돼 총 1만5000원이다”라고 말했다. 이어 콜라 한 캔의 가격을 공개했는데 가격은 무려 1만원이었다. 그는 “해도 해도 너무한다. 아메리카노 하나랑 콜라 하나가 2만 5000원이다”며 황당해했다. &lt;br&gt;&lt;br&gt;4만5000원짜리 떡볶이를 먹은 유튜버는 “먹자마자 느껴지는 건 이건 떡볶이가 아니라 닭갈비다. 우리가 아는 닭갈비 소스에 떡만 넣은 거다. 얼마나 맛있길래 4만5000원인가 했는데 그냥 닭갈비라 실망했다”고 털어놨다.&lt;br&gt;&lt;br&gt;이어 “물론 청담동이 땅값이 비싼 동네라는 건 안다. 그래서 음식이 비싼 거겠지만 가격에 비해 맛있냐 하면 그렇지도 않다. 길거리에서 쉽게 접할 수 있는 닭갈비 맛이었다. 4만5000원에 닭갈비 맛이면 닭이라도 많아야 하는데 닭은 적고 떡이 더 많았다. 떡이 더 재료비가 저렴한데”라며 아쉬워했다. &lt;br&gt;&lt;br&gt;그는 “콜라는 업소용으로 엄청나게 쌀 텐데 여기서 많이 남길 거다. 비싼 값 한다고 전혀 못 느끼겠다”고 덧붙였다. 이날 그는 떡볶이와 커피, 콜라를 합해 총 7만원을 결제했다고 전했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “아무리 강남 청담동이라도 콜라 한 캔에 만원은 선 넘었다” “청담동 떡볶이 먹을 돈으로 국밥 네 그릇에 공깃밥 다섯 번 추가해 먹겠다” 등의 반응을 보였다. 일부는 “저걸 소비하는 사람이 있으니 가격이 형성된 거다” “청담동 자릿세를 생각하면 어쩔 수 없다”는 의견을 내놨다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검 “삼부토건 이일준 회장·정창래 전 대표 소환 예정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/07/UQCMULFO6VDJHNJPJH5BJQOHWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/07/UQCMULFO6VDJHNJPJH5BJQOHWA/</guid>
-      <dc:creator>이민경 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 05:34:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXS47Y73NHMXWF7C3OM77SQTIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사 관련 사건을 수사하는 민중기 특별검사가 지난 2일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막을 마친 뒤 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹을 수사 중인 민중기 특별검사팀은 오는 9일 오전 10시에 삼부토건 정창래 전 대표를, 10일 오전 10시에 이일준 회장을 각각 불러 조사할 예정이라고 7일 밝혔다.&lt;br&gt;&lt;br&gt;김건희 특검은 이날은 오전부터 유라시아경제인협회 임원 한모씨를 불러 조사 중이다. 이일준 회장이 실소유하고 있는 삼부토건 대주주 디와이디(DYD)는 2022년 6월 23일 삼부토건이 유라시아경제인협회(유라시아협회)와 우크라이나 재건 사업을 위한 업무협약(MOU)을 체결했다는 보도자료를 배포했지만, 실제 MOU는 체결되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 삼부토건 주가조작 의혹을 조사한 금융당국은 실제 주가조작이 있었던 2023년 5월 이전부터 삼부토건 측이 우크라이나 재건 사업과 관련해 호재성 허위 정보를 퍼뜨려 주가를 띄우려 한 게 아닌지 의심한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김건희 특검은 지난 3일 삼부토건, DYD, 이석산업개발 등 법인 6곳과 조남욱 전 삼부토건 회장 등 전·현직 경영진 주거지 7곳 등 총 13곳을 압수 수색했다. 4일에는 이응근 전 삼부토건 대표를 불러 약 10시간 동안 조사했다. 이 전 대표는 삼부토건의 우크라이나 재건 사업을 총괄한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 다른 수사 대상에 대해서도 조사를 이어가고 있다. 문홍주 특검보는 “다른 사건들에 대해서도 주말 동안 소환조사를 진행했다”며 “압수물 분석, 계좌 추적 등 다양한 방법으로 수사를 진행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 운명 쥔 남세진 부장판사... 대법원 침입한 대진연은 영장 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/07/07/YCZDCF5KERG5VAKQKVARBH27MA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/07/YCZDCF5KERG5VAKQKVARBH27MA/</guid>
@@ -952,19 +954,6 @@
       <description/>
       <pubDate>Mon, 07 Jul 2025 02:59:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23ZELOLHYRCN3FTMBAXEUSDM4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 센텀초등학교 강당에서 학생들이 아침 체육 활동을 하고 있는 모습. 부산교육청이 2023년 도입한 수업 전 0교시 아침 운동은 교육부와 학부모로부터 좋은 평가를 받아 지난해부터는 다른 시도 교육청도 이를 실시했다. 학계에서는 청소년 비만율을 낮추기 위해선 학교 뿐만 아니라 가정과 사회에서도 신체활동에 대한 지원이 필요하다는 지적이 나온다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 청소년들의 비만율이 크게 높아지고 있는 가운데, 이를 예방할 수 있는 신체활동은 제자리걸음 수준에 머무르고 있는 것으로 나타났다. 학교 체육 활동에만 의존한 청소년 신체활동 프로그램이 가정이나 지역사회로 확산돼야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;한국보건사회연구원이 7일 발표한 보건복지 이슈앤포커스 ‘학교 기반의 아동·청소년 신체활동 활성화를 위한 과제(김수경 부연구위원)’에 따르면, 대표적인 신체활동 지표인 ‘하루 60분, 주 5일 이상 신체활동 실천율’이 지난해 기준 남학생 25.1%, 여학생 8.9%에 불과한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이는 10년 전인 2015년 같은 조사에서 남학생이 20.5%, 여학생이 7.4%였던 것과 비교하면 크게 달라지지 않은 수치다. 같은 기간 비만율은 남학생이 8.8%에서 15.5%로, 여학생은 6.1%에서 9.2%로 높아졌다.&lt;br&gt;&lt;br&gt;보고서는 특히 코로나 팬데믹 기간 위축됐던 신체활동이 팬데믹 종식 이후에도 회복되지 못했다는 점을 지적했다. 보고서는 “학습 외 목적으로 앉아서 보낸 시간은 2019년 일 2.8시간에서 2020년 일 3.8시간으로 증가했는데, 2024년에도 일 3.3시간으로 팬데믹 이전 수치로 줄어들지 않았다”며 “이 시기 체력이나 운동기능 등이 정상적으로 증진되지 못해 신체 발달상 문제가 발생했고, 여가시간이 좌식화되는 등 팬데믹 영향이 현재까지도 지속되고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이런 신체활동 부족을 해소하기 위해선 학교에만 맡겨놓는 체육활동에 가정이나 사회가 나서야 한다는 지적도 나왔다. 보고서는 “신체활동은 학생의 전반적 생활양식과 관련한 문제이므로 체육교과 및 스포츠 활동 활성화만으로는 한계가 있다. 학교체육만 활성화되면 학생들의 체력·신체활동·건강수준 저하 문제가 해결될 것이란 식의 정책은 학생 건강이 교육부·교육청·학교 등 교육 당국만의 소관이라고 인식되도록 한 측면이 있다”고 지적했다. 학교가 숙제를 내 줘 가정에서 함께 할 수 있는 프로그램을 지원하는 ‘가정 연계 방식’이나, 지역 보건소가 토요 체육 프로그램을 통해 비만 학생을 관리하는 ‘지역 연계 방식’이 대안이 될 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;보고서는 “일반 학생의 신체활동 활성화를 위한 환경을 지원하고 흥미를 유발할 수 있는 전략을 마련해야 한다”고 제언했다. 2022년 실시된 청소년건강행태조사에서 학생들은 운동이나 신체활동을 하는 이유로 ‘재미있어서(33.3%)’를 가장 많이 꼽았다. 이어 ‘건강을 위해(20.6%)’, ‘체중 감량(16.4%)’ 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> 체온 쟀더니 ’40.5도‘… 폭염 속 산행하다 숨진 50대</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/07/3KKZZJK6WFFE7DB473OKUA6NW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/07/3KKZZJK6WFFE7DB473OKUA6NW4/</guid>
-      <dc:creator>진안=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 01:09:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 진안에서 폭염 속 등산길에 나섰던 50대가 숨져 경찰이 사망 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;7일 전북소방본부에 따르면 전날 오후 6시 13분쯤 전북 진안군 주천면 구봉산에서 “함께 등산 온 일행이 보이지 않는다”는 119 신고가 접수됐다. 현장에 출동한 소방대원들은 정상 인근에서 심정지 상태로 쓰러져 있는 A(53)씨를 발견했다.&lt;br&gt;&lt;br&gt;소방당국은 헬기를 이용해 A씨를 병원으로 이송했지만, 끝내 숨졌다. A씨를 발견할 당시 체온은 40.5도였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 전북 진안 지역 최고기온은 32도로 폭염특보가 내려져 있었다. 경찰은 A씨의 정확한 사망 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
-        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
