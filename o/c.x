@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘재구속 기로’ 尹 법원 도착...곧 영장실질심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/09/VBKPYBPES5CLXGSONZ32COTXA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/VBKPYBPES5CLXGSONZ32COTXA4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 05:08:13 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 9일 영장실질심사를 받기 위해 서울중앙지법에 도착했다.&lt;br&gt;&lt;br&gt;이날 오후 2시 11분쯤 차량을 타고 법원 앞에 도착한 윤 전 대통령은 취재진 질문에 아무런 답을 하지 않고 곧장 재판정으로 향했다.&lt;br&gt;&lt;br&gt;남세진 서울중앙지법 영장전담 부장판사는 이날 오후 2시 15분부터 윤 전 대통령에 대한 영장실질심사를 연다. 내란 특검이 지난 6일 윤 전 대통령에 대해 직권남용 권리행사방해, 허위공문서 작성, 특수공무집행방해 등 혐의로 구속영장을 청구한 데 따른 것이다.&lt;br&gt;&lt;br&gt;심문이 끝나면 윤 전 대통령은 서울구치소에서 대기하며 결과를 기다린다. 심문 결과는 이르면 이날 밤 늦게 나올 예정이다. 구속영장이 발부될 경우, 윤 전 대통령은 지난 3월 법원의 구속 취소 결정으로 석방된 지 4개월 만에 재구속 되게 된다. 반면 영장이 기각되면 윤 전 대통령은 즉각 석방된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염에 달궈진 서울, 더위에 쓰러진 30·40대가 60대보다 많았다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/09/6TSGLIYEZJEQ7BDN7W37PFJDFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/6TSGLIYEZJEQ7BDN7W37PFJDFY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 04:48:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DF6OBMKKPFKLFMHIWWBHQHB73E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한낮 기온이 31도까지 치솟으며 더운 날씨를 보인 1일 서울 서초구 잠수교에서 한 시민이 달리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 폭염으로 서울에서 열사병이나 열탈진 같은 온열(溫熱)질환 환자가 85명이 발생한 것으로 9일 나타났다. 고령자가 더위에 취약할 것이라는 통념과는 달리 온열질환자 45.9%가 30~40대였다. 10대와 20대 온열질환자 비중도 18.5%였다.&lt;br&gt;&lt;br&gt;서울시 시민건강국 집계에 따르면, 지난 5월 15일부터 이달 7일까지 서울에서 온열질환으로 병원으로 이송된 시민은 총 85명이다. 지난해엔 7월 7일까지 온열질환자가 27명이 나왔었다. 3배 넘게 증가했다.&lt;br&gt;&lt;br&gt;온열질환은 열에 장시간 노출될 경우 두통, 어지럼, 근육경련, 피로감, 의식 저하 등의 증상을 동반하고 방치 시에는 생명이 위태로울 수 있는 질병이다. 열사병과 열탈진이 대표적이다.&lt;br&gt;&lt;br&gt;서울에서 온열질환은 실외 작업장(이하 비중 13%)보다 길가(53%), 운동장·공원(17%) 등 야외 여가활동 공간에서 많이 발생했다.&lt;br&gt;&lt;br&gt;오후 시간대(25%)보다는 오전(10시∼12시·44%)에, 60대 이상(43.1%)보다는 30∼40대 청장년층(45.9%)에서 더 많이 발생한 것으로 나타났다. 10대와 20대 온열질환자 비중도 18.5%였다.&lt;br&gt;&lt;br&gt;지난 6일에는 서울의 한 야외 테라스에서 4~5시간 테니스를 친 35세 남성이 열경련 증세로 응급실로 실려갔다. 지난달 2일에는 17세 남성이 한낮에 2~3시간 운동장에서 축구를 하다 열탈진으로 쓰러졌다. 지난 5월 17일 오전 10시 31분쯤엔 마라톤을 뛰던 26세 여성이 열신신으로 입원했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “건강한 젊은 사람도 충분한 수분 섭취나 컨디션 조절이 미흡하면 온열질환에 걸릴 수 있다는 의미”라고 했다.&lt;br&gt;&lt;br&gt;이동률 서울시 시민건강국장은 “운동·여가를 위한 신체활동 시 무더위를 과소평가해 건강 수칙을 소홀히 하면 온열질환이 발생할 위험이 높다”며 “폭염 기간 야외에서 작업 및 신체활동을 자제하고 건강 수칙을 반드시 지켜달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>범죄 위해 만든 회사 계좌로 거래…대법 “금융실명법 위반” 첫 판단</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/09/Q4VNI7AKMBFCNKMP5Y2PNFB6MQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/Q4VNI7AKMBFCNKMP5Y2PNFB6MQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 04:54:36 +0000</pubDate>
+      <content:encoded>법인 대표자가 범죄를 목적으로 자신이 대표로 있는 법인 계좌를 이용해 거래하는 것은 금융실명법 위반이라는 대법원 판단이 처음으로 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5R23Q3EW7POASLNPAAKFCDX3XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 /  뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 최근 사기 등 혐의로 기소된 A씨 등 5명의 상고심에서 금융실명법 위반 등 혐의를 무죄로 판단한 부분을 깨고 사건을 창원지법으로 돌려보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2023년 4월~7월 일당의 일부가 대표이사로 있는 상품권 판매 업체인 것처럼 법인을 설립한 뒤, 해당 법인 명의의 계좌로 피해자 17명으로부터 총 152차례에 걸쳐 12억8000여만원을 받아 챙긴 혐의를 받았다. 이들은 이 돈을 현금으로 인출해 범죄 조직에 전달하고 수수료를 받은 혐의도 있었다. &lt;br&gt;&lt;br&gt;재판의 쟁점은 이들이 범죄에 사용한 법인 계좌가 ‘타인의 실명 계좌’에 해당하는지 여부였다. 1심은 “개인이 아닌 법인 명의의 계좌를 범죄에 사용한 것은 금융실명법상 ‘타인’의 실명에 의한 금융 거래에 해당한다”고 보고 A씨에게 징역 4년을, 나머지 공범들에게는 징역 6개월에 집행유예 2년~징역 2년을 각각 선고했다.&lt;br&gt;&lt;br&gt;반면 2심은 이들의 금융실명법 위반 혐의에 무죄를 선고했다. 2심 재판부는 “당시 피고인 중 일부가 해당 법인의 대표이사로 재직 중이었으며, 자신이 대표로 있는 법인 명의의 계좌를 사용하는 것은 사실상 자신의 명의 계좌를 사용하는 것과 같다”고 판단했다. &lt;br&gt;&lt;br&gt;그러나 대법원은 2심 판단에 잘못이 있다고 보고 사건을 파기환송했다. 대법원은 “법인 대표자가 형식적으로 법인 명의로 금융거래를 하였더라도, 실질적으로는 자신의 범죄를 위해 법인 명의를 수단으로 거래한 경우 ‘타인의 실명으로 한 금융거래’에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사적 대화 SNS에 임의 공개…‘나는솔로’ 30대 여성 출연자 벌금 200만원</title>
+      <link>https://www.chosun.com/national/regional/2025/07/09/2N3IHY2RSFA3VB3AMCUUKUIRFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/09/2N3IHY2RSFA3VB3AMCUUKUIRFM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 04:34:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLTE3YBWWGKRCG527GI6JM7QZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 SNS에 상대방과 나눈 은밀한 대화 내용 등을 임의로 올린 30대 여성에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사10단독 허정인 부장판사는 9일 정보통신망이용촉진및정보보호등에 관한 법률 위반 등의 혐의로 재판에 넘겨진 A씨에게 벌금 200만원을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 2023년 11월 16일부터 지난해 5월 3일까지 SNS에 40대 B씨와 주고받은 카카오톡 대화 내용과 B씨가 다른 여성과 주고 받은 카카오톡 대화 내용 등을 공개한 혐의로 재판에 넘겨졌다. A씨와 B씨는 케이블TV 예능프로그램인 ‘나는솔로’에 함께 출연한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 “B씨에 의해 성적 피해를 입은 한 사람으로, 다른 피해 여성들이 억울하게 오해를 받지 않도록 실체를 알리려 했다. 공공의 이익을 위한 것”이라고 주장했지만, 재판부는 받아들이지 않았다. &lt;br&gt;&lt;br&gt;허 부장판사는 “피해자가 입은 피해 정도 등에 비추어 볼 때 죄질이 가볍다고 볼 수 없다. 다만 피고인이 범행 사실 관계 자체를 인정하고 있고, 2024년 5월 이후부터 인스타그램 등 SNS에 피해자를 비방하는 내용은 언급하지 않은 점, 홀로 자녀를 양육하고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내란특검, 홍장원 전 국정원 1차장 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/09/IOCKWPEJZBD5JDEOAAG6PYLTFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/IOCKWPEJZBD5JDEOAAG6PYLTFQ/</guid>
@@ -910,43 +946,6 @@
       <description/>
       <pubDate>Mon, 07 Jul 2025 16:01:33 +0000</pubDate>
       <content:encoded>내란 특검이 지난 6일 윤석열 전 대통령에 대해 전격적으로 구속영장을 청구할 수 있었던 것에는 강의구 전 대통령 부속실장과 김성훈 전 대통령 경호처 차장의 진술이 결정적 역할을 한 것으로 7일 전해졌다. 윤 전 대통령의 심복으로 꼽히는 두 사람에게서 윤 전 대통령의 혐의를 뒷받침하는 진술이 나온 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHWPOXL2EZEX5DGEVAAZQM3BGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강 전 실장은 지난 2월 검찰 조사에서 ‘사후 비상계엄 선포문’ 작성·폐기 과정을 상세하게 설명하며 “문서 작성과 폐기 모두 윤 전 대통령에게 보고했다”는 취지의 진술을 한 것으로 알려졌다. ‘사후 선포문’은 윤 전 대통령 구속영장에서 주요 혐의로 적시됐다. 강 전 실장이 12·3 계엄 선포 후 절차적 흠결을 보완하려고 허위 공문서를 작성했다가 무단으로 폐기하는 등 법을 위반했다는 것이다. 특검 측은 영장에서 “강 전 실장은 특검 조사에서 윤 전 대통령 측 변호인이 입회하자 검찰 진술을 번복하고 윤 전 대통령 주장에 부합하는 진술을 했다”고 지적한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 수사관 출신인 강 전 실장은 윤 전 대통령과 2006년 대검 중앙수사부 근무 때 인연을 맺었고, 윤 전 대통령이 검찰총장을 할 때 비서관을 했다. 사정 당국 관계자는 “강 전 실장은 대통령실 1급 비서관에게도 호통을 칠 정도로 윤석열 정권 실세 중의 실세였는데 그도 돌아선 것 아닌가 싶다”라고 말했다.&lt;br&gt;&lt;br&gt;김성훈 전 차장도 체포영장 집행 저지 혐의와 관련한 경찰 조사에서 윤 전 대통령에게 불리한 진술을 한 것으로 전해졌다. 김 전 차장은 윤 전 대통령에 대한 고위공직자범죄수사처의 체포 영장 집행 저지를 주도했던 인물이다. 특검 측은 김 전 차장이 경찰 조사 초기에는 윤 전 대통령에게 유리한 방향으로 진술하다가, 윤 전 대통령 변호인들이 조사에 참여하지 않게 되자 윤 전 대통령의 범행과 관련된 진술을 한 것으로 보고 있다. 이를 윤 전 대통령 구속영장에 증거인멸이 우려되는 점으로 적시했다고 한다. 반면 김 전 차장 측은 진술을 번복한 적 없다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 尹 영장 심사… 특검 “도망할 우려” 尹측 “지나친 모욕”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/08/UFC7SEJCVZBA3GQBFFRXK6IWOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/UFC7SEJCVZBA3GQBFFRXK6IWOM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 15:59:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 구속영장 심사가 9일 서울중앙지법에서 열린다. 영장 심사 결과는 이날 늦은 밤이나 이튿날 새벽에 나올 전망이다.&lt;br&gt;&lt;br&gt;서울중앙지법은 7일 “오는 9일 오후 2시 15분 윤 전 대통령에 대한 영장 심사를 진행한다”고 밝혔다. 윤 전 대통령은 영장 심사에 직접 출석해 직권남용 등 자신이 받고 있는 혐의를 적극 부인하고, 특검의 구속영장 청구가 법리에 맞지 않는다는 점을 강조할 것으로 알려졌다. 영장 심사 이후 윤 전 대통령은 서울구치소로 이동해 결과를 기다린다.&lt;br&gt;&lt;br&gt;조은석 내란 특검팀은 전날 윤 전 대통령에 대한 구속영장을 청구하며 구속이 필요한 이유로 △도망할 염려 △재범의 위험성 △증거를 인멸할 염려 등을 강조했다. 특검 측은 구속영장 청구서에서 “(윤 전 대통령의) 죄질이 매우 불량해 중형이 선고될 가능성이 높고, 향후 윤 전 대통령이 재판 결과에 승복할지 여부도 불분명하다”며 “현재 사법 시스템에서 진행되는 수사와 재판을 보이콧할 생각으로 도망할 염려가 높아 구속이 필요하다”고 주장했다. 이에 대해 윤 전 대통령 측은 “(윤 전 대통령은) 이미 내란 혐의로 기소돼 재판에 성실히 출석하고 있고, 출국도 금지된 상태”라며 “윤 전 대통령이 도망할 우려가 있다는 주장은 지나친 모욕 주기”라고 했다. &lt;br&gt;&lt;br&gt;특검은 또 ‘재범 위험성’에 대해 “(윤 전 대통령이) 지지자들의 과격한 행동을 선동할 수 있다”며 “이른바 ‘서부지법 난동’ 사건처럼 지지자들을 동원한 집단 범행을 저지를 가능성이 높다”고 했다. 윤 전 대통령 측은 “특검 측의 추측일 뿐 아무런 객관적인 근거가 없다”고 반박했다. 법조계에서도 “(윤 전 대통령이) ‘수사와 재판을 보이콧할 것’ ‘지지자들을 동원해 집단 범행을 저지를 것’이란 주장 등은 특검 측의 지나친 예단으로 보인다”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;한편 이날 법원은 노상원 전 정보사령관을 추가 구속했다. 지난달 27일 특검이 그를 개인정보보호법 위반 혐의로 추가 기소하고, 구속영장 발부를 요청한 데 따른 것이다. 그는 내란 혐의로 지난 1월 구속 기소돼 오는 9일 1심 구속기한(6개월) 만료를 앞두고 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 “軍 통수권자 안전만 생각하라” 김성훈 “걱정 마시라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/08/WVGPE3PGR5E7TFFUTQVBOIEXN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/WVGPE3PGR5E7TFFUTQVBOIEXN4/</guid>
-      <dc:creator>오유진 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 15:59:00 +0000</pubDate>
-      <content:encoded>지난 6일 내란 특검이 청구한 윤석열 전 대통령의 구속 영장에는 지난해 말부터 올해 초까지 두 차례 ‘체포 영장 집행’을 둘러싼 긴박한 순간들이 고스란히 담겼다. 특검은 윤 전 대통령이 1차 체포 시도 때 3중 차벽과 인간 스크럼 등 물리적 저지에 나섰고, 2차 시도 때는 경호 인력을 동원해 ‘위력 경호’로 맞섰다고 파악했다.&lt;br&gt;&lt;br&gt;특검이 구속 영장에서 재구성한 당시 윤 전 대통령과 경호처의 체포 방해 과정은 이렇다. 지난해 12월 31일 새벽 윤 전 대통령에 대한 첫 번째 체포 영장이 발부됐다. 검찰 등 수사기관의 수차례 출석 요구에 불응하자, 법원이 강제 구인을 허락한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X7TOFFFA5NFM7EIGRGG7EYKGBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영장 발부 소식을 들은 윤 전 대통령은 경호처 지휘부에 “공수처가 받은 체포 영장은 불법 영장”이라며 “관저는 군사 기밀 지역, 공관촌 1정문 통과시키면 안 된다”고 했다. 특검은 일종의 ‘지침’이라고 봤다. 공관촌은 서울 용산구 한남동 일대 대통령 관저와 국방부 장관 공관 등이 모여 있는 곳이다. 박종준 전 경호처장과 김성훈 전 경호차장 등은 이후 사흘간 매일 회의를 열어 영장 집행을 어떻게 막을지 논의했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4UEJQ7KZJEKTDTRR6PCRLV3KA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1월 3일 고위공직자범죄수사처 검사들과 경찰이 영장 집행에 나섰다. 경호처는 준비한 대로 차벽을 설치해 접근을 막았다. 아침 7시부터 대형 버스와 전술 차량 등으로 3중 저지선을 만들었다. 공관촌 정문 바로 뒤에 1차 저지선을 치고, 공관촌 정문과 대통령 관저 사이 2차 저지선, 마지막 관저 앞 약 200m 지점에 3차 저지선을 각각 설치했다. 관저 안에 있던 윤 전 대통령은 비밀 통신 앱 ‘시그널’을 통해 경호처에서 상황을 실시간 보고받았다.&lt;br&gt;&lt;br&gt;공수처 검사가 1차 저지선인 차벽 사이를 비집고 들어가려 하자, 경호처는 몸으로 길을 막고 검사를 밀어냈다. 당시 차벽을 넘어 진입을 시도하는 공수처 직원들을 본 김 전 차장이 “뭐 하는 거야! 막아!”라고 외치자, 공관촌 경비 병력 114명이 순식간에 모여 팔짱을 끼고 ‘인간 스크럼’을 만들었다. 이 과정에서 경호처 직원들과 경찰들 사이에선 물리적 충돌도 일어났다.&lt;br&gt;&lt;br&gt;숨 막히는 대치 상황은 한동안 이어지다가 오전 9시 6분쯤 1차 저지선이 뚫렸고, 10분쯤 뒤 2차 저지선도 뚫렸다. 이에 김 전 차장은 다시 “야, 다 이쪽으로 와” “다 막아” 하며 다시 군 병력을 동원해 영장 집행을 막아 세웠다. 김 전 경호차장은 공수처 검사에게 “무단으로 들어와서 뭐 하는 거냐” “무력으로 들어오면 어떻게 하느냐”며 강하게 항의했다고 한다. 상황을 보고받은 윤 전 대통령은 박 전 경호처장 등에게 “공수처 검사들이 관저 대문까지 올라오는 건 좀 아닌 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HGCBI3S65ANNCD423Y4UQAWBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 3일 서울 용산구 한남동 대통령 관저 앞 모습. 당시 윤석열 대통령의 체포 영장 집행에 나선 고위공직자범죄수사처와 경찰이 대통령경호처와 대치하고 있다. 경호처는 버스 등으로 저지선을 만들었다. 영장 집행은 5시간 30분가량 대치한 끝에 불발됐다.
-/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오후 1시 27분쯤 공수처 검사는 영장 집행이 불가능하다고 판단했다. 물리적 충돌이 우려됐기 때문이다. 그는 경호처장에게 영장 집행 중지 확인서를 전달하고 발길을 돌렸다.&lt;br&gt;&lt;br&gt;나흘 뒤인 1월 7일, 공수처는 윤 전 대통령에 대한 체포 영장을 다시 발부받았다. 김 전 경호차장은 윤 전 대통령에게 “경호처가 철통같이 막아내겠다. 아무 걱정 하지 마시라”고 했다. 이에 윤 전 대통령은 “경호처는 국군 통수권자의 안전만 생각하라”고 답했다.&lt;br&gt;&lt;br&gt;2차 체포 시도가 있은 15일까지 관저 주변은 긴장감이 고조됐다. 윤 전 대통령은 11일 경호처 간부들과 식사를 하며 “이번엔 특공대와 기동대가 들어온다고 하는데 걔들 총 쏠 실력도 없다”며 “경찰은 전문성도 없고 총은 경호관들이 훨씬 잘 쏜다”고 했다. 그러면서 “경찰은 니들이 총기를 가지고 있는 것을 보여주기만 해도 두려워할 것”이라며 “총을 가지고 있단 걸 보여줘라”라고 했다. 이에 경호처는 철조망과 추가 차벽을 설치하고, ‘인간 스크럼 훈련’을 반복했다. 경호 인력들은 기관단총(MP-7)과 실탄을 비치하고 무장 순찰 범위를 확대했다.&lt;br&gt;&lt;br&gt;15일 새벽 공수처와 경찰의 2차 체포 작전이 시작됐다. 철조망을 절단하고 사다리를 동원해 차벽을 넘어 1~2차 저지선을 돌파했고, 오전 8시 10분쯤 결국 관저 내부에 진입했다. 이후 2시간여에 걸친 협상 끝에 오전 10시 33분 윤 대통령을 체포했다.&lt;br&gt;&lt;br&gt;보름간 관저 안팎에서 일어난 윤 전 대통령과 경호처 간부들의 대응에 대해 특검은 특수 공무 집행 방해, 직권남용 혐의를 적용했다. 또 윤 전 대통령에게는 경호처 간부들에게 자신의 도피를 지시한 것으로 보고 범인 도피 교사 혐의를 적용했다. 이에 대해 윤 전 대통령 측은 “군사 시설인 대통령 관저를 뚫고 올라온다는 걸 예상한 바가 없었고, 체포 방해를 지시한 적도 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>힘들게 일하기보다 실업급여가 낫다는 도덕적 해이 부추겨</title>
-      <link>https://www.chosun.com/national/labor/2025/07/08/M7BPGI4YUNEXHBMBVDRQM4H4TY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/08/M7BPGI4YUNEXHBMBVDRQM4H4TY/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 15:58:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHBMZCSAIVD6TLGN43VT3BWZ4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 마포구 서울서부고용복지플러스센터에 실업급여를 신청하려는 구직자들이 몰려 있다. 실업급여는 고용보험에 가입해야 받을 수 있다. 정부는 단시간 근로자들도 실업급여를 받을 수 있도록 고용보험 가입 기준을 바꾸기로 했다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월을 끝으로 2년간 다니던 회사를 퇴사한 김모(24)씨는 현재 실업 급여를 받고 있다. 김씨가 받는 돈은 하루 6만4192원. 최저임금(올해 1만30원) 기준 하루 8시간 근무했을 때 받는 일당 8만240원의 80%다. 김씨는 “실업 급여가 적지 않아 일단은 구직 활동을 멈추고 있다”며 “실업 급여를 받는 동안 좀 더 쉬다가 새 직장을 알아볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;김씨의 사례처럼 실업 급여 하한액(최소 보장액)은 최저임금의 80%로 규정돼 있다. 올해 최저임금 기준 일당에서 근로소득세 등 세금과 4대 보험료를 빼면 하루 7만2800원을 받는다. 여기에 교통비 등을 빼면 최저임금을 받으며 하루 8시간을 일하나, 실업 급여를 받으나 별 차이 없는 것이다. &lt;br&gt;&lt;br&gt;정부는 7일 고용 보험 적용 기준을 종전의 ‘주 15시간 이상 일한’ 근로자에서 ‘소득’ 기준으로 바꾸겠다고 예고했다. 이렇게 되면 고용 보험 가입자가 대폭 늘어나, 실업 급여 수급 대상자도 크게 늘 것으로 전망된다. 실업 급여는 180일 이상의 ‘고용 보험 가입자’가 계약 만료나 경영상 해고 등 비자발적 이유로 퇴사할 경우 받는다.&lt;br&gt;&lt;br&gt;전문가들은 실업 급여가 최저임금과 연동돼 하한액이 덩달아 오르는 현행 구조를 개선해야 한다고 지적한다. 최저임금이 오르면 따로 일을 하지 않아도 실업 급여를 통해 최저임금과 큰 차이 없는 돈을 손에 쥘 수 있기 때문이다. &lt;br&gt;&lt;br&gt;실제 실업 급여를 반복해 수령하는 구직자 수는 매년 늘고 있다. 고용노동부에 따르면, 5년간 3회 이상 실업 급여를 반복 수령한 구직자는 2020년 9만3019명에서 지난해 11만2823명으로 늘어났다. 이들에게 지급된 실업 급여 역시 같은 기간 4800억원에서 5804억원으로 늘었다. &lt;br&gt;&lt;br&gt;특히 문재인 정부 이후 최저임금이 빠르게 상승하면서 이와 연동된 실업 급여 하한액은 빠르게 높아졌다. 올해 기준 실업 급여 하한액 6만4192원은 40세 기준 평균 임금의 41.9% 수준으로, OECD 국가 중 가장 높은 수치다.&lt;br&gt;&lt;br&gt;산업계에선 실직 전 소득과 연계해 실업 급여 수급액을 정하는 등의 방안이 대안으로 거론되고 있다. 노민선 중소벤처기업연구원 연구위원은 “최저임금과 실업 급여 연동을 아예 폐지하는 식의 급격한 개편은 어렵겠지만, 효율적 운영을 위해 새로운 산정 방식이 논의될 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한명숙 땐 사기 전과자 증언을 근거로… 이번엔 조폭 출신 말 듣고 의혹 제기</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/08/PXR66YE735HAPEBUB52ACP55VE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/PXR66YE735HAPEBUB52ACP55VE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 07 Jul 2025 15:58:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYYNNCQQURAEZIDQUIPEOPFZCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 8월23일 출소한 한명숙 전 국무총리. 당시 출소 현장엔 이해찬 대표 등 민주당 의원 20명이 달려갔다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 과거에도 한명숙 전 국무총리의 ‘불법 정치자금 9억원 수수’ 사건의 유죄 판결이 확정된 후 이를 뒤집기 위해 사기꾼의 말을 근거로 국가 수사 체계를 공격했다. 검찰이 재소자들을 회유·압박해 한 전 총리 혐의를 뒷받침하는 취지의 허위 증언을 하도록 했다며 ‘조작 수사’ 의혹을 제기한 것이다. &lt;br&gt;&lt;br&gt;최근에도 민주당은 해외 도피 중인 조폭 출신 기업가 배상윤 KH그룹 회장의 언론 인터뷰를 근거로 검찰의 ‘조작 수사’ 의혹을 제기했다. “이 대통령은 대북 송금과 무관하다”는 그의 주장을 이 대통령의 대북 송금 사건 무력화의 근거로 삼았다.&lt;br&gt;&lt;br&gt;‘한명숙 모해 위증 교사 의혹’은 한 전 총리가 2007년 한만호(2018년 사망) 한신건영 대표에게 불법 정치 자금 9억원을 받은 혐의로 2015년 대법원에서 징역 2년을 확정받은 뒤 불거졌다. 이 사건 1심에선 한 대표가 “한 전 총리에게 돈을 주지 않았다”고 증언했는데, 수감 중 그에게서 ‘한명숙에게 뇌물을 줬다고 말하는 것을 들었다’는 사람이 나온 것이다.&lt;br&gt;&lt;br&gt;그런데 한 전 총리 유죄 확정 판결 5년 후인 2020년 5월 한 언론은 “검찰이 거짓 증언을 강요했다”는 한 대표의 감방 동료 증언을 근거로 ‘재소자 모해 위증 교사’ 의혹을 보도했다. 이 감방 동료는 사기·횡령 등 혐의로 징역 20년 이상형이 확정된 범죄자였는데도, 민주당은 검찰의 재조사를 촉구했다.&lt;br&gt;&lt;br&gt;대검찰청은 2021년 3월 두 차례에 걸쳐 한 전 총리 수사에 문제가 없었다고 판단했지만, 박범계 당시 법무장관은 수사팀에 대한 감찰까지 지시했다. 하지만 법무부는 그해 7월 모해 위증 교사 의혹은 확인하지 못했다고 밝혔다. 당시 검찰총장이던 윤석열 전 대통령은 이 사건 수사를 방해했다며 공수처에 고발됐다가 2022년 2월 무혐의 처분을 받기도 했다.&lt;br&gt;&lt;br&gt;그런데도 민주당은 작년 한 전 총리 재판 때 재소자들에게 위증을 하게 했다며 엄희준 검사에 대한 탄핵소추안을 발의했다. 법조계 관계자는 “문재인 정부 당시 여권이 별다른 근거 없이 한 전 총리에 대한 법원 확정 판결과 검찰 수사를 공격했다는 의구심이 일었다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[핫코너] 신사동 성형 거리, 대치동 학원가… 외국 관광객 데려가 “여기가 헬조선”</title>
