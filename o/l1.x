@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 임은정 서울동부지검장, '검사 블랙리스트' 국가배상 항소심도 일부 승소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209574.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;임은정 서울동부지검장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7331"&gt;임은정&lt;/span&gt;(51·사법연수원 30기) 서울동부지검장이 부장검사 재직 시절 법무부가 자신을 이른바 '검사 블랙리스트'에 올렸다며 낸 국가배상 소송 항소심에서도 일부 승소했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울고법 민사1-3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11296"&gt;최성보&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="8057"&gt;이준영&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="9661"&gt;이양희&amp;nbsp;&lt;/span&gt;고법판사)는 7월 9일 임 지검장이 국가를 상대로 제기한 손해배상 청구 소송 항소심(&lt;b&gt;2023나2002303&lt;/b&gt;)에서 항소를 기각하고 1심과 마찬가지로 원고 일부 승소 판결했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부는 2012년 '집중관리 대상 검사 선정 및 관리 지침'을 제정하고 검찰국장이 해마다 집중관리 대상 검사를 선정해 대검찰청에 보고했다. △평소 성행 등에 비춰 비위 발생 가능성이 농후한 자 △소속 상관의 직무상 명령을 이유 없이 거부 또는 해태한 자 △근무 분위기를 저해하는 자 등이 집중 관리 대상이었다. 대검은 이 명단을 바탕으로 감찰을 실시해 검사적격심사 및 인사 등에 반영한 것으로 알려졌다. 해당 지침은 2019년 2월 폐지됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;임 검사장은 자신이 이 명단에 포함돼 인사상 불이익을 입었다며 2019년 4월 정부를 상대로 2억 원의 손배소를 제기했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1심은 2022년 12월 "해당 지침은 비위 발생 가능성이 농후한 자를 선정하도록 규정하고 집중 감찰 결과를 적격 심사 및 인사에 반영할 수 있다고 규정해 위헌적인 지침"이라며 정부가 1000만 원을 배상해야 한다고 판단했다. 다만 1심은 임 검사장이 징계 및 인사 조처가 위법하고 직장 내 괴롭힘을 받았다고 주장한 부분은 인정하지 않았다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법무부는 2023년 1월 "제도의 목적은 정당하지만 대상 검사 선정 사유가 명확하지 않다는 등의 이유로 일부 손해만이 인정된 것"이라며 1심에 불복해 항소했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 09 Jul 2025 06:37:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209574</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209574</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209574.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>순직 해병 특검팀, 국방부 검찰단 '공소권 남용' 수사</title>
+			<description>&lt;p&gt;&lt;span style="text-align: center; background-color: #f0f0f0;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209571.jpg" alt="45647.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박정훈 전 해병대 수사단장(대령) 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;채상병 특검팀(&lt;span style="font-weight: bold;" class="lawmanlink" serial="115"&gt;이명현&amp;nbsp;&lt;/span&gt;특별검사)이 국방부 검찰단의 공소권 남용 혐의에 관해 수사할 전망이다. &lt;br /&gt;&lt;br /&gt;법조에 따르면, 특검팀은 9일 박정훈 전 해병대 수사단장(대령)의 항명죄 혐의 항소심 취하 결정을 내렸다. 특검팀은 국방부 검찰단의 박 전 대령 기소 과정을 전반적으로 살펴볼 계획이다.&lt;br /&gt;&lt;br /&gt;당시 박 전 대령 기소 결정에 책임자로 관여했던 김동혁 국방부 검찰단장(준장)에 대해 특검팀은 이미 국방부에 직무 배제 요청을 한 상태다. 김 단장은 유재은 법무관리관과 지난해 8월 2일 통화하는 등 채 상병 사건 기록을 경찰로부터 회수하는 과정을 주도한 인물로 지목됐다.&lt;br /&gt;&lt;br /&gt;김 단장은 해병대 수사단이 경북경찰청에 채 상병 사망 사건 조사 기록을 이첩했다가 국방부 검찰단이 이를 회수하는 데 관여하고, 박 전 대령을 표적 수사했다는 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;채 상병 사망 수사 외압 의혹을 먼저 수사했던 고위공직자범죄수사처는 6월 김 준장을 이틀간 피의자 신분으로 소환 조사했다. 공수처는 김 준장이 당시 대통령실 지시를 받고 박 전 대령을 항명죄로 입건한 것으로 의심했다. 김 준장은 채 상병 수사 외압 의혹과 관련해 당시 의혹이 불거진 지난해 7~8월 통화 기록 등을 지운 이른바 '깡통 폰'을 공수처에 제출했다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 오전 박 전 대령의 형사재판 항소 취하 결정을 내렸다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="115"&gt;이명현&amp;nbsp;&lt;/span&gt;특검은 언론 브리핑에서 "(박 전 대령이) 수사단장으로서 채상병 사건의 초동수사를 하고, 해당 사건 기록을 경찰에게 넘긴 것은 법령에 따른 적법행위"라며 "검찰단이 (박 전 대령을) 항명죄로 공소제기한 것은 공소권 남용에 해당한다고 판단했다"고 항소 취하 이유를 설명했다. &lt;br /&gt;&lt;br /&gt;박 전 대령은 2023년 7월 19일 일어난 채 상병 순직 사건에 대한 조사기록의 경찰 이첩을 보류하라는 김계환 당시 해병대사령관의 명령을 이행하지 않고 항명했다는 혐의로 그해 10월 6일 국방부 검찰단에 의해 군사재판에 넘겨졌다. 1심을 맡은 중앙지역군사법원은 올 1월 항명 및 상관명예훼손 혐의로 기소된 박 전 대령에게 무죄를 선고했다(2023고43). 국방부 검찰단은 이에 항소했고, 서울고법이 항소심을 진행하고 있다.</description>
+			<pubDate>Wed, 09 Jul 2025 06:34:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209571</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209571</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209571.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 대표이사가 법인 명의 계좌 사용 "금융실명거래법 위반"</title>
 			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;법인 대표이사가 범죄 등 탈법 행위를 목적으로 회사 명의 계좌를 사용한 행위는 법인 명의를 수단 삼아 자신의 금융거래를 한 것이므로 타인의 실명으로 금융거래를 한 경우에 해당한다는 대법원 판단이 나왔다. 대표이사가 자신이 대표이사인 법인 명의의 계좌를 사용하는 행위가 금융실명법 위반죄가 성립하는지에 대해 대법원이 처음으로 판단 기준을 제시한 판결이다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 6월 5일 범죄수익 은닉의 규제 및 처벌 등에 관한 법률 위반, 금융실명거래 및 비밀보장에 관한 법률 위반 등 혐의로 기소된 A 씨 등의 상고심에서 금융실명거래법 위반 혐의를 무죄라고 판단한 원심 판단을 깨고 사건을 창원지법으로 돌려보냈다(&lt;b&gt;2025도676&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨 등은 인터넷 도박 범죄조직, 인터넷 투자사기 범죄조직 등에 상품권 매매업체인 것처럼 가장해 설립된 허위의 법인 명의의 계좌를 제공하고, 위 계좌로 송금된 범죄수익금을 현금으로 인출해 범죄조직원들에게 전달한 후 수수료를 받기로 공모했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A, B, C 씨는 2023년 4월부터 5월까지 피해자 17명으로부터 총 152회에 걸쳐 편취한 12억8000만 원을 상품권 매매업체를 가장해 설립된 법인 명의 계좌 등으로 송금받은 다음 현금으로 인출해 범죄조직원들에게 전달했다. A, B, E 씨는 같은 수법으로 2023년 3월경 피해자가 송금한 현금 1500만 원을 인출해 이같이 범행했다. A, B, D 씨도 비슷한 수법으로 2023년 7월경 합계 9000만 원을 인출해 조직원들에게 전달했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰은 성명불상의 조직원들과 공모해 불법재산의 은닉, 자금세탁행위 또는 탈법행위를 목적으로 타인의 실명으로 금융거래를 했다는 혐의로 A 씨 등을 기소했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A 씨 등의 금융실명거래법, 범죄수익 은닉법 혐의는 유죄로 판단했으나 사기 혐의는 무죄로 판단했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;하지만 항소심은 "탈법행위를 목적으로 '타인'의 실명으로 금융거래를 한 경우에 해당한다고 보기 어렵다"며 금융실명거래법 혐의를 무죄라고 봤다. 각 법인 명의의 계좌를 이용하던 시점에 그 법인 대표이사가 피고인들이었고, 주식회사는 자신 명의로 금융거래를 할 수 있으나 법인 특성상 기관을 통해 활동할 수밖에 없으므로 대표이사 등이 자신이 대표이사 등으로 재임하는 주식회사 명의 계좌를 사용하는 행위는 주식회사가 대표이사 등을 통해 자신 명의의 계좌를 사용하는 행위에 해당한다는 판단이다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;대법원의 판단은 달랐다. 대법원은 "법인의 대표자 지위에 있는 행위자가 형식적으로는 법인의 명의로 금융거래를 하였으나 실질적으로는 자신의 범죄 등을 위하여 법인의 명의를 수단으로 삼아 자신의 금융거래를 한 것으로 평가할 수 있는 경우 그 금융거래는 이 사건 처벌규정에서 정한 ‘타인의 실명으로 한 금융거래’에 해당한다"며 "이러한 금융거래에 해당하는지는 오로지 범죄 등 목적으로 법인을 설립해 그 목적을 위해 법인 명의로 금융거래 계좌를 개설·이용했는지를 포함해 법인의 설립 목적과 경위, 금융거래 계좌의 개설 경위와 이용 현황, 법인의 실제 운영 현황과 방식, 금융거래 대상이 된 자금의 조달방법 및 사용내역, 법인의 활동과 행위자의 범죄 등 사이의 상관관계, 법인의 형해화 정도, 금융거래에 따른 실질적 이익의 귀속 주체 등을 종합적으로 고려해야 한다"고 전제했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "피고인들은 범죄수익금의 자금세탁 등 범죄를 목적으로 이 사건 각 법인을 세운 뒤 법인 명의 계좌를 개설해 범죄수익금의 자금세탁 등 다수의 금융거래를 했다"며 "피고인들의 이 사건 각 법인 명의 계좌를 이용한 금융거래에 따른 이익은 범죄수익금의 자금세탁에 따른 수수료 취득으로 보이는데, 실질적으로 그 이익은 이 사건 각 법인에 귀속된 것이 아니라 금융거래를 한 피고인들에게 귀속됐음이 분명하다"고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;그러면서 "실질적으로 피고인들이 처음부터 범죄수익금의 자금세탁 등의 범죄를 목적으로 이 사건 각 법인의 명의를 수단으로 삼아 자신의 금융거래를 한 것으로 평가할 수 있으므로, 그 금융거래는 모두 이 사건 처벌규정에서 정한 ‘타인의 실명으로 금융거래’를 한 경우에 해당한다"고 판시했다.&lt;/p&gt;</description>
 			<pubDate>Wed, 09 Jul 2025 03:09:38 -0000</pubDate>
@@ -219,25 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/209559</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209559</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209559.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, 경찰청 압수수색..."업무 협조 차원"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209560.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 경찰청에 대한 압수수색에 나선 8일 서울 서대문구 경찰청의 모습. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 특검팀(&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사)이 8일 서울 서대문구 미근동 경찰청을 압수수색 했다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 경찰청에 대한 압수영장을 집행하고 업무 협조 차원에서 관련 자료를 제출받고 있다고 밝혔다. 압수수색 대상은 경찰청 치안정보국 산하 범죄정보과인 것으로 전해졌다. &lt;br /&gt;&lt;br /&gt;이번 압수수색은 통일교 의혹과 관련된 경찰 내부 자료를 확인하는 차원으로 알려졌다. 과거 경찰은 통일교 간부들의 원정도박 의혹을 수사했지만 윤모 전 간부가 건진법사 전성배 씨를 통해 수사를 무마했다는 의혹이 있었다. &lt;br /&gt;&lt;br /&gt;특검팀은 건진법사 부정 청탁 의혹과 관련해 서울남부지검으로부터 한학자 총재 등 통일교 간부들의 원정도박 의혹 사건을 넘겨받아 들여다보고 있다. 한 총재 등은 2008년 미국 라스베이거스 카지노에서 원정 도박을 한 혐의를 받는다.</description>
-			<pubDate>Tue, 08 Jul 2025 11:42:09 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209560</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209560</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209560.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>'2026학년도 법학적성시험(LEET)' 오는 7월 20일 실시</title>
-			<description>2026학년도 법학적성시험(LEET)이 오는 7월 20일 전국 9개 지구 43개 시험장에서 실시된다.&lt;br /&gt;&lt;br /&gt;△서울 △수원·용인 △부산 △대구·경산 △광주 △전주 △대전·청주 △춘천 △제주 등 전국 43개 시험장에서 진행된다. 원서접수 시 선택한 지역에서 응시하게 되며, 고사장 위치는 수험표 교부 기간에 확인할 수 있다.&lt;br /&gt;&lt;br /&gt;시험은 언어이해(30문항), 추리논증(40문항), 논술(2문항) 순으로 진행된다. 응시자는 시험 당일 오전 8시 30분까지 해당 시험실에 입실해야 하며, 각 교시 시작 5분 전 준비령이 발령된 이후에는 입실이 불가하다.&lt;br /&gt;&lt;br /&gt;7월 20일부터 23일까지 법학적성시험 홈페이지를 통해 문제 및 정답에 대한 이의신청 접수가 가능하다. 성적발표는 8월 19일 오전 10시부터 홈페이지에서 확인할 수 있다.</description>
-			<pubDate>Tue, 08 Jul 2025 08:25:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209557</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209557</guid>
 			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
