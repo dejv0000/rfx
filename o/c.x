@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산대, 환태평양 명문대들과 어깨 나란히... “국제 교류 확대”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/09/CJC2VMMKRBD6ZORLQN6PBTGHJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/CJC2VMMKRBD6ZORLQN6PBTGHJA/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 10:13:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UCKGGW5DBCPJHBGCCZNUASV54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최재원 부산대 총장(오른쪽 네번째)과 대학 관계자들이 지난 달 영국 스트래스클라이드대학교를 방문해 이 대학 연구기관인 AFRC 등을 설립한 키스 리지웨이 교수(오른쪽 세번째)와 기념 촬영을 하고 있다. /부산대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산대는 9일 지난달 22일부터 24일까지 3일간 미국 샌디에이고에서 열린 ’2025 환태평양대학협회(APRU) 총장 연례회의’에 참석해 명문 대학들과 각종 네트워크를 강화했다고 밝혔다.&lt;br&gt;&lt;br&gt;환태평양대학협회(APRU, Association of Pacific Rim Universities)는 아시아·태평양 지역을 대표하는 62개 대학 협의체다. 부산대는 지난 2021년 서울대·고려대·연세대·카이스트·포스텍에 이어 국내 여섯째로 가입했다.&lt;br&gt;&lt;br&gt;미국 UC샌디에이고에서 열린 이번 연례회의는 ‘변화하는 세계 속 인간 수명: 회복력 있는 미래를 위한 혁신, 교육, 리더십’을 주제로 마련됐다. 건강 수명에 대한 불평등·기술·정치적 과제에 대한 대학의 역할을 논의하는 자리로, 부산대를 비롯해 UCLA, UC샌디에이고, 미시간대, 싱가포르국립대, 게이오대 등 세계 유수 대학들이 참석했다.&lt;br&gt;&lt;br&gt;부산대는 이번 APRU 연례회의를 계기로 미주 대륙 전역을 아우르는 전략적 MOU를 확대하는 한편 글로벌 거점 대학으로 도약하기 위한 기반을 다질 계획이다.&lt;br&gt;&lt;br&gt;북미에서는 미국의 UC샌타크루즈, 오리건대, 서던캘리포니아대, 캐나다 사이먼프레이저대와 앨버타대와 MOU를 체결하기로 합의하는 등 전략적 파트너십을 구축할 전망이다.&lt;br&gt;&lt;br&gt;중남미에서는 멕시코 몬테레이공과대와 에콰도르 산프란시스코 데 키토대, 칠레대, 콘셉시온대와 협력하기로 했다. 특히 남미 대학들은 지질·해양·생물 등 부산대의 특화 분야와도 연계해 공동 연구와 교환 프로그램으로 이어지는 실질적 협력이 기대된다.&lt;br&gt;&lt;br&gt;영국에서는 조선해양 분야 세계 최정상급 대학인 스트래스클라이드대와 노벨상 6명을 배출한 셰필드대 등과 협약을 맺었다.&lt;br&gt;&lt;br&gt;최재원 부산대 총장은 “이번 명문 대학들과의 네트워크 확대는 단순한 교류를 넘어 우수 유학생 유치와 국제 공동 연구에도 도움이 될 것”이라며 “부산대가 글로벌 대학으로 한층 성장하는 계기가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹 구속영장심사 휴정…저녁 식사한 뒤 오후 8시 재개</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/09/6AENQE2NYFFF7KROOGP5IQHICI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/6AENQE2NYFFF7KROOGP5IQHICI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 10:13:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김영훈 고용부장관 후보자 음주운전 벌금 70만원 “어린 시절 잘못 깊이 반성”</title>
+      <link>https://www.chosun.com/national/labor/2025/07/09/GOS2IQKHGJBCJFRKVHJFOA5WRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/09/GOS2IQKHGJBCJFRKVHJFOA5WRQ/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 09:31:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZO777Q4LBGHWKDCBWDEGWODS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;철도 기관사 출신 김영훈 고용노동부 장관 후보자가 지난달 24일 오후 서울 중구 서울지방고용노동청 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관 후보자가 음주운전으로 벌금 70만원을 낸 것으로 9일 나타났다.&lt;br&gt;&lt;br&gt;김 후보자가 국회에 제출한 인사청문회 요구 자료에 따르면, 김 후보자는 1994년 2월 15일 혈중 알코올 농도 0.08%인 상태로 부산시 남구 대연동에서 부산시 동구 범일동까지 운전을 한 혐의(도로교통법 위반)로 벌금 70만원을 처분 받았다.&lt;br&gt;&lt;br&gt;이와 관련해 김 후보자는 “어린 시절 큰 잘못을 해 깊이 반성하고 있다”며 “그 이후로는 그런 일이 없었고 앞으로 더욱 처신에 주의하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 후보자가 자신과 가족 명의로 신고한 자산은 총 12억1500만원인 것으로 파악됐다. 김 후보자 명의 재산은 부산 부산진구 양정동 아파트(약 3억5000만원)과 경남 창원 마산합포구 단독주택(약 2억1400만원), 2006년식 재규어(약 430만원) 등 총 10억3400만원 규모다.&lt;br&gt;&lt;br&gt;또 김 후보자는 주 4.5일제에 대해서 “일률적인 주 4.5일제 추진은 부작용이 있을 수 있다”며 “AI 등 기술 혁신으로 불필요한 업무 축소, 업무 프로세스 개선 등으로 생산성이 향상된다면 임금 감소 없이 주 4.5일제 도입이 가능할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘체온이 무려 42도’...부여서 밭일하던 70대 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/09/2IYYP2AJEFDLHMQQPIOCLKCPR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/09/2IYYP2AJEFDLHMQQPIOCLKCPR4/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 09 Jul 2025 08:21:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QS7YKGS5BFNXLKNB6ZMOLZYV7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 남산에서 도심을 열화상카메라로 촬영한 모습. 온도가 높을수록 붉은색으로 보인다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더위 속 충남 부여에서 밭일을 하던 70대 여성이 쓰러져 사흘 만에 숨을 거뒀다. 올해 충남 온열질환 사망자는 2명으로 늘었다.&lt;br&gt;&lt;br&gt;충남도는 지난 5일 오후 2시 8분쯤 부여군에서 밭일을 하던 A(여·76)씨가 쓰러져 병원으로 옮겨졌지만 사흘 만인 지난 7일 숨졌다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨가 밭일을 하던 당시 부여군에는 폭염경보가 내려져 있었다. A씨의 체온은 42도에 달했고, 의료진은 열사병으로 숨진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;충남에서는 지난 8일 오후 1시 26분쯤 공주에서 논일하던 B(96)씨가 열사병으로 숨졌다. 올해에만 2명이 온열질환으로 숨진 것이다.&lt;br&gt;&lt;br&gt;지난 8일 서산 고북면의 한 논에서는 B(86)씨가 숨진 채 발견돼 열사병을 의심했지만, 의료진은 온열질환으로 인한 사망은 아닌 것으로 판단했다.&lt;br&gt;&lt;br&gt;충남에서는 8일까지 51명(사망자 2명 포함)의 온열질환자가 발생했다. 특히 충남지역 사망자 2명이 모두 야외에서 논·밭일을 하다 숨진 것으로 나타나면서 폭염이 극에 달하는 한낮에는 농작업을 자제해야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 온열질환 감시체계를 가동한 2011년 이후 지난해까지 온열질환으로 사망한 사람 중 65.5％는 60세 이상이다. 발생 장소는 논밭이 31.9％로 가장 많다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>벌써 28도 육박...경남 연안 올해 첫 ‘고수온 주의보’ 발령 </title>
       <link>https://www.chosun.com/national/2025/07/09/Q3TFQ52WBRGOJFI622TENXML4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/09/Q3TFQ52WBRGOJFI622TENXML4Y/</guid>
@@ -769,15 +805,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4FR74NMZIBTTHVCP3MJPAPJ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인라인 스케이트를 제대로 못 탄다며 7살 딸을 폭행한 남성이 구속돼 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청은 40대 남성 A씨를 아동복지법 위반 혐의로 8일 구속 송치했다고 밝혔다. A씨는 지난 3일 서울 광진구 뚝섬한강공원에서 자신의 딸을 주먹으로 때리고 발길질한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 폭행 장면을 목격한 행인의 신고로 출동한 경찰은 A씨를 현행범으로 체포했다. A씨의 딸은 타박상을 입었으나 입원해야 할 정도로 다치지는 않았다고 한다. A씨는 “딸이 인라인 스케이트를 제대로 타지 못해 훈육하려 했다”는 취지로 경찰에 진술한 것으로 전해진다.&lt;br&gt;&lt;br&gt;경찰은 범행의 중대성과 재범 우려 등을 고려해 지난 4일 A씨에 대한 구속영장을 신청했다. A씨는 지난 5일부터 구속 상태로 수사를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>유아인에 프로포폴 불법 처방한 의사, 2심도 벌금 4000만원</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/08/4W7H3D2EW5AZPKHWJU2OTYOBYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/4W7H3D2EW5AZPKHWJU2OTYOBYQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 09:02:51 +0000</pubDate>
-      <content:encoded>배우 유아인(39·본명 엄홍식)씨에게 진료기록 없이 의료용 프로포폴 등을 처방한 의사가 2심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZO63QHYEZHK75S34OQKCLPKN3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프로포폴 상습 투약 혐의로 기소된 배우 유아인/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9-2부(재판장 류창성)는 8일 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 의사 A씨에게 1심과 같이 벌금 4000만원을 선고했다. 재판부는 “이미 1심이 여러 사정을 감안해 양형 사유를 반영한 것으로 보인다”라며 검찰과 A씨 양측의 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;A씨는 유아인씨에게 고용량의 의료용 프로포폴을 투여하고도 진료 기록을 남기지 않은 혐의 등으로 기소됐다. 검찰은 작년 1월 A씨를 비롯해 유아인씨에게 수면제와 프로포폴 등을 과다 처방한 의사 6명을 기소한 바 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 8월 “A씨는 6차례에 걸쳐 진찰 없이 거짓으로 처방전을 작성하는 등 프로포폴을 돈벌이 수단으로 이용해 죄질이 좋지 않다”며 그에게 벌금 4000만원을 선고했다.&lt;br&gt;&lt;br&gt;한편 유아인씨는 2020년 9월~2022년 3월 서울 일대 병원에서 프로포폴 등을 181회 상습 투약한 혐의 등으로 지난 3일 대법원에서 징역 1년에 집행유예 2년을 확정받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, 사건 자료 회수한 前 경북경찰청 수사부장 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/08/ADQNY4F52FHCJMQFNBNQOOZ32M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/ADQNY4F52FHCJMQFNBNQOOZ32M/</guid>
@@ -818,24 +845,6 @@
       </media:content>
     </item>
     <item>
-      <title>미친 더위...사상 첫 ‘7월 40도’ 발생</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/08/NJRVOEQRIBHBHK472JDGAWOD7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/08/NJRVOEQRIBHBHK472JDGAWOD7U/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 08:18:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3HPAJXDUKDMKOAP6VHTSHP3HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연일 폭염이 이어지는 8일 충북 제천시 봉양읍 명암리에 위치한 한우 축사에 살수시설이 풀 가동되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7월에 40도 넘는 폭염이 처음으로 발생했다. 폭염이 절정에 달하는 8월에 40도를 넘긴 적은 종종 있었지만, 7월에 발생한 것은 극히 이례적이다.&lt;br&gt;&lt;br&gt;8일 기상청에 따르면, 이날 경기 광명·파주의 자동기상관측장비(AWS)에 40도 넘는 기온이 기록됐다. 이날 오후 3시 24분쯤 경기 파주시(광탄면 신산리)가 40.1도, 오후 3시 42분쯤 광명시(철산동)가 40.2도를 찍었다.&lt;br&gt;&lt;br&gt;자동기상관측장비 측정 기온이 40도를 넘긴 것은 작년 8월 4일 이후 처음이다. 당시 경기 여주시 점동면 기온이 40도를 기록한 바 있다.&lt;br&gt;&lt;br&gt;‘40도’는 폭염의 한계선으로 불린다. 1942년 8월 1일 대구 기온이 40.0도를 기록한 뒤 사례가 나오지 않다가, 2018년 8월 1일 홍성·북춘천·의성·양평·충주에서 기온이 40도 이상으로 올랐다. 같은 해 8월 14일 의성의 기온이 다시 40도를 넘었다.&lt;br&gt;&lt;br&gt;이후 2019년 8월 5일 경기 안성 고삼면 기온이 40.2도를 기록했다.&lt;br&gt;&lt;br&gt;1904년 국내에서 근대적인 기상 관측이 시작한 이래 최고기온은 2018년 8월 1일 홍천에서 기록된 ’41도’다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천환경공단 “맨홀 사고 수습에 최선, 수사도 적극 협조”</title>
-      <link>https://www.chosun.com/national/incident/2025/07/08/IEXQVUZECVCFHMR567PXFXXW7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/08/IEXQVUZECVCFHMR567PXFXXW7I/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 07:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZUXLJL6LF53AN7VEN2MZ5B4BJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사상자가 발생한 인천시 계양구 병방동의 한 맨홀 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2명의 사상자가 발생한 인천 계양구 맨홀 사고와 관련, 인천환경공단이 중대재해처벌법 위반 여부를 비롯한 관계기관 조사에 적극 협조하겠다는 입장을 8일 밝혔다. &lt;br&gt;&lt;br&gt;인천환경공단은 이날 설명자료를 통해 ”이번 사고로 피해를 본 분들께 깊은 위로의 말씀을 드린다“며 ”유가족과 환자 가족 지원 등 사고 수습에 최선을 다하겠다“고 했다. &lt;br&gt;&lt;br&gt;이번 사고는 인천환경공단이 발주한 ‘차집관로 GIS(지리정보시스템) DB(데이터베이스) 구축사업’ 추진 과정에서 발생했다. &lt;br&gt;&lt;br&gt;공단은 지난 4월 인천의 한 업체와 2억9780여만원에 용역 계약을 맺고 이번 사업을 진행했다. &lt;br&gt;&lt;br&gt;공단은 당시 ‘발주처 동의 없는 하도급을 금지한다’는 내용을 계약 조건에 포함했다. 그러나 용역업체는 이를 어기고 하도급을 줬고, 이 업체가 또 다른 업체에 재하도급을 맡기는 등 조건이 이행되지 않았다. &lt;br&gt;&lt;br&gt;또 지하 시설물을 탐사하기 위해 맨홀 등에 출입할 경우 필요한 시군구 지하 시설물 관련 부서 승인 절차, 밀폐 공간 작업 시행 계획서 등 근로자 안전 관련 계획서 제출‧승인 의무 등도 지켜지지 않았다고 공단은 설명했다. &lt;br&gt;&lt;br&gt;인천환경공단은 현재 이번 용역을 중지하기로 결정했고, 조사를 거쳐 계약을 해지할 방침이다. &lt;br&gt;&lt;br&gt;이번 사고는 하수도 조사 용역업체의 일용직 근로자 A(52)씨와 대표 B(48)씨가 산소마스크 등 안전 장비를 제대로 갖추지 않은 채 지난 6일 오전 인천시 계양구 병방동 맨홀 안에 들어갔다가 발생했다. &lt;br&gt;&lt;br&gt;유독가스에 질식한 것으로 추정되는 A씨는 하수관 물살에 휩쓸려 실종됐다가 지난 7일 오전 숨진 채 발견됐다. B씨는 사고 직후 심정지 상태로 구조됐으나 의식을 찾지 못한 상황인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰과 노동 당국은 인천환경공단과 도급‧하도급 업체 관계자 등을 상대로 업무상과실치사상 혐의와 중대재해처벌법 위반 혐의 등 적용 여부를 수사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>웃음 필요한 곳 어디든 가는 ‘백발의 마술사’</title>
       <link>https://www.chosun.com/national/national_general/2025/07/08/PRKP7NDOZ5FNNKLSAR4FNWK43Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/08/PRKP7NDOZ5FNNKLSAR4FNWK43Y/</guid>
@@ -852,15 +861,6 @@
       <description/>
       <pubDate>Tue, 08 Jul 2025 07:27:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6IJIAM6VVFK6E7LHRTCRB7V6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숙명여자대학교가 김건희 여사의 교원자격증 취소를 서울시교육청에 공식 요청했다. &lt;br&gt;&lt;br&gt;숙명여대는 8일 교원양성위원회를 열고, 김 여사의 중등학교 정교사 2급 자격 취소를 신청하기로 의결한 뒤 서울시교육청에 관련 공문을 발송했다고 밝혔다. &lt;br&gt;&lt;br&gt;이번 조치는 지난달 23일 숙대 교육대학원 위원회가 김 여사의 석사학위 논문에 대해 학위 취소를 결정한 데 따른 후속 절차다. &lt;br&gt;&lt;br&gt;김 여사는 1999년 숙명여대 교육대학원에서 미술교육 전공으로 석사 학위를 받은 뒤, 이를 바탕으로 중등 정교사 2급 자격증을 취득했다. 교원 자격은 교육대학원 과정 이수만으로도 자동으로 부여된다. 그런데 해당 학위 논문인 ‘파울 클레의 회화적 특성에 관한 연구’가 표절 등 부정행위가 있다는 사유로 지난달 심의를 거쳐 취소됐다. &lt;br&gt;&lt;br&gt;이에 따라 숙명여대는 ‘2025년 교원자격검정 실무편람’에 따라 자격 취소 신청 절차에 착수했다. 교육부 지침에 따르면, 교원 자격증을 수여한 대학의 장은 해당자가 초·중등교육법 제21조의5 제1항 또는 유아교육법 제22조의5 제1항 각 호에 해당할 경우 관할 교육감에게 자격 취소를 신청해야 한다.&lt;br&gt;&lt;br&gt;숙명여대 교원양성위원회는 김 여사가 ‘거짓이나 그 밖의 부정한 방법으로 자격증을 받은 경우’에 해당된다고 판단했다. 이에 따라 자격 취소 신청을 의결한 것이다. 서울시교육청은 절차에 따라 자격 취소를 심의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 尹, 특검서 “강의구에게 사후 계엄선포문 왜 만들었느냐 지적했다” 진술</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/08/U3IWYIT34FGWDOE7TGFTBC4BVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/08/U3IWYIT34FGWDOE7TGFTBC4BVM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 05:44:47 +0000</pubDate>
-      <content:encoded>지난 6일 구속영장이 청구된 윤석열 전 대통령은 두 차례에 걸친 내란 특검의 소환 조사에서 자신의 주요 혐의를 직접 부인한 것으로 전해졌다. 특히 구속영장에 허위공문서작성 등 혐의의 근거로 적시된 ‘사후 계엄선포문 작성’ 의혹에 대해선 “‘대통령부속실이 왜 이걸 만들어 보고하느냐’ 지적했다”고 진술한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5NYKK7ZITV455Y5VCMDCBYIBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 5일 오전 서초구 서울고등검찰청에 마련된 내란특검에서 2차 대면조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면, 윤 전 대통령은 작년 12월 4일 비상계엄이 해제된 후 강의구 전 대통령실 부속실장으로부터 한덕수 전 국무총리, 김용현 전 국방장관의 서명을 받은 &amp;lt;계엄선포문&amp;gt;이라는 제목의 문건을 보고 받았다. 작년 12월 5일 이 문건을 워드로 작성한 강 전 실장은 윤 전 대통령 서명을 받으려고 들어간 자리에서 윤 전 대통령으로부터 “이걸 왜 부속실이 만들었느냐”는 지적을 들었다고 한다. 비상계엄의 주무부서가 국방부인 만큼, 대통령실이 계엄선포문과 관련된 것을 만들어서는 안 된다는 취지다. 윤 전 대통령은 지난 5일 특검의 2차 소환 조사에서 이 같은 전후 사정을 상세히 설명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 한 전 총리로부터도 같은 지적을 받은 강 전 실장은, 자신이 임의로 만든 이 문서가 문제가 될 수 있다고 여겨 별도의 보고를 하지 않고 폐기한 것으로 전해졌다. 강 전 실장은 문서 작성 경위에 대해 비상계엄 당일 배포된 선포문에 별도의 표지가 없는 것을 보고 이를 덮는 ‘겉표지’를 만들었다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 이 사후 계엄선포문이 ‘권한이 없는 자가 착오로 작성한 미완성 문서’라는 입장이다. 유효한 공식 문서가 아닌 만큼 허위공문서 작성 및 행사 혐의는 물론, 폐기한 것에 대한 혐의(대통령기록물법 위반, 공용서류손상)도 성립할 수 없다는 것이다. 또 작성을 지시하거나 폐기를 승인한 적도 없다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RD3O6CAZBZCRJBIVYWD4XTWSJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추경호 국민의힘 원내대표가 작년 12월 4일 국회에서 비공개로 열린 최고위원회의에 참석 하고 있다./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 지난 5일 소환조사 때 특검으로부터 ‘비상계엄 선포 직후 국민의힘 의원들을 당사로 모이도록 해 국회의 비상계엄 해제 의결을 방해하려 한 것 아니냐’라는 취지의 질문도 받은 것으로 전해졌다. 당시 원내대표였던 추경호 의원에게 윤 전 대통령이 전화로 비상계엄 해제 의결을 막아야 한다고 지시한 것 아니냐는 의혹이 근거다. 특검은 윤 전 대통령이 국회 표결을 방해한 혐의가 있다고 보고 있지만, 구속영장 청구서에 이를 담지는 않았다.&lt;br&gt;&lt;br&gt;그러나 윤 전 대통령은 ‘미리 말해주지 못해서 미안하다’라고 말한 뒤 전화를 끊었다고 진술한 것으로 전해졌다. 또 계엄 해제 의결을 방해하는 것은 당시 야당 의석수를 고려하면 불가능하다는 취지로도 진술했다고 한다.&lt;br&gt;&lt;br&gt;추 의원도 앞서 “윤 전 대통령이 비상계엄 발표 내용을 간단히 전하며 ‘미리 얘기하지 못해 미안하다’고 말하며 통화는 짧게 끝났다”며 “계엄 해제안 표결과 관련한 이야기는 없었다”고 밝힌 바 있다. 또 “윤 전 대통령과의 통화 이후 당사에서 국회로 의원총회 장소 변경을 통보하고 국회로 이동했다”며 “계엄선포 계획을 사전에 인지한 바가 없다”고 했다. 계엄선포를 알고 해제 의결을 방해하려 했으면 당사에 계속 머물렀어야 하는데 그러지 않았다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>30도로 끓는 제주 바다... 열대종 ‘만타가오리’가 잡혔다 </title>
