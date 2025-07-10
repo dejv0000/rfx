@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“사건 해결해준다더니”… 잡화점 돈까지 훔친 경찰관 추가 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/07/10/TXIYY4FMX5DWTDYOUIO543RVBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/10/TXIYY4FMX5DWTDYOUIO543RVBQ/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 13:36:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사기 사건을 도와주겠다며 피해자에게서 금품을 받은 혐의로 수사받고 있던 현직 경찰관이 이번엔 절도 혐의로 추가 입건됐다.&lt;br&gt;&lt;br&gt;전남 목포경찰서는 10일 절도 및 사기 혐의로 전남경찰청 소속 30대 A경장을 입건해 조사 중이라고 밝혔다. A경장은 지난해 말 사기 사건 피해자에게 접근해 “사건을 해결해주겠다”며 수천만원을 받아 챙긴 혐의로 이미 수사를 받고 있던 인물이다. 올해 2월 직위해제됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A경장은 이달 6일부터 8일 목포시 죽교동에 있는 한 잡화점에서 3차례에 걸쳐 현금 30여만원을 훔친 혐의를 받고 있다. A경장은 해당 잡화점에서 지난달부터 일용직으로 일해온 것으로 조사됐다. 경찰은 A경장이 점주가 자리를 비운 틈을 이용해 금고에서 돈을 빼낸 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A경장은 자신이 묵고 있던 숙박업소에 투숙비 200만원을 내지 않고, 업주에게 빌린 3000만원도 갚지 않은 혐의도 받고 있다. 경찰은 A경장이 차용한 돈을 도박 자금 등으로 사용한 정황을 포착하고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 수용번호는 ’3617′... 머그샷 찍고 2평 독방으로</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/10/VXFPKHBP7JGEVNNG3BWOGJLFDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/VXFPKHBP7JGEVNNG3BWOGJLFDQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 11:50:17 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 10일 오후 정식 입소 절차를 마치고, 서울구치소 일반 수용동에 들어갔다. 윤 전 대통령의 수용번호는 3617이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDHSW3TBFHQQDDNJZFNAYHDC6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 윤 전 대통령은 이날 오후 6시쯤까지 변호인과 접견한 뒤 입소 절차를 거쳐 2평대 독방으로 이감됐다. 윤 전 대통령은 이름과 주민등록번호 등 인적 사항을 확인한 뒤 정밀 신체 검사를 받았다. 영장실질심사 출석 당시 입었던 남색 양복을 벗고 갈색 미결 수용자복으로 갈아입었다고 한다. 또 수용자 번호 3617을 부여 받고 ‘머그샷’으로 불리는 수용 기록부 사진도 찍었다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 1월 구속 당시 쓰던 방이 아닌 다른 독거실을 배정받았다. 기존 방은 다른 수용자가 사용 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;윤 전 대통령이 머무는 방 내부에는 싱크대를 제외한 관물대, TV, 책상 겸 밥상, 식기, 변기, 선풍기 등이 있는 것으로 전해졌다. 에어컨은 따로 구비돼 있지 않다고 한다. 침대도 없으며 바닥에 이불 등을 깔고 수면하는 방식이다. 현직 대통령 신분으로 구속됐던 지난 1월과 달리, 이번에는 대통령 경호처의 경호도 중단됐다.&lt;br&gt;&lt;br&gt;앞서 법원은 이날 새벽 2시 7분 “증거인멸의 우려가 있다”며 윤 전 대통령에 대한 구속영장을 발부했다. 지난 6일 조은석 내란특검이 직권남용 혐의 등을 적용해 구속영장을 청구한 데 따른 것이다. 윤 전 대통령은 전날 서울중앙지법에서 열린 구속영장 실질심사를 마친 뒤 서울구치소로 이동했고, 이날 오후까지 구인 피의자 거실에 머물러왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“난 절대신의 딸”...방송 청취자 동원해 무속인 감금·폭행한 30대女 구속기소 </title>
+      <link>https://www.chosun.com/national/2025/07/10/VIPCNIIZOJF2JMZQSSAAMMIIUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/10/VIPCNIIZOJF2JMZQSSAAMMIIUU/</guid>
+      <dc:creator>거창=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 12:22:11 +0000</pubDate>
+      <content:encoded>자신을 ‘절대신의 딸’이라 자처하며 인터넷 방송을 하면서 심리적 지배(가스라이팅)를 한 청취자들을 동원해 동료 무속인을 감금·폭행한 무속인이 구속 기소됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REKIVZUEHJHZNIH7KL7Q322WQU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지검 거창지청은 특수강도미수 및 폭력행위 등 처벌에 관한 법률 위반(공동감금) 등의 혐의로 30대 여성 무속인 A씨를 구속 기소했다고 10일 밝혔다. 또 20대 공범 B씨 등 6명은 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해 11월 경남 거창군 한 사무실로 피해자인 50대 무속인 C씨를 불러내 감금·폭행하고 8000만원을 뜯어내려다 미수에 그친 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 인터넷에서 타로점 등으로 오디오 방송을 하는 무속인이다. 그러던 중 자신의 방송을 청취하는 B씨가 C씨에게 점괘를 보고 온 뒤 “신내림을 받아야 한다는 부정적인 이야기를 들었다”는 취지로 말하자, 이를 빌미로 C씨에게 불만을 품고 돈을 편취하기로 마음먹었다.&lt;br&gt;&lt;br&gt; A씨는 B씨와 무속인 C씨의 잘못된 점괘에 대해 따지기 위해 C씨를 찾아갔지만, 경찰이 출동하고 쫓겨나 좋지 못한 감정을 가졌다.&lt;br&gt;&lt;br&gt;A씨는 “몸에 귀신이 붙어서 힘든 일이 계속 일어날 것”이라며 가스라이팅한 충성도 높은 방송 청취자들을 범행에 이용하기로 했다. 잘못된 점괘를 봤으니 C씨에게 단체로 항의해 손해배상 명목으로 돈을 뜯어내자는 것. &lt;br&gt;&lt;br&gt;지난해 11월 A씨 등은 “줄 것이 있다”며 공범 중 한 명이 운영하는 거창의 한 사무실로 C씨를 불러냈다. 이어 약 1시간 30분간 감금한 뒤 함께 폭행했다.&lt;br&gt;&lt;br&gt;이 사건을 조사한 경찰은 당초 B씨 등 공범 2명을 주범으로 보고 구속영장을 신청했지만 법원에서 기각됐다. 경찰은 이후 7명 전원을 검찰에 불구속 기소 의견으로 송치했다. &lt;br&gt;&lt;br&gt;사건을 넘겨받은 검찰은 보완 수사를 하던 중 당초 단순 가담자로 분류된 A씨가 실제로는 점괘 등을 이용해 나머지 공범들을 가스라이팅한 뒤 범행을 지시하고 주도한 것으로 판단해 직접 구속했다. &lt;br&gt;&lt;br&gt;또 A씨가 공범 1명에게 “부모님에게 돈을 맡겨놓으면 다 날아간다”고 속여 4600만원을 뜯어낸 사실도 밝혀냈다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “A씨가 평소 자신의 방송을 듣는 공범들에게 자신을 ‘절대신의 딸’이라고 말하는 식으로 심리적 지배를 이어갔고, 일부는 후원금으로 1000만원씩 보낸 것으로 확인됐다”며 “공범 간 서열을 정해 종속 상태로 만들기도 했다”고 설명했다. 이어 “A씨 등 피고인들에게 죄에 상응하는 처벌이 이루어질 수 있게 공소 유지를 충실히 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“정격 전류 미달 멀티탭, 7분 만에 화재”</title>
+      <link>https://www.chosun.com/national/regional/2025/07/10/DMNNIG5TV5DJTK6YR6F3MSB4RU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/10/DMNNIG5TV5DJTK6YR6F3MSB4RU/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 10:13:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHL6N45I5YURPM2HPUGQWEJMJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 부산소방재난본부에서 진행된 멀티콘센트 발화위험 요인 화재실험 후 소방대원이 불을 끄고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 부산에서 어린 자매가 잇따라 숨진 아파트 화재의 원인이 과전류가 흐른 멀티탭 사용으로 추정되면서 소방 당국이 멀티탭 관련 화재 위험성과 안전한 사용법을 알리는 실험을 했다.&lt;br&gt;&lt;br&gt;부산소방재난본부는 10일 부산 연제구 본부 훈련탑 앞에서 멀티탭 발화 위험 화재 실증 실험에 나섰다.&lt;br&gt;&lt;br&gt;이날 실험은 에어컨 등 전력을 많이 쓰는 기기를 허용할 수 있는 정격 전류가 미만인 콘센트에 꽂았을 때를 가정해 진행됐다. 정격 전류가 10A(암페어)의 멀티탭에 15A 에어컨 1대, 10A 히터 1대 등 플러그 2대를 꽂아 정격 전류를 2.5배 초과하는 상황을 가정했다.&lt;br&gt;&lt;br&gt;실험 결과, 플러그를 꽂은 콘센트 배선은 3분 만에 70도를 넘었고 6분 만에 100도를 웃돌았다. 이어 7분 30초가 채 안 돼 스파크가 튀었고, 콘센트 위에 설치된 면 재질 커튼에 불이 붙었다. 불이 난 당시 배선의 온도는 600도에 육박했다.&lt;br&gt;&lt;br&gt;정격 전류 16A인 대용량 멀티탭도 최대 12A의 전류를 흐르게 하니, 실험 시작 19분 만에 멀티탭 전선 온도가 61도까지 치솟았다. 비교적 정격 전류 규격이 높은 멀티탭도 전선 배치 등 조건에 따라 불이 날 가능성이 있는 것이다.&lt;br&gt;&lt;br&gt;벽면에 설치된 콘센트는 멀티탭과 달리 안정적인 것으로 나타났다. 정격 전류 16A 벽면 콘센트에 최대 25A 전류를 흐르게 했는데도 실험 시작 후 12분쯤 지났을 때 온도는 41도로 측정됐다.&lt;br&gt;&lt;br&gt;부산시 소방재난본부 관계자는 “정격전류가 높은 전자기기는 멀티탭이 아닌 벽면 콘센트에 직접 연결해야 안전하다”며 “멀티탭을 사용할 때는 정격전류 규격이 큰 멀티탭을 사용하되 상태를 수시로 점검하고, 먼지가 쌓였거나 손상되면 즉시 교체해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;지난 2일 자매가 숨진 부산 기장군 아파트 화재는 스탠드형 거실 에어컨과 실외기가 연결된 멀티탭에서 불이 난 것으로 추정된다. 앞서 지난달 24일 또 다른 자매가 숨진 부산진구 아파트 화재도 거실의 콘센트와 연결된 멀티탭에서 발생한 것으로 추정된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“세차해준다더니 차 팔아”… 중고 플랫폼서 차량 3대 훔친 20대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/07/10/F6CGCJV6CFH5HOARRXKHTRR4WY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/10/F6CGCJV6CFH5HOARRXKHTRR4WY/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 10:21:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무료 세차를 해주겠다고 속여 차량을 받아낸 뒤 되팔려던 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;광주 남부경찰서는 중고거래 플랫폼을 악용해 차량을 훔친 혐의(사기·절도)로 A(20대)씨를 구속했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 12일부터 사흘간 광주 서구·남구·북구 등지에서 차주 3명의 차량을 가로채 달아난 혐의를 받는다. A씨는 “무료로 세차해주겠다”는 글을 중고거래 앱에 올려 차주들을 유인한 뒤, 실제로는 차량을 탁송기사에게 맡겨 다른 장소로 이동시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이후 A씨는 차량을 중고차 매매업자에게 되팔려 했으나 시세보다 수백만원 저렴한 가격을 수상히 여긴 업자가 경찰에 신고하면서 덜미를 잡혔다. 경찰은 2개월간의 추적 끝에 지난 8일 광주의 한 주거지에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 추적을 피하기 위해 중고 거래 앱 계정도 수차례 바꿔가며 사용한 것으로 확인됐다. 경찰에 따르면 A씨는 계정을 사고팔며 범행을 이어갔고, 계정 1개당 5만원에서 15만원을 지불한 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산~경남~여수 152km 잇는 해상 국도 ‘청신호’</title>
       <link>https://www.chosun.com/national/2025/07/10/CTWMR6XOABHZZCLMM2MQIGT6PQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/10/CTWMR6XOABHZZCLMM2MQIGT6PQ/</guid>
@@ -867,15 +912,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDSJDOENN5ELDIOED6CKRHGU4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16기 옥순. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 리얼리티 예능프로그램 ‘나는 솔로’ 16기 옥순(이나라‧37)이 9일 혼전 임신 사실을 발표했다. &lt;br&gt;&lt;br&gt;옥순은 이날 자신의 소셜미디어를 통해 아기의 초음파 사진을 공개하며 “한 번의 아픔도 있었지만, 제 마음 한편에는 늘 예쁜 ‘가정’과 멋진 ‘엄마’에 대한 꿈이 자리하고 있었다”며 “정말 감사하게도, 저를 있는 그대로 온전히 사랑해주는 사람을 만나게 되었고, 그 사랑이 단 한 번에 기적이 되었다”고 했다. &lt;br&gt;&lt;br&gt;옥순은 “아직도 실감이 나지 않지만, 매일 제 몸 안에서 새로운 생명이 자라고 있다는 걸 느끼며 설렘과 감사로 하루하루를 보내고 있다”며 “처음 그 소식을 들었을 땐 믿기지 않아 한참을 눈물로 하루를 보냈다. 기쁨, 감동, 놀람, 그리고 벅찬 감사. 그 모든 감정들이 한꺼번에 밀려와서, 그날을 평생 잊을 수 없을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “사실 너무 감사하게도, 한 번에 아기가 찾아와줬다”며 “많은 분들이 임신을 위해 많은 노력을 하고 계신 걸 알기에, 그저 축하만 받기보다 제가 임신을 준비하며 지켜온 작은 습관들과 마음가짐을 함께 나누고 싶다. 이게 ‘정답’은 아니지만, 누군가에게는 작게나마 도움이 될 수 있기를 바란다”고 덧붙였다.&lt;br&gt;&lt;br&gt;옥순은 현재 교제하고 있는 남성에 대한 정보는 공개하지 않았다. &lt;br&gt;&lt;br&gt;한편 16기 옥순은 2023년 ‘나는 솔로’ 돌싱 특집에 출연해 얼굴을 알린 후 현재 인플루언서로 활동 중이다. 방송 당시 전 남편과 2개월 만에 이혼했다고 밝혀 화제가 된 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산대, 환태평양 명문대들과 어깨 나란히... “국제 교류 확대”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/09/CJC2VMMKRBD6ZORLQN6PBTGHJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/CJC2VMMKRBD6ZORLQN6PBTGHJA/</guid>
-      <dc:creator>부산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 10:13:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UCKGGW5DBCPJHBGCCZNUASV54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최재원 부산대 총장(오른쪽 네번째)과 대학 관계자들이 지난 달 영국 스트래스클라이드대학교를 방문해 이 대학 연구기관인 AFRC 등을 설립한 키스 리지웨이 교수(오른쪽 세번째)와 기념 촬영을 하고 있다. /부산대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산대는 9일 지난달 22일부터 24일까지 3일간 미국 샌디에이고에서 열린 ’2025 환태평양대학협회(APRU) 총장 연례회의’에 참석해 명문 대학들과 각종 네트워크를 강화했다고 밝혔다.&lt;br&gt;&lt;br&gt;환태평양대학협회(APRU, Association of Pacific Rim Universities)는 아시아·태평양 지역을 대표하는 62개 대학 협의체다. 부산대는 지난 2021년 서울대·고려대·연세대·카이스트·포스텍에 이어 국내 여섯째로 가입했다.&lt;br&gt;&lt;br&gt;미국 UC샌디에이고에서 열린 이번 연례회의는 ‘변화하는 세계 속 인간 수명: 회복력 있는 미래를 위한 혁신, 교육, 리더십’을 주제로 마련됐다. 건강 수명에 대한 불평등·기술·정치적 과제에 대한 대학의 역할을 논의하는 자리로, 부산대를 비롯해 UCLA, UC샌디에이고, 미시간대, 싱가포르국립대, 게이오대 등 세계 유수 대학들이 참석했다.&lt;br&gt;&lt;br&gt;부산대는 이번 APRU 연례회의를 계기로 미주 대륙 전역을 아우르는 전략적 MOU를 확대하는 한편 글로벌 거점 대학으로 도약하기 위한 기반을 다질 계획이다.&lt;br&gt;&lt;br&gt;북미에서는 미국의 UC샌타크루즈, 오리건대, 서던캘리포니아대, 캐나다 사이먼프레이저대와 앨버타대와 MOU를 체결하기로 합의하는 등 전략적 파트너십을 구축할 전망이다.&lt;br&gt;&lt;br&gt;중남미에서는 멕시코 몬테레이공과대와 에콰도르 산프란시스코 데 키토대, 칠레대, 콘셉시온대와 협력하기로 했다. 특히 남미 대학들은 지질·해양·생물 등 부산대의 특화 분야와도 연계해 공동 연구와 교환 프로그램으로 이어지는 실질적 협력이 기대된다.&lt;br&gt;&lt;br&gt;영국에서는 조선해양 분야 세계 최정상급 대학인 스트래스클라이드대와 노벨상 6명을 배출한 셰필드대 등과 협약을 맺었다.&lt;br&gt;&lt;br&gt;최재원 부산대 총장은 “이번 명문 대학들과의 네트워크 확대는 단순한 교류를 넘어 우수 유학생 유치와 국제 공동 연구에도 도움이 될 것”이라며 “부산대가 글로벌 대학으로 한층 성장하는 계기가 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹 구속영장심사 휴정…저녁 식사한 뒤 오후 8시 재개</title>
       <link>https://www.chosun.com/national/court_law/2025/07/09/6AENQE2NYFFF7KROOGP5IQHICI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/6AENQE2NYFFF7KROOGP5IQHICI/</guid>
@@ -892,24 +928,6 @@
       <description/>
       <pubDate>Wed, 09 Jul 2025 09:31:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QZO777Q4LBGHWKDCBWDEGWODS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;철도 기관사 출신 김영훈 고용노동부 장관 후보자가 지난달 24일 오후 서울 중구 서울지방고용노동청 인사청문회 준비 사무실로 출근하며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관 후보자가 음주운전으로 벌금 70만원을 낸 것으로 9일 나타났다.&lt;br&gt;&lt;br&gt;김 후보자가 국회에 제출한 인사청문회 요구 자료에 따르면, 김 후보자는 1994년 2월 15일 혈중 알코올 농도 0.08%인 상태로 부산시 남구 대연동에서 부산시 동구 범일동까지 운전을 한 혐의(도로교통법 위반)로 벌금 70만원을 처분 받았다.&lt;br&gt;&lt;br&gt;이와 관련해 김 후보자는 “어린 시절 큰 잘못을 해 깊이 반성하고 있다”며 “그 이후로는 그런 일이 없었고 앞으로 더욱 처신에 주의하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 후보자가 자신과 가족 명의로 신고한 자산은 총 12억1500만원인 것으로 파악됐다. 김 후보자 명의 재산은 부산 부산진구 양정동 아파트(약 3억5000만원)과 경남 창원 마산합포구 단독주택(약 2억1400만원), 2006년식 재규어(약 430만원) 등 총 10억3400만원 규모다.&lt;br&gt;&lt;br&gt;또 김 후보자는 주 4.5일제에 대해서 “일률적인 주 4.5일제 추진은 부작용이 있을 수 있다”며 “AI 등 기술 혁신으로 불필요한 업무 축소, 업무 프로세스 개선 등으로 생산성이 향상된다면 임금 감소 없이 주 4.5일제 도입이 가능할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘체온이 무려 42도’...부여서 밭일하던 70대 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/09/2IYYP2AJEFDLHMQQPIOCLKCPR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/09/2IYYP2AJEFDLHMQQPIOCLKCPR4/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 08:21:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QS7YKGS5BFNXLKNB6ZMOLZYV7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 남산에서 도심을 열화상카메라로 촬영한 모습. 온도가 높을수록 붉은색으로 보인다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더위 속 충남 부여에서 밭일을 하던 70대 여성이 쓰러져 사흘 만에 숨을 거뒀다. 올해 충남 온열질환 사망자는 2명으로 늘었다.&lt;br&gt;&lt;br&gt;충남도는 지난 5일 오후 2시 8분쯤 부여군에서 밭일을 하던 A(여·76)씨가 쓰러져 병원으로 옮겨졌지만 사흘 만인 지난 7일 숨졌다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨가 밭일을 하던 당시 부여군에는 폭염경보가 내려져 있었다. A씨의 체온은 42도에 달했고, 의료진은 열사병으로 숨진 것으로 보고 있다.&lt;br&gt;&lt;br&gt;충남에서는 지난 8일 오후 1시 26분쯤 공주에서 논일하던 B(96)씨가 열사병으로 숨졌다. 올해에만 2명이 온열질환으로 숨진 것이다.&lt;br&gt;&lt;br&gt;지난 8일 서산 고북면의 한 논에서는 B(86)씨가 숨진 채 발견돼 열사병을 의심했지만, 의료진은 온열질환으로 인한 사망은 아닌 것으로 판단했다.&lt;br&gt;&lt;br&gt;충남에서는 8일까지 51명(사망자 2명 포함)의 온열질환자가 발생했다. 특히 충남지역 사망자 2명이 모두 야외에서 논·밭일을 하다 숨진 것으로 나타나면서 폭염이 극에 달하는 한낮에는 농작업을 자제해야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면 온열질환 감시체계를 가동한 2011년 이후 지난해까지 온열질환으로 사망한 사람 중 65.5％는 60세 이상이다. 발생 장소는 논밭이 31.9％로 가장 많다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벌써 28도 육박...경남 연안 올해 첫 ‘고수온 주의보’ 발령 </title>
-      <link>https://www.chosun.com/national/2025/07/09/Q3TFQ52WBRGOJFI622TENXML4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/09/Q3TFQ52WBRGOJFI622TENXML4Y/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 08:08:16 +0000</pubDate>
-      <content:encoded>유난히 짧았던 장마와 이른 폭염으로 바다도 점차 뜨거워지고 있다. 경남 남해안에서는 역대 최악으로 기록된 지난해보다 고수온 주의보가 3주 이상 빨리 발령됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UD2MTOLAEGMXFKPCRXFUUTHUZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고수온 특보 발표 해역도. /국립수산과학원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립수산과학원은 9일 오전 9시부터 경남 사천만·강진만 해역에 올해 첫 고수온 주의보를 발령했다. 이곳을 제외한 경남 전 해역에는 고수온 예비특보가 내려졌다. 고수온 주의보는 수온이 28도에 도달했거나, 도달할 것으로 예상될 때 발령된다. 고수온 예비특보는 수온이 25도까지 오를 것으로 예상될 때 발령된다.&lt;br&gt;&lt;br&gt;지난해 첫 주의보 발령 시기와 비교해 24일 빠르다. 전날 기준 사천만은 평균 수온이 27.8도, 강진만은 27도까지 올랐다. &lt;br&gt;&lt;br&gt;올해는 유난히 장마가 일찍 끝나고, 이어 폭염이 찾아오면서 수온이 계속 오를 것으로 우려된다. 국립수산과학원도 올여름 바다 표층 수온이 평년(1991~2020년 평균값)보다 1도 가량 높을 것으로 예측했다. &lt;br&gt;&lt;br&gt;바다가 점점 뜨거워지면서 남해안 양식장 등은 비상이다. &lt;br&gt;&lt;br&gt;지난해 경남에서는 8월 초부터 10월 초까지 고수온 특보가 62일간 이어지며 역대 최대인 660억원의 재산 피해가 발생했다. 이 기간 경남 연안의 수온은 적도 부근과 비슷한 30도까지 올랐다. 전국적으로도 고수온 현상이 9월 하순까지 이어지면서 양식생물 피해액은 1430억원에 달했다. 이는 2012년 이후 최대 규모다. &lt;br&gt;&lt;br&gt;높아진 수온에 벌써부터 바다에서는 이상 조짐이 보이고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F63RWS5EUZBD5FRSNWA6US55YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 고성군 앞바다가 뜨거워지면서 보름달물해파리가 대거 출현하고 있다. 이곳에서 멸치잡이를 하는 어민 정동일씨가 건져낸 해파리. /정동일씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 고성군 자란만에서는 어민들이 던지는 그물에 족족 물컹물컹한 보름달물해파리만 잡히고 있다. 어민들 사이에선 “물 반, 해파리 반이다”라는 말이 나온다. 바다에는 젤리 같은 해파리로 가득한 상태다. 보름달물해파리는 높은 수온에 대량 증식한다. &lt;br&gt;&lt;br&gt;자란만에서 이 시기 4.5t 선박으로 멸치를 잡는다는 어민 정동일씨가 하루에 건져 올리는 해파리만 60kg 상자로 수백통이라고 한다. 해파리가 바다를 점령하면서 다른 물고기는 씨가 말랐다. 정씨는 “25년간 조업을 했지만 해파리가 이렇게 많은 것은 처음이다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJXYOHS4QZCH3KXZFEQQ7CDKKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 고성군 앞바다가 뜨거워지면서 보름달물해파리가 대거 출현하고 있다. 이곳에서 멸치잡이를 하는 어민 정동일씨가 건져낸 해파리. /정동일씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립수산과학원은 “이곳 바다 수온이 급상승한데다 먹이량도 풍부해지는 등 복잡한 요인으로 해파리가 증가한 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;경남도는 대책상황실을 가동해 시·군별 피해 현황 등 고수온 상황 관리에 들어갔다. 연안에 위치한 시·군과 현장지도반을 편성해 사료 공급 중단, 차광막 설치, 조기 출하 등으로 양식장 피해 최소화에 나설 예정이다. &lt;br&gt;&lt;br&gt;국립수산과학원이 이날 서·남해 내만과 일부 연안 및 제주 연안에 고수온 주의보를 발표하자, 해양수산부도 고수온 위기경보를 ‘주의’단계에서 ‘경계’로 상향했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 서구 아파트서 염소 액체 누출…11명 병원 이송</title>
@@ -938,24 +956,6 @@
       <pubDate>Wed, 09 Jul 2025 05:20:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7DOVMAVDJGGRLPA4SPO674RVI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 세종시 나성동 한 도로에서 앞차를 들이받고도 150m가량 주행을 이어간 버스기사가 경찰에 입건됐다. /세종시청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시에서 앞차를 들이받은 뒤에도 멈추지 않고 150m가량을 주행한 버스기사가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;세종남부경찰서는 뺑소니 혐의(특정범죄 가중처벌 등에 관한 법률상 도주치상)로 전직 버스기사 60대 A씨를 입건해 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;세종 지역 시내버스 기사였던 A씨는 지난달 16일 세종시 나성동 한 도로를 주행하다 앞에서 신호대기 중이던 SUV 뒤를 들이받았다. A씨는 버스를 멈추지 않고 앞차를 밀고 나가며 그대로 150m를 더 주행했다. &lt;br&gt;&lt;br&gt;신호 위반까지 하며 주행을 이어가던 A씨는 승객들의 항의 끝에 버스를 멈췄다. &lt;br&gt;&lt;br&gt;이 사고로 SUV 운전자가 병원에 일주일간 입원해 치료받았다. 승객들은 다치지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “당시 기억이 없다. 사고 난 것을 인지하지 못했다”고 진술했다고 한다. A씨는 음주 및 약물운전, 졸음운전을 하지는 않았던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;사고 이후 A씨는 버스회사로부터 권고사직을 받아 지금은 퇴사한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현장에서 사고 이후 조치가 원활하게 이뤄지지 않았기 때문에 뺑소니 혐의를 적용했다”며 “A씨가 건강상 문제가 있었다고 주장하거나 관련 자료를 제출한 것은 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4JMMJLCZ5ND7FPFR227Z7PDWHE.gif?auth=1b4357d75b0a4686a1525cb71fd2e201566ec6495851219fd0e4aa93ef173cdf&amp;smart=true&amp;width=460&amp;height=258" type="image/jpeg" height="258" width="460"/>
-    </item>
-    <item>
-      <title>썸남썸녀였는데... 사생활 폭로전 피해 ‘나솔 16기’ 상철 “올바른 판결 감사”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/09/AGJKKZQQXJE7RJQ7TABYL6BPAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/AGJKKZQQXJE7RJQ7TABYL6BPAQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 05:33:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGZGMKIJU5DPNH2BTRQRWN67EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SBS플러스 '나는 솔로' 16기 상철./ SBS플러스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 폭로전 끝에 명예훼손 등 혐의로 재판에 넘겨진 연예프로그램 ‘나는 솔로’ 출연진이 벌금형을 선고 받은 가운데, 이번 사건 피해자인 16기 상철(가명)이 입장을 밝혔다.&lt;br&gt;&lt;br&gt;‘나는 솔로’ 16기에 상철로 출연한 강모씨는 9일 인스타그램에 관련 기사를 캡처해 올리며 “그동안 믿고 응원해 주신 분들께 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;상철은 “이 사건을 목격하고 지켜본 모든 분과 특히 2차 피해를 보신 분들에게 ‘법이 제대로 작동하고 있다’라는 안심과 위로가 됐으면 한다”며 “올바른 판결 내려주신 재판부에도 감사드리고 항상 인내를 가지고 정의롭게 저를 대변 해주고 이끌어 주신 변호사님께 깊은 감사를 드린다”고 했다. &lt;br&gt;&lt;br&gt;상철은 그러면서 “변호사님과 저는 아직 할 일이 남아있으니 끝까지 응원부탁드린다”고 했다. &lt;br&gt;&lt;br&gt;이 진흙탕 싸움의 주인공은 ‘나는 솔로’ 16기에 출연한 상철과 영숙이다. 두 사람은 방송에서 러브 라인을 형성했으나 2023년 방송이 끝난 뒤 소셜미디어로 사생활 폭로전을 벌이며 화제가 됐다. 당시 영숙은 상철과 주고받은 음란 메시지를 공개하거나 상철의 여자 문제를 폭로했다. 이에 상철은 법적 대응을 예고한 바 있다.&lt;br&gt;&lt;br&gt;이날 대구지법 제10형사단독 허정인 부장판사는 정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 등 혐의로 기소된 영숙에게 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;영숙은 2023년 12일 상철에 대해 ‘나와 교제 중 다른 여성과 성관계했다’는 글과 대화 내용을 편집하지 않은 채 자신의 소셜미디어에 올린 혐의를 받는다. &lt;br&gt;&lt;br&gt;재판 과정에서 영숙은 “상철에 의해 성적 피해를 입은 한 사림으로서, 다른 피해 여성들이 억울하게 오해를 받지 않도록 그의 실체를 알리려 했다. 공공의 이익을 위한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “피고인과 피해자는 방송 출연을 통해 인지도가 있는 일반인”이라며 “관련 내용이 공적 관심사라고 보기 어렵다”고 했다. 이어 “피해자의 사적인 내용을 공개적으로 올리는 것은 사회상규상 허용될 수 없다”며 “도덕적 비난을 넘어 파급력이 큰 매체를 통해 피해자의 사생활을 폭로하는 것은 옳지 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤중 지인 다세대주택 공동현관 방화…40대男 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/07/09/XC3GXSLKAVGZXNLH66AV4J2US4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/09/XC3GXSLKAVGZXNLH66AV4J2US4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 05:27:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOC6TZOS4EYZEOBA5T56LAEXBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 술에 취해 지인이 사는 다세대주택 현관문에 불을 지른 40대 남성이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 현주건조물방화미수 등 혐의로 40대 A씨를 구속했다고 9일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 5월 28일 오전 1시 30분쯤 인천시 미추홀구 문학동의 한 다세대 주택 1층 현관문 앞에서 불을 지른 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 지인인 50대 남성 B씨가 사는 다세대주택 현관문 앞에 쓰레기 더미를 가져다 놓은 뒤, 불을 지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 불로 인명 피해는 없었으나 현관문 등이 일부 그을린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “술에 취해 기억이 나지 않는다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 또 지난 5월 같은 다세대 주택 인근에 주차된 50대 B씨의 오토바이를 파손한 혐의도 받는다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 B씨와 갈등 관계에 있었는지를 비롯해 범행동기 등을 추가로 조사해 검찰에 송치할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] ‘재구속 기로’ 尹 법원 도착...곧 영장실질심사</title>
