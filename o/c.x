@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 법원 “법무부, ‘윤 사단은 하나회’ 발언한 이성윤 검사 해임은 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/10/4MACOKZ3GZHUFKLMYLD5FIGNRY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/4MACOKZ3GZHUFKLMYLD5FIGNRY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 05:12:07 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] NCT 전 멤버 태일, ‘특수준강간 혐의’ 1심서 징역 3년 6개월…법정 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/10/V2CAPQG62VERXFU2PGDHIGEW34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/V2CAPQG62VERXFU2PGDHIGEW34/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 05:09:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LM7HZCU7IZB5HAYXWGNWIMCODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;NCT 전 멤버 태일 / 스포츠조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“감귤들, 지옥 보여줄 것”…의사 커뮤니티서 복귀 의대생에 보복 예고</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/10/U6MEDT3ZRRDRXBG7UYAKFBEYN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/U6MEDT3ZRRDRXBG7UYAKFBEYN4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:59:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3MQ4P4LKFC5FFBJAOGCNB7444.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의사·의대생 온라인 커뮤니티에 올라온 글. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정 갈등 해소를 위한 이재명 정부와 의사 단체 간 대화가 시작된 가운데 의사·의대생 온라인 커뮤니티에 먼저 복귀한 전공의·의대생들에 대한 보복을 예고하는 글이 잇따라 올라오고 있어 논란이다.&lt;br&gt;&lt;br&gt;10일 각종 온라인 커뮤니티에는 의사나 의대생이라는 사실을 인증해야 접속할 수 있는 의사·의대생 온라인 커뮤니티에 올라온 보복 예고글 캡처 사진이 게재됐다. &lt;br&gt;&lt;br&gt;공개된 사진을 보면 의사나 의대생으로 추정되는 네티즌들은 먼저 복귀한 전공의·의대생 등을 ‘감귤’로 지칭하며 의정 갈등이 해소돼 복귀하면 보복하겠다는 내용의 글을 다수 올렸다. 감귤은 ‘감사한 의사’라는 말에서 유래한 것으로, 복귀 전공의 등을 비꼬는 말로 쓰이고 있다.&lt;br&gt;&lt;br&gt;한 네티즌은 “감귤들아 우리가 간다”며 “돌아가면 너희들 성폭행해버린다”고 했고, 또 다른 네티즌은 “감귤들 기대해라 지옥이 뭔지 보여준다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ4A65HBABGHNATDKHQ5U6BSIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의사·의대생 온라인 커뮤니티에 올라온 글. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이외에도 “복귀하더라도 먼저 기어 들어간 감귤은 기수 열외 시킨다” “감귤들은 자살해도 된다” “감귤들 투명인간 취급 재밌겠다” “감귤 척결은 시대정신이다” “너희들을 사람 취급 해줄 것 같냐” 등의 보복 예고글이 올라왔다. &lt;br&gt;&lt;br&gt;이재명 대통령이 의정 갈등 해소를 주문한 가운데 김민석 국무총리는 취임 첫날인 지난 7일 의료계를 만나 전공의·의대생 복귀 방안 등을 논의했다. 보건복지부 차관도 대한의사협회를 찾아 의료 정상화 방안 등에 대해 의견을 수렴했다.&lt;br&gt;&lt;br&gt;정부와 의료계의 대화가 속도를 내면서 조만간 의대생과 전공의 복귀가 이뤄질 것이란 기대가 커지고 있다.&lt;br&gt;&lt;br&gt;이와 관련 의료계 안팎에서는 조기에 복귀한 의대생과 전공의들을 보호할 수 있는 대책이 필요하다는 목소리가 나오고 있다. &lt;br&gt;&lt;br&gt;한편 의사·의대생 커뮤니티에서는 의정갈등 사태가 벌어진 후 먼저 복귀한 전공의·의대생들에 대한 ‘신상털기’와 ‘조리돌림’이 이어져왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산책하던 시민 물려 골절까지… 하남서 피해 속출한 ‘이 동물’ 공격 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/10/E7BIKPRSMRF2XHIBPDXV5IPVUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/E7BIKPRSMRF2XHIBPDXV5IPVUQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:59:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE7CVKNLCJETDMOUNLUSC4OE34.png"&gt;&lt;figcaption&gt;&lt;small&gt;유해야생동물피해방지단이 수렵견을 동원해 오소리 출몰 지역을 순찰하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 하남시 위례신도시 내 오소리 출몰로 인한 시민 피해가 잇달아 발생하자, 시는 수렵견을 동반한 순찰 활동을 진행하기로 했다. &lt;br&gt;&lt;br&gt;10일 하남시에 따르면, 위례신도시에서는 작년 7월부터 현재까지 5차례에 걸쳐 오소리가 출몰했다. 출몰 당시 산책 중이던 시민 13명이 오소리 공격으로 상처를 입었으며, 특히 이 중 한 명은 골절 수술을 받았다. 10명은 파상풍, 면역글로불린 접종 등의 치료를 받았다. &lt;br&gt;&lt;br&gt;시는 오소리를 포획해 광견병 검사를 거쳐 ‘이상 없음’ 판정을 확인한 뒤 시에서 떨어진 대체 서식지에 방사했다. 시는 “오소리는 ‘야생생물 보호 및 관리에 관한 법률’에 따라 원칙적으로 포획이 금지된 동물이지만, 시민의 생명과 안전을 최우선에 두고 긴급 포획을 결정했다”고 밝혔다. &lt;br&gt;&lt;br&gt;도심에 출몰하는 오소리의 주요 서식지는 성남골프코스와 인근 아파트 외곽 지역으로 파악됐다. 시는 이 지역들을 중심으로 포획틀 3개와 트랩 7개를 설치하고 모니터링을 이어가고 있다. 오소리가 야행성 동물이라는 점을 고려해 오후 8~10시 사이 수렵견을 동반한 순찰도 진행 중이다. 순찰은 우선 31일까지 실시한다. &lt;br&gt;&lt;br&gt;아울러 시는 지난달 19일 오소리를 유해 야생 동물로 지정해 줄 것을 환경부에 정식으로 건의했다. 현재 오소리는 너구리와 마찬가지로 유해 동물로 지정되진 않아 포획하거나 사살하는 건 불법이다. 시는 “유해 동물로 지정될 경우 인명 피해 발생 전 보다 적극적인 포획 조치가 가능해질 것으로 기대된다”며 “인명 피해 예방 시설이 국비·시비 지원 대상에 포함될 수 있도록 관련 고시 개정을 함께 건의했다”고 했다. &lt;br&gt;&lt;br&gt;시 관계자는 “오소리는 굴을 파는 습성으로 기존 울타리 방식으로는 한계가 있어 실효성 있는 맞춤형 예방 시설 도입이 필요하다”며 “시민 피해를 막기 위해 포획 활동을 지속하는 한편, 오소리 개체 수·서식지·이동 경로 등에 대한 정식 조사를 실시해 중장기적 예방 대책도 마련하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이철규 의원 아들도 며느리도 마약” 검찰 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/10/ODU2KWU555EG3NESTFC27OGNVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/ODU2KWU555EG3NESTFC27OGNVY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:45:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUOMAWH5BNJ67NSZCH5NZPIA3A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들 이 모씨가 지난 4월 23일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)을 마친 뒤 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘합성 대마’ 투약 혐의로 구속 기소된 이철규 국민의힘 의원 아들 부부에게 징역형을 구형했다. 이들에 대한 1심 선고는 오는 8월 18일 내려진다.&lt;br&gt;&lt;br&gt;10일 서울중앙지법 형사36부(재판장 이정엽)에서 열린 이씨 부부의 마약류관리법 위반 사건 결심 공판에서 검찰은 이 의원 아들 이씨에게 징역 5년을, 이씨 아내 임씨에게 징역 3년을 내려 달라고 요청했다. 이씨에게 마약을 판매한 혐의로 불구속 기소된 중학교 동창 정모씨와 이씨 군대 선임인 권모씨에게도 각각 징역 5년을 구형했다. 또 이씨에게 572만원, 정씨에게 623만원을 추징해달라고도 했다.&lt;br&gt;&lt;br&gt;이씨 등은 이날 모든 혐의를 인정했다. 이씨는 최후 진술에서 “무슨 일이 있어도 생각조차 하면 안 되는 마약으로 스스로를 망가뜨렸다”고 말했다. 이어 “부모님께 누를 끼쳐드렸고 아비로서 옆에서 돌봐주지 못하는 아들에게는 너무 큰 아픔을 남겨준 것 아닌지 걱정”이라며 눈물을 훔치기도 했다. &lt;br&gt;&lt;br&gt;이씨는 “죄가 결코 가볍지 않다는 사실을 잘 알고 있지만 나중에 인생을 돌아봤을 때 더 후회하지 않도록 한 번만 기회를 주시면 봉사와 같은 좋은 일 많이 하며 올바르게 살겠다”고 했다. &lt;br&gt;&lt;br&gt;이씨 아내 임씨도 종이에 적어 온 최후 진술을 읽고 “어떤 변명도 하지 않겠다”고 했다. 임씨는 “두 번 다시 실수를 반복하지 않겠다고 다짐했다”며 “약물을 단절하고 살기 위해 노력하면서 흔들림 없이 버텨오고 있고 상담과 치료도 받겠다”고 말했다.&lt;br&gt;&lt;br&gt;네 사람은 지난해 10월부터 올 2월까지 합성대마를 두 차례 걸쳐 구매하고 3번에 나눠 사용한 혐의를 받는다. 액상대마 등 마약류를 수 차례 사려다 미수에 그친 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 “소비쿠폰 관련, 인터넷 주소 포함한 문자는 100% 사기”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/10/GQXUYOHL25CF3NYSQSCFDZNKSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/GQXUYOHL25CF3NYSQSCFDZNKSM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:37:53 +0000</pubDate>
+      <content:encoded>정부가 오는 21일부터 시작되는 ‘민생회복 소비쿠폰’ 지급을 틈탄 스미싱 사기 주의보를 내렸다. 범죄 조직들이 소비쿠폰 지급을 빌미로, 정부·카드사·은행 등을 사칭해 접속하면 자동으로 악성 앱이 설치되는 홈페이지 접속을 유도하는 문자메시지를 대량 살포할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/227CBEIB7FAPHBJSHFE43LNRTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;정부가 10일 배포한 민생회복 소비쿠폰 관련 스미싱 주의 안내문. /한국인터넷진흥원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 이를 막기 위해 소비쿠폰 관련 안내 문자메시지에 인터넷 주소를 일절 포함시키지 않겠다는 계획이다. 소비쿠폰 지급을 신청하려는 이용자는 카드사나 지역사랑상품권 홈페이지나 앱을 통해 온라인으로 신청하거나 은행·주민센터를 직접 방문해 신청해야 하는데, 온라인 신청 시 문자메시지를 통한 홈페이지 접속 안내는 하지 않겠다는 것이다. 정부 관계자는 “소비쿠폰 관련 문자메시지에 인터넷 링크가 포함된 것은 100% 사기”라고 했다. &lt;br&gt;&lt;br&gt;정부는 이와 함께 소비쿠폰 지급을 온라인으로 신청하는 홈페이지에 스미싱 주의 안내 문구를 포함시키고, 은행이나 주민센터에서 방문 신청을 하려는 고령층 등 디지털 취약 계층을 위해서도 스미싱 주의 안내를 같이 진행할 계획이다. 또 14일부터 각 통신사 명의로 스미싱 피해 예방을 안내하는 문자메시지를 순차적으로 발송할 계획이다. 이와 함께 네이버·카카오·토스 등 17개 기업이 제공하는 국민 비서 알림 서비스를 통해서도 스미싱 주의 메시지를 안내하고, 금융감독원·경찰청·한국인터넷진흥원(KISA)을 통해 스미싱 발생 및 신고 현황 감시도 강화하기로 했다.&lt;br&gt;&lt;br&gt;정부는 “소비 쿠폰과 관련돼 의심스러운 문자를 받았다고 판단되는 경우 클릭하지 말고 바로 삭제하고, 문자를 열람했다면 문자 내 인터넷 주소를 절대 터치하지 않아야 한다”고 했다. 스미싱 의심 문자를 받았거나 문자메시지에 포함된 인터넷 주소를 클릭해 악성 앱 감염이 의심되는 경우, 24시간 운영되는 KISA의 118 상담센터(전화번호 118)에서 상담을 받을 수 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹탄핵 퇴진 집회서 경찰관 폭행... 민노총 집행부 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/07/10/7FR2P7LL7FHXFG2DSMACR2Y2Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/10/7FR2P7LL7FHXFG2DSMACR2Y2Q4/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:22:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWTIJ4X67NISNMSJRTAG6XKVYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 4일 오후 양경수 민주노총 위원장(앞줄 왼쪽에서 네 번째) 등이 서울 세종문화회관 앞에서 '11월 9일 윤석열 정권 1차 퇴진총궐기 선포 기자회견'을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 작년 11월 민주노총과 윤석열정권퇴진운동본부 등이 주최한 ‘윤석열 정권 퇴진 집회’에서 민주노총 조합원들이 경찰관들을 폭행한 사건과 관련해 양경수 민주노총 위원장과 집행부 일부를 지난달 18일 경찰에 불구속 송치했다. &lt;br&gt;&lt;br&gt;양 위원장에는 집시법 위반과 일반교통방해 혐의, 집행부 6명에는 일반교통방해 혐의 등이 적용됐다. 경찰에 따르면 이들은 이날 오후 4시 5분쯤 덕수궁 대한문 인근에서 열린 ‘전국노동자대회·1차 퇴진 총궐기 대회’에서 5개 차로를 점령한 채 ‘폭력 경찰 물러나라’를 외치고 방패와 철제 팬스를 든 경찰을 수차례 민 혐의를 받는다. 이들은 경찰차 전면 유리 등을 손으로 치기도 했다. &lt;br&gt;&lt;br&gt;경찰이 안전과 교통 통제를 위해 펜스를 추가로 설치하자, 일부 참가자들은 경찰을 향해 “폭력 경찰은 물러가라”고 말했다. 대화에 나선 경찰들이 “신고 구역을 넘어섰고, 협조에 요청해달라”고 했지만, 일부 과격 시위대들이 다시 한번 충돌하며 긴장 수위가 높아졌다. 집회 곳곳에서 과격한 충돌이 이어지며 구급차가 출동하기도 했다. 당시 경찰은 집회 참가자 11명을 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;민주노총 측은 경찰의 송치 결정에 대해 “전국노동자대회는 내란수괴 윤석열의 반 노동정책에 맞선, 노동자의 정당한 투쟁이었다”며 “민주주의를 지켜낸 투쟁에 나섰던 노동자들에 대한 수사를 중단해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부울경 1시간 생활권’ 부산~양산~울산 광역철도 사업, 예타 통과</title>
+      <link>https://www.chosun.com/national/regional/2025/07/10/BYCZ4Q5YINEDZJPZNX5KA4RUK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/10/BYCZ4Q5YINEDZJPZNX5KA4RUK4/</guid>
+      <dc:creator>울산=김주영 기자, 창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:52:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CR7BLDS3FBZ7AGFRCVMWPDQ3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;부울경 광역철도 노선도. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 노포동에서 울산 무거동까지 30분 만에 갈 수 있는 부산~양산~울산 광역철도 건설이 확정됐다. 비수도권 최초의 광역철도로, 부울경 메가시티의 핵심 기반이 될 전망이다.&lt;br&gt;&lt;br&gt;부울경 3개 시·도는 10일 “국토교통부와 추진한 부울경 광역철도 사업이 이날 기획재정부의 예비타당성조사를 통과하며 최종 확정됐다”고 밝혔다. 예비타당성 조사는 대규모 국가 예산이 투입되는 사업의 경제성과 정책성 등을 분석하는 조사다. 예타 조사를 통과해야 정부 부처에서 예산 확보에 나서는 등 사업이 본격적으로 추진된다.&lt;br&gt;&lt;br&gt;부산~양산~울산 광역철도는 부산 노포역에서 월평, 양산 웅상, 울산 무거동을 거쳐 울산KTX역까지 11개 정거장을 잇는다. 총 길이 48.8km 노선으로, 2조5475억 원을 들여 2031년 개통될 예정이다.&lt;br&gt;&lt;br&gt;전 구간의 운행 시간은 약 45분으로, 하루 35회 운행될 예정이다. 경전철(AGT) 차량이 도입된다.&lt;br&gt;&lt;br&gt;이 철도가 개통하면 부산 노포에서 양산 웅상까지 10분대, 울산 신복 정거장까지는 30분대로 이동할 수 있다. 노포에서 울산 KTX역까지도 50분대로 갈 수 있다. 동해선과 향후 개통 예정인 부전마산선 등과 함께 부울경이 1시간 내 생활권으로 조성되는 것이다.&lt;br&gt;&lt;br&gt;이 철도는 다양한 지역 노선과도 연결된다. &lt;br&gt;&lt;br&gt;KTX울산역~무거 구간은 셔틀형 열차로 별도 1일 16회가 추가돼 총 51회가 운행된다. 배차 간격은 15~20분, 소요 시간은 15분 안팎이다. 광역철도는 트램 1호선 종점인 무거동 신복 정거장과 직접 연결돼 도심과 외부를 잇는 철도 중심 교통체계가 본격화될 전망이다.&lt;br&gt;&lt;br&gt;부산 종점인 노포역에서는 부산도시철도 1호선(노포역)과 연결되며, 노포역에서 양산시청을 잇는 양산선은 현재 공사 중이다. 부산 월평역에선 기장군을 가로지르는 정관선도 계획하고 있다.&lt;br&gt;&lt;br&gt;부울경은 이번 철도 개통이 지역경제 활성화에도 도움이 될 것으로 보고 있다. 건설·운영 과정에서 약 5만명의 고용 창출이 예상되며, 역세권 중심 도시재생과 상권 활성화에도 긍정적 영향이 예상된다.&lt;br&gt;&lt;br&gt;부울경은 2027년까지 기본계획 및 설계를 마무리하고, 2030년 준공할 계획이다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “이번 광역철도는 부산을 중심으로 한 국가 남부권이 수도권에 대응하는 새로운 국가 성장축으로 도약하는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;안효대 울산시 경제부시장은 “울산은 그동안 KTX역에서 도심 내부를 연결하는 철도가 없었다”며 “광역철도는 도시 외부를 잇고, 향후 트램이 개통되면 도시 내부와도 연결돼 울산의 교통이 획기적으로 개선될 것”이라고 기대했다.&lt;br&gt;&lt;br&gt;박완수 경남도지사도 “부울경 경제동맹에 있어 이번 광역철도 사업이 큰 성과가 될 것”이라며 “앞으로도 세 도시 발전을 위한 다양한 SOC 사업을 함께 의논해 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 다른 광역철도사업인 ‘동남권 순환 광역철도’(KTX울산역~양산~김해)도 지난해 말 예타에 착수했다. 이 철도가 연결되면 울산~양산~부산~경남 김해~양산~울산으로 이어지는 순환 광역철도가 완성된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, ‘구명 로비 의혹’ 이종호 전 블랙펄 대표 압수수색 </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/10/5GW25KM6CZDBRJRTNPTZ3YLXP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/5GW25KM6CZDBRJRTNPTZ3YLXP4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 04:09:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2XZAJSGMJIWRJ3BZ2ZMLYXYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병 수사 외압' 의혹을 수사하는 해병 특검이 이른바  'VIP 격노설' 수사를 위해 10일 서울 용산구 국방부 청사에 도착, 압수수색에 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 10일 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트 대표에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검은 이날 경기 성남시의 이 전 대표 자택 등에 검사와 수사관을 보내 압수수색을 진행하고 있다. ‘도이치모터스 주가조작’ 사건의 공범인 이 전 대표는 임성근 전 해병대 1사단장을 구하기 위해 김건희 여사 측에 로비했다는 의혹을 받는 인물이다.&lt;br&gt;&lt;br&gt;이 의혹은 2023년 7월 박정훈(대령) 전 해병대 수사단장이 고(故) 채수근 상병의 순직 사고 조사를 맡아 임 전 사단장에게 업무상 과실치사 혐의를 적용해 경찰에 이첩하려 했다가 상관에게 보류·중단 지시를 받으며 불거졌다. 당시 이 전 대표가 해병대 출신 5명이 참여한 단체 채팅방(일명 ‘멋쟁해병’)에서 임 전 사단장 이름을 언급한 것이 알려지면서, 구명 로비를 위해 김 여사 측에 부탁한 것이 아니냐는 의심이 나왔다.&lt;br&gt;&lt;br&gt;앞서 이 전 대표는 도이치모터스 주가조작 사건으로 기소돼 지난 4월 대법원에서 징역 2년에 집행유예 3년을 확정받았다. 2010년 10월~2011년 1월 김 여사 명의의 증권 계좌 3개가 도이치모터스 주가 조작에 사용됐는데, 당시 김 여사가 이 전 대표 등에 주식 매매를 일임(一任)한 것으로 조사됐다. 서울중앙지검은 작년 10월 김 여사를 증거 불충분으로 무혐의 처분했으나 서울고검이 재수사를 시작했고, 김건희 특검이 이어 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 향후 이 전 대표 등 구명 로비 의혹 관련자들을 소환해 의혹의 실체가 있는지 규명한다는 방침이다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 이날 수사 외압 의혹을 받는 이종섭 전 국방장관의 자택, 국방부, 국가안보실 등 10여 곳에 대한 압수수색에도 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내란 특검 “尹 내일 조사... 다른 피의자와 달리하지 않을 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/10/EZQHJ2MKXRAGHLKNL5IXA7HBTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/EZQHJ2MKXRAGHLKNL5IXA7HBTU/</guid>
@@ -769,15 +850,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4F6DPWUYFAZLNG4L2EFZEMVIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작성자가 올린 한식 뷔페 이용 후기 사진./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 여성이 한식 뷔페에서 음식을 많이 먹는다는 이유로 식당 사장에게 핀잔을 들어 2인분을 계산한 사연이 올라와 네티즌 사이에 논란이 일고 있다. &lt;br&gt;&lt;br&gt;작성자 A씨는 지난 7일 소셜미디어 스레드에 “요즘 한식 뷔페에 꽂혀서 (식당들을) 찾아다니고 있는데, 많이 먹었다고 사람들 있는 데서 공개적으로 호통을 당했다”며 “너무 모욕적이고 수치스럽다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;그는 “뷔페 접시로 세 그릇을 먹었다”며 “(그릇에 음식을) 수북이 담은 것도 아니고, 있는 거 맛보려고 첫 번째는 골고루 (담았고), 두 번째는 비빔밥, 세 번째엔 접시 반도 안 차게 (담았다). 호박죽, 미역국, 동치미 국물들은 맛만 봤다”고 적었다. A씨는 음식을 담은 접시와 이후 음식을 모두 먹은 빈 접시 사진도 함께 올렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4ZX5BL4FNCPTGQUVG55XJTOJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해당 식당의 제육볶음 반찬 위에 '적당히 드시기 바란다'는 안내문이 붙어 있다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “사장이 쌓인 접시와 나를 계속 빤히 보다가, 그릇 반납하러 가니 ‘이거 다 몇 명이 먹은 거냐’고 물었다”며 “다른 식당에선 사장님들이 ‘잘 먹어서 고맙다’고 말해 주셨기 때문에, (이번에도) 당당히 ‘혼자 먹었다’고 했다”고 했다.&lt;br&gt;&lt;br&gt;하지만 돌아온 반응은 예상과 달랐다. A씨는 “(사장이) ‘혼자 먹으면서 그릇이 뭔 10개가 넘게 나왔냐’고 주방에 있는 이모한테 말했다. ‘이렇게 하면 안 된다’ ‘이러면 안 되지’라면서 큰소리로 얘기하더니, 주방 이모도 ‘8,000원에 이렇게 먹으면 어떡하냐’고 했다”고 전했다.&lt;br&gt;&lt;br&gt;식당 사장으로 추정되는 남성과의 대화 영상도 올라왔다. 영상을 보면 사장으로 추정되는 남성이 A씨에게 불만을 드러내자 A씨는 “2인분 값 내겠다”고 말했다. 이외에도 ‘음식물을 남기면 3000원 추가된다’ ‘생선 가격이 너무 비싸 두 토막까지(만 드시길) 부탁드린다. 죄송하다’ ‘제육 적당히 드시기 부탁드립니다. 죄송합니다’ 등 식당 내 안내문도 사진으로 첨부됐다.&lt;br&gt;&lt;br&gt;이 내용은 여러 온라인 커뮤니티에 확산했다. 이를 본 네티즌들은 “한식 뷔페는 많이 먹으면 안 되는 곳이었나” “뷔페인데 안 남기고 다 먹으면 상관없지” “세 접시 먹은 게 그렇게 화낼 정도로 많이 먹은 건가” 등의 반응을 보였다. 일부는 “(한식) 뷔페는 무한리필이 아니다” “함바집(현장 식당)인 것 같은데 그렇게 많이 먹는 건 민폐” 등의 의견을 내놓으며 식당 측 입장에 동의하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘요금은 절반만 받고’ 대한항공이 항공좌석 6개를 의료용 침대로 바꾸는 이유는</title>
-      <link>https://www.chosun.com/national/regional/2025/07/09/JVMFJNHM2ZFTNJR3JGCDMGGL4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/09/JVMFJNHM2ZFTNJR3JGCDMGGL4Q/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 06:19:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G74E6UQKLVARJGK77FBR7Q2VWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한항공 직원이 항공기 좌석 6개를 의료용 침대로 만들고 있다./대한항공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“추락사고 환자를 제주에서 서울로 이송해야 하는 급박한 상황인데 대한항공이 좌석 6개를 의료용 침대로 대체해 긴급 이송해줘 너무 감사했어요.”&lt;br&gt;&lt;br&gt;9일 제주관광공사에 따르면 대한항공 제주여객서비스지점이 응급환자 항공 이송과 관련해 제주 관광 발전에 기여한 공로로 감사패를 받았다.&lt;br&gt;&lt;br&gt;대한항공은 지난 1996년부터 제주지역에서 응급환자가 발생해 상급병원에서 수술과 치료를 받아야 하는 긴급상황이 발생했을 경우 환자가 누운 상태로 이송하는 의료용 침대(스트레처)를 제공하는 서비스를 해오고 있다. 또 대한항공은 환자 전용 차량과 서비스 전담 직원을 운영하고 스트레처 승객에게 항공권 할인을 제공하고 있다. 스트레처 서비스는 국내 항공사 중 유일하다.&lt;br&gt;&lt;br&gt;황재홍 대한항공 제주여객서비스지점장은 “항공기내에 의료용 침대를 만들려면 좌석 6개를 침대로 바꿔야 한다”면서 “의료용 침대 이용 요금은 6개 좌석중 3개의 좌석 요금만 받는 반값 할인 서비스로 제공하고 있다”고 했다. 또 황 지점장은 “가족 중 동반한 보호자 1명도 무료로 탑승권을 제공하는 등 교통약자의 이용부담을 덜어주고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;이처럼 매년 약 120명의 스트레처 중증환자와 약 1만 명에 이르는 휠체어 이용 교통약자 승객이 대한항공 항공운송 서비스를 이용하고 있다.&lt;br&gt;&lt;br&gt;최근 연도별 응급 환자 운송서비스 건수를 보면 2022년 스트레처 96건, 휠체어 1만 50건에 이어 2023년 스트레처 92건, 휠체어 1만 1010건이며 2024년 스트레처 109건, 휠체어 1만 336건 등이다. 올해 6월까지 운송서비스는 스트레처 41건, 훨체어 4495건에 이른다.&lt;br&gt;&lt;br&gt;이번 감사패는 기업의 사회적 책임과 상생을 실천하며 ‘보전과 공존’의 제주 관광 이미지 개선에 기여했다는 점이 인정받았다는 평가다.&lt;br&gt;&lt;br&gt;황재홍 대한항공 제주여객서비스지점장은 “교통약자 항공운송 서비스의 질 향상을 위해 정기적인 교육 프로그램을 개설하고 실천 중”이라며 “대한민국의 항공 대표 기업으로서 응급 이송이 필요한 도민과 관광객 모두에게 안전하고 편리한 항공 서비스를 제공하도록 지속적으로 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“기사님, 멈춰요!” 앞차 들이받고도 150m 밀고나간 시내버스 </title>
       <link>https://www.chosun.com/national/national_general/2025/07/09/WWJW26G6ZREK7DEBNIW66ZTPPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/WWJW26G6ZREK7DEBNIW66ZTPPI/</guid>
@@ -833,24 +905,6 @@
       <content:encoded>법인 대표자가 범죄를 목적으로 자신이 대표로 있는 법인 계좌를 이용해 거래하는 것은 금융실명법 위반이라는 대법원 판단이 처음으로 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5R23Q3EW7POASLNPAAKFCDX3XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 /  뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 최근 사기 등 혐의로 기소된 A씨 등 5명의 상고심에서 금융실명법 위반 등 혐의를 무죄로 판단한 부분을 깨고 사건을 창원지법으로 돌려보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 2023년 4월~7월 일당의 일부가 대표이사로 있는 상품권 판매 업체인 것처럼 법인을 설립한 뒤, 해당 법인 명의의 계좌로 피해자 17명으로부터 총 152차례에 걸쳐 12억8000여만원을 받아 챙긴 혐의를 받았다. 이들은 이 돈을 현금으로 인출해 범죄 조직에 전달하고 수수료를 받은 혐의도 있었다. &lt;br&gt;&lt;br&gt;재판의 쟁점은 이들이 범죄에 사용한 법인 계좌가 ‘타인의 실명 계좌’에 해당하는지 여부였다. 1심은 “개인이 아닌 법인 명의의 계좌를 범죄에 사용한 것은 금융실명법상 ‘타인’의 실명에 의한 금융 거래에 해당한다”고 보고 A씨에게 징역 4년을, 나머지 공범들에게는 징역 6개월에 집행유예 2년~징역 2년을 각각 선고했다.&lt;br&gt;&lt;br&gt;반면 2심은 이들의 금융실명법 위반 혐의에 무죄를 선고했다. 2심 재판부는 “당시 피고인 중 일부가 해당 법인의 대표이사로 재직 중이었으며, 자신이 대표로 있는 법인 명의의 계좌를 사용하는 것은 사실상 자신의 명의 계좌를 사용하는 것과 같다”고 판단했다. &lt;br&gt;&lt;br&gt;그러나 대법원은 2심 판단에 잘못이 있다고 보고 사건을 파기환송했다. 대법원은 “법인 대표자가 형식적으로 법인 명의로 금융거래를 하였더라도, 실질적으로는 자신의 범죄를 위해 법인 명의를 수단으로 거래한 경우 ‘타인의 실명으로 한 금융거래’에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사적 대화 SNS에 임의 공개…‘나는솔로’ 30대 여성 출연자 벌금 200만원</title>
-      <link>https://www.chosun.com/national/regional/2025/07/09/2N3IHY2RSFA3VB3AMCUUKUIRFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/09/2N3IHY2RSFA3VB3AMCUUKUIRFM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 04:34:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLTE3YBWWGKRCG527GI6JM7QZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 SNS에 상대방과 나눈 은밀한 대화 내용 등을 임의로 올린 30대 여성에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사10단독 허정인 부장판사는 9일 정보통신망이용촉진및정보보호등에 관한 법률 위반 등의 혐의로 재판에 넘겨진 A씨에게 벌금 200만원을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 2023년 11월 16일부터 지난해 5월 3일까지 SNS에 40대 B씨와 주고받은 카카오톡 대화 내용과 B씨가 다른 여성과 주고 받은 카카오톡 대화 내용 등을 공개한 혐의로 재판에 넘겨졌다. A씨와 B씨는 케이블TV 예능프로그램인 ‘나는솔로’에 함께 출연한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 “B씨에 의해 성적 피해를 입은 한 사람으로, 다른 피해 여성들이 억울하게 오해를 받지 않도록 실체를 알리려 했다. 공공의 이익을 위한 것”이라고 주장했지만, 재판부는 받아들이지 않았다. &lt;br&gt;&lt;br&gt;허 부장판사는 “피해자가 입은 피해 정도 등에 비추어 볼 때 죄질이 가볍다고 볼 수 없다. 다만 피고인이 범행 사실 관계 자체를 인정하고 있고, 2024년 5월 이후부터 인스타그램 등 SNS에 피해자를 비방하는 내용은 언급하지 않은 점, 홀로 자녀를 양육하고 있는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, 홍장원 전 국정원 1차장 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/09/IOCKWPEJZBD5JDEOAAG6PYLTFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/IOCKWPEJZBD5JDEOAAG6PYLTFQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 01:44:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQINBJWQK7HH23YV6NFE32XZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원 전 국가정보원 1차장이 지난 4월 20일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 전 대통령 탄핵심판 10차 변론에서 증인으로 출석해 발언하고 있다. /헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀이 9일 오전 홍장원 전 국가정보원 1차장을 참고인 신분으로 불러 조사 중이다.&lt;br&gt;&lt;br&gt;최근 경찰 특별수사단이 대통령 경호처에서 받은 비화폰 서버 기록을 분석한 결과, 계엄 사태 사흘 뒤인 지난해 12월 6일 윤석열 전 대통령과 홍 전 차장의 비화폰 통화 기록이 원격으로 삭제된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;홍 전 차장은 같은 날 국회에 출석해 “윤 전 대통령이 계엄 선포 직후인 3일 오후 10시 53분 비화폰으로 전화해 ‘이번 기회에 잡아들여 싹 다 정리하라’고 지시했다”고 증언한 바 있다.&lt;br&gt;&lt;br&gt;특검팀은 홍 전 차장이 폭로한 윤 전 대통령의 정치인·법조인 체포 지시 관련 사실관계를 확인하는 한편, 홍 전 차장의 비화폰 기록이 원격 삭제됐던 시점의 상황을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;특검팀이 지난 6일 청구한 구속영장에도, 윤 전 대통령이 계엄 당시 홍 전 차장에게 전화를 걸어 “봤지? 비상계엄 발표하는 거. 이번 기회에 싹 다 잡아들여. 싹 다 정리해”라며 국정원이 방첩사를 지원하라고 지시했다는 내용이 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>폭염 속 노점 할머니 위해 비상금 ‘탈탈’…엄마 미소 짓게 한 중학생의 행동</title>
       <link>https://www.chosun.com/national/national_general/2025/07/09/HDSLHZUOURHEVFLQZQCVRVOICQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/HDSLHZUOURHEVFLQZQCVRVOICQ/</guid>
@@ -887,24 +941,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNCSW4X7IZSVZECWS3ATUYT75U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자가 지난달 30일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하며 취재진의 질의에 답변하고 있다. 2025.6.30/뉴스1 ⓒ News1 신웅수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제자 논문 가로채기 의혹이 제기된 이진숙 교육부 장관 후보자가 학술지에 발표한 논문에 제자의 학위 논문을 요약하는 과정에서 비문(非文)까지 똑같이 실은 것으로 나타났다.&lt;br&gt;&lt;br&gt;이 후보자가 지난 2009년 3월 대한건축학회논문집에 자신을 제1저자로 올려 발표한 논문 ‘공동주택 야간경관조명 사례조사를 통한 조명디자인 감성평가’ 분석 결과, 이보다 한 달 전 제자 김모씨가 충남대 석사학위 논문으로 발표한 ‘공동주택 야간경관 조명디자인 지침에 관한 연구’와 연구 데이터, 조사 방법, 조사 사례로 넣은 사진 등이 동일했다. 제자의 학위 논문을 그대로 요약만 하고 학회지에 실었다는 의혹이 나오는 부분이다. &lt;br&gt;&lt;br&gt;특히 이 과정에서 제자의 학위 논문에 있는 비문이 이 후보자의 논문에 그대로 실렸다. 이 후보자가 논문을 발표한 건축학회 논문집 294페이지에는 ‘사용하고 않았으며’라는 비문이 나오는데 이는 해당 논문 공동 저자인 제자 김모씨의 학위 논문 24페이지에도 똑같이 나온다. 이 후보자가 제자 논문 내용을 사실상 그대로 자신의 논문에 옮겼다는 의혹이 나오는 것이다. &lt;br&gt;&lt;br&gt;이에 대해 국민의힘 주진우 의원은 9일 자신의 페이스북 계정에 “이진숙 후보자의 논문은 ‘정상 반, 표절 반’“이라며 ”제자 논문에서 표까지 그대로 갖다 쓴 것도 모자라, ‘사용하고 않았으면’이라는 비문까지 똑같다. 제자 논문을 통째로 ‘복붙’했을 때나 생기는 현상“이라고 주장했다. 주 의원은 이어 ”논문을 표절한 교육부 장관은 더더욱 있을 수 없다. 학생들이 뭘 보고 배우겠는가?“라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해병 특검 “박정훈 대령 항명 재판, 항소 취하... 공소권 남용”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/09/VIGGXIC35JDO3HQQVUE5JF7GKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/VIGGXIC35JDO3HQQVUE5JF7GKY/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 02:05:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKIFTRV4EZKUNIP47O4RJ6G3PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직해병 수사 방해 의혹을 수사하는 이명현 특별검사가 9일 서울 서초구 특검 사무실에서 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 사건 수사 외압 의혹’을 수사하는 이명현 특검은 9일 박정훈(대령) 전 해병대 수사단장에 대한 항소 취하를 결정했다고 밝혔다. 박 대령은 2023년 7월 고(故) 채수근 상병 순직 사건 초동 조사를 지휘했던 인물로, 김계환 당시 해병대 사령관의 사건 이첩 보류 지시에도 경찰 이첩을 강행했다가 항명 혐의로 기소됐다. 그는 지난 1월 1심에서 무죄를 선고받았지만 군검찰이 항소해 서울고법에서 2심이 진행 중이었다.&lt;br&gt;&lt;br&gt;이명현 특검은 이날 오전 특검팀 사무실에서 열린 브리핑에서 “특검은 지난 2일 군검찰로부터 박 대령 사건을 정식 이첩 받아 공소유지를 담당하고 있다”고 말했다. 그러면서 “특검은 원심(1심) 판결과 객관적 증거, 군검찰 항소 이유가 법리적으로 타당한지 종합적으로 검토한 끝에 박 대령에 대한 항소 취하를 결정했다”고 했다.&lt;br&gt;&lt;br&gt;이 특검은 “박 대령이 해병대 수사단장으로서 초동 수사를 하고 해당 사건 기록을 경찰에 이첩한 것은 법령에 따라 적법했다”며 “군검찰이 박 대령을 집단 항명 수괴 혐의로 입건해 항명죄로 공소(기소)한 건 공소권 남용에 해당된다”고 했다. 이어 “1심은 1년 넘게 심리해 무죄를 선고했다. (그런데도 2심에서) 박 대령에 대해 공소 유지를 하는 것은 특검으로서 오히려 책임있는 태도가 아니라고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서도 이 특검은 “아직 특검 수사가 진행 중임으로 (항소 취하 결정의) 판단 근거를 상세히는 밝히기 어렵다”며 “향후 수사 결과를 보면 항소 취하 결정이 타당하다는 점을 누구든 이견 없이 납득할 것이라고 확신한다”고 말했다.&lt;br&gt;&lt;br&gt;특검이 제출한 항소 취하서는 이날 오전 서울고법 항소심 재판부에 접수됐다. 특검팀 관계자는 “항소 취하서가 접수되면 소송 절차는 즉시 종료된다. 1심 판결(무죄)이 확정된다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세찬 소나기에도 서울 열흘째 열대야...자외선 위험 수준</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/09/W2QNDWT6AFGYBEXXPHQ24I7J3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/09/W2QNDWT6AFGYBEXXPHQ24I7J3Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 00:55:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCSZ5QXU75IX3FGCGES273T45A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 연일 열대야 현상이 지속되고 있는 8일 밤 서울 송파구의 한 조형물에 현재 기온이 표출되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길부터 밤까지 내린 세찬 소나기에도 밤 더위는 식지 않았다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 8일 오후 6시부터 9일 오전 9시까지 서울의 최저기온이 27도에 머물며 열흘째 열대야(밤 최저기온 25도 이상)가 발생했다. &lt;br&gt;&lt;br&gt;열대야의 원인은 동풍이다. 동해 북부 해상에 위치한 고기압의 영향으로 동풍이 우리나라로 유입되고 있는데, 태백산맥을 타고 넘으면서 고온건조해져 서쪽 지역에 열풍을 공급하고 있다.&lt;br&gt;&lt;br&gt;폭염도 계속되겠다. 전날 낮 기온이 40도를 돌파한 경기 광명·파주 등은 9일에도 낮 기온이 37도 안팎까지 오를 것으로 예상됐다. 전날에도 예상 최고기온은 37도였기에, 다시 40도에 육박하는 더위가 찾아올 수 있다.&lt;br&gt;&lt;br&gt;9일 낮 최고기온은 26~36도로 예보됐다. 서울·대전·광주 36도, 인천 34도, 대구 32도, 부산 31도, 울산 30도 등 중부지방을 중심으로 더위가 혹독할 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6J4L7LRNPTJAHTVPHLJ5VI5VGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 기온이 37.1도까지 오르면서 근대적인 기상관측을 시작한 이래 7월 상순 기온으론 역대 최고치를 기록한 8일 서울 영등포구 여의도 일대 뜨겁게 달궈진 아스팔트 위로 아지랑이가 피어오르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강한 일사와 동풍에 의한 더위는 토요일인 12일까지 이어질 것으로 전망된다. 12일까지 고기압이 동해 북부 해상에서 움직이지 않을 것으로 예상되기 때문이다.&lt;br&gt;&lt;br&gt;9일 한낮(정오~오후 3시) 자외선 지수는 ‘매우 나쁨’으로 예보됐다. 햇빛을 수십 분만 맞아도 피부에 화상이 생길 수 있는 정도다. 외출시 햇볕을 피할 수 있는 양산을 구비하고, 선글라스·긴 소매 옷 등을 착용하는 것이 좋다.&lt;br&gt;&lt;br&gt;전날 서울을 중심으로 내렸던 소나기는 9일에는 제주와 인천·경기 서해안, 경북 남부 동해안 등에 예고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, ‘햄버거집 내란 모의’ 김용군 보석 결정</title>
       <link>https://www.chosun.com/national/court_law/2025/07/09/W2NDMYYUDZDDNIV5CZTAQWF5HE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/W2NDMYYUDZDDNIV5CZTAQWF5HE/</guid>
@@ -912,46 +948,6 @@
       <description/>
       <pubDate>Wed, 09 Jul 2025 02:19:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄을 사전에 모의한 혐의로 기소된 김용군 예비역 육군 대령이 보석으로 풀려나 불구속 상태로 재판을 받게 됐다. &lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울중앙지법 형사25부(재판장 지귀연)는 지난 7일 김 전 대령의 보석을 결정했다. 내란 중요임무 종사 혐의로 지난 1월 15일 구속 기소된 김 전 대령의 1심 최장 구속 기한(6개월)은 오는 14일 만료될 예정이었다.&lt;br&gt;&lt;br&gt;김 전 대령은 작년 12월 3일 비상계엄 선포 당일 경기 안산시 한 햄버거집에서 노상원 전 정보사령관과 구삼회 육군 2기갑여단장, 방정환 국방부 전작권전환TF 팀장 등과 만나 노 전 사령관의 사조직 ‘제2수사단’ 구성을 논의한 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰 비상계엄 특별수사본부로부터 내란 의혹 수사를 넘겨받은 조은석 특별검사팀은 이들이 중앙선거관리위원회 부정선거 의혹을 수사하려는 목적으로 제2수사단 구성을 모의했다고 보고 있다.&lt;br&gt;&lt;br&gt;재판부는 김 전 대령과 김용현 전 국방부 장관, 노 전 사령관 등 비상계엄에 가담한 혐의를 받는 군 관계자 3명의 사건을 병합해 한 재판에서 심리하고 있다. 지난달 내란 특검 수사가 개시된 이후 김 전 장관과 노 전 사령관은 추가 기소됐고, 1심 구속 기한 만료를 앞두고 지난달 25일과 이달 7일 각각 다시 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, 삼부토건 전현직 대표 2명 소환 조사 </title>
-      <link>https://www.chosun.com/national/court_law/2025/07/09/RWMWVLH7ORG3ZHUVC2ZFJ4YG5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/09/RWMWVLH7ORG3ZHUVC2ZFJ4YG5A/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 00:56:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IP3R2SKBJPE3IZWYCWX6YDFKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정창래 전 삼부토건 대표가 9일 오전 서울 종로구 KT 광화문빌딩 웨스트에 마련된 김건희 특검팀 사무실로 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘삼부토건 주가조작’ 의혹을 수사하는 민중기 특별검사팀이 9일 삼부토건의 전현직 대표를 불러 조사한다.&lt;br&gt;&lt;br&gt;특검팀 관계자에 따르면 특검은 이날 오전 10시부터 정창래 삼부토건 전 대표와 오일록 현 대표를 각각 소환해 조사한다. 특검은 이들에게 주가조작에 관한 사실관계, ‘우크라이나 재건 포럼’ 참석 경위 등에 대해 질문할 전망이다. 정 전 대표는 이날 특검 사무실에 들어서며 원희룡 전 국토부 장관과 어떤 관계인지를 묻는 취재진 질문에 “전혀 관계가 없다”먀 “들어가서 상세히 설명드릴 것”이라고 답했다. &lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹은 2023년 5~6월 삼부토건이 우크라이나 재건 사업에 참여할 의사가 없는데도 우크라이나 건설사 등과 양해각서(MOU)를 체결하며 주가를 부양해 경영진 등이 수백억 원대 부당 이득을 챙겼다는 내용이다. 특히 삼부토건의 주가는 2023년 5월 22일 폴란드에서 열린 우크라이나 포럼을 기점으로 치솟았다. 유라시아경제인협회(유라시아협회) 등 단체가 주최한 해당 포럼에는 원희룡 전 국토부 장관과 삼부토건 관계자들이 참석했다.&lt;br&gt;&lt;br&gt;피의자 신분으로 소환된 정 전 대표는 포럼 당시 삼부토건 인수를 추진한 디와이디(DYD)의 대표였다. 오 대표는 우크라이나 재건 사업을 추진할 당시 영업본부장으로 사업 실무를 담당한 인물이다. 오 대표는 이날 참고인 신분으로 조사를 받는다.&lt;br&gt;&lt;br&gt;지난 3일 삼부토건 본사와 관계자 자택 등 13곳을 압수 수색한 특검은 최근 연일 삼부토건과 유라시아협회 관계자들을 불러 조사하고 있다. 특검은 오는 10일에는 삼부토건 이일준 회장을 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“러브버그 학살당해” 눈물… 고기영 동물보호 운동가 인터뷰의 진실</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/09/LRDUOM6UYZDVTONPUA7AWDVGHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/LRDUOM6UYZDVTONPUA7AWDVGHA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 22:03:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPXBBBDXNJFHHKKHTS5Y5N7EQU.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 소셜미디어에 러브버그 학살을 멈춰 달라는 동물보호 운동가의 인터뷰 사진이 확산했다. 이 사진은 AI로 만든 가짜로 밝혀졌다. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 소셜미디어에서 러브버그 학살을 멈춰 달라는 한 동물보호 운동가의 인터뷰가 논란이 된 가운데, 이 사진은 인공지능(AI)으로 만든 가짜로 밝혀졌다. &lt;br&gt;&lt;br&gt;7일 AFP에 따르면, 여러 페이스북과 스레드 계정에는 러브버그 살충 작업을 비판하는 내용의 환경단체 인터뷰 사진이 올라왔다. &lt;br&gt;&lt;br&gt;사진에서 고기영 동물보호운동가는 “지금 이 순간에도 죄 없는 러브버그들이 학살당하고 있다. 학살을 멈추고 공존하는 사회가 되었으면…”이라고 말하며 눈물 흘린다. 두 번째 이미지에는 같은 인물이 벌레 떼에 당황한 듯 “얼굴에 붙었어!”라며 욕설을 내뱉는 장면이 담겨 있다. &lt;br&gt;&lt;br&gt;사진을 공유한 이들은 실제 뉴스 인터뷰라고 생각한 듯 “이율배반적이다” “너네나 실컷 벌레와 사랑해라” 등 환경단체를 비판했다. &lt;br&gt;&lt;br&gt;하지만 AFP가 구글 역 이미지 검색을 통해 확인한 결과, 이 사진은 패러디 작가로 알려진 ‘릴도지(Lil Doge)’ 인스타그램 계정에 처음으로 게재됐다. 지난 2일 올라온 원본 게시물에는 “실화 바탕의 AI로 제작된 이미지입니다”라는 설명이 붙었다. AI 생성 이미지가 온라인상에서 확산하며 실제 사진으로 잘못 인식된 것이다. &lt;br&gt;&lt;br&gt;자세히 보면, 사진들에서는 AI 합성물에서 나타나는 오류들을 확인할 수 있다. 첫 번째 사진 속 동물보호 운동가의 왼손 검지가 중복되어 손가락이 여섯 개로 보인다. 또한 마이크에도 필요 없는 전선이 붙어 있다. AFP는 “이 같은 시각적 왜곡 현상은 AI 합성물에서 흔히 발견된다”며 “이러한 결함을 찾아내는 것이 현재로서는 조작된 이미지를 식별하는 가장 확실한 방법”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광명·파주… 7월 초에 40도 넘은 것은 처음</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/09/O5EFGBOCDFDIZLFDN7JWJRXIXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/09/O5EFGBOCDFDIZLFDN7JWJRXIXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 20:05:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXPWJXLFMRJ5DNDMZ22ONI3JRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염의 한계선이 무너지고 있다. 8일 서울은 기온이 37.8도까지 치솟으며 117년 만에 7월 상순(1~10일) 최고 기온을 경신했다. 이날 경기 수원(36.7도), 강원 원주(최고 35.4도), 대전(36.3도), 부산(34.8도), 전북 고창(35.8도) 등도 기존 7월 상순 최고 기록이 모두 깨졌다. 이뿐 아니라 경기 광명(40.2도) 및 파주(40.1도)에선 40도가 넘는 기온이 자동 기상관측 장비에 찍히기도 했다. 7월에 40도가 넘는 것은 처음이다. 사진은 이날 경북 고령군에 있는 야외 농장에서 한 농민이 호미를 들고 작업하다가 땀을 닦고 있는 모습. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>얼음 먹는 돼지, 선크림 바르는 인삼... 폭염에 악전고투</title>
-      <link>https://www.chosun.com/national/regional/2025/07/08/R7BROAF3FZE5ZES3YRQSAKTYGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/08/R7BROAF3FZE5ZES3YRQSAKTYGI/</guid>
-      <dc:creator>무안=조홍복 기자, 나주=진창일 기자, 괴산=신정훈 기자, 금산=김석모 기자, 울산=김준호 기자, 울주=김주영 기자, 안동=권광순 기자, 양주=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 08 Jul 2025 12:05:01 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F33E5ERSXFAMTKVEAVPJY4E6KM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염특보가 내려진 30일 광주 북구청동물정책팀 직원들이 충효동의 한 축사에 물을 뿌리며 더위를 식히고 있다. 전남 장성은 이날 오전 폭염경보가 내려졌다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 1시 광주광역시 북구의 한우 축사. 대형 선풍기 20대가 쉴 새 없이 돌아갔다. ‘쿨링 포그’ 장비가 연신 물안개를 내뿜었다. 그래도 축사 안 온도계는 38도를 가리켰다. 소 70마리는 눈만 껌뻑거렸다. 37년간 소를 키운 김달호(63)씨는 “올해는 장마가 빨리 지나가 소들에게 뿌릴 지하수도 말라버렸다”며 “자식처럼 키우는 애들인데 속이 타 죽겠다”고 했다. 더위에 지친 소들은 먹는 양도 줄었다. 김씨는 소들이 쓰러질까 봐 비타민, 염분 등이 든 영양제를 구해 먹이고 있다. &lt;br&gt;&lt;br&gt;경북 안동에서 돼지 1만7000마리를 기르는 권기택(68)씨는 제빙기를 사서 직접 얼음을 만든다. 매일 700㎏씩 얼음을 만들어 돼지 사료에 섞어 준다. 권씨는 “올여름 벌써 50마리가 죽었다”며 “임신한 돼지 300마리가 제일 걱정”이라고 했다. &lt;br&gt;&lt;br&gt;때 이른 찜통더위가 한반도를 덮치며 전국 곳곳에 비상이 걸렸다. 특히 축산 농가가 악전고투 중이다. 8일 행정안전부에 따르면, 올 5월 20일부터 지난 7일까지 폐사한 가축은 총 13만7382마리로 집계됐다. 지난해 같은 기간(4만5812마리)의 3배다. &lt;br&gt;&lt;br&gt;경기 양주에서 산란계(産卵鷄) 29만마리를 키우는 송복근(74)씨는 “벌써 닭들이 시름시름 앓고 있다”며 “평소보다 계란을 10% 정도 덜 낳고 크기도 작아졌다”고 했다. 닭은 체온이 41도로 높고 땀샘도 없어 더위가 덮치면 쉽게 죽는다. 송씨는 축사 벽에 ‘쿨링 패드’를 설치하고 지름 140㎝ 대형 선풍기 20대를 ‘풀가동’하고 있다. 쿨링 패드는 시원한 물을 흘려 공기 온도를 낮추는 장비다. 송씨는 “혹시 전기가 나갈까봐 비상 발전기까지 준비했다”고 했다. &lt;br&gt;&lt;br&gt;충북 괴산에서 10년째 닭을 키우는 주영환(70)씨는 최근 축사 지붕에 스프링클러를 설치했다. 스프링클러가 돌면서 계속 물을 뿌린다. 주씨는 “작년 여름에 닭 2000마리를 잃었는데 올해는 피해가 더 클 것 같다”며 “축사 온도를 1도라도 낮춰 보려고 아이디어를 짜냈다”고 했다. &lt;br&gt;&lt;br&gt;폭염에 농작물도 타들어 가고 있다. 여름 수확을 앞둔 복숭아 농가에선 ‘열과(껍질 갈라짐)’ 피해가 잇따르고 있다. 낮에는 뜨거운 햇볕이 내리쬐고 밤에는 덥고 습한 열대야가 반복되는 탓이다. 전남 화순에서 복숭아 농장을 운영하는 노모(64)씨는 “복숭아 10개 중 3개는 쩍쩍 갈라져 있다”고 했다. &lt;br&gt;&lt;br&gt;전국 깻잎 생산량의 40%를 차지하는 충남 금산에선 비닐하우스마다 3~4겹씩 차광막을 덮고 환풍기를 돌리고 있지만 역부족이다. 깻잎은 30도가 넘어가면 금세 시들시들해진다. 양인호(62)씨는 “깻잎이 시들거나 누렇게 타버려 내다 팔 수가 없다”며 “이제 7월 초인데 올여름을 어떻게 넘길지 겁난다”고 했다. 깻잎 가격은 이미 출렁이고 있다. 한국농수산식품유통공사에 따르면 8일 기준 깻잎 가격은 100g당 평균 2516원으로 1년 전(2070원)보다 22% 올랐다.&lt;br&gt;&lt;br&gt;인삼 농가도 걱정이다. 인삼은 더위에 약해 차양막을 씌워 키운다. 이홍철(65·충남 금산)씨는 “잎이 타 버릴까 봐 ‘식물용 선크림’을 구해다 뿌릴 예정”이라고 했다. 잎 표면에 코팅막을 만들어 햇볕을 반사하는 제품이라고 한다.&lt;br&gt;&lt;br&gt;이례적인 폭염에 사람도 힘들다. 아무리 더워도 땡볕에서 일해야 하는 배달 기사, 건설 근로자, 산불 감시 요원 등이 특히 견디기 어렵다. 지난 7일 경북 구미의 한 아파트 공사 현장에선 베트남 국적 근로자 A(23)씨가 숨졌다. 소방 당국은 A씨가 온열 질환으로 숨진 것으로 보고 있다. 당시 구미 지역의 기온은 38도가 넘었다. A씨의 체온은 40.2도였다. &lt;br&gt;&lt;br&gt;7일 오후 서울 마포구에서 만난 배달 기사 김정현(35)씨는 검은색 마스크와 토시로 온몸을 가렸다. 눈만 보였다. 그는 “위에선 햇볕이 내리쬐고 밑에선 아스팔트 열기가 올라오기 때문에 이렇게 중무장을 해야 오히려 덜 덥다”고 했다. 광주광역시 북구 산불 감시 요원들은 얼음팩을 여러 개 이어 만든 ‘냉조끼’를 입고 순찰을 돈다.&lt;br&gt;&lt;br&gt;전국 동물원도 무덥다. 아프리카에서 온 사막여우와 미어캣도 덥기는 마찬가지다. 울산대공원 동물원의 한상진 사육사는 “요새 사막여우나 미어캣도 축 늘어져 있다”며 “그늘막을 설치하고 수시로 물을 뿌려주고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KIKDLBQMOBH55GXILNEXIFXINM.jpg?auth=fbdd0e9012adc28d661b0570dd01b94ca57842e90f61ba25cc27cfb989d234be&amp;smart=true&amp;width=4779&amp;height=2688" type="image/jpeg" height="2688" width="4779">
-        <media:description type="plain">2025년 7월 8일 서울 서초동 몽마르뜨 공원 온도계에 현재 기온이 표시되고 있다. /김지호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
