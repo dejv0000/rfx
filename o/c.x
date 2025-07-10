@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“北서 인권침해 당했다”…김정은 상대로 소송 제기한 첫 탈북민</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/WZEDGYPDTZE65OKQ7R4WBXPN6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/WZEDGYPDTZE65OKQ7R4WBXPN6M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 22:30:00 +0000</pubDate>
+      <content:encoded>탈북민 최민경(53) 북한감금피해자가족회 대표가 11일 김정은 북한 국무위원장을 상대로 민형사 소송을 제기한다. 북한 출신 탈북민이 김 위원장을 상대로 한국 법원에 소송을 내는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRMIFZ5GGJFW3JZH4JOTX3DSRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 서울 노원구 인덕대학교에서 북한에서 태어난 탈북자 최초로 김정은 북한 국무위원장 등을 상대로 민형사 소송을 제기하는 최민경씨가 인터뷰하고 있는 모습./박혜연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함경북도 경원군 출신인 최씨는 노동당 간부였던 아버지 덕에 유복한 유년기를 보냈다. 그러나 1994년 김일성 사망 이후 배급이 끊겨 생계가 어려워지면서 탈북을 결심했다. 그는 1997년 12월~2008년 7월 네 차례 탈북을 시도했지만, 중국 공안에 붙잡혀 강제 북송됐다. 북한 보위부에 인계된 뒤에는 수개월간 구금돼 성폭력, 폭행, 고문 등을 당했다. 2012년 10월 한국 땅을 밟은 최씨는 북한 인권 운동에 뛰어들었고, 북한인권정보센터와 함께 김 위원장을 상대로 한 소송을 준비해왔다. &lt;br&gt;&lt;br&gt;최씨는 김 위원장을 ‘국제형사범죄법 위반’ 혐의로 형사 고소한다. 해당 법 9조는 민간인에 대한 조직적이고 공격을 가한 자를 무기징역 또는 징역 5년 이상에 처하도록 규정한다. 또 김 위원장을 상대로 5000만원의 위자료를 청구하는 손해배상 소송도 제기한다. 최씨는 “북한 정권은 강제 북송된 탈북민을 대상으로 끔찍한 고문을 조직적으로 자행하고 있고, 이로 인한 육체적·정신적 고통은 평생 지속된다. 현재도 외상 후 스트레스(PTSD)로 정신과 치료를 받는다”고 말했다.&lt;br&gt;&lt;br&gt;최씨는 “북한에 있는 김 위원장의 혐의를 입증하고 법적 책임을 묻는 과정이 순탄치 않을 것을 안다. 그러나 지금도 수많은 탈북민이 구금 시설에서 고통받고 있기에, 그 책임을 묻기 위한 방법을 끝까지 찾아낼 것”이라며 “이번 소송이 북한 인권 문제에 경종을 울리는 계기가 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문신 보여주며 “나 힘 세지?”…아버지뻘 택시기사 폭행 유튜버, 결국</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/11/XOUA6WTZRJH7DLZFHM4L3KAJIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/XOUA6WTZRJH7DLZFHM4L3KAJIA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 22:21:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHJ5PTVU3JC2DCPYJHPGOF4KVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 2월 전주고속버스터미널 앞에서 고령의 택시기사를 폭행한 남성이 윗옷을 들추며 문신을 보여주고 있다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시기사를 폭행하고 수사기관을 조롱하는 영상을 게시하는 등 다수의 범죄를 저지르고도 반성하지 않은 20대 유튜버가 항소심에서 더 가중된 처벌을 받았다. &lt;br&gt;&lt;br&gt;전주지법 제2형사부(재판장 김도형)는 10일 사기, 폭행, 상해, 특수협박 등 10개 혐의로 구속 기소된 A(28)씨에 대한 항소심에서 징역 3년6개월을 선고했다. 1심에서 A씨는 징역 2년6개월을 선고받았었다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 모든 범행을 반성하고 있고 일부 피해자와 합의한 부분이 있다”며 “갖고 있는 정신질환이 범행에 일부 영향을 끼쳤을 것이라는 점도 인정할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;다만 “피고인은 집행유예 기간 중 사기 범행을 저지르고, 앞서 저지른 범죄로 인해 재판에 넘겨지거나 수사기관 수사가 진행 중인 상태에서 범행을 저지르기까지 했다”며 “이러한 점을 고려할 때 1심의 형이 너무 가볍다는 검사의 주장을 받아들여 형을 정했다”고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 작년 2월 전주고속버스터미널 앞에서 고령의 택시기사를 폭행해 온라인 커뮤니티 등에서 논란이 된 인물이다. 당시 A씨는 “빨리 가지 않는다”며 택시기사에게 흉기를 들이밀고 폭행했다. 그리고는 택시비 결제를 요청받자 택시기사를 도로 위로 끌고 가 윗옷을 들쳐 문신을 보여주며 “나 힘 세지? 내가 말했지?”라고 위협했다. &lt;br&gt;&lt;br&gt;이 장면을 찍은 영상이 논란이 됐으나 A씨는 자신의 유튜브 채널에 ‘택시 기사 폭행 문신남’ 등의 홍보 문구를 내걸고 구독자를 모았다. 이와 동시에 다른 유튜버와의 싸움 영상, 문신 자랑 영상 등을 유튜브에 올려 수익을 챙겼고, 검찰 조사 중에도 수사관을 농락하는 영상을 유튜브에 올리거나 자신을 수사한 경찰관에게 전화해 욕설을 내뱉기도 했다. &lt;br&gt;&lt;br&gt;또 먼 지역까지 택시를 탄 뒤 택시비를 내지 않은 채 도망치거나, 지인이 담보로 맡긴 차량을 되찾아주겠다며 돈을 받아놓고 이를 자신의 빚을 갚는데 사용한 혐의도 받는다. 간병비‧숙박비 등의 서비스 비용을 주지 않거나, 전주‧광주 등의 술집에서 손님과 싸우는 등의 행패를 벌이는 등 상당수 범죄를 저지른 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내년 최저임금 2.9% 오른 1만320원</title>
       <link>https://www.chosun.com/national/labor/2025/07/11/DTUSUKSWYBFLDG6C2XZVIBVYPQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/11/DTUSUKSWYBFLDG6C2XZVIBVYPQ/</guid>
@@ -791,15 +809,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘특수통’ 조상원 전 4차장, 법무법인 정행인 대표변호사로 개업</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/AI2SKJEZRNCMVCYFTYP4NQZMU4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/AI2SKJEZRNCMVCYFTYP4NQZMU4/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 02:20:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQIOINM7VVHRDAETACQNEXLQLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조상원 전 서울중앙지검 4차장검사 /고운호기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 전 대통령의 국정 농단 의혹과 이재명 대통령의 성남FC 불법 후원금 의혹을 수사했던 조상원(53·사법연수원 32기) 전 서울중앙지검 4차장검사가 변호사 활동을 시작한다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 조 전 차장검사는 이번 달 중 법무법인 정행인 대표변호사로 개업할 예정이다.&lt;br&gt;&lt;br&gt;조 전 차장은 전북 부안 출신으로 동국대사대부고와 건국대 법대를 졸업했다. 사법연수원 32기 수료 후 2003년부터 검사 생활을 시작해 서울남부지검 형사6부장·서울중앙지검 형사12부장·수원지검 성남지청 차장·대구지검 2차장·서울중앙지검 4차장을 역임했다.&lt;br&gt;&lt;br&gt;‘특수통’으로 꼽히는 조 전 차장은 2016~2017년 박근혜 정부 국정 농단 특별검사팀에 파견돼 문형표 전 국민연금공단 이사장 등을 조사했고, 2022~2023년에는 성남FC 불법 후원금 의혹을 수사했다. &lt;br&gt;&lt;br&gt;작년 10월에는 도이치모터스 주가 조작 사건과 관련해 윤석열 전 대통령 배우자 김건희 여사를 무혐의 처분했다는 이유로 그해 12월 이창수 전 서울중앙지검장, 최재훈 전 서울중앙지검 반부패수사2부장과 함께 국회에서 탄핵소추안이 가결됐으나, 헌법재판소는 지난 3월 재판관 8인 전원 일치로 기각했다. &lt;br&gt;&lt;br&gt;이후 조 전 차장은 업무에 복귀했으나 제21대 대통령선거일인 지난달 3일 의원면직됐다. 그는 탄핵심판 과정에서 건강이 악화해 사의를 나타낸 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘최서원 명예훼손’ 안민석, 1심 유죄...벌금 300만원 선고</title>
       <link>https://www.chosun.com/national/court_law/2025/07/10/63USXY266NBEXFHKM66SBG3NCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/63USXY266NBEXFHKM66SBG3NCE/</guid>
@@ -950,15 +959,6 @@
       <description/>
       <pubDate>Wed, 09 Jul 2025 15:55:00 +0000</pubDate>
       <content:encoded>폭염이 전국적으로 기승을 부리면서 지난 8일 하루에만 온열질환자가 200명을 넘은 것으로 나타났다. 7월에 온열질환자가 하루 200명 이상 발생한 것은 관련 통계 집계를 시작한 2013년 이후 처음이다. &lt;br&gt;&lt;br&gt;9일 질병관리청에 따르면, 전날 하루 전국 516개 응급실을 찾은 온열질환자는 238명에 달했다. 앞서 2018년 8월에 하루 200명 이상 온열질환자가 발생한 적이 있지만, 그동안 7월에는 이를 넘긴 적이 없었다. 이날을 포함한 올여름 온열질환자는 총 1228명이 됐다.&lt;br&gt;&lt;br&gt;온열질환은 열로 인해 발생하는 급성질환이다. 장시간 노출되면 두통·어지럼·근육 경련·의식 저하 등의 증상을 보이고, 방치 시엔 생명이 위태로울 수 있다. 올여름 온열질환 추정 사망자는 8일까지 모두 8명으로 파악된다. 지난해(3명)의 약 3배다. 사망자 연령대는 80대가 3명으로 가장 많고, 50대가 2명, 90대·70대·40대가 1명씩이다. 8명 중 5명이 70대 이상 고령층인 셈이다. 발생 장소는 산(3명), 논밭(2명), 비닐하우스·운동장·길가(각 1명)였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검사 10명이 178쪽 PPT 설명… 尹, 30분간 직접 반박</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/QJW7O5TASZBAFFFIRSCY37MAPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/QJW7O5TASZBAFFFIRSCY37MAPA/</guid>
-      <dc:creator>김희래 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 09 Jul 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WBPG7IXHVPRROFSVLKAPOUHLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 9일 서울 서초구 서울중앙지법에서 열린 직권남용 등 혐의 영장실질심사(구속 전 피의자 심문)를 마친 뒤 대기 장소인 서울구치소로 이동하기 위해 법원을 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령은 9일 밤 서울중앙지법에서 열린 구속영장 실질심사(구속 전 피의자 심문)를 6시간 45분 만에 마치고 경기 의왕 서울구치소로 이동해 영장 심사 결과를 기다렸다. 윤 전 대통령은 지난 1월 고위공직자범죄수사처(공수처)에 체포·구속됐다가 3월 8일 법원의 구속 취소 결정으로 서울구치소에서 석방됐다. 그러나 123일 만에 다시 서울구치소를 찾게 된 것이다.&lt;br&gt;&lt;br&gt;이날 영장 심사는 남세진 영장 전담 부장판사 심리로 오후 2시 22분 시작돼 9시 7분까지 진행됐다. 지난 1월 서울서부지법의 첫 영장심사 때는 4시간 42분이 걸렸는데, 2시간가량 늘어난 것이다. 이날 윤 전 대통령 측에서는 김홍일·배보윤·송진호·채명성·최지우 변호사 등이 변론에 나섰고, 조은석 내란 특검 측에선 박억수 특검보와 김정국·조재철 부장검사 등 검사 10명이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIQP7DOKGFB75O7ZRUW5UAY3YQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령은 오후 8시쯤부터 약 30분간 진행된 최후진술에서 특검이 적용한 직권남용, 특수 공무 집행 방해 등 혐의는 “법리적으로 범죄가 성립되지 않는다”고 반박했다. 또 특검 측 논리를 반박하는 167쪽 분량의 의견서도 제출했다. &lt;br&gt;&lt;br&gt;이에 맞서 특검 측은 A4 용지 총 178쪽 분량의 PPT를 준비해 윤 전 대통령의 구속 필요성을 설명했다. 특검 측은 PPT에 12·3 비상계엄 직전 열린 국무회의 장면이 녹화된 CCTV 화면도 담았다고 한다. 특검은 또 300여 쪽 분량의 의견서도 추가로 제출하고, 윤 전 대통령을 구속해 ‘평양 무인기 침투’와 관련한 외환 혐의 수사가 필요하다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검 측은 직권남용 혐의와 관련해 “계엄 선포 전 국무회의에 일부 국무위원만 호출한 것은 당시 참석하지 못한 장관 9명의 심의권을 침해한 것”이라고 주장했다. 이에 대해 윤 전 대통령 측은 “가장 빨리 올 수 있는 국무위원을 무작위로 부른 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4CSXUZI7HVCHHDVKOKBMIK4WSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울구치소 들어가는 尹 호송 차량 - 9일 밤 윤석열 전 대통령이 탄 법무부 호송 차량이 경기 의왕 서울구치소로 들어가고 있다. 윤 전 대통령은 이날 서울중앙지법에서 영장실질심사를 마친 뒤 서울구치소 대기실에서 법원의 결정을 기다렸다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 측은 또 “윤 전 대통령이 계엄 선포의 절차적 하자를 보완하려고 강의구 전 부속실장 등에게 ‘사후 선포문’을 작성하도록 지시했다”고 했으나, 윤 전 대통령 측은 “강 전 실장이 임의로 한 일이며, 지시한 적이 없다”고 했다. &lt;br&gt;&lt;br&gt;비화폰 서버 기록을 삭제하라고 지시한 혐의에 대해서도 윤 대통령 측은 “보안 규정에 따라 조치하라고 한 것이 전부”라고 했고, 경호처에 차벽, 인간 스크럼, 총기 소지 등을 지시해 공수처의 체포를 방해한 혐의에 대해선 “군사 시설인 대통령 관저에 대해 체포 영장을 집행할 것이라고 예상도 못 해, 그런 지시를 한 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 영장심사에선 윤 전 대통령의 ‘증거인멸 우려’가 쟁점이 됐다. 특검 측은 “김성훈 전 경호처 차장과 강 전 부속실장이 경찰과 검찰, 특검 조사를 받으면서 윤 전 대통령 측 변호인의 입회 여부에 따라 진술이 달라졌다”며 사건 관련자들 진술 번복을 회유·압박할 수 있어 구속이 필요하다고 강조했다. 그러나 윤 전 대통령 측은 “그런 사실이 없다”며 “주요 관련자들이 구속돼 있어 영향력 행사도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 오후 2시 12분 검은색 카니발 차량을 타고 법원에 도착했다. 남색 정장에 빨간 넥타이 차림이었다. 차에서 내린 그는 “석방 4개월 만에 다시 구속 기로에 놓이게 된 심경은 어떤가” 등의 기자들 질문에 아무런 답변 없이 보안 검색대를 지나 법정으로 향했다. 보통 영장 심사 때 검찰은 피의자를 미리 불러 구인(拘引) 영장을 집행한 뒤 법정으로 데려간다. 하지만 이날 특검은 구인 영장을 법정 대기실에서 집행했다. 특검 측은 “전직 대통령에 대한 예우 차원”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 홍장원 전 국가정보원 1차장을 참고인 신분으로 불러, 그가 계엄 직후 폭로한 윤 전 대통령의 ‘정치인·법조인 체포 지시’ 혐의를 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김건희 집사’도 수사… 기업들, 184억 수상한 투자</title>
