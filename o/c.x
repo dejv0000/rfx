@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검, “삼부토건이 ‘우크라 포럼’ 포장해 주가부양” 진술 확보</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/7BFPSATBFNEPFAO2R3NZCJVWGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/7BFPSATBFNEPFAO2R3NZCJVWGA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 14:14:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTFSNEK6DZQYD22XJPTPXFBAFY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사(오른쪽)가 지난 2일 서울 종로구 KT광화문빌딩에 마련된 특검 사무실에서 열린 현판 제막식에서 박상진(왼쪽), 문홍주 특검보와 대화를 나누고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 김건희 특검팀이 ‘우크라이나 재건 포럼’을 주최한 유라시아경제인협회 관계자를 조사하면서 “삼부토건이 주가부양을 위해 재건 포럼을 활용했다”는 취지의 진술을 확보한 것으로 11일 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면 양용호 유라시아경제인협회 이사장은 지난 8일 특검에 출석해 참고인 조사를 받으며 이 같은 취지로 진술한 것으로 전해졌다. 양 회장은 특검 조사에서 “재건 포럼은 가입비 100만원만 내면 누구나 참여할 수 있었는데, 삼부토건은 이 같은 방식으로 참여하고도 협회의 초청을 받아 참석한 것처럼 기사가 나왔다”고 진술한 것으로 전해졌다. 원희룡 당시 국토교통부 장관을 수행한 대기업 초청 대상에 삼부토건이 포함된 것처럼 허위로 꾸몄다는 취지다.&lt;br&gt;&lt;br&gt;양 이사장은 특검 조사에서 “삼부토건이 재건 포럼에서 현지 지방자치단체 등과 체결한 업무협약(MOU)도 협회와는 무관하다”고 진술한 것으로도 알려졌다. 양 이사장은 당시 협회에서 MOU 체결과 관련한 가이드라인을 만들었는데 삼부토건이 이를 따르지 않았다는 취지로 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;유라시아경제인협회는 2023년 5월 폴란드에서 열린 우크라이나 재건 포럼을 주최했다. 특검은 삼부토건이 재건 포럼 참석을 계기로 관련 사업을 추진할 것처럼 투자자들을 속여 주가를 띄운 뒤, 보유 주식을 매도해 100억원이 넘는 부당 이득을 취득했다고 의심한다. 특검팀은 양 이사장의 진술을 토대로 이후 잇따라 소환한 오일록 삼부토건 대표 등 전·현직 실질 사주들에게 시세 조종 혐의를 추궁한 것으로 보인다.&lt;br&gt;&lt;br&gt;특검은 이 내용을 토대로 오는 13일 삼부토건 부회장 이모씨와 관계사 웰바이오텍 전 대표 구모씨에게도 주가 조작 전후 정황을 추궁할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이집 속이고 별거 자녀 몰래 데려간 아빠, 유죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/ZU4ADWR7TZDTZIV5NGVIQTS5BQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/ZU4ADWR7TZDTZIV5NGVIQTS5BQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 13:56:56 +0000</pubDate>
+      <content:encoded>어린이집 보육 교사를 속여 별거 중인 자녀를 데려간 아버지에게 ‘미성년자 유인죄’가 확정됐다. 대법원 1부(주심 마용주 대법관)는 지난달 미성년자 유인 혐의 등으로 기소된 A씨에게 징역 3개월을 선고한 원심을 확정했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이혼 소송을 앞두고 아내와 별거하던 2022년 4월, 아내와 지내던 만 1·2세 자녀 둘을 어린이집에서 몰래 데려간 혐의로 재판에 넘겨졌다. A씨는 보육 교사에게 “아이들 엄마와 함께 꽃구경을 갈 것”이라고 거짓말해 하원시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 두 가지였다. 양육권이 있는 친부에게 미성년자 유인죄를 물을 수 있는지, 자녀 본인이 아닌 보육 교사를 속였는데도 미성년자 유인죄를 적용할 수 있는지 여부였다. 형법상 미성년자 유인죄는 ‘미성년자를 속이거나 꾀어 데려가 보호받던 상태를 침해한 경우’ 성립한다는 것이 대법원 판례다. &lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 자녀들이 어려서 의사 능력이 없었기 때문에, ‘유인’ 대상이 될 수 없어 죄가 성립하지 않는다고 주장했다. 그러나 1심 재판부는 A씨에게 징역 6개월을 선고하고 “자녀들이 (어려서) 의사 능력이 없는 경우 보호권을 위임받은 보육 교사를 기망해 데려간 것도 유인에 해당한다”며 “보호자(친부)여도 미성년자 유인죄의 주체가 될 수 있다”고 했다. 2심도 같은 판단을 해, 1심 판결 후 이혼 조정이 이뤄졌고 경제적 이유 등으로 A씨가 자녀들을 키우기로 한 점 등을 고려해 징역 3개월로 감형했다. &lt;br&gt;&lt;br&gt;대법원은 “부모가 이혼했거나 별거하는 상황에서 부모 중 한쪽이 미성년 자녀를 평온하게 보호·양육하고 있는데, 다른 한쪽이 미성년자나 보호자를 속이고 데려간 경우 미성년자 유인죄를 구성한다고 볼 수 있다”며 A씨의 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘집사’가 주식 대거 사모을 때... 김여사 재산 변동 내역 본다</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/KFM7HY5LEFG47OWAPD42KPZIRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/KFM7HY5LEFG47OWAPD42KPZIRU/</guid>
+      <dc:creator>표태준 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 13:45:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37RGKNP3R6OB6R74JZWUXZHRBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘김 여사 집사’로 불리는 김모(48)씨가 2017년 IMS모빌리티(옛 비마이카) 주식을 대량 취득하는 데 김 여사가 개입했는지를 수사 중인 것으로 11일 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검은 앞서 지난 7일 법원에 IMS 등에 대한 압수 수색 영장을 청구하면서 김씨가 이 업체 주식을 취득하고 매각하는 과정에 김 여사가 관여했을 가능성이 높다는 점을 강조했다고 한다. 다만 법원은 특검 주장만으로는 김 여사의 혐의가 명확히 소명되지 않는다며 특검법상 수사 대상에 포함되지 않는다고 판단해 영장을 기각했다.&lt;br&gt;&lt;br&gt;특검은 김씨가 2017년 11월 IMS 주식을 대량 취득해 2대 주주가 되기에 앞서 김 여사의 재산 변동 내역을 추적하고 있는 것으로 전해졌다. 2017년 5월 윤석열 전 대통령이 서울중앙지검장에 취임한 뒤 재산이 공개됐을 때, 김 여사가 갖고 있던 도이치모터스의 계열사인 도이치파이낸셜 주식 20억원어치가 논란이 됐다. “시장 가격보다 싸게 사 특혜가 의심된다” “김 여사가 주식을 담보로 고리의 사채놀이를 했다” 등 여러 의혹이 제기된 것이다. 그러자 윤 전 대통령은 “주식 매입 계약만 했다가 계약을 취소해 20억원을 돌려받았다”고 해명했다.&lt;br&gt;&lt;br&gt;이를 두고 정치권에선 김 여사가 김씨 명의로 IMS모빌리티 지분을 취득한 것 아니냐는 의혹이 나왔고, 특검 역시 김 여사와 김씨, IMS모빌리티 관계가 수상쩍다고 보고 있다. IMS는 김 여사와 특수 관계인 도이치모터스로부터 BMW 차량 50대를 대여받으며 대형 이벤트를 열었고, 김 여사는 이 회사의 자회사에서 사내이사를 지냈다. IMS는 김 여사가 운영한 코바나컨텐츠 전시회에 협찬도 여러번 했다. &lt;br&gt;&lt;br&gt;특검은 2023년 대기업들이 IMS에 투자한 184억원 중 46억원이 김씨의 지분을 사들이는 데 쓰인 배경에도 김 여사가 있는 것 아닌지 의심하고 있다. 주식 처분으로 얻은 수익 일부가 김 여사 측에 흘러간 것이 아닌지 추적 중이다. IMS 측은 본지에 “김씨는 2017년 우리 회사에 임원으로 합류해 주요 주주가 됐는데, 김 여사 관련 의혹이 끊이지 않아 2021년 김씨를 내보냈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/37RGKNP3R6OB6R74JZWUXZHRBQ.jpg?auth=ea9814f079cda4b1cc286e3d1bb8d20c165ea1b837c97981ddad3d9de3a31b11&amp;smart=true&amp;width=5532&amp;height=3581" type="image/jpeg" height="3581" width="5532">
+        <media:description type="plain">윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 오대일 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>현직 경찰관이 대낮에 흉기들고 식당에... 무슨 일?</title>
+      <link>https://www.chosun.com/national/2025/07/11/O5BINSIOHRBI5FY3555RQLBNYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/O5BINSIOHRBI5FY3555RQLBNYY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 12:42:32 +0000</pubDate>
+      <content:encoded>대낮에 흉기를 들고 식당 등 도심을 활보한 현직 경찰관이 붙잡혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 남원경찰서는 공공장소 흉기소지죄로 전주완산경찰서 소속 순경인 A(20대)씨를 입건했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 오후 사복 차림으로 흉기를 들고 남원시의 한 식당에 들어가는 등 위험한 물건인 흉기를 소지한 상태로 불특정 다수가 이용하는 공공장소 등을 활보한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 식당을 나온 뒤 인도 한가운데서 흉기를 허공에 휘두르기도 했다. 다만 행인들에게 흉기를 휘두르거나 직접 위협하는 행동을 하지는 않았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;“어떤 여자가 칼을 들고 다닌다”는 주민 신고를 받고 출동한 경찰이 A씨를 붙잡아 신분을 확인하는 과정에서 현직 경찰관인 것이 확인됐다. 당시 A씨는 병가 중인 상태였다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “우선 A씨를 가족들에게 인계해 정신과 등 병원 치료를 받도록 조치했다”며 “가족과 소속 경찰서 관계자들을 상대로 정확한 경위를 조사할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염에 24시간 풀가동하는 얼음공장 “역대급 주문에 쉴 틈 없어요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/11/KDOQ57V7MVEULLWLDE6FTOFJPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/KDOQ57V7MVEULLWLDE6FTOFJPA/</guid>
+      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 13:02:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZABHZFTINZDNNLDJGX4XVBUEIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 경기 부천의 얼음공장에서 한 작업자가 얼음을 정리하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“허잇차! 아이고, 덥다.” 10일 오전 경기 부천시의 한 얼음 공장. 36도 땡볕 아래서 25kg 얼음팩을 나르는 인부들의 얼굴에 땀이 비처럼 흘렀다. 목에 두른 수건도 흠뻑 젖었다. 얼음 공장이라 시원할 것 같지만 비닐 포장된 얼음을 옮기는 작업은 외부에서 이뤄진다. &lt;br&gt;&lt;br&gt;이달 들어 이곳에서 하루에 생산되는 얼음은 평균 160t. 비수기인 겨울에 비해 100배, 작년 동기와 비교해도 20% 증가했다. 10년 차 직원 김진길(67)씨는 “차가운 얼음 더미 속에서 ‘불볕더위’를 견디는 사람들도 있다”고 했다.&lt;br&gt;&lt;br&gt;올해 7월 상순은 기상 관측 이래 117년 만에 가장 뜨거웠다. 낮 최고기온이 37.8도까지 오른 서울은 물론 전국 각지에서 최고기온 신기록을 갈아치웠다. 더 길고, 뜨거워진 여름에 얼음·아이스크림 공장들은 ‘폭염(暴炎) 특수’를 맞았다. 밀려오는 주문량에 공장을 24시간 또는 주말 내내 가동하며 휴일 없이 일하고 있다. 이들은 “역대급 작업량에 한시도 쉴 수가 없다”고 했다. &lt;br&gt;&lt;br&gt;이날 기자가 식용 얼음 제조실에 들어서자 3초에 1번꼴로 ‘콰광’ 하는 굉음이 들렸다. 제빙기로 얼린 식용 얼음이 레일에 쏟아지는 소리다. 바닥엔 잘게 녹은 얼음이 흥건해 걸을 때마다 저벅저벅 소리가 났다. 레일을 따라 이동해 비닐 포장을 마친 얼음은 서울·수도권 곳곳의 카페와 술집·푸드트럭 등으로 향한다. 공장 주인 윤준일(55)씨는 “얼음 깎는 소리로 대화도 불가능할 정도”라면서도 “여름 한철 장사로 먹고사니 우리 모두 이 소리를 듣기만을 기다린다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 오후 경기 파주시의 한 아이스크림 공장도 쉴 틈이 없었다. 1500평(5000㎡) 규모의 작업장에는 “쉬익, 끽” 하는 기계 소리가 가득했다. 3초에 한 번씩 돌아가는 7m 길이의 컨베이어 벨트 위로 아이스크림 포장 용기를 올려놓는 작업자들의 손이 빠르게 움직였다. 이렇게 생산되는 아이스크림은 하루 평균 10만~12만개. 공장 관계자는 “6월 마지막 주부터 7월 첫 주까지 아이스크림 생산량이 작년 같은 기간보다 70% 증가했다”며 “출고량을 맞추기 위해 이번 여름에는 주말도 공장을 돌리고 있다”고 했다.&lt;br&gt;&lt;br&gt;얼음과 아이스크림은 올라간 체온을 급히 식혀줄 수 있는 대표적인 수단이다. 특히 야외 작업자들에겐 건강 관리에 필수적이다. 폭염이 지속되자 열사병, 열탈진 등 온열 질환자가 증가하고 있다. 이 때문에 기업들도 잇따라 얼음 지급 대책을 마련하고 있다. 질병관리청에 따르면, 올해 5월 15일부터 지난 10일까지 응급실에 방문한 온열 질환자는 총 1440명이다. 2011년 집계가 시작된 이래 가장 빠른 속도의 증가세다.&lt;br&gt;&lt;br&gt;2021년부터 아이스크림 공장에서 일했다는 ‘기러기 아빠’ 생산관리팀장 정모(43)씨는 “쉬는 날이 적어지니 부산에 있는 초등학교 3학년 아들과 아내를 한 달에 한 번 보기도 힘들어졌다”며 “주말 근무 수당으로라도 위로 삼아야지 별수 있냐”고 했다. 플라스틱 통에 3kg짜리 아이스크림을 담는 작업을 하는 이금란(57)씨의 양쪽 손목에는 관절 통증을 최소화하기 위한 살색 테이프가 여러 겹 붙어 있었다. 이씨는 “딸들은 저한테 이제 그만 일 좀 쉬라고 한다”며 “자식들 부담 안 주려면 열심히 벌어야 한다. 이번 여름도 쉴 새 없이 달릴 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성SDI 천안 신축 현장서 작업자 6명 가스흡입  </title>
+      <link>https://www.chosun.com/national/2025/07/11/GO3WPGHCGBGT5AQ5AN2ONLOMJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/GO3WPGHCGBGT5AQ5AN2ONLOMJY/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 12:17:46 +0000</pubDate>
+      <content:encoded>충남 천안의 한 공장 신축 건물에서 누출된 가스를 흡입한 현장 작업자 6명이 병원으로 이송되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/643TGFVPAHGP74CWIR5TSMZ73Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 충남소방본부에 따르면 이날 오후 2시 50분쯤 천안시 서북구 성성동 삼성SDI 천안사업장 신축 건물에서 “가스를 흡입했다”는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119는 건물 내에서 가스를 흡입한 작업자 6명을 병원으로 이송했다. 당시 6명 모두 의식은 있는 상태로 어지럼증 등을 호소했다고 한다. 다행히 이들 모두 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;소방당국 등은 이들이 신축 건물 점검 차 전기 작업을 진행하던 중 누출된 가스를 흡입한 것으로 보고 자세한 사고 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 특검 “尹 건강상 문제 없어…14일 오후 2시 출석 요청”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/11/W6G7H7CNEBHJ7P4NQ3DNS6KIOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/W6G7H7CNEBHJ7P4NQ3DNS6KIOM/</guid>
@@ -869,19 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무료 세차를 해주겠다고 속여 차량을 받아낸 뒤 되팔려던 20대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;광주 남부경찰서는 중고거래 플랫폼을 악용해 차량을 훔친 혐의(사기·절도)로 A(20대)씨를 구속했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 12일부터 사흘간 광주 서구·남구·북구 등지에서 차주 3명의 차량을 가로채 달아난 혐의를 받는다. A씨는 “무료로 세차해주겠다”는 글을 중고거래 앱에 올려 차주들을 유인한 뒤, 실제로는 차량을 탁송기사에게 맡겨 다른 장소로 이동시킨 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이후 A씨는 차량을 중고차 매매업자에게 되팔려 했으나 시세보다 수백만원 저렴한 가격을 수상히 여긴 업자가 경찰에 신고하면서 덜미를 잡혔다. 경찰은 2개월간의 추적 끝에 지난 8일 광주의 한 주거지에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 추적을 피하기 위해 중고 거래 앱 계정도 수차례 바꿔가며 사용한 것으로 확인됐다. 경찰에 따르면 A씨는 계정을 사고팔며 범행을 이어갔고, 계정 1개당 5만원에서 15만원을 지불한 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산~경남~여수 152km 잇는 해상 국도 ‘청신호’</title>
-      <link>https://www.chosun.com/national/2025/07/10/CTWMR6XOABHZZCLMM2MQIGT6PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/10/CTWMR6XOABHZZCLMM2MQIGT6PQ/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 08:39:34 +0000</pubDate>
-      <content:encoded>경남 남해군~통영시~거제시를 연결하는 해상 국도 건설이 가시화된다. 이 도로가 실제로 완성되면 부산에서 여수까지 152km 구간을 해상으로 가로질러 갈 수 있게 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDCNXMZOKJAT5GNYLFZSXAJ65A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 경남도에 따르면 국토교통부는 국도 5호선 기점을 현재 통영시 도남동에서 남해군 창선면까지 서쪽으로 43km 연장하는 계획을 확정·발표했다. 국도 기점이 연장됐다는 것은 정부가 늘어난 부분만큼 국도를 새로 건설한다는 의미다. &lt;br&gt;&lt;br&gt;이번 결정에 따라 서쪽 여수를 시작해 경남 남해~통영~거제~부산까지 5개 도시의 섬과 바다를 연결하는 152km 길이 해상 국도의 밑그림이 그려졌다. &lt;br&gt;&lt;br&gt;이 도로는 ‘남해안 아일랜드 하이웨이’로도 불린다. 경남도는 이 도로 건설로 하루 평균 1만7000대가 이용하고, 이동 시간 단축 등으로 1000억원 이상의 비용 절감을 예상한다. &lt;br&gt;&lt;br&gt;장기적으로는 부산에서 강원까지 이어지는 7번 국도, 부산에서 남해안을 거쳐 서해안을 따라 이어지는 77번 국도와도 연결된다. 한반도 해안을 따라 크게 U자형 국도가 완성되는 셈이다. &lt;br&gt;&lt;br&gt;경남도 관계자는 “사업이 완료되면 지역 간 접근성이 올라가고, 남해안 해양 관광도 크게 활성화할 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W3HSRSHSGYL5ZFU7RBQOOL5NVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 경남도청 프레스센터에서 ‘남해안 섬 연결 해상국도’ 사업 관련해 브리핑하고 있다. 왼쪽부터 장충남 남해군수, 천영기 통영시장, 박완수 경남지사, 변광용 거제시장. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 여수와 남해를 잇는 5.8km 길이의 해저터널 공사는 지난해 시작됐다. 오는 2031년 개통을 목표로 한다. &lt;br&gt;&lt;br&gt;이어 이번 국토부 발표로 국도 5호선 연장이 확정됨에 따라 남해에서 통영까지 43km 해상 구간이 이어진다. 이 구간에는 신남해(창선)대교(남해군 창선면~수우도·4km)·사량대교(통영시 수우도~사량도·3km), 신통영대교(통영시 사량도~도남동·7km) 등 3개의 새 해상 교량 건설이 포함된다. 2조 4650억원이 투입될 전망이다. 이 구간만 개통하더라도 남해와 통영 간 1시간 이상 소요되던 통행시간이 29분으로 줄어들 전망이다. &lt;br&gt;&lt;br&gt;통영에서 거제를 잇는 10.1km 구간은 제6차 국도·국지도 건설계획(2026~2030년) 반영을 위해 기재부의 일괄 예비타당성조사가 진행 중이다. 이 구간에는 한산대첩교(2.8km)·해금강대교(1km) 등 2개 새 해상 교량 건설이 포함돼 있다. 내년 7월쯤 결과가 나온다. 거제와 부산을 잇는 8.2km 구간은 거가대교와 해저터널로 이미 연결돼 있다. &lt;br&gt;&lt;br&gt;경남도는 남해안 섬 연결 해상 국도가 완공되면 하루 평균 최대 1만7000대가 이용할 것으로 본다. 이동 시간이 크게 줄면서 1000억원 이상의 비용 절감이 예상된다.&lt;br&gt;&lt;br&gt;경제적 파급 효과도 크다. 생산 유발 효과로만 약 4조 43억원, 취업 유발 효과는 2만 5518명에 이를 것으로 전망된다. &lt;br&gt;&lt;br&gt;다만 실제 착공까지는 예비타당성조사를 비롯해 국가 국도건설 계획에 반영돼야 하는 등 남은 절차가 많아 많은 시간이 소요될 것으로 보인다. &lt;br&gt;&lt;br&gt;박완수 경남지사는 “지역 간 접근성이 크게 개선되고, 나아가 남해안 해양관광 활성화도 기대된다”며 “국도 확정에 그치지 않고 사업이 조기에 실현되도록 ‘제7차 국도건설계획’ 반영 등에 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IHELCA5FIJGEJJKB4AFST3MY5E.png?auth=abc59b6f3a41ff638d240c27aa3cabe1fe1259e056d48d6dfa312a9431645fbb&amp;smart=true&amp;width=480&amp;height=360" type="image/png" height="360" width="480">
-        <media:description type="plain">그래픽=조선디자인랩 이연주</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>16년 만에 잡힌 시흥 슈퍼마켓 강도살인범, 무기징역 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/07/10/ZJVOCDV6CRC7JFX3WMKSPVLLZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/ZJVOCDV6CRC7JFX3WMKSPVLLZY/</guid>
@@ -907,51 +952,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 09:12:44 +0000</pubDate>
       <content:encoded>2020년 말 서울 동부구치소에서 발생한 코로나 집단 감염과 관련해 수용자 및 가족들이 국가를 상대로 손해배상 소송을 냈지만 2심에서도 졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYD6OXZGJ2OFYXMJ3N5PMX2SFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 민사9부(재판장 성지용)는 10일 동부구치소 수용자 및 가족 81명이 국가를 상대로 낸 손해배상 청구 소송에서 원고의 항소를 기각하고 1심과 같이 원고 패소 판결을 내렸다.&lt;br&gt;&lt;br&gt;이들은 2020년 말부터 동부구치소에 코로나 확진자가 속출했음에도 교정시설 감독 책임자였던 추미애 전 법무부 장관이 확진자 격리와 전수조사 등 조치를 제때 하지 않았다며 소송을 제기했다. 이들은 2021년 1월부터 세 차례에 걸쳐 위자료 총 5억9000만원을 국가 등에 청구했다.&lt;br&gt;&lt;br&gt;당시 동부구치소는 2020년 12월 14일 수용자 중 1명이 최초로 코로나 확진 판정을 받게 되자, 같은 달 18일에 수용자와 직원에 대한 코로나 전수검사를 실시했다. 그 결과 수용자·직원 2844명 중 185명이 코로나 확진 판정을 받았고, 동부구치소는 이들을 수용 거실에 집합시켜 격리한 바 있다. &lt;br&gt;&lt;br&gt;앞서 1심은 “법무부가 교정 시설 내 집단 감염이 발생했을 때 취해야 할 대책 마련에 다소 미흡했다”면서도 “동부구치소의 조치는 합리적인 범위 내에 있었고 주의 의무 소홀이라 보기는 어렵다”며 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘신당역 스토킹 살해범’ 전주환, 근로복지공단에 1억9000만원 배상 판결</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/XUCKMJGPV5DJTHTUUX6424PQGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/XUCKMJGPV5DJTHTUUX6424PQGA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 08:44:42 +0000</pubDate>
-      <content:encoded>신당역 스토킹 살해범 전주환(34)이 근로복지공단에 1억9000만원을 배상해야 한다는 1심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AD3GB6USLO422YCQIPQD7MBK6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'신당역 살인사건' 피의자 전주환이 2022년 9월 21일 오전 서울 중구 남대문경철서에서 서울중앙지검으로 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사49단독 조영기 부장판사는 10일 근로복지공단이 전주환을 상대로 낸 구상금 청구 소송에서 원고 승소로 판결했다. 전주환이 재판 과정에서 아무런 의견도 제출하지 않아, 재판부는 ‘무변론’으로 사건을 종결했다. 민사소송법에 따르면 피고가 소장 부본을 송달받은 날부터 30일 이내 답변서를 내지 않으면 청구 내용을 사실상 인정한 것으로 보고, 법원이 판결을 선고할 수 있다.&lt;br&gt;&lt;br&gt;전주환은 2022년 9월 14일 서울 지하철 2호선 신당역 여자 화장실에서 서울교통공사 입사 동기였던 여성 A씨를 흉기로 살해했다. 당시 전주환은 A씨를 불법 촬영하고 351회에 걸쳐 스토킹한 혐의로 재판을 받고 있었다. 이에 앙심을 품은 전주환이 스토킹 사건 1심 선고를 하루 앞두고 범행을 저지른 것이다. 전주환은 2023년 10월 대법원에서 무기징역을 확정받고, 경북북부제2교도소(옛 청송교도소)에 수감됐다.&lt;br&gt;&lt;br&gt;근로복지공단은 A씨의 사망을 ‘업무상 재해’로 인정하고, 유족에게 유족급여 1억9000여 만원 등을 지급했다. 공단은 이 금액을 전주환에게 달라며 구상권 청구 소송을 냈다. 구상권은 제3자가 대신 물어준 돈을 원래 책임이 있는 사람한테 청구할 수 있는 권리다.&lt;br&gt;&lt;br&gt;한편 A씨 유족은 안전 조치를 제대로 못한 서울교통공사에도 책임이 있다며 별도의 손해배상 소송을 냈지만, 1심에서 졌다. 전주환을 상대로 낸 손해배상 청구는 작년 5월 법원의 화해 권고 결정으로 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>익산에 고향사랑 기부하면 ‘맥도널드 햄버거’ 준다</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/07/10/SXYM2TF4Y5BM5NYVJCX3GKNTH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/07/10/SXYM2TF4Y5BM5NYVJCX3GKNTH4/</guid>
-      <dc:creator>익산=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 08:43:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4NV656LXAMWONGBTBDE3QM34M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 익산시청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 익산시가 한국맥도날드의 신메뉴 ‘익산 고구마 모짜렐라 버거’ 출시를 기념해 고향사랑기부제 참여자를 대상으로 특별 이벤트를 진행한다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;이번 신메뉴는 익산 지역 고구마 소비를 촉진하고 익산 농산물의 우수성을 전국에 알리기 위해 기획됐으며, 이날부터 전국 맥도날드 매장에서 판매를 시작했다.&lt;br&gt;&lt;br&gt;익산시는 ‘고향사랑이(e)음’ 또는 민간 플랫폼 ‘위기브’를 통해 익산시에 10만원 이상 기부하는 참여자에게 9200원 상당의 익산 고구마 모짜렐라 버거 세트 모바일 쿠폰을 증정한다. 별도의 신청 절차 없이 기부를 완료하면 자동으로 응모되며, 쿠폰은 주 2회에 걸쳐 개인 휴대전화 문자메시지로 발송될 예정이다.&lt;br&gt;&lt;br&gt;익산시는 전국 맥도날드 매장 트레이에 고향사랑기부제 참여 연계 QR코드를 삽입해 시민들이 보다 쉽게 기부에 참여할 수 있도록 했다. 이번 이벤트 기간에 익산시 고향사랑기부제에 10만원을 기부하면 기부자는 세액공제 100% 혜택과 3만원 상당의 익산시 답례품, 그리고 익산 고구마 버거 쿠폰까지 총 13만9200원의 혜택을 누릴 수 있다.&lt;br&gt;&lt;br&gt;김소철 익산시 행정지원과장은 “한국맥도날드와의 협업은 지역 농산물 판로 확대뿐만 아니라 고향사랑기부제 참여를 확산하는 전국적인 홍보 효과가 있을 것으로 기대한다”며 “앞으로도 고향사랑기부제 활성화를 위한 다양한 아이템을 발굴하고 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백범 암살’ 안두희 정의봉으로 처단… 박기서씨 별세 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/10/GJABSIOVZJHFFP2S57TAIDL3IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/GJABSIOVZJHFFP2S57TAIDL3IQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 08:07:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSNC2SJUOZCZNCCHJXA63EMQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 정의봉을 식민지역사박물관에 기증한 고인./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백범 김구(1876∼1949) 암살범인 안두희(1917∼1996)를 처단한 박기서(77)씨가 10일 경기 부천의 병원에서 지병으로 별세했다. &lt;br&gt;&lt;br&gt;박씨는 1948년 전북 정읍에서 태어났다. 경기도 부천 소신여객 시내버스 기사로 일하던 1996년 10월 23일 오전 11시 30분쯤 인천 중구 신흥동 안씨의 집에 찾아가 ‘정의봉’이라고 적은 40㎝ 길이의 나무 방망이로 때려 살해했다. &lt;br&gt;&lt;br&gt;범행 후 7시간 만에 경찰에 자수하고 “백범 선생을 존경했기에 안두희를 죽였다. 어려운 일이었지만 당당하다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 당시 안두희의 배후를 쫓았던 권중희씨의 저서 ‘역사의 심판에는 시효가 없다’를 읽고 살해를 결심했다고 한다. 안두희는 1949년 6월 26일 서울 서대문 인근 경교장(현 강북삼성병원 자리)에서 권총으로 백범 선생을 암살한 인물이다. &lt;br&gt;&lt;br&gt;박씨는 1997년 11월 대법원 상고심에서 징역 3년이 확정됐지만 1998년 3월 김대중 정부 때 사면돼 석방됐다. 출소 후에 소신여객 버스 기사와 택시 기사로 일했다. 2018년 서울 용산구 식민지역사박물관에 정의봉을 기증했다.&lt;br&gt;&lt;br&gt;고인의 빈소는 부천장례식장 7호실에 마련됐다. 발인은 12일 오전 5시, 장지는 모란공원묘지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김건희 특검, 압수수색 영장 최소 두 번 기각됐다... 왜?</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/QXO3MI3RXND3LGICRLPDEK4IKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/QXO3MI3RXND3LGICRLPDEK4IKU/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 07:38:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVLPLZAGZVXN6L2YGFXA4KXWW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사를 둘러싼 의혹을 수사하는 민중기 특별검사팀이 청구한 압수 수색 영장이 현재까지 최소 2차례 법원에서 기각된 것으로 파악됐다. 광범위하고 동시다발적인 수사를 진행하고 있는 만큼 특검이 적법한 절차에 따라, 수사범위를 명확히 설정해야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;김건희 특검팀은 지난 9일 정례브리핑에서 김모(48)씨와 관련한 일명 ‘집사 게이트’ 의혹에 대한 압수 수색 영장을 청구했지만, 법원에서 기각됐다고 밝혔다. 법원은 해당 의혹이 특검법에서 규정한 16개 의혹에 해당하지 않는다며 기각 사유를 설명했다. 김 여사가 경제적 수익을 얻었다는 추측만으로는 강제수사의 필요성이 충분히 소명되지 않는다고 본 것이다. 특검 관계자는 “원래 9일 압수 수색을 나가려고 100여 명을 대기시켰는데, 영장이 기각돼서 취소했다”고 설명했다.&lt;br&gt;&lt;br&gt;특검 측은 여전히 해당 의혹은 수사 대상이라는 입장이다. 특검은 “도이치모터스, 코바나컨텐츠, 수사 과정에서 인지된 관련 범죄 행위를 수사 대상으로 정하는 특검법 규정을 종합해 보면 이 사건은 특검의 수사 대상”이라며 “그런 부분을 잘 소명해서 영장을 받을 수 있도록 노력할 것”이라고 했다. 그러나 시간이 한정돼 있는 만큼 특검법에 직접적으로 명시된 의혹을 규명하는 데 집중해야 한다는 지적도 나온다.&lt;br&gt;&lt;br&gt;특검이 청구한 영장이 기각된 사례는 이전에도 있다. 김건희 특검은 지난 3일 ‘1호 강제수사’인 삼부토건 등을 압수 수색했는데, 이때도 첫 번째로 청구한 영장이 기각됐다. 압수 수색 대상이 되는 장소의 주소 등을 제대로 적어내지 않았다는 이유였다. 특검 측은 지난 1일 청구했던 영장이 기각되자 2일 다시 서울중앙지법에 영장을 청구했고, 그날 밤 발부 결정이 나자 이튿날인 3일 오전부터 삼부토건 본사·관계사·관계자 자택 등 13곳에 대한 압수 수색에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보이스피싱에 속아 모텔에 4일간 ‘셀프감금’된 20대 男...3000만원 뜯기고 구조</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/10/Y5AKVN52EJFIZCCYMV6PTZV3N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/Y5AKVN52EJFIZCCYMV6PTZV3N4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 05:44:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AU7EZTBNMTTMT6TDQ7JB6TWJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금융감독원을 사칭한 보이스피싱범들에게 속아 모텔에 감금되고 수천만원을 뜯긴 20대 남성이 4일만에 경찰에 구조됐다.&lt;br&gt;&lt;br&gt;서울 강북경찰서는 서울 강북구의 한 모텔에서 보이스피싱 피해자 20대 남성 A씨를 구조했다고 10일 밝혔다. A씨는 감금된 동안 피의자들에게 약 3000만원을 뜯겼다고 한다.&lt;br&gt;&lt;br&gt;지난 1일 밤 “지인인 A씨가 돈을 이곳저곳에 빌리려 하는데 이상하다”는 내용의 신고를 접수받은 경찰은 보이스피싱 범죄임을 직감하고 피해자 수색에 나섰다. 위치 추적을 하던 경찰은 서울 강북구 수유역 인근의 한 모텔에서 A씨의 신호를 발견했고, 곧장 그가 머물던 방으로 진입했다. &lt;br&gt;&lt;br&gt;당시 A씨는 경찰을 믿지 못하고 자신이 처한 상황을 끝까지 부인했으나 현장에 있던 경찰의 끈질긴 설득 끝에 구조됐다고 한다. A씨 주변에 있던 종이에는 금감원을 사칭한 B씨의 보이스피싱 범죄 정황이 적혀있던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 검사를 사칭한 다른 보이스피싱 조직원 C씨로부터 “당신의 계좌가 범죄에 연루됐는데 아무도 없는 곳에 가서 우리 지시만 받아라. 그러지 않으면 바로 구속시키겠다”는 협박을 받고 모텔에 간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰이 발견했을 당시 A씨는 B씨의 지시에 따라 지난달 28일부터 지난 1일까지 약 3000만원을 송금한 상태였다고 한다. A씨는 3000여 만원을 더 빼앗길 위기였으나 구조된 덕에 추가 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 송금한 계좌를 지급정지 처리하고 신원미상의 조직원들을 통신사기피해환급법 위반 등 혐의로 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이철규 의원 아들도 며느리도 마약” 검찰 징역 5년 구형</title>
