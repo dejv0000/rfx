@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 특검 “尹 건강상 문제 확인해달라고 구치소에 공문"</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/DKXUIV3MORGWNHNXKO6BITHAHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/DKXUIV3MORGWNHNXKO6BITHAHA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 04:59:02 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LD6SYAUYXEILMM644QRBTQQKIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 124일 만에 재구속된 10일 서울 서초구 서울고등검찰청에 마련된 조은석 특별검사(내란특검 특검) 사무실 앞에 적막감이 감돌고 있다. 지난 3월 법원의 구속취소 결정으로 풀려난 후 재구속된 윤 전 대통령은 이날 오전 예정된 내란 우두머리 혐의 사건 형사재판에 불출석했다. ⓒ News1 오대일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 11일 브리핑에서 “금일 오후 2시 윤 전 대통령을 소환했으나, 윤 전 대통령 측이 건강상 이유로 불출석 사유서를 제출했다”며 “특검은 서울구치소에 출석 조사를 받을 수 없는 건강상의 문제가 수용자 입소시 건강검진 및 관리 과정에서 발견됐는지 확인 요청하는 공문을 발송했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 특검보는 “서울구치소가 제출하는 자료를 검토한 후 그에 상응하는 다음 단계를 조치할 예정”이라고 했다. 서울구치소에 보관 중인 윤 전 대통령의 건강 관련 자료는 이르면 이날 특검 조사실이 있는 서울고검으로 전달될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가 핵심기술 등 영업비밀 174건 유출 혐의…삼성바이오 40대 前 직원, 법정 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/CMJ2RQBOTVFCJGAAN3N5YNXI2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/CMJ2RQBOTVFCJGAAN3N5YNXI2A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 05:08:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTD54BMRDX4ZGAYTHLGRIDIQRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수구 송도동 삼성바이오로직스 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성바이오로직스의 정보기술 표준작업지침서(IT SOP)와 국가 핵심 기술 등이 담긴 자료를 무단으로 빼낸 40대 전 직원이 징역형을 선고받고 법정 구속됐다. &lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 11일 산업기술의 유출 방지 및 보호에 관한 법률 위반 등 혐의로 기소된 삼성바이오로직스 전 직원 A씨에게 징역 3년을 선고하고 법정 구속했다. &lt;br&gt;&lt;br&gt;홍 판사는 “피고인이 피해 회사의 산업기술과 영업비밀을 유출·절취하거나 절취 미수 범행을 했고, 절취한 내용에는 생명공학 분야 국가 핵심 기술이 포함돼 있어 실형을 선고한다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;검찰은 지난달 열린 결심 공판에서 A씨에게 징역 5년을 구형했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 12월 초 A4 용지 3700여 장 분량의 표준작업지침서(SOP) 등 삼성바이오로직스의 영업 비밀 175건을 외부로 유출한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 같은 달 13일 오후 7시쯤 인천시 연수구 송도동 삼성바이오로직스 본사에서 영업비밀 38건을 몰래 빼내려다가 보안 요원에게 붙잡혀 경찰에 인계됐다. A씨가 반출하려 한 자료는 A4 용지 300여 장 분량으로 정보기술 표준작업지침서(IT SOP)와 외국 규제기관 가이드라인을 분석한 자료 등 국가 핵심 기술 2종이 포함된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;IT SOP는 바이오의약품을 대량 생산하기 위한 공정 표준화 자료로, 삼성바이오로직스 배양정제 공정의 품질 경쟁력을 유지‧개선하는 내용을 담고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 김건희 일가 집사, 金모친 ‘요양병원’ 사건서도 활약</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/TO3ENC7TXFEJBIH5GW4WUVUVL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/TO3ENC7TXFEJBIH5GW4WUVUVL4/</guid>
+      <dc:creator>표태준 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 04:44:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKHFJHY5HZCVLEEGTUKJCQHQFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 일가의 집사라고 불리는 김모(48)씨가 김 여사 모친 최은순씨가 연루된 ‘잔고증명서 위조’ 사건뿐만 아니라 ‘요양 급여 부정 수급’ 의혹에서도 최씨의 각종 심부름을 도맡았던 것으로 11일 확인됐다. &lt;br&gt;&lt;br&gt;김 여사 모친 최씨는 요양 급여 부정 수급 의혹으로 1심에서 징역 3년을 선고받았지만 2심에서 무죄를 선고받은 판결이 확정됐다. 그런데 이 사건 판결문에 따르면, 김씨가 최씨의 각종 심부름꾼 역할을 한 사실이 곳곳에 드러난다.&lt;br&gt;&lt;br&gt;최씨는 2013년 동업자들과 함께 경기 파주의 한 요양병원에 투자하는 과정에서 원래 요양병원 소유주인 의사 A씨와 분쟁을 겪었고, 법원에 의해 가지고 있던 서울 강동구의 한 부동산을 가압류당했다. 이때 해결사 역할을 한 것이 김씨다. 김씨는 2013년 10월 최씨와 함께 A씨를 찾아가 ‘계약 위반으로 발생하는 모든 손해금액을 최씨와 김씨가 책임진다’는 이행각서를 써주며 부동산 가압류를 풀어달라고 요청했다. &lt;br&gt;&lt;br&gt;앞서 2013년 3월 최씨는 이 부동산을 요양병원을 채무자로 하여 근저당권설정을 했는데, 이 역시 김씨를 통해서 한 것이었다. 김씨는 최씨가 이 요양병원 투자에 필요한 돈을 대출 받는 과정에도 개입한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨는 최씨가 동업자들과 이 요양병원에 투자하는 과정에서 병원에 엑스레이(X-Ray) 장비가 필요한 사실을 알고는 직접 이와 관련한 병원 회의에 참여하고, 엑스레이 업체를 물색해 병원 측에 소개하기도 했다.&lt;br&gt;&lt;br&gt;김씨가 최씨의 경제 활동과 관련한 크고 작은 각종 심부름을 도맡으며 깊은 인연을 쌓았다고 볼 수 있는 것이다.&lt;br&gt;&lt;br&gt;앞서 김씨는 최씨의 ‘잔고증명서 위조 사건’에서 최씨의 부탁을 받고 잔고증명서를 직접 위조한 사실이 재판 과정에서 드러나며 세간에 알려졌다. 그런데 최씨가 받았던 또 다른 의혹인 요양 급여 부정 수급 사건에서도 김씨가 큰 역할을 한 것이다.&lt;br&gt;&lt;br&gt;두 사람의 인연은 김 여사가 이어준 것으로 알려졌다. 김 여사가 각종 사업을 하던 모친 최씨에게 각종 법률 작업을 도와줄 사람이 있다며 연세대 법대를 졸업한 김씨를 소개해줬다는 것이다. 김 여사와 최씨는 2010년 서울대 경영전문대학원(EMBA) 과정을 밟으며 가까워졌다.&lt;br&gt;&lt;br&gt;김 여사 관련 의혹을 수사하는 민중기 특검팀은 김씨가 최씨를 지근거리에서 보좌하며 김 여사 일가와 맺은 ‘경제적 인연’에 주목하고 있다. 김씨는 자신이 임원으로 있던 IMS모빌리티(옛 비마이카)에 2023년 기업들이 거액을 투자하자 자신이 가진 주식을 처분하며 46억원을 챙겼다. 이 과정에 김 여사의 개입이 있지 않았겠느냐고 특검은 의심하고 수사 중이다.&lt;br&gt;&lt;br&gt;김 여사와 김씨의 관계를 잘 아는 이들은 2020년 전후 검찰이 ‘잔고증명서 위조’ ‘요양급여 부정 수급’ 등 의혹으로 수사하며 두 사람의 관계가 급격히 멀어졌다고 얘기하고 있다. 김씨가 검찰 수사 과정에서 최씨에게 결정적으로 불리한 진술들을 했다는 이유에서다. &lt;br&gt;&lt;br&gt;김 여사 일가 내부 사정을 잘 아는 한 관계자는 “김 여사는 모친의 잔고증명 위조나 요양병원 투자 내막을 모르다가 검찰 수사가 시작되며 알았다”며 “당시 김 여사가 김씨에게 ‘법률 조언을 해달란 취지로 모친에게 소개해줬더니 상황을 더 악화시키느냐’며 크게 화를 내고 둘 사이가 멀어진 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;김씨의 오랜 동업자이자 IMS 대표로 있는 조모씨도 본지에 “잔고증명서 위조 사건 때 김씨가 위조 사실을 시인하며 최씨가 유죄를 받았다”며 “이 사건 이후 김 여사와 김씨의 관계가 틀어졌다”고 했다.&lt;br&gt;&lt;br&gt;그러나 특검은 김씨가 윤 전 대통령 당선 이후에도 김 여사 일가와 인연을 이어왔을 것이라고 의심하고 있다. 김씨는 윤석열 전 대통령이 대선 후보로 나선 2021년 1000만원의 후원금을 냈고, 이듬해 취임식에도 초청받아 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“길에서 대변, 버스 안 흡연까지”…제주 초등생이 내놓은 해법은</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/11/IUFVMAWGVVHG7IU2LDHO5MUBR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/IUFVMAWGVVHG7IU2LDHO5MUBR4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 04:37:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCIFGCHYM5B6FBLQKAYP7DPVOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 시내 사거리에서 중국인 관광객으로 보이는 아기가 대변을 보는 모습./에펨코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길에서 용변을 보거나 아무 곳에서 흡연을 하는 등 기초 질서를 지키지 않는 외국인 관광객 문제를 보다 못한 제주 초등학생들이 정책 제안에 나섰다. &lt;br&gt;&lt;br&gt;지난 4일 제주도청 홈페이지 ‘제주자치도에 바란다’ 코너에는 ‘외국인 관광객 에티켓 문제 해결 방안을 제안합니다’라는 글이 올라왔다. 이 글은 “표선초등학교 4학년 3반 M.T.E(matter of tourist etiquette)팀”이 쓴 것이다.&lt;br&gt;&lt;br&gt;국제바칼로레아(IB) 학교인 표선초는 모든 학년 학생이 6가지 초학문적 주제로 1년 내내 개념 기반 탐구 수업을 하고 있다. 이번 외국인 관광객 에티켓 제안은 ‘우리 자신을 조직하는 방식’ 중 지역 문제 해결과 관련한 수업 결과로 전해졌다.&lt;br&gt;&lt;br&gt;이들은 “최근 제주도에 중국인 관광객이 많아지면서 민폐 행동이 문제가 되고 있다”라며 “원래 제주는 깨끗한 제주라고 불리며 관광객도 많이 찾는 곳인데 이러한 행동 때문에 제주도의 이미지가 안 좋아질 수도 있고 다른 관광객들도 제주도 오는 것을 꺼릴 수 있을 것 같다”라며 글을 올린 이유에 관해 설명했다.&lt;br&gt;&lt;br&gt;학생들은 이를 해결하기 위한 정책 제안 첫 번째로 외국인 관광객의 민폐 행동을 신고하면 바로 출동해 행동을 막아줄 수 있는 기관이 필요하다고 제안했다. 제주도에서 제주 관광 불편 신고센터를 운영하고 있지만 신고하더라도 접수하고 처리하는 데 오래 걸려 즉시 대응하기가 어렵다는 이유에서다. &lt;br&gt;&lt;br&gt;또한 외국인 관광객들에게 공항에서 한국의 주요 에티켓을 알려주는 스티커나 안내 책자를 배부해달라고 요청했다. 마지막으로 주요 관광지에 우리나라 에티켓이 적힌 안내 표지판을 설치하면 문화가 달라 모르고 실수하는 관광객들이 하는 행동을 줄일 수 있다고 봤다. &lt;br&gt;&lt;br&gt;제주는 우리나라를 찾는 외국인 관광객의 주요 여행지다. 하지만 일부 외국인 관광객이 기초 질서를 지키지 않거나 몰상식한 행동을 보여 자주 논란이 된 바 있다. 지난해 6월 제주도 시내 한 거리에서 중국인 관광객으로 추정되는 아이가 대변을 보는 모습이 온라인상에 퍼져 논란이 됐다. 올해 4월에는 중국인 여성이 버스 안에서 담배를 피우다 일부 승객이 항의하자 담배꽁초를 도로에 버린 장면이 포착되기도 했다. &lt;br&gt;&lt;br&gt;제주경찰청에 따르면 지난 3월 23일부터 6월 30일까지 100일간 ‘외국인 범죄 대응 특별 치안 대책’을 실시한 결과 무단횡단, 무단 투기, 노상 방뇨 등 기초 질서 위반 적발 건수가 4806건에 달했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“더운데 왜 닫아”…아파트 복도 창문을 닫았다며 이웃을 흉기로 위협한 70대</title>
+      <link>https://www.chosun.com/national/regional/2025/07/11/7QO7UPAIFJHVNF53Q4DEIAQURY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/11/7QO7UPAIFJHVNF53Q4DEIAQURY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 04:23:04 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2HGD3DWAE3BVPRYW6LXYDDTZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더운 날씨가 이어지는 가운데 아파트 복도 창문을 닫았다는 이유로 흉기로 이웃을 위협한 70대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 달성경찰서는 특수협박 혐의로 A씨를 붙잡아 조사하고 있다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 대구 달성군 한 아파트에 사는 A씨는 지난 10일 오후 8시 40분쯤 이웃에 사는 50대 여성 B씨가 여성이 아파트 복도 창문을 닫자 흉기로 위협한 혐의를 받는다. 이 과정에서 다친 사람은 없는 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “더워서 시원한 바람을 맞으려고 복도 창문을 열고 있는데 B씨가 복도 창문을 닫아서 화가 났다. 겁만 주려고 했다”고 진술했다.&lt;br&gt;&lt;br&gt;이 사건 발생 이전에 두 사람은 갈등을 빚은 적이 없었으며 아파트 같은 층에 살고 있을 뿐 알고 지내는 사이는 아니었다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “피해자가 처벌을 원하지 않는다는 입장을 밝히긴 했지만, 특수협박 혐의가 적용되는 만큼 사건 경위를 조사해 절차에 따라 처리할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;경찰은 재발 방지 등을 위해 아파트에 지능형 폐쇄회로(CCTV)를 설치하고, 피해자에게 스마트워치 지급을 검토하고 있다. &lt;br&gt;&lt;br&gt;한편 대구지방기상청의 자료를 보면 지난 10일 대구 지역의 낮 최고기온은 31.3도였고, 열대야 현상도 발생하지 않는 등 상대적으로 무더위가 한 풀 꺾인 상황이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>불법PC방 업주에 단속 정보 흘린 경찰관 구속 </title>
       <link>https://www.chosun.com/national/2025/07/11/QH5JWKMHCRDWFC25GVZJCDR4TA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/QH5JWKMHCRDWFC25GVZJCDR4TA/</guid>
@@ -822,15 +867,6 @@
       </media:content>
     </item>
     <item>
-      <title>수도권 서북부 교통난 해소 기대…‘서부권 광역급행철도’ 예타 통과</title>
-      <link>https://www.chosun.com/national/regional/2025/07/10/SV3GEF3MRZGB5AC777ACWW3INY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/10/SV3GEF3MRZGB5AC777ACWW3INY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 05:34:29 +0000</pubDate>
-      <content:encoded>경기 김포와 인천 검단 등 수도권 서북부의 만성적인 교통난을 해소할 것으로 기대를 모으는 ‘서부권 광역급행철도’ 사업이 본격 추진된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VO2DMRR3WNBKZGSU6NZ42SITZY.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 인천시에 따르면 ‘서부권 광역급행철도’ 사업이 기획재정부 주관 재정사업평가위원회의 예비타당성 조사 절차를 통과했다. &lt;br&gt;&lt;br&gt;서부권 광역급행철도는 경기 김포 장기역에서 인천 검단과 계양, 경기 부천종합운동장역까지 21㎞를 연결한다. 총사업비는 2조 6710억원 규모다. 기본‧실시설계 등 절차를 거쳐 2028년 착공, 2033년 준공 예정이다. &lt;br&gt;&lt;br&gt;서부권 광역급행철도는 부천종합운동장역부터 수도권광역급행철도(GTX) B 노선을 쓰며 서울 청량리까지 총 49㎞를 직결 운행하게 된다. &lt;br&gt;&lt;br&gt;경기 김포에서 서울까지 소요 시간이 최대 80분에서 약 30분대로 크게 단축될 것으로 예상된다. 김포 골드라인 등 서울과 수도권 서북부를 연결하는 철도와 도로의 혼잡도 완화에도 도움이 될 것으로 기대되고 있다. &lt;br&gt;&lt;br&gt;인천시는 이번 서부권 광역급행철도가 개통되면 인천 검단에서 서울역까지 20분 정도면 갈 수 있을 것으로 예상돼 시민들의 서울 접근성 개선에 도움이 될 것으로 기대하고 있다. 인천지하철 1호선, 공항철도 등과도 환승이 이뤄질 것으로 예상된다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “국토교통부 등 관계기관과 긴밀히 협력해 사업이 속도감 있게 추진될 수 있도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>보이스피싱에 속아 모텔에 4일간 ‘셀프감금’된 20대 男...3000만원 뜯기고 구조</title>
       <link>https://www.chosun.com/national/national_general/2025/07/10/Y5AKVN52EJFIZCCYMV6PTZV3N4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/Y5AKVN52EJFIZCCYMV6PTZV3N4/</guid>
@@ -903,37 +939,6 @@
       <content:encoded>내란 특검은 10일 새벽 구속영장이 발부된 윤석열 전 대통령에 대한 조사를 내일(11일) 진행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI6YUPXHCMIES3VL3ZODEGUWXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특검팀의 박지영 특검보가 8일 서울 서초구 서울고등검찰청 기자실에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 “오늘은 윤 전 대통령의 형사 재판이 진행 중이어서 조사하지 않고, 내일 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;박 특검보는 “향후 윤 전 대통령에 대한 조사가 충분히 이뤄질 수 있도록 할 예정”이라면서 “사회 일반의 인식이 허용하는 범위 내에서 전직 대통령의 신분은 당연히 고려하겠다. 다만 그 외에는 다른 피의자와 달리하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 윤 전 대통령의 구속영장 발부 사유가 ‘영장 기재 범죄 사실을 범하였다고 의심할 만한 상당한 이유가 있고 증거 인멸 우려가 있다’는 것이라고 밝혔다. 이어 “구속영장은 오전 3시 서울구치소에서 특검 지휘에 따라 교도관에 의해 집행됐다”면서 “김건희 여사와 변호인에게 우편 발송으로 (윤 전 대통령) 구속 사실을 통지했다”고 했다.&lt;br&gt;&lt;br&gt;‘구속영장에 담기지 않은 외환 혐의도 구속 기간 20일 내에 조사할 계획이 있느냐’는 질문에는 “기본적으로 영장에 기재된 범죄 사실을 위주로 조사할 것”이라면서도 “다른 혐의는 본인 동의를 얻으면 조사 가능할 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘주가조작’ 삼부토건 전·현 회장, 특검 출석 “원희룡·이종호 관련 모른다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/PLVKNQXXSVF7PNSOKPF6M46PSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/PLVKNQXXSVF7PNSOKPF6M46PSE/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 01:00:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YODIQODABM27K4O7BYDMKJQP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이일준 삼부토건 회장이 10일 오전 서울 종로구 KT 광화문빌딩 웨스트에 마련된 김건희 여사 연루 의혹이 제기된 주가조작 사건을 조사하는 민중기 특별검사팀 사무실로 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘삼부토건 주가조작’ 의혹을 수사하는 민중기 특별검사팀이 10일 이일준 삼부토건 현 회장과 조성옥 전 회장을 불러 조사한다. 두 사람 모두 피의자 신분이다. 특검팀은 이들에게 주가조작 경위와 김건희 여사, 원희룡 전 장관과의 관계 등에 대해 캐물을 전망이다.&lt;br&gt;&lt;br&gt;이날 오전 10시부터 예정된 조사를 앞두고 이 회장과 조 전 회장은 각각 특검 사무실에 출석했다. 삼부토건이 ‘우크라이나 재건 포럼’에 참석한 이유를 묻는 취재진의 질문에 이 회장은 “회사를 위해서 대표가 추진했던 걸로 알고 있다”며 “실체적 진실이 밝혀질 수 있도록 소명하겠다”고 했다. 다만 원 전 장관의 포럼 참석 경위에 대해선 “잘 모른다”고 했다. 김 여사나 이종호 전 블랙펄인베스트먼트 대표와의 관계에 대해선 “전혀 모른다” “전혀 연관이 없다”고 부인했다. 조 전 회장도 “나와 다 관계도 없는 사람들”이라며 의혹을 부인했다.&lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹은 삼부토건이 우크라이나 재건 사업에 참여할 의사와 능력이 없는데도 사업에 뛰어드는 척 가장해 주가를 의도적으로 부양했다는 내용이다. 특히 삼부토건의 주가는 2023년 5월 22일 폴란드에서 열린 우크라이나 재건 포럼을 기점으로 치솟았는데, 당시 포럼에 원 전 장관이 삼부토건 관계자들과 함께 참석했다.&lt;br&gt;&lt;br&gt;또 그즈음 김 여사의 계좌를 관리한 이종호 전 블랙펄인베스트먼트가 “삼부 (주식) 내일 체크하고”라는 메시지를 단체 채팅방에 올린 사실도 드러났다. 비슷한 시기 윤석열 전 대통령 부부는 우크라이나 대통령 부인 젤렌스카 여사를 접견하고, 정부 차원의 우크라이나 재건 지원을 약속하기도 했다. 이같은 정황에 비춰 특검은 주가조작에 윤 전 대통령 부부와 원 전 장관 등도 개입했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 지난 3일 삼부토건 본사와 관계자 자택 등을 압수 수색하며 본격적으로 해당 의혹을 들여다 보고 있다. 특검팀은 신속한 수사를 위해 압수물 분석 동시에 관계자 조사를 진행한다는 방침이다. 특검팀은 지난 4일 이응근 전 삼부토건 대표에 대한 소환 조사를 시작으로, 삼부토건 및 재건 포럼 주최 측 관계자들에 대한 조사를 연일 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5300억 들인 AI 교과서, 국회 교육위, 사실상 폐기 법안 통과</title>
-      <link>https://www.chosun.com/national/education/2025/07/10/N5REUZZJRVE5RBDSPOJVKZJ2YY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/10/N5REUZZJRVE5RBDSPOJVKZJ2YY/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 01:33:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5E3KZYC2ZAKLJDQ6EPMMLMUFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 강원 춘천시 한 초등학교에서 학생이 AI 교과서를 활용해 수학 문제를 풀고 있다.
-/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 윤석열 정부가 도입한 ‘AI(인공지능) 디지털 교과서’를 ‘교육 자료’로 격하하는 법안이 국회 교육위원회에서 통과됐다. 국회 과반 이상을 차지하고 있는 더불어민주당이 해당 법안을 강력하게 추진하고 있어 향후 본회의 통과도 유력하다. 이주호 교육부 장관은 “심히 유감을 표명한다”고 밝혔다. &lt;br&gt;&lt;br&gt;국회 교육위원회가 10일 전체회의를 열고 지난 윤석열 정부에서 도입한 AI(인공지능) 디지털 교과서를 교육현장에서 ‘교육자료’로 격하하는 내용을 담은 ‘초중등교육법 개정안’을 표결 처리했다. &lt;br&gt;&lt;br&gt;AI 교과서는 첨단 AI 기능을 활용해 학생 개인의 수준에 맞는 ‘맞춤형 교육’을 하기 위해 도입됐다. 업체 12곳이 정부의 검정 심사를 통과했고, 올 1학기부터 초 3·4학년(영어·수학), 중 1·고 1(영어·수학·정보) 학생들이 사용하고 있다. 전면 의무 도입을 추진했던 교육부는 민주당 반대로 원하는 학교만 자율적으로 사용하도록 했다. 교육부는 교사 연수, 기기 구입, 인프라 구축 등으로 작년에만 5300억원 넘는 예산을 이 사업에 투입했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 지난 대선에서 AI 교과서를 ‘교육 자료’로 격하하는 방안을 공약했다. 교육계는 교과서인 지금도 전체 1만1932개 학교 가운데 32%만 채택했는데, 교육 자료가 되면 거의 사용되지 않을 것으로 보고 있다. 도입 1년 만에 예산만 수천억 원 낭비하고 학교 현장에서 사실상 퇴출되는 것이다.&lt;br&gt;&lt;br&gt;이주호 장관은 이날 교육위에서 “이 법률안이 최종 확정될 경우 학교 현장에서 대혼란이 우려된다”며 “앞으로 현장에서 ‘교육 자료’로으로 국회 논의 과정에서 신중하게 검토되기를 요청한다”고 밝혔다.&lt;br&gt;&lt;br&gt;민주당은 오는 23일로 예정된 국회 본회의에서 이번 개정안을 통과시키는 방안을 검토하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>곡성서 폭염 속 밭일하던 80대 숨져…사인 열사병 추정</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/10/WWPWUGYP3JBVLGW3IXRXCYS5RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/10/WWPWUGYP3JBVLGW3IXRXCYS5RI/</guid>
-      <dc:creator>곡성=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 01:52:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOJ6TLLGEPOP44ANTKD533DQ34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 곡성경찰서. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염경보가 내려진 전남 곡성 밭에서 일하던 80대 여성이 숨져 경찰이 사망 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;10일 전남 곡성경찰서에 따르면 전날 오후 1시 47분쯤 곡성군 겸면의 한 밭에서 A(81)씨가 의식 불명 상태로 발견돼 병원으로 옮겨졌지만 숨졌다. A씨는 이날 오전 밭일을 나간 뒤 연락이 두절된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 의료진으로부터 A씨의 사망 원인이 열사병으로 추정된다는 소견을 전달받았다. A씨 신체에서 외상은 발견되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨가 발견된 당일 곡성은 폭염경보가 내려져 있었다. 낮 최고기온이 오후 2시 13분 대표 관측 지점 기준 36.2도였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;보건 당국은 A씨를 온열질환 사망자로 분류할지 검토 중이다. 경찰은 A씨에 대한 정확한 사망 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TOJ6TLLGEPOP44ANTKD533DQ34.jpg?auth=048739496ba93f6696b9c5f88a37b91070fa1d9ba4e71d31114451af6dfc02cd&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">전남 곡성경찰서. 뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘최서원 명예훼손’ 안민석, 1심 유죄...벌금 300만원 선고</title>
       <link>https://www.chosun.com/national/court_law/2025/07/10/63USXY266NBEXFHKM66SBG3NCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/63USXY266NBEXFHKM66SBG3NCE/</guid>
@@ -959,15 +964,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 01:57:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CCJATN35RM55I44MM45EO3OBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 인천 서구 대단지 아파트에서 수영장 청소에 쓰이는 염소계 화학물질이 누출돼 119화학대응센터 등 관계자가 조사를 위해 현장에 들어가는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일 오후 인천시 서구 백석동 4800가구 대단지 아파트에서 발생한 수영장 청소용 염소계 화학물질 누출에 따른 부상자가 21명으로 집계됐다. &lt;br&gt;&lt;br&gt;인천소방본부는 서구 백석동 아파트 화학물질 누출과 관련, 부상자가 21명으로 최종 집계됐다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;화학물질 납품업체 직원 A(42)씨, 아파트 관계자 B(64)씨와 10~70대 주민 19명이 부상자로 파악됐다. &lt;br&gt;&lt;br&gt;이들은 호흡 곤란이나 어지럼증 등 증세를 보여 병원으로 이송돼 치료를 받았고, 모두 퇴원한 상태다. &lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 작업 과정 등에 대한 구체적인 사실관계를 조사한 뒤 업무상 과실치상 혐의 적용 여부를 정할 계획이다. &lt;br&gt;&lt;br&gt; 지난 9일 오후 3시 2분쯤 인천시 서구 백석동의 대단지 아파트 커뮤니티 센터 지하 2층 기계실에서 차아염소산나트륨 수용액을 보관 탱크에 주입하던 도중 호스가 빠지면서 시고가 난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;누출된 수용액이 하수구에 유입됐고, 강한 락스 냄새가 인근에 있는 수영장과 실내 골프장, 헬스장 등으로 확산하면서 피해가 발생한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;차아염소산나트륨 수용액은 표백제나 소독제로 활용된다. 밀폐 공간에서 호흡기 자극을 유발할 수 있다. 차아염소산나트륨은 시중에서 판매되는 락스에도 쓰이는 물질이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 문상호, ‘민간인’ 노상원에 정보사 요원 개인정보 넘겼다</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/10/76L6DL5RTNBUNHKL3AJ63SOZXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/10/76L6DL5RTNBUNHKL3AJ63SOZXQ/</guid>
-      <dc:creator>유종헌 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 00:41:52 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 준비 과정에서 문상호 당시 정보사령관이 민간인인 노상원 전 정보사령관에게 정보사 요원들의 출신·출생 지역·학력까지 넘긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2D7EXILMRJOTCTLDPUZFBWS6M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 전 국군정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 부승찬 더불어민주당 의원실이 국방부 검찰단으로부터 제출받은 문 전 사령관의 개인정보보호법 위반 혐의 공소장에 따르면, 문 전 사령관이 텔레그램 등 보안 메신저로 노 전 사령관에게 넘긴 정보사 요원 46명의 인적 사항에는 계급·성명뿐만 아니라 출신 및 임관 연도, 출생 지역, 학력, 기타 특징 등도 포함됐다. 정보사 요원의 개인정보는 3급 군사 기밀인데 이 같은 정보가 민간인에게 넘어간 것이다. 개인정보가 유출된 요원 중에는 특수 임무를 수행하는 HID 요원들도 포함돼 있었다.&lt;br&gt;&lt;br&gt;공소장에 따르면, 노 전 사령관은 지난해 10월 “대규모 탈북 징후가 있으니, 임무 수행을 잘할 수 있는 인원을 선발하라”고 문 전 사령관에게 지시했다. 그러나 실제 노 전 사령관 목적은 중앙선거관리위원회의 부정선거 관여 의혹 등을 수사할 ‘제2수사단’ 구성이었다.&lt;br&gt;&lt;br&gt;이에 문 전 사령관은 정보사 김봉규·정성욱 대령 등을 통해 정보사 요원 명단을 작성한 뒤 노 전 사령관에게 보냈다. 이 과정에서 노 전 사령관의 요구가 있으면 일부 명단을 교체하기도 했다. 자료 전달에는 보안 메신저인 텔레그램과 시그널이 이용됐다. 노 전 사령관은 46명 중 40명을 최종 선발해 제2수사단에 배치했다.&lt;br&gt;&lt;br&gt;군검찰은 내란 특검 출범 직후인 지난달 23일 문 전 사령관을 추가 기소하고, 구속 영장 추가 발부를 요청했다. 군사법원이 추가 구속 영장을 발부하면서 문 전 사령관은 구속 상태로 계속 재판받게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
