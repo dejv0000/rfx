@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2025년 7월 12일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;15:00 다큐영화 《노회찬6411》 추모 상영회(아트하우스 모모)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;15:00 김준형 의원실, 위태로운 중동 : 가자부터 이란 핵 타격까지(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Fri, 11 Jul 2025 22:39:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209675</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209675</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>2017년 이후 기업들 코바나·IMS에 협찬 … 왜 줬나</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/209667.jpg" alt="34535373.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="8480"&gt;윤석열&lt;/span&gt;(65·사법연수원 23기) 전 대통령의 아내 김건희 여사 관련 의혹을 수사 중인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;&amp;nbsp;특별검사팀(이하 ‘김건희 특검팀’)은 여러 기업들이 연루된 각종 이권과 특혜 의혹 규명에 수사력을 집중하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;우선 코바나컨텐츠 주최 전시회 관련 수사가 진행 중이다. 이 의혹은 김 여사가 운영한 코바나컨텐츠가 2015년 ‘마크 로스코전’, 2016년 ‘현대건축의 아버지 르 코르뷔지에전’, 2018년 ‘알베르토 자코메티전’, 2019년 ‘야수파 걸작전’을 개최하면서 기업들로부터 뇌물성 협찬을 받았다는 내용이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김건희 특검팀은 기업들이 윤 전 대통령의 당시 지위를 보고, 부인인 김건희 여사가 운영하는 코바나컨텐츠가 주최하는 전시회에 협찬한 것으로 의심하고 있다. 박근혜 정부 국정농단 사태에서 대기업들이 ‘미르재단’에 출연금을 냈던 것과 비슷한 구조여서, 기업 총수들이 줄줄이 수사받을 가능성도 제기된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법조에서는 윤 전 대통령이 검찰 요직에 등용되기 시작한 2017년 이후부터 협찬한 기업들은 뇌물로 해석할 여지가 있다는 분석이 나온다. 윤 전 대통령은 2016년 12월 1일 국정농단 특검 수사팀장으로 지명됐다. 당시&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="677"&gt;박영수&lt;/span&gt;(73·10기) 특검은 임명장을 받자마자, 법무부에 윤 전 대통령을 파견 요청했다. 특검보 임명도 전이었다. 박 특검의 신임을 받은 윤 전 대통령은 특검 수사에 핵심 역할을 맡았다. 비슷한 무렵 열린 ‘르 코르뷔지에전’에는 LG전자, 대한항공, 삼성카드, 게임빌, 컴투스, 배달의민족 등이 협찬사로 등장한다. 도이치모터스와 비마이카도 협찬사다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤 전 대통령이 2017년 5월 서울중앙지검장으로 임명된 뒤, 그해 12월 열린 ‘자코메티전’에는 LG전자와 희림, 게임빌, 컴투스 등이 협찬했다. 용산 대통령 관저 불법 증축 의혹을 받는 21그램도 협찬사로 이름을 올렸다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2019년 열린 ‘야수파 걸작선’은 그해 5월 협찬사가 4곳(게임빌, 컴투스, 신라스테이, 제이준)에 불과했다가, 윤 전 대통령이 6월 검찰총장 후보가 되자 한 달 새 17곳으로 늘었다. 당시 협찬사는 GS칼텍스, 우리금융그룹, 우리카드, 우리은행, LG생활건강, LG전자 등이었다. 시민단체 고발로 검찰은 해당 사건 수사에 착수했으나 2023년 3월 기업 협찬이 윤 전 대통령과 직무 관련성이 없다는 이유로 무혐의 처분했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이른바 ‘집사 게이트’도 수사 중이다. 집사 게이트는 김 여사의 측근인 김 모 씨가 2013년 설립한 렌터카 회사 IMS모빌리티(옛 ‘비마이카’, 이하 ‘IMS’)에 기업과 금융사가 석연치 않은 투자를 했다는 의혹이다. 김 씨는 김 여사의 모친 최은순 씨의 잔고증명서 위조 공범이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김건희 특검팀은 자본 잠식 상태인 IMS에 기업 투자금이 대거 쏠린 배경을 의심하고 있다. 윤 전 대통령 부부의 지위를 의식해 기업들이 소위 ‘보험성’ 투자를 했다는 것이다. IMS도 2016, 2019년 열린 코바나컨텐츠 전시회에 협찬사로 등장한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2023년 6월 IMS가 사모펀드를 통해 기업들로부터 받은 투자금은 184억 원이다. 투자 과정에서 김 씨는 차명 법인을 통해 자신의 지분을 46억 원에 매각했다는 의혹을 받는다. 당시 투자금 유입 경로가 된 오아시스 펀드에 투자한 기업은 카카오모빌리티, HS효성, 한국증권금융, 신한은행, 키움증권 등이다. 도이치모터스도 IMS 설립 초기였던 2013년 6월 BMW 자동차 50대를 저렴하게 장기 대여해주는 업무 협약을 맺고 지원했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;코바나컨텐츠 협찬, IMS 투자에서 윤 전 대통령 부부와의 연결고리를 찾는 게 김건희 특검팀의 과제다. 특검팀은 집사 게이트 사건을 내사한 뒤 IMS 등에 대한 압수수색 영장을 7월 7일 청구했지만, 법원은 ‘특검 수사 대상이 아니다’는 이유로 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특검법은 사건 수사 과정에서 인지된 관련 범죄 행위 등도 수사 대상으로 규정하지만, 법원은 인지 수사 대상으로도 보기 힘들다고 판단한 것. 법조에선 물증이든 진술이든 윤 전 대통령 부부와의 관련성을 입증할 소명 자료가 영장 발부에 필요하다고 본다. 특검팀은 우선 임의조사 방식으로 수사하겠다는 방침이다. IMS도 코바나컨텐츠 협찬사로 등장하는 이상, 코바나컨텐츠 협찬 의혹 수사를 통해 우회적으로 수사를 이어 나갈 수 있을 것으로 보인다.&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 11 Jul 2025 20:05:49 -0000</pubDate>
@@ -234,15 +243,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209605</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209605.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 7월 11일</title>
-			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;12:00 대한민국 제헌국회의원 유족회 오찬(국회 사랑재)&lt;br /&gt;&lt;br /&gt;14:00 국회기록원법 제정 토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;16:00 의회외교활동자문위원회 신임위원장 위촉식(의장집무실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;14:00 법제사법위원회 법안심사제1소위원회(406호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 나경원 의원실 등, 관세전쟁 속 대한민국 국익을 위한 산업계-국회 긴급토론회 : 한미 통상협상 카운트다운(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;10:00 김은혜 의원실 등, 자국민 역차별 해소 릴레이 세미나 제1탄 : 부동산 외국인 무풍지대(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 문대림 의원실 등, 국민주권정부, 수산정책 어떻게 풀어야 하나? : 국회 수산정책 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 정혜경 의원실 등, 2025 국가보안법 피해자 증언대회 목소리들(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이주영 의원실, 아이들의 건강한 삶을 향한 첫 걸음, 소아 희귀질환 치료제 접근성 강화를 위한 국회 정책토론회(국회도서관 소회의실)&lt;br /&gt;&lt;br /&gt;14:00 진종오 의원실 등, 화재로부터 안전한 공연장을 위한 입법 세미나 : 공연예술(의원회관 제2세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 천하람 의원, [이혜숙 전 부대변인, 개혁신당 최고위원 출마선언 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 임미애 의원, [국민권익위원회 석포제련소 토양정밀조사 이행 의결 관련 민사소송 제기 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 이미선 진보당 부대변인, [캠코가 보유한 10년 이상 연체채권 소각 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 김현 의원, [더불어민주당 국민소통위원회 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 서범수 의원, [국회 행정안전위원회 소속 국민의힘 위원 일동 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김현 의원, [국회 과학기술정보방송통신위원회 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;15:00 박홍배 의원, [폭염 속 택배노동자 사망 사고 규탄 및 규제개혁위원회 폭염대책 보완 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
-			<pubDate>Thu, 10 Jul 2025 22:38:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209642</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209642</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
