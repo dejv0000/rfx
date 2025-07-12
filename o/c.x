@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“尹, 더위에 당뇨로 식사 못해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/12/PNJMH64BCBBUFJC6B22SPHEWEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/12/PNJMH64BCBBUFJC6B22SPHEWEM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 08:03:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OJOIQBDKFKVDGMIMOQZSLEWWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직권남용 등의 혐의로 124일 만에 다시 구속된 윤석열 전 대통령이 당뇨와 눈 합병증으로 식사도 하기 힘든 상황인 것으로 12일 전해졌다. 윤 전 대통령의 내란과 외환 의혹을 수사하는 조은석 특별검사팀이 다시 조사받으라고 통보한 오는 14일에 출석할 지도 불투명한 상황이다.&lt;br&gt;&lt;br&gt;12일 윤 전 대통령 측에 따르면 윤 전 대통령은 지난 10일 구속된 후 이전부터 앓고 있던 당뇨와 눈 합병증이 악화한 것으로 전해졌다. 구속 후 서울구치소로 반입할 수 있는 약 중 일부만 복용하고 있는 데다가, 당뇨로 식사량이 적고 더위까지 겹쳐 건강이 좋지 않다는 것이다. 윤 전 대통령은 내란 우두머리 혐의로 지난 1월 첫 번째 구속 수감됐을 때에도 헌법재판소 탄핵 심판에 출석한 후 국군서울지구병원에 들러 안과 치료를 받았다.&lt;br&gt;&lt;br&gt;특검은 지난 10일 오전 2시 7분쯤 윤 전 대통령에 대한 구속영장이 발부되자 윤 전 대통령에게 11일 오후 2시에 서울고검 사무실로 나와 조사를 받으라고 했다. 윤 전 대통령은 ‘건강상의 이유’가 적힌 불출석 사유서를 제출하고 나오지 않았고, 10일 오전 10시 서울중앙지법에서 열린 내란 사건 재판에도 같은 이유를 대고 출석하지 않았다.&lt;br&gt;&lt;br&gt;특검은 11일에 다시 윤 전 대통령에게 “14일 오후 2시에 출석하라”고 통보했다. 서울구치소에 윤 전 대통령의 건강검진 자료와 건강 상태 확인을 요청해 답변을 받은 결과, 윤 전 대통령이 출석하는 데 문제가 없다고 판단했다고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 14일 오전 윤 전 대통령을 서울구치소에서 접견한 후 출석 여부를 정할 예정이다. 구속 적부심 청구도 검토하고 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 또 소환에 불응하면 강제 구인에 나서는 방안을 검토하고 있다. 박지영 내란 특검보는 구치소 방문 조사 가능성을 묻는 취재진에게 “소환 조사가 원칙”이라고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김태효 前 안보실 차장 “尹 회의 종료 전, 채 해병 보고 받고 크게 화냈다"</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/12/EEDFPIAXSZF2NF6VXZGC4WV2VU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/12/EEDFPIAXSZF2NF6VXZGC4WV2VU/</guid>
+      <dc:creator>방극렬 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 07:31:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YY4I33GWJPYDGKZIOXTWXM4EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태효 전 국가안보실 1차장이 지난 11일 서울 서초구 순직 해병 수사 외압 특검팀 사무실에 피의자 조사를 받기 위해 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 수사 외압 의혹과 관련해 김태효 전 국가안보실 1차장이 이른바 ‘VIP 격노설’과 관련해 “윤석열 전 대통령이 안건에 없던 고(故) 채수근 상병 관련 보고를 회의 종료 전에 듣고 화를 냈다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;12일 본지 취재를 종합하면, 김 전 차장은 지난 11일 이명현 특별검사팀에서 피의자 조사를 받으며 윤 전 대통령이 2023년 7월 31일 주재한 안보실 참모 회의 당시 상황을 묻는 수사팀 질문에 이같이 답한 것으로 알려졌다. 김 전 차장은 윤 전 대통령이 화를 낸 이유를 임 전 비서관에게 전해 들어 알게 됐다고도 했다고 한다.&lt;br&gt;&lt;br&gt;해병 특검은 당시 회의에서 윤 전 대통령이 채 상병의 부대장이었던 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 냈다는 VIP 격노설을 수사 중이다. 보고는 임기훈 전 안보실 국방비서관이 했는데, 윤 전 대통령은 “이런 일로 처벌하면 누가 사단장을 처벌할 수 있겠냐”면서 해병대 수사단에 외압을 행사했다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;김 전 차장은 지금까지 국회 등에서 “윤 전 대통령이 화를 낸 것을 보지 못했다”는 취지로 답했는데, 특검에서 기존 입장을 바꾸고 당시 상황을 구체적으로 진술한 것이다. 그는 지난 11일 오후 2시 50분부터 오후 10시 10분까지 서울 서초구의 해병 특검 사무실에서 조사를 받았다. 조사 후 취재진에게 “성실하게 답했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해외 여행, 이것만은 꼭 챙기세요</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/12/KEIBUXTV6VGI5LKTZIM3Y3HZZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/12/KEIBUXTV6VGI5LKTZIM3Y3HZZM/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 07:15:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7P3FQNMEQUZPGCZZ4RSXH5NOLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 해외감염병신고센터 앞으로 여행객이 지나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본격 여름 휴가철을 앞두고 해외여행 수요가 늘고 있는 가운데 현지 유행 감염 질환에 대한 대비가 필요하다는 지적이 나오고 있다. 여행지에 따라 출발 2, 3주 전 상담을 받고 당국에서 권고하는 예방 백신을 접종받는 게 중요하다. &lt;br&gt;&lt;br&gt;해외 여행자는 해외 출국 전 질병관리청이 관리하는 ‘해외감염병 NOW’ 홈페이지에 접속해 해당 여행 국가의 감염병 발생 정보를 확인하는 것이 좋다. 국가별로 유행하고 있는 감염병이 달라 그에 맞는 필수 예방접종 내용을 미리 파악해 준비해야 하기 때문이다. 해외감염병 NOW에서 주간 해외 감염병 동향과 주요 국가별 감염병 예방 정보를 확인할 수 있다.&lt;br&gt;&lt;br&gt;특히 한국인들이 많이 찾는 동남아시아 등 열대 및 아열대 지역과 최근 한국인 방문이 늘고 있는 아프리카 지역도 감염병 위험이 높아 백신이 있다면 백신을 접종하고 예방 수칙을 미리 숙지하는 것이 좋다. &lt;br&gt;&lt;br&gt;해외여행에서 걸릴 위험이 높은 감염 질환에는 대표적으로 물·음식을 통해 전파되는 ‘수인성 감염병’인 A형 간염, 콜레라, 장티푸스 등이 있으며 모기 매개 감염병인 말라리아, 뎅기열, 황열 등이 있다. 수인성 감염병 유행 지역에서는 물을 끓여 마시고, 음식은 반드시 익혀 먹어야 한다.&lt;br&gt;&lt;br&gt;질병관리청은 폭염과 열대야에 대비한 건강 수칙도 안내하고 있다. 취침 전 과식·카페인 섭취 피하기, 미지근한 샤워, 충분한 수분 섭취 등 일상 속 간단한 실천만으로 온열 질환 발생을 최소화할 수 있다. 고령자·영유아·만성질환자는 더위에 더 취약하기 때문에 주변에서 각별한 관심이 필요하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 폭염 속 에어컨 없는 지하철역 현장점검… “쉼터·냉방보조기 확대”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/6QAB2RKLKZFGFLXCWQZX22A4KY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/6QAB2RKLKZFGFLXCWQZX22A4KY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 06:19:40 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4T7ZZVWTVCZ5NW67UDM2Q7Y2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 12일 오전 비냉방 지상역사인 2호선 건대입구역을 찾아 냉방보조기 가동 상황을 점검하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 냉방 시설이 가동되지 않는 지하철역을 찾아 폭염 현장 점검을 했다.&lt;br&gt;&lt;br&gt;서울시는 12일 “오 시장이 이날 오전 9시 30분 지하철 2호선 건대입구역과 뚝섬역을 찾아 역사 내 고객 대기실과 냉방 보조기 가동 상황 등을 점검했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울 시내 지하철 중 냉방 시설이 없는 비냉방 역사는 에어컨 설치가 불가능한 지상역 25곳과 개통된 지 오래된 지하역 26곳 등 총 51개소다.&lt;br&gt;&lt;br&gt;건대입구역과 뚝섬역은 지상역이다. 비냉방 역사에는 냉방 시설을 갖춘 고객 대기실과 냉방 보조기 등을 운영 중이다.&lt;br&gt;&lt;br&gt;오 시장은 건대입구역에서 고객 대기실과 냉방 보조기 운영 상황을 점검했다. 이어 지하철에 탑승해 뚝섬역으로 이동하면서 열차 내부 냉방 상황과 비상 호출장치, 방범 카메라(CCTV) 등 안전 시설을 점검했다.&lt;br&gt;&lt;br&gt;오 시장은 뚝섬역에서 고객 대기실인 ‘동행 쉼터’ 공사 현장을 확인했다. 동행 쉼터는 냉·난방 시설과 무선 충전 시설, 공기 청정 시설 등이 설치돼 시민이 지하철을 기다리거나 휴식을 취할 수 있는 열린 공간으로 운영한다.&lt;br&gt;&lt;br&gt;서울시는 9개역 14개소에서 운영 중인 비냉방 지상역사 내 고객대기실을 8월 중 4개역 4개소 동행쉼터 추가 운영을 통해 총 19개 역사 33개소로 확대할 계획이다.&lt;br&gt;&lt;br&gt;오 시장은”장기적으로 노후 지하역사에 대해선 환경개선사업을 하고, 냉방시설 설치가 불가한 지상역사는 고객 대기 공간인 ‘동행쉼터’ 확대와 냉난방 보조기 적극 가동을 통해 서민들의 중요한 이동 수단인 지하철 이용에 불편을 덜어드리기 위해 노력하겠다“고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N4T7ZZVWTVCZ5NW67UDM2Q7Y2E.png?auth=48cf6403f0fb240f4586c831f27983ee3a0e9642978cde0727e88bd51cc51355&amp;smart=true&amp;width=1538&amp;height=982" type="image/png" height="982" width="1538">
+        <media:description type="plain">오세훈 서울시장이 12일 오전 비냉방 지상역사인 2호선 건대입구역을 찾아 냉방보조기 가동 상황을 점검하고 있다. /서울시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>해외 다녀왔더니 ‘콜록’? 공항서 호흡기 무료 검사한다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/12/ANGDOYPXMBDFVGJC7SUP6W4OO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/12/ANGDOYPXMBDFVGJC7SUP6W4OO4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 05:52:01 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FJSTGPVXZKTRCJL62LO4KHLYE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(인천공항=뉴스1) 장수영 기자 = 이학재 인천국제공항공사 사장과 윤현덕(왼쪽 두 번째) 국립인천공항검역소 소장이 26일 인천국제공항 제2여객터미널 출국장에서 열린 '여름 휴가철 맞이 안전여행 캠페인' 중 어린이 관광객에게 올바른 손씻기 방법을 알려주고 있다. (공동취재) 2025.6.26/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에 다녀왔다가 호흡기 질환 증상을 보일 때 공항만에서 무료로 감염병 검사를 받을 수 있게 된다.&lt;br&gt;&lt;br&gt;질병관리청은 오는 15일부터 ‘공항만 여행자 호흡기 감염병 검사 서비스 시범사업’과 ‘Q-CODE 기반 전자검역 시범사업’을 확대 시행한다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;공항만 여행자 호흡기 감염병 검사 서비스 시범사업은 입국자가 검역 단계에서 기침 등 호흡기 감염병 증상을 신고하면 검역소에서 무료로 호흡기 감염병 검사를 받을 수 있도록 하는 사업이다. 양성 판정을 받으면 검역소에서 양성 확인서를 발급받아 의료기관에서 국민건강보험 요양급여를 적용받을 수 있다.&lt;br&gt;&lt;br&gt;질병관리청이 지난 2월부터 5개월 동안 시범 사업을 운영한 결과 김포∙제주∙김해공항 입국자 중 호흡기 감염병 유증상자가 184명 나왔었다. 이 중 30명이 검사 서비스를 요청했고 7명이 양성 통보를 받았다.&lt;br&gt;&lt;br&gt;Q-CODE 기반 전자 검역 시범 사업은&amp;nbsp;15일부터 김포∙제주공항 등 공항 5곳에서 실시된다. 이 사업은 중점검역관리지역을 체류 또는 경유해 입국하는 사람들이 종이 건강 상태 질문서 대신 사전에 발급받은 QR코드를 통해 신속하게 입국 검역 조사를 받도록 하는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘불법촬영 혐의’ 황의조, 무적 신분 면했다… 소속팀과 계약 연장</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/QB47EUWZFVEEDFCOYE2HLCBFJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/QB47EUWZFVEEDFCOYE2HLCBFJE/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 05:30:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTPK6DXE6ZFX7G4GW32AOGMHIU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;축구선수 황의조. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성관계 영상을 불법 촬영한 혐의로 기소돼 1심에서 징역형의 집행유예를 받은 축구선수 황의조(33)가 소속팀인 튀르키예 알란야스포르와 재계약했다.&lt;br&gt;&lt;br&gt;알란야스포르는 12일 인스타그램 등 공식 소셜미디어를 통해 “우리는 만료된 황의조와의 계약을 2년 연장했다”며 “새로운 시즌에서도 선전을 기원한다”고 밝혔다.&lt;br&gt;&lt;br&gt;황의조는 2022년 8월 잉글랜드 프리미어리그(EPL) 노팅엄 포레스트 FC에 입단한 뒤 곧바로 그리스팀 올림피아코스 FC로 임대됐다. 이후 FC 서울과 노리치 시티 FC(잉글랜드) 그리고 알란야스포르에서 임대 신분으로 뛰었다.&lt;br&gt;&lt;br&gt;작년 9월부터는 알란야스포르와 1년 계약하며 완전히 이적했고, 지난 시즌 정규리그 30경기에서 7골 2도움(공식전 33경기 7골 3도움)을 기록했다. 지난달 30일부로 계약이 만료돼 무적 신분이 되는 듯했으나, 이번 재계약으로 계속 유럽 무대에 남을 수 있게 됐다.&lt;br&gt;&lt;br&gt;앞서 황의조는 2022년 6월부터 9월까지 상대 여성 두 명의 동의 없이 여러 차례 성관계 영상을 촬영하거나, 영상통화 화면을 녹화한 혐의로 작년 7월 재판에 넘겨졌다. 이후 지난 2월 1심 재판부는 성관계 영상 촬영은 유죄로, 영상통화 녹화는 무죄로 판단해 징역 1년에 집행유예 2년을 선고했다. 다만 황의조와 검찰 양측 모두 불복해 항소한 상태다.&lt;br&gt;&lt;br&gt;최근에는 황의조가 항소심 재판부에 제출한 93페이지 분량의 항소이유서 일부가 공개됐다. 여기에서 그는 국위 선양을 강조하며 내년 6월 열리는 북중미 월드컵에 출전하고 싶다고 했다. 또 자신을 ‘대한민국 간판 스트라이커이자 선배’라고 표현하며 “후배에게 노하우를 전달해 줄 뿐만 아니라 팀의 중심이자 기둥 역할을 해야 할 상황”이라고 호소했다.&lt;br&gt;&lt;br&gt;축구협회 규정에 따르면 금고 이상 실형이 확정되면 그때부터 5년간, 집행유예를 받으면 기간 만료일부터 2년간 국가대표가 될 수 없다. 만약 황의조가 1심에서 받은 형이 그대로 확정될 경우 태극 마크는 달 수 없는 셈이다. 한편 황의조의 사생활 영상을 온라인에 유포한 형수 이모씨는 작년 9월 대법원에서 징역 3년이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>폭염,열대야 다음주도 기승</title>
       <link>https://www.chosun.com/national/national_general/2025/07/12/VOTSBZEFEFGYJB4XBN345LDY5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/VOTSBZEFEFGYJB4XBN345LDY5Y/</guid>
@@ -749,33 +806,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2HGD3DWAE3BVPRYW6LXYDDTZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더운 날씨가 이어지는 가운데 아파트 복도 창문을 닫았다는 이유로 흉기로 이웃을 위협한 70대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 달성경찰서는 특수협박 혐의로 A씨를 붙잡아 조사하고 있다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 대구 달성군 한 아파트에 사는 A씨는 지난 10일 오후 8시 40분쯤 이웃에 사는 50대 여성 B씨가 여성이 아파트 복도 창문을 닫자 흉기로 위협한 혐의를 받는다. 이 과정에서 다친 사람은 없는 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “더워서 시원한 바람을 맞으려고 복도 창문을 열고 있는데 B씨가 복도 창문을 닫아서 화가 났다. 겁만 주려고 했다”고 진술했다.&lt;br&gt;&lt;br&gt;이 사건 발생 이전에 두 사람은 갈등을 빚은 적이 없었으며 아파트 같은 층에 살고 있을 뿐 알고 지내는 사이는 아니었다고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 “피해자가 처벌을 원하지 않는다는 입장을 밝히긴 했지만, 특수협박 혐의가 적용되는 만큼 사건 경위를 조사해 절차에 따라 처리할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;경찰은 재발 방지 등을 위해 아파트에 지능형 폐쇄회로(CCTV)를 설치하고, 피해자에게 스마트워치 지급을 검토하고 있다. &lt;br&gt;&lt;br&gt;한편 대구지방기상청의 자료를 보면 지난 10일 대구 지역의 낮 최고기온은 31.3도였고, 열대야 현상도 발생하지 않는 등 상대적으로 무더위가 한 풀 꺾인 상황이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>불법PC방 업주에 단속 정보 흘린 경찰관 구속 </title>
-      <link>https://www.chosun.com/national/2025/07/11/QH5JWKMHCRDWFC25GVZJCDR4TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/QH5JWKMHCRDWFC25GVZJCDR4TA/</guid>
-      <dc:creator>울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 03:48:36 +0000</pubDate>
-      <content:encoded>불법 PC방 단속 정보를 업주에게 누설한 의혹을 받는 경찰관이 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4O6FFH6V7OYZMKJGYGJT4HJPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산지법은 지난 10일 공무상 비밀누설 혐의를 받는 울산경찰청 소속 A 경감에 대한 구속영장을 발부했다고 11일 밝혔다. 법원은 증거 인멸과 도주 우려가 있다고 영장을 발부한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A경감은 지난해 4월 말 단속을 앞두고 불법 PC방 업주에게 단속 정보를 알려준 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰이 업주를 붙잡아 휴대전화 등을 압수수색해 분석하던 중 A경감과의 통화 기록이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A경감을 직위해제하고 자체 수사를 벌였다. 이후 혐의가 인정된다고 보고 지난해 7월 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 8·15 광복절 앞두고 사면 대상 선정 절차 착수</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/GKGLBLN2XBA6ZA4FV5R6BG6UDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/GKGLBLN2XBA6ZA4FV5R6BG6UDU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 03:43:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZZ4EHFJD47ZWYMV4FPNSAWKCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 내달 8·15 광복절을 앞두고 사면 대상자 선정에 들어간 것으로 11일 확인됐다. 이재명 대통령 취임 2개월 만에 진행되는 첫 특별 사면이다. 대법원에서 형이 확정돼 수감 중인 조국 전 조국혁신당 대표 등이 유력한 특별사면 대상자로 거론된다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 최근 일선 지방검찰청에 사면 대상자를 선정해 보고하라는 취지의 공문을 보냈다. 각 지검은 판결이 확정돼 수감 중인 수용자들 중 사면 대상자를 선정해 법무부에 보고하게 된다. 법무부는 사면심사위를 열고 사면 대상자를 선정한 뒤 이 대통령에게 보고하고, 이 대통령의 재가 후 국무회의 의결을 거쳐 최종 확정될 예정이다. 사면 대상자 선정과 대통령실 보고에는 3주가량 걸릴 전망이다.&lt;br&gt;&lt;br&gt;법조계와 정치권에선 자녀 입시 비리 사건으로 대법원에서 형이 확정돼 안양교도소에 수감 중인 조국 전 조국혁신당 대표가 유력한 사면 대상으로 거론된다. ‘불법 대북 송금’ 사건으로 중형이 확정된 이화영 전 경기도 평화부지사를 사면해야 한다는 의견도 나오고 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난해 광복절 특사 때는 김경수 전 경남지사, 조윤선 전 문화체육관광부 장관 등을 복권한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이혼 앞두고 어린이집에 거짓말해 자녀 데려간 아빠...대법 “미성년자 유인죄”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/65CFQZMZQZGVPILSYGGOJALY6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/65CFQZMZQZGVPILSYGGOJALY6E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이집 보육교사를 속여 따로 살던 어린 자녀를 데려간 아버지가 대법원에서 미성년자 유인죄로 징역형을 확정 받았다. &lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 지난달 폭행·미성년자 유인 혐의로 기소된 A씨에게 징역 3개월을 선고한 원심을 확정했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 8월 자택에서 아내 B씨를 폭행하고, 이혼하려고 별거 중이던 이듬해 4월 B씨와 지내던 1, 2세 자녀 둘을 협의 없이 데려간 혐의로 재판에 넘겨졌다. A씨는 어린이집 보육교사에게 “아이들 엄마와 함께 꽃 구경을 갈 것”이라고 거짓말해 자녀들을 하원시킨 뒤 B씨와 만나지 못하게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;형법상 미성년자 유인죄는 미성년자를 속이거나 꾀어내 데려간 경우 성립하는 범죄다. 예를 들어 장난감이나 간식을 사주겠다며 놀이터에서 놀던 어린이를 자기 집으로 데려가는 경우 등이 대표적이다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 자녀들 양육자인 자신은 미성년자 유인죄의 주체가 될 수 없다고 주장했다. 또 자녀들이 만 1, 2세로 의사 능력이 없었기 때문에 속이거나 유혹하는 방식으로 ‘유인’할 수 없어 죄가 성립하지 않는다고도 했다. &lt;br&gt;&lt;br&gt;그러나 1심은 A씨 혐의를 모두 유죄로 판단하고 징역 6개월을 선고했다. 1심 재판부는 “보호자라 하더라도 다른 보호자의 보호·양육권을 침해한 경우 미성년자 유인죄의 주체가 될 수 있다”며 “1년 전부터 별거하며 배우자가 단독으로 자녀들을 키우고 있던 사정 등을 보면 당시 A씨가 자녀들을 양육했다고 보기는 어렵다”고 했다. 친부모여도 실제 양육자로부터 자녀를 빼앗는 등 보호 상태를 깨뜨렸다면 범죄로 볼 수 있다는 것이다. 또 “미성년자 본인을 직접 속이거나 유혹하지 않더라도 보호·감독하던 사람을 속이고 보호 상태로부터 벗어나게 하는 경우에도 죄가 성립한다”고 했다.&lt;br&gt;&lt;br&gt;2심도 이와 마찬가지로 미성년자 유인죄가 된다고 판단했다. 다만 1심 판결 이후 이혼 조정이 이뤄져 A씨가 자녀들을 키우기로 한 점을 고려해, 징역 3개월로 감형했다. A씨가 상고했지만 대법원에서 기각되면서 징역형이 확정됐다. &lt;br&gt;&lt;br&gt;대법원은 “부모가 이혼했거나 별거하는 상황에서 부모 한쪽이 미성년 자녀를 평온하게 보호·양육하고 있는데 다른 한쪽이 미성년자나 보호자를 꾀어 데려간 경우 미성년자 유인죄를 구성한다고 볼 수 있다”며 “원심 판단에 미성년자 유인죄에 관한 법리를 오해한 잘못이 없다”고 했다. 이혼 소송 등으로 양육권 다툼 중 교사를 속이고 친자녀를 데려간 부모에 대해 대법원이 유죄로 인정한 첫 판단이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘천공 대통령실 이전 개입 의혹’, 김건희 특검팀이 수사한다</title>
       <link>https://www.chosun.com/national/court_law/2025/07/11/MK5UEFZITFC45AHDOG3AYTQVDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/MK5UEFZITFC45AHDOG3AYTQVDQ/</guid>
@@ -875,18 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVR7J5GHEBHJ7HBQNYPX54QQSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 새벽 삼척 정라진 앞바다에서 잡힌 황새치. /페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도와 남해를 비롯한 온·열대 해역에 분포하는 황새치가 강원 삼척 앞바다에서 잡혔다. &lt;br&gt;&lt;br&gt;삼척시의회 정연철 시의원은 10일 페이스북에 삼척 정라진 앞바다에서 정치망 어선 S호에 잡힌 황새치 영상을 올렸다. &lt;br&gt;&lt;br&gt;크레인으로 들어올려야 할 만큼 거대한 모습의 이 황새치는 길이 3ｍ, 무게 226㎏으로 파악됐다. &lt;br&gt;&lt;br&gt;황새치는 동해안에선 좀처럼 보기 힘든 어종이다. 태평양, 인도양, 대서양 등 열대와 온대에 널리 분포하며, 국내에서는 남부와 제주도 외해에 분포한다. 정 의원은 “매일 아침 항구에 나가 어획량을 살피고 어민들의 어려움을 듣는데 오늘 아침에는 황새치가 잡혀 깜짝 놀랐다”며 “지구 온난화 영향인지 주변에 물어보니 1년에 1∼2마리 잡힌다고 하더라”고 했다. &lt;br&gt;&lt;br&gt;이번에 잡힌 황새치는 6만원에 위판됐다. 이처럼 황새치가 헐값에 판매된 이유는 모처럼 잡힌 희귀어종이어서 어획 사실이 널리 알려지지 않은 데다, 지역에 수요와 판로가 없기 때문인 것으로 분석된다. 원래는 스테이크나 회로 먹는 고급 어종으로, 특히 뱃살은 최고급 식재료로 알려졌다. 삼척수협 관계자는 “참다랑어(참치)를 취급하기 바쁜 수매인들이 동해안엔 수요가 없는 황새치에 관심을 보이지 않는 것으로 본다”고 했다. &lt;br&gt;&lt;br&gt;황새치는 참다랑어와 함께 백상아리의 먹이로도 잘 알려져 있다. 이에 수온이 높아진 동해가 공격성 상어가 살기 좋은 환경으로 변했다는 의견도 나온다. 황새치·참다랑어가 올라왔다는 건 단순히 수온이 오른 것 이상으로 생태계 전반이 변화하고 있다는 신호라는 것이다. 플랑크톤부터 대형 어류까지 동해안 생태계가 이미 아열대화됐다는 시각도 있다. &lt;br&gt;&lt;br&gt;한편 황새치는 긴 주둥이가 마치 긴 칼처럼 생겨 영어로는 스워드피시(swordfish)라고 불린다. 매우 사나워 종종 배 위로 뛰어올라 사람을 공격하는 것으로 알려졌다. 실제로 작년 10월 인도네시아에서 서핑하던 30대 여성이 황새치한테 가슴을 공격당해 숨진 사건이 외신을 통해 보도되기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강남 도로에 앉아 고개 흔들던 수상한 행인…“마약했냐” 물음에 돌아온 답</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/11/FNIYLA2QJ5AT5D6L472Q62BZCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/FNIYLA2QJ5AT5D6L472Q62BZCM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 00:17:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDUR52LDFJHN5E27UTTOQOR2H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 서울 강남의 한 도로에 앉아 있는 남성./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남의 한 길거리에서 마약 투약 부작용으로 이상 행동을 보이던 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;10일 유튜브 ‘서울경찰’ 채널에는 ‘길거리에서 이상 행동 보이던 사람의 정체…경찰 의심으로 검거’라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에는 지난 5월 강남의 한 어린이보호구역 도로 인근에서 이상 행동을 보이던 남성의 모습이 담겼다.&lt;br&gt;&lt;br&gt;도로 한쪽에 주저앉은 이 남성은 한시도 몸을 가만히 두지 못했다. 손으로 어깨 등을 벅벅 긁던 남성은 고개를 흔들거리고 몸을 비비 꼬는 등 이상 행동을 상당 시간 반복했다. 차량 왕래가 잦아 자칫 위험할 수 있는 상황이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2X5B6IP4NGVHMQLGPQFXPT7PE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 서울 강남의 한 거리에 앉아 이상 행동을 보이는 남성./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘길에 이상한 사람이 앉아 있다’는 시민의 신고를 받고 출동한 경찰은 이상 행동을 반복하는 남성에게 “마약을 했느냐”고 물었다. 이 남성은 “네 했어요”라고 답했으나, 돌연 “아니 안 했어요”라고 번복했고 알 수 없는 말들을 횡설수설 늘어놨다.&lt;br&gt;&lt;br&gt;경찰은 파출소로 남성을 임의 동행해 추가 조사를 진행했다. 파출소에서도 남성은 몸을 가만히 두지 못하며 불안한 모습을 보였다.&lt;br&gt;&lt;br&gt;이후 실시한 마약 검사 결과 남성의 소변에서 메스암페타민(필로폰)이 검출됐고 경찰은 현행범으로 남성을 체포해 구속했다. &lt;br&gt;&lt;br&gt;메스암페타민은 강력한 각성 효과를 가지는 마약류로, 의존성과 중독성이 매우 강한 약물로 알려져 있다. 투여한 후 몇 분간 강력한 쾌감을 경험하지만, 곧 사라져버리고 허탈감이나 우울감을 경험하게 된다. &lt;br&gt;&lt;br&gt;중독된 사람은 불안, 불면증, 정신착란뿐만 아니라 기분 장애와 환청, 피부에 벌레가 기어가는 것과 같은 느낌과 같은 망상이 나타나 정신질환이 유발될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B2X5B6IP4NGVHMQLGPQFXPT7PE.gif?auth=c16b654161d13e4ba886e1dbfda381b9ed3f695b04a565912c18a4be7f295733&amp;smart=true&amp;width=780&amp;height=454" type="image/jpeg" height="454" width="780">
-        <media:description type="plain">지난 5월 서울 강남의 한 거리에 앉아 이상 행동을 보이는 남성./유튜브</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“순간 성 충동 느껴”...여고생 납치하려다 도주한 30대 구속 </title>
       <link>https://www.chosun.com/national/2025/07/11/HNCQD7JMV5HVHIM4TPXDMG4W2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/HNCQD7JMV5HVHIM4TPXDMG4W2E/</guid>
@@ -903,15 +921,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 22:30:00 +0000</pubDate>
       <content:encoded>탈북민 최민경(53) 북한감금피해자가족회 대표가 11일 김정은 북한 국무위원장을 상대로 민형사 소송을 제기한다. 북한 출신 탈북민이 김 위원장을 상대로 한국 법원에 소송을 내는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRMIFZ5GGJFW3JZH4JOTX3DSRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 서울 노원구 인덕대학교에서 북한에서 태어난 탈북자 최초로 김정은 북한 국무위원장 등을 상대로 민형사 소송을 제기하는 최민경씨가 인터뷰하고 있는 모습./박혜연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함경북도 경원군 출신인 최씨는 노동당 간부였던 아버지 덕에 유복한 유년기를 보냈다. 그러나 1994년 김일성 사망 이후 배급이 끊겨 생계가 어려워지면서 탈북을 결심했다. 그는 1997년 12월~2008년 7월 네 차례 탈북을 시도했지만, 중국 공안에 붙잡혀 강제 북송됐다. 북한 보위부에 인계된 뒤에는 수개월간 구금돼 성폭력, 폭행, 고문 등을 당했다. 2012년 10월 한국 땅을 밟은 최씨는 북한 인권 운동에 뛰어들었고, 북한인권정보센터와 함께 김 위원장을 상대로 한 소송을 준비해왔다. &lt;br&gt;&lt;br&gt;최씨는 김 위원장을 ‘국제형사범죄법 위반’ 혐의로 형사 고소한다. 해당 법 9조는 민간인에 대한 조직적이고 공격을 가한 자를 무기징역 또는 징역 5년 이상에 처하도록 규정한다. 또 김 위원장을 상대로 5000만원의 위자료를 청구하는 손해배상 소송도 제기한다. 최씨는 “북한 정권은 강제 북송된 탈북민을 대상으로 끔찍한 고문을 조직적으로 자행하고 있고, 이로 인한 육체적·정신적 고통은 평생 지속된다. 현재도 외상 후 스트레스(PTSD)로 정신과 치료를 받는다”고 말했다.&lt;br&gt;&lt;br&gt;최씨는 “북한에 있는 김 위원장의 혐의를 입증하고 법적 책임을 묻는 과정이 순탄치 않을 것을 안다. 그러나 지금도 수많은 탈북민이 구금 시설에서 고통받고 있기에, 그 책임을 묻기 위한 방법을 끝까지 찾아낼 것”이라며 “이번 소송이 북한 인권 문제에 경종을 울리는 계기가 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문신 보여주며 “나 힘 세지?”…아버지뻘 택시기사 폭행 유튜버, 결국</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/11/XOUA6WTZRJH7DLZFHM4L3KAJIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/XOUA6WTZRJH7DLZFHM4L3KAJIA/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 22:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHJ5PTVU3JC2DCPYJHPGOF4KVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 2월 전주고속버스터미널 앞에서 고령의 택시기사를 폭행한 남성이 윗옷을 들추며 문신을 보여주고 있다. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시기사를 폭행하고 수사기관을 조롱하는 영상을 게시하는 등 다수의 범죄를 저지르고도 반성하지 않은 20대 유튜버가 항소심에서 더 가중된 처벌을 받았다. &lt;br&gt;&lt;br&gt;전주지법 제2형사부(재판장 김도형)는 10일 사기, 폭행, 상해, 특수협박 등 10개 혐의로 구속 기소된 A(28)씨에 대한 항소심에서 징역 3년6개월을 선고했다. 1심에서 A씨는 징역 2년6개월을 선고받았었다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 모든 범행을 반성하고 있고 일부 피해자와 합의한 부분이 있다”며 “갖고 있는 정신질환이 범행에 일부 영향을 끼쳤을 것이라는 점도 인정할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;다만 “피고인은 집행유예 기간 중 사기 범행을 저지르고, 앞서 저지른 범죄로 인해 재판에 넘겨지거나 수사기관 수사가 진행 중인 상태에서 범행을 저지르기까지 했다”며 “이러한 점을 고려할 때 1심의 형이 너무 가볍다는 검사의 주장을 받아들여 형을 정했다”고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 작년 2월 전주고속버스터미널 앞에서 고령의 택시기사를 폭행해 온라인 커뮤니티 등에서 논란이 된 인물이다. 당시 A씨는 “빨리 가지 않는다”며 택시기사에게 흉기를 들이밀고 폭행했다. 그리고는 택시비 결제를 요청받자 택시기사를 도로 위로 끌고 가 윗옷을 들쳐 문신을 보여주며 “나 힘 세지? 내가 말했지?”라고 위협했다. &lt;br&gt;&lt;br&gt;이 장면을 찍은 영상이 논란이 됐으나 A씨는 자신의 유튜브 채널에 ‘택시 기사 폭행 문신남’ 등의 홍보 문구를 내걸고 구독자를 모았다. 이와 동시에 다른 유튜버와의 싸움 영상, 문신 자랑 영상 등을 유튜브에 올려 수익을 챙겼고, 검찰 조사 중에도 수사관을 농락하는 영상을 유튜브에 올리거나 자신을 수사한 경찰관에게 전화해 욕설을 내뱉기도 했다. &lt;br&gt;&lt;br&gt;또 먼 지역까지 택시를 탄 뒤 택시비를 내지 않은 채 도망치거나, 지인이 담보로 맡긴 차량을 되찾아주겠다며 돈을 받아놓고 이를 자신의 빚을 갚는데 사용한 혐의도 받는다. 간병비‧숙박비 등의 서비스 비용을 주지 않거나, 전주‧광주 등의 술집에서 손님과 싸우는 등의 행패를 벌이는 등 상당수 범죄를 저지른 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내년 최저임금 2.9% 오른 1만320원</title>
@@ -976,15 +985,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 15:55:00 +0000</pubDate>
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 10일 이종섭 전 국방장관과 국방부, 국가안보실 등에 대한 압수 수색에 나섰다. 이른바 ‘VIP 격노설’을 규명하기 위해 첫 강제 수사에 착수한 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 전 장관 자택과 국방부, 국가안보실 등 10여 곳을 압수 수색했다. 이시원 전 공직기강비서관과 임기훈 전 국방비서관, 신범철 전 국방부 차관, 전하규 국방부 대변인 등도 압수 수색 대상에 포함됐다.&lt;br&gt;&lt;br&gt;이 전 장관은 2023년 8월 박정훈(대령) 전 해병대 수사단장이 고(故) 채수근 상병 사망 사고와 관련해 임성근 당시 해병대 1사단장에게 과실치사 혐의를 적용한 조사 기록을 경찰에 이첩하려 하자 보류·중단을 지시하고, 이를 어기고 이첩한 박 대령에 대해 항명 수사를 지시한 혐의(직권남용)를 받는다. 이 전 장관은 2023년 9월 고위공직자범죄수사처에 고발된 이후 이날 처음 압수 수색을 당했다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤석열 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 임 전 사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이 전 장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다. 최근 특검은 당시 이모 경찰청 국가수사본부 강력범죄수사과장이 박모 공직기강비서관실 행정관에게서 “이시원 비서관이 해병대 수사단이 이첩한 조사 기록 반환을 검토하라고 했다”고 들었다는 진술을 확보했다고 한다. 특검은 대통령실이 기록 회수 과정에 관여했는지 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령과 김태효 전 국가안보실 1차장, 이 전 장관, 김계환 전 해병대 사령관으로 이어지는 수사 외압 경로를 확인하겠다는 방침이다. 11일에는 당시 회의에 참석한 김 전 차장을 불러 격노설의 진위 여부를 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 이날 임 전 사단장 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트먼트 대표의 자택과 차량도 압수 수색했다. 이 전 대표는 도이치모터스 주가조작 사건에서 김건희 여사 계좌를 관리했던 인물로, 임 전 사단장을 구하기 위해 김 여사 측에 청탁했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“산책만 해도 돈 준대” 1만7000여명 몰렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/11/ZUQTPL2MYNBDLJXGDQ2VZRPQQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/ZUQTPL2MYNBDLJXGDQ2VZRPQQM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRFY5VA645E65AG2BHQGNUAQKY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동네를 걷거나 분리수거를 하면 현금처럼 쓸 수 있는 포인트를 주는 서울시의 ‘외로움 극복’ 프로그램에 9일 만에 1만7000여 명이 몰렸다. 특히 30·40대 여성 참여자가 전체의 40%를 넘긴 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시는 지난 1일 참여자 모집을 시작한 외로움 극복 프로그램 ‘365 서울 챌린지’에 총 1만7430명이 가입한 것으로 집계됐다고 10일 밝혔다. 당초 5000명을 모집하려 했는데, 세 배를 훌쩍 넘긴 인원이 모인 것이다. &lt;br&gt;&lt;br&gt;이 프로그램은 시민들이 잠깐이라도 집을 벗어나 바깥 활동을 하고, 이를 통해 고립감·우울감을 조금이나마 해소할 수 있게 하자는 취지에서 시작했다. 분리수거나 동네 산책, 중고품 거래와 같은 간단한 활동부터 ‘한강공원에서 책 읽기’ ‘러닝 크루 가입하기’같이 보다 적극적이어야 할 수 있는 활동까지 총 35개 과제가 있다. 이 중 마음에 드는 활동을 골라서 해본 뒤 사진을 찍어 전용 홈페이지에 인증하면 300~500포인트를 준다. 5000포인트 이상이 되면 서울 곳곳에서 현금처럼 쓸 수 있는 서울페이로 바꿔준다. 서울시 관계자는 “과제 중에선 ‘미술관 방문’ ‘공원 산책’이 특히 인기가 많았다”고 했다.&lt;br&gt;&lt;br&gt;서울의 ‘외로운 젊은 여성들’이 특히 많이 참여했다. 일단 전체 여성 참여자가 1만2338명(70.8%)으로, 남성 5092명(29.2%)을 압도한다. 또 30대 여성이 3783명(전체의 21.7%)으로 남녀 연령별 참여자 중 가장 많았다. 이어 40대 여성(19.9%), 50대 여성(11.9%), 20대 여성(11.4%) 순이다. 남성은 40대가 1513명(8.7%)으로 가장 많았다. 서울시 신혜숙 고독대응과장은 “여성이 남성보다 상대적으로 외로움을 더 느끼고, 대신에 그런 상태를 극복하려는 의지도 더 강한 것으로 보고 있다”고 했다. &lt;br&gt;&lt;br&gt;서울시의 다른 외로움 극복 프로그램에도 여성 참여자 비율이 더 높다. 간단한 간식을 먹으며 외로움·우울감에 대해 상담할 수 있는 ‘서울 마을 편의점’은 지난 3개월간 1만4639명이 다녀갔는데, 70.1%가 여성이었다. 24시간 외로움을 상담해 주는 콜센터 ‘외로움 안녕 120’도 4~5월 상담자의 66.1%가 여성이었다고 한다. 서울시 관계자는 “외로움을 극복하고 싶어 하는 여성이 많은 것이 숫자로 나타나는 만큼, 여성 특화 프로그램을 개발하는 방안도 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
