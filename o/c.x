@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>폭염,열대야 다음주도 기승</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/VOTSBZEFEFGYJB4XBN345LDY5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/VOTSBZEFEFGYJB4XBN345LDY5Y/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 04:33:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4I43AEIHFOEAZOZGPEYKANZ7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이른 폭염과 함께 열흘 넘게 열대야가 이어지고 있는 9일 저녁 서울 중구 청계천을 찾은 시민들이 더위를 식히고 있다. 2025.7.9/뉴스1 ⓒ News1 장수영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말까지 폭염이 이어지는 가운데 다음주에도 무더운 날씨가 계속돼 전국 곳곳에 폭염,열대야가 나타날 전망이다. &lt;br&gt;&lt;br&gt;12일 기상청에 따르면 다음 주에는 전국 대부분 지역에서 최고 체감온도가 33도 안팎으로 오르겠다. 이때문에 전국에 걸쳐 폭염과 열대야가 이어질 것으로 보여 건강 관리에 유의해야 한다. &lt;br&gt;&lt;br&gt;다음주 예상 아침 기온은 22∼26도, 낮 기온은 28∼34도로, 평년보다 높겠다. 다만 다음 주에는 북태평양 고기압 가장자리 위치와 우리나라 주변 기압계 변화에 따라 강수 지역과 시점이 바뀔 수 있어 지역에 따라 실제 기온은 수시로 달라질 수 있다.&lt;br&gt;&lt;br&gt;일요일인 13일 이후 ‘열돔’ 현상이 점차 해소되지만, 다음 주 중반부터 중부 지방이 다시 장마권에 들겠다. 비는 차음 남쪽으로 확대될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘안산 인질 살해’ 김상훈, 교도소에서 동료 폭행해 추가 실형</title>
       <link>https://www.chosun.com/national/national_general/2025/07/12/GGTUF6Z4WVGWJDJ7JM654JLYZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/GGTUF6Z4WVGWJDJ7JM654JLYZE/</guid>
@@ -967,18 +976,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 15:55:00 +0000</pubDate>
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 10일 이종섭 전 국방장관과 국방부, 국가안보실 등에 대한 압수 수색에 나섰다. 이른바 ‘VIP 격노설’을 규명하기 위해 첫 강제 수사에 착수한 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 전 장관 자택과 국방부, 국가안보실 등 10여 곳을 압수 수색했다. 이시원 전 공직기강비서관과 임기훈 전 국방비서관, 신범철 전 국방부 차관, 전하규 국방부 대변인 등도 압수 수색 대상에 포함됐다.&lt;br&gt;&lt;br&gt;이 전 장관은 2023년 8월 박정훈(대령) 전 해병대 수사단장이 고(故) 채수근 상병 사망 사고와 관련해 임성근 당시 해병대 1사단장에게 과실치사 혐의를 적용한 조사 기록을 경찰에 이첩하려 하자 보류·중단을 지시하고, 이를 어기고 이첩한 박 대령에 대해 항명 수사를 지시한 혐의(직권남용)를 받는다. 이 전 장관은 2023년 9월 고위공직자범죄수사처에 고발된 이후 이날 처음 압수 수색을 당했다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤석열 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 임 전 사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이 전 장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다. 최근 특검은 당시 이모 경찰청 국가수사본부 강력범죄수사과장이 박모 공직기강비서관실 행정관에게서 “이시원 비서관이 해병대 수사단이 이첩한 조사 기록 반환을 검토하라고 했다”고 들었다는 진술을 확보했다고 한다. 특검은 대통령실이 기록 회수 과정에 관여했는지 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령과 김태효 전 국가안보실 1차장, 이 전 장관, 김계환 전 해병대 사령관으로 이어지는 수사 외압 경로를 확인하겠다는 방침이다. 11일에는 당시 회의에 참석한 김 전 차장을 불러 격노설의 진위 여부를 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 이날 임 전 사단장 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트먼트 대표의 자택과 차량도 압수 수색했다. 이 전 대표는 도이치모터스 주가조작 사건에서 김건희 여사 계좌를 관리했던 인물로, 임 전 사단장을 구하기 위해 김 여사 측에 청탁했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘공포의 1m’… 쪼그려 밭일 땐 체감온도 48도</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/11/4YWM4MNWMVFX7CYGEXSS6WDM6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/11/4YWM4MNWMVFX7CYGEXSS6WDM6Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>같은 폭염이라도 사람이 느끼는 ‘체감 더위’는 신체 조건이나 작업 환경 등에 따라 달라진다. 폭염 때 우리가 느끼는 열은 햇빛이 머리 위로 내리쬐는 일사(日射)와 땅바닥에 반사돼 나오는 복사(輻射)의 영향을 받는다. 특히 체감 온도는 복사열의 영향을 많이 받는다. 그래서 지표와 가까울수록 더 덥게 느껴지는 것이다. &lt;br&gt;&lt;br&gt;서울에 폭염경보가 내려진 지난 9일 오후 2시 기준 서울 동작구 기상청 기상관측대(높이 1.5m)에 찍힌 기온은 35.4도였다. 그러나 같은 시각 관측대 아래 흙으로 된 노면은 39.8도로 4.4도 더 높았다. 근처 아스팔트로 덮인 보라매공원의 노면 온도는 55도 내외까지 치솟았다. 같은 시간, 같은 지역인데도 높이와 노면의 조건에 따라 온도가 달랐던 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKKEL5MMYBGSLJBEV2YJGDSJ4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통상 폭염 땐 노면에서 1m까지를 ‘공포의 높이’라 부른다. 복사열의 영향이 미치는 구간이기 때문이다. 한낮 섭씨 36도를 기준으로, 산책하는 반려동물(높이 25㎝)이 느끼는 체감온도는 49~51도 수준이다. 같이 산책을 하더라도 사람이 느끼는 것보다 동물이 훨씬 더운 것이다. 아스팔트 길을 산책하다 보면 발바닥 화상을 입는 동물도 있다. 전문가들은 “일사가 가장 강한 정오부터 오후 2시, 기온이 가장 높은 오후 2~4시는 산책을 피하는 게 좋다”고 조언한다. &lt;br&gt;&lt;br&gt;밭일하는 노인(높이 50㎝)은 46~48도에 달하는 더위를 경험한다. 전남 곡성에서 80대 노인이 9일 밭일을 나갔다가 의식불명 상태로 발견돼 병원으로 옮겨졌는데 10일 끝내 숨졌다. 추정 사인은 몸의 열을 밖으로 내보내지 못해 생기는 열사병이었다. 노인들은 땀샘이 적어 땀 배출이 잘 안 되고 체온조절 기능도 젊은 사람보다 떨어지기 때문에 바닥에서 올라오는 열기에 더 취약하다. 폭염 땐 밭일을 아예 나가지 않는 것이 안전하다.&lt;br&gt;&lt;br&gt;폭염 때는 아이들을 유모차에 태우는 것도 피해야 한다. 유모차(높이 75㎝)는 노면과 가까워 40~42도까지 열이 오를 수 있고, 햇빛 가리개까지 내리면 아이가 열기에 갇힌다. 아이들은 신진대사율이 높아 열이 많은데, 땀으로 열을 내보내는 능력은 떨어져서 열기에 오래 노출되면 열사병 등 온열 질환에 걸릴 수 있다. &lt;br&gt;&lt;br&gt;‘자외선’도 조심해야 한다. 보통 폭염특보가 발효됐을 때 자외선 지수는 ‘매우 높음’ 이상으로 올라간다. 기상청 관계자는 “자외선 지수가 ‘매우 높음’ 이상이면 수십분만 햇빛에 노출돼도 화상을 입을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;열사병 등 온열 질환은 상태가 서서히 나빠지는 것이 아니라 한순간 쓰러질 수 있기 때문에 외출을 하더라도 햇볕 쬐는 시간을 최대한 줄여야 한다. 또 갈증을 느끼지 않아도 미리 물을 자주 마셔 탈수에 대비해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PZXCTKWVAJEEXGJSXBZEOORQUU.png?auth=215399936894b2fa984844c46ecd8459d54310aad8cdae79b2198916d75933ea&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
-        <media:description type="plain">일러스트=박상훈</media:description>
-      </media:content>
     </item>
     <item>
       <title>“산책만 해도 돈 준대” 1만7000여명 몰렸다</title>
