@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘안산 인질 살해’ 김상훈, 교도소에서 동료 폭행해 추가 실형</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/GGTUF6Z4WVGWJDJ7JM654JLYZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/GGTUF6Z4WVGWJDJ7JM654JLYZE/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 02:33:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXURCQRM4NMU3XR47IZW5YVQ6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 안산에서 인질 살인 사건을 벌인 김상훈(당시 46)이 2015년 1월 15일 오전 영장실질심사를 받기 위해 경기 안산단원경찰서를 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘안산 인질 살해 사건’으로 무기징역형을 선고받아 부산교도소에서 복역 중인 김상훈(56)씨가 수용자를 폭행한 혐의로 실형을 선고받았다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 부산지법 형사5부(재판장 김현순)는 최근 상해와 폭행 혐의로 기소된 김씨에게 징역 6개월을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 9월 오후 9시 30분쯤 부산교도소 수용동에서 50대 수용자를 폭행하고, 이를 말리던 40대 수용자도 때린 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;김씨와 그가 폭행한 수용자는 평소 생활 문제로 감정이 좋지 않았던 것으로 알려졌다. 김씨는 재판 과정에서 피해자들이 자신을 먼저 공격했다는 취지의 주장을 했지만, 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 설명하는 경위는 부자연스럽고 비합리적이어서 있는 그대로 믿기 어렵다”며 “무기징역형을 선고받고 수형 중인 자로서 진지한 반성을 해야 할 수형자의 지위에 있는데도 자중하지 않고 범행을 저질렀다는 점에서 비난 가능성이 더 크다”고 판시했다.&lt;br&gt;&lt;br&gt;김씨는 2015년 1월 경기 안산시에서 아내가 전화를 받지 않는다는 이유로 아내의 전 남편 A씨의 집에 침입해 A씨와 A씨의 둘째 딸을 살해해 무기징역을 선고받았다. 김씨는 사건 당시 A씨의 동거녀와 큰딸을 인질로 잡아 경찰과 대치했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HXURCQRM4NMU3XR47IZW5YVQ6Y.jpg?auth=ac75c3a4f9451e507bce6e25e8e868e5c979ce8d40d4895ee199ded86cb33572&amp;smart=true&amp;width=450&amp;height=316" type="image/jpeg" height="316" width="450">
+        <media:description type="plain">경기도 안산에서 인질 살인 사건을 벌인 김상훈(당시 46)이 2015년 1월 15일 오전 영장실질심사를 받기 위해 경기 안산단원경찰서를 나서고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴시스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>폭염 피하려다 냉방병...적정 온도 지키고 자주 환기해야 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/OSB7WJKLQNGTDO3TIWTX4QC23Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/OSB7WJKLQNGTDO3TIWTX4QC23Y/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 01:53:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQJXHCX5P4QPT5YZZNUE4GSLDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에어컨의 찬바람은 사용자의 몸에 직접 닿으면서 코건조, 감기 등 냉방병을 유발시킬 수 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체감 온도가 35도 안팎으로 오르는 폭염이 지속되면서 전국에서 에어컨 등 냉방 기기 사용이 급증하고 있다. 하지만 너무 오랜 시간 에어컨 바람에 노출될 경우 냉방병에 걸릴 수 있기 때문에 각별한 주의가 필요하다. &lt;br&gt;&lt;br&gt;냉방병은 에어컨 등으로 지나치게 실내 온도가 떨어진 상태에 오래 노출돼 생기는 신체 이상 증세를 말한다. 특정 질환 진단명은 아니지만 냉기로 인해 두통, 근육통, 소화불량 등이 발생할 수 있다. 통상 실내외 온도 차가 5도 이상이 됐을 때 우리 몸의 자율 신경계에 이상이 생기기 시작해 몸 곳곳에 증상이 나타날 수 있다. 바깥 기온은 높은데 이보다 크게 낮은 온도의 실내 환경에 장시간 노출되면 기온 차이에 적응하지 못해 이상이 생기는 것이다. &lt;br&gt;&lt;br&gt;이 때문에 냉방병 예방을 위해 바깥과 온도 차를 적절히 조절하는 게 중요하다. 외부와 실내의 온도 차가 5도를 넘지 않도록 해야 한다. 통상 여름철 실내 적정 온도 기준으로 24~27도를 권장한다. 하루 종일 에어컨을 트는 것보다 일정 시간마다 가동을 멈추고 환기도 해야 한다. 창문을 닫은 상태로 에어컨만 틀어놓으면 실내 유해 물질이 더 많이 쌓이기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7LJP6TJMFEY3HVCYDSE2O4BNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;냉방병을 예방하는 방법은 실내외 온도차를 최소화하고 환기를 자주 하는 것이다. 그러나 "에어컨 언제 켜냐"가 아니라 "에어컨 언제 끄냐"가 질문이 된 지금, 알아도 피해가기 쉽지 않다. /식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에어컨과 같은 냉방 기기를 계속 가동해 실내 습도가 낮아져 호흡기 점막이 건조해질 수 있다. 이런 상태가 지속되면 기침을 동반한 감기 증상이 나타날 수 있다. 최근엔 에어컨의 냉각수에서 번식하는 레지오넬라균에 감염돼 냉방병 증상을 호소하는 경우도 있다. 레지오넬라균 감염을 예방하려면 최소 2주에 한 차례는 에어컨 필터를 점검해 세균, 곰팡이 번식을 막아야 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>체감온도 35도, 주말 전국 대부분 ‘폭염 특보’</title>
+      <link>https://www.chosun.com/national/education/2025/07/12/RKBNC6RFBFBZBO3XPO47JDBULY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/12/RKBNC6RFBFBZBO3XPO47JDBULY/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 00:22:16 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKJIMFMG43KFONHIUGYJBPJP7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염경보가 내려진 대전·충남은 12일 최고 체감온도가 35도 내외로 폭염이 계속될 것으로 예보됐다. 충남 논산 연산면 양지서당에서 아이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말까지 전국 대부분 지역에 폭염이 계속되겠다. 특히 서쪽·내륙을 중심으로 최고 체감 온도가 35도 안팎으로 올라 무더위가 지속돼 온열 질환에 주의가 요구된다. &lt;br&gt;&lt;br&gt;기상청에 따르면 토요일인 12일과 일요일인 13일 서울 낮 최고기온이 36도까지 오르고, 인천·대전 34도, 광주 34도, 대구 31도, 부산과 울산은 31도 안팎까지 기온이 오를 것으로 전망된다.&lt;br&gt;&lt;br&gt;최근 북태평양 고기압과 티베트 고기압이 동시에 한반도 상공을 뒤덮으면서 폭염이 이어지고 있다. 고기압이 상공에 겹겹이 쌓여 있는 상황에서 뜨거운 남풍과 동풍이 몰아치면서 기온이 오르고 있는 것이다.&lt;br&gt;&lt;br&gt;강원도 일부를 제외한 전국 대부분 지역에 폭염특보가 발효됐다. 다만 동풍의 영향으로 일부 동쪽 지역에는 폭염특보가 완화하거나 해제될 가능성이 있겠다.&lt;br&gt;&lt;br&gt;다만 제주는 제주 남쪽 해상에 위치한 기압골의 영향을 받아 대체로 흐리겠고 비가 내리는 곳도 있겠다. 강수량은 제주 10~60㎜, 전남북서부 5~10㎜ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대학교육연구소 “이진숙, 연구 윤리 둔감…즉각 사퇴해야”</title>
+      <link>https://www.chosun.com/national/education/2025/07/12/XFTX2WHCLRFM3NIWUT7EWHI2NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/12/XFTX2WHCLRFM3NIWUT7EWHI2NM/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 00:52:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNDIRJJEIGHH6V4DAKWW5KZO5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 사회부총리 겸 교육부 장관 후보자. photo 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육 시민 단체 대학교육연구소(대교연)가 제자 논문 가로채기 의혹 등을 받고 있는 이진숙 사회부총리 겸 교육부 장관 후보자의 사퇴를 요구했다.&lt;br&gt;&lt;br&gt;대교연은 11일 논평을 내고 “이진숙 교육부 장관 후보자 논란이 거세지고 있다. 교육 전문성·윤리적 자질 부족 논란에 더해 논문 표절과 자녀 불법 조기 유학 문제까지 일파만파 번지고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;대교연은 “특히 심각한 것은 연구윤리 지침이 제정되고 대학마다 관련 규정을 제정하는 등 변화의 움직임을 보이는 와중에도 이 후보자의 연구 부정행위가 계속 있었다는 것”이라며 “변명의 여지가 없다”고 했다.&lt;br&gt;&lt;br&gt;이 후보자는 최근 언론 보도를 통해 충남대 교수 시절 제자 대학원생의 석박사 학위 논문을 요약해 별도 인용 표기 없이 여러 학회지에 발표한 것이 드러나 ‘제자 논문 가로채기’ 의혹을 받고 있다. 제자 학위 논문에 실린 연구 방법, 조사 결과 데이터를 그대로 실으면서 ‘해당 논문은 ○○○의 학위 논문을 참고했다’고 표기하지 않았고, 자신을 제1 저자로 올렸다. 이 밖에 제자 학위 논문에 있는 비문(非文)이 이 후보자 논문에도 그대로 나오면서 의혹이 더 커지고 있다. &lt;br&gt;&lt;br&gt;대교연은 이에 대해 “학회 심사가 제대로 이뤄졌다면 언론이 지적한 문제는 연구 부정 행위에 해당돼 논문집에 실릴 수가 없다. 그렇다면 학회 논문 심사가 부실하게 이뤄졌다고 볼 수밖에 없다”며 “결국 이 후보자 논란은 개인뿐만 아니라 대학과 학회를 포함한 우리나라 지식인 사회가 연구 윤리에 얼마나 둔감한지를 보여주는 사례”라고 지적했다.&lt;br&gt;&lt;br&gt;대교연은 “이진숙 교육부 장관 후보자는 즉각 사퇴해야 한다. 아울러 정부는 연구 윤리 관련 규정과 시스템을 전면적으로 점검하고 개선 방안을 마련해 학계에 더 이상 연구 부정이 발생하지 않도록 연구 윤리 강화 방안을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 뺑소니 사망사고 낸 30대, 항소심도 징역 6년 8개월</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/UE6YFZ2KBFDDVDXDZHZHPM7M4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/UE6YFZ2KBFDDVDXDZHZHPM7M4M/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 00:14:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCYEYI2TX4TYLDDVGH3YNKDCWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 전경/뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마신 상태로 뺑소니 사망 사고를 낸 30대 운전자가 항소심에서도 징역 6년 8개월형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사1부(재판장 김상곤)는 12일 특정범죄가중처벌등에관한법률위반(도주치사·위험운전치사) 및 도로교통법 위반(음주운전) 혐의로 기소된 A(34)씨의 항소심에서 검사와 피고인의 항소를 기각하고 징역 6년 8개월을 선고한 원심을 유지했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 6월 19일 오후 11시 30분쯤 면허취소 수치(혈중알코올농도 0.08% 이상) 상태로 차를 몰다가 전주시 완산구의 한 도로변에 서 있던 B씨를 치어 숨지게 하고 달아난 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 사고를 낸 직후 구호 조치 없이 차를 몰고 달아났다. 경찰은 시민 신고를 받고 출동해 A씨의 거주지에서 그를 검거했다. 조사 결과 A씨는 술을 마신 상태로 약 13㎞ 거리를 운전했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인이 자동차 종합보험에 가입돼 있고 형사처벌을 받은 전력이 없는 초범인 점은 유리한 정상”이라면서도 “다만 피해자의 사망이라는 중하고 돌이킬 수 없는 결과가 발생한 점을 감안할 때 엄벌이 불가피하다”며 징역 6년 8개월을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자의 갑작스러운 죽음으로 유족 역시 헤아릴 수 없는 극심한 슬픔과 고통을 겪고 있고, 피고인과 어떠한 합의도 원하지 않는다는 의사를 밝혔다”며 “범행 후의 정황과 결과 등 여러 양형 조건을 종합해 볼 때 원심이 선고한 형이 재량의 합리적 범위를 벗어나 부당하다고 볼 수 없다”고 항소 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UCYEYI2TX4TYLDDVGH3YNKDCWQ.jpg?auth=ecefc628cd9ad29598feb7fd31493175c72b686271b4105e2d968f1d60a189d7&amp;smart=true&amp;width=560&amp;height=274" type="image/jpeg" height="274" width="560">
+        <media:description type="plain">전주지법 전경/뉴스1 DB</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>러브버그에 밀렸나… ‘팅커벨’ 별명 이 벌레, 올해 민원 확 줄었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/12/LUYFZVVO7FC37BB7DZFETYNZJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/12/LUYFZVVO7FC37BB7DZFETYNZJQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 12 Jul 2025 00:21:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXACRNN7IBB67BUFIIPAO32VZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 잠실야구장 불빛을 보고 몰려든 동양하루살이 떼. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 서울에서 발생한 동양하루살이 민원이 작년 대비 6분의 1 수준으로 급감한 것으로 나타났다. 밝은 조명에 몰려들며 일명 ‘팅커벨’로 불리는 그 벌레다.&lt;br&gt;&lt;br&gt;12일 서울시에 따르면 지난달 말까지 접수된 올해 동양하루살이 관련 민원은 43건으로 집계됐다. 작년 같은 기간 240건에서 크게 줄어든 수치다. 반면 최근 엄청난 개체수로 소동을 일으킨 ‘러브버그’(붉은등우단털파리)의 동기간 민원은 5200건에 달했다.&lt;br&gt;&lt;br&gt;흔히 ‘팅커벨’이라는 별명으로 불리는 동양하루살이는 2급수 이상의 깨끗한 물에 서식한다. 인체에 직접적인 해를 끼치진 않지만, 빛을 좋아하는 습성 탓에 주택가나 상가 주변에 대량 출몰하며 불편을 끼치고 있다. 민원은 주로 강동구, 성동구, 광진구 등 한강변 지역에서 집중 발생했다.&lt;br&gt;&lt;br&gt;서울시는 선제적 방역 조치가 민원 감소에 효과를 본 것으로 분석했다. 시와 자치구는 유충 발생 시기로 예상된 지난 5월부터 수변 인근을 중심으로 사전 방제에 나섰다. 성동구는 방제 장비인 해충 퇴치기 364대를 가동 중이며, 용산구는 전격 살충기를 작년 12곳에서 올해 22곳까지 확대해 총 50대 운영 중이다. &lt;br&gt;&lt;br&gt;이와 함께 계절적 요인도 알맞게 맞물렸다. 동양하루살이 발생에는 기온과 강수량 같은 환경 요인이 결정적인데, 올해 봄철 강우량이 평년 대비 적었고 첫 더위 진입 시기가 늦어져 개체 수가 자연적으로 감소하는 효과를 낳았다는 게 전문가 의견이다.&lt;br&gt;&lt;br&gt;다만 동양하루살이는 생태 특성상 가을에도 한 차례 더 출몰할 수 있다. 이에 서울시는 불빛에 반응하는 하루살이 특성을 이용해, 연구 기관과 함께 조명 기반 포집 장치를 개발 중이다. 특히 청색광에 몰린다는 점을 고려해 청색광을 제거한 노란 조명 설치 등 대응 기술도 함께 실험하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 부하에 갑질 육군 군단장… 정직 징계 중에 음주운전</title>
       <link>https://www.chosun.com/national/incident/2025/07/12/BDPXYQIV3VCA5BYAAHGZVL5HOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/12/BDPXYQIV3VCA5BYAAHGZVL5HOI/</guid>
@@ -723,15 +785,6 @@
       <content:encoded>윤석열 전 대통령 측이 11일 오후 2시 예정된 내란특검 소환 조사를 앞두고 불출석사유서를 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XNMTYQZ4WXT5QD5FBWJCGY3NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 본지 취재를 종합하면, 윤 전 대통령 측은 전날 오후 서울구치소 측에 불출석사유서를 제출했다고 한다. 다만 이날 오전까지 구치소 측에서 특검으로 불출석사유서가 전달되지 않은 것으로 보인다. 특검 측은 이날 오전 11시쯤 “아직 윤 전 대통령 측에서 불출석사유서 내지 (소환 조사 관련) 의사를 전해온 것이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측이 불출석사유서를 제출한 것으로 알려지면서 특검팀 소환 조사 일정에 차질이 생길 것으로 보인다. 특검 측은 전날 윤 전 대통령의 신병을 확보한 만큼 직권남용 등 12·3 비상계엄 관련 혐의에 대한 잔여 수사 및 외환 혐의 수사를 이어갈 계획이었다.&lt;br&gt;&lt;br&gt;특검이 윤 전 대통령을 강제 구인하거나, 구치소를 찾아 방문 조사를 시도할 가능성도 배제할 수 없다. 다만 지난 1월 윤 전 대통령을 체포‧구속했던 고위공직자범죄수사처는 신병을 확보하고도 추가 조사를 하지는 못했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령 측은 구속적부심 청구를 포함한 대응 방안을 논의 중인 것으로 전해졌다. 구속적부심은 구속이 적법한지 여부와 구속을 계속할 필요성이 있는지 여부를 법원이 다시 판단하는 절차다. 구속 사유가 사라졌다고 판단할 경우 법원은 윤 전 대통령을 석방하게 된다. 다만 윤 전 대통령을 구속하기로 결정한 영장 전담 부장판사가 아니라 판사 3명으로 구성된 형사합의부에서 적부심을 심리하게 된다.&lt;br&gt;&lt;br&gt;적부심 청구가 접수되면 법원은 48시간 이내에 윤 전 대통령을 심문해야 한다. 이 기간 동안 윤 전 대통령에 대한 조사는 불가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“자녀 현대차 보내 줄게”… 취업 사기로 16억원 뜯은 60대 </title>
-      <link>https://www.chosun.com/national/incident/2025/07/11/MATEW2SN7ZEPPBWTBPOK4PVEQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/11/MATEW2SN7ZEPPBWTBPOK4PVEQY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 02:22:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTZBE5FTU3H5FUCCJUSZZZXU5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인들에게 자녀를 대기업에 취업시켜주겠다고 속여 수십억 원을 가로챈 60대가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;전주지검 형사3부(부장 배상윤)는 사기 혐의로 A씨를 구속 기소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2015년부터 지난해까지 자녀를 현대자동차 전주공장에 취업시켜주겠다며 지인 16명을 속여 16억6000만원을 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 이들에게 돈만 받고 실제 취업 청탁을 하지 않은 것으로 조사됐다. 약속했던 취업이 이뤄지지 않자 피해자 B씨는 돈을 돌려달라고 요구했고, A씨는 다른 피해자에게서 받은 돈을 B씨에게 돌려주는 이른바 ‘돌려막기’ 수법을 쓴 것으로 확인됐다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 장기간에 걸친 대규모 취업 빙자 사기”라며 “피고인에게 범죄에 상응하는 형이 선고될 수 있도록 공소 유지에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주말에도 서쪽 중심 무더위·열대야 지속...‘고온건조 동풍’ 때문</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/11/CPCOVUCHNND6DFHNS5IS62KDZA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/11/CPCOVUCHNND6DFHNS5IS62KDZA/</guid>
@@ -916,33 +969,6 @@
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 10일 이종섭 전 국방장관과 국방부, 국가안보실 등에 대한 압수 수색에 나섰다. 이른바 ‘VIP 격노설’을 규명하기 위해 첫 강제 수사에 착수한 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 전 장관 자택과 국방부, 국가안보실 등 10여 곳을 압수 수색했다. 이시원 전 공직기강비서관과 임기훈 전 국방비서관, 신범철 전 국방부 차관, 전하규 국방부 대변인 등도 압수 수색 대상에 포함됐다.&lt;br&gt;&lt;br&gt;이 전 장관은 2023년 8월 박정훈(대령) 전 해병대 수사단장이 고(故) 채수근 상병 사망 사고와 관련해 임성근 당시 해병대 1사단장에게 과실치사 혐의를 적용한 조사 기록을 경찰에 이첩하려 하자 보류·중단을 지시하고, 이를 어기고 이첩한 박 대령에 대해 항명 수사를 지시한 혐의(직권남용)를 받는다. 이 전 장관은 2023년 9월 고위공직자범죄수사처에 고발된 이후 이날 처음 압수 수색을 당했다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤석열 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 임 전 사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이 전 장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다. 최근 특검은 당시 이모 경찰청 국가수사본부 강력범죄수사과장이 박모 공직기강비서관실 행정관에게서 “이시원 비서관이 해병대 수사단이 이첩한 조사 기록 반환을 검토하라고 했다”고 들었다는 진술을 확보했다고 한다. 특검은 대통령실이 기록 회수 과정에 관여했는지 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령과 김태효 전 국가안보실 1차장, 이 전 장관, 김계환 전 해병대 사령관으로 이어지는 수사 외압 경로를 확인하겠다는 방침이다. 11일에는 당시 회의에 참석한 김 전 차장을 불러 격노설의 진위 여부를 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 이날 임 전 사단장 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트먼트 대표의 자택과 차량도 압수 수색했다. 이 전 대표는 도이치모터스 주가조작 사건에서 김건희 여사 계좌를 관리했던 인물로, 임 전 사단장을 구하기 위해 김 여사 측에 청탁했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장마 대비해 댐 비웠는데… 이젠 물 부족 걱정할 판</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/11/WPAQJWNRMBDXLKX5WUP7X5YHSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/11/WPAQJWNRMBDXLKX5WUP7X5YHSU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7TTFLEOTVODXE67OPAH7GJVTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘마른장마’ 여파로 7일 강원도 강릉 오봉저수지의 바닥이 그대로 드러나 있다. 강릉에서 쓰는 용수의 90%를 공급하는 저수지인데, 현재 저수율은 31%에 그친다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘마른 장마’의 후폭풍이 일부 지역에서 극심한 가뭄으로 나타나고 있다. 올여름 많은 장맛비가 예보돼 댐을 비워 놨는데, 장마가 빨리 끝나 오히려 가뭄을 걱정하게 된 것이다. &lt;br&gt;&lt;br&gt;10일 환경부에 따르면, 대구·경북권에 물을 공급하는 용수댐인 운문댐의 현재 저수율은 38.4%로 예년(47.3%) 수치를 크게 밑돌고 있다. 강원도 강릉 생활·공업·농업 용수의 90% 가까이를 공급하는 오봉저수지는 예년(65%) 저수율의 절반에도 미치지 못하는 31%를 기록 중이다. 현재 운문댐과 오봉저수지의 가뭄 대응 단계는 각각 ‘주의’와 ‘관심’인데, 앞으로 점점 높아질 것으로 예상된다. &lt;br&gt;&lt;br&gt;물 확보에 비상이 걸린 것은 장마가 거의 없다시피 끝났기 때문이다. 기상청은 여름철(6~8월) 전망에서 6월 강수량은 평년(101.6~174.0㎜)보다 많고, 7월(평년 245.9~308.2㎜)과 8월(평년 225.3~346.7㎜)은 평년 수준 비가 내릴 것으로 전망했다. 그러나 이 예상이 완전히 빗나갔다.&lt;br&gt;&lt;br&gt;올해 장마는 북태평양 고기압의 빠른 세력 확장으로 일찍 시작해 짧게 지나갔다. 제주(6월 12~26일)가 15일, 남부 지방(6월 19일~7월 1일)이 12일 만에 끝났다. 남부 지방은 장마 기간 비가 98㎜에 그쳤다. 최근 2주(6월 25일~7월 8일)간 전국 강수량은 8.3㎜로, 평년 동기 강수량(141㎜)의 6.1% 수준에 그쳤다.&lt;br&gt;&lt;br&gt;그나마 수도권과 강원 영서는 비가 평년 10분의 1 정도는 왔지만, 나머지 지역은 강수량이 평년의 10%에도 못 미치고 있다. 비가 많이 내릴 것을 대비해 댐을 비워 놨는데, 오히려 극심한 폭염이 찾아와 댐의 물이 빠르게 말라가는 것을 걱정하는 처지가 된 것이다. 북태평양 고기압 세력이 최전성기에 이르는 8월로 갈수록 물의 증발 속도는 빨라질 것으로 예상된다. &lt;br&gt;&lt;br&gt;아직 중부지방은 장마 종료 선언이 나오지 않았으나, 비가 오더라도 강우는 수도권과 강원 영서에 집중될 전망이다. 기상청은 오는 16~17일 북서쪽에서 다가오는 기압골 뒤쪽에서 찬 공기가 유입돼 우리나라 상공에 차 있던 뜨거운 공기와 강하게 충돌, 정체전선이 형성돼 수도권과 강원도 일부 지역에 장맛비가 내릴 것으로 내다봤다. 서로 부딪치는 공기의 온도 차가 클수록 비구름대도 커지기에, 폭염을 누그러뜨릴 정도의 비를 기대할 수 있는 것이다. 그러나 원래 장마철인 7월의 평년 강수량이 최소 240㎜라는 것을 감안하면, 이번에 비가 예고된 이틀간 이 정도 강수량을 기대하긴 어려운 상황이라 가뭄 걱정을 덜어내지는 못할 전망이다. &lt;br&gt;&lt;br&gt;비가 내리더라도 비구름대가 태백산맥을 넘기 전에 비를 소진할 가능성이 큰 상황이다. 강원 영동까지 비가 뻗치지 못하고, 영서에만 집중되는 것이다. 강원 영동 지역의 농업용 저수지 평균 저수율은 40.1%(이달 1일 기준)로 평년보다 24.4%포인트(p) 낮다. 정부는 영동 지역 저수지에 제한 급수를 실시하고 있는데, 비 예고가 이런 상황 해결에는 도움이 되지 않을 전망이다. &lt;br&gt;&lt;br&gt;환경부는 장마가 이례적으로 일찍 끝나고 일부 지역에 가뭄이 들 징조가 나타남에 따라 홍수 대응 체계를 유지하는 가운데 가뭄 대응에도 나서기로 했다. 환경부는 “여름철 자연재난 대책 기간(5월 15일~10월 15일) 홍수 대응 체계를 유지하면서, 강원 강릉 등 국지적으로 나타나는 가뭄에도 총력 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“尹사단 하나회 발언, 이성윤 해임 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/UUL6VQP5RZCDZJMC6GV6KWGBK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/UUL6VQP5RZCDZJMC6GV6KWGBK4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>이성윤 더불어민주당 의원이 검사 시절 “윤석열 사단은 전두환의 하나회”라고 발언한 것 등을 이유로 해임된 것은 부당하다며 소송을 냈지만 1심에서 패소했다. 서울행정법원은 10일 이 의원이 법무부를 상대로 낸 해임 취소 소송에서 “해임이 과중하지 않다”고 판결했다.&lt;br&gt;&lt;br&gt;법무부는 작년 2월 법무연수원 연구위원이던 이 의원에게 최고 수준 징계인 해임 처분을 의결했다. 2023년 조국 전 조국혁신당 대표 출판기념회 등에 8차례 참석해 검찰 업무의 공정을 훼손·저해하는 부적절한 발언을 했다는 게 이유였다. &lt;br&gt;&lt;br&gt;이 의원은 작년 총선에서 민주당 공천을 받고 당선되자 소송을 냈다. 재판부는 “현직 검사 지위에서 당시 대통령인 윤석열과 검찰 조직을 비판하는 공개 발언을 지속하고, 조 전 대표와 정치 행사에 함께 참석한 것은 검사로서 체면과 위신을 손상하는 행위”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사막의 나라 중동보다 한국이 훨씬 더워요”</title>
-      <link>https://www.chosun.com/national/labor/2025/07/11/7OW43U7QYFFH3OJLTJ3NS32EMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/11/7OW43U7QYFFH3OJLTJ3NS32EMM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>지난 9일 오후 1시 30분쯤 충남 천안에 있는 아이파크시티 아파트 건설 현장. 이곳에서 만난 현장 경력 20년의 근로자 김모(59)씨는 “그동안 쿠웨이트, 오만, 아랍에미리트 등 중동 국가에서도 일해봤는데, 요즘 한국에서 일하는 게 제일 힘들다”며 “기온이 35도를 넘어갈 뿐 아니라 습하기까지 해 훨씬 더 덥게 느껴진다”고 했다. 이날 천안의 최고기온은 34.7도로 폭염경보가 발효된 상태였다. 기자가 현장에 도착한 지 10분도 채 지나지 않았지만, 윗옷이 땀으로 흠뻑 젖었다. 안경을 고쳐 쓰자 철제 안경테가 달궈진 것이 느껴질 정도였다. 현장에 설치된 대형 선풍기에선 뜨거운 바람이 쏟아졌다. 김씨는 “일을 마칠 때면 머리부터 발끝까지 온몸이 다 젖는다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2ZQP6E7WRVBD3OXRZTJF7NRMYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 충남 천안시 아이파크시티 아파트 공사장에서 한 작업자가 물을 마시며 철근 작업을 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장 내 타워크레인 6대가 ‘폭염경보’라고 적힌 현수막을 일제히 들어 올리자, 곳곳에서 일하던 근로자 50여 명이 현장 입구로 나와 분홍색 트럭 앞에 줄을 섰다. 근로자들은 시공사가 준비한 커피 트럭에서 아이스 아메리카노, 아이스티 등을 받아 목을 축였다. 그늘에 모여 아이스크림을 먹는 근로자들도 있었다. 일부 근로자는 등 부분에 작은 선풍기가 달려 있고 옷 안 주머니에 아이스팩을 넣을 수 있는 ‘냉각 의류’를 입고 있었다. &lt;br&gt;&lt;br&gt;고용노동부는 지난달 23일부터 건설·조선·물류업 등 폭염 고위험 사업장에서 ‘폭염 안전 5대 수칙’을 지키는지 감독하고 있다. 5대 수칙에는 시원한 물, 냉방·통풍 장치, 2시간에 20분 휴식, 개인 보랭 장구, 온열 질환자 발생 시 119 신고 등이 포함된다. 근로감독관들이 직접 넓은 건설 현장 부지를 모두 돌아다니기 어려운 만큼 드론을 띄워 위반 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;이날 기자가 찾은 천안 건설 현장 상공에도 고용부의 드론이 떴다. 이곳 현장만 5만8700㎡(약 1만7700평) 규모에 달한다. 드론에 달린 스피커에서는 “온열 질환을 예방하시기 바랍니다. 사고는 한순간에 발생합니다” 등과 같은 안내 음성이 한국어뿐 아니라, 중국어와 태국어로도 흘러나왔다. 건설 현장에서 일하는 중국과 동남아 인부들까지 감안해서다.&lt;br&gt;&lt;br&gt;근로자들은 사업장에서 기본 수칙을 잘 지키는 것만으로도 무더위 속 야외 작업에 큰 도움이 된다고 입을 모았다. 현장 골조소장 조용철(61)씨는 “45분 일하고 15분 쉬는 것을 사실상 강제하고 있다”며 “근로자는 여러 명인데 관리자는 적기 때문에 근로자 스스로 안전 수칙을 지킬 수 있도록 하는 것이 가장 중요하다”고 했다.&lt;br&gt;&lt;br&gt;질병관리청의 온열 질환 응급실 감시 체계에 따르면, 올해 감시를 시작한 5월 15일부터 이달 9일까지 발생한 온열 질환자는 사망자 9명을 포함해 모두 1357명이다. 작년 비슷한 기간(5월 20일~7월 14일)에는 사망자 3명을 포함해 556명이었는데, 올해 2.4배로 늘었다. 올해 온열 질환자 4명 중 1명(24.7%)은 건설 현장 근로자와 같은 단순 노무 종사자였다. 온열 질환 발생 장소도 실외 작업장이 28.4%로 가장 많았다. 연령별로는 60대가 20.2%로 가장 많았고, 이어 50대(16.8%), 30대(12.8%), 40대(12.7%), 20대(10%) 등 순이었다.&lt;br&gt;&lt;br&gt;지난 7일 경북 구미의 한 아파트 건설 현장에서는 베트남 국적 A(22)씨가 온열 질환으로 사망했다. 당시 구미의 일 최고기온은 38.3도까지 치솟았었다. 발견 당시 A씨의 체온은 40.2도였다고 한다. 고용부는 해당 사업장에 전면 작업 중지 지침을 내리고, 법 위반 여부를 들여다보고 있다.&lt;b&gt; &lt;/b&gt;고용부 관계자는 “근로자들이 빨리 퇴근하고 싶어한다는 이유를 들어 휴식 지침을 지키지 않는 사업장이 많다”고 했다. 현재 폭염 안전 5대 수칙은 권고에 불과하기 때문에 당국은 위반 사업장에 시정 조치만 내릴 수 있는 상황이다. 이에 고용부는 5대 수칙 중 ‘2시간에 20분 휴식’ 지침에 대한 의무화를 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘공포의 1m’… 쪼그려 밭일 땐 체감온도 48도</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/11/4YWM4MNWMVFX7CYGEXSS6WDM6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/11/4YWM4MNWMVFX7CYGEXSS6WDM6Y/</guid>
@@ -962,24 +988,6 @@
       <description/>
       <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRFY5VA645E65AG2BHQGNUAQKY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동네를 걷거나 분리수거를 하면 현금처럼 쓸 수 있는 포인트를 주는 서울시의 ‘외로움 극복’ 프로그램에 9일 만에 1만7000여 명이 몰렸다. 특히 30·40대 여성 참여자가 전체의 40%를 넘긴 것으로 나타났다.&lt;br&gt;&lt;br&gt;서울시는 지난 1일 참여자 모집을 시작한 외로움 극복 프로그램 ‘365 서울 챌린지’에 총 1만7430명이 가입한 것으로 집계됐다고 10일 밝혔다. 당초 5000명을 모집하려 했는데, 세 배를 훌쩍 넘긴 인원이 모인 것이다. &lt;br&gt;&lt;br&gt;이 프로그램은 시민들이 잠깐이라도 집을 벗어나 바깥 활동을 하고, 이를 통해 고립감·우울감을 조금이나마 해소할 수 있게 하자는 취지에서 시작했다. 분리수거나 동네 산책, 중고품 거래와 같은 간단한 활동부터 ‘한강공원에서 책 읽기’ ‘러닝 크루 가입하기’같이 보다 적극적이어야 할 수 있는 활동까지 총 35개 과제가 있다. 이 중 마음에 드는 활동을 골라서 해본 뒤 사진을 찍어 전용 홈페이지에 인증하면 300~500포인트를 준다. 5000포인트 이상이 되면 서울 곳곳에서 현금처럼 쓸 수 있는 서울페이로 바꿔준다. 서울시 관계자는 “과제 중에선 ‘미술관 방문’ ‘공원 산책’이 특히 인기가 많았다”고 했다.&lt;br&gt;&lt;br&gt;서울의 ‘외로운 젊은 여성들’이 특히 많이 참여했다. 일단 전체 여성 참여자가 1만2338명(70.8%)으로, 남성 5092명(29.2%)을 압도한다. 또 30대 여성이 3783명(전체의 21.7%)으로 남녀 연령별 참여자 중 가장 많았다. 이어 40대 여성(19.9%), 50대 여성(11.9%), 20대 여성(11.4%) 순이다. 남성은 40대가 1513명(8.7%)으로 가장 많았다. 서울시 신혜숙 고독대응과장은 “여성이 남성보다 상대적으로 외로움을 더 느끼고, 대신에 그런 상태를 극복하려는 의지도 더 강한 것으로 보고 있다”고 했다. &lt;br&gt;&lt;br&gt;서울시의 다른 외로움 극복 프로그램에도 여성 참여자 비율이 더 높다. 간단한 간식을 먹으며 외로움·우울감에 대해 상담할 수 있는 ‘서울 마을 편의점’은 지난 3개월간 1만4639명이 다녀갔는데, 70.1%가 여성이었다. 24시간 외로움을 상담해 주는 콜센터 ‘외로움 안녕 120’도 4~5월 상담자의 66.1%가 여성이었다고 한다. 서울시 관계자는 “외로움을 극복하고 싶어 하는 여성이 많은 것이 숫자로 나타나는 만큼, 여성 특화 프로그램을 개발하는 방안도 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부울경 광역철도 확정… 1시간 생활권 열린다</title>
-      <link>https://www.chosun.com/national/regional/2025/07/11/NI3OATQTZVDUNKQ23QPPW64WJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/11/NI3OATQTZVDUNKQ23QPPW64WJU/</guid>
-      <dc:creator>울산=김주영 기자, 창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>부산과 경남 양산, 울산을 연결하는 ‘부울경 광역철도’ 사업이 10일 기획재정부 예비타당성조사(예타)를 통과했다. 사업이 속도를 낼 것으로 보인다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “부울경 지역을 하나의 광역 경제권으로 만드는 첫발을 뗐다”고 했다.&lt;br&gt;&lt;br&gt;부울경 광역철도는 수도권 밖 지방에 들어서는 첫 광역철도다.&lt;br&gt;&lt;br&gt;부산도시철도 노포역에서 양산 웅상, 울산 신복 등을 거쳐 KTX울산역까지 48.8㎞를 연결한다. 2조5475억원을 들여 2031년 개통할 계획이다.&lt;br&gt;&lt;br&gt;이 철도가 개통하면 부산 노포역에서 KTX 울산역까지 45분 만에 주파할 수 있다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “부울경 지역은 인구가 800만명에 달하지만 지역 내 교통이 불편해 광역 경제권으로 도약하는 데 한계가 있었다”며 “광역철도는 부울경 지역을 1시간 생활권으로 만들 것”이라고 했다. 박완수 경남도지사는 “양산 웅상 지역 주민들의 출퇴근길이 훨씬 편해질 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;이 사업은 문재인 정부 시절인 2021년 4차 국가철도망 구축 계획에 반영되면서 본격 추진됐다. 2023년 6월 기재부가 예타에 착수했지만 낮은 경제성 때문에 난항을 겪었다. 지난 대선 당시 이재명 후보가 “부울경에도 철도로 다닐 수 있는 교통망이 필요하다”고 하면서 청신호가 켜졌다. 김경수 지방시대위원장도 “부울경 광역철도는 단순한 교통 수단이 아니다”라며 “부울경 주민이 일자리, 교육, 의료 등을 공유하는 메가시티로 가는 출발점”이라고 했다.&lt;br&gt;&lt;br&gt;울산시 관계자는 “지역 균형 발전에 대한 새 정부의 의지가 반영된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;부울경 광역철도는 현재 추진 중인 정관선(월평~좌천), 양산선(노포~북정), 울산도시철도(신복~태화강역) 등과도 연결돼 시너지를 낼 것으로 예상된다.&lt;br&gt;&lt;br&gt;이날 ‘서부권 광역급행철도’ 사업도 예타를 통과했다. 2조6710억원을 들여 경기 김포 장기와 인천 검단·계양, 부천 대장, 서울 청량리를 연결하는 사업이다. 국토교통부 관계자는 “이 철도가 개통하면 김포~서울 간 소요 시간이 80분에서 30분대로 단축될 것”이라며 “서울로 출퇴근하는 김포 등 2기 신도시 주민들의 고충을 덜 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최서원 명예훼손 혐의… 안민석 1심서 벌금형</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/P3JMWTC73FDGRJALF5AZMRR2LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/P3JMWTC73FDGRJALF5AZMRR2LU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>허위 사실을 유포해 최서원(개명 전 최순실)씨의 명예를 훼손한 혐의를 받는 안민석 전 더불어민주당 의원이 1심에서 벌금 300만원을 선고받았다. &lt;br&gt;&lt;br&gt;안 전 의원은 최근 최씨가 낸 1억원 규모 손해배상 소송(3심)에서도 패소했다.&lt;br&gt;&lt;br&gt;수원지법 형사19단독 설일영 판사는 10일 정보통신망법 위반(명예훼손 등) 혐의로 기소된 안 전 의원에게 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;이 사건은 최씨가 박근혜 전 대통령의 ‘비선 실세’라는 의혹이 제기되던 2016년 시작됐다. &lt;br&gt;&lt;br&gt;당시 안 전 의원은 라디오와 TV 방송 등에 출연해 “최씨가 수조 원의 돈세탁을 했다”고 주장했다. 안 전 의원은 최씨가 미국 록히드마틴 회장과 만나는 등 사드(THAAD·고고도 미사일 방어 체계) 도입에 관여했다는 의혹을 제기하면서 “무기 계약을 몰아주고 돈을 수수했다”고도 했다. 또 “스위스 비밀 계좌에 입금된 한 기업의 돈이 최씨와 연관돼 있다”고도 했다.&lt;br&gt;&lt;br&gt;최씨는 2019년 9월 “안 전 의원의 발언은 모두 거짓”이라며 그를 고소했다. 검찰도 안 전 의원 발언이 허위 사실이라고 판단하고, 2023년 11월 그를 불구속 기소했다.&lt;br&gt;&lt;br&gt;안 전 의원 측은 재판에서 “공익적 차원에서 한 주장으로, 발언이 허위라는 인식이나 악의적 비방 목적이 없었다”고 했다.&lt;br&gt;&lt;br&gt;이날 설 판사는 록히드마틴 관련 발언에 대해서만 유죄로 인정하면서 “구체적인 근거 자료를 제시하려는 노력 없이 허위 사실을 적시해 피해자의 명예를 훼손했다”고 말했다. 나머지 발언에 대해선 “비방 목적이 인정되지 않거나, 위법성 조각(阻却) 사유가 있다고 판단했다”고 했다. 구체적인 이유는 밝히지 않았다.&lt;br&gt;&lt;br&gt;안 전 의원은 “항소심에서 무죄를 입증하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
