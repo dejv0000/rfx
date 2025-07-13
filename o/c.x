@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 우도 해변에 떡하니 꽂힌 中오성홍기...  무슨일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/13/KMXH2UI2PNEFFJ2IQGBNPP6N5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/KMXH2UI2PNEFFJ2IQGBNPP6N5I/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 09:55:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMLWHIM4D5GWZL72L5JNSVSETU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. &lt;br&gt;&lt;br&gt;10일 소셜미디어 스레드의 한 이용자는 지난 8일 우도 해안도로변에 설치된 중국 오성홍기를 찍은 영상을 올렸다. 영상에는 우도 해안도로를 따라 태극기와 오성홍기가 나란히 설치된 모습이 담겼다. 깃발 주변에는 피아노 1대와 다수의 연꽃 모형도 설치돼 있었는데 관광객이 인증 사진을 찍기 위한 장소처럼 보이기도 했다. 오성홍기 깃발은 땅에 단단히 고정돼 있었던 것으로 알려졌다. 영상 제보자는 “독도는 우리 땅이라고 외치면서 정작 우도는 중국에 내어주는 것 같다”고 우려를 표했다. 그는 “전동차를 타고 우도를 순회하던 중 우연히 발견했다”며 “중국인 관광객들이 이 앞에서 사진을 찍기 위해 서 있었다”고 전했다. &lt;br&gt;&lt;br&gt;이 영상이 소셜미디어에 퍼지자 네티즌들의 강한 비판이 이어졌다. “제주가 중국인의 섬이 됐다” “중국인 밀집지에는 한자로 ‘여긴 중국 영토’라고 새기더니, 이젠 국기를 꽂는다”는 등의 비판적 댓글이 잇따랐다. 일부 네티즌은 “일장기가 꽂혀 있었다면 더 큰 논란이 됐을 것”이라며 우리 영토에서 외국 국기를 무단으로 설치하는 행위를 비판했다. “제주도에서 왜 중국 국기를 봐야 하나” “왜 우리 땅에서 이런 일을 당해야 하는 건지” “바로 철거해야 한다. 아무런 제재도 안 하니 저런 짓을 벌이는 게 아닌가” 등 분노를 표출하는 이들이 대다수였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBASFBVHGFE65C6P3F22JFO6HY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 영상을 본 일부 네티즌들은 제주도청에 민원을 제기하기도 했다. 우도면 관계자는 한 매체에 “개인이 설치한 것으로 추정된다”며 “직원이 현장을 확인했을 때는 이미 중국 국기가 모두 철거된 상태였다”고 밝혔다. 또 “소셜미디어에 영상이 올라오기 전까지 관할 부서에서는 몰랐다”고 밝혔다. 이 관계자는 “해수욕장 안전 요원들의 말에 따르면 사람들이 몰려와 깃발을 수거해 갔다고 한다”고 전했다. &lt;br&gt;&lt;br&gt;이번 사건은 제주도의 외국인 관광객이 급증하는 상황에서 발생했다. 지난 1월 제주도관광협회에 따르면 지난해 제주를 찾은 외국인 관광객은 190만7608명으로 코로나 이전인 2019년 이후 5년 만에 100만명을 넘어섰다. 특히 중국인 관광객이 130만4359명으로 전체 외국인 관광객의 68.4%를 차지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AMLWHIM4D5GWZL72L5JNSVSETU.jpg?auth=73d3774f643288092ba029287b8fa40c28328deb10963b253a9cab5bfb42919b&amp;smart=true&amp;width=648&amp;height=492" type="image/jpeg" height="492" width="648">
+        <media:description type="plain">제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title> “형 훈계에 화나서…” 김포 일가족 살해 30대 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/07/13/6GF7H5BWDBHONAST3XZ4DQ7VMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/13/6GF7H5BWDBHONAST3XZ4DQ7VMM/</guid>
+      <dc:creator>김포=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 09:28:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OQFTA2L75PSXMDWH4QBQBX4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 경기 김포시 한 단독주택에서 60∼70대 부모와 30대 형 등 일가족 3명을 흉기로 살해한 혐의를 받는 30대 A씨가 13일 부천시 원미구 인천지방법원 부천지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모와 형을 흉기로 살해한 혐의를 받는 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 김포경찰서는 13일 존속살해 및 살인 혐의로 A(30대)씨를 구속했다고 밝혔다. 오승희 인천지법 부천지원 당직 판사는 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 10일 오전 김포시 하성면 단독주택에서 60~70대 부모와 30대 친형을 흉기로 찔러 살해한 혐의를 받고 있다. 범행 다음 날인 11일 오전 10시 54분쯤 “집 앞에 핏자국이 있다”는 피해자 지인의 신고가 접수되면서 사건이 드러났다.&lt;br&gt;&lt;br&gt;신고자는 A씨 어머니의 직장 동료로, 어머니가 출근하지 않자 집을 찾아갔다가 이상한 낌새를 느껴 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰이 현장에 도착했을 당시 피해자 3명은 이미 사망한 상태였다. 아버지와 형은 방 안에서, 어머니는 부엌 쪽에서 발견됐다. 모두 사후 강직이 진행된 상태였다. 현장에서는 혈흔과 범행에 사용된 것으로 보이는 흉기도 발견됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 시신을 부검한 뒤 “흉기에 의한 상처로 인한 사망으로 추정된다”는 1차 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “형이 잔소리를 해서 화가 났고, 우발적으로 범행했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한동훈 독직폭행 무죄’ 정진웅 검사, 징계 취소 승소 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/13/ZSUEVICCYZAWHAW4TWLUVFNJX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/13/ZSUEVICCYZAWHAW4TWLUVFNJX4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 09:02:26 +0000</pubDate>
+      <content:encoded>한동훈 전 국민의힘 대표를 폭행한 혐의로 기소됐다가 무죄를 확정받은 정진웅 대전고검 검사가 징계 취소 소송에서 최종 승소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNI3TCOJQMR6QZCA32WM2N75YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진웅 대전고검 검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 정 검사가 법무부 장관을 상대로 징계를 취소해달라며 낸 소송에서 승소한 2심 판결이 법무부 측이 상고하지 않으면서 지난 11일 확정됐다.&lt;br&gt;&lt;br&gt;정 검사는 서울중앙지검 형사1부 부장검사로 재직하던 2020년 7월 이른바 ‘채널A 사건’ 관련 압수수색 과정에서, 당시 법무연수원 연구위원이던 한 전 대표와 몸싸움을 벌였다. 정 검사는 특정범죄가중처벌법상 독직폭행 혐의로 그해 10월 기소됐지만 2022년 11월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;법무부는 형사 재판 결과와 별도로, 직무상 의무 위반과 품위 손상을 이유로 작년 2월 정 검사에게 정직 2개월의 징계를 내렸다. 이에 불복한 정 검사는 징계 처분을 취소해 달라며 법무부를 상대로 행정소송을 냈다.&lt;br&gt;&lt;br&gt;​앞서 1심은 “형사 사건에서 무죄 판결이 있었고, 의무 위반 경위나 과정에서 과실 정도 등을 고려했을 때 중징계에 해당하는 정직 처분을 내리는 건 재량권의 일탈 및 남용”이라며 정 검사의 손을 들어줬다.&lt;br&gt;&lt;br&gt;2심을 맡은 서울고법 행정11-3부(재판장 김우수)도 지난달 25일 정 검사에 대한 법무부 징계가 위법하다며 법무부 장관 측 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>출근길 옛 연인인 직장 동료에 살해 당해도…법원 “산재 아냐”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/13/3DBGR4UOARHSBOIE2QYB46OUIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/13/3DBGR4UOARHSBOIE2QYB46OUIY/</guid>
@@ -908,39 +938,6 @@
       <description/>
       <pubDate>Fri, 11 Jul 2025 06:11:24 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4FR74NMZIBTTHVCP3MJPAPJ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 의사·의대생 전용 커뮤니티에 올라온 복귀 전공의·의대생을 겨냥한 보복성 협박 글 관련 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 의사와 의대생만 가입 가능한 온라인 커뮤니티 ‘메디스태프’에 올라온 복귀 전공의·의대생 겨냥 협박글 작성자가 누구인지를 밝히는 수사에 착수했다고 11일 밝혔다. 교육부는 전날 이런 협박 글에 대해 경찰에 수사 의뢰를 한 바 있다.&lt;br&gt;&lt;br&gt;의대 증원을 두고 터진 의정 갈등 이후 ‘메디스태프’에는 집단행동에 참여하지 않고 병원에 남거나 복귀한 전공의 또는 학교에 복귀하는 의대생을 비하하거나 위협하는 게시글이 지속적으로 게시됐다. 게시물 중에는 “감귤들아 우리가 간다. 돌아가면 니들 강간해버린다” “복귀해도 먼저 기어들어간 감귤은 기수 열외시킨다” 등 극단적인 위협도 다수 포함됐다. 감귤은 집단행동에 동참하지 않는 전공의·의대생을 비하하는 은어다. 경찰 수사를 의뢰한 교육부는 “불특정 다수의 의대생과 전공의들의 생명과 신체에 직접 위해를 가하고 학업과 업무 등에서 불이익을 예고하는 사례”라며 “헌법상 보장된 개인의 고유 권리인 학습권을 침해하는 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난달 30일 정보통신망법 및 스토킹처벌법 위반을 방조한 혐의로 메디스태프 대표와 관리직원을 서울중앙지검에 불구속 송치하기도 했다. 이들은 해당 커뮤니티에 ‘의료계 블랙리스트’ 게시글이 지속적으로 올라오도록 방조했다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김태효 前국가안보실 1차장, 해병 특검 조사 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/4XDAQ3CUKFGXLKMH5X6SGGMY3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/4XDAQ3CUKFGXLKMH5X6SGGMY3A/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 05:50:01 +0000</pubDate>
-      <content:encoded>김태효 전 대통령실 국가안보실 1차장이 11일 해병 특검에 피의자 신분으로 출석했다. 이른바 ‘VIP 격노설’을 규명하기 위한 차원이다. ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 ‘VIP 격노설’과 관련한 대통령실 고위급 인사를 불러 조사하는 건 김 전 차장이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYUM7RCHUZFVZIAXSK2UVFP5MQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김태효 전 국가안보실 1차장이 11일 오후 서울 서초구 순직해병 특검 사무실에서 피의자 신분으로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 차장은 이날 오후 2시 50분쯤 서울 서초동 해병 특검 사무실 입구에 나타났다. 김 전 차장은 “윤석열 전 대통령의 격노가 정말 없었냐” “(조사 기록) 이첩 보류 지시에 관여했냐” 등 기자들의 질문에 아무 대답을 하지 않고 곧장 조사실이 있는 윗층으로 올라갔다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤석열 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 고(故) 채수근 상병의 부대장이었던 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이종섭 전 국방장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다.&lt;br&gt;&lt;br&gt;김 전 차장은 2023년 7월 31일 당시 국가안보실 회의에 참석했으며, 이후 벌어졌던 수사 외압 과정 등에 관여했다는 등 혐의(직권남용)를 받고 있다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 김 전 차장에게 2023년 7월 31일 국가안보실 회의 때 오간 보고·지시 내용, 수사 외압 의혹 경위 등을 조사 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UYUM7RCHUZFVZIAXSK2UVFP5MQ.JPG?auth=30b357e70c223f1ca66762c077a9c77a013dc85b4e43d2cbba98a3b39596d611&amp;smart=true&amp;width=3955&amp;height=2225" type="image/jpeg" height="2225" width="3955">
-        <media:description type="plain">(서울=뉴스1) 오대일 기자 = 직권남용 권리행사 방해 혐의를 받는 김태효 국가안보실 1차장이 11일 오후 서울 서초구 순직해병 특검 사무실에서 피의자 신분으로 조사를 받기 위해 출석하고 있다.
-
-해병대원 순직사건 관련 의혹을 수사하는 이명현 특별검사팀은 김 전 차장을 상대로 이른바 'VIP 격노설'이 불거진 2023년 7월 31일 수석비서관회의 내용 등을 집중 추궁할 예정이다. 2025.7.11/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 오대일 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>해병 특검, ‘멋쟁해병’ 참여자 소환... 구명 로비 의혹 본격 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/IV3SECU5DFCXBNGEWHQZITZ35A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/IV3SECU5DFCXBNGEWHQZITZ35A/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 05:43:22 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 11일 ‘구명 로비’ 의혹과 관련해 현직 경찰인 최모 경위를 소환 조사 중인 것으로 전해졌다. 이 의혹과 관련한 인사가 특검에 소환된 건 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RKAXITNHZNVJGGE25P3YVIFVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 서초구 서초중앙로 채수근 해병 순직 사건을 수사하는 순직해병 특별검사팀 사무실로 가구 등이 배달되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 이날 임성근 전 해병대 1사단장에 대한 구명 로비 의혹이 제기된 단체 채팅방(일명 ‘멋쟁해병’)에 참여했던 최 경위를 불러 조사 중인 것으로 알려졌다. 최 경위는 지난 5일 서울 모처에서 특검팀 관계자 등을 만나 소환 조사 일정 등을 조율한 바 있다.&lt;br&gt;&lt;br&gt;구명 로비 의혹은 ‘도이치모터스 주가 조작 사건’ 공범인 이종호 전 블랙펄인베스트 대표 등이 임성근 전 사단장을 구하기 위해 김건희 여사 측에 청탁을 했다는 의혹이다. 이 전 대표는 과거 도이치모터스 주가 조작 사건에서 김건희 여사 계좌를 관리했던 인물이다.&lt;br&gt;&lt;br&gt;임성근 전 사단장은 2023년 7월 경북 예천군 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고(故) 채수근 상병의 부대장이었다. 해병대 수사단이 애초 임 전 사단장에게 업무상 과실치사 혐의를 적용해 경찰에 이첩하려 했다가, 대통령실과 군 지휘부 등에 보류 지시를 받은 배경에 이종호 전 대표와 김건희 여사의 친분 등이 작용한 게 아니냐는 것이다.&lt;br&gt;&lt;br&gt;‘멋쟁해병’ 채팅방에는 이종호 전 대표, 최 경위 등 해병대 출신 5명이 참여했다. 이날 해병 특검 조사는 참여자 5명 가운데 최 경위에 대해서만 진행 중인 것으로 전해졌다. 이와 관련해 이종호 전 대표는 지난 10일 해병 특검으로부터 압수 수색을 당했는데, 해병 특검은 압수물 분석을 마치는 대로 이 전 대표를 소환 조사할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 “‘김건희 집사’ 출석의사 전달 받은 것 없다... 빠른 시일 내 연락하면 수사할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/11/X7KAG76ZUJH75FVY4NOUQVOHHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/X7KAG76ZUJH75FVY4NOUQVOHHA/</guid>
-      <dc:creator>이민경 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 05:35:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKHFJHY5HZCVLEEGTUKJCQHQFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 김건희 특검팀은 11일 정례 브리핑에서 김 여사 일가의 집사로 지목된 김모씨를 향해 “자진 귀국해 특검 조사를 받겠다는 의사를 밝힌 언론 보도가 있다”며 “특검은 현재 김씨로부터 직·간접적으로 출석 의사를 전달 받은 바가 전혀 없다”고 했다. &lt;br&gt;&lt;br&gt;이어 “관련 언급이 진정한 것이라면 특검에 뜻을 전달하면 될 일”이라며 “빠른 시일 내에 특검에 연락해온다면 특검은 언제든 법과 절차에 따라 수사를 진행할 것”이라고 했다. 김씨는 현재 베트남에 체류 중인 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;특검 측은 “김씨의 베트남 현지 연락처를 알지 못하고, 김씨의 아내는 휴대전화를 해지해 연락이 되지 않는 상황”이라며 “김씨의 장인, 장모에게 연락했으나 자신들도 연락이 되지 않는다고 했다”며 “김씨는 신속히 자진귀국해 수사에 적극 협조하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;특검팀은 이른 시일 내에 김 여사를 불러 조사할 계획은 없다고 밝혔다. 특검은 삼부토건 전현직 경영진 5명을 피의자로 보고 수사하고 있는데, 우선 관련자들 조사를 통해 혐의사실이 성립할지 여부를 따져보겠다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 김 여사 압수 수색 여부에 대해선 말을 아꼈다. 앞서 특검이 ‘명태균 공천개입’ 의혹과 관련해 김영선 전 의원과 윤상현 의원 등을 압수 수색하자, 김 여사에 대한 추가 압수 수색이 이뤄질 수 있다는 예측이 법조계에서 나온 바 있다. 앞서 김 여사 관련 의혹을 수사하던 서울남부지검과 서울중앙지검은 김 여사 휴대전화를 압수 수색해 관련 자료를 확보하고, 특검에 이를 넘긴 상태다. 문 특검보는 “밀행성이 요구되는 상황”이라며 “여러 가지 수사가 진행될 것”이라고만 했다.&lt;br&gt;&lt;br&gt;특검은 수사 포문을 열었던 ‘삼부토건 주가 조작’ 의혹과 관련해, 연결고리로 지목된 이종호 전 블랙펄인베스트 대표와 소환 일정을 조율 중인 것은 아직 없다고 밝혔다. 문 특검보는 “기존 경영진이 모두 출석해 진술한 상황”이라며 “진술 내용을 살펴보고 소환 절차가 진행될 것”이라고 밝혔다. 조사를 받은 경영진들이 김 여사와 이 전 대표를 모른다고 밝힌 데 대해선 “수사팀이 진술의 일관성과 신빙성을 살펴보는 중인 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘조민 입시비리 위증 혐의’ 前 서울대 직원, 2심도 무죄</title>
