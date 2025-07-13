@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 북구 아파트서 화재... 2명 심정지로 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2025/07/13/BBGQ4XRUKNAENGRH3ZVQOWI3ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/13/BBGQ4XRUKNAENGRH3ZVQOWI3ZE/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 05:04:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPFQOK72OHDURQQAXHSPPJDRW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 아파트에서 불이 나 주민 2명이 심정지 상태로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;부산소방재난본부에 따르면 13일 낮 12시 22분쯤 부산 북구 만덕동 한 아파트 2층에서 불이 났다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 대응 1단계를 발령하고 구조 작업을 펼쳐 현재까지 옥상에서 4명, 아파트 내부에서 3명을 구조했다.&lt;br&gt;&lt;br&gt;아파트 내부에서 구조된 3명 중 2명은 심정지 상태로 심폐소생술(CPR)을 받으며 병원으로 옮겨졌고 1명은 팔에 2도 화상을 입었다.&lt;br&gt;&lt;br&gt;소방 당국은 오후 1시 10분쯤 큰 불을 잡고 인명 수색 등 구조 활동을 을 하고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 인명 구조 후 정확한 화재 원인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시·자치구, ‘민생회복 소비 쿠폰’ 사업비 분담률 확정</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/13/G3XBJB52IFC2FOGLUINAQZQAQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/G3XBJB52IFC2FOGLUINAQZQAQQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 05:09:41 +0000</pubDate>
+      <content:encoded>서울시와 25개 자치구가 ‘민생회복 소비 쿠폰’ 사업의 비용 분담 비율을 최종 합의했다. 이에 따라 서울시가 사업비의 60%, 자치구가 40%를 낼 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHHHPLXAKE3I6Y2WHBPJA7DLI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 서울시에 따르면, 시와 구청장협의회는 지난 11일 민생회복 소비 쿠폰 사업비의 분담 비율을 6대4로 결정했다.&lt;br&gt;&lt;br&gt;자치구 구청장들은 앞서 지난 9일 25개 자치구의 분담 비율을 10%까지 낮춰달라고 서울시에 건의했다. 자치구의 재정 부담이 심해진다는 이유였다. 하지만 결국 구청장협의회가 서울시의 입장을 받아들여 사업비의 40%를 부담하는 것으로 결정됐다.&lt;br&gt;&lt;br&gt;이번 최종 합의에 따라 서울시와 자치구는 재원 확보를 위한 추경 등 후속 절차에 들어갈 것으로 전망된다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “1차 지급분은 국비로 우선 지급하고, 9월로 예정된 2차 지급분에 지방비를 투입할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;정부는 앞서 ‘민생회복 소비 쿠폰’ 전체 사업비 13조9000억원 가운데 90%는 국비로, 10%는 지방비로 분담한다고 발표했다. 다만 재정 자립도가 75% 정도로 다른 지자체보다 높은 서울은 전체 사업비의 25%를 부담한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주광역시 성별 임금 격차 공개…여성 평균임금 12.1% 낮아</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/13/A5RGAEJG6NC5ZPZL4JW2VLL3WA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/A5RGAEJG6NC5ZPZL4JW2VLL3WA/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 04:48:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWS2LULJLD7ASMJFUAHCVLT4CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시청. /광주광역시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 공공기관에 근무하는 여성 직원들의 평균임금이 남성 직원 대비 12.1% 낮은 것으로 나타났다.&lt;br&gt;&lt;br&gt;광주시는 13일 “지역 출자·출연 20개 공공기관 대상으로 분석한 ‘2024년도 성별 임금격차 현황’을 광주시 누리집에 공시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주시는 2023년 7월 광주시의회 채은지 의원의 대표 발의로 제정된 ‘성별임금격차 공시 조례’에 따라 임금격차 현황을 공개했다.&lt;br&gt;&lt;br&gt;남녀 직원간 임금 격차가 가장 큰 기관은 광주교통공사로 여성직원의 연간 평균임금이 남성 대비 29.7% 낮았다. 아어 광주테크노파크 22.2%, 광주기후에너지진흥원 21.1%, 광주환경공단 20.3%, 광주디자인진흥원 19.5% 등으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;한국호남학진흥원은 남녀 임금격차가 없고, GGN글로벌광주방송은 여성 평균임금이 2.1% 남성보다 높았다.&lt;br&gt;&lt;br&gt;전체적인 평균 임금 격차는 여성이 남성 대비 12.1% 낮은 것으로 분석됐다. 광주시의 20개 공공기관 전체 정규직 및 무기계약직 근로자 2260명 중 여성은 665명으로 29.4%를 차지한다.&lt;br&gt;&lt;br&gt;광주시는 남녀 임금격차 원인에 대해 “상위직급에 남성 인력이 집중된 인사 구조, 군 복무 경력 인정에 따른 근속연수 차이, 초과근무수당 지급의 차이 등 복합적 구조적 요인이 작용한 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;시는 공공부문이 선도적으로 임금 구조의 성평등을 실현하고 민간부문까지 확산하기 위해 이번 공시를 추진했다. &lt;br&gt;&lt;br&gt;광주시 이영동 여성가족국장은 “이번 성별 공시는 투명성과 신뢰를 바탕으로 한 성평등 문화를 확산시키기 위한 출발점”이라며 “공공기관이 먼저 실천함으로써 민간 부문에도 긍정적 변화를 유도하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OWS2LULJLD7ASMJFUAHCVLT4CY.jpg?auth=04ce948ffe4b3876fc3c2625c851eb7335542fc355a411015fd926c6b4db2772&amp;smart=true&amp;width=1600&amp;height=898" type="image/jpeg" height="898" width="1600">
+        <media:description type="plain">광주광역시청. /광주광역시 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">광주광역시 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이진숙 교육부 장관 후보자, 논문 표절 의혹에 “실질적 저자는 나” </title>
+      <link>https://www.chosun.com/national/education/2025/07/13/4ECZIX2RI5AINOHSMBZIJLMVQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/13/4ECZIX2RI5AINOHSMBZIJLMVQI/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 05:01:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YT5UMC7VEDMIY2IZ5LU7K7AQDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 부총리 겸 교육부 장관 후보자가 자신을 둘러싼 각종 논란에 대한 해명 자료를 국회에 제출했다.&lt;br&gt;&lt;br&gt;13일 교육계에 따르면 이 후보자 인사청문준비단은 지난 7일 국회에 총 26페이지 분량의 ‘인사청문회 관련 참고자료’를 제출했다.&lt;br&gt;&lt;br&gt;이 후보자 측은 논문 쪼개기 의혹에 대해 “두 논문은 실험 설계는 동일하나 각각 개념이 다른 변수에 대해 실험한 결과를 작성한 것으로 서로 다른 논문”이라고 해명했다. 중복 게재 의혹이 불거진 두 논문은 이 후보자가 2018년 충남대 교수 시절 집필한 ‘조명의 면적 및 조도 연출 변화에 따른 불쾌글레어 평가 연구’와 ‘조명의 면적 및 조도 연출 변화에 따른 피로감 평가 연구’다. 이 후보자는 “불쾌글레어와 피로감은 다른 개념”이라고 설명했다. &lt;br&gt;&lt;br&gt;제자의 학위 논문을 요약해 본인을 제1 저자로 학술지에 발표했다는 의혹에 대해선 본인이 실질적으로 연구·논문 작성을 주도해 석사 과정생과 공동으로 작성한 것이라고 설명했다. 자신이 연구책임자인 국가 연구과제의 일부를 제자가 활용해 학위 논문을 낸 것이고, 학술지에 게재한 논문의 실질적 저자는 논문 작성 기여도가 큰 본인이라는 것이다.&lt;br&gt;&lt;br&gt;이 후보자가 2022년 충남대 총장이던 시절, 교내 설치된 평화의 소녀상을 원상 복구하도록 했다는 논란에 대해서는 “국유재산법에 따른 관리자 동의 없이 설치된 것이라 추후 국유재산 관리와 관련한 문제 상황을 미연에 방지하기 위해서였다”고 설명했다. 2022년 8월 충남대 민주동문회가 충남대 캠퍼스에 평화의 소녀상을 건립하자 충남대는 소녀상이 적법한 절차를 거치지 않은 불법 시설물이라며 원상 복구(철거)를 하라는 내용의 공문을 발송했다. 이 후보자는 “소녀상 설치 관련 협의 과정에 소극적이었다는 지적에 대해 죄송스럽게 생각한다”면서도 “역사의식이 부재했다는 지적에는 동의하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이 후보자가 국가건축정책위원회 위원으로 활동하면서 이명박 정부의 4대강 사업에 관여했다는 주장에 대해선 “국가건축정책위원회 이전, 참여정부 때부터 중앙도시계획위원회 위원으로 먼저 활동을 했다”고 했다.&lt;br&gt;&lt;br&gt;이 후보자의 정식 인사청문회 답변서는 아직 국회에 제출되지 않았다. 제출 기한은 인사청문회(16일) 이틀 전인 14일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>킥보드 타고 횡단보도 건너던 6세 남아, 승합차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/07/13/4LJVI43C5FCEBD4Q24NE4JCIKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/13/4LJVI43C5FCEBD4Q24NE4JCIKQ/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 13 Jul 2025 04:22:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 도로에서 70대가 몰던 승합차가 6살 아이를 들이받아 사망하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;13일 부산 사하경찰서와 소방 등에 따르면, 지난 12일 오후 8시 40분쯤 사하구 다대동 한 도로에서 A(79)씨가 몰던 스타렉스 차량이 킥보드를 타고 횡단보도를 건너던 B(6)군을 들이받았다. &lt;br&gt;&lt;br&gt;이 사고로 B군은 심정지 상태로 병원에 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;사고가 난 도로는 왕복 3차로로 횡단보도에 신호등이 없는 곳으로 조사됐다. 사고 당시 A씨가 킥보드를 타고 길을 건너던 B군을 보지 못한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 음주 운전이나 과속은 하지 않았던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 운전자의 전방 주시 태만으로 사고가 발생한 것으로 보고 A씨를 교통사고처리 특례법 위반(치사) 혐의로 입건해 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>라면 값이 징역 1년6개월… 노숙인의 기구한 사연</title>
       <link>https://www.chosun.com/national/national_general/2025/07/13/QGLMGP4XVJBNTFJ6T3C66M4QNQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/QGLMGP4XVJBNTFJ6T3C66M4QNQ/</guid>
@@ -880,24 +929,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ4A65HBABGHNATDKHQ5U6BSIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의사·의대생 온라인 커뮤니티에 올라온 글. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 의정 갈등에 따른 집단행동에서 이탈한 의대생과 전공의에 대해 보복을 예고한 온라인 게시글에 대한 수사에 나섰다.&lt;br&gt;&lt;br&gt;11일 서울경찰청 사이버수사대는 의사·의대생 온라인 커뮤니티 ‘메디스태프’에 게시된 복귀 전공의·의대생 협박 글에 대한 교육부의 수사 의뢰를 접수해 작성자를 특정하기 위한 수사에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;의정 갈등 해소를 위한 이재명 정부와 의사 단체 간 대화가 시작된 가운데 해당 커뮤니티에는 최근 먼저 복귀한 전공의·의대생들에 대한 보복을 예고하는 글이 잇따라 올라와 논란이 됐다. 해당 커뮤니티는 의사나 의대생이라는 사실을 인증해야 접속할 수 있다. &lt;br&gt;&lt;br&gt;해당 커뮤니티에서 의사나 의대생으로 추정되는 네티즌들은 먼저 복귀한 전공의·의대생 등을 ‘감귤’로 지칭하며 의정 갈등이 해소돼 복귀하면 보복하겠다는 내용의 글을 다수 올렸다. 감귤은 ‘감사한 의사’라는 말에서 유래한 것으로, 복귀 전공의 등을 비꼬는 말로 쓰이고 있다.&lt;br&gt;&lt;br&gt;한 네티즌은 “감귤들아 우리가 간다”며 “돌아가면 너희들 성폭행해버린다”고 했고, 또 다른 네티즌은 “감귤들 기대해라 지옥이 뭔지 보여준다”고 했다.&lt;br&gt;&lt;br&gt;이외에도 “복귀하더라도 먼저 기어 들어간 감귤은 기수 열외 시킨다” “감귤들은 자살해도 된다” “감귤들 투명인간 취급 재밌겠다” “감귤 척결은 시대정신이다” “너희들을 사람 취급해 줄 것 같냐” 등의 보복 예고 글이 올라왔다.&lt;br&gt;&lt;br&gt;정부와 의료계의 대화가 속도를 내면서 조만간 의대생과 전공의 복귀가 이뤄질 것이란 기대가 커지고 있다.&lt;br&gt;&lt;br&gt;이와 관련, 의료계 안팎에서는 조기에 복귀한 의대생과 전공의들을 보호할 수 있는 대책이 필요하다는 목소리가 나오고 있다.&lt;br&gt;&lt;br&gt;한편 의사·의대생 커뮤니티에서는 의정 갈등 사태가 벌어진 후 먼저 복귀한 전공의·의대생들에 대한 ‘신상 털기’와 ‘조리돌림’이 이어져 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한밤중 도로에 앉아있던 남성 연달아 친 운전자 2명 무죄</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/11/RQ5JA2W65ZDDBEGLB7QX7FLZ5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/11/RQ5JA2W65ZDDBEGLB7QX7FLZ5A/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 06:50:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIRRLEDSBGYREK5QDH56BRXVXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법 천안지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 도로에 앉아 있던 남성을 잇따라 들이받아 숨지게 한 혐의로 재판에 넘겨진 운전자 2명에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 천안지원 형사5단독 류봉근 부장판사는 교통사고처리특례법 위반(치사) 혐의로 기소된 A(57)씨와 B(52)씨에게 각각 무죄를 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;택시 기사인 A씨는 지난 2023년 11월 23일 오전 1시 23분쯤 충남 아산시 한 편도 4차로 도로에서 3차로에 쭈그리고 앉아 있는 C씨를 차로 들이받았다.&lt;br&gt;&lt;br&gt;차와 부딪혀 4차로로 넘어진 C씨는 뒤이어 B씨가 운전하던 화물차에 치였다. 이 사고로 C씨는 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨와 B씨가 제한속도 시속 60km인 도로에서 각각 100km와 74km로 차를 운전하며 주의의무를 다하지 않아 사고를 일으킨 책임이 있다고 보고 이들을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;하지만 법원은 제한속도를 초과 운전한 과실과 피해자의 사망 사이에 인과관계가 충분히 증명되지 않았다며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;류 부장판사는 A씨에 대해 “사고 장소가 횡단보도가 설치되지 않은 편도 4차로로, 피해자가 도로에 앉아 있을 것이라는 사정을 예상하기 어려웠을 것”이라며 “제한 속도를 준수했더라도 야간에 어두운 옷을 입고 있던 피해자를 발견하고 피하는 데 한계가 있었을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 B씨에 대해서는 “피해자를 사망에 이르게 한 원인이 선행 사고 때문인지 후행 사고 때문인지 객관적으로 확인할 수 있는 증거가 제출되지 않았다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김포 단독주택서 일가족 3명 살해한 30대... “형제 간 불화때문”</title>
-      <link>https://www.chosun.com/national/incident/2025/07/11/U3WSJXCFMVCHVMV3JB7L564IBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/11/U3WSJXCFMVCHVMV3JB7L564IBY/</guid>
-      <dc:creator>김포=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 05:38:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRPIEJ2I7L4NVHUUCV4U24E32I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 김포경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포에서 부모와 형 등 일가족 3명을 살해한 혐의를 받는 30대 남성이 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;김포경찰서는 11일 살인 혐의로 A씨를 붙잡아 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 전날 오전 김포시 하성면의 한 단독주택에서 그의 부모(60~70대)와 30대 형 등 3명에게 잇따라 흉기를 휘둘러 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 10시 54분쯤 “집 안에 핏자국이 있다”는 신고를 받고 현장에 출동해, 오전 11시쯤 A씨를 체포했다.&lt;br&gt;&lt;br&gt;신고자는 A씨 부모의 지인으로, 이들이 동네에 모습을 보이지 않자 직접 집을 찾아갔다가 현장을 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 출동 당시 피해자들은 방 안과 부엌 등에서 숨져 있던 상태였다. 현장에서는 범행에 사용한 것으로 추정되는 흉기도 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “형과 불화를 겪어서 그랬다”고 진술하는 등 범행을 전부 시인한 것으로 파악됐다. 정신질환 이력은 아직 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이같은 진술을 토대로 A씨가 평소 가족들과의 불화로 범행한 것으로 보고, 구체적인 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 피해자 부검을 의뢰해 구체적인 사망 원인을 파악할 예정이다. A씨에 대해선 구속영장을 신청할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 특검 “尹 건강상 문제 확인해달라고 구치소에 공문"</title>
       <link>https://www.chosun.com/national/court_law/2025/07/11/DKXUIV3MORGWNHNXKO6BITHAHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/DKXUIV3MORGWNHNXKO6BITHAHA/</guid>
@@ -952,15 +983,6 @@
       <content:encoded>윤석열 전 대통령 측이 11일 오후 2시 예정된 내란특검 소환 조사를 앞두고 불출석사유서를 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XNMTYQZ4WXT5QD5FBWJCGY3NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 본지 취재를 종합하면, 윤 전 대통령 측은 전날 오후 서울구치소 측에 불출석사유서를 제출했다고 한다. 다만 이날 오전까지 구치소 측에서 특검으로 불출석사유서가 전달되지 않은 것으로 보인다. 특검 측은 이날 오전 11시쯤 “아직 윤 전 대통령 측에서 불출석사유서 내지 (소환 조사 관련) 의사를 전해온 것이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측이 불출석사유서를 제출한 것으로 알려지면서 특검팀 소환 조사 일정에 차질이 생길 것으로 보인다. 특검 측은 전날 윤 전 대통령의 신병을 확보한 만큼 직권남용 등 12·3 비상계엄 관련 혐의에 대한 잔여 수사 및 외환 혐의 수사를 이어갈 계획이었다.&lt;br&gt;&lt;br&gt;특검이 윤 전 대통령을 강제 구인하거나, 구치소를 찾아 방문 조사를 시도할 가능성도 배제할 수 없다. 다만 지난 1월 윤 전 대통령을 체포‧구속했던 고위공직자범죄수사처는 신병을 확보하고도 추가 조사를 하지는 못했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령 측은 구속적부심 청구를 포함한 대응 방안을 논의 중인 것으로 전해졌다. 구속적부심은 구속이 적법한지 여부와 구속을 계속할 필요성이 있는지 여부를 법원이 다시 판단하는 절차다. 구속 사유가 사라졌다고 판단할 경우 법원은 윤 전 대통령을 석방하게 된다. 다만 윤 전 대통령을 구속하기로 결정한 영장 전담 부장판사가 아니라 판사 3명으로 구성된 형사합의부에서 적부심을 심리하게 된다.&lt;br&gt;&lt;br&gt;적부심 청구가 접수되면 법원은 48시간 이내에 윤 전 대통령을 심문해야 한다. 이 기간 동안 윤 전 대통령에 대한 조사는 불가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>주말에도 서쪽 중심 무더위·열대야 지속...‘고온건조 동풍’ 때문</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/11/CPCOVUCHNND6DFHNS5IS62KDZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/11/CPCOVUCHNND6DFHNS5IS62KDZA/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 02:21:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQGNMWN2VKWVOMHLITUDO3FFJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 경북 포항시 남구 시외버스터미널 버스정류장에 설치된 '미세먼지안심스마트 승강장'에서 출근길 시민들이 버스를 기다리고 있다.  2025.7.9/뉴스1 ⓒ News1 최창호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAXWFUSLWUY6CQYZKRRLYFVRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어진 10일 서울 종로구 광화문광장에서 한 시민이 옷으로 얼굴을 가린채 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 12일에도 폭염과 열대야가 이어질 전망이다.&lt;br&gt;&lt;br&gt;11일 기상청에 따르면, 전국 대부분 지역에 폭염특보가 내려진 가운데 서쪽 지역과 내륙을 중심으로 최고 체감 온도가 35도 안팎으로 올라 무덥겠다. 12일 아침 최저 기온은 19~25도, 낮 최고 기온은 26~36도로 예보됐다.&lt;br&gt;&lt;br&gt;무더위가 지속되는 이유는 북태평양 고기압과 티베트 고기압 때문이다. 두 고기압이 마치 이불처럼 우리나라를 덮은 상태로 움직이지 않고 있다.&lt;br&gt;&lt;br&gt;백두대간을 넘으며 더욱 고온건조해진 동풍이 우리나라 서쪽 지역을 뜨겁게 달구고 있다. 지난 주말에는 주로 남서풍이 불면서 동쪽 지역을 중심으로 강한 폭염이 나타난 바 있다. 최근에는 반대로 동풍이 유입되면서 서쪽 지역을 중심으로 강한 폭염이 나타나고 있는 것이다.&lt;br&gt;&lt;br&gt;​한편 12일 늦은 오후부터 저녁 사이 전남 북·서부에는 5~10mm의 소나기가 내리는 곳이 있겠음.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, ‘VIP 격노설 관련’ 尹 전 대통령 자택 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2025/07/11/4E62MO43YVEVNO4TM33FDNPZYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/4E62MO43YVEVNO4TM33FDNPZYY/</guid>
@@ -968,24 +990,6 @@
       <description/>
       <pubDate>Fri, 11 Jul 2025 01:15:38 +0000</pubDate>
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 11일 윤석열 전 대통령 주거지 등에 대한 압수 수색에 나섰다. 이른바 ‘VIP 격노설’을 규명하기 위해 강제 수사에 착수한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCGAATZHU7HKZDTWPWFJ4VP62Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 특검 수사를 받는 윤석열 전 대통령이 지난 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 이날 윤 전 대통령 주거지를 비롯해 조태용 전 대통령실 국가안보실장, 임종득 국민의힘 의원의 자택과 사무실, 국방부 등 10여 곳에 대한 압수 수색을 하고 있다. 윤 전 대통령은 전날 새벽 구속돼 현재 서울구치소에 수용돼 있다.&lt;br&gt;&lt;br&gt;앞서 해병 특검은 전날 이종섭 전 국방장관, 이시원 전 공직기강비서관, 임기훈 전 국방비서관, 신범철 전 국방부 차관, 전하규 국방부 대변인 등 10여 곳에 대한 압수 수색을 실시했다. 연이틀 주요 피의자 등에 대한 강제 수사에 나선 것이다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 고(故) 채수근 상병의 부대장이었던 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이종섭 전 장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다.&lt;br&gt;&lt;br&gt;그 회의 당시 대통령실 국가안보실장이 조태용 전 실장이었다. 그는 이후 국가정보원장에 임명됐다가 지난 6월 퇴임했다. 또한 임종득 의원은 당시 국가안보실 2차장이었다. 다만, 임 의원은 당시 휴가 중이라 국가안보실 회의에는 참석하지 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 이날 오후 김태효 전 국가안보실 1차장을 불러 조사할 예정이다. 김 전 차장은 ‘VIP 격노설’이 불거졌던 2023년 7월 31일 당시 국가안보실 회의에 참석한 인물로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한강 수영장서 20개월 유아 사망...“구조원·CCTV 없어" </title>
-      <link>https://www.chosun.com/national/incident/2025/07/11/JX3LXUAPZBHHRBVXUH4CNR54NM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/11/JX3LXUAPZBHHRBVXUH4CNR54NM/</guid>
-      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 01:35:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PG35F46AWVEYPIMIZIH4JH2QJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 서울 광진구 뚝섬한강공원 수영장에서 시민들이 물놀이를 하며 즐거운 시간을 보내고 있다. 기사와는 관련 없음./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 한강공원 야외 수영장에서 20개월 된 유아가 물에 빠져 사망한 사실이 11일 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면, 지난달 27일 오후 6시 40분쯤 서울 광진구 뚝섬한강공원 야외 수영장에서 외국인 남자아이 A(2)군이 1m 깊이의 물에 빠져 숨졌다. 사고 당시 인근 텐트에 있던 부모는 공놀이를 하던 아이가 사라진 걸 깨닫고 아이를 찾아 나섰으나 A군은 물속에서 심정지 상태로 발견됐다. 수영장 소속 간호사의 신고로 심폐소생술을 하며 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;사고가 난 수영장은 성인용으로, 어린이는 보호자 없이 들어갈 수 없는 곳으로 밝혀졌다. 당시 야간 운영을 앞두고 물 교체를 위해 출입이 통제됐음에도 현장 근처에는 안전 요원이 배치되지 않았고, 수영장을 찍는 폐쇄회로(CC)TV도 없었다는 사실이 알려지자 수영장의 안전 관리가 부실했다는 지적이 나온다. &lt;br&gt;&lt;br&gt;이에 서울 광진경찰서는 서울시와 수영장 운영 업체 관계자들을 상대로 과실 여부를 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 온열질환자 올해 누적 1341명, 지난해 2.7배...폐사가축은 작년보다 열 배 증가</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/11/3YYPOBQFA5GYLMQPBNSCEYXIDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/11/3YYPOBQFA5GYLMQPBNSCEYXIDI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 11 Jul 2025 01:29:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3WCTZO575AQTLZ4QZGL37UDTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 한낮기온이 37도를 기록한 10일 오후 서울 마포구 홍대거리에 설치된 전광판에 이날 기온이 표시되고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 기승을 부리면서 올해 전국 온열질환자가 누적 1300명을 넘은 것으로 11일 나타났다. 더위로 죽은 돼지와 닭·오리 등 폐사한 가축도 52만마리를 넘었다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면, 올해 5월 20일부터 지난 9일까지 발생한 온열 질환자는 1341명이다. 그 중 9명이 숨졌다. 지난해 같은 기간(488명·사망 3명)의 약 2.7배다.&lt;br&gt;&lt;br&gt;가축 피해도 심각하다. 지난 9일까지 돼지 1만9768마리, 닭·오리를 포함한 가금류 50만6238마리 등 총 52만6006마리가 폐사했다. 전년 동기에 5만1333마리가 폐사한 것과 비교하면 10배 이상 늘었다.&lt;br&gt;&lt;br&gt;무더위는 한동안 지속할 것으로 보인다. 행정안전부는 “당분간 서쪽 지역과 내륙 중심으로 최고 체감 온도가 35도 내외 올라 매우 무덥겠고, 서쪽 지역과 제주도를 중심으로 열대야가 나타나는 곳이 많겠다”고 했다.&lt;br&gt;&lt;br&gt;주말에도 폭염은 이어진다. 기상청은 토요일인 12일 서울의 낮 최고기온이 36도까지 올라가는 등 한반도 서쪽 지역과 내륙을 중심으로 최고 체감온도가 35도 안팎으로 올라 무덥겠다고 예보했다. 다만 한반도 동쪽 지역은 동풍의 영향으로 기온이 낮아져 폭염특보가 완화되거나 해제될 수 있다고 기상청은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
