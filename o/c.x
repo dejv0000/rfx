@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 측, 해병 특검에 압수된 ‘아이폰 비밀번호’ 제공 거부</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/14/WXLY3FEHPREI5G33EQGB6YFNPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/WXLY3FEHPREI5G33EQGB6YFNPI/</guid>
+      <dc:creator>이세영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 05:08:10 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 측이 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검으로부터 압수 당한 휴대전화(아이폰)의 비밀번호를 제공해달라는 요청을 받았으나 이에 응하지 않고 있는 것으로 14일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6TFEQJKRMZMBZUK6KE7EB6DYCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9일 서울 서초구 중앙지방법원으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 최근 해병 특검의 휴대전화 비밀번호 제공 요청을 거부한 것으로 알려졌다. 앞서 해병 특검은 지난 11일 서울 서초동 윤 전 대통령 자택 등을 압수 수색하면서 윤 전 대통령이 최근까지 쓰던 휴대전화 1대 등을 확보했다.&lt;br&gt;&lt;br&gt;당시 윤 전 대통령은 하루 전날이던 10일 내란 특검에 구속되면서 서울구치소에 수감돼 있는 상태였다.&lt;br&gt;&lt;br&gt;이에 해병 특검은 윤 전 대통령의 휴대전화에 대한 디지털 포렌식 작업을 대검찰청에 의뢰할 방침이다. 다만, 아이폰은 특성상 보안 수준이 높아 비밀번호 잠금을 해제하지 못하면 사실상 포렌식이 어려운 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이충면 前비서관 해병 특검 출석...‘VIP 격노설’ 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/14/7VI6X6AB3JG5VCJPLZIN33SNHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/7VI6X6AB3JG5VCJPLZIN33SNHY/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 04:44:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATHPRTK5NVM2JEFX5EDWELNMTM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이충면 전 국가안보실 외교비서관이 14일 오후 서울 서초구 해병 특검 사무실에 참고인 신분으로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 고 채수근 상병 관련 보고를 받고 격노했다는 국가안보실 회의에 참석했던 이충면 전 국가안보실 외교비서관이 14일 해병 특검 조사를 받기 위해 출석했다. 특검은 이 전 비서관을 비롯해 안보실 회의 참석자들을 이번 주에 연달아 불러 이른바 ‘VIP 격노설’을 규명할 계획이다.&lt;br&gt;&lt;br&gt;이 전 비서관은 이날 오후 1시 30분쯤 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석했다. 그는 “해병 순직 사건 보고를 받고 윤석열 전 대통령이 격노한 걸 봤느냐” 등 취재진의 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 ‘임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이종섭 전 국방장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다.&lt;br&gt;&lt;br&gt;이 전 비서관은 당시 안보실 회의에 참석한 것으로 알려졌다. 특검은 지난 11일 안보실 회의의 또 다른 참석자인 김태효 전 국가안보실 1차장을 피의자 신분으로 소환해 “윤 전 대통령이 고 채수근 상병 사망 사건을 보고받고 크게 화를 냈다”는 취지의 진술을 확보했다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 전 비서관을 상대로 안보실 회의에서 어떤 보고가 이뤄졌는지, 윤 전 대통령은 이에 어떻게 반응했고 지시했는지 등에 대해 집중 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 이번 주 회의에 함께 참석했던 왕윤종 전 경제안보비서관 등도 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 尹, 내란특검 2차 소환 불응  </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/14/TJ72FNH2QZDBXH6DJNVZ53R6ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/TJ72FNH2QZDBXH6DJNVZ53R6ZE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 04:43:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZYIFT7WKMMIIETFTV6D3T5ZNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 지난 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 14일 구속 후 특검의 2차 소환 요구에 재차 불응했다. 윤 전 대통령 측은 “이날 출석과 관련해 지난번 불출석 사유서를 제출했고, 상황이 변경된 것이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 구속영장이 발부된 다음 날 오후 2시 윤 전 대통령을 소환했지만, 건강 문제를 이유로 출석하지 않았다. 이후 이날 오후 2시로 일정을 재조정해 다시 소환했지만, 윤 전 대통령은 또다시 응하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>”朴정부가 세월호 특조위 방해“ 조사관들 국가배상 항소심서 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/11/SUODDC3Q75EEHH5I3UAOPFIOVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/11/SUODDC3Q75EEHH5I3UAOPFIOVQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 11 Jul 2025 06:12:50 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YYZP7YDGQNIJZJZFAO2GBEN5NQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;4·16세월호참사 특별조사위원회(특조위) 설립과 활동을 방해한 혐의로 기소된 이병기 전 청와대 비서실장이 지난해 서울 서초구 서울중앙지법에서 열린 항소심 선고 공판을 마친 뒤 밖으로 나와 취재진의 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 정부가 4·16세월호참사 특별조사위원회(특조위) 활동을 방해해 정신적 피해를 입었다며 국가를 상대로 손해배상 소송을 낸 당시 조사관들이 항소심에서 패소했다.&lt;br&gt;&lt;br&gt;서울고법 민사15-2부(재판장 신용호)는 11일 세월호 특조위 당시 조사관 30명이 낸 국가배상 청구를 모두 기각한다고 판결했다. 1심은 조사관들에게 정신적 피해에 따른 위자료를 1000만원씩 지급하라고 판결했는데 이를 뒤집은 것이다.&lt;br&gt;&lt;br&gt;이들은 2015년 조윤선 청와대 정무수석과 이병기 비서실장 등이 특조위 활동 기간과 예산을 줄이고 조사·의결 활동을 방해해 정신적 손해를 입었다며 2020년 1인당 2000만원의 위자료를 청구하는 소송을 냈다. 특조위가 이른바 ‘대통령의 7시간 행적’ 조사 안건을 의결하려고 하자 이를 방해했고 공무원들을 시켜 특조위의 법적 지위를 문제삼는 문건을 작성하게 했다고도 주장했다.&lt;br&gt;&lt;br&gt;2022년 1심은 “공무원들의 방해 활동으로 조사관들이 상당한 좌절감과 무력감을 경험한 것으로 보이고, 이런 정신적 피해가 활동 기간 보수를 받는 것만으로 회복됐다고 보이지 않는다”며 일부 승소 판결했다. 그러나 항소심 재판부는 “1심 판결 중 피고 패소 부분을 취소한다”며 국가가 조사관들의 정신적 피해를 배상할 책임이 없다고 판단했다.&lt;br&gt;&lt;br&gt;한편 이 전 실장 등은 2015년 특조위 활동을 방해한 혐의(직권남용)로 기소됐으나 지난달 대법원에서 무죄가 확정됐다. 법원은 세월호 참사 진상 규명 조사 권한은 추상적이어서 법에서 보호하는 구체적 권리라고 보기 어렵고, 이들이 조사 방해를 공모했다는 증거도 부족하다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 금정산 정상 표지석에 본드 덕지덕지… 연쇄 테러 행위, 누가?</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/14/BWNW6SGDGZCLHGLB4GEV6UY264/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/14/BWNW6SGDGZCLHGLB4GEV6UY264/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 04:35:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VMOFVR4VOZI5RDCBVCT2PTJV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훼손된 금정산 표지석./범시민 금정산보존회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립공원 지정이 추진되는 부산 금정산 고당봉 정상 표지석이 본드로 훼손돼 구청이 제거 작업에 나섰다.&lt;br&gt;&lt;br&gt;14일 부산 금정구에 따르면 지난 11일 오전 금정구 정상 해발 801.5m 고당봉에 세워진 표지석이 훼손됐다는 신고가 접수됐다. 표지석에는 금정산 고당봉이라는 글자가 새겨져 있는데, ‘고당’이라는 글자 위에 ‘금정’이라고 적힌 노란 종이가 붙어 있었다.&lt;br&gt;&lt;br&gt;같은 날 오후 2시쯤 구청 직원들이 현장에 도착했을 때 글자가 적힌 종이는 이미 제거된 상태였다. 하지만 접착제로 인해 표지석 글자 일부의 색이 벗겨졌다. 구청은 전문 업체를 통해 표지석에 남은 접착제 잔여물 등을 처리할 방침이다. &lt;br&gt;&lt;br&gt;현장에 CCTV가 없어 범인을 특정하지 못한 구청 측은 이번 사건에 대해 경찰 수사 의뢰 등을 검토하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;금정산 고당봉 표지석은 이전에도 여러 번 수난을 겪었다. 2016년 8월 폭우를 동반한 낙뢰에 기존 표지석이 훼손되면서 시민들이 성금을 모아 다시 세웠다.&lt;br&gt;&lt;br&gt;그러나 2018년 누군가 표지석 뒤편에 거울 3장을 붙여 금정산의 기상을 표현하는 축문을 가리는 일이 발생했다. 당시 누군가 금정산의 기운을 뽑아가기 위해 이 같은 무속 행위를 벌였다는 추측이 나왔다. &lt;br&gt;&lt;br&gt;다음 해에는 표지석에 ‘금정봉(金井峯)’이라는 한자와 함께 ‘이 돌이 깨어 부수어지는 그날까지 떨지 마시라’ ‘앞뒤 사진을 찍어 알려주십시오’ 등이 적힌 현수막이 걸리기도 했다. &lt;br&gt;&lt;br&gt;잇따른 표지석 훼손이 무속인들의 소행이라는 추측이 나오고 있다. 과거 금정산 일대에는 무속인들이 의식을 치르는 곳이 곳곳에 있었는데, 금정산이 국립공원으로 지정될 시 무속 행위 공간이 사라질 것을 우려한 일부 무속인이 이런 일을 벌였다는 것이다. &lt;br&gt;&lt;br&gt;금정산은 수달과 붉은배새매 등 멸종 위기종 13종을 포함한 생물 1782종의 보금자리이자, 기암과 습지 등 자연경관 자원 60개, 문화자원 105점이 있는 부산의 대표 산이다. 부산시는 금정산 7만3000여㎢ 지역을 국립공원으로 지정하기 위한 절차를 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 말다툼 후 흉기로 아내 살해한 60대 긴급 체포 </title>
+      <link>https://www.chosun.com/national/2025/07/14/EBSDS6ZIDJABHJJ2JFDCBMFSYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/14/EBSDS6ZIDJABHJJ2JFDCBMFSYE/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 04:37:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGWTSAZQUBEBLDT6ZO5ZPJKGTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼 끝에 아내를 살해한 60대 남성이 긴급 체포됐다.&lt;br&gt;&lt;br&gt;부산 금정경찰서는 살인 혐의로 60대 A씨를 붙잡아 조사하고 있다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 5시 30분쯤 부산 금정구 서동 자택에서 아내 60대 B씨를 흉기로 찔러 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 범행 직후 오전 8시 5분쯤 금정구 한 지구대를 찾아 자신이 아내를 살해했다고 자수했다. &lt;br&gt;&lt;br&gt;경찰이 A씨 자택을 찾았을 때 B씨는 이미 숨져 있었다. 경찰은 A씨를 살인 혐의로 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “아내와 다투다 범행했다”는 취지로 진술했다. 범행 당시 술은 마시지 않았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “숨진 B씨에 대해 부검을 진행해 정확한 사인을 확인할 예정”이라며 “A씨에 대해서는 구속영장을 신청하고 정확한 범행 동기를 파악할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검 소환 앞둔 김건희 여사, 변호인 2명 추가 선임... 尹 변호인단 소속</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/14/BG52UJFULJBH7AIZ4U2WQUVVD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/BG52UJFULJBH7AIZ4U2WQUVVD4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 14 Jul 2025 04:40:56 +0000</pubDate>
+      <content:encoded>특검의 소환 조사를 앞두고 있는 김건희 여사가 변호인 2명을 추가로 선임하며 조사에 대비하고 있는 것으로 14일 확인됐다. 총 3명이 된 김 여사 변호인단은 모두 윤석열 전 대통령을 대리하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZE7MNIR5LA4N3VWKSVQ4HVQXSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령을 대리하는 채명성 변호사와 유정화 변호사는 이날 중 김건희 특검 측에 정식 선임계를 내고 김 여사를 대리할 예정이다. 채 변호사는 박근혜 전 대통령의 탄핵 심판 대리인단과 형사재판 변호인단에 참여했던 이력이 있다. 지난해 ‘12‧3 비상계엄’ 직후 대통령실 법률비서관으로 임명됐었고, 이후 사퇴한 뒤 강의구 전 대통령실 부속실장 등을 변호해왔다. 그러던 중 지난달 3대(내란‧김건희‧해병대원) 특검이 동시에 출범하면서 윤 전 대통령의 변호도 추가로 맡게 됐다고 한다. 채 변호사는 내란 특검이 윤 전 대통령을 두 차례에 걸쳐 소환했을 때를 비롯해, 윤 전 대통령의 영장실질심사에도 참여했다.&lt;br&gt;&lt;br&gt;유 변호사는 윤 전 대통령의 탄핵소추안이 가결된 직후 대리인단에 합류했다. 이후 대리인단의 공보 담당을 맡으면서 여러 메시지를 내 왔다. 특검 수사가 본격화하면서 윤 전 대통령의 대응 전략을 수립할 때도 참여했다.&lt;br&gt;&lt;br&gt;지난해 ‘디올 백 수수’ 의혹 당시 김 여사를 대리했던 최지우 변호사도 김 여사 변호를 계속 맡을 예정이다. 최 변호사는 디올 백 수수 의혹 외에도 도이치모터스 주가조작 재수사, 건진법사 청탁 의혹 등 김 여사가 받고 있는 핵심 의혹과 관련해 장기간 김 여사의 입장을 듣고 대응 전략을 세워온 것으로 알려졌다. 최근엔 윤 전 대통령 대리인단에도 합류해 영장실질심사에 참석한 바 있다.&lt;br&gt;&lt;br&gt;한편 김건희 특검팀은 이날 양평고속도로 종점 변경 의혹과 관련해 국토교통부 등 10여 곳을 압수 수색했다. 또 ‘명태균 공천 개입’ 의혹과 관련해 공천관리위원장을 맡았던 윤상현 의원, 김영선 전 의원 등을 압수 수색하기도 했다. 법조계에선 김 여사 소환이 임박했다는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>출소後 송환 거부한 외국인 성폭력범… 법무부, 강제 퇴거</title>
       <link>https://www.chosun.com/national/court_law/2025/07/14/T5TQOBTF65DG7HGWG56A5V3Y34/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/T5TQOBTF65DG7HGWG56A5V3Y34/</guid>
@@ -594,72 +657,6 @@
       <description/>
       <pubDate>Sun, 13 Jul 2025 11:47:16 +0000</pubDate>
       <content:encoded>행정안전부는 13일 오후 6시를 기해 중앙재난안전대책본부 1단계를 가동했다고 밝혔다. 이날 남부 지방을 중심으로 호우 특보가 발표된 데 따른 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73ZR7MGBRFM7VELYSWDVLYUPPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광용 행정안전부 재난안전관리본부장이 13일 정부세종청사 중앙재난안전상황실에서 집중호우 대비 관계기관 긴급 대책회의를 주재하고 있다. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날부터 내리기 시작한 비는 길게는 15일까지 이어질 예정이다. 이번 비로 경상도는 최대 150㎜ 이상, 전라도는 최대 100㎜ 등 강수량을 기록할 것으로 전망된다.&lt;br&gt;&lt;br&gt;김민재 중앙재난안전대책본부장은 호우 피해를 줄일 수 있도록 관계 기관에 철저한 대응을 주문했다.&lt;br&gt;&lt;br&gt;김 본부장은 기상 상황을 실시간으로 모니터링하며 상황을 관리하고, 호우로 계곡에 고립되거나 물놀이 사고가 발생하지 않도록 안전 조치에 만전을 기할 것을 당부했다.&lt;br&gt;&lt;br&gt;산불 피해 지역은 산사태 등 2차 피해가 발생하지 않도록 예찰을 강화하고, 위험이 우려되면 즉시 인근 주민들을 대피시키도록 주문했다.&lt;br&gt;&lt;br&gt;재난 문자, 재난 방송 등을 활용해 기상 정보와 국민 행동 요령을 반복적으로 홍보할 것도 요청했다.&lt;br&gt;&lt;br&gt;김 본부장은 “국민 여러분도 기상 상황을 틈틈이 확인하시고, 관계 기관에서 통제나 대피 안내를 하면 적극적으로 협조해 주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>만취 온두라스 외교관, 부산 도시철도서 남성 추행 혐의로 조사</title>
-      <link>https://www.chosun.com/national/incident/2025/07/13/GDTYTFUE6BBLZMTVXEWJGKNM3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/13/GDTYTFUE6BBLZMTVXEWJGKNM3M/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 11:16:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6EPDVP6ELQJGWR7WGWLLIPNQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 도시철도 2호선 객차 안에서 만취한 온두라스 외교관이 한국인 남성을 강제추행하고 폭행한 혐의로 경찰 조사를 받고 있다. &lt;br&gt;&lt;br&gt;부산 해운대경찰서는 강제추행 및 폭행 혐의로 온두라스 외교관 A씨를 불구속 입건해 조사 중이라고 13일 밝혔다. 경찰에 따르면 A씨는 지난달 19일 오전 6시 30분쯤 부산 도시철도 2호선 민락~센텀시티 구간을 운행하던 열차 안에서 한국인 남성 B씨에게 신체 접촉을 시도한 뒤 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 A씨는 만취 상태였으며, 신체 접촉 문제로 B씨와 시비가 붙어 함께 열차에서 내린 후 폭력을 행사했다고 한다. 서울에서 근무하는 A씨는 출장 차 부산을 방문했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 주한 온두라스 대사관에 A씨에 대한 면책특권 행사 여부 등을 묻는 공문을 발송했고 아직 회신받지 못한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘이종섭 도피’ 의혹 관련 외교부 직원 조사… 육군본부도 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/13/RKK5ZZ27OZBWBJ3NGOJJOAW45Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/13/RKK5ZZ27OZBWBJ3NGOJJOAW45Y/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 11:28:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OR2NLWAW627SI24UXP4H7M7JD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병 특검팀의 정민영 특검보가 지난 7일 오전 서울 서초구 특검 사무실에서 기자단 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 이종섭 전 국방부 장관의 ‘호주 대사 도피’ 의혹 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 특검은 이날 이 전 장관의 주(駐) 호주 대사 임명 및 출국 과정에 관여한 것으로 알려진 외교부 당국자를 참고인 신분으로 불러 조사했다. 윤석열 전 대통령 등이 고위공직자범죄수사처(공수처) 수사를 받고 있던 이 전 장관을 호주 대사로 임명해 출국시켜 수사를 방해하려 했다는 의혹이 맞는지 규명하기 위한 차원이다.&lt;br&gt;&lt;br&gt;이 전 장관은 2023년 9월 공수처에 고발돼 있었고, 이듬해 3월 호주 대사로 임명됐을 때 출국 금지 상태였다. 그런데도 윤 전 대통령이 공수처 수사를 피하게 하기 위해 이 전 장관 대사 임명을 지시한 것 아니냐는 게 특검의 시각이다. 대통령실 관계자들도 외교부·법무부 직원들을 동원해 대사 임명과 출국 금지 해제 등에 관여한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;이 전 장관은 대사 임명 사흘 만에 공수처 조사를 받은 뒤 출금이 해제돼 호주로 출국했다. 그러나 이후 ‘도피성 출국’ 논란이 불거지자 11일 만에 자진 귀국한 뒤 대사직에서 물러났다.&lt;br&gt;&lt;br&gt;호주 대사 도피 논란 당시 대통령실은 “이 전 장관의 출국 금지 사실을 몰랐고, 공수처 수사가 늦은 게 잘못”이라고 주장했다. 윤 전 대통령도 헌법재판소 탄핵 심판에서 “호주 호위함 수주를 위해 이 전 장관을 대사로 보내고 아그레망까지 받았는데 무슨 ‘런(Run)종섭’이니 하며 사직까지 하자 화가 많이 났다”고 언급했다.&lt;br&gt;&lt;br&gt;특검은 향후 외교부·법무부 당국자를 대상으로 호주 대사 임명 및 출금 해제 과정에 대통령실의 불법 지시나 외압이 없었는지 규명할 방침이다.&lt;br&gt;&lt;br&gt;한편, 특검은 이날 충남 계룡시 육군본부에 대한 압수 수색도 진행했다. 지난 2023년 8월 2일 해병대 수사단이 순직 해병 사망 사고 조사 결과를 경찰에 이첩하자 이를 회수하는 과정에 관여한 당시 국방부 법무관리관 관계자를 겨냥한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 우도 해변에 떡하니 꽂힌 中오성홍기...  무슨일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/13/KMXH2UI2PNEFFJ2IQGBNPP6N5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/KMXH2UI2PNEFFJ2IQGBNPP6N5I/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 09:55:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMLWHIM4D5GWZL72L5JNSVSETU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. &lt;br&gt;&lt;br&gt;10일 소셜미디어 스레드의 한 이용자는 지난 8일 우도 해안도로변에 설치된 중국 오성홍기를 찍은 영상을 올렸다. 영상에는 우도 해안도로를 따라 태극기와 오성홍기가 나란히 설치된 모습이 담겼다. 깃발 주변에는 피아노 1대와 다수의 연꽃 모형도 설치돼 있었는데 관광객이 인증 사진을 찍기 위한 장소처럼 보이기도 했다. 오성홍기 깃발은 땅에 단단히 고정돼 있었던 것으로 알려졌다. 영상 제보자는 “독도는 우리 땅이라고 외치면서 정작 우도는 중국에 내어주는 것 같다”고 우려를 표했다. 그는 “전동차를 타고 우도를 순회하던 중 우연히 발견했다”며 “중국인 관광객들이 이 앞에서 사진을 찍기 위해 서 있었다”고 전했다. &lt;br&gt;&lt;br&gt;이 영상이 소셜미디어에 퍼지자 네티즌들의 강한 비판이 이어졌다. “제주가 중국인의 섬이 됐다” “중국인 밀집지에는 한자로 ‘여긴 중국 영토’라고 새기더니, 이젠 국기를 꽂는다”는 등의 비판적 댓글이 잇따랐다. 일부 네티즌은 “일장기가 꽂혀 있었다면 더 큰 논란이 됐을 것”이라며 우리 영토에서 외국 국기를 무단으로 설치하는 행위를 비판했다. “제주도에서 왜 중국 국기를 봐야 하나” “왜 우리 땅에서 이런 일을 당해야 하는 건지” “바로 철거해야 한다. 아무런 제재도 안 하니 저런 짓을 벌이는 게 아닌가” 등 분노를 표출하는 이들이 대다수였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBASFBVHGFE65C6P3F22JFO6HY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 영상을 본 일부 네티즌들은 제주도청에 민원을 제기하기도 했다. 우도면 관계자는 한 매체에 “개인이 설치한 것으로 추정된다”며 “직원이 현장을 확인했을 때는 이미 중국 국기가 모두 철거된 상태였다”고 밝혔다. 또 “소셜미디어에 영상이 올라오기 전까지 관할 부서에서는 몰랐다”고 밝혔다. 이 관계자는 “해수욕장 안전 요원들의 말에 따르면 사람들이 몰려와 깃발을 수거해 갔다고 한다”고 전했다. &lt;br&gt;&lt;br&gt;이번 사건은 제주도의 외국인 관광객이 급증하는 상황에서 발생했다. 지난 1월 제주도관광협회에 따르면 지난해 제주를 찾은 외국인 관광객은 190만7608명으로 코로나 이전인 2019년 이후 5년 만에 100만명을 넘어섰다. 특히 중국인 관광객이 130만4359명으로 전체 외국인 관광객의 68.4%를 차지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AMLWHIM4D5GWZL72L5JNSVSETU.jpg?auth=73d3774f643288092ba029287b8fa40c28328deb10963b253a9cab5bfb42919b&amp;smart=true&amp;width=648&amp;height=492" type="image/jpeg" height="492" width="648">
-        <media:description type="plain">제주도 우도의 한 해변에서 중국 국기인 오성홍기가 태극기와 나란히 설치됐다가 철거되는 일이 발생했다. /스레드</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title> “형 훈계에 화나서…” 김포 일가족 살해 30대 구속</title>
-      <link>https://www.chosun.com/national/incident/2025/07/13/6GF7H5BWDBHONAST3XZ4DQ7VMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/13/6GF7H5BWDBHONAST3XZ4DQ7VMM/</guid>
-      <dc:creator>김포=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 09:28:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OQFTA2L75PSXMDWH4QBQBX4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 경기 김포시 한 단독주택에서 60∼70대 부모와 30대 형 등 일가족 3명을 흉기로 살해한 혐의를 받는 30대 A씨가 13일 부천시 원미구 인천지방법원 부천지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모와 형을 흉기로 살해한 혐의를 받는 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 김포경찰서는 13일 존속살해 및 살인 혐의로 A(30대)씨를 구속했다고 밝혔다. 오승희 인천지법 부천지원 당직 판사는 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 10일 오전 김포시 하성면 단독주택에서 60~70대 부모와 30대 친형을 흉기로 찔러 살해한 혐의를 받고 있다. 범행 다음 날인 11일 오전 10시 54분쯤 “집 앞에 핏자국이 있다”는 피해자 지인의 신고가 접수되면서 사건이 드러났다.&lt;br&gt;&lt;br&gt;신고자는 A씨 어머니의 직장 동료로, 어머니가 출근하지 않자 집을 찾아갔다가 이상한 낌새를 느껴 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰이 현장에 도착했을 당시 피해자 3명은 이미 사망한 상태였다. 아버지와 형은 방 안에서, 어머니는 부엌 쪽에서 발견됐다. 모두 사후 강직이 진행된 상태였다. 현장에서는 혈흔과 범행에 사용된 것으로 보이는 흉기도 발견됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 시신을 부검한 뒤 “흉기에 의한 상처로 인한 사망으로 추정된다”는 1차 구두 소견을 경찰에 전달했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “형이 잔소리를 해서 화가 났고, 우발적으로 범행했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>딱 한 잔도 안 됩니다... 여름 휴가철 맞아 전국 6주 음주 단속 실시</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/13/32GFC6MYUJEHTLKEDGIQ5R74CU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/13/32GFC6MYUJEHTLKEDGIQ5R74CU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 07:10:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPP72VXOWUY6LMRGXQUMOADQ3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰의 음주 운전 단속 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 여름휴가철을 맞아 전국에서 음주 운전 특별 단속을 실시한다.&lt;br&gt;&lt;br&gt;경찰청은 14일부터 다음 달 24일까지 6주간 음주 운전 특별 단속을 실시한다고 13일 밝혔다. 경찰 관계자는 “음주 운전으로 인한 사고와 사상자는 감소하는 추세지만, 여름휴가철이 되면서 시민들의 경각심이 느슨해질 수 있다고 보고 단속을 강화하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;실제로 최근 3년간 음주 운전 사고 건수와 사상자는 매년 감소하고 있다. 음주 운전 사고는 2022년 1만5059건에서 지난해 1만1037건으로 줄었고, 이로 인한 사망자는 214명에서 138명으로, 부상자는 2만4261명에서 1만7110명으로 줄었다. 음주 사고와 사망자가 각각 26.7%, 35.5% 줄어든 셈이다.&lt;br&gt;&lt;br&gt;이런 흐름을 올해도 이어가기 위해 경찰은 특별 단속 기간 매주 금요일 밤마다 전국에서 동시에 음주 단속을 실시한다. 각 시도 경찰청은 이와 별개로 주 2회 이상 일제 단속을 실시하고, 이 외에도 밤낮을 가리지 않고 상시로 음주 운전 단속을 한다. 또 불시에 장소를 옮기면서 하는 ‘이동식 단속’으로 단속 효과를 높인다는 계획이다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “음주 운전으로 사고가 발생하면 특가법상 위험운전치사상죄로 가중 처벌되고, 상습 음주 운전자에 대해선 차량을 압수하는 등 강력한 처벌이 내려진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>관련자 적극 해명에도 풀리지 않는 ‘집사 게이트’ 의문 세 가지</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/13/UHB5C5OMCJCLRI6ADNL6SBI3LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/13/UHB5C5OMCJCLRI6ADNL6SBI3LM/</guid>
-      <dc:creator>김나영 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 07:14:50 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 김 여사 일가의 집사로 불리는 김모(48)씨를 ‘키맨’으로 보고 있다. 김씨가 임원을 지낸 IMS모빌리티(옛 비마이카)가 2023년 6월 대기업에서 받은 투자금 184억원 중 46억원이 김씨에게 갔고, 이 돈이 김 여사에게 흘러들어갔는지를 의심하고 있다.&lt;br&gt;&lt;br&gt;특검은 법원이 관련자에 대한 압수 수색 영장을 기각해 일단은 강제 수사가 아닌 임의 제출 등의 방식으로 수사를 이어갈 방침을 세웠다. IMS 측은 관련 의혹에 적극적으로 해명하며 투자 유치와 김씨의 관련성을 부인하고 있다. IMS와 투자자 측의 설명에도 명확히 해소되지 않은 의혹 세 가지를 정리했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DON4APOOQEP4W7223EUX5KMCJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 배우자 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;◇&lt;b&gt;IMS 투자 유치에 김씨 영향 없었나 &lt;/b&gt;&lt;br&gt;&lt;br&gt;2013년 렌터카 대여 업체로 시작한 IMS에 김씨가 합류한 건 2017년 중반이다. IMS는 김씨가 운영하던 회사(사이드스텝 ‘뿅카’)를 인수했고, 김씨는 최고전략책임자(CSO) 직책을 맡았다. 2018년 6월부터 2021년 3월까지 IMS 등기이사도 지냈다. 또한 일종의 인수비로 회사 지분을 받아 조모 대표에 이어 IMS 2대 주주로 올랐다. 김씨와 조 대표는 신한그룹 계열사 출신이라고 한다.&lt;br&gt;&lt;br&gt;IMS는 윤 전 대통령이 검찰총장 후보자로 지명된 2019년 6월 이후 김 여사와 가까운 김씨가 임원직을 유지하는 게 경영상 부담이 될 것으로 판단했다고 한다. 실제 2020년부터 김씨 관련 의혹에 대한 언론보도가 나오기 시작했다. 마침 IMS가 주요 사업을 렌터카에서 소프트웨어로 바꾸고 적극적으로 투자금을 유치하던 때였다. 이에 김씨는 2021년 4월 IMS를 퇴사했고, 2022년 8월에 설립된 이노베스트코리아(이노베스트)라는 법인에 본인이 보유 중인 IMS 지분을 모두 매각했다. &lt;br&gt;&lt;br&gt;IMS 측은 “김씨는 퇴사 이후 경영에 일절 관여하지 않았다”며 “문제로 지목되는 184억원 투자는 김씨가 퇴사한 이후인 2023년 6월에 이뤄진 만큼 김씨와 관련이 없다”는 입장이다.&lt;br&gt;&lt;br&gt;그러나 김씨는 이후에도 회사 관계자들과 밀접한 관계를 유지했던 것으로 알려졌다. 또 IMS는 2015년 마크 로스코전, 2019년 야수파전 등 코바나컨텐츠가 주최한 전시에 후원 업체로 이름을 올리는 등 김씨를 연결고리로 김 여사와 교류하기도 했다. 이에 대해 IMS 측은 “김 여사가 홍보성으로 후원업체에 이름을 올려줬을 뿐이고, 실제로 후원을 했던 것은 아니다”라면서 “이에 대한 보답으로 사후에 각각 200만원(2015년)과 100만원(2019년) 상당의 티켓과 기념품(굿즈) 등을 구매한 것이 전부”라고 해명했다.&lt;br&gt;&lt;br&gt;◇&lt;b&gt;46억 챙긴 수상한 법인, 이노베스트코리아&lt;/b&gt;&lt;br&gt;&lt;br&gt;IMS가 오아시스에쿼티파트너스(오아시스)를 통해 받은 투자금 184억원 중 46억원은 이노베스트가 갖고 있던 IMS 지분(구조) 매입에 쓰였다. 당시 이노베스트 등기이사와 대주주는 모두 김씨가 아니었지만, 대주주였던 윤모씨는 한 수산업체 대표로서 김씨와 친한 선후배 관계이고, 등기 이사였던 또 다른 김모(47)씨 역시 김씨의 지인으로 알려졌다. 또한 김씨의 배우자 정모(47)씨가 이노베스트 설립 당시 감사였다가, 2024년 5월부터 현재까지 유일한 사내이사(대표이사)로 돼 있다. 김씨가 이노베스트의 실소유주로서 IMS의 대규모 투자 유치로 투자 자금 회수(엑시트)를 했다고 볼 수 있는 정황이다. &lt;br&gt;&lt;br&gt;이노베스트는 지난 4월 본점 소재지를 제주에서 서울 강남구 청담동으로 변경했다. 윤 전 대통령이 헌법재판소 탄핵심판으로 파면된 지 한 달이 지난 시점이자, 일부 언론의 IMS와 이노베스트에 대한 취재가 진행됐을 때이다. 김씨가 베트남으로 출국하고, 김씨 부부가 휴대전화를 바꾼 것도 지난 4월이다. 특검은 김씨가 증거인멸을 한 게 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKAUJHO5EVDRPK5RPFTQQ67FNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통장잔고증명서 위조 등의 혐의를 받은 김건희 여사의 모친 최은순씨가 2024년 5월 서울 송파구 서울동부구치소에서 가석방으로 풀려나고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇김씨-김 여사 사이 틀어졌나&lt;/b&gt;&lt;br&gt;&lt;br&gt;이노베스트가 엑시트에 성공한 2023년 6월 전후 김씨와 김 여사가 어떤 관계였는지도 규명 대상이다. 김씨는 2010년 김 여사를 대학원에서 처음 만난 후 김 여사 일가와 관련한 업무를 도맡았다. 그러나 김씨 지인과 윤 전 대통령 측에 따르면 김씨는 잔고증명서 위조 사건 등으로 김 여사 측과 사이가 멀어졌다고 한다.&lt;br&gt;&lt;br&gt;김 여사 모친 최은순씨는 경기도 성남시 도촌동 땅을 사들이는 과정에서 347억원 규모의 신안저축은행 잔고증명서를 위조한 혐의로 2020년 11월 기소됐고, 이듬해 12월 1심에서 유죄(징역 1년) 선고를 받았다. 2023년 7월 2심에서 법정 구속됐고, 그해 11월 대법원에서 형이 확정됐다. 김씨도 최씨의 위조 작업을 도운 혐의로 함께 재판에 넘겨져 징역 6개월에 집행유예 2년을 선고받았다. 판결문에 따르면 김씨는 혐의를 인정했고, 이는 최씨의 유죄 선고에 영향을 미쳤다. &lt;br&gt;&lt;br&gt;김씨 지인과 윤 전 대통령 측은 “(최씨가 1심에서 유죄를 선고받은 후) 김 여사가 ‘김씨 때문에 엄마가 감옥에 가게 됐다’고 했다”며 “이후 두 사람 사이가 멀어졌다”고 했다.&lt;br&gt;&lt;br&gt;실제로 김씨와 김 여사 관계가 최씨에 대한 2021년 12월 1심 선고 후 악화했다면, IMS가 2023년 6월 받은 투자금 중 일부가 김씨를 거쳐 김 여사 측에게 갔을 가능성은 크지 않다. &lt;br&gt;&lt;br&gt;다만 김씨가 김 여사 일가를 상대로 폭로전을 할 수도 있다는 게 법조계 전망이다. 특검도 김씨가 이번 수사의 ‘키맨’이 될 수 있다고 보는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현재 베트남에 체류하고 있는 것으로 알려진 김씨는 지인을 통해 특검이 소환할 경우 입국해 조사에 성실히 임하겠다고 밝힌 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘길 잃은 새끼 향고래’ 부산 기장 대변항서 발견... “무리서 이탈한 듯”</title>
-      <link>https://www.chosun.com/national/regional/2025/07/13/6QMWZAUIU5HEHKSZZM6LQYEHTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/13/6QMWZAUIU5HEHKSZZM6LQYEHTE/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 13 Jul 2025 03:16:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ISHHO6TWTJC4VCJ2ISWTT35JPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 부산 대변항에서 발견된 몸 길이 7m 짜리 향고래 1마리가 헤엄을 치고 있다. /울산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 기장군 대변항에서 길 잃은 새끼 향고래 한 마리가 발견돼 해경 등이 구조에 나섰다.&lt;br&gt;&lt;br&gt;13일 울산해양경찰서에 따르면 이날 오전 5시 5분쯤 “기장군 연화리 앞바다에서 고래가 바위에 걸린 것 같다”는 낚시객의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 울산해경 기장파출소는 고래가 외해로 빠져나간 것으로 파악해 상황을 종료했으나, 오전 7시쯤 계속 대변항 내에 머물고 있다는 사실이 확인됐다. &lt;br&gt;&lt;br&gt;해경 관계자는 “대변항에 고래가 있다는 관광객의 추가 신고가 들어왔다”며 “재확인한 결과 항내에 갇힌 7m 길이 향고래 한 마리를 발견했다”고 말했다.&lt;br&gt;&lt;br&gt;해경은 구조정을 배치하고 어선들에 주의 문자를 발송하는 등 고래와 충돌을 피할 수 있도록 안내했다.&lt;br&gt;&lt;br&gt;국립수산과학원 고래연구소 관계자들도 이날 오전 7시 40분쯤 현장에 도착해 고래가 먼바다로 빠져나갈 수 있도록 퇴로를 막는 방법으로 유도하고 있다. &lt;br&gt;&lt;br&gt;하지만 이날 오전 11시 30분 현재까지 고래는 대변항 내해에 머무르고 있다. &lt;br&gt;&lt;br&gt;미국 작가 허먼 멜빌의 소설 ‘모비딕’의 주인공으로도 유명한 향고래는 이빨고래류 중 가장 큰 종으로 최대 18m까지 자란다. 세계자연보전연맹(IUCN)은 1996년 향고래를 멸종위기 취약종으로, 우리 정부는 2007년 보호대상 해양생물로 각각 지정했다.&lt;br&gt;&lt;br&gt;이날 발견된 향고래는 몸 길이 7m짜리 새끼 고래로 추정된다.&lt;br&gt;&lt;br&gt;향고래의 주서식지는 아프리카 적도 근처 바다로, 여름에는 수온이 비교적 낮은 고위도로 이동하는데 동해는 이들이 회유하는 경로에 있다. &lt;br&gt;&lt;br&gt;이경리 고래연구소 박사는 “새끼 고래가 적도쪽으로 올라가는 길에 방향을 잘못 틀어 얕은 바다인 대변항 내항쪽으로 온 것으로 추정된다”고 말했다. 그는 “무리나 엄마 고래로부터 떨어져 혼자 대변항 쪽으로 왔는데 방향 감각이 부족해 외해로 못 빠져 나가고 있는 것으로 보인다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2ZKTEWHPFDH5LM3VV4MSNIMNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아프리카 모리셔스 앞바다의 향고래 어미와 새끼. /위키미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경과 고래연구소는 고래가 먼 바다로 완전히 빠져나갈 때까지 도울 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MC5ZQI6E5NFRRBLSNPSUQ6LXOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2020년 1월 28일 카리브해에서 촬영된 향고래들. 수심 20m에서 머리를 위로 하고 선 자세로 잠을 자고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>의대생들 유급 확정 직전...조건부 전원 복귀 결정</title>
