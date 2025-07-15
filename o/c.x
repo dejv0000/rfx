@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 특검, 건진법사에게 ‘공천·인사 청탁’ 사업가 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/15/XFJTAXSC6FA27BEZBII52MKCEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/XFJTAXSC6FA27BEZBII52MKCEQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 13:13:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W57J7YKLTNAYZF5XL6CBO432XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 2025년 7월15일 서울 역삼동 건진법사 전성배 씨의 법당에 대한 압수수색에 나선 가운데 수색을 마친 특검팀이 문 밖을 나서고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨의 공천개입 및 인사 청탁 의혹을 수사 중인 특검이 전씨를 상대로 여권 인사들의 공천 및 공직자 인사 청탁을 시도한 의혹을 받는 사업가를 압수 수색한 것으로 15일 전해졌다. 이날 전씨 등 관련자를 압수 수색할 때 이 사업가도 대상에 포함된 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 2022년 6·1 지방선거 당시 박현국 현 봉화군수의 공천 청탁을 시도한 것으로 알려진 사업가 김모씨에 대해 이날 압수 수색을 한 것으로 알려졌다. 김씨는 박 군수에 앞서 박창욱 경북도의원의 공천도 부탁한 적이 있는 것으로 전해졌다. 박 군수와 박 의원 모두 이날 압수 수색을 당했다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 서울남부지검은 이 같은 정황을 포착해 김씨도 수사선상에 올려놓았던 것으로 전해졌다. 관련해 전씨는 “김씨의 연락을 받은 사실은 있으나 실제로 공천을 위해 힘을 쓴 적은 없다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 특검은 검찰로부터 넘겨 받은 수사 기록에 담긴 청탁 정황이 상당히 구체적인 점에 주목하고 있는 것으로 전해졌다. 이날 압수한 전씨 등의 휴대전화를 분석해 지방선거 당시 상황을 재구성할 계획이다. 특검은 지난 대선 당시 윤석열 캠프 산하 네트워크본부에 있었던 오을섭 전 본부장, 오사카 총영사를 지낸 김형준 부본부장도 압수 수색해 휴대전화 등을 확보했다.&lt;br&gt;&lt;br&gt;한편 김씨는 공천 이외에도 금융권 인사 관련 청탁을 받았다는 의혹이 제기된 상태다. 특검은 이 의혹들에 대해서도 사실관계를 확인해야 한다는 방침을 세운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한밤중 주택 침입해 80대 노인 살해한 50대 긴급체포</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/15/JJW7WRQX5RE6HGLOT7H5CEPMYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/15/JJW7WRQX5RE6HGLOT7H5CEPMYE/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 12:23:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOWEF5OLFCIWSTWR3QYSNCRV2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 아산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 사는 80대 노인을 살해한 50대 남성이 하루 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 아산경찰서는 살인 혐의로 A(50대)씨를 붙잡아 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 0시 50분쯤 아산시 한 단독주택에 침입해 이곳에 거주하는 B(80대)씨를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“어머니와 연락이 되지 않는다”는 B씨 자녀의 부탁을 받은 이웃이 B씨의 집을 찾았다가 숨져있는 B씨를 발견해 14일 오후 3시 45분쯤 경찰에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상을 분석하는 등 추적에 나서 이튿날인 15일 오전 9시 30분쯤 대전에서 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 일면식이 없는 사이로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 금품을 노리고 집에 침입했다가 범행을 저질렀을 것으로 보고 있다”면서 “구체적인 범행 경위를 조사한 후 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안보실 차장 이어 외교비서관도 ‘VIP 격노설’ 시인</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/15/EHFTTXNYXNAVXF3VQ555COPKIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/EHFTTXNYXNAVXF3VQ555COPKIQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 12:20:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47P3FYDAJEYPWHHUIW2UFFPPMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이충면 전 외교비서관이 14일 오후 서울 서초구 해병 특검 사무실에서 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태효 전 국가안보실 1차장에 이어 이충면 전 외교비서관도 이른바 ‘VIP 격노설’이 사실이라는 취지로 해병 특검 조사에서 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;15일 법조계에 따르면, ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 전날 이 전 비서관을 불러 조사하면서 “담당 분야가 아니라 잘 기억은 안 나지만 윤 전 대통령의 격노가 있었던 거 같다”는 진술을 확보했다. 특검은 지난 11일 김 전 차장에 대한 소환 조사에서도 “윤 전 대통령이 안건에 없던 고(故) 채수근 상병 관련 보고를 회의 종료 전에 듣고 화를 냈다”는 진술을 확인했다.&lt;br&gt;&lt;br&gt;VIP 격노설은 윤 전 대통령이 2023년 7월 31일 주재한 안보실 회의에서 채 상병 순직 사고 관련 ‘임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 내며 수사에 외압을 행사했다는 의혹이다. 해당 회의에는 윤 전 대통령을 비롯해 김 전 차장, 이 전 비서관, 김용현 전 국방장관(당시 대통령 경호처장), 조태용 전 국가정보원장(당시 안보실장) 등 총 7명이 참석한 것으로 전해졌다. 이 가운데 참석자 두 명이 VIP 격노설이 사실이라고 진술한 것이다.&lt;br&gt;&lt;br&gt;특검은 이날 회의에 참석한 왕윤종 전 경제안보비서관도 소환해 VIP 격노설이 맞는지 등을 조사했다. 특검은 윤 전 대통령 격노 이후 대통령실이 외압을 행사해 국방부가 해병대 수사단이 경북경찰청에 넘긴 조사 기록을 회수하고, 임 전 사단장을 과실치사 혐의자에서 제외해 다시 경찰에 이첩했는지 등을 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>엥, 엥 소리 안 들린다... 너무 더워 모기도 ‘씨’ 말랐다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/15/C2NXOPXJPZBT5L3HTOKM3RKLMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/15/C2NXOPXJPZBT5L3HTOKM3RKLMY/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 12:13:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYFJ3VNWIC7JXM62MQH36YOWHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방역반 관계자들이 각종 감염병 매개체인 모기 등 해충 박멸하기 위해 방역을 실시하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘여름철 불청객’ 모기의 개체 수가 급감하고 있다. 장마 때에 많은 비가 내리지 않은 채로 무더위가 찾아와 모기가 알을 낳을 물웅덩이가 말라버린 탓이라는 분석이다.&lt;br&gt;&lt;br&gt;질병관리청에 따르면, 올해 27주 차(6월 29일~7월 5일) 모기 지수는 319를 기록했다. 평년(2022~2024년 평균) 이 기간 모기 지수 869에 비해 크게 떨어졌다. 모기 지수는 질병청이 전국 12개 시·도 14곳(강원도에 3곳) 축사에 설치한 채집기에 잡힌 모기 개체 수를 평균 낸 것으로, 하룻밤에 한 대의 채집기에 평균 몇 마리의 모기가 잡혔는지를 알려준다.&lt;br&gt;&lt;br&gt;전체 모기 개체 수 감소와 더불어 뇌염 매개 모기의 개체 수도 줄었다. 평년 30이었던 일본뇌염 매개 모기의 모기 지수는 올해 3으로 급감했다.&lt;br&gt;&lt;br&gt;방역 전문가들은 모기 수가 이처럼 급감한 이유로 날씨를 꼽는다. 모기들은 고인 물이나 물웅덩이에 산란을 하는데 폭염에 물이 말라 알을 낳을 곳이 사라졌다는 것이다.&lt;br&gt;&lt;br&gt;지나치게 뜨거운 날씨가 모기의 수명을 깎아버렸다는 분석도 나온다. 모기가 가장 잘 활동할 수 있는 온도는 26~30도인데 최근 일부 지역에서 40도에 육박하는 무더위가 이어지면서 모기조차 살 수 없는 환경이 형성됐다는 것이다.&lt;br&gt;&lt;br&gt;다만 최근 들어 9~10월까지 따뜻한 날씨가 이어지는 현상이 발생하면서 ‘가을 모기’가 기승을 부릴 가능성도 점쳐지고 있다. 보통 이 시기에 태풍이 오는데 이때 만들어진 물웅덩이와 따뜻한 날씨가 만나면 모기 개체 수를 늘릴 수 있다는 것이다. 실제 지난해 모기 지수는 1년 내내 평년보다 낮은 모습을 보였는데, 따뜻한 날씨가 이어진 9~10월에는 오히려 평년보다 모기가 늘어났다. 김동건 삼육대 환경생태연구소장은 “9~10월에 따뜻한 날씨가 이어진다면 이때 모기는 지금보다 더욱 늘어날 수 있다”며 “만약 이보다 기온이 약간 낮아진다 하더라도 모기는 따뜻한 곳으로 가려는 습성이 있기 때문에 사람들이 생활하는 실내에선 지금보다 더 많은 모기를 접할 수 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>글로벌 대학생에 최고의 도시 1위는 ‘서울’</title>
+      <link>https://www.chosun.com/national/education/2025/07/15/7T3KNQLKOVE55ASGPYQSBQY7RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/15/7T3KNQLKOVE55ASGPYQSBQY7RE/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 12:09:54 +0000</pubDate>
+      <content:encoded>서울이 영국 글로벌 대학 평가 기관 QS가 발표한 ‘대학생을 위한 최고의 도시 순위’에서 1위에 올랐다. 대학생들이 공부하며 생활하기에 가장 좋은 도시를 가리는 조사로, 2014년 순위 집계를 시작한 이후 서울이 1위에 오른 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;15일 QS(Quacquarelli Symonds)가 발표한 대학생 최고 도시 순위는 ’2025 세계대학평가’에 포함된 상위 1500개 대학이 소재한 140개 도시의 취업 여건과 생활비, 학생 인구 등을 토대로 매긴 것이다. &lt;br&gt;&lt;br&gt;서울에 이어 도쿄(일본)가 2위를 기록했고, 지난해까지 6년 연속 1위 자리를 지켜온 런던(영국)은 최근 고물가 영향으로 3위로 내려갔다. &lt;br&gt;&lt;br&gt;서울은 우선 우수한 대학을 많이 보유했는지 보는 지표에서 높은 성적을 거뒀다. 올해 ‘세계대학평가’에 포함된 대학이 총 23곳으로, 전 세계 도시 중 가장 많았다. 서울대(38위), 연세대(50위), 고려대(61위), 성균관대(126위), 한양대(159위) 등 서울 소재 5개 대학이 상위 200위에 이름을 올렸다. &lt;br&gt;&lt;br&gt;서울은 또 대학생들이 졸업 후 취업할 수 있는 기업·기관 규모를 나타내는 ‘취업 환경’ 부문에서 3위, 치안·날씨·교통 인프라 등을 반영한 ‘도시 선호도’에서 7위에 오르는 등 전반적으로 높은 점수를 받았다. 물가, 대학 등록금 수준을 평가하는 ‘경제성’에선 지난해(91위)보다 순위가 크게 오른 68위를 기록했다. 유럽과 영미권의 다른 도시와 비교해 상대적으로 물가 수준이 낮다는 점이 높게 평가된 것이다. 대학생들의 출신 국가, 도시 다양성을 나타내는 ‘학생 다양성’은 51위를 기록했다. &lt;br&gt;&lt;br&gt;국내 도시 중에선 부산이 117위를 기록했고, 대구는 131위로 처음 순위권에 올랐다. 벤 소터 QS 수석 부사장은 “최근 글로벌 대학생들을 대상으로 한 QS 설문조사에서 ‘도시 안전’과 더불어 양질의 대학 교육, 안락한 생활 환경이 오랜 시간 머물며 공부할 도시를 선택하는 데 중요한 요소라고 답했다”며 “서울은 이에 가장 부합하는 도시로 평가됐다”고 말했다. 이어 “서울은 우수 대학이 많을 뿐 아니라 K팝, 영화 등 혁신적 문화 생태계와 세계 최고 디지털 인프라가 잘 갖춰져 있어 전 세계 학생들이 최고의 경험을 누릴 수 있다는 점이 높은 점수를 받았다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지능형교통체계 사업 관련 뇌물 받은 안산시 공무원 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/RJQFPR42PVG43APWOGU7HEQJ6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/RJQFPR42PVG43APWOGU7HEQJ6E/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 11:57:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX72LSBIYYK4UJ54FBZVL7BAD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지능형교통체계(ITS) 사업과 관련해 민간 업체 관계자로부터 뇌물을 받아 챙긴 혐의를 받는 경기 안산시 소속 공무원이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 남성우 부장판사는 15일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 안산시 상록구청 소속 6급 공무원인 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;또 뇌물공여 혐의로 민간 사업체 관계자 B씨에 대해서도 구속영장을 발부했다. 남 부장판사는 “증거 인멸 및 도망할 염려가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 과거 안산도시정보센터에서 근무할 당시 ITS 사업과 관련해 B씨 업체 측에 편의를 제공하는 대가로 뇌물을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 B씨 업체가 안산시 ITS 사업자로 선정되고, 시내에 교통정보 상황판을 설치하는 과정 전반에 특혜를 준 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 지난 4월 관련 첩보를 입수한 뒤 지난달 23일 안산시 상록구청, 안산도시정보센터 등을 압수 수색하는 등 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정진상 대장동 재판, 李대통령 빼고 계속한다</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/15/IMOS36US2RDCXGGCOFRNWWDNLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/IMOS36US2RDCXGGCOFRNWWDNLU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 11:49:07 +0000</pubDate>
+      <content:encoded>이재명 대통령과 함께 ‘대장동 개발 비리 사건’으로 기소된 정진상 전 더불어민주당 대표실 정무조정실장이 15일 자신의 재판도 중단돼야 한다고 주장했지만, 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;당초 정 전 실장은 서울중앙지법 형사33부(재판장 이진관)에서 이 대통령과 함께 재판을 받아왔다. 그런데 이 대통령이 당선되자, 재판부는 지난달 10일 헌법 84조(대통령의 재직 중 형사소추 금지)를 근거로 이 대통령의 기일을 ‘추후 지정’으로 변경하고 재판을 무기한 중단했다. 대신 정 전 실장 사건은 분리해 따로 심리하기로 했다.&lt;br&gt;&lt;br&gt;이날은 이 대통령 당선 이후 처음 열린 대장동 사건 재판으로, 정 전 실장만 출석했다. 정 전 실장 측은 “공소사실 대부분은 이 대통령이 과거 성남시장, 경기지사로서 가졌던 권한과 직결되고 정 전 실장은 이를 보좌한 역할”이라며 이 대통령과 분리해 단독으로 재판을 진행할 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;반면 검찰은 “이 대통령이 사건의 정점인 것은 맞지만, 이 재판은 정 전 실장도 대장동 민간 업자들의 윗선으로서 보고·승인·지시 관계에 있었는지 파악하는 것”이라며 “이 대통령의 심리가 중단됐다고 정 전 실장의 공모 및 가담 여부를 판단하는 데 문제가 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “양측 입장이 다르지만, 정 전 실장 재판은 진행하기로 재판부가 합의했다”고 밝혔다. &lt;br&gt;&lt;br&gt;한편 재판부는 ‘자정 전 귀가’ 보석 조건을 어긴 정 전 실장에 대해 과태료 간이 부과 결정을 내렸다. 이에 정 전 실장은 “생계 때문에 늦은 시간대 만나야 하는 일들이 있었다”며 보석 조건 재검토를 요청했고, 재판부는 “재판이 3년 가까이 이어지는 상황에서 해당 조건을 유지하는 게 적절한지 검토해 보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“책임 소재 밝혀져야”...14명 숨진 지하차도 비극 ‘오송참사 2주기 추모제’</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/15/ILEAJAMYARG37EK67THFTNUCCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/15/ILEAJAMYARG37EK67THFTNUCCE/</guid>
+      <dc:creator>청주=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 11:47:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQSR37YVJJEELCCKMVDVT5KWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 충북도청 정문 앞에서 오송지하차도 참사 2주기 추모제가 유가족 등 200여명이 참석한 가운데 열렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 숨진 ‘오송 궁평2지하차도 참사’ 2주기를 맞아 희생자들의 넋을 기리는 추모제가 충북도청에서 열렸다. &lt;br&gt;&lt;br&gt;이날 추모제는 충북도청 앞 정문에서 참사 유가족협의회와 생존자협의회, 시민대책위원회와 시민 등 200여명이 참석한 가운데 엄숙한 분위기속에 진행됐다. &lt;br&gt;&lt;br&gt;추모제에서 이경구 유가족협의회 공동대표는 “이별의 충격이 아직 가시지 않은 채 해가 2번이나 바뀌어 또다시 그날을 맞이했다”며 “이날이 되면 그날의 떠올라 괴롭고 그리움이 더욱 커진다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “오송참사는 제 역할을 하지 않은 여러 기관들로 인해 벌어진 참사”라며 “구조적 문제와 책임 소재가 명확히 밝혀질 때까지 기다리고 또 기다릴 것”이라고 강조했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRCQ5PKEUNDQNLCYC2GVYT75QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오송지하차도 참사 2주기 추모제에 이재명 대통령이 화환을 보내 희생자들의 넋을 기렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 이재명 대통령은 직접 참석하지는 못했지만, 추모 화환을 보내 희생자들의 넋을 기렸다. 또 민주당 당대표 선거에 나선 박찬대·정청래 후보가 청주를 찾아 유족들과 슬픔을 함께 나눴다. &lt;br&gt;&lt;br&gt;이날 추모제에 참석한 민주당 이연희 국회의원(청주 흥덕)은 “국정조사 요구안이 발의된 지 324일이 지난 지금도 진상규명이 이뤄지지 않은채 제자리에 머물고 있다”며 “여야 지도부를 설득해 오송 참사 국정조사를 반드시 관철하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZSD3ED5L5PWLH6MNASADPKI7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 미호강 제방 유실로 침수된 충북 청주시 흥덕구 오송읍 궁평2지하차도에서 군 장병들이 침수 차량을 밖으로 옮기고 있는 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2023년 7월15일 오전 8시40분쯤 청주시 흥덕구 오송읍 미호강 제방이 무너지면서 궁평2지하차도가 침수돼 버스 등 차량 17대가 물에 잠겼다. 14명이 숨지고 16명이 다쳤다.&lt;br&gt;&lt;br&gt;참사의 직접적 원인으로 부실한 제방 축조가 지목됐고, 홍수경보와 미호강 범람 등 여러 경고를 간과한 관계기관의 상황대처 미흡 등이 피해를 키웠다고 지적됐다. 관련 책임을 물어 미호천교 확장공사 현장소장과 감리단장은 지난 4월 각각 징역 6년과 징역 4년의 형을 확정받았다. 이범석 청주시장, 이상래 전 행정중심복합도시건설청장 등 최고 책임자를 비롯한 나머지 관련자 39명은 1심 재판을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영종도 공터 차량서 일가족 추정 3명 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/7T2BBZRAAZHIFE5RLH7NJHSJCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/7T2BBZRAAZHIFE5RLH7NJHSJCM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 10:37:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZNMPPSDFIL5YBNYI5KDKHMFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도에서 일가족으로 추정되는 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;15일 인천 중부경찰서에 따르면 이날 오후 4시 50분쯤 “가족이 연락이 닿지 않는다”는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 실종된 가족의 휴대전화 위치 정보를 추적해 신고 10분 만인 오후 5시쯤 영종도 한 해수욕장 인근 공터에 세워진 차량에서 숨진 남성과 여성, 아이 등 3명을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 부모와 자녀 관계인 것으로 추정하고 신원 확인 및 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현장 감식을 진행 중이며 숨진 이들의 신원과 유서 유무는 아직 확인되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 핫라인 ☎1577-0199, 희망의 전화 ☎129, 생명의 전화 ☎1588-9191, 청소년 전화 ☎1388 등에서 24시간 전문가의 상담을 받을 수 있습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>불법 도박사이트에 대포통장 80개 넘기고 6억원 받은 일당 검거 </title>
       <link>https://www.chosun.com/national/regional/2025/07/15/NNH7DDIPYRG7XJZVOPKOSGBMKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/15/NNH7DDIPYRG7XJZVOPKOSGBMKI/</guid>
@@ -812,54 +893,6 @@
       <content:encoded>앞으로 사업장 내 체감 온도가 33도를 넘어가면 근로자들에게 2시간마다 의무적으로 20분 이상 휴식을 제공해야 한다. 극한 폭염 속 근로자 안전을 위한 조치로, 이를 위반하고도 시정하지 않는 사업자는 5년 이하의 징역 또는 5000만원 이하의 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;14일 고용부에 따르면, 이런 내용을 담은 산업안전보건기준 규칙이 법제처 심사를 거쳐 늦어도 이번 주 안으로 시행·공포될 예정이다. 이는 지난 11일 정부의 규제를 심사하는 규제개혁위원회에서 이를 통과시킨 데 따른 것이다.&lt;br&gt;&lt;br&gt;앞서 규개위는 지난 4·5월 두 차례에 걸쳐 해당 규칙을 ‘과도한 규제’라며 반대했었는데, 올여름 극한 폭염으로 건설 현장 등에서 온열 질환 사망 사고가 이어지자, 도입의 필요성을 인정한 것이란 분석이 나온다. 실제로 이달 들어 아파트 공사장에서 일하던 20대 외국인 근로자, 대형 마트에서 일하던 60대 근로자 등이 폭염 속에서 잇따라 사망하기도 했다. 고용부의 규제영향분석서에 따르면, 미국도 폭염 시 2시간에 15분 휴식 입법을 추진 중이고, 영국은 폭염 시 휴식 시간을 주거나 근로 시간을 조정하도록 하고 있다.&lt;br&gt;&lt;br&gt;다만 규모에 상관없이 모든 사업장에 획일적으로 처벌 조항을 적용하는 것은 소규모 사업장에 부담이 될 수 있다는 우려도 나온다. 한국소상공인연합회 관계자는 “심각한 폭염 속 근로자의 휴식권을 보장해야 한다는 취지에는 공감을 하지만 대규모 사업장과 달리 교체 인력이 없는 소규모 사업장에까지 일률적으로 적용하기 어려운 측면이 있다”며 “과도한 처벌 조항 역시 소상공인 입장에서는 부담으로 작용할 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘이태원 참사’ 부실 대응 혐의 이임재 항소심, 특조위 결론 때까지 중지</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/PQDXXIRUJNA7NG2ILOS4JT5UMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/PQDXXIRUJNA7NG2ILOS4JT5UMA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 09:03:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXCUCI4CZNI7LJJ6I6UOXXH7NU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이태원 참사 부실대응 등의 혐의를 받는 이임재 전 용산경찰서장이 2024년 9월 30일 서울 마포구 서울 서부지방법원에서 열린 선고공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 이태원 핼러윈 참사 당시 안전 관리를 부실하게 한 혐의로 기소된 이임재 전 서울용산경찰서장의 항소심 재판이 중단됐다. 재판부는 ‘10·29 이태원참사 특별조사위원회(특조위)’ 조사 결과가 나올 때까지 심리를 미루기로 했다.&lt;br&gt;&lt;br&gt;서울고법 형사13부(재판장 백강진)는 14일 업무상 과실치사 등 혐의로 기소된 이 전 서장과 송병주 전 용산서 112상황실장, 박모 전 112상황팀장 등의 항소심 재판을 열고 “종합적인 해결을 하기 위해 특조위가 출범했으니 그 결과가 나온 뒤 재판을 진행하는 것이 적절하다고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특조위는 10·29 이태원 핼러윈 참사 진상을 밝히고 책임을 규명하기 위해 지난해 출범한 독립조사기구다. 활동 기간은 내년 6월까지이고 종료 후 3개월까지 연장할 수 있다.&lt;br&gt;&lt;br&gt;앞서 특조위는 지난 1일 서울고법에 ‘내년 6월로 예정된 조사 결과 심의·의결 때까지 항소심을 미뤄달라’는 공문을 보냈다. 지난 9일 재판에서 유족들이 특조위 조사가 마무리되고 결과 보고서가 나올 때까지 재판을 무기한 중지해달라고 요청하기도 했다.&lt;br&gt;&lt;br&gt;이 전 서장은 핼러윈 참사 당일 이태원 일대에 대규모 인파로 인한 안전사고 발생을 예견할 수 있었는데도 사고 방지 대책을 세우지 않고, 경비 기동대 배치와 도로 통제 등 조치를 제때 취하지 않아 인명피해를 키운 혐의로 2023년 1월 기소됐다. &lt;br&gt;&lt;br&gt;또 부실 대응을 은폐하기 위해 자신의 현장 도착 시간을 허위로 기재하도록 직원들에게 지시한 혐의(허위공문서작성·행사)와 국회 청문회에서 참사를 더 늦게 인지한 것처럼 말하고 서울경찰청 경비기동대 지원 요청을 지시했다고 허위 증언한 혐의(국회에서의증언·감정등에관한법률위반죄)도 받는다.&lt;br&gt;&lt;br&gt;지난해 9월 1심 재판부는 이 전 서장에게 금고 3년을 선고하며 “용산구의 치안을 총괄하는 서장으로서 종합적인 대책을 마련해야 할 책임이 있는데도 안일한 인식으로 대비에 소홀했고 결국 참혹한 결과를 초래했다”고 했다. 송병주 전 용산서 112상황실장에게는 금고 2년이, 박모 전 112상황팀장에게는 금고 1년이 선고됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김건희 특검, 양평고속도로 용역업체 경영진 15일 소환 통보</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/RNW7JUJLYJCQZLTU37ROWW4GS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/RNW7JUJLYJCQZLTU37ROWW4GS4/</guid>
-      <dc:creator>이민경 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 08:33:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RQ7JXPJCBRIXTD6VLLUTU3VSFI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀이 14일 오전 서울 성동구에 위치한 양평고속도로 사업 당시 용역을 맡았던 동해종합기술공사 본사를 압수수색 했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀이 14일 서울-양평고속도로의 종점 변경 의혹과 관련해 압수 수색한 용역업체 동해종합기술공사 경영진 등에게 피의자 조사를 받으라고 통보했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김건희 특검팀은 동해종합기술공사 부사장 이모씨 등 관련자 6명에게 오는 15일 오전 10시까지 특검 사무실이 있는 서울 KT광화문 웨스트로 조사를 받으러 나오라고 했다. 특검은 이씨에게 업무상 배임 혐의를 적용한 것으로 알려졌다. 이씨는 지난 5월 경찰의 압수 수색에서는 참고인 신분이지만 특검에서 피의자로 신분이 바뀌었다고 한다.&lt;br&gt;&lt;br&gt;동해종합기술공사는 서울-양평 고속도로 종점을 양평군 양서면에서 강상면으로 바꿔야 한다고 2022년 5월 국토교통부에 보고한 민간 설계 업체이다. 동해종합기술공사는 2023년 11월 현장 설명회를 열고 “정치적 고려 없이 기술적 측면에서만 대안 노선을 판단했다”고 말했다. 이씨는 당시 “예비타당성(예타) 조사를 거친 노선(양서면 종점)이 주거 지역과 환경에 미치는 영향과 분기점(JCT) 가능성, 교통량 등에 대해 분석한 결과 최종적인 대안으로 제시한 것이 지금의 노선(강상면 종점)”이라고 했다.&lt;br&gt;&lt;br&gt;반면 특검은 동해종합기술공사가 국토부와 공모해 양평 고속도로 종점을 부당하게 변경했다고 보고, 이날 양평 고속도로 관련 자료를 압수해 간 것으로 전해졌다. 동해종합기술공사 측은 혐의를 부인하는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1300마리 전부 버려야 했다… ‘영덕 참치 참사’ 부른 쿼터</title>
-      <link>https://www.chosun.com/national/2025/07/11/VIIBTW2EE5ESPBC3RBWD3TRQXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/11/VIIBTW2EE5ESPBC3RBWD3TRQXU/</guid>
-      <dc:creator>영덕=권광순 기자, 김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:55:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMJWQWI6HFEERCTQTY5KXJBIAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 경북 영덕군 강구항에 길이 1~1.5m, 무게 130~150kg에 달하는 참다랑어 수백 마리가 놓여 있다. 경북도와 영덕군은 이날 잡힌 참다랑어 1300여 마리를 전량 폐기하기로 했다. 참다랑어는 국가별로 할당된 어획량(쿼터)만큼만 잡을 수 있는데, 쿼터가 이미 다 차서 남는 생선은 버려야 하는 것이다./강구수협 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“대형 참치(참다랑어)가 산더미처럼 쌓였어요. ‘로또’ 맞은 줄 알았죠. 근데 팔지도 못하고 전부 사료로 처분했어요. 거참 웃고 울고 한순간이네요.”&lt;br&gt;&lt;br&gt;10일 오후 경북 영덕군 강구항. 지난 8일 참다랑어 1300마리를 잡아 올린 곳이다. 항구는 생선 썩는 냄새가 코를 찔렀다. 어민들은 하루아침에 참다랑어 1300마리를 잡는 횡재를 했다. 130t이었다. 지구 온난화와 폭염 여파로 아열대 바다에 사는 참치가 동해까지 올라온 것이다. 여태껏 이렇게 많은 참다랑어가 잡힌 건 처음이다. 큰 참다랑어는 길이가 1.5m, 무게는 150㎏이었다. 앞서 지난 6일 영덕 앞바다에서 참다랑어 62마리를 잡은 선주 최모(62)씨는 3439만원을 벌었다고 한다. 한 마리당 55만원꼴이다. 지난 2월에는 314㎏짜리 참다랑어 1마리가 1050만원에 거래된 일도 있다. 그러나 어민들 얼굴은 이내 새카맣게 변했다. 참다랑어는 잡을 수 있는 양이 정해져 있어 잡은 참다랑어를 전부 버려야 했기 때문이다.&lt;br&gt;&lt;br&gt;참다랑어는 국가별로 할당된 어획량(쿼터)만큼만 잡을 수 있다. 각국은 그 어획량을 지역에 따라 배분한다. 경북도의 올해 참다랑어 어획량은 110t으로, 이미 110t을 모두 채운 상태였다. &lt;br&gt;&lt;br&gt;어민들은 “1등 당첨된 로또를 잃어버린 것 같았다”고 했다. 경북도 해양수산과 전상록(36) 주무관은 지난 8일 아침 7시부터 전화 수십 통이 걸려 왔다고 했다. 참다랑어 1300마리를 잡았다는 소식이었다. 전씨는 “지금껏 그렇게 많이 잡힌 적이 없어 나도 놀랐다”고 했다. 그런데 어획량 규정(쿼터제)이 문제였다. 전씨는 규정에 따라 영덕군에 ‘어민들의 참다랑어 포획을 금지하라’는 공문을 보냈다. &lt;br&gt;&lt;br&gt;어민들의 하소연이 쏟아졌다. “이미 1300마리를 잡았는데 어떻게 하느냐”는 얘기였다. 전 주무관은 해양수산부에 “쿼터를 늘려 달라”고 SOS를 쳤다. 해수부 공무원들은 논의 끝에 경북도의 쿼터를 150t 추가했다. 그러나 이미 시간은 오후 6시. 강구항에 쌓여 있던 참다랑어는 폭염에 물러 터지고 있었다. 어민들은 “하루 만에 횡재와 참사를 동시에 겪었다”고 했다. 어민들이 나서 참다랑어 1300마리를 치우는 데 꼬박 이틀이 걸렸다. 이 참치들은 폐기물 업체를 거쳐 가축 사료로 팔렸다고 한다. &lt;br&gt;&lt;br&gt;어민들은 “지구온난화로 매년 참다랑어 어획량이 증가하고 있는데 쿼터제는 그 속도를 따라가지 못하고 있다”고 했다. &lt;br&gt;&lt;br&gt;선주 박모(61)씨는 “참다랑어가 그물에 들어와 죽더라도 할당받은 쿼터를 초과해선 잡아서 팔 수 없다”며 “쿼터제를 탄력적으로 운영하지 않으면 폐기물 업체 좋은 일만 하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;기후 온난화로 경북 동해안의 참다랑어 어획량은 해마다 늘어나고 있다. 경북도에 따르면, 2020년 5t에 불과하던 참다랑어 어획량은 지난해 168t으로 증가했다. 4년 새 34배가 됐다. 국립수산과학원 동해수산연구소 관계자는 “동해 연안의 표층 수온이 최근 20년 사이 1.1도 상승했다”며 “온도 변화 폭이 작은 바다는 1도만 상승해도 해양 생태계가 크게 바뀐다”고 했다. &lt;br&gt;&lt;br&gt;올해 우리나라의 참다랑어 쿼터는 총 1219t이다. 국제기구인 중서부태평양수산위원회(WCPFC)가 매년 국가별로 쿼터를 정한다. 과거 과도한 어획으로 개체 수가 급감한 참다랑어를 보호하기 위해 국제 협약을 통해 쿼터제를 도입했다. 참다랑어 쿼터는 일본이 1만2828t으로 가장 많다. 우리나라는 지난해 쿼터가 748t이었으나, 작년 12월 WCPFC 연례회의에서 쿼터를 63% 늘리는 데 성공했다.&lt;br&gt;&lt;br&gt;우리나라에 배정된 쿼터는 해수부가 지역별로 배분한다. 부산이 615t으로 가장 많고, 이번에 참다랑어가 쏟아져 화제가 된 경북 영덕·포항은 총 53t을 배정받았다. 경북 전체는 110t이었다.&lt;br&gt;&lt;br&gt;쿼터를 초과한 참다랑어는 거래가 금지된다. 참다랑어는 바닷물 속을 헤엄치면서 호흡하는 특징을 가지고 있어, 그물을 걷어 올리는 순간 대부분 죽는다. 일단 잡으면 방생도 안 된다는 얘기다. &lt;br&gt;&lt;br&gt;김도훈 국립부경대 해양수산경영학과 교수는 “쿼터 배정은 국제 협상에 따른 것이라 당장 늘리기는 어렵지만 해법을 찾아야 한다”며 “기후 변화로 인한 참다랑어 증가량을 과학적으로 조사해 국제사회에 알려야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞참다랑어 쿼터&lt;/b&gt;&lt;br&gt;&lt;br&gt;각 국가가 잡을 수 있는 참다랑어의 총량을 뜻한다. 과도한 어획으로 개체 수가 줄어든 참다랑어를 보호하기 위해서 도입한 제도다. 국제기구인 중서부태평양수산위원회(WCPFC)가 매년 국가별 쿼터를 배정한다. 우리나라 쿼터는 해양수산부가 지역별로 다시 배분한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“공중화장실 전기 무단사용”…캠핑족 또 민폐 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/14/QIJ4WPWJYBCWPKMW7TCYR3LF4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/14/QIJ4WPWJYBCWPKMW7TCYR3LF4M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 08:31:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJROUYBQCNGWZCHNSH2I2DM3DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자 공중화장실에 연결된 노란 전선이 길게 뻗어 있다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천 해변을 찾은 캠핑객들이 공중화장실 전기를 끌어와 무단으로 사용한 모습이 포착돼 논란이 되고 있다. &lt;br&gt;&lt;br&gt;지난 11일 한 온라인 커뮤니티에는 “화장실 전기 무단 도용·바다에 쓰레기 투기…순천 와온해변 불법 캠핑”이라는 제목의 글이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “순천 와온해변에서 남자 둘이 밤새도록 여자 화장실에서 몰래 전기를 당겨 쓰고, 고기 굽고 남은 음식 쓰레기를 바다에 버리고 떠났다. 제발 이러지 말자“라며 ”불법 전기 사용은 절도죄에 해당된다”고 적었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56CAOA3HWBBF3LIDVAQBU336ZA.png"&gt;&lt;figcaption&gt;&lt;small&gt;전선이 인근에 세워진 캠핑 트레일러와 차량까지 이어진 모습./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 사진을 보면, 여자 공중화장실에 연결된 노란 전선이 길게 뻗어 있었고, 이 전선은 인근에 세워진 캠핑 트레일러와 차량까지 이어진 모습이 담겼다. &lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “이러니 캠퍼들이 욕먹는 거다”, “공용 전기 무단 사용 신고해야 하는 것 아니냐” “캠핑하는 사람으로서 정말 창피하다”는 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;공용 전기를 개인적인 용도로 무단 사용해 논란이 된 사례는 이번만이 아니다. 2022년에도 한 캠핑카 차주가 공중화장실 근처에 차를 세운 채 공용 전기를 무단으로 끌어다 쓰는 모습이 포착돼 논란이 됐다. 공개된 사진엔 공중화장실 창문을 통해 화장실 콘센트에 전기선을 연결한 모습이 담겼다. 2021년 9월엔 한 보건소 인근 공중화장실에서 테슬라 차량이 무단으로 충전하는 모습이 공개되기도 했다.&lt;br&gt;&lt;br&gt;형법 제346조는 ‘관리할 수 있는 동력’을 재물로 간주하고 있다. 이에 따라 공용 시설 내 전기를 무단으로 사용할 경우 형법상 절도죄 혐의가 적용될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RBYBZP3IWJB4HHJOAPL36WI5FQ.jpg?auth=6ddef70dd316df43bf7cbdd6e5a56b263644aafc70f1101482ef2e0aa7e70bcc&amp;smart=true&amp;width=755&amp;height=425" type="image/jpeg" height="425" width="755">
-        <media:description type="plain">여자 공중화장실에 연결된 노란 전선이 길게 뻗어 있다./보배드림</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>해병 특검, ‘VIP 격노설’ 회의 참석자 7명 특정... 김용현 前경호처장도 참석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/QBHB2HQQ2FGCFJIKYF4MADL3GQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/QBHB2HQQ2FGCFJIKYF4MADL3GQ/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 08:30:50 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 ‘VIP 격노설’이 제기됐던 2023년 대통령실 국가안보실 회의에 참석한 인원을 총 7명으로 특정한 것으로 14일 전해졌다. 그런데 이 회의에 윤석열 전 대통령의 충암고 선배인 김용현 전 대통령경호처장도 참석한 것으로 해병 특검은 파악 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RARGSZJCB62774XJUVVXITGRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령(왼쪽)과 김용현 전 국방부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤 전 대통령이 2023년 7월 31일 열린 국가안보실 참모 회의를 주재했을 때 크게 화를 냈다는 의혹이다. 윤 전 대통령이 당시 회의에서 고(故) 채수근 상병의 부대장이었던 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이종섭 전 국방장관에게 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 수사에 외압을 행사했다는 것이다. 이후 그해 8월 박정훈(대령) 해병대 수사단장이 조사 기록을 경찰에 넘기지 못하도록 막고, 이를 어긴 박 대령을 항명 혐의로 수사하도록 대통령실과 군 지휘부가 관여했다는 의혹도 제기돼 있다.&lt;br&gt;&lt;br&gt;이와 관련 해병 특검은 2023년 7월 31일 회의에 윤 전 대통령과 김 전 처장을 포함해 조태용 전 국가안보실장, 김태효 전 국가안보실 1차장, 임기훈 전 국방비서관, 이충면 전 외교비서관, 왕윤종 전 경제안보비서관 등 7명이 참석한 것으로 파악했다고 한다.&lt;br&gt;&lt;br&gt;주목할 만한 지점은 대통령경호처장 신분이던 김 전 처장이 왜 채 상병 관련 보고 등이 이뤄지던 국가안보실 회의에 참석했느냐다. 당시 김 전 처장만 제외하고 조태용 전 실장, 김태효 전 1차장, 임기훈·이충면·왕윤종 전 비서관은 모두 국가안보실 소속이었다.&lt;br&gt;&lt;br&gt;해병 특검은 조만간 김 전 처장을 불러 당시 국가안보실 회의 참석 경위 등에 대해 조사할 방침이다. 김 전 처장은 작년 12월 비상계엄 선포 과정에서의 내란 중요 임무 종사 등 혐의로 구속기소돼 현재 수감 중인 상태다. 해병 특검 관계자는 “김 전 처장이 왜 국가안보실 회의에 참석했으며 무슨 대화를 나눴는지 등도 수사 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;김 전 처장은 윤 전 대통령의 충암고 선배로, 윤석열 정부 실세 중 한 명으로 알려져 있다. 김 전 처장은 대통령경호처장 퇴임 직후 국방장관에 임명됐다. 이어 작년 12·3 비상계엄을 주도한 인물로도 지목된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김건희 특검, ‘주가조작’ 삼부토건 전·현직 회장 4명 구속영장 청구키로</title>
       <link>https://www.chosun.com/national/court_law/2025/07/14/MKQN2G6XNVARNMNNGL6ZLT6VHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/MKQN2G6XNVARNMNNGL6ZLT6VHE/</guid>
@@ -867,15 +900,6 @@
       <description/>
       <pubDate>Mon, 14 Jul 2025 07:57:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJGAYJ2VABMG7FIB26HCZWB6CM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조성옥 전 삼부토건 회장(왼쪽)과 이일준 삼부토건 회장이 지난 10일 오전 서울 종로구 윤석열 전 대통령의 부인 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀 사무실에 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼부토건 주가 조작 의혹을 수사 중인 김건희 특검이 14일 자본시장법상 사기적 부정거래 혐의로 이일준 삼부토건 회장, 조성옥 전 삼부토건 회장, 이기훈 삼부토건 부회장 겸 웰바이오텍 회장, 이응근 전 삼부토건 대표 등 4명의 사전구속영장을 청구할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 이 전 회장 등을 차례로 불러 2023년 5월 폴란드 바르샤바에서 열린 우크라이나 재건 포럼을 앞두고 현지 업체와 양해각서(MOU)를 체결했다는 허위 사실을 알리면서 인위적으로 주가를 부양했는지를 조사했다. &lt;br&gt;&lt;br&gt;특검은 이를 두고 포럼을 주최한 유라시아경제인연합회 관계자를 조사하면서 “삼부토건 측이 주가 부양을 위해 재건 포럼을 활용했다”는 취지의 진술을 확보한 것으로 알려졌다. 삼부토건이 당시 주최 측에서 마련한 현지 업체와의 MOU 체결 가이드라인을 무시한 채 구체적인 사업 계획이 없는 MOU를 체결해 갈등이 있었다는 취지의 관계자 진술도 확보한 것으로 전해졌다. 이를 토대로 특검은 삼부토건이 실제로 우크라이나의 전후 재건 사업에 참여할 의도가 없었던 것이라고 의심한다.&lt;br&gt;&lt;br&gt;특검은 지난 9일 삼부토건의 정창래 전 대표와 오일록 현 대표를 조사했고, 이 회장과 조 전 회장을 이튿날 피의자로 불러 조사했다. 전날인 13일엔 이 부회장과 구세현 웰바이오텍 대표를 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 김건희 특검 “카카오 김범수· HS효성 조현상 등 17일 소환 통보”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/QZPP7AOIUJC5PLZRV2WWHO3JRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/QZPP7AOIUJC5PLZRV2WWHO3JRA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 07:32:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3GNJOSB2VOORCVUOIYP2KAFKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 오정희 특검보가 8일 서울 종로구 KT광화문빌딩에서 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 특검팀은 “김범수 카카오 창업주, 김익래 전 다우키움그룹 회장, 윤창호 전 한국증권금융 사장, 조현상 HS효성 부회장 4명에게 17일 오전 10시까지 출석하라고 통보했다”고 밝혔다.&lt;br&gt;&lt;br&gt;네 기업이 얽혀 있는 의혹은 김 여사 일가 집사로 알려진 김모씨가 임원을 지낸 ‘IMS모빌리티(옛 비마이카)’의 투자금 명목 금품 수수다. IMS모빌리티는 2023년 카카오모빌리티, HS효성, 한국증권금융 등에서 184억원을 투자받았는데, 특검은 이 기업들이 투자 당시 경영 상황이 좋지 않았던 점에 주목하고 있는 것으로 전해졌다. 특히 카카오모빌리티의 경우 ‘콜 차단’과 ‘분식 회계’ 의혹으로 공정거래위원회와 금융 당국의 조사를 받고 있었고, HS효성은 당시 언론을 통해 내부 고발 문제가 불거진 상태였다. 이때 집사 김씨가 IMS모빌리티 측에 투자를 하도록 관여했는지 여부가 특검의 수사 대상인 것이다.&lt;br&gt;&lt;br&gt;IMS모빌리티는 설립 초기에 김 여사가 주가조작에 관여한 것으로 의심되는 도이치모터스에서 BMW 50대를 장기 임차해 사업에 활용했고, 2016년과 2019년 코바나컨텐츠가 기획한 전시회를 후원하기도 했다.&lt;br&gt;&lt;br&gt;의혹의 핵심인 김씨는 지난 4월 베트남으로 출국한 것으로 알려져 있다. 특검 측은 이날 브리핑에서 “지금이라도 즉각 귀국해 수사 받으라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“리어카 끄는 할머니 도운 군인들”...알고 보니 김천상무 선수</title>
@@ -888,15 +912,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/SP2FZECE5VGGRBO66LWS576UQ4.jpg?auth=9f3ed12e636fbe897411b2b9772065205ed8749c7aac596bfec190f5c582859e&amp;smart=true&amp;width=929&amp;height=523" type="image/jpeg" height="523" width="929">
         <media:description type="plain">프로축구 K리그1 김천상무 소속 군인 선수들이 리어카를 끌던 할머니를 도와 훈훈한 감동을 전했다. /인스타그램</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘명태균 공천 개입 의혹’ 윤상현, 특검에 휴대전화 임의제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/UID3PW23QFDX3AEF7AAQH7AIDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/UID3PW23QFDX3AEF7AAQH7AIDY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 08:08:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OV5ZATQGIERSZUBNSDTPMOFKGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤상현 국민의힘 의원이 14일 서울 여의도 국회박물관에서 긴급토론회 '무엇을 할 것인가? 자유공화 리셋코리아를 위하여'에서 인사말을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨가 연루된 공천 개입 의혹과 관련해 압수 수색 대상에 오른 국민의힘 윤상현 의원이 김건희 특검 측에 휴대전화를 임의제출한 것으로 14일 확인됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 지난 2022년 국회의원 재·보궐선거 당시 국민의힘 공천관리위원장을 맡았던 윤 의원은 최근 특검에 자신이 쓰던 휴대전화를 임의제출했다. 앞서 특검은 지난 8일 윤 의원의 휴대전화 확보를 위해 압수 수색에 나섰지만, 윤 의원의 위치를 파악하지 못하면서 휴대전화를 확보하지 못했었다. 윤 의원이 제출한 아이폰은 잠금이 걸린 상태인데, 비밀번호는 알려주지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검이 주목하는 것은 지난해 10월 말 더불어민주당이 공개한 윤석열 전 대통령과 명씨 사이의 통화 녹음 내용이다. 윤 전 대통령은 공천 결과 발표 하루 전날인 그해 5월 9일 명태균씨에게 “김영선이 (대선) 경선 때부터 열심히 뛰었으니까 (공천을) 해 줘라 했는데 말이 많네 당에서. (윤)상현이한테 한 번 더 이야기할게”라고 했다. &lt;br&gt;&lt;br&gt;특검은 이 녹음 파일 등을 근거로 윤 의원이 국민의힘 공천 심사를 방해한 혐의가 있다고 본다. 실제로 윤 전 대통령이 윤 의원에게 김영선 전 의원의 공천을 주라고 지시하거나 압박한 사실이 있는지 확인해야 한다는 입장이다. 당시 상황을 재구성하려면 윤 의원과 김 전 의원의 휴대전화 속 자료를 확인해야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>훔친 카드로 일본 여행... 1400만원 쓴 간 큰 외국인</title>
@@ -945,15 +960,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3ANPILIGVNEXGHVG25HXGP5SM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 환경부 및 소속기관 직원들이 인천 계양구 소재 계양산을 중심으로 활동중인 러브버그 성체를 제거하기 위해 송풍기와 포충망을 활용해 방제 작업을 하고 있다. /환경부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초여름 도심을 까맣게 뒤덮었던 러브버그(붉은등우단털파리)가 최근 급격히 사라지고 있다. 그러나 지난 몇 년간 러브버그 확산 양상을 고려하면 내년을 대비해 철저한 방역 대책이 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;13일 인천 계양구보건소에 따르면 지난달 러브버그 방제 요청 민원은 473건으로, 전년(62건) 대비 7배 이상으로 급증했으나 이달부터 관련 민원이 31건으로 뚝 떨어졌다. 계양구는 올해 러브버그가 이례적으로 많이 발생한 지역으로 꼽힌 지역이다.&lt;br&gt;&lt;br&gt;보건소 관계자는 “지난달 말부터 러브버그 민원은 감소하는 추세”라며 “현재는 주기적인 방제 외에 별다른 민원이 없다”고 말했다.&lt;br&gt;&lt;br&gt;러브버그 성충은 주로 6~7월에 등장해 일주일가량 활동한 뒤 사라지지만 문제는 내년이다. 러브버그의 성충이 이미 수많은 알을 낳고 죽었기 때문이다. &lt;br&gt;&lt;br&gt;국립생물자원관에 따르면 러브버그 암컷 한 마리는 300~500개의 알을 낳는다. 러브버그 생애 주기는 일반적인 곤충처럼 알, 유충(애벌레), 번데기, 성충으로 이어지는데, 유충 상태로 약 1년간 땅속에 산다.&lt;br&gt;&lt;br&gt;김민중 국립산림과학원 산림병해충연구과 박사는 “러브버그는 지금 눈에 안 보여도 항상 땅속에 있다고 볼 수 있다”며 “올해 어떤 요인이 러브버그 생존율을 높였는지 연구해 봐야겠지만, 내년에도 러브버그가 대발생할 가능성은 있는 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;러브버그는 대규모로 발생할 경우 시야 방해, 악취, 차체 오염 등으로 일상에 큰 불편을 초래하지만, 해충으로 분류되진 않는다. 독성이나 흡혈성은 없어 전염병이나 질병 유발 가능성은 낮은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;문제는 한꺼번에 대량으로 출몰하는 특성 때문에 시민들의 불편을 초래한다는 점이다. 더구나 아직까지 자연 생태계에서 러브버그의 천적이 나타나지 않은 상황이다.&lt;br&gt;&lt;br&gt;최근 온라인에서는 참새나 사마귀 등이 러브버그를 잡아먹는 것을 봤다는 목격담이 나왔지만, 전문가들은 러브버그의 주요 천적은 아직 확인되지 않았다는 입장이다.&lt;br&gt;&lt;br&gt;이에 러브버그 천적을 찾아 사육·번식시키는 천적 개발 방안이 필요하다는 의견이 나오고 있다. 과거 중국 꽃매미도 수년간 확산세를 보이다 천적인 기생벌이 등장하면서 자연스럽게 조절된 바 있다.&lt;br&gt;&lt;br&gt;관련 기관들은 아직 러브버그를 특정 해충으로 지정하거나 국가 단위의 방제 대상에 포함시키진 않았지만, 지역별 모니터링과 대응은 강화하고 있다. 일선 보건소와 지자체는 올해 러브버그 발생 양상을 토대로 내년 대비책 마련에 들어간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘조국혁신당 성추행’ 의혹 피의자 조사...혐의 전면 부인</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/14/6HWV4F5AFRDUPG3IL6TONVOPZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/14/6HWV4F5AFRDUPG3IL6TONVOPZ4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 06:01:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TR62EB5BVXIV7F3GR25G3WAWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당의 핵심 당직자가 같은 당 여성 당직자를 성추행했다는 의혹과 관련해 경찰이 가해자를 최근 피의자로 불러 조사했다.&lt;br&gt;&lt;br&gt;서울경찰청 여청범죄수사계는 지난 10일 조국혁신당 핵심 당직자였던 김모씨를 피의자 신분으로 불러 조사했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;피해자는 지난 4월 28일 김씨를 서울 종로경찰서에 고소했고, 경찰은 이후 이 사건을 서울경찰청으로 이첩해 수사해왔다.&lt;br&gt;&lt;br&gt;고소장에 따르면, 김씨는 지난해 7월 택시 안에서 피해자의 손을 잡고 볼에 입을 맞추는 등 강제로 추행했다. 또한 지난해 12월엔 윤석열 전 대통령 탄핵 찬성 집회에 참석한 뒤 여러 당직자들과 노래방에 가서 A씨의 허리를 감싸기도 했다고 한다. 고소장에는 이 자리에 동석했던 조국혁신당 관계자들이 피해 사실을 진술한 증거 자료도 포함돼 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 경찰 조사에서 혐의를 전면 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이충면 前비서관 해병 특검 출석...‘VIP 격노설’ 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/14/7VI6X6AB3JG5VCJPLZIN33SNHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/7VI6X6AB3JG5VCJPLZIN33SNHY/</guid>
@@ -961,15 +967,6 @@
       <description/>
       <pubDate>Mon, 14 Jul 2025 04:44:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATHPRTK5NVM2JEFX5EDWELNMTM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이충면 전 국가안보실 외교비서관이 14일 오후 서울 서초구 해병 특검 사무실에 참고인 신분으로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 고 채수근 상병 관련 보고를 받고 격노했다는 국가안보실 회의에 참석했던 이충면 전 국가안보실 외교비서관이 14일 해병 특검 조사를 받기 위해 출석했다. 특검은 이 전 비서관을 비롯해 안보실 회의 참석자들을 이번 주에 연달아 불러 이른바 ‘VIP 격노설’을 규명할 계획이다.&lt;br&gt;&lt;br&gt;이 전 비서관은 이날 오후 1시 30분쯤 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석했다. 그는 “해병 순직 사건 보고를 받고 윤석열 전 대통령이 격노한 걸 봤느냐” 등 취재진의 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 ‘임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 이종섭 전 국방장관에게 전화해 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사했다는 의혹이다.&lt;br&gt;&lt;br&gt;이 전 비서관은 당시 안보실 회의에 참석한 것으로 알려졌다. 특검은 지난 11일 안보실 회의의 또 다른 참석자인 김태효 전 국가안보실 1차장을 피의자 신분으로 소환해 “윤 전 대통령이 고 채수근 상병 사망 사건을 보고받고 크게 화를 냈다”는 취지의 진술을 확보했다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 전 비서관을 상대로 안보실 회의에서 어떤 보고가 이뤄졌는지, 윤 전 대통령은 이에 어떻게 반응했고 지시했는지 등에 대해 집중 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 이번 주 회의에 함께 참석했던 왕윤종 전 경제안보비서관 등도 소환 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘양평고속도로 노선 변경’ 국토부 등 10여 곳 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/FMPSD56RYFFPPGZ5BKPNDJYAPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/FMPSD56RYFFPPGZ5BKPNDJYAPE/</guid>
-      <dc:creator>이민경 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 00:07:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVXFAMIJCKUZ3X2T7CWUVDZRKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최인호 공동위원장이 2023년 7월 13일 서울 여의도 국회에서 열린 대통령 처가 고속도로 게이트 진상규명 특별위원회 발족식에서 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀은 14일 양평고속도로 사건과 관련하여 국토교통부, 용역업체 등 압수 수색을 진행하고 있다고 밝혔다. 강제 수사 대상은 총 10여 곳이고, 용역업체는 동해종합기술공사와 경동엔지니어링이다. 한국도로공사 설계처도 압수 수색 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;다만 김건희 특검은 양평군수였던 김선교 국회의원, 원희룡 전 국토부 장관 등은 압수수색 대상에 포함되어 있지 않다고 했다.&lt;br&gt;&lt;br&gt;서울-양평 고속도로는 윤석열 정부 출범 약 1년 후인 2023년 5월 국토부의 ‘전략환경영향평가 결정내용’에서 종점이 기존 양평군 양서면에서 강상면으로 변경됐다. 변경된 지역에 김 여사 일가의 땅과 선산 등 20필지가 있어서 특혜 논란이 불거졌다. &lt;br&gt;&lt;br&gt;반면 원 전 장관과 국토부는 교통 정체 해소를 위해 종점을 바꾼 것이라고 했다. 원 전 장관은 “김 여사 일가 땅이 그 지역에 있는지 몰랐다”고 주장했지만, 논란이 계속되자 그해 7월 사업 백지화를 선언했다. 더불어민주당 등은 원 전 장관을 직권남용 등의 혐의로 고발했고, 경기남부경찰청은 2년 만인 지난 5월 국토부, 경기 양평군청, 동해종합기술공사·경동엔지니어링을 압수 수색했다. 특검은 관련 자료를 넘겨받아 수사 중이었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
