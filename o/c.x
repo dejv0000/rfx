@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹 구속 적부 심사, 18일 오전 10시 15분</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/722RXNRSU5FEVCEMML7QHZVC3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/722RXNRSU5FEVCEMML7QHZVC3Q/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 05:19:09 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쇠봉 들고 서부지법 난입’ 30대·60대 1심서 나란히 실형 선고</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/16/7QUDHACO6RFGTLAP4VURQJDYBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/7QUDHACO6RFGTLAP4VURQJDYBU/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 05:01:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GDPITYNANT3ECPTPI7PDXNYH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 19일 발생한 서부지법 난입 사태와 관련, 30대와 60대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독(재판장 박지원)은 16일 특수건조물침입 등 혐의를 받는 남모(36)씨와 이모(63)씨에 대한 선고기일을 열고 각각 징역 1년 4개월과 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;남씨는 지난 1월 19일 새벽 윤석열 전 대통령에 대한 구속영장이 발부되자 서부지법에 난입해 기물을 파손한 혐의를 받는다. 경찰에게 빼앗은 방패로 법원 외벽 타일을 부수거나 소화기를 집어 들어 법원 1층 당직실 창문을 깨뜨린 혐의, 쇠봉을 휘둘러 법원 1층의 서예미술품 액자 등을 파손한 혐의 등도 받는다.&lt;br&gt;&lt;br&gt;재판부는 남씨의 혐의가 모두 인정된다고 봤다. 재판부는 “남씨가 공용물건손상금을 형사공탁한 점을 고려하면서도 다수의 사람들과 위험한 물건으로 공용물건을 훼손한 점, 공용물건손상 혐의를 부인한 점 등을 양형에 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 1월 19일 새벽 깨진 유리창을 통해 법원 2층까지 진입한 혐의를 받는다. 통로에서 경찰관이 뒤로 밀려나도록 몸으로 밀어 폭행했다며 특수공무집행방해 혐의도 받았다. &lt;br&gt;&lt;br&gt;재판부는 특수건조물침입 혐의에 대해서는 유죄로 인정하나, 이씨가 경찰관을 몸으로 밀었다고 인정할 만한 증거가 부족하다고 보고 특수공무집행방해 혐의에 대해서는 무죄로 판단했다. 재판부는 “이씨가 시위대 선두에서 건물로 나아간 점, 법원 청사 내부에서 쇠봉을 휴대한 점 등을 양형에 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 1월 19일 벌어진 서부지법 난동 사건으로 100명 가까이 재판에 넘겨진 가운데, 1심 선고가 속속 진행되고 있다. 법원에 침입한 피고인들에게는 현재까지 모두 징역 1~4년의 실형이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고용장관 후보자 “장관 되면 노란봉투법 곧바로 추진”</title>
+      <link>https://www.chosun.com/national/labor/2025/07/16/TV4FQSR2AJEMJIOVHYLBJ5AGD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/16/TV4FQSR2AJEMJIOVHYLBJ5AGD4/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 04:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWPQOWDEZVGXNDKMWQTV5NHEQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관 후보자가 16일 서울 여의도 국회 환경노동위원회에서 열린 인사청문회에서 의원 질의에 답변하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 김영훈 고용노동부 장관 후보자가 노조법 2·3조 개정안(노란봉투법)에 대해 “장관이 되면 곧바로 당정 협의 등을 통해 개혁 입법이 추진되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 후보자는 이날 국회 환경노동위원회에서 열린 고용부 장관 인사청문회에서 이 같이 밝혔다. 노란봉투법은 파업해 손해를 끼친 노조에 대해 기업 측의 손해배상 청구를 제한하고, 하청 노동자에 대한 원청의 책임을 강화하는 내용이 핵심이다.&lt;br&gt;&lt;br&gt;김 후보자는 “원하청이 형식적 고용관계에 있지 않다고 해서 그 자체로 불법이라며 손배소가 남발되고 노동자는 극렬하게 저항하는 악순환이 발생한다”며 “이런 불법의 근원이 되는 현실과 헌법 가치의 불일치를 해결하는 것이 국무위원의 자세라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;불법 파업이 늘어날 것이라는 경영계 우려와 관련해서는 “잘 알고 있다”며 “장관이 된다면 그런 우려를 최소화하고 현장에 안착할 방법을 다각도로 고민하겠다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “노란봉투법은 불법 파업을 조장하는 법이 아니고 불법의 근원을 제거해 현장에서부터 노사자치를 실현하고 신뢰를 쌓는 법”이라며 “실질적으로 하청 노동자의 노동조건을 개선해 원청 최종 생산품의 품질 개선으로까지 이어지는 상생의 패러다임을 만드는 데 기여하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;주 4.5일제에 대해서는 “가능한 곳부터 시범 사업을 하고 지원하겠다”며 “사업 추진 과정에서 영세 노동자들과의 격차가 벌어져 양극화가 심화하지 않도록 선도하는 기업들을 잘 지원해 자율적으로 안착시키는 게 중요할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;정년 연장과 관련해서는 “반드시 올해 내 진행돼야 할 것”이라며 “다만 진행할 때 청년들이 선호하는 대기업과 공공부문의 정년만 연장돼 미스매치가 발생하지 않도록 하고, 직업의 기회가 줄어들 것을 우려하는 청년들의 요구를 잘 살펴 사회적 대화를 추진해야 한다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 강의구 前실장 해병 특검 출석...묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/AMOHYA5BSBFPJDQDG7WNZMVB6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/AMOHYA5BSBFPJDQDG7WNZMVB6U/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 05:04:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IX2WUKEKHZNILEBV677SC7XMNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강의구 전 대통령실 부속실장이 16일 오후 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강의구 전 대통령실 부속실장이 16일 해병 특검에 출석했다. 강 전 실장은 채상병 사망 사고 당시 윤석열 전 대통령을 보좌하던 인물로, 특검은 강 전 실장을 상대로 이른바 ‘VIP 격노설’ 등에 대해 조사할 계획이다.&lt;br&gt;&lt;br&gt;강 전 실장은 이날 오후 2시쯤 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석했다. 그는 “윤 전 대통령이 안보실 회의에서 격노한 사실을 들은 바 있나” “안보실 회의 이후 임기훈 전 국방비서관과 여러차례 통화한 이유가 뭔가” 등 취재진의 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;‘VIP 격노설’은 윤 전 대통령이 2023년 7월 31일 열린 국가안보실 회의에서 ‘임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 “이런 일로 처벌하면 누가 사단장을 할 수 있겠느냐”며 크게 화를 낸 뒤, 수사에 외압을 행사했다는 의혹이다.&lt;br&gt;&lt;br&gt;당시 윤 전 대통령을 보좌하던 강 전 실장은 안보실 회의에 직접 참석하지는 않았으나, 회의 당일 참석자인 임기훈 전 비서관과 여러 차례 통화한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 강 전 실장을 상대로 채상병 사망 사고 이후 대통령실이 수사에 개입했는지 등에 대해 집중적으로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박정훈 대령, 해병 특검 출석...“모든 진실 밝혀질 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/VGOPDH2VORBQXLDN2M7ZTZC24A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/VGOPDH2VORBQXLDN2M7ZTZC24A/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 04:06:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQKJM2UOJFLORIKOIVB5TQZYFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈 해병대 수사단장이 16일 오후 서울 서초구 해병 특검 사무실에 출석해 취재진의 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 순직 사고 초동 조사를 맡았던 박정훈(대령) 해병대 수사단장이 16일 해병 특검에 출석했다. 박 대령은 윤석열 전 대통령이 해병대 수사단의 조사 결과를 보고받고 화를 내면서 경찰 이첩 보류 등을 지시했다는 이른바 ‘VIP 격노설’을 최초 폭로했던 인물이다.&lt;br&gt;&lt;br&gt;박 대령은 이날 오후 1시쯤 서울 서초구 특검 사무실에 참고인 신분으로 출석했다. 박 대령은 “무죄 확정 후 참고인 조사에 임하는 소회가 어떠냐”는 취재진의 질문에 “모든 것이 이제 제자리로 돌아갔다. 국민 여러분들의 지지와 성원 덕분이라 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;이어 박 대령은 “이제 모든 것이 밝혀질 것”이라며 “(채 상병의 사망에) 책임 있는 자들은 상응하는 법적 책임을 받을 거라 확신한다”고 말했다.&lt;br&gt;&lt;br&gt;순직 해병 사건 초동 조사를 맡았던 박 대령은 조사 자료를 경찰에 이첩하는 과정에서 이종섭 전 국방장관과 김계환 전 해병대 사령관의 이첩 보류·중단 지시에 따르지 않았다가 항명 혐의로 기소됐다. 박 대령은 1심에서 무죄를 선고받았고, 군 검찰이 항소해 2심이 진행 중이었으나 특검이 지난 9일 항소를 취하하며 무죄가 확정됐다. 박 대령은 11일 해병대 수사단장으로 복직했다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 박 대령을 상대로 윤 전 대통령의 격노에 대해 어떤 내용을 전해 들었는지, 조사 기록 이첩 및 회수는 어떻게 이뤄졌는지 등에 대해 집중 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>또래 여성 가스라이팅해 부모 돈 100억 뜯어낸 20대, 징역 20년</title>
+      <link>https://www.chosun.com/national/regional/2025/07/16/7IKYC3YVTZAHLFSNEW3OEEVF64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/16/7IKYC3YVTZAHLFSNEW3OEEVF64/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 04:07:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMLNAYXNBZ445PXJUW5JZE6B5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법, 고법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여성에게 사귈 것처럼 접근해 심리적으로 지배한 뒤, 여성의 부모로부터 현금 등 100억원 상당을 뜯어낸 20대에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이영철)는 16일 특정경제범죄가중처벌법 위반 혐의(사기)로 재판에 넘겨진 A씨에게 징역 20년을 선고했다. 또 A씨가 빼돌린 현금 중 일부를 보관한 20대 B씨에게는 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월쯤 인터넷 커뮤니티를 통해 알게 된 20대 여성 C씨에게 접근해 사귀는 척 속이며 심리적으로 지배하기 시작했다. 이후 재력가인 C씨의 부모 등으로부터 현금 등 100억원가량을 받아 가로챈 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 100억원 중 70억원가량을 자금 추적이 어려운 상품권으로 바꿨고, 개인 상품권 매매 업자에게 되팔아 현금화한 뒤 숨긴 것으로 조사됐다. 이 중 일부는 B씨에게 넘긴 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피해액이 크고, 정상적인 사기 범행이 아니었다”며 “피해자들의 경제적 기반을 흔드는 데 그치지 않고 인격적으로 말살·파탄시켰고, 피해자가 엄벌을 탄원하고 있는 점 등을 종합적으로 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청주·대전 편의점 등 6곳 돌며 강도질…3명 체포, 2명은 10대  </title>
+      <link>https://www.chosun.com/national/regional/2025/07/16/H3XAHZX6RRGMJMFP7I2LDWIPOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/16/H3XAHZX6RRGMJMFP7I2LDWIPOQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 04:02:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 중부경찰서는 16일 편의점 등을 돌며 직원을 협박·폭행한 뒤 금품을 빼앗은 혐의(특수강도치상)로 20대 1명, 10대 2명 등 3명을 붙잡아 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 전날 밤부터 이날 새벽까지 충북 청주와 대전 중구 선화동 일대 슈퍼와 편의점 등 6곳을 돌며 혼자 있는 업주를 위협하거나 폭행한 뒤 모두 현금 61만원과 담배 3보루 등을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 인상착의와 이동 동선을 파악해 이날 오전 6시30분쯤 대전 중구 대흥동의 한 모텔에 있던 이들을 긴급 체포했다.&lt;br&gt;&lt;br&gt;이들은 주로 편의점 ATM 이용 방법 등을 물어보며 업주에게 도움을 청한 뒤, 다가오는 업주의 몸을 뒤에서 붙잡는 방식으로 움직이지 못하게 한 뒤 금품을 빼앗아 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;업주의 저항이 심한 곳에서는 범행이 미수에 그치기도 했는데, 이들이 흉기로 위협하기도 했다는 신고가 접수된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “10대 두 명은 모두 미성년자이며, 이들을 상대로 정확한 관계와 흉기 사용, 추가 범행 여부 등을 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘尹 수감' 서울구치소, 내란특검 향해 “인치 집행할 인력 보내라”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/U4PRVVEHWNDQRPMNHQH374L7DE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/U4PRVVEHWNDQRPMNHQH374L7DE/</guid>
@@ -814,19 +877,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOI6TOBEVDLLWWUC2CDFSQCYBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새 입주자대표 회장에게 아파트 관리비를 송금했다는 이유로, 아파트 일부 가구에 대한 수돗물 공급을 끊은 전 입주자대표 회장과 관리소장에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 5단독 홍준서 판사는 수도불통 혐의로 기소된 인천 모 아파트 전 입주자대표회장 A(58)씨에 대해 징역 10개월에 집행유예 1년을 선고했다고 15일 밝혔다. 홍 판사는 또 A씨에게 160시간의 사회봉사를 명령했다. &lt;br&gt;&lt;br&gt;같은 혐의로 기소된 아파트 관리소장 B(73)씨에겐 징역 6개월에 집행유예 1년을 선고했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난해 10월 1일 오후 3시쯤 인천시 부평구의 한 아파트 옥상 물탱크실에서 수도 밸브를 잠가 같은 달 7일까지 19가구의 수돗물을 쓰지 못하게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 일부 입주민이 새로 선출된 입주자대표 회장에게 관리비를 송금하는 것에 불만을 품고 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 신임 회장이 선출됐음에도 자신이 회장직을 유지하고 있다고 주장하며 아파트 관리업무를 인계하지 않은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;홍 판사는 “(피고인들은) 관리규약에도 없는 행위로 많은 세대에 큰 불편을 초리했다”며 “A씨는 벌금형을 초과하는 전과가 없는 점, B씨는 초범이고 A씨의 지시에 따라 범행한 점 등을 고려했다”고 양형이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김민기 국회 사무총장, 참고인 신분으로 내란 특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/PGMSY25RKFGKXCFUDJ4PFXTLT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/PGMSY25RKFGKXCFUDJ4PFXTLT4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 05:22:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRO6ES6AAJLAPLNBOAZDPV5FEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민기 국회 사무총장이 15일 오후 서울 서초구 서울고등검찰청에 마련된 조은석 내란 특검 사무실에 참고인 자격으로 출석하며 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민기 국회 사무총장이 5일 오후 2시 5분 서초구 서울고등검찰청에 위치한 조은석 내란 특검팀에 출석했다.&lt;br&gt;&lt;br&gt;김 총장은 이날 참고인 신분으로 출석하며 “12·3 비상계엄에서 가장 큰 피해를 입은 우리 국회의 입장을 설명하겠다”고 밝혔다. 김 총장은 “(현재까지 알려진) 계엄 피해자가 48명으로 늘었다”며 “(물적 피해가) 더 있는데 통계에 잡히지는 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 총장은 계엄 당시 군인들이 창문을 깨고 국회 본관으로 들어왔던 데 대해서는 “(국회)의원들을 끌어내기 위해 들어왔다고 보기 때문에 이 점에 대해 특히 강조하고, 우리 입법부가 계엄군에게 침탈됐던 내용을 소상히 얘기할 생각”이라고 했다. “국회에서 법을 통과시켜 이번 특검이 이뤄진 것”이라며 “국회에서도 적극적으로 자료 제출 등 수사에 협조해야 할 의무가 생겼다”고 설명했다.&lt;br&gt;&lt;br&gt;내란 특검팀은 이날 김 총장에게 계엄 전후 상황을 구체적으로 물을 것으로 보인다. 김 총장은 그간 국회 차원의 대응을 총괄하며 수사기관에 협조해 왔다. 작년 12월 24일 서울 여의도 국회 소통관에선 계엄 당시 국회의장 공관으로 출동한 군인들이 포착된 공관 폐쇄회로(CC)TV를 공개하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CZIHJBM4JNADFPVKWPAYGVHW5A.jpg?auth=f6906efea63de3812817bcac4baf81d3e5c1cebe5d2ce3dbd4188f65c1fc007c&amp;smart=true&amp;width=3047&amp;height=1714" type="image/jpeg" height="1714" width="3047">
-        <media:description type="plain">[서울=뉴시스] 배훈식 기자 = 김민기 국회 사무총장이 15일 오후 서울 서초구 서울고등검찰청에 마련된 조은석 내란 특검 사무실에 참고인 자격으로 출석하며 취재진 질문에 답하고 있다. 2025.07.15. dahora83@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">dahora83</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>光州 하남산단 지하수서 1급 발암물질… 구청은 2년 넘게 ‘쉬쉬’</title>
       <link>https://www.chosun.com/national/national_general/2025/07/15/XCPOKGSA4BDJVG4U2Z43WMXH7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/XCPOKGSA4BDJVG4U2Z43WMXH7U/</guid>
@@ -869,24 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SIHEAUMQBFTVB7CA3LWRHKJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왕윤종 전 국가안보실 경제안보비서관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 왕윤종 前비서관 해병 특검 출석&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>특검 “尹 계속 조사 거부시 기소 검토... ‘인치 불이행’ 구치소 책임 물을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/OO3IY4S6LZD6ZLU4QFF53UZPZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/OO3IY4S6LZD6ZLU4QFF53UZPZQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 04:02:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDJSLKW5W6YNP5I3ZCOJIMCK7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특검팀의 박지영 특검보가 지난 8일 서울 서초구 서울고등검찰청 기자실에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 15일 브리핑에서 “윤석열 전 대통령과 변호인은 1차 인치 지휘 후 현재까지 특검에 문서, 구두 등 어떤 의사도 표시하지 않았다”며 “이에 특검은 윤 전 대통령이 조사 자체를 거부하는 것으로 평가하고 있다”고 했다. 특검은 전날 서울구치소장에게 이날 오후 2시까지 인치하도록 지휘하는 공문을 발송한 바 있다.&lt;br&gt;&lt;br&gt;박 특검보는 “(윤 전 대통령이) 진술을 거부할지라도 조사는 이뤄져야 한다”면서 “이날 오전 특검의 인치 지휘를 이행하지 않은 교정 당국 공무원을 상대로 인치 지휘를 이행하지 않은 구체적 경위를 조사했다”고 했다. 그러면서 “향후에도 인치 지휘를 이행하지 않을 경우 엄중히 책임을 묻는 조치를 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 특검의 소환에 계속 불응하고 강제 인치가 안 될 시 추가 조사 없이 바로 기소할 것이냐는 질의에 박 특검보는 “그런 가능성도 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공무원 10명 중 1명 “내 돈으로 상사 밥 대접” </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/15/4ADRHLCVZJA6FDVPZEZJG5575U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/4ADRHLCVZJA6FDVPZEZJG5575U/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 05:10:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZEXLFDMYBBCTCSN5NEC6FHEIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원 10명 중 1명은 ‘간부 모시는 날’을 겪은 것으로 15일 조사됐다. 공직 사회 대표 악습으로 꼽혀온 관행인데, 하위직 공무원들이 순번을 정해 개인 돈으로 국장·과장 등 상사에게 식사를 대접하는 것을 말한다.&lt;br&gt;&lt;br&gt;행정안전부와 인사혁신처가 지난 4월 합동으로 중앙과 지방자치단체 공무원 11만3404명을 대상으로 ‘간부 모시는 날’ 실태를 조사한 결과 11.1%가 “최근 1개월 사이 간부 모시는 날을 경험했다”고 응답했다.&lt;br&gt;&lt;br&gt;공무원별로 간부 모시는 날을 경험했다는 응답은 중앙 부처보다 지자체 공무원이 더 많았다. 지자체 소속은 12.2%가, 중앙 부처 소속은 7.7%라고 답했다.&lt;br&gt;&lt;br&gt;‘간부 모시는 날’을 경험했다는 응답자 45.7%는 ‘주 1~2회’ 빈도였다고 답했다. 달에 한두 번꼴이었다는 응답도 40.6%였다.&lt;br&gt;&lt;br&gt;모셨던 간부의 직위는 부서장(과장급)이 75.9%로 가장 높았다. ‘간부 모시는 날’이 지속되고 있는 원인으로는 응답자 다수가 ‘대수롭지 않게 여기는 조직 분위기와 관행’(35.8%)을 지적했다.&lt;br&gt;&lt;br&gt;김민재 행안부 장관 직무대행은 “공직사회 내 불합리한 관행을 지속해 발굴·개선해 공무원들이 업무에 집중할 수 있는 ‘일할 맛 나는 공직 환경’을 만들기 위해 힘쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 측 “특검, 전직 대통령 강제 인치는 망신주기...무인기 조사도 강행”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/15/RW2PQNIYGJFBBNJFNUE35URVTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/RW2PQNIYGJFBBNJFNUE35URVTQ/</guid>
@@ -905,19 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDAEBNEC2NGUJIJNPBMTNGAV3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감사원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후 변화로 한국의 폭염 사망자가 2080년대에는 지금의 30배 수준인 연평균 1643명에 이를 수 있다고 감사원이 경고했다.&lt;br&gt;&lt;br&gt;감사원이 15일 공개한 ‘기후 위기 적응 및 대응 실태(신종 질병 등 대응 분야)’ 감사 보고서에 따르면, 한국을 비롯한 세계 각국이 기후변화에 대응하는 정책을 펴지 않는다고 가정한 시나리오 ‘SSP5-8.5’에서 한국의 연간 폭염 일수는 지난해 23.5일에서 2100년 95.7일로 3.1배로 늘어날 것으로 전망된다. 서울은 119.9일, 부산은 102.7일, 세종은 119.5일간 폭염을 겪게 되고, 대구에서는 131.3일간 폭염이 지속될 것으로 예상된다.&lt;br&gt;&lt;br&gt;이렇게 폭염이 잦아지면 온열 질환과 심뇌혈관 질환, 곤충·식품을 매개로 한 감염병과 수인성 감염병, 신종 감염병이 늘어나고 정신 건강도 악화하게 된다. 또 기상 재해로 인한 사망자도 늘어난다.&lt;br&gt;&lt;br&gt;그런데 정부는 기후 변화가 국민 건강에 미칠 영향을 제대로 평가하고 있지 않다고 감사원은 지적했다. 2017년 개정된 보건의료기본법에 따라 질병관리청이 2022년 ‘제1차 기후 보건 영향 평가’ 결과를 내놨으나, 장래의 국민 건강에 대한 예측은 빠져 있다는 것이다.&lt;br&gt;&lt;br&gt;그래서 감사원은 국내 연구 기관에 별도로 의뢰해, 미래의 폭염으로 인한 사망자 수를 예측해보게 했다. 그 결과, 한국의 폭염 사망자는 2010년대 연평균 54.8명이었으나, 현재의 온실 가스 배출 수준을 유지하는 ‘RCP 8.5’ 시나리오에서 폭염 사망자는 2030년대 165.3명, 2050년대 947.9명에 이어 2080년대에는 2010년대의 30배 수준인 1643.1명으로 늘어나는 것으로 나타났다.&lt;br&gt;&lt;br&gt;온실 가스 감축 정책이 실질적으로 성과를 거두는 경우를 가정한 ‘RCP 4.5’ 시나리오에서도 연평균 폭염 사망자는 2030년대 204.9명, 2050년대 414.4명, 2080년대 635.8명으로 늘어나는 것으로 나타났다. 그러나 그 증가세는 완화돼, 2080년대 사망자는 2010년대의 11.6배 수준일 것으로 전망됐다.&lt;br&gt;&lt;br&gt;털진드기를 매개로 하는 감염병인 쯔쯔가무시증으로 의료 기관을 찾는 사람의 수도 기후 변화로 크게 늘어날 것으로 예측됐다. 2003~2022년에 쯔쯔가무시증으로 의료 기관을 찾는 경우는 전국을 통틀어 월평균 5.6건으로 거의 없었으나, 친환경 기술의 발달로 기후 변화를 완화하는 경우를 가정한 ‘SSP1-2.6’ 시나리오에서도 2080년대에는 월평균 103.6건으로 늘어날 것으로 전망됐다. 다만 기후 변화를 방치하는 SSP5-8.5 시나리오에서는 2080년대에 월평균 16.4건으로 늘어나는 데 그칠 것으로 전망됐는데, 이는 역설적으로 털진드기 유충의 활동 시기인 9~11월의 기온이 너무 높아져버릴 것으로 예상됐기 때문이다.&lt;br&gt;&lt;br&gt;수인성이자 식품을 매개로 하는 감염병인 장염으로 인한 의료 기관 이용 건수는 2003~2022년에는 월평균 2220건이었다. 그러나 SSP1-2.6 시나리오에서는 2080년대에 월평균 9589건으로 늘어나고, SSP5-8.5 시나리오에서도 월평균 9613건으로 늘어나, 어느 시나리오에서도 현재의 4배 이상으로 늘어날 것으로 전망됐다.&lt;br&gt;&lt;br&gt;사람에게 전염될 경우 사망률이 50%를 넘는 조류독감이 국내에서 2100년 이전에 사람들 사이에서 유행할 가능성은 100%로 예측됐다. 어느 시나리오를 따르는지에 따라 유행 가능성이 100%가 되는 시점이 2062년에서 2100년 사이에서 다양하게 나타났을 뿐이다.&lt;br&gt;&lt;br&gt;감사원은 “기후변화에 따른 기온 변화와 대기오염 증가 등은 인간의 생명·신체에 직접 피해를 미치거나 기존 질환을 악화시키는 등 광범위하게 국민 건강에 부정적인 영향을 초래한다”며, 질병관리청에 기후보건 영향 평가 제도를 개선하라고 통보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 업무상 배임 혐의 민희진 불송치 결정… 하이브 “이의신청”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/15/J3I6ODFXGRGLRKIX5GDKO5METM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/J3I6ODFXGRGLRKIX5GDKO5METM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 05:02:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ37RNVTKQ22PWMYPW6QKMVYM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 전 어도어 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 배임 혐의로 고발됐던 민희진 전 어도어 대표에 대해 불송치 결정을 내렸다. 민 대표를 고발했던 하이브는 이의신청을 제기할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 이날 업무상 배임 혐의로 고발된 민 전 대표에 대해 혐의없음으로 불송치 결정했다고 밝혔다. &lt;br&gt;&lt;br&gt;민희진 측도 “1년 이상 진행된 경찰 수사 결과 해당 혐의에 대해 민 전 대표의 위법성이 인정되지 않으며, 이날 경찰로부터 하이브가 고발한 두 건 모두 ‘혐의 없음’으로 불송치 결정이 내려졌다”고 했다.&lt;br&gt;&lt;br&gt;이에 하이브는 공식 입장을 내고 “경찰 수사 이후 뉴진스 멤버들의 계약 해지 선언 등 새로운 상황이 발생했고 관련 재판에서 새로운 증거들도 다수 제출됐다”며 즉각 검찰에 이의신청을 접수하겠다고 밝혔다. 아울러 “민 전 대표 측이 하이브와 관계사 임직원을 대상으로 무분별하게 고소, 고발한 건들에 대해서도 모두 불송치 결론을 받고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 하이브는 작년 4월 자사 레이블 어도어의 민 전 대표가 경영권 찬탈을 시도했다며 민 대표를 업무상 배임 등의 혐의로 고발했다. &lt;br&gt;&lt;br&gt;민 전 대표는 그러나 어도어 최대 주주인 하이브가 80%의 주식을 보유하고 있어 경영권 탈취는 불가능하다고 반박했다. 이와 함께 하이브 홍보 등의 업무를 맡은 임직원을 업무상 배임 혐의로 고발했다. &lt;br&gt;&lt;br&gt;민 대표는 작년 8월 어도어 대표직에서 해임된 이후 하이브와 갈등을 지속하다 어도어 사내이사직에서 물러났다. &lt;br&gt;&lt;br&gt;하이브와 민 전 대표의 갈등은 그룹 ‘뉴진스’와 소속사 어도어 간 전속계약 분쟁으로 번졌다. 뉴진스 멤버 5명은 같은 해 11월 민 전 대표를 14일 이내 복귀시켜달라는 시정 요구가 받아들여지지 않자 전속계약 해지를 통지했다.&lt;br&gt;&lt;br&gt;이에 대해 어도어는 서울중앙지법에 전속계약 유효 확인의 소를 제기했고, 이후 가처분 신청도 냈다. 법원은 올해 3월 어도어가 제기한 가처분 신청을 인용했고 멤버들의 이의신청도 기각했다．&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XWMBEYHNR5EPVD2K2IEKYVUGVY.jpg?auth=f6309a1dfc12d2d40912557dfb1f91e9269181a020ffee712b66da973cb2b624&amp;smart=true&amp;width=1120&amp;height=630" type="image/jpeg" height="630" width="1120">
-        <media:description type="plain">민희진 전 어도어 대표. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>전교조마저...“이진숙 지명 즉각 철회해야” </title>
       <link>https://www.chosun.com/national/education/2025/07/15/U4U55XIKWFCZ5LHDVLBVXJTPLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/15/U4U55XIKWFCZ5LHDVLBVXJTPLU/</guid>
@@ -927,15 +946,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZLZX5ELTBE77JXJDMMXRX5NY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국교직원노동조합(전교조)이 이진숙 부총리 겸 교육부 장관 후보자의 지명 철회를 요구했다. 친여 성향 교원 단체마저 이 후보자에게 등을 돌렸다는 평가가 나온다.&lt;br&gt;&lt;br&gt;전교조는 15일 서울 종로구 창성동 국정기획위원회 앞에서 기자회견을 열고 “공교육을 책임지기에 자격이 부족한 이진숙 교육부 장관 후보자의 지명을 이재명 대통령이 즉각 철회할 것을 강력히 요구한다”고 했다.&lt;br&gt;&lt;br&gt;전교조는 이날 “이 후보자가 제자의 석사 논문을 표절해 학술지에 발표했다는 논란이 일고 있다”며 “범학계 국민검증단은 ‘이 후보자의 논문 표절은 김건희 씨와는 비교할 수 없을 정도로 심각하다’며 사퇴를 촉구했다. 교육부 장관으로서의 자격이 없음을 방증하는 대목”이라고 했다. 전날 11개 교수·학술 단체 연합체인 범학계 국민검증단은 이 후보자를 둘러싼 논문 의혹과 관해 후보자 논문을 전수 검증하곤 논문 표절 문제가 심각하다고 주장하며 “이 후보자는 교육계 양심 회복과 이재명 정부의 성공을 위해 자진 사퇴해야 한다”고 했다. 검증단은 2022년 윤석열 전 대통령의 배우자 김건희 여사의 학위 논문을 검증해 표절로 결론 내린 단체다.&lt;br&gt;&lt;br&gt;전교조는 이날 “인용 없이 자신을 제1 저자로 올린 것은 명백한 표절로 연구윤리를 심각하게 위반한 것”이라며 “후보자는 해당 논문에 대한 실질적 기여는 자신이 했다고 해명하는데, 이는 오히려 지도교수로서 제자의 학위 논문이 잘못됐음을 인정하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;전교조는 또 “이 후보자는 대학 행정 경험과 대통령 공약인 ‘서울대 10개 만들기’에는 관심과 의지를 보였을지 모르나, 유·초·중등 교육에 대한 전문성과 실천 경험이 현저히 부족하다”고 했다. “이 후보자는 자녀를 중학교 시절 미국으로 조기유학 보낸 사실을 스스로 인정했다. 공교육을 불신하고 사교육으로 대표되는 조기유학을 선택한 사람이 공교육의 수장 자리를 맡을 수 없다는 점을 명확히 보여준다”고도 했다. 이 후보자 인사청문회는 16일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강기정 광주시장, 상반기 직무수행 여론조사 긍정평가 특·광역시 1위</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/15/HD5EGKN4VRCJLBC2A5LQ546XFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/HD5EGKN4VRCJLBC2A5LQ546XFQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 04:35:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENYDVKVEHFD7VGPTOPQZ6CL564.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주광역시장. /광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주광역시장이 올해 상반기 직무 수행 평가 여론조사에서 특·광역시 단체장 중 긍정 평가율 1위를 기록했다.&lt;br&gt;&lt;br&gt;15일 여론조사 기관인 한국갤럽이 발표한 ‘2025 상반기 광역자치단체장(시·도지사) 직무 수행 평가’에 따르면 강 시장이 ‘잘하고 있다’는 긍정 평가율이 52%로 특·광역시 자치단체장 중 1위에 올랐다. 강 시장은 전국 시·도지사 중에서는 종합 4위를 차지했다.&lt;br&gt;&lt;br&gt;이번 여론조사는 한국갤럽이 전화 조사원 인터뷰(CATI) 방식으로 18세 이상 국민 1만7707명을 통해 진행했다. 표본오차는 95% 신뢰 수준에 17개 시도별 ±1.4∼7.8%p, 평균 응답률은 15.0%다.&lt;br&gt;&lt;br&gt;강 시장 직무 수행에 가장 큰 선호도를 보인 연령층은 70대 이상으로 60%의 긍정 평가를 받았다. 이어 50대 53%, 30대 52%, 60대와 18~29세 연령대에서 50% 긍정 평가를 받으며 고른 분포를 보였다. 40대 연령층도 47%가 긍정 평가를 했다.&lt;br&gt;&lt;br&gt;강 시장이 ‘잘못하고 있다’는 부정 평가는 33%에 그쳤다. 긍정 응답과 부정 응답의 격차에 따라 숫자가 클수록 긍정 평가 비중이 높음을 뜻하는 ‘순지수’도 특·광역시 지자체장 중에 가장 높은 ‘+19’(긍정 52%-부정 33%)로 나타났다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “이번 여론조사 결과는 군 공항 이전 추진, 복합 쇼핑몰 유치, 무등산 정상 개방, 인공지능(AI) 2단계 사업 등 현안 사업 성과가 반영된 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>환경장관 후보자, 탈원전과 거리두기...“원전과 재생에너지 섞어야”</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/15/YYJDLOWI6JEBPAFLZKWST3LNMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/15/YYJDLOWI6JEBPAFLZKWST3LNMA/</guid>
@@ -943,24 +953,6 @@
       <description/>
       <pubDate>Tue, 15 Jul 2025 04:10:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q52Z5P3PM3GA5X6DJW3FUPPPKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관 후보자가 15일 오전 서울 여의도 국회 환경노동위원회 전체회의장에서 열린 인사청문회에 출석해 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성환 환경부 장관 후보자가 탈(脫)원전 정책을 추진하지 않겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김 후보자는 10일 국회 환경노동위원회 인사청문회에서 “석탄과 석유, 액화천연가스(LNG) 등 화석연료 사용량을 최대한 줄이는 ‘탈탄소 사회’로의 전환이 굉장히 중요한 숙제”라며 “이를 위해서 재생에너지를 적극적으로 활용해야 하는데 재생에너지에는 ‘간헐성’이라는 단점이 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “원전도 위험성이라는 문제가 있다”며 “재생에너지의 간헐성을 줄이고 원전의 안전성을 높이면서 둘을 적정하게 섞는 것이 앞으로 에너지 정책이 돼야 할 것으로 판단한다”고 했다.&lt;br&gt;&lt;br&gt;문재인 정부 당시 서울 노원구청장을 지냈던 김 후보자는 당시 ‘탈원전이 대세’라는 입장을 수차례 밝힌 바 있다. 이와 관련, 김 후보자는 “당시는 2011년 일본 후쿠시마 원전 사고로 세계가 깜짝 놀랐을 때”라면서 “독일 앙겔라 메르켈 총리도 원전을 재가동하려다가 멈춘 바 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “문재인 정부 때는 설계 수명이 다 된 원전은 (운영을) 중단했지만 이재명 정부는 안전성이 담보된다면 (설계수명을 다한 원전도) 계속 운전할 수 있도록 한다는 입장”이라고 설명했다. &lt;br&gt;&lt;br&gt;김 후보자는 원전 계속운전 시 나오는 사용후핵연료를 저장 대상에서 제외하는 ‘고준위 방사성폐기물 관리 특별법’을 대표 발의한 바 있다. 원전의 계속운전을 하지 못하도록 유도해 신규 원전을 짓지 않는 이상 에너지원 중 원전의 비중을 떨어뜨리는 것이 골자다. 그런데 이날은 계속운전이 가능하다는 입장을 낸 것이다.&lt;br&gt;&lt;br&gt;김 후보자는 ’2030 국가온실가스감축목표‘(2030 NDC)와 관련, “한국은 철강과 석유화학에서 (국가 온실가스 배출량) 4분의 1이 배출돼 (두 업종에서) 온실가스 배출량을 빨리 줄이지 않으면 NDC를 달성하기 매우 어렵다”면서 “재생에너지 비중도 너무 낮다”고 했다.&lt;br&gt;&lt;br&gt;현재 수립 중인 ’2035 NDC’에 대해서는 “실현할 수 있는 목표를 세울 수 있느냐가 중요하다”면서 “그간에는 환경부가 목표를 다루고 이행 수단은 산업부에 있는 구조였는데 기후에너지부에서 (목표를) 수립하는 것과 실제로 이행하는 것을 유기적으로 한다는 것이 이재명 정부 목표”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오늘 밤까지 전국에 비…내일은 중부지방에 장대비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/15/23XLB4ZPLVCPVEBULU3V3IX2DY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/15/23XLB4ZPLVCPVEBULU3V3IX2DY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 04:03:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7TLD4VUGKILSDLZJQYQL4F5EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 호우특보가 발효된 충청과 전북 일부 지역에 10~30㎜의 비가 내렸다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동해상에 정체한 저기압의 영향으로 15일 밤까지 전국에 비가 내리겠다. 16일부터는 서해상으로 기압골이 들어오며 중부지방을 중심으로 강한 비가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 15일 저기압과 동풍이 비구름대를 만들며 15일 밤까지 강원도를 중심으로 비가 내리겠다. 15일 예상 강수량은 강원도·충북·영남 10~60㎜, 수도권·충남·호남 10~40㎜, 제주 5~10㎜ 등이다. 저기압에 의한 비는 15일 밤 그치겠다.&lt;br&gt;&lt;br&gt;16일부턴 새로운 비구름대가 들어오며 중부지방을 중심으로 장대비가 내리겠다. 서쪽에서 기압골이 들어오는 가운데, 북태평양고기압 가장자리를 타고 수증기가 대거 유입되기 때문이다. 이에 중부지방 서쪽에 많은 비가 집중되겠다.&lt;br&gt;&lt;br&gt;특히 16~17일에는 얇고 좁은 띠 모양의 전선이 형성되며 거센 국지성 집중호우가 내리는 곳이 있겠다. 중부지방 서쪽 지역에는 16일 오후부터 시간당 30~50㎜의 강한 비가 예상된다. ‘매우 강한 비’의 기준이 시간당 30㎜이며, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;16∼17일 예상 강수량은 경기남부·강원·충청 50~150㎜, 경기남부를 뺀 수도권과 전북 30~80㎜, 경북 20∼70㎜, 광주·전남·경남·대구 10~60㎜, 부산·울산·제주 5~40㎜ 등으로 예보됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘주가조작 의혹’ 삼부토건, 우크라 포럼 어떻게 참여했나... 주최 측 “초청장 먼저 요구”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/OV2OSONGX5GZFNDWX37YAE27AE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/OV2OSONGX5GZFNDWX37YAE27AE/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 03:48:43 +0000</pubDate>
-      <content:encoded>‘삼부토건 주가조작’ 의혹을 수사하는 민중기 특별검사팀은 지난 14일 우크라이나 재건 포럼 참여를 계기로 주가를 띄워 부당 이익을 챙긴 혐의를 받는 삼부토건 전·현직 경영진 4명에 대해 구속영장을 청구했다. 삼부토건 측은 재건 포럼 당시 “초청을 받았다”며 포럼 참여 사실을 홍보했는데, 당시 이 포럼을 준비했던 주최 측 관계자는 “삼부토건이 먼저 초청장을 보내달라”고 했다고 밝혔다. 특검은 삼부토건이 주가를 의도적으로 띄우기 위해 접근했을 가능성이 높다고 보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7XMVQOYSRKSNPW4QIFP77RFR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사팀이 압수 수색을 위해 3일 서울시내에 위치한 삼부토건 사무실로 들어가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 본지 취재를 종합하면, 삼부토건은 2023년 5월 3일 ‘우크라이나 재건 글로벌 포럼’을 기획한 유라시아경제인연합회 측에 재건 포럼 초청장을 먼저 보내달라고 요구했다고 한다. 이 시기는 포럼 개최를 19일가량 앞둔 시점이었다.&lt;br&gt;&lt;br&gt;당시 재건 포럼은 관심 있는 기업이 참가비 100만원을 내면 자유롭게 이름을 올리고 현지에서 활동할 수 있는 방식이었는데, 초청장은 연합회에서 열었던 우크라이나 전후 복구 세미나 및 포럼 등에 꾸준히 참석한 기업을 대상으로 배부됐다고 한다. 그런데 삼부토건은 재건 포럼 개최 사실을 전해 듣고 주최 측에 선제적으로 초청장을 보내달라고 했다는 것이다. 연합회 측은 삼부토건이 2022년 6월 포럼에 참석했던 적이 있는 만큼 이메일로 초청장을 보냈고, 삼부토건은 2주 뒤인 5월 17일 참가비 100만원을 냈다. 5일 뒤인 2023년 5월 22일(현지 시각) 폴란드 바르샤바에서 열린 재건 포럼에 참여했다.&lt;br&gt;&lt;br&gt;그러나 삼부토건 측은 재건 포럼에 참여할 당시 이러한 사정을 정확히 홍보하지 않았다는 게 협회 관계자 설명이다. 당시 기업들은 삼부토건처럼 초청장을 받은 뒤 참가비를 내거나, 국토부와 협의를 통해 참여하는 두 가지 방식으로 포럼에 합류했는데, 이 과정에서 삼부토건 측은 보도자료를 통해 “포럼에 초청됐다”고만 밝혔다는 것이다.&lt;br&gt;&lt;br&gt;재건 포럼 참여 소식이 알려진 직후 삼부토건의 주가는 상한가를 기록하는 등 크게 올랐다. 특검은 이때 조성옥 전 회장, 이일준 회장, 이기훈 삼부토건 부회장, 이응근 전 삼부토건 대표 등 경영진 네 명이 보유 주식을 처분해 수백억 원대 부당 이익을 챙겼다고 의심한다. 지난 14일 이들 네 명에 대한 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;특검은 삼부토건 전현직 경영진이 실제로 재건 사업에 참여할 의도가 없었다고 보고 있는 것으로 전해졌다. 포럼 준비에 관여했던 관계자 여러 명을 불러 조사하면서 “삼부토건 측이 주가 부양을 위해 재건 포럼을 활용했다”는 취지의 진술을 확보한 상태다. 포럼 당시 연합회는 참여 기업이 현지 업체와 양해각서(MOU)를 체결할 때 사용할 표준 가이드라인을 만들고, 포럼 행사장에 있는 연합회 사무국을 거쳐 MOU를 체결할 것을 권장했다고 한다. 그런데 삼부토건 측은 이에 따르지 않으면서 MOU 체결 사실만 홍보했다는 것이다. 삼부토건 측이 체결한 MOU도 다른 기업과 달리 구체적인 사업 시행 계획 등이 담겨 있지 않았다는 게 연합회 관계자의 설명이다.&lt;br&gt;&lt;br&gt;특검은 경영진 네 명의 영장실질심사 대비에 주력하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검, 오늘 왕윤종 前비서관·내일 강의구 前실장 조사</title>
