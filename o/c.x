@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“나무 뽑히고, 도로 침수되고”...많은 비 내린 중부지방 피해 속출</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/16/NHEPTZPEQRFYPDTU5HUAHKAS2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/NHEPTZPEQRFYPDTU5HUAHKAS2U/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 13:32:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6CZTNUHEBI4PKNLEM2P7HHBK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서해안을 중심으로 강한 비가 내린 16일 오후 호우주의보가 내려진 충남 당진시 송산면의 한 지하차도에서 차량 침수 신고가 접수돼 출동한 소방 당국이 안전 조치에 나서고 있다.(충남 당진소방서 제공)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 100㎜ 안팎의 많은 비가 쏟아진 중부지방에 피해가 속출했다. &lt;br&gt;&lt;br&gt;소방당국에 따르면 이날 오후 7시 4분쯤 경기 오산시 가장동 가장교차로 인근 고가도로의 10ｍ 높이 옹벽이 무너져 도로를 달리던 승용차 1대를 덮쳤다. 소방당국은 즉시 대응 1단계를 발령하고 굴착기 2대를 투입해 구조 작업에 나서 1명을 구조했지만 숨졌다. &lt;br&gt;&lt;br&gt;앞서 오후 4시쯤 해당 고가도로 수원 방향 차로에서는 지름 수십㎝ 규모의 포트홀이 발생해 복구 작업이 이뤄졌고, 오후 5시 30분부터는 2개 차로가 통제된 상태였다. 현재는 모든 구간 차량 통행이 전면 제한됐다. &lt;br&gt;&lt;br&gt;오후 8시 6분쯤 경기 구리시 인창동 인창삼거리에서는 직경 50㎝가량의 포트홀(도로 파임)이 발생해 지나던 버스 뒷바퀴가 포트홀에 빠지는 사고가 났다. 다행히 인명 피해는 발생하지 않았다. 최근 재포장한 도로로 관계 당국은 이날 내린 비에 포트홀이 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;인천에서는 오후 9시 기준 모두 15건의 비 피해 신고가 119에 접수됐다. 오후 4시 41분쯤 서구 왕길동 검단사거리역 인근에도 나무가 넘어졌고 서구 경서동에서는 전깃줄이 떨어져 소방 당국이 안전 조치를 했다. 또 계양구, 남동구, 서구 등지 빌라가 물에 잠기고 인천대로와 송내지하차도가 침수돼 소방 당국이 빗물을 빼냈다.&lt;br&gt;&lt;br&gt;충남에서는 오후 9시 현재까지 폭우로 인한 119 신고 27건이 접수됐다. 도로 침수 6건, 주택 침수 3건 등이 접수돼 조치를 취했고, 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;충북에서도 전봇대와 나무가 쓰러지고 배수로가 막히는 등 3건의 피해가 접수됐다. &lt;br&gt;&lt;br&gt;기상청은 경기 평택, 충남 공주·부여·청양·태안·서산·보령·서천·홍성, 전북 군산에 호우경보를 발령했다. 오후 9시 현재 누적 강수량은 전북 군산 149.5㎜, 충남 보령 131.0㎜, 인천 옹진 78.5㎜ 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金총리 “내란 단죄 않으면 세계가 우습게 볼 것”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/07/16/6T2JC4MNQVBABMMOPL55AHWVEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/07/16/6T2JC4MNQVBABMMOPL55AHWVEY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 12:54:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFFFVK37JNPHPHZ35CW376ZFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 16일 오후 경북 경주시 라한셀렉트 호텔에서 열린 제48회 대한상공회의소 하계포럼에서 기조연설을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리는 16일 “내란을 벌인 사람들을 단죄하지 않으면 이 나라는 전 세계로부터 비난받고 우습게 생각될 것”이라며 “단죄하지 않을 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 오후 경북 경주에서 열린 대한상공회의소 하계포럼 기조연설에서 “지난 내란의 시기에 관료로서 가장 책임이 있었던 분들의 무책임 때문에, 이 나라 공무원들이 굉장히 난감한 상황에 빠졌다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;김 총리는 그러면서도 “모두에게 책임을 물을 수는 없다”며 “(책임을 면한 공무원들이) 다시 고무되도록 하고 일할 수 있게 만드는 것이 우리의 과제”라고 했다.&lt;br&gt;&lt;br&gt;김 총리는 한국이 처한 상황이 “(1997년) IMF 위기보다 더한 위기”라고 주장했다. “IMF 때는 어려웠지만 일시적 착란이었고 한국 경제는 구조적인 상승기였다. 반면 지금은 구조적으로 쉽지 않은 하강기에 있다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이런 상황에서 이재명 정부의 과제에 대해 “민생 회복 지원금과 부채 (탕감) 대책을 냈지만, 이것은 경제가 너무나 어렵기 때문에 내세운 응급 처방이고, 장기적으로는 AI(인공지능)와 바이오 산업, 콘텐츠·문화 산업, 방위 산업, 에너지 산업에 집중적이고 혁신적인 투자를 해서 잠재 성장률을 높여야 한다”고 했다. 다만 “이것이 1~2년 내에 바로 성과를 내기 어렵다는 것을 알고 있다”며 “적절한 단기적·중기적 정책도 내야 한다”고 했다. 또 “이 모든 것에 앞서서, 향후 3개월에서 6개월 정도는, 한국 경제의 틀을 규정하는, 트럼프 대통령이 제시한 관세에 대응해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 김 총리는 “제국(帝國)적 사고”가 필요하다고 주장했다. 김 총리는 “우리는 제국을 해본 적이 없고 늘 식민지만 했다”며 “대한민국을 미국의 51번째 주라고 (비판적으로만) 볼 것이 아니라, 미국을 한국의 18번째 자치단체라고 보는 공격적인 관점을 가질 때가 됐다”고 했다. 그러면서 “한국에서 통하면 세계에서 통할 수 있다는 당당한 사고를 갖고 우리 모두가 변화하는 것이 좋다”고 했다.&lt;br&gt;&lt;br&gt;오는 10~11월 경주에서 열리는 APEC(아시아·태평양경제협력체) 정상회의에 대해선 “숙소와 교통, 보안, 문화 행사 모두 한국의 수준이 있기 때문에 잘될 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이어서 “경주 APEC의 목표를 재정의할 때가 됐다”며, APEC을 단순히 무사히 치르는 것을 넘어서는 목표를 정하자고 했다. 김 총리는 “우리의 목표는 ‘K-APEC’”이라며 “APEC 역사에서 없었던 APEC, 한국의 국제 행사 역사에서 없었던 국제 행사를 만들어내야 한다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “‘K-APEC’ 성공의 지표는 숫자”라고도 했다. “APEC이 끝나고 나면 훨씬 많은 관광객이 한국에, 경주에 와야 한다”며 “그러지 않으면 왜 국가가 (APEC 정상회의 개최를 위해) 4000억원씩 쓰겠느냐”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 APEC 준비 상황 점검을 위해 2주 연속 경주를 방문하고 있다. 김 총리는 “이번 APEC은 (다른 APEC과) ‘초격차’를 이루도록, 경주를 찾는 모든 사람이 기대한 것을 열 배 뛰어넘는 ‘악’ 소리 나는 서비스, ‘악’ 소리 나는 전략과 준비로 세계를 놀라게 하자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 김건희 일가 집사 체포영장 발부</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/SD3Q5FPQ2JFSJCFRASOJTFKNVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/SD3Q5FPQ2JFSJCFRASOJTFKNVQ/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 11:41:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEF6FUFT3BWKYVSEMTLJ2YEMXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 김건희 여사 일가의 집사라고 불리는 김모(48)씨에 대한 체포영장을 16일 발부했다.&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀은 이날 김씨에 대한 체포영장이 발부됐다고 밝혔다. 김씨 영장을 심사한 서울중앙지법 영장 전담 판사는 “피의자가 정당한 사유없이 수사기관의 출석요구에 응하지 아니할 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 주식을 보유하고 있던 IT업체인 IMS모빌리티(옛 비마이카)가 2023년 대기업·금융사로부터 ‘수상한 투자’를 받으며 수익을 올렸다는 의혹을 받고 있다. 2010년 대학원에서 김 여사를 처음 만난 것으로 전해진 김씨는 2013년에는 IMS모빌리티 설립에 관여했고 2018년 6월부터 2021년 3월까지는 이 회사의 이사를 지냈다. &lt;br&gt;&lt;br&gt;이 때문에 김 여사가 김씨가 수익을 올리는 데 관여한 것 아니냐는 의혹이 제기된 상황이다. 김씨는 지난 4월 윤석열 전 대통령 파면 직후 베트남으로 출국한 뒤 특검 출석 요구에 응하지 않고 있다.&lt;br&gt;&lt;br&gt;이에 특검은 15일 배임 혐의 등으로 김씨에 대한 체포영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대선 투표사무원 1000여명 개인정보, 동 행정복지센터 게시판에 유출 </title>
+      <link>https://www.chosun.com/national/incident/2025/07/16/HEXWMB2PB5DKDNGR5U7YQJON4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/16/HEXWMB2PB5DKDNGR5U7YQJON4Y/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 11:40:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMRR42BHBGXU6FM4CVREOHJIWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서구청 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·3 대통령선거 당시 투표사무원으로 참여했던 1000여 명의 개인정보가 인천의 한 행정복지센터 홈페이지에 게시됐던 사실이 뒤늦게 확인됐다. &lt;br&gt;&lt;br&gt;16일 인천 서구에 따르면 지난 5월 26일 서구 아라동 행정복지센터 홈페이지에 21대 대통령선거 투표사무원 1066명의 개인정보가 담긴 파일이 게시됐다. &lt;br&gt;&lt;br&gt;서구는 지난 15일 ‘장애인 특별공급 기관 추천 대상자 명단 접수 안내’ 게시물에 투표사무원의 이름과 생년월일, 휴대전화 번호 등 개인정보가 담긴 파일이 잘못 첨부됐다는 사실을 인지하고 삭제 조치했다. 당시 해당 게시물의 조회 수는 31회로 파악됐다. &lt;br&gt;&lt;br&gt;서구는 한 주민의 신고로 해당 사실을 알게 됐다고 설명했다. &lt;br&gt;&lt;br&gt;개인정보 유출에 따른 피해 사례는 아직 확인되지 않은 상태다.&lt;br&gt;&lt;br&gt;서구는 당사자들에게 개인정보 유출 내용을 알리는 한편, 대책반을 구성해 피해 접수 창구를 운영할 방침이다. &lt;br&gt;&lt;br&gt;서구 관계자는 “담당 직원의 착오로 파일이 잘못 올라간 것으로 파악하고 있다”며 “내부 점검을 통해 이런 일이 재발하지 않도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘명태균 공천 개입’ 강혜경 측 “특검 실체적 진실 발견해주길”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/IKKDCEUGANGV5MFU6MZETTZCHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/IKKDCEUGANGV5MFU6MZETTZCHU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 11:59:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SNIBIK23BTH4TH3VDYVPALKNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'명태균 게이트'를 최초 폭로한 전 미래한국연구소 부소장 강혜경 씨가 16일 오전 서울 종로구 KT광화문빌딩에 마련된 김건희 특검 사무실에서 '명태균 PC 및 여론조사 자료' 등 임의 제출 자료를 든 문건일 변호사와 함께 참고인 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 부부와 정치 브로커 명태균씨의 공천 개입 의혹을 처음 폭로한 강혜경씨 측이 16일 특검에서 참고인 조사를 받고 나온 뒤 “특검에서 꼭 실체적 진실을 발견해주십사 요청을 드렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;강씨는 이날 변호인과 함께 오후 6시 43분쯤 조사를 마치고 나왔다. 강씨는 취재진들에게 “(특검) 조사에 성실히 다했다”며 “만약 추가 출석 요구가 있으면 언제든지 나올 것”이라고 했다. &lt;br&gt;&lt;br&gt;오전 10시부터 시작된 이날 조사는 약 9시간 동안 이어졌다. 강씨 측은 명씨가 사용했던 PC와 강씨가 사용한 하드디스크, SSD 및 포렌식 자료도 임의제출했다.&lt;br&gt;&lt;br&gt;강씨 측 변호인은 “강씨가 처음 진술했던 시기가 작년 11, 12월이다보니까 20대 대선 여론조사와 관련해선 구체적으로 진술을 많이 못 했다”며 “대선 관련 공표 여론조사와 비공개 여론조사와 관련된 보충 진술을 하셨다”고 설명했다. &lt;br&gt;&lt;br&gt;다만 강씨 측은 2022년 국민의힘 공천에 윤상현 의원이나 이준석 의원이 관여했다는 의혹 제기에 대해선 특검이 묻지 않았다고 했다. 마찬가지로 연루 의혹을 받는 오세훈 서울시장과 홍준표 전 대구시장에 대해서도 질문하지 않았다며 “아마 추후에 특검에서 조사 시기가 되면 따로 소환을 하지 않을까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;특검은 지난 8일 공천 개입 의혹으로 윤 의원, 김영선 전 의원, 김상민 전 검사 등을 압수 수색했고, 이날 최초 폭로자인 강씨를 시작으로 관련자 조사를 본격화했다. 특검은 김 전 의원과 소환 조사 일정을 조율 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“달리던 차 2대 덮쳤다”...오산서 10m 옹벽 붕괴, 40대 운전자 1명 사망 추정</title>
+      <link>https://www.chosun.com/national/incident/2025/07/16/Q6HQSSHJIBGZ5PVWNZVWGV655I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/16/Q6HQSSHJIBGZ5PVWNZVWGV655I/</guid>
+      <dc:creator>오산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 11:05:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3KDWMPLT62ISEOKJSEKHGACMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 경기 오산 가장교차로 고가도로 옹벽이 폭우로 인해 붕괴, 차량 2대가 깔리는 사고가 발생했다. 현재까지 인명 피해 여부는 정확히 확인되지 않고 있다. 사진은 이날 사고 현장에서 소방대원이 구조작업을 하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 7시 4분쯤 경기 오산시 가장동 가장교차로 인근 도로에서 옹벽이 붕괴돼 차량 2대를 덮치는 사고가 발생했다. 이 중 완전히 매몰된 차량에서 40대 운전자 1명이 숨진 것으로 추정된다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 현재까지 같은 내용의 신고가 총 7건 접수된 가운데 차량 2대가 붕괴된 옹벽 아래에 깔린 것으로 파악됐다. 사고 당시 무너진 옹벽은 약 10m 높이로, 차량 통행이 이뤄지던 도로를 향해 붕괴되며 대형 참사로 이어질 뻔했다. &lt;br&gt;&lt;br&gt;소방당국은 “차량 매몰 및 인명 고립이 우려된다”며 오후 7시 11분 대응 1단계를 발령하고, 지휘차 등 장비 26대와 인력 78명을 현장에 투입했다. 구조 작업에 필요한 굴착기 2대도 급파됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHBBALVCQRMHLK6CFWDAKV3M2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 집중 호우로 경기 오산 가장교차로 고가도록 옹벽이 붕괴돼 차량 2대가 깔리는 사고가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장에서 옹벽은 약 10m 높이에서 도로 방향으로 무너졌으며, 차량 2대를 덮쳤다. 1대는 옹벽에 완전히 깔려 매몰됐고, 이 차량에서 사망 추정자가 발견됐다. 이외 탑승자는 없는 것으로 확인됐다. 경찰은 정확한 신원과 사인을 조사 중이다.&lt;br&gt;&lt;br&gt;나머지 차량 1대는 옹벽 일부에만 덮인 상태였고, 탑승자였던 50대 남성 운전자는 스스로 빠져나왔다. 이 남성은 별다른 외상 없이 생명에는 지장이 없는 상태며, 별도로 119나 112에 신고하지는 않았다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “무너진 옹벽 아래에 차량 2대가 깔린 것이 확인됐고, 구조대원들이 안전 확보를 우선한 뒤 구조를 진행 중”이라며 “정확한 사고 원인과 피해 규모는 추후 확인될 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“교수 갑질에 숨졌다”... 전남대 대학원생 사망 사건 조사</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/07/16/MO76R6XQ2VEV5PFFTJ4N4AOU5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/07/16/MO76R6XQ2VEV5PFFTJ4N4AOU5A/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 10:27:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스스로 목숨을 끊은 전남대 대학원생 사건이 교수 갑질 때문이라는 진정서가 접수돼 경찰과 교육 당국이 조사에 나섰다. &lt;br&gt;&lt;br&gt;16일 광주 북부경찰서에 따르면 전남대학교 대학원생이던 A(26)씨가 평소 연구실에서 교수 2명에게 갑질을 당해 스스로 목숨을 끊었다는 내용의 진정서를 유가족이 제출했다. &lt;br&gt;&lt;br&gt;진정서에는 연구실 업무 과다와 교수의 갑질에 시달렸다는 내용을 자신의 휴대전화에 남긴 A씨 유서 내용 등이 포함됐다. &lt;br&gt;&lt;br&gt;또 A씨는 요일에 상관없이 연구실에 출근해야 했고, 새벽 시간대까지 업무 지시를 받았던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 오후 5시 54분쯤 전남대학교 기숙사에서 A(26)씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;뒤늦게 A씨의 유서가 발견되면서 유족들이 경찰과 학교에 진상 조사를 요구했다. &lt;br&gt;&lt;br&gt;전남대는 A씨가 지목한 두 교수를 곧바로 업무에서 배제시키고 대학원장과 인권센터장 등으로 구성된 진상조사위원회를 꾸려 조사에 착수했다. 경찰도 진정을 토대로 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“‘성평등’ 문구 삭제했다”...충남도의회, 인권조례 개정 재추진</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/16/6VYN6K3J4REQXFLPBSEPSNN6FU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/16/6VYN6K3J4REQXFLPBSEPSNN6FU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 10:56:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFFTVT6A6C7PAP4H2YGQUL6UWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남도의회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남도의회가 보수 기독교계의 반발로 무산된 인권 조례 개정이 다시 추진된다. &lt;br&gt;&lt;br&gt;도의회 행정문화위원회는 16일 제1차 회의를 열어 ‘충남도 인권 기본 조례 일부개정 조례안’을 원안 가결했다.&lt;br&gt;&lt;br&gt;이번 조례 개정안은 지난 회기에 본회의 상정이 무산된 개정안에서 ‘인권, 성평등, 시민사회운동 활동 경력’에서 성평등 부분을 삭제했다. &lt;br&gt;&lt;br&gt;도의회 관계자는 “성평등이라는 용어에 대한 다양한 해석이 제기됐다”며 “조례의 기본 취지나 운영에 영향을 미치지 않는 사안으로 판단해 사회적 수용성을 고려해 조정했다”고 설명했다.&lt;br&gt;&lt;br&gt;충남인권조례 논란은 2022년 8월 충남기독교총연합회를 중심으로 폐지 운동이 본격화되면서 시작됐다. ‘성적 지향’ ‘성별 정체성’ ‘다양한 가족 형태’ 등 차별금지 항목을 문제 삼았다. &lt;br&gt;&lt;br&gt;이후 2023년 3월 조례 폐지를 요구하는 주민 청구 서명부가 도의회에 제출됐고, 도의회는 같은 해 9월 폐지안을 발의했다. 이에 충남도의회는 지난달 기존 조례를 폐지하는 대신 표현을 일부 수정한 개정 조례안을 마련했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“엄마가 빼돌린 시험지로 시험”...경찰, 고교생도 입건</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/07/16/NS5C33GVPFHIDG6WPRE55WVDKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/07/16/NS5C33GVPFHIDG6WPRE55WVDKA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 10:45:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTDN7FUTBBCUXHDNMVUSBIHUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 안동지원에서 영장실질심사를 받고 나오는 어머니./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니와 교사가 짜고 빼돌린 시험지로 기말고사를 치른 고등학생도 입건됐다.&lt;br&gt;&lt;br&gt;경북 안동경찰서는 16일 어머니 등이 빼돌린 시험지를 보고 기말고사를 치른 혐의(위계에 의한 업무방해)로 고등학생 A(18)양을 불구속 입건했다.&lt;br&gt;&lt;br&gt;A양은 이달 초 고등학교에서 치른 기말고사에서 전직 기간제 교사와 어머니가 학교에서 빼돌린 시험지를 보고 시험을 친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 2시부터 A양을 피의자 신분으로 불러 4시간가량 관련 조사를 했다.변호인과 함께 경찰에 출석한 A양은 “범행에 가담한 적이 없다”며 혐의 사실을 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;학교 측은 전날 A양의 성적을 0점 처리하고, 퇴학 처리하기로 내부 의결했다. &lt;br&gt;&lt;br&gt;지난 4일 오전 1시 20분쯤 A양 어머니 B(40대·구속)씨와 전직 기간제 교사 C(30대·구속)씨는 안동시 한 고등학교 행정실에 몰래 들어가 시험지를 훔치려다가 경비 시스템이 작동하며 적발됐다.&lt;br&gt;&lt;br&gt;경찰은 수사 과정에서 이들이 과거부터 학교에 여러 차례 침입한 흔적을 확인했다. &lt;br&gt;&lt;br&gt;행정실장 D(30대·구속)씨는 C씨 요청을 받고 지난달 6월 28일부터 방범카메라 영상을 삭제했고, C씨 지문이 학교 보안시스템에 등록되도록 한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이에 따라 경찰은 D씨에게 증거인멸 혐의를, C씨와 B씨에게는 증거인멸교사 혐의를 추가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오영준 헌법재판관 후보자 “법원 재판 결과도 헌법소원 대상”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</guid>
@@ -760,34 +841,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZK2TC4QB5CPLOXB6L4ZWT7XQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제59회 청룡봉사상 용상(勇賞)을 받은 경남경찰청 신진훈(48) 경위가 상금 절반인 500만원을 경남경찰청 장학회에 기부했다고 15일 경남경찰청이 밝혔다. 신 경위는 “밤낮없이 함께 뛰어준 동료와 경찰 가족 덕분에 상을 받았다”며 “조금이나마 보답하고 싶은 마음”이라고 했다. 신 경위는 작년 5월 태국 파타야에서 한국인 관광객을 살해한 뒤 드럼통에 넣어 유기한 범인 3명을 검거한 공로로 청룡봉사상을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 광주일보 외</title>
-      <link>https://www.chosun.com/national/people/2025/07/16/Y2HURN4AIVFDHNHSI3EIGDQ3U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/16/Y2HURN4AIVFDHNHSI3EIGDQ3U4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;▲광주일보&lt;/b&gt;◇편집국▷편집부 부장 김지영▷예향부 부장 이보람▷디지털·체육부장 김여울◇기획관리국▷부장 백선영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷AD영업1팀장 조재희 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김영열 前 서울경제신문 사장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/07/16/VEA45B3R2VAWTFFIKHC4UHRR6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/16/VEA45B3R2VAWTFFIKHC4UHRR6E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:37:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영열&lt;/b&gt; 前 서울경제신문 사장 별세, &lt;b&gt;윤미자&lt;/b&gt; 남편상, &lt;b&gt;김준섭&lt;/b&gt;·&lt;b&gt;김유섭&lt;/b&gt; 부친상, &lt;b&gt;박현정 &lt;/b&gt;시부상, &lt;b&gt;김규민&lt;/b&gt;·&lt;b&gt;김예림&lt;/b&gt; 조부상=14일21시40분 강남세브란스병원, 발인 17일7시, (02)2019-4000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이철우&lt;/b&gt; 별세, &lt;b&gt;이상면&lt;/b&gt; 前 하나은행 지점장·&lt;b&gt;이상각&lt;/b&gt; 작가 부친상, &lt;b&gt;이구영&lt;/b&gt; 한화파워시스템 대표 장인상=14일20시40분 충남 서산의료원, 발인 17일8시30분, (041)689-7444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조점례&lt;/b&gt; 별세, &lt;b&gt;박종배&lt;/b&gt; 문화매일 호남지역본부장·&lt;b&gt;박정배&lt;/b&gt;·&lt;b&gt;박기배&lt;/b&gt; 레미콘운송조합 전남서남권지부장 모친상=15일10시30분 전남 목포중앙병원장례식장, 발인 17일9시, (061)262-6666&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최광식&lt;/b&gt; 별세, &lt;b&gt;이해정&lt;/b&gt; 남편상, &lt;b&gt;최지우 &lt;/b&gt;변호사·&lt;b&gt;최지성&lt;/b&gt;·&lt;b&gt;최지선&lt;/b&gt; 부친상, &lt;b&gt;이민우&lt;/b&gt; 장인상, &lt;b&gt;윤서원&lt;/b&gt; 시부상=15일5시25분 충북 제천 제일장례식장, 발인 17일8시, (043)645-4114&lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍영자&lt;/b&gt; 별세, &lt;b&gt;성경희&lt;/b&gt; 창녕군 대지면 맞춤형복지팀장 모친상, &lt;b&gt;박시영&lt;/b&gt; 창녕군 행복나눔과 장모상=13일7시 경남 창녕군공설장례식장, 발인 16일10시,(055)533-8510 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;홍유석&lt;/b&gt; 前 세명대 법학대학원장 별세, &lt;b&gt;홍원준&lt;/b&gt; 엔씨소프트 CFO 부사장·&lt;b&gt;홍원상&lt;/b&gt; 녹수플러스 대표 부친상, &lt;b&gt;이서영&lt;/b&gt; 명지병원 신경과장 시부상=15일12시35분 서울성모병원, 발인 17일9시, (02)2258-5940&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“4·18 정신과 이승만의 노고, 모두 자유 향한 목소리”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/16/D3W2WKNJZNAADLZSOEZMYZTKBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/D3W2WKNJZNAADLZSOEZMYZTKBY/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLLJIGMY3VBBVCWBGNGJMJCJYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 성북구 고려대 교우회관에서 열린 ‘고대 4·18 우남포럼’ 출범식에서 참석자들이 기념 촬영을 하고 있다. 포럼 관계자는 “이승만 전 대통령의 건국 이념과 4·18 의거의 정신을 함께 되새기기 위해 해당 포럼을 출범했다”고 밝혔다.
-/고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“우남(雩南) 이승만 전 대통령 노고와 4·18 의거에 나섰던 고려대 학생들의 의지는 다를 게 없었습니다. 모두 자유 대한민국을 향했습니다.”&lt;br&gt;&lt;br&gt;15일 오후 서울 성북구 고려대 교우회관에서 고려대 4·18 학생 의거 세대들이 주축이 된 동문 40여 명이 이 전 대통령을 기리는 ‘고대 4·18 우남포럼’ 출범식을 열었다. 이날 행사장에는 여든을 훌쩍 넘긴 원로들이 중절모를 쓰고 단정한 양복 차림으로 하나둘 들어섰다. 순국선열과 4·18에 참가했던 학생들을 기리는 묵념 시간엔 조용히 고개를 숙였다.&lt;br&gt;&lt;br&gt;이들 고대생은 4·19 혁명에 참여했던 ‘4·19 세대’다. 그러나 이날 이들은 “이승만 정신과 4·18 의거 정신을 함께 기려야 한다”며 ‘통합’을 이야기했다.&lt;br&gt;&lt;br&gt;이번 포럼 출범식에는 총 172명이 이름을 올렸고, 실제 행사엔 원로 인사와 학계 관계자 등 46명이 참석했다. 당시 학생운동의 주역이었던 이용만(92) 전 재무부 장관, 박강수(87) 전 배재대 총장, 장경우(83) 전 헌정회 부회장 등이 발기인으로 참여했다.&lt;br&gt;&lt;br&gt;이날 원로들은 “젊은 시절엔 이 전 대통령을 장기 집권을 꾀한 독재자로만 이해했지만, 시간이 지나며 그의 평가가 지나치게 왜곡돼 있었다는 걸 깨달았다”고 말했다. 이 전 장관은 “한미상호방위조약, 농지개혁, 산업 기반 조성 등은 대한민국 기틀을 세운 이승만 리더십의 성과”라고 평가했다. 박 전 총장은 “우리는 당시 부정과 부패에 맞섰지만, 자유민주주의 자체를 부정한 것은 아니었다”며 “이승만의 건국 정신과 4·18, 4·19 정신은 모순되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;‘고대 4·18 우남포럼’은 다음 달 29일 고려대 안암홀에서 창립 대회를 연다. 이 전 대통령의 건국 철학과 업적을 연구하고, 4·18 의거의 역사적 교훈을 널리 알리는 포럼을 열 계획이다. 포럼은 이날 발기문에서 “이 전 대통령의 국제 감각과 지도력, 그리고 고려대 학생들의 4·18 의거는 모두 자유와 정의를 향한 정신의 또 다른 표현”이라며 “이 두 정신은 대한민국 자유민주주의의 양 축”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>뉴욕 찾는 세계 정상들의 ‘왕궁’, 8년 만에 재개장</title>
       <link>https://www.chosun.com/national/people/2025/07/16/FAY6HK4U2NH5FELGS5U4CI3YPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/16/FAY6HK4U2NH5FELGS5U4CI3YPM/</guid>
@@ -797,60 +850,6 @@
       <content:encoded>허버트 후버 전 미국 대통령, 이승만 전 대통령, 매릴린 먼로, 알베르트 아인슈타인…. 국적도, 직업도 천차만별인 이들을 하나로 묶는 건 ‘월도프 아스토리아’다. 한 세기 넘게 정재계, 외교, 문화의 중심지였던 미국 뉴욕 월도프 아스토리아 호텔이 리모델링을 마치고 8년 만에 영업을 재개한다고 뉴욕타임스(NYT)가 14일 보도했다. &lt;br&gt;&lt;br&gt;월도프 아스토리아의 재개장이 화제가 된 것은 이 호텔이 19세기 말부터 최근까지 뉴욕을 찾은 명사들의 단골 숙소였기 때문이다. 각각 1893년과 1897년에 개장한 ‘월도프’와 ‘아스토리아’ 호텔이 합쳐져 만들어졌고, 1931년 맨해튼 파크 애비뉴에 있는 지금의 자리로 옮겼다. 47층 높이로 지어져 20여 년간 세계 최고층 호텔 지위를 누렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6LPUXBVNJFPLP2IJW3QMBEF5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2000년 9월 7일 김대중(왼쪽) 전 대통령이 미국 뉴욕에 있는 월도프 아스토리아 호텔에서 빌 클린턴 전 미국 대통령과 정상회담을 갖고 있다. 당시 유엔 밀레니엄 정상회의에 참석한 김 전 대통령은 이 호텔에 묵고 있었다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDSLF4I6NVG53FOXWVPHHZDUZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1980년 9월 30일 월도프 아스토리아 호텔에서 열린 모금 행사에 참석한 가수 프랭크 시내트라(맨 왼쪽)와 로널드 레이건(가운데) 전 미국 대통령 부부.(오른쪽 사진)
 /게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 호텔은 유엔 본부와 가까웠고, 국내외 정상들이 자주 이용했기 때문에 자연스레 정치·외교의 중심지가 됐다. 그로버 클리블랜드부터 프랭클린 루스벨트를 거쳐 버락 오바마까지, 역대 미국 대통령이 뉴욕에 방문할 때마다 이곳에 묵었다. 1950년대에는 맥아더 장군이 한동안 이 호텔 스위트룸에서 묵었고, 존 F 케네디 전 대통령이 신혼 첫날밤을 보낸 곳도 이 호텔이다. 월도프 아스토리아의 별칭은 ‘뉴욕의 왕궁’이다. &lt;br&gt;&lt;br&gt;국적을 막론하고 해외 정상들이 뉴욕을 찾으면 묵는 숙소로도 알려졌다. 냉전 시기인 1959년 미국을 찾은 니키타 흐루쇼프 소련 공산당 서기장이 대표적인 예. 양자회담이 이 호텔에서 자주 열리기 때문에 미국 외교의 베이스캠프로 자리 잡았다. 호텔 전면에는 거의 항상 체재 중인 국가원수의 국기와 성조기가 나란히 내걸렸다. 한국 정상들도 월도프 아스토리아와 인연을 맺었다. 초대 대통령 이승만 박사가 1942년 이 호텔에서 한국독립만찬회를 열었다. 당시 걸었던 태극기는 문화재로 등록돼 지금도 국회헌정기념관에서 보관하고 있다. 박정희, 김대중, 노무현, 박근혜 전 대통령 등이 방미 때 묵었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FA4EREBQHZBS3KPVJJONYFSXOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 뉴욕 파크 애비뉴에 있는 월도프 아스토리아 호텔의 외관.
 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직업이나 신분, 국적에 상관없이 성공한 사람이라면 모두 이 호텔에서 교류를 하면서 ‘아스토 민주주의’라는 개념까지 나왔다. 먼로가 ‘7년 만의 외출’을 찍을 때 장기 투숙했고, 아인슈타인도 숙박 명부에 이름을 올린 단골 고객이다. 이 호텔 그랜드 볼룸(연회장)에선 프랭크 시나트라가 노래를 불렀고, 첫 토니상 시상식이 열렸다. &lt;br&gt;&lt;br&gt;월도프 아스토리아의 위상이 예전 같지 않은 건 2014년 중국 안방보험그룹이 19억5000만달러(약 2조7000억원)에 이 호텔을 인수하면서부터다. 뉴욕 방문 때마다 이곳에 묵던 오바마 대통령, 아베 신조 전 일본 총리 등은 2015년 유엔 총회 때 보안을 이유로 숙소를 바꿨다. 어부지리를 맞은 것은 롯데 그룹이 인수한 뉴욕 팰리스 호텔. 오바마 대통령과 여러 정상이 근처의 고급 호텔인 ‘롯데 뉴욕 팰리스’를 찾았다. 2017년 안방보험 자산이 중국 국영 다자보험으로 이관되면서 현재 월도프 아스토리아 소유권은 다자보험이 갖고 있다. &lt;br&gt;&lt;br&gt;월도프 호텔은 2017년부터 고층 객실을 고급 아파트로 바꾸고, 객실 내부를 현대화하는 리모델링 작업을 벌여왔다. 리모델링으로 소형 객실이 사라지고 건물 상층부가 아파트로 바뀌면서 기존 1400여 개의 객실 수는 375개로 줄었다. 오는 9월부터 객실 예약이 가능하다. 하루 투숙료는 객실당 1500달러(약 200만원)부터 시작한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 막심(莫甚)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/16/W7NYKPQK2ZBYBLTBFAJOXMOPWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/16/W7NYKPQK2ZBYBLTBFAJOXMOPWU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F76QBWIC4BEEBCFKX4SBOX4UJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2664] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/07/16/AAO2PCYG35DNBPNWIASETKWA3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/AAO2PCYG35DNBPNWIASETKWA3Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUUJU23QQFH7TLLYNI64S6G4ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 척척 해내다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/16/BARBEN6KVFCHFOSCFGWCDTVFUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/16/BARBEN6KVFCHFOSCFGWCDTVFUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPBLM7QBE5ALTEJWPJX6MYJHUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 이리저리 고르다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/16/TCHE5ZEZ2NG3TK5DFD3MY3AKDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/16/TCHE5ZEZ2NG3TK5DFD3MY3AKDA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZ4SU3Z32ZDWRGNKSERROE32GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] be wiped out</title>
-      <link>https://www.chosun.com/national/nie/english/2025/07/16/AB6Q4IB4IND33BITUQ5FEWUKPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/16/AB6Q4IB4IND33BITUQ5FEWUKPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4IM6FL23FCALOIDUTJJLT7NCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [403] ‘주최’와 ‘주관’</title>
-      <link>https://www.chosun.com/national/nie/2025/07/16/H2LG52Z6CBHTVMPPSSOYURNM2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/H2LG52Z6CBHTVMPPSSOYURNM2U/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON6Z6DAFC5BMFM5VA5DUIUNNBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;*최근 사회적 기업의 날을 맞아 인천시가 주최하고 인천경제센터가 주관한 행사에 많은 기업이 참가했다.&lt;br&gt;&lt;br&gt;기사나 포스터에서 흔히 ‘주최’와 ‘주관’이라는 말을 본 적이 있을 거예요. 둘 다 행사를 준비하는 것 같은데, 두 말의 뜻을 구별할 수 있나요?&lt;br&gt;&lt;br&gt;‘주최(主催)’는 행사나 모임을 처음부터 계획하고 책임지는 쪽이에요. 누가 참여할지, 왜 여는지, 어떻게 행사를 구성할지를 정하고 예산도 마련하지요. ‘이 행사를 열자!’ 하고 결정하고 총괄하는 사람이 바로 주최자예요. 비슷한 말로는 ‘개최’가 있답니다.&lt;br&gt;&lt;br&gt;‘주관(主管)’은 실제로 행사를 준비하고 진행하는 쪽이에요. 시간표를 짜고, 무대나 자리 배치를 계획하고, 행사가 원활히 진행될 수 있도록 운영에 대한 책임을 맡지요. 유의어로는 ‘관리’ ‘감독’ 등이 있어요.&lt;br&gt;&lt;br&gt;이를 건축에 비유해 보면, 주최는 건물을 처음 설계한 건축가입니다. 주관은 그 설계대로 실제로 건물을 짓는 시공자이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;- 주최와 주관은 서로 다른 역할을 수행하지만, 행사 성공이라는 공통 목표를 위해 긴밀하게 협력해야 한다. &lt;br&gt;&lt;br&gt;- 국민권익위원회가 주최하고 세종시가 주관한 청렴 연수에 1000여 명이 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 7월 16일</title>
