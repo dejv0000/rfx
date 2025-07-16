@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 서대문구 증산교 하부도로 양방향 통제…서울 낮까지 50~150mm 비 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/243RA7TBLFBHZG37JUXPR4MKPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/243RA7TBLFBHZG37JUXPR4MKPY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 22:42:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNFQ3CEC5NHEXDQA42IBQKEX5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 7시 40분쯤 서울 서대문구 증산교 하부도로의 모습. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오전까지 중부지방을 중심으로 강한 비가 쏟아지는 가운데 서울 서대문구 증산교 하부 도로가 통제되고 있다.&lt;br&gt;&lt;br&gt;서울시에 따르면, 이날 오전 6시 53분부터 서대문구 증산교 하부도로가 강우로 인해 통제됐다.&lt;br&gt;&lt;br&gt;서울교통정보센터 토피스(TOPIS)는 증산교∼중암교 양방향 증산교 하부도로가 강우로 통제되고 있다며 우회하라고 안내했다.&lt;br&gt;&lt;br&gt;서울시는 하천 범람에 대비해 도림천과 안양천 등 서울 시내 하천 29곳, 둔치 주차장 4곳의 출입을 통제했다. 서울시는 빗물펌프장 36개소를 가동하며 호우 대비에 나섰다.&lt;br&gt;&lt;br&gt;기상청에 따르면 서울에선 이날 낮까지 50mm에서 120mm의 비가 내릴 것으로 전망된다. 시간당 최대 30~50mm의 비가 쏟아질 수 있다는 예측도 내놨다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 충남 시간당 100㎜ 극한호우… 경부선 열차도 중단    </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/6RWFXZRIEREBBJJ4GNII3CUMVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/6RWFXZRIEREBBJJ4GNII3CUMVI/</guid>
+      <dc:creator>김자아 기자, 김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 21:53:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRA63I6BAZHBDIHDXD5IMUTLHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밤사이 충남 서해안 일대에 시간당 100㎜가 넘는 폭우가 쏟아지면서 곳곳이 침수된 17일 충남 당진시 면천면의 하천이 범람하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤사이 충남 서해안 일대에 쏟아진 시간당 100㎜가 넘은 폭우로 하천이 범람하면서 지역 주민들에게 대피령이 떨어지고, 일부 열차 운행이 중단됐다.&lt;br&gt;&lt;br&gt;17일 대전지방기상청에 따르면 전날 오후 6시부터 이날 오전 5시까지 서산 344㎜, 서천 춘장대 266㎜, 태안 238㎜ 등 밤 사이에 200∼300㎜가 넘는 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;서산엔 시간당 107.1㎜의 극한호우가 쏟아졌다.&lt;br&gt;&lt;br&gt;당진에서는 당진천이 현재 범람 중이며, 초대천도 홍수 심각 단계에 접어들어 범람이 우려되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNXUHSEH3BDK5JO5RHIOX7NN6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 새벽 충남 당진에 200㎜ 가까운 물폭탄이 쏟아진 가운데 공무원이 당진천 주변 저지대에 들어찬 물을 양수기로 퍼내고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당진시는 하천 범람으로 피해가 우려되는 봉평리, 모평리, 대운산리 등 지하층·저지대 거주 주민들에게 인근 마을회관으로 대피해달라는 재난문자를 발송했다. 당진시내 초·중·고등학교에는 이날 휴교령도 내려졌다.&lt;br&gt;&lt;br&gt;홍성에서는 갈산천이 범람해&lt;b&gt; &lt;/b&gt;주민들이 안전지대로 대피했다. &lt;br&gt;&lt;br&gt;서산시는 오전 4시15분쯤 “성연면 성연천 범람 우려로 인근 주민분들은 고지대 등 안전한 장소로 대피해주기 바란다”고 문자를 전송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX7YNUJ4NJC7NPYVAJS2F2UAHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전, 서울역 대합실에서 집중호우에 따른 열차운행 중지 및 지연 안내가 게시되어있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 금강지류인 예산 삽교천 구만교와 서계양교, 당진 역천 차운교 부근에는 홍수 경보가 내려졌고 논산, 보령, 부여 지천교, 공주 국재교 부근에는 홍수주의보가 발령됐다.&lt;br&gt;&lt;br&gt;밤사이 많은 비로 충남지역에서는 84가구, 124명의 주민이 인근 마을회관이나 초등학교 등으로 대피했다.&lt;br&gt;&lt;br&gt;폭우 영향으로 대전·충남 지역을 지나는 일부 열차 운행도 중지됐다. 코레일은 ▲경부선 서울역∼대전역 ▲장항선 천안역∼익산역 ▲서해선 홍성역∼서화성역의 일반열차 운행을 일시 중지한다고 밝혔다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “열차 이용객은 반드시 코레일톡이나 홈페이지 등을 통해 열차 운행 상황을 미리 확인해주기 바란다”며 “운행 재개 여부는 기상 상황에 따라 변동될 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;충남 소방본부에 따르면 전날 오후 9시부터 이날 오전 4시까지 모두 302건의 폭우 관련 신고가 접수됐으며, 인명피해는 아직 확인되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NV3QGZACAVDM3BLCSDSUQZCMWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 새벽 충남 당진시 채운동의 한 아파트 단지가 폭우로 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 금산을 제외한 충남권 전 지역에 호우경보가 발령된 상태다. 기상청은 오늘 대전과 세종, 충남에 50∼150㎜, 많은 곳은 180㎜ 이상의 비가 더 내릴 것으로 예보했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TM3OYPKB3BA37C4G7I5RSC2UYI.gif?auth=d76e620d3021ccb9235d58e553d4a8cf3e10e5c6d305cab6062336a07a70c646&amp;smart=true&amp;width=1400&amp;height=787" type="image/jpeg" height="787" width="1400">
+        <media:description type="plain">폭우3-gif</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>전국 매우 강한 비…수도권 최대 180㎜ 쏟아진다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/PVDJVVUQZ5FMHKCDDLPLEXT6UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/PVDJVVUQZ5FMHKCDDLPLEXT6UQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 21:43:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZCG75IAXNNXLBBNL5OQHTVOWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 전역에 호우주의보가 발효된 16일 서울 노원구 상계동 거리에서 시민들이 내리는 비를 맞으며 횡단보도를 건너고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 전국 대부분 지역에 비가 오는 가운데 특히 중부지방과 전라권을 중심으로 매우 강하고 많은 비가 쏟아지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중부지방과 전북 북서부에 호우특보가 발효된 가운데, 중부지방 중심으로 돌풍과 함께 천둥·번개를 동반한 시간당 20~80㎜ 내외의 매우 강한 비와 많은 비가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;이날 오전 4시 기준 경기도(평택, 안성, 화성), 충청남도(금산 제외), 충청북도(청주, 괴산, 충주, 진천, 음성, 증평), 제주도(제주도산지), 세종에는 호우경보가 발효됐다. 또 서울과 인천, 경기도(평택, 안성, 화성 제외), 강원도(영월, 평창평지, 횡성, 원주, 철원, 화천, 홍천평지, 춘천, 인제평지, 강원북부산지), 충청남도(금산), 충청북도(보은, 옥천, 제천, 단양), 전북자치도(군산, 익산), 대전에는 호우주의보가 내려졌다.&lt;br&gt;&lt;br&gt;전날부터 이날 오전 6시까지의 누적 강수량은 서울 86㎜, 현덕면(평택) 205.5㎜, 공도(안성) 175.5㎜, 풍도(안산) 160.5㎜ 등이다. 강원도의 누적 강수량은 부론(원주) 101.5㎜, 아홉싸리재(홍천) 101.0㎜, 충청권 서산 419.5㎜, 태안 330.0㎜, 아산 291.0㎜, 원효봉(예산) 284.5㎜, 세종 145.3㎜, 대전 123.0㎜, 전라권 어청도(군산) 164.0㎜, 제주도 진달래밭(서귀포) 86.5㎜ 등이다.&lt;br&gt;&lt;br&gt;이날 예상 강수량은 △서울‧인천‧경기 50~120㎜(많은 곳 경기 남부 180㎜ 이상) △서해5도‧강원동해안 5~40㎜ △강원 내륙·산지 50~100㎜(많은 곳 강원 중·남부내륙 150㎜ 이상) △대전‧세종‧충남‧충북 50~150㎜(많은 곳 대전‧세종‧충남 180㎜ 이상) △전북 30~100㎜(많은 곳 전북서부 150㎜ 이상) △광주‧전남 20~80㎜(많은 곳 전남북부서해안 100㎜ 이상) △부산‧울산‧경남‧경북북부내륙 30~80㎜(많은 곳 지리산부근 100㎜ 이상) △대구‧경북(경북북부내륙 제외) 10~60㎜ △울릉도‧독도 5~20㎜ △제주도산지‧중산간 30~80㎜(많은 곳 산지 100㎜ 이상) △제주도(북부‧산지‧중산간 제외) 20~60㎜다.&lt;br&gt;&lt;br&gt;기상청은 “17‧18일은 전국 대부분 지역에서 시간당 30~50㎜(경기남부, 충청권 50~80㎜(일부 충남권 80㎜ 이상)), 19일은 남부지방 중심 시간당 30~50㎜(남해안, 지리산부근 50~80㎜)의 매우 강하고 많은 비가 내리는 곳이 있겠다”고 밝혔다. 이어 “매우 강하고 많은 비가 예상되니 각별히 유의하기 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S5DVHOUNQRFAHKG4G7RBDWZ7QA.gif?auth=6c019650a9e37a0edad79d6015a3c6a077cac781af47c40d323648ed8e8b69cb&amp;smart=true&amp;width=900&amp;height=600" type="image/jpeg" height="600" width="900"/>
+    </item>
+    <item>
+      <title>밤새 경기남부·충청 쏟아진 ‘물폭탄’…중대본 2단계·위기경보 ‘경계’ 격상 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/J23CCQ36NBCYLGJSF5CT4GXWTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/J23CCQ36NBCYLGJSF5CT4GXWTI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 22:27:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYZ64FKS65GQFGMJAFDAIWIWCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서해안을 중심으로 강한 비가 내린 17일 새벽 충남 서산시 성연면 오사삼거리가 폭우로 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기남부와 충청지역 등 중부지방을 중심으로 호우경보가 발표되고 많은 비가 내리면서 행정안전부가 17일 오전 4시부터 중앙재난안전대책본부(중대본)를 1단계에서 2단계로 격상했다. 호우 위기경보 수준도 ‘주의’에서 ‘경계’ 단계로 상향했다.&lt;br&gt;&lt;br&gt;호우로 인한 사고가 잇따르고 있다. 행안부에 따르면 전날 오후 7시쯤 겨익 오산시 가장교차로 고가도로의 10m 높이 옹벽이 무너지며 아래 도로를 지나가던 승용차 한 대를 덮쳐 58세 남성 1명이 사망했다.&lt;br&gt;&lt;br&gt;밤사이 시간당 100㎜가 넘는 폭우가 쏟아진 충남 서해안 일대에서는 곳곳에서 침수 피해가 발생했다. 전날 오후 9시부터 이날 오전 4시까지 모두 302건의 폭우 관련 신고가 접수됐다. 보령과 서산, 당진, 부여, 서천 등 5개 시·군에는 79세대 116명이 호우로 피난했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCPGFHOSYROXFE247AU3X6ZBAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서해안을 중심으로 강한 비가 내린 17일 새벽 충남 당진시 채운동의 한 아파트 단지가 폭우로 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호우로 인한 통제도 이어지고 있다. 풍랑주의보에 따라 전남 목포와 율도·홍도를 잇는 항로 등 10개 항로 15척의 배가 출항이 통제됐다. 국립공원도 10개 공원 248개 구간에서 진입이 제한됐다.&lt;br&gt;&lt;br&gt;일부 일반 열차는 운행을 중단했다. 코레일은 경부선 서울역∼대전역 구간, 장항선 천안역∼익산역 구간, 서해선 홍성역∼서화성역 구간 일반열차 운행을 일시 중지한다. 도시철도 1호선 전동열차는 평택역에서 신창역 구간이 운행이 일시 제한된다.&lt;br&gt;&lt;br&gt;폭우가 쏟아진 충남 지역에선 119 신고도 빗발쳤다. 충남 소방본부에 따르면 전날 오후 9시부터 이날 오전 4시까지 모두 302건의 폭우 관련 신고가 접수됐다. 인명피해는 아직 확인되지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김민재 중대본부장(행안부 장관 직무대행)은 충남 서산, 당진, 태안 등 강수가 집중되고 있는 지역은 재난문자 등을 통해 새벽시간 외출 자제와 위험지역 접근금지와 같은 국민 행동 요령을 집중 홍보하라고 지시했다.&lt;br&gt;&lt;br&gt;인명피해 예방을 최우선 목표로 하천범람 등 위험징후 포착 즉시 지자체, 경찰, 소방 등 관계기관과 협업해 선제적인 통제와 주민대피 등 안전조치를 취하라고 강조했다.&lt;br&gt;&lt;br&gt;김민재 중대본부장은 “정부는 중앙재난안전대책본부를 중심으로 심야 시간대 상황관리에 만전을 기하는 등 재난 대응에 총력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산림청, 대전·세종·충남북 산사태 위기 경보 ‘심각’ 상향</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/E4VQR5ND2FDENLEXA3KVBUY57M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/E4VQR5ND2FDENLEXA3KVBUY57M/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 22:24:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3QVAH6GBRM6VMMNLNNAJBSXE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 새벽 충남 당진에 200㎜ 가까운 물 폭탄이 쏟아진 가운데 당진천이 둑 바로 아래까지 차올랐다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산림청은 17일 오전 6시30분을 기해 대전·세종·충북·충남지역의 위기 경보를 ‘경계’에서 ‘심각’ 단계로, 경기·강원은 ‘주의’에서 ‘경계’ 단계로 상향 발령했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울‧인천‧부산‧대구‧광주‧울산‧전북‧전남‧경북‧경남‧제주는 ‘주의’ 단계가 유지된다.&lt;br&gt;&lt;br&gt;현재 충청남도(금산 제외), 충청북도(청주, 괴산, 충주, 진천, 음성, 증평), 세종 지역에는 호우경보가, 대전에는 호우주의보가 발효된 상태다.&lt;br&gt;&lt;br&gt;기상청은 이날 중부지방과 전북 북서부에 호우 특보가 발표된 가운데, 중부지방을 중심으로 시간당 20∼50㎜(충남 남부 서해안 80㎜ 이상)의 매우 강한 비와 많은 비가 내리는 곳이 있겠다고 예보했다. 특히 충청권에 50∼150㎜(많은 곳 180㎜ 이상)의 많은 비가 내릴 것으로 예보됨에 따라 산림청이 위기 경보를 상향 발령한 것이다.&lt;br&gt;&lt;br&gt;임상섭 산림청장은 “금일 새벽 충청권을 중심으로 선행 강우가 많았으며 중부지방 중심으로 많은 비가 예보된 만큼, 국민 여러분께서는 긴급재난문자(CBS), 마을방송 등 안내에 귀 기울여 주시고, 가급적 야외 활동을 자제해야 한다”며 “대피 명령 시 산림과 인접한 지역에 거주 중인 분들은 마을회관 등 지정된 대피소로 대피해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 국토부 “강상면으로 종점 바꾸면 편의 봐주겠다”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/17/VZQBYMVWP5FC5DL7KJM5KGKZQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/VZQBYMVWP5FC5DL7KJM5KGKZQM/</guid>
@@ -666,15 +715,6 @@
       <content:encoded>한국영어교육학회(회장 이정원)는 오는 17~18일 대한상공회의소 국제회의장에서 창립 60주년 기념 여름 국제학술대회를 개최한다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;이번 학술대회 주제는 ‘현대 세계에서의 영어학습과 영어교육을 위한 통찰과 전망’이다. &lt;br&gt;&lt;br&gt;17일엔 김태영 중앙대 교수와 김신혜 계명대 교수가 각각 ‘한국 영어교육의 역사적 진보’와 ‘영어 학습자의 교사 되기: 정체성, 동기, 회복력 이야기’를 주제로 기조강연을 한다. 18일엔 싱가포르 국립교육원 크리스틴 고 교수가 ‘언어학습과 사용에서 메타인지적 이점’을 주제로, 홍콩이공대학 광웨이 후 교수가 ‘언어교육에서 언어 문화적 능력 포함하기: 비지니즈 영어 사례’를 주제로 기조 강연을 한다.&lt;br&gt;&lt;br&gt;이번 학술대회에서는 영어 격차(English divide)가 심화된 공교육 문제, 입시·취업 등을 위한 시험 위주 영어학습, 인공지능(AI) 기반 디지털 영어학습의 도입, 한국 영어교육의 미래 방향성 등이 논의된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>올 상반기 고향사랑기부 모금액 349억원…1년 전보다 75% 늘어</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/16/6TLXAH4XFVBVVHS457XIXIMOKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/6TLXAH4XFVBVVHS457XIXIMOKY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 05:29:01 +0000</pubDate>
-      <content:encoded>행정안전부는 올해 상반기 고향사랑기부 모금액이 348억8000만원으로 집계됐다고 16일 밝혔다. 200억원 수준이던 1년 전보다 75% 늘어난 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLYCAUP7ZX6SJPR2MKU2DFKOUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 9월 4일 경기도 고양시 일산 킨텍스에서 열린 고향사랑기부제 박람회에서 참관객들이 각 지역 대표 답례품을 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고향사랑기부제는 지방자치단체에 기부하면 그에 따른 세액 공제와 답례품을 받을 수 있는 제도다. 2023년부터 시작했다.&lt;br&gt;&lt;br&gt;행안부에 따르면, 올해 상반기 고향사랑기부금으로 348억8000만원이 모였다. 1년 전(199억8000만원)보다 75% 늘었다. 모금 건수 역시 27만9000여 건으로 1년 전보다 90% 늘었다.&lt;br&gt;&lt;br&gt;월별로는 3월 98억2000만원, 4월 85억9000만원 등 전체의 절반 이상이 3~4월에 모금됐다. 행안부 관계자는 “지난 3월 발생한 산불 피해에 따른 대국민 기부가 영향을 준 것으로 보인다”고 했다. 행안부에 따르면, 3~4월 전체 모금액의 45%가 산불 피해를 입은 특별 재난 지역 8곳에 집중됐다.&lt;br&gt;&lt;br&gt;금액별로는 전액 세액 공제를 받을 수 있는 상한선인 10만원이 전체의 83.9%로 대다수를 차지했다.&lt;br&gt;&lt;br&gt;지자체의 특정한 사업을 지정해 기부할 수 있는 ‘지정 기부’는 지난해 6월 도입 후 약 1년간 누적 모금액 123억원을 달성한 것으로 나타났다.&lt;br&gt;&lt;br&gt;행안부는 하반기에도 오프라인 답례품 신청이나 기부 확인증 발급 등 제도 개선을 추진한다는 계획이다.&lt;br&gt;&lt;br&gt;김민재 행정안전부 차관은 “앞으로도 기부 활성화를 위한 제도 개선을 꾸준히 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹 구속 적부 심사, 18일 오전 10시 15분</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/722RXNRSU5FEVCEMML7QHZVC3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/722RXNRSU5FEVCEMML7QHZVC3Q/</guid>
@@ -682,15 +722,6 @@
       <description/>
       <pubDate>Wed, 16 Jul 2025 05:19:09 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘쇠봉 들고 서부지법 난입’ 30대·60대 1심서 나란히 실형 선고</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/16/7QUDHACO6RFGTLAP4VURQJDYBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/7QUDHACO6RFGTLAP4VURQJDYBU/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 05:01:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GDPITYNANT3ECPTPI7PDXNYH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 19일 발생한 서부지법 난입 사태와 관련, 30대와 60대 남성이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독(재판장 박지원)은 16일 특수건조물침입 등 혐의를 받는 남모(36)씨와 이모(63)씨에 대한 선고기일을 열고 각각 징역 1년 4개월과 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;남씨는 지난 1월 19일 새벽 윤석열 전 대통령에 대한 구속영장이 발부되자 서부지법에 난입해 기물을 파손한 혐의를 받는다. 경찰에게 빼앗은 방패로 법원 외벽 타일을 부수거나 소화기를 집어 들어 법원 1층 당직실 창문을 깨뜨린 혐의, 쇠봉을 휘둘러 법원 1층의 서예미술품 액자 등을 파손한 혐의 등도 받는다.&lt;br&gt;&lt;br&gt;재판부는 남씨의 혐의가 모두 인정된다고 봤다. 재판부는 “남씨가 공용물건손상금을 형사공탁한 점을 고려하면서도 다수의 사람들과 위험한 물건으로 공용물건을 훼손한 점, 공용물건손상 혐의를 부인한 점 등을 양형에 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 지난 1월 19일 새벽 깨진 유리창을 통해 법원 2층까지 진입한 혐의를 받는다. 통로에서 경찰관이 뒤로 밀려나도록 몸으로 밀어 폭행했다며 특수공무집행방해 혐의도 받았다. &lt;br&gt;&lt;br&gt;재판부는 특수건조물침입 혐의에 대해서는 유죄로 인정하나, 이씨가 경찰관을 몸으로 밀었다고 인정할 만한 증거가 부족하다고 보고 특수공무집행방해 혐의에 대해서는 무죄로 판단했다. 재판부는 “이씨가 시위대 선두에서 건물로 나아간 점, 법원 청사 내부에서 쇠봉을 휴대한 점 등을 양형에 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난 1월 19일 벌어진 서부지법 난동 사건으로 100명 가까이 재판에 넘겨진 가운데, 1심 선고가 속속 진행되고 있다. 법원에 침입한 피고인들에게는 현재까지 모두 징역 1~4년의 실형이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고용장관 후보자 “장관 되면 노란봉투법 곧바로 추진”</title>
@@ -729,15 +760,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMLNAYXNBZ445PXJUW5JZE6B5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법, 고법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 여성에게 사귈 것처럼 접근해 심리적으로 지배한 뒤, 여성의 부모로부터 현금 등 100억원 상당을 뜯어낸 20대에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사11부(재판장 이영철)는 16일 특정경제범죄가중처벌법 위반 혐의(사기)로 재판에 넘겨진 A씨에게 징역 20년을 선고했다. 또 A씨가 빼돌린 현금 중 일부를 보관한 20대 B씨에게는 징역 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월쯤 인터넷 커뮤니티를 통해 알게 된 20대 여성 C씨에게 접근해 사귀는 척 속이며 심리적으로 지배하기 시작했다. 이후 재력가인 C씨의 부모 등으로부터 현금 등 100억원가량을 받아 가로챈 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 100억원 중 70억원가량을 자금 추적이 어려운 상품권으로 바꿨고, 개인 상품권 매매 업자에게 되팔아 현금화한 뒤 숨긴 것으로 조사됐다. 이 중 일부는 B씨에게 넘긴 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “피해액이 크고, 정상적인 사기 범행이 아니었다”며 “피해자들의 경제적 기반을 흔드는 데 그치지 않고 인격적으로 말살·파탄시켰고, 피해자가 엄벌을 탄원하고 있는 점 등을 종합적으로 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>청주·대전 편의점 등 6곳 돌며 강도질…3명 체포, 2명은 10대  </title>
-      <link>https://www.chosun.com/national/regional/2025/07/16/H3XAHZX6RRGMJMFP7I2LDWIPOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/16/H3XAHZX6RRGMJMFP7I2LDWIPOQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 04:02:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FTUISTLZDHJELX6W5GW5V5XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 중부경찰서는 16일 편의점 등을 돌며 직원을 협박·폭행한 뒤 금품을 빼앗은 혐의(특수강도치상)로 20대 1명, 10대 2명 등 3명을 붙잡아 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 전날 밤부터 이날 새벽까지 충북 청주와 대전 중구 선화동 일대 슈퍼와 편의점 등 6곳을 돌며 혼자 있는 업주를 위협하거나 폭행한 뒤 모두 현금 61만원과 담배 3보루 등을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 인상착의와 이동 동선을 파악해 이날 오전 6시30분쯤 대전 중구 대흥동의 한 모텔에 있던 이들을 긴급 체포했다.&lt;br&gt;&lt;br&gt;이들은 주로 편의점 ATM 이용 방법 등을 물어보며 업주에게 도움을 청한 뒤, 다가오는 업주의 몸을 뒤에서 붙잡는 방식으로 움직이지 못하게 한 뒤 금품을 빼앗아 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;업주의 저항이 심한 곳에서는 범행이 미수에 그치기도 했는데, 이들이 흉기로 위협하기도 했다는 신고가 접수된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “10대 두 명은 모두 미성년자이며, 이들을 상대로 정확한 관계와 흉기 사용, 추가 범행 여부 등을 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘尹 수감' 서울구치소, 내란특검 향해 “인치 집행할 인력 보내라”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/U4PRVVEHWNDQRPMNHQH374L7DE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/U4PRVVEHWNDQRPMNHQH374L7DE/</guid>
@@ -763,15 +785,6 @@
       <description/>
       <pubDate>Wed, 16 Jul 2025 02:57:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7DWDWYB2BODDAIGR7FCLSMXEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관 후보자가 16일 서울 여의도 국회 환경노동위원회에서 열린 인사청문회에서 의원 질의에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 김영훈 고용노동부 장관 후보자 인사청문회에서 ‘북한 주적론’이 도마에 올랐다. 김 후보자가 이에 대한 정리된 입장을 밝히지 않자, 국민의힘은 자리를 떴다.&lt;br&gt;&lt;br&gt;이날 조지연 국민의힘 의원은 국회 환경노동위원회에서 열린 고용부 장관 인사청문회에서 김 후보자에게 ‘대한민국의 주적’이 무엇인지 물었다. 김 후보자는 “대한민국을 위험에 빠뜨리는 모든 세력”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 전날 정동영 통일부 장관 후보자는 인사 청문회에서 북한은 “주적이 아니라 위협”이라고 말했고, 안규백 국방부 장관 후보자는 “주적이 맞는다”고 밝혔다. 같은 시기에 나온 두 장관 후보자의 발언이 엇박자를 보인 것이다.&lt;br&gt;&lt;br&gt;김 후보는 이날 “통일부 장관 후보자의 의견에 동의한다”면서도 “국방부 장관 후보자 말씀에 동의한다”고 했다. 그러면서 “(해당 분야는) 제 전공이 아니기 때문에 통일부 장관 후보자 말씀에 동의한다고 한 것이고, 국방부 장관 말씀 중 ‘북한군’이 주적이라는 점에 동의한다”며 “이 이상으로 크게 생각을 정리할 수 있을 진 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 국민의힘 의원들은 정회를 요청했다. 북한 주적론에 대해 김 후보자가 정리된 견해를 밝힐 필요가 있다고 판단했기 때문이다. 김소희 국민의힘 의원은 “후보자 답변이 왔다 갔다 한다”며 “고용부 장관이 저런 생각을 갖고 있으면 (고용노동부가) 북한 노동당 남한 지부가 될 것 같다. 이런 우려를 해소해달라”고 말했다.&lt;br&gt;&lt;br&gt;여당 의원들은 고용부 장관 인사청문회에서 북한 주적론에 관한 후보자의 견해를 묻는 것은 적절치 않다고 주장했다. 강득구 더불어민주당 의원은 “전두환 시절 색깔론 프레임으로 몰아가는 게 바람직한지는 국민이 판단할 문제”라고 했다. 김태선 민주당 의원도 “북한이 주적인지 여기고 말고는 정치적인 문제”라며 “이걸로 노동부 장관의 기본 자세를 평가할 수는 없다”고 말했다.&lt;br&gt;&lt;br&gt;국민의힘 의원들은 김영훈 후보자가 북한에 대한 인식을 명확히 정리해 소명해야 한다고 주장하며 인사청문회에서 집단 퇴장했다. 현재 더불어민주당은 단독으로 인사청문회를 진행 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “용인 경전철 사업 실패,  前시장·교통연구원이 배상해야” 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/16/2YWS6XHN3VCZ7NLGIAILLOGTSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/2YWS6XHN3VCZ7NLGIAILLOGTSA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 01:30:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7ILISQG6VGH7PQDD4J2JJY7IA.png"&gt;&lt;br&gt;&lt;br&gt;세금 낭비 논란을 빚었던 용인 경전철과 관련해, 대법원이 무리하게 사업을 추진한 이정문 전(前) 용인시장과 수요 예측을 잘못한 한국교통연구원의 손해배상 책임을 인정한 판결을 확정했다. 2013년 10월 주민소송이 제기된 지 12년 만이다. 용인시는 60일 이내에 이 전 시장과 교통연구원에게 손해배상을 청구해야 한다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 16일 용인시민 8명이 낸 주민소송 재상고심에서 ‘용인시가 이정문 전 시장, 교통연구원과 소속 연구원 3명에게 214억원의 손해배상을 청구하라’고 한 원심 판결 가운데 이 전 시장과 교통연구원에 대한 부분을 확정했다. &lt;br&gt;&lt;br&gt;대법원은 다만 당시 교통연구원 소속 연구원 개인들에게 배상 책임을 묻는 것은 신중해야 한다며 이 부분만 파기하고 서울고법으로 돌려보냈다. 대법원은 “교통연구원이 수요 예측 용역을 불완전하게 이행했고 이로 인해 용인시가 손해를 입었음은 알 수 있지만, 연구원들 개인이 위법한 행위를 했다고 인정하기는 어렵다”고 했다. 서울고법은 연구원 3명이 214억원의 배상 책임을 같이 져야 하는지만 다시 심리하면 된다.&lt;br&gt;&lt;br&gt;용인시는 2004년 캐나다 봄바디어 컨소시엄과 경전철 사업 협약을 체결하면서, 30년간 운임 수입이 수요 예측치의 90%에 미달하면 차액을 용인시가 재정으로 메꿔준다는 ‘최소 수입 보장’ 규정을 포함했다. 그러나 2013년 경전철이 개통한 첫 해 하루 평균 탑승 인원이 9000명으로 예측치(13만9000명)에 턱없이 못 미치면서 막대한 적자가 났다.&lt;br&gt;&lt;br&gt;여기에 2043년까지 1조원 이상 추가 부담이 예상되자, 용인시 주민들은 경전철 사업에 관여한 전직 용인시장들과 과도한 수요 예측을 한 교통연구원 등에 세금 낭비에 대한 책임을 묻겠다고 2013년 10월 주민소송을 냈다. 주민소송은 지방자치단체에 재정 손해가 발생할 때 주민이 지자체장을 상대로 ‘책임자에게 손해배상을 청구하라’고 요구하는 소송이다.&lt;br&gt;&lt;br&gt;주민들은 애초 1·2심에서 대부분 패소했다. 주민소송 요건에 맞지 않는다거나 중대 과실이 없다는 이유였다. 그러나 2020년 7월 대법원은 “과도한 수요예측에 근거해 사업이 시행됐다면 주민들이 손해배상 청구를 요청할 수 있다”며 파기환송했다.&lt;br&gt;&lt;br&gt;작년 2월 서울고법 파기환송심 재판부는 “(현)용인시장은 이 전 시장, 교통연구원과 소속 연구원 3명에게 214억6800여만원을 용인시에 지급하도록 손해배상을 청구하라”고 판결했다. 재판부는 “이 전 시장은 최소 수입 보장 협약에서 중대한 과실을 저질렀고, 교통연구원과 소속 연구원들은 비(非)합리적 방법으로 수요를 예측하는 과실을 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 이날 “지방자치단체에 거액의 예산 손실을 초래하는 행위애 대해 주문소송을 통해 책임을 추궁할 수 있다고 본 환송 판결 취지에 따라 상고를 대부분 기각했다”고 했다. 다만 “원심은 연구원들의 어떤 구체적 행위가 용인시에 직접적으로 손해를 가했는지 심리한 다음 손해배상 책임 여부를 개별적·구체적으로 판단했어야 한다”며 연구원들 과실을 다시 심리하라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김정일 조문 시도한 고용장관 후보자… “천안함·연평도 장병은 조문한 적 없다”</title>
@@ -826,15 +839,6 @@
       <description/>
       <pubDate>Wed, 16 Jul 2025 02:30:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G44QSPEKBP7BLI6QKW6KIQ57Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 사회부총리 겸 교육부 장관 후보자가 16일 서울 여의도 국회 교육위원회에서 열린 인사청문회에서 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 교육부 장관 후보자가 제자의 학위 논문과 자신이 1저자로 쓴 학술지 논문의 표절률이 높게 나온 것에 대해 “언론에 보도된 것은 학계 상황을 이해하지 못한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;16일 오전 국회 교육위원회에서 열린 이 후보자 인사청문회에서 김문수 민주당 의원이 “카피킬러로 하면 복제율이 높게 나오는데 이공계와 문과의 카피킬러 문제점을 설명해달라”고 질의하자 이 같이 답변했다.&lt;br&gt;&lt;br&gt;이 후보자는 “총장 임용 당시 2007년 이후 논문 100편을 전문가가 검증해서 10% 이하로 판정됐다. 여러 언론에서 2007년 이전 논문이 나왔길래 저도 돌려봤다. 전혀 타당치 않은, 10%를 겨우 넘는 표절률이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “카피킬러는 자료가 계속 겹쳐지기 때문에 유사율이 높아진다”며 “전문가가 하나씩 제외하면서 정확하게 돌려야 진정한 유사율이 나오는 게 정상”이라고 했다. &lt;br&gt;&lt;br&gt;지도 교수가 교신저자가 아닌 1저자로 학술지에 논문을 발표한 거에 대해선 이 후보자는 “국가 프로젝트를 수주해서 연구한 내용이다. 제가 1저자가 되는 건 당연하다”며 “제자가 이를 발전시켜서 본인 학위 논문을 가져가는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제자 집 비밀번호 알아내 몰래 침입,귀금속 훔친 학원장 ‘징역 1년’</title>
-      <link>https://www.chosun.com/national/regional/2025/07/16/GBUUSVJX6JDK5FNEMBEX5MGKVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/16/GBUUSVJX6JDK5FNEMBEX5MGKVM/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 02:47:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CBRQ2UDD2TMAWYLJ7TVNRAJ6TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원 포항지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 가르치던 학생의 집에 몰래 들어가 금품을 훔친 음악학원 원장에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 대구지법 포항지원 형사1단독 박현숙 판사는 절도와 주거침입 혐의로 재판에 넘겨진 50대 A씨에게 징역 1년을 선고했다. &lt;br&gt;&lt;br&gt;판결문에 따르면, A씨는 지난 2월 21일 점심시간쯤 포항시 남구에 있는 자신의 학생 집에 몰래 들어가 120만원 상당의 금반지 등을 훔쳤다. 또 지난 5월 2일에는 같은 동네 또다른 학생의 집에 들어가 다이아 반지 등 3000여 만원의 귀금속을 훔치는 등 지난 2월부터 5월까지 학생 4명의 집에 몰래 들어가 5000여 만원의 금품을 훔친 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 학생들에게 비밀번호를 물어보거나 집에 바래다 주면서 학생이 누르는 비밀번호를 기억했다가 범행에 이용한 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 많은 액수의 빚을 갚기 위해 이 같은 짓을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;박 판사는 “원생들을 상대로 출입문 비밀번호를 알아낸 뒤 귀금속을 훔쳐 처분했는 데 대부분의 피해가 회복되지 않았고, 피해자들로부터 용서받지도 못했다”며 “다만 반성하는 태도를 보이는 점 등을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오늘부터 전국에 많은 비...내일까지 수도권 최대 200㎜</title>
