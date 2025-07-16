@@ -13,6 +13,126 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오영준 헌법재판관 후보자 “법원 재판 결과도 헌법소원 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:31:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26T6HXX4XSCLQFDVR2JMLPUXPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 헌법재판관 후보자에 지명한 오영준 서울고등법원 부장판사. /대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오영준 헌법재판관 후보자가 여당에서 추진하는 ‘재판에 대한 헌법소원(재판소원)’ 제도 도입과 관련해 “재판 결과도 헌법소원의 대상이 될 수 있다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 후보자는 16일 국회 법제사법위원회에 제출한 서면질의 답변서에서 “국민의 기본권 보장에 공백이 발생하지 않게 하기 위해서는 입법·행정·사법 작용 모두 헌법소원 심판의 대상에 포함되는 것이 바람직하다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이어서 ‘대법원 판결을 헌법재판소에서 뒤집을 수 있다고 보는지, 그렇다면 헌재 결정을 대법원에서 받아들여야 한다고 보는지’ 묻는 질의에 대해 오 후보자는 “헌법소원의 인용 결정은 모든 국가기관과 지방자치단체를 기속하므로 헌재가 재판 결과를 뒤집는 인용 결정을 내릴 경우, 대법원은 이를 존중해 받아들여야 할 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 후보자는 “다만 재판에 대한 헌법소원의 도입 여부나 그 범위는 국민의 기본권의 충실한 보장과 국가기능의 효율적 배분, 헌법재판의 역사 등을 종합적으로 고려해 입법자가 결정할 문제”라며 “그 구체적 방법 역시 국민의 대표인 입법자가 합리적으로 판단할 사항”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;오 후보자는 진보 성향 판사 모임으로 알려진 ‘우리법연구회’ 활동과 관련해선 “2001년 연구 목적으로 학술 모임인 우리법연구회에 가입해 2009년까지 활동한 것으로 기억한다”며 “우리법연구회는 현재 해체된 것으로 알고 있다”고 했다. 이어 “국제인권법연구회에는 가입해 활동한 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;김명수 사법부가 국제인권법연구회·우리법연구회 등 특정 연구회 출신들을 법원의 주요 요직에 앉혔다는 논란에 대해서는 “법원 내 일부 연구모임이 정치적 평향성을 갖고 있고 그 회원들이 이른바 요직을 차지한다는 의혹이 있다는 것을 알고 있으나, 법원 내에 정치적 편향성을 갖고 활동하는 연구모임은 없는 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;퇴임 후 거취 계획에 대해선 “영리적인 변호사 활동을 하지 않을 생각”이라며 “학계에 몸 담아 저술활동과 후학들을 가르치는 일을 하면서 법관과 헌법재판관으로 근무하며 쌓은 경험과 지식을 전수하는 데 여력을 사용하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 주택서 불발탄 발견... 군 당국 수거해 조사</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/07/16/SDMD7GXZMFFEDMQB2CGAYT25XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/07/16/SDMD7GXZMFFEDMQB2CGAYT25XY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 10:10:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EECRN5OXKVJ3RP2XA3BJZICACY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭발물제거반(EOD) 대원이 임무수행을 하고 있다.(기사와 관련 없음)/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉의 한 주택 화단에서 군용 불발탄이 발견됐다. &lt;br&gt;&lt;br&gt;16일 소방 당국과 군에 따르면 이날 오후 1시 34분쯤 강원 강릉시 입암동 주택 내 화단에 포탄으로 보이는 물체가 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 군 폭발물처리반(EOD)은 즉각 포탄 수거에 나섰다.&lt;br&gt;&lt;br&gt;수거된 포탄은 81㎜ 박격포 불발탄 1발로, 많이 녹이 슨 상태였다.&lt;br&gt;&lt;br&gt;폭발물이 수거되는 동안 인근 주민 10여명은 만일의 사태에 대비해 안전지대로 대피했다.&lt;br&gt;&lt;br&gt;군 당국 등은 수거한 불발탄의 사용 시기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이용자 정보 6만건 털렸다”...청주랜드 어린이체험관 해킹</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/16/ORPINRVKPZDD3OCYXPWKBGZUDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/16/ORPINRVKPZDD3OCYXPWKBGZUDI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:45:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22FSYT5EBNHHRBRVFA6R3FB2R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해킹으로 이용자 정보 6만여건이 유출된 청주랜드 어린이체험관이 홈페이지 이용 제한을 안내하고 있다./청주시 어린이체험관 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시가 운영하는 청주랜드 어린이체험관 홈페이지가 해킹을 당해 개인정보가 유출됐다. &lt;br&gt;&lt;br&gt;청주시는 청주랜드 어린이체험관 해킹으로 이용자 개인정보 6만여 건이 유출됐다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;지난 15일 행정안전부 산하 한국지역정보개발원 사이버침해대응센터는 다크웹 모니터링 중 해당 홈페이지 사용자 정보를 발견했다. 이후 오후1시 50분쯤쯤 이 같은 사실을 청주시 정보통신과에 통보했다.&lt;br&gt;&lt;br&gt;정보통신과로부터 유출 사고 연락을 다시 전달받은 청주랜드관리사업소는 당일 오후 2시 50분쯤 홈페이지 위탁 관리업체에 관련 내용을 통보하고 긴급 조치를 요구했다. &lt;br&gt;&lt;br&gt;시는 즉시 서버 관리자 계정과 비밀번호를 변경했으며, 오후 9시쯤 해외 IP의 접근을 차단했다.&lt;br&gt;&lt;br&gt;또 추가 피해를 막기 위해 청주랜드 어린이체험관 홈페이지 로그인, 신규 가입, 예약 및 결제 기능도 차단했다.&lt;br&gt;&lt;br&gt;유출된 정보는 이용자 성명, 주소, 이메일, 아이디 등으로 전화번호 및 주민등록번호는 포함되지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;시는 오는 18일 오전까지 피해를 본 모든 사용자에게 개인정보 유출 사실을 안내할 계획이다. 또 개인정보보호위원회 신고 절차를 진행하고 행정안전부와 협력해 구체적인 사건 경위를 파악할 방침이다. &lt;br&gt;&lt;br&gt;이와 함께 민간에 위탁한 어린이체험관 예약 시스템을 정보통신과에서 관리하는 청주시통합예약시스템으로 일원화할 예정이다.&lt;br&gt;&lt;br&gt;시 관계자는 “개인정보 유출 사고로 시민 여러분께 심려를 끼쳐드려 송구스럽다”며 “빠르게 사고를 수습하고 재발 방지에 만전을 기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘10·26 사건’ 김재규 재심 개시…“사법부 치욕의 역사 바로잡아야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/GIEWIBNDD5CARJUD7JHCERW3IM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/GIEWIBNDD5CARJUD7JHCERW3IM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:41:20 +0000</pubDate>
+      <content:encoded>‘10·26 사건’으로 사형당한 김재규 전 중앙정보부장의 형사재판 재심이 16일 시작됐다. 사형 집행 45년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQLYVKEXCM54JOX3ZT7PH67T4M.gif"&gt;&lt;figcaption&gt;&lt;small&gt;10·26 사건 관련자인 김재규 전 중앙정보부장이 1979년 12월 20일 육군본부 계엄 보통군법회의(재판장 김영선 중장)에서 선고공판을 받기 위해 포승에 묶여 걸어오며 웃고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 이날 오전 김재규의 내란목적 살인 등 혐의에 대한 재심 첫 공판을 진행했다.&lt;br&gt;&lt;br&gt;김재규는 1979년 10월 26일 궁정동 안가에서 박정희 전 대통령과 차지철 전 경호실장을 시해한 혐의로 체포돼 내란목적살인·내란미수 혐의로 기소됐다. 1·2심에서 모두 사형을 선고받았고, 대법원은 1980년 5월 20일 상고를 기각하며 사형을 확정했다. 판결 나흘 뒤 사형이 집행됐다.&lt;br&gt;&lt;br&gt;이후 2020년 5월 유족들은 “재판이 정당하게 이뤄지지 않았다” “10·26 사건과 김재규에 대한 역사적 재평가가 필요하다”며 재심을 청구했다. 재심은 수사 검사나 수사관이 구타와 고문 등으로 유죄가 확정됐을 때 청구할 수 있다.&lt;br&gt;&lt;br&gt;재심을 청구한 김재규의 여동생 김정숙씨는 이날 법정에 직접 나왔다. 백발 머리의 정숙씨는 “1980년 당시 오빠가 받은 재판은 사법부의 치욕의 역사”라고 했다. 이어 “당시 오빠가 최후 진술에서 ‘10·26 혁명의 목표는 민주주의 회복과 국민들의 희생을 막기 위한 것’이라고 말한 것을 굳게 믿어왔다”며 “이번 재심은 대한민국 사법부가 스스로 최악의 역사를 바로잡는 계기가 될 수 있다고 믿는다”고 말했다.&lt;br&gt;&lt;br&gt;김재규 측은 당시 군사재판의 절차적 정당성 등을 지적하며, 김재규의 무죄를 주장했다. 김재규 측 변호인은 “1979년 10월 27일 기소 이후 17일 만에 사형이 졸속으로 선고됐다”며 “당시 재판은 피고인의 방어권을 무력화했다”고 했다. 박 전 대통령의 사망으로 발령된 비상계엄은 위헌·위법해, 당시 보안사가 김재규를 체포해 수사할 권한이 없었다고도 했다.&lt;br&gt;&lt;br&gt;아울러 “10·26 사건과 지난해 12·3 비상계엄은 45년 만의 데자뷔”라며 “윤석열이 다시 45년 전 김재규를 불러왔다”고 언급하기도 했다. 다음 공판은 오는 9월 5일에 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박정훈 측 “김계환 ‘尹 격노’ 부인은 온당치 않아…법적 책임 불가피”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/YPMRZ3YUANCMZOPGRO2TZTVZHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/YPMRZ3YUANCMZOPGRO2TZTVZHQ/</guid>
+      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:40:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO376OKTDKQZ6OTMQXDOQC5GVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병대 수사단장인 박정훈 대령이 16일 오후 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 순직 사고 초동 조사를 맡았던 박정훈(대령) 해병대 수사단장 측이 16일 김계환 전 해병대 사령관을 겨냥해 “다른 사람들이 다 (VIP 격노설을) 진술하는데 최후까지 진술하지 않는 건 온당치 않다. 법적 책임이 불가피할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 대령 측은 이날 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 약 4시간 동안 참고인 조사를 받고 나오면서 이같이 말했다. 박 대령 측 김정민 변호사는 “김 전 사령관은 이 일(수사 외압 의혹)을 이렇게 만든 데 상당 부분 악영향을 끼쳤다”며 “특검도 당연히 기소를 염두에 둘 것이고, 가장 먼저 신병 처리되지 않을까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;박 대령은 2023년 8월 채 상병 사망 사고 조사 기록을 경찰에 이첩하는 과정에서 김 전 사령관 등의 이첩 보류·중단 지시를 따르지 않고 이첩을 강행했다가 항명 혐의로 기소됐다. 1심은 무죄를 선고했고, 군 검찰이 항소해 2심이 진행됐지만 특검이 지난 9일 항소를 취하해 무죄가 확정됐다. 박 대령은 항명 수사 과정에서 김 전 사령관에게 “윤석열 전 대통령이 ‘이런 일로 사단장을 처벌하면 누가 사단장을 하냐’고 말했다고 한다. 이보다 더 격노한 적이 없다”는 말을 들었다고 주장하며 이른바 ‘VIP 격노설’을 제기했다. 윤 전 대통령이 2023년 7월 31일 국가안보실 회의에서 ‘임성근 전 해병대 1사단장에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 냈다는 내용이다.&lt;br&gt;&lt;br&gt;윤 전 대통령과 김 전 사령관 등은 그간 격노설을 부인했지만, 특검은 최근 당시 안보실 회의에 참석한 김태효 전 안보실 1차장과 이충면·왕윤종 전 비서관을 조사하면서 “윤 전 대통령이 화를 내는 것을 들었다”는 취지의 진술을 확보했다. 특검은 지난 7일에 이어 17일 김 전 사령관을 추가 소환해 VIP 격노설 등을 확인할 계획이다.&lt;br&gt;&lt;br&gt;박 대령은 “특검 조사에 성실히 임했고, 실체적 진실 발견하는데 큰 도움이 되었으면 좋겠다”며 “향후에도 특검이 부르면 성실하게 조사받겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“밥주기 귀찮아” 생후 18개월 아들 굶겨 죽인 20대…2심도 징역 15년</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/16/YFQIHWHFUJD4PDZNEXVATH5J7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/YFQIHWHFUJD4PDZNEXVATH5J7M/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:37:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHEFQW3C26LZ3MH7JP34WTOCBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 18개월 된 아들을 영양실조로 사망하게 한 혐의로 재판에 넘겨진 20대 여성이 항소심에서도 징역 15년을 선고받았다. &lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 부산고법 형사2부(부장판사 박운삼)는 아동학대범죄의처벌등에관한특례법 위반 혐의로 기소된 A씨의 항소를 기각하고 원심이 선고한 징역 15년을 유지했다. A씨는 지난해 10월 15일 오후 부산 해운대구의 한 아파트에서 생후 18개월 된 아들 B군을 유기·방임해 사망에 이르게 한 혐의로 기소됐다. 사망 당시 B군의 체중은 또래 남아의 정상 체중(11.72kg)의 절반에도 미치지 못하는 4.98kg이었다. &lt;br&gt;&lt;br&gt;B군이 사망하기 사흘 전에는 경련을 일으키는 등 위험 징후가 있었음에도 A씨는 금전적인 문제를 이유로 치료를 하지 않았다. 사건 당일 A씨는 B군에게 밥과 물을 주고 재운 후 집에 혼자 두고 지인과 술을 마시러 나간 것으로 확인됐다. A씨는 B군의 출생신고조차 하지 않았으며 평소에는 B군이 배변을 많이 한다는 이유로 분유도 권장량보다 2~3스푼 적게 준 것으로 파악됐다. 또 A씨는 B군을 향해 “밥 주는 것도 귀찮다” “내 배에서 악귀가 태어났다” “웃는 소리 듣는 것도 지긋지긋하다. 왜 안 죽냐”는 등의 말을 한 것으로 드러났다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난 4월 “A씨가 아이를 양육하기 어려운 형편에 있었다는 점은 인정된다”면서 “하지만 A씨가 행한 범죄는 아동을 살해한 것으로 엄히 처벌받아 마땅하다”고 판시하며 징역 15년을 선고했다. 또 A씨에게 아동 학대 치료 프로그램 이수와 10년간 아동 관련 기관 취업 제한 명령 등을 내렸다.&lt;br&gt;&lt;br&gt;항소심에서 A씨 측은 “피해자가 사망에 이를 것으로 생각하지 못했다”며 살인의 고의성을 부인했다. 그러나 항소심 재판부는 “피해 아동은 죽기 3~4일 전부터 징후가 있었지만 A씨는 제대로 치료하거나 영양을 공급하지 않았다”며 “사망 당시 피해 아동을 치료하거나 영양을 제대로 공급하지 않으면 사망할 수 있다는 것은 누구나 쉽게 예상할 수 있다”며 A씨의 주장을 받아들이지 않았다. 또 “A씨의 딱한 사정이 이해되지만 피해 아동이 다른 사인도 아니고 영양실조로 굶어 죽었다. 원심이 선고한 형은 너무 무겁다고 볼 수 없다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사초 쓰는 자세’ 언급한 조은석, ‘사초팀’ 만들었다</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/CFEPKUOYFBG3RIAXOMDUYVYP7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/CFEPKUOYFBG3RIAXOMDUYVYP7U/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:34:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GATIWQRO4LU5KQFUSY5LJ4ZFF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 ‘내란 수사 백서’를 쓰기로 한 것으로 16일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 내란 특검팀은 소속 검사와 특별수사관 10여 명을 투입해 ‘사초(史草)팀’을 만들고 내란 수사 백서 제작에 나선다. 앞서 조 특검은 내란 특검팀 출범 직후 “사초를 쓰는 자세로 세심하게 살펴 가며 오로지 수사 논리에 따라 특별검사의 직을 수행하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;내란 수사 백서에는 12·3 비상계엄 사태가 발생한 경위와 윤 전 대통령을 포함한 전 정부 주요 인사들의 내란 혐의 등이 구체적으로 담긴다. 사초팀은 관련자 진술과 내란 특검팀의 수사 내용을 토대로 백서를 정리할 계획이다.&lt;br&gt;&lt;br&gt;사초는 공식적인 역사 편찬의 자료가 되는 원고를 뜻한다. 현직 대통령이 내란 혐의로 구속된 것은 헌정사상 초유의 일인 만큼 계엄 발생부터 탄핵, 구속, 기소 등 모든 수사 과정을 기록해 역사적 자료로 후대에 남기겠다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;과거에도 특검팀에서 백서를 발간한 사례는 있다. ‘드루킹 댓글 조작 특검팀’의 허익범 전 특검은 지난 2021년 수사와 재판 과정을 상세히 적은 170쪽 분량의 백서를 냈다. 2016년 ‘최순실 국정농단 특검팀’의 박영수 전 특검도 백서 발간을 검토했다가, 특검이 아닌 더불어민주당에서 제작하기로 해 무산됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘故 이선균 협박' 유흥업소 실장, 1심보다 무거운 ‘징역 5년 6개월’ 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/5ZX2OJTOVZCWFILCYXCU6QAH4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/5ZX2OJTOVZCWFILCYXCU6QAH4E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:58:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDL46HBWKB3G3NFJXP5GMXGR6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이선균 협박해 5000만원 뜯은 영화배우 출신 20대./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우인 고(故) 이선균씨를 협박해 3억여 원을 뜯어낸 유흥업소 실장과 전직 영화배우에게 항소심에서 1심보다 더 무거운 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사항소3부(재판장 최성배)는 16일 공갈 등 혐의로 1심에서 징역 3년 6개월을 선고받은 유흥업소 실장 A(여·31)씨에게 징역 5년 6개월을 선고했다. 지난달 26일 보석으로 풀려났던 A씨는 이날 실형 선고에 따라 다시 법정 구속됐다. &lt;br&gt;&lt;br&gt;재판부는 같은 혐의로 1심에서 징역 4년 2개월을 선고받은 전직 영화배우 B(여·30)씨에겐 징역 6년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “(A씨는) 자신을 신뢰하고 있는 피해자(배우 이씨)를 상대로 비열하다고 할 만큼 공갈 범행을 했다”며 “자신의 마약 혐의에 연루된 것처럼 속이는 등 피해자 사망의 원인을 제공했다는 것을 부인할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피해자 유가족은 지금도 극심한 고통을 호소하고 있는 데다 피해도 회복되지 않았다”며 “보석으로 석방된 이후 태도를 봐도 피고인이 진심으로 반성하고 있는지 의문이 든다”고 판단했다.&lt;br&gt;&lt;br&gt;B씨에 대해선 “피고인은 마약 범행을 빌미로 유명 배우를 공갈하려다 미수에 그쳤고, 갈취금을 나눠 받는 데 실패하자 직접 공갈 범행을 했다”며 “대포 유심칩을 여러 개 매수하는 등 목적 달성을 위해 수단과 방법을 가리지 않은 사악한 범죄를 저질렀다”고 했다. 이어 “유명 배우에게 공포심을 일으키고 극단적 선택을 하는 원인을 제공한 것으로 볼 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 9월 이씨에게 전화해 “휴대전화가 해킹돼 협박을 받고 있고, 입막음용으로 돈이 필요하다”며 3억원을 뜯어낸 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;A씨를 협박한 해킹범은 같은 아파트에 살며 친하게 지내던 B씨로 뒤늦게 드러났다. B씨는 A씨가 필로폰을 투약한 정황뿐만 아니라 이씨와 친하게 지낸다는 사실을 알고, 불법 유심칩을 이용해 범행했다. &lt;br&gt;&lt;br&gt;B씨는 그러나 A씨로부터 돈을 받지 못하다 2023년 10월 이씨를 협박해 1억원을 요구하고, 5000만원을 뜯어냈다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>골목서 잠들었다 딱 걸렸다… 배우 박상민, 세번째 음주운전 2심도 집유</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/16/WPVSK2NKSBFC3OLEOOGCUBRQDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/WPVSK2NKSBFC3OLEOOGCUBRQDI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:25:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RI6GGSW4XNP2VI5DWSQOBEC6EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박상민이 2024년 10월 25일 오전 수원지법 안양지원에서 열린 결심공판에 출석한 뒤 법원을 빠져나가고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전 혐의로 기소된 배우 박상민(55)씨가 항소심에서도 징역형의 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;수원지법 형사항소1-2부(이헌숙 김종근 정창근 부장판사)는 16일 도로교통법 위반(음주운전) 등 혐의를 받는 박씨의 항소심 선고공판에서 원심과 같은 징역 6월에 집행유예 2년을 선고했다. 40시간의 준법 운전 수강도 함께 명령했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “당심에서 아무런 사정 변경 없는 점 등을 고려하면 원심 형은 적정하다”고 판시했다.&lt;br&gt;&lt;br&gt;박씨는 작년 5월 19일 오전 8시쯤 음주 상태로 자신의 도요타 차량을 몰고 경기 과천시 도로를 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 귀가 전 한 골목길에서 잠이 들었다가 목격자 신고로 출동한 경찰에 적발됐다. 박씨의 당시 혈중알코올농도는 면허취소 수준인 0.163%로 측정됐다.&lt;br&gt;&lt;br&gt;박씨는 과거 두 차례 음주운전으로 처벌받은 전력이 있다. 1997년 8월 강남구에서 음주운전을 하다 접촉 사고를 내 경찰에 붙잡혔다. 2011년 2월에는 서울 강남구에서 만취 상태로 후배의 차량을 몰다가 적발돼 면허정지 처분을 받았다. &lt;br&gt;&lt;br&gt;박씨는 1990년 영화 ‘장군의 아들’로 데뷔해 청룡영화상과 대종상영화제에서 신인남우상을 수상하며 주목받은 배우다. 이후에도 다수의 영화와 드라마에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PLJFQBSKNJGVVHESIYRMOLGWRE.jpg?auth=d5ff48643810c2cb77b9c48853abbad0fa6cd9119e3425e8275024b8fb14ab6e&amp;smart=true&amp;width=525&amp;height=394" type="image/jpeg" height="394" width="525">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>이공계 교수들, ‘논문 저자 표기 논란’ 이진숙에 “우리는 바보냐”</title>
+      <link>https://www.chosun.com/national/education/2025/07/16/R5TUZJ75OBDJVAGIZEZ3GW6VWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/16/R5TUZJ75OBDJVAGIZEZ3GW6VWE/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:19:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPGMRGALHRDJJCUXJJYZLRMWZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 사회부총리 겸 교육부 장관 후보자가 16일 서울 여의도 국회 교육위원회에서 열린 인사청문회에서 의원 질의에 답하고 있다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 부총리 겸 교육부 장관 후보자가 자신을 둘러싼 논문 논란에 대해 “학계의 상황을 이해하지 못한 것”이라고 해명한 가운데, 야당 의원들이 “이공계 교수, 학생들이 ‘이 후보의 말에 동의하지 않는다’는 의견을 보내왔다”며 후보자 주장에 반박했다. &lt;br&gt;&lt;br&gt;16일 서울 여의도 국회 교육위원회에서 열린 인사청문회에서 이 후보자는 저자 표기 논란에 대해 “논문을 작성할 때 이공계에서는 연구자들끼리 논문 작성 기여도를 따져 제1 저자를 결정한다”고 설명했다. “이공계에선 대학원생이 지도 교수가 수주해 온 국가 과제나 연구 과제로 학위 논문 연구를 하며, 저의 경우 제자와 같이 공동으로 연구해 제1 저자로 오른 경우는 전체의 30% 정도”라고도 했다. 본인이 연구 기여도가 높은 경우 자신을 제1 저자로 올렸다는 것이다.&lt;br&gt;&lt;br&gt;그러나 야당 의원들은 “후보자 발언 이후 이공계 교수들로부터 ‘후보자 발언에 동의하지 않는다’는 내용의 연락들을 받았다”고 했다. 국민의힘 김민전 의원은 이날 “점심 시간 이공계 교수들한테 전화가 많이 왔다. ‘내가 연구 과제 수주해서 학생 연구시키고 제1 저자로 만들고 나는 교신 저자를 했는데, 이렇게 사는 우리는 바보냐’라고 하더라”라고 했다. 이어 “후보자는 마치 이공계의 기준인 것처럼 말을 하는데 많은 이공계 교수님들은 동의하지 않는 것”이라고 했다.&lt;br&gt;&lt;br&gt;국민의힘 서지영 의원은 “청문회를 본 이공계 박사과정 학생이 글을 보내왔다. ‘후보자는 이공계, 이공계하면서 관례를 자꾸 언급한다. 그러나 보통 실험을 직접 실행한 학생이 제1 저자가 되고, 교수가 교신 저자가 된다. 교수가 제1 저자로 들어가는 거는 본 적이 없다’는 내용이었다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 교수·학술 단체 연합체인 ‘범학계 국민검증단’은 이진숙 후보의 논문을 전수 조사하곤 “저자 표기 문제가 심각하다”고 지적했다. 검증단은 “이 후보자는 제자 학위 논문의 학술지 게재 시 본인이 제1자로 표기된 데 대해 ‘실질적 저자는 본인’이라고 항변하는데, 제1 저자가 아니라 교신저자로 표기되는 게 마땅하다”며 “이 후보자가 이에 문제가 없다고 주장한다면 스스로 교육자이길 포기하는 것”이라고 했다. 검증단은 2022년 윤석열 전 대통령 배우자 김건희 여사의 학위 논문을 검증하고 표절로 결론 내린 단체다.&lt;br&gt;&lt;br&gt;이날 인사청문회에서 이 후보자가 “논문 논란은 오해이며 이공계에선 흔한 일”이라고 말하자, 검증단은 입장을 통해 “우리는 학자 입장에서 객관적인 사실을 있는 그대로 국민께 알렸을 뿐”이라며 “김건희씨의 논문 검증과 명백한 표절 발표에 대해 민주당이 박수쳤던 것과 달리, 이번에는 더 심각한 연구 부정 행위에 대해 눈감거나 검증단을 공격하는 것은 파렴치한 처사. 여권의 이중적인 태도에 분노한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>참여연대 “강선우·이진숙 후보자 중대 결격사유…사퇴해야”</title>
+      <link>https://www.chosun.com/national/education/2025/07/16/GTCT4GR3XVGWLOM2WOOKUBLKR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/16/GTCT4GR3XVGWLOM2WOOKUBLKR4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:38:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E66FZ6MBF2HDFDPZWN4SXM42AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 여성가족부 장관 후보자(왼쪽)와 이진숙 교육부 장관 후보자./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시만단체 참여연대가 갑질 논란이 제기된 강선우 여성가족부 장관 후보자와 논문 표절 의혹에 휩싸인 이진숙 교육부 장관 후보자의 사퇴를 요구했다. &lt;br&gt;&lt;br&gt;참여연대는 16일 논평을 통해 “두 후보자는 장관으로서의 중대한 결격 사유가 확인돼 국민 눈높이에 미달하는 만큼 스스로 사퇴하는 것이 마땅하다”고 밝혔다. &lt;br&gt;&lt;br&gt;참여연대는 강 후보자에 대해 “보좌관 ‘갑질’ 논란은 국회의원이라는 우월적 지위를 이용해 공적 권한을 사적으로 남용한 것으로 중대한 결격 사유”라며 “의혹에 대해 책임 있는 해명 대신 변명과 거짓 해명으로 고위공직자와 정부에 대한 신뢰마저 무너뜨리고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;또 이 후보자에 대해선 “제자 논문 표절 의혹에 따른 연구 윤리 위반과 자녀 조기 유학에서 초·중등교육법 위반은 교육부 수장으로서 치명적인 결격 사유”라며 “교육의 공정성과 법적 기준을 스스로 훼손한 인물이 교육 정책을 총괄한다는 것은 어불성설”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성상회, 민주운동 발상지 돌아볼까...대구서 학생 투어 열려</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/16/XPLMS6HCCFFP5HUYAYF6PFYIYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/XPLMS6HCCFFP5HUYAYF6PFYIYI/</guid>
+      <dc:creator>대구=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:37:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CM7EPFURGREQFJMLNNO773TTVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 학생들이 지역 내 문화·역사·경제 산실을 돌아보는 체험 프로그램이 12월까지 진행된다.&lt;br&gt;&lt;br&gt;대구교육청은 오는 12월 12일까지 초등학교 5학년부터 고등학교 3학년 학생 1000여명을 대상으로 ‘대구사랑 스토리 체험’을 운영한다. 대구의 문화·역사·경제 분야에서 의미 있었던 5곳을 방문해 지역에 대한 자부심과 공동체 의식을 기르기 위한 취지로 진행된다.&lt;br&gt;&lt;br&gt;체험은 문화예술·애국애족·경제발전 등 3가지 주제를 바탕으로 5개 코스가 운영된다. &lt;br&gt;&lt;br&gt;문화예술코스는 미술·음악·문학 등 3개 분야로 구성된다. 미술 분야에선 대구미술관과 간송미술관 등을 학생들이 둘러보며 대구 출신의 근대 미술 거장 이인성 작가의 작품 등을 감상할 수 있다. 음악 분야에선 중구의 청라언덕과 3·1만세 운동길 등을 걸으며 국내 최초의 가곡 ‘동무생각’을 지은 작곡가 박태준에 대해 공부한다. 문학 분야에선 대구 출신 민족시인 이상화의 고택(기념관)과 이장가문화관 등을 관람한다.&lt;br&gt;&lt;br&gt;애국애족코스에선 2·28민주운동기념관과 국채보상운동기념관을 탐방하며 지역의 국난극복·민주운동 역사에 대해 학생들이 탐구할 기회를 제공한다. 이중 생존한 2·28 민주운동 참가자들과 직접 만나 민주운동 당시의 증언을 듣는 시간도 마련했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJG2YOZ655FCZLVRA47AGS6RJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 북구의 삼성창조캠퍼스를 방문한 대구 구암중 학생들./대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경제발전코스에선 삼성그룹의 모태이자 이병철 회장이 대구에서 문을 연 삼성상회 건물과 섬유박물관 등을 방문하며, 경제 부흥 중심지로서의 대구에 대해 알아본다.&lt;br&gt;&lt;br&gt;강은희 대구교육감은 “대구사랑 스토리체험을 통해 지역과 나라를 사랑하는 마음뿐 아니라 세계를 이끌어갈 공동체 정신을 학생들이 키워나가길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘청주공항서 일본 히로시마로’ 하늘길 열려...에어로케이, 주 4회 운항</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/16/W4CKVDKL2FHRJFRRLLM5APBP4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/16/W4CKVDKL2FHRJFRRLLM5APBP4Y/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 08:24:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPVJPAZ4TNBZHD2SZSIKTGXNGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 청주국제공항에서 청주~히로시마 정기노선 취항식이 개최됐다/충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주국제공항에서 일본 히로시마를 오가는 하늘길이 열렸다. &lt;br&gt;&lt;br&gt;충북도는 청주국제공항 거점 항공사인 에어로케이가 16일 일본 히로시마 정기 노선을 신규 개설했다고 16일 밝혔다. 히로시마 노선은 현재 인천공항에서만 운항하고 있다. &lt;br&gt;&lt;br&gt;도는 이날 청주국제공항에서 김수민 충북도 정무부지사, 강병호 에어로케이항공 대표, 성승면 청주국제공항장 등 관계자들이 참석한 가운데 취항식을 했다. &lt;br&gt;&lt;br&gt;이 노선은 주 4회(월·수·금·일) 운항한다. 오후 1시 45분 청주공항에서 출발, 오후 3시 5분 히로시마에 도착한다. 귀국편은 오후 3시 55분 히로시마에서 출발해 오후 5시 15분 청주공항에 도착한다.&lt;br&gt;&lt;br&gt;히로시마는 일본 10대 도시 중 하나이다. 이곳에는 평화기념공원(원폭 돔), 히로시마 성 등의 관광 명소가 많아 이용객이 많을 것으로 보고 있다. &lt;br&gt;&lt;br&gt;이로써 청주국제공항에서는 도쿄, 오사카, 후쿠오카 등 일본 노선 8개를 보유하게 됐다. &lt;br&gt;&lt;br&gt;김수민 정무부지사는 “일본 중소도시 방문을 위해 인천까지 이동해야 했던 이용객의 불편이 개선되고 편의가 향상될 것”이라며 “하반기 중 기타큐슈, 오키나와 등 노선을 확장할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 내란 특검 “尹 구속적부심 기록, 16시 37분 법원에 접수"</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/NLQAT327U5B57CZF2X5DXFZTNQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/NLQAT327U5B57CZF2X5DXFZTNQ/</guid>
@@ -724,36 +844,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4IM6FL23FCALOIDUTJJLT7NCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [숨어있는 세계사] ‘비둘기 통신병’, 2차 세계대전 중 편지 전달해 수백 명 구했죠</title>
-      <link>https://www.chosun.com/national/nie/2025/07/16/WHJ2CJOYRNHGNCOSF2AKYNWHMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/WHJ2CJOYRNHGNCOSF2AKYNWHMU/</guid>
-      <dc:creator>정세정 옥길새길중학교 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3R5VY6FSAZCVFIIHLY3E2SUYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미 육군 파충류팀 소속 군인이 지난 4월 시민들을 대상으로 열린 행사에서 뱀에 대해 교육하고 있는 모습.
-/미 육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 미 육군이 베일에 가려졌던 특수부대 ‘파충류 팀’을 공개해 화제가 됐어요. 이 부대는 뱀과 악어 같은 파충류를 취급하며, 세계 각지로 파견되는 정예 특수부대들이 습지에서 대형 파충류를 만났을 때 대비할 수 있도록 교육을 하고 있대요. 미군은 20세기 중반부터 이와 같은 생존 훈련과 파충류 관련 교육을 해왔다고 합니다.&lt;br&gt;&lt;br&gt;동물에 대한 적응 훈련뿐 아니라, 인간은 아주 오래전부터 전쟁에 다양한 동물을 활용해 왔어요. 말과 개 외에도 돌고래, 코끼리, 비둘기 등 아주 다양한 동물들이 있었답니다. 오늘은 동물들이 인간과 함께 어떻게 싸워왔는지 살펴보도록 하겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;돌고래는 수중 특수 임무 맡아&lt;/b&gt;&lt;br&gt;&lt;br&gt;전쟁 무기와 과학기술이 발전했지만, 동물들은 여전히 군사작전에 쓰이고 있어요. 그중에서도 예상 밖의 활약을 한 동물은 바로 돌고래예요. 미국과 소련은 1950년대부터 돌고래를 훈련시켜 바닷속 임무에 활용했어요. 돌고래는 물건을 찾아오거나, 적국의 잠수부를 탐지할 수도 있어요. 육지에서 개가 맡은 역할을 바다에서는 돌고래가 하는 셈이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF5ULOFV4JDSTK7RTDBNXB6T5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가슴지느러미에 위치 파악 장치가 부착된 미군 소속 돌고래가 물 밖으로 튀어 오르는 모습. /미 육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돌고래는 뛰어난 음파 탐지 능력과 지능을 바탕으로 기뢰를 찾는 데 적합한 것으로도 알려졌어요. 그래서 미 해군은 돌고래에게 기뢰 탐지 훈련을 시키기도 했죠. 냉전 시기 돌고래는 바다에서 벌어지는 첩보전에 이용됐다고 합니다.&lt;br&gt;&lt;br&gt;최근엔 동물의 군사 이용에 대한 윤리적 비판이 커지면서 돌고래 사용도 줄어들었지만, 여전히 일부 국가는 돌고래를 비밀 임무에 사용하고 있다고 해요. 대표적으로 2019년 노르웨이 인근 바다에서 발견된 흰돌고래(벨루가) ‘발디미르’가 있어요. 당시 카메라를 끼울 수 있는 장비를 착용한 채 발견돼 러시아군의 ‘스파이’로 의심받았지요. &lt;br&gt;&lt;br&gt;&lt;b&gt;오늘날 ‘탱크’ 역할 했던 코끼리&lt;/b&gt;&lt;br&gt;&lt;br&gt;과거 전쟁터에선 동물이 가장 믿음직한 ‘운송 수단’이었어요. 수천 년 동안 사람들은 낙타, 말, 코끼리 같은 동물을 이용해 무거운 무기나 식량을 나르고, 병사들을 이동시켰죠. 게다가 때로는 적군을 직접 공격하는 무기로도 사용됐는데요. 그 대표적인 동물이 바로 ‘코끼리’였답니다.&lt;br&gt;&lt;br&gt;고대부터 시리아, 인도, 중국 지역에서는 코끼리를 전쟁에 이용했어요. 군인들은 코끼리 등에 올라타 넓은 지역을 한눈에 내려다보며 지휘하거나, 적군을 향해 화살을 쏘기도 했어요. 어떤 경우엔 코끼리 상아 끝을 자르고 그 자리에 날카로운 칼 같은 무기를 달기도 했어요. 말 그대로 ‘살아 있는 탱크’였던 셈이죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4IPSP3O6BCRHNXNZDWANDMDKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19세기 그려진 그림으로, 카르타고군의 코끼리 부대가 이탈리아로 진군하는 모습을 묘사했어요.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전투 코끼리가 가장 크게 활약한 전쟁 중 하나는 로마와 카르타고가 싸운 제1차 포에니 전쟁(기원전 264~241)이었어요. 그중에서도 바그라다스 전투(기원전 255)는 코끼리 부대의 위력이 잘 드러난 전투였죠.&lt;br&gt;&lt;br&gt;이 전투에서 카르타고는 보병 1만 명, 기병 4000명, 그리고 전투 코끼리 100마리를 동원했어요. 반면 로마군은 병력 면에서 우세했어요. 또한 승마 실력도 로마군이 앞선다고 여겨졌죠. &lt;br&gt;&lt;br&gt;하지만 전투가 시작되자 상황은 완전히 뒤집어졌어요. 카르타고군이 로마군을 향해 코끼리를 돌진시키자, 로마 병사들은 공포에 휩싸였어요. 수많은 병사가 코끼리에 깔려 목숨을 잃었고, 살아남은 병사들도 전열을 이탈했죠. 결국 1만 명 이상의 로마군이 전사하고 로마의 지휘관마저 포로로 잡히게 됐죠.&lt;br&gt;&lt;br&gt;이 승리로 코끼리를 전쟁 무기로 삼으려는 시도가 잇따랐어요. 하지만 문제도 있었어요. 코끼리는 겁이 많아 한번 당황하면 통제가 어려워요. 그래서 적군뿐만 아니라 아군에게 피해를 입히기 일쑤였지요.&lt;br&gt;&lt;br&gt;이런 약점을 파악한 로마 군대는 이후 전투에서 코끼리에게 집중적으로 창을 던지고 도망치는 전략을 펼쳤어요. 공격을 받은 코끼리는 놀라서 오히려 카르타고 병사들을 짓밟았지요.&lt;br&gt;&lt;br&gt;하지만 이후 코끼리가 완전히 전장에서 자취를 감춘 것은 아니에요. 시간이 흐르면서 전투 코끼리도 점점 변해갔어요. 코끼리에게 갑옷을 입히고, 대포 같은 대형 무기를 달기도 했지요. 하지만 코끼리의 단점은 그대로였어요. 16세기 후반 무굴제국의 악바르 대제는 구자라트 지역을 차지하려고 전쟁을 벌였는데, 상대편은 수많은 전투 코끼리를 앞세워 저항했어요. 그러자 악바르 대제는 대포를 집중적으로 쐈고, 굉음과 폭발에 놀란 코끼리 부대는 무너졌어요. 그렇게 코끼리는 서서히 전장에서 모습을 감추게 됐지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFYYLPBMVNFNLFHA25WLQH533M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1946년 디킨 메달을 받은 비둘기 지아이 조. 폭격기 이륙 직전 공격 중지 명령을 전달해 오폭으로 인한 아군의 희생을 막았지요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;비둘기, 2차 세계대전 때 수많은 목숨 구해 &lt;/b&gt;&lt;br&gt;&lt;br&gt;비둘기는 둥지로 되돌아오는 ‘귀소본능’ 덕분에 오랜 세월 동안 전쟁에서 메시지를 전달하는 중요한 역할을 했어요. 이렇게 훈련된 비둘기를 ‘전서구(傳書鳩)’라고 불러요.&lt;br&gt;&lt;br&gt;고대 이집트부터 사용된 전서구는 로마 시대엔 카이사르의 정복 소식을 전하기도 했어요. 몽골제국의 칭기즈칸 또한 비둘기를 이용해 소식을 주고받았어요. 통신 수단으로 널리 비둘기가 쓰인 덕분에, 적군이 비둘기에 실어 보낸 메시지를 가로채 항복을 이끌어내는 전략도 종종 사용됐지요.&lt;br&gt;&lt;br&gt;19세기 들어 본격적으로 전신이 사용되면서 비둘기의 역할은 줄었지만, 통신선이 끊기는 위기 때마다 다시 쓰였어요. 심지어 제1·2차 세계대전 때 영국에선 수십만 마리의 비둘기가 이용됐다고 해요. 2차 세계대전 중 활약한 비둘기들은 많은 인명을 구한 공로를 인정받아 ‘디킨 메달’을 받기도 했답니다. 이 메달은 영국의 동물 구호단체가 2차 대전 당시에 만들었는데, 영웅적인 활약을 한 동물에게 수여되는 상이라고 해요.&lt;br&gt;&lt;br&gt;이 상을 받은 비둘기 중 가장 유명한 비둘기가 ‘지아이 조(G.I. Joe)’예요. 이 비둘기는 제2차 세계대전 중이었던 1943년 이탈리아의 한 마을에 갇혀 아군의 폭격을 당할 위기에 처한 수백 명의 영국 군인을 구했어요. 폭격기가 이륙하기 직전 공격을 중지하라는 편지를 전달했지요. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 여름방학 ENIE 특강 수강생 모집</title>
-      <link>https://www.chosun.com/national/nie/2025/07/16/6YU5EL72ZRGUFKHPASKQHZQESY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/6YU5EL72ZRGUFKHPASKQHZQESY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>조선일보 NIE교육센터에서 초등 3~4학년을 대상으로 여름방학 영어NIE(ENIE) 특강 수강생을 모집합니다. 조선일보의 영문 신문 ‘조선데일리(THE CHOSUN Daily)’ 기사로 유용한 영어 표현을 익히는 수업입니다. 경제·문화·스포츠 등 다양한 최신 뉴스를 통해 영어를 학습합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QI5FYCVQ7FGMHEUPHBAIRMFZ7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;▲&lt;b&gt; 수업 대상&lt;/b&gt;: 초등학교 3~4학년 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;일정&lt;/b&gt;: 7월 25일(금)·30일(수), 8월 6일(수)·8일(금) / 오후 3시~4시 30분(총 4회)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장소&lt;/b&gt;: 서울시 강남구 대치동 에듀조선 NIE 논술학원&lt;br&gt;&lt;br&gt;▲ &lt;b&gt;수강 신청&lt;/b&gt;: 에듀조선 NIE 논술학원 홈페이지(nie.chosun.com)&lt;br&gt;&lt;br&gt;▲&lt;b&gt; 문의&lt;/b&gt; : 02-724-7821, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 세계에서 가장 큰 가오리… ‘바다의 양탄자’라고도 불려요</title>
-      <link>https://www.chosun.com/national/nie/2025/07/16/KCBR2OSRSVBRTP6QAT62KKR4E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/KCBR2OSRSVBRTP6QAT62KKR4E4/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>얼마 전 제주도 남쪽 마라도 바다에서 잡힌 가오리가 화제예요. 몸길이가 1m, 몸통 너비는 2m로 보통 가오리·홍어와 비교하면 어마어마하게 커다란 몸집이었죠. 이 가오리는 만타가오리라고도 알려진 대왕쥐가오리랍니다. 보통 열대·아열대 바다에서 살아가는데 최근 지구온난화에다가 폭염까지 겹쳐 우리나라 주변 바닷물 온도가 올라가자 제주도 부근까지 온 것으로 추정돼요. &lt;br&gt;&lt;br&gt;이번에 잡힌 대왕쥐가오리는 어린 놈으로 보여요. 왜냐면 다 자랐을 때 몸길이가 5m, 몸통 너비는 8m나 되거든요. 전 세계 가오리 중 가장 커다란 가오리랍니다. 만타가오리의 만타(manta)는 스페인어로 ‘담요’라는 뜻이에요. 몸통을 펄럭이며 헤엄치는 모습은 활짝 펼친 담요를 연상시켜요. 그래서 ‘바다의 양탄자’라고도 부른답니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/32SRQ6E53VGXPILUL53CDK27ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대왕쥐가오리는 몸통을 펄럭이며 헤엄을 쳐서 마치 바다를 떠다니는 양탄자처럼 보여요.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가오리는 보통 납작한 몸통의 아랫부분에 입이 있고, 단단한 이빨이 있어서 물고기·게·조개 등을 사냥해 아작아작 씹어 먹어요. 그런데 대왕쥐가오리는 물고기처럼 입이 앞쪽에 나 있어요. 그리고 입 앞에는 양옆으로 툭 불거져 나온 돌기가 있습니다. 이 돌기는 헤엄칠 때 양옆으로 까딱까딱 움직이면서 방향타 역할도 하고, 사람으로 치면 젓가락 역할도 해준답니다. &lt;br&gt;&lt;br&gt;대왕쥐가오리의 주된 먹잇감은 바다에 둥둥 떠다니는 플랑크톤과 게·새우의 새끼 등인데요. 돌기를 움직여 입쪽으로 끌어들인 다음 물과 함께 들이마신 뒤 아가미로 물을 걸러내고 먹는답니다. 이빨이 있기는 하지만 아주 자잘해서 다른 가오리처럼 먹이를 씹는 데 쓰이지 않아요. 덩치는 집채만 한데 눈에 보일락 말락한 바다 생물들을 먹는 것은 상어 중 가장 덩치가 큰 고래상어와도 빼닮았죠. &lt;br&gt;&lt;br&gt;가오리와 상어 모두 뼈가 물렁한 ‘연골어류’인데, 과학자들은 상어에서 가오리로 진화해 갔으며, 그중 가장 진화한 형태가 대왕쥐가오리라고 말해요. 실제로 먹잇감을 사냥할 때 무리를 지어 사슬처럼 몸을 연결해 먹잇감을 가두는 등 지능적인 행동을 보인답니다. &lt;br&gt;&lt;br&gt;대왕쥐가오리는 태평양·대서양·인도양 등 전 세계의 먼바다에 골고루 분포해요. 보통 수심 10m 정도의 비교적 얕은 바다에서 발견되지만, 경우에 따라서는 200~450m까지도 헤엄쳐 들어가요. 심지어는 수심 1000m까지 들어간 적도 있대요. &lt;br&gt;&lt;br&gt;많은 연골어류가 뱃속에서 알을 부화해 어느 정도 크기로 자라면 밖으로 내보내는 방식으로 번식하는데요. 한 배로 낳는 새끼는 적지만 생존률이 높다는 장점이 있죠. 대왕쥐가오리 역시 난태생인데 한 번에 암컷에게서 태어나는 새끼는 고작 한 마리예요. &lt;br&gt;&lt;br&gt;심지어 알이 암컷 몸에서 부화해 태어나기까지 1년이 걸려요. 사람의 임신 기간보다 길죠. 갓 태어난 새끼 대왕쥐가오리의 몸통 너비는 1m를 훌쩍 넘어 어지간한 성체 가오리보다 크답니다. 대왕쥐가오리의 가장 무서운 적은 ‘사람’이랍니다. 아가미 부분은 중국에서 한약재로 인기가 있어 이를 노리는 사람들에게 희생되는 경우가 끊이지 않는대요. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [예쁜 말 바른 말] [403] ‘주최’와 ‘주관’</title>
       <link>https://www.chosun.com/national/nie/2025/07/16/H2LG52Z6CBHTVMPPSSOYURNM2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/16/H2LG52Z6CBHTVMPPSSOYURNM2U/</guid>
@@ -779,15 +869,6 @@
       <description/>
       <pubDate>Tue, 15 Jul 2025 13:13:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W57J7YKLTNAYZF5XL6CBO432XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 2025년 7월15일 서울 역삼동 건진법사 전성배 씨의 법당에 대한 압수수색에 나선 가운데 수색을 마친 특검팀이 문 밖을 나서고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨의 공천개입 및 인사 청탁 의혹을 수사 중인 특검이 전씨를 상대로 여권 인사들의 공천 및 공직자 인사 청탁을 시도한 의혹을 받는 사업가를 압수 수색한 것으로 15일 전해졌다. 이날 전씨 등 관련자를 압수 수색할 때 이 사업가도 대상에 포함된 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 2022년 6·1 지방선거 당시 박현국 현 봉화군수의 공천 청탁을 시도한 것으로 알려진 사업가 김모씨에 대해 이날 압수 수색을 한 것으로 알려졌다. 김씨는 박 군수에 앞서 박창욱 경북도의원의 공천도 부탁한 적이 있는 것으로 전해졌다. 박 군수와 박 의원 모두 이날 압수 수색을 당했다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 서울남부지검은 이 같은 정황을 포착해 김씨도 수사선상에 올려놓았던 것으로 전해졌다. 관련해 전씨는 “김씨의 연락을 받은 사실은 있으나 실제로 공천을 위해 힘을 쓴 적은 없다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 특검은 검찰로부터 넘겨 받은 수사 기록에 담긴 청탁 정황이 상당히 구체적인 점에 주목하고 있는 것으로 전해졌다. 이날 압수한 전씨 등의 휴대전화를 분석해 지방선거 당시 상황을 재구성할 계획이다. 특검은 지난 대선 당시 윤석열 캠프 산하 네트워크본부에 있었던 오을섭 전 본부장, 오사카 총영사를 지낸 김형준 부본부장도 압수 수색해 휴대전화 등을 확보했다.&lt;br&gt;&lt;br&gt;한편 김씨는 공천 이외에도 금융권 인사 관련 청탁을 받았다는 의혹이 제기된 상태다. 특검은 이 의혹들에 대해서도 사실관계를 확인해야 한다는 방침을 세운 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한밤중 주택 침입해 80대 노인 살해한 50대 긴급체포</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/15/JJW7WRQX5RE6HGLOT7H5CEPMYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/15/JJW7WRQX5RE6HGLOT7H5CEPMYE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 12:23:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOWEF5OLFCIWSTWR3QYSNCRV2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 아산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 사는 80대 노인을 살해한 50대 남성이 하루 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 아산경찰서는 살인 혐의로 A(50대)씨를 붙잡아 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 0시 50분쯤 아산시 한 단독주택에 침입해 이곳에 거주하는 B(80대)씨를 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“어머니와 연락이 되지 않는다”는 B씨 자녀의 부탁을 받은 이웃이 B씨의 집을 찾았다가 숨져있는 B씨를 발견해 14일 오후 3시 45분쯤 경찰에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상을 분석하는 등 추적에 나서 이튿날인 15일 오전 9시 30분쯤 대전에서 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 일면식이 없는 사이로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 금품을 노리고 집에 침입했다가 범행을 저질렀을 것으로 보고 있다”면서 “구체적인 범행 경위를 조사한 후 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>안보실 차장 이어 외교비서관도 ‘VIP 격노설’ 시인</title>
@@ -817,15 +898,6 @@
       <content:encoded>서울이 영국 글로벌 대학 평가 기관 QS가 발표한 ‘대학생을 위한 최고의 도시 순위’에서 1위에 올랐다. 대학생들이 공부하며 생활하기에 가장 좋은 도시를 가리는 조사로, 2014년 순위 집계를 시작한 이후 서울이 1위에 오른 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;15일 QS(Quacquarelli Symonds)가 발표한 대학생 최고 도시 순위는 ’2025 세계대학평가’에 포함된 상위 1500개 대학이 소재한 140개 도시의 취업 여건과 생활비, 학생 인구 등을 토대로 매긴 것이다. &lt;br&gt;&lt;br&gt;서울에 이어 도쿄(일본)가 2위를 기록했고, 지난해까지 6년 연속 1위 자리를 지켜온 런던(영국)은 최근 고물가 영향으로 3위로 내려갔다. &lt;br&gt;&lt;br&gt;서울은 우선 우수한 대학을 많이 보유했는지 보는 지표에서 높은 성적을 거뒀다. 올해 ‘세계대학평가’에 포함된 대학이 총 23곳으로, 전 세계 도시 중 가장 많았다. 서울대(38위), 연세대(50위), 고려대(61위), 성균관대(126위), 한양대(159위) 등 서울 소재 5개 대학이 상위 200위에 이름을 올렸다. &lt;br&gt;&lt;br&gt;서울은 또 대학생들이 졸업 후 취업할 수 있는 기업·기관 규모를 나타내는 ‘취업 환경’ 부문에서 3위, 치안·날씨·교통 인프라 등을 반영한 ‘도시 선호도’에서 7위에 오르는 등 전반적으로 높은 점수를 받았다. 물가, 대학 등록금 수준을 평가하는 ‘경제성’에선 지난해(91위)보다 순위가 크게 오른 68위를 기록했다. 유럽과 영미권의 다른 도시와 비교해 상대적으로 물가 수준이 낮다는 점이 높게 평가된 것이다. 대학생들의 출신 국가, 도시 다양성을 나타내는 ‘학생 다양성’은 51위를 기록했다. &lt;br&gt;&lt;br&gt;국내 도시 중에선 부산이 117위를 기록했고, 대구는 131위로 처음 순위권에 올랐다. 벤 소터 QS 수석 부사장은 “최근 글로벌 대학생들을 대상으로 한 QS 설문조사에서 ‘도시 안전’과 더불어 양질의 대학 교육, 안락한 생활 환경이 오랜 시간 머물며 공부할 도시를 선택하는 데 중요한 요소라고 답했다”며 “서울은 이에 가장 부합하는 도시로 평가됐다”고 말했다. 이어 “서울은 우수 대학이 많을 뿐 아니라 K팝, 영화 등 혁신적 문화 생태계와 세계 최고 디지털 인프라가 잘 갖춰져 있어 전 세계 학생들이 최고의 경험을 누릴 수 있다는 점이 높은 점수를 받았다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지능형교통체계 사업 관련 뇌물 받은 안산시 공무원 구속</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/RJQFPR42PVG43APWOGU7HEQJ6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/RJQFPR42PVG43APWOGU7HEQJ6E/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 11:57:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX72LSBIYYK4UJ54FBZVL7BAD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지능형교통체계(ITS) 사업과 관련해 민간 업체 관계자로부터 뇌물을 받아 챙긴 혐의를 받는 경기 안산시 소속 공무원이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 남성우 부장판사는 15일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의로 안산시 상록구청 소속 6급 공무원인 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;또 뇌물공여 혐의로 민간 사업체 관계자 B씨에 대해서도 구속영장을 발부했다. 남 부장판사는 “증거 인멸 및 도망할 염려가 있다”고 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 과거 안산도시정보센터에서 근무할 당시 ITS 사업과 관련해 B씨 업체 측에 편의를 제공하는 대가로 뇌물을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 B씨 업체가 안산시 ITS 사업자로 선정되고, 시내에 교통정보 상황판을 설치하는 과정 전반에 특혜를 준 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 지난 4월 관련 첩보를 입수한 뒤 지난달 23일 안산시 상록구청, 안산도시정보센터 등을 압수 수색하는 등 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정진상 대장동 재판, 李대통령 빼고 계속한다</title>
       <link>https://www.chosun.com/national/court_law/2025/07/15/IMOS36US2RDCXGGCOFRNWWDNLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/IMOS36US2RDCXGGCOFRNWWDNLU/</guid>
@@ -844,15 +916,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQSR37YVJJEELCCKMVDVT5KWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 충북도청 정문 앞에서 오송지하차도 참사 2주기 추모제가 유가족 등 200여명이 참석한 가운데 열렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 숨진 ‘오송 궁평2지하차도 참사’ 2주기를 맞아 희생자들의 넋을 기리는 추모제가 충북도청에서 열렸다. &lt;br&gt;&lt;br&gt;이날 추모제는 충북도청 앞 정문에서 참사 유가족협의회와 생존자협의회, 시민대책위원회와 시민 등 200여명이 참석한 가운데 엄숙한 분위기속에 진행됐다. &lt;br&gt;&lt;br&gt;추모제에서 이경구 유가족협의회 공동대표는 “이별의 충격이 아직 가시지 않은 채 해가 2번이나 바뀌어 또다시 그날을 맞이했다”며 “이날이 되면 그날의 떠올라 괴롭고 그리움이 더욱 커진다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “오송참사는 제 역할을 하지 않은 여러 기관들로 인해 벌어진 참사”라며 “구조적 문제와 책임 소재가 명확히 밝혀질 때까지 기다리고 또 기다릴 것”이라고 강조했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRCQ5PKEUNDQNLCYC2GVYT75QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오송지하차도 참사 2주기 추모제에 이재명 대통령이 화환을 보내 희생자들의 넋을 기렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 이재명 대통령은 직접 참석하지는 못했지만, 추모 화환을 보내 희생자들의 넋을 기렸다. 또 민주당 당대표 선거에 나선 박찬대·정청래 후보가 청주를 찾아 유족들과 슬픔을 함께 나눴다. &lt;br&gt;&lt;br&gt;이날 추모제에 참석한 민주당 이연희 국회의원(청주 흥덕)은 “국정조사 요구안이 발의된 지 324일이 지난 지금도 진상규명이 이뤄지지 않은채 제자리에 머물고 있다”며 “여야 지도부를 설득해 오송 참사 국정조사를 반드시 관철하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZSD3ED5L5PWLH6MNASADPKI7Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 미호강 제방 유실로 침수된 충북 청주시 흥덕구 오송읍 궁평2지하차도에서 군 장병들이 침수 차량을 밖으로 옮기고 있는 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2023년 7월15일 오전 8시40분쯤 청주시 흥덕구 오송읍 미호강 제방이 무너지면서 궁평2지하차도가 침수돼 버스 등 차량 17대가 물에 잠겼다. 14명이 숨지고 16명이 다쳤다.&lt;br&gt;&lt;br&gt;참사의 직접적 원인으로 부실한 제방 축조가 지목됐고, 홍수경보와 미호강 범람 등 여러 경고를 간과한 관계기관의 상황대처 미흡 등이 피해를 키웠다고 지적됐다. 관련 책임을 물어 미호천교 확장공사 현장소장과 감리단장은 지난 4월 각각 징역 6년과 징역 4년의 형을 확정받았다. 이범석 청주시장, 이상래 전 행정중심복합도시건설청장 등 최고 책임자를 비롯한 나머지 관련자 39명은 1심 재판을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>영종도 공터 차량서 일가족 추정 3명 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/7T2BBZRAAZHIFE5RLH7NJHSJCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/15/7T2BBZRAAZHIFE5RLH7NJHSJCM/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 10:37:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZNMPPSDFIL5YBNYI5KDKHMFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영종도에서 일가족으로 추정되는 3명이 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;15일 인천 중부경찰서에 따르면 이날 오후 4시 50분쯤 “가족이 연락이 닿지 않는다”는 112 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 실종된 가족의 휴대전화 위치 정보를 추적해 신고 10분 만인 오후 5시쯤 영종도 한 해수욕장 인근 공터에 세워진 차량에서 숨진 남성과 여성, 아이 등 3명을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 부모와 자녀 관계인 것으로 추정하고 신원 확인 및 사망 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현장 감식을 진행 중이며 숨진 이들의 신원과 유서 유무는 아직 확인되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 핫라인 ☎1577-0199, 희망의 전화 ☎129, 생명의 전화 ☎1588-9191, 청소년 전화 ☎1388 등에서 24시간 전문가의 상담을 받을 수 있습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘대장동 재판’ 李 대통령 빼고 정진상은 계속 진행하기로</title>
       <link>https://www.chosun.com/national/court_law/2025/07/15/ZNAPQAE6HJBAVCEHZ5B4OJGJRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/ZNAPQAE6HJBAVCEHZ5B4OJGJRE/</guid>
@@ -860,15 +923,6 @@
       <description/>
       <pubDate>Tue, 15 Jul 2025 09:27:10 +0000</pubDate>
       <content:encoded>이재명 대통령과 함께 ‘대장동 개발 비리 사건’으로 기소된 정진상 전 더불어민주당 대표실 정무조정실장이 15일 자신의 재판도 중단돼야 한다고 주장했지만, 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJGZCZADQFNLVOK26ZD5LBTLR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진상 전 더불어민주당 대표실 정무조정실장이 15일 오전 서울 서초구 서울중앙지방법원에서 열린  대장동 배임 및 성남FC 뇌물수수 혐의 77차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 정 전 실장은 서울중앙지법 형사33부(재판장 이진관)에서 이 대통령과 함께 재판을 받아왔다. 그런데 이 대통령이 당선되자, 재판부는 지난달 10일 헌법 84조(대통령의 재직 중 형사소추 금지)를 근거로 이 대통령의 기일을 ‘추후 지정’으로 변경하고 재판을 무기한 중단했다. 대신 정 전 실장 사건은 분리해 따로 심리하기로 했다.&lt;br&gt;&lt;br&gt;이날은 이 대통령 당선 이후 처음 열린 대장동 사건 재판으로, 정 전 실장만 출석했다. 정 전 실장 측은 “공소사실 대부분은 이 대통령이 과거 성남시장, 경기지사로서 가졌던 권한과 직결되고 정 전 실장은 이를 보좌한 역할”이라며 이 대통령과 분리해 단독으로 재판을 진행할 수 없다고 주장했다.&lt;br&gt;&lt;br&gt;반면 검찰은 “이 대통령이 사건의 정점인 것은 맞지만, 이 재판은 정 전 실장도 대장동 민간 업자들의 윗선으로서 보고·승인·지시 관계에 있었는지 파악하는 것”이라며 “이 대통령의 심리가 중단됐다고 정 전 실장의 공모 및 가담 여부를 판단하는 데 문제가 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “양측 입장이 달라서 재판부가 정할 수 밖에 없다”며 “정 전 실장 재판은 진행하기로 재판부가 합의했다”고 밝혔다. 다음 기일에는 대장동 민간업자 중 한 명인 남욱 변호사에 대한 증인 신문을 진행하기로 했다.&lt;br&gt;&lt;br&gt;한편 재판부는 최근 ‘자정 전 귀가’ 보석 조건을 어긴 정 전 실장에 대해 과태료 간이 부과 결정을 내렸다고 이날 밝혔다. 이에 정 전 실장은 “생계 때문에 늦은 시간대 만나야 하는 일들이 있었다. 거의 3년째 재판을 받고 있는데 재판에 성실히 임했다. 이제는 생계를 걱정해야 할 부분들이 있다”며 보석 조건 재검토를 요청했다.&lt;br&gt;&lt;br&gt;재판부는 “보석 조건을 위반한 부분에 대해서는 제재를 할 것”이라면서도 “재판이 3년 가까이 이어지는 상황에서 해당 조건을 유지하는 게 적절한지 검토해 보겠다. 사건과 관련된 주요 증인이나 참고인을 접촉하지 못하게 한다는 목적에 맞춰 다른 조건을 강화할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울아산병원 간이식팀, 죽음 위기 몰린 필리핀 청년 살려</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/15/ZV5YAZLDFZCS5AKZ7GHFVPN72U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/15/ZV5YAZLDFZCS5AKZ7GHFVPN72U/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 10:05:10 +0000</pubDate>
-      <content:encoded>서울아산병원 간이식팀(간이식·간담도외과 김기훈·안철수 교수 등)이 최근 만성 담관(담즙 통로) 질환으로 목숨을 잃을 위기에 처한 23세 필리핀 청년을 살렸다.&lt;br&gt;&lt;br&gt;15일 서울아산병원에 따르면, 프란츠 아렌 바바오 레예즈씨는 4년 전부터 담관이 좁아져 염증이 생기는 희소 질환인 ‘원발성 경화성 담관염(PSC)’을 앓아왔다. 최근엔 패혈증으로 중환자실에 입원도 했다. 담관의 염증으로 간이 제 기능을 하지 못했기 때문으로 간 이식이 유일한 치료책이었다. &lt;br&gt;&lt;br&gt;그의 어머니(50)가 간 일부를 기증하기로 했지만, 그 역시 과거 총상으로 몸이 허약한 상황이어서 수술 난도가 매우 높았다. 결국 이들이 입원한 필리핀의 마카티병원은 간 이식 수술 경험이 세계에서 가장 많은 서울아산병원에 도움을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVFAE4UQL5GYVJVQM6TM66PWQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽 사진은 서울아산병원 간이식팀으로부터 수술을 받은 프란츠 아렌 바바오 레예즈(가운데)씨의 모습. 오른쪽 사진은 간 이식 수술을 받은 레예즈씨의 어머니 마리아 로레나 멘도자 바바오씨(병상)가 의료진과 함께 촬영한 사진. 왼쪽 두 번째가 김기훈 서울아산병원 간이식·간담도외과 교수.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울아산병원 간이식팀은 이를 받아들여 지난달 18일 필리핀에서 11시간에 걸친 대수술 끝에 간 이식을 무사히 마쳤다. 어머니는 수술 후 5일 만에 퇴원했고, 레예즈씨도 이번 주 퇴원한다. 레예즈씨는 “간 이식 분야 세계 최고 병원에서 수술을 해준다는 말을 듣고 처음으로 희망을 가졌다. 한국에 진심으로 감사드린다”고 했다. 수술을 집도한 김기훈 교수는 “환자를 살린다는 사명감으로 수술을 했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울구치소, 尹 전담팀 편성…목욕탕·운동장 갈 때도 철저히 분리</title>
@@ -889,19 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JV2GMPCAPBG5KQKMUTUMYGYGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조병노(오른쪽) 경무관이 작년 7월 29일 국회 행정안전위원회 증인으로 출석해 용혜인 기본소득당 의원 질의에 답변하고 있다. /국회방송&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘멋쟁해병’ 단체대화방에 참여한 현직 경찰이 해병 특검 조사에서 “이종호 전 블랙펄인베스트 대표에게 조병노 경무관의 진급 문제를 이야기한 적 있다”고 진술했다. 해당 경찰은 조 경무관의 부하였는데, 김건희 여사와 친분이 있던 이 전 대표를 통해 조 경무관 진급 청탁을 하려던 것 아니냐는 의혹이 제기된다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면, 해병 특검은 지난 11일 멋쟁해병 참여자 최모 경위를 참고인 신분으로 조사하면서 조 경무관의 인사 청탁 의혹에 대해 물었다고 한다. 이에 최 경위는 “이 전 대표에게 ‘조 경무관이 자꾸 진급에서 누락된다’고 이야기한 적 있다”며 “주위 사람이 잘 됐으면 좋겠다는 심정에서 ‘기대 반, 의심 반’으로 말한 것”이라고 진술했다. 진급 문제를 이야기하긴 했지만 청탁은 아니었다는 취지다. &lt;br&gt;&lt;br&gt;조 경무관의 인사 청탁 의혹은 앞서 멋쟁해병 또 다른 참여자인 김규현 변호사와 이 전 대표의 통화 녹취록이 공개되면서 불거졌다. 이 전 대표가 “OOO 서울 치안감. 별 두 개 다는 거 아마 전화 오는데 별 두 개 달아줄 것 같아. 그래도 또 우리가 또 그 정도는 주변에 데리고 있어야 되지 않냐”고 말하는 내용인데, 조 경무관을 지칭한 것으로 해석됐다. 조 경무관은 2022~2023년 서울경찰청 생활안전부장으로 근무했는데, 최 경위는 당시 그의 부속실장이라 로비 통로로 지목됐다.&lt;br&gt;&lt;br&gt;다만 이 대화 이후 실제로 조 경무관이 승진하지는 않았다고 한다. 이 전 대표 측은 “김 여사를 통한 인사 로비는 없었다”고 주장한다. 조 경무관도 작년 7월 국회에 나와 “이 전 대표에게 승진 로비를 요구한 적 없다”고 말했다.&lt;br&gt;&lt;br&gt;법조계 한 인사는 “조 경무관 인사 청탁 의혹을 수사하는 김건희 특검에서 향후 사실관계 확인에 나설 것으로 보인다”고 말했다. 김건희 특검은 앞서 고위공직자범죄수사처(공수처)가 수사하던 조 경무관 의혹 관련 자료를 넘겨받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>맨몸으로 남산타워 꼭대기 오른 그 남자, 이유가 황당</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/15/OOIJBPCTSZEDFNXSU4IBPBJI5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/OOIJBPCTSZEDFNXSU4IBPBJI5I/</guid>
-      <dc:creator>이혜진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 08:25:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5I4XV2FR5VDQZPUZ7G63Y2SLOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남산타워 꼭대기 무단 등반한 남성./X(엑스) 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 남산타워 꼭대기에 무단으로 오른 남성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;15일 경찰에 따르면, 서울 용산경찰서는 건조물침입 혐의로 남성 A씨를 지난달 중순 불구속 송치했다. A씨는 지난 4월 중순 남산타워 꼭대기까지 허락 없이 오른 혐의를 받는다. 남산타워의 높이는 230여m로 알려져있다. &lt;br&gt;&lt;br&gt;그는 경찰 조사에서 “높은 곳이 좋다”고 범행 동기를 밝힌 것으로 전해졌다. 남산타워를 오르며 별도의 전문 장비는 사용하지 않았으며 오후 시간대에 타워 상단까지 올라가 영상을 찍은 것으로 파악됐다. A씨는 당시 촬영한 영상을 자신의 소셜미디어에 올리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M46UVORNWFEDLKDAVUA5HH4ZKI.jpg?auth=f0baa9517de4b7a9916ed5fabc84a937b9eba821f4d7c9a4330ef612deb48b44&amp;smart=true&amp;width=871&amp;height=490" type="image/jpeg" height="490" width="871">
-        <media:description type="plain">남산타워 꼭대기 무단 등반한 남성./X(엑스) 캡처</media:description>
-        <media:credit role="author" scheme="urn:ebu">X(엑스) 캡처</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>박정훈 대령 “제자리 돌아가 직분 충실... 채 해병 같은 죽음 다신 없기를”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/15/2TSIHME7NBBXPATTWXY63KTJ2E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/2TSIHME7NBBXPATTWXY63KTJ2E/</guid>
@@ -918,51 +959,6 @@
       <description/>
       <pubDate>Tue, 15 Jul 2025 09:07:19 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGPCGUO4YNVQSOC3MHRCRHKM3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 본 행인을 특별한 이유 없이 폭행한 50대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 부평경찰서는 특수폭행 혐의로 50대 A씨를 불구속 입건했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 13일 오후 5시쯤 인천시 부평구 부평동의 한 아파트단지 인근에서 길을 걷던 40대 여성 B씨의 뒤통수를 텀블러로 때린 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨의 텀블러는 플라스틱 재질의 약 21㎝ 크기였던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;B씨는 A씨와 모르는 사이로, 병원 치료를 받아야 할 정도로 다치진 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 범행 장소 인근에서 텀블러를 휘두르며 다른 행인들을 위협하다가 신고를 받고 출동한 경찰에 현행범으로 체포됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “누군가가 나를 죽이려고 한다”고 횡설수설하며 정확한 동기를 진술하지 않은 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “추가 범행 가능성이 있어 가족 면담 등을 거쳐 A씨를 인근 병원에 응급 입원 조치했다”며 “A씨를 상대로 정확한 사건 경위 등을 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신생아에게도 준다… 소비쿠폰 10문 10답</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/15/YR3RFRADMRFI3MJRTH2FI4QE6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/15/YR3RFRADMRFI3MJRTH2FI4QE6I/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 07:01:00 +0000</pubDate>
-      <content:encoded>행정안전부가 15일 ‘민생 회복 소비 쿠폰 10문 10답’을 배포했다. 21일 신청 시작을 앞두고 국민들이 궁금해하는 사례 10가지를 모아 이에 대한 답을 내놓은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKS6LG4PN5DZLB3PRMFQ6VUN2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 대전 서구 갈마동의 한 생활용품 매장에 민생회복 지원금 사용 안내문이 걸려 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 행안부가 배포한 ‘10문 10답’ 내용에 따르면, 지난달 19일 이후 태어난 신생아도 1차 소비 쿠폰을 받을 수 있다. 9월 12일까지 부모가 출생 신고를 마치고 지자체에 이의 신청한 신생아가 대상이다.&lt;br&gt;&lt;br&gt;반대로 지난달 19일 이후 사망한 국민은 지급 대상에서 제외된다. 쿠폰을 이미 받았어도 잔액을 환수한다. 행안부 관계자는 “세대주가 사망했다면 같이 사는 미성년자에 한해 잔액을 사용할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;주소지와 군부대 위치가 다른 의무 복무 군인들을 위해선 신청 방법과 사용처를 추가로 마련했다.&lt;br&gt;&lt;br&gt;본인이 직접 주민센터에 쿠폰을 신청하려는 군인은 주소지 관할 시·군·구 주민센터에 우편으로 신청할 수 있다. 대리 신청을 원한다면 위임장을 찍은 사진으로 위임장을 대신할 수 있다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “대리인이 주민센터에 위임장 사진과 현역 복무 확인서 사진을 제시하면 대리 신청이 가능하다”고 했다.&lt;br&gt;&lt;br&gt;소비 쿠폰을 나라사랑카드로 받는 군인은 주소지가 아니더라도 전국 군부대 내 PX에서 쓸 수 있다.&lt;br&gt;&lt;br&gt;6월 19일 이후 이사해 전입 신고를 마친 국민은 경우에 따라 소비 쿠폰 사용 지역을 바꿀 수 있다. 신용카드나 체크카드로 쿠폰을 지급받았다면 온라인이나 은행 영업점에서 사용 지역 변경을 신청할 수 있다. 이사 전 지역에서 이미 지역사랑상품권이나 선불카드로 쿠폰을 받았다면 사용 지역을 바꿀 수 없다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “쿠폰을 신청하기 전에 이사했다면 새 주소에 맞춰 쿠폰을 신청하면 된다”고 했다.&lt;br&gt;&lt;br&gt;소비 쿠폰은 대형 마트와 백화점, 기업형 수퍼마켓에서 사용할 수 없다. 미용실이나 약국처럼 소상공인이 마트·백화점에 입점해 운영하는 가게는 예외적으로 사용이 가능하다. 편의점은 연 매출 30억원 이하 가맹점에서만 사용할 수 있다.&lt;br&gt;&lt;br&gt;식당 키오스크에서도 사용이 불가능하다. 키오스크에서 결제하면 매장이 아닌 결제 대행사의 매출로 집계되기 때문이다. 배달 앱도 원칙적으로 사용이 불가능하지만, 가맹점 자체 단말기로 대면 결제한다면 사용할 수 있다.&lt;br&gt;&lt;br&gt;버스나 지하철을 탈 때는 선불·후불 관계없이 사용할 수 없다. 택시는 경우에 따라 달라진다. 개인 택시는 면허 등록증에 적힌 차고지가 쿠폰 사용 지역에 있다면 쓸 수 있다. 법인 택시는 법인 소재지가 사용 지역 내에 있고, 연 매출 30억원 이하라면 사용할 수 있다.&lt;br&gt;&lt;br&gt;이외에도 요양병원이나 시설에 입소해 있어 직접 신청이 어려운 국민들을 위해선 형제·자매 대리 신청도 허용하기로 했다. 지자체 직원이 직접 방문해 신청서를 받는 ‘찾아가는 신청’도 운영한다.&lt;br&gt;&lt;br&gt;행안부는 국민 문의에 실시간 대응하기 위해 18일부터는 ‘민생 회복 소비 쿠폰 전담 콜센터’도 운영할 계획이다. 국민 누구나 전화번호 ‘1670-2525’로 연락해 궁금한 사항을 물어볼 수 있다.&lt;br&gt;&lt;br&gt;한편 행안부는 이날 소비 쿠폰 1차 지급을 위한 국비 8조1000억원도 지방자치단체에 내려보냈다고 밝혔다. 지자체가 추경 이전에 예산을 쓸 수 있도록 돕는다는 취지다.&lt;br&gt;&lt;br&gt;한순기 행안부 지방재정경제실장은 “지자체와 긴밀히 협의해 쿠폰을 원활히 지급할 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 왕윤종 前비서관 해병 특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/77JA765W3FAYRGI2RCC243VYSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/77JA765W3FAYRGI2RCC243VYSI/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 05:09:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SIHEAUMQBFTVB7CA3LWRHKJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왕윤종 전 국가안보실 경제안보비서관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 왕윤종 前비서관 해병 특검 출석&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 측 “특검, 전직 대통령 강제 인치는 망신주기...무인기 조사도 강행”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/RW2PQNIYGJFBBNJFNUE35URVTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/RW2PQNIYGJFBBNJFNUE35URVTQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 04:45:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFWUNME3CMULT26CXJVUESMCIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 윤석열 전 대통령의 강제 인치를 시도하자, 변호인단은 15일 입장문을 내고 특검이 무인기 외환 혐의를 빌미로 전직 대통령을 망신주기하고 있다고 했다.&lt;br&gt;&lt;br&gt;변호인단은 입장문에서 “대면 조사가 목적이라면, 그 장소는 본질적이지 않다”며 구치소 방문 조사가 가능함에도 특검이 조사실로의 강제 인치만을 반복 지휘하고 있다고 지적했다.&lt;br&gt;&lt;br&gt;이어 “특검은 조사 여부보다 강제 인치만을 고집하고 있다”며 “이외 다른 방법은 없는 것처럼 피의자를 압박하고 있다”고 있다. 그러면서 “이는 수사의 본질이 아니라, 보여주기식 망신주기”라​고 했다.&lt;br&gt;&lt;br&gt;또 “특검이 연일 윤 전 대통령에 대한 인치를 언급하는 건 무인기 관련 외환 혐의를 조사하겠다는 것인데, 이는 특검 스스로 ‘별건 구속’이었음을 자인하고 있는 것”이라고 했다. 구속영장에 적시되지 않은 혐의로 특검이 별건 수사를 하고 있다는 뜻이다.&lt;br&gt;&lt;br&gt;이어 “계엄의 개별 행위들을 잘게 쪼개 구속영장을 청구하며 미진한 수사를 드러내더니, 이제는 별건 수사에 매진하면서 ‘다 연결돼 있으니 조사할 수 있다’고 하고 있다”며 “위법에 위법을 더하는 잘못된 수사”라고 했다.&lt;br&gt;&lt;br&gt;변호인단은 또 “(윤 전 대통령의) 소환 절차에 있어 일방적 통지, 공개 소환 강행, 송달 절차 위반, 특검보와 사법경찰관의 수사 주체 혼동 등 적법 절차는 전혀 고려되지 않고 있다”며 “일방적인 공권력 남용”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전교조마저...“이진숙 지명 즉각 철회해야” </title>
-      <link>https://www.chosun.com/national/education/2025/07/15/U4U55XIKWFCZ5LHDVLBVXJTPLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/15/U4U55XIKWFCZ5LHDVLBVXJTPLU/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 04:59:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZLZX5ELTBE77JXJDMMXRX5NY4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 교육부 장관 후보자/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국교직원노동조합(전교조)이 이진숙 부총리 겸 교육부 장관 후보자의 지명 철회를 요구했다. 친여 성향 교원 단체마저 이 후보자에게 등을 돌렸다는 평가가 나온다.&lt;br&gt;&lt;br&gt;전교조는 15일 서울 종로구 창성동 국정기획위원회 앞에서 기자회견을 열고 “공교육을 책임지기에 자격이 부족한 이진숙 교육부 장관 후보자의 지명을 이재명 대통령이 즉각 철회할 것을 강력히 요구한다”고 했다.&lt;br&gt;&lt;br&gt;전교조는 이날 “이 후보자가 제자의 석사 논문을 표절해 학술지에 발표했다는 논란이 일고 있다”며 “범학계 국민검증단은 ‘이 후보자의 논문 표절은 김건희 씨와는 비교할 수 없을 정도로 심각하다’며 사퇴를 촉구했다. 교육부 장관으로서의 자격이 없음을 방증하는 대목”이라고 했다. 전날 11개 교수·학술 단체 연합체인 범학계 국민검증단은 이 후보자를 둘러싼 논문 의혹과 관해 후보자 논문을 전수 검증하곤 논문 표절 문제가 심각하다고 주장하며 “이 후보자는 교육계 양심 회복과 이재명 정부의 성공을 위해 자진 사퇴해야 한다”고 했다. 검증단은 2022년 윤석열 전 대통령의 배우자 김건희 여사의 학위 논문을 검증해 표절로 결론 내린 단체다.&lt;br&gt;&lt;br&gt;전교조는 이날 “인용 없이 자신을 제1 저자로 올린 것은 명백한 표절로 연구윤리를 심각하게 위반한 것”이라며 “후보자는 해당 논문에 대한 실질적 기여는 자신이 했다고 해명하는데, 이는 오히려 지도교수로서 제자의 학위 논문이 잘못됐음을 인정하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;전교조는 또 “이 후보자는 대학 행정 경험과 대통령 공약인 ‘서울대 10개 만들기’에는 관심과 의지를 보였을지 모르나, 유·초·중등 교육에 대한 전문성과 실천 경험이 현저히 부족하다”고 했다. “이 후보자는 자녀를 중학교 시절 미국으로 조기유학 보낸 사실을 스스로 인정했다. 공교육을 불신하고 사교육으로 대표되는 조기유학을 선택한 사람이 공교육의 수장 자리를 맡을 수 없다는 점을 명확히 보여준다”고도 했다. 이 후보자 인사청문회는 16일 열린다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 오늘 왕윤종 前비서관·내일 강의구 前실장 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/15/DMDTKG6OJNHBHB26SG7EABYJZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/15/DMDTKG6OJNHBHB26SG7EABYJZA/</guid>
-      <dc:creator>방극렬 기자, 이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 15 Jul 2025 01:51:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q72OTVP2FWTMZT5NEST23C3BN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왕윤종 전 경제안보비서관/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 이른바 ‘VIP 격노설’을 알만한 대통령실 관계자들을 연이어 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;정민영 특검보는 15일 기자단 브리핑에서 “이날 오후 2시에 왕윤종 전 경제안보비서관을 조사하고, 16일에는 강의구 전 대통령실 부속실장을 소환 조사할 예정”이라고 밝혔다. 두 사람 모두 참고인으로 조사를 받는다. 특검은 전날에도 이충면 전 외교비서관을 참고인으로 조사했다.&lt;br&gt;&lt;br&gt;왕윤종·이충면 전 비서관은 2023년 7월 31일 윤석열 전 대통령이 주재한 수석비서관 회의에 참석한 인물들이다. 윤 전 대통령은 이 회의에서 ‘임성근 전 해병대 1사단장 등에게 업무상 과실치사를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 내며 고 채수근 상병 사망 사고 수사에 외압을 행사한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;특검은 이들을 상대로 윤 전 대통령이 채 상병 관련 어떤 보고를 받았는지, 대통령이 이에 어떻게 지시했는지 등을 조사 중이다.&lt;br&gt;&lt;br&gt;16일 조사 예정인 강의구 전 실장은 이 회의에 직접 참석하진 않은 것으로 특검은 파악하고 있다. 정 특검보는 “강 전 실장은 윤 전 대통령을 직접 보좌하는 위치에 있었고, 회의 당일 임기훈 전 국방비서관과 여러 차례 통화한 사실이 알려져 있다”며 “(이런 이유 등으로 인해) 강 전 실장에게도 채 상병 사망 직후부터 벌어진 대통령실 수사 개입 여부 등에 대해 확인할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 2023년 당시 회의에 참석한 인물을 윤 전 대통령과 김용현 전 국방장관(당시 대통령 경호처장), 조태용 전 국가정보원장(당시 안보실장), 김태효 전 국가안보실 1차장, 왕윤종·이충면·임기훈 비서관 등 총 7명으로 보고 있다. 특검은 앞서 김 전 실장 조사에서 “윤 전 대통령이 채 상병 사망 사건을 보고받고 크게 화를 냈다”는 진술을 확보했다.&lt;br&gt;&lt;br&gt;한편, 특검은 지난 11일 서울 서초동 윤 전 대통령 자택 압수 수색에서 확보한 윤 전 대통령의 아이폰 내용을 확인하기 위해 대검찰청을 통해 디지털 포렌식을 진행 중이다. 윤 전 대통령 측은 특검의 휴대전화 비밀번호 제공 요청을 거부한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
