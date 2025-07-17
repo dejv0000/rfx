@@ -13,6 +13,80 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>300㎜ 폭우에 光州도 물바다… 지하철도 잠겼다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/SX3RLL6CXJESLBO2H3YCKFIZI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/SX3RLL6CXJESLBO2H3YCKFIZI4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 09:31:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JK3MEHWSOJMSPA5K65JXV3BCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 광주광역시 서구 양동복개상가 인근 태평교 밑으로 흐르는 광주천 강물이 범람 수위까지 도달하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남에 하루 동안 강수량 300㎜가 넘는 폭우가 쏟아져 침수 피해가 이어지고 있다. 하천과 인접한 지역 주민들에게는 대피령이 내려졌다.&lt;br&gt;&lt;br&gt;17일 광주지방기상청에 따르면 이날 오후 5시 기준 광주·전남 누적 강수량은 광주 풍암 311.5㎜, 곡성 옥과 288.5㎜, 담양 봉산 280.0㎜, 나주 279.5㎜, 화순 백아 230.0㎜, 함평 월야 200.0㎜, 무안 해제 139.0㎜ 등을 기록했다.&lt;br&gt;&lt;br&gt;시간당 최대 강수량은 나주 92.0㎜, 광주 남구 80.0㎜, 광주 76.2㎜, 담양 봉산 74.0㎜, 곡성 옥과 70.5㎜, 장성 65.5㎜, 함평 월야 65.0㎜, 신안 지도 60.0㎜ 등으로 나타났다.&lt;br&gt;&lt;br&gt;폭우로 도심 곳곳이 물에 잠겼다. 광주소방본부에 따르면 이날 오후 4시 기준 광주에서 도로 침수 236건, 건물 침수 137건, 도로장애 13건 등 총 419건의 호우 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이날 오후 1시 22분쯤 광주 북구 오룡동 과학기술원 일대가 물에 잠겨 인근 로컬푸드 매장에 고립된 77명이 소방당국 안내를 받아 대피했다.&lt;br&gt;&lt;br&gt;오전 11시 36분쯤 광주 남구 진월동의 한 도로에서는 물이 불어나 차량에 갇힌 탑승자 2명이 구조됐다. 오전 11시 37분쯤 광산구 도천동의 한 도로에서도 차량이 침수돼 운전자 1명이 소방 당국에 의해 구조됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVHYYDMKT2JKTJT5MRENYLQEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 시간당 77㎜가 넘는 '극한 호우'가 내리면서 광주 도시철도 1호선 상무역 역사 안이 침수돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나주시 금천면의 한 숙박업소 내부로 빗물이 차올라 소방 당국이 배수 작업을 했다. 저지대인 광주 북구청·전남대 인근, 광주 남구 백운동 일대 주택과 상점이 물에 잠겨 배수 작업이 진행되고 있다.&lt;br&gt;&lt;br&gt;광주 도시철도 1호선 상무역은 집중호우로 역사가 침수돼 농성역부터 광주 송정역 구간 운행이 중단됐다. 호남고속도로 동광주IC에서 서광주IC까지 양방향 도로도 침수돼 운행이 전면 차단됐다.&lt;br&gt;&lt;br&gt;광주 북구와 광산구는 “집중호우로 인해 순간 침수 지역이 다수 발생해 차량 운행과 외출을 자제하고 조기 귀가해달라”는 안전 안내 문자메시지도 보냈다.&lt;br&gt;&lt;br&gt;홍수 우려로 하천 인접 지역 주민들에게 대피령이 내려지고 있다. 광주광역시 서구는 이날 오후 4시 26분쯤 광주천이 지나는 양동 태평교 인근 주민들에게 대피령을 내렸다. 양동 태평교 인근은 호남권 최대 재래시장인 양동시장이 있다. 점포 수만 1000여 개에 달한다.&lt;br&gt;&lt;br&gt;소태천이 흐르는 광주 동구 인접 지역과 석곡천과 장등천 일대 광주 북구 주민들도 인근 대피 시설로 대피 명령이 내려졌다. 영산강홍수통제소는 영산강 극락교 지점, 풍영정천 2교, 전남 담양군 영산강 삼지교에 홍수 경보를 내렸다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “취약 시간대인 밤사이에도 매우 강하고 많은 비가 예상돼 산사태와 제방 붕괴, 시설물 침수 등 각종 안전사고에 유의를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TJGEFW4HLFDF3N5XOGD2VRBHVE.gif?auth=3711232254e4b8eb8cd955f015770fb578c048abac9507b6d85ee0b08b76a47e&amp;smart=true&amp;width=1400&amp;height=788" type="image/jpeg" height="788" width="1400"/>
+    </item>
+    <item>
+      <title>부산 싼타페 급발진 의심 사고...대법 “현대차 배상 책임 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/17/TW7L5MEBI5C4BOPFI6OIVKAWEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/TW7L5MEBI5C4BOPFI6OIVKAWEI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 10:04:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AT3ZPJT4AGSQZNCUFIHR24GVOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2016년 부산에서 일가족 4명이 숨진 ‘싼타페 급발진 의심 사고’ 유가족이 현대자동차와 부품 제조사를 상대로 손해배상 청구 소송을 냈으나 대법원에서 최종 기각됐다. &lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 A씨가 현대차와 로버트보쉬코리아를 상대로 제기한 10억원의 손해배상 소송 상고심에서 원고 패소로 판결한 원심을 확정했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2016년 8월 부산 남구에서 싼타페 차량에 아내와 딸, 손자 둘을 태우고 운전하다 갓길에 주차된 컨테이너 차량을 들이받았다. 이 사고로 A씨를 제외하고 차량에 탄 가족 4명이 숨졌다. 도로교통공단 분석 결과 사고 당시 차량 속도는 시속 90㎞에 달한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨 등 가족들은 차량의 고압연료펌프를 고정하는 볼트가 풀려 연료가 누출되면서 급발진이 일어났다며 2017년 현대차와 고압연료펌프 제조사인 로버트보쉬코리아를 상대로 위자료를 청구하는 소송을 냈다. 누출된 경유가 엔진 내부로 들어갔고 엔진오일에 섞여 연소실로 유입되면서 급발진 현상으로 이어졌다는 것이다. &lt;br&gt;&lt;br&gt;1심 재판부는 소송 제기 5년 만인 2022년 “자동차 결함으로 발생한 사고임이 입증되지 않았다”며 차량·부품 제조사에 배상 책임이 없다고 판단했다. 사건 당시 볼트가 풀려 있었다는 것을 입증할 증거가 부족하고, 목격 차량 블랙박스 영상을 감정한 결과 브레이크등이 켜지지 않았다는 점을 근거로 들었다.&lt;br&gt;&lt;br&gt;1심 재판부는 “설령 자동차 엔진 등에 이상 현상이 있었더라도 A씨가 브레이크 페달을 확실히 밟았다면 제동이 이뤄졌을 것으로 보인다”며 “운전자가 브레이크 페달을 밟지 않았거나 착오로 가속 페달을 밟았을 가능성을 배제할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;유가족이 항소했지만 2심 판단도 1심과 같았다. 재판부는 “A씨 등이 손해배상 책임을 입증하기 위해 상당한 노력을 기울인 것으로 보인다”면서도 “제출된 증거만으로 차량에 제조상 결함이 있다거나 사고 당시 자동차를 정상적으로 운전했다는 점 등이 증명됐다고 보기 부족하다”고 했다. 대법원도 1·2심과 마찬가지로 현대차와 부품 제조사에 배상 책임이 없다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독]전국 40개 의대, 의대생들 ‘유급 후 2학기 복귀’ 시키기로  </title>
+      <link>https://www.chosun.com/national/education/2025/07/17/3SJIR4KJZ5FX7OXYGJ6R7DNTZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/17/3SJIR4KJZ5FX7OXYGJ6R7DNTZI/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 08:40:53 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y46LCAOOK5GDFLZZXRQF4AWKZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주호 부총리 겸 교육부 장관이 2025년 3월 7일 서울 종로구 정부서울청사에서 학생 복귀 및 의대교육 정상화 브리핑을 하고 있다. 의과대학 선진화를 위한 총장협의회 회장단 양오봉 전북대 총장, 이해우 동아대 총장, 한국의과대학의학전문대학원협회 이종태 이사장 등이 참석하고 있는 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 40개 의대들이 장기 수업 거부로 유급·제적 대상이 된 의대생들에 대해 유급·제적 처분은 원칙대로 하되 올 2학기 수업에 복귀 시키기로 전격 결정했다. 최근 의대생들이 “전원 복귀할 테니, 방안을 마련해달라”고 정부에 건의한 데 대해 대학들이 구체적 복귀 방안을 내놓은 것이다. &lt;br&gt;&lt;br&gt;전국 의대 총장 모임인 ‘의과대학 선진화를 위한 총장협의회(의총협)’는 17일 오후 긴급 회의를 열고 이같은 의대생 복귀 방안을 결정했다. &lt;br&gt;&lt;br&gt;대학들은 우선 올 1학기 수업에 불참해 유급 대상이 된 8000여명(제적 46명 포함)에 대해선 예정대로 행정 처분을 내리기로 했다. 일각에선 유급 조치도 하지 않고 복귀시켜야 한다는 의견도 있었지만, 받아들이지 않기로 한 것이다. &lt;br&gt;&lt;br&gt;한 의대 총장은 “유급 조치도 하지 않으면 앞으로 누가 정부와 대학의 정책을 따르겠느냐”면서 “원칙은 지켜야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;대학들은 유급 조치는 하되, 학생들이 오는 2학기 수업부터 교실에 복귀할 수 있도록 할 예정이다. 의대생 학적에 ‘유급’ 기록은 남기지만 별도 공백 없이 학교에 돌아갈 수 있게 된 것이다. 미복귀 학생에게 유급 패널티를 주겠다는 기존 원칙을 지키면서, 의대생들은 보다 빨리 진급할 수 있게 됐다. &lt;br&gt;&lt;br&gt;앞으로 학생들은 방학 등을 활용해 졸업때까지 1학기에 못 들은 수업을 듣게 된다. &lt;br&gt;&lt;br&gt;의총협은 학년별로 졸업, 진급 일정도 대부분 정했다. 예과 1학년,2학년은 내년 3월 정상 진급한다. 본과 1학년과 본과 2학년은 2029년 2월, 2028년 2월에 각각 학부 과정을 졸업하게 된다. 본과 4학년은 한 학기 수업을 더 듣고 내년 8월에 코스모스 졸업을 한다. 단, 본과 3학년 졸업 일정에 대해선 의대들 간 이견이 있어 의대 학장단 모임인 한국의과대학·의학전문대학원협회(KAMC)의 의견을 듣고 결정하기로 했다. &lt;br&gt;&lt;br&gt;각 대학들이 유급 처분을 받는 의대생들을 2학기 수업에 복귀 시키려면 학칙도 바꿔야 한다. 상당수 의대들이 1년 단위로 학사 과정을 운영하는 ‘학년제’라서 현재 학칙대로라면 유급 처분을 받으면 1년을 통째로 쉬어야 한다. 2학기에 바로 수업을 들을 수 없는 구조인 것이다. 학칙 변경으로 ‘학기제’로 바꾸고 의대 교수들을 설득해 추가 전공 수업을 개설하는 절차가 필요하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“더우니 가게로 들어오세요” 안경원 사장의 배려, 1380만원 사기 피해 막았다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/HVXFGVLD3JHUZBGPM3JSRHFSZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/HVXFGVLD3JHUZBGPM3JSRHFSZQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 09:21:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWL5ZB2TFBCQJAHP4UJUC4SMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 보이스피싱 수거책을 붙잡은 부산 안경원 점주가 경찰로부터 감사장을 받았다./부산 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 안경원을 운영하는 점주가 80대 여성의 돈을 빼앗으려 한 외국인 보이스피싱 수거책을 붙잡은 공을 세워 경찰로부터 감사장을 받았다. &lt;br&gt;&lt;br&gt;17일 부산 서부경찰서에 따르면 서구에서 안경원을 운영하는 전영식(57)씨는 지난달 24일 점포 앞에서 이웃인 80대 여성이 30~40대로 추정되는 외국인 남성과 대화하는 것을 목격했다. 전씨는 야외에서 대화하는 이들을 보고 ‘더우니 가게 안으로 들어와 이야기를 나누라’고 했다. &lt;br&gt;&lt;br&gt;이후 외국인 남성이 자리를 뜨자 전씨는 여성에게 어떤 대화를 나눴는지 물었다. 그러자 이 여성은 “보이스피싱 수사를 한다는 경찰관이 전화를 걸어와 전봇대에 현금을 두고 가라고 해 시키는 대로 했다”며 “방금 만난 외국인이 돈을 가지러 온 것”이라고 했다.&lt;br&gt;&lt;br&gt;보이스피싱 범죄임을 직감한 전씨는 지하철역으로 향하는 외국인 남성을 쫓아가 붙잡은 뒤 가게에 데려왔다. 이 남성은 큰 저항 없이 그를 따라왔다고 한다. 전씨는 그를 붙잡아 두었다가 출동한 경찰에 인계했다. &lt;br&gt;&lt;br&gt;전씨의 기지 덕분에 피해 여성은 현금 1380만원을 지킬 수 있었다. &lt;br&gt;&lt;br&gt;서부경찰서는 전씨에게 포상금과 감사장을 수여했다. 서상태 서부경찰서장은 “경찰과 시민이 함께 범죄를 예방할 수 있도록 적극적으로 112에 신고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시험지 빼내려한 기간제 교사, 확인 전화하자 다른 현직 교사 이름 둘러댔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/KJX2QESWMZE4VGE5S4I7HWAJ6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/KJX2QESWMZE4VGE5S4I7HWAJ6U/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 09:07:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q4ANJDQTBNVNIDZ5PQA6M3FHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시험기간 중 학교에 무단 침입한 혐의(건조물 침입 등)로 구속 영장이 청구된 전직 기간제 교사 A(30대)씨가 지난 14일 대구지법 안동지원에서 구속 전 피의자 심문(영장실질심사)을 받은 후 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동의 한 여자고등학교에서 기말고사 시험지를 빼돌리려 한 혐의로 구속된 전직 기간제 교사 A(31)씨가 범행 당시 교내 경비 시스템 경보음이 울린 뒤 경비업체가 확인 전화를 하자 다른 현직 교사의 이름을 둘러댔던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 이 학교 기말고사 첫날인 지난 4일 오전 1시 20분쯤 학부모 B(40대)씨와 함께 3학년 교무실에 비밀번호를 누르고 들어간 뒤 시험지를 빼돌리려다 학교 경비 시스템에서 경보음이 울리자 달아난 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;17일 경북도교육청에 따르면 당시 경비업체는 경보음이 울리자 지문으로 경비 시스템을 해제한 사람의 신원과 연락처를 확인해 A씨의 전화번호로 전화를 걸었다. &lt;br&gt;&lt;br&gt;A씨는 이 학교에서는 작년 2월까지 근무했지만 교내 경비 시스템에 지문이 등록된 상태로 유지돼 있어 자신의 지문을 찍고 학교 현관에 출입할 수 있었다. 비정상적인 시간대에 경비 시스템이 작동하자 경비업체는 출입 시스템을 해제한 A씨에게 전화를 걸어 신원과 출입 이유를 물었다고 한다. &lt;br&gt;&lt;br&gt;도교육청 관계자는 조선닷컴과 통화에서 “당시 경비업체에서 A씨에게 전화했을 때 A씨가 현직인 다른 교사 이름을 말했다”며 “지문 시스템에 등록된 이름과 A씨가 말한 이름이 다른 걸 파악한 경비업체가 ‘확인 좀 해달라’며 학교 당직 주무관에게 전달한 것으로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;당직 주무관은 자신이 갖고 있던 학교 비상연락망에 경비업체에서 전달받은 번호가 없자 같은 날 오전 학생들에게 수소문해 해당 번호의 주인이 A씨임을 알아냈다고 한다. 이후 당직 주무관이 시설관리자인 행정실장 C씨에게 간밤에 있었던 일을 보고하자 C씨는 “내가 들여보낸 것이니 신경 쓰지 말라”는 취지의 말을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;교육청 관계자는 “행정실장의 이 말을 이상하다고 생각한 당직 주무관이 교감에게 따로 보고했고, 교감이 CCTV 확인 후 경찰에 신고한 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTDN7FUTBBCUXHDNMVUSBIHUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구속된 학부모 경북 안동의 한 여고에 무단 침입한 혐의를 받고 있는 40대 학부모가 대구지법 안동지원에서 영장실질심사를 받고 나왔다. 법원은 이날 이 학부모에 대한 구속영장을 발부했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 대구지법 안동지원은 A씨와 학부모 B씨에 대해 건조물 침입 등 혐의로 구속영장을 발부했다. 행정실장 C씨도 A씨 등이 학교에 침입한 모습이 담긴 CCTV 영상을 지우는 등 범행을 도운 혐의로 구속됐다. 이 사건을 수사 중인 경북 안동경찰서는 수사 과정에서 A씨와 B씨가 과거부터 학교에 여러 차례 침입한 흔적을 확인했다. 경찰은 이들이 과거에도 여러 차례 시험지를 빼돌렸을 가능성이 있다고 보고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 3년 전 교사와 학부모로 만났다고 한다. A씨가 B씨 딸의 개인 과외를 하며 가까워졌다는 말이 나온다. 경찰은 이들의 휴대전화와 계좌를 추적해 여러 차례 수백만 원씩 주고받은 정황도 확인했다. B씨 딸은 고3 수험생으로 그동안 최상위권 성적을 유지해 왔다고 전해진다. &lt;br&gt;&lt;br&gt;학교 측은 B씨 딸의 성적을 0점 처리하고, 퇴학 처리하기로 했다. 경찰은 16일 어머니 등이 빼돌린 시험지를 보고 기말고사를 치른 혐의(위계에 의한 업무방해)로 B씨의 딸을 불구속 입건했다. B씨의 딸은 경찰 조사에서 “(시험지가 똑같아) 뭔가 잘못됐다는 걸 알았지만, 시험지를 훔쳐온 것인지는 몰랐다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>암각화 보존하려 댐 수위 낮추면 식수 부족… 울산시 ‘반구천 딜레마’</title>
+      <link>https://www.chosun.com/national/regional/2025/07/16/UTK7OGDFENBFNM7TLAA4PX4SCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/16/UTK7OGDFENBFNM7TLAA4PX4SCE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 15 Jul 2025 15:38:00 +0000</pubDate>
+      <content:encoded>울산 반구천 암각화가 유네스코 세계유산이 되자 울산은 축제 분위기에 휩싸였다. 거리마다 ‘경축! 반구천의 암각화 세계유산 등재’ 현수막이 내걸렸다. 울산시는 15일 암각화 근처에 세계암각화센터를 짓는 계획을 발표했다.&lt;br&gt;&lt;br&gt;그런데 식수(食水) 문제가 떠올랐다. 반구천 암각화는 울산 시민의 식수원인 사연댐 안에 있다. 그래서 비가 많이 오면 물에 잠긴다. 세계유산인 암각화를 원형 그대로 보존하려면 댐 수위를 낮춰야 하는데, 그러면 그만큼 쓸 물이 줄어든다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLB3AYK66FEN3MWGS7NTMBLE3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반구천 암각화 찾은 대학생들 15일 울산 반구천 암각화를 찾은 대학생들이 사진을 찍고 있다. 최근 유네스코 세계유산에 등재된 암각화는 사연댐 안에 있다. 지금은 댐 수위가 낮아 암각화가 드러나 있다.
+/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;112만 울산 시민이 하루에 쓰는 식수는 39만t이다. 이 중 18만t(46%)을 사연댐이 공급한다. 울산 시민 절반은 사연댐 물을 먹는 것이다. 울산시는 암각화를 보존하기 위해 사연댐 수위를 낮추면 사연댐의 물 공급량이 13만1000t으로 줄어들 것으로 본다.&lt;br&gt;&lt;br&gt;환경부는 지난해 사연댐에서 약 44km 떨어진 경북 청도 운문댐 물을 울산에 공급하기로 했으나 경북 상주시, 의성군 등이 반발해 지금은 백지화됐다. 울산시 관계자는 “시 차원에서 해결할 수 없는 문제라 속만 끓이고 있다”고 했다.&lt;br&gt;&lt;br&gt;사연댐은 1965년 지었다. 이후 1971년 댐 안에서 암각화가 발견됐다. 암각화는 댐 수위가 53m 이상이면 물에 잠기는데 사연댐에 물을 빼는 수문이 없어 암각화는 1년 365일 중 150일 물에 잠겼다. 사연댐은 월류식 댐으로 일정 수위 이상 물이 불어나면 넘치는 구조다.&lt;br&gt;&lt;br&gt;암각화는 1995년 국보가 됐다. 울산시는 2014년 사연댐의 배수로를 활용해 수위를 52m 이하로 맞췄다. 그래도 폭우가 오면 1년 중 42일은 침수된다. 수위를 낮추면서 줄어든 식수 3만t은 약 39㎞ 떨어진 낙동강 물을 정수해 공급한다. 울산시가 낙동강 물값으로 최근 5년간 쓴 돈은 257억원이다.&lt;br&gt;&lt;br&gt;국가유산청과 환경부, 울산시는 지난해 암각화가 세계유산으로 거론되자 655억원을 들여 2030년까지 수문(水門)을 만들기로 합의했다. 수문을 달면 1년에 하루 정도만 물에 잠기게 된다. 대신 부족한 식수는 하루 평균 4만9000t으로 불어난다.&lt;br&gt;&lt;br&gt;부족한 식수를 다른 댐에서 당겨오려고 했으나 논의가 지지부진한 상황이다. 여러 지자체가 얽혀 있기 때문이다. 환경부는 지난해 운문댐 물을 끌어오는 계획을 세웠으나 운문댐 물은 대구 시민의 식수원이다. 환경부는 대구 시민에겐 110㎞ 떨어진 안동댐 물을 추가로 공급하기로 했다. 그러자 안동댐 물을 쓰고 있는 의성, 상주 등이 “우리가 쓸 농업 용수 등이 부족해진다”며 반발하고 있다.&lt;br&gt;&lt;br&gt;강봉원 신경주대 문화재학과 특임교수는 “암각화 보존과 식수 모두 포기할 수 없는 문제”라며 “세계유산 등재를 계기로 정부가 나서 갈등을 조정해야 한다. 지자체들도 조금씩 양보할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“尹 구치소 방에 에어컨 좀..." 인권위에 진정 40건 접수</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/EL2SHFWD3ZFMHJSM5NXFCE2OIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/EL2SHFWD3ZFMHJSM5NXFCE2OIU/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 08:23:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2VATFIZFN4KYHJAU6IHCOV7RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9일 서울중앙지법에서 열린 직권남용 등 혐의 영장실질심사(구속 전 피의자 심문)를 마친 뒤 대기 장소인 서울구치소로 이동하기 위해 법원을 나서고 있다./ 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 수감된 서울구치소 방에 에어컨을 설치해달라는 진정이 국가인권위원회(인권위)에 40여 건 접수된 것으로 나타났다. &lt;br&gt;&lt;br&gt;인권위에 따르면 17일 윤 전 대통령 지지자 40여 명이 “폭염 속 고령자를 좁은 방에 수용하는 것은 부당하다”며 에어컨 설치를 요구하는 진정서를 제출한 것으로 나타났다. 진정서에는 외부 병원 진료를 허용하라는 내용도 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;독거실에 선풍기만 있는 게 알려지면서 교정 시설 내 에어컨을 설치해달라는 지지자들의 민원이 서울구치소에도 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 윤 전 대통령은 지난 10일 직권남용 등의 혐의로 124일 만에 다시 구속됐다. 현재 윤 전 대통령은 2평 규모의 서울구치소 독방에서 단독 수감 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>혼밥 손님에 “얼른 먹어라” 호통... 여수 맛집 주인의 해명은</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/17/L56OHFS2PVFWJFGGHSZODKU6CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/L56OHFS2PVFWJFGGHSZODKU6CU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 08:21:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RFBJCFLQZF6NB4TXBTZVHDNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수의 한 식당이 혼자 방문한 손님을 무례하게 대하는 모습이 공개돼 논란이 되고 있다./ 유튜브 채널 '유난히 오늘'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;맛집으로 알려진 전라남도 여수의 한 식당이 손님으로 온 유튜버에게 무례하게 대하는 영상이 공개돼 논란이 일자 해당 지자체가 실태 점검에 나섰다. 식당 측은 “오해가 생긴 것 같다”고 해명했다. &lt;br&gt;&lt;br&gt;17일 여수시에 따르면 여수시는 전날 불친절 응대 논란이 제기된 해당 식당을 직접 방문해 실태 점검에 나섰다. 업주는 시 관계자에게 “해당 유튜버가 동의 없이 영상을 촬영했고, 본인의 큰 목소리로 인해 오해가 생긴 것 같다”고 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;시는 해당 업소에 대한 특별 위생 점검을 실시해 위반 사항 적발 시 과태료 처분 등 강력 행정 조치를 취하겠다는 방침이다. 시 관계자는 “민원이 발생하면 가장 먼저 업소를 대상으로 위생 상태와 식자재 청결 여부 등을 점검하는 것이 중요하다”면서도 “도시 전 식당에 대해 친절 교육을 강화하고 메뉴얼을 마련토록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 여수의 한 식당이 손님을 무례하게 대하는 모습이 영상을 통해 뒤늦게 알려지면서 논란이 됐다. 해당 식당은 방송인 풍자가 한 유튜브 채널에서 “여수 최고의 맛집”이라며 극찬한 곳이다.&lt;br&gt;&lt;br&gt;유튜버 A씨는 지난 3일 해당 식당에 방문한 내용의 콘텐츠를 올렸다. A씨는 1인분 판매가 되지 않는다는 식당의 요구에 2만 6000원을 내고 2인분을 주문했다. 이후 구석에 앉아 차례로 나오는 반찬들을 영상에 담은 뒤 카메라를 끄고 밥을 먹고 있었다고 한다. 그런데 갑자기 식당 측이 A씨를 향해 호통을 치며 눈치를 주기 시작해 “얼이 빠져 있다가 급하게 카메라를 켰다”고 A씨는 주장했다.&lt;br&gt;&lt;br&gt;당시 상황이 담긴 영상을 보면 식당 측은 “아가씨 하나만 오는 게 아니다” “얼른 먹어야 한다” “이렇게 있으면 (시간) 무한정이다” “예약 손님을 앉혀야 한다” 등의 말을 쏟아냈다. 이에 A씨가 시간을 확인했고 식당에 들어온 지 20분밖에 지나지 않았다고 말했지만, 식당 측은 “그래서?” “고작 2만원 가지고” “그냥 가면 되지” “왜 저러는 거야”라고 했다. &lt;br&gt;&lt;br&gt;A씨는 결국 제대로 식사를 마치지 못한 채 자리를 떴다. 계산을 하려 하자 식당 측은 “놔둬라, 그냥 가라”고 말했지만, A씨는 명함에 적힌 계좌로 음식값 2만6000원을 이체했다고 했다. A씨는 “들어간 지 20분밖에 안 됐을 때 말 한마디 없이 묵묵히 밥을 먹고 있었는데 (시간) 무한정이라는 말에 화가 났다. 뭘 잘못한 건가 싶고 서러웠다”고 눈물을 보였다. &lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “관광으로 먹고사는 도시에서 이게 무슨 일이냐” “2인분 시켰으면 된 거 아니냐” “손 떠는 거 너무 이해된다. 폭언 듣고 밥이 넘어가겠냐“ 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 尹, 내일 구속적부심 직접 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/17/GXYNZ22F55EIVLYS7FPEXST3YA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/GXYNZ22F55EIVLYS7FPEXST3YA/</guid>
@@ -866,15 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWOZFHS5LRB5XIDSGIJBGOSWBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 어한기(漁閑期)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/17/U4Q7DSL5QVBWJJLM7EICOTOUSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/17/U4Q7DSL5QVBWJJLM7EICOTOUSA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G46ZNOO2XRHJLF3T4M2IU2MAPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] up in arms</title>
       <link>https://www.chosun.com/national/nie/english/2025/07/17/BOGZ2PPUH5AQZNSLVPBVBUXPPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/17/BOGZ2PPUH5AQZNSLVPBVBUXPPU/</guid>
@@ -882,51 +947,6 @@
       <description/>
       <pubDate>Wed, 16 Jul 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSF4NKXCTFHDRJH4VEMA4Y37OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 꾸물꾸물하다, 꾸물거리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/17/FAFB3SEROFASJADYGGENSILOUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/17/FAFB3SEROFASJADYGGENSILOUM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYY6YGRZPNAV5EOZF4LHUOVBVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2665] 퍼즐 맞추기</title>
-      <link>https://www.chosun.com/national/nie/2025/07/17/5I6ZCNXLKVCI7PIWGIASLAHC5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/17/5I6ZCNXLKVCI7PIWGIASLAHC5Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LC3IAYLEM5FNLFAXSCBUNPT5EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 크림</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/17/CP5DEFHQNNECRCX7HYSBTC35CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/17/CP5DEFHQNNECRCX7HYSBTC35CQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2BV4ZM7SNHWHICQ6OQQZ64AXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저 믿고 샀을텐데”… 이연복, ‘국밥 대장균 초과 검출’ 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/16/SEHDU5RVNFBCJO5XAVC3JFIRBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/SEHDU5RVNFBCJO5XAVC3JFIRBE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 14:43:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2B2U3MZED5ACBE5GEAJPRPKZ5A.png"&gt;&lt;figcaption&gt;&lt;small&gt;이연복(외쪽)셰프의 브랜드 ‘더목란’이 판매하는 즉석조리식품 ‘한우 우거지 국밥에 대해 식품의약품안전처가 긴급 회수 조치를 내렸다./채널S, 식약처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중식 요리사 이연복이 자신의 이름을 건 즉석조리식품에서 대장균이 초과 검출돼 판매 중단 처분을 받은 데 대해 사과했다. &lt;br&gt;&lt;br&gt;이연복 셰프는 16일 소셜미디어에 “먼저 좋지 않은 소식을 전하게 돼 진심으로 사과드린다”며 “최근 온라인에서 판매된 이연복의 ‘한우 우거지 국밥’ 제품에서 대장균 수치가 기준치를 초과해 식품의약품안전처로부터 판매 중단 조치를 받았다”고 했다. 그러면서 “이유를 불문하고 저를 믿고 제품을 구매해 주신 고객 여러분께 실망과 불편을 드린 점 깊이 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;이어 “해당 제품을 전량 폐기함은 물론 앞으로 일절 유통되는 일이 없도록 판매 및 생산 중단 조치를 완료한 상태”라며 “한우 우거지 국밥 제품을 구매하신 고객들께는 구매처를 통한 환불 및 필요한 조치를 신속히 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이번 사안에 대해 전적인 책임을 지고 최선을 다해 대응하겠다”며 “다시 한번 진심으로 사과드리면서 신뢰를 회복할 수 있도록 끝까지 책임 있는 자세로 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 식품의약품안전처는 즉석조리식품 ‘이연복의 복주머니 한우 우거지 국밥’이 세균수·대장균 기준 규격 부적합 판정을 받아 판매 중단 및 회수 조치한다고 밝혔다. 회수 대상은 소비 기한이 2026년 7월 7일까지인 제품이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나무 뽑히고, 도로 침수되고”...많은 비 내린 중부지방 피해 속출</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/16/NHEPTZPEQRFYPDTU5HUAHKAS2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/NHEPTZPEQRFYPDTU5HUAHKAS2U/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 13:32:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6CZTNUHEBI4PKNLEM2P7HHBK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서해안을 중심으로 강한 비가 내린 16일 오후 호우주의보가 내려진 충남 당진시 송산면의 한 지하차도에서 차량 침수 신고가 접수돼 출동한 소방 당국이 안전 조치에 나서고 있다.(충남 당진소방서 제공)/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 100㎜ 안팎의 많은 비가 쏟아진 중부지방에 피해가 속출했다. &lt;br&gt;&lt;br&gt;소방당국에 따르면 이날 오후 7시 4분쯤 경기 오산시 가장동 가장교차로 인근 고가도로의 10ｍ 높이 옹벽이 무너져 도로를 달리던 승용차 1대를 덮쳤다. 소방당국은 즉시 대응 1단계를 발령하고 굴착기 2대를 투입해 구조 작업에 나서 1명을 구조했지만 숨졌다. &lt;br&gt;&lt;br&gt;앞서 오후 4시쯤 해당 고가도로 수원 방향 차로에서는 지름 수십㎝ 규모의 포트홀이 발생해 복구 작업이 이뤄졌고, 오후 5시 30분부터는 2개 차로가 통제된 상태였다. 현재는 모든 구간 차량 통행이 전면 제한됐다. &lt;br&gt;&lt;br&gt;오후 8시 6분쯤 경기 구리시 인창동 인창삼거리에서는 직경 50㎝가량의 포트홀(도로 파임)이 발생해 지나던 버스 뒷바퀴가 포트홀에 빠지는 사고가 났다. 다행히 인명 피해는 발생하지 않았다. 최근 재포장한 도로로 관계 당국은 이날 내린 비에 포트홀이 발생한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;인천에서는 오후 9시 기준 모두 15건의 비 피해 신고가 119에 접수됐다. 오후 4시 41분쯤 서구 왕길동 검단사거리역 인근에도 나무가 넘어졌고 서구 경서동에서는 전깃줄이 떨어져 소방 당국이 안전 조치를 했다. 또 계양구, 남동구, 서구 등지 빌라가 물에 잠기고 인천대로와 송내지하차도가 침수돼 소방 당국이 빗물을 빼냈다.&lt;br&gt;&lt;br&gt;충남에서는 오후 9시 현재까지 폭우로 인한 119 신고 27건이 접수됐다. 도로 침수 6건, 주택 침수 3건 등이 접수돼 조치를 취했고, 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;충북에서도 전봇대와 나무가 쓰러지고 배수로가 막히는 등 3건의 피해가 접수됐다. &lt;br&gt;&lt;br&gt;기상청은 경기 평택, 충남 공주·부여·청양·태안·서산·보령·서천·홍성, 전북 군산에 호우경보를 발령했다. 오후 9시 현재 누적 강수량은 전북 군산 149.5㎜, 충남 보령 131.0㎜, 인천 옹진 78.5㎜ 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>金총리 “내란 단죄 않으면 세계가 우습게 볼 것”</title>
@@ -947,15 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEF6FUFT3BWKYVSEMTLJ2YEMXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 김건희 여사 일가의 집사라고 불리는 김모(48)씨에 대한 체포영장을 16일 발부했다.&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀은 이날 김씨에 대한 체포영장이 발부됐다고 밝혔다. 김씨 영장을 심사한 서울중앙지법 영장 전담 판사는 “피의자가 정당한 사유없이 수사기관의 출석요구에 응하지 아니할 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 주식을 보유하고 있던 IT업체인 IMS모빌리티(옛 비마이카)가 2023년 대기업·금융사로부터 ‘수상한 투자’를 받으며 수익을 올렸다는 의혹을 받고 있다. 2010년 대학원에서 김 여사를 처음 만난 것으로 전해진 김씨는 2013년에는 IMS모빌리티 설립에 관여했고 2018년 6월부터 2021년 3월까지는 이 회사의 이사를 지냈다. &lt;br&gt;&lt;br&gt;이 때문에 김 여사가 김씨가 수익을 올리는 데 관여한 것 아니냐는 의혹이 제기된 상황이다. 김씨는 지난 4월 윤석열 전 대통령 파면 직후 베트남으로 출국한 뒤 특검 출석 요구에 응하지 않고 있다.&lt;br&gt;&lt;br&gt;이에 특검은 15일 배임 혐의 등으로 김씨에 대한 체포영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“달리던 차 2대 덮쳤다”...오산서 10m 옹벽 붕괴, 40대 운전자 1명 사망 추정</title>
-      <link>https://www.chosun.com/national/incident/2025/07/16/Q6HQSSHJIBGZ5PVWNZVWGV655I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/16/Q6HQSSHJIBGZ5PVWNZVWGV655I/</guid>
-      <dc:creator>오산=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 11:05:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3KDWMPLT62ISEOKJSEKHGACMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 경기 오산 가장교차로 고가도로 옹벽이 폭우로 인해 붕괴, 차량 2대가 깔리는 사고가 발생했다. 현재까지 인명 피해 여부는 정확히 확인되지 않고 있다. 사진은 이날 사고 현장에서 소방대원이 구조작업을 하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 7시 4분쯤 경기 오산시 가장동 가장교차로 인근 도로에서 옹벽이 붕괴돼 차량 2대를 덮치는 사고가 발생했다. 이 중 완전히 매몰된 차량에서 40대 운전자 1명이 숨진 것으로 추정된다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 현재까지 같은 내용의 신고가 총 7건 접수된 가운데 차량 2대가 붕괴된 옹벽 아래에 깔린 것으로 파악됐다. 사고 당시 무너진 옹벽은 약 10m 높이로, 차량 통행이 이뤄지던 도로를 향해 붕괴되며 대형 참사로 이어질 뻔했다. &lt;br&gt;&lt;br&gt;소방당국은 “차량 매몰 및 인명 고립이 우려된다”며 오후 7시 11분 대응 1단계를 발령하고, 지휘차 등 장비 26대와 인력 78명을 현장에 투입했다. 구조 작업에 필요한 굴착기 2대도 급파됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHBBALVCQRMHLK6CFWDAKV3M2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 집중 호우로 경기 오산 가장교차로 고가도록 옹벽이 붕괴돼 차량 2대가 깔리는 사고가 발생했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현장에서 옹벽은 약 10m 높이에서 도로 방향으로 무너졌으며, 차량 2대를 덮쳤다. 1대는 옹벽에 완전히 깔려 매몰됐고, 이 차량에서 사망 추정자가 발견됐다. 이외 탑승자는 없는 것으로 확인됐다. 경찰은 정확한 신원과 사인을 조사 중이다.&lt;br&gt;&lt;br&gt;나머지 차량 1대는 옹벽 일부에만 덮인 상태였고, 탑승자였던 50대 남성 운전자는 스스로 빠져나왔다. 이 남성은 별다른 외상 없이 생명에는 지장이 없는 상태며, 별도로 119나 112에 신고하지는 않았다.&lt;br&gt;&lt;br&gt;소방당국 관계자는 “무너진 옹벽 아래에 차량 2대가 깔린 것이 확인됐고, 구조대원들이 안전 확보를 우선한 뒤 구조를 진행 중”이라며 “정확한 사고 원인과 피해 규모는 추후 확인될 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>오영준 헌법재판관 후보자 “법원 재판 결과도 헌법소원 대상”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</guid>
@@ -972,15 +983,6 @@
       <description/>
       <pubDate>Wed, 16 Jul 2025 09:40:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FO376OKTDKQZ6OTMQXDOQC5GVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병대 수사단장인 박정훈 대령이 16일 오후 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 순직 사고 초동 조사를 맡았던 박정훈(대령) 해병대 수사단장 측이 16일 김계환 전 해병대 사령관을 겨냥해 “다른 사람들이 다 (VIP 격노설을) 진술하는데 최후까지 진술하지 않는 건 온당치 않다. 법적 책임이 불가피할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박 대령 측은 이날 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 약 4시간 동안 참고인 조사를 받고 나오면서 이같이 말했다. 박 대령 측 김정민 변호사는 “김 전 사령관은 이 일(수사 외압 의혹)을 이렇게 만든 데 상당 부분 악영향을 끼쳤다”며 “특검도 당연히 기소를 염두에 둘 것이고, 가장 먼저 신병 처리되지 않을까 생각한다”고 했다.&lt;br&gt;&lt;br&gt;박 대령은 2023년 8월 채 상병 사망 사고 조사 기록을 경찰에 이첩하는 과정에서 김 전 사령관 등의 이첩 보류·중단 지시를 따르지 않고 이첩을 강행했다가 항명 혐의로 기소됐다. 1심은 무죄를 선고했고, 군 검찰이 항소해 2심이 진행됐지만 특검이 지난 9일 항소를 취하해 무죄가 확정됐다. 박 대령은 항명 수사 과정에서 김 전 사령관에게 “윤석열 전 대통령이 ‘이런 일로 사단장을 처벌하면 누가 사단장을 하냐’고 말했다고 한다. 이보다 더 격노한 적이 없다”는 말을 들었다고 주장하며 이른바 ‘VIP 격노설’을 제기했다. 윤 전 대통령이 2023년 7월 31일 국가안보실 회의에서 ‘임성근 전 해병대 1사단장에게 과실치사 혐의를 적용했다’는 해병대 수사단 조사 결과를 보고받고 크게 화를 냈다는 내용이다.&lt;br&gt;&lt;br&gt;윤 전 대통령과 김 전 사령관 등은 그간 격노설을 부인했지만, 특검은 최근 당시 안보실 회의에 참석한 김태효 전 안보실 1차장과 이충면·왕윤종 전 비서관을 조사하면서 “윤 전 대통령이 화를 내는 것을 들었다”는 취지의 진술을 확보했다. 특검은 지난 7일에 이어 17일 김 전 사령관을 추가 소환해 VIP 격노설 등을 확인할 계획이다.&lt;br&gt;&lt;br&gt;박 대령은 “특검 조사에 성실히 임했고, 실체적 진실 발견하는데 큰 도움이 되었으면 좋겠다”며 “향후에도 특검이 부르면 성실하게 조사받겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 전역에 호우특보…퇴근길 수도권·충청에 많은 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/16/XZX4OO5MX5G3XIWXBW3PBZN75Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/16/XZX4OO5MX5G3XIWXBW3PBZN75Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 07:33:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4K4K345E75FWLBBFQ4OFZ5E5YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국적으로 비가 쏟아진 16일 서울 강남구 코엑스 인근 보행로에서 학생들이 우산을 쓰고 비를 피하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근길 서울을 비롯한 수도권과 충청권에 많은 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;기상청은 16일 오후 6시를 기해 서울·인천·세종 전역과 경기·충남·충북·전북 일부 지역에 호우특보를 발효한다고 밝혔다. 행정안전부도 16일 3시를 기해 중앙재난안전대책본부(중대본) 1단계를 가동했다.&lt;br&gt;&lt;br&gt;16~17일 예상 강수량은 서울을 비롯한 수도권과 강원·충청 50~150㎜, 전북 30~150㎜, 광주·전남 20~80㎜, 경북 10~100㎜, 부산·울산·경남 30~80㎜, 제주도 5~60㎜ 등으로 예보됐다. 경기 남부는 최대 200㎜ 이상의 강수량이 기록될 것으로 보인다.&lt;br&gt;&lt;br&gt;이번 비는 뜨거운 바다와 축축한 바람이 비의 ‘씨앗’이 되는 수증기를 원활히 공급하면서 비구름대의 덩치를 키울 것으로 분석됐다. 비구름대가 커지면 짧은 시간에 벼락같이 퍼붓는 집중호우의 강도도 세진다.&lt;br&gt;&lt;br&gt;지역별 강수 집중 시간대를 보면 수도권은 16일 오후부터 17일 밤 사이, 강원은 16일 밤부터 17일 밤 사이, 충청은 16일 밤부터 18일 새벽 사이, 호남은 17일 새벽부터 18일 밤 사이 시간당 30~50㎜의 비가 쏟아지겠다. 영남은 17일 새벽부터 밤 사이, 제주는 18일 오전부터 오후 사이 시간당 30㎜ 안팎의 비가 예상된다. &lt;br&gt;&lt;br&gt;‘매우 강한 비’의 기준이 시간당 30㎜ 이상이며, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;비는 19일까지 전역에 내리다가 비구름대가 남동쪽으로 빠져나가면서 이날 밤 대부분 그칠 것으로 예상됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
