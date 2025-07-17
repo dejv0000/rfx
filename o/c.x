@@ -13,6 +13,80 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산·경남·광주·전남에 호우경보…전국서 5192명 대피</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/MZNY42PPAFDRLEFJAAR6O4B7KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/MZNY42PPAFDRLEFJAAR6O4B7KA/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 22:10:24 +0000</pubDate>
+      <content:encoded>지난 16일부터 이어지는 비로 부산과 경남, 광주광역시와 전남에 호우경보가 발효 중이다. 전국에서 5192명이 대피했고, 도로와 철도도 곳곳에서 통제하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZP7EIMTHCZCFXFWJ7TXT5PVHFM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오전 광주광역시 남구 백운광장 도로와 주택가 골목의 모습. 비가 많이 내려 침수 피해를 입었다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 행정안전부 중앙재난안전대책본부에 따르면, 이날 오전 5시 기준 부산과 경남, 광주광역시와 전남에 호우경보가 발효돼 있다. 서울, 인천, 경기, 대전 등에는 호우주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;이날 0시부터 오전 5시까지 가장 비가 많이 내린 곳은 전남 신안이다. 92.5㎜가 내렸다. 경남 거제(80.5㎜), 부산(58㎜) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;지난 16일부터 이어진 비로 인한 인명 피해는 1명 늘었다. 광주광역시 북구 신안교 인근에서 남성 1명이 실종됐다.&lt;br&gt;&lt;br&gt;집이 물에 잠기는 것을 피해 대피한 사람은 5000명을 넘어선 것으로 집계됐다.&lt;br&gt;&lt;br&gt;중대본에 따르면, 18일 오전 4시 기준 13시·도 52시·군·구에서 3413가구 5192명이 대피했다. 이 중 3003가구 4531명이 아직까지 집으로 돌아가지 못했다.&lt;br&gt;&lt;br&gt;도로 침수, 다리 붕괴 등 이번 호우로 공공 시설 496곳이 피해를 입었다. 주택 침수, 담벼락 붕괴 등 사유 시설도 276곳이 피해를 입었다.&lt;br&gt;&lt;br&gt;전국 도로 125곳과 지하차도 27곳 등은 침수로 차량 통행을 제한하고 있다. 철도 역시 경부선, 호남선 등 7개 구간의 일반 열차 운행이 중단된 상태다. 경전선과 호남선, 전라선은 KTX 운행도 중단됐다.&lt;br&gt;&lt;br&gt;충남에 있는 학교 482곳은 학생들의 피해를 우려해 휴업에 들어갔다. 단축 수업을 하거나 등교 시간을 늦춘 곳도 183곳이다.&lt;br&gt;&lt;br&gt;기상청은 19일까지 전국 대부분에 비가 내릴 것으로 예보했다. 전남과 경남에 100~200㎜, 충청과 전북, 경북에 50~150㎜의 비가 내릴 것으로 전망했다. 수도권에도 30~100㎜의 비가 올 것으로 예상했다.&lt;br&gt;&lt;br&gt;중대본 관계자는 “국민 여러분께서는 외출을 삼가고, 저지대나 산사태 위험 지역 등 피해가 우려되는 곳은 접근을 자제해 주실 것을 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 김건희 특검, 통일교 압수 수색...김 여사 선물 행방 찾을까</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/7EZR27ZAQNFRBF6KANOZIVEEWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/7EZR27ZAQNFRBF6KANOZIVEEWY/</guid>
+      <dc:creator>유희곤 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 22:28:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Z76KKWGWJJSLAY5RYP5L3GCFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계평화통일가정연합 한학자 총재의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 18일 오전 통일교(세계평화통일가정연합) 본부 등에 대한 압수 수색에 나섰다. 통일교 측은 ‘건진 법사’ 전성배씨를 통해 김 여사에게 명품 목걸이와 샤넬백 등을 건넸다는 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 특검팀은 통일교 가평 천정궁과 서울 본부 등에 대한 압수 수색을 실시하고 있다. 앞서 지난 15일 전씨의 주거지 등을 압수 수색한 데에 이어, 본격적으로 통일교를 정조준하고 나선 것이다. 천정궁은 한학재 통일교 총재가 기거하는 곳으로 알려져 있다. &lt;br&gt;&lt;br&gt;통일교 전 세계선교본부장 윤모씨는 전성배씨를 통해 김 여사에게 6000만원 상당의 그라프 다이아몬드 목걸이와 1000만원 상당 샤넬백 2개, 고가의 천수삼 농축차 등을 건네며 청탁을 했다는 의혹을 받고 있다. 앞서 검찰은 이 중 샤넬백 2개는 김 여사 측근인 유경옥 전 대통령실 행정관이 가방 3개와 신발 한 켤레로 바꿔 간 사실도 확인했다. 다만 검찰은 목걸이 등이 실제 김 여사에게 전달됐는지는 확인하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검팀은 한 총재 등 통일교 간부진이 2008~2011년 미국 라스베이거스 카지노에서 통일교 교단 자금으로 600억원대 슬롯머신 도박을 했다는 의혹에 대해서도 살펴보고 있다. 이같은 정보를 입수한 경찰은 원정도박 의혹을 조사했지만, 윤 전 본부장이 윤석열 전 대통령 부부와 가까운 전성배씨의 도움을 받아 이를 무마했다는 의혹이 제기되면서 논란이 됐다. 특검팀은 이번 압수 수색을 통해 통일교 측이 실제로 경찰 수사 무마를 시도했는지 등을 파악할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>테이블·의자 ‘둥둥’…’물폭탄’ 맞은 광주 스타벅스 상황</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/5LYA465MIZHKJGORXW4RT4WH6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/5LYA465MIZHKJGORXW4RT4WH6U/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 22:28:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODXTT374QZGXJGGP2SAARCXMKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주에 하루 동안에만 400㎜가 넘는 기록적인 폭우가 쏟아지며 도로와 건물 곳곳이 침수 피해를 입었다.&lt;br&gt;&lt;br&gt;17일 온라인커뮤니티, 소셜미디어 등에는 “광주 스타벅스 상황”이라는 제목의 사진이 공유됐다.&lt;br&gt;&lt;br&gt;이 사진은 광주광역시 북구 신안동에 위치한 한 스타벅스 매장에서 촬영됐다. 사진을 보면, 이 스타벅스 매장 1층이 침수돼 의자와 테이블 등이 흙탕물 위에 둥둥 떠 있다. 사진 촬영자가 대피한 2층으로 이어진 계단 일부까지도 잠겼으며, 매장 앞 도로도 전부 물에 잠긴 것으로 보인다.&lt;br&gt;&lt;br&gt;이 사진은 엑스(X‧옛 트위터)에서 50만회 이상 조회되며 빠르게 퍼졌다. 이 사진을 접한 네티즌들은 “직원들, 손님들은 갇힌 건가? 어떡하나” “너무 위험하다. 제발 다치지 않고 무사하길” “비가 어떻게 이렇게까지 오나” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4B74ZLZCFECFO2ZAS75ACU7AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 북구 신안동의 스타벅스 매장. /엑스(X‧옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 하루 동안 광주의 누적 강수량은 426.4㎜를 기록했다. 기존 1위 값인 335.6㎜(1989년 7월 25일)를 훌쩍 넘어서면서 관측 이래 전체 연도에서 1위를 기록했다.&lt;br&gt;&lt;br&gt;이는 하루 동안 예년 7월 한 달 내내 내린 비의 양보다 더 많이 내린 셈이다. 1991년부터 2020년까지 7월 한 달간 내린 강수량의 평년값은 294.2㎜였다.&lt;br&gt;&lt;br&gt;광주지방기상청에 따르면, 18일 광주와 전남 나주·담양·곡성·구례·장성·화순·보성·광양·순천·무안·함평·영광·목포·신안 등 14개 시군에는 호우경보가, 나머지 전남 지역에는 호우주의보가 이틀째 발효 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WB5VPUFBUJCOHL6AHZETON7FUA.jpg?auth=746d66b35f705e1b49d48f97fee0685ba38238e62f00aec880afe9365af96668&amp;smart=true&amp;width=1008&amp;height=567" type="image/jpeg" height="567" width="1008">
+        <media:description type="plain">광주광역시 북구 신안동의 스타벅스 매장. /엑스(X‧옛 트위터)</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>광주 신안교서 “사람 물에 떠내려 갔다” 신고… 동광주 IC 통행 재개 </title>
+      <link>https://www.chosun.com/national/regional/2025/07/18/KYAD43PS5JHSPDEXL47QNATGHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/18/KYAD43PS5JHSPDEXL47QNATGHA/</guid>
+      <dc:creator>광주광역시=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 22:08:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UX5T2JVEJ43AVPPNSKOGDIFFQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 상습침수 지역인 광주 북구 신안동 일대가 물에 잠겨 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 호우가 쏟아진 광주광역시에서 빗물에 휩쓸린 사람이 있다는 신고가 접수돼 경찰과 소방 당국이 확인 중이다.&lt;br&gt;&lt;br&gt;18일 광주 북부경찰서 등에 따르면 전날 오후 10시 18분쯤 광주 북구 신안교 인근에서 “물에 떠내려가는 사람이 있다”는 신고가 접수됐다. 떠내려가는 사람이 60대로 추정된다는 신고 내용을 토대로 경찰과 소방 당국은 인근에서 수색 작업을 하고 있다.&lt;br&gt;&lt;br&gt;신고자의 신고 내용만 있는 상황이어서 실제 사람이 떠내려가 실종됐는지는 명확하지 않은 상황이라고 당국은 설명했다. 광주소방본부 관계자는 “사실 확인 중으로, 확인되기 전이어서 인명피해가 발생했다고 하기에는 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;광주에는 전날 하루 동안 426.4㎜의 비가 내려 기상 관측 이래 가장 많은 7월 일 강수량 극값을 기록했다. 한편, 이날 오전 호남고속도로 동광주 나들목(IC)과 서광주 IC를 잇는 구간이 통행 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광명 아파트 화재 3명 심정지 등 65명 중경상… “주차장서 발화”</title>
+      <link>https://www.chosun.com/national/regional/2025/07/18/LKMUNI3VGNDNLMAU5FAOC7GDE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/18/LKMUNI3VGNDNLMAU5FAOC7GDE4/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 21:57:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XLEFDA5VFMAXD3KVXW7LCUEQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주차장에서 화재가 발생한 경기도 광명시 소하동 한 아파트에서 18일 소방관들이 인명 수색 등을 위해 분주하게 움직이고 있다./연합뉴스.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시 소하동 한 아파트에서 한밤중에 불이 나 주민 3명이 심정지 상태로 병원에 옮겨지는 등 65명이 중경상을 입었다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 기둥만 있는 아파트 1층 필로티 주차장에서 불이 시작된 것으로 보고 화재 경위를 조사하고 있다. 불은 지난 17일 오후 9시 10분쯤 발생했다. 최초 신고자는 “주차장 천장에서 불이 났다”고 신고했다.&lt;br&gt;&lt;br&gt;10층 높이 아파트 건물은 1층은 기둥으로 공간을 낸 필로티 주차장이고 2층부터 10층까지 45가구 규모 주거 공간으로 구성돼 있다. 신고를 접수한 소방 당국은 오후 9시 11분쯤 대응 1단계를 발령하고 2분 만에 대응 2단계로 올려 진화 작업을 벌였다. 오후 9시 56분쯤 큰불길이 잡힌 뒤 화재 발생 1시간 20여 분 만인 오후 10시 32분쯤 불은 모두 꺼졌다.&lt;br&gt;&lt;br&gt;세 차례에 걸친 인명 수색 결과 이 불로 심정지 상태인 60대 남성 1명과 60대 여성 2명 등 3명을 포함해 모두 23명이 전신 화상, 의식 장애 등 중상을 입었다. 연기를 흡입해 경상으로 분류된 주민은 42명인 것으로 파악됐다. 연기를 피해 옥상으로 대피했던 주민 23명은 무사히 구조됐다.&lt;br&gt;&lt;br&gt;화재 당시 1층 필로티 주차장의 불길이 거셌고 연기가 위로 올라가면서 많은 주민이 옥상으로 대피한 것으로 보인다. 화재 원인과 일각에서 제기된 전기차 연관 여부는 아직 확인되지 않았다. 인근 아파트 주민은 “펑펑 터지는 소리가 계속 나면서 주차장에 있던 차들 사이로 불길이 번지는 모습이었다”고 말했다. &lt;br&gt;&lt;br&gt;광명시는 화재 발생 직후 ‘안전에 유의하고 인근 차량은 우회하라’는 내용의 안전 문자를 발송한 데 이어 불이 난 아파트 주민들을 위한 임시 거처를 하안동 광명 시민체육관에 마련했다. 경찰과 소방 당국은 자세한 화재 경위와 피해 규모를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광명 아파트에서 큰불…2명 사망, 63명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/SGBIHCQWDNAPLMTBJELGUU37V4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/SGBIHCQWDNAPLMTBJELGUU37V4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 21:49:09 +0000</pubDate>
+      <content:encoded>경기 광명시의 한 아파트 주차장에서 큰불이 났다. 주민 2명이 숨졌고, 63명이 부상을 입었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QDTRU4P2ZK7TE3WECPYACF5NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 밤 경기 광명시 한 아파트 주차장에서 발생한 화재 현장에서 소방대원들이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 소방 당국에 따르면, 전날 오후 9시 5분쯤 “주차장 천장에서 불이 났다”는 신고가 들어왔다. 신고를 받은 소방 당국은 8분 뒤인 오후 9시 13분 대응 2단계를 발령하고 진화 작업을 벌였다. 근처 소방서에서 장비 40여 대와 대원 100여 명을 동원했다.&lt;br&gt;&lt;br&gt;오후 9시 56분쯤 큰 불길을 잡았고, 오후 10시 32분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이번 불로 주민 3명이 심정지 상태로 발견돼 병원으로 이송됐고, 이 중 2명이 사망했다. 20명은 호흡 곤란, 전신 화상 등 중상을 입었다. 42명은 연기를 흡입해 경상으로 분류됐다.&lt;br&gt;&lt;br&gt;소방 관계자는 “주차장에 주차된 차량에서 불이 시작한 것으로 보고 있다”며 “정확한 화재 원인을 조사할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 필로티 구조 건물이 화재를 키웠다는 지적도 나온다. 필로티 구조는 사방이 열려 있다. 불이 나면 이곳으로 공기가 들어와 불을 키울 수 있다.&lt;br&gt;&lt;br&gt;앞서 2015년 경기 의정부시의 한 아파트에서 불이 나 5명이 죽고 125명이 부상을 입었다. 이 아파트 역시 필로티 구조로 지어져 불길이 순식간에 건물 전체로 번졌다. 2017년 충북 제천시의 스포츠 센터 건물에서도 필로티 주차장에서 큰불이 나 29명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CU7QOLKADRE5XNMYYDHQ4XZAMQ.jpg?auth=b24f3d14c8ea18d7080cdc07bb3da2423dcea3f84d443a1f07d12f635523787b&amp;smart=true&amp;width=3777&amp;height=2125" type="image/jpeg" height="2125" width="3777">
+        <media:description type="plain"> 주차장서 화재 발생한 광명 아파트
+    (광명=연합뉴스) 홍기원 기자 = 17일 주차장에 불이 난 경기도 광명시 소하동 한 아파트. 2025.7.17
+    xanadu@yna.co.kr/2025-07-17 23:40:53/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">홍기원</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>광주 하루 폭우 426.4㎜ 기록… 도시철도 1호선 운행 재개</title>
+      <link>https://www.chosun.com/national/regional/2025/07/18/UOWJAJHECRENXCOV3Q6GCHR6OA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/18/UOWJAJHECRENXCOV3Q6GCHR6OA/</guid>
+      <dc:creator>광주광역시=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 17 Jul 2025 21:21:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74Q5K3DKFRNUFOYL5V7X3OK24Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오후 광주광역시 서구 마륵동 상무역사가 빗물에 잠겨 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호우 특보가 이틀째 전역에 발효돼 극한 호우가 쏟아진 광주·전남 지역에 밤사이 비가 내리면서 비 피해도 이어졌다.&lt;br&gt;&lt;br&gt;18일 광주지방기상청에 따르면 광주와 전남 나주·담양·곡성·구례·장성·화순·보성·광양·순천·무안·함평 등 14개 시군에는 호우경보가, 나머지 전남 지역에는 호우주의보가 이틀째 발효 중이다. 이날 자정부터 현재까지 신안 비금 92.5㎜, 영암 시종 38.5㎜, 보성 37.5㎜, 나주 31.5㎜, 강진 27.8㎜, 광주 광산 21㎜ 등의 비가 내렸다. 1시간 최대 강수량은 이날 새벽 기준으로 신안 가거도 17㎜, 보성 4㎜, 영광 2㎜ 등이다.&lt;br&gt;&lt;br&gt;호우경보가 발효돼 비가 내리기 시작한 전날부터 누적 강수량은 광주 433.1㎜, 나주 431.5㎜, 담양 봉산 385㎜, 함평 월야 348㎜, 무안 해제 333㎜ 등을 기록하고 있다. 짧은 시간 유례없는 폭우가 쏟아지면서 관련 피해도 잇따랐다.&lt;br&gt;&lt;br&gt;전남 지역에서는 나주·함평에 있는 주택 마당이 침수돼 소방 당국이 배수 작업을 마치는 등 이날 새벽에만 총 6건의 피해 신고가 들어왔다. 광주에서는 산발적으로 비 피해 신고가 접수됐으나 도로 침수·안전 조치를 요구한 사례인 것으로 파악됐다. 현재까지 두 지역에서 비로 인한 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;혹시 모를 안전 우려로 광주에서는 189세대 271명이 지역 5개 자치구 임시 주거 시설인 경로당이나 문화센터, 인근 숙박업소 등지로 대피 중이다. 도로 통제도 이어져 광주천 주변 하부도로나 지하차도, 하천 둔치 주차장, 세월교 등의 출입이 통제됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZK4ZX7WV7AHNDIG2MBJ3H6YOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전날 시간당 최대 80㎜ 폭우가 쏟아져 물에 잠긴 광주광역시 광산구 첨단 사거리 도로./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침수 피해가 발생해 일부 구간 운행을 중단했던 도시철도 1호선은 복구 작업을 모두 마쳐 첫차가 운행하는 이날 5시 30분부터 전 구역(녹동~평동) 운행을 재개했다. &lt;br&gt;&lt;br&gt;이번 비는 19일 저녁까지 이어질 것으로 예보됐다. 이 기간 돌풍·천둥·번개를 동반한 매우 강한 비가 내린다.&lt;br&gt;&lt;br&gt;광주·전남 지역 예상 강수량은 17~19일 200∼300㎜, 많은 곳은 400㎜ 이상이라고 기상청은 전망했다. 기상청 관계자는 “오늘도 많은 비가 내릴 것으로 예상한다”며 “비 피해가 발생하지 않도록 대비해야 한다”고 말했다. 전날 하루 동안 광주에는 426.4㎜의 비가 내려 기상 관측 이래 가장 많은 7월 일 강수량 극값을 기록했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이진숙 ‘제자 논문 가로채기’ 해명에… 이공계 “대학원생들이 하청인이냐”</title>
       <link>https://www.chosun.com/national/education/2025/07/18/KXEKXQWZNZFV5C3LMMBOMCUKBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/18/KXEKXQWZNZFV5C3LMMBOMCUKBM/</guid>
@@ -788,28 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MWCEOMWZ6RBTLCKXEVQZLMVJCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강의구 전 대통령실 부속실장이 16일 오후 서울 서초구 해병 특검 사무실에 참고인 조사를 받기 위에 출석하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 ‘복심’인 강의구 전 대통령실 부속실장이 해병 특검 조사에서 “당시 ‘VIP 격노설’은 몰랐고, 임기훈 전 국방비서관과의 통화는 대통령 일정을 조율하기 위한 것이었다”는 취지로 진술한 것으로 파악됐다. 강 전 실장은 윤 전 대통령의 검찰총장 시절 비서관 출신으로 대통령 일정과 의전을 총괄 관리했다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면, 강 전 실장은 전날 해병 특검에서 약 5시간 동안 참고인 조사를 받으며 이같이 밝혔다. 특검이 윤 전 대통령이 2023년 7월 31일 국가안보실 회의에서 고 채수근 상병 사망 사고 관련 보고를 받고 격노했는지 묻자, 강 전 실장은 “당시 회의에 참석하지 않아 어떤 내용이 보고됐는지, 대통령이 화를 냈는지 모른다”고 답변했다. VIP 격노설에 대해서는 언론에서 관련 보도를 접해 알게 됐다는 입장이라고 한다.&lt;br&gt;&lt;br&gt;강 전 실장은 안보실 회의 당일 임기훈 전 비서관과 하루에 6차례 통화한 사실이 알려지며 ‘순직 해병 수사 외압’ 의혹의 통로로 지목됐다. 민주당은 해당 통신 기록을 근거로 “수사 외압의 ‘윗선’이 윤 전 대통령이라는 증거”라고 주장했다. 윤 전 대통령이 측근을 통해 ‘임성근 전 해병대 1사단장을 과실치사로 처벌해서는 안 된다’며 국방부 등에 외압을 행사했다는 것이다.&lt;br&gt;&lt;br&gt;이에 대해 강 전 실장은 특검에서 “그해 8월 예정됐던 국방혁신위원회 2차 회의 관련 일정과 장소 등을 조율하기 위해 임 전 비서관과 통화했다”고 설명했다고 한다. 윤 전 대통령이 당시 국방혁신위에 깊은 관심을 가지고 있어 담당 비서관과 여러 차례 업무 연락을 한 것일 뿐, 채 상병 사건과는 무관하다는 취지다.&lt;br&gt;&lt;br&gt;특검은 안보실 회의 직후 이종섭 당시 국방장관에게 전화를 건 대통령실 내선 번호 ‘02-800-7070’ 사용자 등에 대해서도 물었지만 강 전 실장은 “일정 관리 외에는 알지 못한다”고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 안보실 회의 참석자 등 관계자들을 추가로 조사해 수사 외압이 있었는지 규명할 방침이다. 정민영 특검보는 이날 기자단 브리핑에서 “최근 특검은 (VIP 격노설 관련) 회의에서 구체적으로 어떤 논의가 있었는지 집중 조사해 새로운 진술 등을 확보했다”며 “추가 확인이 필요하면 이미 조사한 관계자들도 다시 부를 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현직 용산서 경찰관, 서울에서 일산까지 음주운전... 면허 취소 수준</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/7UTQ3UBBXVFR5ECWNF24QY5KNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/7UTQ3UBBXVFR5ECWNF24QY5KNE/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 05:05:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVYDXFONX224I44I2QQ5XVYOHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서 경비과 소속 경찰관이 음주운전 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;경기 일산서부경찰서는 용산서 소속 30대 중반 남성 경찰관 A씨를 음주운전 혐의로 입건해 조사 중이라고 17일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 15일 서울 용산구에서 술을 마시고 경기 고양시 일산까지 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 일산 킨텍스IC 갓길에 차를 정차한 채 잠들었다가, 이를 발견한 다른 운전자가 깨우자 그대로 운전해 도로 구조물을 들이받은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;당시 A씨의 혈중 알코올 농도는 면허 취소 수준으로 조사됐다. 경찰은 정확한 이동 경로와 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>첫 타깃은 주가조작… 김건희 특검, 삼부토건 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/04/V3NLVMPPX5CH3HR53FG65PXHV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/04/V3NLVMPPX5CH3HR53FG65PXHV4/</guid>
-      <dc:creator>표태준 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 03 Jul 2025 15:56:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOYVCQGA4JB4BFH2D6WTAOHHBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 3일 오후 서울 종로구 삼부토건에 대한 압수수색에 돌입한 가운데 취재진이 대기하고 있다. 2025.7.3 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 ‘삼부토건 주가조작 의혹’과 관련해 3일 삼부토건 본사 등을 압수 수색했다. 전날 수사를 개시한 지 하루 만이고, 내란·김건희·해병대원 특검 가운데 첫 현장 압수 수색이다. &lt;br&gt;&lt;br&gt;특검팀은 이날 오전 언론에 “오늘 오전 삼부토건 회사 및 피의자 등에 대한 압수 수색을 개시했다”고 알렸다. 서울 종로구 삼부토건 본사 사무실과 주가조작에 연루됐다는 의혹이 제기된 관련 업체, 조성옥 전 삼부토건 회장 자택 등 13곳이 압수 수색 대상에 포함됐다. 삼부토건 주가조작 의혹은 특검의 수사 대상인 16개 의혹 가운데 검찰 수사가 거의 이뤄지지 않은 사건이다. 최장 150일 안에 수사를 마쳐야 하는 특검은 수사 진행이 더딘 삼부토건 주가조작 의혹을 첫 수사 대상으로 잡은 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFYTQUETFRHUNCQRZTDWGD4AR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼부토건 건물서 서류 살펴보는 특검팀 - 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 3일 밤 서울 종로구 삼부토건 본사를 압수수색하고 있다. 창문을 통해 특검팀이 압수 수색하는 모습이 보인다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼부토건 주가조작 관련 의혹은 작년 7월 이종호 전 블랙펄인베스트먼트 대표가 해병대 출신 모임 카카오톡 대화방에서 나눈 대화 내용이 공개되면서 불거졌다. 이씨는 ‘도이치모터스 주가조작 사건’에서 김건희 여사 계좌를 관리했던 인물이다. 그런 이씨가 2023년 5월 14일 카톡 대화방에서 지인들에게 “삼부 내일 체크하고”라는 메시지를 올린 사실이 뒤늦게 드러난 것이다. 그러자 민주당 등 현 여권에서 주가조작 전력이 있는 그와 김 여사가 삼부토건 주가조작에도 개입한 것 아니냐는 의혹을 제기했다.&lt;br&gt;&lt;br&gt;이후 금융감독원 조사 결과, 삼부토건이 2023년 5월부터 우크라이나 재건 사업에 참여할 의사와 능력이 없는데도 우크라이나 건설사 등과 형식적인 양해각서(MOU)를 반복 체결하며 인위적으로 주가를 부양한 혐의가 포착됐다. 이에 금융위원회는 지난 4월 조성옥 전 삼부토건 회장 등을 주가를 인위적으로 부양해 수백억 원대 부당 이득을 챙긴 혐의(시세 조종 등)로 검찰에 고발했다. 다만 김 여사와 이종호씨의 직접적인 혐의점은 찾지 못했다며 고발 대상에 포함시키지 않았다.&lt;br&gt;&lt;br&gt;특검팀은 김 여사가 이씨를 연결 고리로 해 삼부토건 주가조작에 관여됐을 가능성을 의심하고 있다. 이씨가 지인들에게 ‘삼부 내일 체크’ 메시지를 보내고 이틀 뒤인 5월 16일 윤석열 전 대통령 부부가 우크라이나 대통령 부인 젤렌스카 여사를 접견했고, 바로 다음 날 정부가 대외협력기금을 활용해 우크라이나 재건 지원을 약속했기 때문이다. 그로부터 5일 뒤(5월 22일) 원희룡 당시 국토교통부 장관과 삼부토건 관계자들이 폴란드에서 열린 우크라이나 글로벌 재건 포럼에 함께 참석했다. 삼부토건은 다음 날인 5월 23일 우크라이나의 마리우폴시 및 폴란드 건설 업체 등과 재건 사업 관련 MOU를 맺은 뒤 이를 공개했고, 이후 삼부토건 주가는 1주당 1000원대에서 5500원까지 5배 이상으로 치솟았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2G6O4IDDNFQPPYOQJAKZ2O2BM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중견 건설 업체인 삼부토건은 오너 일가와 윤 전 대통령 내외의 오랜 인연을 두고 의혹이 끊이지 않았다. 2021년 7월 삼부토건 창업자인 조남욱 전 삼부토건 회장이 2010년 전후 윤 전 대통령과 함께 골프를 치고 선물을 보낸 사실을 적어둔 다이어리가 언론에 공개됐다. 윤 전 대통령이 검사 때부터 친분이 있었다는 것이었다. 조 전 회장 다이어리엔 2003년부터 수차례 ‘김명신(김 여사 개명 전 이름)’과 연락을 주고받고 선물을 보냈다는 내용도 들어 있었다.&lt;br&gt;&lt;br&gt;민주당 등에선 윤 전 대통령이 검사 시절인 2011년 삼부토건 경영진이 배임 혐의로 검찰 수사를 받을 때 영향력을 행사한 것 아니냐는 의혹을 제기하기도 했다. 당시 윤 전 대통령은 “조 전 회장과 알고 지내던 사이로, 통상적인 식사 또는 골프를 같이 한 경우는 있었지만 삼부토건 수사는 물론, 어떠한 타인 수사에도 관여한 적이 없다”고 밝혔었다.&lt;br&gt;&lt;br&gt;조남욱 전 회장은 2017년 삼부토건을 조성옥 전 회장 일가에 넘기며 경영에서 손을 뗀 것으로 알려졌다. 두 사람은 성(姓)은 같으나 혈연관계는 아니라고 한다. 삼부토건이 조성옥 전 회장 측에 넘어가는 과정에 김 여사와 가까운 이종호씨가 개입했다는 의혹도 제기돼 있다. 한 법조인은 “여러 의혹이 제기됐지만 삼부토건 관련 수사는 제대로 진행된 적이 없어서 특검이 수사력을 집중 투입할 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞삼부토건 주가조작 의혹&lt;/b&gt;&lt;br&gt;&lt;br&gt;2023년 삼부토건이 윤석열 정부의 우크라이나 재건 사업에 참여하는 것처럼 꾸며 주가를 5배 이상으로 부양한 사건. 김건희 여사 측근인 이종호 전 블랙펄인베스트먼트 대표가 연루되면서 김 여사 역시 관여했다는 의심을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XOYVCQGA4JB4BFH2D6WTAOHHBI.jpg?auth=73310feae9f76a8aa7ab23e0e59a058f7fb3ccac9a19cf5b5eaa86ca8c366330&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 3일 오후 서울 종로구 삼부토건에 대한 압수수색에 돌입한 가운데 취재진이 대기하고 있다. 2025.7.3 /박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>[속보] 이재용 ‘삼바 분식 회계’ 의혹 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/07/17/E75VOLSWF5CL7HBYZSF5H4HDHU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/E75VOLSWF5CL7HBYZSF5H4HDHU/</guid>
@@ -835,37 +887,6 @@
       <description/>
       <pubDate>Thu, 17 Jul 2025 01:47:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWBVQYZHZD6S5YUUFGCAGC3PXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아육상선수권대회 참가차 경북 구미를 방문해 20대 한국인 여성을 집단 성폭행한 이란 육상 국가대표 선수단 4명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 김천지청 형사2부(부장 정미란)는 특수강간 혐의로 이란 국가대표 선수 A씨 등 3명과 코치 1명 등을 구속 기소했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 아시아 육상선수권대회 기간 중이던 지난 5월 31일 오전 구미의 한 호텔에서 한국인 여성 B씨를 집단 성폭행한 혐의를 받는다. 이 호텔은 당시 이란 국가대표 숙소였다고 한다.&lt;br&gt;&lt;br&gt;경찰은 애초 선수단 4명을 체포한 뒤 선수 1명은 ‘성폭행에 직접 가담하지 않았다’는 이유 등으로 석방했다. 하지만 검찰이 피해자 조사, 휴대전화 등 증거 압수와 분석 등의 보완 수사를 통해 해당 선수도 성폭행에 가담한 것을 확인하고 추가 구속했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “아시아육상선수권대회에 참가차 입국한 이란 국가대표 선수단이 한국 여성을 집단적으로 성폭행한 중대 범죄”라며 “죄에 상응하는 형이 선고될 수 있도록 공소 유지에 만전을 기하고, 앞으로도 중대 성폭력 범죄에 엄정 대응해 나가겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>길 가다 가는 어처구니 없는 세상... 오산 옹벽 피할새도 없어</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/UXPVFJG3IBBHPIJDDGBJTA3E4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/UXPVFJG3IBBHPIJDDGBJTA3E4M/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 01:51:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NAGDYMP75AYNGJ3LCZN3KCNNA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 올라온 오산 옹벽 붕괴 사고 블랙박스 영상./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 경기 오산시에서 10m 높이 옹벽이 무너져 40대 승용차 운전자 1명이 숨진 가운데, 당시 사고 장면을 담은 블랙박스 영상이 온라인 커뮤니티에 올라왔다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면 둑이 터지듯 옹벽이 순식간에 무너지면서 콘크리트와 흙이 고가도로 옆을 지나던 차량 한 대를 덮친다. 뒤따르던 블랙박스 차량은 간신히 피했으나 곧이어 옹벽 위에 설치돼 있던 거대한 철제 구조물이 추락하면서 사고 차량과 블랙박스 차량을 덮쳤고, 앞서 가던 사고 차량은 완전히 매몰됐다. 옹벽과 철제 구조물이 차례로 붕괴하기까지 걸린 시간은 10초 남짓이었다.&lt;br&gt;&lt;br&gt;이 사고는 지난 16일 오후 7시쯤 경기 오산시 가장동 가장교차로 수원 방면 고가도로 아래에서 발생했다. 신고를 받고 출동한 소방 당국은 굴착기 4대를 동원해 구조 작업을 벌였다. 차량은 무게 180t, 길이 40ｍ, 높이 10ｍ가량의 구조물에 깔려 심하게 파손된 상태였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PISICC5AGZEH7EN4JUCGTMJKII.gif"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 올라온 오산 옹벽 붕괴 사고 블랙박스 영상./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구조대원들은 오후 8시 50분쯤 호흡과 맥박이 없는 상태로 차 안에 있던 40대 남성 A씨를 발견했으나 완전히 꺼내는 데는 1시간이 더 걸렸다. A씨는 밤 10시쯤 심정지 상태로 병원에 옮겨졌으나 결국 숨졌다. &lt;br&gt;&lt;br&gt;블랙박스 차량은 앞부분만 파손됐고 그 안의 운전자는 무사히 탈출한 것으로 전해졌다. 이날 오산 지역에는 64㎜의 많은 비가 왔으며 사고 직전인 오후 6∼7시 시우량은 39.5㎜를 기록했다. &lt;br&gt;&lt;br&gt;경기남부경찰청은 17일 오산 옹벽 붕괴 사고의 원인 등을 규명하기 위해 13명 규모의 수사전담팀을 편성해 본격 수사에 나섰다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7NAGDYMP75AYNGJ3LCZN3KCNNA.gif?auth=97ee4f25364062f20bda1bbd35b5e7ff2b757cb3a325643c3caa0886bf6ba341&amp;smart=true&amp;width=896&amp;height=464" type="image/jpeg" height="464" width="896">
-        <media:description type="plain">온라인 커뮤니티에 올라온 오산 옹벽 붕괴 사고 블랙박스 영상./ 온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김용현 ‘내란 특검 기소’ 첫 준비기일, 20분 만에 파행</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/17/HA3Q6WM2FREG3KO4AC3EIB5JTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/HA3Q6WM2FREG3KO4AC3EIB5JTM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 03:02:46 +0000</pubDate>
-      <content:encoded>내란 특검팀이 추가 기소한 김용현 전 국방부 장관의 준비기일이 20분 만에 파행했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RASXTB6ZA62WP3GKVHQZRUKSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 17일 위계에 의한 공무집행 방해, 증거인멸 교사 등 혐의로 추가 기소된 김 전 장관의 첫 공판 준비기일을 진행했다. 준비기일은 본격적인 심리에 앞서 절차 등을 논의하는 것으로, 피고인의 출석 의무가 없어 이날 김 전 장관은 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;이날 재판부는 김 전 장관 측에 국민참여재판 희망하는지 물었다. 그러자 김 전 장관 측 변호인은 “그런 걸 말씀드리기 전에 저희는 이 재판부에서 김 전 장관의 영장이 불법적으로 발부돼 불법 구금 상태라고 주장하고 있다”면서 “과연 공정한 재판을 받을 수 있을 것인가 의논 중이고, 그게 정리가 되면 (국민참여재판 희망 여부를) 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “불법 영장을 발부한 재판부에게 공정한 재판을 기대할 수 없다. 재판부를 기피하고 싶지만, 그러면 구속 중인 피고인이 불이익을 받는다”라며 “재판부가 형사소송법을 준용해 다른 재판부에서 재판할 수 있도록 ‘회피’해주시면 어떨까 한다”고 했다. 재판부 스스로 이 사건 재판에 손을 떼라는 취지다.&lt;br&gt;&lt;br&gt;김 전 장관 측 변호인들은 재판장이 마스크를 착용한 것에 대해서도 “코로나가 창궐하는 상황도 아닌데 누구에게 재판받는지조차 모르게 마스크를 쓰는 것을 이해할 수 없고 재판 공개 원칙에도 반한다”고 주장하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQOZVQHF55M7RHTCJAQIO2NWQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부장관에 대한 구속영장 심문이 진행된 지난달 25일 서초구 서울중앙지방법원에서 김 전 장관의 변호인인 이하상 변호사가 취재진 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 잠시 논의를 거친 뒤 “이 재판을 계속 진행하겠다”며 변호인 측의 협조를 구했다. 그러나 변호인단이 계속 반발하면서 재판은 20분 만에 끝났다. 재판부는 내달 11일 준비기일을 다시 열기로 했다. 재판부가 “국민참여재판 희망 여부에 대해서 다음 기일에라도 밝혀주길 바란다”고 했지만, 변호인 측은 “공정한 재판을 하지 않는 재판부에 의견을 밝히는 건 의미가 없다”며 맞섰다.&lt;br&gt;&lt;br&gt;내란 특검팀은 지난달 18일 김 전 장관을 위계 공무집행방해, 증거인멸교사 혐의로 기소했다. 특검팀이 기소한 첫 사건이다. 특검팀은 김 전 장관이 비상계엄 하루 전인 작년 12월 2일 대통령경호처를 속이고 비화폰을 추가로 받아 노상원 전 국군정보사령관에게 전달하고, 비상계엄이 해제되고 난 12월 5일 수행비서 역할을 한 측근 양모씨에 계엄 관련 자료를 없앴다고 봤다.&lt;br&gt;&lt;br&gt;특검팀은 김 전 장관을 기소하며 추가 구속을 요청했고, 형사34부는 “증거인멸 우려가 있다”며 지난달 25일 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]의대생 복귀 추진에 보직 교수들 집단 사퇴 “기존 복귀생과 형평성 안맞아”</title>
-      <link>https://www.chosun.com/national/education/2025/07/17/4QGGSHB7E5HOFHIIUSC5D3JOHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/17/4QGGSHB7E5HOFHIIUSC5D3JOHA/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 02:26:12 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVBPZMBVLRKT3OSBNAEKGK5Q4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 40개 의대 총장 모임인 의과대학 선진화를 위한 총장협의회(의총협)이 17일 긴급 회의를 열고 복귀한 의대생들을 위한 의대교육 정상화 방안을 논의할 예정이다./연합뉴스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 정부의 의대 정원 증원에 반발해 집단 휴학했던 의대생들이 최근 전원 복귀하기로 한 가운데 사전에 복귀한 의대생들과 일부 의대 교수들이 반발하면서 ‘내부 진통’이 심해지고 있다. 일부 의대에서는 기존 복귀생과 형평성 문제를 거론하며 보직 교수들이 집단 사퇴 의사를 밝히기도 했다. &lt;br&gt;&lt;br&gt;17일 대학가에 따르면 서울 한 사립대 A의대에서 주요 보직 교수들이 최근 의대 학과장에게 집단으로 ‘보직 사직서’를 제출한 것으로 알려졌다. 해당 의대에서 오는 2학기부터 유급 대상자 등 미복귀 학생들의 복학을 추진하자 “1학기에 학교로 돌아온 학생들과 형평성에 맞지 않다”며 반발한 것이다. A의대 교수들은 오는 2학기에 학생들을 급하게 복귀시켜 2학기 수업과 지난 1학기 수업을 동시에 듣게 할 경우 교육 과정이 부실해지는 문제가 발생할 것을 우려하고 있다. 한 교수는 “정부, 대학이 제시한 복귀 시한도 무시하고 돌아오지 않았던 학생들을 기존 복귀 학생과 똑같이 교육시켜 진급시키는 것은 엄청난 특혜가 될 것”이라며 “먼저 복귀해 수업을 들었던 학생들이 반발해 학교를 다시 나갈까 걱정된다”고 말했다.&lt;br&gt;&lt;br&gt;의대 내부 구성원 갈등도 커지고 있다. A의대는 지난 7일부터 학부생 계절학기 수업을 시작했는데 기존 학생뿐 아니라 유급 대상자들도 수업을 듣게 한 것으로 확인됐다. 아직 복귀 일정이 확정되지 않은 의대생들이 지난 1학기에 학교에 돌아간 학생들과 한 교실에서 수업을 듣고 있는 것이다. 온라인 게시판에는 “2학기에 이들을 바로 복귀시켜 내년에 기존 학생과 같이 진급시키려고 하는 것 아니냐”며 반대 의견을 보이는 글들이 올라오고 있다. &lt;br&gt;&lt;br&gt;한편 전국 40개 의대 총장 모임인 의과대학 선진화를 위한 총장협의회(의총협)는 17일 긴급 회의를 열고 복귀를 선언한 의대생들을 위한 의대 교육 정상화 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김계환 전 사령관, 해병 특검 2차 조사 출석… ‘VIP 격노설’ 질문엔 침묵</title>
@@ -962,24 +983,6 @@
         <media:description type="plain">윤석열 전 대통령이 9일 오후 서울 서초구 중앙지법에서 열린 영장실질심사에 출석하고 있다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘이재용 불법 승계 의혹’ 5년만에 오늘 대법 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/17/FGMWJOT6ERCIJEENC3IJ4WG3IE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/FGMWJOT6ERCIJEENC3IJ4WG3IE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:55:00 +0000</pubDate>
-      <content:encoded>이재용 삼성전자 회장의 ‘삼성바이오로직스 분식 회계 의혹’ 사건에 대한 대법원 판단이 오늘 나온다. 2020년 9월 재판에 넘겨진 지 약 5년 만이다. 대법원 3부(주심 오석준 대법관)는 오전 11시 15분 이 회장 등 14명에 대한 상고심 선고를 진행한다. 이 회장은 2015년 제일모직과 삼성물산을 합병하면서 경영권 승계 등을 위해 주식 시세를 조종한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;쟁점은 2015년 삼성바이오가 자회사였던 삼성바이오에피스를 관계 회사로 전환하는 과정에서, 이 회장이 분식 회계에 고의로 관여했는지 여부다. 에피스는 자회사일 때 장부 가격으로 2900억원이었는데, 관계 회사가 되면서 4조8000억원으로 가치가 급상승했다. 검찰은 제일모직의 가치를 부풀려 삼성물산과의 합병을 유리하게 만들기 위한 분식 회계였다고 봤다. 서울행정법원이 작년 8월 분식 회계를 일부 인정하는 취지의 판결을 내리면서 논란이 되기도 했다.&lt;br&gt;&lt;br&gt;앞선 1·2심은 이 회장의 혐의 19개를 모두 무죄로 선고했다. 1심은 “분식 회계 의도를 단정할 수 없다”고 했고, 2심도 “자본 잠식에 빠지는 것에 대해 고민한 노력을 거짓 회계 처리로 볼 수 있는지 의문이며, 전문가와 합의해 정당한 절차를 거쳤다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[핫코너] 호남 어민들 “일터 빼앗는 해상풍력 취소하라”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/UQW6TODGCBBW7A76QKHGQBPA2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/UQW6TODGCBBW7A76QKHGQBPA2U/</guid>
-      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“대통령님, 어민들 일터를 빼앗는 해상풍력발전단지 설립 허가를 취소해주십시오!”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUVZ7Z4XKJCXTDAGQT7LMFPZQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오후 서울 용산구 대통령실 근처에서 전남 영광군어민회 어민 250여 명이 집회를 하는 모습. 해상풍력 발전단지 건설에 반대하는 집회다. /영광군어민회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오후 서울 서초구 과천대로 남태령 인근에서 1.5t짜리 어선 5척을 화물차에 싣고 상경한 어민 250여 명이 이렇게 외쳤다. 전남 영광군어민회 소속 어민들은 조업 해역에 365㎿(메가와트) 규모 낙월 해상풍력발전단지 착공에 반발해 용산 대통령실로 가려다 경찰에 제지당했다. 어민들은 이날 어선을 실은 화물차를 두고 버스로 대통령실까지 간 뒤 “(이재명 대통령을 위해) 유세도 직접 돌았다”며 “우리 이야기를 제대로 들어달라”고 했다.&lt;br&gt;&lt;br&gt;정부의 해상 풍력발전 확대 정책을 두고 “고기 잡을 바다를 발전소에 빼앗기고 있다”는 어민들 반발이 전국 곳곳에서 나오고 있다. 상대적으로 수심이 얕고 바람이 거센 서남해안을 중심으로 대규모 단지 조성이 계획돼 있는데, 특히 호남 지역 어민들과 환경 단체들의 반대가 거세다. 현 여권의 전통적 우군(友軍)들의 불만이 커지는 것이다. 이날 시위에 나온 어민들은 “우리가 만든 대통령인데, 당선 이후엔 우리를 신경 쓰지 않아 배신감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;정부는 전남 영광(3.2GW), 고흥(1GW), 울산(6GW) 등 전국 100곳에서 34GW 규모 해상풍력 사업을 추진하고 있다. 이는 신고리 원자력발전소 34기 규모와 맞먹는 수준이다. 해상풍력발전단지가 조성되면 이 인근에선 어업 활동을 하기가 힘들다. 풍력 가동을 위한 터빈 설치로 해류가 바뀌어 어종 서식지가 줄 수 있다는 우려도 나온다.&lt;br&gt;&lt;br&gt;지난달 23일 전남 고흥군이 대규모 해상 풍력 단지 개발 지원 사업에 선정되자 고흥 어민들도 즉각 반발해 ‘비상대책위’를 만들었다. 고흥군은 2030년까지 4GW 단지 개발을 목표로 하고 있다. 대책위는 “좁은 고흥군 바다에 대규모 해상 풍력 단지가 조성되면 조업 구역이 없어질 게 분명하다. 화학 물질 유출로 오염 피해도 클 것”이라고 했다. 고흥군 어민들은 인근 어업인들과 함께 해상 풍력 반대 시위를 계획하고 있다. &lt;br&gt;&lt;br&gt;제주 추자도 해상에서도 2.3GW 규모의 해상 풍력발전 사업이 추진되는 가운데 친여 성향의 시민단체가 지난 11일 기자회견을 열고 “(이재명 정부는) 사업을 재검토해야 한다”고 주장했다. 그간 제주에선 풍력발전기에서 필요 이상으로 많은 전기가 생산돼 발전기가 멈춰 서는 경우가 반복됐었다. 바다에서 생산한 전기를 육지로 보내기 위한 송배전망이 턱없이 부족한 상황에서 해상 풍력 단지를 추가로 만드는 건 ‘배보다 배꼽이 더 크다’는 주장이 만만치 않다. 문주현 단국대 교수는 “정부가 재생에너지 보급 확대에만 치중한 나머지 어종 교란, 환경 훼손 논란을 간과할 경우 어민들 반발이 더 커질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
