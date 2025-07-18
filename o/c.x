@@ -13,6 +13,148 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“얼른 먹어” 손님에 짜증…여수시, 유명 식당 논란에 친절 강화 특별점검</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/77EGYPR575AKTLIAHV4O7NJRQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/77EGYPR575AKTLIAHV4O7NJRQA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 14:11:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGQCNEXLJ5EHXHBNE644XVA7XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 친절 캠페인을 펼치고 있는 여수시 관계자들. /여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한 유튜버가 여수의 한 유명 식당에서 불친절 응대를 당한 사실이 알려져 논란이 불거진 것과 관련 여수시가 18일 중앙동 이순신광장에서 ‘음식점 친절 서비스 캠페인’을 실시했다고 밝혔다. &lt;br&gt;&lt;br&gt;캠페인에는 여수시위생단체협의회, 한국부인회, 5개 동(광림동·동문동·중앙동·충무동·한려동) 자생단체 회원, 시 보건소 직원 등 150여 명이 참여했다.&lt;br&gt;&lt;br&gt;이번 캠페인은 음식·친절·물가 등 3개 분야를 중심으로 ▲음식점 3정 실천 운동(정겨운 미소, 정갈한 음식, 정직한 가격) ▲부당 요금·불친절 근절 캠페인 ▲지역 물가 안정 홍보 및 안내물 배부 등으로 진행됐다.&lt;br&gt;&lt;br&gt;시는 주요 관광지 음식점을 중심으로 친절 캠페인을 지속 전개하고, 권역별·음식거리별 현장 위생 교육, 반복 민원 업소 특별 점검, 소비자식품위생감시원 및 시민평가단을 활용한 불친절 업소 모니터링 등을 확대해 나갈 계획이다.&lt;br&gt;&lt;br&gt;시 관계자는 “관광객이 많이 찾는 여수에서 발생한 이번 사례를 엄중히 받아들이고 있다”며 “여름휴가철을 앞두고 친절 강화를 위한 특별 점검을 실시하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;여수시는 지난 15일에는 불친절 응대 논란이 제기된 해당 식당을 직접 방문해 실태 점검에 나섰다. 시는 해당 업소에 대한 특별 위생 점검을 실시해 위반 사항 적발 시 과태료 처분 등 강력 행정 조치를 취하겠다는 방침이다. &lt;br&gt;&lt;br&gt;앞서 한 여성 유튜버는 지난 3일 해당 식당에 방문했다가 2인분을 시켰음에도 빨리 먹으라는 재촉을 받았다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면 식당 측은 식당에 들어온 지 20분밖에 지나지 않았음에도 유튜버에게 “얼른 먹어야 한다” “고작 2만원 가지고” 등의 발언을 해 공분을 샀다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘힙합 스타’ 스눕독, EPL 2부 리그 스완지시티 구단주 됐다  </title>
+      <link>https://www.chosun.com/national/people/2025/07/18/T7EIIS5MXNAHZBUI37HZZIN7XQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/18/T7EIIS5MXNAHZBUI37HZZIN7XQ/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 13:21:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YDZNCF3HRMXJIH3HRASJTL5S4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;미국 힙합 스타 스눕독./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 힙합 스타 스눕독(54)이 잉글랜드 프로축구 2부 리그(챔피언십) 스완지시티의 공동 구단주가 됐다. 스완지시티는 18일 “스눕독이 구단의 공동 구단주이자 투자자로 합류했다”고 공식 발표했다. 스눕독은 구단을 통해 “내 축구 사랑은 유명하다”며 “구단주로서 첫걸음을 내딛는 것은 내게 특별한 일”이라고 밝혔다. 구단은 그의 합류를 기념해 홈구장 한쪽 벽면에 스눕독의 벽화를 그렸다. &lt;br&gt;&lt;br&gt;스완지시티는 과거 잉글랜드 프리미어리그(EPL) 시절 기성용(36·포항)이 활약했던 팀으로, 현재는 엄지성(23)이 소속돼 있다. 최근 레알 마드리드를 떠나 AC밀란으로 이적한 크로아티아 축구 레전드 루카 모드리치(40)도 이 구단의 공동 구단주다.&lt;br&gt;&lt;br&gt;세계 프로축구계에서는 스눕독처럼 유명 인사들이 구단주로 참여하거나 지분을 보유하는 사례가 많다. 영화 ‘데드풀’로 유명한 할리우드 배우 라이언 레이놀즈(49)는 2021년 잉글랜드 5부 리그 팀 렉섬을 인수해 지난 4월 2부 리그까지 승격시키며 화제를 모았다. 그 과정을 담은 디즈니+ 다큐멘터리 ‘웰컴 투 렉섬’도 큰 인기를 끌었다. 2014년 아카데미 남우주연상을 받은 매슈 매코너헤이(56)는 MLS 오스틴FC의 공동 소유주이며, 영화 ‘레옹’으로 유명한 내털리 포트먼(44)은 미국 여자축구팀 엔젤시티FC의 공동 구단주로 활동하고 있다.&lt;br&gt;&lt;br&gt;스포츠 스타들이 축구 팀 구단주가 된 경우도 많다. 영국 축구 스타 데이비드 베컴(50)은 리오넬 메시가 뛰는 MLS 인터 마이애미의 공동 구단주다. NBA 스타 르브론 제임스(41)는 EPL 리버풀, 케빈 듀랜트(37)는 프랑스 파리 생제르맹의 지분을 보유하고 있다. NFL 레전드 톰 브래디(48)는 잉글랜드 2부 버밍엄시티의 주주로 참여 중이다. &lt;br&gt;&lt;br&gt;이처럼 ‘셀럽’들에게 프로축구 구단은 안정적인 투자처로 각광받고 있다. 팬층이 두꺼운 축구 구단은 구단 가치가 꾸준히 상승할 뿐 아니라, 중계권료와 상품 판매 등 다양한 부가 수익도 지속적으로 창출된다. 구단 입장에서는 유명인 구단주나 주주를 통한 홍보 효과도 기대할 수 있다. 스완지시티는 “스눕독의 글로벌 인지도가 구단 브랜드를 전 세계에 알리는 데 중요한 역할을 하길 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경계 근무 중 총 버리고 탈영… 택시 타고 도주하다 잡혔다</title>
+      <link>https://www.chosun.com/national/incident/2025/07/18/DAEQVOTQ6NFYRJ27K5F27DYIFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/18/DAEQVOTQ6NFYRJ27K5F27DYIFI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>경계 근무 중 총기와 공포탄을 버리고 부대를 무단 이탈한 육군 병사가 충북 괴산에서 경찰에 붙잡혔다.
+18일 경찰 등에 따르면 이날 오후 7시 47분쯤 강원 강릉시 한 부대에서 경계 근무를 서던 A상병이 총기와 공포탄을 부대 인근에 유기한 뒤 부대를 이탈했다.
+</description>
+      <pubDate>Fri, 18 Jul 2025 13:41:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경계 근무 중 총기와 공포탄을 버리고 부대를 무단 이탈한 육군 병사가 충북 괴산에서 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;18일 경찰 등에 따르면 이날 오후 7시 47분쯤 강원 강릉시 한 부대에서 경계 근무를 서던 A 상병이 총기와 공포탄을 부대 인근에 유기한 뒤 부대를 이탈했다.&lt;br&gt;&lt;br&gt;부대 측은 A상병의 탈영 사실을 확인한 뒤 즉시 경찰에 공조를 요청해 수사에 나섰고, 오후 10시 2분쯤 충북 괴산IC에서 택시로 도주 중이던 A상병을 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A상병의 신병을 군 수사 당국에 인계했으며, 군은 A상병을 상대로 부대 이탈 경위와 범행 동기 등을 조사 중이다.&lt;br&gt;&lt;br&gt;군 관계자는 “A 상병이 탈영하면서 유기한 총기와 공포탄은 모두 회수했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg?auth=e2a70b10d67c22c79bf6f24cf1f1667230c95367d87f5acf91760d597eee3718&amp;smart=true&amp;width=400&amp;height=225" type="image/jpeg" height="225" width="400">
+        <media:description type="plain">경찰 로고. /조선일보DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>구속적부심 카드로 다시 석방 노렸던 尹…이번엔 실패</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/LIRSLBHTNRA4VLROUAJ2JTARRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/LIRSLBHTNRA4VLROUAJ2JTARRI/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:29:07 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 ‘구속적부심’ 카드로 다시 한번 석방을 노렸다가 실패했다. 윤 전 대통령은 지난 3월 구속 취소 청구를 냈다가 법원이 이를 받아들이면서 석방된 적이 있는데, 이번에는 같은 일이 반복되지 않은 것이다. &lt;br&gt;&lt;br&gt;윤 전 대통령과 변호인단이 ‘구속이 적법했는지 판단해 달라’며 청구한 구속적부심사가 18일 기각됐다. 서울중앙지법 형사9-2부(재판장 류창성)는 “피의자 심문 결과와 사건 기록에 의하면 이번 구속적부심 청구는 이유가 없다고 인정된다”고 밝혔다. 법원이 이날 최종 기각 결정을 내리면서 윤 전 대통령은 서울구치소에 계속 구속된 상태에서 내란 재판과 특검 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRFARPHOX6DYYRNFJSEMKZTCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령은 그간 체포·구속영장에 대해 형사소송법상 불복 절차를 동원해서 대응했다. 윤 전 대통령은 고위공직자범죄수사처(공수처)가 작년 12월 서울서부지법에서 한남동 대통령 관저 수색영장을 발부받자 곧바로 헌법재판소에 권한쟁의심판과 효력정지 가처분을 신청했다. 영장에 ‘형사소송법 제110조와 제111조의 적용은 예외로 한다’는 내용이 담겨 문제라고 주장했다. 두 조항은 각각 ‘군사상 비밀을 요하는 장소’와 ‘공무원 직무상 비밀에 관한 곳’은 책임자 등의 승낙 없이는 압수 또는 수색하지 못한다는 내용이다. 변호인단은 “(이를 예외로 하는 것은) 대통령의 국가원수로서의 지위에 따른 국군통수권을 침해한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 서부지법은 이러한 변호인단의 주장을 받아들이지 않았고, 이의신청을 기각했다. 공수처는 두 차례 시도 끝에 지난 1월 윤 전 대통령 체포영장을 집행했다. &lt;br&gt;&lt;br&gt;그러자 윤 전 대통령 측은 공수처가 내란죄를 수사할 권한이 있는지 논란이 있다며, 이번엔 서울중앙지법에 체포적부심사를 청구했다. 윤 전 대통령 측은 또 공수처가 자신들의 1심 사건 관할인 서울중앙지법이 아니라 대통령실과 관저 소재지 관할 법원인 서울서부지법에 영장을 청구했다며 ‘관할 위반’을 주장했다. 하지만 법원은 공수처 손을 들어주며 윤 전 대통령 측의 체포적부심 청구를 기각했다. 공수처가 이튿날 서울서부지법에 구속영장을 청구해 발부받으면서 윤 전 대통령의 구금 상태가 유지됐다.&lt;br&gt;&lt;br&gt;이후 공수처에서 사건을 넘겨받은 검찰은 윤 전 대통령을 구속 기소했다. 윤 전 대통령 측은 이번에 자신의 내란 재판을 맡은 서울중앙지법 형사25부(재판장 지귀연)에 구속 취소를 청구했다. 법조계에선 구속 취소가 인용되는 사례가 적어서 윤 전 대통령도 풀려나기 어려울 것이란 전망이 많았지만, 재판부는 지난 3월 윤 전 대통령의 구속을 취소했다. 재판부는 체포적부심이나 영장실질심사 때 구속 기간에 반영하지 않은 기간 기준을 ‘날(日)이 아닌 시간(時)’으로 봐야 한다고 보고, 검찰이 윤 전 대통령을 구속 기소할 당시 이미 구속 기한이 지났다고 판단했다. 대검이 즉시항고를 하지 않으면서 윤 전 대통령은 지난 3월 8일 체포 52일 만에 석방됐다.&lt;br&gt;&lt;br&gt;조은석 내란 특검팀이 지난달 출범했고, 특검팀은 윤 전 대통령을 두 차례 대면 조사한 후 지난 6일 구속영장을 청구했다. 서울중앙지법이 지난 10일 구속영장을 발부하면서 윤 전 대통령은 석방 124일 만에 다시 서울구치소에 수감됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 특검이 공소 유지를 맡은 내란 혐의 재판에 두 차례 불출석하고, 특검팀의 소환 요구에도 응하지 않았다. 그러다가 건강 악화 등을 이유로 구속적부심을 청구했다. 윤 전 대통령은 이번에도 석방을 기대했지만, 재판부가 구속의 정당성과 필요성을 소명한 특검팀의 손을 들어주면서 무산됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임성근 “이철규·김장환·이영훈에 구명 로비 안 해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/BVSCRV6XLVFRBI46XNCFPWSJWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/BVSCRV6XLVFRBI46XNCFPWSJWI/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 13:23:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFP5MVO6ZRFOBBKYSFGXU36VDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 2일 오후 서울 서초구 해병 특검 사무실 앞에서 발언하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 ‘개신교 구명 로비’ 통로로 지목된 이철규 국민의힘 의원, 김장환 극동방송 이사장, 이영훈 여의도순복음교회 담임목사 등에 대해 “구명 로비를 부탁한 사실이 전혀 없다”며 의혹을 모두 부인했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 18일 본인이 운영하는 카페에 입장문을 올려 “구명 로비 의혹으로 압수 수색이란 봉변을 겪으신 그분들께 죄송한 마음”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이철규 의원과 이영훈 목사, 김장환 이사장, 군종 장교 백모 목사 등이 임 전 사단장의 구명 로비에 가담한 정황을 포착하고 이들에 대한 압수 수색을 진행했다. 2023년 7월 고 채수근 상병 사망 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에 이들이 관여했을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQVJTOZYD5F6DP6ZQBSR4LIJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장환 극동방송 이사장(왼쪽)과 이영훈 여의도순복음교회 담임목사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 임 전 사단장은 “구명 로비를 부탁한 사실이 전혀 없고 일부는 일면식도 없는 사이”라며 의혹을 모두 부인했다. 임 전 사단장은 이 의원에 대해 “이 의원과는 일면식이 없으며 전화 통화를 한 바도 없다. 전화번호도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이른바 ‘VIP 격노설’이 불거진 2023년 7월 31일 자신과 통화를 한 것으로 알려진 백 목사에 대해서는 “백 목사님은 해병대 1사단 교회의 담임목사셨고, 저와 아내가 몇 차례 통화를 한 적 있다”면서도 “신앙과 교회에 대한 통화였을 뿐 구명을 부탁한 사실은 전혀 없다”고 말했다. 이어 “백 목사님이 다른 분께 저를 위해 무슨 말씀을 하셨는지 알 수 없고, 백 목사님에게 (저의) 구명 활동을 했다는 말도 들은 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 개신교계 원로인 이 목사와 김 이사장을 통한 구명 로비 의혹도 모두 부인했다. 임 전 사단장은 “이 목사와는 2022년 말 기억나지 않는 용건으로 한 번 통화한 일 외에는 인연이 전혀 없다”며 “왜 갑자기 이 목사가 등장한 건지 어리둥절하다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 목사에 대해서는 “채 상병 사고 이후 목사님께서 먼저 전화를 주셔서 저와 부대를 걱정해 주었다”며 “저는 부대와 부대원들을 위해 기도해주십사 부탁했고, 전화로 기도를 해 주신 적이 있다. 개신교의 큰 어르신인 김 목사에게 구명 로비를 부탁하는 것은 상상조차 하지 못할 일”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘찐윤 실세들’ 권성동·이철규, 특검 첫 번째 표적됐다 </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/6DXYU2PGXREIXLJCHNS2RATF7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/6DXYU2PGXREIXLJCHNS2RATF7Q/</guid>
+      <dc:creator>김나영 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:49:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VIHLHJGG5FKFMBTW2UCUH764Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 특검 수사관들이 18일 서울 여의도 권성동 국민의힘 의원실에 압수 수색을 하기 위해 진입하고 있다. 특검은 이날 권 의원의 서울 자택과 지역구인 강릉 사무실 등에 대한 압수 수색을 실시했다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검과 해병대원 특검이 18일 윤석열 정부의 핵심 실세였던 국민의힘 권성동·이철규 의원에 대해 각각 압수 수색에 나서면서 특검 수사가 전 정권 핵심부를 겨냥하기 시작했다.&lt;br&gt;&lt;br&gt;김건희 특검은 이날 권성동 의원이 2021~2024년 통일교 관계자에게 불법 정치자금을 받은 정황을 잡고, 서울 여의도 국회의원 회관 사무실과 권 의원 지역구인 강원 강릉 지역 사무실을 압수 수색했다. 권 의원은 통일교 2인자 윤모 전 세계선교본부장이 주최한 행사에서 축사를 하는 등 가까운 사이로 알려졌다. 윤 전 본부장은 ‘건진법사’ 전성배씨를 통해 김건희 여사에게 다이아몬드 목걸이와 샤넬백 등을 전달하려 한 인물이다.&lt;br&gt;&lt;br&gt;특검은 전성배씨와 윤 전 본부장이 2023년 1월 국민의힘 당대표 선거를 앞두고 통일교 교인들을 대거 입당시켜 권 의원을 당대표로 만들려 했다는 의혹도 조사 중이다. 윤 전 본부장은 전씨에게 2022년 11월쯤 “윤심은 정확히 무엇입니까, 전당대회에 어느 정도 필요한가요”라는 문자메시지를 보냈고, 전씨는 “변함없이 권(성동)”이라고 답한 것으로 알려졌다. 전씨는 2022년 대선 때 권 의원 밑에서 윤석열 후보 캠프 네트워크본부를 이끌었다. 다만 권 의원은 당시 당대표 선거에 출마하지는 않았다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 임성근 전 해병대 1사단장 ‘구명 로비’ 의혹과 관련해 이철규 의원 자택과 국회 및 지역 사무실 등을 압수 수색했다. 해병 특검은 2023년 7월 고 채수근 상병 사망 사고 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에서 교회 집사인 이 의원 등 개신교 인사들을 통해 구명 청탁을 한 의혹을 수사 중이다. 특검 관계자는 “임 전 사단장 구명 로비 의혹과 관련해 이 의원이 당시 다수 개신교 인사들과 연락한 정황이 포착됐다”고 말했다. 이 의원은 이른바 ‘VIP 격노설’이 불거졌던 2023년 7월 31일 개신교계 원로인 김장환 극동방송 이사장, 윤석열 전 대통령과 통화한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이에 대해 임 전 사단장은 “이 의원은 일면식도, 통화를 한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>총책 별칭 ‘마동석’... 캄보디아에 근거지 두고 피싱 사기</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/6X5RQCYKFJEXHDXZPBGQWET27Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/6X5RQCYKFJEXHDXZPBGQWET27Y/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:56:25 +0000</pubDate>
+      <content:encoded>동남아 주요 관광지인 캄보디아에 근거지를 두고 검찰·금융감독원 등을 사칭하며 우리 국민 돈을 뜯어내 온 보이스피싱 조직원들이 검찰에 무더기로 구속됐다. 이번에 구속된 조직원 전원은 한국에 거주하던 20~30대 MZ세대다. 이들은 총책인 중국계 외국인의 지시에 따라 피해자들 휴대폰을 해킹하거나 피해 금액을 송금·이체하는 역할을 해온 것으로 조사됐다. 검찰은 해외 정부와의 공조를 통해 캄보디아에 있는 것으로 추정되는 조직 지도부도 추적해 송환하겠다는 방침이다.&lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 범죄 정부합동수사단(단장 홍완희)은 보이스피싱 조직에 가담한 한국인 조직원 18명을 구속 기소했다고 18일 밝혔다. 현재 조사로는 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 뜯어낸 혐의(사기 및 범죄단체 가입·활동 등)를 받고 있다. 실제 피해액은 더 많을 것으로 보고 검찰은 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 7개 범죄 수법에 따라 전문팀을 나눈 뒤 별도 이름을 붙여 기업형 구조로 운영한 것으로 드러났다. 구속된 18명 중 13명이 속한 ‘로맨스팀’은 성매매 업소 실장을 사칭해 피해자를 유인한 뒤, 허위 사이트 가입을 유도했다. 이후 성매매 알선을 미끼로 “신원 확인에 필요한 인증 비용을 송금해달라”며 돈을 뜯어냈다. 처음엔 인증 비용보다 큰 금액을 환불해줘 피해자들을 속인 뒤, 2~3번에 걸쳐 추가 인증을 요구하며 거액을 가로챘다.&lt;br&gt;&lt;br&gt;이들은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 조직 자금을 관리·세탁하는 ‘이체팀’ 등을 운영했다. 이번에 구속된 한국 조직원들은 캄보디아에서 활동하다가 비자 연장 등 문제로 한국에 잠시 돌아왔다가 검거됐다.&lt;br&gt;&lt;br&gt;검찰은 콜센터와 지도부급 조직원들은 대부분 캄보디아 수도 프놈펜에 본거지를 두고 있는 것으로 파악하고 있다. 이들은 발각 위험이 있을 때마다 근거지를 바꾸는 방식으로 수사망을 피해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 구속 유지… 특검, 이르면 주말 기소 가능성</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/DX6FRIMWBBHGJLBVXYS5EIXXCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/DX6FRIMWBBHGJLBVXYS5EIXXCE/</guid>
+      <dc:creator>김은경 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 11:29:30 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 구속 필요성이 있는지 다시 판단해달라고 법원에 요청했지만, 법원이 받아들이지 않았다. 내란 특검팀은 구속 기간을 연장하지 않고 이르면 이번 주말 안에 윤 전 대통령을 기소하는 방안을 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOC7MJSXPZ6LVOPHF5AN2T2YWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 지난 9일 오후 서울 서초구 중앙지방법원으로 출석하는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9-2부(재판장 류창성)는 18일 윤 전 대통령의 구속적부심 심문을 진행한 뒤 청구를 기각했다. 재판부는 “피의자 심문 결과와 사건 기록에 의하면 이번 구속적부심 청구는 이유가 없다고 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 10일 내란 특검팀이 청구한 구속 영장이 발부돼 서울구치소에 수감된 이후 엿새 만인 지난 16일 법원에 구속적부심을 청구했다. 구속적부심은 법원이 피의자의 구속이 적법하고 계속 유지될 필요가 있는지를 다시 판단하는 절차다.&lt;br&gt;&lt;br&gt;재판부는 이날 오전 10시 15분부터 오후 4시 14분까지 구속적부심 심문을 진행했다. 중간에 점심 식사를 위해 약 1시간 휴정한 것을 제외하고는 약 4시간 50분간 심문이 이어진 것이다.&lt;br&gt;&lt;br&gt;지난 9일 영장실질심사에 이어 이날도 윤 대통령 측의 김홍일·배보윤·채명성·송진호·최지우·유정화·김계리 변호사와, 내란 특검팀의 박억수 특검보·조재철 부장검사 등이 법정에서 다시 맞붙었다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 직접 법정에 출석해 30여 분간 자신의 건강 상태를 설명하며 석방을 호소했다. 독방 수감 이후 당뇨 합병증과 기력 저하 등으로 식사와 운동이 어려운 상황이며, 증거 인멸의 우려도 없다고 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단도 약 2시간 동안 140여 쪽 분량의 파워포인트(PPT) 자료를 활용해 구속의 부당성을 설명했다. 윤 전 대통령의 간 수치가 평균의 5배, 공복 혈당도 230에 이른다며 관련 피 검사 수치도 재판부에 제출했다. &lt;br&gt;&lt;br&gt;그러나 결국 재판부는 윤 전 대통령 측 주장을 모두 받아들이지 않았다. 심문을 마친 뒤 호송차를 타고 구치소로 돌아간 윤 전 대통령은 구속 상태를 유지하게 됐다. &lt;br&gt;&lt;br&gt;구속적부심이 기각되면서 특검팀은 대면 조사를 위한 강제인치를 한 차례 더 시도할 가능성이 있다. 이마저 무산될 경우, 추가 조사 없이 빠르면 이번 주말 내 기소할 가능성이 크다. &lt;br&gt;&lt;br&gt;지난 10일 구속된 윤 전 대통령의 구속기한은 당초 19일까지였지만, 형사소송법상 구속적부심 기간은 구속일수에서 제외돼 2~3일 가량 늘어났다. 검찰이 구속기간 연장을 신청하면 최대 10일 더 수사할 수 있으며, 이 경우 윤 전 대통령의 기소 시점은 다소 늦춰질 수 있다. 검찰이 구속기간 연장 신청을 하지 않을 경우 이르면 이번 주말에 기소를 할 것이라는 전방이 법조계에선 나온다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 윤 전 대통령에게 특수공무집행방해 혐의 등을 적용해 추가 기소하면서 구속영장을 청구했다. 서울중앙지법 남세진 영장전담 부장판사는 지난 10일 새벽 “증거 인멸의 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘홀로그램 경찰관’ 세워놨더니…범죄 22% 줄었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/IT25TMWDXRCQ3JSU4SEJPRPCVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/IT25TMWDXRCQ3JSU4SEJPRPCVU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:49:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55DAR4IGW4RFG5VY7LW7IPYXPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홀로그램 경찰관/서울 중부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“긴급 상황이 발생하면 경찰이 실시간 출동합니다. 이곳에 CCTV가 설치돼 있습니다.”&lt;br&gt;&lt;br&gt;17일 밤 서울 중구 을지로 번화가 인근 저동 3공원에 170cm 중반 키에 정복을 입은 경찰관이 이렇게 말한 뒤 갑자기 사라졌다. 2분 뒤 다시 나타나 같은 말을 반복한 뒤 없어졌다. 귀신이 아니다. 주취 폭력, 강도 등의 범죄를 막기 위해 경찰이 설치해 놓은 ‘3차원(3D) 경찰관 홀로그램’이다. 서울 중부경찰서는 이 홀로그램을 설치한 뒤 공원 인근 범죄율이 대폭 감소했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;경찰이 사람 크기의 홀로그램을 이 공원에 설치한 건 작년 10월이다. 영상은 매일 저녁 7~10시 재생됐다. 이후 올해 5월까지 8개월간 범죄 발생 수를 분석해보니, 설치 전 같은 기간(2023년 10월~2024년 5월)보다 공원 반경 내 5대 범죄(살인·강도·강간·절도·폭력) 발생 건수가 약 22% 감소한 것으로 나타났다. 이 공원은 음주, 주취 폭력, 소란 등으로 인한 신고가 잦았던 곳이다. 경찰은 “자세히 보면 실제 경찰관이 아닌 것을 알 수 있다”면서도 “홀로그램 존재만으로도 범죄 발생 가능성을 낮출 수 있다는 것이 확인됐다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 실제 경찰관처럼 보이도록 실물 크기의 남성 모델에게 정복을 입혔다. 중부서 관계자는 “경찰관 영상은 사계절 내내 송출되는데, 여름·겨울 근무복은 계절에 따라 어색해 보일 수 있어 사계절 모두 자연스러운 정복을 선택했다”며 “이 일대는 외국인 유동 인구도 많아 외국인들 사이에서도 인기를 끌고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/62OZAD47O5GAXGPFOR564BHBDM.jpg?auth=4038df538e09995a601a83098649c72e56ea04a5e7a0895c30972428541d2fe0&amp;smart=true&amp;width=270&amp;height=202" type="image/jpeg" height="202" width="270">
+        <media:description type="plain">홀로그램 경찰관</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] ‘개신교 구명 로비’ 의혹 백 목사 “그런 적도 능력도 없다” 진술</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/BLRWPWPDJVFC5GMCZMK3JN72YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/BLRWPWPDJVFC5GMCZMK3JN72YE/</guid>
+      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 11:34:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMNWRQCS67ZZPZA3IEBGWO73WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'구명 로비' 의혹을 받는 임성근 전 해병대 1사단장이 지난 2일 오후 서울 서초구 해병 특검 사무실에 피의자 조사를 받기 위해 출석하며 입장을 밝히고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장에 대한 ‘개신교 구명 로비’ 의혹의 통로로 지목된 군종 장교 백모(소령) 목사가 18일 순직 해병 특검에서 참고인 조사를 받은 것으로 확인됐다. 백 목사는 “구명 로비를 한 적 없고 그럴 능력도 없다”며 “구명 로비 의혹을 받는 김장환 극동방송 이사장과 이영훈 순복음교회 담임목사도 모르는 사이”라는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 해병 특검은 이날 현직 소령인 백 목사를 상대로 개신교 구명 로비 의혹에 대해 조사했다. 특검은 교회 인맥이 넓은 백 목사가 해병대 1사단에서 함께 근무하며 가깝게 지낸 임 전 사단장을 위해 개신교계 인사들에게 구명 로비를 했을 가능성이 있다고 보고 있다. 특검은 이날 백 목사 자택도 압수 수색했다.&lt;br&gt;&lt;br&gt;그러나 백 목사는 특검에서 “임 전 사단장을 신앙인으로서 위로해 드린 적은 있지만 그 이상의 어떤 행위도 한 적 없다”며 의혹을 모두 부인한 것으로 전해졌다. 구명 로비 의혹으로 함께 특검 수사 대상에 오른 김장환 이사장과 이영훈 목사에 대해서도 “워낙 유명하신 분들이지만 개인적으로 아는 사이는 아니다”는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;임 전 사단장도 이날 공개한 입장문을 통해 “저와 제 아내가 백 목사와 몇 차례 통화한 적은 있지만, 용건은 신앙과 교회에 관한 것으로 구명을 부탁한 사실이 전혀 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQVJTOZYD5F6DP6ZQBSR4LIJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장환 극동방송 이사장(왼쪽)과 이영훈 여의도순복음교회 담임목사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 김 이사장과 이 목사 등 보수 개신교계 인사들이 임 전 사단장 구명 로비 의혹에 연루된 정황을 포착하고 대대적인 강제수사에 나섰다. 특검은 이날 백 목사뿐 아니라 김 이사장과 이 목사 자택, 극동방송, 여의도순복음교회 등 10여 곳에 대한 압수 수색을 진행했다. 이 의혹에 연루된 윤 전 대통령의 사법연수원 동기 고석 전 고등군사법원장도 압수 수색했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “독실한 교회 신자인 임 전 사단장 부부가 백 목사 등 개신교 인맥을 통해 구명 로비를 했을 가능성이 있다”며 “임 전 사단장 주변에서 윤석열 전 대통령과 대통령실로 로비가 연결된 정황을 확인해 연락을 주고받은 당사자에 대한 수사에 나선 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구·경북에 시간당 최대 30㎜ 폭우…일부 도로·하천 통제</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/2YQCQ6DNLRDQLGWK6ZA3QJ2XWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/2YQCQ6DNLRDQLGWK6ZA3QJ2XWM/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:19:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOKTBW7AGLVMEFQNDZTJKIRXWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 대구 북구 노곡동 노곡분소 일대에 침수가 발생한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구·경북에 시간당 30㎜ 안팎의 폭우가 내려 일부 도로와 하천 출입이 통제됐다.&lt;br&gt;&lt;br&gt;대구시는 18일 “이날 오후 7시 30분쯤부터 동구 숙천교, 안심교, 공항교 하부도로와 북구 팔거천, 동화천 출입을 통제한다”고 밝혔다. 경북은 이날 낙석사고가 난 포항시 국지도 69호선, 죽장로 989(가사리 산6-6∼상옥 구간) 양방향 교통을 제한했다&lt;br&gt;&lt;br&gt;대구와 경북 구미, 영천, 경산, 청도, 고령, 성주, 칠곡, 김천, 상주, 영주, 봉화평지, 포항, 경주, 경북북동산지 등 지역에는 현재 호우주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;경북 상주는 이날 오후 6시쯤 10분간 30.6㎜ 폭우가 쏟아지면서 7월 중 10분간 최대 강수량 기록을 세웠다. 지역별 누적 강수량은 고령 74㎜, 대구(달성) 53㎜, 상주 43.1㎜, 청도 28.5㎜, 의성 28㎜ 등으로 나타났다.&lt;br&gt;&lt;br&gt;기상청은 오는 19일까지 대구·경북지역에 50~150㎜, 많은 곳은 200㎜의 비가 더 올 것으로 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SOKTBW7AGLVMEFQNDZTJKIRXWQ.jpg?auth=9f22b338c8c99a1d0936a40f72b7fa0e684798062008de8f37d0baa1664d01ff&amp;smart=true&amp;width=4000&amp;height=1848" type="image/jpeg" height="1848" width="4000">
+        <media:description type="plain">지난 17일 대구 북구 노곡동 노곡분소 일대에 침수가 발생한 모습. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이성덕 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“무섭고 싫었어요” 9살·7살 자매 성추행한 60대 학원차 기사</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/XAIFDPHJKZBVBJHDN6DPN4VHWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/XAIFDPHJKZBVBJHDN6DPN4VHWQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 12:10:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미술학원 차량 운전기사로 일하면서 어린 자매를 성추행한 혐의로 재판을 받아온 60대 남성이 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 춘천지방법원 원주지원은 최근 학원에 다니는 여아들을 반복적으로 성추행한 혐의로 기소된 60대 남성 A씨에게 징역 6년을 선고하고 법정 구속했다.&lt;br&gt;&lt;br&gt;재판부는 A씨에게 성폭력·아동학대 치료 프로그램 이수 각 80시간과 아동·청소년·장애인 관련 기관 등에 각 5년간 취업 제한도 명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월부터 6월까지 강원 지역 한 미술학원 통원 차량 운전기사로 근무하면서 학원에 다니는 9살과 7살 자매를 반복적으로 성추행한 혐의를 받았다.&lt;br&gt;&lt;br&gt;A씨 측은 자매를 만진 건 안전 하차를 도운 것이고, 친근함의 표시로 신체적 접촉을 했을 뿐이라고 혐의를 부인했으나 재판부는 받아들이지 않았다. &lt;br&gt;&lt;br&gt;재판부는 “피해자들은 부모에게 피해 사실을 알리기 전 이미 공소사실에 부합하는 진술을 했다”면서 “그 진술이 암시나 유도에 의해 왜곡됐다고 보기 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;또 “피해자들 나이 등을 고려하면 피해자들이 굳이 피고인을 허위로 무고할 이유도 없다”면서 “진술분석가는 피해자들 진술을 신빙할 수 있다는 의견을 밝혔다”고 양형이유를 밝혔다. &lt;br&gt;&lt;br&gt;피해 여아들은 조사 과정에서 ‘몸을 만지는 것이 싫었다’ ‘그때는 무서웠다’ 등의 진술을 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>北도 집중호우로 임진강 황강댐 방류...이번에도 사전통보 안해</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/18/22UQV7JPCND65LY7AUFH33QBC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/18/22UQV7JPCND65LY7AUFH33QBC4/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 11:36:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUUIQL3BL5MQJO2VCH5X7KJXJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일부는 김남중 통일부 차관이 지난 16일 경기 연천군 임진강 유역의 군남댐, 필승교 등을 찾아 수해 방지 상황을 점검했다고 밝혔다. 사진은 김남중 통일부 차관이 수해 방지 상황을 점검하는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 북한이 임진강 상류에 있는 황강댐에서 방류한 정황이 포착됐다. 임진강은 남북한이 유역을 공유하고 있는 남북 공유 하천이다.&lt;br&gt;&lt;br&gt;환경부가 이날 낮 12시쯤 촬영한 위성 영상을 분석한 결과, 임진강 하류의 하천 폭이 증가한 것으로 확인됐다. 환경부는 하루에 1~2회씩 위성 영상을 통해 접경 지역을 감시하고 있다. 현재처럼 집중 호우가 내리는 상황에서는 하루 최대 3회까지 감시를 늘린다.&lt;br&gt;&lt;br&gt;환경부 관계자는 “북측에도 집중 호우가 예상되면서 이에 대비하기 위해 방류한 것으로 추정된다”며 “환경부와 관계 기관은 군남댐 상류 필승교 수위가 1m에 도달하면 하류 하천 주민의 안전 확보를 위해 매뉴얼에 따라 대응할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경기 연천군 필승교는 북한이 황강댐을 방류할 경우 직접적인 영향을 받는다. 우리나라 임진강 유역 최북단에 위치해 있기 때문이다. 이날 오후 4시 기준 필승교 수위는 0.5m로 아직 수위 상승이 시작되지는 않았지만, 황강댐 방류로 인해 곧 수위가 올라갈 것으로 환경부는 내다봤다.&lt;br&gt;&lt;br&gt;북한은 황강댐 방류에 앞서 사전 통보를 하지 않은 것으로 알려졌다. 2009년 9월 북한이 통보하지 않고 황강댐에서 물을 내보내면서 임진강 하류에서 인명 피해가 발생했다. 이후 같은 해 10월 남북은 황강댐 방류 시 사전에 통보하기로 합의했다. 그러나 북한은 2010년 두 차례, 2013년 한 차례 방류에 앞서 통보한 뒤로는 우리 정보의 반복된 요구에도 사전 통보하지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 구속 후 변호인 접견 11회… 구치소장 설득에도 출석 불응</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/3ZUZIJYWPRAJNJLBFI4CMJ46EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/3ZUZIJYWPRAJNJLBFI4CMJ46EM/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 10:56:31 +0000</pubDate>
+      <content:encoded>서울구치소에 수감 중인 윤석열 전 대통령이 구속된 뒤 변호인을 10회 이상 접견한 것으로 확인됐다. 내란 특검이 강제 인치를 시도하면서 구치소장이 직접 설득에 나섰지만, 윤 전 대통령은 출석에 응하지 않았다고 한다.&lt;br&gt;&lt;br&gt;18일 더불어민주당 장경태 의원실에 따르면, 윤 전 대통령은 지난 10일 서울구치소에 입소한 이후로 법원에 구속적부심을 청구하기 전인 15일까지 변호인 접견을 모두 11차례 했다. 다만 법무부는 “변호인 접견 시간은 헌법이 보장하는 사생활의 비밀과 자유의 본질적인 영역을 침해할 우려가 있다”며 윤 전 대통령이 정확히 언제 변호인을 접견했는지는 공개하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4H5SZLVQJNLVAQBMEVYD6DMBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 변호인단인 송진호(왼쪽), 배보윤(가운데) 변호사가 9일 서울 서초구 서울중앙지법에서 열린 윤 전 대통령 영장실질심사에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 앞서 내란 특검의 세 차례 강제 인치 요청을 두고 “서울구치소장이 면담을 요청하며 윤 전 대통령이 출석하도록 설득했다”고 했다. 그러나 윤 전 대통령은 건강상 등의 사유로 출석을 거부한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;변호인 접견은 일반 접견과 달리 교도관이 입회하지 않는다. 횟수나 시간제한은 없다. 선풍기만 있는 수용 시설과 다르게 에어컨 등 냉방 시설이 설치돼 있다. 장경태 의원은 “특검의 정당한 수사 요청도 응하지 않은 채, 변호인 접견만 하는 것은 명백한 법꾸라지 행태”라며 “지금이라도 당장 강제구인 절차에 돌입해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;법원은 이날 윤 전 대통령이 지난 16일 법원에 청구한 구속적부심 심문을 4시간 50분 가까이 진행했다. 윤 전 대통령은 “간 수치가 정상 범위의 5배가 넘는다”며 석방을 호소한 것으로 알려졌다. 윤 전 대통령은 “구속 전에는 간 수치가 60IU/L 정도로 정상 범주에 있었는데, 구속 후 건강 관리에 어려움을 겪으면서 치솟았다”면서 “어지럼증과 불면증을 심하게 겪고 있다”는 취지로 발언했다고 한다.&lt;br&gt;&lt;br&gt;내란 특검은 “적시된 사후 계엄 문건 작성, 비화폰 서버 삭제 지시 등 범죄 혐의는 내란 행위가 종료된 이후에 발생한 범죄들”이라며 “별개의 범죄로 봐야 한다”고 반박했다. 또 범죄 혐의가 중한 데다 증거인멸 우려가 남아 있어 계속 구속할 필요가 있다고 밝힌 것으로 전해졌다. 윤 전 대통령의 석방 여부는 이르면 이날 밤늦게 결정될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3FE7GDYDCJJLOU3SKIHSOHGNTE.jpg?auth=e89259a97bf0c0f9e7f7635b4ed0019738b0c3677a18448ae9a89b9f2b47f800&amp;smart=true&amp;width=2032&amp;height=1496" type="image/jpeg" height="1496" width="2032">
+        <media:description type="plain">12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. 2025.7.9/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>해병 특검, 김장환·이영훈 목사 압수수색 ... ‘구명 로비’ 본격 수사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/GJC7XGLAU5B2DNUUWC4F3RS3DA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/GJC7XGLAU5B2DNUUWC4F3RS3DA/</guid>
@@ -742,24 +884,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUSF3QKHAZERRPQ4WQJ6HLTTI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뇌출혈로 뇌사 상태에 빠진 20대 남성이 장기 기증으로 3명에게 새 삶을 선물하고 하늘로 떠났다. 17일 한국장기조직기증원에 따르면 시각장애인 이동진(28)씨는 지난 5월 8일 어버이날 아버지와 식사를 마치고 잠든 뒤 의식을 회복하지 못했다. 고심 끝에 이씨 가족들은 장기 기증을 결정했다. 이씨는 가톨릭대 은평성모병원에서 심장과 양쪽 신장을 기증하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;경기 부천에서 외아들로 태어난 이씨는 생후 9개월 만에 안구에서 암이 발견돼 4년간 항암 치료를 받았다. 그 과정에서 두 살 때 시력을 잃었다. 중학교 2학년 때 어머니가 심장 판막 수술 후 세상을 떠났다. 이후 시각장애인이었던 아버지가 이씨를 홀로 보살폈다.&lt;br&gt;&lt;br&gt;이씨는 시력은 잃었지만 웃음은 잃지 않는 밝은 청년이었다. 비슷한 처지의 장애인을 돕는 일에도 관심이 많았다. 이씨는 어려운 환경에서도 대학에 진학해 사회복지학을 전공했다. 졸업 후에는 장애인 복지 업무를 하거나 아버지를 도와 안마사로 일했다. 이씨는 특히 취업이 어려운 장애인들의 일자리를 찾아주며 보람을 느꼈다고 했다.&lt;br&gt;&lt;br&gt;유족은 평생 불편한 몸으로 살던 이씨가 다른 생명을 살리고 그 몸속에서 살아 숨 쉬길 바라는 마음으로 기증을 결심했다고 한다. 이씨는 장기 기증 서약을 하진 않았다. 하지만 평소에도 ‘삶의 마지막 순간에 좋은 일을 하고 가고 싶다’는 이야기를 자주 했다고 한다.&lt;br&gt;&lt;br&gt;“동진아, 힘든 일도 즐거운 일도 있었지만, 이제는 엄마하고 같이 하늘나라에서 행복하게 지내. 이젠 아프지 말고, 행복하게 잘 살아. 사랑해 아들.” 이씨의 아버지 이유성(57)씨는 아들에게 이렇게 마지막 인사를 건넸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[우리 아이 이름으로 ‘초록우산’에 기부했어요] 고도은 외</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/07/18/M77MAG6JCVH6RDPMYFPYVG7KJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/07/18/M77MAG6JCVH6RDPMYFPYVG7KJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKL5HJ5HJRFMJCPRT3CPVZPR2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;아이에게 나눔의 기쁨을 선물해 주세요. 아이 첫돌이나 생일 등을 기념해 초록우산 홈페이지(&lt;/b&gt;&lt;a href="https://www.childfund.or.kr" target="_self" rel="" title="https://www.childfund.or.kr"&gt;&lt;b&gt;www.childfund.or.kr&lt;/b&gt;&lt;/a&gt;&lt;b&gt;)의 ‘우리 아이 첫 기부’ 사이트를 통해 참여하실 수 있습니다. 매일아이 사이트(&lt;/b&gt;&lt;a href="https://maeili.com" target="_self" rel="" title="https://maeili.com"&gt;&lt;b&gt;maeili.com&lt;/b&gt;&lt;/a&gt;&lt;b&gt;)에서도 가능합니다. 매달 기부에 참여한 가족과 아이의 사진, 기념하고 싶은 날과 사연을 조선일보 ‘아이가 행복입니다’ 지면에 소개합니다. 엄마와 아이를 위한 매일유업 ‘매일두 포인트’ 3만원과 기부 소식을 조선일보 1면 머리기사로 제작한 PDF 파일도 함께 드립니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 아이 튼튼하게] 아이와 떠나는 첫 해외여행… 출국 한 달전 예방접종해야</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/07/18/VBY5KYEP25FJ3LTG5TCBRKQGPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/07/18/VBY5KYEP25FJ3LTG5TCBRKQGPQ/</guid>
-      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>여름휴가 시즌이 다가오면서 아기와 함께 해외여행을 계획하는 부모들이 많아졌어요. 설레는 마음도 크지만, 한편으론 걱정도 많지요. “언제쯤 여행을 가도 괜찮을까?” “무슨 약을 챙겨야 하지?” 같은 고민이 생기기 마련이에요.&lt;br&gt;&lt;br&gt;아기는 생후 3개월까지는 몸이 외부 환경에 익숙하지 않고, 면역력도 약해 장거리 여행이 부담이 될 수 있어요. 보통 생후 6개월이 지나면 여행이 조금 수월해지고, 12개월쯤 되면 시차나 장시간 비행도 어느 정도 견딜 수 있어요. 하지만 아기마다 몸 상태가 다르기 때문에, 여행을 떠나기 전에는 소아과 의사와 상의해 보세요.&lt;br&gt;&lt;br&gt;해외여행을 가기 전에는 예방접종이 잘 되었는지 확인해야 해요. 특히 홍역이나 수두처럼 다른 나라에서 유행할 수 있는 감염병에 잘 대비해야 하지요. 여행지에 따라서는 추가로 예방접종이 필요한 경우도 있어요. 예를 들어, 동남아나 남미로 간다면 A형 간염이나 장티푸스, 아프리카로 간다면 황열 예방접종이 필요할 수 있어요. 이런 예방접종은 출국 2~4주 전에 맞아야 효과가 있으니, 여행을 결정했다면 미리 접종을 계획하는 게 좋아요.&lt;br&gt;&lt;br&gt;또 하나, 아이와 여행할 땐 갑작스러운 상황에 대비해야 해요. 낯선 음식이나 환경 변화 등으로 갑자기 아플 수도 있으니까요. 그래서 기본적인 비상약을 꼭 챙겨야 해요. 해열제(타이레놀, 브루펜), 체온계, 감기약, 설사약, 전해질 보충제, 유산균 등을 준비하고, 상처에 바를 소독약이나 연고, 밴드도 챙기면 좋아요. 모기나 벌레에 물릴 수 있으니 벌레 물린 데 바르는 연고나 로션, 필요하다면 모기 기피제도 챙겨 주세요. 아이가 알레르기가 있다면 항히스타민제도 함께 준비해주세요.&lt;br&gt;&lt;br&gt;비행기 안에서는 기압 차이로 인해 귀가 아플 수 있어요. 이륙이나 착륙 시 분유나 이유식, 물을 먹이면 삼키는 동작을 통해 귀의 압력을 조절하는 데 도움이 돼요. 조금 큰 아이라면 사탕이나 빨대 음료도 좋아요.&lt;br&gt;&lt;br&gt;무엇보다 중요한 건 여유 있는 여행이에요. 여러 곳을 돌아다니기보다는 한 곳에서 충분히 머물며 아이가 새로운 환경에 천천히 익숙해지도록 해 주세요. 그러면 아이도, 부모도 모두 즐거운 여행이 될 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 7월 18일</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/18/XPYHLOZ7OBGH5NJQ2UVHFPVZOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/18/XPYHLOZ7OBGH5NJQ2UVHFPVZOE/</guid>
@@ -778,94 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TKYP67UBBZDUDKFXNEH5XZXBHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면/리프린트/25-7-18일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 11일 ‘우리 아이가 태어났어요’ 코너에 실린 임서하&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" rel=""&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>자녀 초교 입학 때 14개월 휴직… “눈치 안 보고 자유롭게 가요”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/07/18/TNH5TMHXTBCQ5IARC2HVJNZEE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/07/18/TNH5TMHXTBCQ5IARC2HVJNZEE4/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>롯데홈쇼핑 지원팀 심다형(40)씨는 매일 아침 딸 강라나(4)양과 함께 출근·등원 준비를 하는 모습을 짧은 영상으로 찍어 소셜미디어(SNS)에 올린다. 오전 8시 30분까지 딸을 등원시킨 뒤, 심씨는 오전 9시 30분까지 출근한다. 회사의 정규 출퇴근 시각은 오전 9시~오후 6시지만, 심씨는 유연근무제를 활용해 30분씩 늦춰 출퇴근하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2SGDHVCVFF2XG3QOW2DM2MHLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;롯데홈쇼핑은 '자녀 돌봄 휴직' 등 다양한 일·가정 양립 지원 제도를 운영하고 있다. 사진은 지난 16일 서울 영등포구 롯데홈쇼핑 건물에 직원들과 자녀들이 함께 모여 있는 모습. 아이들은 롯데홈쇼핑이 자체 개발한 캐릭터인‘벨리곰’이 그려진 옷을 입고, 인형을 안고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;롯데홈쇼핑은 기존에 분기 단위로 운영하던 유연근무제 신청을 2021년부터 매월 가능하도록 바꿨다. 임직원들이 각자의 생활 패턴에 맞춰 보다 자유롭게 근무 시간을 조절할 수 있도록 하기 위해서다. 심씨는 “30분뿐이지만 저에겐 황금 같은 시간”이라며 “눈치 보지 않고 쓸 수 있는 유연근무제 덕분에 딸과 신나게 아침을 보내는 소소한 행복을 누리고 있다”고 말했다.&lt;br&gt;&lt;br&gt;자녀가 초등학교에 입학하는 임직원을 위한 ‘자녀 돌봄 휴직’ 제도도 있다. 입학 연도에 최대 14개월까지 무급으로 휴직할 수 있는 제도다. 법정 육아 휴직(1년)과는 별도로 쓸 수 있다. 아이가 새로운 환경에 적응하는 시기에 부모가 곁을 지킬 수 있도록 회사 차원에서 배려하는 것이다. &lt;br&gt;&lt;br&gt;M백화점팀 강경림(40)씨는 지난해 초등학교에 입학한 딸 남제이(8)양을 돌보기 위해 1년간 휴직했다. 그는 “첫 아이를 학교에 보내는 일은 생각보다 신경 쓸 게 많다”며 “1년 동안 곁에서 챙겨줄 수 있었던 덕분에 올해 복직할 때 마음이 한결 편했다. 일과 양육을 모두 포기하지 않을 수 있다는 것 자체가 만족스러웠다”고 했다.&lt;br&gt;&lt;br&gt;롯데홈쇼핑은 법정 육아휴직 1년 외에도, 별도로 무급 육아휴직 1년을 추가로 사용할 수 있도록 하고 있다. M백화점팀 김현아(36)씨는 “첫째, 둘째 모두 2년씩 육아휴직을 쓰면서 한 번도 눈치를 본 적이 없다”며 “출산 전부터 쉬다 보면 아이가 돌도 안 됐을 때 복직하는 경우가 많은데, 두 돌까지 아이와 함께할 수 있다는 건 정말 귀한 경험”이라고 말했다. 2021년생 아들을 키우는 도메스틱디벨로퍼팀 김수진(39)씨도 “아이들은 한두 살 때 가장 많이 아픈데, 그 시기에 옆에 있어줄 수 있다는 점에서 두 돌까지의 육아휴직이 특히 의미 있다”고 했다.&lt;br&gt;&lt;br&gt;일·가정 양립을 위한 문화는 이 회사 임직원들의 일상에도 스며 있다. 롯데홈쇼핑은 2021년 6월부터 매주 수요일과 금요일을 ‘가족 사랑의 날’로 지정해, 직원들이 1시간 일찍 퇴근할 수 있도록 하고 있다. 지난해부터는 점심시간도 기존 1시간에서 1시간 30분으로 늘렸다. 직원들은 이 시간을 가족과 보내거나, 자기 계발 등에 활용하고 있다. 김수진씨는 “아이가 엄마가 일찍 퇴근하는 수요일과 금요일을 기다린다”며 “별것 아닌 것처럼 보여도, 사랑하는 사람과 보낼 수 있는 시간이 늘어난다는 점에서 정말 의미 있는 제도”라고 했다.&lt;br&gt;&lt;br&gt;난임 직원들을 위한 복지도 마련돼 있다. 모든 직원은 연간 6일의 난임 치료 휴가(유급 2일·무급 4일)를 사용할 수 있고, 자녀가 없는 만 35세 이상 직원 중 난임 기간이 5년 이상인 경우에는 최대 3개월의 난임 휴직도 가능하다. 난임 시술 비용도 100만원까지 지원받을 수 있다. 김수진씨는 “8년 동안 아이가 생기지 않아 절망적이었는데, 회사의 지원 덕분에 난임 치료를 받을 수 있었고 결국 아이를 갖게 됐다”며 “시술 과정은 체력적으로도 너무 힘들어서 휴직 없이 할 수 있는 일이 아니다. 회사 덕분에 임신할 수 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;육아휴직 후 복직한 직원들의 조직 적응을 돕기 위한 제도도 있다. 지난해부터 운영 중인 ‘반짝임’은 육아휴직 후 복직한 직원 중 만 36개월 이하 자녀를 둔 여성 직원들이 모여 점심시간을 활용해 육아와 회사 생활에 대한 고민을 나누는 소모임이다. 한 번에 10여 명씩 모이며, 회사는 이들에게 인당 월 3만원의 활동비도 지원한다.&lt;br&gt;&lt;br&gt;연차 사용 방식도 자유롭다. 롯데홈쇼핑은 연차 결재 시 사용 사유를 적지 않도록 하고 있다. 상급자의 눈치를 보지 않고 연차를 자유롭게 쓸 수 있도록 하기 위해서다. 연차는 1일 또는 반차(4시간)는 물론, ‘반반차(2시간)’ 단위로도 쪼개 사용할 수 있다. 심다형씨는 “아이가 갑자기 아프면 일찍 데려와야 할 일이 생기는데, 그럴 때 반반차가 정말 유용하다”며 “반반차 사용이 사내에 잘 자리 잡아 있어서, 상사들도 굳이 이유를 묻지 않고 자연스럽게 사용하도록 해준다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 고온건조(高溫乾燥)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/18/TFKCG35NO5GQHAH6DNPJ5CWKQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/18/TFKCG35NO5GQHAH6DNPJ5CWKQE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INRD4IQAEBEFVL5TWTF6CBYY4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 끈적끈적한 것을 잘 못 먹다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/18/DFQAOHBDBZHOLJXKTJYCEI75FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/18/DFQAOHBDBZHOLJXKTJYCEI75FI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNXB4TDKUBCB5CRGIEXPTWPKQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 푹신푹신하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/18/ABMD6KTCEZGYLKNF7L4ZV3F54Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/18/ABMD6KTCEZGYLKNF7L4ZV3F54Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOSWFCPYRRGVLEKE56MEPSE34I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2666] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/07/18/UASASWKMF5D4BMQST4MZ4SZ3R4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/18/UASASWKMF5D4BMQST4MZ4SZ3R4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B62RTAV26VHTDDP6BCNUPQB3LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] not breathe a word</title>
-      <link>https://www.chosun.com/national/nie/english/2025/07/18/3UCNCKHAUZA7TNTETJUWC3CQXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/18/3UCNCKHAUZA7TNTETJUWC3CQXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVMJ4WM7BVEFZJWFBYRYW6HBYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신지 “공황장애 약 먹어… 관객 눈도 못 마주치겠더라”</title>
-      <link>https://www.chosun.com/national/people/2025/07/18/BC67EDUMJVEGTDJ7DR3SG543XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/18/BC67EDUMJVEGTDJ7DR3SG543XA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 15:07:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UK3JZFF6JJEC7JPPN4XHF3M3S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문원(왼쪽)과 신지./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;혼성그룹 코요태 멤버 신지가 예비 신랑인 가수 문원을 둘러싼 각종 의혹이 제기된 이후 공황장애 약을 먹고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;17일 유튜브 채널 ‘어떠신지’에는 ‘최근에 어떻게 지내고 있나면…’이라는 제목의 영상이 올라왔다. 신지가 문원을 코요태 멤버들에게 정식으로 소개했던 상견례 영상 이후 처음 올린 영상이다.&lt;br&gt;&lt;br&gt;신지는 멤버들에게 사과한 뒤 “너무 많은 염려와 걱정을 주시니까 그걸(댓글) 읽어 볼 수밖에 없다”고 말했다. 이어 “멤버들한테도 피해가 간 것 같고, 여러 부분에 있어서 생각할 게 많았다”며 “나에게 많은 관심을 갖고 계시길래 최대한 좋게 받아들이고, 신중하게 생각하려고 노력 중”이라고 했다. &lt;br&gt;&lt;br&gt;이에 김종민은 “많은 분이 관심을 주고 이야기하신 것도 있으니까, 한번 듣고서 고민을 해보라”며 “네가 어떻게 가야 할 길인지, 어디로 가야 맞는 건지 잘 생각해 봐라”고 말했다. 빽가도 “댓글을 보다가 사실 무서워서 멈췄다. 많은 댓글이 있었는데 모두 너의 걱정과 관심밖에 없었다. 그 댓글을 다신 많은 분들은 다 그런 마음이더라”고 덧붙였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQPQTROWJMT4XKJHWVELA7DSIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신지가 멤버들과 이야기 나누는 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 신지는 “나를 걱정해서 하는 말인지 아니면 무차별적으로 공격하는 말인지 안다. 그래도 걱정하시는 분들이 대다수 있다는 걸 너무나 잘 알고 있다”고 했다. 그러면서 “당장 올해 결혼한다고 알고 계시는 분들이 너무 많으시더라”며 “아직 멀었다. 천천히 지켜봐 달라”고 덧붙였다.&lt;br&gt;&lt;br&gt;신지는 문원을 둘러싼 각종 논란이 발생한 후 공황장애 약을 먹었다고 털어놓기도 했다. 신지는 “아까 무대 올라가기 전에 긴장되더라. 그 일 있고 처음 무대였다”며 “무대 올라가기 전 차로 이동할 때 몰라 (공황장애) 약을 먹었다. 진정이 안 되니까”라고 말했다. 이어 “공연 때 ‘너무 예쁘다’고 하는데도 원래대로면 눈 마주치고 할 텐데 눈도 못 마주치겠더라”고 했다. &lt;br&gt;&lt;br&gt;김종민은 “네가 건강하고 네가 괜찮아야 한다. 건강이 진짜 중요하다. 몸이 아프면 다른 걱정이 의미가 없다”며 신지를 격려했다. 빽가도 “쉽지 않겠지만 어쨌든 계속 부딪혀야 한다”고 응원했다.&lt;br&gt;&lt;br&gt;신지와 문원은 내년 상반기 서울 모처에서 결혼식을 열리고 부부의 연을 맺는다. 두 사람은 과거 신지가 DJ로 활약하던 MBC 라디오 ‘싱글벙글쇼’를 인연으로 친분을 나눴고 연인으로 발전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M46LF55F2BHDDCWIYEQIEKF2ZI.jpg?auth=0e66d0cbda7fb00ce8fc3e9324223ad447f9aae33379e810eb9454fff6f105da&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
-        <media:description type="plain">문원, 신지</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>검찰, 공무원 뇌물수수 관련 울주군 전 특보 자택 압수수색</title>
-      <link>https://www.chosun.com/national/regional/2025/07/17/WTL25N227NEXFKTP57JBRHIQOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/17/WTL25N227NEXFKTP57JBRHIQOE/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 12:16:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RIZGCMQETYAJRYITASZQKNF3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지방검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 17일 울산 울주군 전 특별보좌관의 자택을 압수수색했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 울산지검은 이날 울산 울주군 전 특보 A씨의 집과 차량, 휴대전화 등을 압수수색했다.&lt;br&gt;&lt;br&gt;검찰은 울산시 공무원 B씨가 울주군에서 근무했던 지난 2019~2023년 한 폐기물 처리업체로부터 대가성 금품을 받았다는 의혹을 수사하던 중 A씨도 이 업체와 연관됐을 가능성이 있는 것으로 보고 수사 중인 것으로 알려졌다. B씨는 최근 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의 등으로 구속됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 울주군에서 근무하던 시절과 겹치는 2022~2023년 울주군 특보로 활동한 것으로 전해졌다. 그는 지난해부터 올해 6월까지 울산 한 국회의원의 보좌관으로 일하다가 최근 사직했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “수사 중인 사안이라 정확한 사실은 알려줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광명시 아파트 1층 주차장 차량 폭발로 화재... 3명 심정지</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/NO2R6ZZ5VFBCFKGAHPLQCTPHWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/NO2R6ZZ5VFBCFKGAHPLQCTPHWQ/</guid>
-      <dc:creator>광명=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 13:39:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUZWQKZKFJNQHEVNIAXWEJHYFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 17일 오후 9시 10분쯤 경기도 광명시 소하동의 한 아파트 필로티 주차장에서 불이 나 소방대원들이 진화 작업을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시의 한 아파트 주차장에서 큰불이 났다. 주민 3명이 심정지 상태로 발견됐다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 17일 오후 9시 5분쯤 광명시 소하동의 한 아파트 주차장에서 불이 났다. &lt;br&gt;&lt;br&gt;이 불로 오후 10시 30분 현재 주민 3명이 심정지 상태로 발견됐다. 17명 이상이 중경상을 입었다. 1명은 온몸에 화상을 입고, 1명은 의식장애인 것으로 알려졌다. 소방 당국은 “인명 피해가 더 커질 가능성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 발생 7분 만인 오후 9시 12분쯤 대응 2단계를 발령했다. 근처 소방서에서 소방차 등 50여 대와 소방관 수백 명을 투입했다. 소방은 50여 분 만인 오후 9시 56분쯤 큰불을 잡았다. 하지만 내부 구조물과 차량 잔해로 불이 더 번질 가능성이 있다. 광명시는 ‘해당 구역 주민은 외출을 삼가고, 인근 차량은 즉시 우회해 달라’는 안전 문자를 전 시민에게 발송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DR5J4FTLUNIQRGZV3KZVXDABNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 9시 5분께 경기 광명시 소하동 소재 10층짜리 아파트 주차장에서 불이 났다. 이 화재로 3명이 심정지 상태로 인근 병원으로 옮겨졌다./경기도소방재난본부 제공/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 “불은 주차장에 주차된 차량에서 시작된 것으로 추정된다”며 “연쇄 폭발이 발생해 불길이 급속히 번졌다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 아파트는 2014년 7월 준공됐다. 45가구가 살고 있다. 경찰과 소방 당국은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6JQMF7QHE7C6ATWR2OKJGLB6ZQ.jpg?auth=811a5b6e8bdda26d4b4d8bdb41014c2686239c9aa502379fa0917ca0ce510c2f&amp;smart=true&amp;width=750&amp;height=500" type="image/jpeg" height="500" width="750">
-        <media:description type="plain">17일 오후 9시 10분쯤 경기 광명시 소하동의 한 아파트 주차장에서 불이 나 소방대원들이 진화 작업을 하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>전남, 강원도, 수도권... 호우주의보 확대</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/17/QJD4OCHG3NDILJSMEXWEDI7FIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/17/QJD4OCHG3NDILJSMEXWEDI7FIM/</guid>
@@ -873,15 +909,6 @@
       <description/>
       <pubDate>Thu, 17 Jul 2025 11:31:53 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRRK7EE6DPZBAKSLML65G75SQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 전북 전주 한옥마을 경기전에서 우산을 쓴 시민들이 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중부 지방과 전라·경상권에 호우특보가 내려진 17일 저녁까지도 폭우가 이어지고 있다.&lt;br&gt;&lt;br&gt;기상청은 이날 오후 7시 기준 일부 지역에 시간당 20~70㎜ 내외의 매우 강하고 많은 비가 내리고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 오후 6시부터 오후 7시까지 1시간 동안 전남 순천에는 69.2㎜의 비가 내렸다. 전남 광양과 무안의 1시간 강수량은 각각 64㎜, 47㎜를 기록했다. 전북 고창에도 38.5㎜의 비가 왔다.&lt;br&gt;&lt;br&gt;경상권에는 경남 하동에 57.5㎜, 경남 산청 37㎜의 비가 내렸다. 수도권의 경우, 경기 이천과 용인의 강수량이 각각 20㎜, 10㎜를 기록했다.&lt;br&gt;&lt;br&gt;한편 이날 오후 7시 40분을 기해 전남 보성·영암·목포에 호우주의보가 발효됐다. 현재부터 19일까지 이 지역들에 누적 200~300㎜의 비가 내릴 것으로 기상청은 내다봤다.&lt;br&gt;&lt;br&gt;오후 8시에는 수도권(인천·김포·동두천·연천·고양·양주·파주)과 강원도(철원·화천·춘천), 전남 여수에 호우주의보가 내려졌다. 수도권과 강원도에는 19일까지 50~150㎜, 전남 여수에는 200~400㎜의 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;기상청은 “19일까지 전국 대부분 지역에서 돌풍과 천둥·번개를 동반한 시간당 30~80㎜의 매우 강하고 많은 비가 예상된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광명 아파트 주차장서 화재… 3명 심정지</title>
-      <link>https://www.chosun.com/national/incident/2025/07/17/7UHQFFDMOZA6ZESTCPU6NV5YGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/17/7UHQFFDMOZA6ZESTCPU6NV5YGA/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 13:15:36 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NJCMIIJIZHNPOS2HYSWMVPGEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 경기도 광명시 소하동 한 아파트 주차장에서 불이 나 소방당국이 진화작업을 벌이고 있다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 9시 10분쯤 경기도 광명시 소하동 한 아파트 필로티 주차장에서 불이 났다. &lt;br&gt;&lt;br&gt;소방 당국은 대응 2단계를 발령하고 진화 중이다. 대응 2단계는 소방서 8~14곳에서 51~80대의 장비를 동원하는 경보령이다.&lt;br&gt;&lt;br&gt;현재까지 이 화재로 3명이 심정지 상태로 발견됐으며, 1명이 전신 화상을 입은 것으로 알려졌다. 또 2명도 연기 흡입으로 가벼운 부상을 당했다. 소방은 주차장에 있던 차량에서 불이 시작된 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 화재 발생 40여 분 만인 오후 9시 56분쯤 큰불은 잡은 상태다. &lt;br&gt;&lt;br&gt;광명시도 불이 나자 “안전에 유의하고 인근 차량은 우회하라”는 내용의 안전 문자를 발송했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>특검, ‘金여사 측근 지인' 소환 통보... 특혜성 투자 의혹 규명 방침</title>
@@ -968,27 +995,6 @@
       <description/>
       <pubDate>Thu, 17 Jul 2025 09:21:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWL5ZB2TFBCQJAHP4UJUC4SMMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;외국인 보이스피싱 수거책을 붙잡은 부산 안경원 점주가 경찰로부터 감사장을 받았다./부산 서부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 안경원을 운영하는 점주가 80대 여성의 돈을 빼앗으려 한 외국인 보이스피싱 수거책을 붙잡은 공을 세워 경찰로부터 감사장을 받았다. &lt;br&gt;&lt;br&gt;17일 부산 서부경찰서에 따르면 서구에서 안경원을 운영하는 전영식(57)씨는 지난달 24일 점포 앞에서 이웃인 80대 여성이 30~40대로 추정되는 외국인 남성과 대화하는 것을 목격했다. 전씨는 야외에서 대화하는 이들을 보고 ‘더우니 가게 안으로 들어와 이야기를 나누라’고 했다. &lt;br&gt;&lt;br&gt;이후 외국인 남성이 자리를 뜨자 전씨는 여성에게 어떤 대화를 나눴는지 물었다. 그러자 이 여성은 “보이스피싱 수사를 한다는 경찰관이 전화를 걸어와 전봇대에 현금을 두고 가라고 해 시키는 대로 했다”며 “방금 만난 외국인이 돈을 가지러 온 것”이라고 했다.&lt;br&gt;&lt;br&gt;보이스피싱 범죄임을 직감한 전씨는 지하철역으로 향하는 외국인 남성을 쫓아가 붙잡은 뒤 가게에 데려왔다. 이 남성은 큰 저항 없이 그를 따라왔다고 한다. 전씨는 그를 붙잡아 두었다가 출동한 경찰에 인계했다. &lt;br&gt;&lt;br&gt;전씨의 기지 덕분에 피해 여성은 현금 1380만원을 지킬 수 있었다. &lt;br&gt;&lt;br&gt;서부경찰서는 전씨에게 포상금과 감사장을 수여했다. 서상태 서부경찰서장은 “경찰과 시민이 함께 범죄를 예방할 수 있도록 적극적으로 112에 신고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘멋쟁해병’ 신사동 단골 식당 간 특검 “임성근 왔었냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/17/B3PSQTSJK5ELXPBSHJY77I5P4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/B3PSQTSJK5ELXPBSHJY77I5P4E/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 07:00:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZW5AQ4CYFFAUFIQPIEHXWIFWW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 지난 2일 오후 서울 서초구 해병 특검 사무실에 피의자 신분으로 출석하기 전 기자들 앞에서 입장을 밝히고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹을 수사하는 해병 특검이 이종호 전 블랙펄인베스트 대표 등이 속한 이른바 ‘멋쟁해병’ 모임 장소를 방문해 이 전 대표가 임 전 사단장과 함께 방문한 적 있는지 조사한 것으로 전해졌다. 두 사람이 서로 모르는 사이라고 주장하는 상황에서, 특검은 이들의 만남 여부와 관계 등을 확인해 의혹의 실체를 파악할 계획이다.&lt;br&gt;&lt;br&gt;17일 본지 취재에 따르면, 해병 특검은 최근 이 전 대표 등 멋쟁해병 멤버들이 자주 방문한 서울 강남구 신사동의 한 식당에 수사관을 보내 조사에 나섰다. 특검 수사관들은 “이 전 대표가 자주 왔는지” “임 전 사단장, 조병노 경무관 등과 함께 방문한 적이 있는지” 등을 캐물었다고 한다. 식당 주인은 “이 전 대표가 단골은 맞지만, 임 전 사단장 등은 잘 모른다”는 취지로 답변한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 신사동 식당은 2023년 5월 이 전 대표와 경호처 출신 송모씨, 최모 경위, 김규현 변호사 등 멋쟁해병 멤버들이 첫 모임을 가졌던 곳이라고 한다. 이 전 대표는 이후에도 일부 멤버들과 이곳을 종종 찾은 것으로 알려졌다. 임 전 사단장 등과 함께 온 적은 없다고 한다.&lt;br&gt;&lt;br&gt;특검은 멋쟁해병을 중심으로 이 전 대표와 임 전 사단장의 연결고리가 있는지 수사 중이다. 멋쟁해병은 이 전 대표 등 해병대 출신 5명이 참여한 모임인데, 김 변호사가 이들과 주고받은 메시지와 통화 내용 등을 공개해 구명 로비 의혹이 불거졌다. 2023년 7월 고 채수근 상병 사망 이후 이 전 대표가 김 변호사에게 “내가 (임 전 사단장의) 사표를 못 내게 막았다” “VIP에게 이야기할 테니 사표 내지 말라고 했다”고 말한 녹취록이 나온 것이다. 민주당은 이를 근거로 “김건희 여사와 친분이 있는 이 전 대표가 임 전 사단장을 구해달라고 청탁한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;그러나 이 전 대표와 임 전 사단장은 서로 “일면식도 없다”는 입장이다. 이 전 대표 측은 “임 전 사단장은 본 적도 없고 김 변호사에게 허세를 부린 것”이라며 “김 여사에겐 당시 연락하지도 않았다”고 한다. 이에 특검이 이 전 대표 단골 식당을 찾아 임 전 사단장과 만난 적 없는지 탐문한 것이다.&lt;br&gt;&lt;br&gt;특검은 이 전 대표와 조병노 경무관의 관계도 파악 중이다. 이 전 대표는 또 다른 녹취록에서 “OOO 서울 치안감. 아마 전화 오는데 별 두 개 달아줄 것 같아”라고 말했는데, 조 경무관이 인사 청탁을 한 것 아니냐는 의혹이 제기됐다. 그러나 이 전 대표 측은 “조 경무관과도 만난 적이 없고 잘 모르는 사이”라고 주장하고 있다.&lt;br&gt;&lt;br&gt;법조계 한 인사는 “현재 구명 로비 의혹은 전언이나 녹취록 등 간접적인 정황만 있고 당사자들은 모두 부인하고 있다”며 “해병 특검이 수사하는 ‘VIP 격노설’이나 ‘수사 외압’ 의혹에 비해 규명하기가 까다로울 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 충남 시간당 100㎜ 극한호우… 경부선 열차도 중단    </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/6RWFXZRIEREBBJJ4GNII3CUMVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/6RWFXZRIEREBBJJ4GNII3CUMVI/</guid>
-      <dc:creator>김자아 기자, 김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 16 Jul 2025 21:53:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRA63I6BAZHBDIHDXD5IMUTLHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밤사이 충남 서해안 일대에 시간당 100㎜가 넘는 폭우가 쏟아지면서 곳곳이 침수된 17일 충남 당진시 면천면의 하천이 범람하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤사이 충남 서해안 일대에 쏟아진 시간당 100㎜가 넘은 폭우로 하천이 범람하면서 지역 주민들에게 대피령이 떨어지고, 일부 열차 운행이 중단됐다.&lt;br&gt;&lt;br&gt;17일 대전지방기상청에 따르면 전날 오후 6시부터 이날 오전 5시까지 서산 344㎜, 서천 춘장대 266㎜, 태안 238㎜ 등 밤 사이에 200∼300㎜가 넘는 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;서산엔 시간당 107.1㎜의 극한호우가 쏟아졌다.&lt;br&gt;&lt;br&gt;당진에서는 당진천이 현재 범람 중이며, 초대천도 홍수 심각 단계에 접어들어 범람이 우려되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNXUHSEH3BDK5JO5RHIOX7NN6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 새벽 충남 당진에 200㎜ 가까운 물폭탄이 쏟아진 가운데 공무원이 당진천 주변 저지대에 들어찬 물을 양수기로 퍼내고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당진시는 하천 범람으로 피해가 우려되는 봉평리, 모평리, 대운산리 등 지하층·저지대 거주 주민들에게 인근 마을회관으로 대피해달라는 재난문자를 발송했다. 당진시내 초·중·고등학교에는 이날 휴교령도 내려졌다.&lt;br&gt;&lt;br&gt;홍성에서는 갈산천이 범람해&lt;b&gt; &lt;/b&gt;주민들이 안전지대로 대피했다. &lt;br&gt;&lt;br&gt;서산시는 오전 4시15분쯤 “성연면 성연천 범람 우려로 인근 주민분들은 고지대 등 안전한 장소로 대피해주기 바란다”고 문자를 전송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QX7YNUJ4NJC7NPYVAJS2F2UAHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전, 서울역 대합실에서 집중호우에 따른 열차운행 중지 및 지연 안내가 게시되어있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 금강지류인 예산 삽교천 구만교와 서계양교, 당진 역천 차운교 부근에는 홍수 경보가 내려졌고 논산, 보령, 부여 지천교, 공주 국재교 부근에는 홍수주의보가 발령됐다.&lt;br&gt;&lt;br&gt;밤사이 많은 비로 충남지역에서는 84가구, 124명의 주민이 인근 마을회관이나 초등학교 등으로 대피했다.&lt;br&gt;&lt;br&gt;폭우 영향으로 대전·충남 지역을 지나는 일부 열차 운행도 중지됐다. 코레일은 ▲경부선 서울역∼대전역 ▲장항선 천안역∼익산역 ▲서해선 홍성역∼서화성역의 일반열차 운행을 일시 중지한다고 밝혔다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “열차 이용객은 반드시 코레일톡이나 홈페이지 등을 통해 열차 운행 상황을 미리 확인해주기 바란다”며 “운행 재개 여부는 기상 상황에 따라 변동될 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;충남 소방본부에 따르면 전날 오후 9시부터 이날 오전 4시까지 모두 302건의 폭우 관련 신고가 접수됐으며, 인명피해는 아직 확인되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NV3QGZACAVDM3BLCSDSUQZCMWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 새벽 충남 당진시 채운동의 한 아파트 단지가 폭우로 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 금산을 제외한 충남권 전 지역에 호우경보가 발령된 상태다. 기상청은 오늘 대전과 세종, 충남에 50∼150㎜, 많은 곳은 180㎜ 이상의 비가 더 내릴 것으로 예보했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TM3OYPKB3BA37C4G7I5RSC2UYI.gif?auth=d76e620d3021ccb9235d58e553d4a8cf3e10e5c6d305cab6062336a07a70c646&amp;smart=true&amp;width=1400&amp;height=787" type="image/jpeg" height="787" width="1400">
-        <media:description type="plain">폭우3-gif</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
