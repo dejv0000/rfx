@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해병 특검, 김장환·이영훈 목사 압수수색 ... ‘구명 로비’ 본격 수사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/GJC7XGLAU5B2DNUUWC4F3RS3DA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/GJC7XGLAU5B2DNUUWC4F3RS3DA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 08:39:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQVJTOZYD5F6DP6ZQBSR4LIJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장환 극동방송 이사장(왼쪽)과 이영훈 여의도순복음교회 담임목사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹을 수사하는 해병 특검이 18일 김장환 목사와 이영훈 목사 등 보수 기독교계 인사에 대한 대대적인 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 이날 서울 마포구 극동방송과 서울 영등포구 여의도순복음교회를 압수 수색했다. 압수 수색 대상에는 기독교계 원로인 극동방송 이사장 김정환 목사, 이영훈 여의도순복음교회 목사도 포함됐다고 한다.&lt;br&gt;&lt;br&gt;특검은 김 목사와 이 목사 등 보수 기독교계 원로 인사들이 임 전 사단장의 구명 로비 통로가 됐을 가능성을 염두에 두고 수사 중이다. 2023년 7월 고 채수근 상병 사망 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에 이들이 관여했을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;특검 관계자는 이날 브리핑에서 “(구명 로비가) 임 전 사단장과 주변 인물에서 시작돼서 윤 전 대통령과 대통령실 주변 인물에게 여러 통로로 연결되는 정황을 확인했다”며 “사건의 중요 시점마다 이들과 연락을 주고받은 당사자 중 확인이 필요한 사람을 중심으로 압수수색을 진행 중”이라고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;종교계와 정치권에 따르면 김장환 목사는 윤 전 대통령의 ‘종교계 멘토’로 알려져 있다. 김 목사는 윤 전 대통령의 조찬기도회에 참석했으며, 윤 전 대통령이 대선 후보이던 시절에도 김건희 여사와 면담을 하기도 했다. 윤 전 대통령은 대선 후보 때 TV토론회에서 손바닥에 ‘왕(王)' 자를 적고 나온 것이 알려져 논란이 되자 여의도순복음교회를 찾아 예배를 하고 이영훈 목사와 면담하기도 했다. 윤 전 대통령은 대통령 취임 이후에도 한국교회총연합회 대표회장이던 이 목사와 종종 만났다.&lt;br&gt;&lt;br&gt;특검은 이날 임 전 사단장의 자택을 비롯해 이철규 국민의힘 의원, 백명규 해병대 군종목사(소령), 고석 변호사의 자택 및 사무실 등에 대해서도 압수 수색을 진행했다. 모두 임 전 사단장에 대한 ‘구명 로비’ 의혹과 관련된 강제 수사로 알려졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 백 목사가 임 전 사단장을 윤 전 대통령과 주변 사람들에게 이어주는 ‘연결 고리’를 했다고 보고 수사 중인 것으로 알려졌다. 독실한 기독교 신자인 임 전 사단장은 이른바 ‘VIP 격노설’이 불거진 2023년 7월 31일 국가안보실 회의 당일, 종교계 인맥이 넓은 백 목사에게 전화한 것으로 나타났다. 특검은 당시 백 목사가 종교계 인맥을 통해 대통령실을 상대로 임 전 사단장 구명 로비에 나섰을 가능성에 주목하는 것으로 전해졌다. 이날 김장환 목사와 친윤계 핵심인 이철규 의원이 통화한 기록도 있다고 한다. &lt;br&gt;&lt;br&gt;김장환 목사와 이영훈 목사는 군 선교 활동 과정에서 임성근 전 사단장과 군에서 만난 적이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고석 전 법원장도 윤 전 대통령의 사법연수원 동기로 친분이 있다. 고 전 원장은 채 상병 사건 기록이 회수된 이후인 2023년 8월 3일 당시 이종섭 국방장관과 통화한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남편은 5kg 빠져가며 간병했는데… 아내는 암 완치 후 불륜</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/JNXCFLRANVBMJEPRKEND4P5OLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/JNXCFLRANVBMJEPRKEND4P5OLI/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 08:30:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RE2M5MVONJ2TFWQA47TESPJABU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 1월 26일 서울의 한 웨딩 드레스샵에 웨딩드레스가 전시돼 있는 모습. 사진은 기사와 관련이 없음. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;암 투병을 하던 아내가 남편의 헌신적인 간병으로 완치된 후, 다른 남자와 불륜을 저지르고 이혼을 요구했다는 사연이 전해졌다. &lt;br&gt;&lt;br&gt;18일 YTN라디오 ‘슬기로운 라디오 생활’에서 자녀를 한 명 둔 15년 차 부부의 이 같은 사연이 전해졌다. 방송에 따르면 남편 A씨는 결혼 생활 내내 아내의 폭력적 성향으로 갈등을 겪었다고 한다. 아이를 돌보기 위해 시누이가 함께 살았지만, 분노조절 장애가 있던 아내는 집에서도 A씨의 뺨을 때리거나 휴대폰을 던져 A씨의 머리에서 피가 날 정도의 폭력을 행사했다. &lt;br&gt;&lt;br&gt;그러던 중 아내가 암 진단을 받았다. A씨와 시누이가 간병했고, A씨는 간병 과정에서 체중이 5kg 이상 빠질 정도였다고 한다. 다행히 아내는 완치 판정을 받았다. 하지만 아내는 회복 후 다른 남자와 부적절한 관계를 맺었고 이는 A씨가 아내의 휴대폰에서 사진을 발견하면서 드러났다. 게다가 집에서 부부의 이혼을 기원하는 부적까지 발견됐고, A씨 부부는 이혼에 이르렀다. &lt;br&gt;&lt;br&gt;법원은 이혼 소송에서 아내의 폭력, 불륜 등을 고려해 A씨의 손을 들어줬다. 이 사건에서는 재산 분할에서 A씨의 기여도가 더 높게 인정됐고, A씨는 위자료도 받게 됐다. 사연을 소개한 조인섭 변호사는 “이혼에서 이른바 ‘괘씸죄’는 위자료로 반영이 되고, 재산 분할에서도 반영이 될 수 있다”며 “이 부부의 경우는 혼인 생활이 상당히 오래됐는데도 남편의 기여도가 훨씬 더 많이 인정됐으며, 남편은 위자료도 받았다”고 전했다. 그는 “부적 사용 자체는 형사처벌 대상이 되지 않는다. 다만 부적을 이용한 협박이나 위협 행위가 있었다면 형사처벌 대상이 될 수 있다”고 덧붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭우로 불어난 하천에 휩쓸려... 세종서 40대 실종</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/18/ACYM6XVMOBE25DKKUV7ZHA66OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/18/ACYM6XVMOBE25DKKUV7ZHA66OY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 08:57:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPMWBCTFWZPRJKCXMQJEZ3QRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 세종시 나성동 제천변에서 경찰이 물에 휩쓸려 실종된 40대 남성을 수색하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭우로 불어난 하천에서 40대 남성이 물에 휩쓸려 실종돼 경찰이 수색에 나섰다.&lt;br&gt;&lt;br&gt;18일 경찰에 따르면 지난 17일 오후 8시 40분쯤 “남편이 집에 들어오지 않는다”는 실종 신고가 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상을 분석해 A(40대)씨의 행적을 찾아나섰다. 이 과정에서 경찰은 신고 시간보다 19시간 앞선 17일 오전 1시 50분쯤 A씨의 마지막 모습을 포착했다.&lt;br&gt;&lt;br&gt;CCTV 영상에선 A씨가 세종시 나성동 다정교 인근 제천 산책로에 접근하기 위해 언덕을 내려가다 물에 휩쓸리는 모습이 확인된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 사고가 나기 전 직장 동료들과 인근에서 회식을 함께한 것으로 알려졌다. 당시 호우특보가 발령된 세종시는 안전 문제로 하천 진입로를 차단한 상태였다. A씨는 차단된 지점이 아닌 하천 주변 둑을 통해 천변에 진입한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 물에 휩쓸린 지점을 시작으로 소방당국과 함께 헬기와 드론, 인력 50여명을 투입해 수색을 벌이고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 쯔양 협박해 2억원 뜯어낸 여성에 징역 1년씩 구형 </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/GBP2PFQYRRBDXJ754TWQB4BFX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/GBP2PFQYRRBDXJ754TWQB4BFX4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 09:12:04 +0000</pubDate>
+      <content:encoded>유튜버 쯔양(본명 박정원)을 협박해 2억여 원을 뜯어낸 혐의를 받는 여성 2명에게 검찰이 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVW2LUWNL6VEPJYR6DRCN2NPZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'1000만 유튜버' 쯔양(박정원)이 지난 4월 16일 오전 서울 강남경찰서에서 고소인 신분으로 출석, 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사12단독 구창규 판사는 폭력행위처벌법상 공동공갈 혐의로 기소된 20대 여성 김모씨와 30대 여성 송모씨의 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 검찰은 두 사람에게 각 징역 1년씩 선고해달라고 재판부에 요청했다. 검찰은 “갈취 금액이 중대하고 범행이 가볍지 않지만 두 사람 모두 범행 일체를 자백하고 반성하는 점, 피해자와 원만히 합의한 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;피고인 측 변호인은 “우발적 범행이었을 뿐 피해자에게 해악을 가할 의사가 없었던 것으로 보인다. 선처해달라”고 했다. 김씨는 최후 진술에서 “깊이 뉘우치고 앞으로 다시는 이런 일을 하지 않겠다”고 했고, 송씨도 “피해자에게 죄송하다”고 말했다. &lt;br&gt;&lt;br&gt;두 사람은 2021년 6월~2022년 11월 쯔양을 협박해 쯔양의 유튜브 채널 PD로부터 2억 1600여 만원을 뜯어낸 혐의로 재판에 넘겨졌다. 두 여성은 쯔양과 일면식이 없는 사이지만, 쯔양에게 지속적인 폭력을 가한 전 남자친구로부터 이야기를 듣고 쯔양 유튜브 채널의 PD를 협박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, 건진에 샤넬백 전달한 통일교 전 본부장 20일 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/KXRIMLDOAVEWTJJJ42ZQCPKDWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/KXRIMLDOAVEWTJJJ42ZQCPKDWU/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 08:25:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AO5FURHNJBNQXHYKQS6FIDYOCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 18일 오후 경기 가평군 통일교 천원궁 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨와 관련한 의혹을 수사하는 민중기 특별검사팀이 오는 20일 윤모 전 통일교(세계평화통일가정연합) 세계본부장을 불러 조사한다. 윤 전 본부장은 전씨를 통해 김 여사에게 고가의 다이아몬드 목걸이와 가방 등을 건넨 인물이다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 특검팀은 윤 전 본부장에게 오는 20일 오전 10시에 소환 통보를 한 것으로 알려졌다. 이날 윤 전 본부장의 자택을 압수 수색한 데 이어, 직접 불러 조사도 하겠다는 것이다. 특검팀은 윤 전 본부장이 김 여사에게 선물을 건넨 경위와 청탁 내용 등에 대해 캐물을 전망이다.&lt;br&gt;&lt;br&gt;윤 전 본부장은 전성배씨를 통해 김 여사에게 6000만원 상당의 그라프 다이아몬드 목걸이와 1000만원 상당 샤넬백 2개, 고가의 천수삼 농축차 등을 건네며 청탁을 했다는 의혹을 받고 있다. 앞서 검찰은 이 중 샤넬백 2개는 김 여사 측근인 유경옥 전 대통령실 행정관이 가방 3개와 신발 한 켤레로 바꿔 간 사실도 확인했다. 다만 검찰은 목걸이 등이 실제 김 여사에게 전달됐는지는 확인하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 본부장은 전씨에게 고가의 금품을 전달하면서 통일교 사업과 관련한 각종 청탁을 한 것으로 알려졌다. 캄보디아 메콩강 개발 사업(ODA) 수주 지원, 유엔 제5사무국 한국 유치, YTN 인수 지원, ‘새마을운동’ 아프리카 수출 지원, 통일교 인사들의 윤 전 대통령 취임식 초청 등이 있다.&lt;br&gt;&lt;br&gt;특검팀은 윤 전 본부장이 김 여사에게 청탁을 한 것이 통일교 차원의 조직적 움직임이라고 보고 있다. 그러나 통일교 측은 “윤씨 개인의 일탈”이라며 지난달 윤 전 본부장에게 출교 조치를 내리고 선을 그었다.&lt;br&gt;&lt;br&gt;특검팀이 18일 통일교 본부와 관계자 주거지 등 10여곳에 대한 압수 수색을 진행한 만큼, 한학자 총재 등 통일교 핵심 관계자들에 대한 소환도 임박했다는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 尹 “간 수치 정상의 5배...법정 오는 것도 힘들었다” 호소</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/18/FXCMR6TST5A3RAHXHTZN5XJGAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/FXCMR6TST5A3RAHXHTZN5XJGAY/</guid>
+      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 08:50:10 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 18일 구속적부심에서 직접 “간 수치가 정상 범위의 5배가 넘는다”며 석방을 호소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 이날 구속적부심 말미에 전날 서울구치소에서 받은 혈액 검사 결과를 제시하며 이같이 말했다. 간 기능 검사에 활용되는 감마-GTP 수치가 약 320IU/L로, 정상 범위(11~63IU/L)보다 5배 높다는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRFARPHOX6DYYRNFJSEMKZTCOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9일 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속됐을 때 입은 정장 차림으로 구속적부심에 출석한 윤 전 대통령은 “구속 전에는 간 수치가 60IU/L 정도로 정상 범주에 있었는데, 구속 후 건강 관리에 어려움을 겪으면서 치솟았다”면서 “어지럼증과 불면증을 심하게 겪고 있다”는 취지로 발언한 것으로 전해졌다. 또 “구치소 내에서 제대로 운동을 하지도 못하고 있고, 밥도 거의 못 먹고 있다“며 “법정에 걸어오는 것도 힘들었다”는 취지로 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;반면 내란 특검팀은 ‘윤 전 대통령 거동에 이상이 없다’는 서울구치소 공문을 제시하며 “구속을 취소할 정도로 건강에 이상이 있다고 보기 어렵다”고 반박했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 구속 사유였던 증거인멸 우려에 대해 “지금 저를 위해 증거를 인멸해줄 사람이 있겠느냐”면서 “사건 관련자들의 진술을 봐도 각자 살길을 찾고 있지, 저를 위해 일부러 유리한 진술을 해주는 사람은 없다”고 한 것으로 전해졌다. 구속영장에 기재된 범죄 혐의에 대해서도 “말이 되지 않는다”며 구체적으로 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단도 구속영장에 적시된 혐의들은 이미 재판 중인 내란 혐의에 포섭돼 있어 재구속 제한 사유에 해당한다며 구속이 부당하다고 했다.&lt;br&gt;&lt;br&gt;반면 내란 특검은 “적시된 사후 계엄 문건 작성, 비화폰 서버 삭제 지시 등 범죄 혐의는 내란 행위가 종료된 이후에 발생한 범죄들”이라며 “별개의 범죄로 봐야 한다”고 반박했다. 또 범죄 혐의가 중한 데다 증거인멸 우려가 남아 있어 계속 구속할 필요가 있다고 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인수 후 ‘52억 임금 체불’ 성지건설 대표 불구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/VC5LPLGP4BGPVCUKDZTJQ7J6GU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/VC5LPLGP4BGPVCUKDZTJQ7J6GU/</guid>
@@ -860,26 +914,6 @@
       </media:content>
     </item>
     <item>
-      <title> “남편이 집에 안와요” 신고... 위치 추적하니 기계 속에 숨진채 발견</title>
-      <link>https://www.chosun.com/national/incident/2025/07/17/A7NCD4G7OBDTRENT5MG5AQ7DLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/17/A7NCD4G7OBDTRENT5MG5AQ7DLI/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>대전 대덕구 한 제지 공장에서 30대 근로자가 기계 안으로 추락해 숨지는 사고가 발생했다.
-17일 경찰 등에 따르면 전날인 16일 오후 11시 56분쯤 숨진 A씨의 아내로부터 “남편이 집에 귀가하지 않았다”는 신고가 접수됐다.
-</description>
-      <pubDate>Thu, 17 Jul 2025 10:45:44 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 대덕구 한 제지 공장에서 30대 근로자가 기계 안으로 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;17일 경찰 등에 따르면 전날인 16일 오후 11시 56분쯤 숨진 A씨의 아내로부터 “남편이 집에 귀가하지 않았다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;경찰은 즉시 A씨의 휴대전화 위치를 추적했고, 신호가 공장 내부에 있는 것을 확인했다.&lt;br&gt;&lt;br&gt;공장 내 방범카메라(CCTV)를 분석한 결과 A씨는 같은 날 오후 3시 30분쯤 불량품이나 폐종이를 펄프 제조기 탱크에 옮겨 넣는 작업을 하던 중 개폐기 구멍을 통해 기계 안으로 추락한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사고 당시 A씨와 함께 일하던 동료가 있었지만, 동료들은 경찰에서 “근무 교대 시간이 다가오고 있어서 A씨가 먼저 퇴근한 줄 알았다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자를 업무상과실치사 혐의로 입건해 수사할 방침이다. 노동 당국도 이 사업장에 대해 중대재해처벌법 위반 여부를 확인 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고성 앞바다 낚싯대에 걸린 건...알고 보니 청상아리</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/N2A2KGB6UNEDHKQ7YSFTF2PEWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/N2A2KGB6UNEDHKQ7YSFTF2PEWM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 11:55:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZ7BOA2K4FGG7A3SOA7T3HY6UI.png"&gt;&lt;figcaption&gt;&lt;small&gt;고성에서 잡힌 청상아리./속초해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 고성군 대진항 인근 해상에서 낚시를 하던 중 상어가 낚싯대에 걸리는 일이 발생했다. &lt;br&gt;&lt;br&gt;17일 오전 9시 55분쯤 강원 고성군 현내면 대진항 동쪽 약 3.7㎞(2해리) 해상에서 한 낚시객의 낚싯대에 상어가 건져 올라왔다. 상어는 길이 약 70㎝, 무게 약 10㎏의 청상아리였다. 작살 등 불법 어구에 의한 포획 흔적은 발견되지 않았다.&lt;br&gt;&lt;br&gt;청상아리는 태평양과 대서양, 인도양의 열대·온대 해역에 광범위하게 분포하는 상어로 사람 등에 대한 공격성이 강한 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;이에 속초해경은 해수욕장 이용객 안전 관리 강화를 위해 해상 순찰을 강화하고, 수중 레저 사업자와 서핑 업체 등에 대국민 알림 문자를 전송했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “바다에서 상어 등을 발견했을 경우 지체 없이 해경으로 신고해달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>시험관 아기 배아 5년새 83% 늘어 年 78만개, 이식 20만건</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/07/17/MLT3LREPP5BNBDKIPFQOKYY5QQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/17/MLT3LREPP5BNBDKIPFQOKYY5QQ/</guid>
@@ -887,35 +921,6 @@
       <description/>
       <pubDate>Thu, 17 Jul 2025 11:34:34 +0000</pubDate>
       <content:encoded>시험관 아기 시술(체외수정)로 임신을 시도하는 부부가 증가하면서 배아 생성량이 연간 80만개에 이르는 것으로 나타났다. 이를 통한 이식 건수 역시 20만건을 넘어섰다. &lt;br&gt;&lt;br&gt;17일 국회 보건복지위원회 김윤 의원(더불어민주당)이 보건복지부에서 받은 자료에 따르면, 지난해 신규 생성된 배아는 78만3860개로 5년 전인 2019년(42만7818개) 대비 83.2% 증가했다.&lt;br&gt;&lt;br&gt;연간 생성 배아 수는 2016년 33만4687개에서 2021년 55만724개로 50만개를 처음 넘어선 데 이어, 지난해에는 전년(2023년·59만9851개) 대비 30.7%나 늘어났다.&lt;br&gt;&lt;br&gt;배아 생성 수만큼 실제 이식에 쓰인 경우도 증가했다. 지난해 이식된 배아 수는 20만1496개로 2019년(15만2761개) 대비 31.9% 늘어났다. &lt;br&gt;&lt;br&gt;다만 이식되지 않고 폐기되는 배아의 수도 증가 추세인 것으로 나타났다. 지난해만 배아 53만3266개가 폐기됐는데 2019년보다 104.7% 늘어났다. 시험관 시술을 하면 여성의 연령이나 건강 상태에 따라 배아 1~3개를 이식한다. 임신이 된다면 배아를 보관했다가 다음 임신 시도 때 사용하고, 그러지 않을 경우 다음번 새로운 시도 때 사용할 수 있다. 배아는 냉동 상태로 최대 5년간 보관하는데, 5년이 지났거나 부부가 원하면 폐기한다.&lt;br&gt;&lt;br&gt;시험관 아기 시술이 자리를 잡아 가고 있지만, 아직 관련 제도는 정비가 필요하다는 지적도 나온다. 최근 배우 이시영이 이혼한 전 남편의 동의 없이 혼인 관계였을 때 동결한 배아를 이식한 것이 대표적 사례다. 현행법상 배아 생성은 부부 모두 동의해야 하지만 이를 이식할 때는 양쪽 동의가 모두 필요하다는 명문 규정이 없다. 보건복지부 관계자는 “절차를 개선할 필요가 있는지 전문가들과 논의해 보려고 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폭우에 침수 위기 밀양 요양원서 환자 등 56명 구조 </title>
-      <link>https://www.chosun.com/national/2025/07/17/ON2FQJYAPRFOJHNO6CYVDTE4KQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/17/ON2FQJYAPRFOJHNO6CYVDTE4KQ/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description>17일 18개 시·군 전역에 호우특보가 발효된 경남에서도 집중호우로 인한 피해가 잇따랐다. 
-
-경남소방본부에 따르면 이날 오후 4시 33분쯤 밀양시 무안면 한 요양원에서 “요양원이 저지대에 있어 침수가 우려된다. 노인 환자들을 안전한 곳으로 옮겨달라”는 신고가 들어왔다.</description>
-      <pubDate>Thu, 17 Jul 2025 11:20:21 +0000</pubDate>
-      <content:encoded>17일 18개 시·군 전역에 호우특보가 발효된 경남에서도 집중호우로 인한 피해가 잇따랐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5LM5Q2CNRIQJKTLB4YKDNMSM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 집중호우가 쏟아진 경남 밀양시 무안면 한 노인요양원에서 밀양소방서 구조대원들이 환자와 직원들을 구조하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남소방본부에 따르면 이날 오후 4시 33분쯤 밀양시 무안면 한 요양원에서 “요양원이 저지대에 있어 침수가 우려된다. 노인 환자들을 안전한 곳으로 옮겨달라”는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;신고를 받은 소방 당국은 구급차 5대 등 차량 9대와 인력 29명을 동원해 구조에 나섰다. 소방 당국이 현장에 도착했을 때는 이미 저지대에 위치한 노인 요양원 주변에 흙탕물이 들어차 있었다고 한다. 걷거나 차량을 이용해 건물로 접근하기가 힘든 상황이었다. &lt;br&gt;&lt;br&gt;소방당국은 구명보트를 활용해 우선 환자 41명을 구조했다. 요양원 직원 15명도 119 구조대의 도움을 받아 무사히 요양원을 빠져나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36ZGTFOMWNJLPC4Y66ECYNIPVE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 경남 밀양시 무안면 한 노인요양원 일대가 침수돼 소방대원들이 환자들을 다른 병원으로 전원시키기 위해 고무보트를 이용해 구조하고 있다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 관계자는 “누워서 생활하는 노인 환자 15명은 구급차에 태워 밀양병원으로 이송했고, 거동이 가능한 나머지 환자 26명은 가까운 웅동마을회관으로 대피시켰다”고 했다.&lt;br&gt;&lt;br&gt;앞서 오후 4시 5분쯤 산청군 신등면 간공리 연산마을에서는 폭우로 토사가 주택을 덮치는 사고가 났다. 이 사고로 집 안에 있던 60대 여성 1명이 토사에 하반신이 깔렸다.&lt;br&gt;&lt;br&gt;구조 신고를 받고 출동한 경남특수대응단은 오후 5시 14분쯤 이 여성을 구조했다. 구조 당시 여성은 의식이 있었고, 현재 생명에는 지장이 없는 상태라고 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BQ7PQW3J5AYRMU3WA3UNPEQZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 3시55분쯤 경남 산청군 신안면 한 지하차도에 물이 차오르면서 이곳을 지나던 포터 2대와 승용차 1대가 물에 잠겼다. 운전자와 동승자 등 4명이 무사히 구조됐다. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 이날 오후 3시 55분쯤엔 산청군 신안면 한 지하차도에 물이 차오르면서 이곳을 지나던 포터 2대와 승용차 1대가 물에 잠겼다는 신고가 접수됐다. 현장에 도착한 소방 당국은 차량 운전자와 동승자 등 60대 4명을 구조했다. &lt;br&gt;&lt;br&gt;도내 평균 강수량은 오후 6시 기준 78.4㎜이다. 지역별로는 함안 284.0㎜, 산청 229.5㎜, 합천 142.5㎜, 창녕 122.5㎜, 밀양 117.9㎜, 함양 109.4㎜ 순이다. 지점별로는 창녕 도천 326.0㎜, 산청 생비량 289.5㎜, 함안 가야읍이 283.5㎜를 기록했다. &lt;br&gt;&lt;br&gt;경남소방은 이번 집중호우로 총 169회 출동했다. &lt;br&gt;&lt;br&gt;창녕, 하동, 함안, 밀양 등 4개 시군 149가구 168명이 침수 및 산사태 우려에 따라 마을회관, 친인척집 등으로 사전 대피한 상태다. &lt;br&gt;&lt;br&gt;도로 및 주차장, 하천변 산책로, 세월교 등 164곳의 출입이 통제되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검·금융위·금감원 ‘자본시장 불공정거래 대응 TF’ 발족</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/17/3FMLU6PZSRERVHMZSFDBDI4UEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/3FMLU6PZSRERVHMZSFDBDI4UEQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 11:14:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBZ2W6ZFF5OU7J46ZPBPGLUP64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울 서초구 대검찰청에서 검찰 깃발이 바람에 나부끼고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰과 금융당국이 주가조작 등 자본시장 범죄를 근절하기 위해 합동 태스크포스(TF)를 꾸렸다.&lt;br&gt;&lt;br&gt;대검찰청은 17일 대검 반부패부와 금융위원회, 금융감독원, 한국거래소 등으로 구성된 ‘자본시장 불공정거래 대응 강화 TF’를 발족하고 전날 대검에서 첫 회의를 열었다고 밝혔다. 대검 반부패부 과장·연구관과 서울남부지검 금융·증권범죄 합동수사부장, 금융위 자본시장조사총괄과장, 금감원 조사국장, 한국거래소 심리부장 등 실무책임자가 참여한다.&lt;br&gt;&lt;br&gt;대검은 “이번 TF는 정부의 자본시장 불공정거래 범죄 엄단 의지를 실천하기 위한 것”이라며 “주가조작 범죄 수사의 신속성과 공정성 확보를 위한 세부 방안을 마련해 공동 대응해 나갈 계획”이라고 했다. 이재명 대통령은 지난달 ‘주식시장 불공정 거래 근절을 위한 현장 간담회’에 참석해 “주가조작하면 패가망신하는 것을 확실하게 보여주겠다”고 말했다.&lt;br&gt;&lt;br&gt;대검 관계자는 “금융당국과 검찰은 불공정거래 행위에 대한 금융위의 과징금 부과, 주가조작 계좌 지급 정지, 법위반 행위자의 주식시장 퇴출 등 최근 자본시장법 개정으로 도입된 제도의 실효성 있는 정착에 협력하겠다”며 “주가조작 범행의 적발 단계부터 긴밀하게 협의해 ‘주가조작 원스트라이크 아웃’에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘기록 회수’ 관여한 대통령실 파견 경찰 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/14/2AW7PHMZQZGEDFP33TTOOTQ3GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/14/2AW7PHMZQZGEDFP33TTOOTQ3GI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 14 Jul 2025 06:02:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5I2H55QMTCIZAPJLWC7DAVRRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병 특검팀의 정민영 특검보가 지난 7일 오전 서울 서초구 특검 사무실에서 기자단 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 최근 해병대 수사단이 경찰에 이첩한 초동 조사 기록을 회수하는 과정에 관여한 경찰 고위 간부를 압수 수색한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 특검은 지난 10일 대통령실 공직기강비서관실 행정관 출신 박모 총경을 압수 수색해 휴대전화 등을 확보했다. 특검이 이종섭 전 국방부 장관 자택과 국방부·대통령실 등에 대한 압수 수색에 나서며 첫 강제수사에 착수한 날이다.&lt;br&gt;&lt;br&gt;박 총경은 2023년 8월 2일 박정훈(대령) 해병대 수사단장이 경북경찰청에 이첩한 고 채수근 상병 사망 사고 조사 기록을 국방부 검찰단이 회수하는 과정에서 경찰과 조율했다는 의혹을 받고 있다. 당시 공직기강비서관실에 근무하던 박 총경은 경찰청 국가수사본부 강력범죄수사과장인 이모 경무관과 연락을 주고받은 것으로 나타났다.&lt;br&gt;&lt;br&gt;특검은 최근 이 경무관을 조사하면서 “박 총경이 ‘이시원 (당시) 공직기강비서관이 해병대 수사단이 이첩한 조사 기록 반환을 검토하라고 했다’고 말했다”는 취지의 진술을 확보했다. 이 전 비서관은 기록 회수 당일 임기훈 전 국방비서관, 신범철 전 국방차관, 유재은 전 법무관리관 등과 여러 차례 통화하며 회수 등에 관여했다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;특검은 박 총경의 휴대전화 기록 등을 바탕으로 당시 대통령실이 해병대 수사단 조사 기록 회수 과정에 관여했는지 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김용현, 尹 탄핵심판 때 “수사기록 헌재 주지 말라” 낸 신청, 대법서 최종 각하</title>
@@ -954,16 +959,6 @@
 </description>
       <pubDate>Thu, 17 Jul 2025 10:25:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시 한 장애아동쉼터에서 장애 아동 2명이 학대를 당했다는 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;17일 인천경찰청 등에 따르면 지난 11일 “장애 아동이 학대를 당한 것으로 보인다”는 112 신고가 접수됐다. 이 쉼터는 학대 피해를 입은 장애 아동을 임시 보호하는 곳이다.&lt;br&gt;&lt;br&gt;쉼터 시설장은 장애 아동 1명이 멍든 모습을 보고 방범카메라(CCTV)를 확인한 결과 직원 A씨가 장애 아동 2명을 학대한 정황을 발견했다.&lt;br&gt;&lt;br&gt;방범카메라엔 A씨가 지난 1일 시설 구석에서 자폐가 있는 B군을 밀치거나 잡아당기는 모습이 담긴 것으로 알려졌다. 또 지난달 23일엔 A씨가 식탁에서 떨어진 음식을 그릇에 담아 C군에게 먹이고 손에 침을 발라 C군의 머리를 넘겨주는 모습도 담겼다.&lt;br&gt;&lt;br&gt;쉼터 측은 A씨와 피해 아동 B·C군을 분리 조치했으며, 수사 결과에 따라 징계 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라와 관계자 진술 등을 토대로 정확한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>300㎜ 폭우에 光州도 물바다… 지하철도 잠겼다</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/17/SX3RLL6CXJESLBO2H3YCKFIZI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/17/SX3RLL6CXJESLBO2H3YCKFIZI4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 09:31:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JK3MEHWSOJMSPA5K65JXV3BCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 광주광역시 서구 양동복개상가 인근 태평교 밑으로 흐르는 광주천 강물이 범람 수위까지 도달하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주·전남에 하루 동안 강수량 300㎜가 넘는 폭우가 쏟아져 침수 피해가 이어지고 있다. 하천과 인접한 지역 주민들에게는 대피령이 내려졌다.&lt;br&gt;&lt;br&gt;17일 광주지방기상청에 따르면 이날 오후 5시 기준 광주·전남 누적 강수량은 광주 풍암 311.5㎜, 곡성 옥과 288.5㎜, 담양 봉산 280.0㎜, 나주 279.5㎜, 화순 백아 230.0㎜, 함평 월야 200.0㎜, 무안 해제 139.0㎜ 등을 기록했다.&lt;br&gt;&lt;br&gt;시간당 최대 강수량은 나주 92.0㎜, 광주 남구 80.0㎜, 광주 76.2㎜, 담양 봉산 74.0㎜, 곡성 옥과 70.5㎜, 장성 65.5㎜, 함평 월야 65.0㎜, 신안 지도 60.0㎜ 등으로 나타났다.&lt;br&gt;&lt;br&gt;폭우로 도심 곳곳이 물에 잠겼다. 광주소방본부에 따르면 이날 오후 4시 기준 광주에서 도로 침수 236건, 건물 침수 137건, 도로장애 13건 등 총 419건의 호우 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;이날 오후 1시 22분쯤 광주 북구 오룡동 과학기술원 일대가 물에 잠겨 인근 로컬푸드 매장에 고립된 77명이 소방당국 안내를 받아 대피했다.&lt;br&gt;&lt;br&gt;오전 11시 36분쯤 광주 남구 진월동의 한 도로에서는 물이 불어나 차량에 갇힌 탑승자 2명이 구조됐다. 오전 11시 37분쯤 광산구 도천동의 한 도로에서도 차량이 침수돼 운전자 1명이 소방 당국에 의해 구조됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVHYYDMKT2JKTJT5MRENYLQEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 시간당 77㎜가 넘는 '극한 호우'가 내리면서 광주 도시철도 1호선 상무역 역사 안이 침수돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나주시 금천면의 한 숙박업소 내부로 빗물이 차올라 소방 당국이 배수 작업을 했다. 저지대인 광주 북구청·전남대 인근, 광주 남구 백운동 일대 주택과 상점이 물에 잠겨 배수 작업이 진행되고 있다.&lt;br&gt;&lt;br&gt;광주 도시철도 1호선 상무역은 집중호우로 역사가 침수돼 농성역부터 광주 송정역 구간 운행이 중단됐다. 호남고속도로 동광주IC에서 서광주IC까지 양방향 도로도 침수돼 운행이 전면 차단됐다.&lt;br&gt;&lt;br&gt;광주 북구와 광산구는 “집중호우로 인해 순간 침수 지역이 다수 발생해 차량 운행과 외출을 자제하고 조기 귀가해달라”는 안전 안내 문자메시지도 보냈다.&lt;br&gt;&lt;br&gt;홍수 우려로 하천 인접 지역 주민들에게 대피령이 내려지고 있다. 광주광역시 서구는 이날 오후 4시 26분쯤 광주천이 지나는 양동 태평교 인근 주민들에게 대피령을 내렸다. 양동 태평교 인근은 호남권 최대 재래시장인 양동시장이 있다. 점포 수만 1000여 개에 달한다.&lt;br&gt;&lt;br&gt;소태천이 흐르는 광주 동구 인접 지역과 석곡천과 장등천 일대 광주 북구 주민들도 인근 대피 시설로 대피 명령이 내려졌다. 영산강홍수통제소는 영산강 극락교 지점, 풍영정천 2교, 전남 담양군 영산강 삼지교에 홍수 경보를 내렸다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “취약 시간대인 밤사이에도 매우 강하고 많은 비가 예상돼 산사태와 제방 붕괴, 시설물 침수 등 각종 안전사고에 유의를 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TJGEFW4HLFDF3N5XOGD2VRBHVE.gif?auth=3711232254e4b8eb8cd955f015770fb578c048abac9507b6d85ee0b08b76a47e&amp;smart=true&amp;width=1400&amp;height=788" type="image/jpeg" height="788" width="1400"/>
     </item>
     <item>
       <title>“더우니 가게로 들어오세요” 안경원 사장의 배려, 1380만원 사기 피해 막았다 </title>
