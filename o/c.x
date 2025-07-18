@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘16세’ 최연소 나이로 1억 기부한 학생, 누구?</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/18/JNFCGOELMZADDBX6LE65A3NY74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/JNFCGOELMZADDBX6LE65A3NY74/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 05:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOGEY3J74VEAXJNFXIRKS5URFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 사랑의열매 신혜영 사무처장과 백은별(오른쪽) 기부자가 아너 소사이어티 인증패를 들고 기념사진을 촬영하고 있다./사랑의열매&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청소년 베스트셀러 작가 백은별(16)양이 1억원 이상 고액 기부자 모임인 ‘아너 소사이어티’(Honor Society)에 가입했다. 서울 사랑의열매 최연소 회원이 된 것이다.&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회는 18일 청소년 베스트셀러 작가 백은별(16)양이 전날 1억원 기부를 약정했다고 밝혔다. &lt;br&gt;&lt;br&gt;가입식은 전날 서울 중구 사랑의열매 회관 ‘명예의 전당’에서 열렸다. 백양이 기부한 1억원은 사랑의열매를 통해 소외된 이웃 등 취약 계층을 돕는 데 사용될 예정이다.&lt;br&gt;&lt;br&gt;백양은 중학교 2학년이던 2022년, 장편소설 ‘시한부’를 출간하며 작가 활동을 시작했다. 우울과 방황의 경계에서 스스로 죽음을 고민하는 청소년을 섬세하게 그려낸 이 작품은 출간 직후 청소년 분야 베스트셀러 1위 자리를 20주 연속으로 지켰다. &lt;br&gt;&lt;br&gt;이후 ‘성장통’, ‘기억하는 한 가장 오래’, ‘윤슬의 바다’ 등 또래 청소년들의 혼란과 성장을 담은 신작을 선보이며 독자층을 넓혀왔다.&lt;br&gt;&lt;br&gt;백양은 “독자들에게 받은 사랑을 사회에 돌려주고 싶었다”며 “비슷한 또래에게 작가가 될 수 있다는 새로운 꿈을 심어주고, 힘든 사람들이 조금이나마 공감하고 위로받을 수 있는 글을 쓰는 일이 세상을 이롭게 할 수 있다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;‘아너 소사이어티’는 사랑의열매가 운영하는 개인 고액 기부자 모임이다. 1억원 이상을 기부했거나 5년 이내 기부를 약정한 개인이 가입할 수 있다. 나눔 문화의 정착을 위해 2007년 12월부터 시작한 이 모임은 현재 3709명의 회원이 활동하며 국내 개인 기부 문화 발전에 앞장서는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 게임 캐릭터를 죽여?”...8살 아들 폭행한 아빠 징역형</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/07/18/X674N4RQWZAFFJ7OAHDAE2ET2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/07/18/X674N4RQWZAFFJ7OAHDAE2ET2U/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 18 Jul 2025 04:39:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X77PUOY77ZBPZDGZGAIRM6H4QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 휴대전화 게임을 하던 아들이 자신의 캐릭터를 죽였다며 때린 30대가 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 18일 특수협박, 아동복지법 위반, 재물손괴 등 혐의로 기소된 A(37)씨에게 징역 2년을 선고했다고 밝혔다. 또 40시간의 아동학대 치료 프로그램 이수 명령을 내렸다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 30일 강원도 홍천군 자신의 집에서 아들 B(8)군과 휴대전화로 게임을 하던 중 B군이 자신의 캐릭터 위치를 몰래 확인한 후 그 캐릭터를 죽인 것에 격분, B군의 팔 부위를 잡아끌어 내팽개치는 등 신체적으로 학대한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;같은 날 그의 아내 C(34)씨가 112 신고하려고 하자 휴대전화를 빼앗아 망가뜨리고, 흉기로 위협하기도 했다.&lt;br&gt;&lt;br&gt;그는 재판을 받는 과정에서 지난 2020년 8월 사촌 동서가 자신에게 욕설을 한 것으로 오해해 승용차에서 흉기를 꺼내 위협했던 사실도 드러났다. &lt;br&gt;&lt;br&gt;김 부장판사는 “과거 폭력 관련 범죄로 여러 차례 처벌받았고, 누범 기간 중 범행을 저질렀다“며 ”다만, 피해자들이 처벌을 원하지 않는 점, 건강이 좋지 않은 점 등을 고려해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김건희 특검, 국정원 압수수색…김상민 전 검사 채용자료 요청</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/2QNEM6QKGRH7XB6TVRGYZRMLAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/2QNEM6QKGRH7XB6TVRGYZRMLAM/</guid>
@@ -881,24 +899,6 @@
       <description/>
       <pubDate>Thu, 17 Jul 2025 07:30:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW4F56LM4BKD3M4PW2C7TU463A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사(왼쪽 두 번째)가 2일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막을 마친 뒤 자리를 떠나고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치 브로커 명태균씨와 윤석열 전 대통령 부부가 연루된 ‘공천 개입’ 의혹을 수사하는 민중기 특별검사팀이 김영선 전 의원을 비롯해 당시 사정을 잘 아는 것으로 지목된 국민의힘 관계자를 소환한 것으로 17일 확인됐다. 그러나 이 관계자는 “할 말이 없다”며 서면으로 답하겠다는 의사를 밝혔다고 한다. 김 전 의원은 특검 측 연락을 받지 않고 있다고 한다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 8일 압수 수색한 김영선 전 의원에게 피의자로 출석하라고 통보했지만, 김 전 의원이 담당 검사의 전화를 수일째 받지 않아 일정 확정에 난항을 겪고 있는 것으로 전해졌다. 특검 측은 김 전 의원 측 대리인 중 한 명에게 구체적인 조사 일정 2~3개를 정해 전달했고, 김 전 의원 측은 출석 여부를 논의 중이다. 김 전 의원은 앞서 검찰이 기소한 정치자금법 위반 혐의 재판이 창원지법에서 열리고 있는 만큼, 법원의 하계 휴정기에 맞춰 출석하겠다는 의사를 전한 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;특검은 최근 국민의힘 관계자 A씨에게도 공천 개입 의혹과 관련해 참고인으로 출석해달라고 요구했다. A씨는 지난해 9월 공천 개입 의혹이 불거졌을 당시 전후 사정을 잘 알 것으로 지목된 인물이다. 그러나 A씨는 특검 측에 “명씨 개인에 대해서는 알지만, 윤 전 대통령 부부나 김영선 전 의원과 대화를 주고 받은 내용 등에 대해서는 아는 바가 없다”며 “서면 조사에 응하겠다고 했으나 답을 받지 못한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 김영선 전 의원이 2022년 보궐선거에서 공천을 받을 당시 공천관리위원장을 맡았던 윤상현 의원에 대한 조사 일정도 검토 중인 것으로 전해졌다. 다만 윤 의원의 휴대전화를 임의제출 형태로 확보한 이후 소환 일정을 통보하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백화점 돌며 옷·화장품 ‘슬쩍’... 60대女의 변명은</title>
-      <link>https://www.chosun.com/national/2025/07/17/CARNS5EEL5HC7MTNA7DYGQR5JE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/17/CARNS5EEL5HC7MTNA7DYGQR5JE/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 07:47:40 +0000</pubDate>
-      <content:encoded>부산 해운대 일대 백화점과 마트를 돌며 옷과 식료품, 화장품 등 100만원 상당의 물품을 훔친 60대 여성이 구속됐다. 동종 전과가 있는 이 여성은 훔친 물품을 그대로 버리기도 한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMU7JGT5SFL3INCHUDTXCCT2HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해운대경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 상습 절도 혐의로 60대 A씨를 구속 송치했다고 17일 밝혔다. A씨는 지난달 21일부터 지난 12일까지 부산 해운대구 일대 백화점과 마트 등 12곳에서 19회에 걸쳐 의류, 식료품, 화장품 등을 훔친 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨가 훔친 물품은 100여만원 상당인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 다수의 피해 신고를 접수받은 후 피해 신고가 많았던 한 백화점에서 일주일간 잠복 수사를 벌인 끝에 A씨를 현행범 체포했다. A씨는 체포 당시에도 식료품 등을 훔쳤던 상황이었다.&lt;br&gt;&lt;br&gt;경찰은 A씨에게 다수의 동종 전과가 있는 점, 상습적이며 피해 상점이 다수인 점을 고려해 구속 영장을 신청해 지난 14일 영장을 발부받았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 가족과 왕래 없이 혼자 사는 A씨는 기초생활수급자 등 생계가 곤란한 상황은 아닌 것으로 확인됐다. A씨는 가방이나 옷을 들고 있다가 훔친 물품을 몰래 숨기는 수법을 사용한 것으로 파악됐다. 특히 도난 방지용 보안 태그가 부착된 의류를 훔칠 때는 감시카메라(CCTV)나 매장 직원의 눈을 피해 강제로 제거한 뒤 가방에 넣어 빼돌렸다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 ‘자신의 의지와 관계 없이 훔치는 병이 있다’는 식으로 진술하는 등 범행을 인정한다”며 “실제로 훔친 물건을 쓰지도 않고 버린 경우도 있었다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘평양 무인기 침투’ 이승오 합참 작전본부장 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/17/7EDITSQEDREAHKM5B33U4P2XZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/17/7EDITSQEDREAHKM5B33U4P2XZI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 17 Jul 2025 07:41:41 +0000</pubDate>
-      <content:encoded>‘평양 무인기 침투 작전’을 수사 중인 내란 특검이 17일 이승오 합동참모본부 작전본부장을 소환 조사하고 있다. 이 본부장은 지난해 10~11월 김용대 드론작전사령관으로부터 평양 무인기 침투 작전을 직접 보고받은 것으로 지목된 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6EJCO3HAZMVPP2WP3ZVJGMYB4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이승오 합동참모본부 작전본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 이 본부장을 비공개로 소환해 조사 중이다. 특검은 이 본부장을 상대로 무인기 침투 작전이 정상적인 지휘 체계 아래서 진행됐는지, 김명수 합동참모본부 의장에게도 관련 내용이 보고됐는지 등을 확인 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;특검은 이날 오전 김 사령관도 피의자 신분으로 소환해 조사하고 있다. 김 사령관은 ‘이 본부장에게 작전이 보고됐느냐’는 취재진 물음엔 “당연히 하지 않았겠나. 군인이”라고 답했다.&lt;br&gt;&lt;br&gt;내란 특검은 윤석열 전 대통령이 비상계엄 선포의 명분을 쌓기 위해 평양에 무인기를 침투시켜 북한의 군사 도발을 유도했다는 의혹을 수사 중이다. 특히 윤 전 대통령이 국방부나 합동참모본부 등을 배제하고 드론사에 직접 지시를 내렸을 가능성도 의심하고 있다. 반면 김 사령관은 무인기 침투는 북한의 오물 풍선 살포에 대응하는 차원에서 진행된 정상적인 작전이란 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘멋쟁해병’ 신사동 단골 식당 간 특검 “임성근 왔었냐”</title>
