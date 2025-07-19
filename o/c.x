@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>새벽 폭우에 서울 동부간선도로 수락지하차도∼성수JC 양방향 통제</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/20/IVMUV7SMUZFCTLHB46FKABWXUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/IVMUV7SMUZFCTLHB46FKABWXUQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 21:29:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6L43JOWPDDWMJNOD5RK5CDT33M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 북부 집중호우로 중랑천의 수위가 불어나 20일 오전 동부간선도로 일부 구간이 통제 중이다.&lt;br&gt;&lt;br&gt;서울교통정보센터 토피스(TOPIS)에 따르면 이날 오전 2시 37분부터 동부간선도로 수락지하차도∼성동JC 구간이 양방향 전면 통제됐다.&lt;br&gt;&lt;br&gt;서울시 재난안전대책본부는 “미리 교통 상황을 확인하고 우회해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>유전자 검사에 “네가 사람이냐?” 되레 호통친 아내 [이별전쟁]</title>
       <link>https://www.chosun.com/national/court_law/2025/07/20/ENHGAJ3DWVECTCZHTGNFUH726U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/20/ENHGAJ3DWVECTCZHTGNFUH726U/</guid>
@@ -929,15 +938,6 @@
       <description/>
       <pubDate>Fri, 18 Jul 2025 01:50:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGTRNUVX4KCTNQD6FNYUZTW44I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹을 수사하는 해병 특검이 18일 “윤석열 전 대통령 또는 대통령실 주변 인물로 구명 로비가 연결된 정황을 확인했다”고 밝혔다. 해병 특검은 이날 이철규 국민의힘 의원, 임 전 사단장 등 구명 로비 관련자들에 대한 압수 수색을 진행했다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 기자단 브리핑에서 “(구명 로비가) 임 전 사단장과 주변 인물에서 시작돼서 윤 전 대통령과 대통령실 주변 인물에게 여러 통로로 연결되는 정황을 확인했다”며 “중요한 시점마다 이들과 연락을 주고받은 당사자 중 필요한 경우 압수 수색을 하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 2023년 7월 고 채수근 상병 사망 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에 구명 로비가 있었다고 의심하고 있다. 특검은 당시 이 의원과 임 전 사단장이 통화한 내역을 확보한 것으로 전해졌다. 정 특검보는 “당시 이 의원이 (구명 로비 관련자들과) 전화나 메시지를 주고받은 내역이 확보돼있다”며 “확인할 부분이 있어 압수 수색을 진행했다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 이 의원 자택과 사무실, 임 전 사단장 자택 외에도 극동방송을 비롯해 10여 곳을 압수 수색했다. 정 특검보는 “극동방송 관계자들도 구명 로비와 관련해 연락을 주고받은 정황을 파악했다”고 했다.&lt;br&gt;&lt;br&gt;그간 임 전 사단장의 구명 로비 의혹은 이종호 전 블랙펄인베스트 대표가 임 전 사단장을 구하기 위해 김건희 여사에게 청탁했다는 데 방점이 찍혀 있었는데, 특검은 이 의원 등이 새로운 구명 로비 창구가 됐을 가능성을 의심하고 있다. 정 특검보는 “이번 압수 수색은 이 전 대표 측과는 별개”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대장동 뇌물 의혹’ 김만배·최윤길, 대법서 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/R5VROBFGOVEDRIO5E5YM4VVE6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/R5VROBFGOVEDRIO5E5YM4VVE6M/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 01:33:33 +0000</pubDate>
-      <content:encoded>대장동 개발 사업과 관련해 성남도시개발공사의 설립을 도와달라고 당시 성남시의회 의장이었던 최윤길씨에게 청탁하고 뇌물을 준 혐의로 기소된 화천대유 대주주 김만배씨가 18일 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2CCKQ4QZVOH7LJZITERTCVCVM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물공여 혐의로 기소된 김만배씨가 작년 2월 14일 오후 경기 수원시 영통구 수원지방법원에서 열린 선고공판을 마친 뒤 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 18일 뇌물공여 혐의로 기소된 김씨에게 무죄를 선고한 원심을 확정했다. 김씨 청탁을 들어주고 뇌물을 받은 혐의(부정처사 후 수뢰)로 함께 재판에 넘겨진 최윤길 전 성남시의장도 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;김씨는 2012년 당시 최 시의장에게 ‘성남도시개발공사 설립 조례안을 통과시켜달라’는 청탁을 하고, 그 대가로 최 전 시의장을 2012년 화천대유 부회장으로 채용하고 급여 등 명목으로 8000만원을 준 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;최 전 의장은 2013년 2월 김씨 청탁을 받고 부당한 방식으로 조례안 통과를 주도한 혐의를 받았다. 당시 전자투표에서 의결정족수 미달로 안건이 부결됐는데 최 전 의장은 “투표 기계가 고장났다”며 거수 방식으로 재투표를 진행해 ‘일사부재의’ 원칙에 반해 조례안을 통과시켰다는 것이다. &lt;br&gt;&lt;br&gt;김씨는 이후 2021년 최 전 의장을 자신이 대주주로 있는 화천대유 부회장으로 채용하고 ‘대장동 도시개발사업 준공 시 성과급 40억원과 8400만원 연봉을 주겠다’고 약속한 뒤 실제 그해 11월까지 급여 명목으로 8000만원을 준 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 두 사람 혐의를 유죄로 인정하고 “당시 조례가 다수당인 새누리당의 반대에도 불구하고 가결될 수 있었던 것은 최 전 의장의 의사 진행이 영향을 미쳤다”고 판단했다. 김씨는 징역 2년 6개월을, 최 전 의장은 징역 4년 6개월을 각각 선고 받았다.&lt;br&gt;&lt;br&gt;그러나 2심 재판부는 최 전 의장의 혐의를 무죄로 뒤집고 “실제 참석 인원과 전자투표수에 차이가 있어 투표기기 결함이라고 한 것이 허위 명분을 급조한 것이라고 보기 어렵고, (최 전 의장이)의원들 의견을 들어 거수 투표를 한 것은 합리적 의사 진행이라고 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이에 따라 김씨에 대해서도 “최 전 의장의 부정 행위를 전제로 한 뇌물공여죄가 성립되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 이날 “원심 판단에 자유심증주의의 한계를 벗어나거나 부정처사 후 수뢰죄·뇌물공여죄 성립에 관한 법리 오해 등의 잘못이 없다”며 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검, 이철규 의원 압수수색… ‘임성근 구명 로비’ 의혹</title>
