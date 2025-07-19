@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“살리기 위해 버텨”… 폭우 속 맨홀 빠진 노인 사투 끝에 구했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/UPLDX5KJPFGXHJX6RNY2S6DR6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/UPLDX5KJPFGXHJX6RNY2S6DR6U/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 07:28:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BX3LCY7VSBC2REEIPHFLGLF45Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 광주광역시 동구 소태동에서 최승일(54)씨가 폭우 속 맨홀에 빠진 노인을 구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 호우가 내린 침수 상황에서 맨홀 구멍에 빠진 노인을 구한 시민의 선행이 알려졌다. &lt;br&gt;&lt;br&gt;지난 17일 오후 5시쯤 광주광역시에는 엄청난 폭우가 쏟아졌다. 광주 동구 소태동에서 자동차공업사를 운영하는 최승일(54)씨의 가게 앞에도 물이 차오르기 시작했다. &lt;br&gt;&lt;br&gt;최씨는 가게에 물이 들어오는 것을 막기 위해 직원들과 모래주머니를 쌓던 도중 저 멀리서 물살이 이상하게 움직이는 장면을 목격했다. 한 할아버지가 빗물에 휩쓸려 떠내려왔다가 맨홀 구멍에 두 다리가 빠진 채 물살에 갇힌 상황이었다. &lt;br&gt;&lt;br&gt;최씨는 할아버지를 보자마자 주저 없이 거친 물살을 헤치고 힘겹게 다가갔다. 할아버지의 팔을 붙잡고 빼내 보려 했지만 소용없었다. 최씨는 “(할아버지의) 다리가 아스콘(아스팔트 콘크리트) 같은 것에 걸려 있어 도무지 빠지지 않았다”며 “얼굴까지 물에 잠기고 있어서 숨을 제대로 못 쉬고 있어서 숨이라도 쉬게끔 도와드려야겠다고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;최씨는 직원들에게 “나무판자를 가져와달라”고 외쳤고, 그 말에 직원들이 즉시 움직였다. 넓은 나무판자로 물길을 막아 할아버지가 잠시라도 숨을 쉴 수 있는 공간이 확보됐다. &lt;br&gt;&lt;br&gt;그때, 또다른 위험 상황이 벌어졌다. 차 한 대가 빗물을 타고 최씨와 직원들에게 다가온 것이다. 자칫 차량에 부딪혀 위험했을 상황에 직원들이 온 힘을 다해 차량을 멈춰 세웠고, 최씨는 계속 할아버지 구조 작업을 이어갈 수 있었다. &lt;br&gt;&lt;br&gt;최씨는 “공업사도 운영하고 있고 운동도 좋아해서 힘이 좋은 편인데도 당시 제대로 서 있는 것조차 힘들었다”며 “차량이 떠내려올 때는 ‘이러다 내가 같이 죽는 건 아닐까’ 생각했지만, 할아버지를 놓고 물러설 수는 없었다”고 했다. &lt;br&gt;&lt;br&gt;그렇게 20여 분간의 사투 끝에 최씨와 직원들은 할아버지를 구출해 공업사 사무실에서 119 구조대에 인계했다. 다행히 할아버지의 의식과 호흡은 멀쩡했다. &lt;br&gt;&lt;br&gt;할아버지가 구조된 다음 날 가족이 공업사를 찾아와 감사 인사를 전했다고 한다. 최씨는 “할아버지가 무사하셔서 정말 다행이다. 가족들에게서 감사 인사를 받을 때 왠지 쑥스럽게 느껴졌다”고 했다. 이어 “다시 그런 일이 일어났어도 똑같이 물속으로 뛰어들었을 것 같다”며 “함께 구조를 도와준 직원들에게 정말 고맙다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 尹 구속기소… “헌법상 계엄 통제장치 무력화”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/19/ACSBXW2KUBCODCK6PLXHIFPFWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/ACSBXW2KUBCODCK6PLXHIFPFWQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 06:01:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDWUXYAS26JLMFWXUONP5WVFCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 구속 전 피의자심문을 받기 위해 지난 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검이 19일 윤석열 전 대통령을 직권남용 등 혐의로 구속 기소했다. 지난달 18일 내란특검이 수사를 개시한 지 31일 만이다.&lt;br&gt;&lt;br&gt;내란특검 관계자는 이날 “금일 오후 2시 40분, 윤 전 대통령을 직권남용 등 혐의로 기소했다”며 “윤 전 대통령은 지난해 비상계엄 선포 직전 국무회의 때 일부 국무위원만 소집함으로써 소집 통지를 받지 못한 국무위원 9명의 헌법상 권한인 국무회의 심의·의결권을 침해했다”고 밝혔다. 그러면서 “이는 헌법상 마련된 대통령의 비상계엄 선포에 대한 사전 통제장치를 무력화한 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이밖에 특검 측은 윤 전 대통령에 대해 허위 계엄선포문 사후 작성, 계엄 관련 허위 공보, 비화폰 기록 삭제 지시, 체포영장 집행 저지 등 혐의도 적용했다.&lt;br&gt;&lt;br&gt;다만 수사가 한창 진행 중인 외환 혐의는 공소장에 담지 않았다. 특검 측은 윤 전 대통령이 향후 외환 혐의 수사에 협조하지 않을 경우 강경 대응에 나설 방침이다. 이날 내란특검 관계자는 “외환 혐의를 수사할 때 당연히 소환 조사가 필요하다고 본다”며 “먼저 출정을 요청하겠지만, 불응할 경우 체포영장을 발부 받아 강제수사를 할 수밖에 없을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 지난 10일 윤 전 대통령이 구속된 이후 두 차례 소환 조사를 통보했으나, 윤 전 대통령은 응하지 않았다. 이후 11일부터 세 차례에 걸쳐 윤 전 대통령이 수감된 서울구치소에 강제 구인을 지휘했지만, 이 역시 윤 전 대통령의 거부로 무산됐다. &lt;br&gt;&lt;br&gt;이런 가운데 윤 전 대통령 측이 지난 16일 마지막 불복 카드인 구속적부심사까지 법원에 청구하자, 특검 측은 더 이상 대면 조사 시도는 실익이 없다고 판단해 구속기간 연장 대신 기소를 택한 것으로 보인다. 내란특검 관계자는 이에 대해 “내부 논의를 통해 구속영장 발부 이후 참고인 등을 상대로 추가 조사 및 증거 수집이 충분히 이뤄졌고, 구속 기간을 연장하더라도 윤 전 대통령에 대한 실효성 있는 조사를 담보하기 어렵다는 판단 하에 공소를 제기한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 또 “구속영장 발부 이후 윤 전 대통령에 대한 관련 수사가 이뤄지지 않아 아쉽게 생각한다”며 “윤 전 대통령의 수사 과정에서의 행태는 재판에 현출시켜 양형에 반영하도록 할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이로써 윤 전 대통령은 지난 1월 검찰 비상계엄 특별수사본부에 의해 내란 우두머리 혐의로, 파면 이후 지난 5월 직권남용 권리행사 방해 혐의로 각각 기소된 데 이어 세 번째로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FYQNJTOPTRDMGGJSTVJVF7ROWM.jpg?auth=02220b73ed1d5633802e23447d4379c03b357508ca6eb26405e2311d12f98392&amp;smart=true&amp;width=5500&amp;height=3669" type="image/jpeg" height="3669" width="5500">
+        <media:description type="plain">12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. 2025.7.9/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>청와대 영빈문에 ‘래커칠’한 40대 女, 경찰 조사 후 응급입원</title>
       <link>https://www.chosun.com/national/national_general/2025/07/19/7USK5C6X7BDUVIQXJXXRKGOQHI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/7USK5C6X7BDUVIQXJXXRKGOQHI/</guid>
@@ -887,15 +909,6 @@
       <content:encoded>‘평양 무인기 침투 작전’을 수사 중인 내란 특검이 드론작전사령부 산하 속초 대대의 대대장을 소환 조사했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 내란 특검은 지난 17일 드론사 산하 105대대 대대장인 A 중령을 비공개로 소환 조사했다. 105대대는 강원 속초에 위치한 대대로, 지난해 10~11월 평양 무인기 침투 작전에 관여했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSMKNLPEBUQPXL2YD3KKK5Y63E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동신문이 지난해 10월 공개한 무인기 사진. /뉴스1·노동신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 앞서 백령도에 위치한 101대대 대대장 B 중령도 최근 조사했다. 또 18일에는 무인기 작전에 직접 관여한 부사관들도 조사 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 14~15일 이 의혹과 관련해 국방부, 드론사 등 24곳을 대대적으로 압수 수색한 데 이어 지난 17일에는 김용대 드론작전사령관, 이승오 합동참모본부 조사본부장을 소환 조사했다.&lt;br&gt;&lt;br&gt;내란 특검은 윤석열 전 대통령, 김용현 전 국방부 장관 등이 비상계엄 선포의 명분을 쌓기 위해 평양에 무인기를 침투시켜 군사 도발을 유도했을 가능성을 수사 중이다. 특검은 김 전 장관이 합참 등 지휘 체계를 무시하고 드론사에 직접 침투를 지시했다고 의심하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;반면 김 사령관은 전날 조사 종료 뒤 “비상계엄과 (무인기) 작전은 연결고리가 전혀 없다고 생각한다”며 “북한의 오물 풍선 대응 차원의 정당한 작전이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘비아이 마약 수사 무마’ YG 양현석, 대법서 징역형 집유 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/IAVUVTM735BGLCM2EXYQ2Q4WPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/IAVUVTM735BGLCM2EXYQ2Q4WPE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 01:28:31 +0000</pubDate>
-      <content:encoded>소속 아이돌 멤버의 마약 투약 혐의 수사를 무마하기 위해 제보자를 협박한 혐의 등으로 기소된 양현석 YG엔터테인먼트 총괄 프로듀서가 18일 대법원에서 유죄를 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ASRANFE6JIIGO2UWMUC656RXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양현석 YG엔터테인먼트 총괄 프로듀서가 지난 4일 오후 서울 마포구 서부지방법원에서 열린 관세법 위반 혐의 공판에 출석하고 있다. 양현석은 2014년 싱가포르에서 스위스 고가 명품 시계 2개를 업체로부터 받아 세관에 신고하지 않고 국내에 반입한 혐의를 받는다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 18일 특정범죄 가중처벌 등에 관한 법률 위반(보복협박·면담강요 등) 혐의로 기소된 양 총괄​에게 징역 6개월에 집행유예 1년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;양 총괄은 YG 소속 남자 아이돌 그룹 아이콘(iKON)의 전 멤버 비아이(김한빈)의 마약 투약 의혹을 공익제보한 A씨에게 진술 번복을 강요하며 협박한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;YG 소속 연습생이었던 A씨는 2016년 마약 투약 혐의로 경찰 수사를 받다가 비아이의 마약 투약 의혹을 진술했다. 그런데 A씨가 진술을 번복하면서 비아이에 대한 경찰 조사는 종결했다. 이후 A씨는 양 전 대표의 외압으로 진술을 바꿨다고 국민권익위원회에 제보했고, 경찰 수사가 재개됐다. 마약 구매‧투약 혐의로 기소된 비아이는 이후 징역 3년에 집행유예 4년이 확정된 바 있다. &lt;br&gt;&lt;br&gt;양 총괄은 A씨에게 ‘비아이가 (마약 검사) 양성이 아니면 어떻게 할거냐’ ‘네가 가수되면 오빠(양 총괄)가 도움될 수 있지 않겠냐’는 취지로 압박‧회유한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;양 총괄은 당초 보복 협박 혐의로 기소됐는데 1심은 이를 무죄로 판단했다. 1심은 양 총괄의 질타나 회유가 있었던 것은 맞지만 공포심을 줄 정도의 협박을 아니라고 봤다. &lt;br&gt;&lt;br&gt;검찰은 항소하면서 양 총괄이 대형 연예기획사 대표라는 지위를 이용해 A씨에게 진술 번복을 요구했다는 ‘면담 강요’ 혐의를 추가했다. 2심은 보복 협박은 무죄로, 면담 강요는 유죄로 보고 징역 6개월에 집행유예 1년을 선고했다. 2심은 “양 전 대표는 피해자(제보자)를 질책하고 진술을 번복하게 유도했다”면서 “사회적 지위와 영향력을 고려하면 죄책이 가볍지 않다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원도 이날 2심 판단에 문제가 없다고 보고, 양 총괄 측 상고를 기각해 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;양 총괄은 이날 판결 직후 “대법원 판결에 대해 아쉬운 마음이지만 겸허히 받아들인다”며 “앞으로 더욱 신중하고 책임감 있는 자세로 본연의 업무에 매진하겠다”고 YG를 통해 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, 이철규 의원 압수수색… ‘임성근 구명 로비’ 의혹</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/I6G4AZ2O4VDALIQDBGYC7NOXUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/I6G4AZ2O4VDALIQDBGYC7NOXUU/</guid>
@@ -921,15 +934,6 @@
       <description/>
       <pubDate>Fri, 18 Jul 2025 01:24:34 +0000</pubDate>
       <content:encoded>윤석열 전 대통령이 구속의 적법성을 따지는 ‘구속적부심사’가 18일 오전 10시 15분쯤 시작됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56GZNWLV5NPS7LM7SMBNL3DPBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 구속적부심이 예정된 18일 서울 서초구 서울중앙지방법원으로 윤 전 대통령이 탑승 한것으로 추정되는 호송차량이 들어가고 있다. 특검 소환과 내란 재판에 불출석 했던 윤 전 대통령은 이날 열리는 구속적부심사에 직접 출석할 예정이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9-2부(재판장 류창성)는 이날 윤 전 대통령에 대한 구속적부심 심문 기일을 진행한다. 구속 상태인 윤 전 대통령은 이날 오전 9시쯤 호송차를 타고 법원에 도착했고, 심문 시작 시간에 맞춰 법정으로 이동한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령 측에서는 김홍일·배보윤·송진호·최지우·김계리·유정화 변호사 등이 출석했다. 법정에 출석하던 김계리 변호사는 “윤 전 대통령의 상태가 어떤가”라는 취재진 질문에 “당 수치가 엄청 높다고 들었다. 의료 상태 관련 (자료를) 제출하지 않을까 싶다”고 답했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 심문에 직접 출석해 구속 이후 악화된 자신의 건강 상태 등을 설명할 예정이다. 전날 변호인단은 입장문을 통해 “기존 형사재판이나 특검 출석이 사실상 불가능한 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 특검 측에서는 내란 특검팀의 박억수 특검보와 조재철 부장검사 등이 출석했다. 특검팀은 윤 전 대통령 구속의 적법성과 필요성 등을 주장할 계획이다. &lt;br&gt;&lt;br&gt;구속적부심은 법원이 피의자의 구속이 적법하고 계속될 필요가 있는지를 다시 판단하는 절차다. 재판부는 구속 요건 및 구금의 필요성을 종합적으로 판단해 심문 종료 후 24시간 이내에 석방 여부를 결정하게 된다. 이르면 이날 밤에 결과가 나올 전망이다.&lt;br&gt;&lt;br&gt;앞서 내란 특검팀은 윤 전 대통령에게 특수공무집행방해 혐의 등을 적용해 추가 기소하면서 구속영장을 청구했다. 서울중앙지법 남세진 영장전담 부장판사는 지난 10일 새벽 윤 전 대통령에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;서울구치소에 수용된 윤 전 대통령은 구속 이후 특검팀의 출석 요구 및 조사를 거듭 거부했다. 구치소의 구인 절차에도 응하지 않으면서 두 차례의 강제 구인 시도도 불발됐다. 윤 전 대통령은 내란 재판에도 ‘건강상 문제’를 이유로 최근 두 차례 출석하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘비상계엄 때 재난안전 통신망 설치’ 행안부 관계자 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/FXJH7VYP3ZAGDLZLBK66RHA4ZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/FXJH7VYP3ZAGDLZLBK66RHA4ZA/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 01:13:28 +0000</pubDate>
-      <content:encoded>행정안전부가 12·3 비상계엄 당시 국회와 대통령실 인근에 재난안전통신망을 설치했다는 의혹과 관련, 내란 특검이 18일 행안부 관계자를 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 내란 특검은 이날 오전 행안부 주무관 A씨를 소환해 조사 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY5JF42AV6RUH2F3J62377J7BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검 사무실이 마련된 서울 서초구 서울고등검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨가 소속된 부서는 작년 12월 4일 새벽 2시쯤 서울경찰청 요청으로 재난안전통신망 이동기지국 차량 4대를 국회와 대통령실 인근에 배치했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재난안전통신망은 통신 서비스가 일시 중단되는 상황을 대비한 것으로, 군·경찰·소방 등 재난 관련 기관들이 재난에 공동 대응하기 위한 통신망이다. 행안부는 대규모 인파가 몰리거나, 기지국 파손 등으로 특정 지역의 통신이 불안정한 경우 관련 기관의 요청을 받아 이동기지국 차량을 출동시킨다. 이 때문에 경찰이 국회 통신을 차단한 뒤, 군과 소통하려 한 것 아니냐는 의혹이 제기돼 왔다.&lt;br&gt;&lt;br&gt;국회와 대통령실 인근에 배치된 차량들은 국회에서 비상계엄 해제안이 가결되고 8시간이 지난 뒤까지 현장에 계속 남아 있었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 김건희 특검, 통일교 압수 수색...김 여사 선물 행방 찾을까</title>
