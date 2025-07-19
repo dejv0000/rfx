@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>민노총, 도심서 ‘노조법 개정 촉구’ 총파업... “尹 노동정책 폐기하라"</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/TGTKJN63SRHI7BESFSKFXLQODE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/TGTKJN63SRHI7BESFSKFXLQODE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 10:21:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7PO4UVIPBIS5AICCZJVTA3J4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 중구 을지로1가 사거리에서 열린 '광장의 힘으로 새로운 세상 쟁취! 2025 민주노총 총파업·총력투쟁 대행진'에서 참가자들이 구호를 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민노총)은 19일 오후 서울 중구 을지로입구역 인근에서 노조법 2·3조 개정(노란봉투법) 등을 촉구하는 1만5000명(경찰 비공식 추산) 규모의 집회를 열었다. 노동계가 이재명 정부를 향해 본격적으로 ‘청구서 내밀기’에 나섰다는 분석이 나온다.&lt;br&gt;&lt;br&gt;민노총은 구체적으로 노조법 2·3조를 개정해 ‘노란봉투법’을 도입해줄 것과 윤석열 정부 때 도입된 ‘노조 회계 공시제’의 폐지를 요구했다. 이날 양경수 민주노총 위원장은 “모든 노동자에게 노조 할 권리를 제대로 보장하라”며 “노동자·서민의 생존을 지킬 수 있도록 노조법 2·3조 개정은 반드시 쟁취해야 한다”고 했다. 이주안 플랜드건설노조 위원장은 “이재명 정부가 윤석열 정부의 반노동 정책을 폐기하고 노동자와 시민의 생존권이 보장되는 평등한 세상을 위한 사회 대개혁을 실현해야 한다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법은 하청 근로자가 교섭할 수 있는 범위를 원청 대기업까지 늘리고(2조), 노조 파업에 대한 기업의 손해배상 청구를 제한(3조)하는 내용이다. 그동안 노동계에선 노란봉투법으로 노조의 교섭력이 크게 확대될 수 있다고 보고 이를 최우선 과제로 추진해왔다. 반면 산업·경제계에선 노란봉투법이 도입되면 연간 약 10조원의 국내총생산(GDP) 손실이 발생할 것으로 우려하고 있다. ‘노조 회계 공시제’는 노조가 회계 공시를 하면 조합원이 낸 조합비의 15%를 세액공제 혜택을 받을 수 있게 한 제도다. 민노총은 노조 살림살이를 드러내야 하는 공시 제도에 강한 불만을 보이며 폐지를 요구하고 있다.&lt;br&gt;&lt;br&gt;경찰은 집회 장소 인근에 교통경찰 230명을 배치해 차량 우회 등 교통 관리에 나섰다. 집회를 마친 참가자들은 숭례문과 회현사거리를 거쳐 세종호텔 앞까지 행진했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘샤넬백 전달’ 윤영호 전 통일교 본부장, 특검 소환 불응</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/19/GYXBD3KOGREPJEUIGQR7L7DWV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/GYXBD3KOGREPJEUIGQR7L7DWV4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 13:52:56 +0000</pubDate>
+      <content:encoded>윤영호 전 통일교 세계본부장이 20일 예정된 민중기 특검팀 소환 조사에 19일 불응했다. 윤 전 본부장은 윤석열 전 대통령 배우자 김건희 여사에게 통일교 현안을 청탁하기 위해 수천만원대 금품을 건진법사 전성배 씨에게 여러 차례 전달한 혐의를 받는 인물이다.&lt;br&gt;&lt;br&gt;19일 김 여사 관련 의혹을 수사하는 민중기 특검팀은 “20일 오전 10시 윤 전 본부장에 대한 소환 조사가 예정돼 있었으나, 윤 전 본부장 측에서 돌연 일정 연기신청서를 제출했다”며 “특검은 원칙대로 출석불응 처리할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2Z7R2ENFXIHNXI3MPPBA5XRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 본부장은 2022년 4~6월 2000만 원 상당의 샤넬 백 2개, 2022년 6~8월 6000만 원대의 영국 그라프 다이아몬드 목걸이와 천수삼 농축차 등을 건진법사 전 씨에게 전달한 혐의를 받고 있다.구체적인 청탁 내용은 △캄보디아 메콩강 부지 개발 등 공적개발원조 사업(ODA) 지원 △YTN인수 △대통령 취임식 초청 △유엔 제5사무국 한국 유치 △교육부 장관 통일교 행사 참석 등 5가지다.&lt;br&gt;&lt;br&gt;전 씨는 통일교 측의 청탁 내용을 들은 적은 있지만 말도 안 되는 소리라고 생각했고, 윤 전 본부장에게 받은 목걸이와 가방은 잃어버렸다는 입장이다. 또 윤 전 본부장으로부터 기도비 명목 등으로 2차례 걸쳐 1000만 원을 받은 것은 인정했지만 윤석열 정부의 인맥과 연결하는 대가는 아니라고 부인하고 있다. &lt;br&gt;&lt;br&gt;그러나 윤 전 본부장이 앞선 검찰 조사에서 이 같은 청탁 명목으로 건넨 금품 등은 모두 ‘한학자 총재의 뜻에 따랐고 결재를 받은 사안’이라고 진술한 것으로 알려지면서 수사는 통일교 윗선으로 확대됐다.&lt;br&gt;&lt;br&gt;특검팀은 지난 18일 경기 가평군 통일교 세계본부와 서울 용산구 본부교회 등에 검사와 수사관을 파견해 압수수색을 진행했다. 압수수색 대상에는 윤 전 본부장의 거주지와 휴대전화 등도 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여중생에게 “오빠가 술 사줄게, 집 가자” 제안한 50대男 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/UA4ZPDHF3VAI5OD6M2LMBMJKQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/UA4ZPDHF3VAI5OD6M2LMBMJKQ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 12:11:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDIFGTUP6ZFNFO4DUNUEE6CLMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 줄 테니 함께 술을 마시자고 미성년자에게 제안한 혐의로 재판에 넘겨진 50대 남성이 1심에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 미성년자유인미수 혐의로 기소된 A(56)씨에게 무죄를 선고했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2023년 11월 늦은 시각 B(15)양 일행에게 술을 함께 마시자고 제안했다. B양이 미성년자임을 밝히며 거절했으나 A씨는 “30만원씩 총 60만원 주면 되지? 오빠가 술 사줄테니까 집에 같이 가자”며 집으로 데려가려고 했다. B양 등은 이를 거절하고 주변 지구대에 신고했다. &lt;br&gt;&lt;br&gt;김 부장판사는 A씨가 B양 일행에게 돈을 줄 테니 술을 마시자고 말한 사실은 인정된다고 판단했다. 다만 CCTV 영상과 B양 일행의 진술 등을 통해 알 수 있는 사건 전후 A씨의 구체적인 행태, A씨와 B양 일행이 보여준 모습과 태도 등을 고려하면 미성년자 유인 미수죄가 성립되기는 어렵다는 결론을 내렸다. &lt;br&gt;&lt;br&gt;미성년자유인죄가 성립하려면 기망 또는 유혹을 수단으로 미성년자를 꾀어 기존의 생활관계 또는 보호관계로부터 이탈하게 해야 한다. 김 부장판사는 “검사가 제출한 증거만으로 A씨가 미성년자유인죄를 저지르려는 뜻이 있었음을 인정하기에는 부족하다”고 봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>비계 절반인데 한덩이 1만5000원... 울릉도 삼겹살 바가지 논란</title>
       <link>https://www.chosun.com/national/national_general/2025/07/19/FUU4WXEYAFDD5D225KYXG2FA6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/FUU4WXEYAFDD5D225KYXG2FA6E/</guid>
@@ -852,15 +879,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X77PUOY77ZBPZDGZGAIRM6H4QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 휴대전화 게임을 하던 아들이 자신의 캐릭터를 죽였다며 때린 30대가 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 18일 특수협박, 아동복지법 위반, 재물손괴 등 혐의로 기소된 A(37)씨에게 징역 2년을 선고했다고 밝혔다. 또 40시간의 아동학대 치료 프로그램 이수 명령을 내렸다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 30일 강원도 홍천군 자신의 집에서 아들 B(8)군과 휴대전화로 게임을 하던 중 B군이 자신의 캐릭터 위치를 몰래 확인한 후 그 캐릭터를 죽인 것에 격분, B군의 팔 부위를 잡아끌어 내팽개치는 등 신체적으로 학대한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;같은 날 그의 아내 C(34)씨가 112 신고하려고 하자 휴대전화를 빼앗아 망가뜨리고, 흉기로 위협하기도 했다.&lt;br&gt;&lt;br&gt;그는 재판을 받는 과정에서 지난 2020년 8월 사촌 동서가 자신에게 욕설을 한 것으로 오해해 승용차에서 흉기를 꺼내 위협했던 사실도 드러났다. &lt;br&gt;&lt;br&gt;김 부장판사는 “과거 폭력 관련 범죄로 여러 차례 처벌받았고, 누범 기간 중 범행을 저질렀다“며 ”다만, 피해자들이 처벌을 원하지 않는 점, 건강이 좋지 않은 점 등을 고려해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 특검, 국정원 압수수색…김상민 전 검사 채용자료 요청</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/2QNEM6QKGRH7XB6TVRGYZRMLAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/2QNEM6QKGRH7XB6TVRGYZRMLAM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 02:42:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQHFORPQ6ZOHCOVILLUMHC25YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보원의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 18일 국가정보원에 대한 압수 수색에 나섰다. 특검팀은 김 여사의 공천 개입 의혹과 관련, 김상민 전 검사가 국정원 법률특보로 임명된 과정을 들여다 볼 전망이다.&lt;br&gt;&lt;br&gt;법조계에 따르면 이날 특검팀은 국정원에서 김 전 검사와 관련한 문건 등을 확보하고 있는 것으로 알려졌다. 특검은 임의제출 방식으로 국정원으로부터 자료를 받고 있다고 한다.&lt;br&gt;&lt;br&gt;김 여사는 작년 4월 총선을 앞두고 김 전 검사가 김영선 전 의원 지역구인 경남 창원 의창에 공천되도록 영향력을 행사했다는 의혹을 받고 있다. 정치 브로커 명태균씨는 지난 2월 변호인을 통해 “김 여사가 김영선 전 의원에게 ‘김 검사는 조국 수사를 열심히 했다. 그가 창원 의창에 당선되도록 지원해 달라’고 했다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 김 전 의원은 경남 김해갑으로 지역구를 옮겨 공천을 받으려고 했지만 실패했고, 김 전 의원도 공천되지 못했다. 당시 한동훈 국민의힘 비상대책위원장은 두 사람을 모두 컷오프(경선 배제)했다. 이후 김 전 검사는 작년 8월쯤 국정원 법률특보에 임명됐는데, 이 과정에서 김 여사가 개입한 것이 아니냐는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 8일 김 전 검사의 주거지 등에 대한 압수 수색을 실시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, ‘尹 연수원 동기’ 고석 변호사 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/4BZJDY2CCFG6PJ3VYCQTJC22CQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/4BZJDY2CCFG6PJ3VYCQTJC22CQ/</guid>
@@ -909,15 +927,6 @@
       <content:encoded>대장동 개발 사업과 관련해 성남도시개발공사의 설립을 도와달라고 당시 성남시의회 의장이었던 최윤길씨에게 청탁하고 뇌물을 준 혐의로 기소된 화천대유 대주주 김만배씨가 18일 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2CCKQ4QZVOH7LJZITERTCVCVM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;뇌물공여 혐의로 기소된 김만배씨가 작년 2월 14일 오후 경기 수원시 영통구 수원지방법원에서 열린 선고공판을 마친 뒤 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 18일 뇌물공여 혐의로 기소된 김씨에게 무죄를 선고한 원심을 확정했다. 김씨 청탁을 들어주고 뇌물을 받은 혐의(부정처사 후 수뢰)로 함께 재판에 넘겨진 최윤길 전 성남시의장도 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;김씨는 2012년 당시 최 시의장에게 ‘성남도시개발공사 설립 조례안을 통과시켜달라’는 청탁을 하고, 그 대가로 최 전 시의장을 2012년 화천대유 부회장으로 채용하고 급여 등 명목으로 8000만원을 준 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;최 전 의장은 2013년 2월 김씨 청탁을 받고 부당한 방식으로 조례안 통과를 주도한 혐의를 받았다. 당시 전자투표에서 의결정족수 미달로 안건이 부결됐는데 최 전 의장은 “투표 기계가 고장났다”며 거수 방식으로 재투표를 진행해 ‘일사부재의’ 원칙에 반해 조례안을 통과시켰다는 것이다. &lt;br&gt;&lt;br&gt;김씨는 이후 2021년 최 전 의장을 자신이 대주주로 있는 화천대유 부회장으로 채용하고 ‘대장동 도시개발사업 준공 시 성과급 40억원과 8400만원 연봉을 주겠다’고 약속한 뒤 실제 그해 11월까지 급여 명목으로 8000만원을 준 것으로 파악됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 두 사람 혐의를 유죄로 인정하고 “당시 조례가 다수당인 새누리당의 반대에도 불구하고 가결될 수 있었던 것은 최 전 의장의 의사 진행이 영향을 미쳤다”고 판단했다. 김씨는 징역 2년 6개월을, 최 전 의장은 징역 4년 6개월을 각각 선고 받았다.&lt;br&gt;&lt;br&gt;그러나 2심 재판부는 최 전 의장의 혐의를 무죄로 뒤집고 “실제 참석 인원과 전자투표수에 차이가 있어 투표기기 결함이라고 한 것이 허위 명분을 급조한 것이라고 보기 어렵고, (최 전 의장이)의원들 의견을 들어 거수 투표를 한 것은 합리적 의사 진행이라고 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이에 따라 김씨에 대해서도 “최 전 의장의 부정 행위를 전제로 한 뇌물공여죄가 성립되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 이날 “원심 판단에 자유심증주의의 한계를 벗어나거나 부정처사 후 수뢰죄·뇌물공여죄 성립에 관한 법리 오해 등의 잘못이 없다”며 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 내란 특검, ‘평양 무인기 침투’ 속초 대대장 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/W4DQXRLJGFHMVP7OSSKJU7JY3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/W4DQXRLJGFHMVP7OSSKJU7JY3E/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 02:13:24 +0000</pubDate>
-      <content:encoded>‘평양 무인기 침투 작전’을 수사 중인 내란 특검이 드론작전사령부 산하 속초 대대의 대대장을 소환 조사했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 내란 특검은 지난 17일 드론사 산하 105대대 대대장인 A 중령을 비공개로 소환 조사했다. 105대대는 강원 속초에 위치한 대대로, 지난해 10~11월 평양 무인기 침투 작전에 관여했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSMKNLPEBUQPXL2YD3KKK5Y63E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 노동신문이 지난해 10월 공개한 무인기 사진. /뉴스1·노동신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 앞서 백령도에 위치한 101대대 대대장 B 중령도 최근 조사했다. 또 18일에는 무인기 작전에 직접 관여한 부사관들도 조사 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 14~15일 이 의혹과 관련해 국방부, 드론사 등 24곳을 대대적으로 압수 수색한 데 이어 지난 17일에는 김용대 드론작전사령관, 이승오 합동참모본부 조사본부장을 소환 조사했다.&lt;br&gt;&lt;br&gt;내란 특검은 윤석열 전 대통령, 김용현 전 국방부 장관 등이 비상계엄 선포의 명분을 쌓기 위해 평양에 무인기를 침투시켜 군사 도발을 유도했을 가능성을 수사 중이다. 특검은 김 전 장관이 합참 등 지휘 체계를 무시하고 드론사에 직접 침투를 지시했다고 의심하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;반면 김 사령관은 전날 조사 종료 뒤 “비상계엄과 (무인기) 작전은 연결고리가 전혀 없다고 생각한다”며 “북한의 오물 풍선 대응 차원의 정당한 작전이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, 이철규 의원 압수수색… ‘임성근 구명 로비’ 의혹</title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/I6G4AZ2O4VDALIQDBGYC7NOXUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/I6G4AZ2O4VDALIQDBGYC7NOXUU/</guid>
@@ -925,15 +934,6 @@
       <description/>
       <pubDate>Fri, 18 Jul 2025 00:45:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G22BGNVFCOECJBYKYXBTOLK444.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철규 국민의힘 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹을 수사하는 해병 특검이 18일 이철규 국민의힘 의원에 대한 압수 수색에 착수했다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이 의원의 자택과 국회 사무실 등에 검사와 수사관을 보내 압수 수색을 진행하고 있다. 특검은 2023년 7월 고 채수근 상병 사망 사고 이후 이 의원이 임 전 사단장과 통화한 내역을 확보, 이 의원에 대해 참고인으로 압수 수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 당시 윤석열 전 대통령 부부와 가까웠던 이 의원이 임 전 사단장의 구명 로비 통로가 됐을 가능성을 염두에 두고 수사 중이다. 당초 해병대 수사단 조사에 따라 업무상 과실치사 혐의가 적용된 임 전 사단장이 제외되는 과정에서 이 의원 등이 관여했을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;그간 임 전 사단장 구명 로비 의혹은 이종호 전 블랙펄인베스트 대표가 임 전 사단장을 구하기 위해 김건희 여사에게 청탁했다는 데 방점이 찍혀 있었는데, 특검은 이 의원 등이 새로운 구명 로비 창구가 됐을 가능성을 의심하고 있다.&lt;br&gt;&lt;br&gt;이 의원은 이날 국회 산업통상자원중소벤처기업위원회 전체회의에서 “해병 특검에서 참고인이라고 집에까지 와서 압수수색 영장을 가져와서 집행한다”며 “관계자와 통화 기록 한번 있다고 저렇게 무자비하게 (수사)하고 있다”고 주장했다.&lt;br&gt;&lt;br&gt;한편, 특검은 이날 구명 로비 의혹의 당사자인 임 전 사단장 자택 등에 대한 압수 수색도 진행했다. 특검은 지난 10일 이 전 대표 자택을 압수 수색해 관련 증거 확보에 나섰고, 이 전 대표 단골 식당 등을 방문해 임 전 사단장과의 관계를 조사하고 있다.&lt;br&gt;&lt;br&gt;특검은 이밖에 구명 로비 의혹에 연루된 관계자들에 대한 참고인 압수 수색을 진행하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “서울구치소서 ‘尹 거동 문제 없다' 답변 받아”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/JNLYTEMXHVCO3FGE3KUURYE2PU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/JNLYTEMXHVCO3FGE3KUURYE2PU/</guid>
-      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 01:31:17 +0000</pubDate>
-      <content:encoded>내란 특검은 서울구치소로부터 윤석열 전 대통령의 거동에 문제가 없다는 답변을 받았다며 이를 현재 진행 중인 구속적부심사에 제출할 예정이라고 18일 밝혔다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 “서울구치소로부터 거동상 문제는 없다는 취지의 답변을 받았다”면서 “관련 내용을 자료로 제출할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XK5EG7UTBFWK45UG52I5BQYKG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검의 박지영 특검보가 지난 15일 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 박 특검보는 “거동상의 문제라는 것은 개인적인 상황이고, 구치소는 수용 관리 측면에서 나름의 의견을 제시한 것”이라며 “(윤 전 대통령) 본인의 주관적 판단이 있을 테니, 변호인단 입장에서는 충분히 주장할 수 있는 문제라고 생각한다”고 했다. 앞서 윤 전 대통령은 건강상 문제 등을 들며 구속적부심을 청구했다. &lt;br&gt;&lt;br&gt;박 특검보는 “현재 박억수 특검보, 조재철 부장검사 외 검사 3명이 구속적부심에 참여하고 있다”면서 “전날 100여쪽의 의견서를 제출했다. 구속이 계속 필요하다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 구속적부심이 기각될 경우 수사 계획을 묻는 질문에 “윤 전 대통령이 재판에도 불출석하고, 특검 조사를 거부하겠다고 변호인을 통해 밝히고 있는 것으로 알고 있다”며 “이런 상황을 전반적으로 검토해서 다음 단계를 준비하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 구속적부심 심문은 이날 오전 10시 15분부터 서울중앙지법 형사항소9-2부(재판장 류창성) 심리로 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 김건희 특검, 통일교 압수 수색...김 여사 선물 행방 찾을까</title>
