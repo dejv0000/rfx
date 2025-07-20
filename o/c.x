@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 세계 최고 연구단 ‘막스플랑크’ 연세대서 AI 나노 로봇 만든다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/20/2RBP4OG5XFCX3FDW2PKTSQTYQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/2RBP4OG5XFCX3FDW2PKTSQTYQA/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Jul 2025 09:34:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O7CJSYFANBX5MX5NEJHQQIHD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;독일 뮌헨에 위치한 막스 플랑크 협회 본부 내부 전경./막스플랑크 협회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘노벨상 사관학교’로 불리는 독일 막스플랑크협회의 해외 공동 연구 센터가 연세대 캠퍼스에서 문을 연다. 세계 최고의 연구 기관으로 꼽히는 막스플랑크협회는 세계 최상위권 연구 기관들과 협력해 10국에서 18개의 공동 연구 센터를 운영 중이다. 아시아에선 일본의 이화학연구소 센터 다음으로 한국에 연구 거점이 생기게 된다. 양국 연구진은 뇌 질환 진단·치료를 할 수 있는 AI(인공지능) 기반 나노 로봇을 개발할 예정이다.&lt;br&gt;&lt;br&gt;20일 막스플랑크협회와 기초과학연구원(IBS) 나노의학연구단 등에 따르면, 양국 연구 기관은 ‘막스플랑크-연세 IBS 나노의학 심부(深部) 제어 센터’ 개소식을 오는 28일 연세대에서 연다. IBS 나노의학연구단이 작년 11월 막스플랑크 측에 한국 센터 설립 신청서를 제출했고, 막스플랑크협회가 최종 결정을 내려 지난달 양측이 계약서를 작성했다. &lt;br&gt;&lt;br&gt;114년 전통의 막스플랑크협회는 아인슈타인, 막스 플랑크를 비롯해 39명의 노벨상 수상자를 배출했다. 페렌츠 크러우스 막스플랑크 양자광학연구소장이 지난 2023년 노벨 물리학상을 받았다. 이 기관은 미국의 하버드·컬럼비아대와 영국의 옥스퍼드·케임브리지 등 최고 수준의 대학들과 파트너십을 맺어왔다.&lt;br&gt;&lt;br&gt;센터는 IBS와 막스플랑크협회가 연간 50만유로(약 8억원)를 공동 출연해 5년간 운영된다. 평가 결과에 따라 연장 여부가 결정될 예정이다. 막스플랑크 의학연구소와 행동신경생물학연구소, IBS 나노의학연구단과 세브란스병원이 공동으로 운영한다. 독일의 생물물리학 석학인 요아킴 스파츠 막스플랑크 의학연구소장과 천진우 IBS 연구단장이 공동 센터장을 맡는다.&lt;br&gt;&lt;br&gt;작년 IBS 나노의학연구단은 유전자 신호를 감지해 자율 주행하는 적혈구(10㎛)의 50분의 1 크기의 나노 로봇을 세계 최초로 개발했는데, 막스플랑크협회가 특히 관심을 보여온 것으로 전해졌다. 양국 연구소는 이 나노 로봇에 AI 학습 기능을 접목시켜 외과 수술을 하지 않아도 뇌·신경계 등을 치료할 수 있는 기술 개발을 추진한다. IBS 연구단 관계자는 “독일 최고 뇌 과학자들이 대거 한국을 찾아 연구할 예정”이라며 “양국 석학들 간 협력으로 뇌 질환과 관련된 첨단 치료 기술이 대폭 발전할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;막스플랑크·IBS 연구원 200여 명은 양국 센터를 오가면서 공동 연구를 진행하게 된다. 이 중 막스플랑크 연구자 20여 명은 연세대에 상주한다. 이들은 최근 우리 측에 특수 현미경, 최첨단 초음파 시설을 구축해 달라고 요청한 것으로 전해졌다. 이들의 연구 공간은 연세대 외에도 신촌세브란스 등에도 마련될 예정이다. IBS 관계자는 “막스플랑크 연구원들에게 교원 직위를 부여해 달라고 연세대 본부에 요청해 둔 상황”이라며 “강의·행정 업무를 면제해 준다면 더 많은 해외 연구원들이 한국에서 연구를 하게 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 측 “특검, 망신주기 목적 수사… 위법·부당한 기소”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/20/OHSXOJ7Q7RBSFIJBZVMFUJNM4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/20/OHSXOJ7Q7RBSFIJBZVMFUJNM4E/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Jul 2025 09:23:53 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 추가 기소된 가운데, 윤 전 대통령 측은 20일 “처음부터 결론을 정해놓고 짜맞추기식으로 진행된 수사의 귀결일 뿐”이라며 ‘위법하고 부당한 기소’라고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIUTVP5MJYII2TWM4AVFZMLVVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령. 2025.7.9/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 입장문을 내고 “(특검은) 전직 대통령의 소환과 신병 확보에만 몰두했다”며 “사전에 서면 조사와 제3의 장소에서 방문 조사, 조사 일정 협의 등 여러 제안을 했지만 특검의 대답은 오로지 특검이 정한 일시·장소에 나와 조사를 받으라는 고압적인 태도였다”고 했다.&lt;br&gt;&lt;br&gt;특검이 윤 전 대통령에 대해 구치소에 세 차례 강제 인치를 지휘했으나 불발되자, 교정 공무원에게 책임을 묻겠다고 한 데 대해 변호인단은 “교정 기관을 하급 기관처럼 다루고 법적 책임까지 운운했다”고 비판했다. 윤 전 대통령은 구속 후 특검의 소환 요구에 건강상 이유로 불출석했다.&lt;br&gt;&lt;br&gt;변호인단은 “특검은 구속 기간 만기가 다기오자 (윤 전 대통령을) 전격적으로 기소하고, 사실상 필요한 질문은 상당 부분 이뤄졌다고 설명했다”면서 “애초 조사를 위한 소환이 목적이 아니라, 수의를 입은 전직 대통령을 특검 조사실로 불러 ‘망신주기’ 하려는 것이 목적이었던 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “지금의 특검은 수사의 외피를 두른 정치 행위를 일삼으며, 아무런 견제도 받지 않은 채 무제한의 권력을 휘두르고 있다”고 했다. 그러면서 “(법정에서) 잘못된 수사와 위법·부당한 기소의 진실을 끝까지 밝혀 법 앞의 정의가 무엇인지 분명히 증명해 보일 것”이라고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 19일 윤 전 대통령을 직권남용 등 혐의로 구속 기소했다. 지난달 18일 수사를 개시한 지 31일 만이다. 외환 혐의는 추가 수사를 위해 이번 기소 대상에서는 제외됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오영준 헌법재판관 후보자 “법원 재판 결과도 헌법소원 대상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/16/KKJEDLKNYVAJZK5ATFYEOG2VIQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 16 Jul 2025 09:31:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26T6HXX4XSCLQFDVR2JMLPUXPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 헌법재판관 후보자에 지명한 오영준 서울고등법원 부장판사. /대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오영준 헌법재판관 후보자가 여당에서 추진하는 ‘재판에 대한 헌법소원(재판소원)’ 제도 도입과 관련해 “재판 결과도 헌법소원의 대상이 될 수 있다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 후보자는 16일 국회에 제출한 인사청문 서면질의 답변서에서 “국민의 기본권 보장에 공백이 발생하지 않게 하기 위해서는 입법·행정·사법 작용 모두 헌법소원 심판의 대상에 포함되는 것이 바람직하다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이어서 ‘대법원 판결을 헌법재판소에서 뒤집을 수 있다고 보는지, 그렇다면 헌재 결정을 대법원에서 받아들여야 한다고 보는지’ 묻는 질의에 대해 오 후보자는 “헌법소원의 인용 결정은 모든 국가기관과 지방자치단체를 기속하므로 헌재가 재판 결과를 뒤집는 인용 결정을 내릴 경우, 대법원은 이를 존중해 받아들여야 할 것이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;오 후보자는 “다만 재판에 대한 헌법소원의 도입 여부나 그 범위는 국민의 기본권의 충실한 보장과 국가기능의 효율적 배분, 헌법재판의 역사 등을 종합적으로 고려해 입법자가 결정할 문제”라며 “그 구체적 방법 역시 국민의 대표인 입법자가 합리적으로 판단할 사항”이라고 덧붙였다. &lt;br&gt;&lt;br&gt;오 후보자는 진보 성향 판사 모임으로 알려진 ‘우리법연구회’ 활동과 관련해선 “2001년 연구 목적으로 학술 모임인 우리법연구회에 가입해 2009년까지 활동한 것으로 기억한다”며 “우리법연구회는 현재 해체된 것으로 알고 있다”고 했다. 이어 “국제인권법연구회에는 가입해 활동한 적이 없다”고 했다.&lt;br&gt;&lt;br&gt;김명수 사법부가 국제인권법연구회·우리법연구회 등 특정 연구회 출신들을 법원의 주요 요직에 앉혔다는 논란에 대해서는 “법원 내 일부 연구모임이 정치적 평향성을 갖고 있고 그 회원들이 이른바 요직을 차지한다는 의혹이 있다는 것을 알고 있으나, 법원 내에 정치적 편향성을 갖고 활동하는 연구모임은 없는 것으로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;퇴임 후 거취 계획에 대해선 “영리적인 변호사 활동을 하지 않을 생각”이라며 “학계에 몸 담아 저술활동과 후학들을 가르치는 일을 하면서 법관과 헌법재판관으로 근무하며 쌓은 경험과 지식을 전수하는 데 여력을 사용하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설악 케이블카 운행 중 멈춰 승객 87명 고립… 업체 측 “수리 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/07/20/DD7DQUD5KJE7HNZWPFDPAF6XGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/20/DD7DQUD5KJE7HNZWPFDPAF6XGE/</guid>
+      <dc:creator>속초=정성원 기자</dc:creator>
+      <description>20일 오후 3시 56분쯤 강원 속초시 설악 케이블카가 운행 중 멈추는 사고가 발생했다. 설악 케이블카는 설악산국립공원 소공원 내 위치하고 있으며 해발 700m 정상인 권금성 구간은 왕복 운행하는 케이블카다.</description>
+      <pubDate>Sun, 20 Jul 2025 09:08:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2REVSPFA5EKVMXZPR6DJXURVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설악산 소공원~권금성 노선의 설악 케이블카. /속초시
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 3시 56분쯤 강원 속초시 설악산국립공원 내 설악 케이블카가 운행 중 멈추는 사고가 발생했다. 설악 케이블카는 설악산국립공원 소공원 내 위치하고 있으며 해발 700m 정상인 권금성 구간을 왕복 운행하고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 유압 계통에 이상이 발생해 케이블카가 멈춘 것으로 추정하고 있다. 현재 상행선 케이블카에 42명, 하행선 케이블카에 45명 등 총 87명의 탑승객이 케이블카 속에 갇힌 상태다. &lt;br&gt;&lt;br&gt;업체 측은 관계자를 불러 현재 시설을 정비 중이며, 수리까진 2시간가량 걸릴 것으로 내다봤다.&lt;br&gt;&lt;br&gt;소방 관계자는 “현재까지 환자는 발생하지 않았다”면서 “물 등도 탑승객에게 전달된 상태로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용대 드론사령관, 21일 구속영장 실질 심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/20/I2DPK7P3ONC43M3K26DN4CFIF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/20/I2DPK7P3ONC43M3K26DN4CFIF4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Jul 2025 08:30:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMRPWDQQA5GFXE7ZXLXMLOS7UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오전 서울 서초구 서울고등검찰청에 마련된 12·3 비상계엄 사태 관련 내란·외환 특검팀 사무실에서 '평양 무인기 침투' 관여 의혹을 받고 있는 김용대 드론사령관이 피의자 신분으로 출석하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평양 무인기 침투’ 의혹을 받는 김용대 드론작전사령관의 구속 여부를 결정하는 영장 실질 심사가 오는 21일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;서울중앙지법은 남세진 영장전담 부장판사 심리로 21일 오후 3시 김 사령관의 구속영장 실질 심사를 진행한다고 20일 밝혔다. 앞서 윤석열 전 대통령 등의 내란·외환 사건을 수사하는 조은석 특별검사팀은 이날 오후 2시쯤 법원에 김 사령관에 대한 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령과 김용현 전 국방장관 등이 비상계엄 선포의 명분을 만들기 위해 작년 10월 평양에 무인기(드론)를 날려 군사 도발을 유도했다고 의심하고 있다. 특히 윤 전 대통령이 합동참모본부 등의 정상적인 지휘 체계를 거치지 않고 드론사에 직접 무인기 침투를 지시했을 가능성을 수사하고 있다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 17일 김 사령관을 불러 일반 이적·허위 공문서 작성·직권남용 등 혐의에 대해 13시간 30분가량 피의자 조사를 진행한 뒤, 18일 밤 김 사령관을 긴급 체포했다. 김 사령관은 1차 조사가 끝나고 “계엄과 (무인기)작전은 연결고리가 전혀 없다고 생각한다”며 “북한의 오물 풍선 대응 차원의 정당한 작전이었다”고 한 바 있다. 내란 특검은 이날 진행하기로 했던 김 사령관에 대한 2차 조사를 미루고 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국가기념일에 삼색기 한복 입은 주한 이탈리아 대사…“패션의 나라” 반응 나온 이유 </title>
       <link>https://www.chosun.com/national/national_general/2025/07/20/LWX6DVDFQZETZPKZOSA2BLKC74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/LWX6DVDFQZETZPKZOSA2BLKC74/</guid>
@@ -872,24 +918,6 @@
       </media:content>
     </item>
     <item>
-      <title>“얼른 먹어” 손님에 짜증…여수시, 유명 식당 논란에 친절 강화 특별점검</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/18/77EGYPR575AKTLIAHV4O7NJRQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/77EGYPR575AKTLIAHV4O7NJRQA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 14:11:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGQCNEXLJ5EHXHBNE644XVA7XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 친절 캠페인을 펼치고 있는 여수시 관계자들. /여수시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 한 유튜버가 여수의 한 유명 식당에서 불친절 응대를 당한 사실이 알려져 논란이 불거진 것과 관련 여수시가 18일 중앙동 이순신광장에서 ‘음식점 친절 서비스 캠페인’을 실시했다고 밝혔다. &lt;br&gt;&lt;br&gt;캠페인에는 여수시위생단체협의회, 한국부인회, 5개 동(광림동·동문동·중앙동·충무동·한려동) 자생단체 회원, 시 보건소 직원 등 150여 명이 참여했다.&lt;br&gt;&lt;br&gt;이번 캠페인은 음식·친절·물가 등 3개 분야를 중심으로 ▲음식점 3정 실천 운동(정겨운 미소, 정갈한 음식, 정직한 가격) ▲부당 요금·불친절 근절 캠페인 ▲지역 물가 안정 홍보 및 안내물 배부 등으로 진행됐다.&lt;br&gt;&lt;br&gt;시는 주요 관광지 음식점을 중심으로 친절 캠페인을 지속 전개하고, 권역별·음식거리별 현장 위생 교육, 반복 민원 업소 특별 점검, 소비자식품위생감시원 및 시민평가단을 활용한 불친절 업소 모니터링 등을 확대해 나갈 계획이다.&lt;br&gt;&lt;br&gt;시 관계자는 “관광객이 많이 찾는 여수에서 발생한 이번 사례를 엄중히 받아들이고 있다”며 “여름휴가철을 앞두고 친절 강화를 위한 특별 점검을 실시하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;여수시는 지난 15일에는 불친절 응대 논란이 제기된 해당 식당을 직접 방문해 실태 점검에 나섰다. 시는 해당 업소에 대한 특별 위생 점검을 실시해 위반 사항 적발 시 과태료 처분 등 강력 행정 조치를 취하겠다는 방침이다. &lt;br&gt;&lt;br&gt;앞서 한 여성 유튜버는 지난 3일 해당 식당에 방문했다가 2인분을 시켰음에도 빨리 먹으라는 재촉을 받았다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면 식당 측은 식당에 들어온 지 20분밖에 지나지 않았음에도 유튜버에게 “얼른 먹어야 한다” “고작 2만원 가지고” 등의 발언을 해 공분을 샀다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임성근 “이철규·김장환·이영훈에 구명 로비 안 해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/18/BVSCRV6XLVFRBI46XNCFPWSJWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/BVSCRV6XLVFRBI46XNCFPWSJWI/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 13:23:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFP5MVO6ZRFOBBKYSFGXU36VDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 2일 오후 서울 서초구 해병 특검 사무실 앞에서 발언하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 ‘개신교 구명 로비’ 통로로 지목된 이철규 국민의힘 의원, 김장환 극동방송 이사장, 이영훈 여의도순복음교회 담임목사 등에 대해 “구명 로비를 부탁한 사실이 전혀 없다”며 의혹을 모두 부인했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 18일 본인이 운영하는 카페에 입장문을 올려 “구명 로비 의혹으로 압수 수색이란 봉변을 겪으신 그분들께 죄송한 마음”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 이철규 의원과 이영훈 목사, 김장환 이사장, 군종 장교 백모 목사 등이 임 전 사단장의 구명 로비에 가담한 정황을 포착하고 이들에 대한 압수 수색을 진행했다. 2023년 7월 고 채수근 상병 사망 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에 이들이 관여했을 수 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQVJTOZYD5F6DP6ZQBSR4LIJLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김장환 극동방송 이사장(왼쪽)과 이영훈 여의도순복음교회 담임목사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 임 전 사단장은 “구명 로비를 부탁한 사실이 전혀 없고 일부는 일면식도 없는 사이”라며 의혹을 모두 부인했다. 임 전 사단장은 이 의원에 대해 “이 의원과는 일면식이 없으며 전화 통화를 한 바도 없다. 전화번호도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이른바 ‘VIP 격노설’이 불거진 2023년 7월 31일 자신과 통화를 한 것으로 알려진 백 목사에 대해서는 “백 목사님은 해병대 1사단 교회의 담임목사셨고, 저와 아내가 몇 차례 통화를 한 적 있다”면서도 “신앙과 교회에 대한 통화였을 뿐 구명을 부탁한 사실은 전혀 없다”고 말했다. 이어 “백 목사님이 다른 분께 저를 위해 무슨 말씀을 하셨는지 알 수 없고, 백 목사님에게 (저의) 구명 활동을 했다는 말도 들은 사실이 없다”고 했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 개신교계 원로인 이 목사와 김 이사장을 통한 구명 로비 의혹도 모두 부인했다. 임 전 사단장은 “이 목사와는 2022년 말 기억나지 않는 용건으로 한 번 통화한 일 외에는 인연이 전혀 없다”며 “왜 갑자기 이 목사가 등장한 건지 어리둥절하다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 목사에 대해서는 “채 상병 사고 이후 목사님께서 먼저 전화를 주셔서 저와 부대를 걱정해 주었다”며 “저는 부대와 부대원들을 위해 기도해주십사 부탁했고, 전화로 기도를 해 주신 적이 있다. 개신교의 큰 어르신인 김 목사에게 구명 로비를 부탁하는 것은 상상조차 하지 못할 일”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘찐윤 실세들’ 권성동·이철규, 특검 첫 번째 표적됐다 </title>
       <link>https://www.chosun.com/national/court_law/2025/07/18/6DXYU2PGXREIXLJCHNS2RATF7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/18/6DXYU2PGXREIXLJCHNS2RATF7Q/</guid>
@@ -897,15 +925,6 @@
       <description/>
       <pubDate>Fri, 18 Jul 2025 12:49:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VIHLHJGG5FKFMBTW2UCUH764Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 특검 수사관들이 18일 서울 여의도 권성동 국민의힘 의원실에 압수 수색을 하기 위해 진입하고 있다. 특검은 이날 권 의원의 서울 자택과 지역구인 강릉 사무실 등에 대한 압수 수색을 실시했다./남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검과 해병대원 특검이 18일 윤석열 정부의 핵심 실세였던 국민의힘 권성동·이철규 의원에 대해 각각 압수 수색에 나서면서 특검 수사가 전 정권 핵심부를 겨냥하기 시작했다.&lt;br&gt;&lt;br&gt;김건희 특검은 이날 권성동 의원이 2021~2024년 통일교 관계자에게 불법 정치자금을 받은 정황을 잡고, 서울 여의도 국회의원 회관 사무실과 권 의원 지역구인 강원 강릉 지역 사무실을 압수 수색했다. 권 의원은 통일교 2인자 윤모 전 세계선교본부장이 주최한 행사에서 축사를 하는 등 가까운 사이로 알려졌다. 윤 전 본부장은 ‘건진법사’ 전성배씨를 통해 김건희 여사에게 다이아몬드 목걸이와 샤넬백 등을 전달하려 한 인물이다.&lt;br&gt;&lt;br&gt;특검은 전성배씨와 윤 전 본부장이 2023년 1월 국민의힘 당대표 선거를 앞두고 통일교 교인들을 대거 입당시켜 권 의원을 당대표로 만들려 했다는 의혹도 조사 중이다. 윤 전 본부장은 전씨에게 2022년 11월쯤 “윤심은 정확히 무엇입니까, 전당대회에 어느 정도 필요한가요”라는 문자메시지를 보냈고, 전씨는 “변함없이 권(성동)”이라고 답한 것으로 알려졌다. 전씨는 2022년 대선 때 권 의원 밑에서 윤석열 후보 캠프 네트워크본부를 이끌었다. 다만 권 의원은 당시 당대표 선거에 출마하지는 않았다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 임성근 전 해병대 1사단장 ‘구명 로비’ 의혹과 관련해 이철규 의원 자택과 국회 및 지역 사무실 등을 압수 수색했다. 해병 특검은 2023년 7월 고 채수근 상병 사망 사고 후 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에서 교회 집사인 이 의원 등 개신교 인사들을 통해 구명 청탁을 한 의혹을 수사 중이다. 특검 관계자는 “임 전 사단장 구명 로비 의혹과 관련해 이 의원이 당시 다수 개신교 인사들과 연락한 정황이 포착됐다”고 말했다. 이 의원은 이른바 ‘VIP 격노설’이 불거졌던 2023년 7월 31일 개신교계 원로인 김장환 극동방송 이사장, 윤석열 전 대통령과 통화한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이에 대해 임 전 사단장은 “이 의원은 일면식도, 통화를 한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총책 별칭 ‘마동석’... 캄보디아에 근거지 두고 피싱 사기</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/18/6X5RQCYKFJEXHDXZPBGQWET27Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/6X5RQCYKFJEXHDXZPBGQWET27Y/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 12:56:25 +0000</pubDate>
-      <content:encoded>동남아 주요 관광지인 캄보디아에 근거지를 두고 검찰·금융감독원 등을 사칭하며 우리 국민 돈을 뜯어내 온 보이스피싱 조직원들이 검찰에 무더기로 구속됐다. 이번에 구속된 조직원 전원은 한국에 거주하던 20~30대 MZ세대다. 이들은 총책인 중국계 외국인의 지시에 따라 피해자들 휴대폰을 해킹하거나 피해 금액을 송금·이체하는 역할을 해온 것으로 조사됐다. 검찰은 해외 정부와의 공조를 통해 캄보디아에 있는 것으로 추정되는 조직 지도부도 추적해 송환하겠다는 방침이다.&lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 범죄 정부합동수사단(단장 홍완희)은 보이스피싱 조직에 가담한 한국인 조직원 18명을 구속 기소했다고 18일 밝혔다. 현재 조사로는 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 뜯어낸 혐의(사기 및 범죄단체 가입·활동 등)를 받고 있다. 실제 피해액은 더 많을 것으로 보고 검찰은 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 7개 범죄 수법에 따라 전문팀을 나눈 뒤 별도 이름을 붙여 기업형 구조로 운영한 것으로 드러났다. 구속된 18명 중 13명이 속한 ‘로맨스팀’은 성매매 업소 실장을 사칭해 피해자를 유인한 뒤, 허위 사이트 가입을 유도했다. 이후 성매매 알선을 미끼로 “신원 확인에 필요한 인증 비용을 송금해달라”며 돈을 뜯어냈다. 처음엔 인증 비용보다 큰 금액을 환불해줘 피해자들을 속인 뒤, 2~3번에 걸쳐 추가 인증을 요구하며 거액을 가로챘다.&lt;br&gt;&lt;br&gt;이들은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 조직 자금을 관리·세탁하는 ‘이체팀’ 등을 운영했다. 이번에 구속된 한국 조직원들은 캄보디아에서 활동하다가 비자 연장 등 문제로 한국에 잠시 돌아왔다가 검거됐다.&lt;br&gt;&lt;br&gt;검찰은 콜센터와 지도부급 조직원들은 대부분 캄보디아 수도 프놈펜에 본거지를 두고 있는 것으로 파악하고 있다. 이들은 발각 위험이 있을 때마다 근거지를 바꾸는 방식으로 수사망을 피해왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘홀로그램 경찰관’ 세워놨더니…범죄 22% 줄었다</title>
@@ -940,24 +959,6 @@
         <media:description type="plain">[서울=뉴시스] 고승민 기자 = 정은경 보건복지부 장관 후보자가 18일 서울 여의도 국회 보건복지위원회에서 열린 인사청문회에서 모두발언을 하고 있다. 2025.07.18. kkssmm99@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu">고승민</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘16세’ 최연소 나이로 1억 기부한 학생, 누구?</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/18/JNFCGOELMZADDBX6LE65A3NY74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/18/JNFCGOELMZADDBX6LE65A3NY74/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 05:15:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOGEY3J74VEAXJNFXIRKS5URFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 사랑의열매 신혜영 사무처장과 백은별(오른쪽) 기부자가 아너 소사이어티 인증패를 들고 기념사진을 촬영하고 있다./사랑의열매&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청소년 베스트셀러 작가 백은별(16)양이 1억원 이상 고액 기부자 모임인 ‘아너 소사이어티’(Honor Society)에 가입했다. 서울 사랑의열매 최연소 회원이 된 것이다.&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회는 18일 청소년 베스트셀러 작가 백은별(16)양이 전날 1억원 기부를 약정했다고 밝혔다. &lt;br&gt;&lt;br&gt;가입식은 전날 서울 중구 사랑의열매 회관 ‘명예의 전당’에서 열렸다. 백양이 기부한 1억원은 사랑의열매를 통해 소외된 이웃 등 취약 계층을 돕는 데 사용될 예정이다.&lt;br&gt;&lt;br&gt;백양은 중학교 2학년이던 2022년, 장편소설 ‘시한부’를 출간하며 작가 활동을 시작했다. 우울과 방황의 경계에서 스스로 죽음을 고민하는 청소년을 섬세하게 그려낸 이 작품은 출간 직후 청소년 분야 베스트셀러 1위 자리를 20주 연속으로 지켰다. &lt;br&gt;&lt;br&gt;이후 ‘성장통’, ‘기억하는 한 가장 오래’, ‘윤슬의 바다’ 등 또래 청소년들의 혼란과 성장을 담은 신작을 선보이며 독자층을 넓혀왔다.&lt;br&gt;&lt;br&gt;백양은 “독자들에게 받은 사랑을 사회에 돌려주고 싶었다”며 “비슷한 또래에게 작가가 될 수 있다는 새로운 꿈을 심어주고, 힘든 사람들이 조금이나마 공감하고 위로받을 수 있는 글을 쓰는 일이 세상을 이롭게 할 수 있다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;‘아너 소사이어티’는 사랑의열매가 운영하는 개인 고액 기부자 모임이다. 1억원 이상을 기부했거나 5년 이내 기부를 약정한 개인이 가입할 수 있다. 나눔 문화의 정착을 위해 2007년 12월부터 시작한 이 모임은 현재 3709명의 회원이 활동하며 국내 개인 기부 문화 발전에 앞장서는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>비 일단 소강 상태지만...비구름 계속 들어와 내일까지 시간당 30~80㎜ 강한 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/18/G3DQZX4X4VD3TC63CS4GNMQEKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/18/G3DQZX4X4VD3TC63CS4GNMQEKY/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 18 Jul 2025 02:58:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SHSUJMWMOVHYYIGFIDATCSGEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 강한 비가 내린 지난 17일 오전 서울 광화문광장에서 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오전 일부 지역에서 비가 소강 상태를 보이고 있는 가운데, 토요일인 19일까지 전국 대부분 지역에 매우 강하고 많은 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;18일 기상청에 따르면, 이날 오전 일부 지역에서는 비가 소강 상태를 보였다. 오전 11시 기준 수도권과 강원 영서, 충남 서해안을 중심으로 10㎜ 안팎의 약한 비가 내렸다. 오전 10시부터 오전 11시까지 1시간 동안 주요 지역의 강수량은 경기 남양주 5㎜, 강원 춘천 6㎜, 대전 0.5㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 “18일 낮까지 내륙을 중심으로 소강 상태를 보이는 곳이 많겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 서해안에서 비구름대가 지속적으로 들어오고 있어, 19일까지 전국에 시간당 30~80㎜의 비가 내릴 것으로 보인다. 18~19일 예상 강수량은 수도권·강원도(20일 아침까지) 30~150㎜, 충청·전라·경상권 50~200㎜, 제주도 10~150㎜ 등으로 예보됐다. 시간당 강수량은 대부분 지역에서 30㎜ 안팎이겠으나, 전라권과 경상권의 경우 최고 80㎜까지 내리겠다. &lt;br&gt;&lt;br&gt;이번 비는 19일 밤에서 20일 아침에 그칠 전망이다. 수도권과 강원도는 서해상에서 동쪽으로 이동하는 정체(장마)전선의 영향으로 20일 아침까지 비가 이어지는 곳이 있겠다. 남부지방과 제주도는 일본 동쪽 해상에서 서쪽으로 확장하는 고기압의 가장자리에 들면서 비가 내리고 있지만, 19일 밤에 대부분 그칠 것으로 예보됐다. 고기압의 확장 정도에 따라 정체전선이 이동하면서 비가 강하게 오는 시간대와 지역이 달라질 전망이다.&lt;br&gt;&lt;br&gt;비가 내리면서 전국 대부분 지역에서 기온이 내려갔으나, 19일부터 습도가 높은 상태에서 낮 최고 체감 온도가 33도 내외로 올라 무덥겠다. 19일 낮 최고기온은 28~32도, 20일 낮 최고기온은 30~34도로 예고됐다.&lt;br&gt;&lt;br&gt;한편 일요일인 20일에는 늦은 오후부터 저녁 사이 경기 남부 내륙과 강원 남부 내륙, 충청권 내륙, 경북 북부 내륙에 소나기가 내리는 곳이 있겠다. 소나기에 의한 예상 강수량은 5~40㎜ 정도다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
