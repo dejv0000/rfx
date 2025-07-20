@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[결정] 한의대 '지역 출신 선발 의무' 조항 합헌</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209868.jpg" alt="47448.jpg" /&gt;&lt;/p&gt;&lt;b&gt;[헌법재판소 결정]&lt;/b&gt;&lt;br /&gt;지방대학 한의과 대학이 신입생을 뽑을 때 일정 비율 이상을 해당 지역 출신자로 선발하도록 규정한 시행령 조항은 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 A 씨가 제기한 '지방대학 및 지역균형인재 육성에 관한 법률'(이하 지방대육성법) 시행령 제10조 제3항 제1호에 대한 헌법소원에서 7월 17일 재판관 7인의 전원일치 의견으로 합헌 결정했다(&lt;b&gt;2021헌마1572&lt;/b&gt;). 헌재는 이 조항의 가목 중 '한의과대학’에 관한 부분이 "수도권 고등학교를 졸업하고 한의과대학 진학을 준비하는 청구인의 교육받을 권리 등을 침해하지 않는다"며 A 씨의 청구를 기각했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요]&lt;/b&gt;&lt;br /&gt;A 씨는 수도권에서 고등학교를 졸업하고 한의대 진학을 준비 중이던 사람이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;2021년 9월 개정된 지방대육성법 시행령 제10조 제3항은 충청권, 호남권, 대구·경북권, 부산·울산·경남권 소재 대학 한의대의 경우 해당 지역 출신자의 수가 전체 인원의 40% 이상, 강원권과 제주권 소재 대학 한의대의 경우 해당 지역출신자의 수를 전체 인원의 20% 이상이 되도록 규정하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;A 씨는 이 조항이 자신의 균등하게 교육받을 권리를 침해한다며 헌법소원 심판을 청구했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[헌법재판소 판단]&lt;/b&gt;&lt;br /&gt;헌재는 심판 대상 조항이 "A 씨의 직업선택의 자유와 균등하게 교육 받을 권리를 침해하지 않는다"고 판단했다.&lt;br /&gt;헌재는 "심판 대상 조항은 지역 출신의 인재를 양성함으로써 지역 간의 균형 있는 발전을 도모하기 위한 것"이라며 "수도권과 지역 간 불균형이 심화되는 상황에서 이러한 공익은 중대하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌재는 "수도권 집중 현상으로 인해 수도권 거주 국민과 지방 거주 국민의 삶의 질에 격차가 벌어지고 지방 출신 인재가 유출되고 있다"며 "수도권 집중 현상의 원인 중 일부는 대학 입시와 관련돼 있고, 상위권 대학을 향한 교육열은 교육 기반 시설이 집중되어 있는 수도권 일부 지역에 대한 선호로 이어진다"고 짚었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "대학 입시 정책을 조정해 잠재력 있는 지방인재를 발굴하는 것은 이러한 현상을 완화하기 위한 한 방법이 된다"며 "이에 충청권, 호남권, 대구·경북권, 부산·울산·경남권 소재 지방대 한의대의 해당 지역 출신자의 최소 입학 비율을 30%에서 40%로, 강원권과 제주권 소재 지방대 한의대는 15%에서 20%로 상향한 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;헌재는 "지역 간의 균형 발전에 대한 국가적·사회적 요청의 강도를 고려해 볼 때 40%라는 최소 입학 비율이 절대적으로 높다고 보기는 어렵다는 점, 심판 대상 조항은 지역의 입학 자원 여건 등을 고려해 강원권과 제주권의 경우 최소 입학 비율을 20%로 정하고 있다는 점 등을 고려해 보면, 위와 같은 비율의 설정이 입법목적 달성에 필요한 정도를 넘는다고 보기 어렵다"며 심판 대상 조항이 과잉금지 원칙에도 위배되지 않는다고 했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 20 Jul 2025 03:10:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209868</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209868</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209868.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 처방전 없이 '셀프 필로폰' 의사, 면허정지 적법</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209846.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;SNS로 매수한 필로폰을 자신에게 투약한 치과의사에게 내린 3개월간 면허자격 정지 처분은 적법하다는 법원 판단이 나왔다. 서울행정법원 행정5부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10044"&gt;이정원&amp;nbsp;&lt;/span&gt;부장판사)는 5월 25일 치과의사 A 씨가 보건복지부장관을 상대로 낸 치과의사면허 자격정지 처분취소 청구를 기각했다(&lt;b&gt;2024구합86772&lt;/b&gt;). &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;인천 연수구 소재에서 근무하는 치과의사 A 씨는 본인의 주거지에서 스스로 필로폰을 투약했다. 2019년부터 2020년까지 일회용 주사기를 사용해 각 0.07그램씩 4차례에 걸쳐 투약했다. 2021년 4월 A 씨는 마약류관리법위반(향정) 혐의로 대전지방법원에서 벌금 3000만 원을 선고 받았다. 보건복지부는 A 씨가 마약류관리법 제32조 1항의 비도덕적 진료행위인 '처방전 없이 마약 또는 향정신성 의약품을 투약 또는 제공한 경우'에 해당한다고 봤다. 2024년 8월 21일 보건복지부는 사전 통지절차를 거쳐 A 씨에게 2025년 1월부터 4월까지 3개월 간 치과의사면허 자격정지 처분을 내렸다. &lt;br /&gt;&lt;br /&gt;이에 불복한 A 씨는 "법령상 비도덕적 진료행위는 타인에 대한 진료행위만을 의미하고, 마약류관리법도 타인에게 제공하는 경우에 해당한다"며 행정처분 취소 소송을 제기했다. 정직 3개월 처분이 위반행위의 정도에 지나치게 가혹하다는 점도 들었다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;법원은 자신에게 투약 및 치료하는 것도 의료행위에 해당한다고 봤다. 재판부는 "필로폰의 투약은 질병 치료와 관련 없이 행해지더라도 의료법에 따른 의료행위"라며 "의사나 치과의사가 자신에 대해 직접 투약 및 치료하는 것도 엄연히 의료행위에 해당한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이어 "마약류취급의료업자인 A 씨가 처방전에 따르지 않고 필로폰을 투약한 것에 따른 면허정지처분은 적법하다"며 "사회통념상 의료인에게 요구되는 높은 도덕성과 직업윤리에 크게 반하는 행위"라고 지적했다.&lt;br /&gt;&lt;br /&gt;재령권 남용도 불인정됐다. 재판부는 "2018년 원고는 필로폰 매수 및 투약으로 교육조건부 기소유예처분을 받은 저력이 있음에도 불구하고 필로폰을 처방전에 따르지 않고 4회에 걸쳐 자가 투약했다"며 "정직 3개월 처분이 위반행위의 정도에 비해 지나치게 가혹하다고 보기 어렵다"고 설명했다. &lt;br /&gt;&lt;br /&gt;그러면서 재판부는 "필로폰과 같은 향정신성의약품은 오·남용의 우려가 있고 건강과 생명에 치명적인 영향을 미칠 가능성이 있어, 무분별하게 사용될 경우 의료질서를 심각하게 훼손할 우려가 있다"며 "정직 3개월 처분으로 침해되는 A 씨의 사익에 비해 공익의 정도가 결코 작다고 볼 수 없다"고 강조했다.</description>
 			<pubDate>Sun, 20 Jul 2025 00:08:28 -0000</pubDate>
@@ -233,16 +243,6 @@
 			<link>https://www.lawtimes.co.kr/news/209871</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209871</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209871.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국법무보호복지공단 경기지부, 수원지법 사법접근센터에 상담 거점 마련</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209867.jpg" alt="456332.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;수원지법 사법접근센터 종합민원실 최성하 실장과 한국법무보호복지공단 경기지부 한순옥 지부장 등 관계자들. 《사진=한국법무보호복지공단 경기지부 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법무보호복지공단 경기지부(지부장 한순옥)는 7월 16일부터 수원지방법원 사법접근센터에 상담창구를 개설하고 법무보호서비스 상담을 제공한다고 밝혔다.&lt;br /&gt;&lt;br /&gt;상담창구는 매주 수요일 오후 2시부터 4시까지 사법접근센터 21번 부스에서 운영된다. 상담은 법무부로부터 위촉된 법무보호위원과 공단 경기지부 직원이 함께 진행한다.&lt;br /&gt;&lt;br /&gt;상담 대상은 수원지법 홈페이지를 통해 사전 예약한 민원인은 물론, 현장을 방문하거나 유선으로 문의하는 모든 이들을 포함한다. 창구에서는 법무보호서비스 전반에 대한 안내와 초기 상담이 제공되며, 심층 상담이 필요한 경우 해당 지부나 지소로 연계해 지속적인 지원이 이뤄질 예정이다.&lt;br /&gt;&lt;br /&gt;이번 상담창구 설치는 법무보호대상자 및 그 가족의 접근성을 높이고, 법원을 방문하는 잠재적 보호대상자를 발굴해 법무보호사업의 사각지대를 해소하는 계기가 될 것으로 기대된다.</description>
-			<pubDate>Fri, 18 Jul 2025 10:08:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209867</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209867</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209867.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
