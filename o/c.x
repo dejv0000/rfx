@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아들에 총 쏜 아버지... 車에서 총기 10점·집에선 타이머 폭발물 15개 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/21/MM42NHDB7NAVLCXRAQYFDSWSEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/21/MM42NHDB7NAVLCXRAQYFDSWSEQ/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 04:56:22 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CS6N4VQNZBBPZP4H6KXJDONSVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 인천에서 사제 총기를 발사해 가족을 숨지게 한 피의자의 주거지에 폴리스 라인이 설치돼 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도에서 사제 총기로 아들을 살해한 60대 남성의 차량과 집에서 총기와 시너 등 다른 범행 도구가 발견됐다.&lt;br&gt;&lt;br&gt;21일 경찰에 따르면 살인과 총포·도검·화약류 등의 안전관리에 관한 법률 위반 혐의로 긴급 체포된 A(63)씨의 차량에서 총기 10점이 발견됐다. 또한 차량에선 실탄 3발도 함께 나왔다. &lt;br&gt;&lt;br&gt;해당 총기는 파이프와 손잡이를 연결한 부품 형태로 일부가 나뉘어 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이와 함께 A씨의 서울 도봉구 쌍문동 집에선 폭발물 15개가 발견됐다. 폭발물은 시너가 담긴 페트병, 세제 통, 우유 통 등으로 점화 장치가 연결돼 있었으며 이날 낮 12시에 폭발하도록 타이머 설정이 돼 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 9시 31분쯤 인천 연수구 송도동의 아파트 33층에서 사제 총기를 발사해 자신의 아들인 30대 B씨를 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 파이프 형태로 된 사제 총기를 이용해 쇠구슬 여러 개가 들어있는 산탄 2발을 연달아 B씨에게 발사한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;산탄은 내부에 여러 개의 조그만 탄환이 들어있어 발사 시 한번에 다수 탄환이 발사되는 총알이다.&lt;br&gt;&lt;br&gt;범행 당일은 A씨의 생일로 B씨는 생일잔치를 열었고 당시 B씨와 며느리, 손주 2명, 지인 등이 함께 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B씨는 A씨가 쏜 산탄에 가슴 부위를 맞았고 심정지 상태로 병원에 옮겨졌지만 숨졌다. &lt;br&gt;&lt;br&gt;범행 후 도주했던 A씨는 검거 당시 검문 경찰을 보고 차선을 바꾸며 도주했고 경찰은 차량 문을 두드려 제압해 이날 오전 0시 20분쯤 서울에서 그를 붙잡아 인천으로 압송했다. &lt;br&gt;&lt;br&gt;경찰은 사제 폭발물을 집에 설치했다는 A씨의 진술을 확보한 뒤 집에서 신나와 타이머 등 사제 폭발물을 제거했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SRJFODKA55GQTGH74AZE6BRNHQ.jpg?auth=afbfb4a345ff2ac04cc1c1c86e391591b8e20d836e2fc566735555a6074aac1e&amp;smart=true&amp;width=1200&amp;height=675" type="image/jpeg" height="675" width="1200">
+        <media:description type="plain">21일 인천에서 사제 총기를 발사해 가족을 숨지게 한 피의자의 주거지에 폴리스 라인이 설치돼 있다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>내란 특검, 김용대 드론작전사령관 구속영장 청구...18일 긴급체포</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/20/VS3WTJLV6RGFNOXRIE7CM2PSQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/20/VS3WTJLV6RGFNOXRIE7CM2PSQY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 20 Jul 2025 06:07:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6SELXX4H5GFZGOP5YZJDYX2DA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검이 20일 김용대 드론작전사령관에 대한 구속영장을 청구했다. 특검팀은 이에 앞서 지난 18일 밤 김 사령관을 긴급체포했다고 한다.&lt;br&gt;&lt;br&gt;내란특검 관계자는 이날 언론 공지를 통해 “오후 2시 김 사령관에 대한 구속영장을 청구했다”며 “신병을 확보할 사유가 있어 허위공문서 작성 등 우선 확인된 범죄 사실로 구속영장을 청구했다”고 밝혔다. 한창 수사가 진행 중인 외환 관련 혐의는 구속영장 청구서에 포함되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;구속영장 청구에 앞서 특검은 지난 18일 밤 김 사령관을 긴급체포했다. 지난 14일 특검이 김 사령관의 자택 등을 압수수색하는 과정에서 김 사령관 PC에 유서가 저장돼 있다는 사실이 알려졌는데, 김 사령관 신병에 문제가 생길 가능성을 염두에 둔 조치로 풀이된다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 비상계엄 선포의 명분을 만들기 위해 지난해 10월 국방부와 합동참모본부를 건너뛰고 드론사령부에 직접 평양 무인기 투입을 지시한 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;특검은 이와 관련해 지난 17일 김 사령관을 한 차례 소환 조사한 후 이날 2차 조사를 예정했지만, 김 사령관에 대한 구속영장이 청구되면서 조사 일정은 당분간 미뤄지게 됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘샤넬백 전달’ 윤영호 전 통일교 본부장, 특검 소환 불응</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/19/GYXBD3KOGREPJEUIGQR7L7DWV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/GYXBD3KOGREPJEUIGQR7L7DWV4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 13:52:56 +0000</pubDate>
+      <content:encoded>윤영호 전 통일교 세계본부장이 20일 예정된 민중기 특검팀 소환 조사에 19일 불응했다. 윤 전 본부장은 윤석열 전 대통령 배우자 김건희 여사에게 통일교 현안을 청탁하기 위해 수천만원대 금품을 건진법사 전성배 씨에게 여러 차례 전달한 혐의를 받는 인물이다.&lt;br&gt;&lt;br&gt;19일 김 여사 관련 의혹을 수사하는 민중기 특검팀은 “20일 오전 10시 윤 전 본부장에 대한 소환 조사가 예정돼 있었으나, 윤 전 본부장 측에서 돌연 일정 연기신청서를 제출했다”며 “특검은 원칙대로 출석불응 처리할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2Z7R2ENFXIHNXI3MPPBA5XRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 본부장은 2022년 4~6월 2000만 원 상당의 샤넬 백 2개, 2022년 6~8월 6000만 원대의 영국 그라프 다이아몬드 목걸이와 천수삼 농축차 등을 건진법사 전 씨에게 전달한 혐의를 받고 있다.구체적인 청탁 내용은 △캄보디아 메콩강 부지 개발 등 공적개발원조 사업(ODA) 지원 △YTN인수 △대통령 취임식 초청 △유엔 제5사무국 한국 유치 △교육부 장관 통일교 행사 참석 등 5가지다.&lt;br&gt;&lt;br&gt;전 씨는 통일교 측의 청탁 내용을 들은 적은 있지만 말도 안 되는 소리라고 생각했고, 윤 전 본부장에게 받은 목걸이와 가방은 잃어버렸다는 입장이다. 또 윤 전 본부장으로부터 기도비 명목 등으로 2차례 걸쳐 1000만 원을 받은 것은 인정했지만 윤석열 정부의 인맥과 연결하는 대가는 아니라고 부인하고 있다. &lt;br&gt;&lt;br&gt;그러나 윤 전 본부장이 앞선 검찰 조사에서 이 같은 청탁 명목으로 건넨 금품 등은 모두 ‘한학자 총재의 뜻에 따랐고 결재를 받은 사안’이라고 진술한 것으로 알려지면서 수사는 통일교 윗선으로 확대됐다.&lt;br&gt;&lt;br&gt;특검팀은 지난 18일 경기 가평군 통일교 세계본부와 서울 용산구 본부교회 등에 검사와 수사관을 파견해 압수수색을 진행했다. 압수수색 대상에는 윤 전 본부장의 거주지와 휴대전화 등도 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여중생에 “60만원 줄게, 술 사줄테니 집 가자” 제안한 50대 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/UA4ZPDHF3VAI5OD6M2LMBMJKQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/UA4ZPDHF3VAI5OD6M2LMBMJKQ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 12:11:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDIFGTUP6ZFNFO4DUNUEE6CLMY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 줄 테니 함께 술을 마시자고 미성년자에게 제안한 혐의로 재판에 넘겨진 50대 남성이 1심에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 미성년자유인미수 혐의로 기소된 A(56)씨에게 무죄를 선고했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2023년 11월 늦은 시각 B(15)양 일행에게 술을 함께 마시자고 제안했다. B양이 미성년자임을 밝히며 거절했으나 A씨는 “30만원씩 총 60만원 주면 되지? 오빠가 술 사줄테니까 집에 같이 가자”며 집으로 데려가려고 했다. B양 등은 이를 거절하고 주변 지구대에 신고했다. &lt;br&gt;&lt;br&gt;김 부장판사는 A씨가 B양 일행에게 돈을 줄 테니 술을 마시자고 말한 사실은 인정된다고 판단했다. 다만 CCTV 영상과 B양 일행의 진술 등을 통해 알 수 있는 사건 전후 A씨의 구체적인 행태, A씨와 B양 일행이 보여준 모습과 태도 등을 고려하면 미성년자 유인 미수죄가 성립되기는 어렵다는 결론을 내렸다. &lt;br&gt;&lt;br&gt;미성년자유인죄가 성립하려면 기망 또는 유혹을 수단으로 미성년자를 꾀어 기존의 생활관계 또는 보호관계로부터 이탈하게 해야 한다. 김 부장판사는 “검사가 제출한 증거만으로 A씨가 미성년자유인죄를 저지르려는 뜻이 있었음을 인정하기에는 부족하다”고 봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총, 도심서 ‘노조법 개정 촉구’ 총파업... “尹 노동정책 폐기하라"</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/TGTKJN63SRHI7BESFSKFXLQODE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/TGTKJN63SRHI7BESFSKFXLQODE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 10:21:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7PO4UVIPBIS5AICCZJVTA3J4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 중구 을지로1가 사거리에서 열린 '광장의 힘으로 새로운 세상 쟁취! 2025 민주노총 총파업·총력투쟁 대행진'에서 참가자들이 구호를 외치고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민노총)은 19일 오후 서울 중구 을지로입구역 인근에서 노조법 2·3조 개정(노란봉투법) 등을 촉구하는 1만5000명(경찰 비공식 추산) 규모의 집회를 열었다. 노동계가 이재명 정부를 향해 본격적으로 ‘청구서 내밀기’에 나섰다는 분석이 나온다.&lt;br&gt;&lt;br&gt;민노총은 구체적으로 노조법 2·3조를 개정해 ‘노란봉투법’을 도입해줄 것과 윤석열 정부 때 도입된 ‘노조 회계 공시제’의 폐지를 요구했다. 이날 양경수 민주노총 위원장은 “모든 노동자에게 노조 할 권리를 제대로 보장하라”며 “노동자·서민의 생존을 지킬 수 있도록 노조법 2·3조 개정은 반드시 쟁취해야 한다”고 했다. 이주안 플랜드건설노조 위원장은 “이재명 정부가 윤석열 정부의 반노동 정책을 폐기하고 노동자와 시민의 생존권이 보장되는 평등한 세상을 위한 사회 대개혁을 실현해야 한다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법은 하청 근로자가 교섭할 수 있는 범위를 원청 대기업까지 늘리고(2조), 노조 파업에 대한 기업의 손해배상 청구를 제한(3조)하는 내용이다. 그동안 노동계에선 노란봉투법으로 노조의 교섭력이 크게 확대될 수 있다고 보고 이를 최우선 과제로 추진해왔다. 반면 산업·경제계에선 노란봉투법이 도입되면 연간 약 10조원의 국내총생산(GDP) 손실이 발생할 것으로 우려하고 있다. ‘노조 회계 공시제’는 노조가 회계 공시를 하면 조합원이 낸 조합비의 15%를 세액공제 혜택을 받을 수 있게 한 제도다. 민노총은 노조 살림살이를 드러내야 하는 공시 제도에 강한 불만을 보이며 폐지를 요구하고 있다.&lt;br&gt;&lt;br&gt;경찰은 집회 장소 인근에 교통경찰 230명을 배치해 차량 우회 등 교통 관리에 나섰다. 집회를 마친 참가자들은 숭례문과 회현사거리를 거쳐 세종호텔 앞까지 행진했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“살리기 위해 버텨”… 폭우 속 맨홀 빠진 노인 사투 끝에 구했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/19/UPLDX5KJPFGXHJX6RNY2S6DR6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/UPLDX5KJPFGXHJX6RNY2S6DR6U/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 07:28:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BX3LCY7VSBC2REEIPHFLGLF45Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 광주광역시 동구 소태동에서 최승일(54)씨가 폭우 속 맨홀에 빠진 노인을 구하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 호우가 내린 침수 상황에서 맨홀 구멍에 빠진 노인을 구한 시민의 선행이 알려졌다. &lt;br&gt;&lt;br&gt;지난 17일 오후 5시쯤 광주광역시에는 엄청난 폭우가 쏟아졌다. 광주 동구 소태동에서 자동차공업사를 운영하는 최승일(54)씨의 가게 앞에도 물이 차오르기 시작했다. &lt;br&gt;&lt;br&gt;최씨는 가게에 물이 들어오는 것을 막기 위해 직원들과 모래주머니를 쌓던 도중 저 멀리서 물살이 이상하게 움직이는 장면을 목격했다. 한 할아버지가 빗물에 휩쓸려 떠내려왔다가 맨홀 구멍에 두 다리가 빠진 채 물살에 갇힌 상황이었다. &lt;br&gt;&lt;br&gt;최씨는 할아버지를 보자마자 주저 없이 거친 물살을 헤치고 힘겹게 다가갔다. 할아버지의 팔을 붙잡고 빼내 보려 했지만 소용없었다. 최씨는 “(할아버지의) 다리가 아스콘(아스팔트 콘크리트) 같은 것에 걸려 있어 도무지 빠지지 않았다”며 “얼굴까지 물에 잠기고 있어서 숨을 제대로 못 쉬고 있어서 숨이라도 쉬게끔 도와드려야겠다고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;최씨는 직원들에게 “나무판자를 가져와달라”고 외쳤고, 그 말에 직원들이 즉시 움직였다. 넓은 나무판자로 물길을 막아 할아버지가 잠시라도 숨을 쉴 수 있는 공간이 확보됐다. &lt;br&gt;&lt;br&gt;그때, 또다른 위험 상황이 벌어졌다. 차 한 대가 빗물을 타고 최씨와 직원들에게 다가온 것이다. 자칫 차량에 부딪혀 위험했을 상황에 직원들이 온 힘을 다해 차량을 멈춰 세웠고, 최씨는 계속 할아버지 구조 작업을 이어갈 수 있었다. &lt;br&gt;&lt;br&gt;최씨는 “공업사도 운영하고 있고 운동도 좋아해서 힘이 좋은 편인데도 당시 제대로 서 있는 것조차 힘들었다”며 “차량이 떠내려올 때는 ‘이러다 내가 같이 죽는 건 아닐까’ 생각했지만, 할아버지를 놓고 물러설 수는 없었다”고 했다. &lt;br&gt;&lt;br&gt;그렇게 20여 분간의 사투 끝에 최씨와 직원들은 할아버지를 구출해 공업사 사무실에서 119 구조대에 인계했다. 다행히 할아버지의 의식과 호흡은 멀쩡했다. &lt;br&gt;&lt;br&gt;할아버지가 구조된 다음 날 가족이 공업사를 찾아와 감사 인사를 전했다고 한다. 최씨는 “할아버지가 무사하셔서 정말 다행이다. 가족들에게서 감사 인사를 받을 때 왠지 쑥스럽게 느껴졌다”고 했다. 이어 “다시 그런 일이 일어났어도 똑같이 물속으로 뛰어들었을 것 같다”며 “함께 구조를 도와준 직원들에게 정말 고맙다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기부도 ‘영웅’... 임영웅 산불 때 4억, 폭우에 또 2억 선행</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/21/DJY6TVO7DRA65GYMMGE6D54JHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/21/DJY6TVO7DRA65GYMMGE6D54JHA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 04:35:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTNBUQRD2A7M7FQ7HXDQIC3MNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 임영웅이 집중호우로 피해를 입은 이재민과 지역사회를 돕기 위해 2억원을 기부했다. 임영웅은 지난 3월에도 산불 피해 지원을 위해 4억원을 기부한 바 있다.&lt;br&gt;&lt;br&gt;21일 사랑의열매 사회복지공동모금회는 임영웅이 팬클럽 ‘영웅시대’ 이름으로 전날 2억원을 기부했다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 기부금은 임영웅이 1억원, 소속사 물고기뮤직이 1억원을 각각 기부해 마련한 것으로, 전국 곳곳에서 발생한 폭우로 피해를 입은 이재민의 긴급 구호, 임시 거주, 생계 지원, 피해 복구 등에 사용될 예정이다. 물고기뮤직은 임영웅만 소속되어 있는 1인 기획사다.&lt;br&gt;&lt;br&gt;임영웅은 “갑작스러운 폭우로 일상을 위협받고, 불안 속에서 하루하루를 견디고 계신 분들을 생각하면 마음이 무겁다”며 “작은 정성이지만 위로가 닿기를 바라고, 하루빨리 일상을 회복하시기를 진심으로 응원한다”고 전했다.&lt;br&gt;&lt;br&gt;임영웅은 2021년부터 꾸준히 기부 선행을 해왔다. 이번 기부를 포함해 임영웅과 소속사가 팬클럽 ‘영웅시대’ 이름으로 사랑의열매에 전달한 누적 성금은 총 23억원에 달한다.&lt;br&gt;&lt;br&gt;그의 팬클럽 ‘영웅시대’ 또한 사랑의열매 ‘나눔리더스클럽’에 가입해 정기적인 기부를 이어가며, 지역별로도 봉사 활동, 연탄 나눔, 취약 계층 지원 등 다양한 활동을 전개하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IERF2OSCTZHQXM2VP3V5BQQWWQ.jpg?auth=4b4cc11bab0278095cccd63e778bf7b941e241800c54c947f026c03ff8653a1e&amp;smart=true&amp;width=658&amp;height=370" type="image/jpeg" height="370" width="658">
+        <media:description type="plain">임영웅. 사진 제공=물고기뮤직</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>내란 특검, 尹 구속기소… “헌법상 계엄 통제장치 무력화”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/19/ACSBXW2KUBCODCK6PLXHIFPFWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/ACSBXW2KUBCODCK6PLXHIFPFWQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 19 Jul 2025 06:01:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDWUXYAS26JLMFWXUONP5WVFCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 구속 전 피의자심문을 받기 위해 지난 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검이 19일 윤석열 전 대통령을 직권남용 등 혐의로 구속 기소했다. 지난달 18일 내란특검이 수사를 개시한 지 31일 만이다.&lt;br&gt;&lt;br&gt;내란특검 관계자는 이날 “금일 오후 2시 40분, 윤 전 대통령을 직권남용 등 혐의로 기소했다”며 “윤 전 대통령은 지난해 비상계엄 선포 직전 국무회의 때 일부 국무위원만 소집함으로써 소집 통지를 받지 못한 국무위원 9명의 헌법상 권한인 국무회의 심의·의결권을 침해했다”고 밝혔다. 그러면서 “이는 헌법상 마련된 대통령의 비상계엄 선포에 대한 사전 통제장치를 무력화한 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이밖에 특검 측은 윤 전 대통령에 대해 허위 계엄선포문 사후 작성, 계엄 관련 허위 공보, 비화폰 기록 삭제 지시, 체포영장 집행 저지 등 혐의도 적용했다.&lt;br&gt;&lt;br&gt;다만 수사가 한창 진행 중인 외환 혐의는 공소장에 담지 않았다. 특검 측은 윤 전 대통령이 향후 외환 혐의 수사에 협조하지 않을 경우 강경 대응에 나설 방침이다. 이날 내란특검 관계자는 “외환 혐의를 수사할 때 당연히 소환 조사가 필요하다고 본다”며 “먼저 출정을 요청하겠지만, 불응할 경우 체포영장을 발부 받아 강제수사를 할 수밖에 없을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 지난 10일 윤 전 대통령이 구속된 이후 두 차례 소환 조사를 통보했으나, 윤 전 대통령은 응하지 않았다. 이후 11일부터 세 차례에 걸쳐 윤 전 대통령이 수감된 서울구치소에 강제 구인을 지휘했지만, 이 역시 윤 전 대통령의 거부로 무산됐다. &lt;br&gt;&lt;br&gt;이런 가운데 윤 전 대통령 측이 지난 16일 마지막 불복 카드인 구속적부심사까지 법원에 청구하자, 특검 측은 더 이상 대면 조사 시도는 실익이 없다고 판단해 구속기간 연장 대신 기소를 택한 것으로 보인다. 내란특검 관계자는 이에 대해 “내부 논의를 통해 구속영장 발부 이후 참고인 등을 상대로 추가 조사 및 증거 수집이 충분히 이뤄졌고, 구속 기간을 연장하더라도 윤 전 대통령에 대한 실효성 있는 조사를 담보하기 어렵다는 판단 하에 공소를 제기한 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그는 또 “구속영장 발부 이후 윤 전 대통령에 대한 관련 수사가 이뤄지지 않아 아쉽게 생각한다”며 “윤 전 대통령의 수사 과정에서의 행태는 재판에 현출시켜 양형에 반영하도록 할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이로써 윤 전 대통령은 지난 1월 검찰 비상계엄 특별수사본부에 의해 내란 우두머리 혐의로, 파면 이후 지난 5월 직권남용 권리행사 방해 혐의로 각각 기소된 데 이어 세 번째로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FYQNJTOPTRDMGGJSTVJVF7ROWM.jpg?auth=02220b73ed1d5633802e23447d4379c03b357508ca6eb26405e2311d12f98392&amp;smart=true&amp;width=5500&amp;height=3669" type="image/jpeg" height="3669" width="5500">
+        <media:description type="plain">12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. 2025.7.9/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>이제 폭염의 시간...서울 이틀째 열대야</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/21/Z5JOSJCWYRGFDD6OTFJZ4PR7VM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/21/Z5JOSJCWYRGFDD6OTFJZ4PR7VM/</guid>
@@ -708,51 +792,6 @@
       <content:encoded>흔히 국립공원이라고 하면 설악산과 북한산처럼 경치가 화려한 산을 떠올리지만, 그렇지 않은 산도 있답니다. 강원도 홍천·평창·강릉에 걸쳐 있는 오대산(1565m)입니다. 등산인들은 오대산을 대표적인 육산(肉山)으로 꼽습니다. 살 육(肉) 자를 쓰는데요. 단단한 바위가 아닌 살처럼 부드러운 흙과 숲으로 덮여 있다고 해서 육산이라고 하지요. 반대로 바위가 삐죽삐죽 솟은 산은 뼈 골(骨) 자를 써서 골산(骨山)이라 부르기도 합니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5QJOON3HZCNFLS5UOWT2DEIKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오대산 미륵암에서 본 오대산 능선. 오대산은 날카로운 바위 봉우리는 없지만, 두루뭉술한 굴곡의 능선과 아늑한 숲이 매력이에요. /영상미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘명산’은 반드시 화려한 생김새만으로 결정되지는 않습니다. 유서 깊은 전통과 유명한 일화, 산의 크기까지 두루 고려되지요.&lt;br&gt;&lt;br&gt;오대산은 아주 오래전부터 불교와 깊은 인연이 있습니다. 신라 시대에 자장율사라는 스님이 중국에 있는 오대산을 여행하다가 꿈에서 지혜를 상징하는 ‘문수보살’을 만났다고 해요. 훗날 자장율사는 지금의 오대산에 그 이름을 붙이고 월정사라는 절을 지었어요. 또 중국에서 가져온 부처님의 유골(사리)을 오대산 상원사 근처에 모셨지요.&lt;br&gt;&lt;br&gt;조선왕조실록도 오대산과 관련이 있답니다. 실록은 임금들의 기록을 모아둔 아주 중요한 책이에요. 조선 시대엔 전쟁 같은 큰 위기에 대비해서 실록을 깊은 산속에 있는 절 네 곳에 나눠 보관했어요. 그중 한 곳이 바로 오대산이었어요. 이 실록은 지금까지 남아 오대산에 있는 국립조선왕조실록박물관에 소장돼 있지요.&lt;br&gt;&lt;br&gt;오대산에는 ‘선재길’이라는 걷기 좋은 길이 있습니다. 월정사에서 상원사까지 이어지는 길로 오대천이라는 계곡을 따라 걷는 코스입니다. 약 10km로, 3~4시간쯤 걸려요. 길이 완만해 산행을 잘 안 해본 사람들도 어렵지 않게 걸을 수 있습니다. &lt;br&gt;&lt;br&gt;여기서 ‘선재’는 불교 경전인 ‘화엄경’에서 깨달음을 좇아 길을 떠나는 ‘선재 동자’의 이름에서 따온 거예요. 그래서 이 길은 오래전부터 많은 스님이 ‘참된 나’를 찾는 수행의 길로 여겨졌답니다.&lt;br&gt;&lt;br&gt;오대천에는 세조 임금과 관련된 전설도 있어요. 조카 단종을&lt;b&gt; &lt;/b&gt;폐위시키고 왕위에 오른 세조는 심각한 피부병에 시달렸다고 해요. 피부에 좋다는 물과 기도처를 찾아 전국을 유람하던 중 오대산 상원사를 찾았고, 오대천에서 한 동자승이 등을 밀어준 덕분에 피부병이 나았다고 해요. 나중에서야 세조는 그 동자승이 문수보살이었음을 깨닫고, 문수보살의 모습을 조각상으로 만들게 했다고 해요. 이것이 바로 국보 221호인 ‘문수동자좌상’이에요.&lt;br&gt;&lt;br&gt;세조와 관련해서 또 다른 재밌는 이야기가 있어요. 세조가 상원사에 머무를 때 자객이 나타나 세조를 해치려 했다고 합니다. 그런데 그때 고양이가 세조의 옷깃을 잡아당겨 목숨을 구했다고 해요. 이후 세조는 상원사에 ‘양묘전(養猫田)‘을 하사했는데요. 밭을 상으로 줄 테니 고양이를 잘 키우라는 의미였습니다. 한양으로 돌아온 세조는 전국에 “고양이를 죽이지 말라”는 명령을 내렸다고 합니다. 상원사에는 지금도 계단 옆에 고양이 석상이 남아 있지요.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] elaborate excuse</title>
-      <link>https://www.chosun.com/national/nie/english/2025/07/21/FFL5JJKS3VB5DDGUINSPGHPT7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/21/FFL5JJKS3VB5DDGUINSPGHPT7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBASSAWSQVAKTGOJSFTOVOKP4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 파프리카 </title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/21/GSNKNPBE5VCLXBRRC23SQNPCMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/21/GSNKNPBE5VCLXBRRC23SQNPCMU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZL77QHSZRDDTHNHK6DZWG74MA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 끈질기게 들추어내다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/21/DVO6BMUFMVBA5MKQXBAVRYXAC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/21/DVO6BMUFMVBA5MKQXBAVRYXAC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGDMH7GQLRCAFIDPVBC2F4JDAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 도정(道程)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/21/R3RZHHZVRBHMVK63IR3Q5BIH4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/21/R3RZHHZVRBHMVK63IR3Q5BIH4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZXDCANUVVDE7HXW6IKZA37YGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2667] 칙칙폭폭 꼬리 잇기</title>
-      <link>https://www.chosun.com/national/nie/2025/07/21/G7LMHTF23JGUDF5FZYBXUMO2SM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/21/G7LMHTF23JGUDF5FZYBXUMO2SM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKBO6X65KRCL5NWEWSPJCHA6JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“산이 우우~ 울다 순식간 와르르”... 참혹한 산청 산사태 가보니</title>
       <link>https://www.chosun.com/national/2025/07/20/D6HTPYB3HNB5BATLBHJIITHCKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/20/D6HTPYB3HNB5BATLBHJIITHCKU/</guid>
@@ -772,24 +811,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고리대금으로 폭리를 챙기고 추심 과정에서 채무자를 협박하거나 성관계를 제안한 대부업자가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 대부업 등의 등록 및 금융 이용자 보호에 관한 법률 위반, 채권의 공정한 추심에 관한 법률 위반 등의 혐의로 기소된 A(56)씨에게 징역 5년에 벌금 5000만원을 선고했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 불법 대부업을 운영하며 채무자들에게 211회에 걸쳐 총 47억여 원을 빌려준 뒤 법정 이자율(연 20%)을 초과해 9억4500여 만원을 챙긴 혐의로 재판에 넘겨졌다. 연체로 인한 일부 피해자의 연 이자율은 7742%로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 정해진 기한 내에 돈을 갚지 못한 채무자들에게 “가족을 전부 해코지하겠다” “다음 기한까지 못 갚으면 살해하겠다”라고 협박한 혐의도 받는다. A씨는 또 여성 채무자에게는 이자 감면을 대가로 성관계를 요구한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;강 부장판사는 “제한 이자율을 초과해 수령한 이자의 총액이 10억원에 가깝고 불법 추심 행위의 내용과 횟수 등을 감안할 때 죄책이 매우 무겁다”며 “고리대금이 어느 정도까지 야만적일 수 있는지, 채무자를 어떠한 지경까지 몰아넣을 수 있는지가 여실히 드러났다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그런데도 피고인은 수사 과정에서 채무자들을 압박해 피해 사실을 진술하지 못하게 했고 피고인의 행태에 대해 주변인들은 ‘지가 검사, 판사 노릇 다 한다’는 취지로 평가했다”며 “피고인이 얼마나 방약무인하고 오만방자한지를 짐작하고도 남는다”고 했다. 그러면서 “불법 사금융이 횡행하는 현실에 대한 경고를 위해서라도 엄중한 처벌이 불가피하다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이 판결에 불복해 항소했다．&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[리빙포인트] 운동화 얼룩엔 선크림</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/20/EDFAHTB3UZFEFOG7AQ7BDNSEOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/EDFAHTB3UZFEFOG7AQ7BDNSEOU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 14:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4WZWWG7RCRAKFP5HPSJBMWGDXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동화에 얼룩이 생겼다면 선크림을 바른 뒤 면봉이나 휴지로 살살 닦아보자. 유분 성분이 묵은때를 녹여주고 코팅 효과도 낸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 세계 최고 연구단 ‘막스플랑크’ 연세대서 AI 나노 로봇 만든다 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/20/2RBP4OG5XFCX3FDW2PKTSQTYQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/2RBP4OG5XFCX3FDW2PKTSQTYQA/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 09:34:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O7CJSYFANBX5MX5NEJHQQIHD4.png"&gt;&lt;figcaption&gt;&lt;small&gt;독일 뮌헨에 위치한 막스 플랑크 협회 본부 내부 전경./막스플랑크 협회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘노벨상 사관학교’로 불리는 독일 막스플랑크협회의 해외 공동 연구 센터가 연세대 캠퍼스에서 문을 연다. 세계 최고의 연구 기관으로 꼽히는 막스플랑크협회는 세계 최상위권 연구 기관들과 협력해 10국에서 18개의 공동 연구 센터를 운영 중이다. 아시아에선 일본의 이화학연구소 센터 다음으로 한국에 연구 거점이 생기게 된다. 양국 연구진은 뇌 질환 진단·치료를 할 수 있는 AI(인공지능) 기반 나노 로봇을 개발할 예정이다.&lt;br&gt;&lt;br&gt;20일 막스플랑크협회와 기초과학연구원(IBS) 나노의학연구단 등에 따르면, 양국 연구 기관은 ‘막스플랑크-연세 IBS 나노의학 심부(深部) 제어 센터’ 개소식을 오는 28일 연세대에서 연다. IBS 나노의학연구단이 작년 11월 막스플랑크 측에 한국 센터 설립 신청서를 제출했고, 막스플랑크협회가 최종 결정을 내려 지난달 양측이 계약서를 작성했다. &lt;br&gt;&lt;br&gt;114년 전통의 막스플랑크협회는 아인슈타인, 막스 플랑크를 비롯해 39명의 노벨상 수상자를 배출했다. 페렌츠 크러우스 막스플랑크 양자광학연구소장이 지난 2023년 노벨 물리학상을 받았다. 이 기관은 미국의 하버드·컬럼비아대와 영국의 옥스퍼드·케임브리지 등 최고 수준의 대학들과 파트너십을 맺어왔다.&lt;br&gt;&lt;br&gt;센터는 IBS와 막스플랑크협회가 연간 50만유로(약 8억원)를 공동 출연해 5년간 운영된다. 평가 결과에 따라 연장 여부가 결정될 예정이다. 막스플랑크 의학연구소와 행동신경생물학연구소, IBS 나노의학연구단과 세브란스병원이 공동으로 운영한다. 독일의 생물물리학 석학인 요아킴 스파츠 막스플랑크 의학연구소장과 천진우 IBS 연구단장이 공동 센터장을 맡는다.&lt;br&gt;&lt;br&gt;작년 IBS 나노의학연구단은 유전자 신호를 감지해 자율 주행하는 적혈구(10㎛)의 50분의 1 크기의 나노 로봇을 세계 최초로 개발했는데, 막스플랑크협회가 특히 관심을 보여온 것으로 전해졌다. 양국 연구소는 이 나노 로봇에 AI 학습 기능을 접목시켜 외과 수술을 하지 않아도 뇌·신경계 등을 치료할 수 있는 기술 개발을 추진한다. IBS 연구단 관계자는 “독일 최고 뇌 과학자들이 대거 한국을 찾아 연구할 예정”이라며 “양국 석학들 간 협력으로 뇌 질환과 관련된 첨단 치료 기술이 대폭 발전할 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;막스플랑크·IBS 연구원 200여 명은 양국 센터를 오가면서 공동 연구를 진행하게 된다. 이 중 막스플랑크 연구자 20여 명은 연세대에 상주한다. 이들은 최근 우리 측에 특수 현미경, 최첨단 초음파 시설을 구축해 달라고 요청한 것으로 전해졌다. 이들의 연구 공간은 연세대 외에도 신촌세브란스 등에도 마련될 예정이다. IBS 관계자는 “막스플랑크 연구원들에게 교원 직위를 부여해 달라고 연세대 본부에 요청해 둔 상황”이라며 “강의·행정 업무를 면제해 준다면 더 많은 해외 연구원들이 한국에서 연구를 하게 될 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“밥버거 100개 가져가세요”…눈물의 나눔에 쏟아진 응원, 무슨일</title>
       <link>https://www.chosun.com/national/national_general/2025/07/20/AV2RE5MPCVDNNJK5Y2XUFUH5QE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/AV2RE5MPCVDNNJK5Y2XUFUH5QE/</guid>
@@ -797,15 +818,6 @@
       <description/>
       <pubDate>Sun, 20 Jul 2025 04:52:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5TNSBVUNVHSPA5QGD5JMFDUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'노쇼' 피해로 나눔한 밥버거./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노쇼 피해를 당한 한 자영업자가 만들어둔 음식 100개를 이웃 주민에게 무료 나눔한 사연이 전해졌다.&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티에는 중고 거래 플랫폼 ‘당근’에 올라온 ‘밥버거 나눔합니다’라는 글이 공유됐다.&lt;br&gt;&lt;br&gt;나눔 글을 게시한 작성자는 “오늘 단체 주문으로 기본 밥버거 100개를 주문받았는데 노쇼를 당해서 지금 나눔 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “전철역 출구 뒷길에 위치하고 있으니 편하게 와서 가지고 가라”며 “1인당 2개까지 드릴 수 있다”고 적었다.&lt;br&gt;&lt;br&gt;이 글은 잠시 뒤 ‘나눔 완료’ 처리가 된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;네티즌들은 “점주분 피눈물 나겠다” “노쇼 강력히 처벌해야 한다” “속상할 텐데 음식 나눔 결정한 마음이 따뜻하다. 번창하시길 바란다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;음식점 노쇼는 고의성 여부에 따라 형사 처벌 대상이 될 수 있다. &lt;br&gt;&lt;br&gt;이와 관련 김민혜 변호사는 지난 5월 YTN 라디오를 통해 “사기죄는 가게 업주 측을 기망해서 재물 또는 재산상 이익을 얻어야 성립되는데, 노쇼의 경우 업주 측을 기망한 것은 맞지만 예약자가 아무런 이익을 얻은 것이 없기 때문에 노쇼를 했다고 해서 바로 사기죄로 처벌받게 되는 것이 아니다”라고 설명했다.&lt;br&gt;&lt;br&gt;또 “업무방해죄도 예약을 허위로 해 영업을 방해할 의도가 인정돼야 한다”며 “예약 당시에 실제로 단체 행사가 예정돼 있었는지, 인원 수 또는 주문한 음식의 양이 실제로 필요한 양이었는지, 혹시 업주 측에 거짓 번호를 전달한 것은 아닌지 등 여러 사정을 종합해 고의 여부를 판단하게 된다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “예약도 ‘계약’이라고 할 수 있기 때문에 예약 후 연락 없이 노쇼한다면 예약자는 손해배상책임을 질 수 있다”며 “손해액 범위에는 준비한 음식값과 인건비, 그리고 예약으로 인해 제대로 다른 손님을 받지 못한 영업 손실도 포함된다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일부터 ‘소비쿠폰’ 신청 시작…1인당 15만 ~45만 원 지급</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/20/SN5VFGBISJCTLBV6E7GZCIPYD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/SN5VFGBISJCTLBV6E7GZCIPYD4/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 04:28:10 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFI4HOZJPROERCIYFQWSHITESY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동구의 한 가게에 '민생회복 소비쿠폰 사용 가능 매장' 스티커가 부착돼 있다. /성동구 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 21일 오전 9시부터 온라인과 오프라인을 통해 민생회복 소비쿠폰 1차 지급 신청을 받는다고 20일 밝혔다. 신청 기간은 9월 12일 오후 6시까지로 약 8주간 운영된다.&lt;br&gt;&lt;br&gt;신청 첫 주인 21∼25일에는 시스템 과부하와 주민센터 혼잡 방지를 위해 출생 연도 끝자리를 기준으로 요일제를 운영한다.&lt;br&gt;&lt;br&gt;요일제에 따라 출생 연도 끝자리 1·6은 월요일, 2·7은 화요일, 3·8은 수요일, 4·9는 목요일, 5·0은 금요일에 신청할 수 있다. 주말에는 온라인으로도 신청할 수 있다.&lt;br&gt;&lt;br&gt;소비쿠폰은 국민 1인당 15만원을 지급하되 차상위계층과 한부모가족에게는 1인당 30만원, 기초생활수급자에게는 1인당 40만원을 지급한다.&lt;br&gt;&lt;br&gt;서울·인천·경기를 제외한 비수도권 지역 주민에게는 3만원이, 농어촌 인구감소지역 주민에게는 5만원이 추가로 지급된다.&lt;br&gt;&lt;br&gt;신용·체크카드, 선불카드, 지역사랑상품권 중 원하는 방식을 선택해 지급받을 수 있다.&lt;br&gt;&lt;br&gt;신용·체크카드로 지급받기를 원하는 경우 KB국민카드, 롯데카드, 삼성카드 등 9개 카드사의 홈페이지나 앱, 콜센터를 통해 온라인으로 신청하면 된다. 카드와 연계된 은행 영업점을 직접 방문해도 신청할 수 있다.&lt;br&gt;&lt;br&gt;지역사랑상품권은 주소지 관할 지방자치단체의 지역사랑상품권 앱 또는 홈페이지에서 온라인으로 신청 가능하다. 지류형 지역사랑상품권이나 선불카드는 주소지 관할 읍면동 행정복지센터를 방문하면 된다.&lt;br&gt;&lt;br&gt;신청 다음 날 소비쿠폰이 지급되며, 사용기한은 11월 30일까지다.&lt;br&gt;&lt;br&gt;지역사랑상품권은 주소지 관할 지방자치단체의 가맹점에서만 사용 가능하다.&lt;br&gt;&lt;br&gt;신용·체크카드 및 선불카드는 일부 업종을 제외한 연 매출 30억원 이하 소상공인 업소에서 사용할 수 있다. 사용 지역은 특별시·광역시 주민은 해당 시 내에서, 도 지역 주민은 주소지 시·군 내에서로 각각 제한된다.&lt;br&gt;&lt;br&gt;한편 국민비서 알림서비스를 신청한 국민은 지급금액, 신청기간과 방법, 사용기한 및 지역 등 맞춤형 정보를 미리 안내받을 수 있다. 국민비서 알림서비스는 네이버앱, 카카오톡, 토스 및 ‘국민비서 누리집(https://ips.go.kr)’ 등을 통해 신청할 수 있다. &lt;br&gt;&lt;br&gt;또 거동이 불편한 고령자 등 접근성이 낮은 국민의 편의를 위해 해당 지방자치단체에서 직접 방문해 신청을 접수하고 소비쿠폰을 지급하는 ‘찾아가는 신청’도 운영한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검, 이종호 전 블랙펄인베스트 대표 압수수색...“21일 소환 통보”</title>
