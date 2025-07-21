@@ -13,6 +13,104 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검, ‘공천 개입 의혹’ 김영선 전 의원 23~24일 소환... 金은 “8월 7일만 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/D6HERL6TNNFYLMBP7XQTV2F3BU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/D6HERL6TNNFYLMBP7XQTV2F3BU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 13:47:17 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 부부와 정치 브로커 명태균씨의 ‘공천 개입’ 의혹을 수사하는 김건희 특검이 공천 개입의 수혜자로 지목된 김영선 전 의원에게 오는 23~24일 중 출석하라고 통지한 사실이 21일 확인됐다. 그러나 김 전 의원은 8월 7일 출석만 가능하다는 입장인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKV3ZPM2UXXOUWWJO3CPX5GW5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선 전 의원이 4월 29일 오전 윤석열 전 대통령 부부 공천 개입 의혹과 관련한 참고인 조사를 받기 위해 서울 서초구 서울고검 청사로 출석하며 취재진 질문에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 오후 언론 공지를 통해 “지난 주 김 전 의원 소환 조사를 위해 23일 또는 24일 출석하도록 요구했으나, 김 전 의원은 8월 7일 출석만 가능하다고 일방적으로 말했다”고 밝혔다. 이어 “이후 연락이 되지 않아 재판이 열리는 창원지법에 방문에 출석 요구를 재차 전달했다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 김 전 의원은 창원지법에서 열리고 있는 재판을 이유로 특검이 지정해 통보한 날에 조사 받기는 어렵다는 입장을 고수하는 것으로 전해졌다. 김 전 의원은 재판부에 제출할 의견서와 변론요지를 직접 쓰는 등 재판 대응에 많은 시간을 쏟고 있다고 한다. 김 전 의원은 창원지법에서만 총 3건의 재판을 받고 있는데, 이날 기준 가장 빠른 재판은 다음달 12일로 예정돼 있다.&lt;br&gt;&lt;br&gt;특검은 김 전 의원이 명씨와 공모해 윤 전 대통령 부부에게 대선 기간 여론조사 68회를 무상으로 제공하고, 그 대가로 비용 3억1800만원 대신 김 전 의원 공천을 받았다고 보고 있다. 앞서 검찰은 명씨와 김 전 의원이 여론조사 81회(3억7520만원 상당)를 제공했다고 봤지만, 특검 수사 단계에서 혐의액이 줄어든 것이다.&lt;br&gt;&lt;br&gt;특검은 이와 관련해 명씨에게는 오는 28일 출석하라고 통지했다. 그러나 명씨 측은 출석요구서를 전달받는 현장에서 “28일 출석이 어렵다고 수차례 말하지 않았느냐”며 출석요구서 수령을 거부했다. 다만 명씨 측은 조사에 아예 불응하겠다는 입장은 아니라고 한다. 특검이 제시한 일정에 맞추기 어려우니 조율이 필요하다는 취지다.&lt;br&gt;&lt;br&gt;특검은 오는 29일엔 윤 전 대통령을, 다음달 6일엔 김건희 여사를 소환해 관련 조사를 진행할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국교회언론회 “특검의 교회 압수 수색, 존중도 예의도 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/S6XHKTMZBFA65F4R7NMYASXYJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/S6XHKTMZBFA65F4R7NMYASXYJE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 12:38:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BBEIIE7ZZTXGOEVZC57QF63YHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국교회언론회 로고.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교회언론회가 21일 “해병 특검의 교회와 목사, 기독교계 방송에 대한 압수 수색은 최소한의 예의도 지키지 못한 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;한국교회언론회는 이날 논평을 통해 “특검은 목사를 참고인이라면서 마치 피의자처럼 변호인 조력도 받지 못하는 상황에서 수색을 자행했다. 이는 명백하게 교회를 탄압하려는 것”이라며 “특검은 무소불위인가”라고 밝혔다.&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹을 수사하는 해병 특검은 지난 18일 김장환 극동방송 이사장과 이영훈 여의도순복음교회 담임목사의 자택과 극동방송, 여의도순복음교회 등 10여 곳을 압수 수색했다. 특검 관계자는 이날 “개신교가 임 전 사단장 구명 로비의 통로일 가능성을 확인 중”이라며 “(로비) 정황이 있어서 압수 수색을 했고, 압수한 결과물 등을 조사해 구체적 내용을 확인할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 한국교회언론회는 “뚜렷한 범법 사실이 확인되지 않는데도 성직자와 신성한 종교 시설을 압수 수색한 것은 종교에 대한 존중심은 말할 것도 없고, 최소한의 예의조차 지키지 못하는 가벼움을 나타낸 것”이라고 주장했다. 이어 “특검이 권력이 세다고 해도 종교를 가볍게 대할 때는 헌법에 보장된 ‘종교의 자유’를 원하는 국민들을 이기지 못한다”며 특검의 사과를 요구했다.&lt;br&gt;&lt;br&gt;한국교회언론회는 개신교계 보수 여론을 대변해온 대언론 단체로 알려져 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>석방된 김용대 드론작전사령관 “더 조사해도 나올 것 없다고 생각”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/YOJTKA4XSNHLBABWJAQMKAAISI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/YOJTKA4XSNHLBABWJAQMKAAISI/</guid>
+      <dc:creator>양인성 기자, 오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 13:22:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM4L46TCE5ZHQKIGDAZY7HRQQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평양 무인기 침투 작전’ 의혹을 받는 김용대 드론작전사령관에 대한 구속영장이 21일 기각된 가운데, 서울구치소에서 대기하던 김 사령관은 구치소를 나오며 “지금 조사한 것 외에는 더 이상 나올 게 없다고 생각한다”고 했다. 지난 18일 밤 긴급 체포된 지 사흘 만이다.&lt;br&gt;&lt;br&gt;김 사령관은 이날 구속영장이 기각된 뒤, 오후 9시 38분쯤 서울구치소 정문을 통해 귀가했다. 옅은 하늘색 와이셔츠 차림의 김 사령관은 비닐봉지에 짐을 담아 한 손에 들고 모습을 드러냈다.&lt;br&gt;&lt;br&gt;허위 공문서 작성 등 혐의를 받는 김 사령관의 구속영장 심사는 이날 오후 3시 서울중앙지법에서 남세진 영장 전담 부장판사 심리로 열렸다. 재판부는 “구속 사유와 상당성을 인정하기 어렵다”며 영장을 기각했다.&lt;br&gt;&lt;br&gt;남 부장판사는 “사실관계는 대체로 인정하고 있고 기본적인 증거들이 수집돼 있다”며 “수사 절차에서의 피의자 출석 상황과 진술 태도, 피의자의 경력, 주거·가족관계, 현 단계에서의 구속은 피의자의 방어권을 지나치게 제한하게 되는 점 등을 고려하면 구속 사유와 상당성을 인정하기 어렵다”고 했다. 김 사령관 측 이승우 변호사는 영장 심사 종료 직후 기자들과 만나 “광범위한 압수수색에 적극 협조했고, 군 장성이며 출국금지 상태인 만큼 도주 우려도 없다”고 했다.&lt;br&gt;&lt;br&gt;특검은 앞서 지난 17일 김 사령관을 소환해 일반 이적, 허위 공문서 작성, 직권남용 등 혐의로 13시간 30분가량 조사했다. 이후 18일 밤 긴급 체포한 뒤, 20일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “주요 혐의 수사 도중 신상과 관련된 긴급 사유가 발생해 불가피한 조치였다”면서도 “피의자에게 당장의 신변 염려가 없으므로 정상적인 소환 조사 등이 가능하다고 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 김용대 드론사령관 구속영장 기각...“구속 사유 인정 어렵다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/HYJHBIGPXVHMRMCBBOCY7HVKYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/HYJHBIGPXVHMRMCBBOCY7HVKYQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 11:34:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XC767G3Q6V3PHLDSSPG7TSO2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평양 무인기 침투 작전’ 의혹을 받는 김용대 드론작전사령관에 대한 구속영장 청구가 21일 기각됐다.&lt;br&gt;&lt;br&gt;남세진 서울중앙지법 영장전담 부장판사는 이날 허위공문서 작성 등 혐의를 받는 김 사령관에 대한 구속영장 실질 심사를 연 뒤 “구속 사유와 상당성을 인정하기 어렵다”며 특검의 영장 청구를 기각했다.&lt;br&gt;&lt;br&gt;남 부장판사는 “사실관계는 대체로 인정하고 있고 기본적인 증거들이 수집됐다”며 “수사 절차에서 피의자의 출석 상황과 진술 태도, 피의자 경력, 주거·가족관계, 현 단계에서 구속은 피의자 방어권을 지나치게 제한하게 된다는 점 등을 종합했다”고 기각 사유를 밝혔다. &lt;br&gt;&lt;br&gt;남 부장판사는 이날 오후 3시부터 2시간 16분가량 김 사령관의 구속 여부를 심리했다. 내란 특검에서는 김형수 특검보와 오상연 부부장검사 등 7명이 출석해, 김 사령관이 평양 무인기 침투 작전으로 ‘대한민국의 군사상 이익을 해쳤다’는 일반 이적(利敵) 혐의를 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 윤석열 전 대통령 등이 정상적인 지휘 체계를 거치지 않고 김 사령관에게 평양 무인기 침투를 직접 지시했다고 보고 있다. 무인기를 날려 북한의 군사 도발을 유도하고 이를 비상계엄 선포의 명분으로 삼으려 했다는 것이다. 김 사령관에 대해선 평양에 무인기를 투입한 사실을 숨기기 위해 부대원에게 허위 문서 작성을 지시했다는 혐의를 수사 중이다.&lt;br&gt;&lt;br&gt;김 사령관 측 이승우 변호사는 구속영장 실질심사를 마친 뒤 기자들과 만나 “대북 작전 문제로 인해 사실관계에 부합하는 형태로 문건 정리하거나 작전 정보를 그대로 문서를 통해 남겨놓지 않은 점이 잘못이라는 점에 대해서는 (재판부에)인정했고 형사처벌을 피하지 않겠다고 했다”고 했다. 그러면서 “광범위한 (특검의) 압수수색에 적극적으로 협조했다”며 “군 장성인 데다 출국 금지도 돼 있어 도주 우려도 없다”고 했다. &lt;br&gt;&lt;br&gt;내란 특검은 지난 17일 김 사령관을 소환해 일반 이적·허위 공문서 작성·직권남용 등 혐의에 대해 13시간 30분가량 피의자 조사를 진행했다. 이어 이튿날 밤 김 사령관을 긴급 체포했고 20일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 “군인·공직자는 명령 따랐을 뿐... 정치 탄압은 나 하나로 족해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/JPVGPTC7VJD4TK3FQILEU4HQVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/JPVGPTC7VJD4TK3FQILEU4HQVQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 11:56:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUB6EFXCRNPQ37647MXS4VURLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 서울중앙지법에 출석하고 있는 윤석열 전 대통령 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 수감 중인 윤석열 전 대통령이 21일 “말도 안 되는 정치적 탄압은 저 하나로 족하다”고 했다. 내란 특검팀이 지난달 18일 수사를 개시한 이후, 윤 전 대통령이 특검 수사에 대해 본인 명의로 공식 입장을 밝힌 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 기자단에 이 같은 내용이 담긴 A4 2페이지 분량의 윤 전 대통령 입장문을 배포했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 입장문에서 “상급자의 정당한 명령에 따랐던 많은 군인들과 공직자들이 특검과 법정에 불려나와 고초를 겪고 있다”며 “저에 대한 정치적 탄압을 넘어서, 죄 없는 사람들까지 고통을 받고 있다”고 밝혔다. 그러면서 “한평생 국가와 국민을 위해 헌신한 이들의 명예를 더럽히고 그들의 삶을 훼손하는 부당한 탄압을 즉각 중단하기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “저는 평생 몸담은 검찰을 떠나 정치에 투신하고 대통령 선거에 출마할 때부터, 스스로 형극(荊棘)의 길로 들어섰음을 알고 있었다”며 “그럼에도 대한민국의 현실을 그대로 두고 볼 수 없어 그 길을 거부하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;비상계엄을 선포한 이유에 대해서는 “대한민국의 자유민주주의와 헌정 질서가 절체절명의 위기 상황이라고 판단했기 때문”이라며 “왜 비상계엄을 결단할 수밖에 없었는지, 지난 (헌법재판소) 탄핵심판 과정에서 국민 여러분께 최선을 다해 설명드렸다”고 했다.&lt;br&gt;&lt;br&gt;특검은 앞서 지난 19일 윤 전 대통령을 직권남용 권리행사 방해 등 혐의로 구속 기소했다. 윤 전 대통령이 소환에 응하지 않고 강제 인치도 불발되자, 추가 조사가 실익이 없다고 판단한 것이다. 해당 사건은 이날 서울중앙지법 형사합의35부(백대현 부장판사)에 배당됐다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “앞으로 형사 법정에서 비상계엄의 진실을 밝히기 위해 최선을 다할 것”이라며 “이미 최고 권력을 가진 대통령이 정권을 찬탈하기 위해 내란을 일으켰다는 주장이 얼마나 터무니없는 것인지 입증하고, 실무장도 하지 않은 최소한의 병력이 무엇을 의미하는지도 분명히 밝히겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 “무엇보다 군인과 공직자들에게 씌워진 내란 혐의가 완전히 부당한 것임을 반드시 증명하겠다”며 “저의 판단이 옳았는지, 비상계엄이 올바른 결단이었는지는 결국 역사가 심판할 몫이라 믿는다”고 했다.&lt;br&gt;&lt;br&gt;구치소 생활의 어려움도 호소했다. 윤 전 대통령은 “저는 지금 참으로 괴롭고 안타까운 심정으로 하루하루를 보내고 있다”면서 “제 한 몸이야 어찌 되어도 상관없지만, 제가 우려했던 일들이 하나하나 현실이 되어가는 모습을 보면서 나라와 국민의 미래가 진심으로 걱정된다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “그럼에도 저는 대한민국을 믿고, 국민 여러분을 믿는다”며 “국민 여러분께서 주권자로서 대한민국의 자유민주주의를 지켜주시리라 굳게 믿는다. 저는 끝까지 국민 여러분과 함께하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>AI교과서 업계 “정부 믿고 수천억 투자한 우리는 어쩌나”</title>
+      <link>https://www.chosun.com/national/education/2025/07/21/UQM6C6ZQ5BE6JBR5PTGMNVVHUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/21/UQM6C6ZQ5BE6JBR5PTGMNVVHUY/</guid>
+      <dc:creator>오주비 기자, 이나윤 (서강대 4학년) 인턴기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 11:38:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5BRBUQQMNAGTMFKNJSVJ5BBTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 서울 여의도 국회의사당 앞에서 AI 디지털 교과서 발행사와 개발사 임직원들 3000여명이 폐지를 반대하는 집회를 열고 있다. 이들은 2조 넘게 정부 예삼까지 들어간 AI 교과서를 써보지도 않고 폐기하는 건 말이 안된다며 사교육비 절감 등 교육격차 해소를 위해 반드시 시행될 필요가 있다고 주장했다. 2025. 7. 21/ 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘AI 디지털 교과서, 교과서 지위 유지하라!’&lt;br&gt;&lt;br&gt;21일 오전 서울 영등포구 국회의사당역 3번 출구. AI 디지털 교과서 발행사와 관련 협력사 등에서 일하는 직원 3000명이 2차선 도로 200m가량을 가득 채웠다. 이들은 30도가 넘는 폭염 속에서 아스팔트 위에 앉아 “교육부는 정책 신뢰 회복하라!”라고 외쳤다.&lt;br&gt;&lt;br&gt;이날 집회엔 교과서 발행사 12곳과 협력사 5곳이 참여했다. 이들은 지난 10일 국회 교육위원회 전체회의에서 통과된 초·중등교육법 개정안에 대해 ‘재검토’를 촉구하기 위해 궐기 대회를 열었다. 이 법안이 본회의까지 통과하면 올 초 학교에 도입된 AI 교과서가 ‘교과서’가 아닌 ‘교육 자료’가 되면서 사용 여부를 학교가 자율적으로 정하게 된다. 이렇게 되면 학교들이 거의 사용하지 않아 사실상 폐기될 수 있다고 업체들은 우려하는 것이다. &lt;br&gt;&lt;br&gt;박정과 천재교과서 대표는 집회 연단에 올라 “출판인들이 국회 앞에 모인 건 역사상 처음”이라며 “정부를 믿고 AI 교과서 개발에 수천억 원을 투자했는데, 이제 와서 교육 자료로 지위를 바꿔버리면 어떡하라는 거냐”고 호소했다.&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;박찬용 아이헤이트플라잉버그스 대표는 “수천억 원을 투자하고 밤을 새워 만든 콘텐츠가 정권 교체로 하루아침에 폐기되는 게 정당한지 의문”이라며 “정책 논의에서 우리를 투명인간, 꼭두각시 취급하지 말라”고 했다.&lt;br&gt;&lt;br&gt;발행사 대표들은 이날 결의문에서 “AI 교과서의 지위를 교육 자료로 격하하는 것은 교육 혁신의 성과를 무력화하고, 대한민국이 미래 교육을 선도할 결정적 기회를 스스로 거부하는 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;업체들이 가장 걱정하는 것은 비용 회수 문제다. 교과서가 학교에 의무 도입된다는 정부 정책을 믿고 업체별로 많은 인원을 채용해 2~3년간 많게는 1000억원을 쏟아부어 AI 교과서를 개발했는데, 현장에서 안 쓰이면 비용 회수가 어려워진다. 발행사에 따르면 AI 교과서에는 발행사들이 투자한 8000억원 외에도 정부가 교사 연수, 인프라 등에 1조2000억원가량을 썼다. 업체들은 “2조원을 투자해 놓고 시행 6개월 만에 법적 지위를 박탈하는 건 엄청난 예산 낭비”라고 주장했다.&lt;br&gt;&lt;br&gt;교육부에 따르면 올해 전국 초·중·고교 1만1932곳 중 32%만 AI 교과서를 사용하고 있다. 지난해 민주당이 AI 교과서 도입을 반대해 올해에 한해 교육부가 자율적으로 사용하도록 했기 때문이다. 교과서인 상황에서도 사용률이 낮은데, ‘교육 자료’가 되면 사실상 폐기될 수 있다고 업체들은 보고 있다. &lt;br&gt;&lt;br&gt;발행사들은 최근 별도 기자회견에서 “현재 업계에서 AI 교과서 관련 일을 하는 직원만 9000~1만명인데, 이들은 정책이 후퇴하거나 폐기되면 다른 업무로 전환이 힘들어 고용 유지가 어렵다”며 “직원들의 생계가 걸린 심각한 상황”이라고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/B5BRBUQQMNAGTMFKNJSVJ5BBTM.jpg?auth=357426e68259075d149e5ffb586cff6c104cc3bc6ff72ac6c449d2f3a5eaaf6e&amp;smart=true&amp;width=6000&amp;height=3856" type="image/jpeg" height="3856" width="6000">
+        <media:description type="plain">21일 서울 여의도 국회의사당 앞에서 AI 디지털 교과서 발행사와 개발사 임직원들 2천여명이 폐지를 반대하는 집회를 열고 있다. 이들은 2조 넘게 정부 예삼까지 들어간 AI 교과서를 써보지도 않고 폐기하는 건 말이 안된다며 사교육비 절감 등 교육격차 해소를 위해 반드시 시행될 필요가 있다고 주장했다. 2025. 7. 21/ 조인원 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">조인원 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>참여연대·민노총도 “강선우 갑질은 치명적...지명 철회하라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/21/FI76D74RLZFDVG7Q5W2FSUZ5YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/21/FI76D74RLZFDVG7Q5W2FSUZ5YQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 10:20:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C76NHDRUGRDLVJDMOAPXRJ4E7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강선우 여성가족부 장관 후보자가 지난 14일 서울 여의도 국회에서 열린 여성가족위원회의 인사청문회에서 의원 질의에 답하고 있다. 2025.07.14 /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 ‘보좌진 갑질 의혹’이 제기된 강선우 여성가족부 장관 후보자 임명을 강행키로 한 가운데, 진보 성향 단체인 민주노총과 참여연대가 강 후보자 지명 철회를 요구하고 나섰다.&lt;br&gt;&lt;br&gt;민주노총은 21일 성명을 내고 “강 후보자는 여성가족부의 존재 이유와 역할에 대한 깊은 이해와 의지가 부족하다”며 강 후보자 지명 철회를 촉구했다.&lt;br&gt;&lt;br&gt;민주노총은 “이재명 대통령은 대선 과정에서 ‘누구도 차별받지 않는 나라, 성별·장애·출신·성적 지향·고용 형태에 따른 차별을 철폐하겠다’는 기조를 밝혔다”며 “그러나 강 후보자 지명은 이런 약속과 배치된다”고 했다. &lt;br&gt;&lt;br&gt;이어 “강 후보자는 보좌진에 대한 갑질 의혹과 거짓 해명 논란은 더욱 심각한 문제”라며 “사회적 약자의 인권을 보호해야 할 여가부 장관 후보가 직장 내 약자에게 부적절한 언행을 하고 그 사실을 은폐하거나 왜곡하려 했다는 의혹은 공직자로서의 자격에 중대한 결함이 있음을 보여준다”고 했다. &lt;br&gt;&lt;br&gt;참여연대도 이날 논평을 내고 “강 후보자 임명 강행은 ‘제 식구 감싸기’로 비판받고 새 정부에 대한 국민의 신뢰를 훼손할 것”이라며 “강 후보자에 대한 지명은 철회돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “강 후보자는 인사청문회에서 보좌진에 대한 ‘갑질’ 해명 과정에서 거짓 해명으로 공직자와 정부에 대한 불신을 키웠다”며 “공적 권한의 사적 남용인 ‘갑질’과 청문회장의 거짓말은 치명적 부적격 사유”라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “현직 의원이라는 점을 제외하고 강 후보자가 여가부 장관에 임명되어야 할 이유를 찾기 힘들다”고 했다.&lt;br&gt;&lt;br&gt;한국여성정치네트워크도 논평에서 “보좌관 갑질, 병원 갑질, 무책임한 강사 활동 등, 고구마 줄기처럼 지면 위로 올라오는 강 후보자의 문제들은 그가 살아온 삶의 태도의 문제를 넘어 공직을 공명정대하게 수행할 수 있는 자질이 있느냐를 의심하게 한다”며 “이 대통령은 하루라도 빨리 강 후보자의 지명을 철회하라. 강 후보자는 보좌관에게 사죄하는 마음을 담아 사퇴하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>물·전기 다 끊겼다... 낮인데도 앞이 캄캄한 산청</title>
+      <link>https://www.chosun.com/national/2025/07/21/QO5MPTIH6JBSHHFUSKBHPCBOQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/21/QO5MPTIH6JBSHHFUSKBHPCBOQM/</guid>
+      <dc:creator>산청=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 10:59:56 +0000</pubDate>
+      <content:encoded>10명이 숨지고, 4명의 실종자가 발생한 경남 산청 집중호우·산사태 사고로 총 1350억원의 재산 피해가 난 것으로 잠정 집계됐다. 피해는 계속 집계하고 있어 규모는 더 커질 전망이다. 2600여 가구에는 아직까지 전기가 들어오지 않고 있다. 550명의 주민은 대피소 생활 중이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSWZQVSZ4EMTBISHJ7UYEW22C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 소방대원과 공무원 등이 경남 산청군 산사태 피해 현장에서 복구 작업을 하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 경남도와 산청군에 따르면 신안면 문대교가 유실되는 등 공공시설 224곳이 파손돼 950억원의 피해가 난 것으로 추산된다. 주택과 농경지 등 324곳이 산사태 등으로 무너지거나 물에 잠겨 400억원의 피해가 났다. &lt;br&gt;&lt;br&gt;지난 19일 이후 7개 읍·면 38개 마을 1344가구에 전기 공급이 끊겼다. 산사태나, 하천이 범람하면서 전신주를 쓰러트렸기 때문이다. 주민들은 낮에도 캄캄한 생활을 하고, 휴대전화 충전도 쉽지 않은 형편이다. 식사 준비에도 어려움을 겪고 있다. 수돗물이 나오지 않아 제대로 씻지도 못하는 주민도 많다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXPAETFORNL6RAXRPSMRLH6FQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;21일 경남 산청군 산청읍 병정마을에서 주민과 자원봉사자가 수해 복구작업 중 흐르는 물로 머리를 씻고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도 시설이 파손돼 물이 끊긴 신안면 문대마을의 한 주민은 “깨끗한 물이 없어 흙탕물로 범벅이 된 손도 제대로 못 씻는 형편”이라고 했다. 소방차가 연신 물을 공급 중이지만 역부족이다. 행정 당국은 현재 약 2500명의 주민이 단수로 불편을 겪는 것으로 보고 민간·소방 급수차 19대를 투입해 물을 공급하고 있다. 22일부터는 수자원공사로부터 지원받은 급수차도 추가로 투입한다. 380가구 550명은 집에 돌아가지 못한 채 대피소 생활 중이다. &lt;br&gt;&lt;br&gt;경남도 등은 실종자 수색에도 총력을 기울이고 있다. 이날 오후 3시 기준 3일간 총 1510명의 인력과 362대의 장비를 현장에 투입했다. 구조된 인원은 136명(구조 65명, 대피 71명), 인명 피해는 사망 10명, 실종 4명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2D6CXV3AJFDXXJPIX7JRPPYL6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 경남 산청군 산청읍 모고리 모고마을에서 구조대원이 실종자 수색을 하고 있다. /산청=김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 수색은 좀처럼 속도가 나질 않고 있다. 무너진 주택 잔해와 산사태 등으로 휩쓸려 온 유실된 토사량이 많아서다. 토사가 흘러간 하천 등으로 수색 범위도 넓어졌다. 다시 찾아온 무더위에 이날 내리고 그치기를 반복한 소나기도 수색을 힘들게 했다. &lt;br&gt;&lt;br&gt;복구도 갈 길이 멀다. 국도 3호선 일부 구간은 여전히 낙석 등으로 막혀 돌아가야 한다. 산청읍에서 차황면을 잇는 친환경로 일부 구간은 지반이 유실돼 끊겼다. 단전·단수 지역 복구 역시 진입에 애를 먹는 현장이 많다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQNDD33GJVIS3EB5MKBP6QKLWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 이재명 대통령이 집중호우로 산사태가 발생한 경남 산청군 산청읍 부리마을에서 피해 상황을 점검하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수색·복구 장기화 우려에 이날 박완수 경남도지사는 산청을 찾은 이재명 대통령에게 “실종자 수색과 이재민 지원, 항구적인 복구를 위해 정부 차원의 적극적인 지원이 절실하다”며 “산청과 합천, 의령 등 피해가 심각한 지역을 특별재난지역으로 선포해달라”고 요청했다. 이승화 산청군수도 “지금 제일 시급한 것은 특별재난지역 선포”라고 건의했다. 이 대통령은 이에 “최대한 빨리 지정할 것”이라고 했다. 윤호중 행정안전부 장관에게는 “재난특별교부금과 신속한 수색, 복구를 위해 인력과 장비를 최대한 지원하라”고도 지시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VXPAETFORNL6RAXRPSMRLH6FQY.JPG?auth=a43352cf7bb51358be117c0b7a9ac51482f5963f3762993f7e6be6aac915a783&amp;smart=true&amp;width=5296&amp;height=3352" type="image/jpeg" height="3352" width="5296">
+        <media:description type="plain">21일 경남 산청군 산청읍 병정마을에서 주민과 자원봉사자가 수해 복구작업 중 흐르는 물로 머리를 씻고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(산청=뉴스1) 윤일지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>구속 심사 마친 김용대 사령관 “압수수색 적극 협조, 도주 우려 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/SXCO4TMKNNBWJNNCQ6EEVK7KRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/SXCO4TMKNNBWJNNCQ6EEVK7KRE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 11:17:40 +0000</pubDate>
+      <content:encoded>12·3 비상계엄과 관련해 북한 무인기 침투 작전에 관여한 혐의를 받는 김용대 드론작전사령관 측이 21일 구속 전 피의자 심문(영장실질심사)을 마치고 “(특검의) 압수수색에 적극적으로 협조했고, 김 사령관은 군인”이라며 도주와 증거인멸 우려가 없다고 강조했다. 구속영장을 발부할 이유가 없다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XC767G3Q6V3PHLDSSPG7TSO2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 사령관 측 이승우 변호사는 이날 오후 영장심사를 마친 후 서울중앙지법에서 기자들과 만나 이같이 밝혔다. 이날 서울중앙지법 남세진 영장전담 부장판사는 오후 3시부터 김 사령관에 대한 영장심사를 진행했다. 내란 특검팀에서는 김형수 특검보, 오상연 부부장검사 외 검사 5명이 참석했다.&lt;br&gt;&lt;br&gt;이 변호사는 “(특검의) 압수수색에 적극적으로 협조했고, 부대에서도 저항 없이 협조 하에 진행됐다”고 밝혔다. 증거인멸의 우려가 없다는 취지다. 도주 우려에 대해서는 “김 사령관은 군인 신분”이라며 “탈영하면 어떻게 되겠나, 도주의 우려는 없다”고 했다. &lt;br&gt;&lt;br&gt;다만 그는 평양에 무인기를 침투시키고 관련 문건에 허위사실을 기재했다는 허위공문서 작성 혐의에 대해서는 “대북 작전 문제로 인해 사실관계에 부합하는 형태로 문건 정리하거나 작전 정보를 그대로 문서를 통해 남겨놓지 않은 점이 잘못이라는 점에 대해서는 (재판부에) 인정했고 형사처벌을 피하지 않겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 특히 “북한을 절차적인 규정대로만 통제할 수 없다”며 당시 작전의 당위성을 주장하기도 했다. 무인기 작전이 정전협정 위반 소지가 있음은 인정하면서도, 북한이 여러 차례 도발을 감행하는 상황을 고려해 ‘군사적 결단’을 내렸다는 취지다. 이 변호사는 “북한은 학교폭력으로 치면 아주 세게 ‘학폭’하는 조직”이라며 “절차에 따른 전학이나 퇴학 등 조치만으로는 문제를 해결할 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;특검은 지난 17일 김 사령관을 형법상 일반이적, 허위공문서 작성, 직권남용 등 혐의의 피의자 신분으로 불러 조사했다. 이어 이튿날인 18일 김 사령관을 ‘심리적 불안 상태’를 이유로 긴급체포하고, 20일 구속영장을 청구했다. 영장에는 허위공문서 작성, 직권남용 혐의 등이 포함된 것으로 전해졌다. 김 사령관에 대한 구속 여부는 이르면 이날 늦은 오후 결정될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 ‘그림자 아이’ 없게… 5개 아동 기관, ‘미등록 희망 포럼’ 출범</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/21/4WXBI575DRBITH2VG3EUYFFSOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/21/4WXBI575DRBITH2VG3EUYFFSOM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 10:31:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFFVMKSNGBHF7EYJDVWXSRDBEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울 종로구 미등록아동지원센터 사무실에서 '이주배경아동지원을 위한 업무협약' 체결식이 열렸다. 김새려 유엔난민기구 한국대표부 대표(왼쪽부터), 조미진 유니세프한국위원회 사무총장, 정태영 세이브더칠드런 총장, 은희곤 미등록아동지원센터 대표, 황병배 기독교대한감리회 선교국 총무가 참석했다./미등록이동지원센터&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국에서 태어났지만 출생신고를 할 수 없어 국적 없이 미등록 상태에 놓인 외국인 아동들의 기본권을 보장하기 위해 국내 5개 기관이 ‘이주배경아동지원을 위한 업무협약’을 21일 체결했다. 이번 협약은 부모의 국적, 법적 지위와 상관없이 한국 영토에서 태어난 모든 아동이 출생 등록을 할 수 있게 하는 ‘출생등록제’ 도입 추진을 골자로 한다.&lt;br&gt;&lt;br&gt;이날 오전 서울 종로구에서 열린 협약식에는 기독교대한감리회 선교국, 미등록아동지원센터, 세이브더칠드런, 유니세프 한국위원회, 유엔난민기구 5개 기관이 참석했다. 이들은 ‘미등록 희망 포럼’을 구성해 출생 등록제 도입과 미등록 아동의 기본권 보장을 위한 활동을 공동으로 추진하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;현행법상 외국인 부모 사이에서 태어난 아동은 한국에서 태어났어도 출생신고를 할 수 없게 돼 있다. 가족관계등록부는 대한민국 국민만을 대상으로 하기 때문이다. 감사원에 따르면 2015~2022년 출생신고 되지 않은 미등록 외국인 아동은 4025명으로 추산된다.&lt;br&gt;&lt;br&gt;출생신고를 못하면 주민등록번호가 없어 교육·보육·의료 등 필수 서비스를 받기 어렵고, 불법 입양이나 인신매매 등 범죄에도 노출될 수 있다. 정부는 미등록 아동을 방지하기 위해 지난해 7월부터 병원에서 아이가 태어나면 관련 정보가 자동으로 지자체에 통보되는 ‘출생통보제’를 시행 중이지만 외국인 아동은 이 대상에서 제외됐다.&lt;br&gt;&lt;br&gt;은희곤 미등록아동지원센터 대표는 “미등록 아동이 사회의 일원으로 살 수 있게 길을 터주고 한국 사회에 공헌할 수 있도록 이끌어야 한다”며 “기본권을 안정적으로 보장하기 위해선 법과 제도를 체계적으로 설계할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘김건희 측근’ 김모씨 배우자, 오는 23일 특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/21/UFXHOMDHG5C7VPGQJZCOAJIMJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/UFXHOMDHG5C7VPGQJZCOAJIMJA/</guid>
@@ -601,24 +699,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/6QIDYXW2FVEVJNPU5CLJHNCPWQ.gif?auth=d61593e30db4906ff00dfaf316e317373ed910b451e4a534361b949c0d74a25b&amp;smart=true&amp;width=1920&amp;height=1080" type="image/jpeg" height="1080" width="1920"/>
     </item>
     <item>
-      <title>강남 가짜 피부과 차려 전신마취제 10억7000만원어치 불법 판매한 조직 9명 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/21/S3PF56GH7BBT5K4VF4XDQFOTQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/S3PF56GH7BBT5K4VF4XDQFOTQQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 02:07:13 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUIGZPA6YNG6ZAYB37BWP7KAVI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 의료용 마약류 전문수사팀(팀장 김보성 강력범죄수사부장)이 불법 판매조직 9명을 검거하면서 투약자 주거지에서 발견한 에토미데이트 등 전문의약품. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 의료용 마약류 전문수사팀(팀장 김보성 강력범죄수사부장)은 전신마취제 ‘에토미데이트’ 불법 유통 사건을 10개월 동안 집중 수사해 약사법 위반 등의 혐의로 불법 판매 조직원 9명(5명 구속)을 기소했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최상위 공급책인 의약품 도매업체 대표 이모(41·구속)씨는 작년 5월부터 8월까지 에토미데이트를 해외에 수출하는 것처럼 허위 신고한 후 국내로 빼돌려 중간 공급책 최모(38·구속)씨에게 3만5000㎖ 분량을 1억원에 판매한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이씨는 약사법상 ‘판매’에 ‘수출’은 포함되지 않아 수출신고를 하면 판매에 관한 규제를 피할 수 있다는 점을 악용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이후 최씨는 공범인 조모(39)씨와 함께 에토미데이트 4만5000㎖ 분량을 2억3500만원에 양모(37·구속)씨에게 팔았고, 양씨와 공범 5명은 서울 강남에 가짜 병원을 설립·운영하면서 작년 5월부터 올 1월까지 총 544회에 걸쳐 에토미데이트 8억8800만원어치를 중독자들에게 판매·투약했다. 이들은 운영·자금 관리·간호조무사 등으로 역할을 분담했고, 중독자를 봤다는 신고를 피하기 위해 자신들 또는 중독자 주거지에서도 작년 11월부터 올 1월까지 13회에 걸쳐 1억8000만원 상당의 에토미데이트를 판매한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;에토미데이트 1개(10㎖)당 원가는 4200원이지만, 최종 판매가는 원가의 47배가 넘는 20만원이었다. 투약자 중 하루 최대 결제액은 79회 투약분에 해당하는 1580만원이었다고 한다.&lt;br&gt;&lt;br&gt;에토미데이트는 의식을 잃게 만드는 전신마취제로 프로포폴과 효능이 유사한 것으로 알려져 있지만, 마약류로 지정돼 있지 않아 지금까지 마약류 관리에 관한 법률 위반 혐의를 적용할 수 없었다. 지난 2월 에토미데이트를 마약류로 지정하는 내용의 시행령 개정안이 입법 예고돼 국회 심사 중이다. 올 3월 숨진 가수 휘성(본명 최휘성)은 2020년에도 에토미데이트를 맞고 쓰러진 채 발견된 적이 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “에토미데이트가 마약류로 지정될 때까지 건강보험심사평가원에 수출용 의약품에 대한 모니터링 개선 등 관리·감독을 강화해달라고 했다”면서 “의료용 마약류는 물론 유사한 부작용을 일으키는 의약품의 불법 유통 범죄에 엄정 대처하는 한편, 범죄에 악용될 수 있는 입법 및 제도 공백을 적극적으로 개선하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘민생쿠폰 기념’ 환경미화원과 아침 식사한 金총리</title>
-      <link>https://www.chosun.com/politics/goverment/2025/07/21/VOXQ3M6SYBHRRO4D7CFBTEFG3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/07/21/VOXQ3M6SYBHRRO4D7CFBTEFG3A/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 02:50:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJI3WMOCHFN4RPQ7PHTIXTQOUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 ‘민생 회복 소비 쿠폰’ 신청 첫날인 21일 오전 서울 노원구 한 식당에서 환경공무관들과 식사하기에 앞서 이야기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리가 21일 이재명 정부의 ‘민생 회복 소비 쿠폰’ 지급 신청이 시작된 것을 기념해 환경미화원들과 아침 식사를 함께 했다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 김 총리는 이날 오전 서울 노원구의 한 순대국밥집에서 노원구 환경공무관(서울 각 구가 채용한 환경미화원) 6명, 금한승 환경부 차관, 오승록 노원구청장 등과 식사를 함께 했다.&lt;br&gt;&lt;br&gt;총리실은 “이번 자리는 민생 회복 소비 쿠폰 신청 첫 날을 맞이해 자영업 현장을 방문해 이야기를 나누고, 깨끗한 환경을 위해 헌신하고 있는 환경공무관들에게 식사를 대접하고자 마련했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 총리는 식당 주인에게 ”24시간 장사를 하는 것이 쉽지 않을 텐데, 민생 회복 소비 쿠폰을 계기로 새벽 시간에도 찾아오는 분이 많았으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이어서 환경공무관들과 식사하며 야간 근무 여건과 안전 사고 예방 조치 등에 대해 이야기를 나눴다.&lt;br&gt;&lt;br&gt;김 총리는 최근 내린 비로 인한 수해도 언급하면서, 오 구청장에게 “우기에 대비해 빗물받이에 있는 담배꽁초 등 쓰레기를 주기적으로 청소하는 것이 중요하다”며 철저한 관리를 당부했다. 또 “기후 변화에 대응하기 위해서는 친환경 청소차 보급이 중요하다”고 강조했다고 총리실은 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김건희특검, 수출입은행 여의도 본점 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2025/07/21/YLAZQZAZ55FOJHTJDNB2HOEWHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/YLAZQZAZ55FOJHTJDNB2HOEWHY/</guid>
@@ -644,18 +724,6 @@
       <description/>
       <pubDate>Mon, 21 Jul 2025 02:58:00 +0000</pubDate>
       <content:encoded>이재명 대통령과 함께 ‘대장동 개발 비리 사건’으로 기소됐던 정진상 전 더불어민주당 대표실 정무조정실장이 혼자 재판을 받게 된 가운데, 증인으로 소환된 대장동 민간업자 남욱 변호사가 출석하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 남 변호사가 정당한 사유 없이 출석하지 않았다며, 다음 기일에도 나오지 않을 경우 ‘강제구인’을 하겠다고 예고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPU4IIVSMZLQ3HZGPXLBUQC6FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;남욱 변호사가 작년 1월 서울 서초구 서울중앙지방법원에서 열린 '대장동 특혜' 관련 특정경제범죄가중처벌 등에 관한 법률위반(배임)등 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 21일 특정범죄가중처벌법상 뇌물 등 혐의를 받는 정 전 실장의 공판을 열었다. 이는 이 대통령의 재판과 분리된 뒤 두 번째로 열린 재판이다.&lt;br&gt;&lt;br&gt;이날 재판에서는 남 변호사에 대한 증인 신문을 진행할 예정이었지만, 그는 법정에 나오지 않았다. 남 변호사는 지난 18일 ‘여러 사건의 피고인 또는 증인으로 나간 이후 생계 문제가 생겼고, 21일부터 제주도에서 회의가 잡혀 있어 증인신문에 참석할 수 없다’는 내용의 불출석 사유서를 재판부에 제출했다고 한다.&lt;br&gt;&lt;br&gt;이에 재판부는 “사유서는 제출됐지만 구체적인 내용이 없고 이를 뒷받침할 석명 자료도 내지 않았다”며 “불출석 사유를 정당화할 사정이 없는 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “증인 소환장이 적법하게 송달됐는지 확인되면 과태료를 부과할 예정”이라며 “다음 기일에 다시 소환하는 데도 출석하지 않으면 강제 구인을 할 예정이라는 점을 미리 말씀드린다”고 했다. 형사소송법상 증인이 과태료 부과 후에도 정당한 사유 없이 소환에 불응하면 강제 구인 또는 7일 이내 감치 등을 할 수 있게 돼 있다. 재판부는 내달 12일 재판을 다시 열기로 했다.&lt;br&gt;&lt;br&gt;남 변호사는 대장동 사업의 민간 업자 중 한 명으로, 화천대유의 자회사인 천화동인 4호의 실소유주로 알려져 있다. 그는 이 대통령의 측근인 김용 전 민주연구원 부원장에게 불법 정치자금 8억4700만원을 건넨 혐의로 1·2심에서 징역 8개월을 선고받고 대법원 판단을 기다리고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘삐끼삐끼’ 이주은, 키움 박수종과 열애설…유출된 ‘네컷 사진’ 보니</title>
-      <link>https://www.chosun.com/national/people/2025/07/21/EHPXLDZVPVD2BPNHWXCE2NGH7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/21/EHPXLDZVPVD2BPNHWXCE2NGH7E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 01:23:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KUECSLSST5GXJPJU6ZR42QVDLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이주은과 박수종으로 보이는 사진./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치어리더 이주은(21)과 키움 히어로즈 소속 프로야구 선수 박수종(26)의 열애설이 불거졌다.&lt;br&gt;&lt;br&gt;21일 온라인 커뮤니티와 여러 소셜미디어(SNS)를 중심으로 이주은과 박수종으로 보이는 네컷 사진이 공유됐다. 공개된 사진을 보면 이주은은 박수종에게 백허그를 하고, 하트 포즈를 하는 등의 모습이 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWBXGUWWHKH7BWFMJGOF57DJOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;치어리더 이주은이 화장을 고친 후 삐끼삐끼 춤을 추고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해당 사진에 대해 양측은 모두 입장을 밝히지 않은 상태다.&lt;br&gt;&lt;br&gt;이주은은 대만에서도 활동하며 큰 인기를 누리고 있는 치어리더이기에, 대만 커뮤니티에서도 해당 사진이 확산되며 현지 팬들의 관심도 이어지고 있다.&lt;br&gt;&lt;br&gt;이주은은 2024시즌 KIA 치어리더로 활동하며 삐끼삐끼 춤으로 큰 인기를 끌었다. 삐끼삐끼 춤은 KIA 투수가 상대 타자를 삼진 아웃시킬 때 치어리더가 추는 짧은 춤으로, 드럼 비트와 디제이(DJ)의 스크래치 연주에 맞춰 엄지손가락을 들고 팔을 흔드는 동작이다. 이주은이 화장을 고치다 무심한 표정으로 이 춤을 추는 영상이 인기를 끌면서 미국 뉴욕타임스(NYT)에도 소개될 정도로 화제를 모았다.&lt;br&gt;&lt;br&gt;이후 이주은은 대만 프로야구단 푸본 엔젤스로 이적했다. 당시 푸본이 이주은을 영입하면서 1000만 대만 달러(약 4억4000만원)를 지급했다는 ‘거액 계약금설’이 나오기도 했다. 올해 4월 이주은은 LG트윈스는 합류 소식도 전하며 한국과 대만을 오가며 활약하고 있다.&lt;br&gt;&lt;br&gt;박수종은 충암고-경성대 출신 외야수로 2022년에 육성 선수로 키움에 입단했다. 올 시즌 29경기에 출전, 39타수 6안타 1홈런 타율 0.154를 기록 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KUECSLSST5GXJPJU6ZR42QVDLM.jpg?auth=0b4e89251123294a961a77d337dc2f345cc593d2e8a5d283cc364e276dc95acd&amp;smart=true&amp;width=705&amp;height=651" type="image/jpeg" height="651" width="705">
-        <media:description type="plain">이주은과 박수종으로 보이는 사진./스레드</media:description>
-      </media:content>
     </item>
     <item>
       <title>김건희 특검, ‘여사 후원업체’ 희림 압수수색...통일교 의혹 관련</title>
@@ -715,16 +783,6 @@
         <media:description type="plain">(인천=뉴스1) 박소영 기자 = 21일 총기 사고가 발생한 인천 연수구 한 아파트 단지에 경찰 수사관이 엘리베이터를 타고 들어가고 있다.  2025.7.21/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(인천=뉴스1) 박소영 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“성장호로몬 주사, 키 크는 주사 아닙니다” 과대광고 단속</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/21/IUHA6RPWZZEZFKGDXA3OQCHLA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/21/IUHA6RPWZZEZFKGDXA3OQCHLA4/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 01:57:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJAN67O2FWPMRDQDQDSWJTKTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/식품의약품안전처
-식품의약품안전처의 성장호로몬 제제  안전사용 카드뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 사회적 관심 품목인 성장호로몬 제제의 올바른 사용을 위해 과대광고 행위를 단속한다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;식약처의 이번 단속은 성장호로몬 제제가 ‘키 크는 주사로’ 잘못 알려져 오용되는 경우를 막기 위한 것이다. 성장호로몬 제제는 소아의 성장부전이나 특발성 저신장증 등 질환 치료를 위한 의약품이지만 키 크는 주사로 잘못 알려져 오용하는 경우가 있다.&lt;br&gt;&lt;br&gt;식약처에 따르면, 해당 의약품은 정상적으로 사용하더라도 주사 부위에 통증·출혈·타박상 등이 발생할 수 있다. 특히 정상인에게 장기간 과량투여하면 거인증, 말단비대증 등 부작용이 발생할 수 있다.&lt;br&gt;&lt;br&gt;그간 식약처는 환자·소비자단체와 협의해 성장호로몬 제제의 안전한 사용 방법을 담은 카드뉴스, 영상 등을 제작·배포하는 등 과대광고를 지속적으로 점검해왔다.&lt;br&gt;&lt;br&gt;앞으로는 병·의원, 약국 등을 중심으로 과대광고 여부 등 현장점검을 실시할 계획이다. 특히 한국의약품안전관리원과 함께 이상사례를 면밀히 모니터링할 예정이다.&lt;br&gt;&lt;br&gt;식약처 관계자는 “앞으로도 국민이 의약품을 안전하게 사용할 수 있도록 의약품의 허가 내 사용 정보를 적극 안내하고 성장호로몬 제제에 대한 안전사용 환경을 조성해 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“협력사 수리기사도 삼성전자서비스 직원”… 12년 만에 대법서 확정</title>
@@ -919,60 +977,6 @@
       <description/>
       <pubDate>Sun, 20 Jul 2025 04:52:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5TNSBVUNVHSPA5QGD5JMFDUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'노쇼' 피해로 나눔한 밥버거./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노쇼 피해를 당한 한 자영업자가 만들어둔 음식 100개를 이웃 주민에게 무료 나눔한 사연이 전해졌다.&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티에는 중고 거래 플랫폼 ‘당근’에 올라온 ‘밥버거 나눔합니다’라는 글이 공유됐다.&lt;br&gt;&lt;br&gt;나눔 글을 게시한 작성자는 “오늘 단체 주문으로 기본 밥버거 100개를 주문받았는데 노쇼를 당해서 지금 나눔 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “전철역 출구 뒷길에 위치하고 있으니 편하게 와서 가지고 가라”며 “1인당 2개까지 드릴 수 있다”고 적었다.&lt;br&gt;&lt;br&gt;이 글은 잠시 뒤 ‘나눔 완료’ 처리가 된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;네티즌들은 “점주분 피눈물 나겠다” “노쇼 강력히 처벌해야 한다” “속상할 텐데 음식 나눔 결정한 마음이 따뜻하다. 번창하시길 바란다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;음식점 노쇼는 고의성 여부에 따라 형사 처벌 대상이 될 수 있다. &lt;br&gt;&lt;br&gt;이와 관련 김민혜 변호사는 지난 5월 YTN 라디오를 통해 “사기죄는 가게 업주 측을 기망해서 재물 또는 재산상 이익을 얻어야 성립되는데, 노쇼의 경우 업주 측을 기망한 것은 맞지만 예약자가 아무런 이익을 얻은 것이 없기 때문에 노쇼를 했다고 해서 바로 사기죄로 처벌받게 되는 것이 아니다”라고 설명했다.&lt;br&gt;&lt;br&gt;또 “업무방해죄도 예약을 허위로 해 영업을 방해할 의도가 인정돼야 한다”며 “예약 당시에 실제로 단체 행사가 예정돼 있었는지, 인원 수 또는 주문한 음식의 양이 실제로 필요한 양이었는지, 혹시 업주 측에 거짓 번호를 전달한 것은 아닌지 등 여러 사정을 종합해 고의 여부를 판단하게 된다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “예약도 ‘계약’이라고 할 수 있기 때문에 예약 후 연락 없이 노쇼한다면 예약자는 손해배상책임을 질 수 있다”며 “손해액 범위에는 준비한 음식값과 인건비, 그리고 예약으로 인해 제대로 다른 손님을 받지 못한 영업 손실도 포함된다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, 이종호 전 블랙펄인베스트 대표 압수수색...“21일 소환 통보”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/19/2QONZNIX4BEBVKT6VWMMVVRCUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/2QONZNIX4BEBVKT6VWMMVVRCUY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 02:26:32 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U2Z7R2ENFXIHNXI3MPPBA5XRXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'김건희 특검'을 지휘하는 민중기 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹들을 수사하는 민중기 특별검사팀이 19일 이종호 전 블랙펄인베스트 대표를 압수수색했다. 이 전 대표는 특검의 수사 대상 중 도이치모터스·삼부토건 주가조작 의혹의 핵심 인물로 지목돼 왔다.&lt;br&gt;&lt;br&gt;특검 측은 이날 “도이치모터스 주가조작 사건을 수사하는 과정에서 인지된 변호사법 위반 혐의로 이 전 대표 주거지 및 차량 압수수색을 실시했다”며 “(이 전 대표에게) 오는 21일 오전 10시 특검에 출석할 것을 통지했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 이날 오전 경기도 성남시에 있는 이 전 대표 자택을 압수수색해 휴대전화 1대를 확보했다. 압수수색영장에는 이 전 대표의 변호사법 위반 혐의가 적시된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;도이치모터스 주가조작 사건의 ‘1차 주포’이자 김 여사 계좌 관리인으로 알려진 이정필씨로부터 수십 차례에 걸쳐 8100만원을 받고 그가 집행유예를 선고받을 수 있도록 힘써줬다는 것이다. &lt;br&gt;&lt;br&gt;순직 해병 특검팀도 지난 10일 이 전 대표의 자택을 압수수색했다. 이 전 대표는 당시 사용하던 휴대전화가 압수되자 새 기기를 마련했는데, 이날 김건희 특검팀이 이를 압수했다. 다만 이 전 대표는 이씨로부터 돈을 받은 적이 없다는 입장인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다음 주는 다시 덥다... 열대야에 소나기도</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/19/NWG3HS7UVJEE7KDCRT7APOCLRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/19/NWG3HS7UVJEE7KDCRT7APOCLRE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 02:37:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFDDWMSZPJFD7ML5DV5G7ONLYU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국을 강타한 비는 주말까지 이어지고 다음 주엔 무더위가 다시 찾아올 전망이다.&lt;br&gt;&lt;br&gt;19일 기상청에 따르면 다음 주(21~25일) 대부분 지역에선 한낮 체감온도가 33도까지 오르고 밤에는 열대야가 나타나는 등 무더위가 이어진다.&lt;br&gt;&lt;br&gt;월요일인 21일 아침 최저기온은 21~27도, 낮 최고기온은 29~34도까지 오를 것으로 예상된다. 22일은 최저기온과 최고기온이 각각 22~27도와 29~34도까지 오르겠다.&lt;br&gt;&lt;br&gt;23일부터 일주일간은 아침 기온이 22~26도, 낮 기온은 30~34도로 전망된다.&lt;br&gt;&lt;br&gt;이처럼 다음 주엔 기온이 평년 기온을 웃돌 것으로 예보됐다. 지상의 공기가 달궈지며 대기가 불안정해지는 오후엔 내륙을 중심으로 소나기가 쏟아지는 날이 많겠다.&lt;br&gt;&lt;br&gt;제주에는 21일 새벽부터 오전까지 5㎜ 안팎의 비가 올 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 조태열 전 외교부 장관 소환조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/19/TZU6DYQGYFHNLKTFNYJVXSGA7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/TZU6DYQGYFHNLKTFNYJVXSGA7M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 01:55:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRXF6GMC2KAWFWHMAW3DCKZ3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄' 관련 내란·외환 사건을 수사하는 내란특검팀 박지영 특검보가 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검이 19일 조태열 전 외교부 장관을 소환했다. &lt;br&gt;&lt;br&gt;특검 측은 이날 언론 공지를 통해 “조 전 장관을 조사 중에 있다”고 밝혔다. 특검은 조 전 장관을 참고인 신분으로 불러 지난해 12월 3일 비상계엄 전후 열린 국무회의 상황을 확인하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>게임 경품으로 사탕·초콜릿 내건 오락실 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/19/JJLOQNYITBCHFOXSNPIIYMBQZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/JJLOQNYITBCHFOXSNPIIYMBQZQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 02:11:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGCKAFCQ5S3ETCH4F7LQ5YOMO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청소년용 게임의 경품으로 초콜릿·사탕을 내건 오락실 운영자에게 벌금형이 내려졌다.&lt;br&gt;&lt;br&gt;서울서부지법 형사7단독 마성영 판사는 게임산업진흥에 관한 법률 위반 혐의로 기소된 오락실 운영자 A(37)씨에게 벌금 100만원을 선고했다. 서울 용산구의 한 오락실을 운영하는 A씨는 청소년용 게임기 3대 안에 초콜릿·사탕 등을 넣어 경품으로 제공한 혐의를 받는다. 현행 게임산업법은 청소년이 이용하는 게임기의 경품으로 유통기한이 있는 물품을 제공하는 것을 금지한다.&lt;br&gt;&lt;br&gt;A씨는 “과자나 사탕은 사행성을 유발하지 않는다”며 “유통기한이 있다는 이유만으로 금지하는 것은 과잉금지원칙에 위배된다”고 했다. 재판부는 이를 받아들이지 않았다. 재판부는 “초콜릿 등 음식물이 경품으로 제공되면 청소년 건강을 해칠 우려가 있고 사행심을 유발할 가능성이 있다”며 “경품이 사행성을 유발할 수 있는지는 물품의 성격이 아니라 청소년 보호라는 법의 취지에 따라 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;“경찰이 영장 없이 오락실을 수색하는 등 부당한 수사를 받았다”는 A씨 주장에 대해서도 재판부는 “오락실은 불특정 다수가 출입하는 장소이기 때문에 경찰이 영장 없이 출입해 (오락실 내부를) 촬영했어도 위법하지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무장관 “수사·기소 분리로 검찰권남용 피해자 나오지 않게 할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/19/6GS4YMHL3NE4NNGVUAGMS6DM5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/19/6GS4YMHL3NE4NNGVUAGMS6DM5U/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 01:59:25 +0000</pubDate>
-      <content:encoded>정성호 신임 법무부 장관이 이재명 정부의 주요 국정 과제인 ‘검찰 제도 개편’을 완수하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DYQ4E2SHPPIDB334VC6BNFXY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 신임 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 지난 18일 임명안이 재가된 직후 자신의 페이스북을 통해 “국민적 공감대가 형성된 수사 기소의 확실한 분리와 제도의 개혁으로 위법 부당한 검찰권 남용의 억울한 피해자가 나오지 않게 하겠다”고 말했다. 그는 또 ”이재명 대통령님의 국민과의 약속인 주권자인 국민의 인권 보호를 최우선으로 해 국민이 편안하고 안전한 나라를 만드는 데 법무 행정력을 집중하겠다”며 “오직 국민만 보고 최선을 다하겠다”고 강조했다. &lt;br&gt;&lt;br&gt;정 장관이 이재명 정부 첫 법무부 장관으로 임명되면서 검찰청에서 직접 수사 기능을 제외한 기소청 또는 공소청 체제로의 전환을 골자로 하는 검찰 제도 개편 작업이 본격화할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 칼부림 나는지 알겠네” 층간소음 경고장 붙인 50대… 벌금형 받은 이유</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/19/WQKVHPIQHFCG3OHLTIAMZKIWVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/19/WQKVHPIQHFCG3OHLTIAMZKIWVM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 19 Jul 2025 01:37:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JIV54PPBVFLBIEINHF46BG2IA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“왜 층간 소음으로 칼부림 나는지 너무나 알 것 같은 밤.”&lt;br&gt;&lt;br&gt;아파트에 이 같은 내용의 층간소음 경고문을 붙인 50대 여성이 협박죄로 1심에 이어 2심에서도 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;19일 법조계에 따르면, 서울중앙지법 형사항소8-1부(차승환·최해일·최진숙 부장판사)는 협박 혐의로 기소된 A씨에게 지난 11일 벌금 80만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2021년 11월 아파트 같은 라인 전 세대의 출입구와 엘리베이터에 위협적인 층간소음 경고문을 붙인 혐의로 기소됐다. 경고문에는 “왜 층간소음으로 칼부림이 나는지 너무나 알 것 같은 밤이다” “이웃을 의심하거나 미워하고 싶지 않다” 등의 내용이 적혔다. &lt;br&gt;&lt;br&gt;또 2023년 6∼12월에도 두 차례에 걸쳐 위층 집 현관문에 메모를 붙였는데, 여기엔 “소음 분쟁으로 인한 소음과 폭력이 남의 일 같지 않다” “피차 종일 집에 있는데 머리통 깨지기 전에 서로 조심 좀 하자” 등의 내용이 담겼다. &lt;br&gt;&lt;br&gt;1심은 A씨가 2021년 11월 붙인 경고문은 무죄라고 보고 나머지 혐의만 유죄로 인정, 벌금 70만원을 선고했다. 다만 2심은 공소사실을 모두 유죄로 보고 A씨에게 벌금 80만원을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 층간 소음으로 이웃 간 살인 등 강력 사건이 빈번하게 발생하는데도 폭력적인 행동을 할 수 있음을 내포하는 메모를 붙인 점을 지적했다. 재판부는 “‘왜 칼부림이 나는지 알 것 같다’는 부분은 그 자체로 강력 사건 가해자에게 공감하고 동조하는 의미인 점, 원하는 바가 이뤄지지 않을 경우 칼부림에 준하는 폭력적인 행동을 할 수도 있음을 내포하고 있다고 해석함이 타당하다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “층간 소음과 그로 인한 강력 범죄가 가지는 사회적 맥락, 게시된 장소, 글의 내용으로 알 수 있는 상대방의 특정 정도 등에 비춰볼 때 이를 단순 경고의 의미로 치부할 수 없다”며 “피고인이 피해자를 비롯해 같은 라인 중 어린 자녀를 양육하는 세대를 대상으로 공포심을 일으키기에 충분한 해악을 고지했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>좋은 건물은 어떻게 지어야 하는가</title>
