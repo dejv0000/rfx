@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>임채무 “두리랜드 190억 빚”…재혼한 아내도 몰랐다</title>
+      <link>https://www.chosun.com/national/people/2025/07/21/CTUXGEWFDJH6XIXCGDQYN5DJOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/21/CTUXGEWFDJH6XIXCGDQYN5DJOA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 06:17:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IPGTBER4EXZAZYOWSXRUB57RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임채무가 자신이 운영하는 경기 양주의 놀이동산 두리랜드에 서 있는 모습./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 임채무가 직접 운영 중인 놀이공원 두리랜드로 인해 약 190억원에 달하는 빚을 지고 있다고 털어놨다. &lt;br&gt;&lt;br&gt;임채무는 지난 20일 방송한 KBS 2TV 예능프로그램 ‘사장님 귀는 당나귀 귀’에 출연해 두리랜드에 얽힌 이야기를 꺼냈다. 두리랜드는 임채무가 1989년 경기도 양주시 장흥국민관광지에 약 130억원을 들여 개장한 놀이 시설이다. 30여 종 놀이기구와 야외 수영장, 아시아 최대 규모 점핑 트램펄린 등 시설을 갖췄다.&lt;br&gt;&lt;br&gt;그가 두리랜드 운영을 포기하지 않는 이유는 그의 소신 때문이다. 임채무는 “드라마 촬영으로 장흥 유원지에 온 적이 있다. 당시 어른들이 마시다 버린 소주병에 아이들이 다치는 걸 보고 ‘나중에 돈을 벌면 가족이 함께 놀 수 있는 공간을 만들어야겠다’고 결심한 것이 두리랜드의 시작”이라고 말했다. &lt;br&gt;&lt;br&gt;임채무는 “하지만 어린이 사업은 돈을 버는 일이 아니다. 기계가 조금만 고장 나도 바로 바꾸다 보니 지금까지도 빚이 있다. 현재 빚이 약 190억원이고, 대출 이자만 월 8000만원, 전기세도 3000만원씩 나간다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “놀이공원 수익만으로는 유지가 안 돼 외부 행사에서 번 돈으로 직원들 월급을 줬다. 40년 가까이 야간 업소 무대도 돌았지만 지금은 그런 행사도, 방송 일도 없다”며 “지금이 가장 어려운 시기”라며 “하루 매출이 16~32만원일 때도 있다”고 했다. &lt;br&gt;&lt;br&gt;다만 “기업이 아닌 개인이 투자해서 놀이공원을 운영하는 것은 두리랜드가 유일하다”며 “돈이 없어서 힘들기는 해도 아이들이 달려와서 안기면 기분이 진짜 좋다. 아이들 웃음 때문에 두리랜드를 포기할 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;임채무의 아내도 이날 방송에 출연했다. 임채무는 첫 번째 부인과 사별한 후 아홉 살 연하인 지금의 아내와 재혼했다. &lt;br&gt;&lt;br&gt;임채무 아내는 “남편이 뭘 하는 사람인지도 몰랐고, 빚이 그렇게 많은지도 전혀 몰랐다”며 “(결혼 후) 놀이동산을 다 헐고 (재오픈 준비를) 하다 보니까 돈이 하나도 없다는 걸 그때 알았다”며 “아무것도 몰랐다”고 말했다. 임채무도 “진짜 그건 몰랐다”라며 미안해했다.&lt;br&gt;&lt;br&gt;임채무 아내는 그와 함께 사는 이유에 대해 “사별하시고 술을 마시면 23층에서 떨어지고 싶다는 생각이 자꾸 들었다더라. 그 말에 마음이 너무 아파서 왔다”라고 말했다. 그러면서 “제가 꽃 한 송이만 달라고 해도 한 번도 안 사줬다. 나중에 해주지 않겠나”라며 웃었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“고수익에 혹해” 보이스피싱 피의자 절반이 2030</title>
       <link>https://www.chosun.com/national/national_general/2025/07/22/MVIGMCEVLVCN5KPCXIB2PSES3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/MVIGMCEVLVCN5KPCXIB2PSES3Y/</guid>
@@ -641,15 +650,6 @@
       <description/>
       <pubDate>Sun, 20 Jul 2025 07:29:46 +0000</pubDate>
       <content:encoded>이영훈 여의도순복음교회 담임목사 측은 20일 해병 특검의 압수 수색 집행 과정에 대해 “위법한 압수 수색”이자 “과잉 수사”라고 반발했다. 해병 특검은 지난 18일 고(故) 채수근 상병의 부대장이었던 임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹에 연루된 혐의의 참고인 신분으로 이 목사 자택, 사무실 등을 압수 수색했었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YD7YT2Q55CMNLK6BYH5KYVOTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영훈 여의도 순복음교회 담임목사 / 조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 목사 측 법률대리인인 강찬우 변호사는 이날 입장문을 내고 “이 목사의 기본 입장은 채 상병 사망 사건과 관련해 관계기관이나 공직자에게 청탁 등 어떠한 언급도 한 일이 없고, 목회자나 기타 어떤 분에게도 이에 대해 언급하거나 부탁한 일도 없으며, 관련자나 교인 누구로부터 기도 부탁을 받은 일조차 없다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;강 변호사는 “특검 (압수) 수색팀 7명은 (지난 18일) 이 목사의 주거지를 수색하면서 당시 혼자 있었던 이 목사의 배우자에게 남편을 포함한 그 누구에게도 전화 통화를 하지 못하게 막았다”며 “이 목사의 배우자는 압수 현장에서 변호인의 조력을 받을 기회를 봉쇄당했다”고 했다. 이어 “이 목사의 배우자는 자신의 권리 보호에 대한 아무런 정보를 획득하지 못한 채 (해병 특검) 수색팀 7명에 의해 주거지를 수색당하고 관련 자료를 압수당했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 강 변호사는 “압수 현장에서의 변호인의 참여권, 변호인의 조력을 받을 권리를 침해당한 위법한 압수수색”이라며 “관련 자료의 즉시 반환과 이러한 위법한 업무 집행을 한 관련자의 인적 사항 공개를 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;또 강 변호사는 특검의 수사 과정 언론 브리핑 실시에 대해 “관련자의 인권을 고려해 필요 최소한도로 운용돼야 할 것”이라며 “특검의 압수 수색은 관련성이 희박한 전화 통화 기록만을 근거로, 피의자가 아닌 참고인의 주거지와 휴대전화를 압수 수색하는 과잉 수사를 행했다. (이를) 브리핑 등에서 공개함으로써 참고인의 명예가 회복하기 어려울 정도로 손상됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>金총리 “기후 재난 일상화… 대통령께 상황 있는 그대로 보고하겠다”</title>
-      <link>https://www.chosun.com/politics/politics_general/2025/07/20/GQ5ABKKIHJBFLAXMIPUZVZWQWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2025/07/20/GQ5ABKKIHJBFLAXMIPUZVZWQWY/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 07:24:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LJ77E2V75LZBO5WM6DXYW77HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 20일 집중호우로 침수 피해를 입은 광주 북구 신안교 일대를 찾아 강기정 광주시장으로부터 피해 현황을 보고받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일부터 계속된 집중호우로 20일까지 26명이 숨지거나 실종된 가운데, 김민석 국무총리가 집중호우로 피해를 입은 광주광역시 북구를 찾았다.&lt;br&gt;&lt;br&gt;국무총리실은 “김 총리가 수해 발생 직후부터 현장을 방문하려 했으나, 관계 공무원들이 재난 대응에 집중하는 것이 우선이라는 판단하에 비가 소강 상태에 접어든 오늘(20일) 현장 점검을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 총리는 인명 피해가 가장 큰 경남 산청에는 이날 오전 송미령 농림축산식품부 장관을 보냈다. 오는 21일에는 윤호중 신임 행정안전부 장관을 보내 현장을 점검하게 할 예정이다.&lt;br&gt;&lt;br&gt;김 총리는 20일 오전 강기정 광주시장과 문인 북구청장, 더불어민주당 전진숙·정준호 의원과 함께 광주 북구 신안교 일대를 찾아, 제방이 유실되면서 벌어진 주택 등의 침수 피해를 확인했다. 김 총리는 “마음은 현장에 빨리 달려가고 싶었는데, 오히려 그것이 공직자들과 복구하시는 분들께 짐이 되지 않을까 싶어 오늘에야 찾아보게 됐다”며 “특히 기후 재난이 일상화되는 상황이라, 저희로서도 이런 상황에 앞으로 어떻게 근본적으로 대처해야 할까 고민을 깊이 하게 된다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 “최우선은 실종되신 분들을 찾고, 사망하신 분들의 유가족을 위로하는 일”이라고 강조했다. 이어 이재민들에게 “침수된 집을 정리하는 일도 저희가 최선을 다해서 함께 해야 할 일”이라고 했다. 이어서 “대통령님께 상황을 있는 그대로 보고드리고, (특별)재난지역 선포 등 당장 피해 지역을 지원하고 어떻게 해결할 것인가 하는 문제도 (방안을) 찾도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 광주 북구 용강동 하신마을로 이동한 김 총리는 딸기 농장 침수 현장을 둘러보고 “한 해 농사를 위해 정성을 다해 가꾼 자식 같은 작물들이 순식간에 물에 잠기고 땀과 희망이 깃든 시설이 무너진 모습을 보니 마음이 무겁고 송구하다”고 했다. 그러면서 “묵묵히 복구 작업을 이어가고 계신 농민 여러분께 진심으로 위로와 존경의 말씀을 드린다”고 했다.&lt;br&gt;&lt;br&gt;딸기 농장을 운영하는 한 농민은 김 총리에게 “같은 면적이라도 재해보험료가 (농장이) 시에 있으면 130만원, 군에 있으면 30만원으로 차이가 많다”며 “개선해달라”고 요청했다. 김 총리는 “합리적 방안을 찾아보겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 마지막으로 같은 마을의 주택 침수 현장을 찾아 이재민들에게 “힘들고 지치시겠지만 부디 희망을 잃지 마시기 바란다”며 “정부가 소중한 삶의 터전을 되찾을 수 있게 끝까지 책임을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 총리는 이날 기자들과 만나 “정부에 민원을 받는 각종 창구가 있는데, ‘투 트랙’으로 총리실에도 하나 더 (마련)해야 할 것 같다”며 “국민이 총리실과 직접 소통하는 창구를 하나 개설해서 입구를 다양화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검 “임성근 구명 로비 의혹, 개신교계·이종호 투트랙 수사” </title>
