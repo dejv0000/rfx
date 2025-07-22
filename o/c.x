@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>미용실 침입해 100만원 훔친 범인 잡고 보니 피해자 ‘남편’</title>
+      <link>https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</guid>
+      <dc:creator>상주=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 10:08:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주에서 심야 시간대 미용실에 침입해 현금을 훔친 절도범이 사건 발생 하루 만에 경찰에 붙잡혔다. 그러나 범인이 다름 아닌 피해자의 남편이자 현직 공무원으로 밝혀졌다. &lt;br&gt;&lt;br&gt;상주경찰서는 야간주거침입 및 절도 혐의로 현직 공무원 A(45)씨를 붙잡아 조사 중이라고 22일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 21일 오전 상주 시내에서 미용실을 운영하는 B씨는 “금고에 보관 중이던 현금 100만원이 사라졌다”며 경찰에 신고했다.&lt;br&gt;&lt;br&gt;수사에 착수한 경찰은 주변 보안카메라 영상을 분석한 결과, 하루 전인 20일 0시 43분쯤 한 남성이 미용실에 침입하고 미용실 금고에서 현금을 꺼내 나오는 장면을 확인했다. 경찰은 이 남성을 유력한 용의자로 보고 추적 끝에 21일 검거했다. &lt;br&gt;&lt;br&gt;그러나 그를 조사하는 과정에서 경찰은 깜짝 놀랐다. 현금을 훔친 범인이 신고를 한 미용실 주인 B씨 남편인 것이다. &lt;br&gt;&lt;br&gt;A씨는 문경소방서에 근무하는 현직 공무원으로 알려졌다. B씨가 신고하기 전까지 자신의 범행을 숨기고 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;도둑을 잡았지만 경찰의 고민은 깊다. 현행 형법 규정된 ‘친족상도례’ 조항 때문이다. 이 조항은 부모, 자식, 배우자 등 친족 간의 재산범죄에 대해 형사처벌을 면제하는 내용을 담고 있다. 아들이 아버지의 승용차를 훔쳐 달아날 경우도 이 법에 따라 처벌할 수 없는 것이다. &lt;br&gt;&lt;br&gt;해당 조항은 지난해 6월 헌법재판소에서 헌법불합치 판결을 받았다. 하지만 아직까지 형법 개정이 이루어지지 않아 효력이 남아 있는 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 범행 경위와 동기 등을 조사하고 있다”며 “향후 법적 조치에 대해선 유관 기관과 협의해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, ‘다이아 목걸이’ 영수증 확보</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/GL5XMBMZWREPNHND236AD2BTV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/GL5XMBMZWREPNHND236AD2BTV4/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 09:35:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM4HOPTGKY5M463VM2MBVBQL2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 배우자 김건희 여사가 10일 오전 경기 성남시 서울공항에 도착해 윤 대통령과 함께 중앙아시아 3개국 순방길에 오르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 세계평화통일가정연합(통일교)이 김 여사에게 전달할 목적으로 구매한 목걸이 영수등을 확보한 것으로 22일 알려졌다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 특검팀은 윤모 전 통일교 세계선교본부장이 구매한 다이아몬드 목걸이와 샤넬백 등의 구매 영수증을 확보하고 있는 것으로 알려졌다. 윤모씨는 2022년 4~8월쯤 해당 목걸이 등을 ‘건진법사’ 전성배씨를 통해 김 여사에게 건넨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이에 대해 통일교 관계자는 “특검이 압수 수색을 벌이기 전에 저희가 해당 영수증을 특검에 제출했다”며 “이같은 구입이 윤 전 본부장 개인 일탈”이라고 주장했다. 통일교 차원의 청탁이 아니라 윤 전 본부장이 스스로 벌인 일이라는 것이다. 앞서 통일교 측은 이같은 이유로 윤 전 본부장을 지난달 출교 조치했다.&lt;br&gt;&lt;br&gt;그러나 윤 전 본부장 측은 “실제로 영수증은 통일교 한국본부 사무실에서 특검에 의해 확보됐다”며 “이는 조직 차원에서 해당 내역이 관리됐음을 의미한다”고 반박했다. &lt;br&gt;&lt;br&gt;앞서 이 사건을 담당했던 서울남부지검은 전씨에게 전달된 목걸이와 샤넬 백을 확보하지 못한 것으로 알려졌다. 전씨는 이 선물들을 김 여사에게 전달하지 않았고, 잃어버렸다는 입장이다. &lt;br&gt;&lt;br&gt;특검팀은 해당 선물들을 찾는 한편 이 선물을 사들이는데 통일교의 자금이 쓰였는지 조사할 계획이다. 특검팀은 지난 18일 가평에 있는 통일교 본부와 서울 용산구에 있는 통일교 한국협회본부, 마포구 통일유지재단 등 10여곳에 대한 압수 수색에 나섰다. 다만 아직까지 목걸이와 샤넬백 등의 실물을 찾진 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘李 대장동 변호사’ 조상호 대통령실 행정관, 법무장관 정책보좌관 내정</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/OKL6SYJ2YJH3NAHFZPMIRLSXTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/OKL6SYJ2YJH3NAHFZPMIRLSXTE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 09:13:20 +0000</pubDate>
+      <content:encoded>‘대장동 개발 비리’ 사건으로 기소된 이재명 대통령의 변호인을 맡았던 조상호(사법연수원 38기) 대통령실 민정수석실 행정관이 법무 장관 정책보좌관에 내정된 것으로 22일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P3V4QLJJRJAGDIWSGIZKBAIQBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;법무 장관 정책보좌관으로 내정된 조상호 대통령실 행정관./MBN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 조 행정관은 지난 21일부터 법무부 청사로 출근하면서 정성호 법무 장관의 업무를 지원하고 있다. 아직 정식 임명이 된 것은 아니지만, 임명이 사실상 확정된 상태인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 행정관은 이 대통령이 당선된 이후 대통령실 민정수석실 산하 사법제도비서관실에서 선임행정관으로 근무하기 시작했다. 그러나 한 달 여 만에 법무 장관 정책보좌관으로 자리를 옮기게 된 것이다.&lt;br&gt;&lt;br&gt;조 행정관은 이 대통령의 대장동 개발 비리 사건을 비롯해 위증 교사 사건, 쌍방울 불법 대북 송금 사건 변호인단에 이름을 올린 바 있다. 그러나 지난달 4일 대통령실로 자리를 옮기면서 사임했다.&lt;br&gt;&lt;br&gt;법무부 안팎에서는 조 행정관이 정책보좌관으로 임명되는 것을 우려하는 목소리가 나온다. 전날 취임식에서 검찰개혁을 완수하겠다는 뜻을 밝힌 정성호 신임 법무 장관을 지근거리에서 보좌하게 될 조 행정관이 검찰개혁을 더 강하게 밀어붙일 수 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아버지가 쏜 총 맞고 숨진 30대 아들...“사인은 장기 손상”</title>
+      <link>https://www.chosun.com/national/incident/2025/07/22/CXZJW7C7LJG3JGFFJKM6P3FGRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/22/CXZJW7C7LJG3JGFFJKM6P3FGRA/</guid>
+      <dc:creator>인천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 09:00:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/37OMPL2WYXT6N7RVPLGOUQEHHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 사제 총기 범행에 사용된 탄환 모습 /인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아버지가 쏜 사제 총탄에 맞아 숨진 30대 아들의 사인이 장기 손상 때문인 것으로 드러났다. 가족들이 함께한 생일 파티 도중에 벌어진 비극이었다.&lt;br&gt;&lt;br&gt;22일 인천 연수경찰서에 따르면 국립과학수사연구원이 이날 부검을 실시하고 “피해자 A(34)씨는 우측 가슴과 좌측 복부(옆구리) 부위 총상으로 장기가 손상돼 사망한 것으로 보인다”는 1차 구두 소견을 경찰에 전달했다. 경찰은 조직 검사와 약독물 검사 등을 통해 정확한 사인을 추가로 확인할 예정이다.&lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 9시 30분쯤 인천 연수구 송도의 한 아파트 33층 자택에서 아버지 B(62)씨가 쏜 사제 총탄에 맞아 숨졌다. 당시 집에는 A씨가 마련한 B씨의 생일잔치가 열리고 있었고, 아내와 자녀 2명도 함께 있었다.&lt;br&gt;&lt;br&gt;경찰 조사에 따르면 B씨는 범행 직후 서울로 도주했고, 이튿날 서울 도봉구 쌍문동 자택에선 시너가 담긴 페트병과 세제통, 우유통 등 인화성 물질 15개와 점화 타이머 장치가 함께 발견됐다. 경찰은 타이머가 21일 정오에 작동하도록 설정돼 있던 사실도 확인했다. 국과수는 “기폭장치가 작동했다면 실제 폭발 가능성도 높았다”는 1차 소견을 전달했다.&lt;br&gt;&lt;br&gt;B씨는 경찰 조사에서 범행 동기를 묻는 질문에 “가정불화가 있었다”는 말 외에는 구체적인 진술을 거부하고 있다.&lt;br&gt;&lt;br&gt;경찰은 살인과 총포·도검·화약류 안전관리법 위반, 현주건조물방화예비 혐의로 B씨에 대한 구속영장을 신청한 상태다. 서울경찰청과 인천경찰청은 프로파일러 2명을 투입해 B씨의 범행 동기와 계획성 등을 추가로 조사하고 있다. 경찰은 특정강력범죄법에 따라 B씨의 신상정보 공개 여부도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“AI 자동매매로 수익 내준다” 230억 사기친 일당</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/6N742N6E7JFJBAVEQICFZ474TE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/6N742N6E7JFJBAVEQICFZ474TE/</guid>
+      <dc:creator>안산=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 08:46:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6FDKNXD6HOQB23MZHGDMEBDDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 안산지청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI)을 이용한 자동매매 방식으로 미국 주식에 투자해 원금 손실 없이 수익을 내주겠다고 속여 280명에게 230억원을 받아 가로챈 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 안산지청은 특정경제범죄 가중처벌 등에 관한 법률상 사기, 유사수신행위법 위반 등 혐의로 총책 A(59)씨 등 5명을 구속 기소하고, 중간 관리책 등 공범 4명을 사기 혐의로 불구속 기소했다고 22일 밝혔다. 또 7억4000만원 상당의 범죄수익에 대해 추징보전 청구했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨 등은 2022년 12월부터 지난해 1월까지 투자 수익을 미끼로 피해자 280명으로부터 230억원 상당을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 범행을 위해 ‘파파코’라는 이름의 실체가 전혀 없는 명의상 회사를 설립했다. 이 유령회사는 인플루언서가 운영하는 투자 블로그, 유튜브, 자체 제작 홈페이지 등을 통해 실제 투자 경험이 있는 것처럼 홍보했다.&lt;br&gt;&lt;br&gt;투자자들에게는 인공지능 학습기법을 이용해 미국 상장지수펀드(ETF)에 투자하고 자동 트레이딩이 이뤄져 원금 손실이 없고 안정적 수익이 가능하다고 속인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 허위 애플리케이션을 만들어 실제 투자 수익금이 발생하고 있는 것처럼 가장하기도 했다.&lt;br&gt;&lt;br&gt;A씨 등 3명은 이미 1심에서 징역 8∼12년을 선고받고 현재 항소심이 진행 중이다.&lt;br&gt;&lt;br&gt;검찰은 지난해부터 경기남부경찰청과 협력해 이 사건을 수사했다. 검찰 관계자는 “피고인들에게 죄에 부합하는 형이 선고되도록 공소 유지에 만전을 기할 것”이라며 “불법 취득한 범죄수익 추징에도 힘쓸 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘불법 선거운동’ 신경호 강원교육감에 징역 3년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/ZU6QSFM4ANBWPH44JTKB6ARY4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/ZU6QSFM4ANBWPH44JTKB6ARY4Y/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>불법 선거운동과 뇌물수수 혐의로 기소된 신경호 강원도교육감에게 검찰이 징역 3년을 구형했다.
+22일 춘천지법 형사2부 김성래 부장판사 심리로 열린 결심공판에서 검찰은 신 교육감에게 징역 3년을 구형했다.
+</description>
+      <pubDate>Tue, 22 Jul 2025 08:19:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLQMBALVM5LJJCAV6WXEZH3WQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 선거운동과 뇌물수수 혐의로 기소된 신경호 강원도교육감이 22일 춘천지법에서 열린 결심공판에 참석한 뒤 차량으로 향하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 불법 선거운동과 뇌물수수 혐의로 기소된 신경호 강원도교육감에게 징역 3년을 구형했다.&lt;br&gt;&lt;br&gt;22일 춘천지법 형사2부(김성래 부장판사) 심리로 열린 결심공판에서 검찰은 신 교육감에게 징역 3년을 구형했다. 또 강원도교육청 전 대변인 A씨에게 징역 3년을, 전직 교사 B씨에게 벌금 500만원을, 나머지 건축업자 C씨 등 3명에겐 징역 6개월을 각각 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “매관매직으로 공정성을 무너뜨렸고, 이는 단순한 위법 행위가 아닌 민주주의를 무너뜨린 범죄”라면서 “선거의 공정성은 절대 가벼이 다뤄질 수 없고 한번 무너진 공정성은 유권자 신뢰를 잃게 되는 만큼 반헌법적이고 반민주적인 행위에 대한 엄벌이 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들의 변호인은 “압수수색을 통해 위법하게 수집된 증거가 증거로 제출됐으며, 검찰이 별건 수사를 통해 녹음 파일이 넘어가 기소가 이뤄져 법적으로 효력이 없고 위법에 해당한다”며 무죄를 주장했다.&lt;br&gt;&lt;br&gt;신 교육감은 최후 진술을 통해 “3년간 열심히 오직 학교 현장을 바꿔보려고 노력만 했다”면서 “지금까지 해왔던 것처럼 흔들림 없이 아이들의 미래를 위해 밤낮없이 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;신 교육감은 지난 2022년 6·1 지방선거 당시 불법 사조직을 만들어 선거운동을 하고 교육감에 당선되면 강원도교육청 소속 공직에 임용시켜주거나 관급 사업에 참여하게 해주는 대가로 금품을 수수한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;선고는 오는 9월 18일 춘천지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대장동 초기 멤버’ 이강길, 분양 사기 2심서 감형 </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/YCKJ2UUEEZE2LCZDJITRUNGQTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/YCKJ2UUEEZE2LCZDJITRUNGQTM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 08:18:48 +0000</pubDate>
+      <content:encoded>대장동 개발 초기 민간 사업자로 알려진 이강길 전 씨세븐 대표가 20억원대 분양 사기 혐의로 2심에서 감형받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZTBAJJJAJHDLONUIFKJVPXPQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동에 위치한 서울중앙지방법원, 서울고등법원,서울회생법원 / 이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 홍지영)는 22일 특정경제범죄 가중처벌법상 사기 혐의로 기소된 이 전 대표에게 징역 6년을 선고했다. 앞서 1심은 징역 7년을 선고했는데, 2심에서 형이 다소 줄어든 것이다.&lt;br&gt;&lt;br&gt;재판부는 “납득하기 어려운 변명으로 일관하며 범행을 부인했고, 피해자들은 경제적 피해뿐 아니라 친한 지인으로 여겼던 피고인에게 실망감과 배신감을 호소했다”면서도 “뒤늦게나마 범행을 모두 인정하고 일부 피해자에게 편취 금액을 반환한 점 등을 종합해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 대표는 2019∼2022년 아파트 분양권 등을 제공해주겠다고 속여 피해자들로부터 20억여 원을 가로챈 혐의로 기소됐다. 이 사건은 대장동 사업과는 직접 관련은 없고, 분양 사기 피해자의 고소로 수사가 시작된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 전 대표는 2009년부터 대장동 민간 개발을 주도한 초기 사업자로 알려져 있다. 대장동 민간업자로 재판을 받고 있는 남욱 변호사, 정영학 회계사 등이 이 전 대표를 통해 대장동 사업에 처음 뛰어든 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이후 이재명 대통령이 당시 성남시장에 당선되면서 대장동 개발 사업이 민관 합동 개발 방식으로 바뀌자, 이 전 대표는 자신의 지분과 경영권을 남 변호사 등에게 넘기고 2011년 사업에서 물러난 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>오요안나 유족 “직장 내 괴롭힘” MBC 동료 “좋은 관계” 법정 공방</title>
       <link>https://www.chosun.com/national/court_law/2025/07/22/3Y7DARTSFZAHND5LCZ76OJFB2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/3Y7DARTSFZAHND5LCZ76OJFB2I/</guid>
@@ -692,24 +757,6 @@
       <content:encoded>▲한국과학기술단체총연합회는 23일 오후 3시 서울 강남구 한국과학기술회관에서 염한웅 기초과학연구원(IBS) 연구단장과 토크 콘서트 ‘과학, 시대를 잇다’를 연다. 국가 과학기술 정책의 역할과 방향, 연구 생태계 발전 방안 등을 소개한다. 행사는 온오프라인으로 열리며 과총 유튜브 채널에서도 볼 수 있다.&lt;br&gt;&lt;br&gt;▲국립과천과학관은 여름방학 특별 전시 해설 프로그램 ‘꼬리에 꼬리를 무는 발견’을 다음 달 24일까지 운영한다. 프로그램은 초등학교 4학년 이상 관람객을 대상으로 하루 5회 운영되며 선착순 현장 접수로 무료 참여할 수 있다.&lt;br&gt;&lt;br&gt;▲보건복지부는 다음 달 20일까지 ‘자살 유족 수기 공모전’을 개최한다. 자살로 가족, 동료, 지인 등을 잃은 이들 가운데 정신건강복지센터·자살예방센터의 사례 관리 등록에 동의한 사람이 참여할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 볼만한 드라마가 없다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/22/RCIA6B7B2BD4FEV2DLCYMODSTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/22/RCIA6B7B2BD4FEV2DLCYMODSTI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EC2ZOTYNRESHIDLZYVD2QNVFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 매각(賣却)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/07/22/XWKO2NR7XJHBZDPWZ6RQAUBOCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/07/22/XWKO2NR7XJHBZDPWZ6RQAUBOCI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7W2XLSWHNFAE7AFLUUSJMZUCLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] be mindful</title>
       <link>https://www.chosun.com/national/nie/english/2025/07/22/MY3CPBDJDJBNFGMBB225SJ3ZII/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/22/MY3CPBDJDJBNFGMBB225SJ3ZII/</guid>
@@ -747,25 +794,6 @@
 /한국노인인력개발원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;센터는 ‘거북이 공장’이라는 시니어 친환경 브랜드도 만들었다. 어르신들이 만든 업사이클링 제품을 공공기관이나 지자체에 판매하고, 그 수익 일부를 노인 일자리 기금으로 환원해 선순환 구조를 마련했다. 특히 어르신들이 직접 수거한 플라스틱 병뚜껑을 활용해 만든 수거 비닐은 국내 최초의 노인용 수거 도구로 평가받는다.&lt;br&gt;&lt;br&gt;센터는 해외 공적개발원조(ODA) 사업도 진행 중이다. 고장 난 장난감을 수리해 인도네시아, 말레이시아, 케냐 등 7국 아동 6000여 명에게 기부하는 사업을 펼쳤다. 환경 교육도 하고 있다. 소속 어르신들이 어린이집과 초등학교를 찾아가 탄소 중립과 자원 순환의 중요성을 알리는 교육을 해왔다. 지금까지 총 255회 교육에 2500여 명이 참여했다. &lt;br&gt;&lt;br&gt;센터를 통해 지금까지 총 2002명의 어르신이 일자리를 얻었다. 현재 부산과 인천에서 5개 센터가 운영 중이며, 전국 17개 시도로 확산할 계획이다. 이렇게 될 경우 연간 탄소 감축량은 510t, 노인 일자리는 약 3만4000개까지 늘어날 것으로 예상된다.&lt;br&gt;&lt;br&gt;한국노인인력개발원은 ‘환경 문제를 해결하는 노인 일자리 모델’을 강조한다. 개발원 관계자는 “단순한 일자리 제공을 넘어, 노인의 역량이 지역과 세대, 지구를 잇는 ESG 실천의 구심점이 될 수 있다”며 “‘쓰임이 다한 것에서 쓰임이 있는 것으로’라는 슬로건처럼, 지속 가능한 미래를 향한 확실한 발걸음이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캔·페트 재활용 플랫폼, 어린이 탄소중립 교육… 녹색 마을 만들었다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/22/3O5IXPJCCFDKRE2WYOS6WOVSG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/22/3O5IXPJCCFDKRE2WYOS6WOVSG4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XELFTMAFSVFTHMJHHTR2GQQHZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경을 보호하고 되살리기 위해 우리 사회 곳곳에서 다양한 방식으로 활동해 온 ‘제33회 조선일보 환경대상’ 수상자들을 소개합니다. &lt;br&gt;&lt;br&gt;자원순환 모델을 구민의 일상 생활 속에 정착시킨 ‘광주광역시 동구’, 쓰임이 다한 공간과 플라스틱을 노인의 손으로 탈바꿈시키는 새로운 일자리 모델을 제시한 ‘한국노인인력개발원’, 최대 6개월 만에 땅에서 완전 분해되는 포장 용기를 개발해 플라스틱 용기 대체에 앞장선 ‘그린패키지솔루션’입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VM7S3XYTDRFWBM7PPBWS5HCSME.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇본선 심사위원&lt;/b&gt;&lt;br&gt;&lt;br&gt;고철환(서울대 명예교수·심사위원장), 이병욱(전 환경부 차관), 이미경(환경재단 대표), 김용건(연세대 국제학대학원 교수), 안세창(환경부 기후탄소정책실장), 유승광(환경부 대변인), 한삼희(전 조선일보 수석논설위원), 신은진(조선일보 사회정책부장)&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>식물성 소재 포장 용기, 자연 분해 비닐… 해외서도 뜨거운 반응</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/22/TZZA336T2FDQTHTLEQNFTBTIJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/22/TZZA336T2FDQTHTLEQNFTBTIJQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:33:00 +0000</pubDate>
-      <content:encoded>그린패키지솔루션은 대나무·사탕수수 등 식물성 소재로 포장 용기를 만들어 기존의 플라스틱 용기를 대체하고 있다.&lt;br&gt;&lt;br&gt;일반적인 생분해 포장 용기와 다른 것은 다 쓴 용기를 땅에 묻었을 때 분해되는 ‘조건’과 ‘속도’다. 통상 시중에 유통되는 적잖은 생분해 플라스틱 용기는 섭씨 58도 이상에서 분해가 시작된다. 땅의 온도가 58도까지 올라갈 일은 거의 없기에 처리에 별도 공정이 필요하다. 종이컵도 액체가 닿는 안쪽의 화학 코팅 때문에 땅속에서 분해되는 데는 20년 정도의 시간이 걸린다. 반면 그린패키지솔루션이 개발한 포장 용기는 상온의 토양에서도 분해가 시작된다. 완전 분해까지는 2~6개월이 걸린다. 최대 반년이면 용기가 자연으로 돌아가는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6WCZQCKGZE7PKLSXG6B7RUG3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울 강남구 그린패키지솔루션 본사에서 안성훈 대표가 식물성 소재로 만든 포장 용기를 들고 있다. 완전 분해까지 최대 6개월이 걸리는 포장 용기는 현재 화장품·식품 등 포장에 쓰이고 있다.
-/그린패키지솔루션&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기존 플라스틱 포장 용기와 견줘 견고함과 보존성에도 큰 차이가 없다. 이에 주로 쓰레기를 매립 처리하는 북미·중국 등에서 이 기술에 대한 반응이 뜨겁다. &lt;br&gt;&lt;br&gt;그린패키지솔루션이 개발한 친환경 포장 용기는 2019년 삼성전자 ‘갤럭시 폴드’의 패키지 공급을 시작으로, 현재는 화장품·식품·의약품 등에 두루 쓰이고 있다. 자체 식품 용기 브랜드 ‘유무’는 밀키트, 도시락, 라면 용기 등에 사용되고 있으며, 대형 마트에서도 일회용기 판매를 시작했다.&lt;br&gt;&lt;br&gt;산업통상자원부의 국책 연구개발 과제에 선정돼 2021년부터 개발을 시작한 친환경 비닐봉투도 최근 개발을 마쳤다. 환경부는 2022년부터 탈(脫)플라스틱 및 재활용 확대 정책을 펴면서 편의점에서 판매하는 비닐봉투를 생분해 비닐봉투로 바꾸도록 했다. 그런데 잘 찢어지는 데다 여러 재질이 섞여 있어 오히려 재활용이 어렵고, 가격도 비싸다는 문제가 있었다.&lt;br&gt;&lt;br&gt;그린패키지솔루션은 이런 기존 생분해 비닐봉투의 단점을 보완해 세계 최초로 자연 분해되는 신소재 비닐과 필름을 개발, 총 6건의 특허 출원을 완료했다. 생산 공정을 자동화하고, 공정 간 효율 개선을 통해 생산 단가를 낮춰 기존 플라스틱 비닐봉투만큼의 가격 경쟁력도 갖췄다. 앞으로 이 소재를 활용한 음식물 소포장 비닐, 음식물 쓰레기 봉투, 종량제 봉투 등이 세상에 나와 일상생활 속에서 사용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>재활용 실천 주민에 포인트 지급… AI 쓰레기 배출함도 제작</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/22/LQ3MCLPYONG3LPKZ3B7NPN2QT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/22/LQ3MCLPYONG3LPKZ3B7NPN2QT4/</guid>
@@ -774,36 +802,6 @@
       <pubDate>Mon, 21 Jul 2025 15:33:00 +0000</pubDate>
       <content:encoded>광주광역시 동구는 ‘이웃이 있는 마을, 따뜻한 행복 동구’라는 슬로건 아래 자원 순환 모델을 구민들의 일상생활 속에 정착시켰다.&lt;br&gt;&lt;br&gt;온라인 플랫폼 ‘동구라미 온(on)’은 구민이 캔·페트(PET)·유리 등 재활용 가능한 자원을 회수기에 넣거나 자원 순환 가게에 가져왔을 때 품목별로 포인트를 지급받을 수 있도록 했다. 수고스러운 분리배출에 보상 개념을 도입한 것이다. 무심코 종량제 봉투에 혼합 배출되던 재활용 가능한 자원이 분리배출돼 다시 쓰임새를 얻게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOVFY3KEGJCH5PBKO3P5VXVHHE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 11월 광주광역시 동구의 ‘순환 생활 기획자’ 프로그램에 참여한 구민들이 마무리 평가 후 단체 사진을 찍고 있다. 광주 동구는 구민을 대상으로 다양한 환경 교육을 하고 있다.
 /광주광역시 동구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종량제 쓰레기를 버리는 곳에는 다른 쓰레기까지 무단 투기돼 악취가 나고, 도시 미관을 해치는 문제가 있었다. 동구는 이 문제를 해결하기 위해 이미지 인식 기술이 적용된 ‘인공지능(AI) 종량제 봉투 배출함’을 도입했다. 이 배출함은 쓰레기를 버릴 때 종량제 봉투를 인식해야만 문이 열리고 닫히도록 설계됐다. 쓰레기를 모아둔 공간에 쓰레기 흔적을 지운 것이다.&lt;br&gt;&lt;br&gt;작년 개관한 ‘친환경자원순환센터’에선 구민을 대상으로 한 환경 교육이 다양한 형태로 이뤄진다. 환경 전반에 대해 다루는 ‘동구라미 환경 교실’, 어린이집을 대상으로 한 ‘탄소 중립 실천 학교’, 구민이 아직 쓸모 있는 물건을 직접 고쳐 사용하는 ‘수리·수선 축제’ 등이 운영되고 있다.&lt;br&gt;&lt;br&gt;센터 1층에 있는 ‘동구라미 카페’는 구민의 휴식 공간이자, 다회용 컵 생활화에 이바지하는 공간이다. 일상 속에서 가볍게 소비하던 카페 안 일회용품을 걷어내고 다회용품 사용을 권장하고 있다. 또 1층 바깥에 비치된 우유팩 회수기는 회수율을 높이기 위해 스마트 수거 시설을 도입, 종이로 잘못 분리배출되거나 종량제 봉투 안에 섞여 버려지던 종이팩 재활용률을 높였다. 이 시설을 관리하는 건 지역 어르신들로, 쓰레기 줍기 등 단순 업무에서 벗어나 양질의 일자리를 제공하고 있다.&lt;br&gt;&lt;br&gt;산수2동에 있는 ‘꼬두메 자원 순환 시범 마을’은 환경부 공모 사업인 ‘스마트 그린 도시’를 구현한 곳이다. 마을의 목표는 ‘쓰레기 없는 마을’을 만드는 것이다. ‘순환 생활 기획자’ ‘자원 순환 생활 실험’ 등 활동을 통해 구민 스스로 쓰레기 배출량을 감량하는 데 앞장서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [위인과 정신건강] 전기 치료 받을 만큼 힘들었던 헤밍웨이… 글쓰기로 정신적 고통 견뎠죠</title>
-      <link>https://www.chosun.com/national/nie/2025/07/22/D6THUFENQ5EA7L2TOFGHN6LPWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/22/D6THUFENQ5EA7L2TOFGHN6LPWI/</guid>
-      <dc:creator>이헌정 고대 안암병원 정신건강의학과 교수</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>“세상은 사람에게 상처를 준다. 하지만 어떤 이는 그 상처 덕분에 더 강해진다.”&lt;br&gt;&lt;br&gt;이 말은 미국의 작가 어니스트 헤밍웨이(1899~1961)의 소설 ‘무기여 잘 있거라’에 나오는 대사입니다. 동시에 이는 작가 헤밍웨이의 삶이 녹아 있는 말이기도 해요. 헤밍웨이는 미국 시카고 근처의 조용한 마을에서 태어났어요. 어릴 때부터 숲과 호수에서 사냥과 낚시를 하며 자연을 가까이했고, 예술도 좋아했어요. 하지만 집안 분위기는 그리 편하진 않았답니다. 아버지가 의사였지만 우울증을 앓았고, 성악가였던 어머니는 무척 엄격했어요. 그래서 헤밍웨이는 자신의 감정을 자유롭게 표현하기보다는 조용히 참는 법을 먼저 배웠어요. 겉으로는 활달했지만, 속마음에는 말하지 못한 생각들이 차곡차곡 쌓여갔지요. 바로 그 감정들을 풀어내기 위해 그는 혼자 글을 쓰기 시작했어요. 글은 그가 입 밖으로 내지 못한 말들을 대신해주는 도구였던 겁니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5YX47AEBBD4VARH7GFIZKHJFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학생이 된 헤밍웨이는 본격적으로 학교 신문에 글을 쓰며 작가의 꿈을 키웠어요. 졸업한 뒤에는 대학에 가지 않고 신문사에서 기자로 일했어요. 이곳에서 짧으면서도 전달력 있는 문장을 쓰는 훈련을 하면서, 간결하고도 힘이 있는 자신만의 문체를 만들어 갔지요.&lt;br&gt;&lt;br&gt;열아홉 살이 되었을 때 헤밍웨이는 구급차 운전병으로 자원해 전쟁터로 나갔어요. 당시는 제1차 세계대전 중이었죠. 헤밍웨이는 전장에서 많은 부상자를 보며 큰 충격을 받았고, 본인도 크게 다쳤어요. 이때의 경험은 나중에 소설 ‘무기여 잘 있거라’에 담기게 되었지요.&lt;br&gt;&lt;br&gt;그는 세계 여러 나라를 여행하며 글을 썼어요. 전쟁터에서도, 바다 한가운데에서도, 호텔 방 작은 책상 앞에서도 말이에요. 어디에 있든 “나는 지금도 글을 쓰고 있다”라는 사실이 그 자신에게는 큰 힘이 되었어요. 그는 하루에 몇 시간씩은 서서 글을 썼고, 어떤 날은 단 한 문장을 위해 수십 번이나 고치고 또 고쳤어요.&lt;br&gt;&lt;br&gt;그에게 글쓰기는 마음속 아픔을 이겨내는 방법이었어요. 사실 그는 어려서부터 늘 불안을 겪으며 살았어요. 성인이 되어서도 여러 번 결혼과 이혼을 반복하고, 알코올중독에 빠져 술에 의지했어요. 시간이 지날수록 감정의 기복, 피해망상과 조울증 증상을 보였고, 말년에는 전기 치료를 받을 만큼 힘든 시간을 보내야 했어요. 술은 일시적인 피난처였지만, 결국 더 깊은 고통의 구렁텅이로 빠져들게 만들었어요.&lt;br&gt;&lt;br&gt;그의 대표작 ‘노인과 바다’는 바다에서 거대한 물고기와 싸우는 노인의 이야기예요. 하지만 사실은 세상과 싸운 헤밍웨이의 이야기일지도 몰라요. 소설 속 주인공 노인은 이렇게 말합니다. “사람은 절대 패배하지 않아. 부서질 수는 있어도, 무너지지 않아.” &lt;br&gt;&lt;br&gt;그에게 글쓰기는 현실을 견디게 하는 방패였고, 상처를 봉합하는 실이었어요. 그의 고통은 문장으로 짜였고 그가 쓴 글은 사람들에게 상처를 견디는 법을 보여주었지요. 사람은 절대 무너지지 않는다는 말은 우리가 아프고 흔들릴 수는 있지만, 다시 일어설 수 있다는 믿음이기도 해요. 헤밍웨이는 그 믿음을 삶과 글로 증명한 사람이었어요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] 높은 산맥을 넘어온 바람은 왜 뜨겁고 건조해질까?</title>
-      <link>https://www.chosun.com/national/nie/2025/07/22/SU4PJTUDEFH63IJE6PBKZFPJFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/22/SU4PJTUDEFH63IJE6PBKZFPJFY/</guid>
-      <dc:creator>장동언 기상청장</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWHB3QET6RALPINZQIMZHO2XSU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 날씨가 무척 더웠지요? 바람이 부는데도 시원하지 않고, 오히려 더 뜨겁게 느껴지는 날도 있었어요. 이렇게 더운 바람이 불어 기온이 크게 오르면, 뉴스에서 자주 등장하는 표현이 있어요. 바로 ‘푄(föhn) 현상’입니다. 오늘은 산과 바람이 함께 만들어 내는 신기한 자연 현상, 푄 현상에 대해 이야기해 볼게요.&lt;br&gt;&lt;br&gt;푄 현상은 바람이 높은 산을 넘으면서 뜨겁고 건조한 바람으로 바뀌는 현상이에요. 마치 헤어드라이기에서 나오는 바람처럼요. 처음엔 공기가 시원하고 습한 상태로 산을 타고 올라가지만, 산을 넘은 뒤에는 성질이 완전히 달라져요. 공기가 따뜻해지고, 습기까지 사라져서 뜨겁고 메마른 바람으로 변하지요. 그래서 산 건너편 지역 기온이 갑자기 오르고, 건조한 날씨가 나타나게 됩니다.&lt;br&gt;&lt;br&gt;‘푄’이라는 말은 유럽에서 유래했어요. 스위스와 오스트리아 사람들은 오래전부터 산을 넘은 뒤 따뜻하고 건조해진 바람을 ‘푄’이라고 불러왔습니다. 이 바람이 불면 기온이 갑자기 올라 눈이 빠르게 녹기도 하고, 꽃이 평소보다 일찍 피었다고 해요. 하지만 너무 뜨겁고 건조하다 보니 농작물이 말라버리는 피해가 생기기도 했답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P23ZHPFA2JCMHFX7DW7YDKQZRQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;산맥 넘으며 뜨거워지는 바람, 원인은 수증기&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 바람은 왜 산을 넘을 때 더 뜨겁고 건조해질까요?&lt;br&gt;&lt;br&gt;이유는 공기 속에 들어 있는 ‘수증기’ 때문이에요. 높은 산 정상에 올라가 보면, 산 아래보다 훨씬 춥다고 느낀 적이 있을 거예요. 산 위로 올라갈수록 기압이 낮아지는데, 이렇게 되면 공기 덩어리가 점점 퍼지면서 차갑게 식어요. 공기가 식으면, 그 안에 있던 수증기가 응결되면서 구름이 되거나 비로 내리죠. 다시 말해 공기는 산을 올라가면서 점점 수분을 잃게 되는 거예요. &lt;br&gt;&lt;br&gt;그럼, 이 공기가 산을 넘어 반대쪽으로 내려갈 때는 어떻게 될까요? 높이가 낮아지면 기압이 다시 높아지면서 공기가 눌리고 따뜻해져요. 그런데 이때는 산을 올라갈 때와 중요한 차이점이 하나 있어요. 바로 공기 속에 수증기가 거의 남아 있지 않다는 겁니다.&lt;br&gt;&lt;br&gt;산을 오를 때는 공기 속 수증기가 공기가 식는 속도를 늦춰주는 역할을 하죠. 수증기가 식으면서 물방울이 될 때, ‘잠열’이라는 따뜻한 에너지를 내놓기 때문이에요. 하지만 산을 넘을 땐 이미 수분이 거의 빠져나간 상태가 됩니다. 건조한 공기는 훨씬 더 빨리 뜨거워지는데, 예를 들어 냄비를 한번 생각해보세요. 냄비에 물을 가득 넣고 불을 올리면, 뜨거워지기까지 시간이 좀 걸리죠? 물이 열을 흡수하면서 천천히 데워지기 때문이에요. 그런데 빈 냄비는 금방 뜨거워집니다. 수분이 없으니 열이 바로 냄비에 전달돼 빠르게 달아오르는 거죠.&lt;br&gt;&lt;br&gt;공기도 마찬가지입니다. 수증기가 많은 공기는 열을 흡수하며 천천히 따뜻해지고, 건조한 공기는 열을 식혀 줄 수 있는 것이 없으니 훨씬 빨리 데워지는 겁니다. 그래서 산을 내려온 공기는 올라갈 때와 같은 높이에 있더라도 더 따뜻하고 더 건조해진 상태가 되는 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;높고 길쭉한 태백산맥에서 생겨&lt;/b&gt;&lt;br&gt;&lt;br&gt;“우리나라 국토의 70%가 산지인데, 그럼 우리 동네도 푄 현상이 나타나는 걸까?” 이런 생각이 들 수도 있겠네요. 하지만 푄 현상이 모든 산에서 일어나는 것은 아니에요. 푄 현상이 일어나려면 먼저 높고 길게 이어진 산맥이 있어야 한답니다. 바람이 산 옆으로 새지 않고 그대로 산을 넘어가야 하기 때문입니다. 그래서 우리나라에서 푄 현상이 잘 나타나는 대표적인 곳이 바로 강원도의 태백산맥이에요. 태백산맥은 산도 높고 남북으로 길게 뻗어 있어서, 바람이 다른 방향으로 새기 어렵거든요. 제주도의 한라산은 높긴 하지만 옆으로 빠져나갈 수 있고, 지리산 역시 산맥 중간중간 바람이 샐 수 있는 통로가 있어서 푄 현상이 강하게 나타나기 어려워요.&lt;br&gt;&lt;br&gt;푄 현상은 봄과 여름에 나타나요. 봄이 되면 남쪽에서 따뜻하고 건조한 바람이 우리나라 쪽으로 불어오기 시작해요. 이 바람은 원래부터 건조한 성질을 가지고 있는데, 태백산맥을 넘으면서 더 뜨겁고 건조해져 동해안 지역에 영향을 줍니다. 이 바람을 ‘양간지풍’이라고 해요. 양양과 강릉 사이에서 불어오는, 뜨겁고 건조하며 강한 바람을 가리키죠. 봄철 양간지풍은 강원 영동 지역에 강하게 불면서, 기온을 높이고 공기를 바싹 마르게 해서 산불이 나기 쉬운 조건을 만들어요. 이로 인해 작은 불씨가 순식간에 번져 대형 산불로 이어지기도 합니다. 2019년 4월 발생한 강원도 고성·속초 산불도 양간지풍으로 인해 빠르게 퍼지며 곳곳에 큰 피해를 남겼던 대표적인 사례랍니다.&lt;br&gt;&lt;br&gt;반대로, 동풍이 불 때도 푄 현상이 생길 수 있어요. 이때는 한반도 북동쪽 바다에서 불어온 바람이 태백산맥을 넘으며 뜨겁고 건조해지는 거예요. 이 때문에 강원도 서쪽 지역(영서)뿐 아니라 수도권이나 충청, 전라도 지방 기온이 급격히 오르게 됩니다. 이런 동풍은 예전부터 ‘높새바람’이라고 불러 왔지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;영동·영서 지방 모두 영향 주죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 우리나라에서는 푄 현상 때문에 강원도 동쪽(영동)과 서쪽 지역에서 번갈아 가며 폭염이 나타나는 일이 있었어요. 먼저 지난 6일에는 남서풍이 불었는데, 뜨겁고 습한 공기가 태백산맥을 넘으며 동해안 지역의 폭염을 부채질했어요. 이 바람이 강원도 삼척에 도착하자 삼척 기온은 무려 39도까지 올랐어요.&lt;br&gt;&lt;br&gt;그런데 며칠 뒤인 8일에는 동풍이 불었어요. 동풍은 바다에서 불어오기 때문에, 동해안은 바닷바람 덕분에 시원해졌어요. 하지만 이 공기가 태백산맥을 넘어가면서 서쪽 지역엔 푄 현상이 생기며 더워지는 정반대 상황이 벌어졌답니다. 특히 이날 경기도 광명은 40.2도까지 오르며 올여름 가장 높은 기온을 기록했었지요.&lt;br&gt;&lt;br&gt;푄 현상은 겨울에 나타나기도 하죠. 우리나라 동해안 도시들이 겨울에도 영상의 따뜻한 날씨가 이어지는 때가 있는데, 이게 바로 푄 현상의 영향 때문이랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VWCXULN3GBCF7NFCUPRZ7IZBBA.png?auth=a8ca288fb1048637a381d85c5e8a34000147db4c40be8880983c65630cb3e8e1&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">그래픽=진봉기</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] “곤장 때리는 처벌은 너무 가볍다” 조선에선 스승 비방이 ‘중죄’였죠</title>
-      <link>https://www.chosun.com/national/nie/2025/07/22/QB4FEKYPRFDCDKXP3ATYMFGKDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/22/QB4FEKYPRFDCDKXP3ATYMFGKDU/</guid>
-      <dc:creator>이한 작가·'한잔 술에 담긴 조선’ 저자</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LS5HAO4TU5GCBI27BJTWUYNJEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선 시대의 학교란 어땠을까요? 우리가 상상하는 것처럼, 학생들이 모두 단정한 자세로 앉아 있고 선생님은 엄격하게만 가르쳤을까요? &lt;br&gt;&lt;br&gt;사실 조선 시대에도 오늘날과 다르지 않은 모습들이 있었습니다. 조선 시대의 최고 교육 기관인 성균관의 대사성(성균관의 장)을 지냈던 퇴계 이황이 쓴 기록엔 이런 말이 나오죠. “요즘 학생들은 스승 보기를 지나가는 사람처럼 보고, 학교에 스승이 들어오면 가르침을 청하기는커녕, 벌렁 드러누워 흘겨보고, 옷 핑계를 대며 아예 학교에 나오지 않는다.”&lt;br&gt;&lt;br&gt;그가 기록한 학교의 풍경은 분명히 수백 년 전인데도 어쩐지 좀 익숙해 보이죠? 율곡 이이는 학생들에게 “선생을 보면 공손하게 인사를 해야지 도망가서는 안 된다”고 당부를 하기도 했습니다. 선생님을 마주치면 인사도 하지 않고 쏜살같이 사라지는 학생들이 그때도 있었던 것 같아요.&lt;br&gt;&lt;br&gt;이뿐 아니라 제자가 스승을 모함하거나, 비방하는 대자보를 써붙이는 등 오늘날 종종 뉴스에서 접할 수 있는 ‘교권 침해’ 관련 사건이 발생하기도 했어요. 하지만 이 같은 경우엔 엄한 처벌이 뒤따랐습니다. 성종 때 조정의 중신들은 스승을 비웃는 글을 쓴 학생의 처벌을 논의한 적이 있는데, 신숙주를 비롯한 일부 신하는 “곤장 처벌은 너무 가볍다”며 학생들을 군대에 보내버리자는 주장까지 했습니다. &lt;br&gt;&lt;br&gt;조선 시대에도 촌지 사건과 불공정 이슈가 불거지기도 했어요. 대표적인 사례가 1791년(정조 15년) 성균관에서 벌어진 제자들과 선생님 간 충돌이었어요. 당시 선생님이 촌지를 받고 시험 결과를 조작한 일이 발단이었답니다. 이 때문에 흥분한 학생들이 선생님을 붙잡고 대사성에게 몰려가 고함을 질렀다고 해요. 발단 원인을 떠나서 제자가 스승을 위협한 일이었던 만큼 당시 온 나라가 발칵 뒤집히는 등 조선 사회에 커다란 충격을 줬다고 합니다. 제자들 중 주동자는 유배를 가고, 해당 선생님은 파직을 당했습니다.&lt;br&gt;&lt;br&gt;그럼에도 조선 시대에 훌륭한 스승과 제자는 꾸준히 있었습니다. 다산 정약용은 유배지에서도 학문 활동을 멈추지 않았습니다. 그 곁을 지킨 제자 18명은 그가 책을 쓰는 것을 도왔고, 덕분에 다산은 수백 권에 달하는 많은 저술을 남겼습니다. 유학자 김장생은 스승 송익필이 위기에 처했을 때 그를 숨기고 지키며 평생 은혜를 잊지 않았지요. &lt;br&gt;&lt;br&gt;앞서 성균관의 학생들을 보고 한탄했던 퇴계 이황 역시 위대한 스승이었어요. 그는 자신보다 어린 제자와 후배들에게 언제나 예의를 갖추고 정성껏 가르쳤고, 그 덕에 유성룡과 김성일을 비롯한 뛰어난 제자들이 나올 수 있었습니다. 지금까지도 도산서원에서는 퇴계 이황을 기리고 있지요.&lt;br&gt;&lt;br&gt;지금도 어디선가는 좋은 스승과 좋은 제자가 서로 만날 수 있는 순간만을 기다리고 있을 것입니다. 비록 세상이 엇나가고 잘못되어 가는 것 같아도, 냉소와 한탄보다는 더 나은 교육을 위한 희망과 실천이 필요한 때입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 안 쓰는 비누는 변기 물탱크에</title>
