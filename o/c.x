@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“국회의원 만나러 왔다” 공포탄 들고 국회 찾은 80대 男 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/22/JUFUM4SG3RGSVENNDQOUUGUUBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/JUFUM4SG3RGSVENNDQOUUGUUBM/</guid>
+      <dc:creator>한영원 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 13:55:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5G57E7RYYZWMSBYHHVYAD5XIIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 여의도 국회의사당 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“국회의원을 만나러 왔다”며 수백발의 공포탄을 들고 국회를 찾은 80대 남성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 22일 오전 8시쯤 공포탄을 가지고 국회 경내에 진입하려던 80대 남성 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 총기 없이 공포탄만 소지한 채 서울 여의도 국회 경내에 진입하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 가져온 수백발의 공포탄은 건설 현장에서 쓰이는 타정총용 공포탄인 것으로 알려졌다. 사제 탄알은 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;공포탄을 소지한 A씨는 “국회의원을 만나러 왔다”며 국회로 진입하려고 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 가져온 공포탄이 절도한 것인지 등 구체적인 사건 경위를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“수업 방해 않겠다” “성실히 듣겠다”... 복귀 의대생, 서약서 쓴다 </title>
+      <link>https://www.chosun.com/national/education/2025/07/22/CSCROCA6ZBAPHJE4H3MNGFI2AQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/22/CSCROCA6ZBAPHJE4H3MNGFI2AQ/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 13:10:38 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RY5LTYPWS5LV3M22S6AIBCRJ2Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울의 한 의과대학에서 의대생이 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집단 휴학을 끝내고 학교에 돌아가기로 한 의대생들에게 각 의대가 ‘향후 학교 수업을 성실히 듣겠다’는 서약서를 받기로 했다. &lt;br&gt;&lt;br&gt;22일 대학가에 따르면 전국 40개 의대 학장단 모임인 한국의과대학·의학전문대학원협회(KAMC)는 최근 회의를 통해 이 같은 사안에 대해 합의했다. KAMC는 서약서 공통 양식을 마련해 각 학교에 제공했다. 서약서에는 복귀 의대생들이 향후 학교 수업을 성실히 듣고, 이미 복귀한 의대생들의 수업을 방해하지 않겠다는 내용이 담겨 있는 것으로 알려졌다. 또 서약서 내용을 어길 시 학칙에 따라 학교 측의 처벌도 받겠다는 문구도 포함됐다. &lt;br&gt;&lt;br&gt;전북대는 이날 수업 복귀를 앞둔 의대생들에게 ‘집단 따돌림’ 등 부당한 행위를 하지 않는다는 내용 등을 담은 서약서를 발송했다. 다른 의대도 이와 같은 내용의 서약서를 복귀 의대생들에게 보낼 예정이다.&lt;br&gt;&lt;br&gt;서울 한 의대 학장은 “원칙대로 유급 처분을 하지만 특혜라는 부정적 여론이 많은 만큼 의대생들에게 향후 학교 생활을 잘하겠다는 확실한 다짐을 받는 절차가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란특검, 25일 이상민 전 장관 소환 통보</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/ZC4QMJK4ENGJPB2D7LOBAVXAMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/ZC4QMJK4ENGJPB2D7LOBAVXAMM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 12:29:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOYGO7WKPEBGVZNTZAZVOMPSOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 11일 오전 서울 종로구 헌법재판소에서 열린 윤석열 대통령 탄핵 심판 7차 변론기일에 증인으로 출석해 질문에 답변하고 있다. (헌법재판소 제공) 2025.2.11/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 이상민 전 행정안전부 장관에게 오는 25일 피의자 신분으로 출석하라고 통보했다. 이 전 장관은 계엄 당시 윤석열 전 대통령의 지시에 따라 특정 언론사를 상대로 단전·단수를 소방, 경찰 등에 지시한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난 17일 이 전 장관의 자택과 행안부 사무실, 소방청, 서울소방재난본부 등을 압수수색했다. 이어 18일엔 황기석 전 서울소방재난본부장을, 22일엔 이영팔 소방청 차장을 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;앞서 이 전 장관은 계엄 당일 밤 11시 34분 조지호 당시 경찰청장에게 전화를 걸어 관련 조치 상황을 확인한 뒤, 3분 뒤인 11시 37분 허석곤 소방청장에게 전화해 단전·단수 등 지시를 내린 것으로 파악됐다. 이후 이영팔 소방청 차장과 황기석 전 서울소방재난본부장에게도 해당 지시가 전달됐다. 특검은 이 전 장관을 상대로 계엄 당시 단전·단수 지시가 내려진 경위 등을 집중 조사할 전망이다.&lt;br&gt;&lt;br&gt;이 전 장관은 그간 수사기관과 헌법재판소 탄핵심판에서 ‘윤 전 대통령으로부터 해당 지시를 받은 적이 없고, 경찰이나 소방에 지시를 내린 사실도 없다’는 취지로 증언해 왔다. 특검은 이 전 장관이 위증을 한 것으로 보고, 거짓 진술 여부도 함께 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;이 전 장관은 계엄 해제 당일 이른바 ‘삼청동 안전가옥(안가) 회동’에 참석한 인물이기도 하다. 당시 회동에는 이 전 장관을 비롯해 김주현 전 민정수석, 박성재 전 법무부 장관, 이완규 법제처장 등 윤석열 전 대통령의 핵심 참모 4명이 자리한 것으로 알려졌다. 이를 두고 회동에서 계엄 수습 방안 등을 모의한 것 아니냐는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김계환 前 해병사령관 구속영장 기각…“증거인멸 우려 없다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/22/4BQVQKXMURALXCHOZRLF34WE5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/4BQVQKXMURALXCHOZRLF34WE5E/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 12:04:26 +0000</pubDate>
+      <content:encoded>순직 해병 사건의 수사 외압 의혹을 받는 김계환 전 해병대사령관이 22일 구속을 면했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H235CR6GRZCGJKU4PSW4ENTABA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 22일 서울 서초구 서울중앙지법에서 김계환(가운데) 전 해병대 사령관이 영장심사를 받기 위해 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 이날 모해위증, 국회증언감정법 위반 등 혐의를 받는 김 전 사령관에 대한 구속 영장을 기각했다.&lt;br&gt;&lt;br&gt;남 부장판사는 “피의자의 경력, 주거 및 가족관계, 수사 절차에서의 출석 상황 및 진술 태도 등을 고려하면 도망할 염려를 인정하기 어렵다”면서 “현재까지 확보된 증거 및 수사 진행 경과, 현재 지위 등을 종합하면 현 단계에서 방어권 행사의 차원을 넘어 증거 인멸의 우려가 있다고 보기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;이는 해병 특검팀이 출범한 이후 처음으로 구속 영장을 청구한 사건이었다. 김 전 사령관에 대한 구속 영장이 기각되면서, 특검 수사가 1차 시험대부터 제동이 걸렸다는 평가가 나온다. &lt;br&gt;&lt;br&gt;김 전 사령관은 국회와 중앙지역군사법원에서 해병대원 순직 사건 결과 보고를 받은 윤석열 전 대통령의 이른바 ‘VIP 격노설’을 부인하는 진술을 해 위증한 혐의를 받는다. 지난해 10월 국회 법제사법위원회 군사법원 국정감사에서 박은정 조국혁신당 의원의 “박정훈 대령한테 VIP 격노설 얘기한 적 있나”라는 질문에 “없다”고 답한 혐의도 있다.&lt;br&gt;&lt;br&gt;또 지난해 2월 박정훈 대령의 항명 등 혐의 1심 재판의 증인으로 나와 윤 전 대통령 격노를 박 대령에게 전달한 바 없다고 진술해 모해위증한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/D2UY6W5HC5HGHM3YGH45GFRQ5E.jpg?auth=c452b8169655502e282e623cbab8ba0f4df1586611c0fab95460d116fe90cd2d&amp;smart=true&amp;width=2908&amp;height=1636" type="image/jpeg" height="1636" width="2908">
+        <media:description type="plain">2025년 7월 22일 서울 서초구 서울중앙지법에서 김계환 전 해병대 사령관이 영장심사를 받기 위해 출석하고 있다. /장경식 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>보이스피싱·마약 조직 총책 검거 보상금, 최대 5억원으로 상향</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/22/BAYSL4VN7FCQFFRTCHHF2DFE4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/BAYSL4VN7FCQFFRTCHHF2DFE4E/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 11:32:31 +0000</pubDate>
+      <content:encoded>경찰이 보이스피싱과 마약 범죄 조직에 대한 검거 보상금을 최대 5억원으로 상향하기로 했다. 최근 보이스피싱과 마약 범죄 규모가 갈수록 커지고 조직화되면서 조직 상층부를 검거하려면 내부 제보가 필수적이라는 판단 때문이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 22일 ‘범인 검거 등 공로자 보상에 관한 규정(경찰청 고시)’을 개정하고 특별 검거 보상금 제도를 신설하겠다고 22일 밝혔다. 이에 따라 보이스피싱 조직·총책에 대한 제보에 대한 검거 보상금은 최대 1억원에서 5억원으로, 마약 50㎏ 이상이 압수된 마약 조직·총책 등에 대해선 기존 최대 2000만원에서 5억원으로 늘어난다. 구체적 보상 액수는 사안의 중대성, 피해의 심각성, 검거된 조직 규모, 제보 기여도 등을 따져 결정된다.&lt;br&gt;&lt;br&gt;기존 고시에선 검거 보상금을 산정할 때 범죄 피의자가 개인인지 조직원인지 등의 여부를 구분하지 않았다. 마약 범죄도 압수량이 10㎏이든 50㎏이든 보상금은 최대 2000만원으로 동일했다. 하지만 최근 이런 범죄들은 대부분 조직적으로 이뤄지는 데다, 마약 유통량도 급증하고 있어 기준을 세분화하기로 했다. &lt;br&gt;&lt;br&gt;경찰은 이를 통해 범죄 조직 내부의 신고를 최대한 유도하겠다는 방침이다. 점조직 형태로 움직이는 경우가 많은 이들 범죄 조직 특성상, 조직의 전모를 밝히고 간부급 신원을 특정하기 위해선 내부자의 결정적 제보가 절실하다는 것이다. 경찰 관계자는 “112 신고나 경찰 민원 포털 사이트를 통해 신고할 수 있다”며 “신고·제보자 신원 보호를 최우선으로 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쯔양 협박’…검찰, 구제역에 징역 4년 재차 구형</title>
+      <link>https://www.chosun.com/national/incident/2025/07/22/TGYYOB5EM5AMVI53ZPHBM7DDTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/22/TGYYOB5EM5AMVI53ZPHBM7DDTM/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 22 Jul 2025 10:40:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OEMTZD6YYJOTBE3YV3OSYA7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양(본명 박정원)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 쯔양(본명 박정원)을 협박해 수천만원을 갈취한 혐의로 1심에서 실형을 선고받은 유튜버 구제역(본명 이준희)에 대해 검찰이 항소심에서도 징역 4년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;22일 수원지법 형사항소3-3부(재판장 김은교) 심리로 열린 항소심 결심공판에서 검찰은 “피고인은 수사와 재판 과정 내내 혐의를 부인하고, 피해자를 무고로 고소하는 등 2차 가해를 이어왔다”며 이같이 구형했다. 구제역은 1심에서 징역 3년을 선고받고 항소한 상태다.&lt;br&gt;&lt;br&gt;구제역 측은 혐의를 부인했다. 구제역 측 변호인은 “이 사건은 피고인에게 악감정을 가진 제3의 인물이 조작된 날짜가 적힌 내용 등으로 제보해서 또 다른 유튜버에 의해 촉발된 것”이라며 “여론에 의해 이미 단죄된 사람을 다시 판단하기 쉽지 않지만, 법원에서 정확하게 판단하지 않는다면 이 사건의 진실은 묻힐 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 함께 기소된 유튜버 주작감별사(전국진)에게도 1심과 마찬가지로 징역 3년을, 카라큘라(이세욱)와 크로커다일(최일환)에게는 각각 징역 2년, 징역 1년을 구형했다. 이들은 구제역에게 “쯔양에 관한 폭로 영상을 올리기보다 직접 돈을 뜯어내는 것이 이익”이라는 식의 조언을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;협박을 주도한 변호사 최모씨에 대해서는 징역 5년을 재차 구형했다. 최씨는 과거 쯔양의 전 남자친구 A씨가 연루된 민사소송을 맡으며 사적인 정보를 알게 된 뒤 이를 유출한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 구제역에게 징역 3년을, 주작감별사와 카라큘라에겐 각각 징역 1년에 집행유예 3년, 크로커다일에겐 벌금 500만원을 선고했다. 최 변호사에겐 징역 2년이 내려졌다.&lt;br&gt;&lt;br&gt;구제역과 공범들에 대한 항소심 선고 공판은 오는 9월 5일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미용실 침입해 100만원 훔친 범인 잡고 보니 피해자 ‘남편’</title>
       <link>https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</guid>
@@ -720,16 +777,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCCNM52PV5EMLJ536LUCMVPSEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 임영웅/물고기뮤직 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 임영웅이 지난 20일 집중호우로 피해를 당한 이재민과 지역사회를 돕기 위해 총 2억원을 사랑의열매 사회복지공동모금회에 기부했다. 이번 기부금은 임영웅이 1억원, 소속사 물고기뮤직이 1억원을 각각 보태 마련된 것으로, 팬클럽 ‘영웅시대’ 이름으로 전달됐다. 기부금은 폭우로 피해를 당한 전국 이재민의 긴급 구호, 임시 거주, 생계 지원, 피해 복구 등에 사용될 예정이다. 그는 “하루빨리 일상을 회복하시기를 진심으로 응원한다”고 했다. 지난 2021년부터 임영웅이 사랑의열매에 기부해온 금액은 이번을 포함해 총 23억원에 달한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사우디 ‘잠자는 왕자’ 20년간 혼수상태 끝에 사망</title>
-      <link>https://www.chosun.com/national/people/2025/07/22/JTIIF5TXQZDDPFLX762PQIVXCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/22/JTIIF5TXQZDDPFLX762PQIVXCI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKSS2S55KFFBPPWSQURWTMM45I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;식물인간 상태로 누워 있는 알왈리드(오른쪽) 왕자와 아버지 칼리드.
-/X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20년 동안 혼수상태로 지내 ‘잠자는 왕자’로 불린 사우디아라비아의 알왈리드 빈 칼리드 빈 탈랄 알 사우드 왕자가 35세 나이로 끝내 사망했다. 칼리드 빈 탈랄 알 사우드는 소셜미디어에 “알왈리드가 오늘 세상을 떠났다. 알라가 그에게 자비를 베푸소서”라며 아들의 사망 소식을 전했다.&lt;br&gt;&lt;br&gt;알왈리드 왕자는 1990년 4월 왕족인 칼리드의 장남으로 태어났다. 영국 런던의 군사학교에서 유학 중이던 2005년 교통사고로 심각한 뇌 손상을 입은 뒤 의식을 되찾지 못했다. 미국과 스페인의 저명한 의료진까지 달라붙었지만 차도는 없었다.&lt;br&gt;&lt;br&gt;절망적인 상황에서도 그가 20년간 식물인간 상태로 지낼 수 있었던 건 아버지 칼리드 때문이었다. 칼리드는 아들이 경미한 움직임을 보일 때마다 소셜미디어에 이 사실을 공유하며 아들이 깨어나리라는 희망을 잃지 않았다. 생명 유지 장치를 제거하라는 주변의 권유도 “삶과 죽음은 오직 신의 손에 달려 있다”고 거절하며 병상을 지켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>장애에도 어려운 이웃 도운 50대 장기 기증으로 5명 살리고 떠나</title>
       <link>https://www.chosun.com/national/national_general/2025/07/22/A6C6ZRSRZZEDPKVHZPKQZ2KDNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/A6C6ZRSRZZEDPKVHZPKQZ2KDNE/</guid>
@@ -737,51 +784,6 @@
       <description/>
       <pubDate>Mon, 21 Jul 2025 15:37:00 +0000</pubDate>
       <content:encoded>뇌출혈로 뇌사 상태에 빠진 50대 여성이 장기 기증으로 5명에게 새 삶을 선물하고 떠났다. 21일 한국장기조직기증원에 따르면, 박영분(58)씨는 지난 6월 30일 장애 복지 센터에서 쓰러져 의식을 회복하지 못했다. 박씨는 중앙대 광명병원에서 간장과 양측 신장, 양측 안구를 기증하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IWWBMA25LNEWFKCTBLVP42XBDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박영분 씨&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 5남 2녀 중 다섯째로 태어난 박씨는 지적장애를 가졌지만 늘 남을 돕던 사람이었다. 복지 센터 관계자는 “박씨는 거동이 어려운 친구들을 돕던 따뜻한 사람”이라고 했다. 박씨는 장기 기증 서약을 하지는 않았지만 유족은 기증을 택했다. 생전 남을 도우며 살아왔던 박씨가 다른 생명을 살리고 그 몸 속에서 살아 숨 쉬길 바라는 마음이었다.&lt;br&gt;&lt;br&gt;박씨의 언니 박은지(69)씨는 “따사로운 햇살같이 늘 웃음을 주던 동생을 다시는 볼 수 없다니 믿을 수 없다”며 “좋은 일 하고 갔으니 하늘나라에서 행복하게 잘 살기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김창욱 협성건설 회장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/07/22/IQDM4ZPQPNHXVBI32KQIJAOWXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/22/IQDM4ZPQPNHXVBI32KQIJAOWXU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:36:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김창욱 &lt;/b&gt;협성건설 회장 별세, &lt;b&gt;서정애 &lt;/b&gt;남편상, &lt;b&gt;김청룡 &lt;/b&gt;협성건설 부회장·&lt;b&gt;김민하 &lt;/b&gt;협성센트로 대표 부친상, &lt;b&gt;김지원 &lt;/b&gt;시부상=21일13시15분 부산 시민장례식장, 발인 23일6시30분, (051)818-3412&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김창희 &lt;/b&gt;별세, &lt;b&gt;이원재 &lt;/b&gt;前 피치레이팅스 상무·&lt;b&gt;이철재 &lt;/b&gt;미국 변호사·&lt;b&gt;이광재 &lt;/b&gt;CNI 대표 모친상, &lt;b&gt;조원정&lt;/b&gt;·&lt;b&gt;구슬아 &lt;/b&gt;시모상, &lt;b&gt;이종훈 &lt;/b&gt;투씨에스지 프로·&lt;b&gt;이지선 &lt;/b&gt;조지메이슨대 디렉터·&lt;b&gt;이종현 &lt;/b&gt;필라델피아 이글스 마케팅팀원 조모상=20일22시45분 서울성모병원, 발인 23일7시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;방일자 &lt;/b&gt;별세, &lt;b&gt;권성아&lt;/b&gt;·&lt;b&gt;권재환 &lt;/b&gt;모친상, &lt;b&gt;손정현 &lt;/b&gt;스타벅스 코리아 대표 장모상=21일15시 서울아산병원, 발인 23일5시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;양용진 &lt;/b&gt;제주향토음식보전연구원장 별세, &lt;b&gt;조수경 &lt;/b&gt;남편상, &lt;b&gt;양재성&lt;/b&gt;·&lt;b&gt;양희재&lt;/b&gt; 부친상=21일1시 제주 혼길장례식장, 발인 23일8시, (064)744-1245&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장종수 &lt;/b&gt;별세, &lt;b&gt;이창수&lt;/b&gt;·&lt;b&gt;이덕훈 &lt;/b&gt;에이치엘유통 대표·&lt;b&gt;이태훈&lt;/b&gt; 모친상, &lt;b&gt;김재현 &lt;/b&gt;연합뉴스 기자·&lt;b&gt;김재홍 &lt;/b&gt;KYC글로벌 회장 외조모상=20일21시 대구가톨릭대병원, 발인 22일8시30분, (053)650-3981&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 보건복지부 ‘자살 유족 수기 공모전’ 개최 외</title>
-      <link>https://www.chosun.com/national/people/2025/07/22/67ZWQKQLYBEY7OI4HWX3DQZMZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/22/67ZWQKQLYBEY7OI4HWX3DQZMZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:36:00 +0000</pubDate>
-      <content:encoded>▲한국과학기술단체총연합회는 23일 오후 3시 서울 강남구 한국과학기술회관에서 염한웅 기초과학연구원(IBS) 연구단장과 토크 콘서트 ‘과학, 시대를 잇다’를 연다. 국가 과학기술 정책의 역할과 방향, 연구 생태계 발전 방안 등을 소개한다. 행사는 온오프라인으로 열리며 과총 유튜브 채널에서도 볼 수 있다.&lt;br&gt;&lt;br&gt;▲국립과천과학관은 여름방학 특별 전시 해설 프로그램 ‘꼬리에 꼬리를 무는 발견’을 다음 달 24일까지 운영한다. 프로그램은 초등학교 4학년 이상 관람객을 대상으로 하루 5회 운영되며 선착순 현장 접수로 무료 참여할 수 있다.&lt;br&gt;&lt;br&gt;▲보건복지부는 다음 달 20일까지 ‘자살 유족 수기 공모전’을 개최한다. 자살로 가족, 동료, 지인 등을 잃은 이들 가운데 정신건강복지센터·자살예방센터의 사례 관리 등록에 동의한 사람이 참여할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] be mindful</title>
-      <link>https://www.chosun.com/national/nie/english/2025/07/22/MY3CPBDJDJBNFGMBB225SJ3ZII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/07/22/MY3CPBDJDJBNFGMBB225SJ3ZII/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM5EL4RAKVAN7GYOZRJF4X74P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 치명타를 가하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/22/SAL5H4L7FVARPOTAIYKGQEUW64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/22/SAL5H4L7FVARPOTAIYKGQEUW64/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA5LQKOYCFDEBLUDZWJUCO6AOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2668] 쿵작쿵작 장단 치기</title>
-      <link>https://www.chosun.com/national/nie/2025/07/22/HAHXV6E3LVELVGB36DEQS4XXE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/22/HAHXV6E3LVELVGB36DEQS4XXE4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 21 Jul 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCUAVPDWEFC6XKFFENE7ZMVPAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>폐플라스틱 활용 제품 제조, ‘탄소 저감·노인 일자리’ 두 토끼 잡아</title>
