@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰, '강제 키스 혀 절단' 사건 최말자씨 재심 무죄 구형</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/209994.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;61년 전 자신을 성폭행하려던 남성의 혀를 깨물어 중상해 혐의 유죄 판결을 받았던 최말자 씨가 23일 부산지법에서 열린 재심 첫 공판을 마치고 법정을 나서며 변호인과 여성단체와 포옹하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;61년 전 자신을 성폭행하려던 남성의 혀를 깨물어 중상을 입힌 혐의로 기소돼 유죄를 선고받았던 최말자(78) 씨의 재심에서 검찰이 무죄를 구형했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부산지법 형사5부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1800"&gt;김현순&amp;nbsp;&lt;/span&gt;부장판사)는 7월 23일 최 씨의 중상해 등 혐의 재심 사건 첫 공판을 열었다. 재판부는 이날 증거조사를 마무리한 뒤 곧바로 결심을 진행했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검사는 "본 사건에 대해 검찰은 성폭력 피해자의 정당한 행위로써 위법성이 인정되지 않는다는 결론에 이르렀다"고 말했다. 이어 "이 사건은 갑자기 가해진 성폭력 범죄에 대한 피해자의 정당한 방해 행위이고, 과하다고 할 수 없으며 위법하지도 않다"며 "피고인에 대해 정당방위를 인정해 무죄를 선고해달라"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;검사는 "검찰의 역할은 범죄 피해자를 범죄 사실 자체로부터는 물론이고 사회적 편견과 2차 가해로부터도 보호하는 것"이라며 "과거 이 사건에서 검찰은 그 역할을 다하지 못했고 오히려 그 반대 방향으로 갔다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 이어 "그 결과 성폭력 피해자로서 마땅히 보호받아야 했을 최말자님께 가늠할 수 없는 고통과 아픔을 드렸다. 사죄드린다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 씨의 변호인은 "이 사건은 시대가 바뀌었기 때문에 무죄가 되는 사건이 아니라, 그때나 지금이나 무죄일 수밖에 없는 사건이 검찰과 법원의 잘못으로 오판됐던 것"이라며 "법원이 응답할 때"라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어 "검찰과 법원이 과거 세대의 잘못을 바로잡아야 하듯 변호인들도 선배 세대 변호인이 남긴 미완의 변론을 이제 완성하고자 한다"며 최씨 행위가 정당방위에 해당한다고 주장했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 씨는 최후 진술에서 "국가는 1964년 생사를 넘어가는 악마 같은 그날의 사건을 어떤 대가로도 책임질 수 없다"며 "피해자 가족의 피를 토할 심정을 끝까지 잊지 말고 기억해달라고 꼭 부탁하고 싶다"고 말했다. 그러면서 "61년간 죄인으로 살아온 삶, 희망과 꿈이 있다면 후손들이 성폭력 없는 세상에서 자신의 인권과 행복한 삶을 살 수 있도록 대한민국의 법을 만들어 달라고 두손 모아 빌겠다"고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 씨는 만 18세이던 1964년 5월 6일 자신을 성폭행하려던 노모 씨(당시 21세)의 혀를 깨물어 1.5㎝가량 절단되도록 한 혐의로 부산지법에서 징역 10월에 집행유예 2년을 선고받았다. 최 씨는 성폭행에 저항한 정당방위였다고 항변했으나 법원은 받아들이지 않았다. 노 씨는 강간미수를 제외한 특수주거침입·특수협박 혐의가 적용돼 최 씨보다 가벼운 징역 6월에 집행유예 2년이 선고됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 씨 사건은 정당방위가 인정되지 않은 대표적인 사례로 형법학 교과서와 1995년 발간된&lt;b&gt; 《법원 100년사》&lt;/b&gt; 등에 '강제 키스 혀 절단 사건'으로 기록됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;최 씨는 사건 발생 56년 만인 2020년 5월 재심을 청구했으나 부산지법과 부산고법은 청구를 기각했다. '당시 검사가 불법 구금을 하고 자백을 강요했다'는 최 씨 주장을 입증할 만한 객관적이고 명확한 증거가 부족하다는 판단이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;하지만 대법원은 3년이 넘는 심리 끝에 최 씨의 재심 가능성을 열었다. 재판부는 "1964년 당시 최 씨가 7월 초순경 검찰에 소환돼 9월 1일 구속영장이 발부될 때까지 불법 구금 상태에서 조사를 받았을 가능성이 크다"며 "이는 공소시효가 만료되었더라도 형사소송법 제422조에서 규정한 '확정판결을 얻을 수 없는 때'로 간주될 수 있다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "최 씨의 진술은 일관성이 있으며 당시의 재판 과정과 부합하는 직·간접 증거들이 이를 뒷받침한다"며 "재심 대상 판결문, 당시 신문 기사, 재소자인명부, 형사사건부, 집행원부 등 증거들에 비추어 최 씨의 주장을 탄핵할만한 반대 증거나 사정이 없다"고 설명했다. 그러면서 "재심은 확정된 유죄 판결의 중대한 오류를 바로잡아 인권을 보호하기 위한 비상구제 절차"라며 "원심이 최 씨 진술의 신빙성을 깨뜨릴 충분한 반대 증거나 사실조사를 하지 않고 단순히 증거 부족을 이유로 청구를 기각한 것은 부적절하다"고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이에 파기환송심을 맡은 부산고법은 2025년 2월 재심 기각 결정에 대한 최 씨의 항고를 인용했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재심 재판부는 오는 9월 10일 오후 2시 선고 기일을 열기로 했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 23 Jul 2025 05:29:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/209994</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209994</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209994.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희 특검, 조연경 전 대통령 부속실 행정관 소환조사</title>
 			<description>김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;&amp;nbsp;특별검사팀('김건희 특검')이 김 여사의 최측근인 조연경 전 대통령 부속실 행정관을 불러 조사하고 있다. &lt;br /&gt;&lt;br /&gt;특검팀은 23일 언론 공지를 통해 "금일 오전 조 전 행정관을 소환해 조사 중"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 조 전 행정관을 상대로 2022년 6월&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 부부가 나토 순방을 할 당시 불거진 의혹에 대해 물을 것으로 보인다. 당시 순방에 동행한 김 여사는 6000만 원 대 반 클리프 앤 아펠 목걸이를 착용했는데, 재산 신고 내역에는 누락돼 논란이 일었다. 공직자 윤리법상 품목당 500만 원이 넘는 보석류는 재산 신고를 해야 한다. &lt;br /&gt;&lt;br /&gt;특검팀은 이 목걸이의 출처 등을 수사할 것으로 보인다. 당시 대통령실은 "지인에게 빌린 것"이라고 해명했다. 특검팀은 또 이원모 전 인사비서관 아내가 순방에 동행한 배경 등도 물을 것으로 예상된다. &lt;br /&gt;&lt;br /&gt;이날 특검팀은 오전 10시부터 이종호 전 블랙펄 인베스트 대표를 변호사법 위반 혐의 피의자 신분으로 불러 조사 중이다. 이 전 대표는 도이치모터스 주가조작 사건의 1차 주포인 이정필 씨로부터 집행유예 선고를 받게 해주겠다며 8000여만 원을 수수한 혐의를 받는다. &lt;br /&gt;</description>
 			<pubDate>Wed, 23 Jul 2025 03:11:06 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209977</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209977.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>프랑스 아녜스 비슈 판사 대법원 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209976.jpg" alt="209976.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아녜스 비슈(Agnès Bisch) 프랑스 액상프로방스 항소법원 부장판사(사회부 재판장)가 7월 22일 대법원을 방문했다. 사법 분야에서의 협력 방안을 모색하고 한국 법관들과 지속적으로 사법 교류하기 위해서다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그는 이날 서초동 대법원 청사를 찾아&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="381"&gt;배형원&lt;/span&gt;(57·사법연수원 21기) 법원행정처 차장을 만난 뒤 청사를 둘러봤다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;비슈 부장판사는 2001년부터 3년간 파리 고등법원 판사를, 2004년~2012년 스트라스부르 고등법원 부법원장을, 2012~2019년 콜마 1심법원 부법원장을 지냈다. 2019년 파리 항소법원 판사로 보임됐으며 2024년부터 액상프로방스 항소법원 부장판사를 지내고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;비슈 부장판사는 2021년 7월 대한민국 대법원과 헌법재판소 등 유관 기관을 2주 간 방문한 바 있다. 그는 프랑스 국가공로훈장(Ordre national du Mérite) 최고 등급을 수훈했다. 오는 29일에는 한국 헌법재판소를 방문한 뒤 김형두 헌재소장 권한대행을 접견할 예정이다.&lt;/p&gt;</description>
-			<pubDate>Tue, 22 Jul 2025 08:38:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209976</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209976</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209976.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
