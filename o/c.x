@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정부, 의대생 복귀 방안 발표 돌연 취소 “논의 더 해야”</title>
+      <link>https://www.chosun.com/national/education/2025/07/23/R2RGRHKRJVB7XIV4MXVXAYZUDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/23/R2RGRHKRJVB7XIV4MXVXAYZUDM/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 12:03:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYDAUXDNDZNCXMYJHYF2Z6IE5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;24 오후 서울의 한 의과대학 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 24일 예정했던 의대생 복귀 방안 발표를 돌연 취소했다. &lt;br&gt;&lt;br&gt;교육부는 23일 오후 8시경 출입기자단 공지를 통해 “내일 오전 11시 예정이었던 ‘의대생 복귀 및 교육 운영 방안’ 관련 브리핑을 취소한다”고 밝혔다. 교육부는 갑작스러운 취소 이유에 대해 “복귀 학생들의 졸업 시기와 관련하여 정부와 대학 간에 더 논의가 필요하여 내일 발표가 취소되었음을 알려드린다”고 설명했다. &lt;br&gt;&lt;br&gt;교육계에 따르면 정부는 유급 대상 의대생들에 대해 학사 조치를 내리되, 오는 2학기 복귀를 허용하는 방안을 발표할 것으로 알려졌다. 하지만 복귀 방안의 세부 내용을 조율하는 과정에서 대학 간 이견이 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;교육부는 추후 의대생 복귀 방안 일정에 대해서 밝히지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아들 총기살해범이 설치한 사제폭탄, 장갑차도 날릴 수준</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/23/5ZIGNBQ2IJCGPCFRJNGSANZSJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/23/5ZIGNBQ2IJCGPCFRJNGSANZSJ4/</guid>
+      <dc:creator>김은진 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 12:51:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6YUMQHZR5H6VHFC6ALEF32G5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 인천 송도서 사제 총으로 아들을 살해한 조모(62)씨의 쌍문동 자택에서 발견된 인화물질./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“사제(私製) 폭발물이라고 우습게 보면 안 됩니다. 장갑 차량도 날릴 수준이에요. 실제로 터졌으면 집 한 채는 물론이고 인명 피해까지 났을 겁니다.” &lt;br&gt;&lt;br&gt;이만종 한국테러학회장(호원대 명예교수)은 ‘인천 사제 총기 살인 사건’의 피의자 조모(62)씨가 서울 도봉구 집에 설치한 사제 시한폭탄에 대해 이같이 말했다.&lt;br&gt;&lt;br&gt;조씨는 지난 20일 인천 송도 아파트에서 사제 총을 쏴 아들 A(34)씨를 살해한 혐의로 구속됐다. 당시 조씨가 혼자 살고 있던 서울 아파트에선 사제 시한폭탄이 발견됐다. &lt;br&gt;&lt;br&gt;시너 등 인화성 물질을 1.5L 페트병, 세제통, 우유통 등 15개에 담고 타이머 기폭 장치를 여러 개 달았다. 기폭 장치는 스파크(불꽃)를 일으켜 인화성 물질을 폭발시키는 방식인 것으로 알려졌다. 연쇄 폭발을 유도하기 위해 페트병 등을 철사로 묶었다. 경찰 관계자는 “이불을 찢어 불쏘시개로 썼다”고 했다. 타이머는 범행 다음 날인 21일 낮 12시에 맞춰져 있었다. 경찰특공대는 21일 새벽 4시쯤 폭탄을 해체했다. 이 아파트 주민 100여 명이 근처 보건소 등으로 대피했다.&lt;br&gt;&lt;br&gt;이 회장은 “자금이 부족한 아프리카나 중동의 무장 세력이 자주 사용하는 방식”이라고 했다. 조씨는 사제 무기 제조법을 유튜브 등에서 배웠다고 진술했다. 이 회장은 “시너, 페트병, 철사, 이불 등 일상에서 쉽게 구할 수 있는 재료로 만들었지만 폭발력은 상상 이상”이라며 “이 정도 양이면 집 한 채는 금세 화염에 휩싸일 수 있다”고 했다. 또 “여러 가구가 사는 아파트는 화염이 번져 큰불로 이어질 수 있다”고 했다. 경찰 관계자는 “집 안에 들어가 보니 인화성 물질이 든 페트병이 연쇄 폭발을 일으키기 쉽게 잘 묶여 있었다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 23일 조씨의 서울 집을 압수 수색해 사제 총과 폭탄 제작에 쓴 도구와 인화성 물질 등을 확보했다. 경찰 관계자는 “폭발물의 위력에 따라 조씨에게 폭발물 사용 혐의를 추가하는 방안을 검토하고 있다”고 했다. 폭발물 사용죄는 사형에도 처할 수 있다.&lt;br&gt;&lt;br&gt;조씨는 별다른 수입이 없었던 것으로 알려졌다. 경찰은 조씨가 생활비 등 경제적인 문제로 아들을 살해했는지 여부도 조사 중이다.&lt;br&gt;&lt;br&gt;한편 조씨는 1999년 법원에서 강간치상 등 혐의로 징역 2년 6개월 형에 집행유예 4년을 선고받은 것으로 확인됐다. 판결문에 따르면, 당시 서울 강북구에서 비디오방을 운영하던 조씨는 술에 취한 상태에서 성폭력 범죄를 저지른 혐의로 기소됐다. 범행 당시 칼과 수갑을 갖고 있었다. 판결 이후 조씨와 그의 아내 김모씨는 이혼했다. 조씨는 아들을 살해한 이유에 대해 “아들이 아내와의 이혼을 내 잘못으로 몰아 다툼이 잦았다”고 진술했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지게차에 이주노동자 묶고 “잘못했다고 해” 낄낄... 영상 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/23/GNPJCMNHARE2NDLVDZINWFP2A4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/23/GNPJCMNHARE2NDLVDZINWFP2A4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 12:12:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBFMWJ7XOBDTTMC7W7AVE3PJRY.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 노동자가 벽돌 더미에 몸이 결박된 채 지게차로 들어 올려지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 나주 한 벽돌 공장에서 이주 노동자를 지게차에 묶어 들어 올리는 모습의 영상이 공개돼 노동계에서 가혹 행위 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;23일 전남이주노동자인권네트워크 등에 따르면, 나주에 있는 벽돌 생산 공장에서 근무하는 스리랑카 국적 A(31)씨는 이달 초 동료 노동자로부터 화물에 몸이 묶인 채 지게차로 들어 올려지는 가혹 행위를 받았다. &lt;br&gt;&lt;br&gt;이주노동자인권네트워크가 확보한 영상을 보면, A씨는 투명 비닐 랩이 칭칭 둘러진 채 몸이 벽돌 더미에 결박된 상태다. A씨는 옴짝달싹 못 하고, 이내 지게차가 A씨가 묶인 벽돌 더미를 들어 올렸다. 지게차는 거세게 후진하더니 다른 벽돌 더미 옆으로 이동했다. 주변에 다른 노동자들이 있었지만, 말리는 이는 없었다. 되레 낄낄 웃거나 휴대전화로 이 모습을 촬영했다. &lt;br&gt;&lt;br&gt;한국인으로 추정되는 한 남성이 허공에 매달린 A씨를 향해 “잘못했냐”고 묻고, “잘못했다고 해야지”라고 다그치는 모습이 담기기도 했다. &lt;br&gt;&lt;br&gt;반복적인 집단 괴롭힘에 A씨는 노동 단체에 도움을 요청한 것으로 알려졌다. 이 공장에서는 A씨를 포함해 총 20여명의 노동자가 근무 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이주노동자네트워크는 오는 24일 나주시청 앞에서 기자회견을 열어 인권 유린 실태 조사를 촉구하고, 영상으로 확인한 가해 노동자들을 경찰에 고발할 예정이다. 이주노동자네트워크 관계자는 “나주 벽돌 공장에서 진행된 인권 유린은 이미 우리 사회에 만연한 이주노동자에 대한 차별과 폭력, 인권 탄압 사례를 보여준다”며 “철저한 진상 규명과 책임자 처벌로 이어져야 할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼부토건 부회장·김건희 측근...도주한 ‘키맨’들</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/23/SBHDVE2FBVDPLI3EMX3DPD2ZVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/23/SBHDVE2FBVDPLI3EMX3DPD2ZVQ/</guid>
+      <dc:creator>표태준 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 12:43:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDSXGBATMZ5WMLC5QAQRU65RBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 소환을 앞둔 민중기 특검팀이 ‘삼부토건 주가조작’ 의혹 등에 관련된 일부 핵심 피의자가 종적을 감춰 이들의 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 특검이 검거에 주력하는 피의자는 이기훈 삼부토건 부회장이다. 이 부회장은 지난 17일 법원의 구속영장 실질심사에 불출석하고 도주했다. 특검은 이일준 현 삼부토건 회장이 2022년 5월부터 수백억 원을 빌려 조성옥 당시 회장에게서 지분을 인수하는 과정에서 이 부회장이 핵심적인 역할을 했다고 의심한다. 이 부회장이 인수 과정에서 발생한 손실을 만회하기 위해 주가조작을 기획했고, 이때 김 여사 측근인 이종호 전 블랙펄인베스트 대표를 끌어들였을 가능성이 있다는 것이다. &lt;br&gt;&lt;br&gt;‘IMS 모빌리티 특혜성 투자’ 의혹의 핵심 인물인 김모씨도 특검 수사가 시작되기 전인 지난 4월 베트남으로 출국해 돌아오지 않고 있다. 김 여사 측근으로 알려진 김씨는 2023년 IMS 모빌리티가 대기업들로부터 184억원을 투자받을 때 자기 소유 주식을 매각해 수익을 올렸다. 특검은 기업들이 김 여사에 대한 청탁을 목적으로 김씨 회사에 투자했을 가능성을 수사 중이다. 특검은 최근 법원에서 김씨에 대한 체포 영장을 발부받아 적색수배에 나섰다. &lt;br&gt;&lt;br&gt;특검은 2022년 6월 윤석열 전 대통령 부부의 북대서양조약기구(나토) 정상회의 참석 때 민간인인 신모씨가 동행하고 귀국 때 대통령 전용기에 탑승한 경위를 조사하고 있다. 신씨는 당시 대통령실 인사비서관이었던 이원모씨의 아내다. 특검은 이날 김 여사가 2022년 나토 방문 동행 때 6000만원대 명품 목걸이를 착용한 것과 관련해 조연경 전 부속실 행정관을 불러 김 여사 소유 여부 등을 조사했다. 특검은 이날 ‘명태균 공천 개입 의혹’과 관련해 조은희 국민의힘 의원도 조사했다. 명씨는 2022년 3월 국회의원 보궐선거에서 조 의원이 서울 서초갑 국민의힘 공천을 받는 과정에 관여했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;이런 가운데 다음 달 6일 소환 통보를 받은 김 여사 측은 최근 특검에 “김 여사 건강이 좋지 않아 여러 날에 걸쳐 조사해달라”고 요청했다. 그러나 특검은 이날 “(조사 방식과 관련한) 협의는 불필요하고 통지된 일자에 따라 조사하는 것이 충분하다는 입장을 김 여사 측에 전달했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 내란 재판 또 불출석 예정…“건강상 이유”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/23/SLX5U6OOS5B4BFGRDPZOLLHOS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/23/SLX5U6OOS5B4BFGRDPZOLLHOS4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 11:45:45 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 오는 24일 예정된 내란 혐의 재판에도 출석하지 않을 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62OD2P3GGJYRWJXSQWWD4GLQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 윤 전 대통령 변호인단은 내란 우두머리·직권남용 권리행사 혐의를 심리하는 서울중앙지법 형사25부(재판장 지귀연)에 “건강상 이유로 재판에 나가기 어렵다”는 내용의 의견서를 제출했다.&lt;br&gt;&lt;br&gt;이에 따라 윤 전 대통령은 구속 이후 열리는 세 번째 공판까지 연속으로 출석하지 않을 전망이다. 윤 전 대통령 측은 “내란 재판 외에 특검팀이 추가 기소한 사건과의 병합을 요청할지 여부에 대해 내부 논의 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 윤 전 대통령은 지난 10일과 17일 재판에도 모습을 드러내지 않았다. 재판부는 피고인 없이 증인을 신문하는 ‘기일 외 증인신문’ 방식으로 절차를 진행했다. 재판부는 지난 17일 “피고인이 몸이 안 좋아서 못 나오는 거면 해당 자료를 제출해야 하며, 특검의 위헌성은 법률적으로 다퉈야 할 것 같다”고 윤 전 대통령 측에 당부한 바 있다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 내란 특검팀에 의해 추가 기소돼 현재 서울구치소에 수감 중이다. 지난 10일 구속영장이 발부된 이후 2주 연속으로 재판에 나오지 않았고, 특검의 출석 요구에도 응하지 않았다. 특검팀은 지난 19일 윤 전 대통령을 특수공무집행방해, 대통령경호법 위반 등 혐의로 추가 기소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천신항 물류창고서 40대 노동자 지게차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/07/23/5MEMM5LBZRF6LNBQJY3KDSF7TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/5MEMM5LBZRF6LNBQJY3KDSF7TA/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>23일 오전 9시 40분쯤 인천시 연수구 인천신항 한 물류창고에서 40대 A씨가 몰던 지게차가 일용직 노동자인 40대 B씨를 치었다. 이 사고로 B씨가 지게차 아래에 깔리며 크게 다쳤고, 병원으로 옮겨졌으나 끝내 숨졌다.</description>
+      <pubDate>Wed, 23 Jul 2025 11:28:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 9시 40분쯤 인천시 연수구 인천신항 한 물류창고에서 40대 A씨가 몰던 지게차가 일용직 노동자인 40대 B씨를 치었다. 이 사고로 B씨가 지게차 아래에 깔리며 크게 다쳤고, 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 B씨는 물품을 싣고 전진하던 지게차에 부딪힌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 사고 장소가 도로가 아닌 작업장인 점을 고려해 업무상 과실치사 혐의로 A씨를 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 안전 수칙 준수 여부 등 정확한 사고 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘공직선거법 위반’ 정동영 의원에 당선무효형 재차 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/23/F5JPVLD3R5BM7P2MN26TSZMQ7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/23/F5JPVLD3R5BM7P2MN26TSZMQ7U/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>공직선거법 위반 혐의로 1심에서 벌금 70만원을 선고받은 더불어민주당 정동영 의원에 대해 검찰이 항소심에서 벌금 400만원을 선고해달라고 재판부에 요청했다.
+23일 광주고법 전주재판부 형사1부 양진수 부장판사 심리로 열린 결심공판에서 검찰은 정 의원에게 벌금 400만원을 구형했다.</description>
+      <pubDate>Wed, 23 Jul 2025 10:45:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3B2LSTS7HFNNPLLPDNLS7ROYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정동영 의원이 23일 전주지법에서 열린 공직선거법 위반 항소심 재판에 참석하기 위해 변호인단과 함께 법정으로 향하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 1심에서 벌금 70만원을 선고받은 더불어민주당 정동영 의원에 대해 검찰이 항소심에서 벌금 400만원을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;23일 광주고법 전주재판부 형사1부 양진수 부장판사 심리로 열린 결심공판에서 검찰은 정 의원에게 벌금 400만원을 구형했다. 공직선거법상 벌금 100만원 이상의 형이 확정되면 의원직을 상실하게 된다.&lt;br&gt;&lt;br&gt;검찰은 “피고인의 사전 선거운동과 허위 사실 공표가 명백함에도 원심은 사실관계를 근본적으로 잘못 판단해 유무죄를 그르친 위법이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 의원은 앞선 1심에서 벌금 70만원을 선고받았으나 검찰과 피고인 모두 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;정 의원은 최후 진술에서 “처음 총선에 출마하고 30년이 지났는데 선출직 공직자로서 단 한 번도 비위나 추문에 휘말리지 않아 명예롭게 생각한다”면서 “제 부덕함과 불찰로 고발됐는데 제 고향 전북, 크게는 나라와 민족의 평화와 평안을 위해 헌신하고 싶다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;정 의원은 22대 총선 전인 지난 2023년 12월 13일과 지난해 1월 9일 자신의 지역구에 있는 공동주택 위탁관리 업체 종무식과 시무식에서 마이크를 이용해 출마 각오를 밝히고 지지를 호소한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;정 의원의 항소심 선고 공판은 9월 8일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해경, 진해 부산신항서 ‘잠수부 3명 사상’ 사고 합동감식</title>
+      <link>https://www.chosun.com/national/regional/2025/07/23/J5S2RTV37BCDZMALJJT2DVID3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/23/J5S2RTV37BCDZMALJJT2DVID3Y/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 10:49:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNUXK5XVJ5KCDNAEUQWPT27DUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 경남 창원시 진해구 부산신항 인근 해상에서 컨테이너선 하부 청소를 하던 다이버 3명이 심정지 상태로 발견돼 소방당국이 병원으로 이송하고 있다.  이들 중 2명은 숨졌고, 1명은 의식을 되찾은 것으로 알려졌다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원해양경찰서는 경남 창원시 진해구 부산신항에서 컨테이너선의 하부 청소를 하던 잠수부 2명이 숨지고 1명이 크게 다친 사고와 관련해 23일 합동 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 합동감식에는 국립과학수사연구원, 남해지방해양경찰청, 고용노동부 등도 참여했다. 해경은 숨진 잠수부 2명의 사인을 밝히기 위해 부검도 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;현재 중상을 입은 잠수부 1명은 의식을 되찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;모두 30대인 이들은 사고 당시 바다에 입수해 정박 상태의 5만t급 컨테이너선 하부 청소 작업을 하고 있었으며, 당시 산소 공급 장치와 연결된 줄을 달고 입수하는 형태로 작업을 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해경과 고용노동부는 이들이 소속된 컨테이너선 청소 용역 업체 관계자들도 불러 안전 수칙 준수 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;해경은 잠수부들에게 큰 외상이 발견되지 않았던 점에 미뤄 물리적 충돌보다는 산소 공급 장치나 호흡기 줄에 이상이 생겼을 가능성이 높다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 고용노동부 창원지청도 재해 원인 규명을 위한 현장 조사를 진행하고자 사고 당일인 지난 20일 작업 중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;노동부는 사고에 대해 산업안전보건법과 중대재해 처벌 등에 관한 법률 위반 여부에 대해 수사하고, 안전 조치가 제대로 이행됐는지 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 서귀포 성산항 예인선서 폭발 사고…60대 선장 화상</title>
+      <link>https://www.chosun.com/national/incident/2025/07/23/4ROP53MBMFGHTCFU2CLKOXYUVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/4ROP53MBMFGHTCFU2CLKOXYUVY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>23일 오후 5시 50분쯤 제주 서귀포시 성산항 해상에서 준설 작업 중이던 46t급 예인선에선 폭발과 함께 화재가 발생했다.
+화재는 곧 진화됐지만, 이 사고로 60대 선장 A씨가 전신에 2~3도 화상을 입고 닥터헬기를 통해 인근 병원으로 긴급 이송됐다.
+</description>
+      <pubDate>Wed, 23 Jul 2025 10:19:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIBPDXMMD5F5LCXANNSEOQQDNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 제주 서귀포 성산항 인근 해상에서 준설 작업을 하던 예인선에서 폭발 사고가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 5시 50분쯤 제주 서귀포시 성산항 해상에서 준설 작업 중이던 46t급 예인선에선 폭발과 함께 화재가 발생했다.&lt;br&gt;&lt;br&gt;화재는 곧 진화됐지만, 이 사고로 60대 선장 A씨가 전신에 2~3도 화상을 입고 닥터헬기를 통해 인근 병원으로 긴급 이송됐다.&lt;br&gt;&lt;br&gt;해경은 갑작스러운 폭발음과 함께 화재가 발생했다는 현장 관계자 등의 진술을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“수영장에 대변이 둥둥” 영주실내수영장 긴급 폐장 소동</title>
       <link>https://www.chosun.com/national/incident/2025/07/23/2GFJWDLC2BESPEDC6KGQS2DGFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/2GFJWDLC2BESPEDC6KGQS2DGFQ/</guid>
@@ -804,26 +888,6 @@
       <content:encoded>▲&lt;b&gt;중앙그룹&lt;/b&gt;◇JTBC&amp;lt;보도본부&amp;gt;▷보도본부장 남궁욱▷보도국장 김필규▷경제부국장 손용석▷스포츠부국장 오광춘▷제작부국장 김진우▷뉴스룸부장 오대영▷시사제작부장 이가혁▷팩트체크부장 김혜미▷산업담당 이태경&amp;lt;커뮤니케이션본부&amp;gt;▷커뮤니케이션본부장 민준식◇JTBC미디어컴▷대표이사 한정희&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [숨어있는 세계사] “이게 구석기 시대 그림?”… 고고학자들은 ‘위작’ 의심했죠</title>
-      <link>https://www.chosun.com/national/nie/2025/07/23/QKRP36UYBNHKJBPAFWQT4PP7GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/23/QKRP36UYBNHKJBPAFWQT4PP7GM/</guid>
-      <dc:creator>서민영 계남고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>최근 우리나라 울산에 있는 ‘반구천의 암각화’가 유네스코 세계문화유산으로 등재됐습니다. 암각화는 아주 오래전, 선사시대 사람들이 바위나 암벽에 새기거나 그려 넣은 그림이에요. 여기에는 주로 동물이나 사람, 사냥 도구 같은 것들이 그려져 있지요. &lt;br&gt;&lt;br&gt;하지만 단순한 옛 그림이 아니랍니다. 이때는 문자로 기록된 역사가 없기 때문에 암각화는 선사시대에 살던 사람들이 무엇을 보고, 어떤 생각을 했는지 알려주는 아주 귀중한 문화유산이지요. 오늘은 우리나라뿐 아니라 세계 여러 나라에 남아 있는 선사시대 암각화와 벽화들을 함께 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;신석기부터 청동기까지 이어 그려졌죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘반구천의 암각화’는 ‘대곡리 반구대 암각화’와 ‘천전리 명문과 암각화’를 포함하는 유산이에요. 그중에서도 반구대 암각화는 태화강의 지류인 ‘대곡천’이라는 하천변 바위에 새겨져 있어요. 바위 높이는 약 5m, 너비는 8m나 될 만큼 아주 커요. 이 큰 바위에 선사시대 사람들이 여러 그림을 오랜 시간에 걸쳐 그려 넣었답니다.&lt;br&gt;&lt;br&gt;여기에는 고래, 사슴, 멧돼지 같은 동물 그림이 대부분이고, 사람 모습도 있어요. 그 외에도 배와 화살 같은 사냥 도구, 무슨 뜻인지 아직 알 수 없는 그림도 수십 점 발견됐지요. 그중에서도 가장 눈에 띄는 건 바로 ‘고래’ 그림인데요. 예전의 울산 앞바다는 고래가 자주 나타나는 곳이었고 고래 사냥도 활발히 이뤄졌다고 해요. &lt;br&gt;&lt;br&gt;그렇다면 어떻게 이 그림이 오랜 시간에 걸쳐 그려졌다는 사실을 알 수 있을까요? 이는 그림을 새긴 기법을 보면 알 수 있어요. 먼저 ‘면 새김’ 기법이라는 것이 있어요. 동물의 윤곽을 그린 다음, 안쪽을 쪼거나 긁어 표현하는 방식이죠. 주로 신석기 시대에 쓰였답니다. 반면, ‘선 새김’ 기법은 대상의 윤곽선이나 특징을 선이나 점으로 가늘게 새기는 방법이에요. 이건 청동기 시대에 많이 사용됐다고 알려졌어요. &lt;br&gt;&lt;br&gt;반구대 암각화는 이 두 기법이 모두 쓰였고, 어떤 그림은 두 기법이 섞여 있기도 해요. 그래서 학자들은 신석기부터 청동기 시대까지 계속 그림이 추가된 것으로 보고 있어요. 아마도 과거 사람들은 사냥이 잘되기를 기원하며 이 거대한 그림을 그렸을 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJ7F53PQYJHIDJR3LJ5SGTRKDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;반구대 암각화에 그려진 고래 그림. 과거 울산 앞바다에선 고래가 자주 나타났고, 사냥도 활발하게 이뤄졌음을 알 수 있어요.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSMVDMVTNVEJXONI3GTPG3YH2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스페인 알타미라 동굴에 그려져 있는 벽화예요. 이곳엔 들소, 사슴, 염소 등 동물 그림이 새겨져 있지요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHCPHCW4IVG3NNJ6UZAY2PKQOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 라스코 동굴 천장에 새겨져 있는 동물 그림. 말이나 멧돼지 같은 동물이 다양한 색깔로 표현돼 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLTCCHUXDJANJFRUZ5IWPTWQ5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 쇼베 동굴 벽화. ‘가장 오래된 예술 작품’ 중 하나로 여겨지는 그림으로, 동물들이 마치 살아 움직이는 것처럼 생생하게 묘사되어 있지요.
-/울산시·유네스코·브리태니커&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;생생한 색깔로 묘사된 구석기 벽화&lt;/b&gt;&lt;br&gt;&lt;br&gt;그보다 더 오래된 구석기 시대 사람들의 삶을 보여주는 벽화도 있어요. 바로 스페인 북부 알타미라 동굴의 벽화입니다. 이 벽화는 약 1만6000년 전, 구석기인들이 그린 것으로 알려져 있답니다.&lt;br&gt;&lt;br&gt;19세기 말 이 동굴벽화가 학계에 처음 알려졌을 때만 해도, 당시 고고학자들은 이 벽화가 위조된 것으로 생각했다고 해요. ‘구석기인들이 이렇게 사실적이고 세련된 그림을 그릴 수 없어’라고 생각했던 것이지요. 이것이 구석기 시대 그림으로 받아들여진 것은 그로부터 수십 년이 지난 후였답니다.&lt;br&gt;&lt;br&gt;벽화에는 무엇이 그려져 있었을까요? 벽에는 주로 들소, 말, 사슴 같은 동물이 그려져 있었어요. 놀라운 점은 이 동물들이 단순히 서 있는 모습으로 묘사되지 않았다는 거예요. 달리는 모습, 뛰어오르는 모습, 웅크려 앉은 모습 등 아주 다양한 동작으로 표현돼 있어요. 그림을 그린 사람이 동물의 생김새와 움직임을 정말 자세히 관찰했음을 알 수 있죠.&lt;br&gt;&lt;br&gt;색깔도 아주 생생해요. 그림엔 주로 붉은색과 검은색이 이용됐어요. 철 산화물로 붉은색과 노란색을, ‘망간’이라는 광물이나 동물 뼈를 태운 재로 검은색을 표현했지요. 그림을 그리는 방법도 흥미로운데요. 어떤 그림은 손바닥에 물감을 묻혀 벽에 찍기도 하고, 또 어떤 그림은 손을 벽에 댄 상태에서 물감을 묻혀 윤곽선을 그리기도 했어요. 마치 ‘스프레이’처럼요. 세계적 화가 파블로 피카소는 이 벽화를 보고 “알타미라 이후 모든 예술이 퇴보했다”고 말한 것으로 전해집니다. 이 벽화는 1985년에 유네스코 세계문화유산에 등재됐죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;불 밝혀서 동굴에서 작업&lt;/b&gt;&lt;br&gt;&lt;br&gt;알타미라 동굴 벽화와 함께 구석기 시대를 대표하는 또 다른 벽화도 있어요. 바로 프랑스 남서부에 있는 ‘라스코 동굴벽화’예요. 이 벽화는 기원전 1만7000년에서 1만5000년 사이에 그려진 것으로 추정돼요. 웅장한 규모와 우수한 예술성 덕분에, 알타미라 동굴벽화보다 더 이른 1979년 세계문화유산으로 지정됐죠.&lt;br&gt;&lt;br&gt;라스코 동굴은 넓은 주 동굴에 좁고 긴 동굴들이 여러 갈래로 나 있는 구조예요. 전체 길이는 약 250m에 달하지요. 그럼 어떻게 이 어두운 동굴에 그림을 그릴 수 있었을까요? 구석기 시대 사람들은 동물 기름을 이용해 불을 붙인 뒤 어두운 동굴에서 그림을 그렸다고 합니다.&lt;br&gt;&lt;br&gt;라스코 동굴에는 총 2000점이 넘는 그림이 그려져 있어요. 주로 말, 들소, 사슴, 멧돼지 같은 동물들이며, 노란색·붉은색·검은색·갈색 등 다양한 색깔로 칠해져 있지요. 울퉁불퉁한 동굴 벽면에 그린 그림들은 마치 3D 그림처럼 보이기도 해요. 학자들은 이 동굴에서 성공적인 사냥을 기원하는 주술 의식이 있었을 것이라고 추측한답니다.&lt;br&gt;&lt;br&gt;그렇다면 가장 오래된 동굴벽화는 무엇일까요? 프랑스 남부의 쇼베 동굴에 그려진 벽화는 지금까지 발견된 인류의 예술 작품 중 가장 오래된 것 중 하나로 여겨진답니다. 이 동굴은 오랜 시간 동안 입구가 바위로 막혀 있어 사람이 들어갈 수 없었는데, 오히려 그 덕분에 벽화가 훼손되지 않고 잘 보존될 수 있었죠. 탄소연대 측정법으로 조사한 결과, 이 벽화들은 약 3만년 전에 그려진 것으로 보인대요.&lt;br&gt;&lt;br&gt;이 벽화에는 다양한 동물이 등장해요. 하이에나, 표범, 올빼미, 들소, 산양, 사슴 등 외에도 매머드나 오록스(소의 조상) 등 지금은 멸종된 동물들도 있어요. 흑백으로 그려졌음에도 마치 살아 움직이는 것처럼 생생하게 표현되어 있지요. 쇼베 동굴 벽화 또한 2014년 유네스코 세계문화유산으로 지정됐답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 여름방학 NIE 특강 수강생 모집 </title>
-      <link>https://www.chosun.com/national/nie/2025/07/23/D3LRXL4G2ZCULLO6BANUBZ27XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/23/D3LRXL4G2ZCULLO6BANUBZ27XI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NENIUJT3YBCCHEOW2V2SDYE6DI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보NIE교육센터에서 NIE 여름방학 특강 수강생을 모집합니다. 시사, 인문, 과학 등 다방면의 기사를 읽는 NIE(신문활용교육) 수업은 아이들의 문해력과 독해력 향상에 효과적입니다. NIE 특강과 함께 알차고 보람찬 여름방학을 만들어보세요. &lt;br&gt;&lt;br&gt;▲&lt;b&gt;수업 일정&lt;/b&gt;: 7월 28일(월)~8월 22일(금) / 회차별 1시간 40분 수업&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수강료&lt;/b&gt;: 4만원(회차별)&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장소&lt;/b&gt;: 대치동 에듀조선 NIE 논술학원·흑석동 조선일보 뉴지엄&lt;br&gt;&lt;br&gt;▲&lt;b&gt;수강 신청&lt;/b&gt;: 홈페이지(nie.chosun.com) 접수&lt;br&gt;&lt;br&gt;▲&lt;b&gt;문의&lt;/b&gt;: 02-724-6024, 02-6956-6109&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [동물 이야기] 황량한 ‘아프리카의 뿔’이 고향… 세계 당나귀의 조상으로 여겨져요</title>
       <link>https://www.chosun.com/national/nie/2025/07/23/64AV4LTRWRCT3MQ2WXTL35Y66Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/23/64AV4LTRWRCT3MQ2WXTL35Y66Q/</guid>
@@ -834,15 +898,6 @@
 /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이곳에 사는 소말리아야생당나귀는 다 자라면 어깨높이가 1.2~1.7m, 몸무게는 270㎏ 정도로 말 종류 중에서 가장 작은 편에 속한답니다. 가축으로 길들여져 전 세계로 퍼져나간 당나귀의 조상으로 여겨지고 있죠. &lt;br&gt;&lt;br&gt;분류학적으로는 얼룩말이랑 가깝다고 하는데 실제 생김새를 보면 고개를 끄덕이게 된답니다. 머리부터 목까지 바짝 갈기가 서 있는 모습은 얼룩말과 빼닮았고요. 네 다리 또한 얼룩말과 비슷한 흑백 무늬로 돼 있거든요. &lt;br&gt;&lt;br&gt;소말리아야생당나귀는 여느 말·당나귀보다 발굽이 좁은 편이에요. 이런 발 구조는 가파른 바위산을 다니는 데 아주 요긴하죠. 또 늑대 등 천적에게 쫓기다 코너에 몰리면 발길질을 하며 저항하는데, 이럴 때 좁은 발굽이 마치 날카로운 칼 같은 방어 수단이 된대요. &lt;br&gt;&lt;br&gt;소말리아야생당나귀는 얼룩말·말·당나귀와 비교했을 때 몸에 비해 커다란 귀를 갖고 있어요. 큰 귀는 몸의 열을 발산하는 데 도움을 준답니다. 더운 지방에 사는 사막여우가 유달리 커다란 귀를 갖고 있는 것과 같은 이치죠. &lt;br&gt;&lt;br&gt;아주 단단한 이빨을 갖고 있는 것도 특징이에요. 황량한 ‘아프리카의 뿔’ 지역에선 먹거리를 가릴 만한 형편이 못 돼요. 눈에 보이는 어떤 풀이든 먹어야 하죠. 그래서 소말리아야생당나귀의 이빨은 어떤 거친 풀이라도 끊어서 씹어 삼킬 수 있을 정도로 튼튼합니다. 이런 곳에서는 물을 찾는 것도 어려운데, 이 녀석들은 물 없이도 사흘을 버틸 수 있대요. &lt;br&gt;&lt;br&gt;소말리아야생당나귀는 무리 생활을 하는데, 얼룩말과 비슷합니다. 수컷들은 주로 자신의 영역을 정해 놓고 단독 생활을 하는 반면 암컷과 어린 새끼들은 무리를 이뤄서 지내죠. 수컷은 자신의 대변을 쌓아서 영역을 표시하는데 다른 수컷에게 ‘가까이 오지 말라’는 경고판 역할을 한답니다. 반면, 암컷에게는 ‘함께 지내자’는 의미의 환영 플래카드와도 같대요. &lt;br&gt;&lt;br&gt;소말리아야생당나귀는 강인함을 상징하는 동물이지만 현재는 야생에 기껏 600마리 정도밖에 남아있지 않은 멸종 위기종이랍니다. 사람들은 오랫동안 이 녀석들을 사냥해 고기는 식용으로 쓰고, 지방으로는 간염이나 결핵 환자를 위해 약을 만들어 썼대요. 그래서 지금은 세계 여러 동물원이 손을 맞잡고 이들의 보존을 위해 노력하고 있답니다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [404] ‘들이다’와 ‘들리다’</title>
-      <link>https://www.chosun.com/national/nie/2025/07/23/L5FLSWX2ZZHHNNREFNDM3DPYTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/07/23/L5FLSWX2ZZHHNNREFNDM3DPYTY/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHI4YSN75RHN7EIWB5QXHWGXVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*“요새 날이 너무 더워서 시원한 빙수에 맛들렸어.” &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;*“요즘은 읽기만 해도 오싹해지는 스릴러 소설에 재미들린 친구들이 많다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;무더위를 이겨내는 비결을 이야기하는 대화 같은데요. 사실 이 안에는 틀린 말이 들어 있어요. “맛들렸어”는 “맛(을) 들였어”로, “재미들린”은 “재미(를) 들인”으로 바꿔 써야 한답니다.&lt;br&gt;&lt;br&gt;흔히 무언가에 푹 빠지게 되면 ‘맛들리다’ 같은 말을 많이 써요. 그러다 보니 ‘맛들려’ ‘맛들린’과 같이 잘못 활용하는 경우도 많은데, 정확한 표현은 ‘맛(을) 들이다’예요. &lt;br&gt;&lt;br&gt;‘들이다’는 ‘들다’의 사동사예요. 쉽게 말하면, 무언가를 스며들게 하거나 익숙하게 한다는 뜻이에요. 예를 들어, ‘손톱에 봉숭아 물을 들이다’ ‘김치를 푹 익혀 맛을 들이다’ ‘일찍 일어나는 습관을 들이다’와 같이 쓰지요. 이런 식으로 ‘들이다’는 색깔, 맛, 습관 등을 익히게 하거나 익숙하게 만든다는 말이에요. 비슷한 말로는 ‘물들이다’ ‘길들이다’ 등이 있어요.&lt;br&gt;&lt;br&gt;‘들리다’는 전혀 다른 말이에요. 소리가 들리거나, 무언가에 영향을 받는 것을 의미하지요. ‘귀신에 들리다’와 같이 쓰는데, 이 때 비슷한 말은 ‘걸리다’예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문]&lt;/b&gt;&lt;br&gt;&lt;br&gt;-일찍 일어나는 습관을 들였더니 아침 식사 시간이 무척 여유롭다.&lt;br&gt;&lt;br&gt;-그는 귀신에 들린 것처럼 알아듣지 못할 말을 횡설수설 내뱉었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 7월 23일</title>
       <link>https://www.chosun.com/national/national_general/2025/07/22/YVG74JOE6JAEVA7JOI57TBF33A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/YVG74JOE6JAEVA7JOI57TBF33A/</guid>
@@ -850,15 +905,6 @@
       <description/>
       <pubDate>Tue, 22 Jul 2025 14:38:00 +0000</pubDate>
       <content:encoded>전국 구름 많음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWLHOWS6ARE25B7S7VRL2CP7RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“국회의원 만나러 왔다” 공포탄 들고 국회 찾은 80대 男 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/22/JUFUM4SG3RGSVENNDQOUUGUUBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/JUFUM4SG3RGSVENNDQOUUGUUBM/</guid>
-      <dc:creator>한영원 기자, 김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 13:55:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5G57E7RYYZWMSBYHHVYAD5XIIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포구 여의도 국회의사당 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“국회의원을 만나러 왔다”며 수백발의 공포탄을 들고 국회를 찾은 80대 남성이 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 22일 오전 8시쯤 공포탄을 가지고 국회 경내에 진입하려던 80대 남성 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 총기 없이 공포탄만 소지한 채 서울 여의도 국회 경내에 진입하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨가 가져온 수백발의 공포탄은 건설 현장에서 쓰이는 타정총용 공포탄인 것으로 알려졌다. 사제 탄알은 아닌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;공포탄을 소지한 A씨는 “국회의원을 만나러 왔다”며 국회로 진입하려고 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 가져온 공포탄이 절도한 것인지 등 구체적인 사건 경위를 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수업 방해 않겠다” “성실히 듣겠다”... 복귀 의대생, 서약서 쓴다 </title>
@@ -891,42 +937,6 @@
       </media:content>
     </item>
     <item>
-      <title>보이스피싱·마약 조직 총책 검거 보상금, 최대 5억원으로 상향</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/22/BAYSL4VN7FCQFFRTCHHF2DFE4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/BAYSL4VN7FCQFFRTCHHF2DFE4E/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 11:32:31 +0000</pubDate>
-      <content:encoded>경찰이 보이스피싱과 마약 범죄 조직에 대한 검거 보상금을 최대 5억원으로 상향하기로 했다. 최근 보이스피싱과 마약 범죄 규모가 갈수록 커지고 조직화되면서 조직 상층부를 검거하려면 내부 제보가 필수적이라는 판단 때문이다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 22일 ‘범인 검거 등 공로자 보상에 관한 규정(경찰청 고시)’을 개정하고 특별 검거 보상금 제도를 신설하겠다고 22일 밝혔다. 이에 따라 보이스피싱 조직·총책에 대한 제보에 대한 검거 보상금은 최대 1억원에서 5억원으로, 마약 50㎏ 이상이 압수된 마약 조직·총책 등에 대해선 기존 최대 2000만원에서 5억원으로 늘어난다. 구체적 보상 액수는 사안의 중대성, 피해의 심각성, 검거된 조직 규모, 제보 기여도 등을 따져 결정된다.&lt;br&gt;&lt;br&gt;기존 고시에선 검거 보상금을 산정할 때 범죄 피의자가 개인인지 조직원인지 등의 여부를 구분하지 않았다. 마약 범죄도 압수량이 10㎏이든 50㎏이든 보상금은 최대 2000만원으로 동일했다. 하지만 최근 이런 범죄들은 대부분 조직적으로 이뤄지는 데다, 마약 유통량도 급증하고 있어 기준을 세분화하기로 했다. &lt;br&gt;&lt;br&gt;경찰은 이를 통해 범죄 조직 내부의 신고를 최대한 유도하겠다는 방침이다. 점조직 형태로 움직이는 경우가 많은 이들 범죄 조직 특성상, 조직의 전모를 밝히고 간부급 신원을 특정하기 위해선 내부자의 결정적 제보가 절실하다는 것이다. 경찰 관계자는 “112 신고나 경찰 민원 포털 사이트를 통해 신고할 수 있다”며 “신고·제보자 신원 보호를 최우선으로 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘쯔양 협박’…검찰, 구제역에 징역 4년 재차 구형</title>
-      <link>https://www.chosun.com/national/incident/2025/07/22/TGYYOB5EM5AMVI53ZPHBM7DDTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/22/TGYYOB5EM5AMVI53ZPHBM7DDTM/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 10:40:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OEMTZD6YYJOTBE3YV3OSYA7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양(본명 박정원)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 쯔양(본명 박정원)을 협박해 수천만원을 갈취한 혐의로 1심에서 실형을 선고받은 유튜버 구제역(본명 이준희)에 대해 검찰이 항소심에서도 징역 4년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;22일 수원지법 형사항소3-3부(재판장 김은교) 심리로 열린 항소심 결심공판에서 검찰은 “피고인은 수사와 재판 과정 내내 혐의를 부인하고, 피해자를 무고로 고소하는 등 2차 가해를 이어왔다”며 이같이 구형했다. 구제역은 1심에서 징역 3년을 선고받고 항소한 상태다.&lt;br&gt;&lt;br&gt;구제역 측은 혐의를 부인했다. 구제역 측 변호인은 “이 사건은 피고인에게 악감정을 가진 제3의 인물이 조작된 날짜가 적힌 내용 등으로 제보해서 또 다른 유튜버에 의해 촉발된 것”이라며 “여론에 의해 이미 단죄된 사람을 다시 판단하기 쉽지 않지만, 법원에서 정확하게 판단하지 않는다면 이 사건의 진실은 묻힐 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 함께 기소된 유튜버 주작감별사(전국진)에게도 1심과 마찬가지로 징역 3년을, 카라큘라(이세욱)와 크로커다일(최일환)에게는 각각 징역 2년, 징역 1년을 구형했다. 이들은 구제역에게 “쯔양에 관한 폭로 영상을 올리기보다 직접 돈을 뜯어내는 것이 이익”이라는 식의 조언을 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;협박을 주도한 변호사 최모씨에 대해서는 징역 5년을 재차 구형했다. 최씨는 과거 쯔양의 전 남자친구 A씨가 연루된 민사소송을 맡으며 사적인 정보를 알게 된 뒤 이를 유출한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 구제역에게 징역 3년을, 주작감별사와 카라큘라에겐 각각 징역 1년에 집행유예 3년, 크로커다일에겐 벌금 500만원을 선고했다. 최 변호사에겐 징역 2년이 내려졌다.&lt;br&gt;&lt;br&gt;구제역과 공범들에 대한 항소심 선고 공판은 오는 9월 5일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미용실 침입해 100만원 훔친 범인 잡고 보니 피해자 ‘남편’</title>
-      <link>https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/22/JCAS5VTLZVGXLN7IAXN2H5ZVRA/</guid>
-      <dc:creator>상주=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 10:08:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4JNNA63IJHXYPIIBJ7DXGEVSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 상주에서 심야 시간대 미용실에 침입해 현금을 훔친 절도범이 사건 발생 하루 만에 경찰에 붙잡혔다. 그러나 범인이 다름 아닌 피해자의 남편이자 현직 공무원으로 밝혀졌다. &lt;br&gt;&lt;br&gt;상주경찰서는 야간주거침입 및 절도 혐의로 현직 공무원 A(45)씨를 붙잡아 조사 중이라고 22일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 21일 오전 상주 시내에서 미용실을 운영하는 B씨는 “금고에 보관 중이던 현금 100만원이 사라졌다”며 경찰에 신고했다.&lt;br&gt;&lt;br&gt;수사에 착수한 경찰은 주변 보안카메라 영상을 분석한 결과, 하루 전인 20일 0시 43분쯤 한 남성이 미용실에 침입하고 미용실 금고에서 현금을 꺼내 나오는 장면을 확인했다. 경찰은 이 남성을 유력한 용의자로 보고 추적 끝에 21일 검거했다. &lt;br&gt;&lt;br&gt;그러나 그를 조사하는 과정에서 경찰은 깜짝 놀랐다. 현금을 훔친 범인이 신고를 한 미용실 주인 B씨 남편인 것이다. &lt;br&gt;&lt;br&gt;A씨는 문경소방서에 근무하는 현직 공무원으로 알려졌다. B씨가 신고하기 전까지 자신의 범행을 숨기고 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;도둑을 잡았지만 경찰의 고민은 깊다. 현행 형법 규정된 ‘친족상도례’ 조항 때문이다. 이 조항은 부모, 자식, 배우자 등 친족 간의 재산범죄에 대해 형사처벌을 면제하는 내용을 담고 있다. 아들이 아버지의 승용차를 훔쳐 달아날 경우도 이 법에 따라 처벌할 수 없는 것이다. &lt;br&gt;&lt;br&gt;해당 조항은 지난해 6월 헌법재판소에서 헌법불합치 판결을 받았다. 하지만 아직까지 형법 개정이 이루어지지 않아 효력이 남아 있는 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 정확한 범행 경위와 동기 등을 조사하고 있다”며 “향후 법적 조치에 대해선 유관 기관과 협의해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘다이아 목걸이’ 영수증 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/22/GL5XMBMZWREPNHND236AD2BTV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/GL5XMBMZWREPNHND236AD2BTV4/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 09:35:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EM4HOPTGKY5M463VM2MBVBQL2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령의 배우자 김건희 여사가 10일 오전 경기 성남시 서울공항에 도착해 윤 대통령과 함께 중앙아시아 3개국 순방길에 오르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 세계평화통일가정연합(통일교)이 김 여사에게 전달할 목적으로 구매한 목걸이 영수등을 확보한 것으로 22일 알려졌다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 특검팀은 윤모 전 통일교 세계선교본부장이 구매한 다이아몬드 목걸이와 샤넬백 등의 구매 영수증을 확보하고 있는 것으로 알려졌다. 윤모씨는 2022년 4~8월쯤 해당 목걸이 등을 ‘건진법사’ 전성배씨를 통해 김 여사에게 건넨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이에 대해 통일교 관계자는 “특검이 압수 수색을 벌이기 전에 저희가 해당 영수증을 특검에 제출했다”며 “이같은 구입이 윤 전 본부장 개인 일탈”이라고 주장했다. 통일교 차원의 청탁이 아니라 윤 전 본부장이 스스로 벌인 일이라는 것이다. 앞서 통일교 측은 이같은 이유로 윤 전 본부장을 지난달 출교 조치했다.&lt;br&gt;&lt;br&gt;그러나 윤 전 본부장 측은 “실제로 영수증은 통일교 한국본부 사무실에서 특검에 의해 확보됐다”며 “이는 조직 차원에서 해당 내역이 관리됐음을 의미한다”고 반박했다. &lt;br&gt;&lt;br&gt;앞서 이 사건을 담당했던 서울남부지검은 전씨에게 전달된 목걸이와 샤넬 백을 확보하지 못한 것으로 알려졌다. 전씨는 이 선물들을 김 여사에게 전달하지 않았고, 잃어버렸다는 입장이다. &lt;br&gt;&lt;br&gt;특검팀은 해당 선물들을 찾는 한편 이 선물을 사들이는데 통일교의 자금이 쓰였는지 조사할 계획이다. 특검팀은 지난 18일 가평에 있는 통일교 본부와 서울 용산구에 있는 통일교 한국협회본부, 마포구 통일유지재단 등 10여곳에 대한 압수 수색에 나섰다. 다만 아직까지 목걸이와 샤넬백 등의 실물을 찾진 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘李 대장동 변호사’ 조상호 대통령실 행정관, 법무장관 정책보좌관 내정</title>
       <link>https://www.chosun.com/national/court_law/2025/07/22/OKL6SYJ2YJH3NAHFZPMIRLSXTE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/22/OKL6SYJ2YJH3NAHFZPMIRLSXTE/</guid>
@@ -952,15 +962,6 @@
       <description/>
       <pubDate>Tue, 22 Jul 2025 06:22:49 +0000</pubDate>
       <content:encoded>김건희 여사 일가의 측근으로 알려진 김모씨가 임원을 지낸 IMS모빌리티의 ‘특혜성 투자’ 의혹을 수사하는 민중기 특검이 IMS모빌리티에 투자한 기업에 대한 소환 조사를 이어간다. 특검은 오는 23일 신한은행과 경남스틸 측 관계자를 특검 사무실로 불러 조사할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GQZATYY2FK3DSUPEQQKDBYZ7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 특검의 오정희 특검보./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 투자 액수가 큰 키움증권의 김익래 전 회장과 한국증권금융의 윤창호 전 사장, 카카오모빌리티 류긍선 대표를 이미 조사했고, HS효성의 조현상 부회장도 조사가 필요하다고 보고 있다. &lt;br&gt;&lt;br&gt;이에 더해 특검은 사모펀드 ‘오아시스에쿼티파트너스’를 통해 투자한 신한은행과 경남스틸 측 관계자도 조사하겠다는 계획을 22일 밝힌 것이다. 오정희 특검보는 이날 브리핑에서 “23일엔 두 기업 외에도 JB우리캐피탈을, 24일엔 유니크와 중동파이넨스(현 한컴밸류인베스트먼트)를 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 전날 소환 계획을 밝힌 윤석열 전 대통령과 배우자 김건희 여사의 출석 여부에 대해서는 아직 연락을 받지 못했다고 한다. 특검은 김 여사에겐 등기우편으로 출석요구서를 보냈다. 윤 전 대통령의 경우 서울구치소에 수감돼 있어 구치소로 출석요구를 보냈다고 한다. 이에 따라 실제로 요구서가 도착할 때까지 시간차가 생긴다는 것이다. 다만 김 여사 측은 전날 “특검 조사에 적극 협조할 것”이라는 입장을 간단히 밝힌 바 있다.&lt;br&gt;&lt;br&gt;특검은 ‘김 여사가 검찰 수사 단계에서 소환 통보에 불응한 것을 감안하느냐’는 질문에는 “전체적으로 검토 중”이라며 “어떤 방향이 정해진 상황이 아니다”고 했다. 앞서 내란 특검은 윤 전 대통령이 경찰의 출석 요구에 불응한 점을 들며, 특검 출석에 불응하자 체포영장을 청구했다 기각된 바 있다. &lt;br&gt;&lt;br&gt;한편 특검은 구속영장 실질심사를 피해 도주한 것으로 알려진 이기훈 삼부토건 부회장에 대해선 검거팀을 구성해 신속히 검거하겠다고 강조했다. 이전에 발부 받은 체포영장의 유효기간이 만료되자 이를 반납한 뒤 새로 발부 받았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“찌개용 앞다리살이었다”…울릉도 ‘비계 삼겹살’ 업주 해명 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/22/Y6UEL7PO4FEE3AP3LNJKVDUAGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/22/Y6UEL7PO4FEE3AP3LNJKVDUAGU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 22 Jul 2025 02:56:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CKGMS3OYZD6PAHRONPZLYCVVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 울릉도에서 절반이 비계인 1인분 (120g) 1만5000원짜리 삼겹살을 먹은 영상을 공개해 바가지 논란이 일고 있다. /유튜브 '꾸준 kkujun'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울릉도를 찾은 한 여행 유튜버가 식당에서 비계가 절반 이상인 삼겹살을 먹은 사실이 알려지면서 논란이 된 가운데 식당 업주가 “찌개용 앞다리살을 잘못 내놓은 것”이라며 사과했다. &lt;br&gt;&lt;br&gt;구독자 55만명을 보유한 유튜버 ‘꾸준 kkujun’은 지난 19일 울릉도 여행기를 담은 영상을 올렸다. 영상을 보면 그는 고깃집에서 1인분(120g)에 1만5000원짜리 삼겹살을 주문했다. 하지만받은 고기의 절반 이상이 비계였다.&lt;br&gt;&lt;br&gt;유튜버가 “기름을 일부러 반씩 주는 거냐”고 묻자, 식당 관계자는 “육지처럼 부위를 나눠 팔지 않고 통으로 썰어드린다”며 “처음엔 거부감을 보여도 구워 먹으면 맛있다고 한다”고 설명했다. 이 영상은 온라인상에 빠르게 퍼졌고 울릉도 관광업계전반에에 대한 비판 여론이 일기 시작했다. &lt;br&gt;&lt;br&gt;논란이 된 식당 업주는 지난 21일 JTBC ‘사건반장‘을 통해 “제 불찰이다. 그날 제가 병원에 가서 없는 사이 직원이 옆에 빼놓은 고기를 썰어줬던 것 같다”며 “(고기 부위는) 앞다리살인데, 찌개용으로 빼놓은 것”이라며 “자기가 (직원이) 혼자 있다 보니 어떻게 했나 본데 그래도 제 책임이다. 제가 제대로 못 운영한 것”이라고 해명했다. &lt;br&gt;&lt;br&gt;이어 “(유튜버에게) 너무 많이 미안하고 울릉도 분들한테도 미안하다. 제 실수가 맞지 않냐. 저는 유튜브에 댓글 다는 것도 안 하고 다 감수하려고 하고 있다”고 덧붙였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RFBJCFLQZF6NB4TXBTZVHDNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수의 한 식당이 혼자 방문한 손님을 무례하게 대하는 모습이 포착돼 논란이 되고 있다./ 유튜브 '유난히 오늘'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이처럼 최근 여행 유튜버들의 경험이 전해지며 지역 관광지의 불편함이 알려지는 사례가 생겨나고 있다. 한 여성 유튜버는 지난 3일 전남 여수의 유명 식당에 방문했다가 2인분을 시켰음에도 빨리 먹으라는 재촉을 받았다. 공개된 영상을 보면 식당 측은 식당에 들어온 지 20분밖에 지나지 않았음에도 유튜버에게 “얼른 먹어야 한다” “고작 2만원 가지고” 등의 발언을 해 공분을 샀다.&lt;br&gt;&lt;br&gt;논란이 커지자, 여수시는 지난 15일 불친절 응대 논란이 제기된 해당 식당을 직접 방문해 실태 점검에 나섰다. 결국 해당 식당은 지난 20일 사과문을 내걸었다. 사과문에는 자필로 “문제를 일으켜 죄송하다. 앞으로 친절하고 부드러운 손님맞이를 하겠다. 죄송하다”고 적혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
