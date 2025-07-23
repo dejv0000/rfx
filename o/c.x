@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천 총기사건 전처 “피의자 열등감 없는 사람, 범행 이해 안돼”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/24/CFGLTTMM2FGQVPCOSQXLPCEE4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/24/CFGLTTMM2FGQVPCOSQXLPCEE4E/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 23 Jul 2025 22:01:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4ACUKD7TZNJRMNQJL6WQSC2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 인천 송도국제도시 아파트에서 60대 남성이 아들을 사제총기로 살해한 뒤 체포됐다. 경찰이 집에 폭발물을 설치했다는 피의자 진술을 토대로 서울 도봉구 피의자 자택을 수색하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도에서 생일상을 차려준 아들을 사제 총기로 살해한 60대 남성의 범행 동기로 열등감이 거론되자 피해자 유족 측은 “손자와 손녀가 읽을 수 있다”며 추측성 보도를 자제해 달라고 요청했다. &lt;br&gt;&lt;br&gt;유족 측은 23일 입장문을 내고 “피의자와 과거에 함께 살아본 경험으로 말씀드리지만, 피의자는 열등감과 자격지심이 하나도 없는 사람”이라며 “스스로에 대한 자신감이 충만했던 사람”이라고 밝혔다. 이 입장문은 피의자 A씨의 전처 B씨가 작성한 것으로 보인다. &lt;br&gt;&lt;br&gt;B씨는 “저는 피의자를 위해 몇 번 사업을 할 수 있도록 가게를 얻어주는 등 지원했다”며 “번번이 실패했으나 이에 대해 어떤 책임을 추궁한 적도 없다”고 했다. 이어 “피의자가 대학원에 가고 싶다고 해서 대학원 비용도 지원해 줬다. 그러나 1년 정도 다니다가 코로나로 인해 수업 진행이 안 되어 더 이상 공부를 안 하겠다고 했다”고 했다. &lt;br&gt;&lt;br&gt;B씨는 “이처럼 저는 피의자와 이혼 후에도 피의자에게 모든 지원을 아끼지 않았고, 이는 저희 자식들의 아버지이기 때문이었다”고 했다. &lt;br&gt;&lt;br&gt;B씨는 피해자인 아들에 관해서는 “아이들에게 존경받는 부모가 되고 싶다고 하면서 이를 위해 스스로 부모에게 잘하는 모습을 보여야 한다고 생각했다”며 “그래서 피의자의 생일도 직접 챙겨주고 평소 연락도 자주 하며 아버지를 챙겼다”고 했다. 이어 “가정과 사회에서 최선을 다하던 피해자를 왜 살해한 것인지 도무지 이해되지 않는다”고 했다. &lt;br&gt;&lt;br&gt;B씨는 사건과 관련된 내용을 경찰에 모두 진술할 예정이라며 “더 이상의 추측성 보도는 하지 말아 달라. 손자와 손녀가 읽을 수 있다”고 했다. &lt;br&gt;&lt;br&gt;전날에는 피해자의 아내이자 피의자의 며느리 C씨가 언론에 입장문을 배포해 “피의자가 ‘이혼에 의한 가정불화’로 이 사건 범행을 저질렀다는 것은 전혀 근거 없는 주장에 불과하다”고 했다. C씨는 “이 사건은 피의자가 주도면밀하게 계획하고 아무런 잘못이 없는 피해자를 가족들이 보는 앞에서 무참히 살해한 사건”이라며 “피의자에게는 참작될 만한 그 어떤 범행 동기도 있을 수 없다”고 했다. &lt;br&gt;&lt;br&gt;피의자 A씨는 지난 20일 오후 9시 31분쯤 인천시 연수구 송도동 모 아파트 33층 집에서 사제 총기를 발사해 아들을 살해한 혐의를 받는다. A씨의 서울 도봉구 집에서는 시너가 담긴 페트병, 세제통, 우유통 등 인화성 물질 15개와 점화장치가 발견됐다. &lt;br&gt;&lt;br&gt;경찰은 유족이 제출한 의견서에서 A씨가 아들뿐만 아니라 며느리와 손주 등을 모두 살해하려 했다고 주장하자 살인예비나 살인미수 등 추가 혐의를 적용할지 검토하기로 했다. 경찰은 A씨의 구속 기간 만료일인 오는 29일까지 수사를 최대한 마무리하고 검찰에 송치할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“한국서 외국인이 뼈다귀 해장국으로 성공한 격”</title>
       <link>https://www.chosun.com/national/people/2025/07/24/ILM3GBJIEFEWNFVZJKN77NZ75A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/24/ILM3GBJIEFEWNFVZJKN77NZ75A/</guid>
@@ -733,15 +742,6 @@
       <description/>
       <pubDate>Wed, 23 Jul 2025 02:20:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3UZPA27G3WAA2KNBYV2IAU2AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 서울 종로구 김건희 특검팀 사무실 앞에서 취재진이 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검이 23일 김 여사를 지근거리에서 보좌한 것으로 알려진 전직 대통령실 행정관을 소환했다.&lt;br&gt;&lt;br&gt;특검은 이날 언론 공지를 통해 조모 전 대통령실 행정관을 소환해 조사 중이라고 밝혔다. 조 전 행정관은 이른바 ‘관저팀’에 소속돼 김 여사를 수행한 것으로 알려진 인물 중 한 명이다. 특검은 이날 조 전 행정관을 상대로 윤석열 전 대통령 취임 이후 김 여사 행적 전반을 묻는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 특히 김 여사가 윤 전 대통령 취임 이후인 2022년 6월 나토 순방에 동행할 당시 제기됐던 ‘목걸이 재산신고 누락’ 등 의혹에 대해 물을 것으로 전해졌다. 대통령실은 이에 대해 “지인에게 빌린 것”이라는 취지로 해명한 바 있다.&lt;br&gt;&lt;br&gt;조 전 행정관은 검찰이 불기소 처분한 김 여사의 ‘디올 백 수수’ 의혹에도 등장한다. 재미교포 목사인 최재영씨는 2022년 9월 김 여사를 만나 300만원 상당의 디올 백을 전달하면서 김창준 전 미 하원 의원의 국정자문위원 임명 및 국립묘지 안장, 통일TV 송출 재개 등을 청탁했다고 주장했는데, 최씨는 조 전 행정관으로부터 전화를 받아 김 전 의원 관련 민원 내용 검토 결과에 대한 설명을 듣고, 담당 공무원을 연결 받았다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 불법 사제 총기 대책 내놔… 신고 기간 확대 운영</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/23/OUE5SYSNC5FPRNCBCDLEQMDN5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/23/OUE5SYSNC5FPRNCBCDLEQMDN5Q/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 02:32:34 +0000</pubDate>
-      <content:encoded>경찰이 지난 20일 인천 송도에서 발생한 총격 사건을 계기로 사제 총기 등 관리 대책을 강화하겠다고 23일 밝혔다. 피의자 조모(62)씨가 직접 제작한 사제 총으로 범행을 저지른 데 따른 것이다. 매년 9월 한 달간 운영해 온 자진 신고 기간을 8월로 앞당겨 확대 운영하고, 신고 기간이 끝나면 집중 단속에 나선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUSMKVRM3I6X2JERUNXBEPMJCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2016년 '오패산 터널 총격' 사건에서 사용된 사제 총기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자진 신고 기간은 8월 1일부터 9월 30일까지다. 신고는 본인 또는 대리인이 가까운 경찰서, 지구대, 파출소나 신고소를 운영하는 군부대에 직접 방문해 불법무기를 제출하는 식으로 이뤄진다. 기간 내에 자진 신고하면 형사처벌과 행정처분을 면제한다. &lt;br&gt;&lt;br&gt;자진신고 기간 종료 이후에는 ‘불법무기 집중단속’ 기간을 운영한다. 사제 총기 등 불법 총기를 제조·판매·소지하다 적발될 경우 총포화약법에 따라 3년 이상 15년 이하의 징역이나 3000만~1억원의 벌금에 처해질 수 있다. &lt;br&gt;&lt;br&gt;경찰은 유튜브 등에서 쉽게 접할 수 있는 불법 총기 제조법 등을 근절하기 위해, 관련 게시물 삭제·차단과 유포자 추적에도 나서기로 했다. 사이버 명예 경찰 ‘누리캅스’ 640명과 협업해 관련 게시물을 신고하고 방송통신심의위원회를 통해 삭제·차단 요청을 한다는 것이다. 경찰청은 지난 5년간 인터넷에 올라온 불법 총기 제조법 게시물 8893건을 삭제·차단 요청했고, 누리캅스는 올해 6756건을 삭제·차단 요청했다.&lt;br&gt;&lt;br&gt;경찰은 현재 운영 중인 ‘총포 화약 시스템’에 인공지능(AI) 기반 상시 점검 시스템을 구축하는 방안도 추진할 계획이다. 불법 게시물 탐지부터 방심위 삭제·차단 요청까지 모든 과정을 자동화하겠다는 것이다. 경찰청 관계자는 “사제 총기 제조·판매·소지 등 모든 행위에 대해 끝까지 책임을 묻고 반드시 처벌하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한라산 주차요금 ‘29년만에’ 시간제로 바뀐다</title>
