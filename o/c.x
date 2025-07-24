@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>교육부, 오늘 의대생 복귀 방안 발표</title>
+      <link>https://www.chosun.com/national/education/2025/07/25/E74BF3UQEZBKDMCCIMTQB5OR7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/25/E74BF3UQEZBKDMCCIMTQB5OR7E/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 22:47:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74PH7T7NQFJVNEWURVBFKQ7FGQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난23일 오후 서울의 한 의과대학 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 25일 장기 휴학 의대생에 대한 복귀 방안을 발표한다. 유급 대상인 8000여 의대생을 오는 2학기부터 수업에 복귀시키는 구체적인 방안이 나올 전망이다. &lt;br&gt;&lt;br&gt;앞서 의대 총장과 학장들은 장기 수업 거부로 유급 대상이 된 의대생 8000명을 원칙대로 유급 처리하되, 다음 달 시작되는 2학기에 복학시키는 방안을 합의했다. 본과 3학년을 제외한 전 학년의 진급, 졸업 일정도 정해 정부에 건의했다. 정부는 지난 24일 이 같은 각 대학 복귀 방안을 대부분 수용해 발표할 예정이었으나 본과 3학년 졸업 시기 등에 대한 합의가 이뤄지지 않아 발표가 취소됐다. &lt;br&gt;&lt;br&gt;교육계에 따르면 교육부는 이번 발표에서 본과 고학년의 졸업 일정 등 이견이 있는 부분은 대학 자율로 정하게 하는 방안을 담을 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전공의들 “복귀 논의 때 수련기간 단축 요구 안해”</title>
       <link>https://www.chosun.com/national/education/2025/07/25/IIAYBLR7WZAGBFZCFWOHSKKKIA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/25/IIAYBLR7WZAGBFZCFWOHSKKKIA/</guid>
@@ -936,15 +945,6 @@
       <description/>
       <pubDate>Wed, 23 Jul 2025 15:52:00 +0000</pubDate>
       <content:encoded>▲경기대학교▷고동완 서울캠퍼스부총장▷박영진 산학협력부총장▷박경실 특임부총장▷김기영 대학원장▷이규정 서비스경영전문대학원장▷함성득 정치전문대학원장 ▷이재섭 관광전문대학원장▷최순종 행정복지상담대학원장▷김청송 교육대학원장▷이병길 공학대학원장▷박영택 예술대학원장▷김윤 대체의학대학원장▷송종길 한류문화대학원장▷이재곤 자유교양대학장▷차재은 인문대학장▷차승민 소프트웨어경영대학장▷이민식 사회과학대학장▷김창수 관광문화대학장▷장순웅 창의공과대학장 ▷김성곤 융합과학대학장▷주상현 산학협력단장▷김용수 기획처장▷이종훈 교무처장▷장현석 교육혁신처장▷이세철 학생지원처장▷김현준 입학처장▷진창현 국제교류처장▷홍윤곤 총무처장▷임수빈 재무처장▷설수영 인재개발처장▷박상현 대외협력홍보실장▷김기창 중앙도서관장▷안진호 전산정보원장&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청년들에게 밥 퍼주는 ‘편의점 엄마’</title>
-      <link>https://www.chosun.com/national/people/2025/07/24/NRQUCSUW5BBOTLD7R3V7DV2ZBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/24/NRQUCSUW5BBOTLD7R3V7DV2ZBU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWW326JLRJA2JMWAV4TI4A7I64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오전 서울 강남구 신사동의 한 편의점에서 점주 이시원씨가 손님에게 라면을 끓여주고 있다./김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“늦기 전에 얼른 밥 먹고 가.” 23일 오전 11시 서울 강남구 신사동에 있는 120㎡(약 38평) 남짓의 한 편의점. 점주 이시원(56)씨가 서둘러 냄비에 라면을 담고 밥솥을 열었다. 음식을 건네받은 이는 근처 미용실에서 일하는 단골손님 유인서(26)씨였다. 유씨는 “엄마가 따뜻한 밥을 챙겨주는 기분이라 매일 찾아온다”고 했다.&lt;br&gt;&lt;br&gt;이곳에선 라면 하나만 사면 밥과 달걀 등은 무료다. 이씨는 편의점 구석에 식사가 가능한 테이블, 라면 제조기, 밥솥을 가져다 놨다. 매일 새벽같이 밥솥에 흰 쌀밥을 직접 안쳐 놓는다. 기호에 따라 라면에 넣어 먹을 수 있는 파와 콩나물, 이씨가 직접 담근 김치까지 뒀다. 작년 10월 이 편의점을 차린 이씨만의 독특한 운영 방식이다. 이씨는 “청년들이 컵라면 하나로 겨우 한 끼를 때우고 아등바등 일하는 게 안타까웠다”며 “소박하지만 든든한 식사를 챙겨줘야겠다는 마음으로 ‘밥집’처럼 운영하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 편의점을 운영하기 전까지 같은 자리에서 8년 동안 분식집을 운영했다. 코로나도 버텼지만, 신사동 상권 침체까지 겹치며 폐업을 면치 못했다. 하지만 이씨는 종종 분식집을 찾던 일대 2030 직장인, 취업 준비생들이 눈에 밟혔다. 두 딸이 “오지랖이다”라며 만류했지만 자신 ‘스타일’의 편의점을 열었다. 모든 식사 재료는 이씨가 자비로 마련한다. 매달 쌀 40㎏ 한 포대와 계란·김치 등을 마련하는 데 월 15만원 정도 든다.&lt;br&gt;&lt;br&gt;이날도 허기를 채우러 청년들이 여럿 왔다. 이씨는 단골손님들의 이름을 다 외우고 있다. 그는 편의점을 찾은 손님들에게 “잘 지냈어?” “요즘 일은 어때?”라며 인사를 건네고 대화를 이어갔다. 직장인 박태준(32)씨는 “올 때마다 힘내라며 토닥이고 아들처럼 대해 주셔서 마음까지 든든해진다”고 했다. 편의점 벽면은 ‘엄마 같은 사장님, 감사합니다’ ‘여기만 오면 기분이 좋아져요’ 등 손님들이 써 붙이고 간 메모지로 가득 찼다. &lt;br&gt;&lt;br&gt;이씨는 “내 자식 같은 청년들이 각박한 사회에서 얼마나 치이고 살겠느냐”며 “단순히 음식·음료만 사고파는 관계보다 사랑과 온정을 나누는 관계를 만들고 싶다”고 했다. 그는 “앞으로도 이곳이 누구나 따뜻한 식사와 마음의 안정을 누리고 가는 공간이 되도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지게차에 이주노동자 묶고 “잘못했다고 해” 낄낄... 영상 논란</title>
