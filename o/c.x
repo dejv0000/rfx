@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마크롱 佛대통령 부부, “브리지트는 남성” 주장 美인플루언서 고소</title>
+      <link>https://www.chosun.com/national/people/2025/07/24/HS3NTDFZTZGXRK45K3UDROS5XE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/24/HS3NTDFZTZGXRK45K3UDROS5XE/</guid>
+      <dc:creator>박강현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 13:39:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/776X3PE4X5F7TOAONBNQDMM3DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에마뉘엘 마크롱(48) 프랑스 대통령과 배우자 브리지트 마크롱(72) 여사(왼쪽 사진). 미국 인플루언서 캔디스 오언스(36). /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에마뉘엘 마크롱(48) 프랑스 대통령과 배우자 브리지트 마크롱(72) 여사가 자신들의 개인사에 대해 지속적으로 허위 사실을 유포한 미국의 우파 성향 인플루언서 캔디스 오언스(36)를 상대로 명예훼손 소송을 냈다. 오언스는 “나의 인격을 훼손하기 위한 (마크롱 부부의) 홍보 전략에 불과하다”며 반발했다.&lt;br&gt;&lt;br&gt;23일 영국 파이낸셜타임스(FT)에 따르면, 마크롱 측은 “오언스는 마크롱 부부의 사생활 전반을 하나의 기괴한 이야기로 왜곡해 국제적 차원의 괴롭힘을 주도했다”며 오언스에 대한 219쪽 분량의 소장을 미국 법원에 제출하고 징벌적 손해배상을 요구했다. &lt;br&gt;&lt;br&gt;마크롱 부부는 입장문을 통해 “오언스가 우리 변호사들의 계속된 정정 요청을 받고도 거짓 주장을 폈기 때문에 법원으로 가는 것만이 유일하게 남은 방법이라고 결론을 내렸다”며 “오언스는 주목받기 위해 우리 가족에게 고통을 안겼다”고 밝혔다. 마크롱 부부 측 대리인은 “필요하다면 재판 출석을 위해 미국 델라웨어주로 갈 준비가 돼 있다”고 전했다. &lt;br&gt;&lt;br&gt;오언스는 유튜브에서만 448만 명의 팔로어(구독자)를 가진 인기 인플루언서다. 흑인 여성으로는 드물게 친(親)공화당 성향 행보를 보이고, ‘흑인의 생명은 소중하다(Black Lives Matter)’를 비롯한 흑인 인권 시위에도 비판적 시각을 보여 유명세를 탔다. 또 반(反)페미니즘과 불법 이민자 추방 등을 지지하며 후원자들을 끌어모았다. 그러나 각종 음모론에 심취한 모습을 보이기도 했다. 대표적인 게 브리지트가 남성으로 태어났다는 의혹이다. 이 의혹은 브리지트가 원래는 ‘장 미셸’이라는 이름의 남성으로 태어나 성전환을 한 뒤 마크롱과 혼인했다는 내용이다. 장 미셸은 실제 브리지트의 친오빠 이름이다. 오언스는 작년 3월 “브리지트가 남성이라는 것에 내 모든 걸 걸겠다”고 말하기도 했다. &lt;br&gt;&lt;br&gt;2017년 역대 최연소(만 39세)로 프랑스 대통령직에 오른 마크롱은 아미앵에서 고등학교에 다니던 시절 당시 문학·연극 교사 브리지트를 처음 만났다. 이때 브리지트는 자식이 셋 있는 유부녀였지만 둘의 관계는 이어졌다. 브리지트는 전 남편과 이혼한 지 1년 만인 2007년 마크롱과 결혼식을 올렸다. &lt;br&gt;&lt;br&gt;그러나 오언스는 마크롱과 브리지트가 사실 혈연관계이며, 마크롱이 미국 중앙정보국(CIA)의 계획에 따라 프랑스에서 집권했다는 등의 의혹을 꾸준히 제기했다. 마크롱 부부가 소송을 냈다는 사실이 알려지자 오언스는 자신의 유튜브에서 “브리지트는 매우 얼빠진 녀석(man)“이라고 비꼬며 ”이 소송은 사실관계에 대한 부정확함으로 가득 차 있다. 절박한 홍보 전략의 일환”이라고 주장했다.&lt;br&gt;&lt;br&gt;브리지트가 남성이었다는 음모론은 마크롱의 집권 이후 소셜미디어 등을 통해 확산했다. 브리지트는 이런 의혹을 제기한 프랑스 여성 2명을 명예훼손 혐의로 고소했으나, 최근 프랑스 항소심 법원은 두 여성이 브리지트에게 8000유로(약 1200만원)씩 지급하도록 한 원심을 뒤집고 “악의가 없었다”는 이유로 무죄를 선고했다. 이에 브리지트는 대법원에 상고한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/776X3PE4X5F7TOAONBNQDMM3DE.jpg?auth=90c26857453fa214c9b458b8a1df72e7a624d56c4bc8cc3d944b43f9239ac121&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">에마뉘엘 마크롱(48) 프랑스 대통령과 배우자 브리지트 마크롱(72) 여사.(왼쪽 사진)
+인플루언서 캔디스 오언스(36)/로이터 연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>아들 총기살해 60대 “가족회사서 300만원 월급 끊어 배신감”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/24/ZAYM5GUQEVCS3KBK5NJ7VQVJ4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/24/ZAYM5GUQEVCS3KBK5NJ7VQVJ4Q/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 13:40:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWDG2UFSDBL4JDGJWXEOXKSOUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 인천 송도국제도시 아파트에서 60대 남성이 아들을 사제총기로 살해한 뒤 체포됐다. 사진은 경찰이 21일 도봉구 피의자 자택에서 발견한 폭발물. /서울소방재난본부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도에서 아들을 사제총기로 살해한 혐의를 받고 있는 60대 남성이 가족회사에서 받던 300만원 상당의 급여가 지난해부터 중단됐다고 주장했다.&lt;br&gt;&lt;br&gt;24일 인천경찰청에 따르면, 살인 등 혐의로 구속된 조모(62)씨는 최근 프로파일러 조사에서 이 같은 취지로 진술했다. 조씨는 조사에서 “가족 회사에 직원으로 이름을 올려 월 300만원가량의 급여를 받았다”며 “지난해 어느 시점부터 지급이 끊겼다”고 말한 것으로 전해졌다. 그는 “(숨진 아들은) 유일한 가족인데 등을 돌려 배신감을 느꼈다”고 했다. 그는 또 “나는 원래 착하게 살아온 좋은 사람”이라는 말을 반복한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;조씨는 급여를 받지 못한 시점부터 국민연금을 일시금으로 받아 생활한 것으로 전해졌다. 이러한 진술 내용은 프로파일링 보고서에 담겼다. 경찰은 이러한 진술만으로는 살인 동기를 설명하기에 불충분하다고 판단해 추가 조사를 진행할 계획이다. &lt;br&gt;&lt;br&gt;경찰은 전날 조씨의 서울 도봉구 쌍문동 자택에 대해 압수수색을 진행해 사제총기 제작에 쓰는 도구와 인화성 물질 등을 확보한 것으로 알려졌다. 확보된 증거물을 국립과학수사연구원에 감정을 의뢰해 조씨의 범행 준비 과정을 파악할 계획이다. 또 경찰은 조씨의 차량에서 확보한 총열 13개와 탄환 86발, 시너가 든 페트병 등도 국과수에 감정을 의뢰했다. &lt;br&gt;&lt;br&gt;경찰은 유가족이 최근 의견서를 제출해 조씨가 아들인 A씨뿐만 아니라 며느리, 손주 2명, 며느리의 지인 등을 모두 살해하려 했다고 주장함에 따라 살인예비나 살인미수 등 추가 혐의 적용 여부를 검토하고 있다.&lt;br&gt;&lt;br&gt;조씨는 지난 20일 오후 9시 30분쯤 인천 연수구 송도의 한 아파트 33층 집에서 사제 총기를 발사해 A씨를 살해한 혐의를 받고 있다. 범행 당일 A씨는 조씨의 생일잔치를 열었고, 며느리와 손주 2명 등이 함께 있었던 것으로 파악됐다. 범행 후 도주한 조씨는 21일 오전 0시 15분쯤 서울 시내에서 긴급 체포됐다. 조씨의 쌍문동 자택에서는 시너가 담긴 페트병, 세제통 등 인화성 물질 15개와 타이머 등이 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노란봉투법 정부안, 1년 유예기간 두고 연대 책임 유지</title>
+      <link>https://www.chosun.com/national/labor/2025/07/24/6RDV3RVHOZG5XKLFHBTQ732I74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/24/6RDV3RVHOZG5XKLFHBTQ732I74/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 13:21:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SBPV2ROYZH5KQ2KCZTQWW6LHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 손경식 경총 회장과 김영훈 고용부 장관이 대화를 나누고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 노동조합법 2·3조 개정안(노란봉투법)의 정부안을 확정하고, 국회와 논의에 돌입했다.&lt;br&gt;&lt;br&gt;24일 국회 등에 따르면, 고용노동부는 최근 국회 환경노동위원회 소속 의원들에게 노조법 2·3조 개정 정부안 내용을 설명했다. 환노위는 이르면 다음 주 초 법안심사 소위원회를 열고 관련 논의를 본격화할 계획이다 &lt;br&gt;&lt;br&gt;노조법 2·3조 개정안은 하청 노동자에 대한 원청의 책임을 강화하고, 노조 파업에 대한 기업의 손해 배상 청구를 제한하는 것이 핵심이다. 이 법안은 앞서 21대 국회에서 민주당 주도로 두 차례 본회의를 통과했지만, 윤석열 전 대통령의 거부권 행사로 폐기된 바 있다.&lt;br&gt;&lt;br&gt;이번 정부안에는 ‘1년 유예 기간’ 방침이 포함된 것으로 알려졌다. 기존 거부권 행사 대상 법안에서는 유예 기간이 6개월이었는데 이를 2배로 연장한 것이다. 먼저 법을 만든 뒤 시행령과 규칙 등을 통해 세부 기준을 정비하겠다는 취지로 풀이된다. 사용자성 등 쟁점이 되는 개념의 구체적 판단 기준은 향후 별도로 마련하겠다는 것이다. &lt;br&gt;&lt;br&gt;또 정부안은 공동 불법 행위자 간의 연대 책임은 유지하되, 각 조합원의 손해액 분담 비율은 달리 정할 수 있도록 조문을 다듬은 것으로 전해졌다. 책임 자체는 인정하되, 사후에 개인별 배상 범위를 조정할 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;한편 경영계가 요구해온 ‘파업 시 대체 근로 허용’ 등 사용자 방어권 조항은 정부안에 포함되지 않았다. 이날 손경식 한국경영자총협회 회장은 김영훈 고용부 장관을 만나 “노조법 개정이 노사 관계와 경제 전반에 심각한 혼란과 부작용을 줄 수 있다”며 “노사 간 사회적 대화의 장을 마련해주기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭우 등교길, 여고생에 우산 건넸더니... 현관문 앞에 돌아온 ‘마음’</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/24/VUDFD4FHNRFGLBCG2AZQJ72FR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/24/VUDFD4FHNRFGLBCG2AZQJ72FR4/</guid>
+      <dc:creator>이혜진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 12:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BWUF4TS5VHWLK2GPNKXF4VCOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 여고생들에게 빌려준 우산(왼쪽)과 답례로 받은 복숭아와 감자. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭우가 쏟아지던 등교 시간, 고장 난 우산으로 당황하던 여고생들에게 우산을 빌려준 40대 시민이 뜻밖의 감동적인 선물을 받았다. &lt;br&gt;&lt;br&gt;지난 19일 온라인 커뮤니티 ‘보배드림’에는 이 같은 내용이 담긴 글이 올라왔다. 한 아파트 주민이 여고생들에게 빌려준 우산이 이틀 뒤 돌아왔고, 그다음 날 감사의 마음을 담은 쪽지와 함께 직접 재배한 농산물을 선물 받았다는 내용이었다. 40대 시민인 글쓴이 A씨는 최근 야간 근무를 마치고 오전 퇴근하던 중 아파트 1층에서 고장 난 우산 때문에 난처한 상황에 처한 여고생 2명을 발견했다. &lt;br&gt;&lt;br&gt;당시는 오전 8시 40분경으로 등교 시간이 8시 50분까지였던 상황이었다. 여고생들은 아파트 엘리베이터가 계속 다른 층에 멈춰있어 새 우산을 가지러 올라가기도 어려운 상황이었고, 그중 한 학생이 “그냥 (학교에) 가자”고 말하며 재촉하고 있었다. 이때 A씨는 매일 지각할까 시간에 쫓기며 황급히 등교하던 중학생 3학년 딸을 떠올리며 우산을 빌려주기로 했다. A씨는 여고생들에게 “이거 쓰고 가세요. 사용 후 000호 문 앞에 놔두세요”라며 우산을 건넸다. 여고생들이 고마워하면서도 고장 난 우산을 들고 우왕좌왕하자, A씨는 고장 난 우산은 자신이 처리하겠다고 말하며 여고생들을 학교로 보냈다.&lt;br&gt;&lt;br&gt;그날 저녁 출근할 때는 우산이 보이지 않았지만, 이틀 후 퇴근길에 자신의 우산이 문 앞에 돌아와 있는 것을 발견했다. 하지만 더 놀라운 일은 그다음 날 일어났다. 택배 때문에 현관문을 열었던 A씨는 감사의 마음을 담은 쪽지와 함께 직접 재배한 감자와 복숭아가 놓여있는 것을 발견했다. 여고생의 부모로 보이는 아파트 주민이 전한 것이었다. &lt;br&gt;&lt;br&gt;쪽지에는 “우산이 고장 나 당황해하는 아이에게 흔쾌히 우산을 빌려주셨다고 들었다”며 “덕분에 아이가 지각하지 않고 학교에 잘 도착했다. 진심으로 감사드린다”고 했다. A씨는 “우산 하나 빌려줬을 뿐인데 너무 큰 선물을 받았다”고 했다.&lt;br&gt;&lt;br&gt;이 사연을 본 네티즌들은 “진짜 사람 사는 세상 같네요. 이게 우리네 고유의 정 아니겠나” “멋진 어른과 학생들” “선행은 선행을 부른다” “마음이 따뜻해지는 글” “미소짓기 만드는 일이다. 복받으실 것” “마음씀씀이가 좋은 사람들이네요. 엄지 척” “서로 경쟁하지 말고 아끼고 배려하고 삽시다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘38도’ 역대 가장 뜨거운 주말... 폭염특보 피한 3곳은 어디?</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/24/OI4OYUFMBBCPHEOQAEIG2J43LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/24/OI4OYUFMBBCPHEOQAEIG2J43LE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 12:28:11 +0000</pubDate>
+      <content:encoded>당분간 우리나라 상공이 이달 초처럼 다시 두 겹의 ‘공기 이불’에 덮이며 폭염과 열대야가 심해질 전망이다. 25일과 26일에는 전국의 최고기온이 각각 37도와 38도로 예보됐다. 올해 여름이 우리나라에서 역대 가장 뜨거운 여름이 되고 있다. &lt;br&gt;&lt;br&gt;24일 기상청에 따르면, 이날 오후 전국 대부분 지역에 폭염특보가 내려졌다. 기상청이 특보를 내리기 위해 나눠 놓은 지역 183곳 중 47곳에 폭염주의보가, 133곳에 폭염경보가 발효됐다. 폭염주의보와 폭염경보는 일 최고 체감 온도가 각각 33도, 35도 이상인 상태가 이틀 이상 지속될 것으로 보일 때 내려진다. 폭염특보가 발령되지 않은 곳은 제주 산지, 강원 태백, 추자도 등 단 3곳에 불과했다. 25일과 26일에는 서울의 최고기온이 각각 37도과 38도로 예보됐다. &lt;br&gt;&lt;br&gt;현재 우리나라 상공은 북태평양 고기압과 티베트 고기압이 겹겹이 덮는 상황이 다시 발생하고 있다. 두 고기압 이불은 이달 초 이상 고온 현상을 일으킨 원인이었다. 현재 고온 다습한 북태평양 고기압이 약 5㎞ 상공을 장악하고 있고, 이 위로 고온 건조한 티베트 고기압이 확장 중이다. 여기에 맑은 날씨까지 겹쳐 햇볕이 강하게 내리쬐며 무더위는 한층 심해질 것으로 보인다. 특히 서쪽 지역을 중심으로 폭염과 열대야가 더 심해질 전망이다. &lt;br&gt;&lt;br&gt;기상청에 따르면, 지난달 1일부터 이달 22일까지 일 최고기온 평균은 29.4도로 기상관측망이 전국에 확충된 1973년 이후 같은 기간 대비 가장 높았다. 밤더위도 만만치 않다. 이 기간 밤 최저기온 평균도 20.6도로 관측 이래 최고치를 기록했다. 전국 폭염과 열대야 일수를 집계했을 때 올해(폭염 9.5일·열대야 4.9일)보다 많았던 적은 1994년 한 차례밖에 없다.&lt;br&gt;&lt;br&gt;계속되는 무더위로 온열 질환 환자도 늘고 있다. 질병관리청에 따르면, 올해 온열 질환 감시를 시작한 지난 5월 15일부터 이달 23일까지 총 1979명의 온열 질환 환자(사망자 10명 포함)가 발생했다. 이는 지난해 비슷한 기간의 약 2배 규모다. 사망자도 작년 같은 기간(4명)의 2.5배로 늘었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정보사 대령 “노상원, 부정선거 수사단장 맡으려 했다” </title>
+      <link>https://www.chosun.com/national/court_law/2025/07/24/AJKJ72XKO5FCDFPI3JGWQODDJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/24/AJKJ72XKO5FCDFPI3JGWQODDJY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 10:38:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DG45TISWKEBVSBDKXDVRL2ZAHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노상원 전 국군정보사령관이 12·3 비상계엄을 앞두고 민간인 신분으로 부정선거 의혹을 수사할 이른바 ‘제2수사단’을 기획하면서 직접 수사단장을 맡으려고 했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;김모 정보사령부 대령은 24일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에 증인으로 출석해 지난해 11월 9일 노 전 사령관으로부터 “단장이라고 부르라”는 얘기를 들었다고 증언했다. 그는 “본인이 와서 그런(단장) 역할을 하겠다고 했다”고 말했다.&lt;br&gt;&lt;br&gt;노 전 사령관은 지난해 중앙선거관리위원회 부정선거 의혹을 수사할 제2수사단을 만들기로 마음 먹고, 문상호 당시 정보사령관과 정보사 대령들로부터 군인들 정보와 명단 40여명을 요청해 넘겨 받았다는 의혹을 받는다. &lt;br&gt;&lt;br&gt;김 대령은 지난해 10월쯤 노 전 사령관이 “북한이 오물 풍선을 계속 보내고 있는데 탈북자가 대량 발생할 징후가 있는 것 같으니 대비가 필요하다”며 특수 요원 15~20명을 요청했다고 증언했다.&lt;br&gt;&lt;br&gt;이후 노 전 사령관으로부터 부정선거 의혹 내용과 해야 할 일이 담긴 10여장 분량의 문건을 받았다고 한다. 그는 “문건에 ‘계엄’이라는 단어가 있었고, 수방사 B1벙커에서 조사가 이뤄질 것이라는 내용도 있었다”고 말했다. 또 “문건에 선거관리위원회 직원 30명의 이름이 있었다”며 “그 직원들이 출근하면 확인해서 데리고 오라는 지시였다”고 했다.&lt;br&gt;&lt;br&gt;그는 노 전 사령관이 노태악 선관위원장을 언급하며 “노태악(위원장)은 내가 직접 담당해 진술을 받아내겠다. 그러면 상당히 많은 게 나오지 않겠느냐”고 말했다고 증언했다. &lt;br&gt;&lt;br&gt;검사가 “노상원은 민간인인데 예비역이 수사단장을 할 수 있느냐”고 묻자 김 대령은 “지금 와서도 말이 안 되는 상황같기는 한데, (문상호)사령관으로부터 도와달란 얘기를 들은 상황이어서, 민간인이라고 무시할 상황은 아니었다”고 답했다. &lt;br&gt;&lt;br&gt;한편, 이날 재판은 피고인인 윤 전 대통령이 불출석한 가운데 증인 신문이 이뤄졌다. 윤 전 대통령은 지난 10일 재구속된 이후 건강상 이유를 들어 세 차례 연속 재판에 불출석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 정비사업 18.5년→13년 단축한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/24/DWHGN2R5MNAZFEIGVZKM3DSY6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/24/DWHGN2R5MNAZFEIGVZKM3DSY6M/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 24 Jul 2025 10:35:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES5NYYMRI5H3NFNRU5XNM43EBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 24일 오후 서울 중구 신당9구역 재개발 현장에서 지역 주민들에게 주택공급 촉진 방안을 설명하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 서울시의 재건축·재개발 등 주택 정비사업 전 단계에 ‘마감 기한’이 생긴다. 인·허가 절차를 개선하고 행정 절차도 유연화해 주택 공급 속도를 높인다. 오세훈 서울시장은 24일 이 같은 내용을 담은 ‘주택 공급 촉진 방안’을 발표했다. 오 시장은 “이를 통해 평균 18년6개월 이상 걸리던 정비사업 기간을 13년으로 줄일 것”이라고 했다. &lt;br&gt;&lt;br&gt;우선 정비사업 과정을 크게 6단계로 잡고 이를 42개 절차로 세분한 뒤, 모든 단계마다 ‘표준 처리 기한’을 두기로 했다. 예를 들어 정비사업 첫 단계인 ‘구역 지정’의 경우 2년 내에 마치기로 하고 후보지 선정에 120일, 보조금 지급에 10일 등 마감 기한을 정하는 것이다. 서울시 관계자는 “이런 방식으로 모든 단계에 속도를 붙이면 입주 시기를 총 5년6개월쯤 당길 수 있게 된다”고 했다.&lt;br&gt;&lt;br&gt;재개발·재건축 추진위원회 구성과 조합 설립에 걸리는 시간을 단축하기 위해 공공 보조금 지급 요건·절차도 개선한다. 지금까지는 주민 동의율이 50%를 넘어야 보조금을 주는 등 요건이 까다로웠는데, 앞으로는 사업 후보지로 선정되는 즉시 보조금을 줘 정비업체 선정과 추진위 구성에 속도를 낼 수 있게 한다. 또 정비사업과 관련한 절차들을 하나씩 단계별로 처리하는 게 아니라 동시에 진행할 수 있도록 ‘행정절차 사전·병행제도’도 도입한다. &lt;br&gt;&lt;br&gt;사업이 매끄럽게 진행되도록 관리 체계도 개선한다. 사업지마다 ‘공정 촉진 책임관’과 ‘갈등 관리 책임관’을 파견해 사업이 지연됐을 때 원인을 파악해 보완 방법을 제시하고, 주민 간 갈등을 중재하게 한다는 계획이다. 서울시 관계자는 “복잡한 절차, 각종 갈등으로 늘어지던 재개발 사업 구조를 대폭 개선해 빠르게 주택을 공급할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법 “항소 인지대 늦게 내면 ‘각하’ 정당...전자 서명 시 효력 발생”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/24/45LIEV6X7NFMXOEKEP225OD2XA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/24/45LIEV6X7NFMXOEKEP225OD2XA/</guid>
@@ -854,45 +921,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 9시 40분쯤 인천시 연수구 인천신항 한 물류창고에서 40대 A씨가 몰던 지게차가 일용직 노동자인 40대 B씨를 치었다. 이 사고로 B씨가 지게차 아래에 깔리며 크게 다쳤고, 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 B씨는 물품을 싣고 전진하던 지게차에 부딪힌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 사고 장소가 도로가 아닌 작업장인 점을 고려해 업무상 과실치사 혐의로 A씨를 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨를 상대로 안전 수칙 준수 여부 등 정확한 사고 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>검찰, ‘공직선거법 위반’ 정동영 의원에 당선무효형 재차 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/23/F5JPVLD3R5BM7P2MN26TSZMQ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/23/F5JPVLD3R5BM7P2MN26TSZMQ7U/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>공직선거법 위반 혐의로 1심에서 벌금 70만원을 선고받은 더불어민주당 정동영 의원에 대해 검찰이 항소심에서 벌금 400만원을 선고해달라고 재판부에 요청했다.
-23일 광주고법 전주재판부 형사1부 양진수 부장판사 심리로 열린 결심공판에서 검찰은 정 의원에게 벌금 400만원을 구형했다.</description>
-      <pubDate>Wed, 23 Jul 2025 10:45:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3B2LSTS7HFNNPLLPDNLS7ROYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정동영 의원이 23일 전주지법에서 열린 공직선거법 위반 항소심 재판에 참석하기 위해 변호인단과 함께 법정으로 향하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 1심에서 벌금 70만원을 선고받은 더불어민주당 정동영 의원에 대해 검찰이 항소심에서 벌금 400만원을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;23일 광주고법 전주재판부 형사1부 양진수 부장판사 심리로 열린 결심공판에서 검찰은 정 의원에게 벌금 400만원을 구형했다. 공직선거법상 벌금 100만원 이상의 형이 확정되면 의원직을 상실하게 된다.&lt;br&gt;&lt;br&gt;검찰은 “피고인의 사전 선거운동과 허위 사실 공표가 명백함에도 원심은 사실관계를 근본적으로 잘못 판단해 유무죄를 그르친 위법이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 의원은 앞선 1심에서 벌금 70만원을 선고받았으나 검찰과 피고인 모두 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;정 의원은 최후 진술에서 “처음 총선에 출마하고 30년이 지났는데 선출직 공직자로서 단 한 번도 비위나 추문에 휘말리지 않아 명예롭게 생각한다”면서 “제 부덕함과 불찰로 고발됐는데 제 고향 전북, 크게는 나라와 민족의 평화와 평안을 위해 헌신하고 싶다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;정 의원은 22대 총선 전인 지난 2023년 12월 13일과 지난해 1월 9일 자신의 지역구에 있는 공동주택 위탁관리 업체 종무식과 시무식에서 마이크를 이용해 출마 각오를 밝히고 지지를 호소한 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;정 의원의 항소심 선고 공판은 9월 8일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해경, 진해 부산신항서 ‘잠수부 3명 사상’ 사고 합동감식</title>
-      <link>https://www.chosun.com/national/regional/2025/07/23/J5S2RTV37BCDZMALJJT2DVID3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/23/J5S2RTV37BCDZMALJJT2DVID3Y/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 10:49:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNUXK5XVJ5KCDNAEUQWPT27DUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 경남 창원시 진해구 부산신항 인근 해상에서 컨테이너선 하부 청소를 하던 다이버 3명이 심정지 상태로 발견돼 소방당국이 병원으로 이송하고 있다.  이들 중 2명은 숨졌고, 1명은 의식을 되찾은 것으로 알려졌다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원해양경찰서는 경남 창원시 진해구 부산신항에서 컨테이너선의 하부 청소를 하던 잠수부 2명이 숨지고 1명이 크게 다친 사고와 관련해 23일 합동 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;이날 합동감식에는 국립과학수사연구원, 남해지방해양경찰청, 고용노동부 등도 참여했다. 해경은 숨진 잠수부 2명의 사인을 밝히기 위해 부검도 진행했다고 밝혔다.&lt;br&gt;&lt;br&gt;현재 중상을 입은 잠수부 1명은 의식을 되찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;모두 30대인 이들은 사고 당시 바다에 입수해 정박 상태의 5만t급 컨테이너선 하부 청소 작업을 하고 있었으며, 당시 산소 공급 장치와 연결된 줄을 달고 입수하는 형태로 작업을 진행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해경과 고용노동부는 이들이 소속된 컨테이너선 청소 용역 업체 관계자들도 불러 안전 수칙 준수 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;해경은 잠수부들에게 큰 외상이 발견되지 않았던 점에 미뤄 물리적 충돌보다는 산소 공급 장치나 호흡기 줄에 이상이 생겼을 가능성이 높다고 보고 있다.&lt;br&gt;&lt;br&gt;앞서 고용노동부 창원지청도 재해 원인 규명을 위한 현장 조사를 진행하고자 사고 당일인 지난 20일 작업 중지 명령을 내렸다.&lt;br&gt;&lt;br&gt;노동부는 사고에 대해 산업안전보건법과 중대재해 처벌 등에 관한 법률 위반 여부에 대해 수사하고, 안전 조치가 제대로 이행됐는지 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 서귀포 성산항 예인선서 폭발 사고…60대 선장 화상</title>
-      <link>https://www.chosun.com/national/incident/2025/07/23/4ROP53MBMFGHTCFU2CLKOXYUVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/4ROP53MBMFGHTCFU2CLKOXYUVY/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>23일 오후 5시 50분쯤 제주 서귀포시 성산항 해상에서 준설 작업 중이던 46t급 예인선에선 폭발과 함께 화재가 발생했다.
-화재는 곧 진화됐지만, 이 사고로 60대 선장 A씨가 전신에 2~3도 화상을 입고 닥터헬기를 통해 인근 병원으로 긴급 이송됐다.
-</description>
-      <pubDate>Wed, 23 Jul 2025 10:19:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIBPDXMMD5F5LCXANNSEOQQDNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 제주 서귀포 성산항 인근 해상에서 준설 작업을 하던 예인선에서 폭발 사고가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 5시 50분쯤 제주 서귀포시 성산항 해상에서 준설 작업 중이던 46t급 예인선에선 폭발과 함께 화재가 발생했다.&lt;br&gt;&lt;br&gt;화재는 곧 진화됐지만, 이 사고로 60대 선장 A씨가 전신에 2~3도 화상을 입고 닥터헬기를 통해 인근 병원으로 긴급 이송됐다.&lt;br&gt;&lt;br&gt;해경은 갑작스러운 폭발음과 함께 화재가 발생했다는 현장 관계자 등의 진술을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“수영장에 대변이 둥둥” 영주실내수영장 긴급 폐장 소동</title>
-      <link>https://www.chosun.com/national/incident/2025/07/23/2GFJWDLC2BESPEDC6KGQS2DGFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/2GFJWDLC2BESPEDC6KGQS2DGFQ/</guid>
-      <dc:creator>영주=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 10:10:53 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI7P4XUQQ4GMIKKTSNZO5DLYMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영주 실내 수영장 전경. /영주시 제공. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하루 평균 1000명이 찾는 경북 영주 실내 수영장에서 둥둥 떠다니는 인분이 발견돼 수영장이 이틀간 문을 닫는 소동이 벌어졌다. 지역 유일의 공공 실내 수영장이어서 시민들의 불편은 컸다.&lt;br&gt;&lt;br&gt;23일 영주시 등에 따르면 지난 15일 오후 4시 30분쯤 영주시 가흥동 일원에 위치한 영주실내수영장에 “인분이 떠다닌다”는 이용객의 신고가 접수됐다. 현장 관계자가 확인한 결과 실제로 수영장 수면 위에 떠 있는 인분을 발견했다.&lt;br&gt;&lt;br&gt;수영장 측은 이날 수영장을 임시 폐쇄했다. 이후 수영장에 채워진 물을 3분의 1쯤 제거한 뒤 밤새 여과 소독도 했다. &lt;br&gt;&lt;br&gt;그럼에도 이용객의 민원이 빗발쳤다. “인분이 떠다닌 물에서 어떻게 수영하냐” “너무 찝찝하다” “전체 물을 갈아달라”는 내용이었다. 이에 따라 수영장 측은 19일 시설을 폐쇄한 뒤 이틀간 수영장 전체 물을 갈았다. &lt;br&gt;&lt;br&gt;인분을 남기고 사라진 ‘범인’은 아직까지 찾지 못하고 있다. 영주시와 수영장 측은 “수영장 내부에 설치된 폐쇄회로(CC)TV를 전수 조사했으나, 용변을 본 장면이나 용의자를 특정할 수 있는 장면은 발견하지 못했다”고 밝혔다. &lt;br&gt;&lt;br&gt;영주실내수영장의 용수는 상수도로 채워진다. 수영장 전체 물을 바꾸기 위해선 700t의 상수도를 공급해야 한다. 이 때문에 전체 환수에 필요한 비용은 시 예산으로 충당됐다. &lt;br&gt;&lt;br&gt;영주시는 이번 사태로 이용을 꺼린 강습생에게는 일주일 동안 무료 강습을 진행키로 했다. &lt;br&gt;&lt;br&gt;영주시 관계자는 “수영장 이용객 중 누군가 용변을 본 것으로 추측되지만, 다수가 물속에 있어 특정이 불가능했다”며 “무더운 날씨에 많은 시민이 이용하는 만큼 개인 위생 관리와 에티켓에 대해 더욱 신경 써달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 정희도 대검 공판송무부장·박기동 대구지검장·정영학 부산지검장 사직…검사장 인사 임박</title>
       <link>https://www.chosun.com/national/court_law/2025/07/23/FKCPBSXCYBEVLMJVELHGVF5CQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/23/FKCPBSXCYBEVLMJVELHGVF5CQY/</guid>
@@ -900,24 +928,6 @@
       <description/>
       <pubDate>Wed, 23 Jul 2025 09:55:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBZ2W6ZFF5OU7J46ZPBPGLUP64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 깃발./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정희도(사법연수원 31기) 대검찰청 공판송무부장을 비롯해 이재명 대통령의 선거법 위반 사건 수사를 지휘하고 기소한 박기동(30기) 대구지검장, 정영학 부산지검장(29기)이 23일 사의를 밝힌 것으로 확인됐다. 정성호 법무 장관 취임 이후 검사장 인사가 임박했다는 관측이 나온다.&lt;br&gt;&lt;br&gt;정희도 검사장은 이날 오후 6시 31분 검찰 내부망 이프로스에 “오늘 사직서를 제출했다”며 “검찰이 너무도 어려운 상황에서 먼저 떠나게 돼 죄송하고 죄스러운 마음”이라고 했다. 사법연수원을 31기로 수료한 정 검사장은 윤석열 전 대통령 정부 초기인 2022년 5월 대검찰청 감찰1과장을 지냈다. 이후 수원지검 안산지청장을 지낸 뒤 작년 5월 대검 공판송무부장(검사장)으로 임명됐고 1년 2개월간 근무했다.&lt;br&gt;&lt;br&gt;박 검사장은 사법연수원을 30기로 수료한 뒤 대구지검 안동지청장, 대검 형사정책담당관 등을 지냈다. 2022년 5월 서울중앙지검 3차장으로 임명된 뒤 이재명 대통령의 지난 대선 당시 선거법 위반 사건 수사를 지휘했고 기소까지 했다. 또 이른바 ‘탈북 어민 강제 북송’ 사건과 ‘서해 공무원 피격’ 사건 등 수사도 맡았다.&lt;br&gt;&lt;br&gt;정영학 지검장은 사법연수원을 29기로 수료했고, 수원지검 공안부장, 대검 공안3과장, 서울중앙지검 형사8부장 등을 지냈다. 2020년 2월 수원지검 성남지청 차장을 지냈고, 서울북부지검장과 부산지검장을 지냈다.&lt;br&gt;&lt;br&gt;법조계에선 정 장관 취임 이후 검사장 인사가 임박했다는 관측이 나온다. 법무부는 최근 전국 고검장 및 지검장 등 검사장들에게 인사 대상자임을 알리는 연락을 돌린 것으로 전해졌다. 이르면 24일 검찰인사위원회를 열고 검사장 승진·전보 인사를 논의할 가능성이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>속초 설악항서 물놀이하던 30대 육군 간부 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/07/23/EDB3NTUJZ5DDDHUKHAG3XE2CA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/23/EDB3NTUJZ5DDDHUKHAG3XE2CA4/</guid>
-      <dc:creator>속초=정성원 기자</dc:creator>
-      <description>23일 오후 3시 13분쯤 강원 속초시 대포동 설악항 인근 해상에서 육군 모 부대 소속 30대 A씨가 물에 빠져 숨졌다. “사람이 물에 빠졌다”는 신고를 접수받고 출동한 해경은 오후 3시 27분쯤 A씨를 구조해 인근 병원으로 옮겼으나 숨졌다.</description>
-      <pubDate>Wed, 23 Jul 2025 09:14:17 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오후 3시 13분쯤 강원 속초시 대포동 설악항 인근 해상에서 육군 모 부대 소속 30대 간부 A씨가 물에 빠져 숨졌다. “사람이 물에 빠졌다”는 신고를 접수받고 출동한 해경은 오후 3시 27분쯤 A씨를 구조해 인근 병원으로 옮겼으나 숨졌다. 구조 당시 A씨는 심정지 상태였다.&lt;br&gt;&lt;br&gt;A씨는 현역 육군 간부로 동료들과 함께 물놀이를 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경으로부터 이 사건을 넘겨받은 군사경찰은 목격자 등을 상대로 정확한 사고 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“밥 먹을 땐 개도 안 건드린다” 문해력 논란… 국립국어원 답변은 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/23/5VHS7S6F2BEXRMIE5WIZ6LWULM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/23/5VHS7S6F2BEXRMIE5WIZ6LWULM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 09:00:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXHW6R4VO5BFZMGYAXUNI4TZXE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/밍찌 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“밥 먹을 땐 개도 안 건드린다”는 문장 중 ‘개’가 어떤 행위의 주체가 되는지를 두고 온라인에서 문해력 논란이 불거졌다. 개를 ‘밥 먹는 주체’로 볼지, ‘건드리는 주체’로 볼지로 의견이 갈린 것이다. 국립국어원에서 운영하는 질의응답 게시판에도 관련 질문이 잇달아 올라왔다. 국립국어원은 이 문장 속 개를 밥 먹는 주체로 보는 게 합당하다는 취지로 답했다.&lt;br&gt;&lt;br&gt;이 문장을 두고 때아닌 문해력 논란이 불거진 건 지난 21일 대치동 국어학원 강사 출신 유튜버 ‘밍찌’ 채널에 올라온 숏폼 영상에서다. &lt;br&gt;&lt;br&gt;이 영상에서 밍찌는 “밥 먹을 땐 개도 안 건드린다”는 문장을 언급하며 여기에서 ‘개’를 밥 먹는 주체로 볼지, 건드리는 주체로 볼지에 따라 뜻이 바뀐다고 했다. 밍찌는 “개를 ‘밥 먹는 주체’로 생각한다면 ‘아무리 하찮은 존재일지라도 밥 먹는 중이니 건드리지 말라’는 뜻을 가진다”며 “반면 개를 ‘건드리는 주체’로 본다면 그 눈치 없는 짐승인 개조차 ‘사람이 밥 먹을 때는 건드리는 게 아니야’라고 속으로 생각한다는 의미”라고 했다. &lt;br&gt;&lt;br&gt;밍찌는 인스타그램 투표를 통해 의견을 물었는데, 결과는 의외로 팽팽하게 갈렸다. 약 2만9000개의 투표 가운데 개를 밥 먹는 주체로 본 네티즌은 56%, 건드리는 주체로 본 네티즌은 45%였다. &lt;br&gt;&lt;br&gt;다만 개를 밥 먹는 주체로 본 이들을 중심으로 “건드리는 주체로 본 건 문해력 문제”라는 지적이 이어졌다. “애초에 개가 인간을 안 건드린다는 전제는 말도 안 된다” “생각보다 개를 건드리는 주체로 본 사람이 많아서 충격이다” “개를 건드리는 주체로 본 해석은 반려견 키우는 사람들이 많아지면서 그런 것 같다” 등이다. &lt;br&gt;&lt;br&gt;이 영상이 공개된 이후 국립국어원에서 운영하는 온라인 국어 질의응답 게시판 ‘온라인 가나다’에도 관련 질문이 쏟아졌다. &lt;br&gt;&lt;br&gt;이에 국립국어원은 문해력 논란이 불거진 문장의 공식 표현은 “밥 먹을 땐 개도 안 때린다”라고 정정해주면서, 개가 ‘밥 먹는 주체’라고 보는 게 더 적절하다고 설명했다.&lt;br&gt;&lt;br&gt;국립국어원은 “‘밥 먹을 때는 개도 안 때린다’는 속담은 비록 하찮은 짐승일지라도 밥을 먹을 때에는 때리지 않는다는 뜻”이라며 “음식을 먹고 있을 때에는 아무리 잘못한 것이 있더라도 때리거나 꾸짖지 말아야 한다는 말”이라고 했다. 그러면서 동의 속담으로 ‘먹는 개도 아니 때린다’ ‘먹을 때는 개도 때리지 않는다’ 등을 소개했다. &lt;br&gt;&lt;br&gt;국립국어원은 비슷한 취지 질문의 다른 답변에서는 “단정적인 답변을 드리긴 어렵지만, 표준국어대사전에서는 ‘밥 먹을 때는 개도 안 때린다’는 속담에 대해 ‘비록 하찮은 짐승일지라도 밥을 먹을 때에는 때리지 않는다는 뜻으로, 음식을 먹고 있을 때에는 아무리 잘못한 것이 있더라도 때리거나 꾸짖지 말아야 한다는 말’로 풀이하고 있다”며 “이를 고려하면 ‘개’를 ‘때리다’에 대한 목적어로 풀이하고 있는 것으로 해석할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘공천 개입 의혹’ 윤상현 의원 27일 김건희 특검 소환 </title>
@@ -936,15 +946,6 @@
       <description/>
       <pubDate>Wed, 23 Jul 2025 07:27:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWW7DPEZ4J4S6FXA4EIM7NGWRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김봉식 서울경찰청장(왼쪽)이 지난해 12월 5일 오전 서울 여의도 국회에서 열린 비상계엄 관련 행정안전위원회 전체회의에 굳은 표정으로 출석해 있다. 오른쪽은 조지호 경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최현석 전 서울경찰청 생활안전차장(현 중앙경찰학교장)이 작년 12월 3일 비상계엄 당시 김봉식 전 서울경찰청장에게 ‘정치활동을 금지하는 포고령은 효력이 있으니 따라야 한다’고 말한 적 없다고 증언했다. 김 전 청장이 검찰 조사에서 “최 전 차장 등 서울경찰청 간부들의 검토 결과 ‘포고령에 따라야 한다’는 결론이 났다”고 진술한 데 대해 정면으로 반박한 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 조지호 경찰청장과 김 전 청장, 윤승영 국가수사본부 수사기획조정관, 목현태 전 국회경비대장 등 경찰 지휘부의 내란 혐의 재판을 열었다. 조 청장이 불출석한 가운데 비상계엄 당일 국회 봉쇄 조치와 관련된 경찰 간부와 실무자들의 증인 신문이 이뤄졌다.&lt;br&gt;&lt;br&gt;오전 재판에는 최현석 당시 서울경찰청 생활안전차장이 증인으로 나왔다. 최 전 차장은 비상계엄 선포 당일 밤 서울경찰청 상황지휘센터에서 김봉식 전 청장과 주진우 당시 경비부장, 오부명 전 공공안전차장 등과 동석한 인물이다.&lt;br&gt;&lt;br&gt;사법연수원 34기로 수료해 변호사 자격증이 있는 최 전 차장은 상황지휘센터에서 모든 정치활동을 금지하는 포고령 1호의 위헌·위법 소지를 논의할 때 ‘긴급 시에는 계엄 포고령의 법률적 효력이 있다’는 의견을 냈다는 의혹을 받는다. 주 전 경비부장은 앞서 법정에서 “계엄 포고령 1호의 정치활동에 대해 금지한다는 것을 두고 개인 의견들로 논란이 있었다”며 “최 차장이 나타나 ‘긴급 시에는 포고령은 법률적 효과가 있다’고 말했다”고 증언한 바 있다. &lt;br&gt;&lt;br&gt;최 전 차장은 이에 대해 “누군가 갑자기 효력이 있는지 물어봤는데, 맥락을 몰라서 ‘계엄’의 효력에 대해 대체적으로만 말씀드렸다”며 “포고령이 아니라 계엄에 대해서만 일반적으로 효력이 있을 것 같다고 한 것이고, 따라야 한다는 취지로 말한 적 없다”고 증언했다. &lt;br&gt;&lt;br&gt;그는 “당시에는 포고령을 공식적으로 확인하지 못했다”며 “계엄 이후 지금까지도 매일 되뇌이고 있다. ‘내가 그런 말을 했을까?’ 그렇지 않다”고 했다.&lt;br&gt;&lt;br&gt;최 전 차장은 당시 김 전 청장이 국회 봉쇄·차단 조치와 관련해 “압박을 많이 느끼는 것 같았다”고 증언했다. 그는 “또렷하게 기억나는 게, 김봉식 청장님이 책상에 엎드려 고민하는 모습이었고 목소리도 갈라져나왔다”고 했다. 그는 김 전 청장이 급하게 결정하려는 모습을 보고 귓속말로 ‘논란이 될 사안이니 혼자 결정하지 말고 본청(경찰청)과 같이 협의하라’고 말했다고 증언했다.&lt;br&gt;&lt;br&gt;최 전 차장은 ‘변호사 자격이 있는 전문가로서 비상계엄이 법정 요건을 충족하지 못한 위헌·위법한 것이라고 생각하는지’ 묻는 검사 질문에 “지금 그렇게 생각한다”고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> 대구 달성군 식품공장서 일산화탄소 추정 가스 누출… 직원 8명 병원 이송</title>
-      <link>https://www.chosun.com/national/regional/2025/07/23/2775CFORRJD3PDPS6EOFSDDG7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/23/2775CFORRJD3PDPS6EOFSDDG7I/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 23 Jul 2025 05:13:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X55ZHIVKOEQQIS33Y52KRWDSDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군 한 식품 제조 공장에서 일산화탄소 누출로 추정되는 사고가 발생, 공장 직원 8명이 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;23일 대구소방안전본부에 따르면, 이날 오전 11시 30분쯤 대구 달성군 논공읍 한 식품제조공장에서 일산화탄소로 추정되는 가스가 누출되는 사고가 일어났다. 이 사고로 공장 내에서 작업 중이던 인부 8명이 어지러움 등 일산화탄소 중독 증상을 보여 인근 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;소방 당국은 장비 9대, 인력 28명을 투입해 현장 환기 등 안전 조치를 진행했다.&lt;br&gt;&lt;br&gt;소방 당국은 “공장 직원 등의 증상으로 미뤄 일산화탄소 누출 사고로 보고 있다”며 “누출된 가스 종류와 사고 원인 등에 대해서는 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;한편 달성군 재난 문자를 통해 해당 지역에 가스 유출이 발생했으니 창문을 닫고 실내에서 대기하라고 알리기도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전처는 CEO, 아들은 대표… 무직 아버지 열등감 폭발했나</title>
