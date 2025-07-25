@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>2026학년도 LEET, 1만 7230명 응시…전년보다 300명 가까이 감소</title>
+			<description>&lt;p&gt;2026학년도 로스쿨 입시를 위한 법학적성시험(LEET)에 지난해보다 소폭 감소한 1만7230명이 응시했다. 법학전문대학원협의회는 7월 20일 서울, 수원·용인, 부산 등 전국 9개 지구 43개 시험장에서 LEET를 실시한 결과, 총 1만9057명이 지원했고, 이 가운데 1만7230명이 실제 응시했다고 밝혔다(응시율 90.4%)). 2025학년도(전년) 응시자 수인 1만7519명보다 289명 줄었다. 2008년 첫 시행 당시 9600여 명이 응시했던 LEET는 이후 다소의 등락을 거치며 꾸준히 증가세를 보여 왔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;지역별 응시 인원은 서울 1만2167명, 수원·용인 1119명, 부산 1050명, 대구·경산 765명, 광주 561명, 전주 359명, 대전·청주 891명, 춘천 193명, 제주 125명이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;시각 및 지체장애인 등 편의지원 대상 응시자는 52명이었다. 이들에게는 음성지원 파일, 축소·확대 문제지, 컴퓨터 기반 논술 답안 작성 등의 편의가 제공됐다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;시험 문제지와 정답은 &lt;b&gt;&lt;a href="https://leet.uwayapply.com/" target="_blank"&gt;법학적성시험 홈페이지&lt;/a&gt;&lt;/b&gt;에 게시됐다. 문제 및 정답에 대한 이의 신청은 7월 23일 오후 5시까지 받는다. 정답은 8월 6일 확정된다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;성적은 8월 19일 오전 10시부터 홈페이지에서 확인할 수 있다. 9월에는 면접 원서 접수가 진행되고, 11월 면접을 거쳐 12월에 최종 합격자가 발표된다.&lt;/p&gt;</description>
+			<pubDate>Fri, 25 Jul 2025 02:42:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210057</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210057</guid>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희 특검, 아크로비스타 압수수색...김선교·김 여사 일가도</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210055.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 전 대통령 부부의 자택이 있는 서울 서초구 아크로비스타 모습. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;&amp;nbsp;특별검사팀(김건희 특검)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 부부의 서울 아크로비스타 자택 등에 대한 강제수사에 착수했다. 특검팀은 김건희 여사의 일가 등에 대해서도 압수수색 중이다. &lt;br /&gt;&lt;br /&gt;특검팀은 25일 언론 공지를 통해 "오전 9시 10분경 특검에서 수사 중인 사건들과 관련해 윤 전 대통령 부부의 서초동 아크로비스타 내 주거지에 대한 압수수색에 착수했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 건진법사 청탁 의혹과 명태균 씨 공천개입 의혹과 관련한 자료 등을 확보하기 위해 이날 압수수색에 착수한 것으로 보인다. &lt;br /&gt;&lt;br /&gt;양평 공흥지구 특혜 의혹과 관련해 특검팀은 이날 오전부터 김선교 국민의힘 의원, 김 여사의 모친인 최은순 씨와 오빠인 김진우 씨 등의 주거지에 대해서도 압수수색을 진행하고 있다. &lt;br /&gt;&lt;br /&gt;공흥지구 개발 특혜 건은 김 여사 일가가 설립에 관여하고 운영해 온 이에스아이엔디(ESI&amp;D)가 공흥지구(2만2411㎡·350가구) 개발 사업 과정에서 특혜를 받았다는 의혹이다.</description>
 			<pubDate>Fri, 25 Jul 2025 01:22:53 -0000</pubDate>
@@ -227,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210000</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210000.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>강선우 여가부 장관 후보자 사퇴…"믿어준 대통령께 한없이 죄송"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/209997.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강선우 여성가족부 장관 후보자 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;보좌진에 대한 '갑질' 논란이 제기된 강선우 여성가족부 장관 후보자가 23일 자진 사퇴 의사를 밝혔다. 지난 6월 26일 장관 후보자로 지명된 지 27일 만이다.&lt;br /&gt;&lt;br /&gt;강 후보자는 이날 자신의 페이스북을 통해 "그동안 저로 인해 마음 아프셨을 국민께 사죄의 말씀을 올린다"며 "많이 부족하지만 모든 것을 쏟아부어 잘 해보고 싶었다. 그러나 여기까지였던 것 같다"고 자진 사퇴 의사를 밝혔다.&lt;br /&gt;&lt;br /&gt;강 후보자는 "저를 믿어주시고 기회를 주셨던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&lt;/span&gt;&amp;nbsp;대통령께도 한없이 죄송한 마음  뿐"이라며 "함께 비를 맞아주었던 사랑하는 민주당에도 큰 부담을 지어드렸다"고 사과했다. 이어 "지금 이 순간까지도 진심 한 켠 내어 응원해 주시고 아껴주시는 모든 분들의 마음 마음, 귀하게 간직하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;강 후보자는 6월 26일 이재명 정부의 초대 여성가족부 장관 후보자로 지명됐으나, 이후 의원실 보좌진에게 사적 심부름을 시키는 등 이른바 '갑질'을 해왔다는 의혹이 불거지며 논란의 중심에 섰다.&lt;br /&gt;&lt;br /&gt;더불어민주당 지도부는 이러한 논란에도 불구하고 강 후보자에 대한 인사청문 경과 보고서 채택을 국민의힘에 촉구했다. 다만 당 일각에서 지도부의 강 후보자 임명을 비판하는 목소리도 나왔다.&lt;br /&gt;&lt;br /&gt;특히 강 후보자의 사퇴 직전, 민주당 대표 선거에 출마한 박찬대 의원은 "스스로 (거취에 대한) 결정을 내려야 한다"며 자진 사퇴를 요구했다.&lt;br /&gt;&lt;br /&gt;박 의원은 자신의 페이스북을 통해 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;정부의 성공을 위해 어렵고 힘들지만 결정해야 한다"며 "강 후보자가 스스로 결단을 내려야 한다. 깊이 헤아려 주시기 바란다"고 적었다.</description>
-			<pubDate>Wed, 23 Jul 2025 07:36:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/209997</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/209997</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/209997.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
