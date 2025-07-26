@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>원빈·이나영 부부, 결혼 10년만에 동반 공개외출…박인비와는 무슨 인연?</title>
+      <link>https://www.chosun.com/national/people/2025/07/26/IROVFBIUU5DFNF33XFBY3E2DRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/26/IROVFBIUU5DFNF33XFBY3E2DRU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 04:45:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYZPI6UZL5BP5FMXQE2664566I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;원빈, 박인비, 이나영(왼쪽부터). /박인비 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 원빈, 이나영 부부가 외부 활동 중 함께 찍은 사진이 공개돼 화제가 되고 있다. ‘신비주의’의 대명사인 두 사람이 지난 2015년 결혼한 이후 외부 활동 중 함께 찍은 사진이 공개된 것은 이번이 처음이다. &lt;br&gt;&lt;br&gt;골프선수 박인비는 25일 자신의 소셜미디어를 통해 “소중한 사람들과 경주 여행. 새롭게 단장한 우양미술관 너무 멋졌고, 아모아코보아포 전시도 보고 애들하고 호캉스도 맛집 투어도 너무 좋았다”는 글과 함께 여러 장의 사진을 올렸다.&lt;br&gt;&lt;br&gt;공개된 사진에는 박인비가 남편을 비롯한 지인들과 미술관을 방문해 사진을 찍은 모습이 담겼다. 특히 박인비는 배우 원빈, 이나영 부부와 함께 찍은 사진을 올려 눈길을 끌었다. &lt;br&gt;&lt;br&gt;박인비는 사진과 함께 “언니 오빠 10년 만의 투샷이라는데 내가 왜 중간에 끼어 있냐”라는 글을 올렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H3I4ZY3LZAXLDUKJE3IFZDBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원빈, 이나영 부부가 박인비 등 지인과 찍은 사진. /박인비 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원빈, 이나영 부부와 박인비 부부는 경북 경주시에 위치한 우양미술관을 찾은 것으로 보인다. 사진 속에서 원빈, 이나영, 박인비 세 사람은 우양미술관에 걸린 가나 출신 작가 아모아코 보아포의 그림을 감상했다.&lt;br&gt;&lt;br&gt;2016년 리우 올림픽 금메달리스트이자 커리어 그랜드 슬램을 달성한 박인비는 연예계에 인맥이 많은 것으로 유명하다. 배우 조인성은 박인비와 골프 라운딩도 함께 할 정도로 친하다고 한다. &lt;br&gt;&lt;br&gt;원빈‧이나영 부부는 2015년 결혼한 뒤 슬하에 아들 한 명을 두고 있다. 이나영은 2023년 드라마 ‘박하경 여행기’에 출연하는 등 꾸준히 작품 활동을 이어오고 있으나, 원빈은 2010년 영화 ‘아저씨’ 이후 15년째 공백기를 갖고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7H3I4ZY3LZAXLDUKJE3IFZDBHA.jpg?auth=40e6754973fc86bdedb75aae1fa11eb840e04a044d18d7cebdb27a99c7ca1a4e&amp;smart=true&amp;width=533&amp;height=502" type="image/jpeg" height="502" width="533">
+        <media:description type="plain">원빈, 이나영 부부가 박인비 등 지인과 찍은 사진. /박인비 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>서울 북아현동 상수도관 파열…인근 지역 밤 9시까지 단수</title>
       <link>https://www.chosun.com/national/national_general/2025/07/26/QWLPBA6GLFBGVBP7ZRSBQYFBVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/QWLPBA6GLFBGVBP7ZRSBQYFBVI/</guid>
@@ -952,15 +964,6 @@
       <description/>
       <pubDate>Thu, 24 Jul 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLX2MDI2QFCBJFVI6DA7ZFRBNE.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도봉구 아파트에서 발견된 사제 폭발물들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도에서 60대 남성이 사제(私製) 총기로 아들을 살해한 사건과 관련, 경찰의 초동 대응이 적절했는지를 두고 논란이 일고 있다.&lt;br&gt;&lt;br&gt;사건은 지난 20일 오후 9시 30분쯤 인천 송도국제도시의 아파트 33층에서 발생했다. 조모(62)씨가 손수 만든 사제 총으로 아들 A(34)씨를 살해했다. A씨 가족은 생일을 맞은 조씨를 초청해 잔치를 열고 있었다. A씨 아내 B씨와 5·9세 자녀들은 안방으로 피신한 뒤 오후 9시 33분쯤 112에 신고했다. “시아버지가 총으로 남편을 쐈다”는 내용이었다.&lt;br&gt;&lt;br&gt;신고를 받은 인천 연수경찰서 소속 경찰관들이 9시 41분쯤 이 아파트에 도착했다. 경찰은 특공대의 지원을 요청했다. 특공대가 아파트에 도착한 건 10시 16분이었다. 특공대는 오후 10시 43분쯤 현관문을 열고 사건 현장에 진입했다. 처음 신고가 접수된 지 1시간 10분이 지난 시점이었다.&lt;br&gt;&lt;br&gt;그러나 조씨는 이미 현장을 빠져나가 서울로 도주한 상태였다. 가슴과 배에 총알을 맞은 A씨는 심정지 상태로 발견됐다. 오후 11시 9분쯤 병원에 도착했지만 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDV4ZATV3VDNBLOE5OPUJNTCPA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, 조씨는 오후 9시 41분쯤 엘리베이터를 타고 밖으로 나갔다. 인천 경찰이 처음 이 아파트에 도착한 시각과 일치한다.&lt;br&gt;&lt;br&gt;조씨는 아파트 근처 공영 주차장에 주차한 렌터카를 타고 서울로 도주했다. 경찰 관계자는 “아파트에 도착한 뒤 조씨와 마주치지 않았다”며 “동선이 엇갈린 것 같다”고 했다.&lt;br&gt;&lt;br&gt;특공대 진입이 늦었던 이유에 대해 경찰 관계자는 “당시 집 앞에서 B씨와 4차례 통화했는데 계속 ‘시아버지가 아직 거실에 있다’고 얘기했다”며 “조씨가 집 안에 있는 상황을 전제로 작전을 할 수밖에 없었다”고 했다. 대테러 분야를 담당하는 한 경찰 관계자는 “총기를 든 범인이 인질과 함께 있는 상황에선 특공대를 기다리는 게 통상적인 대응 방식”이라고 했다.&lt;br&gt;&lt;br&gt;이날 출동한 특공대는 인천경찰청 특공대로 영종도에 주둔하고 있다. 송도까지 차량으로 약 30분 거리다. &lt;br&gt;&lt;br&gt;조씨는 21일 0시 15분쯤 서울 서초구 동작대로에서 검거됐다. 검거된 조씨는 1시 30분쯤 “서울 도봉구 집에 21일 낮 12시에 터지도록 설정한 폭탄이 있다”고 진술했다. 경찰은 곧바로 서울 도봉구 아파트 주민 105명을 주변 보건소 등으로 대피시켰다.&lt;br&gt;&lt;br&gt;서울경찰청 특공대와 폭발물 처리반이 도착한 건 2시 15분이었다. 이들은 3시 54분쯤 조씨 집에 진입해 4시 17분 폭발물 해체를 완료했다. 사제 폭탄을 설치했다는 진술을 확보하고 실제 해체하기까지 2시간 47분 정도 걸렸다. 조씨 집에선 시너 등 인화성 물질을 담은 페트병 등 15개와 타이머 기폭 장치가 발견됐다.&lt;br&gt;&lt;br&gt;이에 대해 경찰 관계자는 “새벽이라 주민 105명을 대피시키는 데 시간이 걸렸다”며 “사제 폭탄이라 파괴력을 예상할 수 없어 최대한 신중하게 대응했다”고 했다. 서울경찰청 관계자는 “문만 열어도 폭탄이 터질 수 있기 때문에 현장 진입은 집의 구조 등 정보를 확보한 뒤 하는 게 맞다”고 했다. &lt;br&gt;&lt;br&gt;지금처럼 경찰 특공대에 의존하는 방식으로는 초기 대응에 한계가 있다는 지적이 나온다. &lt;br&gt;&lt;br&gt;이윤호 동국대 경찰행정학과 교수는 “특공대가 출동하는 데는 보통 30분 이상이 걸린다”며 “일선 경찰서 단위로 초동 대응 능력을 키워야 한다”고 했다. 경찰청이 2016년 발간한 ‘테러 현장의 경찰의 치명적 무력 대응을 위한 표준 운영 절차(SOP) 체계화 연구’ 보고서에서도 “총기 무장범이 등장하는 등 테러 사건이 빠르게 변화하고 있다”며 “일반 경찰의 테러 대응 능력을 강화할 필요가 있다”고 했다. 경찰은 작년부터 현장 경찰관의 사격 훈련을 강화하고 있다. ‘38구경 권총’ 사격 연습도 연간 4회에서 6회로 늘렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재건축·재개발 기간 18→13년으로 단축</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/HIQ5J36PXJF4HHQVWSGCR4K7FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/HIQ5J36PXJF4HHQVWSGCR4K7FI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES5NYYMRI5H3NFNRU5XNM43EBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 24일 오후 서울 중구 신당9구역 재개발 현장에서 지역 주민들에게 주택공급 촉진 방안을 설명하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 서울에서 추진하는 재건축·재개발 사업의 모든 행정 절차에 ‘마감 시한’이 생긴다. 인허가 등 절차를 최대한 당겨 주택 공급 속도를 높이겠다는 취지다. 오세훈 서울시장은 24일 이러한 내용을 골자로 하는 ‘주택 공급 촉진 방안’을 발표했다. 오 시장은 “처리 기한을 두면 평균 18년 6개월 이상 걸리던 정비사업 기간을 13년으로 5년 이상 단축할 수 있을 것”이라고 했다. &lt;br&gt;&lt;br&gt;재건축·재개발 등 정비사업의 절차를 6개로 나누고 각 단계마다 ‘표준 처리 기한’을 두기로 했다. 예를 들어 정비사업의 첫 단계인 ‘정비구역 지정’은 2년 내 마치기로 하고 정비사업 후보지 선정은 120일, 보조금 지급은 10일 이내에 끝낸다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>노란봉투법 정부안, 1년 유예기간 두고 연대 책임 유지</title>
