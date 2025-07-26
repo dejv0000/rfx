@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 북아현동 상수도관 파열…인근 지역 밤 9시까지 단수</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/26/QWLPBA6GLFBGVBP7ZRSBQYFBVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/QWLPBA6GLFBGVBP7ZRSBQYFBVI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 02:49:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A67EH7MQTEEIWLZEJCTLCHXDBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서대문구청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서대문구 북아현동의 한 상수도관 교체 작업이 진행 중이던 26일 오전 7시 40분쯤 노후 상수도관이 파열돼 인근 지역에 물 공급이 중단됐다. 이 과정에서 물이 흘러나와 일부 토사가 유실되기도 했다.&lt;br&gt;&lt;br&gt;서대문구는 이날 오전 주민들에게 보낸 재난 문자에서 “오전 10시부터 오후 9시까지 단수가 될 예정이니 식수 확보 등 대비를 해달라”고 당부했다. 구는 단수 예상 범위를 북아현동, 이화여대, 중앙여중 등으로 보고 있다.&lt;br&gt;&lt;br&gt;이에 현재 서울시 상수도사업본부 서부수도사업소가 긴급 복구 작업을 벌이고 있다. 서울시 서울아리수본부와 구는 주민들에게 식수도 지원할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학교 관리 용역 미끼로 2억원 가로챈 서울 유명 사립대 설립자 장손 징역 1년</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/26/X3VWBGW3IVB5LDX4NZMTS5VIZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/X3VWBGW3IVB5LDX4NZMTS5VIZI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 02:13:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CON2R5QYZ5HQGNEURQRID464QI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 유명 사립대 설립자의 장손임을 내세워 교내 관리업무 용역을 주겠다고 접근한 뒤 돈만 받아 가로챈 60대 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사3단독 박석근 판사는 사기 혐의로 기소된 A(66)씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;서울의 한 4년제 유명사립대 설립자의 장손인 A씨는 지난 2014년 11월 20일 위생 관리 서비스업체 대표 B씨에게 학교 내 관리 업무 용역 계약을 체결하자고 속인 뒤 명목으로 2억원을 받아 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 “학교법인 설립자의 장손이자 가족 대표”라며 “기부금 2억원을 주면 내년부터 대학 내 경비, 미화, 주차관리 등 관리 업무를 할 수 있게 해주겠다”고 속인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “학교법인 설립자의 장손인 점을 내세워 대학 내 미화 등 운영권 제공을 명목으로 2억원을 가로챈 것은 죄책이 매우 무겁다”며 “용역 업체 선정은 대학의 총무처 재무팀에서 입찰공고 후 선정하는 것으로 A씨가 용역 업무를 하도록 해줄 권한은 전혀 없었다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “A씨는 1996년부터 2000년 6월까지 학교법인 기획관리부장으로 근무하던 중 학교법인 자금을 횡령해 징역 7년을 선고받은 전력이 있다”며 “2011년부터 학교법인 이사장인 숙부와 재산분쟁 등을 계속해 학교법인 설립자 후손들은 A씨를 가족 대표로 선정한 적도 없었고, A씨는 학교법인 경영과 무관했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>길음동 칼부림 내기바둑 탓 가능성...피의자 의식 회복은 아직</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/26/M6LJJIOKVJGRBPAXLZPUTDAHXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/M6LJJIOKVJGRBPAXLZPUTDAHXI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 01:42:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSPC37FL5LZLLRDRKVLVJIRWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 지난 25일 오후 칼부림 사건이 발생한 서울 성북구의 한 기원 입구에 폴리스 라인이 쳐져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 25일 오후 서울 성북구 길음동의 한 기원에서 남성 3명이 흉기에 찔려 중상을 입은 가운데, 경찰은 사건의 발단이 내기 바둑과 연관됐을 가능성을 염두에 두고 수사를 진행 중이다. 다만, 피해자들은 내기 바둑과는 관련이 없다는 게 경찰의 설명이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이 사건 피의자인 70대 남성 A씨로부터 복부와 손 등을 칼에 찔린 80대 남성과 60대 남성은 현재 수술을 마치고 의식을 회복한 상태다. 하지만 복부에서 자해로 추정되는 자상이 발견된 A씨는 아직 의식을 찾지 못한 상황이다. 이들은 올해 초부터 기원을 출입하면서 알게 된 사이라고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 피해자들과 구두 조사를 했고, 사건의 다른 관계인들도 조사를 하고 있다”며 “피의자 조사는 의식이 돌아온 뒤에 가능하다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 내기 바둑을 두다가 범행을 저질렀을 가능성이 있다고 보고 정확한 사건 경위를 파악 중이다. 다만, 경찰 관계자는 “피해자들은 내기 바둑과 전혀 관련이 없다”고 했다. &lt;br&gt;&lt;br&gt;사건 현장에서는 화투패와 술병이 발견됐다. 피의자와 피해자들은 범행 이전 음주를 한 상태였으나 화투를 치지는 않았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 지난 25일 오후 7시 37분쯤 기원에서 피해자들에게 흉기를 휘두른 혐의를 받는다. 경찰은 기원 문을 잠그고 저항하던 A씨를 테이저건 2발로 제압했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10차로 무단횡단한 노인 치어 숨지게 한 운전자, 항소심도 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/26/FGY5SH552RCEJGYRXSPEK7RDD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/FGY5SH552RCEJGYRXSPEK7RDD4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 02:16:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간대 왕복 10차로를 무단횡단하던 70대 노인을 차로 들이받아 숨지게 한 운전자가 항소심에서도 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;26일 법조계에 따르면 수원지법 형사항소1-3부(김종근 부장판사)는 교통사고처리 특례법 위반 혐의로 재판에 넘겨진 30대 A씨의 항소심에서 무죄를 선고한 원심을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 1월 5일 새벽 4시 30분쯤 경기 안양시의 한 왕복 10차로 일반 도로를 운행하던 중 무단횡단하던 70대 B씨를 차로 들이받아 숨지게 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;당시 도로 제한 속도는 시속 60㎞였으나 A씨는 이보다 시속 20㎞를 초과해 운전한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심은 당시 A씨가 제한속도를 위반한 것은 맞으나 B씨가 왕복 10차로 도로를 무단횡단하다 사고가 벌어진 것으로 통상적으로 예견해 피할 수 있는 상황이 아니었다고 판단해 무죄를 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부도 “교통사고 발생 당시 피고인이 피해자를 식별하기에 용이한 환경이 아니었고, 블랙박스 영상에 의하더라도 피고인이 정지선에 다다라서야 횡단하는 피해자 모습이 갑자기 나타나는 장면이 확인된다”며 “전방주시의무를 게을리하지 않았더라도 사고를 회피할 수 있었다고 단정할 수 없다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, ‘尹 부부 측근' 함성득 교수 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/26/7HL4PPI3ONFKVA47POPDV5VTDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/7HL4PPI3ONFKVA47POPDV5VTDM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:58:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSRNN3XXNMYZGFD3BJULBAW5VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 2일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 특검보들과 함깨 현판식을 가졌다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 지난 25일 함성득 경기대 정치전문대학원장을 소환 조사했다. 함 원장은 윤 전 대통령 부부의 서울 서초동 아크로비스타 이웃 주민으로, 이들 부부와 가깝게 지낸 것으로 알려진 인물이다.&lt;br&gt;&lt;br&gt;26일 특검팀은 “지난 25일 함성득씨에 대한 소환조사를 했다”라고 밝혔다. 함씨는 윤 전 대통령 부부의 ‘공천 개입 의혹’과 관련해 참고인 신분으로 조사를 받은 것으로 알려졌다. 특검팀은 27일 윤상현 국민의힘 의원의 소환 조사를 앞두고, 함 원장을 상대로 정치 브로커 명태균씨와 나눈 문자 등에 대한 사실 관계를 파악한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 함 원장과 명씨가 당시 국민의힘 공천관리위원회가 출범한 2022년 4월 28일에 주고 받은 문자를 확보했다. 명씨는 당시 “형수(김 여사)에게 보낸 문자”라며 메시지를 함 원장에게 공유했는데, “사모님 창원시 의창구 출마한 김영선 의원을 지켜달라” “대통령님과 사모님의 충복이 되겠다”는 내용이 담겨 있었다.&lt;br&gt;&lt;br&gt;해당 문자를 공유받은 함 원장은 “알겠다”고 답한 뒤, 명씨에게 이준석 당시 국민의힘 당대표로 추정되는 “‘대표’가 윤상현에게 김영선 문제로 전화했다”고 문자를 보내기도 했다.&lt;br&gt;&lt;br&gt;공천 개입 의혹은 윤 전 대통령 부부가 2022년 20대 대통령 선거 과정에서 명씨로부터 무상으로 여론조사를 받은 대가로, 같은 해 치러진 국회의원 보궐선거 경남 창원 의창 선거구에 김영선 전 의원을 공천받도록 했다는 내용이다. 특검팀은 함 원장을 조사한 내용을 토대로 27일 윤 의원에게 관련 의혹 전반에 대해 추궁할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, ‘코바나컨텐츠 협찬’ 의혹 컴투스 송병준 의장 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/26/I77OU2LLCNEKVKGZECKSYVCR6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/I77OU2LLCNEKVKGZECKSYVCR6Q/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 01:35:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4YH5HVI4GLU65GDL6ZVSYQXSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 코바나 컨텐츠 전시회에 억대 금액을 협찬한 송병준 컴투스 의장이 26일 오전 김건희 특검팀(특별검사 민중기)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사와 관련한 각종 의혹을 수사하는 민중기 특별검사팀이 26일 ‘코바나컨텐츠 대가성 의혹’을 받는 송병준 컴투스홀딩스 의장을 소환했다.&lt;br&gt;&lt;br&gt;이날 송 의장은 오전 9시 45분쯤 특검팀 사무실이 있는 서울 광화문 KT웨스트 빌딩에 도착했다. 송 의장은 특검에 출석하며 ‘김 여사와 아는 사이냐’ ‘김 여사 측에서 전시회 후원 요청이 있었나’ 등 취재진 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;컴투스는 2015년 6월~2019년 4월 사이 김 여사가 운영한 코바나컨텐츠 전시회에 협찬한 기업 중 한 곳이다. 코바나컨텐츠가 기획한 ‘마크 로스코전’ ‘르 코르뷔지에전’ ‘알베르토 자코메티전’ 등에 총 2억1950만원을 협찬했다.&lt;br&gt;&lt;br&gt;컴투스가 코바나컨텐츠에 후원할 당시 윤 전 대통령은 박근혜·최순실 국정농단 특검팀 수사팀장(2016년 12월~2017년 2월)과 서울중앙지검장(2017년 5월~2019년 7월)을 지냈다. 윤 전 대통령이 서울중앙지검장으로 있을 당시 컴투스와 송 의장은 회사 주식을 미신고한 혐의로 서울중앙지검 수사를 받다 무혐의 처분됐다. 이에 컴투스가 검찰 수사 무마를 위해 코바나컨텐츠에 협찬했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;한편 특검은 전날인 25일 코바나콘텐츠 의혹과 관련해 서울 서초구 아크로비스타 김 여사 주거지, 코바나콘텐츠 사무실, 컴투스홀딩스 사무실 등을 압수 수색했다. 해당 압수 수색 영장에는 김 여사와 윤 전 대통령, 송병준 컴투스 의장이 코바나컨텐츠 기업 협찬 의혹과 관련해 특정범죄가중처벌법상 뇌물 혐의 피의자로 적시된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 을왕리서 물놀이하던 고등학생, 바다에 빠져 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/07/26/UN4QGR2XPBA2VFTA4CHSYHLRM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/26/UN4QGR2XPBA2VFTA4CHSYHLRM4/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:46:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU2FVCMECJLZVDF6XET2R2EG4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 중구 을왕리해수욕장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 을왕리에서 물놀이를 하던 고등학생이 바다에 빠져 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;26일 인천소방본부에 따르면 전날 오후 2시 46분쯤 중구 을왕리선착장 인근 해상에서 “고교생 A(18)군이 실종됐다”는 119신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 소방 당국과 해경은 수중 수색작업을 벌여, 실종 4시간 만에 A군을 발견했다. A군은 숨진 상태였다.&lt;br&gt;&lt;br&gt;A군은 고교생 친구 2명과 함께 물놀이를 하던 중이었다. 당시 다이빙을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경과 소방당국은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 내내 한증막 더위…낮 최고 38도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/26/CDATXRMFHVCODCX6PK4KSBEA4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/26/CDATXRMFHVCODCX6PK4KSBEA4I/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:38:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EEEKFU2EQMNF2NBBFF6MSN65CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 폭염경보가 발령 중인 경북 포항시 북구 영일대해수욕장 백사장에서 시민들이 맨발걷기를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대부분 지역에 폭염경보(일 최고 체감기온 35도 이상)가 내려진 가운데, 이번 주말 내내 한증막 더위가 이어질 전망이다.&lt;br&gt;&lt;br&gt;26일 기상청에 따르면, 북태평양고기압과 티베트고기압이 우리나라 상공을 장악하면서 두 겹의 뜨거운 ‘공기 이불’이 형성, 열기가 갇힌 채로 폭염 강도가 올라가고 있다.&lt;br&gt;&lt;br&gt;여기에 뜨겁고 축축한 남서풍까지 불면서, 한여름 이불을 두 겹 덮고 난로까지 쬐고 있는 상황이 계속되고 있다.&lt;br&gt;&lt;br&gt;26일 서울의 최고기온이 36도까지 올라가는 등 전국 낮 기온은 최고 32~38도를 기록할 전망이다. &lt;br&gt;&lt;br&gt;폭염은 일요일인 27일에도 이어지겠다. 27일 기온은 최저 22~28도, 최고 32~37도의 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘부터 ‘소비쿠폰’ 누구나 신청…주말은 온라인 신청만</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/26/65AYC75HFBFA7POIFXW2RTLTUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/26/65AYC75HFBFA7POIFXW2RTLTUQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:31:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNDZR2EMB2F2DABL24AWVW7VAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문구 청량리종합시장에 민생회복 소비쿠폰 사용가능 점포 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일부터 ‘민생회복 소비쿠폰’을 출생연도 끝자리에 상관없이 신청할 수 있다. 다만 주말에는 온라인 신청만 가능하다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면, 26일부터 신청 마감 시한인 9월 12일 오후 6시까지 출생연도에 상관없이 신청이 가능하다. 마감일이 지나면 신청할 수 없기 때문에 반드시 기간 내 신청해야 한다.&lt;br&gt;&lt;br&gt;국민 1인당 15~45만원을 지급하는 소비쿠폰 1차 신청은 지난 21일 시작됐다. 신청 첫 주인 지난 21~25일에는 신청자 폭주에 대비해 출생연도 끝자리를 기준으로 요일별로 신청자를 나눠 받았다. 지난 21~24일 나흘간 전국에서 전체 대상자의 57.1%인 2889만8749명이 신청을 완료해 5조2186억원이 지급됐다.&lt;br&gt;&lt;br&gt;소비쿠폰은 신용·체크카드, 선불카드, 지역사랑상품권(지류·모바일·카드) 중 선택해 수령할 수 있다.&lt;br&gt;&lt;br&gt;신용·체크카드를 통한 지급은 카드사 홈페이지, 애플리케이션, 콜센터, ARS 및 카카오뱅크·케이뱅크·토스·카카오페이 간편결제·네이버페이 간편결제 앱을 통해 온라인으로 신청할 수 있다. 온라인 신청이 어려우면 각 카드사와 연계된 은행영업점을 방문하면 된다.&lt;br&gt;&lt;br&gt;모바일·카드형 지역사랑상품권 지급은 자치단체별 지역사랑상품권 앱이나 읍면동 주민센터에서 직접 신청할 수 있다.&lt;br&gt;&lt;br&gt;선불카드나 지류형 지역사랑상품권으로 받길 원하는 경우 주소지 관할 읍면동 주민센터를 방문해서 신청하면 된다.&lt;br&gt;&lt;br&gt;다만 주말에는 오프라인 신청이 불가하다. &lt;br&gt;&lt;br&gt;소비쿠폰은 신청 다음 날부터 오는 11월 30일까지 사용할 수 있다. 사용처는 대형마트와 백화점, 유흥업소를 제외한 연 매출 30억원 이하의 소상공인 업체 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘폭우 실종’ 산청 1명·가평 2명...주말 폭염 속에도 수색 계속 </title>
+      <link>https://www.chosun.com/national/national_general/2025/07/26/BXZWNMXUWZDV5FS5GZYTSL46ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/BXZWNMXUWZDV5FS5GZYTSL46ZM/</guid>
+      <dc:creator>가평=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:31:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCCTA3KBQWXVR4C3DEEZ4Y3XCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 경기 가평군에서 수해 실종자 수색 작업이 이뤄지고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19~20일 쏟아진 폭우로 산사태와 하천 범람이 잇따르며 인명피해가 속출한 경남 산청군과 경기 가평군에서 수일째 실종자 수색이 이어지고 있다.&lt;br&gt;&lt;br&gt;26일 경기도북부소방재난본부는 경찰과 민간 대원 등과 함께 7일째 가평 실종자 수색 작업을 이어간다고 밝혔다. 이날 770여명의 인원을 집중 투입한다.&lt;br&gt;&lt;br&gt;현재 남은 실종자는 가평군 마일리 캠핑장에서 산사태로 실종된 일가족 4명 중 어머니 40대 여성과, 덕현리에서 급류에 휩쓸린 것으로 추정되는 50대 남성 등 2명이다.&lt;br&gt;&lt;br&gt;당국은 실종자가 발생한 가평군 마일리부터 신청평대교까지의 구간을 드론과 헬기, 도보 인원, 구조견 등을 활용해 집중 수색한다.&lt;br&gt;&lt;br&gt;특히 대보교~신청평대교 구간 등 실종자가 있을 가능성이 높은 지점에서는 구조대원들이 물에 직접 들어가 찾을 예정이다.&lt;br&gt;&lt;br&gt;하류 지역에 해당하는 청평호∼팔당댐과 경기 고양시 김포대교까지 구간 등에서는 보트 14대를 동원해 수상 수색을 한다.&lt;br&gt;&lt;br&gt;지난 20일부터 이어지는 장기 수색에 폭염까지 더해져 현장서 어려움이 잇따르고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YO3ERVYVTKUX3JEGKSNCMMX7ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산청 산사태 마지막 실종자를 찾기 위해 당국이 지난 24일 신등면 율현리 일원을 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산청군에서는 실종자 수색이 8일째 이어지고 있다.&lt;br&gt;&lt;br&gt;경남소방본부와 다른 시도 소방본부 구조대원, 의용소방대, 경찰, 군인들은 이날 오전 6시쯤부터 실종자 1명에 대한 수색을 재개했다. 지난 19일부터 시작한 수색이 일주일을 넘긴 것이다.&lt;br&gt;&lt;br&gt;당국은 신등면 율현리에서 급류에 휩쓸린 80대 남성을 찾고 있다. 경남소방본부는 드론·중장비·구조견 등을 동원해 수색 작업을 하고 있다.&lt;br&gt;&lt;br&gt;실종자가 하천을 따라 하류로 멀리 떠내려갔을 가능성이 있어 실종지점에서 10㎞ 이상 떨어진 단성면 지역, 46㎞ 떨어진 진주 진양호까지 범위를 넓혔다.&lt;br&gt;&lt;br&gt;한편, 지난 19일 산청군에는 300㎜에 육박하는 극한 호우가, 지난 20일 가평군에는 200㎜ 수준의 폭우가 쏟아졌다. &lt;br&gt;&lt;br&gt;산청에서만 13명이 숨지고, 1명이 실종됐으며, 가평에선 모두 6명이 숨지고 2명이 실종됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘언론사 단전·단수’ 의혹 이상민 전 장관, 내란 특검서 19시간 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/26/6W26NYRONRFXXNTP62RWLNJVHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/6W26NYRONRFXXNTP62RWLNJVHY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 26 Jul 2025 00:20:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LEB5LCE2BP3BKQNX5Y3QNJJXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 25일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에서 '언론사 단전·단수 의혹' 관련 피의자 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상민 전 행정안전부 장관이 지난해 ‘12·3 비상계엄’ 당시 특정 언론사들에 대한 단전·단수를 지시했다는 의혹에 대해 약 19시간 가까이 내란 특검에서 조사를 받았다. &lt;br&gt;&lt;br&gt;이 전 장관은 지난 25일 오전 10시쯤 내란 특검 사무실이 마련된 서울고검에 출석해 피의자 신분으로 조사를 받았다. 이날 조사는 조서 열람 시간까지 포함해 다음날 오전 4시 40분쯤까지 이어졌다.&lt;br&gt;&lt;br&gt;이 전 장관은 조사를 마친 뒤 귀가하면서 ‘단전·단수 지시 의혹 인정하지 않았냐’, ‘대통령실 접견실에서 한덕수 전 국무총리와 어떤 대화를 나눴냐’는 취재진의 질문에 일절 답하지 않았다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관이 비상계엄 당시 윤석열 전 대통령으로부터 언론사 단전·단수 지시를 받고, 이 같은 지시를 소방과 경찰 당국에 전달했다고 보고 있다. 이 전 장관은 비상계엄 당일 밤 11시 34분 조지호 경찰청장에게 전화를 걸어 관련 조치 상황을 확인하고, 3분 뒤 허석곤 소방청장에게 전화해 “경찰청에서 단전·단수 협조 요청이 오면 조치해줘라”고 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 내란 특검은 지난 17일 이 전 장관의 자택과 소방청 등 7곳을 압수 수색했다. 이어 18일엔 황기석 전 서울소방재난본부장을, 22일엔 이영팔 소방청 차장을, 23일엔 허석곤 청장을 불러 조사했다. &lt;br&gt;&lt;br&gt;한편 이 전 장관은 헌법재판소에서 허위 증언한 혐의도 받는다. 이 전 장관은 지난 2월 11일 윤 전 대통령 탄핵심판 변론에서 전기나 물을 끊으려 한 적이 없고, 윤 전 대통령으로부터 그런 지시를 받은 적도 없다는 취지로 증언한 바 있다. 그러나 특검팀은 이 전 장관이 단전·단수 지시가 포함된 것으로 의심되는 문건을 들고 한덕수 전 국무총리와 대화를 나누는 장면 등이 담긴 대통령실 폐쇄회로(CC)TV 영상 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘핼러윈 참사’ 배우 故이지한 모친 “너를 못본지 1000일이라니…”</title>
       <link>https://www.chosun.com/national/national_general/2025/07/26/PYNO6EQSXZEWXPVO74YHIMVGZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/26/PYNO6EQSXZEWXPVO74YHIMVGZQ/</guid>
@@ -749,15 +848,6 @@
       <content:encoded>임성근 전 해병대 1사단장의 ‘구명 로비 의혹’과 관련해 해병 특검의 압수 수색을 받은 해병대 출신 이모씨가 25일 법원에 ‘압수 수색 영장을 취소해달라’는 취지의 준항고를 낸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVKZFAWNONMEHPMP5SXSRINNIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전직 해병 이모씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이씨는 전날 해병 특검이 이른바 이종호 전 블랙펄인베스트 대표 등 해병대 출신으로 구성된 ‘멋쟁해병’ 관련 구명 로비 의혹의 참고인 신분으로 자신을 압수 수색한 데 대해 반발하며 준항고를 내기로 결정했다고 한다. 준항고란 수사기관의 압수 수색 등 처분에 불복할 때 법원에 취소나 변경을 청구하는 제도다.&lt;br&gt;&lt;br&gt;임 전 사단장의 구명 로비 의혹은 당초 멋쟁해병 모임에서 시작됐다. 이들 간의 단체대화방과 통화 녹취록 등에서 이 전 대표가 고 채수근 상병 사망 사고 이후 임 전 사단장을 구하기 위해 VIP에 청탁을 했다는 취지의 대화가 나온 것이다. 이에 이 전 대표가 친분이 있는 김건희 여사에게 구명 로비를 한 것 아니냐는 의혹이 제기됐다. 멋쟁해병 측과 알고 지내던 이씨가 작년 6월 이를 민주당 장경태 의원실 등에 제보하면서 구명 로비 논란이 커졌다.&lt;br&gt;&lt;br&gt;그러나 이씨는 이후 “장 의원 측이 제보 내용과 증거 사진 등을 왜곡했다”고 주장했다. 임 전 사단장과 이 전 대표가 친분이 없는데 마치 있는 것처럼 조작했다는 취지였다. 국민의힘은 이를 근거로 ‘민주당발 제보 공작’ 의혹을 제기했다.&lt;br&gt;&lt;br&gt;이씨는 최근 해병 특검 출범 이후 임 전 사단장과 이 전 대표 측을 대리하고 있다. 특검은 압수물을 바탕으로 이씨와 이 전 대표, 임 전 사단장 등이 연락을 주고받은 내역을 파악할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘혼밥 손님 면박 논란’ 여수 식당, 과태료 50만원 처분… 위생 기준 위반 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/7EBCT4B55FDSTEHIA3CQ4TBBZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/7EBCT4B55FDSTEHIA3CQ4TBBZ4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 01:21:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RFBJCFLQZF6NB4TXBTZVHDNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여수의 한 식당이 혼자 방문한 손님을 무례하게 대하는 모습이 포착돼 논란이 되고 있다./ 유튜브 채널 '유난히 오늘'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성 유튜버에게 “빨리 먹으라”고 재촉해 불친절 논란을 일으킨 전남 여수의 한 식당이 위생 점검 끝에 행정처분을 받았다.&lt;br&gt;&lt;br&gt;25일 여수시에 따르면 시 식품위생과는 지난 15일 해당 식당에 대해 특별 위생 점검을 진행했다. 그 결과 ‘위생적 취급 기준 위반’으로 과태료 50만원 처분을 내렸다.&lt;br&gt;&lt;br&gt;이번 논란은 지난 3일 여성 유튜버 A씨가 여수 맛집을 소개하는 영상을 올리면서 시작됐다. 영상에는 이 식당 관계자가 2인분을 주문한 A씨에게 “아가씨 하나만 오는 데가 아니다”라며 식사를 재촉하는 듯한 모습이 담겼다. A씨는 당시 식사를 시작한 지 20분쯤 된 시점이었다고 설명했다. &lt;br&gt;&lt;br&gt;온라인 커뮤니티를 중심으로 원성이 잇따르자 시는 현장을 찾아 사실관계를 파악하고 친절 교육을 실시했다. 이와 별개로 시는 위생 상태와 식자재 청결 여부 등을 조사하는 특별 위생 점검에 착수했다. &lt;br&gt;&lt;br&gt;식당 측도 A씨에게 직접 사과의 말을 전한 것으로 알려졌다. A씨는 지난 22일 유튜브를 통해 “저녁에 식당으로부터 사과 연락을 받았다”며 “식당 측에서 진심 어린 사과를 담아 메일을 보내주셨고 글에는 그동안 많이 고민하신 것들과 미안한 마음이 담겨 있었다”고 했다. 그러면서 “진심으로 미안하다고 사과를 하신 이상 계속해서 대립하는 것을 원치 않는다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘언론사 단전·단수' 의혹 이상민 전 장관, 내란 특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/25/3UVJMXV625B4TKPSB3JPZAQTMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/3UVJMXV625B4TKPSB3JPZAQTMY/</guid>
@@ -765,42 +855,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 00:56:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOJHKL5OZBD2DFYI2MZ6KB4AGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 25일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에서 '언론사 단전·단수 의혹' 관련 피의자 조사를 받기 위해 출석하고 있다. 이날 이 전 장관은 취재진의 질문에 묵묵부답했다. 2025.7.25 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상민 전 행정안전부 장관이 지난해 ‘12·3 비상계엄’ 당시 특정 언론사들에 대한 단전·단수를 지시했다는 의혹에 대해 조사 받기 위해 25일 내란 특검 사무실이 마련된 서울고검에 출석했다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관이 비상계엄 당시 윤석열 전 대통령으로부터 언론사 단전·단수 지시를 받고, 이 같은 지시를 소방과 경찰에 전달했다고 보고 그를 내란 동조 혐의 피의자 신분으로 이날 소환했다. &lt;br&gt;&lt;br&gt;이 전 장관은 비상계엄 당일 밤 11시 34분 조지호 당시 경찰청장에게 전화를 걸어 관련 조치 상황을 확인하고, 3분 뒤 허석곤 소방청장에게 전화해 “경찰청에서 단전·단수 협조 요청이 오면 조치해줘라”고 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 내란 특검은 지난 17일 이 전 장관의 자택과 소방청 등 7곳을 압수 수색했다. 이어 18일엔 황기석 전 서울소방재난본부장을, 22일엔 이영팔 소방청 차장을, 23일엔 허석곤 청장을 불러 조사했다. 특검은 앞서 확보한 진술을 토대로 이날 이 전 장관에게 비상계엄 당시 단전·단수 지시가 내려진 경위를 조사할 것으로 보인다. &lt;br&gt;&lt;br&gt;또 이 전 장관이 그간 국회 등에서 이를 부정하는 취지로 증언해 온 것을 두고 이 전 장관에 대해 위증 혐의를 적용하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, 아크로비스타·최은순·김여사 오빠·김선교 의원실 등 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/WL4YAOI6JRAHBC725BTSNQZSLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/WL4YAOI6JRAHBC725BTSNQZSLE/</guid>
-      <dc:creator>이민준 기자, 표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 23:17:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6OE2SBFCALWK77AVMB2CNZC4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 사저가 있는 서울 서초구 아크로비스타./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 25일 ‘양평 공흥지구 개발 특혜’ 의혹 관련 김 여사의 모친 최은순씨, 친오빠 김진우씨와 국민의힘 김선교 의원실을 압수 수색하고 있다.&lt;br&gt;&lt;br&gt;이 의혹은 김 여사 일가가 2013년 당시 양평군수였던 김 의원으로부터 공흥지구 개발 사업 관련 인허가 특혜, 사업 지연 소급 승인 특혜, 개발부담금 면제 특혜 등을 받아 100억원 이상의 재산상 이득을 취했다는 내용이다.&lt;br&gt;&lt;br&gt;김 여사 일가 회사인 ESI&amp;amp;D는 2011~2016년 양평군 공흥리 일대 부지 2만2411㎡에 도시개발사업을 진행해 350세대 규모의 아파트를 건설했다. 그런데 2021년 윤석열 전 대통령이 대선에 출마한 이후 이 사업을 둘러싼 여러 특혜 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;양평군은 원래 이 사업에 대해 ESI&amp;amp;D에 2012년 11월부터 2014년 11월까지 2년간 사업 기한을 인가했다. ESI&amp;amp;D는 기한이 지나고도 별도 연장 신청 없이 미인가 상태로 사업을 진행했다가 양평군이 뒤늦게 사업 기간을 연장해주며 특혜 의혹이 일었다.&lt;br&gt;&lt;br&gt;또, ESI&amp;amp;D는 이 사업으로 798억원의 분양 실적을 거뒀지만, 토지 개발 과정에서 발생하는 땅값의 차익을 환수하는 제도인 개발부담금을 내지 않았다. 양평군은 2016년 7월 공흥지구 공사가 끝난 뒤에 17억여원의 개발부담금을 이 업체에 부과했는데, 김 여사 오빠 김씨가 토사 운반 관련 서류를 꾸며 양평군에 제출하는 방식으로 개발비를 부풀려 결국 양평군이 개발부담금을 0원으로 줄였다.&lt;br&gt;&lt;br&gt;이에 김 여사 일가와 양평군이 유착해 이 같은 편의를 봐준 것이 아니냐는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;이 사건은 한 시민단체가 2021년 10월 처음 고발하며 경찰이 수사했다. 이후 검찰은 김진우씨와 업체 관계자 등 5명에 대해 토사 운반 관련 서류를 위조한 혐의(사문조서위조 및 행사)로 불구속 기소했지만, 김 여사 일가와 양평군 유착 의혹에 대해서는 밝혀내지 못했다.&lt;br&gt;&lt;br&gt;이에 같은 시민단체가 2023년 5월 공수처에 윤 전 대통령과 김 여사 일가, 김 의원 등을 뇌물수수 등 혐의로 재차 고발했고, 이 사건을 특검이 넘겨받았다.&lt;br&gt;&lt;br&gt;특검은 이날 윤석열 전 대통령 부부 자택인 서초구 아크로비스타와 코바나콘텐츠 등에 대한 압수수색에도 착수했다. 다음 달 6일 김 여사 소환을 앞두고 여러 의혹들에 대한 자료를 확보하기 차원인 것으로 해석된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소비쿠폰 넷째 날 2890만명 신청...5조2186억원 지급</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/IMHCN3Q7Z5D7XIN527ODI2OEAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/IMHCN3Q7Z5D7XIN527ODI2OEAI/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 01:01:50 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAZ76COI6HGYNPGAEWS2RWDUA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민생회복 소비쿠폰 1차 신청 둘째 날인 22일 서울 강동구 암사종합시장 내 분식점에 지원금 사용 가능 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민생 회복 소비 쿠폰 1차 신청 넷째 날인 지난 24일, 전체 지급 대상자의 57.1%인 2889만8749명이 신청을 마쳤다고 행정안전부가 25일 밝혔다. 민생 쿠폰은 국민 1인당 기본 15만원을 지급하는 것이다. 지난 21일에는 698만명이, 22일에는 731만명이, 23일에는 720만명이, 24일에는 741만명이 신청을 마쳤다. 신청 다음 날 지급이 이뤄지며, 지급 총액은 5조2186억원이다.&lt;br&gt;&lt;br&gt;지급 방식별로는 신용·체크카드 신청자가 2140만7627명으로 가장 많았고, 지역사랑상품권 신청자는 모바일·카드 444만6475명, 지류 50만1047명으로 집계됐다. 선불카드 신청자는 254만3600명이다.&lt;br&gt;&lt;br&gt;지역별로는 인천이 가장 많았다. 60.95%(184만708명)가 신청했다. 대상자 대비 신청자가 가장 적은 지역은 전남(53.19%)이다. 서울에서는 520만3626명(56.99%)이 신청을 완료했다.&lt;br&gt;&lt;br&gt;정부는 오는 9월 12일 오후 6시까지 약 8주간 온·오프라인을 통해 민생회복 소비 쿠폰 1차 신청을 받는다. 신청 첫 주인 21~25일에는 출생연도 끝자리를 기준으로 한 ‘요일제’로 신청을 받는다. 금요일인 25일은 출생연도 끝자리가 5·0이면 신청할 수 있다.&lt;br&gt;&lt;br&gt;온라인 신청은 지역사랑상품권 앱, 신용·체크카드 카드사 홈페이지·앱·콜센터·ARS 등에서 가능하다. 오프라인 신청은 주소지 관할 읍면동 주민센터나, 신용·체크카드사 제휴 은행 영업점에서 할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마 때문에 결혼 못했다” 여친에 차이고 60대 친모에 주먹질한 30대 아들</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/7SYHMPYVRVDE5DVJUR5B43CLEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/7SYHMPYVRVDE5DVJUR5B43CLEY/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 00:02:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구와 헤어져 화가 난다는 이유로 60대 친모를 폭행한 30대 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 창원지법 형사7단독 이현주 부장판사는 존속상해 혐의로 기소된 A(33)씨에게 징역 1년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 지난 3월 경남 창원시 의창구의 한 아파트에서 어머니 B씨의 얼굴과 머리 등을 여러 차례 때린 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 여자친구와 헤어졌다는 이유로 “엄마 때문에 결혼 못 했다. 성질 건들지 말라”며 화풀이 한 것으로 나타났다. &lt;br&gt;&lt;br&gt;A씨는 이 사건 전날에도 B씨가 식초로 거실 청소를 하는 것에 화가 나 주먹과 발로 B씨를 폭행했다.&lt;br&gt;&lt;br&gt;아들에게 폭행당한 B씨는 신체 곳곳에 타박상을 입어 병원 치료를 받은 것으로 전해진다. &lt;br&gt;&lt;br&gt;이 부장판사는 “존속인 피해자를 무차별적으로 반복 구타해 그 죄질과 범정이 매우 불량하고 피해자로부터 용서받지도 못했다”며 “다만 잘못을 시인하는 점, 초범인 점 등을 참작해 형을 정했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘자유시간 꿀팁’ 전락한 학업 중단 숙려제… 자퇴율은 오히려 증가</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/YMVA42AMJRGSHBDR2N2WHRXNQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/YMVA42AMJRGSHBDR2N2WHRXNQM/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 00:45:36 +0000</pubDate>
-      <content:encoded>광주광역시 한 중학교의 교사 A(37)씨는 지난해 말 “선생님 반 학생 B가 오토바이를 훔치다 적발됐다”는 경찰 통보를 받았다. B는 지난해 가을부터 지각과 조퇴를 반복하더니 급기야 무단 결석을 하기 시작했다. A씨는 “가정 방문까지 하면서 설득해 봤지만 소용이 없었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5ZUWSRGLJHIHEDLSHYWMPMJ4U.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 학교 측은 퇴학 처분을 내리기 전 마지막 단계인 ‘학업 중단 숙려제’ 사용을 허가했다. 최대 7주간 주 1회 학교 상담에 참여하면 나머지 시간은 학교에 나오지 않아도 출석을 인정해주는 제도다. 이 기간 심리 상담과 설득을 통해 B를 다시 학교로 돌아오도록 하기 위해서였다.&lt;br&gt;&lt;br&gt;하지만 역효과였다. 결석이 자유로워진 B는 다른 학교의 비행 청소년과 어울려 다니기 시작했고, 새벽에 오토바이 절도까지 시도하다 경찰에 붙잡혔다. A씨는 “학업 중단 숙려제를 악용하는 전형적 사례”라고 했다. &lt;br&gt;&lt;br&gt;진로 고민 등으로 학교를 그만두려는 학생에게 충분히 고려할 시간을 주기 위해 도입된 학업 중단 숙려제가 변질되면서 교사들이 골머리를 앓고 있다. 학업 중단 숙려제는 학교 폭력, 가정 문제, 진로 고민 등으로 자퇴하려는 학생에게 7~49일의 숙려 기간 동안 학업 상담에 참여하게 하는 제도로 2012년에 도입됐다. 학생을 심리적으로 지원해 충동적 자퇴를 막고 학업 복귀를 권유하는 취지로, 학생과 부모가 함께 신청하면 쓸 수 있다. 숙려 기간에는 매주 1회 이상 학교 상담에 참여하기만 하면 출석이 인정된다. 1년에 최대 2번까지, 매년 반복 신청이 가능하다.&lt;br&gt;&lt;br&gt;하지만 도입 10년이 지난 지금, 학업 중단 숙려제는 ‘자유 시간 꿀팁’으로 전락했다는 게 교사들의 설명이다. 수업이 듣기 싫다는 이유로 숙려제를 신청하고 장기 결석하는 등의 목적으로 악용되고 있다는 것이다. 인천 중구 한 고등학교 교사 C씨는 “‘친한 친구가 숙려제 쓰니까 저도 쓸래요’라고 말하는 학생도 봤다”며 “부모 동의만 받아오면 학교 입장에서는 말릴 방법이 없다”고 했다. 서울 서대문구의 중학교 교사 D(55)씨는 “얼마 전 학생들 사이에 작은 다툼이 있었는데, 한 학생이 “반을 바꿔주지 않으면 학업 중단 숙려제를 신청해 학교를 안 나오겠다”고 얘기해 깜짝 놀랐다”며 “등교 거부를 협박용으로 사용하는 건가 싶어 황당했다”고 했다.&lt;br&gt;&lt;br&gt;제도 취지와는 반대로 이 제도를 사용한 학생들의 학업 중단 비율은 높아지고 있다. 서울시교육청에 따르면 서울 지역 초·중·고등학교 학생들의 학업 중단 숙려제 이용 횟수는 2020년 799건에서 2024년 3359건으로 5년간 320% 증가했다. 반면 숙려제 참여 학생 중 실제 학업에 복귀한 학생의 비율은 2020년 66.1%에서 2024년 64.9%로 하락했다.&lt;br&gt;&lt;br&gt;올해 들어서 시행된 고교학점제와 맞물려 교사들의 어려움은 가중되고 있다. 학교는 숙려제를 통해 장기 결석했다 복귀한 학생에 대해 장시간의 보충 수업을 편성해야 한다. 문제는 고교학점제 도입으로 출석(출석 일수 3분의 2 이상 출석)뿐만 아니라 성적(전 과목 40점 이상) 요건까지 채워야 졸업이 가능해졌다는 것이다. &lt;br&gt;&lt;br&gt;숙려제를 사용한 학생이 시험을 응시하지 않을 경우 전 과목 ‘미이수(F)’가 뜨게 되는데, 이럴 경우 교사는 해당 학생에게 과목당 15~20시간의 보충 수업을 반드시 실시해야 한다. 충남 지역에서 18년째 근무 중인 교사 E씨는 “학업 중단 숙려제를 사용하는 학생 상당수는 학업 자체에 뜻이 없는데, 이런 학생들을 억지로 앉혀놓고 장시간 가르치는 건 학생에게도 교사에게도 힘든 일”이라고 했다.&lt;br&gt;&lt;br&gt;전문가들은 학업 중단 숙려제의 방향성을 재정립해야 한다고 지적한다. 박주형 경인교대 교육학과 교수는 “과거에는 학교가 학습의 유일한 통로였지만, 지금은 온라인을 통한 자발적 학습이 얼마든지 가능하다”며 “단순히 학생을 학교에 묶어두는 게 정답이 아니기에, 다양한 학습 경로를 안내하는 형태로 제도 개선을 고민해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>갈비찜과 삼계죽 싸들고…안유성 명장, 이번엔 침수 피해 현장 달려갔다</title>
@@ -882,19 +936,6 @@
       <content:encoded>김성환 환경부 장관은 금강에 있는 보(洑) 3개를 완전 개방하는 등 ‘4대강 재(再)자연화’를 시작하겠다고 24일 밝혔다. 올여름 기록적 홍수를 겪은 후 강바닥 준설 등 물그릇 확보가 필요한 상황에서 정반대 행보를 보이는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEN7NH343FCORBA6RLZEQVZUTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 충남 금강 공주보(洑)를 찾은 김성환(왼쪽) 환경부 장관이 현장을 살펴보는 모습. 김 장관은 이날 금강에 있는 세종보, 백제보도 둘러봤다. 김 장관은 이날 4대강 재자연화를 시작하겠다는 입장을 밝혔다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경부에 따르면, 김 장관은 이날 금강 세종보 철거를 주장하는 환경 단체와 만난 자리에서 “다른 강보다 여건이 양호한 금강에서 재자연화 성과를 만들고 확산시키겠다”고 말했다. 특히 세종보·공주보·백제보가 있는 금강부터 재자연화 대상으로 삼겠다는 입장을 밝히기도 했다.&lt;br&gt;&lt;br&gt;원래 금강·영산강 다섯 보의 해체 및 상시 개방은 문재인 정부 때 결정됐다. 하지만 보 인근 주민들이 해체 결정에 반발해 실제로 해체된 보는 없었다. 윤석열 정부 들어 해체 결정이 취소됐지만, 이번 대선 과정에서 이재명 대통령은 이를 원상 회복시키겠다고 공약했다. 낙동강 등 나머지 4대강 보의 전면 개방 역시 약속했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRILUKAEHRC7RJGV4ONPDTQFOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘재자연화’란 4대강 사업 이전으로 하천 상태를 돌려놓겠다는 뜻으로 풀이된다. 4대강 사업은 한강·금강·낙동강·영산강의 강바닥을 준설해 물그릇의 크기를 넓히고, 제방을 쌓아 올려 홍수를 예방하며, 보 설치로 물을 가둬 가뭄을 예방하는 게 목적이다. 재자연화는 결국 하천에 인위적으로 손을 댄 현재 모습을 과거로 돌리겠다는 것이다.&lt;br&gt;&lt;br&gt;그러나 여권 내에서도 하천 준설에 대한 필요성이 제기되고 있다. 이번 집중호우 때 4대강 사업을 한 본류에선 홍수가 발생하지 않았으나, 정비를 하지 않은 지류·지천에선 수해가 컸기 때문이다. 충청은 당진천·홍성 갈산천·도당천, 호남은 소태천·석곡천·서방천 등이 이번 집중호우에 범람했다. 각각 금강과 영산강을 본류로 둔 곳들로, 대규모 준설이 이뤄진 적은 없는 곳들이다.&lt;br&gt;&lt;br&gt;반면 우리나라와 비슷한 시기에 장마를 겪는 일본에선 상습 홍수 지역에 예방적 성격의 ‘반복 준설’이 이뤄지고 있다. 일본 나라현과 오사카부를 흐르는 대화천(大和川)이 대표적이다. 총길이 68㎞, 유역 면적 약 1070㎢에 달하는 대화천은 큰비가 오면 범람이 잦았다. 특히 2017년 태풍 ‘란’으로 258가구가 침수되고 철도·도로망이 마비되는 피해를 겪으면서, 국토교통성은 이듬해부터 3년간의 긴급 준설과 5년짜리 유지 관리 계획에 들어갔다. 해마다 퇴적된 토사를 제거해 2018~2022년 5년 동안 약 14만m³의 준설이 이뤄졌고, 그 결과 2023년 장마 때 2017년과 비슷한 강우량에도 침수 가구가 83% 감소했다.&lt;br&gt;&lt;br&gt;이와 달리, 우리나라는 여전히 홍수를 겪고 나서야 수해 복구를 하는 식으로 단발성 정비가 대부분이다. 반복된 홍수에도 지류·지천에 대한 준설이나 정비가 제대로 이뤄지지 않다 보니 집중호우가 내릴 걸 알고도 당하고 있는 것이다. 우리나라에선 4대강 사업 이후 환경 단체 등의 반발로 하천 정비가 사실상 멈춰 있다. 오히려 준설이 더 이례적인 상황이다.&lt;br&gt;&lt;br&gt;집중호우 이후 준설이 이뤄진 대표적 사례로는 낙동강 지류인 황강이 있다. 2020년 여름 경남 합천·거창 일대에 큰비가 내리면서 심각한 홍수가 발생한 이 지역은, 당시 범람 원인이 토사 퇴적으로 인한 강바닥 상승으로 지목되면서 준설이 시작됐다. 환경부는 작년부터 황강 50㎞ 구간에 대한 정비에 착수했다. 퇴적된 모래·자갈 등을 제거해 강바닥을 낮추고, 물길 흐름을 방해하는 둔치 및 시설물을 대폭 정리했다. 2027년까지 정비를 마치면 수위가 최대 93㎝ 낮아진다. 환경부에 따르면, 이번 폭우 때도 황강 상류 합천군 청덕교·남하교 지점에 홍수주의보는 발령됐으나 실제 범람으로 이어지지 않았다. &lt;br&gt;&lt;br&gt;그럼에도 후속 홍수 대책으로 각 지역 하천에 대한 준설이 이뤄질지 미지수다. 환경부 관계자는 “하천 복구 과정에서 필요한 조처를 종합적으로 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;전문가들은 “기후변화로 홍수가 빈번해진 상황에서 하천을 단순히 ‘물길’이 아닌 ‘위험 관리 인프라’로 봐야 한다”고 지적한다. 이중열 물복지연구소장은 “하천 정비는 범람으로 인한 인명 피해를 막는 것이 최우선돼야 한다”며 “준설을 하더라도 또다시 토사가 쌓이기 때문에 제방 보강, 분산형 저류 시스템 확충 등 다른 대책도 함께 추진돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>공무원들 야근 동원… 광주 민생 쿠폰 교체</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/FLXVH3GFZ5DMRGC74SC3XCSTSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/FLXVH3GFZ5DMRGC74SC3XCSTSY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GQDXZ2CPZEBJK2G2C7L4OIMEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 광주 용봉동행정복지센터에서 직원들이 민생 회복 소비 쿠폰 선불카드에 색상을 통일하는 스티커를 붙이고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소득 수준에 따라 다른 색깔의 ‘소비 쿠폰’ 카드를 발급해 논란을 빚은 광주광역시가 색깔 교체 작업에 행정복지센터 직원 400여 명을 동원해 공무원노조 등이 반발하고 있다. 이들은 밤 12시까지 카드에 빨간색 스티커를 붙이는 작업을 한 뒤 퇴근했다고 한다.&lt;br&gt;&lt;br&gt;전국공무원노동조합 광주지역본부는 24일 “비상 근무와 수해 복구로 업무가 폭주하는 상황에서 공무원들을 혹사시키는 어처구니없는 일이 벌어졌다”며 “강기정 광주시장은 밤늦게까지 고생한 공직자들에게 사과하라”고 밝혔다.&lt;br&gt;&lt;br&gt;광주시는 지난 21일 ‘민생 회복 소비 쿠폰’을 발급하면서 기초생활수급자에게는 남색, 차상위 계층과 ‘한부모 가정’에는 녹색, 나머지 시민들에게는 빨간색 카드를 발급했다. 카드에 지원하는 금액도 표시했다. “카드 색깔로 차별한다”는 논란이 일자 이재명 대통령은 23일 “인권 감수성이 떨어진다. 즉각 바로잡으라”고 했다. 강 시장은 긴급 기자회견을 열고 “해서는 안 될 행정이었다”며 “즉각 금액 식별이 불가능하도록 카드 스티커를 부착해 개선하겠다”고 했다. &lt;br&gt;&lt;br&gt;광주시는 이날 저녁 행정복지센터 직원 400여 명을 동원해 소비 쿠폰 카드에 빨간색 스티커를 붙이는 작업을 벌였다. 노조 관계자는 “퇴근을 앞둔 오후 5시쯤 직원 400여 명에게 갑자기 야근 통보를 했다”며 “직원들은 카드 2만장에 빨간색 스티커를 붙인 뒤 밤 12시쯤 퇴근할 수 있었다”고 말했다.&lt;br&gt;&lt;br&gt;광주시 내부 게시판에는 “잘못은 광주시가 하고, 뒤처리는 왜 말단 직원이 해야 하느냐” 같은 글이 잇따라 올라왔다. &lt;br&gt;&lt;br&gt;광주시가 이번에 발급하는 소비 쿠폰 카드는 총 36만장이다. 이 중 이미 제작한 10만장에 빨간색 스티커를 붙여야 한다. 광주시는 나머지 작업에는 행정복지센터 직원 대신 시청 공무원 440여 명을 투입하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6GQDXZ2CPZEBJK2G2C7L4OIMEI.jpg?auth=16b48c2b0361142b66fac9247441706241f0065faffebcddd6ba074949168f39&amp;smart=true&amp;width=3543&amp;height=2322" type="image/jpeg" height="2322" width="3543">
-        <media:description type="plain">24일 오전 광주 용봉동행정복지센터에서 직원들이 민생회복 소비쿠폰 선불카드에 색상을 통일하는 스티커를 붙이고 있다. /김영근 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>경찰, ‘방시혁 사기적 부정 거래’ 하이브 본사 압수 수색</title>
       <link>https://www.chosun.com/national/national_general/2025/07/25/KHKBPHJFBRCGJI35NBDW4T5NBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/KHKBPHJFBRCGJI35NBDW4T5NBM/</guid>
@@ -922,42 +963,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ES5NYYMRI5H3NFNRU5XNM43EBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 24일 오후 서울 중구 신당9구역 재개발 현장에서 지역 주민들에게 주택공급 촉진 방안을 설명하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 서울에서 추진하는 재건축·재개발 사업의 모든 행정 절차에 ‘마감 시한’이 생긴다. 인허가 등 절차를 최대한 당겨 주택 공급 속도를 높이겠다는 취지다. 오세훈 서울시장은 24일 이러한 내용을 골자로 하는 ‘주택 공급 촉진 방안’을 발표했다. 오 시장은 “처리 기한을 두면 평균 18년 6개월 이상 걸리던 정비사업 기간을 13년으로 5년 이상 단축할 수 있을 것”이라고 했다. &lt;br&gt;&lt;br&gt;재건축·재개발 등 정비사업의 절차를 6개로 나누고 각 단계마다 ‘표준 처리 기한’을 두기로 했다. 예를 들어 정비사업의 첫 단계인 ‘정비구역 지정’은 2년 내 마치기로 하고 정비사업 후보지 선정은 120일, 보조금 지급은 10일 이내에 끝낸다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>여름철 어르신에 3代째 ‘삼계탕 대접’</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/IN3DUWDVTVCQ7EXUKIUKY2MJ5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/IN3DUWDVTVCQ7EXUKIUKY2MJ5E/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>초복(初伏)이 지난 23일 오전 11시 서울 종로구 청운효자동 자치회관은 펄펄 끓는 삼계탕 냄새로 가득 찼다. 붉은색 앞치마를 맨 자원봉사자들이 마을 노인들과 일일이 눈을 맞추며 삼계탕 그릇을 날랐다. 흰색 테이블에 둘러앉은 어르신들이 뜨거운 그릇을 ‘후후’ 하고 불었다. 주민 박복녀(84)씨는 “위가 줄어 밥을 많이 못 먹는데, 맛이 좋아 한 그릇을 뚝딱 비웠다”며 엄지를 추켜올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5R27DZPQYNFTRLYBXXUSDLKUJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 종로구 청운효자동 자치회관에서 서상준(왼쪽) 현죽재단 이사장과 딸 서은지(오른쪽) 이사가 동네 주민들에게 삼계탕 250인분을 대접한 뒤 미소를 짓고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 회관에서는 지역 저소득·독거노인 250명을 초대해 복날 삼계탕을 대접하는 마을 잔치가 열렸다. 사회복지법인 현죽재단이 이번 행사에 재료값 200만원을 기부했다. 종로구 주민들이 모인 청운효자동 ‘마을행사추진위원회’가 2주 전부터 행사를 준비했다. 이날 서상준(62) 현죽재단 이사장(삼원그룹 회장)과 서은지(34) 현죽재단 이사도 직접 어르신들께 삼계탕을 옮기며 대접했다. 둘은 부녀지간이다.&lt;br&gt;&lt;br&gt;이 행사는 30년 이상 이어져 왔다. 청운효자동에서 50년 넘게 살았던 고(故) 서원석 현죽재단 이사장이 지역사회에 보답하기 위해 기획했다. 서 전 이사장이 별세한 이후엔 장남인 서 이사장과 손녀인 서 이사가 후원을 이어가고 있다. 여름철 ‘삼계탕 대접’이 3대(代)째 이어지는 것이다.&lt;br&gt;&lt;br&gt;이날 어르신들은 행사 시작 1시간 30분 전인 10시부터 자치회관 문을 두드렸다. 행렬은 정오까지 이어졌다. 일부는 휠체어를 타고 지팡이를 짚기도 했다. 20년째 행사에 참석한다는 주민 최경석(80)씨는 “서 전 이사장은 염천교에서 1만원짜리 구두를 사다 신고, 배고픈 사람이 있으면 주머니에서 돈을 꺼내 주던 분이었다”고 했다.&lt;br&gt;&lt;br&gt;서 이사장은 “효(孝)라는 개념이 점점 옅어지는 시대인데 아버님 유지에 따라 계속해서 마을 어르신들께 맛있는 삼계탕을 대접하고 싶다”고 했다. 지난 2015년부터 삼계탕 봉사에 참여해 온 주민자치위원장 유재영(61)씨는 “각박한 세상에서도 따뜻한 보양식 한 그릇으로 온정을 나눌 수 있어 매년 뿌듯하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스티브 잡스 딸, 英서 92억원 초호화 결혼식 한다</title>
-      <link>https://www.chosun.com/national/people/2025/07/25/EPENK5FO6VABXAJMGQOKBNJBD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/25/EPENK5FO6VABXAJMGQOKBNJBD4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXB62YIQ2JGDXKIJTXYODA2EKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/이브 잡스 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;애플 창업자인 고(故) 스티브 잡스의 딸 이브 잡스(27)가 영국의 한 시골에서 초호화 결혼식을 올린다.&lt;br&gt;&lt;br&gt;23일 영국 더선 등에 따르면, 이브는 이번 주 영국 옥스퍼드셔의 한 마을에서 파리 올림픽 승마 금메달리스트인 영국의 해리 찰스(26)와 화촉을 밝힌다. 나흘간 진행되는 결혼식은 670만달러(약 91억6000만원)의 비용이 들 것으로 추정된다. 엘턴 존이 축하 공연을 할 예정이며, 민주당 대선 주자였던 카멀라 해리스 전 부통령과 빌 게이츠의 두 자녀인 제니퍼와 피비 등이 하객 명단에 포함됐다. &lt;br&gt;&lt;br&gt;이브는 미국에서 승마 선수로 활동하다가 2022년 파리 패션 위크에서 모델로 데뷔했다.&lt;br&gt;&lt;br&gt;잡스는 췌장암으로 투병하다 2011년 56세로 사망했다. 그에게는 네 자녀가 있다. 첫째 딸은 고등학생 시절부터 사귀었던 여성 크리스앤 브레넌과 사이에서 23세 때 얻은 리사 브레넌이다. 1991년 로런 파월과 결혼한 뒤 아들 리드 폴과 딸 에린 시에나, 이브를 낳았다. 잡스의 유산 대부분을 상속받은 로런 파월은 “자녀에게 재산을 물려주는 것은 정의롭지 않다”는 철학을 갖고 유산으로 자선 단체를 운영하고 있다. 잡스 사망 당시 약 100억달러 이상의 재산을 보유했지만 이를 물려받은 자녀는 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사랑의열매, 폭염 취약 계층에 104억원 규모 생필품 등 지원</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/LLRZBY37MNFJPILLLI2M2NPABE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/LLRZBY37MNFJPILLLI2M2NPABE/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEGXZIMAWRFTROWMOPTAKSDYWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;사랑의열매가 지난달 18일 경기북부 지역 주민들의 건강하고 시원한 여름나기를 위해 여름용품을 지원했다./사랑의열매&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사랑의열매 사회복지공동모금회가 폭염과 물가 상승으로 어려움을 겪는 취약 계층을 위해 약 104억원 규모의 지원 사업을 진행한다고 24일 밝혔다. 전국 지자체 등과 협의해 선풍기 등 냉방용품이나 생필품·보양식 등을 지급하게 된다. 작년 64억원보다 40억원을 증액해 저소득층 9만5000여 명과 1900여 개 지역아동센터를 지원할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 7월 25일</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/WEG6VBWQHJFANHWBU4ZCBDMMCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/WEG6VBWQHJFANHWBU4ZCBDMMCQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ER7DFQ6UVZDBVLPFQG4LUMCFI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>노란봉투법 정부안, 1년 유예기간 두고 연대 책임 유지</title>
       <link>https://www.chosun.com/national/labor/2025/07/24/6RDV3RVHOZG5XKLFHBTQ732I74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/24/6RDV3RVHOZG5XKLFHBTQ732I74/</guid>
@@ -965,15 +970,6 @@
       <description/>
       <pubDate>Thu, 24 Jul 2025 13:21:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3SBPV2ROYZH5KQ2KCZTQWW6LHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 손경식 경총 회장과 김영훈 고용부 장관이 대화를 나누고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 노동조합법 2·3조 개정안(노란봉투법)의 정부안을 확정하고, 국회와 논의에 돌입했다.&lt;br&gt;&lt;br&gt;24일 국회 등에 따르면, 고용노동부는 최근 국회 환경노동위원회 소속 의원들에게 노조법 2·3조 개정 정부안 내용을 설명했다. 환노위는 이르면 다음 주 초 법안심사 소위원회를 열고 관련 논의를 본격화할 계획이다 &lt;br&gt;&lt;br&gt;노조법 2·3조 개정안은 하청 노동자에 대한 원청의 책임을 강화하고, 노조 파업에 대한 기업의 손해 배상 청구를 제한하는 것이 핵심이다. 이 법안은 앞서 21대 국회에서 민주당 주도로 두 차례 본회의를 통과했지만, 윤석열 전 대통령의 거부권 행사로 폐기된 바 있다.&lt;br&gt;&lt;br&gt;이번 정부안에는 ‘1년 유예 기간’ 방침이 포함된 것으로 알려졌다. 기존 거부권 행사 대상 법안에서는 유예 기간이 6개월이었는데 이를 2배로 연장한 것이다. 먼저 법을 만든 뒤 시행령과 규칙 등을 통해 세부 기준을 정비하겠다는 취지로 풀이된다. 사용자성 등 쟁점이 되는 개념의 구체적 판단 기준은 향후 별도로 마련하겠다는 것이다. &lt;br&gt;&lt;br&gt;또 정부안은 공동 불법 행위자 간의 연대 책임은 유지하되, 각 조합원의 손해액 분담 비율은 달리 정할 수 있도록 조문을 다듬은 것으로 전해졌다. 책임 자체는 인정하되, 사후에 개인별 배상 범위를 조정할 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;한편 경영계가 요구해온 ‘파업 시 대체 근로 허용’ 등 사용자 방어권 조항은 정부안에 포함되지 않았다. 이날 손경식 한국경영자총협회 회장은 김영훈 고용부 장관을 만나 “노조법 개정이 노사 관계와 경제 전반에 심각한 혼란과 부작용을 줄 수 있다”며 “노사 간 사회적 대화의 장을 마련해주기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “소멸시효 지난 빚 일부 갚았어도...전부 갚겠다는 의사 표시는 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/24/CO3E5AMH2BESFIV3WSBFRNGZGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/24/CO3E5AMH2BESFIV3WSBFRNGZGY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 07:08:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YN3SCLGE3BL3CF46JF6HKCRTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장(가운데)과 대법관 12명이 전원합의체 판결 선고를 위해 법정에 자리한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;채무자가 ‘채권 소멸시효’가 지난 빚을 일부 갚았더라도 이를 나머지 빚을 다 갚겠다는 의사 표시로 봐선 안 된다는 대법원 판단이 24일 나왔다. 지금까지 판례는 소멸시효가 지난 빚을 일부라도 갚으면 채권이 다시 살아나 나머지도 전부 갚아야 한다는 것이었는데 대법원이 58년 만에 판례를 바꿨다.&lt;br&gt;&lt;br&gt;대법원 전원합의체(주심 권영준 대법관)는 이날 채무자 A씨가 B씨를 상대로 낸 배당 이의 소송 상고심에서 원심 판결 중 A씨 패소 부분을 깨고 사건을 인천지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 인천에서 어업을 하는 A씨가 지인인 B씨에게 2006~2015년 4차례에 걸쳐 총 2억4000만원을 돈을 빌린 뒤 이를 다 상환하지 못한 것이 발단이 됐다. A씨는 2016년쯤 B씨에게 1800만원을 갚았다. 이때는 이미 첫 번째(2006년)와 두 번째(2009년) 빌린 총 1억 2000만원에 대한 이자의 채권 소멸시효(3년)가 지난 뒤였다.&lt;br&gt;&lt;br&gt;채권 소멸시효란 빌려준 돈을 돌려받을 수 있는 일종의 ‘유통기한’이다. 시효가 지나면 채무자는 법적으로 빚을 갚지 않아도 된다. 시효를 중단하려면 채권자가 돈을 갚으라고 민사소송을 제기하거나 지급 명령, 가압류 등을 신청해야 한다. 채무자가 “갚겠다”고 의사 표시를 한 경우에도 시효가 멈춘다. &lt;br&gt;&lt;br&gt;B씨는 빌려준 돈을 다 돌려받지 못하자 2019년 담보로 잡아뒀던 A씨 소유의 부동산을 경매에 넘겨달라고 법원에 신청했다. 이듬해 법원은 경매 대금 배당을 결정하면서 B씨에게 차용금 2억4000만원과 이자 2억2000만원 등 총 4억6000만여원을 배당했다. 그러자 A씨가 “1, 2번째 빌린 돈에 대한 이자는 시효가 지났기 때문에 갚지 않아도 되는 돈”이라며 배당금을 다시 산정해 달라고 소송을 냈다.&lt;br&gt;&lt;br&gt;원심은 A씨 주장을 받아들이지 않았다. A씨가 차용금 일부인 1800만원을 갚은 것이 쟁점이 됐다. 그동안의 대법원 판례는 채무자가 소멸시효가 지난 빚을 일부라도 갚으면 나머지 빚도 전부 갚겠다는 의사 표시로 해석해왔다. 원심은 A씨가 빚 일부를 변제했기 때문에 기존 대법원 판례에 따라 죽었던 채권이 다시 효력을 갖는다고 판단했다.&lt;br&gt;&lt;br&gt;그러나 이번에 대법원 전원합의체는 대법관 8명의 다수 의견으로 원심 판결을 깨면서 기존 판례를 뒤집었다. A씨가 1800만원을 일부 변제했다는 것만으로 그가 소멸시효가 지났다는 것을 알면서도 채무를 지겠다는 의사 표시를 했다고 추정할 수는 없다고 판단했다. &lt;br&gt;&lt;br&gt;대법원은 “채무자가 시효 완성으로 채무에서 해방되는 이익을 알면서도 이를 포기하고 채무를 부담하겠다는 의사 표시를 하는 것은 이례적”이라고 했다. 만약 채무자가 시효가 지난 빚을 일부 갚았다면, 이는 시효가 지났다는 걸 모르고 갚았다고 보는 것이 자연스럽다는 것이다. &lt;br&gt;&lt;br&gt;대법원은 기존 판례는 채무자를 불리하게 한다며 소멸시효를 둔 취지에 맞지 않는다고 판단했다. 그러면서 “채무자가 시효 완성을 알면서도 이익을 포기하는 의사 표시를 했는지 여러 사정을 구체적으로 심리해 합리적으로 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
