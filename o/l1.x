@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 보고서 작성 증가 소방관리사 집에서 사망 "업무상 재해"</title>
+			<description>&lt;b&gt;[판결 결과]&lt;/b&gt;&lt;br /&gt;소방시설 점검 업무를 하던 소방관리사가 급성심장사로 사망한 사건에서 법원이 업무상 과로와 스트레스가 주요 원인이 됐다며 근로복지공단의 유족급여 부지급 처분을 취소했다.&lt;p&gt;&lt;br /&gt;서울행정법원 행정3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5411"&gt;최수진&amp;nbsp;&lt;/span&gt;부장판사)는 최근 망인 A 씨의 급성심장사가 업무상 과로 및 스트레스와 상당인과관계가 인정된다며 근로복지공단이 내린 유족급여 및 장의비 부지급 처분을 취소하고 소송비용은 공단이 부담하도록 판결했다(&lt;b&gt;2023구합57661&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;소방관리사로 근무하며 소방시설 점검과 결과 보고서 작성 업무 등을 담당하던 A 씨(1971년생)는 어느날 자택 안방에서 숨진 채 발견됐다. 사인은 명확히 확인되지 않았으나 부검의는 급성심장사로 추정했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;배우자인 B 씨는 사망이 업무상 재해에 해당한다며 근로복지공단에 유족급여와 장의비 지급을 청구했지만, 공단은 업무와 사망 사이 상당인과관계가 인정되지 않는다며 부지급 결정을 내렸다. 이에 B 씨는 부지급 처분 취소 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;법원은 A 씨가 업무상 과로와 스트레스가 누적돼 급성심장사가 발병했다고 판단했다. 재판부는 먼저 업무시간 증가에 주목했다. A 씨의 사망 전 1주간 업무시간은 이전 12주간 평균 업무시간보다 약 21% 늘어나 단기 과로 기준(30% 증가)에 약간 미달했지만, 업무량이 확연히 증가한 사실은 인정된다고 보았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;또한 업무 환경 변화도 중요한 요인으로 봤다. A 씨의 주 업무였던 소방시설 점검 후 '결과 보고서' 작성과 관련해 2021년 4월 1일 소방시설 설치·유지 및 안전관리에 관한 법률 시행규칙 개정으로 점검 항목과 보고서 작성 범위가 크게 늘어나 업무 부담이 가중됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;더불어 동료 2명이 퇴사하면서 기존 동료가 담당하던 업무까지 A 씨가 떠맡게 돼 업무 범위와 책임이 추가됐다. 재판부는 "비록 점검 건수가 크게 증가하지 않았더라도 개인에게 할당된 업무량과 강도가 늘어났을 가능성이 있다"며 "망인의 근무환경 변화는 정량적 평가가 어렵더라도 유의미하게 업무 부담을 가중시킨 요인으로 보아야 한다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;사망 전날 상사와 주말 출장 근무 문제로 격한 언쟁이 있었던 점도 고려됐다. 재판부는 "결근 직후 상사가 다른 직원에게 망인의 집을 직접 확인하도록 지시한 점에 비춰보면, 전날 언쟁이 일상적 수준이 아니라 정신적으로 큰 충격을 줄 정도로 이례적이었다"며 "업무상 이유로 격한 언쟁을 하면서 받은 스트레스가 상병 발병의 한 요인이 됐을 가능성이 크다"고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 재판부는 "업무상 과로 및 스트레스 외에 다른 발병 요인을 찾기 어렵다"며 업무와 사망 사이 상당인과관계를 인정했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 27 Jul 2025 00:09:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210063</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210063</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 7월 27일</title>
+			<description>&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;1400 조경태 의원, [국민의힘 당대표 공약 발표 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 26 Jul 2025 22:38:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210083</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210083</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 7월 28일~8월 1일</title>
 			<description>&lt;b&gt;△7월 28일(월)&lt;/b&gt;&lt;br /&gt;-서울지방변호사회, 제79차 북콘서트(오후 7시, 서울 서초구 서초동 변호사회관 지하 1층 대회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△7월 29일(화)&lt;/b&gt;&lt;br /&gt;-한국법제연구원·한국에너지법학회, '새로운 에너지 패러다임 전환 시대의 법적 대응 방안' 공동학술대회(오후 2시, 서울 중구 회현동 대한상공회의소 중회의실 B)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△8월 1일(금)&lt;/b&gt;&lt;br /&gt;-서울지방변호사회, ‘형사사법체계 개혁의 쟁점-수사·기소 분리’ 학술대회(오후 1시 30분, 서울 서초구 서초동 변호사회관 5층 정의실)</description>
 			<pubDate>Sat, 26 Jul 2025 22:05:36 -0000</pubDate>
@@ -221,26 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/210064</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210064</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210064.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장, 국제중재·기업범죄 포럼…"헬스케어·반도체·전기차 분쟁 확대"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210061.jpg" alt="46474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;7월 23일 서울 중구 소공동 법무법인 광장 신관에서 열린 '제11회 국제중재 및 기업범죄 포럼'(South Korea: 11th International Arbitration &amp; Corporate Crime Summit). 《사진=법무법인 광장》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 7월 23일 서울 중구 소공동 광장 신관 아카데미아실에서 '제11회 국제중재 및 기업범죄 포럼'을 열었다.&lt;br /&gt;&lt;br /&gt;올해로 11회를 맞은 이번 포럼은 글로벌 분쟁에서 중재 및 조정 실무, 기업지배구조와 건설, IP 관련 분쟁 등을 조망했다. 국내외 중재 전문가와 사내변호사, 정부기관 관계자 등 100여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;주제 발표에는 광장 국제중재팀 공동팀장인 잭 샤프(Zac Sharpe) 외국변호사가 중재 및 조정에 관한 전세계적 흐름 및 실무적 쟁점을 집중 조명했다. 같은 팀의 신정아 외국변호사는 한국 및 외국 기업에서 주주, 이사, 이해관계자 간 분쟁사례를 중심으로 사내변호사를 위한 계약설계와 분쟁예방 관련 실무 대응방안을 제시했다&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&amp;nbsp;&lt;/span&gt;광장 국제분쟁그룹장(67·사법연수원 20기)은 한국 국제중재시장이 IMF 이후 가파른 성장을 거듭해왔다고 짚으며, 글로벌 무역 갈등, 산업별 규제 강화 등에 따라 헬스케어, 반도체, 전기차 등 산업군에서의 분쟁 리스크가 더욱 커질 것으로 전망했다. 특히 "영문 계약서를 한국법에 적용할 때 발생하는 구조적 불일치 문제는 절차적 혼선과 해석 충돌로 이어질 수 있다"며 "국제계약 설계 단계에서 법체계 간 조화를 염두에 둬야 한다"고 강조했다.</description>
-			<pubDate>Fri, 25 Jul 2025 06:30:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210061</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210061</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210061.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>대륙아주 상법 개정 세미나…"주주 개념 장기 투자자 한정해야"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210050.jpg" alt="45747.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;24일 서울 강남구 역삼동 대륙아주 대회의실에서 열린 '개정 상법의 주요 내용과 기업의 대응 방안' 세미나.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)와 아주기업경영연구소(대표 조민건)는 24일 서울 강남구 역삼동 대륙아주 사옥에서 '개정 상법의 주요 내용과 기업의 대응 방안'을 주제로 세미나를 열었다.&lt;br /&gt;&lt;br /&gt;아주기업경영연구소 위원인 이인무 카이스트 경영대학 교수는 '이사회의 역할과 기업가치 제고'를 주제로 발표했다. 이 위원은 "개정 상법상 주주를 장기 투자자로 한정하면 기존 상법상 충실의무와 개정된 상법상 충실의무는 상충할 여지가 적다"며 "부작용을 최소화하고 이사들이 본연의 업무에 충실할 수 있게 주주 개념을 장기 투자자로 한정하는 목소리가 커져야 할 것으로 본다"고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30188"&gt;김동국&lt;/span&gt;(42·변호사시험 5회) 변호사는 "모든 의사결정 과정에 있어 소수주주의 이익이 실질적으로 고려됐는지 여부를 명확히 문서화해야 하고, 법률검토서와 회계법인 보고서, 감정평가서 등 객관자료를 병행해 준비해야 한다"고 조언했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;(62·사법연수원 22기) 대표변호사는 “대륙아주 공공전략그룹은 상법 개정안의 입법 과정에서 법안의 영향을 분석해 기업들에 제공했고, 자문 부문에서는 개정 내용을 면밀히 연구·검토해 이슈리포트를 발간했다"며 "이사를 상대로 한 소송, 고소 등이 증가할 가능성에 주목해 대응 전략을 마련했다”고 말했다.</description>
-			<pubDate>Fri, 25 Jul 2025 06:28:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210050</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210050</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210050.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
