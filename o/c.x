@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>보고서 양식 바뀐 뒤 과로사한 소방관리사…법원 “업무상 재해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/27/TOIC7PZ5AJAU5K3FAMO5JWHHS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/27/TOIC7PZ5AJAU5K3FAMO5JWHHS4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 03:56:54 +0000</pubDate>
+      <content:encoded>소방시설 점검 보고서 작성을 맡던 소방관리사가 법 개정으로 업무 부담이 늘어난 직후 과로로 숨진 사건에 대해 법원이 업무상 재해를 인정했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46ATWFKBZQWXF4PMSAJ2ZJPBFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 최근 소방관리사로 일하다 숨진 김모씨의 아내가 근로복지공단을 상대로 낸 유족급여 및 장의비 부지급 처분 취소 소송에서 원고 승소로 판결했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 2018년 1월부터 민간업체 소속 소방관리사로 근무하며, 건물의 소방시설을 점검하고 그 결과를 보고서로 작성하는 등의 업무를 맡았다. 김씨는 2021년 4월 자택 안방에서 갑자기 숨진 채 발견됐고, 부검 결과 ‘급성 심장사’로 숨진 것으로 추정됐다.&lt;br&gt;&lt;br&gt;김씨의 아내는 “사망 직전 업무량이 급증해 과도한 스트레스에 시달렸다”며 업무상 재해로 인한 유족급여 등을 공단에 청구했다. 그러나 공단은 2022년 12월 김씨의 사망과 업무 사이의 인과관계가 인정되지 않는다며 지급을 거부했다. 이에 불복한 김씨의 아내는 행정소송을 제기했다. &lt;br&gt;&lt;br&gt;법원은 김씨가 업무상 과로와 스트레스로 사망했다며 업무상 재해를 인정했다. 재판부는 “김씨의 사망 전 1주일간 업무 시간이 평균보다 21%가량 증가했는바, 이는 단기적 관로 기준(업무량 30% 증가)에 약간 미달하는 수준으로 업무량이 확연히 늘어난 사실이 인정된다”고 했다. &lt;br&gt;&lt;br&gt;특히 재판부는 2021년 4월 ‘소방시설 관련 법률 시행규칙’이 개정됨에 따라, 소방 관련 점검·작성 항목이 크게 늘어났고 김씨가 작성해야 하는 보고서 양식도 대폭 변경된 것에 주목했다.&lt;br&gt;&lt;br&gt;재판부는 “김씨가 상병 발생 약 2주 전부터 법 개정에 유의하면서 숙달되지 않은 양식으로 새로운 보고서를 작성해야 했기 때문에, 기존보다 높은 강도의 업무로 스트레스를 받았을 것이고 업무 시간도 증가했을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;실제 김씨가 다니던 회사의 사업주도 “법 개정으로 서류 자체가 바뀌어 기존 양식을 사용하지 못하고 새로 작성해야 해 모든 직원이 스트레스를 받았다”고 진술했다. 법 개정 전에는 김씨 외에도 소방관리사가 더 있었는데, 이 무렵 모두 퇴사해 김씨가 이들의 업무까지 떠안아야 했던 사정도 고려됐다. &lt;br&gt;&lt;br&gt;재판부는 “점검 건수 자체가 크게 증가하지 않았다고 하더라도 동료 근무자 수가 감소해 개인에게 할당된 업무량이나 강도가 증가했을 가능성이 있다”며 “근무 환경 변화를 정량적으로 평가하기 어려워도 유의미할 정도로 김씨의 업무 부담을 가중시키는 요인에 해당한다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;아울러 김씨가 사망 하루 전 사업주에게 “토요일에 일을 잡지 말라”고 불만을 토로했고, 이 과정에서 언쟁이 벌어진 사실도 고려됐다. 재판부는 “업무상 이유로 격한 언쟁을 하면서 스트레스를 받았고, 정신적으로 큰 충격을 줄 정도로 이례적인 것으로 보인다”고 했다. 이 외에도 법원은 김씨가 평소 야근과 출장이 잦았고, 현장에서 건물 소유주·관리인 등과 분쟁을 겪는 일이 잦았던 점 등도 감안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>취객 제압하다 뺨 때린 경찰, 1년 만에 ‘무죄’… 고소한 취객은 ‘유죄’</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/27/KAUIUILWKBCVZOXVDZOUAXRLA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/27/KAUIUILWKBCVZOXVDZOUAXRLA4/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 03:50:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBIOUSFXJRQX4GFOLWXXPFQINE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;취객을 제압하다가 뺨을 때려 고소당한 경찰이 약 1년의 수사 끝에 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;27일 서울동부지검은 독직폭행·직권남용체포 혐의 등을 받는 서울 광진경찰서 구의파출소 소속 경찰관 A씨 등 4명을 지난 23일 증거 불충분으로 불기소 처분했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨 등은 작년 7월 한 취객이 식당에서 일면식 없는 사람을 폭행하고 있다는 신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;당시 취객은 신분을 확인하려던 경찰관의 턱을 손바닥으로 가격하고 휴대폰과 라이터를 던졌다. 이에 A씨가 취객을 공무집행방해 혐의로 현행범 체포하는 과정에서 뺨을 때렸다.&lt;br&gt;&lt;br&gt;취객은 체포된 후 ‘별다른 저항을 하지 않았음에도 경찰이 과도한 물리력을 행사했다’는 취지로 A씨 등 4명을 독직폭행과 직권남용체포, 폭력행위처벌법상 공동상해 혐의로 고소했다.&lt;br&gt;&lt;br&gt;검찰은 현장 CCTV 영상 등을 종합적으로 고려해 A씨 등의 행위가 경찰 규칙에 따른 제압 행위에 해당한다고 판단했다. 또 취객을 현행범으로 체포하는 과정이 모두 적법한 절차를 거쳐 위법성을 인정할 수 없다고 봤다.&lt;br&gt;&lt;br&gt;한편 해당 취객은 공무집행방해 혐의로 기소돼 유죄 판결을 받은 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가정폭력에 시달리다 아들 살해한 80대 아버지…2심도 징역 3년 6개월</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/27/NDIGWOLSUFCMHHJMSYWSF6A3PU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/27/NDIGWOLSUFCMHHJMSYWSF6A3PU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 03:27:11 +0000</pubDate>
+      <content:encoded>오랜 기간 아들의 가정 폭력에 시달리다 아들을 목 졸라 살해한 80대 아버지가 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사4-3부(재판장 황진구)는 최근 살인 혐의로 기소된 A(80)씨에게 1심과 마찬가지로 징역 3년 6개월을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 추석 당일인 9월 17일 자택에서 아들 B(53)씨의 목을 허리띠로 졸라 살해한 혐의로 기소됐다. 오랜 기간 알코올 의존 문제가 있었던 B씨는 사건 당일에도 낮부터 술을 마시며 가족과 갈등을 빚었다.&lt;br&gt;&lt;br&gt;결국 A씨는 착용하고 있던 허리띠를 풀어 아들을 향해 흔들어 보이며 “내가 더 죽인다”고 소리쳤고, B씨는 “그래 죽여라. 네가 나 못 죽이면 내가 너 죽인다”고 맞섰다. 화가 난 A씨는 아들의 목을 졸랐다. B씨는 병원으로 이송됐지만 이틀 뒤 사망했다. &lt;br&gt;&lt;br&gt;B씨는 2005년 이혼한 뒤 두 딸을 데리고 부모 집에서 생활했는데, 알코올 의존증으로 여러 문제를 저지른 것으로 나타났다. 수차례 음주운전으로 처벌받았고, 사건 발생 약 10년 전부터는 술에 취해 가족들에게 폭언을 하거나 물건을 던지는 등 가정폭력을 반복한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;1심은 “설령 오랜 기간 자식에게 시달렸더라도 생명을 빼앗는 극단적 선택은 정당화될 수 없다”며 A씨에게 징역 3년 6개월을 선고했다. A씨와 검찰 모두 양형 부당을 이유로 항소했다.&lt;br&gt;&lt;br&gt;2심은 “범행 경위와 방법, 고의성, 피해자가 숨진 점 등을 비춰볼 때 중형은 불가피하다”면서도 “피해자인 아들이 과도한 음주 문제로 오랫동안 가족들에게 큰 고통을 줬다고 했다.&lt;br&gt;&lt;br&gt;이어 “A씨는 알코올 의존이 심한 아들의 보호 입원 등을 알아보며 해결책을 찾으려 노력했다”면서 “A씨가 고령인 점, 범행 직후 자수한 점, 유족들이 피해자의 죽음을 슬퍼하면서도 그로 인해 겪어왔던 고통도 솔직히 밝히며 A씨에 대한 선처를 호소하고 있는 점 등을 고려했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 신혼부부 임대주택 ‘미리내집’ 5차 485세대 모집…마곡엠벨리, 잠실르엘 등 6개 단지 신규 포함</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/27/MPVGQDZMGZAHJPVWICMMKFZB3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/27/MPVGQDZMGZAHJPVWICMMKFZB3Q/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 03:24:02 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUFYQNQM3RAXNL4IMESAN73N5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 서울시가 미리내집 300가구를 공급한 서울 강동구 올림픽파크포레온 단지 내 놀이터. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 신혼부부를 위한 공공임대주택 ‘미리내집’의 제5차 입주자 모집에 나선다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;‘미리내집’은 서울시가 저출생 문제에 대응하기 위해 추진하고 있는 신혼부부 대상 주거지원 정책으로 결혼 또는 출산을 계획 중인 가구를 대상으로 한다. 자녀를 출산할 경우 최장 20년까지 거주 기간을 연장할 수 있으며, 시세보다 낮은 가격에 주택을 매수할 수 있다. 작년 7월 올림픽파크포레온(강동구 둔촌동) 300호를 시작으로 현재까지 총 1589호를 공급했다. 지난 4차 모집 당시 평균 경쟁률은 64 대 1을 기록한 바 있다. &lt;br&gt;&lt;br&gt;미리내집 입주자 모집 대상은 혼인 신고한 날로부터 7년 이내 신혼부부 또는 입주일 전까지 혼인한 사실을 증명할 수 있는 예비 신혼부부다. 부부 모두 공고일 기준 5년 이내 주택을 소유하지 않아야 한다.&lt;br&gt;&lt;br&gt;이번 모집 규모는 총 485세대다. 오는 28일 입자 모집을 공고하고 8월 11~12일 이틀간 신청받는다. &lt;br&gt;&lt;br&gt;공급에는 마곡동(강서), 신천동(송파) 등 6개 신규 단지가 포함됐으며 전용면적 43㎡부터 84㎡까지 다양한 입지와 면적의 주택을 선택할 수 있다. &lt;br&gt;&lt;br&gt;미리내집 입주자 모집 단지 중 가장 많은 196호가 공급되는 마곡엠밸리 17단지(강서구 마곡동)는 전용 면적 59㎡, 84㎡으로 공급된다. 5호선 송정역과 마곡역 사이에 있고 공항철도가 인접해 있으며 인근에 서울식물원, 습지생태공원이 있다. &lt;br&gt;&lt;br&gt;8호선 몽촌토성역 인근 잠실래미안아이파크(송파구 신천동)는 43㎡, 59㎡ 175호가 공급된다. 인근에 아파트 단지가 밀집해 있고 올림픽공원, 잠실한강공원 등 휴식 공간이 있다.&lt;br&gt;&lt;br&gt;이 외에 힐스테이트 장승배기역(동작구 상도동) 66호, e편한세상 강동프레스티지원(강동구 천호동) 22호, 청담르엘(강남구 청담동) 15호 등에서도 일제히 입주자를 모집한다.&lt;br&gt;&lt;br&gt;전세금은 최저 3억3000만원(동작구 힐스테이트 장승배기역 44㎡)부터 최고 7억7000만원(강남구 청담르엘 49㎡)까지다.&lt;br&gt;&lt;br&gt;한편 시는 오는 8월 중 비(非)아파트형 미리내집을 100호 이상 신규 모집한다. 미리내집 연계형 매입임대주택은 신축 아파트의 임대보증금 마련이 어려운 신혼부부들의 선택의 폭을 넓히고자 마련된 유형으로 주거형 오피스텔, 도시형생활주택 등의 매입임대주택과 연계했다. 매입 임대 주택 거주 중 자녀 출산 시 10년 거주 후 장기 전세 주택으로 우선 이주 신청 기회를 제공한다. &lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “규제 철폐, 공공 지원 등을 통해 재개발·재건축에 속도를 높여 미리내집이 신속하게 공급될 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>25일까지 누적 온열 질환자 2183명…사망자 1명 늘어 11명</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/27/PZZ4JUSAZBB6VK2BH6F25MLSUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/27/PZZ4JUSAZBB6VK2BH6F25MLSUY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 03:03:00 +0000</pubDate>
+      <content:encoded>연일 이어지는 폭염으로 올 들어 일사병, 열사병 등 온열 질환자가 2100명을 넘긴 것으로 집계됐다. 폭염에 폐사한 가축도 100만마리를 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UQY3ZQUKW3USKQCWBRKS4HL2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 대구 중구 달구벌대로에서 양산을 쓴 시민들이 아지랑이가 피어오르는 도로를 건너고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 행정안전부에 따르면, 올 들어 지난 25일까지 누적 온열 질환자는 2183명으로 집계됐다. 지난해 같은 기간(871명)의 2.5배 수준이다.&lt;br&gt;&lt;br&gt;온열 질환으로 목숨을 잃은 사람도 1명 늘었다. 지난 25일 오후 2시 20분쯤 경기 성남에서 50대 남성이 길가에 쓰러진 채 발견됐다. 행인의 신고로 남성을 이송했지만 결국 사망했다. 이에 따라 올 들어 온열 질환 사망자는 총 11명이 됐다.&lt;br&gt;&lt;br&gt;가축 폐사도 이어졌다. 행안부에 따르면 올 들어 지난 24일까지 폐사한 가축은 101만1243마리로 집계됐다. 행안부 관계자는 “지난해 같은 기간보다 10배 이상 늘었다”고 했다. 특히 지난 24일에도 하루에만 돼지 209마리, 닭·오리 등 가금류 1만3633마리 등 가축 1만3842마리가 더위에 죽었다.&lt;br&gt;&lt;br&gt;시 전역에 폭염 경보가 내려진 서울 역시 지난 25일까지 온열 질환자 185명이 발생한 것으로 집계됐다. 온열 질환으로 인한 누적 사망자는 1명이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 27일 오전 6시 기준 전국 183개 특보 구역 중 85%에 해당하는 156개 구역에 폭염경보가 내려져 있다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “당분간 낮 최고 체감 온도가 35도 내외로 매우 무덥고, 열대야가 나타나는 곳도 많을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 법원 2주간 쉽니다…尹 내란 재판도 잠시 멈춤</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/27/3SCPUAMDA5FAJJUUIESRLHTJFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/27/3SCPUAMDA5FAJJUUIESRLHTJFQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 02:59:32 +0000</pubDate>
+      <content:encoded>전국 대부분의 법원이 여름휴가철을 맞아 오는 28일부터 2주간 휴정기에 들어간다. 서울중앙지법에서 매주 열리던 내란 재판을 비롯해 주요 재판들도 이 기간 동안 중단된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHM32ZX2JVK7HLMEMPNYOHDGDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방법원에 법원 로고가 보이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 서울중앙지법을 포함한 전국 각급 법원이 28일부터 다음 달 8일까지 하계 휴정기에 돌입한다. 서울고법은 다음 달 15일까지 3주간 휴정한다.&lt;br&gt;&lt;br&gt;이에 따라 서울중앙지법에서 매주 1~2회씩 열리던 내란 재판도 잠시 멈춘다. 윤석열 전 대통령의 내란 우두머리 혐의 재판은 8월 11일에, 조지호 경찰청장 등 경찰 수뇌부와 김용현 전 국방부 장관 등 전직 군인들에 대한 내란 혐의 재판도 각각 8월 13일, 14일에 재개된다.&lt;br&gt;&lt;br&gt;내란 특검팀이 윤 전 대통령을 특수공무집행방해, 직권남용 등 혐의로 추가 기소한 사건은 휴정기 이후인 8월 19일 첫 공판준비기일이 진행된다. 이에 따라 윤 전 대통령은 기존 내란 혐의 재판과 함께 2개 재판에 동시에 대응하게 된다. 내란 특검팀이 김 전 장관을 위계공무집행방해 등 혐의로 추가 기소한 사건도 8월 11일부터 다시 열린다. &lt;br&gt;&lt;br&gt;이재명 대통령을 제외하고 정진상 전 더불어민주당 당대표실 정무조정실장에 대해서만 진행되는 ‘대장동·위례·성남FC·백현동’ 재판은 휴정기 이후인 8월 12일부터 매주 화요일마다 열린다.&lt;br&gt;&lt;br&gt;문재인 전 대통령의 뇌물 수수 혐의 재판은 오는 9월 9일 두 번째 준비기일이 예정돼 있다. 탈북 어민 강제 북송 사건으로 1심에서 선고 유예를 받은 정의용 전 국가안보실장 등 문재인 정부 안보 라인 인사들에 대한 2심 재판도 오는 9월 24일 두 번째 공판준비기일이 열린다.&lt;br&gt;&lt;br&gt;법원 휴정기는 혹서기·혹한기 및 휴가 기간 중 재판 관계자와 소송 당사자가 쉴 수 있도록 일정 기간 재판을 열지 않는 제도로 2006년 처음 도입됐다. 통상 전국 최대 법원인 서울중앙지법·서울고법과 비슷한 기간에 다른 법원들도 휴정기를 갖는다.&lt;br&gt;&lt;br&gt;휴정기 동안에는 긴급하거나 중대한 사건을 제외하고 대부분 민사·가사·행정 재판, 불구속 형사 공판 등이 열리지 않는다. 다만 가압류·가처분 등 신청 사건과 구속 피고인의 형사 사건 심리, 구속 영장 실질심사 등은 진행된다. 사건 접수나 배당 등의 법원 업무도 정상 운영된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘공천 개입 의혹’ 윤상현 의원, 김건희 특검 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/27/5J6VT55ULFBVHAIRGCMI5KBNAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/27/5J6VT55ULFBVHAIRGCMI5KBNAA/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 00:28:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMTLYP3UT3ISLXJL5P2TEQVSUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤상현 국민의힘 의원이 지난 24일 서울 여의도 국회 소통관에서 리셋코리아 국민운동본부 발대식 및 토론회 논란 관련 사과 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사와 관련한 각종 의혹을 수사하는 민중기 특별검사팀이 27일 ‘공천 개입 의혹’을 받는 윤상현 국민의힘 의원을 소환했다.&lt;br&gt;&lt;br&gt;윤 의원은 이날 오전 9시 25분쯤 특검 사무실이 있는 서울 광화문 KT웨스트 빌딩에 도착했다. 윤 의원은 ‘공천 개입했다는 의혹에 대한 입장이 있냐’는 취재진의 질문에 “진실되고 성실하게 조사에 임할 것”이라고 답했다. ‘윤 전 대통령에게 김영선 전 의원 공천 연락을 받았느냐’ ‘명태균씨로부터 청탁을 받았느냐’라는 질문에도 “(특검 사무실에) 가서 말씀드릴 것”이라며 말을 아꼈다.&lt;br&gt;&lt;br&gt;윤 의원은 2022년 6월 1일 치러진 제21대 국회의원 보궐선거 당시 국민의힘 공천관리위원장이었다. 특검은 선거를 앞두고 윤 의원이 윤 전 대통령 지시를 받고 김영선 전 의원을 경남 창원시 의창구 선거구에 공천을 받도록 영향력을 행사했다고 보고 있다. &lt;br&gt;&lt;br&gt;앞서 윤 전 대통령은 국민의힘 보궐선거 공천 발표 하루 전인 2022년 5월 9일 명씨에게 “내가 김영선이 경선 때부터 열심히 뛰었으니까 김영선이를 좀 해줘라 그랬는데, 말이 많네. 당에서”라며 “상현이(윤 의원)한테 내가 한 번 더 이야기할게. 걔가 공관위원장이니까”라고 말한 통화 녹취록이 공개되기도 했다.&lt;br&gt;&lt;br&gt;김건희 특검은 지난 8일 윤 의원과 김 전 의원 자택 및 사무실을 압수 수색했는데, 윤 의원은 현장에 없었다. 이후 윤 의원은 특검에 자신의 휴대전화 두 대를 임의제출했으나 비밀번호를 알려주지 않다가 이후 제공했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 가짜 피부과 차려 전신마취제 10억7000만원어치 불법 판매한 조직 9명 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/21/S3PF56GH7BBT5K4VF4XDQFOTQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/21/S3PF56GH7BBT5K4VF4XDQFOTQQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 21 Jul 2025 02:07:13 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUIGZPA6YNG6ZAYB37BWP7KAVI.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 의료용 마약류 전문수사팀(팀장 김보성 강력범죄수사부장)이 불법 판매조직 9명을 검거하면서 투약자 주거지에서 발견한 에토미데이트 등 전문의약품. /서울중앙지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 의료용 마약류 전문수사팀(팀장 김보성 강력범죄수사부장)은 전신마취제 ‘에토미데이트’ 불법 유통 사건을 10개월 동안 집중 수사해 약사법 위반 등의 혐의로 불법 판매 조직원 9명(5명 구속)을 기소했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 최상위 공급책인 의약품 도매업체 대표 이모(41·구속)씨는 작년 5월부터 8월까지 에토미데이트를 해외에 수출하는 것처럼 허위 신고한 후 국내로 빼돌려 중간 공급책 최모(38·구속)씨에게 3만5000㎖ 분량을 1억원에 판매한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이씨는 약사법상 ‘판매’에 ‘수출’은 포함되지 않아 수출신고를 하면 판매에 관한 규제를 피할 수 있다는 점을 악용한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이후 최씨는 공범인 조모(39)씨와 함께 에토미데이트 4만5000㎖ 분량을 2억3500만원에 양모(37·구속)씨에게 팔았고, 양씨와 공범 5명은 서울 강남에 가짜 병원을 설립·운영하면서 작년 5월부터 올 1월까지 총 544회에 걸쳐 에토미데이트 8억8800만원어치를 중독자들에게 판매·투약했다. 이들은 운영·자금 관리·간호조무사 등으로 역할을 분담했고, 중독자를 봤다는 신고를 피하기 위해 자신들 또는 중독자 주거지에서도 작년 11월부터 올 1월까지 13회에 걸쳐 1억8000만원 상당의 에토미데이트를 판매한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;에토미데이트 1개(10㎖)당 원가는 4200원이지만, 최종 판매가는 원가의 47배가 넘는 20만원이었다. 투약자 중 하루 최대 결제액은 79회 투약분에 해당하는 1580만원이었다고 한다.&lt;br&gt;&lt;br&gt;에토미데이트는 의식을 잃게 만드는 전신마취제로 프로포폴과 효능이 유사한 것으로 알려져 있지만, 마약류로 지정돼 있지 않아 지금까지 마약류 관리에 관한 법률 위반 혐의를 적용할 수 없었다. 지난 2월 에토미데이트를 마약류로 지정하는 내용의 시행령 개정안이 입법 예고돼 국회 심사 중이다. 올 3월 숨진 가수 휘성(본명 최휘성)은 2020년에 에토미데이트를 맞고 쓰러진 채 발견된 적이 있다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “에토미데이트가 마약류로 지정될 때까지 건강보험심사평가원에 수출용 의약품에 대한 모니터링 개선 등 관리·감독을 강화해달라고 했다”면서 “의료용 마약류는 물론 유사한 부작용을 일으키는 의약품의 불법 유통 범죄에 엄정 대처하는 한편, 범죄에 악용될 수 있는 입법 및 제도 공백을 적극적으로 개선하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>세계 2위 환적항만 부산항, 美 관세 폭탄에 떨고 있다</title>
       <link>https://www.chosun.com/national/2025/07/27/6AI6JMN36ZEJVK4OV2KPK3WRHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/27/6AI6JMN36ZEJVK4OV2KPK3WRHE/</guid>
@@ -733,15 +805,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BM7TVXPPVDQDGCE4EBO4GAGNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북대 본관./경북대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북대는 인공지능(AI) 분야 핵심 인재 양성과 지역 전략 산업 육성을 위한 ‘AI대학’ 설립을 추진한다고 25일 밝혔다. 이를 위해 최근 경북대를 찾은 하정우 대통령비서실 AI미래기획수석에게 AI대학 설립 계획을 설명하고, 정부 차원의 지원도 요청했다고 경북대는 전했다. &lt;br&gt;&lt;br&gt;경북대에 따르면, AI대학 설립은 새 정부의 AI 육성 정책에 부응하는 동시에 글로컬대학30 사업을 통한 연구 중심 대학 전환 모델을 제시하기 위해 추진된다. 또 지역 전략 산업 육성 및 연구 혁신 생태계 조성에 이바지하기 위한 목적도 있다. &lt;br&gt;&lt;br&gt;현재 AI 관련 학과와 대학원을 운영 중인 경북대는 AI대학 설립을 통해 이 역량을 집약하고 교육과정을 정비해 AI 교육과 연구 간 시너지를 극대화할 계획이다. &lt;br&gt;&lt;br&gt;정순기 경북대 연구부총장은 “이번 AI대학 설립은 교육과 연구 역량을 집약해 지역과 국가의 AI 경쟁력을 높이는 전환점이 될 것”이라며 “정부와 지자체, 산업계와 긴밀히 협력해 대한민국이 AI 3대 강국으로 도약하는 데 이바지하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 특검, ‘코바나 협찬 의혹’ 컴투스 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/VBA3G3HV6ZF4BB7UK5RSX62RPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/VBA3G3HV6ZF4BB7UK5RSX62RPA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 06:04:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I22BTTWCGBRZKANUSLMOPSGPNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 문홍주 특검보가 9일 오후 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘코바나콘텐츠 협찬 의혹’ 관련 게임 회사 컴투스를 25일 압수 수색했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검은 이날 서울 금천구에 있는 컴투스홀딩스와 컴투스 사무실에 수사관 등을 보내 압수 수색하고 있다. 컴투스는 2015년 6월부터 2019년 4월까지 김 여사가 운영한 코바나콘텐츠가 기획한 ‘마크 로스코전’ ‘르 코르뷔지에전’ ‘알베르토 자코메티전’ 등에 2억1950만원을 협찬했다.&lt;br&gt;&lt;br&gt;컴투스가 코바나콘텐츠에 후원할 당시 윤석열 전 대통령은 서울중앙지검장에 이어 검찰총장을 지내고 있었다. 당시 컴투스는 회사 주식을 미신고한 혐의(자본시장법 위반)로 중앙지검 수사를 받다가 최종적으론 무혐의 처분됐다. 이 때문에 컴투스가 대가를 바라고 코바나콘텐츠에 협찬을 했다는 의혹이 일었다.&lt;br&gt;&lt;br&gt;특검은 이날 브리핑에서 ‘양평 공흥지구 개발 특혜’ 의혹 관련 이미 기소된 양평군 공무원 안모씨 등 3명의 항소심 재판 중지를 법원에 요청한 것에 대해 “다시 수사를 통해 살펴볼 것이 있다고 판단해 요청한 것”이라며 “추가 기소 여지가 있는 걸로 알고 있다”고 했다. &lt;br&gt;&lt;br&gt;안씨 등은 김 여사 일가가 운영한 시행사 ESI&amp;amp;D가 2014년 11월까지 마무리했어야 할 공흥지구 도시개발사업을 끝내지 못하고 사업시한을 1년 8개월 넘겼는데도 관련 문서를 허위로 작성해 사업시한을 임의로 연장해 준 혐의로 2023년 6월 불구속 기소됐다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 윤 전 대통령 부부 자택이 있는 서울 서초구 아크로비스타와 코바나콘텐츠를 압수 수색했다. 이에 대해 특검은 “코바나콘텐츠 협찬 의혹, 명품 가방 등 금품 수수 사건, 공천권 개입 사건과 관련해 압수 수색을 진행한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>배우 송영규, 5km 음주운전 혐의로 檢 송치… “집까지 얼마 안 돼 잘못된 판단”</title>
       <link>https://www.chosun.com/national/national_general/2025/07/25/SVX5MQCHGZE5RC66WD6JEUHEIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/SVX5MQCHGZE5RC66WD6JEUHEIY/</guid>
@@ -758,24 +821,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 06:09:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLQRVK7Q5BBMTF2ZVGSUFPYR6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 12·3 비상계엄 선포로 정신적 피해를 입은 시민들에게 금전적 손해배상을 해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사2단독 이성복 부장판사는 25일 이금규 변호사 등 시민 104명이 윤 전 대통령을 상대로 낸 손해배상 청구 소송에서 “1인당 10만원의 위자료를 지급하라”고 판결했다. 윤 전 대통령은 이날 선고에 출석하지 않았다.&lt;br&gt;&lt;br&gt;이 부장판사는 “국민들인 원고들은 공포와 불안, 좌절감, 수치심으로 표현되는 고통과 손해를 입은 것이 명백하다고 보인다”며 “윤 전 대통령이 이들에게 정신적 손해에 따른 위자료를 지급해야 하고, 적어도 원고들이 구하는 10만원 정도는 충분히 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “윤 전 대통령의 비상계엄 선포 행위는 실체적 요건을 갖추지 못한 위법·위헌한 행위”라며 “그 과정에서 보여준 윤 전 대통령의 적극성과 (계엄)해제에 대한 소극성, 헌법재판소의 파면 결정 등에 비춰보면 비상계엄 선포 및 그 후속 조치 행위는 정신적 고통을 입었다고 주장하는 원고들에 대해 고의에 의한 불법행위에 해당한다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;이어 “위헌·위법한 비상계엄과 그로 인한 일련의 조치를 통해 국민의 대의기관인 국회 등 구가 기능을 마비시켰고 국민의 생명권과 자유, 인간 존엄성을 유지해야 하는 대통령의 막중한 임무를 위배했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘실탄 44발’ 빼돌렸다 버린 현직 경찰... 대체 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/PSMRB44ZOBH2PEUCYJCLLHCZWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/PSMRB44ZOBH2PEUCYJCLLHCZWU/</guid>
-      <dc:creator>김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 06:45:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;44발의 실탄을 아파트 쓰레기장에 내다 버린 현직 경찰관이 과거 장비의 수량을 맞추기 위해 임의로 실탄을 챙겼던 것으로 드러났다. &lt;br&gt;&lt;br&gt;25일 경찰에 따르면 경기 이천경찰서 소속 경찰관 A씨는 총포·도검·화약류 등의 안전관리에 관한 법률 위반 혐의로 입건됐다. &lt;br&gt;&lt;br&gt;그는 44발의 실탄을 빼돌려 개인적으로 보관하다가 최근 이천의 한 아파트 쓰레기장에 무단으로 버린 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 23년 전인 지난 2002년 권총 실탄 등 장비 관리 업무를 담당하고 있었다. 당시 이천경찰서 구청사에서 현재의 청사로 이전을 했었고, A씨는 탄약을 옮기는 역할을 했다. &lt;br&gt;&lt;br&gt;이 과정에서 탄약 수량에 오차가 발생했다. 장비 기록에 기재한 수보다 실제 실탄의 수가 많았고, 이를 알아챈 A씨는 수량을 맞추기 위해 총 44발의 권총 실탄을 따로 뺐다.&lt;br&gt;&lt;br&gt;이후 A씨는 따로 뺀 44발의 실탄을 가방에 넣은 채 자신의 집에 보관해 오다가 시간이 흐르자 이를 잊었고 최근 가방을 자신이 살고 있는 아파트 쓰레기장에 버린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;현재는 전산으로 장비의 수량을 관리하고 있지만 과거엔 수기로 장비의 수량을 일일이 작성해 이 같은 오차가 났었다는 게 경찰의 설명이다.&lt;br&gt;&lt;br&gt;이번 사건은 지난 23일 오전 11시쯤 폐기물 업체 직원이 해당 아파트 쓰레기를 정리하던 중 가방 안에서 실탄을 발견해 경찰에 신고하면서 드러났다. &lt;br&gt;&lt;br&gt;경찰은 보안카메라 분석을 통해 A씨의 동선을 추적했고 실탄을 버린 인물이 현직 경찰관이라는 사실을 확인했다.&lt;br&gt;&lt;br&gt;현장에서 수거된 실탄은 총 44발이며 이 가운데 3발은 현재 경찰이 사용하는 38구경 권총용 실탄이다. 나머지 41발은 과거 경찰이 쓰던 22구경 권총용 실탄으로 확인됐다. 경찰은 A씨의 자택도 수색했지만 추가 실탄이나 총기류는 발견되지 않았다. &lt;br&gt;&lt;br&gt;A씨는 현재 혐의를 모두 인정했으며 가방에 실탄이 들어있다는 사실을 잊고 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;당초 이 사건은 경기 이천경찰서에서 담당했지만 이날 경기 여주경찰서로 이송됐다. 경찰관의 직무 관련 범죄에 대한 수사는 소속 경찰서가 할 수 없다는 규정에 따른 것이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨에 대한 수사를 진행한 뒤 수사 결과에 따라 징계 여부를 결정할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘극한호우 덮친 충남’ 피해액 2570억원... 응급복구율 65.2%</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/25/THC7QVA7LBC3PBKYOOBK5L4PVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/25/THC7QVA7LBC3PBKYOOBK5L4PVM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 06:46:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKSALUSDRJOE5MWDYMLQOVP2KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 오전 충남 예산군 삽교읍 한 주택 마당에 호우 피해를 본 폐기물이 쌓여 있다./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 극한호우로 인한 충남지역 피해액이 2570억원에 달하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;충남도는 지난 24일 오후 6시 기준 도내 피해 규모가 2570억여 원으로 잠정 집계됐다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;공공시설 1848억원, 사유시설 722억여원 등이다.&lt;br&gt;&lt;br&gt;시·군별로는 특별재난지역으로 선포된 예과 서산이 각 491억원과 366억원의 피해가 발생했고, 아산 420억원, 당진 362억원, 홍성 265억원, 천안 189억원 등 이 지역도 특별재난지역 지정 기준을 크게 넘어선 것으로 집계됐다. 국가재난안전관리시스템(NDMS) 입력 기간이 남아 있는 만큼 피해액은 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;응급 복구율은 65.2% 수준이라고 밝혔다. 공공 시설 2895건 중 1922건(66.4%)이 응급 복구됐고, 사유 시설도 2813건 중 1800건(64.0%)이 복구됐다. &lt;br&gt;&lt;br&gt;이번 폭우로 일시 대피한 주민은 1683세대 2366명으로 집계됐다. 이 중 1369세대 1917명이 귀가했고, 314세대 449명은 아직 귀가하지 못했다.&lt;br&gt;&lt;br&gt;박정주 행정부지사는 “도민들이 신속하게 일상으로 복귀할 수 있도록 최선을 다하겠다”며 “현장 복구 작업자들의 온열질환 예방에도 각별히 신경 쓰겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>행안부, 폭염 위기경보 ‘심각’ 상향…중대본 1단계 가동</title>
@@ -803,17 +848,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 05:39:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GW7D6V6XONAVFBINUSHJWX7JVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 버스 출입문 쪽에서 대변을 보고 있다./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 시내버스 내에서 한 시민이 대변을 보는 등 행패를 부렸다는 신고가 접수돼 경찰이 입건 전 조사(내사)에 착수했다.&lt;br&gt;&lt;br&gt;25일 대구 동부경찰서에 따르면 지난 19일 오후 10시쯤 동구 신암동 버스정류장 앞에 정차 중이던 시내버스에서 60대 남성 A씨가 행패를 부린다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 한 손에 음료가 든 컵을 들고 버스에 타려다가 기사에게 제지당했다. 이후 그는 버스 내 운전석 옆에서 대변을 보고 욕설을 뱉는 등 행패를 부린 것으로 조사됐다. 당시 버스 내에는 승객도 일부 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;JTBC 사건반장이 공개한 버스 내 감시카메라(CCTV) 영상에는 이 남성이 버스 기사의 눈을 찌르고 출입문 쪽에서 바지춤을 내린 뒤 쭈그려 앉아 대변을 보는 모습 등이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKFEN6WSQFA73L3JPLMEYQHR3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 버스 기사의 눈을 찌르고 있다./JTBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 경찰이 현장에 도착했을 때도 기이한 행동을 계속한 것으로 전해졌다. 경찰에게 휴지를 달라는 요구까지 했으며, 결국 버스 기사가 휴지를 가지고 와 A씨에게 건넸다고 한다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰은 A씨의 인적 사항을 파악한 뒤 그를 귀가시켰다.&lt;br&gt;&lt;br&gt;버스 내 대변은 버스 기사가 차고지에서 치운 것으로 전해졌다. 이 일로 기사는 정신적 피해를 호소하며 회사에 휴가를 요청하고 치료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 A씨를 불러 조사하기 전이며 업무방해 혐의 등을 적용할 수 있을지 검토 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>욕설에 격분 지인 흉기로 찌른 60대, 항소심서 형량 늘어</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/J4EQOAZBUZCGVKPRJXA5BLDK4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/J4EQOAZBUZCGVKPRJXA5BLDK4M/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>말다툼 끝에 지인을 흉기로 찌른 60대 남성이 항소심에서 원심보다 더 무거운 형을 선고받았다.
-서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인미수 혐의로 기소된 A(62)씨에게 징역 1년 6개월을 선고한 원심을 파기하고 징역 2년 6개월을 선고했다고 25일 밝혔다.
-</description>
-      <pubDate>Fri, 25 Jul 2025 06:11:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BK7V2D6VJORL65XZVJ6W4XWHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼 끝에 지인을 흉기로 찌른 60대 남성이 항소심에서 원심보다 더 무거운 형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인미수 혐의로 기소된 A(62)씨에게 징역 1년 6개월을 선고한 원심을 파기하고 징역 2년 6개월을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 1일 새벽 강원 정선군 자택에서 B씨 등과 술을 마시던 중 B씨로부터 욕설을 듣고 격분해 집 안에 있던 흉기로 B씨를 찌른 혐의다.&lt;br&gt;&lt;br&gt;A씨는 전날에도 B씨로부터 전화로 욕설을 들은 데 불만을 품고 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인의 범행으로 생긴 상처는 피해자의 생명에 직접적인 위험이 될 정도로 깊었다”면서 A씨에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;하지만 검찰은 형이 가볍다며 항소했고, 항소심 재판부는 이를 받아들였다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “범행의 경위나 결과에 비춰 볼 때 그 죄질이 매우 좋지 않다”면서 “살인죄는 어떠한 이유로도 정당화될 수 없는 중대한 범죄이고 비록 그 범행이 미수에 그쳤다고 하더라도 결코 가볍게 평가할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 법무부, 검사장 인사 실시... 서울고검장에 구자현</title>
@@ -889,15 +923,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJBCD2E7QXEUOU3WZROBL6SAUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중부경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 방산시장에서 동료와 다투다 건물에 불을 지른 시장 상인이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울 중부경찰서는 지난 23일 60대 남성 A씨를 현주건조물방화치사 혐의로 구속 송치했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 18일 오후 1시 20분쯤 중구 방산시장 3층 규모 건물 2층 인쇄소에 불을 지른 혐의를 받는다. 이 불로 70대 남성 B씨가 중상을 입어 10분간 현장에서 심폐소생술을 받은 뒤 병원으로 이송됐지만 당일 사망했다. A씨도 이 과정에서 2도 화상을 입었다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 “단순 다툼으로 우발적 범행을 저질렀다”는 취지로 진술했다. &lt;br&gt;&lt;br&gt;A씨와 B씨는 방산시장 인쇄소에서 일하는 상인이다. 방화 직전 두 사람은 인근 일식집에서 점심식사를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 용산 한남 2구역, 관리처분계획 인가…“이르면 10월 이주 시작”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/CXS65RLEMNCCLISNSK5ZR7B57Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/CXS65RLEMNCCLISNSK5ZR7B57Q/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 00:40:42 +0000</pubDate>
-      <content:encoded>서울 용산구가 25일 보광동 272-3 일대 11만4000여㎡에 아파트 1537가구를 짓는 ‘한남 2구역’에 대해 정비사업 관리처분계획 인가를 결정했다.&lt;br&gt;&lt;br&gt;용산구는 이날 발행한 구보를 통해 이런 내용을 고시하고 한남 2구역 재개발 사업이 본격 추진된다고 밝혔다. 2021년 사업 시행계획이 인가된 이후 약 3년 8개월만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKEOUFWKXJFKLLR6IKDVPLGAFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한남 2구역은 2009년 10월 서울시 재정비촉진계획에 따라 정비구역으로 지정된 뒤 2012년 조합 설립 등을 개발 절차를 밟아왔다.&lt;br&gt;&lt;br&gt;이번 관리처분계획 인가에 따라 지하 6층~지상 14층 규모로 공동주택 31동, 1537 가구가 들어선다. 세대 구성은 △조합원 분양 986세대 △일반 분양 292세대 △보류지 21세대 △임대주택 238세대다.&lt;br&gt;&lt;br&gt;한남 2구역은 제2종 일반주거지역으로, 건폐율 32.14%, 용적률 195.42%가 적용된다. 총 연면적은 약 34만㎡다. 도로, 공원, 공공청사, 사회복지시설, 주차장 등 다양한 공공시설도 함께 조성될 예정이다. 이르면 오는 10월부터 주민 이주가 시작될 예정이다. 이주가 끝나는 대로 철거와 착공 절차가 본격화할 전망이다.&lt;br&gt;&lt;br&gt;앞서 한남 2구역 주택재개발정비사업조합은 2022년 11월 대우건설을 시공사로 선정하고, 2024년 12월 관리처분계획 인가신청서를 구에 제출했다. 용산구는 한국부동산원의 타당성 검증 등을 거쳐 최종 인가를 결정했다.&lt;br&gt;&lt;br&gt;박희영 용산구청장은 “한남2구역은 1조6000억원의 사업비가 투입되는 대규모 재개발 구역”이라며 “앞선 한남3구역과 함께 도시의 미래상을 제시할 핵심 사업인 만큼 지원을 아끼지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>허태근 前국방부 정책실장, 해병 특검 출석... ‘해병대 초동조사’ 보고 당시 상황 조사 </title>
       <link>https://www.chosun.com/national/court_law/2025/07/25/YBKR2Y3D3JCVJIGWJ4LV2NJHZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/YBKR2Y3D3JCVJIGWJ4LV2NJHZM/</guid>
@@ -905,15 +930,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 01:57:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMCHHYSET5IIRCLGKYGGTDI46I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허태근 전 국방부 국방정책실장이 25일 오전 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허태근 전 국방부 국방정책실장이 25일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 참고인 신분으로 출석했다. 허 전 실장은 이종섭 전 국방장관이 고(故) 채수근 상병 사망 사고와 관련한 해병대 수사단의 초동 조사 결과를 보고받을 때 현장에 있었던 인물이다.&lt;br&gt;&lt;br&gt;허 전 실장은 이날 오전 10시쯤 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석했다. 그는 ‘이종섭 전 장관이 돌연 이첩 보류를 지시했다는 것에 이상함을 못 느꼈나’ ‘이 전 장관 지시로 국방부 문건 만든 거 아닌가’ 등 취재진의 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;이어 ‘조사에서 진술거부권을 행사하지 않고 대답할 것이냐’라는 질문에는 “제가 아는 바에 대해선 답변을 하겠다”고 답한 뒤 조사실로 올라갔다.&lt;br&gt;&lt;br&gt;허 전 실장은 2023년 7월 30일 이 전 장관이 ‘임성근 전 해병대 1사단장에게 과실치사 혐의를 적용했다’는 해병대 수사단의 초동 조사 결과를 보고받을 자리에 함께 배석했던 인물이다. 당시 보고 현장에는 전하규 국방부 대변인, 박진희 전 국방장관실 군사보좌관, 이윤세 전 해병대 사령부 공보정훈실장 등도 참석한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해병대 수사단의 조사 결과는 다음 날인 그해 7월 31일 국가안보실 회의에서 윤석열 전 대통령에게 보고됐다. 당시 회의에서 윤 전 대통령이 이를 보고받은 뒤 “이런 일로 사단장을 처벌하면 누가 사단장을 하느냐”고 화를 내며 수사 외압을 했다는 게 이른바 ‘VIP 격노설’이다. 이후 해병대 수사단의 조사 결과 경찰 이첩이 보류됐고, 국회·언론 브리핑 등이 취소됐다.&lt;br&gt;&lt;br&gt;해병 특검은 허 전 실장을 상대로 2023년 7월 30일 당시 이 전 장관에게 보고된 내용 및 이 전 장관의 지시 사항 등에 대해 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희 여사 문고리’ 유경옥 前 행정관, 특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/IZLXWT3CENBNJJ6Y5YP4WA5JXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/IZLXWT3CENBNJJ6Y5YP4WA5JXA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 00:58:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJL3SIV5P5KE3KGSIKROACXGJE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 '문고리 3인방 중 한 명으로 지목된 유경옥 전 행정관이 25일 오전 서울 종로구에 마련된 김건희 특검팀 사무실로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 ‘문고리 3인방’으로 불리는 전직 대통령실 행정관 중 한 명인 유경옥 전 행정관이 25일 민중기 특검에 출석했다.&lt;br&gt;&lt;br&gt;유 전 행정관은 이날 오전 9시 57분쯤 도보로 특검 사무실에 출석했다. 대기 중이던 기자들이 “샤넬 백 두 개를 다른 물건으로 교환한 것이 맞느냐” “김 여사가 이 사실을 알고 있었느냐” “김 여사가 시켜서 한 일이느냐” 등을 물었지만, 유 전 행정관은 침묵한 채 빠른 걸음으로 조사실로 올라갔다.&lt;br&gt;&lt;br&gt;특검은 유 전 행정관을 비롯해 조연경·정지원 행정관 등 3인방을 모두 소환했다. 2022년 6월 윤석열 전 대통령 부부가 북대서양조약기구(나토) 순방을 하며 불거진 여러 의혹들을 확인하기 위한 차원이다. 특검은 당시 순방 때 민간인인 신모씨가 동행하고 귀국 때 대통령 전용기에 탑승한 경위를 조사 중인데, 신씨는 당시 대통령실 인사비서관이었던 이원모씨의 아내다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 2022년 나토 방문 동행 때 6000만원대 명품 목걸이를 착용한 것과 관련해 김 여사 소유 여부 등도 조사 중이다. 또 김 여사가 ‘건진법사’ 전성배씨를 통해 통일교 윤모 전 세계선교본부장이 구입한 다이아몬드 목걸이와 샤넬 백을 건네받고 청탁을 해결해주려 했다는 의혹도 특검은 수사 중인데, 이 과정에서 유 전 행정관이 샤넬 가방 2개를 다른 제품으로 바꿔왔다는 의혹이 불거진 상태다.&lt;br&gt;&lt;br&gt;특검은 지난 23일 조 전 행정관을 불러 조사했고, 이날 오후 5시엔 정 전 행정관을 불러 조사한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘폭염경보’ 내려진 포항서 제초 작업하던 40대 외국인 숨져… 온열질환 추정 </title>
@@ -950,27 +966,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 00:56:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOJHKL5OZBD2DFYI2MZ6KB4AGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 25일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에서 '언론사 단전·단수 의혹' 관련 피의자 조사를 받기 위해 출석하고 있다. 이날 이 전 장관은 취재진의 질문에 묵묵부답했다. 2025.7.25 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상민 전 행정안전부 장관이 지난해 ‘12·3 비상계엄’ 당시 특정 언론사들에 대한 단전·단수를 지시했다는 의혹에 대해 조사 받기 위해 25일 내란 특검 사무실이 마련된 서울고검에 출석했다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관이 비상계엄 당시 윤석열 전 대통령으로부터 언론사 단전·단수 지시를 받고, 이 같은 지시를 소방과 경찰에 전달했다고 보고 그를 내란 동조 혐의 피의자 신분으로 이날 소환했다. &lt;br&gt;&lt;br&gt;이 전 장관은 비상계엄 당일 밤 11시 34분 조지호 당시 경찰청장에게 전화를 걸어 관련 조치 상황을 확인하고, 3분 뒤 허석곤 소방청장에게 전화해 “경찰청에서 단전·단수 협조 요청이 오면 조치해줘라”고 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 내란 특검은 지난 17일 이 전 장관의 자택과 소방청 등 7곳을 압수 수색했다. 이어 18일엔 황기석 전 서울소방재난본부장을, 22일엔 이영팔 소방청 차장을, 23일엔 허석곤 청장을 불러 조사했다. 특검은 앞서 확보한 진술을 토대로 이날 이 전 장관에게 비상계엄 당시 단전·단수 지시가 내려진 경위를 조사할 것으로 보인다. &lt;br&gt;&lt;br&gt;또 이 전 장관이 그간 국회 등에서 이를 부정하는 취지로 증언해 온 것을 두고 이 전 장관에 대해 위증 혐의를 적용하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>갈비찜과 삼계죽 싸들고…안유성 명장, 이번엔 침수 피해 현장 달려갔다</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/25/TATLLHOWSRHSDLXWZOQ2JXYRJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/25/TATLLHOWSRHSDLXWZOQ2JXYRJQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 23:33:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQX4ZYAKUBD6FCMVOJVSTFRG4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안유성 셰프와 조혜경 셰프가 전남 나주 침수 피해 지역을 방문해 음식 봉사를 하고 있다./대한적십자사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한민국 제16대 조리 명장 안유성 셰프가 침수 피해 지역 주민들을 위해 보양식을 준비했다.&lt;br&gt;&lt;br&gt;25일 대한적십자사, 뉴스1 등에 따르면 안 셰프는 지난 18일 나주시 동강면 대지리 일대에서 이재민과 구호 활동 중인 군 장병을 위해 전복삼계죽, 갈비찜, 오리훈제볶음 등 총 350인분의 식사를 준비했다.&lt;br&gt;&lt;br&gt;이번 식사 지원에는 전라남도 1호 조리 명장 조혜경 셰프도 함께 나섰다. 폭염 속 복구 작업을 마친 군 장병들과 자원봉사자, 주민들은 식사를 마친 후 셰프들에게 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;광주에서 일식집을 운영하는 안 셰프는 나주 출신으로 알려졌다. 안 셰프는 “호우 피해 소식을 접하고 직접 현장을 찾게 됐다”며 “음식을 통해 지친 마음을 조금이나마 달랠 수 있길 바란다”고 했다.&lt;br&gt;&lt;br&gt;박재홍 광주전남지사 회장은 “대한민국을 대표하는 셰프들이 함께해주셔서 큰 힘이 됐다”고 했다.&lt;br&gt;&lt;br&gt;안 셰프와 조 셰프는 참사 때마다 현장을 찾아 음식 봉사를 해왔다. &lt;br&gt;&lt;br&gt;지난해 12월 무안 제주항공 참사 현장을 찾아 유가족과 소방관, 군경 등 관계자에게 여러 차례 식사를 전달한 데 이어, 지난 3월에는 경북 안동 산불 피해 현장에 방문해 식사를 배식했다. &lt;br&gt;&lt;br&gt;안 셰프는 “힘든 환경에서 고생하는 현장 관계자들을 위해서 우리가 할 수 있는 건 따뜻한 끼니 한 번 챙겨드리는 것뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H7KOBM6DCNDTLEQLL7LHGMSXFE.jpg?auth=53df1dbf254c0c01d50335c00918864ef5380245ae391ed46f1d26011c270da1&amp;smart=true&amp;width=2400&amp;height=1350" type="image/jpeg" height="1350" width="2400">
-        <media:description type="plain">안유성 셰프와 조혜경 셰프가 전남 나주 침수 피해 지역을 방문해 음식 봉사를 하고 있다./대한적십자사</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>교육부, 오늘 의대생 복귀 방안 발표</title>
-      <link>https://www.chosun.com/national/education/2025/07/25/E74BF3UQEZBKDMCCIMTQB5OR7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/25/E74BF3UQEZBKDMCCIMTQB5OR7E/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 24 Jul 2025 22:47:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74PH7T7NQFJVNEWURVBFKQ7FGQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난23일 오후 서울의 한 의과대학 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교육부가 25일 장기 휴학 의대생에 대한 복귀 방안을 발표한다. 유급 대상인 8000여 의대생을 오는 2학기부터 수업에 복귀시키는 구체적인 방안이 나올 전망이다. &lt;br&gt;&lt;br&gt;앞서 의대 총장과 학장들은 장기 수업 거부로 유급 대상이 된 의대생 8000명을 원칙대로 유급 처리하되, 다음 달 시작되는 2학기에 복학시키는 방안을 합의했다. 본과 3학년을 제외한 전 학년의 진급, 졸업 일정도 정해 정부에 건의했다. 정부는 지난 24일 이 같은 각 대학 복귀 방안을 대부분 수용해 발표할 예정이었으나 본과 3학년 졸업 시기 등에 대한 합의가 이뤄지지 않아 발표가 취소됐다. &lt;br&gt;&lt;br&gt;교육계에 따르면 교육부는 이번 발표에서 본과 고학년의 졸업 일정 등 이견이 있는 부분은 대학 자율로 정하게 하는 방안을 담을 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
