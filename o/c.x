@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 김건희 특검, 이준석 개혁신당 대표 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 27 Jul 2025 23:07:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4CP4QTAF5JDDKDF6BRKG7HV2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 부부의 ‘공천 개입’ 의혹을 수사 중인 김건희 특검이 28일 이준석 개혁신당 대표에 대한 압수 수색에 나선 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“한국인 조직원들만 2000명” 캄보디아 ‘보이스피싱 타운’</title>
       <link>https://www.chosun.com/national/national_general/2025/07/28/2UWVXX7JCRF7ZE2I5PI4LYEKCY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/28/2UWVXX7JCRF7ZE2I5PI4LYEKCY/</guid>
@@ -880,15 +889,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 11:04:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7PAKNQ7YE64BNVOD6R3K3642U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 제주시 곽지해수욕장 인근 바다에서 소방헬기가 구조한 30대 물놀이객을 병원으로 이송하고 있다. /제주도소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 제주에서 물놀이 사고로 2명이 숨졌다.&lt;br&gt;&lt;br&gt;제주소방안전본부에 따르면 이날 오후 2시 36분쯤 제주시 구좌읍 세화포구에서 ‘관광객 A씨가 물에 빠졌다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;40대인 A씨는 주변 서핑객에 의해 물 밖으로 구조됐으나 심정지 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 닥터헬기를 동원해 A씨를 제주시내 병원으로 이송했으나 치료 중 숨졌다.&lt;br&gt;&lt;br&gt;이날 오후 2시 40분쯤 제주시 애월읍 곽지해수욕장에서도 ‘사람이 물에 빠졌다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국과 해경은 10여 분간 수색 끝에 해상에 있던 30대 B씨를 발견했다.&lt;br&gt;&lt;br&gt;심정지 상태로 구조된 B씨는 소방헬기로 9분 만에 제주시내 한 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;이날 오후 2시 25분쯤 서귀포시 남원읍 태웃게 해안에서는 ‘50대인 C씨가 파도에 떠내려간다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 인근에 있던 물놀이객이 구명환을 이용해 C씨 구조에 성공했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이주노동자 괴롭힌 지게차 운전자 입건</title>
-      <link>https://www.chosun.com/national/regional/2025/07/25/RIWC525J75CRXITOTRDNWYZROE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/25/RIWC525J75CRXITOTRDNWYZROE/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 13:23:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OG5WQXBKCTMKA25G6IXAZZF7ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 전남 나주시의 한 벽돌공장에서 스리랑카 국적의 외국인 노동자가 화물에 결박된 채 지게차로 들어 올려지는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 나주에서 지난 2월 스리랑카 이주 노동자를 화물에 결박하고 지게차로 들어 올려 괴롭힌 혐의를 받는 한국인이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;전남경찰청 형사기동대는 25일 특수감금, 특수폭행 등 혐의로 50대 한국인 A씨를 불구속 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;지게차 운전자인 A씨는 지난 2월 26일 나주의 한 벽돌공장에서 스리랑카 국적의 이주 노동자 B(31)씨를 벽돌 더미에 산업용 비닐로 감아 묶고 지게차로 들어 올려 이리저리 끌고 다닌 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 당시 상황을 촬영한 동영상이 언론 보도를 통해 공개되고, 이재명 대통령도 “야만적 인권침해를 철저히 엄단하겠다”고 발언하는 등 사회적 공분이 일자 수사에 착수했다.&lt;br&gt;&lt;br&gt;이날 B씨로부터 피해 사실을 청취한 경찰은 곧바로 A씨를 형사 입건했다.&lt;br&gt;&lt;br&gt;경찰은 장비와 도구로 신체의 자유를 구속하고 물리적인 폭력을 가하는 등 동영상에서 어느 정도 드러난 혐의를 A씨에게 우선 적용했다.&lt;br&gt;&lt;br&gt;B씨를 돕고 있는 광주전남이주노동자네트워크는 ‘지게차 괴롭힘’ 행위가 30여분 동안 이어졌고, 주변에 있던 20여명의 다른 동료들도 가담하거나 방관했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 조만간 소환 조사하고, 다른 직원들도 범죄 혐의점이 있는지 파악할 방침이다.&lt;br&gt;&lt;br&gt;또 갑질, 폭언, 직장 내 괴롭힘 등 영상에 드러나지 않은 범법 행위도 이 공장에서 있었는지 수사할 계획이다.&lt;br&gt;&lt;br&gt;광주지방고용노동청도 기획 감독에 착수해 근로기준법 등을 위반한 사항이 있는지 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>지게차에 묶인 코리안 드림, 강제출국 위기 처했다</title>
