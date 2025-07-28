@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] '집중투표제' 상법 개정안 법사위 소위 통과</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210099.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 28 Jul 2025 06:17:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210099</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210099</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210099.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>광장, 싱가포르서 '한국의 법' 세미나…개정 상법·에너지·노동 규제 등 논의</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210096.jpg" alt="4534.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/536.png" alt="536.png" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;8월 21일 싱가포르에서 열리는 법무법인 광장의 '한국의 법, 정책, 그리고 컴플라이언스' 세미나 포스터.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 8월 21일 싱가포르 페어몬트 호텔에서 '한국의 법, 정책, 그리고 컴플라이언스: 새로운 정치 지형에서의 법적 변화와 불확실성'을 주제로 세미나를 연다.&lt;br /&gt;&lt;br /&gt;광장이 주최하고 인하우스카운슬포럼(회장 정원영)이 후원하는 이번 세미나에서는 한국의 새 정부에서 진행될 주요 규제와 법적 변화에 대해 논의한다.&lt;br /&gt;&lt;br /&gt;개회사는 싱가포르 법무검찰총장과 대법관을 지낸 브이케이 라자(VK Rajah SC) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1104"&gt;문호준&lt;/span&gt;(55·사법연수원 27기) 광장 대표변호사가 맡는다. 세션은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22352"&gt;김새미&lt;/span&gt;(42·42기) 광장 변호사의 사회로 개정 상법, 에너지 산업, 노동 규제, 데이터 보호, 소송과 분쟁 등 5개 주제가 이어진다. 질의응답은 잭 샤프(Zac Sharpe) 광장 외국변호사가 진행한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&amp;nbsp;&lt;/span&gt;광장 국제분쟁그룹장(67·사법연수원 20기)은 "이번 세미나는 급변하는 정책 방향과 법적 환경 속에서 기업이 직면하는 불확실성과 기회를 조망하는 기회가 될 것"이라며 "싱가포르에서 활동하는 글로벌 법무 전문가들과 함께 한국의 법률·정책 흐름을 논의하게 돼 기대된다"라고 말했다.</description>
 			<pubDate>Mon, 28 Jul 2025 03:48:26 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/210085</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210085</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210085.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 권은민 김·장 변호사 '통일을 보는 새로운 시선' 출간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210086.jpg" alt="210086.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;남북관계에 대한 법제적 대응 방향과 통일 한국의 법제도 구상을 다룬 책이 출간됐다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3838"&gt;권은민&lt;/span&gt;(61·사법연수원 17기) &lt;b&gt;&lt;a href="http:// https://www.kimchang.com/ko/main.kc" target="_blank"&gt;김·장 법률사무소&lt;/a&gt;&lt;/b&gt; 변호사가 쓴&lt;b&gt; 《통일을 보는 새로운 시선》&lt;/b&gt;(박영사 펴냄)은 김정은의 ‘적대적 두 국가’ 발언을 계기로 기존 남북관계를 다시 짚고, 통일 논의를 이어가기 위해 필요한 법제도의 방향성을 제시한 책이다.&lt;br /&gt;&lt;br /&gt;이 책은 북한학 박사이자 북한법 연구자이며, 통일부에서 법률자문을 해온 '북한 전문가'인 권 변호사가 최근 수년간 학술지와 세미나 등을 통해 발표해 온 글들을 묶어 재구성한 것이다. 책은 △두 국가론과 남북한 특수관계론 △두 국가론과 법제변화 방향 △남북한 특수관계론의 현실 △통일헌법의 방향 모색 등을 다뤘다.&lt;br /&gt;&lt;br /&gt;권 변호사는 서문에서 “북한이 통일을 지향하지 않고 ‘두 국가’를 주장하는 상황에서, 남한은 기존 통일 논의를 유지할지, 북한의 주장을 수용할지, 또는 제3의 방안을 마련할지 선택해야 할 시점”이라며 “법과 제도 역시 이런 현실 변화에 맞춰 바뀌어야 한다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;이어 “우리에게 필요한 것은 더 많은 논쟁과 더 많은 연습”이라며 “이 책이 현재의 남북관계를 객관적으로 보고, 미래로 나아가는 길에 디딤돌이 되기를 희망한다”고 전했다.</description>
-			<pubDate>Fri, 25 Jul 2025 13:47:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210086</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210086</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210086.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
