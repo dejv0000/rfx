@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>광장, 싱가포르서 '한국의 법' 세미나…개정 상법·에너지·노동 규제 등 논의</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210096.jpg" alt="4534.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/images/536.png" alt="536.png" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;8월 21일 싱가포르에서 열리는 법무법인 광장의 '한국의 법, 정책, 그리고 컴플라이언스' 세미나 포스터.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 8월 21일 싱가포르 페어몬트 호텔에서 '한국의 법, 정책, 그리고 컴플라이언스: 새로운 정치 지형에서의 법적 변화와 불확실성'을 주제로 세미나를 연다.&lt;br /&gt;&lt;br /&gt;광장이 주최하고 인하우스카운슬포럼(회장 정원영)이 후원하는 이번 세미나에서는 한국의 새 정부에서 진행될 주요 규제와 법적 변화에 대해 논의한다.&lt;br /&gt;&lt;br /&gt;개회사는 싱가포르 법무검찰총장과 대법관을 지낸 브이케이 라자(VK Rajah SC) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1104"&gt;문호준&lt;/span&gt;(55·사법연수원 27기) 광장 대표변호사가 맡는다. 세션은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22352"&gt;김새미&lt;/span&gt;(42·42기) 광장 변호사의 사회로 개정 상법, 에너지 산업, 노동 규제, 데이터 보호, 소송과 분쟁 등 5개 주제가 이어진다. 질의응답은 잭 샤프(Zac Sharpe) 광장 외국변호사가 진행한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&amp;nbsp;&lt;/span&gt;광장 국제분쟁그룹장(67·사법연수원 20기)은 "이번 세미나는 급변하는 정책 방향과 법적 환경 속에서 기업이 직면하는 불확실성과 기회를 조망하는 기회가 될 것"이라며 "싱가포르에서 활동하는 글로벌 법무 전문가들과 함께 한국의 법률·정책 흐름을 논의하게 돼 기대된다"라고 말했다.</description>
+			<pubDate>Mon, 28 Jul 2025 03:48:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210096</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210096</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210096.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>"AI 학습 위한 판결서 공개는 단계적·차등적으로"</title>
+			<description>사법부 인공지능위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)가 7월 25일 제3차 회의를 열고 'AI 기술과 판결서 공개 및 활용'을 주제로 논의를 진행했다. 위원회는 판결서 공개가 헌법상 보장된 재판의 공개, 알권리, 사법접근권 등을 실현하는 핵심 수단이라는 점을 확인하면서도, AI 개발을 위한 데이터로서의 판결서 활용에는 신중을 기할 필요가 있다고 밝혔다.&lt;br /&gt;&lt;br /&gt;위원회는 "개별 판결서의 공개와 판결서 데이터의 공개는 그 파급효와 사회적 영향력이 전혀 다른 차원의 문제"라며 "개별 판결서의 공개는 국민의 알권리, 사법투명성 제고 등 규범적측면에서 충분히 수긍할 수 있는 측면이 있지만, 판결서 데이터는 일단 공개되고 나면 이를 회수할 수 없어 개인정보 보호 문제 등 회복하기 어려운 비가역적인 문제가 발생하고, 나아가 공개된 판결서 데이터가 해외로 이전될 경우 그 문제는 더욱 심각한 상황에 놓이게 된다"고 강조했다. &lt;br /&gt;&lt;br /&gt;이에 따라 위원회는 인공지능 학습을 위한 판결서 데이터 활용 정책은 법원의 통제 하에 사법접근성 제고를 목표로 차등적·순차적 방식으로 추진해야 한다는 입장을 내놨다. 아울러 비식별화 기술 개발을 위한 민간 참여형 기술경연대회(사법부 AI 그랜드 챌린지) 도입, 과거 판결서(2013년 이전 확정 형사판결 등)의 공개 확대, 수수료 체계 개선 등도 제안했다.&lt;br /&gt;&lt;br /&gt;또 위원회는 판결서 데이터를 활용한 인공지능 기술 개발을 위해 '데이터 안심구역'과 '규제 샌드박스' 제도를 연계한 사법부 데이터 센터 구축을 제안했다. 이를 통해 개인정보 보호법 등 현행 규제의 틀 안에서도 AI 개발이 가능하도록 법적·제도적 기반을 마련하자는 취지다.&lt;br /&gt;&lt;br /&gt;위원회는 8월 26일 제4차 회의를 열고 장애인·사회적 약자 지원을 위한 사법 AI, 양형 시스템 개선, 사법부 AI 펀더멘털 구축 등을 논의할 예정이다.</description>
+			<pubDate>Mon, 28 Jul 2025 03:44:23 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210097</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210097</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희 특검, 이준석 개혁신당 대표 자택 압수수색</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210094.jpg" alt="210094.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사의 의혹들을 수사하는 민중기 특별검사팀이 이준석 개혁신당 대표에 대한 압수수색을 실시한 28일 서울 노원구 이 대표 자택 앞에 '압수장소 봉인지'가 붙어 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 공천 개입 의혹과 관련해 이준석 개혁신당 대표에 대한 압수수색에 착수했다. &lt;br /&gt;&lt;br /&gt;특검팀은 28일 오전부터 이 대표 주거지에 검사와 수사관을 보내 문서 자료와 PC 내 파일 등을 확보하고 있다. &lt;br /&gt;&lt;br /&gt;이 대표는 명태균 씨 공천 개입 의혹과 관련된 참고인 신분으로 알려졌다. 이번 압수수색은 2022년 국민의힘 대표였던 이 대표가 당시 공천 개입 등에 연루됐는지 등을 확인하기 위한 차원인 것으로 보인다. &lt;br /&gt;&lt;br /&gt;이날 개혁신당은 최고위원회 개최를 예정했지만, 이 대표가 압수수색을 받으면서 일정은 취소된 것으로 알려졌다. 이 대표는 전날인 27일 개혁신당 제2차 전당대회에서 당 대표로 재선출됐다. &lt;br /&gt;</description>
 			<pubDate>Mon, 28 Jul 2025 00:56:35 -0000</pubDate>
@@ -217,26 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/210086</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210086</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210086.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원, 콜마비앤에이치 임시주총 소집 허가</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210089.jpg" alt="32425.jpg" /&gt;&lt;/p&gt;콜마홀딩스가 건강기능식품 자회사인 콜마비앤에이치의 임시주주총회를 열 수 있게 됐다.&lt;br /&gt;&lt;br /&gt;금융감독원 전자공시시스템(DART)에 따르면 대전지법은 콜마홀딩스가 콜마비앤에이치 이사회 개편을 위해 임시주주총회 소집을 허가해 달라는 신청을 인가했다(&lt;b&gt;2025비합50014&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;법원은 결정문에서 "신청인(콜마홀딩스)에 대해 별지1에 기재된 사항을 회의목적으로 하고, 2025년 9월 26일까지를 주주총회일로 하는 콜마비앤에이치의 임시주주총회 소집을 허가한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;별지1 회의 목적 사항에는 △제1호 의안: 임시의장 선임 △제2호 의안: 이사 선임 △제2-1호 의안: 사내이사 윤상현 선임 △제2-2호 의안: 사내이사 이승화 선임 등이 포함됐다. 법원은 "제2호 의안(제2-1호, 제2-2호)을 목적으로 하는 임시주총 소집의 필요성이 인정된다"고 설명했다.&lt;br /&gt;&lt;br /&gt;콜마그룹의 지주사 콜마홀딩스는 창업주 윤동한 회장의 장남 윤상현 부회장이, 콜마비앤에이치는 여동생 윤여원 사장이 이끌고 있다. 콜마홀딩스는 2025년 4월 실적 부진 등을 이유로 콜마비앤에이치에 추가 이사진 선임을 위한 임시주총 개최를 요구했고, 윤상현 부회장과 이승화 전 CJ제일제당 부사장의 사내이사 선임을 추진하고 있다.&lt;br /&gt;&lt;br /&gt;이번 법원 결정으로 남매 간 경영권 갈등에서는 오빠인 윤상현 부회장이 우세를 점한 모양새지만, 콜마그룹 오너가 분쟁이 완전히 끝난 것은 아니다. 윤동한 회장은 5월 30일 윤 부회장이 증여받은 콜마홀딩스 지분을 반환하라며 서울중앙지법에 소송을 제기한 상태다.</description>
-			<pubDate>Fri, 25 Jul 2025 13:45:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210089</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210089</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210089.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>포항지청·포항범방, 다문화가정 200명과 함께 축구장 체험 행사</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210090.jpg" alt="210090.jpg" /&gt;&lt;/p&gt;대구지방검찰청 포항지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11717"&gt;이완희&lt;/span&gt;)과 범죄예방위원 포항지역협의회(회장 나주영), 사회적약자배려위원회(위원장 김윤수)가 7월 22일 포항스틸야드 축구장에서 다문화가정 200명을 초청해 포항스틸러스와 수원FC의 경기를 함께 관람했다.&lt;br /&gt;&lt;br /&gt;이번 행사는 외부 체험 활동 기회가 부족한 다문화가정 자녀들에게 뜻깊은 경험을 제공하고, 지역사회 통합의 계기를 마련하고자 기획됐다.&lt;br /&gt;&lt;br /&gt;사회적약자배려위원회는 행사에 참석한 가족들에게 피자와 음료를 제공하고, 스틸러스 키링을 기념품으로 전달했다. 입장하는 시민들에게는 ‘학교폭력 없는 행복한 학교’ 문구가 새겨진 사탕 2000개를 직접 제작해 나눠주며, 예방 캠페인도 병행했다.&lt;br /&gt;&lt;br /&gt;또한 다문화가정 자녀 50명을 선발해 선수들과 하이파이브를 나누는 특별 체험을 마련했고, 경기 후에는 참가자 전원이 그라운드에 내려가 기념 촬영을 진행했다.&lt;br /&gt;&lt;br /&gt;이날 행사에는 대구지검 포항지청&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11717"&gt;이완희&lt;/span&gt;(51·사법연수원 34기) 지청장을 비롯해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14201"&gt;고은별&lt;/span&gt;(47·36기) 형사1부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12077"&gt;김영주&lt;/span&gt;(49·37기) 형사2부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40858"&gt;변민후&lt;/span&gt;(33·변호사시험 11회) 소년전담검사 등 포항지청 검사들과 이호종 사무과장이 참석했다. 나주영 범죄예방협의회장, 이복우 수석부회장, 김윤수 사회적약자배려위원장, 손위혁 운영위원과 위원들, 포항시가족센터 관계자들도 함께했다.&lt;br /&gt;&lt;br /&gt;이 지청장은 “우리는 서로 다른 배경과 문화를 가졌지만, 이곳에서 함께 살아가며 같은 꿈을 꾸고 있다”며 “우리 사회의 구성원 모두가 안전하고 따뜻하게 살아갈 수 있도록 앞으로도 최선을 다하겠다”고 말했다.&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Jul 2025 13:43:37 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210090</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210090</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210090.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
