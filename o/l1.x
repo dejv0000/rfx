@@ -6,14 +6,53 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] '집중투표제' 상법 개정안 법사위 소위 통과</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210099.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 28 Jul 2025 06:17:48 -0000</pubDate>
+			<title>김건희 특검, KB캐피탈 전 대표 조사...'집사게이트' 관련</title>
+			<description>&lt;p&gt;김건희 여사 관련 의혹을 수사 중인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 28일 이른바 집사게이트 의혹과 관련해 전직 KB 캐피탈 대표를 불러 조사하고 있다.&lt;/p&gt;&lt;br /&gt;특검팀은 이날 언론 공지를 통해 "집사게이트 사건과 관련해 오늘(28일) 오전 KB캐피탈 황수남 전 대표에 대해 소환조사 중"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;집사게이트는 김 여사의 측근 김예성 씨가 설립에 관여한 렌터카 업체 'IMS 모빌리티'에 대기업과 금융사가 사모펀드를 통해 184억 원을 부정하게 투자했다는 의혹이다. 특검팀은 당시 윤석열 전 대통령의 지위를 보고 기업들이 청탁성 투자를 한 것이 아닌지 의심하고 수사 중이다. &lt;br /&gt;&lt;br /&gt;KB캐피탈은 사모펀드 투자 3개월 뒤인 2023년 9월 IMS에 20억 원을 투자한 것으로 알려졌다. 황 전 대표는 2023년 임기를 마친 뒤 도이치파이낸셜 대표로 자리를 옮겼다. 도이치파이낸셜은 주가조작 의혹이 불거진 도이치모터스의 계열사다. &lt;br /&gt;</description>
+			<pubDate>Mon, 28 Jul 2025 09:24:03 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210099</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210099</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210099.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/210103</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210103</guid>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희 특검, 이준석 대표 피의자 신분 압수수색... 김 여사 오빠 김진우 씨 소환</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210108.jpg" alt="564564574.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사의 의혹들을 수사하는 민중기 특별검사팀 관계자들이 28일 서울 노원구 개혁신당 이준석 대표의 자택에서 압수수색을 마친 후 압수품을 옮기고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 명태균 씨 공천 개입 의혹과 관련해 이준석 개혁신당 대표에 대한 강제수사에 착수했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1255"&gt;오정희&amp;nbsp;&lt;/span&gt;특검보는 28일 "2022년 제8회 동시 지방선거, 2022년 국회의원 재보궐 선거, 22대 총선 등 부당 선거 개입 공천 의혹과 관련해 이준석 의원의 주거지와 사무실을 압수수색 중"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검은 이날 오전부터 서울 노원구 상계동과 경기 화성시 동탄에 있는 이 대표 자택과 서울 여의도 국회의원회관 사무실 등을 압수수색했다. 특검은 이 대표에 대해 2022년 국회의원 재보궐 선거와 관련해 피의자 신분을 적용했다. &lt;br /&gt;&lt;br /&gt;특검팀은 법원으로부터 이 대표에 대한 압수수색 영장을 21일에 발부받았지만, 이 대표의 해외 출장이 끝나는 시기에 맞춰 이날 집행했다. &lt;br /&gt;&lt;br /&gt;이 대표는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 부부의 공천 개입 의혹이 불거진 2022년 6월 국민의힘 당대표를 지냈다. 이 대표는 이른바 '칠불사 회동'에서도 거론된다. 22대 총선을 앞둔 지난해 2월 29일 이 대표는 김영선 전 국민의힘 의원, 명 씨,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25269"&gt;천하람&amp;nbsp;&lt;/span&gt;개혁신당 원내대표와 경남 하동군 칠불사에서 만나 김 전 의원이 김 여사의 공천 개입을 폭로하는 대가로 개혁신당 비례대표 1번 공천을 받는 것을 논의한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;앞서 명태균 게이트를 폭로한 공익 제보자 강혜경 씨는 16일 참고인 신분으로 특검에 출석하면서 "이준석 의원도 당 대표였기 때문에 (공천 개입에) 관여가 있었던 것으로 알고 있다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;건진법사 청탁 의혹과 관련해 특검팀은 이날 이성재 씨에 대해 특가법상 알선수재 혐의로 구속영장을 청구했다. 이 씨는 통일교 관계자는 아닌 것으로 알려졌다. 특검팀은 이 씨에 대한 구속영장을 청구하기 전, 이 씨와 대면 조사를 했던 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;이날 소환 통보를 받은 명태균 씨는 특검팀에 출석하지 않았다. 오 특검보는 "현재 (명 씨와의) 일정 조율과 관련해 드릴 말씀은 없고, 향후 출석 일정을 검토하겠다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;한편 통일교 고위직인 정원주 비서실장은 6월 초 미국으로 출국했다가, 26일 귀국한 것으로 확인됐다. 오 특검보는 "정 씨와의 소환 일정은 아직 정해지지 않았다"고 했다. &lt;br /&gt;&lt;br /&gt;특검은 윤 전 대통령에게 29일 오전 10시까지 출석해 조사를 받으라고 소환 통보를 했지만, 윤 전 대통령은 이날까지 출석 여부를 밝히지 않았다. 8월 6일로 예정된 김건희 여사의 소환 일자, 방식과 관련해 오 특검보는 "소환 일자를 통보했고 이후 조율이나 협의는 없었다"고 했다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 김 여사의 오빠인 김진우 씨를 소환해 조사하고 있다. 김 씨는 양평 공흥지구 개발 과정 특혜 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;특검팀은 25일 경기 남양주 김 씨 장모 자택을 압수수색 하는 과정에서 김 여사가 나토 순방에서 착용한 것으로 의심되는 반클리프 아펠 목걸이를 확보했다. 해당 목걸이는 6000만 원대에 달하지만, 당시 윤 전 대통령의 재산 신고 목록에는 누락돼 논란이 불거졌다. 김 여사 측은 '해당 목걸이는 모조품으로 500만 원이 넘지 않아 재산 등록 대상이 아니다'라는 취지로 해명한 바 있다. 특검팀은 확보한 목걸이가 김 여사가 착용했던 목걸이 맞는지, 진품인지 등을 검증할 것으로 보인다. &lt;br /&gt;</description>
+			<pubDate>Mon, 28 Jul 2025 09:21:20 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210108</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210108</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210108.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>두 번째 법사위 '검찰개혁 4법' 공청회…여야 진술인 간 의견 차 팽팽</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210107.jpg" alt="345435345345.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;8일 국회 법제사법위원회에서 열린 검찰개혁 법안 관련 공청회, 왼쪽부터 모성준 사법연수원 교수, 서보학 경희대 로스쿨 교수, 양홍석 변호사, 이광철 변호사. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;국회 법제사법위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7672"&gt;이춘석&lt;/span&gt;)는 28일 오후 서울 여의도 국회에서 더불어민주당이 발의한 이른바 '검찰개혁 4법'에 대한 두 번째 공청회를 개최했다. 공청회에는 법조계와 학계 전문가들이 참석해 검찰청 폐지와 수사·기소 분리 등 주요 쟁점을 놓고 엇갈린 의견을 제시했다.&lt;br /&gt;&lt;br /&gt;이날 공청회는 지난 7월 9일에 이어 두 번째로 열린 것이다. 법사위는 앞서 7월 25일 법안심사1소위를 열고 검찰개혁 법안에 대한 심사에 본격 착수한 상태다. 개정안은 △검찰청 폐지 △공소청 신설 △중대범죄수사청 신설 △국가수사위원회 신설 등을 주요 내용으로 담고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9367"&gt;모성준&lt;/span&gt;(49·사법연수원 32기) 사법연수원 교수는 "대한민국의 범죄 조직은 변화와 속도와 적응력 그리고 실행력에서 형사사법 시스템을 이미 압도하고 있다"며 "수사와 공판 과정이 전면적으로 분리된다면, 앞으로 조직범죄에 대한 효과적인 수사와 피해  회복을 위해 반드시 도입할 제도를 도입하기 어렵고 하더라도 유의미한 결과를 끌어  내는 것이 어려워질 것"이라고 지적했다.&lt;br /&gt;&lt;br /&gt;모 교수는 암호화폐 테라·루나 폭락 사태를 언급하며 "대한민국은 권도형에 대한 기소 하지도 못했다"며 "미국과 달리 우리 형사사법시스템은 피해 회복을 위한 역량이 현저히 부족하다는 실력 차이만을 드러내고 있을 뿐"이라고 부연했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14933"&gt;양홍석&lt;/span&gt;(47·36기) 법무법인 이공 변호사는 "2021년 수사권 조정 이후 수사 품질, 속도, 적정성 등 모든 부문에서 부정적인 평가가 잇따르고 있다"며 "검사의 수사권을 완전 박탈하는 형태의 형사사법 시스템 변경을 할 경우 제도 운영이 더 어려워질 것"이라고 우려했다.&lt;br /&gt;&lt;br /&gt;양 변호사는 또 국가수사위원회에 대해서도 "만약 검찰을 조직 구성에 적극 활용한다고 하면 국수위가 더 강력한 권한을 가진 제2의 검찰이 될 수도 있는 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;반면 서보학 경희대 로스쿨 교수는 "국회는 반드시 9월이 가기 전에 검찰개혁 법안을 통과시켜야 한다"며 "역동적인 한국 사회에서 1년 안에 어떤 일도 발생할 수 있고, 수사권과 기소권을 쥔 검찰의 뒤집기 시도가 가능한 충분한 시간이다. 3개월에서 최대 6개월의 유예기간 및 준비기간을 두는 것으로 충분하다"고 비판했다.&lt;br /&gt;&lt;br /&gt;이어 "지난 3년간 야당 대표 이재명을 수사하기 위해서 150명의 검사가 투입됐고 공식적으로 집계된 압수수색만 367회에 달했다"며 "기소권을 가진 검찰이 계속 수사를 한다면 검찰에 의한 무리한 수사, 사건 조작, 억지 기소는 계속될 것"이라고 덧붙였다.&lt;br /&gt;</description>
+			<pubDate>Mon, 28 Jul 2025 09:15:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210107</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210107</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210107.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>'집중투표제' 등 담은 2차 상법 개정안, 법사위 소위 통과</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210101.jpg" alt="464747.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;25일 서울 여의도 국회에서 법제사법위원회 법안심사제1소위원회 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;자산 2조원 이상의 대형 상장회사를 대상으로 집중투표제를 의무화하고 감사위원 분리 선출을 확대하는 내용을 담은 2차 상법 개정안이 28일 국회 법제사법위원회 법안심사소위원회를 통과했다.&lt;br /&gt;&lt;br /&gt;법제사법위원회(위원장 이춘석)는 이날 법안심사제1소위원회를 열고 야당 의원들이 표결에 참여하지 않은 가운데, 여당 주도로 개정안을 단독 의결했다.&lt;br /&gt;&lt;br /&gt;집중투표제는 주식 1주당 선임 이사 수만큼 의결권을 행사하는 제도로 특정 후보에게 여러 표를 집중해 투표할 수 있다. 대주주의 영향력을 줄이기 위해 주주 총회에서 다른 이사들과 분리 선출하는 감사위원은 기존 1명에서 2명 이상으로 확대하는 내용도 2차 상법 개정안에 담겼다.&lt;br /&gt;&lt;br /&gt;법사위 1소위 위원장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(49·사법연수원 35기) 민주당 의원은 이날 "이번 개정안은 '집중투표제'를 의무화하는 것과 감사위원인 사외 이사 분리 선출을 1명에서 2명으로 늘리는 내용"이라며 "지금까지 상법 개정과 관련해서 총 7번의 소위를 열었고 두 번의 공청회를 했다. 충분히 오랜 시간 논의했고 더 이상 늦출 이유가 없는 상황이라고 판단했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;민주당은 이날 소위를 통과한 상법 개정안을 오는 8월 1일 법사위 전체회의에 상정하고 8월 4일 본회의에서 처리한다는 계획이다. &lt;br /&gt;&lt;br /&gt;앞서 여야는 지난 1차 상법 개정안에서 이사의 충실 의무를 회사에서 주주로 확대하고 최대 주주와 특수 관계인 합산 의결권 3% 제한, 사내 이사 명칭을 독립 이사로 변경, 전자 주주총회 의무화 등의 내용이 담긴 1차 상법 개정안을 통과시켰다. 해당 개정안은 지난 7월 15일 국무회의에서 의결·공포됐다.&lt;br /&gt;&lt;br /&gt;송언석 국민의힘 비상대책위원장 겸 원내대표는 이날 오전 당 비대위 회의에서 "(민주당이) 7월 여야 합의 처리된 지 한 달도 되지 않아서, 자사주 소각 의무화 집중투표제 강화 등 또다시 개정 추진하고 있다"며 "자사주는 기업의 자산으로 자율적 처분 보장돼야 하며 이를 법으로 강제하는 전 자본 잠식 유동성 악화 초래할 수 있다"고 했다. 이어 "정부·여당이 마치 상법 개정 곧 주가 상승으로 이어진다는 환상 속에서 정책을 밀어붙이는 것 아닌지 심각한 우려를 금할 수 없다"고 밝혔다.</description>
+			<pubDate>Mon, 28 Jul 2025 07:31:19 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210101</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210101</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210101.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>내란 특검, 이상민 전 장관 구속영장 청구..."직권남용 구체적 행위 있어"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210100.jpg" alt="3643.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;이상민 전 행정안전부 장관이 25일 내란특검 조사를 받기 위해 특검팀 사무실이 마련된 서울 서초구 서울고등검찰청으로 들어가고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄과 관련한 내란·외환 사건을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 이상민 전 행정안전부 장관에 대해 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&amp;nbsp;&lt;/span&gt;특검보는 28일 언론 브리핑에서 "오늘(28일) 오후 1시 47분 이상민 전 장관에 대해 내란 중요임무종사, 직권남용 권리행사 방해, 위증 혐의로 구속영장을 청구했다"며 "범죄의 중대성, 증거인멸 우려, 재범 위험성 등을 고려했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;구속영장 청구까지 시간이 걸렸다는 지적에 박 특검보는 "사실관계를 면밀히 검토해 결론을 내린 것이지, 늦어지거나 고심이 깊어진 것은 아니다"라고 설명했다. 이어 "이 전 장관에 대해 조사가 이뤄진 지 얼마 되지 않아서 고심이 있었다기보다는 사실관계를 정리하는 데 시간이 걸렸다"고 했다. &lt;br /&gt;&lt;br /&gt;이 전 장관의 직권남용 혐의에 대해 미수범은 처벌이 안 된다는 우려에 대해선 "구체적 혐의에 대해선 말씀드리기 어렵다"면서도 "직권남용 미수는 처벌되지 않지만, 미수라고 볼 수 없는 구체적 행위가 있다고 보고 법리적으로 충분히 검토했다"고 자신감을 내비쳤다. &lt;br /&gt;&lt;br /&gt;앞서 7월 25일 특검은 이 전 장관을 피의자 신분으로 소환 조사했다. 이 전 장관은 비상계엄 선포 당시 윤석열 전 대통령으로부터 특정 언론사의 단전·단수 명령을 받고, 이를 허석곤 소방청장 등에게 전화로 전달한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;특검팀은 당시 윤 전 대통령이 이 전 장관에게 '24:00경 한겨레신문, 경향신문, MBC, JTBC, 여론조사 꽃을 봉쇄하고 소방청을 통해 단전, 단수하라'는 내용의 문건을 건넨 것으로 의심한다. &lt;br /&gt;&lt;br /&gt;이 전 장관은 2월 윤 전 대통령 탄핵 심판 변론에서 윤 전 대통령으로부터 이같은 단전·단수 지시를 받은 적이 없다는 취지로 증언했다. 하지만 특검팀은 이 전 장관이 단전·단수 지시가 담긴 것으로 지목된 문건을 들고 한덕수 전 국무총리와 대화 나누는 장면이 있는 대통령실 폐쇄회로(CC)TV 영상을 확보한 것으로 전해졌다.</description>
+			<pubDate>Mon, 28 Jul 2025 07:29:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210100</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210100</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210100.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
 		</item>
 		<item>
 			<title>광장, 싱가포르서 '한국의 법' 세미나…개정 상법·에너지·노동 규제 등 논의</title>
@@ -197,46 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210074</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210074.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>"지방소멸도 토지문제"…법제연구원, 지방소멸 토지법적 과제 학술대회</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210079.jpg" alt="210079.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;25일 부산대 법학전문대학원에서 열린 '지방소멸 및 도시재생 관련 토지법적 과제' 학술대회에서 참석자들이 기념사진 촬영을 하고 있다. 《사진=한국법제연구원》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법제연구원(원장 한영수)은 25일 부산대 법학전문대학원에서 '지방소멸 및 도시재생 관련 토지법적 과제'를 주제로 한국토지법학회, 중국 서남정법대, 주택도시보증공사, 부산지방변호사회, 부산대 법학연구소와 공동 학술대회를 열었다.&lt;/p&gt;&lt;br /&gt;이번 학술대회는 인구감소와 지방소멸에 대응하기 위해 빈집, 노후주택 등 토지이용과 도시공간 재편 관련 법제 과제를 점검하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;나채준 한국법제연구원 연구위원은 '지방소멸 관련 빈집의 현황과 문제점 및 개선방안'을 주제로 발표했고 이어진 발표에서 송기백 주택도시보증공사 박사가 도시재생 관점에서 한국과 일본의 법제를 비교 설명했다.&lt;br /&gt;&lt;br /&gt;한영수 법제연구원장은 "지방소멸 문제는 단순한 인구 감소를 넘어 토지이용, 주거환경, 생활 전반에 걸친 구조적 위축을 초래한다"며 이번 학술대회의 의미를 설명했다.&lt;br /&gt;&lt;br /&gt;한국법제연구원은 인구구조 변화의 원인과 영향을 분석하고, 정책을 뒷받침하기 위한 '인구감소 및 지방소멸 대응 법제 연구사업'을 수행하고 있다.</description>
-			<pubDate>Fri, 25 Jul 2025 13:53:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210079</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210079</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210079.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>"독일식 청년정당, 한국에서도 가능할까"…청년입법정책학회, 국회서 토론회 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210080.jpg" alt="210080.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국청년입법정책학회(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&lt;/span&gt;)는 25일 서울 여의도 국회의원회관 제1소회의실에서 '한국에서 독일식 청년정당은 불가능한가'를 주제로 토론회를 개최했다. 이번 토론회는 한국청년입법정책학회와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25269"&gt;천하람&lt;/span&gt;(37·변호사시험 1회) 개혁신당 원내대표, 최형두 국민의힘 의원,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1795"&gt;김한규&lt;/span&gt;(51·사법연수원 31기) 더불어민주당 의원이 공동주최했다.&lt;br /&gt;&lt;br /&gt;이날 행사는 청년 세대가 배제되지 않고 정치에 참여할 수 있는 생태계의 필요성과 독일식 청년정당 도입 가능성 및 그 조건에 대한 논의를 중심으로 진행됐다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25269"&gt;천하람&amp;nbsp;&lt;/span&gt;개혁신당 원내대표는 "대한민국에서 청년 정치는 공천이나 실제 당을 운영하는 과정에서는 청년들이 소비되기만 할 뿐 성장하지 못하는 문제가 있었다"며 "오늘의 논의를 통해  거대정당에서도 많은 청년 정치인들이 커갈 수 있는 환경이 조성되기를 바란다"고 말했다.&lt;br /&gt;&lt;br /&gt;최형두 의원은 개회사를 통해 "청년 정치라는 용어만 존재했을 뿐 실질적으로 내실화하지 못했던 현실에서 벗어나야 한다는 문제의식에서 이번 토론회를 마련하게 됐다"며 "독일에서 매우 모범적으로 청년 정치가 정착한 사례를 우리나라에도 도입할 수 있을지를 함께 고민하고자 한다"고 밝혔다. 이어 "앞으로 각 정당에서도 청년당준비위원회가 생겨 함께하길 소망한다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;기조 발제를 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39999"&gt;송지은&lt;/span&gt;(39·3회) 새로운 미래를 위한 청년 변호사 모임 공동대표는 "독일식 청년정당 제도는 확장성과 미래 정치지도자 양성이라는 측면에서 주목할 만하지만, 한국은 청년층의 정치에 대한 부정적 인식, 재정 문제, 무관심 등으로 성공하기 쉽지 않다"고 제언했다. 이어 해결책으로 "일정 비율의 비례대표 공천 제도화, 인식 변화, 대중문화와의 접목 등과 같은 논의들이 청년 정치가 한국 정치 활성화에 기여하는 계기가 되길 바란다"고 강조했다. &lt;br /&gt;&lt;br /&gt;토론자로 나선 송지수 이화여대 건설부동산법학회장은 "상대 정당을 적대시하는 정치 풍토에선 청년정당이 활성화되기 어렵다"며 "정치적 성찰과 개선이 선행돼야 하며 '놀이'와 '정치'의 조화를 통해 청년세대의 정치 관심을 높여야 한다"고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40099"&gt;서치원&lt;/span&gt;(33·10회) &lt;b&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt; 변호사는 "지금 우리나라처럼 청년정당이 제 역할을 하지 못하는 상황이 지속된다면, 2003년 프랑스에서 있었던 '세대 전쟁'이 우리나라에서도 심화될 수밖에 없을 것"이라며 "청년정당이 각 정당의 하부조직이 아닌 하나의 새로운 정치 생태계를 형성할 수 있도록 각 정당이 초당적으로 협력해야 한다"고 했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="117"&gt;백대용&lt;/span&gt;(51·31기) 한국청년입법정책학회 이사장은 "청년정당이 지금껏 자리 잡지 못한 이유는 구조적 한계와 정치 문화의 문제"며 "청년 정치 생태계 조성을 위해 국회나 정부가 정치에 관심 있는 비정당 청년단체에도 교육과 참여 기회를 제공해야 한다"고 제언했다. 또한 "이러한 제도적 지원을 통해 청년들의 정치 이념 확립과 정당 참여가 자연스럽게 이어질 수 있을 것"이라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;한국청년입법정책학회는 로스쿨생들의 자발적 활동으로 설립된 연합단체로 2025년 현재 건국대, 고려대, 서울대, 성균관대, 연세대, 이화여대, 인하대, 중앙대, 한국외대, 한양대 등 10개 로스쿨이 소속돼 약 1500명의 회원이 활동하고 있다.</description>
-			<pubDate>Fri, 25 Jul 2025 13:52:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210080</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210080</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210080.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, 윤영호 전 통일교 세계본부장 구속영장 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210081.jpg" alt="4564748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희특검팀이 18일 ‘건진법사 청탁 의혹’과 관련해 가평의 통일교 본부와 서울 용산구 서울 본부에 대한 압수수색을 실시했다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 건진법사 의혹과 관련해 윤영호 전 세계본부장에 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;특검팀은 25일 언론 공지를 통해 "윤 전 본부장에 대해 청탁금지법 위반, 업무상 횡령 등의 혐의로 구속영장을 청구했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;윤 전 본부장은 김 여사에게 전달할 목적으로 다이아몬드 목걸이, 샤넬 백 등을 건진법사 전성배 씨에게 건넨 혐의를 받는다. 윤 씨는 물품과 함께 △캄보디아 메콩강 개발 △YTN 인수 △유엔 제5사무국 유치 △대통령 취임식 초청 등 통일교 관련 민원을 청탁한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;전 씨는 윤 전 본부장에게 이같은 청탁을 들었지만 '말이 안된다고 생각했다'는 취지로 지난 5월 검찰 조사에서 진술한 것으로 알려졌다. 또 윤 전 본부장에게서 건네받은 목걸이 등은 잃어버렸다고 주장하고 있다. &lt;br /&gt;&lt;br /&gt;통일교 측은 윤 전 본부장을 출교 조치하고, 윤 전 본부장의 혐의에 대해 개인 일탈이라는 입장을 고수하고 있다. 반면 윤 전 본부장은 22일 특검팀 조사에서 전 씨와의 청탁 의혹 배후에는 한학자 통일교 총재 등 교단 윗선이 있다고 진술한 것으로 알려졌다.</description>
-			<pubDate>Fri, 25 Jul 2025 13:50:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210081</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210081</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210081.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한법률구조공단 인천 개인회생·파산종합지원센터 개소</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210085.jpg" alt="210085.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한법률구조공단(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&lt;/span&gt;)이 7월 24일 인천 미추홀구 학익동 유니스프라자빌딩 204호에 ‘개인회생·파산종합지원센터’(이하 인천파산센터)를 개소했다.&lt;br /&gt;&lt;br /&gt;인천파산센터는 인천광역시를 비롯해 부천시, 김포시 등 인천권역 내 채무 문제로 어려움을 겪는 금융 소외 계층의 조속한 사회 복귀를 지원하기 위해 설치됐다. 해당 사업은 기획재정부 복권위원회의 복권기금 지원을 통해 추진됐으며, 이번 인천센터는 서울, 대구, 부산, 광주, 대전, 수원, 울산에 이은 여덟 번째 지역 거점이다.&lt;br /&gt;&lt;br /&gt;센터에서는 기준 중위소득 125% 이하인 국민을 대상으로 법률상담은 물론, 법원의 개인회생·파산 및 면책 절차까지 전문적인 법률 서비스를 무료로 제공한다. 또한 불법 추심에 시달리지 않도록 채무자 대리인 선임도 지원한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&lt;/span&gt;(62·사법연수원 21기) 대한법률구조공단 이사장은 “이번 인천센터 개소로 인천 지역 금융 취약계층에게 보다 종합적이고 실질적인 법률 서비스를 제공할 수 있게 됐다”며 “앞으로도 공단은 채무 문제로 고통받는 국민들이 정상적인 경제활동을 통해 사회의 일원으로 다시 자리매김할 수 있도록 적극 지원하겠다”고 말했다.&lt;br /&gt;&lt;br /&gt;공단은 “채무, 주거, 가정 문제, 범죄 피해 등 위기 상황에 처한 국민이 전국 단위의 센터망을 통해 밀착형 법률지원을 받을 수 있도록 밀착형 지원을 강화하고 있다”며 “앞으로도 든든한 법률 안전망 역할을 지속해 나가겠다”고 전했다.&lt;br /&gt;</description>
-			<pubDate>Fri, 25 Jul 2025 13:48:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210085</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210085</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210085.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
