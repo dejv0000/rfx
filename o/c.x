@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스토킹범이 사무실 훤히 아는데.. 경찰은 센터에 아무 조치 안했다</title>
+      <link>https://www.chosun.com/national/incident/2025/07/28/ZEKB2SFFVFA7NOBPJWPK27VQ6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/28/ZEKB2SFFVFA7NOBPJWPK27VQ6U/</guid>
+      <dc:creator>의정부=김현수 기자, 의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 11:49:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 ‘스토킹 살인 사건’이 발생한 경기 의정부의 한 노인복지센터. 건물 입구엔 경비실도, 보안 카메라도 없었다. 누구나 자유롭게 드나들 수 있는 곳이었다.&lt;br&gt;&lt;br&gt;이 센터 사회복지사인 A(50대)씨는 지난 26일 오후 5시 10분쯤 혼자 근무하다 ‘스토킹범’ B(60대)씨가 휘두른 흉기에 찔려 숨졌다. A씨는 경찰의 신변 보호 대상이었지만 범행을 막지 못했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 노인들은 전부 집에 가고 A씨만 혼자 남아 퇴근 준비를 하고 있었다”며 “센터 사정을 잘 아는 B씨가 이 시간과 장소를 노린 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;사회복지사인 B씨도 1년 이상 이 센터에서 일했다. 작년 12월 퇴직한 이후 직장 동료였던 A씨를 스토킹했다. B씨가 센터의 구조, A씨의 근무 시간 등을 꿰고 있었지만 경찰은 센터에 대해선 별다른 조치를 하지 않았다. A씨 집만 수시로 순찰했다.&lt;br&gt;&lt;br&gt;A씨가 가진 ‘방어 수단’은 경찰에 바로 신고할 수 있는 스마트워치뿐이었지만 소용이 없었다. 경찰 관계자는 “출동해 보니 스마트워치가 핸드백에 걸려 있었다”며 “A씨가 스마트워치를 손목에 차고 있지 않아 미처 누르지 못한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;오윤성 순천향대 경찰행정학과 교수는 “스토킹범은 피해자의 신상을 잘 아는 경우가 많아 특히 위험하다”며 “경찰이 직장도 수시로 순찰하거나 보안 카메라를 설치하는 등 더 치밀하게 대응했어야 했다”고 말했다. &lt;br&gt;&lt;br&gt;A씨는 과거 경찰에 3차례 스토킹 피해 신고를 했다. 지난 3월 B씨가 A씨가 일하는 센터를 찾아와 소란을 피우자 경찰에 신고했다. 당시 A씨와 B씨는 말다툼을 했다고 한다. 경찰은 처음이라는 이유로 경고 조치했다.&lt;br&gt;&lt;br&gt;이어 5월엔 B씨가 A씨에게 ‘문자를 안하려 했는데 또 했다’ ‘주먹밥을 만들어주겠다’ 등 문자메시지를 8차례 보냈다. 전화도 3차례 걸었다. A씨가 두 번째 스토킹 신고를 했지만 경찰은 “위협적인 표현이 없었다”며 B씨에게 경고장만 발부했다. &lt;br&gt;&lt;br&gt;지난 6월 A씨가 경찰에 신변 보호를 요청하자 경찰은 스마트워치를 지급하고 A씨 집을 수시로 순찰했다.&lt;br&gt;&lt;br&gt;마지막 신고일은 사건 발생 6일 전인 지난 20일이었다. B씨가 A씨 집을 찾아왔고 A씨는 스마트워치를 눌렀다. 경찰은 B씨를 현행범으로 체포했다. 그러나 “B씨가 관련 전과가 없고 반성하는 모습을 보이고 있다”며 석방했다. 100m 이내 접근 금지, 통화·메시지 전송 금지 등 ‘긴급 응급 조치’만 내렸다. 긴급 응급 조치는 일종의 경고 조치로 강제력이 없다.&lt;br&gt;&lt;br&gt;경찰은 B씨의 범행 가능성을 낮게 본 것으로 보인다. 스토킹 범죄가 발생하면 경찰은 추가 피해를 막기 위해 가해자의 ‘스토킹 위험도’를 매기는데 B씨에 대해선 5단계 중 중간 수준인 ‘보통’으로 평가한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “스토킹의 반복성은 인정되지만 신체에 위해를 가할 가능성은 낮다고 봤다”고 했다. 그러나 B씨는 석방 6일 만에 A씨를 살해했다. &lt;br&gt;&lt;br&gt;경찰은 당시 검찰에 위치 추적 장치(전자발찌) 부착 등 보다 강력한 ‘잠정 조치’도 내려달라고 신청했으나 검찰은 “스토킹을 지속적·반복적으로 했다고 보기 어렵다”며 기각했다.&lt;br&gt;&lt;br&gt;전문가들은 “스토킹 범죄는 재발률이 높고 작은 언쟁이 살인으로 이어질 수 있는 특성이 있다”며 “경찰이나 검찰이 잠정 조치 요건 등을 지나치게 엄격하게 판단했다”고 했다.&lt;br&gt;&lt;br&gt;원혜욱 인하대 법학전문대학원 교수는 “스마트워치나 접근 금지 등 조치는 실질적으로 범행을 막을 수 없다”며 “가해자의 동선을 파악할 수 있는 전자발찌 부착이나 강제적인 격리 조치가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“짭코리아” 따돌림에 생활관 2층서 뛰어내린 다문화 장병</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/28/WNUATEF5YZFQNPH34MEL5Z3F5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/28/WNUATEF5YZFQNPH34MEL5Z3F5E/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 12:34:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군대에 입대한 다문화 가정 병사가 따돌림을 당했다는 주장이 제기돼 군사 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;28일 군에 따르면 경기 고양시 육군 모 부대 소속 A 일병은 지난 4월 23일 밤 부대 생활관 2층에서 뛰어내려 허리를 크게 다친 채 병원으로 이송돼 치료를 받고 있다. &lt;br&gt;&lt;br&gt;그는 중국인 아버지와 북한이탈주민 어머니 사이에서 태어난 다문화 장병이었다. 어머니를 따라 한국 국적을 얻은 그는 지난해 말 육군에 입대했다.&lt;br&gt;&lt;br&gt;&amp;nbsp;A일병은 부대원들이 자신을 ‘짱개’ 또는 ‘짭코리아’ 등으로 부르며 따돌렸다고 주장하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;군사경찰은 부대원들을 대상으로 정확한 사실관계를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여긴 한국, 물 흐리지 마”… 여의도 식당 팁 박스 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/28/ABDGKC7YZNESBNIMH65JQQ7RFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/28/ABDGKC7YZNESBNIMH65JQQ7RFM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 12:23:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOCNMROJZVHN7JC2TGTZBLPWPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여의도의 한 식당이 계산대에 비치한 팁 박스. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 여의도의 한 식당이 계산대에 ‘팁 박스’를 비치한 사진이 온라인에서 확산하면서 또 한 번 팁 문화를 둘러싼 논란이 불거졌다.&lt;br&gt;&lt;br&gt;스레드 이용자 A씨는 지난 26일 자신의 계정에 “여의도에서 밥 먹고 계산하려는데 계산대 앞에 팁 박스가 떡하니 있다”며 “여긴 한국이다. 팁 문화 들여오지 마라. 물 흐리지 말라”고 썼다. &lt;br&gt;&lt;br&gt;A씨가 첨부한 사진에는 빨간색의 팁 박스 모습이 담겼다. 팁 박스에는 ‘식사 맛있게 하셨냐. 항상 최고의 서비스와 요리를 드리기 위해 노력하고 있다. 감사하다’는 식당 측의 인사말과 함께 현금을 넣을 수 있는 투입구가 마련돼 있었다. &lt;br&gt;&lt;br&gt;A씨 글에는 이틀 만에 350개가 넘는 댓글이 달렸다. 대부분 네티즌은 팁 문화를 두고 부정적인 반응을 보였다. “계산대에 두는 건 강요하는 거 아니냐” “팁 받은 것도 다 세금 신고하는 거냐” “음식값에 봉사료가 포함된 거다” “이런 거 초기에 안 잡으면 한국에도 팁 문화가 당연하다는 듯 자리 잡을 거다” 등이다. 이후 이 게시물은 캡처돼 다른 소셜미디어와 온라인 커뮤니티 등에도 확산했다. &lt;br&gt;&lt;br&gt;팁은 서비스를 제공하는 종업원에게 감사의 뜻으로 추가 지급하는 비용으로, 미국과 캐나다 등 북미권 국가에서 사용된다. 이들 국가에서는 서비스업 근로자 기본급이 낮게 책정돼 고객이 주는 팁이 사실상 임금의 일부로 여겨진다. &lt;br&gt;&lt;br&gt;다만 서비스업 종사자에게 정해진 월급이나 시급을 지급하는 한국에는 팁 문화가 일반적이지 않다. 이뿐만 아니라 현행 식품위생법은 시행 규칙을 통해 봉사료를 비롯한 모든 부대 비용을 포함한 최종 가격을 손님이 보기 쉽도록 명확히 표시하도록 하고 있다. 팁 박스를 두는 것 자체는 불법이 아니지만, 음식값 외에 별도의 봉사료를 강제하는 것은 불법이다. &lt;br&gt;&lt;br&gt;그런데도 종종 팁을 요청하는 국내 식당의 사례가 온라인에 공유돼 네티즌들의 반감을 산다. 2022년엔 세종시 한 장어 전문점에서 ‘서빙 직원이 친절히 응대 드렸다면, 테이블당 5000원 정도의 팁을 부탁드린다’는 안내문을 적어 논란이 됐고, 이듬해엔 서울 강남구의 유명 빵집이 팁 박스를 비치해 지적을 받았다. 이후 이 매장 모두 팁 안내문과 팁 박스를 없앴다. &lt;br&gt;&lt;br&gt;팁 문화에 대해서는 서비스 현장에서 일하는 아르바이트생들 사이에서도 의견이 갈린다. 알바천국이 2023년 아르바이트생 1116명을 대상으로 ‘팁 문화 확산’에 대해 물어본 결과, 응답자의 44.6%가 팁 문화를 부정적으로 바라봤다. ‘팁 문화가 아직 우리 정서와 문화에는 적합하지 않다‘(65.3%·복수 응답)는 이유가 가장 많았다. 이 외에도 ’반감을 가지는 손님들의 갑질 증가’(43.6%) ‘팁 문화 도입으로 인한 최저임금 하락’(42.0%) ‘팁을 받을 만큼 좋은 서비스를 제공하기 어렵다’(12.4%) 등의 의견이 있었다. &lt;br&gt;&lt;br&gt;알바천국은 아르바이트를 하지 않는 일반 성인 남녀 1152명에게도 팁 문화 확산에 대해 물었는데, 부정적 의견이 68.8%로 높게 나타났다. 이유로는 ‘자율적인 팁이 아닌 강요당하는 기분으로 부담감을 느낀다’(66.8%, 복수 응답) ‘상품 가격에 이미 서비스 비용이 포함됐기 때문에 불합리하다고 느껴서’(60.4%) ‘관례로 자리 잡아 전반적인 물가 상승으로 이어질까 봐’(45.3%) ‘팁을 제공할 만큼 좋은 서비스를 받기 어려워서’(36.4%) 등이 꼽혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DUVUP3TYXVE6PDVDU2FSZ5MFVY.jpg?auth=dd2b4257b1abc70e44f4b8ef188bd924004f46fd9ec575602e2090acc9a69995&amp;smart=true&amp;width=667&amp;height=375" type="image/jpeg" height="375" width="667">
+        <media:description type="plain">여의도의 한 식당이 계산대에 비치한 팁 박스. /스레드</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘광복절 특사’ 선정...법무부 8월 7일 사면심사위 개최</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/28/GCAY2652P5EKFBFTLMUHTSWQZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/GCAY2652P5EKFBFTLMUHTSWQZY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 12:58:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIGEU32JGXLVPHYV774YSOFAIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 광복절 특사를 선정하기 위해 다음달 7일 오후 사면심사위원회를 열 예정인 것으로 28일 전해졌다. 광복절 특사는 이재명 정부 첫 특별사면으로 사면 대상에 대한 법조계 관심이 커지고 있다.&lt;br&gt;&lt;br&gt;이날 법무부 안팎에 따르면, 법무부는 다음달 7일 사면심사위원회를 열어 광복절 특별사면 대상자 선정을 위한 심사를 진행한다. 사면법은 대통령이 사면권을 행사하기 전 사면심사위원회 심사를 거치도록 규정하고 있다.&lt;br&gt;&lt;br&gt;특히 이번 특별사면 대상에 조국 전 조국혁신당 대표와 이화영 전 경기도 평화부지사 등 범여권 인사들이 포함될지 여부도 관심사다. 다만 대통령실은 정치인 사면은 본격적으로 검토하지 않고 있다고 선을 그었다. &lt;br&gt;&lt;br&gt;우상호 정무수석은 이날 브리핑에서 “조 전 대표의 사면을 요청하는 각계각층의 탄원서가 접수된 것은 사실이지만, 지금 대통령실은 관세 협상에 매진하고 있다”고 밝혔다. 그러면서 “광복 80주년을 맞아 민생 사면은 구체적으로 준비하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대낮 병원 주차장서 여성 피습... 경찰, 30대 붙잡아 조사 </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/07/28/52BZZIURLRG77OPXPSAPJP5U5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/07/28/52BZZIURLRG77OPXPSAPJP5U5A/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 10:19:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산의 한 병원 주차장에서 20대 여성에게 흉기를 휘두른 30대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;울산 북부경찰서는 28일 살인미수 혐의로 30대 남성 A씨를 조사 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 3시 38분쯤 북구의 한 병원 주차장에서 20대 여성 B씨에게 흉기를 휘둘러 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 현장에서 범행을 목격한 시민들에게 붙잡혀 경찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;그는 야외에 있는 지상 주차장에서 범행한 뒤에 차를 타고 도주를 시도했고, 당시 근처에 있던 시민 5∼6명이 차량을 막아 서거나 소화기로 차량 유리를 깨는 등의 방법으로 도주를 막았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;피해자 B씨는 현재 인근 병원으로 옮겨져 응급 수술을 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 범행 동기 등을 조사한 뒤 A씨에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 김 여사 인척 소환... 목걸이 발견 경위 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/28/ZERRMWL5LVF3XKDVAU2NVQ5INU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/ZERRMWL5LVF3XKDVAU2NVQ5INU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 11:59:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKVPOS2TXKST6F3YIHB7KQ3HJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 부인 김건희 여사가 2022년 6월 29일 스페인 마드리드 시내 호텔에서 열린 재스페인 동포 초청 만찬간담회에서 박수치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀이 28일 김 여사 오빠 김진우씨의 장모를 소환 조사하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난 25일 경기 남양주시에 있는 김씨 장모 주거지를 압수수색하던 중 김 여사가 2022년 6월 북대서양조약기구(NATO·나토) 정상회의 순방 당시 착용한 것으로 추정되는 6000만원 상당의 반클리프 아펠 목걸이를 발견했다. 공직윤리법상 500만원이 넘는 보석류는 신고해야 하는데 해당 목걸이는 윤 전 대통령의 재산신고 품목에 포함되지 않았다. &lt;br&gt;&lt;br&gt;논란이 일자 김 여사 측은 해당 반클리프 아펠 목걸이 등 장신구가 “지인에게 빌린 것”이라고 해명했다. 하지만 지난 5월 김 여사 측은 이 사건을 수사하던 서울중앙지검에 “순방 당시 장신구는 모조품”이란 취지의 진술서를 낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 김씨 장모를 상대로 해당 목걸이가 집에서 발견된 경위 등을 확인할 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염에 열차도 멈췄다... 송추∼의정부 구간 2시간 만에 운행 재개</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/28/M2IMC7S3XZHUXLQ3PICUDBD6SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/07/28/M2IMC7S3XZHUXLQ3PICUDBD6SU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 10:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35QVYXQNOHIFOBPSMEW5XR3W7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교외선/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교외선 송추~의정부역 구간 선로 이상으로 중단됐던 열차가 다시 운행을 재개했다. &lt;br&gt;&lt;br&gt;28일 오후 4시 40분쯤 경기 고양시와 의정부시를 잇는 교외선 송추∼의정부역 구간에서 선로 이상이 발생했다. 이로 인해 양방향으로 운행하는 열차가 운행을 멈췄다.&lt;br&gt;&lt;br&gt;코레일은 초기 대응팀을 현장에 긴급 투입해 시설물을 점검하고 복구 작업에 나섰다. &lt;br&gt;&lt;br&gt;운행이 중단된 지 2시간 만인 이날 오후 6시 40분쯤 복구 조치를 완료하고 열차 운행을 재개했다.&lt;br&gt;&lt;br&gt;코레일은 “선로 사전 점검 과정에서 극심한 폭염으로 인한 이상이 발견됐다”며 “초기 대응팀이 현장에 출동해 시설물 상태를 점검하고 있다”고 말했다. 코레일은 신속히 복구 작업을 완료한 후 운행을 재개할 방침이다.&lt;br&gt;&lt;br&gt;코레일 관계자는 “이상 고온에 따른 선로 변형 여부를 면밀히 점검하고, 유사 상황에 대비한 순회 점검을 강화할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰서 민원실 앞서 50대 음독...병원 옮겨져 치료</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/07/28/II3OAESHWFHSNGPFAYWXBWE6KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/07/28/II3OAESHWFHSNGPFAYWXBWE6KU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 28 Jul 2025 10:30:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서에서 민원인이 음독을 해 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;28일 대구 수성경찰서에 따르면 이날 낮 12시 19분쯤 이 경찰서 민원실 앞에서 50대 여성 A씨가 차량용 부동액을 마셨다.&lt;br&gt;&lt;br&gt;A씨는 곧바로 인근 병원으로 이송됐다. 다행히 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그는 반려견 관련 민원을 넣기 위해 수성경찰서 민원실을 방문했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 정확한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>방목 흑염소 14마리 무단 사냥한 양궁 동호회… 도축해 나눠갖기까지</title>
       <link>https://www.chosun.com/national/national_general/2025/07/28/AZL6KMNLEFASFJ7KZCRVN5NGVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/28/AZL6KMNLEFASFJ7KZCRVN5NGVM/</guid>
@@ -456,15 +531,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX4EVOOK4DAZRIUMPHIODXWQ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 연일 계속되는 지난 25일 오후 대구 중구 달구벌대로에서 양산을 쓴 시민이 아지랑이가 피어오르는 도로를 건너고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 폭염이 기승을 부리면서 올해 전국 온열 질환자가 2200명을 넘긴 것으로 집계됐다. 올 들어 처음으로 우럭과 넙치 등 양식 생선 2000마리가 폭염 피해로 폐사했다. &lt;br&gt;&lt;br&gt;28일 행정안전부에 따르면, 올 들어 지난 26일까지 누적 온열 질환자는 2295명으로 집계됐다. 지난해 같은 기간(906명)의 2.5배 수준이다.&lt;br&gt;&lt;br&gt;바닷물 온도가 높아지면서 양식 피해도 올해 처음으로 발생했다. 행안부에 따르면 지난 24일까지 우럭·넙치 등 양식 생선 피해는 2030마리로 집계됐다. &lt;br&gt;&lt;br&gt;가축 폐사도 이어졌다. 올 들어 지난 25일까지 폐사한 가축은 101만1243마리로 집계됐다. &lt;br&gt;&lt;br&gt;시 전역에 폭염 경보가 내려진 서울 역시 지난 27일까지 온열 질환자 193명이 발생한 것으로 집계됐다. 온열 질환으로 인한 누적 사망자는 1명이다.&lt;br&gt;&lt;br&gt;현재 전국 대부분 지역에 폭염특보가 발효된 상태로, 최고 체감온도 35도 내외의 무더위와 열대야가 당분간 이어질 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검 “평양 무인기 작전, 작년 6월 합참 보고” 진술 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/T32ZKBHQAZDN3KSAHMUUAILVYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/T32ZKBHQAZDN3KSAHMUUAILVYU/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 09:21:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFS5OITSJZBJHH3YQONYMBOWS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘평양 무인기 침투’ 의혹을 수사 중인 내란 특검이 지난 14일 국방부와 드론작전사령부, 국가안보실, 합동참모본부, 국군방첩사령부 등 24곳을 압수 수색했다. 사진은 경기 포천에 있는 드론작전사령부. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 작년 10~11월 ‘평양 무인기 침투 작전’과 관련해 이미 작년 6월부터 합동참모본부에 보고가 이뤄졌다는 진술을 확보한 것으로 알려졌다. 기존의 ‘합참 패싱’ 의혹과 배치되는 내용이다.&lt;br&gt;&lt;br&gt;군 주변에선 평양에 무인기를 침투하기 전인 작년 9월까지 김용현 당시 대통령경호처장이 공식 지휘 계통을 건너뛰고 드론작전사령부와 직접 소통했을 가능성이 언급됐었다. 해군 출신인 김명수 합참의장을 패싱한 것 아니냐는 의혹도 제기됐었다. 그러나 특검이 이번에 확보한 진술이 사실이라면, 합참은 이러한 평양 무인기 침투 작전을 사전에 보고받아 알고 있었다는 뜻으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25SGNASIXNPQJBEOMS7DM7TQLQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김명수 합동참모본부 의장이 지난 10일 오전 서울 용산구 국방부 연병장에서 열린 일본 통합막료장 의장행사에서 경례를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용대 드론작전사령관은 앞선 특검 조사에서 작년 6월부터 합참 보고가 이뤄졌으며 드론사의 다른 관계자들도 보고 자리에 있었다고 주장한 것으로 전해졌다. 합참의 지시 없이는 작전을 진행할 수 없었고, 해당 작전이 김용현 전 처장에게 보고된 건 작년 9월 김 전 처장이 국방부 장관으로 취임한 이후였다는 게 김 사령관 측의 입장이다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령이 12·3 비상계엄의 명분을 쌓기 위해 북한에 무인기를 보내 군사 도발을 유도했다는 의혹을 수사하고 있다. 특검은 김 사령관 외에도 작전 지휘·보고 체계에 있는 이승오 합참 작전본부장, 김 의장 등을 최근 소환해 조사한 상태다. 특검은 이들을 상대로 드론사가 북한 상공에 무인기를 침투시킨 작전을 합참이 보고받고 승인했는지 여부 등을 물어본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김건희 특검, 이준석 개혁신당 대표 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/MXQFX36BVVFDLLXXOHSEWNXPUU/</guid>
@@ -861,42 +927,6 @@
       <content:encoded>‘12·3 비상계엄’으로 정신적 피해를 입은 시민들에게 윤석열 전 대통령이 1인당 10만원의 위자료를 배상하라는 법원 판단이 나왔다. 서울중앙지법 민사2단독 이성복 부장판사는 25일 이금규 변호사 등 시민 104명이 윤 전 대통령을 상대로 낸 손해배상 청구 소송에서 “원고들에게 10만원씩 지급하라”며 원고 승소 판결했다. 이에 따라 윤 전 대통령을 상대로 한 줄소송이 이어질 것으로 보인다.&lt;br&gt;&lt;br&gt;이 부장판사는 “비상계엄 선포 및 조치를 지켜본 시민들이 공포와 불안, 불편, 자존감 저하, 수치심 등의 정신적 고통과 손해를 입은 것이 명백하다”며 “윤 전 대통령은 정신적 손해에 따른 위자료를 지급할 의무가 있고, 액수는 원고들이 청구한 각 10만원 정도를 충분히 인정할 수 있다”고 했다. 윤 전 대통령의 비상계엄 선포는 요건을 갖추지 못한 위법·위헌한 행위여서, 민법상 ‘고의에 의한 불법행위’에 해당한다고 판단한 것이다.&lt;br&gt;&lt;br&gt;원고 측은 “법원이 비상계엄의 국민 피해를 처음 인정한 판결”이라며 “향후 1만명 규모 소송을 이어갈 것”이라고 했다. 윤 전 대통령 측은 항소 여부를 검토 중이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4F7STTPACFE6RJTKZZEINGEQPE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇전국서 尹 상대 손배소 잇따를 듯&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 비상계엄 손해배상 판결에 대해 현직 고법 부장판사는 “터무니없는 판결로 보이진 않는다”고 했다. 그는 “이번 소송은 돈보다 상징적인 의미를 갖고 제기한 것으로 보인다”며 “전국민 누구나 비슷한 주장을 할 수 있고, 청구액을 높여서 소송을 낼 수도 있어서 이날 판결의 파급력은 상당할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이 소송은 윤 전 대통령 탄핵 심판에서 국회 측 대리인이었던 이금규 변호사 등이 작년 12월 소셜미디어를 통해 시민들을 모아 제기했다. 당시 소송 참여자 모집 글을 올린 지 2시간여 만에 104명이 모였다고 한다. 이 변호사는 지난달 순직 해병 특검보로 임명되면서 이 사건 대리인단에선 빠졌지만, 원고 지위는 그대로 유지하고 있다.&lt;br&gt;&lt;br&gt;이 소송은 지난달 한 차례 변론을 열고 심리를 마쳤다. 변론에서 원고 측은 “무장한 계엄군의 출동과 위협적인 행위로 생명과 신체에 대한 위협을 받았고, 민주주의를 쟁취하고 성숙한 민주사회 시민으로서 누리던 자존감마저 무너졌다”며 “국제사회의 우려·비하를 감수하는 처지가 돼 막심한 정신적 고통을 입었다”고 주장했다. 반면 윤 전 대통령 측은 소송 남발이라며 변론에 출석하지 않았다.&lt;br&gt;&lt;br&gt;이 부장판사는 이날 “배상액과 이자(연 12%)에 대해 가집행할 수 있다”고 명시했다. 대법원에서 판결이 확정되기 전이라도 법원 직권으로 일단 배상금을 지급할 수 있게 하겠다는 것이다. 하지만 실제 시민들이 윤 전 대통령으로부터 돈을 받아내기는 쉽지 않을 것이라는 게 법조계의 시각이다. 한 법조인은 “가집행을 막기 위해 윤 전 대통령이 강제집행정지를 신청할 가능성이 높고, 이는 법원에서 인용되는 경우가 많아 실제 배상이 이뤄질지 불투명하다”고 했다.&lt;br&gt;&lt;br&gt;줄소송이 이어져 같은 결과가 나오더라도, 윤 전 대통령 재산이 6억9000여만 원밖에 되지 않아 소송 당사자 모두가 위자료를 받기는 어려울 것으로 보인다. 정부 관보에 나온 윤 전 대통령 부부의 재산은 지난 4월 기준 총 79억9115만원이지만, 이 중 윤 전 대통령 재산은 예금 6억9369만원뿐이다.&lt;br&gt;&lt;br&gt;향후 재판에서 결과가 달라질 수도 있다는 의견도 나온다. 한 현직 부장판사는 “부당한 명령을 받은 군인 등은 정신적 피해를 주장할 수 있겠지만, 일반 시민의 피해는 그 정도를 판단하거나 입증하기가 쉽지 않다”며 “항소심에서 ‘배상 책임이 없다’고 결과가 뒤집힐 가능성이 커 보인다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이 부장판사는 이 사건이 자신의 마지막 판결이었다고 한다. 이달 말 정년 퇴임을 앞두고 있는 이 부장판사는 진보 성향 판사 모임인 국제인권법연구회 출신으로, 2017년 전국법관대표회의 의장을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>뜨거운 車 안에 배터리·탄산 캔 두지 마세요</title>
-      <link>https://www.chosun.com/national/education/2025/07/26/GKYHTLH6NZCBTI4HHBVZ3O3WDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/26/GKYHTLH6NZCBTI4HHBVZ3O3WDU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 15:54:00 +0000</pubDate>
-      <content:encoded>연일 30도가 넘는 폭염으로 인해 자동차 화재·폭발 위험이 높아지고 있는 가운데 차량 창문을 살짝 열어두는 것만으로도 내부 온도를 크게 낮출 수 있다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;한국교통안전공단은 25일 “실외 주차된 차량에서 실험한 결과 창문을 약간 열어놓은 경우 차량 전면에 있는 대시보드의 표면 온도는 6도, 전체 실내 온도는 5도 감소했다”며 “창문에 햇빛 가리개를 설치할 경우 실내 온도는 2도, 대시보드 온도는 20도까지 낮추는 효과가 있는 것으로 나타났다”고 밝혔다. 공단 측은 또 “장시간 바깥에 차량을 주차해 실내 온도가 크게 높아진 경우 조수석 창문을 열고 운전석 문을 여러 차례 열고 닫는 것만으로도 햇빛에 달궈진 내부 공기를 식히는 효과가 있다”고 했다. 공단 실험에서 차량 문을 3회 열고 닫은 경우 대시보드 온도는 8도, 실내 온도는 5도 감소한 것으로 나타났다. 실내 온도를 빠르게 낮추기 위해선 운전석 창문과 대각선 뒤쪽 좌석의 창문을 열고 주행하는 게 가장 효과가 있다고 공단은 설명했다. 서로 대각선 방향에 있는 창문을 열어야 전방에서 불어오는 바람을 뒤로 보내 내부 열기를 빠르게 배출할 수 있기 때문이다. &lt;br&gt;&lt;br&gt;공단 관계자는 또 “여름철 직사광선에 노출된 차량은 실내 온도가 최고 90도까지 치솟을 수 있다”며 “차 안에 스마트폰, 보조배터리, 일회용 라이터나 탄산 음료수 캔을 방치할 경우 폭발하거나 화재로 이어질 위험이 매우 크기 때문에 절대 차에 둬선 안 된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>압수 수색 당한 이영훈 목사 “특검 사과 기다린다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/26/6RZZTOALA5DJBJE4ABIHPUMVRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/6RZZTOALA5DJBJE4ABIHPUMVRQ/</guid>
-      <dc:creator>김한수 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 15:54:00 +0000</pubDate>
-      <content:encoded>이영훈 여의도순복음교회 담임목사가 25일 순직 해병 특검팀의 압수 수색과 관련해 “특검팀의 공식적인 유감 표명을 기다린다”며 사과를 요구했다. 특검의 압수 수색이 부당하다는 취지다.&lt;br&gt;&lt;br&gt;해병 특검팀은 지난 18일 임성근 전 해병 1사단장의 구명 로비 의혹과 관련해 참고인 신분인 이 목사의 자택과 여의도순복음교회 등을 압수 수색했다. 이에 대해 이 목사는 이날 서울 한 호텔에서 열린 행사에 참석해 “저는 임 전 사단장과 일면식도 없고 전화번호도 가지고 있지 않다”며 “특검팀이 문자와 카톡 3만5000건을 들여다봤지만 관련 혐의는 나오지 않아 핸드폰을 어제 돌려받았다. 특검팀은 아무런 해명도 하지 않고 있는데 변호사와 협의해 법적으로 대처할 생각”이라고 말했다.&lt;br&gt;&lt;br&gt;이 목사는 “임 전 사단장과는 2022년 9월 그 부대를 방문해 예배드린 우리 교단 군선교위원장이 연결해준 전화를 10~20초 정도 통화한 것이 전부”라면서 “참고인 신분인데 왜 이토록 무리하게 압수 수색했는지 모르겠다”고 말했다. 이 목사 주장에 대해 해병 특검팀은 “수사상 필요에 따라 적법하게 압수 수색 영장을 집행했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김 여사 착용 추정 목걸이 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/26/LFIO2K5Q5BEPLMWSQFVB5ZU7ME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/LFIO2K5Q5BEPLMWSQFVB5ZU7ME/</guid>
-      <dc:creator>김희래 기자, 표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 15:54:00 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 의혹을 수사 중인 민중기 특검팀이 25일 김 여사 모친 최은순씨와 오빠 김진우씨 등을 압수 수색하는 과정에서 김 여사가 2022년 6월 북대서양조약기구(NATO·나토) 정상회의 당시 착용했던 것으로 추정되는 목걸이를 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사는 나토 순방 당시 6000만원대 명품 목걸이 등을 착용했지만 재산 신고에 누락돼 논란이 일었다. 당시 대통령실에선 “지인에게 빌린 것”이라고 했지만 김 여사 측은 지난 5월 “착용한 장신구는 모조품을 산 것”이란 의견서를 검찰에 냈다. 특검은 이날 확보한 목걸이로, 김 여사 측 주장이 맞는지를 확인할 계획이다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘코바나컨텐츠 전시 협찬 의혹’ 등 관련 윤석열 전 대통령 부부 자택 등을 압수 수색하며 김 여사의 구두 사이즈도 촬영한 것으로 확인됐다. 김 여사 측근이 ‘건진법사’ 전성배씨로부터 샤넬 백 2개를 건네받아 250mm 신발 등으로 바꿨다는 의혹을 확인하기 위해서다. 특검은 이날 전씨를 통해 김 여사에게 명품 목걸이, 가방 등을 전달하려고 한 윤모 전 통일교 세계선교본부장에 대해 청탁금지법 위반 등 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OZNY34OQJEV3OMPILT4CWBSXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검에 출석하는 이상민 전 장관 - 이상민 전 행정안전부 장관이 25일 조은석 내란 특검의 조사를 받기 위해 서울 서초동 서울고검 청사로 출석하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 조은석 내란 특검은 이날 계엄 당시 언론사 단전·단수 의혹과 관련해 이상민 전 행정안전부 장관을 소환 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>친윤·친한 라인 퇴진… 非특수부 출신 약진</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/26/XOPIPPJHYBF6PIVR36TE2VTOTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/26/XOPIPPJHYBF6PIVR36TE2VTOTQ/</guid>
-      <dc:creator>이민준 기자, 김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 15:54:00 +0000</pubDate>
-      <content:encoded>법무부는 25일 검찰 고위 간부 33명에 대한 인사를 발표했다. 이재명 정부 출범 후 첫 대규모 검사장급 인사다. 이번 인사를 앞두고 이른바 ‘윤석열·한동훈 라인’으로 불렸던 특수부 출신 검사장들이 대거 사직했다. 이들이 물러난 자리는 형사부와 기획 파트에서 주로 근무했던 검사들이 채웠다. 이번 인사에서 승진한 신임 검사장은 18명으로 노무현 정부 이후 최대 규모다. 문재인 정부에서 중용됐다가 지난 정부 때 한직으로 밀려났던 일부 검사도 요직으로 되돌아왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TWZE4YB5JBFRVNLTJBAD4TQWGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘친윤·친한’ 검사들 대거 사직&lt;/b&gt;&lt;br&gt;&lt;br&gt;이번 인사를 앞두고 검사장급 이상 간부 16명이 사직했다. 윤석열 정부 때 법무부 검찰국장, 대검찰청 차장 등 핵심 보직을 거친 신자용 전 법무연수원장과 ‘대장동 개발 비리’ 등 이재명 대통령 관련 사건 수사를 지휘했던 송경호 전 부산고검장, 이 대통령의 ‘대북 송금’ 사건 수사를 지휘한 신봉수 전 대구고검장 등이 옷을 벗었다. 한동훈 전 국민의힘 대표가 법무장관일 때 검찰국장을 지낸 권순정 전 수원고검장도 떠났다. 윤석열 정부에서 검사장으로 승진했던 이영림 전 춘천지검장, 정유미 전 창원지검장, 박영진 전 전주지검장, 허정 전 대검 과학수사부장은 이번 인사에서 한직으로 분류되는 법무연수원 연구위원으로 발령 났다.&lt;br&gt;&lt;br&gt;이들이 비킨 자리엔 주로 형사부나 기획 업무 경력이 많은 간부들이 배치됐다. 이종혁 부산고검장과 장동철 대검 형사부장, 문현철 창원지검장, 정수진 제주지검장, 최영아 대검 과학수사부장 등이다. 서울중앙지검 형사4부장을 지낸 신대경 법무부 송무심의관도 전주지검장으로 승진했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇文정부 주요 보직자들, 다시 복귀&lt;/b&gt;&lt;br&gt;&lt;br&gt;문재인 정부 때 요직을 지냈다가 윤석열 정부에서 한직을 맴돌았던 검사들도 이번 인사에서 요직에 복귀했다. 구자현 서울고검장이 대표적이다. 구 고검장은 문재인 정부 때인 2018년 법무부 법무검찰개혁단장을 지냈고, 추미애 더불어민주당 의원이 법무장관으로 있을 때 법무부 대변인을 맡았다. 이후 서울중앙지검 3차장을 거쳐 법무부 검찰국장을 지냈다. 그러다가 윤석열 정권 출범 후 대전·광주고검 차장을 거쳐 작년 5월 법무연수원 연구위원으로 좌천됐다가 이번에 서울고검장으로 승진했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNLZLL22HRC7XICG3GQUMJPLHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터)구자현 서울고검장, 이종혁 부산고검장, 박철우 반부패부장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박철우 검사가 이번에 검사장으로 승진해 대검 반부패부장에 임명된 것도 눈에 띈다. 박 부장은 평검사 때 울산·광주지검 특수부에서 근무했고, 문재인 정부 때 구자현 고검장에 이어 법무부 대변인을 맡았고, 서울중앙지검 2차장 등을 지냈다. 그러나 윤석열 정부 들어서는 내내 대구·부산고검 검사 등 한직에 머물렀다. 그런 박 부장이 이재명 정권 출범과 함께 검찰의 부패 사건 수사를 총괄하는 핵심 보직에 임명된 것을 두고 검찰 안팎에선 “이 대통령 관련 수사와 재판을 염두에 둔 인사 같다”는 말이 나온다.&lt;br&gt;&lt;br&gt;이번에 검사장으로 승진한 차순길 대검 기획조정부장도 문재인 정부 때 법무부 공공형사과장, 정책기획단장 등을 지냈지만 윤석열 정부에선 검사장으로 승진하지 못했다. 그런 그는 서울고검이 지난 4월 김건희 여사의 ‘도이치모터스 주가조작’ 의혹 재수사를 결정할 때 고검 형사부장으로 관여했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 정부 요직 거친 검사들은 낙마&lt;/b&gt;&lt;br&gt;&lt;br&gt;반면 윤석열 정부 때 중요 사건 수사에 관여한 검사들은 검사장으로 승진하지 못했다. 서울중앙지검의 박승환 1차장, 공봉숙 2차장, 이성식 3차장 모두 이번 검사장 승진 인사에서 빠졌다. 김건희 여사가 연루된 ‘건진법사 청탁’ 의혹 수사를 맡았던 이희동 서울남부지검 1차장, 한동훈 법무장관 시절 법무부 대변인을 지낸 신동원 서울서부지검 차장, 검사장 승진 1순위로 꼽히는 자리인 수원지검 성남지청의 서정식 지청장도 검사장 승진에 실패했다. 대장동 개발 비리 수사를 맡았던 엄희준 인천지검 부천지청장도 검사장 승진 대상에서 빠졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>유급·제적은 학교가 판단… 본과 3·4학년에 추가 국시 기회</title>
       <link>https://www.chosun.com/national/education/2025/07/26/O7FPYWKXUBCEVF76ZM2TJREPBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/07/26/O7FPYWKXUBCEVF76ZM2TJREPBE/</guid>
@@ -922,33 +952,6 @@
       <description/>
       <pubDate>Fri, 25 Jul 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J7E5LVAXIVFJBPDCFWU6VOPVFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 신발 250㎜ 아니었다… 압수수색 때 샤넬 구두 찍어간 특검</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/FHOCSS2H2RDB7BJCOKD7SCGG6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/FHOCSS2H2RDB7BJCOKD7SCGG6M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 10:21:33 +0000</pubDate>
-      <content:encoded>이른바 ‘코바나컨텐츠 기업 협찬’ 의혹 등으로 김건희 여사를 25일 압수 수색한 민중기 특검팀이 압수 수색 현장에서 김 여사의 샤넬 구두 사이즈를 촬영한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5I5HXBL3KFLYVPO6I3PQU7I3RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇金 구두 사이즈, ‘바꿔 간 신발’ 250mm보다 커&lt;/b&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 이날 김 여사 사저와 코바나컨텐츠 사무실이 있는 서울 서초구 아크로비스타에 검사와 수사관 등 15명가량을 보내 김 여사를 압수 수색했다. 이때 압수 수색 집행 인력들은 신발장에 있는 김 여사의 샤넬 구두 등 신발의 사이즈 부분을 사진으로 찍었다고 한다.&lt;br&gt;&lt;br&gt;이는 김 여사를 지근거리에서 수행한 유경옥 전 대통령실 행정관이 ‘건진법사’ 전성배씨로부터 샤넬 백 2개를 건네 받아 신발과 다른 가방 3개로 바꿨다는 의혹과 관련이 있는 것으로 보인다. 앞서 건진법사 청탁 의혹을 수사한 서울남부지검은 샤넬코리아 압수 수색을 통해 유 전 행정관이 250mm 신발로 바꿔간 정황을 확보한 것으로 알려진 바 있다. &lt;br&gt;&lt;br&gt;그러나 특검이 이날 살펴본 김 여사의 신발은 250mm보다 큰 치수인 것으로 전해졌다. 김 여사 측 한 인사도 “김 여사의 발이 다른 여성보다 큰 편인 것으로 안다”고 말한 바 있다. 그러나 특검은 사이즈 차이가 크지 않은 점 등을 고려해 김 여사가 바꾼 신발을 수수했는지 여부를 계속 수사할 계획이다&lt;br&gt;&lt;br&gt;&lt;b&gt;◇특검, 휴대전화·수첩·노트북 확보&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 이날 압수 수색을 통해 김 여사의 휴대전화와 수첩, 노트북 등을 확보한 것으로 전해졌다. 수첩의 경우 김 여사가 15~20년 전 알고 지내던 지인들의 이름과 전화번호가 담긴 것으로 전해졌다. 휴대전화는 관저에서 퇴거한 이후 한 차례 교체한 것으로 알려진 바 있다. 노트북도 사용한 적이 거의 없어 새것이나 다름 없다고 한다.&lt;br&gt;&lt;br&gt;특검은 이 밖에도 수수한 것으로 지목된 명품이 보관돼 있는지 확인하기 위해 옷장 등을 일일이 열어봤다고 한다. 가방의 지퍼까지 열어 내용물이 들어있는지도 확인한 것으로 전해졌다. 김 여사가 여성인 점을 고려해 여성 수사 인력도 다수 투입된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹·金·컴투스 의장 피의자 적시&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검이 이날 집행한 압수 수색 영장엔 김 여사와 윤 전 대통령, 송병준 컴투스 의장이 코바나컨텐츠 기업 협찬 의혹과 관련해 특정범죄가중처벌법상 뇌물 혐의 피의자로 적시된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;컴투스는 지난 2015년 6월~2019년 4월 사이 김 여사가 운영한 코바나컨텐츠 전시회에 협찬한 기업 중 한 곳이다. 코바나컨텐츠가 기획한 ‘마크 로스코전’ ‘르 코르뷔지에전’ ‘알베르토 자코메티전’ 등에 총 2억1950만원을 협찬했다.&lt;br&gt;&lt;br&gt;컴투스가 코바나컨텐츠에 후원할 당시 윤 전 대통령은 박근혜‧최순실 국정농단 특검팀 수사팀장(2016년 12월~2017년 2월)과 서울중앙지검장(2017년 5월~2019년 7월)을 지냈다. 윤 전 대통령이 서울중앙지검장으로 있을 당시 컴투스와 송 의장은 회사 주식을 미신고한 혐의(자본시장법 위반)로 서울중앙지검 수사를 받다 무혐의 처분됐다. 이에 컴투스가 검찰 수사 무마를 위해 코바나컨텐츠에 협찬했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;특검은 오는 29일 김 여사를 조사하면서 관련 의혹을 캐물을 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“현대제철·한화오션, 사내 하청 노조와 산업안전 의제 단체교섭해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/25/5PTNRHB2OJCGHMRXNZOWZ6XFBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/25/5PTNRHB2OJCGHMRXNZOWZ6XFBM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 11:12:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXWRENCKERB45BUVCQPO3VPFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울행정법원 청사/전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원청 회사가 사내 하청업체 비정규직 노동조합과 산업안전 등 의제에 관해 단체교섭을 해야 한다는 법원 판결이 25일 잇따라 나왔다. 하청 근로자들의 근로 조건을 원청 회사가 실질적으로 결정하고 있다면 직접 고용주가 아니더라도 실제 사용자로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 25일 현대제철이 중앙노동위원회를 상대로 제기한 부당노동행위 구제 재심 판정 취소 소송에서 현대제철 청구를 기각했다.&lt;br&gt;&lt;br&gt;금속노조 충남지부 현대제철 비정규직지회는 2021년 7월 현대제철에 △산업안전보건 △차별시정 △직접고용원칙 및 불법파견 정규직 전환 △자회사 채용 중단 등 네 가지 의제에 대해 단체교섭을 요구했다. 현대제철이 이에 응하지 않자 지회는 충남지방노동위원회에 구제 신청을 했고, 충남지노위가 이를 기각하자 중노위에 재심을 신청했다. &lt;br&gt;&lt;br&gt;중노위는 이듬해 3월 “현대제철이 산업안전보건 의제에 대해 노동조합법상 사용자 지위가 인정되기 때문에 단체교섭을 거부한 것은 부당노동행위”라며 재심 신청을 인용했고 현대제철이 판정에 불복해 행정소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 중노위 판정이 타당하다고 판단했다. 재판부는 “사내 하청업체 근로자의 업무 방식과 산업안전 관련 각종 지침·작업표준 운영 상황, 근로자 투입·배치에 관해 결정권이 있다는 점 등을 종합하면 현대제철은 산업안전보건 의제에 대해 사용자 지위에 있다고 봐야 한다”고 했다. &lt;br&gt;&lt;br&gt;같은 재판부는 이날 한화오션이 중노위에 제기한 부당노동행위 구제 재심 판정 취소 소송에서 “성과급·학자금 지급과 노동안전 관련 의제에 대해선 단체교섭 의무가 있다”고 판결했다. &lt;br&gt;&lt;br&gt;2022년 금속노조 거제·통영·고성 조선하청지회는 한화오션(당시 대우조선해양)에 △성과급 지급 △학자금 지급 △노동조합 활동 보장 △노동안전 △취업방해 금지 등 5가지 의제에 대해 단체교섭을 요구했으나 한화오션은 응하지 않았다. 이에 지회가 경남지노위를 거쳐 중노위에 재심을 신청했다.&lt;br&gt;&lt;br&gt;중노위는 같은 해 12월 “한화오션이 사내 하청업체 소속 근로자의 노동조건에 대해 실질적인 지배력을 행사하는 범위에서 단체교섭에 응할 의무가 있다”고 판정했다. 이에 한화오션이 재심 판정을 취소해달라고 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판부는 5가지 의제 중 △성과급 지급 △학자금 지급 △노동안전 등 세 가지 의제에 대해선 한화오션이 노조법상 사용자 지위에 있다고 판단했다. 다만 나머지 노조 활동 보장과 취업방해 금지에 대해선 한화오션에 단체교섭 의무가 없다고 봤다. 재판부는 “원청이 사내 하청업체 근로자와 단체교섭 의무가 있는지는 교섭 요구 의제에 대해 실질적이고 구체적으로 지배·결정하는 지위에 있는지 따져야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 두 사건을 판결하면서 공통적으로 “노조법이 규정하는 ‘단체교섭 의무가 있는 사용자’에는 근로조건 등을 실질적이고 구체적으로 지배·결정할 수 있는 지위에 있는 자도 포함한다고 해석해야 한다”고 했다. 원청 회사가 사내협력업체 근로조건 등을 실제 결정하고 있다면 사용자로 봐야 한다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>방콕보다 뜨거운 한반도...수도권 주말 최고 38도  </title>
-      <link>https://www.chosun.com/national/transport-environment/2025/07/25/JQ4HTA75WNGQFERZMRIJL6DSSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/25/JQ4HTA75WNGQFERZMRIJL6DSSM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 25 Jul 2025 11:32:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DG7SKBNWNNKWRNXMV6RBYLWQPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염경보가 내려진 25일 오후 서울 영등포구 여의대로 위로 지열로 인한 아지랑이가 피어오르고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대부분 지역에 폭염특보가 발효된 가운데 25일 서울은 동남아 주요 도시보다 더웠다. 세계기상정보서비스에 따르면, 이날 오전 10시(현지 시각) 베트남 하노이는 31도였는데, 서울은 오전 10시 31.9도를 기록했다. 태국 방콕은 낮 12시(현지 시각) 33도였고, 서울은 33.9도까지 올랐다. &lt;br&gt;&lt;br&gt;주말인 26~27일에도 전국적으로 밤낮없는 무더위가 이어질 전망이다. 현재 우리나라 상공에는 고온다습한 북태평양 고기압과 그 위에 고온건조한 티베트 고기압이 겹쳐 있다. 티베트 고기압의 영향으로 상층 대기가 천천히 내려오면서 북태평양 고기압을 강화하는 구조다. 이처럼 공기가 천천히 아래로 내려오면 100m당 0.7~1도씩 기온이 오르기 때문에 폭염은 더 심해지는 것이다. 두 겹의 ‘공기 이불’은 여름철 자주 나타나지만, 두 고기압이 어긋나지 않고 겹쳐지면 무더위는 극대화된다. 북태평양 고기압과 티베트 고기압이 한반도 상공에서 올해처럼 견고하게 맞물린 1994년과 2018년에도 기록적인 폭염이 나타났다.&lt;br&gt;&lt;br&gt;북태평양 고기압을 따라 부는 남동풍이 습도까지 높이고 있다. 당분간 최고 체감 기온은 전국 대부분 지역에서 35도 안팎에 이를 전망이다. 특히 남동풍이 산맥을 넘어 서쪽으로 이동하면서 더 뜨거워지는 탓에, 서쪽 해안과 도심 지역을 중심으로 폭염과 열대야가 이어질 것으로 보인다. 26~27일 최고 기온은 수도권 34~38도, 영남 32~35도, 호남 31~36도, 충청 34~37도, 강원 30~35도, 제주 30~32도 등으로 예보됐다.&lt;br&gt;&lt;br&gt;제주도에는 주말 동안 5~50㎜의 비가 내리겠다. 현재 한반도 남쪽 해상에는 제7호 태풍 프란시스코와 제8호 태풍 꼬마이가 위치해 있다. 태풍이 북상하면 제주도를 기준으로 북쪽에는 고기압, 남쪽에는 저기압이 형성되면서 기압 차가 커지고, 수증기를 머금은 남동풍이 제주도로 더욱 강하게 유입되는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
