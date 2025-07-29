@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박수홍, 법적 다툼 중인 식품업체 대표에 ‘협박 혐의’로 고소 당해</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 10:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQZXSPUUID7BNM2B7JCNQXDQV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍이 법적 다툼을 벌이고 있는 식품업체 대표로부터 협박 혐의로 고소를 당한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;29일 서울 강남경찰서는 모 식품업체 대표이사 A씨가 박수홍 측으로부터 협박을 당했다며 지난 14일 고소장을 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 박수홍의 소속사는 2023년 9월 ‘A씨 업체가 박수홍의 얼굴을 광고에 무단 사용했다’며 5억원 상당의 약정금 청구 소송을 낸 바 있다. 해당 사건은 현재 수원지법 성남지원에서 심리 중이다.&lt;br&gt;&lt;br&gt;A씨는 박수홍 측 변호사가 해당 소송 제기 직전 강압적으로 사과를 요구했고, 이 과정에서 자신을 협박했다고 주장하고 있다. &lt;br&gt;&lt;br&gt;다만 A씨는 박수홍 측 변호사의 행위는 박수홍의 지시를 받은 것이라며 박수홍을 고소했다. &lt;br&gt;&lt;br&gt;경찰은 고소장과 피해자 진술 등을 토대로 자세한 사건 경위를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염 속 온열질환자 일주일째 세 자릿수…통계 집계 이후 최장 기록</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/29/6RW5DXLYDZAXZAT3XVOGW2FHJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/29/6RW5DXLYDZAXZAT3XVOGW2FHJA/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 09:34:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKW6ADVFN5NDLEASQXDWBHR5NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 29일 서울 시내 한 건설 현장 혹서기 근로자 휴게실에서 작업자들이 휴식을 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염의 기세가 꺾이지 않으면서 하루 동안 전국 응급실에 이송된 온열질환자가 일주일째 매일 100명을 넘기고 있다. 7일 연속으로 온열질환자가 매일 100명 이상 발생한 것은 관련 통계가 집계된 2011년 이후 처음이다.&lt;br&gt;&lt;br&gt;29일 질병관리청에 따르면 전날(28일) 하루 동안 전국 500여곳 응급실을 찾은 온열질환자는 164명(잠정치)이다. 이 가운데 경기도 화성시에서 1명이 사망했다. &lt;br&gt;&lt;br&gt;온열질환자는 지난 22일 이후 7일째 매일 100명 넘게 발생하고 있다. 관련 통계가 집계된 이후 최장 기록이다. 이전에는 ‘역대급 폭염’으로 꼽히는 2018년 7월 23일부터 28일까지 엿새 연속 매일 100명 이상의 온열질환자가 나온 적이 있다.&lt;br&gt;&lt;br&gt;올해 5월 15일 온열질환 감시체계가 가동된 이후 누적 온열질환자는 2631명이다. 이 가운데 사망자는 12명이다. 지난해 감시 시작일인 5월 20일부터의 수치만 보면 온열질환자는 2615명으로 전년 동기(1007명)와 비교해 2.6배 규모다. 올해 사망자는 지난해 같은 기간(4명) 대비 3배에 달한다.&lt;br&gt;&lt;br&gt;온열질환은 고온 환경에 노출됐을 때 발생하는 급성 질환이다. 통상적으로 두통, 어지러움, 근육경련, 피로감 등의 증상을 동반한다. 제때 적절한 조치가 이뤄지지 않으면 의식 저하가 나타나면서 생명이 위태로울 수도 있다. &lt;br&gt;&lt;br&gt;온열질환을 예방하려면 시원한 곳에서 자주 휴식을 취하고, 갈증이 나지 않더라도 물을 자주 마셔야 한다. 가장 더운 시간대인 정오부터 오후 5시까지는 외출을 삼가는 게 좋다. 외출할 때는 양산과 챙이 넓은 모자를 쓰고, 밝은 색의 가벼운 옷을 입는 게 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>녹 눈물 흘리던 독립문, 12년 만에 목욕한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/29/7M6FAAS52NEJRBLMY5WH7W27W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/7M6FAAS52NEJRBLMY5WH7W27W4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 08:34:09 +0000</pubDate>
+      <content:encoded>서울 서대문구에 있는 독립문이 12년 만에 ‘목욕’을 한다. 외벽의 녹물 자국과 검은 때를 제거하는 것이다. 녹물의 원인인 철제 지지대도 티타늄 소재로 바꿔 녹물 발생도 줄인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSFO4ZECT5YDKSUADNG53MEOKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 독립문의 현판. /경기도박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 서대문구에 따르면, 구는 다음 달 중순부터 독립문 보수 공사에 나선다. 이를 위해 지난 28일에는 공사 입찰 공고를 냈다.&lt;br&gt;&lt;br&gt;서대문구가 독립문을 보수하기로 한 건 외벽에 생긴 녹물 자국 때문이다. 독립문은 돌을 고정하기 위해 돌 사이사이에 철제 지지대를 넣어 지었다. 이 지지대가 빗물에 녹슬어 흘러내리면서 자국이 생긴 것이다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 “녹물 자국이 생긴 자리가 70곳에 달한다”고 했다.&lt;br&gt;&lt;br&gt;서대문구는 레이저 등 방식을 활용해 녹물 자국을 없앤다는 계획이다. 앞으로 녹물 자국이 생기는 것을 막기 위해 철제 지지대 32개는 티타늄 소재로 바꾸고, 교체가 어려운 나머지 85개는 녹이 잘 슬지 않도록 조치를 취할 예정이다.&lt;br&gt;&lt;br&gt;이처럼 서대문구가 독립문 녹물 제거 작업에 나서는 건 2013년 이후 12년 만이다. 당초 독립문 외벽이 지저분하다는 민원이 제기되자 2019년부터 정비를 추진했지만, 예산 신청과 국가유산청 심의 등 문제로 지연됐다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 “공사를 마치는 데 6개월 정도가 소요될 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기도민 ’10명 중 1명’이 가입한 이 앱은? </title>
+      <link>https://www.chosun.com/national/regional/2025/07/29/XVRQLK44P5DEVMIVRCB5IKOY4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/29/XVRQLK44P5DEVMIVRCB5IKOY4M/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 08:44:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWJNTZLOE5APFJWTTOR2ORD7VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 기후행동 기회소득 홈페이지 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;탄소 저감 활동 등에 참여한 실적에 따라 연간 최대 6만원의 지역 화폐를 주는 ‘경기도 기후행동 기회 소득’ 모바일 앱 가입자가 144만명을 넘어선 것으로 집계됐다.&lt;br&gt;&lt;br&gt;경기도에 등록된 인구 1419만명의 10%를 넘은 것으로, 도민 10명 중 1명은 이 앱을 사용하고 있는 셈이다.&lt;br&gt;&lt;br&gt;29일 경기도에 따르면 지난 23일 기준 앱 가입자가 141만9000명으로 전체 도민의 10%를 돌파한 데 이어 이날 오전 144만명이 가입한 것으로 집계됐다. 지난해 7월 11일 출시한 이 앱은 2주 만에 가입자 10만명을 달성한 데 이어 7개월여 만인 올해 2월 100만명을 넘어섰다.&lt;br&gt;&lt;br&gt;기후행동 기회소득은 일상생활에서의 온실가스 감축 활동을 보상하는 경기도의 정책 사업이다.&lt;br&gt;&lt;br&gt;7세 이상 경기도민이면 누구나 앱을 내려받아 기후행동을 실천하고 참여 실적에 따라 매월 20일에 지역 화폐로 보상을 받을 수 있다. 연간 최대 6만원까지 지급된다.&lt;br&gt;&lt;br&gt;실적을 쌓을 수 있는 기후 행동 실천 활동은 다양하다. 플로깅(조깅을 하면서 쓰레기를 줍는 것) 참여, 가정용 태양광 발전 설비 설치, 고효율 가전제품 구입, 배달 음식 다회 용기 사용, 대중교통 이용, 걷기, 자전거 이용 등 모두 16가지다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “경기도민이 기후 위기에 대응하는 실천 사항을 보상함으로써 온실가스 감축 활동을 권장하는 것은 물론, 그에 대한 보상을 지역 화폐로 지급해 지역 경제 활성화에도 기여하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, “인천 사제 총기 살인범, 고립감·망상 등으로 범행”</title>
       <link>https://www.chosun.com/national/incident/2025/07/29/LISPQWHORFEFZLFHGHDI5HA7OI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/29/LISPQWHORFEFZLFHGHDI5HA7OI/</guid>
@@ -851,15 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7BR5NF3C5NHLHHFMNKPIPD2K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 KT광화문빌딩 웨스트에 마련된 김건희 특감 사무실 앞에 취재진이 대기하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀은 28일 김 여사의 친오빠 김진우씨를 소환해 조사하고 있다고 밝혔다. 김씨는 이날 오후 3시 55분쯤 변호인과 함께 서울 광화문에 있는 특검 사무실에 출석했다.&lt;br&gt;&lt;br&gt;특검이 살펴보는 김씨의 의혹은 크게 두 갈래로 나뉜다. 우선 특검은 김씨의 ‘양평 공흥지구 개발 특혜’ 의혹을 수사하고 있다. 김 여사 일가가 2013년 당시 양평군수였던 김선교 의원으로부터 공흥지구 개발 사업 관련 인허가 특혜, 사업 지연 소급 승인 특혜, 개발부담금 면제 특혜 등을 받아 100억원 이상의 재산상 이득을 취했다는 게 핵심이다.&lt;br&gt;&lt;br&gt;김 여사 일가 회사인 ESI&amp;amp;D는 2011~2016년 양평군 공흥리 일대 부지 2만2411㎡에 도시개발사업을 진행해 350세대 규모의 아파트를 건설했다. 그런데 2021년 윤석열 전 대통령이 대선에 출마한 이후 이 사업을 두고 여러 특혜가 있었다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;양평군은 원래 이 사업에 대해 ESI&amp;amp;D에 2012년 11월부터 2014년 11월까지 2년간 사업 기한을 인가했다. ESI&amp;amp;D는 기한이 지나고도 별도 연장 신청 없이 미인가 상태로 사업을 진행했다가 양평군이 뒤늦게 사업 기간을 연장해주며 특혜를 받았다는 것이다. 또, ESI&amp;amp;D는 이 사업으로 798억원의 분양 실적을 거뒀지만, 토지 개발 과정에서 발생하는 땅값의 차익을 환수하는 제도인 개발부담금을 내지 않았다. 양평군은 2016년 7월 공흥지구 공사가 끝난 뒤에 17억여원의 개발부담금을 이 업체에 부과했는데, 김 여사 오빠 김씨가 토사 운반 관련 서류를 꾸며 양평군에 제출하는 방식으로 개발비를 부풀려 결국 양평군이 개발부담금을 0원으로 줄였다. 이에 김 여사 일가와 양평군이 유착해 이 같은 편의를 봐준 것이 아니냐는 의혹이 제기된 상태다.&lt;br&gt;&lt;br&gt;이 밖에도 김씨는 김 여사의 ‘명품 목걸이 재산 신고 누락’ 의혹과 관련해서도 특검 수사 대상에 올랐다. 특검은 지난 25일 김 여사와 김씨, 김 의원의 자택과 사무실 등을 압수 수색할 때 김씨 장모의 집도 함께 압수 수색했는데, 이때 김 여사가 2022년 6월 나토정상회의 순방 당시 착용한 것으로 추정되는 프랑스 명품 ‘반클리프 앤 아펠’ 목걸이로 추정되는 보석류를 확보했다. 이 목걸이 가격은 6000만원으로 알려졌는데, 김 여사가 공직자 재산 신고에 이 목걸이를 빠뜨렸다는 의혹이 순방 직후 제기됐었다. 김 여사 측은 지난 5월 이 의혹을 수사하던 검찰에 “목걸이는 모조품”이라는 취지의 진술서를 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검, ‘평양 무인기 침투 작전’ 국방부·합참에 사전 대면 보고 진술 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/28/HLZYSP2XNNFSVM6VTQRIAMP2PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/HLZYSP2XNNFSVM6VTQRIAMP2PQ/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 07:13:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IR53X6QSNJMNLGLAF37CNOF2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 신원식 당시 국가안보실장이 정부서울청사에서 열린 안보관계장관회의에 참석해 회의 시작을 기다리고 있다. /대통령실통신사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 ‘평양 무인기 침투 작전’과 관련해 김용대 드론작전사령관이 작년 6~9월 신원식 전 국방부 장관과 김명수 합동참모본부 의장에게 사전 대면 보고를 했다는 진술을 확보한 것으로 28일 알려졌다. 보고 자리에는 드론사의 다른 관계자들도 동석했다고 한다.&lt;br&gt;&lt;br&gt;이러한 내용은 내란 특검이 최근 합참 관계자들을 불러 조사하는 과정에서 나온 것으로 보인다. 내란 특검은 지난 25일 정광웅 전 합참 작전기획부장, 정상진 전 합참 합동작전과장 등을 비공개 소환했다. 이들은 작년 10~11월 합참 작전본부에 근무하면서 이승오 합참 작전본부장의 지시에 따랐던 인물들로, 김용대 사령관과 함께 평양 무인기 침투 작전의 감독 및 지휘를 담당했던 것으로 전해진다.&lt;br&gt;&lt;br&gt;그간 군 내부에선 평양에 무인기를 침투하기 전인 작년 9월까지 김용현 전 국방부 장관이 공식 지휘 계통을 건너뛰고 드론사와 직접 소통했을 가능성이 언급됐었다. 해군 출신인 김명수 합참의장을 패싱한 것 아니냐는 의혹도 제기됐었다. 그러나 김용대 사령관은 앞선 특검 조사에서 작년 6월부터 합참 보고가 이뤄졌다고 주장한 것으로 파악된다. 합참의 지시 없이는 작전을 진행할 수 없었고, 해당 작전이 김용현 전 장관에게 보고된 건 작년 9월 김 전 장관이 국방부 장관으로 취임한 이후였다는 것이다.&lt;br&gt;&lt;br&gt;하지만 내란 특검은 여전히 추가 조사가 필요하다는 입장이다. 한 특검 관계자는 “(평양 무인기 침투 작전이) 국방부와 합참에서 승인한 정상 작전이라면 (김용대 사령관이) 드론 소실을 허위 보고했을 이유가 없지 않겠느냐”며 “수사 방향에는 변화가 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>술 취해 일면식 없는 같은 아파트 주민 폭행 살해한 50대男  </title>
       <link>https://www.chosun.com/national/2025/07/28/NDIRLNM2RBGKZBMD4XO4OTFC6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/28/NDIRLNM2RBGKZBMD4XO4OTFC6Y/</guid>
@@ -921,33 +948,6 @@
       <description/>
       <pubDate>Mon, 28 Jul 2025 06:21:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV24JR7M6FHJVO5DLU7G3E7WAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화시스템이 제주 서귀포시 하원테크노캠퍼스에 구축하는 제주한화우주센터 조감도. /한화시스템&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 우주산업의 거점인 하원테크노캠퍼스 산업단지 조성 사업이 본궤도에 오른다.&lt;br&gt;&lt;br&gt;28일 제주도에 따르면 하원테크노캠퍼스 전략환경영향평가 초안을 공개하고, 다음 달 29일까지 주민 의견을 받는다. 산업단지 조성 사업과 전략환경영향평가에 대한 합동설명회는 다음 달 18일 하원마을 복지회관에서 열린다.&lt;br&gt;&lt;br&gt;이번 사업은 기존 부지 매입비를 포함해 총 1133억원을 투입해 옛 탐라대학교 부지(30만2901㎡)를 산업단지로 조성한다.&lt;br&gt;&lt;br&gt;토지 이용계획을 보면 산업시설 12만8699㎡(42.5%), 공공용지(공원·도로·주차장 등) 12만4461㎡(41.25), 지원시설 3만4659㎡(11.4%), 복합용지 1만2246㎡(4%), 상업시설 2836㎡(0.9%) 등이다.&lt;br&gt;&lt;br&gt;하원테크노캠퍼스 부지에 입주한 한화우주센터는 공정률 75%(6월 말)로, 오는 10월 준공한다. 1000억원이 투입된 한화우주센터는 지구 관측용 고성능 영상레이더(SAR) 위성을 한 달에 8기까지 생산할 수 있는 설비를 갖추고, 최대 300명을 고용한다. SAR위성은 구름이 잔뜩 낀 날이나 빛이 없는 밤에도 지형과 공간 정보를 확보할 수 있는 영상레이더(SAR)와 전자광학(EO), 적외선(IR) 장비가 탑재된다.&lt;br&gt;&lt;br&gt;또 카이스트(KAIST) 항공우주공학과 학부생들이 창업한 우주 발사체 개발 기업인 페리지에어로스페이스 등 총 22개 우주산업 관련 기업이 입주 의향서를 제출했다.&lt;br&gt;&lt;br&gt;제주도는 오는 11월 산업단지 고시가 이뤄지면 실시계획을 수립해 교통·재해·환경영향평가를 진행한다.&lt;br&gt;&lt;br&gt;2028년 말 하원테크노캠퍼스가 준공되면 총 1627명의 연구원 등 전문인력이 상주하게 되며, 제주지역 우주산업 전초기지로 떠오르게 된다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “인허가 절차가 마무리되면 2027년부터 산업단지 조성을 위한 본격적인 공사를 착수해 2028년 말에 준공한다는 계획”이라며 “첨단 입주 기업을 전폭적으로 지원해 하원테크노캠퍼스를 대한민국 민간 우주산업의 핵심 거점으로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘건진법사 청탁’ 의혹 통일교 전 본부장, 30일 구속영장 심사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/28/TKJTPDR6HFHZXCZYHO7KVJWL6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/TKJTPDR6HFHZXCZYHO7KVJWL6E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 05:17:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDFVWELPU5PW7CEDWPCBXCCEGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 서울 종로구 김건희 특검팀(민중기 특별검사) 사무실 앞에서 취재진이 대기하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨를 통해 김건희 여사에게 통일교 현안을 청탁하고 그 대가로 다이아몬드 목걸이 등을 건넨 혐의를 받는 윤모 통일교 세계선교본부장의 구속 여부를 결정할 구속영장 실질심사가 30일 열린다.&lt;br&gt;&lt;br&gt;정재욱 서울중앙지법 영장전담 부장판사는 오는 30일 오전 10시 30분부터 정치자금법 위반 등 혐의를 받는 윤씨에 대한 영장실질심사를 진행한다고 28일 밝혔다. 김건희 여사 관련 의혹을 수사 중인 민중기 특검팀은 지난 26일 ‘건진법사 청탁’ 사건과 관련해 윤씨에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;윤씨는 통일교 내 ‘2인자’로 불렸던 인물로, 전성배씨를 통해 2022~2023년 통일교 현안을 김 여사에게 청탁하고 6000만원 상당의 ‘그라프’사 다이아몬드 목걸이와 1000만원 상당의 샤넬 핸드백 2개, 고가의 천수삼농축차 등을 건넨 혐의를 받고 있다. 통일교 측은 그 대가로 캄보디아 메콩강 개발사업 지원, YTN 인수, 국제연합(UN) 제5사무국 한국 유치, 대통령 취임식 초청 등을 부탁한 것으로 특검은 의심하고 있다. &lt;br&gt;&lt;br&gt;특검은 앞서 지난 18일 경기 가평군 통일교 세계본부와 서울 용산구 본부교회 등에 검사와 수사관을 보내 압수 수색을 했고, 나흘 만인 22일 윤씨를 소환해 조사했다. 윤씨는 구속영장이 청구되자 “수사에 충분히 협조해왔는데 가장 강도 높은 수사 방식인 구속영장 청구가 이뤄진 것에 대해 깊은 유감을 표한다”며 “모든 법적 절차에 성실히 임해 저의 무고함을 끝까지 입증해나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤씨는 앞서 검찰 조사에서 청탁 명목으로 건넨 금품 등은 모두 ‘한학자 총재의 뜻에 따랐고 결재를 받은 사안’이라고 진술한 것으로 알려졌다. 그는 명품 구매에 대해 “개인 카드로 (명품 등을)선구매한 후 통상적 절차에 따라 영수증을 첨부한 품의서를 통해 회계처리를 요청했다”며 “투명성과 책임을 확보하기 위한 일상적인 행정 실무였다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>환자단체 만나 고개 숙인 전공의 협의회 “불편 겪은 국민께 사과”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/28/3DTTCOYGMBAHJGASGMPLEQVVPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/28/3DTTCOYGMBAHJGASGMPLEQVVPI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 04:23:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OD7HQQNGPNINLPAX6MRSABDCVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한성존 대한전공의협의회 비상대책위원장(오른쪽)이 28일 서울 영등포구 한국환자단체연합회을 찾아 안기종 한국환자단체연합회 대표와 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의 단체가 28일 환자단체를 찾아 의정갈등으로 불편과 불안을 겪은 국민에게 사과했다. 전공의 단체가 환자단체 등 국민에게 사과를 한 것은 지난해 2월 의정갈등이 불거진 뒤 처음이다.&lt;br&gt;&lt;br&gt;한성존 대한전공의협의회 비상대책위원장은 이날 서울 영등포구 한국환자단체연합회 사무실에서 환자단체 대표들과 만나 “1년 5개월 이상 길어진 의정갈등으로 인해 불편을 겪고 불안하셨을 국민 여러분께 사과의 말씀을 드린다”며 “이 사태가 장기화한 데 대해 의료계 또한 책임에서 자유롭지 않다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;한 위원장은 “의료계를 대표하고 이끄는 위치에 있었던 일부 의사들의 부적절한 언행으로 국민 여러분께 심려를 끼쳐드린 점도 대한민국의 일원인 젊은 의사로서 깊이 사과드린다”며 “저희는 앞으로 전문성을 바탕으로 사회적인 책무를 다하고 보다 나은 의료 환경을 만들기 위해 노력하겠다”고 했다. 그러면서 “긴 세월 국민과 의료계 모두 상처받고 힘든 시간을 보냈다”며 “이런 일이 다시 생기지 말아야 한다는 점에는 공감한다”고도 했다.&lt;br&gt;&lt;br&gt;한 위원장은 “전 정권에서 경험했듯 온갖 불법적 명령과 과도한 규제, 억압으로는 아무것도 해결할 수 없다”며 “앞으로 우리에게 필요한 건 회복된 신뢰를 바탕으로 대한민국 미래 의료를 재건하는 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;안기종 환자단체연합회 대표는 이 자리에서 전공의들에게 조건 없는 복귀와 재발 방지 약속 등을 촉구했다. 안 대표는 모두발언 전 “(그간) 사과를 요구했는데, 먼저 사과를 해주셔서 머쓱하다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;안 대표는 “정부와 여당이 특혜성 조치로 전공의 복귀를 지원한다면 의료공백 상황을 방조하는 것과 같다”며 “전공의 복귀는 조건 없는 자발적 복귀여야 한다”고 강조했다. 그러면서 “집단사직의 방식으로 의료현장을 한꺼번에 떠나 집단행동을 1년 6개월째 이어온 점에 대해 전공의들의 반성이 있어야 한다”며 “다시는 환자의 생명을 정부 정책에 반대하는 수단으로 사용하지 않겠다는 약속이 필요하다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이차전지 기술 해외 유출 시도 前 대기업 팀장 등 3명 기소</title>
-      <link>https://www.chosun.com/national/regional/2025/07/28/YU4KEC3MPJGLHO2UIALSYFZA7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/28/YU4KEC3MPJGLHO2UIALSYFZA7A/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 03:49:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3I462KBL6MZBOOJEPES5WXOC7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특허청 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전지검 특허범죄조사부와 특허청 기술디자인특별사법경찰(기술경찰)은 국가첨단전략기술이 포함된 이차전지 관련 자료를 허가 없이 빼돌린 국내 이차전지 대기업 전직 팀장 A(48·구속)씨와 공범 등 3명을 국가 첨단전략산업 경쟁력 강화 및 보호에 관한 특별조치법, 부정경쟁 방지 및 영업비밀 보호에 관한 법률 위반 등 혐의로 기소했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;검찰과 기술경찰에 따르면, A씨는 2023년 10월 에이전트 C(35·불구속)씨를 통해 해외 소재업체 대표를 만나는 등 이직을 고려하던 도중, 같은 해 11월 팀장에서 면직된 후 퇴사를 결심하고 11월부터 지난해 2월 퇴사 시까지 자택 등에서 업무용 노트북으로 피해기업 가상 PC에 접속, 촬영하는 수법으로 피해기업의 자료를 무단 반출한 혐의를 받고 있다. A씨는 지난해 10월 피해기업에 재직 중이던 B(45·불구속)씨를 통해 추가로 자료를 부정하게 취득한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 빼돌린 자료에는 현재 수조원에서 십수조원 단위 계약이 진행 중인 이차전지 주요 품목의 셀 설계 정보와 제품·기술 개발, 제조·원가 로드맵 같은 중장기 종합 전략 자료, 음극재 등 핵심 소재 개발 정보 등이 포함돼 있었다고 한다. 사진 파일 3000여 장에 이르며, 이 중 일부는 국가첨단전략기술 및 국가핵심기술에 해당하는 자료로 알려졌다.&lt;br&gt;&lt;br&gt;특허청은 만약 A씨가 빼돌린 자료 중 국가첨단전략기술 등 핵심 정보가 포함된 자료가 해외로 유출되었다면, 피해기업의 십수조원대 계약 규모, 막대한 연구·개발(R&amp;amp;D) 비용, 국내 이차전지 산업생태계에 미치는 영향 등을 고려하면 피해 규모는 예측조차 어려울 정도라고 밝혔다.&lt;br&gt;&lt;br&gt;기술경찰은 지난해 11월 국가정보원 산업기밀보호센터로부터 A씨의 혐의에 대한 첩보를 받고 수사에 착수했다. 이어 지난해 12월 A씨 주거지에 대한 압수수색을 통해 3000여 장의 사진 파일등 관련 증거를 확보했다. 이후 증거자료를 분석해 A씨가 피해기업 직원 B씨를 만나 추가로 자료를 부정 취득한 사실, C씨를 통해 해외 소재업체 접촉 사실 등을 확인해 B씨와 C씨를 추가로 입건했다.&lt;br&gt;&lt;br&gt;기술경찰은 수사 전 과정에 걸쳐 대전지검 특허범죄조사부와 협력했고, 이 과정에서 A씨가 빼돌린 피해기업 자료 중 국가첨단전략기술이 포함돼 있다는 사실을 산업통상자원부로부터 확인받고, A씨를 구속 수사로 전환해 송치했다.&lt;br&gt;&lt;br&gt;김완기 특허청장은 “기술 유출은 국가 안보와 경제에 심각한 위협을 초래할 수 있다”며 “특허청 기술경찰은 앞으로 관련 기관들과 적극 협력해 미래 먹거리인 첨단기술을 지켜낼 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;대전지검 관계자는 “추징보전 등을 통해 범죄수익을 철저히 환수하는 한편 특허청, 국정원 산업기술보호센터와 긴밀히 협력해 기술 유출 범죄에 더 엄정하게 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>어린이집 CCTV로 보육교사 근태 확인해 징계하려던 원장… 대법원 “위법”</title>
