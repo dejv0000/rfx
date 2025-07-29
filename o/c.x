@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>韓 계주 첫 금메달 주인공…알고보니 ‘태양의 후예’ 아역이었다</title>
+      <link>https://www.chosun.com/national/people/2025/07/29/S5RHMTLKBVAFTACVD5RCHEWRCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/29/S5RHMTLKBVAFTACVD5RCHEWRCQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 12:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HOG7O43XJHOPDYW3DKHSP2CD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 대표팀이 사상 처음으로 세계 종합대회 육상 계주 종목에서 금메달을 획득한 가운데 멤버 중 한 명이 과거 드라마 ‘태양의 후예’ 아역 배우 출신인 것으로 알려져 화제가 되고 있다. &lt;br&gt;&lt;br&gt;지난 27일(현지 시각) 독일에서 열린 라인-루르 하계 유니버시아드(U대회) 남자 400m 계주 결선에서 서민준(서천군청)과 나마디 조엘진(예천군청), 이재성(광주광역시청), 김정윤(한국체대)으로 구성된 한국 대표팀은 38초50 기록으로 금메달을 땄다. 한국이 세계 종합대회 육상 계주에서 우승한 건 이번이 처음이다. &lt;br&gt;&lt;br&gt;예선 7위(39초 14)로 결선에 오른 한국 대표팀은 결선에서 남아공을 0.3초 차로 따돌리며 짜릿한 역전승을 거뒀다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O35BPZLL2BEXLITZWMVNMLHSLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 U대회 육상 남자 400ｍ 계주에서 우승한 김정윤(왼쪽부터), 이재성, 나마디 조엘진, 서민준.
+/대한육상연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 2006년생인 조엘진은 지난 2016년 인기리에 방영된 KBS2 드라마 ‘태양의 후예’에 아역배우로 출연한 이력이 있다. &lt;br&gt;&lt;br&gt;조엘진은 극중 우르크라는 가상 재난 지역에 의료봉사를 나간 의사 치훈(배우 온유)이 신발을 선물로 주자 “이거(신발) 말고 염소 사줘, 염소 키우고 싶어”라는 대사로 시청자들에게 깊은 인상을 남겼다. 이후 조엘진은 ‘염소 소년’이라는 별명도 얻었다. &lt;br&gt;&lt;br&gt;조엘진은 육상 멀리뛰기 선수 출신인 나이지리아인 아버지와 한국인 어머니 사이에서 태어났다. 육상엔 초등학교 5학년 때 입문했다.&lt;br&gt;&lt;br&gt;조엘진은 지난해엔 한국 육상 남자 고등부 100ｍ 신기록을 세우기도 했다.&lt;br&gt;&lt;br&gt;이날 폐막한 라인-루르 하계 U대회에서 한국은 메달 57개(금 21·은 9·동 27)로 일본, 중국, 미국에 이어 전체 4위에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VUR67XBKE5BYFKAR7ZCEIFJE24.jpg?auth=5802a074f4c67f3bc929940238bdfa407d487edaf8f4b6f085d2403514d819f8&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
+    </item>
+    <item>
+      <title>‘차량서 수천만원 돈다발’...경찰, 익산시 공무원 구속영장</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/29/K3MEYXHOXRAVPFYUAA6GVQUMAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/K3MEYXHOXRAVPFYUAA6GVQUMAA/</guid>
+      <dc:creator>권태완 기자, 김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 13:45:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPOX3QABDMB3Z4R2AQLE2622DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 간판 정비사업 관련 특정 업체에 특혜를 줬다는 의혹을 받고 있는 전북 익산시 공무원에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;전북경찰청은 위계에 의한 공무집행방해 등의 혐의로 익산시 소속 5급 공무원 A씨에 대해 구속영장을 신청했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 28일 익산시의 도심 간판 정비사업과 관련, 익산시와 수차례 수의계약을 맺은 한 지역 조합이 특정 업체에 특혜를 줬다는 의혹을 확인하기 위해 익산시청을 압수수색했다.&lt;br&gt;&lt;br&gt;이 과정에서 경찰은 A씨가 한 직원을 시켜 자신의 차를 옮기려고 한 정황을 포착했다. 경찰은 이 차량을 수색해 수천만 원 상당의 뭉칫돈을 발견했다. 경찰은 이 돈의 출처와 함께 대가성 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “증거 인멸 우려 등이 있어 A씨에 대해 구속영장을 신청했다”며 “수사 중인 사안이라 자세한 내용을 밝히긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“NC 죽어도 못 보내”... 경남도, 홈구장 개선에 100억 지원 </title>
+      <link>https://www.chosun.com/national/regional/2025/07/29/GVRSALKBYZBIBAKEURHBIPKFXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/29/GVRSALKBYZBIBAKEURHBIPKFXM/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 13:08:05 +0000</pubDate>
+      <content:encoded>경남도가 창원에 연고를 둔 프로야구 NC다이노스를 붙잡기 위해 100억원을 투입해 홈구장 시설을 개선하는 등 대책 마련에 나선다. 경남도는 29일 이 같은 내용이 담긴 NC다이노스와의 상생 방안을 발표했다. 이는 창원시가 계획 중인 전체 시설 개선 사업비 223억원의 44%에 해당한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VME4ZKPGEYG37NK4Z4WKFO6V5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원NC파크. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 계획에 따르면 경남도는 NC다이노스의 홈구장인 창원NC파크 시설 개선 사업에 도비 100억원을 투입해 외야 관중석을 2000석 증설하고, 팀 스토어를 2층으로 확장 이전한다. 또 구장 내 전광판을 추가 설치하며, 마산야구장 내 철골 주차장을 증축해 약 600대의 주차 공간을 추가로 확보할 계획이다.&lt;br&gt;&lt;br&gt;경남도는 2군 구장인 마산야구장 시설 개선에도 힘을 보탠다. 지난 6월 전광판과 내야 관람석 교체 등에 들어가는 20억원 중 절반을 지원했다. 또 마산야구장 외야 관람석과 설비 교체 등 50억원 규모의 시설 개보수는 문화체육관광부 기금 사업으로 추진될 수 있도록 공모 준비부터 선정까지 경남도가 직접 지원에 나선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAAH44WWUNNH42WM3YS52O7OOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아울러 경남도는 저소득층 초청 야구 관람 프로그램, 공무원 단체 관람 등을 확대해 더 많은 지역 주민이 NC다이노스 경기를 볼 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;또 NC다이노스 홈경기를 관람하고, 주변 관광지를 둘러보며 식사하고 숙박하는 관광 상품도 내년에 시범 운영키로 했다.&lt;br&gt;&lt;br&gt;야구 팬들의 접근성 개선을 위해 국토교통부, 코레일 등과 협의해 KTX 열차 운행 시간을 조정하고, 부산~마산 복선전철 개통을 앞당기는 등의 지원도 추진한다. 경남도의 이번 지원 방안은 앞서 NC 측이 창원시에 요구한 내용에 포함된 사항들이다. 창원시는 31일 오후 3시 마산회원구 경남MBC홀에서 주민 설명회를 열어 최종 지원안을 공개할 예정이다. &lt;br&gt;&lt;br&gt;NC다이노스는 지난 3월 홈구장인 창원NC파크 외장 마감재가 추락해 야구 팬 1명이 숨지는 사고가 발생해 두 달여간 홈에서 경기를 치르지 못했다. 이후 NC다이노스는 지난 5월 30일 연고지 이전을 시사하며 창원시에 21가지 요구 사항을 전달한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마포대교서 뛰어내리려던 20대女 2명 몸날려 구한 여성 정체</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/29/SOUDQU5YVJHCBGXOJNQIQ5CO5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/SOUDQU5YVJHCBGXOJNQIQ5CO5M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 13:32:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QO2CJS5LSBE4JPTTUYTC6YKN44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 자살 예방의 날인 2024년 9월 10일 오후 서울 마포대교에 설치된 생명의 전화 옆에 꽃다발이 놓여져 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자살 고위험군을 돕는 일을 하고 있는 사회복지사가 우연히 마포대교를 지나다가 극단 선택 시도자를 발견해 몸을 날려 구해낸 사연이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;29일 한양대병원에 따르면 이 병원 생명사랑위기대응센터 소속 정선아 사회복지사는 지난 11일 새벽 우연히 친구와 함께 서울 마포대교를 지나던 중 20대로 보이는 여성 2명이 난간 위에 발을 올린 채 난간 밖으로 뛰어내리려 하는 모습을 목격했다.&lt;br&gt;&lt;br&gt;순간적으로 극단적 선택 시도 상황임을 알아챈 정 사회복지사와 친구는 곧장 달려가 이들의 몸을 붙잡아 끌어내고 119에 신고했다.&lt;br&gt;&lt;br&gt;정 사회복지사와 친구는 구조대가 도착할 때까지 약 10여 분간 다리 난간 위에서 발버둥치며 재차 극단적 선택을 하려는 이들을 온몸으로 막아내며 끝까지 놓지 않았다.&lt;br&gt;&lt;br&gt;정 사회복지사는 “당시 두 명이 대화하며 난간을 바라보는 것으로 생각하고 있었는데, 지척에 다다르자 갑자기 다리 난간 위에 발을 올리며 뛰어내리려고 했었다”면서 “순간적으로 자살 시도 상황임을 직감했고, ‘무조건 막아야 한다’는 생각뿐이었다. 자살 시도자와 매일 마주하는 직업적 경험이 본능적으로 반응하게 했던 것 같다”고 당시를 회상했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZERVWJTRWBDEJMSYPDEABSK2SE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정선아 사회복지사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 사회복지사가 근무하는 한양대학교병원 생명사랑위기대응센터는 서울시에서 유일하게 24시간 응급 대응 체계를 갖춘 기관으로, 2017년 개소 이래 연간 500명 이상의 극단 선택 시도자 사후 관리를 수행하고 있다. &lt;br&gt;&lt;br&gt;정 사회복지사는 “이 일을 하면서 많은 내원자를 만나지만, 때로는 감사 인사를 전해오는 분들 덕분에 다시 힘을 얻고 있다”면서 “이번 일을 계기로 내가 하는 일이 누군가의 생명을 지키는 데 얼마나 중요한 역할을 하고 있는지 다시금 실감했고, 앞으로도 누군가의 삶이 희망으로 이어질 수 있도록 진심으로 돕고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고객 3억 인출 본 뒤 강도로 돌변한 농협 직원</title>
+      <link>https://www.chosun.com/national/incident/2025/07/29/KMOBRBQPDFCPVHBB6J3S55LOGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/29/KMOBRBQPDFCPVHBB6J3S55LOGY/</guid>
+      <dc:creator>포천=김현수 기자, 포천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 11:59:23 +0000</pubDate>
+      <content:encoded>고객의 집에 들어가 강도질을 한 농협 직원에 대해 경찰이 구속영장을 신청했다. 이 직원은 고객이 현금 3억원을 인출한 사실을 알고 계획적으로 범행한 것으로 조사됐다. 손목을 묶을 케이블도 미리 준비했다. &lt;br&gt;&lt;br&gt;경기 포천경찰서는 29일 강도상해 혐의로 포천농협 A지점 직원 B(39)씨에 대해 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, B씨는 지난 28일 오전 4시쯤 포천시 어룡동의 한 아파트 3층에 침입해 자고 있던 80대 C씨 부부를 흉기로 위협했다. 그는 부부를 케이블로 묶은 뒤 집 안에 있던 현금 2000만원과 귀금속 등을 빼앗아 달아났다. 그 과정에서 C씨는 팔을 다쳤다.&lt;br&gt;&lt;br&gt;B씨는 흉기로 베란다 방충망을 찢고 집 안에 들어갔다. 얼굴을 가리기 위해 검은색 모자와 마스크를 썼다. 케이블은 범행 전 온라인에서 구입한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 아파트 단지 주변의 방범카메라를 뒤져 B씨의 동선을 추적했고 28일 낮 12시쯤 A지점에서 B씨를 검거했다. B씨는 평소처럼 출근해 창구에서 일하고 있었다. 경찰 관계자는 “당시 B씨의 가방엔 70돈 상당의 금이 있었다”며 “빼앗은 현금 2000만원은 자기 계좌에 입금했다”고 말했다.&lt;br&gt;&lt;br&gt;피해자 C씨는 이달 초 이 지점에 들러 현금 3억원을 인출했다. B씨 바로 옆 창구에 앉은 C씨는 “현금 3억원을 찾으러 왔다”고 했고 B씨는 C씨의 말을 엿듣기 시작했다. &lt;br&gt;&lt;br&gt;B씨는 “그 과정에서 C씨의 주소를 알게 됐고 범행을 결심했다”고 경찰에 진술했다. C씨는 이 지점의 VIP 고객이라고 한다.&lt;br&gt;&lt;br&gt;B씨는 입사 7년 차 직원으로 연봉이 5000만원이 넘는다고 한다. 관련 전과는 없다고 경찰은 밝혔다. 경찰은 “B씨의 경제 사정 등 구체적인 범행 동기를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;농협 직원과 주민들은 놀랍다는 반응이다. 한 주민은 “평소 솔선수범하고 성실했는데 강도짓을 할 줄은 몰랐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YIUNYQTYZ5F4NMYPNXHLTHTDE4.jpg?auth=b30224bf8264e2bdf770329be4d8160aa2d7ef3df3e0ac3097a7bc4d3705633b&amp;smart=true&amp;width=260&amp;height=195" type="image/jpeg" height="195" width="260">
+        <media:description type="plain">포천경찰서 전경</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김건희 특검, ‘도이치모터스 주가조작’ 2차 주포 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/29/LIUBZVJKUZGPXFI2655OWZOSMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/LIUBZVJKUZGPXFI2655OWZOSMQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 12:17:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RBSMB2IHD5XR3APOWST4IJ2TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 KT광화문빌딩 웨스트에 마련된 김건희 특검 사무실의 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사와 관련한 의혹을 수사 중인 민중기 특별검사팀이 도이치모터스 ‘2단계 주포’ 가담자들을 29일 참고인 신분으로 불러 조사했다. 도이치모터스 주가조작 의혹은 김건희 특검팀의 수사대상 중 하나다.&lt;br&gt;&lt;br&gt;법조계에 따르면 특검팀은 이날 2차 단계 주포였던 김모씨를 불러 조사했다. 전날인 28일에는 주가조적 선수로 지목된 블랙펄인베스트 전 임원 민모씨를 상대로 소환해 조사했다. &lt;br&gt;&lt;br&gt;특검은 이들을 상대로 김 여사가 주가 조작 사실을 인지하고 있었는지 여부, 김 여사 증권 계좌를 관리하며 주가 조작에 사용하게 된 경위 등을 집중적으로 캐물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람은 김 여사의 대신증권 계좌 ‘7초 매매’의 당사자들이다. 2022년 서울중앙지검 수사팀이 법원에 낸 의견서에 따르면, 김씨는 2010년 11월 1일 오전 11시 22분쯤 “12시에 3300에 8만개 때려달라 해주셈”이라는 문자메시지를 보냈고, 민씨는 “준비시킬게요”라고 답했다. 22분 후인 오전 11시 44분 32초 김씨가 ‘매도하라 하셈’이라는 메시지를 보내고 7초 후 김 여사 명의 계좌에서 3300원에 8만주가 매도됐다.&lt;br&gt;&lt;br&gt;권오수 전 도이치모터스 회장 등의 주가조작 사건을 심리한 법원은 해당 거래를 통정매매라고 인정했다. 다만 김 여사가 사전에 이를 알았는지 여부에 대해선 밝혀지진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시원하다던 태백마저... 한라산 빼고 전역에 폭염특보</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/29/YKJBOSZNXFDSXLBIK7DYOJSQ4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/29/YKJBOSZNXFDSXLBIK7DYOJSQ4A/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 11:26:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGFK7FASK44P2VBIDKFE7PYLVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 29일 서울 광화문광장 바닥분수에서 어린이들이 물놀이를 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산을 제외한 우리나라 전역에 폭염특보가 발령됐다. 고지대라 폭염특보가 잘 내려지지 않는 태백까지 이날 특보가 내려진 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 경기 가평이 한낮 최고 39.7도를 기록하는 등 전국에서 극심한 폭염이 이어졌다. 특히 남동풍이 태백산맥을 넘으며 열풍을 공급한 강원영서와 수도권 일대에 더위가 심했다.&lt;br&gt;&lt;br&gt;경기 여주(39.1도)·평택(38.8도), 강원 정선(38.7도), 경북 안동(38도) 등에서 이날 기온이 38도 이상으로 올랐다.&lt;br&gt;&lt;br&gt;30일에도 극한 더위가 이어지겠다. 30일 아침 최저기온은 22~28도, 낮 최고기온은 32~38도로 예보됐다. 경기북동부와 강원내륙엔 5~30㎜ 사이의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 내달 8일까지 전국에 큰 비 소식 없이 폭염과 열대야가 반복될 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, ‘구치소 독방 거래 의혹’ 교도관 직위해제</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/29/TQSX7AZKSFEJLPKTPHRD5ATKGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/TQSX7AZKSFEJLPKTPHRD5ATKGU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 11:14:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCSNEWQFHVPKXHLQ5JBO3LIKUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소로 법무부 교정본부 차량이 들어가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘구치소 독방 거래’ 의혹으로 경찰 수사를 받는 교정당국 관계자가 직위해제 조치된 것으로 29일 확인됐다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 독거실 배정을 명목으로 수용자들에게 금품을 수수한 혐의를 받는 교정당국 관계자 A씨를 이날 직위해제 조치했다. 앞서 경찰청 중대범죄수사과는 A씨 사건과 관련해 법무부 교정본부와 서울구치소를 지난 28일 압수 수색해 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 여러 수용자로부터 수천만원을 입금받고 여러 명이 사용하는 혼거실에서 1인실인 독거실로 방을 바꾸는 데 관여한 정황을 확보한 것으로 전해졌다. 경찰은 A씨 뒤에 배후 세력이 있는지 여부를 수사할 것으로 전해졌다. 교정본부 관계자들에 대한 참고인 조사도 병행하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 26일 A씨의 독방 거래에 연루된 의혹을 받는 브로커 2명을 뇌물공여 혐의로 구속했다. 이 브로커들은 조직폭력배 출신으로 수용자의 돈을 받아 A씨에게 일부를 전달한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>80대女 몰던 벤츠 마당 돌진…할머니집 놀러왔던 12살 손녀 ‘참변’</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/29/Z7P3TRXGOZHCJMLW4F2BUUZVSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/Z7P3TRXGOZHCJMLW4F2BUUZVSA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 29 Jul 2025 11:18:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUU3ZZ2CGVAERLRQ2HYV4VR5RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 경기 양평군에서 발생한 차량 돌진 사고 현장. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평에서 80대 여성이 몰던 벤츠 승용차가 가정집 마당으로 돌진해 12살 여자 초등학생이 사망한 가운데, 피해 아동은 여름방학을 맞아 할머니 집을 찾았다가 사고를 당한 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;29일 경기 양평경찰서 등에 따르면 지난 27일 오후 6시 40분쯤 경기 양평군 용문면에서 A(여·80대)씨가 몰던 벤츠 승용차가 갑자기 단독주택 마당으로 돌진했다. 이 사고로 주택 마당에 있던 B(12)양이 차량 등에 깔려 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;사고 현장은 90도로 꺾인 마을 내 이면도로로, A씨는 이곳에서 우회전하려다가 정면에 있던 단독주택의 철제 담장을 들이받으며 마당으로 돌진한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B양은 사고 당시 여름방학을 맞아 찾은 할머니 집 마당에서 야영할 계획으로 텐트를 치고 그 안에서 장난감과 읽을 책 등을 준비하던 중이었다. 할머니 집에는 B양의 동생과 사촌 2명도 있었지만 다행히 다른 세 아이는 사고 당시 집 안에 있어 참변을 피할 수 있었다.&lt;br&gt;&lt;br&gt;A씨는 음주 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B양의 아버지는 TV조선과의 인터뷰에서 “제가 텐트를 설치하지 않았거나 아니면 할머니 댁에 좀 늦게 방문했으면 어땠을까라는 후회도 든다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 운전 미숙으로 사고를 낸 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박수홍, 법적 다툼 중인 식품업체 대표에 ‘협박 혐의’로 고소 당해</title>
       <link>https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</guid>
@@ -833,24 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TEPVOGZQOOONPGFIOVZTPK6WG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기 사건이 발생한 인천 연수구 한 아파트에 경찰 수사관이 엘리베이터를 타고 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 사제 총기 살인 사건 당시 경찰이 피의자 조모(62)씨가 현장에서 도주한 사실이 확인된 이후에야 휴대전화 위치를 추적한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;28일 국회 더불어민주당 박정현 의원실이 확보한 인천경찰청 상황 보고서에 따르면, 경찰은 첫 신고가 접수된 지난 20일 오후 9시 31분 이후 98분 만인 오후 11시 9분 피의자 조씨에 대한 위치 추적 지령을 내렸다.&lt;br&gt;&lt;br&gt;경찰은 경찰특공대를 동원해 신고 접수 72분 만인 오후 10시 43분 사건 현장에 진입했다. 경찰특공대는 10시 16분 현장에 도착했는데, 경찰은 조씨에 대한 위치 추적 과정 없이 신고자였던 피해자 A(34·사망)씨 아내와의 통화 내용을 토대로 조씨가 집 안에 있다고 판단했고, 특공대의 현장 진입이 지연됐다. &lt;br&gt;&lt;br&gt;경찰은 또 사건 발생 2시간여 만인 오후 11시 32분에서야 연수서 직원 전원 긴급 동보(비상소집)를 발령한 것으로 파악됐다. 조씨가 현장을 벗어나 다른 지역으로 도주한 뒤였다. &lt;br&gt;&lt;br&gt;당시는 가장 위급한 상황임을 의미하는 ‘코드0(제로)’가 발령된 상태였다. 그러나 현장에서 지휘해야 할 경찰 상황관리관은 특공대 진입 이후 뒤늦게 현장에 도착한 상태였다. 관할 경찰서장은 현장이 아닌 경찰서 상황실에서 지휘했다. &lt;br&gt;&lt;br&gt;인천경찰청 관계자는 “피의자 위치 추적 시점 등과 관련해 현재 감찰 조사가 진행 중”이라며 “자세한 배경을 설명하기에 어려움이 있다”고 했다. &lt;br&gt;&lt;br&gt;조씨는 지난 20일 오후 9시 30분쯤 인천 연수구 송도국제도시의 한 아파트 33층 집에서 사제 총기로 아들 A씨를 살해한 혐의 등으로 경찰에 구속돼 조사를 받고 있다. &lt;br&gt;&lt;br&gt;조씨의 서울 도봉구 집에선 시너가 담긴 페트병과 세제통 등 인화성 물질과 점화 장치 등이 발견됐고, 살인 범행 다음 날인 21일 정오에 발화되도록 타이머가 설정돼 있던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰청은 이번 사건의 초동 대응 과정이 적절했는지 등에 대해 감사를 진행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>모스크바-평양 직항 33년 만 개설 러북 관계 급진전</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/28/JHJKUQ6CSVH3XJEICCWIN42SYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/28/JHJKUQ6CSVH3XJEICCWIN42SYE/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 08:40:41 +0000</pubDate>
-      <content:encoded>모스크바와 평양을 오가는 첫 직항편이 현지 시각 오전 9시 30분(모스크바 시각 오후 3시 30분)에 평양에 착륙했다고 러시아 인테르팍스 통신이 28일 보도했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHPTP7OWUFNRTA2WIRGZTAD6WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;모스크바를 떠나 평양 순안 국제공항에 도착한 직항편 트랩에서 내려오는 알렉산드르 코즐로프 러시아 천연자원부 장관(오른쪽 앞)을 비롯한 러시아 대표단. /타스 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비행기는 27일(모스크바 시각) 오후 7시 30분 셰례메티예보 공항을 이륙한 뒤 약 8시간 만에 평양 순안 국제공항에 착륙했다.&lt;br&gt;&lt;br&gt;모스크바 평양 간 정기 직항편 운항 재개는 지난 1992년 11월 중단된 이후 무려 33년 만이다. 지난 6월 모스크바~평양 여객 철도 운행(월 2회·10일 소요)이 재개된 데 이은 것이다. &lt;br&gt;&lt;br&gt;그동안 러시아와 북한 간 직항은 고려항공이 극동 블라디보스토크와 평양을 오가는 노선을 주 3회 운항해 온 것이 전부였다. 이 직항편도 코로나 19 팬데믹으로 중단된 뒤 2023년 8월 재개됐다. &lt;br&gt;&lt;br&gt;로사비아치야(러시아 항공청)는 지난 7월 노르드윈드 항공에 북한 직항 운항을 허가했으며, 항공사 측은 이 노선에 보잉 777-200ER 항공기(440명 수용)를 운항하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMJ7DEK2FBOJDH7F4VKDWQRAME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평양국제공항에서 열린 모스크바발 첫 직항편 환영식에서 알렉산드르 마체고라 주북 러시아 대사, 알렉산드르 코즐로프 천연자원부 장관, 윤종호 북한 대외경제상(왼쪽부터)이  함께 포즈를 취하고 있다. /타스 연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공사 웹사이트에 따르면 7월 18일부터 발매된 모스크바발 평양행 항공권(이코노미석 기준 4만4700루블·약 77만9000원)과 29일(모스크바행) 항공 티켓은 모두 판매된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;비행기에 탑승한 러시아 측 고위인사는 알렉산드르 코즐로프 러시아 연방 천연자원부 장관이었다. 러시아·북 무역·경제·과학·기술 협력 정부 간 위원회 러시아 측 위원장이기도 한 코즐로프 장관은 “이 항공편은 한 달에 한 번 운항할 예정이며, 이번 항공편 운항은 양국 수도를 연결하는 역사적인 사건이다”고 평가했다. &lt;br&gt;&lt;br&gt;코즐로프는 첫 취항을 기념하는 행사에서 러시아와 북한이 물류와 관련한 모든 분야에서 협력이 진행 중임을 강조했다. 그는 “모스크바와 평양 직항편을 포함하여 화물 및 여객 철도 서비스 용량이 증가하고 있으며, 4월 30일에는 두만강을 가로지르는 두만강대교 건설이 시작됐다”고 강조했다. 두만강대교 개통은 내년 하반기로 예정돼 있다.&lt;br&gt;&lt;br&gt;러시아를 떠나 평양에 도착한 직항편 환영식에서 윤종호 북한 대외경제상은 “모스크바-평양 정기 직항편 재개는 두 나라 지도자들의 특별한 관심 속에 양국 우호 관계가 최고 수준으로 발전하고 심화하고 있음을 분명히 보여주는 증거”라며 “이 직항편은 우리 두 형제 국가 국민의 우호 감정이 정신적으로 더욱 가까워지고 서로를 향한 발걸음이 더욱 빨라지도록 자극할 것이다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUMOI7TDOVE3RACCURY4BMZZRM.webp"&gt;&lt;figcaption&gt;&lt;small&gt;러시아 노르드윈드 항공 소속의 보잉 777-200ER 항공기. /노르드윈드항공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;러시아는 평양 노선과 달리 원산 직항편 노선 개설도 검토 중인 것으로 알려졌다. 북한의 원산갈마해안관광지구는 이달 초 문을 열었다.&lt;br&gt;&lt;br&gt;평양을 떠나 모스크바로 가는 직항은 29일 오전 9시(모스크바 시각 오후 3시)로 예정돼 있다. &lt;br&gt;&lt;br&gt;러시아와 북한은 2024년 6월 블라디미르 푸틴 대통령의 방북 당시 ‘포괄적 전략 동반자 관계 조약’을 체결하는 등 2022년 우크라이나 전쟁 발발 뒤 관계가 급진전했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>청주 서운동·주교좌 성당, 충북도 문화유산 된다 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/28/E3ZWY4WXKZD2NP4YMKUVRSDC3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/28/E3ZWY4WXKZD2NP4YMKUVRSDC3Y/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 08:35:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/734BECDBFRGXLHGOKAUJPZMMLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주교구 청주 서운동 성당 전경/충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청주교구를 대표하는 서운동·주교좌 성당이 각각 충북도 문화유산이 된다. &lt;br&gt;&lt;br&gt;충북도는 이들 성당과 주교좌 성당 옛 사제관을 도 문화유산으로 등록한다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;이들 성당은 천주교 청주교구를 대표하면서 한국 근현대 천주교 건축의 특징과 변화 과정을 잘 보여준다는 평가를 받는다. 도는 지역의 역사와 문화를 이어가는 유산으로 활용하고자 도 문화유산 등록을 추진했다고 설명했다.&lt;br&gt;&lt;br&gt;서운동 성당은 1963년 북문로 본당에서 이전해 건립됐다. 당시 성당 건축에서는 보기 드문 삼각형 지붕, 오각형 전면 창, 제단 뒤쪽의 종탑 등 독창적인 구조를 갖췄다. 또 내부는 기둥 없이 넓고 높게 설계되어 개방감이 뛰어나며, 제2차 바티칸 공의회 전후의 전례 양식이 혼합된 제단 구성은 시대적 전환기가 그대로 반영돼 있다. &lt;br&gt;&lt;br&gt;더욱이 이 성당은 청주 읍성 순례길의 출발점이자, 124위 복자 중 한 명인 오반지 바오로의 유해가 안치된 성지로, 신앙적 상징성과 활용 가치 모두에서 높은 평가를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPWRJZL2K5BRJJ3OWA7JHMSVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주교구 청주 주교좌 성당/충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1961년에 지어진 내덕동 주교좌 성당과 옛 사제관은 미국 가톨릭 선교단체인 메리놀 외방선교회의 건축 양식을 대표적으로 보여준다.&lt;br&gt;&lt;br&gt;특히 설계자(박태봉)와 시공자(김베네딕토)가 명확히 기록돼 있는 데다 설계도·상량문·사진·시공 기록 등 자료도 잘 보존돼 역사적 가치가 매우 높은 것으로 평가받는다.&lt;br&gt;&lt;br&gt;권기윤 도 문화유산과장은 “두 성당 모두 1960년대 천주교가 지역사회에 뿌리내리던 시기의 중요한 상징이자, 신앙과 공동체의 역사를 품고 있는 건축유산”이라며 “앞으로 순례길, 해설 콘텐츠, 체험 프로그램 등을 통해 이 유산들을 지역의 대표적 문화자원으로 육성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울대 ‘등산 장학금’ 20.8대 1 치열한 경쟁률</title>
       <link>https://www.chosun.com/national/national_general/2025/07/28/WPK3C5M3FZCAVFFZTGKW55KL3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/28/WPK3C5M3FZCAVFFZTGKW55KL3Y/</guid>
@@ -867,15 +935,6 @@
       <description/>
       <pubDate>Mon, 28 Jul 2025 08:11:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 새벽 경기 포천시 한 아파트에서 30대 은행 직원이 고객 집에 침입해 수천만원을 빼앗고 달아났다. 경찰은 고객 인출 정보를 활용한 계획 범행 가능성에 무게를 두고 수사 중이다.&lt;br&gt;&lt;br&gt;포천경찰서는 특수강도 혐의로 이날 오후 12시쯤 은행 직원 A(30대)씨를 긴급 체포했다. A씨는 이날 오전 4시쯤 포천시 어룡동의 한 아파트 3층에 몰래 침입, 80대 노부부를 흉기로 위협하고 귀금속과 현금 등 수천만원 상당의 금품을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해자 B(80대)씨는 범행 당시 A씨에게 제압당하는 과정에서 팔을 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰 조사에서 피해자 부부는 이달 초 A씨가 근무하는 은행에서 현금을 인출했던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 은행 직원 신분을 이용해 고객의 금융 정보를 유출하거나 동선을 파악하고 범행했을 것으로 보고 집중 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검 “尹 29일 출석 여부 의견 밝히지 않아"</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/28/DJD5RVJ6NZHUJM2EA5YUZQY3MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/DJD5RVJ6NZHUJM2EA5YUZQY3MM/</guid>
-      <dc:creator>이민경 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 05:36:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CLBSVYH4RMO3F77URSPCYKRME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 오정희 특검보가 지난 8일 서울 종로구 KT광화문빌딩에서 정례 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 의혹을 수사하는 민중기 특별검사팀이 28일 “내일 오전 10시에 출석하라고 통보했던 윤 전 대통령 측에서 아직까지 출석 여부에 대한 의견을 밝히지 않고 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 ‘정치 브로커’ 명태균씨 관련 공천 개입 의혹과 지난 대선에서 허위사실을 공표한 혐의 등과 관련해 지난 21일 윤 전 대통령에게 오는 29일 오전 10시까지 출석해 피의자 조사를 받으라고 했다. 윤 전 대통령은 서울구치소에 수감 중이다. 윤 전 대통령 측은 건강 악화 등을 이유로 소환에 응하지 않을 전망이다.&lt;br&gt;&lt;br&gt;특검은 ‘건진 법사 청탁 의혹’ 사건과 관련해선 추가 신병 확보에 나섰다. 오정희 특검보는 이날 정례 브리핑에서 “‘건진 법사’ 전성배씨와 관련해 특정범죄가중처벌법상 알선수재 혐의로 이모씨에 구속영장을 청구했다”고 밝혔다. 오 특검보는 “구체적인 혐의 사실은 말하기 어렵다”면서도 “통일교(세계평화통일가정연합) 관련 인물은 아니다”라고 했다. 또 특검이 앞서 이씨에 대한 소환조사를 진행했다고 덧붙였다.&lt;br&gt;&lt;br&gt;특검은 통일교 측이 전씨를 통해 김 여사에게 고가의 선물을 건네며 통일교 현안을 청탁했다고 의심하고 있다. 전씨는 이외에도 2022년 지방선거 당시 돈을 받고 공천 관련 청탁을 정치권에 전달했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;특검은 또한 이날 오전부터 공천 개입 의혹과 관련해 이준석 개혁신당 대표의 주거지와 사무실을 압수 수색 중이다. 특검 관계자는 “이 대표는 2022년 6월 치러진 국회의원 재보궐선거와 관련한 피의자 신분”이라면서 “고발장이 접수된 게 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>특검, 김여사 오빠 소환... 양평 특혜·명품 의혹 조사 중</title>
@@ -903,60 +962,6 @@
       <description/>
       <pubDate>Mon, 28 Jul 2025 07:39:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7OVBBSRPQJS4WOPTDYNIQPVHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀 오정희 특검보가 지난 8일 서울 종로구 KT 광화문 웨스트 빌딩에서 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀은 28일 김 여사 측근 김모씨가 사내이사를 맡았던 IMS모빌리티에 대한 대기업의 특혜성 투자 의혹과 관련해 KB캐피탈 전 대표 황모씨를 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;KB캐피탈은 2023년 9월 IMS 주식 4만5000주를 매입했다. 카카오모빌리티, HS효성, 키움증권, 한국증권금융 등 9곳이 오아시스 펀드를 통해 투자한 지 3개월 뒤에 이뤄진 투자였다.&lt;br&gt;&lt;br&gt;KB캐피탈은 IMS 측에 전략적 투자자(SI)로 참여했다는 입장이지만, 특검은 KB캐피탈이 김건희 여사 ‘집사’로 불릴 정도로 가까웠던 김씨를 염두에 두고 IMS모빌리티에 투자하기로 결정한 게 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;특히 황씨는 2023년 말 임기를 마친 후 작년 말 도이치파이낸셜 대표에 취임했다. 도이치파이낸셜은 김 여사가 주가 조작에 관여했다는 의혹이 제기된 도이치모터스의 계열사로서, 김 여사는 2017년 도이치파이낸셜 주식에 20억원을 투자하기도 했다.&lt;br&gt;&lt;br&gt;황씨는 “김 여사도, 김씨도 알지 못하고 작년에 티메프 사태로 대규모 영업 손실이 발생한 도이치파이낸셜 측에서 대표직을 제안해 수락한 것일 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;김건희 특검은 오는 1일에는 HS효성 조현상 부회장을 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>말 바꾼 윤상현 “尹, 김영선 공천해주라고 전화했다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/28/DOZRR6V7RRDCFGYZKAB5GB4XCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/DOZRR6V7RRDCFGYZKAB5GB4XCA/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 06:14:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PT7DG35VCZ4BRDSGM5PDDDQUHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공천 개입 의혹을 받는 윤상현 국민의힘 의원이 지난 27일 김건희 특검 사무실이 마련된 서울 종로구 KT 광화문 웨스트에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤상현 국민의힘 의원이 2022년 6·1 국회의원 보궐선거 공천 결과 발표 하루 전날 김영선 전 국민의힘 의원을 공천해주라는 윤석열 전 대통령 전화를 받았다고 특검에서 진술한 것으로 28일 전해졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 의원은 지난 27일 특검에 나와 윤 전 대통령 취임 하루 전날이었던 2022년 5월 9일 윤 전 대통령으로부터 “김 전 의원 공천을 해주라”는 취지의 전화를 받았다고 진술했다.&lt;br&gt;&lt;br&gt;당일은 윤 전 대통령이 정치 브로커 명태균씨에게 전화 통화로 “내가 김영선이 경선 때부터 열심히 뛰었으니까 김영선이를 좀 해 줘라 그랬는데, 말이 많네, 당에서”라며 “상현이(윤 의원)한테 내가 한 번 더 이야기할게. 걔가 공관위원장이니까”라고 한 날이기도 하다. 해당 녹취록은 앞서 더불어민주당이 공개한 바 있다.&lt;br&gt;&lt;br&gt;윤 의원은 윤 전 대통령과 명씨의 통화 녹취록이 공개된 후 지금까지 윤 전 대통령이 전화한 적이 없었다고 했는데, 특검에서 기존 입장을 바꾼 것이다.&lt;br&gt;&lt;br&gt;다만 윤 의원은 윤 전 대통령과 통화한 내용을 당시 공천관리위원회에 전달하지 않았고, 공관위원들이 회의 끝에 다수결로 김 전 의원을 경남 창원 의창에 공천하기로 결정했다고 진술했다고 한다. 정상적인 절차를 거쳐 김 전 의원을 공천했을 뿐, 윤 전 대통령이 관여해 결과가 바뀌지는 않았다는 것이다. 국민의힘은 2022년 5월 10일 김 전 의원 공천을 발표했고, 김 전 의원은 한 달 뒤 당선됐다.&lt;br&gt;&lt;br&gt;윤 의원은 윤 전 대통령과 통화하기 며칠 전에는 당선인 비서실장이었던 고(故) 장제원 전 의원과도 통화했다고 진술했다. 장 전 의원도 김 전 의원 공천 문제를 윤 의원에게 전달했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘가족 사업장에 예산 몰아주기’…전윤미 전주시의원, 공식 사과</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/07/28/ORBOGOIOZND6BBDISKRRTDWQKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/07/28/ORBOGOIOZND6BBDISKRRTDWQKA/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 06:47:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E7JEOHCYAFKABBAISBBOBG5SYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전윤미 전북 전주시의원(더불어민주당)이 28일 전주시청에서 자신의 업체에 예산 몰아주기 의혹에 대해 사과하고 있다. 전문 미용인 출신인 전 의원과 그 가족 등은 전주시가 자영업자와 소상공인을 돕기 위해 진행한 '전주맛배달' 할인 구독 행사 지원금 1억800만원 중 65%에 달하는 7000만원을 집중 지원받은 의혹을 받고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전윤미 전북 전주시의원(더불어민주당)이 소상공인을 지원하기 위한 예산을 자신의 가족 사업장에 몰아주기한 의혹이 불거지자 기자회견을 열고 사과했다. &lt;br&gt;&lt;br&gt;28일 전주시 등에 따르면 지난 2023년 9월부터 11월까지 전주시가 운영하는 공공배달앱 ‘전주맛배달’에서 구독 할인 행사로 모두 1억800만원의 예산이 소요됐다. 이 앱에 등록된 매장에서 일정 금액을 할인받아 소비자들은 저렴하게 서비스를 이용하고, 전주시가 할인받은 금액을 예산으로 지원하는 행사였다. &lt;br&gt;&lt;br&gt;그런데 예산 1억800만원 가운데 7000만원이 전윤미 시의원과 가족 등이 운영하는 미용실 4곳에 지원된 것으로 확인됐다. 전 의원은 당시 전주시의회 문화경제위원회 부위원장으로서 이 사업을 심의하는 상임위에 속해 있었다. &lt;br&gt;&lt;br&gt;이해 충돌 논란이 일자 전 의원은 28일 전주시청에서 기자회견을 열고 “2023년 당시 주관기관 직원이 제가 운영하던 업체 참여를 권유해 사업에 참여하게 됐다”라며 “이후 소속 상임위원회 관련 사업이라는 점에서 시민들께 오해를 드릴 수 있다고 판단해 스스로 참여를 중단했으며, 이후 전문가와 변호사로부터 해당 사안에 대해 법적 문제가 없다는 조언을 받았다”고 해명했다.&lt;br&gt;&lt;br&gt;지역에선 전 의원에 대한 수사를 촉구하는 목소리가 높아지고 있다. 진보당 전주시지역위원회는 논평을 내고 “행정 실책과 감시 부재가 낳은 결과”라며 검찰과 경찰의 철저한 수사를 촉구했다. 참여자치전북시민연대도 “소상공인 지원 예산이 특정 개인의 이익에 악용됐다”며 철저한 조사와 책임자 처벌을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천경찰청, 사제 총기 살인 사건 피의자 신상 정보 공개 않기로</title>
-      <link>https://www.chosun.com/national/incident/2025/07/28/TZSIHNAZZFGXLLWCDDIMTJMADU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/28/TZSIHNAZZFGXLLWCDDIMTJMADU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 06:44:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2NC3RP54JZGSTHBCVO7QQKLNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 사제 총기 살인 사건 피의자 조모(62)씨의 신상 정보를 경찰이 공개하지 않기로 했다. &lt;br&gt;&lt;br&gt;인천경찰청은 살인과 총포·도검·화약류 등의 안전관리에 관한 법률 위반, 현주건조물방화 예비 등 혐의로 구속한 조씨의 신상 정보를 공개하지 않기로 결정했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 조씨의 신상 정보 공개를 반대하는 유가족의 입장 등을 고려해 이같이 결정했다고 설명했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피해자 가족과 어린 자녀 등의 2차 피해가 우려된다는 유가족 의사를 중요하게 고려했다”고 했다. &lt;br&gt;&lt;br&gt;조씨는 지난 20일 오후 9시 30분쯤 인천 연수구 송도국제도시의 한 아파트 33층 집에서 사제 총기를 발사해 아들 A(34)씨를 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 현장엔 조씨의 며느리와 손주 2명, 외국인 가정교사(며느리 지인) 등이 함께 있었다. &lt;br&gt;&lt;br&gt;조씨의 서울 도봉구 집에는 시너가 담긴 페트병과 세제통 등 인화성 물질 15개와 점화장치가 발견됐고, 범행 이튿날인 21일 정오에 발화 타이머가 설정돼 있던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 놀이시설 ‘공포의 15분’... 리프트 공중에서 멈췄다 </title>
-      <link>https://www.chosun.com/national/2025/07/28/SKO6U2CHINAFDLFSYRWRDI776A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/28/SKO6U2CHINAFDLFSYRWRDI776A/</guid>
-      <dc:creator>부산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 06:14:38 +0000</pubDate>
-      <content:encoded>부산 기장군의 한 놀이시설에서 리프트가 15분간 멈춰 탑승객 50여 명이 공중에서 공포에 떠는 사고가 났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRZ5JK2BYRL3OLBWUYU3753V34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 기장경찰서에 따르면 전날 오후 5시 10분쯤 부산 기장군 오시리아관광단지 내 ‘스카이라인 루지 부산’에서 루지(luge cart) 카트 탑승을 위해 이용하는 리프트가 고장으로 가동을 멈췄다. 루지 카트는 내리막길을 따라 속도를 즐기는 체험 시설이다. &lt;br&gt;&lt;br&gt;이 사고로 탑승객 50여 명이 지상 약 10m 높이에서 15분간 매달려 있어야 했다.&lt;br&gt;&lt;br&gt;이후 시설 보수유지팀이 리프트를 다시 작동시키면서 탑승객들은 리프트에서 하차할 수 있었다. 이 사고로 다친 사람은 없었고, 별도의 구조 작업도 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;다만 일부 탑승객은 30도에 가까운 무더위 속 공중에 매달려 있으면서 어지럼증을 호소했던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;시설 운영업체 측에 따르면 이날 리프트가 멈춘 것은 상부 터미널에서 발생한 전기적 문제로 인한 것으로 추정된다. 이로 인해 리프트가 설계된 대로 안전 시스템을 작동하면서 운행 자체가 멈췄다는 것이다. 시설 운영업체 측은 당시 탑승객들에 대해 환불 조치를 진행했다고 한다. &lt;br&gt;&lt;br&gt;업체 관계자는 “다행히 이번 사고로 다치신 고객은 없는 것으로 확인했다”며 “현재는 문제가 없다고 판단해 리프트는 정상 운행하고 있다”고 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “엔지니어 정말 진단 등 점검 결과를 토대로 왜 시설이 멈춘 것인지 등 정확한 사고 경위를 조사할 예정”이라며 “추후 부상자가 확인되는 경우 리프트 관리 업체 관계자 등을 업무상과실치상 혐의로 수사할 수도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘위성 제작 발사까지’...제주 우주산업 거점 ‘하원테크노 캠퍼스’ 조성 본궤도</title>
-      <link>https://www.chosun.com/national/regional/2025/07/28/AIHY53YNHRB3VK2ZRMNATVHZ4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/28/AIHY53YNHRB3VK2ZRMNATVHZ4A/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 06:21:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV24JR7M6FHJVO5DLU7G3E7WAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화시스템이 제주 서귀포시 하원테크노캠퍼스에 구축하는 제주한화우주센터 조감도. /한화시스템&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 우주산업의 거점인 하원테크노캠퍼스 산업단지 조성 사업이 본궤도에 오른다.&lt;br&gt;&lt;br&gt;28일 제주도에 따르면 하원테크노캠퍼스 전략환경영향평가 초안을 공개하고, 다음 달 29일까지 주민 의견을 받는다. 산업단지 조성 사업과 전략환경영향평가에 대한 합동설명회는 다음 달 18일 하원마을 복지회관에서 열린다.&lt;br&gt;&lt;br&gt;이번 사업은 기존 부지 매입비를 포함해 총 1133억원을 투입해 옛 탐라대학교 부지(30만2901㎡)를 산업단지로 조성한다.&lt;br&gt;&lt;br&gt;토지 이용계획을 보면 산업시설 12만8699㎡(42.5%), 공공용지(공원·도로·주차장 등) 12만4461㎡(41.25), 지원시설 3만4659㎡(11.4%), 복합용지 1만2246㎡(4%), 상업시설 2836㎡(0.9%) 등이다.&lt;br&gt;&lt;br&gt;하원테크노캠퍼스 부지에 입주한 한화우주센터는 공정률 75%(6월 말)로, 오는 10월 준공한다. 1000억원이 투입된 한화우주센터는 지구 관측용 고성능 영상레이더(SAR) 위성을 한 달에 8기까지 생산할 수 있는 설비를 갖추고, 최대 300명을 고용한다. SAR위성은 구름이 잔뜩 낀 날이나 빛이 없는 밤에도 지형과 공간 정보를 확보할 수 있는 영상레이더(SAR)와 전자광학(EO), 적외선(IR) 장비가 탑재된다.&lt;br&gt;&lt;br&gt;또 카이스트(KAIST) 항공우주공학과 학부생들이 창업한 우주 발사체 개발 기업인 페리지에어로스페이스 등 총 22개 우주산업 관련 기업이 입주 의향서를 제출했다.&lt;br&gt;&lt;br&gt;제주도는 오는 11월 산업단지 고시가 이뤄지면 실시계획을 수립해 교통·재해·환경영향평가를 진행한다.&lt;br&gt;&lt;br&gt;2028년 말 하원테크노캠퍼스가 준공되면 총 1627명의 연구원 등 전문인력이 상주하게 되며, 제주지역 우주산업 전초기지로 떠오르게 된다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “인허가 절차가 마무리되면 2027년부터 산업단지 조성을 위한 본격적인 공사를 착수해 2028년 말에 준공한다는 계획”이라며 “첨단 입주 기업을 전폭적으로 지원해 하원테크노캠퍼스를 대한민국 민간 우주산업의 핵심 거점으로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어린이집 CCTV로 보육교사 근태 확인해 징계하려던 원장… 대법원 “위법”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/28/HESZLGH7YJCTJGFNJYWXVNS7BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/28/HESZLGH7YJCTJGFNJYWXVNS7BA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 28 Jul 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이집 원장이 내부 CCTV 영상으로 보육교사를 지켜보고 근무 중 휴대전화를 사용한 사실을 징계 담당자에게 전달한 것은 개인정보보호법 위반이라는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 개인정보보호법 위반 혐의로 기소된 어린이집 원장 A씨에게 무죄를 선고한 원심을 깨고 사건을 지난달 서울동부지법으로 돌려보냈다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;서울 송파구에서 어린이집을 운영하는 A씨는 2021년 7월 보육교사 B씨 근무태도를 확인할 목적으로 며칠간 내부 CCTV 영상을 실시간으로 지켜보고, B씨가 근무시간에 7차례 휴대전화를 사용하는 일시를 메모해뒀다가 이를 어린이집 법인 보육사업 담당자에게 징계 심의 자료로 쓰라며 구두로 전달한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;어린이집 내부 CCTV를 설치하는 목적은 아동학대 방지와 영유아 안전·보안 등으로, 개인정보보호법은 개인정보를 수집 목적 범위를 벗어나 이용할 수 없도록 규정하고 있다. &lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 CCTV 영상을 보고 파악한 B씨의 근무 중 휴대전화 사용 사실을 법인 담당자에게 말한 것이 법에서 규정한 ‘개인정보 이용’에 해당하는지였다. &lt;br&gt;&lt;br&gt;1·2심은 A씨가 CCTV로 본 모습을 구두로 전달한 것은 ‘개인정보 이용’이 아니라고 보고 무죄를 선고했다. 1심 재판부는 “A씨가 법인 담당자에게 구술로 전달한 정보는 CCTV 영상을 통해 나타난 B씨 근무행태에 관한 정보로, 이는 개인정보처리자로서 취득한 그 정보 ‘그 자체’에 해당하지 않고, 해당 정보를 통해 ‘특정 개인을 알아볼 수 있는 정보’에도 해당하지 않는다”고 했다. B씨가 나온 CCTV 영상이나 B씨를 알아볼 수 있는 영상 캡처 등을 전달한 것이 아니라서 ‘개인정보 이용’이 아니라는 것이다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “법에 규정한 ‘개인정보 이용’은 개인정보를 수집된 형태 그대로 쓰는 행위뿐 아니라 수집된 개인정보를 가공·편집해 쓰거나, 그로부터 정보를 추출해 쓰는 행위도 포함된다”며 판단을 뒤집었다.&lt;br&gt;&lt;br&gt;A씨가 CCTV로 B씨의 근무 중 휴대전화 사용을 확인하고 담당자에게 구두로 알려준 뒤 법인이 이를 근거로 B씨에 대한 징계 심의를 개시하려고 한 과정을 전체적으로 봤을 때, 이는 개인정보인 CCTV 영상을 이용한 행위에 해당한다고 대법원은 판단했다. 대법원은 “영상 자체가 아니라 그로부터 추출한 정보라는 사정만으로 다르게 볼 이유가 없다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “원심은 환송 후 영유아보육법의 CCTV 관련 규정 취지와 내용, A씨의 개인정보 이용 목적·경위 등에 비춰볼 때 그의 개인정보 이용이 CCTV에 의한 개인정보 수집 목적의 범위를 초과한 이용인지에 대해 심리할 필요가 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
