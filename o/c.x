@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘폭염경보 5일째’…인천에서 90대 노인 열사병으로 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 10:13:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염경보가 5일째 이어지고 있는 인천에서 90대 노인이 열사병으로 숨졌다. &lt;br&gt;&lt;br&gt;30일 인천시 등에 따르면 전날 오후 4시 20분쯤 인천시 서구 원당동의 한 빌라에서 A(여·90)씨가 누워서 말을 잘 하지 못한다는 A씨 며느리의 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 구급대는 A씨를 병원으로 옮겼으나, A씨는 1시간여 만인 오후 5시 25분쯤 숨졌다. &lt;br&gt;&lt;br&gt;당시 A씨의 체온은 40.4도에 달했던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시는 A씨가 열사병으로 숨진 것으로 보고 구체적인 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;인천엔 지난 25일 오전 10시부터 폭염경보가 발효돼 지속되고 있다. &lt;br&gt;&lt;br&gt;지난 5월 15일부터 이날까지 인천 지역 온열질환자는 모두 188명으로 집계됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>금호타이어 노사, 광주공장 연내 재가동·함평 신공장 건설 합의</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/30/HFN46E4D75CF3PVB7YBUKXVLXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/HFN46E4D75CF3PVB7YBUKXVLXY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 09:46:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O563WAX42VPWPE4B6SG3OOLCHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 김명선(왼쪽) 금호타이어 생산기술총괄 부사장과 황용필 금호타이어지회 대표 지회장이 금호타이어 광주공장 재건과 관련해 노사 특별합의문을 들고 사진을 찍고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 노사가 올해 안으로 광주공장을 재가동하고 장기적으로는 함평 빛그린산단으로 이전하는 방안에 합의했다.&lt;br&gt;&lt;br&gt;금호타이어는 30일 “노사는 올해 내 광주1공장 하루 타이어 6000본 생산, 연 530만본 생산 목표로 함평신공장 건설, 광주공장 부지 매각 후 증설 등 방안이 담긴 합의안에 동의했다”고 밝혔다. 합의안에는 ‘현재 구성원에 대해 고용을 보장하며, 노조 동의 없이 강제적 인력 구조조정을 하지 않는다’는 방안도 담겼다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장은 지난 5월 17일 오전 7시 11분쯤 2공장에서 대형 화재 발생 이후 타이어 생산이 중단됐다. 노사는 화재 피해를 입지 않은 1공장 설비를 보완해 올해 10월쯤부터 타이어 생산을 재개할 계획이다.&lt;br&gt;&lt;br&gt;신공장은 함평빛그린산단에 세운다. 1단계로 오는 2028년 1월 가동을 목표로 연간 타이어 530만본 생산 능력을 갖춘 공장을 건설하고, 2단계로는 광주공장 부지를 매각해 함평신공장을 증설한다.&lt;br&gt;&lt;br&gt;광주광역시는 “금호타이어 노사 합의안이 잘 이행될 수 있도록 소통과 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 이날 입장문을 통해 “8월 중 조속한 시일 내에 금호타이어 측을 만나 노사가 합의한 내용을 중심으로 공장 이전 계획을 포함한 로드맵 실행 계획, 이전 지원단 구성 및 실행 계획을 구체적으로 논의해 나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/O563WAX42VPWPE4B6SG3OOLCHI.jpg?auth=3a0b9b12bed41dec532540b54fb51ce03ccb6ff7775b1723812645a1a6d982c9&amp;smart=true&amp;width=2540&amp;height=1675" type="image/jpeg" height="1675" width="2540">
+        <media:description type="plain">30일 김명선(왼쪽) 금호타이어 생산기술총괄 부사장과 황용필 금호타이어지회 대표 지회장이 금호타이어 광주공장 재건과 관련해 노사 특별합의문을 들고 사진을 찍고 있다. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>이준석 측 “특검, 압수 수색하며 ‘한동훈’ 검색... 준항고 제기”</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/30/4G3ZDYETDBA3LGLO56MLNPAN4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/4G3ZDYETDBA3LGLO56MLNPAN4Y/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 09:31:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/726PJRLQNNP25LBRNTCDSFM23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 서울 여의도 국회 의원회관에서 김건희특검팀(특별검사 민중기)이 이준석 개혁신당 대표에 대한 압수 수색을 재개한 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘명태균 공천개입’ 의혹에 연루돼 김건희 특검팀의 압수 수색을 받은 이준석 개혁신당 대표 측이 30일 “특검은 압수 수색 과정에서 ‘한동훈’을 검색하는 등 지나치게 광범위하게 압수 수색을 시도했다”며 압수 수색이 위법하다고 주장했다.&lt;br&gt;&lt;br&gt;특검은 이날 오후 1시부터 서울 여의도 국회 의원회관 안에 있는 이 대표의 사무실에 대한 압수 수색을 재개했다. 지난 28일 압수 수색에서 미처 마치지 못한 부분이 있어 이날 압수 수색을 이어간 것이다. 그런데 이 대표 측은 2일에 걸친 압수 수색 과정에서 특검 측 인력이 보좌관의 컴퓨터에서 ‘한동훈’을 검색하는 등 직접적인 관련이 없는 자료까지 압수하려 시도했다고 지적한 것이다.&lt;br&gt;&lt;br&gt;이 대표의 법률대리를 맡고 있는 김정철 개혁신당 최고위원은 압수 수색 현장에서 브리핑을 열고 “압수 수색 때 보좌진들의 업무 및 회계자료를 모두 확인해가며 자료를 확보했다”며 “피의사실과 관련이 없는 것까지 특검 측이 확인한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 대표 측은 이날 오전 서울중앙지법에 압수 수색에 대한 준항고를 제기했다고 밝혔다. 준항고란 수사기관의 압수 수색 등 처분에 불복할 때 법원에 취소나 변경을 청구하는 제도다. 김 위원은 “준항고 결과가 나올 때까지 보통 한 달가량 걸린다”며 “신속한 판단을 요구할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 이 대표가 2022년 보궐선거 공천 당시 윤석열 전 대통령 부부와 공모해 김영선 전 의원이 공천을 받도록 영향력을 행사했다는 혐의를 받는 피의자 신분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘은마아파트 매몰 사망사고’ 현장 책임자 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/30/HMYL4KOUZNDHFBCMF3IQX3BOVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/HMYL4KOUZNDHFBCMF3IQX3BOVY/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 09:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Z7Z7HAKEFJAHF5RO5ZNCBXHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 오후 발생한 서울 강남구 은마아파트 매몰 사고 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 서울 강남구 대치동 은마아파트 하수관 공사 도중 발생한 토사 붕괴로 인부 1명이 숨진 사고와 관련해, 현장 책임자들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 아파트 관리소장 등 2명을 업무상 과실치사 혐의로 30일 불구속 송치했다고 이날 밝혔다. 이들은 공사 전 필요한 안전 조치를 제대로 이행하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난달 13일 오후 1시쯤 서울 강남구 은마아파트에서 지하 하수관 공사를 하던 유모(69)씨 등 인부 2명이 무너진 토사에 매몰되는 사고가 일어났다. 유씨는 심정지 상태로 구조돼 병원으로 이송됐지만 오후 2시 20분쯤 숨졌다.&lt;br&gt;&lt;br&gt;관리소장 등 안전 관리 책임자들은 사고 직전까지 현장에 없었던 것으로 알려졌다. 경찰 조사 결과, 토사 붕괴를 방지하기 위한 흙막이판 등 안전 시설 설치도 미흡했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;한편 유씨 유족들은 관리소장과 위탁 관리업체를 중대재해처벌법 위반 혐의로 고소하기도 했다. 해당 건은 현재 서울지방고용노동청으로 이송돼 조사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴가온 강원도서 교통사고… 40대 가장 숨지고 자녀 3명 중상</title>
+      <link>https://www.chosun.com/national/incident/2025/07/30/QTZNTLXPIBAH5JDUPO7NDIXSSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/30/QTZNTLXPIBAH5JDUPO7NDIXSSA/</guid>
+      <dc:creator>인제=정성원 기자</dc:creator>
+      <description>강원 인제군의 한 교차로에서 가족이 탄 승합차가 도로변 신호등 기둥을 들이받는 사고가 발생했다. 이 사고로 40대 가장이 숨지고 함께 타고 있던 자녀 3명이 크게 다쳤다.
+30일 오후 2시 32분쯤 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받고 옆으로 넘어졌다.
+</description>
+      <pubDate>Wed, 30 Jul 2025 09:28:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6R2LWP3YBFV3NQYVQUF3FIZTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받는 사고가 발생, 소방대원들이 구조 활동을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 인제군 한 교차로에서 가족이 탄 승합차가 도로변 신호등 기둥을 들이받는 사고가 발생했다. 40대 가장이 숨지고 함께 타고 있던 자녀 3명이 크게 다쳤다.&lt;br&gt;&lt;br&gt;30일 오후 2시 32분쯤 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받고 옆으로 넘어졌다. 이 사고로 A씨가 숨지고 함께 타고 있던 10대 자녀 3명이 다쳐 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;경기도 구리에 사는 A씨는 여름휴가를 맞아 자녀들과 함께 강원 지역을 방문했다가 귀가하던 중 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자와 차량 블랙박스 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박수홍 측, 협박 피소에 “2년만에 문제 제기 이해안돼... 무고 맞대응”</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/30/EWD74XHHFRALVHV6UPHBUCVU7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/EWD74XHHFRALVHV6UPHBUCVU7M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 09:01:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5TOIALEONR4WTDLMQN2FQRCVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법적 다툼을 벌이고 있는 식품업체 대표로부터 협박 혐의로 고소를 당한 박수홍 측이 무고를 주장하며 맞대응에 나섰다. &lt;br&gt;&lt;br&gt;박수홍 법률대리인은 30일 공식 입장을 통해 “식품업체 A씨의 고소 소식을 언론 보도로 접했다”며 “고소장을 수령받지 못한 상황에서 대대적 보도에 이미지 훼손을 위한 언론 플레이가 의심된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 전날 A씨가 박수홍 측으로부터 협박을 당했다며 지난 14일 고소장을 제출한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;박수홍의 소속사는 2023년 9월 ‘A씨 업체가 박수홍의 얼굴을 광고에 무단 사용했다’며 5억원 상당의 약정금 청구 소송을 낸 바 있다. 해당 사건은 현재 수원지법 성남지원에서 심리 중이다.&lt;br&gt;&lt;br&gt;A씨는 박수홍 측 변호사가 해당 소송 제기 직전 강압적으로 사과를 요구했고, 이 과정에서 자신을 협박했다고 주장하고 있다. 박수홍 측 변호사의 행위가 박수홍의 지시를 받은 것이라는 것이 A씨의 주장이다.&lt;br&gt;&lt;br&gt;이에 박수홍 법률대리인은 “A씨가 돌연 2년 만에 이 같은 문제를 제기하는 것은 이해할 수 없는 행위이며 그 의도가 의심된다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “무엇보다 중요한 것은, A씨의 주장은 과거 박수홍의 법률대리인에게 협박성의 말을 들었다는 것”이라며 “즉 박수홍으로부터 이 같은 말을 직접 들은 적이 없는데 행위자가 아닌 박수홍을 상대로 고소장을 제출한 것”이라고 했다. &lt;br&gt;&lt;br&gt;끝으로 “이는 무고에 해당할 수 있다”며 “A씨의 근거 없는 허위 주장으로 박수홍의 명예를 훼손하는 행위에 대하여 단호한 법적 대응을 검토할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘광명 아파트 화재’ 사망자 4명으로 늘어… 80대 중상자 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/30/ULCCGRHIDZHSNHBWPXR3LD57BQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/ULCCGRHIDZHSNHBWPXR3LD57BQ/</guid>
+      <dc:creator>광명=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 08:48:46 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27QTITTWZAJZLPV6O2GYWMW7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 9시 5분쯤 경기 광명시 소하동의 한 아파트 필로티 주차장에서 불이 나 소방대원들이 진화 작업을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명 아파트 화재 사망자가 모두 4명으로 늘었다. &lt;br&gt;&lt;br&gt;30일 광명경찰서에 따르면 지난 29일 오후 3시 40분쯤 서울 한강성심병원에서 치료를 받아온 80대 여성 A씨가 숨졌다. 광명 아파트 화재 현장에서 구조된 지 12일 만이었다. &lt;br&gt;&lt;br&gt;A씨는 앞서 화재로 사망한 60대 남성의 노모다. 이 모자는 저층부에서 발견돼 구조대원들에 의해 병원으로 옮겨졌지만 끝내 숨졌다. 화재 발생 이튿날엔 60대 여성 등 2명이 숨졌다. &lt;br&gt;&lt;br&gt;화재 당시 크게 다쳤던 부상자 중 일부는 회복해 일반 병실로 옮겨졌지만 4명은 위독해 중환자실에 있는 것으로 확인됐다. 특히 이들 중 2명은 의식을 찾지 못하고 있는 상태다. &lt;br&gt;&lt;br&gt;경찰은 “생명이 위태로운 부상자가 있어 사망자가 더 늘어날 수 있다”고 했다. 연기를 흡입하는 등 경상자는 57명으로 집계됐다. &lt;br&gt;&lt;br&gt;앞서 지난 17일 오후 9시 5분쯤 광명시 소하동 10층짜리 아파트 1층 주차장에서 불이 났다. 당시 1시간 30분 만에 꺼졌지만 10층까지 삽시간에 번졌다. &lt;br&gt;&lt;br&gt;경찰은 주차장에서 녹화된 발화 당시 방범카메라(CCTV) 영상을 분석해 주차장 천장 부근에서 불이 시작된 것으로 파악했다. &lt;br&gt;&lt;br&gt;소방당국은 발화 지점인 주차장 천장 안에 있던 케이블 트레이에서 전선 단락흔을 확인하고, 누전으로 화재가 발생한 것으로 추정했다. 전기가 흐르는 상태에서 합선이 발생하면 전선 등이 녹았다가 굳으면서 단락흔이 생긴다. &lt;br&gt;&lt;br&gt;현재 경찰은 화재 피해자와 아파트 주민들을 대상으로 참고인 조사를 진행하는 한편, 국립과학수사연구원의 감정 결과를 기다리고 있다. 이번 화재로 현재까지 형사 입건된 사람은 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금강 이어 영산강 찾은 환경장관 “영산강 재자연화 해법 찾겠다”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/07/30/7FJ7EYYJB5A4RAOLAELWCUSSEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/30/7FJ7EYYJB5A4RAOLAELWCUSSEA/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 08:20:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RGIYXLZCLBLORA2CEDOTSBPN2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관이 30일 광주 남구 승촌보를 찾아 운영 현황을 점검하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 영산강을 찾은 김성환 환경부 장관이 “영산강의 재자연화 해법을 찾겠다”고 밝혔다. 보(洑)에 대한 처리 방안 등 ‘재자연화’가 무엇을 의미하는 것인지 구체적인 언급을 하진 않았으나, 영산강을 4대강 사업 이전으로 되돌리겠다는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;환경부는 30일 김 장관이 영산강 수계의 승촌보, 죽산보, 영산강 하굿둑 현장을 찾았다고 밝혔다. 지난 24일 금강을 방문한 데 이어, 문재인 정부 당시 보 해체 및 상시 개방 결정이 난 영산강까지 차례로 방문한 것이다.&lt;br&gt;&lt;br&gt;환경부는 “‘금강·영산강 보 처리방안’은 2021년 문재인 정부 당시 마련됐으나, 재작년 윤석열 정부에서 취소된 바 있다”며 “이에 이재명 정부의 4대강 재자연화 방안을 마련코자 영산강 2개 보의 현장 여건을 살펴보고 지역 의견을 직접 듣기 위해 현장 방문이 이뤄졌다”고 설명했다.&lt;br&gt;&lt;br&gt;환경부는 김 장관이 승촌보에서 인근 지역의 주요 농작물인 미나리 재배 등 지하수 이용 현황을 살펴보고, 죽산보에서는 나주시의 황포돛배 운영 등 보 운영에 직접적으로 연관된 지역 현안을 주제로 관계자들과 해결 방안을 논의한다고 부연했다.&lt;br&gt;&lt;br&gt;영산강 수계는 농업용수 수요가 많아 보의 역할이 큰 지역으로 꼽힌다. 환경부가 영산강 승촌보·죽산보를 ‘부분 개방’으로 운영 중인 것도 농민들의 요구와 맞닿아 있다. 보는 물을 가둬 가뭄에 대비하는 것이 목적이다.&lt;br&gt;&lt;br&gt;영산강 보를 완전히 개방하려면 수위의 영향을 받는 양수장 19곳의 개선이 필요하다고 환경부는 설명했다. 이중 10곳은 환경부, 나머지 9곳은 농림축산식품부 소관이다.&lt;br&gt;&lt;br&gt;정상적으로 운용 중인 영산강 내 보 두 개를 ‘재자연화’ 명목으로 상시 개방하려면 양수장 개선 등에 추가적인 세금이 쓰여야 하는 것이다. 보 인근 주민들의 반발 등도 풀어가야 할 숙제로 꼽힌다.&lt;br&gt;&lt;br&gt;문 정부 때 결정된 금강·영산강 보 처리방안은 금강 세종보는 해체, 공주보는 부분 해체, 금강 백제보와 영산강 죽산보·승촌보는 수문을 상시 개방하는 것이 골자다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조태용·임기훈 “尹·이종섭 통화하는 거 봤다” 해병 특검 진술</title>
       <link>https://www.chosun.com/national/court_law/2025/07/30/KGILNXVMYZCZHG247MI4IRVTJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/KGILNXVMYZCZHG247MI4IRVTJ4/</guid>
@@ -860,15 +941,6 @@
       </media:content>
     </item>
     <item>
-      <title>김건희 특검, ‘도이치모터스 주가조작’ 2차 주포 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/29/LIUBZVJKUZGPXFI2655OWZOSMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/LIUBZVJKUZGPXFI2655OWZOSMQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 12:17:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RBSMB2IHD5XR3APOWST4IJ2TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 KT광화문빌딩 웨스트에 마련된 김건희 특검 사무실의 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사와 관련한 의혹을 수사 중인 민중기 특별검사팀이 도이치모터스 ‘2단계 주포’ 가담자들을 29일 참고인 신분으로 불러 조사했다. 도이치모터스 주가조작 의혹은 김건희 특검팀의 수사대상 중 하나다.&lt;br&gt;&lt;br&gt;법조계에 따르면 특검팀은 이날 2차 단계 주포였던 김모씨를 불러 조사했다. 전날인 28일에는 주가조적 선수로 지목된 블랙펄인베스트 전 임원 민모씨를 상대로 소환해 조사했다. &lt;br&gt;&lt;br&gt;특검은 이들을 상대로 김 여사가 주가 조작 사실을 인지하고 있었는지 여부, 김 여사 증권 계좌를 관리하며 주가 조작에 사용하게 된 경위 등을 집중적으로 캐물은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람은 김 여사의 대신증권 계좌 ‘7초 매매’의 당사자들이다. 2022년 서울중앙지검 수사팀이 법원에 낸 의견서에 따르면, 김씨는 2010년 11월 1일 오전 11시 22분쯤 “12시에 3300에 8만개 때려달라 해주셈”이라는 문자메시지를 보냈고, 민씨는 “준비시킬게요”라고 답했다. 22분 후인 오전 11시 44분 32초 김씨가 ‘매도하라 하셈’이라는 메시지를 보내고 7초 후 김 여사 명의 계좌에서 3300원에 8만주가 매도됐다.&lt;br&gt;&lt;br&gt;권오수 전 도이치모터스 회장 등의 주가조작 사건을 심리한 법원은 해당 거래를 통정매매라고 인정했다. 다만 김 여사가 사전에 이를 알았는지 여부에 대해선 밝혀지진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>시원하다던 태백마저... 한라산 빼고 전역에 폭염특보</title>
       <link>https://www.chosun.com/national/transport-environment/2025/07/29/YKJBOSZNXFDSXLBIK7DYOJSQ4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/07/29/YKJBOSZNXFDSXLBIK7DYOJSQ4A/</guid>
@@ -876,24 +948,6 @@
       <description/>
       <pubDate>Tue, 29 Jul 2025 11:26:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGFK7FASK44P2VBIDKFE7PYLVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 29일 서울 광화문광장 바닥분수에서 어린이들이 물놀이를 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산을 제외한 우리나라 전역에 폭염특보가 발령됐다. 고지대라 폭염특보가 잘 내려지지 않는 태백까지 이날 특보가 내려진 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 경기 가평이 한낮 최고 39.7도를 기록하는 등 전국에서 극심한 폭염이 이어졌다. 특히 남동풍이 태백산맥을 넘으며 열풍을 공급한 강원영서와 수도권 일대에 더위가 심했다.&lt;br&gt;&lt;br&gt;경기 여주(39.1도)·평택(38.8도), 강원 정선(38.7도), 경북 안동(38도) 등에서 이날 기온이 38도 이상으로 올랐다.&lt;br&gt;&lt;br&gt;30일에도 극한 더위가 이어지겠다. 30일 아침 최저기온은 22~28도, 낮 최고기온은 32~38도로 예보됐다. 경기북동부와 강원내륙엔 5~30㎜ 사이의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 내달 8일까지 전국에 큰 비 소식 없이 폭염과 열대야가 반복될 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, ‘구치소 독방 거래 의혹’ 교도관 직위해제</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/29/TQSX7AZKSFEJLPKTPHRD5ATKGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/TQSX7AZKSFEJLPKTPHRD5ATKGU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 11:14:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCSNEWQFHVPKXHLQ5JBO3LIKUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소로 법무부 교정본부 차량이 들어가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘구치소 독방 거래’ 의혹으로 경찰 수사를 받는 교정당국 관계자가 직위해제 조치된 것으로 29일 확인됐다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 법무부는 독거실 배정을 명목으로 수용자들에게 금품을 수수한 혐의를 받는 교정당국 관계자 A씨를 이날 직위해제 조치했다. 앞서 경찰청 중대범죄수사과는 A씨 사건과 관련해 법무부 교정본부와 서울구치소를 지난 28일 압수 수색해 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 여러 수용자로부터 수천만원을 입금받고 여러 명이 사용하는 혼거실에서 1인실인 독거실로 방을 바꾸는 데 관여한 정황을 확보한 것으로 전해졌다. 경찰은 A씨 뒤에 배후 세력이 있는지 여부를 수사할 것으로 전해졌다. 교정본부 관계자들에 대한 참고인 조사도 병행하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 경찰은 지난 26일 A씨의 독방 거래에 연루된 의혹을 받는 브로커 2명을 뇌물공여 혐의로 구속했다. 이 브로커들은 조직폭력배 출신으로 수용자의 돈을 받아 A씨에게 일부를 전달한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>80대女 몰던 벤츠 마당 돌진…할머니집 놀러왔던 12살 손녀 ‘참변’</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/29/Z7P3TRXGOZHCJMLW4F2BUUZVSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/Z7P3TRXGOZHCJMLW4F2BUUZVSA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 11:18:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUU3ZZ2CGVAERLRQ2HYV4VR5RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 경기 양평군에서 발생한 차량 돌진 사고 현장. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평에서 80대 여성이 몰던 벤츠 승용차가 가정집 마당으로 돌진해 12살 여자 초등학생이 사망한 가운데, 피해 아동은 여름방학을 맞아 할머니 집을 찾았다가 사고를 당한 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;29일 경기 양평경찰서 등에 따르면 지난 27일 오후 6시 40분쯤 경기 양평군 용문면에서 A(여·80대)씨가 몰던 벤츠 승용차가 갑자기 단독주택 마당으로 돌진했다. 이 사고로 주택 마당에 있던 B(12)양이 차량 등에 깔려 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;사고 현장은 90도로 꺾인 마을 내 이면도로로, A씨는 이곳에서 우회전하려다가 정면에 있던 단독주택의 철제 담장을 들이받으며 마당으로 돌진한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B양은 사고 당시 여름방학을 맞아 찾은 할머니 집 마당에서 야영할 계획으로 텐트를 치고 그 안에서 장난감과 읽을 책 등을 준비하던 중이었다. 할머니 집에는 B양의 동생과 사촌 2명도 있었지만 다행히 다른 세 아이는 사고 당시 집 안에 있어 참변을 피할 수 있었다.&lt;br&gt;&lt;br&gt;A씨는 음주 상태는 아니었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B양의 아버지는 TV조선과의 인터뷰에서 “제가 텐트를 설치하지 않았거나 아니면 할머니 댁에 좀 늦게 방문했으면 어땠을까라는 후회도 든다”고 말했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 운전 미숙으로 사고를 낸 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>박수홍, 법적 다툼 중인 식품업체 대표에 ‘협박 혐의’로 고소 당해</title>
@@ -912,51 +966,6 @@
       <description/>
       <pubDate>Tue, 29 Jul 2025 09:34:48 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GKW6ADVFN5NDLEASQXDWBHR5NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 29일 서울 시내 한 건설 현장 혹서기 근로자 휴게실에서 작업자들이 휴식을 취하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염의 기세가 꺾이지 않으면서 하루 동안 전국 응급실에 이송된 온열질환자가 일주일째 매일 100명을 넘기고 있다. 7일 연속으로 온열질환자가 매일 100명 이상 발생한 것은 관련 통계가 집계된 2011년 이후 처음이다.&lt;br&gt;&lt;br&gt;29일 질병관리청에 따르면 전날(28일) 하루 동안 전국 500여곳 응급실을 찾은 온열질환자는 164명(잠정치)이다. 이 가운데 경기도 화성시에서 1명이 사망했다. &lt;br&gt;&lt;br&gt;온열질환자는 지난 22일 이후 7일째 매일 100명 넘게 발생하고 있다. 관련 통계가 집계된 이후 최장 기록이다. 이전에는 ‘역대급 폭염’으로 꼽히는 2018년 7월 23일부터 28일까지 엿새 연속 매일 100명 이상의 온열질환자가 나온 적이 있다.&lt;br&gt;&lt;br&gt;올해 5월 15일 온열질환 감시체계가 가동된 이후 누적 온열질환자는 2631명이다. 이 가운데 사망자는 12명이다. 지난해 감시 시작일인 5월 20일부터의 수치만 보면 온열질환자는 2615명으로 전년 동기(1007명)와 비교해 2.6배 규모다. 올해 사망자는 지난해 같은 기간(4명) 대비 3배에 달한다.&lt;br&gt;&lt;br&gt;온열질환은 고온 환경에 노출됐을 때 발생하는 급성 질환이다. 통상적으로 두통, 어지러움, 근육경련, 피로감 등의 증상을 동반한다. 제때 적절한 조치가 이뤄지지 않으면 의식 저하가 나타나면서 생명이 위태로울 수도 있다. &lt;br&gt;&lt;br&gt;온열질환을 예방하려면 시원한 곳에서 자주 휴식을 취하고, 갈증이 나지 않더라도 물을 자주 마셔야 한다. 가장 더운 시간대인 정오부터 오후 5시까지는 외출을 삼가는 게 좋다. 외출할 때는 양산과 챙이 넓은 모자를 쓰고, 밝은 색의 가벼운 옷을 입는 게 좋다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>녹 눈물 흘리던 독립문, 12년 만에 목욕한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/29/7M6FAAS52NEJRBLMY5WH7W27W4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/7M6FAAS52NEJRBLMY5WH7W27W4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 08:34:09 +0000</pubDate>
-      <content:encoded>서울 서대문구에 있는 독립문이 12년 만에 ‘목욕’을 한다. 외벽의 녹물 자국과 검은 때를 제거하는 것이다. 녹물의 원인인 철제 지지대도 티타늄 소재로 바꿔 녹물 발생도 줄인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSFO4ZECT5YDKSUADNG53MEOKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 독립문의 현판. /경기도박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 서대문구에 따르면, 구는 다음 달 중순부터 독립문 보수 공사에 나선다. 이를 위해 지난 28일에는 공사 입찰 공고를 냈다.&lt;br&gt;&lt;br&gt;서대문구가 독립문을 보수하기로 한 건 외벽에 생긴 녹물 자국 때문이다. 독립문은 돌을 고정하기 위해 돌 사이사이에 철제 지지대를 넣어 지었다. 이 지지대가 빗물에 녹슬어 흘러내리면서 자국이 생긴 것이다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 “녹물 자국이 생긴 자리가 70곳에 달한다”고 했다.&lt;br&gt;&lt;br&gt;서대문구는 레이저 등 방식을 활용해 녹물 자국을 없앤다는 계획이다. 앞으로 녹물 자국이 생기는 것을 막기 위해 철제 지지대 32개는 티타늄 소재로 바꾸고, 교체가 어려운 나머지 85개는 녹이 잘 슬지 않도록 조치를 취할 예정이다.&lt;br&gt;&lt;br&gt;이처럼 서대문구가 독립문 녹물 제거 작업에 나서는 건 2013년 이후 12년 만이다. 당초 독립문 외벽이 지저분하다는 민원이 제기되자 2019년부터 정비를 추진했지만, 예산 신청과 국가유산청 심의 등 문제로 지연됐다.&lt;br&gt;&lt;br&gt;서대문구 관계자는 “공사를 마치는 데 6개월 정도가 소요될 것으로 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, “인천 사제 총기 살인범, 고립감·망상 등으로 범행”</title>
-      <link>https://www.chosun.com/national/incident/2025/07/29/LISPQWHORFEFZLFHGHDI5HA7OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/29/LISPQWHORFEFZLFHGHDI5HA7OI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 08:05:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFA62PERJ6TNXV4EL5QDOORVXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 총기 사고가 발생한 인천 송도국제도시 아파트 단지./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘인천 사제 총기 살인 사건’은 범행을 저지른 조모(62)씨가 가족으로부터 소외받고 있다는 고립감과 망상으로 범행했다는 경찰 판단이 나왔다. &lt;br&gt;&lt;br&gt;조씨는 경찰 조사 과정에서 가정 불화 등을 범행 동기로 진술했으나 이를 인정할 만한 근거는 확인되지 않았다. &lt;br&gt;&lt;br&gt;29일 인천경찰청에 따르면, 살인, 총포‧도검‧화약류 등의 안전관리에 관한 법률 위반, 현주건조물방화예비 혐의 등으로 구속된 조씨는 아들과 이혼한 아내 등 가족으로부터 소외됐다는 고립감과 지속적인 망상에서 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;조씨는 지난 2015년 아들 A(34‧사망)씨가 결혼하기 전까지 1999년 이혼한 아내 등과 함께 서울 도봉구 쌍문동 집에서 살았다. 특별한 직업은 없었다고 한다. &lt;br&gt;&lt;br&gt;이후 아들 A씨가 결혼 후 분가하고, 이혼한 아내까지 다른 집에서 살면서 조씨는 쌍문동 집에 혼자 남게 됐다. 경찰은 이때부터 조씨가 아들과 이혼한 아내에 대한 불만과 망상을 가졌던 것으로 보고 있다. 조씨는 경찰에 “아들과 전 처가 짜고 자신을 셋업 한 거지(함정에 빠트린 거지)”라는 취지의 진술을 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;그러나 조씨는 A씨와 이혼한 전처 등으로부터 생활비와 대학원 등록금, 통신비, 생일 축하금, 아파트 공과금 등 경제적 지원을 받아왔고, 명절과 어버이날, 자신의 생일 등에도 교류하는 등 특별한 가정불화나 갈등은 확인되지 않은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;앞서 프로파일러 조사에서 밝혔던 경제적 어려움에 대해 조씨는 직접적인 범행 동기는 아니라고 경찰에 진술한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자(조씨) 스스로 자신이 외톨이라는 고립감에 사로잡혔고, 가장으로서의 자존감을 상실한 채 심리적으로 위축돼 간 것으로 보인다”며 “피해자 측은 피의자를 같은 가족으로 생각하고 잘해줬으나, 피의자는 (범행의) 모든 책임을 가족들에게 전가했다”고 했다. 이어 “(수사 결과) 다른 가족들에게 책임이 있다고 보기 어렵다고 판단했다”며 “피의자의 누적된 착각과 망상이 범행 동기로 보인다”고 설명했다. &lt;br&gt;&lt;br&gt;조씨는 지난해 8월부터 범행을 계획한 것으로 조사됐다. 조씨는 이때부터 사제 총기 제작 관련 영상 등을 보면서 온라인을 통해 총기 제작에 필요한 파이프와 손잡이 등을 구입했고, 최근엔 주거지에 불을 지를 목적으로 타이머 콘센트와 전선, 시너 등 폭발물을 만들기 위한 재료를 사들였다. &lt;br&gt;&lt;br&gt;조씨는 직접 만든 총기를 자신의 집에서 장약 등을 뺀 채로 시험해 보기도 한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;준비가 마무리되자 조씨는 범행을 결심하고 지난 20일 아들 A씨의 집이 있는 인천 연수구 송도국제도시의 한 아파트로 향했다. 자신의 생일 잔치가 준비된 날이었다. 경찰은 자신의 생일 잔치를 아들 집에 가기 위한 명분으로 삼은 것으로 보고 있다. &lt;br&gt;&lt;br&gt;조씨는 평소 A씨 집에 갈 때면 대중교통을 이용했다고 한다. 그러나 이날은 차를 빌렸고, 그 차 안에 직접 만든 총기와 총알 등을 실었다. &lt;br&gt;&lt;br&gt;저녁 식사를 마친 그는 편의점을 다녀온다며 집 밖으로 나갔고, 오후 9시 30분쯤 차에서 총기를 가져와 현관문을 열어주던 A씨를 향해 총을 쐈다. A씨는 심정지 상태로 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 21일 오전 0시 19분쯤 서울에서 붙잡았고, 그의 서울 집에선 타이머가 다음 날 정오로 맞춰진 사제 폭발물이 발견돼 해체 작업이 진행됐다. &lt;br&gt;&lt;br&gt;경찰은 조씨가 범행 당시 A씨뿐만 아니라 현장에 있던 며느리와 손주 2명, 외국인 가정교사(며느리의 지인) 등 다른 4명도 모두 살해하려 한 것으로 보고 살인미수 혐의를 추가 적용했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 피의자(조씨)는 총열 4개와 총알 15발을 가지고 들어갔고 도망간 며느리 지인을 추적하면서 총을 쏘려고 했다”며 “집 안에 있는 다른 가족들에게도 총을 겨누면서 ‘이리 와’라고 말했던 것으로 봤을 때 신고를 못하게 할 목적으로 살해하려 했던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 조씨가 자신의 서울 집에 사제 폭발물을 설치한 것과 관련해 폭발물사용 혐의를 추가로 적용할지도 검토할 계획이다.&lt;br&gt;&lt;br&gt;경찰은 30일 조씨를 검찰에 송치할 계획이다.&lt;br&gt;&lt;br&gt;한편, 이번 사건 수사 과정에서 경찰의 초동 대응이 부실했다는 지적이 많았다. 경찰특공대는 신고 접수 70여 분 만에 사건 현장에 진입했고, 가장 위험한 단계에 내려지는 ‘코드0’가 발령돼 현장에 즉시 갔어야 하는 상황관리관은 경찰서에 있다가 인천경찰청 지시로 사건 발생 1시간여 만인 오후 10시 33분 현장으로 출동했다. 사건을 보고받은 관할 경찰서장은 현장이 아닌 경찰서에서 상황을 지휘했다. 조씨에 대한 휴대전화 위치 추적도 신고 접수 98분 만인 오후 11시 9분쯤에야 시작하는 등 초동 수사 부실 논란을 빚었다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “신고자(A씨의 아내)와 통화하고 문자를 지속해서 주고받았는데, (조씨가) 밖에서 총을 장전하고 있다는 취지로 설명해 현장에 있다고 생각하고 특공대 진입 작전 등을 수립했다”고 했다. 이어 “피의자(조씨)가 현장에 없다는 사실을 특공대 진입 후 확인했고, 피해자 측과 접촉한 뒤 (조씨가) 자살 우려가 있다고 해서 신속하게 휴대전화 위치 조회를 요청했다”고 했다. &lt;br&gt;&lt;br&gt;초동 수사의 적절성 여부에 대해선 “현재 경찰청의 감찰 조사가 진행되고 있다”며 “섣불리 언급하는 데는 어려움이 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “안철수 참고인 조사 요청…‘野 탄압’ 주장 수용 못 해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/29/OGX3WBEBJ5CRTG3ETGJNH4SQOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/OGX3WBEBJ5CRTG3ETGJNH4SQOQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 08:09:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTKNBLM66BAA3HI6W6WLPCMOSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄' 관련 내란·외환 사건을 수사하는 내란특검팀 박지영 특검보가 지난 15일 오후 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에서 정례 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안철수 국민의힘 의원이 29일 내란 특검의 참고인 소환 통보를 두고 ‘야당 탄압’이라고 비판한 가운데, 특검 측은 수사 과정에서 참고인 조사를 요청했을 뿐인데 이를 정치적 수사나 야당 탄압으로 해석하는 것은 수용하기 어렵다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 긴급 브리핑을 열고 “특검 수사를 정치적으로 이용하지 말았으면 한다”며 이 같이 밝혔다. 박 특검보는 “안철수 의원은 내란 특검법을 찬성한 유일한 여당 의원이었고, 비상계엄 해제 당시에도 국회 현장에 있었다”며 “관련해 사실관계를 잘 설명해줄 거라 생각해 참고인 조사 협조를 부탁한 것”이라고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 안 의원에게 지난해 계엄 선포 당시 국회 표결 방해 시도와 관련한 수사를 위해 참고인 조사를 요청했다. 내란 특검 관계자는 안 의원에게 보낸 문자메시지에서 “12·3 비상계엄 당시 국회에서 표결 방해 시도 행위 및 관련 고발 사건이 수사 대상에 포함돼 있어, 관련 조사에 대한 협조를 구한다”며 “국민의힘 의원 다수가 계엄 해제 요구안 표결에 불참하게 된 경위와 국민의힘 내 의사 형성 과정 등에 대한 조사가 반드시 필요하다는 점을 말씀드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 안 의원은 국회에서 기자회견을 열고 문자 내용을 공개하며 강하게 반발했다. 그는 “계엄에 반대하고 탄핵에 찬성했던 저에게조차 이런 문자를 보냈다. 황당하기 그지없다”며 “국민의힘 전체를 내란 정당으로 낙인찍으려는 시도, 우리 당 해산을 노린 정치 폭거”라고 주장했다. 그러면서 “무분별한 정치 수사와 야당 탄압을 지금 당장 중단하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고발장에 동의 없이 이름·계좌번호 첨부...대법 “처벌 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/29/SEJOGGFIKVF7DGKPW2XJAUUVMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/29/SEJOGGFIKVF7DGKPW2XJAUUVMI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 05:46:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NRIRZMCKFJZRBJRV6IX5NEDRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;업무상 알게 된 다른 사람의 개인정보를 동의 없이 고발장에 첨부해 수사 기관에 제출했다고 해서 개인정보보호법 위반으로 처벌할 수 없다는 대법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 전직 지역 농협 임원 A씨의 개인정보보호법 위반 사건 재상고심에서 벌금 500만원을 선고한 원심을 깨고 사건을 광주지법으로 돌려보냈다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;전남 나주의 한 농업협동조합 경제상무로 재직했던 A씨는 2014년 퇴사한 뒤 조합장 B씨의 비위를 경찰에 고발했다. B씨가 조합장 선거를 앞두고 조합원들에게 수박 등을 나눠주고 조합 명의로 내야 할 축의·부의금을 개인 명의로 하는 등 농업협동조합법을 위반했다는 내용이었다.&lt;br&gt;&lt;br&gt;A씨는 고발장과 함께 이름·주소·계좌번호 등이 적힌 꽃 배달 내역서와 B씨가 공판장에서 과일을 구입하는 모습이 찍힌 CCTV 영상 등을 증거 자료로 첨부했다. 이 고발로 B씨는 벌금 70만원을 선고받았는데, A씨도 업무상 알게 된 개인정보를 동의 없이 수사 기관에 제출해 누설한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;법원 판단은 엇갈렸다. 애초 1심은 A씨에게 벌금 500만원을 선고했으나 2심은 무죄를 선고했다. 대법원은 2022년 “고소·고발에 수반해 수사 기관에 개인정보를 알려준 것을 개인정보보호법상 ‘누설’에서 제외할 수 없다”며 유죄 취지로 파기환송했다. 파기환송심은 대법원 판결 취지를 반영해 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;이 사건은 A씨가 재상고하면서 대법원에 다시 올라왔다. 대법원은 이번에 “고발 내용을 뒷받침하기 위해 증거 자료를 수사기관에 제출하는 행위는 사회상규에 위배되지 않는다”며 무죄 취지로 다시 사건을 돌려보냈다. &lt;br&gt;&lt;br&gt;대법원은 “A씨가 제출한 증거 자료는 고발한 범죄 혐의와 직접 관련이 있는 자료이므로 공익적 측면을 부정할 수 없다”며 “고발장에 일정 부분 개인정보를 기재하는 것은 불가피하고 수사기관이 고발장에 포함된 개인정보를 수사 외 목적으로 사용하거나 제3자에게 제공할 위험성은 크지 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전서 30대 여성 흉기에 찔려 숨져… 경찰, 용의자 추적</title>
-      <link>https://www.chosun.com/national/regional/2025/07/29/J2PUU4OFSNFCHEZO6NVZ7WWDRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/29/J2PUU4OFSNFCHEZO6NVZ7WWDRQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 05:37:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 정오쯤 대전 서구 괴정동의 한 빌라 근처 길에서 20대 중반으로 추정되는 남성이 30대 여성을 흉기로 찌르고 달아났다.&lt;br&gt;&lt;br&gt;흉기에 찔린 여성은 심정지 상태로 병원으로 옮겨졌으나, 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 용의자가 교제했던 여성을 상대로 범행을 한 것으로 추정하고, 주변 방범카메라(CCTV) 영상 분석 등을 통해 달아난 A씨의 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>스토킹범이 사무실 훤히 아는데.. 경찰은 센터에 아무 조치 안했다</title>
