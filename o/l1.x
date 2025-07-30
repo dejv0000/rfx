@@ -6,6 +6,56 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"AI 시대에도 행정사 있어야"…행정사회, AI 법률문서 작성법 교육</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210138.jpg" alt="345346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;7월 30일 서울 금천구 가산동 대한행정사회에서 박성재 로폼 AI센터장이 강연하고 있다. 《사진=대한행정사회》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한행정사회 중앙교육연수원(원장 박진현)은 7월 29일 '행정사 업무용 AI 법률문서 작성 지원'을 주제로 교육을 열었다. 교육은 온·오프라인 방식으로 진행돼 회원 370여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;강의는 로테크 기업인 로폼의 AI센터장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="891"&gt;박성재&lt;/span&gt;(59·사법연수원 30기) 변호사가 맡아 AI를 사용한 법률문서 작성법과 행정사들이 실무에 사용할 수 있는 디지털 도구 사용법 등을 중심으로 교육이 이뤄졌다. 박 센터장은 2001년 수원지검 검사로 임관해 대전지검, 서울지검 등에서 일했고 2011년 변호사로 개업했다.&lt;br /&gt;&lt;br /&gt;윤승규 대한행정사회 회장은 "AI 시대에 행정사도 기술력을 갖춘 전문성을 요구받고 있다"며 "출입국, 비자, 행정심판 등 업역 수호를 위해 회원들이 새로운 환경에도 능동적으로 대응할 수 있게 교육을 확대하겠다"고 말했다. 대한행정사회는 다음 달 1일에도 업무용 AI 법률문서 작성 지원 교육을 이어갈 예정이다.</description>
+			<pubDate>Wed, 30 Jul 2025 10:57:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210138</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210138</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210138.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>분쟁과 갈등의 시대, 예술로 말하는 화해의 첫마디…《시담(示談)》 전시 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210137.jpg" alt="435435345.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법조인과 예술인이 손잡고 화합의 메시지를 전하는 예술 전시가 열린다. 사단법인 한국기독교화해중재원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6863"&gt;문용호&amp;nbsp;&lt;/span&gt;변호사)은 8월 2~31일 서울 서초구 서초동 사랑의교회 사랑아트갤러리에서 첫 후원 전시 &lt;b&gt;《시담(示談)》&lt;/b&gt;을 개최한다.&lt;br /&gt;&lt;br /&gt;'시담(示談)'은 '화해를 위해 먼저 건네는 말'을 뜻한다. 이번 전시는 분쟁 해결과 공동체 회복을 위해 활동해 온 한국기독교화해중재원이 법조인과 미술인의 연대를 통해 '화해의 미학'을 사회에 환기하고자 기획됐다고 주최즉은 설명했다. &lt;br /&gt;&lt;br /&gt;참여 작가는 총 14명으로, 원로 조각가 최종태를 비롯해 중견 및 신진 작가들이 회화와 조각 등 작품 47점을 선보인다. 특히 최종태 작가의 신작 '기도하는 사람'이 이번 전시를 통해 처음 공개된다.&lt;br /&gt;&lt;br /&gt;작품들은 인간 사이의 갈등, 자연과의 관계, 일상 속에서의 평화 등 다양한 주제를 통해 ‘화해’라는 키워드를 다각도로 풀어낸다. 김덕기 작가는 화목한 가족의 모습을, 오숙환 작가는 장엄한 자연 속 질서를 통해 평화의 메시지를 전하며, 정정주 작가는 빛과 미디어의 결합을 통해 새로운 형태의 화해 이미지를 그려낸다.&lt;br /&gt;&lt;br /&gt;전시 기간 중 8월 6일과 7일에는 박주영·양기진 작가와의 '아티스트 토크'도 마련돼 있다. 해당 프로그램은 청년층을 대상으로 문화예술 속 평화의 메시지를 직접 듣고 체험할 수 있는 기회를 제공한다.&lt;br /&gt;&lt;br /&gt;전시 오프닝은 8월 5일 오후 3시 사랑의교회 사랑아트채플에서 감사 예배 형식으로 진행되며, 전시장은 월요일을 제외한 매일 오전 10시부터 오후 6시까지 운영된다.&lt;br /&gt;&lt;br /&gt;한국기독교화해중재원은 2008년 설립된 민간 조정기관으로, 교회 안팎의 분쟁을 법정 소송이 아닌 대화를 통한 조정과 중재로 해결하는 역할을 맡아왔다. 대법원 인가를 받은 사단법인으로서 교회 내 분쟁 해결과 공동체 회복을 위한 다양한 활동을 이어가고 있다.&lt;br /&gt;</description>
+			<pubDate>Wed, 30 Jul 2025 09:04:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210137</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210137</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210137.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>"보호복지 정책 기반 마련" 한국형사법무정책연·법무보호복지학회 협약</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210134.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;정웅석 한국형사·법무정책연구원장(오른쪽)과 양혜경 한국법무보호복지학회장이 7월 28일 서울 서초구 우면동 연구원 한 회의실에서 협약을 체결한 뒤 기념사진을 촬영하고 있다. 《사진=한국형사·법무정책연구원 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사·법무정책연구원(원장 정웅석)이 보호복지 정책 기반 마련 등을 위해 한국법무보호복지학회(회장 양혜경)와 업무협약(MOU)을 체결했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;7월 28일 서울 서초구 우면동 연구원에서 체결된 이번 협약은 출소자의 재범 예방과 안정적인 사회 복귀를 지원하기 위한 보호복지 정책 기반을 마련하고, 양 기관의 전문성과 현장 경험을 접목해 실효성 있는 입법 지원 및 정책 대응 체계를 구축하기 위해 추진됐다.&lt;br /&gt;&lt;br /&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210134.jpg" alt="2.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=한국형사·법무정책연구원 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;협약에 따라 두 기관은 △공동 학술대회 및 세미나 개최 △연구 목적의 조사 활동에 대한 편의 제공 및 정보 공유 △연구자료 및 간행물 상호 공유 △기타 상호 발전을 위한 협력 등 다양한 분야에서 지속적인 협력을 이어가기로 했다.&lt;br /&gt;&lt;br /&gt;정웅석 한국형사·법무정책연구원장은 “형사정책과 복지정책은 따로 떼어놓을 수 없는 상호보완적 영역”이라며 “이번 협약을 통해 두 기관이 함께 실질적이고 현장 중심의 보호복지 정책을 만들어가는 데 큰 진전을 이룰 수 있을 것으로 기대한다”고 말했다.</description>
+			<pubDate>Wed, 30 Jul 2025 07:26:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210134</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210134</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210134.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>"새정부 노동정책, 기업 대비책은?" 린·한국능률협회컨설팅 세미나 8일 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210135.jpg" alt="45647.jpg" /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;법무법인 린&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)은 한국능률협회컨설팅(KMAC 대표 한수희)과 함께 ‘제1회 경영-법률 통합 세미나’를 오는 8월 8일 오후 2시, 서울 영등포구 여의도동 FKI타워(구 전경련회관)에서 개최한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5798"&gt;차선희&lt;/span&gt;(59·사법연수원 24기) 법무법인 린 HR팀장은 “최근 노동환경 변화는 그 속도와 강도 모두 기업에 큰 도전이 되고 있다”며 “이번 세미나는 인사·노무 실무자들이 놓치기 쉬운 법률 리스크를 사전에 인지하고, 실질적 대응 전략을 수립할 수 있도록 돕는 데 초점을 맞췄다”고 말했다.&lt;br /&gt;&lt;br /&gt;세미나는 △주 4.5일제, 포괄임금제 폐지 등 새 정부 노동정책 요약 △법률 리스크 및 대응 전략(법무법인 린) △근로시간 개편 대응 HR 디자인 전략(KMAC) △노동정책 전문가 패널 토론 등으로 구성된다. KMAC와 린은 이 세미나에서 경영 전략 수립부터 법률 리스크 대응까지 원스톱으로 지원하는 통합 서비스 모델을 처음으로 공개한다.&lt;br /&gt;&lt;br /&gt;참석자 전원에게는 세미나 핵심 리포트가 제공되며, 세미나 종료 후에는 개별 기업 상황에 맞춘 전문가 상담과 네트워킹 기회도 마련된다. 참가 대상은 인사, 노무, 전략, 법무 부서 실무자 및 책임자로, 선착순 무료 사전 등록제로 운영될 예정이다.&lt;br /&gt;</description>
+			<pubDate>Wed, 30 Jul 2025 06:57:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210135</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210135</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210135.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희 특검, 尹 체포영장 청구…내일부터 명태균 조사</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210133.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;오정희 특검보 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 30일 소환에 여러 차례 불응한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대한 체포영장을 청구했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1255"&gt;오정희&amp;nbsp;&lt;/span&gt;특검보는 이날 오후 "윤 전 대통령은 어제와 오늘 아무런 사유를 밝히지 않은 채 조사에 불응했다"며 "오늘 오후 2시 12분 윤 전 대통령에 대한 체포영장을 청구했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 전날에 이어 이날 오전 10시 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실로 윤 전 대통령을 불렀으나 그는 출석하지 않았다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령은 그간 내란 특검팀의 출정조사와 내란 재판에도 건강 악화를 이유로 불출석해왔다. 김건희 특검팀에는 변호인 선임계와 사유서 등 어떠한 의견도 전달하지 않고 있다. &lt;br /&gt;&lt;br /&gt;오 특검보는 강제조처에도 윤 전 대통령이 조사에 응하지 않을 경우엔 어떻게 할 것이냐는 질문에 "그 부분에 대해 구체적으로 말씀드릴 수 없다"면서도 "정리가 되면 말하겠다"고 답했다. &lt;br /&gt;&lt;br /&gt;앞서 내란 특검팀은 윤 전 대통령이 세 차례의 출석요구와 강제구인 지휘에도 구치소에서 나오지 않자 지난 19일 특수공무집행방해, 직권남용 권리행사방해 등 혐의로 구속기소한 바 다. &lt;br /&gt;&lt;br /&gt;김건희 특검팀은 양평 공흥지구 개발 특혜 의혹으로 기소된 김 여사의 오빠 김진우 씨 사건과 관련해 기일 연기를 요청했다. 특검은 추가 자료 제출과 공소장 변경을 준비 중이라며, 공소 유지 중인 검사에게 재판 기일 조정을 요청했고, 이를 수원지법 항소부가 수용해 새로운 기일을 지정했다고 밝혔다. &lt;br /&gt;김건희 특검팀은 공천개입 의혹의 핵심 인물인 명태균 씨를 오는 31일부터 이틀간 조사할 예정이다. &lt;br /&gt;&lt;br /&gt;오 특검보는 "명태균 씨에 대한 조사가 내일과 모레 이틀 동안 진행될 예정이다. 명태균 씨가 조사에 출석할 의사가 있는 걸로 알고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;앞서 김건희 특검팀은 윤 전 대통령 부부의 자택을 압수수색하면서 공천개입 의혹 사건에 특정범죄가중처벌법의 뇌물 혐의를 적용했다.&lt;br /&gt;&lt;br /&gt;특검팀은 당시 공천관리위원장이었던 윤상현 국민의힘 의원으로부터 '(공천과 관련해) 윤 전 대통령의 전화를 받았다'는 진술을 확보한 상태다.&lt;br /&gt;</description>
+			<pubDate>Wed, 30 Jul 2025 06:55:32 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210133</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210133</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210133.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>윤석열 측 '비상계엄 위자료 10만원' 강제집행 정지 신청</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210130.jpg" alt="456474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 9일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(65·사법연수원 23기) 전 대통령 측이 12·3 비상계엄으로 정신적 피해를 입은 시민들에게 위자료를 배상하라는 1심 판결에 대해 법원에 강제집행정지를 신청했다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령 측은 29일 1인당 10만 원의 위자료를 지급하라는 1심 판결에 대한 강제집행정지 신청을 제기했다. 1심 판결에 불복해 항소한 데 이어 판결 확정 전에 가집행되는 것을 막기 위한 대응 조처로 풀이된다. 강제집행정지 사건은 서울중앙지법 민사항소8-3부(재판장 신영희·정인재·김기현 부장판사)가 심리한다.&lt;br /&gt;&lt;br /&gt;앞서 서울중앙지법 민사2단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8997"&gt;이성복&lt;/span&gt;(65·16기) 부장판사는 7월 25일 104명의 시민이 윤 전 대통령을 상대로 낸 손해배상소송(&lt;b&gt;2024가소120790&lt;/b&gt;)에서 "1인당 10만 원을 배상하라"며 원고 승소 판결했다.&lt;br /&gt;&lt;br /&gt;재판부는 당시 가집행도 가능하다고 선고했다. 가집행이란 판결이 확정되지 않더라도 배상금을 임시로 강제집행할 수 있도록 하는 것이다. 원래 판결이 확정돼야 강제집행을 할 수 있는 것이 원칙이지만, 신속한 권리 실현을 위해 가집행을 허용할 때가 있다.&lt;br /&gt;&lt;br /&gt;법원이 강제집행정지 신청을 받아들이면 재판부가 정하는 시한까지는 가집행할 수 없게 되며, 만약 받아들이지 않으면 가집행 가능 상태가 유지된다.</description>
 			<pubDate>Wed, 30 Jul 2025 04:30:44 -0000</pubDate>
@@ -190,53 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210111</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210111.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>"노란봉투법으로 노사관계 구조적 변화"…세종, '노란봉투법 대응방안' 온라인 세미나</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210110.jpg" alt="3453636.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210110.jpg" alt="111111111111.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;8월 6일 열리는 법무법인 세종 '노란봉투법 대응방안' 온라인 세미나 포스터.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="http:// https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1285"&gt;오종한&lt;/span&gt;)이 8월 6일 '노란봉투법 대응방안'을 주제로 온라인 세미나를 연다.&lt;br /&gt;&lt;br /&gt;새정부 출범 이후 논의되는 노란봉투법은 '실질적 지배력'이 인정되면 원청업체가 하청업체 노동조합과 단체교섭을 하게 강제한다. 이번 세미나에서는 '사용자성 확대'를 비롯한 주요 쟁점의 해석과 기업의 실무적 대응 전략 검토가 이뤄진다.&lt;br /&gt;&lt;br /&gt;발표는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15268"&gt;김종수&lt;/span&gt;(46·사법연수원 37기) 변호사가 '노란봉투법의 쟁점과 논의과정'을 주제로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6115"&gt;조찬영&lt;/span&gt;(53·29기) 변호사가 '원청의 사용자성 판단기준과 기업의 대응방안'을 주제로 진행한다. 조 변호사는 서울고등법원 노동전담부 판사로 일햇다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14197"&gt;김동욱&lt;/span&gt;(55·36기) 세종 노동그룹장은 "노란봉투법이 빠르면 올해 안에 통과할 수 있고 노사관계는 구조적 변화를 맞게 된다"며 "이번 세미나를 통해 노사관계를 새롭게 설계하는 데 실질적인 통찰을 제공할 수 있기를 기대한다"고 말했다.</description>
-			<pubDate>Tue, 29 Jul 2025 01:48:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210110</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210110</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210110.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>윤석열 전 대통령, 김건희 특검 첫 소환 불응</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210112.jpg" alt="45646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;윤석열 전 대통령에 대한 김건희 특검팀의 첫 소환 조사가 예정된 29일 서울 종로구 특검 사무실 앞에 취재진이 대기하고 있다.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대해 첫 소환 조사를 시도했지만 윤 전 대통령은 이에 불응했다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령은 29일 오전 10시에 예정된 특검팀 소환 조사에 출석하지 않았다. 윤 전 대통령은 특검팀에 변호인 선임계도 제출하지 않은 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;특검팀은 윤 전 대통령에게 재차 소환 통보를 했다. 특검팀은 이날 언론 공지를 통해 "윤 전 대통령에게 오늘(29일) 오전 10시에 출석하도록 통보했으나 별다른 설명 없이 출석하지 않았다"며 "이에 윤 전 대통령에 대해 내일(30일) 오전 10시에 출석하라는 수사협조요청서를 서울구치소장에게 재차 송부했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 21일 특검팀은 윤 전 대통령에게 이날 공직선거법 위반 혐의 피의자 신분으로 나와 조사받으라고 통보했다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령은 내란 특검팀이 청구한 구속영장이 발부되면서 10일부터 재구속된 상태다. 18일 서울중앙지법에서 열린 구속적부심 심문에는 직접 출석했지만, 내란 특검의 소환 조사와 내란 혐의 형사 재판에는 건강 악화를 이유로 출석하지 않고 있다. &lt;br /&gt;&lt;br /&gt;특검팀은 김건희 여사에게 8월 6일 출석해 조사받으라고 소환 통지서를 보냈다.</description>
-			<pubDate>Tue, 29 Jul 2025 01:45:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210112</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210112</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210112.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2025년 7월 29일</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;b&gt;[학계]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷한국법제연구원·한국에너지법학회, '새로운 에너지 패러다임 전환 시대의 법적 대응 방안' 공동학술대회&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울 중구 회현동 대한상공회의소 중회의실 B&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷서울대 금융법센터, '이사 충실의무 도입에 따른 실무상 쟁점' 현안 세미나&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 3시, 서울 관악구 신림동 서울대 로스쿨 백주년기념관 301호&lt;/p&gt;&lt;br /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: 700; text-align: center;"&gt;   &lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;b style=""&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷5억 투자하고 망했는데도 12억 회수?... '주식매수청구권 유효' 판결에 업계 반응은&lt;/b&gt;&lt;/p&gt;&lt;p&gt;벤처투자사가 벤처기업에 투자할 때, 창업자를 이해관계인으로 설정하고 회생 등 절차가 개시될 경우 주식 매수를 청구할 수 있다는 계약을 체결했다면, 창업자가 직접 주식 매수 대금을 지급해야 한다는 판결이 나왔다. 벤처 업계에서는 이번 판결이 창업자들의 투자 유치에 위축 효과를 줄 수 있다는 우려를 제기하고 있다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/210077" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;▷"AI 학습 위한 판결서 공개는 단계적·차등적으로"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;사법부 인공지능위원회(위원장 이숙연 대법관)가 7월 25일 제3차 회의를 열고 'AI 기술과 판결서 공개 및 활용'을 주제로 논의를 진행했다. 위원회는 판결서 공개가 헌법상 보장된 재판의 공개, 알권리, 사법접근권 등을 실현하는 핵심 수단이라는 점을 확인하면서도, AI 개발을 위한 데이터로서의 판결서 활용에는 신중을 기할 필요가 있다고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/210097" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 28 Jul 2025 22:35:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210102</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210102</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 7월 29일</title>
-			<description>&lt;b&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 전체회의(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 농림축산식품법안심사소위원회(본관 501호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 해양수산법안심사소위원회(본관 504호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;br /&gt;11:00 국회운영위원회 전체회의(본관 319호)&lt;br /&gt;&lt;br /&gt;16:00 농림축산식품해양수산위원회 전체회의(본관 501호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:00 김태년 의원실, (새정부 국정동력 붐업! 코리아 프리미엄 시대로!) 경제는 민주당 : 코스피 5000시대 실현을 위해 민주당이 할 일 : 기업편(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 윤준병 의원실 등, 새만금 조력발전소를 통한 수질개선 효과와 탄소중립, RE100 달성방안 : 새만금 조력발전의 정책 공감대 형성 및 당위성 확보를 위한 국회세미나(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 박수현 의원실, AI 시대, 창작산업계 권리자 보호와 산업 발전의 조화 방안 : AI와 창작산업계는 어떻게 공존할 수 있는가?(국회도서관 강당)&lt;br /&gt;&lt;br /&gt;14:00 박지혜 의원실 등, 생물다양성 공존모델에 입각한 재생에너지 계획입지 의무화법, 필요성과 쟁점 토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 안호영 의원실 등, 주민주도 재생에너지 확대 전국화를 위한 법제도 지원방안 정책 토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;16:00 이훈기 의원실 등, [미디어 3학회 특별 정책세미나] 새 정부의 미디어 정부조직 개편방향: 대안의 비교, 검토 및 평가&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 박찬대 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 안철수 의원, [국민의힘 혁신안 발표 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 우재준 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 한창민 의원, [개혁입법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 강경숙 의원, [교권침해 교육활동범위 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 김상욱 의원, [자동차보험 약관 개정 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 한기호 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;17:00 정희용 의원, [국회 농림축산식품해양수산위원회 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Mon, 28 Jul 2025 22:35:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210109</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210109</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, KB캐피탈 전 대표 조사...'집사게이트' 관련</title>
-			<description>&lt;p&gt;김건희 여사 관련 의혹을 수사 중인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 28일 이른바 집사게이트 의혹과 관련해 전직 KB 캐피탈 대표를 불러 조사하고 있다.&lt;/p&gt;&lt;br /&gt;특검팀은 이날 언론 공지를 통해 "집사게이트 사건과 관련해 오늘(28일) 오전 KB캐피탈 황수남 전 대표에 대해 소환조사 중"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;집사게이트는 김 여사의 측근 김예성 씨가 설립에 관여한 렌터카 업체 'IMS 모빌리티'에 대기업과 금융사가 사모펀드를 통해 184억 원을 부정하게 투자했다는 의혹이다. 특검팀은 당시 윤석열 전 대통령의 지위를 보고 기업들이 청탁성 투자를 한 것이 아닌지 의심하고 수사 중이다. &lt;br /&gt;&lt;br /&gt;KB캐피탈은 사모펀드 투자 3개월 뒤인 2023년 9월 IMS에 20억 원을 투자한 것으로 알려졌다. 황 전 대표는 2023년 임기를 마친 뒤 도이치파이낸셜 대표로 자리를 옮겼다. 도이치파이낸셜은 주가조작 의혹이 불거진 도이치모터스의 계열사다. &lt;br /&gt;</description>
-			<pubDate>Mon, 28 Jul 2025 09:24:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210103</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210103</guid>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
