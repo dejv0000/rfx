@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'건진법사 청탁 의혹' 통일교 전 간부 구속…윗선 수사 급물살</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210141.jpg" alt="567585.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'건진법사 청탁 의혹'의 핵심 인물인 통일교 전 세계본부장 윤영호 씨가 30일 영장실질심사를 위해 서울중앙지법에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사가 연루된 '건진법사 청탁 의혹' 사건과 관련해 핵심 인물로 지목된 윤영호 전 통일교(세계평화통일가정연합) 세계본부장과 이성재 씨가 30일 구속됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6334"&gt;정재욱&amp;nbsp;&lt;/span&gt;영장전담 부장판사는 이날 김건희 특별검사팀이 청탁금지법 위반, 업무상 횡령, 정치자금법 위반 혐의로 청구한 윤 씨에 대한 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;재판부는 "증거 인멸 및 도망 우려가 있다"고 발부 사유를 밝혔다.&lt;br /&gt;&lt;br /&gt;윤 씨는 2022년 4∼8월 건진법사 전성배 씨를 통해 김 여사에게 고가 다이아몬드 목걸이와 샤넬 가방 등을 전달하고 교단 현안을 청탁한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;청탁 내용에는 통일교의 캄보디아 메콩강 개발사업 지원, 통일교의 YTN 인수 추진, 유엔 제5사무국 한국 유치, 대통령 취임식 초청 등이 포함된 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;윤 씨는 물품 전달과 청탁 사실 자체는 인정하면서도 모든 과정은 한학자 총재 등 교단 윗선의 결재를 받고 이뤄진 일이라고 주장해왔다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 윤 씨와 전 씨가 2023년 3월 치러진 국민의힘 당대표 선거에서 권성동 의원을 지원하기 위해 통일교 신도들을 당원으로 가입시키려 한 정황도 포착했다.&lt;br /&gt;&lt;br /&gt;이와 관련해 특검팀은 지난 18일 윤 씨 자택과 경기도 가평 통일교 본부 등을 압수수색했으며 22일 윤 씨를 소환해 조사했다. &lt;br /&gt;&lt;br /&gt;당시 압수수색영장에는 한 총재와 통일교 2인자인 이모 천무원 중앙행정실장이 특정범죄 가중처벌법상 알선수재 등 혐의 피의자로 적시됐다.&lt;br /&gt;&lt;br /&gt;특검팀은 조만간 통일교 윗선 인사들에 대한 소환 조사에 나서는 한편 전 씨를 향한 수사도 본격화할 계획이다. &lt;br /&gt;&lt;br /&gt;한편 특정범죄가중처벌 등에 관한 법률위반(알선수재) 혐의를 받는 이성재 씨의 구속영장도 발부됐다. 재판부는 이 씨가 증거 인멸과 도주의 우려가 있다고 판단했다. &lt;br /&gt;&lt;br /&gt;이 씨는 공무원의 직무와 관련된 사항에 대한 청탁 대가로 금품을 받아 챙긴 혐의를 받는다.</description>
+			<pubDate>Wed, 30 Jul 2025 14:14:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210141</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210141</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210141.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>"AI 시대에도 행정사 있어야"…행정사회, AI 법률문서 작성법 교육</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210138.jpg" alt="345346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;7월 30일 서울 금천구 가산동 대한행정사회에서 박성재 로폼 AI센터장이 강연하고 있다. 《사진=대한행정사회》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한행정사회 중앙교육연수원(원장 박진현)은 7월 29일 '행정사 업무용 AI 법률문서 작성 지원'을 주제로 교육을 열었다. 교육은 온·오프라인 방식으로 진행돼 회원 370여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;강의는 로테크 기업인 로폼의 AI센터장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="891"&gt;박성재&lt;/span&gt;(59·사법연수원 30기) 변호사가 맡아 AI를 사용한 법률문서 작성법과 행정사들이 실무에 사용할 수 있는 디지털 도구 사용법 등을 중심으로 교육이 이뤄졌다. 박 센터장은 2001년 수원지검 검사로 임관해 대전지검, 서울지검 등에서 일했고 2011년 변호사로 개업했다.&lt;br /&gt;&lt;br /&gt;윤승규 대한행정사회 회장은 "AI 시대에 행정사도 기술력을 갖춘 전문성을 요구받고 있다"며 "출입국, 비자, 행정심판 등 업역 수호를 위해 회원들이 새로운 환경에도 능동적으로 대응할 수 있게 교육을 확대하겠다"고 말했다. 대한행정사회는 다음 달 1일에도 업무용 AI 법률문서 작성 지원 교육을 이어갈 예정이다.</description>
 			<pubDate>Wed, 30 Jul 2025 10:57:55 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210115</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210115.jpg</media:thumbnail>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>법제연·에너지법학회 공동학술대회…"이산화탄소 포집 CCUS법 필요"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210111.jpg" alt="11111.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210111.jpg" alt="222222222.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;29일 열리는 '새로운 에너지 패러다임 전환 시대의 법적 대응 방안' 학술대회 포스터.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국법제연구원(원장 한영수)과 한국에너지법학회(회장 정남철)는 29일 오후 2시, 서울 중구 회현동 대한상공회의소에서 '새로운 에너지 패러다임 전환 시대의 법적 대응 방안'을 주제로 공동학술대회를 연다.&lt;br /&gt;&lt;br /&gt;발제는 박기선 법제연구원 부연구위원이 맡아 '탄소중립 실현을 위한 CCUS법의 법적 쟁점과 과제'를 주제로 발표한다. CCUS는 공장이나 발전소에서 발생하는 이산화탄소를 공기중에 퍼지기 전에 포집한 뒤 건축자재나 연료 등으로 활용하는 기술이다. 탄소중립 달성을 위한 핵심 수단으로 박 부연구위원은 이 기술을 뒷받침하기 위한 CCUS법의 주요 내용을 소개한다.&lt;br /&gt;&lt;br /&gt;황재훈(42·변호사시험 2회) &lt;b&gt;&lt;a href="https://www.lawlogos.com/main/main.asp" target="_blank"&gt;법무법인 로고스&lt;/a&gt;&lt;/b&gt; 변호사는 '무탄소 에너지 이니셔티브의 추진 동향과 법적 대응 방안'을,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39509"&gt;최승원&lt;/span&gt;(31·10회) &lt;b&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt; 변호사는 '에너지 3법의 제정과 법적 쟁점'을 주제로 발표한다.&lt;br /&gt;&lt;br /&gt;한영수 법제연구원장은 "에너지 분야의 다양한 실무 전문가들이 함께한 만큼, 실효성 있는 법·제도 마련으로 이어지기를 기대한다"고 말했다.</description>
-			<pubDate>Tue, 29 Jul 2025 01:51:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210111</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210111</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210111.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
