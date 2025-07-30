@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아시아나, 이륙 2시간 반 만에 회항… 승객이 분실한 ‘이것’ 때문</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/30/3ORSDZQHRJF6VNCQBIXS3FN2Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/3ORSDZQHRJF6VNCQBIXS3FN2Q4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 13:28:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHPO3LZW55IELMSJ764XJAAT4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항에서 이륙하는 아시아나항공 여객기의 모습. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;튀르키예 이스탄불에서 출발해 인천으로 오려던 아시아나항공 여객기가 승객의 기내 보조배터리 분실에 따른 화재 발생 우려로 이륙 약 2시간 30분만에 회항하는 일이 벌어졌다. &lt;br&gt;&lt;br&gt;30일 항공업계에 따르면, 전날 오후 5시 42분쯤 이스탄불 공항에서 출발한 아시아나항공 인천행 OZ552편(기종 B777) 여객기가 이륙 2시간 30여분만에 다시 공항으로 돌아갔다.&lt;br&gt;&lt;br&gt;원인은 한 승객이 잃어버린 보조배터리 때문이었다. 창문 아래 틈새에 스마트폰 보조배터리를 떨어트렸다가 찾지 못하는 상황이 발생했는데, 아시아나항공은 배터리가 좁은 좌석 틈 등에 끼어 압력을 받으면서 폭발할 경우 화재로 이어질 염려가 있다고 보고 회항을 결정했다. &lt;br&gt;&lt;br&gt;이후 OZ552편은 이스탄불 공항으로 돌아와 승객 277명을 내려준 뒤 점검을 마치고 다시 한국으로 출발했다. 아시아나항공은 운항 지연에 따라 승객들에게 현지 호텔 숙박과 식사 등을 제공한 것으로 알려졌다. 항공사 측은 “기내에서 보조배터리 분실이 확인돼 안전을 위해 회항했다”며 “안전 운항을 위한 불가피한 조치였다”고 했다. &lt;br&gt;&lt;br&gt;최근 항공 업계에서는 휴대전화나 보조배터리 등에 장착된 리튬 배터리 화재 관련 경각심이 커지는 추세다. &lt;br&gt;&lt;br&gt;지난 3월 에어프랑스의 보잉777 항공기가 프랑스 파리 오를리 공항을 출발해 카리브해 프랑스령 과들루프로 향하던 중 승객이 기내에서 휴대전화를 잃어버려 찾지 못하자 약 2시간 만에 출발지로 되돌아온 바 있다. 당시 에어프랑스 측은 유감을 표명하면서도 “고객과 승무원의 안전이 우리 항공사의 최우선순위”라고 했다.&lt;br&gt;&lt;br&gt;휴대전화나 보조배터리가 원인으로 꼽히는 기내 화재는 국내에서 실제로 발생한 바 있다. 지난 1월 28일 김해공항에서 출발 준비 중이던 에어부산 391편 항공기(A321)에서 불길이 일며 승객과 승무원 176명이 비상 탈출하는 일이 벌어졌는데, 당시 화재 원인으로 기내 선반에 보관된 보조배터리 발화가 지목됐다. &lt;br&gt;&lt;br&gt;이외에도 지난 3월에는 중국 항저우에서 홍콩으로 향하던 홍콩항공 기내에서 보조배터리 발화 추정 화재가 발생했으며, 4월 일본에서는 호놀룰루 공항에서 출발한 여객기가 보조배터리 화재로 하네다공항에 비상 착륙하는 일이 있었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“무장헬기로 NLL 위협 비행”...특검 ‘北 도발 유도' 정황 포착</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/30/ZRR3USD2BBBR7NE4ET2FQJ2IOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/ZRR3USD2BBBR7NE4ET2FQJ2IOI/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 12:56:34 +0000</pubDate>
+      <content:encoded>지난해 2분기 이후 우리 군이 무장 헬기로 북방한계선(NLL) 인근을 위협 비행하며 북한의 도발을 유도하려 했다는 군 내부 증언이 나왔다. 조은석 내란특검도 이 같은 정황을 포착하고 경위를 들여다보고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMRTYPCZSBKBPIQ55B7D7FRD2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비행 중인 아파치 헬기. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 더불어민주당 추미애 의원실이 확보한 육군항공사령부 관계자 제보에 따르면, 항공사령부는 지난해 한 해에만 7∼8회에 걸쳐 무장 아파치 헬기를 서해 NLL을 따라 비행하게 했다. 당시 아파치 헬기는 30mm기관포탄과 헬파이어 미사일로 무장한 채 서해 NLL을 따라 연평도·백령도를 거쳐 북한을 향해 20분가량 비행했는데, 이 같은 작전은 합동참모본부 명령에 따라 작년 5∼6월쯤부터 한 달에 1∼2회씩 실시됐다고 한다.&lt;br&gt;&lt;br&gt;이 작전은 주로 낮에 이뤄졌다고 한다. 제보자는 “작전의 목적이 정찰이라기 보다 북한이 우리 헬기를 보길 원했던 것 같다”고 했다. 북한 도발을 유도하려는 목적으로 의심했다는 취지다.&lt;br&gt;&lt;br&gt;제보자는 또 “한 마디로 목숨 걸고 가서 격추되거나 추락하면 그것을 빌미로 어떤 공작을 하려 한 게 아닐지 의심된다”며 “전형적인 ‘고기방패’(총알받이) 임무였던 것”이라고 주장했다. &lt;br&gt;&lt;br&gt;특검은 우리 군이 무장 헬기를 NLL 비행에 투입해 북한의 도발을 유도하려 한 정황을 포착해 관련자 증언 등을 살펴보고 있는 것으로 전해졌다. 특검은 윤석열 전 대통령 등이 ‘12·3 비상계엄’ 선포의 명문을 만들기 위해 북한의 도발을 유도했을 가능성을 의심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘다이아 목걸이·샤넬백 구입’ 윤영호 전 통일교 본부장 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/30/3UUF6ZWAVREIDPCGTFPDKEQBRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/3UUF6ZWAVREIDPCGTFPDKEQBRM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 30 Jul 2025 12:39:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SE4ZF46HNJ75NEZ5UIZP3W2BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨를 통해 김건희 여사에게 고가 선물을 전달하고 통일교의 현안을 청탁한 의혹을 받는 윤영호 전 세계평화통일가정연합(통일교) 세계본부장이 30일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨를 통해 김건희 여사에게 통일교 현안을 청탁하고 수천만원대 목걸이 등 금품을 건네려 한 혐의를 받는 윤영호 전 통일교 세계본부장이 30일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 이날 오전 10시 30분부터 약 1시간 20분가량 윤씨 구속영장 심사를 진행한 뒤 “증거 인멸과 도망의 염려가 있다”며 영장을 발부했다. 앞서 김 여사 관련 각종 의혹을 수사하는 특검은 지난 25일 윤씨 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;윤씨는 통일교 현안을 김 여사에게 청탁할 목적으로 2022년 4~7월 6000만원대 ‘그라프’ 다이아몬드 목걸이와 1000만원대 샤넬 핸드백 2개, 천수삼농축차 등을 구입해 전씨에게 건넸다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;윤씨는 지난 20일 특검 소환을 받았으나 한 차례 불출석한 뒤 22일 두 번째 소환에 응해 조사를 받았다. 그는 특검 조사에서 전씨에게 명품 등을 건넨 사실을 인정하면서도 “한학자 통일교 총재 등 윗선 지시에 따른 것”이라고 진술했다. &lt;br&gt;&lt;br&gt;윤씨가 구속되면서 통일교와 김 여사 간 연결고리를 규명할 특검 수사도 탄력을 받을 전망이다. 특검은 앞으로 김 여사에게 청탁과 목걸이 등 금품이 실제로 전해졌는지 등을 집중적으로 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 이날 건진법사 청탁 의혹과 관련해 특정범죄가중처벌법상 알선수재 혐의를 받는 브로커 이모씨도 구속됐다. 같은 법원 이정재 영장전담 부장판사는 이씨 구속영장을 발부하며 “증거를 인멸할 염려와 도망할 염려가 있다”고 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘폭염경보 5일째’…인천에서 90대 노인 열사병으로 숨져</title>
       <link>https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</guid>
@@ -902,24 +929,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VUR67XBKE5BYFKAR7ZCEIFJE24.jpg?auth=5802a074f4c67f3bc929940238bdfa407d487edaf8f4b6f085d2403514d819f8&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
     </item>
     <item>
-      <title>‘차량서 수천만원 돈다발’...경찰, 익산시 공무원 구속영장</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/29/K3MEYXHOXRAVPFYUAA6GVQUMAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/K3MEYXHOXRAVPFYUAA6GVQUMAA/</guid>
-      <dc:creator>권태완 기자, 김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 13:45:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPOX3QABDMB3Z4R2AQLE2622DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 간판 정비사업 관련 특정 업체에 특혜를 줬다는 의혹을 받고 있는 전북 익산시 공무원에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;전북경찰청은 위계에 의한 공무집행방해 등의 혐의로 익산시 소속 5급 공무원 A씨에 대해 구속영장을 신청했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난 28일 익산시의 도심 간판 정비사업과 관련, 익산시와 수차례 수의계약을 맺은 한 지역 조합이 특정 업체에 특혜를 줬다는 의혹을 확인하기 위해 익산시청을 압수수색했다.&lt;br&gt;&lt;br&gt;이 과정에서 경찰은 A씨가 한 직원을 시켜 자신의 차를 옮기려고 한 정황을 포착했다. 경찰은 이 차량을 수색해 수천만 원 상당의 뭉칫돈을 발견했다. 경찰은 이 돈의 출처와 함께 대가성 여부를 확인하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “증거 인멸 우려 등이 있어 A씨에 대해 구속영장을 신청했다”며 “수사 중인 사안이라 자세한 내용을 밝히긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“NC 죽어도 못 보내”... 경남도, 홈구장 개선에 100억 지원 </title>
-      <link>https://www.chosun.com/national/regional/2025/07/29/GVRSALKBYZBIBAKEURHBIPKFXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/29/GVRSALKBYZBIBAKEURHBIPKFXM/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 13:08:05 +0000</pubDate>
-      <content:encoded>경남도가 창원에 연고를 둔 프로야구 NC다이노스를 붙잡기 위해 100억원을 투입해 홈구장 시설을 개선하는 등 대책 마련에 나선다. 경남도는 29일 이 같은 내용이 담긴 NC다이노스와의 상생 방안을 발표했다. 이는 창원시가 계획 중인 전체 시설 개선 사업비 223억원의 44%에 해당한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VME4ZKPGEYG37NK4Z4WKFO6V5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원NC파크. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 계획에 따르면 경남도는 NC다이노스의 홈구장인 창원NC파크 시설 개선 사업에 도비 100억원을 투입해 외야 관중석을 2000석 증설하고, 팀 스토어를 2층으로 확장 이전한다. 또 구장 내 전광판을 추가 설치하며, 마산야구장 내 철골 주차장을 증축해 약 600대의 주차 공간을 추가로 확보할 계획이다.&lt;br&gt;&lt;br&gt;경남도는 2군 구장인 마산야구장 시설 개선에도 힘을 보탠다. 지난 6월 전광판과 내야 관람석 교체 등에 들어가는 20억원 중 절반을 지원했다. 또 마산야구장 외야 관람석과 설비 교체 등 50억원 규모의 시설 개보수는 문화체육관광부 기금 사업으로 추진될 수 있도록 공모 준비부터 선정까지 경남도가 직접 지원에 나선다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAAH44WWUNNH42WM3YS52O7OOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아울러 경남도는 저소득층 초청 야구 관람 프로그램, 공무원 단체 관람 등을 확대해 더 많은 지역 주민이 NC다이노스 경기를 볼 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;또 NC다이노스 홈경기를 관람하고, 주변 관광지를 둘러보며 식사하고 숙박하는 관광 상품도 내년에 시범 운영키로 했다.&lt;br&gt;&lt;br&gt;야구 팬들의 접근성 개선을 위해 국토교통부, 코레일 등과 협의해 KTX 열차 운행 시간을 조정하고, 부산~마산 복선전철 개통을 앞당기는 등의 지원도 추진한다. 경남도의 이번 지원 방안은 앞서 NC 측이 창원시에 요구한 내용에 포함된 사항들이다. 창원시는 31일 오후 3시 마산회원구 경남MBC홀에서 주민 설명회를 열어 최종 지원안을 공개할 예정이다. &lt;br&gt;&lt;br&gt;NC다이노스는 지난 3월 홈구장인 창원NC파크 외장 마감재가 추락해 야구 팬 1명이 숨지는 사고가 발생해 두 달여간 홈에서 경기를 치르지 못했다. 이후 NC다이노스는 지난 5월 30일 연고지 이전을 시사하며 창원시에 21가지 요구 사항을 전달한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>마포대교서 뛰어내리려던 20대女 2명 몸날려 구한 여성 정체</title>
       <link>https://www.chosun.com/national/national_general/2025/07/29/SOUDQU5YVJHCBGXOJNQIQ5CO5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/SOUDQU5YVJHCBGXOJNQIQ5CO5M/</guid>
@@ -948,15 +957,6 @@
       <description/>
       <pubDate>Tue, 29 Jul 2025 11:26:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGFK7FASK44P2VBIDKFE7PYLVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 대부분 지역에 폭염특보가 내려진 29일 서울 광화문광장 바닥분수에서 어린이들이 물놀이를 즐기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산을 제외한 우리나라 전역에 폭염특보가 발령됐다. 고지대라 폭염특보가 잘 내려지지 않는 태백까지 이날 특보가 내려진 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 경기 가평이 한낮 최고 39.7도를 기록하는 등 전국에서 극심한 폭염이 이어졌다. 특히 남동풍이 태백산맥을 넘으며 열풍을 공급한 강원영서와 수도권 일대에 더위가 심했다.&lt;br&gt;&lt;br&gt;경기 여주(39.1도)·평택(38.8도), 강원 정선(38.7도), 경북 안동(38도) 등에서 이날 기온이 38도 이상으로 올랐다.&lt;br&gt;&lt;br&gt;30일에도 극한 더위가 이어지겠다. 30일 아침 최저기온은 22~28도, 낮 최고기온은 32~38도로 예보됐다. 경기북동부와 강원내륙엔 5~30㎜ 사이의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;기상청은 내달 8일까지 전국에 큰 비 소식 없이 폭염과 열대야가 반복될 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박수홍, 법적 다툼 중인 식품업체 대표에 ‘협박 혐의’로 고소 당해</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/29/S5ILBTEZJJHLDFD2W2M5FGW2V4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 10:05:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQZXSPUUID7BNM2B7JCNQXDQV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍이 법적 다툼을 벌이고 있는 식품업체 대표로부터 협박 혐의로 고소를 당한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;29일 서울 강남경찰서는 모 식품업체 대표이사 A씨가 박수홍 측으로부터 협박을 당했다며 지난 14일 고소장을 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 박수홍의 소속사는 2023년 9월 ‘A씨 업체가 박수홍의 얼굴을 광고에 무단 사용했다’며 5억원 상당의 약정금 청구 소송을 낸 바 있다. 해당 사건은 현재 수원지법 성남지원에서 심리 중이다.&lt;br&gt;&lt;br&gt;A씨는 박수홍 측 변호사가 해당 소송 제기 직전 강압적으로 사과를 요구했고, 이 과정에서 자신을 협박했다고 주장하고 있다. &lt;br&gt;&lt;br&gt;다만 A씨는 박수홍 측 변호사의 행위는 박수홍의 지시를 받은 것이라며 박수홍을 고소했다. &lt;br&gt;&lt;br&gt;경찰은 고소장과 피해자 진술 등을 토대로 자세한 사건 경위를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>폭염 속 온열질환자 일주일째 세 자릿수…통계 집계 이후 최장 기록</title>
