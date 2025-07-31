@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>창원서 2층 상가 천장 붕괴...1명 사망·3명 부상 </title>
+      <link>https://www.chosun.com/national/2025/08/01/CM2RFBRRRZED7LAVS6NMUZVGAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/01/CM2RFBRRRZED7LAVS6NMUZVGAE/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 23:11:15 +0000</pubDate>
+      <content:encoded>경남 창원에서 밤사이 2층짜리 상가주택 1층 전장이 무너지는 사고가 발생해 1명이 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ4A6ZDJVBKL7A7CDNM4RDM5YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 31일 오후 10시 46분께 경남 창원시 마산회원구 양덕동 한 2층짜리 건물 1층 천장이 무너져 소방대원이 구조 작업을 하고 있다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 창원소방본부에 따르면 전날 오후 10시 46분쯤 창원시 마산회원구 양덕동에 있는 2층 상가주택의 1층 천장(2층 바닥면)이 무너져 내렸다.&lt;br&gt;&lt;br&gt;이 사고로 1층 상가에 있던 중국 국적의 50대 남성 A씨가 매몰됐다가 4시간여 만에 심정지 상태로 발견돼 병원으로 이송됐지만 결국 사망했다. 또 2층 주택에 있던 10~40대 3명이 구조됐다. 이들은 모두 경상으로, 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고 당시 1층 상가에 숨진 A씨와 함께 40대 남성도 있었지만, 자력 탈출해 다치진 않은 것으로 알려졌다. 소방은 장비 20대와 인력 61명을 투입해 구조 활동을 벌였다.&lt;br&gt;&lt;br&gt;이 건물은 2층은 주택 용도, 1층은 식품 소매점인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰과 소방은 국립과학수사연구원과의 합동 감식 등을 통해 정확한 사고 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“선생님 배 속에 아기 죽었잖아”…유산한 교사에 초등생이 한 말</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/01/VPXQBNVUBFHIFLGMH7H3MWDO6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/VPXQBNVUBFHIFLGMH7H3MWDO6I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 22:29:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFMC35XHT6LUWPHOZH64FBFZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초등학교 교실.(기사와 직접 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 학부모가 교사의 유산 사실을 알고 난 뒤 담임을 교체해달라는 민원을 제기했다는 사연이 전해졌다.&lt;br&gt;&lt;br&gt;1일 소셜미디어(SNS) 등에는 ‘학부모 교권 침해 민원 사례집’에 소개된 한 교사의 사연이 공유됐다.&lt;br&gt;&lt;br&gt;사례집에 따르면 40학급 대규모 학교에 재직 중이라는 이 교사는 임신 중 체력·정신적 소모가 비교적 심한 1학년 담임을 피해야 할 것 같다고 학교 측에 양해를 구했다. 하지만 교감은 “어쩔 수 없다”며 1학년 담임을 맡을 것을 강요했다.&lt;br&gt;&lt;br&gt;결국 1학년 담임을 맡은 교사는 입학식 당일 쓰러져 병원에 실려 갔고, 아이를 유산했다.&lt;br&gt;&lt;br&gt;교감은 교사의 병가도 허용하지 않아 교사는 별도의 몸조리 기간 없이 수업에 곧바로 복귀할 수밖에 없었다.&lt;br&gt;&lt;br&gt;이후 학부모들 사이에서 “담임이 아기를 유산해서 입학식에 안 나왔다더라”라는 소문이 돌기 시작했다.&lt;br&gt;&lt;br&gt;소문의 근원지는 다름 아닌 교감이었다. 교감은 학부모들에게 공식적으로 이 교사의 유산 사실을 공지했다고 한다.&lt;br&gt;&lt;br&gt;며칠 뒤 교육청에는 관련 민원이 들어오기 시작했다. 내용은 “유산한 교사 정신 괜찮겠어요?” “담임 바꿔주세요” 등이었다. &lt;br&gt;&lt;br&gt;이런 상황에서도 수업을 이어가야 했던 교사는 한 학생에게 “선생님 배 속에서 아기 죽었잖아”라는 말까지 들었다.&lt;br&gt;&lt;br&gt;교사는 수업이 끝난 뒤 학부모에게 전화를 걸어 아이가 어떻게 알았는지 물었다. 그러자 학부모는 “우리 애가 성숙해서 잘 안다. 맞는 말인데 뭐. 그 말 듣고 색안경 낀 건 아니죠?”라고 되물었다.&lt;br&gt;&lt;br&gt;이 글을 읽은 네티즌들은 “학부모도 출산 경험이 있을 텐데 어떻게 저런 반응을 보이냐” “보통 건강상의 이유라고 하지 개인 병명을 공개하진 않지 않나” 등의 반응이 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>기초수급 생계급여 月 200만원 첫 돌파</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/01/O3NPSWZLSVFKTGP3SMER6DIYJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/01/O3NPSWZLSVFKTGP3SMER6DIYJM/</guid>
@@ -815,19 +833,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COGRBTTUXRCSTJXJGF36W4M7IU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염경보가 내려진 경북 경산에서 80대 남성이 밭일을 하다 쓰러져 숨졌다. &lt;br&gt;&lt;br&gt;31일 경북소방본부에 따르면, 지난 30일 오후 3시 21분쯤 경산시 진량읍 한 밭에서 일하던 80대 남성 A씨가 쓰러져 심정지 상태로 발견됐다. 이후 A씨는 병원으로 옮겨졌지만, 숨졌다. &lt;br&gt;&lt;br&gt;사건 당일 경산 지역 낮 최고 기온은 36.1도로 폭염경보가 내려진 상황이었고, 발견 당시 A씨의 체온은 42.1도를 기록했다고 한다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 온열질환으로 숨진 것으로 보고 정확한 사망 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울시 초대 건강총괄관에 ‘저속노화’ 정희원 박사 </title>
-      <link>https://www.chosun.com/national/national_general/2025/07/31/QBYTEQDC7NHW3LNSF7AR3Y3D2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/QBYTEQDC7NHW3LNSF7AR3Y3D2M/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 01:15:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7ZQA634DBAHNLC2BBZ2VIOWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관으로 위촉된 정희원 박사. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 초대 서울건강총괄관으로 정희원 박사(전 서울아산병원 노년내과 교수)를 위촉했다고 31일 밝혔다. 오는 8월 1일부터 업무를 시작한다. 건강총괄관은 시장 직속 비상근직으로 임기는 2년이다. &lt;br&gt;&lt;br&gt;건강총괄관은 시정 전반의 건강 관련 정책 아이디어를 제안하는 역할을 맡는다. 서울시는 건강총괄관의 전문성이 더해져 시민의 큰 호응을 얻은 ‘손목닥터 9988’, ‘덜달달 프로젝트’ 등 건강 정책의 완성도가 높아질 것으로 기대한다. &lt;br&gt;&lt;br&gt;정 박사는 서울대학교 의과대학을 졸업하고 한국과학기술원(KAIST) 의과학대학원에서 이학박사 학위를 받았다. 최근까지 서울아산병원 노년내과 교수로 재직했다. 현재는 전 국민을 대상으로 ‘저속노화’, ‘자기돌봄’, ‘돌봄 예방’ 등 건강한 삶에 대한 대중인식을 높이는 데 힘쓰고 있다.&lt;br&gt;&lt;br&gt;이동률 서울시 시민건강국장은 “건강총괄관이 기존 정책들을 건강 관점에서 폭넓게 들여다보고, 시민 삶의 질 향상에 기여할 새로운 방향을 제시해 줄 것으로 기대한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M7ZBD7RRPZF7NK4MLNFL4XGND4.jpg?auth=f9452b11678e2a61eb88b152e85c33040154909faf875d43bedfd335c00487a0&amp;smart=true&amp;width=3868&amp;height=2176" type="image/jpeg" height="2176" width="3868">
-        <media:description type="plain">서울시 초대 건강총괄관으로 위촉된 정희원 박사. /서울시 제공</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>“커피 배달해줘” “사람 찔러”... 1년간 2600회 허위신고한 60대 ‘구속’ </title>
       <link>https://www.chosun.com/national/2025/07/31/ZPR2YND6R5DU5LR4RLMGEO6BUM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/07/31/ZPR2YND6R5DU5LR4RLMGEO6BUM/</guid>
@@ -835,15 +840,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 01:22:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OKXBI75YZH43MISP5LEA7NHT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“방금 사람을 찔러 죽였다”&lt;br&gt;&lt;br&gt;지난 16일 오후 5시 7분쯤 경남 김해중부경찰서 소속 경찰들은 이 같은 신고에 곧장 현장에 출동했다. 신고자 A(60대)씨는 집 안에서 술을 마시고 있었다고 한다. 칼에 찔린 피해자는 없었다. 장난 전화임을 확인한 경찰은 A씨에게 구두 경고를 하고 철수했다. 2시간여 뒤 A씨는 재차 “사람을 칼로 찔렀으니 경찰차를 보내달라”고 신고했다. 경찰은 이번에도 현장에 긴급 출동했다. 소방도 공동 대응으로 현장에 갔다. 하지만 이번에도 A씨는 집안에서 멀쩡히 술을 마시고 있었다. 경찰은 현장에서 A씨를 긴급 체포했다. A씨는 이날만 약 5시간 동안 경찰에 114회 전화를 걸었다. &lt;br&gt;&lt;br&gt;경남경찰청은 상습·악성 112 허위 신고한 A씨 등 2명을 구속했다고 31일 밝혔다. 경찰 조사 결과 A씨는 김해 경찰에게는 유명한 악성 허위 신고자였다. 최근 1년 동안에만 2600회가 넘는 112 신고를 했다. 허위 신고로 15회 벌금(거짓신고)·즉심(거짓신고)·통고(장난전화) 등 처분받고도 허위 신고를 반복했다. &lt;br&gt;&lt;br&gt;김해중부경찰서 관계자는 “‘커피를 배달해달라’거나, 신세한탄, 사회 불만을 토로하는 전화가 주였는데, 이번에는 살인을 언급해 경찰·소방 인력이 긴급 출동하게 하는 등 정도가 지나쳤다고 판단했다”고 말했다. &lt;br&gt;&lt;br&gt;거창에서도 50대 남성이 허위 신고로 경찰 조사를 받다가 다른 혐의까지 더해져 결국 구속됐다. &lt;br&gt;&lt;br&gt;거창경찰서는 특수공갈 및 거짓 신고 혐의 등으로 B씨를 구속했다. B씨는 지난달 18일 오후 4시 11분쯤 거창 한 거리에서 “괴한에게 맞았다”는 내용으로 112에 허위 신고를 하는 등 지난 2월부터 6월까지 모두 363차례에 걸쳐 허위 신고를 한 혐의를 받는다. 경찰은 B씨에 대한 조사 중 B씨가 상습적으로 이웃을 괴롭힌 정황을 포착해 수사를 확대했다. 경찰 조사 결과 B씨는 술을 마신 상태로 동네 주민을 나무 지팡이로 위협하며 “돈을 빌려달라고 하거나” 상갓집에서 술을 더 주지 않는다는 이유로 흉기를 꺼내 위협한 혐의를 받는다. 이웃 집에 함부로 들어가 물건을 마음대로 가져가기도 하는 등 각종 주취 폭력을 행사한 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 보복이 두려워 신고를 꺼린 이웃 주민들을 상대로 탐문과 설득을 통해 여러 건의 피해 진술을 확보한 뒤 체포영장을 발부받아 지난 22일 B씨를 검거했다.&lt;br&gt;&lt;br&gt;경남경찰청 관계자는 “두 사람 모두 술을 마신 상태에서 상습적으로 허위 신고를 해온 악성 신고자들이었다”며 “술을 깨면 또 ‘죄송하다’ ‘술을 마셔 기억이 안 난다’고 하면서 멀쩡한 모습들이라 황당했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국민 안전을 위협하고 기초 질서를 어지럽히는 주취 폭력·허위 신고 등 민생 침해 범죄에 대해서는 엄정 대응할 것”이라며 “치료가 필요하면 의료·재활 기관 연계 등 회복적 형사 활동도 병행해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 자연·민속신앙으로 풀어낸 ‘西歸-수취인불명’ 영상, 빛의 벙커서 선보인다</title>
-      <link>https://www.chosun.com/national/regional/2025/07/31/U2GITARB4JCCPJJANNDYSROYPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/31/U2GITARB4JCCPJJANNDYSROYPI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 01:15:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QK2FARZCJAGBIB7MVDLQ2HG64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 성산 '빛의 벙커'에서 전시하는 '서귀-수취인불명' 전 영상물./(주)티모넷&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최초 몰입형 복합문화예술 공간 ‘빛의 벙커’가 제주의 자연과 민속 신앙으로 인간의 삶을 풀어낸 영상물을 소개한다.&lt;br&gt;&lt;br&gt;제주도 서귀포시 성산에 위치한 빛의 벙커는 ‘서귀-수취인불명’ 전(展)을 8월 1일부터 선보인다고 밝혔다. ‘서귀-수취인 불명’은 장민승 작가, 정재일 음악감독과 함께 제주의 자연을 주제로 한 신작이다. 제주의 자연과 신앙, 그리고 존재의 순환에 대한 철학적 사유를 담은 몰입형 미디어아트 작품으로, 제주콘텐츠진흥원의 지역문화산업연구센터(CRC) 지원사업의 일환으로 제작됐으며, ㈜티모넷이 기획·제작을 맡았다.&lt;br&gt;&lt;br&gt;‘서귀’는 총 16분 20초 분량의 파노라마 멀티채널 영상으로 구성됐다. 한라산 선작지왓, 윗세오름, 문섬, 엉또폭포 등 제주의 지형과 영등굿, 동자석, 살장, 기메 같은 제의적 상징을 결합한다. 여섯 개의 시퀀스를 따라 물, 바람, 눈, 흙, 불, 그리고 다시 물로 회귀하는 여정을 그려낸다. 관객은 영상 속에서 한 편의 장례이자 탄생의식을 통과하며, 자연과 인간의 순환성에 감각적으로 몰입하게 된다.&lt;br&gt;&lt;br&gt;제목 ‘서귀(西歸)’는 ‘서쪽으로 돌아감’, 즉 죽음을 은유하는 한자어로, 제주 신앙에서 저승으로 향하는 여정을 의미한다. 부제 ‘수취인 불명’은 끝내 전해지지 못한 감정의 잔향을 상징한다. 영상은 생명과 죽음, 기억과 존재를 오가며 관객 스스로가 ‘떠나는 자’ 혹은 ‘배웅하는 자’로 전환되는 체험을 유도한다.&lt;br&gt;&lt;br&gt;장민승 작가는 장소의 기억과 경계를 테마로 영상과 설치 작업을 이어온 아티스트다. 이번 작품에서는 ‘미여지뱅뒤’라 불리는 이승과 저승의 경계지대를 직접 답사·촬영하며, 제주의 지층·지형·제의적 풍경을 시적인 구성으로 재구성했다. 음악감독 정재일은 영화 ‘기생충’ , 드라마 ‘오징어게임’ OST로 국내외에서 잘 알려진 작곡가다. 이번 전시에서는 토속적 리듬과 클래식 선율을 결합해 공간을 채우는 감각적 사운드 레이어를 구현했다.&lt;br&gt;&lt;br&gt;이번 프로젝트는 제주 콘텐츠의 심화와 글로벌 확장을 위한 문화 기반 창작 사례로 주목받고 있다. 특히 ‘빛의 벙커’라는 공간성과 결합해 전통의례, 자연, 감각의 층위들을 파노라마 다채널 영상으로 증폭시켰다. 단순한 감상이 아닌 ‘경유하는 체험’으로 구성된 이 전시를 통해 제주라는 장소를 매개로 ‘살아 있음’, ‘흘러감’, 그리고 ‘되돌아감’의 감각을 시청각적으로 체험할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>개그우먼 정경미 뭐하나 했더니…영어뮤지컬 학원 원장 된 근황</title>
