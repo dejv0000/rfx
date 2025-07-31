@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘중고거래 사기꾼’에 계정·계좌 빌려준 20대 男 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/T446KNAXEFFHNNLEB3EIZJ5VYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/T446KNAXEFFHNNLEB3EIZJ5VYI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 04:32:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPPO3ZMG2U5SDNIGNRGMWSW4MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원 서부지법 모습&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고거래 플랫폼에 허위로 판매 글을 올려 1억원이 넘는 돈을 가로챈 사기꾼에게 은행 계좌와 플랫폼 계정 70여개를 빌려준 20대 남성이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울서부지법 형사8단독 이세창 판사는 지난 23일 사기 방조 혐의로 재판에 넘겨진 김모(29)씨에게 징역 10개월을 선고했다. &lt;br&gt;&lt;br&gt;김씨는 범행에 필요한 중고거래 플랫폼 계정과 은행 계좌 76개를 중고거래 사기범 A씨에게 제공하고, A씨의 지시대로 피해금을 이체해주는 등 사기 행각을 도운 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 김씨에게 빌린 중고거래 플랫폼 계정을 통해 허위 판매 글을 올려 189명에게 1억795만5600원을 빼앗은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다만 김씨는 A씨의 범행을 구체적으로는 알지 못했고, 계정과 계좌를 제공한 대가도 크지 않았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;재판부는 “다수의 피해자가 발생했고 피해 금액도 합계 약 1억795만원에 이르러 그 죄책이 가볍지 않다”며 “피해자들로부터 용서받지도 못했고, 일부 피해자는 엄벌을 탄원하고 있다”고 했다. 이어 피고인이 범행을 인정하고 있으며 초범이라는 점, 범행의 구체적인 양상을 알지 못한 채 가담했으며 취득한 이익이 거의 없어보인다는 점 등을 들어 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너 이 XX야, 나 스카이 나온 교수야” 아들 괴롭힌 초등생 협박해 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/31/OYCCEHHMQVBW7ARMRE4G7Z4MYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/OYCCEHHMQVBW7ARMRE4G7Z4MYQ/</guid>
+      <dc:creator>인쳔=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 04:19:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOIPX7HDNFCOHOGTNKRO6EMBJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 아이를 괴롭혔다는 이유로 초등학생을 협박하면서 정서적으로 학대한 40대 여성에게 벌금형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사2단독 김지후 판사는 아동복지법상 아동학대 혐의로 기소된 A(44·여)씨에게 벌금 300만원에 집행유예 1년을 선고했다고 31일 밝혔다. A씨의 직업은 교수인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 10월 25일 오후 2시 57분쯤 인천시 연수구 모 아파트 앞 길거리에서 B(11)군을 협박하면서 정서적으로 학대한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 평소 아들을 괴롭혔다는 이유로 B군을 불러세워 “너 이 XX야, 나 XXX 하지 마, 동네 돌아다닐 때 마주치지 않게 조심해라”고 겁을 먹게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 “아빠 전화번호 줘봐, 나 교수 부부고 스카이 나왔다. 아이(내 아들) 한 번만 더 건들면 가만 안 둔다. 교육은 다 내 아래에 있어”라고 말한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “B군에게 ‘친구를 괴롭히는 것은 잘못된 행동이다. 그런 잘못된 행동을 멈추라’는 취지로의 얘기만 했을 뿐이라며 해당 발언을 한 사실이 없다”고 혐의를 부인했다. &lt;br&gt;&lt;br&gt;법원은 그러나 관련 증거를 토대로 A씨가 실제로 해당 발언을 하면서 B군을 학대했다고 판단했다.&lt;br&gt;&lt;br&gt;김 판사는 “B군의 진술 내용이 일관되고 구체적”이라며 “직접 경험하지 않고는 알 수 없는 사실관계를 담고 있다”고 했다. 이어 “B군은 범행을 당한 직후 어머니에게 전화해 피해를 울면서 호소하고 상당 기간 심리 상담 센터에서 상담을 받기도 했다”고 했다. &lt;br&gt;&lt;br&gt;김 판사는 “아동학대 범죄는 피해 아동의 성장과 발달에 좋지 않은 영향을 미칠 우려가 있어 죄책이 가볍지 않다”며 “피고인이 자녀의 학교폭력 피해와 관련한 상황을 확인하는 과정에서 우발적으로 범행한 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘언론사 단전·단수 지시' 이상민 구속영장 심사 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/31/5U2IQCUXENAGZH73BPVPNPUJDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/5U2IQCUXENAGZH73BPVPNPUJDY/</guid>
+      <dc:creator>김은경 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 04:45:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BO6UFLDWNJ6TNLJR7G3SSBCLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 '언론사 단전·단수'를 지시한 의혹을 받는 이상민 전 행정안전부 장관이 31일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 경찰과 소방당국에 언론사 단전·단수를 지시하는 등 윤석열 전 대통령과 공모한 혐의를 받는 이상민 전 행정안전부 장관이 구속영장 실질심사를 받기 위해 31일 법원에 출석했다. 이 전 장관의 구속 여부는 이르면 31일 밤 결정될 전망이다. &lt;br&gt;&lt;br&gt;정재욱 서울중앙지법 영장전담 부장판사는 이날 오후 2시부터 이 전 장관에 대한 영장 심사를 진행한다. 이 전 장관은 오후 1시 40분쯤 법원에 도착해 “단전·단수 지시를 했는지” “헌법재판소에서 위증한 혐의를 인정하는지” 등 취재진 질문에 답하지 않고 법정으로 들어갔다. &lt;br&gt;&lt;br&gt;내란 특검은 지난 28일 이 전 장관에게 내란 중요임무 종사·직권남용·위증 등 혐의를 적용해 구속영장을 청구했다. 비상계엄 당시 국무위원에 대해 구속영장이 청구된 것은 김용현 전 국방부 장관에 이어 두 번째다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관이 평시 계엄 주무 부처인 행안부 장관임에도 계엄 선포를 막지 못했고, 일부 언론사를 봉쇄하고 단전·단수를 하라는 윤 전 대통령 지시를 소방청등에 전달해 불법적인 계엄 선포를 적극적으로 도왔다고 보고 있다. 지난 2월 헌법재판소에서 열린 윤 전 대통령 탄핵심판에 증인으로 출석해 “단전·단수 지시를 받지 않았다”고 위증한 혐의도 있다.&lt;br&gt;&lt;br&gt;특검이 이 전 장관의 신병을 확보할 경우 마찬가지로 비상계엄에 가담한 의혹을 받는 한덕수 전 국무총리를 비롯한 다른 국무위원들에 대한 수사에도 속도가 날 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 가리봉동서 동거녀 살인...중국 국적 60대 男 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/QCTL7HMJWJGPROETCH2HA2445M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/QCTL7HMJWJGPROETCH2HA2445M/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 05:03:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56WFCJXW4DYG27MFNMI6J6RKKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로구 신도림테크노마트 5층에 입점한 구로경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 가리봉동에서 동거하던 50대 여성을 흉기로 살해한 중국 국적의 60대 남성이 현장 체포됐다. &lt;br&gt;&lt;br&gt;서울 구로경찰서는 흉기로 동거 여성을 살해한 중국 국적의 60대 남성 A씨를 현장 체포해 조사 중이라고 31일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 새벽 3시 20분쯤 서울 가리봉동 주거지에 같이 살던 50대 여성을 흉기로 여러 차례 찔러 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰에 따르면 당시 피해자의 비명 소리를 들은 관리인이 경찰에 신고했다. 피해자는 심정지 상태로 병원에 이송됐으나 끝내 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 ‘헤어지자고 하자 피해자가 먼저 공격했다’는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 피해자는 과거에도 A씨를 두 차례 경찰에 신고한 적이 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;지난 26일 피해자는 ‘누군가 나를 괴롭힌다’는 취지의 112 신고를 접수했다가 연락이 두절됐는데, 나중에 경찰에 “남편하고 말다툼했는데 잘 해소됐다”고 말해 경찰이 추가 조치를 취하지 않았다고 한다. A씨는 앞선 2023년 6월에 피해자를 폭행한 혐의로 벌금형을 선고 받기도 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사건 경위를 조사해 구속영장을 신청할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 법원, 윤석열 전 대통령 체포영장 발부</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/31/SJEHPP7JGRCFRIETZAH6R745YY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/SJEHPP7JGRCFRIETZAH6R745YY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 04:45:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGVFERZEDQZLLSDSRIUZINRCOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 지난 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 김건희 특검의 두 차례 소환 통보에 불응한 윤석열 전 대통령의 체포영장을 31일 발부했다.&lt;br&gt;&lt;br&gt;특검은 전날 청구한 윤 전 대통령 체포영장을 서울중앙지법이 이날 발부했다고 밝혔다. 특검은 ‘정치 브로커’ 명태균씨와 관련한 공천 개입 의혹을 조사하기 위해 윤 전 대통령에게 지난 29일과 30일 피의자 조사를 받으러 나오라고 통보했지만 윤 전 대통령은 응하지 않았다. 윤 전 대통령은 당뇨 악화와 간 수치 상승 등 건강 문제로 조사를 받기 어렵다는 입장이지만, 특검은 윤 전 대통령이 수감 중인 서울구치소 의견 등을 종합하면 조사에는 별다른 문제가 없다고 보고 있다. &lt;br&gt;&lt;br&gt;특검은 청구 하루 만에 체포영장이 발부됨에 따라 특검보와 검사 1명씩을 서울구치소에 투입해 교도관과 함께 집행하는 방안을 검토하고 있다. 다만 교도관들이 윤 전 대통령에게 물리력을 행사하는 데 한계가 있어 실제 조사가 이뤄질지는 불투명하다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이영진 前 헌법재판관, 퇴임 기념 판례집 출간</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/31/J6NPHELUMVAWVNXT7XTYUMTFVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/J6NPHELUMVAWVNXT7XTYUMTFVY/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 04:05:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DE524KVS6ZDDDGI5XKLI52MQZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이영진 전 헌법재판관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 10월 6년 임기를 마치고 퇴임한 이영진(64) 전 헌법재판관이 퇴임 기념 판례집 ‘헌법은 누구의 편인가?: 소수의견과 기본권보호’를 출간했다. 재임 기간 이 전 재판관이 소수의견이나 보충의견을 낸 헌법재판 사건 107건의 결정문(판례)을 수록했다. 낙태죄 처벌 위헌 사건, 대북 전단 살포 금지법 위헌 사건, 공무원이 범죄를 저지른 경우 퇴직금을 반액으로 삭감하는 공무원연금법 위헌 사건, 의사만 문신을 할 수 있도록 한 의료법 위헌 사건 등 사회적 주목을 받았던 사건들이 다수 포함됐다. &lt;br&gt;&lt;br&gt;이 전 재판관은 충남 홍성 출신으로 1990년 32회 사법시험에 수석 합격한 이후 서울중앙지법, 서울고법 등 각급 법원 판사로 근무하다가 2018년 10월 헌법재판관에 임명돼 6년 재임 후 지난해 10월 퇴임했다. 현재 성균관대 법학전문대학원 석좌교수를 지내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>우회전하던 통학 버스, 길 건너는 아이 치고가…공분 산 스쿨존 뺑소니</title>
       <link>https://www.chosun.com/national/national_general/2025/07/31/OTMHS6QNDNDOTLTLPLUK4NZUW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/OTMHS6QNDNDOTLTLPLUK4NZUW4/</guid>
@@ -854,24 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMQPM4RBHFN5EK4U5TWESGSADI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 12·3 비상계엄으로 정신적 피해를 입은 시민들에게 배상하라는 1심 판결에 대해 법원에 강제집행 정지를 신청했다. 확정 판결이 나기 전까지 위자료가 강제로 지급되지 않게 막아달라는 것이다.&lt;br&gt;&lt;br&gt;30일 법원에 따르면 윤 전 대통령 측은 전날 1심 판결에 항소하면서 동시에 강제집행 정지 신청을 접수했다. 이 사건은 서울중앙지법 민사항소8-3부(재판장 신영희)에서 심리한다. &lt;br&gt;&lt;br&gt;법원은 통상적으로 특별한 사정이 없으면 공탁금 등 담보 제공을 조건으로 강제집행 정지를 받아들이는 경우가 많다. 강제집행 정지 신청이 인용되면 재판부가 정하는 때까지 윤 전 대통령은 위자료를 지급하지 않아도 된다.&lt;br&gt;&lt;br&gt;앞서 지난 25일 서울중앙지법 민사2단독 이성복 부장판사는 이금규 변호사 등 시민 104명이 윤 전 대통령을 상대로 제기한 손해배상 소송에서 윤 전 대통령이 시민들에게 10만원씩 배상하라고 판결하면서 배상액과 이자(연 12%)에 대해 가집행할 수 있다고 선고했다. 가집행은 판결이 확정되기 전이라도 일단 위자료를 지급하도록 하는 것이다.&lt;br&gt;&lt;br&gt;원고 측은 윤 전 대통령이 보유한 예금에 대해 조만간 가집행을 신청할 예정이다. 또 위자료 청구액을 올려 부대항소하는 방안도 검토하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>음주 측정 거부하고 조용히 도망친 60대...출동 경찰관 감찰 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/MBGYKM5DXZHKTAUMUIF2CNCGAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/MBGYKM5DXZHKTAUMUIF2CNCGAQ/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 05:11:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 성동경찰서는 관내 파출소에 근무하는 A 경사와 B 순경에 대한 감찰에 지난 4일 착수했다고 30일 밝혔다. 이들은 운전자에 대한 음주 측정을 제대로 수행하지 않았다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;두 사람은 지난 3일 오전 4시 50분쯤 “음주 운전이 의심되는 차량이 있다”는 신고를 받고 서울 성동구의 한 아파트 지하 주차장으로 출동했다. 60대 C씨의 차량을 특정하고 음주 감지기를 통해 음주 정황을 인지했다. 그런데 A 경사가 순찰차를 주차하고 B 순경이 전화를 받는 사이 C씨는 현장을 이탈해 자신이 운영하는 가게로 도망쳤다.&lt;br&gt;&lt;br&gt;도주 사실을 뒤늦게 파악한 두 사람은 C씨의 자택으로 찾아가 그의 아내를 통해 설득했으나 C씨는 끝내 음주 측정을 거부한 것으로 알려졌다. 보통 음주 감지기가 알코올 성분에 반응해 경고음을 울리면 경찰관은 곧바로 음주 측정기를 사용해 구체적인 음주 수치를 측정하는데, 이 절차가 누락된 것이다. 감찰에 착수한 성동경찰서는 두 경찰관이 즉시 음주 측정을 시행하지 않은 경위와 C씨를 찾는 과정에서 상부에 보고를 했는지 등을 확인할 예정이다. &lt;br&gt;&lt;br&gt;C씨에 대해서는 음주 측정 불응, 무면허 운전 등의 혐의가 적용됐다. C씨의 동선을 추적한 결과, 자택에서 차로 15분 거리에 있는 음식점에서 C씨가 소주를 마신 사실이 밝혀졌으나 위드마크 공식을 적용해 혈중알코올농도를 계산했을 때 면허 정지 기준 미만의 수치가 나와 음주 운전 혐의는 적용되지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰이 피의자에게 수사 편의를 제공했을 경우 범인도피방조 혐의가 적용될 수 있다. 서울서부지법 형사4단독 홍다선 판사는 범인도피방조 혐의로 기소된 경찰 D씨에게 지난 16일 징역 6개월을 선고했다. 2013년부터 2023년까지 교통조사계에서 근무한 경력이 있는 당시 서울 용산구의 한 파출소 경찰관 D씨는 지난해 2월 25일 음주운전 후 사고를 내고 허위 진술한 일당에게 “블랙박스를 없애라” “완벽하게 시나리오를 짜려면 조사 일정을 늦추고 말을 맞추라”는 식의 조언을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“강의 돈 아까웠다” 후기 썼다가 ‘1억 소송’ 당한 수강생</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/LVZA3MHEAFH5FJF3M2SXEEAL3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/LVZA3MHEAFH5FJF3M2SXEEAL3A/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 06:55:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인 강의에 대한 부정적인 후기를 작성했다가 강의업체로부터 1억 원의 손해배상 소송을 제기당한 수강생이 1심과 항소심에서 모두 승소했다.&lt;br&gt;&lt;br&gt;30일 대한법률구조공단에 따르면 서울서부지법은 최근 온라인 강의업체 운영자 A씨가 수강생 B씨를 상대로 낸 손해배상 소송에서 1심과 항소심 모두 원고 패소 판결을 했다.&lt;br&gt;&lt;br&gt;수강생 B씨는 2021년 8월부터 4개월간 A씨가 운영하는 업체의 온라인 강의를 들었다. 이후 B씨는 A씨가 운영하는 인터넷 카페에 수강 후기를 묻는 댓글이 달리자 “돈 아까웠습니다”라고 답글을 달았다.&lt;br&gt;&lt;br&gt;이에 A씨는 수강생 B씨를 명예훼손 및 업무방해로 고소했으나 B씨는 수사기관에서 혐의없음 처분을 받았다.&lt;br&gt;&lt;br&gt;그러나 A씨는 B씨를 상대로 민사소송을 내면서 손해배상금 및 위자료 명목으로 1억원을 청구했다. B씨가 부정적 댓글을 게시해 고객이 이탈하고 매출이 감소했다는 이유다.&lt;br&gt;&lt;br&gt;수강생 B씨는 대한법률구조공단에 도움을 요청했고, B씨를 대리해 응소한 공단은 댓글은 수강생으로서의 주관적 평가를 담은 의견 표현이며, 사실의 적시 또는 허위 사실 유포가 아니라 표현의 자유에 해당한다고 반박했다. &lt;br&gt;&lt;br&gt;또 댓글 하나만으로 매출 감소의 인과관계를 입증할 수 없으며, 원고 측의 손해 주장은 객관적 근거가 없다고 항변했다.&lt;br&gt;&lt;br&gt;법원은 공단의 주장을 받아들여 해당 댓글은 가치판단이나 평가를 내용으로 하는 의견표현이므로 명예훼손이나 업무방해라 보기 어렵다며 원고의 주장을 기각했다. &lt;br&gt;&lt;br&gt;A씨는 손해배상 청구 금액을 4500만원으로 낮춰 항소했지만, 항소심 법원도 B씨의 손을 들어줬다.&lt;br&gt;&lt;br&gt;B씨를 대리해 소송을 진행한 공단 소속 엄욱 변호사는 “이번 판결은 온라인상에서 소비자의 후기와 평가가 존중받아야 할 표현의 자유임을 확인한 사례”라며 “공단은 앞으로도 경제적·사회적 약자가 억울한 법적 분쟁에 휘말리지 않도록 지속적으로 지원하겠다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 대전서 ‘前 연인 살해’ 20대 남성 24시간만에 검거</title>
       <link>https://www.chosun.com/national/regional/2025/07/30/CMUIY6TQVFF3XBGPLKFVIGNZJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/30/CMUIY6TQVFF3XBGPLKFVIGNZJE/</guid>
@@ -906,42 +942,6 @@
       <description/>
       <pubDate>Wed, 30 Jul 2025 03:00:21 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGMJUMEXPJJDXCC6KC2RKPFAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지방의 한 의료원에서 환자와 보호자들이 진료를 받기 위해 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라가 경제협력개발기구(OECD) 국가 가운데 의사 수는 가장 적은 편인 반면, 국민들의 연간 병원 방문 횟수는 OECD 국가 중 가장 많았다.&lt;br&gt;&lt;br&gt;보건복지부는 OECD가 이달 초 발표한 ‘OECD 보건통계 2025’의 주요 분야별·지표별 세부 내용을 분석해 30일 발표했다. OECD 보건 통계는 건강 상태, 건강 위험요인, 보건의료자원, 보건의료이용 등 보건의료 전반의 통계를 담은 데이터베이스다.&lt;br&gt;&lt;br&gt;통계 분석 결과, 국내 임상 의사 수는 인구 1000명당 2.66명으로 OECD 국가 중 두 번째로 적은 것으로 나타났다. 다만 우리나라 통계에는 한의사가 포함돼 있어 이를 제외하면 실제 임상 의사 수는 이보다 더 적을 수 있다. 의사가 가장 적은 나라는 일본으로 인구 1000명당 2.65명이었다. 캐나다, 멕시코, 미국(각 2.72명)도 의사가 적은 국가들이었다. 의사는 적은 반면 병원 병상 수는 인구 1000명당 12.6개로 OECD 평균의 3배 수준이었다. 자기공명영상장치(MRI)·컴퓨터단층촬영(CT) 등 의료 장비 숫자도 OECD 평균보다 높았다.&lt;br&gt;&lt;br&gt;국민 1인당 외래진료 횟수는 연간 18회로 OECD 국가 중 가장 높았다. 의료비는 국내 총생산(GDP) 대비 8.5%로 OECD 평균(9.1%)에 비해 다소 낮다. 다만 2013년 이후 꾸준히 증가세를 보이다, 2023년에 소폭 감소했다.&lt;br&gt;&lt;br&gt;기대 수명은 83.5년으로 OECD 국가 평균(81.1년)보다 2.4년 길었다. 기대 수명이 가장 긴 나라는 스위스로 84.3년. 우리와 0.8년 차이다. 대부분의 국가에서 생활환경 개선, 의료서비스 발달 등으로 기대 수명이 증가하고 있는 추세다. 반면 자살사망률은 OECD 국가 중 가장 높았다. 2022년 기준으로 인구 10만명당 23.2명이다. 다만 2012년 30.3명에서 꾸준히 감소 중이다. &lt;br&gt;&lt;br&gt;흡연율(15세 이상 인구 중 매일 담배를 피우는 비율)은 15.3%로 OECD평균(13.2%)와 비슷했다. 2013년 19.9%, 2018년 17.5% 등 지난 10년간 꾸준히 감소 추세다. 주류 소비량은 연간 7.8ℓ로 OECD 평균(8.6ℓ)보다 적었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검 “尹 부부 비화폰 통신기록 제출받아 조사 예정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/30/PJCAZLMS7JFM5OX7XHJPMGGWGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/PJCAZLMS7JFM5OX7XHJPMGGWGA/</guid>
-      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 01:51:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4H2SLDH2FLOHABAG5EAQW7HY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검 정민영 특검보가 지난 7일 서울 서초구 특검 사무실에서 기자단 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 윤석열 전 대통령과 김건희 여사 등이 사용했던 비화폰 통신 기록 확보에 나섰다. 윤 전 대통령 부부가 고 채수근 상병 사망 사고 이후 국방부·군 관계자 등과 주고받은 연락을 확인해 채 상병 사건 수사에 외압이 이뤄졌는지, 임성근 전 해병대 1사단장에 대한 구명 로비가 있었는지 규명할 방침이다.&lt;br&gt;&lt;br&gt;정민영 특검보는 30일 기자단 브리핑에서 “지난주 대통령실과 국방부 군 관계자 비화폰에 대한 압수 수색 영장을 집행했다”며 “윤 전 대통령과 김 여사, 이종섭 전 국방부 장관, 조태용 전 국가안보실장, 임 전 사단장 등 주요 사건 관계인의 비화폰 통신 기록을 국군통신지휘사령부와 대통령 경호처에서 제출받을 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 순직 해병 수사 외압 의혹이 불거진 2023년 7~8월 이들의 비화폰 사용 내역을 분석하는 데 집중할 계획이다. 특검은 지난주 국군통신지휘사령부 등을 압수 수색했고, 관련 통신 기록을 임의 제출 형식으로 제공받고 있다. 압수 수색 대상에는 김 여사 본인이 지급받아 사용한 비화폰 통신 기록이 포함됐다.&lt;br&gt;&lt;br&gt;특검은 이르면 이번 주 안에 비화폰 기록을 모두 넘겨받아 분석에 착수할 예정이다.&lt;br&gt;&lt;br&gt;한편, 특검은 전날 피의자로 소환 조사한 조태용 전 국가안보실장에 대해 재소환할 계획이라고 밝혔다. 정 특검보는 “본인(조 전 실장)이 기억하고 있는 내용에 대해 진술을 많이 했지만, (VIP 격노설이 불거진) 7월 31일 안보실 회의 관련 기억이 정확하지 않은 부분에 대한 추가 확인이 필요하다”며 “조 전 실장도 추가 조사에 응하겠다는 입장”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 대통령 재수사 지시에… 대검 ‘이태원 참사 합동수사팀’ 출범</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/30/7HAZFA37DBDQFC34XCIAJHDHKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/7HAZFA37DBDQFC34XCIAJHDHKA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 02:05:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAIHCPE2ORKVBIYKUUBT4ORH3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 지난 16일 청와대 영빈관에서 열린 '기억과 위로, 치유의 대화' 사회적 참사 유가족과 간담회에서 이태원 참사 유가족과 인사하고 있다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘이태원 참사 진상 규명을 위한 합동수사팀’이 30일 출범했다. 이재명 대통령이 핼러윈 참사 유족들을 만난 뒤 진상 규명을 위한 강제 수사를 지시한 약 2주 만이다.&lt;br&gt;&lt;br&gt;대검찰청은 이날 보도자료를 통해 “검찰과 경찰은 이태원 참사 전반에 대한 진상을 철저히 규명하고, 참사 희생자와 유족에 대한 2차 가해에 엄정하게 대처하기 위한 합동수사팀을 출범했다”고 밝혔다. 수사 대상은 이태원 참사의 원인 및 구조 활동, 대응 상황의 적정성 등 여러 의혹과 피해자 및 유족에 대한 2차 가해 사건 등이다.&lt;br&gt;&lt;br&gt;합동수사팀은 서울서부지검 하준호(사법연수원 37기) 부장검사가 이끈다. 하 부장검사를 포함한 20여 명 규모의 수사팀이 서부지검에 설치되고, 사안의 중대성을 고려해 대검 형사부가 직접 지휘한다.&lt;br&gt;&lt;br&gt;이 대통령은 지난 16일 이태원·무안 여객기·오송 지하 차도 참사 등의 희생자 유가족들을 만나 공식 사과하고, 이튿날 “경찰과 검찰이 참여하는 이태원 사건 조사단을 편성하라”며 강제 수사를 지시했다. 여야 합의에 따라 만들어진 ‘이태원 참사 특별조사위원회(특조위)’가 작년 9월 발족해 지난달부터 진상 조사에 돌입했지만 강제 수사권이 없다는 지적에 따라 합동수사팀까지 편성된 것이다.&lt;br&gt;&lt;br&gt;앞서 경찰과 검찰 수사로 서울경찰청장, 용산서장, 구청장 등 사고 책임자들이 기소돼 재판을 받고 있지만, 유족들은 관련 국가기관 전반에 대한 추가 수사가 필요하다고 요구해왔다.&lt;br&gt;&lt;br&gt;대검은 “이태원 참사는 사실관계와 책임 소재에 관한 국민적 관심이 집중된 중대 사안”이라며 “참사가 촉발된 구조적 원인을 명확히 밝혀 다시는 이러한 참사가 재발하지 않도록 공동체의 안전을 확보하기 위한 방안을 마련할 필요가 있다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전기차·콩고기…산업 변화가 낳은 새로운 직업들</title>
-      <link>https://www.chosun.com/national/labor/2025/07/30/GFJZI2EUCNEX5CNFTZNV4DCIJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/30/GFJZI2EUCNEX5CNFTZNV4DCIJI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 01:34:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5J2233NL52LB6GEXK6YVYX3EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항의 전기차 충전소./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전기차 충전기, 인공지능(AI), 도심항공교통(UAM), 식물성 단백질 등 차세대 산업의 흐름을 반영한 새로운 직업들이 대거 등장했다.&lt;br&gt;&lt;br&gt;30일 한국고용정보원은 전기·전자·화학·식품 등 분야에서 새로 생긴 직업을 공개했다.&lt;br&gt;&lt;br&gt;고용정보원은 1986년부터 ‘한국직업사전’을 발간해 왔으며, 2028년 제6판 발간을 앞두고 진행한 조사에서 이 직업들을 새롭게 확인한 것이다. 2019년 발간한 5판 기준 이 사전에는 총 1만6891가지 직업이 등재돼 있다.&lt;br&gt;&lt;br&gt;전기차 보급이 늘어나면서 전기차 충전 시장 관련 직업들이 새로 생겼다. 관련 규정에 맞게 전기차 충전기를 설치하고 잘 작동하는지 확인하는 ‘전기차 충전기 설치원’, 충전기 시스템을 업데이트하고 고장 난 충전기를 수리하는 ‘전기차 충전기 정비원’, 전기차 충전기를 수시로 점검하는 ‘전기차 충전기 현장 점검원’ 등이다. &lt;br&gt;&lt;br&gt;전기차 충전기 사용 방법을 알려주는 ‘전기차 충전 고객 상담원’, 전기차 충전소와 충전 플랫폼을 각각 관리하는 ‘전기차 충전소 운영 관리자’와 ‘전기차 충전 플랫폼 운영 관리자’도 등재될 예정이다.&lt;br&gt;&lt;br&gt;AI 등 디지털 신기술이 발전하면서 관련 직업도 새롭게 등장했다. 인공지능 모델을 설계하고 검증하는 ‘인공지능 모델 개발자’, 인공지능 서비스의 활용 목적 등을 기획하는 ‘인공지능 서비스 기획자’, 인공지능 서비스를 직접 설계하는 ‘인공지능 서비스 개발자’, 운영 장애 등을 관리하는 ‘인공지능 서비스 운영 관리자’ 등이다. &lt;br&gt;&lt;br&gt;차세대 항공 시스템인 도심항공교통(UAM) 시장이 커지면서, ‘항공기 인증 기술자’라는 신규 직업도 생겼다. 이 직업은 항공기나 부품이 잘 설계됐는지 검사하는 일을 한다.&lt;br&gt;&lt;br&gt;이외에도 스마트 조명 등 사물인터넷(IoT)을 이용하는 조명 시스템을 개발하는 ‘조명 제어 엔지니어’, OLED 조명을 만드는 ‘OLED 조명 개발자’도 신규 직업으로 인정받았다.&lt;br&gt;&lt;br&gt;식품의 향과 맛을 개발하는 ‘식품 향미 소재 개발 연구원’, 콩고기 등 식물성 단백질 식품을 만드는 ‘식물 기반 대체 식품 연구원’도 새로 생겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조국혁신당 ‘尹 탄핵 촉구’ 집회서 흉기로 경찰관 위협한 60대, 징역형</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/30/ZN5W5U55R5HQHL3VNCQ7XBUB6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/ZN5W5U55R5HQHL3VNCQ7XBUB6Y/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 01:32:28 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE4DERIKXJLA3EHFVRBKZTBMOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당이 주최한 ‘정권 탄핵 촉구’ 집회에 참석했다가 경찰 기동대원을 흉기로 위협한 혐의로 기소된 60대 남성이 1심에서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울중앙지법 형사11단독 염혜수 판사는 특수공무집행방해 혐의로 기소된 A(64)씨에게 지난 22일 징역 2년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 작년 10월 26일 서울 서초구 서초역 8번 출구 앞에서 조국혁신당이 주최한 윤석열 정권 탄핵 촉구 집회에서 서울경찰청 기동대 소속 경찰관에게 25cm 길이의 칼을 들이대며 위협한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 경찰이 길 건너편 자유대한호국당의 ‘조국 당대표 처벌 촉구’ 맞대응 집회를 허가한 조치가 부당하다는 취지로 항의하다가 범행을 벌인 것으로 조사됐다. A씨는 “여기서 사람이 죽어나가야 경찰이 정신을 차리겠구나”라며 항의했고 집회를 관리하던 기동대 경위가 “저희도 할 수 있는 게 없다”고 하자, 인근 골목에 주차된 오토바이로 가서 흉기를 꺼낸 다음 칼끝으로 다른 경찰관을 겨누며 협박했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 2007년 살인죄로 징역형 처벌을 받은 전력이 있는 것으로 나타났다. 염 판사는 “다수 인원이 참석한 집회 현장에서 안전 관리를 위해 동원된 경찰을 상대로 칼을 겨누며 협박한 것으로, 자칫 심각한 피해가 발생할 수 있었다는 측면에서 죄질이 중하다”며 “다만 실제 경찰관에게 상해를 가하는 등 중한 결과가 발생하지 않았다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[매일매일 중국어 한마디] 여유롭고 편안한 느낌</title>
