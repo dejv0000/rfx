@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>처지 비관해 10대 자녀들 살해하려한 40대 친모… 징역 2년 6개월 </title>
+      <link>https://www.chosun.com/national/regional/2025/07/31/OEYMGBCWLBC2DDIUHW57PP5ROM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/31/OEYMGBCWLBC2DDIUHW57PP5ROM/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 09:06:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPAIC76NCCCJJ4YXCAFH4P34SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원 포항지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처지를 비관해 10대 자녀들을 살해하려다 미수에 그친 40대 친모에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 포항지원 형사부(재판장 박광선)는 31일 살인 미수와 아동복지법 위반 등의 혐의로 재판에 넘겨진 A씨에게 징역 2년 6개월을 선고했다. 또 아동학대 치료 40시간과 아동관리기관에 5년간 취업 제한도 명령했다. 하지만 A씨가 알코올 의존 증후군과 우울증 등으로 입원 치료를 받고 있어 법정 구속하지는 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난해 6월 술에 취한 상태에서 10대 자녀 2명을 살해하려다 중간에 멈추고 119에 스스로 신고해 미수에 그친 혐의로 재판에 넘겨졌다. 앞서 2023년에는 술에 취해 자녀들을 때리는 등 학대했고, 자녀들의 식사를 제대로 챙기지 않거나 집에 쓰레기를 방치하는 등 보호와 양육을 소홀히 한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;재판부는 “생명은 절대적으로 보호받아야 하는 존귀한 가치로 부모라고해도 독립된 인격체인 자녀의 생명을 빼앗는 행위는 어떠한 이유로도 정당화될 수 없다”며 “다만, 남편과 별거, 친모 사망으로 인한 우울증 등으로 처지를 비관해 범행에 이른 것으로 보이는 점, 자신의 잘못을 모두 인정하고 반성하고 있는 점, 범행이 미수에 그친 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직원 사칭 물품구매 사기 시도 확인… 인천시교육청 “주의 당부”</title>
+      <link>https://www.chosun.com/national/incident/2025/07/31/WWIHOT4L3FGIPL4N5ZPQHXNUHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/31/WWIHOT4L3FGIPL4N5ZPQHXNUHM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 09:27:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U56AOPB7HP4FVDR4UI6XV5YSPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시교육청이 시교육청 공무원을 사칭한 물품 구매 사기 시도가 확인됐다며 주의를 당부했다. &lt;br&gt;&lt;br&gt;31일 인천시교육청에 따르면 이날 2000만~3500만원어치의 혈압계와 장갑, 안전화 등 물품을 구입하려는 게 맞느냐는 인천 지역 철물점의 확인 전화 4건이 시교육청에 잇따라 걸려왔다. 확인을 요구한 철물점은 모두 다른 곳이었다. 시교육청 공무원이 장갑과 안전화 10만~30만원어치와 200만원 상당의 혈압계를 10~15개 구매하겠다며 전화를 걸어왔고, 시교육청 명의의 공문도 보내줬다는 게 공통된 내용이었다. &lt;br&gt;&lt;br&gt;시교육청은 그런 전화를 한 적이 없었고, 다행히 금전적인 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;공문 연락처엔 사무실 유선 전화번호가 아닌 개인 휴대전화 번호가 있었고, 인천이 아닌 다른 지역번호로 시작되는 팩스번호가 기재돼 있었다. 담당자의 이메일 주소는 공무원용 메일이 아닌 포털 메일이 적혀 있었다고 한다. &lt;br&gt;&lt;br&gt;시교육청 관계자는 “이런 부분을 이상하다고 여긴 철물점 사장님들이 인터넷 등을 보고 직접 전화를 걸어 확인을 요청했다”며 “공문이나 전화로 물품 발주나 계약 요청을 받을 경우, 시교육청으로 연락해 사실 관계를 확인해 달라”고 말했다. &lt;br&gt;&lt;br&gt;시교육청은 이번 사안에 대해 경찰에 수사를 의뢰한 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용인 지역주택조합 사업서 ‘뒷돈’ 비리...무더기 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/07/31/ZRTXZLKZBZCBRDL372AIQYEQ4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/ZRTXZLKZBZCBRDL372AIQYEQ4I/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 08:32:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YBRJAE5XCRRNNXKFS6625VGH4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시 영통구 수원지방검찰청의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 한 지역주택조합 사업에서 ‘뒷돈’을 주고받은 관련자들이 무더기로 구속돼 재판에 넘겨졌다. 검찰 조사 결과, 전현직 조합장과 전 용인시장, 전 국회의원 등이 연루돼 있었다.&lt;br&gt;&lt;br&gt;수원지검 형사6부(부장 서현욱)는 용인 보평역 모 지역주택조합 전 조합장 A(49)씨를 배임수재, 업무상 배임 등 혐의로, 모 시공사 부사장 B(55)씨를 배임증재, 특정경제범죄가중처벌등에관한법률위반(횡령) 등 혐의로 각각 구속기소했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 또 이와 함께 현직 조합장인 C씨 등 8명도 배임수재, 업무상횡령 등 혐의로 불구속 기소했다. 검찰은 이에 앞서 지난 5월 우제창(62) 전 국회의원을 특정범죄가중처벌등에관한법률위반(알선수재) 등 혐의로 먼저 구속기소하고, 이정문(78) 전 용인시장도 같은 혐의를 적용해 이달 초 구속기소했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨는 2020년 5월부터 지난해 1월까지 공사비 증액, 공사 수주, 상가 일괄 분양 등을 대가로 B씨로부터 23억1150만원 상당의 현금 및 부동산을 받은 혐의다. B씨는 A씨에게 지역주택조합 사업 공사비를 기존 금액보다 385억원 더 늘려주면, 25억원을 주기로 약속한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당초 물가 상승에 따른 공사비 증액분은 142억원이었는데, 이 뒷거래로 243억원을 더 늘린 것이다. 실제로 공사비가 오르자 B씨는 A씨의 페이퍼컴퍼니(유령회사) 계좌로 13억9000만원을 보낸 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJR3BCQBTRB5TFQ3IZJZZIPJSM.png"&gt;&lt;figcaption&gt;&lt;small&gt;용인지역주택조합 비리 사건 관련 범행 구조도. /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 아파트 단지는 총 1963세대(조합원 분양분 987세대·일반 976세대)로 구성됐다. 두 번에 걸쳐 공사비가 늘어났고, 조합원들은 최초 책정가보다 평형별로 1억~2억원의 분담금을 추가로 부담하게 됐다. 무주택자 또는 85㎡ 이하 소형 주택 보유자인 조합원들은 결국 일반 분양자보다 더 많은 돈을 내고 입주하게 되는 상황까지 벌어졌다. 검찰은 “일부 조합원들은 추가 분담금과 대출 이자를 변제하기 위해 대리운전이나 배달, 편의점 아르바이트까지 나섰다”고 했다.&lt;br&gt;&lt;br&gt;정작 조합장인 A씨는 이 아파트를 팔고, 시공사 등으로부터 받은 거액을 모아 20억원 상당의 고가 아파트를 취득한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 또 방음벽 공사업체 대표인 D(64·7월 1일 구속 기소)씨로부터 방음벽 공사 수주를 대가로 3억원을, 상가 분양 대행사 C 대표로부터 일괄 분양을 대가로 6억3650만원 상당의 부동산을 받기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건 수사는 지난 3월 D씨가 검찰에 우 전 의원에 대한 고소장을 접수하며 시작됐다. D씨는 당시 우 전 의원과 로비 자금 액수를 두고 다툼을 벌이다가 공사에서 배제됐던 것으로 알려졌다. 검찰은 조사 과정에서 D씨가 다양한 금품 비리에 직·간접적으로 개입한 단서를 포착했다. 검찰은 “‘돈을 따라가는 수사’를 하다 보니 지역주택조합에 관여된 거의 모든 사람이 다양한 비리에 가담한 것을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;우 전 의원은 2021년 9월부터 지난 3월까지 “지역주택조합 방음벽 공사와 관련한 각종 편의 제공을 청탁해주겠다”며 D씨로부터 9억9000만원을 수수한 혐의를 받는다. 이와 관련해 이 전 시장도 아파트 건설과 방음벽 공사와 관련한 각종 민원을 시청 공무원들에게 알선한다는 명목으로 D씨에게 현금 1억6500만원 및 차량 리스료 2900만원을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;현 조합장 C씨는 2024년 10~12월 방음벽 공사 하도급업체 운영자로부터 공사 관련 각종 편의 제공을 대가로 900만원 상당의 금품을 받고, 올해 3월 조합 자금으로 허위 공사비 3000만원을 지급한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 이들의 재산을 추적해 약 40억원 상당의 아파트, 토지, 오피스텔 등의 재산을 몰수·추징보전했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “거액의 뒷돈을 주고 그보다 월등히 많은 이익을 요구한 결과, 결국 조합 자금으로 뒷돈보다 5~17배 많은 이익을 챙기는 등 부패가 확산했다”며 “이 사건은 지역주택조합에서 발생할 수 있는 각종 비리가 모두 담겨 있는 비리의 백과사전에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 물류창고서 근로자 또 추락사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/07/31/PC3EXPOH6RFEXFEHVHZV6HFF44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/07/31/PC3EXPOH6RFEXFEHVHZV6HFF44/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 08:46:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북에서 또다시 근로자가 추락해 숨지는 사건이 발생했다. &lt;br&gt;&lt;br&gt;31일 오전 8시쯤 충북 음성군의 한 물류창고에서 50대 근로자 A씨가 샌드위치 패널로 된 지붕에서 추락해 숨졌다. &lt;br&gt;&lt;br&gt;당시 A씨는 창고 지붕 위에 올라가 조명을 설치하던 중 패널 일부가 떨어져 나가 5m 아래로 추락한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;노동 당국은 사업장 규모, 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기초수급자 생계급여 4인가구 207만원... 역대 최대폭 올려준다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/31/JEB5WBEMYFHJHIZGR5TJA7R7H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/31/JEB5WBEMYFHJHIZGR5TJA7R7H4/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 08:23:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON4V62NS5BHOBLFCFJB2ZOWF6I.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년도 기초생활수급자가 받는 생계급여(최저 생계비)가 역대 최대 폭으로 오른다. 4인 가구 기준 올해 195만1287원에서 내년 207만8316원으로 올해보다 12만7029원 오른다. 4인 가구 기준 생계 급여가 200만원을 넘는 것은 이번이 처음이다. 최저 생계비를 포함한 복지 사업 80개의 잣대가 되는 ‘기준 중위 소득’이 6.51%(4인 가구 기준) 올랐기 때문이다.&lt;br&gt;&lt;br&gt;보건복지부는 31일 제77차 중앙생활보장위원회를 열고 4인 가구 기준 올해 609만7773원이었던 기준 중위 소득을 내년 649만4738원으로 6.51% 올리기로 결정했다. 특히 기초생활보장 수급 가구의 74%를 차지하는 1인 가구 기준으로는 올해 239만2013원에서 내년 256만4238원으로 7.2% 올린다.&lt;br&gt;&lt;br&gt;이에 따라 저소득층에게 생계비를 대 주는 생계급여, 전월세나 주택 개보수 비용을 지원하는 주거급여, 입학금과 수업료, 교과서비 등을 주는 교육급여, 국민건강보험과 별개로 의료비를 지원하는 의료급여 등 기초생활보장제도를 포함한 80개 복지사업의 대상자 선정, 지원 수준의 기준이 올라가게 됐다. 취업 취약계층에게 취업 지원을 해 주는 국민취업지원제도, 대학생들에게 장학금을 주는 국가장학금 역시 대상자와 혜택이 늘어나게 됐다.&lt;br&gt;&lt;br&gt;정부는 2016~2020년 기준 중위 소득의 이듬해 인상률을 1.16~2.94% 사이로 유지했다. 그러다 2021년부터 5~6%대 인상률을 적용하며 기준 중위 소득을 대폭 끌어올렸다. 기준 중위 소득이 올라가면 각종 복지 수급액이 올라가고, 대상자가 늘어나는 효과가 있다. 이재명 대통령은 대선 후보 시절 생계급여 보장수준의 단계적 상향’을 공약으로 내세웠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울에 동남아 과일 바나나 주렁주렁… 올리브·파파야도 국내서 키운다</title>
       <link>https://www.chosun.com/national/national_general/2025/07/31/HHCHLLDZXBFYNBCFDJGTNURQWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/HHCHLLDZXBFYNBCFDJGTNURQWY/</guid>
@@ -848,45 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Z7Z7HAKEFJAHF5RO5ZNCBXHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 13일 오후 발생한 서울 강남구 은마아파트 매몰 사고 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 서울 강남구 대치동 은마아파트 하수관 공사 도중 발생한 토사 붕괴로 인부 1명이 숨진 사고와 관련해, 현장 책임자들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 수서경찰서는 아파트 관리소장 등 2명을 업무상 과실치사 혐의로 30일 불구속 송치했다고 이날 밝혔다. 이들은 공사 전 필요한 안전 조치를 제대로 이행하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난달 13일 오후 1시쯤 서울 강남구 은마아파트에서 지하 하수관 공사를 하던 유모(69)씨 등 인부 2명이 무너진 토사에 매몰되는 사고가 일어났다. 유씨는 심정지 상태로 구조돼 병원으로 이송됐지만 오후 2시 20분쯤 숨졌다.&lt;br&gt;&lt;br&gt;관리소장 등 안전 관리 책임자들은 사고 직전까지 현장에 없었던 것으로 알려졌다. 경찰 조사 결과, 토사 붕괴를 방지하기 위한 흙막이판 등 안전 시설 설치도 미흡했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;한편 유씨 유족들은 관리소장과 위탁 관리업체를 중대재해처벌법 위반 혐의로 고소하기도 했다. 해당 건은 현재 서울지방고용노동청으로 이송돼 조사가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>휴가온 강원도서 교통사고… 40대 가장 숨지고 자녀 3명 중상</title>
-      <link>https://www.chosun.com/national/incident/2025/07/30/QTZNTLXPIBAH5JDUPO7NDIXSSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/30/QTZNTLXPIBAH5JDUPO7NDIXSSA/</guid>
-      <dc:creator>인제=정성원 기자</dc:creator>
-      <description>강원 인제군의 한 교차로에서 가족이 탄 승합차가 도로변 신호등 기둥을 들이받는 사고가 발생했다. 이 사고로 40대 가장이 숨지고 함께 타고 있던 자녀 3명이 크게 다쳤다.
-30일 오후 2시 32분쯤 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받고 옆으로 넘어졌다.
-</description>
-      <pubDate>Wed, 30 Jul 2025 09:28:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6R2LWP3YBFV3NQYVQUF3FIZTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받는 사고가 발생, 소방대원들이 구조 활동을 벌이고 있다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 인제군 한 교차로에서 가족이 탄 승합차가 도로변 신호등 기둥을 들이받는 사고가 발생했다. 40대 가장이 숨지고 함께 타고 있던 자녀 3명이 크게 다쳤다.&lt;br&gt;&lt;br&gt;30일 오후 2시 32분쯤 강원 인제군 북면 한계교차로에서 A(42)씨가 몰던 스타리아 승합차가 신호등 기둥을 들이받고 옆으로 넘어졌다. 이 사고로 A씨가 숨지고 함께 타고 있던 10대 자녀 3명이 다쳐 병원에서 치료 중이다.&lt;br&gt;&lt;br&gt;경기도 구리에 사는 A씨는 여름휴가를 맞아 자녀들과 함께 강원 지역을 방문했다가 귀가하던 중 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자와 차량 블랙박스 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박수홍 측, 협박 피소에 “2년만에 문제 제기 이해안돼... 무고 맞대응”</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/EWD74XHHFRALVHV6UPHBUCVU7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/EWD74XHHFRALVHV6UPHBUCVU7M/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 09:01:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L5TOIALEONR4WTDLMQN2FQRCVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법적 다툼을 벌이고 있는 식품업체 대표로부터 협박 혐의로 고소를 당한 박수홍 측이 무고를 주장하며 맞대응에 나섰다. &lt;br&gt;&lt;br&gt;박수홍 법률대리인은 30일 공식 입장을 통해 “식품업체 A씨의 고소 소식을 언론 보도로 접했다”며 “고소장을 수령받지 못한 상황에서 대대적 보도에 이미지 훼손을 위한 언론 플레이가 의심된다”고 했다.&lt;br&gt;&lt;br&gt;앞서 전날 A씨가 박수홍 측으로부터 협박을 당했다며 지난 14일 고소장을 제출한 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;박수홍의 소속사는 2023년 9월 ‘A씨 업체가 박수홍의 얼굴을 광고에 무단 사용했다’며 5억원 상당의 약정금 청구 소송을 낸 바 있다. 해당 사건은 현재 수원지법 성남지원에서 심리 중이다.&lt;br&gt;&lt;br&gt;A씨는 박수홍 측 변호사가 해당 소송 제기 직전 강압적으로 사과를 요구했고, 이 과정에서 자신을 협박했다고 주장하고 있다. 박수홍 측 변호사의 행위가 박수홍의 지시를 받은 것이라는 것이 A씨의 주장이다.&lt;br&gt;&lt;br&gt;이에 박수홍 법률대리인은 “A씨가 돌연 2년 만에 이 같은 문제를 제기하는 것은 이해할 수 없는 행위이며 그 의도가 의심된다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “무엇보다 중요한 것은, A씨의 주장은 과거 박수홍의 법률대리인에게 협박성의 말을 들었다는 것”이라며 “즉 박수홍으로부터 이 같은 말을 직접 들은 적이 없는데 행위자가 아닌 박수홍을 상대로 고소장을 제출한 것”이라고 했다. &lt;br&gt;&lt;br&gt;끝으로 “이는 무고에 해당할 수 있다”며 “A씨의 근거 없는 허위 주장으로 박수홍의 명예를 훼손하는 행위에 대하여 단호한 법적 대응을 검토할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘광명 아파트 화재’ 사망자 4명으로 늘어… 80대 중상자 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/ULCCGRHIDZHSNHBWPXR3LD57BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/ULCCGRHIDZHSNHBWPXR3LD57BQ/</guid>
-      <dc:creator>광명=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 08:48:46 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27QTITTWZAJZLPV6O2GYWMW7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 9시 5분쯤 경기 광명시 소하동의 한 아파트 필로티 주차장에서 불이 나 소방대원들이 진화 작업을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명 아파트 화재 사망자가 모두 4명으로 늘었다. &lt;br&gt;&lt;br&gt;30일 광명경찰서에 따르면 지난 29일 오후 3시 40분쯤 서울 한강성심병원에서 치료를 받아온 80대 여성 A씨가 숨졌다. 광명 아파트 화재 현장에서 구조된 지 12일 만이었다. &lt;br&gt;&lt;br&gt;A씨는 앞서 화재로 사망한 60대 남성의 노모다. 이 모자는 저층부에서 발견돼 구조대원들에 의해 병원으로 옮겨졌지만 끝내 숨졌다. 화재 발생 이튿날엔 60대 여성 등 2명이 숨졌다. &lt;br&gt;&lt;br&gt;화재 당시 크게 다쳤던 부상자 중 일부는 회복해 일반 병실로 옮겨졌지만 4명은 위독해 중환자실에 있는 것으로 확인됐다. 특히 이들 중 2명은 의식을 찾지 못하고 있는 상태다. &lt;br&gt;&lt;br&gt;경찰은 “생명이 위태로운 부상자가 있어 사망자가 더 늘어날 수 있다”고 했다. 연기를 흡입하는 등 경상자는 57명으로 집계됐다. &lt;br&gt;&lt;br&gt;앞서 지난 17일 오후 9시 5분쯤 광명시 소하동 10층짜리 아파트 1층 주차장에서 불이 났다. 당시 1시간 30분 만에 꺼졌지만 10층까지 삽시간에 번졌다. &lt;br&gt;&lt;br&gt;경찰은 주차장에서 녹화된 발화 당시 방범카메라(CCTV) 영상을 분석해 주차장 천장 부근에서 불이 시작된 것으로 파악했다. &lt;br&gt;&lt;br&gt;소방당국은 발화 지점인 주차장 천장 안에 있던 케이블 트레이에서 전선 단락흔을 확인하고, 누전으로 화재가 발생한 것으로 추정했다. 전기가 흐르는 상태에서 합선이 발생하면 전선 등이 녹았다가 굳으면서 단락흔이 생긴다. &lt;br&gt;&lt;br&gt;현재 경찰은 화재 피해자와 아파트 주민들을 대상으로 참고인 조사를 진행하는 한편, 국립과학수사연구원의 감정 결과를 기다리고 있다. 이번 화재로 현재까지 형사 입건된 사람은 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조태용·임기훈 “尹·이종섭 통화하는 거 봤다” 해병 특검 진술</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/30/KGILNXVMYZCZHG247MI4IRVTJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/KGILNXVMYZCZHG247MI4IRVTJ4/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 08:09:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVAIHPTQBNBF3J3IAEQI5JBJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가안보실장이 29일 오전 서울 서초구 순직 해병 특검 사무실에 피의자 신분으로 출석하고 있다. /박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조태용 전 국가안보실장과 임기훈 전 국방비서관이 최근 순직 해병 특검 조사에서 “윤석열 전 대통령이 2023년 7월 31일 국가안보실회의에서 고 채수근 상병 사망 사고 관련 보고를 받고 화를 낸 뒤, 이종섭 전 국방장관과 통화하는 것을 봤다”고 진술한 것으로 파악됐다. 이른바 ‘VIP 격노설’이 불거진 회의 당일 윤 전 대통령과 이 전 장관의 통화 장면을 직접 봤다는 진술이 나온 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;30일 본지 취재를 종합하면, 조 전 실장은 전날 해병 특검에서 피의자 조사를 받으면서 윤 전 대통령이 7월 31일 오전 11시에 주재한 안보실 회의 상황에 대해 이같이 진술했다. 당시 회의에는 조 전 실장을 포함해 총 7명이 참석했는데, 윤 전 대통령이 ‘임성근 전 해병대 1사단장에 대해 과실치사 혐의를 적용했다’는 임 전 비서관의 보고를 받고 화를 내며 이 전 장관을 전화로 질책했다는 것이 VIP 격노설의 핵심이다.&lt;br&gt;&lt;br&gt;앞서 특검은 당시 다른 회의 참석자들에 대한 조사를 통해 ‘윤 전 대통령이 채 상병 사건 보고 직후 화를 내며 조 전 실장·임 전 비서관을 빼고 나가라고 했다’는 진술을 확보했다. 이때 윤 전 대통령 곁에 남은 것으로 지목된 조 전 실장이 “오전 11시 54분 윤 전 대통령이 이 전 장관에게 전화하는 것을 봤다”고 인정한 것이다. 그간 대통령실 내선 번호(02-800-7070)로 이뤄진 대통령과 국방장관의 통화 장면을 직접 목격했다는 진술이 나온 적은 없었다.&lt;br&gt;&lt;br&gt;임 전 비서관도 지난 25일 해병 특검에서 참고인 조사를 받으며 “윤 전 대통령이 이 전 장관에게 전화해 ‘이렇게 하면 누가 사단장을 맡겠느냐’ ‘다 처벌하는 게 말이 되냐’고 질책하는 것을 봤다”는 취지로 말한 것으로 전해졌다. 안보실 회의에 참석해 끝까지 배석했던 두 사람이 윤 전 대통령의 격노와 이 전 장관 통화에 대해 진술한 것이다. &lt;br&gt;&lt;br&gt;임 전 비서​관은 또 “당시 VIP 격노설을 이 전 장관과 박진희 전 군사보좌관, 김계환 전 해병대 사령관에게 전달한 것 같다”는 취지로도 말한 것으로 전해졌다. 특검은 이들의 진술을 바탕으로 윤 전 대통령이 채 상병 사건 처리에 관해 부당한 지시나 외압을 했는지 등에 대해 규명할 방침이다.&lt;br&gt;&lt;br&gt;앞서 이 전 장관 측은 안보실 회의 직후 걸려온 전화의 상대방이 윤 전 대통령이었다고 밝히면서 “대통령이 ‘임성근 전 사단장을 과실치사 혐의자에서 빼라’고 지시한 적은 없다”고 했다. 수사 외압은 없었다는 주장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>세계 최초 ‘7대륙 최고봉’ 정복 허영호 대장, 하늘나라 등정 떠나다</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/07/30/FGLONMUDIFHHJCYE5JNTRWRACA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/07/30/FGLONMUDIFHHJCYE5JNTRWRACA/</guid>
@@ -907,15 +913,6 @@
       <description/>
       <pubDate>Wed, 30 Jul 2025 07:23:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW3PDENLYEQLXEO44P4KG347UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특검팀의 박지영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국회의 비상계엄 해제 의결 방해’ 의혹과 관련, 내란 특검은 30일 안철수 국민의힘 의원에 대한 추가 소환 계획은 없다고 밝혔다. 최근 특검의 경기 오산 공군기지 압수 수색을 두고 ‘한미동맹 악화’ 취지로 고발된 것과 관련해선 “수사 방해 행위”라고 했다.&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 브리핑에서 “전날(29일) 안 의원과의 추가 연락은 없었다”며 다시 소환할 계획은 없다고 했다. 특검은 지난해 12·3 비상계엄 선포 직후 이를 해제하는 과정에서 국회의 표결 방해 정황이 있었는지를 조사하기 위해, 전날 안 의원에게 참고인 신분으로 출석을 통보했다. 하지만 안 의원은 “야당 탄압”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;박 특검보는 “안 의원이 명확히 불출석 의사를 표명한 것으로 보인다”며 “참고인 조사는 강제 수사가 아닌 임의 조사로, 출석 여부는 본인에게 (달려) 있다”고 했다. 그러면서 “안 의원 외 다른 의원들에 대해서는 필요한 경우 조사가 이뤄질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 또 “특정 정당에 한해 참고인 조사를 하는 것은 아니다”라고 했다. 안 의원이 특검 수사를 정치적 행위로 규정한 데 대해, 정치적 목적은 없다는 점을 분명히 한 것이다.&lt;br&gt;&lt;br&gt;한편, 내란 특검은 이달 21일 경기 오산 공군기지를 압수 수색한 것을 두고 한 시민단체가 ‘한미동맹 악화’ 취지로 고발한 것과 관련해 “오히려 국익을 해하고 수사를 방해하는 행위”라고 했다. 오산 기지는 주한미군이 주둔 중인 부대다.&lt;br&gt;&lt;br&gt;박 특검보는 “오산 공군기지 압수 수색은 대한민국 군이 관리하는 자료에 대해 형사소송법 절차에 따라 부대 사령관 승낙 하에 이뤄졌다”며 “미군이나 미군 자료는 압수 수색 대상·범위가 아니었고, 압수 수색을 다녀왔던 검사·수사관은 미군을 마주친 적도 없다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “특검팀 수사를 한미동맹과 연결하면서 이번 압수 수색이 미군과의 사전 협의가 필요했던 것처럼 허위 주장을 하는 것은, 오히려 한미동맹을 해치는 행위이자 국익을 해하고 수사를 방해하는 행위로 평가될 수 있다”고 했다. “지록위마(指鹿爲馬·사슴을 가리켜 말이라 함)하지 말아달라”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>실탄 소지 남성, 서울중앙지검 검색대 통과하려다 현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/7KMNGAOXFZDWTL2YO2YLHMILYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/7KMNGAOXFZDWTL2YO2YLHMILYQ/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 05:57:26 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3D2R6MT4NDJVKLOHYSMX3YQBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 서울 서초경찰서는 실탄을 소지한 채 서울중앙지검 검색대를 통과하려던 20대 남성 A씨를 현행범 체포했다고 밝혔다. A씨는 이날 오후 12시 40분쯤 7.62mm 규격 실탄 1발을 가지고 중앙지검 청사 내부 보안 검색대를 통과하려다 방호관에게 적발됐다.&lt;br&gt;&lt;br&gt;A씨는 현역 군인은 아니며, 체포 당시 음주나 마약 상태도 아니었던 것으로 알려졌다. 경찰 조사에서 A씨는 “실탄이 아닌 모조품으로, 인터넷에서 구매해 평소에도 가방에 넣고 다녔다”고 주장한 것으로 전해졌다. 경찰은 탄알을 압수하고 구체적인 경위를 확인 중이다.&lt;br&gt;&lt;br&gt;최근 사제 총기, 실탄 등을 일반인도 쉽게 제작하고 구매할 수 있는 것으로 알려지면서 불법 총포에 대한 불안감이 커지고 있다. 지난 20일 발생한 인천 사제 총기 살해 사건 때도 피의자 조모(62)씨가 직접 사제 총기를 제작해 범행을 저질렀다. 조씨의 차량에선 사용하지 않은 실탄 86발이 발견되기도 했다. 조씨는 경찰에 “수렵용으로 사용하고 남는 걸 판매한다는 글을 보고 연락해서 구매했다”고 진술한 것으로 알려졌다. 총포화약법에 따르면 직무상 사용해야 하는 경우 등을 제외하고는 누구든지 허가 없이 총, 도검, 폭탄 등을 소지할 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고용부·경찰, ‘근로자 추락사’ 한솔제지 압수수색 </title>
