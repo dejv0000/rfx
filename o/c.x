@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>학교 기숙사서 ‘샤워실 몰카’ 찍은 명문대생… 3시간 뒤 돌연 자수</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/YUL366RRTVFFRDT44NVH3YQTVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/YUL366RRTVFFRDT44NVH3YQTVU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 13:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학교 기숙사 샤워실에서 여학생을 불법 촬영한 20대 남학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 성북경찰서는 20대 남성 A씨를 성폭력처벌법 위반(카메라 등 이용 촬영) 혐의로 검거해 조사 중이라고 31일 밝혔다. A씨는 전날 오후 6시쯤 서울 성북구 고려대 안암캠퍼스 기숙사 안 샤워실에 침입해 20대 여성을 휴대전화로 몰래 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;같은 대학 기숙사에 거주하던 A씨는 범행 3시간 뒤 돌연 기숙사 관리인에게 자수했다. 이어 신고를 받고 출동한 경찰에게도 범행 사실을 털어놓으며 경찰서로 향했다. A씨 휴대전화에선 불법 촬영물이 확인된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 휴대전화에 대한 포렌식 검사를 의뢰한 상태다. 아울러 그 결과를 토대로 조만간 A씨를 입건해 구체적인 사건 경위를 파악할 방침이다. A씨는 입건 전 조사에서도 범행을 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“국민연금 2029년까지 흑자”…연금 개혁 후 기존 전망보다 2년 더 늦춰져</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/07/31/TDB46NNQUFACFF2D5AD5B3PV4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/31/TDB46NNQUFACFF2D5AD5B3PV4U/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 12:53:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3VCHQKJ65YHXAT2YPRQYPKB2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부에서 고객이 상담을 받기 위해 창구로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금 흑자 기조가 당초 전망보다 2년 늦춰진 2029년까지 유지될 것이라는 분석이 나왔다.&lt;br&gt;&lt;br&gt;31일 국민연금연구원의 ‘국민연금 중기재정전망(2025~2029)’ 보고서에 따르면, 2029년 국민연금 보험료 수지는 5조28억원 흑자로 전망됐다. 거둬들이는 보험료가 지급하는 연금급여액보다 많은 시점이 최소 2029년까지 유지될 것이라는 얘기다.&lt;br&gt;&lt;br&gt;이번 중기재정전망은 올해 3월 이뤄진 국민연금 개혁 이후 처음 나온 것이다. 연금개혁 이전에 이뤄진 중기재정전망에서는 2027년에 보험료 수지가 3조2536억원 적자로 전환될 것으로 내다봤었다.&lt;br&gt;&lt;br&gt;이번 전망에서는 연도별 흑자 규모가 2025년 12조5854억원, 2026년 10조188억원, 2027년 7조1268억원, 2028년 6조1584억원, 2029년 5조28억원으로 전망됐다.&lt;br&gt;&lt;br&gt;흑자 규모가 지속적으로 줄어드는 것은 급격한 저출생·고령화에 따른 생산활동인구 감소로 국민연금 가입자는 줄어들고, 수급자는 급증하면서 수입보다 지출이 많아지기 때문이다.&lt;br&gt;&lt;br&gt;여기에 더해 지난 3월 개혁으로 국민연금 보험료율(내는 돈)은 내년부터 8년간 매년 0.5%포인트씩 점진적으로 오르지만, 소득대체율(받는 돈)은 기존 41.5%에서 43%로 한 번에 올라 지출 폭이 더 커진다.&lt;br&gt;&lt;br&gt;향후 5년간 흑자 규모는 줄어들지만, 적립금을 굴려서 얻을 수 있는 투자운용수익과 이자수익 덕분에 한동안은 전체 수입이 지출보다 많아 기금 적립금은 계속 불어날 것으로 예측됐다. 이번 전망에서는 기금 적립금이 2025년 1272조3235억원에서 2029년 1554조8630억원으로 늘어날 것으로 예상됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“로또 당첨돼 가게 닫습니다”… 사장님 인사에 숨겨진 반전</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/B4JF2BTRMBCRZMMMB6FQBGWZJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/B4JF2BTRMBCRZMMMB6FQBGWZJM/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 12:00:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPGNJQSG3VAK3EXCKT4MAF4UFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 온라인 커뮤니티에 올라온 인천 한 고깃집의 폐업 안내문. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 고깃집에 내걸린 폐업 안내문이 온라인에서 화제다. 점주는 “로또에 당첨됐다”는 유쾌한 인사를 건넸지만, 뒤늦게 문을 닫게 된 진짜 이유가 알려지며 네티즌들을 뭉클하게 만들고 있다.&lt;br&gt;&lt;br&gt;최근 여러 온라인 커뮤니티에는 인천 남동구 만수동 한 고깃집 입구에 붙은 안내문 사진이 올라왔다. 안내문에는 “로또 당첨돼서 6월 30일부로 영업을 종료합니다. 그동안 찾아주신 손님들 덕분에 즐겁게 영업할 수 있었습니다. 감사합니다. 항상 건강하시고 행복하세요”라는 마지막 인사가 적혀 있었다.&lt;br&gt;&lt;br&gt;처음 이를 본 사람들은 “사장님 너무 부럽다” “좋은 기운 받아 간다” “나도 복권 당첨돼서 회사 그만두고 싶다” 등의 댓글을 달며 부러워했다. 그러나 게시물이 여러 소셜미디어를 통해 확산하자 곧 반전이 드러났다. 점주가 직접 한 커뮤니티 글에 댓글을 달아 가게 문을 닫게 된 진짜 이유를 밝힌 것이다.&lt;br&gt;&lt;br&gt;사연은 이랬다. 점주는 암 진단을 받아 투병 중이었고 매장 운영과 치료를 병행하기 어려워 결국 고민 끝에 폐업을 결정했다. 로또에 당첨됐다는 말은 그동안 가게를 찾아준 손님들에게 걱정 끼치고 싶지 않다는 생각에 지어낸 이야기라고 한다. 손님들과 무거운 인사를 나누고 싶지 않았던 마음에 써 내려간 안내문이었다.&lt;br&gt;&lt;br&gt;진실을 알게 된 네티즌들은 “완치가 가장 값진 로또다. 꼭 쾌차하셔서 돌아오시길 바란다” “사장님 마인드가 너무 훌륭하셔서 꼭 완치하실 거다”라는 응원 글을 남겼다. 또 인근 주민이라는 네티즌들은 “사장님 내외가 너무 친절해서 자주 갔다. 빨리 나으셨으면 좋겠다” “이런 속사정이 있었다니 안타깝다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GPGNJQSG3VAK3EXCKT4MAF4UFM.jpg?auth=4842409cabe916cf3954610795caf4fff364384247534d45f90633d72a15cc36&amp;smart=true&amp;width=860&amp;height=624" type="image/jpeg" height="624" width="860">
+        <media:description type="plain">최근 온라인 커뮤니티에 올라온 인천 한 고깃집의 폐업 안내문. /온라인 커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대전 교제 살인 20대 남성, 피해자 장례식장까지 찾아갔다</title>
+      <link>https://www.chosun.com/national/regional/2025/07/31/YCCHV7WCWRDGFGFURZLG6B7OKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/31/YCCHV7WCWRDGFGFURZLG6B7OKU/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 11:27:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIYQYKGFFFLOREAFELULCOFXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 30일 오전 11시 45분쯤 대전 중구 한 지하차도 근처에서 전 연인을 살해한 혐의를 받는 A(20대)씨가 도주 약 24시간 만에 긴급체포 됐다. 사진은 A씨가 도주에 이용한 렌터카 주변으로 폴리스라인이 처져 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 29일 대전 서구 주택가 길에서 ‘교제살인’을 저지른 20대 남성이 경찰 조사에서 ‘(피해자가) 자신을 무시했다’는 취지로 진술한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;대전서부경찰서는 “전 여자친구를 살해한 혐의로 긴급 체포된 20대 A씨가 범행 동기에 대해 피해자가 자신을 무시했다는 주장을 여러 번 했다”고 31일 밝혔다. A씨는 또 “내가 잘못했다. 내가 죽일 놈, 내가 나쁜 놈이다”라는 자기 비하성 발언도 수차례 한 것으로 전해졌다. 범행에 사용한 흉기는 범행 전 미리 구입한 것으로 드러나 계획범죄에 무게가 실리고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 초기 진술한 내용을 토대로 이날 A씨에 대한 긴급 체포를 해제하고, 체포영장을 신청했다.&lt;br&gt;&lt;br&gt;음독한 탓에 병원에 입원한 A씨에 대한 본격적인 조사는 이뤄지지 않은 가운데 경찰은 A씨의 몸 상태가 회복되는 대로 구속영장을 신청할 예정이다. 경찰은 신상 공개 여부도 논의 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 전날인 28일 피해자인 30대 B씨 명의로 공유 차량을 빌렸고, 범행 후 이 차를 타고 범행 장소를 벗어났다. 그러다 공유 차량을 버리고 도보로 도주했다. 이어 평소 자신이 타고 다녔던 피해자 명의 오토바이를 타고 다시 도주를 이어갔던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨 행적은 범행 당일인 29일 오후 11시 이후 대전 서구 한 곳에서 포착된 뒤 사라졌다. 신병 확보에 어려움을 겪던 경찰은 다음날 A씨가 피해자 장례식장에 나타났던 것을 알고 다시 추적에 나섰다.&lt;br&gt;&lt;br&gt;A씨는 30일 오전 대전 서구 장례식장에 들러 B씨의 빈소를 수소문했고, 이를 수상히 여긴 장례식장 관계자가 오전 10시 39분쯤 경찰에 신고한 것이다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 장례식장에 타고 온 K5 렌터카를 확인하고 업체에 GPS 추적을 요청했다. 이어 오전 11시 45분쯤 “노상에 차량이 서 있다”는 시민의 신고가 접수됐다. GPS 추적을 하며 A씨를 쫓던 경찰은 비슷한 시간 A씨를 중구 산성동 한 지하차도 인근에서 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨는 범행 후인 29일 오후 4시 20분쯤 제초제를 사놨던 것으로 확인됐다. A씨는 장례식장을 벗어난 후 막걸리를 마신 것으로 알려졌다. 이어 차를 몰고 역주행하는 등 위험 운전을 했다. A씨가 탄 렌터카 앞바퀴가 빠지고 뒷바퀴가 터졌을 정도였다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “(피의자가) 도주하면서 잠을 안 잤던 것 같고, 검거되기 전 음주운전한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 교제하던 A씨와 피해자가 지난해 11월 이별한 것으로 추정하고, A씨가 현장에 흘리고 간 휴대전화를 포렌식하고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난 29일 정오쯤 대전 서구의 한 주택가 골목에서 B씨를 흉기로 찔러 살해한 뒤 도주했다가 24시간 만인 이튿날 경찰에 붙잡혔다. 부검 결과 B씨의 사인은 ‘예리한 흉기에 의한 사망’으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 “입원 치료 중인 A씨의 몸 상태가 회복되는 대로 자세한 범행 동기와 계획범죄 여부 등을 조사할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘차량서 돈다발 발견’…간판정비 특혜 의혹 익산시 공무원 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/2EJUSI6CSJAEFPJZHSDDTESAJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/2EJUSI6CSJAEFPJZHSDDTESAJU/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 11:28:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPOX3QABDMB3Z4R2AQLE2622DA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심 간판 정비사업과 관련해 특정 업체에 일감을 몰아주는 대가로 금품을 수수한 혐의를 받는 전북 익산시 공무원이 31일 구속됐다.&lt;br&gt;&lt;br&gt;전북경찰청에 따르면 전주지법 군산지원은 이날 뇌물수수 등 혐의를 받는 익산시 5급 사무관 A씨에 대한 구속 전 피의자심문(영장 실질 심사)를 마치고, 구속 영장을 발부했다. &lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 익산시의 도심 간판 정비 사업과 관련해 특정 업체가 사업을 맡을 수 있도록 편의를 봐준 의혹을 받는다.&lt;br&gt;&lt;br&gt;경찰은 이와 관련해 지난 28일 익산시청을 압수수색했다. 이 과정에서 경찰은 A씨가 한 직원을 시켜 자신의 차량을 옮기려고 한 정황을 포착했다. 경찰은 이 차량을 수색해 수천만 원 상당의 뭉칫돈을 발견했다고 한다. 경찰은 이 돈이 특혜를 준 업체로부터 나왔을 가능성을 염두에 두고, 출처와 함께 대가성 여부를 확인하는 등 조사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“떠나지마” NC에 백기 든 창원시...20년간 1346억 지원안 공개</title>
+      <link>https://www.chosun.com/national/2025/07/31/3GBKKCFEEVDCLLA3PFWMILIDXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/31/3GBKKCFEEVDCLLA3PFWMILIDXI/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 10:35:59 +0000</pubDate>
+      <content:encoded>연고지 이전을 시사한 프로야구단 NC 다이노스를 붙잡기 위해 경남 창원시가 20년간 1346억원을 지원하겠다는 계획을 밝혔다. 창원NC파크 건설에 투입된 예산(1270억원)보다도 많은 수준. 관중 사망 사고 후 빚어진 책임 공방과 갈등 속에서 지자체가 구단에 백기를 든 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VME4ZKPGEYG37NK4Z4WKFO6V5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원NC파크./창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원시는 31일 경남MBC홀에서 지난 5월 30일 NC구단이 시에 전달한 21개 요청 사항에 대한 지원 계획안을 밝히고, 시민 의견을 수렴하는 설명회를 열었다.&lt;br&gt;&lt;br&gt;시는 크게 4개 분야에 총 1346억원 규모의 지원안을 공개했다. &lt;br&gt;&lt;br&gt;가장 예산이 많이 들어갈 분야는 시설 개선이다. 오는 2028년까지 NC파크 외야석 2000석을 늘리는 데 65억원, 2027년 3월까지 팀 스토어 2층 확장에 19억원, 2027년까지 전광판 추가 제작에 39억원이 투입될 예정이다. &lt;br&gt;&lt;br&gt;여기에 2군에서 사용하는 마산야구장 개보수, 진해구 자은동 복합스포츠시설에 2군 전용 연습구장 2개면 마련, 마산회원구청 자리에 실내연습장과 선수단 숙소 건립도 추진한다. 총예산은 200억원 규모다. 내년부터는 창원NC파크와 마산야구장의 시설물 전체에 대한 유지·관리를 창원시설공단이 맡기로 했다.&lt;br&gt;&lt;br&gt;야구 팬 접근성 강화도 지자체가 돕는다. 직행 버스 노선이 없는 구간엔 셔틀버스를 운행하고 향후 시내버스 노선 신설을 검토한다. 시티투어버스를 야구장으로 경유하도록 노선도 개편했다. 마산야구센터 내 철골 주차장을 증축해 주차 공간 600면을 늘린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNSD7QT6XFCLFL6XHFHDZEDELQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시가 31일 경남MBC홀에서 NC 다이노스 지원계획안 시민설명회를 열고 내용을 설명하고 있다. /창원시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KTX 막차 운영 시간을 최소 오후 10시 10분까지 연장하는 것을 건의할 계획이다. 구단의 도시철도(트램) 신설 요구에 대해서는 당장 추진되기 힘든 점을 들어 진행 상황 등 추진 일정을 구단에 공유하기로 했다. &lt;br&gt;&lt;br&gt;구단 자립 지원 차원에서 오는 2030년까지 경남도와 도교육청, 지역 상공계와 협업해 연간 13억원 수준의 광고 계약과 번들 티켓 구입을 추진하기로 했다. 이후에도 가용 예산 범위 내에서 지원을 이어간다는 방침이다. 3억원가량의 예산을 들여 야구장 내 스크린 파크골프 대회와 스포츠 영화제 등 비시즌 기간 프로그램도 지원한다. &lt;br&gt;&lt;br&gt;창원시는 “트램을 제외한 구단 요청 사업 추진을 위해서는 올해부터 20년간 총 1346억원(도시철도 트램 사업 제외)이 소요될 것으로 보인다”며 “이 중 가장 많은 비중을 차지하는 시설 개선 분야는 국비·도비 30~50%를 확보하는 식으로 시 재정 부담을 덜 것”이라고 했다. &lt;br&gt;&lt;br&gt;지난 3월 29일 창원NC파크에서 구단 사무실 4층 창문에 설치돼 있던 무게 60kg의 알루미늄 소재 외장 구조물 ‘루버’가 떨어져 경기장을 찾은 관중 3명을 덮치는 사고가 발생했다. 이 사고로 머리를 크게 다쳐 치료를 받던 20대 여성이 숨졌다. 구장 안전 점검과 보수 등을 이유로 NC파크에서는 경기가 열리지 않았다. 구단은 원정을 돌며 시즌을 소화해야 했다. 이후 울산에서 홈경기를 치르기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HF5GNY34ORIO5HHG5FJHBR7BCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 마산회원구 창원NC파크 한 건물 외관. 해당 건물에서 구조물이 추락해 야구팬 1명이 숨지는 사고가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관중 사망 사고와 관련한 원인과 책임 소재를 두고 지자체와 구단 간 갈등이 드러났다. NC파크 복귀 후 구단은 ‘연고지 이전’을 시사하며, 21가지 요구안을 창원시에 전달했다. 최근엔 경기 성남시 이전설까지 돌았다. &lt;br&gt;&lt;br&gt;창원시의 이번 파격 지원안이 나온 배경이다. 앞서 경남도도 NC를 붙잡기 위해 도비 100억원을 지원하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;하지만 일부 시민은 창원시 등 지자체의 이런 지원이 적절한지 의문을 표하기도 한다. 익명을 요구한 한 공무원은 “입장권 구매와 광고 계약의 경우 민간기업인 프로스포츠팀에 지자체가 주는 유례없는 현금성 지원책”이라며 “창원에 연고를 둔 타 종목 구단과의 형평성 논란도 빚어질 수 있을 것 같다”고 했다. NC가 요구한 21가지 요구 사항을 사실상 그대로 받아들인 행정력을 비판하는 목소리도 있다. 시민 혈세로 야구단 지원을 해야 하느냐는 부정적 반응도 나온다. 권모씨는 “야구를 좋아하지 않는 사람들도 있지 않느냐”며 “적은 예산도 아닌데 경기 활성화·일자리 창출·저출산 대책 등 보다 더 가치 있는 분야에 예산을 지원하는 것이 맞다”고 했다. 이날 설명회에서 한 시민은 “(창원시의) 지원 방안을 NC 측이 수용하지 않았을 때(연고지 이전이 가시화했을 때) 시는 어떤 계획이 있느냐”고 묻기도 했다. NC 구단이 직접 ‘연고지 이전설을 잠재워야 한다’는 주장도 나왔다. &lt;br&gt;&lt;br&gt;장금용 시장 권한대행은 “인구 유출과 경제 여건 등 모두가 힘든 상황에서 프로야구는 시민에게 위안과 즐거움을 주고 있다”며 “시민 의견을 충분히 수렴해 구단과 협의에 임할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평 ‘폭우 피해’ 실종자 1명 숨진채 발견...“40대 여성 신원 확인” </title>
+      <link>https://www.chosun.com/national/incident/2025/07/31/O5G5LQKVQVGFZOWJZHZEU65DCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/31/O5G5LQKVQVGFZOWJZHZEU65DCE/</guid>
+      <dc:creator>가평=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 10:40:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3RG5OTP7LRPUTTOKHAXSCRFCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 경기 가평군 신청평대교 인근에서 폭우로 실종된 것으로 추정되는 신원미상 시신이 발견됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 20일 경기 가평군에 쏟아진 폭우로 인한 실종자 2명 중 1명인 40대 여성이 31일 오후 숨진 채 발견됐다. 실종된지 11일 만이다.&lt;br&gt;&lt;br&gt;경기도북부소방재난본부에 따르면 이날 오후 4시 20분쯤 가평군 신청평대교 인근에서 실종자를 수색하던 중, 신원을 알 수 없는 여성 시신 1구를 발견했다. 당시 흙과 나뭇가지 등이 묻어 있고 부패가 심한 상태였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 시신에 대한 지문을 감식한 후, “7월 20일 마일리에서 실종된 40대 여성으로 확인됐다”고 밝혔다. 이 여성 A씨는 캠핑장에 발생한 산사태로 실종된 것으로 알려졌다. A씨는 20일 새벽 남편, 아들 2명과 함께 캠핑을 하던 중이었다. 아들 중 고등학생 B군은 구조됐으나, 남편과 막내 아들은 실종됐다가 각각 숨진채 발견됐다.&lt;br&gt;&lt;br&gt;앞서 지난 20일 경기 가평군 조종면 등 일대에 200mm의 폭우가 퍼부었다. &lt;br&gt;&lt;br&gt;이날 실종자 1명이 사망자로 확인되면서 경기북부지역 사망자는 현재까지 가평 6명, 포천 1명 등 7명이다. 남은 실종자 1명은 덕현리 강변에서 급류에 휩쓸린 50대 남성으로, 당국은 계속 수색 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>처지 비관해 10대 자녀들 살해하려한 40대 친모… 징역 2년 6개월 </title>
       <link>https://www.chosun.com/national/regional/2025/07/31/OEYMGBCWLBC2DDIUHW57PP5ROM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/31/OEYMGBCWLBC2DDIUHW57PP5ROM/</guid>
@@ -805,15 +871,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KTFAGGBIL5F23K7DMKOM47M6GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 무럭무럭 자라다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/07/31/BS6EBWUGHVCGXAFGJQ4KLFH4CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/07/31/BS6EBWUGHVCGXAFGJQ4KLFH4CA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2BCYVPM25CDRBTXX4D3AC4BWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>지게차 괴롭힘 당한 스리랑카 청년 “처벌 원치않아”… 이유 물으니</title>
       <link>https://www.chosun.com/national/national_general/2025/07/31/L5VF7PW7MBHMLM5VFV2PR5CVME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/L5VF7PW7MBHMLM5VFV2PR5CVME/</guid>
@@ -850,31 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SE4ZF46HNJ75NEZ5UIZP3W2BI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨를 통해 김건희 여사에게 고가 선물을 전달하고 통일교의 현안을 청탁한 의혹을 받는 윤영호 전 세계평화통일가정연합(통일교) 세계본부장이 30일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨를 통해 김건희 여사에게 통일교 현안을 청탁하고 수천만원대 목걸이 등 금품을 건네려 한 혐의를 받는 윤영호 전 통일교 세계본부장이 30일 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 이날 오전 10시 30분부터 약 1시간 20분가량 윤씨 구속영장 심사를 진행한 뒤 “증거 인멸과 도망의 염려가 있다”며 영장을 발부했다. 앞서 김 여사 관련 각종 의혹을 수사하는 특검은 지난 25일 윤씨 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;윤씨는 통일교 현안을 김 여사에게 청탁할 목적으로 2022년 4~7월 6000만원대 ‘그라프’ 다이아몬드 목걸이와 1000만원대 샤넬 핸드백 2개, 천수삼농축차 등을 구입해 전씨에게 건넸다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;윤씨는 지난 20일 특검 소환을 받았으나 한 차례 불출석한 뒤 22일 두 번째 소환에 응해 조사를 받았다. 그는 특검 조사에서 전씨에게 명품 등을 건넨 사실을 인정하면서도 “한학자 통일교 총재 등 윗선 지시에 따른 것”이라고 진술했다. &lt;br&gt;&lt;br&gt;윤씨가 구속되면서 통일교와 김 여사 간 연결고리를 규명할 특검 수사도 탄력을 받을 전망이다. 특검은 앞으로 김 여사에게 청탁과 목걸이 등 금품이 실제로 전해졌는지 등을 집중적으로 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편, 이날 건진법사 청탁 의혹과 관련해 특정범죄가중처벌법상 알선수재 혐의를 받는 브로커 이모씨도 구속됐다. 같은 법원 이정재 영장전담 부장판사는 이씨 구속영장을 발부하며 “증거를 인멸할 염려와 도망할 염려가 있다”고 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘폭염경보 5일째’…인천에서 90대 노인 열사병으로 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/07/30/GQNUTXVUDRDK5OZ6MFGYADPY6E/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 10:13:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염경보가 5일째 이어지고 있는 인천에서 90대 노인이 열사병으로 숨졌다. &lt;br&gt;&lt;br&gt;30일 인천시 등에 따르면 전날 오후 4시 20분쯤 인천시 서구 원당동의 한 빌라에서 A(여·90)씨가 누워서 말을 잘 하지 못한다는 A씨 며느리의 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 119 구급대는 A씨를 병원으로 옮겼으나, A씨는 1시간여 만인 오후 5시 25분쯤 숨졌다. &lt;br&gt;&lt;br&gt;당시 A씨의 체온은 40.4도에 달했던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천시는 A씨가 열사병으로 숨진 것으로 보고 구체적인 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;인천엔 지난 25일 오전 10시부터 폭염경보가 발효돼 지속되고 있다. &lt;br&gt;&lt;br&gt;지난 5월 15일부터 이날까지 인천 지역 온열질환자는 모두 188명으로 집계됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
-        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>금호타이어 노사, 광주공장 연내 재가동·함평 신공장 건설 합의</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/30/HFN46E4D75CF3PVB7YBUKXVLXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/30/HFN46E4D75CF3PVB7YBUKXVLXY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 09:46:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O563WAX42VPWPE4B6SG3OOLCHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 김명선(왼쪽) 금호타이어 생산기술총괄 부사장과 황용필 금호타이어지회 대표 지회장이 금호타이어 광주공장 재건과 관련해 노사 특별합의문을 들고 사진을 찍고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 노사가 올해 안으로 광주공장을 재가동하고 장기적으로는 함평 빛그린산단으로 이전하는 방안에 합의했다.&lt;br&gt;&lt;br&gt;금호타이어는 30일 “노사는 올해 내 광주1공장 하루 타이어 6000본 생산, 연 530만본 생산 목표로 함평신공장 건설, 광주공장 부지 매각 후 증설 등 방안이 담긴 합의안에 동의했다”고 밝혔다. 합의안에는 ‘현재 구성원에 대해 고용을 보장하며, 노조 동의 없이 강제적 인력 구조조정을 하지 않는다’는 방안도 담겼다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장은 지난 5월 17일 오전 7시 11분쯤 2공장에서 대형 화재 발생 이후 타이어 생산이 중단됐다. 노사는 화재 피해를 입지 않은 1공장 설비를 보완해 올해 10월쯤부터 타이어 생산을 재개할 계획이다.&lt;br&gt;&lt;br&gt;신공장은 함평빛그린산단에 세운다. 1단계로 오는 2028년 1월 가동을 목표로 연간 타이어 530만본 생산 능력을 갖춘 공장을 건설하고, 2단계로는 광주공장 부지를 매각해 함평신공장을 증설한다.&lt;br&gt;&lt;br&gt;광주광역시는 “금호타이어 노사 합의안이 잘 이행될 수 있도록 소통과 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 이날 입장문을 통해 “8월 중 조속한 시일 내에 금호타이어 측을 만나 노사가 합의한 내용을 중심으로 공장 이전 계획을 포함한 로드맵 실행 계획, 이전 지원단 구성 및 실행 계획을 구체적으로 논의해 나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O563WAX42VPWPE4B6SG3OOLCHI.jpg?auth=3a0b9b12bed41dec532540b54fb51ce03ccb6ff7775b1723812645a1a6d982c9&amp;smart=true&amp;width=2540&amp;height=1675" type="image/jpeg" height="1675" width="2540">
-        <media:description type="plain">30일 김명선(왼쪽) 금호타이어 생산기술총괄 부사장과 황용필 금호타이어지회 대표 지회장이 금호타이어 광주공장 재건과 관련해 노사 특별합의문을 들고 사진을 찍고 있다. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>이준석 측 “특검, 압수 수색하며 ‘한동훈’ 검색... 준항고 제기”</title>
       <link>https://www.chosun.com/national/court_law/2025/07/30/4G3ZDYETDBA3LGLO56MLNPAN4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/4G3ZDYETDBA3LGLO56MLNPAN4Y/</guid>
@@ -906,24 +938,6 @@
       </media:content>
     </item>
     <item>
-      <title>내란 특검 ‘간보기 소환’... 안철수 응하지 않자 취소</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/30/QCSS6YYZR5GKDEKGUDFEX32ZME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/30/QCSS6YYZR5GKDEKGUDFEX32ZME/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 07:23:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CW3PDENLYEQLXEO44P4KG347UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특검팀의 박지영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국회의 비상계엄 해제 의결 방해’ 의혹과 관련, 내란 특검은 30일 안철수 국민의힘 의원에 대한 추가 소환 계획은 없다고 밝혔다. 최근 특검의 경기 오산 공군기지 압수 수색을 두고 ‘한미동맹 악화’ 취지로 고발된 것과 관련해선 “수사 방해 행위”라고 했다.&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 브리핑에서 “전날(29일) 안 의원과의 추가 연락은 없었다”며 다시 소환할 계획은 없다고 했다. 특검은 지난해 12·3 비상계엄 선포 직후 이를 해제하는 과정에서 국회의 표결 방해 정황이 있었는지를 조사하기 위해, 전날 안 의원에게 참고인 신분으로 출석을 통보했다. 하지만 안 의원은 “야당 탄압”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;박 특검보는 “안 의원이 명확히 불출석 의사를 표명한 것으로 보인다”며 “참고인 조사는 강제 수사가 아닌 임의 조사로, 출석 여부는 본인에게 (달려) 있다”고 했다. 그러면서 “안 의원 외 다른 의원들에 대해서는 필요한 경우 조사가 이뤄질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;박 특검보는 또 “특정 정당에 한해 참고인 조사를 하는 것은 아니다”라고 했다. 안 의원이 특검 수사를 정치적 행위로 규정한 데 대해, 정치적 목적은 없다는 점을 분명히 한 것이다.&lt;br&gt;&lt;br&gt;한편, 내란 특검은 이달 21일 경기 오산 공군기지를 압수 수색한 것을 두고 한 시민단체가 ‘한미동맹 악화’ 취지로 고발한 것과 관련해 “오히려 국익을 해하고 수사를 방해하는 행위”라고 했다. 오산 기지는 주한미군이 주둔 중인 부대다.&lt;br&gt;&lt;br&gt;박 특검보는 “오산 공군기지 압수 수색은 대한민국 군이 관리하는 자료에 대해 형사소송법 절차에 따라 부대 사령관 승낙 하에 이뤄졌다”며 “미군이나 미군 자료는 압수 수색 대상·범위가 아니었고, 압수 수색을 다녀왔던 검사·수사관은 미군을 마주친 적도 없다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “특검팀 수사를 한미동맹과 연결하면서 이번 압수 수색이 미군과의 사전 협의가 필요했던 것처럼 허위 주장을 하는 것은, 오히려 한미동맹을 해치는 행위이자 국익을 해하고 수사를 방해하는 행위로 평가될 수 있다”고 했다. “지록위마(指鹿爲馬·사슴을 가리켜 말이라 함)하지 말아달라”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고용부·경찰, ‘근로자 추락사’ 한솔제지 압수수색 </title>
-      <link>https://www.chosun.com/national/labor/2025/07/30/PMK5QDABQ5BETGOH3VKUFUJECE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/07/30/PMK5QDABQ5BETGOH3VKUFUJECE/</guid>
-      <dc:creator>김아사 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 06:08:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWLLAJEFGLY2Z36N7KFWEOBM2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;근로자 사망사고가 발생한 한솔제지 신탄진공장 /고용노동부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부와 경찰은 30일 폐지 정리 작업 중이던 노동자가 기계 투입구에 빠져 사망하는 사고가 발생한 한솔제지를 압수수색했다. 전날 이재명 대통령이 국무회의에서 반복된 산업재해 사고에 대해 강력한 제재를 요구한 후, 하루 만에 강제 수사가 이뤄진 것이다.&lt;br&gt;&lt;br&gt;대전고용노동청과 대전경찰청은 이날 한솔제지 본사와 대전·신탄진 공장 사무실 등에 근로감독관과 경찰 등 35여명을 투입해 압수수색을 진행했다. 한솔제지 대전공장에서는 지난 16일 30대 A씨가 가동 중이던 기계 안에서 숨졌다. 그는 불량품이나 폐종이를 펄프 제조기 탱크에 옮겨 넣는 작업을 하던 중 기계 내부로 추락했는데, 당시 공장에선 사고 사실을 파악하지 못했다. 사고 발생 8시간 후 아내가 경찰에 실종신고를 하고 나서야 사고가 확인됐다.&lt;br&gt;&lt;br&gt;고용부는 이날 압수수색 사실 뿐 아니라 수사 범위와 내용 등을 구체적으로 공지했다. 이례적인 일이다. 고용부 관계자는 “산업안전보건법 및 중대재해처벌법 위반 여부 등을 확인할 계획”이라며 “작업자들이 폐지 투입구가 열려 있음을 알 수 있도록 하는 경고 장치가 정상 작동했는지 등 안전 조치 여부와 A씨가 사리진 사실을 늦게 인지한 경위 등 사고 후 대응 조치도 살필 것”이라고 했다. &lt;br&gt;&lt;br&gt;산업재해 발생이 많은 건설업, 제조업 관련 업체들은 연이은 정부의 질타와 수사 소식에 당황한 기색을 보이고 있다. 업종 특성상 중장비를 다루거나 높은 곳에서 이뤄지는 작업이 많고, 폭염에 따른 온열질환 가능성도 크기 때문이다. 한 건설업계 관계자는 “사고가 많은 협력업체 등을 모두 챙길 수 없어 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;김 장관은 이날 오후 경기도 동탄에 있는 쿠팡 물류센터도 불시 방문했다. 고용부는 “폭염 속 노동자들의 작업 및 휴식 환경을 점검하기 위한 차원”이라고 했다. 김 장관은 이 자리에서 “폭염에 취약한 물류센터 구조상 같은 현장에서 같은 방식으로 사고가 반복될 수 있다는 건 예측 가능하다”며 “안전은 비용이 아니라 생명을 위한 투자”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 대전서 ‘前 연인 살해’ 20대 남성 24시간만에 검거</title>
       <link>https://www.chosun.com/national/regional/2025/07/30/CMUIY6TQVFF3XBGPLKFVIGNZJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/30/CMUIY6TQVFF3XBGPLKFVIGNZJE/</guid>
@@ -931,24 +945,6 @@
       <description/>
       <pubDate>Wed, 30 Jul 2025 03:03:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ROETED57FDFPGUG5CSYDINBNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전경찰청 전경 /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에서 전 여자친구인 30대 여성을 흉기로 찔러 살해하고 달아난 20대 남성이 도주 24시간여 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전서부경찰서는 살인 혐의로 A(20대)씨를 이날 정오쯤 대전 중구 모처에서 긴급 체포했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 낮 12시 8분쯤 대전 서구 괴정동의 주택가 길가에서 30대 여성 B씨를 흉기로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기와 도주 경로 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 전날 사건 현장에서 습득한 유기물을 토대로 이들이 헤어진 연인 관계인 것으로 파악했다. 경찰은 A씨가 이날 B씨의 주거지를 찾았다가 범행한 것으로 보고 범죄 현장 주변 방범카메라(CCTV) 녹화 영상 등을 조사하며 A씨 동선을 추적했다.&lt;br&gt;&lt;br&gt;대전경찰청은 전날부터 사건 관할인 대전서부경찰서를 비롯, 관내 6개 경찰서 형사와 형사기동대, 범죄예방대응, 여성청소년과 등 150여 명의 경력을 투입해 도주한 A씨 검거에 나섰다.&lt;br&gt;&lt;br&gt;경찰에 따르면 B씨와 연인 관계였던 A씨는 지난해 11월부터 최근까지 4차례 경찰 조사를 받았다. 그는 지난해 11월 초 재물 손괴와 주거 침입으로 신고됐고, 지난달 27일에는 술을 마시고 B씨를 폭행했다가 출동한 경찰관에게 폭력을 행사해 공무집행 방해 혐의로 입건됐다. 당시 경찰은 B씨에게 스마트워치 지급 등을 안내했지만, B씨가 이를 거절했다고 한다. B씨는 A씨에 대한 처벌 불원서도 경찰에 제출했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 B씨가 피해자 조사에 응하지 않았고 처벌을 원치 않는다는 서류도 제출했다”며 “이후 범죄 예방 차원에서 B씨에게 3차례 연락했지만 전화를 받지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의사는 적고, 병원은 많이 가는 한국…OECD 국가 중 의사수는 뒤에서 2번째, 외래횟수는 앞에서 첫번째</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/30/T5DBPKCAQRB6HJ2OUEWLYY5GKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/30/T5DBPKCAQRB6HJ2OUEWLYY5GKE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 30 Jul 2025 03:00:21 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGMJUMEXPJJDXCC6KC2RKPFAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지방의 한 의료원에서 환자와 보호자들이 진료를 받기 위해 대기하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라가 경제협력개발기구(OECD) 국가 가운데 의사 수는 가장 적은 편인 반면, 국민들의 연간 병원 방문 횟수는 OECD 국가 중 가장 많았다.&lt;br&gt;&lt;br&gt;보건복지부는 OECD가 이달 초 발표한 ‘OECD 보건통계 2025’의 주요 분야별·지표별 세부 내용을 분석해 30일 발표했다. OECD 보건 통계는 건강 상태, 건강 위험요인, 보건의료자원, 보건의료이용 등 보건의료 전반의 통계를 담은 데이터베이스다.&lt;br&gt;&lt;br&gt;통계 분석 결과, 국내 임상 의사 수는 인구 1000명당 2.66명으로 OECD 국가 중 두 번째로 적은 것으로 나타났다. 다만 우리나라 통계에는 한의사가 포함돼 있어 이를 제외하면 실제 임상 의사 수는 이보다 더 적을 수 있다. 의사가 가장 적은 나라는 일본으로 인구 1000명당 2.65명이었다. 캐나다, 멕시코, 미국(각 2.72명)도 의사가 적은 국가들이었다. 의사는 적은 반면 병원 병상 수는 인구 1000명당 12.6개로 OECD 평균의 3배 수준이었다. 자기공명영상장치(MRI)·컴퓨터단층촬영(CT) 등 의료 장비 숫자도 OECD 평균보다 높았다.&lt;br&gt;&lt;br&gt;국민 1인당 외래진료 횟수는 연간 18회로 OECD 국가 중 가장 높았다. 의료비는 국내 총생산(GDP) 대비 8.5%로 OECD 평균(9.1%)에 비해 다소 낮다. 다만 2013년 이후 꾸준히 증가세를 보이다, 2023년에 소폭 감소했다.&lt;br&gt;&lt;br&gt;기대 수명은 83.5년으로 OECD 국가 평균(81.1년)보다 2.4년 길었다. 기대 수명이 가장 긴 나라는 스위스로 84.3년. 우리와 0.8년 차이다. 대부분의 국가에서 생활환경 개선, 의료서비스 발달 등으로 기대 수명이 증가하고 있는 추세다. 반면 자살사망률은 OECD 국가 중 가장 높았다. 2022년 기준으로 인구 10만명당 23.2명이다. 다만 2012년 30.3명에서 꾸준히 감소 중이다. &lt;br&gt;&lt;br&gt;흡연율(15세 이상 인구 중 매일 담배를 피우는 비율)은 15.3%로 OECD평균(13.2%)와 비슷했다. 2013년 19.9%, 2018년 17.5% 등 지난 10년간 꾸준히 감소 추세다. 주류 소비량은 연간 7.8ℓ로 OECD 평균(8.6ℓ)보다 적었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 여유롭고 편안한 느낌</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/07/30/4ADEA727F5D2BOXZ7GFSZ5JTVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/07/30/4ADEA727F5D2BOXZ7GFSZ5JTVQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 29 Jul 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGJO5WJEFVDPPIIAPSZLUBFM3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
