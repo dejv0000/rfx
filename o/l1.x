@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'尹 내란 공모' 이상민 전 행안부 장관 구속…증거인멸 우려</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210155.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;이상민 전 행정안전부 장관이 구속 전 피의자 심문(영장실질심사)을 위해 7월 31일 서울 서초구 서울중앙지방법원으로 들어서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 당시 언론사 단전·단수를 시도했다는 혐의를 받는 이상민 전 행정안전부 장관이 1일 구속됐다. 이 전 장관의 구속영장이 발부되면서 국무위원들의 내란 동조 여부에 대한 수사도 한층 탄력을 받을 것으로 보인다.&lt;br /&gt;&lt;br /&gt;서울중앙지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6334"&gt;정재욱&amp;nbsp;&lt;/span&gt;영장전담 부장판사는 1일 이 전 장관에 대해 "증거 인멸의 우려가 있다"며 구속영장을 발부했다. &lt;br /&gt;&lt;br /&gt;내란 특검팀은 영장실질심사에서 160여쪽에 이르는 PPT를 준비하고 범죄의 중대성은 물론 재범 우려 등 구속 필요성을 소명하는데 집중했다. &lt;br /&gt;&lt;br /&gt;내란 특검팀은 이 전 장관이 계엄 당일 윤 전 대통령으로부터 언론사의 단전·단수를 지시받았고, 이를 이행하려고 허석곤 소방청장에게 전화했다고 보고 있다. 특검팀은 이를 근거로 행안부 장관 본연의 책무를 저버리고 도리어 국민 생명과 직결되는 단전·단수 지시를 내리고, 내란 방조를 넘어서 내란 중요임무 수행에 적극적으로 가담하려 했다는 점을 강조했다고 알려졌다. &lt;br /&gt;&lt;br /&gt;이 전 장관 측은 윤 전 대통령으로부터 단전·단수의 지시를 받지 않았고 소방청에 이러한 지시를 전달한 적도 없다고 혐의를 강하게 부인하고 있다.</description>
+			<pubDate>Thu, 31 Jul 2025 17:17:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210155</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210155</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210155.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>오광수 전 민정수석, 대륙아주 '취업가능' 통보</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210151.jpg" alt="2088122.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;오광수 전 민정수석 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;차명재산 의혹으로 대통령실 민정수석비서관에 임명된 지 닷새 만에 물러난&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1890"&gt;오광수&lt;/span&gt;(66·사법연수원 18기) 전 수석이 &lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)에 다시 취업하게 됐다.&lt;br /&gt;&lt;br /&gt;정부고위공직자윤리위원회는 31일 오 전 수석에 대한 '취업가능' 결정 등 퇴직공직자 취업 심사 결과 79건을 공개했다. 공직자윤리위는 오 전 수석이 대통령비서실에서 취급한 업무와 취업예정인 대륙아주 사이 밀접한 관련성이 확인되지 않아 취업을 허가했다.&lt;br /&gt;&lt;br /&gt;1991년 검사로 임관해 2016년 변호사로 개업한 오 전 수석은 2020년부터 대륙아주 대표변호사로 재직 중 새 정부 첫 민정수석에 발탁됐다. 하지만 검찰 재직 중 배우자 소유 부동산을 지인 명의로 관리하고, 재산 신고 대상에서 누락했다는 논란 끝에 스스로 물러났다.&lt;br /&gt;&lt;br /&gt;헌법재판관 출신으로 지난해 9월 퇴직한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4768"&gt;송두환&lt;/span&gt;(77·12기) 전 국가인권위원장도 &lt;b&gt;&lt;a href="https://classhklaw.com/" target="_blank"&gt;법무법인 클라스한결&lt;/a&gt;&lt;/b&gt; 고문변호사로 재취업 가능 통보를 받았다. 윤오준 전 국가정보원 3차장은 &lt;b&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;법무법인 율촌&lt;/a&gt;&lt;/b&gt; 고문으로 취업할 수 있게 됐다.&lt;br /&gt;&lt;br /&gt;이번 심사에서 법무법인에 취업을 희망한 퇴직 공직자는 11명이다. 경감 출신 경찰관 두 명은 법무법인 동인과 율촌에 전문위원으로 일하려다 취업제한이 통보됐다.&lt;br /&gt;&lt;br /&gt;공직자윤리법에서 정한 고위공무원은 퇴직한 지 3년이 되기 전 연매출 100억 원 이상인 법무법인에 취업하려면 취업심사를 받아야 한다.</description>
 			<pubDate>Thu, 31 Jul 2025 09:11:45 -0000</pubDate>
@@ -227,15 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210121</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210121.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>정부 "메이슨에 배상금 746억 원 지급"...7년 분쟁 마침표</title>
-			<description>한국 정부가 삼성 합병으로 손해를 본 미국 사모펀드 메이슨 캐피탈에 국제투자분쟁(ISDS) 중재판정 결과에 따라 손해배상금으로 746억 원을 지급했다. 이로써 삼성 합병으로 불거진 국제 분쟁이 7년 만에 마침표를 찍었다. &lt;br /&gt;&lt;br /&gt;법무부 등은 29일 "메이슨 ISDS 중재판정 배상금에 대해 국가의 정당한 과세권을 행사해 약 158억 원을 원천징수한 후 나머지 금액인 약 746억 원을 지급했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;메이슨은 2018년 한국 정부가 옛 삼성물산 주주로서 국민연금의 의결권 행사에 부당한 압력을 행사해 삼성물산-제일모직 합병에 찬성하도록 한 결과 삼성물산과 삼성전자 주가가 하락해 2200억원의 손해를 봤다며 ISDS를 통해 2억 달러 규모의 국제중재를 제기했다. &lt;br /&gt;&lt;br /&gt;2024년 4월 국제 상설중재재판소(PCA) 중재판정부는 메이슨 측 주장을 일부 받아들여 한국 정부가 약 3200만 달러와 지연이자 상당의 손해배상을 하라고 판정했다. 정부는 이에 불복해 중재지인 싱가포르 법원에 중재판정에 대한 취소소송을 제기했지만, 싱가포르 법원은 3월 이를 기각했다. 이후 정부가 항소를 제기하지 않으면서, 배상책임이 확정됐다. &lt;br /&gt;&lt;br /&gt;법무부는 "메이슨 측과 배상금 지급을 위한 협상 과정에서 관계 부처 간 긴밀한 협의와 전문가 자문을 거쳐 ISDS 배상금 과세에 관한 원칙과 그 정당성에 대한 근거를 철저히 마련했다"며 "이를 기초로 메이슨 측과 국가의 정당한 과세권 실현 원칙에 입각한 끈질긴 협상을 이어 나갔다"고 했다. &lt;br /&gt;&lt;br /&gt;이어 "그 결과 정부는 배상금 과세(원천징수) 후 나머지 금액만을 메이슨 측에 지급하고 메이슨 측이 제기한 미 법원에서의 집행소송을 취하하는 방안에 대한 협의를 도출했다"고 밝혔다. &lt;br /&gt;</description>
-			<pubDate>Tue, 29 Jul 2025 09:33:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210122</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210122</guid>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
