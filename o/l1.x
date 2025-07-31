@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김건희 특검, 내일 오전 9시 윤 전 대통령 체포영장 집행</title>
+			<description>김건희 여사 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;&amp;nbsp;특별검사팀(김건희 특검)이 8월 1일 오전&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대한 체포영장 집행을 시도한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1257"&gt;문홍주&lt;/span&gt;&amp;nbsp;특검보는 31일 오후 정례 브리핑에서 "특검은 내일(8월 1일) 오전 9시 특별검사보가 검사, 수사관과 함께 체포영장 집행을 위해 서울구치소를 방문할 예정"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;문 특검보가 검사 1명과 수사관 1명을 데리고 직접 구치소를 방문한다. 문 특검보가 지휘하고 집행은 교도관이 할 예정이다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령은 지난 10일 내란 특검팀에 구속돼 서울구치소에 수용돼 있다. 김건희 특검팀은 지난 29일과 30일 윤 전 대통령에 대한 소환 조사를 시도했으나 윤 전 대통령이 건강 악화를 이유로 불출석하자 체포영장을 청구했고, 서울중앙지법은 이날 오전 영장을 발부했다. 체포 영장 기한은 8월 7일까지다. &lt;br /&gt;&lt;br /&gt;문 특검보는 "윤 전 대통령의 건강 문제는 특검이 따로 전달받은 건 없다. (건강에) 문제 없다고 전해 듣고 있다"며 "특검은 윤 전 대통령을 구인할 생각"이라고 말했다.&lt;br /&gt;&lt;br /&gt;앞서 서울구치소 의료과장은 이날 더불어민주당 3대특검 종합대응 특별위원회 현장점검에서 윤 전 대통령이 건강상 이유로 특검 소환조사 등에 불응하는 것과 관련 "수사 받지 못할 정도로 크게 건강 상태가 악화하지 않은 것으로 판단된다"고 밝힌 바 있다. &lt;br /&gt;&lt;br /&gt;특검이 윤 전 대통령의 체포영장을 집행하면 이후 특검 사무실까지는 호송차로 이동하게 된다. 구속 피의자들은 지하를 통해 곧장 조사실로 가기 때문에 윤 전 대통령의 모습이 외부에 노출되지는 않는다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령 측은 이날까지 김건희 특검에 변호인 선임계를 제출하지 않았다. &lt;br /&gt;&lt;br /&gt;문 특검보는 "(윤 전 대통령이 영장 집행까지) 여러 상황이 발생할 수 있다"며 "윤 전 대통령이 끝까지 불응할 경우의 계획은 그때 말씀드리겠다"고 했다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령은 '정치 브로커' 명태균씨 공천개입 의혹과 관련해 김건희 특검의 수사 대상이다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령은 2022년 대선 과정에서 명 씨로부터 81차례에 걸친 여론조사를 무상으로 받은 대가로 같은 해 치러진 국회의원 보궐선거에서 김영선 전 국민의힘 의원이 공천받도록 했다는 의혹을 받고 있다&lt;br /&gt;&lt;br /&gt;또 2021년 10월 국민의힘 경선 토론회에서 김 여사의 도이치모터스 주가조작 개입 의혹에 대해 "한 넉 달 정도 (위탁관리를) 맡겼는데 손실이 났다"는 허위 사실을 공표해 공직선거법을 위반한 혐의도 받는다.</description>
+			<pubDate>Thu, 31 Jul 2025 06:24:43 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210147</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210147</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울변회 등 4개 단체, 1일 '수사·기소 분리' 공동학술대회 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210146.jpg" alt="11111.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210146.jpg" alt="222.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;8월 1일 서울 서초구 서초동 변호사회관 5층 정의실에서 열리는 '형사사법체계 개혁의 쟁점-수사·기소 분리' 학술대회.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;)는 한국비교형사법학회(회장 최호진), 한국법령정책연구원(원장 오영근), 고려대학교 법학연구원(원장 이주원)과 공동으로 8월 1일 서울 서초구 서초동 변호사회관에서 '형사사법체계 개혁의 쟁점-수사·기소 분리' 학술대회를 연다.&lt;br /&gt;&lt;br /&gt;최근 정치권에서는 수사·기소 분리를 골자로 하는 이른바 '검찰개혁 4법'을 놓고 헌법 합치 여부, 수사의 효율성 저하 가능성, 정치적 중립성 등이 문제 되고 있다. 이번 학술대회에서는 수사·기소 분리를 수사기관의 권한 조정, 견제와 균형 등을 중심으로 논의된다.&lt;br /&gt;&lt;br /&gt;1세션은 오병두 홍익대 법학과 교수가 '형사사법체계 개혁에서 수사·기소 분리의 의미'를 주제로 발표한다. 전지연 연세대 로스쿨 명예교수가 좌장을 맡고 최준혁 인하대 로스쿨 교수, 하태인 경남대 경찰학과 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5033"&gt;한상규&lt;/span&gt;(58·사법연수원 24기) 아주대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="28538"&gt;김수영&lt;/span&gt;(47·변호사시험 3회) 서울변회 인권이사, 임현경 법률신문 기자가 토론에 참여한다.&lt;br /&gt;&lt;br /&gt;2세션에서는 '수사·기소 분리 법제에 대한 비교법적 고찰-영국 제도를 중심으로'를 주제로 김면기 경찰대 법학과 교수가 발표한다.</description>
+			<pubDate>Thu, 31 Jul 2025 06:05:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210146</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210146</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210146.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>[속보] '소환 불응' 윤석열 전 대통령 체포영장 발부</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210145.jpg" alt="456474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 9일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 특검팀(특별검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&lt;/span&gt;)의 출석 요구에 불응한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대한 체포영장이 발부됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울중앙지법은 7월 31일 윤 전 대통령에 대한 체포영장을 발부했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;앞서 30일 오후 2시 12분 특검팀은 윤 전 대통령에 대한 영장 청구서를 서울중앙지법에 제출했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="1255"&gt;오정희&lt;/span&gt;&amp;nbsp;특검보는 정례브리핑에서 "특검은 29일 불출석한 윤 전 대통령에게 30일 오전 10시에 출석하라는 통보를 재차 했으나 윤 전 대통령은 어제에 이어 오늘도 아무런 사유를 밝히지 않은 채 출석하지 않았다"고 영장 청구 이유를 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특검팀은 윤 전 대통령에게 29일 오전 10시 출석을 통보했지만 불출석하자 30일로 소환조사일을 재차 통보했다. 그러나 윤 전 대통령은 모습을 드러내지 않았다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;특검팀은 윤 전 대통령 부부가 대선을 앞두고 정치 브로커 명태균 씨로부터 대선 여론조사 결과를 제공받은 대가로 2022년 6월 국회의원 보궐선거에서 김영선 전 의원이 공천받는 데 영향력을 행사한 것으로 보고 공직선거법 위반 등 혐의로 윤 전 대통령을 수사하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 31 Jul 2025 04:46:04 -0000</pubDate>
@@ -217,26 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210119</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210119.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>사단법인 올, '제11회 젠더와 법 아카데미' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210117.jpg" alt="11111.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210117.jpg" alt="45647.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사단법인 올(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6876"&gt;전효숙&lt;/span&gt;)이 오는 9월 2일부터 9월 30일까지 5주간 제11회 '젠더와 법 아카데미'를 개최한다.&lt;p&gt;젠더와 법 아카데미는 젠더법의 기본 이론과 실무례에 대한 이해를 돕고, 성평등 및 인권에 대한 관심과 저변을 확산시키기 위해 마련됐다.   &lt;/p&gt;&lt;p&gt;&amp;nbsp;      &lt;/p&gt;&lt;p&gt;이번 아카데미는 9월 2일부터 5주간 매주 화요일 저녁 7시 30분부터 9시까지 줌(Zoom)을 이용한 비대면 온라인 강의로 진행된다. 법조인과 관련 분야 종사자는 물론, 젠더 이슈에 관심있는 일반 시민은 누구나 참여할 수 있다. 참가 신청은 사단법인 올 홈페이지 또는 행사 포스터 QR코드를 통해 가능하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아카데미는 최신 젠더 이슈를 반영한 강의들로 구성됐다. 강사로는 이현정 변호사(독일 엘랑엔뉘른베르크 대학교 비전임교수)와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22100"&gt;김선화&lt;/span&gt;(39·사법연수원 42기) 서울가정법원 판사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13524"&gt;장보은&lt;/span&gt;(45·35기) 한국외대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1339"&gt;도재형&lt;/span&gt;(57·23기) 이화여대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9547"&gt;전윤경&lt;/span&gt;(51·32기) 한양대 로스쿨 교수 등이 참여한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전체 강의의 80% 이상을 수강할 경우 수료증이 발급되며, 100% 수강자에게는 개근상이 수여된다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;사단법인 올은 젠더와 인권 분야의 연구, 공익 소송 지원, 협력 사업 등 평등하고 존중받는 사회 실현을 위한 다양한 활동을 진행 중이다.&lt;/p&gt;</description>
-			<pubDate>Tue, 29 Jul 2025 06:46:29 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210117</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210117</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210117.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장·대한산업안전협회, '중대재해 예방 안전지수 평가' 공동수행 협약</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210116.jpg" alt="5647.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 대한산업안전협회(회장 임무송)와 28일 '중대재해 예방 안전지수 평가' 공동 수행에 관한 업무협약을 체결했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이번 협약은 기업 중대재해 예방 및 안전관리 수준 제고를 위한 협력관계를 구축하기 위해 마련됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;광장과 대한산업안전협회는 앞으로 정부의 안전관리정책 기조에 부합하는 맞춤형 기업 중대재해 예방 안전지수 평가를 공동으로 실행할 예정이다. 중대재해 처벌 등에 관한 법률 시행령 제4조 제8호의 반기점검과 제9호의 협력업체에 대한 안전관리 수준 평가를 대체할 수 있는 평가다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;아울러 △기업 중대재해처벌법 준수를 위한 법률교육 △안전보건 관리 체계 구축 △안전진단, 위험성 평가 등 업무를 상호 지원하기로 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;고용노동부 장관을 지낸 안경덕 고문은 "기업들이 광장과 대한산업안전협회의 체계화되고 전문화된 역량과 협업에 따른 시너지를 잘 활용하면 중대재해처벌법 준수 및 안전관리 수준 제고에 큰 도움이 될 것"이라며 "이번 업무협약이 기업 현장에 실질적인 도움을 줄 수 있는 계기가 될 것"이라고 말했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 29 Jul 2025 06:42:58 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210116</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210116</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210116.jpg</media:thumbnail>
-			<dc:creator>한수현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
