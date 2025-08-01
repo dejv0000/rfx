@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 열대야 최다일 기록 경신…주말에도 폭염 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/01/JPIVKGRGHFGPTFJS46A46UIYPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/JPIVKGRGHFGPTFJS46A46UIYPY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 10:08:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFAIJ2MYWZNNLDGJLL6RDPETXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;열대야가 계속되고 있는 지난 7월 31일 서울 종로구 청계천을 찾은 시민들이 휴식을 취하며 더위를 식히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 7월 열대야(밤 최저기온이 25도 밑으로 내려가지 않는 현상) 일이 기상관측이 처음 이뤄진 1908년 이후 117년 만에 최다일을 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면 7월 서울 열대야일은 23일로 역대 최다일을 기록했다. 기존 최다일은 1994년의 21일이었다. &lt;br&gt;&lt;br&gt;6월에 발생한 열대야까지 합치면 올해 서울 열대야일은 25일이다. 8월에도 열대야가 이어질 가능성이 커 올해 열대야일은 더 늘어날 전망이다. &lt;br&gt;&lt;br&gt;특히 최근 일주일 동안 서울의 밤사이 최저기온 평균은 열대야 기준(25도)보다 3도 이상 높은 것으로 나타났다. &lt;br&gt;&lt;br&gt;지난 7월 25~31일 서울의 밤사이 최저기온 평균은 28.2도로 열대야 기준보다 3도 이상 높았다. 최저 체감온도는 25일(29.3도) 하루를 제외하면 모두 30.0도 이상으로, ‘슈퍼 열대야’에 해당했다. &lt;br&gt;&lt;br&gt;올해 여름은 폭염이 이어지면서 각종 기상 관련 기록을 경신했다. 올해 6~7월 두 달간 일 최고·평균·최저기온과 밤 최저기온 평균값은 모두 역대 1위를 기록했다.&lt;br&gt;&lt;br&gt;올해 더위는 북태평양고기압의 이른 확장과 한반도 주변 기압계 배치 등 복합적 요인이 작용한 것으로 분석된다. &lt;br&gt;&lt;br&gt;기상청은 주말 동안에도 전국의 낮 최고기온이 35도 안팎을 기록하며 폭염이 이어질 것으로 전망했다. 다만, 높은 기온 탓에 발생한 수증기가 대기 불안정으로 이어져 지역에 따라 소나기가 내릴 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김포서 일가족 3명 살해…30대男, 구속 기소 </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/01/O66E265UJFFH7J2TRKERUNCZCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/01/O66E265UJFFH7J2TRKERUNCZCI/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 09:44:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LENYLGKXBRPRDKHEMNRS3626GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부모와 형을 흉기로 살해한 30대 남성이 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;1일 법조계에 따르면 인천지검 부천지청 형사2부(부장 황성민)는 이날 존속살해와 살인 혐의로 A(36)씨를 구속 기소했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 10일 경기 김포시 하성면 단독주택에서 60~70대 부모와 30대 친형을 흉기로 찔러 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 당일 오전 11시쯤 아버지와 친형을 먼저 살해했고, 오후 1시쯤 외출 후 집에 돌아온 어머니에게 흉기를 휘두른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 범행 다음 날인 지난달 11일 오전 1시 54분쯤 “집 앞에 핏자국이 있다”는 A씨 어머니 지인의 신고를 받고 출동해 방에서 자고 있던 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨 어머니 직장 동료인 신고자는 어머니가 출근하지 않자 집을 찾아갔다가 이상한 낌새를 느껴 신고한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;프리랜서로 웹사이트 제작 일을 하다 일감이 없어져 지난 6월 중순부터 부모 집에서 함께 생활한 A씨는 자신을 걱정하는 말을 한 아버지를 폭행하다가 형에게 맞자 악감정을 품고 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 범행 전 인터넷에 ‘정신병 살인’ 등 키워드를 검색하고 관련 기사를 보기도 했으나 우발 범행을 주장하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰 때려 퇴학 당한 경찰대생… 경찰 간부돼 피해자 찾아가 논란</title>
+      <link>https://www.chosun.com/national/incident/2025/08/01/FPGWWO3IFFFS5O6YTMYREARJEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/01/FPGWWO3IFFFS5O6YTMYREARJEU/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 09:04:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBCCCNXS7XDVEYC2NEBXVT34ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰대학 재학생 신분으로 현직 경찰관을 폭행해 퇴학 처리됐던 인물이 최근 경찰 간부로 임용돼 논란인 가운데, 경찰대학 관계자이 가해자와 함께 피해자 집 주변을 찾아가 용서를 종용한 것으로 확인됐다. 피해 경찰관은 “명백한 2차 가해”라고 반발했다.&lt;br&gt;&lt;br&gt;1일 본지 취재에 따르면, 15년 전 사건에서 폭행 피해자였던 현직 경찰관 A씨는 이날 경찰 내부망에 ‘2차 가해’를 호소하는 게시글을 올렸다. A씨는 “어제(31일) 경찰대학에서 직원과 가해자를 제 거주지 인근에 보내 ‘기다리겠다’는 메시지를 전해왔고, 저는 원치 않게 제가 살고 있는 지역이 가해자에게 노출되는 불편한 상황을 겪었다”고 밝혔다. 전날 경찰대학 관계자와 가해자가 피해자가 사는 동네 카페를 찾은 뒤 나와달라고 한 것이다. A씨는 “마치 화해를 강요하듯 당사자의 의사를 무시하고 이처럼 부담스럽게 접근하는 것은 명백한 2차 가해”라며 “앞으로도 사과를 계속 거부한다면 다음엔 가해자가 제 집 현관문 바로 앞까지 찾아올지도 모른다는 불안감까지 든다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2010년 7월 경찰서 실습을 나온 경찰대학 후배 B씨로부터 폭행을 당했다. 당시 A씨는 치아 2개가 부러지고 안와골절에 이어 두개골이 파열되는 등 중상을 입었고, 상해 혐의로 입건된 B씨는 퇴교 조치를 받았다. A씨는 당시 상황에 대해 “술에 취한 그를 집까지 데려다주는 과정에서 폭행을 당했다”며 “저희 어머니께서 젊은 사람 앞길 막지는 말자는 생각에 제 대신 그의 어머니와 합의를 했다”고 설명했다.&lt;br&gt;&lt;br&gt;당시 사건은 A씨와의 합의로 B씨가 기소유예를 받으며 일단락됐지만, 지난 6월 로스쿨을 거쳐 변호사가 된 B씨가 경감 특채에 합격하면서 다시 논란이 됐다. 채용 담당 기관인 경찰대학이 B씨의 경찰대 퇴교 이력과 당시 사건을 알고도 합격시켰기 때문이다. 이 사실이 알려지자 서울 경찰 노조인 ‘서울경찰 직장협의회’는 지난 27일 “이번 특별 채용 과정이 신임 순경 채용 등 일반 채용과는 다른 기준이 적용되었을 가능성에 대해 심각한 의문을 낳고 있다”며 “경찰대생 신분으로 주취 상태에서 현직 경찰관에게 폭력을 행사한 과거 범죄행위를 채용 과정에서 몰랐다면 제도적 결함이며, 그러한 정황을 알고도 채용했다면 인사권자의 책임이다”라고 비판했다.&lt;br&gt;&lt;br&gt;이번 논란을 두고 경찰이 피해자를 대하는 태도가 여전히 미흡하다는 것을 보여준 사례라는 지적도 나온다. 경찰청 범죄수사규칙 제177조(피해자의 비밀누설금지)는 ‘경찰관은 성명, 연령, 주거지, 직업, 용모 등 피해자임을 미루어 알 수 있는 사실을 제3자에게 제공하거나 누설하여서는 안 된다’고 명시하고 있다. &lt;br&gt;&lt;br&gt;심지어 경찰청은 최근 사건·사고 피해자에 대한 2차 가해 범죄를 근절하기 위해 최근 총경급을 팀장으로 하는 ‘2차 가해 범죄 수사팀’을 신설하기도 했다. 한 일선 경찰관은 “동료를 폭행해 퇴교된 사람이란 걸 알고도 채용한 이유를 도무지 모르겠다”며 “가해자에게 다른 배경이 있는 건지 의구심이 들 정도”라고 말했다. 경찰대학 관계자는 이 같은 논란에 대해 “찾아간 경찰대학 직원이 피해자와 동기라 개인적으로 사안을 해결하려 나선 것 같다”며 “피해자 입장을 제대로 고려하지 못한 접근은 맞다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대낮 소주 9병 마시고  흉기 든 50대...길거리 행인 위협하다 실형</title>
+      <link>https://www.chosun.com/national/2025/08/01/WKUBOJS3TNETROUHKQZP6OXJ3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/01/WKUBOJS3TNETROUHKQZP6OXJ3U/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 08:42:47 +0000</pubDate>
+      <content:encoded>술에 취한 채 대낮 길거리에서 흉기를 들고 다니며 일면식도 없는 행인들을 위협한 50대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KOE34SDU5CWVBUROKZ23PEFBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흉기 소지 그래픽. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창원지법 형사6단독 우상범 부장판사는 공공장소 흉기 소지, 특수협박 혐의로 기소된 A(59)씨에게 징역 10개월을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 지난 6월 10일 오후 1시 22분쯤 경남 창원시 의창구 한 노상에서 술에 취한 상태로 총 길이 22.5cm의 흉기를 들고 다니며, 마주 오던 20대 남성에게 위해를 가할 듯이 위협한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;범행 당시 A씨는 소주 9병을 마신 상태였던 것으로 조사됐다. 수사기관의 조사 결과 A씨는 2022년 절도죄 등으로 징역 8개월을 선고받아 누범 기간 중이었다. 이 외에도 여러 차례 처벌받은 전력이 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;우 부장판사는 “범행의 비난 가능성이 크고 죄질이 좋지 않고, 피해자와 합의도 이뤄지지 않았다”며 “소주 9병을 마시고 우발적으로 사건을 저지른 점, 흉기를 겨눈 후 그대로 지나쳐 피해자를 가해하려는 확정적인 의도는 없었던 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>용인 음식점으로 BMW 돌진… 장례식 끝나고 밥 먹던 가족 ‘날벼락’</title>
       <link>https://www.chosun.com/national/national_general/2025/08/01/UODWTTN4MBGDTEDGMEPXZGZFDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/UODWTTN4MBGDTEDGMEPXZGZFDY/</guid>
@@ -889,42 +925,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 06:37:25 +0000</pubDate>
       <content:encoded>백령도에 배치된 국지방공레이더가 ‘평양 무인기 침투 작전’ 진행 기간 동안 야간에는 작동되지 않았다는 군 내부 증언이 나왔다. 무인기 작전이 아군에도 노출되지 않도록 레이더를 비정상적으로 운용한 것 아니냐는 의혹이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4F4GHH3TU43GIQT4WLLNBYHLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 북한 측이 대한민국이 보냈다고 주장하며 공개한 무인기 모습. /뉴스1·노동신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 더불어민주당 의원실이 31일 확보해 공개한 군 관계자 제보에 따르면, 작년 하반기 백령도에 주둔하는 해병대 6여단에 국지방공레이더를 주간에만 운용하라는 지침이 내려왔다. 북한의 소형 무인기까지 탐지할 수 있는 국지방공레이더는 지난해 1월부터 운용돼 왔는데, 합동참모본부 지시로 일정 기간 동안 야간 운영을 중단했다는 것이다.&lt;br&gt;&lt;br&gt;군 내부에선 “장비가 1대밖에 없어 주간 위주 운용이 불가피하다고 하더라도 야간에 아예 운용을 중단할 경우 북한의 무인기나 오물풍선에 취약해질 수밖에 없다”는 의문이 제기된 것으로 전해졌다. 현재는 국지방공레이더를 주간 위주로 운용하되 야간에도 불규칙적으로 운용 중이라고 한다.&lt;br&gt;&lt;br&gt;정치권에선 작년 10~11월 진행된 평양 무인기 작전이 비상계엄 명분을 쌓기 위한 북한 도발 차원이란 의혹이 제기되고 있다. 이 의혹은 현재 내란 특검이 수사 중이다.&lt;br&gt;&lt;br&gt;추미애 의원은 “윤석열 내란 일당이 무리한 북풍몰이 과오를 감추기 위해 엄청난 안보 공백을 초래한 이적 행위로 판단해야 한다”면서 “만약 북한 무인기가 백령도를 통해서 넘어왔다면 우리는 사실상 무방비 상태가 됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교 억대 정치자금 수수 의혹’ 권성동 “전혀 사실 아냐” 반발</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/31/HNJSO7DUTBBPZAOQMVVXJT3BWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/HNJSO7DUTBBPZAOQMVVXJT3BWE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 06:24:15 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특검팀이 윤석열 정부 시절 친윤계 실세였던 권성동 국민의힘 의원이 통일교로부터 1억원대의 불법 정치자금을 수수한 정황을 확보한 것으로 전해졌다. 권 의원은 “전혀 사실이 아니다”며 강하게 부인했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CECOZ5XEUGH5GLVUCIPOYVJUKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 18일 서울 여의도 국회 의원회관에서 김건희 특검의 압수 수색 관련 입장을 밝히기 위해 의원실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 30일 구속된 ‘통일교 2인자’ 윤모(전 통일교 전 세계선교본부장)씨의 구속영장에 이 같은 정황을 담은 것으로 전해졌다. 특검은 권 의원이 작년 6월 서울 광진구 세종대에서 열린 ‘코리아 드리머 페스티벌, 청춘뉴런 2024’ 행사에 참석해 축사를 한 점을 확인했는데, 이 행사는 윤씨가 주최한 것으로 알려진 바 있다. &lt;br&gt;&lt;br&gt;특검은 또 ‘건진법사’ 전성배씨와 윤씨가 2023년 1월 국민의힘 전당대회를 앞두고 통일교 교인들을 대거 입당시켜 권 의원을 당대표로 만들려고 한 정황도 확보한 것으로 전해졌다. 윤씨가 전씨에게 2022년 11월쯤 “윤심은 정확히 무엇입니까, 전당대회에 어느 정도 필요한가요”라는 문자메시지를 보냈고, 전씨는 “변함없이 권(성동)”이라고 답한 것으로 알려졌다. 특검은 지난 18일 경기 가평군에 있는 통일교 천원궁 등을 압수 수색할 때 권 의원의 국회 사무실과 강릉 지역구 사무실, 주거지를 압수 수색했다.&lt;br&gt;&lt;br&gt;다만 권 의원은 통일교로부터 정치자금을 받는 등 교류한 사실이 없다며 강하게 반발하고 있다. 권 의원은 이날 오전 자신의 페이스북을 통해 “통일교로부터 1억원대 정치자금을 받았다는 보도는 전혀 사실이 아니다”며 “통일교와 금전 거래는 물론, 청탁이나 조직적 연계 등 그 어떤 부적절한 관계도 맺은 적이 없다”고 밝혔다. 권 의원은 특히 윤씨와 전씨가 전당대회 건을 놓고 연락을 주고받은 부분에 대해선 “2023년 당대표 선거를 준비하던 중 자진 사퇴한 사실은 모두가 아는 바”라고 했다. 통일교의 조직적인 지원을 받은 사실이 없다는 뜻으로 풀이된다. 당시 국민의힘 대표로는 김기현 의원이 선출됐다.&lt;br&gt;&lt;br&gt;특검은 증거인멸 우려 등으로 전날 구속된 윤씨를 이날 오후 2시에 소환해 추가 조사를 이어가고 있다. 윤씨는 통일교 현안을 청탁할 목적으로 6000만원대 그라프 다이아몬드 목걸이와 1000만원대 샤넬 백 2개를 구입한 뒤, 김 여사에게 줄 목적으로 전씨에게 이를 건넨 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“尹에 계엄 피해 손해배상“ 경남서도 소송 움직임 </title>
-      <link>https://www.chosun.com/national/2025/07/31/PR2PX3IRHZBIDHEEMPCXQJPOHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/31/PR2PX3IRHZBIDHEEMPCXQJPOHU/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 06:20:23 +0000</pubDate>
-      <content:encoded>경남에서도 윤석열 전 대통령의 12·3 비상계엄으로 정신적 피해를 받았다며, 1인당 10만원의 위자료를 달라는 손해배상 소송이 이어질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUG2MOEH2NGFBOT6FUR5LZRPOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 더불어민주당 경남도당과 법무법인 믿음이 경남도의회에서 윤석열 전 대통령·김건희 여사 부부를 상대로 1인당 10만원씩 손해배상에 나서는 1만인 국민소송단 모집 기자회견을 열었다. /민주당 경남도당&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 경남도당과 법무법인 믿음은 31일 오전 경남도의회 브리핑룸에서 기자회견을 열고 “윤석열·김건희 공동 피고에 대한 경남 1만인 국민소송단 모집을 시작한다”고 밝혔다. 이들은 “12·3 계엄은 내란이면서 동시에 윤석열 부부가 저지른 국정 농단”이라며 “부부 재산을 환수하거나 손해배상으로 재산상 손실을 가하는 것이 가장 큰 응징”이라고 주장했다.&lt;br&gt;&lt;br&gt;민주당은 이날부터 내달 17일까지 온라인을 통해 소송인단을 공개 모집한다. 1인당 소송 비용은 3만원이다. 목표 인원은 1만명으로, 1인당 10만원씩 손해배상을 청구한다는 계획이다. 법무법인 믿음은 모집된 소송인단을 취합해 송순호 경남도당 위원장을 대표 원고로, 손해배상 청구 소송을 창원지법에 제기할 계획이다. &lt;br&gt;&lt;br&gt;앞서 지난 25일 서울중앙지법 민사2단독 이성복 부장판사는 시민 104명이 윤 전 대통령을 상대로 제기한 위자료 청구 소송에서 원고가 청구한 위자료 각 10만원을 전부 인용하는 판결을 내렸다. 또 배상액과 이자(연 12%)에 대해 가집행할 수 있다고 선고했다. 가집행은 판결이 확정되기 전이라도 일단 위자료를 지급하도록 하는 것이다. 이를 계기로 전국에서 추가 민사 소송 움직임이 잇따르고 있다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측은 지난 29일 이 판결에 대해 법원에 강제집행 정지를 신청했다. 확정 판결이 나기 전까지 위자료가 강제로 지급되지 않게 막아 달라는 것이다. 강제집행 정지 신청이 인용되면 재판부가 정하는 때까지 윤 전 대통령은 위자료를 지급하지 않아도 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박정훈 대령, 해병 특검 2차 조사 출석…“‘VIP 격노’ 모해위증 수사 촉구”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/31/MEANGBL5FFBQRO3RN2CCRZ6QHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/MEANGBL5FFBQRO3RN2CCRZ6QHM/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 06:19:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDTNZCXTMJKITOZPT2EX4X37GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈(대령) 해병대 수사단장이 31일 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고 채수근 상병 사망 사고 초동 조사를 맡았던 박정훈(대령) 해병대 수사단장이 31일 해병 특검에 출석했다. 박 대령은 윤석열 전 대통령이 해병대 수사단의 조사 결과를 보고 화를 내며 수사에 외압을 가했다는 이른바 ‘VIP 격노설’을 최초 폭로했던 인물이다.&lt;br&gt;&lt;br&gt;박 대령은 이날 오후 1시 20분쯤 서울 서초구 특검 사무실에 2차 참고인 조사를 받기 위해 출석했다. 박 대령 측 변호인단은 “박 대령 항명 사건 재판에서 (VIP 격노 등과 관련해) 허위 진술을 한 증인들이 일부 포착됐다”며 “박 대령을 모해할 목적으로 위증했다는 측면에서 특검에 수사를 촉구할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;채 상병 사망 사고 초동 조사를 맡았던 박 대령은 조사 기록을 경찰에 이첩하는 과정에서 이종섭 전 국방장관과 김계환 전 해병대 사령관의 이첩 보류·중단 지시에 따르지 않았다가 항명 혐의로 기소됐다. 박 대령은 1심에서 무죄를 선고받았고, 군 검찰이 항소해 2심이 진행 중이었으나 특검이 지난 9일 항소를 취하하며 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;특검은 박 대령 항명 사건 재판에 증인으로 출석한 김 전 사령관이 VIP 격노설을 부인했던 것과 관련해 모해위증죄로 고발된 사건도 수사하고 있다. 특검은 이날 박 대령을 상대로 그간 군 관계자들로부터 확보한 VIP 격노설 및 수사 외압 관련 진술에 대한 의견을 들을 예정이다.&lt;br&gt;&lt;br&gt;특검은 박 대령에게 항명 혐의 구속영장을 청구한 염모(소령) 군 검사를 고소한 사건에 대해서도 조사할 계획이다. 박 대령은 “구속영장 청구서에 적힌 내용 대다수가 허위에 가깝다”며 2024년 3월 염 소령을 허위공문서작성 및 행사, 감금미수 등 혐의로 국방부 조사본부에 고소한 바 있다.&lt;br&gt;&lt;br&gt;한편 특검은 지난 16일 진행된 1차 조사에서 채 상병 사망 사고 초동 조사 및 조사 기록의 경찰 이첩 과정과 관련한 박 대령 측의 입장을 재확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>성인용이 어린이용 보다 잘 팔려... 기저귀 시장 판도 바뀐 이유는</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/07/31/7JGZOWSSI5GAHE4OTXIGW4GUMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/31/7JGZOWSSI5GAHE4OTXIGW4GUMQ/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 05:55:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BNSSN5EMFEI5PN74D5COWDQKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 대형 마트 성인용 기저귀 매대에서 한 여성이 제품을 고르고 있다. /김용재 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 어린이용 기저귀의 생산과 수입량을 더한 공급량이 전년 대비 10% 감소한 것으로 나타났다. 반면 성인용 기저귀의 공급량은 전년보다 5% 늘어 둘 사이에 역전 현상이 나타났다. 저출산으로 인해 영유아 인구는 감소하고, 초고령사회 진입에 따라 65세 이상 인구는 증가한 영향으로 보인다.&lt;br&gt;&lt;br&gt;식품의약품안전처는 31일 이 같은 내용의 ’2024 위생용품 시장 규모’를 발표했다. 위생용품은 세척제, 위생물수건, 일회용 이쑤시개, 일회용 컵·빨대, 기저귀 등이 포함된다.&lt;br&gt;&lt;br&gt;국내 위생용품 시장 규모는 지난해 2조8716억원으로 6년 연속 꾸준한 성장세(연평균 4.66%)를 보였다. 다만 국내 생산액은 2조3595억원에서 2조3035억원으로 소폭 감소했다. 국내 생산액은 화장지 9447억원(41%), 일회용 컵 2944억원(12.78%), 일회용 기저귀 2941억원(12.77%), 세척제 2698억원(11.7%), 일회용 타월 2492억원(10.8%) 순이었다. 해당 5개 품목이 전체 생산액의 89%를 차지했다.&lt;br&gt;&lt;br&gt;기저귀만 놓고 보면 어린이용 기저귀의 공급량은 5만3286톤으로 전년(5만9436톤)보다 10.3% 감소했다. 반면 성인용 기저귀 공급량은 5만7806톤으로 전년(5만5174톤)보다 4.8% 증가했다. 성인용 기저귀 공급량이 어린이용을 추월한 것이다.&lt;br&gt;&lt;br&gt;일회용 컵과 빨대의 공급량은 각각 14만9951톤과 9410톤이었다. 2023년과 비교했을 때 각각 3.0%, 12.8% 감소했다. 지난해 일회용 젓가락 및 일회용 이쑤시개 생산액도 각각 28.5%, 28.6% 감소했다. 반면 과일·채소용 세척제 등 세척제 생산액(2698억원)은 전년 대비 15.2% 증가해 생산액 상위 품목 중 가장 높은 증가율을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검 “내일 오전 9시 尹 체포영장 집행"</title>
