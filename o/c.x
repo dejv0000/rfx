@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수박·우족·사탕수수·…여름 보양식으로 역대급 폭염 견디는 서울대공원 동물들 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/01/X7OV643UEJADHKUL3WAKZDTSGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/X7OV643UEJADHKUL3WAKZDTSGI/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 05:21:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BEES4KZ4NO6ROZP5ROIBGARBQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경기 과천시 서울대공원에서 열린 '동물원 여름나기' 공개 행사에서 하마가 여름 특식을 먹고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 경기 과천 서울대공원이 연일 이어지는 폭염으로 지친 동물들을 위해 여름 특별 보양식을 선물했다. 단백질이 풍부한 우족과 닭고기, 수분과 영양이 가득한 과일과 채소를 동물별 식이에 따라 맞춤형으로 준비했다. 폭염으로 인한 스트레스와 면역력 저하를 예방하기 위해서다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJH6A5QPLRJSDDEZ7U7PFUU7GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기 과천시 서울대공원 동물원에서 점박이물범이 사육사들이 준비한 특식을 먹고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물에서 사는 오타리아(남아메리카바다사자)와 물범에겐 살아있는 메기를 제공했다. 이날 오타리아와 물범은 펄쩍 뛰어오른 메기를 잡기 위해 물살을 가로질렀다. 서울대공원 관계자는 “살아있는 물고기를 쫓으면서 활동성이 높아지고 야생 본능이 깨어난다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MS6ZPOOFJFKYRD3EEJH3XA6JPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기 과천시 서울대공원 동물원에서 호랑이가 사육사들이 준비한 특식을 먹고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;맹수사에 사는 시베리아 호랑이들은 얼음 케이크를 받았다. 호랑이들은 얼음 덩어리를 혀로 핥으며 더위를 식혔다. 또 단백질과 칼슘이 풍부한 우족과 생닭으로 영양을 보충했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVKY4VSDFRPEZP34YE2F6YX54E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기도 과천시 서울대공원 동물원에서 코끼리가 물속에서 더위를 식히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 코끼리 3마리에게는 달콤한 사탕수수를 받았다. 사육사들이 커다란 수영장에 사탕수수를 던지자, 시원한 물 속으로 잠수하며 물놀이를 했다. &lt;br&gt;&lt;br&gt;하마들은 수박 등으로 만든 과일 케이크를 선물 받았다. 케이크 위에는 하마의 얼굴을 새긴 수박도 올라갔다.&lt;br&gt;&lt;br&gt;박진순 서울대공원장은 “연일 계속되는 폭염 속에서 동물들도 기력이 많이 약해졌을 것”이라며 “동물들이 건강하게 여름을 잘 날 수 있도록 세심히 살피겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 ‘교제 살인’ 경찰 내부 수배전단, 온라인에 유출</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/01/SPUPRD6GOJAAPCRESR22IDY4S4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/01/SPUPRD6GOJAAPCRESR22IDY4S4/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 05:14:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLLAI3O4KNGBNHAAD5BWKH35Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 교제 살인 피의자 A씨의 신상 정보가 담긴 경찰 내부용 수배 전단이 온라인 커뮤니티에 공개돼 있다. /온라인커뮤니티 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 ‘교제 살인’ 피의자의 얼굴과 이름이 담긴 경찰 내부 수배 전단이 온라인상에 공개돼 경찰이 유출 경로를 조사하고 있다.&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면, 대전 교제 살인 피의자 A(20대)씨의 개인 신상 정보가 담긴 경찰 내부 자료가 온라인 커뮤니티와 소셜미디어(SNS)를 통해 퍼지고 있다.&lt;br&gt;&lt;br&gt;이 수배 전단에는 A씨의 증명사진과 이름, 나이, A씨의 오토바이 번호판, 범행 당시 복장 등이 그대로 드러나 있다. 특히 수배 전단에는 ‘경찰관 내부용’ ‘외부 유출 절대 엄금’이라는 경고 문구도 들어있다.&lt;br&gt;&lt;br&gt;공개 수배되기 전 범행을 저지른 A씨를 검거하기 위해 경찰 내부 자료로 활용한 전단인 것이다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 개인 정보가 포함된 전단이 공개된 플랫폼에 삭제를 요청하는 한편, 유출 경로를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 내부 수배 전단의 유출 경로를 확인하고 있다”면서 “A씨의 신상 정보가 들어있는 전단을 무차별적으로 유포하는 경우 개인정보보호법에 따라 문제가 될 수 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수배 중인 딸 ‘美 회계사’라 속여... 7억원 사기친 엄마 징역형</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/01/D7WX4SGRFNCXZHESPWVNEXECHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/01/D7WX4SGRFNCXZHESPWVNEXECHY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 04:12:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울법원종합청사/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친딸이 미국에서 회계사로 일하며 거액의 가상화폐를 갖고 있다고 지인들을 속여 수억원을 가로챈 혐의로 기소된 여성이 1심에서 실형을 선고받았다. 실제로 딸은 미국 회계사가 아니고 사기죄로 지명 수배된 상태였다. &lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울중앙지법 형사28부(재판장 한대균)는 특정경제범죄가중처벌법상 사기 등 혐의로 기소된 A씨에게 징역 4년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 5월부터 지난해 6월까지 3명의 지인에게 19회에 걸쳐 7억여원을 가로챈 혐의로 재판에 넘겨졌다. A씨는 지인들에게 “딸이 미국에서 회계사로 일하는데 고가의 가상화폐가 현지 법원에 묶여있다. 돈을 빌려주면 팔아서 갚아주겠다”고 하며 돈을 빌린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또 딸이 미국 로스앤젤레스 호화 주택 단지인 비버리힐스에 초고가 주택을 갖고 있다고 거짓말하며 “비버리힐스에서 에어비앤비(공유 숙박 플랫폼)로 사용할 주택을 신축하고 있으니 공사비를 빌려주면 주택이 완공된 뒤에 200억원의 대출을 받아 두 배로 갚겠다”고 속여 거액을 편취한 것으로 나타났다.&lt;br&gt;&lt;br&gt;그러나 실제 A씨의 딸은 2021년 미국으로 도피해 사기죄 등으로 수배 중이고, 가상화폐나 비버리힐스 주택은 실체가 없는 것으로 조사됐다. A씨도 별다른 수입이나 재산이 없어 돈을 빌리더라도 갚을 의사나 능력이 없었다고 한다. &lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 “딸을 믿었을 뿐 속이려는 고의는 없었다”고 주장했지만 재판부는 “지명 수배 중인 자식의 말만 믿고 여러 사람으로부터 거액을 빌린 것은 매우 납득하기 어렵다”며 받아들이지 않았다. 재판부는 “범행 수법과 피해액 규모 등에 비춰 죄질이 좋지 않고 동종 범행으로 여러 번 처벌받은 전력이 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서부지법 난동’ 사랑제일교회 특임전도사 징역 3년 6개월 선고</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/01/GMH5LVGHDVBA5NW276F3JV2E3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/GMH5LVGHDVBA5NW276F3JV2E3E/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 04:36:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTHKNPWMTOOZ52RE6DCNKBC2MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 새벽 윤석열 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 소화기를 뿌리며 난동을 부리고 있다. 2025.1.19/뉴스1 ⓒ News1 김민수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태에 가담한 혐의로 구속된 사랑제일교회 특임전도사 윤모(56)씨가 1일 열린 1심 재판에서 실형을 선고받았다. &lt;br&gt;&lt;br&gt;서울서부지법 박지원 판사는 이날 특수건조물침입, 특수공무집행방해 등 혐의로 구속 기소된 윤씨에게 징역 3년 6개월을 선고했다. 재판부는 “피고인은 주도적으로 당시 법원 정문에 있던 경찰관과 법원 직원을 공포로 몰아넣고 법원의 권위에 심각한 상처를 안겼다”며 공소사실을 모두 유죄로 인정했다. 전광훈 목사가 속한 사랑제일교회 특임전도사였던 윤씨는 지난 1월 19일 윤석열 전 대통령에 대한 구속영장 발부 직후 서부지법에 난입해 경찰의 공무집행을 방해하고 법원 출입문 셔터를 손괴한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;당시 검은 복면을 쓰고 서부지법에 난입해 유리문에 소화기를 던져 ‘검은 복면남’으로 알려졌던 옥모(22)씨 역시 징역 3년 6개월을 선고받았다. 이들과 함께 난동에 가담한 최모(35)씨, 박모(35)씨는 각각 징역 1년 1개월, 징역 1년 4개월이 선고됐다.&lt;br&gt;&lt;br&gt;서부지법은 이날 난동 발생 전날인 지난 1월 18일 윤 전 대통령에 대한 영장실질심사를 마친 후 법원을 떠나던 공수처 차량을 막아선 혐의로 기소된 시위대 10명에 대해서도 실형을 선고했다. 서부지법 김우현 판사는 특수공무집행방해, 특수감금 등 혐의로 구속 기소된 김모씨와 장모씨에게 각각 징역 2년과 징역 1년 6개월을 선고했다. 이들은 지난 1월 18일 윤 전 대통령 구속 심사를 마친 뒤 서부지법을 나서던 공수처 차량을 막아서고, 직접 주먹으로 차량 유리창을 내리친 혐의 등으로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 “피고인들은 경찰에게 제지당했음에도 공수처 차량을 수차례 주먹으로 내리치거나 손잡이를 잡아당겼다”며 “공수처 소속 공무원들에게 극심한 공포감을 일으켰다”고 했다. 이어 “뒤늦게 반성하고 있는 점 등을 참작하더라도 피해자 고통과 범행 내용, 차량 손상 내용 등에 비춰 실형 선고가 불가피하다”고 했다. 나머지 8명에 대해서도 벌금형과 징역형 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;한편 현재 서울경찰청은 내란 선전 선동 혐의로 전광훈 사랑제일목사에 대한 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 이시원 “조태용에 ‘사건 회수’ 요청받고 업무 협조” 특검 진술</title>
       <link>https://www.chosun.com/national/court_law/2025/08/01/OGNLCWPGQFEBPNMYNMIFSUP2ZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/01/OGNLCWPGQFEBPNMYNMIFSUP2ZU/</guid>
@@ -792,15 +828,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSUPP7D2TOU5JVQNQ4IVNSXZIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수 도심 곳곳에 출몰한 야생 들개. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 도심 곳곳에서 들개 떼가 출몰해 주민들이 불안에 떨고 있다. &lt;br&gt;&lt;br&gt;31일 여수시에 따르면 국동항 수변공원과 남산공원 일대에서 들개 6~7마리가 무리를 지어 출몰하고 있다. 이 들개들은 수년 전부터 이곳 일대를 돌아다닌 것으로 전해졌다. &lt;br&gt;&lt;br&gt;다행히 사람을 물거나 해를 끼치는 사례는 현재까지 없었지만, 들개들이 인도와 도로를 활보하는 탓에 주민과 운전자들에게 위협이 되고 있다. 개들이 갑자기 도로로 뛰어들면서 로드킬(동물찻길사고) 우려도 크다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5D3GYL6CLJ7Y6UFLHYDEBJPHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수에서 들개 4마리가 떼를 지어 자동차 밑에서 잠을 자고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체와 소방 당국은 유기견 신고를 받으면 현장에 출동해 마취총 또는 포획틀 등 장비를 사용해 포획한다. 이후 개 주인을 찾는 공고를 내고, 아무도 나타나지 않을 경우 유기견 보호 센터를 통해 입양 또는 분양을 한다. &lt;br&gt;&lt;br&gt;하지만 들개의 경우 야생성과 경계심이 강한 탓에 접근하거나 포획하기가 어려운 실정이다. 마취총을 맞추기도 쉽지 않고 곳곳에 포획틀을 설치하더라도 먹이만 빼먹고 달아난다고 한다. &lt;br&gt;&lt;br&gt;여수시는 올해 들어 개 287마리를 포획했고, 이 중 입양과 분양 과정을 거쳐 현재 187마리를 센터에서 보호하고 있다. 여수시 관계자는 “포획틀 안에 먹이가 사라진 것을 보면 누군가가 개들을 위해 먹이만 빼서 줬을 가능성도 배제할 수 없다”며 “주민 안전이 위협받는 만큼 하루빨리 개들을 포획하도록 하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘중고거래 사기꾼’에 계정·계좌 빌려준 20대 男 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/31/T446KNAXEFFHNNLEB3EIZJ5VYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/T446KNAXEFFHNNLEB3EIZJ5VYI/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 04:32:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPPO3ZMG2U5SDNIGNRGMWSW4MI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원 서부지법 모습&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고거래 플랫폼에 허위로 판매 글을 올려 1억원이 넘는 돈을 가로챈 사기꾼에게 은행 계좌와 플랫폼 계정 70여개를 빌려준 20대 남성이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울서부지법 형사8단독 이세창 판사는 지난 23일 사기 방조 혐의로 재판에 넘겨진 김모(29)씨에게 징역 10개월을 선고했다. &lt;br&gt;&lt;br&gt;김씨는 범행에 필요한 중고거래 플랫폼 계정과 은행 계좌 76개를 중고거래 사기범 A씨에게 제공하고, A씨의 지시대로 피해금을 이체해주는 등 사기 행각을 도운 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨는 김씨에게 빌린 중고거래 플랫폼 계정을 통해 허위 판매 글을 올려 189명에게 1억795만5600원을 빼앗은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;다만 김씨는 A씨의 범행을 구체적으로는 알지 못했고, 계정과 계좌를 제공한 대가도 크지 않았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;재판부는 “다수의 피해자가 발생했고 피해 금액도 합계 약 1억795만원에 이르러 그 죄책이 가볍지 않다”며 “피해자들로부터 용서받지도 못했고, 일부 피해자는 엄벌을 탄원하고 있다”고 했다. 이어 피고인이 범행을 인정하고 있으며 초범이라는 점, 범행의 구체적인 양상을 알지 못한 채 가담했으며 취득한 이익이 거의 없어보인다는 점 등을 들어 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘언론사 단전·단수 지시' 이상민 구속영장 심사 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/07/31/5U2IQCUXENAGZH73BPVPNPUJDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/5U2IQCUXENAGZH73BPVPNPUJDY/</guid>
@@ -826,16 +853,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 03:30:00 +0000</pubDate>
       <content:encoded>행정안전부 국립과학수사연구원은 보이스피싱 수사를 돕는 ‘인공지능(AI) 기반 음성 탐색 시스템’을 개발해 8월부터 수사 기관에 제공한다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDS5PEAQJ7Y4GO6L6G4LKMOMRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립과학수사연구원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국과수는 보이스피싱 담당 수사관이 수사를 위해 신고 녹음 파일을 일일이 들어야 하는 어려움을 덜기 위해 시스템을 개발했다.&lt;br&gt;&lt;br&gt;2016년부터 금융감독원이 접수한 보이스피싱 사건 음성 파일 2만5000건을 AI가 문자로 바꾼 뒤, 이를 모아 시스템을 만들었다. 수사를 할 때 수사관이 사용할 수 있는 일종의 ‘데이터베이스’ 역할을 한다.&lt;br&gt;&lt;br&gt;보이스피싱 신고를 접수한 경찰은 시스템에 ‘수사’, ‘검찰’, ‘김○○ 수사관’ 등 원하는 키워드를 넣어 검색할 수 있다.&lt;br&gt;&lt;br&gt;국과수 관계자는 “과거에도 비슷한 수법으로 보이스피싱을 시도한 사례가 있는지 확인할 수 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;국과수는 2023년 개발한 ‘보이스피싱 음성 분석 모델’과 연계한 기능도 추가한다는 계획이다. 수사관이 사건 파일을 직접 시스템에 올려 범죄자의 목소리 유사도를 비교해 동일인인지 확인할 수 있고, 범죄 조직 간 연관성을 찾아낼 수도 있다.&lt;br&gt;&lt;br&gt;이봉우 국립과학수사연구원장은 “앞으로도 현장 수사관들의 목소리를 충분히 듣고 지원에 힘을 쏟겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 경찰, 울산 스토킹 살인미수범 신상공개 논의...“피해자 회복 후 검토” </title>
-      <link>https://www.chosun.com/national/2025/07/31/EA3MFRS7EFEPHAZ24F7CNEHV3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/31/EA3MFRS7EFEPHAZ24F7CNEHV3E/</guid>
-      <dc:creator>울산=김준호 기자, 권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 02:54:46 +0000</pubDate>
-      <content:encoded>스토킹하던 20대 여성을 흉기로 찔러 중태에 빠트린 혐의(살인미수)로 구속된 30대 남성에 대해 경찰이 신상 공개 여부를 논의한 것으로 31일 확인됐다. 피의자 신상공개를 위해서는 외부 전문가 등을 포함한 신상정보공개심의위원회를 구성해야 한다. 우리나라에서 살인미수 혐의를 받는 피의자 신상이 공개된 적은 없었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXDGK3P5XJM2DD2TKYW5F26TFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산의 한 병원 주차장에서 20대 여성에게 흉기를 휘둘러 살해를 시도한 혐의(살인미수)로 경찰에 체포된 30대 남성 A씨가 지난 30일 오후 울산지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 호송차로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 이날 오전 울산경찰청에서는 최근 살인미수 혐의로 구속된 A씨에 대한 신상공개심의위원회(심의위) 개최를 놓고 내부 논의한 것으로 전해졌다. 경찰은 이날 회의에서 추후 피해자 의견을 반영한 뒤 심의위 개최 여부를 검토하는 것으로 결론 내렸다고 한다. 피의자 신상공개 때 가장 중요한 요소는 피해자 의사 반영이다. A씨 범행으로 크게 다친 피해 여성은 여러 차례 수술을 받았지만, 여전히 중태로 알려졌다. 경찰 관계자는 “법률상 피해자 의사가 중요한데, 현재 피해자 의사가 정확하게 확인되지 않는 상황이기 때문에 심의위원회 개최를 검토하는 것이 이르다는 분위기”라고 했다. &lt;br&gt;&lt;br&gt;특정 중대 범죄 피의자 등 신상 정보 공개에 관한 법률(중대 범죄 신상공개법)에 따르면 ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다. 미성년자의 경우는 공개하지 않는다. 심의회 심의를 거쳐 공개를 결정하면 얼굴과 성명, 나이 등의 신상을 공개할 수 있다. 심의위는 최소 7명 이상 10인 이하로 구성해야 하고, 경찰이 아닌 외부 인원이 절반 이상 포함돼야 한다. 경찰 위원의 경우 총경 이상으로만 참여할 수 있다. 위원 3분의 2 이상이 동의하면 공개한다. 공개 범위도 위원회가 결정한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCC6PK67R5H37K5P54GB5WULDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 오후 3시 38분쯤 울산 북구의 한 병원 주차장에서 30대 남성이 스토킹하던 여성에게 흉기를 휘두른 사건이 발생했다. 이 남성이 차량을 타고 도주하려고 하자 주변에 있던 시민들이 소화기 등을 던지며 저지했다. 남성은 출동한 경찰에 검거됐다.
-/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;향후 A씨에 대한 심의위가 개최돼 신상 정보가 공개가 결정될 경우 살인미수 혐의 피의자로서는 첫 사례가 된다. 경찰청에 따르면 지난 2010년 이후 현재까지 경찰 신상공개심의위에서는 총 61건의 신상 공개를 결정했다. 지난 2015년 10월 발생한 부산 서면 사격장 총기 탈취 사건 피의자가 강도살인미수 및 강도예비 혐의 등으로 공개된 사례는 있었지만, 살인미수 혐의로만 공개된 사례는 이제껏 없었다.&lt;br&gt;&lt;br&gt;지난해 1월 부산 가덕도를 찾은 당시 이재명 더불어민주당 대표를 흉기로 찌른 김모씨에 대해 부산경찰이 살인미수 혐의 피의자 신분으로 심의위를 열었지만, 비공개하기로 결정됐었다. &lt;br&gt;&lt;br&gt;한편, A씨는 지난 28일 오후 3시 38분쯤 울산 북구의 한 병원 지상 주차장에서 자신이 스토킹하던 20대 여성을 뒤쫓아가 흉기로 수차례 찔렀다. A씨는 앞서 스토킹 신고로 접근 금지 등의 잠정 조치를 받고 있지만, 직장에서 나오는 여성을 기다렸다가 범행했다. 여성은 경찰에 바로 연락할 수 있는 스마트워치를 갖고 있었지만 스마트워치를 누를 겨를도 없었다. A씨는 차를 몰아 도주하려고 했지만, 주변에 있던 시민들이 저지해 경찰에 붙잡혔다. A씨는 지난 30일 도주 우려가 있다며 구속됐다. 경찰 조사에서 A씨는 “자해를 위해 흉기를 갖고 있었다”며 계획적 범행을 부인하는 진술을 했다고 한다. 하지만 경찰은 A씨가 접근 금지 명령에도 피해자를 찾아가 수시간 기다려 범행한 점, 차량 안에 흉기를 뒀다가 도망가는 여성을 쫓아가 범행한 점, 차량을 타고 도주하려던 점을 들어 범행이 잔혹하고 계획 범죄 가능성이 높다고 보고 수사를 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오송지하차도 참사 감리단장, 교도소에서 숨져</title>
@@ -926,24 +943,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 00:09:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COGRBTTUXRCSTJXJGF36W4M7IU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염경보가 내려진 경북 경산에서 80대 남성이 밭일을 하다 쓰러져 숨졌다. &lt;br&gt;&lt;br&gt;31일 경북소방본부에 따르면, 지난 30일 오후 3시 21분쯤 경산시 진량읍 한 밭에서 일하던 80대 남성 A씨가 쓰러져 심정지 상태로 발견됐다. 이후 A씨는 병원으로 옮겨졌지만, 숨졌다. &lt;br&gt;&lt;br&gt;사건 당일 경산 지역 낮 최고 기온은 36.1도로 폭염경보가 내려진 상황이었고, 발견 당시 A씨의 체온은 42.1도를 기록했다고 한다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 온열질환으로 숨진 것으로 보고 정확한 사망 원인을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“커피 배달해줘” “사람 찔러”... 1년간 2600회 허위신고한 60대 ‘구속’ </title>
-      <link>https://www.chosun.com/national/2025/07/31/ZPR2YND6R5DU5LR4RLMGEO6BUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/07/31/ZPR2YND6R5DU5LR4RLMGEO6BUM/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 01:22:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OKXBI75YZH43MISP5LEA7NHT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“방금 사람을 찔러 죽였다”&lt;br&gt;&lt;br&gt;지난 16일 오후 5시 7분쯤 경남 김해중부경찰서 소속 경찰들은 이 같은 신고에 곧장 현장에 출동했다. 신고자 A(60대)씨는 집 안에서 술을 마시고 있었다고 한다. 칼에 찔린 피해자는 없었다. 장난 전화임을 확인한 경찰은 A씨에게 구두 경고를 하고 철수했다. 2시간여 뒤 A씨는 재차 “사람을 칼로 찔렀으니 경찰차를 보내달라”고 신고했다. 경찰은 이번에도 현장에 긴급 출동했다. 소방도 공동 대응으로 현장에 갔다. 하지만 이번에도 A씨는 집안에서 멀쩡히 술을 마시고 있었다. 경찰은 현장에서 A씨를 긴급 체포했다. A씨는 이날만 약 5시간 동안 경찰에 114회 전화를 걸었다. &lt;br&gt;&lt;br&gt;경남경찰청은 상습·악성 112 허위 신고한 A씨 등 2명을 구속했다고 31일 밝혔다. 경찰 조사 결과 A씨는 김해 경찰에게는 유명한 악성 허위 신고자였다. 최근 1년 동안에만 2600회가 넘는 112 신고를 했다. 허위 신고로 15회 벌금(거짓신고)·즉심(거짓신고)·통고(장난전화) 등 처분받고도 허위 신고를 반복했다. &lt;br&gt;&lt;br&gt;김해중부경찰서 관계자는 “‘커피를 배달해달라’거나, 신세한탄, 사회 불만을 토로하는 전화가 주였는데, 이번에는 살인을 언급해 경찰·소방 인력이 긴급 출동하게 하는 등 정도가 지나쳤다고 판단했다”고 말했다. &lt;br&gt;&lt;br&gt;거창에서도 50대 남성이 허위 신고로 경찰 조사를 받다가 다른 혐의까지 더해져 결국 구속됐다. &lt;br&gt;&lt;br&gt;거창경찰서는 특수공갈 및 거짓 신고 혐의 등으로 B씨를 구속했다. B씨는 지난달 18일 오후 4시 11분쯤 거창 한 거리에서 “괴한에게 맞았다”는 내용으로 112에 허위 신고를 하는 등 지난 2월부터 6월까지 모두 363차례에 걸쳐 허위 신고를 한 혐의를 받는다. 경찰은 B씨에 대한 조사 중 B씨가 상습적으로 이웃을 괴롭힌 정황을 포착해 수사를 확대했다. 경찰 조사 결과 B씨는 술을 마신 상태로 동네 주민을 나무 지팡이로 위협하며 “돈을 빌려달라고 하거나” 상갓집에서 술을 더 주지 않는다는 이유로 흉기를 꺼내 위협한 혐의를 받는다. 이웃 집에 함부로 들어가 물건을 마음대로 가져가기도 하는 등 각종 주취 폭력을 행사한 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 보복이 두려워 신고를 꺼린 이웃 주민들을 상대로 탐문과 설득을 통해 여러 건의 피해 진술을 확보한 뒤 체포영장을 발부받아 지난 22일 B씨를 검거했다.&lt;br&gt;&lt;br&gt;경남경찰청 관계자는 “두 사람 모두 술을 마신 상태에서 상습적으로 허위 신고를 해온 악성 신고자들이었다”며 “술을 깨면 또 ‘죄송하다’ ‘술을 마셔 기억이 안 난다’고 하면서 멀쩡한 모습들이라 황당했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국민 안전을 위협하고 기초 질서를 어지럽히는 주취 폭력·허위 신고 등 민생 침해 범죄에 대해서는 엄정 대응할 것”이라며 “치료가 필요하면 의료·재활 기관 연계 등 회복적 형사 활동도 병행해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개그우먼 정경미 뭐하나 했더니…영어뮤지컬 학원 원장 된 근황</title>
-      <link>https://www.chosun.com/national/people/2025/07/31/WCU4GVAR5NCUXDMQP66C6AGA2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/07/31/WCU4GVAR5NCUXDMQP66C6AGA2E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 01:06:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMII42XP2VKVTIOWJ7CE7BHTLE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 정경미./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 정경미가 영어 뮤지컬 학원 원장으로 새롭게 변신한 근황을 알렸다. &lt;br&gt;&lt;br&gt;지난 30일 유튜브 채널 ‘A급 장영란’에는 개그우먼 정경미가 출연했다. 영상 속 정경미는 장영란을 송도의 한 상가로 데려가며 “좀 누추하지만 저의 새로운 사업장”이라며 “정말 정경미와 안 어울리는 영어 뮤지컬 학원이다. 영어로 뮤지컬을 하는 학원의 원장이 됐다”고 소개했다.&lt;br&gt;&lt;br&gt;공개된 영상을 보면 학원 벽에는 현재 수업 중인 뮤지컬 작품 포스터가 걸려 있었고, 여러 아이가 함께 춤을 추고 노래할 수 있는 공간도 있었다.&lt;br&gt;&lt;br&gt;정경미는 “난 영어를 못한다. 경영을 하는 것이다. 나보다 훨씬 좋은 선생님들이 아이들을 가르친다”라고 설명했다. &lt;br&gt;&lt;br&gt;이어 “뮤지컬은 춤도 추고, 노래도 부르고, 연기도 하는 활동이다. 요즘 친구들은 자기소개하라고 해도 못 하는 애가 많은데, 이런 뮤지컬 활동을 통해 앞에 나와서 자신 있게 발표도 할 수 있는 자기표현력을 기를 수 있다“며 ”아이들의 발달 과정에 뮤지컬이 정말 좋은데 부모님한테 더 어필할 수 있는 게 뭘까 했을 때 영어가 있으면 더 좋을 것 같다고 생각했다“며 학원을 운영하게 된 이유를 설명했다. &lt;br&gt;&lt;br&gt;그러면서 “요즘은 ‘내가 지금까지 했던 게 다 종착점이 이건가’라는 생각도 든다”면서 “20년 동안 방송 생활하면서 늘 긴장만 했는데 여기 오면 그게 없는 거다. 아이들 보면 힘이 난다. 기획하는 것도 재밌고, 여기 오는 게 행복이다”라고 전했다.&lt;br&gt;&lt;br&gt;2005년 KBS 20기 공채 개그우먼으로 데뷔한 정경미는 윤형빈과 결혼해 슬하에 1남 1녀를 두고 있다. 정경미는 2021년 방송된 채널A ‘행복한 동행, 오! 마이 라이프’ 이후 공식적인 방송 활동을 하지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
