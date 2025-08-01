@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유방암 판정 받고 가슴 절제했는데 오진…녹십자에 무슨 일이</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/01/FBXWT7LGQZAELO3GJ7B25TJDRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/FBXWT7LGQZAELO3GJ7B25TJDRM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 11:55:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI7RCJPOCHDXAACTR7JBXCAAK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부 정부세종청사 전경. /보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 여성이 오진으로 유방암 판정을 받고, 가슴 일부를 절제하는 수술까지 받은 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;1일 보건복지부에 따르면 복지부 장관 소속 기구인 제2기 검체검사수탁 인증관리위원회는 전날 올해 제1차 회의를 열고 수탁 검체 검사 결과를 잘못 관리해 유방암이 아닌 여성이 가슴 절제 수술을 받게 만든 GC녹십자의료재단에 1개월 인증 취소 처분을 했다. &lt;br&gt;&lt;br&gt;GC녹십자의료재단은 조직 검사 등을 위탁받아 판독하는 검사 기관이다.&lt;br&gt;&lt;br&gt;피해 여성은 지난해 9월 의원급 의료기관 검진에서 유방암 판정을 받아 가슴 일부를 절제했다. 그런데 알고 보니 피해 여성은 유방암이 아니었다. 이는 GC녹십자의료재단이 다른 여성의 검사 결과를 이 피해 여성의 것과 혼동해 벌어진 일로 드러났다.&lt;br&gt;&lt;br&gt;위원회는 환자 건강에 실제로 위해가 발생했다는 점, 해당 사실 인지 후 개선 노력이 미흡했다는 점 등을 종합적으로 고려해 1개월 인증 취소를 결정했다.&lt;br&gt;&lt;br&gt;이번 결정에 따라 GC녹십자의료재단은 병리 검사 분야에서 검체 검사, 건강보험 검사료 청구를 할 수 없게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U7T3QBYUVJBOHDQJ36X2P3DHXQ.jpg?auth=73aed28c5915bc5e50a8b84bb1daac4ace3ff79fbe1965ef029836bc2ddcd2e3&amp;smart=true&amp;width=768&amp;height=432" type="image/jpeg" height="432" width="768">
+        <media:description type="plain">GC녹십자의료재단</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>체감온도 34도...‘폭염 경보’ 인천서 80대 열사병으로 숨져 </title>
+      <link>https://www.chosun.com/national/incident/2025/08/01/PPRLJBIQIVAEBPAY27ROPGPOLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/01/PPRLJBIQIVAEBPAY27ROPGPOLQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 10:19:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYSHDHDALSNE2QRTI7XVPKISJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 30일 서울 동작구 기상청 모니터에 폭염 특보 발효 지역이 표시되고 있다. 빨간 색으로 표시된 곳은 폭염 경보, 노란 곳으로 표시된 곳은 폭염주의보가 발효된 지역이다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘폭염 경보’가 일주일 넘게 지속되고 있는 인천 강화에서 열사병으로 80대 남성이 숨졌다. &lt;br&gt;&lt;br&gt;1일 인천시에 따르면 지난달 28일 오후 5시 7분쯤 인천 강화군 길상면의 한 주택 앞에서 A(83)씨가 쓰러졌다는 아내의 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;당시 A씨는 주택 앞에서 인근 창고 쪽으로 가는 길에 쓰러진 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신고를 받고 119 구급대가 출동했으나 A씨는 현장에서 숨진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;당시 최고 기온은 32.4도, 최고 체감온도는 34.2도를 기록했다. &lt;br&gt;&lt;br&gt;인천시는 A씨가 열사병으로 숨진 것으로 보고 구체적인 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;인천 강화 지역엔 지난 24일 오후 4시 20분 발효된 폭염 경보가 8일째 이어지고 있다. &lt;br&gt;&lt;br&gt;지난달 29일 오후 4시 20분쯤엔 인천 서구 원당동의 한 빌라에서 B(여·90)씨가 체온 40.4도로 발견돼 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;지난 5월 15일부터 이날 현재까지 인천에서 발생한 온열질환자는 사망 2명을 포함해 모두 203명으로 집계됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 열대야 최다일 기록 경신…주말에도 폭염 이어져</title>
       <link>https://www.chosun.com/national/national_general/2025/08/01/JPIVKGRGHFGPTFJS46A46UIYPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/JPIVKGRGHFGPTFJS46A46UIYPY/</guid>
@@ -891,15 +912,6 @@
       <content:encoded>단속 정보 등 수사 내용을 흘려주고 불법 도박장 업주에게 뇌물을 받은 현직 경찰 간부가 구속돼 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2UHLFNLK5F2HL5PEECMJGOMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운·chatGPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산지검은 뇌물수수와 공무상 비밀누설 혐의로 울산경찰청 소속 A(50대)경감을 구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A경감은 형상기동대 소속 경찰 간부로 있으면서 알게 된 도박장 단속 정보를 제공한 대가로 700만원 상당의 뇌물을 받고, 체포영장 발부 정보를 흘려 도박장 업주가 도주하도록 도운 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 A경감이 영장 집행 당일 B씨를 만나 B씨뿐만 아니라 B씨의 지인 등 사건 관련자 수사 정보를 알려준 것으로 보고 있다. 도박장 7곳을 함께 운영하던 B씨와 B씨 배우자, 아들 등 가족 3명은 A경감에게 정보를 넘겨받은 대가로 700만원의 뇌물을 준 것으로 드러났다. B씨 아들은 A경감에게 받은 단속 정보를 텔레그램 단체 대화방을 통해 다른 도박장 업주들에게 공유한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 “A경감의 정보 유출로 B씨 가족 등이 도주와 증거인멸까지 하게 됐다”며 “불구속 송치된 A경감을 직접 구속해 기소했다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 또 재수사 과정에서 B씨 가족이 도박장 운영으로 벌어들인 돈을 이용해 다른 사람 이름으로 43억원 상당의 부동산을 매입해 범죄수익금을 빼돌린 정황도 포착했다. 검찰은 B씨 가족이 2022년 4월부터 2년간 21억원 정도의 범죄수익금을 챙긴 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;검찰은 B씨 배우자와 B씨 가족에게 부동산 취득 명의를 빌려준 지인, B씨를 차에 태워 도주시킨 또 다른 지인 등 총 3명도 이번에 함께 구속 기소했다.&lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 이 사건 제보자가 B씨 측으로부터 협박과 회유를 당하고, 도박 빚에 시달리다 스스로 목숨을 끊은 사실도 확인했다.&lt;br&gt;&lt;br&gt;검찰은 “기소 전 몰수보전 조치를 통해 B씨 측의 43억원 상당 부동산을 몰수했다”며 “범죄 수익 환수에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹측 “서울구치소에 진단서·소견서·의무기록사본 전달... 외부 진료 신청"</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/31/EWSB7AF56FAFFGBYALZM5DVUI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/EWSB7AF56FAFFGBYALZM5DVUI4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 06:56:59 +0000</pubDate>
-      <content:encoded>김건희 특검의 소환에 불응해 체포영장이 발부된 윤석열 전 대통령 측은 “서울구치소에 윤 전 대통령의 진단서와 소견서, 의무기록사본 일체를 전달했다”며 “실명 위험이 있는 눈에 대한 시술이 다음 달 예정돼 있어 외부진료를 신청했다”고 31일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5IIH63C4RIFJN6JHPVCUHR6CI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 법률대리인단은 이날 오후 입장문을 내고 “서울구치소 의료과장의 임상 진료가 있었다”면서도 “기저 질환 및 안과 질환에 대한 정밀검사와 진료는 제때 이뤄지지 못했다”고 밝혔다. 윤 전 대통령은 당뇨와 간수치 이상을 비롯해, 당뇨 합병증의 한 종류인 당뇨망막증을 앓고 있다고 한다.&lt;br&gt;&lt;br&gt;대리인단은 “윤 전 대통령은 한 대학병원에서 주기적으로 안과시술을 받고 있었으나, 석달째 시술을 받지 못하면서 실명 위험이 높아지고 있는 상황”이라고 밝혔다. 이어 “8월 내 시술이 예정돼 있어 외부 진료를 신청했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 밖에도 윤 전 대통령은 심장혈관 및 경동맥협착, 자율신경계 손상에 따른 체온조절 장애 등이 우려되는 상황이라는 게 대리인단 설명이다. 대리인단은 “윤 전 대통령이 외관상 거동이 가능하다는 것과 달리 여러 기저 질환으로 인해 건강 유지에 상당한 어려움을 겪고 있다”며 “수사와 재판에 응하는 것에 어려움이 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 김건희 특검은 이날 오전 윤 전 대통령의 체포영장을 발부 받았고, 내일(8월 1일) 오전 9시 서울구치소를 찾아 집행에 나설 예정이다. 문홍주 특검보가 검사와 수사관 1명씩 대동해 현장에서 집행을 지휘할 계획이다. 윤 전 대통령은 지난 29일과 30일 두 차례의 소환 통보에 모두 응하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내란특검, 전 국무총리 비서실장 참고인 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/07/31/QYZDV2WEUFC7PFAWQQHENAKETM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/QYZDV2WEUFC7PFAWQQHENAKETM/</guid>
@@ -916,15 +928,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 07:29:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWYFYEZBYFCJBAZJNLXQTGENHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하철 안에서 발톱을 깎은 한 승객./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 안에서 한 승객이 발톱을 깎고 치우지 않는 모습이 포착돼 논란이 되고 있다. &lt;br&gt;&lt;br&gt;31일 한 온라인 커뮤니티에는 ‘아주머니가 지하철에서 발톱을 깎는데 소음이 컸습니다’라는 제목의 글과 함께 사진이 올라왔다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 지하철 좌석 두 칸을 차지하고 앉은 여성 승객이 한쪽 다리를 들어 올린 채 신발을 벗고 발톱을 깎고 있는 모습이 담겼다. 맞은편에는 2~3명의 승객이 앉아 있는 모습이 지하철 창문을 통해 비치고 있었다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “아주머니가 떨어진 발톱을 치우지 않고, 그 손으로 가져온 과자를 먹었다”며 “지하철이 밀폐된 공간이라 그런지 생각보다 발톱 깎는 소리가 컸다”라고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “남의 나라 욕할 것이 아니다. 이게 우리나라라니“ “별의별 사람 다 있다” “기본적인 상식과 공공질서를 어지럽히는 행위다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;네티즌은 자신이 경험한 비슷한 일화를 전하기도 했다. 한 네티즌은 “버거 매장에서 손톱 깎는 광경도 봤었다. 매장 직원은 다른 고객들이 항의할 때까지 가만히 있어서 내가 나서서 한마디하고 나왔다”라고 전했으며, 또 다른 네티즌은 “우리 사무실에도 손톱 깎는 사람 있다”라며 공감의 뜻을 나타냈다．&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무인기 北 침투 때…“백령도 방공레이더, 야간엔 미운용”</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/31/TSKVBJEGIJAYLAJGT6AEXOH5B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/TSKVBJEGIJAYLAJGT6AEXOH5B4/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 06:37:25 +0000</pubDate>
-      <content:encoded>백령도에 배치된 국지방공레이더가 ‘평양 무인기 침투 작전’ 진행 기간 동안 야간에는 작동되지 않았다는 군 내부 증언이 나왔다. 무인기 작전이 아군에도 노출되지 않도록 레이더를 비정상적으로 운용한 것 아니냐는 의혹이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4F4GHH3TU43GIQT4WLLNBYHLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 북한 측이 대한민국이 보냈다고 주장하며 공개한 무인기 모습. /뉴스1·노동신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 더불어민주당 의원실이 31일 확보해 공개한 군 관계자 제보에 따르면, 작년 하반기 백령도에 주둔하는 해병대 6여단에 국지방공레이더를 주간에만 운용하라는 지침이 내려왔다. 북한의 소형 무인기까지 탐지할 수 있는 국지방공레이더는 지난해 1월부터 운용돼 왔는데, 합동참모본부 지시로 일정 기간 동안 야간 운영을 중단했다는 것이다.&lt;br&gt;&lt;br&gt;군 내부에선 “장비가 1대밖에 없어 주간 위주 운용이 불가피하다고 하더라도 야간에 아예 운용을 중단할 경우 북한의 무인기나 오물풍선에 취약해질 수밖에 없다”는 의문이 제기된 것으로 전해졌다. 현재는 국지방공레이더를 주간 위주로 운용하되 야간에도 불규칙적으로 운용 중이라고 한다.&lt;br&gt;&lt;br&gt;정치권에선 작년 10~11월 진행된 평양 무인기 작전이 비상계엄 명분을 쌓기 위한 북한 도발 차원이란 의혹이 제기되고 있다. 이 의혹은 현재 내란 특검이 수사 중이다.&lt;br&gt;&lt;br&gt;추미애 의원은 “윤석열 내란 일당이 무리한 북풍몰이 과오를 감추기 위해 엄청난 안보 공백을 초래한 이적 행위로 판단해야 한다”면서 “만약 북한 무인기가 백령도를 통해서 넘어왔다면 우리는 사실상 무방비 상태가 됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검 “내일 오전 9시 尹 체포영장 집행"</title>
