@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 상법개정안 법사위 통과</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210168.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 01 Aug 2025 06:31:47 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210168</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210168</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210168.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '서부지법 난동' 공수처 차량 유리창 내리친 시위대 징역형</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210165.jpg" alt="6575734.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지난 1월&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;전 대통령의 구속 전 피의자 심문(영장실질심사)이 끝난 뒤 서울서부지법 인근에서 고위공직자범죄수사처 차량을 파손한 혐의로 기소된 시위대에게 실형이 선고됐다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;서울서부지법 형사11부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2541"&gt;김우현&amp;nbsp;&lt;/span&gt;부장판사)는 8월 1일 오전 특수공무집행방해, 특수감금, 특수공용물건손상 혐의로 기소된 A 씨와 B 씨에게 각각 징역 2년과 징역 1년 6개월을 선고했다(&lt;b&gt;2025고합60&lt;/b&gt;). 이들은 1월 18일 윤 전 대통령의 구속 심사가 끝난 뒤 법원을 벗어나려는 공수처 차량을 막아서고 유리창을 내리친 혐의 등을 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;김 부장판사는 "피고인들은 경찰에게 제지당했음에도 공수처 차량을 수차례 주먹으로 내리치거나 손잡이를 잡아당겼다"며 "이를 통해 공수처 소속 공무원들에게 극심한 공포감을 일으켰다"고 밝혔다. 그러면서 "뒤늦게 반성하고 있는 점 등을 참작하더라도 피해자 고통과 범행 내용, 차량 손상 내용 등에 비춰 실형 선고가 불가피하다"고 덧붙였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;같은 날 공수처 차량 뒤에서 스크럼을 짜 차량의 이동을 막은 혐의로 함께 재판에 넘겨진 다른 8명에 대해서도 벌금형과 징역형 집행유예가 선고됐다. 김 부장판사는 "피고인들은 단지 스크럼을 짜는 방법으로 공수처 차량이 이동하지 못하게 했을 뿐 차량에 탑승한 공무원들에 대해 직접적인 물리력을 행사하려는 행동을 하진 않았다"며 "공수처 직원들의 공포감을 전부 피고인들에게 돌리긴 어렵다"고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 서울서부지법 난동 사태에 가담해 구속기소된 사랑제일교회 특임전도사에게도 실형이 선고됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울서부지법 형사1단독 박지원 부장판사는 특수건조물침입, 특수공무집행방해 등 혐의로 구속기소된 C 씨에게 징역 3년6개월을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;박 부장판사는 "피고인은 시위 현장 선두에서 법원 침해를 여러 차례 선동했다. 주도적으로 당시 법원 정문에 있던 경찰관과 법원 직원을 공포로 몰아넣고 법원의 권위에 심각한 상처를 안겼다"고 질타했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;전광훈 목사의 사랑제일교회 특임전도사였던 C 씨는 1월 19일 윤 전 대통령에 대한 구속영장이 발부되자 서부지법에 난입해 경찰의 공무집행을 방해하고 법원 출입문 셔터를 망가뜨린 혐의로 구속기소됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;사태 당시 검은 복면을 쓰고 서부지법에 난입해 유리문에 소화기를 던지고 민원서류 작성대 등을 파손한 혐의(특수건조물 침입 등)로 기소된 D 씨도 징역 3년6개월을 선고받았다. 함께 난동에 가담한 2명에게는 각각 징역 1년 1개월과 징역 1년 4개월이 선고됐다.&lt;/p&gt;</description>
+			<pubDate>Fri, 01 Aug 2025 05:58:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210165</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210165</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210165.jpg</media:thumbnail>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무부, 신규 검사 49명 임용…경력 법조인 24명 포함</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210166.jpg" alt="45645647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=법무부 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부는 1일 법무관 전역자 25명(제11회 변호사시험 합격자)과 경력 법조인 출신 24명 등 총 49명을 검사로 신규 임용했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;신규 임용된 검사들은 법무연수원에서 약 3개월간 실무 교육을 받은 뒤 올해 11월 초 전국 일선 검찰청에 배치돼 본격적인 직무를 수행할 예정이다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&amp;nbsp;&lt;/span&gt;법무부 장관은 이날 오전 정부과천청사 법무부에서 열린 2025 하반기 신임검사 임관식에서 검찰 개혁 등을 언급하며 "미래에 대한 걱정도 있겠지만 우리 사회에 범죄가 존재하는 한 범죄로부터 국가와 국민을 지키기 위해 범죄자를 기소하고 형사처벌을 받도록 하는 검사의 역할은 반드시 필요할 수밖에 없다"고 말했다. &lt;br /&gt;&lt;br /&gt;그는 "어려운 시기지만 오직 국민을 위한 검찰로 거듭난다면 전화위복이 될 것"이라고 강조했다. &lt;br /&gt;&lt;br /&gt;정 장관은 "'인권보호'라는 검찰제도의 본질을 가슴에 깊이 새기고 본연의 임무에 충실해주기 바란다"며 "범죄로부터 안전한 나라를 만들기 위해 최선을 다해달라"고 당부했다. &lt;br /&gt;&lt;br /&gt;또 "국민들의 평온한 일상과 안전을 침해하는 민생범죄에 더욱 엄정하게 대응해야 한다"며 "나아가 주가조작, 가짜뉴스와 허위정보 유포 등 공동체의 신뢰를 훼손하는 범죄에도 적극적으로 대응해 신뢰 사회 구축에도 일조해주길 바란다"고도 했다. &lt;br /&gt;&lt;br /&gt;도덕성과 청렴성도 거듭 강조했다. 정 장관은 "국민들이 기대하는 청렴하고 높은 도덕성을 갖춘 검사가 돼야 한다"며 "스스로에게 엄격하고, 깨어 있는 자세로 국민 눈높이에 맞는 자세를 갖춰달라"고 주문했다.&lt;br /&gt;&lt;br /&gt;또 "사건 관계인의 말을 경청하고, 늘 겸손한 태도로 타인을 배려하는 자세가 필요하다"며 공정한 검찰권 행사를 위한 기본자세를 강조했다.&lt;br /&gt;&lt;br /&gt;이번 임용은 검찰의 전문성과 실무 역량을 강화하기 위한 인재 다양화 전략의 일환이다. 특히 법무부는 2024년부터 경험과 연륜을 갖춘 경력 법조인을 검사로 선발하기 위해 '경력 검사 선발 절차'를 별도로 운영하고 있다. 2024년에는 27명의 경력 법조인이 검사로 선발됐다.&lt;br /&gt;&lt;br /&gt;법무부는 "2025년에도 법무관 전역자를 비롯해 행정부처, 금융감독원, 경찰, 기업 등 다양한 경험과 전문성을 가진 다수의 인재들을 검사로 신규 임용할 것"이라며 "검찰의 전문성을 높이고 민생범죄에 대한 신속하고 충실한 대응이 가능해질 것으로 기대한다"고 밝혔다.&lt;br /&gt;</description>
+			<pubDate>Fri, 01 Aug 2025 05:55:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210166</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210166</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210166.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>채상병 특검, 김건희 여사 비화폰 실물·통신내역 확보</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210164.jpg" alt="45646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정민영 특검보 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;채상병 사건 수사 외압 의혹을 수사하는 이명현 특검팀이 구명 로비 의혹에 연루된 김건희 여사가 당시 사용했던 비화폰 실물을 확보했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25396"&gt;정민영&amp;nbsp;&lt;/span&gt;특검보는 1일 오전 서울 서초동 특검사무실 정례 브리핑에서 "김 여사가 사용했던 비화폰 실물과 통신내역을 어제 대통령경호처로부터 확보했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;정 특검보는 "김건희특검에서 비화폰 실물과 통신내역 확보 사실을 파악하고 (압수수색) 영장을 발부받은 것 같다"며 "임의제출 형식으로 김건희특검에 제공할 예정"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "다음주 정도에는 김 여사가 사용하던 비화폰이 어떤 것인지, 개수는 몇 개인지 등에 대해 구체적으로 확인할 수 있지 않을까 기대하고 있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;채상병 특검팀은 채상병 사건 수사방해와 구명로비 의혹 수사를 위해 김 여사와 윤 전 대통령 등 20여 명의 비화폰 통신 기록에 대한 압수수색영장을 발부받아 대통령경호처, 국군지휘통신사령부 등으로부터 순차적으로 확보하고 있다.&lt;br /&gt;&lt;br /&gt;특검팀은 다음주 중 윤석열 전 대통령과 이종섭 전 국방부 장관, 조태용 전 국가정보원장 등의 비화폰 통화 내역을 대통령경호처로부터 제출받을 예정이다.</description>
 			<pubDate>Fri, 01 Aug 2025 03:01:37 -0000</pubDate>
@@ -206,36 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210134</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210134.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>"새정부 노동정책, 기업 대비책은?" 린·한국능률협회컨설팅 세미나 8일 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210135.jpg" alt="45647.jpg" /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;법무법인 린&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7428"&gt;임진석&lt;/span&gt;)은 한국능률협회컨설팅(KMAC 대표 한수희)과 함께 ‘제1회 경영-법률 통합 세미나’를 오는 8월 8일 오후 2시, 서울 영등포구 여의도동 FKI타워(구 전경련회관)에서 개최한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5798"&gt;차선희&lt;/span&gt;(59·사법연수원 24기) 법무법인 린 HR팀장은 “최근 노동환경 변화는 그 속도와 강도 모두 기업에 큰 도전이 되고 있다”며 “이번 세미나는 인사·노무 실무자들이 놓치기 쉬운 법률 리스크를 사전에 인지하고, 실질적 대응 전략을 수립할 수 있도록 돕는 데 초점을 맞췄다”고 말했다.&lt;br /&gt;&lt;br /&gt;세미나는 △주 4.5일제, 포괄임금제 폐지 등 새 정부 노동정책 요약 △법률 리스크 및 대응 전략(법무법인 린) △근로시간 개편 대응 HR 디자인 전략(KMAC) △노동정책 전문가 패널 토론 등으로 구성된다. KMAC와 린은 이 세미나에서 경영 전략 수립부터 법률 리스크 대응까지 원스톱으로 지원하는 통합 서비스 모델을 처음으로 공개한다.&lt;br /&gt;&lt;br /&gt;참석자 전원에게는 세미나 핵심 리포트가 제공되며, 세미나 종료 후에는 개별 기업 상황에 맞춘 전문가 상담과 네트워킹 기회도 마련된다. 참가 대상은 인사, 노무, 전략, 법무 부서 실무자 및 책임자로, 선착순 무료 사전 등록제로 운영될 예정이다.&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Jul 2025 06:57:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210135</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210135</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210135.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, 尹 체포영장 청구…내일부터 명태균 조사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210133.jpg" alt="3453636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;오정희 특검보 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 30일 소환에 여러 차례 불응한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대한 체포영장을 청구했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1255"&gt;오정희&amp;nbsp;&lt;/span&gt;특검보는 이날 오후 "윤 전 대통령은 어제와 오늘 아무런 사유를 밝히지 않은 채 조사에 불응했다"며 "오늘 오후 2시 12분 윤 전 대통령에 대한 체포영장을 청구했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 전날에 이어 이날 오전 10시 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실로 윤 전 대통령을 불렀으나 그는 출석하지 않았다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령은 그간 내란 특검팀의 출정조사와 내란 재판에도 건강 악화를 이유로 불출석해왔다. 김건희 특검팀에는 변호인 선임계와 사유서 등 어떠한 의견도 전달하지 않고 있다. &lt;br /&gt;&lt;br /&gt;오 특검보는 강제조처에도 윤 전 대통령이 조사에 응하지 않을 경우엔 어떻게 할 것이냐는 질문에 "그 부분에 대해 구체적으로 말씀드릴 수 없다"면서도 "정리가 되면 말하겠다"고 답했다. &lt;br /&gt;&lt;br /&gt;앞서 내란 특검팀은 윤 전 대통령이 세 차례의 출석요구와 강제구인 지휘에도 구치소에서 나오지 않자 지난 19일 특수공무집행방해, 직권남용 권리행사방해 등 혐의로 구속기소한 바 다. &lt;br /&gt;&lt;br /&gt;김건희 특검팀은 양평 공흥지구 개발 특혜 의혹으로 기소된 김 여사의 오빠 김진우 씨 사건과 관련해 기일 연기를 요청했다. 특검은 추가 자료 제출과 공소장 변경을 준비 중이라며, 공소 유지 중인 검사에게 재판 기일 조정을 요청했고, 이를 수원지법 항소부가 수용해 새로운 기일을 지정했다고 밝혔다. &lt;br /&gt;김건희 특검팀은 공천개입 의혹의 핵심 인물인 명태균 씨를 오는 31일부터 이틀간 조사할 예정이다. &lt;br /&gt;&lt;br /&gt;오 특검보는 "명태균 씨에 대한 조사가 내일과 모레 이틀 동안 진행될 예정이다. 명태균 씨가 조사에 출석할 의사가 있는 걸로 알고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;앞서 김건희 특검팀은 윤 전 대통령 부부의 자택을 압수수색하면서 공천개입 의혹 사건에 특정범죄가중처벌법의 뇌물 혐의를 적용했다.&lt;br /&gt;&lt;br /&gt;특검팀은 당시 공천관리위원장이었던 윤상현 국민의힘 의원으로부터 '(공천과 관련해) 윤 전 대통령의 전화를 받았다'는 진술을 확보한 상태다.&lt;br /&gt;</description>
-			<pubDate>Wed, 30 Jul 2025 06:55:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210133</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210133</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210133.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>윤석열 측 '비상계엄 위자료 10만원' 강제집행 정지 신청</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210130.jpg" alt="456474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 9일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(65·사법연수원 23기) 전 대통령 측이 12·3 비상계엄으로 정신적 피해를 입은 시민들에게 위자료를 배상하라는 1심 판결에 대해 법원에 강제집행정지를 신청했다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령 측은 29일 1인당 10만 원의 위자료를 지급하라는 1심 판결에 대한 강제집행정지 신청을 제기했다. 1심 판결에 불복해 항소한 데 이어 판결 확정 전에 가집행되는 것을 막기 위한 대응 조처로 풀이된다. 강제집행정지 사건은 서울중앙지법 민사항소8-3부(재판장 신영희·정인재·김기현 부장판사)가 심리한다.&lt;br /&gt;&lt;br /&gt;앞서 서울중앙지법 민사2단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8997"&gt;이성복&lt;/span&gt;(65·16기) 부장판사는 7월 25일 104명의 시민이 윤 전 대통령을 상대로 낸 손해배상소송(&lt;b&gt;2024가소120790&lt;/b&gt;)에서 "1인당 10만 원을 배상하라"며 원고 승소 판결했다.&lt;br /&gt;&lt;br /&gt;재판부는 당시 가집행도 가능하다고 선고했다. 가집행이란 판결이 확정되지 않더라도 배상금을 임시로 강제집행할 수 있도록 하는 것이다. 원래 판결이 확정돼야 강제집행을 할 수 있는 것이 원칙이지만, 신속한 권리 실현을 위해 가집행을 허용할 때가 있다.&lt;br /&gt;&lt;br /&gt;법원이 강제집행정지 신청을 받아들이면 재판부가 정하는 시한까지는 가집행할 수 없게 되며, 만약 받아들이지 않으면 가집행 가능 상태가 유지된다.</description>
-			<pubDate>Wed, 30 Jul 2025 04:30:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210130</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210130</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210130.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
