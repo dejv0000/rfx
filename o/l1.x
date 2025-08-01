@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>채상병 특검, 김건희 여사 비화폰 실물·통신내역 확보</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210164.jpg" alt="45646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정민영 특검보 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;채상병 사건 수사 외압 의혹을 수사하는 이명현 특검팀이 구명 로비 의혹에 연루된 김건희 여사가 당시 사용했던 비화폰 실물을 확보했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25396"&gt;정민영&amp;nbsp;&lt;/span&gt;특검보는 1일 오전 서울 서초동 특검사무실 정례 브리핑에서 "김 여사가 사용했던 비화폰 실물과 통신내역을 어제 대통령경호처로부터 확보했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;정 특검보는 "김건희특검에서 비화폰 실물과 통신내역 확보 사실을 파악하고 (압수수색) 영장을 발부받은 것 같다"며 "임의제출 형식으로 김건희특검에 제공할 예정"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "다음주 정도에는 김 여사가 사용하던 비화폰이 어떤 것인지, 개수는 몇 개인지 등에 대해 구체적으로 확인할 수 있지 않을까 기대하고 있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;채상병 특검팀은 채상병 사건 수사방해와 구명로비 의혹 수사를 위해 김 여사와 윤 전 대통령 등 20여 명의 비화폰 통신 기록에 대한 압수수색영장을 발부받아 대통령경호처, 국군지휘통신사령부 등으로부터 순차적으로 확보하고 있다.&lt;br /&gt;&lt;br /&gt;특검팀은 다음주 중 윤석열 전 대통령과 이종섭 전 국방부 장관, 조태용 전 국가정보원장 등의 비화폰 통화 내역을 대통령경호처로부터 제출받을 예정이다.</description>
+			<pubDate>Fri, 01 Aug 2025 03:01:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210164</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210164</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210164.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희특검, 尹 체포영장 집행 무산...서울구치소에서 철수</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210163.jpg" alt="5464.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 의혹들을 수사하는 민중기 특별검사팀이 윤석열 전 대통령에 대한 체포영장 집행에 나선 1일 경기 의왕시 서울구치소 앞에 경찰이 경계근무를 서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검)이 소환 조사에 불응한 윤 전 대통령에 대해 체포영장 집행을 시도했으나 2시간 여만에 무산됐다.  &lt;br /&gt;&lt;br /&gt;특검팀은 1일 언론공지를 통해 "윤 전 대통령에 대한 체포영장 집행은 당사자의 완강한 거부로 완료하지 못했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 오전 9시께 경기도 의왕시 서울구치소에 방문해 윤 전 대통령에 대한 체포영장 집행을 시도했다. 이날 체포영장 집행은 문홍주 특검보와 특검팀 소속 검사 1명, 수사관 1명이 맡았다. &lt;br /&gt;&lt;br /&gt;이들은 윤 전 대통령에게 특검팀에 출석해 조사받을 것을 권유한 뒤, 이에 불응하면 교도관을 지휘해 윤 전 대통령을 체포할 예정이었다. 하지만 윤 전 대통령의 완강한 거부로 인해 이같은 시도가 무산된 것으로 보인다. &lt;br /&gt;&lt;br /&gt;앞서 특검팀은 지난달 29일, 30일 두 차례에 걸쳐 윤 전 대통령에게 소환 통보를 했으나, 윤 전 대통령은 출석에 불응했다. 이에 특검팀은 구속 상태인 윤 전 대통령을 상대로 체포영장을 청구해 31일 법원으로부터 발부받았다. 윤 전 대통령에 대한 체포영장 기한은 8월 7일까지다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령 측 변호인단은 체포영장이 발부된 31일 서울구치소 측에 윤 전 대통령의 건강상태에 대해 소명했다. 변호인 측은 이날 언론 공지를 통해 "31일 서울구치소측에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에 대한 진단서와 소견서, 의무기록사본 일체를 전달했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 서울구치소 측은 윤 전 대통령의 건강 상태에 특별한 이상이 없다고 판단했는데, 변호인 측은 이를 반박하며 윤 전 대통령이 기저 질환과 안과 질환이 있어 수사와 재판에 응하기 어렵다고 설명했다. &lt;br /&gt;&lt;br /&gt;변호인 측은 "서울구치소 의료과장의 임상 진료가 있었으나, 기저 질환 및 안과 질환에 대한 정밀검사와 진료는 제 때 이뤄지지 못했다"며 "이로 인해 윤 전 대통령의 건강에 대한 객관적인 진단에 한계가 있었다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이어 "모 대학병원 진단에 의하면, 윤 전 대통령은 주기적으로 안과시술을 받고 있었으나 석달째 시술을 받지 못하면서 실명 위험이 높아지고 있는 상황"이라며 "윤 전 대통령은 위 의료기관에서 안과 협진으로 8월 내 시술이 예정돼 있어 이를 위한 외부진료를 신청했다"고 했다. &lt;br /&gt;&lt;br /&gt;그러면서 "윤 전 대통령에 대해 심장혈관 및 경동맥 협착의 문제, 자율신경계 손상으로 인한 체온조절 장애가 우려된다"며 "윤 전 대통령이 외관상 거동이 가능하다는 것과 달리 여러 기저 질환으로 인해 건강의 유지에 상당한 어려움을 겪고 있어, 수사와 재판에 응하는 것에  어려움이 있다"고 설명했다.</description>
 			<pubDate>Fri, 01 Aug 2025 02:34:58 -0000</pubDate>
@@ -24,16 +34,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210161</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210161.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 윤석열 전 대통령 체포영장 집행 무산</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210162.jpg" alt="5464.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 의혹들을 수사하는 민중기 특별검사팀이 윤석열 전 대통령에 대한 체포영장 집행에 나선 1일 경기 의왕시 서울구치소 앞에 경찰이 경계근무를 서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Fri, 01 Aug 2025 02:05:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210162</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210162</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210162.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
 			<title>싱가포르서 IBA 연차총회…"지지해준 한국 인하우스카운슬포럼에 감사"</title>
