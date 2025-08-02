@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>양동근, ‘반탄 목사’ 행사 참석 논란에 “맘껏 실망하고 맘껏 욕해“</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/L5LFNMNBGNBHHF6TTI56SU5EYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/L5LFNMNBGNBHHF6TTI56SU5EYU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 08:04:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDP4YDOKBJHHPO4ZEQRIGNKAVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양동근이 손현보 목사가 주최한 청소년·청년 여름 캠프에서 공연하는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 양동근은 윤석열 전 대통령 탄핵 반대 집회를 주도했던 보수 성향의 목사가 주최한 행사에 참석해 논란이 된 것에 대해 “맘껏 실망하고 맘껏 욕해”라고 했다.&lt;br&gt;&lt;br&gt;양동근은 2일 자신의 소셜미디어를 통해 “널 믿은 내가 XX이지. 얘들아 맘껏 실망하고 맘껏 욕해. 너희에겐 그럴 자유가 있어”라며 “내가 XX하긴 좀 그렇지 않아?”라고 했다. &lt;br&gt;&lt;br&gt;보수 성향의 목사가 주최한 행사에 참석한 후 자신에게 실망감을 드러내는 팬들을 향한 메시지로 읽힌다.&lt;br&gt;&lt;br&gt;양동근은 전날 자신의 소셜미디어에 “너무 은혜로운 시간이었다”며 지난달 30일 손현보 부산 세계로교회 목사가 주최한 청소년·청년 여름 캠프에서 공연하는 영상을 올렸다.&lt;br&gt;&lt;br&gt;양동근은 독실한 기독교 신자로 CCM 공연단 케이스피릿(K-Spirit)에서 활동하고 있다.&lt;br&gt;&lt;br&gt;그러나 손 목사는 탄핵 정국 당시 개신교계 단체 세이브코리아를 이끌며 한국사 강사 전한길씨 등과 함께 탄핵 반대 집회를 주도했던 인물이다.&lt;br&gt;&lt;br&gt;논란이 일자 양동근 소속사 조엔터테인먼트는 언론에 “정치적인 의도는 전혀 없다. 해당 교회나 목사와도 관련이 없다”며 “워낙 독실한 기독교 신자이다 보니 관련 행사들을 많이 참석하고 있을 뿐”이라고 해명했다.&lt;br&gt;&lt;br&gt;한편 아역 출신인 양동근은 가수 겸 배우로 활발하게 활동 중이다. 최근에는 넷플릭스 시리즈 ‘오징어 게임’ 시즌2, 3에서 용식 역으로 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남편 중요부위 절단한 50대 아내 ‘묵묵부답’…범행 도운 사위도 침묵</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/WBVYBEND7VCQ5PTSOG6SIJUA5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/WBVYBEND7VCQ5PTSOG6SIJUA5Y/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 06:45:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLKWHH3BCUTSLV5NFYCZT44PWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남편의 신체 중요 부위를 절단해 살해하려 한 혐의를 받는 50대 여성이 2일 구속 전 피의자 심문(영장실질심사)이 열리는 인천지법에 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;바람을 피운다고 의심해 남편의 신체 중요 부위를 절단한 50대 아내와 범행에 가담한 사위가 2일 구속 심사를 받기 위해 법원에 출석했다.&lt;br&gt;&lt;br&gt;살인미수 혐의로 체포된 A(57·여)씨와 존속살해미수 혐의를 받는 A씨의 30대 사위 B씨는 이날 오후 구속 전 피의자 심문(영장실질심사)이 열리는 인천지법에 들어섰다.&lt;br&gt;&lt;br&gt;이들은 모자와 마스크를 착용해 얼굴 노출을 피했고, 수갑이 채워진 두 손은 가리개로 덮은 모습이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCEWYOWHWNIC5KAISXYYL3LP5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 인천 미추홀구 인천지방법원에 장인어른의 중요 부위를 흉기로 절단해 살해하려 한 혐의를 받는 30대 사위가 구속 전 피의자 심문(영장실질심사)를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“범행한 이유가 무엇이냐” “피해자에게 미안하지 않은가” “혐의를 인정하느냐” 등의 취재진 질문에 A씨와 B씨는 아무런 답변도 하지 않았다.&lt;br&gt;&lt;br&gt;이날 영장실질심사는 오후 2시부터 박상훈 인천지법 당직 판사의 심리로 진행된다. 구속 여부는 오후 늦게 결정될 예정이다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 1시쯤 인천시 강화군 화도면의 한 카페에서 남편 C(58)씨의 신체 중요 부위를 흉기로 잘라 살해하려 한 혐의를 받고 있다. B씨는 C씨를 끈과 테이프로 결박하는 등 A씨 범행을 도운 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨와 B씨는 C씨가 잠들어 있던 카페에 몰래 들어가 범행을 했다. C씨는 당시 혼자 술을 마시고 자고 있었다. B씨가 끈과 테이프 등으로 C씨를 묶었고, C씨는 별다른 저항도 못한 채 누운 자세로 변을 당했다고 한다.&lt;br&gt;&lt;br&gt;A·B씨는 범행 후 C씨를 내버려두고 현장을 떠났다. 이후 C씨는 결박을 풀고 건물 밖으로 나가 마침 인근을 지나던 택시를 세우고 119에 연락해 달라고 도움을 요청했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “남편의 외도가 의심돼 범행했다”는 취지로 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전기료 나오니 경비실 선풍기 치워라”…70대 입주민의 숨 막히는 민원</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/K56S6GSJI5FLFFLG65KUP42Q4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/K56S6GSJI5FLFFLG65KUP42Q4U/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 06:19:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2FY62LWTRBDHI7NRJ67C5JBDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 공개된 경비원 호소문./당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국에 폭염 특보가 발효된 가운데 경기 부천의 한 아파트 입주민이 경비원에게 선풍기를 치우라고 요구해 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난 1일 온라인 중고거래 플랫폼 ‘당근’의 동네생활 게시판에는 “○○마을 미쳤나요?”라는 제목으로 엘리베이터 안에 부착된 호소문 사진이 올라왔다. 이 호소문에는 ‘경비실에 에어컨도 없는 데 더운 날씨에 선풍기 튼다고 선풍기 치우라는 주민이 계신다. 경비원이 근무할 수 있는 최소한의 여건을 만들어 주세요’라고 적혀 있다. &lt;br&gt;&lt;br&gt;이 아파트 주민이라고 밝힌 작성자는 “제발 비인간적인 행동은 하지 말자”며 “체감온도 40도가 넘어가고 이 아파트는 구축이라 경비실은 끔찍하게 덥다”고 했다. 이어 “엘리베이터 호소문을 보고 충격받았다. 제발 사람답게 살자”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “저희 아파트 경비원들이 연로하시지만 불철주야 열심히 일하신다. 가만히 앉아서 바람만 쐬는 분들이 아니다. 숨 막히는 공간에서 조금의 바람을 쐬겠다는 데 그게 그렇게 문제인 건지 이해가 가지 않는다”고 했다. &lt;br&gt;&lt;br&gt;이 아파트 관리사무소 측은 JTBC 사건반장에 “70대 주민이 전날 관리소에 와서 ‘경비실에서 선풍기도 틀어놓고 에어컨도 틀어놓고 있다. 그렇게 하면 공동 전기료가 얼마나 나오겠냐’며 항의했다”고 사정을 설명했다. 그러나 입주민의 항의와는 달리 경비실에는 에어컨이 설치돼 있지 않았고 선풍기 2대만 가동된 상황이었다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KR64S2UABBWDECFZ5KUL2JXDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천 아파트 입주민이 '경비실 선풍기를 치우라'고 요구해 논란이 된 가운데, 다른 입주민이 붙인 쪽지. /당근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 사연이 알려지자 다른 주민들은 무리한 요구를 한 입주민을 비판하는 한편 경비원들에게 응원을 보냈다. 이후 승강기에는 “경비실은 단순한 휴게 공간이 아니라 경비 선생님들이 근무하는 업무 공간이다. 최소한의 근무 환경을 보장받는 것은 배려이기 전에 기본이다. 갑질하지 말고 사람답게 살자. 경비 선생님들 늘 감사합니다”라는 내용의 쪽지가 붙기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>일본제철 강제징용 손배소 1심 승소…손자인 ‘현직 판사’가 직접 나섰다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/02/MFBFG47C55F2BFN544ZTOGYJSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/02/MFBFG47C55F2BFN544ZTOGYJSM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 05:24:57 +0000</pubDate>
+      <content:encoded>현직 판사가 강제징용 피해자인 할아버지 측을 대리해 낸 손해배상 청구 소송 1심에서 승소했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZNZRZIOFZE47JEH7UJYA5XLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법, 서울고법. /박강현 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사211단독 김승곤 부장판사는 최근 강제징용 피해자 A씨의 아들이 일본제철을 상대로 낸 손해배상 소송에서 원고 승소로 판결했다. 김 부장판사는 “일본제철은 1억원을 지급하라”고 선고했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “강제 동원의 경위, 고통받은 시간, 당시의 환경과 억압으로 입은 육체·정신적 피해의 정도, 현재까지 책임을 부정하고 있는 일본제철 측의 태도 등을 종합적으로 고려하면 위자료는 1억원이 상당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 소송은 A씨의 손자인 현직 판사가 소송 대리인으로 참여해 화제를 모았다. 현직 판사라도 배상 청구액이 1억원 이하이고, 4촌 이내 친족 관계인 경우 등 일정한 법적 요건을 충족하면 법원의 허가를 받아 소송 대리를 맡을 수 있다.&lt;br&gt;&lt;br&gt;A씨는 1944년 4월 일본 후쿠오카현의 일본제철 작업장에 강제로 동원돼, 임금도 제대로 받지 못한 채 휴가나 개인 행동이 금지된 열악한 환경에서 일하다 해방 직후 귀국했다. A씨는 2015년 세상을 떠났고, 그의 아들이 2019년 3월 일본 제철을 상대로 1억원을 청구하는 손해배상 소송을 제기했다. &lt;br&gt;&lt;br&gt;이에 일본제철 측은 “강제 동원 피해자들의 배상 청구권을 인정한 2012년 대법원 파기환송 판결 이후 3년이 지나 소송이 제기됐으므로 소멸시효가 완성됐다”고 주장했다. 민법상 손해배상 청구권은 손해를 안 날로부터 3년, 불법행위를 한 날로부터 10년이 지나면 소멸한다고 규정한다.&lt;br&gt;&lt;br&gt;하지만 이 사건 재판부는 손해배상 청구권의 기산점을 2012년이 아닌, 대법원 전원합의체가 강제징용 피해자의 청구권을 최종 인정한 2018년 10월 30일 확정 판결 시점으로 봤다. 김 부장판사는 “2018년 10월 30일 대법원 판결이 선고된 날로부터 3년 이내에 소를 제기했다”며 “권리 행사의 상당한 기간 내 소가 제기됐다”고 했다. &lt;br&gt;&lt;br&gt;일본제철 측이 이 판결에 불복해 항소하면서, 2심 판단을 받게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“드라마에서 튀어나온 줄”… 조정석 닮은 대학병원 의사 화제</title>
       <link>https://www.chosun.com/national/national_general/2025/08/02/VXLMYBHCRFCX7NKIE3QTECIB7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/VXLMYBHCRFCX7NKIE3QTECIB7E/</guid>
@@ -914,42 +950,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRITYOAKRBDVLBDRWFD5XBKGUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 ‘왕좌의 게임’에서 괴력의 검사(劍士) 역을 맡았던 하프토르 비요르손이 작년 9월 UAE(아랍에미리트) 두바이에서 열린 스트롱맨 대회에서 우승한 뒤 트로피를 치켜들며 포즈를 취하고 있다./게티이미지코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;키 2m가 넘는 거구에 얼굴만 한 팔뚝, 바위산 같은 어깨로 인간의 한계를 들어 올린 사나이가 있다. 아이슬란드 출신 하프토르 비요르손(37)은 지난 26일 독일에서 열린 ‘아이젠하르트 블랙 대회’에서 데드리프트 505㎏을 성공하며 세계 기록을 새로 썼다. 종전 기록은 2016년 에디 홀(37·영국)이 세운 500㎏이었다.&lt;br&gt;&lt;br&gt;데드리프트는 바닥에 놓인 바벨을 허리 높이까지 들어 올리는 종목이다. 이날 비요르손은 침착하게 자세를 잡더니 거대한 철덩이를 번쩍 들어 올렸다. 심판이 성공을 선언하자 폭죽이 터졌고, 그는 “내가 세계에서 가장 강하다(I’m the strongest)!”라고 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZYVZWIAEFIFFKCWWJQPE4D4TY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;하프토르 비요르손이 지난 26일 데드리프트 505㎏을 성공하는 모습./유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;데드리프트는 스쿼트(바벨을 어깨에 얹고 앉았다 일어나는 운동), 벤치프레스(누워서 바벨을 들어 올리는 운동)와 함께 ‘파워리프팅’이라 불리는 스포츠의 세 종목 중 하나다. 세 종목 기록 합계가 500㎏을 넘기면 ‘3대 500’이라 부르며 “힘이 대단하다”는 평가와 함께 피트니스 상급자로 인정받는다. 그런데 비요르손은 데드리프트 한 종목에서만 500㎏을 넘어섰다. 그가 들어 올린 505㎏은 수컷 북극곰의 평균 체중에 가까운 무게다. 키 205㎝, 체중 145㎏인 그는 데드리프트 505㎏ 외에도 스쿼트 460㎏, 벤치프레스 250㎏을 기록, ‘3대 운동’ 최고 기록 합계 1215㎏을 자랑한다. ‘3대 1200’의 사나이인 셈이다.&lt;br&gt;&lt;br&gt;그의 라이벌 에디 홀은 2016년 세계 데드리프트 챔피언십에서 500㎏을 들어 올리며 인류 최초로 ‘반(半) 톤’을 들어 올린 선수가 됐다. 당시 홀은 리프팅 직후 실신했고, 코피를 쏟으며 의료진 부축을 받아 퇴장했다. 이후 스트롱맨 세계는 ‘500㎏의 벽’을 깨기 위한 경쟁 구도로 재편됐고, 비요르손이 영광의 주인공이 됐다.&lt;br&gt;&lt;br&gt;비요르손은 HBO 인기 드라마 ‘왕좌의 게임’에 ‘그레고르 클리게인’, 일명 ‘거산(巨山·The Mountain)’ 역으로 출연하며 유명세를 얻었다. 원작 소설 속 클리게인은 키가 2m40㎝나 되는 괴력의 기사로, 드라마 제작진은 그에 걸맞은 체격과 카리스마를 갖춘 배우를 찾는 데 애를 먹었다. 시즌3까지 다른 배우가 역할을 맡았지만 위압감이 부족하다는 지적이 있었다. 그러나 시즌 4부터 합류한 비요르손은 스트롱맨 챔피언다운 존재감을 화면에 구현하며 전 세계 팬들에게 강렬한 인상을 남겼다.&lt;br&gt;&lt;br&gt;10대 시절 그는 아이슬란드 농구 리그에서 센터로 활약하던 유망주였다. 하지만 심각한 발목 부상으로 2007년, 19세의 나이에 은퇴했다. 그때 그에게 손을 내민 이가 아이슬란드의 전설적인 스트롱맨 마그누스 베르 마그누손(62)이었다. 마그누손의 지도 아래 비요르손은 ‘괴력의 세계’에 입문했고, 2011년 아이슬란드 스트롱맨 대회 우승을 시작으로 2018년 세계 스트롱맨(WSM) 챔피언 자리에 올랐다. 그는 유럽 스트롱맨 5회 우승, 아놀드 스트롱맨 클래식 3연패 등 세계 주요 대회를 석권하며 명실상부 최강자 반열에 올랐다. 2020년 5월 복싱 선수로의 전향을 선언한 그는 체중을 64kg 감량했고, 2022년 오랜 라이벌 에디 홀과 링에서 맞붙어 두 차례 다운을 빼앗으며 심판 전원일치 판정승을 거뒀다. 이후 그는 다시 스트롱맨 무대로 복귀했다.&lt;br&gt;&lt;br&gt;그는 505kg을 들며 데드리프트 신기록을 세운 뒤 소셜미디어에 “역사가 다시 쓰였다”라는 글을 남기며 기쁨을 표현했다. 오는 9월 열리는 ‘2025 세계 데드리프트 챔피언십’에선 510㎏에 도전할 계획이다. 그는 현지 매체와 인터뷰에서 “더 강해지고, 더 나아진다는 느낌이 정말 좋아 멈출 수가 없다”고 했다. 이어 “최고의 코치가 훈련을 도와준다고 챔피언이 되는 게 아니다”라며 “세계 최강이 되는 길은 결국 나 자신에게 달렸다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 문화체육관광부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/01/GZ6TNJSZ3JB75OGPZQC2EV54LA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/01/GZ6TNJSZ3JB75OGPZQC2EV54LA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;문화체육관광부&lt;/b&gt;◇과장급 전보▷장관비서실장 윤용한&lt;br&gt;&lt;br&gt;▲&lt;b&gt;울산MBC&lt;/b&gt;▷경영기술국장 옥민석▷광고사업국장 이상욱▷미래전략추진단장 목주승&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선일보&lt;/b&gt;▷데이터광고팀장 방범진▷AD영업3팀장 김환기&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김광식 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/01/RBM2WLKI25G4HBH42OTSIYT3GA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/01/RBM2WLKI25G4HBH42OTSIYT3GA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김광식&lt;/b&gt; 별세, &lt;b&gt;김희성&lt;/b&gt; 케이엔랩 대표·&lt;b&gt;김학준&lt;/b&gt; L&amp;amp;K 폴리머스 대표 부친상, &lt;b&gt;한정희&lt;/b&gt; 대한무역투자진흥공사 경제협력실장 장인상, &lt;b&gt;이경미&lt;/b&gt; 시부상, &lt;b&gt;김지원&lt;/b&gt; 조부상, &lt;b&gt;한성민&lt;/b&gt;·&lt;b&gt;한수영&lt;/b&gt; 외조부상=30일19시34분 신촌세브란스병원, 발인 2일5시20분, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김남희&lt;/b&gt; 별세, &lt;b&gt;조기송&lt;/b&gt; 前 강원랜드 대표·&lt;b&gt;조준&lt;/b&gt; 강릉 조소아과의원 원장·&lt;b&gt;조건&lt;/b&gt; 대연금속 대표·&lt;b&gt;조승주&lt;/b&gt; 조선대 의대 교수 모친상, &lt;b&gt;허태경&lt;/b&gt;·&lt;b&gt;현용숙&lt;/b&gt;·&lt;b&gt;양연향&lt;/b&gt;·&lt;b&gt;윤호정&lt;/b&gt; 시모상=31일0시50분 서울아산병원, 발인 2일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이대순&lt;/b&gt; 별세, &lt;b&gt;신범상&lt;/b&gt;·&lt;b&gt;신윤상&lt;/b&gt;·&lt;b&gt;신용상&lt;/b&gt; 한국금융연구원 자본시장연구실 선임연구위원 모친상=30일12시11분 서울아산병원, 발인 1일13시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장규영&lt;/b&gt; 별세, &lt;b&gt;백현숙&lt;/b&gt; 남편상, &lt;b&gt;장민석&lt;/b&gt; 조선일보 스포츠부 차장대우 부친상, &lt;b&gt;박주영&lt;/b&gt; 시부상, &lt;b&gt;장윤&lt;/b&gt; 조부상=31일10시45분 진주경상대병원, 발인 2일7시, (055)750-8448&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장병화&lt;/b&gt; 국가유공자 별세, &lt;b&gt;송창희&lt;/b&gt; 남편상, &lt;b&gt;장창규&lt;/b&gt;·&lt;b&gt;장인규&lt;/b&gt; 홍익대 교수·&lt;b&gt;장형규 &lt;/b&gt;부친상=30일20시15분 삼성서울병원, 발인 2일5시, (02)3410-6901&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정달명&lt;/b&gt; 별세, &lt;b&gt;김인규&lt;/b&gt; 세무법인 충무 대표세무사·&lt;b&gt;김인숙&lt;/b&gt;·&lt;b&gt;김연규&lt;/b&gt; 파주 세계로교회 목사·&lt;b&gt;김명님&lt;/b&gt;·&lt;b&gt;김인순&lt;/b&gt;·&lt;b&gt;김준효&lt;/b&gt;·&lt;b&gt;김양규&lt;/b&gt; 모친상, &lt;b&gt;양동길&lt;/b&gt;·&lt;b&gt;오정남&lt;/b&gt;·&lt;b&gt;홍순학&lt;/b&gt; 조선일보 CS본부 신송도 센터 대표 장모상, &lt;b&gt;유정숙&lt;/b&gt;·&lt;b&gt;김순례&lt;/b&gt;·&lt;b&gt;김복희&lt;/b&gt; 시모상=31일1시38분 인천 남동스카이장례식장, 발인 2일6시, (032)424-1900&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘매일 제복 입고 출근합니다’ 도슨트 된 해군 예비역</title>
-      <link>https://www.chosun.com/national/people/2025/08/01/GS2SC423W5APHO7R5RDS274CDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/01/GS2SC423W5APHO7R5RDS274CDA/</guid>
-      <dc:creator>장윤 기자, 곽주영 인턴기자(이화여대 국어국문학 졸업)</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>“그를 조타실에서 마지막으로 봤다는 말을 듣고 다이버들을 이끌고 시신을 수색했습니다. 배를 인양하기 전 꼭 찾아야 했어요.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEXBUG46DVDRFN4ARWVFYN37HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 서울 마포구 서울함공원의 서울함에서 이해정 전 대령이 관람객들에게 해군과 함정 등에 대해 설명하고 있다. 그는 2017년부터 서울함공원의 도슨트로 활동하고 있다. /곽주영 인턴기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 오후 4시 박정민(68) 예비역 대령이 2차 연평해전의 영웅 고(故) 한상국 상사 시신을 수습하던 당시를 회고하자 마포구 서울함공원을 찾은 관람객들이 숙연한 표정을 지었다. 전국에 호우주의보가 발령된 이날 빗소리가 내부를 가득 채웠지만 관람객 스무 명은 박 전 대령 말에 귀를 기울였다. 1980년 임관해 31년간 해군 장교로 복무한 박 전 대령은 올해로 9년 차 서울함공원 도슨트(관람객들에게 전시물을 설명하는 안내인)다. &lt;br&gt;&lt;br&gt;서울함공원은 2016년 11월 망원한강공원에 개장했다. 해군으로부터 무상 대여받은 퇴역 함정 ‘서울함(FF-952)’ ‘참수리급 고속정(PKM-285)’ ‘돌고래급 잠수함(SSM-053)’ 내부를 관람할 수 있다. 퇴역 군인 박 전 대령, 이해정(66) 전 대령은 2017년 5월부터 도슨트로 합류해 지금까지 매 주말 관람객들을 안내한다. “내가 몸담은 해군을 홍보하는 데에 자부심을 느낀다”는 이들은 해군본부 승인을 받아 제공받은 해군 정복을 매일같이 입는다. &lt;br&gt;&lt;br&gt;“해군은 경례할 때 팔 각도가 60도가 아닙니다, 함정 안이 좁아서 45도로 해야 해요. 이걸 ‘함상 경례’라고 부릅니다.” 이 전 대령의 각 잡힌 경례 동작에 초등학생 관람객들이 팔을 눈썹에 가져다 댔다. 관람객 정의정(42)씨는 “군함 내부를 자기 집처럼 돌아다니는 예비역 도슨트들의 생생한 설명에 바다에서 우리나라를 지키는 해군과 한결 가까워진 기분”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저속노화, 고속으로 정책화해… 시민들 건강해지게 도울 것”</title>
-      <link>https://www.chosun.com/national/people/2025/08/01/QUV7D6W64FBX7ONYEMBOMHAOOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/01/QUV7D6W64FBX7ONYEMBOMHAOOE/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7ZBD7RRPZF7NK4MLNFL4XGND4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관으로 위촉된 정희원 박사. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“서울은 압력솥 같습니다. 시민들은 정신이 없고 스트레스가 터질 것 같아요. 건강을 해치는 생활 습관에 빠지기 쉽죠. 먹고 마시는 운동장이 이미 기름지고 짠 음식으로 기울어져 있습니다. 서울 시민이 더 건강해질 수 있게 돕고 싶습니다.” &lt;br&gt;&lt;br&gt;‘저속 노화’ 연구로 알려진 정희원(41) 박사가 31일 서울시 초대 건강총괄관이 됐다. 다양한 시민 건강 정책을 제안하는 국장급(3급) 자리다. 비상근직으로 시청에는 한 달에 2번 이상 출근하면 된다.&lt;br&gt;&lt;br&gt;정 박사는 서울대 의대를 졸업하고 카이스트 의과학대학원에서 박사 학위를 받았다. 지난 6월까지 서울아산병원 노년내과 교수로 일했다. ‘느리게 나이 드는 습관’ 등 저서와 자신의 유튜브 채널 등을 통해 “잘못된 생활 습관이 노화를 앞당긴다”고 주장해왔다. 천천히 늙는 데 도움이 되는 식단과 운동법 등도 소개했다. &lt;br&gt;&lt;br&gt;억대 연봉을 받던 그에게 월급 336만원인 서울시 공무원을 택한 이유를 물으니 “그동안 책도 내고 소셜미디어에 글도 썼지만 한계를 느꼈다”며 “결국은 사회가 바뀌어야 한다고 생각해 서울시 제안에 흔쾌히 응했다”고 말했다. 정 박사는 “서울시는 재정이 넉넉하고 정부 부처보다 조직이 빠르다”며 “저속 노화를 고속으로 정책화하려고 한다”고 했다. 서울시와는 2023년 시청에서 한 강연이 인연이 됐다고 한다. &lt;br&gt;&lt;br&gt;정 박사는 “우선 아이들이 당분(糖分)과 가공식품을 덜 섭취할 수 있는 환경을 만들고 싶다”고 했다. “서울 시내 마트들이 당분이 많이 든 가공식품을 아이들 키보다 높은 곳에 진열하도록 유도하는 정책을 검토하고 있어요. 아이들이 자연스럽게 건강한 음식을 선택할 수 있게요. 식품 업체도 만나겠습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>장소나 기간 제한 없이 재택근무… “자유롭게 해외서도 일해요”</title>
