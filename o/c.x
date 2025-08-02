@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘김건희 집사게이트’ 조영탁 IMS 모빌리티 대표, 특검 출석...“외부 개입 없었다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/02/G5HQZGJERZDSDF4IFEZXFPQDX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/02/G5HQZGJERZDSDF4IFEZXFPQDX4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 02:23:30 +0000</pubDate>
+      <content:encoded>김건희 여사와의 친분을 내세워 각종 투자를 유치했다는 의혹을 받는 조영탁 IMS 모빌리티 대표가 2일 특별검사 사무실에 출석했다. 김 여사 관련 의혹을 수사하는 민중기 특검팀은 이날 오전 10시부터 조 대표에 대한 조사를 진행한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWNUJRVPHBJM3LXW76QS7LCQ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'김건희 집사 게이트' 의혹에 연루된 혐의를 받는 조영탁 IMS모빌리티 대표가 조사를 받기 위해 2일 오전 서울 종로구 김건희 특검팀(특별검사 민중기) 사무실로 출석하던 중 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대표는 이날 오전 9시 26분쯤 특검 사무실 앞에 도착해 “성실히 조사에 임하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 “184억 투자는 정당하게 이뤄졌다고 생각하느냐”고 묻는 취재진 질문에, 조 대표는 “IMS 모빌리티는 대한민국 모빌리티소프트에서 우수한 경쟁력을 가지고 있고, 184억뿐만 아니라 지금까지의 700억 투자에 어떠한 외부도 개입하지 않았다”고 했다. 또 “모든 투자는 IMS의 기술력과 150여 명의 젊은 임직원들이 만들어낸 결과라고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “김예성씨에게 46억원이 흘러갔다는 얘기가 있다”는 질문에 대해서는 “조사에서 대답하겠다”며 말을 아꼈고, “혹시 김건희 여사와의 청탁을 이용한 것 아니냐”는 말에는 대답하지 않았다.&lt;br&gt;&lt;br&gt;IMS 모빌리티는 ‘김건희 집사’로 불리는 김예성씨가 설립에 관여한 것으로 알려진 렌터카 업체다. 이 회사는 윤석열 정부 2년 차였던 2023년 6월 오아시스에쿼티파트너스 펀드를 통해 184억원을 투자받았고, 이 중 46억원은 김예성씨의 실소유 회사인 이노베스트코리아의 IMS모빌리티 지분 매입에 사용됐다. 투자사에는 HS효성, 카카오모빌리티 등 대기업이 포함돼 있었다.&lt;br&gt;&lt;br&gt;특검은 HS효성, 카카오모빌리티 등이 공정위 제재 등을 피하기 위해 뇌물성으로 협찬한 게 아닌지 의심하고 있다. 또한 이노베스트코리아에 흘러들어간 자금이 김 여사 측에 갔는지도 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 같은 날 오전 10시부터 오아시스에쿼티파트너스 대표 민모씨도 소환해 조사한다. 이날 9시 45분쯤 특검에 모습을 드러낸 민씨는 “184억원 투자는 정당하게 이뤄졌다고 보느냐” “김예성씨가 차명으로 챙긴 46억원은 어디로 흘러들어갔다고 보느냐”는 등 취재진 질문에 아무런 답을 하지 않고 출석했다.&lt;br&gt;&lt;br&gt;특검은 전날 IMS모빌리티와 오아시스에쿼티파트너스, HS효성, 김예성씨의 아내 정모씨의 주거지 등 총 8곳을 압수수색하는 등 관련 수사를 확대 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>손흥민 ’10년만의 헤어질 결심’ ... 토트넘 떠나 LA행?</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/KF52LSPIBBHFFNFBCAXYY6MRF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/KF52LSPIBBHFFNFBCAXYY6MRF4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 01:21:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6BCYNGZFLOEFX6DCKZSM3SCLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 2일 서울 영등포구 IFC TWO The Forum에서 열린 2025 쿠팡플레이 시리즈 토트넘 프리 기자회견에서 취재진 질문에 답하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;잉글랜드 프로축구 토트넘 홋스퍼의 주장 손흥민이 10년간 뛰어온 팀을 떠난다.&lt;br&gt;&lt;br&gt;손흥민은 2일 서울 영등포구 IFC 더포럼에서 열린 2025 쿠팡플레이 시리즈 기자회견에서 “한 가지 말씀드려야 할 부분이 있다. 어떻게 보면 쉽지 않은 결정이었던 거 같다”며 “올여름 팀을 떠나기로 결정했다”고 밝혔다. &lt;br&gt;&lt;br&gt;향후 거취 등의 질문에는 “결정되면 말씀드리겠다. 행선지에 대해 이 자리에서 말하려 온 것은 아니다”라고 했다. 그러면서도 “앞으로의 거취는 내일 경기 이후 확실해지면 이야기해드리겠다. 월드컵이 가장 중요하다. 내 마지막 월드컵이 될 수도 있다”며 “내가 모든 걸 쏟아부을 환경이어야 한다고 생각했다. 또 내가 행복하게 축구할 수 있는 게 가장 중요한 기준인 것 같다”고 했다.&lt;br&gt;&lt;br&gt;팀을 떠나겠다고 결정한 이유에 대해 “한 팀에 10년 동안 있었던 건 나에게도 자랑스러운 일이지만 팀한테 하루도 빠짐없이 모든 걸 바쳤다”며 “유로파리그를 우승함으로써 제가 이룰 수 있는 것, 제가 할 수 있는 것을 다했다고 생각한 게 가장 컸다”고 했다. 이어 “다른 환경에서 축구를 하고 싶다고 내 안에서 이야기를 했다. 팀에서도 많이 도와주고 내 선택을 존중해줘서 너무나 감사하게 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4MBF4PBKVJ5BHL5FCBB6T7KCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 잉글랜드 프로축구 토트넘 토마스 프랑크 감독(왼쪽)과 손흥민이 2일 서울 영등포구 IFC 더포럼에서 열린 2025 쿠팡플레이 시리즈 기자회견에 참석해 기념 촬영하고 있다.  이날 손흥민은 기자회견에 앞서 별도의 발언을 통해 "올여름 팀을 떠나기로 결정했다"고 발표했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;손흥민은 “어려운 결정이었지만 10년 이상 있었던 만큼 변화가 필요한 시점이었다”며 “10년 전 영어도 잘 못하던 소년이었는데 이제 남자로 떠나게 돼 기쁘고, 작별이 적절한 시기가 있다고 생각하는데 이번이 적절하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;손흥민은 2015년 8월 독일 레버쿠젠을 떠나 토트넘에 입단하며 EPL에 진출했다. 토트넘 소속으로 통산 454경기 173골을 기록했다. 2021-2022시즌 리그 득점왕에 오르고 2024-2025시즌엔 유럽축구연맹(UEFA) 유로파리그 우승을 이끌었다.&lt;br&gt;&lt;br&gt;손흥민이 2021년 7월 맺은 두 번째 재계약 기간이 올해 여름까지다. 올해 1월 구단이 연장 옵션을 행사하며 2026년 여름까지 계약돼 있다. 이에 손흥민의 다음 행선지가 미국이나 사우디아라비아 리그일 것이라는 추측이 나오는 가운데, 미국 프로축구 메이저리그사커(MLS)의 로스앤젤레스FC(LAFC) 이적이 유력하다는 전망이 쏟아지고 있다.&lt;br&gt;&lt;br&gt;토트넘은 오는 3일 오후 8시 서울 월드컵경기장에서 뉴캐슬 유나이티드와 친선전을 치른다. 이번 쿠팡플레이 시리즈 방한 경기는 손흥민이 토트넘 선수로 뛰는 마지막 무대가 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GJRESQHF7ZPYDEE3B5TDC52SCY.jpg?auth=8cbcc68ba505b3827908a7c5e7026b5508617ac408530d341ce698ddb5987e9e&amp;smart=true&amp;width=3099&amp;height=2066" type="image/jpeg" height="2066" width="3099">
+        <media:description type="plain">&lt;YONHAP PHOTO-2461&gt; 올여름 토트넘 떠나는 손흥민
+    (서울=연합뉴스) 신현우 기자 = 잉글랜드 프로축구 토트넘 손흥민이 2일 서울 영등포구 IFC 더포럼에서 열린 2025 쿠팡플레이 시리즈 기자회견에 참석해 있다.
+    이날 손흥민은 기자회견에 앞서 별도의 발언을 통해 "올여름 팀을 떠나기로 결정했다"고 발표했다. 2025.8.2
+    nowwego@yna.co.kr/2025-08-02 11:07:57/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">신현우</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“이참에 죽으면…” 암 말기 동생 사망보험 가입해 2억 타내려 한 누나 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/ZVXMBC6KQBFMHKUBON3D7M57RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/ZVXMBC6KQBFMHKUBON3D7M57RI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 00:58:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQZ42TO4QRHEXMU6MPK3W7YDUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남동생이 위독하다는 사실을 알면서 보험에 가입해 수억원을 타내려 한 50대 여성이 2심에서 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사1부(심현근 부장판사)는 보험사기방지 특별법 위반 혐의로 기소된 A(51)씨에게 원심과 같은 징역 6개월에 집행유예 1년을 선고했다고 2일 밝혔다. 같은 혐의로 재판에 넘겨진 보험설계사 B(52)씨에게도 벌금 300만원의 원심 판단을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 동생 C씨가 혈변을 보고 배에 복수가 차는 등 위중하다는 것을 알고도 2023년 4월 4일 강원 원주의 집에서 B씨를 통해 보험에 가입한 혐의로 재판에 넘겨졌다. 이 보험은 C씨가 질병으로 사망할 경우 A씨가 2억원을 수령하도록 돼 있었다. &lt;br&gt;&lt;br&gt;A씨는 보험 가입에 유리하도록 C씨의 직업과 체중을 사실과 다르게 보험사에 알린 것으로 조사됐다. 또한 B씨와 “눈 뜨고 볼 수 없을 만큼 부었다고 하길래 내가 대판 해버림” “이참에 동생 죽으면 엄마도 그만 갈 길 갔음 좋겠어” 같은 내용의 문자를 나눈 것으로 파악됐다.&lt;br&gt;&lt;br&gt;C씨는 집에 방문한 행정복지센터 공무원과 보건소 소속 사회복지사, 간호사로부터 병원에 가기를 여러 차례 권유받았다. 그는 이에 따르지 않다가 같은 해 4월 22일 쓰러져 병원에 입원하면서 직장암 말기 판정을 받았으며 나흘 뒤 치료받다 숨졌다. &lt;br&gt;&lt;br&gt;이후 A씨는 보험사에 동생의 사망 보험금 지급을 요구했으나 보험 사기를 의심받아 실제 돈을 지급받지는 못했다. &lt;br&gt;&lt;br&gt;앞서 1심을 맡은 춘천지법 원주지원은 범행이 미수에 그쳐 재산상의 이익을 취하지 못한 점 등을 고려해 A씨에게 징역형 집행유예를 선고하고, B씨에게는 벌금형을 선고했다. A씨는 “동생이 건강 상태가 좋지 않다는 것은 알고 있었지만 곧 사망할 것이라고는 예견하지 못했다”며 판결에 불복했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 A씨가 보험 계약 체결 당시 직장암이라는 구체적인 병명까지는 아니더라도 동생의 건강이 매우 위험한 상황이었다고 인식한 것으로 봤다. 재판부는 “A씨는 보험 사고 발생의 개연성이 농후함을 인식하면서도 계약을 체결한 것으로 보인다”며 “망인의 건강 상태를 제대로 고지하지 않은 채 보험 계약을 체결한 후 보험금을 청구한 행위는 보험사기 방지법 구성 요건에 해당한다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이어지는 폭염에 온열 질환자 3000명 육박…서울서도 사망자 나와</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/HT6GO3USJZGGJF72LRU6XSNM3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/HT6GO3USJZGGJF72LRU6XSNM3E/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 00:22:57 +0000</pubDate>
+      <content:encoded>계속되는 폭염에 열사병, 열탈수 등 온열 질환자가 올 들어 3000명에 육박한 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEXD7T5ONNHBJLTF5HOHX44O5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 오후 부산 해운대해수욕장에서 시민들이 양산을 쓰고 걷고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 행정안전부 중앙재난안전대책본부(중대본)에 따르면, 지난달 31일까지 전국 온열 질환자는 2940명으로 집계됐다. 지난해 같은 기간 1207명보다 1733명 많은 것이다.&lt;br&gt;&lt;br&gt;같은 기간 온열 질환으로 사망한 사람은 18명으로 집계됐다. 지난달 31일에는 서울에서도 사망자가 나왔다. 이날 오전 5시 20분쯤 서울 관악구에 사는 80대 남성이 집에서 의식을 잃은 채 발견됐다. 신고를 받고 출동한 구급대원이 남성을 급히 병원으로 옮겼지만 결국 사망했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KCU42CAAFGXHATKGMCHJMZROU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더위에 가축 폐사도 이어지고 있다. 중대본에 따르면 지난달 31일까지 돼지 6만1719마리, 닭·오리 등 가금류 139만6701마리 등 가축 145만8420마리가 폐사했다. 양식 어류도 6만1657마리가 폭염에 죽었다.&lt;br&gt;&lt;br&gt;행안부는 지난달 25일 중대본 1단계를 가동하고 폭염 위기 경보를 ‘경계’에서 ‘심각’으로 상향해 폭염에 대응하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천공항 고속도로서 사고 수습중 2차 사고...2명 사망</title>
+      <link>https://www.chosun.com/national/regional/2025/08/02/S2Q4DK6AJZDRXNWGHILAIXXNAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/02/S2Q4DK6AJZDRXNWGHILAIXXNAQ/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 00:15:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZRFIG62KZFWRD5SXXATYQFLIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천공항고속도로에서 교통사고를 수습하던 운전자 2명이 뒤따라 달리던 차량에 치여 숨졌다.&lt;br&gt;&lt;br&gt;2일 인천경찰청 고속도로순찰대에 따르면 이날 오전 1시 57분쯤 인천시 중구 운북동 인천공항고속도로 금산나들목 인근에서 화물차 운전자 50대 A씨와 모닝 승용차 운전자 40대 B씨가 BMW 승용차에 치였다.&lt;br&gt;&lt;br&gt;이 사고로 A씨 등 2명은 심정지 상태로 병원으로 옮겨졌으나 숨졌다. 이들은 1t 화물차와 모닝 승용차가 추돌한 뒤 차에서 내려 사고를 수습하던 중이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “BMW 차량 운전자는 음주 운전은 아니었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아들아, 구속 얘기는 없다” 알려준 경찰 아빠… 대법 “공무상 비밀 누설”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/02/MWBS5VHWBREQ5AUNDHQQ5KOHSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/02/MWBS5VHWBREQ5AUNDHQQ5KOHSQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 01 Aug 2025 23:21:45 +0000</pubDate>
+      <content:encoded>경찰 간부가 아들에 대한 수사 자료를 보고 “구속 얘기는 없으니 걱정 마라”라고 알려준 것은 공무상 비밀 누설죄에 해당한다고 대법원이 판결했다. 수사 자료에 특정 내용이 포함되지 않았다는 사실도 수사기관 내부 비밀로 봐야 한다는 취지다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 공무상 비밀 누설 등 혐의로 기소된 전직 경찰 간부 A씨의 상고심에서 무죄를 선고한 원심 판결을 깨고 사건을 의정부지법에 돌려보냈다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 경기도 한 경찰서 청문감사관이던 2020년 아들이 사기 혐의로 피소된 사건이 자신이 근무하는 경찰서로 접수되자 사건 기록을 보고 수사 진행 상황을 아들에게 알려준 혐의로 기소됐다. 그는 검사의 수사 지휘서에 구속에 관한 내용이 없는 것을 확인한 뒤 아들에게 “구속영장이 발부되지 않았고, 검사 지휘 내용에도 구속 이야기가 없어 구속될 일은 없을 것이니 걱정 말라”고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 1·2심에선 무죄를 받았다. 1심 재판부는 “수사 지휘서에 구속 등 신병 처리에 대한 내용이 없기 때문에, ‘구속될 일 없을 것’이라고 한 건 수사 지휘서 내용을 누설한 것이라고 볼 수 없다”고 했다. 2심 판단도 같았다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “검사가 신병 처리에 대해 수사 지휘를 하지 않았다는 사실은 검사의 의견을 충분히 추단할 수 있는 정보”라며 판단을 뒤집었다. 대법원은 “수사 지휘서는 진행된 내용뿐 아니라 향후 수사 방향까지 가늠할 수 있게 하는 내부 문서”라며 “외부에 알려질 경우, 피고인이 검사가 사안을 얼마나 무겁게 여기고 있는지 추측하고 그에 맞춰 대응하는 등 수사에 장애를 초래할 위험이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EBA6JN3UIF6SNQWGK7CNVOZSU4.jpg?auth=41278a06ed7fe0539987472e3c0f67feaa1a5687887fea696f46de8d6d2374be&amp;smart=true&amp;width=5785&amp;height=3474" type="image/jpeg" height="3474" width="5785">
+        <media:description type="plain">서초구 대법원. /뉴스1 ⓒ News1 박세연 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박세연 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>8월 첫 주말, 무더위 계속…일요일 밤부터 전국에 비</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/Z5KCSUVQ4ZAOJPRXNJPXGL43UE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/Z5KCSUVQ4ZAOJPRXNJPXGL43UE/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 00:22:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCXBC7F6WHFA7IYV5AFPZLEVKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 폭염특보가 발효되는 등 무더위가 이어지고 있는  가운데 서울 세종대로 광화문광장 분수대를 찾은 아이들이 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8월의 첫 토요일인 2일에도 무더위는 이어진다. 서울은 35도, 대구는 37도까지 오르겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 전국에 폭염특보가 발효된 가운데, 체감 온도가 35도 안팎으로 올라 매우 덥겠다. 전국 예상 최고기온은 30~37도로 28~33도인 평년보다 높겠다.&lt;br&gt;&lt;br&gt;지역별 예상 낮 최고 기온은 서울 35도, 대전·광주·전주 36도, 강릉 34도, 대구 37도, 부산 33도, 제주 34도 등이다.&lt;br&gt;&lt;br&gt;대체적으로 전국에 가끔 구름이 많겠다. 경기 남부와 강원남부내륙·산지, 충남 남부, 충북 북부, 경북 북부내륙에는 0.1㎜ 미만의 빗방울이 떨어지는 곳이 있겠다. 경기 동부와 강원 내륙·산지, 전라 동부 내륙, 경상권 내륙에는 소나기가 내리는 곳이 있겠다. 예상 강수량은 세종과 충남 북부가 5㎜ 미만이고, 경기 동부, 강원 내륙산지, 대전충남 내륙, 전남 동부내륙, 대구, 경북남부내륙, 경남북서내륙 5~40㎜다.&lt;br&gt;&lt;br&gt;일요일인 3일에는 전국에 비가 오겠다. 오후부터 제주도에서 내리기 시작해 늦은 오후에는 충남 서해안과 전라권으로, 밤에는 동해안을 제외한 전국으로 확대되겠다. 비는 이튿날까지 이어질 것으로 전망된다.&lt;br&gt;&lt;br&gt;이틀간 예상 강수량은 서울·인천·경기·대전·세종·충남 50∼100㎜(많은 곳 120㎜ 이상), 광주·전남·부산·울산·경남 30∼100㎜(많은 곳 120㎜ 이상), 강원 내륙·산지, 충북, 전북, 북부를 제외한 제주도 30∼80㎜(많은 곳 100㎜ 이상), 대구·경북 20∼80㎜(많은 곳 100㎜ 이상)다.&lt;br&gt;&lt;br&gt;특히 3일 오후와 4일 오전 사이에는 돌풍·천둥·번개를 동반한 시간당 30㎜ 안팎의 매우 강한 비가 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;아침 최저 기온은 23~28도, 낮 최고기온은 31~36도로 예보됐다. 무더위가 이어지고, 열대야가 나타나는 곳도 많겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“유흥 성지 아닙니다” 밤이 두려운 해수욕장</title>
       <link>https://www.chosun.com/national/national_general/2025/08/02/SCR2ONOKN5BKHF6KG7FPSJXIYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/SCR2ONOKN5BKHF6KG7FPSJXIYM/</guid>
@@ -883,15 +958,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPGV7FACL5HVRDN35V43KZUNV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[우리 아이 이럴땐 어떻게?] 다른 아이 챙기면 우는 아이… 애정과 함께 칭찬해 주세요</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/08/01/Q2NFUOJ2FJE5BP3COTBZ7RNH44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/01/Q2NFUOJ2FJE5BP3COTBZ7RNH44/</guid>
-      <dc:creator>이윤선 배화여대 아동심리과 교수</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>Q. 만 2세 딸을 키우고 있어요. 최근 아이가 어린이집에 다니는데, 선생님이 다른 아이를 챙기면 저희 아이가 운다고 해요. 심지어 그 아이가 하원한 후에도 저희 아이는 기분이 안 좋아서 잘 놀지 못한다고 합니다. 선생님이 다른 아이 챙기는 걸 견디지 못하는 거 같은데, 어떻게 해줘야 할까요?&lt;br&gt;&lt;br&gt;A. 이 시기 아이는 아직 어린이집에 적응하는 중이에요. 낯선 환경에서 아이가 믿고 의지할 수 있는 사람은 선생님이죠. 그래서 선생님이 다른 친구에게 가버리면, 아이는 마치 엄마를 놓친 것처럼 불안해하고 슬퍼할 수 있어요.&lt;br&gt;&lt;br&gt;정서 표현의 발달은 기질에 따라 개인 차이가 크게 나타나는 발달 영역입니다. 특히 까다로운 기질의 영아가 순하거나 느린 기질의 영아보다 부정적인 정서 표현이 더 많이 나타나지요.&lt;br&gt;&lt;br&gt;영아는 낯선 환경에 대한 불안과 저항을 울음으로 나타낼 수 있습니다. 선생님이 관심을 주던 친구가 없어도 잘 놀지 못하는 건, 아이가 익숙한 선생님에게만 의지하고 있어서 놀이나 탐색 행동을 잘하지 않는다는 뜻이에요.&lt;br&gt;&lt;br&gt;부모와 강한 애착을 형성하고 있는 시기에 어린이집에 가는 것이기 때문에, 아이와 떨어져 있을 때 분리 불안이 나타날 수 있다는 것을 이해하고 다음과 같은 방법들을 시도해 보세요.&lt;br&gt;&lt;br&gt;첫째, 어린이집에 가기 싫어하거나 헤어지는 슬픔, 분노를 그대로 수용해 주는 거예요. ‘어린이집은 재미있는데 왜 자꾸 울어’가 아니라 ‘헤어지니까 슬프구나’ ‘낯설어서 무섭지’ 등의 표현이 적절합니다.&lt;br&gt;&lt;br&gt;둘째, 아이가 좋아하는 인형, 담요, 또는 엄마·아빠 사진을 갖고 가면 불안할 때 큰 위로가 됩니다.&lt;br&gt;&lt;br&gt;셋째, 헤어질 때는 짧고 따뜻하게 인사하세요. 부모가 망설이거나 불안한 모습을 보인다면 아이를 더 불안하게 만들 수 있어요.&lt;br&gt;&lt;br&gt;넷째, 하원 후엔 충분한 애정과 함께 아이의 하루를 칭찬해 주세요. “오늘 울었어?” 같은 질문보다는 “오늘 선생님이랑 그림 그리기를 했구나! 잘했어!”처럼 아이가 하루를 긍정적으로 기억하게 도와주세요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[매일매일 중국어 한마디] 한눈을 팔다</title>
       <link>https://www.chosun.com/national/nie/chinese/2025/08/01/SBONF76CB5D7DIHCV3QCMR5ODM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/01/SBONF76CB5D7DIHCV3QCMR5ODM/</guid>
@@ -901,44 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOCOW5M5RFFRHEHVZT6REE5VRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 콘센트에서 플러그를 뽑다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/01/QBXZHGZ7EFEAJOUKUZXTQXOE5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/01/QBXZHGZ7EFEAJOUKUZXTQXOE5M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVEZAPW5MBBDLGENXPEIDQ4DTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[법없이도 사는법]이미 구속된 尹, 다시 체포할 수 있을까 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/01/37ECHRTITJCUFFMSLMDBESCXVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/01/37ECHRTITJCUFFMSLMDBESCXVM/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:10:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYKQNBUQEFNRVG5B3LTXI47ZCQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(의왕=뉴스1) 이승배 기자 = 윤석열 전 대통령에 대한 체포영장이 발부된 31일 오후 경기 의왕시 서울구치소에서 호송차량이 나오고 있다.
-
-김건희 여사의 각종 의혹을 수사하는 김건희 특검팀(특별검사 민중기)은 소환조사에 계속 불응한 윤 전 대통령에 대해 체포영장을 발부 받아 오는 1일 특검보, 검사와 수사관을 대동하고 영장을 집행하기 위해 구치소를 방문할 예정이다. 2025.7.31/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘김건희 특검’이 1일 법원이 발부한 윤석열 전 대통령에 대한 체포영장을 집행할 예정입니다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 현재 서울구치소에 구속 수감중입니다. 이미 구속영장이 발부돼 수감중인 윤 전 대통령에 대해 또다시 체포영장이 발부된 이유는 무엇일까요.&lt;br&gt;&lt;br&gt;체포영장은 피의자가 죄를 범했다고 의심할 만한 상당한 이유가 있고, 소환 요구에 정당한 이유 없이 응하지 않거나 응하지 않을 우려가 있을 때 청구될 수 있습니다. 윤 전 대통령은 김건희 특검의 출석 요구에 불응하고 있어 영장이 발부된 것으로 보입니다. &lt;br&gt;&lt;br&gt;구속된 피의자의 경우에도 구속 중 수사기관의 소환에 불응하는 경우 체포영장을 발부받는 경우가 종종 있습니다. 2017년 국정농단 특검도 구속수감상태인 최서원(개명 전 최순실)씨에 대해 체포영장을 발부받았고, 2022년 대장동 사건 수사 당시 검찰도 구속상태였던 화천대유 대주주 김만배씨와 남욱 변호사에 대해 체포영장을 발부받아 집행했습니다. &lt;br&gt;&lt;br&gt;체포영장은 특검이 발부받았지만 교도소나 구치소에 수감된 사람에 대한 신병 책임은 1차적으로 교정 당국에 있습니다. 윤 전 대통령에 대한 체포영장 집행도 서울구치소 교도관이 하게 됩니다.&lt;br&gt;&lt;br&gt;특검은 이날 문홍주 특검보와 검사·수사관을 1명씩 서울구치소로 보내 체포영장을 집행할 예정이라고 밝혔습니다. 구치소 내에서 영장 집행은 교도관이 맡고 특검 소속 검사가 지휘하는 방식입니다. 문 특검보는 전날 브리핑에서 “실제로 구인할 생각이 있다”며 “건강에도 크게 문제가 없는 것으로 전해듣고 있다”고 밝혔습니다. &lt;br&gt;&lt;br&gt;문제는 윤 전 대통령이 집행에 불응할 경우의 대응입니다. 앞서 내란특검의 경우에도 지난달 중순 구속된 윤 전 대통령에 대한 강제구인을 시도했으나 불발된 적이 있습니다. &lt;br&gt;&lt;br&gt;당시 내란특검은 윤 전 대통령을 인치해 달라는 내용의 지휘를 서울구치소에 내렸지만 윤 전 대통령이 거부하면서 불발됐습니다. 그때는 윤 전 대통령에게 발부된 구속영장의 효력으로 강제구인이 가능하다고 집행을 시도했다면, 이번 ‘김건희 특검’은 구속영장 발부 범죄사실과 별도의 수사를 진행하고 있어 따로 체포영장을 청구해 발부받았다는 차이가 있습니다. &lt;br&gt;&lt;br&gt;서울구치소 측은 윤 전 대통령이 집행을 거부하고 있다고 밝혔습니다. 김현우 서울구치소장은 지난달 30일 더불어민주당 ‘3대 특검 종합대응 특별위원회’ 현장점검에서 “절차에 따라 본인에게 통보하고 출석하도록 면담을 통해 설득하고 담당 직원들에게 지시해 인치하도록 했지만 본인이 완강히 거부한 상태”라고 밝혔습니다. &lt;br&gt;&lt;br&gt;‘(구치소가)강제 인치를 하지 않고 있다’는 지적에 대해서는 “교도소 안전이나 질서 유지, 수용자 생명 보호나 자해 방지 등 사고에 대응하는 경우에만 강제력을 행사할 수 있도록 규정돼 있다”고 밝혔습니다. &lt;br&gt;&lt;br&gt;그러면서 윤 전 대통령의 경우처럼 당사자가 완강히 거부해 수사 등에 불응한 사례가 하루에도 몇 차례씩 있다고 밝혔습니다. 즉 당사자가 완강히 거부할 경우 집행을 맡은 구치소로서도 강제력을 동원해 수사기관에 데려오기는 어렵다는 취지입니다. &lt;br&gt;&lt;br&gt;따라서 윤 전 대통령이 끝내 집행을 거부할 경우 앞서 내란특검과 비슷하게 강제구인이 불발될 가능성이 높습니다. 구속영장의 기간 제한이 있던 내란특검은 결국 윤 전 대통령 조사 없이 그대로 기소를 했는데 김건희 특검의 경우 어떤 선택을 할 지 주목됩니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>약수터 물을 ‘월명수’로 팔아 20억… ‘신도 성폭행’ 정명석 또 재판행</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/31/JBYAWDV6RFAMTFMHRIOX5K5OWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/JBYAWDV6RFAMTFMHRIOX5K5OWQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 14:50:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56DAQD2RJJEJ5CJW3L6PJ25C6E.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;기독교복음선교회(JMS) 총재 정명석씨. /넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여신도 성폭행 사건으로 재판받고 있는 기독교복음선교회(JMS) 총재 정명석(80)씨가 이번에는 신도들에게 약수터 물을 판매한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;대전지검은 정씨와 JMS 전 대표 A씨를 먹는물관리법 위반 혐의로 기소했다고 31일 밝혔다. 정씨 등은 신도들 사이에서 ‘충남 금산군 JMS 월명동 수련원 약수터 물이 각종 병을 치료하는 효과가 있다’는 소문이 난 것을 이용해, 약수터 물에 ‘월명수’라는 이름을 붙여 판 혐의를 받는다. &lt;br&gt;&lt;br&gt;먹는물관리법에 따르면 누구든 허가받지 않고 물을 판매하거나 판매 목적으로 채취·제조·운반 등을 해선 안 된다. 그러나 정씨 등은 월명수의 거짓 효능을 적극적으로 홍보하며 판매에 열을 올렸고 이를 통해 20억 원 상당을 챙긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 정씨는 여신도를 성폭행한 혐의(준강간 등)로 지난 1월 대법원에서 징역 17년을 확정받아 복역 중이다. 현재는 다른 여신도들에 대한 성범죄 혐의로 추가 기소돼 대전지법에서 1심 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>학교 기숙사서 ‘샤워실 몰카’ 찍은 명문대생… 3시간 뒤 돌연 자수</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/31/YUL366RRTVFFRDT44NVH3YQTVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/YUL366RRTVFFRDT44NVH3YQTVU/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 13:28:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학교 기숙사 샤워실에서 여학생을 불법 촬영한 20대 남학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 성북경찰서는 20대 남성 A씨를 성폭력처벌법 위반(카메라 등 이용 촬영) 혐의로 검거해 조사 중이라고 31일 밝혔다. A씨는 전날 오후 6시쯤 서울 성북구 고려대 안암캠퍼스 기숙사 안 샤워실에 침입해 20대 여성을 휴대전화로 몰래 촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;같은 대학 기숙사에 거주하던 A씨는 범행 3시간 뒤 돌연 기숙사 관리인에게 자수했다. 이어 신고를 받고 출동한 경찰에게도 범행 사실을 털어놓으며 경찰서로 향했다. A씨 휴대전화에선 불법 촬영물이 확인된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 휴대전화에 대한 포렌식 검사를 의뢰한 상태다. 아울러 그 결과를 토대로 조만간 A씨를 입건해 구체적인 사건 경위를 파악할 방침이다. A씨는 입건 전 조사에서도 범행을 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“국민연금 2029년까지 흑자”…연금 개혁 후 기존 전망보다 2년 더 늦춰져</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/07/31/TDB46NNQUFACFF2D5AD5B3PV4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/07/31/TDB46NNQUFACFF2D5AD5B3PV4U/</guid>
@@ -946,27 +974,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 12:53:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3VCHQKJ65YHXAT2YPRQYPKB2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부에서 고객이 상담을 받기 위해 창구로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금 흑자 기조가 당초 전망보다 2년 늦춰진 2029년까지 유지될 것이라는 분석이 나왔다.&lt;br&gt;&lt;br&gt;31일 국민연금연구원의 ‘국민연금 중기재정전망(2025~2029)’ 보고서에 따르면, 2029년 국민연금 보험료 수지는 5조28억원 흑자로 전망됐다. 거둬들이는 보험료가 지급하는 연금급여액보다 많은 시점이 최소 2029년까지 유지될 것이라는 얘기다.&lt;br&gt;&lt;br&gt;이번 중기재정전망은 올해 3월 이뤄진 국민연금 개혁 이후 처음 나온 것이다. 연금개혁 이전에 이뤄진 중기재정전망에서는 2027년에 보험료 수지가 3조2536억원 적자로 전환될 것으로 내다봤었다.&lt;br&gt;&lt;br&gt;이번 전망에서는 연도별 흑자 규모가 2025년 12조5854억원, 2026년 10조188억원, 2027년 7조1268억원, 2028년 6조1584억원, 2029년 5조28억원으로 전망됐다.&lt;br&gt;&lt;br&gt;흑자 규모가 지속적으로 줄어드는 것은 급격한 저출생·고령화에 따른 생산활동인구 감소로 국민연금 가입자는 줄어들고, 수급자는 급증하면서 수입보다 지출이 많아지기 때문이다.&lt;br&gt;&lt;br&gt;여기에 더해 지난 3월 개혁으로 국민연금 보험료율(내는 돈)은 내년부터 8년간 매년 0.5%포인트씩 점진적으로 오르지만, 소득대체율(받는 돈)은 기존 41.5%에서 43%로 한 번에 올라 지출 폭이 더 커진다.&lt;br&gt;&lt;br&gt;향후 5년간 흑자 규모는 줄어들지만, 적립금을 굴려서 얻을 수 있는 투자운용수익과 이자수익 덕분에 한동안은 전체 수입이 지출보다 많아 기금 적립금은 계속 불어날 것으로 예측됐다. 이번 전망에서는 기금 적립금이 2025년 1272조3235억원에서 2029년 1554조8630억원으로 늘어날 것으로 예상됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“로또 당첨돼 가게 닫습니다”… 사장님 인사에 숨겨진 반전</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/31/B4JF2BTRMBCRZMMMB6FQBGWZJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/B4JF2BTRMBCRZMMMB6FQBGWZJM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 12:00:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPGNJQSG3VAK3EXCKT4MAF4UFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 온라인 커뮤니티에 올라온 인천 한 고깃집의 폐업 안내문. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 고깃집에 내걸린 폐업 안내문이 온라인에서 화제다. 점주는 “로또에 당첨됐다”는 유쾌한 인사를 건넸지만, 뒤늦게 문을 닫게 된 진짜 이유가 알려지며 네티즌들을 뭉클하게 만들고 있다.&lt;br&gt;&lt;br&gt;최근 여러 온라인 커뮤니티에는 인천 남동구 만수동 한 고깃집 입구에 붙은 안내문 사진이 올라왔다. 안내문에는 “로또 당첨돼서 6월 30일부로 영업을 종료합니다. 그동안 찾아주신 손님들 덕분에 즐겁게 영업할 수 있었습니다. 감사합니다. 항상 건강하시고 행복하세요”라는 마지막 인사가 적혀 있었다.&lt;br&gt;&lt;br&gt;처음 이를 본 사람들은 “사장님 너무 부럽다” “좋은 기운 받아 간다” “나도 복권 당첨돼서 회사 그만두고 싶다” 등의 댓글을 달며 부러워했다. 그러나 게시물이 여러 소셜미디어를 통해 확산하자 곧 반전이 드러났다. 점주가 직접 한 커뮤니티 글에 댓글을 달아 가게 문을 닫게 된 진짜 이유를 밝힌 것이다.&lt;br&gt;&lt;br&gt;사연은 이랬다. 점주는 암 진단을 받아 투병 중이었고 매장 운영과 치료를 병행하기 어려워 결국 고민 끝에 폐업을 결정했다. 로또에 당첨됐다는 말은 그동안 가게를 찾아준 손님들에게 걱정 끼치고 싶지 않다는 생각에 지어낸 이야기라고 한다. 손님들과 무거운 인사를 나누고 싶지 않았던 마음에 써 내려간 안내문이었다.&lt;br&gt;&lt;br&gt;진실을 알게 된 네티즌들은 “완치가 가장 값진 로또다. 꼭 쾌차하셔서 돌아오시길 바란다” “사장님 마인드가 너무 훌륭하셔서 꼭 완치하실 거다”라는 응원 글을 남겼다. 또 인근 주민이라는 네티즌들은 “사장님 내외가 너무 친절해서 자주 갔다. 빨리 나으셨으면 좋겠다” “이런 속사정이 있었다니 안타깝다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GPGNJQSG3VAK3EXCKT4MAF4UFM.jpg?auth=4842409cabe916cf3954610795caf4fff364384247534d45f90633d72a15cc36&amp;smart=true&amp;width=860&amp;height=624" type="image/jpeg" height="624" width="860">
-        <media:description type="plain">최근 온라인 커뮤니티에 올라온 인천 한 고깃집의 폐업 안내문. /온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김건희 특검 “내일 오전 9시 尹 체포영장 집행"</title>
-      <link>https://www.chosun.com/national/court_law/2025/07/31/FBJ6UW5YHVGI7KYLXI2E4JC3PA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/07/31/FBJ6UW5YHVGI7KYLXI2E4JC3PA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 05:31:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQNRAEIGXP65VVHUNYKIJPPJOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검은 31일 법원이 발부한 윤석열 전 대통령에 대한 체포영장을 오는 8월 1일 오전 9시에 윤 전 대통령이 수감 중인 서울구치소에서 집행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 내일 문홍주 특검보와 검사·수사관을 1명씩 서울구치소로 보내 체포영장을 집행할 계획이다. 구치소 내에서 영장 집행은 교도관이 맡게 되고, 특검 소속 검사가 지휘하는 방식이다. 문 특검보는 이날 브리핑에서 “실제로 구인할 생각이 있다”며 “건강에도 크게 문제가 없는 것으로 전해듣고 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 체포영장 집행에 응할 경우 법무부 교정본부 소속 호송차량을 타고 서울 광화문 KT빌딩 웨스트에 있는 특검 사무실로 출석하게 된다. 다만 윤 전 대통령은 현재 구속 수감돼 있는 만큼, 포토라인에 서지는 않을 전망이다. 특검은 삼부토건 이일준 회장, 이응근 전 대표 등 구속 수감된 피의자를 소환할 때 지상 1층 포토라인을 통과시키지 않고, 지하주차장 통로를 이용해 비공개 출석하도록 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 체포영장이 발부된 이날까지도 특검에 변호인 선임계를 내지 않았고, 체포영장에 대한 의견서도 법원에 내지 않았다고 한다. 법조계에선 윤 전 대통령이 체포영장 집행에 불응할 가능성이 높다고 본다. 문 특검보는 ‘윤 전 대통령이 최종적으로 체포영장 집행에 불응할 경우 계획이 있느냐’는 질문에 “여러 상황이 발생할 수 있는 만큼 추후에 말씀드리겠다”며 즉답을 피했다. 체포영장의 유효기간은 내달 7일까지라고 한다.&lt;br&gt;&lt;br&gt;한편 특검은 김 여사의 ‘문고리 3인방’으로 지목된 정지원 전 대통령실 행정관을 이날 소환해 조사하고 있다. 정 전 행정관은 전씨가 자신의 휴대전화에 ‘건희2’로 저장해놓은 인물이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
