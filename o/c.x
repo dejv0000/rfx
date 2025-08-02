@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“드라마에서 튀어나온 줄”… 조정석 닮은 대학병원 의사 화제</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/VXLMYBHCRFCX7NKIE3QTECIB7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/VXLMYBHCRFCX7NKIE3QTECIB7E/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 05:04:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGCARGOJEZBLFOEPFBZUA477ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조정석(왼쪽)과 원주세브란스기독병원 신생아중환자실 유영명 교수./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;tvN 드라마 ‘슬기로운 의사생활’의 출연 배우 조정석과 닮은 의사가 온라인 커뮤니티에서 화제가 되고 있다. &lt;br&gt;&lt;br&gt;지난달 원주 연세의료원 유튜브에는 원주세브란스기독병원 신생아중환자실(NICU) 유영명 교수의 일상을 조명하는 영상이 올라왔다. 영상에서 유 교수는 신생아 중환자실에서 어린 아기들을 돌보고, 눈물을 삼키는 한 아버지에게 위로를 건네기도 한다. 쉴 틈 없이 빡빡한 일정 속에서도 외래 진료 시 상냥한 말투로 보호자와 소통하는 모습도 포착됐다. &lt;br&gt;&lt;br&gt;특히 유 교수는 ‘슬기로운 의사생활’에서 배우 조정석이 연기한 이익준 교수와 비슷한 외모와 말투로 네티즌들의 눈길을 끌었다. 자전거를 타고 병원에 출근하는 모습도 드라마 속 캐릭터와 닮았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ION3QMQHSJHEDF4LXO5FE4OHEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조정석 닮은꼴로 화제가 된 원주세브란스기독병원 신생아중환자실(NICU) 유영명 교수./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLUQM67VBNFT7NZG6WYLSKS7KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조정석 닮은꼴로 화제가 된 원주세브란스기독병원 신생아중환자실(NICU) 유영명 교수./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유 교수는 ‘슬의생 조정석을 닮았다’는 PD의 말에 “몇 번 듣기는 했다”며 멋쩍게 웃었다. 그는 중환자실에서 퇴원하는 아기들을 보며 “정말 고맙다. 진짜로 아이들한테 고맙다. 아이들이 건강하면 울컥울컥한다. 그게 제가 사는 이유”라고 말했다. 이어 “레지던트 1년 차 때 떠나간 아이를 처음 보고 엄청나게 울었다”며 “부모 앞에서 울면 좀 그러니까 그때는 자리를 피한다”고 했다.&lt;br&gt;&lt;br&gt;이 영상이 뒤늦게 온라인 커뮤니티와 소셜미디어에 퍼졌고 “조정석이 페이크 다큐 콘셉트로 예능 찍은 줄 알았다” “현실판 이익준” “옆모습은 조정석 판박이다” 등의 네티즌 반응이 쏟아졌다. &lt;br&gt;&lt;br&gt;이외에도 유 교수에게 실제 진료를 받고 호전된 아이의 부모가 댓글을 달기도 했다. 한 네티즌은 “작고 작았던 저희 아기, 교수님 덕에 니큐에서 건강하게 무럭무럭 자랐고 세 달 만에 무사히 퇴원할 수 있었다. 지금은 그 아기가 옆에서 뽀짝뽀짝 걸어 다닌다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZLUQM67VBNFT7NZG6WYLSKS7KI.jpg?auth=f19b4d346f9149894fa87d3e38a38c9aa00eca42d7bea496690d19019b213684&amp;smart=true&amp;width=705&amp;height=526" type="image/jpeg" height="526" width="705">
+        <media:description type="plain">배우 조정석 닮은꼴로 화제가 된 원주세브란스기독병원 신생아중환자실(NICU) 유영명 교수./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘중간’이 없는 날씨…이번엔 폭염 뒤 폭우, 수도권 최대 150㎜ 많은 비</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/TSR54WKNXREEPGCXREPUGGOM5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/TSR54WKNXREEPGCXREPUGGOM5Q/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 05:08:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZKKW7RLZMBQTHTJXJLJYGUPWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 산청군 산청읍 모고마을이 폭우와 산사태로 인해 주택 등이 파손돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭우 뒤 폭염이 찾아온 지난달 중순과 달리 이번에는 폭염 뒤 폭우가 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;2일 기상청에 따르면, 한국을 덮고 폭염을 일으킨 북태평양고기압 조각이 약화하고 편서풍에 실려 북동진해 빠져나가고 있다. 현재 일본 도쿄 동북동쪽 해상을 지나는 9호 태풍 ‘크로사’와 가고사마 남쪽 해상에 있는 제20호 열대저압부가 북동진하고 있는 영향이다.&lt;br&gt;&lt;br&gt;기상청은 3일 일본 남동쪽 북태평양고기압 본체가 우리나라 남쪽으로 재차 세력을 확장하면서, 제8호 태풍 꼬마이가 남긴 다량의 수증기가 유입될 것으로 보고 있다. 여기에 꼬마이에서 약화한 온대저기압도 서쪽에서 동쪽으로 우리나라를 통과하면서 서해상에서 많은 수증기를 추가로 끌고 들어오겠다. 지속된 폭염에 서해상 해수면 온도도 예년보다 1~3도 높은 30도 안팎에 달해 서해상에서 대기로 공급되는 수증기량이 상당히 많은 상황이다.&lt;br&gt;&lt;br&gt;이런 가운데 북쪽에서는 티베트고기압에서 건조공기가 남하해 들어오겠다. 남쪽에서 올라오는 고온다습한 공기와 북쪽에서 내려오는 건조공기가 강하게 충돌하며 서쪽 지역과 남해안을 중심으로 3~4일 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;비는 3일 오후 남쪽에서 고온다습한 공기가 다량 유입되면서 서쪽 지역을 중심으로 시작돼 3일 밤에서 4일 오후 사이 특히 거세게 쏟아질 전망이다. 3일에서 4일로 넘어가는 밤에는 우리나라에 들어오는 고온다습한 공기의 가강수량(일정 크기 공기 기둥 내 수증기가 모두 응결했을 때 물의 양)이 70㎜안팎에 달하겠다. 떄문에 수도권과 충청, 호남, 경남남해안을 중심으로 시간당 50~80㎜씩 ‘극한 호우’가 쏟아질 때가 있겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKKOVF22YWW7UEHIHQ7YX4WF5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국에 강한 비가 내린 지난달 17일 오전 서울 광화문광장에서 시민들이 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3~4일 이틀간 총강수량은 광주·전남·부산·울산·경남 50∼150㎜, 수도권·대전·세종·충남·전북 50∼100㎜, 제주(북부 제외) 30∼100㎜(산지 최대 120㎜ 이상)일 것으로 예상된다. 전남, 부산경남 남해안과 지리산 부근은 최대 180㎜ 이상 쏟아질 것으로 보인다. 이 외에 서해5도·강원내륙·강원산지·충북·대구·경북엔 30∼80㎜, 울릉도와 독도엔 20∼60㎜, 강원동해안과 제주북부엔 10∼40㎜ 비가 오겠다. 기상청 관계자는 “단시간에 매우 강한 비가 내릴 것으로 예상되는 만큼 휴가철 하천이나 산간, 계곡 등 물가 주변의 야영이나 물놀이 시 각별한 주의가 필요하다”며 “비가 강해지는 시점에 야간 시간대가 포함돼 있기 때문에 이에 대한 대비도 중요하다”고 했다.&lt;br&gt;&lt;br&gt;6일과 7일에도 또 한 차례 호우가 예상된다. 이때는 북태평양고기압 가장자리를 타고 부는 고온다습한 서풍과 북쪽에서 내려오는 차고 건조한 공기가 충돌해 집중호우를 부르는 ‘띠 모양’ 비구름대가 만들어진다. 이 구름대가 중부지방에서 남부지방으로 우리나라를 훑고 지나며 많은 비가 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;비가 내린 이후에도 무더위는 계속될 것이라는 전망이다. 비가 거세게 쏟아지는 지역은 폭염특보가 해제되는 등 더위가 잠시 누그러질 수 있지만, 비가 그치면 곧바로 폭염 특보가 내려질 정도로 다시 기온이 오르겠다. 고온다습한 공기가 유입되는 상황이 지속하면서 체감온도도 높은 수준이 유지되겠고, 열대야도 지속되겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 정희원 건강총괄관과 남산길 점검…“남산 접근성 개선하겠다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/02/LEHPYV52KVAD3CDXCHUFJNWFMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/LEHPYV52KVAD3CDXCHUFJNWFMQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 04:48:34 +0000</pubDate>
+      <content:encoded>오세훈 서울시장이 2일 오전 정희원 서울시 건강총괄관과 함께 남산 북측숲길을 점검했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5XSPNIGZNGEVF3NC5GWTEWVVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 오세훈 서울시장과 정희원 서울시 건강총괄관이 남산길을 점검하고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 서울시는 지난달 28일 남산 정상에서 북측 순환로를 잇는 0.5㎞ 길이 계단길을 개방했다. 이 길을 이용하면 기존보다 40분 줄어든 20분 만에 남산 정상까지 오를 수 있다.&lt;br&gt;&lt;br&gt;오 시장은 북측숲길 입구에서 정상까지 걸으며 안전을 살폈다. 숲길에 조성된 쉼터 3곳도 찾아 운영 현황을 살폈다.&lt;br&gt;&lt;br&gt;이날 점검에는 지난 1일 임기를 시작한 정희원 서울시 건강총괄관이 동행했다. 건강총괄관은 시민 건강 정책을 제안하는 국장급 자리다. 정 총괄관이 처음으로 임명됐다. 정 총괄관은 ‘저속 노화’ 연구로 알려져 있다.&lt;br&gt;&lt;br&gt;두 사람은 정상에 도착해 아침 식사를 하며 시민들이 일상에서 쉽게 실천할 수 있는 건강 관리법과 저속 노화 방법을 논의했다.&lt;br&gt;&lt;br&gt;오 시장은 “앞으로도 시민 여러분들이 남산을 편하고 안전하게 이용할 수 있도록 접근성 개선 방법을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조상님 액운 쫓는 제물로 올린 현금 1억 가로챈 무속인</title>
+      <link>https://www.chosun.com/national/regional/2025/08/02/VKLOVQFPLZBRRHOJZ7MY5LE3ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/02/VKLOVQFPLZBRRHOJZ7MY5LE3ZU/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 04:05:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZRFIG62KZFWRD5SXXATYQFLIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제물로 올린 현금 1억원을 가로챈 무속인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;2일 광주광역시 광산경찰서에 따르면 A(36)씨는 인스타그램 등 사회관계망서비스(SNS)에서 고민 상담이나 신점을 봐주는 무속인으로 활동하고 있었다. 그는 SNS에서 만난 피해자 B(30) 씨가 ‘일이 잘 풀리지 않는다’며 고민을 털어놓자 액운을 쫓는 제사를 지내야 한다고 권유했다.&lt;br&gt;&lt;br&gt;‘조상님들이 성불하지 못하고 구천을 떠돌고 있으니 조상님들의 성불을 도와야 한다’고 속였다. 특히 조상들이 노잣돈으로 쓸 수 있도록 현금을 제물로 올려둬야 한다며 현금을 챙겨오도록 했다. 이 현금은 제사가 끝나면 다시 가져갈 수 있다고 안심시켰다. 이 말에 B씨는 지난달 3일 광주 광산구 평동 한 저수지 인근에서 A씨를 만났다.&lt;br&gt;&lt;br&gt;A씨는 B씨에게 현금 1500만원을 나무에 걸어두고 홀로 저수지 길을 따라가며 부적을 태우고 절을 하도록 했다. 그렇게 B씨가 부적을 태우며 멀어지자 A씨는 손쉽게 나무에 걸려있는 현금을 가로챘다. 부적을 다 태우고 돌아온 B씨가 현금이 사라진 것을 보고 경위를 묻자 A씨는 자신도 모르겠다며 오리발을 내밀 뿐이었다.&lt;br&gt;&lt;br&gt;결국 B씨의 신고로 수사에 나선 경찰이 수사망을 좁혀오자 A씨는 휴대전화를 끄고 도주했다. 이 과정에서 그는 경기도 시흥에서 피해자 C(36)씨에게 8500만원을 같은 수법으로 가로챈 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상 분석 등을 통해 A씨가 서울 강남구 한 호텔에 은신 중이라는 것을 파악하고 지난달 31일 체포했다.&lt;br&gt;&lt;br&gt;체포 과정에서 범죄 수익금 4000여만원도 압수했다. 나머지 6000여만원은 유흥과 미용 등에 사용했다고 A씨는 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 절도 혐의로 A씨에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무장관 “尹 민망하고 해괴한 작태…귀를 의심했다"</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/02/64JI2DWM3JBG5DLFIJQEBXAD6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/02/64JI2DWM3JBG5DLFIJQEBXAD6M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 02 Aug 2025 04:01:26 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관이 윤석열 전 대통령이 특검의 체포영장 집행을 속옷 차림으로 거부한 것에 대해 “귀를 의심했다“며 강한 유감을 표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QL3C42XBSYSSESIR7QRJGEG44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 1일 경기 과천 정부과천청사 법무부에서 열린 2025 하반기 신임검사 임관식에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 2일 오전 자신의 페이스북을 통해 “전직 검사, 검찰총장, 대통령이었던 사람의 행태라고는 믿을 수 없는 너무나 민망하고 해괴한 작태”라며 “입에 담는 것조차 부끄럽다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “윤 전 대통령이 지난 1월 한남동 관저에서 경호처를 동원해 법원이 발부한 체포영장을 무력화한 데 이어, 이번에는 일반인 신분으로 영장 집행을 무산시킨 것에 대해 강한 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 김건희 여사 관련 의혹을 수사 중인 민중기 특검팀은 전날 서울구치소에 수감 중인 윤 전 대통령의 체포영장 집행을 시도했지만, 윤 전 대통령이 독방에서 나오는 것을 거부하면서 무산됐다. 특검에 따르면 윤 전 대통령은 수감자들에게 지급되는 반팔 티셔츠와 바지를 벗고, 민소매 상의와 속옷 하의만 입은 채 바닥에 드러누웠다고 한다.&lt;br&gt;&lt;br&gt;이에 대해 정 장관은 “조폭보다 못한 행태로 법치주의를 무시하고 국격을 추락시키는 짓이 용납돼서는 안된다”면서 “국민들께 더 이상의 수치심을 드려선 안된다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “법무장관으로서 헌법과 법치주의가 제대로 작동할 수 있도록 필요한 강력한 방안을 적극적으로 검토하고 강구하겠다”면서 “수감자에 대해서도 엄정하고 공정한 법 집행이 되도록 체포 관련 규정의 미비점을 정비하고, 특혜성 접견에 대해 재발되지 않도록 시정 조치하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;정 장관의 이 같은 발언은 윤 전 대통령의 구속 기간 중 이뤄진 대규모 접견을 겨냥한 것으로 풀이된다. 더불어민주당 3대 특검 종합대응 특별위원회는 전날 “윤 전 대통령이 구속 기간 중 변호인 등을 접견한 시간이 395시간 18분에 달하고 접견 인원은 348명”이라며 “다른 수용자들과는 비교할 수 없는 특혜”라고 주장한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김건희 집사게이트’ 조영탁 IMS 모빌리티 대표, 특검 출석...“외부 개입 없었다”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/02/G5HQZGJERZDSDF4IFEZXFPQDX4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/02/G5HQZGJERZDSDF4IFEZXFPQDX4/</guid>
@@ -904,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7ZBD7RRPZF7NK4MLNFL4XGND4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관으로 위촉된 정희원 박사. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“서울은 압력솥 같습니다. 시민들은 정신이 없고 스트레스가 터질 것 같아요. 건강을 해치는 생활 습관에 빠지기 쉽죠. 먹고 마시는 운동장이 이미 기름지고 짠 음식으로 기울어져 있습니다. 서울 시민이 더 건강해질 수 있게 돕고 싶습니다.” &lt;br&gt;&lt;br&gt;‘저속 노화’ 연구로 알려진 정희원(41) 박사가 31일 서울시 초대 건강총괄관이 됐다. 다양한 시민 건강 정책을 제안하는 국장급(3급) 자리다. 비상근직으로 시청에는 한 달에 2번 이상 출근하면 된다.&lt;br&gt;&lt;br&gt;정 박사는 서울대 의대를 졸업하고 카이스트 의과학대학원에서 박사 학위를 받았다. 지난 6월까지 서울아산병원 노년내과 교수로 일했다. ‘느리게 나이 드는 습관’ 등 저서와 자신의 유튜브 채널 등을 통해 “잘못된 생활 습관이 노화를 앞당긴다”고 주장해왔다. 천천히 늙는 데 도움이 되는 식단과 운동법 등도 소개했다. &lt;br&gt;&lt;br&gt;억대 연봉을 받던 그에게 월급 336만원인 서울시 공무원을 택한 이유를 물으니 “그동안 책도 내고 소셜미디어에 글도 썼지만 한계를 느꼈다”며 “결국은 사회가 바뀌어야 한다고 생각해 서울시 제안에 흔쾌히 응했다”고 말했다. 정 박사는 “서울시는 재정이 넉넉하고 정부 부처보다 조직이 빠르다”며 “저속 노화를 고속으로 정책화하려고 한다”고 했다. 서울시와는 2023년 시청에서 한 강연이 인연이 됐다고 한다. &lt;br&gt;&lt;br&gt;정 박사는 “우선 아이들이 당분(糖分)과 가공식품을 덜 섭취할 수 있는 환경을 만들고 싶다”고 했다. “서울 시내 마트들이 당분이 많이 든 가공식품을 아이들 키보다 높은 곳에 진열하도록 유도하는 정책을 검토하고 있어요. 아이들이 자연스럽게 건강한 음식을 선택할 수 있게요. 식품 업체도 만나겠습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2675] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/01/NKDYH7HFBRDWJEUACB2EWEKUSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/01/NKDYH7HFBRDWJEUACB2EWEKUSE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUPPPEIK7VCADLW5ZLH3DRFRVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>장소나 기간 제한 없이 재택근무… “자유롭게 해외서도 일해요”</title>
       <link>https://www.chosun.com/culture-life/culture_general/2025/08/01/ISSU5VHVURA3BECYD2HDNABWSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/01/ISSU5VHVURA3BECYD2HDNABWSQ/</guid>
@@ -922,33 +961,6 @@
       <content:encoded>“아이가 말했어요. 예전에는 ‘일하는 엄마’였는데, 지금은 ‘열심히 일하고 우리와 함께 시간을 보내는 엄마’가 됐다고. 유연한 근무 체계 덕분에 아이가 필요할 때 곁에 있는 존재가 됐다는 게 큰 변화죠.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7LM7VOHIVASVGXTA4PBUBMXZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 30일 오후 서울 중구 정동에 있는 국제기구 '글로벌녹색성장기구(GGGI)' 본사에서 내·외국인 직원들과 그 자녀들이 환하게 웃으며 '셀카'를 찍고 있는 모습. GGGI는 출퇴근 시간을 조절하는 유연근무를 비롯해, 재택근무도 자유롭다. 재택근무 일수에도 제한을 두지 않는다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀에서 태어났지만 한국인 남편과 결혼 후 14년째 서울에서 살고 있는 마이카 펠릭스씨. 한국에서 첫 직장 생활을 국내의 한 공공기관에서 시작했다. 유연근무제가 있던 회사라 일찍 출근하고 일찍 퇴근하는 근무 스케줄을 짰다. 저녁 식사만큼은 꼭 아이와 함께하고 싶었기 때문이다. 하지만 퇴근할 때 사무실에 남아 있는 상사나 동료를 보면서 늘 묘한 불편함을 느꼈다고 한다. 제도는 있지만 ‘문화’가 되진 않았던 탓이다. 하지만 GGGI(글로벌녹색성장기구)로 직장을 옮긴 뒤엔 눈치 보지 않고 유연근무제를 활용하고 있다. 그는 “육아 관련 복지는 구성원이 그것을 ‘당연하게’ 받아들이고 있는지가 중요하다고 느꼈다”고 했다.&lt;br&gt;&lt;br&gt;GGGI는 우리나라 주도하에 출범한 유일한 국제기구다. 서울 중구 정동에 본사를 두고 있다. 2010년 6월 이명박 정부 당시 저탄소 녹색성장 전략을 연구하는 비영리 재단으로 출범한 뒤, 2012년 6월 공식 국제기구로 인정받아 개발도상국에 맞는 탄소 중립 정책 개발, 녹색금융 재원 조달 등의 역할을 하고 있다. 현재 51국이 회원국으로 참여해 개도국을 대상으로 한 다양한 프로젝트를 수행 중이다.&lt;br&gt;&lt;br&gt;국제기구인 만큼 구성원 국적은 다양하다. 한국인 직원을 비롯해 해외에 있는 가족 모두를 이끌고 들어와 주재원 생활을 하는 직원도 적지 않다. 다양한 배경의 사람들이 모인 만큼, GGGI가 세운 출산·육아 정책의 지향점은 각국의 선진화된 모델을 한데 아우르는 것이다.&lt;br&gt;&lt;br&gt;GGGI에선 모든 직원이 각자 사정에 맞는 근무 형태를 스스로 설계한다. 출퇴근 시간을 조절하는 유연 근무는 물론, 재택근무도 자유롭다. 재택근무 ‘국가’도 구애를 받지 않는다. 직원 맹지애씨는 남편이 프랑스인이다. 시댁에 일이 생겨 급히 온 가족이 프랑스로 가야 했는데, 휴가 신청 없이 노트북만 챙겼다. 프랑스에 가서도 재택근무로 일할 수 있기 때문이다. 그는 “맡은 일만 잘 해내면 장소 제약이 없다”며 “가족과 함께하는 시간을 확보하면서도 업무를 안정적으로 지속할 수 있었다“고 했다.&lt;br&gt;&lt;br&gt;재택근무 일수도 제한을 두지 않고 있다. 아이를 키우다 보면 예기치 못한 응급 상황이 자주 발생하고, 어린이집이나 학교 방학 등으로 돌봄이 꼭 필요한 순간이 생기는데 이를 배려한 것이다. 열 살 아들 아빠인 제임스 셰퍼드씨는 “방학 기간에는 아이가 혼자 집에 있기 때문에 (이때는 내가) 통째로 재택근무를 한다”며 “지난 6월에는 아이와 함께 고향인 호주에서 한 달간 업무를 보기도 했다”고 했다.&lt;br&gt;&lt;br&gt;자녀가 만 3세가 될 때까지는 어린이집 등 보육 시설에 쓴 비용을 보조하는 ‘육아 수당’을 지급한다. 한 부모 가정이거나, 아이가 신체적·정서적 장애를 앓고 있는 경우엔 치료 등에 필요한 비용을 더해 ‘특별 육아 수당’을 준다. 한국 본사뿐만 아니라 GGGI 해외 지사에 근무 중인 직원에겐 자녀 1인당 연간 최대 1만달러, 특별 육아 수당은 1만2000달러가 지원된다. &lt;br&gt;&lt;br&gt;우리나라 정부가 90일의 출산휴가를 보장하는 것처럼, GGGI는 직원이 출산 시 유급휴가 88일과 급여의 절반을 보장하는 반(半)급여휴가 44일을 준다. 대신 휴가를 나눠서 쓸 순 없다. 배우자가 출산했을 경우 유급휴가 22일과 반급여휴가 22일을 주는데 1년 이내 2번 나눠서 쓸 수 있도록 하고 있다. 입양 문화가 발달한 해외 사정을 고려해 직원이 자녀를 입양했을 때도 유급휴가 22일과 반급여휴가 22일을 보장한다. &lt;br&gt;&lt;br&gt;결혼이나 출산 여부와 상관없이 GGGI 직원들은 연간 최대 27일의 유급휴가를 갈 수 있다. 미처 쓰지 못한 휴가는 최대 15일까지 이듬해로 이월할 수도 있다. 만 6세 미만의 자녀를 돌보는 직원을 대상으로 한 최대 1년의 무급 특별휴가도 있다.&lt;br&gt;&lt;br&gt;GGGI 직원들은 국적이 다른 동료들의 육아 문화와 스타일도 자연스럽게 공유하고 있다. 이들은 공통적으로 한국의 낮은 아빠 육아 참여도를 지적했다. 직원 정윤영씨는 “한국은 여전히 엄마가 육아에 절대적으로 많은 시간을 투자해야 한다”며 “같은 팀 외국인 동료들의 경우 아빠의 육아 참여가 자연스럽고 당연한 것으로 받아들여지는 분위기가 있어 인상 깊었다”고 했다. 셰퍼드씨는 “한국에 오니 아이의 생일파티나 행사를 가면 그곳에서 ‘유일한 아빠’가 되는 경우가 많았다“며 ”더 많은 한국의 아빠들이 아이의 학교 생활에 참여할 수 있도록 회사에서 배려해주는 제도가 필요한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 자외선(紫外線)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/01/NVB3S7AFGFCLTEDJOPD6PWXRCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/01/NVB3S7AFGFCLTEDJOPD6PWXRCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJBFBZ3GGJBLPJ75AM6NV6FUAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] come out of one’s shell</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/01/456FKR6QMNE57BY3GRZPIVXIEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/01/456FKR6QMNE57BY3GRZPIVXIEM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEVC4XN3KVCCTHCMPLF4JDGS4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[알립니다] 우리 아이 출생 소식 액자에 담아 간직하세요</title>
-      <link>https://www.chosun.com/special/announcement/2025/08/01/JUHT2DKHMVDJLBZUMCZDUXOVOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/08/01/JUHT2DKHMVDJLBZUMCZDUXOVOE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3J4W6TBC5ELLJTVD4AHE4HTRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출산면_리프린트_25-8-1일자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보에 실린 아기 출생 소식, 본인이나 지인의 인터뷰·사진 기사를 영원히 추억으로 간직하세요. 조선일보는 독자가 원하는 신문 지면을 그대로 고급 액자에 담아 드리는 ‘조선일보 리프린트’ 서비스를 합니다. 매주 ‘아이가 행복입니다’ 지면에 소개된 한 가족을 추첨해 리프린트를 선물로 드립니다. 지난 25일 ‘우리 아이가 태어났어요’ 코너에 실린 노이서&amp;lt;사진&amp;gt;양이 이번 주 주인공입니다. 자세한 내용은 홈페이지(&lt;a href="http://reprint.chosun.com/" rel=""&gt;reprint.chosun.com&lt;/a&gt;)에서 확인할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 8월 1일</title>
       <link>https://www.chosun.com/national/national_general/2025/08/01/OM52MFGZSBHFTG54VKA4IMC2JY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/OM52MFGZSBHFTG54VKA4IMC2JY/</guid>
@@ -956,15 +968,6 @@
       <description/>
       <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPGV7FACL5HVRDN35V43KZUNV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 한눈을 팔다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/01/SBONF76CB5D7DIHCV3QCMR5ODM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/01/SBONF76CB5D7DIHCV3QCMR5ODM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 31 Jul 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WOCOW5M5RFFRHEHVZT6REE5VRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“국민연금 2029년까지 흑자”…연금 개혁 후 기존 전망보다 2년 더 늦춰져</title>
