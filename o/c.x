@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전국에 강한 비 쏟아진다…경남 내륙 이틀간 최대 120㎜ 이상 폭우</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/04/2PK72DICX5GYDOXJINGXEEZM7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/2PK72DICX5GYDOXJINGXEEZM7Y/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 21:58:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2UIP62JWFPUXKOMVE3QNMLHCY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;3일 광주시 광산구 운남동 도로를 지나는 차량들이 폭우에 서행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 4일 경상권을 중심으로 전국에 강하고 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 일부 경남권과 경북남부에 호우특보가 발효된 가운데, 일부 지역에 돌풍과 천둥·번개를 동반한 시간당 10~30㎜의 매우 강한 비가 내리고 있다.&lt;br&gt;&lt;br&gt;이날 오전 5시부터 1시간 동안 경남권에 내린 비는 ▲양산상북 29.5㎜ ▲창녕 26.5㎜ ▲의령군 23.8㎜ ▲단장(밀양) 20.5㎜ ▲청덕(합천) 16.5㎜ ▲기장 14.0㎜다.&lt;br&gt;&lt;br&gt;4~5일 새벽까지 이틀간 예상 강수량은 서울·인천·경기서부 5∼10㎜, 경기 동부 강원 동해안 5∼30㎜, 강원 내륙·산지 10∼50㎜, 대전·세종·충남 내륙 10∼40㎜, 충북, 광주, 전남, 전북 10∼60㎜다.&lt;br&gt;&lt;br&gt;부산·울산·경남 30∼80㎜(많은 곳 울산·경남 중·동부 내륙 120㎜ 이상), 대구·경북 남부 20∼80㎜(많은 곳 100㎜ 이상), 경북 중·북부, 울릉도·독도, 제주도 산지 20∼60㎜다.&lt;br&gt;&lt;br&gt;기상청은 “짧은 시간에 강한 강수가 내리면서 갑자기 물이 불어날 수 있으니 하천 접근이나 야영은 자제해야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;비가 내리면서 폭염 특보가 해제되거나 완화한 곳이 있지만, 당분간 습하고 체감 온도가 높은 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;이날 오전 5시 현재 기온은 ▲서울 23.8도 ▲인천 23.7도 ▲수원 24.1도 ▲춘천 21.8도 ▲강릉 23.5도 ▲청주 24.5도 ▲대전 26.4도 ▲전주 27.0도 ▲광주 26.3도 ▲제주 29.1도 ▲대구 25.0도 ▲부산 27.3도 ▲울산 25.7도 ▲창원 27.4도 등이다.&lt;br&gt;&lt;br&gt;낮 최고기온은 29∼34도로 예보됐다.&lt;br&gt;&lt;br&gt;미세먼지 농도는 원활한 대기 확산과 강수의 영향으로 전 권역이 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;바다의 물결은 동해·서해·남해 앞바다에서 0.5∼3.0ｍ로 일겠다.&lt;br&gt;&lt;br&gt;안쪽 먼바다(해안선에서 약 200㎞ 내 먼바다)의 파고는 동해·서해 0.5∼3.5ｍ, 남해 1.5∼3.5ｍ로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X2DUU3YLXJDHBHPDYEP2HVHHZQ.gif?auth=03b152b82576d7112033e6d4f043cc6df2cf58ba29bd46c0f72860d20ab6cb69&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">전남권 비 피해 상황</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>러브버그 가니 이번엔 ‘해충’이…한반도 생태계 습격한 ‘이것’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/04/GR7M3ZI7UNAKFHHN7QCGISEUD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/GR7M3ZI7UNAKFHHN7QCGISEUD4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 22:43:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARV3LZCWFJB75MLDP45ZDZFKAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;한반도 남쪽에서 동남아시아 지역에서 주로 서식하는 알통다리잎벌레가 처음으로 포착됐다. /유튜브 'TV 식물도감'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아시아 지역에서 주로 서식하는 곤충이 한반도 남쪽에서 처음으로 발견됐다. 농사를 망치거나 일부 식물의 생장을 방해할 수도 있어 해충으로 분류되는 종이다. &lt;br&gt;&lt;br&gt;지난달 29일 유튜브 채널 ‘TV 식물도감’에는 남해안 인근에서 칡 줄기에 다닥다닥 붙어 서식하는 ‘알통다리잎벌레’ 일종의 영상이 공개됐다. 생물 전문 유튜버는 “우리나라에 있어서는 안 되는 것”이라며 우려를 표했다. &lt;br&gt;&lt;br&gt;핑크색 광택을 띠는 등껍질과 굵은 뒷다리가 특징인 이 곤충은 ‘열대의 보석곤충’이라고 불리며 인도네시아 등 동남아 지역에서 주로 서식한다. 영상에서는 ‘사그라알통다리잎벌레’라고 소개됐지만, 공식적인 한국어 명칭은 아직 없다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKGP46PLJREWDFAZK6P57LB7AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나무 줄기에 붙어 서식하는 알통다리잎벌레. /유튜브 'TV 식물도감'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 알통다리잎벌레가 해충이라는 점이다. 이 벌레는 일부 식물의 잎과 줄기를 갉아먹어 농사를 망치고, 특히 포도나무 등 덩굴류 식물의 줄기에 파고들어 살며 색물 생장을 방해한다. 주로 열대 지방에 분포해 국내에 유사종조차 없는데다, 유입될 경우 즉시 소독 처리를 하지 않으면 식물에 해를 끼친다. 2012년과 2014년, 2021년 해외 선박 등을 통해 한국에 들어온 기록은 있지만 아직까지 국내 정착 사례가 확인된 바는 없다. &lt;br&gt;&lt;br&gt;전문가들은 열대 해충의 한국 정착 이유로 기후변화를 꼽았다. 곤충은 온도 변화에 민감한데, 열대 곤충이 북상했다는 것은 그만큼 우리나라가 따뜻해졌다는 방증이다. &lt;br&gt;&lt;br&gt;농림축산검역본부는 “최근 유튜브 채널에 소개된 것을 계기로 해당 종이 발생한 사실을 인식했다”며 “환경부 국립생태원과 합동 조사 예정이며 발생 정도 및 범위 등을 확인한 후 관련 기관과 향후 조치 사항을 협의할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>공부 잘하는 약? ADHD 치료제 찾는 10대들</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/04/ZJI6FMFFHFBZDCWHSVKVRAHLJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/04/ZJI6FMFFHFBZDCWHSVKVRAHLJE/</guid>
@@ -945,24 +966,6 @@
       <description/>
       <pubDate>Fri, 01 Aug 2025 15:52:00 +0000</pubDate>
       <content:encoded>협성종합건업(회장 정철원)이 집중호우 피해 지원을 위해 지난달 26일 경상남도 하동군과 광주 광산구에 각각 1억원의 기부금을 전달했고 1일 밝혔다. 하동군에 낸 후원금은 경남적십자사를 통해 재해 구호 활동 및 피해 복구 지원에 사용된다. 광산구의 수해 피해 주민 지원을 위해 쓰일 후원금은 투게더광산나눔문화재단에 기탁했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 2일</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/02/JOUHLTGXBBHT7KMNAGXMLKERHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/JOUHLTGXBBHT7KMNAGXMLKERHY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BER2IMSPHBBHLI3R4KKBYNU264.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“인생 망했다” 오열…서부지법 난동 10대 최고 형량, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/02/4LLGZKRWM5DRLBHNBCIACPDHPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/02/4LLGZKRWM5DRLBHNBCIACPDHPQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Aug 2025 15:23:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZAC5GGD5QEYXSZYG74TKJG3SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 19일 새벽 윤석열 전 대통령에 대한 구속영장이 발부되자 서울 서부지법에 지지자들이 진입해 소화기를 뿌리며 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘서울서부지법 난동’ 등 폭력 행위에 가담해 무더기로 재판에 넘겨진 49명이 1심에서 모두 유죄를 선고받았다. &lt;br&gt;&lt;br&gt;1일 서울서부지법 형사합의11부(김우현 부장판사)는 특수건조물침입 등 혐의를 받는 피고인 49명에 대한 선고기일을 열고 피고인들에게 각각 벌금형과 징역형 집행유예, 징역형 등을 선고했다. &lt;br&gt;&lt;br&gt;가장 높은 징역 5년을 선고받은 심모(19)씨는 지난 1월 윤석열 전 대통령에 대한 구속영장 발부 직후 발생한 서부지법 난동 당시 내부 진입을 막는 경찰관을 폭행하고 법원에 침입한 혐의(특수건조물침입·특수공무집행방해)와 타인에게 기름을 뿌리게 하고 라이터로 불붙인 종이를 던져 불을 지르려 한 혐의(현존건조물방화미수)로 재판을 받아왔다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 법원 후문 앞에서 경찰관을 폭행하고 물리력을 행사했을 뿐 아니라 선제적으로 깨진 창문을 통해 법원 안으로 침입했다”며 “또한 인근 편의점에서 라이터 등을 구매해 방화를 시도하는 등 사법권에 심각한 위해를 가하고 공공의 안녕을 해친 점에 미뤄 중형이 불가피하다”고 설명했다.&lt;br&gt;&lt;br&gt;다만 범행을 반성하고 있고 범행 당시에는 19세 미만의 나이였던 점 등은 유리한 정상으로 참작됐다.&lt;br&gt;&lt;br&gt;심씨는 선고 직후 “소년범 전과 하나 없는데 인생 망했다”며 울다가 호흡 곤란 증세를 보이기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>양동근, ‘반탄 목사’ 행사 참석 논란... “정치적 의도 없다”</title>
