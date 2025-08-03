@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“동대문서 만들어 긴급 공수”… 트럼프 취향저격한 마스가 모자</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/03/G7H7NXEU55BCXOGNFQG5IE2Z6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/03/G7H7NXEU55BCXOGNFQG5IE2Z6E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 13:43:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVATNELPURDXNNHF6WJDIDLF3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;김용범 대통령실 정책실장이 3일 KBS ‘일요진단’에 출연하면서 스튜디오에 가져온 '마스가' 모자. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한미 관세 협상 타결 과정에서 조선 분야 협력 카드인 마스가(MASGA·Make American Shipbuilding Great Again) 프로젝트가 중요한 역할을 했다는 평가가 나오는 가운데, 산업부는 프로젝트 각인을 위해 마스가 모자까지 제작해 미국으로 긴급 공수한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;3일 산업통상자원부에 따르면, 마스가 모자는 산업부 조선해양플랜트과 직원들의 아이디어로 6월 초부터 디자인됐다. 관세 협상에서 중요한 카드로 제시할 한미 조선 협력의 내용을 압축적으로 전달하기 위해 산업부 직원들이 마스가 모자도 미리 제작해 준비한 것이다. &lt;br&gt;&lt;br&gt;3∼4개의 시안이 있었으나, 논의 끝에 붉은색 모자 위에 성조기와 태극기를 배치하고 흰색 실로 글씨를 새긴 현재 디자인으로 결정했다고 산업부는 설명했다. 골프를 좋아하고 빨간색 모자를 즐겨 쓰는 도널드 트럼프 대통령의 취향을 고려했다고 한다. &lt;br&gt;&lt;br&gt;모자 시안을 만든 후 산업부 실무자들은 섬유 업체가 밀집한 서울 동대문에 있는 업체를 찾아 수소문하며 모자 제작에 나섰다.&lt;br&gt;&lt;br&gt;이후 김정관 산업부 장관과 여한구 통상교섭본부장이 워싱턴에서 하워드 러트닉 미 상무부 장관을 만나 마스가 프로젝트를 제시한 뒤 협상이 진전되자 현지에서 마스가 모자를 급히 찾았고, 모자를 미국으로 긴급 공수했다. 산업부 실무진은 ‘마스가 모자가 24시간 안에 도착해야 한다’는 현지 요청에 따라 대한항공과 협의하며 모자 10개를 들고 인천공항을 찾아 워싱턴발 비행기에 실었고, 그렇게 모자는 다음 날 현지 협상팀에게 배송됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z46P5UJ5ZJJHZJ6C6FZCNAVOTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;마스가 모자. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마스가 모자는 이날 김용범 대통령실 정책실장이 KBS ‘일요진단’에 출연해 한미 관세 협상 당시 후일담을 말하는 과정에서 처음 공개됐다. &lt;br&gt;&lt;br&gt;김 실장은 스튜디오에 모자를 직접 들고 나와 먼저 촬영팀을 향해 “화면에 이것 좀 비춰달라”고 요청하더니 “우리가 디자인해서 미국에 한 10개를 가져갔다”며 “이런 상징물을 만들 정도로 혼신의 노력을 다했다”고 설명했다. 그러면서 “한국이 그렇게 다방면에 걸쳐서 조선 쪽에 많은 연구와 제안이 돼 있다는 것을 미국은 상상 못 했을 것”이라며 “사실 조선이 없었으면 협상이 평행선을 달렸을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z46P5UJ5ZJJHZJ6C6FZCNAVOTQ.JPG?auth=ee00b75c8bb2559da1e2c76cf898721e0a561ac02cb6abe55444551c2c47b3df&amp;smart=true&amp;width=2598&amp;height=1724" type="image/jpeg" height="1724" width="2598">
+        <media:description type="plain">마스가 모자. /뉴스1 </media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 허경 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>하천에 휩쓸린 무안 60대 남성, 심정지 상태로 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/03/KSRN47OGOBAPPCBEH2NITRKNRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/03/KSRN47OGOBAPPCBEH2NITRKNRM/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 13:16:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 저녁 시간당 140㎜가 넘는 극한호우가 쏟아진 전남 무안에서 60대 남성이 물살에 휩쓸려 실종됐다가 심정지 상태로 발견됐다.&lt;br&gt;&lt;br&gt;전남소방본부에 따르면 이날 오후 8시 5분쯤 무안군 현경면의 한 하천 인근에서 “사람이 떠내려갔다”는 신고가 접수됐다. 경찰과 소방당국은 즉시 인근 하천을 수색, 신고 지점에서 약 800ｍ 떨어진 곳에서 A(60)씨를 발견했다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태였으며, 구조대는 심폐소생술 등 응급조치를 하며 병원으로 이송했다.&lt;br&gt;&lt;br&gt;이날 무안군 망운면 무안공항 자동기상관측장비(AWS)에는 시간당 142.1㎜의 비가 기록돼 하천이 급격히 불어난 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 산청군, 산사태 경보...주민 대피령 발동</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/03/7MT4HFRTNFCEHPOIOTSTSREG7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/03/7MT4HFRTNFCEHPOIOTSTSREG7Q/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 12:06:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4E63N2IP7ISXWBLHNJP6Y4E7UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 20일 경남 산청군 산청읍 외정마을에 폭우와 산사태로 토사가 흘러내려 주택 등이 파손되는 등 아수라장을 방불케 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 산청군이 3일 저녁 산청읍, 오부면, 삼장면, 생비량면, 차황면 등 5개 읍면 주민 550여명에게 대피령을 내렸다. 최근 집중호우로 큰 피해를 본 지역인 만큼 긴장감이 높아지고 있다.&lt;br&gt;&lt;br&gt;산청군은 이날 오후 8시 “삼장면 등 산사태 취약지 주민들은 즉시 안전한 곳으로 대피하라”고 재난 문자를 발송했다. 군은 하천 범람과 침수 우려가 큰 지역 주민들을 오후부터 순차적으로 대피시키고 있다.&lt;br&gt;&lt;br&gt;군 관계자는 “아직 피해 보고는 없지만, 인명피해를 막기 위해 선제 조치에 나섰다”며 “밤새 상황을 예의주시하겠다”고 했다.&lt;br&gt;&lt;br&gt;경남도에 따르면 이날 오후 삼장면 외에도 산청읍, 오부면, 생비량면, 차황면 등 5개 읍면 주민 550여명에게 대피령이 내려졌다.&lt;br&gt;&lt;br&gt;경남도는 호우 예비특보가 발효되자 재난안전대책본부를 비상 1단계로 격상했다. 자연재난과, 재난상황과 등 풍수해 대응 부서 공무원 33명이 긴급 투입됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 4일 오전까지 경남 전역에 시간당 최대 80㎜의 폭우가 예보돼 있다. 지반이 이미 약해진 상태에서 추가 비가 쏟아지면 산사태와 침수 피해가 확산될 가능성이 크다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[부고]김영록 전남도지사 빙모상</title>
       <link>https://www.chosun.com/national/national_general/2025/08/03/IX3K2ITHH5DBBLOMF6ISUDMIZE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/03/IX3K2ITHH5DBBLOMF6ISUDMIZE/</guid>
@@ -889,27 +920,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4RSKFV5KXW5CD4FLIPHT7L26I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'차량 열기가 뜨겁다'는 문구와 함께 아파트 주차장 두 칸을 막아 놓은 모습/보배드림 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트에서 1층 입주민이 차량 열기가 뜨겁다는 이유로 공용 주차 구역을 막아 네티즌들 사이에서 갑론을박이 일고 있다. &lt;br&gt;&lt;br&gt;1일 온라인 커뮤니티 보배드림에는 이 같은 모습이 담긴 사진이 올라왔다. 사진에는 빨래 건조대와 의자로 아파트 주차구역 두 칸을 막은 모습이 담겼다.&lt;br&gt;&lt;br&gt;의자에는 “5시 30분~6시 사이 치우겠습니다. 자동차 열기가 너무 더워서 하는 조치임을 양해 부탁드립니다”라는 안내가 붙어있다. 옆에 놓인 건조대에도 “9월 중순까지 양해 바랍니다. 에어컨 바람 싫고 전기세 무서워 켜지 않습니다. 꼭 저녁에 치우겠습니다”고 적혀있다. 바로 옆 주차 칸에는 차량 한 대가 아파트 창문 방향으로 후면 주차한 모습이다. &lt;br&gt;&lt;br&gt;작성자는 “매연 문제로 공회전을 금지하거나 후면주차 대신 전면주차하라고 하는 경우는 봤다”면서 “차량 열기 싫어 집 앞 주차 금지하는 건 어떻게 생각하느냐”고 했다. &lt;br&gt;&lt;br&gt;이 사진 한 장을 두고 네티즌들의 반응은 엇갈렸다. “1층 산다고 주차장을 자기 앞마당처럼 쓰는 건 너무 이기적이다” “저럴 거면 단독주택에 살아라” 등 1층 거주민의 조치가 과도하다는 의견이 나왔다. &lt;br&gt;&lt;br&gt;반면 “저건 잘못된 방법이지만 주차장에서 시동 켜놓고 있는 사람들 때문에 그런 것 같다” “전면 주차하지 않는 사람들 때문에 해놓은 것일 수도 있다” 등 주차장을 앞에 둔 1층 입주민의 고충에 공감한다는 반응도 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>의대협 비대위원장 사퇴...‘의대생 집단 행동’ 사실상 종료 </title>
-      <link>https://www.chosun.com/national/education/2025/08/01/2NMK3EADINEFLHIG6Y2UFLUWBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/01/2NMK3EADINEFLHIG6Y2UFLUWBY/</guid>
-      <dc:creator>오주비 기자, 김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Aug 2025 05:31:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6AI5T4XIBOJBDVU5TSNFUQ4TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 서울 시내 한 의과대학 강의실에 의예과 1학년 출석부가 놓여 있는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의대생 단체 대한의과대학·의학전문대학원학생협회(의대협)의 이선우 비상대책위원장이 사퇴한 것으로 알려졌다. 의대생 강경 투쟁을 주도해온 비대위의 해체로 의대생 집단 행동은 사실상 종료됐다는 말이 나온다.&lt;br&gt;&lt;br&gt;1일 교육계, 의료계에 따르면, 의대협은 지난달 말 회의를 열고 이선우 위원장 사퇴안과 의대협 비대위 해산을 결정한 것으로 알려졌다. 비대위는 작년 2월부터 집단 휴학을 주도했다. 강경한 태도를 유지해오다 지난달 12일 국회 보건복지위원회, 교육위원회, 대한의사협회와 공동 기자회견을 열고 “국회와 정부를 믿고 학생 전원이 학교에 돌아가 의과대학 교육 및 의료 체계가 정상화되도록 힘쓰겠다”고 밝혔다. 그러면서 정부에 “학사 일정 정상화를 통해 의대생들이 교육에 복귀할 수 있게 종합 대책을 마련해 달라”고 요구했다. 1년 5개월 동안 이어진 의정 갈등을 끝맺는 전환점이란 평가가 나왔지만 “교육부나 당사자인 대학들과는 상의가 없었던 ‘기습 발표’”라는 지적이 일었다.&lt;br&gt;&lt;br&gt;그리곤 지난달 말에 비대위 해체를 결정한 것이다. 의료계 관계자는 “의대협이 의정 갈등 이전의 체제로 돌아가겠다는 것”이라고 했다. 의대협은 원래 회장을 두지 않고 있는데, 의정 갈등 기간 비대위가 꾸려져 집단 행동을 주도하다가 새 정부 들어 학생 복귀를 선언했으니 이젠 과거 체제로 돌아가겠다는 취지다.&lt;br&gt;&lt;br&gt;다만 그간 수업 거부 등 의대생 집단 행동을 주도한 단체가 해제 배경에 대한 구체적 설명 없이 해산한 것을 두고 의대생 사이에서도 “기습 해체”라는 비판이 나오는 중이다. 비대위는 이번에 해체를 하며 대국민 메시지나 복귀하는 의대생 특혜 논란에 대한 입장은 밝히지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>프랑스산 고급 소금의 배신... 1군 발암물질 들어있었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/01/TRSSYJGQNVEIRIOYXMXMSVOUOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/TRSSYJGQNVEIRIOYXMXMSVOUOQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Aug 2025 05:35:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAAJX522RNG47PMFXQ3IHJ4EPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;회수 조치된 '게랑드 해초 소금(가공소금, 250g)'./식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘소금의 캐비아’로 불린 프랑스산 유명 해초 소금에서 기준치를 넘는 중금속이 검출돼 당국이 긴급 회수 조치에 나섰다.&lt;br&gt;&lt;br&gt;1일 식품의약품안전처에 따르면 프랑스 SAS BOURDIC사가 제조한 ‘게랑드 해초 소금(가공 소금, 250g)’ 제품에서 비소 2.5㎎/㎏이 검출됐다. 이는 식품 기준치인 0.5㎎/㎏을 5배 초과한 수치다. &lt;br&gt;&lt;br&gt;문제가 된 제품의 제조 일자는 2024년 11월 7일, 제조번호는 ‘B24312’로 표기돼 있다.&lt;br&gt;&lt;br&gt;비소는 국제암연구소(IARC)가 지정한 1군 발암물질로, 암을 유발할 수 있는 독성 중금속이다. &lt;br&gt;&lt;br&gt;체내에 축적될 경우 간, 폐, 피부 등에 심각한 건강 문제를 일으킬 수 있어 식품 속 허용 기준이 엄격히 관리되고 있다.&lt;br&gt;&lt;br&gt;게랑드는 전통 소금 생산지로 유명한 지역이다. 갯벌에서 장인이 손수 채취한 천일염이 수십 가지 제품군으로 가공돼 프랑스의 고급 식료품점에 진열된다. &lt;br&gt;&lt;br&gt;문제가 된 이번 제품은 천일염과 해초를 섞어 만든 소금으로, 해초의 향미가 더해져 생선 요리 등에 사용된다. &lt;br&gt;&lt;br&gt;풍부한 감칠맛과 해초의 향미로 전 세계 셰프들과 미식가들의 사랑을 받아왔으며, 선물용으로 자주 사용된다. &lt;br&gt;&lt;br&gt;이 소금은 경기 용인시 소재 ‘제제파크’가 수입해 국내에도 유통됐다. 국내에서는 1만5000~2만원 사이의 고가에 판매되고 있다.&lt;br&gt;&lt;br&gt;식약처는 “문제의 제품에 대해 신속한 회수 조치를 내렸다”며 “해당 제품을 보유한 소비자는 섭취를 중단하고 구입처에 반품해달라”고 당부했다.&lt;br&gt;&lt;br&gt;우리나라는 식품 중 납, 카드뮴, 비소, 무기비소, 수은, 메틸수은, 주석 등 7종의 중금속에 대한 허용 기준을 마련해 엄격히 관리하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3XEUI44RFZH53H7Z5DAYU3BZEM.jpg?auth=fbbe1ea185f93f7102c8f0440d3b99a351f0e0122136e7f3cea629216cb72d3d&amp;smart=true&amp;width=701&amp;height=394" type="image/jpeg" height="394" width="701">
-        <media:description type="plain">회수 조치된 '게랑드 해초 소금(가공소금, 250g)'./식품의약품안전처</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>日 강제징용 피해자 양금덕 할머니, 대한민국 인권상 수상자 선정</title>
       <link>https://www.chosun.com/national/national_general/2025/08/01/XE6JUO4N6NG6LERUIIAEAUTP2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/XE6JUO4N6NG6LERUIIAEAUTP2Y/</guid>
@@ -917,15 +927,6 @@
       <description/>
       <pubDate>Fri, 01 Aug 2025 05:29:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAFA6DRQJ5CJZL5NOYOPIU7ORY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제 강제징용 피해자 양금덕(96) 할머니가 ‘2025 대한민국 인권상’ 수상자로 선정된 것으로 알려졌다. 양 할머니는 지난 30여년간 일본 정부와 전범 기업을 상대로 사죄와 배상을 요구하는 강제동원 피해자 권리 회복 운동에 앞장서온 인물이다.&lt;br&gt;&lt;br&gt;대한민국 인권상은 국가인권위원회가 매년 12월 10일 세계인권선언의 날에 맞춰 인권 향상을 위해 헌신해 온 단체 및 개인에게 수여하는 상이다.&lt;br&gt;&lt;br&gt;양 할머니는 지난 1944년 5월 일본인 교장 등의 회유로 미쓰비시 중공업 나고야항공기제작소 공장에 강제 동원됐다. 임금을 제공받지 못하고 온종일 군용 비행기 부속품을 깎는 등의 노역을 해야 했다고 한다.&lt;br&gt;&lt;br&gt;지난해 11월 양 할머니는 대법원의 강제징용 확정판결에 따른 배상금과 지연이자를 수령했다. 일본 기업의 배상금을 일제강제동원피해자지원재단이 대신 내는 지난 정부의 ‘제3자 변제안’을 강하게 반대해 왔지만 이를 수용한 것이다. 재원은 1965년 한일청구권 협정으로 도움을 받은 포스코가 기부한 40억원이 바탕이 됐다.&lt;br&gt;&lt;br&gt;한편 이재명 대통령은 지난달 29일 국무회의에서 양 할머니에게 국민훈장을 수여하는 ‘영예수여안’을 심의∙의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수박·우족·사탕수수·…여름 보양식으로 역대급 폭염 견디는 서울대공원 동물들 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/01/X7OV643UEJADHKUL3WAKZDTSGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/01/X7OV643UEJADHKUL3WAKZDTSGI/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 01 Aug 2025 05:21:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BEES4KZ4NO6ROZP5ROIBGARBQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;1일 경기 과천시 서울대공원에서 열린 '동물원 여름나기' 공개 행사에서 하마가 여름 특식을 먹고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 경기 과천 서울대공원이 연일 이어지는 폭염으로 지친 동물들을 위해 여름 특별 보양식을 선물했다. 단백질이 풍부한 우족과 닭고기, 수분과 영양이 가득한 과일과 채소를 동물별 식이에 따라 맞춤형으로 준비했다. 폭염으로 인한 스트레스와 면역력 저하를 예방하기 위해서다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJH6A5QPLRJSDDEZ7U7PFUU7GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기 과천시 서울대공원 동물원에서 점박이물범이 사육사들이 준비한 특식을 먹고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;물에서 사는 오타리아(남아메리카바다사자)와 물범에겐 살아있는 메기를 제공했다. 이날 오타리아와 물범은 펄쩍 뛰어오른 메기를 잡기 위해 물살을 가로질렀다. 서울대공원 관계자는 “살아있는 물고기를 쫓으면서 활동성이 높아지고 야생 본능이 깨어난다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MS6ZPOOFJFKYRD3EEJH3XA6JPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기 과천시 서울대공원 동물원에서 호랑이가 사육사들이 준비한 특식을 먹고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;맹수사에 사는 시베리아 호랑이들은 얼음 케이크를 받았다. 호랑이들은 얼음 덩어리를 혀로 핥으며 더위를 식혔다. 또 단백질과 칼슘이 풍부한 우족과 생닭으로 영양을 보충했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVKY4VSDFRPEZP34YE2F6YX54E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 이어지고 있는 1일 경기도 과천시 서울대공원 동물원에서 코끼리가 물속에서 더위를 식히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 코끼리 3마리에게는 달콤한 사탕수수를 받았다. 사육사들이 커다란 수영장에 사탕수수를 던지자, 시원한 물 속으로 잠수하며 물놀이를 했다. &lt;br&gt;&lt;br&gt;하마들은 수박 등으로 만든 과일 케이크를 선물 받았다. 케이크 위에는 하마의 얼굴을 새긴 수박도 올라갔다.&lt;br&gt;&lt;br&gt;박진순 서울대공원장은 “연일 계속되는 폭염 속에서 동물들도 기력이 많이 약해졌을 것”이라며 “동물들이 건강하게 여름을 잘 날 수 있도록 세심히 살피겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수배 중인 딸 ‘美 회계사’라 속여... 7억원 사기친 엄마 징역형</title>
