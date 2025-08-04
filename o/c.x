@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“北 타격 위장 통신” 증언… 무장 아파치, NLL서 도발 유도 정황</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/04/NUHCCSPIGJC5BC2NEEFVMTSPTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/NUHCCSPIGJC5BC2NEEFVMTSPTA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Aug 2025 09:59:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMCXJIU4MY7AB3YNXD3VJT4CXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 대한민국 육군 아파치 헬기 2대가 서울 종로구 경복궁 일대 상공에서 건군 제76주년 국군의 날 기념 축하 비행 예행 연습을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 우리 군이 무장 아파치 헬기를 동원해 북방한계선(NLL) 인근에서 북한의 도발을 유도하려 했다는 내부 증언이 나온 가운데, 당시 헬기 조종사들이 윗선의 지시에 따라 대북 타격을 암시하는 ‘위장 통신’까지 동원했다는 증언이 추가로 나왔다.&lt;br&gt;&lt;br&gt;4일 추미애 더불어민주당 의원실이 최근 확보한 육군 관계자 제보에 따르면, 아파치 헬기 조종사들은 지난해 9월부터 11월까지 30mm기관포탄과 헬파이어 미사일 등으로 무장한 채 NLL 인근을 비행하며 ‘북한 특정 지역을 타격하겠다’는 취지의 위장 무전을 여러 차례 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 같은 위장 통신은 북한의 도발이나 공격을 유도하려 했던 정황으로 의심할 수 있는 대목이라는 설명이다. 특검은 실제 위장 통신이 있었는지를 확인하기 위해 당시 조종사 간 무전 통신 내역 등을 제출받을 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 특검이 확보한 것으로 알려진 육군 항공사령부 관계자 녹취록에는 “작전의 취지가 정찰 목적이라기보다는 북한이 우리 헬기를 보길 원했던 것 같다”는 내용이 담겼다. 특검은 이와 함께 NLL 인근 비행 작전에 투입된 아파치 헬기의 비행계획서도 확보해 분석 중이다.&lt;br&gt;&lt;br&gt;‘NLL 위협 비행 작전’은 노상원 전 정보사령관의 수첩에도 등장한다. 앞서 경찰 수사에서 노 전 사령관의 수첩에 ‘NLL 인근에서 북의 공격을 유도’, ‘오물풍선’ 등 문구가 기재된 사실이 확인된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포스코이앤씨 사과 엿새만에... 또 감전 사고로 심정지</title>
+      <link>https://www.chosun.com/economy/real_estate/2025/08/04/NNLGNCKNBZHRJPI7VGPVJAJ6TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/real_estate/2025/08/04/NNLGNCKNBZHRJPI7VGPVJAJ6TI/</guid>
+      <dc:creator>정순우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Aug 2025 08:36:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQ26B3DA3ZJARNF3FFZYA2PFYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정희민 포스코이앤씨 사장이 29일 인천 송도 본사에서 연이은 현장 사망사고와 관련한 담화문 발표에 앞서 관계자들과 사과 인사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코이앤씨가 시공 중인 광명~서울 고속도로 공사 현장에서 작업자 1명이 감전으로 추정되는 사고를 당했다. 올해 들어 잇따른 사망 사고에 대해 대표이사 명의로 사과문을 발표한 지 일주일도 채 지나지 않아 또다시 안전 사고가 발생한 것이다.&lt;br&gt;&lt;br&gt;4일 경찰과 포스코이앤씨에 따르면, 포스코이앤씨가 시공을 맡고 있는 경기 광명시 옥길동 광명~서울고속도로 민간투자사업 제1공구 현장에서 이날 오후 1시 34분쯤 미얀마 국적 30대 A씨가 심정지 상태로 발견됐다. A씨는 의식을 잃은 채 병원으로 이송됐고, 현재 중환자실에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;올해 들어 포스코이앤씨의 시공 현장에선 총 4건의 사망 사고가 발생했다. 이에 이재명 대통령은 지난달 29일 국무회의 자리에서 포스코이앤씨를 강하게 질타했고, 당일 오후 정희민 포스코이앤씨 대표이사는 잇따른 사망 사고에 대해 대국민 사과문을 발표했다. 당시 포스코이앤씨는 안전 점검을 위해 모든 현장 작업을 일시 중단했는데, 사고가 발생한 현장은 이날 작업이 재개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>해병 특검, ‘이종섭 도피 의혹’ 심우정 前검찰총장 압수수색</title>
       <link>https://www.chosun.com/national/court_law/2025/08/04/XO7KRGIZMNDY7FIGEG5BOBODSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/XO7KRGIZMNDY7FIGEG5BOBODSI/</guid>
@@ -666,24 +684,6 @@
       <description/>
       <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CCPOJASSZB3JDHAXGUJLGVNE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2676] 그때를 기억하시나요</title>
-      <link>https://www.chosun.com/national/nie/2025/08/04/VRD5WUWRXVCB7G7DVQNU64WBIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/04/VRD5WUWRXVCB7G7DVQNU64WBIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5XBTQUM2JCRFIET2WSMPFSDQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] well-deserved</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/04/6B7JZ4JED5GNBIPMGZTAEDJYGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/04/6B7JZ4JED5GNBIPMGZTAEDJYGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRUQQ76SKVEOBMDRYN6ISR3IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[매일매일 중국어 한마디] 헛수고하다, 헛일하다</title>
