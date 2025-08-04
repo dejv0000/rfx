@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>타인 명의로 지역화폐 대량 구매한 충북 모 농협 지점장 적발</title>
+      <link>https://www.chosun.com/national/regional/2025/08/04/C7UGIQTI65AXZMZ6C7PGNYWSG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/04/C7UGIQTI65AXZMZ6C7PGNYWSG4/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>충북의 한 지역 농협 지점장이 타인 명의로 지역화폐를 대량 구매한 사실이 드러나 논란을 빚고 있다.
+4일 농협에 따르면 충북 모 농협 지점장 A씨는 최근 3개월간 지인 등의 명의로 1000만원 상당의 지류형 지역사랑상품권을 구매한 사실이 지역본부 감사에서 적발됐다.
+</description>
+      <pubDate>Mon, 04 Aug 2025 13:54:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BE67SEZQZ57FH4DQ5KSY6HYUBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;NH농협은행 로고./조선비즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북의 한 지역 농협 지점장이 타인 명의로 지역 화폐를 대량 구매한 사실이 드러나 논란을 빚고 있다.&lt;br&gt;&lt;br&gt;4일 농협에 따르면 충북 모 농협 지점장 A씨는 최근 3개월간 지인 등의 명의로 1000만원 상당의 지류형 지역사랑상품권을 구매한 사실이 지역본부 감사에서 적발됐다.&lt;br&gt;&lt;br&gt;A씨는 감사 과정에서 명의자의 구두 동의를 받았다고 해명했으나, 농협 측은 문제가 있다고 판단해 A씨를 대기 발령하고 징계 절차를 밟을 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지역 화폐를 발행한 지자체 역시 A씨를 배임 등의 혐의로 경찰에 수사 의뢰하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;해당 지역사랑상품권은 농협을 통해 위탁 판매되고 있으며 액면가에서 7~10% 할인된 가격에 구매할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 총기사건 경찰 진입 늦은 건... “방탄 헬멧·방패 없어서"</title>
+      <link>https://www.chosun.com/national/incident/2025/08/04/VXSXOMSS3FGI5BO55U6KAQIDEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/04/VXSXOMSS3FGI5BO55U6KAQIDEU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>인천 사제 총기 살인 사건 당시 현장에 출동한 경찰관들이 방탄 헬멧과 방탄 방패를 갖추지 못한 채 대응에 나섰던 것으로 파악됐다. 이 때문에 내부 진입이 지연됐다는 지적이 제기되고 있다.</description>
+      <pubDate>Mon, 04 Aug 2025 11:54:55 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU24VFQT546WU7HY5DNR4Y3MRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기 살해 사건 피의자 조모(62)씨가 30일 오전 인천 논현경찰서에서 검찰로 송치되고 있다. A씨는 지난달 20일 오후 9시 31분쯤 인천시 연수구 송도 아파트에서 사제 총기로 아들 A씨를 살해한 혐의를 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 사제 총기 살인 사건 당시 현장에 출동한 경찰관들이 방탄 헬멧과 방탄 방패를 갖추지 못한 채 대응에 나섰던 것으로 파악됐다. 이 때문에 내부 진입이 지연됐다는 지적이 제기되고 있다.&lt;br&gt;&lt;br&gt;4일 더불어민주당 윤건영 의원실이 확보한 경찰 무전 녹취록에 따르면 연수경찰서 상황실은 신고 접수 4분 만인 지난달 20일 오후 9시 35분쯤 직원들에게 테이저건과 방탄복, 방탄 헬멧 착용을 지시했다. 이후 7분 뒤인 오후 9시 42분쯤엔 “지금 도착한 순찰차는 방탄복을 착용했으면 바로 진입하라”고 전파했다. 그러나 현장에 도착한 지구대 경찰관들은 현관문 비밀번호를 확보했음에도 “화약 냄새가 많이 난다. 쇠구슬도 있다. 내부에 장전된 상태로 피의자가 있어 특공대가 필요하다”며 진입을 주저했다.&lt;br&gt;&lt;br&gt;그러면서 현장 지구대 팀장은 상황실에 “무조건 진입하면 안 될 것 같다. 방탄모랑 방탄 방패가 있어야 할 것 같다”고 상황실에 보고했다.&lt;br&gt;&lt;br&gt;이에 상황실이 방탄 장비 착용 여부를 다시 묻자 “방탄복은 입었는데 방탄 헬멧이 없다. 방패도 방탄 방패가 아니다”라고 답했다.&lt;br&gt;&lt;br&gt;신고 접수 27분 만인 오후 9시 58분엔 기동순찰대가 현장에 도착했으나 이들 역시 방검복만 입은 채 현장에 출동해 현장 진입 대신 소방차 진입로 확보와 주민 통제 등의 업무를 맡았다.&lt;br&gt;&lt;br&gt;경찰은 결국 경찰 특공대를 투입해 신고 접수 72분 만인 오후 10시 43분에야 집 내부로 진입할 수 있었다.&lt;br&gt;&lt;br&gt;경찰은 특히 사건 초기 대응 과정에서 방범카메라(CCTV) 확인 등 기본적인 대응조차 거치지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현장 경찰은 오후 10시 48분 범행 현장에 피의자가 없다는 사실을 상황실에 알렸고, 그제야 상황실은 관리사무소의 방범카메라를 통해 피의자의 동선을 확인하라고 지시했다.&lt;br&gt;&lt;br&gt;이 사건의 피의자 조모(62)씨는 지난달 20일 오후 9시 31분쯤 인천 연수구 송도국제도시의 한 아파트 33층 집에서 사제총기로 아들 A씨를 살해한 혐의로 구속돼 조사를 받고 있다. 조씨의 서울 도봉구 집에선 시너가 담긴 페트병 등 인화성 물질과 점화 장치 등이 발견됐으며, 살인 범행 다음 날인 21일 정오에 발화되도록 타이머가 설정돼 있던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰청은 이번 사건의 초동 대응 과정이 적절했는지 등에 대해 감사를 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“헤어지자”… 이별 요구에 여친 때리고 방화 시도한 50대 외국인</title>
+      <link>https://www.chosun.com/national/incident/2025/08/04/JYZF4WZJJFEFJJLHBLLFLFKMHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/04/JYZF4WZJJFEFJJLHBLLFLFKMHI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>이별을 요구하는 여자친구를 폭행하고 집에 불을 지르려 한 50대 외국인이 경찰에 붙잡혔다.
+인천 부평경찰서는 주거 침입 등 혐의로 중국 국적의 50대 남성 A씨를 붙잡아 조사 중이라고 4일 밝혔다.
+</description>
+      <pubDate>Mon, 04 Aug 2025 12:06:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 요구하는 여자친구를 폭행하고 집에 불을 지르려 한 50대 외국인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;인천 부평경찰서는 주거 침입 등 혐의로 중국 국적의 50대 남성 A씨를 붙잡아 조사 중이라고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 11시 10분쯤 인천 부평구 한 빌라에서 여자친구인 50대 여성 B씨를 폭행하고 라이터로 이불에 불을 붙인 혐의 등을 받고 있다.&lt;br&gt;&lt;br&gt;불법 체류 중인 A씨는 B씨의 집에 몰래 들어간 뒤 이별을 요구하는 B씨를 상대로 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨 딸의 신고를 받고 현장에 출동해 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 조사를 마치는 대로 구속영장을 신청할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시민들, 尹 이어 한덕수·김용현·이상민에 계엄 손배소 잇달아</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/04/WBR5LV7RBFES7EICKUZX46VZOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/WBR5LV7RBFES7EICKUZX46VZOE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Aug 2025 10:30:13 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 ‘12·3 비상계엄’으로 정신적 피해를 입은 시민들에게 인당 10만원씩 배상하라는 판결이 나온 데 이어 국무위원 등 계엄 관련자들에게 책임을 묻는 소송이 잇따르고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JOOBBBUDTZKWCTCQDTOHO5G6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 사태 관련 내란 혐의를 받는 윤석열 전 대통령이 지난달 9일 구속 전 피의자 심문(영장실질심사)을 받기 위해 서울 서초구 서울중앙지방법원으로 들어서고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 시민 200명은 지난달 29일과 지난 1일 윤 전 대통령, 김용현 전 국방부 장관, 박안수 전 계엄사령관을 상대로 손해배상 청구 소송을 제기했다. 피고 한 명당 10만원씩, 총 30만원의 위자료를 청구한 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 외에도 국무회의 참석자 등 비상계엄 관련자들을 상대로 한 소송도 나왔다. 시민 33명은 한덕수 전 국무총리, 이상민 전 행정안전부 장관, 김 전 장관 등을 포함한 10명을 상대로 1인당 20만원을 청구하는 소송을 전날 제기했다.&lt;br&gt;&lt;br&gt;정진석 전 대통령비서실장, 추경호 전 원내대표, 조지호 경찰청장, 김봉식 전 서울경찰청장, 박안수 전 계엄사령관, 여인형 전 방첩사령관, 문상호 전 정보사령관 등이 소송 대상에 포함됐다. 이들을 대리하는 법무법인 다음 측은 “윤 전 대통령과 별개로 비상계엄에 관여한 의혹을 받는 주요 인물들에게 위자료 청구 소송을 시작하는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;이외에도 사람법률사무소의 이제일 변호사와 사단법인 개혁국민운동본부도 윤 전 대통령을 상대로 1인당 20만 원의 위자료를 청구하는 소송을 낼 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“北 타격 위장 통신” 증언… 무장 아파치, NLL서 도발 유도 정황</title>
       <link>https://www.chosun.com/national/court_law/2025/08/04/NUHCCSPIGJC5BC2NEEFVMTSPTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/NUHCCSPIGJC5BC2NEEFVMTSPTA/</guid>
@@ -657,42 +697,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFO53JAM2FOM5MVZ7WSNBQ4QXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우리나라 6세 미만 미취학 아동의 1인당 사교육비가 월평균 30만원을 넘는 것으로 나타났다. 이른바 '영어유치원'(영어학원 유치부)으로 불리는 유아 영어학원의 월평균 비용은 154만5천원이었다. 소득 규모별 사교육비 격차는 7배에 육박했다.
     교육부는 지난 3월 이런 내용의 '2024 유아 사교육비 시험조사' 결과를 발표했다. 정부 주도로 유아 사교육비 현황을 조사해 공개한 것은 처음이다.
     사진은 이날 서울 강남구 한 영어유치원에 주차된 통학버스. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“Go straight and back(전방으로 갔다 복귀)” “Jump in and out(치고 빠져)!”&lt;br&gt;&lt;br&gt;지난달 19일 오후 경기도 고양시의 한 축구장에서 코치로 보이는 남성이 이렇게 외쳤다. 그와 함께 공을 차는 ‘선수’는 5~7세 아이 네 명이었다. 이른바 ‘영어 축구’. 수도권의 한 놀이식 영어 학원에서 운영하는 예체능 과외 수업 현장이다. 조기 영어 교육 열풍이 예체능 분야까지 미치고 있다. 축구와 피아노, 발레 등 매주 종목을 바꿔가면서 영어로 배우게 하는 것이다.&lt;br&gt;&lt;br&gt;‘영어’가 붙으면 주 2~3회에 월 20만~30만원 하는 체육 수업료가 많게는 60만원으로 두 배까지 오른다. 그럼에도 학부모들은 쉽게 지갑을 연다. 서울 은평구에 사는 김모(39)씨는 초등학생 자녀 둘 다 예체능 영어 학원에 보내고 있다. 김씨는 “어차피 영어는 배워야 하니까 자연스럽게 노출되길 바라는 마음에 학원을 보내고 있다”고 했다. 경기 고양시에 사는 박모(39)씨도 유치원생인 딸을 주 2회 수업하는 영어 피아노 학원에 보내고 있다. 박씨는 “돈보다 아이의 정서가 중요하다”고 했다.&lt;br&gt;&lt;br&gt;하지만 막상 수업에서 오가는 영어 표현은 단순한 단어 수준에 머무는 경우가 많다. 영어 피아노 수업은 ‘play it again’(다시 쳐보자), ‘faster’(빠르게), ‘slowly’(천천히) 등, 발레는 ‘turn around(돌아보자)’ 등 짧은 지시문이 대부분이다. 아이가 영어를 이해 못 하고 책상 옆에 놓인 작은 깃발을 들면 한국어 설명이 이어진다. 박주호 한양대 교육학과 교수는 “영어 능력 향상에 실질적 효과가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그럼에도 영어 예체능 열풍이 부는 건 영어 교육에 대한 학부모들의 열정이 유달리 크기 때문이다. 교육부·통계청에 따르면 2024년 초·중·고 전체 영어 사교육비는 5조 원대로 추정, 모든 교과목 가운데 가장 많았다. 특히 만 6세 미만 유아의 월평균 영어 사교육비는 41만4000원으로 전체 과목 평균(33만2000원)보다 높았다. &lt;br&gt;&lt;br&gt;송기창 숙명여대 교육학과 교수는 “피아노나 체육 같은 예체능은 언어 역량을 전제로 하지 않는 영역”이라며 “취지는 알겠지만 실질적 학습 효과는 검증되지 않았다”고 했다. 조상식 동국대 교육학과 교수는 “영어 사교육 시장이 얼마나 분화되고 상업화됐는지를 보여주는 단면일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강현두 서울대 명예교수 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/04/AMHVGWLPHRBSBENERTGMEEVZO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/04/AMHVGWLPHRBSBENERTGMEEVZO4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:40:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강현두 &lt;/b&gt;서울대 명예교수 별세, &lt;b&gt;김세원 &lt;/b&gt;前 EBS 이사장 남편상, &lt;b&gt;강원석 &lt;/b&gt;레이텀앤왓킨스 파트너변호사·&lt;b&gt;강수진 &lt;/b&gt;채널A 상무 부친상, &lt;b&gt;백준현 &lt;/b&gt;자람테크놀로지 대표 장인상, &lt;b&gt;마혜원 &lt;/b&gt;시부상=2일13시30분 서울성모병원, 발인 5일7시, (02)2258-5919&lt;br&gt;&lt;br&gt;▲&lt;b&gt;금동태 &lt;/b&gt;별세, &lt;b&gt;금원섭 &lt;/b&gt;조선비즈 사회부장·&lt;b&gt;금현희 &lt;/b&gt;약사 부친상, &lt;b&gt;고경지 &lt;/b&gt;약사 장인상, &lt;b&gt;정유진 &lt;/b&gt;시부상, &lt;b&gt;고유리 &lt;/b&gt;개인정보보호위원회 변호사·&lt;b&gt;고유정 &lt;/b&gt;창원지검 통영지청 검사 외조부상=3일0시9분 서울아산병원, 발인5일4시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김기특 &lt;/b&gt;별세, &lt;b&gt;김재홍 &lt;/b&gt;주사랑교회 목사·&lt;b&gt;김유선 &lt;/b&gt;선미술학원 원장·&lt;b&gt;김재욱 &lt;/b&gt;LS일렉트릭 매니저 부친상=3일9시34분 신촌세브란스병원, 발인 5일10시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이길환 &lt;/b&gt;별세, &lt;b&gt;김영록 &lt;/b&gt;전남도지사 장모상=2일0시30분 서울성모병원, 발인 5일8시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 막무가내(莫無可奈)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/04/U6J23AHCONEJNA4WMC6FI7MJG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/04/U6J23AHCONEJNA4WMC6FI7MJG4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNMDT7DOENCOPOQSIET7K5QVN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 멍하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/04/26QS5Q7WHRE2VF7IRTOOFIUT7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/04/26QS5Q7WHRE2VF7IRTOOFIUT7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CCPOJASSZB3JDHAXGUJLGVNE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 헛수고하다, 헛일하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/04/OOLJKBHK3RFV7CIW2XYLAG2VA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/04/OOLJKBHK3RFV7CIW2XYLAG2VA4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DREXNFYC5RBW3EMTOHXXX55E4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 모기 퇴치엔 페퍼민트</title>
