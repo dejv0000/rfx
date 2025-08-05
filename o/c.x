@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>러브버그 가니 이번엔 ‘해충’이…한반도 생태계 습격한 ‘이것’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/04/GR7M3ZI7UNAKFHHN7QCGISEUD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/GR7M3ZI7UNAKFHHN7QCGISEUD4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 22:43:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARV3LZCWFJB75MLDP45ZDZFKAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;한반도 남쪽에서 동남아시아 지역에서 주로 서식하는 알통다리잎벌레가 처음으로 포착됐다. /유튜브 'TV 생물도감'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동남아시아 지역에서 주로 서식하는 곤충이 한반도 남쪽에서 처음으로 발견됐다. 농사를 망치거나 일부 식물의 생장을 방해할 수도 있어 해충으로 분류되는 종이다. &lt;br&gt;&lt;br&gt;지난달 29일 유튜브 채널 ‘TV 생물도감’에는 남해안 인근에서 칡 줄기에 다닥다닥 붙어 서식하는 ‘알통다리잎벌레’ 일종의 영상이 공개됐다. 생물 전문 유튜버는 “우리나라에 있어서는 안 되는 것”이라며 우려를 표했다. &lt;br&gt;&lt;br&gt;핑크색 광택을 띠는 등껍질과 굵은 뒷다리가 특징인 이 곤충은 ‘열대의 보석곤충’이라고 불리며 인도네시아 등 동남아 지역에서 주로 서식한다. 영상에서는 ‘사그라알통다리잎벌레’라고 소개됐지만, 공식적인 한국어 명칭은 아직 없다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKGP46PLJREWDFAZK6P57LB7AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나무 줄기에 붙어 서식하는 알통다리잎벌레. /유튜브 'TV 생물도감'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문제는 알통다리잎벌레가 해충이라는 점이다. 이 벌레는 일부 식물의 잎과 줄기를 갉아먹어 농사를 망치고, 특히 포도나무 등 덩굴류 식물의 줄기에 파고들어 살며 색물 생장을 방해한다. 주로 열대 지방에 분포해 국내에 유사종조차 없는데다, 유입될 경우 즉시 소독 처리를 하지 않으면 식물에 해를 끼친다. 2012년과 2014년, 2021년 해외 선박 등을 통해 한국에 들어온 기록은 있지만 아직까지 국내 정착 사례가 확인된 바는 없다. &lt;br&gt;&lt;br&gt;전문가들은 열대 해충의 한국 정착 이유로 기후변화를 꼽았다. 곤충은 온도 변화에 민감한데, 열대 곤충이 북상했다는 것은 그만큼 우리나라가 따뜻해졌다는 방증이다. &lt;br&gt;&lt;br&gt;농림축산검역본부는 “최근 유튜브 채널에 소개된 것을 계기로 해당 종이 발생한 사실을 인식했다”며 “환경부 국립생태원과 합동 조사 예정이며 발생 정도 및 범위 등을 확인한 후 관련 기관과 향후 조치 사항을 협의할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 기표(記票)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/05/O4BSIKZSG5BZZMCQX3MM3V2M6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/05/O4BSIKZSG5BZZMCQX3MM3V2M6I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 04 Aug 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LACQUWFTVNC4RKOGMAT5ULT3RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 드론사, ‘평양 추락 무인기’ 항적 조작하고 조종사 허위 진술서 작성</title>
       <link>https://www.chosun.com/national/court_law/2025/08/06/LCNQX3QUQFCBPLERXDFEKULFKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/06/LCNQX3QUQFCBPLERXDFEKULFKI/</guid>
@@ -902,24 +920,6 @@
       <description/>
       <pubDate>Mon, 04 Aug 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RLUD7LUJJCFZCQQ5ZVIKR5C3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a long time coming</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/05/R7G757LG75CJ7DFSGZD5XHYX7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/05/R7G757LG75CJ7DFSGZD5XHYX7I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7THZ6RIHOBENRBXE2ZSEQIF3HU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2677] 칼럼 풀어 읽기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/05/MEBEHADQQJE27OPSORR3UVXXWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/05/MEBEHADQQJE27OPSORR3UVXXWY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YA4YIYCDNVCYNO6S5CYSMCQA2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“난 돈 버는 기계, 이혼해 달라”… 아내에 살해당한 1타 강사의 문자</title>
