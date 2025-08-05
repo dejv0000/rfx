@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, ‘주식 차명거래 의혹’ 이춘석 민주당 의원 수사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/05/2O2A7SG7EFGPNLXF7METN2JLXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/2O2A7SG7EFGPNLXF7METN2JLXE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 10:10:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLIWKNREQBCKTBT6JXH6ZHWUJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회 법제사법위원회 위원장을 맡고 있는 이춘석 더불어민주당 의원이 4일 서울 여의도 국회에서 열린 본회의에서 타인 명의로 개설된 주식 계좌를 확인하고 있다. /더팩트 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보좌관 명의로 주식 차명 거래를 했다는 의혹을 받는 국회 법제사법위원장 이춘석 더불어민주당 의원(4선·전북 익산갑)에 대해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 금융실명법 위반 혐의로 이 의원을 입건했다고 5일 밝혔다. 이 의원이 사용한 주식 계좌 명의자인 보좌관 차모씨도 방조 혐의로 입건했다.&lt;br&gt;&lt;br&gt;경찰은 이날 오후 ‘비자금 조성 목적이 의심되는 이 의원의 차명 거래 의혹에 대해 철저히 수사해달라’는 내용의 고발장을 접수했다.&lt;br&gt;&lt;br&gt;이날 접수된 고발장에는 공직자윤리법 위반 등 다른 혐의에 대해서는 적시되지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 지난 4일 서울 여의도 국회 본회의장에서 휴대전화를 이용해 차씨의 명의로 주식을 거래한 혐의를 받는다. 차씨는 이 의원이 국회 사무총장이던 당시부터 함께 일한 보좌관으로 알려졌다.&lt;br&gt;&lt;br&gt;정청래 더불어민주당 대표는 5일 민주당 소속 이 의원의 주식 차명 거래 의혹에 대해 당 윤리감찰단에 긴급 진상 조사를 지시했다. &lt;br&gt;&lt;br&gt;야권에선 이 의원이 네이버 주식 등을 거래한 것과 관련해, 이재명 정부 인수위 역할을 하는 국정기획위원회에서 AI 담당을 하는 분과위원장을 맡은 점 등을 들어 관련 분야 이해충돌 가능성을 제기했다.&lt;br&gt;&lt;br&gt;송언석 국민의힘 비상대책위원장 겸 원내대표는 “이춘석 법사위원장은 올 초 재산 신고 당시 주식 소유 내역이 전혀 없다고 했는데, 차명 주식 거래는 명백한 법령 위반”이라면서 “이 위원장은 작년 10월에도 국정감사장에서 보좌관 명의로 주식 거래를 하는 모습이 보도됐는데 상습범이 아닌지 의심스럽다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국민의힘은 이춘석 법사위원장을 즉시 국회 윤리위원회에 회부하고 금융실명법 등 실정법 위반으로 형사고발하겠다”면서 “법치주의 선도자가 되어야 할 법사위원장이 현행법을 위반한 사실을 도저히 용납할 수 없다. 즉시 법사위원장 직에서 사퇴하라”고 했다.&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원은 이날 “이 의원을 오늘 금융실명법 위반, 공직자윤리법 위반 혐의로 형사 고발할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 의원 측은 본회의장에 들어갈 때 보좌진 휴대전화를 잘못 들고 갔다고 해명한 것으로 전해졌다. 이날 이 의원은 사과하면서도 차명 거래 의혹에 대해선 부인했다. 그는 페이스북에 “변명의 여지가 없다. 물의를 일으킨 점 진심으로 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;그러면서도 “다만, 타인 명의로 주식 계좌를 개설해서 차명 거래한 사실은 결코 없으며, 향후 당의 진상 조사 등에 성실히 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 서울→일산 음주운전한 용산서 경찰관, 檢 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/05/DER7M45Q7JBQJOFSQZIGJBFOVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/DER7M45Q7JBQJOFSQZIGJBFOVM/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 09:19:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVYDXFONX224I44I2QQ5XVYOHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 경기 일산까지 음주운전한 혐의로 붙잡힌 현직 경찰관이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;경기 일산서부경찰서는 도로교통법 위반(음주운전) 혐의로 서울 용산경찰서 소속 30대 남성 A씨를 불구속 송치했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 16일 새벽 서울 용산구에서 술을 마신 뒤 자차를 몰고 경기 고양시 일산서구까지 이동한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 일산 킨텍스IC 갓길에 차를 정차한 채 잠들었다. 이를 발견한 다른 운전자가 깨우자 그대로 운전해 도로 구조물을 들이받은 것으로 드러났다. &lt;br&gt;&lt;br&gt;당시 A씨의 혈중 알코올 농도는 면허 취소 수준으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“피곤해, 당 떨어졌나봐”? 사실과 다릅니다... 혈당 스파이크의 진실</title>
+      <link>https://www.chosun.com/medical/2025/08/05/HEVSNY4ENJBG7GZUXYVBUIJLTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/medical/2025/08/05/HEVSNY4ENJBG7GZUXYVBUIJLTU/</guid>
+      <dc:creator>김철중 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 09:19:34 +0000</pubDate>
+      <content:encoded>‘혈당 스파이크’는 최근 가장 뜨거운 건강 키워드 중 하나이다. 혈당 스파이크는 무엇이고 왜 위험할까? 조선일보 의학 전문 유튜브 콘텐츠 ‘이러면 낫는다’는 서울대병원 내분비대사내과 조영민 교수와 혈당 스파이크에 대해 알아봤다. &lt;br&gt;&lt;br&gt;혈당 스파이크는 공식 학술 용어는 아니다. 의학계에선 ‘글루코스 익스커션’(Glucose excursion)이라 부른다. 혈중 포도당 농도가 급격히 상승했다 떨어지는 현상을 뜻하는데, 최근 연속 혈당 측정기(CGM) 보급으로 혈당 그래프가 뾰족하게 오르내리는 모습에서 유래했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZD7UNZV5KND4ZDJDUTY2O5OTHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘혈당 스파이크’에 대한 공통된 기준은 아직 없다. 조 교수는 서울대병원 연구 데이터를 바탕으로 ▲식전 혈당에 비해 식후 혈당이 50mg/dL 이상 오르고 ▲동시에 식후 혈당이 140mg/dL를 넘을 경우가 혈당 스파이크에 해당한다고 설명했다. 그는 “단 한 번의 스파이크는 큰 문제가 아니지만, 매번 식사할 때마다 혹은 매일 반복적으로 나타나는 것이 문제”라고 강조했다. 정상 공복 혈당은 70~100mg/dL이며, 식후 2시간 혈당은 140mg/dL를 넘지 않아야 정상이라고 조 교수는 설명했다. &lt;br&gt;&lt;br&gt;혈당을 급격하게 올리는 음식은 “입에 넣자마자 바로 단맛이 나는 음식”들이다. 케이크, 아이스크림 등 단순당이 많고, 백미나 밀가루 등 정제된 곡물로 만든 빵, 떡, 면류도 혈당을 올린다. 특히 과일을 착즙하거나 믹서에 간 스무디, 주스 등은 혈당을 빠르게 올리므로, 과일은 썰어서 천천히 먹는 것이 좋다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHJ7FRPZQFBNLNYCPXMJXBXTOY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 유행하는 ‘단짠(단맛+짠맛)’ 음식은 더욱 주의해야 한다. 단맛과 짠맛은 SGLT1이라는 수송체를 통해 체내에 동시 흡수되므로, 고혈당뿐 아니라 고혈압, 심혈관 질환까지 동시에 유발할 수 있기 때문이다. &lt;br&gt;&lt;br&gt;많은 사람이 피곤할 때 “당 떨어졌다”면서 초콜릿이나 사탕을 찾지만, 우리 몸은 혈당이 70mg/dL 이하로 떨어지는 저혈당을 막기 위한 모든 장치를 갖추고 있어 실제 당이 떨어지는 경우는 드물다고 조 교수는 설명했다. 다시 말해, 혈당 스파이크 자체는 몸으로 느낄 수 없으며, 졸림이나 피곤함 같은 증상과 연결 짓기 어렵다는 것이다. 이런 경우 단맛의 음식을 먹기보다 잠시 산책하는 등 가볍게 움직이는 것이 도움이 될 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TOAUXMVXBBUFAENK2BUVUYCIU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보 의학·건강 유튜브 '이러면 낫는다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조영민 교수는 혈당 스파이크를 줄이기 위해 다음과 같은 생활 습관을 추천했다. &lt;br&gt;&lt;br&gt;• 식사 전 야채 등 섬유질이 많은 음식을 먼저 섭취해 당 흡수를 늦춘다&lt;br&gt;&lt;br&gt;• ‘슬로우 푸드’와 ‘슴슴한 음식’을 즐겨 먹는다 - 어릴 때부터 단맛에 길들여지지 않도록 한다. 제로 음료도 단맛에 계속 익숙하게 만들 수 있어 장기적으로는 더 몸에 안 좋을 수 있다&lt;br&gt;&lt;br&gt;• 일주일에 최소 150분 이상의 유산소 운동을 꾸준히 한다&lt;br&gt;&lt;br&gt;• 과체중이거나 당뇨병 전 단계 환자의 경우, 체중의 5~7% 감량을 목표로 고칼로리 음식(특히 지방과 당분이 많은 음식)을 줄여 나간다&lt;br&gt;&lt;br&gt;더 자세한 내용은 유튜브 ‘이러면 낫는다’에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수도권 지자체 뭐하다... 국유지 5조원어치 재산 목록에 빠져 있었다</title>
+      <link>https://www.chosun.com/politics/goverment/2025/08/05/WPTHKOMOPBBUJBSVN5D3ELQNWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/08/05/WPTHKOMOPBBUJBSVN5D3ELQNWE/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 09:08:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PDAEBNEC2NGUJIJNPBMTNGAV3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감사원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 지방자치단체들이 관리 소홀로 최대 5조2000억원에 달하는 토지를 국가의 재산 목록인 ‘공유재산대장’에 등재하지 않고 있었던 것으로 감사원 감사 결과 드러났다.&lt;br&gt;&lt;br&gt;감사원이 5일 공개한 ‘수도권 공유 재산(부동산) 관리 실태’ 감사 보고서에 따르면, 서울·인천·경기와 산하 기초자치단체 등 69개 지방자치단체가 2021년부터 2023년까지 3년간 8010필지를 갖고 있었으면서도 공유재산대장에 올리지 않은 것으로 나타났다. 이 필지들의 면적을 더하면 1600만㎡(약 485만 평)에 달했고 가액은 적었던 해에는 3조원, 많았던 해에는 5조2000억원에 달했다.&lt;br&gt;&lt;br&gt;이 가운데 5955필지(74.3%)는 개발 사업으로 지자체가 무상 취득하게 된 토지였으나 사업 시행사가 관련 토지의 등기를 늦추면서 공유재산대장 등재가 이뤄지지 못한 경우였다. 이 가운데는 10년 넘게 공유재산대장에 오르지 못한 땅도 있었다.&lt;br&gt;&lt;br&gt;감사원은 국유지가 공유재산대장에 등재되지 못해 관할 지자체가 해당 국유지를 관리하지 못하면 사인이 국유지를 무단으로 점유하게 될 수 있다고 지적했다. 감사원이 한국국토정보공사에 공유재산대장에 오르지 못한 국유지 일부가 무단 점유됐는지를 확인해보게 했더니, 지난해 10월 기준 121필지가 무단 점유돼 있는 것으로 나타났다. 감사원은 “무단 점유가 된 경우 점유자의 자발적인 점유 해제가 아니면 행정대집행을 완료해야 원상 복구가 되는 등, 공유재산을 취득 목적대로 활용하지 못할 우려가 있다”고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 행정안전부에 지자체가 ‘공유재산 관리 시스템’에서 토지대장과 공유재산대장을 자동으로 비교해 누락된 공유재산을 확인하고 이를 공유재산대장에 등재할 수 있도록 공유재산 관리 시스템을 개선하라고 통보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장 대행, 신임검사 신고식서 “부끄러움은 남은 자들의 몫... 두려워 말자”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/05/PWCVBB5KIJBSVPUMYMEKKAQDLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/PWCVBB5KIJBSVPUMYMEKKAQDLM/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 09:07:49 +0000</pubDate>
+      <content:encoded>노만석 검찰총장 직무대행(대검 차장)이 신임검사 신고식에서 “옛말에 ‘사고친 이들은 하나둘 떠나고 부끄러움은 남은 자들의 몫이다’라는 말이 있다”고 말한 것으로 5일 전해졌다. 노 대행은 “검찰개혁 논의가 진행 중인 현재 상황에서 우리에게 주어진 일을 잘 하면 된다는 뜻”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OAGEHYQDFMBHMM5UFWIFEGSNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노만석 검찰총장 직무대행(대검 차장)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 노 대행은 지난 1일 대검찰청에서 열린 신임검사 49명의 신고식에서 이 같은 말을 인용하며 이들을 독려했다고 한다. 노 대행은 “우리 검찰이 처한 여러 상황에 여러분 모두 걱정이 많을 것”이라며 운을 뗐다. 이어 “수십년간 유지되어온 형사사법체계에 대한 변화가 예고되어 있고, 그 과정에서 검찰의 기능과 역할에 대한 여러 논의가 오가고 있다”며 “앞으로 우리가 갈 길이 경우에 따라서는 지금껏 가보지 않았거나 익숙하지 않은 길일 수도 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 노 대행은 “작금의 상황에 이 자리에 계신 신임검사님들께서 무슨 잘못이 있겠느냐”며 “옛말에 ‘사고친 이들은 하나둘 떠나고 부끄러움은 남은 자들의 몫이다’는 말이 있듯이 남아 있는 우리들이 감내해야 할 부분도 있을 것”이라고 했다. 이어 “그러나 두려워하지 말자”며 “어떤 변화가 있다 하더라도, 공익의 대표자로서 국민의 권리를 지키고, 국민을 범죄로부터 보호하는 우리 본연의 역할은 변해서도 안되고, 변하지도 않을 것”이라고 했다. &lt;br&gt;&lt;br&gt;노 대행은 “우리는, 현재에는 현재의 상황에서, 미래에는 미래의 상황에서 국민을 범죄로부터 지키기 위해 최선의 노력을 다하자”며 “우리는 미래에 올 변화가 두려워 오늘 쳐들어오는 범죄라는 적을 소홀히 할 여유가 없다”고 말했다고 한다. &lt;br&gt;&lt;br&gt;법조계 일각에선 ‘부끄러움은 남은 자들의 몫’이라는 발언을 두고 최근 검찰을 떠난 ‘윤석열 사단’ 검사들을 가리킨 것 아니냐는 해석이 나오기도 했다. 그러나 노 대행은 “검찰개혁 논의가 계속되는 상황에서 신임검사들은 흔들리지 말고 본연의 업무에 충실하자는 뜻을 전한 것”이라며 “어수선한 상황이지만 맡은 바 소임을 다하자는 의미”라고 말했다. &lt;br&gt;&lt;br&gt;한 대검 관계자도 “신임검사들의 가족, 친지들까지 참석한 신고식인 만큼, 걱정하는 마음을 다독이고 인권 보호라는 역할에 충실하자는 뜻으로 말씀하신 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성형수술 후 ‘사시’된 여성…병원 측 “의료사고는 아니다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/05/AR6K72UKJNHMHHQ4P3TIBU3O44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/AR6K72UKJNHMHHQ4P3TIBU3O44/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 08:38:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/553LYSM77JDJ3M7YF2TYD4EYNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 공개한 수술 직후 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 성형외과에서 눈 밑 지방 제거 수술을 받은 후 사시 증상을 겪고 있는 여성의 사연이 알려졌다. 병원 측은 공식 입장문을 통해 “안타깝다”면서도 “의료 사고가 아닌 합병증”이라고 밝혔다. &lt;br&gt;&lt;br&gt;5일 피해 여성과 병원 등에 따르면 피해 여성 A씨는 지난 2월 대구 한 성형외과에서 눈 밑 지방 제거 수술을 받은 후 사물이 겹쳐 보이는 복시 증상과 왼쪽 눈동자가 마음대로 움직이지 않는 사시 증상이 나타났다. &lt;br&gt;&lt;br&gt;A씨는 자신의 눈 상태를 확인한 후 병원 측에 연락했으나 직원은 “눈동자 움직임 문제는 안과에 가보셔야 한다”고 안내했다. 이에 A씨가 “수술하고 다음 날 생긴 문제인데 안과에 가라고 하냐”고 따지자 병원 측은 내원을 요청했다고 한다. &lt;br&gt;&lt;br&gt;하지만 A씨는 해당 병원을 신뢰할 수 없다며 대학병원을 방문해 진료받았고 ‘수술로 인한 증상’이라는 진단을 받았다. &lt;br&gt;&lt;br&gt;이 같은 내용을 전하자 해당 병원 측은 “수술 중 잘못된 부분은 없었다”며 “(정상으로) 돌아올 거라 믿는다. 힘들겠지만 같이 믿고 기다려보자”고 말했다고 한다.&lt;br&gt;&lt;br&gt;A씨의 사연이 온라인상에서 화제가 되자 병원 측은 지난 3일 공식 입장문을 통해 “먼저, 수술 후 회복 지연으로 불편을 겪으신 환자분께 진심으로 유감의 뜻을 전한다”면서도 “(A씨가 공개한 사시 증상) 사진은 현재 상태가 아니다. 공개된 사진은 수술 직후 모습이며, 최근 병원 채널로 전달받은 사진에서는 회복이 뚜렷하게 확인되었다”고 했다. &lt;br&gt;&lt;br&gt;병원 측은 “병원은 지속적으로 진료를 요청드렸다”며 “하지만 수술 후 단 한 차례 면담 이후, 현재까지 장기간 추가 내원이 이루어지지 않아 어떠한 조치도 할 수 없는 상황이었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “하사근 마비는 의료 사고가 아닌 매우 드문 합병증”이라며 “국제 가이드라인은 보존적 치료를 권고하며, 대부분 6개월 이내 회복된다. 이 원칙에 따라 경과를 함께 보자고 제안드렸다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXMMQOS2ABAU7FDSAOMDBUAPE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨가 지난 3일 촬영해 공개한 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 병원 측은 허위 사실 유포 및 명예훼손 혐의로 A씨에게 내용증명을 보낸 상태다.&lt;br&gt;&lt;br&gt;이에 A씨는 “8월 3일 현시점 내 눈”이라며 소셜미디어에 최근 자신의 사진을 공개하고 “아직도 난 사시다”라고 반박했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아줌마? 이젠 ‘환경실무원’으로 불러주세요” </title>
       <link>https://www.chosun.com/national/national_general/2025/08/05/RPNHW3Y5D5F2TCCMA326X6DMSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/RPNHW3Y5D5F2TCCMA326X6DMSY/</guid>
@@ -697,66 +751,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘구치소 브로커’, 한둘이 아니었다… 현직 변호사도 브로커 혐의로 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/08/04/YQOUO4BXUNBZDIHRUMX36O3UXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/04/YQOUO4BXUNBZDIHRUMX36O3UXE/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 08:12:06 +0000</pubDate>
-      <content:encoded>경찰이 서울구치소에서 수용자에게 뒷돈을 받고 각종 편의를 제공받을 수 있도록 브로커 역할을 한 혐의를 받는 현직 변호사의 법무법인 사무실 2곳을 압수수색했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNPN55TUWUUAED47PC7KORK22E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소 정문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 중대범죄수사과는 변호사 A씨가 근무했던 로펌과 현재 재직 중인 로펌 2곳을 4일 압수수색했다고 밝혔다. A씨는 서울구치소에 수감 중인 수용자 B씨의 요청을 받고, 지난해 7월부터 올해 5월까지 네 차례에 걸쳐 교도관에게 금품을 보낸 혐의를 받는다. A씨가 보낸 금액은 약 2000만원으로 전해졌다.&lt;br&gt;&lt;br&gt;뒷돈을 받은 교도관은 B씨에게 서신이나 의약품을 주고받을 수 있도록 편의를 봐준 것으로 알려졌다. 조폭 출신인 B씨는 현재 1인용 독방에 배정돼 있다. 경찰은 A씨를 뇌물공여 혐의로 입건하고, B씨가 독방에 들어간 데에도 교도관이 개입한 정황이 있는지 등을 수사 중이다.&lt;br&gt;&lt;br&gt;이 사건은 경찰이 지난달 26일 구속한 조폭 출신 브로커 2명과는 별개 사건이다. 이들은 폭력조직 ‘신세븐파’ 출신 수용자 2명이 독방에 배정될 수 있도록 서울구치소 교도관에게 뇌물을 준 혐의를 받고 있다. 경찰은 독방 배정 정황을 확인하기 위해 지난달 28일 법무부 교정본부와 서울구치소를 압수수색했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “구치소에서 뒷돈을 받고 각종 편의를 봐 주는 브로커들이 암암리에 활동하고 있다는 소문이 과거부터 돌았는데, 이번 수사를 계기로 실제 존재가 확인되는 모양새”라고 했다. 경찰은 다른 금품 거래가 있는지 등을 파악하기 위해 수사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  8월 5일 화요일 (음력(윤) 6월 12일 丙午)</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/04/7CAEWGQNJNEVTEV5O44YI634ZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/7CAEWGQNJNEVTEV5O44YI634ZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 칠 년 큰 가뭄에 단비 만나듯 기쁘다. 48년생 가까운 사이라 더 이해되기도 안 되기도. 60년생 타인의 어리석은 짓 보고 현명하게 처신. 72년생 해답은 가까운 곳에서 찾도록. 84년생 작은 이익 매이면 대사 놓친다. 96년생 누런색과 숫자 5, 10 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 지난 일에 집착 마라. 49년생 지나친 낙관은 방심으로 이어지기 십상. 61년생 덕이 있다면 사람은 저절로 모인다. 73년생 넘치는 말보다 어눌한 언어가 더 큰 설득. 85년생 분수를 알고 상황 맞게 처신하면 후회 없다. 97년생 정서적 안정으로 집중력 높이도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 적절한 배분과 알맞은 보상 해줘야. 50년생 상대 마음만 얻으면 성공 따 놓은 당상. 62년생 과분한 이익은 탐하지 않는 게 상책. 74년생 마음의 안정과 시간적 여유 가져보도록. 86년생 죽 끓듯 쉽게 변하는 게 인심. 98년생 말하는 사람 따로 진행하는 사람 따로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 흉년은 풍년에 대비하라. 39년생 융통성과 유연한 생각 필요. 51년생 교통사고와 안전사고 주의. 63년생 넓고 얕게 말고 좁더라도 깊게. 75년생 감사할 줄 아는 삶이 행복. 87년생 내일은 오늘 땀 흘린 사람의 것. 99년생 속마음 철저히 감춰야 할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 기왓장 아끼려다 대들보 썩힐라. 40년생 관절, 이[齒] 질환은 빨리 치료. 52년생 관점의 변화가 필요. 64년생 상가(喪家)는 피하는 게 상책. 76년생 사소한 언쟁을 주의. 88년생 지킬 것과 버릴 것을 구분하라. 00년생 동료의 말도 가려서 듣도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 생각지 못한 귀인을 만날 수도. 41년생 인정과 지원으로 호감을 사라. 53년생 나이 이길 장사 있다던가. 65년생 자신에겐 칭찬을 주변에는 응원을. 77년생 선장 없는 배는 산으로 간다. 89년생 결과보다 중요한 게 과정. 01년생 원기 보충 신경 쓰도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 실수와 과오는 자신에게 돌리도록. 42년생 과음과 과식은 탈 부른다. 54년생 공격보다 수비에 주력. 66년생 적당하다 싶을 때 STOP 하라. 78년생 욕심이 스트레스의 원인. 90년생 잃을 것도, 얻을 것도 없다. 02년생 개 꼬리 삼 년 두어도 황모 못 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 남쪽으로의 여행은 활기 충전. 43년생 나귀에 짐 지고 타나 싣고 타나. 55년생 동업은 생각지도 말아야. 67년생 주변 사람과 충돌 주의. 79년생 오늘의 피땀이 내일의 큰 밑거름. 91년생 가까운 인연 소홀히 마라. 03년생 막연한 기대감은 실망만 초래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 목표치 낮추면 달성은 무난. 44년생 참새가 죽어도 짹 한다. 56년생 옛 친구에게서 희소식 들을 듯. 68년생 입장 바꿔 생각해 보면 될 일. 80년생 돼지띠와의 거래에 주의 필요. 92년생 언제나 본분을 망각하지 마라. 04년생 욕심을 내어 봐도 좋을 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 말이 많으면 실언 많은 법. 45년생 뒷일을 고려하며 오늘을 대비. 57년생 아랫사람과 언쟁은 손해 막급. 69년생 실패의 경험이 지혜 된다면 성공보다 더 큰 소득. 81년생 위엄 있는 행동에도 자애로움 잃지 마라. 93년생 먹구름에 달빛이 오간 데 없구나.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 지금은 강경보다 유화 전략 필요. 46년생 별빛은 밤 깊을수록 더 빛나는 법. 58년생 자신만만하더라도 뜻대로는 안 될 듯. 70년생 근심 있다면 배우자와 상의하라. 82년생 억지로 꾸미지 말고 본래 모습 그대로. 94년생 계획대로 끈기 있게 밀고 가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 세상에 노력 없이 얻어지는 것 있나. 47년생 지난 일 후회 말고 지금 할 수 있는 것을. 59년생 숫자 2, 7과 붉은색은 피하는 것이 상책. 71년생 마음 맞지 않아도 맞추며 가야. 83년생 특별함 추구하되 특이함 경계하라. 95년생 이성으로 인한 근심 걱정.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[단독] 8세에 보낸 음란 메시지... 대법 “아이가 안 봤어도 처벌 가능”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/04/2CXGQRVDMJGPVDUVA3B2BCT5EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/2CXGQRVDMJGPVDUVA3B2BCT5EQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 07:20:49 +0000</pubDate>
-      <content:encoded>8세 어린이에게 음란 메시지를 보낸 경우, 아이가 보지 않았더라도 메시지가 도달한 것만으로도 처벌이 가능하다는 첫 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XS4FZPE4WVB3LIVTBOMIBQYYIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 지난달 18일 아동복지법 위반·성폭력처벌법 위반 등 혐의로 기소된 A씨에게 무죄를 선고한 원심을 깨고, 유죄 취지로 사건을 대전지법으로 돌려보냈다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 놀이터에서 놀고 있던 8세 B양에게 “먹을 것을 사주겠다”며 접근해 휴대전화 번호를 알아냈다. 이후 A씨는 2022년 9월 “집에 와”라는 메시지와 함께 B양에게 자신의 성기 사진을 두 차례 전송한 혐의로 기소됐다. 다행히 이 메시지는 B양 어머니가 미리 A씨의 연락처를 차단해 놓은 상태여서 ‘차단된 메시지 보관함’에 저장돼 있었다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 유죄를 선고했다. 그러나 2심은 “B양이 A씨가 보낸 메시지를 차단된 메시지 보관함에서 실제로 봤다고 인정할 증거가 없고, 단지 음란 메시지가 아동이 인식할 수 있는 상태에 놓인 것만으로는 성 학대라고 보기 어렵다”며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;그러나 대법원은 이 판단을 뒤집었다. 대법원은 “아동이 휴대전화 등 통신 매체를 통해 성희롱성 또는 음란한 말·글·영상 등을 직접 접하거나 인식한 경우뿐만 아니라, 이러한 내용을 아동이 접하거나 인식할 수 있는 상태로 도달했다면 아동의 건전한 성 가치관 형성과 인격 발달에 해를 끼칠 위험성이 생긴 것”이라고 했다.&lt;br&gt;&lt;br&gt;즉, 음란 메시지가 아동의 휴대전화 차단된 메시지 보관함에 저장됐다는 건, 당장 아동이 메시지를 열람하지 않았더라도 이를 언제든 쉽게 확인할 수 있게 된 것이므로 처벌이 가능하다는 취지다. &lt;br&gt;&lt;br&gt;이어 “A씨가 보낸 메시지가 B양의 휴대전화 내 차단된 메시지 보관함에 남아 B양이 언제든 그 메시지에 손쉽게 접근할 수 있는 상태에 있었다”고 지적하며, 2심이 법리를 오해한 잘못이 있어 사건을 다시 심리해야 한다고 판단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마 데려와!”… 아들 집에 불 내려 한 50대 ‘징역형 집유’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/04/66WMTMKZWRHXNLTTPP5VXXFXQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/66WMTMKZWRHXNLTTPP5VXXFXQY/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>가정폭력으로 분리 조처된 아내를 데려오라며 아들 집에 불을 내려 한 50대 남성이 법원으로부터 집행유예를 선고받았다.
-춘천지법 원주지원 형사2단독 박현진 부장판사는 현주건조물 방화 예비 혐의로 기소된 A(58)씨에게 징역 1년에 집행유예 2년을 선고했다고 4일 밝혔다.
-</description>
-      <pubDate>Mon, 04 Aug 2025 07:32:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/656JPYIEJCWKZIXTJT24D6Z2DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력으로 분리 조처된 아내를 데려오라며 아들 집에 불을 내려 한 50대 남성이 법원으로부터 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 현주건조물 방화 예비 혐의로 기소된 A(58)씨에게 징역 1년에 집행유예 2년을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 강원 횡성군 횡성읍에 있는 아들 B씨의 집에 불을 내려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 가정폭력으로 분리 조처된 자신의 아내가 아들과 함께 있는 것을 알고, 아들 집을 찾아가 이 같은 범죄를 저질렀다.&lt;br&gt;&lt;br&gt;A씨는 아들 집 마당 데크에 인화성 물질을 뿌린 뒤 “열까지 셀 동안 나오지 않으면 데크에서 분신하겠다”며 아들을 위협했고, 출동한 경찰관들에게도 “가까이 오면 불을 지르겠다”며 몸에 인화성 물질을 뿌리기도 했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피해자 등이 처벌을 원하지 않는다고 진술한 점, 수사기관에서 앞으로 절대 술을 마시지 않을 것을 다짐한 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>재개발 비리 피의자, 경찰 압수수색 중 아파트서 사망</title>
-      <link>https://www.chosun.com/national/incident/2025/08/04/VUFQ6GQDKBBCHGYVLQR7ZOAADY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/04/VUFQ6GQDKBBCHGYVLQR7ZOAADY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 07:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTCVDAJL5ZRVN6FXUNLXZXXTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재개발 조합 비리 혐의로 수사를 받던 60대 남성이 경찰의 압수수색 도중 스스로 극단적인 선택을 하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;4일 전북경찰청에 따르면 이날 오전 10시 23분쯤 대전광역시의 한 아파트에서 특정경제범죄 가중처벌 등에 관한 법률 위반 혐의로 수사를 받던 A씨가 투신해 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 10시 16분쯤 법원에서 발부받은 압수수색 영장을 집행하기 위해 A씨 자택을 방문했다. 당시 경찰관 3명이 현장에 있었으며, A씨는 집에 혼자 있었다고 한다. A씨는 현관문을 열어주는 등 별다른 저항을 하지 않았는데, 한 경찰관이 압수물을 확인하기 위해 잠시 자리를 비운 사이 투신한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “압수수색 전에 A씨에 대한 소환 조사는 없었으며, 영장 집행 과정에서 신분과 혐의를 명확히 밝히는 등 법적 절차를 준수했다”고 했다. 이어 “강압 수사 정황은 없다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 사망 경위를 조사하는 한편, 관련 수사관들에 대한 감찰도 검토하고 있는 것으로 알려졌다. 또한, A씨 사망 이후에도 관련 수사를 계속 이어나갈 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>최서원 체포 때 “염병하네”...  특검, 청소부 발언으로 尹 저격</title>
       <link>https://www.chosun.com/national/court_law/2025/08/04/56YQOJU3J5BCLFJONQDGXW4XQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/56YQOJU3J5BCLFJONQDGXW4XQ4/</guid>
@@ -994,15 +988,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZNVZAQYG3NCJVF4INL5TENPMVU.png?auth=c85d6317ef505a26f3a271ba96d895a255bd2097a96bd5c4245fd26e21c3bd7c&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
         <media:description type="plain">그래픽=박상훈</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“케데헌 굿즈 사자” 국립중앙박물관 오픈런</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/04/SXANLRC4BVBUZHD3HMIACMYF2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/SXANLRC4BVBUZHD3HMIACMYF2E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:40:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJFXFUPU2NQYLP4XPCFOYS3Y3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 서울 용산구 국립중앙박물관 전시관 앞, 입장을 기다리는 시민들로 인산인해를 이루고 있다. 최근 한국 전통 문화를 담은 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스(케데헌)’가 전 세계적으로 인기를 끌자 관련 ‘굿즈’를 사려는 팬들이 몰리면서 국립중앙박물관의 관람객이 급증했다. /뉴스1&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하다 하다 이젠 축구·피아노도 영어로 교습</title>
