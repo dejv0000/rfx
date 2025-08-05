@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>장기기증자 1년새 11% 급감…기증 받으려면 평균 6년 대기</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/05/5ZXDTOKSQVEOXM2BS3SVDMNGC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/05/5ZXDTOKSQVEOXM2BS3SVDMNGC4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 05:07:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3TVUGAEBBAENINN6J4MAKQJZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 12월 20일 서울 중구 명동 일대에서 '몸짱 산타'들이 장기기증 캠페인을 벌이고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 장기 등을 기증한 사람이 전년보다 10% 이상 감소한 것으로 나타났다. 향후 뇌사 또는 사망할 때 장기를 기증하겠다는 의사표시를 한 사람도 크게 줄었다.&lt;br&gt;&lt;br&gt;5일 국립 장기조직혈액관리원의 ‘2024년도 장기 등 기증 및 이식 통계 연보’에 따르면, 지난해 장기 등을 기증한 사람은 3931명으로 전년 대비 11.3% 감소했다.&lt;br&gt;&lt;br&gt;기증 형태별로 살펴보면 뇌사 기증이 483명에서 397명으로 17.8% 줄었고, 사후 기증은 38명에서 10명으로 73.7% 감소했다. 대부분 가족이나 친지 사이에 이뤄지는 생존자 기증자도 2339명에서 1980명으로 15.3% 줄었다. 기증자가 줄면서 장기 등 이식 건수도 5054건으로 1년 전보다 15.0% 감소했다.&lt;br&gt;&lt;br&gt;더 큰 문제는 미래에 뇌사 상태에 빠지거나 죽게 되면 장기를 기증하겠다고 등록한 사람(조혈모세포는 별도)이 지난해 7만563명으로 1년 전보다 15.4% 줄었다는 것이다. 향후 기증·이식이 더 줄어들 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;이렇게 장기 기증이 위축되면서 이식이 필요한 대기자의 대기 기간은 더 길어지고 있다. 조혈모세포·안구 등을 제외한 장기 이식 대기자는 올해 4월 30일 기준 4만595명이었는데 평균 대기시간이 2193일(약 6년)에 달했다. 췌도(11.5년)나 소장(9.8년)의 경우 대기 시간이 더 길었다.&lt;br&gt;&lt;br&gt;뇌사 기증률(인구 100만명당 뇌사 기증자 수)은 지난해 7.75명으로 1년 전보다 1.66명 감소했다. 한국의 뇌사 기증률은 미국(49.7명), 스페인(47.95명), 이탈리아(29.47명) 등에 비하면 매우 낮은 수준이다. 반면 생존 시 기증률은 지난해 38.67명으로 미국(20.57명), 영국(14.35명) 등 주요국보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 강용식 前 국회 사무총장</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/08/04/OSIRAIZJWBG4NAREI3OOKSQDNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/04/OSIRAIZJWBG4NAREI3OOKSQDNU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 03 Aug 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QSPJJSOTRETHDQCNXBJEA2ECY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강용식 前 국회 사무총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강용식(86) 전 국회 사무총장이 2일 별세했다. 서울고와 서울대 법대를 졸업한 뒤 동양방송(TBC) 보도국장, KBS 보도본부장 등을 역임했다. 1985년 민주정의당 전국구 국회의원에 당선된 것을 포함해 3선 의원을 지냈다. 1987년 대선 당시 노태우 후보의 보좌역을 맡아 ‘보통사람’ 캠페인으로 당선에 기여했다. 빈소는 삼성서울병원 20호실. 발인은 5일 오전 6시30분. (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5·18 사적지 ‘옛 광주교도소’, 아파트 개발 대신 원형보존 길 열리나</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/05/TC2G42AG4ZHD5AVVALZ5IAKMMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/TC2G42AG4ZHD5AVVALZ5IAKMMI/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 04:24:41 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNRSUNTBAKUL2O5BPGETLNN6A4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 북구 문흥동 옛 광주교도소 부지. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 단지 개발에 따른 훼손 우려로 10년째 빈 공간으로 남아있는 5·18 민주화운동 사적지 ‘옛 광주교도소’를 보존할 수 있는 실마리가 생겼다.&lt;br&gt;&lt;br&gt;5일 광주광역시에 따르면 시는 지난달 28일 기획재정부에 옛 광주교도소 8만7824㎡ 부지를 ‘국유재산 선도사업’ 대상지에서 제외해달라는 내용을 담은 공문을 보냈다. 광주교도소는 1971년 광주 북구 문흥동에 자리 잡은 뒤 2015년 북구 삼각동 현재 부지로 이전했다.&lt;br&gt;&lt;br&gt;문흥동 광주교도소 부지는 5·18 민주화운동 사적지다. 이곳은 1980년 5·18 당시 3공수여단과 20사단 등 신군부 계엄군이 주둔했었다. 5·18민주화운동진상규명조사위원회는 지난해 6월 발표한 종합보고서를 통해 광주교도소를 계엄군의 민간인 체포·연행과 구타, 가혹행위, 총격으로 인한 민간인 사망·부상이 발생한 곳으로 지목했다.&lt;br&gt;&lt;br&gt;광주시는 광주교도소 이전 사업이 본격화된 2010년부터 옛 부지에 5·18 역사 고증과 교육, 연구, 전시, 체험 기능을 갖춘 ‘민주·인권기념파크’ 조성 사업 추진을 정부에 건의해왔다. 기재부 소유인 옛 광주교도소 부지를 광주시로 무상 양여해달라는 요청도 함께 했다. 5·18의 상흔이 남아 있는 사적지를 보존하고 활용하기 위해서였다.&lt;br&gt;&lt;br&gt;하지만 기재부가 2019년 12월 옛 광주교도소를 ‘유휴 국유지 토지개발 선도사업지’로 선정하자 광주시와 5·18 단체의 반발이 뒤따랐다. 기재부의 토지개발 사업 계획에는 한국토지주택공사(LH)를 위탁 사업자로 지정해 교도소 일부 부지를 개발하고 복합문화체험공간을 조성하는 방안이 담겼다.&lt;br&gt;&lt;br&gt;5·18을 대표하는 사적지에 주상복합 아파트 단지가 들어서 원형과 역사성을 훼손할 수 있다는 우려가 불거져 지자체와 관련 단체들이 반대 목소리를 낸 것이다.&lt;br&gt;&lt;br&gt;광주시는 광주교도소를 국유재산 선도사업지에서 제외하고 행정안전부 주도 국가 사업으로 전환해 아파트 개발 없는 5·18 역사 체험·전시 공간 조성 사업을 추진해달라는 건의를 이어왔지만, 기재부의 벽을 넘지 못했다.&lt;br&gt;&lt;br&gt;광주시의 이번 기재부 공문 발송은 시의 거듭된 건의에 따라 기재부가 옛 광주교도소 부지를 선도 사업에서 제외하는 방안을 검토하기로 입장을 선회하면서 이뤄진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “5·18 중요 사적지인 광주교도소 훼손은 절대 있어선 안 되는 일인 만큼 원형 보존을 토대로 한 활용을 계속 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TNRSUNTBAKUL2O5BPGETLNN6A4.jpg?auth=db6dd9af146baebaad6788bec8acbbc531d16d906f7411ebc7b8f6010bb7713e&amp;smart=true&amp;width=1080&amp;height=607" type="image/jpeg" height="607" width="1080">
+        <media:description type="plain">광주광역시 북구 문흥동 옛 광주교도소 부지. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>한덕수에 명예훼손 고소당한 오윤혜, 무혐의… “십 년 묵은 체증 내려가”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/05/E3PESZVQTFA7NPECGYWEZLO7HE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/E3PESZVQTFA7NPECGYWEZLO7HE/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 05 Aug 2025 04:29:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73JAXGYTMPPOFJEULAPXVG4QZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 출신 방송인 오윤혜(왼쪽)와 한덕수 전 국무총리. /인스타그램 캡처·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리에게 명예훼손 혐의로 고소당한 방송인 오윤혜씨가 경찰에서 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;오씨는 5일 자신의 인스타그램을 통해 직접 자신의 무혐의 처분 소식을 전하며 “십 년 묵은 체증이 내려가는 기분”이라고 했다. &lt;br&gt;&lt;br&gt;오씨는 “무려 대통령 권한대행이라는 분이 당적도 없는 저 같은 방송인을 고소했을 때 솔직히 당황스러운 것도 찰나, 그 이후 기사가 백 개 넘게 나와서 스트레스가 많았다”며 “누군가를 괴롭힐 목적으로 고소·고발 남발하면 망신당할 수 있다는 사실도 기억하면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 오씨는 지난 4월 MBC 라디오 ‘권순표의 뉴스하이킥’에 출연해 국민들이 힘든 상황에서 한 전 총리가 모 호텔에서 자주 식사를 즐겼고, 윤석열 전 대통령 파면 전에도 방문했다는 이야기를 지인으로부터 들었다는 취지의 발언 등을 했다.&lt;br&gt;&lt;br&gt;이에 한 전 총리는 오씨가 허위 사실을 퍼트려 명예를 훼손했다며 경찰에 고소했고, 서울경찰청 공공범죄수사대는 지난 6월 30일 명예훼손과 공직선거법상 허위사실공표 혐의로 오씨를 불러 조사했다. 다만 경찰은 오씨 범죄 혐의가 인정되지 않는다며 지난달 25일 불송치 처분했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김건희 최측근’ 이종호, 구속 심사 출석…이르면 오늘 밤 구속 여부 결정</title>
       <link>https://www.chosun.com/national/court_law/2025/08/05/LIOITSQ3LVHKBPKPK666AMIIOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/LIOITSQ3LVHKBPKPK666AMIIOY/</guid>
@@ -600,15 +640,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6VUVBFKVVJXPPFBRUOELS54OI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 7월 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 지난 1일 체포영장 집행에 불응한 윤석열 전 대통령이 수의를 입지 않고 있었다고 밝히며 여권에서 ‘속옷 버티기’라는 지적이 계속되는 가운데, 윤 전 대통령 측이 “허위사실을 공표한 특검 및 법무장관에 강한 유감”이라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 4일 입장문을 내고 “전직 대통령이 ‘체포에 저항하여 옷을 벗었다’고 말하며 속옷차림까지 언급하는 특검과 사실 관계를 확인하지 않고 이를 국회에서 거듭 주장한 정성호 법무장관에 깊은 유감을 표한다”며 “(허위 주장) 재발 시, 합당한 법적 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “윤 전 대통령은 지난 1일 오전 9시쯤 변호인 접견을 위해 수의로 갈아입고 대기 중이었는데, 특검 측이 찾아와 체포에 응할 것을 요청했고 윤 전 대통령은 대기 중인 변호인과 상의하면 그에 따르겠다는 입장을 밝혔다”며 “그러나 특검은 변호인이 선임계를 제출하지 않았다며 변호인과 협의를 거부했다. 이후 특검은 자체 논의를 하겠다며 윤 전 대통령 수용 거실에서 물러났다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “이후 윤 전 대통령은 당일 오전은 변호인 접견도 불가능할 것이라 생각하고 너무 더워서 잠시 수의를 벗었다”며 “그런데 특검 측이 다시 찾아와 체포에 응할 것을 요청했고 속옷 차림에 당황한 윤 전 대통령은 모포로 신체를 가리며 변호인과 협의할 것을 요청했지만, 특검 측이 이를 무시하고 당시 민망한 상황을 법적 근거 없이 임의로 촬영하기까지 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “특검 측은 마치 윤 전 대통령이 체포를 거부하기 위해 수의를 벗고 속옷 차림으로 저항한 듯 발표했으나 이는 사실이 아니다”며 “법무장관 역시 현장 교도관들을 상대로 사실 관계를 확인했다면 특검의 발표가 잘못된 것임을 알 수 있으나 특검의 발표를 그대로 인용해 전직 대통령 망신주기에 동참했다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “특검과 서울구치소는 체포 집행을 이유로 변호인 접견권을 침해했고, 이는 직권남용 체포에 해당한다는 것이 법원 판례”라며 “허위사실을 공표한 특검 및 법무장관에 대해 강력한 유감을 표하는 바다. 서울구치소 역시 추후 이와 유사한 상황에서 직권남용 및 불법체포에 동참할 경우 관련자 전원에 대한 법적 책임을 물을 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측의 이 같은 입장 발표를 두고 특검 측은 이날 오후 언론 브리핑에서 “수의를 벗은 것이 체포에 저항하기 위한 목적이 아니라 더위를 식히기 위한 목적이라는 입장은 저희가 (체포영장 집행 당시) 보기엔 아니었다”며 “(윤 전 대통령은) 누운 상태에서 (영장 집행을) 완강히 저항했다”고 말했다. 이어 체포영장 집행 과정을 촬영한 것에 대해서는 “체포 과정에서의 위법성 여부를 방지하기 위한 목적”이라며 “또 한편으론 우리가 물리력으로 체포할 때 윤 전 대통령이 위력으로 방해한다면 위력에 의한 공무집행방해에 해당해 체증하기 위한 목적이기도 하다”고 했다.&lt;br&gt;&lt;br&gt;특검은 지난 1일 오전 윤 전 대통령에 대한 체포영장 집행을 시도했으나 윤 전 대통령이 이에 응하지 않아 중단했다. 같은 날 오후 특검은 언론 브리핑에서 “윤 전 대통령은 수의도 입지 않은 채 바닥에 누운 상태에서 체포를 완강히 거부했다”고 밝혔다. 이와 관련 정성호 법무장관은 국회 법제사법위 전체회의에서 “(윤 전 대통령이) 반팔 상하의(수의)를 입고 있다가 특검이 영장 집행을 시도하자 (수의를) 벗었고, 특검이 나가자 즉시 입었다고 한다”고 말한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>채혈 결과 ‘만취 수준 0.313%’인데, 음주운전 무죄? </title>
-      <link>https://www.chosun.com/national/regional/2025/08/04/TE3AI7O3AFFXTBQK6B6T355TS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/04/TE3AI7O3AFFXTBQK6B6T355TS4/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 06:13:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMCKI5GWO5DTNIRQQ6NLAZ2IOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 ‘만취’ 수준이 훨씬 넘는 혈중알코올농도 0.313%로 측정된 50대 여성 운전자가 법원에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면 최근 제주지법 형사1단독 김광섭 부장판사는 도로교통법 위반(음주운전) 혐의로 불구속 기소된 50대 여성 A씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;공소사실에 따르면 A 씨는 2023년 5월 5일 오후 7시 34분쯤 혈중알코올농도 0.03% 이상 상태에서 제주시내 도로 약 250m 구간을 운전한 혐의로 기소됐다. A씨는 이때 전신주와 다른 차량을 연이어 들이받는 사고를 내기도 했다.&lt;br&gt;&lt;br&gt;A씨는 사고 20여 분 뒤인 오후 7시 58분부터 8시 28분 사이 소주 600mL(한 병 반 이상)를 마셨다. 이후 경찰이 오후 9시 5분 채혈 측정을 한 결과 혈중알코올농도는 0.313%로 나왔다.&lt;br&gt;&lt;br&gt;검찰은 위드마크 공식을 적용해 운전 당시 A씨의 혈중알코올농도가 0.041~0.055%였다고 추산해 기소했다. 음주운전 처벌 기준은 혈중알코올농도 0.03% 이상이다. 위드마크 공식은 음주운전 후 시간이 지나거나 당시 농도를 직접 측정할 수 없을 때 음주량·체내흡수율·체중·성별계수 등을 기반으로 추산하는 방식이다.&lt;br&gt;&lt;br&gt;A씨는 “운전은 했지만 음주운전은 아니었다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 주장을 받아들여 무죄를 선고했다. 채혈 시점이 최종 음주(오후 8시 28분) 후 30~40분이 지나 혈중알코올농도가 상승기에 있었기 때문에 최종 음주 시점의 수치는 0.313%보다 낮았을 가능성을 배제할 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;또 A씨가 사고 5시간 전인 오후 2시 40분 한 음식점에서 소주 1병과 막걸리 1병을 결제한 사실은 인정되지만, 이를 혼자 마셨더라도 위드마크 공식상 혈중알코올농도는 0.01389%로 처벌 기준에 미치지 못한다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “검찰이 제시한 증거만으로는 A씨가 0.03% 이상의 술에 취한 상태에서 운전했다고 단정하기 어렵다”고 판시했다.&lt;br&gt;&lt;br&gt;검찰은 1심 판결에 불복, 사실오인 등을 이유로 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 해병 특검, 조태열 前외교장관·장호진 前안보실장·이노공 前법무차관 압수수색 </title>
       <link>https://www.chosun.com/national/court_law/2025/08/04/SM6ZB33KNVCRLG45JP3JHPL7NQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/SM6ZB33KNVCRLG45JP3JHPL7NQ/</guid>
@@ -752,15 +783,6 @@
       </media:content>
     </item>
     <item>
-      <title>서울시 ‘약자 동행 지수’ 1년 새 17.7%↑...주거·사회 통합은 소폭 하락</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/04/4D6JWJ4YE5C4JADSGLNSI5ZASI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/04/4D6JWJ4YE5C4JADSGLNSI5ZASI/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 01:30:10 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DLMVYABGJARRA34I7NZYEPNC4.png"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 약자 동행 지수 평가 결과. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 서울시의 노인과 장애인, 저소득층 등을 위한 사업을 평가·분석한 ‘약자 동행 지수’가 전년 대비 17.7% 상승한 것으로 나타났다. 첫 평가에 비해 전반적으로 개선됐지만 주거·사회 통합 분야는 소폭 하락했다.&lt;br&gt;&lt;br&gt;서울시는 지난해 약자동행 지수가 130.6으로 전년 첫 평가 111.0보다 17.7% 상승했다고 4일 밝혔다. 기준 연도인 2022년(100)과 비교하면 30.6% 높아진 것으로 2년 연속 오름세를 기록했다.&lt;br&gt;&lt;br&gt;서울시가 2023년 개발한 약자 동행 지수는 노인, 장애인, 저소득층, 임신부 등을 위한 사업이나 서비스를 평가·분석해 매년 점수를 매긴다. 사업이나 서비스의 수준을 한눈에 파악해 부족한 분야를 우선 개선하겠다는 취지로 도입했다. &lt;br&gt;&lt;br&gt;서울시가 약자와의 동행을 선언한 2022년을 기준값(100)으로 놓고 산출해 수치가 100보다 높으면 정책적 효과가 개선됐음을, 100보다 낮으면 부진했음을 의미한다. 전체 지수는 2022년 100에서 2023년 111, 작년 130.6으로 2년 연속 상승했다.&lt;br&gt;&lt;br&gt;영역별로는 의료·건강(156.5)과 안전(148.9), 생계·돌봄(127.8), 교육·문화(111.3) 등 시민 일상과 밀접한 영역은 상승했다. 하지만 주거(120.3)와 사회 통합(95.6) 영역은 소폭 하락한 것으로 나타났다.&lt;br&gt;&lt;br&gt;가장 큰 폭으로 상승한 ‘의료·건강’ 영역은 치매 환자를 관리·지원하는 비율이 상승한 것과 청소년·청년 등을 상담·검사하는 마음 건강 지원 규모가 30% 이상 늘어난 것이 주효했다.&lt;br&gt;&lt;br&gt;안전 영역은 ‘고립·은둔 청년 발굴·지원’ 규모가 2023년 557명에서 작년 891명으로 전년 대비 약 60% 이상 늘어 해당 영역에서 가장 큰 폭으로 개선된 것으로 나타났다.&lt;br&gt;&lt;br&gt;생계·돌봄 역시 가족 돌봄 청년 복지 서비스 연계와 위기 소상공인 발굴 지원 등으로 지표가 눈에 띄게 좋아졌다. 아울러 교육·문화 영역도 온라인 교육 플랫폼 ‘서울런’과 취약계층의 문화 활동 지원 등으로 2023년 98.4에서 작년 처음으로 100을 넘은 111.3을 기록했다.&lt;br&gt;&lt;br&gt;반면 큰 상승세를 보였던 주거영역 지수는 지난해 120.3으로 전년(125.1) 대비 소폭 하락했다. 서울시는 2023년 침수 피해로 한시적으로 예산을 늘렸던 주거 취약 가구의 주거 환경 개선 규모가 감소한 여파인 것으로 분석했다. 서울시는 앞으로 주거 취약 계층 지원 대상을 확대할 계획이다.&lt;br&gt;&lt;br&gt;사회 통합 영역은 2년 연속 지수가 하락했다. 자원봉사 참여율과 기부 경험률 등의 점수가 떨어졌다. 서울시 관계자는 “사회 통합 지수 하락은 개인주의 심화와 이웃 간 단절, 공동체 기반 약화 등 요인이 복합적으로 작용한 것”이라며 “시민 간 신뢰 회복, 사회공헌 활동에 대한 자발적인 참여 유도 등이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;이번에 발표한 약자 동행 종합 지수는 서울시 누리집과 서울 정보 플랫폼 스마트 서울뷰에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘공천 개입 의혹’ 김영선 前 의원, 김건희특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/08/04/AX25CGRGNZAB7KOM7UPUWZIBQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/AX25CGRGNZAB7KOM7UPUWZIBQA/</guid>
@@ -768,15 +790,6 @@
       <description/>
       <pubDate>Mon, 04 Aug 2025 00:02:23 +0000</pubDate>
       <content:encoded>윤석열 전 대통령 부부와 정치 브로커 명태균씨의 ‘공천 개입’ 의혹에 연루된 김영선 전 의원이 4일 김건희 특검에 출석했다. 김 전 의원이 이 의혹과 관련해 특검 조사를 받는 것은 이날이 처음이다.&lt;br&gt;&lt;br&gt;김 전 의원은 이날 오전 8시 37분쯤 특검 사무실이 있는 서울 광화문 KT빌딩 웨스트에 도착했다. 김 전 의원은 이날 출석에 앞서 기자회견을 열고 자신이 받는 혐의에 대한 사실관계를 해명할 계획이었으나, 김 전 의원을 돕는 사람들의 출입을 KT 측이 막으면서 실랑이가 벌어졌다. 김 전 의원은 “특검과 KT 측의 태도가 너무 권위주의적”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKTLEHGNI5PRFPYXKMBFGQCC5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영선 전 의원이 4일 서울 종로구 KT 광화문빌딩 웨스트에 마련된 김건희 특검 사무실로 출석하며 입장을 밝히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 의원은 오전 9시쯤 특검 사무실 1층에 설치된 포토라인에서 “선출직에 나가려는 사람이 공천을 (받기) 위해서 노력하는 것, 대선후보였던 사람이 대선 승리를 위해 노력했던 것, 당대표가 당을 운영하기 위해서 노력했던 것이 범죄가 된다고 한다면 특검이나 검찰이 칼을 들이대서 범죄가 아닌 부분이 있느냐”고 했다. 이어 김 전 의원은 특검을 향해 “회계 책임자 강혜경의 횡령과 사기 등에 대한 고발 5건을 신속히 수사해 엄중 처벌해달라”고 요구했다.&lt;br&gt;&lt;br&gt;김 전 의원은 2022년 보궐 선거 당시 공천과 관련해선 피의자 신분이다. 특검은 김 전 의원과 명씨가 윤 전 대통령 부부에게 3억1800만원 상당의 대선 관련 여론조사 68건을 무료로 제공했고, 그 대가로 김 전 의원이 공천을 받은 것으로 의심한다. 이와 관련해 공천 발표 전날인 2022년 5월 9일 윤 전 대통령이 명씨와의 통화에서 “내가 김영선이 경선 때부터 열심히 뛰었으니까 그것은 김영선이를 좀 해 줘라”고 말하는 육성 녹음이 지난해 10월 공개된 바 있다.&lt;br&gt;&lt;br&gt;김 전 의원은 2024년 총선 때 창원 의창 지역구 공천 개입 의혹과 관련해선 참고인 신분으로 조사를 받을 것으로 전해졌다. 김 전 의원이 지난해 총선에서 출마를 마음먹었을 때 김건희 여사로부터 “창원 의창에 김상민 전 검사가 당선되도록 지원해라. 그러면 선거가 끝나고 장관 또는 공기업 사장 자리를 주겠다”는 전화를 받았다는 게 명씨 주장이다. 특검은 김 전 의원이 김 여사 전화를 받은 작년 2월 18일 지역구를 경남 김해갑으로 옮겨 출마하겠다는 뜻을 밝힌 점 등을 근거로 윤 전 대통령 부부가 김 전 검사 공천에 영향력을 행사했다고 의심한다.&lt;br&gt;&lt;br&gt;특검은 김 전 의원에게 이른바 ‘칠불사 회동’의 사실관계도 물을 것으로 전해졌다. 2024년 총선을 한 달가량 앞둔 2월 29일 경남 하동군 칠불사에서 이준석 개혁신당 대표가 김 전 의원, 명씨와 가진 만남을 가리키는 것이다. 명씨는 지난 2월 변호인을 통해 “칠불사 회동에서 김 전 의원이 본인의 휴대전화 통화기록과 텔레그램을 보여주었다”며 “김건희 여사는 텔레그램을 통해 김 전 의원의 김해 출마 문제를 논의했다”고 했다.&lt;br&gt;&lt;br&gt;특검은 앞서 지난달 31일과 1일 명씨를 두 차례 불러 조사했다. 이날 김 전 의원 조사 결과까지 검토해 오는 6일 김 여사를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 노상원 전 정보사령관 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/04/Y6M5BXZAWFGLNFQYSTKBIJXKOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/04/Y6M5BXZAWFGLNFQYSTKBIJXKOA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 00:16:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5DUNHQBO2JGIJ6MA64B6QDLKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관. 2024.12.24/뉴스1 ⓒ News1 박지혜 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 4일 노상원 전 정보사령관을 참고인 신분으로 소환한 것으로 나타났다.&lt;br&gt;&lt;br&gt;특검은 노 전 사령관을 상대로, 이른바 ‘노상원 수첩’에 적힌 ‘수거’, ‘NLL 북한 공격 유도’ 등 메모의 의미와 작성 경위, 계엄 선포에 앞서 무인기 평양 침투 등으로 북한의 도발을 유도해 전쟁이나 무력 충돌을 일으키려 했다는 의혹 등을 집중 수사할 것으로 보인다.&lt;br&gt;&lt;br&gt;노 전 사령관은 2018년 성추행 사건으로 불명예 전역한 뒤 점집을 차려 역술인으로 활동했다. 경찰은 지난해 12월 그의 점집에서 ‘500여 명 수집’, ‘사살’, ‘D-1’, ‘NLL 인근에서 북의 공격을 유도’ 등 문구가 적힌 수첩을 압수했다. 당시 경찰은 국방부와 합참 주요 보직자의 비화폰 번호, 대장 4명과 중장 20명의 프로필 등이 담긴 ‘국방 인사전략 방향’ 문건도 함께 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 지난달 30일 전북 군산을 찾아, 노 전 사령관이 계엄 선포 전 수차례 찾았던 무속인 ‘비단아씨’ 이모씨를 조사한 것으로 전해졌다. 특검은 이씨를 상대로 노 전 사령관의 주변 인물과, 그가 계엄 전 이씨에게 보여준 사진 속 군 관계자들의 신원을 집중 추궁한 것으로 알려졌다. 노 전 사령관을 소환한 데 이어, 주변 인물에 대한 수사도 본격화한 것이다.&lt;br&gt;&lt;br&gt;한편 노 전 사령관은 지난해 선관위 부정선거 의혹 수사를 위해 제2수사단을 꾸리기로 하고, 문상호 전 정보사령관과 정보사 소속 대령들로부터 군 인사 40여 명의 정보와 명단을 요청해 넘겨받았다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전국에 강한 비 쏟아진다…경남 내륙 이틀간 최대 120㎜ 이상 폭우</title>
@@ -981,15 +994,6 @@
       <description/>
       <pubDate>Sun, 03 Aug 2025 04:38:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZT4CTXF7CAXCP7NMHEU3LY7RQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비 오는 날 시민들이 우산을 쓰고 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3~4일 전국 대부분 지역에 강하고 많은 비가 내릴 전망이다. &lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 이날 오후 충남과 경남 서부에 비가 내리기 시작하겠다. 동해안을 제외한 그 밖의 전국은 이날 밤부터 비가 올 것으로 보인다.&lt;br&gt;&lt;br&gt;현재 우리나라 서쪽 해상에서 비구름을 동반한 저기압이 동쪽으로 이동하고 있다. 이 저기압이 3일부터 4일 사이 한반도를 통과하면서 비가 내리는 것이다.&lt;br&gt;&lt;br&gt;한반도에는 여름철 북태평양 고기압의 영향으로 수증기가 계속 유입된다. 동시에 북쪽에서는 차고 건조한 공기가 주기적으로 내려온다. 이 두 공기가 부딪히면서 비구름대가 더욱 발달하겠다.&lt;br&gt;&lt;br&gt;3일에서 5일 오전까지 예상 강수량은 수도권 30~150㎜, 강원도 10~100㎜, 충청권 30~150㎜, 호남권 30~150㎜, 영남권 30~250㎜, 제주도 20~250㎜로 예보됐다. 특히 부산과 경남 남해안, 지리산 부근, 제주도 산지에는 250㎜ 이상의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;한편 비가 내리면서 일부 지역에서는 폭염특보가 차차 해제되거나 완화되고 있다. 다만 습하고 체감 온도가 높은 날씨가 이어지면서 당분간 기온은 평년보다 비슷하거나 조금 높겠다.&lt;br&gt;&lt;br&gt;이날 오전 3시를 기해 전남 신안, 진도, 흑산도·홍도에 폭염경보가 해제됐다. 오전 6시부터는 제주도에 폭염경보와 폭염주의보가 해제됐다. 오전 7시에는 전남 강진, 해남, 영암, 무안, 목포에 폭염경보가 해제됐다.&lt;br&gt;&lt;br&gt;그러나 오전 11시 기준으로 서울 32.2도, 경기 파주 35.2도, 강원 삼척 33.8도, 강원 강릉 32.7도, 경북 군위 33.7도, 경남 통영 욕지도 33.8도까지 오르는 등 여전히 최고 체감 온도가 30~35도의 분포를 보이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 윤한홍 의원 참고인 조사... ‘공천 개입 의혹’ 관련</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/03/7YBRAIVRZRBADI2J6W3WQR3LTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/03/7YBRAIVRZRBADI2J6W3WQR3LTA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 02:52:51 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 국민의힘 윤한홍 의원을 조사한 것으로 3일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQZ4MNWJ3VL7DL53XMRBNX5MXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤한홍 국민의힘 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 2일 윤 의원을 참고인 신분으로 소환해 조사했다. 특검은 지난 2022년 보궐선거 때 김영선 전 의원이 창원 의창 지역구 공천을 받는 과정 전반을 윤 의원이 잘 알고 있을 것이라고 보고 그를 불러 사실관계를 물은 것으로 전해졌다. 특검은 정치 브로커 명태균씨가 2022년 대선 당시 윤석열 전 대통령 부부에게 여론조사 68건을 무상으로 제공하고, 그 대가로 김 전 의원 공천을 받아왔다는 ‘공천 개입’ 의혹을 수사하고 있다.&lt;br&gt;&lt;br&gt;이와 관련한 윤 전 대통령과 명씨의 통화 녹음은 검찰이 확보한 것으로 알려진 바 있다. 공천 발표 전날인 2022년 5월 9일 윤 전 대통령은 명씨에게 “공관위에서 나한테 들고 왔길래 내가 ‘김영선이 경선 때부터 열심히 뛰었으니까 그것은 김영선이를 좀 해 줘라’ 그랬는데 말이 많네. 당에서”라고 했다. 이후 명씨가 “윤한홍·권성동 의원이 (김영선 공천이) 불편한가봐요”라고 하자, 윤 전 대통령이 “나한테 특별한 얘기 안 하던데” “내가 윤상현한테 한 번 더 이야기할게. 공관위원장이니까”라고 말하는 내용이 담겼다는 것이다. &lt;br&gt;&lt;br&gt;지난 2월 공개된 김 여사와 명씨의 2022년 5월 9일 통화 녹음에서도 윤 의원을 언급하는 대목이 나온다. 김 여사는 명씨에게 “당선인(윤 전 대통령)이 지금 전화를 했는데 당선인 이름 팔지 말고 그냥 (김영선) 밀으라고 했다”며 “권성동 (의원)하고 윤한홍 (의원)이 반대하잖아요, 그렇죠?”라고 말했다. 이에 명씨는 “예. 당선인의 뜻이라고. 그렇게 해야 된다고 윤상현이를 압박했던 것 같더라”고 답했고, 김 여사는 “하여튼 너무 걱정 마세요. 잘 될 겁니다”라고 했다.&lt;br&gt;&lt;br&gt;윤 의원은 참고인 출석 요구를 받은 사실이 알려지자, 지난달 17일 자신의 페이스북을 통해 “김 전 의원을 솔직히 탐탁지 않게 생각한 것은 사실”이라면서도 “당시 윤 전 대통령 부부, 공천관리위원장(윤상현)을 비롯한 공관위원 또는 당내 지도부 그 누구에게도 공천 관련해서는 의견을 전달한 적 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
