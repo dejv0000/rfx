@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 여사 특검 조사 7시간 23분만에 종료... 조서 열람</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/07/HRBCTQVNF5CXHPYSZBEDZ5FTGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/HRBCTQVNF5CXHPYSZBEDZ5FTGE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 09:06:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEPU5MYNQKUWXQZMK7OSPVNR7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실에 피의자 신분으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특별검사팀은 6일 출석한 김건희 여사의 소환 조사가 조사 시작 후 7시간 23분 만인 오후 5시 46분 종료됐다고 밝혔다. 김 여사는 자신이 진술한 내용이 조서에 이상 없이 기재됐는지 여부를 확인하는 조서 열람 절차에 들어가게 된다. 조서 열람에는 통상 2~3시간이 걸리는 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;김 여사는 이날 오전 10시 10분쯤 특검 사무실에 도착했고, 조사는 10시 23분부터 시작됐다. 오전에는 10분 정도 중간 휴식을 취했고, 11시 59분에 오전 조사가 끝났다. 직접 싸온 빵으로 점심을 먹은 김 여사는 오후 1시부터 조사에 다시 임했다. 특검은 10분에서 30분 사이의 휴식을 중간에 가지면서 김 여사 조사를 계속 했고, 오후 5시 46분 조사를 마무리지었다. 다만 조사 시간이 다른 피의자들에 비해 짧은 만큼, 특검은 추가 소환 조사 여부를 검토하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사는 이날 특검에 출석하면서 기자들과 만나 “국민 여러분께 저같이 아무것도 아닌 사람이 이렇게 심려를 끼쳐서 진심으로 죄송하다”고 말했다. 조사실에서도 진술 거부권을 쓰지 않고 혐의를 소명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SXTFT4SRUHFJVNUFB4TL6QFMXM.jpg?auth=ee72d4b282155355a73e151c7a58efad637b977ac3282319ce6bf8cc8030c62b&amp;smart=true&amp;width=3084&amp;height=2046" type="image/jpeg" height="2046" width="3084">
+        <media:description type="plain">윤석열 전 대통령의 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실에 피의자 신분으로 출석하며 취재진의 질문을 받고 있다. 2025.8.6/뉴스1 ⓒ News1 사진공동취재단</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울대 공대, 110억원 지원 받아 핵심 AI 인재 키운다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/YASACHUOVBH2RGPNPLGVUQJY5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/YASACHUOVBH2RGPNPLGVUQJY5A/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 09:36:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTCBOV3TWVEJZFAX2KKUJHLEVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 공과대학 전경./서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교 공과대학의 협동과정인 인공지능 전공이 110억원의 정부 지원을 받아 최고급 AI(인공지능) 인재 양성에 나선다.&lt;br&gt;&lt;br&gt;서울대는 공과대학 협동과정인 인공지능 전공이 과학기술정보통신부와 정보통신기획평가원이 주관하는 ‘AI 스타펠로우십 지원’ 사업에 최종 선정됐다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;AI 스타펠로우십 지원 사업은 정부가 최고 수준의 석·박사급 인공지능 인재를 양성하기 위해 새롭게 추진하는 최고급 인공지능 신진 연구자 양성 사업이다. 서울대는 이 사업에 선정돼 올 하반기부터 2030년 12월까지 약 6년간 총 110억원의 지원을 받게 됐다.&lt;br&gt;&lt;br&gt;서울대 공과대학 인공지능 전공 연구팀은 시공간 데이터(4D), 다감각 정보(5S), 6대 로봇 기술(6R) 기반의 초지능형 AI 에이전트 핵심 기술을 선도적으로 확보할 예정이다.&lt;br&gt;&lt;br&gt;연구팀은 복잡한 물리적·사회적 시공간에서 자율성과 상호작용 능력을 갖춘 AI 에이전트 기술을 개발하고 로봇 기술과 결합된 실세계 적용형 AI 에이전트를 구현하는 등 인공지능 분야의 최고 신진 연구자를 양성하는 것을 목표로 한다.&lt;br&gt;&lt;br&gt;또한 크래프톤, 네이버클라우드, 원익로보틱스 등 산업체와의 산학 협력을 통해 산업 현장의 수요를 반영한 공동 연구, 데이터 공유, 인재 교류 등을 이어갈 방침이다. &lt;br&gt;&lt;br&gt;최근 인공지능 연구의 전환을 이끌 ‘한국형 천인계획’을 발표한 김영오 서울대 공과대학 학장은 “AI 시대에는 단순히 문제를 잘 푸는 능력을 지닌 인재보다, 창의적으로 문제를 정의하고 도전할 수 있는 인재가 중요하다”고 강조하며 “본 사업에도 다양한 지원을 아끼지 않을 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 사업을 이끌 연구책임자 강유 주임교수는 “이번 사업을 통해 서울대가 초지능형 AI 에이전트 분야에서 세계적 경쟁력을 확보하겠다”며 “또한 AI 기술 혁신을 이끌어갈 최고급 인재를 양성하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 잠실고, 43년만에 남녀공학된다…저출산 여파 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/QJOYRK56NVGQDPFFPHAWUZXKGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/QJOYRK56NVGQDPFFPHAWUZXKGI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 09:29:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JECSXSLN2QPA7LN7ZAFK2DLY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 잠실고등학교 홈페이지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 잠실고등학교가 저출산 여파로 내년부터 남녀공학으로 전환된다.&lt;br&gt;&lt;br&gt;6일 서울시교육청은 남고인 잠실고등학교의 남녀공학 전환을 승인했다고 밝혔다. 이에 따라 잠실고는 내년 3월 신입생 모집 때부터 여학생을 받는다.&lt;br&gt;&lt;br&gt;잠실고가 남녀공학 학교로 전환하는 것은 1983년 개교 이후 43년 만이다.&lt;br&gt;&lt;br&gt;학령인구 감소를 이유로 단성학교에서 남녀공학으로 바뀐 곳은 올해 서울에서만 7개교에 달한다. 학생 수가 줄면서 남고나 여고 등을 단성으로만 채우기 어려운 상황이기 때문이다.&lt;br&gt;&lt;br&gt;서울에서 올해 남녀공학으로 바뀐 곳은 사립 6개교(성암국제무역고, 송곡여중, 송곡관광고, 경복비즈니스고, 동국대사범대부속여중, 동국대사범대부속여고)와 공립 1개교(성동글로벌경영고) 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>싱글맘에 접근해 8000만원 뜯었다… ‘재력가’ 예비신랑과 시누이의 수상한 관계 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/FBFBKW3ODJGFLAVLP3JNQRN5ZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/FBFBKW3ODJGFLAVLP3JNQRN5ZM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 08:21:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7IKU2JMU5ANXHJDQK2ASNPS5I.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사실혼 관계를 숨긴 채 친남매 행세를 하며 혼인 빙자 사기를 벌인 남녀가 실형을 선고받았다. &lt;br&gt;&lt;br&gt;광주지법 형사6단독 김지연 부장판사는 사기 혐의로 기소된 홍모(43)씨와 오모(54·여)씨에게 각각 징역 2년과 징역 1년을 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;두 사람은 2018년 5월부터 2019년 9월 사이 여성 A씨에게 혼인 사기 행각을 벌여 8100여 만 원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;공소장에 따르면 홍씨와 오씨는 10년 전부터 동거해온 사실혼 관계다. 일정한 수입이 없어 생활고에 시달리던 이들은 2018년 한 모임에서 A씨를 만났다. 두 사람은 A씨가 이혼 후 자녀를 홀로 키우고 있다는 사실을 알고 그에게 결혼할 것처럼 접근해 돈을 뜯어내기로 공모했다. &lt;br&gt;&lt;br&gt;홍씨는 서울과 광주에서 예식장을 운영하는 재력가 집안인 것처럼 A씨를 속여 결혼하자고 꼬드겼다. 그러면서 오씨를 자신의 친누나라고 소개했다. &lt;br&gt;&lt;br&gt;A씨가 결혼을 결심하자 두 사람은 본격적으로 금품을 요구했다. A씨 자녀를 위한 기도비가 필요하다며 제사 비용으로 5000여 만원을 가로채고 혼수 명목으로 530만원을 받는 등 모두 8100여 만원을 뜯어낸 것으로 조사됐다. 또한 A씨 아버지 명의의 휴대전화 2대를 개통해 홍씨와 오씨가 각자 사용한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;A씨 이외에도 피해자는 더 있었다. 두 사람은 노래방 도우미로 알게 된 피해자 B씨에게도 유흥주점 동업을 제안한 뒤 역술인에게 사업 성공을 기원하는 기도비가 필요하다고 속여 360만원을 가로챈 혐의도 받고 있다. 두 사람은 A씨와 B씨에게 가로챈 돈을 생활비와 유흥비로 탕진했다.&lt;br&gt;&lt;br&gt;재판부는 “죄질이 좋지 않다. 홍씨는 동종 범죄로 실형 복역 전력도 있다. 피해 회복도 이뤄지지 않았다”며 “오씨 역시 범행에 편승해 홍씨의 누나 행세를 하고 범죄 수익을 함께 나누는 등 가담 정도가 가볍다고 볼 수 없어 실형 선고가 불가피하다”고 판시했다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘롯데리아 회동’ 방정환 준장 부서에… 계엄 당일 김용현 장관 격려금 지급</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/07/LYV2PVPHXBAAVGRKIRVNFU47YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/LYV2PVPHXBAAVGRKIRVNFU47YE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 08:45:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I6AYZUB7TNXVPS56CWICDEKAFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. (헌법재판소 제공) 2025.1.23/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12.3 비상계엄 당일 김용현 전 국방부 장관 명의로 국방부 국방혁신기획단에 200만원 격려금이 지급된 것으로 확인됐다. 당시 국방혁신기획단 단장은 ‘롯데리아 2차 회동’의 핵심 인물로 지목된 방정환 준장이었다.&lt;br&gt;&lt;br&gt;6일 추미애 더불어민주당 의원실이 공개한 ‘기타운영비 격려금 지급 현황’ 자료에 따르면, 지난해 12월 3일 국방혁신기획단에 ‘국방정책발전 및 지휘활동 보좌 유공 격려’ 명목으로 김 전 장관 명의의 격려금 200만원이 집행됐다.&lt;br&gt;&lt;br&gt;기타운영비 격려금은 개인이 아닌 부서에 지급된다. 예산 집행지침상 우수 부서나 직원 격려 등에 사용된다.&lt;br&gt;&lt;br&gt;방 준장은 당시 구삼회 육군2기갑여단장(준장)과 함께 계엄 실행 계획을 논의한 인물이다. 계엄 당일 경기 안산의 롯데리아 매장에서 노상원 전 정보사령관과 회동하며, 국회와 선관위 장악 이후 계엄사령부 산하에 ‘제2수사단’을 구성하는 방안을 구상한 것으로 알려졌다. 제2수사단은 노 전 사령관이 계엄 선포 후 선관위 부정선거 관여 의혹 등을 수사할 목적으로 설치하려 했던 별동대다.&lt;br&gt;&lt;br&gt;특검은 김 전 장관이 계엄이 성공할 경우 제2수사단을 조직해 구 여단장을 단장으로, 방 준장을 부단장으로 임명할 계획이었던 것으로 보고 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>폭염특보 인천서 70대 여성 열사병으로 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/08/07/FQAIHVPBDZBFXBGUSXDXGTUX2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/07/FQAIHVPBDZBFXBGUSXDXGTUX2M/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 08:43:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKRUUMXZHZJT3FNCWJ4HZPVQ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염 대비 구급 물품 점검하는 119구급대./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염주의보가 발효 중이던 인천에서 70대 여성이 열사병으로 숨졌다. &lt;br&gt;&lt;br&gt;6일 인천시 등에 따르면 전날 오후 1시 37분쯤 인천 부평구 부평동 부평역 인근 광장에서 의식을 잃고 쓰러진 사람이 있다는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 쓰러진 A(여‧77)씨를 병원으로 옮겼으나, A씨는 이송 1시간 30분 만인 오후 3시 29분 숨졌다. A씨는 이송 당시 체온이 40도가 넘는 상태였던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;인천시는 A씨가 열사병으로 숨진 것으로 보고 구체적인 사고 경위를 확인하고 있다. &lt;br&gt;&lt;br&gt;사고 당시 인천의 최고 기온은 32.9도, 최고 체감온도는 33.3도였다. &lt;br&gt;&lt;br&gt;인천엔 지난 4일 오전 11시부터 폭염주의보가 발효돼 사고 다음 날인 6일 오전 4시 해제됐다. &lt;br&gt;&lt;br&gt;인천에서 발생한 온열질환 추정 사망자는 지난 5월부터 최근까지 A씨를 포함해 총 3명으로 집계됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 ‘교제 살인’ 20대 남성 구속… 법원 “도주 우려”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/07/RPOEQNGBE5DTJNP3XQQLFCGMU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/07/RPOEQNGBE5DTJNP3XQQLFCGMU4/</guid>
+      <dc:creator>대전=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 08:43:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U5FWUVR6ZLU5HC5V6PS7XUJMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전에서 전 여자친구를 살해한 A(20대)씨가 6일 오후 법원으로 이동하기 위해 둔산경찰서를 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에서 전 여자친구를 살해한 혐의를 받는 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;대전지법 배성중 영장전담 부장판사는 6일 살인 혐의를 받는 A(20대)씨에 대한 구속 전 피의자 심문(영장실질심사)을 진행한 후 “도망할 우려가 있다”면서 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이날 오후 1시 30분쯤 영장 실질 심사를 위해 대전 둔산경찰서에서 나온 A씨는 검은 반팔티를 입고 갈색 모자와 마스크로 얼굴을 가린 채 호송 차량에 탑승했다. A씨는 범행 동기 등을 묻는 취재진의 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 지난달 29일 오후 12시 8분쯤 대전 서구 괴정동 한 길거리에서 전 여자친구 B씨를 흉기로 살해한 혐의를 받는다. 범행 직후 A씨는 도주했지만 이튿날 경찰에 긴급 체포됐다. 체포 직전 음독한 A씨는 병원에서 치료를 받다가 지난 5일 퇴원해 경찰의 조사를 받아왔다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “오토바이 리스 명의 문제로 (피해자와) 다툼이 있었고 날 무시한다고 생각해 화가 나 죽여야겠다고 결심했다”고 진술했다.&lt;br&gt;&lt;br&gt;A씨가 B씨의 허락 없이 B씨의 명의로 오토바이를 빌리면서 다툼이 벌어진 것으로 알려졌다. 이에 A씨는 3~4개월 전부터 범행을 결심했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 범행을 위해 미리 흉기와 농약 등을 구입했고, B씨와 오토바이 명의를 변경하기 위해 만나는 날 범행을 저질렀다.&lt;br&gt;&lt;br&gt;범행 직후 도주했던 A씨는 B씨의 빈소를 찾기도 했다. A씨는 “진짜 죽었는지 확인하려 했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 동기와 여죄 등에 대해서도 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘옵티머스 사기 연루’ 전파진흥원 前본부장, 2심도 징역 1년6개월</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/07/45A5VUTDQRAP7EIX3ERX572KCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/45A5VUTDQRAP7EIX3ERX572KCE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 08:38:55 +0000</pubDate>
+      <content:encoded>옵티머스자산운용 펀드 사기 사태와 관련해 한국방송통신전파진흥원의 기금 운용을 방해한 혐의로 기소된 전직 간부가 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4VLTYO6F5DBBHOO6BHIQ6SVTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;옵티머스 펀드 사태를 일으킨 옵티머스자산운용 사무실/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사2-3부(재판장 조은아)는 최근 업무방해 혐의로 기소된 전파진흥원 전 본부장 최모씨에게 1심과 같이 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;최씨는 2017년 옵티머스 펀드가 확정 수익형이 아닌 실적형 상품이라는 점을 알고도, 확정형 상품에 투자하는 것처럼 상부에 허위 보고해 결재를 받고 전파진흥원이 기금 780억원을 해당 펀드에 투자하도록 만든 혐의로 2015년 5월 기소됐다.&lt;br&gt;&lt;br&gt;1심은 “최씨가 펀드를 확정형 상품으로 분류한 뒤에 이에 필요한 절차만을 거쳐, 부원장에 보고하고 결재를 받은 것은 상급자의 오인이나 착각을 이용한 것”이라며 “최씨는 펀드의 위험성을 인식·예견했고, 위법성도 인식하고 있었다고 보는 것이 타당하다”고 했다. 2심도 같은 결론을 유지하며 항소를 기각했다.&lt;br&gt;&lt;br&gt;옵티머스 사태는 옵티머스가 공공기관 매출 채권에 투자한다고 속여 2018년 4월~2020년 6월 1조3000억원대 투자금을 유치한 뒤, 부실 채권 인수와 펀드 돌려막기 등에 사용해 대규모 피해를 낸 사건이다. 이를 주도한 김재현 옵티머스 대표는 2022년 대법원에서 징역 40년을 확정받은 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“두류공원을 전국 1호 국가도시공원으로”… 대구시, 지정 준비 작업 시동</title>
       <link>https://www.chosun.com/national/regional/2025/08/07/54XHJMATCFDQ5E65J4PRGRFQPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/07/54XHJMATCFDQ5E65J4PRGRFQPU/</guid>
@@ -824,33 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3TGUU73E7ISWJUNAYSXK6PPYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“청사 미화 업무를 담당하시는 공무직분들의 통일된 대외 호칭을 환경실무원으로 변경했습니다.”&lt;br&gt;&lt;br&gt;행정안전부가 자리 잡은 세종시 정부세종청사 중앙동에는 지난 4일부터 이런 안내 방송이 틈틈이 나오고 있다. 정부청사 안팎을 청소하는 환경 미화 공무직(公務職) 근로자 904명을 앞으로 ‘환경실무원’이라고 부르자는 내용이다. 공무직&lt;b&gt; &lt;/b&gt;근로자는 정부 부처나 지방자치단체, 산하 기관 등에서 시설 관리나 청소, 운전 등을 담당하는 민간 근로자다.&lt;br&gt;&lt;br&gt;청소를 담당하는 공무직들은 그간 ‘미화원’ ‘청소부’로 불렸다. 일상에서 사람들이 부를 땐 주로 ‘아줌마’ ‘아저씨’ ‘여기요’ 같은 말을 썼다고 한다. 지난달 8일 행안부와 공무직 노조의 노사 협의회에서 이 문제가 도마에 올랐다. 노조 측은 “공무직 근로자들이 자신들을 비하하는 듯한 호칭에 스트레스를 받고 있다”고 했다고 한다.&lt;br&gt;&lt;br&gt;이에 양측은 ‘환경실무원’을 새 호칭으로 쓰기로 했다. 행안부 관계자는 “다른 지방자치단체 사례를 찾아보니 ‘환경관리원’ ‘환경공무관’ 등 호칭을 쓰고 있길래 이를 반영해 적합한 호칭을 정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;다만 일각에선 “존중의 의미를 담자는 취지는 좋지만 ‘실무원님’이라는 호칭이 입에 붙지 않아 어색한 데다가 어떤 업무를 담당하는지 직관적으로 알기도 어렵다”는 반응도 나온다. 행안부 관계자는 “새 호칭이 빠르게 자리 잡도록 공무원과 시민들에게 적극적으로 알리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 특검, 매일 하던 브리핑 주 2회로 줄였다</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/TFHDAF4CZFEQVIKSOG7UL6UB34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/TFHDAF4CZFEQVIKSOG7UL6UB34/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 07:00:01 +0000</pubDate>
-      <content:encoded>김건희 특검은 5일 브리핑에서 월요일부터 금요일까지 평일 매일 진행하던 정례 브리핑을 매주 화요일과 금요일 2회로 줄인다고 밝혔다. 법조계에선 “브리핑에서 나왔던 윤석열 전 대통령의 속옷 차림 체포 거부와 ‘염병하네’ 발언이 논란을 빚은 것을 의식한 것으로 보인다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUJSNSGVLFPUFP4CNX553CJ4AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오정희 특검보가 5일 정례브리핑을 진행하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검이 정례 브리핑을 시작한 것은 지난달 3일이다. 이후 특검은 주요 피의자 및 참고인의 소환 조사 여부 등을 브리핑에서 공보해왔다. 그러나 특검은 지난 1일 오전 윤 전 대통령의 체포영장 집행을 중단한 뒤, 오후 브리핑에서 윤 전 대통령이 속옷만 입은 차림이었다고 밝혔다. &lt;br&gt;&lt;br&gt;당시 브리핑을 맡은 오정희 특검보는 “엄중한 사항이라 가볍게 비춰지는 것을 걱정한다”며 우려를 표했지만, 법조계 안팎에선 ‘브리핑 내용이 과도했다’는 비판이 나왔다. 외신도 이러한 브리핑 내용을 비중있게 다뤘다. 로이터는 체포영장 집행 당시 윤 전 대통령에 대해 “러닝셔츠와 속옷만 입고 있었다”고 보도했고, AFP는 “속옷 색상에 관한 정보는 없다”고 알렸다.&lt;br&gt;&lt;br&gt;특검은 지난 4일 브리핑에선 윤 전 대통령이 체포영장 집행에 불응한 데 대해 8년 전 최서원(개명 전 최순실)씨의 사례를 상기시켜 논란이 더욱 커졌다. 당시 브리핑을 맡았던 문홍주 특검보는 “최씨는 체포영장이 집행돼 강제로 끌려오면서 ‘이 특검은 더 이상 자유민주주의 특검이 아닙니다’라고 얘기했고, 지나가던 청소부 아주머니가 ‘염병하네’라고 했다”고 밝혔다. 당시 특검 소속 수사팀장이던 윤 전 대통령이 이러한 선례를 잘 알 것이라며 문 특검보는 “똑같이 적용하려는 것뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQPVSTGOCYNUAQGB467VEYFTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영장실질심사에 출석하는 윤석열 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검이 주말을 사이에 두고 이어진 두 번의 브리핑에서 높은 수위의 압박을 가한 셈이다. 이에 윤 전 대통령 법률대리인단은 “윤 전 대통령이 ‘체포에 저항해 옷을 벗었다’고 말하며 속옷 차림까지 언급한 특검에 깊은 유감을 표한다“며 강하게 반발했다. 대리인단은 “체포 영장을 집행하러 온 특검 측은 윤 전 대통령이 변호인과 상의하겠다는 입장을 밝히자 ‘자체 논의를 하겠다’며 물러났다”며 “이후 너무 더워 잠시 수의를 벗었는데 특검 측이 이때 찾아와 체포에 응할 것을 요청했고, 윤 전 대통령은 모포로 신체를 가리며 변호인과 협의를 요청했지만 특검 측은 이를 무시하고 민망한 상황을 촬영까지 했다”고 주장했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 “윤 전 대통령 변호인 선임서가 접수돼 변호인과 소환 조사 일정, 방식 등을 논의할 예정”이라며 “오늘, 내일 중으로는 체포영장 집행 계획이 없다”고 했다. 체포영장 집행 재개 가능성을 열어뒀던 특검이 한발 물러난 셈이다. &lt;br&gt;&lt;br&gt;이어진 브리핑에서 특검은 앞으로 정례 브리핑을 주 2회로 줄이겠다고 밝혔다. 오 특검보는 “수사가 진행 중이라는 점을 감안해 달라는 당부 말씀을 드린다”며 “(윤 전 대통령 체포영장) 집행과 관련해 논란이 많은 상황이고, 더 이상의 불필요한 논란은 적절치 않다는 판단”이라고 밝혔다. 언론의 문의가 많은 사안에 대해선 “정돈된 형태로 말씀드릴 수 있도록 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;브리핑 축소는 특검보들이 내부 논의를 거쳐 내린 결론인 것으로 전해졌다. 한 부장검사 출신 변호사는 “브리핑이 지나치게 원색적으로 진행된 것은 사실”이라며 “부정적인 여론이 커지는 것이 부담스러웠을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1억 든 가방 싣고 도주한 택시...알고 보니 친구가 짠 사기극</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/APCMFFMQ2RHT5HXV4VWJDKVQ5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/APCMFFMQ2RHT5HXV4VWJDKVQ5Y/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 07:45:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KNRAE2CTG775ASD46BRTJ6W7QA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억원이 넘게 든 친구의 여행 가방을 택시 도난 사건으로 위장해 빼돌린 40대에게 법원이 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;울산지법 형사3단독 이재욱 부장판사는 특수절도 혐의로 기소된 A씨에게 징역 8개월에 집행유예 2년을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2018년 1월 지인 B씨와 공모해, 한국에 있는 B씨의 친구 C씨를 필리핀으로 유인해 금품을 갈취할 계획을 세웠다. 이들은 C씨에게 “필리핀에서 ‘환치기’를 하면 1억원으로 300만∼400만원을 벌 수 있다”며, “10만 유로를 가지고 오라”고 속였다.&lt;br&gt;&lt;br&gt;이에 속은 C씨는 실제로 10만 유로(당시 약 1억2900만원)를 여행용 가방에 넣어 필리핀으로 출국했고, 한밤중에 현지 공항에 도착했다. 이후 A씨 일행은 C씨를 공항 인근 식당으로 데려가 식사를 한 뒤, 숙소로 이동하기 위해 택시를 탔다.&lt;br&gt;&lt;br&gt;C씨가 아무 의심 없이 10만 유로가 담긴 여행용 가방을 택시 트렁크에 실은 순간, 택시는 갑자기 속력을 내며 도주해버렸다. 알고 보니 이 택시는 A씨가 미리 섭외해 둔 차량이었으며, 운전자는 또 다른 지인이 택시 기사로 위장해 대기 중이었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;눈앞에서 1억원이 넘는 돈을 도둑맞은 C씨는 경찰에 피해 사실을 신고했고, 수사 끝에 사건의 전말을 알게 됐다. A씨는 결국 수사기관에 자수했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 인정하고 있으며 초범이고, 피해자와 합의해 처벌을 원하지 않는 점 등을 종합적으로 고려했다”고 양형 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 “내일 해병 특검 출석 불가… 구치소 접견 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/RN2JGCPW4FD2DAHMCBUVGYMRZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/RN2JGCPW4FD2DAHMCBUVGYMRZU/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:56:39 +0000</pubDate>
-      <content:encoded>김용현 전 국방장관이 오는 6일 출석 조사를 받으라는 해병 특검의 요구에 불응한다고 5일 밝혔다. 특검 조사 통보가 하루 전에 이뤄진 탓에 사건 내용을 검토할 시간이 부족해 방어권을 제대로 행사할 수 없다는 이유에서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZ7DWHCLHQK2PNZ35GD7TQQ6NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 장관 측은 이날 언론 공지에서 “김 전 장관은 해병 특검으로부터 오는 6일 오전 10시 출석을 통보받았다”며 “변호인단은 이 같은 내용을 금일(5일) 통보받았다”고 했다. 이어 “하루 전에 통보받은 일정으로는 변호인 조력권을 행사할 수 없는 사정이 있어 내일(6일) 출석할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 “(특검은) 수감돼 있는 자에 대한 통상의 수사 방법대로 구치소에서 수사 접견할 것을 요청하며, 변호인과의 일정 조율을 선행할 것을 요청한다”고 했다. 김 전 장관은 12·3 비상계엄 선포 등과 관련한 혐의로 구속돼 서울 동부구치소에 수감돼 있는 상태다.&lt;br&gt;&lt;br&gt;앞서 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 지난 4일 언론 브리핑을 통해 김 전 장관 조사 일정을 공개한 바 있다. 정민영 특검보는 “김 전 장관은 현재 구속된 상태여서 이번주 수요일(6일) 오전 10시 서울동부지검 조사실에서 조사받도록 통보할 예정”이라고 했었다.&lt;br&gt;&lt;br&gt;김 전 장관은 이른바 ‘VIP 격노설’이 불거진 2023년 7월 31일 대통령실 국가안보실 수석비서관회의에 참석한 7인 중 한 명이다. 김 전 장관은 당시 대통령 경호처장이었다.&lt;br&gt;&lt;br&gt;이에 대해 해병 특검은 이날 언론 공지에서 “특검은 김 전 장관의 변호인과 일정을 협의해 서울동부구치소에서 참고인 조사를 진행할 예정”이라며 추후 조사 일정을 공지하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, 법무장관실 압수수색… 이종섭 도피 의혹 수사</title>
       <link>https://www.chosun.com/national/court_law/2025/08/05/KA6RQVCDANA63DY42BPTME4WCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/KA6RQVCDANA63DY42BPTME4WCQ/</guid>
@@ -858,18 +907,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 07:07:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BX72FFQURMXBX4AMYNS2AZXKYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 정부과천청사 법무부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방부 장관의 주(駐) 호주 대사 임명 의혹과 관련해 5일 법무부 과천청사를 압수수색하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 이날 경기 정부과천청사 법무부 장관실과 차관실 등을 압수수색하고 있다.&lt;br&gt;&lt;br&gt;특검은 윤석열 전 대통령 등이 이 전 장관을 호주로 도피시켜 고위공직자범죄수사처(공수처) 수사를 방해하려 했다는 의혹을 수사 중이다.&lt;br&gt;&lt;br&gt;이 전 장관은 고(故) 채수근 상병 사망 사건으로 공수처에 피의자로 입건돼 수사를 받던 2024년 3월 4일 호주 대사로 임명됐다. 그런데 대사 임명 직후 공수처가 이 전 장관을 출국 금지해 놓은 사실이 알려졌고, 법무부가 출국 금지를 해제한 후에야 이 전 장관은 출국할 수 있었다. 이후 ‘도피 출국’ 논란이 커지자 이 전 장관은 중도에 귀국했고, 대사로 임명된 지 25일 만에 자진 사퇴했다.&lt;br&gt;&lt;br&gt;법무부는 이 과정에서 이 전 장관의 인사 검증 및 출국 금지 해제에 관여한 것으로 알려졌다. 특검은 전날 박성재 전 법무부 장관, 심우정 전 법무부 차관, 이노공 전 법무부 차관, 이재유 전 법무부 출입국·외국인정책본부장, 박행열 전 법무부 인사정보관리단장 등 당시 법무부 인사에 대한 압수수색을 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>400㎜ 폭우에 물이 허리까지… 아랑곳 않고 배달 나선 라이더</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/05/NDS64XWJNVDTVGN2HZFDM4JSPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/NDS64XWJNVDTVGN2HZFDM4JSPU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:54:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDAEVA7LDNGDVLSPYQ5F2SIGDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;광주에 하루동안 400㎜가 넘는 폭우가 쏟아진 지난달 17일 허리까지 차오른 물살을 뚫고 음식 배달에 나선 배달 기사의 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주에 하루 동안 400㎜가 넘는 폭우가 쏟아진 지난달 17일 허리까지 차오른 물살을 뚫고 배달할 음식을 건네받아 배달에 나선 기사의 모습이 화제가 되고 있다. &lt;br&gt;&lt;br&gt;광주 북구의 한 샐러드 가게 사장 A씨는 지난 4일 인스타그램에 “7월 17일 오후 5시, 물이 허리까지 찼는데 배달 픽업해 가신 전설의 기사님을 찾는다”는 내용의 글을 올렸다. &lt;br&gt;&lt;br&gt;A씨는 “이날 영상에 보이는 장소에서는 두 차례의 침수가 있었다. 영상은 두 번째 침수 당시의 모습”이라며 “첫 침수가 지나고 나서 한 차례 물이 빠진 상태였고, 어느 정도 상황이 정리된 것 같아 배달 영업을 재개했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKIEVOIBUJFK3NFKCURZFZOBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;허리까지 차오른 물살을 뚫고 음식 배달에 나선 기사가 음식을 받은 후 오토바이로 향하는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “설마 했는데 (가게까지) 건너오셨다. 저도 놀라 2층으로 뛰어 올라가 직접 메뉴를 들고 내려왔다”면서 “지난 침수 때 위험을 무릅쓰고 배달해 주셨던 기사님이 계속 마음에 남아있다. 혹시 이 영상 속 본인이시라면 우리 샐러드 가게에서 VIP로 모시겠다”고 전했다.&lt;br&gt;&lt;br&gt;공개된 영상에는 라이더가 허리까지 차오른 물살 속에서도 배달 음식을 업자에게 건네받아 오토바이로 향하는 모습이 담겼다. 한 손에 음식, 다른 손엔 휴대전화를 든 기사는 물살에 중심을 못 잡고 휘청이기도 했다. &lt;br&gt;&lt;br&gt;이 영상은 5일 기준 760만회 이상을 기록했다. 이후 영상 속 기사는 A씨 게시물에 댓글을 남겼다. 기사는 “처음부터 도로가 침수된 줄 모르고 콜을 잡았다. 폭우 직후 해당 도로가 물에 잠겼다가 물이 빠지고 청소까지 진행되는 걸 직접 보고 나서 정상화된 줄 알고 콜을 수락했다”고 설명했다.&lt;br&gt;&lt;br&gt;당시 기사가 현장에 도착했을 땐 갑자기 다시 도로가 물에 잠긴 상태였다고 한다. 기사는 “당연히 할 일은 한 거고, 저는 무사히 살아 있다. 제가 다 건너가서 받아도 되는데 나와서 받아주신 사장님께 감사드린다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “이건 개인의 무모함이 아니다. 위험한 상황에서도 콜이 배정되고, 취소 시 페널티가 부과되는 시스템이 여전히 존재한다”며 “우리는 플랫폼과 고객 사이에서 그저 제시간에 음식을 전달하기 위해 최선을 다하고 있다. 이런 구조 안에서 일하는 기사가 겪는 현실을 함께 봐주셨으면 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편, 이날 광주에는 하루 동안 일 강수량이 426.4㎜를 기록해 기상 관측 이래 가장 많은 7월 일 강수량으로 집계됐다. 영산강과 소태천, 광주천, 서방천 등 강과 하천의 수위가 높아졌고 2명이 실종되는 등 인명 피해와 침수 피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KKIEVOIBUJFK3NFKCURZFZOBY4.jpg?auth=2e52c6481a64d09e1809e46714982b1752bc267e29dae05ee6d5aa3db91dbf22&amp;smart=true&amp;width=720&amp;height=358" type="image/jpeg" height="358" width="720">
-        <media:description type="plain">허리까지 차오른 물살을 뚫고 음식 배달에 나선 기사가 음식을 받은 후 오토바이로 향하는 모습./인스타그램</media:description>
-      </media:content>
     </item>
     <item>
       <title>교수·의사·CEO가 52억원어치 위스키 몰래 들여와…관세 41억 추징</title>
@@ -881,15 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7W2BCEVTACIODP5DB7J2G5EDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 강남구 서울본부세관에서 관계자들이 압수된 밀수입 고가 위스키를 공개하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외에서 고가 위스키 52억원어치를 밀수입한 대학교수, 의사, 기업인 등이 세관 당국에 무더기 적발됐다. &lt;br&gt;&lt;br&gt;관세청 서울본부세관은 고가의 위스키를 정식 수입 신고하지 않고 들여오거나 실제보다 낮은 가격에 신고해 세금을 회피한 대학교수, 안과·치과의사, 기업 대표 등 10명을 적발하고 관세 등 41억원을 추징했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;이들이 몰래 들여온 위스키는 총 5435병으로 시가로 따지면 52억원 상당이다. 이들 중 일부는 밀수입한 위스키에 이윤을 붙여 재판매한 것으로 나타났다.&lt;br&gt;&lt;br&gt;적발된 이들은 위스키 가격을 저가로 신고하거나 지인 명의를 도용해 분산 수입하는 수법으로 세금 탈루를 시도했다. 일례로 대학 교수 A씨는 35회에 걸쳐 4500만원 상당의 위스키(118병)를 해외 직구로 산 뒤 구매 금액을 낮게 신고했다. 그가 몰래 반입한 수입 주류 중에는 시가 700만원을 호가하는 위스키도 있던 것으로 파악됐다. 그는 이런 방식으로 약 4000만원의 세금을 내지 않았다. &lt;br&gt;&lt;br&gt;기업 대표 B씨는 11명의 지인 명의를 이용해 위스키 484병(3억4000만원 상당)을 분산 수입하며 약 5억원을 탈루한 혐의를 받고 있다. 의사 C씨는 위스키를 ‘유리 제품’으로 속여 위스키 395병(3억원 상당)을 밀수입했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HHWXOUXXFNVLOE3OSSGIAR6CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관세청 서울본부세관이 5일 서울 강남구 서울본부세관에서 초고가 위스키 밀수입 및 탈세 행위 고소득자 검거 실적 브리핑을 열고, 압수물품을 공개하고 있다./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울세관은 고소득자로 구성된 동호회 모임에서 밀수입한 초고가 위스키를 즐기고 있다는 정보를 입수해 수사에 착수했다. 세관 당국은 적발된 이들이 회사와 자택에 보관하고 있던 위스키 551병을 압수했다. 조사 과정에서 고가의 위스키 등으로 가득 채워진 책장이 발견되기도 했다. &lt;br&gt;&lt;br&gt;수입 주류에는 관세, 주세, 교육세, 부가가치세 등이 복합적으로 부과된다. 서울세관 관계자는 “해외 직구를 악용한 관세 회피는 세금 추징은 물론 형사처벌 대상”이라며 “자가 사용을 목적으로 150달러를 초과한 주류를 해외 직구할 때는 관세 등 세금을 납부해야 하고, 150달러 이하인 경우라도 관세와 부가가치세가 면제될 뿐 주세와 교육세 등 세금은 납부된다는 점을 기억해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘특검 출석 D-1′ 김건희 여사, 부장검사들이 직접 조사한다</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/B5WNAOINWVHYVL5BFHZ2OM646A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/B5WNAOINWVHYVL5BFHZ2OM646A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 06:21:07 +0000</pubDate>
-      <content:encoded>김건희 특검은 오는 6일 김건희 여사의 대면조사는 특검에 파견된 부장검사들이 직접 진행할 예정이라고 밝혔다. 특검은 ‘도이치모터스 주가 조작’ 의혹, ‘명태균 공천 개입’ 의혹, ‘건진법사 청탁’ 의혹, ‘명품 목걸이 재산신고 누락’ 의혹, ‘대선 경선 허위사실공표’ 의혹 5가지를 조사할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XTB6QJ4L2VKRNLYFRXSCEDHW2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오정희 특검보./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오정희 특검보는 이날 브리핑에서 “부장검사들이 김 여사를 조사할 예정”이라며 “조사와 관련한 구체적인 내용은 일일이 말씀드리기 어렵다”고 했다. 추가 조사 진행 가능성과 심야 조사 여부 등에 대해서는 모두 답을 피했다. 오 특검보는 “통상적인 실무례에 따라 조사가 진행될 예정”이라고 했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 4일 김 여사 측에 조사 대상 혐의를 추가한 출석요구서를 다시 전달했다. 최초 출석 요구 당시 특검은 도이치모터스 주가조작 의혹(자본시장법 위반), 명태균 공천개입 의혹(뇌물수수·정치자금법 위반·선거법 위반), 건진법사 청탁 의혹(알선수재)을 조사 대상 피의사실로 적시했는데, 이에 명품 목걸이 재산신고 누락 의혹(공직자윤리법 위반)과 대선 경선 허위사실공표 의혹(선거법 위반)을 추가한 것이다. 각 사건 수사를 지휘하는 부장검사들이 직접 조사실에서 사실관계를 추궁할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사는 6일 오전 10시 서울 종로구 KT광화문빌딩 웨스트에 있는 특검 사무실에 공개 출석할 예정이다. 특검 조사에서 진술거부권을 행사하지 않고, 혐의 사실을 적극 소명할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손길 피하는 개 끌어다 물파스 벅벅…지하철 임산부석 학대 목격담</title>
       <link>https://www.chosun.com/national/national_general/2025/08/05/INXGK7VQJJDCRCGMNSYNQSLETA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/INXGK7VQJJDCRCGMNSYNQSLETA/</guid>
@@ -897,33 +925,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 05:52:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4NIXIQXUBCPNPO6TQIMSLJ464.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 지하철 객실에서 반려견에게 물파스를 바르고 있다./동물보호단체 케어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철 객실에서 한 남성이 반려견의 온몸에 물파스를 바르는 영상이 확산해 동물보호단체가 영상 속 남성을 찾아 나섰다.&lt;br&gt;&lt;br&gt;5일 동물보호단체 케어에 따르면 지난 1일 오후 5시 40분쯤 청량리로 향하는 한 열차 안에서 한 남성이 반려견을 학대했다는 제보가 접수됐다. &lt;br&gt;&lt;br&gt;온라인상에 공개된 영상을 보면 중년 남성이 중형 믹스견과 함께 임산부석에 자리 잡은 모습이다. 이 반려견의 목에는 용도를 알 수 없는 두꺼운 비닐이 감겨 있었고, 목줄은 없었다.&lt;br&gt;&lt;br&gt;이 남성은 주머니에서 물파스를 꺼내더니 반려견 성기와 코·얼굴·눈 주위까지 온몸에 거칠게 발랐다. 반려견이 싫다는 듯 도망가자 남성은 반려견을 다시 끌어다 앉힌 뒤 행위를 이어갔다.&lt;br&gt;&lt;br&gt;이 모습을 촬영한 제보자는 영상 속 남성에게 “물파스에요?”라고 물어봤으나 대답이 없었다. 이후 “하지 마세요”라며 만류했지만, 남성은 아무런 반응을 보이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/776FFTBV7NHBJAYWQLZ376EMLI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 지하철 객실에서 반려견에게 물파스를 바르고 있다./동물보호단체 케어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서는 더위를 타는 개를 위해 청량감을 주는 물파스를 발라준 것 아니냐는 해석도 나왔으나 케어 측은 “물파스는 사람 의약품이지 동물용 제품이 아니다”라며 “사람 피부에도 자극이 강한 물파스를 동물의 얼굴, 성기, 눈, 코에 바르는 행위는 명백한 학대”라고 했다.&lt;br&gt;&lt;br&gt;벌레 퇴치 목적일 수 있다는 주장에 대해서도 “과학적 근거도 없고 오히려 피부염, 호흡기 손상, 스트레스를 유발할 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;아울러 케어는 “남성에 대해 경찰에 고발, 수사 의뢰를 하겠다”며 영상 속 남성을 찾아 나섰다.&lt;br&gt;&lt;br&gt;이후 일부 추가 목격담이 나타났다. 케어 측에는 한여름 폭염 속 개에게 두꺼운 옷을 입혀 돌아다니거나, 개의 얼굴에 진득한 하얀 물질이 범벅된 상태로 걷는 모습, 지하철 의자에 지쳐 누워 자는 개의 모습 등이 제보됐다.&lt;br&gt;&lt;br&gt;케어는 “이 남성이 자주 나타나는 장소가 몇 곳으로 특정되고 있다”며 “조금만 더 제보가 모이면 이 남성을 특정하고 개 구조에 나설 수 있다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “우원식 국회의장·조경태 국민의힘 의원 참고인 조사 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/YAMRNHFJU5AGPPU6HF7H3OQFRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/YAMRNHFJU5AGPPU6HF7H3OQFRU/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:29:52 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 ‘12·3 비상계엄 해제 의결 방해’ 의혹과 관련해 우원식 국회의장과 조경태 국민의힘 의원에게 참고인 조사를 요청한 것으로 5일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3VTD274AOBUQ2XPEZRRDFIOUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우원식 국회의장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 작년 12월 4일 새벽 국회가 계엄 해제 요구 결의안을 의결하는 과정에서 국민의힘 의원 108명 중 90명이 참여하지 못한 경위를 파악 중이다. 계엄 당일 윤석열 전 대통령이 추경호 전 국민의힘 원내대표와 약 1분간 통화한 뒤, 추 전 대표가 비상 의원총회 장소를 여러 차례 바꾸면서 다수 의원이 국회 의결에 참여하지 못했다는 의혹이 불거졌었다.&lt;br&gt;&lt;br&gt;7일 오전 10시에 출석할 예정인 우 의장은 계엄 해제 요구안이 통과될 때까지 회의를 주재했다. 그는 작년 12월 4일 오전 12시 35분 국회 본회의장에 들어간 뒤, 49분 계엄 대응을 위한 본회의 개의를 선언했다. 이후 오전 1시 1분 계엄 해제 요구안이 상정됐고, 2분 만에 가결됐다.&lt;br&gt;&lt;br&gt;내란 특검은 또 계엄 해제 요구 결의안 표결에 참여한 국민의힘 의원 18명을 대상으로 국민의힘 지도부가 계엄 해제 표결을 방해했는지 확인하고 있다. 지난 29일 가장 먼저 안철수 국민의힘 의원에게 참고인 조사를 요청했지만, 안 의원은 “야당 탄압”이라며 반발했다. 지난 30일에는 계엄 당시 국민의힘 소속이었다가 더불어민주당으로 당적을 옮긴 김상욱 의원을 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IM6G4NCLUMBOLD6VBME5NWEIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조경태 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 11일에는 조경태 국민의힘 의원에게 참고인 조사에 응해달라고 요청했는데, 출석하겠다는 회신을 받았다고 한다. 조 의원은 계엄 해제 요구 결의안 표결에 참여했을 뿐 아니라, 윤석열 전 대통령 탄핵소추안과 내란·김건희 특검법 등에도 찬성표를 던진 바 있다. 조 의원은 앞서 언론 인터뷰 등에서 “야당도 특검 조사에 협조해야 한다”는 취지의 입장을 밝혀왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>포스코이앤씨 광명~서울고속도로 ‘감전 사고’, 양수기 제대로 작동했나 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/05/GFVKYKDYWBEKBMNPJVDBI7CH2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/GFVKYKDYWBEKBMNPJVDBI7CH2I/</guid>
-      <dc:creator>광명=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:55:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIIWAEXOKRDJBI2JTO7JAQAQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코이앤씨가 시공을 맡은 경기 광명~서울고속도로 연장공사 현장에서 외국인 근로자가 감전 사고를 당한 것과 관련해 경찰이 5일 원인 규명을 위한 현장 감식에 나섰다. &lt;br&gt;&lt;br&gt;경기 광명경찰서 등에 따르면 이날 오전 10시쯤부터 사고 현장에서 경기남부경찰청 과학수사대와 국립과학수사연구원 조사관들은 감식에 착수했다. 현장 감식에는 이들 2개 기관 소속 5명이 참여했다. &lt;br&gt;&lt;br&gt;감식은 감전이 발생한 지하 양수기 시설 주변을 중심으로 진행됐다. 사고 당시 미얀마 국적의 남성 근로자 A(30대)씨는 지하 18m 지점의 양수기 펌프가 고장을 일으키자 이를 점검하기 위해 아래로 내려갔고 이 과정에서 감전 사고를 당했다. &lt;br&gt;&lt;br&gt;사고 지점은 고속도로가 터널을 지나는 구간이다. 공사를 위해 지면을 도로 폭만큼 수십m 너비로 파놓은 상태로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 감식을 통해 양수기 시설이 제대로 설치됐는지, 사고 당시 양수기가 작동했는지 등 감전 발생 경위에 들여다본다. 또 사고 전날 비가 내려 현장에 물이 고여 있었던 만큼, 이러한 상황이 감전 사고에 영향을 미쳤는지 등도 종합적으로 살펴본다. &lt;br&gt;&lt;br&gt;사고는 전날 오후 1시 34분쯤 광명시 옥길동 광명~서울고속도로 연장공사 현장에서 발생했다. 이 사고로 A씨는 심정지 상태를 보였고, 의식불명 상태로 병원으로 이송됐다. A씨는 호흡 회복은 했지만 의식은 아직까지 돌아오지 않은 상태다. &lt;br&gt;&lt;br&gt;사고가 발생한 현장은 1공구로 국토교통부가 발주하고 포스코이앤씨가 시공을 맡은 곳이다. &lt;br&gt;&lt;br&gt;이번 감전 사고는 잇따르는 산업재해 사망사고에 포스코이앤씨가 사과를 하고 전체 현장에 대해 무기한 작업 중지를 선언한 지 엿새 만에 발생했다. &lt;br&gt;&lt;br&gt;앞서 지난 1월 경남 김해 아파트 신축현장 추락사고, 4월 경기 광명 신안산선 건설현장 붕괴사고, 대구 주상복합 신축현장 추락사고, 7월 경남 함양울산고속도로 공사현장 끼임 사고 등 총 4번의 사망사고가 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘채 상병 사고 국회 보고 대기’ 해병대 안전단장 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/45GYXFITBRAUXJGWQWT6YSEQB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/45GYXFITBRAUXJGWQWT6YSEQB4/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:33:34 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 5일 이영균(대령) 전 해병대 안전단장을 조사하고 있다. 2023년 1월 창설된 해병대 안전단은 해병대 재난안전관리를 총괄하는 사령부 직할부대다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUZMAJCKSRL6BUDMV3XCUMHCQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검의 정민영 특별검사보가 지난달 7일 오전 서울 서초구 순직해병 특검 사무실 브리핑룸에서 관련 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면 해병 특검은 이날 오전 이 대령을 참고인 신분으로 소환해 조사 중이다. 이 대령은 고(故) 채수근 상병이 사망했던 2023년 7월 당시 해병대 안전단장이었다.&lt;br&gt;&lt;br&gt;이 대령은 채 상병 사망 사고에 대한 해병대 수사단의 초동 조사 결과 언론 브리핑 등이 예정돼 있던 2023년 7월 31일 정종범 전 해병대 부사령관 등과 함께 국회 보고를 위해 대기했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 이른바 ‘VIP 격노설’이 벌어졌다는 2023년 7월 31일 오전 윤석열 전 대통령 주재 국가안보실 회의 직후 언론 브리핑 등은 취소됐다. 이에 해병 특검은 이 대령에게 당시 언론 브리핑 취소 전후 상황, 해병대 사령부 지시 사항 등을 물어본 것으로 전해졌다. 이 대령의 직속상관은 대통령실 등으로부터 ‘VIP 격노설’을 전달받은 것으로 알려진 김계환 전 해병대 사령관이었다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 이날 오전 전하규 국방부 대변인도 소환 조사 중이다. 전 대변인은 2023년 7월 30일 이종섭 전 국방장관이 해병대 수사단의 초동 조사 결과를 보고받을 때 함께 배석했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>무더위 속 남부 중심 시간당 30~50㎜ 소나기...내일부터 다시 ‘극한 호우’</title>
