@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 김건희특검, 尹 전 대통령 체포 재시도…서울구치소 진입</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/25VYN5VASVFPBL642YQARA35JA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/25VYN5VASVFPBL642YQARA35JA/</guid>
+      <dc:creator>양인성 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 22:58:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBCWEKWISVLOTPETFPAGIYOFDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 경기 의왕시 서울구치소 앞에서 취재진들과 윤석열 전 대통령 지지자들이 대기하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특검팀이 7일 윤석열 전 대통령 체포영장 집행을 다시 시도한다.&lt;br&gt;&lt;br&gt;특검 소속 차량 네 대는 이날 오전 7시 50분쯤 윤 전 대통령이 구속 수감돼 있는 경기 의왕시 서울구치소 정문을 통과했다. 출입 절차를 밟은 뒤 곧바로 윤 전 대통령 체포영장 집행을 재개할 것으로 보인다. &lt;br&gt;&lt;br&gt;특검이 발부 받은 윤 전 대통령의 체포영장 유효 기간은 이날까지다. 특검은 지난 1일 오전 8시 40분 첫 집행에 나섰지만, 윤 전 대통령이 응하지 않자 2시간여 만에 집행을 중지하고 철수했다. 이후 집행 재개 시점을 고심하다 유효 기간이 만료되는 이날 오전 집행을 재개한 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 정성호 법무장관은 지난 6일 “서울구치소에 법과 원칙에 따라 엄정하고 공정한 법집행이 이뤄지도록, 특검의 체포 영장 집행 업무에 적극 협조할 것을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울구치소 정문 앞에는 윤 전 대통령 지지자 50여 명이 모여 태극기와 성조기를 들고 “윤석열 대통령” “대통령을 석방하라” 구호를 외치고 있다. ‘STOP THE STEAL’ ‘대의도, 명분도 없는 인권탄압 정치탄압 중단하라!’고 적힌 손팻말도 들고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 119 신고 시스템 장애, 1시간여 만에 복구…“교환기 통신장비 이상”</title>
+      <link>https://www.chosun.com/national/incident/2025/08/08/5SNRAOYOT5BRVCMM6RSMWAKY7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/08/5SNRAOYOT5BRVCMM6RSMWAKY7A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 23:09:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCGLRTCWT5GUJPXBDTZRKNWDVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천소방본부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 119 신고 접수 시스템에 장애가 발생했다가 1시간여 만에 복구됐다. &lt;br&gt;&lt;br&gt;7일 인천소방본부에 따르면 전날 오후 9시 38분쯤 인천 지역 119 신고 접수 시스템에 장애가 발생했다. &lt;br&gt;&lt;br&gt;인천소방본부는 장애가 발생한 지 1시간 7분 만인 오후 10시 45분쯤 복구 작업을 마쳤다. &lt;br&gt;&lt;br&gt;인천소방본부 119 종합상황실은 119 신고 접수 전화국 회선을 총 120개 운영하고 있다. 신고가 오면 KT 전화국을 거쳐 119 종합상황실 교환기로 전달되는 구조다. &lt;br&gt;&lt;br&gt;소방 당국은 이 가운데 30개 회선을 담당하는 교환기 일부 통신 장비에 이상이 생겨 장애가 발생한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 장애가 발생한 시간 접수된 신고는 119 종합 상황실 서버 로그기록을 확인해 다시 전화를 걸어 조치했다고 설명했다. &lt;br&gt;&lt;br&gt;인천시는 안전 안내문자를 통해 “화재 등 긴급 상황 발생 시 119 신고가 안 되는 경우 112로 신고 바란다”고 했다. &lt;br&gt;&lt;br&gt;소방 관계자는 “120회선 중 90개 회선은 정상 운영돼 소방 출동에는 문제가 없었다”며 “119로 연결되지 않는 상황이 발생할 우려가 있어 안전 문자를 발송했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경력 단절이 아니라 기회 단절”… 워킹맘 CEO가 만든 일자리 ‘징검다리’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/RM2O5BO6JNHVTBO2EWEWP3SPCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/RM2O5BO6JNHVTBO2EWEWP3SPCI/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 23:00:00 +0000</pubDate>
+      <content:encoded>“경력 단절이 아니라 기회 단절입니다. 개인이 아니라 사회 전체의 문제예요. 사회 구성원이 ‘한 팀’이 되어 각각의 잠재력을 최대치로 발휘하는 사회를 만들고 싶습니다.”&lt;br&gt;&lt;br&gt;이지은(36) 대표는 경력 단절 여성에게 일자리를 알선해주는 사회적 기업 ‘부켓’의 대표다. 지난 23일 서울 용산구의 사무실에서 만난 이 대표는 본인의 직함을 ‘엄마이자 CEO’라고 소개했다. 이 대표는 지난 2022년 8월 부켓을 창업했다. 전업 일자리 복귀가 어려운 여성들에게 육아와 병행 가능한 일자리를 알선해주고, 이 경력을 기반으로 전업 일자리로 복귀할 수 있도록 돕는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JNWFKHZSJE7ZJRARRZMPTWQCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경력 단절 여성들의 취업 알선과 일자리 창출을 해주는 이지은 부켓(Bukett) 대표. 2025. 7. 23. 서울 용산구 한남동 부켓 본사 팝업스토어/조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 초등학교 3학년 아들(9)의 엄마다. 2011년 미시간대 경제학과를 졸업한 후 창업 시장에 뛰어들었으나 2016년 출산을 하면서 공동대표로 있던 회사를 퇴사했다. 주변인들은 “퇴사 후 전업주부로 사는 모습이 행복해 보인다”고 했지만 이 대표는 ‘이러려고 공부하고 커리어 쌓은 게 아닌데’라는 생각에 늘 우울했다고 한다. 학부모 모임을 나갔다가 본인과 같은 처지의 일하고 싶은 전업주부들이 많다는 것을 알게 된 이 대표는 ‘경단녀’들을 돕기 위해 다시 창업에 도전했다.&lt;br&gt;&lt;br&gt;출산 후 재취업을 원하는 여성들이 가장 힘든 점은 ‘육아와 일의 병행’이다. 여성들은 아이가 어린이집에 있는 시간 동안 일하고 나머지 시간에는 육아를 하고 싶어 하지만, 대부분의 회사는 직원을 풀타임으로만 고용한다. 이 대표는 이 ‘간극’에 주목했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLLXC5QDFFBN3CSFBUPWXODW3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경력 단절 여성들의 취업 알선과 일자리 창출을 해주는 이지은 부켓(Bukett) 대표(앞줄 가운데)가 직원, 팝업스토어 입점 대표들과 함께 모였다. 2025. 7. 23. 서울 용산구 한남동 부켓 본사 팝업스토어/조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 “여성들에게 중요한 것은 월급에 상관없이 커리어를 지속하는 것으로, 기존 연봉의 30~40%만 받고 파트타임으로 일하면서도 직장으로 복귀하고 싶어하는 여성이 많다”고 했다. 부켓은 저비용으로 능력 있는 인재를 고용하길 원하는 회사와, 파트타임으로라도 경력을 지속하길 원하는 여성을 매칭한다. 기업 입장에서는 저비용으로 고급 인력을 운용할 수 있고, 여성 입장에서는 해당 경력을 바탕으로 전업 일자리에 복귀할 수 있으니 ‘윈윈’인 셈이다.&lt;br&gt;&lt;br&gt;매칭 성공 시 첫 달 월급의 15% 내외를 부켓이 컨설팅비로 가져간다. 컨설팅비만으로는 지속적인 수익을 내기 어렵다는 판단에, 이 대표는 사무실 한쪽 공간을 여성 창업자들을 위한 플리마켓으로 꾸몄다. 고정비 없이 공간을 대여해준 후 마켓 수익의 30%를 부켓이 가져가는 식이다. 그 결과 초기 4명이었던 직원이 현재 10명으로 늘어났다. 이 중 8명은 워킹맘이다. 코오롱·삼진제약·한진·부민병원 등 40여 기업과도 최근 협력을 체결했다.&lt;br&gt;&lt;br&gt;이 대표의 궁극적인 목표는 ‘여성 생애 주기를 고려한 일자리 구조를 설계하는 것’이다. 아이가 어릴 때에는 제한된 시간만큼 일하다가 아이가 독립함에 따라 커리어를 확장해 전업 일자리로 복귀할 수 있는 구조를 만드는 것이다. 2023년 통계청에 따르면 여성의 대학 취학률은 78.3%로 OECD 국가 중 최상위권이지만, 여성 경제활동 참가율은 55.6%로 OECD 국가 중 최하위권이다. 이 대표는 “경력 단절을 해소하기 위해서는 개인뿐 아니라 기업과 사회의 노력이 모두 뒷받침돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5IFPOBO3FBEJI5QR3CIRKQ7KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 '부켓' 사무실의 모습. 이지은 대표는 사무실 한쪽 공간을 여성 창업자들을 위한 플리마켓 공간으로 꾸몄다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[어떻게 생각?] ‘낙태 전면 허용’ 법안 놓고 논란</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/07/WGOY3VASIJF7XH2VAL34KSHHGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/07/WGOY3VASIJF7XH2VAL34KSHHGM/</guid>
@@ -936,33 +963,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 14:30:00 +0000</pubDate>
       <content:encoded>전국 대체로 흐림&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52FHHAXDM5B3NA35SF5Y3DWJDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 통일교 전 재정국장 2차 소환...‘청탁·정치자금’ 조사 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/GDL75NHKMRFO5ICHPE3EM2RPSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/GDL75NHKMRFO5ICHPE3EM2RPSU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 13:39:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HQ6OBZOSJMW3LSG2GTBTVI2XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 지난달 18일 경기 가평군 통일교 천원궁 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 5일 통일교(현 세계평화통일가정연합) 전 세계본부장 윤영호씨의 아내이자 재정국장을 지낸 이모씨를 재차 소환했다. 이씨는 지난달 22일 윤씨와 함께 특검 사무실에 출석해 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 이씨는 이날 오전 9시 30분쯤 서울 종로구 KT광화문빌딩 웨스트에 출석했다. &lt;br&gt;&lt;br&gt;앞서 특검은 지난달 22일 이씨를 불러 통일교 측의 청탁 의혹 등을 조사했다. 윤씨는 통일교 현안 청탁을 위해 김건희 여사에게 전달해달라며 ‘건진 법사’ 전성배씨에게 각종 선물을 전달한 혐의(부정청탁금지법 위반)를 받는다. &lt;br&gt;&lt;br&gt;특검은 윤씨가 전씨에게 2022년 4월 7일과 7월 5일 각각 802만원, 1271만원 상당의 샤넬백을 건넸으며, 7월 29일에는 6220만원 상당의 그라프 목걸이를 건넸다고 보고 있다. 샤넬백은 이씨와 이씨의 여동생이 구매한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;윤씨는 선물 구매가 한학자 총재의 승인 아래 이뤄진 행위라고 특검에 진술한 바 있다. 하지만 통일교 측은 모든 게 “윤씨의 개인적 일탈”이라며 “(이씨가) 재정국장 지위를 이용해 회계처리한 것”이라고 반박했다. 특검은 이씨에게 선물을 구매하게 된 경위와 이후 회계처리 방법 등에 대해 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 이외에도 2022년 초 윤씨가 권성동 국민의힘 의원에게 대선 자금으로 사용하라며 현금 1억원을 제공한 혐의에 대해서도 물은 것으로 파악된다. 윤씨는 2022년 1월 5일 권 의원에게 윤석열 당시 대선 후보를 위해 사용하라는 취지에서 현금 1억원을 공여한 혐의(정치자금법 위반)를 받고 있다. 특검은 결정적 증거로 이씨의 휴대전화에서 2022년 1월 5일 현금이 담긴 상자 사진이 찍힌 증거를 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검은 5일 김 여사 첫 소환 조사를 하루 앞두고 막판 혐의 다지기에 주력하는 모양새다. 특검은 이씨 외에도 이틀 연속 윤씨를 불러 고강도 조사를 이어가고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중대본부장 “새벽부터 많은 비, 하천·계곡서 대피해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/05/E36BMIV7BZEG7NCRPK57EQME2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/E36BMIV7BZEG7NCRPK57EQME2Y/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 13:34:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKYOIJME5MA6JIHNKLYSOQ6HA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월17일 대구 북구 노곡동 마을이 집중호우로 침수돼 119구조대가 고립된 주민을 구조하기 위해 구명보트를 타고 마을로 들어가고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤호중 중앙재난안전관리본부장(행정안전부 장관)은 5일 긴급 지시를 통해 “내일 새벽, 아침 시간부터 많은 비가 내릴 것으로 예보된 만큼, 하천･계곡에 머무르는 행락객, 야영객 등을 대상으로 위험 기상과 대피 필요성을 사전에 적극 안내토록 하라”고 했다. &lt;br&gt;&lt;br&gt;윤 본부장은 “집중호우 피해 지역은 인명 피해가 발생하지 않도록 예찰･점검을 강화하고, 재피해 우려 지역･시설에 대한 사전 통제와 주민 사전 대피를 적극적으로 시행하라”며 “위험 기상 시 외출 자제, 위험 지역 접근 금지, 침수된 도로 피하기, 비 내릴 때 배수로 점검 자제 등 국민 행동 요령을 주민들께 적극 홍보하라”고 주문했다. &lt;br&gt;&lt;br&gt;윤 본부장은 또 “출근 시간 교통 혼잡·사고 방지를 위해 통제·위험 구간에 대해서는 우회도로를 신속히 알려주고, 일과 시간에도 반복적으로 안내해 국민 불편을 최소화하라”고 지시했다. &lt;br&gt;&lt;br&gt;이날 기상청은 6일 새벽 중부지방과 경북 북부를 시작으로 전국에 많은 비가 내릴 것이라고 예보했다. &lt;br&gt;&lt;br&gt;서울·인천·경기 서부와 서해 5도는 6일 하루 동안 30∼100㎜, 울릉도·독도는 5∼40㎜의 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시간당 최대 70㎜ 폭우... 내일 오전 수도권, 오후 충청권 쏟아진다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/05/TW7RMFSS4BFLZGGCR7KTD3FQIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/05/TW7RMFSS4BFLZGGCR7KTD3FQIQ/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 13:08:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLRUSNBVPRC77CQRQT265ZT2RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 광주 북구 동림동 산동교친수공원 주차장에서 작업자들이 침수 예방 작업에 사용할 모래주머니를 만드는 모습. 광주를 비롯한 호남권에는 6일 밤에서 7일 새벽 사이 시간당 30㎜ 안팎의 비가 내리는 등 이틀에 걸쳐 최대 80㎜의 폭우가 내릴 것으로 예보됐다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 중부 지방을 중심으로 시간당 30~50㎜의 폭우가 내리겠다. 일부 충청권 지역에는 시간당 70㎜ 안팎의 극한 호우가 내릴 것으로 예보됐다. 비가 그친 뒤엔 다시 폭염 특보가 강화될 것으로 보인다.&lt;br&gt;&lt;br&gt;5일 기상청에 따르면, 비는 6일 새벽 중부 지방과 경북 북부부터 시작한 뒤 이후 남부 지방과 제주도로 확대됐다가 밤사이 대부분 그친다. 다만 충청 남부와 남부 지방은 7일 아침까지, 제주도는 7일 밤까지 비가 이어질 전망이다. 6~7일 예상 강수량은 수도권 30~120㎜, 강원도 10~120㎜, 충청권 30~100㎜, 호남권 20~80㎜, 영남권 5~80㎜, 제주도 10~60㎜ 등이다. 특히 경기 북서부와 동부, 강원 중·남부 내륙 지역엔 120㎜ 이상의 비가 내리겠다. &lt;br&gt;&lt;br&gt;이번 비는 남북으로 좁고 동서로 긴 띠 모양의 강수대가 북쪽에서 남쪽으로 이동하면서 퍼붓는다. 6일 오전에서 낮 사이 수도권과 강원도에, 6일 늦은 오후에서 저녁 사이 충청권에 시간당 30~50㎜의 비가 내리겠다. 많이 올 경우 70㎜ 안팎까지 내릴 가능성도 있다. 영남권에는 6일 늦은 오후에서 밤사이, 호남권에는 6일 밤에서 7일 새벽 사이 시간당 30㎜ 안팎의 비가 내리겠다.&lt;br&gt;&lt;br&gt;일시적으로 기온이 낮아지지만, 비가 그치면 습도가 높아진 상태에서 다시 기온이 올라 폭염 특보가 강화될 전망이다. 6일 낮 최고 기온은 지역에 따라 27~34도, 7일 낮 최고 기온은 28~33도로 예보됐다. &lt;br&gt;&lt;br&gt;5일에도 한반도는 폭염과 소나기에 시달렸다. 지난 3~4일 내린 비로 대기 중 수증기량이 늘어난 상태에서 낮 기온까지 올랐기 때문이다. 5일 오후 2시 기준 체감 온도는 경기 여주 35도, 강원 정선 34.6도, 충북 부여 34.5도, 전남 무안 35.5도, 경남 합천 36.3도 등이었다. 남해안에는 시간당 30~50㎜의 매우 강한 소나기도 내렸다.&lt;br&gt;&lt;br&gt;한편, 극한 기상 현상이 이어지면서 행정안전부는 올해 폭염·호우 중앙재난안전대책본부를 동시 가동 중이다. 폭염 중대본은 지난달 25일부터, 호우 중대본은 이달 3일부터 운영 중이다. 지난해는 하루만 함께 가동했지만, 올해는 4일째 이어지고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, ‘주식 차명거래 의혹’ 이춘석 민주당 의원 수사 착수</title>
