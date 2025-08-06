@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>달리다 멈춰 선 KTX, 승객들 3시간30분 가량 갇혀 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/07/K7M6RO2ZNVD5PAIBQZYQFFZQN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/07/K7M6RO2ZNVD5PAIBQZYQFFZQN4/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 05:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSNQWPYHRBDVSML3QNSIPGLYJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KTX 열차/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 익산을 출발해 용산으로 향하던 KTX 열차가 멈춰 서 승객들이 3시간 30분 가량 열차에 갇히는 일이 발생했다.&lt;br&gt;&lt;br&gt;코레일에 따르면, 6일 오전 9시 59분 전북 익산역을 출발해 용산역으로 향하던 KTX 산천 열차가 충남 공주~충북 오송 구간 장재터널에서 고장으로 멈춰 섰다. 이 열차 안에는 승객 838명이 탑승하고 있었다. 다만, 전원은 유지돼 냉방 시설 등 가동은 정상적으로 이뤄졌다.&lt;br&gt;&lt;br&gt;코레일은 오후 1시36분이 돼서야 다른 열차에 고장 난 열차를 연결해 이를 오송역으로 이동시켰다. 코레일 관계자는 “이용에 불편을 드려 죄송하고, 고객들에게는 환불 조치 등을 안내할 것”이라며 “차량 장애 원인은 차량을 기지에 입고한 뒤 조사할 계획”이라고 했다. 이 고장 여파로 호남선 상·하행 열차 지연이 발생하고 있어, 이용객들은 반드시 운행 정보를 확인해달라고 코레일 측은 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 홍철호 前 정무수석 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/06/ATKQMHVNU5HS7O3AKOOHCFPVY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/06/ATKQMHVNU5HS7O3AKOOHCFPVY4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 05:14:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W2YD7JCKH6HL5VGISL2EGCXZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍철호 전 대통령실 정무수석. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 6일 홍철호 전 대통령실 정무수석을 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 오후 홍 전 수석을 비공개 소환해 참고인 조사를 진행 중이다. 12·3 비상계엄 선포 전후 정진석 전 대통령실 비서실장을 포함한 대통령실 관계자들의 행적 등을 구체적으로 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;홍 전 수석은 앞서 검찰 특별수사본부 조사에서 “선후관계는 기억 안 나나, 정진석 전 비서실장이 ‘비상계엄은 안 된다’고 대통령께 말씀드리니, 대통령께서 ‘저를 설득하지 말라’고 했다”고 진술한 바 있다.&lt;br&gt;&lt;br&gt;또 윤 전 대통령은 국회의 비상계엄 해제 요구 직후, 대통령실 청사 옆 합동참모본부 건물 지하에 마련된 결심지원실에 들러 김용현 당시 국방장관 등과 30여 분간 회의를 했는데, 정 전 비서실장 등이 직접 결심지원실을 찾아 윤 전 대통령에게 “대통령이 계속 합참 건물에 있는 것은 부적절하다”며 대통령 집무실로 이동할 것을 설득한 것으로 전해진다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령이 2차 비상계엄을 계획하며 국무회의 소집을 미룬 것인지, 국회의 계엄 해제 요구에 당황했던 것인지에 대해서도 살펴볼 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤호중 행안부 장관 소비쿠폰 추가 지급 가능성에 “닫혀 있진 않아”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/RLODLRUVYZGBNLYSRVYXJTQOFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/RLODLRUVYZGBNLYSRVYXJTQOFU/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 04:51:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVBTLDTOPFDRXMMNJJF5NDOLME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관이 5일 서울 여의도 국회에서 열린 행정안전위원회 전체회의에 참석해 의원들의 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관이 민생 회복 소비 쿠폰 추가 지급 가능성에 대해 “닫혀 있는 것은 아니다”라고 했다. 다만 “지금 할 것이라고 말씀드리기는 이르다”고 했다.&lt;br&gt;&lt;br&gt;윤 장관은 6일 CBS 라디오 ‘김현정의 뉴스쇼’에 출연해 “우리가 성장 잠재력이 지금 2.0%인데 올해 성장률은 0.8%를 예상하고 있어 1.2%p의 갭이 있다”며 “내년에도 1.6% 성장을 예측하고 있는데, 0.4%p를 어떻게 채워갈지에 대해서 수출도 많이 해야겠지만 내수에서 소비를 통해 성장을 끌어내야 한다는 관점을 가지고 있다”고 했다.&lt;br&gt;&lt;br&gt;소비 쿠폰 효과에 대해선 “벌써 94.3%가 받아가셨다”며 “소비 쿠폰 지급 전 소비 심리 지수가 88 정도 수준이었는데 지금 110까지 올라갔다. 아직 부족하지만 소비 쿠폰 때문에 많이 힘을 내고 계신 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “계속 소비 심리를 유지해 나갈 수 있는 후속 대책을 세우고 있다”며 “12월 초 전국적인 할인 행사(동행축제)를 대대적으로 해서 흐름을 이어갈 계획이 검토되고 있다”고 했다.&lt;br&gt;&lt;br&gt;아울러 소비 쿠폰 추가 지급 가능성에 대해선 “내년 경기와 성장률 수준 예측치 등을 놓고 판단할 일”이라면서 “닫혀 있는 것은 아니지만 ‘지금 할 것이다’라고 말씀드리기엔 이르다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 송도 LPG 누출 신고에 ‘화들짝’… 연수구 “접근 자제” 안전문자</title>
+      <link>https://www.chosun.com/national/incident/2025/08/07/UOXKXMJ6GJALBABOWN7NBFVC74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/07/UOXKXMJ6GJALBABOWN7NBFVC74/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 04:50:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3NKWGBYSNF5HKXPMFNVSHIDRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오후 12시 35분쯤 인천 연수구 송도동 E1인천기지에서 액화석유가스(LPG)가 누출됐다는 119 신고가 접수됐다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 연수구 송도국제도시의 한 가스 저장시설에 액화석유가스(LPG)가 누출되는 사고가 발생했다. &lt;br&gt;&lt;br&gt;6일 인천소방본부 등에 따르면 이날 오후 12시 35분쯤 인천 연수구 송도동 E1 인천기지에서 액화석유가스가 누출됐다는 119 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 도로상에 가스가 누출된 사실을 확인하고, 안전 조치를 하고 있다. 현장엔 소방관 등 60명과 장비 27대가 투입됐다. &lt;br&gt;&lt;br&gt;소방 당국은 오후 1시 16분쯤 가스 밸브 잠금 사실을 확인했다. 현재까지 확인된 인명 피해는 없는 상태다.&lt;br&gt;&lt;br&gt;소방 당국은 LPG를 선박에서 저장시설이 있는 기지로 옮기는 과정에서 가스가 누출된 것으로 보고 정확한 누출 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;관할 지자체인 연수구는 “인근 주민은 해당 지역에 대한 접근을 자제해 주시기 바란다”는 내용의 안전 안내 문자 메시지를 발송했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉서 허리 시술 뒤 이상 증세… 4명 늘어 총 12명 증상 호소  </title>
+      <link>https://www.chosun.com/national/incident/2025/08/07/7VWFLR3TYJFLHKMVTNNJN2HBME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/07/7VWFLR3TYJFLHKMVTNNJN2HBME/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>강원 강릉시 한 병원에서 허리 통증 완화 시술을 받은 환자들이 연이어 이상 증상을 호소하면서 보건 당국이 역학조사에 착수한 가운데 기존 환자 8명 외에 4명이 추가로 이상 증상을 보인 것으로 확인됐다.</description>
+      <pubDate>Wed, 06 Aug 2025 04:33:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YXOUC7OYRAFTHD3QRMDBJQM4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도청 전경. /강원도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시 한 병원에서 허리 통증 완화 시술을 받은 환자들이 연이어 이상 증상을 호소하면서 보건 당국이 역학조사에 착수한 가운데 기존 환자 8명 외에 4명이 추가로 이상 증상을 보인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;6일 강원도에 따르면 보건 당국이 최근 2주 이내 이 병원에서 시술을 받은 환자 269명을 대상으로 건강 이상 유무를 조사한 결과 강릉 3명, 서울 1명 등 총 4명이 추가로 통증과 두통, 발열 등 이상 증상을 보여 현재 입원 치료 중인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이들은 이 병원에서 허리 통증 완화 신경 차단술 등 허리 시술을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;보건 당국은 이들 4명에 대한 역학조사를 벌이는 한편, 환자 모니터링 대상을 지난달 1일부터 해당 병원에서 시술받은 전 환자로 확대해 조사를 벌이기로 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 28일 강릉의 한 병원에서 허리 통증 완화 시술을 받은 환자 8명에게 이상 증상이 나타났다는 신고가 강릉시보건소에 접수됐다. 이에 강원도와 질병관리청 등은 공동 역학조사단을 구성해 원인 규명에 나섰다.&lt;br&gt;&lt;br&gt;이상 증상을 보인 환자들은 60~80대 고령층으로, 이 중 1명은 숨졌고 2명은 중환자실, 3명은 일반 병실에서 치료를 받고 있다. 나머지 2명은 치료 후 퇴원했다. 역학조사단은 이들의 혈액이나 뇌척수액에선 황색포도알균이 발견됐다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘2000만명 투약 가능’ 분량… 부산항서 코카인 600㎏ 적발 </title>
+      <link>https://www.chosun.com/national/regional/2025/08/07/4CQ427CVOBG7XIL6LKV6TFGQPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/07/4CQ427CVOBG7XIL6LKV6TFGQPY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 04:26:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUL7BMDMFZJX5GLD6H3VD3ZFTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;부산지검과 부산세관은 지난 5월 10일경 부산신항에 입항한 중남미 화물선 내 컨테이너 내부에 은닉돼 있던 코카인 600㎏을 적발해 전량 압수했다. 코카인 600㎏은 약 2000만 명이 동시 투약 가능한 양이며, 소매가 환산 시 약 3000억원 상당이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난 5월 부산신항에 입항한 화물선 컨테이너 안에서 코카인 600kg을 적발했다. 2000만명이 동시에 투약 가능한 분량이다. &lt;br&gt;&lt;br&gt;부산지검 마약범죄 특별수사팀과 부산세관은 지난 5월 10일 부산신항에 입항한 에콰도르발 화물선 A호(9만 5390t)에 실린 컨테이너 안에서 코카인 600kg을 적발해 전량 압수했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;해당 코카인은 3000억 원어치에 해당하며, 부산항에서 적발된 마약류 가운데 역대 최대 규모다. 지난 4월 강릉 옥계항에서 적발된 코카인 1700kg에 이어 국내 두 번째로 규모가 크다.&lt;br&gt;&lt;br&gt;세관은 지난 5월 9일 미국 마약단속국(DEA)으로부터 우범 컨테이너 정보를 전달 받은 후 해당 컨테이너가 A호에 실려 있는 것을 확인했다. 세관은 다음 날 A호에서 해당 컨테이너를 내려 방수 포장된 코카인 600㎏을 확인했다. 코카인은 12개의 꾸러미로, 각 1㎏씩 포장된 흰색 블록 50개가 들어있었다. &lt;br&gt;&lt;br&gt;수사 당국은 코카인 밀수와 관련해 국내에 연관성이 있는지 밝히는 데 주력했다. 그리스 국적 선장과 선원 4명, 필리핀 국적 선원 22명 등 모든 선원의 휴대전화를 탐색한 결과 밀수와 연관성은 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;코카인 포장과 컨테이너 내부 등에서 채취한 지문 137점을 분석한 결과 국내에 일치하는 지문 정보도 없었다. A호의 구조적 특성상 선장이나 선원이 컨테이너에 접근할 수도 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;수중 드론을 동원해 선박 내부와 외부를 검색했지만 아무 이상이 없었고, 며칠 간 컨테이너에 접근하는 사람이 있는지도 감시했지만 아무도 나타나지 않았다.&lt;br&gt;&lt;br&gt;이에 검찰은 코카인이 남미에서 선적돼 제3국에서 회수될 예정이었으나, 알 수 없는 이유로 실패해 부산신항까지 들어오게 된 것으로 판단했다. A호는 에콰도르에서 출발했으며, 일본을 거쳐 부산신항에 들어왔으며, 최종 목적지는 중국이었다.&lt;br&gt;&lt;br&gt;부산지검 관계자는 “코카인의 국내 관련성은 없는 것으로 확인돼 수사를 종결하고, 관련 자료를 미국 마약단속국(DEA)에 제공해 국제 마약조직을 추적 중”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 연수경찰서장·상황관리관, 총기 사건 대응 미흡으로 대기발령</title>
+      <link>https://www.chosun.com/national/incident/2025/08/07/2DT3LXLUA5ABXBY2WBYNIL55AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/07/2DT3LXLUA5ABXBY2WBYNIL55AM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 04:37:16 +0000</pubDate>
+      <content:encoded>지난달 인천 송도에서 발생한 사제 총기 사건 관련, 경찰 지휘 책임자들이 초동 대응이 미흡했다는 이유로 인사 조치됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYDGSNFWXEKYHXL5INA3PNEYJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 총격 사건이 발생한 인천 송도 아파트 단지에서 경찰 수사관들이 출동해 현장 뒷수습 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 “지휘 책임이 있는 박상진 인천 연수경찰서장과 당일 연수경찰서 상황관리관 A경정을 인천경찰청 경무기획과로 대기 발령했다”고 6일 밝혔다. 신임 경찰서장에는 인천경찰청 112치안종합상황실장인 배석환 총경이 발령됐다.&lt;br&gt;&lt;br&gt;경찰은 지난달 20일 오후 9시 31분쯤 사건 신고를 접수했지만, 70여 분 후인 오후 10시 43분쯤에야 범행 현장인 아파트 내부로 진입했다. 그사이 피의자 조모(62)씨는 이미 현장에서 도주한 후였고, 총상을 입고 쓰러진 조씨의 아들은 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;당시 현장에 출동한 일선 경찰관들을 지휘할 책임은 A경정에게 있었다. 하지만 A경정은 전화로만 현장을 지휘하다가, 경찰특공대가 아파트에 진입한 다음에야 현장에 도착했다. 박 서장 역시 현장에 출동하지 않았다. &lt;br&gt;&lt;br&gt;경찰청은 이에 대해 지난달 26일부터 감찰을 진행하고 있다. 경찰 관계자는 “이번 조치는 징계와는 별개의 인사 조치”라고 했다.&lt;br&gt;&lt;br&gt;	&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘입수금지’ 구역서 물놀이하다 4명 사망…”왜 공무원 죄냐” 반발</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/07/V45M4G5G3BDIDOXMQSZ3B56GJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/V45M4G5G3BDIDOXMQSZ3B56GJU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 06 Aug 2025 04:08:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WIGSGUUKKJIV3EVKRTASB2L6K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 10일 충남 금산군 제원면 천내리 기러기공원 인근 유원지에 물놀이를 금지하는 현수막과 안내문이 걸려 있다. 이곳에서는 전날 오후 물놀이를 하던 20대 5명 중 4명이 실종됐다가 숨진 채 발견됐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 충남 금산에서 물놀이를 하던 20대 4명이 숨진 사고로 안전조치 관련자들이 경찰에 입건되자 공무원들이 반발하고 나섰다. &lt;br&gt;&lt;br&gt;금산군 등에 따르면 지난달 9일 오후 6시 17분쯤 금산군 제원면 천내리 금강 상류에서 물놀이를 하던 20대 4명이 물에 빠져 숨졌다. 사고가 발생한 지점은 금산군이 물놀이 위험 관리 구역으로 지정한 곳이다. 물살이 강해 입수가 금지돼 있지만 이들은 물놀이를 했던 것으로 알려졌다. 금산군은 수난 사고를 예방하기 위해 현수막과 팻말을 설치하고 안전 요원 2명을 배치했다고 한다. 숨진 이들은 물놀이를 하면서 구명조끼 등 안전 장비를 착용하지 않은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 사고 당일 현장에 배치됐던 안전요원이 계도 조치를 하지 않은 것으로 보고 현장 안전요원 2명과 담당 공무원 1명을 업무상과실치사 혐의로 입건해 조사하고 있다. 숨진 대학생 4명에 대해 안전 조치를 제대로 취하지 않아 사망에 이르게 한 혐의다. &lt;br&gt;&lt;br&gt;금산군공무원노동조합은 6일 “물놀이 사고 예방을 위해 군이 마련‧운용해온 안전조치 일부가 작동하지 않았다고 해서 담당자의 개인 과실로 사건을 무마하려는 시도는 용납할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;노조는 “금강 상류에서 발생한 사고로 소중한 목숨을 잃은 청년들의 명복을 빈다. 또 사랑하는 가족을 떠나보낸 유가족에게도 진심으로 위로를 전한다”며 “20대 청년들의 목숨을 앗아간 그날의 안타까운 사고는 또다시 젊은 20대 여성 공무원의 삶을 흔들어놓고 있다”고 했다. &lt;br&gt;&lt;br&gt;노조는 “이번 사고의 본질적인 문제는 여러 방법을 통해 위험을 알렸음에도 ‘나는 문제없어. 나는 괜찮겠지’라고 생각하는 사회에 만연한 안전불감증이 원인”이라며 “안타까운 사고를 담당자 개인의 과실로 몰아가는 처사에 공직을 함께 수행하는 동료로서 분노하지 않을 수 없다”고 했다. 그러면서 “사회에 만연한 안전불감증으로 비슷한 종류의 사고가 매년 반복된다”며 “해당 업무를 수행하는 직원들을 위한 법적‧행정적 최소한의 안전장치를 마련해 달라”고 요구했다. &lt;br&gt;&lt;br&gt;유족들은 안전 요원들의 사전 위험성 경고가 없었다며 진실 규명을 요구하고 있다. 숨진 대학생 중 한 명의 유족은 최근 언론 인터뷰에서 “구두 경고가 있었다고 주장하지만, 생존자는 없었다고 주장하니 정확히 규명돼야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“연차 내고 왔어요” 청와대 관람 마지막날 ‘클로즈런’ 인파들로 북적</title>
+      <link>https://www.chosun.com/national/national_general/2025/07/31/CQM45WMQPZDTTNJIK4227REPCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/31/CQM45WMQPZDTTNJIK4227REPCI/</guid>
+      <dc:creator>김병권 기자, 김동완 인턴기자(고려대 미디어학부 4학년)</dc:creator>
+      <description/>
+      <pubDate>Thu, 31 Jul 2025 08:02:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PCJPKW76FERZIIGGUMJTJD6EI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청와대 마지막 관람일 하루 전인 지난 30일 오전 드론을 통해 바라본 청와대의 모습. 이재명 대통령이 청와대 집무실 복귀를 예고하면서 8월 1일부터 관람이 중지 된다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대통령 없는 청와대’ 마지막 날인 31일 오전 10시 30분쯤 방문한 청와대 영빈관 앞은 이른 아침부터 이곳을 찾은 인파 수십명으로 붐볐다. 방문객들은 “오늘이 마지막이라니 아쉽다” “언제 또 올 수 있으려나?”라며 연신 카메라 셔터를 눌렀다. 이날 첫 번째로 자녀들과 함께 입장했다는 자영업자 이모(37)씨는 “용인에서 자영업을 하는데, 오늘 아니면 애들한테 청와대를 보여줄 기회가 없을 거 같아 가게 문을 닫고 아침부터 차로 1시간 30분을 운전해 달려왔다”며 “20여 년 전에 걸스카우트 하면서 오고는 처음인데, 감회가 새롭다”고 말했다.&lt;br&gt;&lt;br&gt;이재명 대통령이 대통령 집무실을 청와대로 옮기기로 하면서 오는 8월 1일부터는 청와대 관람이 일시 중단된다. 집무실을 이전하기 전에 시설을 개·보수와 보안 점검을 하기 위함이다. 이로 인해 폭염이 극심한 평일에도 ‘클로즈런’을 하려는 인파들로 청와대가 붐볐다. 청와대 재단은 집무실이 복귀가 완료된 이후 관람을 재개하겠다고 밝혔으나 아직 정확한 일정이 정해지지 않아 이날이 당분간 청와대 일반 관람 마지막 날이 됐다.&lt;br&gt;&lt;br&gt;지난달 대통령실이 청와대 복귀를 공식화함에 따라 지난 16일부터는 관람 인원이 하루 2000명으로 제한되고, 청와대 건물 내부도 둘러볼 수 없게 됐다. 그럼에도 청와대를 찾은 이들은 “청와대를 본 것에 만족한다”는 분위기였다. 깁스를 한 다리를 이끌고 부모님과 함께 청와대를 찾은 직장인 오모(38)씨는 “실내 관람이 불가능해서 아쉽긴 하지만, 오늘 아니면 또 언제 청와대를 올 수 있을지 몰라 불편한 몸을 이끌고 화성에서 올라왔다”며 “2주 전부터 계속 새로고침을 해서 겨우 취소표를 구했는데 풍경이 너무 멋져서 온 보람이 충분한 것 같다”고 했다. 여동생과 함께 왔다는 심모(34)씨도 “청와대를 보기 위해 나는 인천에서, 여동생은 춘천에서 왔다”며 “날도 덥고 오는 데 시간도 오래 걸렸지만, 당분간 청와대 보기 힘든데 와서 본 게 어디냐”고 기쁜 표정을 지었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4ZNIR2V7ZA2PFLAP7T7SO3QR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 대통령에 당선된 지 이틀 후인 지난 6월 6일 오전 서울 종로구 청와대를 찾은 관람객들이 대통령 집무실이 있는 본관에 입장하기 위해 200m가량 줄을 서 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청와대 관람객 수는 윤석열 전 대통령이 탄핵된 지난 4월부터 매달 늘었다. 지난 3월 관람객 수는 11만7000여 명이었으나 4월에는 26만1000여 명으로 두 배 이상 증가했다. 지난 5월에는 42만7000여 명으로 직전 달에 비해 17만명 이상 늘더니 지난달에는 50만9000여 명으로 역대 월간 최대치를 기록했다. 이는 작년 6월 관람객(16만여 명)의 3배가 넘고, 민간 개방 직후인 2022년 5월과 6월 이후 역대 세 번째로 높은 수치다. 청와대재단에 따르면, 지난달 대통령실이 청와대 이전을 공식화한 이후에는 청와대 온라인 예약창이 열리는 족족 마감됐다고 한다. 예약 인원이 축소된 지난 16일 이후에도 매일 매진이 됐으나 폭염으로 인한 ‘노쇼’가 많아 하루 1200~1500명 정도가 청와대를 방문했다고 한다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 청와대를 민간에 개방한 지난 2022년 5월 10일 이후 이날까지 청와대를 방문한 관람객은 총 852만130명으로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/J4ZNIR2V7ZA2PFLAP7T7SO3QR4.jpg?auth=feb6c0f4333f1491e431ba5f8cbdd4d8b28f1049693ecf2ae1a06e5d83ff67d5&amp;smart=true&amp;width=700&amp;height=377" type="image/jpeg" height="377" width="700">
+        <media:description type="plain">이재명 대통령이 대통령에 당선된 지 이틀 후인 지난 6월 6일 오전 서울 종로구 청와대를 찾은 관람객들이 대통령 집무실이 있는 본관에 입장하기 위해 200m가량 줄을 서 있다./뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>영부인에서 피의자로… “아무 것도 아닌 사람이 심려끼쳐”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/07/IVAZ5ORYT5HOFB4JCBH3IJ6YOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/IVAZ5ORYT5HOFB4JCBH3IJ6YOM/</guid>
@@ -780,24 +864,6 @@
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 5일 이영균(대령) 전 해병대 안전단장을 조사하고 있다. 2023년 1월 창설된 해병대 안전단은 해병대 재난안전관리를 총괄하는 사령부 직할부대다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUZMAJCKSRL6BUDMV3XCUMHCQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검의 정민영 특별검사보가 지난달 7일 오전 서울 서초구 순직해병 특검 사무실 브리핑룸에서 관련 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면 해병 특검은 이날 오전 이 대령을 참고인 신분으로 소환해 조사 중이다. 이 대령은 고(故) 채수근 상병이 사망했던 2023년 7월 당시 해병대 안전단장이었다.&lt;br&gt;&lt;br&gt;이 대령은 채 상병 사망 사고에 대한 해병대 수사단의 초동 조사 결과 언론 브리핑 등이 예정돼 있던 2023년 7월 31일 정종범 전 해병대 부사령관 등과 함께 국회 보고를 위해 대기했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 이른바 ‘VIP 격노설’이 벌어졌다는 2023년 7월 31일 오전 윤석열 전 대통령 주재 국가안보실 회의 직후 언론 브리핑 등은 취소됐다. 이에 해병 특검은 이 대령에게 당시 언론 브리핑 취소 전후 상황, 해병대 사령부 지시 사항 등을 물어본 것으로 전해졌다. 이 대령의 직속상관은 대통령실 등으로부터 ‘VIP 격노설’을 전달받은 것으로 알려진 김계환 전 해병대 사령관이었다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 이날 오전 전하규 국방부 대변인도 소환 조사 중이다. 전 대변인은 2023년 7월 30일 이종섭 전 국방장관이 해병대 수사단의 초동 조사 결과를 보고받을 때 함께 배석했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장기기증자 1년새 11% 급감…기증 받으려면 평균 6년 대기</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/05/5ZXDTOKSQVEOXM2BS3SVDMNGC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/05/5ZXDTOKSQVEOXM2BS3SVDMNGC4/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 05:07:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3TVUGAEBBAENINN6J4MAKQJZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 12월 20일 서울 중구 명동 일대에서 '몸짱 산타'들이 장기기증 캠페인을 벌이고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 장기 등을 기증한 사람이 전년보다 10% 이상 감소한 것으로 나타났다. 향후 뇌사 또는 사망할 때 장기를 기증하겠다는 의사표시를 한 사람도 크게 줄었다.&lt;br&gt;&lt;br&gt;5일 국립 장기조직혈액관리원의 ‘2024년도 장기 등 기증 및 이식 통계 연보’에 따르면, 지난해 장기 등을 기증한 사람은 3931명으로 전년 대비 11.3% 감소했다.&lt;br&gt;&lt;br&gt;기증 형태별로 살펴보면 뇌사 기증이 483명에서 397명으로 17.8% 줄었고, 사후 기증은 38명에서 10명으로 73.7% 감소했다. 대부분 가족이나 친지 사이에 이뤄지는 생존자 기증자도 2339명에서 1980명으로 15.3% 줄었다. 기증자가 줄면서 장기 등 이식 건수도 5054건으로 1년 전보다 15.0% 감소했다.&lt;br&gt;&lt;br&gt;더 큰 문제는 미래에 뇌사 상태에 빠지거나 죽게 되면 장기를 기증하겠다고 등록한 사람(조혈모세포는 별도)이 지난해 7만563명으로 1년 전보다 15.4% 줄었다는 것이다. 향후 기증·이식이 더 줄어들 수 있다는 뜻이다.&lt;br&gt;&lt;br&gt;이렇게 장기 기증이 위축되면서 이식이 필요한 대기자의 대기 기간은 더 길어지고 있다. 조혈모세포·안구 등을 제외한 장기 이식 대기자는 올해 4월 30일 기준 4만595명이었는데 평균 대기시간이 2193일(약 6년)에 달했다. 췌도(11.5년)나 소장(9.8년)의 경우 대기 시간이 더 길었다.&lt;br&gt;&lt;br&gt;뇌사 기증률(인구 100만명당 뇌사 기증자 수)은 지난해 7.75명으로 1년 전보다 1.66명 감소했다. 한국의 뇌사 기증률은 미국(49.7명), 스페인(47.95명), 이탈리아(29.47명) 등에 비하면 매우 낮은 수준이다. 반면 생존 시 기증률은 지난해 38.67명으로 미국(20.57명), 영국(14.35명) 등 주요국보다 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 강용식 前 국회 사무총장</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/04/OSIRAIZJWBG4NAREI3OOKSQDNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/04/OSIRAIZJWBG4NAREI3OOKSQDNU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 03 Aug 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QSPJJSOTRETHDQCNXBJEA2ECY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강용식 前 국회 사무총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강용식(86) 전 국회 사무총장이 2일 별세했다. 서울고와 서울대 법대를 졸업한 뒤 동양방송(TBC) 보도국장, KBS 보도본부장 등을 역임했다. 1985년 민주정의당 전국구 국회의원에 당선된 것을 포함해 3선 의원을 지냈다. 1987년 대선 당시 노태우 후보의 보좌역을 맡아 ‘보통사람’ 캠페인으로 당선에 기여했다. 빈소는 삼성서울병원 20호실. 발인은 5일 오전 6시30분. (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>5·18 사적지 ‘옛 광주교도소’, 아파트 개발 대신 원형보존 길 열리나</title>
       <link>https://www.chosun.com/national/national_general/2025/08/05/TC2G42AG4ZHD5AVVALZ5IAKMMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/TC2G42AG4ZHD5AVVALZ5IAKMMI/</guid>
@@ -818,15 +884,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 04:29:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73JAXGYTMPPOFJEULAPXVG4QZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 출신 방송인 오윤혜(왼쪽)와 한덕수 전 국무총리. /인스타그램 캡처·뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리에게 명예훼손 혐의로 고소당한 방송인 오윤혜씨가 경찰에서 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;오씨는 5일 자신의 인스타그램을 통해 직접 자신의 무혐의 처분 소식을 전하며 “십 년 묵은 체증이 내려가는 기분”이라고 했다. &lt;br&gt;&lt;br&gt;오씨는 “무려 대통령 권한대행이라는 분이 당적도 없는 저 같은 방송인을 고소했을 때 솔직히 당황스러운 것도 찰나, 그 이후 기사가 백 개 넘게 나와서 스트레스가 많았다”며 “누군가를 괴롭힐 목적으로 고소·고발 남발하면 망신당할 수 있다는 사실도 기억하면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 오씨는 지난 4월 MBC 라디오 ‘권순표의 뉴스하이킥’에 출연해 국민들이 힘든 상황에서 한 전 총리가 모 호텔에서 자주 식사를 즐겼고, 윤석열 전 대통령 파면 전에도 방문했다는 이야기를 지인으로부터 들었다는 취지의 발언 등을 했다.&lt;br&gt;&lt;br&gt;이에 한 전 총리는 오씨가 허위 사실을 퍼트려 명예를 훼손했다며 경찰에 고소했고, 서울경찰청 공공범죄수사대는 지난 6월 30일 명예훼손과 공직선거법상 허위사실공표 혐의로 오씨를 불러 조사했다. 다만 경찰은 오씨 범죄 혐의가 인정되지 않는다며 지난달 25일 불송치 처분했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희 최측근’ 이종호, 구속 심사 출석…이르면 오늘 밤 구속 여부 결정</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/LIOITSQ3LVHKBPKPK666AMIIOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/LIOITSQ3LVHKBPKPK666AMIIOY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 01:28:02 +0000</pubDate>
-      <content:encoded>김건희 여사의 최측근이자 계좌를 관리한 인물로 알려진 이종호 전 블랙펄인베스트 대표가 구속 심사를 위해 5일 법원에 출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPB2GM66P5MCBLBBHAQI5FJY24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 최측근으로 알려진 이종호 전 블랙펄인베스트 대표가 5일 영장실질심사를 받기 위해 서울중앙지법에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 이날 오전 10시 30분부터 변호사법 위반 혐의를 받는 이 전 대표의 구속 영장실질심사를 진행했다. 구속 여부는 이르면 이날 밤 결정될 전망이다.&lt;br&gt;&lt;br&gt;이날 오전 10시 5분쯤 모습을 드러낸 이 전 대표는 “이정필씨에게 윤 전 대통령 부부와의 친분을 언급했느냐” “김 여사에게 이정필씨 관련 형량을 청탁한 적이 있느냐” “혐의를 인정하느냐” 등의 취재진 질문에 아무런 답을 하지 않고 법정을 향했다. &lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 주가조작 사건과 관련해 ‘1차 주포’로 지목된 이정필씨에게 징역형 집행유예를 받게 해주겠다는 명목으로 8390만원을 받아 챙긴 혐의를 받는다. 이때 이 전 대표가 이씨에게 “김건희나 VIP(윤석열 전 대통령)에게 얘기해 집행유예가 나오도록 해주겠다”며 돈을 받아 챙긴 것으로 특검은 의심하고 있다. &lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 주가조작에 동원된 김 여사 계좌를 관리했던 인물로 알려져 있다. 이 전 대표는 삼부토건 주가조작, 임성근·조병노 구명로비에 연루된 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;앞서 김건희 특검팀은 지난달 19일 이 전 대표의 주거지와 차량을 압수수색했고, 세 차례에 걸쳐 이 전 대표에 대한 소환 조사를 진행한 뒤 지난 1일 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;이 전 대표는 이날 심사에서 특검팀이 이정필씨의 허위 진술만을 갖고 변호사법 위반이라는 죄를 뒤집어씌웠다는 등의 주장을 펼친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 오전 11시 47분쯤 심사를 마치고 나온 이 전 대표는 “변호사법 위반 부분에 대해 법정에서 어떻게 소명했느냐”고 묻는 취재진 질문에 “성실히 임했다”고 답했다. “최후 진술에서 어떻게 피력했느냐” “이정필씨에 윤 전 대통령 부부 친분 언급한 사실이 여전히 없다는 입장인가” “김 여사 측에 청탁한 것들 있는가”라는 질문에는 별다른 답변을 하지 않았다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘KT 일감 몰아주기’ 황욱정 KDFS 대표, 징역형 집행유예 대법서 확정</title>
@@ -854,15 +911,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 02:39:03 +0000</pubDate>
       <content:encoded>코로나 백신을 맞은 뒤 마비 증상이 나타난 병원 직원에게 업무상 재해를 인정해야 한다는 항소심 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QG3S4TV6QS7VGITCZEPIQFJSC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아스트라제네카(AZ)의 코로나19 백신.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 행정6-2부(재판장 최항석)는 최근 작업치료사로 일하던 A씨가 근로복지공단을 상대로 낸 요양 불승인 처분 취소 소송에서 1심과 같이 원고 승소로 판결했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;코로나 팬데믹이 한창이던 2021년 2월 한 병원에서 작업치료사 일을 시작한 A씨는 그해 3월 아스트라제네카 백신을 맞았다. 의료기관 종사자여서 백신 우선 접종 대상자에 포함됐기 때문이다. &lt;br&gt;&lt;br&gt;A씨는 접종 당일 밤부터 열과 구토, 왼팔·다리의 위약감과 의식 저하 등의 증상을 호소했고, 그해 5월에는 신경계 및 근골격계 손상 진단을 받았다. 이어 6월에는 운동신경과 감각신경이 마비되는 길랭-바레 증후군 진단까지 받았다.&lt;br&gt;&lt;br&gt;A씨는 “병원의 권유로 백신을 접종한 뒤 증상이 발생했다”며 공단에 요양급여를 신청했지만, 이듬해 1월 공단은 “질병과 업무 사이에 인과관계가 없다”며 이를 거부했다. 이에 불복한 A씨는 행정소송을 제기했다. &lt;br&gt;&lt;br&gt;1심은 “A씨가 환자의 재활을 도와야 하는 작업 환경 특성상 원활한 업무 수행을 위해 백신을 접종한 것으로 보인다”며 A씨의 업무와 질병 간 인과관계를 인정했다. 또 “A씨는 당시 25세 남성으로, 접종 전에 증상이 발현됐거나 기저 질환으로 치료받은 사정도 확인되지 않는다”며 “의학적으로 명백히 증명된 것은 아니지만, 백신 접종이 질병의 원인으로 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;2심도 같은 결론을 유지했다. 재판부는 “A씨가 백신 접종 후 다른 원인이 없었던 상태에서 단기간 내에 증상이 나타났다”면서 “아스트라제네카 백신 접종으로 인해 발생하는 다양한 이상 증세들에 대해 의학적 인과관계가 명확하게 규명되지 않은 상태인 점 등을 고려하면, 백신 접종에 기인하여 발병한 것으로 추정할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검 “尹 체포 6일까지는 계획 없어... 변호인과 협의"</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/OXEH5MDOYZAMJEU4M2VJEWRLZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/OXEH5MDOYZAMJEU4M2VJEWRLZU/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 01:28:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCCOWUYQARNO5UPZW2NIKYYEDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 7월 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 6일까지는 윤석열 전 대통령 체포영장을 집행하지 않을 것이라고 5일 밝혔다. 민중기 특검팀은 6일 김건희 여사를 소환 조사한다.&lt;br&gt;&lt;br&gt;특검은 이날 언론 공지를 통해 “윤 전 대통령 변호인 선임서가 접수돼 변호인과 소환 조사 일정, 방식 등을 논의할 예정”이라며 “오늘, 내일 중으로는 체포영장 집행 계획이 없다”고 했다.&lt;br&gt;&lt;br&gt;특검은 지난 1일 경기 의왕 서울구치소를 찾아 수감 중인 윤 전 대통령에 대한 체포 영장 집행을 시도했으나 윤 전 대통령이 응하지 않아 중단됐다. 이에 이르면 5일쯤 체포영장 재집행에 나설 것이란 관측이 나왔지만, 특검은 6일까지는 체포영장 집행을 하지 않기로 결정했다.&lt;br&gt;&lt;br&gt;양측은 전날까지 윤 전 대통령이 1일 김건희 특검팀의 체포에 불응하는 과정에서 수의(囚衣)를 벗어 이른바 ‘속옷 버티기’ 논란이 빚어진 것을 두고 치열한 신경전을 벌였다. &lt;br&gt;&lt;br&gt;특검 측이 “윤 전 대통령이 수의도 입지 않은 채 바닥에 누운 상태에서 체포를 완강히 거부했다”며 당시 상황을 밝히자, 윤 전 대통령 측은 “윤 전 대통령이 ‘체포에 저항해 옷을 벗었다’는 것은 허위사실”이라며 맞서고 나선 것이다.&lt;br&gt;&lt;br&gt;이에 특검이 이른 시일 내에 영장 재집행에 나서서 물리력을 행사해 윤 전 대통령을 체포할 것이란 얘기가 나왔다. 그러나 윤 전 대통령이 변호인 선임서를 정식으로 접수하며 특검도 윤 전 대통령 변호인단과 우선 논의를 진행하겠단 입장을 이날 내놓은 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검 “대통령경호처, 尹·이종섭·조태용 비화폰 통화내역 제출”</title>
@@ -901,25 +949,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHJDMCXYD5M6BAHKP3XGULJKCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전하규 국방부 대변인이 5일 오전 서울 서초구 해병 특검 사무실에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전하규 국방부 대변인이 5일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 참고인 신분으로 출석했다. 전 대변인은 이종섭 전 국방장관이 고(故) 채수근 상병 사망 사고와 관련한 해병대 수사단의 초동 조사 결과를 보고받을 때 배석했던 인물이다.&lt;br&gt;&lt;br&gt;전 대변인은 이날 오전 9시 50분쯤 서울 서초구 특검 사무실에 출석했다. 그는 “첫 장관 보고 때 임성근 전 해병대 1사단장에 대한 거론이 없었다는 입장은 그대로인가”라는 취재진 질문에 “그렇다”고 답했다.&lt;br&gt;&lt;br&gt;이어 “박정훈 대령 관련 국방부 문건은 누구 지시로 작성했나”는 질문에는 “아는 대로 답변하겠다”고 답한 뒤 조사실로 올라갔다.&lt;br&gt;&lt;br&gt;전 대변인은 2023년 7월 30일 이 전 장관이 ‘임 전 사단장에게 과실치사 혐의를 적용했다’는 해병대 수사단의 초동 조사 결과를 보고받은 자리에 참석했다. 당시 보고 현장에는 박진희 전 박진희 전 국방장관실 군사보좌관, 허태근 전 국방부 국방정책실장 등도 참석한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해병대 수사단의 조사 결과는 다음 날인 그해 7월 31일 국가안보실 회의에서 윤석열 전 대통령에게 보고됐다. 윤 전 대통령은 당시 회의에서 조사 결과를 보고받고 “이런 일로 사단장을 처벌하면 누가 사단장을 하느냐”고 크게 화를 낸 뒤 수사에 외압을 가했다는 의혹을 받고 있다. 이후 해병대 수사단 조사 기록의 경찰 이첩이 보류됐고, 언론 브리핑이 취소됐다.&lt;br&gt;&lt;br&gt;특검은 이날 전 대변인을 상대로 당시 언론 브리핑이 취소된 경위, 이 전 장관의 지시 사항 및 후속 조치 등에 대해 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 한 여름밤 ‘금빛 선율’ 물들인다</title>
-      <link>https://www.chosun.com/national/regional/2025/08/05/QHRZPKJBXNH2TPLWUXR5FMK4RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/05/QHRZPKJBXNH2TPLWUXR5FMK4RA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 05 Aug 2025 01:41:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LLQOLDIUPRAA64CMKRJRGAKBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주국제관악제 공연./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계 정상급 관악인들이 제주에서 ‘금빛 선율’ 대향연을 펼친다.&lt;br&gt;&lt;br&gt;제주도와 제주국제관악제조직위원회는 오는 7~16일 제주 곳곳에서 ‘제30회 제주국제관악제’(여름 시즌)와 ‘제20회 제주국제관악콩쿠르’를 개최한다.&lt;br&gt;&lt;br&gt;올해 축제는 대한민국을 비롯한 독일, 대만, 미국 등 12개국에서 초청된 관악단과 약 5000여 명의 연주자 및 관계자가 참여, 음악을 통한 세계 문화예술 교류의 장으로 치러진다. 여름 제주를 배경으로 펼쳐지는 다양한 공연은 관악 음악의 아름다움과 제주의 풍경이 어우러져 특별한 감동을 전할 예정이다.&lt;br&gt;&lt;br&gt;7일 전국의 초등학생과 유소년 관악단이 참가하는 ‘13세 이하 유소년 관악단 경연대회’로 축제의 시작을 알린다. 8일에는 제주아트센터에서 제주도립서귀포관악단과 독일연방군악대의 협연으로 개막공연이 열려 본격적인 축제의 막이 오른다.&lt;br&gt;&lt;br&gt;광복 80주년을 기념하는 특별 프로그램도 마련됐다. 15일에는 대한민국 해군, 공군, 해병대 군악대와 미8군 군악대가 함께하는 경축음악회가 제주탑동해변공연장에서 열리며, 제주문예회관에서 출발해 해변공연장까지 이어지는 시가 퍼레이드는 관람객들의 관심을 끌 것으로 기대된다.&lt;br&gt;&lt;br&gt;제주국제관악제는 세계 130여 개의 권위 있는 음악대회가 소속된 국제음악콩쿠르세계연맹(WFIMC)의 정회원이다. 지난 6월 중국 하얼빈에서 열린 제69회 WFIMC 총회에서는 제주국제관악작곡콩쿠르가 신규 분야로 공식 승인되며 국제적 위상이 더욱 높아졌다.&lt;br&gt;&lt;br&gt;30년의 역사를 이어온 제주국제관악제는 지금까지 수많은 국내외 관악 연주자들의 등용문 역할을 해왔다. 해마다 수준 높은 연주와 참신한 기획으로 음악을 사랑하는 이들의 만남의 장이 돼왔다. 올해 역시 제주의 푸른 바다와 청량한 바람을 배경으로 전 세계 최정상급 연주자들이 선사하는 금빛 선율이 관객들의 오감을 사로잡을 것으로 기대된다.&lt;br&gt;&lt;br&gt;양승보 제주국제관악제 조직위원장은 “광복 80주년이라는 뜻깊은 해에 열리는 이번 축제가 금빛 나팔소리를 통해 평화와 화합의 메시지를 전하고, 젊은 예술인들에게는 꿈을 심어주는 자리가 되길 바란다”고 전했다.&lt;br&gt;&lt;br&gt;대부분의 공연은 무료로 진행되며, 일부 유료 공연은 제주국제관악제 홈페이지 팝업창 또는 공지사항, 네이버 예약을 통해 사전 신청이 가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강릉 한 의료기관서 허리 시술 후 집단 이상 증상…혈액서 황색포도알균 검출</title>
-      <link>https://www.chosun.com/national/regional/2025/08/05/F75UWYXKN5G3JMT55C4YXPPGXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/05/F75UWYXKN5G3JMT55C4YXPPGXU/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description>강원 강릉시 한 의료기관에서 허리 통증 완화 시술을 받은 환자들이 잇따라 이상증상을 호소해 보건당국이 역학조사에 나섰다.
-5일 강원도에 따르면 지난달 28일 강릉의 한 의료기관에서 허리 통증 완화 시술을 받은 다수의 환자에게 이상 증상이 발생했다는 신고가 강릉시보건소에 접수됐다.</description>
-      <pubDate>Tue, 05 Aug 2025 01:17:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ57RSYLSVCO3HQ5MEUJCJJF7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원도청 전경/강원도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시 한 의료기관에서 허리 통증 완화 시술을 받은 환자들이 잇따라 이상 증상을 호소해 보건 당국이 역학조사에 나섰다.&lt;br&gt;&lt;br&gt;5일 강원도에 따르면 지난달 28일 강릉의 한 의료기관에서 허리 통증 완화 시술을 받은 다수의 환자에게 이상 증상이 발생했다는 신고가 강릉시보건소에 접수됐다. 이에 강원도 보건 당국은 질병관리청 등 관계기관과 함께 역학조사단을 구성해 조사에 착수했다.&lt;br&gt;&lt;br&gt;현재 해당 의료기관에서 통증 완화 신경 차단술 등 허리 시술을 받은 후 통증과 두통, 의식 저하 등의 이상 증상을 호소하는 환자는 모두 8명이다. 대부분 혈액이나 뇌척수액에서 황색포도알균(MSSA)이 발견됐다. 황색포도알균은 의료 관련 감염으로 법정 감염병엔 해당하지 않는다.&lt;br&gt;&lt;br&gt;증상을 보인 8명의 나이대는 60~80대로, 이들은 지난 6~7월 사이 시술을 받은 것으로 알려졌다. 이 중 60대 1명은 숨졌으며 2명은 중환자실, 3명은 일반 병실에 입원 중이다. 나머지 2명은 퇴원했다. 보건 당국은 사망자에 대한 사망 원인은 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;역학조사단은 해당 의료기관에 주사제, 시술 준비 과정 등 의료진 면담 조사를 비롯해 시술장 기구 등의 검체를 확보해 의료 감염 등 역학적 연관성을 확인하고 있다. 또 최근 2주 이내 동일 시술을 받은 대상자 269명을 대상으로 발열과 통증 악화, 부종 등의 건강 이상 유무도 조사 중이다.&lt;br&gt;&lt;br&gt;강원도 관계자는 “강원도보건환경연구원 검사 결과 해당 의료기관 종사자 등에서 황색포도알균이 검출됐다”면서 “질병관리청에 유전자 분석 등을 의뢰해 해당 의료기관과의 인과관계를 추가 확인할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 해당 의료기관은 보건 당국의 시술 중단 권고에 따라 지난 1일부터 휴진한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 서부지법 난동 사태 배후 의혹 받는 사랑제일교회 압수수색</title>
       <link>https://www.chosun.com/national/incident/2025/08/05/AOTLYETUX5GFZGI4XS5R2XEQLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/05/AOTLYETUX5GFZGI4XS5R2XEQLE/</guid>
@@ -927,40 +956,6 @@
       <description/>
       <pubDate>Tue, 05 Aug 2025 00:11:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFEFUV63LD2J4FKSOJLARE7A5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전광훈 사랑제일교회 목사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘서부지법 폭력 난동 사태’ 배후 의혹을 받는 사랑제일교회에 대해 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청은 “5일 오전부터 서울 성북구 사랑제일교회와 전광훈 목사 등에 대한 압수수색을 진행하고 있다”고 이날 밝혔다. 서부지방법원 폭동 사태 등과 관련해 특수건조물침입 교사 등의 혐의다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 등은 지난 2월 전광훈 사랑제일교회 목사를 내란 선전 및 소요 교사 혐의 등으로 경찰에 고발했다. 민주당은 ‘서부지법 불법 침입·난동’ 사태가 있었던 지난 1월 18일 서울 지하철 광화문역 인근에서 열렸던 전 목사 주도 집회에서의 발언을 문제 삼았다. 당시 전 목사는 ‘서부지법으로 모여 대통령 구속영장을 저지하기 위해 국민 저항권을 발동해야 한다’고 발언했는데 민주당은 이를 집단적 위력으로 법원의 기능을 무력화할 것을 선동한 것이라고 주장했다. 경찰은 당시 서부지법 난동 사태에 가담한 사랑제일교회 소속 특임 전도사 2명에게 전 목사가 지시했을 가능성도 수사 중이다.&lt;br&gt;&lt;br&gt;한편, 서울서부지법 난동 사태에 가담한 혐의로 구속된 사랑제일교회 특임전도사 윤모(56)씨는 지난 1일 열린 1심 재판에서 실형을 선고받았다. 서울서부지법은 특수건조물침입, 특수공무집행방해 등 혐의로 구속 기소된 윤씨에게 징역 3년 6개월을 선고했다. 난동 사태에 가담한 또 다른 특임전도사 이모씨 역시 특수건조물침입 등 혐의로 징역 3년을 선고받았다. 이들은 지난 1월 19일 윤석열 전 대통령에 대한 구속영장 발부 직후 서부지법에 난입해 경찰의 공무집행을 방해하고 법원 출입문 셔터를 망가뜨린 혐의 등으로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[핫코너] 초고가 아파트 ‘끼리끼리 결혼’? 이제 결혼정보회사까지 차렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/05/M36EHZ7MMNDVXOJBA7R4QC3XSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/M36EHZ7MMNDVXOJBA7R4QC3XSA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 15:45:00 +0000</pubDate>
-      <content:encoded>국내 최고가 아파트인 서울 서초구 반포동 래미안원베일리 일부 주민들이 가입비로 최대 1100만원을 받는 결혼 정보 회사를 설립했다. 단지 거주자 가운데 미혼 남녀 간 소개팅을 비공식적으로 주선해 화제가 됐던 입주민 모임 일부 멤버가 법인을 세워 ‘결혼 비즈니스’에 진출하기로 한 것이다. 래미안원베일리는 전용면적 59㎡가 40억원 넘게 거래되는, 한국에서 손꼽히는 고가 아파트다.&lt;br&gt;&lt;br&gt;원베일리 입주민들과 입주민 자녀들을 비공식적으로 이어주는 모임 ‘원결회(반포원베일리 결혼정보모임회)’는 지난달 ‘원베일리 노빌리티’라는 이름의 결혼 정보 회사를 세웠다. 법인을 세우기 전까지는 가입비 20만원, 연회비 30만원을 받고 ‘단체 소개팅’을 열어왔다. 원베일리 노빌리티 관계자는 “현금 영수증을 뽑아 달라는 고객들이 늘어나 아예 회사를 차리게 됐다”고 했다.&lt;br&gt;&lt;br&gt;원결회는 그동안 입주민과 서울 강남 주민들을 주로 이어줬지만 원베일리티 노빌리티는 외부인 가입도 받는다고 한다. 다만 학력·직업을 꼼꼼히 살펴 직업이나 소득이 비슷한 사람들을 매칭하겠다는 계획이다. 가장 낮은 ‘실버’ 등급은 50만원을 내면 1년에 3~4번씩 단체 소개팅을 주선받을 수 있다. 중간 등급인 ‘크라운’은 가입비 500만원을 내면 1대1 소개팅을 최대 다섯 번 할 수 있다. 그 위 등급인 ‘로열노빌리티’ 회원비는 2년에 1100만원이다. 명문대 출신에 의사·변호사 등 전문직만 선별해 만남을 이어준다. 가장 높은 등급인 ‘소버린’은 개별 상담을 통해 가입비 등을 정할 것이라고 한다. 회사 관계자는 “소버린 회원들에겐 상속 등 법률 자문 서비스도 제공할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;고가 아파트 주민 자녀들 간에 중매를 서는 모임을 두고 ‘부동산 계급 사회’를 더욱 강화시키는 것 아니냐는 시선이 있다. 그러나 원베일리 노빌리티 관계자는 “초저출산 시대에 비슷한 조건의 사람을 이어주는 건 나쁜 일이 아니다”라고 했다. 이 관계자는 “회원비 등은 앞으로 뽑게 될 직원 월급, 사무실 임차 비용 등으로만 쓸 예정이고 운영진은 월급을 받지 않을 예정”이라고 했다. 한 결혼 정보 회사 관계자는 “경제·사회적 지위가 맞는 사람들끼리 이어주는 결혼 정보 회사가 이미 여럿 있는데, 결혼할 사람들을 이어주겠다는 걸 부정적으로만 볼 것만은 아니다”라고 했다.&lt;br&gt;&lt;br&gt;서울 강남 지역 아파트 입주민들이 중매에 나서는 문화는 확산하고 있다. 강남구 도곡동 ‘타워팰리스2차’ 아파트 주민들도 지난달 초 미혼 남녀 대상 중매 모임인 ‘아름다운 인연’을 만들었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/R7VXR7YGRE7CJQPGNI3F6QPPUY.jpg?auth=b56ecbda1ec7f20c35c8f6b4fbfb380004bba2dcdc5c933ff0fb8c7aa1b8b326&amp;smart=true&amp;width=600&amp;height=449" type="image/jpeg" height="449" width="600">
-        <media:description type="plain">[땅집고] 서울 서초구 반포동 '래미안 원베일리'.</media:description>
-        <media:credit role="author" scheme="urn:ebu">강태민 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>뉴욕·파리처럼… 서울도 쥐떼 공포</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/05/RUCSMHQ6KBCQ3CIAXSSYUNO7CM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/05/RUCSMHQ6KBCQ3CIAXSSYUNO7CM/</guid>
-      <dc:creator>김도연 기자, 노은수 인턴기자(경희대 미디어학과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSURMIDC3ZDPNFQHJUHM4W2HWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 8월 4일 서울 관악구 서울대입구역 인근에 쥐 포집 장치가 설치돼 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오전 10시 서울 관악구 신림역 4번 출구 화단에 성인 남성 주먹만 한 쥐 세 마리가 주변을 훑다가 하수구로 뛰어들었다. 사람이 손으로 파낸 것 같은 쥐구멍 여섯 개가 뚫려 있었다. 쥐 꼬리와 발자국 흔적도 곳곳에 보였다. 자전거를 타고 가던 시민이 쥐를 보고 ‘꺅’ 하고 비명을 질렀다. 근처 장난감 가게에서 일하는 천우열(28)씨는 “밤만 되면 바람 한 점 없는 데도 수풀에서 바스락 소리가 난다. 쥐들이 움직이는 소리”라며 “가게 입구에서 쥐를 보고 손님들이 도망가는 일이 부쩍 늘었다”고 했다.&lt;br&gt;&lt;br&gt;서울 도심 곳곳에서 쥐가 출몰하고 있다. 도심을 걷던 관광객들이 쓰레기통을 뒤지는 쥐를 보고 비명 지르는 장면은 주로 미국 뉴욕, 프랑스 파리 등 노후화된 국제도시들에서 볼 수 있던 광경이었다. 그런데 서울 지하철, 버스 정류장 등 공공 시설에도 쥐들이 등장하면서 지자체들이 구서(驅鼠) 대책 마련에 나서고 있다. 1970년대 전국적으로 벌어졌던 쥐잡기 운동이 50여 년 만에 부활한 것이다. 국제도시들이 수세기 동안 이기지 못한 ‘쥐와의 사투’에 서울도 참전하는 모양새다.&lt;br&gt;&lt;br&gt;인류를 가장 공포에 떨게 했던 전염병 ‘페스트(흑사병)’를 퍼뜨린 쥐는 대표적인 병원균 매개체다. 쥐 분변으로 배출된 병원균이 피부·호흡기로 침투해 전파되는 렙토스피라증 등 감염 환자가 매년 400명 넘게 발생한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XY5WWCG5ZEYHB4NRUSWSQKGCU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원래는 폭염에 음식물 쓰레기가 방치된 아파트 단지가 주무대였다. 신축·구축 가리지 않는다. 일부 주민이 음식물 쓰레기 등을 종량제 봉투에 넣어 함께 버리는 탓에 쥐 숫자가 급증한 것이다. 서울 송파구의 한 아파트에서는 재활용 쓰레기를 내놓는 날마다 쥐들이 비닐봉지를 뜯어놓는다. 경비원 김상진(69)씨는 “수시로 방역을 하는데도 주민들이 ‘쥐 관리’를 못 한다며 관리사무소에 항의하는 일이 잦다”고 말했다. 최근 들어선 각 구청 민원 게시판에 ‘버스 정류장, 지하 쇼핑몰에 쥐 떼가 출몰한다’는 글이 심심찮게 올라오고 있다.&lt;br&gt;&lt;br&gt;서울에 쥐 떼가 모이는 것은 노후화된 배수·하수관 때문이란 분석이 나온다. 뉴욕, 런던 등 전 세계 국제도시들이 공통적으로 겪는 문제다. 우동걸 국립생태원 박사는 “쥐는 하수도나 하수구의 지하 구정물을 안식처로 삼는다”며 “하수도관을 정비하고 음식물 쓰레기 배출을 철저히 차단해야 한다”고 했다. 한 방역 업체 관계자는 “오래된 배관일수록 충격에 약해 쥐들이 조금만 갉아 먹어도 틈이 생기고, 이를 통해 배관에 침투한 쥐들이 빠르게 번식한다”고 했다. 서울 하수관로 1만866㎞ 중 50년 이상 된 하수관로는 30.4%(3300㎞)가 넘는다. 30년 넘은 하수관로도 55.5%(6028㎞)다.&lt;br&gt;&lt;br&gt;유례없는 폭염과 지구온난화는 서울뿐만 아니라 전 세계 도심들에서 쥐 떼가 활개 치는 원인으로 지목된다. 김양희 세종대 생명시스템학부 교수는 “쥐는 기온이 상승하면 번식력도 달라질 수 있다”며 “여름철에는 보름에서 한 달 간격으로 번식을 반복할 수 있어 개체 수가 급격히 늘어난다”고 했다. &lt;br&gt;&lt;br&gt;쥐 떼가 여기저기서 등장하자 방역 업체들은 전에 없던 호황을 누리고 있다. 서울의 한 방역 업체 관계자는 “작년 여름만 해도 쥐를 잡아달라는 문의가 단 한 건도 없었는데 올해는 두 달 사이에 수십 건이었다”고 했다. 다른 업체 관계자도 “아파트 단지, 다세대 빌라, 고시원, 음식점 등에서 쉴 새 없이 전화가 온다”고 했다. &lt;br&gt;&lt;br&gt;구청들은 ‘스마트 쥐덫’을 놓기 시작했다. 쥐가 접근하면 쥐약이 들어 있는 기계 문이 자동으로 열린 뒤 닫힌다. 내부 센서가 쥐가 죽은 걸 확인하면 방역 업체에 신호를 보내 수거하도록 하는 방식이다. 서울 강동구는 작년부터 최근까지 총 80대를 설치했다. 관악구도 지하철 2호선 서울대입구역, 신림역, 봉천역 등에 스마트 쥐덫 17대와 함께 쥐약을 설치했다.&lt;br&gt;&lt;br&gt;뉴욕시는 지난 2023년 연봉 15만5000달러(약 2억1500만원)를 주고 ‘쥐 차르(Rat Czar·황제)’라고 불리는 설치류 완화국장직을 신설했다. 작년부턴 상업용 쓰레기를 배출할 때 뚜껑이 달린 밀폐 용기 사용을 의무화했다. 파리는 하수구·배수구에 역류 방지 장치를 설치해 쥐 유입을 막고 있다. 이탈리아 로마는 쥐 번식기인 매년 봄·여름마다 쥐 포획·방제 캠페인을 벌인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QSURMIDC3ZDPNFQHJUHM4W2HWY.jpg?auth=0b7042e8d69f49050a64d3713c664b9fa01248f68b365550859a4f71e0e3ee47&amp;smart=true&amp;width=6000&amp;height=3892" type="image/jpeg" height="3892" width="6000">
-        <media:description type="plain">2025년 8월 4일 서울 관악구 서울대입구역 인근에 쥐 포집 장치가 설치돼 있다. /장경식 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>尹측 “더워서 수의 벗은 것” 특검 “사실 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/05/CC2GT2M77NHFRJQZ2JRHMOHURA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/05/CC2GT2M77NHFRJQZ2JRHMOHURA/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 04 Aug 2025 15:44:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 지난 1일 김건희 특검팀의 체포에 불응하는 과정에서 수의(囚衣)를 벗어 이른바 ‘속옷 버티기’ 논란이 빚어진 것을 두고 양측이 진실 공방을 벌이고 있다.&lt;br&gt;&lt;br&gt;특검은 지난 1일 서울구치소를 찾아 윤 전 대통령에 대한 체포 영장 집행을 시도했으나 윤 전 대통령이 응하지 않아 중단됐다. 그러자 그날 오후 언론 브리핑에서 “윤 전 대통령이 수의도 입지 않은 채 바닥에 누운 상태에서 체포를 완강히 거부했다”고 당시 상황을 공개했다.&lt;br&gt;&lt;br&gt;이에 대해 윤 전 대통령 법률대리인단은 4일 입장문을 내고 “윤 전 대통령이 ‘체포에 저항해 옷을 벗었다’고 말하며 속옷 차림까지 언급한 특검과, 사실관계를 확인하지 않고 이를 국회에서 거듭 주장한 정성호 법무장관에게 깊은 유감을 표한다”며 “(허위 주장) 재발 시 합당한 법적 책임을 물을 것”이라고 했다. 대리인단은 “체포 영장을 집행하러 온 특검 측은 윤 전 대통령이 변호인과 상의하겠다는 입장을 밝히자 ‘자체 논의를 하겠다’며 물러났다”며 “이후 너무 더워 잠시 수의를 벗었는데 특검 측이 이때 찾아와 체포에 응할 것을 요청했고, 윤 전 대통령은 모포로 신체를 가리며 변호인과 협의를 요청했지만 특검 측은 이를 무시하고 민망한 상황을 촬영까지 했다”고 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 주장에 대해 문홍주 특검보는 이날 오후 언론 브리핑에서 “수의를 벗은 게 더위를 피하기 위함이었다? 저희들이 보기엔 아니었다”고 했다. 체포 방해 의도가 있었다는 취지다. 이어 문 특검보는 2017년 ‘박근혜 정부 국정 농단 사건’ 특검 수사팀장이 윤 전 대통령이었다는 사실을 언급하며 “당시 (특검에) 출석하지 않는 최순실씨를 체포 영장을 발부받아 강제 구인했었다”며 “윤 전 대통령이 어떻게 수사했는지 알고 똑같이 적용하려는 것일 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
