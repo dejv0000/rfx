@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 이상민, 구속적부심 청구...오늘 오후 심문</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/09/ZH4GDEIS6ZAXNBQPBCYV3NHLUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/ZH4GDEIS6ZAXNBQPBCYV3NHLUQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 23:07:56 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 관련 내란을 공모한 혐의로 구속된 이상민 전 행정안전부 장관이 구속적부심을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUQURGR44DPIODMDLBZKIM4J5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 지난달 31일 서울 서초구 서울중앙지방법원에서 열릴 구속 전 피의자 심문에 출석하고 있다. /뉴스1 ⓒ News1 송송이 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사8-3부(재판장 최진숙)는 8일 오후 이 전 장관에 대한 구속적부심 심문기일을 연다. 내란 특검은 이날 “이 전 장관이 구속적부심을 청구했고, 오후 4시 10분 심문 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>청주서 60대 연쇄 방화 용의자, 저수지에 빠져 숨져</title>
       <link>https://www.chosun.com/national/regional/2025/06/15/XDKTTFV4LNEQROVZDFZWD4B7QI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/06/15/XDKTTFV4LNEQROVZDFZWD4B7QI/</guid>
@@ -845,15 +854,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 01:35:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKSKO3QHSZL43PBZUWV6AVM72I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 7일 오전 서울 서초구 순직 해병 특검 사무실에 피의자 조사를 받기 위해 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 7일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 2차 피의자 조사를 받기 위해 출석했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오전 9시 45분쯤 서울 서초구 특검 사무실에 출석했다. 지난 7월 2일 특검에서 4시간가량 조사받은 이후 약 한 달 만의 재소환이다.&lt;br&gt;&lt;br&gt;그는 ‘채 상병 죽음에 책임이 전혀 없다는 입장이냐’는 취재진 질문에 “원 소속 부대장으로서 도의적인 책임은 통감하지만 형사적으로는 책임질 게 없다”고 답했다.&lt;br&gt;&lt;br&gt;또 ‘이종호 전 블랙펄인베스트 대표를 모른다는 입장은 여전한가’라는 질문에는 “전혀 일면식이 없는 분”이라고 답했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 2023년 7월 경북 예천군 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고 채수근 상병의 부대장으로, 실종자 수색 당시 수중 수색 지시 등을 내려 채 상병이 숨지는 데 관여했다는 혐의(업무상 과실치사 등)를 받는다.&lt;br&gt;&lt;br&gt;특검은 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에서 김건희 여사와 친분이 있다고 알려진 이 전 대표와 개신교계 인사 등에게 구명을 청탁했다는 일명 ‘구명 로비 의혹’도 수사 중이다.&lt;br&gt;&lt;br&gt;임 전 사단장은 지난 1차 조사에서 업무상 과실치사 혐의에 대해 상당 부분 진술을 거부한 것으로 알려졌는데, 이날 조사에서도 상당수 질문에 대해 진술을 거부하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난 1차 조사에 이어 이날 조사에서도 임 전 사단장을 상대로 업무상 과실치사 혐의와 구명 로비 의혹 등에 대해 조사할 예정이다. 임 전 사단장은 특검에 오후 5시까지 조사를 받겠다는 입장을 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 브리핑에서 “오늘 조사에서는 업무상 과실치사 혐의 관련된 부분이 가장 중요한 비중을 차지할 것으로 보인다”며 “조사할 내용이 많기 때문에 추가로 소환해야 할 수도 있을 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>함께 살던 여성 살해하려 한 30대 男, 현행범 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/08/08/FNAEEFGIARD7FJ72A3MFAKTRAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/08/FNAEEFGIARD7FJ72A3MFAKTRAQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 02:10:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIIWAEXOKRDJBI2JTO7JAQAQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 살던 여성을 흉기로 찔러 살해하려 한 30대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 미추홀경찰서는 살인미수 혐의로 A씨를 붙잡아 조사하고 있다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 11시 39분쯤 이천시 미추홀구 용현동의 한 아파트에서 함께 사는 30대 여성 B씨를 흉기로 찔러 살해하려 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;왼쪽 가슴 부위를 다친 B씨는 119 구급대에 의해 병원으로 이송돼 치료 중으로, 생명에는 지장이 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 술에 취해 B씨와 말다툼하던 중 범행한 것으로 보고 구체적인 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨가 신고했고, 현장으로 출동해 A씨를 현행범으로 체포했다”며 “사안의 중대성을 고려해 구속영장을 신청할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘입추’에도 무더위...영동 중심 비</title>
