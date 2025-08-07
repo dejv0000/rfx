@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조국·정경심 부부, 최강욱·조희연도 8·15 특사 포함</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/RACSUBJY5VF5PLN426CB5THFVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/RACSUBJY5VF5PLN426CB5THFVE/</guid>
+      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 14:14:41 +0000</pubDate>
+      <content:encoded>조국 전 조국혁신당 대표가 7일 법무부 사면심사위원회 심사를 통과했다. 정성호 법무부 장관이 사면심사위에서 결정한 사면·복권안을 이재명 대통령에게 올리면, 오는 12일 국무회의 의결을 거쳐 최종 확정될 전망이다. 이번 특별사면은 이재명 정부 출범 후 첫 사면이다.&lt;br&gt;&lt;br&gt;법무부는 이날 정부과천청사에서 사면심사위를 열고 8·15 광복절 특별사면·복권 대상자를 선정했다. 여기에 조 전 대표도 포함됐다. 자녀 입시 비리 등 혐의로 기소된 조 전 대표는 작년 12월 대법원에서 징역 2년형이 확정돼 복역 중이다. 조 전 대표가 전체 형기의 약 32%만 채운 상황에서 사면 대상에 포함되자 법조계에선 이례적이라는 말이 나온다. 법조계 관계자는 “윤석열 전 대통령이 검찰총장 시절 주도한 수사에 희생됐다는 일부 여론을 고려한 것 같다”고 했다. 조 전 대표 관련 사건으로 실형을 살다 가석방된 아내 정경심씨, 조 전 대표 아들에게 허위 인턴 확인서를 발급한 혐의로 유죄가 확정된 최강욱 전 의원도 사면·복권 대상에 들었다.&lt;br&gt;&lt;br&gt;사면심사위는 조희연 전 서울시 교육감, 국민의힘 진영 인사인 정찬민·홍문종·심학봉 전 의원도 사면·복권 대상에 올렸다고 한다. 2018년 전국교직원노동조합 해직 교사 부당 채용 사건으로 기소된 조 전 교육감은 작년 대법원에서 징역 1년 6개월에 집행유예 2년형을 확정받고 교육감직을 상실했다. 이 대통령 측근인 이화영 전 경기도 평화부지사는 사면 대상에서 제외됐다고 한다.&lt;br&gt;&lt;br&gt;이번 사면·복권 대상에는 윤석열 정부 때 불법 파업 등으로 기소된 노조 관계자 다수가 포함됐다고 한다. 민생 사범도 사면·복권 대상에 포함됐다. 횡령 등 혐의로 징역 2년 6개월형이 확정된 최신원 전 SK네트웍스 회장, ‘박근혜 정부 국정 농단’ 사건에 연루됐던 최지성 전 삼성전자 부회장, 장충기 전 삼성전자 사장도 사면심사위를 통과했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IXOCRAJRP5BUFF2ZI2BAXXYAVU.jpg?auth=28dffab0c4e0e86a1a2814dacba524bc7a556acf7d04da06444a294b57cf8995&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
+    </item>
+    <item>
+      <title>포스코이앤씨 공사현장 감전사고, 전력공급 차단기 안내려</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/08/PQ6ED6OXVVHWRHMMOLU2RW5THA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/08/PQ6ED6OXVVHWRHMMOLU2RW5THA/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 13:56:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMCVR4UA6NPCRLLSZTYTO2C2ME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 송치영 포스코이앤씨 사장이 작업자가 중상을 입고 의식불명에 빠진 사고가 발생한 경기도 광명시 포스코이앤씨 고속도로 건설공사 현장을 찾아 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코이앤씨가 시공하는 고속도로 공사 현장에서 외국인 근로자가 감전 사고를 당한 것과 관련해 전력 차단 등 안전 관련 매뉴얼이 지켜지지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;7일 경찰 등에 따르면 미얀마 국적 근로자 A(30대)씨가 감전 사고를 당했을 당시 양수기에 전력 공급을 하는 배전반의 차단기가 내려지지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 지하 물웅덩이에 설치된 양수기에 진흙이 들어가 고장을 일으키자, 이를 해결하기 위해 양수기와 중장비를 로프로 연결하는 작업을 벌였다. 하지만 당시 양수기의 전원이 꺼지지 않았던 것이다.&lt;br&gt;&lt;br&gt;공사 현장에서는 근로자가 전류가 흐를 가능성이 있는 시설 등에 접근할 때 전력 공급을 차단해야 한다는 매뉴얼이 있었지만 지켜지지 않은 것이다.&lt;br&gt;&lt;br&gt;이와 함께 A씨가 사고 당시 절연 장갑이 아닌 반장갑 형태의 일반 목장갑을 착용하고 있었다는 다른 근로자들의 진술도 나온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 현장에서 양수기에 전력 공급 차단 조치가 이뤄지지 않은 경위와 A씨에게 보호구 등 안전 장비가 제대로 지급됐는지를 확인하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “사고 현장에서 안전 규정이 제대로 지켜졌는지 전체적으로 살펴보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 1시 34분쯤 광명시 옥길동 광명~서울고속도로 연장공사 현장에서 물웅덩이에 설치된 양수기 펌프를 점검하다 사고를 당했다. 병원으로 이송된 A씨는 현재까지 의식을 되찾지 못하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전공의들도 병원 돌아간다... 정부 “정원 초과해도 허용”  </title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/08/RGEEVYSCJZH5FO4QPANNNLINWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/08/RGEEVYSCJZH5FO4QPANNNLINWQ/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 11:48:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSVMWFWENFNKTN4OEEQ5JI4OJY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 서울 중구의 한 식당에서 열린 수련협의체 제3차 회의에서 한성존(왼쪽에서 첫째) 대한전공의협의회(대전협) 비상대책위원장과 김국일(오른쪽에서 첫째) 보건복지부 보건의료정책관이 악수하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 지난해 2월 의정 갈등으로 병원을 떠난 전공의들이 이전 근무 병원에 같은 과목·연차로 복귀할 경우, 수련 병원에서 이들을 자율적으로 받아줄 수 있도록 했다. 군 복무 문제도 복귀한 전공의들이 최대한 수련을 마친 뒤 입영할 수 있도록 편의를 봐주기로 했다. 정부가 이처럼 전공의들이 요구해 온 사항에 전향적 입장을 보이면서, 1년 6개월 이상 지속해 온 의정 갈등도 마무리 국면에 접어들게 됐다. 당장 오는 11일부터 8월 말까지 이어지는 병원들의 올 하반기 전공의 모집 때 신청을 통해 복귀하는 전공의들이 늘어날 것으로 보인다. &lt;br&gt;&lt;br&gt;보건복지부는 대한전공의협의회(대전협) 등과 함께 수련 협의체 회의를 한 뒤 이같이 합의했다고 7일 밝혔다. 김국일 복지부 보건의료정책관은 “병원·과목·연차별로 결원 범위 내에서 전공의를 모집하는 것으로 했다”며 “사직 전공의가 이전에 근무하던 병원·과목·연차로 복귀하는 경우 전공의 채용은 수련 병원에서 자율적으로 결정하고, 초과 정원 발생 시 절차에 따라 복지부 장관이 인정해 주기로 했다”고 했다. 그는 또 “사직 전공의들이 하반기 모집을 통해 수련에 복귀하는 경우 관계 부처와 협의해서 최대한 수련을 마친 이후에 입영하도록 할 계획”이라며 “복귀 규모에 따라서 전공의들이 수련 중에 입영할 수도 있을 텐데, 이에 대해선 사후 정원을 인정하는 것으로 이야기가 됐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRMO4OVLKVBWRKK4TUX2YRZLR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 결정의 핵심은 정원이 초과돼도 인정해 주겠다는 것이다. 그동안 전공의들이 대거 사직한 후 각 수련 병원들은 전공의를 새로 뽑거나 연차가 차 진급한 이들이 생겨난 상태였다. 사직 전공의 입장에선 본인이 일하던 곳에 이미 정원이 다 채워져 복귀하고 싶어도 돌아갈 자리가 사라졌을 수 있게 된 것이었다. 하지만 정부가 수련 병원들에 “초과 정원도 인정해 주겠다”는 방침을 밝히면서, 사직 전공의들이 들어갈 자리가 생길 수 있게 됐다.&lt;br&gt;&lt;br&gt;사직 전공의에게 ‘입영 통지서’ 압박을 해소해 준 것 역시 전공의들이 그동안 요구해 온 사안 중 하나였다. 원래 전공의는 수련 시작과 동시에 의무 사관 후보생이 되고, 전문의가 될 때까지 입영 연기가 가능하다. 하지만 중간에 사직했기 때문에 입영 연기를 할 수 없게 됐을 뿐 아니라, 설사 복귀하더라도 국방부에서 언제든 입영 통지서를 받을 수 있는 상황이었다. 하지만 이날 복지부는 국방부와 협의해 복귀한 사직 전공의는 다시 입영 연기를 할 수 있도록 해준 것이다. 정부가 이같이 결정한 데는 의정 갈등에 따른 국민 불편 장기화를 의식했기 때문이란 지적이 나온다. 정은경 복지부 장관은 이날 환자·소비자 단체 대표자 등을 만나 “의료계와 정부 간 갈등이 1년 반 동안이나 지속되면서 많은 불안과 불편을 겪으신 국민과 환자들에게 진심으로 죄송하다”고 했다.&lt;br&gt;&lt;br&gt;현재 ‘빅5(서울대·서울아산·세브란스·삼성서울·서울성모)’ 병원 전공의는 올 상반기 복귀자까지 더해 548명으로, 의정 갈등 발생 전(2023년 2742명)의 약 20% 수준이다. 하지만 이번에 핵심 요구 사항이 받아들여지면서 전공의들도 복귀 수순을 밟을 것으로 보인다. 당장 오는 11일부터 병원들이 올 하반기 전공의 모집을 진행하게 된다. &lt;br&gt;&lt;br&gt;이제 공은 수련 병원으로 넘어간 모양새다. 복지부는 병원으로 하여금 복귀자를 ‘자율적으로’ 받아줄 수 있게 했지만, 병원 입장에선 이미 복귀한 전공의나 이들의 업무를 대신해 온 진료 지원(PA) 간호사와의 마찰을 우려할 수밖에 없는 상황이다. 한 대형 수련 병원 관계자는 “사직 전공의가 들어왔을 때 기존의 인원들과 갈등이 생기지 않을지가 가장 큰 우려 사항”이라며 “서로 자기 일이라며 갈등이 일어날 가능성이 있다”고 했다. 또 다른 병원 관계자는 “얼마나 돌아올지도 의문”이라며 “이미 일반의 상태로 취업한 이들은 소위 ‘돈 맛’을 본 상태이고, 피부과·안과·성형외과 등 전문의가 됐을 때 수입이 더 높아지는 과 이외에는 돌아올 이유가 없을 수 있다”고 했다. 이 밖에 “정부는 ‘자율’이라고 했지만 사실상 돌아오려는 사직 전공의를 다 받아주라는 ‘지시’에 가까운 만큼, 결과적으로 특정 과에 쏠림이 생길 수 있다”는 우려도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘익산 간판정비 비리’ 수사 받던 40대 업체 대표, 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/08/08/FKGITIDYNBECFA46MIKO7RHTSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/08/FKGITIDYNBECFA46MIKO7RHTSY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 12:13:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVUZODGHU2LKDDKC5MIYHJPAUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 익산시 간판 정비사업 비리에 연루된 공무원에게 금품을 건넨 의혹으로 경찰 수사를 받던 40대 업체 대표가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;7일 전북경찰청 등에 따르면 이날 오후 6시쯤 완주군 봉동읍 한 사업장에서 대표 A(40대)씨가 숨져 있는 것을 직원이 발견해 경찰에 신고했다. 신고를 받고 출동한 경찰은 현장 확인 결과 강력범죄 정황은 없는 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 최근 익산시 간판 정비사업 비리와 관련해 경찰의 압수수색을 받았다. 경찰은 압수수색에서 익산시 공무원에게 건네진 것으로 보이는 증거물을 확보한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 이 사건 피의자로 입건돼 경찰 조사를 받은 이후 주변에 괴로운 심정을 내비친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 사망에 대해 구체적인 경위를 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 간판 정비사업 과정에서 특정 업체에 일감을 주는 대가로 금품을 받은 혐의(뇌물수수)로 익산시 사무관(5급) B씨를 구속해 검찰에 넘겼다. 지난달 28일 경찰은 압수수색 도중 B씨의 차량에서 수천만원 상당의 현금 등을 발견했다.&lt;br&gt;&lt;br&gt;경찰은 간판 정비사업과 관련해 여러 업체가 연루된 것으로 보고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살예방SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병만 혼외자 2명 있었다... 재혼할 여성과 사이에 출산</title>
+      <link>https://www.chosun.com/national/people/2025/08/08/4H6POIRTHNGCHBRMA5H4LLN4MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/08/4H6POIRTHNGCHBRMA5H4LLN4MI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 11:31:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HLFG25NWBAZAYZRM42JXKBZXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 김병만. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김병만(50) 측은 전처의 딸이 ‘김병만에게 혼외자가 있다’며 친생자 관계 확인 소송을 제기한 것과 관련, “전처와 이혼 전 현재 재혼을 앞둔 예비 신부와의 사이에서 자녀 2명을 출산한 것은 사실”이라고 인정했다.&lt;br&gt;&lt;br&gt;7일 김병만 소속사 스카이터틀 측 관계자는 조선닷컴과의 통화에서 “김병만이 재혼할 예정인 신부와의 사이에 아이 2명이 있는 것은 사실”이라면서도 “이미 전처와 혼인이 파탄에 이른 후 출산을 한 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;관계자는 자녀들의 성별과 정확한 출생연도 등은 공개가 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;김병만은 지난 2010년 7살 연상의 비연예인 여성 A씨와 결혼식 없이 혼인신고를 했다. A씨의 딸인 B씨는 친양자로 받아들였다.&lt;br&gt;&lt;br&gt;그러나 김병만은 오랜 별거 끝에 A씨와 2023년 이혼했으며, 성인인 B씨에 대해서는 파양 소송을 제기했다. A씨와의 사이에서 다른 자녀는 없었다.&lt;br&gt;&lt;br&gt;B씨는 김병만이 A씨와의 혼인관계가 법적으로 종료되기 전 다른 여성과의 사이에서 자녀를 낳았다며 “상속 등 이해관계가 있어 두 아이가 김병만의 친생자인지 확인할 수 있도록 유전자 검사 명령을 내려달라”고 법원에 요청한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김병만은 앞서 방송에 복귀하는 과정에서 전처 A씨를 폭행했다는 의혹이 제기돼 곤욕을 치르기도 했다.&lt;br&gt;&lt;br&gt;이에 대해 김병만의 소속사 스카이터틀은 “김병만씨가 전처를 폭행했다는 내용은 사실이 아니다”라며 “전처 A씨는 법원에서 이혼 소송 재산 분할로 인정한 돈을 주지 않으려고 허위 고소를 했다. 이미 경찰에서 불기소 의견으로 검찰에 송치됐고, 이혼 소송에서도 폭행 사실은 인정되지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;이후 오히려 전처 A씨가 김병만 명의로 된 생명보험을 가입한 사실 등이 드러나 논란이 됐다.&lt;br&gt;&lt;br&gt;김병만은 친자 2명의 생모인 비연예인 여성과 오는 9월 20일 재혼할 예정이다.&lt;br&gt;&lt;br&gt;김병만은 2002년 KBS 공채 개그맨으로 데뷔했다. 김병만은 KBS ‘개그콘서트’ 코너인 ‘달인’과 SBS 예능프로그램 ‘김병만의 정글의 법칙’ 등을 통해 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전광판에 세월호 추모글 올렸다가... 폭행 당한 치킨집 사장</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/08/F36DXNA5ZRHV7K5OTSSMVXY7NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/08/F36DXNA5ZRHV7K5OTSSMVXY7NA/</guid>
+      <dc:creator>이현준 기자, 김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 11:57:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세월호 참사를 추모하는 문구를 가게 전광판에 노출한 치킨 음식점 업주가 손님에게 폭행당했다는 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;7일 인천 남동경찰서에 따르면 지난달 28일 오후 11시쯤 인천 남동구 구월동 한 치킨 음식점에서 업주 A(50대)씨가 손님인 B(40대)씨에게 폭행당했다는 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 가게 전광판에 쓰인 세월호 참사 추모 글을 본 B씨와 언쟁이 벌어졌고, B씨에게 폭행을 당했다고 주장하는 것으로 알려졌다. B씨의 폭행으로 A씨는 얼굴 부위에 부상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한 프랜차이즈 치킨 음식점을 운영하는 A씨는 과거 윤석열 전 대통령 파면과 이재명 대통령 당선을 축하하는 문구를 가게 전광판에 노출시켰다가 프랜차이즈 본사로부터 가맹 계약 해지 통보를 받아 논란이 일었다. &lt;br&gt;&lt;br&gt;이후 논란이 정치권으로 확대되자 프랜차이즈 본사 측은 계약 해지 통보를 철회하기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피의자와 피해자를 상대로 조사를 진행해 사실관계를 확인할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오션뷰·공연·커피... ‘핫플’ 된 옛 부산시장 관사</title>
+      <link>https://www.chosun.com/national/regional/2025/08/08/NJMEG7URBZDI7P4OYXG4F3VUYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/08/NJMEG7URBZDI7P4OYXG4F3VUYI/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 11:46:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQDP6I35NJJALPJMPLOQ7I35RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 수영구 남천동 옛 부산시장 관사를 복합문화공간으로 개조한 도모헌 앞 정원과 광안리 앞바다 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옛 부산시장 관사를 시민 문화 공간으로 꾸민 ‘도모헌’이 개방 10개월 만에 방문객 수 30만명을 돌파했다. &lt;br&gt;&lt;br&gt;부산시는 수영구 남천동의 시민 문화 공간 도모헌 방문객 수가 30만명(지난 6일 기준)을 넘었다고 7일 밝혔다. 도모헌은 ‘무엇이든 자유롭게 도모하는 공간’이라는 의미를 담았다. 1985년 전두환 전 대통령 지시로 현대 건축 거장 고(故) 김중업 건축가가 설계했다. 평소엔 시장 관사로, 대통령 방문 시엔 대통령 숙소로 썼다. 오거돈 전 부산시장 재임 시절까진 시장 관사로 썼다가, 2021년 4월 취임한 박형준 부산시장이 “시민 품에 관사를 돌려주겠다”고 밝힌 뒤 내부 시설을 뜯어고쳐 작년 9월 24일부터 개방했다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “도모헌은 자연, 커피, 문화 콘텐츠를 한꺼번에 즐길 수 있는 공간”이라고 했다. 황령산 자락에 있어 광안대교가 내려다보인다. 온라인에서 젊은 층의 ‘핫플레이스’로 떠오른 이유다. 야외 공간에선 부산 1호 생활 정원인 ‘소소풍 정원’을 거닐며 산책로에서 여유를 느낄 수 있다. 소나무와 층꽃나무 등 252종 다양한 식물을 심었다. 개관 기념으로 미디어아트 작가인 백남준 선생의 아카이브전(展)을 개최하는 등 무료 전시, 음악회 등도 열고 있다. &lt;br&gt;&lt;br&gt;부산시는 오는 11월엔 도모헌 외벽에 조명을 비추는 미디어 파사드를 운영하고, 개관 1주년 기념 행사 등을 진행할 예정이다. 부산시 관계자는 “도모헌이 부산시민뿐 아니라 외국인 관광객까지 찾는 명소가 됐다”며 “앞으로 더 많은 사람이 도모헌을 찾을 수 있게 편의 시설을 보강하고 다양한 프로그램을 운영할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 통일교 비서실장 소환...‘건진 법사 청탁 의혹’ 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/5QAQUIFNYFCMVOE6ATBJ6UOEFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/5QAQUIFNYFCMVOE6ATBJ6UOEFI/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 11:15:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4VBQ5UMTG362QANEKQCVKNRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 지난달 18일 오후 경기 가평군 통일교 천원궁 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 ‘건진 법사 청탁 의혹’과 관련해 한학자 통일교 총재의 비서실장 정모씨를 소환한다. &lt;br&gt;&lt;br&gt;7일 법조계에 따르면 특검은 8일 오전 10시 정모씨에게 특검 사무실에 출석해 조사 받을 것을 통보했다. 정씨는 한 총재의 비서실장이자 통일교 최상위 행정조직인 천무원 부원장이다. 특검은 통일교 측이 2022년 4~7월 캄보디아 공적개발원조(ODA) 사업 등 통일교 현안 청탁을 위해 ‘건진 법사’ 전성배씨를 통해 김 여사에게 다이아몬드 목걸이, 샤넬백 등을 건넸다고 보고 있다. &lt;br&gt;&lt;br&gt;앞서 특검은 지난달 22일 전 세계본부장 윤영호(구속)씨를 소환해 조사했다. 윤씨는 통일교 현안 청탁을 위해 김건희 여사에게 전달해달라며 ‘건진 법사’ 전성배씨에게 각종 선물을 전달한 혐의(부정청탁금지법 위반)를 받는다. 특검은 윤씨가 전씨에게 2022년 4월 7일과 7월 5일 각각 802만원, 1271만원 상당의 샤넬백을 건넸으며, 7월 29일에는 6220만원 상당의 그라프 목걸이를 건넸다고 보고 있다. &lt;br&gt;&lt;br&gt;윤씨는 조사에서 “윗선의 지시를 받아 한 일”이라고 진술한 것으로 알려졌다. 통일교 측은 “윤씨의 개인적 일탈”이라는 입장이다.&lt;br&gt;&lt;br&gt;특검은 정씨를 소환해 청탁이 교단 차원에서 이뤄진 것인지 확인할 전망이다. 특검은 정씨 외에도 한 총재, 천무원 중앙행정실장 이모씨 등이 윤씨와 공모해 청탁했다고 보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고소 안할게” 사측 협박해 돈 뜯어낸 택시 노조 조합장</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/08/08/7IZPN7GWEZGE7EO4AUEE2ZIIMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/08/08/7IZPN7GWEZGE7EO4AUEE2ZIIMQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 10:30:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKZQBOQ6CEHWG5EQEY4ESIZ52I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 전액관리제를 시행하지 않는 택시 업체를 협박해 돈을 뜯어낸 노조 조합장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 공갈 혐의로 부산의 한 택시업체 노조 조합장 A(50대)씨를 검찰에 불구속 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해부터 올해까지 전액관리제를 시행하지 않는 사측을 고소·고발하지 않겠다는 노사 합의서를 작성한 후 수십 차례에 걸쳐 1800여만원을 받아챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;부산에서는 지난해부터 ‘택시 기사 월급제’로 불리는 전액관리제가 시행됐지만 지역 대부분의 택시 업체는 경영상의 이유로 사납금제를 유지해왔다.&lt;br&gt;&lt;br&gt;A씨는 전액관리제를 시행하지 않는 택시업체에 관계기관에 진정을 제기하고 고소·고발하겠다고 압박한 것으로 알려졌다. 사측은 이를 막기 위해 노사합의서를 작성하고 A씨에게 돈을 건넨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 A씨의 혐의 내용이 담긴 고발장을 접수한 후 수사를 벌여 A씨를 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>해병 특검, ‘이종섭 도피성 출국 의혹’ 대통령기록관 등 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/BPJ47SCIFZARBHYLWVWTDIBXIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/BPJ47SCIFZARBHYLWVWTDIBXIU/</guid>
@@ -730,25 +812,6 @@
       <content:encoded>인구 감소 영향으로 내년 공립 초·중·고교의 신규 교사 선발 인원이 올해보다 줄어든다. 특히 부산과 울산은 공립 유치원 교사를 한 명도 뽑지 않는다.&lt;br&gt;&lt;br&gt;교육부가 6일 발표한 ‘2026학년도 공립 신규 교사 임용 시험 사전 예고’에 따르면 전국 17개 시도는 내년에 신규 교사 총 1만232명을 선발한다. 이는 올해(1만1881명)보다 1649명(13.9%) 줄어든 것이다. &lt;br&gt;&lt;br&gt;신규 초등 교사는 올해 4272명에서 내년 3113명으로 1159명(27.1%) 줄어든다. 교육부는 “올해는 ‘늘봄학교 담당’으로 자리를 옮기는 교사를 감안해서 예외적으로 많이 선발했었고, 내년은 다시 평년 수준으로 돌아가는 것”이라고 밝혔다. 초등 교사 선발 인원은 2021년 3864명에서 작년 3157명으로 꾸준히 줄다가 올해 이례적으로 4247명으로 늘었는데, 내년엔 다시 줄어드는 것이다. &lt;br&gt;&lt;br&gt;중·고교 신규 교사는 올해 5504명에서 내년 4797명으로 707명(12.8%) 줄어든다. &lt;br&gt;&lt;br&gt;공립 유치원에서 근무할 내년 신규 교사는 668명으로, 올해(386명)보다 282명(73.1%) 늘어난다. 경기도에서 올해(84명)보다 134명 많은 218명을 선발하는 등 대규모 채용을 하는 지역이 일부 있기 때문이다. 경기도의 경우 신도시가 많이 들어서면서 유치원이 새로 생기고 있고, 퇴직 교사도 많은 상황이다. &lt;br&gt;&lt;br&gt;반대로 17개 시도 가운데 부산과 울산은 내년에 유치원 교사를 1명도 선발하지 않기로 했다. 울산은 올해 6명 뽑았지만 내년엔 0명으로 줄고, 부산은 2년 연속 0명을 기록하게 됐다. 교육부 관계자는 “부산과 울산은 인구 감소로 문 닫는 유치원이 많아 기존 인력으로 충분히 교육이 가능한 상황”이라고 말했다. 대전은 3명, 광주는 6명, 대구는 11명만 신규 채용한다.&lt;br&gt;&lt;br&gt;이날 예고된 선발 인원은 일부 바뀔 수 있다. 각 교육청은 퇴직자와 학생 수 등을 반영해 9~10월 최종 선발 인원을 공고한다.&lt;br&gt;&lt;br&gt;저출생으로 부부와 자녀 2명으로 구성된 ‘4인 가구’ 역시 감소한 것으로 나타났다. 6일 행정안전부가 발표한 주민등록인구통계에 따르면, 지난 6월 기준 국내 4인 가구는 299만9680가구로 집계됐다. 4인 가구가 300만 가구 밑으로 떨어진 건 이번이 처음이다. 반면 1인 가구는 급증해 작년 3월 처음으로 1000만 가구를 넘어선 뒤 지난달 1023만6511가구를 기록했다. 2인 가구(약 609만 가구)와 3인 가구(407만 가구)도 증가세다.&lt;br&gt;&lt;br&gt;학령인구 감소 속에 남학교, 여학교가 남녀공학으로 바뀌는 경우도 늘고 있다. 이날 서울시교육청에 따르면 남고인 송파구 잠실고는 내년부터 남녀공학이 된다. 중구 금호여중도 남녀공학으로 전환돼 금호중이 된다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[늙어가는 대한민국] 65세 이상이 국내 진료비 절반 쓰는 시대</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/07/IUHME4CQ2BHEXAEAQWRCFVSDFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/07/IUHME4CQ2BHEXAEAQWRCFVSDFE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:46:00 +0000</pubDate>
-      <content:encoded>65세 이상 고령층 환자들이 병원에서 한 해 동안 쓴 진료비가 지난해 처음으로 50조원을 돌파했다. 국내 노인 진료비는 최근 4년 사이 40% 가까이 늘어, 전체 진료비의 절반에 육박하는 수준이 됐다. &lt;br&gt;&lt;br&gt;6일 국회 보건복지위원회 김미애 의원(국민의힘)이 보건복지부에서 받은 자료에 따르면, 65세 이상 고령층의 건강보험 진료비 총액은 2020년 37조4737억원에서 지난해 52조1221억원으로 39.1% 증가했다. 건강보험 진료비는 환자 본인이 내는 병원비에 건강보험공단이 병원에 제공하는 급여를 합한 것이다. 실질적으로 치료에 들어가는 비용에 해당한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XXCHRROMFBLVIHF6Y3BODND6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내 차례는 언제 오지… 올 상반기 65세 이상 고령층이 병원에서 쓴 진료비가 국내 전체 진료비의 절반에 가까운 46% 수준인 것으로 확인됐다. 사진은 6일 서울의 한 병원에서 휠체어에 앉은 노인 환자가 진료 순서를 기다리고 있는 모습.
-/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노인 진료비가 늘어나면서 국내 전체 진료비에서 차지하는 비율도 커지고 있다. 노인 진료비는 지난해 국내 전체 진료비의 44.8%를 차지했다. 올해는 상반기에만 27조9817억원이 지출돼 전체 진료비에서 차지하는 비율이 46%로 더 늘었다. &lt;br&gt;&lt;br&gt;노인 진료비가 급증하는 가장 큰 이유는 노인 인구 증가 때문이다. 건강보험 적용을 받는 노인 인구는 2020년 790만4000명에서 올해 6월 말 기준 999만명으로 5년 사이 26.4% 늘었다. 치료받을 사람이 많으니 진료비 역시 늘어난 것이다. 이들이 전체 인구에서 차지하는 비율도 15.4%에서 19.4%로 늘었다. 병원을 자주 찾을 수밖에 없는 고령층이다 보니 전체 인구에서 차지하는 비율은 20%였지만, 진료비에서 차지하는 비율은 절반에 가까웠다. &lt;br&gt;&lt;br&gt;여기에다 1인당 진료비 증가도 노인 진료비를 끌어올렸다는 지적이다. 고령층 1인당 평균 진료비는 2020년 474만1000원에서 2024년 536만8000원으로 13.2% 늘었다. 올해도 상반기에 이미 지난해의 52% 수준인 280만원을 지출했다. &lt;br&gt;&lt;br&gt;고령화에 따른 진료비 지출 증가는 건보 재정이 악화되는 이유 중 하나로 꼽힌다. 보건복지부의 ‘국민건강보험 종합계획(2024~2028)’에 따르면 건강보험 당기 수지는 올해까지 4633억원의 흑자를 유지하다가 내년부터 적자로 전환할 전망이다. &lt;br&gt;&lt;br&gt;김미애 의원은 “전체 진료비의 절반 가까이를 65세 이상 노인이 차지하는 상황은 급속한 고령화가 이미 건강보험 재정에 직접적인 압박으로 작용하고 있다는 증거”라며 “건강보험의 지속 가능성을 위해서라도 수가 체계와 건보 재정 개혁을 서둘러야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한·일 국교 정상화 60주년 맞아 한국 찾은 재일 교포 초등학생들</title>
-      <link>https://www.chosun.com/national/people/2025/08/07/GKQTVVLLIRHG7HS6PAMRSZWV7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/07/GKQTVVLLIRHG7HS6PAMRSZWV7Y/</guid>
-      <dc:creator>김병권 기자, 김동완 인턴기자(고려대 미디어학부 4학년)</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOBP3AXWOBDKXIXS4IY7DXUSRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울 동대문구 한국외국어대 사이버관에서 재일동포 초등학생들이 본인들의 장래희망을 적은 종이를 들고 한국과 일본 국기 아래를 지나고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“60년 전 한국과 일본은 관계를 회복하자고 약속했어요. 올해는 서로를 더 이해하고, 사이좋게 지내자고 기념하는 해예요.”&lt;br&gt;&lt;br&gt;5일 오후 1시 40분 찾은 서울 동대문구 한국외국어대 사이버관에서 한국을 찾은 재일 교포 초등학생 4~6학년 64명의 눈이 반짝였다. 재외동포청 산하 재외동포협력센터는 한일 국교 정상화 60주년을 맞아 이달부터 교포 초등학생들을 초청해 한국어와 문화를 가르치는 프로그램을 진행하고 있다. 이날 학생들은 양국 국기를 직접 색칠해보고, 본인의 장래 희망이 적힌 흰 도화지로 대형 태극기를 만들었다.&lt;br&gt;&lt;br&gt;일본 도쿄에서 온 이 유리나(10)양은 어머니는 한국인, 아버지는 일본인이다. 매년 한국을 찾는다는 이양은 “일본엔 한국 친구가 거의 없어서 한때 외로움을 느꼈다”며 “한국의 문화를 배우면서 자부심이 생긴다. 한일 국민들이 더 잘 지냈으면 좋겠다”고 했다. 일본 사이타마에서 온 나유이(11)양은 “나중에 커서 통역사가 되고 싶은데 한국에 와서 두 나라 문화가 미묘하게 다르다는 걸 느꼈다”며 “이러한 차이까지 잘 통역할 수 있게 열심히 공부하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임진표·송길원 대표 ‘일가상’, ‘청년일가상’엔 이채진 대표</title>
       <link>https://www.chosun.com/national/people/2025/08/07/5GU4PHHFXVF2RHNVVK5KU4XCIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/07/5GU4PHHFXVF2RHNVVK5KU4XCIU/</guid>
@@ -758,51 +821,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EEAT4ZOY4NDZJKF577QTIWA5PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제35회 일가상에 임진표 금홍한우 대표(농업 부문)와 송길원 하이패밀리 대표(사회공익 부문)가 선정됐다. 제17회 청년일가상은 이채진 코끼리공장 대표가 받는다. 임 대표는 2009년부터 고급육 생산 기술 개발, 축산 시설 자동화, 친환경 사양 관리 등 축산 기술 혁신을 선도했다. 송 대표는 부부 상담, 자녀 양육, 존엄한 죽음 준비 등 생애 주기별 건강한 가정 문화 확산에 앞장섰다. 이 대표는 코끼리공장을 창립하여 폐장난감 5만여 개를 재활용하고 취약 계층 아동 기부, 재생 플라스틱 업사이클링 등 자원 순환 통합 모델을 구축했다. 일가상은 가나안농군학교 창설자 김용기(1909~1988) 선생의 사상을 계승하며 인류와 사회 발전에 봉사한 내외국인을 대상으로 1991년 제정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 김정선씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/07/WYMUN7D7RRDLHMNSDIQVU6N4UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/07/WYMUN7D7RRDLHMNSDIQVU6N4UY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:35:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김정선&lt;/b&gt; 별세, &lt;b&gt;정원정&lt;/b&gt; 기아 부사장 아내상, &lt;b&gt;정유진&lt;/b&gt;·&lt;b&gt;정유석&lt;/b&gt; 모친상, &lt;b&gt;강윤관&lt;/b&gt; 장모상=5일16시35분 서울성모병원, 발인 8일8시30분, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성기범&lt;/b&gt; 홀트아동복지회장 별세, &lt;b&gt;성은현&lt;/b&gt; 호서대 부총장·&lt;b&gt;성제현&lt;/b&gt; 부친상, &lt;b&gt;채희율&lt;/b&gt; 경기대 경제학과 명예교수 장인상, &lt;b&gt;백희수&lt;/b&gt; 시부상=6일12시30분 서울성모병원, 발인 8일12시, (02)2258-5940&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최제천&lt;/b&gt; 별세, &lt;b&gt;이국화&lt;/b&gt;·&lt;b&gt;이민호 &lt;/b&gt;엘앤씨에프앤씨 사장·&lt;b&gt;이민영&lt;/b&gt; 메리테크 부사장·&lt;b&gt;이미선&lt;/b&gt; 태극제약 이사 모친상, &lt;b&gt;김충제&lt;/b&gt; 파이낸셜뉴스 피플에디터 장모상, &lt;b&gt;이영아&lt;/b&gt; 시모상=6일1시 분당서울대병원, 발인 8일10시, (031)787-1500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;표건영&lt;/b&gt; 6·25 참전 유공자 별세, &lt;b&gt;표중열 &lt;/b&gt;부친상, &lt;b&gt;신현태&lt;/b&gt; 前 연합뉴스 전무·&lt;b&gt;정수명&lt;/b&gt; 소타텍 코리아 이사 장인상=6일10시13분 충남 홍성추모공원장례식장, 8일7시, (041)631-9944&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한흥옥&lt;/b&gt; 별세, &lt;b&gt;이우재&lt;/b&gt;·&lt;b&gt;이우길&lt;/b&gt;·&lt;b&gt;이우경&lt;/b&gt;·&lt;b&gt;이우범&lt;/b&gt; 모친상, &lt;b&gt;이은기&lt;/b&gt;·&lt;b&gt;이은주&lt;/b&gt;·&lt;b&gt;이정기&lt;/b&gt;·&lt;b&gt;이승환&lt;/b&gt;·&lt;b&gt;이영기&lt;/b&gt; 조모상, &lt;b&gt;박혜연&lt;/b&gt; 뉴스1 사회부 기자·&lt;b&gt;박혜신 &lt;/b&gt;외조모상=6일11시45분 인천 가천대 길병원, 발인 8일6시, (032)460-3444&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 숨겨진 보물, 숨은 명소</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/07/ZYJBMIQ5SNGZBFOFIDU7DDTJBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/07/ZYJBMIQ5SNGZBFOFIDU7DDTJBE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3EJST2BGB5ANTL7YNXXUBA44TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2679] 문장 꽈배기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/07/LNGT3HIAXJEZNBUKH2COD3COR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/07/LNGT3HIAXJEZNBUKH2COD3COR4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYSPTX6T3JF5RCF7OOCGUDVMUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 굉장히 창피하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/07/I2WWW76M5NHFJNRXLY4ZKZ6XS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/07/I2WWW76M5NHFJNRXLY4ZKZ6XS4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOYZTUYFHRAPTIMPFB35LAHFAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] cute as a button</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/07/OWP47VXGERHBRAMUX25QSWKBVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/07/OWP47VXGERHBRAMUX25QSWKBVE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V3JQSCRA5GUFN54LD6GCJWFWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 묵독(默讀)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2025/08/07/ZHWCC5F34BAAHHPJV24U62K4RY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/07/ZHWCC5F34BAAHHPJV24U62K4RY/</guid>
@@ -810,24 +828,6 @@
       <description/>
       <pubDate>Wed, 06 Aug 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QANRYU5FVJAQBG55DD7CXJPJXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] 어머니 장례식에서 울지 않은 남자, 세상은 그를 ‘이방인’으로 만들었죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/07/BIHA52EYA5A2DFX6EZK3VWOV5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/07/BIHA52EYA5A2DFX6EZK3VWOV5I/</guid>
-      <dc:creator>이진혁 출판 편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCBBSUZVQBC5TBHTLADF5PYR5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;알베르 카뮈 지음｜김화영 옮김｜책세상｜가격 1만800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;“오늘 엄마가 죽었다. 아니, 어쩌면 어제. 모르겠다.”&lt;br&gt;&lt;br&gt;소설 ‘이방인’은 이런 문장으로 시작됩니다. 주인공 ‘뫼르소’는 어머니의 장례식에서 눈물을 흘리지 않고, 커피를 마시고 담배를 피웁니다. 다음 날엔 아무 일 없었다는 듯 자신의 여자 친구 마리와 수영을 하고 영화를 보며 데이트를 즐기죠. &lt;br&gt;&lt;br&gt;그렇게 이상할 정도로 아무 일 없이 흘러가는 뫼르소의 일상은 곧 예상치 못한 사건으로 뒤바뀌게 됩니다. 그는 자신의 이웃과 갈등을 겪었던 한 아랍인을 뜨거운 태양이 내리쬐는 해변에서 다시 마주치지요. 그 순간, 아랍인이 꺼내든 칼에 햇빛이 반사되며 섬광이 뫼르소의 시야를 덮습니다. 그리고 뫼르소는 자신도 모르게 아랍인을 향해 손에 쥐고 있던 권총의 방아쇠를 당깁니다. 한 발로도 모자라 네 발을 더 쏘고 말지요. &lt;br&gt;&lt;br&gt;뫼르소는 사람을 죽인 죄로 재판을 받습니다. 하지만 이상하게도 법정에서 관심을 가진 것은 살인이 아니라 ‘어머니의 장례식에서 울지 않았다’는 사실이었습니다. 뫼르소가 인간성과 공감 능력이 없는 위험한 존재라고 여긴 것이죠. 결국 그는 감정이 없고 사회 규범을 따르지 않는다는 이유로 사회적으로 위험한 인물로 간주됐고, 사형을 선고받습니다.&lt;br&gt;&lt;br&gt;뫼르소는 정말 감정이 없는 사람일까요? 뫼르소는 ‘슬픔’이라는 감정을 연기하기보다 어머니가 없는 세상의 고요함을 그대로 느꼈을 뿐입니다. 사회는 이런 그의 정직함을 이해하지 못했지요. 그리고 정해진 감정을 표현하지 않았다는 이유로 그를 위험 인물로 몰아세웁니다.&lt;br&gt;&lt;br&gt;바로 이 지점에서 ‘이방인’이라는 제목의 의미가 드러나요. 뫼르소는 프랑스의 식민지 알제리에 사는 프랑스인이에요. 그런 의미에서 ‘외지인’이라는 뜻도 하지만, 세상의 규칙을 따르지 않고 겉도는 ‘아웃사이더’를 의미하기도 하는 것이지요.&lt;br&gt;&lt;br&gt;카뮈는 뫼르소라는 인물을 통해 ‘부조리’라는 자신의 핵심 철학을 이야기합니다. ‘부조리’란 우리가 아무리 진지하게 생각해 봐도 답을 얻을 수 없는 이상한 상황이에요. 예를 들어 착하게 산 사람이 나쁜 일을 당하는 것처럼요. 뫼르소는 부조리함으로 가득한 세상을 억지로 이해하려 하지 않고, 그냥 있는 그대로 받아들인 사람이었지요.&lt;br&gt;&lt;br&gt;이 소설은 친구가 옆에서 이야기를 해주듯 쉽게 쓰였다는 장점이 있지만, 아쉬운 점도 있어요. 예를 들어 뫼르소에게 희생당한 아랍인은 이름도 없고, 그냥 ‘아랍인’이라고만 불리며 대사도 한 마디 없습니다. 한 사람이라기보다는 배경처럼 다뤄지는 것이지요. 당시 알제리가 프랑스의 식민지였다는 점을 생각하면, 프랑스인의 시선으로만 세상을 바라봤다는 비판도 나왔습니다. 이런 점에 문제의식을 느낀 알제리 작가 카멜 다우드는 ‘뫼르소, 살인사건’이라는 소설을 썼어요. 아랍인의 동생 입장에서 다시 쓴 이야기입니다. &lt;br&gt;&lt;br&gt;사형 집행을 앞둔 뫼르소는 마침내 세상의 무관심을 끌어안으며 비로소 완전한 자유를 느낍니다. 끝까지 뫼르소를 이해하려 하지 않은 세상은 잘못이 없었을까요? 책을 다 읽으면 이와 같은 질문이 강렬한 햇빛처럼 남아 있을 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [생활 속 경제] 이상기후가 불러온 농작물 피해, 장바구니 물가 올린대요</title>
-      <link>https://www.chosun.com/national/nie/2025/08/07/Q5J3SADVUNC2VAJPY7B5AA7S7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/07/Q5J3SADVUNC2VAJPY7B5AA7S7M/</guid>
-      <dc:creator>연유진 '꼬리에 꼬리를 무는 경제이야기' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 15:31:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IUV6MKXXIJEVFKZEXDQQZ27RXE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 올해 폭우와 폭염이 이어지면서 농산물 가격이 크게 오르고 있대요. 이 때문에 물가까지 들썩인다는데, 이상기후는 어떻게 물가에 영향을 주는 건가요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;A&lt;/b&gt;. 요즘 우리나라는 심각한 이상기후에 시달리고 있어요. 얼마 전에는 ‘극한 호우’가 쏟아져 중·남부 지방에 엄청난 피해가 발생하더니, 그다음엔 밖에 나가는 게 두려울 정도의 기록적 폭염이 닥쳐왔습니다. 정말 ‘기후 위기’라는 말이 피부에 와닿는 것 같아요. &lt;br&gt;&lt;br&gt;그런데 알고 보면, 기후 위기는 환경 문제일 뿐 아니라 경제 문제이기도 해요. 기후 변화가 인플레이션(물가가 지속적으로 오르는 현상)을 일으킬 수 있기 때문이에요. 이렇게 기후로 인해 물가가 오르는 현상을 가리켜 ‘기후플레이션(climateflation)’이라는 말도 생겼어요.&lt;br&gt;&lt;br&gt;기후가 물가를 끌어올리는 경로는 크게 두 가지로 정리할 수 있어요. 먼저 국내산 농축산물 가격을 끌어올리죠. 농작물이나 축산물은 시장에 나오는 데까지 적게는 수개월에서 길게는 수년이 걸려요. 그런데 폭우나 폭염으로 농작물이 잘 자라지 못하거나 가축이 죽으면, 생산량을 금방 회복할 수 없어요. 먹고 싶은 사람(수요)은 그대로인데, 시장에 나오는 물건(공급)이 줄어들면 가격이 올라가게 돼요.&lt;br&gt;&lt;br&gt;실제로 6월에 배추 가격은 한 달 전보다 약 30%나 올랐다고 해요. 더위 때문에 배추가 제대로 자라지 못했기 때문이에요. 수박, 참외, 파, 쌀 등도 당분간 가격이 오를 거라고 해요. 7월 중순에 내린 폭우로 엄청난 면적의 농경지가 물에 잠겨 피해가 컸거든요.&lt;br&gt;&lt;br&gt;또 다른 경로는 수입 물가 상승을 꼽을 수 있어요. 우리나라는 커피 원두, 사탕수수, 카카오처럼 외국에서 들여오는 식재료를 많이 써요. 이런 작물들도 이상 기후 영향을 받으면 국제 가격이 오르고, 자연스레 수입 가격이 올라 이 재료들을 가지고 우리나라에서 만드는 가공식품 가격까지 줄줄이 오르게 돼요.&lt;br&gt;&lt;br&gt;최근에는 카카오 가격이 크게 올랐는데요. 지난해 코트디부아르, 가나 등 카카오를 재배하는 주요 국가에 극심한 가뭄이 찾아와서 생산량이 줄었기 때문이에요. 자연스레 카카오 수입 가격도 가파르게 올랐고, 그 여파로 초콜릿이나 빵처럼 카카오를 사용하는 음식들도 줄줄이 가격이 인상되고 있어요.&lt;br&gt;&lt;br&gt;기후플레이션은 소득이 낮은 사람들에게 더 큰 영향을 줘요. 소득이 적을수록 식료품에 쓰는 돈의 비율이 높기 때문에, 먹을거리가 비싸지면 생활이 더 팍팍해지는 거예요. 그래서 장바구니 물가가 올랐을 때 소비를 크게 줄여야 하죠.&lt;br&gt;&lt;br&gt;이렇게 해마다 이상 기후가 반복되면, 농사를 짓는 땅 자체가 줄거나, 재배할 수 있는 작물이 바뀌는 일도 생겨요. 그러면 장기적으로도 농산물 가격이 더 자주, 더 크게 오를 수 있지요.&lt;br&gt;&lt;br&gt;그래서 앞으로는 탄소 배출을 줄이는 노력과 함께, 기후로 인한 피해를 줄이기 위한 대비책도 함께 마련해야 해요. 특히 취약 계층을 보호하는 정책이 중요하겠죠. 지구도 살리고, 경제도 살릴 수 있는 지혜가 필요한 때입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 8월 7일</title>
