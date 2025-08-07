@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹변호인단 “특검, 尹 팔다리 잡고 끌어내려 시도"</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/LX7YEPMPHFEGRP5IHSKR6PPEXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/LX7YEPMPHFEGRP5IHSKR6PPEXA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 04:02:07 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 변호인단은 7일 “특검이 윤 전 대통령 팔을 잡고 (강제 인치를 시도했고), 완강하게 거부하자 (윤 전 대통령이) 앉아있는 의자를 들어 옮기려 했다”면서 “윤 전 대통령이 넘어지고, 의자에서 떨어지기도 하는 등 허리와 팔에 통증을 호소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUETUD7XJFPM3HWJVYCQPHKXOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 법률대리인단인 배보윤·송진호 변호사가 7일 오후 서울고검 앞에서 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측 배보윤·송진호 변호사는 이날 김건희 특검의 윤 전 대통령 강제 인치 시도와 관련해 서울고검 앞에서 기자회견을 갖고 이 같이 밝혔다. &lt;br&gt;&lt;br&gt;김건희 특검은 이날 오전 8시 25분 서울구치소에 수감 중인 윤 전 대통령에 대한 체포영장 집행을 시도했으나 오전 9시 40분 “피의자의 완강한 거부로 부상 등의 우려가 있다” 현장 의견을 받아들여 집행을 중단했다.&lt;br&gt;&lt;br&gt;송 변호사는 “(서울구치소 내) 기동대라는 팀이 들어와 윤 전 대통령을 특검 지휘에 따라 그대로 들어서 끌고 가려고 시도했다”면서 “완강히 거부하자 특검보가 스피커폰으로 지휘를 하는 상황이 1시간 40분 동안 이어졌다”고 했다. 또 “변호인이 이의제기도 하지 못 하게 하고, 소리도 내지 못하게 하거나 변호인을 쫓아내려고도 했다”고 했다.&lt;br&gt;&lt;br&gt;송 변호사는 “구속된 피의자에 대해 체포영장을 발부받아 팔다리를 붙잡고 끌어내려고 시도한 것 자체가 역사상 처음”이라며 모든 불법행위에 대해선 책임을 지게 할 것“이라고 했다.&lt;br&gt;&lt;br&gt;배 변호사는 “피의자 신문은 임의 수사인데, 미리 (조사에 응하지 않겠다고) 통보했음에도 물리적으로 강제 인치하려 하는 것은 그 자체로 가혹행위”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김철문 前경북경찰청장, 해병 특검 출석… “수사 외압 없었다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/RS6N7432MZAKFDPIFVJWHNQNGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/RS6N7432MZAKFDPIFVJWHNQNGI/</guid>
+      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 05:05:39 +0000</pubDate>
+      <content:encoded>김철문 전 경북경찰청장(현 전북경찰청장)이 7일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 참고인 신분으로 출석했다. 김 청장은 작년 7월 경북경찰청이 고(故) 채수근 상병의 부대장이던 임성근 전 해병대 1사단장의 과실치사 혐의에 대해 불송치 처분을 내렸을 당시 경북경찰청장이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQFBFHBFZZNUREK5QHWQPCW5VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김철문 전 경북경찰청장이 7일 서울 서초구 이명현 순직해병 특별검사 사무실로 조사를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 청장은 이날 오후 서울 서초동 해병 특검 사무실에 출석하면서 ‘수사 방향과 관련해 외부 지시나 압박을 받은 적 있느냐’는 취재진 질의에 “없다. 조사를 잘 받고 오겠다”고 말했다. ‘대통령실 등의 지시가 있었느냐’ 등의 추가 질문에는 답하지 않고 곧장 조사실로 향했다.&lt;br&gt;&lt;br&gt;해병 특검은 김 청장을 상대로 채 상병 사망 사고와 관련해 경찰 수사 과정에서 대통령실 등의 외압이 있었는지, 사건 회수 및 사후 조치 과정 등에서 위법 행위가 있었는지 등을 조사할 계획이다. 김 청장은 작년 2월 경북경찰청장에 임명됐고, 그해 7월 경북경찰청이 수사 결과를 발표할 때도 해당 직책에 있었다.&lt;br&gt;&lt;br&gt;당시 경북경찰청은 임 전 사단장에게 과실치사 혐의를 적용한 해병대 수사단의 초동 조사 결과를 뒤집고, 임 전 사단장에 대해 무혐의 불송치 결정을 했다. 대신 해병대 7여단장 등 6명을 과실치사 등 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;이와 관련 해병 특검은 지난달 16일 채 상병 사망 사고 당시 경북경찰청장이었던 최주원 전 청장을 피의자 신분으로 소환 조사한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 특검, 김건희 여사 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/GIRFO5YBP5ATNEA4EFLS4DW3PY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/GIRFO5YBP5ATNEA4EFLS4DW3PY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 04:28:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UVUO6HYZIAZPPZK6UGEGJIPXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 6일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검팀 사무실에서 조사를 마친 후 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 첫 소환 조사 후 하루 만에 김 여사에 대한 구속영장을 청구했다. 영장이 발부된다면 전직 대통령과 영부인이 동시에 구속되는 첫 사례가 된다.&lt;br&gt;&lt;br&gt;특검은 7일 언론 공지를 통해 “오늘 오후 1시 21분 김건희씨에 대한 구속영장을 청구했다”고 밝혔다. 특검이 지난달 2일 수사를 정식 개시한 지 36일 만이다.&lt;br&gt;&lt;br&gt;전날 김 여사는 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에 출석해 7시간 23분가량 조사를 받았다. 특검은 김 여사에게 ‘도이치모터스 주가조작 의혹(자본시장법 위반)’ ‘명태균 공첩개입 의혹(정치자금법·공직선거법 위반 및 뇌물수수)’ ‘건진 법사 청탁 의혹(알선수재)’ ‘고가 장신구 재산 누락 의혹(공직자윤리법 위반)’ 등을 집중적으로 물은 것으로 알려졌다. 김 여사는 특검 조사에선 범죄 혐의들을 전면 부인하며 적극적으로 자기 입장을 밝힌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검은 조사에서 도이치모터스 주가조작 의혹을 가장 먼저 조사했다. 특검은 앞서 유죄가 확정된 권오수 전 도이치모터스 회장 등의 2010~2012년 주가조작 범죄에 김 여사가 전주(錢主)로 가담한 공범으로 의심하고 있다. 이에 김 여사는 조사에서 “주가조작을 하는지 몰랐다”며 반박했다고 한다. 특검은 또 서울고검에서 발견한 김 여사와 증권사 직원 간 녹음 파일을 근거로 제시하며 “사전에 알았으니까 40%나 수익을 주기로 한 것 아니냐”고 추궁했는데, 김 여사는 “정황 증거일 뿐 직접 증거가 될 수 없다”며 주장한 것으로 전해졌다. 주가조작 세력이 연락을 주고받은 후 7초 만에 김 여사 계좌에서 주식 8만주가 매도된 ‘7초 매매’에 대해서도 김 여사는 “우연의 일치”라는 입장을 고수했다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 윤 전 대통령과 함께 국민의힘 공천에 개입한 혐의에 대해서도 캐물었다. 특검은 윤 전 대통령 부부가 2022년 6월 보궐선거와 2024년 4월 총선에서 각각 김영선 전 의원과 김상민 전 검사가 국민의힘 경남 창원 의창 공천을 받을 수 있도록 영향력을 행사했다고 보고 있다. 김 전 의원의 경우에는 ‘정치 브로커’ 명태균씨가 2021년 4월~2022년 3월 윤 전 대통령 측에 68차례 여론조사를 무상으로 제공한 대가로 공천을 지원했다고 의심중이다. 하지만 김 여사는 “명씨에게 여론조사를 요청한 적이 없으며 명씨가 자체적으로 해서 단순하게 공유한 것”이란 입장이다. 김 전 검사 역시 “선거운동을 도와주라고 했을 뿐”이라고 진술했다.&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨를 통한 통일교(현 세계평화통일가정연합) 청탁 의혹 역시 부인했다. 특검은 전 통일교 세계본부장 윤영호씨가 2022년 4~7월 캄보디아 공적개발원조(ODA) 사업 등 통일교 현안을 청탁하면서 전씨에게 건넨 6000만원대 그라프 목걸이, 총 2000만원대의 샤넬백 2개, 천수삼 농축차 등이 김 여사에게 전달됐다고 의심하고 있다. 이에 김 여사는 “선물을 받기는커녕 본 적도 없다”며 “삼(蔘) 종류는 체질에 맞지 않아 탈이 나서 먹지도 못한다”고 반박했다. 김 여사 측은 윤 전 대통령 취임 전후로 대통령실이 전씨에게 ‘대통령 부부 이름을 팔고 다니지 말라’고 경고했다고 덧붙이기도 했다.&lt;br&gt;&lt;br&gt;특검은 이외에도 ‘양평 고속도로 종점 노선 변경 특혜 의혹’ ‘양평 공흥지구 개발 특혜 의혹’ 등 김 여사에 관한 의혹이 방대한 만큼 신병을 우선 확보한 뒤 추가 조사를 이어갈 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H3ZUFXEPEFHDFFWFMYTBZZSSCA.jpg?auth=8166f6c2d60c923b087697d532270516383ffef457ea7afd31e55c0204bb8733&amp;smart=true&amp;width=1109&amp;height=624" type="image/jpeg" height="624" width="1109">
+        <media:description type="plain">윤석열 전 대통령의 부인 김건희 여사가 지난 6일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검팀(특별검사 민중기) 사무실에서 조사를 마친 후 귀가하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“혼자 오면 말 걸지 마세요”… 단호한 식당 안내문 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/08/GNUXO5LUORFD7F3RLXKLA4O7ME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/GNUXO5LUORFD7F3RLXKLA4O7ME/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 04:50:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLND63KEJVHSBNP4EH23WR3S5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 식당에 안내문이 붙어있다./인스티즈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 식당에 붙은 안내문을 두고 온라인상에서 의견이 엇갈리고 있다. 손님을 향한 단호한 문구가 담긴 안내문이 공개되면서 일부는 “사장 입장이 이해된다”는 반응을, 또 다른 일부는 “불친절하다”며 불쾌감을 드러냈다.&lt;br&gt;&lt;br&gt;7일 여러 온라인 커뮤니티에는 ‘식당에 이런 거 붙어있으면 기분 어때?’라는 제목의 글이 올라왔다. 해당 글은 한 식당 벽면에 붙은 안내문 사진을 캡처해 공유한 것이었다. 사진 속 작성자는 “무서워서 주문하기 전에 세 번 정독했다”며 이를 공개했다. &lt;br&gt;&lt;br&gt;손글씨로 작성된 안내문에는 “드시던 국물 데워드리지 않아요. 혼자 오신 손님, 대화 걸지 마세요. 이리 와라, 가라 하지 마세요. 주문은 그냥 말씀하시면 됩니다. 영업시간, 휴무일, 입구에 쓰여 있어요”라고 적혀 있었다.&lt;br&gt;&lt;br&gt;또 다른 안내문에는 “1인 1메뉴 주문해 주세요. 고기국수가 어떤 음식인지 모르시면 뒤편에 설명을 읽어보세요. 김치는 매콤한 김치로 종류는 한 가지입니다. 안 매운 거 없어요”라는 내용도 담겼다. 수육을 주문한 경우를 제외하고는 앞접시를 제공하지 않는다는 안내도 있었다.&lt;br&gt;&lt;br&gt;식당 주인은 “제주도에서 안 왔고 제주도 사람 아니에요. 반말하지 말아 주세요. 곧 고등학생 학부모입니다. 수저는 둘 중 하나만 사용 부탁드려요. 식사 후 빠른 이동 부탁드립니다”라고 적어뒀다.&lt;br&gt;&lt;br&gt;해당 안내문을 두고 네티즌들은 엇갈린 반응을 보였다. 일부는 “얼마나 시달렸으면 저럴까 싶다” “진상 손님이 많이 와서 지쳤겠지” “혼자 오는 손님이 말 건다는 상황이 상상돼서 좀 짠하다”며 식당 주인의 입장에 공감했다. 반면 “돈 내고 체할 것 같다” “굳이 이런 데서 먹고 싶진 않다” “모든 손님이 진상은 아니다” “앞접시도 안 주는 건 너무하다” 등의 반응도 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘민폐 카공족’에 칼 빼든 스타벅스... 프린터·칸막이 사용 제한</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/08/GZAIATSYJZGIVKFYRW67PE6R2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/GZAIATSYJZGIVKFYRW67PE6R2E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 04:45:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ECOZCJ5IZHWPOJWTEL6C4COGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에 올라온 스타벅스 '민폐' 이용 사례들. 칸막이를 쳐놓고 장시간 자리를 비우거나 프린터기를 연결해 사용했다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스타벅스 코리아는 국내 매장에서 프린터와 칸막이, 멀티탭 등의 사용을 제한하기로 했다.&lt;br&gt;&lt;br&gt;7일 외식업계에 따르면 스타벅스 코리아는 전국 매장에 고객들이 개인용 데스크톱과 프린터, 멀티탭, 칸막이 등을 사용하는 행위를 금지하도록 전날 공지했다. 아울러 각 매장에 장시간 자리를 비우는 고객의 경우 소지품을 챙겨달라고도 안내했다. &lt;br&gt;&lt;br&gt;스타벅스는 관련 게시글을 이날부터 매장에 비치하도록 했으며, 이 같은 행위를 하는 고객에게는 매장 직원이 직접 알리도록 했다. &lt;br&gt;&lt;br&gt;이는 일부 고객이 매장에 멀티탭을 챙겨와 개인용 데스크톱과 프린터를 연결하는 등 공간을 마치 개인 사무실처럼 쓰는 사례가 있어 다른 고객들의 민원이 이어진 데 따른 조치로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6SH2TGUFNGL7DEQ6XLYA7W2ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 4월 한 스타벅스 매장에 한 손님이 노트북과 모니터를 들고 온 모습. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 온라인에는 이런 상황이 담긴 사진이 올라와 ‘카공족’(카페에서 공부하는 사람들) 논란이 일기도 했다. 지난 6월에는 한 고객이 스타벅스 매장 테이블에 칸막이를 세워둔 채 긴 시간 자리를 비운 모습이 포착됐다. 작년 5월에는 다른 스타벅스 매장에서 고객이 프린터까지 챙겨와 이용하는 모습이 한 네티즌에 의해 공개됐다. 또 4월에는 또 다른 스타벅스 매장에 손님이 멀티탭을 챙겨와 노트북과 사무용 모니터를 연결해 사용하는 사진이 퍼졌다. &lt;br&gt;&lt;br&gt;스타벅스 측은 이번 조치가 고객들에게 불편을 주지 않기 위해서라고 밝혔다. 스타벅스 관계자는 “스타벅스를 방문하는 고객들에게 쾌적하고 편리한 매장 경험을 제공하기 위한 것”이라며 “장시간 좌석을 비울 때 소지품 도난과 분실 위험에 대비하기 위해 고객 안내를 진행하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재판 도중 구속되자 갑자기 유죄 인정…대법 “자백의 신빙성 따져야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/XEYNAMUMK5EXRJ6QRDMLJL7C3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/XEYNAMUMK5EXRJ6QRDMLJL7C3A/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 04:53:40 +0000</pubDate>
+      <content:encoded>무죄를 주장하던 피고인이 재판 도중 구속되자 갑자기 자백을 했다면, 그 자백의 신빙성을 더욱 엄격히 따져야 한다는 대법원 첫 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNKPQS4J7DLQYSIVVDNTLVBRUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 최근 교통사고처리특례법 위반(치사) 혐의로 기소된 트랙터 운전사 이모씨에게 금고 1년에 집행유예 2년을 선고한 원심을 깨고 사건을 제주지법으로 돌려보냈다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 2020년 10월 제주 서귀포시의 한 농로에서 트랙터를 몰다 2차선 도로로 좌회전해 진입하려던 중, 직진하던 오토바이를 들이받아 운전자를 숨지게 한 혐의로 기소됐다. 검찰은 “이씨는 좌회전 전에 일시 정지를 하지 않았고 반사경을 통해 다른 차량을 확인하지 않는 등 주의 의무를 게을리했다”며 그를 기소했다.&lt;br&gt;&lt;br&gt;1심은 “이씨가 좌회전 직전 일시 정지하지 않았다는 증거가 없고, 오토바이를 조기에 발견했다고 하더라도 사고를 피할 수 있었다는 증거도 없다”며 이씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;그러나 항소심 재판부는 재판 도중 증인이 불출석하자, “증거 인멸과 도망의 염려가 있다”며 이씨를 법정 구속했다. 이후 이씨 측 변호인은 “피고인은 교차로 진입의 우선권이 없다는 재판장의 지적을 듣고 잘못을 깨달아 과실을 모두 인정하게 됐다”며 사실상 자백하는 의견서를 제출했다. &lt;br&gt;&lt;br&gt;이전까지 무죄를 주장해오던 이씨가 법정 구속되자, 갑자기 주장을 번복하며 공소 사실을 모두 인정한 것이다. 항소심 재판부는 이 자백을 근거로 이씨에게 금고 1년에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이씨를 구속한 과정에 문제가 있고, 이씨 자백의 신빙성을 제대로 따지지 않고 유죄 판결을 내린 원심에 잘못이 있다며 파기 환송했다. 이씨의 자백이 구속 직후 이뤄진 만큼, 그 신빙성과 증명력을 더욱 면밀히 따졌어야 한다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 “재판 과정에서 구속된 사람은 허위 자백을 하고라도 자유를 얻고자 하는 유혹을 느끼는 경우가 있어 피고인이 구속 이후 갑자기 자백한 사건에서는 단순히 ‘공소 사실을 인정한다’는 진술의 신빙성을 평가할 땐 각별히 유의해야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;이어 “피고인의 자백이 임의로 이뤄졌다고 해도, 자백의 진실성과 합리성, 그 경위, 다른 정황 증거와의 일관성 등을 종합적으로 따져야 한다”면서 “변호인 의견서나 증인신문도 거치지 않은 채 자백만으로 유죄를 판단한 것은 부당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;아울러 대법원은 재판부가 피고인을 직권으로 구속할 경우 유의할 점을 명시했다. 대법원은 “2심 증인의 불출석이 피고인의 관여했다고 보기는 어렵다”면서 “이 사건 구속은 객관적, 외부적 사정 변경 없이 갑작스럽게 이뤄졌다는 점에서 형사 소송 절차에서 피고인의 지위나 처지를 고려해 신중히 이뤄졌는지 의문이 있다”고 지적했다.&lt;br&gt;&lt;br&gt;결국 대법원은 “피고인에게 구속 사유와 필요성이 있다고 본 원심 판단이 매우 불합리하다”면서 사건을 다시 심리해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 尹 전 대통령, 서울구치소 의무실行... 체포영장 집행 여파</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/7YCCJUVOENCO3KILJC22EAPFYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/7YCCJUVOENCO3KILJC22EAPFYA/</guid>
@@ -783,15 +841,6 @@
       </media:content>
     </item>
     <item>
-      <title>디지털 관광증 ‘나우다(NOWDA)’... 제주관광 할인 플랫폼 선보인다</title>
-      <link>https://www.chosun.com/national/regional/2025/08/07/33WWGPZ7FRHGXIVGZ6MZLRZ3IU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/07/33WWGPZ7FRHGXIVGZ6MZLRZ3IU/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 06:58:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBASYKS24INXZNFJ2I6EIB2QNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 디지털 관광증 나우다 이미지./제주도관광공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관광객에게 다양한 할인 혜택을 제공하는 플랫폼인 제주 디지털 관광증 ‘나우다’가 다음달 26일 첫 선을 보인다. 발급받기만 해도 할인 혜택이 제공되고, 쓰면 쓸 수록 혜택은 점점 더 커진다.&lt;br&gt;&lt;br&gt;6일 제주관광공사에 따르면 제주어로 ‘접니다’라는 뜻인 ‘나우다(NOWDA)’는 제주를 방문한 만 14세 이상의 내국인 관광객이라면 누구나 발급받을 수 있는 디지털 관광증이다.&lt;br&gt;&lt;br&gt;네이버 아이디를 개설하고 휴대전화에 네이버페이 앱을 설치하면 QR코드 스캔을 통해 ‘나우다’를 쉽게 발급받을 수 있다. 발급 직전에 제주의 자연과 문화, 지역주민을 배려하고 책임 있는 여행자가 될 것을 약속하는 ‘제주와의 약속’에 서약만 하면 된다.&lt;br&gt;&lt;br&gt;‘나우다’를 발급받으면 가맹점에서 약 10%의 할인 혜택을 받을 수 있고, 가맹점에서 소비하면 할수록 멤버십 등급이 올라가 더 많은 할인과 서비스를 받을 수 있다. 기본 ‘웰컴’ 등급은 이용횟수가 25회가 되면 ‘스페셜’, 50회가 되면 ‘시그니쳐’가 된다. 상위 이용자에게는 추후 제주 왕복 항공권, 제주 농수산품 등이 증정될 예정이다.&lt;br&gt;&lt;br&gt;현재 가맹점 수는 총 128곳이다. 유형별로 보면 민영 관광지 34곳, 체험시설 37곳, 식음료·소품업소 57곳이다. 각 가맹점 위치는 네이버 지도로 연동되는 ‘가맹점 지도’에서 쉽게 확인할 수 있다.&lt;br&gt;&lt;br&gt;‘나우다’ 개시일인 다음달 26일부터 10월31일까지 제주국제공항 1층 대합실에서는 ‘나우다’ 이용자를 대상으로 여행지원금 지급 이벤트가 진행된다. 가입 독려 차원에서 추첨을 통해 제주 지역화폐인 ‘탐나는전’ 1만원권, 3만원권, 5만원권을 현장 지급한다.&lt;br&gt;&lt;br&gt;제주도관광공사는 온·오프라인 홍보 지원, 컨설팅 지원, 우수 업체 인센티브도 지급 등을 내세우며 가맹점 모집에 나서고 있다. 단기적으로 올 연말까지 300곳을 확보하는 게 목표다. 제주관광공사는 공영 관광지도 가맹점에 포함시키기 위해 조례 제정 절차도 밟고 있다고 설명했다.&lt;br&gt;&lt;br&gt;내년에는 나우다 이용 대상을 외국인 관광객으로 확대할 예정으로, 외국어 변환과 네이버페이 연계 등도 함께 추진할 예정이다.&lt;br&gt;&lt;br&gt;제주관광공사 관계자는 “나우다를 제주 관광 전반의 원스톱 플랫폼으로 확장시켜 나갈 것”이라며 “나우다 가입자 수를 늘려 나가고, 증가한 가입자 수를 기반으로 혜택 영역을 지속적으로 확대해 나가는 선순환 구조를 만들어 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“챗GPT로 한국어 시나리오 만들어” 캄보디아 조직도 한국 노린다</title>
       <link>https://www.chosun.com/national/national_general/2025/07/16/VLCX5MBZKREIJDQIDQVI2Q4AYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/16/VLCX5MBZKREIJDQIDQVI2Q4AYM/</guid>
@@ -876,15 +925,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZ7U2SAHRNH6BMT7E4V6QOHSTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2024년 7월 11일 오전 서울 여의도 국회에서 열린 행정안전위원회 전체회의에서 김철문 당시 경북경찰청장이 해병대 채상병 순직 사건 수사와 관련한 위원의 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 7일 김철문 전 경북경찰청장을 불러 조사한다.&lt;br&gt;&lt;br&gt;정민영 특검보는 6일 기자단 브리핑에서 “7일 오후 2시 김철문 전 청장을 참고인으로 불러 조사한다”며 “고 채수근 상병 사망 사건 관련 경북청의 수사 과정에 외압 등 불법 행위가 있었는지 등을 전반적으로 조사할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 청장은 경북청이 채 상병 사망 관련 업무상 과실치사 사건을 수사할 당시 청장으로 이 사건을 지휘했다. 임성근 전 해병대 1사단장 등은 채 상병이 2023년 7월 경북 예천 수해 실종자 수색 현장에 투입됐다가 급류에 휩쓸려 숨진 사고와 관련해 과실치사·직권남용 등 혐의를 받았다. 그러나 경북청은 작년 7월 임 전 사단장에 대해 ‘혐의 없음’으로 불송치 결정을 내렸고, 해병대 1사단 박모 7여단장 등 6명만 과실치사 혐의로 검찰에 송치했다.&lt;br&gt;&lt;br&gt;이에 대해 김 전 청장은 작년 7월 국회에 출석해 “오로지 관련된 증거와 진술, 법리에 따라서 판단했다“며 ”(외부 특정인이나 기관으로부터) 전화나 일체 청탁을 받은 사실이 없다“고 밝혔다. 그는 ”임 전 사단장의 명령과 지시가 채 상병의 죽음으로 연결된 게 아니냐“는 민주당 의원의 질문에는 ”임 전 사단장의 지시들은 기존 수색 지침에서 벗어난 게 아니다”라고 답했다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 전날 13시간가량 참고인 조사를 받은 전하규 국방부 대변인을 추가 조사할 계획이다. 전 대변인은 이 전 장관이 채 상병 사망 사고와 관련한 해병대 수사단의 초동 조사 결과를 보고받을 때 배석하고, 이후 언론 브리핑 취소 지시를 받는 등 당시 국방부 내부 상황을 잘 아는 인물이다. 특검은 전 대변인이 &lt;br&gt;&lt;br&gt;전 대변인은 전날 조사를 마치고 나와 “첫 보고 때 이 전 장관은 문제가 없다고 판단했느냐”는 취재진 질문에 “그때는 그렇게 큰 문제는 없었던 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>특검, 김건희 여사 조사 10시 23분 시작... 질문지 분량은 100쪽</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/07/FZSBRBAEPZHAPHOEGYEQVL6SOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/FZSBRBAEPZHAPHOEGYEQVL6SOQ/</guid>
-      <dc:creator>이민준 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 01:30:44 +0000</pubDate>
-      <content:encoded>민중기 특별검사팀은 6일 오전 10시 23분 김건희 여사 대면 조사를 시작했다고 밝혔다. 특검이 조사를 위해 준비한 질문지는 100쪽이라고 한다. 김 여사의 거부로 조사 과정의 영상 녹화는 이뤄지지 않는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQQN7XHWJJP65H6NZVUUHHLNLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 6일 오전 서울 종로구 KT 광화문빌딩 웨스트에 마련된 민중기 특별검사 사무실로 출석하고 있다. 2025.08.06 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사는 이날 오전 10시 10분 특검 사무실이 있는 서울 광화문 KT빌딩 웨스트에 도착했다. 1층 포토라인을 지나 에스컬레이터를 이용해 2층으로 올라간 김 여사는 “국민 여러분께 저같이 아무것도 아닌 사람이 이렇게 심려를 끼쳐서 진심으로 죄송하다”고 짧게 말한 뒤 대기실로 이동했다.&lt;br&gt;&lt;br&gt;김 여사는 10시 22분 12층에 있는 조사실에 입실했고, 1분 뒤 본격적인 조사가 시작된 것이다. 특검은 이날 김 여사의 ‘도이치모터스 주가 조작’ 의혹을 시작으로, ‘명태균 공천 개입’ 의혹 및 ‘건진법사 청탁’ 의혹을 물을 예정이다. 조사에 앞서 간략한 인사를 나누는 ‘티타임’은 진행되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;도이치모터스 주가 조작 의혹 조사는 한문혁 부장검사가 맡는다. 한 부장검사는 검찰의 초기 수사 당시 수사팀에 참여한 이력이 있고, 지난 4월 서울고검이 김 여사 재수사를 결정했을 당시 자문 형식으로 수사팀에 참여했다. 지난 6월 특검 파견이 결정돼 수사를 이어왔다.&lt;br&gt;&lt;br&gt;공천 개입 의혹 조사는 검찰 전담수사팀 구성 당시부터 참여했던 인훈 부장검사가 담당하기로 했다. 인 부장검사는 지난해 10월 검찰이 창원지검에 전담수사팀을 꾸리고 수사를 본격화할 당시부터 수사 전반을 지휘해 왔다. 건진법사 청탁 의혹은 김효진 부부장검사가 조사에 참여할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사는 이날 진술거부권을 행사하지 않고 혐의를 적극 소명할 계획인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>홍진경, 결혼 22년만에 합의 이혼 “진정한 우정 되찾아”</title>
       <link>https://www.chosun.com/national/people/2025/08/07/Z44WPGBP55AEDD573ZFPNFIV54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/07/Z44WPGBP55AEDD573ZFPNFIV54/</guid>
@@ -903,15 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NH32H5RZ4BDLRHGNDIYBQIQHMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노인 환자 관련 이미지. 기사와 직접적인 관련이 없음. /픽스타&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;65세 이상 노인들의 건강보험 진료비가 최근 4년 사이 급증하며 지난해 처음 50조원을 돌파한 것으로 나타났다. 이들의 진료비는 전체 인구 진료비의 거의 절반에 달한다.&lt;br&gt;&lt;br&gt;6일 국회 보건복지위원회 소속 김미애 국민의힘 의원이 보건복지부로부터 제출받은 자료에 따르면 65세 이상 고령층의 건강보험 진료비(환자 본인 부담금+급여비) 총액은 2020년 37조4737억원에서 지난해 52조1221억원으로 약 39% 증가했다.&lt;br&gt;&lt;br&gt;2023년엔 49조5593억원을 기록했는데, 지난해 처음으로 50조원을 돌파한 것이다. &lt;br&gt;&lt;br&gt;같은 기간 65세 이상 고령층 1인당 진료비는 474만1000원에서 536만8000원으로 상승했다. &lt;br&gt;&lt;br&gt;전체 건강보험 진료비에서 고령층이 차지하는 비율도 2020년 43.1%에서 지난해 44.8%까지 높아졌고, 올해 6월 기준으론 46.0%까지 높아져 거의 절반에 가까워졌다. &lt;br&gt;&lt;br&gt;김미애 의원은 “전체 진료비의 절반 가까이를 65세 이상 노인이 차지하는 상황은 급속한 고령화가 이미 건강보험 재정에 직접적인 압박으로 작용하고 있다는 증거”라며 “지금과 같은 추세라면 건강보험의 지속 가능성은 위태로워질 수밖에 없다”고 지적했다.&lt;br&gt;&lt;br&gt;한편 복지부의 제2차 국민건강보험 종합계획(2024∼2028)에 따르면 건강보험 당기수지는 올해까지는 4633억원으로 흑자를 유지하다가 내년부터 적자로 전환할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해병 특검 ‘이종섭 도피 의혹’ 외교부 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/07/676PNUGW4RAD3OYJS53KXFDCS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/676PNUGW4RAD3OYJS53KXFDCS4/</guid>
-      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 01:00:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBJLZUC5E7ACKXNYID55ODYI6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방부 장관의 주(駐)호주 대사 임명 의혹과 관련해 6일 외교부 압수 수색에 착수했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 이날 서울 종로구의 외교부 장관실, 인사기획관실 등을 대상으로 압수 수색 영장을 집행했다. 앞서 특검은 지난 4일에는 박성재 전 법무장관, 조태열 전 외교장관, 심우정 전 검찰총장(당시 법무차관) 등을, 5일에는 법무부 장관실과 차관실 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 기자단 브리핑에서 “이 전 장관의 호주 대사 임명과 범인 도피 등 혐의와 관련해 외교부가 보관 중인 자료를 확보하기 위해 압수 수색을 진행하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 윤석열 전 대통령 등이 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처) 수사를 받던 이 전 장관을 호주 대사로 임명·출국시켜 수사를 방해하려 했다는 의혹을 수사하고 있다. 이 전 장관은 2023년 9월 민주당에 의해 고발됐는데, 이듬해 3월 4일 호주 대사로 임명돼 출국하며 ‘도피 출국’ 논란을 불렀다. 당시 이 전 장관이 공수처에 의해 출국 금지돼 있던 것이 드러나 논란이 커졌는데, 법무부는 대사 임명 직후 이를 해제했다. 이와 관련해 윤 전 대통령과 박성재·조태열 전 장관 등은 범인 도피·직권남용 등 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관의 호주 대사 임명 과정이 정당했는지, 인사 검증은 제대로 이뤄졌는지, 출국 금지 해제는 적법했는지 등을 수사 중이다. 특검은 최근 전임 호주 대사와 외교부 인사기획관 등을 참고인으로 불러 당시 대사 임명 과정을 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“나도 신세계 폭파”... 테러 글 올린 20대 남성, 경남 하동서 검거</title>
       <link>https://www.chosun.com/national/national_general/2025/08/07/Z2QWVRBSR5E55BZYQ2EGMEHPXA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/Z2QWVRBSR5E55BZYQ2EGMEHPXA/</guid>
@@ -928,33 +959,6 @@
       <description/>
       <pubDate>Wed, 06 Aug 2025 01:55:12 +0000</pubDate>
       <content:encoded>6일 김건희 여사의 특검 출석을 앞두고, 특검 사무실이 있는 서울 광화문 KT빌딩 웨스트 근처에는 김 여사 부부 지지자와 반대자들이 오전 7시 30분쯤부터 모여들기 시작했다. 이들은 특검 포토라인으로 향하는 앞마당 건너편 보도에 각자 자리를 잡고 김 여사 출석을 기다렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IH4RMOO47ZNJ3N5FRQIS3ZH6DE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이날 KT빌딩을 사각으로 감싸고 무력 충돌 상황에 대비했다. 세종대로 쪽에 45인승 대형버스 7대를 이어 세웠고, 주한미국대사관 쪽에도 미니버스 4대와 대형버스 3대를 세웠다. 반대 방향인 교보빌딩 쪽에도 미니버스 1대와 대형버스 3대를 세워 빌딩 경계선을 차벽으로 둘러쳤다. 지지자와 반대자들은 모두 1개 차선 건너편의 보도에서 김 여사를 기다렸다.&lt;br&gt;&lt;br&gt;보수 성향 유튜버들은 “대통령을 석방하라”는 구호를 반복해 틀면서, 윤 전 대통령의 석방을 요구했다. 20m쯤 떨어진 곳에서는 한 진보 성향 유튜버가 대형 앰프를 설치하고, “김 여사의 주가조작으로 전재산의 반을 날렸다”며 “절대 용서할 수 없다”고 외치기도 했다. 한 참석자는 청소년 상반신 크기의 확성기를 허리에 얹어 매고 구호를 외쳤다. 출석 시각이 가까워질 수록 참석자가 늘어, 김 여사가 도착하기 직전엔 양측이 60여 명씩 모였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KTK6FT7IP3OQYZ6LXWFXIBVKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 서울 종로구 KT광화문빌딩 앞에 윤석열 전 대통령 지지자들이 모여 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오전 10시 10분 김 여사가 차에서 내리자, 양측의 분위기가 고조됐다. “김건희 구속” “김건희 XXX” 등을 외치는 반대자와 “김건희 여사님 힘내세요” “김건희 파이팅”을 외치는 지지자가 팽팽하게 맞붙었다. 김 여사가 포토라인을 지나 빌딩 안으로 들어가자 한 유튜버가 다른 유튜버를 손으로 밀쳐 바닥에 나동그라지는 일도 벌어졌다.&lt;br&gt;&lt;br&gt;김 여사가 사무실로 들어간 이후에도 유튜버 6명, 지지자 10명가량이 남아 ‘YOON AGAIN’ ‘김건희 여사 여성 인권 보장하라’ ‘계엄합법 탄핵무효’ 등 팻말을 들고 시위를 이어가고 있다.&lt;br&gt;&lt;br&gt;이날 특검 포토라인이 설치된 KT빌딩 앞마당엔 취재진도 100여 명이 모여 특검에 처음 출석하는 김 여사를 오전 7시쯤부터 기다렸다. 김 여사는 시선을 바닥에 둔 채 포토라인을 천천히 지나 대기실로 향했다. 특검은 오전 10시 23분부터 조사를 시작했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTEHS4EWAQZM5K4XXJUB3TMIPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한국 여자로서 현타 온다” 손흥민 비매너 논란 부른 사진, 반전 있었다  </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/07/O7HX75W2JVGETJZXJDFBDFU7GM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/O7HX75W2JVGETJZXJDFBDFU7GM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 00:59:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFIQFMX3JRCD7GDOUJEUNGIJYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 서울월드컵경기장에서 열린 토트넘 홋스퍼와 뉴캐슬 유나이티드 FC의 경기를 마치고 인터뷰하는 손흥민(왼쪽 사진)과 벤 데이비스./ 쿠팡플레이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구선수 손흥민이 때아닌 비매너 논란에 휩싸였다. 손흥민이 여성 리포터와 인터뷰하면서 우산을 들고 있지 않은 모습이 리포터에게 우산을 씌워주는 외국인 선수와 비교돼 주목받은 것이다. 그러나 이 장면에는 반전이 있었다.&lt;br&gt;&lt;br&gt;지난 5일 한 온라인 커뮤니티에는 ‘이해하면 한국 여자로서 현타(현실에 회의감이 온다는 뜻) 온다는 사진’이라는 제목으로 손흥민과 벤 데이비스의 인터뷰 장면을 캡처한 사진 2장이 올라왔다. 두 사람이 지난 3일 서울월드컵경기장에서 열린 토트넘 홋스퍼와 뉴캐슬 유나이티드 FC의 경기를 마치고 비가 내리는 가운데 리포터와 인터뷰하는 모습이었다.&lt;br&gt;&lt;br&gt;먼저 인터뷰에 나선 손흥민은 한 손에 마이크를 들고 다른 손은 뒷짐을 진 채 카메라를 향해 말하고 있다. 그 옆에서 여성 리포터가 우산을 들고 손흥민에게 씌워주고 있다. 반면 벤 데이비스는 한 손에는 마이크를, 다른 손에는 우산을 직접 들고 여성 리포터에게 우산을 씌워주고 있다. 작성자는 별다른 설명을 적진 않았지만 우산을 들어주는 벤 데이비스의 매너를 강조하려고 했던 것으로 보인다.&lt;br&gt;&lt;br&gt;이 게시물은 여성 이용자가 많은 커뮤니티에서 하루 만에 조회 수 12만 회, 댓글 1800개가 넘을 만큼 화제가 됐으며 갑론을박이 이어졌다. &lt;br&gt;&lt;br&gt;사진을 접한 네티즌들은 “외국인은 기본 매너가 다르다” “손흥민이 매너 없는 선수는 아닌데 어릴 때부터 배운 습관이 중요하긴 하다” “우리나라 남자들 문 잡아주는 것도 그렇고 매너가 부족하긴 함” “남녀를 떠나서 자기보다 작고 가녀린 사람이 바로 옆에서 저런 큰 우산 자기 씌워주느라 들고 있는 상황에 건장한 남자라면 불편함을 느끼는 게 당연한 것 아닌가” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;반면 “캡처 장면 하나로 매너를 판단하는 건 섣부르다” “앞뒤 정황 없이 또 성별 갈라치기하는 것이냐” 등의 반응도 있었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZ3HFEF23JA3XPL74OHQTZL44U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 손흥민 인터뷰 사진 뒷모습./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 글이 논란이 되자 한 네티즌은 손흥민이 인터뷰할 당시 뒷모습을 공개했는데, 손흥민은 뒷짐을 지고 있던 다른 손에 이어폰과 연결된 송출기를 들고 있었다. 여건상 우산을 들 수 없었다는 것이다. 반면 벤 데이비스는 이 송출기를 바지에 꽂고 나와 우산을 들 수 있었던 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘비화폰 관리’ 김대경 전 경호처 지원본부장 참고인 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/07/V2LQ3N4HRVFETCXT65FNF5ZLT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/07/V2LQ3N4HRVFETCXT65FNF5ZLT4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 01:34:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPAU5HBPXNOUXHZ2TGK7ZSAHJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김대경 전 대통령경호처 지원본부장이 6일 서울 서초구 내란 특검팀이 위치한 서울고등검찰청에 참고인 조사를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 6일 김대경 전 대통령경호처 지원본부장을 참고인 신분으로 소환했다. 김 전 본부장은 비화폰 관리 업무를 담당했던 인물이다.&lt;br&gt;&lt;br&gt;김 전 본부장은 계엄 사태의 핵심 인물인 노상원 전 정보사령관에게 비화폰을 지급하는 데 관여한 의혹을 받고 있다. 특검이 계엄 준비 시기 노 전 사령관과 수차례 통화한 제3자를 특정하고 있는 만큼, 김 전 본부장을 상대로 관련 조사를 진행할 것으로 보인다.&lt;br&gt;&lt;br&gt;앞서 지난 2월 국회 국정조사 특별위원회 청문회에서 윤건영 더불어민주당 의원은 김 전 본부장에게 “경호처에서 노상원씨에게 끝 번호가 9481인 비화폰을 제공했다고 들었다. 김성훈 당시 경호처 차장의 비서관이 비화폰을 챙겨가 노씨에게 줬다”며 사건의 진위를 물었다. 당시 김 전 본부장은 “전반적 내용을 언급하기 어렵다” “잘 모르는 일”이라며 즉답을 피했었다.&lt;br&gt;&lt;br&gt;특검은 김 전 본부장을 상대로 김성훈 전 경호처 차장의 지시 하달과 비화폰 삭제 시도 관련 경위에 대해서도 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;김 전 차장은 비화폰 통화 내역 삭제를 위해 김 전 본부장에게 전화를 걸어 여인형 전 방첩사령관, 이진우 전 수도방위사령관, 곽종근 전 특수전사령관 등 특정 인물들과 관련된 조치를 요구했다. 그러나 김 본부장이 이를 따르지 않자, 김 전 차장이 다시 한 차례 더 삭제를 지시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“나도 폭파하겠다” 연쇄 협박에… 경찰, 신세계백화점 전방위 수색</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/07/TFYN6I257NAH3C2EAW3GXTYZ2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/07/TFYN6I257NAH3C2EAW3GXTYZ2M/</guid>
-      <dc:creator>용인=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 06 Aug 2025 01:21:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUZHLB444ZHQBJEMNGIW7ADMNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 8월 5일 오후 서울 중구 신세계백화점 본점에 폭발물을 설치했다는 온라인 커뮤니티 협박글이 허위로 드러난 가운데 통제가 풀린 백화점으로 직원과 방문객들이 복귀하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5일 온라인 커뮤니티에 서울 중구 신세계백화점 본점에 폭발물을 설치했다는 협박 글이 올라와 대피 소동이 벌어진 가운데 비슷한 내용의 글이 재차 게시되자 경찰이 신세계백화점에 대한 수색에 나섰다.&lt;br&gt;&lt;br&gt;6일 경찰에 따르면 전날 오후 11시쯤 “유튜브에 신세계백화점을 폭파하겠다는 내용의 댓글을 단 사람이 있다”는 내용의 112 신고가 용인서부경찰서에 접수됐다. &lt;br&gt;&lt;br&gt;해당 글 게시자는 전날 신세계백화점 본점 폭파 예고 글과 관련한 한 유튜브 영상 게시물에 “나도 신세계백화점을 폭파하겠다”는 취지의 댓글을 달았던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;다만 이 해당 댓글에는 특정 장소나 시간은 언급되지 않았다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 이날 오전 6시쯤부터 신세계백화점 스타필드하남점과 용인 수지구 신세계 사우스시티점 등에 대해 폭발물 수색을 하고 있다. &lt;br&gt;&lt;br&gt;한편 전날 낮 12시 36분쯤 디시인사이드 ‘합성 갤러리’에 ‘신세계백화점 폭파 안내’라는 제목으로 폭발물을 설치했다는 주장과 함께 테러를 암시하는 글이 올라왔다. 해당 글을 작성한 이는 중학생 A(13군)으로 하루 뒤인 이날 제주시 노형동 자택에서 공중협박 혐의로 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희, 오늘 특검 공개 출석</title>
