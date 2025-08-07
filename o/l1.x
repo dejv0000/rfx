@@ -6,14 +6,14 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 특검, 김건희 구속영장 청구</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210333.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Thu, 07 Aug 2025 04:32:19 -0000</pubDate>
+			<title>[속보] 특검, 김건희 여사 구속영장 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210335.jpg" alt="456474848.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;윤석열 전 대통령 부인 김건희 여사가 6일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특별검사팀에서 피의자 신분으로 조사를 받고 귀가하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 김 여사를 소환조사한 지 하루 만에 전격적으로 구속영장을 청구했다. &lt;br /&gt;&lt;br /&gt;특검팀은 7일 "오후 1시 21분 김건희 씨에 대한 구속영장을 청구했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 특검팀은 전날인 6일 김 여사에 대한 첫 소환 조사를 진행했다. &lt;br /&gt;&lt;br /&gt;특검팀은 김 여사를 상대로 △도이치모터스 주가조작 의혹 △명태균 씨 공천개입 의혹 △건진법사 전성배 씨 부정청탁 의혹 △나토 순방 당시 고가 장신구 착용 의혹 등을 조사했다. &lt;br /&gt;&lt;br /&gt;김 여사는 조사 과정에서 진술 거부권을 행사하지는 않았지만, 혐의 대부분을 부인했다고 한다. &lt;br /&gt;&lt;br /&gt;이에 특검팀은 더 이상의 추가 소환 조사가 불필요하다고 판단하고, 곧바로 구속영장 청구를 결정한 것으로 보인다.</description>
+			<pubDate>Thu, 07 Aug 2025 04:57:36 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210333</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210333</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210333.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/210335</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210335</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210335.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
 		</item>
 		<item>
 			<title>특검, 윤 전 대통령 2차 체포영장 집행도 무산..."부상 우려"</title>
