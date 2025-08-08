@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>착한법 "행안부 중심 경찰공화국 우려…검찰개혁 4법 철회해야"</title>
+			<description>사단법인 착한법만드는사람들은 8일 성명을 내고 "졸속 입법으로 형사사법체계 무너뜨리는 검찰개혁 4법을 즉각 철회하라"고 요구했다.&lt;br /&gt;&lt;br /&gt;이들은 "경찰청 국가수사본부, 중대범죄수사청, 자치경찰, 특별사법경찰 등 방대한 수사조직을 행정안전부 산하에 두는 구조는 세계적으로 유례가 없다"라며 "검찰청 폐지와 수사·기소권 완전분리는 행안부 소속 수사기관에 권한을 과도하게 집중시켜 경찰공화국이 될 우려가 있다"고 주장했다.&lt;br /&gt;&lt;br /&gt;이어  "공수처에는 수사권과 기소권을 모두 부여하면서 검찰은 이를 분리하는 이중적 태도는 일관성이 결여되어 있다"며 "국가수사위원회와 같은 정치적 영향력을 받을 수 있는 기구에 수사 감찰 교체 권한을 부여하는 것은 수사의 중립성과 독립성을 정면으로 침해한다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;더불어민주당은 검찰청 폐지, 공소청 신설, 중대범죄수사청 신설에 더해 수사기관들을 아우르는 국수위 신설 등 4대 검찰개혁법안은 추진하고 있다.</description>
+			<pubDate>Fri, 08 Aug 2025 03:57:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210367</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210367</guid>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 8월 8일</title>
 			<description>&lt;b&gt;◇의원실 세미나&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;09:30 최민희 의원실 등, [제5차 AI법제연구포럼 국회 세미나] 인공지능기본법의 발전방향 모색 : 혁신과 신뢰 사이의 균형적 해법(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;13:00 김승수 의원실 등, 미술시장 활성화를 위한 법적 지원방안 : 2025년 한국문화예술법학회 하계공동학술대회(의원회관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 이주영 의원실, 건강보험 파헤치기 : CHAPTER1 건강보험제도의 과거와 현재 그리고 미래 : 개혁신당이 약속한 두 번째 개혁(의원회관 제7간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 이용선 의원실 등, 세계 피폭자 초청 증언대회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 박정 의원, [사회적기업·마을기업 주 4.5일제 캠페인 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김현 의원, [더불어민주당 국민소통위원회 민주파출소 정례브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Thu, 07 Aug 2025 22:36:12 -0000</pubDate>
@@ -227,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210313</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210313.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 여사 조사 절반 가량 진행…진술거부권 행사 안해</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210312.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=공동취재단》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 6일 오후 3시께까지 김 여사를 상대로 준비된 조사 분량의 절반가량을 진행했다. 김 여사는 조사 과정에서 진술거부권을 행사하지 않았다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1257"&gt;문홍주&amp;nbsp;&lt;/span&gt;특검보는 이날 오후 3시께 열린 정례브리핑에서 "현재 조사는 절반을 약간 넘은 상황"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;문 특검보는 "준비한 피의자 신문사항을 기준으로 (조사를 절반 정도 진행)했다"며 "출석요구서에 넣은 피의사실을 중심으로 조사하고 있다"고 설명했다. &lt;br /&gt;&lt;br /&gt;특검팀은 김 여사에게 보낸 출석요구서에 다섯 가지 혐의를 담은 것으로 전해졌다. △도이치모터스 주가조작 의혹 △명태균 씨 공천 개입 의혹 △건진법사 부정청탁 의혹 △나토 순방 당시 고가 장신구 착용 의혹 △윤 전 대통령의 허위사실 공표 의혹 등이다. 특검팀은 이날 김 여사를 조사하기 위해 약 100쪽 분량의 질문지를 준비했다고 한다. &lt;br /&gt;&lt;br /&gt;김 여사는 이날 오전 10시 11분께 특검팀 사무실에 출석했다. 오전 10시 23분부터 조사를 받은 김 여사는 휴식을 한 차례 취한 뒤 오전 11시 59분에 오전 조사를 마무리했다. 김 여사는 점심으로 직접 준비한 도시락을 먹었다고 한다. &lt;br /&gt;&lt;br /&gt;점심 식사 뒤 조사는 오후 1시부터 재개됐다. 김 여사는 오후 2시 14분께부터 10분가량, 2시 39분께부터 30분가량 두 차례 휴식을 취했다고 한다. 문 특검보는 "(휴식 시간은) 필요에 의해서 가졌다"며 "피로도가 쌓이면 적절히 쉬었던 것 같다"고 설명했다. 또 "(김 여사가) 심각하게 건강에 대한 문제를 제시하지는 않았다"고 말했다. &lt;br /&gt;&lt;br /&gt;김 여사는 진술거부권을 행사하지 않는 것으로 알려졌다. 김 여사 측 변호인단은 이날 언론공지를 통해 "감사하게도 특검 측 검사님들께서 여러모로 배려해 주셔서 조사는 잘 진행되고 있다"고 했다. &lt;br /&gt;&lt;br /&gt;조사 과정에서 특검팀은 김 여사를 '피의자'로 부르는 것으로 알려졌다. 특검팀은 김 여사가 별도 티타임을 가지거나 특검·특검보와 대면하지 않았다고 밝혔다. &lt;br /&gt;&lt;br /&gt;문 특검보는 조사 종료 시점에 대해 "(조사를) 절반 넘게 하긴 했지만, 예상 보다 길어질 수 있고 열람 시간도 오래 걸려 언제까지 할지 말씀드리기 어렵다"고 했다. 다만 김 여사 측은 저녁 도시락도 함께 준비한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;김 여사는 특검팀 사무실 12층에 마련된 조사실에서 조사를 받는 것으로 전해진다. 다만 문 특검보는 "(김 여사 조사실이) 어느 층에 있는지 말씀드리기 어렵다"며 "통상의 피의자 조사실과 거의 비슷하다"고 했다. &lt;br /&gt;&lt;br /&gt;특검팀은 조사에 부장급 검사와 속기사들이 참여한다. 김 여사 측에선&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14146"&gt;채명성&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17719"&gt;최지우&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21706"&gt;유정화&amp;nbsp;&lt;/span&gt;변호사가 입회했다. &lt;br /&gt;&lt;br /&gt;문 특검보는 김 여사에 대한 2차 소환조사 가능성에 대해 "수사 관련 부분이어서 말씀드리기 어렵다"고 말했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 06 Aug 2025 07:32:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210312</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210312</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210312.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
