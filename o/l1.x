@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>박주홍 두실초 교사 대상… 헌법재판연구원, 제9회 우수 헌법수업 경연대회 개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210386.jpg" alt="647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;8일 지성수 헌법재판연구원장(앞줄 왼쪽에서 다섯 번째)과 본선 진출자들, 심사위원들이 시상식을 마치고 기념촬영을 하고 있다. 《사진=헌법재판연구원 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;헌법재판연구원(원장 지성수)이 주최한 ‘제9회 우수 헌법수업 경연대회’에서 박주홍 두실초등학교 교사가 대상의 영예를 안았다. 상금 300만 원이 수여됐다. 금상은 백혁 화순오성초등학교 교사와 윤지혜 서울교육대학교 학생에게 각각 돌아갔다.&lt;br /&gt;&lt;br /&gt;이번 경연대회는 8월 8일 서울 강남구 역삼동 헌법재판연구원 대강의실에서 열렸다.&lt;br /&gt;&lt;br /&gt;올해로 9회째를 맞은 이번 대회에는 총 61명이 지원했으며, 서면 심사를 거쳐 본선 진출자 10명이 선발됐다.&lt;br /&gt;&lt;br /&gt;이날 본선에서는 예선을 통과한 초·중·고 교원과 교대·사범대 학생 10명이 헌법과 다양한 교과목을 접목한 창의적인 수업을 선보였다. 참가자들은 각자의 교육 현장에서 연구한 헌법 수업 모델을 바탕으로 실제 수업을 재현하며 기량을 겨뤘다.&lt;br /&gt;&lt;br /&gt;‘우수 헌법수업 경연대회’는 다양한 교과목의 학습 주제에 헌법을 통합한 우수 수업 사례를 발굴하고, 이를 교육 현장에서 활용할 수 있도록 보급하기 위해 매년 개최하고 있다.&lt;br /&gt;</description>
+			<pubDate>Fri, 08 Aug 2025 11:26:09 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210386</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210386</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210386.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>착한법 "행안부 중심 경찰공화국 우려…검찰개혁 4법 철회해야"</title>
 			<description>사단법인 착한법만드는사람들은 8일 성명을 내고 "졸속 입법으로 형사사법체계 무너뜨리는 검찰개혁 4법을 즉각 철회하라"고 요구했다.&lt;br /&gt;&lt;br /&gt;이들은 "경찰청 국가수사본부, 중대범죄수사청, 자치경찰, 특별사법경찰 등 방대한 수사조직을 행정안전부 산하에 두는 구조는 세계적으로 유례가 없다"라며 "검찰청 폐지와 수사·기소권 완전분리는 행안부 소속 수사기관에 권한을 과도하게 집중시켜 경찰공화국이 될 우려가 있다"고 주장했다.&lt;br /&gt;&lt;br /&gt;이어  "공수처에는 수사권과 기소권을 모두 부여하면서 검찰은 이를 분리하는 이중적 태도는 일관성이 결여되어 있다"며 "국가수사위원회와 같은 정치적 영향력을 받을 수 있는 기구에 수사 감찰 교체 권한을 부여하는 것은 수사의 중립성과 독립성을 정면으로 침해한다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;더불어민주당은 검찰청 폐지, 공소청 신설, 중대범죄수사청 신설에 더해 수사기관들을 아우르는 국수위 신설 등 4대 검찰개혁법안은 추진하고 있다.</description>
 			<pubDate>Fri, 08 Aug 2025 03:57:17 -0000</pubDate>
@@ -225,16 +235,6 @@
 			<link>https://www.lawtimes.co.kr/news/210314</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210314</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210314.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>민주당 '국민주권 검찰정상화 특위' 출범…"추석 전 검찰개혁 완료"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210313.jpg" alt="457.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;6일 서울 여의도 국회에서 열린 '더불어민주당 국민주권 검찰정상화 특별위원회' 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당은 6일 '국민주권 검찰정상화 특별위원회'를 출범시키고 추석 전에 검찰개혁을 완료하겠다고 재확인했다.&lt;br /&gt;&lt;br /&gt;정청래 더불어민주당 대표는 이날 오후 서울 여의도 국회에서 열린 출범식 및 1차 회의에 참석해 "지금의 시대적 과제는 내란 종식, 내란 척결,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;정부 성공에 있다"며 "가장 시급히 해야 할 개혁 중 개혁이 검찰개혁"이라고 말했다. 이어 "개혁도 골든타임을 놓친다면 저항이 거세져서 좌초되고 말 것이기 때문에 시기가 중요하다"고 강조했다.&lt;br /&gt;&lt;br /&gt;국민주권 검찰정상화 특위원장을 맡은 민형배 민주당 의원은 "이 나라 민주주의를 매번 퇴행으로 몰아갔던 정치 검찰의 준동을 원천 봉쇄할 시간"이라며 "온 국민을 공포에 몰아넣고 민생을 끝없이 파탄 지경으로 내몬 검찰 독재 내란 세력을 완전히 뿌리 뽑을 시간"이라고 말했다.&lt;br /&gt;&lt;br /&gt;민 의원은 특위의 주요 과제로 △수사·기소 완전 분리 △국민 주권 실현 및 민생 뒷받침을  제시하며 "검찰청은 역사박물관으로 보내고 검찰청에 집중됐던 권한을 공소청과 중대범죄수사청으로 나누겠다"고 설명했다. 이어 "국민의 기본권을 보장하면서도 불법, 위법, 탈법에는 효과적으로 대응할 수 있도록 형사사법시스템 운영 방식을 구체적이고 정밀하게 다듬겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;그러면서 "정청래 대표 말처럼 추석 밥상에 검찰청 폐지를 올려드리겠다"며 "저희는 폭풍처럼 휘몰아쳐 전광석화처럼 해치우겠다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;아울러 특위는 검찰 개혁에 대한 국민들의 의견을 수렴하는 온라인 플랫폼을 열었다고도 밝혔다. 민 의원은 "검찰 개혁 과정에서 중요하게 생각하시는 점, 우려하시는 점, 바라시는 방향 등 모든 의견을 자유롭게 말씀해달라"며 "시민 여러분의 의견이 곧 개혁의 밑거름이 될 것"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;이날 출범식에는 특위 간사를 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6071"&gt;주철현&lt;/span&gt;(65·사법연수원 15기) 의원을 비롯해 김영환·박균택·&lt;span style="font-weight: bold;" class="lawmanlink" serial="5712"&gt;최기상&lt;/span&gt;(56·25기)·한민수 의원이 함께했다. 위원으로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3706"&gt;김남준&lt;/span&gt;(61·22기) 법무법인 시민 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15256"&gt;김지미&lt;/span&gt;(50·37기) 법무법인 경도 변호사, 서보학 경희대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9014"&gt;이석범&lt;/span&gt;(64·22기) 법무법인 동서양재 변호사 등이 참석했다.</description>
-			<pubDate>Wed, 06 Aug 2025 08:10:21 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210313</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210313</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210313.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
