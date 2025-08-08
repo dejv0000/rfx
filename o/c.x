@@ -13,6 +13,89 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가평 폭우로 부모·동생 잃은 고교생… “혼자라고 느끼지 않게 할 것” 도움의 손길</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/RDVFTRTTXBGSFC3XCYZ7YDNOAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/RDVFTRTTXBGSFC3XCYZ7YDNOAA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 14:11:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN5XW5EVGIJ2JNRTLBRPRFQ5DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 경기 가평군 조종면의 한 편의점 건물이 집중호우에 무너져 내려 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 경기 가평군 캠핑장을 찾았다가 폭우로 40대 부모와 동생을 잃은 고등학생을 지원하기 위해 교육 당국이 나섰다.&lt;br&gt;&lt;br&gt;8일 경기도교육청 등에 따르면 안타깝게 가족을 잃고 혼자가 된 A군의 사연이 알려진 뒤 도교육청 직원들은 자발적으로 성금을 모으고 있다. 도교육청 관계자는 “A군을 돕고자 하는 마음에서 직원들이 할 수 있는 일을 찾던 중 성금을 모으기로 한 것”이라며 “지속적이고 실질적인 도움을 줄 수 있는 방안도 찾고 있다”고 했다.&lt;br&gt;&lt;br&gt;A군 가족은 지난달 20일 가평군 조종면 마일리 캠핑장을 방문했다가 집중 호우로 인한 산사태가 발생하면서 참변을 당했다. A군의 아버지는 당일 오전 4시 20분쯤 캠핑장에서 약 6㎞ 떨어진 가평군 조종면 대보리 대보교에서 구조물에 걸려 숨진 채 발견됐다. 실종됐던 A군의 남동생과 어머니도 같은 달 24일과 31일 각각 숨진 채 발견됐다. A군은 캠핑장에서 다리 등을 다친 채 발견된 뒤 병원에서 수술받고 회복 중이다.&lt;br&gt;&lt;br&gt;A군 가족의 장례식장에는 A군의 친지와 친구, 학교 교직원, 도교육청 및 지역교육지원청 직원 등 100여 명이 자리를 지켰다. 교육청은 A군의 동생이 다닌 초등학교의 같은 학년 학생들을 대상으로 심리 검사를 진행하고 애도 프로그램과 특별 상담실도 운영하고 있다. &lt;br&gt;&lt;br&gt;임태희 경기도교육감은 전날 A군 가족의 장례식장을 찾아 “법률 상담과 심리 치료를 비롯해 기타 재정적 지원 등 도교육청 차원에서 가능한 모든 지원을 해서 A군이 혼자라고 느끼지 않게 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란 공모’ 이상민 구속적부심 기각…“증거 인멸 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/QHR6JTVSRJANJOT65M5D3C7QHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/QHR6JTVSRJANJOT65M5D3C7QHE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 13:21:39 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 관련 내란을 공모한 혐의를 받는 이상민 전 행정안전부 장관의 구속이 적법했다고 법원이 판단했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQQDDUXZTFCE5GXW7MEFPZYLQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 '언론사 단전·단수'를 지시한 의혹을 받는 이상민 전 행정안전부 장관이 지난달 31일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사8-1부(재판장 차승환)는 이날 이 전 장관에 대한 구속적부심사 심문을 진행한 뒤, 이 전 장관 측 청구를 기각했다. &lt;br&gt;&lt;br&gt;재판부는 “피의자 심문 결과와 이 사건 기록에 의하면, 구속이 요건 및 절차에 관한 법규를 위반했다고 볼 자료가 없다”면서 “증거 인멸의 염려가 있다고 믿을 만한 충분한 이유가 있어 계속 구금할 필요가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;구속적부심사는 피의자에 대한 구속이 적법한지, 구속을 계속할 필요성이 있는지를 법원이 심사해 판단하는 절차다. 법원이 이 전 장관 측 신청을 기각하면서, 이 전 장관은 구속 상태에서 추가 수사를 받게 됐다.&lt;br&gt;&lt;br&gt;이 전 장관은 내란중요임무종사, 직권남용 권리행사방해, 위증 혐의로 지난 1일 구속됐다. 이 전 장관은 평시 계엄 주무 부처인 행정안전부 장관으로 윤석열 전 대통령의 위법한 비상계엄을 사실상 방조하고, 윤 전 대통령의 언론사 단전·단수 지시를 경찰청과 소방청에 전달해 내란 범죄에 순차적으로 가담한 혐의를 받는다. 이 과정에서 치안과 소방의 직무를 관장하는 행정안전부 장관으로서의 권한을 남용해 소방청장 등에게 의무 없는 일을 시킨 혐의도 있다.&lt;br&gt;&lt;br&gt;이날 심사에는 내란 특검팀의 이윤제 특검보 등이 나왔고, 이 전 장관 측에서는 이승직 변호사 등이 참석했다. 특검팀은 85장 분량의 프레젠테이션(PPT)을 준비했고, 재판부에 110쪽의 의견서를 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한강 위 요트서 화재...탑승자 6명 경상</title>
+      <link>https://www.chosun.com/national/incident/2025/08/09/FJHKCALKGJCF5PTL2MGV4HRGYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/09/FJHKCALKGJCF5PTL2MGV4HRGYE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 12:39:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVQOKLYQVPEHCDP3IAT6PFVAFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 서울 반포대교 인근 수상에 떠 있던 선박에서 화재가 발생해 소방당국이 진화에 나섰다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 반포대교 인근 한강 위에 떠 있던 요트에서 불이 나는 사고가 8일 발생했다. 이 사고로 탑승자 6명이 경상을 입었다.&lt;br&gt;&lt;br&gt;이날 오후 8시 45분쯤 “한강에 떠 있는 요트에 불이 났다”는 신고를 받은 소방은 차량 19대, 인원 61명을 동원해 화재 발생 약 30분 만인 오후 9시 16분쯤 불을 완전히 껐다. 화재로 인한 인명 피해는 없는 것으로 조사됐다. 요트에 타고 있던 시민 6명은 경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방 당국은 정확한 화재 발생 위치와 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WVQOKLYQVPEHCDP3IAT6PFVAFI.jpg?auth=9788119f6d826cec2db827b71b271698920eaee939a1e281a1f471605bef88a9&amp;smart=true&amp;width=1280&amp;height=960" type="image/jpeg" height="960" width="1280">
+        <media:description type="plain">8일 오후 서울 반포대교 인근 수상에 떠 있던 선박에서 화재가 발생해 소방당국이 진화에 나섰다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>소비 쿠폰 담당 기간제 직원 채용, 인건비만 193억 썼다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/09/PNPMSJR5Q5GJNPYUR3GZIGD37I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/09/PNPMSJR5Q5GJNPYUR3GZIGD37I/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 11:56:38 +0000</pubDate>
+      <content:encoded>정부가 민생 회복 소비 쿠폰 지급을 위해 기간제 근로자 인건비·교육비로만 약 193억원의 예산을 편성한 것으로 나타났다. 소비 쿠폰 지급 과정에서 상담과 민원 응대를 할 수 있는 기간제 근로자를 최대 7000명 안팎까지 채용하기 위해서다. &lt;br&gt;&lt;br&gt;정부는 지난달 21일부터 9월 12일까지 전 국민을 대상으로 1인당 15만~45만원의 1차 소비 쿠폰을 지급 중이고, 9월 22일~10월 31일 전 국민 90%에게 1인당 10만원의 2차 소비 쿠폰을 지급할 예정이다. &lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면 정부는 1차 소비 쿠폰 지급을 위해 지방자치단체에 인건비 명목으로 국비 173억원을 편성했다. 소비 쿠폰 상담 등을 위해 5주간 기간제 근로자를 채용하거나 공무원 수당 등으로 사용하라는 취지였다. 기간제 근로자의 경우 인구 6만명 이상 시군구는 3명, 3만~6만명 미만 시군구는 2명, 기타 시군구는 1명 등으로 단가가 계산됐다. 국비 외에 시군구가 자체 예산도 보태는데, 실제 지출된 인건비는 173억원이 넘는다는 뜻이다. &lt;br&gt;&lt;br&gt;실제로 상당수 지방자치단체에서 기간제 근로자를 채용했다. 별도 집계가 나오진 않았지만, 기간제 근로자 1인 월급이 최저임금인 209만6270원이라는 점을 감안하면 4대 보험료와 기타 비용 등을 더해 최대 7000명의 기간제 근로자를 채용한 것으로 추정된다. &lt;br&gt;&lt;br&gt;국민건강보험공단의 경우, 다음 달 2차 소비 쿠폰 지급을 위해 기간제 근로자 294명을 채용했다. 2차 소비 쿠폰은 소득 하위 90%가 대상인데, 건강보험료를 기준으로 대상 포함 여부를 계산해야 하기 때문이다. 이 과정에서 건보공단에 상담과 항의성 민원이 속출할 것으로 보고 아예 전담 상담원들을 기간제로 뽑는 것이다. &lt;br&gt;&lt;br&gt;이들도 월급은 지자체와 마찬가지로 최저임금인 209만6270원이다. 9월 10일부터 11월 7일까지 약 두 달간 근무한다. 이로 인해 기간제 294명의 월급으로 12억8400만원, 4대 보험료로 1억4200만원, 기타 교육비, 채용 수수료 등을 합쳐 총 19억2000만원이 들어간다. 지자체 근로자 인건비(173억원)와 합치면 최소 193억원 이상이 인건비로 쓰인다는 계산이 나온다. &lt;br&gt;&lt;br&gt;앞서 정부는 지난 2020~2022년 코로나 팬데믹 때도 ‘긴급 재난 지원금’ ‘긴급 고용 안정 지원금’을 지급할 때 대규모 기간제 근로자를 채용했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TN3ZBO6SSYLONLY3OTOXRZVRZM.jpg?auth=4b208c136a065edb53714d5f0fc16911d8a4ef2da915d5bf2e45622d9011d287&amp;smart=true&amp;width=5424&amp;height=3192" type="image/jpeg" height="3192" width="5424">
+        <media:description type="plain">민생회복 소비쿠폰 지급 이후 첫 주말인 27일 서울 동대문구 청량리종합시장의 한 점포에 민생회복 소비쿠폰 사용가능 점포 안내문이 붙어 있다. 2025.7.27/뉴스1 ⓒ News1 박지혜 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>어린이공원서 태어난 쌍둥이 아기 수달, 이름 지어주세요</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/CVDO54VVMNGYVLIOZTSYNAZS2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/CVDO54VVMNGYVLIOZTSYNAZS2U/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 11:45:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF2QDWFIDVEAXH2BCBFQKR7WTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 24~25일 서울 광진구 어린이대공원에서 태어난 유라시아수달 남매. 왼쪽이 하루 먼저 태어난 누나다. /서울어린이대공원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 6월부터 서울 광진구 어린이대공원에 정착한 유라시아 수달 수돌(3)·달순(3) 부부가 지난 6월 쌍둥이 남매를 출산했다. 유라시아 수달은 천연기념물이자 멸종 위기 1급 야생동물인데, 서울에서 번식에 성공한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;8일 서울 어린이대공원에 따르면, 달순은 지난 6월 24일 오전 사육장에서 딸을 출산했다. 또 하루 동안 산고를 겪은 끝에 이튿날 새벽 아들을 낳았다. 어린이대공원 관계자는 “임신한 지 2개월 만의 ‘경사’였다”고 했다.&lt;br&gt;&lt;br&gt;수돌과 달순은 생후 1개월쯤인 2022년 10월 대전과 충남 부여에서 각각 발견됐다. 한국 수달보호협회에서 보호하다가 작년 6월 24일 수달 사육장이 있는 어린이대공원으로 옮겼다. 어린이대공원은 시민 공모를 통해 수돌, 달순이라는 지금의 이름을 지어줬다. 둘은 같은 수조에서 헤엄치며 놀면서 자연스레 부부가 됐다고 한다. &lt;br&gt;&lt;br&gt;지난 4월쯤, 사육사들은 달순의 아랫배가 볼록해진 것을 확인했다. 식사량도 늘었다. 평소엔 미꾸라지를 500~600g 정도 먹었는데, 갑자기 1㎏ 이상씩 먹었다고 한다. 그리고 상경한 지 딱 1년 만에 남매를 출산한 것이다.&lt;br&gt;&lt;br&gt;어린이대공원은 요즘 남매에게 젖을 물리고 있는 달순을 위해 특식을 먹이고 있다. 노량진수산시장에서 매일 신선한 전복, 고등어, 양미리 등을 사다가 주는데, 달순은 메기를 가장 좋아한다고 한다. 어린이대공원 관계자는 “수달은 스트레스가 심하면 새끼를 잡아먹을 수 있어 최대한 맛있는 걸 많이 주고 안정적인 환경에서 지낼 수 있게 하고 있다”고 했다. 아빠인 수돌은 격리돼 홀로 지내고 있다.&lt;br&gt;&lt;br&gt;쌍둥이 남매에겐 아직 이름이 없다. 사육사들은 “아가들”이라고만 부른다. 어린이대공원은 12일부터 열흘간 소셜미디어를 통해 수달 쌍둥이 이름을 제안받고, 투표를 거쳐 확정할 계획이다. 쌍둥이는 10월쯤 어린이대공원에서 시민에게 공개된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7KPLQ2H5NBGKFI3UDEFNINKLVA.jpg?auth=4a5ab0db4eea8e8dec4c79dd4f88cdb82980941f97dfa341fadb943bd118683d&amp;smart=true&amp;width=580&amp;height=326" type="image/jpeg" height="326" width="580">
+        <media:description type="plain">지난 6월 24~25일 서울 광진구 어린이대공원에서 태어난 유라시아수달 남매. 왼쪽이 하루 먼저 태어난 누나다. /서울어린이대공원</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘김건희 최측근’ 이종호 구속적부심 기각…구속 상태 유지</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/09/TG2SJE72SNC3RALHO2DDOJWUPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/TG2SJE72SNC3RALHO2DDOJWUPU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 11:47:31 +0000</pubDate>
+      <content:encoded>김건희 여사의 최측근으로 알려진 이종호 전 블랙펄인베스트 대표가 구속의 필요성을 다시 판단해달라고 요청했지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBMASTX4OCWUY6WHWZEAH4S3U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'도이치모터스 주가조작 사건' 당시 김건희 여사의 계좌를 관리한 것으로 알려진 이종호 전 블랙펄인베스트 대표가 지난 5일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사2-1부(재판장 곽정한)는 8일 이 전 대표에 대한 구속적부심사를 진행한 뒤, 이 전 대표의 청구를 기각했다고 밝혔다. 이에 따라 이 전 대표는 구속 상태로 김 여사 관련 의혹을 수사 중인 민중기 특검팀의 추가 수사를 받을 전망이다.&lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 주가조작 사건의 ‘1차 주포’로 지목된 이정필씨에게 징역형 집행유예를 받게 해주겠다는 명목으로 8390만원을 받아 챙긴 혐의를 받는다. 특검은 이 전 대표가 이정필씨에게 “김건희나 VIP(윤석열 전 대통령)에게 얘기해 집행유예가 나오도록 해주겠다”며 돈을 받아 챙긴 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;특검팀은 이 전 대표에 대한 구속 영장을 청구했고, 서울중앙지법은 지난 5일 “증거를 인멸할 염려가 있다”며 영장을 발부했다. 이 전 대표 측은 특검팀이 이정필씨의 허위 진술만을 갖고 죄를 뒤집어씌웠다며 모든 혐의를 부인하고 있다.&lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 주가조작에 동원된 김 여사 계좌를 관리했던 인물로 알려져 있다. 삼부토건 주가조작, 임성근·조병노 구명로비에 연루된 의혹도 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, ‘北 무인기 작전’ 합참 정보본부 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/09/OSSIDFEECVAYJHQABZVD246XNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/OSSIDFEECVAYJHQABZVD246XNY/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 11:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2CK47YCVBG77AOXZJNTMDOXQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 서울 여의도 국회에서 열린 정보위원회 국정감사에 출석한 원천희 국방정보본부장(가운데)와 문상호 정보사령관(왼쪽), 박종선 777사령관(오른쪽)이 이야기 하고 있다. /국회사진기자단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 특별검사팀이 ‘북한 무인기 침투 작전’과 관련해 지난 7일 합동참모본부 정보본부를 압수 수색한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 합참 정보본부를 압수 수색하면서, 무인기 관련 기록을 임의 제출 형식으로 제공받은 것으로 전해졌다. 앞서 군검찰로부터 원천희 합참 정보본부장(중장) 사건도 이첩 받아 조사하고 있는 것으로 알려졌다. 원 본부장은 12·3 비상계엄 선포 전날인 작년 12월 2일 당시 김용현 국방부 장관, 문상호 정보사령관과 만나 계엄을 사전 모의했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;한편 내란 특검은 지난달 25일 합참 정보본부 예하 정보사령부도 방문 조사한 것으로 전해졌다. 작년 11월 정보사 장교들의 주몽골 북한대사관 접촉 시도와 문 전 사령관의 대만 출장 등이 계엄 명분을 쌓기 위해 북한의 도발을 유도하려는 목적이었는지 여부를 확인하기 위해서라고 한다. 계엄 선포에 대한 지지 선언을 부탁했는지도 살펴보고 있다고 한다. 이 같은 의혹이 사실로 드러난다면, 외환죄의 구성 요건인 ‘외국과의 통모’에 해당할 수 있다고 보는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경기도 책임이다”…CJ ENM, K-컬처밸리 5000억대 소송전</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/KVLBALXNZFDFPH3YX76FILFRPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/KVLBALXNZFDFPH3YX76FILFRPQ/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 10:47:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CM5Q4GAHWNAZXNP6LKHAVDTK2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CJ가 경기 고양시에 조성하려던 'CJ라이브시티' K팝 공연장(아레나)의 조감도(위 사진)와 최근 찍은 공사 현장의 모습(아래 사진). 올 6월 완공을 목표로 2021년 10월 착공했으나 작년 4월 이후 공사가 중단된 상태다. 건물 뼈대만 서 있어 흉물처럼 보인다. /CJ라이브시티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;K-컬처밸리 사업 협약 해제를 두고 경기도와 CJ ENM이 5000억원대 소송전에 돌입했다. 경기도가 사업 지연 책임을 물어 3000억원대 지체상금을 부과하자, CJ 측은 “경기도 잘못”이라며 정면 반박하고 나섰다.&lt;br&gt;&lt;br&gt;CJ ENM과 자회사 CJ라이브시티는 8일 서울중앙지법에 채무 부존재 확인 소송과 함께 1800억원 규모의 손해배상 청구 소송을 제기했다. 소송 가액은 총 5160억원에 달한다.&lt;br&gt;&lt;br&gt;CJ 측은 “K-컬처밸리 사업 지연은 경기도의 귀책 사유 때문”이라며 “도시계획 인허가 지연, 한류천 수질 개선 미이행, 대용량 전력공급 차질 등이 원인”이라고 주장했다. 이들은 “경기도는 명확한 근거도 없이 지체상금을 부과했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 경기도는 지난해 7월 CJ라이브시티에 지체상금 2847억원, 준공지연 위약금 287억원, 무단점유 변상금 10억원 등 총 3144억원을 부과했다. 기본협약상 개발기한(2020년 8월) 위반 등을 사유로 들었다.&lt;br&gt;&lt;br&gt;그러나 CJ는 해당 사업 지연에 대해 “자신들의 귀책은 없다”며 이의신청과 함께 손해배상 소송으로 대응하겠다고 예고한 바 있다.&lt;br&gt;&lt;br&gt;K-컬처밸리는 고양시 일산동구 장항동 일대 32만6400㎡ 부지에 K-팝 아레나, 테마파크, 상업·관광시설 등을 조성하는 대규모 프로젝트다. 총사업비 1조8000억원이 투입될 예정이었으나, 공정률은 3%에 그쳤다. 경기도는 결국 지난해 6월 2016년 체결한 기본협약을 해제했다.&lt;br&gt;&lt;br&gt;이후 경기도는 아레나 부지를 포함한 15만8000㎡ 규모의 T2부지에 대해 민간사업자 공모를 진행했고, 미국 공연기획사 라이브네이션의 한국 자회사 등을 포함한 4개 업체가 응모했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>하반기 전공의 약 1만5000명 모집 시작</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/09/GEQ5Y6JUAFDQVCV4I5RP65UJ5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/09/GEQ5Y6JUAFDQVCV4I5RP65UJ5A/</guid>
@@ -803,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4VBQ5UMTG362QANEKQCVKNRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 지난달 18일 오후 경기 가평군 통일교 천원궁 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 ‘건진 법사 청탁 의혹’과 관련해 한학자 통일교 총재의 비서실장 정모씨를 소환한다. &lt;br&gt;&lt;br&gt;7일 법조계에 따르면 특검은 8일 오전 10시 정모씨에게 특검 사무실에 출석해 조사 받을 것을 통보했다. 정씨는 한 총재의 비서실장이자 통일교 최상위 행정조직인 천무원 부원장이다. 특검은 통일교 측이 2022년 4~7월 캄보디아 공적개발원조(ODA) 사업 등 통일교 현안 청탁을 위해 ‘건진 법사’ 전성배씨를 통해 김 여사에게 다이아몬드 목걸이, 샤넬백 등을 건넸다고 보고 있다. &lt;br&gt;&lt;br&gt;앞서 특검은 지난달 22일 전 세계본부장 윤영호(구속)씨를 소환해 조사했다. 윤씨는 통일교 현안 청탁을 위해 김건희 여사에게 전달해달라며 ‘건진 법사’ 전성배씨에게 각종 선물을 전달한 혐의(부정청탁금지법 위반)를 받는다. 특검은 윤씨가 전씨에게 2022년 4월 7일과 7월 5일 각각 802만원, 1271만원 상당의 샤넬백을 건넸으며, 7월 29일에는 6220만원 상당의 그라프 목걸이를 건넸다고 보고 있다. &lt;br&gt;&lt;br&gt;윤씨는 조사에서 “윗선의 지시를 받아 한 일”이라고 진술한 것으로 알려졌다. 통일교 측은 “윤씨의 개인적 일탈”이라는 입장이다.&lt;br&gt;&lt;br&gt;특검은 정씨를 소환해 청탁이 교단 차원에서 이뤄진 것인지 확인할 전망이다. 특검은 정씨 외에도 한 총재, 천무원 중앙행정실장 이모씨 등이 윤씨와 공모해 청탁했다고 보고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“고소 안할게” 사측 협박해 돈 뜯어낸 택시 노조 조합장</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/08/08/7IZPN7GWEZGE7EO4AUEE2ZIIMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/08/08/7IZPN7GWEZGE7EO4AUEE2ZIIMQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 10:30:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKZQBOQ6CEHWG5EQEY4ESIZ52I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 전액관리제를 시행하지 않는 택시 업체를 협박해 돈을 뜯어낸 노조 조합장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 공갈 혐의로 부산의 한 택시업체 노조 조합장 A(50대)씨를 검찰에 불구속 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해부터 올해까지 전액관리제를 시행하지 않는 사측을 고소·고발하지 않겠다는 노사 합의서를 작성한 후 수십 차례에 걸쳐 1800여만원을 받아챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;부산에서는 지난해부터 ‘택시 기사 월급제’로 불리는 전액관리제가 시행됐지만 지역 대부분의 택시 업체는 경영상의 이유로 사납금제를 유지해왔다.&lt;br&gt;&lt;br&gt;A씨는 전액관리제를 시행하지 않는 택시업체에 관계기관에 진정을 제기하고 고소·고발하겠다고 압박한 것으로 알려졌다. 사측은 이를 막기 위해 노사합의서를 작성하고 A씨에게 돈을 건넨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 A씨의 혐의 내용이 담긴 고발장을 접수한 후 수사를 벌여 A씨를 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검, ‘이종섭 도피성 출국 의혹’ 대통령기록관 등 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/BPJ47SCIFZARBHYLWVWTDIBXIU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/BPJ47SCIFZARBHYLWVWTDIBXIU/</guid>
@@ -842,15 +916,6 @@
       </media:content>
     </item>
     <item>
-      <title>경찰, 전광훈 목사 사택서 수천만원 현금다발 압수</title>
-      <link>https://www.chosun.com/national/incident/2025/08/08/2OURKIPAXBAX5A4AYJPPPMDPYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/08/2OURKIPAXBAX5A4AYJPPPMDPYM/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 09:22:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJ4JDSZRACFNKGLMVMYZYIJ6F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 서울서부지법 폭동 사태 배후로 의심 받는 전광훈 목사와 사랑제일교회에 대한 압수수색 중인 지난 5일 오전 서울 성북구 사랑제일교회 앞에서 전광훈 목사가 발언하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 난동 사태 배후 수사 관련으로 사랑제일교회와 전광훈 목사를 압수수색한 경찰이 전 목사 사택에서 수천만원의 현금다발을 찾아 압수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 서울경찰청 안보수사과는 지난 5일 서울 성북구 사랑제일교회 안에 있는 전 목사 사택을 압수수색하는 과정에서 약 3500만원의 현금을 발견했다. 경찰은 이번 압수수색 관련 혐의인 ‘특수건조물 침입 교사’ 외에도 업무상 횡령 등의 혐의를 들여다보고 있다. 사랑제일교회가 지난 2월부터 서부지법 난동 사태에 가담해 재판받은 60여명의 영치금 계좌에 매달 30만원씩 송금한 것을 두고 전 목사가 교회 재정을 이용해 피고인들에게 금전적 지원을 한 게 아닌지 의심하는 것이다. 다만 전 목사는 해당 현금이 본인의 목회 활동비로 모아둔 것이라고 경찰에 진술한 것으로 알려졌다. 사랑제일교회 측 역시 영치금 후원 목적의 별도 헌금을 걷어 지원했기 때문에 법적인 문제가 없다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 전 목사는 서부지법 난동 사태 직전인 1월 18일 서울 지하철 광화문역 인근 집회에서 “서부지법으로 모여 윤석열 대통령 구속영장을 저지하기 위해 국민 저항권을 발동해야 한다”고 했다. 다음 날 새벽 윤 대통령 구속 영장이 발부되자 서부지법 주변에서 시위를 벌이던 지지자 중 63명이 법원 청사에 침입해 기물을 부수는 등 난동을 벌였다. 법원에 난입한 사람 중에는 사랑제일교회 특임 전도사 출신 윤모(56)씨와 이모(48)씨도 있었다. 1심 법원은 최근 이들에게 특수건조물 침입, 특수공무집행방해 등의 혐의로 각각 징역 3년 6개월과 3년 형을 선고했다. 경찰이 제시한 압색 영장엔 전 목사가 신앙심, 금전적 지원을 이용한 심리적 지배를 통해 윤·이씨의 폭력을 유도했다는 취지의 혐의 내용이 적혀 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 경찰은 사건 종결했는데… ‘안동댐 밀랍시신’ 두고 퍼지는 음모론 </title>
       <link>https://www.chosun.com/national/2025/08/08/QXI72XHGSNA2VKI6MU6VM4MENE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/08/QXI72XHGSNA2VKI6MU6VM4MENE/</guid>
@@ -869,15 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APITHUQXOBGX3H2Y2Y7YEF2CRQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검의 수사를 받는 윤석열 전 대통령이 두 번째 구속 전 피의자심문(영장실질심사)를 받기 위해 9일 오후 서울 서초구 중앙지방법원으로 출석하고 있다. 2025.7.9/뉴스1 ⓒ News1 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검이 7일 서울구치소에 수감 중인 윤석열 전 대통령에 대한 체포영장 집행을 시도한 뒤 윤 전 대통령이 어깨 통증 등을 호소하며 의무실을 찾은 가운데, 법무부는 “건강상 특이사항이 없는 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 이날 보도 설명자료를 통해 “특검 측이 (체포영장) 집행을 종료한 후 윤 전 대통령은 변호인 접견을 했고, 접견 도중 강제 인치로 인한 어깨 통증 등 부상을 주장해 의료과 진료를 실시했다”며 이 같이 전했다.&lt;br&gt;&lt;br&gt;법무부는 이날 윤 전 대통령에 대한 체포영장 집행 경위를 설명했다.&lt;br&gt;&lt;br&gt;법무부는 “서울구치소는 특검 측의 체포영장 집행에 적극 협조해 윤 전 대통령에게 특검 출석을 위한 적극적인 설득을 했으나, 윤 전 대통령의 거부로 인해 집행을 일시 중단하고 특검 측에 상황을 통보했다”며 “윤 전 대통령 측의 계속된 거부 의사로 특검 측이 물리력을 동반한 강제 인치를 지휘했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “구치소에서는 특검 측의 지휘에 따라 물리력을 동반한 강제 인치를 시도했으나 윤 전 대통령이 완강하게 거부했고, 특검 측은 강제 인치를 계속할 경우 부상 등이 발생할 우려가 있다고 판단해 집행 중단을 지휘했고 이에 따라 집행이 종료됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 체포영장 집행에는 서울구치소 CRPT(교정시설 기동순찰팀) 요원을 포함한 교도관 10여 명이 투입됐다고 한다. 윤 전 대통령 변호인단에 따르면 특검은 윤 전 대통령을 서울구치소 출정과장 방에 불러 체포영장 집행을 시도했다. 교도관 10여 명이 달라붙어 의자에 앉아있는 윤 전 대통령의 양쪽 팔을 끼고 다리를 붙잡아 그대로 들어서 차에 탑승시키려 했다고 한다.&lt;br&gt;&lt;br&gt;변호인단은 “완강하게 거부하니까 다시 한번 의자 자체를 들고 그 의자에 앉은 대통령을 같이 들어서 옮기려 했다”며 “그 과정에서 의자가 뒤로 확 빠졌고, 윤 전 대통령이 땅바닥에 떨어지는 사태도 발생했다”고 했다. 그러면서 몸 곳곳을 부딪혀 통증을 호소했다고 전했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 당뇨 합병증에 따른 자율신경계 손상, 당뇨망막증, 경동맥 협착 등을 앓고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘순찰차 뒷좌석 사망’ 때 하동 경찰관들 다시 수사한다</title>
-      <link>https://www.chosun.com/national/2025/08/08/Q5WBMKPE3RHOLB56WZC444F5YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/08/Q5WBMKPE3RHOLB56WZC444F5YQ/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 08:41:27 +0000</pubDate>
-      <content:encoded>지난해 8월 경남 하동에서 40대 여성이 순찰차 뒷좌석에 갇혀 숨진 사건과 관련해 검찰이 경찰에 보완·재수사를 요청했다. 지난 5월 경찰이 이 사건 수사 결과를 내면서 차량 인수인계를 제대로 하지 않거나 예정한 순찰 근무를 하지 않은 이들에 대해서는 불송치 결정을 해 ‘제 식구 감싸기’라는 비판을 받은 바 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OWRX6XASFAPPCMXHCIWS7I6SI.png"&gt;&lt;figcaption&gt;&lt;small&gt;경남 하동군 진교면 하동경찰서 진교파출소의 모습. /네이버 지도 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 경남경찰청에 따르면 검찰은 지난 5일 업무상과실치사 혐의로 송치된 A경위와 직무 유기 혐의로 송치된 B경감에 대한 보완 수사를, 업무상과실치사 혐의로 입건됐다가 불송치된 경찰관 3명에 대해서는 재수사를 요청했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “송치된 이들에 대해서는 혐의를 구체화하라는 검찰의 지휘가 있었다”며 “불송치된 나머지 3명에 대해서도 검찰 재수사 요청에 따라 혐의가 있는지 처음부터 다시 살펴볼 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해 8월 17일 오후 2시쯤 하동경찰서 진교파출소에 주차돼 있던 순찰차 뒷좌석에서 40대 여성이 숨진 채 발견됐다. 이 여성은 전날 새벽 2시쯤 파출소를 찾아 현관 앞을 서성이다 현관문을 흔들었지만, 파출소 안에서는 한 명도 나오지 않았다.&lt;br&gt;&lt;br&gt;경찰은 사건 발생 9개월 만인 지난 5월 수사 결과를 냈다. 경찰 조사 결과 당시 상황 근무자 2명은 물론 대기 근무자 2명 등 직원 4명 모두 현관문이 보이는 1층 근무 자리가 아닌 2층 숙직실과 1층 회의실에 있었던 것으로 드러났다. 사실상 이날 근무자 전원이 제대로 근무하지 않은 셈이다. &lt;br&gt;&lt;br&gt;이 여성은 파출소 안에서 아무런 반응이 없자, 순찰차 쪽으로 이동해 문이 열려 있는 순찰차 뒷좌석에 올랐고 그대로 갇혔다. 순찰차 뒷좌석 문은 안에서 열 수 없고, 차량 내 격벽이 있어 앞좌석 쪽으로 갈 수도 없다. 여성은 36시간 동안 순찰차에 갇혔다가 끝내 숨졌다. 부검 결과 여성의 사망 원인은 ‘열사병을 동반한 급성 심부전증’으로 나왔다. 당시 하동에는 폭염주의보가 발령된 상태였다.&lt;br&gt;&lt;br&gt;경남경찰청은 여성이 갇히기 전 마지막으로 순찰차를 운행한 A경위가 제대로 문을 잠그지 않았다고 판단했다. 운행하지 않는 순찰차는 보안·도난 방지 등을 위해 문을 잠가야 하는데, A경위가 이 같은 의무를 게을리해 여성이 순찰차 안에 들어가게 됐고 갇힌 것으로 판단한 것이다. 또 여성이 파출소를 찾았을 당시 야간 근무조 팀장이었던 B경감은 현관문을 볼 수 있는 1층 지정석에서 일하지 않는 등 근무를 태만히 했다고 봤다. 경찰은 A경위를 업무상과실치사로, B경감은 직무 유기 혐의로 각각 검찰에 송치했다. &lt;br&gt;&lt;br&gt;하지만 경찰은 순찰차 인수·인계를 제대로 하지 않은 경찰관 1명과 순찰 근무를 제대로 하지 않은 경찰관 2명은 불송치 결정했다. 관련자 15명 중 파출소 직원 5명만 수사했다. 이에 제 식구 감싸기라는 논란이 일었다.&lt;br&gt;&lt;br&gt;사건 발생 직후 경남경찰청이 진행한 진상조사 결과를 보면 숨진 여성이 순찰차에 갇혔던 36시간 동안 예정된 총 7회, 8시간 동안 순찰차를 몰고 지역 순찰을 하게 돼 있었지만 한 번도 이뤄지지 않은 것으로 드러났다. 또 36시간 동안 세 차례 근무 교대 때 순찰차 장비 작동 여부 등을 제대로 확인하지도 않았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;여성의 사망 추정 시간은 순찰차에 들어간 지 약 12시간 지난 16일 오후 2시 전후다. 만약 당시 지정된 순찰 근무(16일 오전 6~7시, 오전 11~낮 12시, 오후 2~3시)와 근무 교대(16일 오전 8시 30분)만 제대로 했다면, 여성이 숨지기 전 최소 4차례 정도 발견할 기회가 있었지만 모두 놓쳤다.&lt;br&gt;&lt;br&gt;이에 대해 경남경찰청 반부패·경제범죄수사대 관계자는 “사안의 중요성을 감안해 엄정 수사했다”며 “수사팀 내부 의견뿐만 아니라 변호사와 대학교수 등 외부 법률 전문가로 구성된 수사심의위원회 의견도 수렴했다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 12일 영장 심사… 통일교 前간부 구속시킨 정재욱 판사가 맡는다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/4WDLDNYFOZFJZBDV7VUMHNYEZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/4WDLDNYFOZFJZBDV7VUMHNYEZU/</guid>
@@ -891,15 +947,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘김건희 계좌 관리’ 이종호 8일 구속적부심사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/08/BPEOG57ZZJC6BNABN576KGGCWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/BPEOG57ZZJC6BNABN576KGGCWQ/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 07:34:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6U7YOSFQHGB6PAXUHPN2CD5TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 5일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 증권 계좌를 관리한 것으로 알려진 이종호 전 블랙펄인베스트 대표에 대한 구속적부심사가 오는 8일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 서울중앙지법 형사항소2-1부(재판장 곽정한)는 8일 오후 2시 20분 변호사법 위반 혐의로 구속된 이 전 대표에 대한 구속적부심 심문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;구속적부심은 법원이 피의자의 구속이 적법하고 계속될 필요가 있는지를 다시 판단하는 절차로, 통상 청구 접수 후 48시간 이내에 피의자 심문과 증거 조사를 마쳐야 한다. 이 기간 동안 수사기관의 피의자 조사는 중단된다.&lt;br&gt;&lt;br&gt;이 전 대표 측은 지난 6일 서울중앙지법에 구속적부심 청구서를 제출하며 “증거 인멸이나 도망 우려가 없고, 혐의를 입증할 증거도 부족하다”며 “김건희 특검법의 수사 대상을 벗어난 별건 수사”라고 주장했다.&lt;br&gt;&lt;br&gt;앞서 김건희 특검은 ‘도이치모터스 주가조작’ 공범인 이 전 대표가 다른 공범 이정필씨에게 2022년 6월부터 2023년 2월까지 재판 결과를 대가로 25차례에 걸쳐 총 7590만원을 받은 혐의(변호사법 위반)로 구속영장을 청구했다. 특검은 이 전 대표가 이씨에게 “김건희나 VIP(윤석열 전 대통령)에게 얘기해 집행유예를 받게 해주겠다”며 돈을 받아 가로챈 것으로 보고 있다. 당시는 도이치모터스 주가조작 1심 재판이 진행 중이던 때였다.&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 지난 5일 이 전 대표에 대해 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희, 통일교 간부에 “인삼차 잘 받았다”…특검, 통화 녹취록 제시</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/GY2NI7ACWVGEXP6REPU6BIWSCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/GY2NI7ACWVGEXP6REPU6BIWSCM/</guid>
@@ -907,46 +954,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 07:17:03 +0000</pubDate>
       <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특검팀이 지난 6일 김 여사를 소환해 조사하면서 김 여사가 통일교 고위 간부와 통화하며 “인삼차를 잘 받았다”고 감사 인사를 건네는 취지의 발언이 담긴 녹음 파일을 제시한 것으로 전해졌다. 김 여사 측은 “‘건진 법사’ 전성배씨의 요청을 받고 인사치레를 하는 차원에서 통화한 것일 뿐, 실제로 인삼차를 받은 사실이 없다”고 소명했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHQTRSWWXNIHPBEGG57OQNDDLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 6일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검팀(특별검사 민중기) 사무실에서 조사를 마친 후 귀가하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면, 특검은 2022년 7월 통일교 전 세계선교본부장 윤영호씨와 김 여사가 통화한 녹음 파일을 확보해 전날 조사에서 김 여사 측에 제시했다. 이 통화에서 김 여사는 윤씨에게 “인삼가루를 먹고 건강이 좋아졌다”고 말하며 감사를 표했다고 한다. 특검은 윤씨 등을 조사하면서 인삼가루라고 말한 천수삼 농축차와 1000만원 안팎의 샤넬 백이 같이 전달된 정황을 확보한 만큼, 김 여사가 실제 선물을 받은 것으로 의심하고 전후 정황을 캐물었다고 한다.&lt;br&gt;&lt;br&gt;녹음 파일을 들은 김 여사는 직접 “전씨로부터 ‘윤씨와 통화를 한번 해달라. 차 잘 받았다고 말씀해주시라’는 취지의 요청을 받아 통화하게 된 것”이라며 “실제로 샤넬 백이나 인삼가루, 그라프 다이아몬드 목걸이 등을 수수한 사실이 없다”고 진술한 것으로 전해졌다. 전씨가 중간다리 역할을 하면서 선물을 받았는지는 모르겠지만, 자신은 청탁을 받은 사실이 없고, 거론되는 청탁용 금품을 본 적도 없다는 것이다. 또 김 여사 측은 윤씨의 전화번호를 모른다는 점도 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 전씨 측 차량이 수차례 김 여사 사저가 있는 서울 서초구 아크로비스타를 드나든 입출차 기록도 전날 조사에서 제시했다고 한다. 전씨 혹은 처남 김모씨의 것으로 추정되는 차량이 인삼가루 전달 시기로 지목된 2022년 7월 두 차례 아크로비스타를 다녀간 만큼, 이 시기에 금품이 실제로 전달됐을 가능성을 특검은 주목하고 있다. 그러나 김 여사 측은 차량 소유자가 명확하지 않은 상황인 점 등을 들어 반박한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 특검은 전씨가 윤씨로부터 그라프 목걸이를 받은 뒤 윤씨에게 ‘부탁받은 물건 (김) 여사에게 잘 전달했다’ ‘여사가 목걸이를 받고 큰 거라서 놀라워했다’는 취지의 문자메시지를 보낸 정황을 확보한 것으로 알려졌다. 그러나 김 여사는 목걸이를 받은 적이 없다며 강하게 부인하고 있다. 전씨도 목걸이를 잃어버렸다는 입장이다. 앞서 서울남부지검은 이 의혹을 수사하면서 윤씨로부터 “전씨에게 목걸이를 돌려달라고 했다”는 취지의 진술을 확보한 것으로 알려진 바 있다.&lt;br&gt;&lt;br&gt;특검은 이날 오후 1시 21분 김 여사에 대한 구속영장을 청구했다. 오정희 특검보는 이날 브리핑에서 “구속영장 요건은 법에 규정돼 있고 요건에 다 해당된다고 판단돼 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>멸치잡이 선단서 조업 중 인도네시아 선원 해상 추락 </title>
-      <link>https://www.chosun.com/national/2025/08/08/BBHQ4LLM4VC7RAAY23MGMCIBDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/08/BBHQ4LLM4VC7RAAY23MGMCIBDY/</guid>
-      <dc:creator>통영=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 07:59:16 +0000</pubDate>
-      <content:encoded>경남 거제 외도 인근 해상에서 외국인 선원이 바다에 빠져 실종돼 해경이 수색에 나섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4D7XBEBRKI33SFWWCVFNGCJUO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 8시 31분쯤 경남 거제시 외도 남서 방향 2km 해상에서 거제 선적 23t급 기선권현망 어선 A호(승선원 5명)에 타고 있던 인도네시아 국적 30대 B씨가 바다로 추락해 해경이 수색하고 있다. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 통영해양경찰서에 따르면 이날 오전 8시 31분쯤 거제시 외도 남서 방향 2km 해상에서 거제 선적 23t급 기선권현망 어선 A호(승선원 5명)에 타고 있던 인도네시아 국적 30대 B씨가 바다로 추락했다. &lt;br&gt;&lt;br&gt;당시 B씨는 투망 작업을 하던 중 튕겨 나온 밧줄에 맞아 해상에 추락했다. 함께 작업하던 같은 국적의 40대 선원은 줄에 맞아 가슴 통증을 호소해 인근 병원으로 이송됐다. 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;신고를 받고 현장에 출동한 통영해경은 B씨를 찾기 위해 오후 5시 현재 경비 함정 6척과 해양재난구조대 8척, 헬기 1대를 투입해 사고 지점을 중심으로 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “실종자 수색과 함께 어선 관계자 등을 상대로 정확한 사고 원인을 조사할 예정이다”라고 말했다.&lt;br&gt;&lt;br&gt;한편, 기선권현망은 주로 4척이 하나의 선단을 이뤄 이동하며 멸치를 잡는 어업 방식이다. 멸치 어군을 탐지하는 선박 1척, 그물을 내려 어획을 담당하는 배 2척, 그리고 가공·운반선 1척이다. 이번에 사고가 난 A호는 본선이라 불리는 어획 선박이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천발 KTX 내년 개통, 감염병 전문병원 설립 등 건의… 유정복 시장, 구윤철 부총리와 간담</title>
-      <link>https://www.chosun.com/national/regional/2025/08/08/5AUHAX3ODNAORB2A347WJ7H6X4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/08/5AUHAX3ODNAORB2A347WJ7H6X4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 07:55:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5TACLMU6JHLDBTHKVIPZ2FTWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장(사진 오른쪽)이 7일 정부서울청사에서 구윤철 경제부총리 겸 기획재정부 장관에게 건의사항을 전달하고 있다./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유정복 인천시장이 7일 구윤철 경제부총리 겸 기획재정부 장관, 윤호중 행정안전부 장관, 조현 외교부 장관 등과 잇따라 만나 지역 현안 해결을 위한 정부 차원의 지원을 요청했다. &lt;br&gt;&lt;br&gt;유정복 시장은 이날 오후 4시 서울 종로구 정부서울청사에서 구윤철 경제부총리 겸 기획재정부 장관과 간담회를 가졌다. &lt;br&gt;&lt;br&gt;유 시장은 간담회에서 ‘인천발 KTX’의 내년 개통을 위한 1142억원의 국비 지원과 ‘서울~인천 간 광역급행버스(M버스)’의 준공영제 전환 및 국비 지원을 구 부총리에게 건의했다. &lt;br&gt;&lt;br&gt;인천발 KTX 사업은 경기 화성시 어천에서 수인선과 KTX 경부선 사이 3.19㎞ 구간을 연결하고 역사 3개를 신설하는 걸 핵심 내용으로 한다. 국토교통부와 국가철도공단이 추진하는 이 사업의 총사업비는 5553억원 규모다. &lt;br&gt;&lt;br&gt;현재 인천에서 KTX를 이용하려면 약 1시간 30분 정도 걸리는 서울역이나 광명역까지 가야 한다. 인천발 KTX가 개통되면 인천에 있는 수인선 송도역에서 KTX를 탈 수 있게 돼 부산까지는 2시간 20분, 목포까지는 2시간 10분이 걸릴 것으로 예상된다. 시민들의 교통 편의가 크게 개선될 것으로 기대되고 있다. &lt;br&gt;&lt;br&gt;인천발 KTX는 애초 2019년 개통을 목표로 했으나, 공사 구간에서 문화재와 멸종 위기종 등이 발견되고 보상 절차가 지연되는 등 개통 시점이 2026년 12월까지로 미뤄진 상태다. 7월 현재 36%의 공정률을 보이고 있다. &lt;br&gt;&lt;br&gt;국토부는 인천발 KTX의 내년 개통을 위해 1142억원의 사업비를 반영해달라고 기획재정부에 요청한 상태다. 시민 생활에 미치는 영향이 큰 사업인 만큼, 시 차원에서 재차 기재부의 협조를 요구한 것이라고 인천시 설명했다. &lt;br&gt;&lt;br&gt;광역급행버스(M버스)의 준공영제 전환 및 국비 지원의 경우, 인천과 서울을 오가는 M버스 운영비를 정부가 일부 지원해달라는 내용이다. &lt;br&gt;&lt;br&gt;인천시는 지난해 10월부터 운영난을 겪는 M버스 운영업체 6곳과 직행좌석버스 운영업체 7곳의 운영난 개선 등을 위해 기사 인건비와 유류비 등을 지원하고 있다. 올해 지원 예산은 총 346억원 규모다. &lt;br&gt;&lt;br&gt;직행좌석버스의 경우 인천시가 노선 면허를 내주지만, M버스는 국토교통부 대도시권광역교통위원회가 노선 면허권을 갖고 있다. 국토부 대광위에 M버스 면허권이 있는 만큼, M버스 운영 업체에 대한 운영비 지원 예산 112억원을 정부가 지원해달라는 게 인천시 주장이다. &lt;br&gt;&lt;br&gt;유 시장은 ‘인천 지역 감염병 전문 병원’ 설립도 구 부총리에게 건의했다. 많은 국민과 외국인이 인천국제공항과 인천항을 통해 우리나라를 드나드는 만큼, 해외에서 유입되는 감염병에 선제적으로 대응할 수 있도록 시스템을 미리 구축해놔야 한다는 것이다. &lt;br&gt;&lt;br&gt;유정복 시장은 “이들 사업은 인천시의 발전뿐만 아니라, 국가 균형 발전과 수도권 상생 측면에서도 반드시 필요한 사업”이라며 “정부의 적극적인 협조와 예산 지원을 바란다”고 강조했다. &lt;br&gt;&lt;br&gt;유 시장은 이날 윤호중 행안부 장관, 조현 외교부 장관과도 접견했다. 윤호중 장관에겐 내년 인천 행정 체제 개편에 따른 정부 재정 지원과 특별지방행정기관 지방 이양 등을, 조현 장관에겐 인천상륙작전 국제 행사 개최 협조와 지방정부 국제 교류 지원 등을 각각 건의했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州서 17개월간 보이스피싱 등 사기 1501건... 피해액 856억</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/SBVSCVS2RJAHDFF33IX4NO5AUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/SBVSCVS2RJAHDFF33IX4NO5AUA/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 07:50:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NNXKODV2OF6XQTZIQ72OXSADWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시에서 지난 1년 5개월 동안 보이스피싱, 투자리딩방, 연애빙자사기 등 856억원 규모의 다중피해사기가 발생한 것으로 나타났다.&lt;br&gt;&lt;br&gt;광주경찰청은 7일 “작년 3월부터 올해 7월까지 17개월 동안 1501건 다중피해사기 범죄가 발생해 856억원 피해가 발생했다”고 밝혔다.&lt;br&gt;&lt;br&gt;범죄 유형별 발생 건수와 피해액은 보이스피싱 744건·396억원, 투자 리딩방 396건·365억원, 연애 빙자 사기(로맨스 스캠) 75건·52억원, 스미싱(문자메시지를 통한 피싱) 96건·13억원, 노쇼(no show) 190건·30억원 등으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 1501건 범죄에 대해 1061명 용의자를 검거해 67명을 구속했다. &lt;br&gt;&lt;br&gt;경찰은 “보이스피싱 범죄의 경우 올해 7월까지 피해액이 191억원으로 전년 같은 기간 대비 99% 증가했다”고 설명했다.&lt;br&gt;&lt;br&gt;광주경찰은 형사기동대와 반부패수사대, 사이버수사대, 경찰서 가용 인력을 총동원해 다중피해사기 범죄에 대응할 방침이다.&lt;br&gt;&lt;br&gt;원창학 광주경찰청 수사부장은 “최근 소상공인을 대상으로 한 노쇼 사기가 급증하고 온라인 비대면 사기 범행 수법도 고도화되고 있다”며 “경찰 역량을 총동원해 불법행위를 근절하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NNXKODV2OF6XQTZIQ72OXSADWM.jpg?auth=6c8cc2a1065095645310ee984fdfbec8f48f94bbc7414b453aa815edb2a64a72&amp;smart=true&amp;width=3951&amp;height=2630" type="image/jpeg" height="2630" width="3951">
-        <media:description type="plain">광주경찰청./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 DB</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“노부모 우대카드로 470번 무임승차”…30대, 2500만원 물게 된 사연</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/ODKYTAQ6GFAGFHO6FHMEJLO55M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/ODKYTAQ6GFAGFHO6FHMEJLO55M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 07:05:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/75Q6FOFBLI6MJC3KSM7QW5ZY7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 지하철역에서 승객이 교통카드를 찍고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에 거주하는 30대 여성 박모씨는 2018년 아버지 명의의 우대용 교통카드를 이용해 약 6개월간 무임승차를 반복했다. 신도림역 인근 자택과 합정역 인근 직장을 오가며 총 470여 회 지하철을 이용한 박씨는 결국 방범 카메라(CCTV) 분석을 하던 역 직원에게 적발됐다.&lt;br&gt;&lt;br&gt;서울교통공사는 부가 운임 1900만원을 청구했으나, 박씨가 납부를 거부하자 형사고발과 민사소송을 병행했다. 법원은 지연이자를 포함해 총 2500만원을 공사에 지급하라는 판결을 내렸다. 이는 현재까지 부정 승차 관련 민사소송 중 가장 큰 금액이다. 박씨는 1686만원을 변제했고 나머지는 내년 말까지 매달 60여 만원씩 분납하기로 약속했다.&lt;br&gt;&lt;br&gt;서울교통공사는 부정 승차자를 상대로 끝까지 법적 책임을 물리는 시스템을 가동해 현재까지 130여 건의 소송을 진행했다고 7일 밝혔다. 지난해에는 22건의 민사소송을 확정하고 40여건에 대해 강제집행을 실시했으며, 올해는 7월 말 기준으로 12건의 소송이 확정되고 20건의 집행이 진행 중이다.&lt;br&gt;&lt;br&gt;공사는 2022년부터 최근 3년간 연평균 5만6000여 건의 부정 승차를 단속해 총 26억원가량의 부가 요금을 징수했다. 올해만 해도 7월 말 기준 3만2325건이 적발돼 15억7700만원을 거둬들였다.&lt;br&gt;&lt;br&gt;최근에는 기후동행카드 부정 사용 예방을 위한 각종 대책도 집중적으로 마련하고 있다. 기후동행카드 부정 사용은 올해 7월 말 기준 5033건, 2억4700만원이 단속됐다.&lt;br&gt;&lt;br&gt;만약 부정 승차로 단속된 승객이 부가금을 납부하지 않으면 형법 제347조의2 컴퓨터 등 사용 사기죄와 형법 제348조의2 편의 시설 부정 이용죄로 형사고발하고 있다. 이 경우 통상 벌금형이 부과된다.&lt;br&gt;&lt;br&gt;마해근 서울교통공사 영업본부장은 “부정 승차자에 대해 끝까지 법적 책임을 묻는 한편 명백한 범죄 행위라는 인식이 널리 퍼질 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 공공수영장에 폭파 위협글… 100명 대피소동</title>
