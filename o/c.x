@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>문화유산에 멋대로 ‘스티커’ 붙인 남성…이유는 “아이돌 생일”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/XHOOEPGKRZE63HFGNXMQNUVEHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/XHOOEPGKRZE63HFGNXMQNUVEHM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 05:18:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM5VA6X5ENDXZEMPXRL74IM3WY.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 한 유명 아이돌 가수의 생일을 기념하기 위해 소속사 관계자가 한양도성 보호구역 시설물에 이벤트용 스티커를 붙이고 있다. /서경덕 교수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유명 아이돌 가수의 생일을 기념한다는 이유로 소속사 측이 문화유산 보존구역에 있는 시설물에 이벤트용 스티커를 무단으로 붙인 사실이 알려졌다. &lt;br&gt;&lt;br&gt;서경덕 성신여대 교수는 8일 “지난 2일 소속사가 아이돌 멤버의 생일을 맞아 서울 시내 26곳에 스티커를 숨기고 이를 찾아낸 팬들에게 애장품을 주는 행사를 진행했다”며 “문제는 현존하는 세계의 도성 중 가장 규모가 크고 역사가 오래된 한양도성 보호구역 내 시설물에 이벤트용 스티커를 붙여놨다는 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;실제로 이 소속사는 사적 10호인 한양도성 인근 보호구역 안내 표지판 등 시설물 최소 4곳 이상에 무단으로 스티커를 붙인 것으로 알려졌다. 이후 스티커를 붙인 장소를 촬영해 소셜미디어에 올리고, 마치 보물찾기를 하는 것처럼 팬들이 찾아오도록 유도했다. &lt;br&gt;&lt;br&gt;서 교수는 “더 황당한 건 당시 뒷처리를 제대로 하지 않아 시설물에는 스티커가 뜯겨나간 흔적이 남아 있었다”고 했다. 앞서 지난 1월에는 KBS 드라마 제작팀이 유네스코 세계유산에 등재된 병산서원의 건축물 기둥에 함부로 못을 박아 논란이 되기도 했다. &lt;br&gt;&lt;br&gt;서 교수는 “이런 일이 계속 벌어지지 않으려면 문화유산의 중요성에 관한 시민의식을 개선해야 한다”며 “정부 및 지자체에서 시민들을 대상으로 관련 교육을 확대해 나가야 한다. 우리 스스로가 우리의 문화유산을 먼저 아끼고 잘 보존하는 데 만전을 기해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 이민자 잡는 연방 요원 되겠다는 이민자 출신 슈퍼맨</title>
+      <link>https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</guid>
+      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 05:09:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7NGIBVA4VPJJGHJMZJZ4DQUXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1990년대 미국 TV 시리즈 '로이스 앤 클라크 :슈퍼맨의 새로운 모험'에서 슈퍼맨 역을 맡아 대중에 널리 알려진 배우 딘 케인은 ICE(이민세관단속국) 요원이 되겠다고 했다.
+/AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“미국은 인기가 있든 없든 나서서 옳은 일을 하는 애국자들에 의해 세워졌습니다. 저는 이것이 진정으로 옳은 일이라고 믿습니다. 가능한 한 빨리 이민자를 단속하는 ICE(이민세관단속국) 요원이 될 것입니다.”&lt;br&gt;&lt;br&gt;1990년대 미국 TV 시리즈 ‘로이스 앤 클라크 :슈퍼맨의 새로운 모험’에서 슈퍼맨 역을 맡아 대중에 널리 알려진 배우 딘 케인은 6일 폭스뉴스에 나와 “도널드 트럼프 대통령은 불법 이민자를 추방하겠다는 공약으로 당선됐고 나도 내 역할을 다해 그것이 실현되도록 도울 것”이라면서 이렇게 말했다. 케인은 유명 연예인들이 정부 기관을 홍보해주는 ‘명예 요원’이 아닌 실제 법 집행을 하는 요원으로 정식 활동하겠다는 것이다.&lt;br&gt;&lt;br&gt;케인은 5일 자신의 인스타그램에 ICE에 지원하라는 독려 영상을 올려 화제가 됐다. 이 영상에서 그는 슈퍼맨 영화 음악을 배경으로 “지금은 미국을 불법 이민자들로부터 구해 내야 할 때입니다. 미국은 당신의 도움이 필요합니다. 지금 당장 ICE 요원이 되십시오”라고 했다. 케인에 따르면 이 영상을 올린 뒤 미 정부에서 연락이 왔다고 한다. 그는 인터뷰에서 “다른 요원들처럼 길거리에서 사람을 잡는 역할을 하게 되냐”는 질문에 “세부적인 사항은 아직 모르지만 단속을 할 때 마스크는 쓰지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;케인은 할리우드에서 트럼프를 가장 적극적으로 지지하는 인물 중 한 명이다. 2016년, 2020년, 2024년 대선에서 트럼프를 공개적으로 지지하고, 지난달 한 매체 인터뷰에서는 “트럼프는 당신이 만날 수 있는 가장 공감 능력이 뛰어나고 훌륭하며 관대한 사람 중 한 명”이라고 했다. 지난달 개봉한 영화 ‘슈퍼맨’에 대해서도 “제임스 건 감독이 그 영화가 이민에 관한 것이라고 말한 건 영화 흥행에 해가 될 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;ICE는 연간 최대 100만명의 불법 이민자 추방 목표를 세운 상황이다. 트럼프 정부는 이를 더욱 강력하게 실행하기 위해 ICE 요원 채용에 나섰다. 신규 채용자에게 최대 5만 달러(약 7000만원)의 보너스, 최대 6만 달러의 학자금 대출 상환 지원 등 다양한 혜택을 주겠다고 홍보하고 있다. 트럼프가 서명한 ‘하나의 크고 아름다운 법안’(One Big Beautiful Bill Act·OBBBA)에도 추방 작전을 위해 144억 달러의 예산과 1만명의 신규 ICE 요원을 지원한다고 되어 있다. &lt;br&gt;&lt;br&gt;최근 크리스티 놈 국토안보부 장관은 “1만명을 모집하는데 이미 8만명이 지원서를 냈다”고 했다. 일각에서는 영화 속 슈퍼맨이 크립톤 행성에서 온 외계인 이민자라는 점을 들어 아이러니한 상황이라는 지적도 나온다. CNN은 “자신이 연기했던 캐릭터가 외계에서 온 이민자였음에도 그(케인)는 미국으로 오는 외국인에 대해 강경한 입장을 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘고수온 주의보’ 속 천수만 양식장서 물고기 68만마리 방류</title>
+      <link>https://www.chosun.com/national/regional/2025/08/09/STGZVX7Q7JGTLPFVEK2T7N5ZKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/STGZVX7Q7JGTLPFVEK2T7N5ZKA/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 05:12:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESQ5BWQCYBJODEWNCB4Y77K3V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 고수온 주의보가 발령된 충남 서해 천수만에서 가두리양식장 운영 어민들이 8일 폐사를 막기 위해 조피볼락들을 바다에 풀어주고 있다. 이날 조피볼락 67만9000마리가 방류됐다. /태안군 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 오전 10시를 기해 고수온주의보가 발령된 충남 서해 천수만에서 양식 물고기 68만마리가 바다로 방류됐다.&lt;br&gt;&lt;br&gt;천수만 태안군 해역 10개 가두리 양식장 어민들은 8일 조피볼락(우럭) 치어와 중간어 67만9000마리를 방류했다. 이는 수온이 조피볼락이 견딜 수 있는 한계인 28도에 다다르기 전 미리 풀어줘 폐사를 막기 위한 조치다.&lt;br&gt;&lt;br&gt;방류에 참여한 가두리 양식장에는 최대 5000만원씩 지원된다.&lt;br&gt;&lt;br&gt;방류에 참여한 한 어민은 “정성껏 키워왔던 고기들을 풀어주기까지 고민이 많았지만 이대로 가면 폐사할 것 같아 일단 살리는 것이 우선이라고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;태안군은 긴급 방류에 따른 어종 보호를 위해 포획 금지 기간을 설정하고, 어업인 대상 홍보에도 나설 계획이다.&lt;br&gt;&lt;br&gt;양식장 고수온 피해 방지를 위해 올해 32억여 원을 투입하는 태안군은 추가 방류도 검토하고 있다.&lt;br&gt;&lt;br&gt;태안 해역에선 105개 어가가 34.8㏊의 양식장을 운영 중이다. 조피볼락, 숭어 등이 주요 양식품종인데, 총 사육량은 2279만마리에 달한다.&lt;br&gt;&lt;br&gt;충남에선 지난해 고수온으로 조피볼락과 전복 등 824만마리가 폐사해 97억원의 피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>탈북민·노인 속여 17억원대 다단계 사기…2심서 감형</title>
       <link>https://www.chosun.com/national/court_law/2025/08/09/72URDTMCG5AMBEAIYSUYGZOJJM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/72URDTMCG5AMBEAIYSUYGZOJJM/</guid>
@@ -912,33 +940,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 03:16:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJQ2EJOZ4FCRXBDXCBSZPKCPZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹 범죄에 시달리던 여성이 흉기에 찔려 숨지거나 중상을 입는 사건이 이어지자, 검찰과 경찰이 스토킹 가해자에게 위치추적 전자장치를 부착하는 잠정 조치를 활성화하는 등 대응에 나서기로 했다.&lt;br&gt;&lt;br&gt;대검찰청은 6일 경찰청, 법무부, 여성가족부와 함께 ‘스토킹 대응 검·경 협의회’를 열고 이 같은 대응책을 논의했다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;검·경은 특히 스토킹을 반복하는 가해자에게 부과하는 잠정 조치 중 전자발찌 등 위치추적 전자장치 부착을 적극 활용하기로 했다. 대검에 따르면, 전자장치를 부착하는 잠정 조치를 시행한 작년 1월부터 현재까지 전자장치 부착 기간 중 스토킹 피해가 발생한 사례는 한 건도 없었다. 검·경은 이 같은 전자장치 부착 집행 현황과 시행 효과, 개선 사항 등을 공유했다.&lt;br&gt;&lt;br&gt;검·경은 또 스토킹 전담 검사와 경찰이 상시적인 연락 체계를 구축해 잠정 조치 신청에 필요한 스토킹 신고 내역 등 자료를 적극 공유할 방침이다. 잠정 조치 이후 송치와 기소, 재판까지 사건이 처리되는 과정에서도 잠정 조치를 적절히 연장해 피해자 보호에 나설 계획이다.&lt;br&gt;&lt;br&gt;대검 관계자는 “스토킹 이후 발생하는 강력 범죄를 사전에 예방하기 위한 실효적 대응 방안에 대해 논의했다”며 “앞으로도 유관기관과 유기적으로 협조해 스토킹 범죄 등 강력 범죄에 적극적으로 대응해 피해자 보호에 공백이 없도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시각장애 외국인 승용차로 데려다 준 버스기사… 4년전 심정지 승객도 구해 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/QWZ4SWEY55GU5AO75AUWPTCMLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/QWZ4SWEY55GU5AO75AUWPTCMLA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 02:20:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5LJNOCM7BBZPMB5VE6BIWUOVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;버스기사의 도움으로 목적지까지 도착할 수 있게 된 외국인 남녀. /경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주의 시내버스 기사가 경로를 착각하고 어쩔 줄 몰라 하던 시각장애 외국인 승객을 자신의 승용차로 직접 목적지까지 데려다준 사연이 전해졌다. &lt;br&gt;&lt;br&gt;6일 경주시에 따르면, 경주 시내버스 회사인 새천년미소 소속 김수찬(65)씨는 지난 1일 밤 경주 시내에서 51번 버스를 몰고 가던 중 KTX 경주역으로 가던 외국인 남녀가 버스에 탄 것을 확인했다. &lt;br&gt;&lt;br&gt;그러나 해당 시간대 51번 버스는 경주역과 7.8㎞ 떨어진 문화고 앞까지만 갔고, 이 사실을 뒤늦게 안 두 외국인은 버스 안에서 당황스러운 모습을 보였다. 종점을 앞둔 막차였기에 외국인들이 다른 대중교통을 이용하기도 어려운 상황이었다.&lt;br&gt;&lt;br&gt;김씨는 남성 외국인 승객이 보행 지팡이를 쥔 것을 보고 시각장애인이라는 것을 눈치챘고, 휴대전화 통역 앱을 통해 승객들의 사정을 물었다. &lt;br&gt;&lt;br&gt;그렇게 김씨는 이들이 경주역에 가고 있었다는 사실을 확인하곤 자신의 승용차로 두 사람을 목적지까지 태워줬다. 막차 운행이 끝난 퇴근 시간이었음에도 버스를 차고지에 입고한 뒤 자신의 자가용을 이용해 선행에 나선 것이다. 두 사람은 연신 “땡큐”를 외치며 김씨에게 고마움을 전한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 사연은 마침 같은 버스를 타고 퇴근 중이던 경주시 내남면행정복지센터의 강호지 산업팀장을 통해 알려지게 됐다. 강 팀장은 당시 상황을 지켜본 뒤 두 승객의 동의를 얻어 촬영한 사진과 함께 사연을 주변에 전달했다. &lt;br&gt;&lt;br&gt;김씨는 “그 상황이었다면 누구라도 저처럼 했을 것”이라며 “경주를 찾은 손님이 불편함 없이 여행을 마쳐서 기쁠 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;김씨의 선행은 이번이 처음은 아니었다. 알고 보니 김씨는 2021년에도 승객의 심정지 상황에서 심폐소생술로 생명을 구한 공로를 인정받아 ‘TS교통안전 의인상’을 받은 적 있는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANWI5GO5FJAETB7ZAKA5N5JMRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 경북 경주시 시내버스 51번에서 50대 승객이 의식을 잃고 쓰러지자 버스기사가 운행을 중단하고 심폐소생술을 하고 있다. /경북 경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당시 그는 ‘쿵’ 하는 소리와 함께 승객이 쓰러지자 곧바로 기도를 확보한 뒤 심폐소생술을 시작했고, 다른 승객은 119에 신고해 버스 위치와 승객 상태를 알렸다. 약 1분간 이어진 응급처치 끝에 승객은 의식을 되찾고 구급대원에 의해 병원으로 옮겨진 뒤 안정을 되찾고 회복한 것으로 알려졌다. 당시 김씨는 “쓰러진 승객이 숨을 쉬지 않아 위기 상황이라고 판단하고 본능적으로 심폐소생술을 시작했다”고 했다. &lt;br&gt;&lt;br&gt;주낙영 경주시장은 “지역 교통의 최일선에서 시민과 방문객을 위해 묵묵히 일하는 기사님의 노고에 감사드린다”며 “이런 따뜻한 마음이 경주를 찾는 이들에게 오래도록 기억되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총리 정무실장에 이후삼, 공보실장에 최혜영 전 민주당 의원</title>
-      <link>https://www.chosun.com/politics/goverment/2025/08/08/O3D25KI4MFDIBHGMUO6W2M556Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/08/08/O3D25KI4MFDIBHGMUO6W2M556Y/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 02:15:20 +0000</pubDate>
-      <content:encoded>김민석 국무총리를 보좌하는 국무총리비서실 정무실장에 이후삼(56) 전 더불어민주당 의원, 민정실장에 신현성(52) 민주당 충남도당 수석부위원장, 공보실장에 최혜영(46) 전 민주당 의원이 임명됐다.&lt;br&gt;&lt;br&gt;국무총리실은 7일 오전 보도 자료를 배포해 이같이 밝혔다. 각각 1급 공무원 직위다.&lt;br&gt;&lt;br&gt;이후삼 실장은 충북 단양에서 태어나 청주대 회계학과를 졸업했고 안희정 전 충남지사의 정무비서관과 노무현재단 기획위원을 지냈다. 2018년 재보궐선거에서 충북 제천·단양에 민주당 후보로 출마해 당선됐다. 이후 공항철도 사장과 법무법인 린 고문을 지냈다.&lt;br&gt;&lt;br&gt;신현성 실장은 충남 보령 출신으로 중앙대 법학과를 졸업하고 사법시험에 합격해 전주지검 부장검사, 광주고검 검사를 지냈다. 민주당 충남 보령·서천지역위원장과 충남도당 수석부위원장으로 활동 중이었다.&lt;br&gt;&lt;br&gt;최혜영 실장은 경남 거제 출신으로 신라대 무용학과를 졸업하고 나사렛대에서 재활학 박사학위를 취득했다. 강동대 사회복지학과 교수와 21대 국회의원을 역임했다.&lt;br&gt;&lt;br&gt;정무협력비서관에는 김진욱(51) 전 민주당 당대표비서실 국장, 시민사회비서관에는 오광영(59) 대전 중구 정책보좌관, 소통메시지비서관에는 신현호(58) 전 통일부 장관 정책보좌관이 임명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이춘석 ‘차명 주식 거래’ 수사 나선 경찰, 변호사·회계사 포함 25명 규모 전담수사팀 구성</title>
-      <link>https://www.chosun.com/national/incident/2025/08/08/4ONAV6ABGFDORKYWBP27RM5TAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/08/4ONAV6ABGFDORKYWBP27RM5TAQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 02:21:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUQFAH5IIJFLPEDL75LPZ2OBYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'차명 계좌 주식 거래 의혹'을 받고 있는 이춘석 국회 법제사법위원장이 5일 서울 여의도 국회에서 취재진의 질문 세례를 받으며 이동하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이춘석 더불어민주당 의원의 ‘주식 차명 거래 의혹’을 수사 중인 경찰이 대규모 전담 수사팀을 편성했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 지난 6일 이춘석 의원의 차명 주식거래 의혹 등에 대한 고발 사건을 배당받고 총 25명 규모의 전담수사팀을 편성했다고 7일 밝혔다. 서울청 관계자는 “금융범죄수사대장을 팀장으로 변호사, 회계사 등 법률·자금 추적 전문 인력을 포함한 25명 규모의 전담수사팀을 편성했다”고 했다.&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원 등은 전날 오전 서울경찰청을 찾아 자본시장법, 금융실명법, 공직자윤리법 위반 혐의로 이 의원을 고발했다.&lt;br&gt;&lt;br&gt;앞서 국회 법제사법위원회 위원장이기도 한 이 의원은 지난 4일 국회 본회의장에서 휴대전화 앱으로 주식 거래를 하는 것으로 보이는 장면이 찍혀 논란이 됐다. 주식 계좌 소유자가 이 의원이 아니라 보좌관 차모씨였기 때문이다. 이 의원은 “휴대폰은 보좌관 것이고, 차명 거래를 한 적 없다”며 의혹을 부인했지만 다음 날 서울 영등포경찰서에 ‘비자금 조성 목적이 의심되는 이 의원의 차명 거래 의혹에 대해 철저히 수사해달라’는 고발장이 접수되며 경찰 수사가 시작됐고 결국 민주당을 탈당했다. 더불어민주당은 하루 만인 6일 이 의원을 제명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>임성근 前 사단장, 해병 특검 2차 조사 출석…“채 상병 죽음에 형사적 책임 없어”</title>
