@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>하반기 전공의 약 1만5000명 모집 시작</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/09/GEQ5Y6JUAFDQVCV4I5RP65UJ5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/09/GEQ5Y6JUAFDQVCV4I5RP65UJ5A/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 09:56:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RG4VGSPOFLPRMUCYRZZKBTD6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울의 한 대학병원에서 의료진이 백팩을 매고 걸어가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부 수련환경평가윈회가 8일 하반기 인턴·레지던트 등 전공의 모집 인원 공고했다. 각 병원별로 인원을 받아 확정한 것으로 인턴 3006명, 레지던트 1년차 3207명, 2~4년차 7285명 등 총 1만3498명이다.&lt;br&gt;&lt;br&gt;현재 전국 병원에서 수련 중인 전공의는 총 2353명이다. 의정 갈등으로 전공의들이 사직하기 전인 작년 상반기의 경우 1만3531명이 수련을 받았는데, 이와 비교하면 18.7%에 그치는 수치다. 보건복지부에 따르면 전체 전공의 정원은 약 1만5000명 수준이다.&lt;br&gt;&lt;br&gt;전공의들이 이번 모집에 지원하게 되면 비어있는 전공의 자리가 일부 채워질 전망이다. &lt;br&gt;&lt;br&gt;병원들은 11일까지 채용 공고를 올리고, 29일까지 자체 일정을 수립해 채용을 진행하게 된다. 사직한 자리가 이미 다른 전공의로 채워졌다고 하더라도, 병원이 원할 경우 정원을 초과해 선발할 수 있다. 사직 전공의가 복귀한 뒤에도 빈자리가 있어야 신규 전공의를 채용할 수 있다. 선발된 전공의는 오는 9월 1일부터 다시 수련을 받게 된다.&lt;br&gt;&lt;br&gt;문제는 사직 전공의 중 얼마나 많은 수가 복귀를 택할지다. 사직한 전공의 전부가 돌아오지는 않을 것이란 것에는 병원·전공의 모두 동의하지만, 얼마나 복귀할지에 대해선 의견이 엇갈리고 있다. 일부에선 “잘해야 절반 남짓 돌아올 것”이라는 전망을 내놓는 반면, “일부 과를 제외하고 대부분 복귀하겠다는 분위기가 강하다”는 말도 나오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란 공모’ 이상민 구속적부심 종료…이르면 오늘 밤 결론</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/09/2JO62GKFAVALFHYX2Y2IG5FQO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/2JO62GKFAVALFHYX2Y2IG5FQO4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 09:51:23 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 관련 내란을 공모한 혐의를 받는 이상민 전 행정안전부 장관의 구속이 정당했는지를 다투는 구속적부심사가 8일 오후 종료됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKQ4IVYFHZAUCW5WGEDXUMGCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 '언론사 단전·단수'를 지시한 의혹을 받는 이상민 전 행정안전부 장관이 지난달 31일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사8-2부(재판장 차승환)는 이날 오후 4시 10분부터 1시간 40분가량 구속적부심사 심문을 진행했다. 이르면 이날 늦은 밤 결과가 나올 전망이다.&lt;br&gt;&lt;br&gt;구속적부심사는 피의자에 대한 구속이 적법한지, 구속을 계속할 필요성이 있는지를 법원이 심사해 판단하는 절차다. 법원은 구속적부심사 청구가 접수된 후 48시간 이내에 피의자를 심문하고 증거 조사를 진행해야 한다. 법원이 인용 결정을 내리면 피의자는 석방되고, 기각하면 구속 상태가 유지된다. &lt;br&gt;&lt;br&gt;이날 심사에는 내란 특검팀의 이윤제 특검보 등이 나왔고, 이 전 장관 측에서는 이승직 변호사 등이 참석했다. 특검팀은 85장 분량의 프레젠테이션(PPT)을 준비했고, 재판부에 110쪽의 의견서를 제출한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검팀은 구속 영장이 이미 발부된 만큼 어느 정도 범죄 혐의가 소명됐다는 주장을, 이 전 장관은 증거 인멸이나 도주 우려가 없다는 취지의 주장을 펼친 것으로 전해졌다. 이 전 장관도 심문에 직접 나와 의견을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;이 전 장관 측은 심문 종료 후, ‘어떤 취지로 발언했느냐’는 취재진 질문에 “기존에 나와 있는 이야기와 똑같다”고 답했다. ‘단전·단수 지시는 실행되지 않았으니 구속 사유로 들면 안 된다고 주장했느냐’ ‘계엄 당일 문서를 검토하는 장면이 폐쇄회로(CC)TV에 찍힌 데 대해선 어떤 입장이냐’ 등의 질문에는 모두 답하지 않았다.&lt;br&gt;&lt;br&gt;이 전 장관은 내란중요임무종사, 직권남용 권리행사방해, 위증 혐의로 지난 1일 구속됐다. 이 전 장관은 평시 계엄 주무 부처인 행정안전부 장관으로 윤석열 전 대통령의 위법한 비상계엄을 사실상 방조하고, 윤 전 대통령의 언론사 단전·단수 지시를 경찰청과 소방청에 전달해 내란 범죄에 순차적으로 가담한 혐의를 받는다. 이 과정에서 치안과 소방의 직무를 관장하는 행정안전부 장관으로서의 권한을 남용해 소방청장 등에게 의무 없는 일을 시킨 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>약국 뚫고 들어온 차량에 70대 약사 사망 날벼락… 경찰 “운전 미숙”</title>
+      <link>https://www.chosun.com/national/incident/2025/08/09/GD3XVDBRSREI7K6IKRYHDASDXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/09/GD3XVDBRSREI7K6IKRYHDASDXQ/</guid>
+      <dc:creator>화성=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 09:24:13 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DV536ISVEJJOTATV5FITB34ZKE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 경기 화성시 봉담읍에서 60대 여성 A씨가 운전한 SUV 차량이 약국으로 돌진하는 사고가 발생해 경찰과 소방 관계자들이 현장을 수습하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 3시 30분쯤 경기 화성시 봉담읍 한 상가 건물 1층 약국에서 70대 약사가 이 약국을 뚫고 들어온 스포츠유틸리티차량(SUV)에 치여 숨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면, 사고 차량은 60대 여성 A씨가 운전하던 쏘렌토로 건물 앞 노상 주차장에 전면 주차를 시도하던 중 갑자기 약국 유리창을 들이받고 내부로 돌진했다. 차량은 유리벽을 깨고 진열대를 넘어 건물 안쪽까지 들어선 뒤에야 멈춰 섰다. A씨는 이 약국을 이용하려고 주차하던 중 사고를 낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;약국 안에 있던 70대 약사 B씨가 크게 다쳐 심정지 상태로 병원에 옮겨졌지만 끝내 숨졌다. 같은 공간에 있던 B씨의 아내는 다치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 단순 운전 미숙으로 사고를 낸 것으로 보고 구체적인 사고 경위를 조사 중이다. A씨에게선 음주나 약물 복용 등 다른 위법 정황은 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고처리특례법 위반 등 혐의로 입건할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 카약 체험하던 60대 남성 숨져… 전복 사고 후 심정지</title>
+      <link>https://www.chosun.com/national/regional/2025/08/09/EBGJHKSDFJDRPF7OE6UNBDQZUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/EBGJHKSDFJDRPF7OE6UNBDQZUE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 08:46:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MXNHHZJNQNHH7CCBK5MTN4EUWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 인명구조요원들이 심폐소생술을 하고 있다. /부산해경 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 송도해수욕장에서 무료 카약 체험을 하던 60대 남성이 전복 사고 후 숨졌다.&lt;br&gt;&lt;br&gt;8일 부산 해양경찰서에 따르면 이날 오후 2시 35분쯤 부산 서구 송도해수욕장에서 2인용 카약이 뒤집어져 60대 남성 A씨와 20대 남성 B씨가 바다에 빠졌다. 인근에 있던 안전 요원들이 현장에서 카약을 바로 세웠고 이들을 구조했다.&lt;br&gt;&lt;br&gt;당시 이들은 수상 구조물 ‘폰툰’에 카약을 올리기 위해 대기 중이었다. 하지만 1분여 뒤 쓰러진 A씨가 심정지 상태로 인근 병원에 옮겨졌고 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;해경에 따르면, 두 명 모두 구명조끼를 입고 있었다. B씨는 건강에 이상이 없는 것으로 알려졌다. 둘은 무료 카약 체험 등을 하려고 해수욕장 시설인 송도해양레포츠센터를 찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경은 A씨의 정확한 사망 원인과 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 특검 “김여사, 도이치 주가 조작해 8억1000만원 수익”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/09/5KVLW23KMZADHDJ4D674MKFPCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/5KVLW23KMZADHDJ4D674MKFPCM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 08:39:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXC4VUSB3GA73IOZTL3ORVSPLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실에 첫 조사를 받기 위해 피의자 신분으로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 김 여사에 대한 구속영장을 청구하면서 ‘도이치모터스 주가 조작’으로 김 여사가 벌어들인 수익이 약 8억1000만원이라고 특정한 것으로 8일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김 여사가 권오수 전 도이치모터스 회장 등과 공모해 2010년부터 2011년 12월까지 도이치모터스 주가 시세조종 행위에 참여해 약 8억1000만원의 부당 이익을 챙겼다고 보고 영장 청구서에 이 정황을 담았다고 한다. 특검팀은 김 여사가 통정거래를 비롯해 고가매수주문, 물량소진주문, 허수매수주문, 시·종가관여주문 등 총 3700여 차례의 이상 매매 주문을 해 주가 조작에 가담하고 이 같은 수익을 벌어들였다고 보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 2차 주가조작 당시 계좌 관리를 맡았던 블랙펄인베스트 측에 수익의 40%를 주겠다는 조건으로 20억원이 들어있는 증권 계좌를 맡겼다고 보고 있는 것으로 알려졌다. 주가조작 세력이 범행에 활용할 수 있도록 자금을 제공했다는 것이다. 그러나 김 여사는 지난해 7월 검찰 조사 때와 같이 “주가조작 사실을 몰랐다”는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B54K73SNIZOCDLUSTDJAJBI7HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 의원./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 특검은 ‘건진법사 청탁’ 의혹을 수사하는 과정에서 통일교 전 세계선교본부장 윤영호씨가 권성동 국민의힘 의원에게 “통일교 정책을 국가정책으로 추진해달라”며 그 대가로 윤 전 대통령의 선거를 돕겠다고 제안한 정황을 확보해 영장 청구서에 적시한 것으로 파악됐다. 윤씨가 권 의원에게 2022년 1월 “윤석열 정부가 가정연합(통일교) 관련 정책을 국가정책으로 추진하고, 여당과 청와대에 가정연합 인사를 등용하는 것을 조건으로 통일교의 인적·물적 자원을 이용해 윤석열의 대통령 선거를 지원하겠다”고 제안했다는 것이다. 특검은 이를 근거로 통일교가 윤 전 대통령을 대선에서 지원했다고 보는 걸로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 윤씨가 ‘건진법사’ 전성배씨를 통해 김 여사를 소개받은 것으로 보고, 그라프 다이아몬드 목걸이 등 총 8000여 만원의 금품도 실제로 김 여사에게 전달됐다고 의심한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6UI5TDYGNOKDBNY5RS2XXN6TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 자택이 있는 서울 서초구 아크로비스타./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 여사가 지난 5월 검찰의 압수 수색 당시 아이폰 비밀번호를 알려주지 않고, 변호인과 경호팀을 앞세워 문을 장시간 열지 않는 등 중대한 장애를 초래했다는 주장도 구속영장 청구서에 담은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 여사의 구속영장 실질심사는 오는 12일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 김건희특검에 “이종호 수사대상 맞나”... 의견서 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/08/3LFWUM4PWBEDVIJDDOGSXIJSYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/3LFWUM4PWBEDVIJDDOGSXIJSYQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 08:56:18 +0000</pubDate>
+      <content:encoded>법원이 김건희 여사의 최측근으로 알려진 이종호 전 블랙펄인베스트 대표의 구속적부심 심문기일에서 이 사건을 수사한 민중기 특별검사팀에 “본 사건이 특검법이 정한 수사대상이 맞는지 법조인의 관점에서 의견서를 제출하라”고 요청한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPY7RJ4IKNPIVHPCNIADOIRVVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면 서울중앙지법 형사항소2-1부(재판장 곽정한)는 이 전 대표가 청구한 구속적부심에서 “특검법이 규정한 특검팀의 수사 범위는 ‘관련 사건’이 아닌 ‘관련 범죄’”라면서 의견서 제출을 요청한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 “김건희 여사 주가조작 관련 재판을 갔다가 나가는 길에 누군가를 폭행하면 그 사건도 특검팀의 수사 대상이냐”고 지적한 것으로 전해졌다. 이 전 대표의 변호사법 위반 혐의 사건이 특검 수사 대상이 맞는지 정리할 필요가 있다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 1차 주가조작 ‘주포’인 이정필씨로부터 2022년 6월∼2023년 2월 25차례에 걸쳐 8390만원을 받고 그가 형사재판에서 실형 대신 집행유예를 선고받을 수 있도록 힘써주겠다고 말한 혐의(변호사법 위반)를 받는다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지법 남세진 영장전담 부장판사는 지난 5일 이 전 대표에 대해 ‘증거인멸 우려’를 이유로 구속영장을 발부했다. 이 전 대표 측은 특검이 이미 핵심 증거를 대부분 확보했고, 실질적으로 인멸할 증거가 없어 구속 사유인 ‘증거인멸 우려’가 없다며 구속적부심을 법원에 청구했다.&lt;br&gt;&lt;br&gt;구속적부심은 구속이 적법한지 부적법한지, 수사 단계에서 계속 구속할 필요성이 있는지를 당사자 등의 요청에 따라 법원이 심사하는 절차다. 윤 전 대통령도 지난 1월과 지난달 두 차례에 걸쳐 구속적부심을 청구했으나, 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘서해 공무원 피격·건진법사 청탁’ 수사한 ‘공안통’ 이희동 검사, 중간간부 인사 앞두고 사직</title>
       <link>https://www.chosun.com/national/court_law/2025/08/09/7AGEMOIJGVBORPDH2KUBIZYI4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/7AGEMOIJGVBORPDH2KUBIZYI4E/</guid>
@@ -824,24 +878,6 @@
       <content:encoded>지난해 8월 경남 하동에서 40대 여성이 순찰차 뒷좌석에 갇혀 숨진 사건과 관련해 검찰이 경찰에 보완·재수사를 요청했다. 지난 5월 경찰이 이 사건 수사 결과를 내면서 차량 인수인계를 제대로 하지 않거나 예정한 순찰 근무를 하지 않은 이들에 대해서는 불송치 결정을 해 ‘제 식구 감싸기’라는 비판을 받은 바 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OWRX6XASFAPPCMXHCIWS7I6SI.png"&gt;&lt;figcaption&gt;&lt;small&gt;경남 하동군 진교면 하동경찰서 진교파출소의 모습. /네이버 지도 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 경남경찰청에 따르면 검찰은 지난 5일 업무상과실치사 혐의로 송치된 A경위와 직무 유기 혐의로 송치된 B경감에 대한 보완 수사를, 업무상과실치사 혐의로 입건됐다가 불송치된 경찰관 3명에 대해서는 재수사를 요청했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “송치된 이들에 대해서는 혐의를 구체화하라는 검찰의 지휘가 있었다”며 “불송치된 나머지 3명에 대해서도 검찰 재수사 요청에 따라 혐의가 있는지 처음부터 다시 살펴볼 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;지난해 8월 17일 오후 2시쯤 하동경찰서 진교파출소에 주차돼 있던 순찰차 뒷좌석에서 40대 여성이 숨진 채 발견됐다. 이 여성은 전날 새벽 2시쯤 파출소를 찾아 현관 앞을 서성이다 현관문을 흔들었지만, 파출소 안에서는 한 명도 나오지 않았다.&lt;br&gt;&lt;br&gt;경찰은 사건 발생 9개월 만인 지난 5월 수사 결과를 냈다. 경찰 조사 결과 당시 상황 근무자 2명은 물론 대기 근무자 2명 등 직원 4명 모두 현관문이 보이는 1층 근무 자리가 아닌 2층 숙직실과 1층 회의실에 있었던 것으로 드러났다. 사실상 이날 근무자 전원이 제대로 근무하지 않은 셈이다. &lt;br&gt;&lt;br&gt;이 여성은 파출소 안에서 아무런 반응이 없자, 순찰차 쪽으로 이동해 문이 열려 있는 순찰차 뒷좌석에 올랐고 그대로 갇혔다. 순찰차 뒷좌석 문은 안에서 열 수 없고, 차량 내 격벽이 있어 앞좌석 쪽으로 갈 수도 없다. 여성은 36시간 동안 순찰차에 갇혔다가 끝내 숨졌다. 부검 결과 여성의 사망 원인은 ‘열사병을 동반한 급성 심부전증’으로 나왔다. 당시 하동에는 폭염주의보가 발령된 상태였다.&lt;br&gt;&lt;br&gt;경남경찰청은 여성이 갇히기 전 마지막으로 순찰차를 운행한 A경위가 제대로 문을 잠그지 않았다고 판단했다. 운행하지 않는 순찰차는 보안·도난 방지 등을 위해 문을 잠가야 하는데, A경위가 이 같은 의무를 게을리해 여성이 순찰차 안에 들어가게 됐고 갇힌 것으로 판단한 것이다. 또 여성이 파출소를 찾았을 당시 야간 근무조 팀장이었던 B경감은 현관문을 볼 수 있는 1층 지정석에서 일하지 않는 등 근무를 태만히 했다고 봤다. 경찰은 A경위를 업무상과실치사로, B경감은 직무 유기 혐의로 각각 검찰에 송치했다. &lt;br&gt;&lt;br&gt;하지만 경찰은 순찰차 인수·인계를 제대로 하지 않은 경찰관 1명과 순찰 근무를 제대로 하지 않은 경찰관 2명은 불송치 결정했다. 관련자 15명 중 파출소 직원 5명만 수사했다. 이에 제 식구 감싸기라는 논란이 일었다.&lt;br&gt;&lt;br&gt;사건 발생 직후 경남경찰청이 진행한 진상조사 결과를 보면 숨진 여성이 순찰차에 갇혔던 36시간 동안 예정된 총 7회, 8시간 동안 순찰차를 몰고 지역 순찰을 하게 돼 있었지만 한 번도 이뤄지지 않은 것으로 드러났다. 또 36시간 동안 세 차례 근무 교대 때 순찰차 장비 작동 여부 등을 제대로 확인하지도 않았던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;여성의 사망 추정 시간은 순찰차에 들어간 지 약 12시간 지난 16일 오후 2시 전후다. 만약 당시 지정된 순찰 근무(16일 오전 6~7시, 오전 11~낮 12시, 오후 2~3시)와 근무 교대(16일 오전 8시 30분)만 제대로 했다면, 여성이 숨지기 전 최소 4차례 정도 발견할 기회가 있었지만 모두 놓쳤다.&lt;br&gt;&lt;br&gt;이에 대해 경남경찰청 반부패·경제범죄수사대 관계자는 “사안의 중요성을 감안해 엄정 수사했다”며 “수사팀 내부 의견뿐만 아니라 변호사와 대학교수 등 외부 법률 전문가로 구성된 수사심의위원회 의견도 수렴했다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“유부남에 여자 소개? 허위사실”... 박시후 “선처없는 법적 대응”</title>
-      <link>https://www.chosun.com/national/people/2025/08/08/N6EAARJ53ZFKZDLIWTF43SRIOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/08/N6EAARJ53ZFKZDLIWTF43SRIOE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 08:44:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4U43YDMKSF62J7NKCHJPNKTDPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박시후./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박시후가 온라인을 중심으로 확산한 사생활 관련 주장에 대해 ‘사실무근’이라며 법적으로 대응하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;박시후 소속사 후팩토리 측은 7일 “당사는 ‘배우 박시후가 유부남에게 여자를 소개해주었고 가정 파탄에 큰 몫을 하였다’는 게시글과 관련해 해당 내용이 사실무근의 허위 사실이라는 점을 명확히 하며, 이와 관련된 조속한 조치를 할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “법률대리인을 선임했고 언론중재위원회에 대한 조정신청, 허위로 글을 게시한 당사자에 대한 허위사실 유포로 인한 명예훼손 고소 등 민형사상 법적 조치를 준비 중”이라고 덧붙였다. 이어 해당 내용과 관련한 허위사실 유포, 악의적인 비방글 게시 등과 관련해서도 고소 등 법적 조치를 예고했다.&lt;br&gt;&lt;br&gt;박시후 측은 “허위 사실 유포 등 불법 행위에 대하여는 배우가 받게 되는 큰 타격을 고려해 어떠한 선처도 없을 것”이라며 “확인되지 않은 허위 사실을 유포하거나 근거 없이 아티스트를 비방하는 글을 게시하지 말아 주시기를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;앞서 인플루언서 A씨는 지난 5일 자신의 인스타그램에 박시후가 자기 남편에게 여성을 소개했고, 이에 가정이 파탄됐다고 주장했다. 함께 공개한 사진, 영상 등에는 과거 A씨의 남편과 박시후가 주고받은 것으로 추정되는 메시지 일부가 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“소비쿠폰 도움 받았는데 나도…" 80대 기초수급자, 수재민 돕기 성금 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/B5232RNOYRE4DIYHAT5J7LJHV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/B5232RNOYRE4DIYHAT5J7LJHV4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 08:08:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVNZPIQZV5ACHMS4OH7OBJ3WDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 동구에 기부한 기초생활수급자./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 동구의 80대 기초생활수급자가 호우 피해를 본 수재민에게 써달라며 10만원을 기부했다. &lt;br&gt;&lt;br&gt;7일 부산 동구 초량1동에 따르면, 지난 5일 초량1동 행정복지센터에 &lt;u&gt;나이 &lt;/u&gt;든 여성이 찾아왔다. 이 여성은 “민생 회복 소비 쿠폰으로 도움을 받았는데 나도 도움을 주고 싶다”며 5만원짜리 2장이 들어있는 봉투를 직원에게 건넸다고 한다. &lt;br&gt;&lt;br&gt;기부자는 86세의 기초생활수급자로 파악됐다. 그는 신원이 외부에 알려지는 걸 원하지 않는다면서 “적은 돈이지만 피해를 본 분들에게 성금을 전달할 수 있어 행복하다”는 소감을 전했다. &lt;br&gt;&lt;br&gt;한혜경 동구 초량1동장은 “성금은 사회복지공동모금회 호우피해 특별모금 계좌로 전달해 피해 복구에 도움을 주도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;정부가 전 국민에게 1인당 15만~45만원의 민생회복 소비쿠폰을 지급한 가운데 소비쿠폰을 활용한 선한 영향력도 확산하고 있다. &lt;br&gt;&lt;br&gt;지난 1일에는 천안에 거주하는 30대 남성이 소비쿠폰으로 100잔을 구매한 뒤 천안 서북소방서에 전달했다. 이 남성은 기부 배경에 대해 “과거 소방대원들로부터 도움을 받은 적이 있고, 회사에서 실시한 소방훈련을 통해 소방관들의 노고를 느꼈다”며 “세금으로 마련된 민생지원금을 단순한 소비가 아닌 고생하는 소방관에게 의미 있게 사용하고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLMPV7JTUOSXN7CG4EDUBCV2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안서북소방서에 전달된 커피 100잔./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 달 경남 거창군 주상면에선 한 주민이 민생소비쿠폰으로 구입한 즉석밥, 통조림, 라면 등 20만원어치 생필품을 공유냉장고에 익명으로 기부했다. 공유냉장고는 식재료 낭비를 줄이고 소외된 이웃의 식생활 지원을 위해 만들어진 제도다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 12일 영장 심사… 통일교 前간부 구속시킨 정재욱 판사가 맡는다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/4WDLDNYFOZFJZBDV7VUMHNYEZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/4WDLDNYFOZFJZBDV7VUMHNYEZU/</guid>
@@ -862,15 +898,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 07:34:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6U7YOSFQHGB6PAXUHPN2CD5TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 5일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 증권 계좌를 관리한 것으로 알려진 이종호 전 블랙펄인베스트 대표에 대한 구속적부심사가 오는 8일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 서울중앙지법 형사항소2-1부(재판장 곽정한)는 8일 오후 2시 20분 변호사법 위반 혐의로 구속된 이 전 대표에 대한 구속적부심 심문을 진행할 예정이다.&lt;br&gt;&lt;br&gt;구속적부심은 법원이 피의자의 구속이 적법하고 계속될 필요가 있는지를 다시 판단하는 절차로, 통상 청구 접수 후 48시간 이내에 피의자 심문과 증거 조사를 마쳐야 한다. 이 기간 동안 수사기관의 피의자 조사는 중단된다.&lt;br&gt;&lt;br&gt;이 전 대표 측은 지난 6일 서울중앙지법에 구속적부심 청구서를 제출하며 “증거 인멸이나 도망 우려가 없고, 혐의를 입증할 증거도 부족하다”며 “김건희 특검법의 수사 대상을 벗어난 별건 수사”라고 주장했다.&lt;br&gt;&lt;br&gt;앞서 김건희 특검은 ‘도이치모터스 주가조작’ 공범인 이 전 대표가 다른 공범 이정필씨에게 2022년 6월부터 2023년 2월까지 재판 결과를 대가로 25차례에 걸쳐 총 7590만원을 받은 혐의(변호사법 위반)로 구속영장을 청구했다. 특검은 이 전 대표가 이씨에게 “김건희나 VIP(윤석열 전 대통령)에게 얘기해 집행유예를 받게 해주겠다”며 돈을 받아 가로챈 것으로 보고 있다. 당시는 도이치모터스 주가조작 1심 재판이 진행 중이던 때였다.&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 지난 5일 이 전 대표에 대해 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벌써 여기서만 1조989억 썼다…소비쿠폰 가장 많이 사용한 곳 어디?</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/24FVDI2OIVB5TO4MHYB4OZNDB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/24FVDI2OIVB5TO4MHYB4OZNDB4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 08:06:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNGA2TIJLRK3RC6W2JAW272DAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 서울 시내 한 슈퍼마켓에 민생회복 소비쿠폰 사용 가능 매장 안내문이 게시돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 정부가 전 국민을 대상으로 지급한 ‘민생회복 소비 쿠폰’이 대중 음식점에서 가장 많이 사용된 것으로 나타났다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;행안부는 이날 국내 9개 카드사(KB국민, 우리, NH농협, 롯데, 비씨, 삼성, 신한, 하나, 현대)에서 받은 7월 21일부터 8월 3일까지 신용·체크카드로 사용된 소비 쿠폰의 업종별 사용액 및 매출액을 공개했다. &lt;br&gt;&lt;br&gt;공개된 자료에 따르면 3일 기준 신용·체크카드로 지급된 소비 쿠폰 5조 7679억원 중 2조 6518억원(46.0%)이 사용됐으며, 소비 쿠폰 지급 이후 생활 밀착 업종에서의 매출액이 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;업종별로 살펴보면, 대중 음식점(1조989억원, 41.4%)에서 가장 많이 사용되었고, 마트·식료품(4077억원, 15.4%), 편의점(2579억원, 9.7%), 병원·약국(2148억원, 8.1%), 의류·잡화(1060억원, 4.0%), 학원(1006억원, 3.8%), 여가·레저(760억원, 2.9%) 순으로 사용액이 높았다.&lt;br&gt;&lt;br&gt;아울러 소비 쿠폰 지급이 시작된 7월 4주(7.21.~7.27.)의 가맹점 전체 매출액은 직전 7월 3주(7.14.~7.20.) 대비 19.5% 증가했고 전년 동기(2024년 7월 4주) 대비 5.5% 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;7월 5주(7.28~8.3) 매출액은 소비 쿠폰 지급 시작 전인 7월 3주에 비해서는 8.4%, 전년 동기(2024년 7월 5주) 대비로는 6.5% 증가했다.&lt;br&gt;&lt;br&gt;7월 4주 업종별 매출액 증가율을 보면 7월 3주 대비 학원(33.3%), 의류·잡화(19.7%), 편의점(13.1%), 주유(13.1%) 등에서 큰 폭 증가해 생활 밀착 업종에서 증가세가 두드러졌다.&lt;br&gt;&lt;br&gt;7월 5주 업종별 매출액 증가율은 7월 3주 대비 의류·잡화(22.9%), 학원(22.8%), 여가·레저(19.9%), 음식점(16.8%), 마트·식료품(16.5%) 등에서 높았다. &lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “민생 회복 소비 쿠폰으로 소상공인 매출 증가와 국민들의 소비 심리 개선 효과가 뚜렷하게 나타나고 있다”며 “앞으로도 경기 회복에 마중물 효과가 지속되고 민생 경제가 개선되도록 소비 쿠폰의 신속 소비와 추가 소비 진작 대책도 마련해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희, 통일교 간부에 “인삼차 잘 받았다”…특검, 통화 녹취록 제시</title>
@@ -950,33 +977,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XLK7KQ45VBGWNMM6YDC3MBRWRI.JPG?auth=8c35562dd5f315d92b1932fafa8132afc5105ea026d8ac4ef5c4a60bbc5e88e3&amp;smart=true&amp;width=1950&amp;height=1097" type="image/jpeg" height="1097" width="1950">
         <media:description type="plain">올 시즌을 끝으로 은퇴하는 삼성 라이온즈 투수 오승환이 7일 인천 오라카이 송도파크호텔에서 기자회견을 열고 소감을 밝히고 있다. (삼성 라이온즈 제공)</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[단독] 尹 전 대통령, 서울구치소 의무실行... 체포영장 집행 여파</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/08/7YCCJUVOENCO3KILJC22EAPFYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/7YCCJUVOENCO3KILJC22EAPFYA/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 03:02:18 +0000</pubDate>
-      <content:encoded>서울구치소에 구속 수감된 윤석열 전 대통령이 7일 의무실에 입실한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOQ2EAIMIJHFVGEMJBUP7XN7K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 7일 오전 윤석열 전 대통령에 대한 체포영장 재집행에 실패,경기 의왕 서울구치소를 나서고 있다. 2025.8.7 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 이날 오전 김건희 특검 측의 체포영장 집행 시도가 무산된 뒤 의무실로 향했다. 자세한 사유는 알려지지 않았으나, 법조계는 윤 전 대통령 체포영장 집행에 물리력이 사용된 여파일 것으로 보고 있다. 윤 전 대통령은 당뇨합병증으로 인한 자율신경계 손상, 당뇨망막증 및 경동맥 협착을 앓고 있는 것으로 전해졌다. 윤 전 대통령 변호인단은 이날 오후 1시 서울고등검찰청 앞에서 기자회견을 갖는다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 7시 50분쯤 서울구치소를 찾았고, 8시 25분 체포영장 집행에 착수했다. 그러나 9시 40분에 집행을 중단하고 철수했다. 특검 관계자는 “물리력 행사 등의 방법으로 영장을 집행하려 했으나 피의자(윤 전 대통령)의 완강한 거부로 부상 등의 우려가 있다는 현장 의견을 받아들였다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검의 윤 전 대통령 체포영장 집행 시도는 지난 1일에 이번이 두 번째이다. 특검은 첫 번째 시도 당시 윤 전 대통령이 속옷만 입고 바닥에 누워 집행을 거부했다고 했다. 이날은 물리력을 동원해서라도 집행을 완료하려 했고, 정성호 법무부 장관도 전날 서울구치소에 “법과 원칙에 따라 엄정하고 공정한 법 집행이 이뤄지도록 특검의 체포영장 집행 업무에 적극 협조할 것”을 지시했다. 이날 오전 9시로 예정됐던 윤 전 대통령의 김홍일·배보윤 변호사 접견 시간에는 영장 집행이 어렵다고 보고 집행 시간도 오전 8시대로 당긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령을 특검 사무실로 인치해 정치브로커 명태균씨와 관련된 2022년 6월 국회의원 보궐선거 공천 개입 의혹 등을 조사할 예정이었다.&lt;br&gt;&lt;br&gt;김건희 특검은 지난달 29일과 30일 윤 전 대통령이 소환 통보에 응하지 않자 법원에서 체포영장을 발부받았다. 영장 유효기간이 이날까지인 만큼, 특검은 법원에 다시 체포영장을 청구하는 방안을 검토할 것으로 보인다. 대면 조사 없이 윤 전 대통령을 기소할 수도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임성근 前 사단장, 해병 특검 2차 조사 출석…“채 상병 죽음에 형사적 책임 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/08/FPKOK77POVEXNGIZNMVDGSMYBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/FPKOK77POVEXNGIZNMVDGSMYBE/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 01:35:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKSKO3QHSZL43PBZUWV6AVM72I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 7일 오전 서울 서초구 순직 해병 특검 사무실에 피의자 조사를 받기 위해 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장이 7일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 2차 피의자 조사를 받기 위해 출석했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 이날 오전 9시 45분쯤 서울 서초구 특검 사무실에 출석했다. 지난 7월 2일 특검에서 4시간가량 조사받은 이후 약 한 달 만의 재소환이다.&lt;br&gt;&lt;br&gt;그는 ‘채 상병 죽음에 책임이 전혀 없다는 입장이냐’는 취재진 질문에 “원 소속 부대장으로서 도의적인 책임은 통감하지만 형사적으로는 책임질 게 없다”고 답했다.&lt;br&gt;&lt;br&gt;또 ‘이종호 전 블랙펄인베스트 대표를 모른다는 입장은 여전한가’라는 질문에는 “전혀 일면식이 없는 분”이라고 답했다.&lt;br&gt;&lt;br&gt;임 전 사단장은 2023년 7월 경북 예천군 실종자 수색에 투입됐다가 급류에 휩쓸려 숨진 고 채수근 상병의 부대장으로, 실종자 수색 당시 수중 수색 지시 등을 내려 채 상병이 숨지는 데 관여했다는 혐의(업무상 과실치사 등)를 받는다.&lt;br&gt;&lt;br&gt;특검은 임 전 사단장이 업무상 과실치사 혐의자에 포함됐다가 제외되는 과정에서 김건희 여사와 친분이 있다고 알려진 이 전 대표와 개신교계 인사 등에게 구명을 청탁했다는 일명 ‘구명 로비 의혹’도 수사 중이다.&lt;br&gt;&lt;br&gt;임 전 사단장은 지난 1차 조사에서 업무상 과실치사 혐의에 대해 상당 부분 진술을 거부한 것으로 알려졌는데, 이날 조사에서도 상당수 질문에 대해 진술을 거부하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난 1차 조사에 이어 이날 조사에서도 임 전 사단장을 상대로 업무상 과실치사 혐의와 구명 로비 의혹 등에 대해 조사할 예정이다. 임 전 사단장은 특검에 오후 5시까지 조사를 받겠다는 입장을 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 브리핑에서 “오늘 조사에서는 업무상 과실치사 혐의 관련된 부분이 가장 중요한 비중을 차지할 것으로 보인다”며 “조사할 내용이 많기 때문에 추가로 소환해야 할 수도 있을 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>우원식 국회의장, 내란 특검 출석...“내란 진상 규명은 역사적 책임”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/08/66GEXYITNJDZPH6GRESN3Z2HPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/66GEXYITNJDZPH6GRESN3Z2HPY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 00:40:02 +0000</pubDate>
-      <content:encoded>우원식 국회의장은 7일 참고인 조사를 받기 위해 내란 특검에 출석하며 “지난 비상계엄으로 일어난 내란 사태에 대해 국민들에게 진상을 밝히는 것은 역사적으로 꼭 필요한 책임”이라고 밝혔다.&lt;br&gt;&lt;br&gt;우 의장은 이날 오전 9시 40분쯤 내란 특검 사무실이 마련된 서울고검 청사 앞에서 기자들과 만나 이 같이 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKRK4FT2XVJQHP46R5MZIMBIHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우원식 국회의장이 7일 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에 참고인 조사를 받기 위해 출석하며 취재진 질문에 답변하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우 의장은 “서면 등 다른 방식으로 조사를 할 수 있지만, 국회의장이 직접 출석해서 진상을 밝히는 데 협조하는 것이 특검을 출범시킨 정신에 맞다고 생각해 이 자리에 나왔다”고 했다. 우 의장은 “국회는 비상계엄으로서 침탈당한 기관이자, 헌법과 법률 절차에 따라 국민과 함께 계엄을 해제시킨 기관”이라면서 “국회의장도 이 자리에 나와 진실 규명을 해나가는 것이 당연한 책무라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “오늘 진술을 통해 비상계엄과 관련돼 있는 법적·정치적 정의를 바로 세우는 일에 국회의장으로서 최선의 책임을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 우 의장을 상대로 12·3 비상계엄 당시 국회 내부 상황, 국민의힘 의원들이 본회의에 참석하지 못한 이유 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;특검은 추경호 당시 원내대표 등 국민의힘 지도부가 의도적으로 계엄 해제 표결을 방해했다는 의혹을 수사 중이다. 추 전 원내대표가 비상 의원총회 장소를 여러 차례 변경한 탓에 국민의힘 의원 108명 중 18명만 계엄 해제 결의안 표결에 참여했다.&lt;br&gt;&lt;br&gt;추 전 원내대표는 국회 본회의 직전 우 의장과 두 차례 통화했다. 우 의장이 “이미 의결 정족수도 확보됐고, 더 지체하면 계엄군이 국회를 침탈할 우려가 있다”며 신속하게 본회의를 개최하겠다고 하자 추 전 원내대표는 “아직 도착 못 한 의원들이 많으니 본회의 개최를 미뤄달라”고 요청했던 것으로 전해졌다. 우 의장은 12월 4일 새벽 1시에 본회의를 개최했고, 계엄 해제 표결 결의안은 재적 190명·찬성 190명으로 가결됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[신문으로 배우는 실용한자] 묵독(默讀)</title>
