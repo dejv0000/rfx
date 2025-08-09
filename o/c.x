@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李대통령 “모든 산재 사망 직보하라”... 휴가 복귀 첫 지시</title>
+      <link>https://www.chosun.com/politics/blue_house/2025/08/10/F5TNFVIB55HUJAFQRGSNUMZIXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/blue_house/2025/08/10/F5TNFVIB55HUJAFQRGSNUMZIXE/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 07:39:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCXRWWTQSBMTLB7YA2MICI4JKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령실 강유정 대변인이 9일 오후 서울 용산 대통령실 청사에서 이재명 대통령의 지시 사항에 관해 브리핑하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 9일 “앞으로 모든 산재 사망 사고는 최대한 빠른 속도로 대통령에게 직보하라”고 지시했다.&lt;br&gt;&lt;br&gt;지난 4일부터 휴가를 보낸 이 대통령이 업무에 복귀하며 내린 첫 지시다.&lt;br&gt;&lt;br&gt;대통령실 강유정 대변인은 이날 오후 브리핑에서 “어제 경기 의정부 한 신축 아파트 공사 현장에서 안전망 철거 작업을 하던 50대 노동자가 추락해 사망하는 안타까운 사고가 발생했다”며, 이를 접한 이 대통령이 산재 사망 사고 직보를 지시했다고 밝혔다.&lt;br&gt;&lt;br&gt;강 대변인은 이 대통령의 지시가 “국정상황실을 통해 (사고를) 공유, 전파하는 현 체계는 유지하되, 대통령에게 좀 더 빠르게 보고하는 체계를 갖추라는 것”이라고 부연했다.&lt;br&gt;&lt;br&gt;강 대변인은 또 “이 대통령이 노동부에는 산재 사고 방지를 위한 사전·사후 조치 내용과 현재까지 조치한 내용을 화요일 국무회의에 보고할 것을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강 대면인은 “위 두 가지 조치는 산재 사망을 획기적으로 줄이겠다는 이 대통령의 강한 의지로 풀이된다”며 “일하러 나간 노동자들이 다치거나 목숨을 잃는 일이 더는 없도록, 세계 10위 경제 강국의 위상을 노동자의 안전으로 증명하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘신호위반’ 배달 오토바이에 7세 깔려…”사과 없이 담배만” 부모 분통</title>
       <link>https://www.chosun.com/national/national_general/2025/08/10/4E4WSHJZEREY7MRUSUG64QBVDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/4E4WSHJZEREY7MRUSUG64QBVDI/</guid>
@@ -922,16 +931,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 01:12:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLZST6WZVJCMZEZNZ6USRSF7YY.png"&gt;&lt;figcaption&gt;&lt;small&gt;의식을 잃고 쓰러진 독거 남성을 구한 김재현 집배원. /안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동시에서 한 집배원이 의식을 잃고 쓰러진 독거 남성을 발견해 구조한 사연이 전해졌다. &lt;br&gt;&lt;br&gt;7일 안동시에 따르면, 도산우체국 소속 김재현 집배원은 지난달 31일 소포를 전달하기 위해 독거 남성 A(57)씨 집에 방문했다가 생명을 구하게 됐다. &lt;br&gt;&lt;br&gt;당시 김씨는 여러 차례 집 문을 두드려도 응답이 없고 내부에서 악취가 나 이상 징후를 느꼈다. 이전 소포 배달 시 A씨와 눈을 맞추고 대화도 해봤던 터라 더욱 평소와 다른 느낌을 감지했다고 한다. 이에 김씨는 창문을 통해 집안을 살피던 중 방 안에서 A씨가 쓰러진 것을 발견했다. &lt;br&gt;&lt;br&gt;김씨는 즉시 119에 신고했고, A씨는 병원 중환자실로 옮겨졌다. 알고 보니 A씨는 당뇨 합병증을 앓고 있었으며, 발견 당시 자가 호흡이 어려운 위중한 상태였다고 한다. 김씨의 발견과 대처가 없었다면 그대로 방치될 수 있는 상황이었던 것이다. A씨는 현재 생명에 지장이 없는 상태로 병원에서 입원 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨가 A씨 집에 방문하게 된 건 지난 2일부터 안동시와 안동우체국이 체결한 업무협약을 바탕으로 시행 중인 ‘안부 살핌 우편 서비스’ 일환에서였다. 이 사업은 관내 사회적 고립 가구를 대상으로 집배원이 월 2회 생필품을 전달하면서 안부와 건강 상태를 확인하고 위기 상황 발생 시 신속히 대응하는 복지 서비스를 연계하는 게 목적이다. &lt;br&gt;&lt;br&gt;김씨는 “7월 첫 방문 때는 눈을 맞추며 대화를 나눴는데, 두 번째 방문에서는 아무 기척이 없어 평소와 다르다는 느낌을 받았다”며 “작은 관심이 생명을 살릴 수 있어 다행이고, 앞으로도 안부 살핌에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;권기창 안동시장은 “세심한 관찰력과 빠른 판단으로 귀중한 생명을 살린 김재현 집배원께 깊은 감사를 드린다”며 “앞으로도 고립 가구를 위한 촘촘한 복지 안전망 구축에 더욱 힘쓰겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조태용 “진실대로 진술” 임기훈 “수사기관에서”… 해병 특검 2차 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/N7HSPFMXXZA27LEJQZR3K3VJIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/N7HSPFMXXZA27LEJQZR3K3VJIU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 01:12:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEHJK25HIJMN7FC5V33Q5TITLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가안보실장이 8일 서울 서초구 순직 해병 특검 사무실에 피의자 신분으로 조사를 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 8일 조태용 전 국가안보실장과 임기훈 전 국방비서관을 재소환했다. 조 전 실장과 임 전 비서관은 이른바 ‘VIP 격노설’이 불거진 국가안보실 회의에 참석하고, 해병대 수사단의 초동 조사 기록을 회수하는 과정에 관여한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;조 전 실장은 이날 오전 9시 40분쯤 서울 서초구 해병 특검 사무실에 피의자로 출석했다. 지난달 29일 첫 조사 이후 열흘 만이다. 조 전 실장은 “윤석열 전 대통령이 (고 채수근 상병 사건 관련) 어떤 지시를 내렸느냐”는 취재진의 질문에 “진실에 입각해서 사실대로 진술하겠다”고 했다. 기자들이 “수사 외압이 있었다고 볼 수 있느냐”고 물었을 때에도 “사실대로 다 이야기하겠다”고 답했다.&lt;br&gt;&lt;br&gt;임 전 비서관도 지난달 25일에 이어 이날 오전 9시 20분쯤 특검 사무실에 참고인으로 출석했다. 그는 “조사 기록 이첩 사실을 알게 됐을 때 윤 전 대통령이 질책했느냐” 등 취재진의 질문에 “수사 기관에서”라고 짧게 답변했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYOEHITDRVMRBBZEE45NVGRDR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임기훈 전 국방비서관이 8일 서울 서초구 순직 해병 특검 사무실에 참고인 신분으로 조사를 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 이날 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 해병대 수사단의 초동 조사 기록이 2023년 8월 2일 경찰에 이첩됐다가 회수된 과정을 집중적으로 조사할 방침이다. 앞서 특검은 당시 이종섭 전 국방장관이 기록 이첩 사실을 대통령실에 전달하고, 조 전 실장이 이를 대통령에게 보고한 사실을 확인했다. 또 윤 전 대통령이 이첩 사실을 알고 임 전 비서관을 질책한 정황, 조 전 실장이 이시원 전 공직기강비서관에게 “채 상병 사망 관련 조사 기록을 회수해달라”고 요청한 사실 등도 파악했다.&lt;br&gt;&lt;br&gt;특검은 조 전 실장과 임 전 비서관 등을 상대로 윤 전 대통령이 직접 기록 회수 지시를 내렸는지, 임 전 사단장을 혐의자에서 제외하라는 지시를 내렸는지 등을 조사할 계획이다. 윤 전 대통령은 이첩 회수 당일(8월 2일) 임 전 비서관, 이 전 장관, 신범철 전 국방차관 등과 통화한 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2DCRTRF43BEGVNSZMZSU3L7EGE.gif?auth=824bf683a695742781a05965c50c8a7411a1e7638880887dcbb4bcb6453d5f66&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
     </item>
     <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
