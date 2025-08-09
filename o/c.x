@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>놀이기구 타다 튕겨져 나갔다… 제천서 초등생 4명 다쳐</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/10/URCDMC6ZIZF6DELEFFRNFYMB6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/URCDMC6ZIZF6DELEFFRNFYMB6Q/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 13:06:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCOQOB2PX5FRHMKRA6XJ4PYBZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;놀이기구 안전장치 풀림 사고로 통제된 제천 놀이공원 현장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 제천의 한 놀이공원에서 초등생 4명이 놀이기구를 타다 이탈해 부상당하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;9일 제천경찰서에 따르면 오전 11시 45분쯤 충북 제천시 모산동 의림지에 있는 한 놀이공원에서 놀이기구를 타던 초등생 4명이 좌석 밖으로 이탈했다.&lt;br&gt;&lt;br&gt;이들은 위아래로 타원형을 그리며 빠르게 움직이는 놀이기구를 탔다가, 안전장치가 풀리면서 좌석 밖으로 튕겨 나간 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 사고로 2명은 경상을 입고 병원으로 옮겨졌고, 나머지 2명도 보호자에게 인계돼 병원 치료를 받았다.&lt;br&gt;&lt;br&gt;관계자가 즉시 기구 가동을 멈추면서 기구 밖으로 추락한 학생은 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이 놀이기구 운영을 중단시킨 뒤 놀이공원 관계자 등을 상대로 업무상 과실 여부를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마포구 대로변에서 흉기로 지인 살해한 30대 남성 구속...法 “도망 염려 있어” </title>
+      <link>https://www.chosun.com/national/incident/2025/08/10/GL4GTVXRXFAQPB25BZIZNMX5QU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/10/GL4GTVXRXFAQPB25BZIZNMX5QU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 10:37:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DASSQ4ZEO2KIKLQY6O3W4FMNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 대흥동에서 지인을 흉기로 살해한 30대 남성이 9일 구속됐다.&lt;br&gt;&lt;br&gt;서울서부지법 신한미 영장담당 당직판사는 이날 오후 살인 혐의를 받는 A씨의 구속 전 피의자 심문(영장실질심사)을 한 뒤 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6일 오후 11시쯤 지인인 30대 남성 B씨를 마포구 지하철 6호선 대흥역 인근 아파트 단지에서 30대 남성 B씨를 식칼로 살해한 혐의를 받는다. 피해자는 근처 병원으로 옮겨졌지만 숨졌다. A씨는 B씨와 마포구의 한 고깃집에서 말다툼을 시작해 밖에서도 언성을 높였고, 이후 흉기를 꺼내 휘두른 것으로 전해졌다. 이후 B씨가 도망치자, A씨는 200m 이상을 뒤쫓아가 추가로 공격한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 ‘정신 병력이 있다’는 취지로 주장한 것으로 알려졌다. 경찰은 A씨의 구체적인 범행 동기에 대한 수사를 이어갈 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전남 최대 102㎜ 누적강우…피해신고·교통통제도</title>
       <link>https://www.chosun.com/national/regional/2025/08/10/VE2W7PWHCNDPHMXASZLWDLBL3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/10/VE2W7PWHCNDPHMXASZLWDLBL3M/</guid>
@@ -933,15 +951,6 @@
       <content:encoded>12·3 비상계엄을 수사 중인 조은석 내란 특검팀이 지난 7일 박현수 서울경찰청장 직무대리를 상대로 강제 수사에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6TWQTGZAITH2OFZYAVQ46BTPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박현수 서울경찰청장 직무대리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 내란 특검은 전날 박 직무대리의 자택과 사무실 등을 압수수색 했다.박 직무대리는 행정안전부 경찰국장이던 지난해 12월 3일 이상민 전 행정안전부 장관, 조지호 경찰청장, 임정주 경찰청장 경비국장 등과 수 차례 통화했다. 이때 경찰의 국회 봉쇄 상황을 보고받았고 행동 지침을 마련했다는 의혹이 제기됐다. 박 직무대리는 지난 2월 국회 행정안전위원회에서 “계엄에 일체 관여한 바가 없다”고 했었다. &lt;br&gt;&lt;br&gt;한편 내란 특검은 이날 윤석열 전 대통령의 출국금지와 관련해 배상업 전 법무부 출입국·외국인정책본부장을 참고인 신분으로 불러 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3BNKUTZNJAXMYURBFU2EEM6XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배상업 전 법무부 출입국·외국인정책본부장. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 비상계엄 직후인 지난해 12월 9일 윤 전 대통령을 출국 금지했다. 이를 두고 박성재 전 법무부 장관이 배 전 본부장을 크게 질책했다는 의혹이 제기됐다. 배 전 본부장은 박 전 장관에 대한 탄핵소추안이 기각된 직후인 지난 4월 사의를 표했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘건진법사 청탁 의혹’ 통일교 총재 비서실장, 김건희특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/7CNDACYCK5A3RGMCXKEG7QJKLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/7CNDACYCK5A3RGMCXKEG7QJKLM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 00:44:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GROG3WI4JF57KWL24HFBFPTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨와 통일교의 청탁 의혹과 관련해 한학자 총재의 비서실장을 지낸 '교단 2인자' 정모 천무원 부원장이 2025년 8월 8일 서울 종로구 KT광화문빌딩 입구에 도착해 김건희 특검팀(특별검사 민중기) 사무실로 향하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 ‘건진 법사’ 전성배씨를 통한 통일교 현안 청탁 및 권성동 국민의힘 의원 불법 정치자금 1억원 수수 의혹과 관련해 8일 통일교(세계평화통일가정연합) ‘2인자’로 불리는 정모씨를 소환했다. 정씨는 한학자 통일교 총재의 비서실장이자 통일교 최상위 행정조직인 천무원 부원장을 맡고 있다.&lt;br&gt;&lt;br&gt;이날 오전 9시 39분쯤 모습을 드러낸 정씨는 ‘권 의원에게 돈 얼마 줬느냐’ ‘김 여사 명품 선물 관여했나’ ‘한 총재 지시받고 한 거냐’ 등 질문에 모두 답하지 않고 조사실로 향했다.&lt;br&gt;&lt;br&gt;특검은 윤영호(구속) 전 통일교 세계본부장이 2022년 4~7월 전씨를 통해 김 여사에게 6000만원대 그라프 목걸이, 총 2000만원 샤넬백 2개 등을 건넸고, 여기에는 캄보디아 공적개발원조(ODA) 사업 등 현안 청탁을 위해 통일교 최상위층의 지시가 있었다고 보고 있다. 또 윤 전 본부장이 권성동 국민의힘 의원에게 2022년 1월 5일 건넨 1억원도 통일교 조직 차원의 정치자금 전달이라고 보고 특검은 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 정씨를 상대로 윤 전 본부장이 전씨에게 건넨 고가 명품과 권 의원에게 전달한 억대 현금에 통일교 교단 차원의 관여 정도, 자금 출처 등을 물을 것으로 보인다. 윤 전 본부장은 특검 조사에서 “윗선의 지시를 받아 한 일”이라고 진술했고, 특검도 관련자 진술 및 증거를 확보한 상태다. 특검은 정씨에 이어 한 총재도 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</guid>
@@ -970,15 +979,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE33ZEZ37BF45A24JUVYTI7MUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 충청도의 한 리조트로 온 가족이 휴가를 갔던 직장인 정모(33)씨는 난감한 일을 겪었다. 저녁 식사를 한 뒤 아이가 갑자기 열이 났는데, 어린이용 해열제를 구하지 못한 것이다. 정씨는 “편의점에서 상비약을 파는 걸로 알고 리조트 내 편의점에 갔는데, 그곳에선 약을 팔지 않았다”며 “밤새 발만 동동 구르다 이튿날 아침 차로 10분 거리에 있는 약국에 가서 약을 사왔다”고 했다. &lt;br&gt;&lt;br&gt;얼마 전 아이를 데리고 강원도 고향집을 찾았던 이모(42)씨도 “밤에 자고 있던 아이가 갑자기 배가 아프다고 깨서 설사 증세를 보였다”며 “너무 늦은 시간이어서 급한 대로 편의점에 갔는데 해열제나 소화제만 있고 지사제는 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LVCOP4HABE77LBQTMMKS4YAOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해열제와 소화제 등을 편의점에서 구입할 수 있도록 한 안전상비의약품 제도를 정비해야 한다는 지적이 나오고 있다. 당초 안전상비의약품 제도는 지난 2012년 약국이 문을 닫는 공휴일이나 심야 시간에 급하게 약이 필요한 환자들의 불편을 해소한다는 취지로 도입됐던 것이다. 현재 판매되는 항목은 해열·진통제 3종, 감기약 2종, 소화제 4종, 파스 2종 등 11개다. 당초 13개가 지정됐지만, 어린이용 타이레놀 알약 등 진통제 중 2개 제품은 현재 생산이 중단돼 구매할 수도 없다. 여기에 지사제나 제산제, 알레르기약, 상처·화상연고 등은 빠져 있어 “급하게 필요한 약을 구하기 어렵다”는 불만도 제기된다.&lt;br&gt;&lt;br&gt;판매 항목은 가벼운 증상에 쓸 수 있는 일반의약품 중 20개 이내로 보건복지부 장관이 지정하도록 돼 있지만, 편의점 판매 의약품은 이 제도 도입 이후 늘어난 적이 없다. 비록 2017년과 2018년에 안전상비의약품 지정심의위원회가 판매 품목을 조정하는 방안을 논의했지만, 결론을 내지 못했다. 그 이후에는 해당 위원회가 열리지 않아 추가 논의가 제대로 이뤄지지 않고 있는 상태다. 정은경 보건복지부 장관은 “안전상비의약품 품목 확대를 희망하는 소비자 요구를 잘 알고 있다”면서도 “상비약 품목 확대는 소비자 편의성 증진과 사용 안전성을 균형 있게 고려해 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;현재 편의점 업계에서는 “현실에 맞게 제도를 보완해야 한다”고 주장한다. 농어촌 등 약국이 없는 취약 지역에서는 편의점이 ‘야간 약국’ 역할을 할 수 있는 만큼 판매 품목 등을 현실화해야 한다는 것이다. 또 의약품을 판매할 수 있는 편의점은 ‘24시간 영업점’으로만 제한하고 있는데, 농어촌 지역에선 편의점이 24시간 영업을 하지 않는 곳도 많은 만큼 관련 규제를 완화해야 한다는 목소리도 나온다.&lt;br&gt;&lt;br&gt;반면 현재 약사단체는 이 같은 편의점 판매 의약품을 확대할 필요성에 대해 강하게 반대하고 있다. “무분별하게 늘릴 경우, 자칫 의약품 오남용 우려가 커질 수 있다”는 것이다. 하지만 “편의점에서 의약품을 판매한 지 10년이 넘었는데 오남용으로 인한 부작용 사례는 나온 적이 없다”는 반론도 만만치 않다.&lt;br&gt;&lt;br&gt;해외의 경우, 우리나라보다 일반의약품 구매 장벽이 낮은 편이다. 미국에서는 30만개, 영국은 1500개, 일본은 930개 이상의 의약품이 약국이 아닌 곳에서 판매되고 있다. 미국이나 일본 등지에 여행을 간 우리나라 국민들이 현지에서 ‘약 쇼핑’을 할 수 있을 것도 이 때문에 가능한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 8일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/08/LLWC2QQKD5GT7AH7YOHNJNMMDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/08/LLWC2QQKD5GT7AH7YOHNJNMMDE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INTGJU2AOVGPRGKOOL57Z6N6C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
