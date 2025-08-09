@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전남 최대 102㎜ 누적강우…피해신고·교통통제도</title>
+      <link>https://www.chosun.com/national/regional/2025/08/10/VE2W7PWHCNDPHMXASZLWDLBL3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/10/VE2W7PWHCNDPHMXASZLWDLBL3M/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 09:26:09 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTVXWVR7TJCSRP6TCJJS6RYYPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방기상청 기상 통보문 레이더 영상 자료. /광주지방기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정체전선의 영향으로 전남 남해안에 최고 100㎜ 이상 비가 내리는 등 광주·전남 대부분 지역으로 호우특보가 확대될 것으로 보인다.&lt;br&gt;&lt;br&gt;9일 광주지방기상청에 따르면, 전남 완도·흑산도·홍도에 호우경보를 발효 중이다. 나주·화순·고흥·보성·여수·장흥·강진·해남·영암·무안·함평·목포·신안(흑산면 제외)·진도·거문도·초도 등에는 호우주의보가 발령됐다.&lt;br&gt;&lt;br&gt;이날 오후 5시 기준 누적 강수량은 완도 여서도 102㎜, 여수 초도 85.5㎜, 영암 학산 68.5㎜, 신안 흑산도 66.5㎜, 보성 63㎜, 강진 60.4㎜ 등이다.&lt;br&gt;&lt;br&gt;1시간 최대 강수량은 신안 하태도 39㎜, 완도 여서도 32.5㎜, 진도 상조도 29.5㎜, 영암 학산 26㎜ 등을 나타냈다.&lt;br&gt;&lt;br&gt;현재 전남 남해안에는 시간당 10㎜ 안팎, 광주와 그 밖의 전남 지역에는 5㎜ 안팎의 비가 내리고 있다.&lt;br&gt;&lt;br&gt;기상청은 10일 밤까지 광주와 전남에 50~100㎜(많은 곳은 전남 해안 150㎜ 이상, 광주·전남 내륙 120㎜ 이상)의 비가 더 내릴 것으로 예보했다.&lt;br&gt;&lt;br&gt;특히 9일 늦은 오후부터 10일 새벽 사이 전남 남해안을 중심으로 시간당 30~50㎜, 일부 지역은 70㎜ 안팎의 매우 강한 비가 쏟아질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;전남에서는 일부 피해가 신고가 접수되고, 교통통제도 이어졌다.&lt;br&gt;&lt;br&gt;이날 오후 4시 전후로 해남군 도로 침수와 토사 쌓임 신고 등 전남도에 2건의 피해 신고가 접수돼 지자체가 안전조치에 나섰다.&lt;br&gt;&lt;br&gt;전남지역 국립공원 5곳의 입산 등이 통제됐고, 여객선 3개 항로 5척의 운항도 멈췄다. 둔치 주차장 2곳, 공원·캠핑장 4곳, 하천변 2곳, 하상도로 1곳, 징검다리 1곳, 기타 6곳 등 전체 24곳의 접근도 통제 중이다.&lt;br&gt;&lt;br&gt;광양·구례·화순·무안·함평 등에는 36가구 47명의 주민이 피해 예방을 위해 사전 대피했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>中 대사관 인근서 ‘시진핑 얼굴’ 현수막 찢은 尹 지지단체 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/08/10/AEJQC6CURRDGNCYUNFX2TCUTUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/10/AEJQC6CURRDGNCYUNFX2TCUTUQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 09:36:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5K3O2KPBZX6ZEKTF7NYNNZIWAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 남대문경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 주한중국대사관 인근 집회에서 시진핑 국가주석 얼굴이 인쇄된 현수막을 찢은 혐의로 윤석열 전 대통령 지지단체인 자유대학 관계자를 입건해 수사 중이다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 최근 자유대학 측에 오는 11일 조사받으라는 출석요구서를 보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;자유대학은 지난달 22일 오후 8시쯤 서울 중구 주한중국대사관 인근에서 ‘부정선거 규탄·감시 집회’를 열고 대사관 측을 모욕한 혐의를 받는다. 이 단체는 집회 도중 시진핑 국가주석과 다이빙 주한중국대사 등의 얼굴이 인쇄된 중국 국기 현수막을 찢은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;형법 제108조는 한국에 파견된 외국사절에 대해 모욕을 가하거나 명예를 훼손한 자를 3년 이하 징역 또는 금고에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李대통령 “모든 산재 사망 직보하라”... 휴가 복귀 첫 지시</title>
       <link>https://www.chosun.com/politics/blue_house/2025/08/10/F5TNFVIB55HUJAFQRGSNUMZIXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/blue_house/2025/08/10/F5TNFVIB55HUJAFQRGSNUMZIXE/</guid>
@@ -924,15 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GROG3WI4JF57KWL24HFBFPTIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨와 통일교의 청탁 의혹과 관련해 한학자 총재의 비서실장을 지낸 '교단 2인자' 정모 천무원 부원장이 2025년 8월 8일 서울 종로구 KT광화문빌딩 입구에 도착해 김건희 특검팀(특별검사 민중기) 사무실로 향하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 ‘건진 법사’ 전성배씨를 통한 통일교 현안 청탁 및 권성동 국민의힘 의원 불법 정치자금 1억원 수수 의혹과 관련해 8일 통일교(세계평화통일가정연합) ‘2인자’로 불리는 정모씨를 소환했다. 정씨는 한학자 통일교 총재의 비서실장이자 통일교 최상위 행정조직인 천무원 부원장을 맡고 있다.&lt;br&gt;&lt;br&gt;이날 오전 9시 39분쯤 모습을 드러낸 정씨는 ‘권 의원에게 돈 얼마 줬느냐’ ‘김 여사 명품 선물 관여했나’ ‘한 총재 지시받고 한 거냐’ 등 질문에 모두 답하지 않고 조사실로 향했다.&lt;br&gt;&lt;br&gt;특검은 윤영호(구속) 전 통일교 세계본부장이 2022년 4~7월 전씨를 통해 김 여사에게 6000만원대 그라프 목걸이, 총 2000만원 샤넬백 2개 등을 건넸고, 여기에는 캄보디아 공적개발원조(ODA) 사업 등 현안 청탁을 위해 통일교 최상위층의 지시가 있었다고 보고 있다. 또 윤 전 본부장이 권성동 국민의힘 의원에게 2022년 1월 5일 건넨 1억원도 통일교 조직 차원의 정치자금 전달이라고 보고 특검은 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 정씨를 상대로 윤 전 본부장이 전씨에게 건넨 고가 명품과 권 의원에게 전달한 억대 현금에 통일교 교단 차원의 관여 정도, 자금 출처 등을 물을 것으로 보인다. 윤 전 본부장은 특검 조사에서 “윗선의 지시를 받아 한 일”이라고 진술했고, 특검도 관련자 진술 및 증거를 확보한 상태다. 특검은 정씨에 이어 한 총재도 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“인기척 없는 집안서 악취가”… 50대 독거남 살린 집배원의 촉</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/RH4ZE2VKJBBMBJCXWHOT4247UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/RH4ZE2VKJBBMBJCXWHOT4247UI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 01:12:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLZST6WZVJCMZEZNZ6USRSF7YY.png"&gt;&lt;figcaption&gt;&lt;small&gt;의식을 잃고 쓰러진 독거 남성을 구한 김재현 집배원. /안동시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동시에서 한 집배원이 의식을 잃고 쓰러진 독거 남성을 발견해 구조한 사연이 전해졌다. &lt;br&gt;&lt;br&gt;7일 안동시에 따르면, 도산우체국 소속 김재현 집배원은 지난달 31일 소포를 전달하기 위해 독거 남성 A(57)씨 집에 방문했다가 생명을 구하게 됐다. &lt;br&gt;&lt;br&gt;당시 김씨는 여러 차례 집 문을 두드려도 응답이 없고 내부에서 악취가 나 이상 징후를 느꼈다. 이전 소포 배달 시 A씨와 눈을 맞추고 대화도 해봤던 터라 더욱 평소와 다른 느낌을 감지했다고 한다. 이에 김씨는 창문을 통해 집안을 살피던 중 방 안에서 A씨가 쓰러진 것을 발견했다. &lt;br&gt;&lt;br&gt;김씨는 즉시 119에 신고했고, A씨는 병원 중환자실로 옮겨졌다. 알고 보니 A씨는 당뇨 합병증을 앓고 있었으며, 발견 당시 자가 호흡이 어려운 위중한 상태였다고 한다. 김씨의 발견과 대처가 없었다면 그대로 방치될 수 있는 상황이었던 것이다. A씨는 현재 생명에 지장이 없는 상태로 병원에서 입원 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨가 A씨 집에 방문하게 된 건 지난 2일부터 안동시와 안동우체국이 체결한 업무협약을 바탕으로 시행 중인 ‘안부 살핌 우편 서비스’ 일환에서였다. 이 사업은 관내 사회적 고립 가구를 대상으로 집배원이 월 2회 생필품을 전달하면서 안부와 건강 상태를 확인하고 위기 상황 발생 시 신속히 대응하는 복지 서비스를 연계하는 게 목적이다. &lt;br&gt;&lt;br&gt;김씨는 “7월 첫 방문 때는 눈을 맞추며 대화를 나눴는데, 두 번째 방문에서는 아무 기척이 없어 평소와 다르다는 느낌을 받았다”며 “작은 관심이 생명을 살릴 수 있어 다행이고, 앞으로도 안부 살핌에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;권기창 안동시장은 “세심한 관찰력과 빠른 판단으로 귀중한 생명을 살린 김재현 집배원께 깊은 감사를 드린다”며 “앞으로도 고립 가구를 위한 촘촘한 복지 안전망 구축에 더욱 힘쓰겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</guid>
@@ -970,15 +979,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INTGJU2AOVGPRGKOOL57Z6N6C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“야구장서 시작된 인연, ‘만루 홈런’ 같은 네쌍둥이 찾아왔죠”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/08/08/QTQNMMDEHJEOFG7LY6CVXEYLGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/08/QTQNMMDEHJEOFG7LY6CVXEYLGM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7QKMYNT45AF7FSC4LKLKIRAU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 정재룡(왼쪽)·가미소 부부가 네쌍둥이 남매를 안고서 활짝 웃고 있는 모습. 앞줄 맨 왼쪽부터 첫째 서하, 둘째 시하, 셋째 도하, 넷째 율하. 야구장에서 처음 만나 결혼을 하게 된 두 사람은 "아이가 한 번에 네 명이 생겼다. 만루 홈런을 친 것"이라고 했다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에 사는 정재룡(37)·가미소(34)씨는 7년 전 야구장에서 처음 만나 결혼에 성공한 부부다. 당시 두 사람이 응원하던 한화이글스가 LG트윈스에 4대12로 패해 기운이 쭉 빠지긴 했지만, 서로에게 호감을 갖게 되면서 연애를 시작했다. 결혼할 땐 청첩장에 ‘야구장에서 만난 우리. 서로에게 역전 만루 홈런 같은 행복이 되었습니다’라고 적기도 했다. 만루 홈런은 1·2·3루에 모두 주자가 있는 상태에서 타자가 친 홈런을 말한다. 성공하면 4점을 낼 수 있다.&lt;br&gt;&lt;br&gt;지난 1일 만난 아내 가씨는 “우리 부부는 아이가 한 번에 네 명이 생겼다. 만루 홈런을 쳤다”면서 웃었다. 부부는 작년 9월 네 쌍둥이 남매인 서하(아들)·시하(딸)·도하(아들)·율하(딸)를 품에 안았다. 네 아이 모두 개성이 다른 이란성이다. 남편 정씨는 “감정이 풍부하고 섬세한 첫째, 호기심 많은 둘째, 애교가 넘치는 셋째, 막내 티가 나서 귀여운 넷째와 하루하루 행복하게 지내고 있다”고 했다.&lt;br&gt;&lt;br&gt;애초 부부의 자녀 계획은 ‘0’명이었다고 한다. 아내 가씨는 “내가 누군가의 엄마가 된다는 게 상상이 안 되더라”며 “아이 키울 때 돈도 많이 들고 손도 많이 가니까 아이를 낳을 생각이 없다는 걸 먼저 밝히고 결혼했다”고 말했다. 그런 아내의 마음을 바꾸게 만든 건 남편의 행동이었다. 집안일 중 요리를 제외한 나머지 설거지, 청소, 침구 정리, 빨래 등은 남편이 도맡았다. 가씨는 “이런 모습을 3년간 한결같이 보여주니, ‘정말 가정적인 사람이구나, 아이 낳아도 괜찮겠다’는 생각이 들었다”고 했다. 남편 정씨는 “아빠로서 얼마큼 준비돼 있는지 보여준 게 우리가 아이를 잘 키울 수 있다는 자신감을 준 것 같다”고 했다. &lt;br&gt;&lt;br&gt;그리고 얼마 지나지 않아 가씨가 임신했다. 시험관 시술이나 인공수정은 아니었다. 부부는 처음 병원에서 “배아가 3개 보인다고 해 세 쌍둥이로 생각했다”고 한다. 하지만 그다음 주 진료 땐 ‘네 쌍둥이일 수 있다’는 안내를 받았다. 남편은 “당시 의사 선생님이 화면을 보여주면서 ‘하나, 둘, 셋, 넷’ 숫자를 세는데 이게 무슨 일인가 싶었다”고 했다. &lt;br&gt;&lt;br&gt;아내 가씨에게 ‘네 쌍둥이 출산이 무섭지 않았냐’고 물었더니 “주변에서 네 쌍둥이를 접해 보지 않아 어떤지 잘 몰랐다”면서 “모르니까 크게 무섭지 않았다”고 했다. 네 쌍둥이는 임신 기간 동안 가씨를 크게 걱정시키지 않았다. 배가 불러올수록 화장실을 자주 가고, 똑바로 누워 잘 수 없는 건 힘들었지만 다른 부분은 크게 어렵지 않았다고 한다. 다태아는 임신 호르몬이 더 많이 나와 입덧이 심할 수 있음에도 가씨는 못 먹는 음식이 거의 없었다. 또 다태아는 이른둥이가 많은데, 네 쌍둥이는 목표했던 30주보다 한 달 더 뒤인 34주까지 엄마 뱃속에서 건강하게 머물러줬다. 남편은 “보통 네 쌍둥이 엄마들은 배가 너무 무거워서 휠체어를 타고 다니기도 한다”며 “그런데 아내가 30주가 넘어서도 진료실에 아무렇지 않게 걸어 들어가니까 병원에서도 많이 놀라더라. 아이들이 엄마 고생 안 하게 도와준 거 같다”고 했다.&lt;br&gt;&lt;br&gt;육아로 매일이 전쟁 같긴 해도, 스트레스가 크지 않다고 한다. 부부는 “아이들의 조부모와 회사 동료 및 상사들 덕분”이라고 했다. 현재 남편 정씨는 근무 중인 LX하우시스에서 5000만원, 구본준 LX홀딩스 회장에게 1억원을 출산 격려금으로 받았다. 또 LX하우시스는 교대 근무를 하던 정씨를 주간 근무가 가능한 부서로 이동할 수 있게 배려해줬고, 바자회를 열어 모은 돈으로 아기들 침대와 책 등 육아용품을 선물로 주기도 했다. 정씨는 “아이들이 주변에서 정말 많은 사랑과 도움을 받았다고 생각한다”며 “아이들이 커서 그만큼 베풀 수 있는 사람이 됐으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;주변에서 네 쌍둥이와 부부를 향한 따뜻한 시선도 큰 힘이 된다고 했다. 아내 가씨는 “육아는 한 인간을 키워내는 굉장히 어려운 일인데도 불구하고 노고를 인정받지 못할 때 산후 우울증이 온다”며 “저는 네 쌍둥이여서 ‘잘하고 있다’는 칭찬을 많이 받아 우울감이 없는 것 같다. 우리 사회가 아이 한 명을 키우는 부부들에게도 그렇게 격려해주면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;부부는 “아이들을 보고 있으면 누구는 울고, 누구는 기어 다니느라 정신이 없다”면서도 “조금 더 크면 함께 야구장에 가고 싶다”고 했다. 부부는 네 쌍둥이 각자의 이름과 숫자 24가 박힌 주황색 한화이글스 유니폼도 마련했다. 가씨는 임신 기간 동안 야구장에 못 가는 대신 유튜브 ‘이글스티비’에 올라오는 선수들 영상, 한화이글스가 승리한 경기 하이라이트 장면들을 주로 봤다. 그래서인지 야구 경기를 틀어주면 아이들이 집중해서 잘 본다고 한다. 남편 정씨는 “네 쌍둥이는 저게 홈런인지 안타인지 모르지만 관중이 환호하고 박수치는 소리와 그 분위기를 좋아하는 것 같다”며 “6연석(붙어 있는 자리 6개)이 가능할지 걱정인데, 아이들과 같이 야구 보러 가는 날이 언제가 될지 기대된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
