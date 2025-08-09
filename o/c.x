@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘신호위반’ 배달 오토바이에 7세 깔려…”사과 없이 담배만” 부모 분통</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/10/4E4WSHJZEREY7MRUSUG64QBVDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/4E4WSHJZEREY7MRUSUG64QBVDI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 05:10:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWISJFARHPNGKJEYNMLKHU277I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도심 누비는 배달 오토바이. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉시에서 횡단보도를 건너던 7세 어린이가 신호를 위반한 배달 오토바이에 치이는 사고가 발생했다. 피해자의 부모는 사과도 하지 않는 운전자의 태도에 분통을 터뜨리며 경찰의 신속한 수사와 오토바이 운전자들의 신호 준수를 촉구했다. &lt;br&gt;&lt;br&gt;9일 소방당국과 경찰 등에 따르면 사고는 지난 5일 오후 2시 23분쯤 강릉시 내곡동 한 사거리에서 발생했다. 횡단보도를 건너던 A(7)양은 20대 B씨가 몰던 배달 오토바이에 치여 얼굴과 팔, 다리에 찰과상과 골절 등 중상을 입었다. 소방 헬기를 타고 원주시 한 대형 병원으로 옮겨진 A양은 다행히 수술을 잘 마치고 회복 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A양 가족은 피서철을 맞아 강릉에 놀러 왔다가 변을 당했다. A양 부모는 연합뉴스에 “명백히 초록불일 때 저희 가족이 횡단보도를 건너고 있었다”며 “초록불 신호가 얼마 남지 않아 급히 가고 있는데 오토바이가 당시 시속 약 40~50㎞ 속도로 아이를 들이받으며 오토바이에 깔렸다”고 당시 상황을 설명했다. 이어 “오토바이 운전자가 ‘신호가 곧 바뀌니 빨리 건너’라는 식으로 내달리면서 제 뒤를 따라오던 아이를 못 본 것 같다”며 “사고 이후 아무런 조치 없이 담배나 피우던 모습은 다시 생각해도 화가 난다”고 했다. &lt;br&gt;&lt;br&gt;A양 측에 따르면 오토바이 운전자는 책임보험밖에 가입하지 않아 최대 50만원까지만 보상받을 수 있다. 아직 입원 중으로 정확한 치료비는 나오지 않았지만, 50만원을 제외한 나머지 금액은 A양 측에서 처리해야 한다. &lt;br&gt;&lt;br&gt;A양 부모는 “(운전자가) 신호 위반과 횡단보도 침범 등으로 형사 처벌을 받을 수 있다고 하지만 처벌이 약하다고 느껴진다”며 “사고 이후 가해자로부터 아무런 사과나 연락도 없다. 합의 없이 최대한 처벌받길 원한다”고 했다. 그러면서 “오토바이 배달 기사들이 신호를 무시하고 건너는 모습들을 워낙 흔하게 보다 보니 위험하다고 생각했는데, 막상 우리 아이가 겪고 나니 도저히 가만히 있을 수 없다”며 신호 준수 필요성을 강조했다. &lt;br&gt;&lt;br&gt;경찰은 운전자 B씨를 교통사고처리 특례법상 치상 혐의로 입건해 정확한 사고 경위와 과실 여부 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 가평 폭우 실종자 수색 현장서 남성 시신 1구 발견</title>
+      <link>https://www.chosun.com/national/regional/2025/08/10/CCJT4XJYEBHKNFWOEWXRCPHWMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/10/CCJT4XJYEBHKNFWOEWXRCPHWMI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 05:07:28 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“전 남자친구 사는 곳”…아파트 착각해 불 지른 30대 여성 집행유예 </title>
       <link>https://www.chosun.com/national/incident/2025/08/10/AH3CULTXJ5HWDOMS5KU4BPCTT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/10/AH3CULTXJ5HWDOMS5KU4BPCTT4/</guid>
@@ -937,15 +955,6 @@
       </media:content>
     </item>
     <item>
-      <title>[핫코너] 2030 퇴사자 워킹 홀리데이 늘자, 대학생들 해외서 찬밥 신세</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/5NYUB6MFGJA5RC42ETGKKRNZIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/5NYUB6MFGJA5RC42ETGKKRNZIE/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 대학생 박모(21)씨는 작년 말 호주 브리즈번으로 떠난 지 두 달 만에 한국으로 돌아왔다. 대기업에 원서를 내기 전 영어 실력을 늘려보려고 1년짜리 ‘워킹 홀리데이(단기간 관광·취업 병행 제도)’ 비자를 받아 호주에 도착했다. 그런데 현지 미용실·식료품 공장·일식당 어느 곳에서도 답이 오지 않았다. 한국 회사에서 일하다가 그만둔 30대 초반 ‘선배’들이 이미 바글바글했다. 박씨는 “도착해 보니 취직 경험이 있는 열 살 많은 오빠·언니들이 알바 자리를 다 차지하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;해외에서 단기간 일하면서 현지 문화도 체험할 수 있는 워킹 홀리데이 참가자들의 나이가 갈수록 늘고 있다. 자기 성장, 성과 기반 보상을 중시하는 젊은 층이 조기 퇴사한 뒤 이직의 발판으로 삼겠다며 워킹 홀리데이를 택하는 경우가 급증하고 있기 때문이다. 인요한 국민의힘 의원실을 통해 본지가 7일 확보한 자료에 따르면, 2020년 호주행 비자를 발급받아 호주로 떠난 30대는 523명이었다. 그런데 4년 뒤인 작년엔 4배인 2095명으로 증가했다. 호주는 전 세계 국가 중 한국과 처음으로 워킹 홀리데이 협정을 체결했다. 워킹 홀리데이 명목으로 비자를 발급받아 전 세계 곳곳으로 떠난 30대 비율도 2020년 9%에서 작년 13%로 늘었다. &lt;br&gt;&lt;br&gt;박씨와 달리 28세 류모씨는 작년부터 호주 브리즈번에서 ‘투잡’을 뛰고 있다. 평일에는 식료품 공장, 주말에는 카페에서 일한다. 류씨는 취직 1년 만에 퇴사하고 이곳을 찾았다. 이직하기 전 공백이 있으면 다른 회사 취직이 쉽지 않아 이력서에 한 줄 더 보태려고 호주로 왔다. 이전부터 이력서 작성에는 이골이 나 있었다. 몇 번 면접을 보고 바로 채용됐다. 류씨는 “한국어나 영어나 취직 준비는 비슷했다”며 “원래 써놨던 이력서를 조금씩 바꿔 내는 건 별일이 아니었다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘워홀러(워킹 홀리데이 참가자)’ 나이가 갈수록 높아지는 건 20~30대의 조기 퇴사가 늘고 있기 때문이다. 고용노동부 등에 따르면, 2023년 대기업 신입 사원의 16.1%가 입사 후 1년 이내 퇴사하는 것으로 나타났다. 워킹 홀리데이 알선 업체 관계자는 “이전 세대보다 퇴사를 편하게 생각하는 2030 세대가 회사를 그만둔 뒤 이직 전 워킹 홀리데이를 찾는 경우가 늘고 있다”고 했다. &lt;br&gt;&lt;br&gt;원래 워킹 홀리데이 비자 신청 가능 연령은 최대 30세까지다. 그런데 덴마크나 독일은 워킹 홀리데이 비자 신청 가능 연령을 최근 34세로 확대했다. 회사 취직 경험이 있는 30대들이 ‘우리도 젊다. 일할 기회를 달라’고 정부에 항의하자 정부가 이 국가들과 협의한 결과다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞워킹 홀리데이&lt;/b&gt;&lt;br&gt;&lt;br&gt;만 18~30세 청년에게 특별 비자를 발급해 협정을 맺은 외국에서 최대 1년간 체류하면서 단기 취업과 관광을 자유롭게 할 수 있도록 허용하는 제도. 현재 호주, 캐나다, 뉴질랜드, 일본 등 26국과 워킹홀리데이 협정을 맺고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[어떻게 생각하십니까] 편의점서 파는 약, 13년째 4종류뿐 “아이가 배 아픈데 밤새 발만 동동”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/08/5PNEPMBESNFDJJ72IVDDJEHF4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/08/5PNEPMBESNFDJJ72IVDDJEHF4E/</guid>
@@ -953,16 +962,6 @@
       <description/>
       <pubDate>Thu, 07 Aug 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE33ZEZ37BF45A24JUVYTI7MUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 충청도의 한 리조트로 온 가족이 휴가를 갔던 직장인 정모(33)씨는 난감한 일을 겪었다. 저녁 식사를 한 뒤 아이가 갑자기 열이 났는데, 어린이용 해열제를 구하지 못한 것이다. 정씨는 “편의점에서 상비약을 파는 걸로 알고 리조트 내 편의점에 갔는데, 그곳에선 약을 팔지 않았다”며 “밤새 발만 동동 구르다 이튿날 아침 차로 10분 거리에 있는 약국에 가서 약을 사왔다”고 했다. &lt;br&gt;&lt;br&gt;얼마 전 아이를 데리고 강원도 고향집을 찾았던 이모(42)씨도 “밤에 자고 있던 아이가 갑자기 배가 아프다고 깨서 설사 증세를 보였다”며 “너무 늦은 시간이어서 급한 대로 편의점에 갔는데 해열제나 소화제만 있고 지사제는 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LVCOP4HABE77LBQTMMKS4YAOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해열제와 소화제 등을 편의점에서 구입할 수 있도록 한 안전상비의약품 제도를 정비해야 한다는 지적이 나오고 있다. 당초 안전상비의약품 제도는 지난 2012년 약국이 문을 닫는 공휴일이나 심야 시간에 급하게 약이 필요한 환자들의 불편을 해소한다는 취지로 도입됐던 것이다. 현재 판매되는 항목은 해열·진통제 3종, 감기약 2종, 소화제 4종, 파스 2종 등 11개다. 당초 13개가 지정됐지만, 어린이용 타이레놀 알약 등 진통제 중 2개 제품은 현재 생산이 중단돼 구매할 수도 없다. 여기에 지사제나 제산제, 알레르기약, 상처·화상연고 등은 빠져 있어 “급하게 필요한 약을 구하기 어렵다”는 불만도 제기된다.&lt;br&gt;&lt;br&gt;판매 항목은 가벼운 증상에 쓸 수 있는 일반의약품 중 20개 이내로 보건복지부 장관이 지정하도록 돼 있지만, 편의점 판매 의약품은 이 제도 도입 이후 늘어난 적이 없다. 비록 2017년과 2018년에 안전상비의약품 지정심의위원회가 판매 품목을 조정하는 방안을 논의했지만, 결론을 내지 못했다. 그 이후에는 해당 위원회가 열리지 않아 추가 논의가 제대로 이뤄지지 않고 있는 상태다. 정은경 보건복지부 장관은 “안전상비의약품 품목 확대를 희망하는 소비자 요구를 잘 알고 있다”면서도 “상비약 품목 확대는 소비자 편의성 증진과 사용 안전성을 균형 있게 고려해 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;현재 편의점 업계에서는 “현실에 맞게 제도를 보완해야 한다”고 주장한다. 농어촌 등 약국이 없는 취약 지역에서는 편의점이 ‘야간 약국’ 역할을 할 수 있는 만큼 판매 품목 등을 현실화해야 한다는 것이다. 또 의약품을 판매할 수 있는 편의점은 ‘24시간 영업점’으로만 제한하고 있는데, 농어촌 지역에선 편의점이 24시간 영업을 하지 않는 곳도 많은 만큼 관련 규제를 완화해야 한다는 목소리도 나온다.&lt;br&gt;&lt;br&gt;반면 현재 약사단체는 이 같은 편의점 판매 의약품을 확대할 필요성에 대해 강하게 반대하고 있다. “무분별하게 늘릴 경우, 자칫 의약품 오남용 우려가 커질 수 있다”는 것이다. 하지만 “편의점에서 의약품을 판매한 지 10년이 넘었는데 오남용으로 인한 부작용 사례는 나온 적이 없다”는 반론도 만만치 않다.&lt;br&gt;&lt;br&gt;해외의 경우, 우리나라보다 일반의약품 구매 장벽이 낮은 편이다. 미국에서는 30만개, 영국은 1500개, 일본은 930개 이상의 의약품이 약국이 아닌 곳에서 판매되고 있다. 미국이나 일본 등지에 여행을 간 우리나라 국민들이 현지에서 ‘약 쇼핑’을 할 수 있을 것도 이 때문에 가능한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김창완 밴드, 뉴욕서 K뮤직 콘서트</title>
-      <link>https://www.chosun.com/national/people/2025/08/08/OWWH5FCE7ZBHFPV2O4EW4QTZXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/08/OWWH5FCE7ZBHFPV2O4EW4QTZXU/</guid>
-      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OQBLBBYVRF2JO5NBHG4K4ZCOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김창완밴드가 6일 뉴욕 링컨센터 댐로쉬파크에서 열린 'K-뮤직 나이트'에서 공연을 했다.
-/뉴욕한국문화원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“K팝의 원동력을 우리가 이미 발견했다고 단정할 필요 없어요. 아직 모르기 때문에 여러 시도를 하다 보면 K팝과 K록이 세계에서 더 큰 인기를 얻을 수 있다고 생각합니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPNHLTZDBZEMBJU3IWY5BHCZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴욕 한국문화원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 데뷔 48년을 맞는 가수 김창완이 6일 미국 뉴욕 한국문화원에서 기자 간담회를 열고 이렇게 말했다. 그는 이날 밤 뉴욕 링컨센터에서 열린 ‘K뮤직 나이트’ 공연에 앞서 K팝의 정체성과 미래에 대해 생각을 밝혔다. 1977년 밴드 산울림 1집 ‘아니 벌써’로 데뷔해 ‘내 마음에 주단을 깔고’ ‘개구쟁이’ 등 히트곡을 남긴 김창완은 K팝의 저변에 깔린 강점으로 ‘한글의 힘’을 꼽았다. 그는 “일본 팬 중에는 산울림 음악 때문에 한글을 배우기 시작했다는 분도 많다”면서 “한글의 위대함을 되새기지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이날 공연에서 그가 이끄는 ‘김창완밴드’는 ‘아니 벌써’ ‘기타로 오토바이를 타자’ 등과 같은 명곡을 쏟아 내 관객들의 환호성을 자아냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 8월 8일</title>
