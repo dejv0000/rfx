@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>지게차에 묶어서 학대…고용부 ‘폭행’, ‘직장 내 괴롭힘’ 판단</title>
+      <link>https://www.chosun.com/national/labor/2025/08/11/R2VY3HN3OFG5VMWSBBMLDEZXI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/11/R2VY3HN3OFG5VMWSBBMLDEZXI4/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:41:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WR4C5ASEGNSTN6LZ4ZMKWVWZ2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주시의 한 벽돌공장에서 지게차 운전자 등이 스리랑카 출신 외국인 노동자를 괴롭히는 모습 /전남이주노동자인권네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스리랑카 출신 외국인 노동자를 지게차에 결박해 괴롭힌 ‘전남 나주 벽돌공장 사건’과 관련해 고용노동부가 근로기준법상 ‘폭행’과 ‘직장 내 괴롭힘’에 해당한다는 판단을 내렸다.&lt;br&gt;&lt;br&gt;고용부는 10일 이 사건 가해자로 지목된 지게차 운전자 A씨를 근로기준법상 폭행 혐의 등으로 입건했다는 내용 등을 담은 근로감독 실시 결과를 발표했다. 앞서 지난 2월26일 이 벽돌공장에서 내국인 직원들이 외국인 노동자를 비닐로 지게차에 결박한 뒤 이를 매단 채 지게차를 이동하는 모습 등이 영상으로 공개되며 공분을 샀다.&lt;br&gt;&lt;br&gt;고용부는 결박 등의 행위가 물리력을 사용한 폭행 행위에 해당한다고 보고 근로기준법상 폭행 혐의를 적용했다. 근로기준법은 ‘사용자’가 ‘근로자’를 폭행할 경우 5년 이하의 징역 또는 5000만원 이하의 벌금에 처하게 하고 있어, 형법상 폭행보다 처벌 수위가 높다. 근로기준법은 사용자를 ‘사업주를 위해 행위하는 자’까지 포함하기 때문에, 근로자 신분인 A씨에게도 근로기준법상 폭행 혐의가 적용됐다. 직장 내 괴롭힘 행위에 대해서는 과태료 부과 조치가 내려졌다.&lt;br&gt;&lt;br&gt;고용부는 또 재직자 및 퇴직자 21명(외국인 8명 포함)에게 법정 수당을 지급하지 않는 등 총 2900만원의 임금 체불도 적발했다고 밝혔다. 여기에는 이번 피해 노동자에 대한 체불(연장·휴일근로수당 25만원) 뿐 아니라 장시간 근로, 근로 조건 미 명시 등 12건의 법 위반 사항이 포함됐다. 이 업체는 최대 3년 동안 이주노동자 고용 허가가 제한된다. 고용부 관계자는 “노동관계법령 위반 사항에 대해서는 시정 지시를 통해 사업장 내 다른 내·외국인 노동자들의 권리도 함께 구제받도록 할 계획이며, 기한 내 시정하지 않을 경우에는 범죄인지 해 사법 절차를 밟을 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>업무방해 전과 수십건 70대 男, “내가 고려 왕건” 고함치고 경찰서에서 오줌 누다 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/IROFK5DUMVAAVP2D37VINAROSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/IROFK5DUMVAAVP2D37VINAROSI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:59:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSWGIQWNJM2H2DFCUOEONYM2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취한 상태로 자신이 고려 태조 왕건이라며 고함을 지르고 경찰서에서 난동을 부린 70대 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사4단독 이창열 판사는 업무방해, 경범죄처벌법 위반 혐의로 기소된 70대 남성 A씨에게 지난 6월 27일 징역 6개월과 벌금 60만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 서울 도봉구의 한 중식당에서 만취해 “내가 왕건이다. XX놈아”라고 고함을 치고 다른 손님에게도 시비를 건 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨가 약 20분 동안 소란을 피우자 내점한 손님은 가게를 떠났고, 그는 현행범으로 체포됐다. A씨는 서울 도봉경찰서에 인치된 후에도 “내가 조선의 왕건이다, 내가 오야붕(두목)이다”라고 고성을 지르고 당직실 바닥에 소변을 누는 등 약 1시간 21분가량 소란을 피웠다. &lt;br&gt;&lt;br&gt;A씨는 지난해 6월 서울중앙지법에서 업무방해죄로 징역 4개월을 선고받아 복역하는 등 동종 전과 수십개가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 동종 범죄로 실형을 포함해 수십 차례 처벌받은 전력이 있는 데다 누범 기간 중에 자숙하지 않고 또다시 술에 만취해 범행을 저지른 점에 비춰 그 죄책이 매우 무겁고 비난 가능성이 크다”며 “이 같은 사정을 고려하면 엄히 처벌하는 것이 불가피하다”고 양형 이유를 밝혔다. 재판부는 “다만 피고인이 범행을 인정하고 반성하는 태도를 보이는 점, 행사한 유형력의 정도가 아주 중한 편은 아닌 점 등은 유리한 정상”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이번 주, 전국 곳곳 비...체감 31도 이상 무더위도 계속 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/11/7ABFAPJZYJGJNI2RRETUUANZ5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/11/7ABFAPJZYJGJNI2RRETUUANZ5M/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:58:16 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3AJ76WPWLVOSHKB326AWLS5PNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일요일인 10일 제주지역이 흐리고 무더운 날씨를 보인 가운데 제주시 조천읍 함덕해수욕장에서 피서객들이 물놀이를 즐기고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 11일 전국이 대체로 흐리고 곳곳에 비가 내리겠다. 정체전선이 점차 북상하며 13~14일엔 중부 지방에도 비가 내릴 가능성이 크다. 잠시 주춤하는 듯 했던 더위 역시 체감 온도가 31도 이상으로 오르며 무더운 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 11~12일 이틀간 예상 강수량은 전남 해안·부산·경남 남해안·제주도 20~80㎜, 광주·전남 내륙·울산·경남 내륙 10~60㎜, 전북 남부· 대구·경북 남부엔 5~40㎜의 비가 내리겠다. 경기 내륙과 강원 내륙·산지, 충청권 내륙에는 5∼40㎜의 소나기가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;월요일 아침 최저기온은 19~25도, 낮 최고기온은 26~32도로 예보됐다. 서울이 24~32도, 대전 23~30도, 광주 24~28도, 대구 21~29도, 부산 24~28도를 기록하겠다.&lt;br&gt;&lt;br&gt;수요일인 13일엔 정체전선이 다시 북상하며 비가 전국으로 확대될 것으로 보인다. 이번 장마는 북태평양 고기압이 한반도를 덮고 있다가 흩어진 뒤 다시 확장해 정체전선이 형성된 데 따른 것으로, 전형적인 여름철 장마의 모습이라는 분석도 나온다. 광복절을 전후로 전국이 고기압 영향권에 들면서, 폭염은 다시 강화될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신입생 충원 압박에 아내 허위 입학시킨 교수…법원 “해임은 지나쳐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/11/AEBCSIKJNBDSXGQRQEJ2MI4D7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/11/AEBCSIKJNBDSXGQRQEJ2MI4D7E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:16:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTMY3GW5726I3LHESU63A5FQFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아내와 처제를 허위로 입학시켜 신입생 충원율 조작에 가담한 교수를 대학이 해임한 것은 과도하다는 1심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 서울행정법원 행정9부(재판장 김국현 법원장)는 최근 김포대학교가 교원소청심사위원회의 ‘A교수 해임을 취소하라’는 결정에 불복해 낸 소송에서 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;이 사건은 경기 김포시에 있는 2·3년제 전문대인 김포대의 2020학년도 수시모집 결과 신입생 정원 1294명 중 206명이 미달한 것이 발단이 됐다.&lt;br&gt;&lt;br&gt;신입생 미달로 교육부에서 재정 지원을 받기 위한 ‘2021년 대학 기본역량 진단 기본계획’ 기준을 맞추지 못할 위기에 처하자 학교법인 이사장과 총장 등은 교수들에게 신입생 충원율 100%를 달성할 수 있도록 해달라고 독려했다.&lt;br&gt;&lt;br&gt;특히 교학부총장은 학과별 면담 일정을 잡아 교수들에게 신입생 충원 방안을 제시하라고 하고 “남자 교수가 있는 학과는 무조건 100%를 달성해야 한다”고 말하며 압박한 것으로 조사됐다. 또 교학처 학생팀장은 입학 의사가 없는 사람을 신입생으로 등록한 뒤 나중에 자퇴시키는 방식의 허위 모집을 학부별로 지시하기도 했다.&lt;br&gt;&lt;br&gt;이에 당시 학부장이었던 A교수는 2020년 2월 말 자신의 배우자와 처제를 입학시켜 등록금을 납부했다가, 학기 초에 자퇴하게 한 뒤 등록금을 돌려받아 신입생 충원율 높이기에 가담했다.&lt;br&gt;&lt;br&gt;이후 허위 입학이 대학 내부에서 문제가 제기되자 김포대는 2020년 3월 자체 감사단을 꾸려 특별감사를 실시했다. 신입생 1294명 중 자퇴한 136명이 허위 입학생이었다는 사실이 확인되자, 감사단은 A교수 등 감사 과정에 제대로 응하지 않은 교원 16명에게 조치가 필요하다는 감사의견을 냈고, 대학 징계위원회는 A교수에 대해 해임을 의결·통보했다.&lt;br&gt;&lt;br&gt;A교수는 교육부 소청심사위에 해임 처분을 취소하거나 징계 수위를 감경해달라고 청구했다. 소청심사위는 이를 받아들여 “해임 사유는 인정되지만 A교수는 신입생 충원에 대한 교학부총장과 입학팀의 요구를 적극적으로 거부할 수 없었다고 보인다”며 해임을 취소하는 결정을 내렸다. &lt;br&gt;&lt;br&gt;이에 김포대가 소청심사위를 상대로 행정소송을 냈지만 법원도 A교수 손을 들어준 것이다. 재판부는 “김포대 신입생 허위 모집은 학교 차원에서 반복적으로 독려하고 압박한 것으로 광범위하고 상당히 일사불란하게 이뤄졌다”며 “지시에 따라 행한 비위행위를 오로지 개인에게만 돌리는 것은 부당하다”고 했다. 또 “A교수보다 많은 인원의 허위 입학에 관여했음에도 해임보다 가벼운 징계를 받은 교수들이 상당수 있다”며 “A교수에 대한 해임 징계는 비례 원칙을 위반하고 징계 형평을 잃은 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다툼 끝에 여자친구 살해한 40대, 항소심서 징역 20년</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/11/MLRKD6VFJZCKTMKAVQCKGRG6FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/11/MLRKD6VFJZCKTMKAVQCKGRG6FA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:33:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEONNL5P2FATE6IJ2JWQHXZ6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금전 문제로 다투다 여자친구를 흉기로 살해한 40대 남성이 2심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이승한)는 살인 혐의로 기소된 김모(42)씨에게 1심과 같이 징역 20년을 선고했다. 재판부는 “김씨가 저지른 살인 범행은 어떤 이유로도 정당화될 수 없다”며 “피해자 유족들에게 용서받지 못했을뿐 아니라 유족들이 엄벌을 탄원하고 있다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 지난해 11월 26일 은평구 갈현동의 한 다세대 주택에서 여자친구와 금전 문제로 다툼을 벌이다 흉기로 수차례 찔러 살해한 혐의를 받는다. 그는 범행 후 극단적 선택을 시도했고, 의식을 잃기 전 경찰에 직접 신고한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;지난 4월 1심은 “범행의 구체적 수법과 피해 정도를 비춰보면 범행 수법이 잔혹하고 결과 또한 매우 중대하다”며 징역 20년을 선고했다. 김씨가 형이 너무 무겁다며 항소했지만 2심 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연인 간 일회성 폭행도 선제 개입… 경찰, ‘교제폭력 매뉴얼’ 첫 도입</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/XWJ4JCSYBVDMRO7HLXKLHGZI54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/XWJ4JCSYBVDMRO7HLXKLHGZI54/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 04:26:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QG5DPTJTHB4SORYHFJXGRMGQVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연인끼리 식당에서 밥을 먹던 중 남성이 여성의 이성 관계를 의심하며 상대 휴대전화를 가져가 문자 내용을 확인했다. 다른 남성과 연락을 주고받았다는 이유로 남성이 테이블 위 물통을 들고 여성을 때릴 듯 위협했고, 옆 테이블 목격자는 이를 112에 신고했다. 하지만 여성은 사건 접수 후 “남자 친구가 사과해서 처벌을 원하진 않는다”며 “그 후로 잘 만나고 있다”고 진술했다. 경찰은 그간 이런 사건이 접수되면 쉽게 대응하지 못했다. 연인 관계에서 벌어지는 교제 폭력에 대해 어떤 법을 어떻게 적용할지에 대한 일관된 대응 지침이 없었기 때문이다. 하지만 앞으로는 피해자가 가해자 처벌을 원치 않거나 계속 교제하는 경우에도 경찰이 선제 개입해 피해자와 가해자를 분리하는 등 피해자 보호에 적극 나서기로 했다.&lt;br&gt;&lt;br&gt;경찰청은 교제 폭력 사건에 직권으로 개입하고 피해자를 적극 보호하기 위한 ‘교제 폭력 대응 종합 매뉴얼’을 처음 제작해 일선 현장에 배포했다고 10일 밝혔다. 새 매뉴얼은 단계별로 교제 폭력 징후를 구체화하고, 스토킹 처벌법의 실질적 활용 방안을 제시함으로써 피해자의 비협조 상황에서도 즉시 피해자 보호 조치 적용이 가능한 내용으로 구성됐다. 최근 5월 화성 동탄, 6월 대구 성서, 7월 대전 교제 살인 등 교제 폭력이 강력 범죄로 이어지면서 긴급 대책을 마련한 것이다. 조주은 경찰청 여성안전학교폭력대책관은 “이번 매뉴얼은 교제 폭력 입법 전에 피해자 보호에 공백이 없도록, 다양한 부서 간의 협업과 외부 전문가 자문 등을 거쳐 마련된 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이번 매뉴얼에는 교제폭력에 스토킹 처벌법을 적용해 일회성 폭력 행위에도 피해자 주거지 100m 내 접근과 연락을 막는 ‘긴급응급조치’를 직권으로 명령할 수 있다는 방침이 담겼다. 스토킹 처벌법은 ‘상대방의 의사에 반해’ ‘정당한 이유 없이’ ‘접근 등 행위로’ ‘불안감 또는 공포심을 유발할 경우’에 적용이 가능한데, 피해자가 처벌을 원치 않고 교제를 이어가더라도 적극적인 법 해석을 통해 경찰이 가해자와 피해자를 분리하는 조치에 나설 수 있게 한 것이다. 경찰청 관계자는 “폭행 발생 자체를 의사에 반한 것으로 판단할 수 있다”며 “일회성이라도 지속·반복될 우려만 있다면 접근 금지가 예방적 조치로 가능하다”고 설명했다. 경찰은 이 밖에 교제 폭력 가해자가 방 안으로 대피한 피해자를 쫓아 문을 두드리며 지속적으로 나오라고 소리쳤다면 폭행죄 외에 스토킹 범죄도 성립된다는 예시를 들었다.&lt;br&gt;&lt;br&gt;이번 ‘교제폭력 대응 종합 매뉴얼’은 경찰대학, 한국형사법무정책연구원, 한국여성변호사회 등 각계 전문가들의 자문을 거쳤고 법무부 협의를 통해 스토킹 처벌법 적용 가능성을 검토해 완성됐다. 국회에서 교제폭력 입법 논의도 본격화되는 가운데, 경찰청은 “교제폭력의 법적 근거 마련을 위한 마중물로써 9월에 ‘교제폭력 대응 국회 세미나’도 개최할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>속옷에 마약 숨겨 밀반입 시도한 30대 연인 중형</title>
       <link>https://www.chosun.com/national/2025/08/11/A3UVUNMHZNGZVJFJ6QM4E4ALYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/11/A3UVUNMHZNGZVJFJ6QM4E4ALYE/</guid>
@@ -913,33 +967,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정비사업 추진 과정에서 사업자들에게 특혜를 제공해주기로 하고 그 대가로 돈을 받았다는 혐의를 받는 국민의힘 소속 서울시의원과 전 중구청 4급 공무원이 경찰에 입건된 것으로 8일 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 서울시의회 등에 따르면, 서울중부경찰서는 뇌물 수수 혐의를 받고 있는 서울시의원 A씨와 전 중구청 과장 B씨에 대해 지난달 자택과 휴대전화 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;A씨 등은 2023년 9~10월쯤 서울 중구 황학동 시장 정비 사업에 관심을 보이던 사업자 C씨 등에게서 여러 차례에 걸쳐 현금 400만~1000만원을 건네받은 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;A씨는 당시 서울시 시장정비사업심의위원회 심의위원을 지내고 있었고, B씨는 중구 시장정비사업을 총괄하는 업무를 맡고 있었다.&lt;br&gt;&lt;br&gt;시장 정비 사업에 관심을 갖고 있던 C씨 등이 사업상 편의를 제공받기 위해 A·B씨 등에게 금품을 준 것으로 경찰은 의심하고 있다. 경찰은 뇌물 공여 정황이 담긴 통화 녹취도 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 정작 황학동 시장 정비 사업은 엎어졌다. 주민 동의 요건에 맞지 않는다는 이유로 지난해 9월 반려됐다.&lt;br&gt;&lt;br&gt;현재 뇌물을 줬다는 C씨 등과 받았다는 A·B씨는 모두 혐의를 부인하고 있는 것으로 전해졌다. 경찰은 압수물 분석을 마치는 대로 사건 관계자들을 차례로 불러 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현직 경찰이 도박 사이트 수사 정보 유출·수뢰 정황… 경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/08/09/OJJIXREVNRCGTCT7Z4KS6JFCGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/09/OJJIXREVNRCGTCT7Z4KS6JFCGA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 06:26:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIIWAEXOKRDJBI2JTO7JAQAQPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관이 불법 도박 사이트 수사 정보를 유출하고 뇌물을 받은 정황이 포착돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 공무상비밀누설 혐의로 강원 원주경찰서 소속 A경위를 입건해 수사하고 있다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;A경위는 올 초 경찰 수사 대상이었던 모 도박 사이트 종사자에게 ‘경찰이 수사하고 있다’는 내용을 전화와 문자메시지 등을 통해 알려준 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 불법 도박 사이트 수사 과정에서 확보한 종사자의 휴대전화 디지털 포렌식 작업에서 A경위 연루 의혹을 알게 된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A경위가 수사 정보를 알려준 대가로 뇌물을 받은 정황도 포착하고 수사를 확대하고 있다. &lt;br&gt;&lt;br&gt;A경위는 지난달 말 경찰의 수사를 받게 되면서 직위해제된 상태로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “뇌물 액수는 아직 확인되지 않았고, 아직 수사 초기 단계로, 구체적인 내용은 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘강압수사’ 의혹에 전북경찰 “담당 팀장 등 직무배제·감찰”</title>
-      <link>https://www.chosun.com/national/regional/2025/08/09/W5WSXPEY7ZEGPK4OEVYTLGN43A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/W5WSXPEY7ZEGPK4OEVYTLGN43A/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 06:37:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDCL3TAE5EUVAZEJKIMKJWFGII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북경찰청은 익산시 간판 정비사업 비리 수사 과정에서 불거진 강압 수사 의혹과 관련해 8일 입장문을 통해 “담당 팀장과 수사관을 업무에서 배제했다”고 밝혔다. 경찰은 또 “별도 진상 파악은 물론 책임 소재 확인을 위해 수사 감찰도 진행하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김철문 전북경찰청장은 이날 입장문에서 “수사상 적법 절차 준수와 인권 보호를 더 신중히 하도록 도내 전 수사 부서에 지시했다”며 “유족에게 위로와 깊은 조의를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이 사건 피의자 40대 A씨는 전날 오후 6시쯤 전북 완주군 봉동읍 자신의 사업장에서 숨진 채 발견됐다. 그는 시청 공무원(5급)에게 간판 정비 사업 참여를 대가로 금품을 제공한 혐의로 지난 3일 경찰의 압수수색과 피의자 조사를 받았다. 이후 “(경찰이) 회사 문을 닫게 하겠다고 한다”며 지인에게 강압 수사 정황을 토로했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 애초 “강압수사는 없었다”는 입장이었다. 하지만 논란이 확산하자 수사관 직무 배제와 감찰 조사에 착수하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>에어컨 수리하던 60대 사망… 경찰 “감전사 추정”</title>
-      <link>https://www.chosun.com/national/regional/2025/08/09/33C5QG65AZGDHKUPNP6266HIZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/33C5QG65AZGDHKUPNP6266HIZM/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 06:43:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 10시 56분쯤 광주 서구 쌍촌동 한 냉난방기 판매점에서 에어컨 수리 작업을 하던 60대 A씨가 사망했다.&lt;br&gt;&lt;br&gt;“사람이 쓰러져 있다”는 신고를 받고 출동한 소방 당국은 심정지 상태인 A씨를 병원으로 옮겼으나 A씨는 소생하지 못했다.&lt;br&gt;&lt;br&gt;A씨는 고장 난 에어컨을 수리하다가 사고를 당한 것으로 전해졌다. 경찰은 A씨가 안전사고로 인한 사망 여부 등 정확한 사망 경위를 조사하고 있다. 경찰 관계자는 “감전사로 추정한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>불법 이민자 잡는 연방 요원 되겠다는 이민자 출신 슈퍼맨</title>
       <link>https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</guid>
@@ -950,28 +977,6 @@
 /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“미국은 인기가 있든 없든 나서서 옳은 일을 하는 애국자들에 의해 세워졌습니다. 저는 이것이 진정으로 옳은 일이라고 믿습니다. 가능한 한 빨리 이민자를 단속하는 ICE(이민세관단속국) 요원이 될 것입니다.”&lt;br&gt;&lt;br&gt;1990년대 미국 TV 시리즈 ‘로이스 앤 클라크 :슈퍼맨의 새로운 모험’에서 슈퍼맨 역을 맡아 대중에 널리 알려진 배우 딘 케인은 6일 폭스뉴스에 나와 “도널드 트럼프 대통령은 불법 이민자를 추방하겠다는 공약으로 당선됐고 나도 내 역할을 다해 그것이 실현되도록 도울 것”이라면서 이렇게 말했다. 케인은 유명 연예인들이 정부 기관을 홍보해주는 ‘명예 요원’이 아닌 실제 법 집행을 하는 요원으로 정식 활동하겠다는 것이다.&lt;br&gt;&lt;br&gt;케인은 5일 자신의 인스타그램에 ICE에 지원하라는 독려 영상을 올려 화제가 됐다. 이 영상에서 그는 슈퍼맨 영화 음악을 배경으로 “지금은 미국을 불법 이민자들로부터 구해 내야 할 때입니다. 미국은 당신의 도움이 필요합니다. 지금 당장 ICE 요원이 되십시오”라고 했다. 케인에 따르면 이 영상을 올린 뒤 미 정부에서 연락이 왔다고 한다. 그는 인터뷰에서 “다른 요원들처럼 길거리에서 사람을 잡는 역할을 하게 되냐”는 질문에 “세부적인 사항은 아직 모르지만 단속을 할 때 마스크는 쓰지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;케인은 할리우드에서 트럼프를 가장 적극적으로 지지하는 인물 중 한 명이다. 2016년, 2020년, 2024년 대선에서 트럼프를 공개적으로 지지하고, 지난달 한 매체 인터뷰에서는 “트럼프는 당신이 만날 수 있는 가장 공감 능력이 뛰어나고 훌륭하며 관대한 사람 중 한 명”이라고 했다. 지난달 개봉한 영화 ‘슈퍼맨’에 대해서도 “제임스 건 감독이 그 영화가 이민에 관한 것이라고 말한 건 영화 흥행에 해가 될 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;ICE는 연간 최대 100만명의 불법 이민자 추방 목표를 세운 상황이다. 트럼프 정부는 이를 더욱 강력하게 실행하기 위해 ICE 요원 채용에 나섰다. 신규 채용자에게 최대 5만 달러(약 7000만원)의 보너스, 최대 6만 달러의 학자금 대출 상환 지원 등 다양한 혜택을 주겠다고 홍보하고 있다. 트럼프가 서명한 ‘하나의 크고 아름다운 법안’(One Big Beautiful Bill Act·OBBBA)에도 추방 작전을 위해 144억 달러의 예산과 1만명의 신규 ICE 요원을 지원한다고 되어 있다. &lt;br&gt;&lt;br&gt;최근 크리스티 놈 국토안보부 장관은 “1만명을 모집하는데 이미 8만명이 지원서를 냈다”고 했다. 일각에서는 영화 속 슈퍼맨이 크립톤 행성에서 온 외계인 이민자라는 점을 들어 아이러니한 상황이라는 지적도 나온다. CNN은 “자신이 연기했던 캐릭터가 외계에서 온 이민자였음에도 그(케인)는 미국으로 오는 외국인에 대해 강경한 입장을 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘고수온 주의보’ 속 천수만 양식장서 물고기 68만마리 방류</title>
-      <link>https://www.chosun.com/national/regional/2025/08/09/STGZVX7Q7JGTLPFVEK2T7N5ZKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/STGZVX7Q7JGTLPFVEK2T7N5ZKA/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 05:12:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESQ5BWQCYBJODEWNCB4Y77K3V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 고수온 주의보가 발령된 충남 서해 천수만에서 가두리양식장 운영 어민들이 8일 폐사를 막기 위해 조피볼락들을 바다에 풀어주고 있다. 이날 조피볼락 67만9000마리가 방류됐다. /태안군 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 오전 10시를 기해 고수온주의보가 발령된 충남 서해 천수만에서 양식 물고기 68만마리가 바다로 방류됐다.&lt;br&gt;&lt;br&gt;천수만 태안군 해역 10개 가두리 양식장 어민들은 8일 조피볼락(우럭) 치어와 중간어 67만9000마리를 방류했다. 이는 수온이 조피볼락이 견딜 수 있는 한계인 28도에 다다르기 전 미리 풀어줘 폐사를 막기 위한 조치다.&lt;br&gt;&lt;br&gt;방류에 참여한 가두리 양식장에는 최대 5000만원씩 지원된다.&lt;br&gt;&lt;br&gt;방류에 참여한 한 어민은 “정성껏 키워왔던 고기들을 풀어주기까지 고민이 많았지만 이대로 가면 폐사할 것 같아 일단 살리는 것이 우선이라고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;태안군은 긴급 방류에 따른 어종 보호를 위해 포획 금지 기간을 설정하고, 어업인 대상 홍보에도 나설 계획이다.&lt;br&gt;&lt;br&gt;양식장 고수온 피해 방지를 위해 올해 32억여 원을 투입하는 태안군은 추가 방류도 검토하고 있다.&lt;br&gt;&lt;br&gt;태안 해역에선 105개 어가가 34.8㏊의 양식장을 운영 중이다. 조피볼락, 숭어 등이 주요 양식품종인데, 총 사육량은 2279만마리에 달한다.&lt;br&gt;&lt;br&gt;충남에선 지난해 고수온으로 조피볼락과 전복 등 824만마리가 폐사해 97억원의 피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이러니 해외 가지” 강원 펜션 1박에 140만원까지 ‘폭등’</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/CKQG5LKDPVD6ZADFRCVVAXNMZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/CKQG5LKDPVD6ZADFRCVVAXNMZ4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 02:27:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SSREKIJOC5KQDHVXYV2UBLVC6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 강원 속초 해수욕장 일원이 피서 인파로 북적이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여름 휴가철 성수기를 맞은 강원 관광지 주변 펜션 숙박비가 1박에 100만원대(4인 기준)로 치솟자 관광객들이 ‘바가지요금’에 대한 불만을 토로하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UHEUCVP4KRHKBFMVKSOHVCCOLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;강원 홍천의 한 펜션은 9~10일 1박2일 일정의 최대 4인 기준 객실 이용 가격을 140만원에 제시했다. 17일 예약시 가격은 9만9000원이다. /숙박앱 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 숙박업계에 따르면, 춘천의 한 펜션은 숙박 예약 앱을 통해 오는 9~10일 1박 2일 일정의 최대 4인 기준 객실 이용 가격을 140만원에 내놨다. 공휴일과 주말이 이어져 관광객이 몰릴 것으로 예상되는 오는 15~16일 가격 역시 140만원이었다. 하지만, 다음날인 17일에는 같은 객실을 9만9000원에 예약할 수 있었다. &lt;br&gt;&lt;br&gt;강릉의 펜션 역시 같은 기간 비슷한 기준의 객실을 110만원대에 제시했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7IFJPLQTP5DZFKEOVS64E4MW2I.png"&gt;&lt;figcaption&gt;&lt;small&gt;홍천의 한 호텔은 오는 9~10일 1박2일 4인 기준(조식 포함) 객실 이용가격을 220만원에 내걸었다. 6인까지 머무를 수 있는 객실의 가격은 280만원이다. /숙박앱 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호텔의 경우 더 높은 숙박료가 책정됐다. 홍천의 한 호텔은 예약 앱을 통해 다가오는 주말에 1박 2일 일정으로 4인 기준 이용 가격(조식 등 포함)을 220만원에 내걸었다. 최대 6인까지 머무를 수 있는 객실의 가격은 280만원이었다. 이곳 역시 8월 말이 되자 같은 객실의 예약 가격이 70만원으로 낮아졌다.&lt;br&gt;&lt;br&gt;강원의 한 호텔도 같은 시기 비슷한 기준을 조건으로 1박 2일 이용가를 180만원으로 온라인에 제시했다. &lt;br&gt;&lt;br&gt;이 밖에 춘천‧강릉‧동해‧양양‧속초‧평창을 비롯한 주요 관광 도시들의 시내 주요 모텔 가격 역시 주말 1박 2일 이용 가격을 40만원 안팎에 내놨다. 비수기와 대비해 약 3배 높은 가격이다. &lt;br&gt;&lt;br&gt;강원도를 찾은 관광객들은 “성수기에 요금이 상승하는 건 당연하지만, 비수기에 비해 너무 과한 요금이 부담된다” “성수기에 한몫 제대로 챙기려는 곳들도 있는 것 같다” “차라리 비용을 조금 더 늘려 해외여행을 선택하는 게 낫겠다고 생각한다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;강원도 관계자는 “당장 도 차원에서 숙박업체들의 여름 성수기 이용 가격을 강제할 수는 없다”면서도 “피서 기간 숙박 시설 이용 소비자 피해 특별 신고 기간 운영 등을 비롯해 관광 산업의 개선을 위해 대책 마련에 나서고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3BRLTFNRXNGRBLABWQYOADIDD4.png?auth=2de5d93a85acdf4b238dad4b5723952e4dac684ca5636a98e10eb6bb47b446d2&amp;smart=true&amp;width=500&amp;height=281" type="image/png" height="281" width="500">
-        <media:description type="plain">강원 홍천의 한 펜션은 9~10일 1박2일 일정의 최대 4인 기준 객실 이용 가격을 140만원에 제시했다. 17일 예약시 가격은 9만9000원이다. /숙박앱 홈페이지</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</guid>
@@ -979,15 +984,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 00:44:17 +0000</pubDate>
       <content:encoded>법무부 사면심사위원회가 지난 7일 회의를 열고 윤미향 전 국회의원의 사면을 이재명 대통령에게 건의하기로 결정한 것으로 확인됐다. 윤 전 의원은 일본군 위안부 피해자의 후원금 횡령 등 8개 혐의로 기소됐고, 작년 11월 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73IEAYYAVNG35JI2JD4Q545VH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤미향 전 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 사면심사위는 전날 조국 전 조국혁신당 대표와 아내 정경심씨, 최강욱 전 의원 등의 사면·복권을 건의하기로 하면서, 이 명단에 윤 전 의원을 포함했다. 윤 전 의원은 현재 집행유예 기간 중에 있다.&lt;br&gt;&lt;br&gt;윤 전 의원은 정의기억연대(정의연) 이사장으로 위안부 피해자 지원 활동을 한 이력을 내세워 2020년 4월 총선에서 더불어시민당(민주당의 위성정당) 비례대표로 당선됐다. 그런데 그해 5월 위안부 피해자인 이용수 할머니가 기자회견을 열고 윤 전 의원에 대해 “30년 동안 할머니들을 이용해 먹었다”며 후원금 횡령 의혹을 제기하면서 수사가 시작됐다. 그는 의원 임기 시작 전날 “사과한다”면서도 의혹에 대해선 부인했고, 의정 활동을 시작했다.&lt;br&gt;&lt;br&gt;검찰은 2020년 9월 윤 전 의원을 횡령과 사기 등 8개 혐의로 재판에 넘겼지만, 대법원에서 징역형 집행유예가 확정될 때까지는 4년 2개월이 걸렸다. 윤 전 의원은 지난해 5월 국회의원 임기를 정상적으로 마쳤고, 대법원 확정 판결은 그로부터 6개월이 더 지나서야 나왔다. 대법원 판결이 나오자 윤 전 의원은 “2심을 문제없다고 인정한 대법원 판결은 부당하다. 정의연 활동 과정에서 사익을 추구하거나 이를 위해 공모하지 않았다”며 “저는 무죄”라고 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[어떻게 생각하십니까] 편의점서 파는 약, 13년째 4종류뿐 “아이가 배 아픈데 밤새 발만 동동”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/08/5PNEPMBESNFDJJ72IVDDJEHF4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/08/5PNEPMBESNFDJJ72IVDDJEHF4E/</guid>
-      <dc:creator>오경묵 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE33ZEZ37BF45A24JUVYTI7MUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 충청도의 한 리조트로 온 가족이 휴가를 갔던 직장인 정모(33)씨는 난감한 일을 겪었다. 저녁 식사를 한 뒤 아이가 갑자기 열이 났는데, 어린이용 해열제를 구하지 못한 것이다. 정씨는 “편의점에서 상비약을 파는 걸로 알고 리조트 내 편의점에 갔는데, 그곳에선 약을 팔지 않았다”며 “밤새 발만 동동 구르다 이튿날 아침 차로 10분 거리에 있는 약국에 가서 약을 사왔다”고 했다. &lt;br&gt;&lt;br&gt;얼마 전 아이를 데리고 강원도 고향집을 찾았던 이모(42)씨도 “밤에 자고 있던 아이가 갑자기 배가 아프다고 깨서 설사 증세를 보였다”며 “너무 늦은 시간이어서 급한 대로 편의점에 갔는데 해열제나 소화제만 있고 지사제는 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LVCOP4HABE77LBQTMMKS4YAOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해열제와 소화제 등을 편의점에서 구입할 수 있도록 한 안전상비의약품 제도를 정비해야 한다는 지적이 나오고 있다. 당초 안전상비의약품 제도는 지난 2012년 약국이 문을 닫는 공휴일이나 심야 시간에 급하게 약이 필요한 환자들의 불편을 해소한다는 취지로 도입됐던 것이다. 현재 판매되는 항목은 해열·진통제 3종, 감기약 2종, 소화제 4종, 파스 2종 등 11개다. 당초 13개가 지정됐지만, 어린이용 타이레놀 알약 등 진통제 중 2개 제품은 현재 생산이 중단돼 구매할 수도 없다. 여기에 지사제나 제산제, 알레르기약, 상처·화상연고 등은 빠져 있어 “급하게 필요한 약을 구하기 어렵다”는 불만도 제기된다.&lt;br&gt;&lt;br&gt;판매 항목은 가벼운 증상에 쓸 수 있는 일반의약품 중 20개 이내로 보건복지부 장관이 지정하도록 돼 있지만, 편의점 판매 의약품은 이 제도 도입 이후 늘어난 적이 없다. 비록 2017년과 2018년에 안전상비의약품 지정심의위원회가 판매 품목을 조정하는 방안을 논의했지만, 결론을 내지 못했다. 그 이후에는 해당 위원회가 열리지 않아 추가 논의가 제대로 이뤄지지 않고 있는 상태다. 정은경 보건복지부 장관은 “안전상비의약품 품목 확대를 희망하는 소비자 요구를 잘 알고 있다”면서도 “상비약 품목 확대는 소비자 편의성 증진과 사용 안전성을 균형 있게 고려해 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;현재 편의점 업계에서는 “현실에 맞게 제도를 보완해야 한다”고 주장한다. 농어촌 등 약국이 없는 취약 지역에서는 편의점이 ‘야간 약국’ 역할을 할 수 있는 만큼 판매 품목 등을 현실화해야 한다는 것이다. 또 의약품을 판매할 수 있는 편의점은 ‘24시간 영업점’으로만 제한하고 있는데, 농어촌 지역에선 편의점이 24시간 영업을 하지 않는 곳도 많은 만큼 관련 규제를 완화해야 한다는 목소리도 나온다.&lt;br&gt;&lt;br&gt;반면 현재 약사단체는 이 같은 편의점 판매 의약품을 확대할 필요성에 대해 강하게 반대하고 있다. “무분별하게 늘릴 경우, 자칫 의약품 오남용 우려가 커질 수 있다”는 것이다. 하지만 “편의점에서 의약품을 판매한 지 10년이 넘었는데 오남용으로 인한 부작용 사례는 나온 적이 없다”는 반론도 만만치 않다.&lt;br&gt;&lt;br&gt;해외의 경우, 우리나라보다 일반의약품 구매 장벽이 낮은 편이다. 미국에서는 30만개, 영국은 1500개, 일본은 930개 이상의 의약품이 약국이 아닌 곳에서 판매되고 있다. 미국이나 일본 등지에 여행을 간 우리나라 국민들이 현지에서 ‘약 쇼핑’을 할 수 있을 것도 이 때문에 가능한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
