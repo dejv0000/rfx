@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>또 폭파 협박… 공연 앞둔 올림픽체조경기장, 폭발물 발견 안 돼</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/7COZRAPSEJFEHAQ32HZWKHUEPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/7COZRAPSEJFEHAQ32HZWKHUEPI/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 07:17:12 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMGSYMURMRLRTK5B4QZRWUGH64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 서울 송파구 KSPO돔(올림픽체조경기장) 내 폭발물이 설치됐다는 신고가 들어와 시민들이 대피해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구 KSPO돔(올림픽체조경기장)에 폭발물이 설치됐다는 신고가 접수돼 콘서트 관객 등 2000여 명이 긴급 대피하는 소동이 벌어졌다. 경찰특공대가 투입돼 수색한 결과, 실제 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;10일 경찰과 소방당국에 따르면 이날 오후 1시 45분쯤 ‘KSPO돔을 폭파한다’는 내용의 팩스가 운영 주체인 한국체육산업개발 측에 전달됐다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 현장에 있던 인파를 대피시키고, 경찰특공대를 투입해 수색을 벌였다. 소방당국도 인력 70여 명과 장비 19대를 동원해 현장을 통제했다. 1시간가량 이어진 수색 끝에 폭발물은 발견되지 않았다. 경찰은 오후 4시 22분쯤 수색을 종료하고 현장 통제를 해제했다.&lt;br&gt;&lt;br&gt;KSPO돔은 이날 오후 4시부터 아이돌 그룹 더보이즈의 콘서트가 예정돼 인파가 몰려 있었다. 소속사 측은 “공연장 내부 시설 점검으로 인해 공연 시작이 부득이하게 연기될 예정”이라고 공지하기도 했다.&lt;br&gt;&lt;br&gt;최근 이 같은 폭발물 의심 신고가 반복 접수되고 있다. 지난 5일 서울 중구 신세계백화점 본점에 폭발물을 설치했다는 위협 글이 온라인 커뮤니티에 게시된 데 이어 의정부·하남 등 신세계백화점에도 유사 신고가 들어왔다. 하지만 경찰 수색에도 폭발물이 나오진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“앱으로 호텔 예약할 때 스프링클러 설치 여부 확인하세요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/LQQNJGQW3FCBRKF7DCEUMQDG4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/LQQNJGQW3FCBRKF7DCEUMQDG4Y/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 08:05:09 +0000</pubDate>
+      <content:encoded>숙소에 스프링클러가 설치돼 있는지 온라인 숙박 예약 앱에서 쉽게 확인할 수 있게 됐다. 숙소 설명란에서 스프링클러 그림이 있는지 체크하면 된다. 소방청은 10일 온라인 숙박 예약 앱 놀(NOL), 여기어때와 손잡고 이 같은 서비스를 시작했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENZVGASC2BCBJLC4K27LDBZZGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;소방청 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스프링클러가 있는 숙소는 설명란에 스프링클러 그림 등을 추가해 구분한다. 소방청이 보유한 ‘전국 숙박 시설 스프링클러 설치 정보’를 기초로 한다. 전국의 호텔, 모텔, 고시원 등 3만 곳을 전수조사한 데이터다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “숙박 예약 앱에서 스프링클러 설치 여부를 확인할 수 있게 한 건 세계 최초”라며 “좀더 안전한 숙소를 고를 수 있게 된 것”이라고 했다. &lt;br&gt;&lt;br&gt;작년 8월 경기 부천에서 발생한 호텔 화재 사고가 계기가 됐다. 당시 투숙 중이던 7명이 숨지고 12명이 다쳤다. 스프링클러가 없어 피해를 키웠다는 조사 결과가 나왔다. 스프링클러는 화재 확산을 막는 핵심 장비지만 전국 숙박 시설 3만1271곳 중 스프링클러를 설치한 곳은 4500곳 정도다. 대다수 숙소에는 스프링클러가 없는 것이다. 소방시설법 시행령에 따르면, 6층 이상이나 연면적 300㎡ 이상인 숙박 시설에는 스프링클러를 설치해야 한다. 그러나 2017년 법 시행 전에 지은 시설은 규제의 사각 지대에 놓여 있다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “이렇게 스프링클러 설치 정보를 공개하면 2017년 이전에 지은 숙박 시설들도 스프링클러를 설치하지 않을 수 없을 것”이라며 “다른 앱으로도 서비스를 확대할 계획”이라고 했다. 스프링클러 설치 정보도 3개월마다 업데이트하기로 했다.&lt;br&gt;&lt;br&gt;업계 관계자는 “안전에 대한 관심이 높아지는 가운데 소비자가 더 안전한 숙소를 고르는 데 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  8월 11일 월요일 (음력(윤) 6월 18일 壬子)</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/10/KSVRY6LACBC2VJDK3YRWH6VOIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/KSVRY6LACBC2VJDK3YRWH6VOIM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 손재수 있으니 오히려 지출도 좋을 듯. 48년생 금은보석이라고 다 반짝이나. 60년생 고대광실도 마음이 편해야 좋지. 72년생 잠시 머뭇거리며 헤맬 뿐 길 잃는 것 아니다. 84년생 이성적 판단으로 현 상황을 주도하라. 96년생 뜨거운 국에 맛 모른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 건강 관리가 돈보다 중요. 49년생 내 생각을 주위와 충분히 공유하라. 61년생 첫째가 꼴찌 되고 꼴찌가 첫째 되는 시기. 73년생 힘들더라도 목표 놓치지 마라. 85년생 과로 염려되니 건강 관리에 신경 쓰도록. 97년생 정상을 밟고자 한다면 겸양과 동반하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 사람 성향 각기 다를 수밖에. 50년생 정성 다하면 없던 길이 생길 수도. 62년생 잘난 척 말고 화기애애한 분위기 만들도록. 74년생 원망 잊고 은혜 기억하라. 86년생 앞길 안 보이면 잠시 눈을 감고 내일의 꿈 집중하라. 98년생 사소한 것 소홀히 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 결과보다 중요한 것이 과정. 39년생 말이 적을수록 후회도 적다. 51년생 자신만의 목표와 기준을 갖도록. 63년생 가난한 집 제사 돌아오듯. 75년생 전반적 재물의 기운은 나쁘지 않다. 87년생 내가 싫으면 남도 싫다. 99년생 자신 있어도 과욕은 금물.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 심·뇌혈관 질환을 주의. 40년생 내면의 쓸쓸함은 불가피할 듯. 52년생 아름다운 삶은 가꾸기 나름. 64년생 내가 편해야 주위가 편안. 76년생 금전의 유혹에 흔들리지 마라. 88년생 문제의 해답은 가족에게 있다. 00년생 매사 양면성이 있기 마련.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 실리는 없어도 명분은 있다. 41년생 의중 감추고 홀로 가라. 53년생 쥐띠와 함께라면 못 할 것 무엇. 65년생 전체 판세 읽을 줄 알아야. 77년생 거부할 수 없는 변화라면 주도하라. 89년생 목적이 분명하면 길은 있다. 01년생 마음이 다소 편안해질 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 메뚜기도 오뉴월이 한 철. 42년생 싫을 때마다 배제하고 갈 수 있겠나. 54년생 주변 꾐에 빠지지 않도록 조심. 66년생 흐르지 않은 물은 썩기 마련. 78년생 풍년에 거지가 더 섧다. 90년생 잘하는 일에 집중하라. 02년생 집 안의 수리나 보수에 좋은 날.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 시든 꽃에 봉접 신세. 43년생 어리석은 용기가 범을 잡는 법. 55년생 원숭이띠, 소띠와의 동업은 금물. 67년생 과욕은 망신살 부른다. 79년생 자가운전은 피하는 게 상책. 91년생 본전도 못 할 일은 시작도 마라. 03년생 신분 상승의 기운이 살아난다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 분해도 웃고 넘겨라. 44년생 경솔한 행동이 화를 초래. 56년생 앞자리와 선두를 빼앗기지 마라. 68년생 잃은 것 있다면 얻는 것도 있다. 80년생 사랑도 일도 머뭇거리면 후회. 92년생 저마다 가치관 다름을 인정해야. 04년생 송곳은 날카로워야 송곳.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 분노는 누구나 해롭다. 45년생 정체가 두렵지, 지체는 두렵지 않다. 57년생 시비 전하는 사람이 시비하는 사람. 69년생 상처 아물고 새살이 돋을 듯. 81년생 새로운 일이나 신규 사업 나중으로 미루는 것이. 93년생 혼자보다는 여럿이 하는 게 유리.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 몸과 마음의 평정이 먼저. 46년생 이참에 대인 관계를 점검해 봄이. 58년생 역사의 수레바퀴는 잠시도 멈추지 않음을 명심. 70년생 검은색과 숫자 1, 6이 행운 부른다. 82년생 남이 차린 밥상에 숟가락 올린 격. 94년생 예상보다 수월하게 마무리될 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 붉은색과 숫자 2, 7이 행운 부른다. 47년생 앞서지 말고 따라가도록. 59년생 투자 계획 있다면 정보 수집이 먼저. 71년생 귀인 만나 어려움이 해결될 듯. 83년생 잘났다 우쭐댈 것도 못났다 시뚝댈 것도 없다. 95년생 자존감을 잃으면 전부를 잃은 것이다.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>“조국·윤미향처럼 유승준도”... 팬들, 李대통령에 ‘입국 사면’ 요구</title>
+      <link>https://www.chosun.com/national/people/2025/08/11/ZKMWQ6TWEZAJTBIFZM233JLIV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/11/ZKMWQ6TWEZAJTBIFZM233JLIV4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 05:16:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLXCPDRUT5GDPPXHF3Y3KWKMPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 유승준. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병역을 기피하려고 한국 국적을 포기해 23년 동안 입국이 금지된 가수 유승준(49·미국명 스티븐 승준 유)의 팬들이 이재명 대통령에게 “입국 제한을 재검토해달라”고 촉구했다. &lt;br&gt;&lt;br&gt;팬들은 지난 9일 팬 커뮤니티에 올린 성명문을 통해 “사회적 갈등을 줄이고 국민 통합을 이루기 위한 사면 제도에 공감한다”면서 “관용과 포용의 정신이 정치인과 공직자뿐 아니라 모든 국민에게 공정하게 적용되길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “유승준은 대법원에서 2019년과 2023년, 두 차례에 걸쳐 비자 발급 거부가 위법이라는 판결이 내려진 바 있다”면서 “그런데도 제한이 계속되는 것은 형평성의 원칙과 법치주의 정신에 비추어 재검토될 필요가 있다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “유승준은 지난 세월 동안 많은 비판과 제재를 감내해 왔다. 잘못이 없었다는 뜻이 아니라, 그에 따른 사회적 책임을 충분히 짊어졌다”면서 “이제는 과거를 돌아보고, 대한민국 사회 속에서 새롭게 살아갈 기회를 부여할 시점이라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;팬들은 “유승준 팬 일동은 이재명 대통령님께 간곡히 호소드린다”면서 “조국 전 조국혁신당 대표, 윤미향 전 국회의원 등 정치인 사면 검토에서 드러난 국민 통합과 화합의 의지가, 일반 국민인 유승준씨에게도 동일하게 적용되기를 바란다”고 했다. 이어 “부디 대통령의 결단이 형평성과 공정성이라는 헌법적 가치가 구현되는 사례가 돼 국민 통합의 계기가 되기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;유승준은 병역 기피로 23년 동안 한국에 들어오지 못하고 있다. 1997년 4월 데뷔한 그는 2002년 공익 근무 소집 통지를 받은 상태에서 미국 공연을 하겠다며 출국 허가를 받아 나간 뒤 미국 시민권을 취득하고 한국 국적을 포기했다. 이에 병역 의무를 회피하려는 것이라는 거센 비판이 일었고 법무부는 입국을 제한했다.&lt;br&gt;&lt;br&gt;이후 유승준은 2015년 LA 총영사관에 재외동포(F-4) 체류 비자 발급을 신청했으나 거부됐고, 이를 취소해달라는 소송을 내 파기환송심과 재상고심 끝에 대법원에서 승소했다.&lt;br&gt;&lt;br&gt;총영사관은 이후에도 비자 발급을 거부했고, 유승준은 두 번째 취소 소송을 제기해 2023년 11월 다시 대법원에서 승소했다. 하지만 LA 총영사관은 작년 6월 비자 발급을 다시 거부했고, 유승준은 같은 해 9월 세 번째 소송을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시내버스 보행자·오토바이 잇따라 ‘쾅’... 2명 숨져 </title>
+      <link>https://www.chosun.com/national/2025/08/11/B3EH355J6FE2DGOQDMA6PG2LXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/11/B3EH355J6FE2DGOQDMA6PG2LXI/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 07:07:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34CI2FAOIWXOEDDF7TLRFEA6BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오후 부산 부산진구 교통사고 현장. /부산진경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 시내버스가 횡단보도를 건너는 보행자를 덮쳐 2명이 숨졌다.&lt;br&gt;&lt;br&gt;10일 부산진경찰서에 따르면 이날 오후 1시쯤 부산 부산진구 서면 교차로 인근 도로에서 60대 운전자 A씨가 몰던 시내버스가 횡단보도를 건너던 보행자 2명을 덮쳤다. 버스는 30m를 더 달려 오토바이까지 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 60대 남성 등 보행자 2명이 심폐소생술(CPR)을 받으며 병원으로 이송됐지만 끝내 숨졌다. 버스에는 승객 7명이 탑승 중이었지만 다치진 않았고, 오토바이에 타고 있던 30대 운전자와 동승자는 경상이다. &lt;br&gt;&lt;br&gt;숨진 이들은 녹색 신호에 맞춰 정상적으로 횡단 중이었던 것으로 확인됐다. 경찰은 A씨가 음주나 약물 복용은 하지 않은 것으로 파악했다. A씨는 경찰 조사에서 “브레이크를 밟았지만, 차량이 멈추지 않았다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “차량 제동장치 고장 여부 등을 확인하기 위해 사고 버스는 국립과학수사연구원에 감식을 요청할 예정”이라며 “차량 내부 블랙박스를 비롯해 주변 감시카메라(CCTV) 등을 분석해 기사의 전방 주시 의무 위반이나 운전 미숙 여부도 확인할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, ‘기록 이첩 전후’ 대통령실·경북경찰청장 소통 정황 확보</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/11/FL6DADBOUZAMDB5CL7GCY5MHEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/11/FL6DADBOUZAMDB5CL7GCY5MHEA/</guid>
+      <dc:creator>이세영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 07:08:23 +0000</pubDate>
+      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 2023년 8월 고(故) 채수근 상병 사망 사고에 대한 해병대 수사단의 초동 조사 기록이 경찰에 이첩되기 전후로 대통령실과 당시 경북경찰청장이 수차례 소통한 정황을 포착한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NBW7JEUP5LVBK4VQWY4KYVFCY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최주원 전 경북경찰청장이 지난달 16일 오후 서울 서초구 이명현 순직해병특검 사무실에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 해병 특검은 최주원(치안감) 전 경북경찰청장이 채 상병 사고에 대한 경찰 수사가 시작되기 전후로 대통령실 관계자와 연락을 주고받은 통신 내역을 확보했다고 한다. 최 치안감은 채 상병 사망 사고 당시 경북경찰청장이었다.&lt;br&gt;&lt;br&gt;경북경찰청은 2023년 8월 2일 해병대 수사단으로부터 초동 조사 기록을 이첩받았다가 국방부 등의 회수 요구에 따라 국방부 검찰단에 기록을 재차 인계했다. 해병 특검은 이 과정에서 대통령실이 최 치안감을 통해 경북경찰청이 협조하도록 외압을 행사한 것은 아닌지 등을 수사 중이다.&lt;br&gt;&lt;br&gt;또 해병 특검은 최 치안감이 당시 개신교계 방송인 극동방송 관계자 등과 나눈 통화 기록도 일부 확보한 것으로 알려졌다. 해병 특검은 극동방송 관계자 등이 채 상병의 부대장이던 임성근 전 해병대 1사단장을 과실치사 혐의자에서 빼기 위해 대통령실 등에 ‘구명 로비’를 벌였다는 의혹 등도 수사하고 있다. 해병 특검은 극동방송 관계자 등이 최 치안감을 통해 임 전 사단장 수사 등에 영향력을 미친 것은 아닌지 등을 들여다볼 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 신원식 전 안보실장 참고인 소환… 계엄 전후 상황 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/11/HKXN6546F5CMXF6WTQ37NFC46A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/11/HKXN6546F5CMXF6WTQ37NFC46A/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 05:40:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWUW2VZBPD22RO5XOMD5FVSO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신원식 전 안보실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 10일 신원식 전 국가안보실장을 참고인 신분으로 불러 조사 중이다. 지난 7일에 이어 두 번째 조사다. 특검은 신 전 실장을 상대로 계엄 선포 전후 상황과 2차 계엄 모의 의혹 등을 추가로 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난해 12월 4일 국회의 계엄 해제 의결에도 이를 곧바로 선포하지 않고, 당일 오전 1시 16분 합참 결심지원실로 이동해 30분가량 회의를 했다. 당시 회의에는 김용현 전 국방장관과 박안수 전 육군참모총장(당시 계엄사령관), 인성환 전 국가안보실 2차장, 최병옥 전 국방비서관 등이 참석했다. 이후 윤 전 대통령은 뒤늦게 결심지원실을 찾은 신 전 실장과 정진석 전 비서실장의 안내를 받아 대통령 집무실로 이동해 머물렀다.&lt;br&gt;&lt;br&gt;신 전 실장은 지난 2월 헌법재판소에서 당시 인 전 차장에게 ‘대통령이 결심지원실에 와 있는데, 여기 오래 있는게 적절치 않다’는 취지의 전화를 받고, 정 전 실장과 함께 오전 1시 55분 윤 전 대통령을 집무실로 데려갔다고 진술했다. 특검은 당일 결심지원실에서 2차 계엄 모의가 이뤄졌을 가능성도 의심하고 있다.&lt;br&gt;&lt;br&gt;또 신 전 실장은 계엄 선포 직전 열린 국무회의에 참여한 국무위원 중 한 명이기도 하다. 특검은 윤 전 대통령이 국무회의에 참여하지 못한 위원들의 심의권을 침해한 의혹에 대해서도 들여다보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>지게차에 묶어서 학대…고용부 ‘폭행’, ‘직장 내 괴롭힘’ 판단</title>
       <link>https://www.chosun.com/national/labor/2025/08/11/R2VY3HN3OFG5VMWSBBMLDEZXI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/11/R2VY3HN3OFG5VMWSBBMLDEZXI4/</guid>
@@ -897,45 +973,6 @@
       <content:encoded>법무부는 정성호 법무장관 지시에 따라 검찰의 직접수사 개시 범위를 부패·경제 등 2대 중요 범죄로 한정한 검찰청법의 입법 취지에 따라 관련 시행령인 ‘검사의 수사개시 범죄 범위에 관한 규정’ 개정에 착수했다고 8일 밝혔다. 본격적인 검찰 개혁 입법에 앞서 이른바 ‘검수원복(검찰 수사권 원상 복구)’으로 불린 시행령을 되돌려놓겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4C7LLS6AVC4WI6DW3M4YSFTKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관이 7일 오전 경기도 과천시 정부과천청사 법무부로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검수원복 시행령은 한동훈 전 국민의힘 대표가 법무장관이던 시절 검찰의 수사권을 사실상 복구했던 조치를 가리킨다. 개정 검찰청법은 검찰이 직접 수사를 개시할 수 있는 범죄를 기존 6대 범죄(공직자·선거·방위사업·대형참사·부패·경제)에서 2대 범죄(부패·경제)로 축소시킨 것이 핵심이다. 이에 대해 규정을 개정하는 방식으로 검찰 수사가 가능한 부패·경제 범죄의 범위를 기존보다 확대하면서 검찰청법에 규정된 ‘중요범죄’에 사법 질서 저해 범죄와 검찰에 고발·수사 의뢰해야 하는 범죄를 포함해 직접수사 범위를 넓힌 게 검수원복 시행령의 요지다. &lt;br&gt;&lt;br&gt;그러나 이재명 정부 출범에 따라 정성호 법무장관이 2022년 9월 시행된 개정 검찰청법 맥락에 맞게 검찰 수사권을 다시 제한하겠다고 밝힌 셈이다. 법무부는 “수사 개시 규정이 개정돼 검사의 직접수사 개시 범위가 대폭 확대됨에 따라 검찰권 남용 방지를 위해 추진된 법률 개정의 취지가 퇴색됐다는 평가가 있었다”고 설명했다. 검사의 직접 수사 개시 사건은 그동안 과잉 또는 봐주기 수사, 하명 수사 등 검찰권 남용의 진원으로 지목돼 왔다고도 했다.&lt;br&gt;&lt;br&gt;이어 “상위법의 개정 취지에 부합하는 시행령 개정을 통해 주권자인 국민의 뜻을 검찰 제도 운영에 충실히 반영하고, 검찰의 무리한 수사를 방지함으로써 검찰을 정상화하는 첫 단추가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강아지 목줄 잡고 빙빙… 학대한 남성의 최후는? </title>
-      <link>https://www.chosun.com/national/regional/2025/08/09/YLJDPBE2BZEL7MFX4ITVAMOSEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/09/YLJDPBE2BZEL7MFX4ITVAMOSEE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 06:58:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UFMOFFJZ4JHGZHNMQZD5IXQ2QU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피해 강아지. /부산경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 부산에서 목줄을 잡고 강아지를 학대해 공분을 샀던 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 강아지를 학대한 혐의(동물보호법 위반)로 20대 남성을 입건해 조사 중이라고 8일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 해당 남성은 지난 5일 오후 8시쯤 부산진구 한 골목길에서 산책시키던 강아지의 목줄을 붙잡은 뒤 강하게 흔들었다. 이 과정에서 강아지의 몸이 공중에 뜨며 팽이처럼 여러 번 회전했다. &lt;br&gt;&lt;br&gt;현장을 목격한 여성이 이를 촬영했고 이후 영상이 인터넷상에서 퍼지면서 공분이 커졌다. 현재 해당 강아지는 동물 병원에서 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UFMOFFJZ4JHGZHNMQZD5IXQ2QU.jpg?auth=4b5e06837cb1c813da9f0185af7980339e7cecadcc98cfa9d03f42de100126b0&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
-        <media:description type="plain">피해 강아지. /부산경찰청 제공</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>尹측 “특검 체포영장 집행 시도는 전직 국가원수에 신체적 학대”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/JH4PUYA7ONEQNHDMVNQ5MD4V5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/JH4PUYA7ONEQNHDMVNQ5MD4V5A/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 05:40:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STSCHUGUIBUYWGLEIF3KBFQAZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령 /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀의 체포영장 집행 시도에 대해 “명백한 불법이자 전직 국가원수에 대한 신체적 학대”라고 8일 밝혔다. 또 “향후 형사고발 및 헌법소원 등 모든 법적 수단을 동원해 책임을 묻고 바로잡을 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 법률대리인단은 이날 오후 입장문을 내고 “소위 ‘광화문 특검’(김건희 특검)이 구속수감 중인 윤 전 대통령에 대해 강제 인치 시도를 자행했다”고 했다. 이 과정에서 윤 전 대통령이 팔과 허리를 다쳐 의무실로 옮겨졌다며 “10여 명의 요원이 팔과 다리를 붙잡고 끝내 의자째 들어 올려 전직 대통령을 바닥에 내동댕이치는 장면은 대한민국 역사상 유례없는 수치의 기록으로 남을 것”이라고 했다.&lt;br&gt;&lt;br&gt;대리인단은 “이번 사태는 절차적 위반을 넘어 정치적 목적에 따라 법을 도구화한 노골적인 정치보복”이라며 “수사를 가장한 ‘형벌 집행’과 공개 망신 주기”라고 비판했다. 그러면서 “구치소 측과 특검이 윤 전 대통령에게 출정소장에게 가면 변호인들을 만나게 해주겠다고 거짓말을 하고 중간에 차에 억지로 태우려고 한 건 납치”라고도 주장했다. 대리인단은 “이러한 행위는 형법상 불법체포·감금죄, 직권남용죄, 강요죄, 가혹행위죄에 해당한다”며 “구치소에 협조하라고 지시를 내린 법무 장관은 불법행위의 공범이며, 직권남용으로 엄정한 법적 책임을 져야만 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EB3H3BZQCBPTPLNIM7G5MQGPBU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀 차량이 7일 오전 윤석열 전 대통령에 대한 2차 체포영장 집행이 무산된 뒤 경기 의왕시 서울구치소 밖으로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검은 7일 오전 8시 25분부터 경기 의왕 서울구치소에 수감 중인 윤 전 대통령을 조사실로 데려오려고 체포영장 재집행에 나섰다. 그러나 윤 전 대통령이 강하게 거부하면서 1시간 14분 만에 체포영장 집행을 중단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>끊이지 않는 스토킹... 경찰, 신고 단계부터 대응 강화</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/LF7WZFEQGNDQRKEOSXYEV4PQTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/LF7WZFEQGNDQRKEOSXYEV4PQTY/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 07:25:44 +0000</pubDate>
-      <content:encoded>최근 스토킹이나 데이트 폭력 등 특정한 관계에서 반복되는 ‘관계성 범죄’가 잇따르자 경찰이 신고 접수부터 대응을 강화하기로 했다. 서울지방경찰청은 “112 신고 내용이 ‘단순 말다툼’이나 ‘과거 피해 상담’ 등, 현재 위험성이 낮다고 해도 관계성 범죄로 분류하라”고 일선 경찰서에 지시했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJQ2EJOZ4FCRXBDXCBSZPKCPZM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 단순 상담 등 경찰이 직접 출동을 하지 않은 경우에 대해서도 접수 단계에서 관계성 범죄 여부를 재차 확인하기로 했다. 신고 당시에는 관계성 범죄로 분류되지 않았더라도 수사 과정에서 관련 범죄로 확인되면 반드시 관계성 범죄로 분류하라는 지시도 내려졌다. &lt;br&gt;&lt;br&gt;경찰에 따르면 이런 원칙은 지난해 말부터 시행되고 있었다. 하지만 최근 경기 의정부와 대전, 울산 등에서 관계성 범죄로 인한 살인 사건이 잇따라 일어나자, 대응을 강화하는 차원에서 원칙을 다시 강조한 것이다. 경찰 관계자는 “신고 단계에서부터 철저하게 관계성 범죄 여부를 살펴 관련 범죄를 차단할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘시청역 역주행’ 운전자, 2심서 금고 5년으로 감형…왜?</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/T74RALSCSVGEHDUY4OGFU6OKTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/T74RALSCSVGEHDUY4OGFU6OKTE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 07:08:27 +0000</pubDate>
-      <content:encoded>지난해 7월 서울 시청역 인근에서 역주행 사고를 낸 운전자가 2심에서 감형받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4SJ5P66KFBHWRPQMNQXULGRBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'시청역 역주행 참사' 가해 차량 운전자 차 모 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사5-1부(재판장 소병진)는 8일 교통사고처리특례법상 치사·치상 혐의로 구속 기소된 차모(69)씨에게 금고 5년을 선고했다. 1심이 선고한 금고 7년 6개월보다 줄어든 형이다. 금고형은 교도소에 가두되, 노역은 시키지 않는 형벌이다. &lt;br&gt;&lt;br&gt;1심은 차씨가 브레이크 대신 가속 페달을 밟은 과실로 여러 피해를 낸 것을 각각 다른 범죄로 판단해 실체적 경합 관계로 보고 형을 정했다. 실체적 경합은 여러 행위가 각각의 범죄를 구성하는 경우를 의미한다.&lt;br&gt;&lt;br&gt;그러나 2심은 이 사고가 하나의 과실, 즉 운전자가 브레이크를 잘못 밟은 행위에서 비롯됐고, 그 결과만 여러 갈래로 나타난 것이라며 상상적 경합 관계로 판단했다. 상상적 경합은 하나의 행위가 여러 범죄에 해당하는 경우를 뜻한다. 이에 2심이 차씨에게 적용된 여러 혐의 중 가장 무거운 죄(사망에 이르게 한 것)를 기준으로 형을 다시 설정하면서, 금고 5년으로 형량이 다소 줄었다. &lt;br&gt;&lt;br&gt;2심은 “이 사고는 과속 페달을 제동 페달로 밟은 과실이 주된 원인이 돼 발생했다”며 “인도를 침범해 보행자들을 사망·상해에 이르게 한 것과, 승용차를 연쇄 충돌해서 운전자를 상해에 이르게 한 것은 동일한 행위의 결과가 다르게 나타난 것에 불과하다”고 밝혔다.&lt;br&gt;&lt;br&gt;차씨는 지난해 7월 1일 오후 9시 26분쯤 시청역 인근 웨스틴조선호텔 지하 주차장에서 차를 몰고 빠져나오다가 역주행하며 인도로 돌진한 뒤 보행자와 차량 두 대를 들이받았다. 이 사고로 9명이 숨지고, 5명이 다쳤다.&lt;br&gt;&lt;br&gt;차씨는 수사 과정에서부터 항소심에 이르기까지 “차량 급발진으로 사고가 발생했다”며 혐의를 전면 부인해왔다. 그러나 2심도 차씨의 급발진 주장을 받아들이지 않았다. 2심은 “제동 장치가 정상적으로 작동하지 않은 상태에서 일어난 불가항력적 급발진 사고라는 피고인 측 주장과 항소 이유는 받아들이지 않는다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>손님에 “빨리 잡숴” 면박… 속초 오징어 난전, 영업 중단</title>
       <link>https://www.chosun.com/national/national_general/2025/08/09/ODKQZEVDRBEJDGAYFR33HMCESE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/ODKQZEVDRBEJDGAYFR33HMCESE/</guid>
@@ -943,38 +980,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 05:22:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6G35WJLXPFJD5FZBUCUWGHZ3AY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강원 속초시수협, 채낚기경영협회, 양미리자망협회가 8일 오전 수협3층 대회의실에서 공동 자정결의대회를 열고, 최근 유튜브를 통해 알려진 오징어난전 불친절 논란에 대해 사과하고 재발방지를 약속하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불친절 논란에 휩싸인 속초 포장마차촌 ‘오징어 난전’ 측이 “깊이 반성하고 있다”며 사과했다. 또 문제의 식당에 영업 정지 처분을 내리고 내부 규정 재정비 등을 위해 오징어 난전 전체를 일시적으로 운영 중단하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;오징어 난전을 운영하는 속초시수산업협동조합과 속초시 채낚기 경영인협회, 속초시 양미리 자망협회는 8일 강원 속초시 청호동 속초시수산업협동조합에서 특별 친절교육과 자정 결의대회를 개최하고 “해당 입주자에 대해 지난달 22일 경고 처분했다”며 “동일 민원 재발 시 영업정지 또는 영업 폐쇄까지 검토하겠다”고 했다. &lt;br&gt;&lt;br&gt;오징어 난전 측은 문제의 업장에 대해 오는 31일까지 영업 정지 처분을 내렸다고 밝혔다. 또 포장마차촌에 입주한 다른 매장들에 대해서도 오는 17∼22일 운영을 중단한 뒤 내부 규정 등을 재정비하겠다고 했다. &lt;br&gt;&lt;br&gt;이날 오징어 난전 상인 일동은 사과문을 발표했다. 사과문은 불친절 논란을 빚은 매장 점주가 직접 낭독했다. &lt;br&gt;&lt;br&gt;상인 일동은 “오징어 난전 불친절 사례가 언론과 유튜브 등을 통해 전해지면서 많은 비판과 비난이 쏟아지고 있다”며 “국민 여러분께 심려를 끼쳐드린 점 송구스럽게 생각하고 불편을 겪으신 분들께 진심으로 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;이어 “상인들은 불친절한 응대 문제의 심각성을 엄중하게 받아들이고 깊이 반성하고 있다”며 “이번 결의대회를 통해 모든 상인을 대상으로 친절 교육을 실시하고 다시는 재발하지 않도록 노력하겠다”고 했다. 아울러 “천혜의 자연환경을 갖춘 관광 도시 속초시의 이미지를 실추시킨 점 거듭 사과드린다”며 “우리 상인들은 고객님들의 소중한 목소리를 더욱 겸허히 받아들이고 앞으로 더욱 친절한 응대로 보답하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUMX5DIF25DMFAWREVVHR5HPMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;강원도 속초의 한 오징어 난전 식당 직원이 1인 손님에게 "빨리 먹으라"고 재촉하는 모습. /유튜브 '김술포차'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 결의대회에 참석한 강정호 강원도의원은 지역 관광에서 오징어 난전의 역할과 중요성을 강조하며, 친절한 태도로 관광객들을 대할 것을 부탁했다.&lt;br&gt;&lt;br&gt;속초시도 재발 방지와 함께 운영 개선을 약속했다. 시 관계자는 “서비스 품질 개선을 위해 지속해 현장 지도를 실시하고 불친절 사례를 철저히 점검하겠다”며 “관광 신뢰 회복에 행정력을 집중해 다시 찾고 싶은 도시 속초가 되도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 이번 논란은 지난 6월 26일 한 유튜브 채널에 올라온 영상에서 비롯됐다. 영상에 오징어 난전의 한 식당 직원이 손님에게 식사를 재촉하거나, 자리 이동을 요구하는 모습 등이 공개된 것이다. 이 식당 직원은 바깥쪽 테이블에 자리를 잡은 후 오징어회 2마리, 오징어통찜 1마리와 소주 1병을 주문한 유튜버에게 “이 아가씨야, 여기에서(안쪽에서) 먹으면 안 되겠니?” “아가씨 (음식) 갖고 일로 안으로 들어오면 안 돼?” “빨리 잡숴” 등 재촉했다. 직원은 메뉴가 나온 지 10분이 지나지도 않은 시점부터 이런 요구를 지속했다고 한다.&lt;br&gt;&lt;br&gt;이후 이달 초 뒤늦게 영상이 온라인에 확산하면서 불친절 논란이 불거졌다. 네티즌들은 “저럴 거면 손님을 받지 말지 보는 사람이 다 불쾌하다” “저건 불친절을 떠나서 기분이 너무 나쁘다“ “아무리 관광지여도 그렇지 저렇게 심한 곳은 처음 본다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검 “尹 체포영장 재청구 없이 바로 기소도 검토”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/JZBSFFDQH5FSHGGOYNF7ZPOJ7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/JZBSFFDQH5FSHGGOYNF7ZPOJ7U/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 05:43:06 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특검팀은 8일 정례 브리핑에서 “윤석열 전 대통령에 대해 추가 체포영장을 청구하지 않고 기소하는 방안도 고려하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHNMS35DE6TY7UNOC3JBE3YUUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문홍주 특검보는 이날 브리핑에서 “윤 전 대통령 체포영장은 집행불능으로 처리해 유효 기간이 만료됐다”며 “필요하다만 다시 청구할 것”이라고 했다. 다만 “재청구와 관련해 여러 논점이 나왔다”며 “두루 살펴보면서 다시 청구할지 여부를 고민 중”이라고 밝혔다. ‘추가 체포영장 청구 없이 기소하는 것도 고려하느냐’는 질문엔 “여러 가지 방법 중 하나로 고려 중에 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령 측에서 “진술거부권을 행사할 예정인 데도 구속된 윤 전 대통령을 강제 인치하려는 것은 가혹행위”라는 취지로 주장하는 데 대해선 “그 의견에 동의하지 않는다”며 “고발이 접수될 경우 내용을 살펴보고 나중에 조치할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 김 여사가 구속됐을 경우 진술거부권을 행사할 가능성에 대해선 “다양한 입장에서 다양한 각도로 준비하고 있다”며 “진술거부에 대해서도 당연히 준비가 돼 있다”고 했다. 이어 “소환 조사 당시 경과를 보면 진술을 거부하지는 않을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/STSCHUGUIBUYWGLEIF3KBFQAZA.jpg?auth=45e5ecfd1a5a5dc49bb2350d5af4af614a2bbb1fc1012297c288f732b4db0209&amp;smart=true&amp;width=4954&amp;height=3303" type="image/jpeg" height="3303" width="4954">
-        <media:description type="plain">12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령 2025.7.9/뉴스1 ⓒ News1 사진공동취재단</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 사진공동취재단</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>정비사업 특혜 제공 대가로 뇌물 수수 혐의...서울시의원·구청과장 입건</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/4SQKHVRCCJEW3OHBO2HRL3FW4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/4SQKHVRCCJEW3OHBO2HRL3FW4I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 06:50:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정비사업 추진 과정에서 사업자들에게 특혜를 제공해주기로 하고 그 대가로 돈을 받았다는 혐의를 받는 국민의힘 소속 서울시의원과 전 중구청 4급 공무원이 경찰에 입건된 것으로 8일 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 서울시의회 등에 따르면, 서울중부경찰서는 뇌물 수수 혐의를 받고 있는 서울시의원 A씨와 전 중구청 과장 B씨에 대해 지난달 자택과 휴대전화 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;A씨 등은 2023년 9~10월쯤 서울 중구 황학동 시장 정비 사업에 관심을 보이던 사업자 C씨 등에게서 여러 차례에 걸쳐 현금 400만~1000만원을 건네받은 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;A씨는 당시 서울시 시장정비사업심의위원회 심의위원을 지내고 있었고, B씨는 중구 시장정비사업을 총괄하는 업무를 맡고 있었다.&lt;br&gt;&lt;br&gt;시장 정비 사업에 관심을 갖고 있던 C씨 등이 사업상 편의를 제공받기 위해 A·B씨 등에게 금품을 준 것으로 경찰은 의심하고 있다. 경찰은 뇌물 공여 정황이 담긴 통화 녹취도 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러나 정작 황학동 시장 정비 사업은 엎어졌다. 주민 동의 요건에 맞지 않는다는 이유로 지난해 9월 반려됐다.&lt;br&gt;&lt;br&gt;현재 뇌물을 줬다는 C씨 등과 받았다는 A·B씨는 모두 혐의를 부인하고 있는 것으로 전해졌다. 경찰은 압수물 분석을 마치는 대로 사건 관계자들을 차례로 불러 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법 이민자 잡는 연방 요원 되겠다는 이민자 출신 슈퍼맨</title>
-      <link>https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</guid>
-      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 05:09:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7NGIBVA4VPJJGHJMZJZ4DQUXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1990년대 미국 TV 시리즈 '로이스 앤 클라크 :슈퍼맨의 새로운 모험'에서 슈퍼맨 역을 맡아 대중에 널리 알려진 배우 딘 케인은 ICE(이민세관단속국) 요원이 되겠다고 했다.
-/AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“미국은 인기가 있든 없든 나서서 옳은 일을 하는 애국자들에 의해 세워졌습니다. 저는 이것이 진정으로 옳은 일이라고 믿습니다. 가능한 한 빨리 이민자를 단속하는 ICE(이민세관단속국) 요원이 될 것입니다.”&lt;br&gt;&lt;br&gt;1990년대 미국 TV 시리즈 ‘로이스 앤 클라크 :슈퍼맨의 새로운 모험’에서 슈퍼맨 역을 맡아 대중에 널리 알려진 배우 딘 케인은 6일 폭스뉴스에 나와 “도널드 트럼프 대통령은 불법 이민자를 추방하겠다는 공약으로 당선됐고 나도 내 역할을 다해 그것이 실현되도록 도울 것”이라면서 이렇게 말했다. 케인은 유명 연예인들이 정부 기관을 홍보해주는 ‘명예 요원’이 아닌 실제 법 집행을 하는 요원으로 정식 활동하겠다는 것이다.&lt;br&gt;&lt;br&gt;케인은 5일 자신의 인스타그램에 ICE에 지원하라는 독려 영상을 올려 화제가 됐다. 이 영상에서 그는 슈퍼맨 영화 음악을 배경으로 “지금은 미국을 불법 이민자들로부터 구해 내야 할 때입니다. 미국은 당신의 도움이 필요합니다. 지금 당장 ICE 요원이 되십시오”라고 했다. 케인에 따르면 이 영상을 올린 뒤 미 정부에서 연락이 왔다고 한다. 그는 인터뷰에서 “다른 요원들처럼 길거리에서 사람을 잡는 역할을 하게 되냐”는 질문에 “세부적인 사항은 아직 모르지만 단속을 할 때 마스크는 쓰지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;케인은 할리우드에서 트럼프를 가장 적극적으로 지지하는 인물 중 한 명이다. 2016년, 2020년, 2024년 대선에서 트럼프를 공개적으로 지지하고, 지난달 한 매체 인터뷰에서는 “트럼프는 당신이 만날 수 있는 가장 공감 능력이 뛰어나고 훌륭하며 관대한 사람 중 한 명”이라고 했다. 지난달 개봉한 영화 ‘슈퍼맨’에 대해서도 “제임스 건 감독이 그 영화가 이민에 관한 것이라고 말한 건 영화 흥행에 해가 될 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;ICE는 연간 최대 100만명의 불법 이민자 추방 목표를 세운 상황이다. 트럼프 정부는 이를 더욱 강력하게 실행하기 위해 ICE 요원 채용에 나섰다. 신규 채용자에게 최대 5만 달러(약 7000만원)의 보너스, 최대 6만 달러의 학자금 대출 상환 지원 등 다양한 혜택을 주겠다고 홍보하고 있다. 트럼프가 서명한 ‘하나의 크고 아름다운 법안’(One Big Beautiful Bill Act·OBBBA)에도 추방 작전을 위해 144억 달러의 예산과 1만명의 신규 ICE 요원을 지원한다고 되어 있다. &lt;br&gt;&lt;br&gt;최근 크리스티 놈 국토안보부 장관은 “1만명을 모집하는데 이미 8만명이 지원서를 냈다”고 했다. 일각에서는 영화 속 슈퍼맨이 크립톤 행성에서 온 외계인 이민자라는 점을 들어 아이러니한 상황이라는 지적도 나온다. CNN은 “자신이 연기했던 캐릭터가 외계에서 온 이민자였음에도 그(케인)는 미국으로 오는 외국인에 대해 강경한 입장을 보인다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
