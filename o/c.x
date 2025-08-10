@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>속옷에 마약 숨겨 밀반입 시도한 30대 연인 중형</title>
+      <link>https://www.chosun.com/national/2025/08/11/A3UVUNMHZNGZVJFJ6QM4E4ALYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/11/A3UVUNMHZNGZVJFJ6QM4E4ALYE/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 03:57:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIMLPTEAP5HZVF456W27KZ5RI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;속옷 안에 시가 2000만원 상당의 마약을 숨겨 국내로 밀반입하려던 30대 남녀 일당에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 특정범죄가중처벌법 위반(향정신성의약품 밀반입) 혐의로 기소된 A(30대)씨에게 징역 9년, B(여·30대)씨에게 징역 7년을 각각 선고했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면 A씨 등은 지난 1월 20일 오전 1시 30분쯤 김해국제공항을 통해 마약류인 케타민 총 320g(시가 약 2080만원 상당)을 국내로 들여온 혐의를 받는다. A씨 등은 전날인 1월 19일 베트남 한 공항에서 속옷 속에 마약류를 숨긴 뒤 입국한 것으로 전해졌다. 일명 ‘클럽 마약’으로 불리는 케타민은 환각, 환란, 기억 손상 등의 증세를 유발하는 것으로 알려져있다.&lt;br&gt;&lt;br&gt;연인 관계인 A씨 등은 재판 과정에서 “베트남 현지 공항에서 만난 한국인 부부로부터 ‘명품 시계 등을 국내로 밀수입해 주면 수고비를 주겠다’는 제안을 받고 밀봉된 상태의 물건을 속옷에 숨긴 뒤 들여온 것일 뿐 밀봉된 물건 속에 마약류가 들어있었던 점은 몰랐다”는 취지로 혐의를 부인했다. &lt;br&gt;&lt;br&gt;하지만 재판부는 이들의 주장을 받아들이지 않았다. 베트남에서 만났다는 한국인 부부에 대한 두 사람의 진술이 일치하지 않았던 것. 재판부는 “피고인들은 ‘입국한 뒤 한국인 부부와 부산 지하철 명지역 1번 출구에서 만나기로 했다’고 했는데, 실제로 그런 곳이 없는 점 등을 종합하면 이 사건 ‘한국인 부부’가 실존하는지 의문이 든다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨 등의 주장과는 달리 밀봉된 상태의 물건이 명품 시계 등 금속류 액세서리라고 보기에 상당히 가볍다는 점, 만졌을 때 내용물이 금속이 아니라는 점을 충분히 감지할 수 있었을 것이라는 점도 재판부 판단의 근거가 됐다. &lt;br&gt;&lt;br&gt;김용균 부장판사는 “마약류 범죄는 국민 보건에 심대한 해악을 끼치고 다른 범죄를 유발하기도 하는 등 사회 전반에 심각한 악영향을 미치는데, 피고인들은 범행을 부인하고 있다”며 “케타민이 압수돼 유통에 이르지 않은 점 등을 고려해 형을 정했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>육군 10만명 줄어... 철책 근무 설 병사가 모자란다?</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/YGLWLA7N7FAGDPJQAY7KOBY3MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/YGLWLA7N7FAGDPJQAY7KOBY3MA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 02:51:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3MWS2FCQWSLQY2ICBMETB62V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육군 51사단 장병들이 7월 31일 오전 인천시 서구 도시지역전투훈련장에서 대테러 초동조치 및 도시지역 탐색격멸 훈련을 하고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 병력이 45만명대까지 줄어들면서 사단급 이상 부대 17곳이 해체되거나 통합된 것으로 나타났다.&lt;br&gt;&lt;br&gt;10일 국회 법제사법위원회 소속 추미애 더불어민주당 의원실이 국방부와 병무청에서 제출받은 자료에 따르면, 우리 군 병력은 2019년 56만명에서 2025년 7월 기준 45만명으로 6년 만에 11만명이 줄었다.&lt;br&gt;&lt;br&gt;정전 상황에서 필요하다고 언급돼 온 최소 병력 50만명이 이미 2년 전 무너진 데 이어, 현재는 그보다도 5만명이나 적은 수준이다. 특히 육군 병력은 같은 기간 30만명에서 20만명으로 10만명 이상 감소했다.&lt;br&gt;&lt;br&gt;현역 판정 기준을 완화해 현역 판정률이 69.8%에서 86.7%로 16.9%포인트 상승했지만, 저출산에 따른 병력 감소를 막아내는 건 역부족이었다. 간부 선발률(선발 계획 대비 선발 인원)도 2019년 약 90%에서 2024년 50% 수준으로 급락했다. 이로 인해 장기복무 인원 확보는 물론 부대 운영 전반에 차질이 우려되는 상황이다. &lt;br&gt;&lt;br&gt;병력 감소는 부대 구조에도 직격탄을 날렸다. 국방 개혁 과정에서 2006년 59곳이던 사단급 이상 부대는 현재 42곳으로 줄었다. 강원도와 경기 북부 지역의 전투 부대(보병·기계화)와 동원 부대가 주로 해체됐다. 오는 11월에는 경기 동두천 주둔 육군 제28보병사단도 해체될 예정이다.&lt;br&gt;&lt;br&gt;해체된 부대 임무는 인근 부대가 분담하고 있어 전력 운용 과부하가 불가피하다. 한 부대가 기존보다 넓은 방어 구역을 맡게 되면서 작전 효율성과 대응 능력 저하 우려도 커지고 있다. 이 같은 병력 감소와 부대 해체는 우수 인재 확보의 어려움, 장비 운용 능력 저하, 작전 수행 역량 약화 등 다방면에서 부작용을 초래할 수 있다는 지적이다.&lt;br&gt;&lt;br&gt;국방부는 병력 감소의 주된 원인으로 저출산과 병사 처우 개선에 따른 간부 지원 기피 등을 지목했다. 일정 규모의 상비 병력을 유지하기 위해 보충역·상근예비역 감축, 여군 확대, 단기복무장려금 지급 확대 등 간부 유인책을 추진하고, 비전투 분야 민간 인력 확대와 장교·부사관 장기 활용 방안도 검토할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 아파트 방화 추정 화재… 엄마·10대 자녀들 3명 참변 </title>
+      <link>https://www.chosun.com/national/2025/08/11/RM646CUACZH7XODUKL5AESB45Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/11/RM646CUACZH7XODUKL5AESB45Y/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 02:04:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSTLHUCYDJKY7EMU63CKZ6SSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 대구 동구 아파트에서 방화가 의심되는 불이 나 일가족 3명이 숨진 사건과 관련해 경찰이 현장을 확인하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 아파트에서 방화로 의심되는 화재가 발생해 일가족 3명이 숨졌다.&lt;br&gt;&lt;br&gt;10일 경찰과 소방에 따르면 이날 오전 3시 35분쯤 대구시 동구 신천동 한 17층짜리 아파트 11층에서 불이 났다.&lt;br&gt;&lt;br&gt;주민 신고로 119가 출동해 19분 만에 불을 껐지만 일가족 3명이 숨진 채 발견됐다. ​사망자 중 10대 자매 2명은 안방에서, 40대 어머니는 베란다 밖으로 추락한 상태였다. 현재까지 사망자들에게 별다른 외상 흔적은 발견되지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 불로 주민 3명이 연기를 흡입하는 등 경상을 입었고, 20 여명은 급히 대피하기도 했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 누군가 불을 지른 것으로 추정하고 있다. 화재 현장에는 안방과 주방, 거실 2곳 등 총 4곳의 발화 지점이 확인됐다. 발화점 주변에는 양초와 성냥이 다량 놓여있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 현장에 없었던 아버지 등 유가족들을 대상으로 사건 경위를 조사한 뒤 피해자들 시신을 부검해 정확한 사인도 확인할 계획이다. 경찰 관계자는 “여러 가능성을 열어 두고 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;불이 난 아파트는 1990년대에 지어져 스프링클러 설치 대상이 아닌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생에 “싸가지 없는 XX” 혼잣말한 교사…대법 “아동학대 아냐”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/HCGZOQITO5A5HCRCK5SU6DENS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/HCGZOQITO5A5HCRCK5SU6DENS4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 02:19:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2DBSIM3ZHGQLXDWWTWMISSSKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수업 시간에 지시를 따르지 않은 초등학교 4학년생에게 혼잣말로 욕설한 교사를 아동 학대로 처벌하기 어렵다는 대법원 판단이 나왔다. 정서적 학대 해당 여부는 당시 교사의 태도, 학생의 반응, 정신 건강에 미친 영향 등 여러 사정을 종합적으로 고려해야 한다는 취지다.&lt;br&gt;&lt;br&gt;11일 법조계에 따르면 대법원 제1부(주심 마용주 대법관)는 지난달 3일 아동복지법 위반(아동 학대) 혐의로 기소된 광주 한 초등학교 4학년 담임교사 A씨 사건에서 벌금 50만원 선고를 유예한 원심을 깨고 사건을 광주고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨는 2022년 5월, B군이 수업 중 “휴대폰을 가방에 넣어두라”는 지시를 따르지 않자 휴대폰을 뺏었다. B군이 책상을 치며 짜증을 내자 다른 학생들 앞에서 “이런 싸가지 없는 XX가 없네”라고 말했고, 옷깃을 잡아당긴 뒤 볼을 꼬집었다. 이후 B군을 교실 뒤편에 약 12분간 서 있게 했다.&lt;br&gt;&lt;br&gt;검찰은 이 발언과 행위가 아동복지법 제17조에서 금지하는 정서적 학대에 해당한다며 기소했다. 1심은 욕설 부분은 학대가 맞지만 나머지는 훈계 목적이었다고 보고 선고를 유예했고, 2심은 양측 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;하지만 대법원의 판단은 달랐다. 재판부는 A씨 발언이 부적절하고 학생에게 불쾌감을 줄 수 있으나, 이를 정신적 폭력이나 가혹 행위로 볼 수는 없다고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “A씨 발언의 계기가 된 B군의 행위는 교권을 침해하는 수업 방해 행위”라며 “담임교사는 학생 지도에 일정한 재량권을 가지며, 수업을 방해한 학생에 대해 훈계·훈육 등 교육적 조치를 취할 수 있다”고 밝혔다. 이어 “학생을 분리된 장소로 부르지 않고 그 자리에서 바로 지적했다고 해서 재량권 범위를 벗어난 것으로 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;또한 “당시 A씨가 보인 태도, B군의 성향, 발언 정도와 경위 등을 고려하면 B군의 인격을 직접적으로 비하하려 한 것으로 보이진 않는다”며 “감정을 통제하지 못하는 학생을 진정시키려는 의도였거나 교육 현장의 세태와 어려움에서 나온 혼잣말·푸념에 가까웠던 것으로 볼 여지가 있다”고 했다.&lt;br&gt;&lt;br&gt;B군이 법정에서 “좀 기분이 나쁘고, 슬펐고, 친구들 많은 데서 들어 X팔렸다”고 진술한 점에 대해, 재판부는 “A씨 발언이 B군의 정신 건강과 정상적 발달을 저해하거나 그 결과를 초래할 위험에 이를 정도라고 단정하긴 어렵다”고 봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사귄 지 3개월 만에 임신” 이민우, 싱글맘 예비 신부 공개</title>
+      <link>https://www.chosun.com/national/people/2025/08/11/WPNNTMYTHBDJBICR5UDURBTDNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/11/WPNNTMYTHBDJBICR5UDURBTDNQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 09 Aug 2025 23:28:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIWKUPCNJFDIBBS32CD7IYXRHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민우(오른쪽)과 예비 신부./''살림하는 남자들 시즌2'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 신화의 멤버 이민우가 결혼을 앞두고 예비 신부를 공개했다. 사귄 지 3개월 만에 2세 소식을 전한 이민우는 예비 신부가 싱글맘이라는 사실도 밝혔다.&lt;br&gt;&lt;br&gt;이민우는 지난 9일 방송된 KBS2 ‘살림하는 남자들 시즌2’에서 직접 제작진에게 결혼 소식을 전했다. 예비 신부는 6세 딸을 홀로 키우고 있는 재일교포 3세다. 이민우는 이날 영상통화를 하며 예비 신부의 얼굴을 공개했다. &lt;br&gt;&lt;br&gt;그는 “2013년 일본 투어를 마친 뒤 지인을 통해 알게 됐다. 2018년 본 게 마지막이었다. 오랜만에 연락을 했는데 그 친구가 힘든 시간을 보냈더라. 6세 딸도 있고 이혼도 했다더라”며 “(재회 후 3개월 만에) 함께 양양으로 놀러 갔는데 아이가 생겼다. 태명이 양양”이라고 말했다.&lt;br&gt;&lt;br&gt;이민우의 결혼 소식을 들은 그의 가족들은 당황한 모습을 보였다. 이민우의 아버지는 “이혼 소식을 아들이 나중에 말해줬다. 임신했다고 해서 의아했지만, 책임을 져야 할 것 아닌가. 아들이 수입도 적고 사기까지 당해 위축된 것 같다”고 말했다. 이어 “결혼 실패하고 자녀가 있단 얘기를 들었을 땐 몇 살인지는 나중에 물어봐서 알았지만 기분이 좀 짠했다”고 말했다. &lt;br&gt;&lt;br&gt;이민우의 어머니는 “(주변에 결혼) 얘기 안 하고 싶더라”라고 솔직한 마음을 드러냈다. 이민우의 누나는 “저는 엄마한테 전해 들었는데, 민우한테는 먼저 아는 척을 안 했다. 민우가 얘기 꺼낼 때까지 저도 인정하고 싶지 않았으니까. 만났다가 헤어질 수도 있는 거라고 생각했다”며 “솔직히 동생이 행복한 게 좋은 거니까, 재혼이고 아기 있다는 말을 듣고 누나 입장으로선 (결혼) 얘기 안 해주길 바란 거였다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 이민우는 지난달 25일 인스타그램을 통해 팬들에게 결혼 소식을 직접 발표했다. 그는 “언젠가는 ‘서로 힘이 되어 주는 나만의 가정을 꾸리고 싶다’라는 막연한 마음이 있었다”며 “그러던 중 오랜 시간 알고 지낸 소중한 인연과 서로 같은 마음을 확인하고 한 가족이 되기로 했다”고 밝혔다. 이민우의 결혼은 에릭, 전진, 앤디에 이어 신화 멤버 중엔 네 번째다.&lt;br&gt;&lt;br&gt;이민우는 1998년 신화로 데뷔해 ‘으쌰! 으쌰!’, ‘퍼펙트 맨’, ‘브랜드 뉴’, ‘와일드 아이즈’ 등 수많은 히트곡을 남겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VIWKUPCNJFDIBBS32CD7IYXRHU.jpg?auth=e9f9443bec448de5bda77ee454172663fe0b410bcaa1cdd6254e85cd06e3747a&amp;smart=true&amp;width=672&amp;height=383" type="image/jpeg" height="383" width="672">
+        <media:description type="plain">이민우(오른쪽)과 예비 신부./''살림하는 남자들 시즌2'</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>휠체어 탄 한국계 MZ 인권운동가...미 국민동전에서 볼 수 있다</title>
       <link>https://www.chosun.com/international/us/2025/08/11/5XC2UWD77RFI3NCWQXTNPHZ6EU/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/us/2025/08/11/5XC2UWD77RFI3NCWQXTNPHZ6EU/</guid>
@@ -892,15 +940,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오전 10시 56분쯤 광주 서구 쌍촌동 한 냉난방기 판매점에서 에어컨 수리 작업을 하던 60대 A씨가 사망했다.&lt;br&gt;&lt;br&gt;“사람이 쓰러져 있다”는 신고를 받고 출동한 소방 당국은 심정지 상태인 A씨를 병원으로 옮겼으나 A씨는 소생하지 못했다.&lt;br&gt;&lt;br&gt;A씨는 고장 난 에어컨을 수리하다가 사고를 당한 것으로 전해졌다. 경찰은 A씨가 안전사고로 인한 사망 여부 등 정확한 사망 경위를 조사하고 있다. 경찰 관계자는 “감전사로 추정한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>문화유산에 멋대로 ‘스티커’ 붙인 남성…이유는 “아이돌 생일”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/XHOOEPGKRZE63HFGNXMQNUVEHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/XHOOEPGKRZE63HFGNXMQNUVEHM/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 05:18:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM5VA6X5ENDXZEMPXRL74IM3WY.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 한 유명 아이돌 가수의 생일을 기념하기 위해 소속사 관계자가 한양도성 보호구역 시설물에 이벤트용 스티커를 붙이고 있다. /서경덕 교수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 유명 아이돌 가수의 생일을 기념한다는 이유로 소속사 측이 문화유산 보존구역에 있는 시설물에 이벤트용 스티커를 무단으로 붙인 사실이 알려졌다. &lt;br&gt;&lt;br&gt;서경덕 성신여대 교수는 8일 “지난 2일 소속사가 아이돌 멤버의 생일을 맞아 서울 시내 26곳에 스티커를 숨기고 이를 찾아낸 팬들에게 애장품을 주는 행사를 진행했다”며 “문제는 현존하는 세계의 도성 중 가장 규모가 크고 역사가 오래된 한양도성 보호구역 내 시설물에 이벤트용 스티커를 붙여놨다는 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;실제로 이 소속사는 사적 10호인 한양도성 인근 보호구역 안내 표지판 등 시설물 최소 4곳 이상에 무단으로 스티커를 붙인 것으로 알려졌다. 이후 스티커를 붙인 장소를 촬영해 소셜미디어에 올리고, 마치 보물찾기를 하는 것처럼 팬들이 찾아오도록 유도했다. &lt;br&gt;&lt;br&gt;서 교수는 “더 황당한 건 당시 뒷처리를 제대로 하지 않아 시설물에는 스티커가 뜯겨나간 흔적이 남아 있었다”고 했다. 앞서 지난 1월에는 KBS 드라마 제작팀이 유네스코 세계유산에 등재된 병산서원의 건축물 기둥에 함부로 못을 박아 논란이 되기도 했다. &lt;br&gt;&lt;br&gt;서 교수는 “이런 일이 계속 벌어지지 않으려면 문화유산의 중요성에 관한 시민의식을 개선해야 한다”며 “정부 및 지자체에서 시민들을 대상으로 관련 교육을 확대해 나가야 한다. 우리 스스로가 우리의 문화유산을 먼저 아끼고 잘 보존하는 데 만전을 기해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>불법 이민자 잡는 연방 요원 되겠다는 이민자 출신 슈퍼맨</title>
       <link>https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/09/4VPCVDOQC5CIBIZZO4P4IYDSNY/</guid>
@@ -920,15 +959,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESQ5BWQCYBJODEWNCB4Y77K3V4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 고수온 주의보가 발령된 충남 서해 천수만에서 가두리양식장 운영 어민들이 8일 폐사를 막기 위해 조피볼락들을 바다에 풀어주고 있다. 이날 조피볼락 67만9000마리가 방류됐다. /태안군 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 오전 10시를 기해 고수온주의보가 발령된 충남 서해 천수만에서 양식 물고기 68만마리가 바다로 방류됐다.&lt;br&gt;&lt;br&gt;천수만 태안군 해역 10개 가두리 양식장 어민들은 8일 조피볼락(우럭) 치어와 중간어 67만9000마리를 방류했다. 이는 수온이 조피볼락이 견딜 수 있는 한계인 28도에 다다르기 전 미리 풀어줘 폐사를 막기 위한 조치다.&lt;br&gt;&lt;br&gt;방류에 참여한 가두리 양식장에는 최대 5000만원씩 지원된다.&lt;br&gt;&lt;br&gt;방류에 참여한 한 어민은 “정성껏 키워왔던 고기들을 풀어주기까지 고민이 많았지만 이대로 가면 폐사할 것 같아 일단 살리는 것이 우선이라고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;태안군은 긴급 방류에 따른 어종 보호를 위해 포획 금지 기간을 설정하고, 어업인 대상 홍보에도 나설 계획이다.&lt;br&gt;&lt;br&gt;양식장 고수온 피해 방지를 위해 올해 32억여 원을 투입하는 태안군은 추가 방류도 검토하고 있다.&lt;br&gt;&lt;br&gt;태안 해역에선 105개 어가가 34.8㏊의 양식장을 운영 중이다. 조피볼락, 숭어 등이 주요 양식품종인데, 총 사육량은 2279만마리에 달한다.&lt;br&gt;&lt;br&gt;충남에선 지난해 고수온으로 조피볼락과 전복 등 824만마리가 폐사해 97억원의 피해가 발생했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>탈북민·노인 속여 17억원대 다단계 사기…2심서 감형</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/72URDTMCG5AMBEAIYSUYGZOJJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/72URDTMCG5AMBEAIYSUYGZOJJM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 03:19:03 +0000</pubDate>
-      <content:encoded>노인과 북한이탈주민 등을 속여 다단계 판매에 끌어들인 뒤 17억원을 가로챈 일당이 2심에서 감형됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73PCJBSTA46FSWJFESIN654VYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사2-2부(재판장 강희석)는 최근 사기, 방문판매법 위반 혐의로 기소된 A(68)씨와 그의 아들 B(47)씨에게 각각 징역 4년 6개월과 징역 3년을 선고했다고 8일 밝혔다. 1심에서 각각 징역 6년과 징역 3년 6개월을 선고된 것에 비해 형량이 다소 줄었다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들은 주로 노약자나 북한이탈주민 같은 취약계층을 상대로 허황된 마케팅이 성공할 것처럼 기망한 뒤 금원을 편취해 죄책이 결코 가볍지 않다”면서도 “늦게나마 재판에서 범죄 사실을 인정하고 반성하는 모습을 보였고, 다수 피해자가 피고인들의 처벌을 원하지 않는다”고 설명했다.&lt;br&gt;&lt;br&gt;이들은 2017~2019년 ‘장세척기’라고 불리는 관장 기구를 판매할 다단계 판매원을 모집했다. 주로 교회나 사무실 등을 빌려 노인과 북한이탈주민 등을 합숙시키며, 해당 기구에 만병통치 효능이 있는 것처럼 홍보한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 “계약금을 내고 판매원이 되고 나서, 또 다른 하위 판매원을 모집하면 ‘추천 수당’을 받아 고수익을 챙길 수 있다”며 피해자들을 속여, 계약금 명목으로 총 17억여 원을 받아 챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이러니 해외 가지” 강원 펜션 1박에 140만원까지 ‘폭등’</title>
       <link>https://www.chosun.com/national/national_general/2025/08/09/CKQG5LKDPVD6ZADFRCVVAXNMZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/CKQG5LKDPVD6ZADFRCVVAXNMZ4/</guid>
@@ -942,28 +972,6 @@
       </media:content>
     </item>
     <item>
-      <title>파키스탄 테러단체 조직원, 국내서 체포… ‘UN 지정 테러단체’ 첫 사례</title>
-      <link>https://www.chosun.com/national/incident/2025/08/09/YXMYD422P5BSTCQLX73AR6LVZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/09/YXMYD422P5BSTCQLX73AR6LVZI/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 01:49:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 숨어 지내던 파키스탄 극단주의 테러단체 조직원이 경찰에 붙잡혔다. UN이 지정한 테러단체의 조직원을 국내에서 체포한 것은 처음이다.&lt;br&gt;&lt;br&gt;경기남부경찰청 안보수사과는 8일 파키스탄 국적의 40대 A씨를 테러방지법 및 출입국관리법 위반 혐의로 구속해 수원지검에 송치했다고 밝혔다. 경찰은 국가정보원으로부터 관련 첩보를 전달받고 수사에 착수, 지난 2일 서울 이태원 일대에서 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 2020년 고향인 파키스탄 나로왈에서 라슈카르 에 타이바에 가입한 뒤 기관총 등 중화기 사용법과 침투 훈련을 받은 정식 조직원이다. 이후 2023년 9월 파키스탄 주재 한국 영사관에 사업 목적으로 허위 기재한 비자 신청서를 제출해 비자를 받은 뒤, 그해 12월 국내에 입국했다.&lt;br&gt;&lt;br&gt;라슈카르 에 타이바는 1980년대 중반 창설된 이슬람 극단주의 무장 조직으로 파키스탄 정보기관(ISI)의 지원을 받고 있는 것으로 알려져 있다. 주요 활동 무대는 인도령 카슈미르 지역이다. 2005년에는 유엔(UN) 테러 단체로 지정됐다. 2008년 11월 인도 뭄바이 연쇄 테러를 주도해 166명을 살해한 사건의 주범이기도 하다. 최근인 지난 4월에도 카슈미르의 파할감에서 발생한 총기 테러 배후로 지목됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 국내 체류 중 테러 자금 모집·송금 등 추가 혐의가 있는지, 공범이 있었는지 여부에 대해 국정원과 공조해 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;A씨는 국내에서 불법 체류 중이었으며, 출입국 당국으로부터 지난달 5일 출국 권고를 받은 상태였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4GJ5IVQVHTSH5UNLGPBVSXPSZU.jpg?auth=815c411fee0791fb3d13c47d47c18cffd088483935d64d60b5b77080ccfe1f00&amp;smart=true&amp;width=4449&amp;height=2962" type="image/jpeg" height="2962" width="4449">
-        <media:description type="plain">경기남부지방경찰청. 2019.10.18/뉴스1 ⓒ News1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>오늘 강원·경북 동쪽 소나기, 주말엔 남부 중심 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/09/F73Q2WS2DJE3RPNEWCRWD5563I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/09/F73Q2WS2DJE3RPNEWCRWD5563I/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 01:16:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z54CJHBIOJDY3A7VESMFAK5SD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 오후 서울 서초구에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 동쪽 지역에 소나기가 내리겠고, 주말인 9~10일에는 남부 지방을 중심으로 강하고 많은 비가 내릴 전망이다. 제주도에는 당분간 비가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 8일 오전부터 저녁 사이 강원도와 경북 동쪽 지역에 5~20mm의 소나기가 내릴 것으로 보인다. 북쪽에서 내려온 차고 건조한 공기와 남쪽에서 올라오는 따뜻하고 습한 공기가 만나 충돌하면서 만들어진 정체전선의 영향으로 제주도에 비가 내리고 있다. 제주도에는 이날 5~40mm의 비가 내릴 것으로 예보됐다.&lt;br&gt;&lt;br&gt;주말인 9~10일은 정체전선과 정체전선에서 발달한 중규모 저기압이 우리나라를 통과할 전망이다. 9일 새벽부터 전남 해안과 제주도에, 오전부터 그 밖의 전라권과 경남권에, 오후부터 경북권에, 밤부터 충청권 남부에 비가 시작되겠다. 10일은 남부지방과 제주도에 비가 이어지겠고, 충청권 남부는 10일 이른 새벽 대부분 비가 그칠 것으로 보인다.&lt;br&gt;&lt;br&gt;9~10일 예상 강수량은 충청권 5~40mm, 전라권 30~150mm, 경상권 30~100mm, 제주도 30~100mm 등이다. 9일 오후부터 10일 오후 사이에는 남부 지방을 중심으로 시간당 30~50mm의 매우 강하고 많은 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>광복절 특사 대상에 ‘위안부 피해자 후원금 횡령’ 윤미향도 있다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/G2HQ63W2MND75OBPRFGQLX57NU/</guid>
@@ -971,18 +979,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 00:44:17 +0000</pubDate>
       <content:encoded>법무부 사면심사위원회가 지난 7일 회의를 열고 윤미향 전 국회의원의 사면을 이재명 대통령에게 건의하기로 결정한 것으로 확인됐다. 윤 전 의원은 일본군 위안부 피해자의 후원금 횡령 등 8개 혐의로 기소됐고, 작년 11월 대법원에서 징역 1년 6개월에 집행유예 3년이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73IEAYYAVNG35JI2JD4Q545VH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤미향 전 의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 사면심사위는 전날 조국 전 조국혁신당 대표와 아내 정경심씨, 최강욱 전 의원 등의 사면·복권을 건의하기로 하면서, 이 명단에 윤 전 의원을 포함했다. 윤 전 의원은 현재 집행유예 기간 중에 있다.&lt;br&gt;&lt;br&gt;윤 전 의원은 정의기억연대(정의연) 이사장으로 위안부 피해자 지원 활동을 한 이력을 내세워 2020년 4월 총선에서 더불어시민당(민주당의 위성정당) 비례대표로 당선됐다. 그런데 그해 5월 위안부 피해자인 이용수 할머니가 기자회견을 열고 윤 전 의원에 대해 “30년 동안 할머니들을 이용해 먹었다”며 후원금 횡령 의혹을 제기하면서 수사가 시작됐다. 그는 의원 임기 시작 전날 “사과한다”면서도 의혹에 대해선 부인했고, 의정 활동을 시작했다.&lt;br&gt;&lt;br&gt;검찰은 2020년 9월 윤 전 의원을 횡령과 사기 등 8개 혐의로 재판에 넘겼지만, 대법원에서 징역형 집행유예가 확정될 때까지는 4년 2개월이 걸렸다. 윤 전 의원은 지난해 5월 국회의원 임기를 정상적으로 마쳤고, 대법원 확정 판결은 그로부터 6개월이 더 지나서야 나왔다. 대법원 판결이 나오자 윤 전 의원은 “2심을 문제없다고 인정한 대법원 판결은 부당하다. 정의연 활동 과정에서 사익을 추구하거나 이를 위해 공모하지 않았다”며 “저는 무죄”라고 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 잼버리 와서 난민 신청… 소송 반복하며 2년째 한국 살이</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/08/STCPHSAI7BFFFP4C3YUHFHUACU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/08/STCPHSAI7BFFFP4C3YUHFHUACU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26BIGUCXXZDOBC7ST4Y3RG4LHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 서울 금천구에 있는 난민 지원 비정부기구(NGO) ‘사단법인 피난처’에서 난민 신청을 하거나 난민으로 인정받은 사람들이 기념 팔찌를 만들고 있는 모습. 법무부에 따르면 난민 제도가 도입된 1994년 이후 정식 난민으로 인정된 사람은 1544명으로, 전체 인정률은 2.7%이다./사단법인 피난처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;라이베리아 국적의 A군은 새만금 세계스카우트 잼버리에 참가하기 위해 2023년 7월 30일 한국에 왔다. 당시 16세의 고등학생이었다. 그리고 2년이 지난 지금까지 A군은 라이베리아로 돌아가지 않고 한국에 머물고 있다. 그는 “난민으로 인정해달라”며 한국 법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;A군은 잼버리 폐막 열흘 뒤 서울출입국·외국인청을 찾아 난민 신청을 했다. 그는 “고향 마을에서 남성 3명이 시체 한 구를 놓고 이야기하는 모습을 목격했다가, 집 마당에서 ‘가만 안 두겠다’는 쪽지가 발견됐다”며 고국에 돌아가면 생명의 위협을 받을 수 있다고 주장했다. 하지만 법무부는 A군 신청을 기각했다. 그러자 A군은 이듬해 5월 서울행정법원에 불복 소송을 제기했다. A군은 1심에서 “협박 쪽지는 인간의 존엄성을 침해하는 박해로 보기 어렵다”면서 청구를 기각하자 항소해 현재 2심 재판을 진행 중이다. &lt;br&gt;&lt;br&gt;본지가 법원과 법무부 등을 대상으로 취재한 결과 A군처럼 잼버리를 계기로 입국한 뒤 난민 신청이나 행정소송을 제기하며 한국을 떠나지 않고 있는 외국인이 50여 명으로 파악됐다. 대부분 아프리카 출신이고 미성년자도 다수 포함돼 있다고 한다.&lt;br&gt;&lt;br&gt;이들이 모국으로 돌아가지 않고 난민 소송을 제기하는 것은 소송이 진행되는 동안 한국에 체류할 수 있는 자격이 주어지기 때문이다. 잼버리 같은 국제 대회 참가자는 보통 90일짜리 단기 방문(C-3) 비자를 받는다. 그런데 난민 신청을 하면 6개월마다 체류 연장이 가능한 난민신청자(G-1) 비자를 받을 수 있다. 이 비자를 받으면 외국인 등록증이 발급되고 법무부 허가를 받아 취업도 할 수 있다. 대법원 확정 판결 전까지는 추방도 불가능하다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMREK6CKTBFTPKI3ICJVRN7EAY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;라이베리아인 B(39)씨도 잼버리 행사 관계자 자격으로 2023년 8월 2일 한국에 입국해 지금까지 한국에 머물며 난민 소송을 하고 있다. B씨는 경기 평택시의 월세 43만원짜리 원룸에서 혼자 지내며 치킨 공장에서 일하고 있다고 했다. 변호사 없이 혼자 2심 재판 중인 B씨는 본지와 만나 “한국에 입국할 때부터 난민 신청을 할 생각을 했다”고 했다. 비슷한 시기 잼버리를 계기로 입국한 파키스탄인 C씨도 “정부에 반대하는 집회에 참석했다가 체포된 적이 있어 돌아갈 수 없다”며 난민 소송을 냈다. C씨는 지난 4월 대법원에서 기각이 확정됐다.&lt;br&gt;&lt;br&gt;법무부에 따르면 난민 신청부터 대법원 확정 판결이 나올 때까지는 평균 54.3개월이 걸린다. 난민으로 인정받을 가능성이 작아도 일단 소송을 내면 4년 반 정도 한국에 합법적으로 머물 수 있다는 얘기다.&lt;br&gt;&lt;br&gt;문제는 이런 제도를 악용한 ‘가짜 난민’ 소송이 남발하고 있다는 점이다. 난민 인정 사유가 없는데도 단순 체류 연장을 목적으로 난민 소송을 내는 경우가 많다는 것이다. 법무부에 따르면, 난민 신청자는 2021년 2341명에서 2024년 1만8336명으로 4년 사이 7배 이상 늘었다. 그러나 작년 말까지 난민으로 인정받은 사람은 1544명 정도다. 난민 인정률이 2.7%에 불과한 셈이다.&lt;br&gt;&lt;br&gt;사정이 이렇지만 난민 소송은 ‘무제한 반복’이 가능하다. 현행 난민법상 난민 신청 횟수나 기간에 제한이 없기 때문이다. 실제 한 외국인은 2012년 9월 단기 비자로 입국한 뒤, 6차례나 난민 신청과 소송을 반복하며 13년째 한국에 머물고 있다. 한 행정법원 판사는 “재판부마다 잼버리 난민 사건을 하나 이상씩 맡고 있을 정도”라며 “터무니없는 이유로 소송을 내더라도 이를 제재할 법적 수단이 없는 실정”이라고 했다.&lt;br&gt;&lt;br&gt;잼버리뿐 아니라 육상·태권도 등 세계 스포츠 대회, 유니버시아드, 학술제 등 한국에서 열리는 다양한 국제 행사도 난민 신청 루트로 활용되고 있다. 대회 종료 후 귀국하지 않고 난민 신청을 통해 체류를 연장하는 식이다. 이런 가짜 난민 신청 사례를 막기 위해 제도적 보완이 필요하다는 지적이 나온다. 그런데 관련 법 개정안은 수년째 국회 문턱을 넘지 못하고 있다. 한 난민 전문 변호사는 “난민 소송 제기 과정을 엄격히 하거나 소송 횟수를 제한하는 등 허위 신청을 가려낼 수 있도록 법을 손봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 잼버리로 입국한 뒤 난민을 신청한 50여 명을 대상으로 한국 생활 교육을 하고 생계비를 지원했다고 한다. 그러나 이들의 귀국 여부나 체류 현황에 대해서는 “공개할 수 없다”는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/26BIGUCXXZDOBC7ST4Y3RG4LHQ.jpg?auth=5272afc19c40f90898779e4ecb9fb804db9a4549d514bc0c7fa19868625d532f&amp;smart=true&amp;width=3543&amp;height=2657" type="image/jpeg" height="2657" width="3543">
-        <media:description type="plain">최근 서울 금천구에 있는 난민 지원 비정부기구(NGO) ‘사단법인 피난처’에서 난민 신청을 하거나 난민으로 인정받은 사람들이 기념 팔찌를 만들고 있는 모습. 법무부에 따르면 난민 제도가 도입된 1994년 이후 정식 난민으로 인정된 사람은 1544명으로, 전체 인정률은 2.7%이다./사단법인 피난처</media:description>
-      </media:content>
     </item>
     <item>
       <title>[어떻게 생각하십니까] 편의점서 파는 약, 13년째 4종류뿐 “아이가 배 아픈데 밤새 발만 동동”</title>
