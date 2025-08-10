@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>새우양식장서 이주노동자 감전사고… 1명 사망·1명 의식불명</title>
+      <link>https://www.chosun.com/national/regional/2025/08/11/VV4STURFPNH7XMVJRBWXTCHIXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/11/VV4STURFPNH7XMVJRBWXTCHIXA/</guid>
+      <dc:creator>고흥=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 10 Aug 2025 10:07:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZSJ5VQWQ6ZJX3S45VOQRI43AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 출동 이미지./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새우 양식장 감전 사고로 이주노동자 1명이 숨지고 1명이 중상을 입었다. &lt;br&gt;&lt;br&gt;10일 고흥소방서와 전남도 등에 따르면, 이날 오후 4시 14분쯤 전남 고흥군 두원면 한 새우 양식장에서 태국 출신 이주노동자 30대 A씨와 베트남 출신 이주노동자 B(37)씨가 감전됐다.&lt;br&gt;&lt;br&gt;이들은 새우 양식장에 설치된 수중 3.5m 깊이 정화 시설에 접근해 모터 정비 작업을 하다 감전된 것으로 알려졌다. 심정지 상태로 병원에 옮겨진 A씨는 이날 오후 6시 12분쯤 사망 진단을 받았다. B씨는 의식을 잃은 상태로 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;전남도 관계자는 “인력사무소에 고용된 A씨는 불법 체류자로 추정된다”고 밝혔다. B씨는 2년 전 고용허가제로 입국한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방은 목격자와 양식장 관계자를 상대로 정확한 사고 경위를 파악하고 있다. 노동 당국도 양식장 관계자를 상대로 정확한 고용 관계를 살피고 있다. 전남도 관계자는 “양식장 안전 관리 실태를 점검하고 산재 예방 교육 등을 추진하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>또 폭파 협박… 공연 앞둔 올림픽체조경기장, 폭발물 발견 안 돼</title>
       <link>https://www.chosun.com/national/national_general/2025/08/11/7COZRAPSEJFEHAQ32HZWKHUEPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/7COZRAPSEJFEHAQ32HZWKHUEPI/</guid>
@@ -962,15 +971,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 07:57:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMLNAYXNBZ445PXJUW5JZE6B5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법, 고법 청사./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병역법 위반으로 벌금형을 선고받았던 사회복무요원이 정당한 사유 없이 상습적으로 근무지를 이탈했다가 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사1단독 박성인 부장판사는 병역법위반 혐의로 기소된 30대 A씨에게 징역 6월에 집행유예 2년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;대구 동구청 청소과 사회복무요원인 A씨는 지난해 11~12월 정당한 사유를 밝히지 않은 채 총 9일 이상 출근하지 않는 등 복무지를 이탈한 혐의로 재판에 넘겨졌다. 병역법상 사회복무요원이 8일 이상 무단결근할 경우 3년 이하의 징역에 처해질 수 있으며, 7일 이내면 경고 조치와 함께 이탈 일수의 5배수를 연장 복무해야 한다. &lt;br&gt;&lt;br&gt;재판 과정에서 A씨는 건강상 이유 또는 불가피한 사정이 있어서 복무 이탈 사전 또는 사후 통보를 했다고 주장했지만, 재판부는 이를 받아들이지 않았다. &lt;br&gt;&lt;br&gt;박 부장판사는 “기록을 살펴본 결과 담당 공무원은 A씨가 진단서를 제출하는 등 결근 사유를 인정할 수 있는 날짜를 제외하고, 소명 자료가 없는 경우에 대해서만 고발한 상황”이라며 “이미 병역법 위반으로 벌금형을 받은 전력이 있는데도 다시 이번 범행을 저지른 점 등을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 검수원복 전으로 되돌린다... 시행령 재개정 착수</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/QC6HCH6PIZFTTCIWYN3FWZNXDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/QC6HCH6PIZFTTCIWYN3FWZNXDY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 07:42:25 +0000</pubDate>
-      <content:encoded>법무부는 정성호 법무장관 지시에 따라 검찰의 직접수사 개시 범위를 부패·경제 등 2대 중요 범죄로 한정한 검찰청법의 입법 취지에 따라 관련 시행령인 ‘검사의 수사개시 범죄 범위에 관한 규정’ 개정에 착수했다고 8일 밝혔다. 본격적인 검찰 개혁 입법에 앞서 이른바 ‘검수원복(검찰 수사권 원상 복구)’으로 불린 시행령을 되돌려놓겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4C7LLS6AVC4WI6DW3M4YSFTKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관이 7일 오전 경기도 과천시 정부과천청사 법무부로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검수원복 시행령은 한동훈 전 국민의힘 대표가 법무장관이던 시절 검찰의 수사권을 사실상 복구했던 조치를 가리킨다. 개정 검찰청법은 검찰이 직접 수사를 개시할 수 있는 범죄를 기존 6대 범죄(공직자·선거·방위사업·대형참사·부패·경제)에서 2대 범죄(부패·경제)로 축소시킨 것이 핵심이다. 이에 대해 규정을 개정하는 방식으로 검찰 수사가 가능한 부패·경제 범죄의 범위를 기존보다 확대하면서 검찰청법에 규정된 ‘중요범죄’에 사법 질서 저해 범죄와 검찰에 고발·수사 의뢰해야 하는 범죄를 포함해 직접수사 범위를 넓힌 게 검수원복 시행령의 요지다. &lt;br&gt;&lt;br&gt;그러나 이재명 정부 출범에 따라 정성호 법무장관이 2022년 9월 시행된 개정 검찰청법 맥락에 맞게 검찰 수사권을 다시 제한하겠다고 밝힌 셈이다. 법무부는 “수사 개시 규정이 개정돼 검사의 직접수사 개시 범위가 대폭 확대됨에 따라 검찰권 남용 방지를 위해 추진된 법률 개정의 취지가 퇴색됐다는 평가가 있었다”고 설명했다. 검사의 직접 수사 개시 사건은 그동안 과잉 또는 봐주기 수사, 하명 수사 등 검찰권 남용의 진원으로 지목돼 왔다고도 했다.&lt;br&gt;&lt;br&gt;이어 “상위법의 개정 취지에 부합하는 시행령 개정을 통해 주권자인 국민의 뜻을 검찰 제도 운영에 충실히 반영하고, 검찰의 무리한 수사를 방지함으로써 검찰을 정상화하는 첫 단추가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>손님에 “빨리 잡숴” 면박… 속초 오징어 난전, 영업 중단</title>
