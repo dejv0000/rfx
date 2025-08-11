@@ -13,6 +13,106 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김해 전자부품 제조업체에서 노동자 숨져…중대재해처벌법 위반 조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/23P7ORJSCBBALODHZ5E4INPPKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/23P7ORJSCBBALODHZ5E4INPPKY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 13:02:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해시의 한 전자부품 제조업체에서 60대 노동자가 숨져 고용 당국이 사고 원인과 중대재해처벌법 위반 여부 등 조사에 착수했다.&lt;br&gt;&lt;br&gt;11일 고용노동부 등에 따르면 이날 오전 7시 20분쯤 경남 김해시의 한 전자부품 제조업체에서 60대 노동자 A씨가 화물차와 전동 리프트 사이에 끼였다. A씨는 사고 뒤 심정지 상태로 병원에 옮겨졌지만, 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 하청 납품업체 소속으로 이날 처음 출근해 짐을 싣는 작업을 하던 중 갑자기 전동 리프트가 작동하면서 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;고용 당국은 해당 사업장에 작업 중지 명령을 내리고 사고 조사에 착수했다. 산업안전보건법 및 중대재해처벌법 위반 여부도 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘위안부 모집 소문 낸 주민 처벌’ 일제 판결문 찾아내</title>
+      <link>https://www.chosun.com/national/regional/2025/08/12/RPZKDFC2JNAN5PFJHMU3GK4OHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/12/RPZKDFC2JNAN5PFJHMU3GK4OHE/</guid>
+      <dc:creator>영암=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 12:41:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPNAUVSUI5GKBJYRWZ7E6AXYRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 영암군이 발굴한, 일제 당시 군 위안부 모집 소식을 소문냈다는 이유로 형사처벌된 내용이 적시된 판결문 사본./영암군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제가 1938년 일본군 ‘위안부’ 동원과 관련한 소문을 퍼뜨린 혐의로 조선인을 형사처벌한 사실이 확인됐다. 전남 영암군은 이러한 내용을 담은 일제강점기 판결문 2건을 발굴했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;광주지방법원 장흥지청은 1938년 10월 “조언비어(유언비어)를 유포해 육군형법을 위반했다”며 영암 주민 4명을 형사 처벌했다.&lt;br&gt;&lt;br&gt;판결문을 보면, 영암군 주민 영막동(당시 40세)씨와 송명심(43)씨는 각각 금고 4개월에 집행유예 2년을 선고받았다. 영씨는 1938년 8월 송씨에게 “황군(皇軍)의 위문을 위해 12세 이상 40세 이하 처녀와 과부를 모집해 만주로 보내기 때문에 올 농번기 이후 결혼하는 사람이 많다고 들었다”고 했다. 이후 송씨는 마을 이장이 마을의 부녀자 수를 조사하고 있다는 사실을 알게 됐다. 그 명단에 자기 딸(15)도 포함돼 있었다. 송씨는 “내 딸은 체구가 왜소해 10세라고 해도 될 정도인데 왜 명단에 넣었느냐? 모두 위안부로 보낸다는데 사실인가?”라고 항의하다 처벌받았다. &lt;br&gt;&lt;br&gt;한만옥(33)씨는 1938년 8월 동네 주민 이운선(59)씨에게 “(일제가) 중국에 있는 황군 위문을 위해 처녀들을 모집하고 있다”고 말했다. 이 말을 들은 이씨는 주변 사람들에게 “딸을 둔 사람은 빨리 시집보내라. 당국에서 황군 위문 처녀를 모집 중인데 나주 쪽에서 이미 3~4명의 처녀가 중국으로 보내졌다”고 말했다. 한씨는 금고 4개월에 집행유예 2년, 이씨는 금고 6개월에 집행유예 3년을 선고받았다.&lt;br&gt;&lt;br&gt;영암군 관계자는 “‘순국선열 및 독립운동가 선양사업회’로부터 관련 사실을 전달받은 뒤 국가기록원에서 판결문을 찾아냈다”며 “일제가 사법권을 남용해 위안부 동원 사실을 감추려고 한 것으로 추정된다”고 말했다. &lt;br&gt;&lt;br&gt;우승희 영암군수는 “이번 판결문에는 일제가 일본군 위안부를 동원하기 위해 유언비어 죄로 형사처벌까지 했던 당시 시대 분위기가 담겨 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘혈세낭비’ 논란 경전철...용인시, 전 시장·교통연구원에 257억 손해배상 청구</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/S3KU5MNR4VHBJBA7CJQL6EWTSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/S3KU5MNR4VHBJBA7CJQL6EWTSQ/</guid>
+      <dc:creator>용인=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 12:27:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E4WBKFFOK5A57NZVW5WUH5JAPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원이 16일 경기 용인경전철 사업을 추진했던 이정문 당시 용인시장 등의 손해배상 책임을 인정하는 판결을 내렸다. 사진은 이날 오후 경기 용인시 경전철 모습. 2025.7.16 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시가 혈세 낭비 논란을 부른 용인경전철과 관련해 이정문 전 용인시장과 한국교통연구원에게 257억원 규모 손해배상을 청구했다. 전임 시장의 용인경전철 사업 손해배상 책임을 인정한 대법원 판결에 따른 후속 조치다.&lt;br&gt;&lt;br&gt;용인시는 11일 “지난 5일 이 전 시장에게 214억6000만원, 한국교통연구원에 42억9000만원을 배상하도록 요구하는 공문을 보냈다”고 밝혔다.&lt;br&gt;&lt;br&gt;용인경전철은 용인 기흥구 구갈동과 처인구 포곡읍을 연결하는 1량짜리 경전철이다. 노선 길이는 18.1㎞다. 용인시가 민간 투자를 받아 2013년 4월 개통했다.&lt;br&gt;&lt;br&gt;용인경전철은 개통 당시부터 용인시가 민간 사업자에게 유리한 계약을 해 세금을 낭비했다는 논란을 불렀다. 당시 국책 연구원인 한국교통연구원은 용인경전철을 지으면 하루 평균 13만9000명이 이용할 것이라는 수요 예측 결과를 냈다. 하지만 용인경전철은 개통 첫해 예상했던 수요의 6% 수준인 하루 평균 승객 8713명에 그쳤다.&lt;br&gt;&lt;br&gt;용인시 주민들은 2013년 10월 전 용인시장 3명과 전현직 공무원, 시의원, 한국교통연구원 등을 상대로 1조232억원 규모의 손해배상을 청구하는 주민 소송을 냈다.&lt;br&gt;&lt;br&gt;1심과 2심은 주민 청구 대부분을 기각했지만 2020년 대법원이 사건을 서울고법으로 돌려보냈다. 서울고법은 파기환송심에서 “용인시는 이 전 용인시장·한국교통연구원·담당 연구원 등에게 책임을 물어 약 214억 6000만원을 용인시에 지급하도록 소송을 청구하라”고 판결했다.&lt;br&gt;&lt;br&gt;대법원이 지난달 16일 재상고심에서 전임 용인시장과 한국교통연구원 등 관련 청구 부분에 대한 상고를 기각해 하급심 판단이 확정됐다.&lt;br&gt;&lt;br&gt;용인시는 이 전 시장과 교통연구원 등 당사자들이 손해배상을 하지 않을 경우 재차 촉구 공문을 보내거나 반환 청구 소송을 제기할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/E4WBKFFOK5A57NZVW5WUH5JAPA.jpg?auth=31a6efd6d44d82932c35098215f44fa70f097e73489fee96b6e77fb69fbaab30&amp;smart=true&amp;width=4828&amp;height=3135" type="image/jpeg" height="3135" width="4828">
+        <media:description type="plain">대법원이 16일 경기 용인경전철 사업을 추진했던 이정문 당시 용인시장 등의 손해배상 책임을 인정하는 판결을 내렸다. 사진은 이날 오후 경기 용인시 경전철 모습. 2025.7.16 /박성원 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>방첩부대장 “곽종근, 尹 추정 인물과 통화 후 ‘공포탄’ ‘국회 단전’ 언급”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/12/7N7ODUIDUFEMRFKWZIA54Y6NSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/7N7ODUIDUFEMRFKWZIA54Y6NSU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 11:14:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACJ7RIBLQFEWH47M5T3NTDYDUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 육군 특수전사령관이 지난 2월 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에서 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 곽종근 전 육군 특수전사령관이 윤석열 전 대통령으로 추정되는 인물과 통화를 한 뒤 ‘공포탄’ ‘강제 단전’ 등을 언급했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;김영권 국군방첩사령부 방첩부대장(대령)은 11일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤 전 대통령의 내란 우두머리 혐의 재판에 증인으로 출석해 이같이 증언했다.&lt;br&gt;&lt;br&gt;김 대령은 지난해 12월 3일 밤 계엄 선포 이후 특전사 지휘통제실에서 곽 전 사령관이 김용현 전 국방부 장관을 비롯해 여러 사람과 통화하는 모습을 봤다고 했다. 그는 “김용현 장관이나 박안수 계엄사령관과 통화할 때는 ‘장관님’ ‘총장님’ 호칭도 했는데 유독 한 통화는 굉장히 많이 경직된 상태로 받았다”며 “가까이 있던 주임원사한테 물었더니 ‘코드원’인 것 같다고 해서 그렇게 인식했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 검사가 코드원이란 말을 듣고 대통령이라고 인식했느냐고 묻자 “그렇다”며 “방첩사처럼 경호 임무를 할 땐 통상 ‘VIP’나 ‘코드원’이라고 하면 대통령을 지칭하는 용어”라고 했다. &lt;br&gt;&lt;br&gt;김 대령은 “통화 이후 그 전에는 나오지 않던 ‘테이저건’ ‘공포탄’ ‘의사당 강제 단전’ 등 수위가 센 단어들이 오고갔다”고 말했다. &amp;nbsp;김 대령은 곽 전 사령관이 단전을 지시한 것인지 묻는 검사 질문에 “(윤 전 대통령)본인이 취할 수 있는 수단이 없어서 답답해하는 상황에서 ‘전기라도 끊을 수 없느냐’는 확인 사항이었다”고 답했다.&lt;br&gt;&lt;br&gt;김 대령은 이튿날 새벽 계엄 해제 요구 결의안이 국회에서 통과된 후 곽 전 사령관이 김 전 장관으로부터 중앙선거관리위원회로 병력을 투입하라는 지시를 받는 것을 봤다고도 했다.&lt;br&gt;&lt;br&gt;그는 “장관의 목소리가 들리지는 않았지만 곽 전 사령관 답변은 정확히 들었다”며 “’장관님, 지금 국회에서도 병력 다 철수했는데 선관위로 다시 병력을 투입하는 것은 어렵겠습니다, 죄송합니다’라는 내용이었다”고 했다.&lt;br&gt;&lt;br&gt;이날 재판에서는 김 대령이 당시 작성한 메모가 공개되기도 했다. 그는 “이미 계엄 해제 의결이 끝났는데 다른 병력을 출동시키란 말이 너무 어처구니가 없어서 반드시 증거를 남겨야겠다는 생각이 들었다”고 했다. 메모에는 ‘미쳐가는구나’ ‘수사 대상’ ‘선관위 투입?’ 등 단어가 적혔다. &lt;br&gt;&lt;br&gt;또 ‘VIP 결단?’ ‘할 바 다 함’ ‘중과부적’ ‘장관 책임’ 등 단어도 있었다. 김 대령은 “상황이 정리되고 4시 정도에 국방장관이 VTC(화상원격회의)로 주요 병력을 움직였던 지휘관들만 놓고 회의를 했는데 저런 말을 했다”고 증언했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 이날 네 차례 연속 자신의 내란 재판에 불출석했다. 재판부는 윤 전 대통령을 강제로 인치하기 어렵다는 서울구치소 측 의견에 따라 이날 피고인 없이 심리하는 궐석 재판을 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부산 소주 자존심’ 대선주조마저... 진로에 점유율 1위 내줬다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/11/T347NW6AZJDLNBWB7CSLLXRWBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/T347NW6AZJDLNBWB7CSLLXRWBA/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 12:10:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VG7PFWQBANHIVJDYKE2UDUQVEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;리뉴얼한 C1소주. /대선주조&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 상반기 하이트진로가 부산 지역 소주 업체 대선주조를 누르고 부산 소주 시장 점유율 1위에 오른 것으로 조사됐다. ‘C1소주’ ‘대선소주’를 앞세워 2017년 이후 줄곧 1위 자리를 지켜온 대선주조는 2위로 밀렸다. 업계 관계자는 “대기업 소주의 마케팅 공세에 지역 소주가 줄줄이 넘어가고 있다”며 “마지막 남은 지역 1위 소주인 대선주조마저 밀렸다”고 했다.&lt;br&gt;&lt;br&gt;11일 대선주조 등에 따르면, 올 상반기 대선주조의 부산 소주 시장 점유율은 30%로 하이트진로(38%)에 이어 2위가 됐다. 대선주조가 하이트진로에 추월당한 건 처음이다. 지난해 점유율은 대선주조가 40%, 하이트진로가 35%였다. 업계 관계자는 “올 하반기에도 하이트진로의 강세가 이어질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;2017년 점유율 5% 수준에 불과했던 하이트진로는 8년 만에 1위에 올랐다. 반면에 2019년 69%였던 대선주조의 점유율은 6년 만에 반 토막 났다.&lt;br&gt;&lt;br&gt;부산 소주 시장은 전국 지역 소주의 ‘마지막 보루’로 불렸다. 제주 한라산, 경남 무학, 전남 보해양조, 대구·경북 금복주, 대전·충남 선양 등은 이미 하이트진로에 1위 자리를 내줬다.&lt;br&gt;&lt;br&gt;하이트진로는 지난해 광고·마케팅비로만 1840억원을 썼다. 지난해 대선주조 매출액(519억원)의 3.5배 수준이다. 업계 관계자는 “이제 애향심에 호소하는 것만으로는 한계가 있다”며 “빠르게 변하는 소비 트렌드에 맞춰 제품을 차별화해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;대선주조 관계자는 “2030세대를 공략하기 위해 소주 디자인을 다양하게 바꾸고 지역 공헌 활동도 강화할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/25YYPRXIMRFQXJ2WJIKYKYSPRQ.jpg?auth=6cc7281951a256530bee2a3160189120c68aa2504d0572bd34397a7c02c4965d&amp;smart=true&amp;width=1544&amp;height=1158" type="image/jpeg" height="1158" width="1544">
+        <media:description type="plain">리뉴얼한 C1소주. /대선주조</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전공의 수도권 쏠림에... 복지·급여로 손 내미는 지방 병원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/12/2SO3U6XAXBBE5ECKHWPKNBPL2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/12/2SO3U6XAXBBE5ECKHWPKNBPL2E/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 11:39:29 +0000</pubDate>
+      <content:encoded>11일 시작한 하반기 전공의 모집을 둘러싸고 ‘양극화’ 우려가 나오고 있다. 지역별로는 수도권에, 과목별로는 인기 과에 전공의 복귀가 쏠린다는 것이다. 이에 지방의 일부 수련 병원은 처우 개선과 복지 확대를 내세워 전공의 확보에 열을 올리고 있다.&lt;br&gt;&lt;br&gt;의료계에 따르면 대전을지대병원은 지난해 말 전공의 급여를 인상했다. 연차별로 최대 17.4%까지 올렸다. 의료계 관계자는 “연차·과목별로 다르겠지만, 연간 수백만 원 수준의 인상 효과가 있을 것”이라고 했다. 이 병원은 또 전공의가 입사하면 숙소를 무상으로 제공한다. 국내외 학회 참석도 적극 독려하고, 관련 비용도 지원한다. &lt;br&gt;&lt;br&gt;다른 지방 병원도 전공의 복귀 유인책을 마련하기 위해 고심하고 있다. 근무 일정을 파격적으로 조정하거나, 우수 전공의에게 단기 해외 연수를 보내주는 방안 등을 고려하는 병원들도 있다. &lt;br&gt;&lt;br&gt;지방 병원들의 이 같은 노력에도 불구하고 전공의들의 수도권 쏠림 현상은 더욱 심화할 것으로 보인다. 올 초 상반기 모집 때는 복귀 전공의 가운데 64%, 지난 5월 추가 모집 때는 71%가 수도권 병원으로 복귀했다. 의료계 관계자는 “예전부터 이른바 ‘빅5 병원’으로의 전공의 쏠림 현상은 있었지만, 의정 갈등을 겪으며 상당수 지방 의대 교수들마저 서울·수도권 의대로 자리를 옮기는 등 지방 의료 상황은 더 악화됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정읍에서 SUV·트럭 충돌 사고로 1명 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/H73LY4CTXREL3EJZ22STNM2DII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/H73LY4CTXREL3EJZ22STNM2DII/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 11:38:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PXQRPADWKZRD55FZIXOKMIGZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 1시 45분쯤 전북 정읍시 부전동 부전저수지 인근 도로에서 SUV 차량과 1t 트럭이 충돌해 소방대원들이 사고 현장을 수습하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍의 한 도로에서 SUV 차량과 1t 트럭 충돌 사고로 1명이 사망해 경찰이 사고 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;11일 전북소방본부 등에 따르면 이날 오후 1시 45분쯤 전북 정읍시 부전동 부전저수지 인근 도로에서 SUV 차량과 1t 트럭이 충돌했다.&lt;br&gt;&lt;br&gt;이 사고로 60대 SUV 운전자 1명이 심정지 상태로 병원에 옮겨졌지만, 숨졌다. 1t 트럭 운전자와 동승자도 부상을 입어 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 SUV 차량이 중앙선을 넘어 주행 중 사고가 난 것으로 보고 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6PXQRPADWKZRD55FZIXOKMIGZA.jpg?auth=4215f6cb357e7ebd620852361bca49152498f336edd6cec21a3cdd76709d534f&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">11일 오후 1시 45분쯤 전북 정읍시 부전동 부전저수지 인근 도로에서 SUV 차량과 1t 트럭이 충돌해 소방대원들이 사고 현장을 수습하고 있다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김병만 측 “전처 딸 ‘패륜 행위 파양’ 표현은 판결문 해석 차이”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/3TNMKKQURJC75OZPNMJTHU2TFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/3TNMKKQURJC75OZPNMJTHU2TFQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 11:15:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJ4QAPGBPFB6DJ3ZGJKOXTO5SE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 김병만. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코미디언 김병만(50) 측이 전처 딸 파양 사유를 두고 ‘패륜 행위 인정’이라는 표현을 쓴 데 대해 “판결문에 대한 해석 차이”라고 해명했다.&lt;br&gt;&lt;br&gt;김병만 소속사 스카이터틀은 11일 입장문을 내고 “‘무고로 인한 패륜 행위 인정’이라는 표현은 파양 선고로 인해서 여러 요인과 함께 무고로 인한 피해도 인정된 측면이 있다고 해석한 것일 뿐, 판결문에 이를 담았다는 발언은 드리지 않았다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;소속사는 “김병만은 2010년 A씨와 결혼식은 하지 않았고 혼인신고로 혼인 생활을 시작했다. 당시 9세였던 아이를 친자로 입양한 사실이 있다”며 “이후 2012년부터 별거하게 됐고 별거 기간이던 2019년 7월 김병만의 출연료 등 수입 관련 분쟁이 생기게 되면서 이혼 소송을 시작하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 “이혼 소송 중이던 2020년 첫 파양 소송을 시작해 2022년 두 번째 파양 소송을 진행했다”며 “2024년 11월 세 번째 파양 소송을 통해 올해 8월 8일 서울가정법원에서 현재 만 25세를 넘긴 자녀에 대한 복리 차원과 서로의 이익에 부합하지 않는 부분으로 파양 인용을 선고받았다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “판결문의 해석에서 온 차이이며 이 해석에 대해 혼란을 드린 부분이 있다면 유감스럽게 생각한다”며 “김병만은 이 판결로 인해 A씨와의 혼인신고로 입양했던 자녀가 더 이상 상처받는 일이 없기만을 원하고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 서울가정법원은 지난 8일 김병만이 전처 A씨의 딸 B씨를 상대로 낸 파양 청구 소송에서 인용 결정을 내렸다. 당시 소속사 측은 “(B씨의) 무고로 인한 패륜 행위가 인정됐다”고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;현재 B씨는 김병만을 상대로 친생자 관계 확인 소송을 제기한 상태다. B씨 측은 김병만이 A씨와 혼인 관계를 유지하던 중 다른 여성과 아이 2명을 얻은 것으로 보인다고 주장했다. 그러나 김병만 측은 “A씨와의 혼인 관계 파탄 후 현 예비 신부와의 사이에서 얻은 아이들”이라고 반박했다. 김병만은 내달 20일 연하의 회사원과 결혼식을 올린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병만, 9월 재혼 앞두고 전처 딸 파양</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/ATW2X5SBN5HO3MI5JAJZJSZVDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/ATW2X5SBN5HO3MI5JAJZJSZVDI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 08:04:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QLHRQZRVD2ILYPE64M3VUL7IVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병만/ 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코미디언 김병만(50)이 전처 딸을 상대로 제기한 파양 소송에서 승소했다. &lt;br&gt;&lt;br&gt;서울가정법원은 8일 김병만이 전처 A씨의 딸을 상대로 낸 파양 청구를 인용했다. 이로써 김병만과 입양 딸 사이의 법적 관계는 종료됐다.&lt;br&gt;&lt;br&gt;현행 민법은 파양 사유를 양부모가 친양자를 학대·유기하거나 친양자의 양친에 대한 패륜 행위로 친양자 관계를 유지시킬 수 없게 된 경우로 정하고 있다. &lt;br&gt;&lt;br&gt;김병만은 2010년 7세 연상의 A씨와 혼인신고하면서 A씨가 전남편 사이에서 낳은 딸 B씨를 친양자로 입양했다. 김병만과 A씨는 장기간 별거 생활을 했고 2023년 대법원 판결로 이혼이 확정됐다. &lt;br&gt;&lt;br&gt;두 사람이 이혼한 뒤에도 김병만과 입양 딸인 B씨의 부녀 관계는 유지됐다. 김병만은 B씨에 대한 파양 소송을 두 차례 제기했으나 기각된 바 있다. 그러나 이날 재판부가 파양 소송 청구를 인용하면서 B씨는 김병만 친자 지위를 잃게 됐다.&lt;br&gt;&lt;br&gt;김병만은 다음 달 20일 연하의 회사원과 재혼을 앞두고 있는데, 예비 신부와의 사이에서 이미 2명의 아이를 얻은 상황이다. 전날 B씨는 김병만의 친자 2명이 혼외자라고 주장하며 서울가정법원에 김병만을 상대로 친생자 관계 존재 확인의 소를 제기했다. B씨는 “김병만이 A씨와 혼인 관계가 법적으로 종료되기 전 다른 여성과 사이에서 아이 2명을 얻은 것으로 보인다”며 “상속 등과 관련해 정말 김병만 친생자인지 법적 확인이 필요하다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이와 관련해 김병만의 소속사는 김병만이 A씨와 혼인 파탄에 이른 뒤 지금의 예비 신부 사이에서 아이 둘을 낳은 것이라고 해명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/WCCYE3U25RGULNARBDZPCAYVVQ.JPG?auth=3ec3ee5c7302e03a13f435ded4a49710ec36989d5c74887da422507160ed3622&amp;smart=true&amp;width=3169&amp;height=1783" type="image/jpeg" height="1783" width="3169">
+        <media:description type="plain">개그맨 김병만이 경기도 양주시의 한 카페에서 뉴스1과 인터뷰를 하고 있다. 2023.9.3/뉴스1 ⓒ News1 김진환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>김건희 인척집서 나온 명품 시계... 사업가 “내가 사 金에 준 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/12/NF6BHO4M2BDUZKIDJ645HOKPAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/NF6BHO4M2BDUZKIDJ645HOKPAI/</guid>
@@ -819,88 +919,6 @@
       <description/>
       <pubDate>Sat, 09 Aug 2025 07:39:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCXRWWTQSBMTLB7YA2MICI4JKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령실 강유정 대변인이 9일 오후 서울 용산 대통령실 청사에서 이재명 대통령의 지시 사항에 관해 브리핑하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 9일 “앞으로 모든 산재 사망 사고는 최대한 빠른 속도로 대통령에게 직보하라”고 지시했다.&lt;br&gt;&lt;br&gt;지난 4일부터 휴가를 보낸 이 대통령이 업무에 복귀하며 내린 첫 지시다.&lt;br&gt;&lt;br&gt;대통령실 강유정 대변인은 이날 오후 브리핑에서 “어제 경기 의정부 한 신축 아파트 공사 현장에서 안전망 철거 작업을 하던 50대 노동자가 추락해 사망하는 안타까운 사고가 발생했다”며, 이를 접한 이 대통령이 산재 사망 사고 직보를 지시했다고 밝혔다.&lt;br&gt;&lt;br&gt;강 대변인은 이 대통령의 지시가 “국정상황실을 통해 (사고를) 공유, 전파하는 현 체계는 유지하되, 대통령에게 좀 더 빠르게 보고하는 체계를 갖추라는 것”이라고 부연했다.&lt;br&gt;&lt;br&gt;강 대변인은 또 “이 대통령이 노동부에는 산재 사고 방지를 위한 사전·사후 조치 내용과 현재까지 조치한 내용을 화요일 국무회의에 보고할 것을 지시했다”고 밝혔다.&lt;br&gt;&lt;br&gt;강 대면인은 “위 두 가지 조치는 산재 사망을 획기적으로 줄이겠다는 이 대통령의 강한 의지로 풀이된다”며 “일하러 나간 노동자들이 다치거나 목숨을 잃는 일이 더는 없도록, 세계 10위 경제 강국의 위상을 노동자의 안전으로 증명하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“전 남자친구 사는 곳”…아파트 착각해 불 지른 30대 여성 집행유예 </title>
-      <link>https://www.chosun.com/national/incident/2025/08/10/AH3CULTXJ5HWDOMS5KU4BPCTT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/10/AH3CULTXJ5HWDOMS5KU4BPCTT4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 09 Aug 2025 02:13:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSWGIQWNJM2H2DFCUOEONYM2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 연인이 사는 곳으로 착각해 서울 도봉구의 한 아파트에 불을 지른 30대 여성이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 서울북부지법 형사합의13부(재판장 나상훈)는 현주건조물방화미수 혐의로 기소된 A씨에게 징역 1년 6개월에 집행유예 3년을 선고하고 보호관찰을 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 작년 7월 서울 도봉구의 한 17층짜리 아파트 현관에 설치된 주민 게시판에 라이터로 불을 지른 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;당시 1층 세대 주민이 화재를 알아채고 물을 부어 불길은 크게 번지지 않았으나, 현관 벽 일부가 타 수리비로 400만원이 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 “공공의 안전과 평온을 해치고 무고한 다수의 생명·신체나 재산에 심각한 피해를 야기할 상당한 위험이 있었다”며 “아파트 일부 부분의 소훼 정도와 적어도 수백만원이 소요된 수리비에 비추어 볼 때 실제 피해도 적지 않다”고 했다. 다만 “피고인이 범행을 인정하고 반성하고 있으며, 범죄 전력이 없는 초범인 점, 오랜 기간 정신질환을 앓았고 사건으로 상당 기간 입원 치료를 받은 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김정은 찬양글 페이스북에 올린 50대, 징역형 집행유예 </title>
-      <link>https://www.chosun.com/national/regional/2025/08/10/47MYYQS4KNEH7JBOGSYJT24NMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/10/47MYYQS4KNEH7JBOGSYJT24NMQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 09 Aug 2025 01:35:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 페이스북에 북한 체제를 옹호하고 김정은 국무위원장을 찬양하는 글을 여러 차례 올린 50대 남성이 1심에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 수원지법 형사3단독 윤성식 판사는 국가보안법상 찬양·고무 등 혐의로 기소된 A씨에게 징역 1년에 집행유예 2년을 선고하고 보호관찰을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월 23일 본인 계정의 페이스북에 ‘사적 소유에 기초한 불평등과 특권이 합법화된 반인민적인 사회’라는 제목으로 2022년 1월 21일자 로동신문 논설을 인용, 북한 사회주의 체제에 동조하는 내용의 글을 게시했다. 또 김정은 위원장을 찬양하는 글을 작성하는 등 2023년 2월까지 북한의 활동을 찬양·고무·선전 또는 이에 동조할 목적으로 표현물을 각각 반포한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 북한의 일반적인 선전 논조에 해당하는 로동신문 기사 내용을 개인적인 공간인 페이스북에 게시한 것에 불과하고, 글을 게시한 의도, 게시물의 전체 맥락 등에 비춰보면 국가보안법상 찬양·고무에 해당하지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 윤 판사는 A씨가 직접 대한민국 체제를 부정하거나 북한의 체제 등을 미화·옹호하는 글을 다수 게시한 점, 이적표현물로 판단된 영화 영상물을 게시한 점 등을 고려하면 A씨 행위에 북한의 활동을 찬양할 목적이 있었다고 봤다.&lt;br&gt;&lt;br&gt;윤 판사는 “반국가단체 활동을 찬양하는 표현물을 페이스북 계정을 이용해 다수 반포했고 게시한 글의 수, 표현 내용이나 표현 방법 등을 고려하면 그 죄책이 가볍지 않다”며 “이 사건 범행 이전 동종의 범행으로 징역형의 집행유예로 형사 처벌받은 전력을 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>찬탄파 후보들에 ‘배신자’ 외친 전한길… 조경태·안철수 “출당·제명해야”</title>
-      <link>https://www.chosun.com/politics/assembly/2025/08/10/EST3Z4WEL5HJFIQBYFEWLDHRKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/08/10/EST3Z4WEL5HJFIQBYFEWLDHRKI/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 09 Aug 2025 00:55:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JJSLQSTCJPULBFCIJNL52CGYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 전한길씨가 지난 8일 대구 북구 엑스코에서 열린 국민의힘 제6차 전당대회 대구·경북 합동 연설회에서 반탄파 당대표 후보들을 지지하며 찬탄파 후보가 등장할 때마다 ‘배신자’라는 구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 전한길씨가 지난 8일 국민의힘 차기 지도부 선출을 위한 대구·경북 합동 연설회에서 소란을 피운 데 대해 안철수·조경태 당대표 후보가 전씨의 출당·제명을 요구했다.&lt;br&gt;&lt;br&gt;전씨는 당원 3000여명이 참석한 합동 연설회에서 반탄파(김문수·장동혁 후보)가 연설하면 박수를 치고, 찬탄파(안철수·조경태 후보)가 연설에서 윤석열 전 대통령을 비판하면 청중석 앞으로 뛰쳐나가 참석자들에게 찬탄파 후보들을 향해 “배신자”라고 외치라고 독려했다. 일부 당원이 전씨에게 “무슨 자격으로 나서느냐”고 항의하면서 당원들 간에 몸싸움이 벌어지기도 했다. 송언석 국민의힘 비상대책위원장 겸 원내대표는 앞으로 전씨 등 대의원 자격 없는 인사의 전당대회 관련 행사 출입을 금지하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;조경태 후보는 9일 아침 페이스북에 글을 올려 당 지도부에 “합동 연설회 훼방꾼 전한길을 출당하라”고 요구했다. 조 후보는 “윤석열 옹호론자들이 합동 연설회를 조직적으로 방해하고 있다. 훼방꾼들은 혁신 후보자들을 배신자라고 선동하며 연설을 방해하는 행위를 서슴치 않았다”며 “누가 누구를 배신했다는 말인가. 적반하장이다”라고 했다.&lt;br&gt;&lt;br&gt;조 후보는 “‘윤 어게인’을 외치는 사람들이 국민의힘에 무슨 도움이 되겠는가”라며 전씨의 행위에 대해 “명백한 선거 방해 행위”라고 비판했다. 조 후보는 “이런 자들이 국민의힘을 망치고 있다”며 “각목만 안 들었지, 지난 시절 민주당 전당대회에 침입한 정치 깡패 ‘용팔이’ 사건을 연상시킨다. 끔찍한 일”이라고 했다.&lt;br&gt;&lt;br&gt;조 후보는 “엄중한 조치가 필요하다. 당 지도부는 합동 연설회 출입 금지를 넘어 즉각 (전씨를) 출당 조치하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;안철수 후보도 이날 오전 페이스북에 글을 올려 “‘전한길’은 곧 ‘국민의힘 해산의 길’”이라고 비판하고 “송언석 비대위원장과 선관위는 어제 벌어진 전한길 논란에 당무 감사를 실시하고 전씨를 제명시켜야 한다”고 했다.&lt;br&gt;&lt;br&gt;안 후보는 “미꾸라지 한 마리가 사방팔방을 진흙탕으로 만들고 있다”며 “어제 전한길은 우리 당을 접수하러 온 것처럼 기고만장하게 후보 대기실 앞까지 장악해 인터뷰를 하고, 기자 비표까지 수령해 전당대회장을 아수라장으로 만들었다”고 했다.&lt;br&gt;&lt;br&gt;안 후보는 “대구·경북에서 이런 일이 벌어진 것은 수치”라며 “지금도 이럴진대, 김문수·장동혁 후보가 당대표가 된다면 전한길 등 극단 세력은 수렴청정을 하며 ‘당권 농단’을 자행할 것”이라고 했다. 그러면서 “그것이 바로 이재명 민주당이 바라는 (국민의힘이) 탄핵 옹호 정당, 내란 정당(이 되는) 길”이라고 짚었다.&lt;br&gt;&lt;br&gt;안 후보는 당원들을 향해 “지금은 절체절명의 위기다. 오랫동안 당을 지켜온 당원께서 침묵하신다면, 저런 미꾸라지가 당을 좌지우지할 것”이라고 했다. 그러면서 “저 안철수는 저들에게 굽실대지 않는다. 당을 지키고 살릴 수 있다. 반드시 소중한 한 표로 목소리를 내달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>말복, 전국 흐리고 비…‘2차 장마’ 시작</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/10/YG2YBA2GNVGXROEG3Y2GRU6SZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/10/YG2YBA2GNVGXROEG3Y2GRU6SZM/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 09 Aug 2025 00:18:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4RCE3NLYV5LLPCRTH4B3M7R3AU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 서울 종로구의 한 삼계탕 전문점을 찾은 시민들이 점심식사를 위해 줄지어 대기하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말복(末伏)인 9일은 남부 지방을 중심으로 전국에 비가 내리겠다. 비는 오전에 충남 북부와 전남권, 경남 남해안을 시작으로 오후에 전국 대부분 지역으로 확대 돼 다음 주 까지 이어질 전망이다. 사실상 ‘2차 장마’가 시작된 셈이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 9~10일 이틀간 예상 강수량은 광주·전남 50~100㎜(전남 해안 200㎜ 이상), 부산·울산·경남 50~100㎜(경남 남해안 200㎜ 이상), 대구·경북 남부 30~80㎜(100㎜ 이상), 울릉도·독도 5~20㎜다. 수도권과 강원도, 충청도 지역의 강수량은 0.1㎜가량에 그치겠다. 기상청 관계자는 “비는 11일 제주도와 남부 지방에 더 내리고, 12~13일엔 다시 전국으로 확대될 가능성이 있다”며 “비가 오는 지역에서 돌풍과 함께 천둥·번개가 치는 곳이 있겠으니 안전에 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;9일 낮 최고 기온은 27~30도로 예보됐다. 평년(27.9~32.3도)보다 약간 더 낮지만, 비가 온 후 습한 날씨가 이어지면서 체감온도가 31도 이상으로 무더운 날씨가 이어질 전망이다. 서울이 29도, 대전·부산 30도, 광주·대구는 29도를 기록하겠다. 10일은 아침 최저 기온이 20~26도, 낮 최고 기온은 28~33도를 기록해 오늘보다 온도가 더 오를 것으로 전망된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한번 낚으면 대박” 노후자금 많은 강남 6070 주부 노린다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/10/OGZCO6XFHRDFJNI2Z2PYZPTZAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/OGZCO6XFHRDFJNI2Z2PYZPTZAE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 15:59:43 +0000</pubDate>
-      <content:encoded>지난달 말 이른 아침 A(88)씨가 사는 서울 송파구 잠실 아파트 집으로 전화 한 통이 걸려왔다. 평생 교수로 일하다 20여 년 전 은퇴한 A씨는 별일이 없으면 아침 식사를 준비하고 책을 읽으며 오전 시간을 보낸다. 카드사 직원이라는 남성이 “고객님 카드가 도용됐다”며 “통장에서 돈을 빼야 피해를 줄일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;“은행에서 일단 1700만원만 현금으로 뽑아서 우체통에 넣어두면 우체국 직원이 수거할 거예요. 세상이 흉흉하니 은행에서 보이스피싱 아니냐고 물어볼 수 있어요. 꼭 아니라고 하셔요.” A씨는 이들이 시킨 대로 했다. 집을 찾은 큰 아들이 “엄마 사기당했다”고 하자 그제서야 보이스피싱 범죄인지 알았다. A씨는 “집 전화번호를 어떻게 알았는지…. 처음부터 아침에 집에 있는 노인이라는 걸 알고 접근한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57AHCNDINZEXFIREUNCDFGXMEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 대표적인 부촌인 서울 ‘강남 3구’가 보이스피싱 범죄의 주요 타깃으로 떠오르고 있다. 경찰 관계자는 “최근 보이스피싱 조직들이 ‘한번 걸리면 대박’이라며 강남 노인들을 집요하게 노리고 있다”고 했다. 경찰청이 8일 국민의힘 서범수 의원실에 제출한 자료를 보면 올해 1~7월 서울 일선 경찰서에 접수된 보이스피싱 사건 3818건 중 820건(21.4%)이 강남 3구에서 발생했다. 강남구(357건), 서초구(239건), 송파구(224건) 순서였다.&lt;br&gt;&lt;br&gt;노후 자금이 풍부한 강남 노년층 중에서도 60대 여성이 특히 위험하다. 보이스피싱 사건을 주로 담당하는 서울 지역 한 검사는 “휴대폰 문자나 소셜미디어보다 전화를 자주 사용하면서도, 집에 주로 있는 여성 고령층이 보이스피싱 피해를 많이 본다”고 했다. 경찰청에 따르면, 올해 상반기(1~6월) 보이스피싱 피해자 1만2339명 중 3800명(30.8%)이 60대 이상 고령층이었다. 특히 60대 여성 피해는 1917건으로 작년 상반기 718건보다 2배 이상으로 늘었다.&lt;br&gt;&lt;br&gt;보이스피싱 피해 규모도 크다. 금융감독원이 분석한 지난해 하반기 보이스피싱 피해액 현황을 보면, 2억원 이상 고액 피해자의 약 80%가 여성이었고 특히 60대 여성이 절반 이상이었다. 경찰 관계자는 “60대는 (범죄 조직이 시키는 대로) 은행에 갈 수 있을 정도로 체력이 되면서도, 50대보다는 휴대폰 기기 조작에 능하지 않아 피해가 특히 크다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUUBJFQ3EBGUBL6ONLYBZWITAU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에 사는 60대 여성 B씨도 지난 6월 말 카드사, 금감원, 검사를 사칭한 보이스피싱 일당에게 4억5000만원을 잃었다. 카드 명의 도용 사건에 휘말렸다며 ‘비밀 수사’를 받아야 한다고 했다. 금감원 간부와 검사라는 이들이 번갈아가며 협박했고, B씨는 일주일 동안 수차례에 걸쳐 돈을 이들에게 보냈다.&lt;br&gt;&lt;br&gt;서울 강남 지역 노인들은 “평생 모아둔 노후 자금을 한 번에 잃을 수 있다”며 두려움에 떨고 있다. 강남구 대치경로당 노인회장인 김영태(86)씨는 “요즈음 50대 아들·딸들이 매일같이 전화 와서 모르는 번호로 걸려 온 전화는 받지 말고, 통장에 돈을 넣으라고 요구하면 절대 응하지 말라고 신신당부한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBAKAYNRSFFAPK5EL72HQNMOGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해가 급증하자 강남 지역 구청들은 ‘보이스피싱 예방 교육’에 나섰다. “요즘 은행이라고 하면서 민생 회복 쿠폰을 받으라고 한 뒤에 휴대폰 앱을 설치하라고 많이 전화나 문자가 와요. 모두 사기예요.” 지난 5일 오전 10시 서울 송파구 잠실본동주민센터에서 송파경찰서 범죄예방과 서은규 경사가 60~80대 노인 36명에게 말했다. 노인들은 강의 내용을 열심히 받아 적었고, 일부는 휴대폰 카메라로 촬영했다. 수업이 끝난 뒤 이모(76)씨가 “앱을 잘못 깔면 어떻게 하느냐”고 질문하자 서 경사는 “휴대폰을 비행기 모드로 바꾸거나 전원을 꺼 데이터 접속을 차단한 뒤 바로 경찰서를 찾으라”고 했다.&lt;br&gt;&lt;br&gt;이날 교육엔 실제 보이스피싱을 당해본 주민들이 나와 경험담을 공유했다. 조모(76)씨는 지난 2019년 4월 6일 은행 직원, 검사를 사칭한 보이스피싱 조직에 3000만원을 뜯겼다. 조씨는 “진즉 이런 범죄가 유행한다는 뉴스라도 읽었으면 속지 않았을 것”이라고 했다. 이송남(67)씨는 “나와 남편 모두 얼마 전 보이스피싱을 당하기 직전까지 갔다가 겨우 피해를 면했다”며 “마침 집에 있던 큰아들이 보이스피싱이라고 알려줘 돈을 안 보냈다”고 했다.&lt;br&gt;&lt;br&gt;강남구는 신한은행과 협약을 맺고 지난 4월부터 관내 경로당을 순회하며 보이스피싱 예방 교육을 실시하고 있다. 지난달까지 경로당 176곳 중 100곳에 교육을 완료했다. 곽대경 동국대 경찰사법대학 교수는 “연금, 부동산 등 자산 규모가 큰 사람들이 모인 강남 3구는 보이스피싱 등 사기 범죄의 중심지가 될 수밖에 없다”며 “지속적으로 신종 수법에 대해 안내하고 경각심을 높일 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CBMGUZXQGVCC5BBB3VOQQB4NOM.jpg?auth=be4f8044760b7be8ba6b2c450d9cf5f7974dbfc1a854d6bb07831f18d0492174&amp;smart=true&amp;width=1800&amp;height=1054" type="image/jpeg" height="1054" width="1800"/>
-    </item>
-    <item>
-      <title>[단독] 특검 “58회 무상 여론조사” 金 “난 사업가, 그렇겐 안해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/JFDHCJMF3JEKLHBNNMFDRSNKBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/JFDHCJMF3JEKLHBNNMFDRSNKBY/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 20:06:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHRUCAHPKNLBXAIYVJY6TQEVTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 6일 서울 종로구 KT광화문빌딩 웨스트에 마련된 민중기 특별검사팀 사무실에 피의자 신분으로 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특별검사팀은 지난 7일 김건희 여사에 대한 구속영장을 청구하면서, 김 여사가 측근 차명 계좌까지 이용한 도이치모터스 주가조작으로 8억1000여 만원의 수익을 거뒀다고 결론 내린 것으로 8일 확인됐다. 특검은 김 여사가 명태균씨로부터 받은 불법 정치자금 액수, 김 여사가 ‘건진 법사’ 전성배씨와 공모해 윤영호 전 통일교 세계본부장에게 명품 목걸이와 가방을 받은 날짜와 장소도 영장 청구서에 적시했다. 오는 12일 법원이 김 여사 영장을 발부하면 전직 대통령 부부가 동시에 구속되는 첫 사례가 된다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“손실 돌려받는 등 주가조작 가담”&lt;/b&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 민중기 특검은 22쪽 분량의 김 여사 구속영장 청구서에 김 여사가 총 36억원 상당의 증권 계좌를 제공하는 방식으로 권오수 전 도이치모터스 회장 등 주가조작 세력의 범행에 가담했다고 적시했다. 특검은 김 여사가 2010년 10월부터 2011년 12월까지 고가·허수 매수 등 3832차례 통정 거래와 이상 거래를 통해 8억1144만3596원의 수익을 얻었다고 기재했다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 주가조작을 인식했다는 근거로 2010년 10월 이종호(구속)씨가 대표로 있는 블랙펄인베스트에 20억원 상당의 미래에셋 계좌를 위탁하면서 블랙펄에 수익의 40%를 주겠다는 ‘이례적’ 약정을 한 점을 들었다. 특검은 김 여사가 측근 A씨 명의의 미래에셋증권 계좌를 차명으로 이용해 도이치모터스 주식을 매매하고 별도의 수익을 냈다고 했다. 특검은 또 김 여사가 1차 주포인 이정필(구속)씨에게 16억원 상당의 신한투자증권 계좌를 맡겼다가 손실이 발생하자 권오수 전 회장에게 항의하고 2010년 3월 4일 이정필씨로부터 4700만원을 손실 보전금으로 받은 점도 주가조작을 인식한 근거로 들었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇“윤상현에게 ‘김영선 공천’ 지시”&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 김 여사와 윤 전 대통령이 2021년 6월 26일부터 이듬해 3월 2일까지 김영선 전 국민의힘 의원의 지역구 사무실 총괄본부장이었던 명태균씨로부터 2억7440만원 상당의 여론조사 58회(공표용 36회 포함) 결과를 무상으로 제공받았다고 구속영장에 적었다. 특검은 김 여사가 2022년 3월 중순 대선에서 당선된 윤 전 대통령과 함께 서울 서초동 자택에서 명씨를 만났다고 영장에 특정했다고 한다. 이 자리에서 명씨는 김 전 의원을 그해 6월 열릴 경남 창원 의창 보궐선거에 단수 공천해 달라고 요청했다. 이후 김 여사는 윤 전 대통령 취임 하루 전날인 그해 5월 8일 장제원 당시 당선인 비서실장을 통해 국민의힘 공천관리위원장이었던 윤상현 의원에게 김 전 의원을 공천해 달라고 지시했고, 이튿날엔 윤 의원에게 전화해 공천 관련 지시가 전달됐는지 확인했다고 특검은 영장에서 밝혔다.&lt;br&gt;&lt;br&gt;김 여사는 지난 6일 특검 조사에서 2021년 6월 지인을 통해 명씨를 처음 알게 됐다고 진술했다. 명씨가 김종인 전 국민의힘 비상대책위원장, 이준석 당시 국민의힘 대표와 친한 ‘정치 전략가’라고 소개받았다는 것이다. 그러면서 김 여사는 “나는 사업가다. 명씨가 보내주는 여론조사 결과를 상품이라고 생각했다면 정식으로 계약서를 쓰고 비용을 지불했지 무료로 받지 않았을 것”이라며 명씨가 공유해준 여론조사를 금액으로 산정해 정치자금법 위반 혐의를 적용한 것은 부당하다고 했다고 한다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇롯데·워커힐 호텔서 명품 전달&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 김 여사의 명품 선물 수수(알선수재) 혐의와 관련해 윤영호 전 통일교 세계본부장이 2022년 4월 7일 경기 가평군 설악면에 있는 찻집 ‘한원집’에서 ‘건진 법사’ 전성배씨를 만나 김 여사에게 전해 달라며 800만원대 샤넬 백과 천수삼 농축차를 전달했다고 구속영장에 적었다. 한원집은 통일교가 운영한다. 윤 전 본부장은 이어 그해 7월 5일 서울 롯데호텔월드 1층에서 1200만원대 샤넬 백과 천수삼 농축차를, 7월 29일 서울 광진구 워커힐호텔 중식당 ‘금룡’에서 6200만원짜리 그라프 목걸이를 김 여사에게 전해 달라며 전씨에게 전달했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 본부장이 2021년 12월 윤모 전 세계일보 부회장을 통해 국민의힘 권성동 의원과 윤 전 대통령 측근을 소개받고, 이듬해 초 권 의원에게 통일교 관련 정책을 국가 정책으로 추진하고 여당과 청와대에 통일교 인사를 등용해 달라고 요청했다고 영장에 기재했다. 통일교는 그 대가로 교인을 조직적으로 동원해 윤 전 대통령에 대한 투표를 독려한 것으로 특검은 의심한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 金, 탄핵 직전 노트북 포맷… 탄핵 직후엔 휴대폰 바꿔</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/3OLXP5X6ARCJZDH2JRPLJTDUYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/3OLXP5X6ARCJZDH2JRPLJTDUYM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 20:10:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXC4VUSB3GA73IOZTL3ORVSPLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 지난 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실에 첫 조사를 받기 위해 피의자 신분으로 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀은 서울중앙지법에 김건희 여사에 대한 구속영장을 청구하면서 전체 22쪽 중 10쪽을 할애해 구속을 해야 하는 이유를 설명한 것으로 8일 확인됐다. 특검은 김 여사가 지난 4월 있었던 헌법재판소의 윤석열 전 대통령 탄핵 선고를 일주일 앞두고 자기가 운영해온 코바나컨텐츠 사무실에 있는 노트북을 포맷했고, 탄핵 선고 직후엔 휴대전화를 교체하는 등 증거인멸 우려가 크다는 점을 영장 청구서에 담았다. 특검은 또 김 여사가 허위 내용을 주장하면서 시시각각 자신에게 유리한 대로 진술을 바꾸는 것을 볼 때 사건 관련자를 회유할 수 있다고 주장했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김 여사가 노트북을 초기화하고 휴대전화를 바꾼 정황을 영장 청구서에 적시하면서 김 여사의 ‘문고리’로 지목된 유경옥·정지원 두 전직 대통령실 행정관이 휴대전화를 초기화한 점도 증거인멸 우려 사유로 기재했다. 유 전 행정관은 특검의 압수 수색 당시 문을 열어주지 않은 상황에서 휴대전화를 초기화했고, 정 전 행정관도 수차례 휴대전화를 초기화했다는 것이다. 특검은 또 유·정 전 행정관이 김 여사의 서울 서초동 자택(주상복합아파트) 지하에 있는 코바나컨텐츠 사무실로 출근 중인 점도 문제 삼았다. 김 여사가 두 사람에게 영향력을 미치는 만큼 구속이 필요하다는 점을 영장 청구서에 기재했다.&lt;br&gt;&lt;br&gt;특검은 김 여사의 잠적·은둔 가능성도 영장 청구서에서 거론했다. 김 여사가 ‘도이치모터스 주가조작’에 가담해 얻은 이익이 8억1000여 만원인데, 유죄가 인정되면 최소 징역 3년형이 선고될 수 있어 수사에 불응하고 잠적할 우려가 있다는 것이다. 특검은 김 여사가 지난 6월 민중기 특검 출범 이후 병원에 입원한 것도 수사 회피 시도로 봤다. 다만 김 여사 측은 “건강이 매우 나빠 도주할 염려가 없다”는 입장이다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 대통령 당선이 유력한 후보자 내지는 당선인의 배우자에 불과한데도 당선인의 지위를 적극적으로 남용해 김영선 전 의원의 2022년 보궐선거 단수 공천에 개입했다고 영장에 기재했다. 특검은 ‘건진법사 청탁’ 의혹과 관련해서도 ‘대통령 배우자가 정치 브로커(건진) 및 종교 단체(통일교)와 결탁해 공적 지위를 남용해 사익을 추구한 것’으로 정의하면서, 죄질이 극히 불량하다고 영장에 적시한 것으로 파악됐다. 헌법 정신에 정면으로 어긋난다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 이종섭 대사 심사 때 ‘적격’ 적힌 서류에 위원들은 서명만 해</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/HMZVR4Z6MVBCLKJC42MD32MMKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/HMZVR4Z6MVBCLKJC42MD32MMKM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 20:08:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XS5OEFZQCFAGZMX5RZ4SR6OERU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처 수사 중 주(駐)호주 대사로 임명돼 논란이 됐던 이종섭 전 국방장관이 작년 3월 21일 인천국제공항1터미널을 통해 호주에서 귀국하는 모습. /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방부 장관을 호주 대사로 임명하는 과정에서 외교부의 자격 심사·검증이 졸속으로 이뤄진 정황을 파악하고 수사 중인 것으로 8일 알려졌다. ‘이 전 장관에게 대사 자격이 있다’는 결론을 미리 정해 놓고 심사위원들에겐 동의한다는 서명만 받았다는 것이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 외교부의 공관장 자격심사위원회는 작년 1월 이 전 장관의 호주 대사 임용 건 심사 회의를 열었다. 공관장 자격 심사는 대사 임용 전 후보자의 외국어 능력, 업무 실적, 도덕성, 교섭 능력 등을 검증하는 절차다. 심사에서 부적격 결정이 내려지면 공관장으로 부임할 수 없다.&lt;br&gt;&lt;br&gt;그런데 특검은 최근 외교부 실무자들을 조사하면서 “이 전 장관에 대한 심사가 서면으로만 진행됐고, 이미 ‘적격’이라고 적힌 서류에 위원들이 날인만 했다”는 취지의 진술을 확보했다. 외무공무원법 등에 따르면 자격심사위는 7명 이상의 위원이 출석해야 열리고, 출석 위원 3분의 2 이상이 찬성해야 적격 결정을 내릴 수 있다. 이와 달리 이 전 장관 심사 과정에서는 위원들이 대면 회의 한 번 없이 외교부가 정해 놓은 결론에 서명만 했다는 것이다. 특검 관계자는 “고 채수근 상병 사망 사건으로 수사받던 이 전 장관에 대한 적법한 심의가 이뤄졌다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령 등이 고위공직자범죄수사처에 입건돼 있던 이 전 장관을 호주 대사로 임명·출국시켜 수사를 방해하려 한 것인지 수사 중이다. 특검은 이 전 장관 대사 내정 당시(2023년 12월) 대통령실 인사비서관이었던 이원모씨에 대해 7일 압수 수색을 해 휴대전화 등을 확보했다.&lt;br&gt;&lt;br&gt;한편, 특검은 윤 전 대통령과 친분이 있는 고석(예비역 준장) 변호사가 ‘VIP 격노설’이 불거진 2023년 7월 31일 교계 유력 인사와 만난 정황을 포착했다. 고 변호사가 같은 해 8월 13~14일 채 상병 사건 재조사에 관여한 혐의를 받는 김동혁 당시 검찰단장과 통화한 내역도 파악했다. 특검은 고 변호사가 임성근 전 해병대 1사단장에 대한 구명 로비를 펼쳤는지 조사 중이다. 고 변호사는 윤 전 대통령 사법연수원 동기로 고등군사법원장을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] “주가조작 김건희 8억1000만원 수익”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/HROVMK2FXFAKLBR7UL4XHDQGDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/HROVMK2FXFAKLBR7UL4XHDQGDM/</guid>
-      <dc:creator>이민준 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 20:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQAG3G36RMN7MWFLKZYMEHWT6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사가 지난 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실에 조사를 받기 위해 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 김건희 여사가 ‘도이치모터스 주가조작’으로 얻은 수익을 8억1000만원대로 특정하고 김 여사에 대한 구속영장 청구서에 이를 적시한 것으로 8일 확인됐다. 김 여사의 수익 규모가 수사기관에서 특정된 것은 처음이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 22쪽 분량의 구속영장 청구서에서 김 여사가 도이치모터스 주가조작에 가담해 총 8억1144만3596원의 시세 차익을 얻었다고 적시했다. 김 여사가 주가조작 세력의 시세 조종을 도우려고 총 36억원이 들어 있는 증권 계좌 2개를 제공했고, 측근 A씨의 증권 계좌를 빌려 도이치모터스 주식을 차명 거래해 별도의 수익을 챙긴 혐의도 영장 청구서에 담았다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 윤석열 전 대통령과 함께 김영선 전 의원이 2022년 6·1 경남 창원 의창 국회의원 보궐선거 때 국민의힘 단수 공천을 받도록 개입한 혐의도 영장에 포함했다. 윤·김 두 사람이 정치 브로커 명태균씨에게 20대 대선 기간 2억7440만원에 달하는 여론조사 58건을 제공받고, 그 대가로 대통령 당선 직후인 2022년 3월 중순 명씨가 요청한 김 전 의원 단수 공천을 들어줬다는 얘기다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IL5IS66A55DVROG2QJBJ4H25LA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 여사가 통일교 측에서 각종 현안 청탁과 함께 6200만원대 그라프 다이아몬드 목걸이, 1000만원 안팎의 샤넬 백 2개와 천수삼 농축차 2개를 수수한 전후 정황도 영장에 기재했다. 윤 전 대통령 당선 직후 ‘건진법사’ 전성배씨가 통일교 전 세계본부장 윤영호씨를 김 여사에게 소개했고, 윤씨는 김 여사에게 “정부 조직과 예산, 인사를 지원해 달라”고 했다는 것이다.&lt;br&gt;&lt;br&gt;특검은 영장 청구서에서 김 여사가 지난 4월 4일 윤 전 대통령 탄핵 직전 자기가 운영해 온 코바나컨텐츠 사무실 노트북을 포맷하고, 탄핵 직후엔 휴대전화를 바꾸는 등 증거인멸 우려가 크다며 구속이 필요하다고 주장했다. 이런 가운데 특검은 체포 영장 집행에 두 차례 불응한 윤 전 대통령을 조사 없이 바로 기소하는 것을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘서울대 10개 만들기’ 대신… 국립대 9곳 지원 나선 서울대</title>
