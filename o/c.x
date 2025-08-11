@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 인척집서 나온 명품 시계... 사업가 “내가 사 金에 준 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/12/NF6BHO4M2BDUZKIDJ645HOKPAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/NF6BHO4M2BDUZKIDJ645HOKPAI/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 09:10:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUJSNSGVLFPUFP4CNX553CJ4AU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 오정희 특검보가 5일 서울 종로구 광화문kt 웨스트 빌딩에서 브리핑을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 김 여사 오빠 김진우씨 장모 집에서 발견한 수천만원 상당의 ‘바쉐론 콘스탄틴’ 여성용 시계가 김 여사가 한 사업가로부터 받은 물품이란 사실을 확인한 것으로 11일 전해졌다&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 본지 취재를 종합하면, 특검은 지난달 25일 김씨의 장모 집을 압수 수색하면서 이 시계의 상자와 정품 보증서를 발견했다. 특검은 이 시계가 누군가 김 여사에게 청탁을 목적으로 전달한 물품일 가능성을 의심하고 이 시계 구매자를 추적했다. &lt;br&gt;&lt;br&gt;그 결과 이 시계는 윤석열 당시 전 대통령 취임쯤 김 여사와 가까운 사업가 A씨가 구매한 것으로 확인됐다. 특검은 지난 8일 A씨로부터 “매장에서 시계를 구매해 2022년 9월 김 여사에게 전달했다”는 진술을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;5400만원짜리인 이 시계를 A씨는 매장에서 ‘VIP 할인’을 받아 3500만원에 구매한 것으로 전해졌다. 특검은 이 시계가 청탁용일 가능성을 의심하고 수사 중이지만, A씨가 명품 매장에서 시계를 직접 구매하기 어려운 김 여사를 대신해 ‘대리 구매’했을 가능성도 있다고 보는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;법조계에서는 “김 여사가 수사 대상이 될 수 있는 귀중품을 김씨의 장모 집에 옮겨놨다는 증거가 될 것”이라는 얘기가 나왔다. 압수 수색 당시 김씨의 장모 집에서는 이 시계와 함께 출처가 드러나지 않은 현금 1억원, 이우환 화백 그림, 다이아몬드 목걸이 그리고 김 여사가 2022년 6월 북대서양조약기구(나토) 정상회의 참석 시 착용했던 것으로 추정되는 ‘반클리프 앤 아펠’ 목걸이가 발견됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이집서 백설기 먹던 2세 아이 질식사… 담임교사·원장 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/AR27K4PPLNCXPMKKSNBKPVMMM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/AR27K4PPLNCXPMKKSNBKPVMMM4/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 09:13:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCF2FQFFALZLUZ4PDIMG5GX3KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자료사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포 어린이집에서 2살 아이가 백설기를 먹다 질식사한 것과 관련해 담임 교사와 원장이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;김포경찰서는 업무상 과실치사 혐의로 불구속 입건한 어린이집 보육교사 A씨와 원장 B씨를 검찰에 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 22일 오후 3시 10분쯤 김포 모 어린이집에서 자신이 맡은 원생 C(2)군에게 떡을 먹이다가 목에 걸리는 사고로 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;B씨는 어린이집을 운영하면서 직원을 제대로 관리·감독하지 않아 원아 사망 사고에 이르게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 당시 간식 시간에 백설기를 잘게 잘라서 C군을 비롯한 원생들에게 나눠줬으며 A씨가 잠시 자리를 비운 사이 C군이 백설기에 목이 막힌 것으로 조사됐다. 어린이집 측은 응급 상황이 발생하자 기도가 막혔을 때 이물질을 빼내는 응급처치인 ‘하임리히법’을 실시했으나 C군은 의식을 잃고 병원으로 옮겨진 끝에 숨졌다.&lt;br&gt;&lt;br&gt;국립과학수사연구원은 C군 시신을 부검한 뒤 “기도 폐색성 질식사로 추정된다”는 소견을 경찰에 전달했다. &lt;br&gt;&lt;br&gt;경찰은 사망 사고가 발생하게 된 과정에서 A씨와 B씨가 주의 의무를 다하지 못한 점 등 과실이 있다고 보고 두 사람을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 합참 작전본부장 피의자 전환… ‘직권남용·허위 공문서 작성’ 혐의 적용</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/12/IH5OJK5D4NA77G4L55DH6XAZFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/IH5OJK5D4NA77G4L55DH6XAZFI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 09:04:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGUZYQWYRBL5LDNUSDS2WEGDAM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이승오 합동참모본부 작전본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평양 무인기 침투’ 의혹을 수사 중인 내란 특검이 이승오 합동참모본부 작전본부장(육군 중장)을 피의자로 전환하고, 직권남용 권리행사 방해 및 허위 공문서 작성 혐의를 적용해 지난 8일 이 본부장의 거주지와 사무실 등을 압수 수색한 것으로 11일 알려졌다.&lt;br&gt;&lt;br&gt;특검은 압수 수색 영장에 ‘지난해 10월 8일, 10회에 걸쳐 북한에 무인기를 침투시켰다’는 내용을 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달 14일 국방부와 드론작전사령부, 드론사 예하 백령도 부대, 국가안보실, 합참, 방첩사령부 등 24곳을 압수 수색했다. 특검은 당시 합참에 대한 압수 수색 과정에서 “작년 10~11월 총 10여 회 대북 무인기 침투 작전이 이뤄졌다”는 내부 보고서를 확보한 바 있다.&lt;br&gt;&lt;br&gt;평양 무인기 침투 의혹은 북한이 작년 10월 우리 군 무인기가 평양 상공에 침투해 대북 전단을 살포했다고 주장하면서 불거졌다. 이와 관련해 윤석열 전 대통령이 계엄 선포의 명분을 쌓기 위해 북한의 도발을 유도하기 위한 목적으로 무인기를 평양에 침투시킨 것 아니냐는 ‘외환’ 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;또 김용현 전 국방장관이 김명수 합참 의장이나 이승오 합참 작전본부장을 건너뛰고 드론사에 직접 무인기 작전을 지시한 것 아니냐는 의혹도 나왔다. 이에 대해 이 본부장은 지난달 18일 특검에 “지난해 10~11월 김 전 장관에게 무인기 작전 진행 상황을 수시로 대면 보고했다”는 취지로 진술한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희 특검 첫 기소’ 삼부토건 사건, ‘김용현 추가기소’ 재판부로</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/12/IMP6EG3PANCYTC3BNDZXZDUORY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/IMP6EG3PANCYTC3BNDZXZDUORY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 08:55:50 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 첫 기소한 ‘삼부토건 사건’이 김용현 전 국방부 장관의 재판을 맡은 재판부에 배당됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4M5DCP45NIXBA6OU3DYRZV4UI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이일준 전 삼부토건 회장이 지난달 17일 오전 서울 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 받은 뒤 나와 차량으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법은 자본시장법 위반 등 혐의로 기소된 삼부토건 이일준 회장과 이응근 전 대표이사 사건을 형사34부(재판장 한성진)에 배당했다.&lt;br&gt;&lt;br&gt;형사34부는 윤석열 전 대통령의 12·3 비상계엄에 따른 내란·외환 혐의를 수사하는 조은석 특별검사팀이 1호로 기소한 김 전 장관의 위계에 의한 공무집행방해, 증거인멸교사 사건도 맡고 있다.&lt;br&gt;&lt;br&gt;이 회장 등 삼부토건 관계자는 2023년 5월 폴란드에서 열린 우크라이나 재건 포럼에서 각종 업무협약(MOU)을 맺었다고 홍보한 후 투자자들을 속여 주가를 띄운 혐의를 받는다. 우크라이나 재건 포럼 이후 삼부토건은 그해 5월 1000원대였던 주가가 2개월 뒤 장중 5500원까지 급등한 바 있다. &lt;br&gt;&lt;br&gt;특검은 이들이 우크라이나 전후 재건 사업에 실제 참여할 의도나 능력이 없었음에도, MOU를 홍보해 주가를 끌어올린 뒤 주식을 매도해 369억원의 부당이익을 챙겼다고 보고 있다. &lt;br&gt;&lt;br&gt;김건희 특검팀은 지난달 14일 이들에 대해 구속영장을 청구했고, 법원은 지난 18일 영장을 발부했다. 두 사람은 지난 1일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평 폭우 수색 23일만 종료… 9일 발견 시신, 마지막 실종자로 확인</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/12/JHVEKWA3CZHLZM3K2UIUN3IXCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/JHVEKWA3CZHLZM3K2UIUN3IXCQ/</guid>
+      <dc:creator>가평=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 11 Aug 2025 08:28:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4IC3MLB4CRACGOBGA7FL65G4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 경기 가평군 일대에서 소방 당국이 수해 실종자를 찾기 위해 수색 작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 가평을 덮친 기록적 폭우로 시작된 실종자 수색이 23일 만에 끝났다. 지난 9일 경기 가평군에서 발견된 시신은 덕현리에서 급류에 휩쓸려 실종된 50대 남성으로 11일 확인됐다. 이로써 실종자 수색이 종료됐다. 소방·경찰·군이 헬기와 드론, 수중 로봇까지 투입한 총력전 끝에 마지막 실종자가 가족 품으로 돌아왔다. &lt;br&gt;&lt;br&gt;경기도북부소방재난본부에 따르면, 이번 집중호우로 가평 7명, 포천 1명 등 8명이 숨지고 5명이 다쳤다. 시설 피해는 6532건, 약 1829억원으로 집계됐다. 이재민은 137명(88세대)이다. &lt;br&gt;&lt;br&gt;수색에는 총 1만1689명과 장비 1785대가 동원됐다. 국가 소방 동원령이 내려진 7월 20~8월 3일에는 서울·중앙·강원·세종·경북에서 인력 650명과 장비 388대를 추가로 지원받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUUJQ6UC7ZRUG6ACQQ3EMSQUAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경기 가평군 상면 대보교 일대에서 군 당국이 실종자를 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하늘에서는 헬기와 드론이 상공을 돌며 하천 유입 지점을 확인했고, 지상에서는 구조견과 수색팀이 수변을 따라 걸었다. 수상에서는 보트와 바지선이 떠 있었고, 수중에서는 소나 3대와 원격 수중 탐사기(ROV), 잠수 요원이 하상을 훑었다. 소나는 소리를 이용해 수중 물체의 위치나 지형을 탐지하는 장비다.&lt;br&gt;&lt;br&gt;수색이 진행되며 차례로 실종자들을 찾아냈다. 1일 차 마일리 캠핑장(대보교) 실종자 1명, 2일 차 제령리 1명, 4일 차 대보리·덕현리 1명, 5일 차 덕현리 합수부 미성년 1명, 12일 차 덕현리 합수부 1명을 차례로 수습했다. &lt;br&gt;&lt;br&gt;10~11일차에는 트랙터로 조종천 모래톱을 발굴했고, 실종자 가족 요청에 따라 폐건물 지하 배수와 진흙 제거, 소(沼) 수중 수색도 진행했다. 팔당댐 부유물 수거와 한강 하류 보강 수색도 병행했다. 마지막 실종자 발견 이후에도 수색은 멈추지 않았다. DNA·지문 감식을 통한 신원 확인과 현장 조사가 이어졌다.&lt;br&gt;&lt;br&gt;경찰 4321명, 군 3720명이 장비와 함께 합류해 드론·구조견 합동 수색, 토사 제거, 응급 복구를 지원하기도 했다. 가평군청은 굴착기 246대를 포함한 중장비 372대를 투입했고, 한전·KT도 전력과 통신 복구 장비를 투입했다.&lt;br&gt;&lt;br&gt;강대훈 본부장은 “북한강 본류까지 확대된 입체 수색과 과감한 장비·인력 투입, 유관기관 공조가 마지막 실종자 발견으로 이어졌다”며 “끝까지 실종자를 찾아 가족 품에 돌려보낼 수 있어 다행이다. 피해 복구가 끝날 때까지 현장 안전과 주민 지원을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법무부, 대법원에 “중대재해법 양형 기준 마련해 달라”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/12/A5V3CIUAAVBHROW3HKI55OPE2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/A5V3CIUAAVBHROW3HKI55OPE2I/</guid>
@@ -645,16 +690,6 @@
       <content:encoded>교회를 다니는 교인들이 만든 내부 단체에 낸 헌금은 세금 공제 대상이 아니라는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 최근 서울의 한 교회 교인 6명이 노원세무서장 등을 상대로 낸 종합소득세 부과 취소 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;해당 교회의 일부 교인은 2017년 3월 담임목사의 목회와 재정 관리 등에 반발해 교회개혁협의회(교개협)를 결성했다. 이들은 2018~2020년 교개협에 헌금을 내고, 교개협이 지정기부금단체라는 전제하에 기부금 세액공제를 받았다. 교개협은 원고들을 포함해 헌금을 낸 600여 명에게 기부금 영수증을 발급했다. 그러나 교회는 “교개협은 등록된 종교 단체 또는 소속 단체가 아니므로 기부금 영수증을 발급할 권한이 없다”고 반발했다.&lt;br&gt;&lt;br&gt;세무 당국은 교개협이 세금 공제를 받을 수 있는 지정 기부금 단체가 아니라 보고, 교인들에게 기부금 공제 혜택을 배제한 뒤 2018~2020년에 해당하는 종합소득세를 부과했다. 이에 교인들은 헌금이 교회를 위해 쓰였으므로 공제 대상이라며 소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 법원은 “교개협은 공통된 의견을 가진 일부에 의해 결성된 교회의 단순한 내부 모임에 불과해 지정기부금단체에 해당하지 않는다”고 판단했다. 관련 가처분 결정에서 교개협이 단체로서의 실질이 인정되지 않은 점, 교개협 재정팀장이 교회의 대표자 권한을 위임받지 않고 발급한 기부금 영수증과 관련해 사문서 위조 등으로 유죄 판결을 받은 점 등도 고려됐다.&lt;br&gt;&lt;br&gt;재판부는 “헌금이 교회 정관이나 교인 전체를 구성원으로 하는 총회 결의 등에 따라 모금·관리·처분된 것이 아니라, 교개협이 지정한 계좌로 모금돼 교개협 소속 교인들만의 의사에 따라 쓰였다”면서 “재단 또는 교회의 고유 목적 사업비로 지출하는 기부금에 해당한다고 볼 수도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대전 ‘교제살인’ 26세 장재원 신상공개</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/12/6BV7VDYE6BBQVMDSWVNESH5524/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/12/6BV7VDYE6BBQVMDSWVNESH5524/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 00:11:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SE3WUVMLNHRBNDIHO34KGH5IU.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 한 길거리에서 전 여자친구를 흉기로 살해한 장재원(26)의 신상 정보가 11일 공개됐다.&lt;br&gt;&lt;br&gt;대전경찰청은 지난 8일 신상정보공개심의위원회를 열고 장재원의 이름, 나이, 사진 등을 대전경찰청 누리집에 30일간 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;심의위는 범죄의 잔인성, 피해의 중대성, 국민의 알 권리, 재범 방지 등 특정 중대 범죄 피의자 등 신상 정보 공개에 관한 법률이 규정한 요건에 충족한다고 판단해 신상 공개를 결정했다.&lt;br&gt;&lt;br&gt;장재원은 지난달 29일 오후 12시 8분쯤 대전 서구 괴정동 길거리에서 과거 사귀다 헤어진 A(30대)씨를 흉기로 찔러 살해했다. &lt;br&gt;&lt;br&gt;이튿날 경찰에 붙잡힌 장재원은 경찰 조사에서 “오토바이를 빌리는 문제로 다툼이 있었고, 날 무시한다고 생각해 범행을 결심했다”고 말했다. 다툼의 원인은 장재원이 피해자인 A씨의 허락 없이 A씨 명의로 오토바이를 빌렸기 때문이라고 경찰은 밝혔다.&lt;br&gt;&lt;br&gt;장재원은 범행을 위해 미리 흉기와 농약을 준비했고, A씨와 함께 오토바이 명의 변경을 하러 가기 위해 만나는 날 범행을 저질렀다고 경찰은 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FPRBU4HI6BG53MUOT3RXOQUTSM.jpg?auth=c78e06d81585fa3066c534d1c745b5a7b43100f0dacd670f16d524f9de09f0bc&amp;smart=true&amp;width=316&amp;height=237" type="image/jpeg" height="237" width="316"/>
-    </item>
-    <item>
       <title>김예지 국민의힘 의원, 내란 특검 출석 예정...‘국회 의결 방해’ 관련</title>
       <link>https://www.chosun.com/national/court_law/2025/08/12/SDDKLY65GVCENE2AZBDY4FGROA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/SDDKLY65GVCENE2AZBDY4FGROA/</guid>
@@ -832,16 +867,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/CBMGUZXQGVCC5BBB3VOQQB4NOM.jpg?auth=be4f8044760b7be8ba6b2c450d9cf5f7974dbfc1a854d6bb07831f18d0492174&amp;smart=true&amp;width=1800&amp;height=1054" type="image/jpeg" height="1054" width="1800"/>
     </item>
     <item>
-      <title>강남 3구는 ‘보이스피싱 노다지’였다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/EMCC4LTCLVBU5CKK4I777LIMQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/EMCC4LTCLVBU5CKK4I777LIMQA/</guid>
-      <dc:creator>안상현 기자, 강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQZZYLV2EZEXBOJ7EPUBYO4MPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 부촌(富村)에 사는 주부 A(64)씨는 작년 말 보이스피싱 사기로 4억원을 잃었다. 카드 배송 직원이라는 남성이 전화를 걸어와 신용카드가 발급됐으니 배송하겠다고 했다. A씨는 카드를 신청한 적이 없었다. 그런데 상대는 A씨 이름과 생년월일까지 알고 있었다. 남성이 알려준 카드사 고객 센터 번호로 전화했더니 “명의 도용 카드 발급 사고에 휘말린 것 같다”고 했다. 이후 금융감독원 조사관, 검사라는 사람들이 전화를 해 ‘자산 보호’ ‘공탁금 예치’ 등의 명목으로 자금을 이체하게 했다. 보이스피싱 범인들이 사고 접수를 하라며 중간에 깔도록 한 악성 앱을 통해 진짜 카드사, 경찰에 확인하려는 A씨 전화를 가로채면서 피해 규모가 커졌다.&lt;br&gt;&lt;br&gt;A씨처럼 서울 강남 지역에 사는 50·60대 부유층이 보이스피싱의 주요 ‘표적’으로 떠오르고 있다. 특히 여성이 타깃이다. 자산이 많은 데다 주부인 경우가 많아 협박·회유를 통해 돈을 뜯는 과정에서 외부와 접촉할 가능성을 줄일 수 있다는 점을 노린 것이다. &lt;br&gt;&lt;br&gt;작년 하반기(7~12월) 금감원에 신고된 2억원 이상 고액 보이스피싱 피해 사례를 집계한 결과, 서울 전체 피해액(301억5000만원)의 33%는 강남·서초·송파 등 강남 3구에서 발생했다. 서울 25구 가운데 강남구에서 발생한 고액 피해가 차지하는 비율도 20.7%였다. 고액 피해자의 약 80%가 여성이었고, 60대 여성이 절반 이상이었다. 과거 불특정 다수를 노린 보이스피싱이 유출 개인 정보를 활용한 맞춤형으로 진화하면서 고소득층이 많은 강남 지역에 피해가 집중되고 있는 것이다. 경찰 관계자는 “A씨가 겪은 카드 배송 사기는 강남 거주 ‘고액 피해자’들이 자주 당하는 수법”이라며 “자산이 많은 데다 신용 등급까지 높아 대출까지 유도해 돈을 가로채고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CBMGUZXQGVCC5BBB3VOQQB4NOM.jpg?auth=be4f8044760b7be8ba6b2c450d9cf5f7974dbfc1a854d6bb07831f18d0492174&amp;smart=true&amp;width=1800&amp;height=1054" type="image/jpeg" height="1054" width="1800"/>
-    </item>
-    <item>
       <title>[단독] 특검 “58회 무상 여론조사” 金 “난 사업가, 그렇겐 안해”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/09/JFDHCJMF3JEKLHBNNMFDRSNKBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/JFDHCJMF3JEKLHBNNMFDRSNKBY/</guid>
@@ -894,33 +919,6 @@
       <description/>
       <pubDate>Fri, 08 Aug 2025 15:39:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPLJ7IZFWBCFZNKMZPNW2BGUXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고명없이 간 얼음만 제공되는 이름하여 '평양빙수'. 담백함의 상징 평양냉면에서 메뉴명을 따왔지만, 호불호가 확실했다. /정상혁 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주문한 빙수에 팥이 없었다. “어? 뭐지?” 가게 사장이 깜빡한 것이다. 아뿔싸, 팥 고명을 챙겨 다시 테이블로 향하는 순간, 손님들의 반응이 의외였다. “와, 미친 건가…. 얼음 맛만 온전히 즐기는 평양빙수인가 봐.” “어쩐지! 사장님이 트렌디하시더라.” 입소문을 타고 해당 가게는 MZ세대의 미식 성지로 거듭난다. “사장님, 여기 연유 추가 좀….” “아휴, 오빠! 평양빙수는 이 슴슴한 맛이 진짜라고. 얼음 본연의 맛을 즐기려고 노력을 해봐!” 맛보다 말로 흥하는 식문화를 풍자하며 온라인에서 크게 회자된 이 만화, 얼마 전 현실이 됐다.&lt;br&gt;&lt;br&gt;서울 성수동의 한 유명 빙수 가게가 ‘평양빙수’를 출시한 것이다. 평양냉면처럼 군더더기 없는 담백함으로 승부하겠다는, 그리하여 어떤 토핑 없이 근본(얼음)만 제공한다는 패기. 새로움과 인증에 늘 목마른 소셜미디어 덕에 재빨리 팔려나갔다. 호기심을 자극하는 이름, 음식 배달 앱 및 각종 온라인 커뮤니티에서 꽤나 화제였다. “튜닝의 끝은 순정” 같은 방구석 평론가들의 열띤 반응이 이어졌다. 이윽고 “얼음 그 자체에 모든 노하우를 쏟아부은 자부심 넘치는 한 그릇”이라고 극찬하는 리뷰까지. 덩달아 이 메뉴를 도입한 다른 카페도 생겨났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHUODZSJPFGYTHXRFICY6CRBVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;맛보다 말로 현혹하는 식문화를 풍자하며 '평양빙수'라는 단어를 처음 세간에 오르내리게 한 웹툰의 한 장면. /아이디어보부상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래서 직접 가봤다. 정갈하게 입안을 헹구고 녀석과 마주했다. 평양보다는 개마고원 쪽에 더 가까워 보이는 설산(雪山). 우유를 얼려 갈아낸 뒤 연유를 가미했다고 한다. 20분에 걸쳐 혼자 열심히 퍼 먹으며 혓바닥에 있는 미뢰 약 1만개를 총동원했다. 소믈리에마냥 얼음을 머금고 쫍쫍거리며 빙간(氷間)에 숨어 있을 어떤 미묘함을 느끼려 신중했다. 음…. 결국 중간쯤 먹다가 직원에게 요청했다. “팥 조금만 주세요….” 평양냉면 마니아가 봤다면 혀를 찼을지 모른다. 너는 먹을 줄을 몰라.&lt;br&gt;&lt;br&gt;다만 가격표에 주목할 필요가 있다. 1만2000원. 뜨거운 비판이 쇄도한 배경이다. “어지간하면 자영업자들 뭐라 안 하는데 우유 얼린 거 갈아 팔면서 1만2000원 받아먹고 이름은 평양빙수네.” “아무 맛 없는데 비싸면 평양○○이네.” “돈도 평양 가격으로 받아라.” 물론 평양에도 빙수는 있다. 지난달 29일 북한 노동신문은 “무더위가 계속되면서 빙수 매대를 찾는 사람들의 수가 더욱 늘고 있다”는 선전 기사를 내보냈다. 기근의 나라, 극소수만 즐기는 간식이기는 하지만 여기 빙수도 기본적으로 팥이나 과일, 시럽 등을 올린 ‘종합 과일 빙수’다. 실제 평양 옥류관에서도 냉면에 이런 식으로 여러 양념을 섞어 먹는다. 슴슴한 맛과는 거리가 먼 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N47EGGMEW5EZJM3VYNJOWPV6XY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;평양에서 파는 실제 빙수. 고명으로 알록달록하다. /평양 노동신문=뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이제 ‘평양○○’는 평양과는 별 상관없는 지극히 한국적인 현상이 됐다. 전통과 근본을 내세우면서도 가격 상승에는 누구보다 기민한 상술, 알 듯 말 듯한 맛의 진정성을 강조하며 이를 부인할 경우 식도락의 반동분자로 몰아세우는 일부 면식범(麵食凡) 탓에 고집스럽고 교조적인 ‘극성’의 대명사로 변질된 것이다. 부족함을 슴슴함으로 호도하는 세태를 조롱하는 개그 소재로도 사용되고 있다. 이를테면 수프도 없이 맹물에 면발만 끓여놓고는 ‘평양라면’이라 이름 붙이는 식이다.&lt;br&gt;&lt;br&gt;설왕설래가 거세지자, 결국 해당 빙수 가게는 최근 메뉴판에서 ‘평양빙수’를 ‘우유빙수’로 교체했다. “사실 이 메뉴는 우유 얼음만 담백하게 즐기고 싶다고 말씀해 주신 단골손님들의 목소리에서 시작됐다”면서도 “앞으로 더 조심스럽고 세심하게 고민해 메뉴를 만들겠다”는 사과문을 인스타그램에 올렸다. 그리고 “의도치 않게 불편함을 드린 책임의 마음을 담아” 수익금 100만원을 수해 복구 단체에 기부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호, ‘한동훈표 검수원복’ 되돌린다</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/09/6FBVWWXTHZGUDLEUNHLAURJGWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/09/6FBVWWXTHZGUDLEUNHLAURJGWM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>정성호 법무장관이 8일 “검찰 개혁 입법에 앞서 현행 검찰청법에 맞게 시행령을 개정해 검찰의 직접 수사 개시 범위를 축소하라”고 지시했다. 윤석열 정부 당시 한동훈 전 법무장관이 만들었던 ‘검수원복(검찰 수사권 원상 복구)’ 시행령을 되돌려 검찰의 직접 수사를 제한하겠다는 것이다.&lt;br&gt;&lt;br&gt;법무부는 이날 “정 장관의 지시에 따라 검찰의 직접 수사 개시 범위를 부패·경제 등 2대 범죄로 한정한 검찰청법의 취지에 맞는 시행령 개정 작업에 착수했다”며 “검찰의 무리한 수사를 방지해 검찰을 정상화하는 첫 단추가 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;법무부가 개정에 나선 시행령은 ‘검사의 수사 개시 범죄 범위에 관한 규정’이다. 앞서 문재인 정부는 2022년 검찰청법상 검찰의 직접 수사 범위를 6대 범죄(부패·경제·공직자·선거·방위사업·대형참사)에서 2대 범죄(부패·경제)로 축소하는 ‘검수완박(검찰 수사권 완전 박탈)’ 법을 통과시켰다. 그해 5월 윤석열 정부가 들어선 이후 한 전 장관은 수사 지연과 검찰의 수사 역량 약화를 막는다며 시행령을 고쳐 수사 범위를 넓혔다. 검찰청법이 ‘부패·경제범죄 등 대통령령으로 정하는 중요 범죄’라고 규정한 것을 이용해 직무유기·직권남용·정치자금법 위반 등을 부패 범죄에, 보이스피싱 등 민생 침해 범죄를 경제 범죄에 추가한 것이다. 이를 두고 당시 민주당에선 “시행령 개정으로 검찰 직접수사 대상을 늘린 것은 국회의 입법권 침해”라고 반발했다.&lt;br&gt;&lt;br&gt;한 전 장관은 이날 페이스북에 “‘검수원복 시행령’을 없애 완전한 ‘검수완박’하겠다고 한다. 이러면 마약·깡패 수사를 검찰이 안 하게 된다”며 “범죄자들은 신나고 힘없는 국민들만 피해 볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대치쌍용1차 999가구로 재탄생</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/09/FGXYWU3UA5HWFMDUI4PT5PBI6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/FGXYWU3UA5HWFMDUI4PT5PBI6A/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5SXN37MOJB47OZDH6PCI6SJJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1983년 준공한 서울 강남구 대치동의 대치쌍용1차 아파트가 최고 49층 999가구 규모로 재건축될 전망이다. 서울시는 정비사업 통합심의위원회에서 이 같은 내용의 정비 계획안을 승인했다고 8일 밝혔다. &lt;br&gt;&lt;br&gt;대치쌍용1차는 서울 지하철 3호선 학여울역 북쪽에 있는 아파트로, 영동대로를 두고 은마아파트와 마주 보고 있다. 이번에 통과된 정비 계획안에 따르면, 기존 5동 630가구가 6동 999가구로 재개발된다. 이 중 132가구는 공공 임대로 공급된다. 단지에 녹지를 조성해 양재천과 연결하고, 서울형 키즈카페와 어린이집 등을 조성해 인근 지역 주민에게 개방할 계획이다.&lt;br&gt;&lt;br&gt;서울 양천구 신월동 신월시영아파트도 3100가구 규모의 단지로 재건축될 전망이다. 양천구는 이날 ‘신월시영 재건축 정비구역 지정’을 고시했다고 밝혔다. 최고 21층, 3149가구(공공임대 196가구 포함) 규모 아파트로 재건축한다는 계획이다. 단지 중앙의 신월근린공원은 북쪽으로 옮긴다. 양천구 관계자는 “인근 지양산과 한울공원, 독서공원 등과 연결해 총 2.3km 길이의 공원 산책로를 완성할 것”이라고 했다.&lt;br&gt;&lt;br&gt;양천구는 같은 날 목동4단지의 정비구역 지정도 고시했다. 목동에선 14개 단지가 재건축을 추진 중인데, 6단지는 재건축 조합 설립을 마쳤고 8·9·10·12·13·14단지가 정비구역 지정·고시를 완료한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국내 잠입 ‘파키스탄 테러 단체’ 조직원 이태원서 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/08/09/OYTY3W54JZC75JJOO2UQHEFUMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/09/OYTY3W54JZC75JJOO2UQHEFUMY/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 08 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>국내에 잠입해 숨어 지내던 파키스탄 극단주의 테러 단체 ‘라슈카르 에 타이바(LeT)’의 조직원이 경찰에 붙잡혔다. 이 단체는 유엔(UN)이 지정한 테러 단체로, 국내에서 조직원이 체포된 건 처음이다.&lt;br&gt;&lt;br&gt;경기남부경찰청 안보수사과는 8일 파키스탄 국적의 40대 A씨를 테러방지법과 출입국관리법 위반 등 혐의로 구속해 수원지검에 송치했다고 밝혔다. 경찰은 최근 국가정보원에서 관련 첩보를 전달받고 수사에 착수, 지난 2일 서울 용산구 이태원의 한 마트에서 일하던 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 2020년 고향인 파키스탄 나로왈에서 라슈카르 에 타이바에 가입한 뒤 기관총, 박격포, RPG(로켓 추진 유탄) 등 중화기 사용법과 침투 훈련을 받고 정식 조직원으로 활동한 혐의를 받고 있다. 라슈카르 에 타이바는 1980년대 중반 창설된 이슬람 극단주의 테러 조직으로, 파키스탄 정보기관(ISI)의 지원을 받았던 것으로 알려졌다. 2005년 유엔 테러 단체로 지정됐다. 2008년 11월 인도 뭄바이 연쇄 테러를 주도해 166명을 살해했고, 올해 4월 인도령 카슈미르 총기 테러 사건의 배후로도 지목됐다.&lt;br&gt;&lt;br&gt;A씨는 2023년 9월 파키스탄 주재 한국 영사관에 ‘사업차 한국 기업을 방문할 예정’이라며 허위 신청서를 써내고 단기 취업용 비자(C-4)를 받는 데 성공했다. 경찰 조사 결과 신청서에 쓴 회사는 실제론 존재하지 않는 곳으로 나타났다. 같은 해 12월 한국에 들어온 A씨는 서울 이태원 등에서 거주한 것으로 파악됐다. 2024년 1월 비자 유효기간이 끝났지만 불법 체류자 신분으로 이태원 일대에 머물렀다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “돈을 벌러 대한민국에 왔을 뿐”이라며 “그 조직을 알긴 하지만 소속은 아니다”라고 주장한 것으로 전해졌다. 그러나 입국 이후 단 한 차례도 취업한 기록이 없고, 검거 당시에도 마트에서 단기 아르바이트 중이었기 때문에 A씨가 제대로 경제 활동을 하려고 한국에 머물렀다고 보기 어렵다는 게 경찰 판단이다. 경찰은 “A씨가 국내에서 직접 테러 등을 일으키지는 않았지만, 2016년 시행된 테러방지법에 따라 테러 단체 조직원으로 활동한 전력 자체를 범죄 행위로 보고 구속영장을 발부받았다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 국정원과 공조해 A씨가 국내에서 테러 자금을 모금·송금한 정황이 있는지, 다른 조직원과 접선했는지 등을 수사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아버지, 올여름엔 돈 아끼지 말고 꼭 에어컨 켜세요!”</title>
