@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 경찰, 가수 ‘폴킴’ 악플러 미국에서 소환 조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/2BOIWJ7HIBFZ7HFECSY7FUI2XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/2BOIWJ7HIBFZ7HFECSY7FUI2XY/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 13:41:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNMMSHQBCZLNLBJ5I7RPFVQAA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 경기 고양 킨텍스홀에서 열린 2025 SBS 가요대전에 참석해 포즈를 취하는 폴킴의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 가수 폴킴(37·본명 김태형)을 상대로 지속적으로 ‘악플’을 달아온 A씨에 대한 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 가수 폴킴을 상대로 지속적인 악성 댓글을 작성한 A씨를 모욕과 명예훼손 등의 혐의로 수사 중이라고 12일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 폴킴의 소속사 주식회사 켄버스는 지난 5월 27일 악플러 A씨를 상대로 고소장을 제출했다. A씨는 지난 3월부터 폴킴의 소셜 미디어 계정에 욕설과 함께 “폴킴은 사재기 가수”라는 등의 취지의 악성 댓글 100여 개를 지속적으로 게시한 혐의를 받는다. &lt;br&gt;&lt;br&gt;폴킴은 지난 2018년 음악 작업을 위해 미국을 방문했을 당시 A씨와 처음 알게 된 것으로 알려졌다. 폴킴 측은 “(A씨와는) 음악 작업 과정에서 인사를 몇 번 주고받았을 뿐, 이후 개인적으로 따로 교류한 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 최근 미국 거주 중인 A씨를 소환해 조사한 것으로 알려졌다. 소속사 관계자는 “A씨의 주장은 명백한 허위 사실”이라며 “선처 없이 대응할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서희건설 실토에도 판사 질문에도… 김여사 “목걸이 안 받았다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/13/HBJS2U7OHZD3ZCKOZEGEG6RAP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/HBJS2U7OHZD3ZCKOZEGEG6RAP4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 11:44:35 +0000</pubDate>
+      <content:encoded>12일 서울중앙지법에서 구속영장 실질심사를 받은 김건희 여사가 “(반클리프 앤 아펠) 목걸이를 받았느냐”는 판사의 질문을 받고 “안 받았습니다”라고 대답한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4LQLBC7BMCWRLRUBXDWK2IDBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사의 영장 심사를 심리한 정재욱 영장 전담 부장판사는 이날 김 여사의 최후 진술이 끝나자 김 여사에게 “목걸이를 받았느냐”는 질문을 던졌다. 앞서 특검은 이날 2시간 50분가량 김 여사의 구속 필요성을 주장하면서, 김 여사에게 2022년 3월 6000만원대 반클리프 목걸이를 준 사실을 인정한 이봉관 서희건설 회장의 자수서를 제시했는데, 이를 염두에 둔 질문인 것으로 전해졌다. 이에 김 여사는 “안 받았습니다”라며 혐의를 부인했다는 것이다.&lt;br&gt;&lt;br&gt;이 목걸이는 김 여사가 2022년 6월 북대서양조약기구(나토) 정상회의 순방 당시 착용한 것으로, 재산 신고 목록에 이 목걸이가 빠진 사실이 알려지며 논란이 불거졌다. 김 여사 측은 이 목걸이가 2010년쯤 홍콩에서 어머니 최은순씨에게 선물하기 위해 구입한 모조품이고, 순방 직전 이를 빌렸다는 입장이었지만, 특검은 이를 정면으로 반박하는 증거를 들이민 셈이다. &lt;br&gt;&lt;br&gt;특검은 지난 11일 이 회장의 자수서를 받았고, 반클리프 목걸이의 실물도 임의제출 받았다고 한다. 특검은 지난달 25일 경기 남양주시에 있는 김 여사 오빠 장모의 집을 압수 수색하면서 같은 디자인의 목걸이를 확보했는데, 감정 결과 이는 모조품으로 판명났다. 그런데 이 회장이 자수와 함께 목걸이 실물을 제공하자, 특검은 김 여사가 거짓 진술을 했다며 구속 필요성을 강조한 것이다. 특검은 프레젠테이션을 마무리하기 직전 이 회장의 자수 내용 등을 제시했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5S2W3ZUGW5ODRAACCC2OFTC7ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사팀은 서희건설이 김건희 여사가 지난 2022년 6월 해외 순방 당시 착용했다가 재산 신고 누락 논란이 불거졌던 '반 클리프 앤 아펠' 목걸이를 직접 구매해 김 여사에게 전달했다는 자수서를 받았다고 12일 밝혔다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 반클리프 목걸이가 핵심인 김 여사의 ‘재산 신고 누락’ 의혹은 이번 구속영장 청구서에 포함되지 않았다. 정 부장판사도 특검 측이 이 회장 자수서를 제시하자 “별건은 (주장)하지 마시지요”라며 제지한 것으로 전해졌다. 이와 관련해 특검은 이날 브리핑에서 “구속 필요성 관련 주장은 사건 전후의 경위 등을 상세히 얘기할 수밖에 없는 측면이 있다”고 말했다.&lt;br&gt;&lt;br&gt;김 여사의 구속 여부는 이르면 이날 밤 늦게 결정될 전망이다. 김 여사는 오후 3시쯤 영장 심사를 마친 뒤 서울남부구치소로 이동해 심사 결과를 기다리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NVTGHHYWKZNTLHJ55BRHP6JOGI.JPG?auth=0408e81477b3af7c95a2bfb4caa97140573af0d37603bf7bc38efa4c62acd3e4&amp;smart=true&amp;width=2924&amp;height=1645" type="image/jpeg" height="1645" width="2924">
+        <media:description type="plain">(마드리드=뉴스1) 오대일 기자 = 윤석열 대통령과 부인 김건희 여사가 29일 오후(현지시간) 마드리드 시내 호텔에서 열린 재스페인 동포 초청 만찬간담회에서 박수치고 있다. (대통령실사진기자단) 2022.6.30/뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>장마 끝났다더니... 내일 수도권 최고 150㎜ 쏟아진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/13/MEXQTBLHWJDL7BUKTYDKSB5MKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/13/MEXQTBLHWJDL7BUKTYDKSB5MKI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 11:26:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJUXA35U2FI5POGFLAFTTIW5HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정체전선 영향으로 호우특보가 내려진 11일 오전 제주시 노형오거리 인근 거리에 우산을 쓴 시민들이 걸어가고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘8월의 장마’가 전국을 적신다. 13일 장맛비 같은 장대비가 수도권을 중심으로 퍼부을 전망이다. 우리나라 장마는 지난달 이미 끝났으나, 때 아닌 북극 찬 공기의 남하로 장마 때 나타나는 정체전선이 만들어진 것이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 북태평양고기압이 세력을 확장하면서 12일까지 제주와 남부 지방에 많은 비를 뿌리던 정체전선이 북상, 13일 서울을 비롯한 중부 지방을 중심으로 많은 비가 내리겠다. &lt;br&gt;&lt;br&gt;정체전선에서 발달한 비구름은 이날 오전 한 차례 비를 뿌린 뒤 소강상태를 보이다가, 밤에 또 한 차례 형성되면서 많은 비를 쏟을 것으로 전망된다. 출근길에 한 번, 깊은 밤에 한 번 비가 내리는 것이다. 특히 밤에는 수도권에 시간당 30~50㎜의 집중호우가 내릴 것으로 예상된다. ‘매우 많은 비’의 기준이 시간당 30㎜로, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;13~14일 예상 강수량은 수도권 50~150㎜, 강원도·충남 북부·충북 중부·충북 북부 30~100㎜, 대전·세종·충남 중부·충남 남부·충북 남부 10~60㎜, 남부 지방 5~40㎜, 제주 5∼20㎜ 등으로 예보됐다.&lt;br&gt;&lt;br&gt;이번 비는 주로 장마철에 볼 수 있는 정체전선에 의한 비다. 정체전선은 성질이 다른 두 종류의 공기가 충돌하는 과정에서 형성된다. 이번에는 한랭건조한 북쪽 찬 공기와 북태평양고기압 가장자리에서 불어오는 고온다습한 공기가 충돌하며 정체전선이 형성됐다. &lt;br&gt;&lt;br&gt;보통 8월 중순에는 북태평양고기압이 우리나라 상공을 덮으며 폭염이 나타난다. 8월 말로 갈수록 북태평양고기압 세력이 약화하며 그 중심이 일본 쪽으로 물러나고, 본격적으로 태풍이 북상하기 시작하면서 ‘가을 태풍’이 한반도에 상륙하게 된다.&lt;br&gt;&lt;br&gt;그런데 8월 중순에 때 아닌 북쪽 찬 공기의 남하로 비구름대가 만들어진 것이다. 주로 6월 말부터 7월 말까지 나타나는 비의 양상이 뒤늦게 8월 중순에 발생하고 있는 것이다. 정체전선이 북태평양고기압 확장에 따라 남북으로 오르내리는 것도 장마철 비 패턴과 흡사하다. 다만 지난달 20일 중부지방을 끝으로 장마 종료 선언 이후 내리는 비라서, 이 비로 인해 공식 장마 기간이 늘어나는 것은 아니다.&lt;br&gt;&lt;br&gt;이런 비가 내리는 것은 온난화 여파로 북쪽 찬 공기를 막아주던 제트기류가 느슨해졌기 때문이다. 제트기류는 지구를 서에서 동으로 강하게 도는 바람으로, 이 바람이 일종의 ‘방어막’ 역할을 하면서 북극 찬 바람이 우리나라 부근까지 내려오는 것을 막아준다. 그런데 지구의 공기가 뜨거워지며 제트기류가 느슨해졌고, 이때 북쪽에 묶여 있어야 할 찬 바람이 내려오게 된 것이다.&lt;br&gt;&lt;br&gt;찬 공기의 남하와 비의 영향으로 13일 전국 아침 최저기온은 21~26도, 낮 최고기온은 27~33도로 평년 수준으로 내려갈 전망이다. 14일에도 최저 22~26도, 최고 28~34도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;이후 광복절인 15일부터 차츰 기온이 오르며 주말에는 다시 폭염이 발생할 것으로 예상된다. 주말인 16~17일에는 한낮 기온이 최고 35도까지 오르며 무덥겠고, 전역에 폭염특보도 발효될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OPCZPSTLDVP42PXCO6CIZ7OU4A.jpg?auth=639020697f2d98236d1fdc0a0d72db51b4af907ff965e5c6a0bf912be5d633f5&amp;smart=true&amp;width=4675&amp;height=2275" type="image/jpeg" height="2275" width="4675">
+        <media:description type="plain">비 내리는 제주(자료사진)/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>손흥민 딥페이크 활용한 ‘불법 카지노 앱’…경찰 수사 착수</title>
       <link>https://www.chosun.com/national/incident/2025/08/13/VUQ4VAWTF5BZBDS3VOO6OFQIQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/13/VUQ4VAWTF5BZBDS3VOO6OFQIQA/</guid>
@@ -942,33 +976,6 @@
       <description/>
       <pubDate>Mon, 11 Aug 2025 08:55:50 +0000</pubDate>
       <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 첫 기소한 ‘삼부토건 사건’이 김용현 전 국방부 장관의 재판을 맡은 재판부에 배당됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4M5DCP45NIXBA6OU3DYRZV4UI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이일준 전 삼부토건 회장이 지난달 17일 오전 서울 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 받은 뒤 나와 차량으로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법은 자본시장법 위반 등 혐의로 기소된 삼부토건 이일준 회장과 이응근 전 대표이사 사건을 형사34부(재판장 한성진)에 배당했다.&lt;br&gt;&lt;br&gt;형사34부는 윤석열 전 대통령의 12·3 비상계엄에 따른 내란·외환 혐의를 수사하는 조은석 특별검사팀이 1호로 기소한 김 전 장관의 위계에 의한 공무집행방해, 증거인멸교사 사건도 맡고 있다.&lt;br&gt;&lt;br&gt;이 회장 등 삼부토건 관계자는 2023년 5월 폴란드에서 열린 우크라이나 재건 포럼에서 각종 업무협약(MOU)을 맺었다고 홍보한 후 투자자들을 속여 주가를 띄운 혐의를 받는다. 우크라이나 재건 포럼 이후 삼부토건은 그해 5월 1000원대였던 주가가 2개월 뒤 장중 5500원까지 급등한 바 있다. &lt;br&gt;&lt;br&gt;특검은 이들이 우크라이나 전후 재건 사업에 실제 참여할 의도나 능력이 없었음에도, MOU를 홍보해 주가를 끌어올린 뒤 주식을 매도해 369억원의 부당이익을 챙겼다고 보고 있다. &lt;br&gt;&lt;br&gt;김건희 특검팀은 지난달 14일 이들에 대해 구속영장을 청구했고, 법원은 지난 18일 영장을 발부했다. 두 사람은 지난 1일 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가평 폭우 수색 23일만 종료… 9일 발견 시신, 마지막 실종자로 확인</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/12/JHVEKWA3CZHLZM3K2UIUN3IXCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/JHVEKWA3CZHLZM3K2UIUN3IXCQ/</guid>
-      <dc:creator>가평=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 08:28:34 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4IC3MLB4CRACGOBGA7FL65G4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 경기 가평군 일대에서 소방 당국이 수해 실종자를 찾기 위해 수색 작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 가평을 덮친 기록적 폭우로 시작된 실종자 수색이 23일 만에 끝났다. 지난 9일 경기 가평군에서 발견된 시신은 덕현리에서 급류에 휩쓸려 실종된 50대 남성으로 11일 확인됐다. 이로써 실종자 수색이 종료됐다. 소방·경찰·군이 헬기와 드론, 수중 로봇까지 투입한 총력전 끝에 마지막 실종자가 가족 품으로 돌아왔다. &lt;br&gt;&lt;br&gt;경기도북부소방재난본부에 따르면, 이번 집중호우로 가평 7명, 포천 1명 등 8명이 숨지고 5명이 다쳤다. 시설 피해는 6532건, 약 1829억원으로 집계됐다. 이재민은 137명(88세대)이다. &lt;br&gt;&lt;br&gt;수색에는 총 1만1689명과 장비 1785대가 동원됐다. 국가 소방 동원령이 내려진 7월 20~8월 3일에는 서울·중앙·강원·세종·경북에서 인력 650명과 장비 388대를 추가로 지원받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RUUJQ6UC7ZRUG6ACQQ3EMSQUAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 경기 가평군 상면 대보교 일대에서 군 당국이 실종자를 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하늘에서는 헬기와 드론이 상공을 돌며 하천 유입 지점을 확인했고, 지상에서는 구조견과 수색팀이 수변을 따라 걸었다. 수상에서는 보트와 바지선이 떠 있었고, 수중에서는 소나 3대와 원격 수중 탐사기(ROV), 잠수 요원이 하상을 훑었다. 소나는 소리를 이용해 수중 물체의 위치나 지형을 탐지하는 장비다.&lt;br&gt;&lt;br&gt;수색이 진행되며 차례로 실종자들을 찾아냈다. 1일 차 마일리 캠핑장(대보교) 실종자 1명, 2일 차 제령리 1명, 4일 차 대보리·덕현리 1명, 5일 차 덕현리 합수부 미성년 1명, 12일 차 덕현리 합수부 1명을 차례로 수습했다. &lt;br&gt;&lt;br&gt;10~11일차에는 트랙터로 조종천 모래톱을 발굴했고, 실종자 가족 요청에 따라 폐건물 지하 배수와 진흙 제거, 소(沼) 수중 수색도 진행했다. 팔당댐 부유물 수거와 한강 하류 보강 수색도 병행했다. 마지막 실종자 발견 이후에도 수색은 멈추지 않았다. DNA·지문 감식을 통한 신원 확인과 현장 조사가 이어졌다.&lt;br&gt;&lt;br&gt;경찰 4321명, 군 3720명이 장비와 함께 합류해 드론·구조견 합동 수색, 토사 제거, 응급 복구를 지원하기도 했다. 가평군청은 굴착기 246대를 포함한 중장비 372대를 투입했고, 한전·KT도 전력과 통신 복구 장비를 투입했다.&lt;br&gt;&lt;br&gt;강대훈 본부장은 “북한강 본류까지 확대된 입체 수색과 과감한 장비·인력 투입, 유관기관 공조가 마지막 실종자 발견으로 이어졌다”며 “끝까지 실종자를 찾아 가족 품에 돌려보낼 수 있어 다행이다. 피해 복구가 끝날 때까지 현장 안전과 주민 지원을 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 대법원에 “중대재해법 양형 기준 마련해 달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/A5V3CIUAAVBHROW3HKI55OPE2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/A5V3CIUAAVBHROW3HKI55OPE2I/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 08:20:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ANPTSK5YJIJZHZW3KDFOURR6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울 서초구 대법원에서 이동원 위원장 주재로 제140차 양형위원회 전체회의가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 최근 대법원 양형위원회에 중대재해처벌법 양형 기준을 마련해달라고 공식 요청한 것으로 11일 나타났다.&lt;br&gt;&lt;br&gt;대법원 등에 따르면 양형위는 지난주 법무부로부터 ‘중대재해법 양형 기준을 마련할 필요가 있다’는 취지의 공문을 받아 이날 제140차 회의에 보고했다. 양형 기준은 판사가 형량을 정할 때 참고하는 일종의 가이드라인이다. 반드시 따라야 하는 것은 아니지만 양형 기준을 벗어난 형량을 선고하려면 그 이유를 판결문에 적어야 한다.&lt;br&gt;&lt;br&gt;중대재해법은 산업 현장에서 사망 사고 등이 발생한 경우 사업주나 경영 책임자를 1년 이상 징역 또는 10억원 이하 벌금으로 처벌하는 법이다. 2022년 1월 상시 근로자 50인 이상 사업장을 대상으로 시행됐고 지난해 1월 27일부터 5인 이상 사업장으로 범위가 확대됐다.&lt;br&gt;&lt;br&gt;법무부가 중대재해법 양형 기준 마련을 공식 요청한 것은 이재명 대통령이 최근 산업재해 근절을 강조하면서 각 부처에 고강도 대응을 주문한 것이 영향을 미친 것으로 풀이된다. 이 대통령은 지난달 29일 국무회의에서 “(중대재해법 위반 사건이)대부분 집행유예 정도로 끝난다”며 처벌을 강화해야 한다는 취지로 말한 바 있다. 정성호 법무부 장관은 이에 “양형위원회에 강력한 양형 기준을 요청하고 있다”고 답했다. &lt;br&gt;&lt;br&gt;중대재해법은 시행 이후 3년이 넘었으나 지금까지 양형 기준이 없어 경영계에서는 “불명확한 기준 탓에 경영 리스크와 불안감만 키운다”는 지적이, 노동계에서는 “솜방망이 처벌이 남발된다”는 불만이 나오고 있다. &lt;br&gt;&lt;br&gt;현행 10기 양형위는 지난 6월 2년 임기 동안 양형 기준을 신설하거나 수정할 법령을 선정했는데, 중대재해법은 포함되지 않았다. 중대재해법 시행 이후 양형 기준을 마련할 만큼 판결 사례가 쌓이지 않았고, 헌법재판소에서 일부 조항에 대해 헌법소원과 위헌법률심판을 접수해 심리하고 있어 섣불리 기준을 마련하기 어려운 상황인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난해 4월 중소기업중앙회 등 단체 9곳과 중소기업·소상공인 305명이 중대재해법에 대해 헌법소원을 제기했고, 올해 3월에는 부산지법이 위헌법률심판 제청을 했다. 부산지법 형사4-3부(재판장 김도균)는 중대재해법 위반 혐의로 항소심 재판을 받는 부산 지역 한 건설업체 대표 박모씨가 위헌법률심판 제청을 신청하자 “과잉 금지 원칙, 책임주의·평등 원칙, 명확성 원칙에 반해 헌법에 위반된다고 인정할 만한 상당한 이유가 있다”며 인용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘미성년자 때부터 성폭행’... 친딸 임신까지 시킨 인면수심 아빠 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/12/JWPAZWNZJ5DSNATYOLASKVRZ7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/JWPAZWNZJ5DSNATYOLASKVRZ7Q/</guid>
-      <dc:creator>여주=김수언 기자, 여주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 08:15:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GIFNFZLKREQ7FRXAQV6DLNDKU.png"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 친딸을 성폭행해 임신까지 시킨 50대 아버지가 구속 상태로 재판에 넘겨졌다. 이 남성은 딸이 미성년자였을 때부터 상습적으로 범행을 저질러왔다.&lt;br&gt;&lt;br&gt;수원지검 여주지청 형사부(부장 정우석)는 성폭력범죄의 처벌 등에 관한 특례법 위반(친족 관계에 의한 강간) 혐의로 A(50대)씨를 구속 기소했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2021년 7월과 올해 3월 두 차례에 걸쳐 자신의 친딸 B씨를 경기 여주시 주거지 등에서 강간한 혐의를 받는다. &lt;br&gt;&lt;br&gt;임신 상태였던 B씨는 검사를 받기 위해 이천의 한 병원을 찾았고 “아버지로부터 피해를 입었다”는 취지의 이야기를 했다. 이를 들은 병원 측은 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사 과정에서 범행을 자백했다. 그는 B씨가 미성년자였던 때부터 상습적으로 범행을 저질렀던 것으로 파악됐다. 2021년 범행 당시에도 B씨는 미성년자였다. &lt;br&gt;&lt;br&gt;이후 경찰은 A씨와 태아의 DNA 검사 등을 통해 친자 관계임을 확인했고 지난 7월 10일쯤 검찰에 송치했다. &lt;br&gt;&lt;br&gt;B씨는 그동안의 피해 상황을 주변에 알리기 어려운 가정환경에 놓여 있었던 것으로 알려졌다. 경찰은 조사 후 관할 지자체와 피해자 지원 단체 등을 연계, B씨에 대한 심리 치료 등을 지원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>美 예술가 마크 곤잘레스, 국내 의류 기업 상대 저작권 침해 소송 최종 승소</title>
