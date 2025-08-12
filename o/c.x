@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 하천 29곳·증산교 하부도로 통제… 인천·경기 최대 200㎜ 비 쏟아져</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/14/IPRMIIH6PZC73FLGLALUQNAGXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/14/IPRMIIH6PZC73FLGLALUQNAGXU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 22:35:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTKABYYAA22PQH5CZT7RXMGI4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비 오는 도로 자료사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 새벽부터 서울에 내린 많은 비로 청계천, 안양천 등 시내 전체 29개 하천의 출입이 통제됐다. 증산교 하부도로도 이날 오전 6시 40분부터 통제 중이다. &lt;br&gt;&lt;br&gt;기상청은 이날 오전 6시 30분을 기해 서울 동북‧서남‧서북권에 호우주의보를 발효한다고 밝혔다. 호우주의보는 3시간 동안의 강우량이 60㎜ 이상, 또는 12시간 동안의 강우량이 110㎜ 이상으로 예상될 때 발효된다. 우산을 써도 무릎 아래가 다 젖을 정도로, 계곡물 및 하천 범람 등 사고에 유의해야 한다. &lt;br&gt;&lt;br&gt;이에 따라 시는 강우 상황과 관련해 ‘주의’ 단계인 1단계를 발령하고 비상근무에 들어갔다. 시 공무원 355명과 25개 자치구 3110명이 폭우에 대비한 상황근무를 하고 있다. &lt;br&gt;&lt;br&gt;이날 중부 지방에 돌풍과 천둥‧번개를 동반하는 강하고 많은 비가 내릴 예정이다. 14일까지 이틀 동안 수도권 50~150㎜, 강원 내륙‧산지는 30~100㎜의 비가 예보됐다. 인천‧경기 북부와 서해5도는 최대 200㎜ 이상, 강원 중‧북부 내륙은 150㎜ 이상 비가 쏟아지는 곳도 있겠다. &lt;br&gt;&lt;br&gt;수도권은 이날 오전부터 이튿날 새벽까지, 강원 북부 내륙‧산지는 이날 밤부터 이튿날 새벽까지 시간당 30~50㎜의 매우 강한 비가 집중되겠다. &lt;br&gt;&lt;br&gt;그 밖에 예상 총 강수량은 충남 북부와 충북 중‧북부 30~80㎜, 충청권 남부 20~60㎜, 강원 북부 동해안 10~40㎜, 강원 중‧남부 동해안 5~20㎜다. 13일 하루 전라권과 경상권은 5~40㎜, 제주도는 5~20㎜의 비가 내리겠다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무속인 된 배우 정호근, 거액 ‘세금 폭탄’에…“면세 사업인 줄”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/JC7B2OYO45DLRNM7OMALKLIJ7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/JC7B2OYO45DLRNM7OMALKLIJ7A/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 22:03:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMWJ4VHEJHFZZW3XXQVXKCAT2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 출신 무속인 정호근씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 출신 무속인 정호근씨가 5년간 신당에서 벌어들인 수입을 신고하지 않아 국세청으로부터 거액의 세금을 부과받았다. &lt;br&gt;&lt;br&gt;12일 조세일보에 따르면, 정씨는 2021년까지 사업자 등록 없이 신당을 운영했다. 신당에서 얻은 소득을 신고하지 않고 세금도 미납해 국세청 조사 대상이 됐다. &lt;br&gt;&lt;br&gt;성북세무서와 서울지방국세청은 조사 결과를 토대로 2017~2021년 총 5년간 정씨가 누락한 세금을 두 차례에 걸쳐 결정‧고지했다. &lt;br&gt;&lt;br&gt;먼저, 성북세무서는 2022년 개인통합세무조사를 통해 정씨가 2018~2021년 무속인으로 활동하면서 얻은 4년 치 수입을 파악해 부가가치세와 종합소득세를 부과했다. 또 그가 운영하는 신당을 점술업으로 강제 사업자등록 시켰다. &lt;br&gt;&lt;br&gt;2024년 서울지방국세청은 앞선 성북세무서의 과세 처분을 감사하는 과정에서 세무조사에서 누락된 2017~2018년 상반기 수입을 확인해 1년 6개월 치 부가세를 추가로 고지했다. &lt;br&gt;&lt;br&gt;정씨는 조세 심판을 청구하며 “2017년 당시 신당은 촬영용으로 빌린 것이며 물적 시설이 없어 과세 대상이 아니다”라고 주장했다. 하지만 조세심판원은 방송‧유튜브 영상과 네이버 지도 간판 등을 근거로 최소 2017년부터 점술 용역을 제공했다고 판단해 국세청 손을 들어줬다. &lt;br&gt;&lt;br&gt;이에 대해 정씨는 “탈세 의도는 없었다”며 “신당 수입을 (면세사업인) 종교시설 기부금 성격으로 인식했다. 관련 세무 지식이 부족한 상태에서 기존 무속인들의 관행이나 비전문가의 조언에 의존해 점술 용역이 부가가치세 과세 대상이라는 점을 전혀 인지하지 못했다”고 밝혔다. 이어 “대출금까지 동원해 현재는 모든 세액을 완납했다”며 “이번 세금 문제는 세무 지식 부족에서 비롯된 실수일 뿐 결코 납세의무를 회피하거나 고의로 해태하려는 의도는 전혀 없었다”고 강조했다. 그러면서 “앞으로는 더 책임감 있는 자세로 납세의무를 이행함은 물론, 공인의 위치에서 더욱 조심스럽고 모범적인 삶을 살겠다”고 했다. &lt;br&gt;&lt;br&gt;1984년 MBC 공채 탤런트로 데뷔한 정씨는 드라마 ‘왕초’ ‘허준’ ‘광개토대왕’ 등에 출연했다. 2015년부터 무속인으로 활동하며 유튜브 채널 ‘정호근쌤의 인생상담’을 운영 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] ’800억 애물단지' 연세대 양자컴… 해외 석학 모셔와 신약 개발한다</title>
       <link>https://www.chosun.com/national/national_general/2025/08/13/5MECALKC45AV3MULF3NXOHOSRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/5MECALKC45AV3MULF3NXOHOSRM/</guid>
@@ -827,28 +845,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 00:58:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPCZPSTLDVP42PXCO6CIZ7OU4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘8월의 장마’가 전국을 적시고 있다. 13일은 수도권을 비롯한 중부지방을 중심으로 거센 비가 예고됐다.&lt;br&gt;&lt;br&gt;12일 기상청에 따르면, 북태평양고기압 가장자리를 따라 들어오는 고온다습한 공기와 북쪽 한랭건조한 공기가 충돌, 정체전선을 만들며 이날 제주와 남부지방에 비가 이어지겠다.&lt;br&gt;&lt;br&gt;이날 오후 비는 제주와 남부에서 소강상태를 보이겠으나, 충청권에 비가 내리기 시작하겠다. 12일 예상 강수량은 광주·전남·부산·울산·경남 5~40㎜, 전북·대구·경북·울릉도·독도·제주 5~20㎜, 충청 5~10㎜ 등이다.&lt;br&gt;&lt;br&gt;수요일인 13일에는 북태평양고기압 세력 확장에 따라 정체전선이 북상하면서 중부지방을 중심으로 많은 비가 내리겠다. 비는 13일 오전에 한 차례 퍼부은 뒤 소강상태를 보이다가 이날 밤 정체전선이 다시 활성화 되면서 재차 거세게 쏟아지겠다. 이때 수도권을 중심으로 시간당 30~50㎜의 집중호우가 쏟아질 것으로 보인다.&lt;br&gt;&lt;br&gt;13~14일 예상 강수량은 수도권 50~150㎜, 강원도·충남북부·충북중부·충북북부 30~100㎜, 대전·세종·충남중부·충남남부·충북남부 10~60㎜, 남부지방 5~40㎜, 제주 5∼20㎜로 예보됐다.&lt;br&gt;&lt;br&gt;이번 비는 주로 장마철에 나타나는 정체전선에 의한 비다. 뒤늦게 다시 장마가 온 것 같은 비가 내리는 것은 느슨해진 제트기류의 영향으로 분석된다. 온난화 여파로 북쪽 찬 공기를 막아주던 제트기류가 느슨해지며 한랭건조한 바람이 내려와 정체전선을 만들고 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노래방서 여성 살해한 30대, 지인 성폭행하고 전 여친 스토킹 범죄 추가돼 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/GICFSDLY45FNLCE42Z46ZXDSTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/GICFSDLY45FNLCE42Z46ZXDSTE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 00:38:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCDT3LZECGSRZNT26BJIOEOV3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 노래방에서 50대 여성을 살해하고 야산에 시신을 유기한 혐의로 1심에서 징역 30년을 선고받은 30대 남성이 지인을 성폭행하고 전 여자친구를 스토킹한 범죄도 저질러 형량이 늘었다. &lt;br&gt;&lt;br&gt;12일 법조계에 따르면 인천지법 형사13부(재판장 김기풍)는 최근 준강간과 스토킹범죄의 처벌 등에 관한 법률 위반 등 혐의로 기소된 노래방 종업원 A(33)씨에 대해 징역 3년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 1월 술에 취해 잠든 지인을 성폭행한 혐의로 기소됐다. 지난 1월 말에는 전 여자친구의 주거지 건물에 침입하고 244차례 메시지를 전송하는 등 스토킹한 혐의도 받았다. &lt;br&gt;&lt;br&gt;A씨는 피해자 접근을 금지하는 법원의 긴급응급조치 명령을 받고도 계속해 스토킹 범행을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 스토킹 범죄 등으로 재판을 받던 중 추가 범행을 저질렀다”며 “피해자와 합의하지도 못했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;A씨는 앞서 살인과 사체 유기 등 혐의로 기소돼 지난 6월 1심에서 징역 30년을 선고받았다. 현재 항소심 재판이 진행 중이다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 13일 오전 7시쯤 경기 부천시의 한 노래방에서 50대 여성 B씨를 목 졸라 살해한 혐의 등으로 기소됐다. A씨는 범행 후 B씨 시신을 자신의 차량에 실은 뒤 부천과 인천 일대를 돌아다니다 범행 다음 날인 14일 오후 6시 30분쯤 인천 서구 경서동의 한 야산에 B씨 시신을 유기한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 이 과정에서 B씨 신용카드로 120여만원을 쓰고 반지 2개와 팔찌 1개를 훔치기도 했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 4~9월에는 이혼한 전 아내의 계좌에 1원을 수십 차례 입금하면서 입출금 거래 내역에 ‘대화하자’ ‘싸우기 싫다’는 등의 메시지를 남긴 혐의로도 기소돼 징역 6개월을 선고받기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“머리에 구멍 낸다” 주차 시비 중 가스총 꺼내 위협한 남성</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/AFEFUAC74FD67O6QN7U22MGJPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/AFEFUAC74FD67O6QN7U22MGJPE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 00:00:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7A4UW7DMNFFJMS2OK6HXLCNSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권총 모양의 가스분사기로 이웃 주민을 위협하고 있는 A씨와 이를 말리고 있는 A씨의 아버지. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 주차장에서 주차 문제로 시비가 붙자 권총 모양의 가스 분사기로 이웃 주민을 위협한 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;12일 서울 양천경찰서 등에 따르면 경찰은 지난 8일 오후 서울 양천구의 한 아파트 주차장에서 이웃 주민을 호신용 삼단봉과 권총 모양의 가스분사기로 위협한 20대 남성 A씨를 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;피해 주민은 A씨의 아버지에게 주차선을 잘 지켜달라고 말하자 갑자기 A씨가 폭력적으로 변해 자신을 위협했다고 주장했다. &lt;br&gt;&lt;br&gt;피해 주민에 따르면 당시 A씨는 권총 모양의 가스 분사기를 꺼낸 후 ‘총으로 죽여버린다’ ‘머리에 구멍 내준다’ 등의 발언을 했다. &lt;br&gt;&lt;br&gt;채널A가 공개한 영상을 보면 당시 검은색 옷을 입은 A씨가 이웃 주민에게 다가가 호신용 삼단봉과 권총 모양의 가스분사기를 꺼내자 옆에 있던 A씨의 아버지가 “하지 말라고! 하지 말라고!”라며 다급하게 제지했다. &lt;br&gt;&lt;br&gt;A씨의 아버지는 “아들에게 불안 증세가 있다”며 “가스 분사기를 꺼낸 건 잘못이지만 가해자가 된 상황은 억울하다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 특수협박 혐의로 입건하고 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5K5WRZ4T6REIBHT5SKXIB7ZBVE.jpg?auth=3dace179c0b6320c0466082b2010102d80c051220ab51714e5a4f0328b922716&amp;smart=true&amp;width=1159&amp;height=652" type="image/jpeg" height="652" width="1159">
-        <media:description type="plain">권총 모양의 가스분사기로 이웃 주민을 위협하고 있는 A씨와 이를 말리고 있는 A씨의 아버지. /채널A</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>“아들이 최고? 이젠 딸바보”… 한국 ‘여아 선호’ 세계 1위 찍었다 </title>
