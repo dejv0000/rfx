@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>손흥민 딥페이크 활용한 ‘불법 카지노 앱’…경찰 수사 착수</title>
+      <link>https://www.chosun.com/national/incident/2025/08/13/VUQ4VAWTF5BZBDS3VOO6OFQIQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/13/VUQ4VAWTF5BZBDS3VOO6OFQIQA/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:28:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUCFY7KO25GJFCMHGOGCEVQKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 도박 앱 광고에 등장한 손흥민 딥페이크(인공지능 조작 영상)/유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구선수 손흥민 같은 유명인 ‘딥페이크(인공지능 조작 영상)’를 활용해 불법 도박 앱으로 유인하는 범죄가 유행하자 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 최근 강원랜드가 수사 의뢰한 불법 도박 앱 운영 일당에 대한 수사에 나섰다고 12일 밝혔다. 강원랜드는 AI를 활용해 만든 손흥민 선수와 지상파 뉴스 앵커 등을 내세워 홍보하는 가짜 강원랜드 앱을 발견하고 지난달 30일 경찰에 수사 의뢰했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, AI로 만든 가짜 손흥민 선수는 “제가 왜 강원랜드 앱을 모두에게 추천하는지 알려주겠다. 편리한 애플리케이션으로 즐길 수 있다” “모든 당첨금은 단 5분 만에 은행 계좌에 입금된다” “온라인 카지노를 즐겨보세요”라고 말하며 앱 설치를 유도한다. AI를 활용해 손 선수의 목소리와 입 모양까지 최대한 정교하게 구현했다. 앱을 내려받으면 도박 게임 참여를 위해 돈을 입금하라고 유도한다. 사실상 피싱 앱인 셈이다. 강원랜드 측은 이와 관련해 “영업장 외에 온라인 카지노는 운영하고 있지 않다”는 입장이다. 경찰 관계자는 “전담팀이 정해진 만큼 본격적인 수사에 착수할 예정”이라며 “온라인상 유포되는 가짜 영상 차단 조치도 병행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;딥페이크를 활용한 범죄는 최근 계속 늘고 있다. 작년 10월에는 제주도를 여행 중인 20대 관광객을 납치했다며 가족에게 돈을 뜯어내려는 보이스피싱 범죄에 딥페이크가 활용됐다. 온몸이 묶인 채 울면서 살려달라 애원하는 영상은 AI로 만든 가짜였지만, 가족과 경찰도 속을 만큼 정교했다. 최근에는 유명 투자 전문가의 얼굴과 목소리로 만든 딥페이크로 속인 뒤 투자금 명목으로 돈을 뺏는 온라인 사기 피해도 발생하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이념 논란 뒤 파손 ‘정율성 흉상’… 光州 남구 복원 검토  </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/AUQ3FJ5GJBGZHP6W6WWPVGEU64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/AUQ3FJ5GJBGZHP6W6WWPVGEU64/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:24:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DF2CQ3HSE5OZFHQRHBGUOW4YFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 10월 광주광역시 남구 양림동 정율성거리에 있는 정율성 흉상이 재차 훼손돼 흉상 상단부와 기단이 분리돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 남구가 이념 논란 뒤 파손된 정율성(鄭律成·1914~1976) 흉상을 복원하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;12일 광주 남구에 따르면 최근 주광주 중국총영사관으로부터 정율성 흉상을 재설치해달라는 요청을 받아 복원을 검토 중이다. 광주 출신의 정율성은 일제강점기 중국으로 건너가 중국 공산당에 가입한 뒤 북한군 장교로 활동했다. 그는 북한의 조선인민군 행진곡도 작곡했다.&lt;br&gt;&lt;br&gt;2023년 8월 박민식 당시 보훈부장관이 “북한 인민군과 중공군의 사기를 북돋운 팔로군 행진곡과 조선인민군 행진곡 등을 작곡했을 뿐 아니라 직접 남침에 참여해 우리 체제를 위협하는 데 앞장선 인물”이라고 평가하면서 이념 논란이 불거졌다.&lt;br&gt;&lt;br&gt;정율성 흉상은 남광주청년회의소가 중국 해주구 인민정부로부터 기증받은 흉상을 다시 남구에 기증하면서 2009년 7월 광주 남구 양림동 정율성로 위치에 세워졌다. 이후 2023년 사랑제일교회 특임전도사 A씨에 의해 훼손된 뒤 남구가 보관하고 있다.&lt;br&gt;&lt;br&gt;광주 남구는 중국과 외교적 관계를 고려해 복원 검토가 필요하다는 입장이다. 광주 남구 관계자는 “중국총영사관 측에서 정율성 흉상이 훼손된 채 남아 있으면 남구를 찾은 중국 관광객의 반발이 우려된다는 취지를 전해 복원 검토를 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김여사 측근 입국 “불법에 연루 안돼, 특검 협조”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/13/HOELXVU4BZAIRCRZAOIMRJGMK4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/HOELXVU4BZAIRCRZAOIMRJGMK4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:21:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNJWQKFIKVKAVGT2N72PIPVHL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 '집사'로 알려진 김예성 씨가 12일 인천국제공항을 통해 입국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀이 12일 김 여사의 ‘집사’로 지목된 김예성 씨를 체포했다. 김 씨는 이날 인천국제공항을 통해 입국하면서 “불법적이거나 부정한 일에 연루된 바 없다”며 “특검에 최대한 협조하고 성실히 조사 받겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 이날 오후 6시 15분쯤 인천국제공항에서 김 씨를 체포하고 업무상 배임 등 혐의로 체포해 광화문 사무실로 압송했다. 체포영장은 김 씨가 탑승한 항공편이 공항에 착륙한 직후 집행된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 씨는 특검 관계자들과 함께 입국장을 나오면서 취재진에게 “특검 수사에 최대한 협조하겠다”고 말했다. 다만 ‘김 여사와 경제공동체 관계를 인정하느냐’ ‘김 여사와 인연이 2018년부터 끊겼다고 했는데 따로 접촉한 사실은 없느냐’ ‘김 여사와의 친분을 이용해 투자 받은 사실이 없느냐’ 등 취재진 질문에는 답변하지 않았다.&lt;br&gt;&lt;br&gt;앞서 김 씨는 귀국을 앞두고 동아일보·KBS 등과 진행한 베트남 현지 인터뷰에서 자신을 향한 ‘김 여사 일가의 집사’란 지칭과 각종 의혹들을 부인했다.&lt;br&gt;&lt;br&gt;김 씨는 먼저 자신이 김 여사의 최측근으로 분류되는 것에 대해 “(김 여사와는) 2018년 이후 왕래가 없었다”고 했다. 김 씨는 김 여사의 모친인 최은순 씨의 잔고증명서를 대신 위조해준 혐의로 2021년 12월 징역 6개월 집행유예 2년을 선고 받는 등 김 여사 일가와 가까운 사이로 알려져 있지만, 사실이 아니라는 것이다. 김 씨에 따르면, 잔고증명서 위조 사건이 세간에 알려진 2018년 김 여사가 김 씨에게 전화로 역정을 냈고, 그 이후로 관계가 소원해졌다고 한다. 그는 또 윤 전 대통령이 대통령에 당선된 이후에도 교류 자체가 미미했다고 했다.&lt;br&gt;&lt;br&gt;김 씨는 김 여사와의 친분을 내세워 IMS모빌리티에 184억원 규모 대기업 투자를 유치하고, 지난 2023년 IMS모빌리티 지분을 매각해 벌어들인 46억원을 김 여사와 공유했다는 의혹에 대해서도 부인했다. IMS모빌리티는 김 씨가 설립에 관여한 렌터카 업체다. &lt;br&gt;&lt;br&gt;그는 “당시 저는 회사를 나온 상태라 어떤 기업이 투자를 논의하고 있는지 알지 못했다”며 “기업들이 인기 없는 정권에 줄을 대겠다고 보험성 투자를 한다는 것도 이해가 가지 않는다”고 했다. 46억원의 행방에 대해서는 “46억원 중 약 7억 원은 세금으로 냈고, 35억3000만원 가량은 조영탁 IMS모빌리티 대표에게 빌려줬다”고 덧붙였다. 이와 관련해 김 씨는 당시 대통령실 공직기강비서관실 조사도 받았다고 했다.&lt;br&gt;&lt;br&gt;김 씨는 도피성 출국 의혹도 부인했다. 그는 윤 전 대통령이 탄핵된 지난 4월 베트남으로 출국해 도피 의혹이 제기됐다. 그러나 김 씨는 “‘12·3 비상계엄’ 전부터 사업을 위해 베트남 이민을 계획했다”고 말했다. 또 특검이 자신과 연락이 닿지 않아 체포영장을 청구한 것이란 주장에 대해서는 “(특검 측으로부터) 연락 한 통 온 적 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백령도 레미콘 공장 슬러지 불법 배출 고발장…경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2025/08/13/3IZ4NX2GLFH6DB4CMEKE6KQUNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/13/3IZ4NX2GLFH6DB4CMEKE6KQUNA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:31:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXHHJ2BYFKEWN2YLUHZFQH5SOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 인천 백령도에서 레미콘·아스콘 생산 업체가 원자재 가루 등 슬러지(찌꺼기)를 외부로 불법 배출했다는 고소장이 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 물환경보전법과 폐기물관리법 위반 등 혐의로 인천 백령도의 레미콘·아스콘 생산 업체 대표 A씨를 불구속 입건했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;백령도 주민 35명이 검찰에 고발장을 접수했고, 경찰이 사건을 넘겨받은 상태다. &lt;br&gt;&lt;br&gt;주민들은 고발장에서 “이 업체가 2001년 12월부터 레미콘 생산과정에서 발생한 슬러지를 백령면 가을리의 인근 하천에 불법 방류했다”고 주장했다. &lt;br&gt;&lt;br&gt;경찰은 조만간 고발인인 주민들과 피고발인인 A씨를 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;관련 민원을 접수한 옹진군은 현장 확인 후 최근 물환경보전법 위반으로 해당 업체에 과징금 1070여만원을 부과했다. &lt;br&gt;&lt;br&gt;옹진군은 해당 업체 공장 내 골재나 시멘트 등 자재 관리가 제대로 되지 않아, 쌓여있던 분진 등이 비가 내렸을 때 인근 하천으로 쓸려 내려가는 일이 반복된 것으로 보고 있다. &lt;br&gt;&lt;br&gt;옹진군 관계자는 “장비가 들어갈 수 있는 지역은 오염물질을 걷어낸 상태고, 농사 등을 이유로 들어갈 수 없는 곳은 추수 후 (오염물질을) 치우기로 했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사 최후진술서 “결혼 전 문제까지 거론돼 속상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/13/BO46VXGT5JBQHCU5SXDIFSAQ54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/BO46VXGT5JBQHCU5SXDIFSAQ54/</guid>
+      <dc:creator>이민경 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 08:50:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBOEC6U2FSD2UAXBALWPHKFBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 영장실질심사를 마치고 나오고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사가 12일 자신의 구속 여부를 결정할 영장실질심사에서 “결혼 전 문제들까지 계속 거론되고 있어 속상하다”는 입장을 밝힌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 이날 서울중앙지법 321호에서 정재욱 영장 전담 부장판사 심리로 열린 영장 심사에서 최후진술을 통해 윤석열 전 대통령과 결혼 전 개인사가 공개된 것에 대한 속상함을 토로한 것으로 전해졌다. 김 여사는 “판사님께서 잘 판단해 주십사 부탁드린다”며 최후 진술에서 20~30초 가량 짧은 입장을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;김 여사가 최후 진술에서 언급한 ‘결혼 전 문제’는 ‘도이치모터스 주가조작 의혹’ 사건으로 풀이된다. 김 여사는 도이치모터스 주가조작 사건에 돈을 대는 ‘전주(錢主)’로 가담한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;특검은 김 여사 구속영장 청구서에 김 여사가 총 36억원 상당의 증권 계좌를 제공하는 방식으로 권오수 전 도이치모터스 회장 등 주가조작 세력의 범행에 가담했다고 적시한 바 있다. 그러면서 김 여사가 2010년 10월부터 2012년 12월까지 고가·허수 매수 등 3832차례 통정 거래와 이상 거래를 통해 8억1144만3596원의 수익을 얻었다고 봤다. 김 여사가 윤 전 대통령과 결혼한 시기는 2012년 3월이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YF5O7INTUWQ4LRLNF7IBMHFI7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사의 영장실질심사는 이날 약 4시간 25분간 이뤄졌다. 특검은 두 차례에 걸쳐 법원에 제출한 848쪽 분량의 의견서에 김 여사가 증거인멸을 할 우려가 크다는 점을 강조한 것으로 전해졌다. 이에 김 여사 측 변호인은 김 여사가 그간 특검 조사에 성실히 임했고 도주할 이유가 없다는 점, 건강상 문제 등을 언급한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 여사의 구속 여부는 이르면 이날 늦은 오후 또는 다음날 새벽에 나올 전망이다. 김 여사는 서울 구로구에 위치한 서울남부구치소에서 대기하며 결과를 기다리고 있다. 구속 여부가 결정되기 전까지는 독거실이 아닌 구인 피의자 대기실에 머무른다. 인적사항을 확인한 뒤 휴대전화 등 소지품을 반납하고, 출석 당시 입었던 옷차림 그대로 대기하게 된다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>감형 노린 ‘기습 공탁’ 막는다… 대법원 양형위,  양형기준 고친다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/13/CG6A6FKPAJCIJHDUARJTFXB7ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/CG6A6FKPAJCIJHDUARJTFXB7ZU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:21:49 +0000</pubDate>
+      <content:encoded>대법원 양형위원회가 이른바 ‘기습 공탁’을 막기 위해 공탁 관련 양형 기준을 손보기로 했다. 10년 넘게 제자리였던 증권·금융 범죄 양형 기준도 시대적 변화에 맞춰 새롭게 검토한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RINEY6MNCBMYVE566A266XAZ54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울 서초구 대법원에서 열린 제140차 양형위원회 전체회의에서 이동원 위원장이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 양형위는 전날 140차 전체 회의를 열고 ‘피해 회복 관련 양형인자 정비에 따른 양형기준 수정안’과 ‘증권·금융범죄 양형기준 수정안’을 심의했다.&lt;br&gt;&lt;br&gt;우선 양형위는 전체 범죄군의 양형인자 명칭에서 ‘공탁 포함’이라는 문구를 모두 삭제하기로 했다. 공탁은 피해자가 나중에 수령할 수 있도록 법원에 돈을 맡기는 제도인데, 피해자 의사와 무관하게 감형만 노리는 ‘기습 공탁’ 사례가 적지 않아 비판이 제기돼 왔다.&lt;br&gt;&lt;br&gt;양형위는 “마치 공탁만 하면 당연히 감경이 되는 것처럼 오인할 우려를 불식하고자 한다”면서 “기습 공탁을 방지하고 형사소송법의 취지에 맞게 공탁이 실질적 피해 회복에 해당하는지 더 신중히 판단하도록 하기 위한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 따라 ‘실질적 피해 회복’의 정의도 구체화된다. 공탁에 대해서는 피해자 또는 법정 대리인의 의견, 피고인의 공탁금 회수 가능성 및 의사, 피해 법익의 성질과 피해 규모·정도 등을 신중하게 검토해 ‘실질적 피해 회복’이 이뤄졌는지 판단하기로 했다.&lt;br&gt;&lt;br&gt;또 피해자가 국가로부터 범죄피해구조금을 받았더라도 원칙적으로 실질적 피해 회복에 해당하지 않는다는 점을 명문화한다. 구조 대상 범죄를 당한 피해자도 같은 원칙을 적용한다. &lt;br&gt;&lt;br&gt;앙형위는 2012년 설정된 이후 한 차례도 바뀌지 않은 증권·금융 범죄 양형 기준도 시대적 흐름과 범죄 양상의 변화에 따라 전면 재검토한다. 자본시장법과 외부감사법 개정으로 확대된 구성 요건을 반영해 ‘허위 재무제표 작성·공시 및 감사보고서 허위기재’, ‘회계 정보 위·변조 및 감사조서 위·변조’를 양형 기준 설정 대상 범죄에 포함하기로 했다.&lt;br&gt;&lt;br&gt;양형위는 향후 회의를 거쳐 증권·금융 범죄에 대한 권고 형량 범위와 양형인자, 공탁금 등 피해 회복 관련 양형 기준을 내년 3월 최종 의결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“동전만 한데 쏘이면 피부염”... 여름바다, 소형 해파리 비상</title>
+      <link>https://www.chosun.com/national/2025/08/13/U4DHC7JLEZBYJBDMH6CFOMBP5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/13/U4DHC7JLEZBYJBDMH6CFOMBP5E/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:04:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVMEZVJDZOVK7VPKTDMQQ64VBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸른우산관해파리. /국립수산과학원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아열대성 소형 해파리인 ‘푸른우산관해파리’가 남해안에 이어 경북 동해안으로 확산하고 있다. &lt;br&gt;&lt;br&gt;12일 경북도소방본부에 따르면 지름 2∼3㎝ 동전만 한 푸른우산관해파리가 7월 중순 제주해역에서 처음 관측된 이후 전남, 경남, 경북 등 남해안과 동해안 일대에서 대량으로 출현하고 있다.&lt;br&gt;&lt;br&gt;이 해파리는 2021년 제주 인근에서 대량 발생한 전례가 있지만 올해처럼 남해안과 동해안을 중심으로 동시 확산한 사례는 처음이다. &lt;br&gt;&lt;br&gt;푸른우산관해파리는 접촉시 알레르기 반응이나 피부염을 일으키는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방본부는 피서객들이 바다에 들어갈 때 전신 수영복을 착용하는 등 가급적 피부 노출을 최소화하거나 호기심이라도 해파리를 절대 만지지 않아야 한다고 설명했다.&lt;br&gt;&lt;br&gt;해파리에 쏘였을 때는 바닷물이나 식염수로 쏘인 부위를 헹구고 남아있는 촉수는 신용카드 등을 이용해 긁어서 제거한 후 상처 부위를 냉찜질로 진정시켜야 한다. 수돗물이나 알코올로 세척하지 말고, 쏘인 부위를 문지르거나 압박하면 안 된다.&lt;br&gt;&lt;br&gt;지난 3년간 경북 동해안에서 해파리 쏘임 인명피해 사고는 40건이 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;박성열 경북도소방본부장은 “동해안에 해파리가 급격히 증가하고 있는 만큼 해파리 쏘임 사고에 각별한 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정치자금법 위반’ 前 창원시장·부시장 나란히 기소 </title>
+      <link>https://www.chosun.com/national/2025/08/13/PTPYKP6DWFFITLQC3JTA2AJBYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/13/PTPYKP6DWFFITLQC3JTA2AJBYY/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:13:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DA3H23FKOQS6I6DYS2G6KADVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍남표 전 창원시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2022년 6·1 지방선거를 앞두고 수억원대 불법 정치자금을 조성한 혐의를 받는 홍남표 전 경남 창원시장과 조명래 전 창원시 제2부시장이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;창원지검은 홍 전 시장과 조 전 부시장, 선거캠프 관계자 A, B씨를 각각 정치자금법 위반 혐의로 기소했다고 12일 밝혔다. 또 이들에게 선거 자금 명목으로 정치자금을 기부한 C씨 등 12명을 같은 혐의로 약식 기소했다.&lt;br&gt;&lt;br&gt;홍 전 시장과 조 전 부시장은 지난 2022년 6·1 지방선거를 앞두고 A·B씨와 공모해 12명에게서 선거 자금 명목으로 총 3억 5300만원의 불법 정치자금을 기부받은 혐의를 받는다. &lt;br&gt;&lt;br&gt;검찰은 비슷한 시기 A씨가 홍 전 시장의 선거를 위한 사무실 운영비와 활동비 명목으로 4200만원을 대신 지출한 것으로 판단하고 혐의를 더했다. 이를 기부받은 홍 전 시장 역시 정치자금법 위반 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4H6XE3UD26UXAO2K6OPHVMLS7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조명래 전 창원제2부시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰은 또 A씨가 조 전 부시장의 국회의원 선거운동을 위한 사조직의 사무실 보증금과 월세 등 2956만원을 대납한 것 역시 정치자금법을 위반했다고 판단했다. A씨가 조 전 부시장의 개인 오피스텔 비용 1037만원을 자비로 내고, 조 전 부시장이 이를 제공받은 것은 청탁금지법을 위반한 것으로 함께 기소했다. 홍 전 부시장과 조 전 부시장은 이 같은 혐의 내용 대부분을 부인하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편, 홍 전 시장은 2022년 6·1지방선거 당내 경선 과정에서 출마 예정자에게 공직을 대가로 불출마를 제안한 혐의로 기소돼 지난 4월 3일 대법원에서 징역 6월에 집행유예 1년의 당선무효형을 확정받고 직에서 물러났다. 조 전 부시장은 지난달 말 임기 만료로 3년의 임기를 마치고 퇴임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 지방공기업부채 70조원 육박...전년 대비 6.6% 늘어</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/2KIJ5F5LING7NG5WXS6H2PCN4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/2KIJ5F5LING7NG5WXS6H2PCN4M/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 09:02:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGNF23G6BG6VUBHUEX23MADHQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부 청사 전경. /뉴스1.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 지방공기업들의 부채가 4조원 넘게 늘어 70조원에 육박한 것으로 나타났다. 당기 순손실도 전년 대비 598억원 증가했다. &lt;br&gt;&lt;br&gt;행정안전부(행안부)는 전국 253개 직영기업과 77개 지방공사, 88개 공단 등 총 418개 지방공기업의 2024년 결산 분석 결과를 12일 발표했다. 행안부에 따르면 작년 지방 공기업의 자산은 247조1000억원으로 전년 대비 3.4%(8조2000억원) 증가했다. &lt;br&gt;&lt;br&gt;부채는 69조8000억원으로 6.6%(4조3000억원) 증가했다. 이에 부채 비율은 전년 37.8%에서 39.3%로 상승했다.&lt;br&gt;&lt;br&gt;당기순손실은 2조6216억원으로 전년보다 598억원(2.3%) 늘었다. 행안부 관계자는 “상·하수도 등 직영 기업과 도시철도공사의 원가 대비 낮은 요금이 주요 원인”이라고 했다.&lt;br&gt;&lt;br&gt;상·하수도 기업 자산은 101조6000억원으로 4조원 증가했으며, 자본도 96조4000억원으로 4조4000억원 늘었다. 작년 낮은 요금 현실화율로 당기순손실은 1조639억원 증가했다.&lt;br&gt;&lt;br&gt;반면 공영개발 기업의 당기순손실은 186억원으로 전년 대비 1195억원(86.5%) 줄었다. 택지와 공단 용지 판매로 이익이 늘어난 영향이다.&lt;br&gt;&lt;br&gt;6개 도시철도공사의 부채는 10조3000억원으로 전년보다 6.2%(6000억원) 증가했다. 요금 현실화율은 45.9%에 그쳤으며, 무임 수송 손실이 지속돼 1조2453억원의 당기순손실이 발생했다. 다만 순손실 규모는 전년 대비 1.3%(169억원) 감소했다.&lt;br&gt;&lt;br&gt;16개 광역도시공사의 부채는 3조7000억원 증가한 48조7000억원이며, 당기순이익은 8091억원을 기록했다. 부채 증가는 수도권 도시개발공사의 차입금 증가(3조1900억원)가 주요 원인이라고 행안부는 설명했다.&lt;br&gt;&lt;br&gt;행안부는 최근 3년간 결산 자료를 기초로 다양한 재무지표를 평가해 총 105개의 부채 중점 관리 기관을 지정했다. 이는 전년 108개와 비교해 3개 감소한 것이다. 이 중 재무 위험이 큰 기관 24개는 집중 관리를 위해 부채 감축 대상 기관으로 지정했다.&lt;br&gt;&lt;br&gt;행안부는 부채 중점 관리 기관으로 지정된 105개 기관에 대해 부채 감축 방안, 수익성 개선 방안 등 5년간의 재무 부채 관리 계획을 수립·공시하도록 할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김용현 측, ‘내란 특검법’ 위헌법률심판제청 신청…“방어권 침해”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/13/JPSWZ4YLPFF5BIOGSSJZGOJKSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/JPSWZ4YLPFF5BIOGSSJZGOJKSU/</guid>
@@ -888,89 +969,6 @@
       <description/>
       <pubDate>Mon, 11 Aug 2025 08:15:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GIFNFZLKREQ7FRXAQV6DLNDKU.png"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 친딸을 성폭행해 임신까지 시킨 50대 아버지가 구속 상태로 재판에 넘겨졌다. 이 남성은 딸이 미성년자였을 때부터 상습적으로 범행을 저질러왔다.&lt;br&gt;&lt;br&gt;수원지검 여주지청 형사부(부장 정우석)는 성폭력범죄의 처벌 등에 관한 특례법 위반(친족 관계에 의한 강간) 혐의로 A(50대)씨를 구속 기소했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2021년 7월과 올해 3월 두 차례에 걸쳐 자신의 친딸 B씨를 경기 여주시 주거지 등에서 강간한 혐의를 받는다. &lt;br&gt;&lt;br&gt;임신 상태였던 B씨는 검사를 받기 위해 이천의 한 병원을 찾았고 “아버지로부터 피해를 입었다”는 취지의 이야기를 했다. 이를 들은 병원 측은 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사 과정에서 범행을 자백했다. 그는 B씨가 미성년자였던 때부터 상습적으로 범행을 저질렀던 것으로 파악됐다. 2021년 범행 당시에도 B씨는 미성년자였다. &lt;br&gt;&lt;br&gt;이후 경찰은 A씨와 태아의 DNA 검사 등을 통해 친자 관계임을 확인했고 지난 7월 10일쯤 검찰에 송치했다. &lt;br&gt;&lt;br&gt;B씨는 그동안의 피해 상황을 주변에 알리기 어려운 가정환경에 놓여 있었던 것으로 알려졌다. 경찰은 조사 후 관할 지자체와 피해자 지원 단체 등을 연계, B씨에 대한 심리 치료 등을 지원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>원주 아카데미 극장 철거 방해 시민단체 24명 전원 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/RT34LTEAPBCMLG3A3FJLYL4VKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/RT34LTEAPBCMLG3A3FJLYL4VKU/</guid>
-      <dc:creator>원주=정성원 기자</dc:creator>
-      <description>강원 원주시 옛 아카데미극장 철거를 방해한 혐의로 기소된 시민단체 회원 24명에게 무죄가 선고됐다.
-춘천지법 원주지원 형사2단독 박현진 부장판사는 업무방해 등 혐의로 기소된 시민사회단체 ‘아카데미의 친구들’ 회원 A씨 등 24명에게 무죄를 선고했다고 11일 밝혔다.
-</description>
-      <pubDate>Mon, 11 Aug 2025 08:05:24 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH4MKO4A4LALI5ZQKCSYFTYBTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 원주시 옛 아카데미극장 철거를 방해한 혐의로 기소된 시민단체 회원 24명에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 업무방해 등 혐의로 기소된 시민사회단체 ‘아카데미의 친구들’ 회원 A씨 등 24명에게 무죄를 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2023년 8월부터 10월까지 원주시가 철거를 결정한 원주 평원동 옛 아카데미극장에서 집회와 농성을 하는 등 철거 업무를 방해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;아카데미극장은 1963년 원주시 평원동에 문을 단관 극장이다. 2006년까지 43년 동안 운영됐다. 원주시는 건물 노후화에 따른 건물 붕괴 위험 등을 이유로 건물 철거를 추진했다. 이 과정에서 A씨 등은 원주 문화의 상징적인 곳이라며 극장 철거를 반대했고 극장 내부 무단 점거와 농성 등을 벌였다.&lt;br&gt;&lt;br&gt;앞서 검찰은 당시 집회로 철거업체들이 제대로 된 작업을 벌이지 못해 피해를 입었다며 24명 중 7명에게 징역 6개월~2년을, 나머지에겐 벌금 200만~500만원을 각각 구형했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “원주시의 극장 철거 당시 충돌 행위에 대한 책임이 전적으로 시민사회단체에 있다고 볼 수 없을 뿐더러 집회 과정에서 폭력과 욕설 등을 한 사실도 없다”면서 “점거 역시 철거를 막기 위한 실용적인 수단일 뿐 평화적이었고 철거 업체가 금전적인 피해를 입지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “유권무죄, 내편무죄... 재판은 왜 하나”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/12/GCX7J4IGUBH35OBON4CKUNZNSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/GCX7J4IGUBH35OBON4CKUNZNSY/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 07:44:16 +0000</pubDate>
-      <content:encoded>오세훈 서울시장은 11일 이재명 정부 출범 후 첫 특별사면 대상에 조국 전 조국혁신당 대표 등이 포함된 것에 대해 “유권무죄, 내편무죄”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 사면 대상 발표 직후 페이스북에 올린 글에서 “형사법은 왜 존재하는가?”라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYSNQKFUW377PQZ76NYM43XZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 “수사는, 기소는, 재판은 왜 하는가?”라며 “국민의 절반이 수사·기소·재판에 냉소적이 되면 나라의 질서는 어떻게 유지하는가?”라고도 했다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 임시 국무회의에서 조국 전 대표, 윤미향 전 더불어민주당 의원 등이 포함된 8·15 특별사면안을 의결했다. &lt;br&gt;&lt;br&gt;또 조 전 대표 부인 정경심씨, 민주당 내 친문 진영에 속한 윤건영 의원과 백원우 전 의원, 전교조 해직 교사를 부당 채용한 혐의로 유죄가 확정됐던 조희연 전 서울시교육감 등이 특별사면 명단에 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화장 ‘지방 원정’ 사라지나... 서울추모공원 화장로 11기→15기로 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/12/ZWYIWWDFWRFVTCB7UKJOPQWDAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/ZWYIWWDFWRFVTCB7UKJOPQWDAM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 07:09:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZB47R7TGBJM7DE443AODUON2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 11일 서울 서초구 서울추모공원을 방문해 화장로 4기 증설 현장을 둘러보며 화장로 AMR(자율주행로봇) 시연을 보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구 원지동에 있는 화장장인 서울추모공원의 화장로가 11기에서 15기로 4기 증설돼 운영될 예정이다. 또 다른 서울의 화장장인 서울시립승화원까지 포함하면 앞으로 서울에서는 하루 207건의 화장이 가능해질 전망이다.&lt;br&gt;&lt;br&gt;11일 서울시는 서울추모공원 화장로 증설 공사를 마무리하고 오는 18일부터 가동에 들어간다고 밝혔다. 이번 증설로 서울추모공원의 하루 화장 가능 건수는 59건에서 85건으로 늘어난다.&lt;br&gt;&lt;br&gt;서울시설공단에서 운영하고 있는 경기 고양시 덕양구 서울시립승화원에서 현재 하루 처리 가능한 화장장 건수는 112건 수준이다. 서울추모공원의 증설 화장로 규모까지 포함하면 앞으로 서울에선 하루 평균 207건의 화장이 처리 가능하다.&lt;br&gt;&lt;br&gt;앞서 서울시는 코로나 기간 화장장 수요가 폭증하면서 화장을 위해 지방까지 원정 가는 이른바 ‘화장 대란’이 벌어지자 화장로 증설 계획을 세우고 지난해 9월 서울추모공원에 해당 공사를 시작했다.&lt;br&gt;&lt;br&gt;화장장은 대표적인 기피 시설이다. 그러나 이번 화장로 증설 때는 2008년 서울추모공원을 조성 당시 남겨놨던 유휴 부지를 활용하면서 갈등을 최소화할 수 있었다. 서울시는 “인근 주민의 큰 반발 없이 순조롭게 증설 공사가 마무리됐다”고 했다.&lt;br&gt;&lt;br&gt;비용도 아꼈다. 부지 매입 등 추가 비용이 발생하지 않아 화장로 1기 공사에 18억원가량, 총 72억원이 투입됐다. 신규 화장장 건립 비용(1기당 224억원)과 비교하면 12분의 1 수준이다. 주민 협의 기간도 최소화할 수 있었고, 설계와 시공을 병행하는 패스트트랙 방식을 적용해 공사 기간을 5개월 앞당겼다&lt;br&gt;&lt;br&gt;서울시는 또 화장 후 수골실로 이동하는 과정에 자율주행로봇(AMR)을 도입하기로 했다. 지금은 정해진 노선에 따라서만 움직이는 자동 유골 운반차 7대를 이용하고 있는데, 대신 인공지능(AI) 기능을 탑재한 로봇 5대를 투입해 처리 속도를 높이겠다는 것이다. 서울시 관계자는 “AMR은 일부 식당에서 선보이는 ‘서빙 로봇’처럼 자율주행 기능을 탑재한 로봇으로 장애물을 인식하고 스스로 동선을 짜 움직임의 효율성을 극대화했다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 서울시립승화원 구형 화장로 23기 교체 작업도 추진 중이다. 이 작업이 끝나면 서울시 내 하루 화장 가능 수량은 최대 249건까지 늘어난다. 2040년 예상 화장 수요는 하루 평균 227건이다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 이날 서울추모공원을 방문해 신규 화장로와 유족 대기실, 공영 장례실, 산골 시설 등을 점검했다. 오 시장은 “(화장 수요는) 인구 분포를 보면 예측 가능해 미래를 내다본 투자를 미리 해야 한다”며 “2040년 정도까지 화장 수요 증가에 충분히 대응할 수 있는 정도의 화장로가 확보됐고, 10년 뒤부터는 2060년을 보는 준비에 착수할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 조국 부부·윤미향·조희연 사면... 광복절 2188명 특별사면</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/S4RXYVSSIVCIHM5PJVSFEN6NIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/S4RXYVSSIVCIHM5PJVSFEN6NIA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 07:01:05 +0000</pubDate>
-      <content:encoded>정부는 광복절 80주년을 맞아 조국 전 조국혁신당 대표와 아내 정경심씨를 특별사면한다고 11일 밝혔다. 이재명 정부 출범 두 달 만에 진행되는 첫 특사에는 조희연 전 서울시 교육감을 비롯해 윤미향 전 의원, 윤건영 더불어민주당 의원 등 여권 인사가 대거 포함됐다.&lt;br&gt;&lt;br&gt;이번 사면 대상자는 전직 공직자 및 정치인 27명, 경제인 16명, 특별 배려 수형자 10명, 일반 형사범 1922명으로 나타났다. 이번 사면은 오는 15일 효력이 발생한다. 정부는 또 여객·화물 운송업, 생계형 어업, 운전면허 등 행정 제재 대상자 총 83만4499명에 대한 특별감면 조치를 실시하고, 모범수 1014명을 14일자로 가석방하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPYIAZ535ZHRPHJSHPJJOAURIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국(왼쪽) 전 조국혁신당 대표와 윤미향 전 의원./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 전 대표는 자녀 입시비리 사건으로 징역 2년형을 확정받고 지난해 12월부터 복역 중이다. 이날까지 전체 형기의 32%가량만 살았다. 이번 특사에서 사면·복권됐다. 아내 정씨는 같은 사건으로 징역 4년을 선고 받은 뒤 복역하다 2023년 9월 가석방으로 풀려났다. 조 전 대표와 함께 지난해 12월 위계에 의한 공무집행 방해 혐의로 징역형 집행유예가 확정돼 집행유예 기간 중인데, 이번 특사로 형선고가 실효되고, 복권됐다. 조 전 대표 아들에게 허위 인턴 확인서를 써준 혐의로 작년 12월 대법원에서 징역 8개월에 집행유예 2년이 확정된 최 전 의원도 사면됐다. 또 조 전 대표의 딸 조민씨에게 장학금을 건넨 혐의로 벌금 1000만원형이 확정된 노환중 전 부산의료원장도 이번 복권 대상에 포함됐다.&lt;br&gt;&lt;br&gt;일본군 위안부를 위해 모은 후원금 7957만원을 횡령한 혐의 등으로 징역 1년 6개월에 집행유예 3년이 확정된 윤미향 전 의원도 사면됐다. 검찰은 2020년 9월 윤 전 의원을 기소했지만, 판결 확정까지는 4년 2개월이 걸리면서 윤 전 의원은 국회의원 임기를 정상적으로 마쳤다. 정치권과 법조계에선 광복절을 앞두고 이뤄진 사면 대상에 윤 전 의원이 포함된 것은 부적절하다는 지적이 나오고 있다.&lt;br&gt;&lt;br&gt;전국교직원노동조합 해직 교사 특혜 채용 의혹으로 징역 1년 6개월에 집행유예 2년이 확정된 조희연 전 서울시 교육감도 이번 특사로 사면됐다. 지난해 8월 대법원에서 형이 확정돼 교육감직을 잃은지 1년 만이다. 문재인 전 대통령의 측근인 윤건영 더불어민주당 의원은 2011년 노무현재단 부설 한국미래발전연구원(미래연) 기획실장 시절, 회계 담당 직원을 백원우 당시 국회의원실 인턴으로 허위 등록시켜 5개월치 급여 545만원을 받게 한 혐의(사기)로 기소돼 지난 6월 대법원에서 벌금 500만원형이 확정됐는데, 2개월 만에 사면되는 것이다. 이 밖에도 ‘환경부 블랙리스트’ 의혹으로 유죄가 확정된 문재인 정부의 김은경 전 환경부 장관, 신미숙 전 청와대 균형인사비서관도 사면·복권된다. 이용구 전 법무차관과 은수미 전 성남시장, 황희석 전 법무부 인권국장도 복권됐다.&lt;br&gt;&lt;br&gt;한편 이번 특사 대상엔 야권에서 뇌물‧횡령 혐의로 중형을 선고받았던 정찬민·홍문종·심학봉 전 의원이 사면됐다. 정 전 의원은 용인시장 시절 부동산 개발업자에게 인허가 편의를 제공하고 제3자를 통해 뇌물을 챙긴 혐의로 2023년 8월 징역 7년이 확정돼 의원직을 상실했다. 홍 전 의원은 한나라당 의원이던 2012년 사학재단 이사장과 대학 총장으로 재직하면서 교비 75억원을 횡령·배임한 혐의 등으로 2022년 12월 징역 4년 6개월형 확정돼 의원직을 잃었다. 심 전 의원은 2013년 12월 한 경북 제조업체를 정부 지원 사업 대상자로 선정한 대가성 뇌물을 받은 혐의로 2017년 3월 대법원에서 징역 4년 3개월형이 확정됐다. &lt;br&gt;&lt;br&gt;이들 세 명은 송언석 국민의힘 비상대책위원장이 지난 4일 국회 본회의 도중 강훈식 대통령비서실장에게 야권 인사들에 대한 광복절 특별사면 및 복권을 요청하는 문자를 보냈을 때 포함된 인물들이다.&lt;br&gt;&lt;br&gt;경제계에서는 2200억대 횡령·배임 등 혐의로 지난 5월 대법원에서 징역 2년 6개월형이 확정된 최신원 전 SK네트웍스 회장이 사면·복권됐고, 2017년 ‘박근혜 정부 국정농단’ 사태에 연루된 전 삼성전자 미래전략실 최지성 전 실장과 장충기 전 차장은 복권됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“노상원과 자주 연락한 사람은...” 내란 특검 ‘제3자’ 특정 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/F2PURBUO4VB6XETS26UPB5IXDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/F2PURBUO4VB6XETS26UPB5IXDE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 06:16:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJSWAZIIQ5N7GEVDVDDZHTGXLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특검팀의 박지영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 11일 노상원 전 사령관과 비상계엄 준비 시기에 집중적으로 통화한 ‘제3자’를 특정했다고 밝혔다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 노 전 사령관을 이날 참고인 신분으로 다시 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서 “(제3자에 대한) 구체적인 혐의나 신분, 관여 정도에 대해서는 현 단계에서 확인이 어렵다”면서 이같이 말했다.&lt;br&gt;&lt;br&gt;특검은 계엄 준비 시기에 노 전 사령관과 집중적으로 통화한 인물에게 노 전 사령관의 내란 가담 행위에 대한 방조 혐의를 적용할 수 있다고 보고 있다. 이와 관련해 특검은 최근 육사 출신 예비역 장성을 소환해 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 노 전 사령관을 윤석열 전 대통령의 외환 의혹을 입증할 핵심 인물로 보고 있다. 그의 수첩에 ‘NLL(북방한계선)에서 적의 공격 유도’ ‘北 접촉 방법-무엇을 내어줄 것인가’ 등의 문구가 적혀 있었기 때문이다.&lt;br&gt;&lt;br&gt;한편 특검은 국회의 계엄 해제 의결 과정에서 국민의힘 지도부가 방해한 정황이 있는지에 대해서도 수사 중이다. 박 특검보는 “특검의 참고인 조사 협조 요청에 조경태 국민의힘 의원이 금일 오전 8시에 직접 출석해 12시까지 조사를 마치고 귀가했고, 김예지 국민의힘 의원도 금일 오후 2시에 직접 출석해 현재 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;이날 조 의원은 특검 조사를 마친 직후 기자들과 만나, 계엄 해제 의결 전 추경호 당시 원내대표와 한덕수 전 국무총리가 7분 이상 통화한 사실이 새롭게 나타났다고 말했다. 한 전 총리는 추 전 대표와의 통화에서 계엄 선포 전 국무위원들이 계엄 반대에 대한 의견을 표명했으나, 윤 전 대통령은 결국 계엄을 강행했다고 전했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 ‘김건희 측근’ 이종호 전 대표 구속 후 첫 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/F6LSZ37QDFBA3FRVWZMSUXWNZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/F6LSZ37QDFBA3FRVWZMSUXWNZI/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 05:50:20 +0000</pubDate>
-      <content:encoded>김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사 최측근으로 알려진 이종호 전 블랙펄인베스트 대표를 구속 후 처음으로 소환했다. 이 전 대표는 김 여사의 계좌를 관리한 인물이자 김 여사에 관한 여러 의혹을 입증할 ‘키맨’으로 꼽힌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCUGBXW5PD6FJCQRHFO544J2HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'도이치모터스 주가조작 사건' 당시 김건희 여사의 계좌를 관리한 것으로 알려진 이종호 전 블랙펄인베스트 대표가 5일 오전 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 여사의 구속 전 피의자 심문(영장실질심사) 전날인 11일 이 전 대표를 서울 종로구 KT광화문빌딩 웨스트에 마련된 조사실로 불러 조사중이다. &lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 1차 주가조작 ‘주포’인 이정필씨에게 집행유예를 받게 해준다면서 2022년 6월~2023년 2월 25차례에 걸쳐 8000여만원을 받은 혐의(변호사법 위반)를 받는다. 특검은 지난 1일 이 전 대표에 대해 구속영장을 청구했고, 법원은 5일 이 전 대표에 대해 ‘증거인멸 우려’를 이유로 구속영장을 발부했다. 이 전 대표는 지난 6일 구속이 부당하다며 법원에 구속적부심사를 청구했지만 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이 전 대표는 이외에도 삼부토건 주가조작, 임성근·조병노 구명로비 의혹에도 등장하는 인물로 김 여사에 관한 각종 의혹을 밝힐 키맨으로 꼽힌다. 앞서 특검은 변호사법 위반 혐의와 관련해 이 전 대표를 지난달 21일과 23일, 30일에 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;한편 김 여사에 대한 영장실질심사는 12일 오전 10시 10분 서울중앙지법에서 진행될 예정이다. 특검은 이날 언론 공지를 통해 법원에 두 차례에 걸쳐 800쪽이 넘는 분량의 구속 의견서를 냈다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 공정위 압수 수색... 최측근 특혜성 투자 의혹</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/XR6CGQCZA5ALPERWJS57ECY4IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/XR6CGQCZA5ALPERWJS57ECY4IQ/</guid>
-      <dc:creator>이민준 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 05:49:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34BMZELATTNVCMJS7LDPPCQQOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공정거래위원회 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀은 11일 공정거래위원회 압수 수색에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 김 여사의 최측근으로 알려진 김예성씨가 임원을 지낸 업체 IMS모빌리티가 카카오모빌리티 등 대기업으로부터 모두 184억원을 투자 받은 배경을 수사 중이다. 이 당시 투자와 관련한 자료를 확보하기 위해 이날 공정위 압수 수색에 나선 것이다.&lt;br&gt;&lt;br&gt;특검은 IMS모빌리티가 2022년 6월 오아시스 펀드를 통해 카카오모빌리티, 한국증권금융 등 9곳에서 184억원을 투자받은 게 아닌지 의심하고 있다. 투자사들도 보험성 내지 행정 제재 등을 피하기 위해 투자에 나선 게 아닌지 수사 중이다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난 4일 HS효성의 조현상 부회장을 소환해 조사했다. IMS모빌리티의 조영탁 대표와 김씨의 아내 정모씨도 조사했고, 투자사인 KB캐피탈의 황수남 전 대표도 불러 조사했다.&lt;br&gt;&lt;br&gt;한편 김씨는 특검이 출범하기 전 베트남으로 출국해 아직까지 귀국하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용현 측 “구속 결정한 재판부에 재판 못 받겠다...관할 이전 신청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/RAUWN53L3NE4ZJFV6NCD653LKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/RAUWN53L3NE4ZJFV6NCD653LKA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 06:15:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY4S2I7UXQIAURAUZZMUFH7BDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관 측이 내란 특검에 추가 기소된 사건을 담당하는 재판부에 구속 취소를 신청했다. 다른 법원에서 재판을 받게 해 달라는 관할 이전 신청도 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사34부(재판장 한성진)는 11일 위계 공무집행 방해·증거인멸 교사 등 혐의로 기소된 김 전 장관의 두 번째 공판 준비 기일을 열었다. 준비 기일은 정식 재판에 앞서 쟁점을 정리하고 재판 일정을 논의하는 절차다. 피고인 출석 의무는 없다. 이날 준비 기일은 김 전 장관 없이 20분 만에 끝났다. &lt;br&gt;&lt;br&gt;재판부는 이날 국민참여재판 희망 여부 등을 물었지만 김 전 장관 측 변호인단은 재판 절차에 관한 의견을 밝히지 않고 “불법적인 구속 상태를 해소하거나 재판부를 바꿔달라”고 요구했다. 김 전 장관 측은 “재판부의 인신 구속은 불법적”이라며 “공정한 재판을 받을 수 없다는 염려가 있어 관할 이전 신청을 제출했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “관할 이전 신청에 따라 더 재판을 진행하기 어렵다”며 “일단 절차를 중단하고 다음 기일을 추정(추후 지정)하겠다”고 했다. 추후 지정은 다음 기일을 지정하지 않고 일단 미루는 것이다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 비상계엄에 가담한 혐의(내란 중요임무 종사)로 재판을 받고 있는 김 전 장관은 지난 6월 18일 내란 특검에 추가 기소됐다. 특검은 김 전 장관을 기소하며 법원에 추가 구속을 요청했고 이 사건을 배당받은 형사34부는 “증거인멸 우려가 있다”며 같은 달 25일 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;추가 공소사실은 김 전 장관이 비상계엄 하루 전인 작년 12월 2일 대통령경호처를 속이고 비화폰을 추가로 받아 노상원 전 국군정보사령관에게 전달했다는 것과, 비상계엄이 해제되고 난 뒤인 12월 5일 수행비서 역할을 한 측근 양모씨에 계엄 관련 자료를 없앴다는 것이다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 “기소와 구속이 불법적으로 이뤄졌다”고 주장하며 이의신청과 재판부 기피 신청 등을 냈으나 앞서 모두 기각됐다. 이날 김 전 장관 측이 신청한 구속 취소 신청은 본안 사건을 맡고 있는 형사34부가 심리한다. 관할 이전 여부는 서울고법 형사8부(재판장 김성수)가 결정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 해병 특검, 임성근 ‘수행 부관’ 불러 ‘멋쟁해병’ 교류 정황 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/KFX6QVXVNRBA3FBOJS6PEBQRCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/KFX6QVXVNRBA3FBOJS6PEBQRCM/</guid>
-      <dc:creator>이세영 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 04:57:55 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 최근 임성근 전 해병대 1사단장의 ‘수행 부관(副官)’을 소환 조사한 것으로 11일 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RK2XRWSKLBI2PP5BZ5FZBMBVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 11일 서울 서초구 순직 해병 특검 사무실로 조사를 받기 위해 출석하며 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 해병 특검은 지난달 말 임 전 사단장의 수행 부관으로 근무했던 현역 장교 A씨를 참고인 신분으로 불러 조사했다. A씨는 임 전 사단장이 해병대 1사단장으로 재임한 2022~2023년 그의 일정, 행정, 사무 등을 보좌·관리했다. 고(故) 채수근 상병의 사망 사고가 발생한 2023년 7월에도 A씨는 임 전 사단장의 수행 부관으로 근무했다.&lt;br&gt;&lt;br&gt;해병 특검은 A씨를 상대로 이종호(구속) 전 블랙인베스트 대표 등 해병대 출신 5명이 참여한 단체 채팅방(일명 ‘멋쟁해병’) 멤버들과 임 전 사단장의 관계 등을 집중 조사했다.&lt;br&gt;&lt;br&gt;채 상병의 부대장이던 임 전 사단장은 해병대 수사단의 초동 조사 때 업무상 과실치사 혐의자에 포함됐다가, 이른바 윤석열 전 대통령의 ‘VIP 격노’ 이후 이뤄진 국방부 재조사 결과 혐의자에서 빠져 논란이 됐다. 이를 두고 김건희 여사와 친분이 있는 이종호 전 대표가 임 전 사단장에 대한 ‘구명 로비’에 나선 것이라는 의혹이 제기된 바 있다. 이에 해병 특검이 A씨를 불러 당시 임 전 사단장의 동선, 교류 정황 등을 조사했다는 것이다.&lt;br&gt;&lt;br&gt;A씨는 “멋쟁해병 멤버들과 임 전 사단장은 어떤 관계냐” “이종호 전 대표 등을 기억하느냐” 등을 묻는 해병 특검 조사에서 “잘 모른다”거나 “기억나지 않는다”는 취지로 답했다고 한다. 수행 부관이더라도 지휘관의 교류 상황을 세세하게 파악할 수 없다는 것이다. A씨는 특검 조사에서 “임 전 사단장의 약속 등이 있을 때 일정을 잡아주고 차량을 지원해주는 정도지 임 전 사단장이 누구를 만나 무엇을 하는지 자세히 알지는 못한다”고 했다고 한다.&lt;br&gt;&lt;br&gt;또 해병 특검은 최근 멋쟁해병 멤버 등의 압수물 등을 포렌식하는 과정에서 이들이 A씨와 연락한 내역을 일부 확보한 것으로 전해졌다. 임 전 사단장과 멋쟁해병 멤버 일부가 지난 2022년 경북 포항에서 모임을 가진 적이 있었는데, 이 시기 전후에 A씨가 멋쟁해병 멤버들과 연락을 주고받은 정황 등이 포착됐다는 것이다. 이에 대해 A씨는 “임 전 사단장의 지시가 있으면 모임 참석자들에게 일정, 장소 등을 공유해주는 정도였다”고 했다고 한다. 다만, 당시 포항 모임에 이 전 대표는 참석하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSHTMGTKTZHFPMIOTI22VBDXDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호(가운데) 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 영장실질심사를 받기 위해 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 이날 오전부터 임 전 사단장을 과실치사 혐의 등 피의자 신분으로 불러 조사 중이다. 임 전 사단장에 대한 특검 조사는 이번이 세 번째다.&lt;br&gt;&lt;br&gt;임 전 사단장과 이 전 대표는 서로 모르는 사이고, 구명 로비 의혹은 전혀 사실이 아니라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>美 예술가 마크 곤잘레스, 국내 의류 기업 상대 저작권 침해 소송 최종 승소</title>
