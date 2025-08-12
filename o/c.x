@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>물 하루 2L씩 마시면 해롭다?… ‘저속 노화’ 박사까지 나선 수분 과잉 논란 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/EYSRZWKPTJBC7D4OX2GCD433JM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/EYSRZWKPTJBC7D4OX2GCD433JM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 04:59:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XZPXVIW25BWVJFBCT5VY7KAIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관 정희원(왼쪽) 박사와 대한신장학회 이사이자 분당서울대병원 신장내과 전문의 김세종 교수. /유튜브 '정희원의 저속 노화'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“물을 하루에 2L씩 꼬박꼬박 마시면 건강 나빠진다.” &lt;br&gt;&lt;br&gt;이계호 충남대 화학과 명예교수가 tvN ‘유퀴즈’ 방송에 출연해 말한 건강 상식 관련 조언이다. 혈액 속에는 나트륨과 칼륨 등 몸속에서 전기를 발생시키는 미네랄이 있는데, 물을 과도하게 마시거나 음식을 지나치게 저염식으로 먹을 경우 심장에 전기 공급이 안 돼서 심하면 숨지게 될 수도 있다는 주장이었다. 이 교수는 이를 ‘저나트륨혈증에 의한 심장마비사’라고 설명했다. &lt;br&gt;&lt;br&gt;다만 의료계에서는 이 주장을 두고 갑론을박이 이어지는 모습이다. 일각에선 이 교수의 발언이 과장되거나 의학적으로 근거가 부족한 내용이라는 지적도 나온다. 특히 ‘저속 노화’ 대중화를 이끈 서울시 초대 건강총괄관 정희원 박사는 “건강한 식습관에 대한 불필요한 공포심을 유발할 수 있어 바로잡을 필요가 있다고 판단했다”며 직접 자신의 유튜브 채널을 통해 반박에 나섰다. &lt;br&gt;&lt;br&gt;정 박사는 11일 진행한 유튜브 라이브 방송에서 “어떤 분을 비하하거나 비난하려는 의도는 전혀 없다”며 “(유퀴즈) 방송이 나간 이후 주변에서 많은 질문을 들어 방송을 하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이날 방송에는 대한신장학회 이사이자 분당서울대병원 신장내과 전문의인 김세종 교수가 함께 자리했다. 정 박사가 질의를 하면 김 교수가 답변을 해주는 문답 형식으로 방송은 진행됐다. &lt;br&gt;&lt;br&gt;김 교수는 콩팥 기능에 문제가 없는 건강한 사람이라면, 수분 섭취량을 제한하는 상황이 거의 없다고 했다. 그는 이 교수가 방송에서 언급한 전해질 불균형에 대해 “콩팥 기능이 건강하면 알아서 해준다”면서 “콩팥은 몸에 물이 부족하면 하루에 소변량을 500㏄ 미만 정도로 줄이고, 반대로 물이 너무 많으면 내보내고 하는데 많게는 하루 12L까지 소변량을 늘려가는 것이 생리적으로 가능하다”고 했다. 다만 김 교수는 “하지만 이 속도보다 물을 빨리 먹으면 문제가 될 수는 있다”고 했다. &lt;br&gt;&lt;br&gt;김 교수는 “환자의 질환 상태에 따라 권장하는 수분량은 다를 수 있다”며 “질병에 대한 이해도가 필요하고, 여기에 맞는 수분량을 별도로 알아야 한다”고 했다. &lt;br&gt;&lt;br&gt;김 교수는 “대개 물을 많이 마시면 안 되는 경우는 저나트륨혈증 환자인 경우”라며 “저나트륨혈증은 원인이 다양한데 수분 섭취만으로 원인을 파악할 수 있는 경우는 굉장히 드물고 제한적”이라고 했다. 그러면서 ”마라톤에서 장시간 물을 너무 많이 마신 경우, 맥주 빨리 마시기 대회처럼 단기에 빨리 마시는 경우에 해당하는데, 하루에 2~3L로 이렇게 되기는 굉장히 어렵다”고 했다. &lt;br&gt;&lt;br&gt;김 교수는 저나트륨혈증 환자 경우에도 수분 섭취를 제한해 체내 나트륨 농도를 올리는 건 권장하는 방법이 아니라고 했다. 그는 “돈이 들지 않는 방법이기 때문에 교과서적으로 권장은 하는데, 요즘은 이 농도를 올리는 약이 따로 나온다”고 했다. 이에 정 박사는 “약도 비교적 저렴해져서 환자 부담이 별로 안 되기 때문에 (권장하지 않는다)”며 “실질적으로 물을 억지로 조금 드셔야 하는 분은 말기 신부전으로 투석하시는 분들 외에는 거의 없다고 보면 될 것 같다”고 거들었다. &lt;br&gt;&lt;br&gt;결과적으로 정 박사와 김 교수는 ‘물을 하루에 2L씩 꼬박꼬박 마시면 건강 나빠진다’는 말은 과장이라고 판단했다. 김 교수는 “수분 섭취량 2L를 넘기면 건강에 위협이 된다는 것은 과장이 아닌가 생각한다”고 했다. 아울러 “숫자 자체에 공포감을 유발하는 경향이 있는데, 그럴 필요는 없어 보인다”고 했다. 정 박사 역시 “땀을 지나치게 많이 흘리는 등 특수한 경우에는 전해질 보충이 따로 필요하겠지만, 대부분의 일상생활하는 분들은 편하게 드셔도 문제가 없을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 추경호 ‘계엄 직후 홍철호→한덕수→尹’ 연속 통화 내역 확보</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/13/3YDQ4N5YDZDT3JO7PDFUNAZR7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/3YDQ4N5YDZDT3JO7PDFUNAZR7I/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 04:42:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFJPDPPC3F7Y2XDXM2AZ7G5L7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검 사무실이 마련된 서울 서초구 서울고검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 12·3 비상계엄 선포 직후 추경호 전 국민의힘 원내대표가 홍철호 당시 정무수석, 한덕수 전 국무총리, 윤석열 전 대통령과 연이어 통화한 내역을 확보한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;12일 법조계에 따르면 특검은 추 전 원내대표가 계엄 선포 직후인 작년 12월 3일 밤 10시 56~57분쯤 홍 전 수석과 통화한 뒤, 밤 11시 12분쯤 한덕수 전 총리와, 이어 11시 22분쯤 윤 전 대통령과 잇따라 통화한 사실을 확인했다.&lt;br&gt;&lt;br&gt;추 전 대표가 계엄 당일 윤 전 대통령과 통화한 사실 외에 홍 전 수석, 한 전 총리와도 통화한 사실은 뒤늦게 알려졌다. 특검은 해당 통화에서 홍 전 수석과 한 전 총리가 추 전 대표에게 계엄과 관련한 여당 차원의 협조를 요청했을 가능성을 의심하고 있다. 다만 추 전 대표 측은 계엄 당일 상황 파악을 위해 홍 전 수석과 한 전 총리에게 전화를 걸었고, 당시 정국과 계엄 상황에 대한 우려를 나눴을 뿐 국회의원 표결 관련 이야기는 전혀 오가지 않았다는 입장​이다.&lt;br&gt;&lt;br&gt;특검은 국회의 비상계엄 해제 표결 과정에서 국민의힘 지도부가 방해한 정황이 있었는지 여부를 수사 중이다. 계엄 당일 추 전 대표가 비상 의원총회 장소를 여러 차례 바꿔 국민의힘 의원 108명 중 90명이 표결에 참여하지 못했다는 의혹이 제기되면서다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 전날 조경태·김예지 국민의힘 의원을 참고인으로 불러 조사했다. 특검은 김 의원 조사 과정에서 작년 12월 3일 자정 무렵 곽규택 의원이 ‘국민의힘 의원들은 본회의장으로 와달라’ ‘의원총회를 본회의장에서 한다’는 문자를 보낸 반면, 비슷한 시각 원내대표실 공지용 번호로 ‘당사로 모이라’는 문자를 발송됐다는 진술과 메시지 내역을 제출받았다.&lt;br&gt;&lt;br&gt;한편 특검은 국민의힘 의원 전원이 참여한 텔레그램 단체 대화방에서 지난해 10월 말부터 12월 중순까지 두 달 간의 대화 기록이 모두 삭제된 사실도 파악해 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>햇볕 피해 양산 쓴 승객…시내버스서 벌어진 풍경</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/DNI5Q3CFYNA3PLQGOC34FQEZPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/DNI5Q3CFYNA3PLQGOC34FQEZPE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 04:41:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDUALHLNP5B27PT6MA7CS76764.png"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스에서 양산을 펼친 여성./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 시내버스 안에서 양산을 펼친 승객의 모습이 포착됐다. &lt;br&gt;&lt;br&gt;지난 11일 한 온라인 커뮤니티에는 ‘부산 시내버스 안에서 양산 쓴 아주머니. 생존 본능 vs 공공 매너’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “버스 안에서 한 아주머니가 양산을 펼쳐 쓰고 계셨다. 창문으로 강하게 햇볕이 들어오니 더위를 피하려고 그러신 듯했다”라며 사진을 공개했다.&lt;br&gt;&lt;br&gt;A씨는 “과연 더위를 피하기 위한 생존 행동일까 아니면 주변 승객을 전혀 배려하지 않은 이기적 민폐일까. 물론 햇볕이 비춰 더웠을 수 있지만 대중교통에서 양산을 펼치는 모습은 솔직히 좀 그렇다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 버스 창가 쪽에 앉은 한 여성이 검은 양산을 펼친 채 앉아 있다. 옆 좌석에 승객은 일행인지 여부는 알려지지 않았으나, 아랑곳하지 않는 모습이다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 엇갈린 반응을 보였다. 네티즌들은 “저런 사람이 다 있네. 진짜 한국 맞나” ”실내와 실외 예의를 구분 못 하는 사람들이 많아졌다" “타인에 대한 배려심이 없네” 등의 반응을 보였다. 일부는 “바로 옆 사람만 괜찮다면 이해가 된다” “물론 특이하긴 하지만, 이슈 될 만한 일은 아닌 것 같다”는 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 사상구 또 ‘폭삭’… 새벽시장 인근서 땅꺼짐</title>
+      <link>https://www.chosun.com/national/regional/2025/08/13/HAO62K3SOFGRPEIMW4MJULGS5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/13/HAO62K3SOFGRPEIMW4MJULGS5Q/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 04:45:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRHCKOZWOFDDLJONEHS4VLRVTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 11시 6분쯤 부산 사상구 감전동 새벽시장 앞 도로에서 깊이 1m, 폭 3m의 싱크홀(땅꺼짐)이 발생했다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사상구에서 15번째 싱크홀(땅꺼짐)이 발생했다. &lt;br&gt;&lt;br&gt;12일 오전 11시6분쯤 부산 사상구 감전동 새벽시장 앞 도로에서 깊이 1m, 폭 3m의 싱크홀이 발생했다. 마침 지나가던 1t 트럭 뒷바퀴가 싱크홀에 빠지면서 소방 당국이 안전조치를 했다. 트럭 운전자는 다행히 크게 다치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;싱크홀 지점은 부산 도시철도 사상~하단선 공사 현장 부근이다. 이곳은 앞서 3년간 14차례나 싱크홀이 발생했다.&lt;br&gt;&lt;br&gt;앞서 부산시가 지난해 9월 싱크홀 관련 감사를 벌인 결과, 집중호우 외에도 부실한 시공과 감독에 그 원인이 있었다는 결과가 나왔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] ‘서울대 10개 만들기’ 일환… 국립대 9곳 지원 나선 서울대</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/09/TEMLSPAUARDQ7JU2OIFAE2NQMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/09/TEMLSPAUARDQ7JU2OIFAE2NQMA/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 20:02:00 +0000</pubDate>
+      <content:encoded>이재명 정부 교육 공약인 ‘서울대 10개 만들기’와 관련, 서울대가 거점 지방 국립대 일부 학과와 학술 교류를 대폭 강화하겠다는 계획을 마련한 것으로 8일 확인됐다. 거점 국립대 9곳의 모든 학과를 서울대 수준의 연구 중심 대학으로 만드는 건 현실성이 떨어진다.&lt;br&gt;&lt;br&gt;그런 만큼 서울대는 지역 거점 국립대 일부 특성화 학과와 공동 연구·강의 등을 추진하는 방안 등을 담은 계획안을 조만간 교육부에 제출할 것으로 전해졌다. 거점 대학에서 특성화한 일부 학과를 서울대가 적극 지원하는 방식의 대안을 정부에 제안하겠다는 취지다.&lt;br&gt;&lt;br&gt;서울대 10개 만들기는 국립대 중에서 강원·경북·경상·부산·전남·전북·제주·충남·충북대 등 9곳의 지방 거점 국립대에 대한 투자를 크게 늘리겠다는 것이다. 교육부에 따르면 2023년 기준 학생 1인당 교육비는 서울대가 6059만원, 거점 국립대 9곳 평균은 2450만원이다. 학생 1인당 투입되는 교육비를 서울대생 1인당 교육비의 70% 수준으로 맞춰 교육 여건을 서울대 수준으로 끌어올리는 게 목표다. 민주당은 이를 위해선 해마다 3조원 이상의 예산이 필요하다고 추산한다. 그러나 지방 거점대에 예산 지원을 늘린다고 해서 이 대학들의 경쟁력이 그만큼 강화된다는 보장은 없다는 우려가 교육계 일각에서 나온다.&lt;br&gt;&lt;br&gt;이와 관련해 서울대는 최근 ‘서울대 10개 만들기’ 대안으로 거점 대학들에 대한 학술 지원을 확대하겠다는 취지의 계획안을 마련했다. 서울대는 거점 대학이 전략적으로 육성하려는 학과·학부를 선정하면, 이에 대한 인적·물적 지원에 나서겠다는 계획이다. 교육계에선 경상국립대는 우주항공, 부산대는 기계공학, 경북대는 전자공학, 충남대는 간호학과, 전남대는 에너지학부가 ‘특성 학과’로 선정될 가능성이 크다고 보고 있다.&lt;br&gt;&lt;br&gt;서울대는 작년 2월 총장 직속 ‘대학 연대 지역 인재 양성 사업단’을 신설해 운영하고 있다. 사업단은 거점 대학을 포함한 울산과학기술원(UNIST·유니스트), 카이스트, 국립순천대, 계명대 등 22개 대학에 서울대의 연구·교육 인프라를 공유하는 교육 프로그램을 진행해왔다. 서울대 관계자는 “서울과 지역의 격차 문제를 해결하고 지역 인재를 양성하기 위해 발족시킨 사업단이 중점적으로 이번 사업에 참여하게 될 것 같다”고 했다.&lt;br&gt;&lt;br&gt;서울대는 이 대학들과 함께 AI(인공지능), 반도체 등 일부 첨단 과학·산업과 관련한 공동 교육과정을 개발하고 연구도 함께 진행하는 방안도 마련했다. 서울대 캠퍼스에 설치된 첨단 실험 장비나 시설 등도 지역 대학과 공유할 방침이라고 한다. 서울대 항공우주공학과의 초음속·극초음속 풍동(風洞·인공적으로 강한 기류를 발생시키는 장치), 원자핵공학과의 소형 모듈 원전(SMR) 시뮬레이터와 지능형 무인 이동체 연구소, 미래 모빌리티 기술 센터 내 첨단 설비를 거점대 학생들에게 개방하고 실습도 지원하겠다는 것이다.&lt;br&gt;&lt;br&gt;서울대는 거점대 교수진과 공동 강좌도 운영하는 방안을 검토 중이다. 공동 강좌를 수강하는 학생은 방학 기간 서울대에서 강의를 듣고 학점도 받을 수 있게 한다는 것이다. 서울대 관계자는 “일단 이공계 분야 교류를 구상하고 있지만 인문·사회 분야에서도 향후 공동 강의를 개설할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;서울대는 이르면 내년부터 이런 ‘학술 지원·교류 프로그램’을 운영할 수 있다는 방침이다. 내년 3월부터 1년간은 거점 대학 특성화 학과 학생 1000명이 서울대 공동 강의를 이수할 수 있도록 하겠다는 계획이다. 서울대를 찾는 거점 대학 학생들을 위한 거처도 마련해줄 예정이다. 다만 장관이 공석인 상태라 교육부가 서울대 계획안을 검토해 구체화하는 데 다소 시간이 걸릴 수 있다는 전망도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FHDV7GIGR2U76AXF52FMOIM6BI.jpg?auth=12a83894e31f5c11917172fad8e15cf0bf1fd96c52b9d8c4e6613c0f9c0d385f&amp;smart=true&amp;width=3176&amp;height=2092" type="image/jpeg" height="2092" width="3176">
+        <media:description type="plain">서울 관악구 서울대학교 정문의 모습. 2024.5.21/뉴스1 ⓒ News1 김진환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>남편·아들 나온 손연재 유튜브, 삭제 하루 만에 복구… 무슨 일?</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/13/6J4DYQARG5A6HNS7DTFXL4BRJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/6J4DYQARG5A6HNS7DTFXL4BRJY/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 12 Aug 2025 04:11:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASPG72TWM5GXRA4MQV4O3KDB6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전 리듬체조 선수 손연재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 리듬체조 선수 손연재(31)의 유튜브 채널이 돌연 삭제됐다가 하루 만에 복구됐다.&lt;br&gt;&lt;br&gt;손연재 유튜브 채널 제작진은 12일 커뮤니티를 통해 “어제(11일) 오후 채널이 갑자기 삭제되는 일이 있었다. 즉시 상황을 인지하고 유튜브에 이의신청을 제출했다”며 “다행히도 재검토 결과 커뮤니티 가이드 위반이 전혀 없다는 공식 확인을 받았고 채널은 완전히 정상 복구된 상태”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “걱정과 불편을 끼쳐드린 점 진심으로 사과드린다. 기다려주시고 걱정해 주신 모든 분께 깊은 감사의 마음을 전한다”며 “앞으로도 변함없이 건강하고 즐거운 콘텐츠로 찾아뵙겠다. 늘 따뜻한 응원 보내주셔서 정말 감사하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;제작진은 유튜브 측으로부터 받은 답변서도 공유했다. 유튜브 측은 “유튜브의 목표는 커뮤니티 가이드를 위반하는 콘텐츠가 없도록 만전을 기해 모든 사용자에게 안전한 공간이 되는 것”이라며 “이런 노력을 기울이는 과정에서 간혹 실수가 발생하기도 한다. 불편을 끼쳐드려 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYRTYGW6GRANZJQ6RJC7UCZZDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손연재 채널 제작진이 공개한 유튜브 측 답변서. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 전날 손연재 유튜브 채널은 사전 공지 없이 삭제됐고 채널 접속 시 ‘유튜브 커뮤니티 가이드를 위반해 채널이 삭제됐다’는 안내 문구가 떠 구독자들의 혼란이 일었다. 일부 네티즌 사이에선 가족 간 갈등이나 뒷광고 문제 아니냐는 무분별한 추측까지 나왔다. 손연재가 남편과 아들이 등장하는 일상·육아 콘텐츠를 다뤄왔기 때문이다.&lt;br&gt;&lt;br&gt;한편 유튜브는 여러 기준을 두고 위반 채널을 제재하고 있다. ‘콘텐츠 형태와 관계없이 커뮤니티 가이드 또는 서비스 약관을 반복 위반한 경우’ ‘심각한 서비스 악용(약탈적 행위·스팸·음란물)’ ‘정책 위반’(증오심 표현·괴롭힘·명의 도용)‘ 등을 주목적으로 하는 경우 채널이 폐쇄될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/T5O2GDNPV5FNBNAZ2RYE2DKUSE.JPG?auth=084da0c7ad9adfa8d2f8fd3888ae3d246d871b8e9bfba9d961fccb4bdd5e8e7e&amp;smart=true&amp;width=2640&amp;height=1485" type="image/jpeg" height="1485" width="2640">
+        <media:description type="plain">前 리듬체조 선수 손연재 ⓒ News1 김진환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김진환</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>해경, ‘진해 잠수부 사고’ 하청업체 대표·감시인 입건 </title>
       <link>https://www.chosun.com/national/2025/08/13/ZJPOWZGJ7ZFFPF7BUUM6YPCY5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/13/ZJPOWZGJ7ZFFPF7BUUM6YPCY5I/</guid>
@@ -709,28 +771,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH4MKO4A4LALI5ZQKCSYFTYBTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 원주시 옛 아카데미극장 철거를 방해한 혐의로 기소된 시민단체 회원 24명에게 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사2단독 박현진 부장판사는 업무방해 등 혐의로 기소된 시민사회단체 ‘아카데미의 친구들’ 회원 A씨 등 24명에게 무죄를 선고했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2023년 8월부터 10월까지 원주시가 철거를 결정한 원주 평원동 옛 아카데미극장에서 집회와 농성을 하는 등 철거 업무를 방해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;아카데미극장은 1963년 원주시 평원동에 문을 단관 극장이다. 2006년까지 43년 동안 운영됐다. 원주시는 건물 노후화에 따른 건물 붕괴 위험 등을 이유로 건물 철거를 추진했다. 이 과정에서 A씨 등은 원주 문화의 상징적인 곳이라며 극장 철거를 반대했고 극장 내부 무단 점거와 농성 등을 벌였다.&lt;br&gt;&lt;br&gt;앞서 검찰은 당시 집회로 철거업체들이 제대로 된 작업을 벌이지 못해 피해를 입었다며 24명 중 7명에게 징역 6개월~2년을, 나머지에겐 벌금 200만~500만원을 각각 구형했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “원주시의 극장 철거 당시 충돌 행위에 대한 책임이 전적으로 시민사회단체에 있다고 볼 수 없을 뿐더러 집회 과정에서 폭력과 욕설 등을 한 사실도 없다”면서 “점거 역시 철거를 막기 위한 실용적인 수단일 뿐 평화적이었고 철거 업체가 금전적인 피해를 입지 않은 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  8월 12일 화요일 (음력(윤) 6월 19일 癸丑)</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/11/FIQ7ME254JGJZF5BM4D2LM33HQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/FIQ7ME254JGJZF5BM4D2LM33HQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 11 Aug 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 개구리가 울면 비 내린다. 48년생 스스로 해결할 수 있어야 완전 해결. 60년생 교활한 원숭이에겐 계교 필요할 수도. 72년생 주도할 수 없다면 적당한 선에서 타협. 84년생 짐 지는 힘보다 놓는 힘이 더 든다. 96년생 구설 피할 수 없다면 당당히 맞서라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 말로 따져 이길 것 같으면 못 이길 게 무엇. 49년생 바람에 꺾이지 않는 버들가지처럼. 61년생 술자리·밥자리·이부자리 조심. 73년생 생면부지 사람과 거래는 일단 경계. 85년생 낚싯대 던졌으면 관건은 기다림. 97년생 풍년에 못 지낸 제사 흉년에 지낼까.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 전후반전 지나 연장전에 승부하라. 50년생 천 마디 말보다 한 번 실천이 중요. 62년생 해가 서산에 지면 바깥출입 절대 엄금. 74년생 소중히 여길 줄 알면 인연은 내 편. 86년생 수많은 일상 반복이 결실로. 98년생 타인에게 맡기지 말고 직접 챙기도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 충동적 언행은 후회막심. 39년생 매사 유연한 자세를 갖도록. 51년생 아랫사람의 조언을 적극 참고해야. 63년생 세상이 돌면 나도 돌아야 안 넘어진다. 75년생 선택도 결과도 내 몫. 87년생 실수도 자주 하면 습관. 99년생 지나치면 간섭, 적당하면 조언.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 뒷거래는 더 큰 손실 초래. 40년생 예상치 못한 실수 대비해야. 52년생 조언은 자존심 버릴 때 들린다. 64년생 자만의 덫에 빠지지 않도록. 76년생 무엇보다 자신감 회복이 우선. 88년생 내부를 단속하라. 00년생 이성(異性)에게 목매지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 주변의 말에 일희일비 마라. 41년생 괴로움은 즐거움의 씨앗. 53년생 내키지 않는 사람과의 관계에 주의. 65년생 억지로 되는 것은 없다. 77년생 굳은 의지가 등용문을 여는 열쇠. 89년생 의중 파악 전까지는 움직이지 마라. 01년생 지레 겁먹을 것 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 동쪽에서 좋은 소식 있을 듯. 42년생 속마음을 털어놓지 마라. 54년생 인연이 다하여 떠났다 여겨라. 66년생 노력보다 수확이 큰 하루. 78년생 동료 사이에도 타협의 미학이 필요. 90년생 노상 횡액이 두렵다. 02년생 허욕은 버리고 실상을 직시하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 예의범절은 치욕 막는 보루. 43년생 강한 것이 정의가 되는 수도. 55년생 말이 많으면 쓸 말 적다. 67년생 시간 낭비 아니면 돈 낭비. 79년생 저녁 약속이나 회식은 가급적 다음에. 91년생 서두르지 말라. 내일도 있다. 03년생 가난할수록 기와집 짓는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 발상 전환으로 활로 모색. 44년생 창의성은 타성과 관성이 최대의 적. 56년생 문서로 인한 근심 있으니 주의. 68년생 가족의 배려 소중한 시기. 80년생 같은 실수 반복하지 않도록. 92년생 자신의 입장 정리가 우선. 04년생 내가 있고서 친구도 있는 것.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 반전의 기회, 무사 평안할 땐 오지 않는다. 45년생 지위 높을수록 마음은 낮추랬다. 57년생 기존보다 새로이 교섭하면 열릴 듯. 69년생 작은 실수에 구애받지 말아야. 81년생 지혜로운 조언은 나침반과 같다. 93년생 애정 전선에 약간의 이상 징후가.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 한여름에 솜옷 입었구나. 46년생 남쪽 대문 이용하면 행운 들어온다. 58년생 우유부단한 자세로는 해결할 수 없다. 70년생 용서보다 완벽한 복수는 없다. 82년생 마음에서 이뤄지면 현실로도 이뤄진다. 94년생 노적가리에 불 지르고 싸라기 주워 먹으랴.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 소소한 일일지라도 아랫사람 의견 참고하도록. 47년생 늙은 말이 무거운 짐 졌구나. 59년생 원인 없는 초조감으로 스트레스 고조. 71년생 태양과 비가 고르니 농심 넉넉. 83년생 부부 사이에도 인내와 이해 필요. 95년생 절대 좋고 절대 나쁜 것은 없다.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>오세훈 “유권무죄, 내편무죄... 재판은 왜 하나”</title>
       <link>https://www.chosun.com/national/national_general/2025/08/12/GCX7J4IGUBH35OBON4CKUNZNSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/12/GCX7J4IGUBH35OBON4CKUNZNSY/</guid>
@@ -952,51 +992,6 @@
       <description/>
       <pubDate>Mon, 11 Aug 2025 00:27:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWICMXMA2PFJFMJRREZPCCVK6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김예지 국민의힘 의원의 안내견 '태백'이가 지난 3월 13일 오후 서울 여의도 국회 본회의장에서 열린 제423회 국회(임시회) 제1차 본회의에서 김 의원이 보건복지위원회 소관 제안설명 및 심사보고를 하는 동안 발언대 주위를 살피고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국회 비상계엄 해제 의결 방해 의혹’과 관련해 김예지 국민의힘 의원이 11일 오후 2시 내란 특검에 참고인 조사를 받기 위해 출석할 예정이다.&lt;br&gt;&lt;br&gt;이날 오전에는 조경태 국민의힘 의원을 참고인 신분으로 불러 계엄 당시 국회 내부 상황, 국민의힘 의원들이 본회의에 참석하지 못한 이유 등을 조사하고 있다. 조 의원은 특검에 출석하며 “아직도 내란은 끝나지 않았다고 보고 있다”며 “당내에 내란 동조 세력이 존재하고 있다는 생각을 많이 한다”고 했다.&lt;br&gt;&lt;br&gt;특검은 추경호 당시 원내대표 등 국민의힘 지도부가 의도적으로 계엄 해제 표결을 방해했다는 의혹을 수사 중이다. 추 전 원내대표가 비상 의원총회 장소를 여러 차례 변경한 탓에 국민의힘 의원 상당수가 계엄 해제 요구 결의안 표결에 참여하지 못했다는 것이다. 당시 국민의힘 의원 108명 중 18명만 계엄 해제 결의안 표결에 참여했다.&lt;br&gt;&lt;br&gt;특검은 지난 29일 가장 먼저 안철수 국민의힘 의원에게 참고인 조사를 요청했지만, 안 의원은 “야당 탄압”이라며 반발했다. 지난 30일에는 계엄 당시 국민의힘 소속이었다가 더불어민주당으로 당적을 옮긴 김상욱 의원을 조사했다.&lt;br&gt;&lt;br&gt;한편 김 의원과 조 의원은 앞서 계엄 해제 요구 결의안 표결에 참여했을 뿐 아니라, 내란 특검법 본회의 표결에도 참석해 찬성표를 던진 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 조경태 국민의힘 의원, 내란 특검 참고인 조사 출석... ‘국회 의결 방해’ 관련</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/WIUDTIQACVEZXG4SA2Q5HAYUJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/WIUDTIQACVEZXG4SA2Q5HAYUJU/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 Aug 2025 22:55:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DORYRD7KBFPUZPPNBE5ZYX2MWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 내란 특검 출석하며 발언하는 조경태 의원 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국회 비상계엄 해제 의결 방해 의혹’과 관련해 국민의힘 조경태 의원이 11일 내란 특검에 참고인 조사를 받기 위해 출석했다. 조 의원은 이날 오전 7시 50분 특검에 출석하며 “아직도 내란은 끝나지 않았다고 보고 있다”며 “당내에 내란 동조 세력이 존재하고 있다는 생각을 많이 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “주로 그날 새벽에 있었던 일들에 대해 경험한 내용을 소상히 말씀드리려고 왔다”며 “제가 알고 있는 범위를 소상히 말씀드리기 위해 이 자리에 섰다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 의원은 지난해 계엄 해제 요구 결의안 표결 당시 당 지도부의 상황에 대해 “단체 채팅방에서 서로의 대화가 엉켰던 것 같고, 혼선이 빚어진 것은 틀림없다”며 “저는 바로 국회로 들어갔다”고 했다.&lt;br&gt;&lt;br&gt;특검은 추경호 당시 원내대표 등 국민의힘 지도부가 의도적으로 계엄 해제 표결을 방해했다는 의혹을 수사 중이다. 추 전 원내대표가 비상 의원총회 장소를 여러 차례 변경한 탓에 국민의힘 의원 상당수가 계엄 해제 요구 결의안 표결에 참여하지 못했다는 것이다. 당시 국민의힘 의원 108명 중 18명만 계엄 해제 결의안 표결에 참여했다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 7일 우원식 국회의장을 참고인 신분으로 불러 계엄 당시 국회 내부 상황, 국민의힘 의원들이 본회의에 참석하지 못한 이유 등을 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, ‘金 순방 목걸이 구매 의혹' 서희건설 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/12/AZX5TV4DGVFUBDFT6WSTD4VFIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/12/AZX5TV4DGVFUBDFT6WSTD4VFIQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 Aug 2025 22:07:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PUEE7DMAWSTJF36EAEM5XZCUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[땅집고] 서희건설 서초동 사옥.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특검팀이 11일 서울 서초구에 있는 서희건설 사무실을 압수 수색하고 있는 것으로 확인됐다. 서희건설은 김 여사가 2022년 6월 북대서양조약기구(나토) 순방 당시 착용했던 ‘반클리프 앤 아펠’의 6000만원대 목걸이를 구매했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 특검은 반클리프아펠 측으로부터 김 여사가 착용한 것과 같은 디자인의 제품을 구매한 이들의 명단을 확보했고, 이 명단에 서희건설 최고위 인사의 측근이 포함돼 있었던 것으로 전해졌다. 김 여사와 서희건설 간의 연관성이 핵심으로 떠오른 셈이다.&lt;br&gt;&lt;br&gt;이 목걸이는 김 여사가 공직자 재산 신고 대상에 포함시키지 않은 사실이 알려지면서 재산 신고 누락 논란이 빚어진 상태다. 공직자윤리법은 500만원 이상의 보석류를 신고하도록 규정하기 때문이다. &lt;br&gt;&lt;br&gt;그러나 김 여사 측은 나토 순방 당시 착용한 목걸이는 모조품이라는 입장이다. 2010년쯤 홍콩에서 산 것이고, 어머니 최은순씨에게 선물했다 순방 직전 빌렸다는 얘기다. 구입 가격도 신고 기준보다 낮은 200만원에도 미치지 못한다고 김 여사 측은 주장한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹정부 행정관, 보수 유튜버 동원 의혹</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/11/ZZMQAQPF7BERBI2ODWT4DDWRGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/11/ZZMQAQPF7BERBI2ODWT4DDWRGU/</guid>
-      <dc:creator>안상현 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 Aug 2025 15:46:00 +0000</pubDate>
-      <content:encoded>윤석열 정부 대통령실 행정관이 지난 1월 고위공직자범죄수사처(공수처)의 윤 대통령 체포영장 집행을 저지하기 위해 지지자들을 동원하려 했다는 주장이 10일 제기됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 대통령실 시민사회수석실 소속 성모 당시 행정관은 윤 전 대통령 체포가 임박했던 1월 초·중순 탄핵 반대 집회를 이끌던 보수 유튜버 신혜식 ‘신의한수’ 대표와 연락을 주고받았다. 신씨는 탄핵 심판 국면에서 전광훈 사랑제일교회 목사와 집회를 여는 등 탄핵 반대 활동을 함께했다. 본지가 확보한 통화 녹음에 따르면 신씨는 공수처가 윤 전 대통령을 체포하기 전날인 1월 14일 오전 성 행정관에게 전화를 걸어 “위기 상황에서 시민단체를 ‘똘마니’로 두고 부려먹으려 하는 것이냐”라고 항의했다. 성 행정관은 반복해서 “죄송하다”고 했다.&lt;br&gt;&lt;br&gt;신씨는 “(대통령 관저 뒤에) 차 한 대만 놓을 수 있음에도 불구하고 1000명을 보내라고 한다. 도대체 무슨 작전을 세우는 것이냐”라고 했다. 이와 관련 신씨는 본지 통화에서 “성 행정관이 차량을 직접 몰고 와서 체포 시도를 저지하라고 지시해 응하지 않았다”고 했다. &lt;br&gt;&lt;br&gt;앞서 성 행정관은 공수처가 처음 윤 전 대통령 체포에 나섰다 실패한 직후인 1월 3일 밤에도 신씨에게 ‘지지자 결집’을 요청하는 문자 메시지도 보냈다. 메시지엔 관저 인근 지도가 첨부돼 있었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 올림픽 체조경기장 폭발물 설치 신고에 대피한 시민들</title>
-      <link>https://www.chosun.com/national/education/2025/08/11/R7SKUCGXCBHJPIUNI2BKCNIOFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/11/R7SKUCGXCBHJPIUNI2BKCNIOFQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 Aug 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ANWNEA4I45HVDPQZ5VK3Q5HU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 서울 송파구 올림픽공원 KSPO돔(체조경기장)에 ‘폭발물을 설치했다’는 신고가 들어와 시민들이 대피했다. 신고받은 경찰은 경찰특공대 등을 투입해 수색했지만, 폭발물은 발견되지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 문기남 전 北 축구대표팀 감독</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/11/FXPDQEKHBJC2XI5ADAFH6ZV5MY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/11/FXPDQEKHBJC2XI5ADAFH6ZV5MY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 10 Aug 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2JDCKVYLRF7HLJGJ5TG3R76R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한 남녀 축구 대표팀 감독을 지낸 뒤 탈북한 문기남(77) 전 감독이 9일 별세했다. 국가대표 선수였던 고인은 아버지가 월남했다는 이유로 북한 축구계에서 추방됐다가 복권돼 남녀 대표팀 사령탑을 맡았다. 1993년 아시아 여자축구선수권 준우승을 이뤘고, 1999~2000년 남자 대표팀 감독을 지냈다. 2003년 가족과 탈북해 2004년 한국으로 귀순했고, 울산대 축구부 감독을 맡았다. 유족으로 아내 이창실씨와 자녀 문경민(사업)·문경희·문유진·문경근(서울신문 기자) 등이 있다. 빈소는 국립중앙의료원, 발인은 12일 5시. (02)2262-4811&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
