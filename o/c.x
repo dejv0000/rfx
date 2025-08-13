@@ -13,6 +13,110 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울 중랑천 중랑교에 홍수주의보... 경의중앙선 운행 중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/IUG6OSMQC5HB3FICZUZSYG2XTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/IUG6OSMQC5HB3FICZUZSYG2XTM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:33:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EEOA5AERJLERFOP4U7OQGVPLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수도권에 집중호우가 쏟아진 13일 경기도 의정부시 중랑천에서 물이 불어나 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 새벽부터 서울을 비롯한 수도권에 많은 비가 내리면서 중랑천 등에 홍수주의보가 발령됐다. 서울 시내 하천과 일부 도로는 출입이 통제됐고, 경의중앙선 등 일부 열차 운행도 중단됐다. &lt;br&gt;&lt;br&gt; 환경부 한강홍수통제소는 13일 오후 1시 10분 서울 동대문구 중랑천 중랑교 지점에 홍수주의보를 발령했다.&lt;br&gt;&lt;br&gt;통제소는 “하천의 수위가 높아 저지대 침수, 하천 범람이 우려되는 상황으로 피해에 대비해달라”고 했다.&lt;br&gt;&lt;br&gt;이날 내린 비로 청계천, 안양천 등 시내 전체 29개 하천의 출입이 통제됐다. 또한 증산교 하부도로는 오전 11시 25분부터, 개화동로 개화지하차도는 오전 11시 53분부터, 동부간선도로(양방향)는 낮 12시 4분부터 통행이 막혔다. &lt;br&gt;&lt;br&gt;서울 동북·서남·서북권에는 오전 6시 30분을 기해 호우주의보가 내려졌다. 이어 서남권은 오전 10시 30분, 동북·서북권은 오전 11시를 기해 호우경보로 격상됐다. 서울시는 호우주의보가 발령되자 비상근무 1단계(주의)를 발령했으며 호우경보 발령 직후 대응 수위를 2단계(경계)로 한단계 올렸다. 강서, 은평, 서대문, 마포, 종로, 노원, 도봉, 강북, 성북 9개 구에는 침수예보가 발령됐다.&lt;br&gt;&lt;br&gt;또 경기 북부 지역에 내린 호우로 양주시는 오후 1시 24분 경원선 녹천-덕천역 구간 운행이 중단됐다고 밝혔다. 이에 앞서 고양시는 낮 12시 56분께 경의·중앙선 일산역∼수색역 구간과 고양시와 의정부시를 연결하는 교외선 전 구간이 선로 침수로 인해 열차 운행이 중단됐다고 시민들에게 재난 문자메시지를 보냈다. 이들 구간에서는 배수 작업이 진행 중이다. &lt;br&gt;&lt;br&gt;경기도는 재난안전대책본부 비상 단계를 1단계에서 2단계로 격상했다. 이날 오후 1시 기준 남양주 등 9개 시군에 호우경보가, 12개 시군에 호우주의보가 발령된 가운데 양주 장흥 204.0㎜를 비롯해, 포천 광릉 173.0㎜, 파주 광탄 144.0㎜, 남양주 오남 119.0㎜, 가평 조종 93.0㎜ 등 북부지역을 중심으로 폭우가 쏟아지고 있다. &lt;br&gt;&lt;br&gt;산림청은 포천·가평·양주에 산사태 경보를, 파주·남양주에는 산사태 주의보를 각각 발령했다. 포천천 포천대교, 동두천 송천교, 파주 신우교 등 하천 주변 지역이 범람 우려로 주민 대피령이 내려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한번 낚으면 대박” 노후자금 많은 강남 6070 주부 노린다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/10/OGZCO6XFHRDFJNI2Z2PYZPTZAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/10/OGZCO6XFHRDFJNI2Z2PYZPTZAE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 15:59:43 +0000</pubDate>
+      <content:encoded>지난달 말 이른 아침 A(88)씨가 사는 서울 송파구 잠실 아파트 집으로 전화 한 통이 걸려왔다. 평생 교수로 일하다 20여 년 전 은퇴한 A씨는 별일이 없으면 아침 식사를 준비하고 책을 읽으며 오전 시간을 보낸다. 카드사 직원이라는 남성이 “고객님 카드가 도용됐다”며 “통장에서 돈을 빼야 피해를 줄일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;“은행에서 일단 1700만원만 현금으로 뽑아서 우체통에 넣어두면 우체국 직원이 수거할 거예요. 세상이 흉흉하니 은행에서 보이스피싱 아니냐고 물어볼 수 있어요. 꼭 아니라고 하셔요.” A씨는 이들이 시킨 대로 했다. 집을 찾은 큰 아들이 “엄마 사기당했다”고 하자 그제서야 보이스피싱 범죄인지 알았다. A씨는 “집 전화번호를 어떻게 알았는지…. 처음부터 아침에 집에 있는 노인이라는 걸 알고 접근한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57AHCNDINZEXFIREUNCDFGXMEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 대표적인 부촌인 서울 ‘강남 3구’가 보이스피싱 범죄의 주요 타깃으로 떠오르고 있다. 경찰 관계자는 “최근 보이스피싱 조직들이 ‘한번 걸리면 대박’이라며 강남 노인들을 집요하게 노리고 있다”고 했다. 경찰청이 8일 국민의힘 서범수 의원실에 제출한 자료를 보면 올해 1~7월 서울 일선 경찰서에 접수된 보이스피싱 사건 3818건 중 820건(21.4%)이 강남 3구에서 발생했다. 강남구(357건), 서초구(239건), 송파구(224건) 순서였다.&lt;br&gt;&lt;br&gt;노후 자금이 풍부한 강남 노년층 중에서도 60대 여성이 특히 위험하다. 보이스피싱 사건을 주로 담당하는 서울 지역 한 검사는 “휴대폰 문자나 소셜미디어보다 전화를 자주 사용하면서도, 집에 주로 있는 여성 고령층이 보이스피싱 피해를 많이 본다”고 했다. 경찰청에 따르면, 올해 상반기(1~6월) 보이스피싱 피해자 1만2339명 중 3800명(30.8%)이 60대 이상 고령층이었다. 특히 60대 여성 피해는 1917건으로 작년 상반기 718건보다 2배 이상으로 늘었다.&lt;br&gt;&lt;br&gt;보이스피싱 피해 규모도 크다. 금융감독원이 분석한 지난해 하반기 보이스피싱 피해액 현황을 보면, 2억원 이상 고액 피해자의 약 80%가 여성이었고 특히 60대 여성이 절반 이상이었다. 경찰 관계자는 “60대는 (범죄 조직이 시키는 대로) 은행에 갈 수 있을 정도로 체력이 되면서도, 50대보다는 휴대폰 기기 조작에 능하지 않아 피해가 특히 크다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUUBJFQ3EBGUBL6ONLYBZWITAU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구에 사는 60대 여성 B씨도 지난 6월 말 카드사, 금감원, 검사를 사칭한 보이스피싱 일당에게 4억5000만원을 잃었다. 카드 명의 도용 사건에 휘말렸다며 ‘비밀 수사’를 받아야 한다고 했다. 금감원 간부와 검사라는 이들이 번갈아가며 협박했고, B씨는 일주일 동안 수차례에 걸쳐 돈을 이들에게 보냈다.&lt;br&gt;&lt;br&gt;서울 강남 지역 노인들은 “평생 모아둔 노후 자금을 한 번에 잃을 수 있다”며 두려움에 떨고 있다. 강남구 대치경로당 노인회장인 김영태(86)씨는 “요즈음 50대 아들·딸들이 매일같이 전화 와서 모르는 번호로 걸려 온 전화는 받지 말고, 통장에 돈을 넣으라고 요구하면 절대 응하지 말라고 신신당부한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBAKAYNRSFFAPK5EL72HQNMOGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해가 급증하자 강남 지역 구청들은 ‘보이스피싱 예방 교육’에 나섰다. “요즘 은행이라고 하면서 민생 회복 쿠폰을 받으라고 한 뒤에 휴대폰 앱을 설치하라고 많이 전화나 문자가 와요. 모두 사기예요.” 지난 5일 오전 10시 서울 송파구 잠실본동주민센터에서 송파경찰서 범죄예방과 서은규 경사가 60~80대 노인 36명에게 말했다. 노인들은 강의 내용을 열심히 받아 적었고, 일부는 휴대폰 카메라로 촬영했다. 수업이 끝난 뒤 이모(76)씨가 “앱을 잘못 깔면 어떻게 하느냐”고 질문하자 서 경사는 “휴대폰을 비행기 모드로 바꾸거나 전원을 꺼 데이터 접속을 차단한 뒤 바로 경찰서를 찾으라”고 했다.&lt;br&gt;&lt;br&gt;이날 교육엔 실제 보이스피싱을 당해본 주민들이 나와 경험담을 공유했다. 조모(76)씨는 지난 2019년 4월 6일 은행 직원, 검사를 사칭한 보이스피싱 조직에 3000만원을 뜯겼다. 조씨는 “진즉 이런 범죄가 유행한다는 뉴스라도 읽었으면 속지 않았을 것”이라고 했다. 이송남(67)씨는 “나와 남편 모두 얼마 전 보이스피싱을 당하기 직전까지 갔다가 겨우 피해를 면했다”며 “마침 집에 있던 큰아들이 보이스피싱이라고 알려줘 돈을 안 보냈다”고 했다.&lt;br&gt;&lt;br&gt;강남구는 신한은행과 협약을 맺고 지난 4월부터 관내 경로당을 순회하며 보이스피싱 예방 교육을 실시하고 있다. 지난달까지 경로당 176곳 중 100곳에 교육을 완료했다. 곽대경 동국대 경찰사법대학 교수는 “연금, 부동산 등 자산 규모가 큰 사람들이 모인 강남 3구는 보이스피싱 등 사기 범죄의 중심지가 될 수밖에 없다”며 “지속적으로 신종 수법에 대해 안내하고 경각심을 높일 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CBMGUZXQGVCC5BBB3VOQQB4NOM.jpg?auth=be4f8044760b7be8ba6b2c450d9cf5f7974dbfc1a854d6bb07831f18d0492174&amp;smart=true&amp;width=1800&amp;height=1054" type="image/jpeg" height="1054" width="1800"/>
+    </item>
+    <item>
+      <title>폭우로 서울 동부간선도로·내부순환로 등 시내 도로 8곳 통제</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/WATBG5W3TFAQLMF7LAPO6BCQPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/WATBG5W3TFAQLMF7LAPO6BCQPQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 05:09:48 +0000</pubDate>
+      <content:encoded>13일 수도권을 중심으로 폭우가 내리면서, 서울 시내 도로 곳곳이 통제되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/226WY77INRL5DK4UPU5LHUX6XQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 서울 서대문구 남가좌동 도로에서 차량들이 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시에 따르면, 서울시는 이날 낮 12시 14분 동부간선도로 전체 구간의 양방향 통행을 제한하기 시작했다. 같은 시각 내부순환로도 마장IC~성동교 남단 구간의 통행을 제한했다.&lt;br&gt;&lt;br&gt;시내 도로 역시 6곳을 통제하고 있다. 이날 오전 11시 25분 증산교 하부 도로를 통제한 데 이어, 개화육교 하부 도로, 개화지하차도, 사천교 하부 도로, 가람길 군자교~성동교 구간, 마들로 월계2,3지하차도~녹천초등학교 구간의 차량 통행을 제한 중이다.&lt;br&gt;&lt;br&gt;서울시는 앞서 이날 오전부터 청계천·중랑천·홍제천 등 서울 시내 하천 29곳도 출입을 모두 통제했다.&lt;br&gt;&lt;br&gt;한편 서울시는 이날 오전 6시 30분 1단계 비상 근무에 돌입했고, 오전 10시 30분에는 비상 근무 단계를 2단계로 높였다. 이에 따라 서울시 직원 7143명을 투입해 비상 근무를 실시하고 있다.&lt;br&gt;&lt;br&gt;이날 오후 2시 기준 서울에는 강남 3구(강남구·서초구·송파구)와 강동구를 제외한 전 지역에 호우경보가 내려져 있다. 도봉구에는 이날 하루 205.5㎜ 비가 내려 서울에서 가장 많은 강수량을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 14일 오전 10시 金여사 소환... 구속 후 첫 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/2ZIA3GTB3VFSFDRYJOMX24GWNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/2ZIA3GTB3VFSFDRYJOMX24GWNI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 03:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COZVCZRQEPZ7OKSRMIH66K24HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 밤 구속된 김건희 여사가 오는 14일 민중기 특별검사팀의 조사를 받는다. 김 여사가 특검 조사를 받는 건 이번이 두 번째이자, 구속된 후로는 처음이다.&lt;br&gt;&lt;br&gt;13일 특검은 “내일 오전 10시에 김건희씨를 소환했다”라고 밝혔다. 현재 서울남부구치소에 수감 중인 김 여사는 호송차를 타고 특검 사무실이 있는 서울 광화문 KT웨스트빌딩으로 출석하게 된다. 이날 오전 정식 입소 절차를 밟은 김 여사는 조사를 앞두고 이날 오후 1시 30분부터 변호인을 접견할 예정이다.&lt;br&gt;&lt;br&gt;또 특검은 오는 18일에는 ‘건진법사’ 전성배씨를 소환할 예정이다. 전씨는 윤영호 전 통일교 세계선교본부장이 구매한 샤넬 백 2개와 다이아몬드 목걸이 등을 김 여사에게 대신 전달한 것으로 알려졌다. 다만 전씨는 “통일교로부터 물품은 받았지만, 잃어버렸다”는 입장을 고수하고 있다. 김 여사 측도 해당 선물을 받은 적이 없다고 주장한다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 6일 김 여사에 대한 첫 소환 조사를 진행했고, 하루 만인 7일 김 여사에 대한 구속영장을 청구한 바 있다. 이어 법원은 지난 12일 “증거 인멸 염려가 있다”며 특검이 청구한 김 여사의 구속영장을 발부했다. 영장에는 김 여사의 ‘도이치모터스 주가조작(자본시장법 위반)’ ‘명태균 공천 개입(정치자금법·공직선거법 위반 및 뇌물수수)’ ‘건진법사·통일교 청탁(알선수재)’ 혐의가 적시됐다.&lt;br&gt;&lt;br&gt;특검은 해당 의혹에 대한 혐의 입증을 어느 정도 마친 만큼, 두 번째 조사에선 영장에 적시된 의혹 외의 다른 의혹들에 대해서도 김 여사 측에 캐물을 전망이다. 특검법은 ‘양평 고속도로 종점 노선 변경’ ‘양평 공흥지구 개발 특혜’ ‘대통령실 관저 이전’ 등 총 16개 의혹을 수사 대상으로 규정하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유명 호텔 천장에 버섯이 다닥다닥… “객실 타입이 머쉬룸이냐” 네티즌 ‘깜짝’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/RTGJOMVKYBDUPECPKQ26YXNXIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/RTGJOMVKYBDUPECPKQ26YXNXIM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:04:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYWJF44JOVBFPDHMPFFQENGPFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 비즈니스 호텔 객실 천장에서 버섯이 자라고 있다는 목격담이 전해져 온라인 커뮤니티에서 논란이 되고 있다.&lt;br&gt;&lt;br&gt;직장인 익명 커뮤니티 블라인드에는 지난 12일 “룸 관리를 얼마나 안 했으면 천장에 버섯이 피느냐”는 글과 함께 객실 내부 사진이 올라왔다. 사진에는 객실 출입문 복도 위 천장에서 버섯 5개가 줄기를 뻗은 채 자라는 모습이 담겼다.&lt;br&gt;&lt;br&gt;작성자는 “가족이 근처 일 보느라 하루 숙박했는데 방 상태가 여관보다 못하다”며 “심지어 한쪽은 핀 지 오래됐는지 말라비틀어진 상태”라고 했다. 이어 “어쩐지 방에 있으면서 컨디션이 점점 안 좋아져서 이상하다 했는데 물을 마시다가 천장을 보고 버섯을 발견했다고 한다”고 했다. &lt;br&gt;&lt;br&gt;작성자의 가족은 이후 호텔 측에 요청해 방을 바꿨다고 한다. 그는 “다음 날까지도 미열이 나고 몸 상태가 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UMP2ZHKO5BFPPLSPQXKMMI6XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;객실 사진을 본 네티들은 “객실 타입이 머쉬룸인가” “버섯은 룸서비스냐” “방 안에 곰팡이가 같이 자랄 가능성이 크다” “청결 상태가 심각하다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;이 숙박 시설은 유명 호텔 브랜드에서 런칭한 4성급 비즈니스 호텔로 전국 15개 지점을 운영하고 있다. 문제의 객실은 배관이 지나는 통로가 있어 습기가 차 판매하지 않는 방인데 신입 직원의 실수로 배정된 것으로 알려졌다. 호텔 측은 객실을 현재 정비하고 있으며 이곳에 묵은 투숙객에게 객실 업그레이드 조치를 취했다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HDZADYWBDFEQ5OSSRGUXVMK2C4.jpg?auth=b02db6826b7ded5ed29d53595d10bf2227cc8781cf6740c620213d095578286d&amp;smart=true&amp;width=282&amp;height=212" type="image/jpeg" height="212" width="282">
+        <media:description type="plain">서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>김건희특검, 감사원 압수 수색... ‘관저 이전 특혜’ 관련</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/XC6XXGB32REHFFXG5NF43NFXXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/XC6XXGB32REHFFXG5NF43NFXXA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:04:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZUCZA2IBBBD7LP4JEAYXSFQAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;감사원이 정책감사를 폐지하는 가운데 2025년 8월 6일 서울 종로구 감사원의 모습. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 13일 ‘대통령실 관저 이전 특혜 의혹’과 관련해 감사원을 압수 수색하고 있다. 특검은 감사원이 대통령실 관저 인테리어 공사를 담당했던 업체 ‘21그램’에 대한 감사가 제대로 이뤄졌는지에 대해 살펴볼 예정이다.&lt;br&gt;&lt;br&gt;윤석열 정부는 기존 서울 용산구 한남동 외교부장관 공관을 새 관저로 쓰기로 하면서 건물을 증축하고 리모델링했다. 21그램은 당시 12억2400만원인 대통령실 관저 공사를 수의계약으로 입찰 받았는데, 증축 공사 자격이 없는 소규모 신생 업체가 공사를 따내 논란이 일었다. 21그램은 김 여사의 기업 코바나컨텐츠가 주관한 ‘르 코르뷔지에전’ ‘알베르토 자코메티전’ 등에 후원 업체로 이름을 올리기도 했다.&lt;br&gt;&lt;br&gt;2022년 10월 참여연대는 시민 700여명의 서명을 받아 국민감사청구서를 감사원에 제출했다. 감사원은 감사 기간을 7번 연장하며 지난해 9월 21그램이 하도급을 맡긴 18개 업체 중 15곳이 기계·설비 공사 자격이 없어 건설산업기본법을 어겼다는 결과를 내놨다.&lt;br&gt;&lt;br&gt;감사원은 업체 선정 과정에서 ‘대통령직 인수위원회 내부 관계자와 경호처 등으로부터 업체들을 추천 받아 선정했다‘고 밝혔다. 하지만 ’윗선 개입’ 의혹에 대해선 따로 조사하지 않았다. 김 여사의 개입이 있었는지, 21그램이 어떻게 관저 증축 공사를 따냈는지 등 핵심 의혹을 제대로 조사하지 않았다는 지적을 받기도 했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 21그램 사무실과 대표 자택, 관저 이전 공사에 참여한 다른 업체도 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영동고속도로 터널서 초등생 태운 버스 넘어져… 6명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/5SRX7GQ23VCBLJ3JGIY4F2KNWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/5SRX7GQ23VCBLJ3JGIY4F2KNWA/</guid>
+      <dc:creator>용인=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:21:05 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2OD5JO45DOXFRSNQDRQ2VXYK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 경기 용인시 영동고속도로 강릉 방향 마성터널 내에서 초등학생들을 태운 소형 버스가 터널 벽을 친 뒤 넘어져 10대 남학생 2명이 중상을, 4명이 경상을 입었다./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 6시 기준 경기 평택·용인·안성·화성·오산 등 경기도 12개 시·군에 호우특보가 내려진 가운데, 용인시 영동고속도로 강릉 방향 마성터널 안에서 초등학생들을 태운 버스가 전도됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면, 이날 오전 9시 20분쯤 초등학생 18명과 운전기사 1명 등 19명이 탑승한 소형 버스가 터널 진입 후 약 400m 지점에서 미끄러지며 왼쪽과 오른쪽 벽을 연이어 들이받은 뒤 옆으로 넘어졌다. 당시 노면은 내린 비로 젖어 있었다.&lt;br&gt;&lt;br&gt;이 사고로 초등학생 2명이 중상을, 4명이 경상을 입고 인근 병원으로 옮겨졌다. 모두 안전벨트를 착용하고 있어 생명에는 지장이 없는 것으로 전해졌다. 부상 학생들은 한 축구클럽 소속으로, 지방 대회 출전을 위해 이동 중이었다.&lt;br&gt;&lt;br&gt;경찰은 운전자의 진술과 차량 블랙박스, 터널 내 보안 카메라 등을 토대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘팬한테 돈 빌리고 안 갚아’… 티아라 전 멤버 아름, 2심도 징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/EW4Q2YMUANHJDDAVW6QS2Y2T6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/EW4Q2YMUANHJDDAVW6QS2Y2T6Y/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:27:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GT2K2RWQ5VBRZP7DYJY5HGC7UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '티아라' 출신 아름. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 팬과 지인 등으로부터 수천만원의 돈을 빌린 뒤 갚지 않은 혐의를 받는 걸그룹 티아라의 전 멤버 이아름씨가 항소심서도 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소 5-1부(재판장 김행순)는 13일 사기 등 혐의로 기소된 이씨와 그의 남자친구 A씨의 항소심 선고 공판을 열고, 이씨에게 징역 4월에 집행유예 1년을, A씨에게는 징역 1년4월을 각각 선고했다. 앞서 1심은 이씨에게 징역 6월에 집행유예 2년을, A씨에게 징역 1년 6월을 각각 선고했는데, 형랑이 줄어든 것이다.&lt;br&gt;&lt;br&gt;이씨와 A씨는 팬과 지인 3명으로부터 3700만원 가량을 빌린 뒤 갚지 않은 혐의로 재판에 넘겨졌다. 피해자들은 지난해 3~5월 “이씨가 남자친구와 돈을 빌려 간 뒤 갚지 않고 있다”며 고소장을 냈다.&lt;br&gt;&lt;br&gt;이씨는 2012년 7월 걸그룹 티아라의 멤버로 합류해 활동하다가 2013년 탈퇴했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“에버랜드 폭파” 협박 팩스… 경찰, 현장 수색 중</title>
+      <link>https://www.chosun.com/national/incident/2025/08/14/CCS6HCBUSBAV5GPUQRB7RFS2GU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/14/CCS6HCBUSBAV5GPUQRB7RFS2GU/</guid>
+      <dc:creator>용인=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:31:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오전 경기 용인 에버랜드에 폭발물을 설치하겠다는 협박성 팩스가 접수돼 경찰이 긴급 수색에 나섰다.&lt;br&gt;&lt;br&gt;용인동부경찰서에 따르면 이날 오전 10시 48분쯤 대전출입국관리소에 ‘에버랜드를 폭파하겠다’는 내용의 팩스가 전달됐다. 경찰은 해당 신고를 접수하고 경찰특공대 등 인력을 현장에 투입해 폭발물 설치 여부를 확인하고 있다.&lt;br&gt;&lt;br&gt;현재 에버랜드는 신규 입장객의 출입을 통제하고 있으며, 기존 이용객들에게는 안내 방송을 통해 수색 상황을 알리고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “위험 요소가 발견될 경우 즉시 전체 대피 조치를 취할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>하차한 아동 친 뒤 깔고 지나간 학원차 운전기사 입건 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/RMIUM32Y4NFXRF7OH7H4H5RA3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/RMIUM32Y4NFXRF7OH7H4H5RA3Q/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:31:41 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5RT2TBGX3J3ZAMF6DDGL2HCZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학원 차량에서 내린 아동 2명이 해당 차량 앞을 지나다 바퀴에 깔리거나 치이는 사고가 났던 것으로 뒤늦게 확인됐다.&lt;br&gt;&lt;br&gt;13일 서울 서초경찰서는 지난 6월 사고를 낸 차량의 운전기사 A씨를 교통사고처리 특례법상 치상 및 업무상과실치상 혐의로 입건해 조사 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 사고는 지난 6월 16일 오전 9시 15분쯤 서울 서초구 반포동의 한 영어 학원 인근 주차장에서 일어났다. 차량에는 학원 아동 6명과 인솔 교사 1명, A씨가 타고 있었다. 차량 정차 후 하차해 학원 인솔 교사를 뒤따르던 아이들 중 맨 뒤에 있던 2명이 갑자기 전진한 차량에 치였다. 이들 중 1명은 운전석 바퀴 아래에 깔리면서 다리가 골절돼 치료를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;학원 측은 사고 나흘 뒤에야 학부모들에게 내부망을 통해 사고 사실을 알리고 “운전기사와 인솔 교사를 교체했다”고 공지했다. 피해 아동의 학부모는 A씨의 부주의로 사고가 발생한 것으로 보고, A씨를 경찰에 고소했다.&lt;br&gt;&lt;br&gt;학원 관계자는 “지속적으로 아이의 건강 상태를 살피며 필요한 조치를 취할 것”이라며 “전반적인 안전 관리 체계도 확실히 점검하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰도 울산 스토킹 살인미수범 신상공개 검토</title>
+      <link>https://www.chosun.com/national/regional/2025/08/14/CLJZ55ZC5JH2BI3EGSRXJPH4FU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/14/CLJZ55ZC5JH2BI3EGSRXJPH4FU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 04:49:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXDGK3P5XJM2DD2TKYW5F26TFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 북구의 한 병원 주차장에서 20대 여성에게 흉기를 휘둘러 살해를 시도한 혐의(살인미수)로 경찰에 체포된 30대 남성 A씨가 지난 달 30 울산지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 호송차로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 지난달 28일 스토킹하던 전 여자친구를 흉기로 수차례 찌른 혐의로 구속된 30대 남성에 대한 신상 공개를 검토하고 있다.&lt;br&gt;&lt;br&gt;그동안 우리나라에서 살인이 아닌 살인미수 혐의만으로 피의자 신상이 공개된 적은 없었다.&lt;br&gt;&lt;br&gt;울산지검에 따르면 이 사건 피의자인 A씨는 전 여자 친구인 20대 B씨를 수차례 흉기로 찔러 중태에 빠지게 한 혐의(살인미수)로 지난 4일 검찰에 구속 송치됐다. 검찰에 사건이 넘어가면서 피의자 신상 정보 공개 여부 권한도 검찰로 넘어갔다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 범행에 사용한 흉기를 집에서 챙겨 나온 점과 범행 장소였던 병원 주차장에서 수 시간을 기다렸다가 B씨에게 흉기를 휘두른 점, 범행 이후 차로 도주를 시도한 점 등을 이유로 이번 범행을 계획 범죄로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 수사 단계에서도 A씨에 대한 신상 정보 공개 심의가 언급됐으나, 당시엔 B씨 의식이 돌아오지 않아 “가장 중요한 피해자 의사를 파악할 수 없다”는 이유로 검토 단계에 그쳤었다.&lt;br&gt;&lt;br&gt;그러나 최근 B씨 상태가 일반 병실로 옮겨질 정도로 호전돼 검찰에서 신상 공개를 검토 중인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “관련 법령과 지침에 따라 신상공개를 검토 중”이라며 “당장 결과가 나오지는 않을 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“합법적인 다이어트 약입니다” 부정의약품 제조해 강남 유흥업소에 유통한 피의자 10명 검거</title>
       <link>https://www.chosun.com/national/national_general/2025/08/14/IOHFMLVFVFEONB3INVEXF6DXW4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/IOHFMLVFVFEONB3INVEXF6DXW4/</guid>
@@ -779,27 +883,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H2Y7QX7QVIKDPRTNECT2SIPUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 대국민담화문을 열고 '비상계엄'을 선포한 지난해 12월 3일 밤 서울역 대합실에서 시민들이 관련 뉴스를 시청하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 12·3 비상계엄 선포로 정신적 피해를 입은 시민들에게 손해배상을 해야 한다는 1심 판결에 대해 “위자료가 강제로 지급되는 것을 막아달라”며 낸 신청을 법원이 받아들였다. 이에 따라 윤 전 대통령은 공탁금 납부를 조건으로, 항소심 판결이 날 때까지 시민들에게 위자료를 지급하지 않아도 된다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사항소8-3부(재판장 신영희)는 윤 전 대통령이 신청한 강제집행 정지 신청을 12일 인용했다. 재판부는 “윤 전 대통령이 피신청인(시민)들을 위해 담보로 각 10만원을 공탁할 것을 조건으로, 항소심 판결 선고 시까지 강제집행을 정지한다”고 했다.&lt;br&gt;&lt;br&gt;지난달 25일 서울중앙지법 민사2단독 당시 이성복 부장판사는 윤 전 대통령이 시민들에게 10만원씩 배상하라고 판결하면서 배상액과 이자(연 12%)에 대해 가집행할 수 있다고 선고했다. 가집행은 판결이 확정되기 전이라도 일단 위자료를 지급하도록 하는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 같은 달 29일 1심 판결에 불복해 항소하면서, 항소심 판결이 나기 전까지 위자료가 강제로 집행되지 않게 멈춰달라는 강제집행 정지 신청도 함께 냈다. 법원은 윤 전 대통령이 시민 1인당 10만원을 공탁하는 것을 조건으로 강제집행을 정지하라고 결정한 것이다.&lt;br&gt;&lt;br&gt;한편 이 선고는 비상계엄 선포에 따른 일반 시민의 정신적 피해를 처음 인정한 판결로 주목을 받았다. 재판부는 “국민들인 원고들은 공포와 불안, 좌절감, 수치심으로 표현되는 고통과 손해를 입은 것이 명백하다고 보인다”며 “이들이 구하는 10만원 정도는 충분히 인정할 수 있다”고 했다. 판결을 선고한 이 전 부장판사는 이 판결을 끝으로 지난달 31일 정년 퇴임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>속초 오징어 난전, 이번엔 바가지 논란…“한 마리에 2만8000원”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/S7G3XICFEZF3TFAZEU4INX5OUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/S7G3XICFEZF3TFAZEU4INX5OUA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 06:11:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ7IBG3DONFFNG2Z2JY3H43ZNU.png"&gt;&lt;figcaption&gt;&lt;small&gt;강원 속초 오징어 난전에서 두 마리 5만6000원에 구매한 회./속초시청 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초시의 유명 포장마차촌 ‘오징어 난전’이 불친절 논란에 이어 이번에는 ‘바가지 가격’ 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;지난 8일 속초시청 홈페이지 자유게시판에는 ‘오징어 난전 갔다가 너무 화가 난다’는 제목의 글과 함께 사진 두 장이 올라왔다. 첫 번째 사진에는 오징어 난전 한 식당에서 먹은 오징어회, 두 번째 사진에는 난전 앞 횟집에서 먹은 오징어회 사진이 담겼다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “오징어가 많이 잡혀서 가격이 싸졌다는 말을 듣고 좋은 가격에 맛 좋은 오징어를 먹을 수 있을 것이란 기대감에 지인들과 오징어 난전을 찾았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QO42VRRRONCVRCVTAW6WERTLLU.png"&gt;&lt;figcaption&gt;&lt;small&gt;난전 앞 횟집에서 두마리 2만원에 구입한 회./속초시청 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 A씨에 따르면 현장 상인들은 “요즘 오징어가 안 잡힌다”, “오징어가 귀하다”면서 한 마리당 2만8000원을 불렀고, 한 마리만 판매하지 않겠다고 했다. A씨는 “(오징어 난전까지) 간 시간과 노력이 아까워서 두 마리를 5만6000원에 구매했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 이어 “몇 입 하지도 않았는데 ‘더 안 시키냐’ ‘술은 안 마실 거냐’고 하더라”며 “‘물티슈는 알아서 챙겨가라’고 하더라. 초장을 더 달라고 하니까 ‘더 시키지도 않을 건데 뭔 초장이냐’고 투덜거리길래 기분 나빠서 먹다가 그냥 나왔다”고 주장했다.&lt;br&gt;&lt;br&gt;또 “오징어 값이 많이 비싼가 했지만 난전 바로 앞 횟집에서는 2만원에 오징어 두 마리와 서비스 회까지 줬다. 믿지 못할까 봐 사진도 첨부한다”며 “오징어 난전의 5만 6000원 오징어와 불친절한 상인들을 이렇게 내버려두는 것이 맞나”라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 6월 오징어 난전의 한 가게 직원은 혼자 방문한 유튜버에게 음식이 나온 지 몇 분 지나지 않았을 시점인데도 불구하고 “이 아가씨야, 여기에서 먹으면 안 되겠니” “빨리 잡숴” 등 불친절한 발언을 한 사실이 최근 알려져 논란이 됐다. &lt;br&gt;&lt;br&gt;논란이 일자 상인들은 지난 8일 사과문을 발표하고 6일간 자체 영업 정지 등에 들어갔다. 또 운영회 측은 상인들 대상으로 ▲카드 결제 거부 ▲바가지요금 ▲고가의 음식 주문 강요 ▲식사 시간 재촉 등 반복적으로 제기되는 불친절, 불공정 영업 문제에 대한 특별 친절 교육도 진행했다.&lt;br&gt;&lt;br&gt;강원도는 이달 말까지를 휴가철 피서지 물가 안정 특별 대책 기간으로 정하고 숙박업소와 음식점 등의 가격·서비스 점검에 나선다. 콜센터(국번 없이 120)로 신고하면 해당 읍면동 직원이 30분 이내에 조처를 해주는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3RJMT3C2MRGHBJQI2Q32NUZFJY.png?auth=6c70f3340ed5a8cbaf1d5efbbb4677609f176668f2a11a72b878a022ebfc5085&amp;smart=true&amp;width=955&amp;height=537" type="image/png" height="537" width="955">
-        <media:description type="plain">강원 속초 오징어 난전에서 두 마리 5만6000원에 구매한 회./속초시 홈페이지</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“야구장서 시작된 인연, ‘만루 홈런’ 같은 네쌍둥이 찾아왔죠”</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/08/08/QTQNMMDEHJEOFG7LY6CVXEYLGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/08/QTQNMMDEHJEOFG7LY6CVXEYLGM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7QKMYNT45AF7FSC4LKLKIRAU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 정재룡(왼쪽)·가미소 부부가 네쌍둥이 남매를 안고서 활짝 웃고 있는 모습. 앞줄 맨 왼쪽부터 첫째 서하, 둘째 시하, 셋째 도하, 넷째 율하. 야구장에서 처음 만나 결혼을 하게 된 두 사람은 "아이가 한 번에 네 명이 생겼다. 만루 홈런을 친 것"이라고 했다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에 사는 정재룡(37)·가미소(34)씨는 7년 전 야구장에서 처음 만나 결혼에 성공한 부부다. 당시 두 사람이 응원하던 한화이글스가 LG트윈스에 4대12로 패해 기운이 쭉 빠지긴 했지만, 서로에게 호감을 갖게 되면서 연애를 시작했다. 결혼할 땐 청첩장에 ‘야구장에서 만난 우리. 서로에게 역전 만루 홈런 같은 행복이 되었습니다’라고 적기도 했다. 만루 홈런은 1·2·3루에 모두 주자가 있는 상태에서 타자가 친 홈런을 말한다. 성공하면 4점을 낼 수 있다.&lt;br&gt;&lt;br&gt;지난 1일 만난 아내 가씨는 “우리 부부는 아이가 한 번에 네 명이 생겼다. 만루 홈런을 쳤다”면서 웃었다. 부부는 작년 9월 네 쌍둥이 남매인 서하(아들)·시하(딸)·도하(아들)·율하(딸)를 품에 안았다. 네 아이 모두 개성이 다른 이란성이다. 남편 정씨는 “감정이 풍부하고 섬세한 첫째, 호기심 많은 둘째, 애교가 넘치는 셋째, 막내 티가 나서 귀여운 넷째와 하루하루 행복하게 지내고 있다”고 했다.&lt;br&gt;&lt;br&gt;애초 부부의 자녀 계획은 ‘0’명이었다고 한다. 아내 가씨는 “내가 누군가의 엄마가 된다는 게 상상이 안 되더라”며 “아이 키울 때 돈도 많이 들고 손도 많이 가니까 아이를 낳을 생각이 없다는 걸 먼저 밝히고 결혼했다”고 말했다. 그런 아내의 마음을 바꾸게 만든 건 남편의 행동이었다. 집안일 중 요리를 제외한 나머지 설거지, 청소, 침구 정리, 빨래 등은 남편이 도맡았다. 가씨는 “이런 모습을 3년간 한결같이 보여주니, ‘정말 가정적인 사람이구나, 아이 낳아도 괜찮겠다’는 생각이 들었다”고 했다. 남편 정씨는 “아빠로서 얼마큼 준비돼 있는지 보여준 게 우리가 아이를 잘 키울 수 있다는 자신감을 준 것 같다”고 했다. &lt;br&gt;&lt;br&gt;그리고 얼마 지나지 않아 가씨가 임신했다. 시험관 시술이나 인공수정은 아니었다. 부부는 처음 병원에서 “배아가 3개 보인다고 해 세 쌍둥이로 생각했다”고 한다. 하지만 그다음 주 진료 땐 ‘네 쌍둥이일 수 있다’는 안내를 받았다. 남편은 “당시 의사 선생님이 화면을 보여주면서 ‘하나, 둘, 셋, 넷’ 숫자를 세는데 이게 무슨 일인가 싶었다”고 했다. &lt;br&gt;&lt;br&gt;아내 가씨에게 ‘네 쌍둥이 출산이 무섭지 않았냐’고 물었더니 “주변에서 네 쌍둥이를 접해 보지 않아 어떤지 잘 몰랐다”면서 “모르니까 크게 무섭지 않았다”고 했다. 네 쌍둥이는 임신 기간 동안 가씨를 크게 걱정시키지 않았다. 배가 불러올수록 화장실을 자주 가고, 똑바로 누워 잘 수 없는 건 힘들었지만 다른 부분은 크게 어렵지 않았다고 한다. 다태아는 임신 호르몬이 더 많이 나와 입덧이 심할 수 있음에도 가씨는 못 먹는 음식이 거의 없었다. 또 다태아는 이른둥이가 많은데, 네 쌍둥이는 목표했던 30주보다 한 달 더 뒤인 34주까지 엄마 뱃속에서 건강하게 머물러줬다. 남편은 “보통 네 쌍둥이 엄마들은 배가 너무 무거워서 휠체어를 타고 다니기도 한다”며 “그런데 아내가 30주가 넘어서도 진료실에 아무렇지 않게 걸어 들어가니까 병원에서도 많이 놀라더라. 아이들이 엄마 고생 안 하게 도와준 거 같다”고 했다.&lt;br&gt;&lt;br&gt;육아로 매일이 전쟁 같긴 해도, 스트레스가 크지 않다고 한다. 부부는 “아이들의 조부모와 회사 동료 및 상사들 덕분”이라고 했다. 현재 남편 정씨는 근무 중인 LX하우시스에서 5000만원, 구본준 LX홀딩스 회장에게 1억원을 출산 격려금으로 받았다. 또 LX하우시스는 교대 근무를 하던 정씨를 주간 근무가 가능한 부서로 이동할 수 있게 배려해줬고, 바자회를 열어 모은 돈으로 아기들 침대와 책 등 육아용품을 선물로 주기도 했다. 정씨는 “아이들이 주변에서 정말 많은 사랑과 도움을 받았다고 생각한다”며 “아이들이 커서 그만큼 베풀 수 있는 사람이 됐으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;주변에서 네 쌍둥이와 부부를 향한 따뜻한 시선도 큰 힘이 된다고 했다. 아내 가씨는 “육아는 한 인간을 키워내는 굉장히 어려운 일인데도 불구하고 노고를 인정받지 못할 때 산후 우울증이 온다”며 “저는 네 쌍둥이여서 ‘잘하고 있다’는 칭찬을 많이 받아 우울감이 없는 것 같다. 우리 사회가 아이 한 명을 키우는 부부들에게도 그렇게 격려해주면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;부부는 “아이들을 보고 있으면 누구는 울고, 누구는 기어 다니느라 정신이 없다”면서도 “조금 더 크면 함께 야구장에 가고 싶다”고 했다. 부부는 네 쌍둥이 각자의 이름과 숫자 24가 박힌 주황색 한화이글스 유니폼도 마련했다. 가씨는 임신 기간 동안 야구장에 못 가는 대신 유튜브 ‘이글스티비’에 올라오는 선수들 영상, 한화이글스가 승리한 경기 하이라이트 장면들을 주로 봤다. 그래서인지 야구 경기를 틀어주면 아이들이 집중해서 잘 본다고 한다. 남편 정씨는 “네 쌍둥이는 저게 홈런인지 안타인지 모르지만 관중이 환호하고 박수치는 소리와 그 분위기를 좋아하는 것 같다”며 “6연석(붙어 있는 자리 6개)이 가능할지 걱정인데, 아이들과 같이 야구 보러 가는 날이 언제가 될지 기대된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;저출산고령사회위원회와 조선일보가 공동 기획합니다. 위원회 유튜브에서 관련 내용을 볼 수 있습니다. 아이들이 선물한 행복을 공유하고 싶은 분들은 위원회(&lt;/b&gt;&lt;a href="https://betterfuture@korea.kr/" rel="" title="https://betterfuture@korea.kr"&gt;&lt;b&gt;betterfuture@korea.kr&lt;/b&gt;&lt;/a&gt;&lt;b&gt;)로 사연을 보내주세요.&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>물 하루 2L씩 마시면 해롭다?… ‘저속 노화’ 박사까지 나선 수분 과잉 논란 </title>
       <link>https://www.chosun.com/national/national_general/2025/08/13/EYSRZWKPTJBC7D4OX2GCD433JM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/EYSRZWKPTJBC7D4OX2GCD433JM/</guid>
@@ -816,15 +899,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 04:41:01 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QDUALHLNP5B27PT6MA7CS76764.png"&gt;&lt;figcaption&gt;&lt;small&gt;시내버스에서 양산을 펼친 여성./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 시내버스 안에서 양산을 펼친 승객의 모습이 포착됐다. &lt;br&gt;&lt;br&gt;지난 11일 한 온라인 커뮤니티에는 ‘부산 시내버스 안에서 양산 쓴 아주머니. 생존 본능 vs 공공 매너’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “버스 안에서 한 아주머니가 양산을 펼쳐 쓰고 계셨다. 창문으로 강하게 햇볕이 들어오니 더위를 피하려고 그러신 듯했다”라며 사진을 공개했다.&lt;br&gt;&lt;br&gt;A씨는 “과연 더위를 피하기 위한 생존 행동일까 아니면 주변 승객을 전혀 배려하지 않은 이기적 민폐일까. 물론 햇볕이 비춰 더웠을 수 있지만 대중교통에서 양산을 펼치는 모습은 솔직히 좀 그렇다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 버스 창가 쪽에 앉은 한 여성이 검은 양산을 펼친 채 앉아 있다. 옆 좌석에 승객은 일행인지 여부는 알려지지 않았으나, 아랑곳하지 않는 모습이다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 엇갈린 반응을 보였다. 네티즌들은 “저런 사람이 다 있네. 진짜 한국 맞나” ”실내와 실외 예의를 구분 못 하는 사람들이 많아졌다" “타인에 대한 배려심이 없네” 등의 반응을 보였다. 일부는 “바로 옆 사람만 괜찮다면 이해가 된다” “물론 특이하긴 하지만, 이슈 될 만한 일은 아닌 것 같다”는 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 사상구 또 ‘폭삭’… 새벽시장 인근서 땅꺼짐</title>
-      <link>https://www.chosun.com/national/regional/2025/08/13/HAO62K3SOFGRPEIMW4MJULGS5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/13/HAO62K3SOFGRPEIMW4MJULGS5Q/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 04:45:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRHCKOZWOFDDLJONEHS4VLRVTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전 11시 6분쯤 부산 사상구 감전동 새벽시장 앞 도로에서 깊이 1m, 폭 3m의 싱크홀(땅꺼짐)이 발생했다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사상구에서 15번째 싱크홀(땅꺼짐)이 발생했다. &lt;br&gt;&lt;br&gt;12일 오전 11시6분쯤 부산 사상구 감전동 새벽시장 앞 도로에서 깊이 1m, 폭 3m의 싱크홀이 발생했다. 마침 지나가던 1t 트럭 뒷바퀴가 싱크홀에 빠지면서 소방 당국이 안전조치를 했다. 트럭 운전자는 다행히 크게 다치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;싱크홀 지점은 부산 도시철도 사상~하단선 공사 현장 부근이다. 이곳은 앞서 3년간 14차례나 싱크홀이 발생했다.&lt;br&gt;&lt;br&gt;앞서 부산시가 지난해 9월 싱크홀 관련 감사를 벌인 결과, 집중호우 외에도 부실한 시공과 감독에 그 원인이 있었다는 결과가 나왔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘카드 단말기 대여’… 군산시, 민생회복 쿠폰 부정사용 3건 적발</title>
@@ -845,15 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLH5TUEPR26TBRFEIOIU733TTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 폭동 사태 배후 수사를 하는 경찰이 최근 제기된 대통령실 배후 의혹도 함께 들여다보기로 했다. &lt;br&gt;&lt;br&gt;서울경찰청 안보수사과는 보수 유튜브 채널 ‘신의한수’ 운영자 신혜식씨로부터 과거 성삼영 당시 대통령실 시민사회수석실 행정관과 연락을 주고받은 휴대전화를 임의제출 방식으로 확보하기로 했다고 12일 밝혔다. 경찰은 내일 오후 신씨를 찾아가 문자와 통화 기록, 음성 녹음 등을 확보할 방침인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 신씨는 성 전 행정관과 나눈 통화녹음과 문자 내용을 공개하면서, 탄핵 정국에서 대통령실이 윤 전 대통령 지지자들을 조직적으로 동원하려 했다는 의혹을 제기했다. 경찰이 폭동 사태 배후 혐의(특수건조물 침입 교사 등) 피의자로 신씨를 압수수색한 직후였다. 신씨 측은 지난 10일 성 전 행정관을 비롯해 석동현·배의철 변호사 등 윤석열 전 대통령 변호인단과 윤상현 국민의힘 의원 등을 내란선동선전, 특수공무집행방해 교사 등의 내용으로 국민권익위원회에 신고하기도 했다.&lt;br&gt;&lt;br&gt;본지가 신씨에게 받은 통화 녹음과 문자 등에 따르면, 지난 1월 공수처가 윤 전 대통령에 대한 체포영장 집행을 시도했을 당시 성 행정관은 신씨에게 전화를 걸어 “경찰이 진입하지 못하게 차량을 놓아 달라” “애국 시민 1000여 명을 동원해 길을 막아 달라”고 요청했다. 실제 공수처가 1차 체포영장 집행할 당시 일부 지지자들은 차량 진입을 방해하거나 길가에 드러누워 공수처 측 인력 진입을 저지했었다. 경찰 관계자는 “대통령실 행정관 요청에 따른 것이라는 인과 관계가 입증될 경우 특수공무집행방해 교사 혐의로 처벌받을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰 ‘이춘석 차명거래 보좌관’ 소환... 오늘 새벽까지 6시간 조사 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/5F4OATILIBFV3CFRGMAA637I5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/5F4OATILIBFV3CFRGMAA637I5M/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 02:30:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4ST46V5WQFVOFAIAYL3R2R5UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 11일 오전 차명 주식거래 의혹을 받는 이춘석 의원 사무실 압수수색을 위해 서울 여의도 국회 의원회관 이 의원의 사무실로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이춘석 전 더불어민주당 의원의 주식 차명거래 의혹을 수사하는 경찰이 압수수색 직후 보좌관 차모씨 등 관계자들을 대거 소환해 조사했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 12일 차 보좌관과 의원실 관계자 등 8명을 전날 불러 조사했다고 밝혔다. 차 보좌관의 경우 전날 오후 7시쯤부터 이날 오전 1시쯤까지 약 6시간 동안 조사했다고 경찰은 설명했다. &lt;br&gt;&lt;br&gt;지난 4일 이 의원이 국회 본회의장에서 차 보좌관 명의로 주식을 거래하는 사진이 보도돼 논란이 일었다. 차 보좌괸은 이 의원과 함께 금융실명법 위반 및 이해충돌방지법 위반 등 혐의로 출국금지된 핵심 피의자다. &lt;br&gt;&lt;br&gt;경찰은 “확보된 압수물 및 차명 주식거래 의혹과 관련된 증권계좌 분석 등을 진행하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰·고용부, ‘감전 사고’ 포스코이앤씨 압수수색</title>
       <link>https://www.chosun.com/national/labor/2025/08/13/XTGAKBGBXVH3FP4P6NYRWX6M4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/13/XTGAKBGBXVH3FP4P6NYRWX6M4E/</guid>
@@ -863,45 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3UD6SWCHXWCV2O73T2AFQGOEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포스코이앤씨 송도사옥 앞 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부 안양지청과 경기남부경찰청은 포스코이앤씨 본사, LT삼보 서울 사무실 등을 압수수색 중이라고 12일 밝혔다. 이는 지난 4일 경기 광명시 포스코이앤씨 건설 현장에서 양수기 점검 중이던 미얀마 국적 노동자가 감전사 한 사고와 관련된 것이다.&lt;br&gt;&lt;br&gt;이날 압수수색은 사고 발생 8일 만이자 이재명 대통령의 건설면허 취소 방안 검토 지시가 나온 지 6일 만이다. 고용부 근로감독관과 경찰 등 총 70여 명이 압수수색 현장에 투입됐다.&lt;br&gt;&lt;br&gt;고용부는 지난달 30일 한솔제지 사건 때와 마찬가지로, 압수수색 사실 뿐 아니라 수사 범위와 향후 수사 의지 등까지 구체적으로 공지했다. 고용부 측은 “이번 압수수색을 통해 전기 누전에 의한 위험을 방지하기 위한 안전 조치가 제대로 이루어졌는지를 중심으로 면밀히 살펴볼 계획”이라며 “확보된 증거 자료를 바탕으로 사고의 원인을 철저하게 규명하는 한편, 산업안전보건법 위반 여부 등을 엄정, 신속하게 수사할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;고용부는 이날 포스코 그룹 관련 고용부 본부, 지방관서간 긴급 합동 수사전략 회의를 개최한 사실도 알렸다. 포스코 그룹에서 발생한 중대재해 대상으로 수사 쟁점 사항을 공유하고, 수사 관련 전략 수립에 나서기 위한 것이다. 강도 높은 수사가 진행될 것이라고 공표한 셈이다.&lt;br&gt;&lt;br&gt;지난 4일 광명시 옥길동 광명∼서울고속도로 연장공사 현장에서 30대 미얀마인 근로자가 지하 물웅덩이에 설치된 양수기 펌프를 점검하다 감전으로 추정되는 사고를 당해 현재까지 의식을 되찾지 못하고 있다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희 여사, 尹이 구속 심사 받았던 그 법정서 구속 심사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/M5AJAFPELVCTBFPTTMDHWTDBXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/M5AJAFPELVCTBFPTTMDHWTDBXE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 00:27:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TMDTXOGZZMUVB4CBYVVAJUKIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자본시장과 금융투자업에 관한 법률 위반, 정치자금법 위반, 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등의 혐의를 받는 윤석열 전 대통령 부인 김건희 씨가 12일 오전 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하며 취재진 질문을 듣고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 배우자 김건희 여사가 12일 법원의 구속영장 실질 심사를 받기 위해 법원에 출석했다.&lt;br&gt;&lt;br&gt;김 여사는 이날 오전 9시 27분쯤 서울중앙지법 청사에 도착했다. 머리를 하나로 묶고 검정색 정장을 입은 김 여사는 고개를 숙인 채 걸어서 법원 입구로 들어갔다. 지난 6일 특검 조사에 출석할 때와 마찬가지로 흰 셔츠에 검정색 치마 정장 차림에 검정 단화를 신고 왼손에 손가방을 들었다. &lt;br&gt;&lt;br&gt;김 여사는 “말씀하셨던 ‘아무 것도 아닌 사람’의 의미가 뭔가” “명품 선물 사실대로 진술한 것 맞나” “’김건희 엑셀 파일’을 본 적 있나” “명품 시계는 왜 사달라고 했나” 등 기자 질문에 아무 말도 하지 않았다. 청사에 들어선 김 여사는 보안검색대를 통과하기 전 취재진을 향해 한 차례 허리 숙여 인사한 뒤 법정으로 올라갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJPTTCB5ARIWFMJUDOW4R2UW3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 구속 전 피의자 심문(영장실질심사)을 받기 위해 서울 서초구 서울중앙지법에 출석하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정재욱 서울중앙지법 영장 전담 부장판사는 이날 오전 10시 10분부터 김 여사의 구속 여부를 결정하는 심사를 연다. 윤 전 대통령이 지난달 9일 구속 심사를 받았던 321호 법정에서 진행된다. 심사가 종료되면 김 여사는 서울남부구치소로 이동해 결과를 기다릴 예정이다. 결과는 이날 늦은 밤이나 새벽쯤 결정될 것으로 보인다. 구속영장이 발부되면 전직 대통령 부부가 동시에 구속되는 첫 사례가 된다. &lt;br&gt;&lt;br&gt;특검은 김 여사에 대해 도이치모터스 주가 조작(자본시장법 위반), 명태균 공천개입(정치자금법 위반), 건진법사 청탁(알선수재) 등 3가지 혐의로 구속영장을 청구했다. 특검에서는 이날 심사에 한문혁 부장검사 등 8명이 나선다. 김 여사가 측근들과 진술 맞추기를 하고, 윤 전 대통령이 파면된 직후 휴대전화를 교체하는 등 증거인멸의 우려가 크다고 강조할 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 여사 측에서는 유정화·채명성·최지우 변호사가 출석했다. 김 여사 측은 특검이 주장하는 혐의를 부인하는 한편 그동안 소환 조사에 성실히 임했고 도주 우려가 없다는 점, 건강이 좋지 않은 점 등을 강조할 것으로 보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5SDM5N4LBJBRASTRSJ25HI6IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자본시장과 금융투자업에 관한 법률 위반, 정치자금법 위반, 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등의 혐의를 받는 윤석열 전 대통령 부인 김건희 씨가 12일 오전 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GHOTEYUURJK75G33DP36CHYUQQ.jpg?auth=12933c2cea8f87310eafc10963a54d7a5a38a507ac4c2e4a2ba3d7641a2a2049&amp;smart=true&amp;width=2408&amp;height=1355" type="image/jpeg" height="1355" width="2408">
-        <media:description type="plain">자본시장과 금융투자업에 관한 법률 위반, 정치자금법 위반, 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등의 혐의를 받는 윤석열 전 대통령 부인 김건희 씨가 12일 오전 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. 2025.08.12 사진공동취재단</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김건희 구속 결정할 정재욱 영장전담 판사는 누구?…윤영호·이상민 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/BMICTVA72JHYHP7IIIV6RTZNFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/BMICTVA72JHYHP7IIIV6RTZNFM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 02:15:42 +0000</pubDate>
-      <content:encoded>김건희 여사의 구속 여부를 결정할 서울중앙지법 정재욱(55) 영장전담 부장판사는 부산진고와 경찰대 법학과(8기)를 졸업해 사법연수원 30기를 수료했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3EI2V4PFTMKY7IZ6FESWRNTN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오전 서울 서초구 서울중앙지법에서 열린 자본시장과 금융투자업에 관한 법률 위반 및 정치자금법 위반 등의 혐의 구속 전 피의자 심문(영장실질심사)에 출석하며 고개숙여 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한법률구조공단에서 변호사로 활동하다 2008년 부산지법 판사로 임관했다. 이후 울산지법, 수원지법 부장판사를 거쳐 올해 2월 서울중앙지법에 영장전담으로 부임했다. &lt;br&gt;&lt;br&gt;법원 안팎에서는 정 부장판사에 대해 “차분한 엘리트 판사”라는 평가가 나온다. 근무 연이 있다는 한 판사는 “정치 성향이 뚜렷하지 않고 회식 한 번 먼저 제안하지 않는 신중한 인물”이라며 “평소에도 외부 교류가 적은 편인데, 영장 전담을 맡은 뒤로는 약속을 더 줄인 것으로 안다”고 했다. 대학 후배인 한&lt;i&gt; &lt;/i&gt;판사도 “조용하고 차분한 성격에 재판도 꼼꼼히 하는 선배”라고 전했다.&lt;br&gt;&lt;br&gt;정 부장판사는 12일 오전 10시 10분부터 자본시장법 위반 등 혐의를 받는 김 여사의 구속 영장실질심사를 진행한다. 장소는 윤 전 대통령이 지난달 9일 구속 심사를 받았던 321호 법정이다. 구속 여부는 이르면 이날 밤 결정될 전망이다. 심사가 종료되면 김 여사는 서울남부구치소로 이동해 결과를 기다리게 된다.&lt;br&gt;&lt;br&gt;앞서 김 여사 관련 의혹을 수사 중인 민중기 특검팀은 지난 7일 김 여사에 대한 구속영장을 청구했다. 김 여사에 대한 구속영장이 발부된다면 전직 대통령 부부가 동시에 구속되는 첫 사례가 된다.&lt;br&gt;&lt;br&gt;정 부장판사는 지난달 30일 민중기 특검팀이 청구한 윤영호 전 통일교 본부장의 구속영장을 “증거 인멸과 도망 염려가 있다”며 발부했다. 지난 1일에는 내란 특검팀이 청구한 이상민 전 행정안전부 장관의 구속영장도 발부한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5인조 가상 아이돌 그룹, ‘스타트업 서울’ 홍보대사 됐다. </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/4M7MOMJLPJBUPPGELZIXSQPU7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/4M7MOMJLPJBUPPGELZIXSQPU7I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 02:14:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XHKLP2YTMTGBMWFX3DWHDZG2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가상 아이돌그룹 ‘플레이브(PLAVE)’. /블래스트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5인조 가상 아이돌 그룹 ‘플레이브(PLAVE)’가 12일 ‘스타트업 서울 홍보대사’로 위촉됐다.&lt;br&gt;&lt;br&gt;서울시는 이날 시청 본관 3층 대회의실에서 ‘2025 스타트업 서울 홍보대사’ 위촉식을 열고 서울의 스타트업·창업 생태계를 외국에 알리기 위해 이들을 홍보대사로 위촉했다고 밝혔다.&lt;br&gt;&lt;br&gt;플레이브는 예준·노아·밤비·은호·하민 5인조로 구성된 가상 아이돌 그룹이고, 플레이브의 소속사 블래스트는 모션 캡처 기반 3D 콘텐츠 제작 기술을 보유한 서울 소재 스타트업이다. &lt;br&gt;&lt;br&gt;플레이브가 지난 6월 발표한 일본 싱글 ‘카쿠렌보’는 발매 첫날 270만 스트리밍을 기록해 일본 노래 최초로 멜론 ‘명예의 전당’에 오르기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7U5QWJXIBITXCIPQ73AJR45VA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 12일 서울 중구 서울시청에서 열린 '버추얼 아이돌 플레이브 스타트업 서울 홍보대사 및 트라이 에브리씽 홍보단 위촉식에 앞서 버추얼 아이돌 플레이브와 기념촬영을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;플레이브는 지난 2023년 데뷔했으며 골든디스크(지난 1월)와 서울가요대상(지난 6월)을 수상하며 음악성과 대중성을 인정받았다. 플레이브는 이달 서울 콘서트를 시작으로 대만･도쿄･방콕 등 6개 도시에서 아시아 투어를 진행할 예정이다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 이날 위촉식에서 플레이브 소속사 대표에게 위촉장을 전달했고, 대형 스크린 속 가상 세계 ‘아스테룸’에서 플레이브 멤버들이 이를 실시간으로 수령했다.&lt;br&gt;&lt;br&gt;플레이브 멤버들은 “서울의 우수한 창업 생태계를 전 세계에 알릴 수 있는 기회를 주셔서 영광”이라며 “글로벌 팬들과 함께 서울의 매력을 널리 전하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘영장심사 출석’ 김건희 여사, 특검 출석 때와 같은 옷차림... 정장·가방·구두 모두 검은색</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/5UCFN55AL5BAPALDN5WELBPN5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/5UCFN55AL5BAPALDN5WELBPN5M/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 01:27:06 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 배우자 김건희 여사가 12일 구속영장 실질심사를 받기 위해 서울중앙지법에 출석했다. 김 여사는 지난 6일 서울 광화문에 있는 특검 사무실에 출석할 때와 같은 정장을 입은 차림이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMWGKICLWFOW7MBXZQ43OKZ3ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사는 특검 출석 때와 마찬가지로 검은색 투피스 정장에 흰색 셔츠를 받쳐입었다. 셔츠 단추는 목 끝까지 채웠다. 왼손에는 국산 중저가 브랜드의 9만8000원짜리 가방을 들었다. 이 가방은 이날 기준 3만원이 오른 12만8000원에 판매되고 있다.&lt;br&gt;&lt;br&gt;김 여사는 프랑스 명품 잡화 브랜드 ‘로저비비에’의 검은색 굽 낮은 단화를 신었다. 알려진 대로 통상적인 성인 여성의 평균 신발 사이즈(230~240mm)보다 커 보였다. 이 제품은 2022년 출시돼 현재는 단종됐으나, 해외 구매대행 사이트 등에서 62만원 대에 팔리고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2YUXZVL3NISHA22LHGUC4IUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자본시장법 위반, 정치자금법 위반, 특정범죄 가중처벌법상 알선 수재 혐의를 받고 있는 김건희 여사가 12일 오전 서울 서초구 서울중앙지방법원에 영장실질심사를 받기 위해 출석하고 있다. 2025.08.12 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사는 지난 소환 조사 때와 마찬가지로 머리는 한 갈래로 묶은 모습이었다. 영장실질심사가 종료되면 구치소 내 구인피의자 대기실로 이동해 심사 결과를 기다리게 된다. 이 곳에서는 이날 입은 옷을 입고 대기하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원 “‘서울의 봄 실존인물’ 故 김오랑 중령 유족에 국가가 배상해야”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/13/GQJGH4WKYNHN7HIIDRXKZHS75I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/GQJGH4WKYNHN7HIIDRXKZHS75I/</guid>
@@ -909,33 +935,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 01:15:24 +0000</pubDate>
       <content:encoded>12·12 군사반란 당시 반란군에 저항하다 숨진 고 김오랑 중령의 유족들에게 국가가 배상해야 한다는 1심 판단이 나왔다. 김 중령은 영화 ‘서울의 봄’에서 배우 정해인이 연기한 오진호 소령의 모티브가 된 인물이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DE5HBFNVONN4TIS5X7RQG7DH64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·12 군사반란 당시 전두환 전 대통령 측 신군부에 맞서 상관을 지키다 숨진 김오랑 중령의 추모식이 2023년 12월 12일 오전 경남 김해시 삼정동 삼성초등학교 옆 김 중령 흉상 앞에서 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사911단독 유창훈 부장판사는 12일 김 중령의 누나인 김쾌평씨 등 유족 10명이 국가를 상대로 낸 손해배상 청구 소송에서 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;김 중령은 1979년 12·12 군사반란 당시 정병주 육군특전사령관의 비서실장으로, 12월 13일 새벽 정 사령관을 불법 체포하기 위해 난입한 반란군 측과 교전하다 현장에서 숨졌다. 사건 직후 반란군은 김 중령의 선제 사격에 대응한 것이라고 왜곡했고, 이에 김 중령의 사망은 ‘직무 수행이나 훈련 중 사망’하는 것을 뜻하는 순직으로 기록됐다. &lt;br&gt;&lt;br&gt;43년 뒤인 2022년 9월 군 사망사고 진상규명위원회의 조사 결과, 반란군이 총기 난사하며 정 사령관을 체포하려 하자 이를 저지하는 과정에서 김 중령이 대응 사격했고 이에 반란군이 총격해 피살된 것으로 확인됐다. 이에 따라 김 중령의 사망은 순직이 아닌 ‘전사’로 바로 잡혔다.&lt;br&gt;&lt;br&gt;이후 유족 측은 김 중령의 사망에 대한 책임 뿐만 아니라 사망 경위를 조작 및 은폐한 국가에 책임을 묻겠다며 작년 6월 이 소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희, 尹 영장심사했던 법정으로 변경…박근혜·이명박도 거쳐가</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/QTOWPQOTJNA6JJRRNXXVBXPMDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/QTOWPQOTJNA6JJRRNXXVBXPMDM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 01:42:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66QYIGZXQ5FGS6TCVPF2CEFCJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오전 서울 서초구 서울중앙지법에서 열린 자본시장과 금융투자업에 관한 법률 위반 및 정치자금법 위반 등의 혐의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 구속 여부를 결정하는 법원의 영장 실질심사가 12일 오전 시작됐다. 정재욱 서울중앙지법 영장 전담 부장판사는 이날 오전 10시 10분쯤 321호 법정에서 김 여사의 구속 심사를 시작했다.&lt;br&gt;&lt;br&gt;애초 서울중앙지법은 김 여사 구속 심사를 319호에서 진행한다고 공지했으나 이날 오전 법정이 321호로 변경됐다. 321호는 지난달 9일 윤석열 전 대통령이 구속 심사를 받은 곳이기도 하다. &lt;br&gt;&lt;br&gt;이명박·박근혜 전 대통령도 이 법정에서 구속 심사를 거쳐 구속됐다. 서울중앙지법은 2018년 3월 22일 뇌물 수수·다스 횡령 등 혐의로 구속영장이 청구된 이 전 대통령에 대해 321호 법정에서 심사를 진행하고 당일 밤 구속 영장을 발부했다. 다만 이 전 대통령은 심사에 직접 출석하지는 않았다. 박 전 대통령은 2017년 3월 30일 이 법정에서 8시간 40분의 장시간 구속 심사를 직접 받고 이튿날 구속됐다.&lt;br&gt;&lt;br&gt;서울중앙지법이 구속영장 실질 심사에 쓰는 법정은 319호와 321호 두 곳이다. 두 법정의 면적은 같고 모두 대기 공간이 있으나 321호는 복도 끝에 있어 보안에 더 유리하다. 심사가 길어질 경우 대기 공간에서 점심 식사를 하거나 중간 휴정 시간에 휴식을 취하게 된다. 구속 전 피의자에 대한 영장 실질심사는 비공개가 원칙으로, 사건 관계자 외에 외부인은 법정에 들어갈 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤석열 전 대통령 수감 “서울구치소 폭파” 50대 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/6XJYSVOUH5EYRGWHO6SYDUBODU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/6XJYSVOUH5EYRGWHO6SYDUBODU/</guid>
-      <dc:creator>안양=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 00:58:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6WTOBED3BGJXIYYETVKSAJOZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안양만안경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 수감 중인 서울구치소를 폭파하겠다고 협박한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 안양만안경찰서는 공중협박 혐의로 A씨 긴급체포했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 4시 27분쯤 경찰민원콜센터에 전화해 “윤석열 전 대통령이 있는 서울구치소에 뭐라도 가져가서 폭파하겠다”고 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;전화를 받은 콜센터 상담원이 이 같은 내용을 112에 신고했다. 경찰은 신고 접수 50여분 만인 이날 오전 5시 18분쯤 안양시 A씨 지인 주거지 인근 노상에서 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 범행 동기 등 자세한 사건 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘8월의 장마’ 내일 수도권 비롯한 중부지방에 거센 비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/13/ELPVRWBWKZEEJJBMMR35BQZQVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/13/ELPVRWBWKZEEJJBMMR35BQZQVE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 00:58:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPCZPSTLDVP42PXCO6CIZ7OU4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘8월의 장마’가 전국을 적시고 있다. 13일은 수도권을 비롯한 중부지방을 중심으로 거센 비가 예고됐다.&lt;br&gt;&lt;br&gt;12일 기상청에 따르면, 북태평양고기압 가장자리를 따라 들어오는 고온다습한 공기와 북쪽 한랭건조한 공기가 충돌, 정체전선을 만들며 이날 제주와 남부지방에 비가 이어지겠다.&lt;br&gt;&lt;br&gt;이날 오후 비는 제주와 남부에서 소강상태를 보이겠으나, 충청권에 비가 내리기 시작하겠다. 12일 예상 강수량은 광주·전남·부산·울산·경남 5~40㎜, 전북·대구·경북·울릉도·독도·제주 5~20㎜, 충청 5~10㎜ 등이다.&lt;br&gt;&lt;br&gt;수요일인 13일에는 북태평양고기압 세력 확장에 따라 정체전선이 북상하면서 중부지방을 중심으로 많은 비가 내리겠다. 비는 13일 오전에 한 차례 퍼부은 뒤 소강상태를 보이다가 이날 밤 정체전선이 다시 활성화 되면서 재차 거세게 쏟아지겠다. 이때 수도권을 중심으로 시간당 30~50㎜의 집중호우가 쏟아질 것으로 보인다.&lt;br&gt;&lt;br&gt;13~14일 예상 강수량은 수도권 50~150㎜, 강원도·충남북부·충북중부·충북북부 30~100㎜, 대전·세종·충남중부·충남남부·충북남부 10~60㎜, 남부지방 5~40㎜, 제주 5∼20㎜로 예보됐다.&lt;br&gt;&lt;br&gt;이번 비는 주로 장마철에 나타나는 정체전선에 의한 비다. 뒤늦게 다시 장마가 온 것 같은 비가 내리는 것은 느슨해진 제트기류의 영향으로 분석된다. 온난화 여파로 북쪽 찬 공기를 막아주던 제트기류가 느슨해지며 한랭건조한 바람이 내려와 정체전선을 만들고 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“아들이 최고? 이젠 딸바보”… 한국 ‘여아 선호’ 세계 1위 찍었다 </title>
