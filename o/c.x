@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신임 기상청장에 이미선…첫 여성 청장 탄생</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 10:01:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2ADWUAOKXZF6QXQAADCUVYMC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이미선 신임 기상청장. /기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청 신임 청장에 이미선(59) 수도권기상청장이 임명됐다. 기상청 최초의 여성 청장이다.&lt;br&gt;&lt;br&gt;이미선 청장은 1966년생으로 1989년 이화여대 과학교육과를 졸업한 뒤 서울대에서 대기과학 석·박사를 받았다.&lt;br&gt;&lt;br&gt;1999년 기상청에 입직해 총괄예보관, 예보정책과장, 국가기상위성센터장, 관측기반국장, 지진화산국장, 광주지방기상청장, 기후과학국장, 수도권기상청장 등을 거쳤다.&lt;br&gt;&lt;br&gt;특히 기후변화 분야에서 손 꼽히는 전문가다.&lt;br&gt;&lt;br&gt;강유정 대통령실 대변인은 이날 이 청장에 대해 “국민안전을 위협하는 각종 기후위기 현상을 탐지하고 과학적인 예측정보로 국민생명 보호에 기여할 경륜 있는 기상전문가”라고 소개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 통일교 지구장 소환조사...‘불법 정치자금 조사’</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/7UGOXLFIGBDBLL27SJ6B74HQAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/7UGOXLFIGBDBLL27SJ6B74HQAU/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 09:25:26 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 각종 의혹을 수사하고 있는 민중기 특별검사팀이 2022년 당시 통일교(현 세계평화통일가정연합) 내 5개 지역별 지구장을 맡았던 담당자들을 소환조사한 것으로 파악됐다. 특검은 이들을 불러 교단 내 선교 자금이 불법 정치자금으로 쓰였는지 등을 물은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZEGUQ3Y7RPM3GM2KEHZSE6UY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 경기 가평군 통일교 천원궁(아래부터), 천승전, 천정궁박물관 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면 최근 특검은 2022년 대선 기간 당시 통일교 내 5개 지역별 지구장들을 소환조사했다. 통일교는 국내를 서울·인천, 경기·강원, 충청, 전라, 경상 지역으로 나눠 관리하는 것으로 알려졌는데, 지구장은 각 지구를 책임지고 있는 담당자다. 권성동 국민의힘 의원에게 현금 1억원과 ‘건진 법사’ 전성배씨에게 고가의 선물을 건넨 혐의 등으로 구속된 전 세계본부장 윤영호씨는 각 지구를 관리하는 역할도 맡았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 지구장들을 불러 당시 선교 자금이 불법 정치 자금으로 쓰였는지 등을 조사한 것으로 전해졌다. 앞서 특검은 지난달 30일 구속된 윤씨의 구속영장 청구서에 ‘윤씨가 2022년 1월 5일 권 의원에게 윤석열 대선 후보를 위해 사용하라는 취지에서 현금 1억원을 공여한 혐의(정치자금법 위반)가 있다’는 내용을 적시한 것으로 알려졌다. 특검은 윤씨가 전씨에게 캄보디아 메콩강 개발 사업(ODA) 수주 지원 등 통일교 현안을 청탁하면서, 김 여사에게 전해달라며 준 명품 목걸이 등이 실제 김 여사에게 전달됐는지 의심하고 있기도 하다.&lt;br&gt;&lt;br&gt;윤씨는 이 같은 의혹에 대해 ‘윗선’의 지시가 있었다고 특검 조사에서 진술한 것으로 알려졌다. 통일교 측은 “윤씨 개인의 일탈”이라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검 “金 여사, 내일 조사 응할 예정"</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/VKFNUFM4QRFSVI6SUZ3LIQBG3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/VKFNUFM4QRFSVI6SUZ3LIQBG3A/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 08:31:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HES3NOSNOISZZJ4YVXY4BOOGBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지방법원에서 자본시장법과 알선수재, 정치자금법 위반 혐의에 대한 구속 전 피의자 심문(영장실질심사)을 마치고 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 밤 구속된 윤석열 전 대통령 배우자 김건희 여사가 오는 14일 민중기 특별검사팀의 두 번째 소환 조사를 받을 예정이다. 당초 김 여사의 건강 악화로 여사가 특검의 소환에 응할지 여부가 불투명했는데, 출석 의사를 밝히면서 특검은 계획대로 수사에 속도를 낼 수 있게 됐다. &lt;br&gt;&lt;br&gt;13일 특검은 “서울남부구치소로부터 내일 오전 10시 김건희씨가 특검사무실에 출석 예정이라는 통보를 받았다”고 밝혔다. 김 여사는 현재 남부구치소 독방에 수용돼 있어, 특검 조사를 받을 경우 법무부 호송차를 타고 특검 사무실이 있는 서울 광화문 KT웨스트빌딩까지 이동하게 된다. 교정 당국의 협조가 필요한 만큼 특검 측은 구치소 측과 김 여사 출석 여부를 두고 소통한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 6일 김 여사에 대한 첫 소환 조사를 진행했고, 하루 만인 7일 김 여사에 대한 구속영장을 청구했다. 지난 12일 구속영장실질심사를 한 법원은 “증거 인멸의 염려가 있다”며 김 여사의 구속영장을 발부했다. 전직 대통령의 배우자가 구속된 사례도, 전직 대통령 부부가 동시에 구속된 사례도 모두 처음이다. 현재 윤 전 대통령은 서울구치소에 수용돼 있다. &lt;br&gt;&lt;br&gt;특검은 김 여사의 신병을 확보한 만큼 속도감 있게 남은 의혹들을 규명해나갈 방침이다. 특검이 청구한 구속 영장에는 도이치모터스 주가조작, 명태균씨 공천 개입, 건진법사 청탁 등 세 가지 의혹과 관련한 범죄 혐의가 적시됐다. 특검법은 앞선 의혹들 외에도 ‘양평 고속도로 종점 노선 변경’ ‘양평 공흥지구 개발 특혜’ ‘대통령실 관저 이전’ 등 총 16개 의혹을 수사 대상으로 규정하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, ‘바쉐론 시계’ 영장심사서 증거인멸 정황으로 제시</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/6DZD3MRHVZBRBI4XG6BQG6YG2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/6DZD3MRHVZBRBI4XG6BQG6YG2Y/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 08:57:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5S2W3ZUGW5ODRAACCC2OFTC7ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2022년 6월 29일(현지시각) 스페인 동포 초청 만찬간담회에 참석한 김건희 여사의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사의 영장실질심사에서 스위스 최고급 시계 브랜드 ‘바쉐론 콘스탄틴’ 시계를 주요 증거인멸 정황으로 제시한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;13일 법조계에 따르면 전날 특검은 서울중앙지법에서 열린 영장실질심사에서 김 여사가 증거 인멸 가능성이 크다고 주장하며 바쉐론 콘스탄틴 시계에 관한 수사 내용을 언급했다. 특검은 시계 구매자로 알려진 사업가 서모씨의 진술조서 또한 제시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 서씨로부터 시계를 받은 대가로 사업상 편의를 제공한 게 아닌지 의심하고 있다. 특검은 지난달 25일 김 여사의 오빠 김진우씨의 장모 집을 압수 수색하면서 이 시계의 상자와 정품 보증서를 발견했지만 실물은 확보하지 못했다. 특검은 김 여사가 시계 실물 등 증거 인멸 가능성이 있다며 변론한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 심사에서 김 여사가 2022년 6월 북대서양조약기구(NATO· 나토) 회의 당시 착용한 것으로 알려진 ‘반 클리프’ 목걸이 진품과 모조품도 제시했다. 김 여사는 지난 6일 특검 조사에서 해당 목걸이가 20년 전 홍콩에서 구매한 모조품이라고 주장했는데, 특검은 최근 서희건설로부터 “김 여사에게 목걸이를 선물했고 몇 년 후 돌려 받았다”는 내용이 담긴 자수서를 제출 받았다. 서희건설 측은 목걸이 진품도 함께 제출했다. 특검은 심사에서 목걸이를 제시하며 김 여사가 거짓 해명을 했다고 강조한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>요새 워 하고 지내? [윤평중의 지천하 33]</title>
+      <link>https://www.chosun.com/national/weekend/2025/08/09/LSYN4JZRINCHPOLFBY2ALSZU7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/08/09/LSYN4JZRINCHPOLFBY2ALSZU7U/</guid>
+      <dc:creator>윤평중·한신대 철학과 명예교수</dc:creator>
+      <description/>
+      <pubDate>Fri, 08 Aug 2025 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7M6TVGSTVEFVKLSFRVQ5ZH7LU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=유현호&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴직 후 4년이 지나 명실상부한 ‘백수’ 반열에 오르자 좋은 점이 있다. 가장 홀가분한 건 ‘형식적 모임’에 불참할 자유다. 재직 중에도 학교와 집을 시계추처럼 왕복하던 생활이었지만 퇴임 후 대학 강의를 고사하자 일상이 더 단순해졌다.&lt;br&gt;&lt;br&gt;지인이 ‘퇴직 후 상실감은 없는지’ 물은 적이 있다. 정부 고위직이나 회사 대표를 지내던 이들이 갑작스러운 은퇴 후 상담 치료를 받는 등 힘들어하더라는 전언을 곁들여서다. 평생 바쁘게 살던 분들이 하루아침에 사회적 관계가 증발할 때 느낄 충격은 짐작이 간다. ‘번듯한 명함’이 인간관계를 규정하곤 하는 한국 사회에선 더욱 그렇다. ‘백수가 과로사한다’는 농담을 주고받을 정도로 분주한 퇴직자가 적지 않은 것도 그런 상실감을 메우기 위한 것일 수 있다.&lt;br&gt;&lt;br&gt;학교 선생으로 평범하게 지냈고 평생 ‘혼자 놀기’에 익숙한 내 생활 방식과는 전혀 다른 세상 이야기다. 정년이 가까워지면서 강의와 글쓰기를 줄여가던 나로선 스스로에게 집중하는 시간이 오히려 풍요롭게 느껴졌다. 지금도 나는 ‘홀로 충만하게’ 지내는 능력이야말로 좋은 삶의 잣대라고 여긴다. 연금 생활자의 ‘배부른 소리’일 수 있지만 100세 시대 인생 삼모작을 충실히 준비하는 건 정말 중요한 문제다. 중·노년 퇴직자에게 닥친 인생 3대 도전은 빈곤과 질병, 그리고 권태일 터.&lt;br&gt;&lt;br&gt;80대 초반 친형님은 나이를 무색하게 하는 열혈 노(老)청년이다. 오랜 친구들끼리 수십 년 이어온 모임이 여럿이다. 팥칼국수 먹는 ‘팥칼’ 모임, 청계산 등산 모임, 성경 공부 모임 등 늘 활동적이다. 모임 회비는 최근 물가 폭등으로 수십 년간 유지해 오던 만원에서 만오천원으로 ‘대폭’ 올렸다고 한다. 예리한 판단력과 구수한 유머를 합친 달변의 형님은 내겐 영원한 멘토다.&lt;br&gt;&lt;br&gt;다음은 그 형님한테 들은 유머. 오랜 친구인데 최근 몇 년간 소식이 뜸하던 친구와 어느 날 연락이 닿았다. 형님이 가볍게 물었다. “요새 뭐 하고 지내?” 형님 친구가 답변한다. “응, 작년에 하던 일 계속하고 있지!” 너무나 자연스러운 친구 대답에 형님이 궁리한다. ‘얘가 작년에 무슨 일을 했더라?’ 아무리 생각해도 영 떠오르는 게 없다. 그래서 어쩔 수 없이 묻는다. “응, 네가 작년에 무슨 일을 했지?” 형 친구 왈. “응, 놀았지!”&lt;br&gt;&lt;br&gt;가가대소하지 않을 수 없었다. 이 유머 저작권이 형님 친구분에게 있든 다른 데서 왔든 절묘한 한국어 말놀이가 아닐 수 없다. ‘노는 것’과 ‘일하는 것’의 의미 연관은 180도 달라서 서로 빛과 그림자처럼 충돌한다. 그것을 ‘변증법적으로’ 뒤섞고 비틀어 갑작스러운 반전으로 상쾌한 웃음을 유발한다. 놀 때조차 일중독 강박증에 시달리는 한국 사회의 빈곤한 마음의 습관을 돌아보게 하는 멋진 해학이다.&lt;br&gt;&lt;br&gt;치열하게 살던 내 친구들도 70대가 되자 대부분 퇴직했다. 매달 한 번 만나는 아침 모임 친구들에겐 우연한 공통점이 있다. 개인 취향이지만 다들 술 담배와 골프를 안 하면서도 활발하게 지낸다. 이들은 매일 동네 복지관에서 ‘운동’하고 강좌에 ‘참여’한다. 곳곳을 지하철로 다니면서 무료 강연과 전시회에서 ‘공부’하고 ‘기록’한다. 전문 병원에서 ‘봉사’하는 친구, 시청에서 매해 분양하는 몇 평 텃밭 농사에 땀 흘리며 ‘몰두’하는 친구도 있다.&lt;br&gt;&lt;br&gt;보람 있고 좋아하는 ‘활동’에 각자 방식대로 ‘몰입’하는 일상은 퇴직한 백수를 자유인으로 승격시키는 놀라운 삶의 비밀이다. 백수인 내게도 사람들이 묻곤 한다. “요새 뭐 하고 지내?” “작년에 하던 일 계속하고 있지!”가 내 대답이다. 작년에 내가 무슨 ‘일’을 했느냐고? 물론 계속 열심히 놀았다!&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰청, AI 내장된 보디캠·마약 검사 키트 등 개발 나선다</title>
       <link>https://www.chosun.com/national/national_general/2025/08/14/EJZETF6RCNFYXIWOEJEWIFDAOU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/EJZETF6RCNFYXIWOEJEWIFDAOU/</guid>
@@ -866,15 +911,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNJWQKFIKVKAVGT2N72PIPVHL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 '집사'로 알려진 김예성 씨가 12일 인천국제공항을 통해 입국하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀이 12일 김 여사의 ‘집사’로 지목된 김예성 씨를 체포했다. 김 씨는 이날 인천국제공항을 통해 입국하면서 “불법적이거나 부정한 일에 연루된 바 없다”며 “특검에 최대한 협조하고 성실히 조사 받겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 이날 오후 6시 15분쯤 인천국제공항에서 김 씨를 체포하고 업무상 배임 등 혐의로 체포해 광화문 사무실로 압송했다. 체포영장은 김 씨가 탑승한 항공편이 공항에 착륙한 직후 집행된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 씨는 특검 관계자들과 함께 입국장을 나오면서 취재진에게 “특검 수사에 최대한 협조하겠다”고 말했다. 다만 ‘김 여사와 경제공동체 관계를 인정하느냐’ ‘김 여사와 인연이 2018년부터 끊겼다고 했는데 따로 접촉한 사실은 없느냐’ ‘김 여사와의 친분을 이용해 투자 받은 사실이 없느냐’ 등 취재진 질문에는 답변하지 않았다.&lt;br&gt;&lt;br&gt;앞서 김 씨는 귀국을 앞두고 동아일보·KBS 등과 진행한 베트남 현지 인터뷰에서 자신을 향한 ‘김 여사 일가의 집사’란 지칭과 각종 의혹들을 부인했다.&lt;br&gt;&lt;br&gt;김 씨는 먼저 자신이 김 여사의 최측근으로 분류되는 것에 대해 “(김 여사와는) 2018년 이후 왕래가 없었다”고 했다. 김 씨는 김 여사의 모친인 최은순 씨의 잔고증명서를 대신 위조해준 혐의로 2021년 12월 징역 6개월 집행유예 2년을 선고 받는 등 김 여사 일가와 가까운 사이로 알려져 있지만, 사실이 아니라는 것이다. 김 씨에 따르면, 잔고증명서 위조 사건이 세간에 알려진 2018년 김 여사가 김 씨에게 전화로 역정을 냈고, 그 이후로 관계가 소원해졌다고 한다. 그는 또 윤 전 대통령이 대통령에 당선된 이후에도 교류 자체가 미미했다고 했다.&lt;br&gt;&lt;br&gt;김 씨는 김 여사와의 친분을 내세워 IMS모빌리티에 184억원 규모 대기업 투자를 유치하고, 지난 2023년 IMS모빌리티 지분을 매각해 벌어들인 46억원을 김 여사와 공유했다는 의혹에 대해서도 부인했다. IMS모빌리티는 김 씨가 설립에 관여한 렌터카 업체다. &lt;br&gt;&lt;br&gt;그는 “당시 저는 회사를 나온 상태라 어떤 기업이 투자를 논의하고 있는지 알지 못했다”며 “기업들이 인기 없는 정권에 줄을 대겠다고 보험성 투자를 한다는 것도 이해가 가지 않는다”고 했다. 46억원의 행방에 대해서는 “46억원 중 약 7억 원은 세금으로 냈고, 35억3000만원 가량은 조영탁 IMS모빌리티 대표에게 빌려줬다”고 덧붙였다. 이와 관련해 김 씨는 당시 대통령실 공직기강비서관실 조사도 받았다고 했다.&lt;br&gt;&lt;br&gt;김 씨는 도피성 출국 의혹도 부인했다. 그는 윤 전 대통령이 탄핵된 지난 4월 베트남으로 출국해 도피 의혹이 제기됐다. 그러나 김 씨는 “‘12·3 비상계엄’ 전부터 사업을 위해 베트남 이민을 계획했다”고 말했다. 또 특검이 자신과 연락이 닿지 않아 체포영장을 청구한 것이란 주장에 대해서는 “(특검 측으로부터) 연락 한 통 온 적 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>백령도 레미콘 공장 슬러지 불법 배출 고발장…경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/08/13/3IZ4NX2GLFH6DB4CMEKE6KQUNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/13/3IZ4NX2GLFH6DB4CMEKE6KQUNA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 09:31:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXHHJ2BYFKEWN2YLUHZFQH5SOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서해 최북단 인천 백령도에서 레미콘·아스콘 생산 업체가 원자재 가루 등 슬러지(찌꺼기)를 외부로 불법 배출했다는 고소장이 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 물환경보전법과 폐기물관리법 위반 등 혐의로 인천 백령도의 레미콘·아스콘 생산 업체 대표 A씨를 불구속 입건했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;백령도 주민 35명이 검찰에 고발장을 접수했고, 경찰이 사건을 넘겨받은 상태다. &lt;br&gt;&lt;br&gt;주민들은 고발장에서 “이 업체가 2001년 12월부터 레미콘 생산과정에서 발생한 슬러지를 백령면 가을리의 인근 하천에 불법 방류했다”고 주장했다. &lt;br&gt;&lt;br&gt;경찰은 조만간 고발인인 주민들과 피고발인인 A씨를 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;관련 민원을 접수한 옹진군은 현장 확인 후 최근 물환경보전법 위반으로 해당 업체에 과징금 1070여만원을 부과했다. &lt;br&gt;&lt;br&gt;옹진군은 해당 업체 공장 내 골재나 시멘트 등 자재 관리가 제대로 되지 않아, 쌓여있던 분진 등이 비가 내렸을 때 인근 하천으로 쓸려 내려가는 일이 반복된 것으로 보고 있다. &lt;br&gt;&lt;br&gt;옹진군 관계자는 “장비가 들어갈 수 있는 지역은 오염물질을 걷어낸 상태고, 농사 등을 이유로 들어갈 수 없는 곳은 추수 후 (오염물질을) 치우기로 했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 여사 최후진술서 “결혼 전 문제까지 거론돼 속상”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/13/BO46VXGT5JBQHCU5SXDIFSAQ54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/BO46VXGT5JBQHCU5SXDIFSAQ54/</guid>
@@ -882,24 +918,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 08:50:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBOEC6U2FSD2UAXBALWPHKFBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 영장실질심사를 마치고 나오고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사가 12일 자신의 구속 여부를 결정할 영장실질심사에서 “결혼 전 문제들까지 계속 거론되고 있어 속상하다”는 입장을 밝힌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 이날 서울중앙지법 321호에서 정재욱 영장 전담 부장판사 심리로 열린 영장 심사에서 최후진술을 통해 윤석열 전 대통령과 결혼 전 개인사가 공개된 것에 대한 속상함을 토로한 것으로 전해졌다. 김 여사는 “판사님께서 잘 판단해 주십사 부탁드린다”며 최후 진술에서 20~30초 가량 짧은 입장을 밝혔다고 한다.&lt;br&gt;&lt;br&gt;김 여사가 최후 진술에서 언급한 ‘결혼 전 문제’는 ‘도이치모터스 주가조작 의혹’ 사건으로 풀이된다. 김 여사는 도이치모터스 주가조작 사건에 돈을 대는 ‘전주(錢主)’로 가담한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;특검은 김 여사 구속영장 청구서에 김 여사가 총 36억원 상당의 증권 계좌를 제공하는 방식으로 권오수 전 도이치모터스 회장 등 주가조작 세력의 범행에 가담했다고 적시한 바 있다. 그러면서 김 여사가 2010년 10월부터 2012년 12월까지 고가·허수 매수 등 3832차례 통정 거래와 이상 거래를 통해 8억1144만3596원의 수익을 얻었다고 봤다. 김 여사가 윤 전 대통령과 결혼한 시기는 2012년 3월이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YF5O7INTUWQ4LRLNF7IBMHFI7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사의 영장실질심사는 이날 약 4시간 25분간 이뤄졌다. 특검은 두 차례에 걸쳐 법원에 제출한 848쪽 분량의 의견서에 김 여사가 증거인멸을 할 우려가 크다는 점을 강조한 것으로 전해졌다. 이에 김 여사 측 변호인은 김 여사가 그간 특검 조사에 성실히 임했고 도주할 이유가 없다는 점, 건강상 문제 등을 언급한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 여사의 구속 여부는 이르면 이날 늦은 오후 또는 다음날 새벽에 나올 전망이다. 김 여사는 서울 구로구에 위치한 서울남부구치소에서 대기하며 결과를 기다리고 있다. 구속 여부가 결정되기 전까지는 독거실이 아닌 구인 피의자 대기실에 머무른다. 인적사항을 확인한 뒤 휴대전화 등 소지품을 반납하고, 출석 당시 입었던 옷차림 그대로 대기하게 된다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>감형 노린 ‘기습 공탁’ 막는다… 대법원 양형위,  양형기준 고친다</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/CG6A6FKPAJCIJHDUARJTFXB7ZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/CG6A6FKPAJCIJHDUARJTFXB7ZU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 09:21:49 +0000</pubDate>
-      <content:encoded>대법원 양형위원회가 이른바 ‘기습 공탁’을 막기 위해 공탁 관련 양형 기준을 손보기로 했다. 10년 넘게 제자리였던 증권·금융 범죄 양형 기준도 시대적 변화에 맞춰 새롭게 검토한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RINEY6MNCBMYVE566A266XAZ54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울 서초구 대법원에서 열린 제140차 양형위원회 전체회의에서 이동원 위원장이 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법조계에 따르면, 양형위는 전날 140차 전체 회의를 열고 ‘피해 회복 관련 양형인자 정비에 따른 양형기준 수정안’과 ‘증권·금융범죄 양형기준 수정안’을 심의했다.&lt;br&gt;&lt;br&gt;우선 양형위는 전체 범죄군의 양형인자 명칭에서 ‘공탁 포함’이라는 문구를 모두 삭제하기로 했다. 공탁은 피해자가 나중에 수령할 수 있도록 법원에 돈을 맡기는 제도인데, 피해자 의사와 무관하게 감형만 노리는 ‘기습 공탁’ 사례가 적지 않아 비판이 제기돼 왔다.&lt;br&gt;&lt;br&gt;양형위는 “마치 공탁만 하면 당연히 감경이 되는 것처럼 오인할 우려를 불식하고자 한다”면서 “기습 공탁을 방지하고 형사소송법의 취지에 맞게 공탁이 실질적 피해 회복에 해당하는지 더 신중히 판단하도록 하기 위한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 따라 ‘실질적 피해 회복’의 정의도 구체화된다. 공탁에 대해서는 피해자 또는 법정 대리인의 의견, 피고인의 공탁금 회수 가능성 및 의사, 피해 법익의 성질과 피해 규모·정도 등을 신중하게 검토해 ‘실질적 피해 회복’이 이뤄졌는지 판단하기로 했다.&lt;br&gt;&lt;br&gt;또 피해자가 국가로부터 범죄피해구조금을 받았더라도 원칙적으로 실질적 피해 회복에 해당하지 않는다는 점을 명문화한다. 구조 대상 범죄를 당한 피해자도 같은 원칙을 적용한다. &lt;br&gt;&lt;br&gt;앙형위는 2012년 설정된 이후 한 차례도 바뀌지 않은 증권·금융 범죄 양형 기준도 시대적 흐름과 범죄 양상의 변화에 따라 전면 재검토한다. 자본시장법과 외부감사법 개정으로 확대된 구성 요건을 반영해 ‘허위 재무제표 작성·공시 및 감사보고서 허위기재’, ‘회계 정보 위·변조 및 감사조서 위·변조’를 양형 기준 설정 대상 범죄에 포함하기로 했다.&lt;br&gt;&lt;br&gt;양형위는 향후 회의를 거쳐 증권·금융 범죄에 대한 권고 형량 범위와 양형인자, 공탁금 등 피해 회복 관련 양형 기준을 내년 3월 최종 의결할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“동전만 한데 쏘이면 피부염”... 여름바다, 소형 해파리 비상</title>
-      <link>https://www.chosun.com/national/2025/08/13/U4DHC7JLEZBYJBDMH6CFOMBP5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/13/U4DHC7JLEZBYJBDMH6CFOMBP5E/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 09:04:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVMEZVJDZOVK7VPKTDMQQ64VBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸른우산관해파리. /국립수산과학원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아열대성 소형 해파리인 ‘푸른우산관해파리’가 남해안에 이어 경북 동해안으로 확산하고 있다. &lt;br&gt;&lt;br&gt;12일 경북도소방본부에 따르면 지름 2∼3㎝ 동전만 한 푸른우산관해파리가 7월 중순 제주해역에서 처음 관측된 이후 전남, 경남, 경북 등 남해안과 동해안 일대에서 대량으로 출현하고 있다.&lt;br&gt;&lt;br&gt;이 해파리는 2021년 제주 인근에서 대량 발생한 전례가 있지만 올해처럼 남해안과 동해안을 중심으로 동시 확산한 사례는 처음이다. &lt;br&gt;&lt;br&gt;푸른우산관해파리는 접촉시 알레르기 반응이나 피부염을 일으키는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방본부는 피서객들이 바다에 들어갈 때 전신 수영복을 착용하는 등 가급적 피부 노출을 최소화하거나 호기심이라도 해파리를 절대 만지지 않아야 한다고 설명했다.&lt;br&gt;&lt;br&gt;해파리에 쏘였을 때는 바닷물이나 식염수로 쏘인 부위를 헹구고 남아있는 촉수는 신용카드 등을 이용해 긁어서 제거한 후 상처 부위를 냉찜질로 진정시켜야 한다. 수돗물이나 알코올로 세척하지 말고, 쏘인 부위를 문지르거나 압박하면 안 된다.&lt;br&gt;&lt;br&gt;지난 3년간 경북 동해안에서 해파리 쏘임 인명피해 사고는 40건이 발생한 것으로 집계됐다.&lt;br&gt;&lt;br&gt;박성열 경북도소방본부장은 “동해안에 해파리가 급격히 증가하고 있는 만큼 해파리 쏘임 사고에 각별한 주의가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘정치자금법 위반’ 前 창원시장·부시장 나란히 기소 </title>
@@ -932,15 +950,6 @@
       </media:content>
     </item>
     <item>
-      <title>“유승준도 조국처럼” 팬 호소... 李대통령 10년 전 “조국 버린 자”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/Z2DBNX4TQ5F6VNLOJ26SWH6ILU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/Z2DBNX4TQ5F6VNLOJ26SWH6ILU/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 07:27:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFCRV7AAJSMQHKBGCKWUQLL3FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 유승준(미국명 스티븐 유)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 유승준(49·스티브 유)의 팬들이 광복절 특별사면을 앞두고 유승준에 대한 입국 금지 조치를 풀어달라고 정부에 호소한 가운데, 이재명 대통령이 병역 기피와 관련해 10년 전 쓴 글이 온라인 커뮤니티에서 다시 조명받고 있다.&lt;br&gt;&lt;br&gt;앞서 디시인사이드 유승준 갤러리는 지난 9일 성명을 내고 “최근 정부가 8·15 광복절을 앞두고 정치인과 공직자 사면과 복권을 검토하고 있는데, 관용과 포용 정신이 정치인과 공직자뿐 아니라 모든 국민에게 공정하게 적용되기를 바라는 마음”이라며 입국 제한을 재검토해달라고 했다. 팬들은 “조국 전 조국혁신당 대표, 윤미향 전 국회의원 등 정치인 사면 검토에서 드러난 국민 통합과 화합의 의지가, 일반 국민인 유승준씨에게도 동일하게 적용되기를 바란다”며 “부디 대통령의 결단이 형평성과 공정성이라는 헌법적 가치가 구현되는 사례가 돼 국민 통합의 계기가 되기를 희망한다”고 했다.&lt;br&gt;&lt;br&gt;이 사실이 알려진 뒤 온라인에서는 이 대통령이 성남시장 시절이던 2015년 5월 소셜미디어에 올린 유승준 관련 글이 주목을 받았다. 당시 이 대통령은 페이스북에 병역 기피 의혹을 받는 유승준이 13년 만에 심경 고백에 나섰다는 기사를 첨부하며 “국민의 의무를 피하려고 조국을 버린 자, 이제 와서 무슨 할 말이?”라는 제목의 글을 올렸다. &lt;br&gt;&lt;br&gt;이 대통령은 이 글에서 “유승준씨, 그대보다 훨씬 어려운 삶을 사는 대한의 젊은이들이 병역 의무를 이행하다가 오늘도 총기 사고로 목숨을 잃는 대한민국에 돌아오고 싶습니까? 한국인들 주머니의 돈이 더 필요합니까? 아니면 갑자기 애국심이 충만해지셨습니까?”라고 했다. &lt;br&gt;&lt;br&gt;이어 “대한민국의 언어로 노래하며 대한국민으로서의 온갖 혜택과 이익은 누리다가 막상 국민의 의무를 이행해야 하는 시점에서 그걸 피하기 위해 대한민국을 버리고 외국인의 길을 선택한 그대”라며 “상대적 박탈감과 억울함은 갖가지 방법으로 병역을 회피하고도 떵떵거리는 고위공직자들만으로도 충분하다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “이제 그만 그대의 조국에 충실하고, 배반하고 버린 대한민국은 잊으시기 바란다”며 글을 맺었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6TWTJ5RNNES5LLAOW3X76XNUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 2015년 5월 페이스북에 올린 글./ 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1997년 한국에서 가수로 데뷔한 유승준은 공익근무요원 소집 통지를 받은 상황에서 2002년 1월 공연 목적으로 출국한 뒤 미국 시민권을 취득해 한국 국적을 상실했다. 유승준이 병역 의무를 회피하려 했다는 비판이 일자 법무부는 유승준의 입국을 제한했고 23년째 한국 땅을 밟지 못하고 있다. &lt;br&gt;&lt;br&gt;이후 유승준은 2015년 LA총영사관에 재외동포(F-4) 체류 비자 발급을 신청했으나 거부됐다. 이를 취소해달라는 소송을 내 파기환송심과 재상고심 끝에 대법원에서 승소했으나 총영사관은 이후에도 비자 발급을 거부했다. 유승준은 두 번째 취소 소송을 제기해 2023년 11월 다시 대법원에서 승소했으나 LA총영사관은 작년 6월 비자 발급을 거부했고, 유승준은 같은 해 9월 세 번째 소송을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>울산 인공지능위원회 첫 출범... AI시대 대비</title>
       <link>https://www.chosun.com/national/regional/2025/08/13/K3MYMOLNUFDF7JQWPJMHSHIUOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/13/K3MYMOLNUFDF7JQWPJMHSHIUOY/</guid>
@@ -948,15 +957,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 08:08:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AGU4P7KEBC7NLIQOKGXMWJVQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산시는 12일 시청에서 김두겸 울산시장과 울산정보산업진흥원, UNIST, 한국전자통신연구원(ETRI), 울산대, 한국생산기술연구원, 울산상공회의소, SK텔레콤 관계자 등 전문가들로 꾸려진 울산 인공지능위원회를 출범했다. /울산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산업수도 울산의 인공지능(AI) 정책을 제안하는 민관 전문가 단체가 출범했다.&lt;br&gt;&lt;br&gt;울산시는 12일 오후 시청 본관 대회의실에서 울산 인공지능위원회를 출범하고, 제1차 회의를 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;울산 인공지능위원회는 제조·에너지·정보통신·교육 등 다양한 분야의 전문가 20명으로 구성됐다.&lt;br&gt;&lt;br&gt;위원들은SK-아마존웹서비스의 인공지능(AI) 데이터센터 유치와 내년 1월 인공지능기본법 시행을 앞두고, 관련 정책과 실행 전략을 제안하는 역할을 할 계획이다.&lt;br&gt;&lt;br&gt;출범식에는 김두겸 울산시장과 울산정보산업진흥원, 울산과학기술원(UNIST), 한국전자통신연구원(ETRI), 울산대, 한국생산기술연구원, 울산상공회의소, 에스케이(SK)텔레콤 관계자 등 산·학·연·관 전문가 20여 명이 참석했다.&lt;br&gt;&lt;br&gt;이날 위원들은 오는 8월 울산에 착공하는 AI데이터센터를 거점으로 한 산업군 육성과 분야별 AI인프라 확산, AI인재 양성체계 고도화 등에 대해 논의했다. AI와 관련한 울산의 강점과 보완점에 대해서도 의견을 나눴다.&lt;br&gt;&lt;br&gt;울산시는 지난 6월 총 7조원 규모인 SK텔레콤과 아마존웹서비스(AWS)의 AI전용 데이터센터를 유치했다.&lt;br&gt;&lt;br&gt;이 데이터센터는 2027년 1단계 41㎿ 규모 가동을 시작으로, 2029년까지 총 103㎿의 고성능GPU기반 시설로 완공될 예정이다. 아시아·태평양 지역의 아마존웹서비스(AWS)AI클라우드 네트워크 핵심 거점으로 울산의 위상을 높일 것으로 기대된다.&lt;br&gt;&lt;br&gt;울산시는 이 데이터센터를 지역 산업과 전략적으로 연계할 계획이다. 산업별 AI적용 모형, 국내외AI기업 유치 전략, 산학연 협력 모형, 규제자유특구와의 연계 방안 등도 마련할 계획이다.&lt;br&gt;&lt;br&gt;AI수도 울산 선포식, 토론회, 학술대회, 기업 유치 설명회 등 다양한 후속 행사도 추진한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 ‘계엄 위자료 10만원씩’… 법원, 공탁 조건으로 항소심 판결 전까지 집행 정지</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/O2AA6DJEABE3HAUSUOBCPDTTWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/O2AA6DJEABE3HAUSUOBCPDTTWI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 06:30:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H2Y7QX7QVIKDPRTNECT2SIPUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령이 대국민담화문을 열고 '비상계엄'을 선포한 지난해 12월 3일 밤 서울역 대합실에서 시민들이 관련 뉴스를 시청하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 12·3 비상계엄 선포로 정신적 피해를 입은 시민들에게 손해배상을 해야 한다는 1심 판결에 대해 “위자료가 강제로 지급되는 것을 막아달라”며 낸 신청을 법원이 받아들였다. 이에 따라 윤 전 대통령은 공탁금 납부를 조건으로, 항소심 판결이 날 때까지 시민들에게 위자료를 지급하지 않아도 된다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사항소8-3부(재판장 신영희)는 윤 전 대통령이 신청한 강제집행 정지 신청을 12일 인용했다. 재판부는 “윤 전 대통령이 피신청인(시민)들을 위해 담보로 각 10만원을 공탁할 것을 조건으로, 항소심 판결 선고 시까지 강제집행을 정지한다”고 했다.&lt;br&gt;&lt;br&gt;지난달 25일 서울중앙지법 민사2단독 당시 이성복 부장판사는 윤 전 대통령이 시민들에게 10만원씩 배상하라고 판결하면서 배상액과 이자(연 12%)에 대해 가집행할 수 있다고 선고했다. 가집행은 판결이 확정되기 전이라도 일단 위자료를 지급하도록 하는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 같은 달 29일 1심 판결에 불복해 항소하면서, 항소심 판결이 나기 전까지 위자료가 강제로 집행되지 않게 멈춰달라는 강제집행 정지 신청도 함께 냈다. 법원은 윤 전 대통령이 시민 1인당 10만원을 공탁하는 것을 조건으로 강제집행을 정지하라고 결정한 것이다.&lt;br&gt;&lt;br&gt;한편 이 선고는 비상계엄 선포에 따른 일반 시민의 정신적 피해를 처음 인정한 판결로 주목을 받았다. 재판부는 “국민들인 원고들은 공포와 불안, 좌절감, 수치심으로 표현되는 고통과 손해를 입은 것이 명백하다고 보인다”며 “이들이 구하는 10만원 정도는 충분히 인정할 수 있다”고 했다. 판결을 선고한 이 전 부장판사는 이 판결을 끝으로 지난달 31일 정년 퇴임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
