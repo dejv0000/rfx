@@ -13,6 +13,30 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“가양대교 잠긴 거 처음 본다” SNS로 전해진 수도권 침수 피해</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/15/ZRF3IKW4NNESNBVL73D4WG67VA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/ZRF3IKW4NNESNBVL73D4WG67VA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 21:49:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PGFOJ2SGBG6POOQFYBXMXVFUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 수도권에 많은 비가 내린 13일 서울 가양대교 램프에 물이 차 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 시간당 100㎜ 넘는 비를 뿌리는 비구름이 서해부터 수도권 북부 지역을 차례로 관통하면서 인천과 경기 북부, 강원 등에서 피해가 잇따랐다. 온라인에서도 “다들 조심하라”며 피해 상황을 전하는 게시물들이 다수 올라왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LUO7KHY5NVEJ5HOY3HMQZO7A3I.gif"&gt;&lt;figcaption&gt;&lt;small&gt;13일 한 네티즌은 서울 가양대교에 물이 가득 찬 모습의 영상을 올렸다. /X(옛 트위터) @F08535729&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 한 네티즌은 차량을 타고 가양대교를 지나며 찍은 영상을 올렸다. 대교 전체에 물이 들어차 넘실댔는데, 그 높이가 차체를 위협할 정도였다. 이 모습을 본 네티즌들은 “가양대교 침수된 것 처음 본다” “한강보다 높은 곳에 있는 대교도 침수될 수가 있느냐”며 놀랍다는 반응을 보였다. 실제로 이날 올림픽대로 김포 방향 월드컵대교 남단부터 가양대교 남단 구간이 물에 잠겨 차량 통행이 통제됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMTOYUUAPREPTC7HP5AEKIPP3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;13일 수도권에 시간당 100㎜ 넘는 많은 비가 내린 가운데, 한 네티즌은 "폭우에 서울 강북구 우이천 조형물이 떠내려가는 모습"이라며 영상을 올렸다. /X(옛 트위터) @serinepi&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRMASYWC25AHLDEXQZM2FFWOJA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;13일 수도권에 시간당 100㎜ 넘는 많은 비가 내린 가운데, 한 네티즌은 "폭우에 서울 강북구 우이천 조형물이 떠내려가는 모습"이라며 영상을 올렸다. /X(옛 트위터) @serinepi&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 다른 네티즌은 “폭우에 우이천 조형물 떠내려가는 모습”이 담긴 영상을 게재했다. 서울 강북구 우이천 산책로에 설치된 조형물이 점점 물에 잠기다가 결국 늘어난 빗물과 함께 떠내려가는 장면이 담겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVAA7T3UOFDRFKKPG5MS3TF63I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 강서구 김포공항 게이트로 물이 쏟아져 들어오고 있다. /X(옛 트위터) @King_James_Kim&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구에 위치한 김포공항도 침수 피해로 몸살을 앓았다. 김포공항 국제선 게이트 앞이 빗물로 가득 찬 모습, 공항 내부 유리문 안으로 빗물이 들어오는 상황 등이 전해졌다. &lt;br&gt;&lt;br&gt;기상청에 따르면 13일 0시부터 14일 오전 6시까지 수도권에서는 파주 309.6㎜, 인천 영종도 272.5㎜, 동두천 270.5㎜, 김포 259㎜, 서울 143.5㎜의 비가 쏟아졌다. 강원도 철원(227㎜)과 화천(187.5㎜), 충남 태안(109㎜)의 누적 강수량도 100㎜를 넘어섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6M3HJDEG552VBLO65QXYOSCSUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 오전 내린 많은 비로 인천 서구 정서진중앙시장이 침수돼있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인명 피해도 발생했다. 경기 포천에서는 13일 오전 7시쯤 영북면 도로에서 자동차가 빗길에 미끄러지면서 신호등을 들이받아 조수석에 있던 70대 여성이 숨지고 운전자가 다쳤다. 인천에서는 이날 오전 7시 20분쯤 중구 운서동 도로에서 차량이 빗길에 미끄러지며 호수에 빠져 40대 운전자가 숨졌다. 경기 김포에서는 낮 12시 14분쯤 고촌읍 대보천에서 차량이 떠내려가 뒷좌석에 있던 30대 남성이 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;서울 124세대 202명, 인천 169세대 224명, 경기 199세대 286명이 일시 대피했다. 도로 침수 66건, 사면 붕괴 1건, 역사 침수 1건, 수목 전도 1건, 주택 침수 5건 등 공공 및 사유 시설 피해 신고도 74건 접수됐다. &lt;br&gt;&lt;br&gt;14일에도 중부지방은 대체로 흐리고 매우 강하고 많은 비가 내릴 예정이다. 기상청은 이날 아침까지 수도권은 시간당 30~70㎜의 비가 쏟아질 것이라고 내다봤다. 오전에도 수도권, 강원 내륙, 강원 북부 산지, 충남 북부에 시간당 30㎜ 안팎의 매우 강한 비가 내리겠다. 오후부터는 비가 소강상태를 보이는 곳이 있겠다. &lt;br&gt;&lt;br&gt;예상 강수량은 수도권 50~150㎜, 강원 내륙·산지 30~80㎜, 충남 북부, 충북 중·북부 20~60㎜, 강원 북부 동해안 10~40㎜, 대전·세종·충남·충북 남부 5~40㎜, 강원 중·남부 동해안 5~20㎜다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LUO7KHY5NVEJ5HOY3HMQZO7A3I.gif?auth=71f3c4bb3f1938e6e6f5c7620ac1b27c6f5090aee613dc57db0a3e650abb8a5d&amp;smart=true&amp;width=250&amp;height=399" type="image/jpeg" height="399" width="250">
+        <media:description type="plain">13일 한 네티즌은 서울 가양대교에 물이 가득 찬 모습의 영상을 올렸다. /X(옛 트위터) @F08535729</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>중부지방 오늘도 집중호우…수도권 최대 150㎜ ‘물폭탄’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/2EGBZ3EKFZC2PPTW6N2RTFODDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/2EGBZ3EKFZC2PPTW6N2RTFODDQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 21:35:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XRSNJL3AFOI5A4S4DRVJQEZYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;집중호우가 내린 13일 서울 노원구 월계1교 인근 중랑천이 범람해 동부간선도로가 물에 잠겨있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중부지방에 이틀째 폭우가 이어지고 있는 가운데, 목요일인 14일에도 중부지방에 매우 강하고 많은 비가 내리겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전 6시 기준 인천·경기북부와 강원북부내륙을 중심으로 돌풍과 천둥·번개를 동반한 시간당 30㎜의 매우 강한 비가 내렸다. 또 서울을 포함한 그 밖의 수도권과 강원내륙, 충남북부에는 시간당 5~30㎜의 강한 비가 왔다.&lt;br&gt;&lt;br&gt;전날 오전 0시부터 이날 오전 6시까지 누적 강수량은 파주 309.6㎜, 덕적북리(옹진) 274.9㎜, 영종도(인천) 272.5㎜, 하봉암(동두천) 270.5㎜, 김포 259.0㎜, 서울 143.5㎜ 등이다.&lt;br&gt;&lt;br&gt;이밖의 지역 누적 강수량은 강원도 동송(철원) 227.0㎜, 광덕산(화천) 187.5㎜, 춘천 88.2㎜, 원주 67.8㎜, 충청권 근흥(태안) 109.0㎜, 홍성죽도 89.0㎜, 직산(천안) 68.0㎜, 예산 67.0㎜, 아산 63.5㎜ 등이다.&lt;br&gt;&lt;br&gt;서해상에서 지속적으로 강하게 발달하는 비구름대가 유입됨에 따라 이날 아침까지 수도권을 중심으로 시간당 30~70㎜의 비가 쏟아지겠다.&lt;br&gt;&lt;br&gt;오전에도 수도권, 강원 내륙, 강원 북부 산지, 충남 북부에 시간당 30㎜ 안팎의 매우 강한 비가 내리겠다. 경북 북부와 경남 서부도 오전까지 빗방울이 떨어지겠으며, 남부지방과 제주도는 소나기가 오겠다. 오후부터는 비가 소강상태를 보이는 곳이 있겠다.&lt;br&gt;&lt;br&gt;예상 강수량은 서울·인천·경기·서해5도 50~120㎜(많은 곳 150㎜ 이상), 강원 내륙·산지 30~80㎜(많은 곳 120㎜ 이상), 충남 북부, 충북 중·북부 20~60㎜(많은 곳 80㎜ 이상), 강원 북부 동해안 10~40㎜, 대전·세종·충남·충북 남부 5~40㎜, 강원 중·남부 동해안 5~20㎜다.&lt;br&gt;&lt;br&gt;기상청은 “출근길 교통안전과 산사태나 제방 붕괴, 시설물과 차량 침수 등 각종 안전사고에 각별히 유의하기 바란다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QIZ7XIFNDNE35OKVSYLHDSD7KU.gif?auth=51a8ecca5b4b3d701924d7c458b9d57809869c7638a6e9591cdb98cb96f25bf0&amp;smart=true&amp;width=1400&amp;height=788" type="image/jpeg" height="788" width="1400">
+        <media:description type="plain">폭우-gif</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>300만 서명한 ‘연명의료 중단’… 임종 앞두자 “살려내라”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/14/S226AUBPYZFSRHMZ2AOQBZNOSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/14/S226AUBPYZFSRHMZ2AOQBZNOSQ/</guid>
@@ -848,15 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDSFJPSUOVNELJWADYEZK4D5PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 법원을 나서고 있다. 2025.08.12. 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 밤 늦게 구속영장이 발부돼 서울남부구치소에 수감된 윤석열 전 대통령 배우자 김건희 여사의 첫 식사 메뉴는 식빵과 딸기잼, 우유 등인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울남부구치소의 ‘8월 주간 식단표’를 보면, 매주 수요일의 아침 식사 메뉴는 식방과 딸기잼, 우유, 그릴후랑크소시지, 채소샐러드로 구성돼 있다. 부대경비를 포함한 한 끼당 단가는 1733원 수준이라고 한다.&lt;br&gt;&lt;br&gt;앞서 윤 전 대통령은 지난달 10일 구속된 뒤 첫 식사로 찐감자와 미니치즈빵, 소금·종합견과 및 가공유를 제공받았다. 지난 1월 19일 새벽 구속됐을 때는 아침으로 시리얼·삶은 달걀·견과류·우유를 제공 받았다. 박근혜 전 대통령이 수감됐을 때 첫 끼니는 케첩과 치즈가 딸린 식빵이었고, 이명박 전 대통령의 옥중 첫 끼니는 모닝빵과 두유였다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHNMS35DE6TY7UNOC3JBE3YUUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 점심식사 메뉴는 돼지고기김치찌개와 만두강정, 호박새우젓볶음, 총각김치가 나온다. 저녁 식사로는 오이냉국, 비빔나물, 달걀후라이, 열무김치를 배식한다. 부식으로는 컵과일이 제공된다.&lt;br&gt;&lt;br&gt;독거실 내 마련된 TV로는 KBS1, MBC, SBS, EBS1 등 4개 채널을 볼 수 있다. 오전 9시부터 12시까지는 각 채널의 생방송을 시청할 수 있고, 12시부터 오후 1시까지는 교정당국에서 제작하는 ‘교화 라디오-함께 만드는 희망이야기’가 재생된다.&lt;br&gt;&lt;br&gt;오후 1시부터 4시까지는 각 채널의 생방송이 다시 재생되고, 이후 4시부터 3시간 동안 녹화된 드라마를 볼 수 있다. ‘미지의 서울’ 같은 드라마도 이때 방송된다. TV 방송은 오후 9시에 종료된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>金여사, 머그샷 찍고 에어컨 없는 3평 독방 수감</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/JIBRCEYEDVEE3IJA3JIN3L3STE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/JIBRCEYEDVEE3IJA3JIN3L3STE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:06:53 +0000</pubDate>
-      <content:encoded>서울남부구치소 구인 피의자 대기실에서 구속영장 실질심사 결과를 기다렸던 김건희 여사는 이르면 13일 오전 중 정식 입소 절차를 밟을 전망이다. 일반 수용자와 동일하게 이름, 주민등록번호, 주소, 가족관계 등 인적 사항을 확인한 뒤 정밀 신체검사를 받게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHU2FZQU7ZJCLKDCDIB74DSKTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속영장 실질심사를 마친 뒤 법원을 나서고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사는 밝은 바다녹색의 여름용 반팔 수용자복을 지급 받는다. 목 부분에 카라가 있고, 단추로 잠그는 형태다. 상의 아랫부분엔 주머니가 있다. 김 여사는 구인 피의자 대기실에선 이날 구속영장 실질심사에 나올 때 입었던 검은색 투피스 정장을 입었지만, 수의(囚衣)로 갈아입는 것이다. 이후 상의 가슴에 수용 번호를 붙인다. 이른바 ‘머그샷’으로 불리는 수용기록부 사진도 찍게 된다.&lt;br&gt;&lt;br&gt;남부구치소는 김 여사가 전직 영부인인 점 등을 고려해 독거실을 배정할 전망이다. 접이식 이불과 관물대, 싱크대, TV 등이 있고, 넓이는 다른 독거실과 비슷한 3평 내외일 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 지난달 9~10일 영장 심사 결과를 기다렸던 서울구치소 구인 피의자 대기실엔 에어컨이 있었다. 그러나 김 여사가 영장 심사 결과를 기다린 남부구치소 구인 피의자 대기실엔 에어컨이 없고 선풍기만 있다고 한다.&lt;br&gt;&lt;br&gt;김 여사는 민중기 특별검사팀이 정식으로 수사를 개시한 지 41일 만에 구속됐다. 영부인 중 구속된 첫 사례다. 또 헌정사 처음으로 전직 대통령 부부가 모두 구속된 상태에서 수사를 받게 됐다. 특검은 김 여사 신병을 확보한 만큼 각종 의혹 수사에 속도를 낼 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 최측근 김예성 귀국… 판도라 상자 열리나</title>
       <link>https://www.chosun.com/national/court_law/2025/08/13/4HG7W4BFMBFFTF46VFYQY4U5EQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/4HG7W4BFMBFFTF46VFYQY4U5EQ/</guid>
@@ -930,15 +945,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 15:53:00 +0000</pubDate>
       <content:encoded>입시 비리를 저지른 교사, 대학 교수에 대한 징계 시효가 기존 3년에서 10년으로 연장된다. &lt;br&gt;&lt;br&gt;12일 교육부에 따르면, 지난달 23일 국회 본회의를 통과한 교육공무원법과 사립학교법 개정안이 19일 공포된다. 법안은 공포 6개월 후인 내년 2월 시행될 예정이다. &lt;br&gt;&lt;br&gt;교육공무원법 개정안은 고등학교, 대학교 학생 선발 과정에서 부정행위를 저지른 교사 등 교육공무원에 대한 징계 시효를 기존 3년에서 10년으로 연장하는 내용이다. 사립학교법 개정안도 같은 내용을 담고 있다. 공무원이 아닌 사립대학 교수에 대해서도 똑같이 적용한다는 것이다. &lt;br&gt;&lt;br&gt;교육부 관계자는 “징계 시효 3년이 너무 짧다는 지적이 있어 법을 개정한 것”이라고 했다. 입시 비리는 특정인 사이에서 암암리에 이뤄지기 때문에 비위 사실이 알려지기 쉽지 않아 뒤늦게 알려지는 경우가 많은데, 징계 시효가 지나 처벌을 못 한 경우도 있었기 때문이다. 2020년 교육부 감사에서 A대학 부총장의 딸이 2016년 A대학 대학원에 입학하는 과정에서 교수들이 점수를 조작했다는 의혹이 드러났다. 그런데 징계 시효가 지나 관련자에 대해 징계가 아닌 단순 경고를 할 수밖에 없었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 13일</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/13/NLCTO3XGYND5DFH77FJ6LFTUIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/NLCTO3XGYND5DFH77FJ6LFTUIA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJT6466CCJDINGZB73HLLVHMQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 경찰, 가수 ‘폴킴’ 악플러 미국에서 소환 조사</title>
