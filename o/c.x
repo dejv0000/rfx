@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이재명 정부 전략에 적극 대응... 대구시·경북도 ‘원팀’ 조직 꾸렸다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/FJEYZKV2QJGTLHA3LZKOZZC4LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/FJEYZKV2QJGTLHA3LZKOZZC4LQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 13:45:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELV7VF4RH4VR4XZZEKDIUVZRZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도와 대구시는 13일 새 정부의 ‘5극 3특’ 국가균형성장 전략에 신속히 대응하기 위해 ‘대구경북 공동협력 TF’를 구성, 운영에 들어갔다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시와 경북도가 공동 협력 태스크포스(TF)를 꾸려 정부 정책과 지역 공동 현안에 대응한다. 이재명 정부가 구상하는 ‘5극 3특(5대 초광역권·3대 특별자치도)’ 국가 균형 성장 전략에 발맞춰 지역 발전에 힘쓰겠다는 취지다.&lt;br&gt;&lt;br&gt;대구시와 경북도는 13일 경북도청에 열린 회의를 통해 ‘대구·경북 공동협력 TF’를 구성하고 운영에 들어갔다. TF 단장은 오준혁 대구시 기획조정실장과 김호진 경북도 기획조정실장이 공동으로 맡았다. TF는 국가균형성장을 목표로 하는 정부 기조에 맞춰 두 지역의 공동 현안을 논의하고 대응 방안을 마련하기 위해 구성된 기구다. 대구정책연구원과 경북연구원도 전략 수립과 연구를 지원할 예정이다.&lt;br&gt;&lt;br&gt;TF는 초광역 SOC, 미래 전략 산업, 문화·관광권 개발 등 분야별로 협력 과제 21개를 선정했다. 초광역 SOC 분야에는 대구경북신공항, 대구경북순환철도망, 포항 영일만항, 대구와 광주를 잇는 달빛철도 등 7개 과제가 포함됐다. 미래 전략 산업 분야에선 미래 모빌리티, AI 반도체·로봇, 항공·방위산업, 이차전지 등 8개 산업을 핵심 미래 먹거리로 선정했다. 문화관광권 개발 과제로는 낙동강·금호강·백두대간을 활용한 관광 자원 개발, 아시아태평양경제협력체(APEC) 회의 이후를 대비한 기획, K콘텐츠 개발 등 3개가 논의됐다. 사회·환경 분야에선 인재 양성과 저출생 극복, 탄소 중립 전환 선도 등이 선정됐다.&lt;br&gt;&lt;br&gt;김정기 대구시장 권한대행은 “사업 추진에 어려움을 겪고 있는 대구경북 신공항 등 핵심 사업들이 대통령 지역 공약으로 최종 채택될 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;대구시와 경북도는 이번 TF를 기점으로 기존에 존재했던 민관 협력 조직인 ‘한뿌리상생위원회’를 확대·재편하고, 시·도민 대표와 전문가 등 각계의 다양한 참여를 끌어내 지역 맞춤형 현안을 논의 및 추진하겠다는 입장이다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “대구·경북이 가장 혁신적이고 빠르게 변하는 지역이 되는데 TF가 크게 기여할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“연차 없이 열흘 쉰다?”… 10월 10일 임시공휴일 두고 갑론을박</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/IT7UA743ENH7PGWBGUISFHOHYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/IT7UA743ENH7PGWBGUISFHOHYM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 13:36:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FCSEXHU3MJBRPDPWNTTMBKT2AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 10월 달력./네이버달력&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 황금연휴를 앞두고 오는 10월 10일 임시공휴일 지정 여부에 대한 관심이 쏠리고 있다. 하루만 더 쉬면 최장 열흘에 달하는 ‘역대급 연휴’가 가능해지기 때문이다. &lt;br&gt;&lt;br&gt;10월 10일이 임시공휴일로 확정되면 개천절(10월 3일·금요일)부터 12일(일요일)까지 별도의 연차 없이 장기 연휴를 즐길 수 있다. 정부는 내수 활성화와 국민 휴식권 보장을 위해 임시공휴일을 지정할 수 있으며, 통상 최소 2주 이상의 여유를 두고 최종 결정을 내린다.&lt;br&gt;&lt;br&gt;온라인에서는 임시공휴일 지정 여부를 두고 찬반 의견이 팽팽하다. 일부 네티즌들은 “어차피 연차를 쓸 텐데 편하게 쉬게 해줬으면 좋겠다”는 긍정적 반응을 보였다. 반면 “가정 내 돌봄 부담과 기업의 부담으로 이어질 수 있다” “연휴가 길어지면 내수 진작보다 해외여행 증가로 이어진다”는 부정적 의견도 있었다.&lt;br&gt;&lt;br&gt;실제로 지난해 설 연휴 때 임시공휴일로 엿새간 쉬었지만, 많은 국민이 국내 소비 대신 해외여행을 택했다. 그 결과 내수 활성화 효과는 기대에 미치지 못했다는 지적이 나왔다. 실제로 임시공휴일이 포함됐던 지난 1월, 내국인 출국자는 전년 같은 달보다 7.3% 늘었다. 지난해 10월에도 16.6% 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;또 임시공휴일 지정이 모든 국민에게 동일하게 적용되지 않는다는 지적도 나온다. 현행 근로기준법상 상시 근로자 5인 미만 사업장은 임시공휴일 적용 대상이 아니어서 2024년 기준 전체 취업자의 35%에 해당하는 약 1000만명이 혜택을 받지 못한다는 것이다.&lt;br&gt;&lt;br&gt;기업 생산성에도 부정적 영향을 미친다는 우려도 나온다. 설 연휴와 맞물려 임시공휴일이 지정됐던 지난 1월 조업일수는 20일로, 전년 같은 달보다 4일 줄었다. 이는 2000년 이후 1월 기준 최저치다. 조업일수 감소에 따라 1월 수출액은 전년 동월 대비 10.3% 감소했다. &lt;br&gt;&lt;br&gt;국회입법조사처는 지난 6월 보고서에서 “최근 임시공휴일은 내수 진작 효과가 제한적일 뿐 아니라, 수출·생산 감소와 휴식권 사각지대 등 구조적 한계를 드러냈다”고 지적했다.&lt;br&gt;&lt;br&gt;한편, 앞서 지난 5월에도 근로자의 날(1일)과 어린이날·부처님오신날(5일), 대체공휴일(6일)을 잇는 임시공휴일 지정 기대가 확산됐지만, 정부는 대체공휴일을 지정하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 무단 횡단 50대男, 차량 4대에 치여 사망</title>
+      <link>https://www.chosun.com/national/2025/08/14/TGE3JIAUTZB57NZ3U3DWC5KPUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/14/TGE3JIAUTZB57NZ3U3DWC5KPUU/</guid>
+      <dc:creator>부산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 12:38:59 +0000</pubDate>
+      <content:encoded>부산에서 무단 횡단을 하던 50대 남성이 차량 4대에 잇따라 치여 숨지는 사고가 발생했다. 경찰은 운전자 4명 모두 ‘뺑소니’ 혐의로 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PAPMQLDD5VFFPBEWOVDW2MYNRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보행자 사망 사고가 발생한 부산 영도구 사고 현장. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 부산 영도경찰서에 따르면 전날 오후 7시 26분쯤 영도구 봉래동 부산대교 진입 도로(왕복 6차로)에서 50대 남성 A씨가 중앙분리대를 넘어 무단 횡단을 하려다 중심을 잃고 뒤로 넘어졌다. &lt;br&gt;&lt;br&gt;30대 여성 운전자가 몰던 승용차가 A씨를 들이받았다. 뒤이어 승용차 2대와 SUV 차량 1대가 잇따라 A씨를 치고 지나갔다. 차량 운전자들은 당시 A씨를 구하지 않고 그대로 현장을 빠져나갔다. A씨는 병원으로 옮겼지만 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 방범 카메라 영상 등을 확인해 A씨를 치고 간 운전자 4명을 전부 특정범죄가중처벌법상 도주치사상 혐의로 입건했다. 이들은 경찰에서 “어둡고 비가 많이 와 사람을 친 줄 몰랐다”고 진술했다. 전부 술을 마시진 않은 것으로 조사됐다. 경찰은 차량 블랙박스 등을 확인해 이들이 A씨를 친 사실을 알고서도 그대로 도주했는지 여부를 파악하고 있다.&lt;br&gt;&lt;br&gt;사고 현장은 차량이 빨리 달려 위험한 구간으로, 중앙분리대에 ‘무단 횡단 금지’라고 쓰여 있다. 약 100m 떨어진 곳에 횡단보도가 있다.&lt;br&gt;&lt;br&gt;정성원 변호사(법무법인 샤)는 “운전자들이 몰랐다고 주장하더라도 미필적 고의로 뺑소니가 인정되는 경우가 대부분”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차은우 동생까지 얼굴천재… 방송 4초 등장에도 화제</title>
+      <link>https://www.chosun.com/national/people/2025/08/14/QZJEZTMOAFFOBITCA2EXHEOZGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/14/QZJEZTMOAFFOBITCA2EXHEOZGE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 12:15:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WMIR3Z6E65FLLD2DWJMKLJMSLM.png"&gt;&lt;figcaption&gt;&lt;small&gt;차은우(왼쪽)와 그의 동생./,육군훈련소 홈페이지, tvN '유 퀴즈 온 더 블록‘&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 차은우의 친동생이 방송에서 포착된 사실이 뒤늦게 알려져 화제를 모으고 있다.&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티와 각종 소셜미디어(SNS)에서는 차은우 동생이 tvN ‘유 퀴즈 온 더 블록‘에 등장한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;차은우 동생이 출연한 방송은 지난 6월 11일 방송분이다. 과거 반도체 회사의 부사장 있던 오창규씨가 66세에 광고 마케팅 회사 인턴으로 취직한 사연이 나온 날이다. 이날 오씨가 회사 직원들과 함께 걷는 장면이 4초가량 나왔는데, 장면 속 인물들 중 차은우의 동생으로 알려진 남성의 모습이 포착된 것이다. &lt;br&gt;&lt;br&gt;흐릿한 화질이지만, 차은우와 똑 닮은 이목구비와 체형, 비율로 시선을 끌었다. 이를 본 네티즌들은 “흐릿하게 봐도 차은우 동생이다” “부모님이 궁금하다” “직원들이 부럽다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;앞서 차은우는 지난해 5월 방송된 ’유퀴즈‘에서 “남동생은 중국에서 신문방송학을 전공 중인 유학생이며, 중국의 유명 대학 9곳 중 한 곳에 재학 중이다”라고 언급한 바 있다. 그룹 아스트로 멤버들도 한 예능 프로그램에서 “차은우의 남동생이 정말 잘생겼다. (차)은우보다 얼굴이 더 작다”라고 이야기하기도 했다.&lt;br&gt;&lt;br&gt;한편 차은우는 지난 7월 28일 충남 논산 육군훈련소에 입소했다. 차은우는 기초군사훈련을 마친 뒤 육군 군악대에서 병역 의무를 수행할 예정이다. 그는 입대 전날 라이브 방송을 통해 짧게 자른 머리를 공개하며 “2~3살 이후로 가장 짧은 머리”라며 “거울을 볼 때마다 어색하고, 나에게도 이런 날이 오다니 신기하다”고 말했다. 이어 “입대 후 맞이할 30대도 궁금하고 기대된다. 여러분이 하는 모든 일에 행운이 있기를 바라며 잘 다녀오겠다”고 팬들에게 인사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AQURFNF6ZZDMJGGTA2VJGM5IWU.png?auth=0bbb25598a292de1fa3517f1132cffbe74cefeffb87d7082a8198fdba6b20ce4&amp;smart=true&amp;width=224&amp;height=168" type="image/png" height="168" width="224">
+        <media:description type="plain">차은우(왼쪽)와 그의 동생./,육군훈련소 홈페이지, tvN '유 퀴즈 온 더 블록‘</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>6·25때 ‘형제의 나라’ 야전 막사서 출발… 한국이슬람 70주년 맞아</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/14/CRWGAYV2TJFY5KMJKRIR2WXAYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/CRWGAYV2TJFY5KMJKRIR2WXAYM/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 11:09:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGA2JKDBDGJPQGKZ4FBOK2NSMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 한남동에 위치한 서울중앙성원. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 서울 중구 더플라자 호텔 다이아몬드홀. 올해로 전래 70주년을 맞은 한국이슬람교 주최로 ‘2025 국제할랄세미나’와 기념 만찬 행사가 열렸다. 사우디아라비아·말레이시아·인도네시아·튀르키예 등에서 온 이슬람교 및 할랄 인증 단체 고위 관계자들이 테이블을 채웠다. 농심·삼양·CJ제일제당 등 국내 대형 식품 업계 ‘큰손’들도 대거 참석했다.&lt;br&gt;&lt;br&gt;한국이슬람교는 6·25 전쟁에 참전했던 튀르키예군을 통해 국내에 전파됐다. 9세기 신라시대에 당시 무슬림 상인들과 교류한 기록이 남아 있지만, 튀르키예군의 6·25 파병을 공식적인 전래로 본다. 이들은 전시 상황에서 야전 막사를 차리고 예배 활동을 이어갔다. 휴전 협정 체결 이후에도 이들은 한국에 남아 1955년 국내 최초의 무슬림 기구를 창설했다. 현재 한국이슬람교는 전국에 24개 모스크(성원)와 260여 개의 예배소를 운영하고 있다. 국내 무슬림 인구는 약 25만명으로 추산된다.&lt;br&gt;&lt;br&gt;국내 무슬림 인구 증가와 K푸드의 인기에 힘입어 K-할랄 식품 시장은 규모를 키우고 있다. 지난해 한국의 할랄 식품 수출액은 약 2조원에 달했다. 특히 인도네시아, 말레이시아, 아랍에미리트 등 이슬람권 수출 비중이 크다. 식품 업계도 할랄 인증 제품 라인을 확대하고 있다. 2030년까지 국내 할랄 관련 시장 규모가 6조원까지 성장할 수 있다는 분석도 나온다. 조민행 한국이슬람교 할랄 위원장은 “이슬람 국가 주요 기관과의 협력을 강화해 K할랄 식품의 위상을 높이고, 국내 할랄 인증 업무를 국제 기준에 맞춰 고도화·체계화하는 것이 목표”라고 했다.&lt;br&gt;&lt;br&gt;한편 이날 만찬에선 할랄 방식으로 도축된 호주산 소고기 스테이크 150인분이 준비됐다. 현재 국내에서 할랄 인증을 받은 소고기 도축장은 강원 홍천·횡성 단 두 곳이다. 한우를 비롯한 육류는 검역과 할랄 인증의 벽이 높아 말레이시아·UAE 두 나라에만 수출되고 있다. 할랄 육류 인증을 받기 위해선 무슬림 전문가가 도축 직전 ‘비스밀라(알라의 이름으로)’ ‘알라후 아크바르(신은 위대하다)’라는 신앙 선언을 해야 한다. 이후 동물의 눈을 가린 뒤 이슬람 성지인 사우디아라비아 메카 방향으로 머리를 누여 즉사시킨 뒤 피를 빼내는 방식이다. 현재 국내에선 말레이시아 출신 무슬림 도축사가 전 과정을 집도한다.&lt;br&gt;&lt;br&gt;김동억 한국이슬람교 재단 이사장은 “서울 이문동 튀르키예군 야전 막사에서 출발한 한국이슬람이 70주년을 맞이했다”며 “이슬람은 진실로 평화를 추구하는 종교다. 서로 이해하고 협력하는 미래를 위해 한국이슬람교가 이바지하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>베트남전 한국군 민간인 학살 의혹...항소심도 “진실화해위 조사 대상 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/14/UAOPL5QVTZGYVNJWGDQRQUR32A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/UAOPL5QVTZGYVNJWGDQRQUR32A/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 13 Aug 2025 10:20:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZY2NSCCWVKU7N6VXCBL2QAYJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 5월 24일 오후 서울 중구 진실·화해를위한과거사정리위원회에서 열린 제55회 전원위원회에서 방청인단들이 하미학살 사건 조사 개시를 요구하는 피켓 시위를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 전쟁에 파병된 한국군이 베트남 민간인을 학살했다는 의혹을 조사하지 않기로 한 진실·화해를위한과거사정리위원회(진실화해위) 결정은 적법하다는 항소심 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정11부(재판장 최수환)는 13일 응우옌 티탄씨 등 ‘하미학살’ 피해자·유족 5명이 진실화해위를 상대로 “진실규명 신청을 각하한 결정을 취소하라”며 낸 행정소송 항소심에서 1심과 같이 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;응우옌씨 등은 2022년 4월 진실화해위에 ‘하미학살’ 사건 진실규명을 신청했다. 하미학살은 베트남 전쟁 중이던 1968년 2월 베트남 중부 꽝남성 하미마을에 파병된 한국군이 현지인 150여 명을 집단 학살했다는 의혹이다. 그러나 진실화해위는 이듬해 “베트남 전쟁 때 벌어진 외국인 인권침해는 과거사정리법이 규정하는 진실규명 범위에 해당하지 않는다”며 신청을 각하했고 응우옌씨 등이 불복해 행정소송을 냈다.&lt;br&gt;&lt;br&gt;앞서 1심(서울행정법원)은 작년 6월 “과거사정리법의 목적은 대한민국 국민의 인권이 침해된 경우에 대한 진실을 규명하는 것”이라며 “과거사정리법이 규정한 진실규명 조사 대상에 외국에서 벌어진 외국인에 대한 인권 침해 사건까지 포함된다고 해석하는 것은 입법 취지에 부합하지 않는다”며 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;이어 “원고들 주장에 따르면 진실규명의 범위가 지나치게 확대될 수 있고 외교적 갈등 등 여러 문제를 야기할 수 있다”며 “진실규명을 거치지 않아도 대한민국에 권리구제를 신청할 방법이 많다”고 덧붙였다. &lt;br&gt;&lt;br&gt;한편 법원은 베트남 전쟁 당시 베트남 꽝남성의 다른 마을인 ‘퐁니마을’에서 벌어진 한국군의 민간인 학살로 피해를 입은 베트남인에 대해 한국 정부의 배상 책임을 인정한 바 있다. 서울중앙지법 민사항소3-1부(재판장 이중민)는 지난 1월 응우옌 티탄씨에게 1심과 같이 “3000만100원과 지연손해금을 지급하라”고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>신임 기상청장에 이미선…첫 여성 청장 탄생</title>
       <link>https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</guid>
@@ -805,51 +863,6 @@
       <content:encoded>최근 태국과 캄보디아의 국경 지역에서 무력 충돌이 이어지면서 두 나라 사이의 긴장이 크게 높아졌어요. 다행히 양국은 도널드 트럼프 미국 대통령의 중재로 휴전했지만, 이 충돌로 수십 명이 목숨을 잃고 약 30만명이 집을 떠나 피란을 가야 했답니다.&lt;br&gt;&lt;br&gt;이번 싸움은 단순히 국경 지역의 땅을 차지하기 위해 다툰 게 아니에요. 두 나라는 오랫동안 얽히고설킨 역사가 있어요. 캄보디아는 과거 ‘크메르 제국’이라는 큰 나라였고, 한때 태국 땅까지 지배했죠. 그런데 시간이 지나 태국의 ‘아유타야 왕국’이 힘을 키워 크메르 제국을 무너뜨렸어요. 그러니까 두 나라 모두 서로의 땅을 지배한 역사가 있는 것이죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG5WAQVA3FFDFCBQ7TVAZYHJME.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;게다가 20세기 초 캄보디아를 식민지로 지배하던 프랑스가 태국과의 국경선을 그을 때 만든 지도와 조약에 대한 해석이 서로 달라서, 일부 지역에선 아직도 싸움이 이어지고 있어요. 오늘은 과거 이 두 나라의 사이가 어땠는지, 양국의 관계사를 알아보도록 할게요.&lt;br&gt;&lt;br&gt;&lt;b&gt;수백 년 동안 갈등 이어져 왔죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;오늘날에는 태국이 인구도 많고 경제 규모도 훨씬 크지만, 과거에는 상황이 반대였답니다. 캄보디아의 주요 민족인 크메르족이 세운 크메르 제국(802~1431)은 캄보디아 북서부의 ‘시엠레아프’ 근처 ‘앙코르’를 오랜 기간 수도로 삼고 인도차이나를 호령하는 강력한 나라였어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXATESPHD5BSHHOGT22LLYHNTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;①캄보디아와 태국의 국경 지대에 있는 프레아 비헤아르 사원. 이 사원 일대의 영토 소유권을 둘러싸고 양국이 오랜 대립을 이어오고 있지요. ②캄보디아 시엠레아프에 있는 사원 앙코르와트. 크메르 제국의 전성기를 이끈 수리야바르만 2세가 세웠지요. ③캄보디아의 노로돔 왕. 그는 태국과 베트남의 영향력에서 벗어나기 위해 프랑스와 보호 조약을 맺었지만, 결국 이는 캄보디아의 식민지화로 이어졌습니다. /로이터 뉴시스·위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 ‘위대한 정복자’로 불리는 수리야바르만 2세(재위 1113~1150년) 때는 나라의 세력이 남부 베트남부터 라오스, 태국, 그리고 멀리 말레이반도까지 뻗어 있었어요. 관광지로 유명한 앙코르 와트 사원도 이 시기에 지어졌지요.&lt;br&gt;&lt;br&gt;하지만 제국은 자야바르만 7세(재위 1181~1218년) 시대를 정점으로 점점 쇠퇴했어요. 당시 크메르 제국의 주 수입원은 풍부한 농업 생산량과 주변 국가에서 거둬들이는 공납이었어요. 하지만 공납을 강제로 요구하다 보니 주변 국가들의 반발이 잦아졌고, 결국 이들과의 전쟁으로 재정이 서서히 고갈됐죠.&lt;br&gt;&lt;br&gt;게다가 13세기부터는 현재 태국 북부에 살던 타이족(태국의 다수 민족)이 세력을 넓혀 남쪽으로 내려왔어요. 그리고 14세기 중엽, 이들은 차오프라야강 유역에 아유타야 왕국을 세웠습니다. 아유타야는 해상 무역에 유리한 지형과 비옥한 농지 덕분에 인구와 국력이 빠르게 늘어났어요. &lt;br&gt;&lt;br&gt;이때부터 크메르족과 타이족 사이에는 기나긴 악연이 시작됐습니다. 14세기 말부터 아유타야 왕국은 크메르 제국을 침공하기 시작했어요. 결국 1431년 앙코르가 함락되면서 크메르 제국은 사실상 막을 내리고, 수도를 프놈펜으로 옮긴 뒤부터는 ‘캄보디아 왕국’ 시기가 시작됩니다. 프놈펜은 오늘날 캄보디아의 수도죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;태국·베트남에 시달린 캄보디아&lt;/b&gt;&lt;br&gt;&lt;br&gt;프놈펜 시대를 맞이한 캄보디아는 아유타야 왕국의 위협에서 벗어나 비교적 평화로운 시기를 보냈습니다. 하지만 16세기 말 아유타야 왕국은 또다시 캄보디아를 공격했고, 일부 지역을 점령하기에 이르러요. 그리고 이때부터 태국의 간섭이 시작됐죠. 아유타야 이후 톤부리 왕조(1767~1782), 그리고 오늘날까지 이어지는 짜끄리 왕조(1782~)에 이르기까지, 태국은 수백 년 동안 캄보디아의 정치에 개입합니다.&lt;br&gt;&lt;br&gt;캄보디아를 힘들게 한 건 태국만이 아니었습니다. 북쪽에서 점점 남쪽으로 세력을 넓히던 베트남은 17세기 중반 메콩강 유역으로 진출했고, 결국엔 캄보디아를 침공해 왕을 사로잡는 일까지 벌어집니다. 이후 캄보디아는 매년 베트남에 공물을 바쳐야 했는데요. 이런 상황에서 캄보디아 안에선 친태국파와 친베트남파로 갈라져 서로 다투기까지 했지요.&lt;br&gt;&lt;br&gt;태국과 베트남, 두 이웃 나라에 시달려 온 캄보디아는 19세기 중반에 새로운 선택을 하게 됩니다. 때마침 인도차이나에선 프랑스가 세력을 넓히고 있었습니다. 프랑스는 베트남 남부(코친차이나)를 차지하고 있었고, 태국과 베트남 사이에 있는 캄보디아를 차지하면 세력을 더 키울 수 있었죠. 이런 상황에서 당시 캄보디아의 노로돔 왕은 태국과 베트남의 압박에서 벗어나기 위해 프랑스에 보호를 요청하고 1863년엔 ‘보호 조약’을 맺었습니다. ‘프랑스는 캄보디아 내정에 간섭하지 않고, 외교만 대신해 준다’는 내용이었지만, 이는 지켜지지 않았고 결국 캄보디아는 프랑스의 식민지가 되고 말죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;프랑스가 맺은 협정 때문에 국경 분쟁 시작돼&lt;/b&gt;&lt;br&gt;&lt;br&gt;프랑스는 캄보디아를 식민지로 만들고 1907년엔 태국과 국경에 관한 조약을 맺습니다. 태국과 캄보디아의 국경선을 다시 설정한 것인데요. 문제는 이때 프랑스가 제작한 국경 지도였습니다. 국경 지대에 있는 ‘프레아 비헤아르 사원’은 지도에 캄보디아 영토로 표시되어 있었는데, 양국이 조약으로 정해놓은 경계에 대한 해석이 엇갈리면서 이 사원이 어느 쪽 영토에 속하는지 논란이 생긴 것이죠.&lt;br&gt;&lt;br&gt;그런데 태국은 오랫동안 이 사실을 문제 삼지 않다가, 훗날 지도를 검토한 뒤 “사실 이 사원은 우리 땅에 있다”고 주장했죠. 그러고는 1950년대 캄보디아가 프랑스로부터 독립할 분위기가 되자 사원 지역에 국경수비대를 배치해 이곳을 점령했습니다. 향후 신생국 캄보디아와의 국경 분쟁을 대비해 선제 행동을 한 셈이죠.&lt;br&gt;&lt;br&gt;1953년 캄보디아가 독립한 뒤, 캄보디아 정부는 프레아 비헤아르 사원 관련 국경 문제를 협의하기 위해 태국에 회담을 제의했지만 태국은 응하지 않았습니다. 1962년엔 국제사법재판소(ICJ)가 캄보디아의 손을 들어주며 사원이 캄보디아 영토에 속하게 됐지만, 양국 간 분쟁은 계속됐죠.&lt;br&gt;&lt;br&gt;특히 캄보디아가 프레아 비헤아르 사원을 유네스코 세계문화유산으로 등록 신청하는 과정에서 사원과 인접 지역을 자국의 영토로 표기했고, 이에 2008년 태국은 군대를 출동시키며 강력히 반발했습니다. 2011년에는 사원 주변에서 교전이 발생해 수십 명의 사상자가 발생하기도 했고요. &lt;br&gt;&lt;br&gt;이번 양국의 충돌 또한 이 문제가 해결되지 않고 이어져 온 것입니다. 역사적으로 켜켜이 쌓인 갈등과 국민 사이의 깊은 감정의 골까지 얽혀 있는 만큼, 앞으로 이 문제가 어떻게 풀릴지는 여전히 불투명합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] on the flip side</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/13/3XQHLE3TCJE7RIHE5UK7MIDVTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/13/3XQHLE3TCJE7RIHE5UK7MIDVTQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCDLFKNZCRFLFFCAX74LRVUTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 시혼(詩魂)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/13/4S32XDVC7BAPDIW25Q77SY7KGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/13/4S32XDVC7BAPDIW25Q77SY7KGU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YEILWD3MXRAK7M4VAU2L3WZYWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2683] 사다리를 타자</title>
-      <link>https://www.chosun.com/national/nie/2025/08/13/Y5OTAV2YXZERZCSJMSUY6CVADE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/13/Y5OTAV2YXZERZCSJMSUY6CVADE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2QHIC3AZ5AJHK7XLLY7KKMSVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 무침 (요리)</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/13/TCHKDKNWN5G2TJDEXYVMGNM6CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/13/TCHKDKNWN5G2TJDEXYVMGNM6CA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBVY7ZAGVBEPHANJ3QCI53FNHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 물고기가 우글우글하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/13/PBSVCW7NLFC7XJKNNGAJXXAWXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/13/PBSVCW7NLFC7XJKNNGAJXXAWXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BU3TRLQ5CJCSNNBXY4LLLPQV7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 경찰, 가수 ‘폴킴’ 악플러 미국에서 소환 조사</title>
       <link>https://www.chosun.com/national/national_general/2025/08/13/2BOIWJ7HIBFZ7HFECSY7FUI2XY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/13/2BOIWJ7HIBFZ7HFECSY7FUI2XY/</guid>
@@ -936,18 +949,6 @@
       <description/>
       <pubDate>Tue, 12 Aug 2025 07:48:58 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPL47GA5ZXZDBCKBCXZGQ7NNUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담한 혐의 등으로 특검 수사와 재판을 받고 있는 김용현 전 국방부 장관이 ‘내란 특검법’ 조항에 대해 위헌법률심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 12일 서울중앙지법 형사25부(재판장 지귀연)에 내란 특검법 제11조 1·3·4항에 대해 위헌법률심판 제청을 해달라고 신청했다. 위헌법률심판은 법률이 헌법에 위반되는지 재판에 영향을 미칠 때 헌법재판소에서 위헌 여부를 심판받는 제도다. 재판부가 직권 또는 소송 당사자 신청을 받아들여 헌재에 제청한다. 재판부가 헌재에 제청할 경우 헌재 결정이 나올 때까지 재판은 정지된다.&lt;br&gt;&lt;br&gt;김 전 장관 측이 문제 삼은 11조 1항은 ‘특검이 공소 제기한 사건 재판은 다른 재판에 우선해 신속히 해야 한다’고 규정한 조항이다. 1심은 공소제기로부터 6개월 내, 2·3심은 전심 판결 선고일로부터 각각 3개월 이내에 해야 한다고 기간을 명시하고 있다. 김 전 장관 측은 해당 조항이 “피고인의 방어권과 공정하게 재판 받을 권리를 침해한다”고 했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 ‘재판의 심리·판결을 공개’하도록 한 같은 조 3항과 ‘특검이 재판 중계를 신청할 경우 특별한 사정이 없는 한 재판장이 이를 허가해야 한다’고 규정한 4항도 위헌이라는 입장이다. 김 전 장관 측은 “국가 안보 등 예외적으로 비공개 심리를 허용하는 헌법·법률의 취지를 침해한다”고 했다. &lt;br&gt;&lt;br&gt;김 전 장관은 윤석열 전 대통령에게 비상계엄 선포를 건의하고 군 병력의 국회 투입 등을 지시한 혐의(내란 중요임무 종사·직권남용)로 작년 12월 27일 구속 기소돼 재판을 받고 있다. 또 비상계엄 선포 전날인 작년 12월 2일 대통령경호처를 속여 비화폰을 지급받은 뒤 노상원 전 국군정보사령관에게 전달하고, 12월 5일 수행비서 역할을 한 측근 양모씨에게 계엄 관련 자료를 없애라고 지시한 혐의로 추가 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희, 구속 심사 종료…서울남부구치소서 대기       </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/LRENNNNDYNDUFBOVJKQT4RZ5IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/LRENNNNDYNDUFBOVJKQT4RZ5IQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 12 Aug 2025 05:37:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NI3EKSLV7JJB7E7SLL447OYTD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 윤석열 전 대통령 부인 김건희 여사가 12일 구속 전 피의자 심문(영장실질심사)을 마친 뒤 서울 서초구 서울중앙지법을 나서고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에 대한 구속 심사가 12일 오후 2시 35분쯤 끝났다. 김 여사는 서울 구로구 서울남부구치소로 이동해 결과를 기다릴 예정이다. 구속 여부는 이르면 이날 밤 결정된다. &lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 이날 오전 10시 10분부터 321호 법정에서 약 4시간 25분간 김 여사에 대한 영장실질심사를 진행했다. 재판부는 오후 1시쯤 5분간 휴정했고, 점심 식사를 위한 휴정은 따로 갖지 않았다.&lt;br&gt;&lt;br&gt;김 여사는 이날 오후 3시쯤 법원 1층에 모습을 드러냈다. “법정에서 직접 발언했느냐” “서희건설 회장이 목걸이 전달했다고 자수서 냈는데 어떤 입장인가” “구속 필요성 주장에 대한 입장이 있는가” “3가지 혐의를 다 부인하느냐” “국민들에게 할 말 없는가”라는 취재진의 질문에 아무런 답변을 하지 않고 차량에 탑승했다. 법원에서 걸어나오는 내내 시선은 아래를 향해 있었고, 약간 비틀거리기도 했다.&lt;br&gt;&lt;br&gt;김 여사는 법원을 떠날 때 검은색 원형 뿔테 안경을 쓰고 있었다. 이날 오전 출석할 때는 안경을 쓰지 않았었다. 앞서 지난 6일 김 여사 관련 의혹을 수사 중인 민중기 특검팀에 출석해 소환 조사를 받았을 때와 같았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQSOU5BAFVK2RNNXEDHJ2POQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 구속 전 피의자 심문(영장실질심사)을 받기 위해 서울 서초구 서울중앙지법에 도착하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 심문에는 특검팀의 한문혁 부장검사를 포함한 검사 8명이 참석했다. 이날 오전 시작된 특검 측 변론은 오후 1시까지 약 3시간 동안 진행된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 여사 측에서는 최지우·채명성·유정화·배보윤 변호사가 나왔다. 김 여사 측은 약 80페이지 분량의 파워포인트(PPT) 자료를 준비해 1시간 넘게 입장을 밝힌 것으로 전해졌다. 도이치모터스 주가조작, 명태균 의혹, 건진법사 의혹 등 사건별 혐의를 부인하며 범죄가 성립되지 않는다는 주장을 펼쳤다고 한다.&lt;br&gt;&lt;br&gt;김 여사는 서울남부구치소 내 구인 피의자 거실에서 결과를 기다릴 예정이다. 당초 경기 의왕시에 있는 서울구치소로 갈 예정이었으나, 특검팀은 전날 구금·유치 장소 변경을 신청했고 법원이 이를 받아들였다. 서울구치소에는 구속된 윤석열 전 대통령이 수용돼 있다. &lt;br&gt;&lt;br&gt;앞서 특검팀은 지난 7일 김 여사에 대한 구속영장을 청구했다. 김 여사에 대한 구속영장이 발부되면 전직 대통령 부부가 동시에 구속되는 첫 사례가 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NVTGHHYWKZNTLHJ55BRHP6JOGI.JPG?auth=0408e81477b3af7c95a2bfb4caa97140573af0d37603bf7bc38efa4c62acd3e4&amp;smart=true&amp;width=2924&amp;height=1645" type="image/jpeg" height="1645" width="2924">
-        <media:description type="plain">(마드리드=뉴스1) 오대일 기자 = 윤석열 대통령과 부인 김건희 여사가 29일 오후(현지시간) 마드리드 시내 호텔에서 열린 재스페인 동포 초청 만찬간담회에서 박수치고 있다. (대통령실사진기자단) 2022.6.30/뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>울산 인공지능위원회 첫 출범... AI시대 대비</title>
