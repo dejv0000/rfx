@@ -13,6 +13,91 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북 칠곡서 60대 여성 열차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/08/15/FJNBG2TEOBCVLK5I6J25WQTDMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/08/15/FJNBG2TEOBCVLK5I6J25WQTDMU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 13:53:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡에서 60대 여성이 열차에 치여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;14일 오후 8시 34분쯤 경북 칠곡군 왜관역 인근 경부선 선로에서 구미 방향으로 가던 대경선(대구·경북선) 열차에 60대 여성 A씨가 치여 숨졌다.&lt;br&gt;&lt;br&gt;이 사고로 대경선 열차 2편과 일반열차 1편 운행이 10∼20분 지연됐다. 열차는 사고 발생 35분 만에 운행을 재개했다. 경찰 조사 결과 A씨는 가족으로부터 실종 신고가 접수된 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘로보캅’으로 변신하는 환경미화원</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/15/4TFHITKCCNH6LMJWMXHDDE5N24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/4TFHITKCCNH6LMJWMXHDDE5N24/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 13:40:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFCK64FGJJE3PELWBY5MZRSDPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오언석 서울 도봉구청장이 지난 5월 15일 ‘웨어러블(입는) 로봇’을 입고 쓰레기를 청소차에 옮기고 있다. /도봉구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도봉구가 환경미화원에게 ‘웨어러블(wearable·입는) 로봇’을 보급하는 사업을 추진한다. 장애인이나 노인 등을 위해 개발된 웨어러블 로봇을 환경미화원에게도 보급하는 것이다. 웨어러블 로봇은 모터와 인공지능(AI) 센서, 로봇 팔 등이 달린 옷이다.&lt;br&gt;&lt;br&gt;허리나 허벅지를 감싼 로봇 팔이 사람의 움직임을 인식해 밀어주기 때문에 무거운 물건도 쉽게 들어 올릴 수 있다. 오래 걸어도 덜 힘들다.&lt;br&gt;&lt;br&gt;도봉구는 지난 8일 국내 로봇 업체 4곳의 제품을 놓고 시연회도 열었다. 무거운 물건을 들 때 활용할 수 있는 ‘허리 보조’ 로봇과 걸을 때 힘이 덜 드는 ‘보행 보조’ 로봇을 우선 도입할 예정이다.&lt;br&gt;&lt;br&gt;허리 보조 로봇은 복대처럼 허리를 감싸 허리와 하체 근력을 보조해준다. 23년 차 환경공무원 전동식(52)씨는 “허리 보조 로봇을 입고 쓰레기 수거 차량에 무게 20kg 폐가구를 실었는데 평소보다 힘이 절반밖에 들지 않았다”며 “로보캅이나 아이언맨이 된 기분”이라고 했다. &lt;br&gt;&lt;br&gt;보행 보조 로봇은 로봇 팔이 허벅지를 들어 올려준다. 환경공무원 김수훈(41)씨는 “보행 보조 로봇을 입어보니 마치 몸에 스프링이 달린 것처럼 걸을 때 허벅지를 통통 끌어올려주는 느낌이 들었다”고 했다. 도봉구 관계자는 “거리 청소 일을 할 때는 하루에 10㎞는 걸어야 하는데 보행 보조 로봇을 입으면 힘이 20% 정도 덜 든다”고 했다. &lt;br&gt;&lt;br&gt;1대당 가격은 대략 300만원 수준이다. 무게는 1.5㎏ 안팎이다. 도봉구는 올해 4대를 우선 도입해 활용해 본 뒤 추가로 도입한다는 계획이다.&lt;br&gt;&lt;br&gt;오언석 도봉구청장은 “환경미화원은 고령자가 많은데 무릎, 허리 등 부상을 줄일 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울 금천구와 구로구도 웨어러블 로봇을 구입해 시범 운영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼성·LG는 안 되는데 샤오미는 된다?… 소비쿠폰 형평성 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/15/GVM47IJGARBU7B66C7IP5UXDHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/GVM47IJGARBU7B66C7IP5UXDHU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 11:57:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKO23REK2QQMOTX7FJEVXPPPHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샤오미 미 스토어 서울 IFC몰 여의도점 전경. /샤오미코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 매출 70조원 이상의 중국 가전 회사 샤오미 국내 직영 매장에서 한동안 소비쿠폰이 사용 가능했다는 점이 알려지면서 논란이 일었다. 이와 관련, 행정안전부는 소비쿠폰 사용처를 연 매출 30억원 이하 매장으로 일률적으로 적용하는 과정에서 불거진 일이라고 해명했다. 샤오미가 지난 6월 국내 매장을 처음 오픈해 제한 업종 지정이 늦어졌다는 것이다. &lt;br&gt;&lt;br&gt;행안부는 13일 설명자료를 통해 “샤오미 직영 매장이 올해 6월 28일에 입점했고, 그 이후 신용카드 가맹점으로 등록됨에 따라 사전에 제한 업종으로 조치하기 어려웠다”며 “금일 즉시 조치하여 샤오미 직영 매장을 사용처에서 제외했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 온라인 등에서는 중국 빅테크 대기업인 샤오미 국내 매장에서 소비쿠폰이 사용 가능하다는 점이 알려지면서 형평성 논란이 불거졌다. 연매출 70조원이 넘는 외국계 기업이 소비쿠폰 사용 가능처로 지정된 건 국내 소상공인 및 자영업자 매출 확대라는 정책 취지에 맞지 않는다는 지적이다. 네티즌들은 “한국 삼성·LG나 미국 애플은 사용 못하게 막고 중국 샤오미는 소비쿠폰 사용 가능한 게 맞나” “취지가 내수 활성화면 외국 기업은 배제해야 하는 것 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;이미 정부는 소비쿠폰 사용처 제한 매장으로 대형 외국계 매장, 대형 전자제품 판매점 등을 명시하고 있다. &lt;br&gt;&lt;br&gt;다만 이번 샤오미 사례는 신규 매장이 신용카드 가맹점으로 등록된 이후, 소비쿠폰 사용처를 연매출 30억원 이하 매장으로 일률적으로 적용하는 과정에서 불거진 것으로 파악됐다. 샤오미코리아가 지난 6월 한국 오프라인 공식 매장을 처음 오픈해 작년 매출이 잡히지 않아 소비쿠폰 사용 기준을 충족하게 됐고, 이후 업종 기준으로 소비쿠폰 제한 매장을 걸러내는 과정에서 샤오미가 필터링되지 않은 것으로 보인다. &lt;br&gt;&lt;br&gt;행안부 조처에 따라 앞으로 국내 샤오미 직영 매장에서는 소비쿠폰 사용이 불가능하다. 행안부는 이런 일이 반복되지 않도록 사용처 관리를 더욱 꼼꼼히 하겠다는 입장이다. 행안부는 “앞으로 소비쿠폰이 지역경제･골목상권 회복을 위한 ‘가치 소비’로 이어질 수 있도록 사용처 관리에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>계엄 가담 의혹 해경 간부...해경청 ‘대기발령’</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/15/TZMRUIRMGND2ZIMDMPKZKBKRDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/15/TZMRUIRMGND2ZIMDMPKZKBKRDA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 13:41:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청 전경. /해경청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담했다는 의혹이 제기된 안성식 본청 기획조정관이 직무에서 배제됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 14일 보도자료를 통해 “안 조정관의 정상적인 직무 수행이 곤란하다고 보고 대기발령 조치했다”고 밝혔다. &lt;br&gt;&lt;br&gt;안 조정관은 계엄 사태 당시 파출소 청사 방호를 위한 총기 휴대 검토와 계엄사 수사 인력 파견 등을 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 계엄 사범을 수용하기 위해 유치장을 비우라고 지시한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;안 조정관은 윤석열 전 대통령과 같은 충암고 출신이다. &lt;br&gt;&lt;br&gt;본청 형사과장으로 재임하던 2022년 3월, 해경 출신으로는 처음 대통령직 인수위원회에 파견됐다.&lt;br&gt;&lt;br&gt;이후 2023년 총경에서 경무관으로, 지난해에는 치안감으로 2년 사이 두 계급 승진했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정읍 공장 에어탱크 폭발로 치료 받던 50대 숨져</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/08/15/NXPUW6RVFVBTFGFZH5CRYP5FVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/15/NXPUW6RVFVBTFGFZH5CRYP5FVQ/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 13:11:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 전북 정읍의 한 공장 에어탱크 폭발로 다쳐 치료중이던 50대 근로자가 사망했다. &lt;br&gt;&lt;br&gt;14일 정읍경찰서에 따르면 당시 사고로 얼굴 등을 크게 다쳐 병원에서 치료받던 50대 근로자 A씨가 사고 15일 만인 이날 오후 7시 40분쯤 숨졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 30일 오전 11시 14분쯤 정읍시 북면의 한 필터 생산공장에서 시험 가동 중인 에어탱크가 폭발해 A씨 등 2명이 중상을 입는 등 모두 6명이 다쳤다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 실명 위험에 병원 간 尹, 수갑·전자발찌 찼다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 11:51:51 +0000</pubDate>
+      <content:encoded>실명 위험으로 외부 병원에서 진료를 두 차례 받은 윤석열 전 대통령이 진료를 받는 동안 수갑과 전자발찌를 착용했던 것으로 14일 확인됐다. 교정당국 측은 “특혜 시비를 사전에 차단하기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 5일 오후 서초구 서울고등검찰청에서 내란특검 2차 대면조사를 받은 뒤 청사를 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 지난 13일과 이날 경기 안양시에 있는 한림대성심병원에서 안과 진료를 받을 때 이 같은 조치를 받은 상태였다고 한다. 교정당국은 구속 피의자가 진료 등 이유로 구치소 밖에 잠시 나갈 때 이러한 조치를 취한다고 설명했다. 최근 윤 전 대통령을 둘러싸고 변호인 단독 접견 등 특혜가 제공되고 있다는 비판이 이어지는 점을 의식한 것이 아니라, 다른 수용자들과 똑같은 기준을 적용했다는 얘기다.&lt;br&gt;&lt;br&gt;한편 법무부는 이날 윤 전 대통령이 수감된 서울구치소장을 교체했다고 밝혔다. 더불어민주당 등 여권을 중심으로 ‘윤 전 대통령에게만 특혜를 준다’는 비판이 제기되면서 문책성 인사를 시행했다는 평가가 법조계에서 나왔다.&lt;br&gt;&lt;br&gt;김현우 서울구치소장은 안양교도소장으로 이동하게 됐고, 신임 서울구치소장에는 김도형 수원구치소장이 임명됐다. 법무부는 “이번 인사는 그간 윤 전 대통령의 수용처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단 하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 법원이 지난달 10일 내란특검이 청구한 구속영장을 발부하면서 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동 시간과 목욕 시간을 다른 수용자들과 따로 가지고, 변호인 접견도 별도의 공간에서 하도록 했다.&lt;br&gt;&lt;br&gt;그러나 이를 두고 ‘다른 수용자들은 받지 못하는 특혜’라는 비판이 정치권을 중심으로 나오자, 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공을 중단했다. 다만 교정 당국은 안전상의 우려로 운동·목욕 시간은 앞으로도 일반 수용자들과 동선을 달리 할 계획이다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로도 특혜 시비 없는 공정한 수용관리 등 엄정한 법 집행에 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“10·26은 탕탕절” 최교진 교육장관 후보 글 논란</title>
+      <link>https://www.chosun.com/national/education/2025/08/15/YNAGMFJRVBFELN6YEHDEE7LHIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/15/YNAGMFJRVBFELN6YEHDEE7LHIU/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 11:19:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NZ3CO2NOJKL5FIYC3S6VW44PA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자가 14일 오전 서울 영등포구 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 과거 소셜미디어에 박정희 전 대통령 저격 사건을 희화화하고, 천안함 피격 사건의 재조사가 필요하다는 취지의 글을 올려 논란이 되고 있다. &lt;br&gt;&lt;br&gt;최 후보자는 세종시교육감이던 2019년 10월 26일 페이스북에 ‘오늘을 탕탕절이라고 부르기도 한다지요? 안중근 의사가 이토 히로부미를 하얼빈역에서 쏜 날이고, 김재규가 독재자 박정희 대통령을 살해한 날이기도 하다’는 글을 올렸다. ‘탕탕절’은 박 전 대통령 피격 사건을 총소리에 빗대 희화화한 표현으로, 진보 성향 온라인 커뮤니티를 중심으로 쓰였다. 최 후보자의 해당 게시물은 현재는 내린 상태다. &lt;br&gt;&lt;br&gt;최 후보자는 ‘천안함 폭침 음모론’을 주장한 게시물도 여러 차례 공유했다. 그는 천안함 3주기인 2013년 3월 26일 페이스북에 천안함 침몰 원인에 대한 정부 발표에 의문을 제기하는 내용의 언론 기사를 공유하며 “역사적 진실을 밝히는 차원에서 천안함 문제를 접근해야 하는 것 아닐까요?”라고 썼다. 해당 게시물에 ‘천안함에 대하여 어느 누가 진실을 파헤치게 되겠습니까’라는 댓글이 달리자 최 후보자는 ‘역사는 반드시 진실을 밝혀낼 겁니다’라고 답글을 달았다. 천안함 피격이 북한의 소행이라는 정부 발표가 잘못됐다는 취지로 해석된다. 그해 12월 14일에는 ‘천안함 폭침 이유는 이스라엘 잠수함, 신상철 대표 법정 자료 제출’이라는 제목의 글을 공유했다. 인터넷 매체 대표였던 신씨는 민주당 추천으로 2010년 천안함 민군 합동조사단에 위원으로 참여했는데, ‘천안함 좌초설’ 등 음모론을 주장해 왔다. 그의 주장은 민군 합동조사단이 북한의 어뢰 공격에 의한 침몰로 공식 결론을 내리면서 허구임이 드러났다. 그런데도 최 후보자는 신 대표가 ‘천안함과 충돌해 침몰했던 이스라엘 잠수함을 건져 올려 수리한 증거가 있다’고 주장하는 글을 페이스북에 공유한 것이다. 같은 해 4월엔 천안함 좌초설, 제3국 잠수함 충돌설 등 정부 발표와 다른 주장을 제기한 다큐멘터리 영화에 대한 기사를 공유하며 “(영화를 만든) 감독과 함께하신 분들께 고맙습니다”라고 썼다.&lt;br&gt;&lt;br&gt;최 후보자는 조국 전 법무부 장관의 자녀 입시 비리가 발생한 2019년에 조 전 장관을 옹호하는 글을 여러 차례 공유하기도 했다. &lt;br&gt;&lt;br&gt;올해 72세인 최 후보자가 “70세 이상은 선출직에 출마하지 말아야 한다”고 말한 부분도 재조명되고 있다. 최 후보자는 지난달 세종시교육청 브리핑에서 ‘세종시장 출마 의사가 있느냐’는 질문에 “개인적으로 만 70세가 넘은 분들은 선출직에 출마하지 않도록 법을 만드는 것이 어떨까 생각한다”고 답했다. 장관 지명 후 “선출직은 안 되고 임명직은 괜찮은 것이냐”는 얘기가 나왔다. &lt;br&gt;&lt;br&gt;최 후보자의 음주 운전 전력에 대한 비판 목소리도 거세지고 있다. 최 후보자는 2003년 12월 음주 운전으로 벌금 200만원형을 선고받았다. 정재석 전북교사노조 위원장은 14일 페이스북에서 “교사는 5대 비위(성적 조작, 금품 수수, 횡령, 아동 폭력, 음주 운전)가 있으면 교감, 교장이 될 수 없다”면서 “음주 운전을 하면 교장은 교감으로 강등되고 교감은 교사로 강등된다. 최 후보자는 음주 운전 이력이 있어 환영하기 힘들다”고 했다. 그는 “2022년 박순애 당시 교육부 장관 후보자의 2001년 만취 상태 음주 운전 이력을 문제 삼아 지명 철회를 요청한 적 있다. (이번에도) 잣대가 달라서는 안 된다고 생각한다”며 “우리 노조 출신이라고, 교사 출신이라고, 음주 운전을 눈감아 주면 안 된다”고 했다. &lt;br&gt;&lt;br&gt;최 후보자는 이날 서울 여의도 인사청문회 준비 사무실로 첫 출근하며 “교육을 통해 매우 빠르게 변화하는 새로운 시대를 이끌어갈 수 있는 인재를 기르는 것이 가장 첫 과제”라며 “대학에서 훌륭한 인재를 잘 길러낼 수 있도록 국가에서 재원을 최대한 확보해 대학을 혁신하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5NZ3CO2NOJKL5FIYC3S6VW44PA.JPG?auth=8495dbb2574f574248dd007dc100866cd7177889a2feae236253a68a647f504b&amp;smart=true&amp;width=3974&amp;height=2865" type="image/jpeg" height="2865" width="3974">
+        <media:description type="plain">최교진 교육부 장관 후보자가 14일 오전 서울 영등포구 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘주식 차명거래’ 혐의 이춘석 의원 소환조사</title>
+      <link>https://www.chosun.com/national/incident/2025/08/15/T6SUGE3UTJDNXCA74TTFWTWRQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/15/T6SUGE3UTJDNXCA74TTFWTWRQQ/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 10:37:37 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRHPTXVSCIZGTOND7OKGKFLTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'주식 차명거래 의혹'이 제기된 이춘석  의원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 주식 차명 거래 의혹이 불거진 이춘석(전북 익산갑) 무소속 의원을 14일 피의자 신분으로 소환 조사했다. 이 의원은 보좌관 차모씨 명의로 주식을 거래한 혐의를 받고 있다. 이 의원은 지난 4일 국회 본회의 도중 스마트폰의 주식 거래 앱을 만지는 장면을 찍은 사진이 보도돼 파문이 일자 더불어민주당에서 제명됐고 국회 법제사법위원장직에서도 사퇴했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 이 의원을 소환해 조사를 벌였다. 이 의원은 이날 오후 6시 45분 금융범죄수사대가 있는 마포청사로 출석했다. 경찰은 이 의원에게 보좌관 차씨 명의로 주식 차명거래를 한 것이 맞는지 등을 캐물은 것으로 전해졌다. 경찰은 이 의원과 보좌관 차씨를 자본시장법 위반과 금융실명법 위반 등 혐의로 입건했다. 현재 두 사람은 출국 금지 상태로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 이날도 “보좌관 휴대전화를 잘못 가져갔고, 차명 거래를 한 적은 없다”고 진술한 것으로 전해졌다. 경찰은 앞서 지난 11일 차씨와 의원실 관계자 등 8명을 불러 조사했다. 차씨는 지난 11일에 이어 다음 날까지 이어진 두 차례 조사에서도 같은 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 법조계에선 “이 의원이 차명 거래를 하는 장면이 실시간으로 언론을 통해 포착된 만큼 경찰이 수사에 더욱 속도를 낼 것”이란 관측이 나오고 있다. 인터넷 매체 더팩트 기사에는 이 의원이 지난 4일 국회 본회의장에서 고개를 숙인 채 테이블 밑에서 휴대전화 앱으로 주식 거래를 하는 사진 넉 장이 연속해서 실렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사별 후 20년 홀로 산 80대 노인…HIV 감염 미스터리</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 00:30:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C45YADW2BVOPZFJ25J7IC7HWP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HIV 검사 키트./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에서 80대가 ‘인간면역결핍바이러스(HIV)’ 감염 판정을 받아 의학계의 주목을 받고 있다. 전 세계적으로 80세 이후 HIV 진단 사례가 많지 않은 데다, 이 노인은 배우자와 사별 후 20년간 성적 접촉이 없었다고 한다.&lt;br&gt;&lt;br&gt;국민건강보험공단 일산병원 의료진은 7일 국제학술지 ‘임상 사례 보고’(Clinical case reports) 최신호 논문을 통해 지난해 림프종에 따른 항암제 치료를 위해 시행한 혈액검사에서 HIV 양성으로 최종 진단된 A(85)씨의 사례를 보고했다.&lt;br&gt;&lt;br&gt;HIV는 후천성면역결핍증후군(AIDS·에이즈)을 일으키는 바이러스다. HIV 바이러스 감염자가 면역 결핍이 심해져 합병증이 생기면 에이즈 환자가 된다. 국내 HIV 감염인은 20∼40대가 80% 이상을 차지할 정도로 젊은 층에 집중돼 있다.&lt;br&gt;&lt;br&gt;보고에 따르면 A씨의 HIV 감염 경로는 그야말로 미스터리다. &lt;br&gt;&lt;br&gt;A씨는 20여 년 전 배우자가 심장 질환으로 사망한 후 줄곧 홀로 살아왔다. 이후 성관계는 없었다고 한다.&lt;br&gt;&lt;br&gt;배우자는 심장 질환으로 대학 병원에 입원해 있는 동안 여러 차례 시술과 검사를 받았던 터라, HIV 감염 가능성은 작았다는 게 가족의 주장이다.&lt;br&gt;&lt;br&gt;더욱이 A씨는 림프종 진단을 받기 전까지 HIV 수술이나 입원은 물론 수혈, 주사 약물 사용, 침술, 문신 등의 경험도 없었던 것으로 알려졌다. 감염 경로가 될 수 있는 상황에 노출된 일이 없다는 얘기다.&lt;br&gt;&lt;br&gt;따로 사는 두 아들도 모두 HIV 음성으로 판정됐다. &lt;br&gt;&lt;br&gt;의료진은 수년 전에 HIV 감염이 이뤄졌을 것으로 추정했다. A씨의 혈액 내 면역세포(CD4) 수가 많고, 바이러스 농도가 높은 점이 그 이유였다.&lt;br&gt;&lt;br&gt;이에 의료진은 A씨의 감염 경로보다 고령자에 대한 HIV 진단이 부재한 현실에 주목해야 한다고 지적했다.&lt;br&gt;&lt;br&gt;의료진은 논문에서 “고령자의 성생활을 배제하거나 HIV를 노인의 질환으로 보지 않는 편견이 진단 지연의 큰 요인이 될 수 있다”며 “사회적 고립과 낮은 건강 정보 이해력도 진단이 늦어지는 데 복합적으로 작용한 것으로 보인다”고 분석했다.&lt;br&gt;&lt;br&gt;현재 대부분의 HIV 검사는 13∼64세 사이의 연령을 중심으로 권장되고 있으며, 노인을 대상으로 한 선별검사 지침이나 80세 이상 감염자 통계는 사실상 없는 상황이다.&lt;br&gt;&lt;br&gt;전문가들은 이번 사례를 통해 고령자에게서도 임상 상황에 따라 HIV 검사가 반드시 고려돼야 하며, 특히 사회적 취약성이 중첩된 노인의 경우 선제적인 검진이 필요하다고 짚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>1만3500원짜리 배달죽 알고보니... 2000원짜리 즉석식품? </title>
       <link>https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</guid>
@@ -794,24 +879,6 @@
       <content:encoded>지난달 17일 충남 서산에는 시간당 최고 114.9㎜나 되는 기록적인 폭우가 쏟아졌습니다. 경남 산청에는 나흘 동안 비가 800㎜ 가까이 내려 매우 큰 피해가 발생했지요. 이젠 ‘폭우’라는 말뿐 아니라 ‘극한 호우’라는 표현도 뉴스에서 일상적으로 접할 수 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QINIOHI74FEQLK437H5WDZUODQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 17일 광주광역시 한 거리에서 우비를 입고 우산을 쓴 사람들이 폭우를 뚫고 지나가고 있어요. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그렇다면 도대체 얼마나 많은 비가 내려야 폭우라고 할 수 있을까요? 숫자로만 보면 얼마나 비가 많이 오는지 가늠하기 어렵지요. 먼저 시간당 3㎜ 미만의 비는 이슬비처럼 약한 비라고 생각하면 된답니다. 5~10㎜는 우산을 써야 하지만 우산을 쓰면 걸어다닐 수 있는 정도입니다. 20~30㎜면 길에 웅덩이가 깊어지고 신발도 다 젖을 정도의 비예요. 창문을 때리는 빗소리도 크게 들리지요. 시간당 30㎜ 이상이면 ‘매우 강한 비’입니다. 우산이 크게 소용이 없고, 시야 확보가 어려워 운전도 힘들어집니다.&lt;br&gt;&lt;br&gt;시간당 50㎜ 이상이면 ‘극한 호우’로, 양동이로 물을 쏟는 것처럼 비가 옵니다. 시간당 100㎜ 이상은 폭포 밑에 서 있는 것과 비슷하지요. 그리고 하루에 300㎜ 이상 비가 내리면 대규모 침수와 범람, 산사태가 일어납니다. &lt;br&gt;&lt;br&gt;이번 폭우 기간 중 서산에서 시간당 114.9㎜의 비가 내린 것을 두고 기상청은 ‘200년에 한 번 내릴 수준’이라고 표현했습니다. 그런데 200년 전엔 강수량 데이터가 없는데, 어떻게 이렇게 말할 수 있는 걸까요? 이는 200년 전에 실제로 이 정도의 비가 내렸다는 것이 아니라, 그동안 쌓인 관측 데이터를 바탕으로 평균과 분포를 구한 것이랍니다. 과거와 비교했을 때 이 정도 양의 비가 내릴 확률은 어느 정도 되는지 계산한 것이죠. 만약 발생 확률이 1%라면, 100년 동안 관측을 했을 때 한 번 있을 정도인 것입니다. 이번 서산의 경우 이 정도 양의 비가 올 확률은 0.5%였으니, ‘200년 만의 폭우’라고 표현한 것이죠. 2022년 8월 서울에 시간당 최대 141㎜의 비가 내렸을 때 서울 기준 ’500년에 한 번 올 폭우’라는 분석도 나왔어요. &lt;br&gt;&lt;br&gt;그렇다면 이처럼 극한 호우가 내리는 원인은 무엇일까요? 먼저 지구 온난화로 인한 기온 상승입니다. 온도가 1도 올라가면 공기가 머금을 수 있는 수증기 양이 약 7% 늘어납니다. 더 많은 물을 머금고 있으니 비의 양도 늘어나는 것이죠. 바다도 따뜻해지고 있으니 공기 중으로 훨씬 많은 수증기를 공급하지요.&lt;br&gt;&lt;br&gt;최근엔 기후 변화로 찬 공기와 더운 공기가 만나는 경계(전선)에서 온도 차이가 커지고 있는데, 이렇게 되면 대기가 불안정해지면서 비구름이 더욱 강하게 발달하게 됩니다. &lt;br&gt;&lt;br&gt;과학자들은 지구 온난화로 인해 앞으로 폭우가 더 자주, 더 강하게 내릴 것이라고 보고 있습니다. 기후 변화로 비가 내리는 패턴이 불규칙해지면서 단 며칠 만에 1년 치 비가 내리기도 하니, 폭우 피해를 예방하기 위해 새로운 대책이 필요한 시점입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 서울 중심서 600년 역사 품어… 세 번이나 다시 지어졌죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/14/UQ6DTSZHSJCBVJBFQP5BXVDNPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/14/UQ6DTSZHSJCBVJBFQP5BXVDNPQ/</guid>
-      <dc:creator>유석재 역사문화전문기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SMK6AH3KUVFQRMFNDFV6NJUWQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현재 광화문 모습이에요. 왕실 의례 때 사용했던 광화문 앞 월대가 2023년에 복원됐습니다. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 서울 경복궁의 정문인 광화문(光化門)의 석축에 매직펜으로 쓴 낙서가 발견돼 국가유산청이 제거 작업을 했다는 뉴스가 나왔어요. 낙서를 한 사람은 현장에서 경찰에 체포됐습니다. 우리나라 대표 유산 중 하나인 경복궁에 1년 8개월 만에 또다시 낙서 사건이 발생한 것입니다. 그것도 가장 친숙한 건물인 광화문에 말이죠. 오늘은 광화문에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘임금의 덕으로 바른 정치를 사방에 미친다’&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리는 광복의 기쁨을 말할 때 ‘광화문 앞에 태극기가 휘날렸다’는 표현을 잘 씁니다. 작가 심훈은 시 ‘그날이 오면’에서 광복이 된다면 ‘육조 앞 넓은 길을 울며 뛰며 뒹굴’ 것이라고 노래했는데, ‘육조 앞 넓은 길’이란 지금의 광화문광장입니다. ‘광화문 한복판’ ‘광화문네거리(정식 명칭은 세종대로사거리)’라는 말에서 보듯 광화문은 수도 서울의 가장 중심이라는 상징성을 지니고 있습니다. 광화문과 광화문네거리가 광화문광장을 사이에 두고 약 600m 떨어져 있어 약간 혼동을 주기도 하지만요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCXOMZD62RFFHMDE3XFQQYSUL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광화문 일대 전경. 광화문과 광화문네거리(세종대로사거리) 사이에는 광화문 광장이 있어요. 이곳은 조선 시대 때에는 중앙 관청이 늘어서 있던 '육조거리'였습니다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광화문이 처음 지어진 것은 조선 초기인 1398년(태조 7년)의 일이었습니다. 조선의 법궁(法宮)이라 할 수 있는 경복궁이 지어진 것은 1395년이었는데요. 법궁은 왕이 거처하고 정사를 보던 궁궐 중에서도 가장 중심이 되는 궁궐이에요. 이때 현재의 흥례문 자리에 있던 오문(午門)이 정문 역할을 했다가 나중에 궁성을 추가로 지으면서 동문인 건춘문(建春門), 서문인 영추문(迎秋門)과 함께 광화문이 건립됐습니다. 이렇게 해서 경복궁의 중심 건물이자 정전(왕이 조회를 하던 궁전)인 근정전으로 가려면 정문인 광화문과 흥례문, 근정문의 세 문을 지나게 됐죠.&lt;br&gt;&lt;br&gt;이 경복궁 정문에 ‘광화문’이란 이름이 붙은 것은 1426년(세종 8년)이었습니다. 무슨 뜻이었을까요? ‘빛[光]으로 교화[化]해 나라와 백성을 밝게 비춘다’는 의미예요. 사서삼경의 하나인 ‘서경’에 나오는 ‘광피사표(光被四表) 화급만방(化及萬方)’, 즉 ‘빛이 사방을 덮고 교화가 만방에 미친다’는 글귀에서 앞의 한 글자씩 따온 것이라고 하네요. ‘빛’은 군주의 덕이고 ‘교화’란 바른 정치를 말한다는 해석도 있습니다. 그 이름을 세종대왕 때 지었다는 것에서 고개가 끄덕여지기도 해요. 광화문을 지날 때마다 이 문에서 생겨난 빛이 사방을 환히 비추는 모습을 상상하곤 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;일본인도 반대한 ‘광화문 철거’&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선 왕실과 국가의 권위를 상징적으로 대변하는 광화문은 석축 기단의 세 곳에 홍예문(문의 윗부분을 무지개 모양으로 반쯤 둥글게 만든 문)을 내 3문 형식을 갖춘 문입니다. 그런데 발굴 조사 결과 조선 전기에는 둥근 문이 아니라 사각형 형태였을 가능성도 있다고 하네요. 또 광화문 양쪽 옆에 물이 드나드는 수문이 있어서 5문으로도 보였다고 합니다. ‘황제국의 문은 5개, 제후국의 문은 3개’라는 ‘주례’의 규정을 절충했다는 해석도 있어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIRLV44IKNE6HPDDQMWKVEVCZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중앙청(옛 조선총독부 건물)이 철거되기 전의 광화문 일대 풍경이에요. 광화문 뒤쪽에 보이는 석조 건물이 1996년 철거된 옛 조선총독부 청사입니다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1592년(선조 25년) 임진왜란이 일어나 경복궁이 불타면서 광화문도 함께 사라지고 말았습니다. 이후 270여 년 동안 경복궁 일대는 폐허로 남아 있다가 1865년(고종 2년) 흥선대원군이 경복궁을 중건하면서 다시 지어지게 됐어요. 광화문 현판의 글씨는 무관 임태영이 쓴 것이라고 ‘고종실록’에 기록됐습니다.&lt;br&gt;&lt;br&gt;그런데 다시 지어진 지 50여 년 만에 광화문은 또 수난을 겪게 됩니다. 1916년 일제는 경복궁 앞뜰을 훼손해 조선총독부의 새 청사를 짓기 시작했습니다. 이 건물은 10년 뒤 완공됐는데, 이 과정에서 총독부 건물 앞에 있는 광화문도 철거 위기를 맞게 됐어요. 이에 대해 많은 조선인은 물론 일부 일본인도 ‘철거 반대’를 주장하고 나섰습니다.&lt;br&gt;&lt;br&gt;대표적인 인물이 저명한 미술 평론가 야나기 무네요시(1889~1961)였습니다. 그는 “만약 조선이 발흥하고 일본이 쇠퇴해 일본이 조선에 합병되고, 에도(도쿄의 옛 이름)의 궁성이 폐허가 되며 그 자리에 서양풍의 큰 총독부 건물을 짓게 된다고 상상해 보라”고 했습니다. 또 “이곳으로부터 조선이 존재한다는 거룩한 사명을 다하고 있는 여러 많은 건축이 전면 좌우에 이어져 있으며, 광대한 도성의 대로를 직선으로 해 한성을 지키는 숭례문과 서로 호응한다”며 광화문의 건축적 의미를 강조했습니다. 총독부에선 기분이 나빴는지 “그 자는 혹시 조선인인데 일본인 행세를 하는 게 아니냐”며 뒷조사를 했는데 일본인이 맞았다고 합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;이전, 폭격, 그 뒤로 두 번 다시 짓다&lt;/b&gt;&lt;br&gt;&lt;br&gt;광화문은 가까스로 철거 위기에서 벗어났지만, 일제는 총독부 청사를 가리는 것만큼은 두고 볼 수 없었습니다. 그래서 건춘문 북쪽으로 광화문을 해체해 이전했죠. 해방 뒤 옛 총독부 청사는 대한민국 중앙청으로 바뀌었고, 1948년 8월 15일 이곳에서 정부 수립 선포식을 했죠. 옮겨진 광화문은 안타깝게도 1950년 6·25 전쟁 때 폭격을 맞아 불타 버렸고 아래쪽 석축만 남았습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAPULOPCFBEBXEPU3TDFJREXEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경복궁 흥례문. 광화문을 지나면 흥례문이 나오고, 그 안쪽에 근정문이 있어요. 중심 건물인 근정전으로 가려면 이 세 문을 차례로 지나야 하죠. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1968년 광화문은 중앙청 앞에 다시 복원됐습니다. 남아 있는 석축을 활용했고, 나무가 아닌 철근 콘크리트로 건물을 지었습니다. 산업화가 이뤄지던 당시엔 현대적인 신공법으로 복원했다는 인식 때문에 부정적인 여론이 일어나지는 않았습니다. 박정희 대통령이 ‘광화문’이라고 쓴 한글 현판이 걸렸죠. 이 ‘콘크리트 광화문’을 지금도 기억하는 사람이 많습니다.&lt;br&gt;&lt;br&gt;1993년 들어선 김영삼 정부는 ‘역사 바로 세우기’ 정책의 하나로 1996년까지 옛 조선총독부(중앙청) 건물을 철거했습니다. 이제 광화문도 옛날 모습으로 다시 짓는 일이 현안으로 떠올랐죠. 콘크리트로 지은 광화문은 2006년 철거됐고, 옛 방식대로 소나무와 화강암을 부재로 삼아 짓고 한자 현판을 단 광화문이 2010년에 복원됐습니다. 2023년에는 광화문 앞 월대(궁궐의 주요 건물 앞에 만들었던 넓은 대)가 복원됐는데, 고종 시기 중건 때는 월대가 있었으나 조선 전기에 있었다는 근거는 없어 논란이 일기도 했습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [책 속의 위로] 시한부 의사가 되돌아본 삶의 의미 “돈보다 값진 건 사랑하는 이의 미소”</title>
-      <link>https://www.chosun.com/national/nie/2025/08/14/OTE2MYZQFVH7HLVSF6LCYBHCCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/14/OTE2MYZQFVH7HLVSF6LCYBHCCQ/</guid>
-      <dc:creator>이진혁 출판 편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AJY3XVATYNFQFD43EEG3RGAKDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;숨결이 바람 될 때 &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;폴 칼라니티 지음｜이종인 옮김｜흐름출판｜가격 1만6800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;매일 환자의 뇌를 수술하며 죽음과 싸웠던 천재 신경외과 의사가 있습니다. 그는 환자에게 ‘어떻게 사는 것이 가치 있는 삶인가’를 묻는 사람이었습니다. 그러던 어느 날, 그는 자신이 시한부 암 환자가 되어 스스로에게 그 질문을 던져야 하는 운명을 마주합니다. 오늘 소개할 책은 환자가 되어 서른여섯의 나이에 삶의 끝자락에 선 의사가 들려주는 자신의 이야기입니다. &lt;br&gt;&lt;br&gt;자신의 폐를 뒤덮은 종양을 CT 사진으로 직접 확인한 순간 그가 평생 쌓아온 모든 계획은 무너져 내립니다. 그를 가장 고통스럽게 한 것은 죽음 그 자체가 아니라 ‘불확실성’이었습니다. 얼마를 더 살 수 있는지 알 수 없었죠. 그는 이렇게 절규합니다. “내게 남은 시간이 얼마나 되는지 알기만 하면 앞으로 할 일은 명백해진다. 만약 석 달이 남았다면 가족과 함께 시간을 보낼 것이다. 1년이라면 책을 쓸 것이다. 10년이라면 사람들의 질병을 치료하는 삶으로 복귀할 것이다.” &lt;br&gt;&lt;br&gt;절망 속에서 그는 작가 사무엘 베케트의 문장을 떠올립니다. “나는 계속 나아갈 수 없어. 그래도 나는 계속 나아갈 거야.” 그는 ‘죽어가는’ 대신 ‘계속 살아가기’로 다짐합니다. 불확실한 미래 앞에서도 다시 수술실로 돌아가 의사로서의 소명을 다하고, 아내와 함께 아이를 갖기로 결심하죠. &lt;br&gt;&lt;br&gt;하지만 결국 병세가 악화되어 의사로서 활동을 멈춰야 했을 때, 저자는 좌절하지 않고 아버지라는 새로운 역할에 집중합니다. 그리고 자신의 가치가 더 이상 수술 실력이나 사회적인 성공에 있지 않다는 것을 깨닫습니다. 그 대신 갓 태어난 딸의 하루를 기쁨으로 채워주며 이전에 느끼지 못한 충만함을 느끼지요.&lt;br&gt;&lt;br&gt;이 책은 투병기가 아닙니다. 죽음 앞에서 삶의 새로운 가치를 발견하는 성찰의 기록이지요. 친구에게 보낸 편지에서 자신의 목표를 이렇게 말합니다. “죽음을 선정적으로 그리려는 것도 아니고, 할 수 있을 때 인생을 즐기라고 훈계하려는 것도 아니야. 하지만 그저 우리가 걸어가는 이 길 앞에 무엇이 있는지 보여주고 싶어.” 그는 메스를 내려놓은 뒤, ‘따뜻한 말’이라는 또 다른 도구를 손에 들었습니다. &lt;br&gt;&lt;br&gt;저자는 말합니다. 한때 중요하게 여겼던 돈이나 사회적 지위 같은 것들은 모두 허영이고, 시시하게 느껴졌다고요. 그가 마지막으로 발견한 삶의 의미는 거창한 것이 아니었습니다. 그는 딸에게 남긴 마지막 편지에서 이렇게 말합니다. “네가 세상에 어떤 의미 있는 일을 했는지 설명해야 하는 순간이 온다면, 바라건대 네가 죽어가는 아빠의 나날을 충만한 기쁨으로 채워줬다는 것을 빼놓지 말았으면 좋겠구나.”&lt;br&gt;&lt;br&gt;저자는 우리에게 다정한 가르침을 남깁니다. 삶의 가장 찬란한 가치는 사랑하는 사람을 기쁘게 하는 바로 그 순간에 있다는 사실을 말입니다. 이 책은 우리의 삶에서 무엇이 가장 소중한지 스스로 돌아보게 하는, 따뜻한 거울이 되어줍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“감히 아내 욕을 해?”… 19세 알바생 야구방망이로 때린 사장</title>
       <link>https://www.chosun.com/national/national_general/2025/08/15/UNVNR2HTNZGNTD7DBPLO5LRDBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/UNVNR2HTNZGNTD7DBPLO5LRDBM/</guid>
@@ -819,51 +886,6 @@
       <description/>
       <pubDate>Wed, 13 Aug 2025 15:14:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYCCVYD2MJBHNCTQJVDVG6REPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오후 11시20분쯤 전북 정읍의 한 고깃집에서 사장이 아르바이트 학생을 폭행하는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍에서 한 고깃집 사장이 10대 아르바이트생을 야구방망이 등으로 무차별 폭행하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;13일 전북경찰청에 따르면 정읍에서 고깃집을 운영하는 A씨(30)는 지난 12일 오후 11시 20분쯤 아르바이트생 B군(19)이 자신의 아내인 가게 매니저에게 욕설을 했다는 이유로 폭행을 가했다.&lt;br&gt;&lt;br&gt;가게 방범카메라(CCTV)에는 A씨가 야구방망이를 든 채 바닥에 쓰러진 B군을 발로 밟고, 주먹으로 얼굴을 때리는 장면이 담겼다. &lt;br&gt;&lt;br&gt;B군은 현재 인근 병원에 입원 중이다. 병원 측은 B군이 둔기에 맞아 눈 부위를 다치는 등 상해가 심각해 정밀검사가 필요하다”며 “현재로서는 상해진단서를 발급하기 어려운 상태라고 전했다.&lt;br&gt;&lt;br&gt;B군은 “가게 매니저에게 욕설한 사실이 없다”며 “폭행을 당하는 중에도 이를 설명했지만 사장이 들어주지 않았다”며 억울함을 호소했다.&lt;br&gt;&lt;br&gt;경찰은 CCTV 영상과 폭행에 사용된 야구방망이 등을 증거로 확보하고 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 작금(昨今)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/14/J3A2VH3MAFFLNGCP2DTLXE4NIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/14/J3A2VH3MAFFLNGCP2DTLXE4NIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CWEWQTROFFVRMUF3APRXPR27A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 교섭이 정돈 상태에 빠지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/14/3M7DNZD7UVBETKW5IK6CPGZCIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/14/3M7DNZD7UVBETKW5IK6CPGZCIQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLLPQGRU6ZA4DNHFYDZU5MXVNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2684] 강세 바꿔 읽기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/14/XA7LGXUYBNBQ7CL2OQ5QRLD4FE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/14/XA7LGXUYBNBQ7CL2OQ5QRLD4FE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYCA2XGWDNGFDDM3ESJ66V3E7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] have a good head on one’s shoulders</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/14/3GNMYDK2KFHARGAAGZMQBP4TRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/14/3GNMYDK2KFHARGAAGZMQBP4TRU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q5EW7P37TZDH7D6CCPYF5XOF34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 자르다, 썰다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/14/RZK6OAQKVVGBLJD7Y3M5LNHUFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/14/RZK6OAQKVVGBLJD7Y3M5LNHUFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3N5ZOUU25BBQBITLCFCGZQP6XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>6·25때 ‘형제의 나라’ 야전 막사서 출발… 한국이슬람 70주년 맞아</title>
@@ -920,19 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRKO7GDW3ZDMZKMXLM6QHNZ5LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 9일 오후 10시 8분쯤 서울 광진구 아차산역 사거리에서 음주운전 차량이 전신주를 들이받고 인도를 통과하며 도주하는 모습. 행인을 칠 뻔한 아찔한 상황도 연출됐다. 이를 포착한 강동소방서 김동연 소방교와 길동119안전센터 최우식 소방사는 곧바로 경찰에 신고한 뒤 추격을 시작했다. /강동소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“음주운전 의심 차량이 전신주를 들이받고 도주 중입니다!”&lt;br&gt;&lt;br&gt;지난 6월 9일 오후 10시 8분 경찰에 다급한 신고 전화가 접수됐다. 서울 광진구 아차산역 사거리에서 검은색 SUV 차량이 전신주를 들이받고 전·후진을 반복했다. 인도까지 넘어온 차량은 행인을 아슬아슬하게 빗겨 지나친 뒤 그대로 도주했고 위험천만한 운전은 계속됐다. 경기 구리시 방면으로 비틀대며 달리던 차량은 급정거와 불법 유턴을 반복했고 중앙 버스 정류장을 침범하기도 했다. &lt;br&gt;&lt;br&gt;인명 사고로도 이어질 수 있던 도주 행각은 17분 뒤 막을 내렸다. 도주 차량을 10분 넘게 추격한 끝에 앞질러 가로막은 회색 SUV 차량 덕분이었다. 곧이어 따라붙은 경찰은 도주 차량을 둘러싸 운전자를 체포했다. 70대 남성 운전자 A씨는 경찰 음주 측정 결과 면허 정지 수준의 만취 상태였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7IYNYQPB5BAJIMBEQEXC2O3HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 9일 강동소방서 김동연 소방교와 길동119안전센터 최우식 소방사가 몬 차량 후미 블랙박스 영상. 추격 끝에 음주운전 차량 앞을 가로막아 경찰이 따라붙을 시간을 벌었다. 경찰 음주 측정 결과, 차량 운전자는 면허 정지 수준의 만취였던 것으로 나타났다. /강동소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검거의 주역인 회색 차량 운전자는 경찰이 아니었다. 소방학교 교육을 마치고 함께 귀가하던 강동소방서 김동연(25) 소방교와 길동119안전센터 최우식(38) 소방사였다. 두 소방관은 A씨 차량이 전신주를 들이받는 순간 음주 상태임을 직감하고 추격을 시작했다. 김 소방교가 차량을 모는 동안, 최 소방사는 옆에서 경찰에 실시간으로 경로를 알렸다. 차량 경로를 예측해 광진구의 한 호텔 앞에 경찰차를 대기시킬 것을 경찰에 요청하기도 했다. 실제 도주 차량이 이 부근을 지나자, 경적을 울려 경찰차에 신호를 줬다.&lt;br&gt;&lt;br&gt;김 소방교는 본지 인터뷰에서 “작년 이맘때쯤 구급대원으로 일할 때 음주 운전 차량에 치여 중상을 입은 분을 조치했던 기억이 나 그냥 지나칠 수 없었다”고 했다. 최 소방사도 “‘이러다가 누군가 다치겠다’는 생각이 번쩍 들었다”며 “근무 외 시간이지만 시민 안전을 책임지는 공무원으로서 당연한 일을 한 것”이라고 했다. 경찰 관계자는 “소방관들의 기지로 더 위험한 상황을 빠르게 막을 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;한편, 경찰은 A씨를 도로교통법상 음주운전 및 사고 후 미조치 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>유명 호텔 천장에 버섯이 다닥다닥… “객실 타입이 머쉬룸이냐” 네티즌 ‘깜짝’</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/14/RTGJOMVKYBDUPECPKQ26YXNXIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/RTGJOMVKYBDUPECPKQ26YXNXIM/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 04:04:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYWJF44JOVBFPDHMPFFQENGPFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 비즈니스 호텔 객실 천장에서 버섯이 자라고 있다는 목격담이 전해져 온라인 커뮤니티에서 논란이 되고 있다.&lt;br&gt;&lt;br&gt;직장인 익명 커뮤니티 블라인드에는 지난 12일 “룸 관리를 얼마나 안 했으면 천장에 버섯이 피느냐”는 글과 함께 객실 내부 사진이 올라왔다. 사진에는 객실 출입문 복도 위 천장에서 버섯 5개가 줄기를 뻗은 채 자라는 모습이 담겼다.&lt;br&gt;&lt;br&gt;작성자는 “가족이 근처 일 보느라 하루 숙박했는데 방 상태가 여관보다 못하다”며 “심지어 한쪽은 핀 지 오래됐는지 말라비틀어진 상태”라고 했다. 이어 “어쩐지 방에 있으면서 컨디션이 점점 안 좋아져서 이상하다 했는데 물을 마시다가 천장을 보고 버섯을 발견했다고 한다”고 했다. &lt;br&gt;&lt;br&gt;작성자의 가족은 이후 호텔 측에 요청해 방을 바꿨다고 한다. 그는 “다음 날까지도 미열이 나고 몸 상태가 좋지 않다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UMP2ZHKO5BFPPLSPQXKMMI6XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;객실 사진을 본 네티들은 “객실 타입이 머쉬룸인가” “버섯은 룸서비스냐” “방 안에 곰팡이가 같이 자랄 가능성이 크다” “청결 상태가 심각하다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;이 숙박 시설은 유명 호텔 브랜드에서 런칭한 4성급 비즈니스 호텔로 전국 15개 지점을 운영하고 있다. 문제의 객실은 배관이 지나는 통로가 있어 습기가 차 판매하지 않는 방인데 신입 직원의 실수로 배정된 것으로 알려졌다. 호텔 측은 객실을 현재 정비하고 있으며 이곳에 묵은 투숙객에게 객실 업그레이드 조치를 취했다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HDZADYWBDFEQ5OSSRGUXVMK2C4.jpg?auth=b02db6826b7ded5ed29d53595d10bf2227cc8781cf6740c620213d095578286d&amp;smart=true&amp;width=282&amp;height=212" type="image/jpeg" height="212" width="282">
-        <media:description type="plain">서울 유명 비즈니스호텔 객실 천장에서 목격된 버섯./ 블라인드</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>고객 휴대전화 초기화 안하고 경찰에 넘긴 대리점…대법서 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/08/13/CFGW2MEGQ5EBRJ6DR5QKCNH23I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/CFGW2MEGQ5EBRJ6DR5QKCNH23I/</guid>
@@ -950,15 +959,6 @@
       <description/>
       <pubDate>Wed, 13 Aug 2025 02:03:24 +0000</pubDate>
       <content:encoded>신입사원 특혜 채용에 관여한 혐의로 기소된 위성호 전 신한카드 대표와 이기봉 전 부사장이 1심에서 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FSOPX6M6JZNBNHIYIFAH45CK2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사13단독 정연주 판사는 13일 업무방해 혐의로 기소된 위 전 대표에게 징역 10개월에 집행유예 2년, 이 전 부사장에게 징역 6개월에 집행유예 2년을 선고했다. 재판부는 “일부 지원자들이 정상적인 채용 절차가 아니라 위 전 대표의 개인적인 의사결정에 따라 전형을 통과했다고 판단된다”며 “채용 과정에 대한 공정성과 신뢰를 훼손하고 많은 사람들에게 상대적 박탈감을 줬다”고 했다. &lt;br&gt;&lt;br&gt;두 사람은 2016~2017년 신한카드 신입사원 채용 과정에서 계열사 임원 등으로부터 청탁을 받고 8명의 지원자에게 채용 특혜를 준 혐의를 받는다. 위 전 대표는 자신이 추천한 지원자들이 서류전형과 면접에서 불합격 평가를 받자 이 전 부사장을 통해 실무진들에게 추가 보고서를 작성하라고 지시하고 점수를 변경하게 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 문제가 된 지원자 8명 중 4명의 채용 점수를 변경하게 한 것이 위계에 의한 업무방해에 해당한다며 일부 유죄로 판단했다. 재판부는 “이 지원자들의 경우 채용 실무진의 정상적인 평가와 의견 교환을 통해 결정됐다기보다 상급자이자 최종 의사결정권자인 위 전 대표의 결정으로 추가 검증 기회가 제공된 것으로 보인다”고 했다. 다만 부정 통과자로 인정되는 4명은 최종적으론 불합격했고, 개별 전형에서 이들로 인해 합격권에 있었다가 떨어진 피해자가 없는 점 등이 양형에 고려됐다.&lt;br&gt;&lt;br&gt;이 사건은 금융감독원이 신한은행·신한카드·신한캐피탈 등의 특혜 채용 정황을 포착해 2018년 5월 검찰에 수사 의뢰를 하면서 수사가 이뤄졌다. 이 과정에서 조용병 신한금융지주 회장이 신한은행 신입사원 채용에 부당하게 개입한 혐의로 기소되기도 했다. 조 회장은 1심에선 징역 6개월에 집행유예 2년을 선고받았지만 2심에서 무죄로 뒤집혔고 2022년 대법원에서 최종 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>첫 개인 비트코인 기부자 나와… 김거석씨, 적십자에 1비트코인 쾌척</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/14/CSRT7MXAFFH5BGRP7MW5AWV3FU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/14/CSRT7MXAFFH5BGRP7MW5AWV3FU/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 01:35:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55XSWWCCSP2G4ESKYAUQISPJXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한적십자사는 후원자 김거석씨(오른쪽)가 비트코인 1개를 기부했다고 13일 밝혔다. 지난 11일 대한적십자사에서 열린 기부금 전달식에서 김씨와 김철수 대한적십자사 회장이 기념촬영을 하고 있다. /대한적십자사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주로 투자처로 여겨졌던 ‘비트코인’이 기부 수단으로 활용돼 이목을 끌고 있다.&lt;br&gt;&lt;br&gt;대한적십자사는 후원자 김거석(78)씨가 1비트코인(약 1억6000만원)을 기부했다고 13일 밝혔다. 대한적십자사가 창립 이래 개인으로부터 가상자산으로 기부를 받은 것은 이번이 처음이다. 뿐만 아니라 금융위원회가 지난 5월 비영리법인에 대해 가상자산으로 받은 기부금을 현금화 목적으로 거래할 수 있도록 허용한 이래 첫 기부이기도 하다. 대한적십자사는 금융위 가이드라인에 따라 수립한 내부통제 기준에 근거해 가상자산거래소 ‘업비트’를 통해 기부 절차를 진행했다고 설명했다.&lt;br&gt;&lt;br&gt;개인투자자로 꾸준히 기부를 실천해온 김씨는 지난해 12월 대한적십자사에 1억원을 기부해 ‘레드크로스 아너스클럽’ 283호 회원이 됐고, 10억원 기부를 약정해 적십자 ’10억 클럽' 1호 회원이 됐다고 적십자는 소개했다. 김씨의 누적 기부액은 9억6000여만원에 달한다.&lt;br&gt;&lt;br&gt;김씨의 비트코인 기부금은 현금화돼 수해지역 복구와 취약계층 의료지원에 전액 쓰일 예정이다.&lt;br&gt;&lt;br&gt;김씨는 “대한적십자사의 첫 디지털 자산 기부의 주인공이 돼 뜻깊게 생각한다”며 “계속 후원하고 있는 ‘누구나진료센터’와 이번 수해 이재민에게 도움이 되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;김철수 대한적십자사 회장은 “이번 기부는 대한적십자사 최초의 디지털자산 기부 사례로, 기부 문화의 새로운 가능성을 보여준다”고 했다. 대한적십자사 측은 이번 기부가 다양한 형태의 기부문화 확산에 긍정적 영향을 미칠 것으로 기대했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“美선 박사 월급 2~3배, 교수 갑질도 없어… 한국 안 돌아갑니다”</title>
