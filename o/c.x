@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>심장에도 월요병?…심정지 발생, 월요일·일요일에 많아</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/16/M3FEKC5JS5AIRAXKVDUV6CR674/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/16/M3FEKC5JS5AIRAXKVDUV6CR674/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 05:06:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4HHHU7AYURL6LANJFZIN54CMVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남도청 지하 1층에 설치된 심폐소생술 무인 상설 교육장에서 소방대원들이 심폐소생술 시범을 보이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리나라에서는 월요일과 일요일에 심정지 환자가 유독 많이 발생한다는 분석이 나왔다. 주말의 늦잠과 폭음으로 인해 생체 리듬이 흐트러지고, 심장에 큰 부담이 생긴다는 것이다.&lt;br&gt;&lt;br&gt;15일 부산대·서울대 공동 연구팀이 질병관리청 자료를 토대로 2015~2019년 전국 ‘병원 밖 심정지(OHCA)’ 8만9164건을 분석한 결과를 보면, 월요일과 일요일의 심정지 발생 위험은 기준일인 수요일보다 각각 1.9%, 1.5% 높았다. 나머지 요일은 수요일과 큰 차이가 없었다.&lt;br&gt;&lt;br&gt;연구팀은 월요일에 심정지 발생 위험이 높아지는 이유를 ‘깨진 약속 이론’으로 설명했다. 깨진 약속 이론은 ‘새로운 시작’에 대한 희망을 가졌던 이들이 막상 월요일이나 새해가 시작됐을 때 기대했던 변화가 나타나지 않아 실망감과 정신적 스트레스를 느끼게 되고, 심장 질환에 더 취약해질 수 있다는 가설이다.&lt;br&gt;&lt;br&gt;주말 동안 늦잠을 자거나 모임을 하면서 생활 패턴이 흐트러졌는데, 월요일에 갑자기 일찍 출근해 과중한 업무를 하니 심장도 ‘월요병’을 앓는다는 것이다. 이런 급격한 변화가 교감신경을 자극해 심박수와 혈압을 높이고, 심혈관 건강에 악영향을 준다는 분석이다.&lt;br&gt;&lt;br&gt;명절과 공휴일에도 심정지 발생 위험이 비교적 높았다. 휴일은 심정지 발생 위험이 평일보다 최소 6% 이상 높았으며, 설·추석·새해 첫날·크리스마스를 제외한 기타 공휴일은 평균 9.9%로 가장 높았다. 4대 공휴일 중에서는 크리스마스가 9.6%로 가장 높았고, 이어 설날(8.2%)과 새해 첫날, 추석(각 6%) 순이었다.&lt;br&gt;&lt;br&gt;명절과 공휴일에는 ‘휴일 심장 증후군(Holiday Heart Syndrome)’일 가능성이 높다는 게 연구팀의 해석이다. 짧은 연휴 동안의 폭음이 부정맥을 유발해 평소 심장병이 없는 사람도 위험에 빠질 수 있다는 것이다. 여기에 장거리 이동, 과식, 수면 부족, 가족 모임에서 생기는 갈등이 복합적으로 작용해 심장 건강에 나쁜 영향을 미친다는 것이다.&lt;br&gt;&lt;br&gt;연구팀은 “월요일과 공휴일에 심정지 위험이 높아지는 것은 미국, 일본, 유럽 등지에서 관찰된 것과 비슷하다”며 “연구에서 확인된 요일과 휴일에 따른 심정지 위험 패턴을 고려하면 고위험군에 맞춘 예방 캠페인과 응급 대응 자원 배치에 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“형편 어려워서”... 1년 넘게 몰래 군부대서 먹고 잔 군무원</title>
+      <link>https://www.chosun.com/national/2025/08/16/HUAOFI2ST5ADHE3NLCMQ6UT4Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/16/HUAOFI2ST5ADHE3NLCMQ6UT4Q4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 04:27:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역의 한 군무원이 부대 내 사무실에서 1년 넘도록 몰래 생활해오다 적발됐다. &lt;br&gt;&lt;br&gt;15일 39사단에 따르면, 경남 내 한 예비군 훈련대에서 근무하는 30대 군무원 A씨가 지난해 1월부터 부대 내 사무실에서 몰래 생활해왔다. &lt;br&gt;&lt;br&gt;A씨는 동료들이 퇴근하면 사무실 소파나 테이블 위에서 잠을 자고, 개인 빨래를 하는 등 부대 업무 공간을 사적으로 사용했다. 부대 특성상 예비군 훈련이 끝나면 병력이 상주하지 않아 주변의 감시를 피할 수 있었다고 한다. &lt;br&gt;&lt;br&gt;A씨는 지난 4월 부대 입주 심의를 거쳐 독신 숙소를 배정받기 전까지 15개월간 이 같은 생활을 이어온 것으로 드러났다. 부대원 일부도 A씨의 이 같은 생활을 알았지만 “사무실에서 자지 말라”는 구두 경고만 했다고 한다. &lt;br&gt;&lt;br&gt;육군은 지난 6월 A씨에 대한 제보를 받고서야 조사에 나섰다. A씨는 조사 과정에서 “가정 형편이 어려워서 그랬다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;군 관계자는 “해당 사안은 7월 말 법무실로 이첩돼 추가 조사 중”이라며 “그 결과를 바탕으로 관련 법규에 따라 처리할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘15명 사상’ 동대문 다세대주택 화재 방화였다… 30대 남성 검거 </title>
       <link>https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</guid>
@@ -953,24 +971,6 @@
       <description/>
       <pubDate>Wed, 13 Aug 2025 15:53:00 +0000</pubDate>
       <content:encoded>김의겸 전 더불어민주당 의원이 제기했던 윤석열 전 대통령과 한동훈 전 국민의힘 대표의 이른바 ‘청담동 술자리 의혹’이 허위라는 법원의 첫 판단이 나왔다. 이에 따라 법원은 김 전 의원 등이 한 전 대표에게 7000만원을 배상해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사14부(재판장 정하정)는 13일 한 전 대표가 김 전 의원, 강진구 전 더탐사 대표 등 7명을 상대로 낸 10억원대 손해배상 청구 소송 1심에서 원고 일부 승소로 판결했다. 재판부는 김 전 의원과 강 전 대표 등이 함께 7000만원을 배상하고, 최초 제보자인 첼리스트 여성의 전 남자 친구 이모씨는 1000만원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “김 전 의원 등이 제출한 소명 자료는 신빙성이 없고, 청담동 술자리가 존재했다는 의혹을 진실이라고 보기 어렵다”면서 “첼리스트 여성이 수사기관과 법원에서 ‘술자리는 허위였다’고 진술한 점 등을 종합하면 의혹은 허위라고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;김 전 의원은 2022년 10월 24일 국회 법제사법위원회의 법무부 국정감사에서 “윤석열 대통령과 한동훈 법무장관이 2022년 7월 19일 서울 청담동에서 김앤장 변호사 30여 명, 이세창 전 자유총연맹 총재 권한대행 등과 자정 넘게 술자리를 했다”고 주장하면서, 그 근거로 술자리에 있었다는 첼리스트 여성과 그의 전 남자 친구 이씨와의 통화 녹음을 공개했다. 이를 제보받은 더탐사는 유튜브에 해당 녹음 내용을 올리는 등 청담동 술자리 의혹이 사실인 것처럼 방송했다. &lt;br&gt;&lt;br&gt;한 전 대표는 그해 12월 김 전 의원과 더탐사 관계자, 이씨 등을 형사 고소하면서 10억원대 손해배상 소송도 제기했다. 이날 재판부는 “김 전 의원이 허위 보도에 관여한 행위가 인정된다”면서도 “김 전 의원이 국정감사에서 한 발언은 면책특권 범위에 해당하고, 방송 인터뷰에서 한 발언은 의견 표명에 해당해 이 부분은 손해배상 책임이 없다”고 했다.&lt;br&gt;&lt;br&gt;판결 직후 한 전 대표는 자신의 페이스북에 “터무니없는 허위 사실임이 법원 판결을 통해 확인됐다”면서 “민주당의 진솔한 사과를 바란다”고 했다. 이어 “민주당은 저질 가짜 뉴스를 국정감사장에서 계획적으로 유포하고 최고위원회에서 영상으로 재생하면서까지 저를 집중 공격했었다”면서 “최근 이재명 대통령이 징벌적 손해배상 도입 검토 등 가짜 뉴스에 대한 엄단 의지를 밝혔는데, 이 사안은 어떤가”라고 했다.&lt;br&gt;&lt;br&gt;문재인 정부 청와대 대변인을 지낸 김 전 의원은 ‘흑석동 부동산 투기’ 의혹으로 낙마했다가 이재명 정부 출범 이후 지난 7월 새만금개발청장에 임명됐다. 이 사건으로 그는 작년 9월 명예훼손 혐의로 불구속 기소돼 형사 재판도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울대 태양광 자동차 팀, 호주 대륙 3000㎞ 종단 대회 나선다</title>
-      <link>https://www.chosun.com/national/people/2025/08/14/OUVPNXJWOVFY7JSYLZ5S7RFI4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/14/OUVPNXJWOVFY7JSYLZ5S7RFI4M/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTOY4SK7ZFGWLEYQIM6PHZGY6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 학부생으로 구성된 태양광 자동차 팀 '스누 솔라'와 이 팀이 제작한 태양광 자동차 '스누원'. /스누 솔라&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교 학부생으로 구성된 태양광 자동차 팀 ‘스누 솔라(SNU SOLAR)’가 호주 대륙 종단 자동차 경주 대회인 ‘2025 브리지스톤 월드 솔라 챌린지’ 출전을 위해 지난 8일 출국했다. &lt;br&gt;&lt;br&gt;오는 24일 막을 올리는 월드 솔라 챌린지는 세계 최대 태양광 자동차 경주 대회로 오직 태양광 동력만으로 호주 대륙의 최북단 다윈에서 최남단 애들레이드까지 장장 3000km를 6박 7일에 걸쳐 내달리는 대장정이다. 세계에서 모인 37팀, 1500여 명의 엔지니어가 오직 태양광 에너지와 기술을 접목해 자체 제작한 차량으로 경쟁한다.&lt;br&gt;&lt;br&gt;서울대팀 스누 솔라는 자체 제작한 태양광 자동차 ‘스누원(SNU ONE)’이다. 스누 솔라는 곽상엽(재료공학부) 지도 교수를 중심으로 기계공학, 전기전자, 재료, 디자인, 조소, 경영, 건축 등 다양한 전공의 학부생 20명이 자발적으로 구성한 프로젝트팀이다. &lt;br&gt;&lt;br&gt;김민규(기계공학) 팀장은 “스누원 설계에만 약 10개월, 제작에 8개월이 걸렸다”며 “팀원들이 하루 8시간씩 설계와 제작에 몰두했으며, 투입된 총량은 약 25만 시간이 넘는다”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “솔라 챌린지는 호주 대륙을 종단하는 가혹한 환경 속에서 치러지는 자동차 마라톤이다”라며 “반드시 대회에 입상해 자동차 강국의 면모를 과시하고 싶다”고 다짐했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 14일</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/14/36U2KRRFNFEXZJ46GHUDNDINN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/36U2KRRFNFEXZJ46GHUDNDINN4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITQ733K5XJBYVMQEHPZ67WWVZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 전신주 박고 인도 침범 ‘위험천만’ 음주 차량 추격해 잡은 소방관들</title>
