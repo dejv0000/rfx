@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘15명 사상’ 동대문 다세대주택 화재 방화였다… 30대 남성 검거 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 02:47:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 제기동의 한 다세대주택에서 불을 질러 15명의 사상자를 낸 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 14일 오후 5시 58분쯤 서울 성동구의 한 상가 앞에서 방화 혐의로 30대 남성 A씨를 체포해 조사 중이라고 15일 밝혔다. A씨는 지난 12일 밤 11시 52분쯤 제기동 4층짜리 다세대주택 주차장에서 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 건물 주변 CCTV를 분석한 결과, 불이 주차장에 세워둔 폐지 리어카에서 시작된 것으로 보고 있다. 범행 직후 도주한 A씨는 범행 나흘 만에 검거됐다. 경찰은 조사를 마치는 대로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;불이 난 건물은 1층이 기둥으로 지탱되는 ‘필로티’ 구조였다. 필로티는 공기 유입이 쉬워 화세가 급격히 커지고, 상층부로 대피가 어려워 대형 인명피해로 이어질 가능성이 높다. 특히 해당 건물 주차장 천장은 열에 취약한 폴리카보네이트(PC) 재질로 덮여 있었고, 화재 확산을 막을 스프링클러도 설치돼 있지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양말 안에 슬쩍…은행 돈 4억 빼돌려 도박한 은행원</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/R5M6ZJRD65CRNH2YAYC4SXNSGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/R5M6ZJRD65CRNH2YAYC4SXNSGQ/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>양말 등에 숨겨 은행 돈 4억원을 빼돌린 40대 은행원이 징역형을 선고받았다.
+춘천지법 형사1단독 송종환 부장판사는 업무상횡령 혐의로 기소된 A(45)씨에게 징역 8개월을 선고했다고 15일 밝혔다.
+</description>
+      <pubDate>Fri, 15 Aug 2025 01:24:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Y6DCFDOZYUQ5JJEUIE2L4RO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양말 등에 현금을 숨겨 은행 돈 4억원을 빼돌린 40대 은행원이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 업무상 횡령 혐의로 기소된 A(45)씨에게 징역 8개월을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;강원 홍천군 한 은행에서 일하던 A씨는 지난해 12월 은행 금고에서 5만원권 지폐 묶음 여러 개를 양말 속에 숨겨 빼돌리는 등 6차례에 걸쳐 현금 2억1200만원을 훔친 혐의를 받고 있다. 그는 또 자신의 사무실 자리에 보관 중이던 은행 돈 1억 5000만원과 미화 2만달러를 종이 가방과 외투 주머니 등에 넣어 훔치기도 했다&lt;br&gt;&lt;br&gt;A씨는 훔친 돈을 온라인 도박 자금 등으로 탕진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송 부장판사는 “피고인이 단기간 횡령한 액수의 총액이 무려 4억원에 이른다”면서 “은행의 피해가 큰 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문 앞에서 성적행위·이웃 스토킹한 40대, 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/JBPU4XQ7ONDZ7HO2XBMHIIWYLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/JBPU4XQ7ONDZ7HO2XBMHIIWYLE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 01:31:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Y6DCFDOZYUQ5JJEUIE2L4RO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식 없는 이웃을 스토킹하고 이웃 문 앞에서 성적 행위를 한 40대에게 법원이 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 스토킹 처벌법 위반 등 혐의로 기소된 A(48)씨에게 징역 8개월에 집행유예 2년을 선고했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 5월 24일부터 6월 20일까지 강원 홍천군 B(49)씨 집 현관문에 귀를 대고 소리를 듣거나 문틈에 쓰레기를 꽂아두는 등 17차례에 걸쳐 스토킹 범죄를 저지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 또 B씨의 집 현관문 앞에서 바지를 내리고 성적 행위를 한 뒤 체액을 현관문에 묻히기도 했다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 약 1년 전 아파트 관리사무소로부터 자신이 이웃 주민을 스토킹한다는 취지의 민원이 제기됐다는 사실을 전달받았고, B씨가 민원을 제기했다고 여겨 앙심을 품고 이 같은 범행을 저질렀다.&lt;br&gt;&lt;br&gt;송 부장판사는 “이 범행으로 피해자들이 극도의 공포심을 느꼈을 것으로 보인다”면서 “피고인이 피해자들의 피해 회복을 위해 노력하는 모습이 확인된 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, ‘이종섭 호주대사’ 자격심사위원장 김홍균 전 차관 소환 </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/FJRGLVYK4BDAXKXRWC7AHI2ARU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/FJRGLVYK4BDAXKXRWC7AHI2ARU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 01:31:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAACEIIMANILNKC463RWWBBSBU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김홍균 전 외교부 차관이 15일 오전 서울 서초구 순직 해병 특검 사무실에 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방부 장관의 호주 대사 임명 당시 외교부의 자격 심사 과정을 조사하기 위해 김홍균 전 외교부 1차관을 15일 소환했다. 김 전 차관은 이 전 장관의 호주 대사 임용을 위한 공관장 자격 심사에 참여했는데, 특검은 해당 심사가 졸속으로 이뤄진 정황을 포착하고 수사 중이다.&lt;br&gt;&lt;br&gt;김 전 차관은 이날 오전 9시 40분쯤 서울 서초구 해병 특검 사무실에 참고인 조사를 받기 위해 출석했다. 김 전 차관은 “(이 전 장관에 대한) 졸속 심사를 인정하느냐” “특임공관장의 경우 서면 심의가 일반적인 것이냐” 등 취재진의 질문에 아무런 대답을 하지 않고 조사실로 올라갔다.&lt;br&gt;&lt;br&gt;김 전 차관은 작년 1월 이 전 장관의 호주 대사 임용을 위해 열린 공관장 자격심사위원회의 위원장을 맡았다. 공관장 자격 심사는 대사 임용 전 후보자의 외국어 능력, 업무 실적, 도덕성, 교섭 능력 등을 검증하는 절차다. 심사에서 부적격 결정이 내려지면 공관장으로 부임할 수 없다.&lt;br&gt;&lt;br&gt;그런데 특검은 최근 외교부 실무자들을 조사하면서 “이 전 장관에 대한 심사가 서면으로만 진행됐고, 이미 ‘적격’이라고 적힌 서류에 위원들이 날인만 했다”는 취지의 진술을 확보했다. 대면 회의 한 번 없이 외교부가 정해 놓은 결론에 서명만 했다는 것이다. 외무공무원법 등에 따르면 자격심사위는 7명 이상의 위원이 출석해야 열리고, 출석 위원 3분의 2 이상이 찬성해야 적격 결정을 내릴 수 있다. ‘위원 출석’이 회의 개최 조건인 만큼 대면 심사가 원칙이다.&lt;br&gt;&lt;br&gt;특검은 김 전 차관을 상대로 이 전 장관에 대한 심사가 서면으로만 이뤄진 경위, 심사 과정에 대통령실 등의 외압이 있었는지 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 장관 측은 “외무공무원법과 시행령 어디에도 자격 심사를 반드시 대면 회의 형태로 해야 한다는 규정은 없다”는 입장이다. 이 전 장관 측은 “법률상 결격 사유가 없어 대사 임명에 문제가 없다”며 “졸속 심사는 악의적 프레임”이라고 주장한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5WCWY73LFJC3D7BX6WU372TNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동혁 전 국방부 검찰단장이 15일 피의자 신분으로 조사받기 위해 서울 서초구 순직 해병 특검 사무실에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 특검은 이날 ‘순직 해병 수사 외압’ 의혹의 피의자인 김동혁 전 국방부 검찰단장도 지난 13일에 이어 이틀 만에 재소환했다. 김 전 단장은 경찰에 이첩된 해병대 수사단의 초동 조사 기록을 위법하게 회수하고, 박정훈(대령) 해병대 수사단장을 항명죄로 부당하게 수사·기소한 혐의 등을 받는다. &lt;br&gt;&lt;br&gt;김 전 단장은 “기록 회수나 박 대령 수사 과정에서 대통령실로부터 직접 지시나 조율을 받은 적 있느냐”는 취재진의 질문에 “그런 적 없다”고 답했다. 기록 회수 등에 대한 다른 질문에는 “조사 과정에서 성실히 진술하겠다”고 밝혔다. 특검은 김 전 단장에 대해 조사할 내용이 많아 향후 수차례 소환 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“티라미수 맛 없어”...제과점장 흉기로 위협한 미국인, 벌금  200만원</title>
+      <link>https://www.chosun.com/national/2025/08/16/7F5GJDMR7RCBFK7F73SIPBST2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/16/7F5GJDMR7RCBFK7F73SIPBST2A/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 02:19:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티라미수(이탈리아 디저트) 맛이 마음에 들지 않는다면서 제과점 점장을 흉기로 위협한 60대 미국인에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사7단독 이현주 부장판사는 특수협박 혐의로 기소된 미국인 A(64)씨에게 벌금 200만원을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월18일 오후 1시57분쯤 경남 김해시의 한 제과점에서 점장 B(여·30대)씨를 흉기로 위협한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;판결문에 따르면, A씨는 자신이 주문한 티라미수의 맛이 마음에 들지 않는다는 이유로 제과점 점장인 B씨를 불러 “미국에서 먹던 것과 다르다”며 “이게 티라미수면 내 손가락을 자르겠다”고 말하고, 주머니에서 흉기를 꺼내 B씨 얼굴 앞에서 자신의 손을 찌를 듯이 위협했다. A씨는 국내에 장기 체류 중인 미국인이었다.&lt;br&gt;&lt;br&gt;검찰은 A씨의 혐의를 유죄로 인정해 벌금 200만원 약식명령을 내렸지만, A씨는 이에 불복해 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;이현주 부장판사는 “약식명령 전후로 변경된 사정이 없고, 약식명령의 벌금형이 무거워 보이지 않는다”며 약식명령과 같은 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘인사 불만’ 시장실 기물 파손한 충주시 공무원, 불구속 송치</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/16/PUW6AJAHFNCBFL4FRRNFJ2EMZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/16/PUW6AJAHFNCBFL4FRRNFJ2EMZQ/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 02:31:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GT7HGZDJZC2PGHRM34R3HXIUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보 DB.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주경찰서는 자신에 대한 인사에 불만을 품고 시장실 문을 부수고 들어가 기물을 파손한 혐의(공용물건 손상)로 충주시청 6급 공무원 A씨를 불구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 26일 오후 8시쯤 충주시장실 문을 발로 차 부수고 들어가 컴퓨터, 프린터 등을 집어던지거나 손으로 내리쳐 1000만원 상당의 재산 피해를 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 당시 부속실과 응접실에서 난동을 부렸으며, 문이 잠겨있던 시장 집무실까지 들어가지는 못했다.&lt;br&gt;&lt;br&gt;무보직 6급 직원인 A씨는 당일 발표된 6급 보직 발령 대상자 명단에서 자신의 이름이 빠진 데 불만을 품고 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;충주시는 A씨가 재판에 넘겨지면 징계 여부를 결정한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독]광복절 주미 한국대사관에 ‘폭탄 설치’ 협박 메일... 경찰 비상</title>
+      <link>https://www.chosun.com/national/incident/2025/08/16/MMAHNFB7ZRAZ5O5TRTDTFPNCSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/16/MMAHNFB7ZRAZ5O5TRTDTFPNCSQ/</guid>
+      <dc:creator>수원=김현수 기자, 이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 01:16:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절인 15일 새벽 미국 워싱턴 D.C.에 있는 한국대사관으로 ‘불특정 대중이 이용하는 시설에 고성능 폭탄을 설치했다’는 협박 메일이 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 이날 오전 5시쯤 주미대사관이 발신자로부터 직접 ‘불특정 대중시설에 폭탄을 설치했다’는 내용의 메일을 수신하고, 이를 경찰에 신고했다. 서울경찰청은 해당 내용을 접수한 뒤 전국 경찰에 공조를 요청했다.&lt;br&gt;&lt;br&gt;메일 발신자는 최근 전국에서 동시다발적으로 발생한 폭발물 협박 사건에서 반복적으로 사용된 일본 실존 변호사 가라사와 다카히로의 명의를 그대로 사용한 것으로 확인됐다. 이 명의는 2023년 일본 우익 커뮤니티에서 사이비 종교 교주로 패러디돼 공공시설과 기관에 허위 테러 협박 팩스를 보내는 데 악용돼왔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “메일 내용이 논리적이지 않고 주미 대사관과도 무관한 내용이 섞여 있어 이해하기 어렵다”며 “다만 동일 명의, 유사한 문구를 사용한 최근 협박 사건과 연계해 수사하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 폭발 예상 시각이나 구체적 위치 등은 확인되지 않았지만, 순찰 강화 지시를 내리고 폭발물 설치 여부와 발신자 추적 등 수사에 착수했다. 현재까지 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;앞서 지난 10일에도 서울 송파구 올림픽체조경기장에서 ‘고성능 폭탄을 설치했다’는 팩스가 공연 시작 2시간 전 접수돼 관객 2000여 명이 대피하고, 경찰특공대와 폭발물 처리반이 투입됐지만 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;지난 7일에도 서울 영등포구 외국인 주민센터로 ‘한국 학생과 교사에게 황산 테러를 하겠다’는 협박 팩스가, 11일에는 광주 도심 백화점 폭탄 설치 협박이 접수됐으나 모두 허위로 드러났다.&lt;br&gt;&lt;br&gt;또한 이날 저녁 서울 광화문광장에서 약 4만명이 운집할 것으로 예상되는 국민주권 대축제가 예정돼 있어, 경찰은 폭발물 협박 사건과 별개로 대규모 인파 안전 관리에도 비상이 걸린 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>소반 위 팔각쟁반에 또르르...한국계 인물 새긴 美 국민동전 선보이던 날</title>
       <link>https://www.chosun.com/international/us/2025/08/16/TQJ2OIXHRZHTNCUCSIZGOGBFPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/international/us/2025/08/16/TQJ2OIXHRZHTNCUCSIZGOGBFPA/</guid>
@@ -806,18 +871,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TW3K2BMIUFFZ7J53SLOOJLI2DY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사 여자화장실에 불법카메라를 설치해 여직원을 촬영한 40대 남성이 붙잡혔다.&lt;br&gt;&lt;br&gt;제주 서부경찰서는 14일 성폭력범죄의 처벌 등에 관한 법률 위반(카메라 등 이용 촬영) 혐의로 40대 A씨를 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 초부터 올해 7월까지 자신의 근무하는 제주의 한 중소기업 내 여자화장실과 여직원 책상 밑에 초소형 카메라 1대씩 총 2대를 설치해 여직원을 불법촬영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 카메라를 자신의 휴대전화와 연결해 영상을 전송받는 등의 방식으로 불법 촬영했다. 피해 여직원은 2명인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 범행은 화장실을 이용하던 여직원이 화장지 케이스에서 초소형 카메라를 발견하면서 드러났다. A씨는 사건이 알려지자 바로 경찰에 자수한 것으로 알려졌다. 경찰은 A씨의 휴대전화를 압수해 수십장의 사진과 영상을 확보, A씨를 불구속 송치했다.&lt;br&gt;&lt;br&gt;A씨가 근무하는 중소기업은 A씨의 아버지가 대표로 운영하는 회사인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>光州 주택 신축 현장서 40대 3층 높이 사다리서 추락해 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/7TTCEIWW3NB4ZCDKDYNDYXZBIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/7TTCEIWW3NB4ZCDKDYNDYXZBIE/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 00:24:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6F6FWVCSWRGDDPINFRVHSNTOUY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;광주경찰청 전경. /광주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 주택 신축 공사 현장에서 40대 작업자가 사다리에서 추락해 숨져 경찰이 사망 원인 수사에 착수했다.&lt;br&gt;&lt;br&gt;14일 광주소방본부와 광주경찰청 등에 따르면 전날 낮 12시 23분쯤 광주광역시 서구 화정동 주택 신축 공사 현장에서 40대 작업자 A씨가 3층 천장 높이 사다리에서 추락했다. A씨는 병원으로 옮겨졌지만, 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 주택 공사장 실내에서 사다리를 타고 엘리베이터 설치 작업 중이었던 것으로 전해졌다. A씨는 실내 공사를 맡은 인테리어 업체 직원으로 파악됐다. &lt;br&gt;&lt;br&gt;광주경찰청은 산업현장에서 발생한 사망 사고이기 때문에 중대성을 고려해 서부경찰서로부터 사건을 넘겨받아 수사에 착수했다. 경찰 관계자는 “사망 원인 확인을 위한 부검과 안전 장비 착용, 안전 교육 여부 등을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6F6FWVCSWRGDDPINFRVHSNTOUY.JPG?auth=f0c2c5b8288d2eb0e20328a0bcf6585999edf14c044d44aebdbb3a10737a26b4&amp;smart=true&amp;width=6720&amp;height=4480" type="image/jpeg" height="4480" width="6720">
-        <media:description type="plain">광주경찰청 전경. /광주경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“가양대교 잠긴 거 처음 본다” SNS로 전해진 수도권 침수 피해</title>
       <link>https://www.chosun.com/national/national_general/2025/08/15/ZRF3IKW4NNESNBVL73D4WG67VA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/ZRF3IKW4NNESNBVL73D4WG67VA/</guid>
@@ -911,15 +964,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTOY4SK7ZFGWLEYQIM6PHZGY6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대학교 학부생으로 구성된 태양광 자동차 팀 '스누 솔라'와 이 팀이 제작한 태양광 자동차 '스누원'. /스누 솔라&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교 학부생으로 구성된 태양광 자동차 팀 ‘스누 솔라(SNU SOLAR)’가 호주 대륙 종단 자동차 경주 대회인 ‘2025 브리지스톤 월드 솔라 챌린지’ 출전을 위해 지난 8일 출국했다. &lt;br&gt;&lt;br&gt;오는 24일 막을 올리는 월드 솔라 챌린지는 세계 최대 태양광 자동차 경주 대회로 오직 태양광 동력만으로 호주 대륙의 최북단 다윈에서 최남단 애들레이드까지 장장 3000km를 6박 7일에 걸쳐 내달리는 대장정이다. 세계에서 모인 37팀, 1500여 명의 엔지니어가 오직 태양광 에너지와 기술을 접목해 자체 제작한 차량으로 경쟁한다.&lt;br&gt;&lt;br&gt;서울대팀 스누 솔라는 자체 제작한 태양광 자동차 ‘스누원(SNU ONE)’이다. 스누 솔라는 곽상엽(재료공학부) 지도 교수를 중심으로 기계공학, 전기전자, 재료, 디자인, 조소, 경영, 건축 등 다양한 전공의 학부생 20명이 자발적으로 구성한 프로젝트팀이다. &lt;br&gt;&lt;br&gt;김민규(기계공학) 팀장은 “스누원 설계에만 약 10개월, 제작에 8개월이 걸렸다”며 “팀원들이 하루 8시간씩 설계와 제작에 몰두했으며, 투입된 총량은 약 25만 시간이 넘는다”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “솔라 챌린지는 호주 대륙을 종단하는 가혹한 환경 속에서 치러지는 자동차 마라톤이다”라며 “반드시 대회에 입상해 자동차 강국의 면모를 과시하고 싶다”고 다짐했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>임채청 전국재해구호협회장</title>
-      <link>https://www.chosun.com/national/people/2025/08/14/VA3SVLTDPFEUVJCZZRQA5PK4YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/14/VA3SVLTDPFEUVJCZZRQA5PK4YE/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPEUTZZKCJEJTKEH2ICJKVC5KI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임채청 희망브리지 전국재해구호협회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;임채청&lt;/b&gt; 동아일보 대표가 13일 희망브리지 전국재해구호협회 13대 회장에 취임했다. 임기는 3년. 임 회장은 동아일보 발행인과 한국신문협회 회장으로 재임하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 8월 14일</title>
       <link>https://www.chosun.com/national/national_general/2025/08/14/36U2KRRFNFEXZJ46GHUDNDINN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/36U2KRRFNFEXZJ46GHUDNDINN4/</guid>
@@ -929,42 +973,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITQ733K5XJBYVMQEHPZ67WWVZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“감히 아내 욕을 해?”… 19세 알바생 야구방망이로 때린 사장</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/UNVNR2HTNZGNTD7DBPLO5LRDBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/UNVNR2HTNZGNTD7DBPLO5LRDBM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 15:14:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYCCVYD2MJBHNCTQJVDVG6REPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오후 11시20분쯤 전북 정읍의 한 고깃집에서 사장이 아르바이트 학생을 폭행하는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍에서 한 고깃집 사장이 10대 아르바이트생을 야구방망이 등으로 무차별 폭행하는 사건이 발생했다.&lt;br&gt;&lt;br&gt;13일 전북경찰청에 따르면 정읍에서 고깃집을 운영하는 A씨(30)는 지난 12일 오후 11시 20분쯤 아르바이트생 B군(19)이 자신의 아내인 가게 매니저에게 욕설을 했다는 이유로 폭행을 가했다.&lt;br&gt;&lt;br&gt;가게 방범카메라(CCTV)에는 A씨가 야구방망이를 든 채 바닥에 쓰러진 B군을 발로 밟고, 주먹으로 얼굴을 때리는 장면이 담겼다. &lt;br&gt;&lt;br&gt;B군은 현재 인근 병원에 입원 중이다. 병원 측은 B군이 둔기에 맞아 눈 부위를 다치는 등 상해가 심각해 정밀검사가 필요하다”며 “현재로서는 상해진단서를 발급하기 어려운 상태라고 전했다.&lt;br&gt;&lt;br&gt;B군은 “가게 매니저에게 욕설한 사실이 없다”며 “폭행을 당하는 중에도 이를 설명했지만 사장이 들어주지 않았다”며 억울함을 호소했다.&lt;br&gt;&lt;br&gt;경찰은 CCTV 영상과 폭행에 사용된 야구방망이 등을 증거로 확보하고 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>베트남전 한국군 민간인 학살 의혹...항소심도 “진실화해위 조사 대상 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/14/UAOPL5QVTZGYVNJWGDQRQUR32A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/UAOPL5QVTZGYVNJWGDQRQUR32A/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 10:20:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZY2NSCCWVKU7N6VXCBL2QAYJM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 5월 24일 오후 서울 중구 진실·화해를위한과거사정리위원회에서 열린 제55회 전원위원회에서 방청인단들이 하미학살 사건 조사 개시를 요구하는 피켓 시위를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 전쟁에 파병된 한국군이 베트남 민간인을 학살했다는 의혹을 조사하지 않기로 한 진실·화해를위한과거사정리위원회(진실화해위) 결정은 적법하다는 항소심 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정11부(재판장 최수환)는 13일 응우옌 티탄씨 등 ‘하미학살’ 피해자·유족 5명이 진실화해위를 상대로 “진실규명 신청을 각하한 결정을 취소하라”며 낸 행정소송 항소심에서 1심과 같이 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;응우옌씨 등은 2022년 4월 진실화해위에 ‘하미학살’ 사건 진실규명을 신청했다. 하미학살은 베트남 전쟁 중이던 1968년 2월 베트남 중부 꽝남성 하미마을에 파병된 한국군이 현지인 150여 명을 집단 학살했다는 의혹이다. 그러나 진실화해위는 이듬해 “베트남 전쟁 때 벌어진 외국인 인권침해는 과거사정리법이 규정하는 진실규명 범위에 해당하지 않는다”며 신청을 각하했고 응우옌씨 등이 불복해 행정소송을 냈다.&lt;br&gt;&lt;br&gt;앞서 1심(서울행정법원)은 작년 6월 “과거사정리법의 목적은 대한민국 국민의 인권이 침해된 경우에 대한 진실을 규명하는 것”이라며 “과거사정리법이 규정한 진실규명 조사 대상에 외국에서 벌어진 외국인에 대한 인권 침해 사건까지 포함된다고 해석하는 것은 입법 취지에 부합하지 않는다”며 원고 패소로 판결했다. &lt;br&gt;&lt;br&gt;이어 “원고들 주장에 따르면 진실규명의 범위가 지나치게 확대될 수 있고 외교적 갈등 등 여러 문제를 야기할 수 있다”며 “진실규명을 거치지 않아도 대한민국에 권리구제를 신청할 방법이 많다”고 덧붙였다. &lt;br&gt;&lt;br&gt;한편 법원은 베트남 전쟁 당시 베트남 꽝남성의 다른 마을인 ‘퐁니마을’에서 벌어진 한국군의 민간인 학살로 피해를 입은 베트남인에 대해 한국 정부의 배상 책임을 인정한 바 있다. 서울중앙지법 민사항소3-1부(재판장 이중민)는 지난 1월 응우옌 티탄씨에게 1심과 같이 “3000만100원과 지연손해금을 지급하라”고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신임 기상청장에 이미선…첫 여성 청장 탄생</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/14/CO2GYLS36RHK7HZWT6YPJTUWJY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 10:01:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2ADWUAOKXZF6QXQAADCUVYMC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이미선 신임 기상청장. /기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청 신임 청장에 이미선(59) 수도권기상청장이 임명됐다. 기상청 최초의 여성 청장이다.&lt;br&gt;&lt;br&gt;이미선 청장은 1966년생으로 1989년 이화여대 과학교육과를 졸업한 뒤 서울대에서 대기과학 석·박사를 받았다.&lt;br&gt;&lt;br&gt;1999년 기상청에 입직해 총괄예보관, 예보정책과장, 국가기상위성센터장, 관측기반국장, 지진화산국장, 광주지방기상청장, 기후과학국장, 수도권기상청장 등을 거쳤다.&lt;br&gt;&lt;br&gt;특히 기후변화 분야에서 손 꼽히는 전문가다.&lt;br&gt;&lt;br&gt;강유정 대통령실 대변인은 이날 이 청장에 대해 “국민안전을 위협하는 각종 기후위기 현상을 탐지하고 과학적인 예측정보로 국민생명 보호에 기여할 경륜 있는 기상전문가”라고 소개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 통일교 지구장 소환조사...‘불법 정치자금 조사’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/14/7UGOXLFIGBDBLL27SJ6B74HQAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/14/7UGOXLFIGBDBLL27SJ6B74HQAU/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 09:25:26 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하고 있는 민중기 특별검사팀이 2022년 당시 통일교(현 세계평화통일가정연합) 내 5개 지역별 지구장을 맡았던 담당자들을 소환조사한 것으로 파악됐다. 특검은 이들을 불러 교단 내 선교 자금이 불법 정치자금으로 쓰였는지 등을 물은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UZEGUQ3Y7RPM3GM2KEHZSE6UY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 경기 가평군 통일교 천원궁(아래부터), 천승전, 천정궁박물관 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면 최근 특검은 2022년 대선 기간 당시 통일교 내 5개 지역별 지구장들을 소환조사했다. 통일교는 국내를 서울·인천, 경기·강원, 충청, 전라, 경상 지역으로 나눠 관리하는 것으로 알려졌는데, 지구장은 각 지구를 책임지고 있는 담당자다. 권성동 국민의힘 의원에게 현금 1억원과 ‘건진 법사’ 전성배씨에게 고가의 선물을 건넨 혐의 등으로 구속된 전 세계본부장 윤영호씨는 각 지구를 관리하는 역할도 맡았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 지구장들을 불러 당시 선교 자금이 불법 정치 자금으로 쓰였는지 등을 조사한 것으로 전해졌다. 앞서 특검은 지난달 30일 구속된 윤씨의 구속영장 청구서에 ‘윤씨가 2022년 1월 5일 권 의원에게 윤석열 대선 후보를 위해 사용하라는 취지에서 현금 1억원을 공여한 혐의(정치자금법 위반)가 있다’는 내용을 적시한 것으로 알려졌다. 특검은 윤씨가 전씨에게 캄보디아 메콩강 개발 사업(ODA) 수주 지원 등 통일교 현안을 청탁하면서, 김 여사에게 전해달라며 준 명품 목걸이 등이 실제 김 여사에게 전달됐는지 의심하고 있기도 하다.&lt;br&gt;&lt;br&gt;윤씨는 이 같은 의혹에 대해 ‘윗선’의 지시가 있었다고 특검 조사에서 진술한 것으로 알려졌다. 통일교 측은 “윤씨 개인의 일탈”이라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 전신주 박고 인도 침범 ‘위험천만’ 음주 차량 추격해 잡은 소방관들</title>
       <link>https://www.chosun.com/national/national_general/2025/08/14/PGJIJNVVTFG5BPZV54MWBOZ6BI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/14/PGJIJNVVTFG5BPZV54MWBOZ6BI/</guid>
@@ -972,16 +980,6 @@
       <description/>
       <pubDate>Wed, 13 Aug 2025 07:11:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRKO7GDW3ZDMZKMXLM6QHNZ5LE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 9일 오후 10시 8분쯤 서울 광진구 아차산역 사거리에서 음주운전 차량이 전신주를 들이받고 인도를 통과하며 도주하는 모습. 행인을 칠 뻔한 아찔한 상황도 연출됐다. 이를 포착한 강동소방서 김동연 소방교와 길동119안전센터 최우식 소방사는 곧바로 경찰에 신고한 뒤 추격을 시작했다. /강동소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“음주운전 의심 차량이 전신주를 들이받고 도주 중입니다!”&lt;br&gt;&lt;br&gt;지난 6월 9일 오후 10시 8분 경찰에 다급한 신고 전화가 접수됐다. 서울 광진구 아차산역 사거리에서 검은색 SUV 차량이 전신주를 들이받고 전·후진을 반복했다. 인도까지 넘어온 차량은 행인을 아슬아슬하게 빗겨 지나친 뒤 그대로 도주했고 위험천만한 운전은 계속됐다. 경기 구리시 방면으로 비틀대며 달리던 차량은 급정거와 불법 유턴을 반복했고 중앙 버스 정류장을 침범하기도 했다. &lt;br&gt;&lt;br&gt;인명 사고로도 이어질 수 있던 도주 행각은 17분 뒤 막을 내렸다. 도주 차량을 10분 넘게 추격한 끝에 앞질러 가로막은 회색 SUV 차량 덕분이었다. 곧이어 따라붙은 경찰은 도주 차량을 둘러싸 운전자를 체포했다. 70대 남성 운전자 A씨는 경찰 음주 측정 결과 면허 정지 수준의 만취 상태였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7IYNYQPB5BAJIMBEQEXC2O3HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 9일 강동소방서 김동연 소방교와 길동119안전센터 최우식 소방사가 몬 차량 후미 블랙박스 영상. 추격 끝에 음주운전 차량 앞을 가로막아 경찰이 따라붙을 시간을 벌었다. 경찰 음주 측정 결과, 차량 운전자는 면허 정지 수준의 만취였던 것으로 나타났다. /강동소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검거의 주역인 회색 차량 운전자는 경찰이 아니었다. 소방학교 교육을 마치고 함께 귀가하던 강동소방서 김동연(25) 소방교와 길동119안전센터 최우식(38) 소방사였다. 두 소방관은 A씨 차량이 전신주를 들이받는 순간 음주 상태임을 직감하고 추격을 시작했다. 김 소방교가 차량을 모는 동안, 최 소방사는 옆에서 경찰에 실시간으로 경로를 알렸다. 차량 경로를 예측해 광진구의 한 호텔 앞에 경찰차를 대기시킬 것을 경찰에 요청하기도 했다. 실제 도주 차량이 이 부근을 지나자, 경적을 울려 경찰차에 신호를 줬다.&lt;br&gt;&lt;br&gt;김 소방교는 본지 인터뷰에서 “작년 이맘때쯤 구급대원으로 일할 때 음주 운전 차량에 치여 중상을 입은 분을 조치했던 기억이 나 그냥 지나칠 수 없었다”고 했다. 최 소방사도 “‘이러다가 누군가 다치겠다’는 생각이 번쩍 들었다”며 “근무 외 시간이지만 시민 안전을 책임지는 공무원으로서 당연한 일을 한 것”이라고 했다. 경찰 관계자는 “소방관들의 기지로 더 위험한 상황을 빠르게 막을 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;한편, 경찰은 A씨를 도로교통법상 음주운전 및 사고 후 미조치 혐의로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고객 휴대전화 초기화 안하고 경찰에 넘긴 대리점…대법서 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/13/CFGW2MEGQ5EBRJ6DR5QKCNH23I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/13/CFGW2MEGQ5EBRJ6DR5QKCNH23I/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 13 Aug 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TW7XX2XYFQUBVD4JIEO6SVA2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경./뉴스1 
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화를 교체한 고객이 기존에 쓰던 단말기를 초기화하지 않고 갖고 있다가 경찰에 건네준 대리점 업주에게 대법원이 무죄를 확정했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 서경환 대법관)는 개인정보보호법 위반 혐의로 기소된 A씨 상고심에서 무죄를 선고한 원심을 확정했다고 13일 밝혔다. A씨에게 휴대전화를 받은 혐의로 함께 재판을 받은 경찰관 두 명도 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;강원도 영월에서 휴대전화 대리점을 운영하던 A씨는 2018년 고객 B씨에게 휴대전화를 판매하고 B씨가 기존에 쓰던 단말기를 건네받았다. A씨는 이를 초기화해서 쓰겠다고 했으나 초기화하지 않고 그대로 보관하다가 같은 해 8월 경찰이 요청하자 휴대전화를 넘겨줬다. 휴대전화에는 B씨의 사진과 지인들 연락처, 골프장 예약·이용과 관련해 지인들과 주고받은 문자메시지 등 개인정보가 그대로 남아 있었다. &lt;br&gt;&lt;br&gt;경찰은 B씨의 범죄 정보를 수집하기 위해 대리점에 B씨의 옛 휴대전화를 달라고 요청한 것으로 조사됐다. 검찰은 A씨가 업무상 알게 된 개인정보를 권한 없이 제공했고, 경찰도 이를 부정한 목적으로 받았다고 보고 기소했다.&lt;br&gt;&lt;br&gt;그러나 1·2심과 대법원은 세 사람에게 모두 무죄를 선고했다. 고객이 더 이상 필요 없어 대리점에 자발적으로 건네고 간 휴대전화에 저장된 정보는 대리점 업주가 ‘개인정보를 처리하는 업무와 관련해 알게 된 개인정보’로 보기는 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “구형 휴대전화에 남아있던 고객 개인정보를 파기하는 건 신형 휴대전화를 판매한 A씨가 호의 관계에서 부담하는 단순한 협조 의무로 보인다”며 “휴대전화에 남아있던 개인정보를 보관한 것이 ‘개인정보를 처리하는 업무’였다고 보기는 어렵다”고 했다. 검사가 상고했지만 대법원도 “A씨가 개인정보를 ‘업무상’ 보유하거나 취득한 게 아니라는 전제에서 피고인들 공소사실을 모두 무죄로 판단한 원심의 판단은 정당하다”며 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“美선 박사 월급 2~3배, 교수 갑질도 없어… 한국 안 돌아갑니다”</title>
