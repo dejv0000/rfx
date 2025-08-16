@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>벌초 나섰던 60대, 과수원 인근 전기울타리에 감전돼 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/17/QEOXEENDXFA7LA5RX2THHMFHUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/QEOXEENDXFA7LA5RX2THHMFHUM/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 10:08:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCWMT56WDFH47OP5QITFXUNH3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;멧돼지, 고라니 등으로부터 농작물 피해를 방지하기 위해 설치한 전기 울타리. 사진은 기사 내용과 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;벌초에 나섰던 60대 남성이 과수원 주변에 설치된 전기 울타리에 감전돼 숨졌다. &lt;br&gt;&lt;br&gt;16일 경북소방본부 등에 따르면 이날 오후 1시 13분쯤 경북 상주시 낙동면 한 과수원 인근에서 A씨가 전기 울타리에 감전돼 숨진 상태로 발견됐다. 소방 당국은 “벌초 작업 중 A씨가 사라졌다”는 가족의 신고를 받고 출동했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 조사 중”이라며 “해당 과수원의 전기 울타리 설치 경위와 경고 표지판 부착 여부 등도 조사할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;한편 지자체 등에 따르면, 농가 등에서는 야생동물 등으로부터 농작물을 보호하기 위해 전기 울타리를 설치하는 경우가 적지 않다고 한다. 인가된 전문 업체를 통해 설치할 경우 절연 설비 등 기본적인 안전장치를 갖춰 인명 피해로 이어지진 않는다고 한다. 하지만 비용 절감 등을 위해 안전 기준을 제대로 지키지 않은 채 설치된 전기 울타리도 적지 않은 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>손가락으로 튕겨 끈 담배 불씨에 13억원대 공장 화재 피해… 30대 직원 벌금형</title>
       <link>https://www.chosun.com/national/regional/2025/08/17/BDKX4J6LJ5F4ZHKBF7H2PJ7XYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/BDKX4J6LJ5F4ZHKBF7H2PJ7XYQ/</guid>
@@ -986,15 +995,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 08:28:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 7월 5일 서울 서초구 서울고등검에서 내란 특검 2차 대면조사를 받은 뒤 청사를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권에서 특혜 의혹을 제기했던 윤석열 전 대통령의 변호인 단독 접견이 14일부터 금지됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 윤 전 대통령은 이날부터 별도로 마련된 공간이 아닌 일반 수용자와 같은 장소에서 변호인을 접견했다. &lt;br&gt;&lt;br&gt;교정당국과 서울구치소는 지난달 윤 전 대통령이 다시 구속된 후, 다른 수용자와의 마찰을 막기 위해 관련 지침에 따라 윤 전 대통령이 다른 수용자와 다른 공간에서 변호인을 접견할 수 있도록 했다. 전직 대통령이라는 신분도 고려했다.&lt;br&gt;&lt;br&gt;그러나 더불어민주당에서는 윤 전 대통령이 특혜를 받고 있다고 주장했다. 민주당 3대 특검 종합대응 특별위원회는 지난 1일 “윤 전 대통령이 전체 구속 기간 중 변호인 등 348명을 395시간 18분 동안 접견했다”며 “장시간 접견으로 편안한 수용 생활을 누리는 등 각종 특혜가 있었다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 정성호 법무부 장관도 국회 법제사법위원회에서 “윤 전 대통령에 대한 접견 허용 과정에서 규정 위반과 위법 행위가 있는지 면밀히 검토해 보고하겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 교정당국은 윤 전 대통령이 다른 수용자와 같은 공간에서 변호인을 접견하도록 하되, 운동과 목욕은 기존처럼 일반 수용자와 분리해 실시하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변광용 거제시장, 트럼프에 거제 한화오션 방문 요청 이유는</title>
-      <link>https://www.chosun.com/national/2025/08/15/3G3KCO5GPNETTMBW7GRGT6JFSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/15/3G3KCO5GPNETTMBW7GRGT6JFSY/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 06:10:57 +0000</pubDate>
-      <content:encoded>변광용 경남 거제시장이 트럼프 미국 대통령에게 ‘마스가(MASGA·Make American Shipbuilding Great Again) 프로젝트’의 청사진을 보여주기 위해 한화오션 거제조선소 방문을 제안할 예정이다. 마스가 프로젝트는 한국 조선업 주도로 미국 내 신규 조선소 건설, 현지 조선 인력 양성 및 조선 관련 공급망 재구축에 나서는 미국 조선업 부활 프로젝트다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEZOPV2MR5AGRHFYLTIWMN2CKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변광용 경남 거제시장 페이스북. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;변 시장은 14일 자신의 소셜미디어(SNS)에 오는 10월 경주에서 열리는 아시아태평양경제협력체(APEC) 정상회의 참석을 위해 트럼프 대통령이 방한하게 되면 한화오션 거제조선소를 방문해 줄 것을 제안하는 서한문을 전달할 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;변 시장은 “한·미 조선산업 협력이 단순한 조선산업의 문제를 넘은 한·미 통상 및 동맹관계 전체를 관통하는 핵심 고리로 기능하고 있는 분위기”라며 “10월 APEC에 참석 예정인 트럼프 대통령이 세계 빅2·빅3 조선소가 있는 거제 조선소 현장을 방문해 줄 것을 정중히 요청하는 거제시장 명의의 서한문을 준비 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;거제시는 한화오션과 함께 트럼프 대통령에게 전달할 서한문을 준비한 것으로 전해졌다. 거제시 관계자는 “외교부 등 관계 기관과 협의를 거쳐 최대한 빠른 시일 내 전달할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;거제시에 따르면 서한문에는 “1998년 트럼프 대통령의 방문 이후 한화오션(당시 대우중공업 옥포조선소)은 비약적인 성장과 혁신을 거듭하며, 친환경 선박 건조와 첨단 해양 기술 분야에서 세계를 선도하는 기업으로 도약했다”는 내용이 담긴다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMYEUPQEBBEGDCSHP5AVDCHUJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프(오른쪽에서 둘째) 미국 대통령 당선인이 1998년 6월 경남 거제시에 있는 대우조선해양(현 한화오션) 옥포조선소를 찾았을 때의 모습. 당시 부동산 사업가로 ‘대우트럼프월드’ 투자 협의를 위해 처음으로 한국을 찾은 그는 당시 대우그룹의 조선소, 전북 군산 대우자동차 등 여러 사업장을 방문했다. 장남 도널드 트럼프 주니어(오른쪽 셋째), 두 번째 아내인 배우 출신 말라 메이플스(왼쪽 첫째)도 함께 한국 조선소를 찾았다. 100m 높이 골리앗 크레인을 보고 ‘한번 올라가 보고 싶다’고 먼저 요청한 트럼프는 크레인 정상에서 “원더풀, 어메이징” 감탄사를 연발했다고 한다. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;트럼프 대통령은 1998년 6월 장남 트럼프 주니어와 함께 대우조선해양(현 한화오션) 옥포조선소를 찾았다. 트럼프 대통령은 당시 부동산 사업가로서 한국 내 ‘트럼프 월드’ 브랜드의 주택 사업 등과 관련한 투자 논의를 위해 한국을 찾았다. 그는 그때 조선소의 상징이기도 한 높이 100m 골리앗 크레인을 보고 “한번 올라가 보고 싶다”고 했고, 실제 크레인 정상에 올라 “원더풀, 어메이징” 감탄사를 연발했다고 한다. &lt;br&gt;&lt;br&gt;서한문에는 또 “미 해군 함정 월리 쉬라함, 유콘함에 이어 찰스 드류함 정비까지 안정적으로 수행하고 있는 한화오션을 방문해 한·미 방산 협력의 새로운 시대를 함께 열어가길 바란다”고 강조할 계획이다. 한화오션은 지난해 8월 월리 쉬라함에 이어 11월 유콘함, 지난달 찰스 드류함 정비까지 미 해군 함정 MRO 사업을 연이어 수주하며 글로벌 방산 시장에서 입지를 강화하고 있다.&lt;br&gt;&lt;br&gt;변 시장은 이날 한화오션 거제조선소를 방문한 김정관 산업통상자원부 장관과의 간담회에서 APEC 참석차 방한 예정인 트럼프 대통령이 한화오션을 방문할 수 있도록 정부 차원의 관심과 지원을 요청했다.&lt;br&gt;&lt;br&gt;트럼프 대통령은 대선 승리 직후 미 조선업 부활을 위해 한국의 협력이 필요하다고 언급한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“미쳤나” 내한 앞둔 오아시스 SNS 영상에 韓 팬들 발칵…무슨 일?</title>
