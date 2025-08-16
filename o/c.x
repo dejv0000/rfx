@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란특검, ‘비화폰 기록 삭제 의혹’ 박종준 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 03:02:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQIWNEZKUZDTIC3SAAXMFC4ITU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 관련 의혹을 수사하는 내란 특검이 16일 박종준 전 대통령경호처장을 서울고검 내 특검 사무실로 불러 조사하고 있다. 박 전 처장이 특검에 출석한 것은 이번이 네 번째다.&lt;br&gt;&lt;br&gt;특검은 박 전 처장이 작년 12월 6일 윤석열 전 대통령, 홍장원 전 국정원 1차장 등의 비화폰 사용 기록을 원격으로 삭제하는 데 관여했다는 의혹을 수사 중이다. 홍 전 차장은 당일 국회에 출석해 계엄 당일 윤 전 대통령의 지시를 받았다며, 통화 기록이 찍힌 비화폰 화면을 공개했다. 이후 국정원이 경호처에 비화폰에 대한 ‘보안 조치’가 필요하다고 전달했고, 이 비화폰은 원격 로그아웃되면서 정보가 초기화됐다.&lt;br&gt;&lt;br&gt;특검은 조태용 전 국정원장이 박 전 처장과 통화한 뒤 비화폰 기록이 삭제된 것으로 보고, 전후 과정을 규명해야 한다고 보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난달 16일 조 전 원장과 박 전 처장 주거지를 지난달 16일 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사, 18일 특검 출석하기로... 3차 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/17/NPT2PNML7VH2JO4KRW5BABRAIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/17/NPT2PNML7VH2JO4KRW5BABRAIU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 02:24:05 +0000</pubDate>
+      <content:encoded>증거 인멸 우려로 지난 12일 구속 수감된 김건희 여사가 오는 18일 민중기 특별검사팀의 3차 소환에 응할 예정이다. 구속 이후 두 번째 대면조사다. 특검은 김 여사 출석을 앞두고 질문 내용을 준비 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLT2QCQF2NSOAEQKTJN4YLRYI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 14일 구속 후 첫 조사를 위해 서울 종로구에 마련된 민중기 특별검사팀 사무실로 호송차량을 타고 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 당초 밝혔던 ‘18일 변호인 접견 후 출석 여부를 결정하겠다’는 입장을 바꿔 우선 특검 사무실에 나가기로 결정했다. 조사를 시작하기 전 변호인과 잠시 만나 진술 여부 등을 정한 뒤 조사에 임하겠다는 얘기다. &lt;br&gt;&lt;br&gt;특검은 지난 14일 브리핑에서 조사 주제에 대해 “특검 내 수사팀이 협의해 결정할 계획”이라고 밝힌 바 있다. 이봉관 서희건설 회장에게 받은 ‘나토 순방 명품 3종’, 통일교 측에서 받은 ‘통일교 명품 3종’에 대한 조사가 이뤄질 가능성이 있다. &lt;br&gt;&lt;br&gt;김 여사는 이 회장으로부터 2022년 3~4월 사이 6000만원대 ‘반클리프 앤 아펠’ 목걸이를 비롯해 명품 브로치와 귀걸이를 받은 혐의, 2022년 4~7월 사이 통일교 전 세계본부장 윤영호씨로부터 6000만원대 ‘그라프’ 목걸이와 1000만원 안팎의 샤넬 가방 2개, 천수삼농축차 등을 수수한 혐의를 받고 있다. 특검은 김 여사가 이 회장에게 맏사위인 박성근 전 순천지청장의 인사 청탁과 함께 명품을 수수한 것으로 의심하고 있다. 또 통일교가 김 여사에게 정부의 지원을 부탁하면서 금품을 건넸다고 의심한다.&lt;br&gt;&lt;br&gt;김 여사는 지난 14일 구속 후 첫 조사에선 대부분의 질문에 진술거부권을 행사하면서 답하지 않은 것으로 알려졌다. 특검은 당시 조사에서 부당 선거개입과 공천개입과 관련이 있는 ‘여론조사 무상 수수’ 의혹을 집중적으로 물었다고 한다. &lt;br&gt;&lt;br&gt;김 여사는 법무부 호송차량을 타고 특검 사무실에 출석했는데, 연녹색의 수의 대신 구속영장 실질심사 당시 입었던 검은색 정장 차림이었다고 한다. 양손에는 수갑을 찼다.&lt;br&gt;&lt;br&gt;김 여사는 조사 도중 점심식사 시간엔 변호인들에게 “내가 다시 내 남편하고 살 수 있을까, 다시 우리가 만날 수 있을까”라는 심경을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>8·15 집회에서 ‘국민저항권’ 언급 피한 전광훈</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/17/MW47YUODCJGIDGGCAJDDBZ3Y64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/17/MW47YUODCJGIDGGCAJDDBZ3Y64/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 01:35:55 +0000</pubDate>
+      <content:encoded>광복 80주년인 지난 15일 서울 도심에선 보수·진보 양 진영이 각각 대규모 집회를 개최했다. 경찰의 비공식 추산에 따르면 양측 집회에는 총 1만여명이 참가한 것으로 추정된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLSA74GPENILRA23OIGL5PSCF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울역 광장에서 보수 성향 단체 대한민국바로세우기국민운동본부(대국본)가 광복절을 맞아 집회를 열고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사가 이끄는 자유통일당과 천만인운동본부, 대한민국바로세우기국민운동본부 등은 이날 낮 12시쯤부터 서울역 광장에서 ‘8·15 광복절 국민대회’를 열었다. 참가자들은 ‘MAKE KOREA GREAT AGAIN’(한국을 다시 위대하게), ‘ONLY YOON’(오직 윤석열) 등의 문구가 적힌 모자나 티셔츠를 착용했고, “윤 어게인” “부정선거 OUT” 등의 구호를 외쳤다. 이 집회에는 약 4500명이 참석한 것으로 추산된다.&lt;br&gt;&lt;br&gt;전 목사는 이날 연단에 올라 “다음 주 광화문 광장에 1000만명이 모이면 이재명 대통령이 하야할 것”이라고 했다. 그간 주장해오던 ‘국민저항권’은 언급하지 않았다. 전 목사는 그간 많은 국민이 모여 정권에 저항하면 헌법 위의 권한을 가진다는 논리의 국민저항권을 주장해 왔다. &lt;br&gt;&lt;br&gt;경찰은 전 목사가 국민저항권을 명분 삼아 지난 1월 서부지법 난동 사태를 선동했다고 보고, 최근 전 목사에 대해 출국 금지 조치와 압수 수색을 실시하는 등 수사를 진행하고 있다. 이에 이날 집회에선 명시적인 언급을 피한 것으로 보인다. &lt;br&gt;&lt;br&gt;다만 집회에 참석한 다른 참가자들은 여전히 국민저항권을 언급했다. 지난 대선 때 자유통일당 후보로 나섰다가 사퇴했던 구주와 변호사는 “대한민국은 중국 공산당과 종북 주사파들에게 나라를 다시 빼앗기고 말았다”며 “내일 1000만명이 나와 국민저항권을 발동시켜 반드시 (이재명 대통령을) 끌어내야 한다”고 했다. 자유통일당 등은 16일에도 광화문광장에서 집회를 연다.&lt;br&gt;&lt;br&gt;한국노총과 민주노총을 포함한 진보 성향 단체들도 이날 서울 곳곳에서 집회를 열었다. 양대 노총은 오전 9시30분부터 용산역 광장에서 공동 결의대회를 열었다. 참가자들은 “미국의 경제 수탈과 평화 위협을 저지하자” 등의 구호를 외쳤다. &lt;br&gt;&lt;br&gt;오후 5시 30분에는 민주노총이 숭례문 앞에서 ‘8·15 광복절 사전대회’를 열었고, 이 자리에 참석한 양경수 민주노총 위원장은 “한미 정상회담을 앞두고 있는 정부는 미국에 당당히 ‘아니오’라고 얘기해야 한다”고 했다. 민노총 집회에 참석한 이들은 약 5000명으로 추산된다. 전국농민회총연맹·전국여성연대도 이날 오후 5~6시 대한상공회의소 앞에서 집회를 열었다.&lt;br&gt;&lt;br&gt;이날 서울 도심에서 신고된 집회는 총 48건이었다. 경찰은 기동대 60여 개 부대, 4000여 명을 투입해 집회를 관리했다. 보수·진보 성향 단체의 집회 장소나 행진 동선이 겹치지 않아 별다른 물리적 충돌은 없었다는 게 경찰 설명이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병특검, 김동혁 국방부검찰단장 3차 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/GJK7VETO2RHOPAY6CVIRTU6IBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/GJK7VETO2RHOPAY6CVIRTU6IBI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 01:50:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKLZ4OSDGMKQMCP2R7Z7YT3XLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동혁 국방부검찰단장(육군 준장·직무배제)이 지난 13일 오전 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실에서 피의자 신분으로 출석해 조사실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 순직 사건을 수사하는 해병 특검이 16일 김동혁 국방부검찰단장을 직권남용권리행사방해 혐의 피의자로 소환해 조사하고 있다. 지난 13일과 15일에 이어 세 번째 소환이다. 김 단장은 이날 오전 9시 50분쯤 특검에 출석했다.&lt;br&gt;&lt;br&gt;김 단장은 2023년 8월 2일 해병대수사단이 순직사건 수사 기록을 경북경찰청에 이첩한 이후 국방부검찰단 내부 회의를 열어 박정훈 당시 해병대수사단장을 집단항명수괴 혐의로 입건하고, 경북청으로 넘어간 수사 기록의 회수를 지휘한 당사자로 지목됐다.&lt;br&gt;&lt;br&gt;김 단장은 같은 달 9일 이종섭 전 국방장관 지시로 조사본부가 사건기록 재검토를 시작한 이후부터 국방부 내부 회의에 참여하며 재검토 과정에 개입했다는 의혹도 제기된 상태다.&lt;br&gt;&lt;br&gt;특검은 이날 박 전 단장 수사에 참여했던 염보현 군검사도 불러 조사 중이다. 염 소형은 2023년 8월 2일 수사기록의 경찰 이첩을 강행한 박 전 단장을 집단항명수괴 혐의로 입건해 수사하다가 항명으로 혐의를 바꿔 구속영장을 청구한 것으로 알려졌다. 허위공문서 작성 및 행사, 감금 미수 등 혐의 피의자 신분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹측 “눈질환 심각” 주장에 법무부 “사실과 달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/17/QBBH4AMSDNC2DIAQFFRZFA6BPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/17/QBBH4AMSDNC2DIAQFFRZFA6BPU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 00:57:54 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 구속 수감되면서 안과 질환 관련 정밀검사와 진료를 제때 받지 못해 실명 위험이 높아지고 있다는 주장이 이어지자, 법무부가 16일 사실과 다르다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWDYX2UV3V2BXAWBTIAAL4TBDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 오전 입장문을 내고 “서울구치소는 윤석열 전 대통령 입소 후 신입자 건강검진을 실시하여 건강상태를 확인하였고, 건강권 보장을 위해 적정한 의료 처우를 제공하고 있다”고 밝혔다. 또 안과 질환에 대해선 “한림대성심병원에서 2차례 외부 진료를 허용하는 등 수용자에게 허용되는 범위에서 필요한 의료처우를 모두 제공하고 있다”고 했다. 안과 질환을 포함해 건강상태가 매우 안 좋다고 보기 어렵고, 필요한 시술을 받지 못해 실명 위험에 처했다는 주장도 사실과 다르다는 얘기다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 지난 13일과 14일 두 차례에 걸쳐 외부 진료를 받을 때 수갑과 전자발찌 형태의 위치추적장치를 착용한 데 대해서도 “관계법령 등에 규정된 통상의 조치”라고 법무부는 설명했다. 이어 법무부는 “서울구치소는 앞으로도 건강상태에 맞춰 적극적인 의료처우를 실시할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;법무부가 이같은 입장을 밝힌 것은 국민의힘 안팎을 중심으로 비판이 계속되는 데 따른 것으로 보인다. 나경원 의원은 지난 15일 자신의 페이스북을 통해 “국제적 인권문제로 비화할 수 있는 심각한 사안”이라며 “전직 대통령에 대해 헌법과 국제인권 기준에 부합하는 합당한 처우를 해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;앞서 윤 전 대통령 변호인단은 지난달 31일 윤 전 대통령의 진단서와 소견서, 의무기록사본을 모두 제출했다고 밝히면서 “서울구치소 의료과장의 임상 진료가 있었으나, 기저 질환 및 안과 질환에 대한 정밀검사와 진료가 제때 이뤄지지 못했다”고 밝혔다. 당뇨합병증의 일종인 당뇨망막증을 앓고 있는 윤 전 대통령은 구속되기 전까지 주기적으로 안과시술을 받고 있었다고 한다.&lt;br&gt;&lt;br&gt;이 밖에도 윤 전 대통령은 심혈관 및 경동맥 협착, 자율신경계 손상으로 인한 체온조절 장애를 앓고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여수 신북항서 정박 중이던 석유제품운반선 등에서 화재… 3명 사상 </title>
+      <link>https://www.chosun.com/national/regional/2025/08/17/GSAJCXRYIBEQLEKZW6JUJSOESU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/GSAJCXRYIBEQLEKZW6JUJSOESU/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 00:31:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXY3M4I25JDIDPB3W7LNPW23GY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 1시4분쯤 전남 여수시 만흥동 한 항구에 정박된 2692t급 석유제품운반선과 옆에 있던 24t급 용달선에서 불이 나 해경이 진화 작업을 벌이고 있다. 이 불은 오전 7시 45분쯤 진화됐다. /여수해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수 신북항에 정박 중이던 대형 석유제품 운반선과 용달선에서 불이 나 1명이 숨지고 2명이 중경상을 입었다. &lt;br&gt;&lt;br&gt;16일 여수해경에 따르면, 이날 오전 1시 4분쯤 전남 여수시 신북항에서 2692t급 석유제품 운반선 A호와 옆에 있던 용달선 B호(24t급)에서 원인이 밝혀지지 않은 불이 났다. 이 불은 6시간 40여 분 만인 이날 오전 7시 45분 진화됐다. 불이 나자 해경은 함정 15척과 소방정 1척을 긴급 투입해 진화 작업을 벌였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KITUFSFICJCH3PKS2ZSC7GJJBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 1시 4분쯤 전남 여수시 신북항에 정박중이던 2692t급 석유제품 운반선 A호와 옆에 있던 용달선 B호(24t급)에서 원인을 알 수 없는 불이 났다./여수해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만, 이 불로 B호 선장(50대)이 심정지 상태로 발견돼 병원으로 옮겼으나 숨졌다. 또 A호에 있던 30대 외국인 선원이 크게 다쳤고, 같은 배에 있던 20대 선원도 부상을 입고 병원으로 옮겨져 치료를 받고 있다. 화재 당시 A호에는 14명, B호에는 4명이 타고 있었다.&lt;br&gt;&lt;br&gt;A호에는 유해 화학 물질(C5) 2500t과 연료유 100t가량이 실린 것으로 전해졌지만, 현재까지 해양 오염은 확인되지 않았다고 한다. &lt;br&gt;&lt;br&gt;해경은 정확한 사고 원인과 피해 규모를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KITUFSFICJCH3PKS2ZSC7GJJBE.jpg?auth=c9dad1b0ff0318c731a894302807cb328f7ca4a39844efd3c2de378d07d6642b&amp;smart=true&amp;width=4032&amp;height=2268" type="image/jpeg" height="2268" width="4032">
+        <media:description type="plain">16일 오전 1시 4분쯤 전남 여수시 신북항에 정박중이던 2692t급 석유제품 운반선 A호와 옆에 있던 용달선 B호(24t급)에서 원인을 알 수 없는 불이 났다./여수해경</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>주말에도 무더위 이어져..비 온 후에도 더워</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/17/KWAZFBFL3NGVBJNWVS4WM3SGJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/17/KWAZFBFL3NGVBJNWVS4WM3SGJQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 00:30:40 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWAE4JQLN5NC3OBPK4FTOI22RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 서초구에 해바라기가 활짝 피어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 폭염 특보가 이어지는 가운데, 토요일인 16일 최고 체감 온도가 33도 안팎까지 오르는 등 무더울 전망이다. &lt;br&gt;&lt;br&gt;기상청은 16일 이날 낮 최고 기온을 29~35도로 예보했다. 남부지방과 제주도는 체감 온도가 35도 안팎까지 오른다. 도심과 해안 지역을 중심으로 열대야 현상도 기승을 부릴 것으로 보인다. 저녁부터 다음날 아침까지 기온이 25도 이상으로 유지될 수 있다는 뜻이다. 일요일인 17일 전국 낮 최고 기온도 29~35도로 무덥다. &lt;br&gt;&lt;br&gt;16일 경기 북동부와 강원 북부 내륙에는 늦은 오후~저녁 사이 5~20mm의 비가 내릴 전망이다. 17일 아침부터 늦은 오후 사이 경기 북부와 강원 중·북부 내륙 산지에 5∼40㎜가량의 비가 내린다고 예보됐다. 기상청은 “비가 내리는 지역에서는 일시적으로 기온이 내려가겠지만, 비가 그친 뒤 습도가 높은 상태에서 기온이 다시 올라 무더울 것”이라고 했다.&lt;br&gt;&lt;br&gt;주말 무더위는 티베트 고기압과 북태평양 고기압이 만든 하강 기류가 우리나라를 덮고 있어서다.두 고기압이 만든 더운 열기 때문에 온도가 올라가는 것이다. 기상청은 “폭염특보가 확대 및 강화될 가능성이 있다”며 “온열질환 발생 가능성이 높으니 야외 활동과 외출 자제해 달라”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>에메랄드빛 바다와 열대우림 어우러진 화산섬… 알로하의 온기가 여행자를 반긴다</title>
       <link>https://www.chosun.com/national/weekend/2025/08/16/OQ22KIHIENDQJBXO4P6ZZKRMHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/08/16/OQ22KIHIENDQJBXO4P6ZZKRMHE/</guid>
@@ -897,15 +963,6 @@
       <content:encoded>순직 해병 특검이 최근 김건희(구속) 여사와 친분이 있는 이종호(구속) 전 블랙펄인베스트 대표가 자기 아내 명의의 계좌로 지난 2023년 삼부토건 관계사인 ‘웰바이오텍’ 주식을 거래해 하루 만에 2000만 여원의 차익을 본 정황을 포착한 것으로 14일 전해졌다. 삼부토건은 이 전 대표가 김 여사를 고리로 주가조작을 벌였을 것이라는 의혹이 제기된 업체다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBMSSNSSYTC6IH3S4HS7XF6SGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 해병 특검은 전날 이 전 대표 지인 A씨를 불러 조사하면서 이 같은 진술을 확보했다. A씨는 이 전 대표에게 아내 명의 주식 계좌를 받아 운용해 수익을 내고, 보고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월 이 전 대표 아내 명의의 주식 계좌로 웰바이오텍 주식을 거래해 2000만 여원의 수익을 올렸다고 한다. 해당 주식 거래는 하루 만에 사고파는 이른바 ‘단타’ 형식으로 이뤄졌다고 한다. 해병 특검은 지난달 압수한 이 전 대표의 휴대전화에서 A씨와의 연락 내역을 확인해 조사에 나섰다고 한다.&lt;br&gt;&lt;br&gt;웰바이오텍은 2023년 5월 삼부토건 주가 급등의 발단의 된 우크라이나 재건 포럼에 참여해 삼부토건과 함께 ‘우크라이나 재건주’로 묶였다. 웰바이오텍의 최대 주주가 이일준 삼부토건 회장이기도 하다. 이와 관련해 삼부토건이 우크라이나 재건 사업을 추진할 것처럼 속여 인위적으로 주가를 부양했고 이 과정에 김건희 여사가 관련돼 있다는 의혹은 ‘김건희 특검’이 수사 중이다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 특검에 “당시 웰바이오텍 주식 거래는 이 전 대표나 김 여사 등과 전혀 관련이 없고, 주식 차트를 보고 자체적으로 판단한 것”이라고 진술한 것으로 전해졌다. A씨가 거래한 주식 중에 삼부토건은 없었다고 한다. 이 전 대표 측은 “해병 특검 수사와 무관한 별건 수사”라는 입장이다.&lt;br&gt;&lt;br&gt;이종호 전 대표는 삼부토건 주가가 오르기 직전인 2023년 5월 14일, 주변에 ‘삼부 내일 체크하고’란 메시지를 보낸 사실이 알려져 김건희 특검 수사 대상에 올라와 있다. 그런데 그와 관련된 정황이 해병 특검에 포착된 것이다. 해병 특검은 김건희 특검의 요청이 있을 경우 자료 이첩 등을 검토하겠다는 입장이다.&lt;br&gt;&lt;br&gt;한편, 이 전 대표는 고(故) 채수근 상병의 부대장이던 임성근 전 해병대 1사단장이 당초 과실치사 혐의자에 포함됐다가 추후 제외되는 과정에 개입했다는 ‘구명 로비’ 의혹과 관련해 해병 특검의 수사를 받고 있다. 이 전 대표는 ‘도이치모터스 주가조작 사건’ 때 김 여사와 친분을 쌓은 것으로 알려져 있다. 이를 바탕으로 대통령실 등에 임 전 사단장에 대한 구명 로비를 펼친 게 아니냐는 의심을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>평택서 사실혼 여성 살해한 40대 긴급체포</title>
-      <link>https://www.chosun.com/national/incident/2025/08/15/ZFMHC265D5GAPGI4H6AMTZHAVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/15/ZFMHC265D5GAPGI4H6AMTZHAVQ/</guid>
-      <dc:creator>평택=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 09:16:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;별거 중이던 사실혼 관계의 여성을 찾아가 목 졸라 살해한 40대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 살인 혐의로 A씨를 긴급체포해 조사 중이라고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 평택시의 한 아파트에서 사실혼 관계의 40대 여성 B씨를 목 졸라 살해한 뒤 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;사건은 피해자 가족의 신고로 알려졌다. B씨의 아들은 14일 0시 27분쯤 귀가 직후 “어머니가 쓰러져 숨을 쉬지 않는다”고 119에 신고했다. 소방당국은 심폐소생술을 하며 B씨를 병원으로 이송했고, 경찰에 공조를 요청했다.&lt;br&gt;&lt;br&gt;경찰은 아파트 보안카메라 등을 통해 A씨가 범행 후 도주한 사실을 확인하고 수사에 착수했다. B씨는 병원 치료를 받던 중 이날 오전 4시쯤 사망했다.&lt;br&gt;&lt;br&gt;이후 A씨는 경찰에 자수 의사를 밝혔고, 오전 11시 58분 경찰서를 찾아와 긴급체포됐다. 그는 최근 별거를 시작한 B씨에게 재결합을 요구했으나 거절당하자 화가 나 범행을 저질렀다고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람 사이에는 가정폭력 신고 이력은 없는 것으로 조사됐다. 경찰은 A씨에 대한 조사를 마치는 대로 구속영장을 신청하고, 국립과학수사연구원에 부검을 의뢰할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>與 “윤, 수감생활 특혜” 주장에... 법무부, 서울구치소장 교체 </title>
       <link>https://www.chosun.com/national/court_law/2025/08/15/FOMO3TBTEFCSZOM2MND3ALOQYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/FOMO3TBTEFCSZOM2MND3ALOQYY/</guid>
@@ -913,16 +970,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 09:00:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDWWKRGN4JU2UT2NXAOTE6Y7CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 윤석열 전 대통령이 수감 중인 서울구치소의 소장을 교체했다. 그동안 여권 등에서 ‘윤 전 대통령에게만 특혜를 준다’는 비판이 제기되자, 문책성 인사를 실시한 것이다.&lt;br&gt;&lt;br&gt;법무부는 14일 보도자료를 내고 “금일 서울구치소장 교체를 위한 고위공무원(나급) 2명에 대한 인사를 오는 18일자로 단행했다”며 이같이 설명했다. 이에 따르면 김현우 서울구치소장은 안양교도소장으로 발령이 났고, 신임 서울구치소장 자리에는 김도형 수원구치소장이 가게 됐다.&lt;br&gt;&lt;br&gt;법무부는 “이번 인사는 그간 윤 전 대통령의 수용처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단 하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 법원이 지난달 10일 내란특검이 청구한 구속영장을 발부하면서 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동 시간과 목욕 시간을 다른 수용자들과 따로 가지고, 변호인 접견도 별도의 공간에서 하도록 했다.&lt;br&gt;&lt;br&gt;그러나 이를 두고 ‘다른 수용자들은 받지 못하는 특혜’라는 비판이 정치권을 중심으로 나오자, 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공을 중단했다. 다만 교정 당국은 안전상의 우려로 운동·목욕 시간은 앞으로도 일반 수용자들과 동선을 달리 할 계획이다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로도 특혜 시비 없는 공정한 수용관리 등 엄정한 법 집행에 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“일본 멸망 미리 조문”...115년 만에 돌아온 안중근 의사 유묵</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/K6RMJCH4I5A65JO57VW46HEEKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/K6RMJCH4I5A65JO57VW46HEEKI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 07:58:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFAYII657VNS5EP4UVM72J73NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도는 안중근 의사의 유묵 '장탄일성 선조일본'을 최근 국내로 귀환했다고 14일 밝혔다. 사진은 반환된 유묵. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안중근 의사가 옥중에서 쓴 유묵(遺墨·생전에 남긴 글씨나 그림), ‘장탄일성 선조일본(長歎一聲 先弔日本)’이 최근 국내로 돌아왔다.&lt;br&gt;&lt;br&gt;경기도는 14일 안 의사 유묵의 국내 반환에 성공했다고 밝혔다. 가로 41.5cm, 세로 135.5cm 크기인 이 유묵은 ‘큰 소리로 길게 탄식하며 일본의 멸망을 미리 조문한다’는 의미다. 1909년 10월 26일 하얼빈서 이토 히로부미를 저격한 후 중국 뤼순 감옥에 갇혀있던 안 의사가 1910년 3월 작성한 것으로 알려졌다. 국내에 공개된 적 없는 것으로, 115년 만에 국내로 돌아온 것이다. 경기도 관계자는 “이 유묵은 죽음을 앞두고도 흔들림 없었던 안 의사의 기개와 역사관, 세계관이 담긴 작품”이라고 했다. &lt;br&gt;&lt;br&gt;이 유묵은 안 의사가 일본제국 관동도독부(뤼순감옥과 재판부를 관장)의 고위 관료에게 건넨 후 그 관료의 후손이 100여년 간 보관해왔다고 한다. 2000년 일본 교토시 내 전 대만 총독부 고위 관계자의 저택에서 발견됐다.&lt;br&gt;&lt;br&gt;이후 국내 한 민간 탐사팀이 반환 의사를 확인하고, 유묵 귀환을 위한 협상을 벌여왔다. 이 과정에서 경기도가 지원을 했다고 한다. 이 유묵은 현재 민간 탐사팀이 모처에 보관 중이다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “현재까지 확인된 안중근 의사의 유묵은 약 60여 점인데, 이 중 31점을 우리 정부는 보물로 지정하고 있다”며 “장탄일성 선조일본 유묵은 항일정신이 직접 투영된 작품으로서 그 가치를 국보급으로 평가하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKEPKLYXWZP4RCAZJOCQXUI4OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도는 민간 탐사팀과 일본에 있는 안중근 의사의 유묵 '독립'의 귀환을 위해 소장자와 협상 중이라고 14일 밝혔다. 사진은 미귀환 유묵 '독립'./경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 안 의사가 뤼순 감옥에서 써서 간수에게 건넨 유묵 ‘독립(獨立)’도 국내로 들여오기 위해 소장자 측과 협상 중이라고도 밝혔다. 유묵은 현재 일본 교토 류코쿠대학이 일본인 간수의 후손으로부터 위탁받아 보관 중이다.&lt;br&gt;&lt;br&gt;국내에서 몇 차례 전시된 바 있으나 아직 귀환은 이뤄지지 않고 있다. 경기도와 민간 탐사팀, 광복회 경기도지부 등이 우선 구매 협약서를 확보하는 등 귀환을 위한 협상을 벌이고 있다.&lt;br&gt;&lt;br&gt;경기도는 안 의사의 고향인 황해도 해주와 가까운 DMZ지역에 가칭 ‘안중근 평화센터’를 조성할 계획이다. 이후 안중근 기념사업과 추가 유묵 발굴 수집, 전시, 관련 연구 및 포럼 등을 진행할 방침이다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “광복회 경기도지부와 협력해 유묵 귀환을 반드시 성사시키도록 노력할 것”이라며 “공공의 역사 자산이 영원히 국내로 돌아올 수 있도록 역사적 책임감을 갖고 귀환 프로젝트에 임하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XZEN7EKCC5ERNORL5FHFOMF6ZQ.png?auth=08c8b24349d308df687319b0c1b8d94e9ee1007c1338420f89e77ac49dc5a5a7&amp;smart=true&amp;width=1600&amp;height=900" type="image/png" height="900" width="1600"/>
     </item>
     <item>
       <title>“병원에 폭탄 설치”...수차례 특공대 허탕치게 한 30대 검거 </title>
@@ -941,51 +988,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 08:28:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 7월 5일 서울 서초구 서울고등검에서 내란 특검 2차 대면조사를 받은 뒤 청사를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권에서 특혜 의혹을 제기했던 윤석열 전 대통령의 변호인 단독 접견이 14일부터 금지됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 윤 전 대통령은 이날부터 별도로 마련된 공간이 아닌 일반 수용자와 같은 장소에서 변호인을 접견했다. &lt;br&gt;&lt;br&gt;교정당국과 서울구치소는 지난달 윤 전 대통령이 다시 구속된 후, 다른 수용자와의 마찰을 막기 위해 관련 지침에 따라 윤 전 대통령이 다른 수용자와 다른 공간에서 변호인을 접견할 수 있도록 했다. 전직 대통령이라는 신분도 고려했다.&lt;br&gt;&lt;br&gt;그러나 더불어민주당에서는 윤 전 대통령이 특혜를 받고 있다고 주장했다. 민주당 3대 특검 종합대응 특별위원회는 지난 1일 “윤 전 대통령이 전체 구속 기간 중 변호인 등 348명을 395시간 18분 동안 접견했다”며 “장시간 접견으로 편안한 수용 생활을 누리는 등 각종 특혜가 있었다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 정성호 법무부 장관도 국회 법제사법위원회에서 “윤 전 대통령에 대한 접견 허용 과정에서 규정 위반과 위법 행위가 있는지 면밀히 검토해 보고하겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 교정당국은 윤 전 대통령이 다른 수용자와 같은 공간에서 변호인을 접견하도록 하되, 운동과 목욕은 기존처럼 일반 수용자와 분리해 실시하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뒤차 경적에 격분해 흉기 들이민 70대 男, 처벌은...</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/7Q53RJCEKNEIJLBJHE22QEMQRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/7Q53RJCEKNEIJLBJHE22QEMQRI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 02:20:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HURIX4QLD4VSHWPKCH3YFBC2HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 뒤차가 경적을 울리자 격분해 흉기로 운전자를 위협한 남성이 징역형 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;서울동부지법 형사11단독 서보민 판사는 지난달 23일 특수협박 혐의로 기소된 A(73)씨에게 징역 6개월에 집행유예 2년을 선고한 것으로 14일 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 8일 오후 5시쯤 서울 송파구의 한 고속도로에서 차선을 변경할 때 뒤차가 경적을 울리자, 해당 차량 운전자를 흉기로 위협한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 경적에 불만을 품고 평소 자신의 차량에 보관하던 흉기를 꺼내 상대방 차량에 다가갔다. 이후 운전석 창문이 열리자 운전자의 얼굴과 목에 흉기를 들이대며 위협한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 잘못을 인정하고 있고 1973년 이후 처벌받은 전력이 없는 점 등 여러 사정을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 “김건희 여사, 18일 변호인 접견 후 2차 출석 여부 결정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/SE2BTIYGOBCC3MUHUNTPQ3CN3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/SE2BTIYGOBCC3MUHUNTPQ3CN3U/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 08:43:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JU4U7VNDWIXWFYNUTBMGYMCRZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 오전 서울 서초구 서울중앙지법에서 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사 의혹을 수사 중인 민중기 특별검사팀은 14일 “서울남부구치소에서 김 여사가 오는 18일 오전 10시 30분 변호인 접견 후 특검 사무실 출석 여부를 알려주겠다는 통보를 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 여사를 이날 오전 10시부터 4시간 14분 동안 조사한 후 광복절 연휴 이후인 18일 오전 10시에 2차 조사를 하겠다고 했는데, 김 여사 측이 이에 응할지는 당일 결정하겠다고 한 것이다.&lt;br&gt;&lt;br&gt;김 여사는 지난 12일 구속된 후 이날 서울 종로구 KT광화문 웨스트빌딩의 특검 사무실에 처음으로 출석해 조사를 받았다. 김 여사는 이날 오전 8시 40분쯤 수감 중인 서울남부구치소를 출발했다. 수갑을 차고, 수용자복 대신 구속영장 실질심사 때 입었던 검은색 투피스 정장을 입은 것으로 전해졌다. 영장 심사를 마치고 나올 때처럼 검은색 뿔테 안경을 쓰고, 머리도 한 갈래로 묶었다고 한다.&lt;br&gt;&lt;br&gt;특검은 김 여사를 상대로 부당 선거 개입 및 공천 개입 의혹에 대한 조사를 했지만 김 여사는 대부분 진술거부권을 행사했다고 한다. 특검 관계자는 “18일 2차 조사 주제는 아직 결정되지 않았고, 수사팀이 협의해 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 김건희 조사 오후 2시 10분 종료... 대부분 진술거부권 행사 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/4RQRPCA3RVEWVMCCBL3COYCKXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/4RQRPCA3RVEWVMCCBL3COYCKXA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 05:31:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCOCNUJDHHJHSIIW2CBZQ3WMSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 구속된 뒤 첫 소환 조사에 응한 김건희 여사의 조사가 시작 4시간 14분만인 14일 오후 2시 10분 종료됐다고 특검이 밝혔다. 김 여사는 이날 조사를 시작하면서 구속 이후 자신이 느낀 소회를 밝혔고, 이후 질문에는 진술거부권을 대부분 행사했다고 한다.&lt;br&gt;&lt;br&gt;특검은 이날 김 여사의 부당 선거개입 및 공천개입 의혹에 대한 질문을 준비해뒀다고 밝혔다. 특히 정치 브로커 명태균씨로부터 2021년 6월~2022년 3월 사이 받아본 2억7440만원 상당의 여론조사 58건에 대한 질문이 주를 이뤘다고 한다. 특검은 김 여사의 지시를 받은 명씨가 여론조사를 수행했고, 무상으로 제공한 뒤 김영선 전 의원의 2022년 보궐선거 단수공천을 요구했다고 본다. 특검은 “새롭게 다 다시 조사할 생각”이라며 “전체적인 혐의는 흔들리지 않지만, 내용을 더 풍부하고 자세하게 다지는 과정”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NK42OWSXLBL25PIHWPWWHLCK5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 14일 구속 후 첫 조사를 위해 서울 종로구에 마련된 민중기 특별검사팀(김건희 특검팀) 사무실로 호송차량을 타고 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 오는 18일 김 여사를 다시 불러 조사를 이어갈 계획이다. 오는 15일부터 광복절로 3일간 연휴인 점 등을 고려한 것으로 풀이된다. 다만 특검은 “18일 2차 조사에서의 주제는 아직 결정된 바가 없다”며 “특검 내 수사팀이 협의해 결정할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이봉관 서희건설 회장이 자수서를 내면서 수사가 급진전된 ‘반클리프 목걸이 재산신고 누락’ 의혹 및 ‘로봇개 수입업체 명품 수수’ 의혹에 대한 질문은 하지 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;한편, 특검은 이날 김 여사 일가의 최측근으로 지목된 김예성씨에 대한 구속영장을 청구했다. 혐의는 특정경제범죄가중처벌법상 횡령과 업무상 횡령 두가지다. 횡령 혐의를 두 갈래로 나눈 데 대해 특검은 “횡령액이 5억원이 넘을 경우 특경가법을 적용하는 것”이라며 “횡령이 여러 건 있어 액수에 따라 혐의를 달리 적용했다”고 밝혔다. 배임 혐의는 구속영장에 담기지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 ‘호우 경보’ 해제…침수·고립 등 피해 942건 접수</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/OPHRCGPXERAANJBNHFSKDZ5HGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/OPHRCGPXERAANJBNHFSKDZ5HGI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 08:12:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7DELVWRO5KSRECDWKPDUGCRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수도권에 많은 비가 내린  지난 13일 인천 서구 석남동 강남시장 인근 도로가 침수돼 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀 사이 최대 290㎜에 가까운 기록적인 폭우가 내린 인천에서 900건이 넘는 호우 피해가 발생한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;14일 인천시에 따르면 전날 오전 0시부터 이날 오후 3시까지 인천에서 모두 942건의 호우 피해가 접수된 것으로 집계됐다. &lt;br&gt;&lt;br&gt;비상 근무에 나선 인천시와 10개 군·구는 일반 침수 123건, 도로 침수 189건, 토사 유출 29건 등 434건의 피해 신고를 접수받아 안전 조치에 나섰다. &lt;br&gt;&lt;br&gt;소방 당국도 배수 작업 98건(618t), 인명 구조 28건(63명), 안전 조치 382건 등 508건을 처리했다. &lt;br&gt;&lt;br&gt;전날 산사태 경보령이 발령된 중구·부평구·계양구·서구 등지에선 198가구 271명이 한때 대피하기도 했다. &lt;br&gt;&lt;br&gt;인천 전역에 내려졌던 호우 경보는 이날 오전 9시 30분 해제됐으나, 인천시는 오후 3시 현재 계양구 용종지하차도 1곳과 하천 11곳을 포함한 15곳의 출입을 통제하고 있다. &lt;br&gt;&lt;br&gt;전날 오전 0시부터 이날 오후 3시까지 누적 강수량은 옹진군 덕적도 289.6㎜, 중구 운남동 288.5㎜, 계양구 계양동 273.5㎜, 서구 경서동 262.5㎜ 등이다. &lt;br&gt;&lt;br&gt;옹진군 덕적도는 최대 시우량 149.2㎜를 기록하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뉴진스 민지·다니엘 ‘전속계약 분쟁’ 조정 위해 법원 출석…“죄송”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/5RIA5UXORNDJNAFCI2OJRE7XG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5RIA5UXORNDJNAFCI2OJRE7XG4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 05:35:50 +0000</pubDate>
-      <content:encoded>걸그룹 뉴진스 멤버 민지와 다니엘이 소속사 어도어와의 ‘전속계약 유효 확인 소송’ 조정 기일에 직접 출석했으나 결론을 내지 못했다. 양측은 다음 달 2차 조정을 시도하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LA5EQOJZ2ZLI5MAYZ7AKQRGFNY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스 다니엘과 민지가 14일 서울 서초구 서울중앙지방법원에서 열린 어도어가 뉴진스를 상대로 제기한 전속계약 유효 확인 소송 조정기일에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사41부(재판장 정회일)는 14일 오후 2시부터 어도어가 뉴진스 멤버들을 상대로 낸 ‘전속계약 유효 확인 소송’의 비공개 조정 기일을 열었다. 이날 조정은 약 1시간 20분간 진행됐으나 결론은 나지 않았다. 양측은 오는 9월 11일 한 차례 더 만나 조정을 이어간다.&lt;br&gt;&lt;br&gt;이날 오후 1시 43분쯤 법원에 도착한 민지와 다니엘은 흰색 셔츠에 검은 긴 바지를 입은 단정한 모습이었다. 두 사람은 미소를 짓는 등 대체로 밝은 표정이었고, 팬들에게 살짝 손을 흔들기도 했다.&lt;br&gt;&lt;br&gt;취재진이 “오늘 조정 가능성에 대해 어떻게 보고 있느냐” “어도어 측과 합의를 위해 어떤 조건이 필요하다고 보고 있느냐”고 묻자, 두 사람은 “죄송합니다”라고만 답하고 법정을 향했다. 조정 기일을 마치고 나온 뒤 결과를 묻는 취재진 질문에도 “죄송합니다”라고 한 뒤 승합차를 타고 법원을 떠났다.&lt;br&gt;&lt;br&gt;앞서 재판부는 당사자인 뉴진스 멤버들에게 조정 기일에 직접 출석해달라고 요청했다. 양측 의견을 듣고 분쟁을 해결해보겠다는 취지다. 조정이 성립되면 재판상 화해와 같은 효력이 발생해 분쟁이 종결될 수 있다. 그러나 불발될 경우 오는 10월 30일 선고가 내려질 예정이다.&lt;br&gt;&lt;br&gt;앞서 어도어 측은 작년 12월 뉴진스가 일방적으로 전속계약 해지를 통보했다며 이 소송을 제기했다. 어도어 측은 “소속사는 연예 활동의 기회를 제공했고 수익도 잘 정산하는 등 신뢰 관계가 파탄 난 상황이 아니라 전속계약 해지 사유가 없다”고 주장하고 있다. &lt;br&gt;&lt;br&gt;반면 뉴진스 측은 “민희진 전 대표가 축출된 이후, 전속 계약 체결 당시 믿고 의지했던 어도어는 존재하지 않는다. 신뢰 관계가 파탄 나서 전속 계약을 유지할 수 없다”는 입장으로 맞서고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>변광용 거제시장, 트럼프에 거제 한화오션 방문 요청 이유는</title>
