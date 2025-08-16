@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>손가락으로 튕겨 끈 담배 불씨에 13억원대 공장 화재 피해… 30대 직원 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2025/08/17/BDKX4J6LJ5F4ZHKBF7H2PJ7XYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/BDKX4J6LJ5F4ZHKBF7H2PJ7XYQ/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 07:47:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGFDZKWXYZH4GVRQCHHUDZSPGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법, 지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;담배불을 제대로 끄지 않아 자신이 다니던 공장에 13억원대 화재 피해를 낸 직원들에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;16일 대구지역 법조계에 따르면, 대구지법 형사8단독 김미경 부장판사는 실화 혐의로 기소된 30대 직원 2명에게 각각 벌금 200만원을 선고했다. &lt;br&gt;&lt;br&gt;이들은 2023년 2월 9일 경북 경산의 한 공장 내 창고 옆에 있는 흡연 구역에서 함께 담배를 피웠다. 이후 담배불을 끄기 위해 손가락으로 담배꽁초를 튕겼고, 이때 떨어져 나간 불씨가 창고 옆에 쌓여 있던 종이 등 쓰레기 더미에 옮겨 붙으면서 공장 건물까지 불이 번진 것으로 조사됐다. 이들은 화재를 방지해야 할 주의의무가 있음에도 이를 게을리 한 과실로 공장 건물 387.6㎡, 커피 로스터기 3대, 석발기 1대, 포장기 등 약 13억1600만원 상당의 재산피해를 낸 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;김 부장판사는 “주의 의무 위반 정도가 가볍지 않고, 화재로 인한 손해액이 적지 않은 점, 피해자가 이들에 대해 형사적으로 최소한의 처벌을 받았으면 좋겠다는 취지로 진술한 점 등을 종합했다”고 양형의 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다세대주택에 불 질러 사상자 15명 낸 남성 구속영장</title>
+      <link>https://www.chosun.com/national/incident/2025/08/17/KXWNJNEHMBBK5N5PZZN7JYHZJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/17/KXWNJNEHMBBK5N5PZZN7JYHZJY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 05:13:04 +0000</pubDate>
+      <content:encoded>서울 동대문구 제기동의 다세대주택에 불을 질러 15명의 사상자를 낸 남성에 대해 구속영장이 청구됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 15일 오후 10시쯤 30대 남성 A씨에 대해 현주건조물방화치사상 혐의로 구속영장을 신청했고, 현재 법원에 영장이 청구된 상태라고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 밤 11시 52분쯤 제기동의 4층짜리 다세대주택 주차장에 불을 지른 혐의를 받는다. 당시 경찰이 건물 주변 CCTV를 분석한 결과 불은 폐지를 쌓아둔 리어카에서 시작됐다. A씨는 범행 직후 도주했다가 지난 14일 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;이 불로 1명이 사망했고 14명이 부상당했다. 화재가 난 다세대주택은 주차장이 필로티 구조(기둥만 두고 벽체 없이 개방된 구조)로 돼 있어 불이 급격하게 번졌고, 이 때문에 인명 피해가 커졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경기 용인 학교 배수로 공사장에서 흙더미 무너져… 근로자 2명 사상</title>
       <link>https://www.chosun.com/national/regional/2025/08/17/YGV66LG52JH65C3JVIXQZBWWAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/YGV66LG52JH65C3JVIXQZBWWAQ/</guid>
@@ -913,15 +931,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRHPTXVSCIZGTOND7OKGKFLTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'주식 차명거래 의혹'이 제기된 이춘석  의원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 주식 차명 거래 의혹이 불거진 이춘석(전북 익산갑) 무소속 의원을 14일 피의자 신분으로 소환 조사했다. 이 의원은 보좌관 차모씨 명의로 주식을 거래한 혐의를 받고 있다. 이 의원은 지난 4일 국회 본회의 도중 스마트폰의 주식 거래 앱을 만지는 장면을 찍은 사진이 보도돼 파문이 일자 더불어민주당에서 제명됐고 국회 법제사법위원장직에서도 사퇴했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 이 의원을 소환해 조사를 벌였다. 이 의원은 이날 오후 6시 45분 금융범죄수사대가 있는 마포청사로 출석했다. 경찰은 이 의원에게 보좌관 차씨 명의로 주식 차명거래를 한 것이 맞는지 등을 캐물은 것으로 전해졌다. 경찰은 이 의원과 보좌관 차씨를 자본시장법 위반과 금융실명법 위반 등 혐의로 입건했다. 현재 두 사람은 출국 금지 상태로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 이날도 “보좌관 휴대전화를 잘못 가져갔고, 차명 거래를 한 적은 없다”고 진술한 것으로 전해졌다. 경찰은 앞서 지난 11일 차씨와 의원실 관계자 등 8명을 불러 조사했다. 차씨는 지난 11일에 이어 다음 날까지 이어진 두 차례 조사에서도 같은 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 법조계에선 “이 의원이 차명 거래를 하는 장면이 실시간으로 언론을 통해 포착된 만큼 경찰이 수사에 더욱 속도를 낼 것”이란 관측이 나오고 있다. 인터넷 매체 더팩트 기사에는 이 의원이 지난 4일 국회 본회의장에서 고개를 숙인 채 테이블 밑에서 휴대전화 앱으로 주식 거래를 하는 사진 넉 장이 연속해서 실렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>사별 후 20년 홀로 산 80대 노인…HIV 감염 미스터리</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 07 Aug 2025 00:30:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C45YADW2BVOPZFJ25J7IC7HWP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HIV 검사 키트./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에서 80대가 ‘인간면역결핍바이러스(HIV)’ 감염 판정을 받아 의학계의 주목을 받고 있다. 전 세계적으로 80세 이후 HIV 진단 사례가 많지 않은 데다, 이 노인은 배우자와 사별 후 20년간 성적 접촉이 없었다고 한다.&lt;br&gt;&lt;br&gt;국민건강보험공단 일산병원 의료진은 7일 국제학술지 ‘임상 사례 보고’(Clinical case reports) 최신호 논문을 통해 지난해 림프종에 따른 항암제 치료를 위해 시행한 혈액검사에서 HIV 양성으로 최종 진단된 A(85)씨의 사례를 보고했다.&lt;br&gt;&lt;br&gt;HIV는 후천성면역결핍증후군(AIDS·에이즈)을 일으키는 바이러스다. HIV 바이러스 감염자가 면역 결핍이 심해져 합병증이 생기면 에이즈 환자가 된다. 국내 HIV 감염인은 20∼40대가 80% 이상을 차지할 정도로 젊은 층에 집중돼 있다.&lt;br&gt;&lt;br&gt;보고에 따르면 A씨의 HIV 감염 경로는 그야말로 미스터리다. &lt;br&gt;&lt;br&gt;A씨는 20여 년 전 배우자가 심장 질환으로 사망한 후 줄곧 홀로 살아왔다. 이후 성관계는 없었다고 한다.&lt;br&gt;&lt;br&gt;배우자는 심장 질환으로 대학 병원에 입원해 있는 동안 여러 차례 시술과 검사를 받았던 터라, HIV 감염 가능성은 작았다는 게 가족의 주장이다.&lt;br&gt;&lt;br&gt;더욱이 A씨는 림프종 진단을 받기 전까지 HIV 수술이나 입원은 물론 수혈, 주사 약물 사용, 침술, 문신 등의 경험도 없었던 것으로 알려졌다. 감염 경로가 될 수 있는 상황에 노출된 일이 없다는 얘기다.&lt;br&gt;&lt;br&gt;따로 사는 두 아들도 모두 HIV 음성으로 판정됐다. &lt;br&gt;&lt;br&gt;의료진은 수년 전에 HIV 감염이 이뤄졌을 것으로 추정했다. A씨의 혈액 내 면역세포(CD4) 수가 많고, 바이러스 농도가 높은 점이 그 이유였다.&lt;br&gt;&lt;br&gt;이에 의료진은 A씨의 감염 경로보다 고령자에 대한 HIV 진단이 부재한 현실에 주목해야 한다고 지적했다.&lt;br&gt;&lt;br&gt;의료진은 논문에서 “고령자의 성생활을 배제하거나 HIV를 노인의 질환으로 보지 않는 편견이 진단 지연의 큰 요인이 될 수 있다”며 “사회적 고립과 낮은 건강 정보 이해력도 진단이 늦어지는 데 복합적으로 작용한 것으로 보인다”고 분석했다.&lt;br&gt;&lt;br&gt;현재 대부분의 HIV 검사는 13∼64세 사이의 연령을 중심으로 권장되고 있으며, 노인을 대상으로 한 선별검사 지침이나 80세 이상 감염자 통계는 사실상 없는 상황이다.&lt;br&gt;&lt;br&gt;전문가들은 이번 사례를 통해 고령자에게서도 임상 상황에 따라 HIV 검사가 반드시 고려돼야 하며, 특히 사회적 취약성이 중첩된 노인의 경우 선제적인 검진이 필요하다고 짚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>1만3500원짜리 배달죽 알고보니... 2000원짜리 즉석식품? </title>
       <link>https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 09:58:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNPD55BA6NASBPBWXTZZC3FOV4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이지훈. /이지훈 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40대 배우가 자택에서 아내를 폭행했다는 신고가 접수돼 경찰이 출동한 사실이 뒤늦게 알려진 가운데, 이 사건 당사자가 1000만 관객을 동원한 영화 ‘범죄도시’에서 마동석 후배 형사 역으로 출연한 배우 이지훈(46)인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이지훈 소속사 와이원엔터테인먼트는 14일 “금일 보도된 ’40대 배우 A씨’는 당사 소속 배우 이지훈씨가 맞는다”고 했다. &lt;br&gt;&lt;br&gt;이어 “부부 간 말다툼 중 배우자의 신고로 경찰이 출동했으나, 현장 진술과 확인 결과 중대한 사안은 아니라고 판단됐다”며 “폭행 사실은 없으며, 배우자께서도 처벌 의사가 없음을 명확히 밝혀 현재 사건은 종결 절차를 밟고 있다”고 했다. &lt;br&gt;&lt;br&gt;끝으로 “이번 일로 인해 대중 여러분께 심려를 끼쳐 드린 점 깊이 사과드리며, 이지훈 씨와 배우자 두 분 모두 반성하는 마음을 갖고 있다”고 했다. &lt;br&gt;&lt;br&gt;앞서 이날 경찰에 따르면, 지난달 24일 오후 경기 부천시 자택에서 40대 배우 A씨가 아내 B씨를 폭행했다는 112 신고가 들어왔다. A씨는 당시 말다툼 끝에 집을 나가려 했고, 이를 막아선 B씨와 몸싸움이 벌어진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 폭행 혐의로 A씨를 조사했으나, B씨가 처벌을 원치 않아 형사 사건이 아닌 가정폭력 사건으로 분류했다. &lt;br&gt;&lt;br&gt;이 사건이 뒤늦게 알려졌을 당시 A씨의 구체적인 정보는 알려지지 않았으며, 1000만 관객을 동원한 국내 영화에 조연으로 출연한 이력이 있다고만 소개됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘개발 특혜로 억대 뇌물’...전 경기 광주시 국장 1심서 징역 6년</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/PTPCGGZRI5DBXPZW3VE4MWOLGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/PTPCGGZRI5DBXPZW3VE4MWOLGI/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 09:50:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M45TNG3HAZ5LST3KHM3VROOEDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 성남지원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광주시 쌍령공원 개발사업을 담당하던 전 국장급 공무원이 업체에 특혜를 주고 억대 뇌물을 받은 혐의로 1심서 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 성남지원 형사1부(재판장 허용구)는 14일 특정범죄가중처벌법 위반(뇌물) 등 혐의로 구속기소 된 60대 A씨에게 징역 6년에 벌금 2억원을 선고했다. &lt;br&gt;&lt;br&gt;또 A씨에게 금품 등 뇌물을 준 혐의로 같이 기소된 건설업체 대표 B씨에게 징역 3년에 집행유예 5년을 선고하고, 동업자 C씨에게 징역 2년에 집행유예 4년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 2021년 3~9월 광주 쌍령공원 개발 사업 주무국장(4급 서기관)으로 재직하던 중 사업 우선협상대상자 선정 과정에서 편의를 제공하는 대가로 두 차례에 걸쳐 B씨 등으로부터 모두 1억9500만원의 현금을 받은 혐의다.&lt;br&gt;&lt;br&gt;또 퇴직 후인 2023년 2월 B씨가 운영하는 회사에서 월 급여 500만원을 받는 조건으로 취업해 돈을 받은 혐의(사후수뢰)도 있다.&lt;br&gt;&lt;br&gt;B씨의 업체는 실제로 쌍령공원 개발사업자로 선정됐고 이후 지역에선 광주시가 이 업체에 특혜를 제공했다는 의혹이 불거졌었다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 직무와 관련해 뇌물을 받아 위법하게 직무 수행해 편의를 제공했다”며 “공무원의 청렴성과 시민에 대한 신뢰를 훼손하는 행위로 비난 가능성이 매우 크다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 범행을 모두 인정하고 반성하고 있다”며 “35년간 공무원으로 근무하면서 여러 차례 표창을 받은 점, 가족과 지인들이 탄원하는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 “다시 내 남편과 살 수 있을까”</title>
