@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 용인 학교 배수로 공사장에서 흙더미 무너져… 근로자 2명 사상</title>
+      <link>https://www.chosun.com/national/regional/2025/08/17/YGV66LG52JH65C3JVIXQZBWWAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/17/YGV66LG52JH65C3JVIXQZBWWAQ/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 05:07:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWWF6GSH3NUKU7OGQ6PO7SJZQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차 응급 긴급출동./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 용인시 한 중학교 배수로 개선 공사 현장에 쌓아둔 흙이 무너지면서 사상자 2명이 발생했다. &lt;br&gt;&lt;br&gt;16일 경기소방본부와 경찰 등에 따르면, 이날 오전 9시 58분쯤 경기도 용인시 처인구의 한 중학교 배수로 개선 공사 현장 인근에서 흙이 무너져 내리면서 근로자 2명을 덮쳤다. 이 사고로 50대 A씨가 심정지 상태로 병원으로 이송됐으나 숨졌다. 인근에서 작업하던 60대 B씨는 다리 등을 다쳤으나 생명에는 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;경찰은 배수로를 묻기 위한 작업 중 현장 인근에 쌓아 둔 흙이 근로자들 위로 쏟아지면서 사고가 난 것으로 보고, 정확한 사고 경위와 과실 여부 등에 대해 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘광주 학동 참사’ 책임자 전원 유죄 확정...사고 4년 2개월 만</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/15/GKSTHG24PRFX3BV7TOV32DQDU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/GKSTHG24PRFX3BV7TOV32DQDU4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 02:38:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQEMOCN4WZEOVIY2GIPFOAN5VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2021년 광주광역시 동구에서 벌어진 '학동 건물 붕괴 참사' 현장의 모습 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2021년 광주광역시 재개발 사업지에서 철거 중이던 건물이 무너지면서 17명의 사상자를 낸 ‘광주 학동 참사’ 현장 책임자들에게 전원 유죄가 확정됐다. 사고 발생 4년 2개월 만이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 14일 업무상과실치사상 등 혐의로 기소된 하도급·재하도급 업체 관계자 7명의 상고심 선고를 열고 최대 징역 2년 6개월을 선고한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;사고 당시 굴착기로 건물을 철거했던 재하도급 업체 대표 조모씨는 징역 2년 6개월, 하도급업체 현장 책임자 강모씨는 징역 2년이 확정됐다. 재개발 시공사인 HDC현대산업개발에 대해선 산업안전보건법 위반 혐의로 원심의 벌금 2000만원이 유지됐다. 이 회사 소속 현장소장과 안전부장·공무부장 등 직원 3명은 집행유예를 확정 받았다.&lt;br&gt;&lt;br&gt;광주 학동 참사는 2021년 6월 9일 광주 동구 학동4구역 재개발 사업지에서 철거 중이던 지상 5층 건물이 도로 쪽으로 무너지면서, 정차 중이던 시내버스를 덮쳐 9명이 숨지고 8명이 다친 사고다. 검찰은 사고 위험이 높은 상황에서 안전 조치를 하지 않은 채 무리하게 해체 공사를 한 결과라며 책임자들과 법인을 기소했다.&lt;br&gt;&lt;br&gt;지난 2월 광주고등법원 2심 재판부는 이들에게 전원 유죄를 선고하면서 “건설업계 전반에 안전의 가치를 소홀히 한 채 시간과 인건비를 감축하려는 문화가 만연해있다”며 “산업 재해를 예방하기 위한 갖가지 절차들이 법령에 충분히 마련되어 있는데도 여전히 현장관계자들이 안전한 길보다 빠른 길을 선택해 사고가 발생했다”고 지적했다.&lt;br&gt;&lt;br&gt;대법원은 이날 2심 판결을 확정하면서, 도급인(원청)은 하도급업체 근로자에 대해서도 안전·보건조치를 해야 한다고 처음으로 판시했다. 대법원은 “산업안전보건법상 ‘사업주’가 해야 할 안전·보건조치는 원칙적으로 ‘도급인(원청)’의 안전·보건조치에 관해서도 적용된다”고 했다. 다만 도급인 책임 영역에 속하지 않는 ‘보호구 착용 지시’ 등 근로자 작업 행동에 관한 조치는 제외된다고 덧붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>내란특검, ‘비화폰 기록 삭제 의혹’ 박종준 소환</title>
       <link>https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</guid>
@@ -941,26 +959,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 09:41:45 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US4WUDB7T6CITWKHCRXCL45NUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 6일 서울 종로구 KT광화문 웨스트에 마련된 민중기 특별검사팀 사무실에서 피의자 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 김건희 여사가 구속 후 첫 특검 조사를 받은 14일 “내가 다시 내 남편(윤 전 대통령)과 살 수 있을까. 다시 우리가 만날 수 있을까”라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 김 여사가 특검 조사 중간 휴식 시간에 이같이 말했다고 밝혔다.&lt;br&gt;&lt;br&gt;김 여사는 도이치모터스 주가 조작(자본시장법 위반), 명태균씨 관련 공천 개입(정치자금법 위반), ‘건진 법사’ 전성배씨를 통한 통일교의 청탁 의혹(알선수재) 혐의로 지난 12일 구속됐다. 윤 전 대통령이 ‘12·3 비상계엄’ 사태와 관련한 직권남용 혐의로 지난달 10일 다시 구속된 지 한 달여 만이었다.&lt;br&gt;&lt;br&gt;김건희 특검은 김 여사 구속 이틀 만인 이날 김 여사를 상대로 공천 개입 의혹을 추가로 조사했다. 변호인단은 김 여사가 이날 조사에서 “명씨에게 (공천 및 여론조사 관련) 지시를 하지 않았다”고 답했다고 전했다. 또한 김 여사가 건강 상태가 좋지 않아 다음 주 대면 진료를 받을 예정이라고 했다. &lt;br&gt;&lt;br&gt;특검은 이날 김 여사를 이날 오전 10시부터 4시간 14분 동안 조사했다. 김 여사는 대부분의 질문에 진술거부권을 행사했다고 한다.&lt;br&gt;&lt;br&gt;특검은 광복절 연휴 이후인 18일 오전 10시에 2차 조사를 하겠다고 했는데, 김 여사 측은 당일 오전 변호인 접견 후 2차 조사에 응할지 결정하겠다고 했다. 특검 관계자는 “18일 2차 조사 주제는 아직 결정되지 않았고, 수사팀이 협의해 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 12일 구속된 후 이날 서울 종로구 KT광화문 웨스트빌딩의 특검 사무실에 처음으로 출석해 조사를 받았다. 김 여사는 이날 오전 8시 40분쯤 수감 중인 서울남부구치소를 출발했다. 수갑을 차고, 수용자복 대신 구속영장 실질심사 때 입었던 검은색 투피스 정장을 입은 것으로 전해졌다. 영장 심사를 마치고 나올 때처럼 검은색 뿔테 안경을 쓰고, 머리도 한 갈래로 묶었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술자리 다툼 끝 룸메이트 숨지게 한 60대 ‘징역 2년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/POIDH6ZFUZBDNKFI6HZGIDTMIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/POIDH6ZFUZBDNKFI6HZGIDTMIE/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>술자리에서 다툼을 벌이다 룸메이트를 넘어뜨려 숨지게 한 60대가 징역형을 선고받았다.
-춘천지법 형사2부(재판장 김성래)는 폭행치사 혐의로 기소된 60대 A씨에게 징역 2년을 선고했다고 14일 밝혔다.
-</description>
-      <pubDate>Thu, 14 Aug 2025 07:38:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Y6DCFDOZYUQ5JJEUIE2L4RO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술자리에서 다툼을 벌이다 룸메이트를 넘어뜨려 숨지게 한 60대가 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 폭행치사 혐의로 기소된 60대 A씨에게 징역 2년을 선고했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3월 20일 오전 3시 45분쯤 강원 홍천군 한 리조트 직원 기숙사에서 룸메이트 B씨와 술을 마시다 몸싸움을 벌이던 중 B씨를 넘어뜨려 숨지게 한 혐의를 받고 있다. 이 둘은 해당 리조트에서 청소 용역업체 직원으로 근무하며 기숙사에서 함께 지내고 있었다.&lt;br&gt;&lt;br&gt;A씨는 범행 뒤 신고해 자수했으며, 조사 과정에서 “B씨가 술병으로 때려 대항하는 과정에서 사고가 났다”고 진술했다. 경찰관이 출동했을 때 A씨 머리에는 유리 파편이 박혀 있었다.&lt;br&gt;&lt;br&gt;B씨는 심정지 상태로 병원으로 옮겨졌으나 2시간 만에 숨졌다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 “소주병으로 가격당해 방어 과정에서 일어난 일이며 불안한 상황에서 일격을 당하다 보니 다소 지나치게 방어했을 뿐”이라며 정당방위를 주장했다. 재판부는 A씨가 B씨를 넘어뜨리고 위에서 제압한 행위는 방어로 볼 수 있다고 인정했으나, 의식을 잃을 때까지 목을 누른 점 등을 이유로 과잉방어로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “범행 직후 피고인이 지인과 통화한 내용 등을 보면 공포감을 느끼거나 흥분한 상태였다고는 보기 어렵다”면서 “범행 경위에 참작할 사정이 있어 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이종호 아내, 삼부토건 관계사 주식 거래로 2000만원 차익</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/ITLK5FNQF5CNHMQEZ3HX3G7A4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/ITLK5FNQF5CNHMQEZ3HX3G7A4I/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 08:39:33 +0000</pubDate>
-      <content:encoded>순직 해병 특검이 최근 김건희(구속) 여사와 친분이 있는 이종호(구속) 전 블랙펄인베스트 대표가 자기 아내 명의의 계좌로 지난 2023년 삼부토건 관계사인 ‘웰바이오텍’ 주식을 거래해 하루 만에 2000만 여원의 차익을 본 정황을 포착한 것으로 14일 전해졌다. 삼부토건은 이 전 대표가 김 여사를 고리로 주가조작을 벌였을 것이라는 의혹이 제기된 업체다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBMSSNSSYTC6IH3S4HS7XF6SGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 해병 특검은 전날 이 전 대표 지인 A씨를 불러 조사하면서 이 같은 진술을 확보했다. A씨는 이 전 대표에게 아내 명의 주식 계좌를 받아 운용해 수익을 내고, 보고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월 이 전 대표 아내 명의의 주식 계좌로 웰바이오텍 주식을 거래해 2000만 여원의 수익을 올렸다고 한다. 해당 주식 거래는 하루 만에 사고파는 이른바 ‘단타’ 형식으로 이뤄졌다고 한다. 해병 특검은 지난달 압수한 이 전 대표의 휴대전화에서 A씨와의 연락 내역을 확인해 조사에 나섰다고 한다.&lt;br&gt;&lt;br&gt;웰바이오텍은 2023년 5월 삼부토건 주가 급등의 발단의 된 우크라이나 재건 포럼에 참여해 삼부토건과 함께 ‘우크라이나 재건주’로 묶였다. 웰바이오텍의 최대 주주가 이일준 삼부토건 회장이기도 하다. 이와 관련해 삼부토건이 우크라이나 재건 사업을 추진할 것처럼 속여 인위적으로 주가를 부양했고 이 과정에 김건희 여사가 관련돼 있다는 의혹은 ‘김건희 특검’이 수사 중이다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 특검에 “당시 웰바이오텍 주식 거래는 이 전 대표나 김 여사 등과 전혀 관련이 없고, 주식 차트를 보고 자체적으로 판단한 것”이라고 진술한 것으로 전해졌다. A씨가 거래한 주식 중에 삼부토건은 없었다고 한다. 이 전 대표 측은 “해병 특검 수사와 무관한 별건 수사”라는 입장이다.&lt;br&gt;&lt;br&gt;이종호 전 대표는 삼부토건 주가가 오르기 직전인 2023년 5월 14일, 주변에 ‘삼부 내일 체크하고’란 메시지를 보낸 사실이 알려져 김건희 특검 수사 대상에 올라와 있다. 그런데 그와 관련된 정황이 해병 특검에 포착된 것이다. 해병 특검은 김건희 특검의 요청이 있을 경우 자료 이첩 등을 검토하겠다는 입장이다.&lt;br&gt;&lt;br&gt;한편, 이 전 대표는 고(故) 채수근 상병의 부대장이던 임성근 전 해병대 1사단장이 당초 과실치사 혐의자에 포함됐다가 추후 제외되는 과정에 개입했다는 ‘구명 로비’ 의혹과 관련해 해병 특검의 수사를 받고 있다. 이 전 대표는 ‘도이치모터스 주가조작 사건’ 때 김 여사와 친분을 쌓은 것으로 알려져 있다. 이를 바탕으로 대통령실 등에 임 전 사단장에 대한 구명 로비를 펼친 게 아니냐는 의심을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>與 “윤, 수감생활 특혜” 주장에... 법무부, 서울구치소장 교체 </title>
