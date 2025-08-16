@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주차장 입구에 누워있던 취객 차에 치여 참변… 60대 운전자 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/CFBPZQ4G5VD4JCCWQS55AAEZEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/CFBPZQ4G5VD4JCCWQS55AAEZEQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 16 Aug 2025 21:36:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COMP3MJF3NGBPFP4SN2PQGZOMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 길에 누워있던 취객을 치고 현장을 떠난 혐의를 받는 60대 남성이 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;17일 뉴시스에 따르면 서울 마포경찰서는 특정범죄가중법(도주치사) 혐의로 60대 남성 A씨를 긴급체포해 조사하고 있다.&lt;br&gt;&lt;br&gt;A씨는 전날 오전 1시쯤 서울 마포구 한 아파트 주차장 입구에 누워있던 70대 취객 B씨를 차로 밟고 지나간 뒤 구호 조치 없이 도주한 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨는 인근 병원으로 옮겨졌지만 끝내 사망했다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라를 통해 A씨가 스포츠유틸리티차(SUV)를 운전하면서 B씨를 밟고 지나간 뒤 아무런 조치 없이 주차장으로 향한 것을 확인했다.&lt;br&gt;&lt;br&gt;A씨는 주거지에서 경찰에 긴급체포됐다. 검사 결과 A씨에게 음주나 약물 정황은 발견되지 않았다. 그는 경찰에 사고를 낸 사실을 인지하지 못했다는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨 차량의 블랙박스를 확보해 사고 경위를 파악할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대한 독립 위해 모국 등졌다... 기억해야 할 ‘4명의 일본인’</title>
       <link>https://www.chosun.com/national/2025/08/17/HQMLRXSNBZBETCIQS73WQQ4I3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/17/HQMLRXSNBZBETCIQS73WQQ4I3U/</guid>
@@ -992,15 +1001,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/5AVX2NV3CRBTJDTXJGIUPZ4VVQ.jpg?auth=cc2e2e492f608705f33700fee5889d0a15a1148ebb1585832c141418f9372f0d&amp;smart=true&amp;width=640&amp;height=724" type="image/jpeg" height="724" width="640">
         <media:description type="plain">배달 전문 죽집 내부 모습이라고 온라인 커뮤니티에 올라온 사진. 시중에 판매되는 즉석 죽 제품이 선반에 놓여 있다./온라인 커뮤니티</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>민주당이 특혜로 몰자... 尹, 변호인 단독 접견 금지돼</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/UJSB3IIAARAOLLHMG3WZQ4VPTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/UJSB3IIAARAOLLHMG3WZQ4VPTU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 08:28:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 7월 5일 서울 서초구 서울고등검에서 내란 특검 2차 대면조사를 받은 뒤 청사를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여권에서 특혜 의혹을 제기했던 윤석열 전 대통령의 변호인 단독 접견이 14일부터 금지됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 윤 전 대통령은 이날부터 별도로 마련된 공간이 아닌 일반 수용자와 같은 장소에서 변호인을 접견했다. &lt;br&gt;&lt;br&gt;교정당국과 서울구치소는 지난달 윤 전 대통령이 다시 구속된 후, 다른 수용자와의 마찰을 막기 위해 관련 지침에 따라 윤 전 대통령이 다른 수용자와 다른 공간에서 변호인을 접견할 수 있도록 했다. 전직 대통령이라는 신분도 고려했다.&lt;br&gt;&lt;br&gt;그러나 더불어민주당에서는 윤 전 대통령이 특혜를 받고 있다고 주장했다. 민주당 3대 특검 종합대응 특별위원회는 지난 1일 “윤 전 대통령이 전체 구속 기간 중 변호인 등 348명을 395시간 18분 동안 접견했다”며 “장시간 접견으로 편안한 수용 생활을 누리는 등 각종 특혜가 있었다”고 했다.&lt;br&gt;&lt;br&gt;같은 날 정성호 법무부 장관도 국회 법제사법위원회에서 “윤 전 대통령에 대한 접견 허용 과정에서 규정 위반과 위법 행위가 있는지 면밀히 검토해 보고하겠다”고 했다.&lt;br&gt;&lt;br&gt;이에 교정당국은 윤 전 대통령이 다른 수용자와 같은 공간에서 변호인을 접견하도록 하되, 운동과 목욕은 기존처럼 일반 수용자와 분리해 실시하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“미쳤나” 내한 앞둔 오아시스 SNS 영상에 韓 팬들 발칵…무슨 일?</title>
