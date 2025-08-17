@@ -6,6 +6,33 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 인사 청탁해 감봉 3개월 … 국정원 직원 징계 취소</title>
+			<description>&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;정치인과 기업인을 통해 자신과 후배의 승진을 청탁했다는 사유로 감봉 3개월의 징계 처분을 받은 국가정보원 직원이 징계 취소소송을 내 1심에서 승소했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울행정법원 행정14부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9984"&gt;이상덕&amp;nbsp;&lt;/span&gt;부장판사)는 6월 5일 국정원 직원 A 씨가 국정원장을 상대로 낸 징계취소 소송에서 "국정원이 2023년 12월 A 씨에 대해 한 감봉 3개월 처분을 취소한다"며 원고 승소 판결했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 1991년 국정원의 전신인 국가안전기획부 직원으로 임명된 뒤 2021년 특정직 3급으로 승진했다. 국정원장은 2023년 12월 27일 A 씨가 부정한 인사 청탁을 했다는 이유로 감봉 3월의 징계처분을 내렸다. A 씨가 △전직 시의원 B 씨를 통해 전임 국정원장에게 본인의 승진을 부정 청탁하고 △전직 기업 부사장 C 씨에게 동향 후배의 승진을 알선·청탁했다는 게 징계 사유였다. A 씨는 징계 처분에 불복해 소송을 냈다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[서울행정법원 판결]&lt;/b&gt;&lt;br /&gt;재판부는 A 씨 측의 주장을 받아들였다. 국정원 측이 제시한 증거들만으로는 A 씨 인사 청탁 유무에 대해 '고도의 개연성'이 증명됐다고 보기 어렵다는 취지다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 A 씨가 전직 시의원을 통해 승진 청탁을 했다는 징계 사유에 대해 "비위행위 일시 내용조차 특정하지 못하고 막연히 전 원장 비서실장이 작성한 문건기재 내용을 주된 근거로 징계했고, 징계사유를 인정할 객관적 증거가 존재하지 않는다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전직 기업 부사장에 대해 후배 직원의 승진을 알선·청탁했다는 사유에 대해서는 "A 씨는 C 씨의 청탁 제의를 거절했다고 주장했고, 후배를 언급한 것은 부정청탁 권유를 완곡하게 거절하거나 단순히 후배를 잘 챙겨달라는 막연한 당부일 수 있다"고 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러면서 "국정원 측이 제시한 징계 근거들은 모두 징계사유를 뒷받침하기에 부족한 간접적인 정황에 불과하며 전임 국정원장, B 씨, C 씨 등에 관한 구체적인 조사나 사실확인 없이 문건 일부 기재, 진술조사, 휴대전화 포렌식, 거짓말탐지기 검사 결과만으로 징계처분 한 것은 타당하다고 보기 어렵다"며 "징계사유에 대한 증명이 부족하므로 징계처분은 위법하다"고 판단했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Aug 2025 00:05:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210561</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210561</guid>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] "제자 성희롱한 서울대 교수 해임은 정당"</title>
+			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;학생을 성희롱하고 연구 윤리를 위반했다는 의혹으로 교수직에서 해임된 서울대 교수가 해임처분 취소 청구를 기각한 교원소청심사위원회의 처분에 불복해 행정소송을 냈으나 대법원에서 패소가 확정됐다.&lt;p&gt;   &lt;br /&gt;대법원 특별3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 A 교수가 교원소청심사위를 상대로 낸 해임처분취소청구기각결정취소 소송(&lt;b&gt;2025두31809&lt;/b&gt;)에서 7월 17일 A 교수 측의 상고를 기각하고 원고 패소 판결한 원심을 확정했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 교수는 2011년 9월부터 2019년 8월까지 서울대 서어서문학과 교수로 재직했다. 서울대 인권센터는 2018년 7월 A 교수의 성희롱·성폭력 의혹 신고를 받고 조사를 진행한 뒤 같은해 12월 심의위원회의 심의결과를 바탕으로 'A 교수의 언행이 인권침해 및 성희롱, 성폭력에 해당한다'며 서울대 총장에게 A 교수에 대한 최소 정직 3개월의 중징계를 요청했다. 이에 서울대 총장은 2019년 1월 교원징계위원회에 A 교수에 대한 징계의결을 요구했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;B 씨는 2019년 2월 학교에 대자보를 게시해 A 교수와 2015~2017년 외국 학회에 동행했을 때 성추행을 당했다고 주장했다. A 교수는 또 2016년 2월 대학원생들에게 메일을 보내 '내가 C 교수를 어떻게 생각하는지 잘 알테니 내 면전에서 C 교수한테 깍듯이 인사하고 아부하는 언행은 삼가주기 바란다' 'C 교수가 딴지를 걸 때 잘 방어를 하라'고 요구한 것으로 드러났다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이후 A 교수가 5편의 논문에 대해 부당 중복게재, 부당 공저자 표시 및 인용 부정확 등 연구부적절 행위를 하는 등 연구윤리를 위반했다는 의혹이 불거졌고, 서울대 총장은 2019년 8월 교원징계위원회에 추가 징계의결을 요구했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;서울대 교원징계위원회는 A 교수의 행위가 국가공무원법상 성실의무 위반 및 품위유지의무 위반에 해당한다고 판단하고 해임을 의결했다. 이에 서울대 총장은 2019년 8월 29일 A 교수에 대해 해임을 통지했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 교수는 해임 처분에 불복해 교원소청심사위원회에 해임처분 취소를 구하는 소청심사를 청구했으나 2020년 4월 기각됐다. 이에 행정소송을 냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A 교수의 청구를 받아들여 원고 승소 판결했다. A 교수가 해임처분을 받게 된 데는 형사 기소까지 된 B 씨 성희롱 의혹이 가장 주된 사유가 됐는데, 해당 사건 재판에서 무죄를 선고받은 점 등을 고려하면 고의에 의한 성희롱 또는 성추행이라고 보기 어렵다는 판단이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;1심은 "인권센터의 조사 과정에서 피해자 측이 위법한 방법으로 수집한 증거가 제출됐고, 실제 이 사건 징계에까지 이른 경위에 학과의 내부 알력 등 석연치 않은 정황도 있는 점, 인권센터에서도 A 교수에 대해 당초 정직 3개월 이상을 요청했는데 곧바로 가장 무거운 중징계인 해임 처분이 내려진 것은 이례적"이라며 "A 교수에게 그동안 아무런 징계 전력이 없는 점 등을 종합하면 나머지 징계사유만으로는 해임처분이 당연히 그대로 유지될 수 있으리라고 보기 어렵다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;하지만 항소심은 달랐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심은 해임처분이 사회통념상 현저하게 타당성을 잃어 재량권을 남용한 것이라고 인정하기에 부족하고, 해임처분의 징계사유 중 일부를 인정할 수 없지만 나머지 징계사유만으로도 처분의 타당성을 인정하기에는 충분하다는 취지다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심은 "A 교수가 젊은 여성인 피해자에게 성적 수치심을 유발하는 언행과 신체적 접촉을 했고, 학생인 피해자의 사생활에 과도하게 간섭함으로써 교원으로서의 품위를 크게 손상시켰다"며 "교수라는 우월적 지위를 이용해 학생들에게 부당한 질책이나 의무 없는 일을 강요하는 한편, 전문적인 번역 작업을 의뢰한 다음 부당하게 낮은 금액의 보수만 받을 수 있도록 조치하고, '자기표절'에 해당하는 연구부정행위를 했다"며 해임처분 취소 청구를 기각한 소청심사위원회 처분은 위법하지 않다고 판단했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원도 항소심 판단에 문제가 없다고 보고 A 교수 측의 상고를 기각했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[관련 민·형사 재판 결과]&lt;/b&gt;&lt;br /&gt;한편 A 교수는 강제추행 혐의로 2020년 불구속 기소됐으나 국민참여재판으로 진행된 1심에서 무죄를 선고받았고 항소심을 거쳐 대법원에서 무죄가 확정됐다. 관련 민사소송에서도 1심과 항소심 모두 A 교수가 B 씨에게 손해를 배상할 필요가 없다고 판결했다.&lt;/p&gt;</description>
+			<pubDate>Sun, 17 Aug 2025 00:05:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210553</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210553</guid>
+			<dc:creator>홍윤지 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 8월 17일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 장준하 선생 묘소 참배 및 추도식(파주시 장준하공원)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;15:00 백선희 의원실 등, (조국혁신당) 검찰개혁 콘서트 in 경기(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 16 Aug 2025 22:36:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210567</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210567</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 8월 18~22일</title>
 			<description>&lt;b&gt;△18일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 14차 공판(오전 10시 15분)&lt;br /&gt;-서울고법, '부정청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의' 가짜 수산업자 금품 수수 의혹 이모 씨 외 5명 2차 공판(오후 2시)&lt;br /&gt;-서울남부지법, '위계공무집행방해 등 혐의' 가거도 방파제 비리 고모 씨 외 7명 공판(오후 2시)&lt;br /&gt;-법무법인 화우, 제9회 화우 게임 대담회(오후 3시, 서울 강남구 삼성동 법무법인 화우 34층)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△19일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(뇌물) 등 혐의' 정진상 전 더불어민주당 정무조정실장 80차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특수공무집행방해 등 혐의' 윤석열 전 대통령 1차 공판준비기일(오전 11시)&lt;br /&gt;-서울남부지법, '자본시장과 금융투자업에 관한 법률 위반 등 혐의' 로펌 직원 미공개 정보 이용 의혹 가모 씨 공판(오전 11시)&lt;br /&gt;-서울남부지법, '살인미수 등 혐의' 지하철 5호선 방화 원모 씨 공판(오전 11시20분)&lt;br /&gt;-서울남부지법, '특정경제범죄 가중처벌 등에 관한 법률 위반(배임) 등 혐의' 김우동 전 조광ILI 대표 공판(오후 2시20분)&lt;br /&gt;-헌법재판소, 조지호 경찰청장 탄핵심판(2024헌나7) 3차 변론준비기일(오후 3시)&lt;br /&gt;-서울고법, '정당법 위반 혐의' 민주당 돈봉투 사건 윤관석 전 의원 외 2명 6차 공판(오후 3시)&lt;br /&gt;-법무법인 바른, '스테이블코인 글로벌 규제 동향' 세미나(오후 3시, 서울 강남구 대치동 섬유센터빌딩 2층 컨퍼런스홀)&lt;br /&gt;-법무법인 세종, '글로벌 기업 법무 시리즈 : 국제중재 최근 동향' 세미나(오후 3시, 서울 중구 청진동 디타워 D2 세종 23층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△20일(수)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 조지호 경찰청장 외 3명 19차 공판(오전 10시)&lt;br /&gt;-서울고법, '직권남용권리행사방해 등 혐의' 양승태 전 대법원장 외 2명 6차 공판(오후 2시)&lt;br /&gt;-서울남부지법, '사기 등 혐의' 피카코인 사건 성모 씨 외 4명 공판(오후 2시)&lt;br /&gt;-법무법인 지평, ‘기술 경영의 시대와 법률서비스의 미래’ 지평기술센터 출범 기념 세미나(오후 3시, 서울 중구 회현동 지평 본사 그랜드센트럴 B동 3층 오디토리움)&lt;br /&gt;-법무법인 화우, 한국판유리창호협회 MOU 체결(오후 3시, 서울 강남구 삼성동 법무법인 화우 34층)&lt;br /&gt;-서울고법, '정당법 위반 등 혐의' 민주당 돈봉투 사건 관련 박용수 전 보좌관 4차 공판(오후 4시) &lt;br /&gt;&lt;b&gt;&lt;br /&gt;△21일(목)&lt;/b&gt;&lt;br /&gt;-한국법제연구원, '광복 80주년 공법학의 발전과 전개' 2025 한국공법학자대회(오전 9시 30분, 서울 성북구 안암동 고려대학교 CJ법학관·신법학관)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 김용현 전 국방부장관 외 2명 15차 공판(오전 10시)&lt;br /&gt;-법학전문대학원협의회, '로스쿨 공동입학설명회'(오전 10시, 서울 서초구 양재동 aT센터 3층 제2전시장)&lt;br /&gt;-서울고법, '공직선거법 위반 등 혐의' 신영대 의원 주요 보좌진 여론조작 의혹 관련 강모 씨 외 2명 4차 공판(오전 11시20분)&lt;br /&gt;-한국언론법학회, '2025 철우언론법상'(오후 2시, 서울 중구 한국프레스센터 20층)&lt;br /&gt;-세무법인 센트릭(CENTRIC) 출범식(오후 2시, 서울 강남구 대치동 포스코센터 서관 4층 아트홀)&lt;br /&gt;-서울고법, '공용전자기록등손상교사 등 혐의' 이태원 참사 정보보고서 삭제 사건 관련 박성민 전 서울경찰청 공공안녕정보외사부장(경무관) 외 1명 5차 공판(오후 4시30분)&lt;br /&gt;-법무법인 바른, 제102회 상속신탁연구회 세미나(오후 6시, 서울 강남구 대치동 섬유센터빌딩 9층 바른 대회의실)&lt;br /&gt;-법무법인 광장, '한국의 법, 정책, 그리고 컴플라이언스: 새로운 정치 지형에서의 법적 변화와 불확실성' 싱가포르 세미나(오후 6시 30분, 싱가포르 페어몬트 호텔)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△22일(금)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 국정원장 외 4명 59차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '자본시장과 금융투자업에 관한 법률 위반 등 혐의' 영풍제지 주가 조작 관련 윤모 씨 외 24명 공판(오전 10시)&lt;br /&gt;-법학전문대학원협의회, '로스쿨 공동입학설명회'(오전 10시, 서울 서초구 양재동 aT센터 3층 제2전시장)&lt;br /&gt;-서울남부지법, '자본시장과 금융투자업에 관한 법률 위반 혐의' 배재현 전 카카오 투자총괄대표 공판(오전 10시30분)&lt;br /&gt;-헌법재판연구원 제14회 국제학술심포지엄(오후 2시, 서울 강남구 역삼동 나라키움 역삼B빌딩) &lt;br /&gt;-서울고법, '업무상과실치사 등 혐의' 가습기 살균제 사건 관련 김모 씨 외 12명 2차 공판준비기일(오후 2시30분)&lt;br /&gt;-서울고법, '정치자금법 위반 등 혐의' 민주당 돈봉투 사건 이성만 전 의원 8차 공판(오후 2시30분)</description>
 			<pubDate>Sat, 16 Aug 2025 22:06:41 -0000</pubDate>
@@ -213,36 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210523</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210523.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>행정사회-해피기버, 취약계층 행정·법률상담 업무협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210540.jpg" alt="210540.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;권태일 사단법인 해피기버 이사장과 윤승규 대한행정사회장이 14일 서울 금천구 가산동 대한행정사회에서 기념촬영을 하고 있다. 《사진=대한행정사회》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;br /&gt;대한행정사회(회장 윤승규)와 사단법인 해피기버(이사장 권태일)는 14일 취약계층 지원을 위한 업무협약을 맺었다.&lt;br /&gt;&lt;br /&gt;양 기관은 취약계층 행정·법률 상담과 재난·재해 피해자 지원, 보훈대상자 지원 등 분야에서 협력하기로 했다. 결식 예방, 국가유공자 지원 등 사회공헌 활동을 하는 해피기버는 1만 9000여 명의 회원이 후원하고 있다.&lt;br /&gt;&lt;br /&gt;윤승규 행정사회장은 "행정 전문성과 사회공헌 활동의 시너지를 발휘하는 계기가 되길 바란다"고 말했다. 권태일 해피기버 이사장은 "행정사회와 협력으로 더 많은 이웃에게 도움을 줄 수 있을 것"이라고 말했다.</description>
-			<pubDate>Thu, 14 Aug 2025 10:21:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210540</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210540</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210540.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>대륙아주, 150여 개 회원사 보유 한지총과 법률지원 업무협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210539.jpg" alt="210539.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;14일 서울 강남구 역삼동 법무법인 대륙아주에서 이규철 법무법인 대륙아주 대표변호사와 김갑수 한국지역문화재단총연합회장이 기념촬영을 하고 있다(왼쪽부터). 《사진=법무법인 대륙아주》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.draju.com/ko/main/main.html" target="_blank"&gt;법무법인 대륙아주&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;)는 사단법인 한국지역문화재단총연합회(회장 김갑수)와 법률지원을 위한 업무협약을 맺었다.&lt;br /&gt;&lt;br /&gt;전국 150여 개 지역문화재단이 참여한 한지총은 2024년 설립돼 지역문화 진흥을 위한 정책 발굴과 재단간 협력을 주요사업으로 수행하고 있다. 이날 업무협약에 따라 대륙아주는 한지총 회원사에서 생기는 법률문제 해결을 지원한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8690"&gt;이규철&lt;/span&gt;(62·사법연수원 22기) 대표변호사는 "문화 발전에 일조한다는 자세로 한지총이 추진하는 사업에도 최선의 법률자문을 제공하겠다"고 말했다. 김갑수 회장은 "재단 운영과 문화전문인력 양성에도 큰 도움이 될 것"이라고 답했다.</description>
-			<pubDate>Thu, 14 Aug 2025 10:20:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210539</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210539</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210539.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, '윤석열 전 대통령 특혜 의혹' 서울구치소장 교체…문책 인사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210543.jpg" alt="67473.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;경기도 의왕시 서울구치소 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령이 수감 중인 서울구치소 소장을 교체했다. 최근 민주당을 중심으로 제기된 ‘&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 특혜’ 논란에 따른 문책성 인사로 해석된다.&lt;br /&gt;&lt;br /&gt;법무부는 14일 보도자료를 통해 “서울구치소장 교체를 위한 고위공무원(나급) 2명에 대한 인사를 오는 18일자로 단행했다”고 밝혔다. 이에 따라 김현우 서울구치소장은 안양교도소장으로 자리를 옮기고, 김도형 수원구치소장이 서울구치소장에 부임한다.&lt;br /&gt;&lt;br /&gt;이번 인사 배경에 대해 법무부는 “윤 전 대통령의 수용처우와 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다고 판단했다”며 “조직 분위기를 쇄신하고 본연의 업무에 충실할 수 있도록 하겠다”고 설명했다.&lt;br /&gt;&lt;br /&gt;윤 전 대통령은 지난달 10일 법원이 내란특검의 구속영장을 발부한 뒤 서울구치소 독방에서 수감 생활을 이어오고 있다. 구치소 측은 전직 대통령이라는 신분을 고려해 운동·목욕 시간을 다른 수용자와 분리하고, 변호인 접견도 별도의 공간에서 진행해왔다.&lt;br /&gt;&lt;br /&gt;그러나 이를 두고 다른 수용자는 누리지 못하는 특혜라는 비판이 여권 일각에서 제기됐다. 논란이 확산되자 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공을 중단했다.&lt;br /&gt;</description>
-			<pubDate>Thu, 14 Aug 2025 10:17:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210543</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210543</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210543.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
