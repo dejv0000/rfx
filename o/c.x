@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘울산시장 선거 개입 의혹’ 송철호·황운하 무죄 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 15:54:00 +0000</pubDate>
+      <content:encoded>문재인 정부 청와대의 ‘울산시장 선거 개입’ 사건으로 기소됐던 송철호 전 울산시장과 황운하 조국혁신당 의원이 대법원에서 무죄 확정판결을 받았다. 대법원 2부(주심 오경미 대법관)는 송 전 시장과 황 의원의 공직선거법 위반 사건 상고심에서 무죄를 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이 사건은 2018년 지방선거 당시 청와대가 문재인 전 대통령의 오랜 친구이자 민주당 울산시장 후보였던 송 전 시장을 당선시키기 위해 조직적으로 선거에 개입했다는 내용이다. 송 전 시장 선거 캠프에서 경쟁 후보인 김기현 당시 울산시장과 관련한 비위 정보를 모아 청와대에 표적 수사를 청탁했고, 청와대는 이를 바탕으로 ‘범죄 첩보서’를 작성한 뒤 울산지방경찰청에 내려보내 ‘하명 수사’를 벌였다는 의혹이었다. 당시 황 의원은 울산경찰청장으로 김 시장 측을 수사했고, 송 전 시장은 선거에서 당선됐다.&lt;br&gt;&lt;br&gt;1심은 2023년 송 전 시장과 황 의원의 선거법 위반 혐의를 유죄로 판단하고 각각 징역 3년을 선고했다. 하지만 지난 2월 항소심은 “유죄 의심이 드는 것은 사실이지만 뒷받침할 만한 증거가 없다”며 무죄를 선고했다. 항소심 재판부는 “수사 청탁이 있었다는 캠프 관계자 증언은 신빙성이 없고, 범죄 첩보서는 민심 동향 파악 등 민정비서관실 업무 관행에 따른 것일 가능성을 배제하기 어렵다”고 했다. 검찰이 상고했지만 대법원은 “원심의 무죄 부분 판단에 잘못이 없다”며 원심을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중고교 150곳 접촉… 옛 교지 18권 찾아내</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</guid>
+      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 14 Aug 2025 15:57:02 +0000</pubDate>
+      <content:encoded>본지는 1945년 8월 15일 광복 전후 학생들이 남긴 글과 사진을 찾기 위해 전국 중·고교 가운데 1945년 이전 개교한 150여 곳과 접촉했다. 대부분 학교는 1950년 발발한 6·25 전쟁 때 폭격 등으로 해방 전후 학생 기록을 모두 소실한 상태였다. 이에 학교 총동창회, 지자체 박물관, 민간 근현대사 연구자들로 범위를 넓혀 취재했다. 그 결과 경복중·양정중·배재중·송도중·무학여고·광주공립공업중 등 16개 학교가 1946년부터 1950년 사이 발행한 교지(校誌) 18권을 찾았다. 광복을 맞은 1945년도 교지를 갖고 있는 곳은 없었다. 당시 전쟁이 막바지에 이르며 학교 운영이 제대로 이뤄지지 않은 탓으로 보인다. &lt;br&gt;&lt;br&gt;교지는 각각 50~100쪽 분량이다. 대부분 국한문 혼용체로 쓰였고, 한글 맞춤법도 지금과 다소 달랐다. 이에 한국학중앙연구원 교육정책아카이브연구소에 의뢰해, 교지 내용을 현대식으로 번역했다. 작업에 참여한 김우영 한국학중앙연구원 교수는 “해방 전후 우리나라의 중고교생들은 현재 대학생 수준의 엘리트층이었다”면서 “유명한 독립운동가가 아닌 평범한 학생들이 바라본 해방 직후 조국에 대한 인식이 자세하게 공개된 것은 이번이 처음”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;◆한국학중앙연구원 연구진=박대권 교육정책아카이브연구소장, 김우영 교육학 교수, 박수환(서울대 교육학 박사과정), 김수민(한국학중앙연구원 한국사학 석사과정), 김현주(한국학중앙연구원 교육학 석사과정), 허지훈(한국교원대 교육학 석사과정)&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  8월 18일 월요일 (음력(윤) 6월 25일 己未)</title>
       <link>https://www.chosun.com/national/national_general/2025/08/17/DJR5BVLZ45FCVJWAEQOD5GENSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/17/DJR5BVLZ45FCVJWAEQOD5GENSQ/</guid>
@@ -915,26 +933,6 @@
       <description/>
       <pubDate>Fri, 15 Aug 2025 04:27:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역의 한 군무원이 부대 내 사무실에서 1년 넘도록 몰래 생활해오다 적발됐다. &lt;br&gt;&lt;br&gt;15일 39사단에 따르면, 경남 내 한 예비군 훈련대에서 근무하는 30대 군무원 A씨가 지난해 1월부터 부대 내 사무실에서 몰래 생활해왔다. &lt;br&gt;&lt;br&gt;A씨는 동료들이 퇴근하면 사무실 소파나 테이블 위에서 잠을 자고, 개인 빨래를 하는 등 부대 업무 공간을 사적으로 사용했다. 부대 특성상 예비군 훈련이 끝나면 병력이 상주하지 않아 주변의 감시를 피할 수 있었다고 한다. &lt;br&gt;&lt;br&gt;A씨는 지난 4월 부대 입주 심의를 거쳐 독신 숙소를 배정받기 전까지 15개월간 이 같은 생활을 이어온 것으로 드러났다. 부대원 일부도 A씨의 이 같은 생활을 알았지만 “사무실에서 자지 말라”는 구두 경고만 했다고 한다. &lt;br&gt;&lt;br&gt;육군은 지난 6월 A씨에 대한 제보를 받고서야 조사에 나섰다. A씨는 조사 과정에서 “가정 형편이 어려워서 그랬다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;군 관계자는 “해당 사안은 7월 말 법무실로 이첩돼 추가 조사 중”이라며 “그 결과를 바탕으로 관련 법규에 따라 처리할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘15명 사상’ 동대문 다세대주택 화재 방화였다… 30대 남성 검거 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Aug 2025 02:47:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 제기동의 한 다세대주택에서 불을 질러 15명의 사상자를 낸 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 14일 오후 5시 58분쯤 서울 성동구의 한 상가 앞에서 방화 혐의로 30대 남성 A씨를 체포해 조사 중이라고 15일 밝혔다. A씨는 지난 12일 밤 11시 52분쯤 제기동 4층짜리 다세대주택 주차장에서 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 건물 주변 CCTV를 분석한 결과, 불이 주차장에 세워둔 폐지 리어카에서 시작된 것으로 보고 있다. 범행 직후 도주한 A씨는 범행 나흘 만에 검거됐다. 경찰은 조사를 마치는 대로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;불이 난 건물은 1층이 기둥으로 지탱되는 ‘필로티’ 구조였다. 필로티는 공기 유입이 쉬워 화세가 급격히 커지고, 상층부로 대피가 어려워 대형 인명피해로 이어질 가능성이 높다. 특히 해당 건물 주차장 천장은 열에 취약한 폴리카보네이트(PC) 재질로 덮여 있었고, 화재 확산을 막을 스프링클러도 설치돼 있지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양말 안에 슬쩍…은행 돈 4억 빼돌려 도박한 은행원</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/16/R5M6ZJRD65CRNH2YAYC4SXNSGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/R5M6ZJRD65CRNH2YAYC4SXNSGQ/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>양말 등에 숨겨 은행 돈 4억원을 빼돌린 40대 은행원이 징역형을 선고받았다.
-춘천지법 형사1단독 송종환 부장판사는 업무상횡령 혐의로 기소된 A(45)씨에게 징역 8개월을 선고했다고 15일 밝혔다.
-</description>
-      <pubDate>Fri, 15 Aug 2025 01:24:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Y6DCFDOZYUQ5JJEUIE2L4RO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양말 등에 현금을 숨겨 은행 돈 4억원을 빼돌린 40대 은행원이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 업무상 횡령 혐의로 기소된 A(45)씨에게 징역 8개월을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;강원 홍천군 한 은행에서 일하던 A씨는 지난해 12월 은행 금고에서 5만원권 지폐 묶음 여러 개를 양말 속에 숨겨 빼돌리는 등 6차례에 걸쳐 현금 2억1200만원을 훔친 혐의를 받고 있다. 그는 또 자신의 사무실 자리에 보관 중이던 은행 돈 1억 5000만원과 미화 2만달러를 종이 가방과 외투 주머니 등에 넣어 훔치기도 했다&lt;br&gt;&lt;br&gt;A씨는 훔친 돈을 온라인 도박 자금 등으로 탕진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송 부장판사는 “피고인이 단기간 횡령한 액수의 총액이 무려 4억원에 이른다”면서 “은행의 피해가 큰 점 등을 양형에 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“티라미수 맛 없어”...제과점장 흉기로 위협한 미국인, 벌금  200만원</title>
