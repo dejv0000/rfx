@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘대선 부정선거’ 주장 양궁 국대 “2군이라 공인 아닌 줄, 죄송하다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/FLWOT3ROJBCMRJOKBA5TYXZH4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/FLWOT3ROJBCMRJOKBA5TYXZH4U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 13:06:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UQ7IHUH74JM2U4DWIJOSZPE74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양궁 국가대표 장채환. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선이 부정선거로 치러졌다는 등의 주장을 한 양궁 남자 국가대표 장채환(33·사상구청)이 “악의는 없었다”며 사과했다. &lt;br&gt;&lt;br&gt;장채환은 17일 자신의 소셜미디어를 통해 “저는 고향이 전남이라 중도좌파 성향을 갖고 있었다”며 “그런데 윤석열 (전) 대통령께서 12·3 계엄령을 내리셨을 때 왜 지금 이 시대에 계엄령을 내렸는지 의문을 갖고 찾아봤고, 개인적 결론은 자유 대한민국의 미래를 위해선 보수우파 입장에서 목소리를 내는 게 옳다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;장채환은 “개인 소셜미디어에 주변 지인들에게나마 현 상황을 알리고 싶은 마음에 부정선거 정황과 보수적 내용을 게시했다”며 “저는 1군 국가대표가 아닌 2군이라 공인이 아니라고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “저 때문에 대한양궁협회와 소속팀이 여론의 뭇매를 맞는 게 너무 죄송스러워서 이렇게 변명이라도 해보았다”며 “악의는 없었다. 저 때문에 화가 나신 분들이 있다면 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;‘멸공’ ‘CCP(중국공산당) OUT’ 등의 표현을 쓴 것에 대해서는 “멸공이라는 단어는 군필자라면 다 아는 피아식별띠에 적힌 표현이고, ‘CCP OUT’은 중국 공산당 세력이 물러나길 바라는 마음으로 게시했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPF4RG2TOXF7WU4IBRPUPA35PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장채환이 올린 게시물. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장채환은 지난 6월 치러진 제21대 대통령 선거 전후로, 자신의 인스타그램에 정치 관련 게시물을 여러 건 올렸다.&lt;br&gt;&lt;br&gt;그는 한 게시물에서는 이재명 대통령의 당선 확정을 알리는 이미지를 올리며 “중국=사전투표 조작=전라도=선관위. 대환장 콜라보 결과. 우리 북한 어서오고~ 우리 중국은 셰셰. 주한미군 가지마요…”라는 글을 적었다.&lt;br&gt;&lt;br&gt;그는 또 투표소 안내물을 배경으로 손등에 기표 도장을 두 차례 찍은 사진을 올리면서 “투표는 본투표 노주작. 비정상을 정상으로. 공산 세력을 막자. 멸공”이라고 쓰기도 했다. &lt;br&gt;&lt;br&gt;장채환은 지난 3월 국가대표 선발전에서 국가대표로 뽑혔으나, 최종 평가전에서 4위 안에 들지 못해 주요 국제대회에는 출전하지 못한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상습 음주운전 적발된 40대, 대낮 무면허 음주운전에 결국 실형</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/08/18/RUAA5Y2HLBB6TIVR2SPEYUXVZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/08/18/RUAA5Y2HLBB6TIVR2SPEYUXVZU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 12:58:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2AFJ42EUQNFZOFIRCXYHGJW7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상습적으로 음주 운전을 저지른 40대 운전자가 대낮에 무면허 상태로 음주 운전하다 적발돼 결국 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1단독 송종환 부장판사는 도로교통법상 음주운전과 무면허운전 혐의로 기소된 A(47)씨에게 징역 6개월을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 31일 오후 2시 20분쯤 강원 춘천시의 한 도로에서 혈중알코올농도 0.051% 상태로 승용차를 운전한 혐의를 받는다. 당시 A씨는 무면허 상태였다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2016년에 벌금 200만원, 2017년에 징역 6개월에 집행유예 2년, 2022년 징역 1년 6개월에 집행유예 3년을 선고받는 등 음주운전으로 여러 차례 처벌받은 전력이 있는 것으로 밝혀졌다.&lt;br&gt;&lt;br&gt;송 부장판사는 “동전 전과가 4회에 달하고 심지어 집행유예 기간에 범행을 저질렀다”면서 “잘못을 인정하고 반성하는 점 등을 종합적으로 참작해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최교진 교육장관 후보, 조국 입시 비리 수사 때 “검찰의 칼춤”</title>
+      <link>https://www.chosun.com/national/education/2025/08/18/5RQQS6UNBFCL7PWC6A76XBEGZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/18/5RQQS6UNBFCL7PWC6A76XBEGZQ/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 12:08:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LM35XGDQR3AHMANXXKTP66IAFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자가 14일 오전 서울 영등포구 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하기 전 취재진 질문에 답하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 과거 자신의 소셜미디어에 조국 전 법무부 장관에 대한 ‘자녀 입시 비리’ 수사를 두고 ‘검찰의 칼춤’이라는 글을 올린 것으로 나타났다. &lt;br&gt;&lt;br&gt;최 후보자는 세종시교육감을 지내던 2021년 8월 10일 자신의 페이스북 계정에 “우리나라 법은 옻나무 법이여! 어떤 놈은 만지고 지랄을 해도 멀쩡허구, 어떤 놈은 근처에만 가도 옻이 올라 고생허구. 오늘, 조국 가족을 향한 검찰의 칼춤과 김경수 경남도지사 판결을 지켜보며 아직도 우리나라 법은 옻나무 법인가 하는 생각을 지울 수 없다”고 썼다. 이어 “그리고 오늘 이재용 가석방 결정 소식을 들었다”고 밝혔다. 특정 인물에 따라 사법 판결이 달라진다는 취지의 발언으로 해석된다. &lt;br&gt;&lt;br&gt;이를 두고 교육계에선 “헌법에 따라 정당의 관여를 금지하고 있는 교육감을 맡고 있는 인물이 SNS에 지나치게 정치적 견해를 드러내고 있다”는 비판이 나온다. 최 후보자는 지난 11일에는 페이스북에 ‘조희연 전 교육감의 사면에 박수를 보내며’라고 시작하는 글에서 “광복절 특별사면으로 조희연 전 서울시교육감이 복권됐습니다. 다행스러운 일입니다”라고 밝혔다. &lt;br&gt;&lt;br&gt;최 후보자가 과거 교육행정정보시스템(나이스, NEIS)에 대해 한 발언도 논란이 되고 있다. 최 후보자가 지난 2013년 낸 에세이 ‘사랑이 뛰노는 학교를 꿈꾸다’에 “학생·학부모·선생님들의 여러 가지 신상 정보를 교육부에서 아무 동의도 없이 인터넷에 올려 관리하겠다는 생각이 얼마나 심각하게 정보 인권을 침해할 수 있는지 생각할수록 끔찍한 일”이라고 했다. 최 후보자는 과거 한 인터뷰에서 ‘나이스’로는 학생 정보를 다 알 수 없다며 “학생들을 잘 알기 위해서는 같이 목욕도 하고 술도 먹어봐야 한다”고 밝히기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>집에서 키우던 도마뱀·뱀 95마리 굶어 죽게 한 20대… 법원, 벌금 400만원 선고</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/18/55PC23KCGRHQ3OUV6EM2G6JGMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/18/55PC23KCGRHQ3OUV6EM2G6JGMU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 11:02:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집에서 기르던 파충류를 방치해 일부를 굶어 죽게 만든 20대가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사3단독 지윤섭 부장판사는 동물보호법 위반 혐의로 재판에 넘겨진 A(22)씨에게 벌금 400만원을 선고했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월부터 두 달가량 충북 청주시 흥덕구 복대동 자신의 주거지에서 기르던 파충류 251마리(도마뱀 232마리·뱀 19마리)를 방치해 이 가운데 95마리(도마뱀 80마리·뱀 15마리)를 굶어 죽게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 타 지역으로 일을 하기 위해 떠나면서 아무런 조치를 하지 않은 것으로 드러났다. 경찰은 “세입자와 연락이 닿지 않는다”는 집주인의 신고를 받고 출동하면서 현장을 확인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지 부장판사는 “사망에 이르게 된 동물의 수가 상당하다”면서 “피고인이 반성하고 있고 아무런 범죄 전력이 없는 점을 고려해 형을 정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어린이날·한글날, 무조건 ‘월요일’로 바꾸면 소비지출 효과 2조원</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/XRUBACWETFHM5FOQ7WXCCUMSPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/XRUBACWETFHM5FOQ7WXCCUMSPM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 11:11:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRNQ6YKDK76BA7EMQDDAZJ5MQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉 경포해수욕장이 피서객으로 붐비는 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이날이나 한글날 등의 공휴일을 월요일로 고정하면 하루 2조원이 넘는 소비 진작 효과가 발생한다는 연구 결과가 나왔다. &lt;br&gt;&lt;br&gt;17일 한국인사행정학회가 기획재정부의 의뢰를 받아 실시한 ‘요일제 공휴일 도입 등 휴일제 개선 방안’ 연구용역 결과에 따르면 ‘요일제 공휴일’ 도입 시 소비지출액, 생산유발액, 부가가치유발액, 고용유발인원 등이 크게 증가하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;요일제 공휴일은 공휴일을 ‘5월 5일 어린이날’ 등 특정일이 아니라 특정 요일로 지정하는 제도다. &lt;br&gt;&lt;br&gt;연구 보고서는 “월요일 공휴일이 제도적으로 지정될 경우 가계 소비 증가와 관광 산업 활성화를 통해 내수 진작 효과가 기대된다”며 “연속된 휴일은 국내 여행 수요를 촉진하고 이에 따른 숙박·외식·교통·문화 소비 확대는 연관 산업으로 경제적 파급 효과를 유발해 고용 창출과 소득 증대로 이어지는 선순환 구조에 기여할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;연구 결과에 따르면 요일제 공휴일을 시행할 경우 하루 약 2조1039억원의 소비 진작 효과가 발생한다. 월요일 공휴일 혜택 적용 인구(2022년 평균 취업자 수) 2809만명에 월요일 공휴일 하루 1인당 추가 소비지출액 7만4900원을 곱한 것이다.&lt;br&gt;&lt;br&gt;이외에 요일제 공휴일 시행에 따른 생산 유발액은 약 3조7954억원, 부가가치 유발액은 1조6957억원으로 추정됐다.&lt;br&gt;&lt;br&gt;이미 미국은 ‘월요일 공휴일 법’, 일본은 ‘해피 먼데이’ 제도를 운용해 여러 공휴일을 월요일로 지정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘울산시장 선거 개입 의혹’ 송철호·황운하 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</guid>
@@ -908,15 +953,6 @@
       </media:content>
     </item>
     <item>
-      <title>金 여사에 ‘바쉐론’ 시계 건넨 사업가 “여사가 먼저 후원금 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/16/O6JRWAG5NRBV7HFGYKNHDWXMGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/O6JRWAG5NRBV7HFGYKNHDWXMGQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Aug 2025 05:20:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAKAF33YIJY2C4VQIH2G5WCDU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 5000만원대 ‘바쉐론 콘스탄틴’ 시계를 선물한 사업가 서성빈씨가 “김건희 여사가 먼저 후원금을 요청했다”는 취지로 특검에 진술한 것으로 파악됐다. 특검은 이같은 진술을 바탕으로 김 여사가 후원금 모집 과정에 강압적으로 개입했는지 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면 로봇개 수입업체를 운영하는 서씨는 지난 8일 특검에서 “김 여사가 대선 전 전화가 와서 후원금을 모아 달라고 했다”고 진술했다. 서씨는 지난 제20대 대선 당시 윤석열 국민의힘 대선 후보에게 1000만원을 후원했었는데, 이같은 후원이 김 여사 측의 요청으로 이뤄졌다는 것이다.&lt;br&gt;&lt;br&gt;또 서씨는 “김 여사가 ‘이재명보다 빨리 모아야 한다’고 말했다”는 진술도 특검에 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 서씨는 지난 14일 CBS ‘김현정의 뉴스쇼’에서 “1000만원만 낸 게 아니다”라며 “주변 사람이 많아서 꽤 많이 해줬다”고 했다. 서씨는 본지와의 통화에서 “주변인들을 설득해 최소 7000만원은 내가 지원했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;서씨는 2022년 9월 바쉐론 시계를 구매해 김 여사에게 전달했다고 주장하고 있다. 서씨는 5400만원짜리인 이 시계를 매장에서 ‘VIP 할인’을 받아 3500만원에 구매했다고 알려졌다. 특검은 이 시계가 청탁용일 가능성을 의심하고 수사 중이지만, 서씨가 명품 매장에서 시계를 직접 구매하기 어려운 김 여사를 대신해 ‘대리 구매’했을 가능성도 있다고 보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>심장에도 월요병?…심정지 발생, 월요일·일요일에 많아</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/16/M3FEKC5JS5AIRAXKVDUV6CR674/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/16/M3FEKC5JS5AIRAXKVDUV6CR674/</guid>
@@ -933,24 +969,6 @@
       <description/>
       <pubDate>Fri, 15 Aug 2025 04:27:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFZVM4NRURGTJHT3BSCG5VVO3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한민국 육군 로고./육군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역의 한 군무원이 부대 내 사무실에서 1년 넘도록 몰래 생활해오다 적발됐다. &lt;br&gt;&lt;br&gt;15일 39사단에 따르면, 경남 내 한 예비군 훈련대에서 근무하는 30대 군무원 A씨가 지난해 1월부터 부대 내 사무실에서 몰래 생활해왔다. &lt;br&gt;&lt;br&gt;A씨는 동료들이 퇴근하면 사무실 소파나 테이블 위에서 잠을 자고, 개인 빨래를 하는 등 부대 업무 공간을 사적으로 사용했다. 부대 특성상 예비군 훈련이 끝나면 병력이 상주하지 않아 주변의 감시를 피할 수 있었다고 한다. &lt;br&gt;&lt;br&gt;A씨는 지난 4월 부대 입주 심의를 거쳐 독신 숙소를 배정받기 전까지 15개월간 이 같은 생활을 이어온 것으로 드러났다. 부대원 일부도 A씨의 이 같은 생활을 알았지만 “사무실에서 자지 말라”는 구두 경고만 했다고 한다. &lt;br&gt;&lt;br&gt;육군은 지난 6월 A씨에 대한 제보를 받고서야 조사에 나섰다. A씨는 조사 과정에서 “가정 형편이 어려워서 그랬다”는 취지로 진술했다고 한다. &lt;br&gt;&lt;br&gt;군 관계자는 “해당 사안은 7월 말 법무실로 이첩돼 추가 조사 중”이라며 “그 결과를 바탕으로 관련 법규에 따라 처리할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“티라미수 맛 없어”...제과점장 흉기로 위협한 미국인, 벌금  200만원</title>
-      <link>https://www.chosun.com/national/2025/08/16/7F5GJDMR7RCBFK7F73SIPBST2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/16/7F5GJDMR7RCBFK7F73SIPBST2A/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Aug 2025 02:19:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z6QPEFXGJNRPZ5XSGMLYBBG2IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;창원지법 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티라미수(이탈리아 디저트) 맛이 마음에 들지 않는다면서 제과점 점장을 흉기로 위협한 60대 미국인에게 벌금형이 선고됐다.&lt;br&gt;&lt;br&gt;창원지법 형사7단독 이현주 부장판사는 특수협박 혐의로 기소된 미국인 A(64)씨에게 벌금 200만원을 선고했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 5월18일 오후 1시57분쯤 경남 김해시의 한 제과점에서 점장 B(여·30대)씨를 흉기로 위협한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;판결문에 따르면, A씨는 자신이 주문한 티라미수의 맛이 마음에 들지 않는다는 이유로 제과점 점장인 B씨를 불러 “미국에서 먹던 것과 다르다”며 “이게 티라미수면 내 손가락을 자르겠다”고 말하고, 주머니에서 흉기를 꺼내 B씨 얼굴 앞에서 자신의 손을 찌를 듯이 위협했다. A씨는 국내에 장기 체류 중인 미국인이었다.&lt;br&gt;&lt;br&gt;검찰은 A씨의 혐의를 유죄로 인정해 벌금 200만원 약식명령을 내렸지만, A씨는 이에 불복해 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;이현주 부장판사는 “약식명령 전후로 변경된 사정이 없고, 약식명령의 벌금형이 무거워 보이지 않는다”며 약식명령과 같은 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]광복절 주미 한국대사관에 ‘폭탄 설치’ 협박 메일... 경찰 비상</title>
-      <link>https://www.chosun.com/national/incident/2025/08/16/MMAHNFB7ZRAZ5O5TRTDTFPNCSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/16/MMAHNFB7ZRAZ5O5TRTDTFPNCSQ/</guid>
-      <dc:creator>수원=김현수 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Aug 2025 01:16:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절인 15일 새벽 미국 워싱턴 D.C.에 있는 한국대사관으로 ‘불특정 대중이 이용하는 시설에 고성능 폭탄을 설치했다’는 협박 메일이 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면, 이날 오전 5시쯤 주미대사관이 발신자로부터 직접 ‘불특정 대중시설에 폭탄을 설치했다’는 내용의 메일을 수신하고, 이를 경찰에 신고했다. 서울경찰청은 해당 내용을 접수한 뒤 전국 경찰에 공조를 요청했다.&lt;br&gt;&lt;br&gt;메일 발신자는 최근 전국에서 동시다발적으로 발생한 폭발물 협박 사건에서 반복적으로 사용된 일본 실존 변호사 가라사와 다카히로의 명의를 그대로 사용한 것으로 확인됐다. 이 명의는 2023년 일본 우익 커뮤니티에서 사이비 종교 교주로 패러디돼 공공시설과 기관에 허위 테러 협박 팩스를 보내는 데 악용돼왔다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “메일 내용이 논리적이지 않고 주미 대사관과도 무관한 내용이 섞여 있어 이해하기 어렵다”며 “다만 동일 명의, 유사한 문구를 사용한 최근 협박 사건과 연계해 수사하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 폭발 예상 시각이나 구체적 위치 등은 확인되지 않았지만, 순찰 강화 지시를 내리고 폭발물 설치 여부와 발신자 추적 등 수사에 착수했다. 현재까지 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;앞서 지난 10일에도 서울 송파구 올림픽체조경기장에서 ‘고성능 폭탄을 설치했다’는 팩스가 공연 시작 2시간 전 접수돼 관객 2000여 명이 대피하고, 경찰특공대와 폭발물 처리반이 투입됐지만 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;지난 7일에도 서울 영등포구 외국인 주민센터로 ‘한국 학생과 교사에게 황산 테러를 하겠다’는 협박 팩스가, 11일에는 광주 도심 백화점 폭탄 설치 협박이 접수됐으나 모두 허위로 드러났다.&lt;br&gt;&lt;br&gt;또한 이날 저녁 서울 광화문광장에서 약 4만명이 운집할 것으로 예상되는 국민주권 대축제가 예정돼 있어, 경찰은 폭발물 협박 사건과 별개로 대규모 인파 안전 관리에도 비상이 걸린 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>소반 위 팔각쟁반에 또르르...한국계 인물 새긴 美 국민동전 선보이던 날</title>
@@ -981,24 +999,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/XY5PPJANVBFKLIVTXWH3GLMBAU.jpg?auth=57a6a2abf04ec75988527dd4026f5ff1657f26c9fd346888601c44ca8484802b&amp;smart=true&amp;width=2166&amp;height=1599" type="image/jpeg" height="1599" width="2166">
         <media:description type="plain">1945년 8월 청년들이 ‘축 선방(조선해방)’ ‘우리 조국’ 등이라고 적힌 피켓을 들고 거리로 나온 모습./조선일보DB</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘尹 접견 특혜’ 與 비판 잇따르자… 법무부, 서울구치소장 전격 교체</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/3ZKLFTI2E5FEDB7MIGKLBLLF7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/3ZKLFTI2E5FEDB7MIGKLBLLF7U/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>법무부가 윤석열 전 대통령이 수감 중인 서울구치소장을 14일 전격 교체했다. 그동안 윤 전 대통령은 특검 조사를 거부하면서 단독으로 변호인 접견을 해왔다. 이를 두고 여권에서 “다른 수용자와 비교할 수 없는 특혜”라는 비판이 나왔다. 법무부가 이 같은 지적을 바탕으로 문책성 인사를 한 것으로 보인다.&lt;br&gt;&lt;br&gt;법무부는 이날 “금일 서울구치소장 교체를 위한 고위 공무원(나급) 2명에 대한 인사를 오는 18일 자로 단행했다”고 밝혔다. 김현우 현 서울구치소장을 안양교도소장으로 보내고, 신임 서울구치소장에 김도형 수원구치소장을 임명한 것이다.&lt;br&gt;&lt;br&gt;법무부는 “이번 인사는 그간 윤 전 대통령의 수용 처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난달 10일 법원이 내란 특검이 청구한 구속영장을 발부하면서부터 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동·목욕을 다른 수용자들과 따로 하게 했고, 별도의 공간에서 변호인을 접견하도록 허용해 왔다.&lt;br&gt;&lt;br&gt;이런 상황에서 윤 전 대통령이 김건희 특검의 체포영장 집행에 불응하면서 구치소 측의 특혜 논란이 불거졌다. 특검은 지난 1일과 8일 두 차례 윤 전 대통령에 대한 강제 구인에 실패하자 “수용자의 신병을 관리하는 교정 당국이 특검의 강제 인치 지휘에 협조하지 않는다”고 비판한 바 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 또 지난 1월 강의구 전 대통령부속실장과 접견할 때 강 전 실장으로부터 휴대전화를 빌려 썼다는 의혹이 제기돼 법무부가 진상을 조사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;더불어민주당 3대특검종합대응특별위원회는 지난 1일 “윤석열의 전체 구속 기간에 변호인 등을 접견한 시간은 모두 395시간 18분이며 접견 인원은 348명에 이른다. 395시간은 일수로 치면 16일이 넘는다”면서 “구치소 내에서 장시간의 접견을 통해 편안한 수용 생활을 누리는 등 각종 특혜가 있었음을 확인했다”고 밝혔다. 이에 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공 중단을 통보했다.&lt;br&gt;&lt;br&gt;한편 실명(失明) 위험으로 외부 병원에서 두 차례 진료를 받은 윤 전 대통령은 진료를 받는 동안 수갑과 전자발찌를 착용했던 것으로 확인됐다. 교정 당국 관계자는 “특혜 시비를 사전에 차단하기 위해 다른 수용자들처럼 똑같이 조치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 실명 위험에 병원 간 尹, 수갑·전자발찌 찼다</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 11:51:51 +0000</pubDate>
-      <content:encoded>실명 위험으로 외부 병원에서 진료를 두 차례 받은 윤석열 전 대통령이 진료를 받는 동안 수갑과 전자발찌를 착용했던 것으로 14일 확인됐다. 교정당국 측은 “특혜 시비를 사전에 차단하기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 5일 오후 서초구 서울고등검찰청에서 내란특검 2차 대면조사를 받은 뒤 청사를 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 지난 13일과 이날 경기 안양시에 있는 한림대성심병원에서 안과 진료를 받을 때 이 같은 조치를 받은 상태였다고 한다. 교정당국은 구속 피의자가 진료 등 이유로 구치소 밖에 잠시 나갈 때 이러한 조치를 취한다고 설명했다. 최근 윤 전 대통령을 둘러싸고 변호인 단독 접견 등 특혜가 제공되고 있다는 비판이 이어지는 점을 의식한 것이 아니라, 다른 수용자들과 똑같은 기준을 적용했다는 얘기다.&lt;br&gt;&lt;br&gt;한편 법무부는 이날 윤 전 대통령이 수감된 서울구치소장을 교체했다고 밝혔다. 더불어민주당 등 여권을 중심으로 ‘윤 전 대통령에게만 특혜를 준다’는 비판이 제기되면서 문책성 인사를 시행했다는 평가가 법조계에서 나왔다.&lt;br&gt;&lt;br&gt;김현우 서울구치소장은 안양교도소장으로 이동하게 됐고, 신임 서울구치소장에는 김도형 수원구치소장이 임명됐다. 법무부는 “이번 인사는 그간 윤 전 대통령의 수용처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단 하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 법원이 지난달 10일 내란특검이 청구한 구속영장을 발부하면서 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동 시간과 목욕 시간을 다른 수용자들과 따로 가지고, 변호인 접견도 별도의 공간에서 하도록 했다.&lt;br&gt;&lt;br&gt;그러나 이를 두고 ‘다른 수용자들은 받지 못하는 특혜’라는 비판이 정치권을 중심으로 나오자, 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공을 중단했다. 다만 교정 당국은 안전상의 우려로 운동·목욕 시간은 앞으로도 일반 수용자들과 동선을 달리 할 계획이다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로도 특혜 시비 없는 공정한 수용관리 등 엄정한 법 집행에 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
