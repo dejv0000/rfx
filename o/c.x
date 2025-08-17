@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 4개월간 마약사범 5000명 검거… 온라인 유통 탓에 공급책 검거 줄어</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/32QLNDSR25FZNF6AMM3UT2XTNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/32QLNDSR25FZNF6AMM3UT2XTNE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 04:58:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5X5Z6HE7INA3LGF4Z63ZFMHE2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마약 단속 현장 모습. 사진은 기사 내용과 직접 관련 없음./서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 올 3월부터 6월까지 4개월간 마약류 집중 단속을 벌인 결과 총 5109명을 검거(구속 964명)했다. 온라인 기반 유통 확산으로 판매·유통책 등 공급 사범은 줄고 투약 등 단순 사범만 늘어난 것으로 나타났다.&lt;br&gt;&lt;br&gt;18일 경찰청 국가수사본부에 따르면 올해 3~6월 검거된 마약사범 5109명 가운데 판매·유통 등 공급 사범은 1860명으로 지난해 같은 기간보다 7.6%(185명) 감소했다. &lt;br&gt;&lt;br&gt;반면 투약 등 단순 사범은 3249명으로 9.1%(271명) 늘었다. 경찰은 “택배·‘던지기’ 등 비대면 공급 방식과 가상 자산, 텔레그램 등 보안 메신저 이용 확산으로 상선 추적이 어려워진 데다 ‘한 명이 여러 명에게 동시에 유통하는’ 온라인 특성 때문에 공급책 검거 난도가 높아졌다”고 분석했다.&lt;br&gt;&lt;br&gt;실제 온라인 마약류 사범은 전년 동기 대비 28.2% 증가한 1878명으로 전체 검거자의 36.8%를 차지했다. 특히 10~30대 청년층이 온라인 마약 사범의 61.8%를 차지할 만큼 비대면 마약 거래가 급속히 젊은 층에 퍼지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이런 추세에 대응해 전담 수사 인력을 기존 378명에서 942명으로 2.5배 확대하고, 서울·부산·인천·경기남부·경남청에 ‘가상 자산 추적 전담팀’(41명)을 새로 꾸리는 등 온라인 공급망 차단에 수사력을 집중할 방침이다.&lt;br&gt;&lt;br&gt;집중 단속 과정에서 적발된 마약 공급 사건도 잇따랐다. 3~6월 경북경찰청 마수계는 미국발 국제우편으로 밀반입된 필로폰 1.8㎏을 ‘던지기’ 방식으로 유통한 일당 46명을 붙잡고 이 중 9명을 구속했다. 같은 시기 대구경찰청 마수계는 원룸 내 대마 재배 시설을 갖추고 자체 재배한 대마초를 유통한 조직 6명을 검거(구속 2명), 대마 5.5㎏과 필로폰 130g을 압수했다.&lt;br&gt;&lt;br&gt;서울 서초서는 5월 텔레그램을 통해 메페드론을 유통한 러시아·우즈베크 조직을 적발해 투약자 포함 15명(구속 6명)을 검거했다. 충남경찰청 마수계는 외국인 메신저 ‘잘로(Zalo)’를 이용, 외국인 유흥업소 등에 마약류를 공급한 베트남계 조직 13명(구속 2명)을 검거했다.&lt;br&gt;&lt;br&gt;국제 공조 수사도 활발히 진행됐다. 경기남부청 평택계는 4월 특수 제작한 바디로션 용기에 필로폰을 숨겨 인천공항으로 밀반입한 태국인 일당 7명(구속 5명)을 붙잡았고, 태국 마약통제청 공조로 현지에서도 1명을 구속해 총 27.5㎏의 필로폰을 압수했다. 6월 서울 광진서는 독일·폴란드 국적 피의자 2명이 케타민과 엑스터시를 도자기 속에 은닉해 항공 택배로 들여온 사건을 적발, 피의자 2명을 구속하고 케타민 52㎏·엑스터시 7만 정을 압수했다.&lt;br&gt;&lt;br&gt;경찰은 오는 8월부터 내년 1월까지 6개월간 온라인·가상자산 기반 마약 범죄를 집중 단속하며 공급책 검거에 수사력을 집중할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 尹 전 대통령 측, ‘체포 방해 추가기소’ 재판 기일 변경 신청</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/GG53ZROUVBB2RBCW2G2ERZFQTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/GG53ZROUVBB2RBCW2G2ERZFQTU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 05:01:43 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 측이 이른바 ‘체포 방해’ 등 혐의로 추가 기소돼 시작을 앞둔 재판 일정을 미뤄달라고 법원에 요청한 것으로 17일 확인됐다. 이 재판은 내란 특검이 윤 전 대통령을 구속 기소한 건으로, 오는 19일 첫 공판준비기일이 예정돼 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZL7KZLHZ3VMSBVR6EDDAKP2PZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령 변호인단은 지난 14일 심리를 맡은 서울중앙지법 형사35부(재판장 백대현)에 공판준비기일 변경 신청을 냈다. 공판준비기일이란 본 재판을 시작하기 전 재판부가 검찰, 변호인 측과 쟁점을 정리하고 향후 재판 진행 절차 등을 정리하는 것을 가리킨다. 피고인인 윤 전 대통령이 직접 출석해야 하는 의무는 없다. 재판부는 이날까지 기일 변경 여부를 결정하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;변호인단은 특검으로부터 윤 전 대통령 관련 수사 기록을 등사받지 못해 변론 준비를 할 수 없었다는 입장을 신청서에 담은 것으로 전해졌다. 또 재판 진행을 앞두고 변호인 선임 관련 논의를 마치지 못한 상황인 점도 신청서에 적었다고 한다. 향후 재판이 원활하게 진행될 수 있도록 시작을 미뤄달라는 얘기다.&lt;br&gt;&lt;br&gt;다만 변호인단은 신청서에 윤 전 대통령의 눈질환 등 건강 문제를 언급하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;내란 특검은 지난달 19일 윤 전 대통령을 특수공무집행방해 등 혐의로 구속 기소했다. 특검이 수사를 개시한 지 31일 만이었다. 특검은 기소 당시 “윤 전 대통령은 지난해 비상계엄 선포 직전 국무회의 때 일부 국무위원만 소집함으로써 소집 통지를 받지 못한 국무위원 9명의 헌법상 권한인 국무회의 심의·의결권을 침해했다”고 밝혔다. 특검은 이 밖에도 윤 전 대통령에게 허위 계엄선포문 사후 작성, 계엄 관련 허위 공보, 비화폰 기록 삭제 지시, 체포영장 집행 저지 등 혐의도 적용했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 검찰 비상계엄 특별수사본부에 의해 내란 우두머리 혐의로, 파면 이후 지난 5월 직권남용 권리행사 방해 혐의로 각각 기소된 데 이어 세 번째로 재판에 넘겨진 것이다. 앞서 기소된 두 재판은 하나로 병합돼 서울중앙지법 형사25부(재판장 지귀연)가 심리 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국정원장 친한 정치인에 안부 연락한 국정원 직원…법원 “승진 청탁 아냐...징계 부당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/76KLUO77UFGIXO7WCUGH5MCJG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/76KLUO77UFGIXO7WCUGH5MCJG4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 04:18:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4JZNCBD4NDCZDVWDILBNXCJMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보원장과 친한 정치인에게 승진을 청탁했다는 이유로 감봉 징계를 받은 국정원 직원이 징계 취소 소송을 내 승소했다. 서울행정법원 행정14부(재판장 이상덕)는 A씨가 국정원을 상대로 낸 소송에서 “감봉 처분을 취소하라”고 판결했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;1991년부터 30여년 국정원 직원으로 일한 A씨는 박지원 전 국정원장 시절 외부 인사에게 자신과 후배 직원의 승진 청탁을 했다는 이유로 2023년 12월 감봉 3개월 처분을 받았다. &lt;br&gt;&lt;br&gt;국정원은 A씨가 정기 인사를 앞두고 박 전 원장과 친한 전직 시의원에게 수차례 문자를 보내 간접적·암시적으로 승진을 도와달라는 청탁을 했다고 봤다. 박 전 원장 비서실장이 작성한 ‘인사관련 종합’ 문건 중 A씨 부분에 전 시의원 이름과 함께 ‘문자 발송 자제 조치’라고 기재돼있었다고 한다. &lt;br&gt;&lt;br&gt;A씨는 실제 박 전 원장 부임 이후 2020년 9월 첫 인사에서 승진에서 제외됐다가 이듬해 2월 승진을 했다. 승진한 뒤 시의원에게 명절 선물을 보냈고, 국정원 내부 조사 과정에서 “솔직히 제가 안부 인사를 하면 저를 신경 써주지 않을까 하고 생각은 하긴 했습니다”라고 진술하기도 했다. &lt;br&gt;&lt;br&gt;A씨가 한 기업의 전직 부사장에게 후배 직원을 잘 봐달라는 취지로 승진을 알선·청탁했다는 것도 감봉 사유였다. 승진 인사 절차가 진행 중이던 2021년 1월 전직 부사장에게 전화가 와 “국정원장을 잘 아는 회장에게 이야기를 해주겠다”고 했는데 A씨는 이를 거절하고 대신 평소 친하게 지내던 같은 고향 후배 직원을 추천했다는 것이다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “인사 청탁이 있었는지에 대해 막연한 의심을 넘어 구체적으로 뒷받침하는 증거는 없다”며 A씨 손을 들어줬다. 재판부는 “국정원은 일반적 친분에서 비롯되는 인사치레를 넘어 승진 청탁에 해당한다는 정황을 지목하지 못했다”며 “명절 선물은 승진이라는 개인적 경사를 맞아 친분 관계를 유지하고 있던 전 시의원에게 일상적인 감사 표시를 했을 뿐이라고 볼 여지가 없지 않다”고 했다.&lt;br&gt;&lt;br&gt;후배 직원 승진을 알선했다는 부분에 대해서도 “부사장이 먼저 A씨에게 전화를 걸어와 청탁 제의를 했으나 A씨는 이를 거절하고 다른 후배를 언급했다”며 “적극적으로 청탁해 달라는 취지가 아니라 상대방 심기를 해치지 않는 선에서 완곡하게 우회적으로 거절한 것이라고 볼 여지가 없지 않다”고 했다. 국정원과 A씨 모두 1심 결과에 항소하지 않으면서 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7월 16∼20일 닷새 간 호우, 피해액 1조848억원 확정…최근 10년 새 최대 규모</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/17/5WHWA3SQLFCMPJ5JGYFLPFMCXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/17/5WHWA3SQLFCMPJ5JGYFLPFMCXI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 04:17:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OC4HZR27AFLS7KHF7FUUQLXENY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 경기 남양주 팔당댐 인근에 호우로 떠내려 온 쓰레기 등 부유물이 주변 수면을 뒤덮고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부가 지난 7월 중순부터 닷새간 쏟아진 집중호우 피해액을 1조848억원으로 확정했다. 최근 10년 새 자연 재난으로 발생한 피해액 가운데 가장 크다. 복구비로는 총 2조7235억원을 투입하기로 결정했다.&lt;br&gt;&lt;br&gt;행안부는 17일 중앙재난안전대책본부(중대본) 심의를 통해 지난 7월 16일부터 20일까지 발생한 집중호우 피해액과 복구비를 이같이 결정했다.&lt;br&gt;&lt;br&gt;이번 중대본 회의·심의에서 최종 확인된 피해 현황에 따르면, 7월 16~20일 호우로 인한 사망·실종자는 총 24명이다. 안전사고인지 자연재난으로 인한 사고인지 조사 중인 사항은 일단 제외됐다. 부상자는 33명으로 인명피해는 총 57명이다.&lt;br&gt;&lt;br&gt;사유 시설은 주택 4927동, 농·산림작물 3만556헥타르, 농경지 1447헥타르, 가축 약 186만 마리, 소상공인 업체 5480곳이 피해를 본 것으로 집계됐다. 공공 시설은 하천 1017곳, 소하천 1609곳, 산사태 654곳, 도로 806곳, 소규모 시설 2095곳, 수리 시설 820곳 등이 피해가 발생했다.&lt;br&gt;&lt;br&gt;7월 16~20일 호우로 발생한 피해액 1조848억원은 지난 10년간 발생한 자연재난 피해액 가운데 1위다. 2위는 2020년 7월 28일부터 8월 11일까지 15일간 쏟아졌던 호우로, 피해액 1조371억원이었다. 2023년 6월 27일부터 다음 달 27일까지 한 달간 쏟아진 호우는 7513억원의 피해로 3위다.&lt;br&gt;&lt;br&gt;이번 호우 피해 복구비 2조7235억원 중 공공시설 복구에 2조4538억원이 투입된다. 이주 단지 조성, 소하천 정비 및 도로 신설 등에 쓰인다. 복구비 중 나머지 2697억원은 피해 주민을 위한 재난지원금으로 투입된다. 도배·장판, 가전제품·가재도구 지원 비용 등이다.&lt;br&gt;&lt;br&gt;농작물 피해를 본 농민에게는 기존 1개월분의 생계비에 더해 피해 정도와 작물의 특성에 따라 최대 11개월분까지 생계비를 추가 지원한다. 피해가 극심한 농작물 10종(수박·오이·딸기·고추·방울토마토·쪽파·멜론·애호박·대파·사과)과 산림작물 8종(떫은감·고사리·약용류·조경수·잔디·약초류·포고자목·포고배지)에 대한 지원 단가를 실거래가 수준으로 현실화하고, 지원율은 종전 50%에서 100%로 높였다.&lt;br&gt;&lt;br&gt;수해 피해 국민에겐 다양한 간접적 혜택도 제공된다. 일반 재난 지역에는 국세 납부 유예, 지방세 기한 연장, 국민연금 납부 예외 등 24가지 혜택을 준다. 특별재난지역은 여기에 건보료 경감, 전기·통신·도시가스 요금 감면, TV 수신료 면제 등 13가지 혜택을 추가해 총 37가지 혜택을 제공하기로 했다.&lt;br&gt;&lt;br&gt;복구비는 국가가 1조9951억원(약 73.3%)을, 지자체가 나머지 7284억원(약 26.7%)을 부담한다. 정부는 확정된 복구 계획에 따라 국고 보조금을 신속히 지자체에 교부해 피해자 지원과 공공 시설 복구가 최대한 신속히 이뤄지도록 하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘브레이크 없는 픽시’ 타다 중학생 사망… 경찰 개학기 단속 강화</title>
       <link>https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</guid>
@@ -922,28 +958,6 @@
       </media:content>
     </item>
     <item>
-      <title>검은색 정장에 수갑… 조사 후 “다시 남편 만날 수 있을까”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/R2ZCCIG2VNC5JMJTAHI35H6DOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/R2ZCCIG2VNC5JMJTAHI35H6DOI/</guid>
-      <dc:creator>표태준 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NK42OWSXLBL25PIHWPWWHLCK5Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 14일 구속 후 첫 조사를 위해 서울 종로구에 마련된 민중기 특별검사팀(김건희 특검팀) 사무실로 호송차량을 타고 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사는 14일 민중기 특검팀에 소환돼 구속 후 첫 조사를 받았다. 지난 12일 밤 구속된 지 이틀 만이다. 특검은 이날 ‘명태균씨 공천 개입 의혹’과 관련, 김 여사를 집중 추궁했지만 김 여사는 대부분 질문에 진술거부권을 행사했다고 한다.&lt;br&gt;&lt;br&gt;서울남부구치소에 수감 중인 김 여사는 이날 법무부 호송차를 타고 특검 사무실에 도착해 오전 9시 56분부터 오후 2시 10분까지 조사받았다. 지하 주차장을 통해 조사실로 향해 김 여사 모습이 공개되진 않았지만, 수갑을 차고 검은색 정장을 입고 출석한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 조사는 명씨와 관련된 김 여사의 정치자금법 위반 혐의부터 시작됐다. 김 여사는 2022년 대선 당시 명씨에게 여론조사 결과를 무상으로 받고, 그 대가로 그해 국회의원 재·보궐선거에서 김영선 전 의원이 국민의힘 공천을 받을 수 있도록 영향력을 행사한 혐의를 받는다. 앞서 특검 조사에서 김 여사는 적극적으로 진술하며 혐의를 부인했으나, 이날은 답변을 대부분 거부했다고 한다. 김 여사는 조사 후 변호인들에게 “내가 다시 내 남편하고 살 수 있을까, 다시 우리가 만날 수 있을까”라는 심경을 전했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTGADHWJFD4NNBCCYNMO6WVAAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 18일 다시 김 여사를 불러 조사할 계획이다. 이봉관 서희건설 회장에게 받은 ‘나토 명품 3종’, 통일교 측에서 받은 ‘통일교 명품 3종’에 대한 조사가 이뤄질 것으로 보인다.&lt;br&gt;&lt;br&gt;김 여사는 2022년 6월 나토 순방 때 6000만원대 ‘반클리프 앤 아펠’ 목걸이를 착용해 논란을 불렀는데, 이에 대해 “모조품을 빌려 착용한 것”이라고 주장했다. 실제 지난달 25일 김 여사의 친오빠 김진우씨의 장모 집 압수 수색 과정에서 모조품 목걸이가 발견됐다. 하지만 이 회장이 지난 11일 “2022년 3~4월 반클리프 목걸이와 브로치, 귀걸이 등을 사서 김 여사에게 선물했다”는 자수서를 특검에 내면서 ‘가짜 알리바이’ 의혹이 불거졌다. 특검 관계자는 “수사 방해 및 증거인멸 혐의를 규명하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WO762SZP5FB7HHKGA4KQOKEQQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 여사 오빠 장모 집에서는 이우환 화백의 그림 1점도 발견됐다. 특검은 이 작품이 이 화백의 ‘점으로부터(From Point) No.800298’인 것을 최근 확인한 것으로 전해졌다. 이 작품은 2022년 6월 대만 경매에서 한국인 이모씨가 약 3000만원에 낙찰받았다. 김 여사는 “내 것이 아니다”라는 입장이지만, 특검은 이 역시 누군가 청탁을 목적으로 전달한 게 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;통일교 측이 전달했다는 ‘그라프’ 목걸이와 ‘샤넬’ 가방 등에 대해서도 특검은 김 여사와 ‘건진 법사’ 전성배씨가 사전에 ‘말 맞추기’했을 가능성이 있을 것으로 보고 있다. 김 여사에게 전달하겠다고 받아 간 전씨의 “잃어버렸다”는 주장이 설득력이 없다고 보는 것이다. 통일교 간부 휴대전화에서는 김 여사가 인삼차 선물에 대해 “잘 받았다”고 하는 녹취도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGQRBZMJDRGKZBM4UREO6EDCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부구치소 나서는 호송 차량 - 14일 오전 서울 구로구 남부구치소에서 김건희 여사를 태운 호송 차량이 서울 종로구 민중기 특검팀 사무실로 출발하고 있다. 김 여사는 이날 민중기 특검팀에 소환돼 구속 후 첫 조사를 받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에서는 김 여사의 명품 등 수수를 법조인 출신인 윤 전 대통령이 왜 막지 않았는지 이해하기 어렵다는 말이 나온다. 윤 전 대통령은 서울중앙지검장이던 2018년 이명박 전 대통령을 수사할 때 이팔성 전 우리금융지주 회장에게 이 전 대통령과 그의 가족이 100만~200만원 상당의 양복 선물을 받은 것까지 뇌물 혐의를 적용해 기소했었다. 특히 윤 전 대통령은 검사 시절 명품 시계 등 명품을 착용한 적이 있지만, 대통령 취임 후엔 검소한 차림새를 고집했다. 시계도 12만~15만원 상당인 람브레타 제품을 차고 공식 석상에 주로 나타났다.&lt;br&gt;&lt;br&gt;윤 전 대통령 부부를 잘 아는 지인은 “윤 전 대통령이 검사 시절 허름하게 다니는 게 안타까워 몇 십만 원짜리 물품을 선물하려 했더니 ‘공무원이 이런 거 받으면 안 된다’며 한사코 거절했다”며 “대통령이 됐는데 김 여사가 선물을 받도록 방치한 것은 이해가 가지 않는다”고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 김 여사 일가의 최측근으로, ‘IMS모빌리티 특혜성 투자 의혹’ 관련 33억여 원을 횡령한 혐의 등을 받는 김예성씨에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JTGADHWJFD4NNBCCYNMO6WVAAA.jpg?auth=c6cd458f593555bbfae622b6d4c8ad2313ee166239f2f5385e3b4cd6d7c576ac&amp;smart=true&amp;width=1642&amp;height=1174" type="image/jpeg" height="1174" width="1642">
-        <media:description type="plain">윤석열 전 대통령 부인 김건희 여사가 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김민지 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>중고교 150곳 접촉… 옛 교지 18권 찾아내</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</guid>
-      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:57:02 +0000</pubDate>
-      <content:encoded>본지는 1945년 8월 15일 광복 전후 학생들이 남긴 글과 사진을 찾기 위해 전국 중·고교 가운데 1945년 이전 개교한 150여 곳과 접촉했다. 대부분 학교는 1950년 발발한 6·25 전쟁 때 폭격 등으로 해방 전후 학생 기록을 모두 소실한 상태였다. 이에 학교 총동창회, 지자체 박물관, 민간 근현대사 연구자들로 범위를 넓혀 취재했다. 그 결과 경복중·양정중·배재중·송도중·무학여고·광주공립공업중 등 16개 학교가 1946년부터 1950년 사이 발행한 교지(校紙) 18권을 찾았다. 광복을 맞은 1945년도 교지를 갖고 있는 곳은 없었다. 당시 전쟁이 막바지에 이르며 학교 운영이 제대로 이뤄지지 않은 탓으로 보인다. &lt;br&gt;&lt;br&gt;교지는 각각 50~100쪽 분량이다. 대부분 국한문 혼용체로 쓰였고, 한글 맞춤법도 지금과 다소 달랐다. 이에 한국학중앙연구원 교육정책아카이브연구소에 의뢰해, 교지 내용을 현대식으로 번역했다. 작업에 참여한 김우영 한국학중앙연구원 교수는 “해방 전후 우리나라의 중고교생들은 현재 대학생 수준의 엘리트층이었다”면서 “유명한 독립운동가가 아닌 평범한 학생들이 바라본 해방 직후 조국에 대한 인식이 자세하게 공개된 것은 이번이 처음”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;◆한국학중앙연구원 연구진=박대권 교육정책아카이브연구소장, 김우영 교육학 교수, 박수환(서울대 교육학 박사과정), 김수민(한국학중앙연구원 한국사학 석사과정), 김현주(한국학중앙연구원 교육학 석사과정), 허지훈(한국교원대 교육학 석사과정)&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서희건설과 김건희, 함성득이 연결했나</title>
       <link>https://www.chosun.com/national/court_law/2025/08/15/L53K6FX225DTBFLL7G7Z5WAVBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/L53K6FX225DTBFLL7G7Z5WAVBY/</guid>
@@ -967,24 +981,6 @@
         <media:description type="plain">일본군 위안부 문제 해결에 나서는 평화나비 네트워크 관계자들이 지난 6월 18일 오전 서울 종로구 정부서울청사 앞에서 역사 왜곡 자행하는 리박스쿨 강력 수사 및 처벌 촉구 대학생 기자회견을 하고 있다. /뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 임세영 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘울산시장 선거 개입 의혹’ 송철호·황운하 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>문재인 정부 청와대의 ‘울산시장 선거 개입’ 사건으로 기소됐던 송철호 전 울산시장과 황운하 조국혁신당 의원이 대법원에서 무죄 확정판결을 받았다. 대법원 2부(주심 오경미 대법관)는 송 전 시장과 황 의원의 공직선거법 위반 사건 상고심에서 무죄를 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이 사건은 2018년 지방선거 당시 청와대가 문재인 전 대통령의 오랜 친구이자 민주당 울산시장 후보였던 송 전 시장을 당선시키기 위해 조직적으로 선거에 개입했다는 내용이다. 송 전 시장 선거 캠프에서 경쟁 후보인 김기현 당시 울산시장과 관련한 비위 정보를 모아 청와대에 표적 수사를 청탁했고, 청와대는 이를 바탕으로 ‘범죄 첩보서’를 작성한 뒤 울산지방경찰청에 내려보내 ‘하명 수사’를 별였다는 의혹이었다. 당시 황 의원은 울산경찰청장으로 김 시장 측을 수사했고, 송 전 시장은 선거에서 당선됐다.&lt;br&gt;&lt;br&gt;1심은 2023년 송 전 시장과 황 의원의 선거법 위반 혐의를 유죄로 판단하고 각각 징역 3년을 선고했다. 하지만 지난 2월 항소심은 “유죄 의심이 드는 것은 사실이지만 뒷받침할 만한 증거가 없다”며 무죄를 선고했다. 항소심 재판부는 “수사 청탁이 있었다는 캠프 관계자 증언은 신빙성이 없고, 범죄 첩보서는 민심 동향 파악 등 민정비서관실 업무 관행에 따른 것일 가능성을 배제하기 어렵다”고 했다. 검찰이 상고했지만 대법원은 “원심의 무죄 부분 판단에 잘못이 없다”며 원심을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>블랙이글스, 광복 80주년 하늘을 가르다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/Z7XDZTPQP5CBHOBCCO53GK2EPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/Z7XDZTPQP5CBHOBCCO53GK2EPU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMBWTZXOIJBEHLMYAXABROW5GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/공군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 오전 충남 천안 독립기념관에서 광복 80주년을 맞아 ‘광복 80’이란 문구가 적힌 엠블럼을 부착한 대한민국 공군 특수비행팀 블랙이글스 T-50B 항공기가 훈련 비행하고 있다. 공군은 광복 80주년을 맞아 지난 7월 28일부터 지난 12일까지 T-50B 항공기 11대의 수직 꼬리날개에 엠블럼을 부착했다. 엠블럼에는 태극 문양도 함께 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘尹 접견 특혜’ 與 비판 잇따르자… 법무부, 서울구치소장 전격 교체</title>
