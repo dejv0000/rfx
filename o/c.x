@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘브레이크 없는 픽시’ 타다 중학생 사망… 경찰 개학기 단속 강화</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 03:41:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCERUBPHPZOM3DSYENJHUVV25A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;승합차와 자전거가 충돌한 교통사고 현장. 기사 내용과 무관한 참고사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 최근 청소년층을 중심으로 제동장치를 제거한 픽시자전거를 도로에서 운행하는 사례가 확산되고 있다며, 이를 도로교통법 제48조 제1항에 따른 ‘안전운전 의무 위반’으로 보고 개학기부터 현장 계도 및 집중 단속을 실시한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;픽시자전거는 페달과 뒤바퀴가 고정된 구조 탓에 역회전을 통해 속도를 줄이는 방식으로 운행되지만, 일부 이용자가 속도감을 즐기기 위해 브레이크를 제거한 채 ‘스키딩’ 등 급제동 기술을 도로에서 시연하면서 사고 위험이 높아지고 있다.&lt;br&gt;&lt;br&gt;사망 사고도 발생했다. 경찰에 따르면 지난달 12일 서울의 한 이면도로에서 중학생이 브레이크 없는 픽시자전거를 타고 내려오다 제동하지 못하고 에어컨 실외기를 충격해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;실제 자전거 사고는 꾸준히 증가 추세다. 경찰청 교통안전과에 따르면, 지난해 자전거 교통사고는 5571건으로 전년 대비 8.3% 증가했으며 사망자도 75명으로 전년 대비 19.0% 늘었다. 부상자 역시 6085명으로 8.6% 증가했다. 특히 18세 미만 사고 비율은 전체의 26.2%(1461건)를 차지해 사고 4건 중 1건 이상이 청소년에게서 발생한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이번 개학기에 중·고교 주변 통학로와 자전거도로에 교통경찰을 배치해 브레이크가 없는 픽시자전거를 타고 도로 및 인도를 주행할 경우 정지시켜 계도 후 단속할 예정이다. 주말과 공휴일에는 자전거 동호회 활동이 활발한 구간을 중심으로 집중 단속을 병행한다.&lt;br&gt;&lt;br&gt;단속 시 일반 운전자는 즉결심판 청구 대상이며, 미성년자(18세 미만)는 부모 통보 및 경고 조치를 실시하되, 반복 위반 시에는 아동복지법상 방임 혐의로 보호자를 처벌할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남친 사귀려면 내 허락 받아” 서울대 갑질 교수…대법 “해임 정당” </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/JPE3RPQCLZDUNMAGMH3C3ARPLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/JPE3RPQCLZDUNMAGMH3C3ARPLI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 03:27:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NRIRZMCKFJZRBJRV6IX5NEDRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학원생에게 “남자친구를 사귀려면 허락을 받으라” “내 면전에서 다른 교수에게 깍듯이 하지 마라”고 하는 등 갑질과 성희롱을 했다는 이유로 해임된 서울대 교수가 해임을 취소해달라며 소송을 냈지만 대법원에서 최종 패소했다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 대법원 3부(주심 노경필 대법관)는 A씨가 서울대의 해임 처분을 취소해달라는 청구를 기각한 교원소청심사위원회 결정에 불복해 낸 소송 상고심에서 “해임은 타당하다”고 판결했다.&lt;br&gt;&lt;br&gt;2011년 9월부터 서울대 서어서문학과 교수로 근무하던 A씨는 대학원생 성추행과 갑질, 논문 중복 게재 등 연구 부정을 사유로 서울대에서 2019년 8월 해임됐다. 서울대 인권센터 조사에 따르면 A씨는 2016년 자신이 지도하는 대학원생에게 “남자친구를 사귀려면 허락을 받아야 한다” “남자친구와 1박2일 여행을 하면 안 된다”는 등 간섭을 하고, 남자친구와 헤어진 뒤에는 왜 헤어졌는지 이유를 자세하게 말하라고 몇 개월간 추궁한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;2017년 학회 참석차 간 스페인에서 이 대학원생과 단둘이 저녁을 먹다 허벅지 안쪽 흉터를 보여달라고 한 뒤 손가락으로 만지고, 억지로 팔짱을 끼는 등 강제 추행했다는 것도 해임 사유였다. 이 일은 2019년 2월 이른바 ‘미투’ 운동 당시 피해 대학원생이 대자보를 통해 폭로하면서 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 서어서문학과 대학원생들에게 단체 이메일을 보내 “지도교수 옆에 그림자처럼 붙어서 서빙하는 등 예의에 신경써달라” “내 면전에서 다른 교수에게 깍듯이 인사하고 아부하는 언행은 삼가라”고 하고, 연구실 청소 등 강의·연구와 무관한 업무를 지시를 하기도 했다. 이밖에 논문 5편에 대해 중복 게재, 부당 공저자 표시, 인용 부정확 등 연구 부적절 행위를 한 것도 드러났다. &lt;br&gt;&lt;br&gt;A씨는 2019년 교육부 교원소청심사위에 서울대의 해임 처분을 취소해달라고 소청심사를 청구했으나 이듬해 기각되자 법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;1심에서 서울행정법원은 징계 사유 중 대학원생 허벅지를 만졌다는 강제 추행 부분이 인정되지 않는다며 A씨 손을 들어줬다. A씨는 강제추행 혐의로 기소됐는데, 당시 2심까지 증거 불충분 등으로 무죄가 선고된 점이 반영됐다. 재판부는 “가장 주된 징계사유 중 일부가 인정되지 않고 나머지 징계사유는 비위 정도가 약하거나 가벼워보인다”고 했다.&lt;br&gt;&lt;br&gt;그러나 항소심에서 서울고법은 “징계 사유 중 성추행 부분은 인정할 수 없지만 나머지 사유만으로도 해임 처분이 타당하다”며 1심을 뒤집고 A씨 패소로 판결했다. 항소심 재판부는 “A씨는 학생들의 학업과 일상을 부당하게 통제했다”며 “단체 이메일의 내용은 교수의 우월적 지위를 이용해 대학원생들에게 부당한 질책이나 의무없는 일을 강요한 ’갑질의 전형’”이라고 지적했다. 대법원도 이 판단에 잘못이 없다며 판결을 확정했다. &lt;br&gt;&lt;br&gt;한편, A씨는 같은 대학 비전임 강사가 자신의 대학 포털 계정 비밀번호를 몰래 알아내 이메일을 캡처한 것이 인권센터 조사에 사용됐다며 “위법수집 증거에 따른 해임은 중대한 절차적 위법이 있다”고 주장했다. 하지만 1·2심과 대법원은 “형사소송법에서 정한 위법수집 증거 배제 법칙이 행정소송에 그대로 적용된다고 볼 수 없다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 이승오 합참 작전본부장 피의자 첫 소환… 김용대 드론사령관도 6차 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/GK2QTFAHNZEMHIHN54NK3O4YVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/GK2QTFAHNZEMHIHN54NK3O4YVU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 03:24:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXWZU6YZIJGLVJAVLZO25G4LGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관이 17일 오전 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에 무인기 침투 의혹 등 외환 혐의 관련 조사를 받기 위해 출석하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 17일 이승오 합동참모본부 작전본부장을 피의자 신분으로 소환했다. 이 본부장은 최근 피의자로 전환된 뒤 이날 처음으로 조사를 받는다.&lt;br&gt;&lt;br&gt;특검은 이 본부장을 상대로 지난해 10~11월 ‘평양 무인기 침투 작전’이 군의 지휘 계통을 거쳤는지 등을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;특검은 윤석열 전 대통령이 비상계엄 선포 명분을 쌓기 위해 합참을 건너뛰고 드론사에 직접 평양 무인기 침투 작전을 지시했는지 여부를 조사하고 있다. 정상 지휘 계통을 거치지 않은 위법 지시가 있었는지 여부가 주요 쟁점이다.&lt;br&gt;&lt;br&gt;앞서 특검은 이 본부장을 직권남용 권리행사 방해와 허위 공문서 작성 등 혐의 피의자로 전환하고, 지난 8일 이 본부장의 자택과 사무실 등을 압수 수색했다.&lt;br&gt;&lt;br&gt;특검은 이 본부장의 압수 수색 영장에 “지난해 10월 8일, 10회에 걸쳐 북한에 무인기를 침투시켰다”는 내용을 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이런 가운데 특검은 이날 김용대 드론작전사령관도 불렀다. 김 사령관이 특검 조사를 받는 것은 이번이 여섯 번째다.&lt;br&gt;&lt;br&gt;김 사령관은 지난해 10월 15일 부하 직원들로 하여금 무인기 1대만 띄우고도 2대를 띄운 것처럼 내부 문서를 꾸미게 한 혐의를 받고 있다. 북한에 투입한 무인기 1대가 추락하자, 이를 훈련 과정에서 분실된 것처럼 허위 보고서를 작성하게 했다는 것이다.&lt;br&gt;&lt;br&gt;특검은 김 사령관을 상대로 제기된 의혹 전반을 재확인한 뒤 영장 재청구 여부를 검토할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마포구 창전동 아파트 화재로 母子 사망, 13명 부상...父 “우리 아들 못 봤냐” </title>
+      <link>https://www.chosun.com/national/incident/2025/08/18/TXSWSL47XRFJLMWI3QOSTRWCKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/18/TXSWSL47XRFJLMWI3QOSTRWCKQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:28:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CZTKSDDGBJZ5OSPT4LVSJG4FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 마포구 창전동의 한 20층짜리 아파트 14층에서 화재가 발생해 소방대원들이 진화 작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 창전동 한 아파트에서 불이 나 2명이 숨지고 13명이 다쳤다. 사망자들은 모자 관계로 알려졌다.&lt;br&gt;&lt;br&gt;소방은 17일 오전 8시 11분쯤 서울 마포구 창전동 삼성아파트 14층에서 화재가 발생했다는 신고를 접수해 출동했고, 8시 16분 대응1단계를 발령했다. 현장에는 소방인력 186명을 포함해 총 252명이 투입됐다. &lt;br&gt;&lt;br&gt;사망한 20대 남성과 60대 남성은 모자 관계로 알려졌다. 아들은 현장에서 사망했고 어머니는 심폐소생술(CPR)을 받으며 병원으로 옮겨졌으나 숨졌다. 자력 대피한 아버지는 이웃 주민들을 붙잡고 “우리 아들 못 봤냐”며 가족을 찾아다닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 주민 13명이 화상과 연기흡입 등의 부상을 입고 병원에서 치료 중이며, 주민 89 명이 대피하기도 했다.&lt;br&gt;&lt;br&gt;화재가 발생한 이 아파트 14층에는 스프링클러가 설치되지 않은 것으로 알려졌다. 이 아파트가 완공된 1998년에는 16층 이상 공동주택의 경우 16층 이상 층에만 스프링클러 설치가 의무였다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 10시 42분 화재를 완진하고 구체적인 화재 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘15명 사상’ 제기동 다세대주택 방화범 결국 구속...“도망할 염려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/YIBOGY2N6FD3ZG5CUV76ZCP5YQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/YIBOGY2N6FD3ZG5CUV76ZCP5YQ/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 03:12:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSWGIQWNJM2H2DFCUOEONYM2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 제기동 다세대주택에 불을 질러 15명의 사상자를 낸 30대 남성이 결국 구속됐다. 서울북부지법 원정숙 부장판사는 지난 16일 오후 현주건조물방화치사상 혐의를 받는 30대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 밤 11시 52분쯤 제기동 4층짜리 다세대주택 주차장에서 불을 지른 혐의를 받고 있다. 이 화재로 1명이 숨지고 14명이 다쳤다. 건물 주변 폐쇄회로(CC)TV를 분석한 경찰은 주차장에 세워둔 폐지 리어카에서 불이 시작된 것으로 보고 있다. 범행 직후 도주한 A씨는 지난 14일 오후 5시 58분쯤 서울 성동구의 한 상가 앞에서 체포됐다. 이후 경찰은 지난 15일 밤 A씨에 대한 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;불이 난 다세대주택은 1층이 기둥으로 지탱되는 ‘필로티’ 구조였다. 필로티는 공기 유입이 쉬워 화세가 급격히 커지고, 상층부로 대피가 어려워 대형 인명피해로 이어질 가능성이 높다. 특히 해당 건물 주차장 천장은 열에 취약한 폴리카보네이트(PC) 재질로 덮여 있었고, 화재 확산을 막을 스프링클러도 설치돼 있지 않아 피해가 커졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5성급서 샤넬백·티파니 반지… 인스타에 번지는 호화 프러포즈</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/18/MKEQCXMXBZGATPA2KPCJUBU6VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/MKEQCXMXBZGATPA2KPCJUBU6VQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 01:12:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2H5ZXQFCNHOBKTV5MZ3N663XU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 온라인 커뮤니티에 올라온 '프러포즈 백' 후기./다이렉트 결혼 준비 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5성급 호텔에서 명품 브랜드 예물이나 반지를 주고받는 프러포즈가 한국 젊은 세대에게 필수 의례로 여겨지고 있다는 연구 결과가 나왔다. &lt;br&gt;&lt;br&gt;성신여대 양수진 소비자산업학과 부교수 연구팀은 ‘밀레니얼 청년들의 프러포즈 문화 속 명품의 의미에 대한 연구’라는 논문에서 이렇게 진단했다. &lt;br&gt;&lt;br&gt;연구팀이 작년 9월 1일부터 15일까지 ‘프러포즈’라는 태그가 달린 인스타그램 게시글 128건을 분석한 결과, 젊은 세대가 프러포즈 공간으로 가장 선호하는 장소는 호텔이 55건(42%)으로 가장 많았다. &lt;br&gt;&lt;br&gt;이 중 38개 게시글은 호텔 정보를 명시했으며 조사된 브랜드 19개 중 17개는 5성급 호텔이었다. 특히 서울 잠실의 시그니엘 호텔을 이용한 경우에는 ‘99층’, ‘93층’처럼 층을 표시했다. 연구팀은 “그 속에서도 등급을 나누기 위해 층수까지 게시하는 형태”라고 했다. &lt;br&gt;&lt;br&gt;프러포즈 장소로 자동차를 활용한 경우는 24건(19%)이었는데, BMW나 벤츠 등 외제차일 때만 게시물에 차 브랜드를 드러내거나 직접 언급하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;예물로 가장 많이 등장한 것은 명품 가방이었다. 총 38개의 가방 관련 게시물에서 ‘샤넬’이 19건으로 가장 비중이 높았다. 가방 다음으로 많이 등장한 예물은 목걸이였으며 브랜드로는 ‘반클리프 아펠’이 가장 많이 언급됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AG2OKA2LCNBORHAT635B6EN7UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'밀레니얼 청년들의 프러포즈 문화 속 명품의 의미에 대한 연구' 논문에 제시된 호텔 프러포즈 SNS 게시글./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 현대 프러포즈의 상징인 다이아몬드 반지를 실제로 노출해 과시하는 사례는 적은 편이었다. 조사한 게시물 중 87개(68%)는 다이아몬드 반지 실물을 아예 싣지 않았으며, 이 경우 반지 대신 명품 브랜드의 반지 박스를 간접적으로 드러낸 게시물이 12건이었다. &lt;br&gt;&lt;br&gt;반지 사진을 노출한 게시물은 38개로, 이 중 가장 많이 언급된 브랜드는 티파니앤코(16개)였다. &lt;br&gt;&lt;br&gt;연구팀은 “한국의 최근 웨딩 프러포즈에선 다이아몬드 반지보다는 가방이나 다른 잡화들이 더욱 눈에 띈다”며 “서구에서 중요한 다이아몬드 반지가 한국 밀레니얼에게 그 중요성이 떨어지는 이유는 명품 브랜드 다이아몬드 반지 가격이 너무 비싸기 때문이다. 티파니앤코의 다이아몬드 약혼반지의 가격은 7000만원 이상 수준”이라고 했다. 이어 “다이아몬드 반지보다는 명품 브랜드를 인스타그램에 과시하는 것이 중요한 밀레니얼들에게 7000만원짜리 반지 하나와 작은 포장재는 가격 대비 과시적 효과가 적은 것”이라고 분석했다. &lt;br&gt;&lt;br&gt;이런 프러포즈는 밀레니얼 세대 사이에서 관습으로 자리 잡은 모습이다. 한국리서치의 ‘2025년 결혼 인식 조사’에 따르면 응답자 1000명 중 45%가 ‘프러포즈 이벤트’가 필요하다고 답했다. 다수가 미혼인 18∼29세에서는 55%로 30대(47%), 40대(39%) 등 타 연령대보다 높았다. &lt;br&gt;&lt;br&gt;연구팀은 과시적 소비를 미화하는 콘텐츠에 대해 비판적 수용 능력을 기르는 SNS 리터러시(문해) 교육이 필요하다고 제안했다. 이와 함께 사회 초년생과 예비 신혼부부가 건강한 결혼 관습과 재무적 안정성을 확보하도록 돕는 ‘공공 결혼 준비 교육’ 정책을 도입해야 한다고 주장했다. 이 논문은 소비자정책교육연구 2025년 6월호에 실렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 김건희 측근 김예성 18일 소환...구속 후 첫 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/OE23PUYB5NHH5NCGAY4XHXCEDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/OE23PUYB5NHH5NCGAY4XHXCEDA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:52:21 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 지난 15일 구속된 김 여사 측근 김예성씨를 18일 소환 조사할 예정이다. 구속 후 첫 조사다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTDLEE42ZEFGMM3QJVKARBTU4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 측근으로 알려진 김예성씨가 12일 서울 종로구에 마련된 김건희 특검팀 사무실로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 17일 언론 공지를 통해 “구속 피의자 김예성씨를 18일 오전 10시에 소환했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 15일 구속됐다. 서울중앙지법 임정빈 판사는 특정경제범죄가중처벌법 위반(횡령) 혐의를 받는 김씨에 대한 영장실질심사를 진행한 뒤 구속영장을 발부했다. 임 판사는 김씨가 증거를 인멸할 염려와 도망할 염려가 있다고 설명했다.&lt;br&gt;&lt;br&gt;김씨는 자신이 설립에 참여하고 지분을 가진 렌터카업체 IMS모빌리티의 자금 총 33억8000만원을 횡령한 혐의를 받는다. IMS모빌리티는 2023년 카카오모빌리티, HS효성 등 기업들로부터 184억원을 투자 받았는데, 이 중 46억원은 이노베스트코리아라는 벤처기업이 김씨로부터 양도받아 보유하던 IMS모빌리티 구주를 사들이는 데 사용됐다. 이노베스트코리아는 김씨와 관련된 회사로, 김씨의 아내 정모씨가 유일한 사내이사로 등재돼있다.&lt;br&gt;&lt;br&gt;김씨는 이에 대해 46억원 중 이노베스트코리아 명의로 24억3000만원, 개인 명의로 11억원을 조영탁 IMS모빌리티 대표에게 빌려줬다고 해명했다. 하지만 특검은 김씨가 조 대표에게 빌려준 금액을 포함해 총 33억여원을 횡령한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;김씨는 지난 4월 베트남으로 출국한 뒤 특검의 출석 요구에 불응해오다 여권이 만료되기 하루 전인 지난 12일 인천공항으로 귀국했다. 특검은 영장심사에서 김씨가 도피성 출국을 했고 여권 만료 직전 귀국한 점을 강조하며 도주할 우려가 있다고 주장한 것으로 알려졌다. 김씨는 자녀 교육 문제로 출국한 것이며 도주 의사가 없다고 반박했다. 김씨 측은 특검이 특검법상 수사 대상이 아닌 별건 수사를 벌이고 있다는 주장도 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 특검은 18일 김 여사에 대한 구속 후 두 번째 소환 조사를 진행할 예정이다. 같은 날 ‘건진 법사’ 전성배씨에 대한 소환 조사도 진행된다. 전씨는 통일교(현 세계평화통일가정연합) 전 세계본부장 윤영호씨로부터 김 여사에게 전달해달라며 6000만원대 그라프 다이아몬드 목걸이, 1000만원 상당의 샤넬백 등을 전달 받은 인물이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 계곡서 물놀이 사고 잇따라…1명 사망·1명 심정지</title>
+      <link>https://www.chosun.com/national/regional/2025/08/18/A2WCM37HPRCUVAD7REAJMP7HWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/18/A2WCM37HPRCUVAD7REAJMP7HWE/</guid>
+      <dc:creator>산청=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:47:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCCGQPG6DT6N32G55XTIW2SLGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급대 출동 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 경남에서 물놀이 사고로 1명이 숨지고 1명이 심정지 상태로 병원에 이송됐다.&lt;br&gt;&lt;br&gt;17일 경남소방본부에 따르면 전날 오후 4시 33분쯤 경남 산청군 시천면 한 계곡에서 ‘물놀이를 하던 30대 A씨가 보이지 않는다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;A씨는 일행 등이 발견해 심정지 상태로 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 급류에 휩쓸린 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;같은 날 오후 5시 58분쯤 양산시 상북면 한 계곡에서도 ‘사람이 물에 빠졌다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;물에 빠진 50대 B씨는 심정지 상태로 일행 등이 구조해 병원에서 치료받고 있지만, 아직 의식을 회복하진 못한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 사저에 남겨진 반려동물 11마리… 金여사 측근이 돌본다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/18/RNVW4VWQN5DZHNPHI5NQY4CZ2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/RNVW4VWQN5DZHNPHI5NQY4CZ2A/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:37:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SV7KKR3T4FBRJAMIZJ5AB2WILA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부부가 2022년 12월 24일 경기 용인의 삼성화재 안내견 학교에서 강아지들과 함께 사진 촬영을 하고 있다. 윤 전 대통령 부부는 이날‘새롬이’란 이름의 은퇴 안내견 1마리를 분양받았다. /대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령과 배우자 김건희 여사가 모두 구속되면서, 부부가 데리고 있던 반려동물 11마리에 대한 관심이 높아지고 있다. 김 여사를 보좌했던 측근이 맡아 돌보는 중이라고 한다.&lt;br&gt;&lt;br&gt;16일 본지 취재를 종합하면, 윤 전 대통령 부부가 살던 서울 서초구 아크로비스타에 머무르고 있는 강아지 6마리와 고양이 5마리는 김 여사를 지근거리에서 보좌했던 대통령실 행정관 출신 측근이 사저를 오가면서 돌보고 있다.&lt;br&gt;&lt;br&gt;자녀가 없는 윤 전 대통령 부부는 서울 용산구 한남동 관저에서 반려동물들을 길렀는데, 지난 4월 헌법재판소 결정으로 윤 전 대통령이 탄핵됐을 때 모두 사저로 데려왔다. 법원의 구속 취소로 석방됐던 때인 지난 5월에는 반려견을 데리고 서울한강공원에서 산책하는 모습이 포착되기도 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 부부의 반려동물 사랑은 익히 알려진 바 있다. 윤 전 대통령은 지난 1월 고위공직자범죄수사처에 체포될 당시에도 “강아지를 한 번 봐야지”라는 말과 함께 잠시 자리를 비우고 반려견이 있는 2층 방으로 홀로 올라가 10여 분간 시간을 보냈다. 이 방에는 김 여사도 있었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광복절 기념사 논란에 김형석 독립기념관장 “내용 왜곡” 반박</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/18/N3L6QBDVBZFABHXIPLTSOW6KEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/18/N3L6QBDVBZFABHXIPLTSOW6KEE/</guid>
+      <dc:creator>천안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:13:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YGVMBD7Z2IUFIGT5AV5CCEXY64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김형석 독립기념관 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김형석 독립기념관장이 광복 80주년 기념사 논란과 관련해 사실과 다르게 왜곡 보도됐다며 반박하고 나섰다.&lt;br&gt;&lt;br&gt;김형석 독립기념관장은 17일 반박 보도자료를 통해 “광복절 기념사 내용은 광복을 바라보는 우리 사회의 상반된 시선을 지적하고 국민 통합을 강조한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;김 관장은 “기념사에서 ‘광복을 세계사적 입장에서 보면 연합국의 승리로 광복이 되었다’고 주장하는데 함석헌은 ‘뜻으로 본 역사’에서 ‘8∙15 해방은 하늘이 준 떡’이라고 표현했다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 김 관장은 “그러나 이런 해석은 ‘항일 독립전쟁의 승리로 광복을 쟁취했다’라는 민족사적 시각과 다른 것이라고 지적하면서 3·1운동과 임시정부의 독립투쟁을 구체적으로 밝혔다”고 했다. &lt;br&gt;&lt;br&gt;그는 “그런데 일부 언론에서는 뒷부분은 모두 빼버린 채 ‘연합국의 승리로 광복이 되었다’는 인용 부분만 발췌해 내용을 왜곡 보도했다”고 했다.&lt;br&gt;&lt;br&gt;김 관장은 또 윤봉길 의사의 유언을 폄훼했다는 지적에 대해서 “기존 윤봉길 의사의 유언을 축약해 ‘24살의 젊은 청년 윤봉길이 조국 독립을 위하여 자기 목숨을 희생하면서도 두 아들은 과학자가 되길 소망했다’고 소개했다”면서 “윤봉길 의사의 독립 정신과 더불어 휴머니즘을 강조한 것”이라고 했다. &lt;br&gt;&lt;br&gt;김형석 관장의 기념사가 알려지자 김병기 더불어민주당 원내대표는 16일 자신의 소셜미디어(SNS)를 통해 “순국선열을 욕보인 자는 이 땅에 살 자격조차 없다”면서 “즉시 파면해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“희귀병 치료비 빚에”…포천농협 직원, VIP 고객 집 털다</title>
+      <link>https://www.chosun.com/national/incident/2025/08/18/HGP5JA7H35BYFDT7V366TSTMJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/18/HGP5JA7H35BYFDT7V366TSTMJQ/</guid>
+      <dc:creator>포천=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 02:05:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHXOU4IT45NN3OBKJWP7FQB5NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 경기 의정부시 가능동 의정부지방법원에서 강도상해 혐의로 구속영장이 청구된 30대 농협 직원 A씨가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포천농협 소속 직원이 VIP 고객의 집에 침입해 강도 범행을 벌인 배경에는 희귀병 치료비로 인한 빚과 가족 문제 등이 있었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;17일 경찰에 따르면 강도상해 혐의로 구속 송치된 포천농협 A지점 직원 B(39)씨는 약 1억4000만원의 빚을 지고 있었던 것으로 파악됐다. 대부분 신용대출 등 금융권 대출이었다. 도박이나 불법 행위가 아닌 병원 치료비와 생활비에서 비롯됐다.&lt;br&gt;&lt;br&gt;A씨는 과거 육군 특수부대에서 복무하던 중 부상으로 희귀병 증세를 얻어 만성 통증에 시달려왔다고 한다. 마약성 진통제 처방을 받으며 치료를 이어갔으나, 병원비 부담과 부모 부양 등 가정사까지 겹치며 생활이 파탄 지경에 이르렀다. 경찰은 이 같은 복합적 요인이 범행을 부른 것으로 보고 있다.&lt;br&gt;&lt;br&gt;특수부대 출신답게 범행 수법도 치밀했다. A씨는 지난달 28일 새벽 포천시 어룡동의 한 아파트 3층에 외벽을 타고 올라가 방충망을 뜯고 침입했다. 그는 VIP 고객이던 80대 부부를 케이블타이로 묶고 흉기로 위협한 뒤, 귀금속 70돈과 현금 2000만원 등을 빼앗아 달아났다.&lt;br&gt;&lt;br&gt;경찰은 보안카메라를 추적해 A씨가 농협 직원임을 특정했고, 지점 창구에서 근무 중이던 그를 긴급체포했다. 체포 당시 가방에서는 귀금속이, 계좌에서는 피해자 현금이 발견했다. 피해자 부부는 포천 지역 농협에 수억원을 예치한 VIP 고객으로, 이달 초 약 3억원을 인출했다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 건강 문제 등을 고려해 구속된 지 5일 만에 사건을 검찰에 넘겼다. 추가 범행 정황은 발견되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>주차장 입구에 누워있던 취객 차에 치여 참변… 60대 운전자 긴급체포</title>
       <link>https://www.chosun.com/national/national_general/2025/08/18/CFBPZQ4G5VD4JCCWQS55AAEZEQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/CFBPZQ4G5VD4JCCWQS55AAEZEQ/</guid>
@@ -897,69 +996,6 @@
       <content:encoded>법무부가 윤석열 전 대통령이 수감 중인 서울구치소장을 14일 전격 교체했다. 그동안 윤 전 대통령은 특검 조사를 거부하면서 단독으로 변호인 접견을 해왔다. 이를 두고 여권에서 “다른 수용자와 비교할 수 없는 특혜”라는 비판이 나왔다. 법무부가 이 같은 지적을 바탕으로 문책성 인사를 한 것으로 보인다.&lt;br&gt;&lt;br&gt;법무부는 이날 “금일 서울구치소장 교체를 위한 고위 공무원(나급) 2명에 대한 인사를 오는 18일 자로 단행했다”고 밝혔다. 김현우 현 서울구치소장을 안양교도소장으로 보내고, 신임 서울구치소장에 김도형 수원구치소장을 임명한 것이다.&lt;br&gt;&lt;br&gt;법무부는 “이번 인사는 그간 윤 전 대통령의 수용 처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난달 10일 법원이 내란 특검이 청구한 구속영장을 발부하면서부터 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동·목욕을 다른 수용자들과 따로 하게 했고, 별도의 공간에서 변호인을 접견하도록 허용해 왔다.&lt;br&gt;&lt;br&gt;이런 상황에서 윤 전 대통령이 김건희 특검의 체포영장 집행에 불응하면서 구치소 측의 특혜 논란이 불거졌다. 특검은 지난 1일과 8일 두 차례 윤 전 대통령에 대한 강제 구인에 실패하자 “수용자의 신병을 관리하는 교정 당국이 특검의 강제 인치 지휘에 협조하지 않는다”고 비판한 바 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 또 지난 1월 강의구 전 대통령부속실장과 접견할 때 강 전 실장으로부터 휴대전화를 빌려 썼다는 의혹이 제기돼 법무부가 진상을 조사 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;더불어민주당 3대특검종합대응특별위원회는 지난 1일 “윤석열의 전체 구속 기간에 변호인 등을 접견한 시간은 모두 395시간 18분이며 접견 인원은 348명에 이른다. 395시간은 일수로 치면 16일이 넘는다”면서 “구치소 내에서 장시간의 접견을 통해 편안한 수용 생활을 누리는 등 각종 특혜가 있었음을 확인했다”고 밝혔다. 이에 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공 중단을 통보했다.&lt;br&gt;&lt;br&gt;한편 실명(失明) 위험으로 외부 병원에서 두 차례 진료를 받은 윤 전 대통령은 진료를 받는 동안 수갑과 전자발찌를 착용했던 것으로 확인됐다. 교정 당국 관계자는 “특혜 시비를 사전에 차단하기 위해 다른 수용자들처럼 똑같이 조치했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 강종주 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/15/ROZ6LNSETJD5DKJ7NUG6EMY2QA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/15/ROZ6LNSETJD5DKJ7NUG6EMY2QA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;강종주 &lt;/b&gt;별세,&lt;b&gt; 최진일&lt;/b&gt; 이마트24 대표 장인상=13일13시 경남 진주 한일병원, 발인 16일7시, (055)756-9009&lt;br&gt;&lt;br&gt;▲&lt;b&gt;진은식&lt;/b&gt; 별세, &lt;b&gt;진명난&lt;/b&gt;·&lt;b&gt;진영란&lt;/b&gt;·&lt;b&gt;진형배&lt;/b&gt;·&lt;b&gt;진형재&lt;/b&gt; 부친상, &lt;b&gt;이기출&lt;/b&gt; 조선일보 CS메트로팀 남오산센터 대표 장인상=14일8시5분 경기 오산장례문화원, 발인 16일0시, (031)375-1100&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>8월의 재외동포 이의경 지사</title>
-      <link>https://www.chosun.com/national/people/2025/08/15/37TQPM3KHNDEPHBLIT5DOQEPFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/15/37TQPM3KHNDEPHBLIT5DOQEPFY/</guid>
-      <dc:creator>김동하 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2OEGATB6BESFH5WHO4ACYCLHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유럽에서 문학을 통해 조국의 독립을 알린 고(故) 이의경 지사가 8월 ‘이달의 재외동포’로 선정됐다고 재외동포청이 14일 밝혔다. &lt;br&gt;&lt;br&gt;1899년 황해도 해주에서 태어난 이 지사는 경성의학전문학교(현 서울대 의과대) 재학 중 1919년 3·1운동에 참여했다. 대한청년외교단 편집부장을 맡아 외교시보, 국치기념경고문 등 선전물을 발간했다. 이후 일제 탄압을 피해 상하이로 망명했고, 프랑스를 거쳐 독일로 건너가 독립운동을 이어갔다. 1928년 독일 뮌헨대학에서 동물학 박사 학위를 받았다. &lt;br&gt;&lt;br&gt;이 지사는 자신의 어린 시절과 3·1운동 참여, 망명 과정 등을 자전적 형식으로 담아 1946년 장편소설 ‘압록강은 흐른다’를 독일어로 출간했다. 이 소설은 인간성 상실의 상황에서도 지켜낸 인간 내면의 순수성과 가족애 등을 다뤄 전후(戰後) 상실감에 빠져 있던 독일인들에게 위안과 희망을 주며 큰 반향을 일으켰다. 독일의 한 잡지는 당시 ‘올해 독일어로 쓰인 가장 훌륭한 책’으로 이 소설을 선정했고, 이후 독일 교과서에도 수록돼 우리 민족의 삶과 한국의 정서를 독일 현지에 전파했다는 평가를 받았다. &lt;br&gt;&lt;br&gt;1948년부터 자신의 모교 뮌헨대학 동양학부에서 한국학과 동양철학을 가르치던 그는 1950년 3월 위암으로 별세했다. 1963년 대통령표창, 1990년 건국훈장 애족장을 받았다. 정부는 2024년 11월 독일 그래펠핑에 안장돼 있던 그의 유해를 국내로 봉환해 국립대전현충원에 안장했다. &lt;br&gt;&lt;br&gt;재외동포청은 “이 지사는 3·1운동의 함성을 유럽까지 이어갔으며 문학을 통해 조국과 민족의 위대함을 세계에 알린 인물”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 칠곡서 60대 여성 열차에 치여 숨져</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/08/15/FJNBG2TEOBCVLK5I6J25WQTDMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/08/15/FJNBG2TEOBCVLK5I6J25WQTDMU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 13:53:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡에서 60대 여성이 열차에 치여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;14일 오후 8시 34분쯤 경북 칠곡군 왜관역 인근 경부선 선로에서 구미 방향으로 가던 대경선(대구·경북선) 열차에 60대 여성 A씨가 치여 숨졌다.&lt;br&gt;&lt;br&gt;이 사고로 대경선 열차 2편과 일반열차 1편 운행이 10∼20분 지연됐다. 열차는 사고 발생 35분 만에 운행을 재개했다. 경찰 조사 결과 A씨는 가족으로부터 실종 신고가 접수된 상태였던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘로보캅’으로 변신하는 환경미화원</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/4TFHITKCCNH6LMJWMXHDDE5N24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/4TFHITKCCNH6LMJWMXHDDE5N24/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 13:40:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFCK64FGJJE3PELWBY5MZRSDPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오언석 서울 도봉구청장이 지난 5월 15일 ‘웨어러블(입는) 로봇’을 입고 쓰레기를 청소차에 옮기고 있다. /도봉구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도봉구가 환경미화원에게 ‘웨어러블(wearable·입는) 로봇’을 보급하는 사업을 추진한다. 장애인이나 노인 등을 위해 개발된 웨어러블 로봇을 환경미화원에게도 보급하는 것이다. 웨어러블 로봇은 모터와 인공지능(AI) 센서, 로봇 팔 등이 달린 옷이다.&lt;br&gt;&lt;br&gt;허리나 허벅지를 감싼 로봇 팔이 사람의 움직임을 인식해 밀어주기 때문에 무거운 물건도 쉽게 들어 올릴 수 있다. 오래 걸어도 덜 힘들다.&lt;br&gt;&lt;br&gt;도봉구는 지난 8일 국내 로봇 업체 4곳의 제품을 놓고 시연회도 열었다. 무거운 물건을 들 때 활용할 수 있는 ‘허리 보조’ 로봇과 걸을 때 힘이 덜 드는 ‘보행 보조’ 로봇을 우선 도입할 예정이다.&lt;br&gt;&lt;br&gt;허리 보조 로봇은 복대처럼 허리를 감싸 허리와 하체 근력을 보조해준다. 23년 차 환경공무원 전동식(52)씨는 “허리 보조 로봇을 입고 쓰레기 수거 차량에 무게 20kg 폐가구를 실었는데 평소보다 힘이 절반밖에 들지 않았다”며 “로보캅이나 아이언맨이 된 기분”이라고 했다. &lt;br&gt;&lt;br&gt;보행 보조 로봇은 로봇 팔이 허벅지를 들어 올려준다. 환경공무원 김수훈(41)씨는 “보행 보조 로봇을 입어보니 마치 몸에 스프링이 달린 것처럼 걸을 때 허벅지를 통통 끌어올려주는 느낌이 들었다”고 했다. 도봉구 관계자는 “거리 청소 일을 할 때는 하루에 10㎞는 걸어야 하는데 보행 보조 로봇을 입으면 힘이 20% 정도 덜 든다”고 했다. &lt;br&gt;&lt;br&gt;1대당 가격은 대략 300만원 수준이다. 무게는 1.5㎏ 안팎이다. 도봉구는 올해 4대를 우선 도입해 활용해 본 뒤 추가로 도입한다는 계획이다.&lt;br&gt;&lt;br&gt;오언석 도봉구청장은 “환경미화원은 고령자가 많은데 무릎, 허리 등 부상을 줄일 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울 금천구와 구로구도 웨어러블 로봇을 구입해 시범 운영하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼성·LG는 안 되는데 샤오미는 된다?… 소비쿠폰 형평성 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/GVM47IJGARBU7B66C7IP5UXDHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/GVM47IJGARBU7B66C7IP5UXDHU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 11:57:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKO23REK2QQMOTX7FJEVXPPPHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;샤오미 미 스토어 서울 IFC몰 여의도점 전경. /샤오미코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 매출 70조원 이상의 중국 가전 회사 샤오미 국내 직영 매장에서 한동안 소비쿠폰이 사용 가능했다는 점이 알려지면서 논란이 일었다. 이와 관련, 행정안전부는 소비쿠폰 사용처를 연 매출 30억원 이하 매장으로 일률적으로 적용하는 과정에서 불거진 일이라고 해명했다. 샤오미가 지난 6월 국내 매장을 처음 오픈해 제한 업종 지정이 늦어졌다는 것이다. &lt;br&gt;&lt;br&gt;행안부는 13일 설명자료를 통해 “샤오미 직영 매장이 올해 6월 28일에 입점했고, 그 이후 신용카드 가맹점으로 등록됨에 따라 사전에 제한 업종으로 조치하기 어려웠다”며 “금일 즉시 조치하여 샤오미 직영 매장을 사용처에서 제외했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 온라인 등에서는 중국 빅테크 대기업인 샤오미 국내 매장에서 소비쿠폰이 사용 가능하다는 점이 알려지면서 형평성 논란이 불거졌다. 연매출 70조원이 넘는 외국계 기업이 소비쿠폰 사용 가능처로 지정된 건 국내 소상공인 및 자영업자 매출 확대라는 정책 취지에 맞지 않는다는 지적이다. 네티즌들은 “한국 삼성·LG나 미국 애플은 사용 못하게 막고 중국 샤오미는 소비쿠폰 사용 가능한 게 맞나” “취지가 내수 활성화면 외국 기업은 배제해야 하는 것 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;이미 정부는 소비쿠폰 사용처 제한 매장으로 대형 외국계 매장, 대형 전자제품 판매점 등을 명시하고 있다. &lt;br&gt;&lt;br&gt;다만 이번 샤오미 사례는 신규 매장이 신용카드 가맹점으로 등록된 이후, 소비쿠폰 사용처를 연매출 30억원 이하 매장으로 일률적으로 적용하는 과정에서 불거진 것으로 파악됐다. 샤오미코리아가 지난 6월 한국 오프라인 공식 매장을 처음 오픈해 작년 매출이 잡히지 않아 소비쿠폰 사용 기준을 충족하게 됐고, 이후 업종 기준으로 소비쿠폰 제한 매장을 걸러내는 과정에서 샤오미가 필터링되지 않은 것으로 보인다. &lt;br&gt;&lt;br&gt;행안부 조처에 따라 앞으로 국내 샤오미 직영 매장에서는 소비쿠폰 사용이 불가능하다. 행안부는 이런 일이 반복되지 않도록 사용처 관리를 더욱 꼼꼼히 하겠다는 입장이다. 행안부는 “앞으로 소비쿠폰이 지역경제･골목상권 회복을 위한 ‘가치 소비’로 이어질 수 있도록 사용처 관리에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>계엄 가담 의혹 해경 간부...해경청 ‘대기발령’</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/15/TZMRUIRMGND2ZIMDMPKZKBKRDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/15/TZMRUIRMGND2ZIMDMPKZKBKRDA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 13:41:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청 전경. /해경청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담했다는 의혹이 제기된 안성식 본청 기획조정관이 직무에서 배제됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 14일 보도자료를 통해 “안 조정관의 정상적인 직무 수행이 곤란하다고 보고 대기발령 조치했다”고 밝혔다. &lt;br&gt;&lt;br&gt;안 조정관은 계엄 사태 당시 파출소 청사 방호를 위한 총기 휴대 검토와 계엄사 수사 인력 파견 등을 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 계엄 사범을 수용하기 위해 유치장을 비우라고 지시한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;안 조정관은 윤석열 전 대통령과 같은 충암고 출신이다. &lt;br&gt;&lt;br&gt;본청 형사과장으로 재임하던 2022년 3월, 해경 출신으로는 처음 대통령직 인수위원회에 파견됐다.&lt;br&gt;&lt;br&gt;이후 2023년 총경에서 경무관으로, 지난해에는 치안감으로 2년 사이 두 계급 승진했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정읍 공장 에어탱크 폭발로 치료 받던 50대 숨져</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/08/15/NXPUW6RVFVBTFGFZH5CRYP5FVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/15/NXPUW6RVFVBTFGFZH5CRYP5FVQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 13:11:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 전북 정읍의 한 공장 에어탱크 폭발로 다쳐 치료중이던 50대 근로자가 사망했다. &lt;br&gt;&lt;br&gt;14일 정읍경찰서에 따르면 당시 사고로 얼굴 등을 크게 다쳐 병원에서 치료받던 50대 근로자 A씨가 사고 15일 만인 이날 오후 7시 40분쯤 숨졌다.&lt;br&gt;&lt;br&gt;앞서 지난달 30일 오전 11시 14분쯤 정읍시 북면의 한 필터 생산공장에서 시험 가동 중인 에어탱크가 폭발해 A씨 등 2명이 중상을 입는 등 모두 6명이 다쳤다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 실명 위험에 병원 간 尹, 수갑·전자발찌 찼다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/YYMXQCV7NFB37EB4JC24GPZMQQ/</guid>
@@ -967,50 +1003,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 11:51:51 +0000</pubDate>
       <content:encoded>실명 위험으로 외부 병원에서 진료를 두 차례 받은 윤석열 전 대통령이 진료를 받는 동안 수갑과 전자발찌를 착용했던 것으로 14일 확인됐다. 교정당국 측은 “특혜 시비를 사전에 차단하기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOJIAFFZXIBSXD5EZBN7OQCIZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 5일 오후 서초구 서울고등검찰청에서 내란특검 2차 대면조사를 받은 뒤 청사를 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤 전 대통령은 지난 13일과 이날 경기 안양시에 있는 한림대성심병원에서 안과 진료를 받을 때 이 같은 조치를 받은 상태였다고 한다. 교정당국은 구속 피의자가 진료 등 이유로 구치소 밖에 잠시 나갈 때 이러한 조치를 취한다고 설명했다. 최근 윤 전 대통령을 둘러싸고 변호인 단독 접견 등 특혜가 제공되고 있다는 비판이 이어지는 점을 의식한 것이 아니라, 다른 수용자들과 똑같은 기준을 적용했다는 얘기다.&lt;br&gt;&lt;br&gt;한편 법무부는 이날 윤 전 대통령이 수감된 서울구치소장을 교체했다고 밝혔다. 더불어민주당 등 여권을 중심으로 ‘윤 전 대통령에게만 특혜를 준다’는 비판이 제기되면서 문책성 인사를 시행했다는 평가가 법조계에서 나왔다.&lt;br&gt;&lt;br&gt;김현우 서울구치소장은 안양교도소장으로 이동하게 됐고, 신임 서울구치소장에는 김도형 수원구치소장이 임명됐다. 법무부는 “이번 인사는 그간 윤 전 대통령의 수용처우 등과 관련해 제기된 여러 문제에 대해 인적 쇄신이 필요하다는 판단 하에 단행된 것”이라며 “이를 통해 침체된 조직 분위기를 전환하고, 본연의 업무에 더욱 충실할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 법원이 지난달 10일 내란특검이 청구한 구속영장을 발부하면서 서울구치소 내 독방에서 수감 생활을 하고 있다. 구치소 측은 윤 전 대통령이 전직 대통령 신분인 점을 고려해 운동 시간과 목욕 시간을 다른 수용자들과 따로 가지고, 변호인 접견도 별도의 공간에서 하도록 했다.&lt;br&gt;&lt;br&gt;그러나 이를 두고 ‘다른 수용자들은 받지 못하는 특혜’라는 비판이 정치권을 중심으로 나오자, 법무부는 이날부터 윤 전 대통령 측에 단독 변호인 접견실 제공을 중단했다. 다만 교정 당국은 안전상의 우려로 운동·목욕 시간은 앞으로도 일반 수용자들과 동선을 달리 할 계획이다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로도 특혜 시비 없는 공정한 수용관리 등 엄정한 법 집행에 최선의 노력을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“10·26은 탕탕절” 최교진 교육장관 후보 글 논란</title>
-      <link>https://www.chosun.com/national/education/2025/08/15/YNAGMFJRVBFELN6YEHDEE7LHIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/15/YNAGMFJRVBFELN6YEHDEE7LHIU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 11:19:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NZ3CO2NOJKL5FIYC3S6VW44PA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자가 14일 오전 서울 영등포구 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 과거 소셜미디어에 박정희 전 대통령 저격 사건을 희화화하고, 천안함 피격 사건의 재조사가 필요하다는 취지의 글을 올려 논란이 되고 있다. &lt;br&gt;&lt;br&gt;최 후보자는 세종시교육감이던 2019년 10월 26일 페이스북에 ‘오늘을 탕탕절이라고 부르기도 한다지요? 안중근 의사가 이토 히로부미를 하얼빈역에서 쏜 날이고, 김재규가 독재자 박정희 대통령을 살해한 날이기도 하다’는 글을 올렸다. ‘탕탕절’은 박 전 대통령 피격 사건을 총소리에 빗대 희화화한 표현으로, 진보 성향 온라인 커뮤니티를 중심으로 쓰였다. 최 후보자의 해당 게시물은 현재는 내린 상태다. &lt;br&gt;&lt;br&gt;최 후보자는 ‘천안함 폭침 음모론’을 주장한 게시물도 여러 차례 공유했다. 그는 천안함 3주기인 2013년 3월 26일 페이스북에 천안함 침몰 원인에 대한 정부 발표에 의문을 제기하는 내용의 언론 기사를 공유하며 “역사적 진실을 밝히는 차원에서 천안함 문제를 접근해야 하는 것 아닐까요?”라고 썼다. 해당 게시물에 ‘천안함에 대하여 어느 누가 진실을 파헤치게 되겠습니까’라는 댓글이 달리자 최 후보자는 ‘역사는 반드시 진실을 밝혀낼 겁니다’라고 답글을 달았다. 천안함 피격이 북한의 소행이라는 정부 발표가 잘못됐다는 취지로 해석된다. 그해 12월 14일에는 ‘천안함 폭침 이유는 이스라엘 잠수함, 신상철 대표 법정 자료 제출’이라는 제목의 글을 공유했다. 인터넷 매체 대표였던 신씨는 민주당 추천으로 2010년 천안함 민군 합동조사단에 위원으로 참여했는데, ‘천안함 좌초설’ 등 음모론을 주장해 왔다. 그의 주장은 민군 합동조사단이 북한의 어뢰 공격에 의한 침몰로 공식 결론을 내리면서 허구임이 드러났다. 그런데도 최 후보자는 신 대표가 ‘천안함과 충돌해 침몰했던 이스라엘 잠수함을 건져 올려 수리한 증거가 있다’고 주장하는 글을 페이스북에 공유한 것이다. 같은 해 4월엔 천안함 좌초설, 제3국 잠수함 충돌설 등 정부 발표와 다른 주장을 제기한 다큐멘터리 영화에 대한 기사를 공유하며 “(영화를 만든) 감독과 함께하신 분들께 고맙습니다”라고 썼다.&lt;br&gt;&lt;br&gt;최 후보자는 조국 전 법무부 장관의 자녀 입시 비리가 발생한 2019년에 조 전 장관을 옹호하는 글을 여러 차례 공유하기도 했다. &lt;br&gt;&lt;br&gt;올해 72세인 최 후보자가 “70세 이상은 선출직에 출마하지 말아야 한다”고 말한 부분도 재조명되고 있다. 최 후보자는 지난달 세종시교육청 브리핑에서 ‘세종시장 출마 의사가 있느냐’는 질문에 “개인적으로 만 70세가 넘은 분들은 선출직에 출마하지 않도록 법을 만드는 것이 어떨까 생각한다”고 답했다. 장관 지명 후 “선출직은 안 되고 임명직은 괜찮은 것이냐”는 얘기가 나왔다. &lt;br&gt;&lt;br&gt;최 후보자의 음주 운전 전력에 대한 비판 목소리도 거세지고 있다. 최 후보자는 2003년 12월 음주 운전으로 벌금 200만원형을 선고받았다. 정재석 전북교사노조 위원장은 14일 페이스북에서 “교사는 5대 비위(성적 조작, 금품 수수, 횡령, 아동 폭력, 음주 운전)가 있으면 교감, 교장이 될 수 없다”면서 “음주 운전을 하면 교장은 교감으로 강등되고 교감은 교사로 강등된다. 최 후보자는 음주 운전 이력이 있어 환영하기 힘들다”고 했다. 그는 “2022년 박순애 당시 교육부 장관 후보자의 2001년 만취 상태 음주 운전 이력을 문제 삼아 지명 철회를 요청한 적 있다. (이번에도) 잣대가 달라서는 안 된다고 생각한다”며 “우리 노조 출신이라고, 교사 출신이라고, 음주 운전을 눈감아 주면 안 된다”고 했다. &lt;br&gt;&lt;br&gt;최 후보자는 이날 서울 여의도 인사청문회 준비 사무실로 첫 출근하며 “교육을 통해 매우 빠르게 변화하는 새로운 시대를 이끌어갈 수 있는 인재를 기르는 것이 가장 첫 과제”라며 “대학에서 훌륭한 인재를 잘 길러낼 수 있도록 국가에서 재원을 최대한 확보해 대학을 혁신하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5NZ3CO2NOJKL5FIYC3S6VW44PA.JPG?auth=8495dbb2574f574248dd007dc100866cd7177889a2feae236253a68a647f504b&amp;smart=true&amp;width=3974&amp;height=2865" type="image/jpeg" height="2865" width="3974">
-        <media:description type="plain">최교진 교육부 장관 후보자가 14일 오전 서울 영등포구 여의도 한국교육시설안전원에 마련된 인사청문회 사무실로 출근하고 있다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 권현진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰, ‘주식 차명거래’ 혐의 이춘석 의원 소환조사</title>
-      <link>https://www.chosun.com/national/incident/2025/08/15/T6SUGE3UTJDNXCA74TTFWTWRQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/15/T6SUGE3UTJDNXCA74TTFWTWRQQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 10:37:37 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRHPTXVSCIZGTOND7OKGKFLTLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'주식 차명거래 의혹'이 제기된 이춘석  의원 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 주식 차명 거래 의혹이 불거진 이춘석(전북 익산갑) 무소속 의원을 14일 피의자 신분으로 소환 조사했다. 이 의원은 보좌관 차모씨 명의로 주식을 거래한 혐의를 받고 있다. 이 의원은 지난 4일 국회 본회의 도중 스마트폰의 주식 거래 앱을 만지는 장면을 찍은 사진이 보도돼 파문이 일자 더불어민주당에서 제명됐고 국회 법제사법위원장직에서도 사퇴했다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 이 의원을 소환해 조사를 벌였다. 이 의원은 이날 오후 6시 45분 금융범죄수사대가 있는 마포청사로 출석했다. 경찰은 이 의원에게 보좌관 차씨 명의로 주식 차명거래를 한 것이 맞는지 등을 캐물은 것으로 전해졌다. 경찰은 이 의원과 보좌관 차씨를 자본시장법 위반과 금융실명법 위반 등 혐의로 입건했다. 현재 두 사람은 출국 금지 상태로 알려졌다.&lt;br&gt;&lt;br&gt;이 의원은 이날도 “보좌관 휴대전화를 잘못 가져갔고, 차명 거래를 한 적은 없다”고 진술한 것으로 전해졌다. 경찰은 앞서 지난 11일 차씨와 의원실 관계자 등 8명을 불러 조사했다. 차씨는 지난 11일에 이어 다음 날까지 이어진 두 차례 조사에서도 같은 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 법조계에선 “이 의원이 차명 거래를 하는 장면이 실시간으로 언론을 통해 포착된 만큼 경찰이 수사에 더욱 속도를 낼 것”이란 관측이 나오고 있다. 인터넷 매체 더팩트 기사에는 이 의원이 지난 4일 국회 본회의장에서 고개를 숙인 채 테이블 밑에서 휴대전화 앱으로 주식 거래를 하는 사진 넉 장이 연속해서 실렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1만3500원짜리 배달죽 알고보니... 2000원짜리 즉석식품? </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/V3YQYHUKAJFK5IQTHPLRCNHVEQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 07:34:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AVX2NV3CRBTJDTXJGIUPZ4VVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 전문 죽집 내부 모습이라고 온라인 커뮤니티에 올라온 사진. 시중에 판매되는 즉석 죽 제품이 선반에 놓여 있다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시중에 판매되는 간편식 죽을 단순 조리해 판매하는 배달 전문 죽집의 내부 사진이 공개돼 온라인 커뮤니티에서 논란이 일고 있다. &lt;br&gt;&lt;br&gt;14일 온라인 커뮤니티에는 ‘배달 아르바이트가 찍은 죽집’이란 내용의 게시글이 올라왔다. 사진에는 들깨버섯죽, 소고기죽, 버섯야채죽, 전통미역죽 등 시중에 판매되는 레토르트 죽 제품이 쿠팡 상자에 담긴 채 진열돼 있다. 이 제품은 온라인 쇼핑몰에서 한 개에 2000~3000원에 판매되고 있다.&lt;br&gt;&lt;br&gt;작성자는 “죽 프랜차이즈가 아니라 한 곳에서 여러 상호를 사용해 판매를 하는 배달 점포”라며 “죽 판매 가격은 1만3500원 정도”라고 했다. 그러면서 “배달 시킬 때 상호와 가게 정보에 등록된 상호가 일치하는지 잘 확인하면 이런 가게를 피할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;하나의 업체가 여러 개의 상호를 걸고 배달하는 이른바 ‘숍인숍’ 형태의 가게라는 것이다. 숍인숍 시스템은 자영업자 입장에서 메뉴를 다각화하고 배달앱 노출을 증가시켜 매출을 늘리는 장점이 있으나, 소비자들 사이에선 음식의 질이 떨어진다는 불만이 꾸준히 나오고 있다. &lt;br&gt;&lt;br&gt;사진을 접한 네티즌들은 “간편식 죽이 개당 2000원도 안 하는데, 배달료로 1만3000원을 받는 건 과하다” “전자레인지 대행업체냐” “이걸 식당이라고 부를 수 있나” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;이외에도 “배달 전문 냉면집 픽업 갔다가 팩 고기 데워서 깨 뿌려주는 걸 보고 놀랐다” “국밥 배달 전문점에서 스무 개 넘는 메뉴를 모두 냉동으로 해결하는 경우도 봤다” 등 유사한 경험담도 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5AVX2NV3CRBTJDTXJGIUPZ4VVQ.jpg?auth=cc2e2e492f608705f33700fee5889d0a15a1148ebb1585832c141418f9372f0d&amp;smart=true&amp;width=640&amp;height=724" type="image/jpeg" height="724" width="640">
-        <media:description type="plain">배달 전문 죽집 내부 모습이라고 온라인 커뮤니티에 올라온 사진. 시중에 판매되는 즉석 죽 제품이 선반에 놓여 있다./온라인 커뮤니티</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“미쳤나” 내한 앞둔 오아시스 SNS 영상에 韓 팬들 발칵…무슨 일?</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/15/L75AMOHY4VFSPKGJWICMP22C5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/15/L75AMOHY4VFSPKGJWICMP22C5E/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 02:38:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WA4JASZ52RHOJGR5TET5MOCNTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오아시스가 올린 게시물에 한국 네티즌들이 항의하고 있는 모습. /오아시스 소셜미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내한 공연을 앞둔 영국의 록밴드 ‘오아시스’가 공식 소셜미디어(SNS)에 욱일기를 연상시키는 이미지가 담긴 영상을 게재해 한국 네티즌들이 반발하고 있다. &lt;br&gt;&lt;br&gt;오아시스는 지난 8일 공식 소셜미디어에 히트곡 ‘모닝글로리(Morning Glory)’의 신규 비주얼라이저 영상을 공개했다. &lt;br&gt;&lt;br&gt;영상에는 노란색 태양과 방사형 광선 디자인의 이미지가 포함돼 욱일기를 연상케 한다는 논란이 일었다. 욱일기는 일본군이 침략 전쟁에 활용해 한국과 중국 등 피해국에서는 ‘제국주의 전범기’로 인식된다. &lt;br&gt;&lt;br&gt;한국 네티즌들은 오아시스 공식 소셜미디어 게시물에 “다시 보고 또 다시 봐도 정말 이해가 가지 않는다” “2개월 후면 한국 온다는 자각은 하고 있는 거냐” “유럽에서 콘서트 하면 나치 문양 게시하라” “한국에서 돈은 벌고 싶지만 한국을 존중하는 마음은 전혀 없는 건가” “미친 거냐” 등의 댓글을 달며 강하게 항의했다. &lt;br&gt;&lt;br&gt;다만 일각에선 “단순히 태양을 표현한 그림”이라며 한국 네티즌들이 과도한 반응을 하고 있다는 비판도 있었다. &lt;br&gt;&lt;br&gt;이 같은 논란에도 오아시스 측은 공식 입장이나 해명을 내놓지 않았고, 해당 영상도 삭제되지 않은 상태다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVSTKTTIKJCFBMWDPI5EHEG42M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;록밴드 오아시스. /라이브네이션코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 오아시스 멤버 리암 갤러거는 지난달 자신의 소셜미디어에 아시아인을 비하하는 뜻을 가진 ‘칭총’(ChingChong)이라는 단어를 써 인종 차별 논란에 휩싸이기도 했다. &lt;br&gt;&lt;br&gt;논란이 커지자 그는 “의도치 않게 누군가를 불쾌하게 했다면 미안하다”고 사과했다.&lt;br&gt;&lt;br&gt;오아시스는 1991년 리암·노엘 갤러거 형제가 결성한 록밴드로 ‘돈 룩 백 인 앵거’(Don’t Look Back in Anger), ‘리브 포에버’(Live Forever) 등 히트곡으로 사랑받았다. &lt;br&gt;&lt;br&gt;오아시스는 오는 10월 경기 고양종합운동장에서 내한 공연을 연다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/32OHR4ID6ZA5XARUOXUGENTEOQ.jpg?auth=04a57cf76c7205a976d781560f3d25affb4db143eb8e5da8a31bfa2e6d086cf2&amp;smart=true&amp;width=1166&amp;height=799" type="image/jpeg" height="799" width="1166"/>
     </item>
   </channel>
 </rss>
