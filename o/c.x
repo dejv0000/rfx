@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“미안하다” 메모 남기고... 핼러윈 참사 출동 소방관 8일째 실종</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/WQBYER2Y2JB45N47SBXNIQSQQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/WQBYER2Y2JB45N47SBXNIQSQQ4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 11:28:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTCRK26ROVBVTDB5XSJMH7WUQE.png"&gt;&lt;figcaption&gt;&lt;small&gt;실종된 소방 대원 A씨 인상착의./실종자 가족&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이태원 참사 이후 우울증을 앓아오던 소방대원이 실종된 지 8일째를 맞았으나, 경찰과 소방 당국은 여전히 수색에 난항을 겪고 있다.&lt;br&gt;&lt;br&gt;18일 인천소방본부 등에 따르면 소방 당국과 경찰은 소방관·경찰관 20여 명과 수색견을 동원해 A(30)씨의 실종 장소 인근을 수색했으나 별다른 단서를 찾지 못했다. 당국은 지난 10일 A씨가 실종된 이후 9일 동안 총 290명을 투입해 방범카메라(CCTV) 영상을 확인하고, 하천과 산지 수색 등을 벌였지만 A씨의 흔적은 찾지 못했다. &lt;br&gt;&lt;br&gt;A씨의 휴대전화는 남인천요금소 인근 도로 밑에서 버려진 채 발견됐다. 이 때문에 위치 추적도 어려운 상황이다. A씨는 지난 10일 오전 2시 30분쯤 남인천요금소를 빠져나온 뒤 차량을 갓길에 세운 채 자취를 감췄으며, 인천시 남동구 서창동 아파트가 마지막 행적지로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 실종 장소 근처인 남동구 운연동·서창동·장수동은 물론 인접 지역인 경기 시흥시 일대까지 수색 범위를 넓혀 작업을 이어갈 방침이다. &lt;br&gt;&lt;br&gt;소방 관계자는 “오늘도 실종 지역 주변을 탐문하고 버스정류장에 전단도 붙이는 등 A씨를 찾기 위해 노력하고 있다”며 “A씨의 카드 결제 내역 등 ‘생활 반응’이 확인되지 않다 보니 특정 지역에 수색을 집중하기도 어려운 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 이태원 참사 현장에 지원을 나갔다가 심한 충격을 받고 우울증 진단을 받아 치료를 이어왔다. 실종 직전에는 가족과 지인들에게 미안하다는 내용의 메모를 남긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 참사 당시 언론 인터뷰에서 “사망하신 분들을 검은색 구역에서 놓는데 감당이 안 될 정도였다”며 “부모님은 제가 그 현장을 갔던 것만으로도 힘들어하시는데 희생자들의 부모님은 어떤 마음일까. ‘이게 진짜가 아니었으면’이라고 생각했다”고 털어놓은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/C55YZTEHARFUPIEYQ5RNM6IIHM.png?auth=fd93f0627e80700ffd56ec97363afd82879fc91ab503066cc3538f8052ca3bf6&amp;smart=true&amp;width=1106&amp;height=622" type="image/png" height="622" width="1106">
+        <media:description type="plain">실종된 소방 대원 A씨 인상착의./실종자 가족</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>원폭에 日帝 쓰러지자… “제2 아인슈타잉·에디손 되자” 과학 열풍</title>
+      <link>https://www.chosun.com/national/education/2025/08/18/YBPR52QK4ZFHNBMQ7BDYUDIELM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/18/YBPR52QK4ZFHNBMQ7BDYUDIELM/</guid>
+      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 17 Aug 2025 15:46:00 +0000</pubDate>
+      <content:encoded>일제강점기에 태어난 10대들에게 ‘해방 조국’은 어떤 모습이었을까. 본지는 광복 80주년을 맞아 1946년부터 1950년 사이 발간된 학교 교지 18권을 통해 80년 전 ‘해방일지’를 3회에 걸쳐 소개한다. 그들은 어떤 나라를 꿈꿨고, 그 염원은 지금 얼마나 이뤄졌나. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GILUJYVIRFDEXFDBG5ZQD5XXDQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;①서울대 공과대학의 전신인 경성공업전문학교에서 학생들이 연구를 하고 있는 모습. 1895년 설립된 이 학교는 1916년 경성공업전문학교 등을 거쳐 해방 후인 1946년 서울대 공과대학으로 개편됐다. ②1959년 7월 14일 이승만(오른쪽) 당시 대통령이 한국 최초 원자로(트리가 마크-2) 기공식에서 삽을 뜨는 모습. 그해 원자력 기술을 처음 도입한 우리나라는 반세기가 지난 2009년 요르단·UAE(아랍에미리트)와 원자로 수출 계약을 맺는 쾌거를 올렸다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1945년 8월, 기세등등하던 일본이 연합군을 이끄는 미국의 원자 폭탄을 맞고 항복하는 모습은 당시 청년들에게 큰 자극을 줬다. 첨단 기술의 위력을 절감한 학생들은 해방 후 과학 공부로 눈을 돌렸다. 전국에 ‘과학 열풍’이 분 것이다. 약소국 조선이 과학기술로 무장한 외세의 침략에 당할 수밖에 없었던 과거를 반성하며 ‘과학 조선을 이루자’고 다짐했다. &lt;br&gt;&lt;br&gt;개성 송도중(현 인천 송도중·송도고) 3학년 허배군은 1947년 교지에 ‘과학을 배우자’는 글을 썼다. “우리 조선을 돌아볼 때 36년간 나라를 빼앗기고, 보지 못하고 듣지 못하고 말 못하는 반신불수였다. 해방이 되고 공업·과학 방면을 볼 때 빈약한 점이 아직도 많다. 이 빈약한 우리 나라의 과학을 어찌 등한시하겠나. 어떤 물건, 어떠한 기계를 보고 의문을 일으키며 연구를 하고 그 근본을 탐구하는 과학적 정신을 배양하자! 장래 조선의 과학을 걸머지고 나아갈 훌륭한 세계적 과학자가 되자! 제2의 에디손(에디슨)·아인슈타잉(아인슈타인)… 이런 과학계의 거성(巨星)이 우리 학도 가운데서 나타나기를 기대한다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“과학 배워 ‘공업조선’ 건설”&lt;/b&gt;&lt;br&gt;&lt;br&gt;경복중(현 경복고) 졸업(21회) 후 서울대 공대에 진학한 황종흘군은 이듬해(1946년) 모교의 광복 특집호 교지에 ‘장래의 엔지니어에게’라는 글을 기고했다. “여러분은 건국의 톱니바퀴가 되고자 진리 탐구에 밤낮을 가리지 않고 용왕매진(거리낌 없이 나아감)하고 있는 줄로 믿는다. 이번 세계 대전에서 연합군이 승리를 거둔 것도 과학의 힘이 아니었던가. 우리도 조국을 과학 문명의 견고한 토대 위에 세우고 세계 문명국의 일원으로 국제 무대에 등장시켜야 한다. 진실한 ’엔지니어’로서 웅대한 공업 조선을 건설해 세계 문명에 공헌하고자 한다면 반드시 공대의 문을 힘차게 두드려라.” &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VR2MXN62LNHHHBOQ4UX67SZEMU.png"&gt;&lt;figcaption&gt;&lt;small&gt;1946년 인천 동산고 한 교실에서 학생들이 공부하는 모습. 당시 흑백사진을 SK텔레콤의 AI 기술을 통해 고화질로 복원했다./동산고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과학 입국, 기술 자립을 이루기 위해선 ‘침략국’인 일본에서도 배워야 한다는 자기반성의 목소리도 나왔다. 송도중 3학년 김동환군은 1947년 ‘과학론’에서 “현대 국가 건설에 필요한 과학, 특히 자연과학 분야에서 우리 조선 과학이 비록 패전국이지만 거의 세계 수준에 도달한 일본과 어깨를 나란히 하려면 적어도 25년 내외가 걸린다고 한다. 일본 중학생들이 ‘다음 세기 노벨 과학상은 우리의 손으로’ ‘과학의 열등이 패전의 원인’이라는 슬로건을 앞세우며 진군하는 것을 보고, 나는 ‘조선의 중학생들이여! 과학을 배우자’고 말하고 싶다. 조선이 경제적 독립을 획득하려면 제일 필요한 것은 과학 지식이다.”&lt;br&gt;&lt;br&gt;광복 후 이 땅엔 변변한 연구소도, 과학자도 없었다. 그래도 과학을 배우려는 학생들의 패기와 열정은 남달랐다.&lt;b&gt; &lt;/b&gt;중앙중(현 중앙중·중앙고)&lt;b&gt; &lt;/b&gt;유종국군은 1950년 ‘장래의 항공 발전과 로켓’에서 당시 국내엔 생소했던 우주 산업을 일으키자고 주장했다. “지금 세계 각국에서는 로켓 연구에 열중하고 있다. 로켓 실용화의 첫 단계라고 할 수 있는 제트 엔진이 이미 실용화되고 있다. 그런데 우리 대한의 항공 실정은 암흑 상태다. 악독한 왜놈들의 압박하에 36년이라는 긴 세월을 암흑 속에서 신음했기 때문에 오늘날과 같은 비참한 현실을 빚은 것이다. 세계 선진국과 비교하면 수십 년, 수백 년이 뒤떨어진 현상이니 우리의 기술을 단기간 내에 세계 수준으로 이끌어 올리려면 확고한 신념 밑에서 거족적(擧族的)으로 항공 건설 사업을 전개하지 않으면 안 될 것이다.” &lt;br&gt;&lt;br&gt;1949년 조선전기공업중학교(폐교) 교지엔 ‘정전시에도 들을 수 있는 수신기 몇 가지’라는 글이 실렸다. 당시 발전 시설 등 산업 기반에서 우위에 있던 북한이 1948년 5월 남한에 대한 전력 공급을 일방적으로 중단한 사건이 터지자 하루빨리 기술력을 키워 이런 열세를 극복하자는 주장이 담겼다. “정전 때문에 벙어리가 된 라디오를 그냥 놔둘 것인가”라는 것이다. 교지에 함께 실린 다른 글에선 과학 연구의 중요성을 역설했다. “바야흐로 세계는 과학 시대로 전환하고 있다. 인류는 모든 것을 과학에서 얻고 과학으로 처리하게 됐다. 이제 세상 온갖 사물이 부쩍부쩍 진보해 가는 이때 세계 각국은 앞다투어 과학 조류를 따라 헤엄치는데 어찌 우리만 웅덩이에서 헤엄치고 있을 수가 있으랴.”&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“불처럼 일어나는 학도의 향학열”&lt;/b&gt;&lt;br&gt;&lt;br&gt;광복 이후 나라 전체가 가난했던 시절, 그렇기에 배움에 대한 열망은 컸다. 1949년 배재중(현 배재중·배재고) 조동빈군은 당시 학생들의 학구열에 대해 “종전 후 배움에 굶주렸던 학도의 향학열은 불길이 일 듯 일어났다. 우리들의 탐구심이야말로 선진국들의 수준을 좇으려 격렬했다”고 썼다. 광주공업중(현 광주공고) 옥치수군은 1948년 ‘행복’에서 “우리 학교 사백 학도들도 대부분이 가난한 집안에서 태어난 불운아지만, 불행한 것이 아니다. 사백 학도여 동무들이여 형제여, 갖은 불행을 앞날 행복의 씨로 삼자. 자신을 위해, 부모를 위해, 민족을 위해, 나라를 위해, 불행을 참고 과학 기술을 꾸준히 배워 행복을 자아내자”고 했다. &lt;br&gt;&lt;br&gt;서울사대부중(현 서울사대부중·사대부고) 2학년 서병현군은 1949년 공부에 대한 바른 자세에 대해 교지에 썼다. “우리는 항상 쉬지 않고 노력하여 실력을 양성하고 실력을 기르더라도 부정행위를 하지 말고 제 실력으로 떳떳이 만점을 받는 것이 우리가 시험에 대하는 바른 태도일 것이다. 쉬지 않고 노력하자.”&lt;br&gt;&lt;br&gt;조국 재건을 위해 공부와 연구에 매진하는 학생들을 향해 어른들은 격려와 응원을 아끼지 않았다. 광주공업중 최삼식 교장은 1948년 ‘학생에게 바람’이라는 글에서 이렇게 당부했다. “여러분은 앞날 조선의 국보임을 자각하라. 아무리 좋은 구슬인들 쪼지 않고 어찌 빛날 것이며, 아무리 총명한 사람인들 배우지 않고 어찌 깨달을 것이며 큰 그릇을 이룰 수 있으랴? 여러분은 배움의 길 위에 서 있다. 다른 건 아무것도 생각할 것이 없으며 돌아다볼 필요가 없다. 오직 배움의 한길로 달음질칠 뿐.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;취재·자료 수집 어떻게 했나&lt;/b&gt;&lt;br&gt;&lt;br&gt;본지는 1945년 8월 15일 광복 전후 학생들이 남긴 글과 사진을 찾기 위해 전국 중·고교 가운데 1945년 이전 개교한 150여 곳과 접촉했다. 대부분 학교는 1950년 발발한 6·25 전쟁 때 폭격 등으로 해방 전후 학생 기록을 모두 소실한 상태였다. 이에 학교 총동창회, 지자체 박물관, 민간 근현대사 연구자들로 범위를 넓혀 취재했다. 그 결과 경복중·양정중·배재중·송도중·무학여고·광주공립공업중 등 16개 학교가 1946년부터 1950년 사이 발행한 교지(校誌) 18권을 찾았다. 광복을 맞은 1945년도 교지를 갖고 있는 곳은 없었다. 당시 전쟁이 막바지에 이르며 학교 운영이 제대로 이뤄지지 않은 탓으로 보인다.&lt;br&gt;&lt;br&gt;교지는 각각 50~100쪽 분량이다. 대부분 국한문 혼용체로 쓰였고, 한글 맞춤법도 지금과 다소 달랐다. 이에 한국학중앙연구원 교육정책아카이브연구소에 의뢰해, 교지 내용을 현대식으로 번역했다. 작업에 참여한 김우영 한국학중앙연구원 교수는 “해방 전후 우리나라의 중고교생들은 현재 대학생 수준의 엘리트층이었다”면서 “유명한 독립운동가가 아닌 평범한 학생들이 바라본 해방 직후 조국에 대한 인식이 자세하게 공개된 것은 이번이 처음”이라고 말했다.&lt;br&gt;&lt;br&gt;◆한국학중앙연구원 연구진=박대권 교육정책아카이브연구소장, 김우영 교육학 교수, 박수환(서울대 교육학 박사과정), 김수민(한국학중앙연구원 한국사학 석사과정), 김현주(한국학중앙연구원 교육학 석사과정), 허지훈(한국교원대 교육학 석사과정)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;80년 전 흑백 사진, 어떻게 고화질 컬러 사진·영상으로 복원됐나&lt;/b&gt;&lt;br&gt;&lt;br&gt;SK텔레콤(SKT)은 AI(인공지능) 이미지 복원기술 ‘슈퍼노바(SUPERNOVA)’와 첨단 ICT기술을 사용해 80년전 흑백 사진을 고화질의 컬러 이미지로 전환했고, 미디어 재현(리인액트먼트·reenactment) 기술로 실감나는 영상 콘텐츠로 제작했다. &lt;br&gt;&lt;br&gt;AI 미디어 품질 개선 솔루션인 SUPERNOVA는 ①화질 개선(업스케일링·Upscaling), ②노이즈 제거 (디노이징·De-noising), ③흑백에서 컬러로 변환(컬러라이제이션· Colorization) 세가지 축으로 구성된다. 이번 ‘우리들의 해방일지’ 프로젝트에는 이 세가지 기능에 생성형 AI 기술까지 더해 원본 사진을 완벽하게 고증·복원했다. 특히, AI를 활용해 실제 사진에 있는 옷의 주름과 불명확한 경계들을 또렷하게 만들어 낸 다음 이를 기반으로 색상을 복원했다.&lt;br&gt;&lt;br&gt;SKT측은 “사진 한장으로 ‘영상’을 만들어내기 위해서는 충분한 데이터를 학습해야 한다”면서 “그동안 미디어 분야에 적용할 AI 기술을 꾸준히 연구·개발(R&amp;amp;D)한 결과를 이번 프로젝트에서 보여준 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MKPSIVJHKJBQPEWO7BHQEJHH3E.jpg?auth=3e9032d0e75c090c1099599cc05b6c6cebed806e443d7206e822324a05de4e2e&amp;smart=true&amp;width=1747&amp;height=1211" type="image/jpeg" height="1211" width="1747">
+        <media:description type="plain">서울대 공과대학의 전신인 경성공업전문학교에서 학생들이 연구를 하고 있는 모습./국사편찬위원회</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘건진법사’ 관봉권 역추적 단서 분실한 검찰, “직원 실수였다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/JTIL5A6EL5D7BLBDICQXTCXEZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/JTIL5A6EL5D7BLBDICQXTCXEZM/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 13:32:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ3TQWMTEH6YIM6ECON6HS6TCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배(65)씨 자택에서 지난해 1억원이 넘는 현금 다발을 찾은 검찰이 자금 출처를 추적할 단서를 분실한 것으로 확인됐다. 분실 사실을 인지한 뒤 별다른 경위 조사도 없었던 것으로 나타났다. &lt;br&gt;&lt;br&gt;지난해 12월 서울남부지검은 전씨 자택을 압수수색해 현금 1억 6500만원을 찾았다. 하지만 지난 4월 남부지검은 해당 자금의 출처를 파악할 관봉권 띠지와 스티커, 그외 현금 다발의 띠지도 분실한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;통상 관봉권 스티커에는 현금을 검수한 날짜와 시간, 담당자 코드, 기계 식별 번호, 처리 부서 등이 적혀있다. 관봉권이 아닌 시중은행 띠지에도 검수관 도장과 취급 지점 등이 적혀있어 출처를 파악할 수 있다. &lt;br&gt;&lt;br&gt;수사기관은 이 띠지에 적힌 정보를 토대로 자금줄을 역추적하는데, 남부지검이 중요 단서를 분실한 것이다. 게다가 분실 사실을 알고 난 이후에 별다른 경위 조사도 없었다고 한다. 대표적인 친윤 검사인 신응석 전 검사장이 남부지검장으로 있던 당시, 남부지검 수뇌부는 “일단 문제삼지 말고 넘어가자”는 입장이었고 이 사실을 김건희 특검에도 알리지 않았다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “이런 일이 발생해 유감”이라며 “재발 방지에 최선을 다하겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 남해서 밭에서 일하던 80대 쓰러져 숨져... 온열질환 추정 </title>
+      <link>https://www.chosun.com/national/regional/2025/08/19/UWTSSFXJDJGEVEGT5EJT6KYJNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/UWTSSFXJDJGEVEGT5EJT6KYJNU/</guid>
+      <dc:creator>남해=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 12:57:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWYZJPA2ZVMIVL5SHFRWEG5KSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 남구 고산골 등산로에 지난 15일 쿨링포그가 가동돼 무더위에 지친 시민들의 더위를 식혀주고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 4시쯤 경남 남해군 서면 남상리 염해마을 인근 밭에서 작업 중이던 80대 A씨가 쓰러져 숨졌다.&lt;br&gt;&lt;br&gt;남해경찰서 등에 따르면 A씨는 밭에서 일을 하던 중 갑자기 의식을 잃고 쓰러졌으며, 신고를 받고 출동한 119구급대가 현장에 도착했을 때는 이미 숨진 상태였다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 A씨가 고온에 장시간 노출돼 온열질환으로 사망한 것으로 보고 정확한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘19년 전 실종’ 이윤희씨 등신대 훼손한 40대 남성 송치 </title>
+      <link>https://www.chosun.com/national/regional/2025/08/19/RGGB6R72Z5AUJHWOH7NYU3KF3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/RGGB6R72Z5AUJHWOH7NYU3KF3U/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 12:00:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRCDNN6C2AJSKQNT2W4HVZKFB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 8일 전북 전주시 완산구의 한 도로 인근에서 40대 남성 A씨가 19년 전 실종된 이윤희씨를 찾기 위해 가족들이 설치한 등신대를 고정한 노끈 등을 자르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19년 전 실종된 전북대학교 수의학과에 재학하던 이윤희씨를 찾기 위해 가족 등이 설치한 등신대를 훼손한 40대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;전북 전주완산경찰서는 재물손괴 혐의로 40대 A씨를 검찰에 불구속 송치했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 8일 오후 8시20분쯤 전주시 완산구에 설치된 이윤희씨의 등신대를 손괴한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 미리 준비해둔 커터칼 등으로 등신대를 고정한 노끈 등을 자른 뒤 등신대를 부수고 숨긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 폐쇄회로(CC)TV 분석 등을 통해 A씨를 특정한 후 조사 끝에 최근 그를 검찰에 송치했다.&lt;br&gt;&lt;br&gt;A씨는 이씨와 같은 학과에 재학했던 것으로 알려졌다. 그는 이씨의 실종과 관련해 자신이 지속적으로 언급되는 것에 불만을 품고 범행을 저지른 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “지난 주 A씨에 대한 조사를 마치고 검찰에 넘겼다”며 “실종사건과의 연관성 등은 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;이씨는 전북대 수의학과 본과 4학년에 재학 중이던 지난 2006년 6월 6일 새벽 종강모임 술자리가 끝나 자취방으로 귀가한 뒤 실종됐다.&lt;br&gt;&lt;br&gt;현재까지 이씨의 생사 여부는 확인되지 않았으며, 이씨의 가족들은 지금까지도 진실규명을 촉구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 2028년도 신입생부터 ‘지역의사 전형’... 졸업 후 의무 근무</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/19/ZR5KZASD6JBGLFBLPEYPUL2USU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/19/ZR5KZASD6JBGLFBLPEYPUL2USU/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 11:53:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF3S2HUSNBJLHHIYN23GTIJEZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국보건의료산업노동조합(보건의료노조) 조합원들이 지난 달 서울 숭례문 일대에서 열린 총력투쟁 결의대회에서 지역의사제도 도입 등을 주장하는 팻말을 들고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부가 이재명 대통령의 대선 공약이었던 지역의사제 도입과 공공의료사관학교(공공의대) 설립을 공식적으로 추진하겠다고 나섰다.&lt;br&gt;&lt;br&gt;18일 정은경 보건복지부 장관은 국회 보건복지위원회에 복지부 주요 업무 추진 현황을 보고하면서 “지역·필수·공공의료인력 양성을 위해 충분한 투자와 보상을 아끼지 않겠다”고 말했다.&lt;br&gt;&lt;br&gt;이어진 세부 업무보고에서 김혜진 복지부 기획조정실장은 지역·필수·공공의료 강화와 관련해 “지역의사제를 도입하고 공공의료사관학교를 설립해 안정적인 공공의료 인력 양성 기반을 마련하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 기조에 따라 복지부는 2028년도 신입생부터 의대 신입생 일정 비율을 지역의사 전형으로 선발할 계획인 것으로 알려졌다. 지역의사 전형으로 선발된 의대생은 졸업 후 특정 지역에서 의무 복무하도록 만들겠단 것이다.&lt;br&gt;&lt;br&gt;복지부는 또한 국립중앙의료원 부설 교육기관으로 공공의료사관학교를 신설할 계획이라고 밝혔다. 이른바 공공의대로 불리는 공공의료사관학교는 상대적으로 낙후된 지방에 의대를 세워 거기서 배출된 의사들이 그 지역 중환자를 최종 치료하게 하겠다는 계획이다.&lt;br&gt;&lt;br&gt;다만 이 대통령의 핵심 복지 공약이었던 두 정책은 모두 적잖은 반발이 있을 것으로 예상된다. 대한의사협회(의협) 등 의사 단체는 헌법상 직업선택의 자유 등을 침해한다며 지역의사제 도입에 반대하고 있다. 공공의대는 의사 배출까지 최소 10년가량이 걸린다며 실효성이 떨어진다고 주장한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정주영·정몽구·정의선 3代, 세계 車산업 공헌 가문에 뽑혀 </title>
+      <link>https://www.chosun.com/economy/auto/2025/08/19/AMYIDP3GEVGE5AJHKFI4Z5MQ5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/auto/2025/08/19/AMYIDP3GEVGE5AJHKFI4Z5MQ5M/</guid>
+      <dc:creator>이영관 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 11:33:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITB65UCY3RFLLO6V7AYY2B5FUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고 정주영 창업회장, 정몽구 명예회장, 정의선 회장(왼쪽부터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 정주영 창업회장, 정몽구 명예회장, 정의선 회장 등 현대차그룹의 3대(代) 경영진이 18일 미국 유력 자동차 전문지 오토모티브 뉴스로부터 ‘100주년 기념상’을 받았다. 1925년 미국에서 창간된 오토모티브 뉴스는 미국에서 가장 권위가 있는 자동차 전문 매체 중 하나로, 100주년을 맞아 세계 자동차 산업에 영향을 끼친 가문과 인물을 선정해 상을 수여했다.&lt;br&gt;&lt;br&gt;오토모티브 뉴스는 현대차그룹의 3대 경영진을 수상자로 선정한 이유에 대해 “한국 전쟁의 폐허 속에서 나라를 재건하고, 오늘날 세계적인 제조 강국이자 자동차 강국으로 (한국을) 변모시키는 데 핵심적인 역할을 했다”고 밝혔다. “정주영 창업 회장은 ‘현대’라는 이름으로 선박부터 반도체까지 다양한 산업군을 아우르는 거대한 기업을 세웠고, 정몽구 명예회장은 품질을 강화하고 글로벌 시장에 진출함으로써 현대차그룹을 세계적인 기업으로 성장시켰다. 정의선 회장은 현대차, 기아, 제네시스 브랜드를 세련되고 혁신적인 이미지로 브랜드 가치를 높였다”고도 했다.&lt;br&gt;&lt;br&gt;정의선 회장은 이날 수상 소감을 통해 정주영 창업 회장부터 대를 이어 전해진 경영 철학이 지금의 현대차그룹을 만들었다는 점을 강조했다. 정 회장은 “할아버지이신 정주영 창업 회장은 항상 ‘시류를 따라야 한다’고 말씀하셨고, 사람을 중시하셨다. 창업 회장의 고객 중심 경영 철학은 지금 현대차그룹 핵심 가치의 근간이 됐다”며 “저도 새로운 도전을 두려워하지 않고 고객의 신뢰를 얻어야 한다는 것을 자연스럽게 체득했다”고 했다. 또, “아버지이신 정몽구 명예회장은 선진 시장, 신흥 시장을 불문하고 글로벌 시장에서 성장의 기회를 끊임없이 탐색했고 성취를 거두셨다. 품질, 안전, R&amp;amp;D(연구·개발)에 대한 신념은 현대차그룹의 경영 철학에 깊이 각인되어 있다”고 했다.&lt;br&gt;&lt;br&gt;정의선 회장은 오는 9월 미국 디트로이트에서 열리는 시상식에 현대차그룹을 대표해 참가할 예정이다. 일본 도요타그룹 아키오 도요다 회장의 도요다 가문, 스텔란티스 존 엘칸 회장의 아녤리 가문, 그리고 미국 GM(제너럴모터스)의 메리 배라 회장, 포드의 빌 포드 회장 등 주요 글로벌 자동차 기업 경영진도 수상자로 이름을 올렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ITB65UCY3RFLLO6V7AYY2B5FUM.jpg?auth=3d42be103816ffd2bf48145a1a431214788174313117db73c74c4e7f4124eb0a&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600">
+        <media:description type="plain">고 정주영 창업회장, 정몽구 명예회장, 정의선 회장(왼쪽부터)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘채 상병 사건’ 국방부 수사단장 “재조사 외압 있었다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/19/YRIR26GUPBH2PHVS2FKABQ7HYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/YRIR26GUPBH2PHVS2FKABQ7HYU/</guid>
+      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 11:03:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRYHLLFSKVN6ZN3Y2M6ULVIM3U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김진락 전 국방부 조사본부 수사단장이 지난 2023년 8월 25일 여의도 국회에서 열린 국방위원회 전체 회의에 참석해 의원들의 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 고(故) 채수근 상병 사건의 재조사를 맡았던 국방부 조사본부 수사단장을 상대로 “사건 처리에 외압이 있었다”는 취지의 진술을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 해병 특검은 지난달 김진락 전 조사본부 수사단장을 조사하며 “박진희 전 군사보좌관으로부터 조사 결과와 관련해 압박을 받았다”는 취지의 진술을 확보했다. 국방부 조사본부는 2023년 8월 해병대 수사단이 초동 조사했던 채 상병 사건의 재조사를 맡았는데, 이종섭 전 국방장관의 참모인 박 전 보좌관이 임성근 전 해병대 1사단장을 과실치사 혐의자에서 제외하기 위해 부당하게 개입했다는 취지다.&lt;br&gt;&lt;br&gt;특검은 이를 뒷받침하는 두 사람의 대화 녹취록을 확보했다. 박 전 보좌관이 “원하는 대로 해주면 안 되냐”고 하자 김 전 단장이 “장관의 지시냐”고 물었고, 이에 “장관의 지시가 맞는다”고 답하는 내용 등이 담겼다고 한다. 당시 김 전 단장은 박 전 보좌관이 ‘임 전 사단장의 혐의가 너무 많다’ ‘방어권을 보장해 줘야 한다’는 취지로 지시했다고 자신의 수첩에 적었는데, 특검은 이 수첩도 외압의 증거로 보고 있다.&lt;br&gt;&lt;br&gt;특검은 조사본부가 채 상병 사건을 재조사하던 기간 동안 박 전 보좌관이 김 전 단장에게 40차례 전화를 걸고 20여 건의 문자를 보낸 내역도 확보한 것으로 알려졌다. 특히 조사본부가 임 전 사단장을 경찰에 이첩하겠다는 중간 보고서를 작성해 보고한 8월 14일 이후 연락이 집중적으로 이뤄졌다고 한다. 이후 조사본부는 임 전 사단장 등 8명을 과실치사 혐의자로 판단한 해병대 수사단 초동 조사 결과와 달리 대대장 등 중령 2명 만을 혐의자로 적시해 사건을 경찰에 이첩했다.&lt;br&gt;&lt;br&gt;특검은 이달 초부터 박경훈 전 조사본부장 직무대리 등 조사본부 관계자들을 잇따라 불러 조사하며 “국방부의 외압이 있었다”는 취지의 진술을 확보했다. 이에 대해 이 전 장관 측은 “혐의자를 2명만 하라고 구체적으로 지시한 사실이 없다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경부고속도로 안성JC 부근서 버스가 경차 추돌…50대 1명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/19/2H6JF3RLS5FCDC4PXAME3NCSGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/2H6JF3RLS5FCDC4PXAME3NCSGU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 10:18:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SBSG3YHWV32ALV6POIHEGDGDBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안성경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 3시 48분쯤 경기 안성시 원곡면 경부고속도로 서울 방향 안성분기점(JC) 인근을 주행하던 고속버스가 모닝 승용차를 들이받는 사고가 났다.&lt;br&gt;&lt;br&gt;이 사고로 모닝 승용차 운전자인 50대 A씨가 숨졌다.&lt;br&gt;&lt;br&gt;당시 고속버스에는 운전기사를 포함해 총 11명이 타고 있었으며 이들 가운데 부상자는 발생하지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 2차로를 주행하던 모닝 승용차가 버스전용 차로로 차선을 변경하는 과정에서 고속버스가 모닝 차량을 들이받은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스와 목격자의 진술 등을 토대로 자세한 사고 경위를 파악중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김용현, 추가 구속한 재판부 바꿔달라 했지만…고법 “기각”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/19/6BKWGGLKFBDRNDS2REW4HPXF5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/6BKWGGLKFBDRNDS2REW4HPXF5I/</guid>
@@ -787,19 +878,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKM3JFQ2BFMI5BDS65TCTO2LK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'멋쟁해병' 멤버인 경호처 출신 송모씨가 18일 오전 서울 서초구 해병 특검 사무실에 조사를 받기 위해 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹을 받는 경호처 출신 ‘멋쟁해병’ 멤버 송모씨가 18일 순직 해병 특검에 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;송씨는 이날 오전 8시 50분쯤 서울 서초구 특검 사무실에 출석했다. 그는 “임 전 사단장의 구명 로비는 실체가 없는 허위 의혹이라는 입장인가” “이종호 전 블랙펄인베스트 대표와 임 전 사단장의 사직과 관련해 대화를 나눴느냐” 등 취재진의 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;송씨는 ‘도이치모터스 주가조작’ 사건의 공범인 이 전 대표와 ‘멋쟁해병’ 단체 대화방에서 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹을 받는다. 2023년 7월 고 채수근 상병 사망 사고가 발생한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자, 이 전 대표가 친분이 있는 김건희 여사에게 구명을 청탁했다는 것이다. 임 전 사단장과 이 전 대표는 서로를 모른다고 부인하고 있지만, 송씨는 두 사람과 모두 아는 사이라고 한다.&lt;br&gt;&lt;br&gt;특검은 이날 송씨를 상대로 임 전 사단장과의 관계 및 멋쟁해병 멤버들의 구명 로비 의혹에 대해 집중적으로 조사할 계획이다. 특검은 지난달 송씨의 자택 등을 압수 수색해 휴대전화와 컴퓨터 등을 확보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘방한’ 빌 게이츠, 한국 예능프로그램 출연한다…유재석 진행 ‘유퀴즈’ 참여</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/KND36QIQYZBBFBISFB453YR3E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/KND36QIQYZBBFBISFB453YR3E4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 01:10:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUJFJO3DDABB7N6SPHXTNSUQZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;빌 게이츠. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다음 주 방한할 예정인 마이크로소프트 창업자 빌 게이츠 ‘게이츠 재단’ 이사장이 한국 예능 프로그램에 출연한다. &lt;br&gt;&lt;br&gt;18일 tvN은 “세계적인 부호이자 자선 사업가인 빌 게이츠가 방송인 유재석과 조세호가 진행하는 ‘유 퀴즈 온 더 블럭’에 출연한다”고 밝혔다.&lt;br&gt;&lt;br&gt;CJ ENM 남승용 경영리더는 “‘유 퀴즈’는 모든 삶의 가치를 존중하며, 다양한 사람들의 이야기를 통해 인간 존엄과 서로에 대한 이해를 전하는 프로그램”이라며 “이는 ‘게이츠 재단’의 ‘모든 인간의 삶은 동등한 가치를 지닌다(Every life has equal value)’는 신념과 일맥상통한다는 부분에서 공감을 나눴다”라고 했다. &lt;br&gt;&lt;br&gt;이어 “기술로 세상을 연결하고 기부로 세상을 변화시키고 있는 인물인 빌 게이츠를 ‘유 퀴즈’에 모실 수 있게 되어 영광이다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;세계적인 부호이자 자선 사업가인 빌 게이츠는 마이크로소프트 공동 창업자로 PC 시대를 연 디지털 혁명의 설계자다. 현재는 ‘게이츠 재단’을 통해 글로벌 보건, 교육, 기후 변화, 빈곤 퇴치 등 인류 공동 과제 해결에 전념하고 있다. &lt;br&gt;&lt;br&gt;그는 최근 2045년까지 개인 재산의 99%와 ‘게이츠 재단’의 기부금을 합쳐 약 2000억달러(약 280조원)를 사회에 환원하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;빌 게이츠의 방한은 2022년 이후 3년 만으로, 이번 방한은 한국 기업과의 협력을 통해 저소득 국가에 백신 보급을 활성화하는 게 주요 목적인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;빌 게이츠가 출연하는 유 퀴즈 온 더 블럭은 8월 중 방송될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RPQUCS6FFSW5JRXFINGZMU36JU.jpg?auth=2999614571c4bc03217ba413c3e64c366a88b43426a25726c9a8448f4b5edc76&amp;smart=true&amp;width=5000&amp;height=3333" type="image/jpeg" height="3333" width="5000">
-        <media:description type="plain">빌 게이츠 마이크로소프트 창업자 겸 게이츠 벤처 의장./AFP 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">AFP 연합뉴스</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘김건희·통일교 청탁 키맨’ 건진법사, 특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/08/19/NHPYXZES3RCHTHI3Y3LLVIMOLM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/NHPYXZES3RCHTHI3Y3LLVIMOLM/</guid>
@@ -882,15 +960,6 @@
       <content:encoded>시민 1만1000명이 12·3 비상계엄 선포로 정신적 피해를 입었다며 윤석열 전 대통령과 배우자 김건희 여사에게 1인당 10만원의 위자료를 공동으로 청구하는 소송을 제기한다. 이들을 대리하는 김경호 변호사는 17일 “18일 서울중앙지법에 소송을 제기할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이번 소송은 김 여사를 비상계엄 선포의 ‘공동 불법행위자’로 보고 배상 책임을 묻는 게 특징이다. 소송을 내기로 한 이들은 소장에서 “비상계엄은 오로지 김 여사 개인을 향한 사법적 압박을 회피하기 위한 목적으로 자행됐다”며 “‘김건희 특검법’ 통과를 저지하고, 국정 농단 정황이 담긴 ‘명태균 게이트’의 증거 인멸을 위해 국가의 비상대권을 사유화한 것”이라고 주장했다. 이들은 “김 여사는 윤 전 대통령 불법행위의 가장 핵심적인 동기를 제공한 교사자이자 범행을 함께 계획하고 실행을 도운 공모자·방조자”라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난달 25일 비상계엄 선포로 정신적 피해를 입은 시민들이 낸 손해배상 청구 소송에서 윤 전 대통령이 1인당 10만원씩 위자료를 지급해야 한다는 판결을 내렸다. 이후 전국에서 윤 전 대통령을 상대로 ‘계엄 위자료’를 청구하는 민사 소송이 잇따르고 있다. 윤 전 대통령은 1심 판결에 불복해 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘울산시장 선거 개입 의혹’ 송철호·황운하 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 14 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>문재인 정부 청와대의 ‘울산시장 선거 개입’ 사건으로 기소됐던 송철호 전 울산시장과 황운하 조국혁신당 의원이 대법원에서 무죄 확정판결을 받았다. 대법원 2부(주심 오경미 대법관)는 송 전 시장과 황 의원의 공직선거법 위반 사건 상고심에서 무죄를 선고한 원심을 확정했다. &lt;br&gt;&lt;br&gt;이 사건은 2018년 지방선거 당시 청와대가 문재인 전 대통령의 오랜 친구이자 민주당 울산시장 후보였던 송 전 시장을 당선시키기 위해 조직적으로 선거에 개입했다는 내용이다. 송 전 시장 선거 캠프에서 경쟁 후보인 김기현 당시 울산시장과 관련한 비위 정보를 모아 청와대에 표적 수사를 청탁했고, 청와대는 이를 바탕으로 ‘범죄 첩보서’를 작성한 뒤 울산지방경찰청에 내려보내 ‘하명 수사’를 벌였다는 의혹이었다. 당시 황 의원은 울산경찰청장으로 김 시장 측을 수사했고, 송 전 시장은 선거에서 당선됐다.&lt;br&gt;&lt;br&gt;1심은 2023년 송 전 시장과 황 의원의 선거법 위반 혐의를 유죄로 판단하고 각각 징역 3년을 선고했다. 하지만 지난 2월 항소심은 “유죄 의심이 드는 것은 사실이지만 뒷받침할 만한 증거가 없다”며 무죄를 선고했다. 항소심 재판부는 “수사 청탁이 있었다는 캠프 관계자 증언은 신빙성이 없고, 범죄 첩보서는 민심 동향 파악 등 민정비서관실 업무 관행에 따른 것일 가능성을 배제하기 어렵다”고 했다. 검찰이 상고했지만 대법원은 “원심의 무죄 부분 판단에 잘못이 없다”며 원심을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중고교 150곳 접촉… 옛 교지 18권 찾아내</title>
       <link>https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/LA27V4CHDNDR5JVNSCJALP4M6E/</guid>
@@ -898,69 +967,6 @@
       <description/>
       <pubDate>Thu, 14 Aug 2025 15:57:02 +0000</pubDate>
       <content:encoded>본지는 1945년 8월 15일 광복 전후 학생들이 남긴 글과 사진을 찾기 위해 전국 중·고교 가운데 1945년 이전 개교한 150여 곳과 접촉했다. 대부분 학교는 1950년 발발한 6·25 전쟁 때 폭격 등으로 해방 전후 학생 기록을 모두 소실한 상태였다. 이에 학교 총동창회, 지자체 박물관, 민간 근현대사 연구자들로 범위를 넓혀 취재했다. 그 결과 경복중·양정중·배재중·송도중·무학여고·광주공립공업중 등 16개 학교가 1946년부터 1950년 사이 발행한 교지(校誌) 18권을 찾았다. 광복을 맞은 1945년도 교지를 갖고 있는 곳은 없었다. 당시 전쟁이 막바지에 이르며 학교 운영이 제대로 이뤄지지 않은 탓으로 보인다. &lt;br&gt;&lt;br&gt;교지는 각각 50~100쪽 분량이다. 대부분 국한문 혼용체로 쓰였고, 한글 맞춤법도 지금과 다소 달랐다. 이에 한국학중앙연구원 교육정책아카이브연구소에 의뢰해, 교지 내용을 현대식으로 번역했다. 작업에 참여한 김우영 한국학중앙연구원 교수는 “해방 전후 우리나라의 중고교생들은 현재 대학생 수준의 엘리트층이었다”면서 “유명한 독립운동가가 아닌 평범한 학생들이 바라본 해방 직후 조국에 대한 인식이 자세하게 공개된 것은 이번이 처음”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;◆한국학중앙연구원 연구진=박대권 교육정책아카이브연구소장, 김우영 교육학 교수, 박수환(서울대 교육학 박사과정), 김수민(한국학중앙연구원 한국사학 석사과정), 김현주(한국학중앙연구원 교육학 석사과정), 허지훈(한국교원대 교육학 석사과정)&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘브레이크 없는 픽시’ 타다 중학생 사망… 경찰 개학기 단속 강화</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/XP76CEK64FFW3LJLA4UK6XCRB4/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 03:41:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCERUBPHPZOM3DSYENJHUVV25A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;승합차와 자전거가 충돌한 교통사고 현장. 기사 내용과 무관한 참고사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 최근 청소년층을 중심으로 제동장치를 제거한 픽시자전거를 도로에서 운행하는 사례가 확산되고 있다며, 이를 도로교통법 제48조 제1항에 따른 ‘안전운전 의무 위반’으로 보고 개학기부터 현장 계도 및 집중 단속을 실시한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;픽시자전거는 페달과 뒤바퀴가 고정된 구조 탓에 역회전을 통해 속도를 줄이는 방식으로 운행되지만, 일부 이용자가 속도감을 즐기기 위해 브레이크를 제거한 채 ‘스키딩’ 등 급제동 기술을 도로에서 시연하면서 사고 위험이 높아지고 있다.&lt;br&gt;&lt;br&gt;사망 사고도 발생했다. 경찰에 따르면 지난달 12일 서울의 한 이면도로에서 중학생이 브레이크 없는 픽시자전거를 타고 내려오다 제동하지 못하고 에어컨 실외기를 충격해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;실제 자전거 사고는 꾸준히 증가 추세다. 경찰청 교통안전과에 따르면, 지난해 자전거 교통사고는 5571건으로 전년 대비 8.3% 증가했으며 사망자도 75명으로 전년 대비 19.0% 늘었다. 부상자 역시 6085명으로 8.6% 증가했다. 특히 18세 미만 사고 비율은 전체의 26.2%(1461건)를 차지해 사고 4건 중 1건 이상이 청소년에게서 발생한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이번 개학기에 중·고교 주변 통학로와 자전거도로에 교통경찰을 배치해 브레이크가 없는 픽시자전거를 타고 도로 및 인도를 주행할 경우 정지시켜 계도 후 단속할 예정이다. 주말과 공휴일에는 자전거 동호회 활동이 활발한 구간을 중심으로 집중 단속을 병행한다.&lt;br&gt;&lt;br&gt;단속 시 일반 운전자는 즉결심판 청구 대상이며, 미성년자(18세 미만)는 부모 통보 및 경고 조치를 실시하되, 반복 위반 시에는 아동복지법상 방임 혐의로 보호자를 처벌할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, ‘비화폰 기록 삭제 의혹’ 박종준 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/7W2YB6YB3VFVBELKDMU7KBUXNU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 16 Aug 2025 03:02:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQIWNEZKUZDTIC3SAAXMFC4ITU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박종준 전 대통령경호처장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·3 비상계엄' 관련 의혹을 수사하는 내란 특검이 16일 박종준 전 대통령경호처장을 서울고검 내 특검 사무실로 불러 조사하고 있다. 박 전 처장이 특검에 출석한 것은 이번이 네 번째다.&lt;br&gt;&lt;br&gt;특검은 박 전 처장이 작년 12월 6일 윤석열 전 대통령, 홍장원 전 국정원 1차장 등의 비화폰 사용 기록을 원격으로 삭제하는 데 관여했다는 의혹을 수사 중이다. 홍 전 차장은 당일 국회에 출석해 계엄 당일 윤 전 대통령의 지시를 받았다며, 통화 기록이 찍힌 비화폰 화면을 공개했다. 이후 국정원이 경호처에 비화폰에 대한 ‘보안 조치’가 필요하다고 전달했고, 이 비화폰은 원격 로그아웃되면서 정보가 초기화됐다.&lt;br&gt;&lt;br&gt;특검은 조태용 전 국정원장이 박 전 처장과 통화한 뒤 비화폰 기록이 삭제된 것으로 보고, 전후 과정을 규명해야 한다고 보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난달 16일 조 전 원장과 박 전 처장 주거지를 지난달 16일 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 여사, 18일 특검 출석하기로... 3차 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/17/NPT2PNML7VH2JO4KRW5BABRAIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/17/NPT2PNML7VH2JO4KRW5BABRAIU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 16 Aug 2025 02:24:05 +0000</pubDate>
-      <content:encoded>증거 인멸 우려로 지난 12일 구속 수감된 김건희 여사가 오는 18일 민중기 특별검사팀의 3차 소환에 응할 예정이다. 구속 이후 두 번째 대면조사다. 특검은 김 여사 출석을 앞두고 질문 내용을 준비 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLT2QCQF2NSOAEQKTJN4YLRYI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 14일 구속 후 첫 조사를 위해 서울 종로구에 마련된 민중기 특별검사팀 사무실로 호송차량을 타고 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 당초 밝혔던 ‘18일 변호인 접견 후 출석 여부를 결정하겠다’는 입장을 바꿔 우선 특검 사무실에 나가기로 결정했다. 조사를 시작하기 전 변호인과 잠시 만나 진술 여부 등을 정한 뒤 조사에 임하겠다는 얘기다. &lt;br&gt;&lt;br&gt;특검은 지난 14일 브리핑에서 조사 주제에 대해 “특검 내 수사팀이 협의해 결정할 계획”이라고 밝힌 바 있다. 이봉관 서희건설 회장에게 받은 ‘나토 순방 명품 3종’, 통일교 측에서 받은 ‘통일교 명품 3종’에 대한 조사가 이뤄질 가능성이 있다. &lt;br&gt;&lt;br&gt;김 여사는 이 회장으로부터 2022년 3~4월 사이 6000만원대 ‘반클리프 앤 아펠’ 목걸이를 비롯해 명품 브로치와 귀걸이를 받은 혐의, 2022년 4~7월 사이 통일교 전 세계본부장 윤영호씨로부터 6000만원대 ‘그라프’ 목걸이와 1000만원 안팎의 샤넬 가방 2개, 천수삼농축차 등을 수수한 혐의를 받고 있다. 특검은 김 여사가 이 회장에게 맏사위인 박성근 전 순천지청장의 인사 청탁과 함께 명품을 수수한 것으로 의심하고 있다. 또 통일교가 김 여사에게 정부의 지원을 부탁하면서 금품을 건넸다고 의심한다.&lt;br&gt;&lt;br&gt;김 여사는 지난 14일 구속 후 첫 조사에선 대부분의 질문에 진술거부권을 행사하면서 답하지 않은 것으로 알려졌다. 특검은 당시 조사에서 부당 선거개입과 공천개입과 관련이 있는 ‘여론조사 무상 수수’ 의혹을 집중적으로 물었다고 한다. &lt;br&gt;&lt;br&gt;김 여사는 법무부 호송차량을 타고 특검 사무실에 출석했는데, 연녹색의 수의 대신 구속영장 실질심사 당시 입었던 검은색 정장 차림이었다고 한다. 양손에는 수갑을 찼다.&lt;br&gt;&lt;br&gt;김 여사는 조사 도중 점심식사 시간엔 변호인들에게 “내가 다시 내 남편하고 살 수 있을까, 다시 우리가 만날 수 있을까”라는 심경을 전한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병특검, 김동혁 국방부검찰단장 3차 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/16/GJK7VETO2RHOPAY6CVIRTU6IBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/GJK7VETO2RHOPAY6CVIRTU6IBI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 16 Aug 2025 01:50:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKLZ4OSDGMKQMCP2R7Z7YT3XLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동혁 국방부검찰단장(육군 준장·직무배제)이 지난 13일 오전 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실에서 피의자 신분으로 출석해 조사실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 순직 사건을 수사하는 해병 특검이 16일 김동혁 국방부검찰단장을 직권남용권리행사방해 혐의 피의자로 소환해 조사하고 있다. 지난 13일과 15일에 이어 세 번째 소환이다. 김 단장은 이날 오전 9시 50분쯤 특검에 출석했다.&lt;br&gt;&lt;br&gt;김 단장은 2023년 8월 2일 해병대수사단이 순직사건 수사 기록을 경북경찰청에 이첩한 이후 국방부검찰단 내부 회의를 열어 박정훈 당시 해병대수사단장을 집단항명수괴 혐의로 입건하고, 경북청으로 넘어간 수사 기록의 회수를 지휘한 당사자로 지목됐다.&lt;br&gt;&lt;br&gt;김 단장은 같은 달 9일 이종섭 전 국방장관 지시로 조사본부가 사건기록 재검토를 시작한 이후부터 국방부 내부 회의에 참여하며 재검토 과정에 개입했다는 의혹도 제기된 상태다.&lt;br&gt;&lt;br&gt;특검은 이날 박 전 단장 수사에 참여했던 염보현 군검사도 불러 조사 중이다. 염 소형은 2023년 8월 2일 수사기록의 경찰 이첩을 강행한 박 전 단장을 집단항명수괴 혐의로 입건해 수사하다가 항명으로 혐의를 바꿔 구속영장을 청구한 것으로 알려졌다. 허위공문서 작성 및 행사, 감금 미수 등 혐의 피의자 신분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹측 “눈질환 심각” 주장에 법무부 “사실과 달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/17/QBBH4AMSDNC2DIAQFFRZFA6BPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/17/QBBH4AMSDNC2DIAQFFRZFA6BPU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 16 Aug 2025 00:57:54 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 구속 수감되면서 안과 질환 관련 정밀검사와 진료를 제때 받지 못해 실명 위험이 높아지고 있다는 주장이 이어지자, 법무부가 16일 사실과 다르다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWDYX2UV3V2BXAWBTIAAL4TBDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 오전 입장문을 내고 “서울구치소는 윤석열 전 대통령 입소 후 신입자 건강검진을 실시하여 건강상태를 확인하였고, 건강권 보장을 위해 적정한 의료 처우를 제공하고 있다”고 밝혔다. 또 안과 질환에 대해선 “한림대성심병원에서 2차례 외부 진료를 허용하는 등 수용자에게 허용되는 범위에서 필요한 의료처우를 모두 제공하고 있다”고 했다. 안과 질환을 포함해 건강상태가 매우 안 좋다고 보기 어렵고, 필요한 시술을 받지 못해 실명 위험에 처했다는 주장도 사실과 다르다는 얘기다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 지난 13일과 14일 두 차례에 걸쳐 외부 진료를 받을 때 수갑과 전자발찌 형태의 위치추적장치를 착용한 데 대해서도 “관계법령 등에 규정된 통상의 조치”라고 법무부는 설명했다. 이어 법무부는 “서울구치소는 앞으로도 건강상태에 맞춰 적극적인 의료처우를 실시할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;법무부가 이같은 입장을 밝힌 것은 국민의힘 안팎을 중심으로 비판이 계속되는 데 따른 것으로 보인다. 나경원 의원은 지난 15일 자신의 페이스북을 통해 “국제적 인권문제로 비화할 수 있는 심각한 사안”이라며 “전직 대통령에 대해 헌법과 국제인권 기준에 부합하는 합당한 처우를 해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;앞서 윤 전 대통령 변호인단은 지난달 31일 윤 전 대통령의 진단서와 소견서, 의무기록사본을 모두 제출했다고 밝히면서 “서울구치소 의료과장의 임상 진료가 있었으나, 기저 질환 및 안과 질환에 대한 정밀검사와 진료가 제때 이뤄지지 못했다”고 밝혔다. 당뇨합병증의 일종인 당뇨망막증을 앓고 있는 윤 전 대통령은 구속되기 전까지 주기적으로 안과시술을 받고 있었다고 한다.&lt;br&gt;&lt;br&gt;이 밖에도 윤 전 대통령은 심혈관 및 경동맥 협착, 자율신경계 손상으로 인한 체온조절 장애를 앓고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말에도 무더위 이어져..비 온 후에도 더워</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/17/KWAZFBFL3NGVBJNWVS4WM3SGJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/17/KWAZFBFL3NGVBJNWVS4WM3SGJQ/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 16 Aug 2025 00:30:40 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AWAE4JQLN5NC3OBPK4FTOI22RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 서초구에 해바라기가 활짝 피어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 폭염 특보가 이어지는 가운데, 토요일인 16일 최고 체감 온도가 33도 안팎까지 오르는 등 무더울 전망이다. &lt;br&gt;&lt;br&gt;기상청은 16일 이날 낮 최고 기온을 29~35도로 예보했다. 남부지방과 제주도는 체감 온도가 35도 안팎까지 오른다. 도심과 해안 지역을 중심으로 열대야 현상도 기승을 부릴 것으로 보인다. 저녁부터 다음날 아침까지 기온이 25도 이상으로 유지될 수 있다는 뜻이다. 일요일인 17일 전국 낮 최고 기온도 29~35도로 무덥다. &lt;br&gt;&lt;br&gt;16일 경기 북동부와 강원 북부 내륙에는 늦은 오후~저녁 사이 5~20mm의 비가 내릴 전망이다. 17일 아침부터 늦은 오후 사이 경기 북부와 강원 중·북부 내륙 산지에 5∼40㎜가량의 비가 내린다고 예보됐다. 기상청은 “비가 내리는 지역에서는 일시적으로 기온이 내려가겠지만, 비가 그친 뒤 습도가 높은 상태에서 기온이 다시 올라 무더울 것”이라고 했다.&lt;br&gt;&lt;br&gt;주말 무더위는 티베트 고기압과 북태평양 고기압이 만든 하강 기류가 우리나라를 덮고 있어서다.두 고기압이 만든 더운 열기 때문에 온도가 올라가는 것이다. 기상청은 “폭염특보가 확대 및 강화될 가능성이 있다”며 “온열질환 발생 가능성이 높으니 야외 활동과 외출 자제해 달라”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김용현, 작년 경호처장 때 무인기 작전에 관여 정황</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/16/OJQOAILTZVF2PMDAAGC4HDNW6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/OJQOAILTZVF2PMDAAGC4HDNW6A/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 15 Aug 2025 20:02:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QIC5QYMNSA7ZZRJRLYXITTA7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. 2024.11.28/뉴스1 ⓒ News1 김민지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관이 대통령경호처장 시절인 지난해 6월 여인형 방첩사령관과 함께 ‘평양 무인기 침투 작전’을 논의하면서 당시 김명수 합참의장, 김용대 드론작전사령관, 신원식 국방장관 등 군 핵심 관계자들과 비화폰으로 연락을 주고받은 정황을 내란 특검이 파악하고 조사 중인 것으로 15일 알려졌다. &lt;br&gt;&lt;br&gt;본지 취재 결과, 작년 6월 16일 오후 8시쯤 당시 김용현 경호처장은 여인형 방첩사령관과 무인기 작전을 논의하면서 김명수 합참의장에게 전화를 걸어 “드론작전사령부가 무인기에 전단통을 부착하는 실험을 하고 있다던데 잘 진행되고 있느냐”고 묻자 김 의장이 “잘 몰랐다”고 답한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;그러자 여 사령관이 비화폰으로 김용대 사령관에게 전화해 김 처장을 바꿔줬고, 김 처장은 “합참에 보고가 아직 안 됐느냐”고 물었다고 한다. 이어 김 처장 연락을 받았던 김 의장도 김 사령관에게 전화해 “무인기 실험을 준비 중이라고 들었는데, 직접 보고해 달라”고 요청했다. 이에 김 사령관은 정광웅 합참 작전기획부장과 통화해 대면 보고 일정을 잡은 것으로 전해졌다. 김 처장은 그날 신원식 장관에게도 전화를 걸었다. 특검은 이날 하루 약 2시간 동안 김 처장과 군 지휘부 간에 오간 무인기 관련 통화가 20여 건에 이르는 것으로 파악하고 있다. &lt;br&gt;&lt;br&gt;특검은 김 처장이 작년 5월 말 ‘국군이 심리전 드론 도입을 검토 중’이라는 언론 기사를 접한 뒤, ‘평양 무인기 침투 작전’ 계획 수립에 관여한 것으로 의심하고 있다. 이때는 북한이 오물 풍선을 한국에 처음 살포한 직후였다. 특검은 여 전 사령관도 무인기 작전 기획 단계부터 개입했을 가능성을 수사 중이다. 김용현 전 장관 측은 ‘연쇄 통화’ 의혹과 관련해 “정상적인 군사 작전을 범죄인 것처럼 수사하는 데 유감”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수많은 당들이 대가리 터지게 싸움만”… 학생들은 통합 촉구했다</title>
