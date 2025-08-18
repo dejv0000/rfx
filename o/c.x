@@ -13,6 +13,133 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“왜 中관광객에게 숙박비 5만원씩 주느냐” 항의에… 경남도 진땀 해명  </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/IT2NVK6N7NAS5EMVWZFAF2D3KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/IT2NVK6N7NAS5EMVWZFAF2D3KA/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 05:02:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LL7HJ6KV2OZAFABKX2ZHA5K2GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경상남도가 무비자로 입국하는 중국인 단체 관광객에게 숙박비를 지원한다고 알려져 “왜 세금으로 중국인을 지원하느냐”는 항의가 잇따르고 있다. 이에 경남도는 중국인뿐만 아니라 모든 외국인 관광객 유치 여행사를 대상으로 숙박 인센티브를 제공하는 것이라고 해명했다. &lt;br&gt;&lt;br&gt;앞서 경상남도는 지난 12일 오는 9월 29일부터 중국인 단체 관광객에 대한 한시적 무비자 입국을 허용하는 정부 정책에 맞춰 중국인 대상 체류형 관광 상품 판매를 시작했다는 내용의 보도자료를 냈다. 이 자료에는 경남관광재단이 관광객 1명당 숙박비 5만원을 지원한다는 내용도 포함됐다. &lt;br&gt;&lt;br&gt;이후 경남도 홈페이지에는 ‘왜 중국인 관광객에게만 세비를 투여해 5만원을 주느냐’며 지원을 중단하라는 내용의 민원이 90여 건 쏟아졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWTWOBWHQRCPPPMLR4JPTVEF4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청 홈페이지에 올라온 항의 글./ 경남도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오해가 커지자 경남도는 중국인만 대상으로 하는 정책이 아니라고 해명했다. 도는 “2009년 제정한 경남도 관광진흥 조례에 근거해 모든 외국인 단체 관광객을 유치하는 여행사에 숙박 인센티브를 주고 있다”며 “외국인 관광객 개인에게 직접 지원하는 것이 아니라 국내 숙박업계에 대한 지원”이라고 설명했다. &lt;br&gt;&lt;br&gt;이어 “지난 1∼5월 사이 경남을 찾은 대만(758명), 미국(434명), 일본(91명), 싱가포르(29명) 단체 여행객에게 숙박 인센티브를 제공했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 정부는 지난 6일 김민석 국무총리 주재로 ‘관광 활성화 미니정책TF’ 회의를 열어 9월 29일부터 내년 6월 30일까지 중국 단체 관광객 대상 무비자 입국을 허용하기로 결정한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조국 출소 뒤 올린 첫 게시물은... 펄펄 끓는 찌개와 “가족 식사”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/ZMZRTW3WLFBINOYQNJ2TU4LMOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/ZMZRTW3WLFBINOYQNJ2TU4LMOQ/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 14:22:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPDMF2GISZCBZGCZRDDBVXU6ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국 전 조국혁신당 대표가 출소 첫날 올린 게시물./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 ‘광복절 특별사면’으로 15일 출소한 조국 전 조국혁신당 대표가 가족과 함께한 식사 소식을 알리며 소셜미디어(SNS) 활동을 재개했다.&lt;br&gt;&lt;br&gt;조 전 대표는 이날 오후 페이스북에 찌개가 끓고 있는 7초 분량의 영상과 함께 “가족 식사”라는 짧은 글을 게시했다. &lt;br&gt;&lt;br&gt;앞서 조 전 대표는 지난달 말 발간한 ‘조국의 공부 - 감옥에서 쓴 편지’에서 석방되면 가장 하고 싶은 일로 가족과의 식사, 온수 샤워, 벗과 동지와의 술 한잔 등을 꼽았다. 또 “고향 부산에 가서 어머니께 인사하고 선산에 가 조상님께 절을 올리겠다”고도 썼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BS6XHT2OOQEDWDUHYWR5L6GVBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 정부 첫 특별사면·복권 대상에 오른 조국 전 조국혁신당 대표가 15일 새벽 구로구 서울남부구치소를 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 광복절을 앞두고 조 전 대표를 포함한 83만6687명에 대해 15일자로 특별사면을 단행했다. 조 전 대표의 아내인 정경심 전 동양대 교수도 사면 대상에 포함됐다.&lt;br&gt;&lt;br&gt;이날 0시2분쯤 서울남부교도소에서 출소한 조 전 대표는 “오늘 저의 사면·복권과 석방은 검찰권을 오남용해 온 검찰의 독재가 종식되는 상징적 장면의 하나로 기록될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “헌법적 결단을 내려주신 이재명 대통령님께 깊은 감사의 인사를 드린다”며 “저의 사면에 대해 비판의 말씀을 해 주신 분들에 대해서도 존경의 마음으로 경청하고 있다”고 했다.&lt;br&gt;&lt;br&gt;조 전 대표는 자녀 입시 비리와 청와대 감찰 무마 등 혐의로 작년 12월 징역 2년의 실형을 선고받고 수감됐으나, 약 8개월 만에 석방됐다. 내년 12월 만기 출소 예정으로 형기가 1년 이상 남은 상황이었다.&lt;br&gt;&lt;br&gt;당초 형 집행 종료 후 5년간인 2031년 12월까지 피선거권이 박탈됐지만, 이번 복권으로 피선거권까지 회복돼 정치 활동도 재개할 수 있게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“택배기사는 월 5000원 내라”… 공동현관 통행세 요구한 아파트</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/2D4WQHQ3ANASZKINEM2LHF5YX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/2D4WQHQ3ANASZKINEM2LHF5YX4/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 13:24:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7DVLIKTVTBIVLF3JLSELPBH2P4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 서울복합물류단지에서 택배 기사가 상차 작업을 하고 있다. (기사와 직접 관련 없음)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 한 아파트에서 공동출입문 이용료로 택배 기사에게 매달 5000원을 요구했다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;지난 13일 온라인 커뮤니티 보배드림에는 ‘택배기사에게 매달 5000원 통행세 받는 순천 아파트 갑질’이라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자는 “순천 모 아파트 택배 기사 갑질 사례를 공유한다”며 한 택배 기사로부터 받은 문자메시지를 공개했다.&lt;br&gt;&lt;br&gt;이 문자에는 “아파트 관리사무소에서 4년 동안 잘 사용해오던 공동현관 비밀번호를 변경하더니 현관문 카드 보증금 5만원에 월 사용료 5000원을 내라고 하고 있다. 문자로 공동현관문 비밀번호 알려주면 문 앞 배송하겠다”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;작성자는 “문자를 통해 이런 사실을 알게 됐다”며 “공동현관 출입 카드키 구매는 다른 아파트도 그런 곳이 있다고 하니 백번 양보해 이해할 수 있다지만, 매달 이용료를 받는 건 도가 지나친 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 관리사무소에 문의한 결과 “입주자대표회의에서 결정한 사항이라 우리는 따를 뿐”이라는 답변을 받았다고 한다.&lt;br&gt;&lt;br&gt;작성자는 “택배 기사분들이 단체로 아파트 입구에 물건을 두고 가거나 입주민들이 집단으로 문제를 제기해야 이 문제가 사라질 것 같다”며 “주문한 물건을 배달하는 분들에게 월 이용료를 받는 건 상식적으로 말이 안 된다”고 주장했다. &lt;br&gt;&lt;br&gt;그러면서 “무슨 권리로 통행세를 받는지 모르겠다. 이건 명백한 갑질”이라고 지적했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들 사이에서도 “택배사에서 블랙리스트 만들어서 택배 불가 단지로 만들어야 한다” “택배 시킨 사람한테 돈을 받아야지” “저런 아파트는 집 앞으로 배송해줄 필요 없다” “월 사용료는 누가 챙기겠다는 거냐” 등 ‘통행세’를 두고 비판적인 반응이 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 이춘석도 보좌관도 주식 차명 거래 시인</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/36USEODY4RGEDMCNWXITQS44BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/36USEODY4RGEDMCNWXITQS44BI/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 11:11:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U23GRYLMPFP4BHAGE7GTB6SXNQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;주식 차명거래 의혹이 제기된 이춘석 무소속 의원이 15일 새벽 서울 마포구 서울경찰청 금융범죄수사대에서 조사를 마친 뒤 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 차명 거래 의혹을 받는 이춘석(4선·전북 익산갑) 무소속 의원이 경찰 조사에서 차명 거래 혐의(금융실명법 위반)를 인정한 것으로 15일 알려졌다. 이 의원은 지난 4일 국회 본회의 도중 보좌관 차모씨 명의 스마트폰 주식 거래 앱을 만지는 장면을 찍은 사진이 보도되자 “차명 거래는 없었다”고 했었다. 그러나 경찰 조사에서 혐의를 인정한 것이다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 지난 9일 차씨 휴대폰에 깔려 있던 주식 거래 앱 회사인 미래에셋증권을 압수 수색해 거래 내역을 확보했다. 11일엔 이 의원 사무실에서 관련 PC 등을 확보했고, 그날과 12일 두 차례에 걸쳐 차씨를 소환 조사했다. 경찰은 이 의원이 차씨 명의를 빌려 증권 거래 계좌를 열어놓고 장기간 차명 거래를 해온 것 아니냐고 추궁했고, 차씨는 이를 인정하는 취지의 진술을 한 것으로 전해졌다. 이에 경찰은 이틀 뒤인 14일 이 의원을 소환했고, 이 의원도 차씨 계좌를 빌려 주식 거래를 한 사실을 인정했다고 한다. 주식 차명 거래는 금융실명법에서 금지돼 있고, 위반 시 5년 이하 징역 또는 5000만원 이하 벌금에 처해진다. &lt;br&gt;&lt;br&gt;경찰은 이 의원과 차씨를 자본시장법 위반 혐의로도 입건한 상태다. 이 의원은 지난 4일 본회의장에서 차씨 명의로 인공지능(AI) 관련주인 네이버와 LG씨엔에스 주식을 거래하는 모습이 포착됐다. 이 의원이 이재명 정부 국정기획위원회에서 AI 정책을 담당하는 경제2분과장을 맡았던 만큼 경찰은 정부 내부 정보를 이 의원과 차씨가 공유했고, 이를 이용해 주식 거래에서 이득을 취했을 가능성이 있다고 의심한다. 그러나 이 의원, 차 보좌관 모두 이 혐의에 대해선 부인하고 있다. 지난 14일 저녁 경찰에 출석한 이 의원은 7시간의 조사 뒤 ‘혐의를 인정하느냐’는 기자들 물음에 “물의를 일으킨 데 대해 국민들에게 깊이 사죄드린다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/U23GRYLMPFP4BHAGE7GTB6SXNQ.JPG?auth=4fd7108872cf87f728b63e5f56cdc6a0d101d99cd4136f8581e63a2c4ef3f650&amp;smart=true&amp;width=2009&amp;height=1452" type="image/jpeg" height="1452" width="2009">
+        <media:description type="plain">주식 차명거래 의혹이 제기된 이춘석 무소속 의원이 15일 새벽 서울 마포구 서울경찰청 금융범죄수사대에서 조사를 마친 뒤 나서고 있다./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 구윤성 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>인천, 광복절 오후까지 폭우...도로·주택 침수 신고 수십건 </title>
+      <link>https://www.chosun.com/national/incident/2025/08/16/3YX4OFB7FVFMRBGKTVJOFCLJ6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/16/3YX4OFB7FVFMRBGKTVJOFCLJ6Y/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 09:53:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJ3MC4J635NDHIQRIAKYMMTREQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 인천역 인근 제물량로가 집중호우로 침수돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 새벽부터 오후까지 인천 곳곳에 많은 비가 쏟아지면서 도로와 주택이 물에 잠기는 피해가 이어졌다.&lt;br&gt;&lt;br&gt;인천시에 따르면 이날 오전 0시부터 오후 4시까지 인천 중구 전동에 60.7mm의 비가 쏟아지는 등 많은 비가 내렸다. 미추홀구 숭의동 60.7mm, 서구 경서동 45mm, 동구 송림동 33mm, 옹진군 북도면 31.5mm 등이다.&lt;br&gt;&lt;br&gt;인천 곳곳서 주택이 침수되거나 도로가 잠기고, 토사가 흘러내리는 등 모두 58건의 호우 피해가 집계됐다. &lt;br&gt;&lt;br&gt;이날 서구 공촌동에서는 토사가 흘러내렸다는 신고가 접수됐다. 가현산 묘각산 입구에서는 나무가 쓰러지기도 했다.&lt;br&gt;&lt;br&gt;동구에서는 화수사거리 등에서 도로가 물에 잠기는 피해가 있었다.&lt;br&gt;&lt;br&gt;남동구 석정로, 구월로, 하촌로 등에서는 7건의 주택 침수 사례가 접수됐다. 상가가 잠기는 경우도 있었다. 구청과 소방 당국은 현재 모두 안전 조치를 마쳤다.&lt;br&gt;&lt;br&gt;인천 내륙과 강화·옹진에는 오전 한때 호우주의보가 발효됐다가 오후 1시 30분을 기해 모두 해제된 상태다.&lt;br&gt;&lt;br&gt;인천에서는 지난 13∼14일 모두 942건의 호우 피해가 접수되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주차장 불길 혼자 다 껐다, 알고보니 퇴직한 소방관</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/MYCM2SCS35DVVOGT4IUPJQWVGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/MYCM2SCS35DVVOGT4IUPJQWVGA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 09:28:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J557CKJKRZFRDOJFNH2OUOI5YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 소방관인 정창하씨가 화재를 진압하는 모습./서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건물 소방 안전 관리 업무를 하던 퇴직 소방관이 지하 주차장에서 난 불을 초기에 진화해 추가 피해를 막았다.&lt;br&gt;&lt;br&gt;15일 서울시 소방재난본부에 따르면 지난 4일 오후 1시쯤 서울 양천구 소재의 한 주상복합 건물 지하 주차장에 주차돼 있던 차량에서 불이 났다.&lt;br&gt;&lt;br&gt;퇴직 소방관인 정창하씨는 건물 관리실에서 감시카메라(CCTV)로 건물 내부의 안전을 살피다가 화재를 목격했다.&lt;br&gt;&lt;br&gt;정씨는 곧바로 119에 신고한 뒤 신속하게 화재 현장으로 이동해 소화기로 초기 진화를 시도했다.&lt;br&gt;&lt;br&gt;분말 소화기 2개를 분사했지만 차량에 붙은 불이 꺼지지 않자, 인근에 있던 옥내 소화전을 활용해 불길을 잡았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K6XEZN3MGNE6FMUBVJ4S6XZQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;퇴직 소방관인 정창하씨가 화재를 진압하는 모습./서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신속한 초기 진화가 없었다면 인근 차량으로 불길이 번져 대형 화재 사건이 될 수도 있었던 상황이었다.&lt;br&gt;&lt;br&gt;이 건물 소방 안전 관리 업무를 맡고 있는 정씨는 2023년 서울 강서소방서에서 근무하다 퇴직한 35년 경력의 베테랑이다.&lt;br&gt;&lt;br&gt;정씨는 “소방관으로서 국민의 생명과 안전을 지키는 소임을 다하고 소방 안전 관리 업무로 제2의 인생을 이어 가던 중 몸으로 익힌 화재 진압 기술로 초기 진화에 성공했다”며 “전직 소방관으로서의 마지막 남은 짐을 내려놓은 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;권혁민 서울시 소방재난본부장은 “시민분들께서도 나와 내 이웃의 안전을 지킨다는 마음으로 소화기, 옥내 소화전 등의 사용법을 꼭 숙지해 달라”며 “자체 소방 훈련에도 꼭 동참하시길 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광복절 경축식 무대 오른 조진웅… ‘국기에 대한 맹세문’ 낭독 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/IBSFMOV2MNC6HD5PDUYZCTWAGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/IBSFMOV2MNC6HD5PDUYZCTWAGI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 08:19:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYRLKM5EQZGA5ONPFBU4UEG7OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅이 15일 서울 종로구 세종문화회관에서 열린 제80주년 광복절 경축식에서 국기에 대한 맹세문 낭독자로 나섰다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조진웅이 제80주년 광복절 경축식에서 국기에 대한 맹세문을 낭독했다. &lt;br&gt;&lt;br&gt;조진웅은 15일 서울 종로구 세종문화회관에서 열린 제80주년 광복절 경축식에서 국기에 대한 맹세문 낭독자로 나섰다.&lt;br&gt;&lt;br&gt;검은색 정장과 안경을 쓰고 무대에 오른 조진웅은 “나는 자랑스러운 태극기 앞에 자유롭고 정의로운 대한민국의 무궁한 영광을 위하여 충성을 다할 것을 다짐합니다”라고 했다. &lt;br&gt;&lt;br&gt;연예인이 광복절 경축식 낭독자로 나선 건 2019년 제74주년 경축식에 참석한 그룹 신화 김동완 이후 6년 만이다.&lt;br&gt;&lt;br&gt;조진웅은 2021년 홍범도 장군 유해 국내 봉환 시 국민 특사로 참여한 것을 계기로 낭독자로 선정됐다.&lt;br&gt;&lt;br&gt;조진웅은 각종 작품에서 일제강점기 독립운동가 역할을 맡았다. &lt;br&gt;&lt;br&gt;지난 13일 개봉한 홍범도 장군의 삶을 다룬 다큐멘터리 영화 ‘독립군: 끝나지 않은 전쟁’의 내레이션으로 참여했으며, 백범 김구 선생의 청년 시절을 모티브로 해 2017년 개봉한 영화 ‘대장 김창수’에서는 청년 시절의 김구 선생을 연기했다.&lt;br&gt;&lt;br&gt;2015년 개봉해 1200만 관객을 동원한 영화 ‘암살’에서는 신흥무관학교 마지막 졸업생 출신의 독립군 ‘추상옥’을 맡았다. &lt;br&gt;&lt;br&gt;정치적 소신도 가감 없이 드러내 왔다. 지난해 12·3 비상계엄 당시에는 ‘윤석열 파면 촉구’ 집회에 영상 메시지를 보내 “윤석열 전 대통령이 민주주의를 비상계엄으로 파괴했다”고 했다. &lt;br&gt;&lt;br&gt;조진웅은 그간의 행보와 관련 지난 10일 방송된 JTBC ‘뉴스룸’과의 인터뷰에서 소신을 밝히는 데 배우로서 부담을 느끼지 않느냐는 질문을 받기도 했다. &lt;br&gt;&lt;br&gt;그는 “왜 부담을 느껴야 하느냐. 그런 사회가 만들어져서는 안 된다”며 “잘못된 것은 잘못됐다고 말할 수 있는 게 대한민국 국민의 권리다. 소속사에서는 부담스러워하지만 나는 신경 쓰지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NYRLKM5EQZGA5ONPFBU4UEG7OM.jpg?auth=8ea3e07f86668d22a5bc981f8cb1ea478d6dfb7fd87701f17c0203a0c68edca0&amp;smart=true&amp;width=721&amp;height=539" type="image/jpeg" height="539" width="721">
+        <media:description type="plain">배우 조진웅이 15일 서울 종로구 세종문화회관에서 열린 제80주년 광복절 경축식에서 국기에 대한 맹세문 낭독자로 나섰다./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>침수된 도로를 맨손으로 뚫었다... 화정역 ‘배수구 의인’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/27P2QAAKDVD75C4KD477SC65FA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/27P2QAAKDVD75C4KD477SC65FA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 06:51:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22WNFPNZ6VFABPZTBSL577YZ7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 경기 일산에서 한 여성이 침수된 도로를 막고 있는 쓰레기를 제거하고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이틀간 수도권에 쏟아진 강한 비로 도로 곳곳이 잠긴 가운데, 맨손으로 도로 배수구를 뚫는 시민들의 모습이 포착돼 화제다.&lt;br&gt;&lt;br&gt;지난 14일 한 인스타그램 계정에는 “멋진 시민의식 존경합니다”라는 글과 함께 한 여성의 모습을 담은 영상이 게재됐다.&lt;br&gt;&lt;br&gt;영상 속 여성은 침수된 도로 옆 인도에 쪼그려 앉은 채 흙탕물 안으로 손을 넣어 나뭇잎과 쓰레기 등을 꺼내고 있다. 배수구가 막혀 도로에 물이 차자 직접 나선 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3X6KML4O2ZH2HNIIYTXGI24JQE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 경기 일산에서 한 여성이 침수된 도로를 막고 있는 쓰레기를 제거하고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영상이 촬영된 곳은 경기 고양시 덕양구 지하철 3호선 화정역 인근으로 전해졌다. 소셜미디어에는 같은 날 화정역 인근 도로가 잠긴 모습이 담긴 영상도 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;이 영상은 320만회 넘는 조회수를 기록하며 온라인상 화제가 됐다. 네티즌들은 “한국의 보이지 않는 영웅이다” “그것도 맨손으로, 정말 대단하다” “길가에 담배꽁초 버리는 사람들이 해야 할 일” “비 오기 전에 배수로 청소 좀 해줬으면 좋겠다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MAWUIG7LFADNCFGYSHMDRJ3OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스트리머 '숲애견'이 경기 김포에서 침수된 도로를 막고 있는 쓰레기를 제거했다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청에 따르면 지난 13일부터 14일 오전 11시까지 누적 강수량은 경기 파주 317.5㎜, 인천 옹진 289.6㎜, 인천 중구 운남 288.5㎜, 동두천(하봉암) 276.5㎜ 등으로 측정됐다.&lt;br&gt;&lt;br&gt;13일 하루 동안에만 248.5㎜의 폭우가 쏟아진 경기 김포에서도 비슷한 선행이 전해졌다. &lt;br&gt;&lt;br&gt;‘숲애견’이라는 이름의 스트리머는 김포의 한 도로가 물에 잠기고 있는 현장을 발견하고 맨손으로 배수구를 막고 있던 낙엽과 쓰레기를 제거했다. &lt;br&gt;&lt;br&gt;그가 공개한 영상에는 쓰레기를 치우자 막혀 있던 빗물받이가 뚫려 도로에 고여 있던 물이 순식간에 빠져나가는 모습이 담겼다. 그에게도 “배수로 의인이다” “속 시원하다” 등의 반응이 쏟아졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3X6KML4O2ZH2HNIIYTXGI24JQE.gif?auth=78babd5fbe20407bd6c4597ca85050eaa322b51c45ebb218b24bea60ceb7728d&amp;smart=true&amp;width=517&amp;height=525" type="image/jpeg" height="525" width="517">
+        <media:description type="plain">지난 14일 경기 일산에서 한 여성이 침수된 도로를 막고 있는 쓰레기를 제거하고 있다./인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>배달 늦다고 면박당한 배달 기사… “매장에 폭발물 설치” 자작극</title>
+      <link>https://www.chosun.com/national/incident/2025/08/19/KLH5BGGNCZELBIYVU2LF6IVWUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/19/KLH5BGGNCZELBIYVU2LF6IVWUI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 04:22:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원의 패스트푸드점에 대한 폭발물 신고가 접수돼 경찰특공대가 출동하는 등 소동이 빚어진 사건은 해당 점포로부터 면박 당한 배달 기사가 벌인 자작극으로 드러났다. &lt;br&gt;&lt;br&gt;경기 수원영통경찰서는 20대 배달 기사 A씨를 위계에 의한 공무집행방해 및 업무방해 혐의로 긴급 체포했다고 18일 밝혔다. 경찰은 A씨에 대해 구속영장을 신청하는 한편, 공중협박 혐의 적용도 검토 중이다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 1시 7분쯤 소셜네트워크에 “배달이 늦고 직원들이 불친절하다. 폭발물을 설치하겠다”는 글을 올렸다. 그는 이후 마치 글을 본 목격자인 것처럼 112에 신고하는 등 자작극을 통해 경찰을 속였다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰특공대는 수원 영통구 한 패스트푸드점에 출동해 1시간 40여분간 탐지작업을 벌였다. 지상 9층·지하 3층 규모 건물에는 병원과 학원 등이 입점해 있어, 당시 환자와 학생 등 400여명이 대피해야 했다.&lt;br&gt;&lt;br&gt;경찰은 글 게시자의 아이디를 추적해 사건 발생 3시간 만에 A씨를 붙잡았다. 조사 결과 그는 최근 해당 매장 관계자로부터 ‘배달이 늦는다’는 말을 듣고 불만을 품었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “허위 폭발물 협박은 시민 불안을 초래하고 막대한 사회적 비용을 발생시킨다”며 “엄정 대응할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희 측근’ 김예성, 구속 심사 출석…묵묵부답</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/KHG5KCLBKNGJJA6TBZUBVF6LAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/KHG5KCLBKNGJJA6TBZUBVF6LAM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 05:31:43 +0000</pubDate>
+      <content:encoded>김건희 여사의 측근으로 알려진 김예성씨가 15일 구속 심사에 출석했다. 김씨의 구속 여부는 이르면 이날 밤 결정된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6DWEBT4W6FJUTA6HOQMJAIAGGY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 집사로 알려진 김예성 씨가 15일 오후 서울 서초구 서울중앙지법에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 임정빈 판사는 이날 오후 2시부터 특정경제범죄가중처벌법 위반(횡령) 혐의를 받는 김씨에 대한 구속 영장실질심사를 진행한다. 임 판사는 광복절 공휴일 당직 법관이다.&lt;br&gt;&lt;br&gt;김씨는 심사 약 2시간 전인 낮 12시 12분쯤 검은 정장에 푸른 셔츠 차림으로 두 손을 묶인 채 법원에 도착했다. “횡령 혐의를 인정하느냐” “부정한 일에 연루된 바 없다는 입장 동일하냐”고 묻는 취재진 질문에는 답하지 않고 법정으로 향했다. 김씨는 심사 전까지 법원 내 구치감에서 대기한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김씨는 2023년 6월 자신이 설립에 관여하고 지분을 갖고 있던 렌터카 업체 IMS모빌리티가 카카오모빌리티·HS효성 등 기업들로부터 184억원을 투자받았을 당시 김 여사와의 관계를 빌미로 영향력을 행사했다는 의심을 받고 있다. &lt;br&gt;&lt;br&gt;특히 당시 투자자들이 이노베스트코리아의 지분을 사들이면서 해당 회사는 46억원을 받고 ‘엑시트’에 성공했는데, 이 회사가 김씨의 차명법인으로 드러났다. 김씨는 46억원 중 이노베스트코리아 명의로 24억3000만원, 개인 명의로 11억원을 조영탁 IMS모빌리티 대표에게 빌려줬다고 해명했다. 특검은 조씨에게 빌려준 금액을 포함해 김씨가 총 33억여 원을 횡령한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;김씨는 윤석열 전 대통령 파면 이후인 지난 4월 한국을 떠나 베트남에 머물다 수사 대상이 됐다. 특검팀은 지난 12일 김씨가 베트남 호치민에서 귀국하자 인천국제공항에서 체포했고, 12일과 13일 이틀간 조사한 뒤 14일 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金 여사에 ‘바쉐론’ 시계 건넨 사업가 “여사가 먼저 후원금 요청”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/16/O6JRWAG5NRBV7HFGYKNHDWXMGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/16/O6JRWAG5NRBV7HFGYKNHDWXMGQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 05:20:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAKAF33YIJY2C4VQIH2G5WCDU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 5000만원대 ‘바쉐론 콘스탄틴’ 시계를 선물한 사업가 서성빈씨가 “김건희 여사가 먼저 후원금을 요청했다”는 취지로 특검에 진술한 것으로 파악됐다. 특검은 이같은 진술을 바탕으로 김 여사가 후원금 모집 과정에 강압적으로 개입했는지 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;15일 법조계에 따르면 로봇개 수입업체를 운영하는 서씨는 지난 8일 특검에서 “김 여사가 대선 전 전화가 와서 후원금을 모아 달라고 했다”고 진술했다. 서씨는 지난 제20대 대선 당시 윤석열 국민의힘 대선 후보에게 1000만원을 후원했었는데, 이같은 후원이 김 여사 측의 요청으로 이뤄졌다는 것이다.&lt;br&gt;&lt;br&gt;또 서씨는 “김 여사가 ‘이재명보다 빨리 모아야 한다’고 말했다”는 진술도 특검에 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 서씨는 지난 14일 CBS ‘김현정의 뉴스쇼’에서 “1000만원만 낸 게 아니다”라며 “주변 사람이 많아서 꽤 많이 해줬다”고 했다. 서씨는 본지와의 통화에서 “주변인들을 설득해 최소 7000만원은 내가 지원했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;서씨는 2022년 9월 바쉐론 시계를 구매해 김 여사에게 전달했다고 주장하고 있다. 서씨는 5400만원짜리인 이 시계를 매장에서 ‘VIP 할인’을 받아 3500만원에 구매했다고 알려졌다. 특검은 이 시계가 청탁용일 가능성을 의심하고 수사 중이지만, 서씨가 명품 매장에서 시계를 직접 구매하기 어려운 김 여사를 대신해 ‘대리 구매’했을 가능성도 있다고 보는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 시내버스, 전국 최초 홍채인식으로 음주운전 막는다 </title>
+      <link>https://www.chosun.com/national/regional/2025/08/19/AOC24EUEL5AYLCLDIDBP4FSESE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/AOC24EUEL5AYLCLDIDBP4FSESE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 04:36:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEFH6EKBWFAPXIEROMMSKWH23E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 시내버스. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 최초로 부산 시내버스에 홍채 인식을 기반으로 하는 음주 측정 시스템이 도입된다.&lt;br&gt;&lt;br&gt;부산시는 사업비 약 3억원을 들여 부산지역 여객 운수사업장 33곳 등 모두 53곳에 해당 시스템을 구축 중이라고 18일 밝혔다.&lt;br&gt;&lt;br&gt;이 시스템은 운전기사의 홍채를 등록한 뒤 음주 측정이 이뤄지는 방식이다. 음주 측정을 할 때 홍채를 등록한 사람과 같은 인물인지 확인하기 위해 안면 인식도 함께 진행한다. 운전기사의 운행 전 대리 음주 측정을 막기 위한 것이다. &lt;br&gt;&lt;br&gt;혈중알코올농도 0.02% 이상으로 운행 중지 판단이 내려지면 현장에서 경고음과 음성 안내가 나와 당사자는 물론 여객 운수 사업장 전체에 통보된다.&lt;br&gt;&lt;br&gt;여객 운수 사업장은 운전기사의 운행 전에 음주 측정을 의무적으로 해야 하는데 보완책이 필요하다는 지적이 제기돼왔다.&lt;br&gt;&lt;br&gt;앞서 지난달 영도구 A여객에서 한 운전기사가 면허취소 수치인 혈중알코올농도 0.09% 상태로 중구 민주공원까지 10㎞ 구간을 운행한 일도 있었다.&lt;br&gt;&lt;br&gt;부산시 관계자는 “시험 기간을 거친 뒤 오는 9월 말부터 본격적으로 시행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘15명 사상’ 동대문 다세대주택 화재 방화였다… 30대 남성 검거 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/16/TDUUV4VIXVDV7MA5QBNY3FGKKM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 15 Aug 2025 02:47:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 제기동의 한 다세대주택에서 불을 질러 15명의 사상자를 낸 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 14일 오후 5시 58분쯤 서울 성동구의 한 상가 앞에서 방화 혐의로 30대 남성 A씨를 체포해 조사 중이라고 15일 밝혔다. A씨는 지난 12일 밤 11시 52분쯤 제기동 4층짜리 다세대주택 주차장에서 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 건물 주변 CCTV를 분석한 결과, 불이 주차장에 세워둔 폐지 리어카에서 시작된 것으로 보고 있다. 범행 직후 도주한 A씨는 범행 나흘 만에 검거됐다. 경찰은 조사를 마치는 대로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;불이 난 건물은 1층이 기둥으로 지탱되는 ‘필로티’ 구조였다. 필로티는 공기 유입이 쉬워 화세가 급격히 커지고, 상층부로 대피가 어려워 대형 인명피해로 이어질 가능성이 높다. 특히 해당 건물 주차장 천장은 열에 취약한 폴리카보네이트(PC) 재질로 덮여 있었고, 화재 확산을 막을 스프링클러도 설치돼 있지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>주지스님 숨진 뒤 계좌서 2억원 빼돌린 승려들…대법 “유족 재산 횡령”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/18/XZ7W2ZFSG5HCFOU5DGBNPO5UO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/XZ7W2ZFSG5HCFOU5DGBNPO5UO4/</guid>
@@ -539,117 +666,6 @@
       <content:encoded>시민 1만1000명이 12·3 비상계엄 선포로 정신적 피해를 입었다며 윤석열 전 대통령과 배우자 김건희 여사에게 1인당 10만원의 위자료를 공동으로 청구하는 소송을 제기한다. 이들을 대리하는 김경호 변호사는 17일 “18일 서울중앙지법에 소송을 제기할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이번 소송은 김 여사를 비상계엄 선포의 ‘공동 불법행위자’로 보고 배상 책임을 묻는 게 특징이다. 소송을 내기로 한 이들은 소장에서 “비상계엄은 오로지 김 여사 개인을 향한 사법적 압박을 회피하기 위한 목적으로 자행됐다”며 “‘김건희 특검법’ 통과를 저지하고, 국정 농단 정황이 담긴 ‘명태균 게이트’의 증거 인멸을 위해 국가의 비상대권을 사유화한 것”이라고 주장했다. 이들은 “김 여사는 윤 전 대통령 불법행위의 가장 핵심적인 동기를 제공한 교사자이자 범행을 함께 계획하고 실행을 도운 공모자·방조자”라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난달 25일 비상계엄 선포로 정신적 피해를 입은 시민들이 낸 손해배상 청구 소송에서 윤 전 대통령이 1인당 10만원씩 위자료를 지급해야 한다는 판결을 내렸다. 이후 전국에서 윤 전 대통령을 상대로 ‘계엄 위자료’를 청구하는 민사 소송이 잇따르고 있다. 윤 전 대통령은 1심 판결에 불복해 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>스프링클러 없어… 아파트 14층서 화재, 母子 참변</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/2ZSJX2NW3RDX5GBM3F5UY6LAVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/2ZSJX2NW3RDX5GBM3F5UY6LAVE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQZO5KPOWZIBLNVUJICIRT2PM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 마포구 창전동의 한 아파트 에서 화재가 발생해 불길이 번지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구의 한 아파트에서 불이 나 2명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국 등에 따르면 17일 오전 8시 11분쯤 서울 마포구 창전동 삼성아파트 14층에서 화재가 발생했다는 신고가 접수됐다. 화재 당시 현장 인근 주민들은 ‘펑’ 하는 소리와 함께 베란다 창문에서 불과 검은 연기가 치솟았다고 설명했다. 화재가 발생한 세대는 전소(全燒)했고 맞은편 집도 외벽 등이 타 소실됐다.&lt;br&gt;&lt;br&gt;불길은 신고 2시간 30여 분 만인 10시 42분에 잡혔다. 현장에는 소방 인력 186명과 차량 79대가 투입됐다. 소방과 경찰 당국은 18일 합동 감식을 통해 정확한 화재 원인과 피해 규모를 조사할 예정이다. 소방당국 관계자는 “방 안에서 충전 중인 전동 스쿠터 배터리에서 폭발이 발생한 것으로 추정된다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN2YLBMHVNAJ7BVJJIIJGSFX5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 마포구 창전동 한 아파트 화재현장에서 화재감식 관계자들이 입구 앞에 놓인 스쿠터를 조사하고  있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 화재로 숨진 2명 외에 13명이 다치고 89명이 대피했다. 사망한 60대 여성과 20대 남성은 불이 난 집 거주자로 모자(母子)였다. 아들은 화재 현장에서 사망했고, 어머니는 심정지 상태로 발견돼 심폐소생술을 받으며 병원에 이송됐지만 끝내 숨졌다. 4개 층 위로 자력 대피한 60대 아버지는 이웃 주민들을 붙잡고 “우리 아들 못 봤느냐”며 가족을 찾아다닌 것으로 알려졌다. 아버지도 연기를 흡입하고 등에 화상을 입어 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;화재가 발생한 이 아파트 14층에는 화재 때 물을 뿌려주는 ‘스프링클러’가 설치되지 않아 불길이 더 빠르게 번진 것으로 보인다. 아파트가 준공된 1998년 당시만 해도 스프링클러 설치 의무는 공동주택의 16층 이상에만 적용됐다. 2004년부터 11층 이상, 2018년부터 6층 이상 아파트의 전층에 스프링클러 설치가 의무화됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 끊지 못하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/18/POKM4Y3ULNHS3LNEVMUVYZRMRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/18/POKM4Y3ULNHS3LNEVMUVYZRMRI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2ZZD6CVRBF27JG3E2Q6O4MEKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 비화폰(祕話폰)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/18/WQAUHWRIRNGIVGKL7332QIIVS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/18/WQAUHWRIRNGIVGKL7332QIIVS4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRYZW7GHNNEK7GGJAIY72WBEIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2685] 바꿔 부르기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/18/XBDEJYBG6VHSPAZR5IP55MWMIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/18/XBDEJYBG6VHSPAZR5IP55MWMIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KOGTGMYHNFOHBUSTJVCRUSJK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 숨김없이 말하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/18/H4DK2R6F5NF2ROIP25RDQ2LXMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/18/H4DK2R6F5NF2ROIP25RDQ2LXMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAJJF2OLINAIZIFGATRVDHNTUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [산 이야기] 등산 초보자 혼쭐내는 산...조선 시대엔 ‘불[火] 기운’ 품은 두려움의 대상이었대요</title>
-      <link>https://www.chosun.com/national/nie/2025/08/18/42HMVYYK45BYRPRPKCP7MF3RQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/18/42HMVYYK45BYRPRPKCP7MF3RQY/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:32:00 +0000</pubDate>
-      <content:encoded>더위가 그나마 아침과 저녁에 조금이라도 꺾인 덕분에, 요즘 집에서 가까운 뒷산을 산책하는 분들이 다시 늘고 있는 것 같네요. 사람들이 많이 찾은 관악산(높이 632m)은 서울 관악구·금천구, 경기도 안양시·과천시에 걸쳐 있는 수도권 남부의 거대한 뒷산이자, 자연을 만날 수 있는 가까운 통로입니다. &lt;br&gt;&lt;br&gt;1970~1980년대 우리나라가 빠르게 발전할 때, 이 일대 공단에서 일하던 노동자들에게 관악산은 스트레스를 풀어주는 쉼터였어요. 실제로 관악산은 30분만 올라가도 바위산 특유의 멋진 경치가 눈앞에 펼쳐집니다. 그래서 수도권 남부의 ‘오아시스’라고 불리기도 해요. 그럼에도 서울을 대표하는 명산인 북한산에 비해 늘 뒷전으로 밀려나 있었죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIKA2WTNYFADLN77CR67SU5WVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;관악산 정상에서 남쪽 안양 방면으로 뻗은 관양 능선의 모습.
-/영상미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관악산은 멋진 바위 능선을 자랑하지만, 국립공원으로 지정돼 보호를 받은 북한산과 달리 온갖 개발에 시달려 왔습니다. 정상에는 기상 레이더 관측소와 방송 송신탑이 있고, 이 시설까지 가기 위해 놓은 케이블카 시설도 있어요. 관악산 중턱에는 서울대학교 관악캠퍼스가 자리 잡고 있는데, 산을 깎아 세운 건물만 100개가 넘습니다. 관악산 남쪽에 있는 안양시 일대 역시 산이었던 곳을 깎아 아파트가 들어섰지요.&lt;br&gt;&lt;br&gt;관악산은 산길이 거미줄처럼 복잡하기로도 유명합니다. 여러 지자체가 나눠 관리하다 보니 관리에 미흡한 측면이 생긴 겁니다. 가령 관악산에 ‘국기봉’이라는 이름의 봉우리만 10개가 넘어요. 국기 게양대가 있는 봉우리는 모두 ‘국기봉’이라 부르고 있어요. 마치 한 반 학생 20명 중 10명이 같은 이름을 가진 것과 비슷합니다. 과거 문헌을 살피고, 봉우리 특징을 분석해 고유의 이름을 붙여줘야 변별력을 갖게 되고, 명소로 거듭날 수 있는 것이지요.&lt;br&gt;&lt;br&gt;조선 시대에도 관악산은 제대로 대접을 받지 못했습니다. 당시 사람들은 관악산이 풍수지리학적으로 불[火]의 기운을 잔뜩 품고 있다 해서 두려움의 대상으로 여겼죠. 또 경복궁을 관악산의 불기운에서 보호하고자 광화문에 해태상을 세웠다고도 해요. &lt;br&gt;&lt;br&gt;관악산의 산세는 매우 아름답습니다. 수려함으로 따지면 최근 20년 사이 지정된 국립공원들보다도 뛰어날 정도지요. 어느 길로 올라가도 불꽃처럼 화려한 바위 능선을 만날 수 있고, 정상인 연주대에 오르면 서울 남부가 내려다보이는 시원한 경치가 펼쳐집니다. 관악산(冠岳山) 이름의 관(冠·갓 관) 자는 왕관과 갓을 뜻하는데요. 정상인 연주대가 멀리서 보면 갓을 쓴 형상이라서 붙여졌다는 설과 한양 도성 남쪽 산 가운데 가장 높고 위엄 있는 산이기 때문이라는 설이 있습니다.&lt;br&gt;&lt;br&gt;관악산은 등산 초보자들을 ‘혼쭐내는’ 산이기도 합니다. 600m대라고 만만히 봤다가 위험한 바윗길이 많아서 놀라는 경우가 많아요. 또 길이 복잡한 데다 이정표도 체계가 잡혀 있지 않아 길을 잃기도 쉽죠.&lt;br&gt;&lt;br&gt;요즘 같은 더위에는 관악산 둘레길과 서울 둘레길 관악산 구간을 추천합니다. 수도권 남부 어디서나 접근이 편하고, 풍성한 숲과 덱 전망대가 있어 지금도 여전히 많은 도시인에게 오아시스 같은 휴식처가 돼주고 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [클래식 따라잡기] 18세기 伊장인의 걸작… 한 대 180억원 하는 ‘명품 현악기’죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/18/5ZJV4454WBF6POPWR32JMXUY2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/18/5ZJV4454WBF6POPWR32JMXUY2U/</guid>
-      <dc:creator>김성현 기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:32:00 +0000</pubDate>
-      <content:encoded>최근 세계 음악계에서 ‘TV쇼 진품명품’에 나올 법한 일이 벌어졌어요. 일본 바이올리니스트 니무라 에이진(55)이 소장한 1707년산(産) 스트라디바리우스 바이올린이 실은 독일 나치 시대에 강탈당해 사라졌던 독일 유대인 부호의 악기라는 주장이 제기된 겁니다.&lt;br&gt;&lt;br&gt;1933년 집권한 나치는 유대인 재산과 사업을 강탈했어요. 그 과정에서 독일 유대인 은행가인 멘델스존 본케 가문이 소장하던 1709년산 스트라디바리우스도 자취를 감추게 됐습니다. 멘델스존 본케 가문은 작곡가 펠릭스 멘델스존(1809~1847)의 친척이에요.&lt;br&gt;&lt;br&gt;2차 대전이 끝난 뒤 멘델스존 본케 가문은 이 악기를 되찾기 위해 백방으로 수소문했지만 종적이 묘연했습니다. 그런데 최근 이 악기와 니무라 에이진이 소장한 악기가 생김새·색깔은 물론, 흠집까지 같다는 주장이 뉴욕타임스(NYT)에 보도된 겁니다. 유네스코 평화 대사로도 활동하는 니무라 측은 “정당하게 악기를 구입했다”면서 억울하다는 반응입니다. 과연 스트라디바리우스는 어떤 악기이길래 이렇게 화제가 되는 걸까요.&lt;br&gt;&lt;br&gt;&lt;b&gt;이탈리아 현악기 제작의 본산 ‘크레모나’&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F2CVCRNUXZFXDMVUH53I5DT3BA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스트라디바리·과르네리·아마티 같은 현악기 제작 명가들이 밀집했던 본산은 이탈리아 북부의 크레모나입니다. 16세기 현악기 제작 명인인 안드레아 아마티가 이 도시에서 공방을 낸 것이 출발점입니다. 아마티가 1564년 프랑스 왕실의 주문을 받고 샤를 9세를 위해서 제작한 바이올린은 ‘현존하는 최고(最古)의 바이올린’으로 꼽히지요. 이 때문에 크레모나는 ‘바이올린의 출생지’로도 불립니다.&lt;br&gt;&lt;br&gt;이탈리아 현악기 공방은 평양 냉면집의 계보와도 닮은 구석이 있습니다. 안드레아 아마티는 두 아들에게 가업을 물려주었고, 대를 이어가면서 유럽 최고의 현악기 공방으로 자리 잡았지요. 하지만 17세기부터 안드레아 과르네리와 안토니오 스트라디바리 같은 명인도 저마다 독자적인 공방들을 차렸습니다. 요즘 말로는 크레모나가 이탈리아 현악기의 ‘실리콘밸리’가 된 셈이죠.&lt;br&gt;&lt;br&gt;지금도 크레모나에서는 160~200여 공방이 전통적인 수작업 방식의 현악기 제작 전통을 잇고 있어요. 크레모나 공방들은 2012년 유네스코 무형문화유산에 등록됐습니다. 크레모나 악기 제작자 협회의 회원 가운데 한 명이 한국 여성 바이올린 제작자 안아영(33)씨입니다. &lt;br&gt;&lt;br&gt;크레모나가 현악기 제작의 본산으로 부상한 이유는 여러 가지입니다. 우선 이탈리아 북부 지역을 가로지르는 포(Po)강 유역에 있기 때문에 물류에 유리하다는 지리적 이점이 있지요. 알프스 산맥의 악천후를 뚫고 자라난 가문비나무와 단풍나무 등을 포강의 강줄기를 따라서 크레모나로 수송했고, 결과적으로 목공업·가구업·현악기 제작업 등이 일찍부터 발달했습니다. ‘크레모나 바이올린 기행’을 펴낸 영국 작가 헬레나 애틀리는 “알프스 산맥에서 베어낸 목재를 싣고 남하하는 너벅선(너비가 넓은 배)의 뱃길이 바로 포강”이라고 설명합니다.&lt;br&gt;&lt;br&gt;현악기 제작이라는 ‘하드웨어’와 이탈리아 바로크 음악이라는 ‘소프트웨어’의 결합도 현악기의 수요 증가와 공급 확대라는 선순환을 낳았습니다. 특히 몬테베르디·코렐리·비발디 등 17~18세기 이탈리아 북부를 중심으로 만개한 바로크 음악은 바이올린의 발전에도 크게 기여했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKFFQQ32ZRBY7PV7Q3WYZNSONM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;독일 바이올리니스트 아네조피 무터는 1703년산과 1710년산 스트라디바리우스 2개를 직접 소장하고 연주하는 것으로도 유명합니다.
-/유니버설뮤직 코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/527BGS62DNFRXKVAPG6QZFI7MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바이올리니스트 클라라 주미 강은 기아자동차에서 1702년산 스트라디바리우스를 무상으로 대여받아 2023년부터 연주하고 있지요. 고가의 현악기들은 대기업·재단 등에서 소유하고 연주자에게 대여해주는 경우도 많습니다.
-/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;현악기의 제왕 ‘스트라디바리우스’&lt;/b&gt;&lt;br&gt;&lt;br&gt;특히 스트라디바리의 라틴어식 표기인 ‘스트라디바리우스’는 최고의 명품 현악기를 뜻하는 말이 되기에 이르렀습니다. 이를 줄인 말이 ‘스트라드’입니다. 17~18세기 활동한 안토니오 스트라디바리는 평생 1100여 개의 현악기를 제작한 것으로 알려져 있어요. 이 가운데 바이올린이 960여 개로 가장 많지만, 비올라·첼로 같은 다른 현악기도 만들었습니다. 이 중 지금까지 650여 개의 현악기가 전해지고 있지요. &lt;br&gt;&lt;br&gt;이 때문에 스트라디바리우스와 과르네리 같은 고악기들은 지금도 경매 시장에 나올 때마다 연일 최고가 기록을 경신합니다. 지난 2011년 자선 경매에서 1721년산 스트라디바리우스는 1000만파운드(약 188억원)에 낙찰됐습니다. 역대 경매 최고가였던 이 판매금은 같은 해 동일본 대지진 참사 희생자를 돕기 위한 일본 음악 재단의 구호 기금으로 쓰였다고 해요. 지난 2월에도 19세기 독일 전설적 바이올리니스트 요제프 요아힘이 사용했던 1714년산 스트라디바리우스가 1130만달러(약 157억원)에 팔렸습니다. ‘스트라디바리우스’의 저자인 영국 작가 토비 페이버는 “현악기의 가격은 희소성과 ‘나이(age)’가 결합하면 걷잡을 수 없이 치솟는다”고 했죠.&lt;br&gt;&lt;br&gt;스트라디바리우스나 과르네리 같은 악기를 유명 연주자들이 사용하면서 악기에 ‘별명’이 붙기 시작했습니다. 1712년산 스트라디바리우스 첼로는 19세기 러시아 첼리스트 다비도프(1838~1889)의 이름을 따서 ‘다비도프 스트라디바리우스’로 불려요. 이 첼로는 영국 첼리스트 재클린 뒤프레를 거쳐서 지금은 중국계 미국 첼리스트인 요요마(馬友友)가 사용합니다.&lt;br&gt;&lt;br&gt;스트라디바리우스를 즐겨 연주했던 명연주자들을 거치면서 악기에도 일종의 ‘계보’가 형성된 셈이죠. 벨기에 사업가의 이름을 딴 1714년산 ‘소일(Soil) 스트라디바리우스’는 바이올리니스트 예후디 메뉴인을 거쳐서 이츠하크 펄먼이 연주하고 있지요. 가끔은 연주자 개인이 소장하는 경우도 있지만, 워낙 비싸기 때문에 대기업·재단·독지가들이 구입한 뒤 대여해주는 경우가 많습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODJYKWETTBAHFOPLD5HL4NRM2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1721년산 스트라디바리우스 바이올린. 옛 소장자의 이름을 따서 ‘레이디 블런트’라는 별명으로 불립니다. 이 바이올린은 2011년 자선 경매에서 1000만파운드(약 188억원)에 낙찰됐습니다(왼쪽). 17~18세기 이탈리아의 전설적인 현악기 제작자인 안토니오 스트라디바리의 모습을 후대에 그린 상상화. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘블라인드 테스트’하면 구분하기 힘들다는 반론도&lt;/b&gt;&lt;br&gt;&lt;br&gt;스트라디바리우스·과르네리 같은 악기의 제작 비밀은 당시 소(小)빙하기였던 유럽의 기후 조건과 목재의 강도, 섬세한 제작 기술과 니스칠까지 다양합니다. 하지만 정작 다른 악기들과 가린 채 ‘블라인드 테스트’를 하면 분간하기 힘들다는 반론도 있습니다.&lt;br&gt;&lt;br&gt;1966년생 독일 바이올리니스트 크리스티안 테츨라프는 옛 악기 대신에 독일의 동갑내기 악기 명장이 제작한 현대 바이올린을 사용하는 것으로 유명합니다. 테츨라프는 “오래된 악기와 현대 악기 사이에 개인적 편견이나 선호는 없다. 다만 악기 이름을 미리 알려주지 않고 모든 정보를 가린 채 테스트하면 제대로 가리지 못하는 경우도 많다”며 웃었습니다. 과연 스트라디바리우스는 세월의 흐름에도 변하지 않는 영원한 소리를 지닌 걸까요, 아니면 그저 명성 때문에 좋다고 여기는 걸까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 인쇄기 없던 중세, 책 만드는 비밀은? 한 명이 읽으면 수도사들이 받아써</title>
-      <link>https://www.chosun.com/national/nie/2025/08/18/4QOFH6AOERGE3NQMCY4BGELGG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/18/4QOFH6AOERGE3NQMCY4BGELGG4/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVTTWII2ENE5FPINID3FKUGAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;모린 사와 지음 l 빌 슬래빈 그림 l 빈빈책방 편집부 옮김 l 출판사 빈빈책방 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;오늘날 우리는 누구나 도서관을 이용할 수 있는 걸 당연하게 여깁니다. 하지만 옛날엔 그렇지 않았습니다. 글을 읽을 수 있는 사람 수가 매우 적었기 때문이기도 하지만, 도서관은 군주·귀족·종교인·학자 등 특별한 신분과 지위를 갖춘 사람들의 것이었지요.&lt;br&gt;&lt;br&gt;도서관 사서인 저자가 쓴 이 책에 따르면 인류 최초의 도서관은 고대 메소포타미아의 수메르인이 세웠답니다. 당시 책은 점토판에 글자를 새겨 넣고 점토가 굳을 때까지 햇볕에 말리거나 불에 구워 만들었죠. 이 점토판 책을 분류하고 보관하기 위해 기원전 2700년쯤 도서관이 세워졌다고 해요. 내용 대부분은 법률이나 상업 같은 나라를 다스리는 데 필요한 내용이 많았대요.&lt;br&gt;&lt;br&gt;서양에서는 로마 시대부터 개인 도서관과 공공 도서관이 발달하기 시작했습니다. 개인 도서관은 그 주인의 사회적 신분이 높다는 것을 보여주는 상징이었죠. 도서관의 주인들은 친한 친구들에게만 책을 볼 수 있게 해줬어요. 공공 도서관은 정치가이자 장군이었던 율리우스 카이사르가 세웠는데, 문학 작품이 많아 시민들이 취미로 책을 많이 읽었다고 합니다.&lt;br&gt;&lt;br&gt;하지만 고대에서 중세로 넘어가는 혼란한 시기에는 많은 도서관과 책이 사라졌습니다. 도서관을 다시 세우고 책을 지킨 것은 중세 수도원의 수도사들이었습니다. 인쇄술이 발달하지 않은 시대여서 수도사들이 손으로 베껴 써서 책을 만들었습니다. 이런 책을 ‘필사본’이라 하고 그런 일을 하는 수도사를 ‘필경사’라 부릅니다. 그럼 어떻게 한꺼번에 여러 권을 만들었을까요? 수도사 한 명이 큰 소리로 책을 읽고 필경사 여러 명이 받아 적는 방식이었다고 합니다.&lt;br&gt;&lt;br&gt;근대에 들어와서는 도서관이 더 많은 사람에게 열렸습니다. ‘미국 건국의 아버지’ 가운데 한 명인 벤저민 프랭클린은 미국 최초의 회원제 대출 도서관을 만들어 미국 각지에 도서관이 세워지도록 하는 데 기여했습니다. ‘철강왕’이라 불리며 미국 최고의 부자였던 앤드루 카네기는 자신의 재산을 기부해 2000개가 넘는 공공 도서관을 세웠습니다. 이들은 ‘책은 모든 사람의 것’이라는 철학을 실천했지요. &lt;br&gt;&lt;br&gt;오늘날에도 이런 철학은 계속 이어집니다. 아프리카 케냐의 북동부 사막에서는 책을 실은 낙타가 이동 도서관 역할을 하고, 태국 해군은 오래된 배를 고쳐 떠다니는 도서관을 만들었습니다. 스웨덴에서도 여객선을 고쳐 만든 수상 도서관이 외딴섬 주민들에게 책을 전해주지요.&lt;br&gt;&lt;br&gt;인공지능(AI) 같은 첨단 기술이 발전하는 오늘날, 앞으로 수많은 책을 보관하는 도서관은 어떻게 될까요? 저자는 도서관이 계속 중요한 역할을 하리라 확신하면서 이렇게 말합니다. “도서관은 인류가 과거를 온전히 기억할 수 있게 도와주고, 다가올 미래를 맞이할 준비를 하는 데 필요한 정보와 영감을 주는 곳이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 막힌 배수구엔 굵은 소금</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/17/ZTOX5GNHJRFRXAVIPKWDSXPSUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/17/ZTOX5GNHJRFRXAVIPKWDSXPSUY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 14:35:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EZA2JXSSU5DQVH7UXIFFDZ6MKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배수구가 막혔을 때 굵은 소금을 한 움큼 뿌린 뒤 뜨거운 물을 부어보자. 소금이 뭉친 찌꺼기와 기름때를 흡착해 배수구가 금세 뚫리고 불쾌한 냄새도 사라진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 18일</title>
-      <link>https://www.chosun.com/national/education/2025/08/17/AYVMJ6F6TFD3DPUVVXHTOJCGBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/17/AYVMJ6F6TFD3DPUVVXHTOJCGBA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 14:31:00 +0000</pubDate>
-      <content:encoded>전국 대체로 흐림 &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNISEBRBFREDLHR6VX6WNHZUQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>60대 대리기사 차량 돌진 사고…조수석 탄 차주 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/54WEAIUDCFBCFLZSESVICTFAHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/54WEAIUDCFBCFLZSESVICTFAHE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 14:26:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TV5UGR6PPS4LFMWWMEQ7UFPIN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 동작구 상도동의 한 골목에서 대리기사가 몰던 차량이 주택 외벽과 전봇대를 들이받는 사고가 발생했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 주택가 골목에서 대리기사가 운전하던 차량이 주택 외벽을 들이받아 조수석에 타고 있던 차량 소유주가 사망하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;17일 경찰과 소방당국 등에 따르면 전날 오후 11시 30분쯤 서울 동작구 상도동의 한 골목에서 60대 대리운전 기사 A씨가 운전하던 차량이 주택 외벽과 전봇대 등을 잇따라 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 대리기사는 경상을 입었고, 조수석에 타고 있던 50대 차주는 심정지 상태로 병원에 이송됐지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 운전자인 대리기사에게서 음주나 마약 정황은 발견되지 않았다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 운전자 부주의로 인한 사고로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대선 부정선거’ 주장 양궁 국대 “2군이라 공인 아닌 줄, 죄송하다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/FLWOT3ROJBCMRJOKBA5TYXZH4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/FLWOT3ROJBCMRJOKBA5TYXZH4U/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 13:06:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UQ7IHUH74JM2U4DWIJOSZPE74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양궁 국가대표 장채환. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선이 부정선거로 치러졌다는 등의 주장을 한 양궁 남자 국가대표 장채환(33·사상구청)이 “악의는 없었다”며 사과했다. &lt;br&gt;&lt;br&gt;장채환은 17일 자신의 소셜미디어를 통해 “저는 고향이 전남이라 중도좌파 성향을 갖고 있었다”며 “그런데 윤석열 (전) 대통령께서 12·3 계엄령을 내리셨을 때 왜 지금 이 시대에 계엄령을 내렸는지 의문을 갖고 찾아봤고, 개인적 결론은 자유 대한민국의 미래를 위해선 보수우파 입장에서 목소리를 내는 게 옳다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;장채환은 “개인 소셜미디어에 주변 지인들에게나마 현 상황을 알리고 싶은 마음에 부정선거 정황과 보수적 내용을 게시했다”며 “저는 1군 국가대표가 아닌 2군이라 공인이 아니라고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “저 때문에 대한양궁협회와 소속팀이 여론의 뭇매를 맞는 게 너무 죄송스러워서 이렇게 변명이라도 해보았다”며 “악의는 없었다. 저 때문에 화가 나신 분들이 있다면 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;‘멸공’ ‘CCP(중국공산당) OUT’ 등의 표현을 쓴 것에 대해서는 “멸공이라는 단어는 군필자라면 다 아는 피아식별띠에 적힌 표현이고, ‘CCP OUT’은 중국 공산당 세력이 물러나길 바라는 마음으로 게시했다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OPF4RG2TOXF7WU4IBRPUPA35PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장채환이 올린 게시물. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장채환은 지난 6월 치러진 제21대 대통령 선거 전후로, 자신의 인스타그램에 정치 관련 게시물을 여러 건 올렸다.&lt;br&gt;&lt;br&gt;그는 한 게시물에서는 이재명 대통령의 당선 확정을 알리는 이미지를 올리며 “중국=사전투표 조작=전라도=선관위. 대환장 콜라보 결과. 우리 북한 어서오고~ 우리 중국은 셰셰. 주한미군 가지마요…”라는 글을 적었다.&lt;br&gt;&lt;br&gt;그는 또 투표소 안내물을 배경으로 손등에 기표 도장을 두 차례 찍은 사진을 올리면서 “투표는 본투표 노주작. 비정상을 정상으로. 공산 세력을 막자. 멸공”이라고 쓰기도 했다. &lt;br&gt;&lt;br&gt;장채환은 지난 3월 국가대표 선발전에서 국가대표로 뽑혔으나, 최종 평가전에서 4위 안에 들지 못해 주요 국제대회에는 출전하지 못한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘울산시장 선거 개입 의혹’ 송철호·황운하 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/15/5NAAODEWYZAIZPP67G2W25VBPE/</guid>
@@ -675,15 +691,6 @@
       <description/>
       <pubDate>Sun, 17 Aug 2025 03:41:37 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCERUBPHPZOM3DSYENJHUVV25A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;승합차와 자전거가 충돌한 교통사고 현장. 기사 내용과 무관한 참고사진./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 최근 청소년층을 중심으로 제동장치를 제거한 픽시자전거를 도로에서 운행하는 사례가 확산되고 있다며, 이를 도로교통법 제48조 제1항에 따른 ‘안전운전 의무 위반’으로 보고 개학기부터 현장 계도 및 집중 단속을 실시한다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;픽시자전거는 페달과 뒤바퀴가 고정된 구조 탓에 역회전을 통해 속도를 줄이는 방식으로 운행되지만, 일부 이용자가 속도감을 즐기기 위해 브레이크를 제거한 채 ‘스키딩’ 등 급제동 기술을 도로에서 시연하면서 사고 위험이 높아지고 있다.&lt;br&gt;&lt;br&gt;사망 사고도 발생했다. 경찰에 따르면 지난달 12일 서울의 한 이면도로에서 중학생이 브레이크 없는 픽시자전거를 타고 내려오다 제동하지 못하고 에어컨 실외기를 충격해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;실제 자전거 사고는 꾸준히 증가 추세다. 경찰청 교통안전과에 따르면, 지난해 자전거 교통사고는 5571건으로 전년 대비 8.3% 증가했으며 사망자도 75명으로 전년 대비 19.0% 늘었다. 부상자 역시 6085명으로 8.6% 증가했다. 특히 18세 미만 사고 비율은 전체의 26.2%(1461건)를 차지해 사고 4건 중 1건 이상이 청소년에게서 발생한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이번 개학기에 중·고교 주변 통학로와 자전거도로에 교통경찰을 배치해 브레이크가 없는 픽시자전거를 타고 도로 및 인도를 주행할 경우 정지시켜 계도 후 단속할 예정이다. 주말과 공휴일에는 자전거 동호회 활동이 활발한 구간을 중심으로 집중 단속을 병행한다.&lt;br&gt;&lt;br&gt;단속 시 일반 운전자는 즉결심판 청구 대상이며, 미성년자(18세 미만)는 부모 통보 및 경고 조치를 실시하되, 반복 위반 시에는 아동복지법상 방임 혐의로 보호자를 처벌할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>마포구 창전동 아파트 화재로 母子 사망, 13명 부상...父 “우리 아들 못 봤냐” </title>
-      <link>https://www.chosun.com/national/incident/2025/08/18/TXSWSL47XRFJLMWI3QOSTRWCKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/18/TXSWSL47XRFJLMWI3QOSTRWCKQ/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 02:28:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CZTKSDDGBJZ5OSPT4LVSJG4FA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 마포구 창전동의 한 20층짜리 아파트 14층에서 화재가 발생해 소방대원들이 진화 작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구 창전동 한 아파트에서 불이 나 2명이 숨지고 13명이 다쳤다. 사망자들은 모자 관계로 알려졌다.&lt;br&gt;&lt;br&gt;소방은 17일 오전 8시 11분쯤 서울 마포구 창전동 삼성아파트 14층에서 화재가 발생했다는 신고를 접수해 출동했고, 8시 16분 대응1단계를 발령했다. 현장에는 소방인력 186명을 포함해 총 252명이 투입됐다. &lt;br&gt;&lt;br&gt;사망한 20대 남성과 60대 남성은 모자 관계로 알려졌다. 아들은 현장에서 사망했고 어머니는 심폐소생술(CPR)을 받으며 병원으로 옮겨졌으나 숨졌다. 자력 대피한 아버지는 이웃 주민들을 붙잡고 “우리 아들 못 봤냐”며 가족을 찾아다닌 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 주민 13명이 화상과 연기흡입 등의 부상을 입고 병원에서 치료 중이며, 주민 89 명이 대피하기도 했다.&lt;br&gt;&lt;br&gt;화재가 발생한 이 아파트 14층에는 스프링클러가 설치되지 않은 것으로 알려졌다. 이 아파트가 완공된 1998년에는 16층 이상 공동주택의 경우 16층 이상 층에만 스프링클러 설치가 의무였다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 10시 42분 화재를 완진하고 구체적인 화재 원인을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5성급서 샤넬백·티파니 반지… 인스타에 번지는 호화 프러포즈</title>
