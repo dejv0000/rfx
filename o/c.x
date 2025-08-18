@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“충성!” 외치며 모인 건장한 청년들…밥 먹다 급히 뛰쳐나간 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/HWWZIJ4PLFELDNFEVHX3EQCO4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/HWWZIJ4PLFELDNFEVHX3EQCO4Q/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 18 Aug 2025 22:29:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBO3P7P3HNHWNC5PJQTZ5LVQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 임용 10주년을 기념한 식사 자리에서 동기들에게 거수 경례하는 경찰관./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰 임용 10주년을 기념해 모인 중앙경찰학교 동기들이 갑자기 쓰러진 시민을 구한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;서울 경찰은 18일 유튜브 채널에 ‘경찰 된 지 10년째 되던 날, 그들이 식사 중 달려 나간 이유는’이라는 제목의 영상을 공개했다. &lt;br&gt;&lt;br&gt;영상에는 지난달 24일 저녁 서울 강남구의 한 음식점에 남성 5명이 모여 식사하는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이들은 가게로 들어오며 서로에게 ‘충성’을 외치며 거수경례를 주고받았다. 중앙경찰학교 282기 동기 경찰관들이었다.&lt;br&gt;&lt;br&gt;이들이 자리에 앉아 식사를 하던 중 한 시민이 급히 식당 문을 열고 들어와 “심폐소생술 할 줄 아느냐”며 도움을 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWB56HGDE5CA5ALQ4MUDJWLPGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쓰러진 노인에게 심폐소생술을 하는 경찰관들./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;곧바로 자리를 박차고 나간 이들은 건물 복도에 쓰러진 어르신을 발견해 심폐소생술을 실시했다.&lt;br&gt;&lt;br&gt;다른 동료들은 119에 신고하는 동시에 기도 확보를 맡았다. 또 한 경찰관은 인근 지하철역으로 달려가 개찰구를 뛰어넘고 자동심장충격기(AED)를 들고 돌아와 대응을 이어갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGCJEXIMWZETJOQXPESHGUDHXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지하철역 개찰구를 뛰어 넘어 자동심장충격기(AED)를 가져오는 경찰관./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰관들의 신속한 조치 덕분에 어르신은 구급차 도착 전 호흡과 의식을 회복했고, 이후 병원으로 이송돼 건강을 회복한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이들은 “10년이 지나도 처음 경찰이 됐을 때의 사명감은 전혀 변하지 않았다”며 “앞으로도 늘 시민들 곁에 있는 경찰이 되겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “의미 있는 날에 의미 있는 일 하셨다” “저분(어르신)은 경찰분들 만나 다행이다” “오늘도 감사하다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조희연 유죄에도 “전교조 교사 특별 채용 문제 안돼”… 최교진 페북 또 논란</title>
       <link>https://www.chosun.com/national/education/2025/08/19/2MOZLJUPC5BHBKLQYFLFML4SSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/19/2MOZLJUPC5BHBKLQYFLFML4SSQ/</guid>
@@ -874,15 +883,6 @@
       <description/>
       <pubDate>Mon, 18 Aug 2025 00:37:27 +0000</pubDate>
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검이 18일 유재은 전 국방부 법무관리관을 직권남용 등 혐의의 피의자 신분으로 소환했다. 유 전 관리관이 특검 조사를 받는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G6XVBRSXNJMP3PWFKHEYQTANF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재은 전 국방부 법무관리관이 18일 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실에 피의자 신분으로 소환되어 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유 전 관리관은 이날 오전 9시 33분쯤 서울 서초동 해병 특검 사무실로 출석했다. 유 전 관리관은 “(2023년) 7월 31일 국방부 회의에서 혐의자 축소 지시받았나” “오늘 조사에서 어떤 점을 위주로 답변할 건가” 등 기자들의 질문에 “조사에 성실하게 말씀 잘하겠다”고만 짧게 답했다.&lt;br&gt;&lt;br&gt;이어 “박정훈 대령(해병대 수사단장)에게 ‘혐의자 한정해 이첩하라’고 말한 것이 맞느냐” “기록 회수 자체가 위법하다는 생각을 했느냐” “수사 기록 회수에도 관여했다는 의혹이 있는데 입장은” 등의 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;유 전 관리관은 2023년 7∼8월 고(故) 채수근 상병 사망 사건을 초동 조사한 박정훈 대령에게 수차례 연락해 ‘혐의자와 혐의 내용, 죄명 등을 (조사 보고서에서) 빼라’며 수사에 외압을 행사한 혐의를 받는다. 그해 8월 2일 해병대 수사단이 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용한 조사 기록을 경북경찰청에 이첩하자 국방부 검찰단이 이를 회수하게 하는 데 관여한 혐의 등도 받고 있다.&lt;br&gt;&lt;br&gt;앞서 유 전 관리관은 작년 4월 채 상병 사건을 수사하던 고위공직자범죄수사처(공수처)에 소환돼 두 차례 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘구명 로비 의혹’ 멋쟁해병 송모씨, 해병 특검 출석…묵묵부답</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/EOXZCJX36NBLFA5BTDXH2XTOHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/EOXZCJX36NBLFA5BTDXH2XTOHI/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 01:18:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKM3JFQ2BFMI5BDS65TCTO2LK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'멋쟁해병' 멤버인 경호처 출신 송모씨가 18일 오전 서울 서초구 해병 특검 사무실에 조사를 받기 위해 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹을 받는 경호처 출신 ‘멋쟁해병’ 멤버 송모씨가 18일 순직 해병 특검에 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;송씨는 이날 오전 8시 50분쯤 서울 서초구 특검 사무실에 출석했다. 그는 “임 전 사단장의 구명 로비는 실체가 없는 허위 의혹이라는 입장인가” “이종호 전 블랙펄인베스트 대표와 임 전 사단장의 사직과 관련해 대화를 나눴느냐” 등 취재진의 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;송씨는 ‘도이치모터스 주가조작’ 사건의 공범인 이 전 대표와 ‘멋쟁해병’ 단체 대화방에서 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹을 받는다. 2023년 7월 고 채수근 상병 사망 사고가 발생한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자, 이 전 대표가 친분이 있는 김건희 여사에게 구명을 청탁했다는 것이다. 임 전 사단장과 이 전 대표는 서로를 모른다고 부인하고 있지만, 송씨는 두 사람과 모두 아는 사이라고 한다.&lt;br&gt;&lt;br&gt;특검은 이날 송씨를 상대로 임 전 사단장과의 관계 및 멋쟁해병 멤버들의 구명 로비 의혹에 대해 집중적으로 조사할 계획이다. 특검은 지난달 송씨의 자택 등을 압수 수색해 휴대전화와 컴퓨터 등을 확보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김건희·통일교 청탁 키맨’ 건진법사, 특검 출석</title>
