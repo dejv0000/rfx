@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마이크로소프트, 수자원공사와 손잡고 소양강댐 상류에 습지 조성</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/19/NAQROF77XBENTNZ5X3QSHBMF2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/19/NAQROF77XBENTNZ5X3QSHBMF2I/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 05:14:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI4VIHYOZNCOVCUKLN2XCAYMU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소양강댐. /한국수자원공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마이크로소프트(MS)가 한국수자원공사(수공)과 손잡고 소양강댐 상류에 습지를 조성한다. 인공지능(AI)·데이터센터 등 첨단 산업에 많은 물을 쓰는 만큼, 습지를 만들어 환경 보전에 이바지하겠다는 것이다.&lt;br&gt;&lt;br&gt;수자원공사는 19일 “수공이 MS의 국내 첫 물 복원 파트너로 선정돼 기후 위기 대응과 지속 가능한 물 순환 체계 구축을 위한 글로벌 협력을 시작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;양 기관은 '워터 포지티브(Water Positive)' 달성을 위한 업무협약을 체결하고 소양강댐 상류에 습지를 조성하는 것으로 국내 첫 공동 물 복원사업을 추진하기로 했다.&lt;br&gt;&lt;br&gt;워터 포지티브란 기업이 사용한 물보다 더 많은 물을 자연으로 환원하거나 재이용하는 물 복원 활동을 뜻한다. 특히 데이터 센터의 과열을 막기 위해 많은 양의 물을 쓰는 글로벌 빅테크 기업에서 이런 활동이 많아지고 있다.&lt;br&gt;&lt;br&gt;MS는 2030년까지 모든 글로벌 사업장에서 워터 포지티브 달성을 선언한 바 있다. 이번 수공과의 협약은 서울·부산에 각각 위치한 데이터 센터 운영에 따른 물 사용에 대해 워터 포지티브를 실현하겠다는 것이다. &lt;br&gt;&lt;br&gt;양 기관은 이번 협약의 첫 사업으로 강원도 춘천시 북산면 일대 소양강댐 상류 지역에 인공습지를 조성해 댐으로 유입되는 하천 수질을 개선하기로 했다. 댐으로 유입되는 비점오염원(출처가 불분명한 부유물질·질소·인 등 오염물질)을 약 30% 저감해 연간 약 34만t의 물을 복원하는 효과가 기대된다. 이는 100만 명이 하루 동안 사용하는 물의 양에 해당한다고 수공은 설명했다.&lt;br&gt;&lt;br&gt;습지 조성 및 유지 비용은 MS가 부담하고, 수공은 습지 설계 및 사업 실행을 전담한다. 국내에서 글로벌 기업과 공공기관이 일대일로 협력해 물 복원을 실천하는 첫 사례다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “AI가 산업 전반을 재편하는 시대에 이번 협약은 물 사용량이 많은 글로벌 기업의 환경적 책임을 보여주는 사례가 될 것”이라며 “또 지속 가능한 방식으로 물을 환원하고 기술 성장과 환경 보전이 함께 이뤄지는 이정표가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검찰 술파티 위증’·‘이재명 쪼개기 후원’ 혐의 이화영 사건, 국민참여재판으로 진행</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/19/J2K7GPVFVFDUJFSZGMRMCUNDXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/J2K7GPVFVFDUJFSZGMRMCUNDXI/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 05:06:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YZG62I6KJBFTNGNBU63TUSNDSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난해 10월 25일 오후 서울 여의도 국회 법제사법위원회에서 열린 법무부·법제처·감사원·고위공직자범죄수사처·헌법재판소·대법원 종합 국정감사에 출석해 김성태 전 쌍방울 회장 관련 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건 이외에 ‘불법 쪼개기 후원’ ‘검찰청 술 파티 위증’ 등 혐의로 추가 기소된 이화영 전 경기도 평화부지사의 재판이 국민참여재판으로 진행된다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 19일 오전 이 전 부지사의 국회증언감정법(위증 등) 위반, 정치자금법 위반, 직권남용권리행사방해, 위계공무집행방해, 지방재정법 위반 사건 공판준비기일을 열었다. 이날 송 재판장은 “이 사건에 대해 배심원들의 의견을 들어보는 것도 괜찮을 것 같다”며 “전반적으로 (국민참여재판을) 진행해보도록 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이는 이 전 부지사 측의 요청에 따른 것이다. 앞서 이 전 부지사의 변호인은 “이 사건은 검찰의 쪼개기 기소와 공소권 남용으로 이뤄진 것”이라며 “국민들의 판단을 받도록 해달라”고 했다.&lt;br&gt;&lt;br&gt;국민참여재판은 무작위로 선정된 국민이 형사 재판에 배심원으로 참여하는 것을 말한다. 배심원들은 사건 기록과 증거 등을 검토하고 유·무죄 및 양형 의견에 대해 평결을 내리게 된다. 다만, 재판부에서 배심원 의견을 반드시 따라야 하는 법적 구속력은 없고, 권고 효력만을 갖는다. 이날 송 재판장은 “재판부에선 오는 12월 중순에 5일 정도 진행해서 사건을 마치는 것을 목표로 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이 전 부지사의 국민참여재판 첫날엔 피고인 측의 공소권 남용 주장을, 둘째 날은 국회법 위반을, 셋째 날은 정치자금법 위반을, 넷째 날과 마지막 날은 나머지 쟁점들을 각각 살펴보겠다는 뜻을 나타냈다.&lt;br&gt;&lt;br&gt;이 전 부지사는 2021년 7월 더불어민주당 대선 경선 후보로 나섰던 이재명 대통령을 위해, 쌍방울 김성태 전 회장으로 하여금 ‘불법 쪼개기 후원’을 사주한 혐의(정치자금법 위반)를 받는다. 김 전 회장은 대선 당시 쌍방울 임원 등 지인 12명의 명의로 9000만원을 나눠 기부한 것으로 파악됐다. 또 2018년 경기지사 선거 당시에는 800만원을 이재명 후원회에 기부한 것으로도 조사됐다. 대선(경선) 후원회엔 연간 1000만원, 이외 선거 후원회엔 연간 500만원을 초과해 기부해선 안 된다. 검찰은 김 전 회장도 정치자금법 위반 혐의를 적용해 기소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NOKSZWEEZFYX6D4HAUBWJUURE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 부지사는 지난해 10월 2일 국회 법제사법위원회에서 열린 수원지검 박상용 부부장검사 탄핵소추 사건과 관련한 청문회에 증인으로 나와 “검찰청 연어 술 파티 의혹은 사실”이라는 취지로 말해 위증한 혐의도 받는다. 이 전 부지사는 이 외에도 2019년 1월 ‘산림 복구’라는 허위 목적으로 북한에 ‘금송(金松)’을 지원하도록 하는 등 대북 사업을 추진하면서 경기도 공무원들에게 부당한 지시를 한 혐의(직권남용, 위계공무집행 방해)도 있다.&lt;br&gt;&lt;br&gt;이 전 부지사는 쌍방울 뇌물·정치자금법 위반·대북 송금 등 혐의로 대법원서 징역 7년 8개월을 확정 판결받고 수감 중이다. 그는 이 사건을 포함해 모두 3개의 재판을 받고 있다. 이 전 부지사는 경기도 내 기업인들로부터 약 5억원에 달하는 불법 정치자금과 뇌물을 받은 혐의로 기소돼 수원지법서 1심 재판이 진행 중이다. 그는 또 대북 송금 사건과 관련해 이 대통령의 공범으로 제3자 뇌물 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘음주측정 거부, 경찰 폭행’ 스님, 항소심도 징역 1년</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/AUJ3LXR5RZF6FNAZRZEFYC6JWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/AUJ3LXR5RZF6FNAZRZEFYC6JWE/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 05:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSWGIQWNJM2H2DFCUOEONYM2N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주단속에 불응해 경찰관을 폭행하고 음주측정을 거부한 60대 대한불교조계종 소속 스님이 항소심에서도 징역 1년을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 항사항소1-1부(재판장 김태균)는 19일 오전 공무집행방해, 도로교통법 위반(음주측정거부) 혐의로 기소된 박모씨에 대해 원심과 같은 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 피해 경찰관을 위해 추가로 형사 공탁을 한 사정 등을 참작해 보더라도 원심이 정한 형이 너무 무겁거나 가벼워서 부당하다고 보이지는 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 열린 결심공판에서 박씨에게 징역 4년을 내려줄 것을 재판부에 요청했다. 당시 박씨는 “승려로서 구치소 생활은 부적절하고 의미를 찾을 수 없다는 생각을 많이 했다. 고통스럽기만 하다”고 선처를 호소했다.&lt;br&gt;&lt;br&gt;박씨는 지난 1월 서울 도봉구의 한 성당 인근 도로에서 운전 중 이상 행동을 보인다는 112 신고를 받고 출동한 경찰의 음주측정 요구에 응하지 않고 경찰관을 폭행한 혐의로 기소됐다. 박씨는 경찰서 소속의 한 경감의 얼굴을 주먹으로 한 차례 가격해 현행범으로 체포됐으며 순찰차에 탑승하는 과정에서도 다른 경찰관의 허벅지를 발로 차고 침을 뱉었다고 한다. 경찰서에서는 네 차례에 걸친 음주측정 요구에도 불응했다.&lt;br&gt;&lt;br&gt;이에 대해 지난 4월 1심 재판부는 박씨에게 징역 1년을 선고했다. 같은 달 검찰과 김씨 측은 양형부당을 이유로 쌍방항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지역 배달대행사 라이더, 배달플랫폼 라이더보다 더 일하고 덜 번다</title>
+      <link>https://www.chosun.com/national/labor/2025/08/19/EOUXAWSBZBFUVIBP2AYPFRESUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/19/EOUXAWSBZBFUVIBP2AYPFRESUA/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 04:41:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCD42OSDX5XWZEJ623BPIA32KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내에서 라이더들이 오토바이를 타고 배달하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영세한 지역 배달 대행사 라이더들이 배달의민족 등 배달 플랫폼 소속 라이더들보다 더 많이 일하고 적게 버는 것으로 19일 나타났다.&lt;br&gt;&lt;br&gt;고용노동부가 김위상 국민의힘 의원실에 제출한 연구 용역 보고서에 따르면, 지역 배달 대행사 라이더의 월평균 수입(280만8925원)은 배달 플랫폼 라이더의 월평균 수입(320만3846원)보다 약 40만원 낮았다.&lt;br&gt;&lt;br&gt;반면 하루 평균 배달은 지역 배달 대행사 라이더(40.5건)가 배달 플랫폼 라이더(32.3건)보다 많이 했다. 배달 거리의 경우에도 지역 배달 대행사 라이더는 128.1km, 배달 플랫폼 라이더는 111.9km였다.&lt;br&gt;&lt;br&gt;더 일하고 적게 버는 지역 배달 대행사 라이더들은 배달 플랫폼 라이더들보다 교통 법규도 자주 위반했다. 지역 배달 대행사 라이더와 배달 플랫폼 라이더의 연간 교통 신호 위반 건수는 각각 1.2건, 0.9건이었다. 연간 교통 사고 경험 건수도 각각 0.98건, 0.63건으로 조사됐다.&lt;br&gt;&lt;br&gt;라이더 대상 안전 교육에서도 격차가 발생했다. 지역 배달 대행사는 52.7%만 안전 교육을 실시했는데, 배달 플랫폼사는 66.7% 실시했다.&lt;br&gt;&lt;br&gt;김위상 의원은 “속도 경쟁이 일상화된 배달 문화가 도로 위 배달 종사자들의 안전을 위협하고 있는 만큼 안전 교육이 강화될 필요가 있다”며 “지역 배달 종사자를 위한 맞춤형 안전 보건 체계도 마련해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘미아동 마트 흉기난동범’ 김성진 1심 무기징역 선고</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/19/PURY7YR6ANEQDCTYZW4CV3AFHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/PURY7YR6ANEQDCTYZW4CV3AFHU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 04:33:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PU2JHGFVUWTFT4NIHJJESCR6ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 미아동 마트에서 흉기를 휘둘러 1명을 살해하고 1명을 다치게 한 김성진 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구 한 마트에서 흉기를 휘둘러 60대 여성을 살해한 김성진(33)에게 법원이 무기징역을 선고했다.&lt;br&gt;&lt;br&gt;서울북부지법 형사합의13부(재판장 나상훈)는 19일 살인 및 살인미수 혐의로 기소된 김성진에게 무기징역을 선고했다. 앞서 검찰은 “사회에 극심한 불안을 야기했다”며 사형을 구형했다.&lt;br&gt;&lt;br&gt;재판부는 “도심 한복판에서 아무런 이유 없이 시민이 살인의 대상이 될 수 있다는 공포를 일으켜 사회 전반에 부정적인 영향을 줬다”면서도 “사형은 신중한 판단이 필요하다. 피고인의 범행 결의는 환청에 시달리는 등 충동적 성격이 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;김성진은 지난 4월 22일 오후 6시쯤 강북구 미아동의 한 마트에서 진열된 흉기의 포장을 뜯어 60대 여성을 흉기로 찔러 숨지게 했다. 이어 40대 직원도 공격했으나 피해자가 애원하자 범행을 멈춰 미수에 그쳤다.&lt;br&gt;&lt;br&gt;검찰이 법정에 제출한 CCTV 영상에는 김성진이 범행 직후 카메라를 향해 손가락으로 극우 성향 온라인 커뮤니티 ‘일간베스트 저장소(일베)’ 인증 자세를 취하는 장면이 담겼다. 해당 장면이 공개되자 시민들의 공분이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘19년 전 실종’ 이윤희 등신대 훼손 40대 …“범인으로 몰아 화났다”</title>
+      <link>https://www.chosun.com/national/incident/2025/08/19/SG6ZESZJ5JG6POOKZKUJN6VFOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/19/SG6ZESZJ5JG6POOKZKUJN6VFOI/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 04:27:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRCDNN6C2AJSKQNT2W4HVZKFB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 8일 전북 전주시 완산구의 한 도로 인근에서 40대 남성 A씨가 19년 전 실종된 이윤희씨를 찾기 위해 가족들이 설치한 등신대를 고정한 노끈 등을 자르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19년 전 실종된 이윤희씨를 찾기 위해 설치한 등신대(사람과 같은 크기의 사진)를 훼손한 40대 남성 A씨가 경찰 조사에서 억울함을 토로했다. 이씨의 가족은 당시 이씨와 함께 전북대 수의학과에 다니던 A씨의 행적을 의심해왔는데, A씨는 이에 불만을 품고 등신대를 훼손한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;19일 전북경찰청 등에 따르면 A씨는 조사 과정에서 “나를 실종사건의 범인으로 모는 게 화가 났다”고 진술했다. 재물손괴 혐의를 받고 있는 A씨는 20년 가까이 지난 사건 때문에 오랫동안 스트레스를 받아 왔다고 한다. &lt;br&gt;&lt;br&gt;앞서 전주완산경찰서는 A씨를 검찰에 불구속 송치했다. A씨는 지난 5월 8일 오후 8시 20분쯤 전주시 완산구에 설치된 이윤희씨의 등신대를 훼손한 혐의를 받고 있다. 등신대는 이씨의 가족 등이 설치한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 미리 준비해둔 커터칼 등으로 등신대를 고정한 노끈 등을 자른 뒤 등신대를 부수고 숨긴 것으로 알려졌다. 경찰은 방범카메라 분석 등을 통해 A씨를 범인으로 특정했다. &lt;br&gt;&lt;br&gt;이씨는 전북대 수의학과 본과 4학년에 재학 중이던 지난 2006년 6월 6일 새벽 종강 모임 술자리가 끝나 자취방으로 귀가한 뒤 실종됐다. 현재까지 이씨의 생사 여부는 확인되지 않았으며, 이씨의 가족들은 지금까지도 진실 규명을 촉구하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사, 20일 특검 조사 불출석... 자필 사유서 낸다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/19/VDXEVCLRMJBCBGCZZXDE2WPPGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/VDXEVCLRMJBCBGCZZXDE2WPPGM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 04:22:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUA36ZSS4NMY46XRQDSRZ2HBRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가  지난 12일 오전 서울 서초구 서울중앙지법에서 열린 구속영장 실질심사에 출석하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증거인멸 우려로 구속 수감된 김건희 여사가 오는 20일 특검의 4차 소환 조사에 출석하지 않기로 했다. 김 여사는 건강 문제 등으로 조사에 임하기 어려운 점을 담은 자필 사유서를 이날 중 제출할 계획이다.&lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 김 여사는 이날 오전 서울남부구치소에서 변호인과 접견한 뒤 특검에 불출석하기로 결정했다. 특검 출범 전부터 앓았던 우울증이 계속되고 있어 수면과 식사에 장애를 겪고 있고, 저혈압 증세도 심하다는 게 김 여사 측 설명이다. 건강 상태가 매우 나쁘다보니 짧은 간격으로 이어지는 특검 조사에 제대로 임하기가 어렵다는 얘기다. 김 여사는 전날 3차 소환 조사 때도 제대로 식사를 하지 못했고, 과자를 입에 넣어 녹여먹는 식으로 간단히 요기만 했다고 한다.&lt;br&gt;&lt;br&gt;김 여사는 이날 중 서울남부구치소 출정과에 자필로 작성한 불출석 사유서를 제출할 계획이다. 구치소가 사유서를 접수하면 이를 특검에 전달하는 방식으로 불출석 의사를 밝힌다는 것이다. 변호인이 구치소 측에 양해를 구했다고 한다.&lt;br&gt;&lt;br&gt;김 여사 측은 향후 모든 특검 조사에 불출석하겠다는 방침을 세운 것은 아닌 것으로 전해졌다. 특검의 조사 요구에 성실히 임하는 것이 기본 입장이지만, 특검도 세 차례 대면 조사를 통해 김 여사의 건강 상태를 직접 본 만큼 20일 소환 조사에 대해선 양해를 구하고자 한다는 취지다. 김 여사는 지난 6일 출석해 첫 조사를 받았고, 12일 구속된 뒤 14일과 18일에 출석해 추가 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;특검은 김 여사의 신병을 확보한 뒤 ‘명태균 공천개입’ 의혹 보강 수사를 마치고 ‘도이치모터스 주가조작’ 의혹 조사를 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고(故) 이선균 수사 정보 유출 검찰 수사관…법정서 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/19/LE3TCJ2PFJAWLCXW3RN4XUO7FY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/LE3TCJ2PFJAWLCXW3RN4XUO7FY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 04:11:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고(故) 이선균씨 관련 수사 정보를 유출한 검찰 수사관이 법정에서 혐의를 부인했다. &lt;br&gt;&lt;br&gt;인천지법 형사14단독 공우진 판사는 19일 공무상비밀누설 등 혐의로 기소된 인천지검 수사관 A(44)씨에 대한 첫 공판을 진행했다. &lt;br&gt;&lt;br&gt;A씨 변호인은 공판에서 “사실관계는 인정하지만, 법리상 위법하다는 사실은 인정하지 않고 부인한다”며 “(피고인은) 개인정보를 처리하거나 처리하려고 하는 자가 아니고, (유출 내용이) 업무상 취득한 정보나 직무상 비밀에 해당하지 않는다”는 취지로 주장했다. &lt;br&gt;&lt;br&gt;A씨는 이날 법정에 출석해 생년월일과 주거지 등을 확인하는 재판장의 인정신문에 담담하게 답했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 10월 배우 이씨가 마약 투약 혐의로 경찰의 수사를 받고 있다는 정보와 수사 진행 상황 등을 지역신문 기자에게 2차례 알려준 혐의 등으로 기소됐다. 이 신문은 2023년 10월 19일 ‘톱스타 L씨, 마약 혐의로 내사 중’이라는 제목의 기사를 보도했다. &lt;br&gt;&lt;br&gt;이번 사건으로 A씨는 직무에서 배제돼 징계 관련 절차를 밟고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;배우 이씨는 2023년 10월 14일 형사 입건돼 2개월간 3차례에 걸쳐 경찰 소환 조사를 받았다. 그는 3번째 조사를 마친 4일 뒤인 12월 26일 서울 종로구의 한 공원 인근에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;한편 배우 이씨의 수사 진행 상황을 담은 보고서를 기자 2명에게 유출한 경찰관 B 전 경위도 기자와 함께 재판에 넘겨져 인천지법에서 별도로 재판을 받고 있다. &lt;br&gt;&lt;br&gt;B 전 경위가 유출한 보고서는 인천경찰청 마약범죄수사계가 2023년 10월 18일 작성한 것이며, 마약 사건과 관련한 대상자 이름과 전과, 신분, 직업 등이 담겼다. 한 연예 매체는 이를 2023년 12월 28일 이 보고서 편집본 사진과 내용을 보도했다. B 전 경위는 이 사건으로 파면된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>父子 전세사기에 세입자 28명 당했다</title>
+      <link>https://www.chosun.com/national/regional/2025/08/19/XS5JFX6I5ZFQNEMPDL3LRJ7LHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/XS5JFX6I5ZFQNEMPDL3LRJ7LHE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 19 Aug 2025 03:59:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LMUXNNKSPNHEVBGDKR4LHCQ3DY.webp"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 다세대주택 4채를 임대한 후 전세 보증금을 가로챈 40대가 검찰로 넘겨졌다.&lt;br&gt;&lt;br&gt;19일 제주경찰청에 따르면 사기 혐의를 받는 40대 임대인 A씨가 구속 송치되고, 건물주인 70대 아버지 B씨는 기소 의견으로 불구속 송치됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 2019년부터 2023년까지 서귀포 지역 다세대주택 4채로 임대 사업을 하며 세입자 28명으로부터 전세 보증금 총 21억 원을 가로챈 혐의를 받고 있다. A씨는 충분한 자본 없이 다세대주택을 건축한 후 전세 보증금으로 담보 대출 등 개인 채무를 변제하거나 생활비 등으로 사용한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 사건은 피해자 중 23명이 잇따라 고소장을 접수하면서 알려졌다. 피해자들은 최소 수천만 원에서 최대 1억9000만원의 전세 보증금을 대부분 돌려받지 못한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;제주경찰 관계자는 “전세 사기는 서민의 주거 안정을 위협하는 중대한 범죄로 수사 역량을 집중해 엄정히 대응하겠다”며 “전세 계약 체결 시 등기부등본과 선순위 권리관계 등을 반드시 확인해 보증금 반환에 문제가 없는지 꼼꼼히 살펴야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>尹 ‘내란특검 추가 기소’ 첫 재판…“공소장 장황” 특검 꼬집은 법원</title>
       <link>https://www.chosun.com/national/court_law/2025/08/19/SE6I5GJHTVCQZDCITZUTWYZHCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/SE6I5GJHTVCQZDCITZUTWYZHCA/</guid>
@@ -714,15 +795,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWVYD525LRMFRLFKQE6U57ZZQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;백혜련 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백혜련 더불어민주당 의원이 18일 국민의힘의 ‘계엄 해제 표결 방해 의혹’과 관련해 내란 특검에 참고인 신분으로 출석했다. 백 의원은 특검 사무실로 들어가면서 “(계엄 해제 표결 당시) 표결을 방해하려는 (국민의힘의) 행위는 있었다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;백 의원은 이날 오후 4시쯤 내란 특검 사무실이 있는 서울 서초구 서울고검 청사로 출석했다. 그는 지난해 12월 4일 국회 본회의장에서 진행된 계엄해제요구안 표결 상황과 관련해 “제가 아는 선에서 특검이 묻는 것에 충실히 답변하겠다”고 했다.&lt;br&gt;&lt;br&gt;백 의원은 특검이 추경호 전 국민의힘 원내대표 등 야당 의원들을 상대로 제기된 ‘계엄 해제 표결 방해 의혹’을 수사하는 것에 대해 “그때 정말 긴박한 순간이었고, 국회의원이라면 당연히 (본회의장으로) 와서 표결해야 했던 상황이었다”며 “당시 본회의장 바로 옆에 있는 원내대표실에 10명 이상의 (국민의힘) 의원이 있었는데 표결을 하지 않았다. 뭔가 표결을 방해하려는 행위는 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;특검은 백 의원에 대한 조사를 통해 계엄 해제 요구안 표결 당시 국회 상황을 재구성할 것으로 보인다. 앞서 특검은 이와 관련해 우원식 국회의장, 표결 당시 국민의힘 소속이었던 김상욱 민주당 의원, 국민의힘 조경태·김예지 의원 등을 참고인 신분으로 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>운행 중인 택시 기사 폭행한 40대 승객 ‘집유’</title>
-      <link>https://www.chosun.com/national/regional/2025/08/19/WELTALAI5VEHHHKLT5VCZ525BM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/WELTALAI5VEHHHKLT5VCZ525BM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 07:34:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3GBCZJKXFMCSCWXLYGHL2RPUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 정한근)는 술에 취해 운행 중인 택시 안에서 기사를 폭행한 혐의(특정범죄 가중처벌 등에 관한 법률 위반)로 재판에 넘겨진 40대 승객 A씨에게 징역 1년 6개월에 집행유예 2년을 선고했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 8일 대구 동구 한 도로를 달리던 택시 안에서 60대 기사 B씨를 폭행해 전치 2주의 상처를 입힌 혐의로 기소됐다. A씨는 술에 취한 상태로 택시를 타 운전기사 B씨에게 욕을 했고, 이에 B씨가 경찰에 신고하자 주먹을 휘두른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피해자가 처벌의사가 없다고 밝혔지만, 운전 중인 택시기사를 폭행할 경우 피해자의 안전뿐 아니라 교통사고를 유발해 불특정 다수에게도 매우 큰 피해와 위험이 초래될 수 있어 엄벌이 필요하다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>자선바자회 후 기부 안 한 문다혜, 횡령 의혹은 ‘무혐의’</title>
       <link>https://www.chosun.com/national/national_general/2025/08/19/CECNZND7MVBSJLP7C5QAUKKJKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/CECNZND7MVBSJLP7C5QAUKKJKI/</guid>
@@ -741,19 +813,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTZLKOMJRJIWXG3BICBNKZCON4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전세사기범 엄중처벌 촉구 기자회견./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 미추홀구 일대를 중심으로 수백억 원대 전세 사기를 주도한 건축업자 남모(63)씨가 세 번째로 기소된 전세 사기 사건 1심 재판에서 중형을 선고받았다. &lt;br&gt;&lt;br&gt;인천지법 형사17단독 김은혜 판사는 18일 사기 등 혐의로 기소된 남씨에 대해 징역 7년을 선고했다. &lt;br&gt;&lt;br&gt;김 판사는 같은 혐의로 기소된 공인중개사와 중개보조원 등 공범 28명 중 8명은 각각 징역 6개월~2년에 집행유예 2~3년을, 1명은 벌금 500만원을 선고했다. 나머지 19명은 무죄를 선고했다. &lt;br&gt;&lt;br&gt;김 판사는 “피고인 남씨는 타인 명의로 임대차 계약을 체결한 후 보증금을 받아 대출 채무를 돌려막기로 상환하는 방식으로 자기자본 없이 부동산을 관리했다”며 “범행의 내용과 방법에 비춰 보면 죄책이 매우 무겁다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피해자 중 일부는 경매로 피해를 복구했으나 대부분 피해 복구가 이뤄지지 않았고, 나머지 피고인들은 남씨의 자금 경색 상황을 알면서도 조직적으로 범행에 가담했다”고 했다. &lt;br&gt;&lt;br&gt;무죄 부분에 대해선 “(일부) 피고인의 무죄를 선고한 것은 잘못이 없다는 취지가 아니라 범행에는 가담했으나 편취의 고의가 있었다고 인정하기 어려웠다고 본 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;검찰은 앞선 결심공판에서 남씨에게 징역 15년과 범죄 수익 82억9555만원 추징을 구형했다. 공범 28명에 대해선 징역 2~10년을 구형했다. &lt;br&gt;&lt;br&gt;남씨 등은 인천에서 빌라나 소형 아파트 세입자 102명으로부터 전세보증금 83억원을 받아 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;남씨 일당의 전체 사기 혐의 액수는 총 589억원(피해자 820명)으로, 5차례에 걸쳐 기소가 이뤄졌다. 이번 재판에선 3차 기소 사건인 83억원대 사기 혐의만 다뤄졌다. &lt;br&gt;&lt;br&gt;남씨는 148억원대(피해자 191명) 전세 사기 혐의로 처음 기소돼 지난 1월 대법원에서 징역 7년이 확정됐고, 추가 기소된 다른 305억원(피해자 372명) 사기 혐의에 대해선 지난 2월 1심에서 징역 15년을 선고받았다. 현재 항소심 재판이 진행되고 있다. &lt;br&gt;&lt;br&gt;남씨 등은 또 28억원대(피해자 78명), 24억원대(피해자 77명) 전세 사기 혐의로 추가 기소돼 현재 1심 재판 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>금호타이어 광주공장 화재 76시간 만에 완진… “공장 철거에만 한 달”</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/20/N3M4YKRJBFETXPMMMRVITBXHYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/20/N3M4YKRJBFETXPMMMRVITBXHYI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 20 May 2025 05:24:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WE7FGGAPPI26MR5XZLHQDBPYBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산구 소촌동 금호타이어 광주공장 화재 나흘째인 20일 오전  현장에서 건물 해체 작업 전 중장비들이 잔해물들을 치우고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금호타이어 광주공장에서 발생한 대형 화재가 최초 발화로부터 76시간 만에 완전히 진화됐다.&lt;br&gt;&lt;br&gt;20일 소방당국과 금호타이어 등에 따르면 이날 오전 11시 50분쯤 광주광역시 광산구 소촌동 금호타이어 광주공장 화재가 완진됐다. 지난 17일 오전 7시11분쯤 처음 화재가 난 뒤로 약 76시간 만이다.&lt;br&gt;&lt;br&gt;소방당국은 지난 18일 오후 2시 50분쯤 주불을 잡았지만, 도깨비불처럼 공장 곳곳에 남아 있는 잔불 정리에 난항을 겪으면서 가까스로 불을 완전히 껐다. 소방당국은 재발화 가능성을 없애기 위해 공장 건물을 모두 철거하는 방식으로 불씨를 모두 제거할 계획이다.&lt;br&gt;&lt;br&gt;화재 현장 복구 작업은 수개월이 걸릴 전망이다. 금호타이어 광주공장 관계자는 “공장을 철거하는 것만 한 달가량 걸리고 수사기관의 감식, 피해 금액 산정을 위한 현장 조사까지 감안하면 언제 복구가 가능할 지 장담할 수 없는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;금호타이어 광주공장 직원 2300여 명은 화재로 공장 가동이 전면 중단되면서 자택 대기 명령이 내려졌다. 금호타이어 노조는 “사측은 신속하고 안전한 공장 정상화 대책을 마련하고 정부와 지자체는 고용위기지역, 특별재난지역 선포 등 범정부적 차원의 모든 수단을 선제적으로 조치해 달라”고 밝혔다.&lt;br&gt;&lt;br&gt;관할 지자체인 광주시와 광산구는 전날부터 오는 28일까지 광산구청에서 ‘피해 접수 창구’도 운영한다. 연기, 분진으로 피해를 본 주민들이 피해 보상을 신청할 수 있다. 20일 오전 10시 기준 1236건의 신청이 들어왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WE7FGGAPPI26MR5XZLHQDBPYBQ.jpg?auth=6564b89da192fce23b43ce34ce5b45b19ed4176794ef6fa700cf8407b07f70c0&amp;smart=true&amp;width=5722&amp;height=3814" type="image/jpeg" height="3814" width="5722">
-        <media:description type="plain">광주 광산구 소촌동 금호타이어 광주공장 화재 나흘째인 20일 오전  현장에서 건물 해체 작업 전 중장비들이 잔해물들을 치우고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이승현 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>광주 AI 2단계 사업 예타 면제 국무회의 통과… 5년간 6000억 투입</title>
       <link>https://www.chosun.com/national/national_general/2025/08/19/S25JKMNMEZCZBLT2CEJORMEZWQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/S25JKMNMEZCZBLT2CEJORMEZWQ/</guid>
@@ -765,15 +824,6 @@
         <media:description type="plain">광주광역시청 전경. 뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">GJI</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>스프링클러 없어… 아파트 14층서 화재, 母子 참변</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/2ZSJX2NW3RDX5GBM3F5UY6LAVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/2ZSJX2NW3RDX5GBM3F5UY6LAVE/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:42:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQZO5KPOWZIBLNVUJICIRT2PM4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 마포구 창전동의 한 아파트 에서 화재가 발생해 불길이 번지고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 마포구의 한 아파트에서 불이 나 2명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국 등에 따르면 17일 오전 8시 11분쯤 서울 마포구 창전동 삼성아파트 14층에서 화재가 발생했다는 신고가 접수됐다. 화재 당시 현장 인근 주민들은 ‘펑’ 하는 소리와 함께 베란다 창문에서 불과 검은 연기가 치솟았다고 설명했다. 화재가 발생한 세대는 전소(全燒)했고 맞은편 집도 외벽 등이 타 소실됐다.&lt;br&gt;&lt;br&gt;불길은 신고 2시간 30여 분 만인 10시 42분에 잡혔다. 현장에는 소방 인력 186명과 차량 79대가 투입됐다. 소방과 경찰 당국은 18일 합동 감식을 통해 정확한 화재 원인과 피해 규모를 조사할 예정이다. 소방당국 관계자는 “방 안에서 충전 중인 전동 스쿠터 배터리에서 폭발이 발생한 것으로 추정된다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN2YLBMHVNAJ7BVJJIIJGSFX5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 마포구 창전동 한 아파트 화재현장에서 화재감식 관계자들이 입구 앞에 놓인 스쿠터를 조사하고  있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 화재로 숨진 2명 외에 13명이 다치고 89명이 대피했다. 사망한 60대 여성과 20대 남성은 불이 난 집 거주자로 모자(母子)였다. 아들은 화재 현장에서 사망했고, 어머니는 심정지 상태로 발견돼 심폐소생술을 받으며 병원에 이송됐지만 끝내 숨졌다. 4개 층 위로 자력 대피한 60대 아버지는 이웃 주민들을 붙잡고 “우리 아들 못 봤느냐”며 가족을 찾아다닌 것으로 알려졌다. 아버지도 연기를 흡입하고 등에 화상을 입어 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;화재가 발생한 이 아파트 14층에는 화재 때 물을 뿌려주는 ‘스프링클러’가 설치되지 않아 불길이 더 빠르게 번진 것으로 보인다. 아파트가 준공된 1998년 당시만 해도 스프링클러 설치 의무는 공동주택의 16층 이상에만 적용됐다. 2004년부터 11층 이상, 2018년부터 6층 이상 아파트의 전층에 스프링클러 설치가 의무화됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희특검, ‘건진법사 청탁’ 통일교 고위간부·브로커 구속 기소</title>
@@ -831,15 +881,6 @@
       <description/>
       <pubDate>Mon, 18 Aug 2025 01:29:26 +0000</pubDate>
       <content:encoded>문재인 정부 시절 북한에 전달된 한강 수로도는 여전히 국가 기밀에 해당해 공개할 수 없다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OLMCVLKTV5DO7FU5WZNU7YIP7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 11월 5일 남북의 한강 및 임진강 하구 공동이용(남북공동이용수역)을 위한 공동 수로 조사가 시작한 5일 북측 조사단을 태운 선박이 남측 조사단 선박이 정박한 지역으로 도착하고 있다./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정14부(재판장 이상덕)는 최근 구주와 변호사가 국립해양조사원장을 상대로 낸 정보공개 거부 처분 취소 소송에서 원고 패소로 판결했다고 18일 밝혔다. 구 변호사는 지난 대선에서 자유통일당 후보로 출마했다가 사퇴한 이력이 있다.&lt;br&gt;&lt;br&gt;2018년 9월 문재인 전 대통령과 김정은 북한 국무위원장은 ‘9·19 남북군사합의’를 맺고 한강 하구를 민간 선박이 항해할 수 있도록 한강 수로도를 제작하기로 했다. 이후 남북은 약 두 달간 공동 조사를 벌여 수로도를 제작했고, 우리 정부는 이듬해 1월 판문점 군사실무접촉에서 수로도를 북한에 전달했다. 수로도에는 인천 강화도 말도부터 경기 파주시 만우리까지 약 70km 구간의 암초 위치, 조류 흐름, 수심 등 민감한 군사·지리 정보가 담겼다. 국립해양조사원은 2020년 9월 보안심사위원회의 심의·의결을 거쳐 이를 3급 비밀로 지정했다. &lt;br&gt;&lt;br&gt;구 변호사는 지난해 7월 “이미 북한에 넘어간 자료는 더 이상 기밀이 아니며, 적국에 공개할 수 있는 정보를 국민들에게 공개하지 않는 것은 부당하다”며 정보 공개를 청구했다. 그러나 국립해양조사원은 국가 안보 등의 이유로 이를 거부했다. 이에 불복한 구 변호사는 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 수로도가 비공개 정보에 해당한다고 판단해 구 변호사의 주장을 받아들이지 않았다. 재판부는 “당초 수로도는 한강 하구 중립 수역을 공동 이용하기 위한 목적으로 제작됐지만, 남북 관계 긴장이 지속되면서 당초 목적을 그대로 달성하기 어려워졌다”면서 “수로도가 일반 대중에 공개될 경우 남북 관계를 자극·악화시키거나 국익에 반하는 방향으로 악용될 수 있어 이를 3급 비밀로 지정한 것은 현저히 불합리하다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;아울러 법원은 구 변호사의 소송 의도도 문제 삼았다. 재판부는 “무엇보다 원고의 정보공개 청구는 수로도를 공개받아 항해 등에 활용하려는 게 아니라, 단순 호기심에 기인하였을 뿐”이라며 “구 변호사가 관련해 전직 대통령 등 고위 공무원들을 간첩죄 혐의로 고발했지만 모두 불송치 결정을 받은 점을 고려할 때, 그가 정보 공개를 달성할 수 있다고 주장하는 ‘진상규명’의 실체조차 불분명하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 내일 오전 9시 30분 한덕수 전 총리 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/TEKGKF5Q4RBYJFEOVWX72SV5FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/TEKGKF5Q4RBYJFEOVWX72SV5FM/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 02:03:33 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 관련 내란·외환 사건을 수사하는 조은석 특별검사팀이 오는 19일 한덕수 전 국무총리에게 피의자 신분으로 소환 조사를 받으라고 통보했다.&lt;br&gt;&lt;br&gt;내란 특검은 “19일 오전 9시 30분 한 전 총리에 대한 소환을 요청했다”고 18일 밝혔다. 한 전 총리가 내란 특검 조사를 받는 것은 지난 7월 초에 이어 이번이 두 번째다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6S3KQPI5TSASZMHYQ72UXEHEGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 지난 7월 2일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에서 조사를 받은 후 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 총리는 윤석열 전 대통령의 비상계엄 선포를 동조·방조하고, 사후 비상계엄 선포문 작성과 폐기에 관여하는 등 비상계엄의 위법성을 은폐한 혐의를 받는다. 한 전 총리는 계엄 선포 이틀 뒤 강의구 전 대통령실 부속실장이 작성한 비상계엄 선포 문건에 서명했으나 며칠 뒤 강 전 실장에게 해당 문건을 폐기해 달라고 요청했다. &lt;br&gt;&lt;br&gt;특검은 지난달 2일 한 전 총리를 조사한 데 이어, 같은 달 24일에는 한 전 총리 자택과 국무총리 공관 등을 압수수색 했다. 또 비상계엄 선포를 위한 국무회의에 참석했던 윤석열 정부 국무위원들을 불러 한 전 총리의 주장을 검증해 왔다. 특검은 오는 19일 한 전 총리를 조사한 뒤 구속영장 청구 여부를 검토할 전망이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국토부가 올린 광복 80주년 영상에 日 도쿄역?… “AI가 제작” 해명</title>
@@ -921,52 +962,6 @@
       <description/>
       <pubDate>Mon, 18 Aug 2025 01:04:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFDR5BHLUF5Y56566PGUEGCWCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'도이치모터스 주가조작 사건' 당시 김건희 여사의 계좌를 관리한 것으로 알려진 이종호 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. 이 전 대표는 도이치모터스 주가조작 사건에서 집행유예를 받게 해주겠다는 조건으로, 2022년 6월∼2023년 2월 25차례에 걸쳐 1차 주포인 이정필씨로부터 8100만원을 받은 혐의(변호사법 위반)로 구속됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 배우자 관련 의혹을 수사하는 민중기 특별검사팀은 오는 19일 오전 10시에 이종호(구속) 전 블랙벌인베스트 대표를 불러 조사할 예정이라고 18일 밝혔다. 이 전 대표 구속 후 두 번째 조사이다.&lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 1차 주가조작 ‘주포’인 이정필씨에게 집행유예를 받게 해준다면서 2022년 6월부터 2023년 2월까지 25차례에 걸쳐 8000여 만원을 받은 혐의(변호사법 위반)로 지난 5일 구속됐다. 이 전 대표는 지난 6일 구속이 부당하다며 법원에 구속적부심사를 청구했지만 기각됐다. &lt;br&gt;&lt;br&gt;이 전 대표는 삼부토건 주가조작, 임성근·조병노 구명 로비 의혹에도 등장해 김 여사 관련 의혹 수사의 핵심 인물로 꼽힌다. 도이치모터스 주가 조작 사건과 관련해서는 김 여사의 계좌를 관리하기도 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 대표는 지난 14일 구속 후 첫 특검 조사에서 김 여사와 관계를 묻는 질문에 “오래전 관계가 끊어졌다”면서 김 여사와의 대질 신문을 요구한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“피·안·성 가자” 1400만원 ‘의사 학원’ 다니는 의대생들</title>
-      <link>https://www.chosun.com/national/education/2025/08/18/FKVDA234WBGPXNFGFT7GKEEB2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/18/FKVDA234WBGPXNFGFT7GKEEB2Y/</guid>
-      <dc:creator>최인준 기자, 공건 인턴기자(성균관대 경영학과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW35PDFE4BB5RGINJFEADPY5BE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 서울 강남구의 한 사설 학원에서 이곳 직원이 의대생들을 위한 수업 시작 전 강의실을 준비하고 있는 모습. 의대 전공 수업을 하는 이 학원에는 최근 집단 휴학했던 의대생들의 학교 복귀 결정 이후 수강 문의가 크게 늘고 있다고 한다.
-/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 11일 오후 서울 강남의 한 학원 강의실. 서로 학교가 다른 의대생 6명이 태블릿PC를 통해 ‘신장학’ ‘혈액종양학’ 등 현직 전문의가 의대생 전공 수업용으로 제작한 강의 영상을 보고 있었다. 강의실 한쪽에는 ‘외과학’ ‘해부학’ 등 의학 서적 수십 권도 보였다. 이곳은 의대생을 대상으로 의학 전공 과목을 가르치는 사설 학원이다. 학원 관계자는 “지난달 수업 복귀 확정 이후 의대생·학부모의 수강 문의가 평소보다 7~8배 늘었다”며 “한동안 줄었던 수강생이 2학기에는 의정 갈등 이전 수준으로 늘어날 전망”이라고 했다. 특히 학원에는 ‘피안성(피부과·안과·성형외과)’ ‘정재영(정형외과·재활의학과·영상의학과)’ 등 인기 전공 진학을 노리는 본과 고학년 의대생 비율이 높은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;최근 장기 휴학 의대생의 수업 복귀가 결정되면서, 휴학으로 놓친 수업 내용을 따라잡고 전공 과목 선행 학습을 하려는 의대생들이 사교육 업체에 몰리고 있다. 이들은 평일 중 학교 수업이 없는 시간대나 주말에 학원을 찾아 하루 4~5시간씩 전공 과목을 공부한다. 사교육 업체까지 찾는 것은 의대 졸업 후 전공의·전문의 전공 분야가 철저하게 시험 성적 순으로 결정되기 때문이다. 각각 1~10등급으로 분류되는 의대 내신과 ‘의사 국가시험’ 성적에 따라 전공 과와 인턴 수련 병원이 결정되는데 여기서 더 좋은 성적을 받으려고 별도 학원을 찾는 것이다. 학원 관계자는 “의대생들 사이에서 학교는 계급, 졸업 후 전공 과목은 벼슬”이라며 “의사도 다 같은 의사가 아니다. 전공 과목에 따라 수입이 3배 넘게 차이 나기 때문에 따로 학원 수업을 들으며 높은 점수를 받으려는 것”이라고 말했다. &lt;br&gt;&lt;br&gt;의대생 학원은 대학 입시 학원처럼 ‘선행 학습’에 초점을 맞춰 강도 높은 수업을 진행한다. 6~7명의 전공 분야별 현직 전문의들이 현장 강의나 강의 영상을 통해 시험 출제 비율이 높은 핵심 내용을 정리해 주기 때문에 학생들 반응이 좋다고 한다. 전공 시험 대비뿐 아니라 전공의(인턴·레지던트) 면접, 논문 작성 지도도 해준다. 한 의대 본과생은 “학원에선 족집게식으로 짚어주니 혼자서 5시간 이상 걸릴 공부가 1시간에 정리가 가능하다”며 “모르는 내용을 수시로 질문할 수 있다는 것도 도움이 된다”고 했다.&lt;br&gt;&lt;br&gt;하지만 이에 대한 비판도 적지 않다. 한 대학교수는 “사교육 혜택을 받고 의대에 진학한 세대가 의대에 가서도 다시 사교육에 의존하고 있는 꼴”이라며 “전공 과목 선택 경쟁 과열로 의대 내 ‘빈익빈 부익부’ 현상이 심화될 것”이라고 했다. 사교육 업계에 따르면, 의대생 학원의 1인당 연 수강료는 1000만원 이상으로, 의대 연간 등록금 평균(984만원·지난해 기준)보다 많다. 국시 대비 1년 과정을 전부 수강하면 1400만원, 1대1 전문의 과외 교육을 받으면 연 1억원 이상 내야 하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공공 테러 협박범 절반이 2030… 벌금 600만원 처벌 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/RXXM25HOKRCKFGVH7U3ZA23JS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/RXXM25HOKRCKFGVH7U3ZA23JS4/</guid>
-      <dc:creator>김도연 기자, 구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:43:00 +0000</pubDate>
-      <content:encoded>직접 만든 사제 폭탄을 들고 서울 영등포 일대 상점가를 돌아다니며 테러 협박을 한 혐의로 재판에 넘겨진 30대 남성에게 서울남부지법이 최근 벌금 600만원 형을 선고했다. 지난 3월 불특정 다수를 대상으로 한 폭발물 설치나 칼부림 같은 협박 범죄를 처벌하는 ‘공중협박죄’가 신설된 후 나온 첫 관련 판결이다. &lt;br&gt;&lt;br&gt;이번에 벌금형을 받은 김모(30)씨는 지난 5월 서울 영등포에서 부탄가스와 전선, 휴지 등으로 만든 사제 폭탄을 들고 40분가량 활보하며 “마음에 안 드는 놈 죽여버린다”며 시민들을 협박했다. 재판부는 “죄책이 가볍지 않다”면서도 피고인이 반성을 하고 있다는 점과 지적장애를 가지고 있다는 이유로 벌금형을 선고했다. 공중협박죄는 피해 발생 여부와 관계없이 5년 이하 징역 또는 2000만원 이하 벌금형에 처할 수 있다.&lt;br&gt;&lt;br&gt;최근 폭발물 설치 협박 사건이 기승을 부리는 상황에서 이번 판결을 두고 형이 가벼운 것 아니냐는 지적이 나온다. 경찰청에 따르면, 공중협박죄 처벌이 시작된 지난 3월 18일부터 지난달까지 전국에서 72건의 공중협박 사건이 발생했고 이와 관련해 47명이 검거됐다. 지난 2023년 8월부터 시작돼 지금까지 47건 발생한 일본 변호사 사칭 폭발물 설치 협박 사건도 이달에만 3건 발생했다. 17일에는 경기 수원 햄버거 가게에 폭발물을 설치했다는 신고가 접수돼 경찰과 소방 당국이 대대적인 수색에 나섰다. 하지만 폭발물은 발견되지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH3OMFQZUBGIFBKIK6L3V5X2YM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전문가들은 “법원의 처벌 수위가 낮으면 공중 협박에 따른 사회적 불안과 공권력 낭비 비용이 더 커질 수밖에 없다”고 말한다. 실제로 최근 사제 폭발물 설치 협박에 따른 사회적 비용은 막심했다. 지난 5일 서울 명동 신세계백화점 본점에 폭탄을 설치했다는 글이 온라인에 올라와 백화점 고객 4000명이 긴급 대피했다. 제주도에 사는 한 중학생이 장난 삼아 올린 글이었지만, 백화점은 이날 하루 6억원이 넘는 손실을 본 것으로 알려졌다. 10일에도 서울 송파구 올림픽체조경기장에 폭발물이 설치됐다는 팩스 협박으로 아이돌 공연을 보려 대기 중인 관객 2000여 명이 대피했다. &lt;br&gt;&lt;br&gt;경찰력 낭비도 심각하다. 2023년부터 2025년 상반기까지 2년 6개월간 전국 경찰 특공대가 폭발물 설치 등 신고를 받고 출동한 횟수는 총 943건이었다. 2015년부터 2021년까지 7년간 누적 신고 출동 건수(395건)의 배 이상이다. 폭발물이 없는데도 경찰관 수백 명과 특수 장비가 동원되면서 정작 긴급한 상황에는 제대로 대처하지 못하는 것 아니냐는 우려가 크다. 이윤호 동국대 경찰행정학과 교수는 “사회 일각에서 공중협박죄를 실행되지 않은 범죄라고 가볍게 보는 경향이 있는데 강력한 처벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;공중협박죄로 최근 4개월간 검거된 47명 중 절반 이상(24명)이 20·30대였다. 전문가들은 “젊은 층에 쌓인 사회적 분노와 불만이 왜곡된 방식으로 표출되고 있다”고 분석한다. 김상균 백석대 경찰학부 교수는 “청년층이 취업난과 실업, 경기 불황 등 문제를 사회나 중산층 같은 불특정 다수의 탓으로 돌리는 것”이라고 했다. 국무조정실이 지난 3월 공개한 ’2024년 청년의 삶 실태 조사' 결과에 따르면 거의 집에만 있는 고립·은둔 청년의 비율은 5.2%로 집계됐다. 2022년 조사(2.4%)보다 2배 이상으로 높아진 수치다. 응답자 중 32.8%는 고립·은둔 생활을 하는 이유로 ‘취업의 어려움’을 꼽았다고 한다. 남부지법에서 벌금형을 선고받은 김씨도 무직이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년 의료비 지출 1인당 412만원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/18/VSUFTXYPGJA4ZGSMEN74I6PZ2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/18/VSUFTXYPGJA4ZGSMEN74I6PZ2Q/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XY7FX4QBGKFRSRWJDSCT4M5UOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 병원에서 진료 대기하는 환자들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년 사이 우리 국민 1인당 연간 보건의료 부문 지출이 100만원 가량 늘어난 것으로 집계됐다. &lt;br&gt;&lt;br&gt;17일 국회 보건복지위원회 김미애 의원(국민의힘)이 보건복지부에서 받은 자료에 따르면, 우리 국민 1인당 보건의료 지출액은 2019년 303만2000원에서 지난해 411만8000원으로 35.8% 늘었다. 국내총생산(GDP)에서 보건의료 지출이 차지하는 비율도 2019년 7.7%에서 지난해 8.4%로 커졌다. 단순히 금액만 커진게 아니라 의료비로 쓰는 비용의 비중 자체가 늘어난 것이다.&lt;br&gt;&lt;br&gt;같은 기간 건강보험 진료비(의료급여·비급여 제외)는 86조4775억원에서 116조2509억원으로 34.4% 증가한 것으로 나타났다. 이 중 약국에서의 진료비가 17조7613억원에서 23조9551억원으로 34.8% 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이종섭 출국금지 해제에 박성재·심우정 관여 정황</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/18/ERZC5SLWBRDIVFVKAYTQI2SAZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/ERZC5SLWBRDIVFVKAYTQI2SAZQ/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:43:00 +0000</pubDate>
-      <content:encoded>순직 해병 특검은 이종섭 전 국방부 장관을 주(駐)호주 대사에 임명한 뒤 출국 금지를 해제하는 과정에 당시 박성재 법무부 장관과 심우정 법무부 차관 등이 관여한 정황을 포착한 것으로 17일 전해졌다. 박 전 장관 등이 정식 심의가 이뤄지기 전에 ‘이 전 장관에 대해 출국 금지를 해제하라’는 결론을 미리 정해 놨다는 진술을 확보한 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 윤석열 정부가 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처)에 입건됐던 이 전 장관을 호주 대사로 임명한 뒤 출국시켜 수사를 방해하려 했다는 ‘도피성 출국’ 의혹을 수사 중이다. 이 전 장관은 2023년 9월 민주당에 의해 고발된 뒤 이듬해 3월 4일 호주 대사로 임명됐는데, 임명 직후 공수처가 출국 금지해 놓은 사실이 알려졌다. 이에 이 전 장관은 작년 3월 6일 출국 금지를 해제해달라고 법무부에 이의신청을 제기했고, 법무부는 그해 3월 8일 출국금지심의위원회를 거쳐 이 전 장관에 대한 출국 금지를 해제했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 최근 이재유 전 법무부 출입국·외국인정책본부장 등 당시 출국 금지 심의에 관여했던 실무진을 불러 조사하면서 “이의 신청이 들어온 당일(작년 3월 6일) 박 전 장관과 심 전 차관 등이 법무부 실무진에 ‘이 전 장관이 대사로 임명됐으니 출국 금지를 해제하는 쪽으로 하라’며 사실상 지침을 줬다”는 취지의 진술을 확보했다고 한다. 출국금지심의위원회가 열리기 이틀 전부터 내부 지침이 ‘해제’로 결정돼 있었다는 것이다.&lt;br&gt;&lt;br&gt;이 전 장관은 작년 3월 10일 호주로 출국했지만 4월 총선을 앞두고 정치권에서 ‘도피 출국’ 논란이 커지자 3월 21일 ‘방산 협력 주요 공관장 회의’ 참석 명목으로 중도 귀국했다. 이어 임명 25일 만인 3월 29일 자진 사퇴했다.&lt;br&gt;&lt;br&gt;이에 대해 박 전 장관 측은 본지에 “출국금지 해제와 관련해 부당한 지시를 한 바 없다”며 “절차에 따라 법무부 소관 위원회가 출국금지 해제를 의결했고, 장관은 그 의결 결과에 따라 출국금지를 해제했을 뿐”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시민 1만1000명, 尹 부부에 “계엄 피해 위자료 배상하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/18/OJVPSK2S2FGO3FSGNBBCLX7BWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/18/OJVPSK2S2FGO3FSGNBBCLX7BWU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 15:42:00 +0000</pubDate>
-      <content:encoded>시민 1만1000명이 12·3 비상계엄 선포로 정신적 피해를 입었다며 윤석열 전 대통령과 배우자 김건희 여사에게 1인당 10만원의 위자료를 공동으로 청구하는 소송을 제기한다. 이들을 대리하는 김경호 변호사는 17일 “18일 서울중앙지법에 소송을 제기할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이번 소송은 김 여사를 비상계엄 선포의 ‘공동 불법행위자’로 보고 배상 책임을 묻는 게 특징이다. 소송을 내기로 한 이들은 소장에서 “비상계엄은 오로지 김 여사 개인을 향한 사법적 압박을 회피하기 위한 목적으로 자행됐다”며 “‘김건희 특검법’ 통과를 저지하고, 국정 농단 정황이 담긴 ‘명태균 게이트’의 증거 인멸을 위해 국가의 비상대권을 사유화한 것”이라고 주장했다. 이들은 “김 여사는 윤 전 대통령 불법행위의 가장 핵심적인 동기를 제공한 교사자이자 범행을 함께 계획하고 실행을 도운 공모자·방조자”라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난달 25일 비상계엄 선포로 정신적 피해를 입은 시민들이 낸 손해배상 청구 소송에서 윤 전 대통령이 1인당 10만원씩 위자료를 지급해야 한다는 판결을 내렸다. 이후 전국에서 윤 전 대통령을 상대로 ‘계엄 위자료’를 청구하는 민사 소송이 잇따르고 있다. 윤 전 대통령은 1심 판결에 불복해 항소한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수많은 당들이 대가리 터지게 싸움만”… 학생들은 통합 촉구했다</title>
