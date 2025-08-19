@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 이준석, 김건희특검 출석…포렌식 참여</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210629.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 19 Aug 2025 06:21:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210629</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210629</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210629.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 8월 19일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 김두규 변리사회 회장 접견(의장집무실)&lt;br /&gt;&lt;br /&gt;14:00 이준석 개혁신당 당대표 접견(의장집무실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 기획재정위원회 전체회의(본관 430호)&lt;br /&gt;&lt;br /&gt;10:00 외교통일위원회 예산결산기금심사소위원회(본관 401호)&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 전체회의(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 산업통상자원중소벤처기업위원회 전체회의(본관 534호)&lt;br /&gt;&lt;br /&gt;10:00 보건복지위원회 법안심사제1소위원회(본관 601호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 전체회의(본관 529호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:00 김태년 의원실, (국민주권 정부, 이제부터 진짜 대한민국!) 경제는 민주당 : 새정부의 국정과제와 대한민국 경제대전환(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 황정아 의원실 등, AI 3G 도약을 위한 6G·AI 네트워크 정책 토론회(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;10:00 문대림 의원실 등, 기후위기 대응을 위한 바이오매스 발전의 대전환(의원회관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 이만희 의원실, 미국發 농산물 검역개선 대응 및 과수농가 지원방안 모색 위한 국회 긴급토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;11:00 김현 의원실, 방송통신위원회 정상화와 미디어기구 개편 방안 : 민언련 '국민주권시대 미디어통합기구 개편방안' 연속토론회②(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;13:30 김태선 의원실 등, 새로운 정부에 바란다: 기후위기시대 안전한 물인프라 정책 토론회(의원회관 제2세미나실)&lt;br /&gt;&lt;br /&gt;14:00 이재정 의원실 등, (2025 세계 인도주의의 날 기념) 대한민국의 인도적 지원 발전 방안 토론회(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 신정훈 의원실 등, 국가 책임성 확보를 위한 행정사무위탁법(안)의 입법 방향 토론회(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 백혜련 의원실 등, 사법개혁특위 전문가 초청 공청회(의원회관 제5간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김종민 의원실 등, 아시아 파트너십 : 우리의 새로운 아시아 전략은?(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 위성곤 의원실 등, 접경지역 농업·농촌·농민 권리 회복을 위한 법·제도개선 토론회(국회도서관 대강당)&lt;br /&gt;&lt;br /&gt;14:00 김우영 의원실 등, 협동조합과 사회적금융 전세피해 극복의 사례와 과제 : 탄탄주택협동조합 성과공유회 &amp; 전세 대책 토론회(국회도서관 소강당)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 진종오 의원, [문화·체육 정책 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 정혜경 의원, [제조업 하청노동자, 노조법 2조·3조 개정안 통과 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 한창민 의원, [MBK사모펀드규제법 대표발의 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 조배숙 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 윤종오 의원, [출입국관리법 개정안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 정혜경 의원, [민주일반연맹, 노조법 2조·3조 개정안 통과 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 손솔 의원, [청년노동단체, 노조법 2조·3조 개정안 통과 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 정혜경 의원, [순창골프장 확장 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Mon, 18 Aug 2025 22:39:48 -0000</pubDate>
@@ -223,16 +233,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210548</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210548.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>미 FBI는 법무부 소속 영 SFO 수사·기소권 보유</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210547.jpg" alt="55556.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연방수사국(Federal Bureau of Investigation·FBI), 중대비리수사청(SFO) 로고》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;정부와 여권은 해외의 수사·기소 분리 입법례를 심도 있게 참고하는 것으로 알려졌다. 미국과 영국, 프랑스, 독일, 일본 등 해외 사법 선진국의 제도 운영 방식을 주의 깊게 분석한다고 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국회 법제사법위원회가 정리한 검토 보고서에 따르면, 미국은 일반적으로 수사와 기소가 분리된 형사 절차 체계를 운영한다. 연방검사는 연방 범죄에 대한 기소와 공소 유지에 집중한다. 필요하다면 연방 수사기관에 수사를 요청하거나 대배심(Grand Jury)을 통해 직접 수사를 개시할 수 있다. 일부 주(洲)에서는 지방검찰청이 자체 수사 인력을 보유해 직접 수사를 할 수도 있다. 다만 이때는 테러·조직범죄·환경범죄·경제범죄·부패범죄 등 중대 범죄로 한정된다. 검찰과 경찰은 상명하복이 아닌 협력적 관계로 설정돼 있다. 경찰은 독자적으로 수사해 사건을 송치한다. 검사는 보완 수사 요구나 기소 여부 판단으로 이를 견제한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국은 특별수사기구로 연방수사국(Federal Bureau of Investigation·FBI)을 두고 있다. FBI는 1908년 법무부 산하 수사기관으로 설립돼 국가안보 범죄, 약취·유괴, 은행 강도·절도, 연방 공무원 부패, 항공기·대중교통 파괴, 중요 도주 사건 등을 담당한다. 연방수사국장은 법무부 장관이 임명하며 법무부의 지휘·감독을 받는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;영국은 1986년 왕립기소청(CPS)을 설치해 제도적으로 수사와 기소를 분리했다. CPS 소속 검사는 독자적 수사권이 없다. 경찰이 수사한 사건 중 기소할 필요가 있으면 이를 송치한다. 다만 사기·뇌물 등 경제범죄나 중대 비리는 ‘중대비리수사청(SFO)’이 수사와 기소를 모두 담당한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;독일은 형사소송법상 검찰이 모든 범죄의 수사·기소 주체로서 수사를 지휘하도록 규정돼 있다. 그러나 검찰청 산하에 독자적 수사 인력이 없어 “손발이 없는 머리” 또는 “팔 없는 머리”로 불린다. 이에 독일 검사는 사법경찰관을 지휘하는 방식으로 수사를 한다. 일부 특수 사건에 한해 중점검찰청 제도를 통해 직접 수사가 가능하다. 경찰은 수사종결권이 없어 모든 사건을 반드시 검찰에 송치해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;프랑스는 법원과 검찰청이 모두 법무부 소속이다. 검찰청은 법원의 하부 조직으로 설정돼 있다. 검찰은 소추권과 일부 수사권을 행사하나, 재판과 대부분의 수사는 법원의 권한이다. 수사는 예심 수사판사, 검사가 직권으로 할 수 있다. 사법경찰관은 예심 수사판사·검사의 지휘 하에 수사한다. 검사는 사법경찰에 대한 지휘·감독권을 가진다. 경찰은 영장 청구권과 수사종결권이 없어 모든 범죄를 검사에 즉시 보고해야 하며, 검찰은 사건 전 과정을 통제한다. 프랑스는 조직범죄, 금융범죄, 테러범죄, 사이버범죄 등 국가 차원의 중대 범죄에 대응하기 위해 국립경찰청 산하에 중앙사법경찰국을 두고, 복수의 지방자치단체에 걸친 범죄나 국가 전체에 영향을 미치는 사건을 전담하게 하다가 2023년 이 조직을 국가사법경찰국(DNPJ)으로 개편해 중요 범죄 수사의 전문성과 효율성을 강화했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;일본은 경찰에 1차적 수사권을, 검찰에 2차적·보충적 수사권을 부여했다. 일반적으로 경찰이 사건을 수사해 검찰에 송치하지만, 일부 지방검찰청 특별수사부는 자체 인력으로 중요 인지 사건을 직접 수사한다. 일본 검사는 경찰에 대한 지휘권과 수사종결권을 인정받아 수사 과정에서 실질적인 통제권을 행사한다.&lt;/p&gt;</description>
-			<pubDate>Fri, 15 Aug 2025 20:08:59 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210547</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210547</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210547.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
