@@ -13,6 +13,88 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 김성회 의원, 내란특검 참고인 조사 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/YB7YWPHEYJELNMVPHJGMCRXA6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/YB7YWPHEYJELNMVPHJGMCRXA6Q/</guid>
+      <dc:creator>오유진 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:59:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M27QPP4MY5MA7E7VX3HZSEHFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검 사무실이 마련된 서울고검 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 해제 의결 방해 의혹과 관련, 김성회 더불어민주당 의원이 20일 내란 특검에 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;김 의원은 이날 오후 1시 55분쯤 내란 특검에 출석하며, 어떤 진술을 할 것이냐는 질문에 “(지난해 12월 3일) 담장을 넘어 (국회 본회의장에) 들어가고 의결이 이뤄지기까지의 과정”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “국민의힘에 한 말씀 드리고 싶다”며 “지금 민주당이나 특검이 없는 죄를 만들어 씌우는 것처럼 말하는데, (이는) 굉장히 곤란한 말씀”이라고 했다. 그러면서 “한편으로는 ‘계엄으로 사람이 죽은 것도 아닌데 무슨 큰 문제가 있느냐’는 식으로 말하는 것도 매우 잘못된 태도”라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “내란은 국가 존립을 흔드는 범죄 행위이기 때문에 관련자들은 성실하게 조사에 임해야 된다”며 “‘내란 정당’이라는 말이 억울하다면 직접 나와서 소명하면 된다. 이번 기회를 통해 내란의 잔존 세력을 완전히 뿌리 뽑아서 다시는 대한민국에 이런 일이 생기지 않도록 국민의힘도 꼭 협조하길 (바란다)”고 했다.&lt;br&gt;&lt;br&gt;특검은 김 의원을 상대로 지난해 계엄 해제 전후 국민의힘 지도부가 계엄 해제 의결을 방해했는지 여부를 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, “허리 아래까지” 수중수색 오인 지시 혐의 前대대장 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/4FBJPQZG6ZBVVLTJYOPGPLJEM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/4FBJPQZG6ZBVVLTJYOPGPLJEM4/</guid>
+      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:56:08 +0000</pubDate>
+      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 20일 고(故) 채수근 상병의 부대에 ‘수중 수색’ 지침으로 오인될 가능성이 있는 지시를 내린 혐의를 받는 당시 현장 지휘관을 소환했다. 채 상병은 지난 2023년 7월 경북 예천군 실종자 수색에 투입됐다가 급류에 휩쓸려 사망했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VO4RKLYHVVLOBGTFPKPNMACOGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최진규 전 해병대 포11대대장이 20일 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최진규(중령) 전 해병대 1사단 포병여단 제11포병대대장은 이날 오전 서울 서초동 해병 특검 사무실에 과실치사 혐의 등에 대한 피의자 신분으로 출석했다. 최 중령이 해병 특검 조사를 받는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;최 중령은 이날 “박상현(대령) 전 해병대 1사단 7여단장으로부터 수중수색 지시를 받은 적 있는가” “상급부대 지침 위반하고 장병들에게 수중수색 지시한 경위는 무엇인가” “임성근 전 해병대 1사단장이 ‘수중수색이 어렵다’는 건의를 묵살했었나” 등의 기자들 질문에 “조사에 성실히 임하겠다”고만 짧게 답했다.&lt;br&gt;&lt;br&gt;최 중령은 채 상병 사망 전날이던 2023년 7월 18일 “내일 우리 포병은 허리 아래까지 들어간다. 다 승인받았다”며 채 상병이 속한 포7대대가 사실상 수중수색으로 오인할 수 있는 지시를 내린 혐의를 받고 있다. 최 중령은 사고 당시 현장 대대장 중 선임급이었다. 사고 현장 최선임 지휘관이던 박 대령이 당시 ‘수중이 아닌 수변에서, 장화 높이까지 들어갈 수 있다’는 실종자 수색 지침을 내렸지만, 최 중령이 이 지침을 임의로 바꿔 지시하고 관련 안전 대책을 세우지 않았다는 게 경북경찰청의 수사 결과였다. 경북경찰청은 이 사건을 먼저 수사하다가 해병 특검이 출범하면서 수사 자료 등을 이첩했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66ZFJDIXURJANJWHKGXXZLZFNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가안보실장이 20일 서울 서초구 순직해병특검팀에 참고인 신분으로 조사를 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 해병 특검은 이날 조태용 전 대통령실 국가안보실장, 임기훈 전 대통령실 국방비서관, 김동혁 전 국방부 검찰단장, 염보현(소령) 국방부 검찰단 군검사 등을 불러 조사하고 있다. 조 전 실장은 네 번째, 임 전 비서관과 염 소령은 각각 세 번째 조사다. 김 전 단장은 여섯 번째 조사를 받는다.&lt;br&gt;&lt;br&gt;조 전 실장은 이날 특검 사무실에 출석하면서 “조사에 어떻게 참여할 계획인가”는 기자들의 질문에 “오늘은 잘 모르겠다. 성실하게 잘 답변하겠다”며 “잘 조사받도록 하겠다”고 말했다. 조 전 실장은 윤석열 전 대통령이 2023년 7월 31일 대통령실 수석비서관 회의에서 해병대 수사단의 채 상병 사건 초동 조사 기록을 보고받고 크게 화를 냈다는 이른바 ‘VIP 격노’ 이후 경북경찰청으로 넘어갔던 초동 조사 기록을 회수하는 데 관여한 의혹 등을 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSDS5CNVXZKJNG5VEWF56TZVRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임기훈 전 국가안보실 국방비서관이 20일 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 회의에 참석하는 등 수사 외압 의혹에 깊숙이 관여한 것으로 지목된 임 전 비서관, 해병대 수사단장(박정훈 대령)의 구속영장에 허위 사실을 적시한 혐의 등을 받는 염 소령은 취재진 질문에 아무런 대답을 하지 않고 곧장 조사실로 향했다.&lt;br&gt;&lt;br&gt;김 전 단장은 이날 사무실에 출석하면서 “박정훈 대령을 집단항명수괴 혐의로 입건한 건 본인 판단인가”라는 질문에 “제 판단”이라고 답했다. 이어 “조사에서 성실히 답하겠다”고 했다. 김 전 단장은 해병대 수사단이 경북경찰청에 이첩했던 초동 조사 기록을 회수하고, 국방부 조사본부의 재조사 과정에 외압을 행사했다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“대통령은 억류 국민 송환에 나서라”… 北 강제실종자 생사 확인 촉구</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/20/DMXBCWWVJVCDPGHZ5IXDT7VDGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/DMXBCWWVJVCDPGHZ5IXDT7VDGI/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:40:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XKNGNRM2N5ISUDDUIAQLOV5XRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정베드로 북한정의연대 대표/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한정의연대는 20일 오전 10시 30분 서울 중구 프레스센터에서 기자회견을 열고 북한에 의한 강제 실종자 생사 확인과 송환을 이재명 정부에 촉구했다. &lt;br&gt;&lt;br&gt;이날은 유엔(UN)이 지정한 ‘강제 실종 피해자의 날’(8월 30일)을 맞아 마련된 자리다. 북한 억류 국민 최춘길 선교사의 아들 최진영씨를 비롯해 북한 억류 국민 피해자 가족 등 7개의 북한 인권 단체가 모였다. &lt;br&gt;&lt;br&gt;현재 북한에는 선교사 3명(김국기∙김정욱∙최춘길)과 탈북민 3명(고현철∙김원호∙함진우) 등 우리 국민 6명이 억류돼 있다. 이들은 단둥과 옌볜 등지에서 탈북민 쉼터 등을 지원하는 일을 하다가 2013~2014년 북한 당국에 체포돼 ‘무기노동교화형’을 받았다. 억류된 지 10년이 넘어가고 있지만 아직도 생사가 확인되지 않는 상황이다. &lt;br&gt;&lt;br&gt;이들은 이날 성명서에서 “이재명 정부는 강제 실종자들의 생사와 안전 확인 요구에 응답하고, 실종자∙사망자를 가족에게 즉시 송환해야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;또한 정부에 “대통령 직속 혹은 국무총리 산하에 ‘국군포로∙납북∙강제억류 국민송환 대책부서’를 설치하고 관련 해결책을 모색하는 남북인권대화를 추진하라”고 촉구했다. &lt;br&gt;&lt;br&gt;앞서 유엔 인권이사회의 임의구금실무그룹(WGAD)은 지난 3월 한국인 선교사 3명이 북한에 의해 불법 임의 구금됐음을 규정하고 즉시 석방을 요구하는 의견서를 채택했다. 이는 선교사의 가족이 WGAD에 북한의 장기 억류가 임의 구금에 해당하는지 판단해 달라고 제출한 진정에 대한 답변이다. &lt;br&gt;&lt;br&gt;WGAD는 지난해 11월 강제 북송 탈북민 김철옥씨에 대해서도 석방을 요구했지만 북한은 요구 사항을 이행하지 않고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인공기 들고 “북한 보내달라”... 비전향장기수, 통일대교 진입하다 제지 당해 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/20/ROUE6SV33ZGUJHPMGGSUYLUT5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/ROUE6SV33ZGUJHPMGGSUYLUT5U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:46:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ERUELKTYKBKUBB7CXEPDYIM6RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 경기도 파주시 통일대교 남단에서 북한 송환을 요구한 비전향장기수 안학섭 씨(가운데)가 인공기를 펼쳐 들고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비전향 장기수 안학섭(95)씨가 20일 판문점을 통해 북한으로 가겠다며 인공기를 들고 경기 파주시 통일대교 진입을 시도하다 군 당국에 의해 제지됐다.&lt;br&gt;&lt;br&gt;이날 오전 10시쯤 민중민주당 등으로 구성된 ‘안학섭선생송환추진단’은 임진강역에서 집회를 연 뒤 통일대교 남단까지 이동했다. &lt;br&gt;&lt;br&gt;고령의 안씨는 통일대교 남단까지 차량으로 이동한 후 추진단과 함께 지팡이를 짚고 걸어서 통일대교 진입을 시도했으나 남단 검문소에서 군 당국의 경고와 제지를 받았다. 통일대교부터는 민간인통제선이어서 군 당국의 허가를 받아야 통과할 수 있다.&lt;br&gt;&lt;br&gt;결국 안씨는 통일대교 진입을 포기하고 인공기를 들고 다시 돌아왔고, 건강 악화로 119구급차를 타고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3G3KQAKUFNK5JTFFG46Z4JJS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;비전향장기수 안학섭 씨가 20일 경기 파주 통일대교에서 북한 송환을 요구하며 북쪽 방면으로 향하던 중 경찰과 대화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞선 집회에서 안씨는 “전향서를 쓰지 않았다는 이유로 온갖 수모와 고문, 폭력으로 치욕과 고통의 나날을 견뎌야 했다”며 “최근 몸이 좋지 않아 자주 의식을 잃고 응급실에 간다. 일제강점기에 태어나 미국의 수모와 고통을 당하다가, 죽어서까지 이곳에 묻히는 것은 너무 억울하다”고 했다.&lt;br&gt;&lt;br&gt;통일부는 지난 18일 “양원진(96), 안학섭(95), 박수분(94), 양희철(91), 김영식(91), 이광근(80)씨 등 6명에게서 최근 북송 요청을 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;안씨는 인천 강화도 출신으로 6·25전쟁 때 북한군에 입대한 뒤 1953년 4월 체포돼 국방경비법(이적죄)으로 유죄를 선고받아 42년간 복역한 후 1995년 출소했다.&lt;br&gt;&lt;br&gt;김대중 정부는 2000년 6·15 남북 정상회담을 계기로 같은 해 9월 비전향 장기수 63명을 판문점을 통해 북송했으나, 안씨는 당시 “미군이 나갈 때까지 투쟁하겠다”며 송환에 동참하지 않았다. 이후 25년 동안 비전향 장기수의 북한 송환은 이뤄지지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최교진 교육장관 후보자, 박근혜 퇴진 집회서 “잘가라 병신년” </title>
+      <link>https://www.chosun.com/national/education/2025/08/20/GQLZI3OECJG2HNITO7KGFH27NQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/20/GQLZI3OECJG2HNITO7KGFH27NQ/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:57:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXBBQ2HPKQSY4W7TJ5JBU3SBJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 과거 소셜미디어에 올린 글들에 관한 논란이 잇따르는 가운데, 그가 과거 박근혜 전 대통령 퇴진 집회에 참석한 사진을 공유하며 “잘가라 병신년”이라고 적은 것으로 나타났다.&lt;br&gt;&lt;br&gt;최 후보자는 2016년 12월 31일 “딸, 사위와 만나 함께 세종문화예술회관 계단에 자리 잡았습니다”라는 글을 올렸다. 사진 2장을 첨부했는데, 최 후보자를 비롯한 가족들은 ‘박근혜 즉각 퇴진·구속’ 등이라 적힌 종이를 들고 있었다. 2016년 마지막 날 밤엔 서울 광화문광장에서 박 전 대통령 탄핵을 촉구하는 제10차 촛불집회가 개최됐었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZAOOQFWOOFA4PFE4FRCIP2TZWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/최교진 교육부 장관 후보자 페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 후보자는 이어 “잘가라 병신년^^”이라고 적었다. 2016년은 원숭이의 해 ‘병신년(丙申年)’이었다. 다만 최 후보자의 글은 비하의 의미를 담은 비속어를 연상시킨다는 지적이 나온다.&lt;br&gt;&lt;br&gt;최 후보자는 과거 소셜 미디어에 박정희 전 대통령 저격 사건을 희화화하고, 천안함 피격 사건의 재조사가 필요하다는 취지의 글을 올린 것으로 알려져 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 실종 소방 대원, 경기 시흥서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/08/20/JG7LPEE6HRGARGIDKBE4INFHHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/20/JG7LPEE6HRGARGIDKBE4INFHHM/</guid>
+      <dc:creator>이현준 기자, 김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:21:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPHDVPSP423VR33MDG52FPFWQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 119 소방센터에서 근무하다 실종된 소방 대원이 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;20일 경찰에 따르면 실종 소방 대원 A(30)씨가 이날 오후 12시 20분쯤 경기 시흥시 서울외곽순환고속도로 교량 밑에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨가 발견된 곳은 실종 지점으로 지목된 인천시 남동구 서창동에서 직선거리로 약 7.5㎞ 떨어져 있는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 인천 남동구 서창동에서 인접 지역인 경기 시흥시 지역으로 범위를 넓혀 수색하던 중 숨진 A씨를 발견했다. &lt;br&gt;&lt;br&gt;A씨가 발견된 현장은 차량의 이동은 많지만, 인도가 설치돼 있지 않을 정도로 인적은 드문 곳으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 지난 10일 오전 2시 30분쯤 제2경인고속도로 남인천요금소 인근 갓길에 차를 댄 뒤 자취를 감췄고, 인근에선 A씨의 휴대전화가 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 실종된 후 지난 10일간 기동순찰대 등 약 350명의 인원과 수색견, 드론 등을 투입해 실종 지점 일대를 수색해왔다. &lt;br&gt;&lt;br&gt;그동안 별다른 성과가 없다가 지난 19일 오후 A씨가 10일 오전 5시 30분쯤 경기 시흥쪽으로 이동하는 장면이 포착된 방범카메라(CCTV) 영상을 확보하면서 수색에 탄력이 붙었다. &lt;br&gt;&lt;br&gt;A씨는 지난 2022년 이태원 참사 현장에서 구조 작업에 투입됐고, 같은 해 12월까지 소방청과 인천소방본부에서 지원하는 심리치료와 상담을 9차례에 걸쳐 받은 것으로 파악. 이후 2023년과 2024년에 이어 올해까지 인천소방본부가 지원하는 상담을 3차례 받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOZZXZRG4GLVZN2FTPKLS3VB6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실종 소방관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 김용대 변호인 조사 참여 제지…金측 “수사권 남용” 반발</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/4KQJW6K2TVBPNN4KCUXWVUFVIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/4KQJW6K2TVBPNN4KCUXWVUFVIY/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:52:54 +0000</pubDate>
+      <content:encoded>내란 특검이 20일 김용대 전 드론작전사령관의 변호인이 군사 기밀을 언론에 유출했다며 조사 참여를 중단시켰다. 김 전 사령관 측은 “수사권 남용”이라면서 준항고 및 헌법소원을 제기하겠다고 했다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서&amp;nbsp; “김 전 사령관의 변호인이 조사 참여 과정에서 알게 된 신문 내용과 조사 과정에서 제시된 군사비밀 자료 내용 등을 외부로 유출한 사실이 확인됐다”며 “관련 대검 예규 등을 준용해 변호인의 조사 참여를 중단시켰다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DK4JSB37FL6DCUAHV3Q6DHE3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;
+평양 무인기 침투 관여 의혹을 받는 김용대 드론작전사령관이 20일 오전 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실에 피의자 신분으로 출석했다가 조사를 중단하고 나와 취재진 질문에 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 사령관 변호인이 제기된 의혹들을 소명하는 차원에서 관련 내용을 언론에 설명해왔는데, 이 과정에서 수사 정보가 유출됐다는 것이다. 박 특검보는 “언론에 입장을 표명한다는 이유로 변호인이 조사과정에서 취득한 기밀을 외부에 공표하고 유출하는 것은 심각한 문제”라고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 예정돼 있던 조사를 취소하고, 김 전 사령관에게 금요일까지 새로운 변호인을 선임해 조사받으라고 통보했다.&lt;br&gt;&lt;br&gt;이에 김 전 사령관 측 변호인은 “변호인 조사 참여를 제한하는 처분을 하면서 내일모레 조사를 들어오라고 통보하는 것이 과연 헌법이 보장하는 적법절차에 해당하는지, 신체의 자유를 근본적으로 침해하는 형태의 수사권 남용이 아닌지 의문”이라고 했다. 김 전 사령관 측은 특검이 피의자 신문조서 열람을 불허한 데 대해서는 헌법재판소에 헌법소원을 제기하고, 변호인 참여권을 제한한 데 대해서는 법원에 준항고를 내겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김 전 사령관도 “지금 변호인이 처음부터 끝까지 상황을 다 아는데, 중간에 갑자기 변호인을 바꾸라는 것은 제 방어권을 과도하게 막는 것”이라면서 “이틀만에 새 변호사를 선임해 오라는 게 말이 되는지 잘 이해가 안 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘부정선거 주장’ 황교안 부정선거부패방지대 사무실 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/20/VAE7HTG74ZCKNPGGL33SU7LRPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/VAE7HTG74ZCKNPGGL33SU7LRPY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 03:36:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RGH3JHTWIOWEJS3YIF7T4KK6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리가 지난 4월 24일 오후 서울 종로구 정부서울청사 앞에서 기자회견을 갖고 한덕수 당시 대통령 권한대행에게 부정선거 방지 조치를 요청하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수년간 부정선거 의혹을 제기해 온 황교안 전 국무총리가 공직선거법 위반 혐의로 경찰 압수수색을 받았다. 서울경찰청 공공범죄수사대는 20일 오전부터 용산구 부정선거부패방지대(부방대) 사무실을 압수수색 중이라고 밝혔다. 경찰은 사무실 내 PC 등 공직선거법 위반 혐의와 관련된 자료가 포함된 물품들을 확보할 방침이다. &lt;br&gt;&lt;br&gt;부방대는 황 전 총리가 부정선거 척결을 주장하며 설립한 단체로, 제21대 국회의원선거가 부정선거였다는 주장을 시작으로 현재까지 부정선거를 주장하고 있는 단체다. 이들은 사전투표와 선거일 투표 간 득표율 차이, 배춧잎·일장기 모양 투표지 등을 부정선거 근거로 주장했다. &lt;br&gt;&lt;br&gt;지난 5월 27일 중앙선거관리위원회는 부정선거부패방지대와 이 단체 대표인 황 전 총리를 공직선거법 위반 혐의로 고발했다. 당시 선관위는 “부정선거를 주장해온 황 전 총리와 부방대가 대선을 앞두고 회원들에게 투표 업무를 방해하는 방법을 교육하고 ‘투표관리관 날인란에 기표하고 투표관리관을 찾아가 투표록에 기록을 남겨달라고 하라’는 등 무효표 발생을 유도했다”고 고발 이유를 밝혔다. 경찰은 이후 황 전 총리를 입건하고 선관위 관계자를 불러 고발인 조사를 진행하며 본격적인 수사에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광주디자인비엔날레 개막 D-10… 19개국 429명 디자이너 만난다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/20/JVMQELTYL5BCXMUEFL3JJQ4XNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/JVMQELTYL5BCXMUEFL3JJQ4XNQ/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 04:21:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPRQDBY4QOWP5BFCWV4FUHJQAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 광주디자인비엔날레 포스터. /광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 광주디자인비엔날레’ 개막이 10일 앞으로 다가왔다. 이번 전시는 미국·일본·영국 등 19개국 429명 디자이너와 84개 기관이 참여한 가운데 ‘포용 디자인(Inclusive Design)’을 주제로 열린다.&lt;br&gt;&lt;br&gt;광주광역시는 “오는 30일부터 11월 2일까지 65일 동안 북구 비엔날레 전시관에서 ‘너라는 세계: 디자인은 어떻게 인간을 끌어안는가’라는 제목으로 광주디자인비엔날레가 개최된다”고 밝혔다.&lt;br&gt;&lt;br&gt;총감독은 국내 1세대 산업디자이너인 미국 사바나 예술대학교 최수신 교수가 맡았다. 전시는 ‘세계관’ ‘삶관’ ‘모빌리티관’ ‘미래관’ 등 4개 주제관으로 구성된다.&lt;br&gt;&lt;br&gt;‘세계관’은 세계 각국의 포용 디자인 사례를 한눈에 볼 수 있는 공간으로 꾸며진다. 영국 왕립예술대학원의 보행 보조 기기 ‘롤레이터’, 해수면 상승이라는 기후 위기 속 문화적 다리를 표현한 밀라노 공과대학원의 ‘부유하는 둥지’ 등 기후 변화 대응, 인권, 문화 다양성 등을 아우르는 작품을 만날 수 있다.&lt;br&gt;&lt;br&gt;‘삶관’은 일상생활 속 누구나 편리하고 안전하게 사용할 수 있는 디자인을 소개한다. 인권 동아리 ‘이끼’의 ‘모두가 바라던 바다’, 푸르메재단의 ‘푸르메소셜팜’, 인체공학적 주방 도구 ‘옥소 굿그립 감자칼’ 등 생활 속 포용 디자인이 펼쳐진다.&lt;br&gt;&lt;br&gt;‘모빌리티관’은 이동권과 접근성 향상을 주제로 마련된다. 카이스트(KAIST)무브랩·엔젤로보틱스의 웨어러블 로봇 ‘워크온 수트 F1 비전 컨셉’, CES 2025 혁신상 수상작 ‘볼륨스퀘어: 특수 재난 대응 모바일 팝업 병원’, 영국 대표 택시 브랜드 ‘LEVC의 휠체어·유모차 친화형 택시’ 등을 소개한다.&lt;br&gt;&lt;br&gt;‘미래관’은 첨단 기술과 디자인의 결합으로 채워졌다. 로봇 보조 엄지손가락 ‘세 번째 엄지(Third Thumb)’, 고령자 돌봄 로봇 ‘래미(Rami)’, 인공지능(AI) 기반 맞춤형 보조 기기 등을 선보인다.&lt;br&gt;&lt;br&gt;부대행사로 ‘국제 심포지엄’ ‘72시간 포용 디자인 챌린지’도 진행된다. 시민 누구나 쉽고 편리하게 전시를 즐길 수 있도록 전문 해설사가 전시 이야기를 들려주는 도슨트 투어도 운영된다. &lt;br&gt;&lt;br&gt;개막식은 8월 29일 오후 6시 광주비엔날레 광장 특설무대에서 열린다. 강기정 광주시장은 “이번 비엔날레를 통해 포용 디자인의 철학이 광주에서 세계로 확산하기를 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천 실종 소방 대원, 경기 시흥 이동 정황 포착…경찰 해당 지역 수색</title>
       <link>https://www.chosun.com/national/incident/2025/08/20/6LQJOXW5JJHSNHCQFW7B63WL5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/20/6LQJOXW5JJHSNHCQFW7B63WL5Y/</guid>
@@ -799,36 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDAWG6PCFALBBDCHJTWPJECRUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 31일 오후 경기도 수원시 팔달구 수원천에서 팔달구보건소 관계자들이 일본뇌염과 말라리아 등 모기 매개 질병 예방을 위해 방역을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;질병관리청은 최근 채집한 말라리아 매개 모기(얼룩날개모기류)에서 올해 처음으로 삼일열 말라리아 원충이 확인됨에 따라 19일 전국에 말라리아 경보를 발령했다.&lt;br&gt;&lt;br&gt;질병청은 당초 지난 6월 20일 전국에 말라리아 주의보를 발령했다. 그러나 이달 13일 기준 인천 강화군, 경기 파주시·연천군·고양시·양주시·김포시, 강원 양구군·화천군 등 총 8개 지역에 경보가 발령됐고, 이번에 말라리아 원충까지 검출되면서 경보가 전국으로 확장 발령됐다.&lt;br&gt;&lt;br&gt;질병청은 국방부, 지방정부와 함께 매년 4∼10월 서울·인천·경기 북부·강원도 등 위험지역을 중심으로 말라리아 매개 모기를 조사해 모기 개체수 변화와 감염률을 감시하고 있다. 합동 감시 결과, 올해 매개 모기 일평균 개체수는 전년보다 54.4% 줄었으나 29주차에 많은 비가 내린 영향으로 31주차(7월 27일∼8월 2일)에는 평년 같은 기간보다 46.9%, 작년 같은 기간보다 24.1% 매개 모기가 늘었다.&lt;br&gt;&lt;br&gt;말라리아 감염을 막으려면 모기가 활발하게 활동하는 4∼10월 야간에 야외 활동을 자제하는 것이 좋다. 야간에 외출할 때는 밝은 긴 소매 상의와 긴 바지를 입고 얼굴 주변을 피해 모기 기피제를 뿌려 모기에 물리지 않도록 해야 한다. 만약 모기에 물렸다면 오한, 고열, 발한이 48시간 주기로 반복되고, 두통이나 구토, 설사 등을 동반할 경우 가까운 의료기관을 찾아가 진료받아야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>中에 1억 받고 ‘블랙요원’ 정보 넘긴 군무원, 2심도 중형…“동료 생명 거래했다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/OBHB7VA54RG5DPKVSMGWX5DIR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/OBHB7VA54RG5DPKVSMGWX5DIR4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 06:57:09 +0000</pubDate>
-      <content:encoded>중국 정보 당국에 우리 군의 ‘블랙 요원(신분을 위장해 활동하는 요원)’ 명단 등 군사 기밀을 유출한 군무원이 2심에서도 징역 20년을 선고받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2PT75F6VJF45GZNNZKH6UJIGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사8부(재판장 김성수)는 지난 13일 일반이적·군사기밀보호법 위반 등 8개 혐의로 기소된 국군정보사령부 전 공작팀장(군무원) A(50)씨에게 징역 20년과 벌금 10억원을 선고했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;1심이 선고한 징역 20년은 그대로 유지했고, 일부 뇌물 요구 행위가 중복 산정됐다는 이유로 벌금만 12억원에서 10억원으로 줄였다. A씨가 군사 기밀을 넘기고 받은 1억6205만원에 대해서는 전액 추징을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2000년대 중반부터 정보사 군무원으로 근무하다 2017년 4월 중국을 방문했을 때 조선족인 중국 정보 요원에게 포섭됐다. 이후 2022년 6월부터 지난해까지 문서 12건, 음성 메시지 18건 등 총 30건의 정보를 중국 정보 당국에 유출했다. A씨가 넘긴 정보에는 블랙 요원 명단, 정보사 조직 편성, 작전 계획 등 다수의 군사 기밀이 포함됐다고 한다. A씨는 대가로 약 40차례 돈을 요구했고, 차명 계좌를 통해 1억6205만원을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;1심을 맡은 중앙지역군사법원은 지난 1월 A씨에게 징역 20년과 벌금 12억원을 선고하면서 “국가 안보에 심각한 위협을 초래할 수 있는 2급 군사 기밀 등을 유출했고, 청렴 의무가 있음에도 금전을 요구했다”고 했다.&lt;br&gt;&lt;br&gt;2심도 “블랙 요원의 인적 정보가 노출되면 큰 위해가 가해질 수 있음을 충분히 알면서도 범행을 저질러 사실상 동료들의 생명을 거래했다”면서 “요원들이 대한민국으로 무사 귀국했더라도 이미 신상이 알려져 안전을 완전히 장담하기 어렵다. 국가 안보에 심각한 위해를 가져올 수 있는 것으로 어떠한 변명으로도 정당화될 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨는 중국 정보 요원에게 납치돼 하라는 대로 따르지 않으면 가족을 해칠 것이라는 협박을 받고 어쩔 수 없이 범행을 저질렀다고 주장했지만, 법원은 이를 받아들이지 않았다. 2심은 “A씨가 협박을 받았다면 부대에 보고하는 등 합법적으로 해결할 수 있었다. 범죄를 저지르는 것이 가족을 보호할 유일한 수단이었다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대신 A씨가 직접 뇌물을 요구한 정황을 꼬집었다. A씨는 “설 이후에 2000만원 정도만이라도 먼저 안 되겠나” “바로 입금 가능한지 부탁드리려 전화 드렸다”는 등 노골적으로 중국 정보 요원에게 돈을 요구한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;2심은 “A씨는 장기간 정보사에 근무하며 누구보다 군사 기밀의 보안 필요성과 중요성에 관해 잘 알고 있었을 것으로 보이는데도, 금전 수수를 목적으로 정보를 판매하는 듯한 태도를 보였다”면서 “심지어 상대에게 먼저 ‘군 활동에 대한 정보가 있다’고 언급하는 등 군사 기밀을 일종의 거래 대상으로 인식했고, 특별히 죄책감을 느끼는 모습은 찾아볼 수 없다”고 질타했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>70대 이웃 폭행하고 경찰에 칼 들이댄 30대 남성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/DEPRJVUZRBGWJMH54JKBS4B3KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/DEPRJVUZRBGWJMH54JKBS4B3KM/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 05:53:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O446VY5MDXQHVLNYMWRLUUK6Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 은평경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강아지를 데리고 산책 중이던 70대 노인을 폭행한 뒤 칼로 위협하고, 현장에 출동한 경찰에게까지 칼을 들이댄 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 은평경찰서는 특수폭행, 특수공무집행방해 등 혐의를 받는 30대 남성 정모씨를 현행범으로 체포해 조사 중이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;정씨는 19일 오전 8시쯤 서울 은평구 대조동 거리에서 강아지를 산책 중이던 70대 이웃 A씨의 목과 어깨 등을 폭행한 뒤 가방에서 칼을 꺼내 위협한 혐의를 받는다.&lt;br&gt;&lt;br&gt;정씨는 신고를 받고 출동한 경찰에게까지 칼을 들이대며 저항한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정씨는 경찰에 “CIA와 삼합회가 나를 조종했다” “스토킹을 당해 칼을 가지고 다니는 것이다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 이날 오후 정씨를 상대로 추가 조사를 벌인 뒤, 구속영장 신청이나 응급입원 조치를 검토할 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광복 80주년 맞아 독립운동가 후손들에게 식사 대접한 MZ 봉사단체</title>
-      <link>https://www.chosun.com/national/people/2025/08/19/RVEY3SDK4ZG6JA76BFZIAISAUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/19/RVEY3SDK4ZG6JA76BFZIAISAUA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 06:17:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFU5N7KSSBANJGLFDVPWXOU5RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 오후 서울 용산구의 레거시 키친에서 식사를 마친 독립유공자 후손들과 그 가족들이 KLC 봉사자들과 기념 사진을 찍고 있다./KLC 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20·30대 청년 위주로 구성된 봉사단체가 광복 80주년을 맞아 독립운동가 후손들에게 저녁 식사를 대접했다. &lt;br&gt;&lt;br&gt;청년 봉사단체 ‘코리아 레거시 커미티(Korea Legacy Committee·KLC)’는 지난 17일 오후 5시부터 2시간 동안 광복회 소속 독립운동가 후손과 그 가족들 20명에게 저녁 식사를 대접했다고 밝혔다.&lt;br&gt;&lt;br&gt;KLC는 노인 빈곤 문제를 해결하겠다는 목표로 지난 2015년 설립된 MZ 봉사단체로, 매달 6~10번 정도 직접 도시락을 만들어 몸이 불편하거나 형편이 어려운 노인들에게 전달하고 있다. 이번에는 광복 80주년을 맞아 독립운동가 후손들을 서울 용산구의 ‘레거시 키친’에 초청해 식사를 대접했다. 초창기 도시락을 구매해 전달했던 KLC는 지난 2022년 6월에 주방 레거시 키친을 오픈한 이후에는 줄곧 이곳에서 음식을 만들고 있다.&lt;br&gt;&lt;br&gt;이날 행사에는 서울 강남구에서 식당 ‘비스트로 앤트로’를 운영하는 윤아름 셰프도 봉사 형식으로 참여했다. 윤 셰프를 비롯해 KLC 봉사자 9명은 오후 2시부터 레거시 키친에 모여 음식을 준비했다고 한다. 이날 메뉴는 ‘광복 기념 재탄생’의 의미를 담은 조개 미역국을 비롯해 갈비찜, 태극기 문양이 올라간 백설기 등 9개였다.&lt;br&gt;&lt;br&gt;식사를 대접 받은 독립운동가 후손들은 “젊은 청년들이 독립운동가 후손들까지 챙겨줘 감사할 따름”이라는 반응을 보였다. 광복회 용산구지회장이자 독립운동가 고(故) 임재혁의 아들인 임민성(71)씨는 “젊은 친구들이 주말에 바쁠 텐데도 우리를 위해 시간을 내 식사를 챙겨줘 정말 고마웠다”며 “아버지도 살아계셨다면 정말 기뻐하셨을 거고, 한국의 미래가 밝다는 걸 느낀 하루였다”고 말했다. 고인은 일제강점기이던 지난 1943년 10월 한국어와 한국사 연구·보급을 위한 석류회(石榴會)를 조직한 공로 등으로 2023년 대통령표창을 추서받았다.&lt;br&gt;&lt;br&gt;봉사자로 참가한 청년들도 광복 80주년을 맞아 이런 행사에 참여한 것이 뜻깊다는 소회를 밝혔다. 직장인 노태연(34)씨는 “광복 80주년을 맞아 독립운동가 후손분들께 직접 식사를 대접하며 감사의 마음을 전할 수 있어 큰 영광이었다”며 “나라를 위해 희생하신 분들에 대한 감사와 존경을 다시 새기게 됐다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이날 행사는 KLC가 비영리 단체 ‘따뜻한 하루’로부터 독립운동가 후손들을 소개받아 진행됐다. 평소 독립운동가 후손들의 처우 개선을 위해 힘써 왔던 따뜻한 하루는 KLC로부터 독립운동가 후손들을 소개해달라는 부탁을 받고 이를 연결해줬다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VFU5N7KSSBANJGLFDVPWXOU5RA.jpg?auth=333fabd16690c634f4b41f3a316acc5504c2c460117f5d7e2781dde9194b6c07&amp;smart=true&amp;width=1280&amp;height=606" type="image/jpeg" height="606" width="1280">
-        <media:description type="plain">지난 17일 오후 서울 용산구의 레거시 키친에서 식사를 마친 독립유공자 후손들과 그 가족들이 KLC 봉사자들과 기념 사진을 찍고 있다./KLC 제공</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>마이크로소프트, 수자원공사와 손잡고 소양강댐 상류에 습지 조성</title>
       <link>https://www.chosun.com/national/transport-environment/2025/08/19/NAQROF77XBENTNZ5X3QSHBMF2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/19/NAQROF77XBENTNZ5X3QSHBMF2I/</guid>
@@ -901,55 +953,6 @@
       <content:encoded>내란 특검이 윤석열 전 대통령을 추가 기소한 사건의 첫 재판에서 재판부가 “특검의 공소장이 장황하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD2NOMZXH2MFSMRCYYT7TSR6CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 19일 오전 11시 특수공무집행 방해 및 허위 공문서 작성·행사 혐의로 기소된 윤 전 대통령의 1심 첫 공판 준비기일을 열었다. 준비기일에는 정식 공판과 달리 피고인의 출석 의무가 없어, 윤 전 대통령은 법정에 나오지 않았다. &lt;br&gt;&lt;br&gt;재판부는 특검이 제출한 공소장이 “장황하다”며 수정을 요구했다. 재판부는 “공소장에는 피고인의 직책 정도만 쓰면 되는데, 고등학교 졸업 시기와 사법고시를 언제 합격했는지까지 쓰는 것은 불필요하다”고 했다. &lt;br&gt;&lt;br&gt;또 “직권남용 혐의 관련해 법 조항을 인용하는 것을 넘어 법률 해석까지 전제사실에 기재했다. 법률의 적용과 해석은 법원의 역할인데 검사 측이 공소장에서 이를 기재하는 것은 부적절하다”고 했다. 이어 “비상계엄이 실질적 요건을 충족했는지 여부는 내란 혐의 재판에서 다뤄지고 있는 사안”이라면서 “절차적 부분을 다루는 이번 사건 쟁점과는 관련이 없어 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKVYYQGCZZIBDML5OTMQH6E7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 측 변호인 배보윤 변호사가 19일 오전 서울 서초구 서울중앙지방법원에서 열린 윤석열 전 대통령의 특수공무집행방해 등 내란 특검 추가 기소 사건 1차 공판준비기일에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법정에는 윤 전 대통령 측 변호인으로 배보윤·송진호 변호사가, 특검 측에서는 박억수 특검보와 조재철 부장검사 등이 출석했다. &lt;br&gt;&lt;br&gt;특검 측은 내란 재판에서 증인 신문이 이뤄진 사람을 제외하고, 이 사건에서만 130명의 증인 신문이 필요하다고 했다. 박 특검보는 “이 사건은 무너진 헌법 질서를 회복하는 것과 관련돼 국민적 관심이 집중돼 있다”면서 “특검법에 따라 6개월 안에 1심 재판을 신속히 마무리해 혼란을 종식해야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 공소 사실을 전부 부인한다는 입장을 밝혔다. 윤 전 대통령 측은 “이번 사건의 공소 사실은 상당 부분 내란 재판과 겹치고, 이미 내란 재판에서 증인신문이 이뤄진 부분도 많다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “이 사건 기록이 2만 쪽에 달해 열람·등사에만 최소 3주가 필요하다”면서 정식 재판은 4주 뒤 진행해야 한다고 주장했다. 특검 측은 “재판이 너무 늦어진다”고 항의했고, 윤 전 대통령 측은 “재판 지연 목적이 아니라 진술 등을 철저히 준비하기 위한 것”이라며 맞섰다. &lt;br&gt;&lt;br&gt;이날 재판은 25분 만에 끝났다. 재판부는 양측의 의견을 종합해 오는 9월 26일 오전 10시 첫 정식 재판을 열기로 했다. 재판부는 “준비 절차에는 피고인의 출석 의무가 없지만, 공판이 시작되면 피고인이 출석해야 한다”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“사진 작가 대신 알바”...신혼부부 등치는 ‘아이폰 웨딩 스냅’ 업체 대표 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/TQ3YGOOBAREY5MFITIMQ6DBTEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/TQ3YGOOBAREY5MFITIMQ6DBTEM/</guid>
-      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 01:27:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6M3BZID5JOWNMBRW2TD4WWEXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 6일 서울 강남구 삼성동 코엑스에서 열린 2025 추계 웨덱스 웨딩 박람회에서 예비 부부들이 전시된 드레스를 살펴보고 있다. 기사와 사진은 관련 없음./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미숙련 아르바이트생을 사진 전문가라고 속인 스마트폰 웨딩 스냅 업체 대표가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 스마트폰 웨딩 스냅 업체 대표 강모씨 등 2명을 지난 14일 사기 혐의로 불구속 송치했다고 19일 밝혔다. 강씨 등은 “전문 사진 작가가 스마트폰 카메라로 결혼식 진행 장면을 촬영한다”고 홍보한 뒤 촬영 장소에는 단기 교육을 한 아르바이트 직원을 내보내거나 촬영 현장에 나타나지 않은 혐의를 받는다. 알려진 피해자만 570명, 피해액은 1억5000만원으로 조사됐다. 피해자 1인당 적게는 22만원, 많게는 80만원의 피해를 봤다고 한다.&lt;br&gt;&lt;br&gt;스마트폰 웨딩 스냅 사진은 예비 부부들 사이에서 필수 옵션으로 여겨진다. 애플사의 아이폰 등 스마트폰으로 결혼식 당일 신랑·신부의 모습을 담는 일명 ‘아이폰 스냅’은 보정 등에 시간이 오래 걸리는 DSLR 웨딩 사진보다 빠르게 받아볼 수 있고 아이폰 특유의 감성을 느낄 수 있어 인기가 많다. 대다수 아이폰 웨딩 스냅 업체는 “경력이 많은 전문 사진 작가가 찍는다”며 20만~30만원의 비용을 요구하고 있다. &lt;br&gt;&lt;br&gt;하지만 전문 사진 작가가 아닌 아르바이트생이 낮은 품질의 사진을 찍는다는 불만이 소셜미디어를 중심으로 제기되며 고발이 잇따랐다. 실제로 인터넷에는 스마트폰 스냅 알바를 구하는 모집 공고가 즐비했다. 한 모집 공고는 “주말 꿀(쉬운) 알바”라며 “아이폰 소지자는 약 2시간의 사전 교육과 2회의 현장 실습 후 테스트에 통과하면 바로 현장에 투입될 수 있다”고 했다. 업계 관계자는 “자료를 1시간 정도 읽어주고 교육은 끝난다”며 “알바에게 한 건당 5만원의 급여를 주고 나머지는 업체가 챙긴다”고 했다.&lt;br&gt;&lt;br&gt;스마트폰 스냅이 인기를 끌자 비슷한 방식으로 사기를 벌이는 업체가 우후죽순으로 나타나고 있다. 지난해 경기 용인동부경찰서는 아이폰 스냅 업체 대표 윤모씨를 사기 등 혐의로 입건했다. 피해 규모는 2억원이 넘는 것으로 추산됐다. &lt;br&gt;&lt;br&gt;한 명의 대표가 여러 업체를 동시에 운영해 피해 규모는 더욱 크다. 강씨 등은 관련 업체 20여 곳을 운영한 것으로 알려졌는데, 서초서가 송치한 업체는 1곳이다. 나머지는 현재 금천경찰서 등에서 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/H6M3BZID5JOWNMBRW2TD4WWEXA.JPG?auth=8cfe110474b47136970fc28e176eec1cb8ebd76dac293bbe4565b6000f73844f&amp;smart=true&amp;width=5574&amp;height=3455" type="image/jpeg" height="3455" width="5574">
-        <media:description type="plain">(서울=뉴스1) 김성진 기자 = 6일 서울 강남구 삼성동 코엑스에서 열린 2025 추계 웨덱스 웨딩 박람회에서 예비 부부들이 전시된 드레스를 살펴보고 있다. 2025.7.6/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김성진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>檢 ‘김건희 경력 조작 의혹’ 불기소...“공소시효 지났다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/2EIGX6BLAJEHBAVSQHFQRSMOM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/2EIGX6BLAJEHBAVSQHFQRSMOM4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 02:31:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/52AILR5T77AIYDLANZXH6WABOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 배우자 김건희 여사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 윤석열 전 대통령의 배우자 김건희 여사가 대학교 교원에 임용되는 과정에서 허위 경력을 기재했다는 의혹 사건에 대해 19일 불기소 처분했다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사7부(부장 권성희)는 이날 업무방해 등 혐의로 고발된 김 여사 사건과 관련해 “허위경력 등을 기재한 이력서를 제출해 대학의 교원임용 심사업무를 방해했다는 혐의는 고발장 접수 이전에 이미 공소시효가 완성됐다”며 불기소 처분했다고 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 또 허위경력 등을 기재한 이력서를 통해 대학 교원에 임용돼 강의료를 받은 것이 사기죄에 해당한다는 상습사기 혐의에 대해서는 “대학 임용조건과 심사 절차 등을 중점적으로 검토한 결과, 의혹이 제기된 경력 및 이력 부분은 허위로 보기 어렵거나 교원임용 조건에 해당하지 않고 그 결과로 인해 채용되었다고 보기도 어려웠다”고 설명했다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이 사건은 이미 경찰에서 무혐의로 불송치 결정이 내려졌으나, 고발인의 이의신청에 따라 검찰에 송치돼 보완수사를 진행했다. 이후 지난 6월30일 김건희 특별검사팀으로 사건이 이송됐으나, 지난달 31일 특검이 사건을 서울중앙지검으로 돌려보냈다.&lt;br&gt;&lt;br&gt;검찰은 김 여사가 고발된 혐의 중 이날 무혐의 처분한 사안 이외에 남은 피의사실 중 일부는 오는 22일 공소시효가 완성될 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 민생경제연구소·개혁국민운동본부 등 시민단체는 2021년 12월 김 여사가 수원여대와 국민대, 안양대 등 다수의 학교에 비정규직 교원 임용에 지원하는 과정에서 허위 경력을 기재한 것으로 보인다며 사기와 업무방해 등 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘고양이에게 생선 가게를…’ 아파트 관리비 수천만원 빼돌린 50대 관리소장 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/08/19/WEOQTNUTBZFPRALR4MH4A76UYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/WEOQTNUTBZFPRALR4MH4A76UYA/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 02:38:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF7HIZK7D7LJVGXAHC73UBAGD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지방법원 포항지원. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서민 아파트 입주민들의 관리비 수천만원을 빼돌린 50대 관리사무소장에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 포항지원 형사3단독 박진숙 부장판사는 업무상횡령 혐의로 재판에 넘겨진 포항 지역 한 아파트 관리소장 A씨에게 징역 1년 6개월을 선고하고 법정 구속했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2009년 10월부터 2020년 5월까지 포항 북구 한 아파트에서 관리사무소장으로 일하면서 2015년부터 2020년까지 6800여만원의 관리비를 빼돌린 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 새마을금고에 보관돼 있던 관리비를 빼내 자신의 병원비 등에 사용한 뒤 벽시계 등 관리 업무에 필요한 비용을 지출한 것처럼 서류를 꾸미거나 실제로 물건을 구입하지 않은 채 인터넷 쇼핑몰의 장바구니 화면을 캡처해 물건을 산 것처럼 꾸미는 등 방법으로 관리비를 횡령한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;박 부장판사는 “A씨가 2억 1000만 원을 피해자들에게 지급하고 합의했지만, 소액으로 수천 건의 업무상 횡령 행위를 오랜 기간 벌인 점, 유사 범행에 대해 경종을 울리는 일벌백계의 필요성이 크다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 감사원 2차 압수 수색...“자료 협조 차원”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/WGEX7JW6BRE7TLECXZ2QBCFGEM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/WGEX7JW6BRE7TLECXZ2QBCFGEM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 02:29:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGBAMJAIRBPELAS7SJJRVJYKHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 ‘대통령실 관저 이전 특혜' 의혹과 관련해 감사원을 압수수색 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 18일 ‘대통령실 관저 이전 특혜’ 의혹과 관련해 감사원을 재차 압수 수색한 것으로 확인됐다. 특검은 “자료 제출 협조 차원으로 실시한 압수 수색”이라고 설명했다.&lt;br&gt;&lt;br&gt;19일 법조계에 따르면 특검은 전날 서울 종로구에 위치한 감사원에 대한 2차 압수 수색을 실시했다. 특검은 감사원이 대통령실 관저 인테리어 공사를 담당했던 업체 ‘21그램’에 대한 감사가 제대로 이뤄졌는지 살펴보고 있는데, 이번 압수 수색은 관련 자료를 확보하기 위한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;윤석열 정부는 기존 서울 용산구 한남동 외교부장관 공관을 새 관저로 쓰기로 하면서 건물을 증축하고 리모델링했다. 21그램은 당시 12억2400만원인 대통령실 관저 공사를 수의계약으로 입찰 받았는데, 증축 공사 자격이 없었고 소규모 신생 업체라는 점에서 논란이 일었다. &lt;br&gt;&lt;br&gt;특히 21그램이 김 여사의 기업 코바나컨텐츠가 주관한 ‘르 코르뷔지에전’ ‘알베르토 자코메티전’ 등에 후원 업체로 이름을 올린 사실이 알려지면서 김 여사가 사적 친분이 있는 업체에 계약을 준 것이 아니냐는 의혹이 더욱 짙어졌다.&lt;br&gt;&lt;br&gt;2022년 10월 참여연대는 시민 700여명의 서명을 받아 국민감사청구서를 감사원에 제출했다. 감사원은 감사 기간을 지난해 9월 21그램이 하도급을 맡긴 18개 업체 중 15곳이 기계·설비 공사 자격이 없어 건설산업기본법을 어겼다는 결과를 내놨다. 그러나 김 여사의 개입이 있었는지, 21그램이 어떻게 관저 증축 공사를 따냈는지 등 핵심 의혹을 제대로 조사하지 않았다는 지적이 나오자 지난 2월 재감사에 착수했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘이종섭 도피 의혹’ 조태열 전 외교장관 20일 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/52VEEZOZQZDXZLUKMCLOGWGY4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/52VEEZOZQZDXZLUKMCLOGWGY4Y/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 01:51:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQ5FUQXIJ4GTDLZOQQL7SNQCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태열 전 외교부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방부 장관의 주(駐) 호주 대사 임명과 관련해 오는 20일 조태열 전 외교장관을 불러 조사한다. 고 채수근 상병 사망 사건으로 고위공직자범죄수사처에 피의자로 입건돼있던 이 전 장관이 작년 3월 4일 호주 대사로 임명돼 출국한 ‘도피성 출국’ 의혹을 규명하기 위한 것이다.&lt;br&gt;&lt;br&gt;정민영 특검보는 19일 기자단 브리핑에서 “내일(20일) 오후 1시 조 전 장관을 조사할 예정”이라며 “조 전 장관은 이 전 장관의 대사 임명과 출국, 귀국, 사임 등과 관련해 일련의 실무 절차를 담당한 외교부의 수장으로 범인 도피 및 직권남용 혐의로 고발돼있다”고 밝혔다.&lt;br&gt;&lt;br&gt;정 특검보는 “그간 외교부 실무자 등을 상대로 이 전 장관의 공관장 자격 심사 등 업무 처리 전반을 조사했다”며 “조 전 장관이 이 과정에서 어떤 내용을 보고받고 지시했는지 확인할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 "이 전 장관의 호주 대사 임용을 위한 외교부의 공관장 자격 심사가 서면으로만 진행됐고, 이미 ‘적격’이라고 적힌 서류에 위원들이 날인만 했다”는 취지의 진술을 확보하는 등 임명·심사 과정이 졸속 진행된 정황을 파악했다. 특검은 조 전 장관을 상대로 이 전 장관 임명에 대통령실 등의 외압이 있었는지 조사할 전망이다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 ‘순직 해병 수사 외압’ 의혹을 받는 유재은 전 법무관리관을 이틀 연속 소환해 조사 중이다. 이날 오후에는 김동혁 전 국방부 검찰단장도 추가로 불러 조사할 예정이다. 이들은 경찰에 이첩된 채 상병 초동 조사 기록을 회수하고, 국방부 조사본부의 재조사 등에 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPER2HJ35VM75NNI4SB23TCBHA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임성근 전 해병대 1사단장이 19일 오전 포렌식 참관을 위해 서울 서초구 순직 해병 특검 사무실에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 해병 특검은 임성근 전 해병대 1사단장이 특검 조사 내용을 온라인에 공개한 데 대해 “심각한 수사 방해라고 판단한다”고 밝혔다. 임 전 사단장은 최근 특검에서 과실치사 혐의로 두 차례 조사받은 내용을 녹음한 뒤 이를 조서 형태로 정리해 공개했다. 임 전 사단장은 “이 사안(채 상병 사건)은 2년 동안 국민적 이슈였다. 국민의 알 권리를 위해 공개했다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 정 특검보는 “피의자가 조사받은 내용을 그대로 녹음하고, 불특정 다수가 볼 수 있는 곳에 전문을 공개하는 행위는 명백한 수사 방해 행위라고 저희는 판단하고 있다”며 “(수사 방해로 입건할지) 검토 중이다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[입에 착착 붙는 일본어] ~에게서[한테서] 전해 듣다</title>
       <link>https://www.chosun.com/national/nie/japanese/2025/08/19/Y5CWF75R7FD5BGRTXJOBXI2FJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/19/Y5CWF75R7FD5BGRTXJOBXI2FJ4/</guid>
@@ -957,15 +960,6 @@
       <description/>
       <pubDate>Mon, 18 Aug 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MT6RQRKTIVFVBM76SU4BB5KXEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“샤워하다 병 결릴 지경”...‘수돗물 31도’에 농촌 주민들 하소연 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/TJBHNJ7DUBBKRCABYDR2NTA764/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/TJBHNJ7DUBBKRCABYDR2NTA764/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 08:09:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CQH4C7MCVJ5ZD4SOTQDAHZYJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;시민들이 그늘에 들어가 햇빛을 피하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연일 이어지는 폭염 속 전남 농촌 지역에서 수돗물 수온이 30도를 넘어서는 사례가 발생해 주민들이 불편을 호소하고 있다.&lt;br&gt;&lt;br&gt;18일 장흥군에 따르면 최근 “수돗물이 너무 뜨겁다”는 민원이 잇따라 접수됐다. 군이 현장 확인에 나선 결과, 부산면의 한 마을에서는 실제 수돗물 온도가 31도에 육박하는 것으로 나타났다. 수질 검사에서는 별다른 이상은 발견되지 않았다.&lt;br&gt;&lt;br&gt;주민들은 샤워를 하거나 설거지를 할 때 선풍기를 켜 두고 물을 식힌 뒤에야 사용할 수밖에 없는 상황이라고 했다. 한 주민은 “밭일을 하고 집에 들어와 씻으려 해도 뜨거운 물이 쏟아지니 온열질환에 걸릴 지경”이라며 “아무리 덥다고 해도 수돗물이 이렇게 뜨거워서야 제대로 씻을 수 있겠나”라고 말했다. &lt;br&gt;&lt;br&gt;보통 여름철 정수장에서 나오는 물은 통상 17~18도 수준이다. 하지만 폭염이 이어지면 지열로 매립된 수도관이 달궈지면서 수돗물 온도가 상승한다. 특히 인구 밀도가 낮은 농촌 지역은 배관 안 물이 장시간 고여 있어 수온이 더 쉽게 오르며, 오래된 주택은 수도관 매립 깊이가 얕아 열기를 그대로 받는다.&lt;br&gt;&lt;br&gt;장흥뿐 아니라 여수, 경남 남해 등지에서도 “물이 시원하지 않다” “미지근하다”는 민원이 속출하고 있다. 이에 각 지자체 수도사업소는 배관에 고여 있던 물을 대량 방류해 수온을 낮추는 임시 조치를 취하고 있으나 한계가 있어 정확한 원인 조사와 함께 근본적인 대책을 마련할 계획이다. &lt;br&gt;&lt;br&gt;장흥군 관계자는 “올여름 폭염 장기화로 수돗물 수온 문제가 심각해지고 있다”며 “수자원공사와 협력해 원인 조사를 진행하고 근본적 대책을 마련하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
