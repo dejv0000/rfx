@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>암울했던 폐광지 태백·삼척...7000억대 프로젝트로 미래첨단산업도시로 </title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/08/20/LFPADPKI7VH6RHFKSCE7BGHSV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/08/20/LFPADPKI7VH6RHFKSCE7BGHSV4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 13:54:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HABDQESYZDJDFJOT3NTY7L47I.webp"&gt;&lt;figcaption&gt;&lt;small&gt;김진태(오른쪽 두번째) 강원지사가 20일 도청에서 폐광지역 경제진흥사업이 예비타당성 조사를 통과를 환영하는 입장을 밝히는 기자회견을 열었다./강원도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 남부 폐광 지역인 태백과 삼척의 석탄 산업을 대체하고 회생을 위한 7000억원대 사업이 추진된다. &lt;br&gt;&lt;br&gt;강원특별자치도는 ‘태백·삼척 경제진흥사업’이 기획재정부 주관 2025년도 제8차 재정사업평가위원회에서 예비 타당성 조사(예타)를 통과했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;총사업비 7143억원이 투입되는 이번 사업은 태백과 삼척의 조기 폐광에 따른 경제적 피해를 최소화하고, 대체 산업을 육성해 새로운 일자리와 인프라를 마련하고자 추진됐다. &lt;br&gt;&lt;br&gt;태백과 삼척의 조기 폐광에 따른 경제적 피해를 최소화하고 지속 가능한 고부가가치 대체 산업을 육성해 새로운 일자리와 인프라를 조성하고자 추진됐다.&lt;br&gt;&lt;br&gt;태백시는 3540억원을 들여 석탄 중심 도시에서 ‘무탄소 에너지 도시’로 전환을 추진한다. &lt;br&gt;&lt;br&gt;폐광한 장성광업소 부지에는 청정 메탄올 생산기지, 고터실 산업단지 인근에는 핵심 광물 산업단지를 조성한다. 철암역 인근에는 물류 시설과 근로자 주택 단지를 배치해 미래 자원 클러스터를 구축할 계획이다. &lt;br&gt;&lt;br&gt;청정 메탄올은 바이오매스와 재생에너지로 생산되는 차세대 친환경 연료이다. 해운 분야의 탄소 규제에 대응할 수 있는 대체 연료로 주목받는다. &lt;br&gt;&lt;br&gt;핵심 광물 산업단지는 폐배터리 등에서 니켈, 코발트, 리튬, 희토류 등 첨단산업 필수 광물을 재자원화하는 핵심 광물 산업단지는 국가 핵심 광물 공급망 안정화에 기여할 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;이와 함께 삼척시에는 3603억원을 투자해 광산도시에서 ‘의료 클러스터’로 탈바꿈을 시도한다. .&lt;br&gt;&lt;br&gt;도계광업소 부지에 암세포를 정밀 파괴하는 첨단 의료기기 중입자 가속 암 치료 시설을 구축한다. 이 시설은 국내에는 연세암병원만 유일하게 운영 중인 시설이다. &lt;br&gt;&lt;br&gt;완공 시 지역·공공 의료 서비스의 질적 향상과 함께 체류형 치유·관광 벨트 확장에도 크게 도움이 될 것으로 예상된다.&lt;br&gt;&lt;br&gt;도는 폐광지역 경제진흥사업이 2023년 12월 예타 대상으로 선정된 이후 지역구 국회의원실과 태백·삼척과 협력해 중앙부처와 유관기관에 필요성과 타당성을 적극 설명했다. &lt;br&gt;&lt;br&gt;김진태 지사는 “태백은 최첨단 청정에너지 도시로, 삼척은 중입자 가속기를 기반으로 한 첨단 의료 클러스터로 거듭나게 된다”며 “과거 목숨을 걸고 갱도로 들어가던 탄광이 이제는 사람의 생명을 살리는 최첨단 의료 도시로 변모하는 상징적인 변화”라고 말했다. &lt;br&gt;&lt;br&gt;한편 강원도는 1989년 정부의 석탄산업 합리화 정책 시행 후 사양길로 접어든 폐광 지역의 현실을 고려해 국가 차원의 대체 산업 육성 지원이 꼭 필요하다는 입장을 거듭 피력해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 “특검이 모욕감 줘 안 좋은 선택 유도하는 것 같다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/JBM6H4K26JBQHKHG4Y2SMBOYRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/JBM6H4K26JBQHKHG4Y2SMBOYRE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 13:29:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4UXNRSLM2MVWYBDYXLIMUEDFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 9일 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기 장소인 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 최근 변호인에게 “특검이 모욕감을 줘 안 좋은 선택을 유도하는 것 같다”고 말한 것으로 20일 확인됐다. &lt;br&gt;&lt;br&gt;법조계에 따르면 윤 전 대통령은 수감 중인 서울구치소 접견 온 변호인단 소속 변호사에게 “사회적 지위가 낮은 사람도 이렇게 내몰리면 안 좋은 선택을 한다”면서 “(특검의) 망신주기 수사에 맞서 끝까지 싸울 것”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이는 김건희 특검이 법원에서 발부받은 체포영장을 집행하기 위해 특검 수사에 불응하고 있는 윤 전 대통령을 특검 사무실로 인치하려고 한 데 대한 비판이다. 김건희 특검은 윤 전 대통령의 공천 개입 의혹과 관련해 조사가 필요하다며 지난 7일 물리력을 동원해 두 번째 체포영장 집행을 시도했으나, 윤 전 대통령이 완강히 저항해 무산됐다. 이 과정에서 윤 전 대통령이 의자에서 떨어져 의무실로 가기도 했다.&lt;br&gt;&lt;br&gt;특검은 지난 1일 첫 번째 체포영장 집행을 시도할 때는 물리력을 동원하지 않았으나 “윤 전 대통령이 속옷 차림으로 맞섰다”고 공개적으로 밝히면서 ‘피의자 망신주기’라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 전날 윤 전 대통령에 대한 추가 기소 사건과 관련해 법원이 내란 특검의 공소장이 장황하다고 지적한 데 대해 “판사조차 공소장이 ‘말이 안 된다’고 지적한 건 특검의 권위가 무너지고 있음을 상징한다”며 “기소 문학 정치 소설”이라고 비판하기도 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 지난 19일 특수공무집행 방해 및 허위 공문서 작성·행사 등의 혐의로 기소된 윤 전 대통령의 1심 첫 공판준비기일을 열고 공소장에 불필요한 내용이 많다고 지적했다. 윤 전 대통령은 나오지 않았는데, 공판준비기일에는 피고인 출석 의무가 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金여사, 통일교 고위 간부 ‘대선 총동원’ 말하자 “고맙다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/332TXJUVORDPLKOTDDFBVOFOSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/332TXJUVORDPLKOTDDFBVOFOSI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 11:55:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKOYSTVHQ6F6ARJDBDRWBYX4BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사가 통일교 전 세계본부장 윤영호씨와 대선 직후 통화하면서, 윤씨에게 “통일교의 교회와 학교, 기업체가 대선에 총동원됐다”는 취지의 말을 듣고 “애 많이 써줘서 고맙다”고 말한 녹취를 확보한 것으로 20일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 20대 대선에서 윤석열 전 대통령이 당선된 직후인 2022년 3월 30일 윤씨와 ‘건희2′ 휴대전화로 통화하면서 이 같이 답했다고 한다. 윤씨가 당선을 축하한다며 통일교의 기여를 말하자, 김 여사가 호응한 것으로 해석될 수 있는 대목이다. 특검은 이러한 녹취를 토대로 김 여사가 통일교로부터의 조직적인 대선 지원 사실을 인지했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 네 달 뒤인 7월 15일에도 윤씨와 통화하면서 “선거 때 많이 도와줬는데 조금만 더 도와달라”는 취지로 말한 정황도 확보했다고 한다. 이날 김 여사가 윤씨에게 “인삼차 잘 받았다. 먹었더니 몸이 저절로 좋아지는 것 같다”고 전화로 말한 정황이 앞서 드러난 바 있다.&lt;br&gt;&lt;br&gt;그러나 김 여사 측은 대선 당선 후 있었던 수많은 축하 연락을 받으면서 인사치레로 건넨 말이라고 반박한다. 통일교 뿐만 아니라 여러 종교 관계자들로부터 비슷한 취지의 전화를 받고 있었고, 이들의 구체적인 지원 여부 등을 알지 못한 채 “감사하다”는 취지로 답했다는 얘기다. 특검이 의심하는 6000만원대 그라프 목걸이 및 1000만원 안팎 샤넬 가방 2개를 수수했다는 의혹에 대해서도 수수한 사실이 없다고 주장한다.&lt;br&gt;&lt;br&gt;김 여사는 오는 21일 오후 2시 특검에 출석해 ‘건진법사 청탁’ 의혹 관련 조사에 임할 계획이다. 특검의 김 여사 조사는 이번이 네번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치매 앓던 80대 아내 둔기로 내려치고 자수한 80대 男... 현행범 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/20/QXGQT7JQSNFL7JVLPMFMN2TVBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/QXGQT7JQSNFL7JVLPMFMN2TVBI/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 12:04:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3SY3ZGSV5LWK7YR63VSMCV7JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매로 투병 중이던 아내의 머리를 둔기로 내려친 남편이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 치매를 앓는 아내를 살해하려 한 혐의(살인미수)로 70대 남성 A씨를 체포해 조사 중이라고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 19일 오후 8시 40분쯤 서울 동대문구의 한 아파트에서 80대 아내의 머리를 둔기로 두 차례 내리친 혐의를 받는다. A씨는 범행 후 경찰에 자수했고 현행범으로 체포됐다. 피해자는 병원으로 이송됐으나 생명에 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신평 “김건희, ‘서희건설이 정권과 짜고 우릴 죽이려 한다’고 말해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/KG7G2FU3OBHVNILIMURGKDRU4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/KG7G2FU3OBHVNILIMURGKDRU4A/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 12:05:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQWROJBOBD7HH6FGWSRT5252E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이봉관(왼쪽) 서희건설 회장과 김건희 여사. 지난 2022년 6월 스페인 마드리드에서 열린 북대서양조약기구(나토) 정상회의 순방 당시 김건희 여사가 서희건설 측으로부터 받은 것으로 추정되는 6000만원대 반클리프앤아펠 목걸이를 착용하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수감 중인 김건희 여사가 신평 변호사와의 접견에서 “서희건설이 정권과 짜고 우리를 죽이려 한다”라고 말한 것으로 20일 전해졌다. 특검 수사가 부당하게 이뤄지고 있다는 취지다. 신 변호사는 윤석열 전 대통령의 ‘멘토’로 알려진 인물이다.&lt;br&gt;&lt;br&gt;이날 신평 교수는 본지와의 통화에서 “김 여사가 전날 접견에서 이같이 말했다”고 밝혔다. 실제로 서희건설 이봉관 회장으로부터 수천만원대 목걸이 등을 받은 적이 없는데도 이 회장이 거짓말을 하고 있다는 취지다. 앞서 이 회장은 김건희 특검팀에 ‘김 여사에게 맏사위 인사청탁을 위해 6000만원대의 반 클리프 목걸이 등 귀금속을 건넸다’라는 내용의 자수서를 제출한 바 있다.&lt;br&gt;&lt;br&gt;신 변호사에 따르면, 김 여사는 이 회장이 국가조찬기도회 회장직을 맡고 있어 교류를 했다고 한다. 신 변호사는 “김 여사에게 어쩌다 이 회장과 가깝게 지냈는지 물어보니, ‘기도회장을 맡고 있어 신앙심이 깊은 종교계 원로라고 생각했다’라고 답했다”라고 설명했다. &lt;br&gt;&lt;br&gt;앞서 이날 오전 신 변호사는 자신의 페이스북에 김 여사 접견 사실을 밝히면서 “김 여사가 접견실 의자에 앉자마자 ‘선생님, 제가 죽어버려야 남편에게 살 길이 열리지 않을까요?’라고 말했다”고 썼다. 또 김 여사는 신 변호사와 대화하면서 “한동훈(전 국민의힘 대표)이 어쩌면 그럴 수가 있었겠느냐”는 한탄도 했다고 한다. 신 변호사는 “많이 어렵겠지만 그를 용서하도록 노력해 보라고 권했다”고 썼다.&lt;br&gt;&lt;br&gt;증거인멸 우려를 이유로 지난 12일 서울남부구치소에 구속된 김 여사는 오는 21일 오전 구치소 내에서 대면 진료를 받은 뒤 오후 2시부터 특검에 출석할 예정이다. 특검은 이날 “김 여사의 구속 기간이 오는 31일까지 연장됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>실종된 30세 소방대원… 10일 만에 숨진채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/08/20/WI7TYZJMLZCIPBQ3VAC5SYDN6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/20/WI7TYZJMLZCIPBQ3VAC5SYDN6Y/</guid>
+      <dc:creator>인천=이현준 기자, 시흥=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 12:07:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VS4HAJ3AI5LLDI3ROQWEVFT5L4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 '핼러윈 참사' 현장 지원 이후 우울증을 앓던 30대 소방대원이 실종된 지 10일 만에 숨진 채 발견됐다. 사진은 이날 오후 A씨가 숨진 채 발견된 경기도 시흥 수도권 제1순환고속도로 교각 아래의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 ‘핼러윈 참사’ 현장에 출동한 뒤 우울증을 앓았던 소방대원이 실종된 지 10일 만에 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;경기 시흥경찰서 등에 따르면, 지난 10일 실종된 소방대원 박모(30)씨가 20일 낮 12시 20분쯤 시흥시 금이동 수도권 제1외곽순환고속도로 교각 아래서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시신은 이미 부패가 심하게 진행된 상태였다”며 “타살 흔적은 없었다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 지난 10일 오전 2시 30분쯤 제2경인고속도로 남인천 톨게이트 근처 갓길에 차를 댄 뒤 사라졌다. 시신이 발견된 곳에서 약 8㎞ 떨어진 지점이다. 박씨의 휴대전화는 인천 남동구 서창동의 한 아파트 근처에서 발견됐다. 박씨는 실종 전날인 지난 9일 오후 5시쯤 여자 친구에게 ‘넌 참 괜찮은 사람이고, 잘 이겨낼 수 있을 거다. 건강 잘 챙기라’는 카카오톡 메시지를 남겼다. &lt;br&gt;&lt;br&gt;박씨는 2022년 핼러윈 참사 구조 현장에 투입된 이후 우울증 등을 겪은 것으로 보인다. 소방 당국에 따르면, 박씨는 지난 4월까지 총 8차례 심리 상담을 받았다. 병원에서 우울증 검사·치료도 4번 받았다고 한다. 박씨 유족은 “핼러윈 참사 직후 우울증 진단을 받고 힘들어했다”고 전했다. &lt;br&gt;&lt;br&gt;박씨는 핼러윈 참사 당시 언론 인터뷰에서 “사망하신 분들이 감당이 안 될 정도였다”며 “희생자들의 부모님은 어떤 마음일까. ‘이게 진짜가 아니었으면’ 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 2017년 소방 구급대원이 됐다. 인천의 한 소방서에서 근무했다. 동료들은 “성실하고 원만한 친구였다”고 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사인을 밝히기 위해 국립과학수사연구원에 부검을 의뢰할 계획”이라며 “우울증 외에 다른 이유가 있는지도 조사할 것”이라고 했다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 핼러윈 참사 등 재난 현장에 투입됐던 소방대원 3300여 명을 대상으로 심리 상담을 실시할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 페이스북을 통해 “상상조차 어려운 고통과 싸우며 이제껏 버텨온 젊은 청년을 생각하니 마음이 미어진다”며 “참사 후유증이 사회 전반의 건강을 위협하는 일이 발생하지 않도록 국가가 책임있게 나서겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>체감 온도 34.1도... 완주 밭에서 일하던 80대 숨져</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/08/20/VEZZRVO2UNHLJOCMFT55LTH5K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/20/VEZZRVO2UNHLJOCMFT55LTH5K4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 11:58:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 이어진 전북 완주에서 밭에서 일하던 80대가 쓰러져 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;소방당국 등에 따르면 20일 오후 4시 53분쯤 전북 완주군 봉동읍의 한 밭에서 80대 A씨가 쓰러졌다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;소방대원이 현장에 도착했을때는 이미 A씨는 숨진 상태였다. 소방관들이 확인한 그의 체온은 41도였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;완주 지역에는 지난 15일부터 폭염특보가 발효됐다. 사고가 발생한 이날 하루 완주 최고 체감온도는 34.1도까지 올랐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘바이든 vs 날리면’ 소송 강제조정… 2심 “외교부, 소 취하하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/20/KVH3BT5DPZDM7NPPJ6QJC2OIOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/KVH3BT5DPZDM7NPPJ6QJC2OIOU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 11:32:47 +0000</pubDate>
+      <content:encoded>서울고법이 윤석열 전 대통령의 미국 순방 당시 불거진 MBC ‘자막 논란’과 관련해 외교부의 소송 취하를 권고하는 결정을 내렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SOC2RV33T75IBDUEAWUAO7Q2PA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 9월 미국을 방문한 윤석열 대통령의 비속어 논란을 보도한 MBC 뉴스데스크. /MBC뉴스데스크 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면, 서울고법 민사13부(재판장 문광섭)는 지난 18일 외교부가 MBC를 상대로 낸 정정 보도 청구 소송에서 “외교부는 소를 취하하고 MBC는 이에 동의하라”는 강제 조정 결정을 내렸다. 강제 조정은 민사 조정이 불발됐을 때 법원이 직권으로 내리는 결정으로, 2주 안에 양측이 이의를 제기하지 않으면 그대로 확정된다. &lt;br&gt;&lt;br&gt;재판부는 “발언의 성격, 언론·표현의 자유, 사회적 갈등 비용 등을 종합해볼 때 외교부가 소를 철회하는 방식이 바람직하다”고 했다. 전문가가 ‘음성 판독 불가’ 결론을 내린 것을 토대로 “외교부가 제출한 증거만으로는 이 사건 보도가 허위임을 인정하기 부족하다”며 “전후 맥락을 고려할 때 윤 전 대통령이 ‘바이든은’이라고 말했을 가능성을 배제할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 조 바이든 당시 미국 대통령이 주재한 뉴욕의 회의 장소를 떠나던 윤 전 대통령의 발언에서 시작됐다. 당시 MBC는 “(미국) 국회에서 이 XX들이 승인 안 해주면 ‘바이든’은 쪽팔려서 어떡하나”라는 자막을 달았다. 대통령실은 “바이든이 아니라 ‘날리면’이라고 말한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;외교부는 언론중재위에 정정 보도를 청구했지만 불발되자 그해 12월 소송을 냈다. 1심은 MBC의 보도를 허위로 보고 정정 보도를 명령했지만, MBC가 항소했다. 서울고법은 지난달 24일 조정 기일을 열었지만 합의가 이뤄지지 않았고, 결국 이날 강제 조정을 내렸다. 법조계 관계자는 “외교부가 이의를 제기하지 않으면 정정 보도 없이 사건이 끝날 가능성이 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경계성 지능 동창생 꾀어 거액 가로챈 30대 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/20/EDGHBYWAHVAB3C3NSAQO4UPC5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/20/EDGHBYWAHVAB3C3NSAQO4UPC5Q/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 10:28:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경계선 지능을 가진 중학교 동창생을 꾀어 경제적 착취를 하고, 폭행도 일삼은 30대가 구속됐다. &lt;br&gt;&lt;br&gt;충북 제천경찰서는 장애인복지법 위반 및 상습 특수상해 등의 혐의로 A씨를 구속 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰 조사에 따르면 A씨는 2021년 9월부터 올해 5월까지 중학교 동창이자 경계선 지능인인 B씨를 자신이 관리하는 운수 사업장에서 근무하게 하면서 임금을 제대로 지급하지 않고, 폭행과 욕설을 일삼은 혐의를 받는다. &lt;br&gt;&lt;br&gt;또 A씨는 B씨 명의로 여러 곳에 개인 사업장을 내게 하고서 이를 담보로 대출받게 해 가로챘다. 지난해에는 자신이 생활할 아파트를 B씨 명의로 구매하기도 했다.&lt;br&gt;&lt;br&gt;B씨 측은 이 같은 일들은 모두 강요에 의한 것이며, 대출 규모와 임금 미지급액은 총 8억9000여 만원에 달한다고 주장하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“장애인석이 특별석으로 둔갑”... 날아오른 한화이글스, 고발 당했다</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/20/R5VYWD3QKJFCTN6LMMHITC4PDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/20/R5VYWD3QKJFCTN6LMMHITC4PDA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 10:16:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25UKHXH4WWJGUBLKCI3UHROSBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 대전장애인권익수호추진연대가 대전광역시의회에서 한화이글스을 규탄하는 기자회견을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황경아 대전시의회 부의장이 대전장애인권익수호연대와 함께 프로야구단 한화이글스를 경찰에 고발했다. 대전한화생명볼파크 장애인석을 특별석으로 변경해 부당 이득을 취득했다는 이유다.&lt;br&gt;&lt;br&gt;이들은 20일 장애인석을 없애고 특별석을 운영한 구단 관계자를 형사 처벌해 달라며 대전경찰청에 고발장을 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;고발장을 접수한 이후 이들은 “지난 19일 박종태 대표이사 명의의 사과문은 장애인을 시혜의 대상으로 보는 삐뚤어진 관념을 다시 한번 여실히 보여준다”며 “진정한 사과는 무엇이 잘못됐는지 인정하고 재발 방지책과 책임자 처벌 방안을 제시하는 것”이라고 규탄했다. &lt;br&gt;&lt;br&gt;그러면서 “재발 방지책을 마련하고, 책임자를 강력 처벌하라”며 “이런 조치가 이뤄질 때까지 한화그룹을 향한 규탄 활동을 멈추지 않겠다”고 강조했다. &lt;br&gt;&lt;br&gt;앞서 한화이글스가 대전한화생명볼파크에서 장애인석을 특별석으로 둔갑해 판매·운영한 사실이 드러나면서 사회적 논란이 일었다. &lt;br&gt;&lt;br&gt;대전시는 두 차례에 걸쳐 구단 측에 원상 복구를 해야 한다는 내용의 공문을 보냈으나, 구단이 아무 조치를 취하지 않은 것으로 알려지며 또다시 시민들의 공분을 샀다. 이후 한화이글스는 구단은 대표이사 명의로 사과문을 게재한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘내란 공모’ 이상민 前 장관, 서울중앙지법 형사32부서 재판 받는다</title>
       <link>https://www.chosun.com/national/court_law/2025/08/20/6676GY4YNRE67FFNVF7CMDM6G4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/6676GY4YNRE67FFNVF7CMDM6G4/</guid>
@@ -823,24 +913,6 @@
       <content:encoded>우리나라 성인 100명 중 8명은 스마트폰 등 디지털 기기를 전혀 다루지 못하는 ‘디지털 문맹’인 것으로 나타났다. 여성, 60세 이상 고령층, 중졸 이하 저학력자일수록 디지털 기기를 다루기 힘들어했다.&lt;br&gt;&lt;br&gt;교육부는 19일 이런 내용의 ‘1차 성인 디지털 문해 능력 조사 결과’를 발표했다. 이번 조사는 전국 18세 이상 성인 약 1만명을 대상으로 지난해 진행됐다. 스마트폰을 조작할 수 있는지, 그리고 일상생활에서 디지털 기기를 사용해 다양한 문제를 해결할 수 있는지 등을 측정했다. 예컨대, ‘지도 앱 활용해 목적지 가는 길 찾기’ ‘기차표 앱으로 부산에서 서울 가는 표 예매하기’ ‘키오스크 이용해 음식 주문하기’ ‘은행 앱으로 송금하기’ 등을 할 수 있는지를 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2JXN2Y2SD5AIFKYBXGGNIGTO7U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사 결과, 성인의 8.2%는 디지털에 대한 기본적인 경험이 부족하고 디지털 기기 조작을 거의 못 하는 ‘수준 1′에 해당했다. ‘수준 1′은 스마트폰에서 카메라 앱을 찾거나 컴퓨터에서 인터넷 접속 아이콘을 선택하는 등 디지털 기기 이용을 위한 기본 단계도 못 하는 경우다. 유튜브 영상 공유하는 법을 아는 등 디지털 기기의 기본적인 이해와 조작은 가능하지만 일상에서 능숙하게 활용하지 못하는 ‘수준 2′에 해당하는 성인은 17.7%였다. 나머지 디지털 기기를 활용하는 데 문제가 없는 ‘수준 3′과 ‘수준 4′가 각각 21.4%, 52.8%였다. &lt;br&gt;&lt;br&gt;디지털 기기를 거의 사용하지 못하는 ‘수준 1′은 고령층, 저학력자일수록 많았다. 60세 이상 고령층의 23.3%, 중졸 이하 저학력자의 34.6%, 농어촌 지역 거주자의 12.7%가 ‘수준 1′에 속했다. 반면, 젊은 층(18~39세)은 0.8%, 대졸 이상 고학력자는 0.9%, 서울·광역시는 6.1%만 ‘수준 1′이었다. &lt;br&gt;&lt;br&gt;여성 가운데 10%가 ‘수준 1′로 남성(6.3%)보다 많았다. 조사를 실시한 국가평생교육진흥원 관계자는 “고령층에서 남성보다 여성이 저학력자가 더 많은 영향으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;교육부는 이번 결과를 바탕으로 성인 대상 인공지능(AI), 디지털 평생교육 지원을 강화한다는 방침이다. 구체적으로 은행·매장 등 학습장 확보 후 현장실습과 체험 제공, 저소득층 성인·노인 대상 평생교육이용권 지원 등을 펼칠 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법무부, 체류기간 지난 동포에 특별합법화 조치 시행</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/DV76ZMWFRFGOJFX4PZPB3YWOME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/DV76ZMWFRFGOJFX4PZPB3YWOME/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 12:37:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6MIFN4IHHJP4KCPVRA7OF6IVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 광복 80주년을 맞이해 체류 기간이 지난 동포에게 합법적인 체류 자격을 부여하는 동포 특별 합법화 조치를 시행한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 한국에 정착하려 했지만 지난 18일 이전에 체류 기간이 지난 외국 국적 동포와 그들의 가족에게 심사를 거쳐 합법적인 체류 자격을 부여받을 수 있는 기회를 제공할 예정이다.&lt;br&gt;&lt;br&gt;신청 기간은 오는 9월 1일부터 11월 28일까지다. 전염병·마약 등 공중위생과 건강보험료·국세 등 체납 여부, 범죄 경력 등을 심사해 대상자를 선정할 예정이다.&lt;br&gt;&lt;br&gt;대상자로 선정되면 본인 주거지 관할 출입국·외국인관서에 합법화 신청과 범칙금을 납부해야 한다. 심사 기준을 충족했다면 범칙금 10%를 내면 된다.&lt;br&gt;&lt;br&gt;재외 동포(F-4) 또는 방문 취업(H-2)이나 그의 가족(F-3이나 F-1)이라면 체류 기간 도과 직전의 체류 자격을 부여한다. 그 외 체류 자격인 경우 자진 출국 확인서를 발급받고 자진 출국한 후 다시 입국해 국내에 머물 수 있게 된다.&lt;br&gt;&lt;br&gt;다만 이번 특별 합법화로 체류 허가를 받은 동포와 그의 가족은 국내에 90일을 초과해 장기 체류하는 경우 사회 통합 교육을 필수적으로 이수해야 한다. &lt;br&gt;&lt;br&gt;법무부는 “과거 일제 강점기에 빼앗겼던 주권과 민족 정체성을 되찾은 광복의 의미를 이민 정책적 차원에서 재조명하는 것”이라며 “고국에서 타국으로 강제 징용·이주됐던 우리 민족을 다시 포용함으로써 국민이 통합하는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사건 변호 맡으려 경찰관에게 뇌물 준 변호사 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/08/19/Z6BKJZAX5VHWDBABHJTJ3GKCFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/08/19/Z6BKJZAX5VHWDBABHJTJ3GKCFQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 11:22:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WF32EVW77YJUSD7DZYJH3WQ27E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지검. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사 사건 수임을 위해 경찰관에게 금품을 건넨 혐의를 받는 부산의 한 법무법인 소속 변호사가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 강력범죄수사부(부장 직무대리 최근영)는 19일 뇌물공여와 변호사법 위반 혐의로 변호사 A씨를 구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 경찰이 수사하는 형사 사건의 변호를 맡기 위해 경찰관 B씨에게 정기적으로 금품을 제공한 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 지난달 17일 A씨의 구속영장을 청구했고, 부산지법은 구속 전 피의자 심문(영장실질심사)을 진행해 지난 1일 영장을 발부했다. A씨는 지난 5일 법원에 구속 적부심을 청구했지만 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 내란특검, 조태용 전 국정원장 ‘직무유기’ 적용 방침</title>
       <link>https://www.chosun.com/national/court_law/2025/08/19/7GLRKLCJ7JE4LLHJC27DMWDXNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/7GLRKLCJ7JE4LLHJC27DMWDXNE/</guid>
@@ -850,15 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MN5WSMAUUNLM7GUUWRQ56NW7M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가정보원장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검이 조태용 전 국가정보원장에 대해 직무유기 혐의도 적용하기로 방침을 세우고 수사 중인 것으로 19일 전해졌다. 조 전 원장은 이미 직권남용, 증거인멸, 위증 등 혐의를 받고 있는데, 국정원장으로서 불법적 ‘12·3 비상계엄’을 막지 못한 책임도 묻겠다는 것이다.&lt;br&gt;&lt;br&gt;국가정보원법에 따르면, 국정원장은 형법상 내란의 죄 등에 관한 정보를 수집해야 하고, 이와 연계된 국익에 반하는 내·외국인 등의 활동을 확인·견제·차단하도록 돼 있다. 특검 측은 조 전 원장이 비상계엄 계획에 대해 사전에 충분한 정보를 수집하지 않은 탓에 비상계엄 선포를 막지 못했다고 보고 있다. 조 전 원장은 그동안 “계엄 당일 오후 8시 50분쯤 대통령실 집무실에 도착했을 때, 비상계엄 계획을 처음 인지했다”고 주장해 왔다.&lt;br&gt;&lt;br&gt;특검은 또 조 전 원장이 비상계엄 선포 후에도 비상계엄에 대한 적극적인 견제 및 차단 조치를 취하지 않았다고 판단하고 있다. 법이 정한 국정원장의 직무를 정당한 이유 없이 수행하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;조 전 원장은 이밖에도 직권을 남용해 홍장원 전 국정원 1차장에게 사직을 강요한 혐의, 계엄 이후 윤석열 전 대통령과 홍 전 차장 등의 비화폰 정보 삭제에 관여한 혐의, 헌법재판소 등에 출석해 “계엄 당일 윤 전 대통령으로부터 계엄 관련 지시나 문건을 받은 적이 없다”는 취지로 위증한 혐의 등을 받고있다. 특검은 이와 관련해 지난달 16일 조 전 원장의 주거지 등을 압수수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>석재 공장서 석판 40장에 깔린 60대 남성 숨져</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/19/PFPKMIXBGZB53K3SKILBW5LIMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/08/19/PFPKMIXBGZB53K3SKILBW5LIMQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 10:34:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D24AJF3JIJCX3KAEHGPBVYBLMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 경기 광주시 초월읍 한 석재공장에서 작업 중이던 60대 남성이 석판 더미에 깔려 숨졌다. /경기소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광주시 한 석재공장에서 작업 중이던 60대 남성이 석판 더미에 깔려 숨졌다.&lt;br&gt;&lt;br&gt;19일 오후 1시 31분쯤 광주시 초월읍 한 석재공장에서 A(60대)씨가 석판 더미에 깔렸다. A씨는 사고 이후 병원으로 옮겨졌지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;이 공장을 운영하던 A씨는 현무암 석판을 정리하던 중 쌓여있던 석판 40장이 쏟아져 내리면서 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨를 덮친 석판 1장의 크기는 가로 1.2m, 세로 0.6m 정도인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자 등을 상대로 정확한 사고 경위와 과실 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희 여사, 21일 오전 진료 후 오후 특검 출석</title>
       <link>https://www.chosun.com/national/court_law/2025/08/19/WNN32MD4RBCS7BZXRQUXFOD6YU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/WNN32MD4RBCS7BZXRQUXFOD6YU/</guid>
@@ -866,40 +929,6 @@
       <description/>
       <pubDate>Tue, 19 Aug 2025 09:36:37 +0000</pubDate>
       <content:encoded>김건희 여사가 21일 오후 민중기 특별검사팀에 출석해 조사를 받을 예정이다. 김 여사는 오전 중 진료를 받고 오후 특검 조사에 임할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/747ZYQOIOET7GS2HHT2SRUND5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가  지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문을 마치고 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 19일 언론 공지를 통해 김 여사의 소환조사 일정이 21일 오후 2시로 변경됐다고 알렸다. 김 여사는 당초 20일 소환 통보를 받았으나 건강 악화를 이유로 출석이 어렵다는 내용의 자필 불출석 사유서를 특검에 냈다. 김 여사는 21일 오전 진료를 받은 후 오후에 특검 조사에 출석할 예정이다.&lt;br&gt;&lt;br&gt;이번 조사는 김 여사가 구속된 후 받는 세 번째 소환 조사다. 김 여사는 지난 6일 출석해 첫 조사를 받았고, 12일 구속된 뒤 14일과 18일 출석해 추가 조사를 받았다. &lt;br&gt;&lt;br&gt;김 여사 변호인은 김 여사가 구속 후 건강 악화로 식사를 제대로 하지 못하고 있다고 밝힌 바 있다. 김 여사는 이전부터 진료 일정을 조율중이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 21일 ‘건진 법사’ 및 통일교(현 세계평화통일가정연합) 관련 의혹에 대한 조사를 진행할 전망이다. 지난 조사에선 ‘명태균 공천개입 의혹’과 ‘도이치모터스 주가조작 의혹’에 대해 물었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상민 前장관 구속기소... 특검 “국헌 문란 폭동 가담”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/36HD5KMIOZEJXBHSY6MGPQV7WU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/36HD5KMIOZEJXBHSY6MGPQV7WU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 08:38:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RP5TMFVIJV2BJAUGHNTNPZB7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 '언론사 단전·단수'를 지시한 의혹을 받는 이상민 전 행정안전부 장관이 지난달 31일 서울중앙지법에서 열린 구속영장 실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀이 12·3 비상계엄 관련 내란 공모 등 혐의로 구속된 이상민 전 행정안전부 장관을 19일 기소했다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 긴급 브리핑을 열고 “금일 오후 5시 16분 이 전 장관을 내란 중요 임무 종사죄, 직권 남용 권리 행사 방해죄, 위증죄로 공소를 제기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;박 특검보는 “행안부 장관은 정부조직법상 경찰청과 소방청을 그 소속 기관으로 두고, 소속 공무원에 대한 지휘 감독권을 가지고 있으며, 특히 안전 및 재난에 관한 업무를 총괄하고 있다”며 “국민의 생명과 안전을 지키고 재난으로부터 국민을 보호할 책무를 지는 행안부 장관이 대통령이었던 윤석열을 우두머리로 하는 국헌 문란 목적의 폭동에 가담했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그 권한을 남용해 소방청장에게 특정 언론사에 대한 단전 단수를 지시하는 등 직권 남용 권리 행사 방해 및 내란 중요 임무에 종사하고, 대통령의 탄핵 심판 절차에서 진실을 알고자 하는 국민들의 여망을 무시하고 자신과 공범들의 범죄를 은폐하고자 위증을 했다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관은 평시 계엄 주무 부처 장관으로서 위법한 계엄 선포를 막지 못하고 사실상 방조한 혐의를 받는다. 경찰청과 소방청에 언론사 단전·단수 지시를 전달하는 등 윤석열 전 대통령의 내란 범죄에 순차 가담한 혐의도 있다.&lt;br&gt;&lt;br&gt;이와 함께 지난 2월 윤 전 대통령의 탄핵 심판에서 ‘전기나 물을 끊으려 한 적이 없고 대통령에게 관련 지시를 받은 적도 없다’는 취지로 허위 증언한 혐의도 받는다. 특검팀은 이 전 장관이 단전·단수 지시가 포함된 것으로 의심되는 문건을 들고 한덕수 전 국무총리와 대화를 나누는 장면 등이 담긴 대통령실 CCTV 영상 등을 토대로 이런 증언이 위증이라고 판단했다.&lt;br&gt;&lt;br&gt;비상계엄 사태와 관련해 윤석열 정부 국무위원이 구속 기소 된 것은 김용현 전 국방부 장관에 이어 이 전 장관이 두 번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 광산구 ‘고용위기 선제대응지역’ 첫 지정… “지역 경제위기 극복 단초”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/34OR7RCRR5DPLBZ2FXWWT2MNSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/34OR7RCRR5DPLBZ2FXWWT2MNSM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 09:22:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2UKWBHURIHHF2B65GM52AKREI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 광산구청. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 광산구가 ‘고용위기 선제대응지역’으로 지정됐다. 고용노동부가 고용위기 선제대응지역 제도를 신설한 이후 첫 지정 사례다.&lt;br&gt;&lt;br&gt;광주 광산구는 19일 “고용노동부가 이날 고용정책심의회를 통해 광산구를 고용위기 선제대응지역으로 지정하기로 심의·의결했다”고 밝혔다.&lt;br&gt;&lt;br&gt;광산구는 지난 5월 대형 화재로 2300여 직원이 근무 중인 금호타이어 광주공장이 생산을 멈췄고, 2023년 대유위니아 그룹 계열사가 회생 절차에 돌입해 지역 협력업체들이 경영난에 빠져 경제 위기를 겪고 있다.&lt;br&gt;&lt;br&gt;고용위기 선제 대응 지역 제도는 고용 사정이 급격히 악화할 우려가 있는 지역에 실업·실직 증가 등이 나타나지 않도록 ‘고용위기지역’에 준하는 지원을 하기 위해 만들어졌다. 광산구는 정부와 국회에 지역 경제 위기가 악화되기 전 고용위기 선제 대응 지정을 요청해왔다.&lt;br&gt;&lt;br&gt;광산구는 이번 지정을 통해 고용유지지원금 및 사업주 훈련지원금 증액과 생계 안정을 위한 직업훈련 생계비, 생활안정 자금융자 확대 등 지원을 받는다. &lt;br&gt;&lt;br&gt;박병규 광산구청장은 “고용위기 선제대응지역 지정으로 지역 경제 위기 극복의 단초를 마련하게 됐다”며 “광산구가 지금의 위기를 딛고, 고용 활성화 선도 지역으로 거듭나도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/A2UKWBHURIHHF2B65GM52AKREI.jpg?auth=644dacf28a3a951887ec1fc7c8dfba7a3d5e8db707f6eb3c8bdd163750aaaed5&amp;smart=true&amp;width=720&amp;height=479" type="image/jpeg" height="479" width="720">
-        <media:description type="plain">광주광역시 광산구청. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>대학축구 경기서 나온 ‘29 대 0′… 만화 같은 스코어, 이유 있었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/19/ICIDLV36G5GIXB3XPADOO3HYPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/19/ICIDLV36G5GIXB3XPADOO3HYPQ/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 08:24:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEXRYU5WTRA3TB3HEPGG3TUP6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 열린 '2025 水려한 합천 제20회 1,2학년대학축구연맹전' 황가람기 조별리그에서 건국대가 대구과학대를 29대 0으로 이겼다./iTOP21sports&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 대학축구 경기에서 29 대 0이라는 쉽게 볼 수 없는 결과가 나와 눈길을 끌고 있다.&lt;br&gt;&lt;br&gt;지난 18일 경남 합천군 용주1구장에서 ‘제20회 1,2학년대학축구연맹전 황가람기’ 12조 예선 1차전 건국대와 대구과학대의 경기가 펼쳐졌다. 이날 건국대는 29골을 넣고 한 점도 실점하지 않으며 대승을 거뒀다. &lt;br&gt;&lt;br&gt;건국대는 이날 대구과학대를 상대로 압도적인 기량을 보였다. 시작 3분 만에 선제골을 넣더니 전반전에만 12골을 터뜨렸다. 후반전에는 17골을 뽑아내며 29 대 0으로 경기를 마쳤다. &lt;br&gt;&lt;br&gt;두 팀의 전력이 이처럼 확연히 차이가 난 이유는 선수 구성 때문이다. 대구과학대는 학기 중 축구팀이 창단돼 선수 수급에 어려움을 겪었고 일반 학생 위주로 팀을 꾸려 이번 대회에 나선 것으로 알려졌다. 대구과학대는 최근 고교 축구 강자 ‘평택진위FC’를 이끌던 고재효 감독을 선임하고 내년부터 정식으로 U리그와 각종 대회에 참가할 예정이다. &lt;br&gt;&lt;br&gt;건국대 이성환 감독은 스포츠 매체 인터풋볼에 “상대 팀에 엘리트 선수 출신 3~4명을 제외하곤 일반 학생이라고 들었다”며 “상대가 전력이 약하다고 최선을 다하지 않는 건 예의도 아니고 문제가 될 수 있다고 생각했다. 우리는 준비한 대로 100% 경기에 임했다. 이제는 다음 경기에 집중하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TKMVSV6UDRESFFEKGBGRUI4NR4.jpg?auth=f3d72c3df89f0a23406425d21ecfafdc177c7ca0396b558ce1b86c7a8a3d4c77&amp;smart=true&amp;width=955&amp;height=537" type="image/jpeg" height="537" width="955">
-        <media:description type="plain">지난 18일 열린 '2025 水려한 합천 제20회 1,2학년대학축구연맹전' 조별리그에서 건국대가 대구과학대를 29대 0으로 이겼다./iTOP21sports</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘UN 출신’ 최정원, 스토킹 혐의 입건… “흉기 들고 여성집 찾아가”</title>
@@ -915,15 +944,6 @@
       </media:content>
     </item>
     <item>
-      <title>개그맨 윤정수, 12살 연하 필라테스 강사와 혼인신고</title>
-      <link>https://www.chosun.com/national/people/2025/08/19/PR2U6XD3IBHK7ANKVVBQKVVDSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/19/PR2U6XD3IBHK7ANKVVBQKVVDSM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 08:28:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZMJUNY5SREVXIDLLXHTUTWACU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 윤정수,/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 윤정수(53)가 12살 연하의 필라테스 강사와 혼인신고를 마치고 법적 부부가 됐다.&lt;br&gt;&lt;br&gt;지난 18일 유튜브 채널 ‘여의도 육퇴클럽’에는 윤정수가 구청을 찾아 혼인신고를 하는 장면이 공개됐다. 윤정수는 “예비 신부와 상호 협의해 혼인신고를 하게 됐다”며 “긴장도 되고 동시에 책임감과 걱정이 밀려온다”고 말했다.&lt;br&gt;&lt;br&gt;그는 홀로 구청에서 절차를 마친 뒤 “생각보다 금방 끝난다. 5분도 채 걸리지 않았다”며 “잘 살아야겠다는 압박감이 크게 온다. 정신 바짝 차리고 살아야겠다는 생각이 든다”고 소감을 밝혔다. 이어 “아내가 편안할 수 있도록 어떻게 해야 할지 고민이 많다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHUNSMF64FFUXD6LH5CLRMZWIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤정수가  혼인신고를 마친 후 12세 연하 필라테스 강사 아내에게 찾아간 모습./유튜브 ‘여의도 육퇴클럽’ &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공개된 영상에는 윤정수가 혼인신고서를 들고 아내를 찾아가 포옹하는 모습도 담겼다. &lt;br&gt;&lt;br&gt;윤정수는 앞서 방송을 통해 결혼을 전제로 교제 중인 연인이 있다고 밝힌 바 있다. 두 사람은 지인으로 알고 지내다 올해 초부터 연인 관계로 발전했으며, 오는 11월 결혼식을 올릴 계획이다.&lt;br&gt;&lt;br&gt;윤정수는 1992년 SBS 개그콘테스트로 데뷔해 ‘열려라 웃음 천국’, ‘일요일 일요일 밤에’, ‘느낌표’ 등에서 활약했다. 2015~2017년에는 JTBC 예능 ‘님과 함께 시즌2–최고의 사랑’에서 개그우먼 김숙과 가상 부부로 출연해 화제를 모았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>올해 대구 지역 첫 SFTS 사망자 발생… 대구시 역학조사</title>
       <link>https://www.chosun.com/national/regional/2025/08/19/S77FIJPUCNCWXCSNEPDRTH6QBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/19/S77FIJPUCNCWXCSNEPDRTH6QBA/</guid>
@@ -933,15 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHCVPA57GBG6LGEYKBGZNB4YDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진드기 매개 감염병 예방 홍보 포스터./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 대구 지역 첫 중증열성혈소판감소증후군(SFTS) 사망자가 발생해 보건 당국이 역학조사에 나섰다. &lt;br&gt;&lt;br&gt;19일 대구시에 따르면, 수성구에 사는 60대 여성이 지난달 초 오심 증상으로 종합병원에 입원했다. 이후 증상이 악화돼 대학병원 중환실로 옮겨 진단을 받은 결과 SFTS 양성으로 나왔다. 이 여성은 집중 치료를 받았으나, 병세가 악화돼 지난 14일 숨졌다. &lt;br&gt;&lt;br&gt;SFTS는 4월부터 11월까지 진드기 활동이 활발한 시기에 주로 발생하는 바이러스성 감염병으로, ‘작은소피참진드기’에 물려 감염된다. 주요 증상으로는 고열, 오심, 구토, 설사, 식욕 부진 등의 소화기 증상과 혈소판 감소 등이 있으며, 현재까지 예방 백신이나 치료제가 없어 치명률이 높다.&lt;br&gt;&lt;br&gt;대구시는 이번 사망 사례와 관련해 의무기록 확인, 관계자 인터뷰 등을 포함한 심층 역학조사를 진행하고 있다.&lt;br&gt;&lt;br&gt;올해 대구 지역 SFTS 확진자는 이날 현재 총 8명으로, 전년 동기(4명) 대비 2배 늘었다. 또 2020년 이후 올해까지 SFTS 사망자는 2020년 1명, 2023년 3명으로, 60대 1명, 70대 3명이다.&lt;br&gt;&lt;br&gt;김태운 대구시 보건복지국장은 “SFTS는 예방 백신이 없는 만큼, 진드기에 물리지 않는 것이 최선의 예방법”이라며 “야외 활동 시 긴 소매와 긴바지를 입고, 풀밭에 눕거나 옷을 벗어두지 않는 기본 수칙을 반드시 지켜야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;이어 그는 “야외 활동 후 2주 이내 발열, 소화기 증상 등 의심 증상이 나타나면 신속히 의료기관을 방문해 진료받아야 한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 특검, 이종호 압수수색 후 휴대폰 버린 정황 포착</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/V3RXR27OFZADZKWQYBZVRRZ4BU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/V3RXR27OFZADZKWQYBZVRRZ4BU/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 07:51:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALLJI2PRVZGCTLHFKXB6JXXAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트 대표가 사용하던 휴대전화를 파손해 버린 정황을 포착해 수사 중인 것으로 19일 전해졌다. 이 전 대표 측은 “압수 수색 이후 임시로 사용한 휴대전화를 폐기한 것일 뿐 증거인멸 의도는 없었다”는 입장이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 해병 특검은 최근 이 전 대표 측근 A씨를 증거인멸 혐의 피의자로 입건했다. A씨는 지난달 중순 이 전 대표가 사용하던 휴대전화를 한강변의 쓰레기통에 파손해 버린 혐의를 받고 있다. 특검은 지난달 10일 이 전 대표의 자택과 차량을 압수 수색해 휴대전화 등을 확보했는데, 그 이후 추가적인 증거인멸 정황을 파악한 것이다. A씨는 이 전 대표와 오랜 기간 교류하며 금전 거래 등을 해온 최측근 인사다.&lt;br&gt;&lt;br&gt;특검은 지난 15일 A씨를 불러 휴대전화를 버린 이유, 이 전 대표와 금전 거래를 한 경위 등에 대해 집중 조사했다. 앞서 특검은 지난달 24일 A씨의 자택도 압수 수색했다.&lt;br&gt;&lt;br&gt;A씨 측은 특검 조사에서 증거인멸의 의도가 없었다고 부인한 것으로 전해졌다. A씨 측은 “이 전 대표가 지난달 10일 휴대전화를 압수당한 뒤, 배우자의 휴대전화를 잠깐 빌려 사용하다가 새 휴대전화를 마련하면서 기존 기기를 폐기해달라고 부탁해 버린 것”이라는 취지로 진술했다고 한다. 이 전 대표 측도 “개인정보 유출 등이 염려돼 짧게 사용한 휴대전화를 정리한 것일 뿐”이라는 입장이다.&lt;br&gt;&lt;br&gt;특검은 A씨 등에 대한 추가 수사를 진행하며 이 전 대표에게 증거인멸 교사 혐의를 적용할지 검토할 방침이다. 이 전 대표는 친분이 있는 김건희 여사에게 고(故) 채수근 상병 사망 사고로 처벌 위기에 놓인 임성근 전 해병대 1사단장의 구명을 부탁했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>일한다고 깎였던 국민연금, 내년부턴 월 수입 509만원까진 감액 안 돼</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/19/A6465Q3NCVBDHM4M7GBPSNPF7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/19/A6465Q3NCVBDHM4M7GBPSNPF7Y/</guid>
@@ -949,24 +960,6 @@
       <description/>
       <pubDate>Tue, 19 Aug 2025 07:21:37 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QWK67MRECESJNZRAG6KPBJAGVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 국민연금공단 서울북부지역본부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 내년부터 일을 하더라도 월 수입이 509만원 이하면 국민연금을 깎지 않는 방안을 추진한다. 또한 출산·군복무 크레디트의 지급 방식을 ‘사후 정산’에서 ‘사전 지원’ 방식으로 전환하는 방안도 본격적으로 검토하고 나섰다.&lt;br&gt;&lt;br&gt;19일 정치권과 정부 등에 따르면, 복지부는 불합리한 국민연금제도 개선을 국정 과제로 삼고 추진하기로 했다. 대표적인 불합리한 제도는 노령연금의 소득 감액 제도다. 현재는 노령 연금 수급권자의 소득이 일정 기준을 초과하면 수급 개시 최대 5년까지 연금액의 50%가 깎인다. 소득이 있으니 연금을 덜 준다는 취지이지만, 연금 만으로 생활이 어려운 이들이 경제활동을 하면 오히려 연금이 삭감되는 ‘역차별’이 발생한다는 비판이 제기됐다. &lt;br&gt;&lt;br&gt;이에 따라 정부는 기준 소득을 많이 초과하지 않는 이들에겐 해당 조항을 적용하지 않는 방안을 추진한다. 예컨대, 감액 기준 소득은 최근 3년간 국민연금 전체 가입자의 평균소득으로, 올해는 308만9062원이다. 그런데 초과 금액이 200만원 미만이면 감액하지 않기로 한 것이다. 올해의 경우 월 508만9062원을 벌어도 연금은 안깎인다. &lt;br&gt;&lt;br&gt;정부는 이와 함께 출산·군복무 크레디트를 사전에 지원하는 방안을 검토하고 있다. 출산·군복무 크레디트는 자녀를 출산하거나 입양할 경우 국민연금 가입 기간으로 추가로 인정해주는 제도다.&lt;br&gt;&lt;br&gt;크레디트 제도를 현행 ‘사후 정산’에서 ‘사전 지원’으로 바꾸게 되면 무엇보다 재정 절감 효과가 큰 것으로 알려졌다. 사후 정산은 향후 연금 수령때에 이르러서야 재정지원이 이뤄지는 만큼 물가 상승분도 반영되고 연금 수령이 시작되는 시점부터 종료되는 시점까지 무기한으로 재정지원이 이뤄져야 하는데 사전 정산은 출산이나 군복무 등 사유발생시점에 한번만 지원하면 돼 재정 절감 효과가 87조8000억원에 이른다는 연구결과(국민연금연구원)도 나왔다.&lt;br&gt;&lt;br&gt;아울러 정부는 출산 크레디트 제도의 인정 시기를 확장키로 했다. 현재 둘째를 낳으면 12개월, 셋째 이상은 1명당 18개월씩 최대 50개월까지 추가로 가입 기간을 인정받을 수 있는데, 이를 첫째 자녀부터 12개월 인정으로 바꾸겠단 것이다. 최대 50개월이라는 가입 인정 상한도 폐지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 ‘내란특검 추가 기소’ 첫 재판…“공소장 장황” 특검 꼬집은 법원</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/19/SE6I5GJHTVCQZDCITZUTWYZHCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/19/SE6I5GJHTVCQZDCITZUTWYZHCA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 03:18:08 +0000</pubDate>
-      <content:encoded>내란 특검이 윤석열 전 대통령을 추가 기소한 사건의 첫 재판에서 재판부가 “특검의 공소장이 장황하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WD2NOMZXH2MFSMRCYYT7TSR6CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 19일 오전 11시 특수공무집행 방해 및 허위 공문서 작성·행사 혐의로 기소된 윤 전 대통령의 1심 첫 공판 준비기일을 열었다. 준비기일에는 정식 공판과 달리 피고인의 출석 의무가 없어, 윤 전 대통령은 법정에 나오지 않았다. &lt;br&gt;&lt;br&gt;재판부는 특검이 제출한 공소장이 “장황하다”며 수정을 요구했다. 재판부는 “공소장에는 피고인의 직책 정도만 쓰면 되는데, 고등학교 졸업 시기와 사법고시를 언제 합격했는지까지 쓰는 것은 불필요하다”고 했다. &lt;br&gt;&lt;br&gt;또 “직권남용 혐의 관련해 법 조항을 인용하는 것을 넘어 법률 해석까지 전제사실에 기재했다. 법률의 적용과 해석은 법원의 역할인데 검사 측이 공소장에서 이를 기재하는 것은 부적절하다”고 했다. 이어 “비상계엄이 실질적 요건을 충족했는지 여부는 내란 혐의 재판에서 다뤄지고 있는 사안”이라면서 “절차적 부분을 다루는 이번 사건 쟁점과는 관련이 없어 보인다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKVYYQGCZZIBDML5OTMQH6E7UY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 측 변호인 배보윤 변호사가 19일 오전 서울 서초구 서울중앙지방법원에서 열린 윤석열 전 대통령의 특수공무집행방해 등 내란 특검 추가 기소 사건 1차 공판준비기일에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법정에는 윤 전 대통령 측 변호인으로 배보윤·송진호 변호사가, 특검 측에서는 박억수 특검보와 조재철 부장검사 등이 출석했다. &lt;br&gt;&lt;br&gt;특검 측은 내란 재판에서 증인 신문이 이뤄진 사람을 제외하고, 이 사건에서만 130명의 증인 신문이 필요하다고 했다. 박 특검보는 “이 사건은 무너진 헌법 질서를 회복하는 것과 관련돼 국민적 관심이 집중돼 있다”면서 “특검법에 따라 6개월 안에 1심 재판을 신속히 마무리해 혼란을 종식해야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 공소 사실을 전부 부인한다는 입장을 밝혔다. 윤 전 대통령 측은 “이번 사건의 공소 사실은 상당 부분 내란 재판과 겹치고, 이미 내란 재판에서 증인신문이 이뤄진 부분도 많다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “이 사건 기록이 2만 쪽에 달해 열람·등사에만 최소 3주가 필요하다”면서 정식 재판은 4주 뒤 진행해야 한다고 주장했다. 특검 측은 “재판이 너무 늦어진다”고 항의했고, 윤 전 대통령 측은 “재판 지연 목적이 아니라 진술 등을 철저히 준비하기 위한 것”이라며 맞섰다. &lt;br&gt;&lt;br&gt;이날 재판은 25분 만에 끝났다. 재판부는 양측의 의견을 종합해 오는 9월 26일 오전 10시 첫 정식 재판을 열기로 했다. 재판부는 “준비 절차에는 피고인의 출석 의무가 없지만, 공판이 시작되면 피고인이 출석해야 한다”고 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] ~에게서[한테서] 전해 듣다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/19/Y5CWF75R7FD5BGRTXJOBXI2FJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/19/Y5CWF75R7FD5BGRTXJOBXI2FJ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 18 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MT6RQRKTIVFVBM76SU4BB5KXEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
