@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘건진법사’ 전성배씨, 구속영장 심사 포기</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/PLCRLFL5RNBAJO3HPH5ZX57RN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/PLCRLFL5RNBAJO3HPH5ZX57RN4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 20 Aug 2025 22:51:57 +0000</pubDate>
+      <content:encoded>통일교 고위 간부로부터 고가의 명품 목걸이와 가방 등을 받아 청탁과 함께 김건희 여사에게 건넨 혐의를 받는 ‘건진 법사’ 전성배씨가 21일 법원에서 열릴 예정인 구속영장 실질심사에 출석하지 않기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VAEKDKB4OFHNSIBLG7DXIYTW3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'건진 법사' 전성배 씨가 지난 18일 서울 종로구 민중기 특별검사팀(김건희 특검팀) 사무실로 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 전씨 측은 전날 특검에 이날 법원에서 열리는 영장 심사에 출석하지 않겠다고 했다. 전씨가 영장 심사를 받지 않겠다는 뜻이 강했다고 한다. 전씨의 특정범죄가중처벌법상 알선수재 혐의 영장 심사는 이날 오전 10시 30분 서울중앙지법에서 남세진 영장 전담 부장판사 심리로 열릴 예정이었다.&lt;br&gt;&lt;br&gt;특검은 지난 18일 전씨를 소환해 조사했다. 특검은 전씨가 김 여사에게 명품을 건넨 것으로 지목된 시기의 아크로비스타 출입 기록, 전 통일교 세계본부장 윤영호씨에게 보낸 문자메시지 등 특검 측에서 제시하는 증거들에 “모른다”는 취지로 혐의를 부인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검은 전씨의 진술이 사실관계와 맞지 않고 일관되지 않으며, 전씨가 주거지를 여러 차례 옮긴 점 등을 들어 증거인멸과 도주 우려가 있다고 판단해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;피의자가 영장 심사를 포기하면 법원은 제출된 서류 만으로 피의자 구속 여부를 결정한다. 영장 심사 결과가 나올 때까지 전씨가 대기할 장소는 아직 정해지지 않았다. 지난해 말 여인형 전 방첩사령관, 박안수 전 육군참모총장, 노상원 전 정보사령관 등이 내란 혐의 영장 심사를 포기했고, 모두 구속됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“나라 대신 주차자리 지키는 군인”… 이 땡볕에 누가 시켰나</title>
       <link>https://www.chosun.com/national/national_general/2025/08/21/ZZI2FQ7U7FBEHMKOSGPZGUCN44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/ZZI2FQ7U7FBEHMKOSGPZGUCN44/</guid>
@@ -943,15 +952,6 @@
       <description/>
       <pubDate>Tue, 19 Aug 2025 14:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQSTEY6HAFGDXCSCKKS2FG4EYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이들이 자주 가지고 노는 플라스틱 장난감은 소금물에 10분쯤 담갔다가 맑은 물로 헹궈보자. 얼룩과 끈적임이 사라지고 세균도 잡을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 20일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/19/I66KM4ZPSJEPFMDC5SOL2J7RB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/19/I66KM4ZPSJEPFMDC5SOL2J7RB4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 19 Aug 2025 14:30:00 +0000</pubDate>
-      <content:encoded>무더위 속 중부지방 곳곳에 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUI7M3OYWBCBVGNJR3YZGTFHGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
