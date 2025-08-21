@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>與 "'수사·기소 분리' 정부조직법, 9월 25일 본회의서 처리"</title>
+			<description>더불어민주당이 검찰개혁의 핵심 과제인 검찰개혁의 큰 기조가 담긴 정부조직법 개정안을 오는 9월 25일 국회 본회의에서 처리하겠다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김현정 원내대변인은 8월 21일 국회에서 열린 당 의원총회 직후 기자들과 만나 "당과 정부는 검찰 수사·기소 분리 원칙을 담은 정부조직법을 9월 내 처리할 것"이라며 "9월 25일 본회의가 예정돼 있어서 그날 처리될 가능성이 높다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;앞서 정청래 당 대표도 전날인 8월 20일 의총 모두발언을 통해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령과 신임 지도부 간 관저 만찬에서 해당 사안에 대한 입장 일치가 확인됐다고 밝혔다.&lt;br /&gt;&lt;br /&gt;정 대표는 "어제 저녁 대통령 관저에서 신임 당 지도부와 대통령이 두 시간 넘게 화기애애하게 만찬을 진행했다"며 "수사와 기소를 분리하는 검찰개혁에 대해서 9월 내 정부조직법에 검찰청 폐지·공소청·중수청(중대범죄수사청) 설립을 담은 정부조직법을 9월 내 본회의에서 처리하자고 당과 대통령실이 입장을 같이 했다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "전적으로 대통령께서 결단해주신 부분에 대해 당으로선 감사드렸고, 차질 없이 되도록 같이 힘을 모으기로 했다"며 "약속드린 대로 추석 귀향길 뉴스에서 '검찰청은 폐지됐다', '검찰청은 역사 속으로 사라지게 됐다'는 기쁜 소식을 국민 여러분께 전해드릴 수 있도록 당에서는 최선을 다하겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;그러면서 "대통령의 (수사·기소 분리) 불가역적인 조치, 그것에 대한 법적인 마무리가 있을 때까지 당정대는 원팀, 원보이스로 단합된 모습을 보이겠다"고 부연했다.&lt;br /&gt;&lt;br /&gt;만찬에 동석했던 한정애 정책위의장도 같은 날(21일) 정책조정회의에서 "당정대는 이견이나 흔들림 없이 검찰 개혁을 추진할 것"이라며 "검찰청 폐지와 수사·기소 분리 내용을 담은 정부조직법을 추석 전까지 국회에서 처리하게 될 것"이라고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "정기국회가 시작되는 9월에도 국민이 체감할 수 있는 민생·개혁 입법으로 민생을 뒷받침하고 개혁의 묵은 과제들을 착실하게 해결해 나가겠다"고 부연했다.&lt;br /&gt;&lt;br /&gt;이에 따라 여권은 수사·기소 분리 내용을 담은 정부조직법 개정안을 추석 전 본회의에서 처리한 뒤, 후속 법안 마련에도 속도를 낸다는 방침이다.&lt;br /&gt;</description>
+			<pubDate>Thu, 21 Aug 2025 04:29:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210690</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210690</guid>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>해병 특검, 수사 30일 연장… "조사할 대상 많아"</title>
 			<description>순직 해병 수사 외압 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="115"&gt;이명현&amp;nbsp;&lt;/span&gt;특별검사팀이 수사 기간을 30일 연장하기로 결정했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25396"&gt;정민영&amp;nbsp;&lt;/span&gt;특검보는 21일 브리핑에서 "특검은 압수물 분석이 상당 부분 남아있고, 조사 대상자도 많아 해병특검법에 따라 수사 기간을 30일 연장하기로 결정했다"며 "다음주 중 대통령과 국회에 연장 사유를 서면으로 보고할 예정"이라고 말했다.&lt;br /&gt;&lt;br /&gt;해병 특검은 지난달 2일 수사를 개시해 오는 30일 종료될 예정이었다. 연장 결정에 따라 9월 말까지 수사를 이어갈 예정이다.</description>
 			<pubDate>Thu, 21 Aug 2025 02:48:41 -0000</pubDate>
@@ -26,7 +35,7 @@
 		</item>
 		<item>
 			<title>오영준 헌법재판관 본사 방문</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210670.jpg" alt="34534636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;   &lt;p&gt;      &lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;&lt;br /&gt;&lt;/span&gt;   &lt;/p&gt;   오영준&lt;/span&gt;(56·사법연수원 23기) 헌법재판관이 8월 20일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;오 재판관은 "사회적 갈등이 큰 상황에서 헌법재판소의 결정이 지닌 사회 통합의 의미를 깊이 인식하며 최선을 다하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;오 재판관은 대전 출신으로, 서울고와 서울대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 이후 서울민사지법에서 처음 판사 생활을 시작해 서울지법 판사, 대법원 재판연구관, 춘천지법 강릉지원장, 서울중앙지법 부장판사, 특허법원 부장판사, 서울고법 부장판사, 대법원 선임재판연구관, 대법원 수석재판연구관 등을 지냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210670.jpg" alt="34534636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;   &lt;p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;   오영준&lt;/span&gt;(56·사법연수원 23기) 헌법재판관이 8월 20일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;오 재판관은 "사회적 갈등이 큰 상황에서 헌법재판소의 결정이 지닌 사회 통합의 의미를 깊이 인식하며 최선을 다하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;오 재판관은 대전 출신으로, 서울고와 서울대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 이후 서울민사지법에서 처음 판사 생활을 시작해 서울지법 판사, 대법원 재판연구관, 춘천지법 강릉지원장, 서울중앙지법 부장판사, 특허법원 부장판사, 서울고법 부장판사, 대법원 선임재판연구관, 대법원 수석재판연구관 등을 지냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 21 Aug 2025 01:22:34 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/210670</link>
@@ -230,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210618</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210618.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>태평양, 김경규 전 한국거래소 시장감시본부장 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210654.jpg" alt="35226.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김경규 고문. 《사진=법무법인 태평양》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)은 김경규 전 한국거래소 시장감시본부 부장을 고문으로 영입했다고 20일 밝혔다.&lt;br /&gt;&lt;br /&gt;김 고문은 태평양의 금융그룹과 금융증권범죄수사대응팀에 합류한다. 불공정거래 관련 시장감시, 심리, 감리, 불법공매도 적출기준 및 적발시스템 구축 등의 업무경험을 바탕으로 전문성을 강화할 예정이다.&lt;br /&gt;&lt;br /&gt;김 고문은 1991년부터 약 34년간 한국거래소와 금융감독원에서 시장감시본부 특별심리부장, 공매도특별감리부장 등으로 근무했다. 이곳에서 코스피∙코스닥 기업의 상장심사와 자본시장 불공정거래 조사, 공매도 적발 및 제재 등 불공정거래 규제 업무를 담당했다. 최근까지는 한국상장협회 자문관 및 한국거래소 경영지원본부 한국거래소(KRX) 교수단으로 활동했다.&lt;br /&gt;&lt;br /&gt;금융위원회 상임위원 및 코스닥 시장위원장을 지낸 태평양 김학균 금융그룹장은 “김경규 고문의 합류로 태평양 자본시장 조사 대응 역량이 한층 강화됐다”며 “새정부 정책에 대해 최고 수준의 솔루션을 제공하기 위해 노력할 것”이라고 말했다.&lt;br /&gt;&lt;br /&gt;태평양은 고승범 전 금융위원장과 금융감독원 출신의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="20929"&gt;김효봉&lt;/span&gt;(44·사법연수원 41기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="42251"&gt;최흥수&lt;/span&gt;(49·변호사시험 8회) 변호사, 송영두∙류한서 전문위원을 영입해 금융규제, 디지털금융 및 자본시장 분야를 강화한 바 있다.</description>
-			<pubDate>Wed, 20 Aug 2025 01:52:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210654</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210654</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210654.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
