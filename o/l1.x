@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>건진법사 전성배 구속…법원 "증거 인멸 우려"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210729.jpg" alt="34536.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;영장심사를 포기한 건진법사 전성배 씨가 21일 민중기 특별검사팀 사무실이 마련된 서울 종로구 KT 광화문빌딩 웨스트에서 대기하기 위해 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;건진법사 전성배 씨가 21일 구속됐다. &lt;br /&gt;&lt;br /&gt;서울중앙지법&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10631"&gt;남세진&amp;nbsp;&lt;/span&gt;영장전담 부장판사는 이날 특정범죄 가중처벌 등에 관한 법률 위반(알선수재), 정치자금법 위반 혐의 등을 받는 전 씨에 대해 증거를 인멸할 염려가 있다며 영장을 발부했다. &lt;br /&gt;&lt;br /&gt;전 씨는 서울중앙지법에서 열린 구속 전 피의자 심문에는 출석하지 않았다. 전 씨 측은 전 씨가 자신으로 인해 여러 사람들이 고초를 겪는 상황을 견딜 수 없고 본인도 잘못돼야 한다고 판단했다며, 구속을 받아들이기로 했다고 전했다.&lt;br /&gt;&lt;br /&gt;심문에는 특검팀 관계자들만 출석해 8분 만에 종료됐다.&lt;br /&gt;&lt;br /&gt;전 씨는 2022년 4~8월 전 통일교 세계본부장 윤모 씨로부터 고가의 금품과 천수삼 농축차 등을 받은 뒤 이를 김 여사에게 전달하려 한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;전 씨는 윤 전 본부장에게 2022년 4월 초 802만 원 상당의 샤넬가방을 받은 것으로 전해졌다. 이후 윤 전 본부장이 그해 7월 초 1271만 원 상당의 샤넬 가방을 한번 더 건넸고, 7월 말 6220만 원 상당 그라프 목걸이를 전 씨에게 전달했다고 특검은 의심하고 있다.&lt;br /&gt;</description>
+			<pubDate>Thu, 21 Aug 2025 13:14:19 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210729</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210729</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210729.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희 여사, 구속 뒤 3차 조사 종료…토요일 재소환</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210724.jpg" alt="4564748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희가 탑승한 호송차가 21일 김건희 여사 관련 의혹들을 수사하는 민중기 특별검사팀 사무실이 마련된 서울 종로구 KT광화문빌딩으로 들어가고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사에 대한 특검의 세 번째 소환조사가 마무리됐다. 김 여사는 이번에도 대부분의 진술을 거부했고, 특검팀은 김 여사를 다시 불러 조사하겠다는 방침이다. &lt;br /&gt;&lt;br /&gt;김건희 특검팀은 21일 오후 2시 12분부터 김 여사에 대한 조사를 시작했다. 이날 조사는 오후 5시 30분 쯤 마무리 됐다. &lt;br /&gt;&lt;br /&gt;김 여사는 30분 가량 조서 열람을 마친 뒤 오후 6시 30분 호송차를 타고 구치소로 복귀했다. &lt;br /&gt;&lt;br /&gt;특검팀은 김 여사를 상대로 건진법사 전성배 씨와 통일교의 현안 청탁 의혹을 조사했다. 조사를 위해 100여 장의 질문지를 준비했으나, 김 여사는 대부분의 진술을 거부했다. &lt;br /&gt;&lt;br /&gt;특검팀은 오는 23일 오전 10시, 김 여사를 다시 불러 조사를 이어갈 계획이라고 밝혔다. 김 여사 측도 조사에 응하겠다는 입장이다.&lt;br /&gt;</description>
+			<pubDate>Thu, 21 Aug 2025 11:27:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210724</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210724</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210724.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>새정부 검찰 중간간부 인사…서울중앙지검 차장 전원 교체</title>
 			<description>&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;정부의 첫 검찰 중간 간부 인사가 21일 단행됐다. 이번 인사로 서울중앙지검 1~4차장이 모두 교체됐다.&lt;br /&gt;&lt;br /&gt;법무부는 이날 고검 검사급(차장·부장검사) 665명, 일반검사 30명 등 검사 695명에 대한 전보 인사를 시행했다고 밝혔다. 발령일은 오는 27일이다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 1차장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12008"&gt;최재아&lt;/span&gt;(48·사법연수원 34기) 김천지청장이 맡게 됐다. 이 자리에 여성 검사가 임명된 것은 이번이 처음이다.&lt;br /&gt;&lt;br /&gt;2차장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11136"&gt;장혜영&lt;/span&gt;(50·34기) 부산서부지청 차장이, 3차장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11241"&gt;박준영&lt;/span&gt;(47·34기) 수원지검 형사1부장이 각각 새로 임명됐다. 반부패수사부 등을 지휘하는 4차장검사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11446"&gt;이준호&lt;/span&gt;(48·34기) 서울중앙지검 공보담당관이 보임됐다.&lt;br /&gt;&lt;br /&gt;기존 서울중앙지검 1·2·3차장은 모두 검사장으로 승진하지 못했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9591"&gt;공봉숙&lt;/span&gt;(50·32기) 2차장은 서울고검 검사로,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9529"&gt;이성식&lt;/span&gt;(49·32기) 3차장은 대구고검 검사로 발령됐다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10021"&gt;박승환&lt;/span&gt;(48·32기) 1차장은 의원 면직됐다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 반부패1부장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13457"&gt;이희찬&lt;/span&gt;(49·35기) 대검 형사1과장, 반부패2부장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14174"&gt;김봉진&lt;/span&gt;(47·36기) 법무부 상사법무과장, 반부패3부장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14451"&gt;한문혁&lt;/span&gt;(45·36기) 서울동부지검 형사5부장이 보임됐다. 기업 수사를 맡은 공정거래조사부는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15790"&gt;나희석&lt;/span&gt;(45·37기) 법무부 법령제도개선TF 팀장이 이끈다.&lt;br /&gt;&lt;br /&gt;전국 부장검사 가운데 최선임인 중앙지검 형사1부장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13941"&gt;장준호&lt;/span&gt;(47·35기) 대검 정책기획과장이 보임됐다.&lt;br /&gt;&lt;br /&gt;대검 중간간부도 전면 교체됐다. &lt;br /&gt;&lt;br /&gt;대검 정책기획과장에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14782"&gt;나하나&lt;/span&gt;(45·36기) 중앙지검 기획담당관이 새로 보임됐다. 이 보직을 여성 검사가 맡은 것은 검찰 역사상 이번이 처음이다. &lt;br /&gt;&lt;br /&gt;형사정책담당관은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13157"&gt;정현&lt;/span&gt;(46·35기) 중앙지검 형사4부장이, 반부패기획관에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11722"&gt;장재완&lt;/span&gt;(50·34기) 중앙지검 형사8부장이, 공공수사기획관에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11318"&gt;임삼빈&lt;/span&gt;(49·34기) 고양지청 차장이 각각 임명됐다.&lt;br /&gt;&lt;br /&gt;'입'으로 불리는 공보라인도 새롭게 임명됐다. 신임 법무부 대변인에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13804"&gt;김태훈&lt;/span&gt;(47·35기) 중앙지검 공공수사3부장, 대검 대변인에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13442"&gt;이진용&lt;/span&gt;(49·35기) 중앙지검 조세범죄조사부장, 중앙지검 공보담당관에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13707"&gt;권내건&lt;/span&gt;(47·35기) 대검 인권기획담당관이 각각 임명됐다.&lt;br /&gt;&lt;br /&gt;법무부는 이번 검찰 인사의 핵심 기준으로 업무 역량과 리더십, 균형 있는 사건 처리 능력을 꼽았다. &lt;br /&gt;&lt;br /&gt;특히 전문성과 실력, 인품을 갖춘 여성 검사들을 주요 보직에 대거 발탁해, 법무부·대검·서울중앙지검의 여성 간부 비율이 25%에서 42%로 크게 늘었다고 강조했다. &lt;br /&gt;&lt;br /&gt;또한 특별검사실 파견 검사들도 주요 보직에 임명해 수사 연속성과 전문성을 유지했다고 밝혔다.</description>
 			<pubDate>Thu, 21 Aug 2025 11:21:12 -0000</pubDate>
@@ -219,25 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210674</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210674.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무부, 이르면 내일 중간간부 검사 인사</title>
-			<description>검찰 중간간부 인사가 이르면 오는 21일 발표될 것으로 전망된다.&lt;br /&gt;&lt;br /&gt;법무부는 20일 오후 2시 검찰인사위원회를 열고 고검검사급(차장·부장검사급) 검사 인사와 평검사 인사 원칙 등을 심의했다.&lt;br /&gt;&lt;br /&gt;검찰 내부망인 이프로스에 공개된 심의 결과에 따르면 인사위는 사법연수원 35기 검사를 차장검사에, 38·39기는 부장검사에, 40기는 부부장검사에 각각 신규 보임하기로 했다.&lt;br /&gt;&lt;br /&gt;인사위는 "대검검사급(검사장급) 검사 신규 보임 및 사직 등에 따른 공석을 충원하는 등 기존 인사 기조에 따라 적재적소 인사를 실시한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;일반 검사 인사는 필수보직 기간을 충족한 검사를 대상으로 하되, 유임 희망을 반영해 하반기 인사 규모를 최소화하기로 했다.&lt;br /&gt;&lt;br /&gt;인사위는 "경향교류 원칙, 지방청 권역별 분산배치 등 인사원칙과 기준을 준수하되, 출산·육아 목적 장기근속제도 등을 통해 개별 사정에 따른 고충 및 희망을 인사에 반영하겠다"고 했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 20 Aug 2025 09:16:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210672</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210672</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'판결문 공개 확대' 첫 헌법소원, 전원재판부 회부</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210671.jpg" alt="54654748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;헌법소원청구인단 박지환 변호사, 김정희원 교수, 송민섭 활동가(김정희원 교수 페이스북)&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원의 '판결문 열람 시스템'을 둘러싼 헌법소원 사건이 헌법재판소 전원재판부에 회부되면서 본격 심리에 들어갔다. &lt;br /&gt;&lt;br /&gt;김정희원 애리조나주립대 교수 등 4명은 '판결문 열람 시스템'으로 기본권을 침해당했다며 6월 13일 헌재에 '판결문 검색·열람을 위한 특별창구의 설치 및 이용에 관한 내규 제2조 제1항 위헌확인'을 청구했다(&lt;b&gt;2025헌마740&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;제한적인 판결문 열람 시스템을 두고 포괄적인 문제 제기가 이뤄진 건 이 사건이 처음이다.&lt;br /&gt;&lt;br /&gt;헌법 제109조가 "재판의 심리와 판결은 공개한다"고 규정하고 있음에도, 정작 판결 내용이 담긴 판결문을 일반 국민이 열람할 수 없도록 하는 현 제도는 위헌이라는 것이 청구인단의 주장이다.&lt;br /&gt;&lt;br /&gt;판결문 공개 확대는 시민의 사법 서비스 접근성을 높이기 위한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령의 공약 중 하나이기도 하다.&lt;br /&gt;&lt;br /&gt;현재 판결문을 확인할 수 있는 방법은 △사건번호를 알아야 신청할 수 있는 '판결서 사본 제공 신청' △경기도 고양시에 있는 법원도서관 방문 △판결서 인터넷 열람시스템 이용 등 크게 세 가지다. &lt;br /&gt;&lt;br /&gt;그러나 제약이 많다. 법원도서관은 전국에 단 한 곳뿐이며 사전 예약을 해야 하고 열람 대상자도 제한된다. 사건번호 외에는 메모도 허용되지 않는다. 인터넷 열람시스템의 경우 등록된 판결문 자체가 적을뿐더러, 비실명화 과정에서 이름과 법인명 등이 모두 알파벳으로 대체돼 키워드 검색이 사실상 불가능하다는 지적이 나온다.&lt;br /&gt;&lt;br /&gt;김정희원 교수는 20일 자신의 페이스북에 전원재판부 회부 소식을 알리며 "정부도 판결문 공개 의지가 상당히 강하기 때문에 올해가 판결문 공개에 있어 중요한 분기점이 될 것으로 본다"며 "모든 문제 요소를 헌법소원에서 다룰 수는 없지만, 그 외의 부분은 정책적으로 개선책이 마련될 것이라 기대한다"고 밝혔다.</description>
-			<pubDate>Wed, 20 Aug 2025 09:03:33 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210671</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210671</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210671.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
