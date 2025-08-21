@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 여사, 오후 5시 30분 특검 조사 종료...23일 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/MSZ2EJ5KKBDIBGITNBUOXODQHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/MSZ2EJ5KKBDIBGITNBUOXODQHA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:35:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEFJIM6M3FLB5J5ABKV7SAT62U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구속된 김건희 여사를 태운 호송차가 21일 오후 소환조사를 위해 서울 종로구에 마련된 김건희 특검팀 사무실로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에 대한 민중기 특별검사팀의 구속 후 세 번째 조사가 약 4시간 만에 종료됐다. 특검은 김 여사를 23일 재소환해 조사를 이어갈 예정이다. &lt;br&gt;&lt;br&gt;21일 민중기 특별검사팀은 김 여사에 대한 조사가 오후 6시 24분 종료됐다고 밝혔다. 김 여사는 이날 오후 2시 12분 서울 광화문 KT웨스트빌딩에 위치한 특검 사무실에 출석해 조사를 받았다. 김 여사에 대한 조사는 오후 5시 30분 종료됐으며, 조서 열람은 오후 6시 24분 종료됐다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘건진 법사’ 전성배씨 청탁 의혹 관련 조사를 진행했다. 김 여사는 대부분의 질문에 진술거부권을 행사한 것으로 전해졌다. 특검은 이날 100여장 분량의 질문지를 준비한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 여사는 이날 오전 서울남부구치소에서 대면 진료를 받은 뒤 특검 사무실에 출석했다. 당초 특검은 전날 김 여사를 조사하려 했지만, 김 여사 측이 건강 문제를 호소하며 일정이 하루 밀렸다. &lt;br&gt;&lt;br&gt;특검은 김 여사를 23일 오전 10시 재소환해 구속영장 범죄사실 관련 조사를 이어나갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>필리핀서 12억원 상당 마약 밀수 일당 5명 구속 </title>
+      <link>https://www.chosun.com/national/2025/08/21/W4E73KPP6BCB3DPEQDPEYZ5PKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/21/W4E73KPP6BCB3DPEQDPEYZ5PKI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:51:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJWM37HOYRC5LI3S6L4GIINN5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 마약. /부산 북부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀 세부에서 12억원 상당의 마약을 국내로 밀수한 뒤 ‘던지기’ 수법으로 운반한 일당이 검거됐다.&lt;br&gt;&lt;br&gt;부산 북부경찰서는 마약류관리법 위반(향정) 혐의로 30대 여성 A씨 등 5명을 검찰에 구속 송치했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난 3~4월 텔레그램을 통해 상선으로부터 지시를 받고 부산 일대 아파트와 인적이 드문 등산로 등에 마약을 숨겨둔 뒤 장소를 알려주는 이른바 ‘던지기’ 수법으로 마약을 유통한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들의 범행은 시민 신고로 들통났다. 버스 기사 B씨가 지난 3월 23일 북구 한 등산로 샛길로 퇴근하던 중 종이 상자를 발견했다. 그는 상자 안에서 테이프로 감싼 수상한 물체가 마약으로 의심돼 경찰에 신고했다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰이 국립과학수사연구원에 해당 물체에 대한 감정을 의뢰한 결과 필로폰으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 등산로 입구 주변 방범카메라(CCTV) 분석 등을 통해 마약 밀반입책과 수거책, 모집책 등 5명을 잇따라 검거했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 지난 3월 필리핀 세부에서 비행기를 통해 마약을 밀반입한 것으로 드러났다. 이들이 밀수한 마약류는 시가 12억원 상당의 케타민 2kg과 필로폰 110g으로, 4만3600여 명이 동시에 투약할 수 있는 양이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “모집책이 고액 알바를 미끼로 다른 피의자들을 범행에 끌어들였으며, 운반책들은 자신이 가져온 물건이 마약인 줄 몰랐다고 주장하고 있다”면서 “현재 상선 등에 대한 수사를 이어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>멋쟁해병 멤버 ‘임성근 만남’ 국회 허위 증언 정황</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/5NOERFE7CNAXNPGJQMGS6MMPE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/5NOERFE7CNAXNPGJQMGS6MMPE4/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:15:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMY7PK6SYRFMTI52ASRQ2IONJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 임성근 전 해병대 1사단장과 '멋쟁해병' 멤버 송모씨가 함께 있는 모습. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹에 연루된 경호처 출신 ‘멋쟁해병’ 멤버 송모씨와 임 전 사단장이 지난 2023년 12월 만난 정황을 포착했다.&lt;br&gt;&lt;br&gt;앞서 송씨가 국회에서 구명 로비 의혹 관련 질문에 “2023년 말 임 전 사단장을 만난 적 없다”고 증언한 내용과 배치되는 증거가 나온 것이다. 송씨는 “날짜 착오”라는 입장이다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 해병 특검은 지난달 송씨에 대한 압수 수색을 통해 송씨와 임 전 사단장이 함께 찍은 사진을 확보했다. 두 사람이 나란히 앉아 웃고 있는 이 사진은 지난 2023년 12월 23일 촬영됐다고 한다.&lt;br&gt;&lt;br&gt;송씨는 이종호 전 블랙펄인베스트 대표 등 해병 출신으로 구성된 ‘멋쟁해병’의 멤버로, 이 전 대표와 함께 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹을 받는다. 2023년 7월 고 채수근 상병 사망 사고가 발생한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자, 이 전 대표가 친분이 있는 김건희 여사에게 구명을 청탁했다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 송씨는 작년 10월 국회 법제사법위원회 고위공직자범죄수사처 국정감사에 출석해 “2023년 연말에 임 전 사단장을 만난 적 있느냐”는 장경태 의원의 질문에 “없다”고 답했다. 특검이 확보한 사진과 배치되는 증언이다.&lt;br&gt;&lt;br&gt;이날 언론에 사진이 공개되고 위증 논란이 불거지자, 송씨는 본지에 “임 전 사단장이 (채 상병 사건 이후) 사단장에서 물러난 뒤 위로차 식사하며 찍은 사진”이라며 “2024년 2월쯤 만났다고 기억했는데 최근 특검 포렌식 과정에서 2023년 12월인 것을 알게 됐다”고 해명했다. 해당 모임에는 임 전 사단장과 멋쟁해병 멤버 최모 경위 등이 참석했고, 이 전 대표는 없었다고 한다. 송씨는 “특검에도 같은 취지로 설명했다”고 말했다.&lt;br&gt;&lt;br&gt;한편 특검은 지난 18일 송씨를 상대로 약 7시간 동안 참고인 조사를 진행했다. 특검은 송씨를 상대로 임 전 사단장과의 관계 등에 대해 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경호처 서기관 김민수 입니다”... 사장님, 이런 전화는 의심부터</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/OFZXLQTQFRAH7M6K7BRZB34YHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/OFZXLQTQFRAH7M6K7BRZB34YHM/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 08:58:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV7HJH4ZH4LPJSIVY4QGAZVE7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노쇼 사기 방지 포스터/용산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서는 최근 대통령실 인근에서 경호처 등을 사칭한 ‘노쇼’(예약 부도) 사기가 발생한 데 대해 피해 예방 홍보 등 적극적으로 대응하고 있다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난 5일 ‘대통령 경호처 경호본부 서기관 김민수’라고 자신을 소개한 한 남성이 용산구에 위치한 민어 전문 식당에 120만원 상당의 요리를 주문했다. 점주 A씨는 주문대로 민어를 구입해 요리했으나 뒤늦게 사기임을 인지한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 용산서는 다각도로 수사를 진행하고 있다고 밝혔다. 또한 용산구청과 협조해 요식업 업주 대상으로 보이스피싱 예방 문자를 발송했다. &lt;br&gt;&lt;br&gt;관할 구역인 용산 삼각지파출소에서도 노쇼 피해 방지 포스터를 별도로 제작하는 등 피해 방지에 적극 나서고 있다. &lt;br&gt;&lt;br&gt;한편 용산서는 사기가 의심될 경우 해당 공공기관이나 관할 경찰서, 구청 등에 문의∙신고할 것을 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘아파트 흡연장 이웃 살인’ 최성우, 2심도 징역 30년</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/OV66WEVRLZBGTEYPJY3Y7Y4Z2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/OV66WEVRLZBGTEYPJY3Y7Y4Z2Y/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:20:10 +0000</pubDate>
+      <content:encoded>아파트 흡연장에서 이웃 주민을 때려 숨지게 한 혐의로 기소된 최성우(29)가 2심에서도 징역 30년을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EO7W5GLDGHMMCYSV5OY2S6DO6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중랑구 아파트 흡연장 살인사건 최성우. /서울북부지검 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사12-1부(재판장 홍지영)는 21일 살인 등 혐의로 기소된 최성우에게 1심과 같이 징역 30년에 보호관찰 5년을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “피해자가 최성우나 그의 어머니에게 위협을 가했다고 볼 수 없거나 실체가 없다”면서 “사소한 언행에도 부정적인 동기가 있는 것으로 의심하고, 객관적 근거 없이 자의적으로 해석하는 등 피고인의 편집증적 양상을 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;최성우는 지난해 8월 20일 서울 중랑구의 한 아파트 흡연장에서 우연히 마주친 70대 남성의 이웃 주민을 무차별적으로 폭행해 숨지게 한 혐의로 기소됐다. 피해자의 얼굴과 머리 등을 주먹으로 수십 차례 때리고, 조경석에 피해자의 머리를 내리찍기도 한 것으로 조사됐다. 피해자는 병원 이송 1시간 만에 숨졌다.&lt;br&gt;&lt;br&gt;최성우는 경찰 조사에서 “피해자와 쌓인 게 많았다”고 진술했지만, 수사 결과 피해자가 자신과 어머니에게 위해를 가한다는 망상에 빠져 범행을 저지른 것으로 드러났다. 검찰은 지난해 9월 신상 정보 공개 심의위원회 결정으로 최성우의 실명과 나이, 얼굴 사진 등을 공개했다.&lt;br&gt;&lt;br&gt;앞서 1심은 “범행 후 적극적인 응급 조치를 하거나 제3자에게 도움을 요청하지 않고 태연히 흡연하는 등 죄책감을 보이지 않았다”면서 최성우에게 징역 30년에 보호관찰 5년을 선고했다. 이날 2심도 “1심 판단이 재량의 합리적 범위를 벗어났다고 볼 수 없다”며 같은 형량을 유지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헌재, 조지호 경찰청장 탄핵심판 내달 9일 첫 변론</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/YVN5THL3YVFCZA5X2QBC6HHLSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/YVN5THL3YVFCZA5X2QBC6HHLSQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:11:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7DKIKA5TNOIDEIFNF6TICBBYY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 지난 2월 20일 서울 종로구 헌법재판소 대심판정에서 열린 윤석열 대통령 탄핵심판 10차 변론에서 증인으로 출석해 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조지호 경찰청장의 탄핵심판이 다음달 본격적으로 시작된다. &lt;br&gt;&lt;br&gt;헌법재판소는 오는 9월 9일 오후 3시 대심판정에서 조 청장 탄핵심판 첫 변론기일을 연다고 21일 밝혔다. 앞선 세 차례 변론준비기일은 수명재판관으로 지정된 정정미·조한창 재판관만 참여했으나 정식 변론부터는 9명의 재판관이 모두 심리에 참여한다.&lt;br&gt;&lt;br&gt;조 청장은 윤 전 대통령의 비상계엄에 가담해 국회를 봉쇄하고 중앙선거관리위원회 시설을 불법 압수 수색했다는 사유 등으로 작년 12월 12일 국회에서 탄핵소추됐다. 경찰청장이 탄핵소추로 직무가 정지된 것은 조 청장이 처음이다.&lt;br&gt;&lt;br&gt;앞선 변론준비기일에서 헌재는 조 청장 탄핵소추 사유를 세 가지로 정리했다. &amp;nbsp;△비상계엄 선포 직후 국회 출입을 통제해 국회 계엄해제요구권과 심의·표결권을 침해한 것 △중앙선거관리위원회 청사와 선거연수원 등에 경찰 인력을 보내 불법 압수수색을 벌인 것 △전국노동자대회를 과잉 진압해 집회·시위의 자유를 침해한 것 등이다. 국회 측은 애초 형법상 내란죄와 직권남용죄도 소추 사유로 포함했다가 철회했다.국회 측은 애초 형법상 내란죄와 직권남용죄도 소추 사유로 포함했다가 철회했다.&lt;br&gt;&lt;br&gt;조 청장 측은 “계엄 당시에는 국회 통제 등 대통령 지시의 위헌·위법 여부를 명백하게 판단할 상황이 아니었다”며 “기존 치안 유지 수준에서 소극적으로 지시에 따르는 조치를 취했다”고 주장했다. 또 “윤 전 대통령이 오랜 기간 군 충성파와 비상계엄을 논의해온 것으로 추정되는 것과 달리, 경찰은 전혀 사전에 공모한 바 없다” “국회 월담을 사실상 방치해 국회의 계엄해제 의결을 도왔다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 “새 경찰복, 기능성과 디자인 통일 우선한 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/2V6MJG37LBHP3HOYWDSMCOQ3EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/2V6MJG37LBHP3HOYWDSMCOQ3EU/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 09:00:33 +0000</pubDate>
+      <content:encoded>경찰이 창설 80주년을 맞이해 진행 중인 제복 개선 사업에 대해 “기능성과 편의성, 복장 간의 통일성을 우선했다”고 밝혔다. 지난달 말 공개된 시제품에 대해 온라인 커뮤니티 등에서 부정적 평가가 나온 것에 대해 입장을 밝힌 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSGMFKX6HRJXPAT3BLQGBEKLLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 서울 서대문구 경찰청에서 새 경찰복 시제품에 대한 시민 품평회가 열리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 21일 “기본 근무복을 제외한 외근 복장(점퍼류, 모자, 조끼)을 개선하고 있다”고 했다. 지난해 시민과 경찰관을 대상으로 한 설문조사에서 이들 복장의 편의성과 디자인이 특히 낮은 점수를 받았기 때문이다. 점퍼와 조끼는 부피와 길이가 서로 맞지 않아 불편하고, 디자인 역시 트래킹 신발인 순찰화와 양복에 가까운 근무복 바지가 색상이나 형태가 잘 어울리지 않는다는 등의 지적이 나왔다고 한다.&lt;br&gt;&lt;br&gt;복제 개선 작업에 나선 경찰청은 지난달 말부터 현직 경찰관을 대상으로 새로운 복장 시제품에 대한 품평회를 개최했다. 이 과정에서 경찰관이 일부 시제품을 착용한 사진이 온라인 커뮤니티에 올라왔는데, “작업복 같다”와 같은 혹평이 쏟아졌다. 이에 따라 경찰은 품평회 대상을 일반 시민까지 확대해 의견을 수렴하고 있다.&lt;br&gt;&lt;br&gt;현재 근무복 색상인 청록색에 대해서도 불만이 제기되고 있다. 검정색이나 남색 등을 선호하는 의견이 많기 때문이다. 이에 대해 경찰은 “설문 조사 결과 경찰 내부적으로는 검정색이나 남색이 청록색에 비해 선호도가 높았지만, 국민들에게선 현행 복장을 선호하는 응답이 31.5%로 남색(20.2%), 하늘색(17.8%)보다 높게 나타났다”고 했다. &lt;br&gt;&lt;br&gt;색상 교체에 들어가는 비용은 약 500억원으로 추산된다. 이에 따라 경찰은 근무복 색상은 당장 교체하지 않고, 추후 심층 연구를 통해 국민과 경찰의 선호 색상을 다시 확인하겠다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 車부품공장서 적재물에 깔려 1명 숨져... 중대재해법 적용 대상</title>
+      <link>https://www.chosun.com/national/regional/2025/08/21/UVG2LDMUBJD7VKUZ5NWGS6JLJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/21/UVG2LDMUBJD7VKUZ5NWGS6JLJM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 08:40:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSTTFN7WL66GZZV7AKIWEGBMHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 지역 한 자동차 부품 제조공장에서 50대 근로자가 적재물에 깔려 병원으로 옮겨졌으나 치료 중 숨졌다. &lt;br&gt;&lt;br&gt;21일 대구 달서경찰서 등에 따르면 지난 18일 오전 11시쯤 달서구 월암동의 한 자동차 부품 제조공장에서 50대 근로자 A씨가 지게차에서 떨어진 적재물에 깔렸다. A씨는 지게차를 이용해 옮기던 적재물이 기울자 이를 몸으로 막기 위해 나섰다가 변을 당했다고 한다. 이후 A씨는 인근 병원으로 이송돼 치료를 받았지만, 지난 20일 저녁 숨졌다. &lt;br&gt;&lt;br&gt;이 회사는 직원 수가 80여 명으로, 중대재해 처벌 등에 관한 법률 적용 대상이다. &lt;br&gt;&lt;br&gt;경찰은 사고 당시 안전 수칙 등을 제대로 지켰는지 등에 대해 수사를 벌이고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “갑질 논란 대기업 감사팀 전직 직원 징계는 정당” </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/DXPX2EZXLRDSJKISP7FYEGEMUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/DXPX2EZXLRDSJKISP7FYEGEMUU/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 08:29:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6OV3ZK4EOCL5LIGDV6I4ETNME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2020년 청와대 국민청원 게시판, 커뮤니티 등에서 갑질 논란이 일었던 대기업 감사팀 전직 직원이 “정직 2주의 징계 처분은 무효”라며 해당 기업을 상대로 제기한 소송에서 패소했다. 법원은 해당 직원이 실제로 갑질 행위를 했고 이에 대한 징계 처분이 정당하다고 봤다.&lt;br&gt;&lt;br&gt;서울남부지법 민사13부는 지난 11일 5대 기업 감사팀에서 재직했던 전 직원 A씨가 해당 기업에 제기한 부당징계 무효 소송에서 A씨의 청구를 기각했다. 2020년 당시 이 기업은 A씨가 갑질 의혹을 받자 A씨에게 정직 2주의 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;A씨의 갑질은 지난 2020년 사내 커뮤니티 게시판에 올라온 뒤 청와대 국민청원 게시판, 각종 커뮤니티 등을 통해 알려졌다. 당시 국민청원 게시판에 A씨에 대한 글을 올린 청원인은 “A씨가 감사를 받는 직원을 1990년 경찰이 범법자 취조하듯이 했다”며 “윽박지르고, 욕하고, 볼펜 던지고, 프린트물을 던졌다”고 적었다.&lt;br&gt;&lt;br&gt;또한 A씨는 “이 양반 정말 재밌는 양반이네” “대답을 좀 똑바로 하시지” “미치겠다. 야, 말도 안 되네” 등의 폭언을 했다는 의혹을 받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SU6GGET6I5AB7NXIXPS5IUDZHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 “A씨는 이 사건 과정에서 피조사자들에게 고압적인 태도로 훈계하거나 진술을 강요했고 반말을 사용하며 소리를 지르는 등 피조사자를 조롱하고 자신이 불러준 바를 진술서에 적을 것을 요구했다고 볼 수 있다”고 했다. A씨의 갑질이 실제로 이뤄졌다고 본 것이다.&lt;br&gt;&lt;br&gt;또한 재판부는 “정직 처분이 과도하다”는 A씨의 주장 또한 받아들이지 않았다. “해당 기업이 A씨의 정직 처분 직전 10년 동안 유사 사안에 대해 한 징계 처분 결과를 보면, 강직이 4건, 정직이 16건, 근신이 8건, 견책이 3건, 경고가 3건”이라며 “이 사건의 정직 처분이 선례에 비해 과도하거나 이례적인 처분이라고 평가할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 해당 기업은 A씨에게 정직 2주의 징계 처분을 내렸고 A씨는 이에 불복해 법원에 부당징계 무효 소송까지 냈으나 패소한 것이다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 2023년 3월 해고됐다. 해고 사유는 직장 내 괴롭힘 행위, 허위 사실·유언비어 유포, 근태 불량, 근태 허위기재 등이었다. A씨는 해고 조치에 대해서도 소송을 내 서울행정법원에서 재판이 열리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서울 마지막 달동네’ 백사마을, 3178가구 대단지로</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/GO7CHMXTCBCCFL53ZTDCSSP4EU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/GO7CHMXTCBCCFL53ZTDCSSP4EU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 08:21:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIAQJPHAAJHS3ICJIYJXUJUXKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 5월 8일 오전 서울 노원구 백사마을의 모습. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘서울의 마지막 달동네’로 불리는 노원구 중계본동 ‘백사마을’이 3178가구 규모의 대단지 아파트로 바뀐다. 1960년대 청계천 판자촌에 살던 주민들의 이주로 마을이 형성된 지 60여 년 만이다.&lt;br&gt;&lt;br&gt;서울시는 21일 백사마을을 최고 35층 26개 동 3178가구(임대 565가구) 아파트 단지로 조성하는 내용의 ‘노원구 중계본동 30-3번지 일대 재개발 정비계획변경안’을 최종 고시했다. 올해 하반기 착공, 2029년 상반기 준공이 목표다.&lt;br&gt;&lt;br&gt;백사마을은 불암산 동쪽 끝자락에 자리 잡은 마을이다. 1960년대 서울 도심 개발로 청계천에 살던 주민들이 밀려나며 우후죽순 모여든 곳이 지금의 마을이 됐다. 과거 주소 체계로 ‘중계동 산 104번지’ 일대였다. 지번이 마을 이름이 됐다.&lt;br&gt;&lt;br&gt;서울시가 2008년 개발제한구역(그린벨트)을 풀고 이듬해 주택 재개발 정비 구역으로 지정했다. 그러나 사업성이 낮아 재개발에 시간이 걸렸다. 사업 시행자 변경 등으로 16년간 사업이 지연됐다. 서울시는 사업성을 끌어올리기 위해 종전 2437가구에서 741가구를 더 늘렸다.&lt;br&gt;&lt;br&gt;임대주택은 해당 정비구역의 철거 세입자 중 임대주택을 신청한 200세대에게 공급된다. 나머지는 서울시에서 시행되는 재개발 사업 철거 세입자 등에게 공급된다. 현재 마을 주민 98%가 이주했다. 나머지는 오는 9월까지 이주 예정이다. 철거 공정은 올해 11월 완료가 목표다. 현재 진행률은 약 65%다.&lt;br&gt;&lt;br&gt;백사마을엔 단지 내에 분양 주택과 임대 주택을 함께 조성하는 ‘소셜 믹스’가 도입된다. 서울시는 “다양한 소득 수준과 사회적 배경을 지닌 거주민들이 동일한 생활권에서 어울려 거주하면서 주거 격차로 인한 계층 분화와 차별을 완화하는 데 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>극한 가뭄 겪는 강릉… 23일 대관령에서 ‘기우제’ 지낸다</title>
       <link>https://www.chosun.com/national/regional/gangwon/2025/08/21/ORWH2VKUMNF5BHMNEKJLYIYSKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/08/21/ORWH2VKUMNF5BHMNEKJLYIYSKI/</guid>
@@ -774,42 +864,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2DL4QMOA5B6DD5CIXHIJJCVIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 정평이 나 있다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/21/GCPEWPZPEZCNRMDMWK5XWGPCQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/21/GCPEWPZPEZCNRMDMWK5XWGPCQ4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPJCQSX42VFAXLYMCUZQRS6REM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2688] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/21/JIZRFK5MBZAPZICS5ZIOMIWUGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/21/JIZRFK5MBZAPZICS5ZIOMIWUGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HGGJIYSLCBARNP73KR646QR3LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] get behind</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/21/ZDVYRAY7RJHILJORWVSRMXWFM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/21/ZDVYRAY7RJHILJORWVSRMXWFM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PHZ27TRIFH6DP4MIDHSKM2ZNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>암울했던 폐광지 태백·삼척...7000억대 프로젝트로 미래첨단산업도시로 </title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/08/20/LFPADPKI7VH6RHFKSCE7BGHSV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/08/20/LFPADPKI7VH6RHFKSCE7BGHSV4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 13:54:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HABDQESYZDJDFJOT3NTY7L47I.webp"&gt;&lt;figcaption&gt;&lt;small&gt;김진태(오른쪽 두번째) 강원지사가 20일 도청에서 폐광지역 경제진흥사업이 예비타당성 조사를 통과를 환영하는 입장을 밝히는 기자회견을 열었다./강원도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 남부 폐광 지역인 태백과 삼척의 석탄 산업을 대체하고 회생을 위한 7000억원대 사업이 추진된다. &lt;br&gt;&lt;br&gt;강원특별자치도는 ‘태백·삼척 경제진흥사업’이 기획재정부 주관 2025년도 제8차 재정사업평가위원회에서 예비 타당성 조사(예타)를 통과했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;총사업비 7143억원이 투입되는 이번 사업은 태백과 삼척의 조기 폐광에 따른 경제적 피해를 최소화하고, 대체 산업을 육성해 새로운 일자리와 인프라를 마련하고자 추진됐다. &lt;br&gt;&lt;br&gt;태백과 삼척의 조기 폐광에 따른 경제적 피해를 최소화하고 지속 가능한 고부가가치 대체 산업을 육성해 새로운 일자리와 인프라를 조성하고자 추진됐다.&lt;br&gt;&lt;br&gt;태백시는 3540억원을 들여 석탄 중심 도시에서 ‘무탄소 에너지 도시’로 전환을 추진한다. &lt;br&gt;&lt;br&gt;폐광한 장성광업소 부지에는 청정 메탄올 생산기지, 고터실 산업단지 인근에는 핵심 광물 산업단지를 조성한다. 철암역 인근에는 물류 시설과 근로자 주택 단지를 배치해 미래 자원 클러스터를 구축할 계획이다. &lt;br&gt;&lt;br&gt;청정 메탄올은 바이오매스와 재생에너지로 생산되는 차세대 친환경 연료이다. 해운 분야의 탄소 규제에 대응할 수 있는 대체 연료로 주목받는다. &lt;br&gt;&lt;br&gt;핵심 광물 산업단지는 폐배터리 등에서 니켈, 코발트, 리튬, 희토류 등 첨단산업 필수 광물을 재자원화하는 핵심 광물 산업단지는 국가 핵심 광물 공급망 안정화에 기여할 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;이와 함께 삼척시에는 3603억원을 투자해 광산도시에서 ‘의료 클러스터’로 탈바꿈을 시도한다. .&lt;br&gt;&lt;br&gt;도계광업소 부지에 암세포를 정밀 파괴하는 첨단 의료기기 중입자 가속 암 치료 시설을 구축한다. 이 시설은 국내에는 연세암병원만 유일하게 운영 중인 시설이다. &lt;br&gt;&lt;br&gt;완공 시 지역·공공 의료 서비스의 질적 향상과 함께 체류형 치유·관광 벨트 확장에도 크게 도움이 될 것으로 예상된다.&lt;br&gt;&lt;br&gt;도는 폐광지역 경제진흥사업이 2023년 12월 예타 대상으로 선정된 이후 지역구 국회의원실과 태백·삼척과 협력해 중앙부처와 유관기관에 필요성과 타당성을 적극 설명했다. &lt;br&gt;&lt;br&gt;김진태 지사는 “태백은 최첨단 청정에너지 도시로, 삼척은 중입자 가속기를 기반으로 한 첨단 의료 클러스터로 거듭나게 된다”며 “과거 목숨을 걸고 갱도로 들어가던 탄광이 이제는 사람의 생명을 살리는 최첨단 의료 도시로 변모하는 상징적인 변화”라고 말했다. &lt;br&gt;&lt;br&gt;한편 강원도는 1989년 정부의 석탄산업 합리화 정책 시행 후 사양길로 접어든 폐광 지역의 현실을 고려해 국가 차원의 대체 산업 육성 지원이 꼭 필요하다는 입장을 거듭 피력해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 “특검이 모욕감 줘 안 좋은 선택 유도하는 것 같다”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/20/JBM6H4K26JBQHKHG4Y2SMBOYRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/JBM6H4K26JBQHKHG4Y2SMBOYRE/</guid>
@@ -826,42 +880,6 @@
       <description/>
       <pubDate>Wed, 20 Aug 2025 11:55:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKOYSTVHQ6F6ARJDBDRWBYX4BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사가 통일교 전 세계본부장 윤영호씨와 대선 직후 통화하면서, 윤씨에게 “통일교의 교회와 학교, 기업체가 대선에 총동원됐다”는 취지의 말을 듣고 “애 많이 써줘서 고맙다”고 말한 녹취를 확보한 것으로 20일 전해졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 여사는 20대 대선에서 윤석열 전 대통령이 당선된 직후인 2022년 3월 30일 윤씨와 ‘건희2′ 휴대전화로 통화하면서 이 같이 답했다고 한다. 윤씨가 당선을 축하한다며 통일교의 기여를 말하자, 김 여사가 호응한 것으로 해석될 수 있는 대목이다. 특검은 이러한 녹취를 토대로 김 여사가 통일교로부터의 조직적인 대선 지원 사실을 인지했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 네 달 뒤인 7월 15일에도 윤씨와 통화하면서 “선거 때 많이 도와줬는데 조금만 더 도와달라”는 취지로 말한 정황도 확보했다고 한다. 이날 김 여사가 윤씨에게 “인삼차 잘 받았다. 먹었더니 몸이 저절로 좋아지는 것 같다”고 전화로 말한 정황이 앞서 드러난 바 있다.&lt;br&gt;&lt;br&gt;그러나 김 여사 측은 대선 당선 후 있었던 수많은 축하 연락을 받으면서 인사치레로 건넨 말이라고 반박한다. 통일교 뿐만 아니라 여러 종교 관계자들로부터 비슷한 취지의 전화를 받고 있었고, 이들의 구체적인 지원 여부 등을 알지 못한 채 “감사하다”는 취지로 답했다는 얘기다. 특검이 의심하는 6000만원대 그라프 목걸이 및 1000만원 안팎 샤넬 가방 2개를 수수했다는 의혹에 대해서도 수수한 사실이 없다고 주장한다.&lt;br&gt;&lt;br&gt;김 여사는 오는 21일 오후 2시 특검에 출석해 ‘건진법사 청탁’ 의혹 관련 조사에 임할 계획이다. 특검의 김 여사 조사는 이번이 네번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>치매 앓던 80대 아내 둔기로 내려치고 자수한 80대 男... 현행범 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/20/QXGQT7JQSNFL7JVLPMFMN2TVBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/QXGQT7JQSNFL7JVLPMFMN2TVBI/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 12:04:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3SY3ZGSV5LWK7YR63VSMCV7JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매로 투병 중이던 아내의 머리를 둔기로 내려친 남편이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 치매를 앓는 아내를 살해하려 한 혐의(살인미수)로 70대 남성 A씨를 체포해 조사 중이라고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 19일 오후 8시 40분쯤 서울 동대문구의 한 아파트에서 80대 아내의 머리를 둔기로 두 차례 내리친 혐의를 받는다. A씨는 범행 후 경찰에 자수했고 현행범으로 체포됐다. 피해자는 병원으로 이송됐으나 생명에 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신평 “김건희, ‘서희건설이 정권과 짜고 우릴 죽이려 한다’고 말해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/20/KG7G2FU3OBHVNILIMURGKDRU4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/20/KG7G2FU3OBHVNILIMURGKDRU4A/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 12:05:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQWROJBOBD7HH6FGWSRT5252E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이봉관(왼쪽) 서희건설 회장과 김건희 여사. 지난 2022년 6월 스페인 마드리드에서 열린 북대서양조약기구(나토) 정상회의 순방 당시 김건희 여사가 서희건설 측으로부터 받은 것으로 추정되는 6000만원대 반클리프앤아펠 목걸이를 착용하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수감 중인 김건희 여사가 신평 변호사와의 접견에서 “서희건설이 정권과 짜고 우리를 죽이려 한다”라고 말한 것으로 20일 전해졌다. 특검 수사가 부당하게 이뤄지고 있다는 취지다. 신 변호사는 윤석열 전 대통령의 ‘멘토’로 알려진 인물이다.&lt;br&gt;&lt;br&gt;이날 신평 교수는 본지와의 통화에서 “김 여사가 전날 접견에서 이같이 말했다”고 밝혔다. 실제로 서희건설 이봉관 회장으로부터 수천만원대 목걸이 등을 받은 적이 없는데도 이 회장이 거짓말을 하고 있다는 취지다. 앞서 이 회장은 김건희 특검팀에 ‘김 여사에게 맏사위 인사청탁을 위해 6000만원대의 반 클리프 목걸이 등 귀금속을 건넸다’라는 내용의 자수서를 제출한 바 있다.&lt;br&gt;&lt;br&gt;신 변호사에 따르면, 김 여사는 이 회장이 국가조찬기도회 회장직을 맡고 있어 교류를 했다고 한다. 신 변호사는 “김 여사에게 어쩌다 이 회장과 가깝게 지냈는지 물어보니, ‘기도회장을 맡고 있어 신앙심이 깊은 종교계 원로라고 생각했다’라고 답했다”라고 설명했다. &lt;br&gt;&lt;br&gt;앞서 이날 오전 신 변호사는 자신의 페이스북에 김 여사 접견 사실을 밝히면서 “김 여사가 접견실 의자에 앉자마자 ‘선생님, 제가 죽어버려야 남편에게 살 길이 열리지 않을까요?’라고 말했다”고 썼다. 또 김 여사는 신 변호사와 대화하면서 “한동훈(전 국민의힘 대표)이 어쩌면 그럴 수가 있었겠느냐”는 한탄도 했다고 한다. 신 변호사는 “많이 어렵겠지만 그를 용서하도록 노력해 보라고 권했다”고 썼다.&lt;br&gt;&lt;br&gt;증거인멸 우려를 이유로 지난 12일 서울남부구치소에 구속된 김 여사는 오는 21일 오전 구치소 내에서 대면 진료를 받은 뒤 오후 2시부터 특검에 출석할 예정이다. 특검은 이날 “김 여사의 구속 기간이 오는 31일까지 연장됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>실종된 30세 소방대원… 10일 만에 숨진채 발견</title>
-      <link>https://www.chosun.com/national/incident/2025/08/20/WI7TYZJMLZCIPBQ3VAC5SYDN6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/20/WI7TYZJMLZCIPBQ3VAC5SYDN6Y/</guid>
-      <dc:creator>인천=이현준 기자, 시흥=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 12:07:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VS4HAJ3AI5LLDI3ROQWEVFT5L4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 '핼러윈 참사' 현장 지원 이후 우울증을 앓던 30대 소방대원이 실종된 지 10일 만에 숨진 채 발견됐다. 사진은 이날 오후 A씨가 숨진 채 발견된 경기도 시흥 수도권 제1순환고속도로 교각 아래의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 ‘핼러윈 참사’ 현장에 출동한 뒤 우울증을 앓았던 소방대원이 실종된 지 10일 만에 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;경기 시흥경찰서 등에 따르면, 지난 10일 실종된 소방대원 박모(30)씨가 20일 낮 12시 20분쯤 시흥시 금이동 수도권 제1외곽순환고속도로 교각 아래서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시신은 이미 부패가 심하게 진행된 상태였다”며 “타살 흔적은 없었다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 지난 10일 오전 2시 30분쯤 제2경인고속도로 남인천 톨게이트 근처 갓길에 차를 댄 뒤 사라졌다. 시신이 발견된 곳에서 약 8㎞ 떨어진 지점이다. 박씨의 휴대전화는 인천 남동구 서창동의 한 아파트 근처에서 발견됐다. 박씨는 실종 전날인 지난 9일 오후 5시쯤 여자 친구에게 ‘넌 참 괜찮은 사람이고, 잘 이겨낼 수 있을 거다. 건강 잘 챙기라’는 카카오톡 메시지를 남겼다. &lt;br&gt;&lt;br&gt;박씨는 2022년 핼러윈 참사 구조 현장에 투입된 이후 우울증 등을 겪은 것으로 보인다. 소방 당국에 따르면, 박씨는 지난 4월까지 총 8차례 심리 상담을 받았다. 병원에서 우울증 검사·치료도 4번 받았다고 한다. 박씨 유족은 “핼러윈 참사 직후 우울증 진단을 받고 힘들어했다”고 전했다. &lt;br&gt;&lt;br&gt;박씨는 핼러윈 참사 당시 언론 인터뷰에서 “사망하신 분들이 감당이 안 될 정도였다”며 “희생자들의 부모님은 어떤 마음일까. ‘이게 진짜가 아니었으면’ 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;박씨는 2017년 소방 구급대원이 됐다. 인천의 한 소방서에서 근무했다. 동료들은 “성실하고 원만한 친구였다”고 했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사인을 밝히기 위해 국립과학수사연구원에 부검을 의뢰할 계획”이라며 “우울증 외에 다른 이유가 있는지도 조사할 것”이라고 했다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 핼러윈 참사 등 재난 현장에 투입됐던 소방대원 3300여 명을 대상으로 심리 상담을 실시할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;이재명 대통령은 이날 페이스북을 통해 “상상조차 어려운 고통과 싸우며 이제껏 버텨온 젊은 청년을 생각하니 마음이 미어진다”며 “참사 후유증이 사회 전반의 건강을 위협하는 일이 발생하지 않도록 국가가 책임있게 나서겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>체감 온도 34.1도... 완주 밭에서 일하던 80대 숨져</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/08/20/VEZZRVO2UNHLJOCMFT55LTH5K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/20/VEZZRVO2UNHLJOCMFT55LTH5K4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 11:58:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염이 이어진 전북 완주에서 밭에서 일하던 80대가 쓰러져 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;소방당국 등에 따르면 20일 오후 4시 53분쯤 전북 완주군 봉동읍의 한 밭에서 80대 A씨가 쓰러졌다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;소방대원이 현장에 도착했을때는 이미 A씨는 숨진 상태였다. 소방관들이 확인한 그의 체온은 41도였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;완주 지역에는 지난 15일부터 폭염특보가 발효됐다. 사고가 발생한 이날 하루 완주 최고 체감온도는 34.1도까지 올랐다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘바이든 vs 날리면’ 소송 강제조정… 2심 “외교부, 소 취하하라”</title>
@@ -891,15 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSHTMGTKTZHFPMIOTI22VBDXDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 ‘구명 로비’ 의혹에 연루된 이종호 전 블랙펄인베스트 대표 측이 휴대전화를 한강변에서 파손하는 장면을 목격·촬영하고, 부서진 휴대전화 실물을 확보했다고 20일 밝혔다. 특검은 이 전 대표 측에 대한 탐문 수사 중 증거인멸 범행을 직접 확인했다는 입장인데, 이 전 대표 측은 ‘불법 미행·사찰’이라고 주장한다.&lt;br&gt;&lt;br&gt;해병 특검은 이 전 대표 측근 A씨가 지난달 15일 한강공원에서 휴대전화를 부수고 쓰레기통에 버리는 장면을 확인했다. 당시 A씨가 휴대전화를 발로 세게 밟아 연기가 날 정도로 크게 파손됐다고 한다. 현장에는 이 전 대표도 함께 있었다. 특검 수사관이 이 장면을 직접 촬영했고, 버려진 휴대전화도 수거했다. 특검은 휴대전화 속 내용을 확인하기 위해 포렌식으로 복구하는 작업을 진행 중이다. A씨는 증거인멸 혐의 피의자로 입건됐다.&lt;br&gt;&lt;br&gt;수사관이 사건 관계자가 증거인멸하는 현장을 실시간으로 촬영하는 일은 매우 드물다. 특검은 사전에 확보된 범행 단서를 바탕으로 탐문 수사를 했다는 입장이지만, 법조계에서는 ‘미행 수사’가 이뤄졌을 것으로 본다. 피의자 감시나 증거 확보를 위해 미행하는 것은 수사 실무에서 흔히 쓰는 방법은 아니다. 구체적인 근거 규정이 없는 ‘임의 수사’의 일종이다.&lt;br&gt;&lt;br&gt;앞서 이 전 대표 측은 지난 2일 “해병 특검 수사관이 이 전 대표와 A씨가 탑승한 차량을 미행하고, 다른 지인들과 대화하는 것을 촬영했다. 해당 행위가 적법한 수사인지 즉시 밝히라”고 특검에 요구했다. 그러면서 “영장 등 적법한 근거가 없이 미행을 했다면 민간인 불법 사찰”이라고 주장했다.&lt;br&gt;&lt;br&gt;미행과 탐문을 동원하는 이 같은 특검 수사에 대해 법조계 일각에서는 “인권 침해 소지가 있는 부적절한 수사 방식”이라는 지적이 나온다. 특히 증거인멸 당시 이 전 대표와 측근 A씨는 참고인 신분이었는데, 통상 수사기관이 입건되지 않은 참고인까지 미행하는 경우는 없다고 한다. 한 현직 검사는 “일선 검찰에서도 미행은 피의자를 대상으로만 극히 제한적으로 활용된다”며 “특검이 정보기관도 아닌데 무리하게 수사한 것 아니냐”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PGJZ2SPCNJGCW3YNPP7GAB5JRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검의 정민영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 순직 해병 사건의 중대성과 이 전 대표의 역할 등을 고려하면 미행 수사가 불가피하다는 의견도 있다. 이 전 대표는 친분이 있는 김건희 여사에게 임성근 전 해병대 1사단장의 구명을 청탁했다는 의혹을 받는다. 다른 검찰 관계자는 “미행이 일반적인 수사 기법은 아니지만, 비밀리에 이뤄진 ‘구명 로비’ 의혹의 특성 등을 감안하면 밀착 수사가 필요하다고 판단했을 수 있다”며 “범행 증거를 수집하기 위한 일환으로 본다면 잘못됐다고 단정하긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;수사기관의 미행 수사가 위법인지 아닌지 판단할 기준이나 법령은 존재하지 않는다. 설령 미행이 사생활을 침해할 정도로 이뤄졌더라도 형사 책임을 묻기는 어렵다. 다만 앞서 대법원은 과거 국군보안사령부의 민간인 사찰 관련 국가배상 사건에서 “범죄 수사 등 법령상 직무 범위를 벗어나 민간인의 동향을 감시·파악할 목적으로 사생활 등 정보를 미행·탐문으로 수집·관리한 경우 불법 행위로 봐야한다”고 판결했다. 모든 미행 수사가 정당화될 수는 없다는 것이다.&lt;br&gt;&lt;br&gt;한 법조인은 “법에 요건이 없는 미행 수사를 어디까지 허용해야 할지는 늘 논란이 될 수밖에 없다”며 “범죄 정황 등을 고려해 필요하면 미행을 하더라도 기간과 방식을 제한해 당사자의 기본권 침해를 최소화해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 증거인멸 정황을 근거로 지난달 24일 A씨 자택을 압수 수색해 휴대전화 여러 대를 추가로 확보했다. 이 과정에서 A씨가 김건희 특검이 수사 중인 이 전 대표의 변호사법 위반 혐의 사건에 대한 알리바이를 조작한 증거도 확보했다. 해병 특검 관계자는 “해당 자료를 김건희 특검에 넘겨줬고, 이 전 대표의 구속영장 실질심사 때 증거로 제출됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>올여름 ‘처서의 마법’ 없다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/20/UPRCPJSTLNGSVNFKJCRLEXQEZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/20/UPRCPJSTLNGSVNFKJCRLEXQEZI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 05:49:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFCFC76FDZARPB6QYT5L4JWFI4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 처서를 사흘 앞둔 20일 오전, 부산 강서구 대저생태공원에 팜파스그라스 사이에서 사진을 찍으며 추억을 만들고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름도 ‘처서(處暑)의 마법’은 없을 것으로 보인다. 주말까지 최고 36도를 웃도는 폭염이 예고됐다.&lt;br&gt;&lt;br&gt;20일 기상청에 따르면, 북태평양고기압 가장자리에서 불어오는 뜨겁고 축축한 남서풍의 영향으로 이번 주말까지 찜통더위가 이어지겠다. 주말까지 전국 기온은 최저 22~27도, 최고 30~36도의 분포를 보일 것으로 예보됐다. 특히 서풍 계열 바람이 태백산맥을 넘으며 더 뜨거워지면서 동해안 일대를 중심으로 폭염과 열대야가 기승을 부리겠다.&lt;br&gt;&lt;br&gt;‘모기도 처서가 지나면 입이 삐뚤어진다’는 속담처럼 절기상 처서(8월 23일)가 지나면 더위가 한풀 꺾여왔으나, 온난화 여파로 한여름 무더위가 장기화되고 있는 최근에는 이런 처서의 마법도 통하지 않고 있다. 오는 30일까지 북태평양고기압 영향권 아래서 더위가 계속될 것으로 예상된다. 전국 대부분 지역에 내려진 폭염특보도 이달 말까지 유지될 것으로 보인다.&lt;br&gt;&lt;br&gt;21일에는 제주 남쪽 해상에서 일본 규슈 부근으로 이동하는 열대저압부(태풍 전 단계의 뜨거운 공기 덩어리)의 영향으로 제주에 5~40㎜의 비가 내리겠다. 또 연일 뜨거운 날씨에 대기 불안정이 커지면서 내륙엔 소나기가 예고됐다. 소나기 강수량은 인천·경기북부·강원도 5~20㎜, 광주·전남·부산·울산·경남 5~40㎜로 예보됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>작년 온실가스 배출량 전년 대비 2% 감소... 2010년 이후 첫 7억t 아래로</title>
       <link>https://www.chosun.com/national/transport-environment/2025/08/20/YVLST75Y45FXJKGCDYUQCVS6SA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/20/YVLST75Y45FXJKGCDYUQCVS6SA/</guid>
@@ -907,15 +916,6 @@
       <description/>
       <pubDate>Wed, 20 Aug 2025 05:30:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NXCLMB3UHRO47JBPGIDXZXF4ZA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최민지 환경부 온실가스종합정보센터장이 20일 세종시 정부세종청사에서  2024년도 국가온실가스 잠정배출량 산정 결과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 국내 온실가스 배출량이 2010년 이후 처음으로 7억t 아래로 떨어진 것으로 집계됐다. 원전과 재생에너지 확대로 화석연료를 대체한 효과가 컸다. &lt;br&gt;&lt;br&gt;20일 환경부 온실가스종합정보센터에 따르면, 작년 국가 온실가스 배출량은 6억9158만t으로 잠정 집계됐다. 정부는 배출량이 확정되기 전 잠정치부터 발표하는데 통상 잠정치와 확정치의 차이는 0.3% 내외로 크지 않다.&lt;br&gt;&lt;br&gt;온실가스 배출량이 7억t 아래로 내려간 것은 2010년(6억8980만t) 이후 처음이다. 2023년과 비교하면 2%(1419만t) 감소했다.&lt;br&gt;&lt;br&gt;감축 효과는 전환(에너지) 부문에서 두드러졌다. 작년 한 해 우리나라는 에너지를 더 썼지만, 탄소는 덜 배출했다. 작년 전기 사용량은 595.6TWh(테라와트시)로 전년(588.0TWh)보다 1.3% 늘었다. 그러나 전환 부문 온실가스 배출량은 2억1830만t으로 전년(2억3090만t)보다 5.4% 줄었다. 이는 전기를 생산할 때 석탄보다 원전·재생에너지를 더 썼기 때문이다. 석탄 발전량이 184.9TWh에서 167.2TWh로 줄고, 원자력과 재생에너지 발전량이 각각 180.5TWh에서 188.8TWh로, 49.4TWh에서 53.7TWh로 늘었다.&lt;br&gt;&lt;br&gt;다만 2030 NDC(국가 온실가스 감축 목표)를 달성하기는 어렵다는 관측이 나온다. 문재인 정부 때 발표한 NDC는 2030년 배출량을 2018년 대비 40% 줄이는 것으로, 배출량 목표치는 4억3660만t이다. 앞으로 남은 5년간 총 2억5500만여t, 연평균 전년 대비 3.6%씩 큰 폭으로 감소시켜야 한다. &lt;br&gt;&lt;br&gt;환경부 관계자는 “전환 외에 산업·수송·건물 등 다른 부문에선 배출량 감소세가 미미하고, 총배출량 감소엔 경기 둔화와 평균기온 상승으로 인한 난방 수요 저하 등 외부 요인 영향도 컸다”며 “NDC 달성을 위해선 강도 높은 감축 노력이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘하루 물 2L 섭취’ 논쟁 종결… “너무 많이 마시지 말라는 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/20/32EBXZUQNNDH5FJP264GXWMBYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/20/32EBXZUQNNDH5FJP264GXWMBYA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 03:02:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MYSHICBG5BFZMTFOEZ5JTGX5M.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관 정희원(왼쪽) 박사와 이계호 충남대 명예교수./유튜브 '정희원의 저속 노화'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;tvN 예능 ‘유 퀴즈 온 더 블럭’에 출연해 건강 상식 관련 조언을 한 이계호 충남대 명예교수가 “물을 많이 마실수록 좋다는 신념을 갖고 있는 사람들이 늘고 있는데, 너무 많이 마시지 말라는 것”이라고 재차 설명했다. &lt;br&gt;&lt;br&gt;이 교수는 지난 19일 ‘저속 노화’ 대중화를 이끈 서울시 초대 건강총괄관 정희원 박사의 유튜브 채널 ‘정희원의 저속노화’에 출연해 “물을 마실 때 2리터라는 숫자 자체에 강박관념을 가지면 안 된다는 뜻”이라며 이 같이 말했다. &lt;br&gt;&lt;br&gt;이 교수는 사람들이 “물을 매일 2리터씩 마셔야 한다” “물은 많이 마실수록 좋다”는 강박관념에 사로잡혀있는 게 문제라고 짚었다. 그는 “사람들은 2리터라는 양에 집착해, 밤늦게 귀가해서 2리터를 채우기 위해 물을 마시기도 한다”면서 “소변 색깔이 투명해질 때까지 마셔야 한다는 사람도 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “목마를때 마시면 된다, 소변 색깔이 투명해질 때까지 마시지는 말라고 조언한다”면서도 “연세가 있는 분들은 목마름을 잘 못 느끼기도 하고, 특정 질환이 있거나 약을 복용하는 경우 소변 색만 가지고 판단할 수 없다는 지적이 있다”고 덧붙였다. 그러면서 “매일 2리터씩 꼬박꼬박 마실 필요 없다, 너무 많이 먹지 말라는 게 핵심”이라고 강조했다.&lt;br&gt;&lt;br&gt;그러면서 이 교수는 “교수님들 의도나, 방송국 의도나 제 의도나 댓글을 단 시청자의 의도나 건강이 나빠지자고 하는 얘기가 아니다. 결론은 ‘전부 다 건강이 좋았으면 좋겠다’라는 부분 때문에 이야기를 한 것”이라며 “다양한 의견을 주셔서 뜨겁게 된 것도 감사하다”고 전했다.&lt;br&gt;&lt;br&gt;앞서 이 교수는 지난 6일 ‘유퀴즈’에 출연해 “물을 많이 마시는 사람들은 건강에 이상이 없는데도 힘이 없어지고 머리가 어지럽다”면서 “이런 상황이 장기간 반복되면 심장이 약했던 사람들은 심장에 전기 공급이 안 되어서 사망하게 된다”고 말했다. 이 교수는 “음식을 통해서 섭취하는 물의 양을 포함해 1.5ℓ~2ℓ를 섭취하는 것이 적당하다”고 조언했다.&lt;br&gt;&lt;br&gt;해당 주장은 “물을 하루에 2리터 이상 마시면 위험하다”는 주장으로 해석돼 온라인 커뮤니티 등에 확산됐고, 의료계에서도 이를 두고 갑론을박이 벌어졌다. &lt;br&gt;&lt;br&gt;이와 관련, 정 박사는 지난 10일 자신의 유튜브 커뮤니티에 올린 글을 통해 “이와 같은 주장은 의학적으로 과장됐거나 과학적 근거가 부족한 내용이 많으며 일부는 건강한 식습관에 대한 불필요한 공포심을 유발할 수 있어 바로잡을 필요가 있다고 판단했다”고 지적했다. &lt;br&gt;&lt;br&gt;다만, 이후 진행된 유튜브 라이브 방송에서 정 박사는 “어떤 분을 비하하거나 비난하려는 의도는 전혀 없다”며 “(유퀴즈) 방송이 나간 이후 주변에서 많은 질문을 들어 방송을 하게 됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>싸이 흠뻑쇼가 지역경제 살렸다?…속초서 하루만에 75억 소비 창출</title>
