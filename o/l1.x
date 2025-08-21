@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>해병 특검, 수사 30일 연장… "조사할 대상 많아"</title>
+			<description>순직 해병 수사 외압 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="115"&gt;이명현&amp;nbsp;&lt;/span&gt;특별검사팀이 수사 기간을 30일 연장하기로 결정했다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25396"&gt;정민영&amp;nbsp;&lt;/span&gt;특검보는 21일 브리핑에서 "특검은 압수물 분석이 상당 부분 남아있고, 조사 대상자도 많아 해병특검법에 따라 수사 기간을 30일 연장하기로 결정했다"며 "다음주 중 대통령과 국회에 연장 사유를 서면으로 보고할 예정"이라고 말했다.&lt;br /&gt;&lt;br /&gt;해병 특검은 지난달 2일 수사를 개시해 오는 30일 종료될 예정이었다. 연장 결정에 따라 9월 말까지 수사를 이어갈 예정이다.</description>
+			<pubDate>Thu, 21 Aug 2025 02:48:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210687</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210687</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희 특검, '삼부토건 주가조작 의혹' 웰바이오텍 등 10곳 압수수색</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210680.jpg" alt="3453637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 우크라 재건사업 주가조작 관련 웰바이오텍을 압수수색하고 있는 21일 서울 강남구 웰바이오텍 사무실의 모습. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 21일 삼부토건 주가조작 의혹 관련사인 웰바이오텍에 대한 압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;특검팀은 이날(21일) 오전 "웰바이오텍의 우크라이나 재건사업을 이용한 주가조작 등 사건과 관련해 웰바이오텍 및 자회사 등 관계회사, 피의자들 주거지 등 10곳에 대한 압수수색에 착수했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;웰바이오텍은 삼부토건 주가 급등의 발단이 된 우크라이나 재건 포럼에 참여한 업체로, 삼부토건과 함께 우크라이나 재건주로 묶였다. 이일준 삼부토건 회장이 최대 주주다. &lt;br /&gt;&lt;br /&gt;특검팀은 삼부토건 전현직 경영진들이 우크라이나 재건 사업을 맡을 의사나 역량이 없는 상태에서 양해각서를 체결하고, 이를 홍보해 투자자들을 속였다고 의심하고 있다. &lt;br /&gt;&lt;br /&gt;당시 웰바이오텍이 전환사채(CB)를 발행해 수백억에 달하는 시세차액을 거둔 것으로 보고 있다.&lt;br /&gt;&lt;br /&gt;최근 해병대 채 상병 순직사건을 수사하는 이명현 특별검사팀은 수사 과정에서이종호 전 블랙펄인베스트 대표가 아내 명의의 계좌로 2023년 7월 웰바이오텍 주식을 거래해 2000만 원의 수익을 거둔 정황을 포착했다. &lt;br /&gt;&lt;br /&gt;이러한 내용을 전해받은 특검팀은 압수수색을 통해 해당 거래에 김 여사가 관여돼 있는 지를 살펴볼 것으로 보인다. &lt;br /&gt;</description>
+			<pubDate>Thu, 21 Aug 2025 02:46:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210680</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210680</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210680.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>오영준 헌법재판관 본사 방문</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210670.jpg" alt="34534636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;   &lt;p&gt;      &lt;span style="font-weight: bold;" class="lawmanlink" serial="928"&gt;&lt;br /&gt;&lt;/span&gt;   &lt;/p&gt;   오영준&lt;/span&gt;(56·사법연수원 23기) 헌법재판관이 8월 20일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;오 재판관은 "사회적 갈등이 큰 상황에서 헌법재판소의 결정이 지닌 사회 통합의 의미를 깊이 인식하며 최선을 다하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;오 재판관은 대전 출신으로, 서울고와 서울대 법대를 졸업하고 1991년 제33회 사법시험에 합격했다. 이후 서울민사지법에서 처음 판사 생활을 시작해 서울지법 판사, 대법원 재판연구관, 춘천지법 강릉지원장, 서울중앙지법 부장판사, 특허법원 부장판사, 서울고법 부장판사, 대법원 선임재판연구관, 대법원 수석재판연구관 등을 지냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Thu, 21 Aug 2025 01:22:34 -0000</pubDate>
@@ -221,26 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210654</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210654.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>내란 특검, 한덕수 전 총리 22일 추가 소환</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210655.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;피의자 신분으로 소환된 한덕수 전 국무총리가 20일 서울 서초구 서울고검에 마련된 내란 특검 사무실을 나서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄과 관련 내란·외환 사건을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 16시간 넘게 조사를 받았던 한덕수 전 국무총리를 다시 소환한다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&lt;/span&gt;&amp;nbsp;특검보는 20일 "한덕수 전 총리에게 22일 오전 9시30분 추가 소환 요청했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;내란 특검팀은 지난 19일 한덕수 전 국무총리를 상대로 16시간이 넘는 고강도 조사를 벌였다. 오전 9시 30분 특검에 피의자 신분으로 출석한 한 전 총리는 16시간 20분간 조사를 받은 뒤 다음날 새벽 2시께 귀가했다. &lt;br /&gt;&lt;br /&gt;특검팀은 한 전 총리가 계엄 선포 전&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령에게 국무회의를 건의했던 배경이 국무위원들 의견을 듣기 위한 것인지, 아니면 계엄 선포를 정당화하기 위한 목적이었는지를 집중 조사했다. &lt;br /&gt;&lt;br /&gt;또 사후 계엄 선포문 작성 경위 등을 추궁했다. 한 전 총리는 진술거부권을 행사하지 않았고, 주요 혐의를 부인한 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;당초 특검팀이 이번 조사를 마친 뒤 곧장 구속영장 청구 여부를 결정할 거란 전망도 나왔으나, 특검은 아직 조사할 양이 상당 부분 남아 추가로 조사해 사실관계를 확정 짓겠다는 방침이다.</description>
-			<pubDate>Wed, 20 Aug 2025 01:50:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210655</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210655</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210655.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>특검, 김건희 여사 구속기간 열흘 연장…31일까지 추가 조사 후 기소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210653.jpg" alt="5467.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;윤석열 전 대통령 부인 김건희 여사가 12일 영장실질심사를 마친 뒤 서울 서초구 서울중앙지법을 나서고 있다. 《사진=연합뉴스》&amp;nbsp;&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;지난 12일 구속된 김건희 씨의 구속기간이 오는 31일까지로 연장됐다. &lt;br /&gt;&lt;br /&gt;김건희 특검은 "김건희 씨에 대한 구속기간이 어제 법원에 의하여 8월 31일 까지로 연장결정 됐다고"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 법원 허가를 받아 구속 기간을 열흘 연장했다. 특검은 연장된 구속기간 안에 피의자를 기소해야 한다. 추가 연장은 할 수 없다. &lt;br /&gt;&lt;br /&gt;김 여사는 20일 예정이었던 특검의 구속 뒤 세 번째 소환 조사에 건강상 이유로 불출석한다. 김 여사 측은 오는 21일 오전 구치소에서 진료를 받고 오후에 출석하겠다는 뜻을 전달했다. &lt;br /&gt;&lt;br /&gt;특검팀은 연장된 구속 기간 김 여사를 추가로 소환해 관련 의혹 수사에 속도를 낼 방침이다. &lt;br /&gt;&lt;br /&gt;특검은 2차 조사에서 공천개입의혹 조사를 마무리하고 도이치모터스 주가조작 사건에 대한 추가 조사를 벌였다. &lt;br /&gt;&lt;br /&gt;남은 기간 동안 건진법사 전성배 씨를 둘러싼 의혹과 통일교 현안 청탁 의혹, 대통령 관저 공사 특혜 의혹 등에 대한 조사를 이어나갈 것으로 보인다. &lt;br /&gt;&lt;br /&gt;김 여사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령과 함께 2022년 대선 때 '정치브로커' 명태균 씨로부터 58차례에 걸쳐 여론조사 결과를 무상으로 제공받은 대가로 그해 국회의원 보궐선거에서 김영선 전 국민의힘 의원이 공천받도록 영향력을 행사한 혐의(정치자금법 위반)를 받는다.&lt;br /&gt;&lt;br /&gt;2009∼2012년 발생한 도이치모터스 주가조작 사건에 돈을 대는 '전주'(錢主)로 가담한 혐의(자본시장법 위반), 건진법사 전성배 씨를 통해 통일교 측으로부터 고가 목걸이 등과 함께 교단 현안 청탁을 받은 혐의(특정범죄 가중처벌법상 알선수재)도 있다.</description>
-			<pubDate>Wed, 20 Aug 2025 00:40:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210653</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210653</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210653.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
