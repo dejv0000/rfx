@@ -13,6 +13,141 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “노란봉투법, 미래 경쟁력 갉아먹어...정권 실패 지름길” </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/PIXLCFWWLVH2HP3UEU5MRJCPHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/PIXLCFWWLVH2HP3UEU5MRJCPHU/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 13:25:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27KBRQ2ZZOKZHWIFG6H34OO34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 21일 서울시청에서 열린 노벨경제학상 수상자 초청 '지속가능한 번영을 위한 길' 특별대담에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 21일 정부와 여당이 추진하는 노란봉투법(노동조합법 2·3조 개정안)에 대해 “자유 시장 경제 질서를 무너뜨릴 정도로 인센티브 시스템 자체를 망가뜨리는 포퓰리즘은 어떤 경우에도 국민적 저항으로 막아내야 한다”고 말했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 서울시청에서 노벨경제학상 수상자 제임스 로빈슨 미 시카고대 공공정책대학원 교수와 ‘지속 가능한 번영을 위한 길’을 주제로 한 대담에서 노란봉투법을 언급하며 이렇게 말했다.&lt;br&gt;&lt;br&gt;노란봉투법은 사용자 범위를 확대해 원청과 하청 근로자 간 교섭을 가능하게 하고, 파업에 대한 과도한 손해배상 청구를 제한한다는 내용을 담고 있다. 하청 업체 노동자가 원청에 대해 직접 단체교섭을 요구할 수 있다. 구조조정이나 공장 해외 이전 등 경영 판단도 파업 사유가 된다.&lt;br&gt;&lt;br&gt;오 시장은 “노란봉투법의 핵심 내용은 불법적 쟁의 행위를 해도 손해배상청구 소송을 할 수 없는 것인데, 선진적인 것으로 포장해 밀어붙이지만 사실은 미래 세대 희망이 사라지게 되는 것”이라며 “노조가 기득권을 유지하려 내놓는 각종 노동 관련 현안들이 기업의 경쟁력을 갉아먹으며 젊은이들의 취업 기회를 바늘구멍으로 만드는 부작용을 수반할 것이 불 보듯 뻔하다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “해고가 자유로운 고용 유연성이라도 미국처럼 보장이 된다면 궁합이 맞을 수 있지만, 우리나라는 해고가 굉장히 경직적이다. 한 번 취업하면 공무원은 평생 철밥통이고 공기업도 철밥통”이라면서 “여기에 불법 파업까지 횡행하면 기업 경쟁력이 대폭 감소할 수밖에 없는 것을 청년들이 다 아는데 과연 용인하겠는가”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “이 정권 탄생에 노조가 상당한 지지 세력으로 작동했던 건 주지의 사실”이라며 “그렇기 때문에 (이재명 대통령이) 대통령이 되고 나서 주요 지지 세력인 노조에 큰 선물을 주고 싶다는 생각은 본능적으로 이해할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “선거에 당선되기 위해서 하는 감언이설, 그런 종류의 포퓰리즘은 애교로 봐줄 수 있는 수준일 수 있지만, 집권 후에 미래 경쟁력을 갉아먹는 정책을 내놓고 그것을 선의로 포장하는 것은 실패한 정권으로 가는 지름길”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 정부가 소득과 관계 없이 전 국민에게 지급하는 ‘민생회복 소비쿠폰’도 “무차별적 복지”라고 지적했다 오 시장은 “재원은 한정돼 있다”며 “서울시는 소비쿠폰 사업 예산의 일부를 부담해야 한다. 지방채를 발행해 빚내야 할 상황”이라고 말했다. 그러면서 “뒤처진 사람들을 우선해 돕는 것이 효율적인 복지”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“교수는 착취 사슬의 중간 관리자” 박단, 세브란스병원 복귀 지원</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/21/PUVYTAEC5JHG7L3B2ZAHSE4PTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/21/PUVYTAEC5JHG7L3B2ZAHSE4PTA/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 13:14:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBHOXT4WCBN7BP6DZIGOVNKUOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 전 대한전공의협의회 비상대책위원장
+이 지난 3월 서울 여의도 국회에서 열린 의료현장 정상화를 위한 정책 토론회에서 전공의 수련 환경 문제와 개선 방향을 주제로 발표하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정 갈등 당시 전공의 단체에서 강경 투쟁을 주도했던 박단 전 대한전공의협의회(대전협) 비상대책위원장이 올해 하반기 전공의 모집공고에서 당초 몸담고 있었던 세브란스병원에 지원한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;21일 세브란스병원 관계자에 따르면 박 전 비대위원장은 이날 마감된 병원의 하반기 전공의 모집에 지원서를 제출했다. 지원은 원래 근무하던 응급의학과 2년차 레지던트로 했다고 한다.&lt;br&gt;&lt;br&gt;박 전 위원장은 지난해 2월 윤석열 정부의 의대 정원 확대 정책에 반발해 사직서를 제출했다. 2023년 대전협 회장으로 올랐던 그는 대전협이 비대위 체제로 전환하면서 비대위원장을 맡았고, 올해 6월까지 단체를 이끌었다. 지난 1월 출범한 김택우 대한의사협회 회장 집행부에서도 부회장을 겸임하며 전공의의 목소리를 대변했다. 그는 의정 갈등이 장기화되는데 대한 책임론이 대두되고 내부 파열음이 커지자 돌연 사퇴했다.&lt;br&gt;&lt;br&gt;박 전 위원장의 복귀는 이날 대부분 마감된 전공의 복귀와 관련해 병원 내 갈등을 표면적으로 드러내는 사례가 될 것이란 분석이 나온다. 강경파를 대표했던 그가 의사 사회의 선배 및 교수들에 대한 강한 비판을 쏟아내면서 당초 전공의를 지지했던 선배들이 떠나가는 결과를 초래하기도 했기 때문이다. 그는 “수련병원 교수들은 (전공의에 대한) 착취의 사슬에서 중간관리자 역할을 해왔다”든지 “교수라 불릴 자격 없다”는 표현도 서슴지 않았다.&lt;br&gt;&lt;br&gt;특히 그는 당초 사직서를 내면서 소셜미디어에서 병원으로 돌아갈 생각이 없다고 밝히기도 했다. 그는 “현장 따위는 무시한 엉망진창인 정책 덕분에 소아응급의학과 세부 전문의의 꿈, 미련 없이 접을 수 있게 됐다”고 비판했다.&lt;br&gt;&lt;br&gt;그가 실제 병원 현장으로 돌아갈 수 있을지 여부는 병원과 해당과의 선택에 달렸다. 병원은 지원 전공의에 대한 면접 등을 통해 선발 여부를 최종 결정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, ‘통일교 금품 金여사에 전달' 건진법사 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/KFSBNSTTNJCUFGX3NENMHTTGNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/KFSBNSTTNJCUFGX3NENMHTTGNI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 12:45:56 +0000</pubDate>
+      <content:encoded>통일교 고위 간부로부터 고가의 명품 목걸이와 가방 등을 받아 청탁과 함께 김건희 여사에게 건넨 혐의를 받는 ‘건진법사’ 전성배씨가 21일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYMDJXDNRL5AZL6MGMMX7YW6BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장 전담 부장판사는 이날 특검이 청구한 전씨의 구속영장 청구서와 사건 관련 기록을 검토한 뒤, “증거를 인멸할 염려가 있다”며 영장을 발부했다. 특검은 전씨의 진술이 사실관계와 맞지 않고 일관되지 않으며, 전씨가 주거지를 여러 차례 옮긴 점 등을 들어 증거인멸과 도주 우려가 있다고 판단해 구속영장을 청구했다고 한다.&lt;br&gt;&lt;br&gt;전씨는 2022년 4~8월 사이 통일교 전 세계본부장 윤영호씨로부터 정부 지원을 요청한다는 명목의 청탁과 함께 6000만원대 그라프 다이아몬드 목걸이, 1000만원 안팎의 샤넬 가방 2개와 천수삼농축차 2개를 받아 김 여사에게 전달한 혐의(특정범죄가중처벌법상 알선수재)를 받는다.&lt;br&gt;&lt;br&gt;특검은 지난 18일 전씨를 소환해 조사했다. 특검은 전씨가 김 여사에게 명품을 건넨 것으로 지목된 시기의 아크로비스타 출입 기록, 전 통일교 세계본부장 윤영호씨에게 보낸 문자메시지 등 특검 측에서 제시하는 증거들에 “모른다”는 취지로 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전씨는 이날 오전 10시 30분 예정된 구속영장 실질심사를 포기했다. 이와 관련해 전씨 측은 본지에 “본인(전씨) 때문에 여러 사람이 고초를 겪는 상황을 견딜 수 없고, 당연히 본인도 잘못돼야 한다고 생각하는 만큼 구속을 받아들이기로 했다”고 설명했다. 이날 영장 심사엔 특검 관계자들만 출석했고, 심사는 9분 만에 종료됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBSFSSYW3E2HUM6NU6C6SZ5T3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피의자가 영장 심사를 포기하면 법원은 제출된 서류 만으로 피의자 구속 여부를 결정한다. 지난해 말 여인형 전 방첩사령관, 박안수 전 육군참모총장, 노상원 전 정보사령관 등이 내란 혐의 영장 심사를 포기했고, 모두 구속됐다.&lt;br&gt;&lt;br&gt;특검은 ‘건진법사·통일교 청탁' 의혹 중심에 있는 김 여사(수수자), 윤씨(공여자), 전씨(전달자)의 신병을 모두 확보하게 됐다. 다만 김 여사와 전씨가 모두 특검 조사실에서 혐의를 전면 부인하고 있는 중이라고 한다. 이날 김 여사를 조사한 특검은 오는 23일 김 여사를 다시 불러 조사한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 김정숙 여사 ‘옷값 특활비 의혹’ 무혐의 결론</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/G2RLFMHFVNHWLGN5F45RBR325Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/G2RLFMHFVNHWLGN5F45RBR325Y/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 12:40:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UTQJTTE7Y5N5FJOTVUWRQP2YEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령과 김정숙 여사가 18일 서울 강남구 코엑스에서 열린 2025 서울국제도서전의 '2025 한국에서 가장 좋은 책 시상식'에서 참석자와 대화하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 문재인 전 대통령의 부인 김정숙 여사의 옷값에 청와대 특수활동비가 사용됐다는 의혹에 대해 혐의가 없다는 결론을 내렸다. 21일 서울경찰청 반부패수사대는 지난달 29일 김 여사의 특정범죄가중처벌법상 국고 손실 등 혐의에 대해 증거 불충분으로 무혐의 처분했다. 수사가 시작된 지 3년 5개월 만이다.&lt;br&gt;&lt;br&gt;경찰은 대통령기록관 압색물을 분석했지만 1200만원어치 관봉권 등 옷값에 쓴 돈과 일치하는 결정적인 증거를 찾지 못한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 여사는 문 전 대통령 재임 당시 의상을 사는 데 특활비를 썼다는 의혹을 받았다. 이 같은 의혹이 일자 시민단체 서민민생대책위원회는 2022년 3월 김 여사가 청와대 특활비 담당자에게 고가 의류와 장신구 등을 구매하도록 강요한 것으로 의심된다며 경찰에 고발했다.&lt;br&gt;&lt;br&gt;당시 청와대는 “의류 구입 목적으로 특활비 등 국가 예산을 편성해 사용한 적이 없고 사비로 부담했다”고 해명했다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 특활비 사용 내역 등이 보관돼 있는 대통령기록관을 압수수색했다. 대통령 배우자 담당인 제2부속실 소속 직원 등 청와대 관계자들도 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZRGXCRWB2ZED7MKORSHKBJPEUI.jpg?auth=4bb35ab6c609b41fdf3637a670f86b4d6042651049851f95d9b86d4f8a21ae49&amp;smart=true&amp;width=4987&amp;height=2805" type="image/jpeg" height="2805" width="4987">
+        <media:description type="plain"> 도서 시상식 참석한 문재인 전 대통령 내외
+    (서울=연합뉴스) 임화영 기자 = 문재인 전 대통령과 김정숙 여사가 18일 서울 강남구 코엑스에서 열린 2025 서울국제도서전의 '2025 한국에서 가장 좋은 책 시상식'에서 참석자와 대화하고 있다. 2025.6.18
+    hwayoung7@yna.co.kr/2025-06-18 18:12:43/
+&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">임화영</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>해병 특검, ‘박정훈 긴급구제 기각’ 김용원 인권위 상임위원 출국금지</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/V4PL5JHYFJBQ3LAWVJBBQTTB7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/V4PL5JHYFJBQ3LAWVJBBQTTB7E/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 13:03:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DN2KONTYLFNYTLHWGNPV3MH3QI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용원 국가인권위원회 상임위원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 박정훈(대령) 해병대 수사단장에 대한 긴급 구제 신청을 기각한 김용원 국가인권위원회 상임위원 겸 군인권보호관을 출국 금지하며 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 해병 특검은 최근 김 위원에 대한 출국 금지를 법무부에 신청해 승인받았다. 특검은 조만간 김 위원과 당시 인권위 군인권소위 관계자 등을 불러 박 대령에 대한 긴급 구제 신청을 기각한 경위 등을 조사할 방침이다. 고 채수근 상병 사망 사건과 관련해 인권위에서 일어난 은폐, 무마, 회유, 사건 조작 등 불법 행위는 특검의 수사 대상이다.&lt;br&gt;&lt;br&gt;김 위원은 지난 2023년 8월 9일 채 상병 사건에 대한 국방부의 조사 외압을 비판하는 성명을 냈다가, 닷새 후인 14일 이종섭 전 국방장관과 통화한 뒤 입장을 바꿨다는 의혹을 받는다. 김 위원이 위원장을 맡은 군인권소위는 군인권센터가 낸 박 대령에 대한 긴급 구제 조치 신청을 같은 달 29일 기각했다. 군인권센터가 같은 날 박 대령의 인권 침해에 대해 제기한 진정도 작년 1월 기각했다.&lt;br&gt;&lt;br&gt;이에 군인권센터는 작년 5월 박 대령 진정 사건 기각, 긴급 구제 심의 방해 등과 관련해 김 위원을 직권남용 혐의로 고위공직자범죄수사처(공수처)에 고발했다. 이 사건을 넘겨받아 수사 중인 특검은 최근 인권위로부터 관련 회의 자료 등을 제출받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무단횡단 80대, 트럭에 치여 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/YXVTPGJDF5BPLOW2TXWLP5VL4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/YXVTPGJDF5BPLOW2TXWLP5VL4A/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 12:24:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJKQEFZHZRNSZNR2X2LQZLHECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;횡단보도. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무단횡단을 하던 80대 여성이 덤프트럭에 깔려 사망하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;지난 20일 오전 서울 동작구의 한 횡단보도에서 80대 여성 A씨가 빨간불에 길을 건너려다 덤프트럭에 치여 숨졌다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 사고 당시 50대 트럭 기사 B씨는 음주를 하거나 약물을 복용한 상태는 아니었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;B씨는 “사각지대여서 여성이 보이지 않았다”고 경찰에 진술했다. 조수석 앞바퀴 쪽에서 길을 건너려던 A씨가 시야에 보이지 않았다는 것이다. &lt;br&gt;&lt;br&gt;현재 경찰은 트럭기사 B씨를 교통사고처리 특례법상 치사 혐의로 입건해 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 경찰, 강유정 대통령실 대변인 명예훼손 혐의로 입건 </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/GQYFQHHZIFCUTOC4GPGDQNQPOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/GQYFQHHZIFCUTOC4GPGDQNQPOU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 12:28:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6U7DBTIGFBPU7H6CBPG76IH53Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강유정 대통령실 대변인이 9일 서울 용산 대통령실 청사에서 산재 관련 대통령 지시 사항 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강유정 대통령실 대변인이 명예훼손 혐의로 입건돼 경찰이 수사에 나섰다. 서울 서대문경찰서는 지난 19일 OBS 기자 최모씨로부터 고소장을 접수해 수사에 착수했다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;이번 사건은 지난 6월 27일 이재명 대통령과 언론사 사장단의 비공개 만찬 일정을 두고 대통령실 현장 브리핑에서 벌어진 언쟁에서 비롯됐다. 당시 최씨가 만찬 일정에 대해 질의하자 강 대변인은 “비공개 행사를 생중계 중 노출하면 안 된다, 그 정도는 약속된 사안”이라며 제지했다. 이에 최씨는 “기자도 국민이다. 질문조차 못 하냐”고 맞섰다. 브리핑 생중계 직후 최씨의 개인 소셜미디어 계정과 OBS 시청자 게시판에 비난이 쏟아졌다. &lt;br&gt;&lt;br&gt;이후 OBS 측은 최씨의 출입처를 변경하고 후임 기자로 교체했다. 마지막으로 대통령실을 출입하던 지난 16일, 최씨는 브리핑 현장에서 “대변인님의 잘못된 발언으로 사이버 폭력을 당하고 있다”며 신상 발언을 시도했으나 강유정 대변인은 “여기는 신상 발언 자리가 아니다. 질의응답에 집중해달라”며 제지했다.&lt;br&gt;&lt;br&gt;대통령실은 지난 6월 24일부터 이재명 대통령의 제안에 따라 브리핑과 취재진 질의응답을 생중계하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>7명 사상 ‘청도 열차 사고’ 코레일 사장 사의</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/21/DQH53TMZXVEXTIRHRLZXGTFK6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/21/DQH53TMZXVEXTIRHRLZXGTFK6Q/</guid>
+      <dc:creator>김아사 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 11:19:44 +0000</pubDate>
+      <content:encoded>한국철도공사(코레일)는 한문희 사장이 사의를 표명했다고 21일 밝혔다. 윤석열 정부 때인 지난 2023년 코레일 사장에 임명됐던 한 사장의 임기는 당초 내년 7월까지다. &lt;br&gt;&lt;br&gt;코레일에 따르면, 한 사장은 사상자 7명을 낸 경북 청도군 경부선 열차 사고에 대해 책임을 지겠다면서 전날인 20일 국토교통부에 사표를 제출했다고 한다. 다만 국토교통부 측은 “사표를 수리할지는 아직 결정되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;한 사장의 사표 수리 여부와 관계없이 코레일에 대한 중대재해처벌법 및 산업안전보건법 위반 수사 등은 그대로 진행될 예정이다. 중대재해처벌법 등은 사고 행위 당시를 기준으로 삼기 때문에, 수사 과정에서 관련 법 위반 사실이 발견되면 코레일의 경영 책임자인 한 사장에 대한 처벌은 사표 수리와 관계없이 이뤄진다. 중대재해처벌법은 경영 책임자를 처벌토록 규정돼 있다.&lt;br&gt;&lt;br&gt;이와 관련, 관가 안팎에선 정부가 코레일의 지분 100%를 소유하고 있는 만큼 과연 코레일의 ‘경영 책임자’를 누구까지로 봐야 하는지를 놓고 논란이 일고 있다. 경영 책임자를 국토교통부 장관 등으로까지 확대 가능한지 갑론을박이 벌어진 것이다. 김영훈 고용노동부 장관은 지난 20일 국회에 출석한 자리에서 “국토부는 감독 기관이고, 장관은 경영 책임자가 아니다”라며 “민간 기업의 원·하청 관계를 국가기관에 적용하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;그럼에도 코레일이 정부의 예산을 받아 하청 업무 등을 민간에 줄 뿐 아니라, 사장 등 인사나 고용도 정부가 주도한다는 점을 감안하면 경영 책임자 범위를 더 넓게 해석해야 한다는 지적도 적지 않다. 코레일을 포함한 공기업의 근로자 급여 역시 정부의 경영 평가를 통해 결정된다. 박지순 고려대 법학전문대학원 교수는 “공공기관 운영 현실을 고려하면, 국토부 등 감독 기관의 장이 실질적 영향력을 미치는 것을 부정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RTZ2DCV6FY3CDT6ICLCL5XZ55U.jpg?auth=06c8401f225f5bed99cb13629e08d33e621a65327554b2568718610257377a32&amp;smart=true&amp;width=2943&amp;height=1927" type="image/jpeg" height="1927" width="2943">
+        <media:description type="plain">한문희 한국철도공사 사장이 한국철도공사(코레일) 대전본사에서 열린 국회 국토교통위원회의 한국철도공사, 국가철도공단 등에 대한 국정감사에서 잠시 생각에 잠겨 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>곧 9월인데 더 심해지는 폭염... 주말까지 체감 35도 무더위</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/21/L7J4RADZYRCBPPMVKZD4U6VISU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/21/L7J4RADZYRCBPPMVKZD4U6VISU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 11:59:57 +0000</pubDate>
+      <content:encoded>‘여름의 끝’이 9월까지 연장될 것으로 보인다. 이번 주말은 계절을 역행하듯 더위가 오히려 심해질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;21일 기상청에 따르면, 티베트고기압이 우리나라 상공을 덮은 가운데 북태평양고기압 가장자리를 타고 뜨겁고 축축한 공기가 불어오면서 주말까지 폭염이 심해질 것으로 예상됐다. 특히 남부 지방은 제주 남쪽 해상에서 일본 규슈 쪽으로 이동하는 열대 저압부(태풍 전 단계의 뜨거운 공기 덩어리)의 영향으로 고온 다습한 공기가 더 들어오면서 폭염경보(최고 체감 기온 35도 이상)급 더위가 이어지겠다. 22일 아침 최저기온은 23~27도, 낮 최고기온은 30~36도로 예보됐다.&lt;br&gt;&lt;br&gt;우리나라 상공에 ‘공기 이불’이 덮인 상황에서, 난로를 켜놓은 듯 뜨거운 바람이 종일 들어오고 있다. 이에 서울을 비롯한 중부지방에 폭염주의보가, 남부 지방은 폭염경보가 발령돼있다. &lt;br&gt;&lt;br&gt;열대야도 심해지고 있다. 서울은 20일 밤부터 21일 아침까지 최저기온이 27.4도를 기록, 엿새째 열대야가 발생했다. 서울은 22일 아침 최저기온이 26도, 최저 체감 기온은 이보다 3도가량 높은 29도에 달할 것으로 예보됐다. 축축한 공기가 들어오면서 습도를 높여 실제 기온보다 피부로 느끼는 더위가 더 심한 것이다. 통상 상대습도 55%를 기준으로 10%포인트가 올라갈 때마다 체감 기온은 1도씩 올라가는데, 22일 새벽에는 습도가 최고 90%에 달할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;22일 대기 불안정으로 곳곳에 소나기가 내리겠으나, 더위를 식혀줄 정도는 아닐 것으로 보인다. 22일 호남·영남권에 5~40㎜의 소나기가 예보됐다. 남부 지방은 낮 동안 대기 하층 공기가 달궈져 상하층 기온 차가 커지면서 대기가 불안정해지고, 이에 소나기 구름대가 발달하겠다. &lt;br&gt;&lt;br&gt;주말에도 곳곳에 소나기 소식이 있다. 23일에는 경기 북부와 강원도에 5~40㎜의 소나기가 예고됐다. 중부지방은 대기 상층에서 하강하는 건조 공기와 중국 내륙에서 유입된 하층의 고온 다습한 공기와 충돌해 대기가 불안정해질 것으로 보인다. 일요일인 24일에는 경기 동부와 강원·충북·경상권에 소나기가 내리겠다. 내주 화요일인 26일에는 기압골의 영향으로 중부지방에 비가 예보됐으나, 비구름대가 강원 영동까진 향하지 못하고 태백산맥 서쪽 지역에만 비를 뿌릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XBEN3RIGSFDH5CZZHRY5MRE4AA.JPG?auth=c19d34bd4db7a5ae023b230cd0211115a7e67be390a82482cb01462f0d0d44a9&amp;smart=true&amp;width=4852&amp;height=2729" type="image/jpeg" height="2729" width="4852">
+        <media:description type="plain">(서울=뉴스1) 박지혜 기자 = 절기상 ‘처서’가 이틀 앞으로 다가왔지만 여전히 찜통 더위가 이어진 21일 오후 서울 광화문네거리에서 시민들이 횡단보도 앞 그늘막 아래 모여 신호를 기다리고 있다. 
+
+폭염특보가 해소되기는커녕 폭염경보로 격상되는 지역들이 늘면서, 당분간 무더위는 지속될 전망이다. 2025.8.21/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박지혜 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘고객 개인정보 유출 사고’ SKT 과징금 규모, 이르면 27일 나온다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/2IRL3GUKFFFORFSSTPJQ3WGBVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/2IRL3GUKFFFORFSSTPJQ3WGBVY/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 11:35:37 +0000</pubDate>
+      <content:encoded>정부가 ‘대규모 고객 유심(USIM) 정보 유출 사고’로 물의를 빚은 SK텔레콤에 대한 제재 수위를 이르면 오는 27일 결정한다. 개인정보보호위원회는 “SK텔레콤에 대한 처분안을 27일 전체회의에 상정하기로 했다”고 21일 밝혔다. 개인정보 유출 사고가 발생한 지 4개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77JAEB7JAYSBSDF6REJAVJESQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 SK텔레콤 대리점 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 4월22일 위원회에 서버를 해킹당해 고객 개인정보가 유출됐다고 신고했다. 이로 인해 약 2700만건의 고객 정보가 유출된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;위원회는 SK텔레콤이 외부 침입을 차단하기 위한 안전조치 의무를 준수했는지, 개인정보가 유출된 이후 고객들에게 제대로 통지했는지 등을 집중 조사한 것으로 알려졌다. 조사 절차를 마친 지난달 말에는 SK텔레콤에 처분 원인과 내용, 근거 법령, 증거자료 목록 등이 담긴 ‘사전 통지서’를 보냈다. &lt;br&gt;&lt;br&gt;27일 전체회의에선 위원들이 조사 결과와 SK텔레콤 주장 등을 종합적으로 검토해 과징금 규모를 결정하게 된다. 위원회 관계자는 “다만 추가 조사와 논의가 필요하다고 판단하면 최종 제재 결정이 미뤄질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;통신업계에선 이번 사태로 SK텔레콤이 역대 최대 과징금을 물게 될지에 주목하고 있다. SK텔레콤의 지난해 무선 통신 사업 매출액은 약 12조7700억원이다. 개인정보보호법에 따르면 과징금은 매출액의 최대 3%까지 부과할 수 있다. 과징금이 최대 3000억원대가 될 수 있는 것이다. 지금까지 위원회가 부과한 최대 과징금은 2022년 9월 구글·메타에 부과한 1000억원이다. &lt;br&gt;&lt;br&gt;다만 SK텔레콤이 해킹 사고 직후 자발적으로 유출을 신고했고, 피해자 구제와 재발 방지 대책을 마련한 점이 ‘감경 요인’으로 작용할 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국인들, 또 드론 띄워 제주 해군기지 찍었다</title>
+      <link>https://www.chosun.com/national/2025/08/21/J2BDEFBRBJANNB45P4FO73GQ6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/21/J2BDEFBRBJANNB45P4FO73GQ6A/</guid>
+      <dc:creator>김준호 기자, 제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 10:27:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJIJ6MO5O26SBEJLSESALMNUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서귀포시 강정동 제주해군기지./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 해군기지 상공에 드론을 날려 이를 불법 촬영한 중국인들이 붙잡혔다. &lt;br&gt;&lt;br&gt;제주경찰청은 군사기지 및 군사시설 보호법 위반 혐의로 중국인 30대 남녀 2명을 검거해 조사하고 있다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 19일 오후 5시쯤 제주 서귀포시 강정해군기지 인근에서 드론으로 군사 기지를 불법 촬영한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 부대 경계 근무자가 드론을 발견했고, 해군은 즉시 기지 경계와 방호 조치에 들어갔다. &lt;br&gt;&lt;br&gt;이후 경찰과 함께 부대 인근에서 드론을 조종하던 이들을 붙잡았다. 이들은 경찰에 “불법인지 몰랐다”는 취지로 진술했다고 한다. 경찰 조사 결과 이들은 무비자로 입국한 관광객이라고 한다. 경찰은 이들이 정확히 언제 국내로 입국했는지 등을 출입국관리소 등을 통해 확인 중이다. &lt;br&gt;&lt;br&gt;경찰은 “휴대전화와 드론 메모리카드에 저장된 영상 등을 분석해 해군기지를 촬영한 경위를 분석한 뒤 구속 여부, 신병 처리 등을 결정할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;중국인 등 외국인이 국내 주요 군사 시설을 촬영하다 적발되는 사건은 이번이 처음이 아니다. 지난해 6월 부산에서는 중국인 유학생 3명이 해군작전사령부와 미국 항공모함 등을 드론으로 몰래 촬영하다 적발됐다. 경찰 조사 결과 이들은 2023년 3월부터 지난해 6월까지 모두 9차례에 걸쳐 군 기지를 촬영한 것으로 드러났다. &lt;br&gt;&lt;br&gt;이들이 불법 촬영한 자료는 중국 소셜미디어 계정을 통해 무단 배포됐다고 한다. 경찰은 이 같은 혐의로 지난 6월 이들 중 2명을 군사시설보호법 위반 혐의로 구속했다. 특히 범행을 주도한 중국인에게는 일반이적 혐의도 적용했다. 일반이적 혐의로 외국인을 구속한 건 처음이었다. 일반이적 혐의는 대한민국의 군사상 이익을 해한 자 등에게 적용된다. 징역 3년 이상(최대 무기징역)의 형을 내릴 수 있다.&lt;br&gt;&lt;br&gt;적국(북한)을 위해 간첩 행위를 한 사람을 처벌하는 간첩죄보다는 처벌 수위가 가볍지만 군사시설보호법 위반보다는 무겁다.&lt;br&gt;&lt;br&gt;이에 주한중국대사관은 소셜미디어에 “사진 촬영은 반드시 현지 법률·법규를 준수해야 하며, 드론 사용과 드론을 사용한 촬영에 주의하라”며 “한국법상 군사기지와 군사시설을 임의로 촬영하는 것은 명백히 금지되고 있으며, 비행금지구역·촬영금지구역 등 민감한 장소에서는 사진 촬영을 하지 않도록 주의하라”고 했다.&lt;br&gt;&lt;br&gt;지난 5월엔 대만인 2명이 경기 평택시의 미군 오산 기지에서 열린 ‘2025 오산 에어쇼’에서 망원렌즈를 장착한 카메라로 기지 내부 시설과 장비를 불법 촬영했다가 경찰에 붙잡혔다. 이들은 행사 당일 세 차례에 걸쳐 출입을 제지당했지만 행사장에 몰래 들어가 불법 촬영을 한 것으로 조사됐다. 지난 3월엔 경기 수원에서 중국 국적 10대 남성 2명이 공군 기지 인근에서 전투기를 무단 촬영하다 적발됐다. 이들은 중국에서 온 고등학생으로 관광 비자로 입국한 지 3일 만에 촬영을 시도했다. 작년 11월엔 중국인 남성이 국정원 청사를 드론을 띄워 촬영하다가 체포됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, ‘횡령’ 혐의 김예성씨 배우자 2차 소환조사 </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/21/E2NF7MWIXZA3FFRDYLIP7BXMDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/E2NF7MWIXZA3FFRDYLIP7BXMDI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 10:22:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MAK7DC5MLXWVITXSLIWEGOGLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 '김건희 집사' 김예성 씨의 아내 정모씨가 서울 종로구 김건희 특검(특별검사 민중기)으로 소환 조사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 21일 김예성씨의 배우자를 소환 조사했다. 김 여사의 측근으로 알려진 김씨는 현재 횡령 혐의로 서울구치소에 수감된 상태다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 특검은 이날 김씨의 배우자 정모씨를 지난달 23일에 이어 2차 소환했다. 정씨는 피의자 신분으로, 특검은 정씨가 남편의 횡령 행위에 가담했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;이들 부부는 이른바 ‘IMS모빌리티 대기업 특혜성 투자 의혹’의 중심에 있는 인물이다. 과거 김씨가 임원을 지냈던 IMS모빌리티는 지난 2023년 6월 오아시스에쿼티파트너스를 통해 카카오모빌리티·한국증권금융 등 기업으로부터 총 184억원을 투자받았다. 그런데 당시 해당 투자금 중 46억원이 정씨가 대표이사로 이름을 올린 ‘이노베스트코리아’가 기존에 보유했던 주식을 사들이는 데 쓰였다는 사실이 알려지면서 논란이 불거졌다.&lt;br&gt;&lt;br&gt;특검팀은 이노베스트코리아가 얻은 46억원 중 일부가 김씨 부부, 더 나아가 김 여사에게까지 흘러갔을 가능성을 들여다보고 있다. 하지만 김씨 측은 35억여 원을 조 대표에게 빌려줬다는 입장이다. 이런 만큼 특검은 조영탁 IMS모빌리티 대표도 지난 2일과 20일 두 차례 불러 억대 투자를 받은 경위와 김씨와의 채무 관계 등에 대해 캐물었다. IMS모빌리티 전현직 직원 다수도 참고인 신분으로 특검의 조사를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 김예성씨가 이노베스트코리아로 받은 46억원 중 약 33억8000만원을 횡령했다고 보고 김씨에 대한 구속영장을 청구했다. 김씨 측은 “횡령 혐의는 특혜성 투자 의혹과 관계 없는 별건”이라고 주장했지만, 법원이 받아들이지 않으면서 김씨는 지난 15일 구속됐다. 특검은 오는 22일에 김예성씨를 다시 소환할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“심신미약 주장하면 된다”던 성폭행 시도 군인, 1심 징역 20년</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/21/UKB6VLWBKFGSXEKV55ACJQMR3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/UKB6VLWBKFGSXEKV55ACJQMR3A/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 10:24:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPVXAY6FJRDSXAYWVYXQ4L6APY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방법원·고등법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가 중 상가 화장실에서 일면식 없는 여성을 성폭행하려던 20대 현역 군인에게 법원이 중형을 선고했다. 범행 당시 심신미약 상태였다는 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;대전지법 제11형사부(재판장 박우근)는 21일 성폭력 범죄의 처벌 등에 관한 특례법 위반(강간 등 살인) 및 특수방실침입 등 혐의로 기소된 A씨에게 징역 20년을 선고했다. 이어 신상정보 공개 10년, 아동·청소년·장애인 관련 기업 취업 제한 10년, 위치추적 전자장치 부착 20년도 함께 명령했다.&lt;br&gt;&lt;br&gt;앞서 A씨 측은 피해 여성 B씨의 진술에 신빙성이 없고 강간·살인의 고의가 없었다며 혐의를 반박해 왔으나 법원은 인정하지 않았다. 심신미약 상태였다는 주장 역시 받아들이지 않았다. 재판부는 “피해자는 수사기관에서부터 공소 사실과 부합하는 취지의 진술을 일관되게 하고 있고 CCTV 영상과 의사 소견 등도 이를 뒷받침하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “젊은 여성을 따라 들어가 흉기로 여러 차례 상해를 가하고 지속해 성관계를 요구하는 등 강간과 살인의 고의도 있었다”고 판시했다. 또 “정신감정 결과 회피성 인격장애와 군 복무에 대한 부정적인 감정이 나타나긴 했으나 심신미약 상태에 있었다고 보기는 어렵다”며 “피해자가 극심한 트라우마를 호소하는데도 피고인은 책임 회피에만 급급하다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 8일 오후 3시 30분쯤 대전 중구의 한 상가 여자 화장실에서 B씨를 흉기로 위협해 성폭행을 시도하고, 이 과정에서 흉기를 휘둘러 상해를 입힌 혐의를 받는다. 당시 A씨는 피를 흘린 채 살려달라고 말하는 B씨를 위협하며 “마지막으로 성관계를 해달라”고 요구한 것으로 알려졌다. 두 사람은 일면식 없는 사이였고 A씨는 화장실에 들어가던 B씨를 따라가 범행했다.&lt;br&gt;&lt;br&gt;한편 지난 4월 공판에선 A씨가 범행 직후 가족과 대화하며 ‘심신미약을 주장하면 된다’고 말했다는 진술이 나오기도 했다. 극단적 선택을 시도하다 체포된 A씨와 병원에 동행한 경찰관의 진술로, 그는 “봉합 수술이 끝난 뒤 A씨는 부친을 병실 밖으로 나가라고 한 뒤 모친과 대화했다”며 “첫마디가 ‘외삼촌과 외할아버지 돈도 많은데 도와줄 사람 없냐’ ‘심신미약 주장하면 된다’는 취지의 말이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김건희 여사, 오후 5시 30분 특검 조사 종료...23일 재소환</title>
       <link>https://www.chosun.com/national/court_law/2025/08/21/MSZ2EJ5KKBDIBGITNBUOXODQHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/MSZ2EJ5KKBDIBGITNBUOXODQHA/</guid>
@@ -702,24 +837,6 @@
       <content:encoded>윤석열 정부의 각종 의혹을 수사하는 3대 특별검사(조은석·민중기·이명현)가 임명된 지 20일로 70일째를 맞았다. 그동안 윤석열 전 대통령과 김건희 여사가 차례로 구속됐고, 군검찰이 기소했던 박정훈 해병대 수사단장(대령)은 무죄가 확정됐다. 한편 특검은 수사 과정에서 윤 전 대통령 등 피의자, 참고인에 대한 무리한 수사와 망신 주기 등으로 논란을 부르기도 했다. 법적으로 3대 특검의 수사 기한은 최대 3개월(2차례 연장 포함)이 더 남았지만, 더불어민주당 등 여권에선 벌써부터 법 개정을 통해 수사 기간과 수사 인력을 더 늘려야 한다는 주장이 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTFPL7ZJNJDVPOTM2VZXDOXRBI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 부부 연이어 구속&lt;/b&gt;&lt;br&gt;&lt;br&gt;내란 특검은 ‘12·3 비상계엄' 사태와 관련해 윤 전 대통령을 직권남용, 특수 공무 집행 방해 등의 혐의로 지난달 10일 구속했다. 내란 우두머리 혐의로 지난 1월 19일 구속됐다가 법원의 구속 취소 결정으로 풀려나 있던 윤 전 대통령을 124일 만에 다시 구속한 것이다. 내란 특검이 수사 개시(6월 18일)한 지 22일 만이었다. 특검은 지난달 19일 윤 전 대통령을 추가 기소했고, 이달 19일 1심 첫 공판 준비 기일이 열렸다. 특검은 또 비상계엄에 적극 가담한 이상민 전 행정안전부 장관을 내란 중요 임무 종사 혐의로 지난 19일 구속 기소했다. 오는 22일 3차 조사를 앞두고 있는 한덕수 전 국무총리에 대해서도 구속영장 청구를 검토 중이고, ‘무인기 평양 침투 작전’ 등 윤 전 대통령의 외환 혐의도 수사 중이다.&lt;br&gt;&lt;br&gt;김건희 특검은 지난 12일 김 여사를 도이치모터스 주가조작, 통일교 명품 목걸이 등 수수 혐의로 구속했다. 지난달 2일 수사를 본격화한 지 41일 만이었다. 수사 과정에서 특검은 김 여사가 2022년 6월 나토 순방 때 착용했던 6000만원대 ‘반클리프 앤 아펠’ 목걸이를 3개월 전 이봉관 서희건설 회장에게 받은 혐의를 잡고 수사 중이다. 이 회장은 이미 자수서를 제출했다. 또 김 여사가 같은 해 9월 로봇 개 수입업체 대표 서성빈씨에게 받은 5000만원대 바쉐론 콘스탄틴 시계도 대가성 여부를 확인 중이다.&lt;br&gt;&lt;br&gt;순직 해병 특검은 수사 개시 1주일 만인 지난달 9일 박정훈 해병대 수사단장(대령)에 대한 항소를 취하했다. 이에 따라 박 대령은 무죄가 확정됐다. 군검찰이 2023년 7월 고(故) 채수근 상병 사망 사고 조사를 맡았던 박 대령을 항명죄로 기소한 것은 공소권 남용이라는 것이었다. 당시 해병대 수사단의 초동 수사 결과를 듣고 윤 전 대통령이 크게 화를 냈다는 이른바 ‘VIP 격노설’도 상당 부분 실체를 확인한 상태다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇무리한 수사, 망신 주기 논란도&lt;/b&gt; &lt;br&gt;&lt;br&gt;특검 수사 과정에서 가장 논란이 됐던 것은 김건희 특검의 물리력을 동원한 윤 전 대통령 체포 시도였다. 윤 전 대통령은 특검 조사 거부와 진술거부권 행사 등이 예상돼 있었다. 그런데도 특검은 조사가 필요하다며 체포 영장을 발부받아 지난 7일 서울구치소에 수감 중인 윤 전 대통령을 강제 인치를 시도했다. 이 과정에서 윤 전 대통령이 부상을 입어 의무실에 가기도 했다. 앞서 지난 1일에도 강제 구인을 시도했는데, 물리력을 동원하지는 않았지만 윤 전 대통령이 속옷만 입은 채 소환에 불응했다고 공개해 ‘피의자 망신 주기’라는 비판을 받았다.&lt;br&gt;&lt;br&gt;순직 해병 특검은 임성근 전 사단장에 대한 구명 로비 의혹을 수사하는 과정에서 김장환 극동방송 이사장과 이영훈 여의도순복음교회 목사에 대한 압수 수색을 진행해 개신교계의 큰 반발을 샀다. 참고인 신분인데도 피의자처럼 취급해 ‘종교적 자유 침해’ ‘변호인 조력권 침해’ 등 여러 논란을 불렀다. 또 사건 관련자들을 미행하거나 가족 등을 대상으로 탐문 활동을 벌여 법조계에서는 “검찰이 이렇게 수사했으면 민간인 사찰이라고 비판받았을 것”이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령 구속 후 외환 혐의에 대한 수사를 이어가고 있지만 뚜렷한 범죄 혐의를 찾지 못하고 있는 분위기다. 외환 유치죄, 일반 이적죄 등을 검토했지만, 정작 김용대 전 드론작전사령관에 대해 구속영장을 청구할 때는 허위 공문서 작성 혐의를 적용했다. 그조차 기각돼 최근까지 6차례나 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>배달 라이더 절반 “사고 경험 있다”</title>
-      <link>https://www.chosun.com/national/labor/2025/08/21/SYBQABNQVJGQJJZ4XOEMYBENLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/21/SYBQABNQVJGQJJZ4XOEMYBENLM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>배달업 종사자 2명 중 1명은 배달하다가 사고를 경험한 것으로 나타났다. 산업재해를 당한 배달 종사자도 4년 새 6배가 됐다.&lt;br&gt;&lt;br&gt;20일 고용노동부가 김위상 국민의힘 의원실에 제출한 연구 용역 보고서에 따르면, 조사 대상 배달 종사자 5626명 중 47%(2620명)는 배달하다가 사고를 당한 것으로 조사됐다. 배달 종사자는 평균 2.4회 사고를 겪었고, 5회 이상 겪은 비율도 15%였다. &lt;br&gt;&lt;br&gt;사고 발생 원인은 ‘법 위반’(72.6%)이 가장 많았다. 이 가운데 배달 종사자 본인이 법을 위반했다는 응답(5.5%)보다 상대방이 법을 위반했다는 응답(53.1%)이 많았다. 14%는 양측이 법을 위반한 경우였다. 날씨 때문에 일어난 사고는 12.7%, 야간 주행, 이륜차 고장으로 난 사고는 각각 3.5%, 1.2%였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCY2XAA7RJC5NIZL4ANBJN67TA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달 종사자 산업재해 승인 건수는 2019년 1075건에서 2023년 6405건으로 약 6배가 됐다. 종사자의 경력이 짧을수록 산업재해를 많이 겪었다. 연구진은 “배달 업계가 저연차 종사자들에게 도로에서 발생할 수 있는 다양한 상황에 대한 교육을 해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“공습 땐 이렇게 대피하세요”… 전국서 민방위 훈련 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/21/ZUGWJHVO35HNFCDUOKJCO6GA7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/ZUGWJHVO35HNFCDUOKJCO6GA7M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLD4XQNJEVCK5F6P6RZC2GZIPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 오후 부산시 부산진구의 한 대형 마트에서 직원들이 민방위 훈련을 하고 있다. 공습 상황을 가정해 몸을 숙이고 줄지어 대피하고 있다. 이날 전국 곳곳에서 이 같은 민방위 훈련이 실시됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>가뭄 고통 강릉… 제한 급수 시작</title>
       <link>https://www.chosun.com/national/regional/gangwon/2025/08/21/BLKHMZXEINEJ7KKZJ5D3PFYHBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/08/21/BLKHMZXEINEJ7KKZJ5D3PFYHBY/</guid>
@@ -738,33 +855,6 @@
       <content:encoded>서울고법이 윤석열 전 대통령의 미국 순방 당시 불거진 MBC ‘자막 논란’과 관련해 최근 외교부에 소송 취하를 권고하는 결정을 내렸다.&lt;br&gt;&lt;br&gt;서울고법 민사13부(재판장 문광섭)는 지난 18일 외교부가 MBC를 상대로 낸 정정 보도 청구 소송에서 “외교부는 소를 취하하고 MBC는 이에 동의하라”는 강제 조정 결정을 내렸다. 강제 조정은 민사 재판에서 원·피고 간에 조정이 불발됐을 때 법원이 직권으로 내리는 결정이다. 강제 조정 결정에 대해 2주 안에 양측이 이의를 제기하지 않으면 그대로 확정된다. &lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 조 바이든 당시 미국 대통령이 뉴욕에서 주재한 한 행사에 참석한 뒤 행사장을 떠나던 윤 전 대통령 발언이 발단이 됐다. 당시 MBC는 윤 전 대통령이 한 발언을 전하며 “(미국) 국회에서 이 XX들이 승인 안 해주면 ‘바이든’은 쪽팔려서 어떡하나”라는 자막을 달았다. 대통령실은 “국회는 한국 국회를, 바이든이 아니라 ‘날리면’이라고 말한 것”이라고 주장했다. 이후 외교부는 그해 12월 MBC를 상대로 정정 보도 청구 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 MBC의 보도를 허위로 보고 정정 보도를 명령했다. 하지만 MBC가 항소했고 서울고법 재판부는 지난달 24일 조정 기일을 열었지만 양측 간에 합의가 이뤄지지 않았다. &lt;br&gt;&lt;br&gt;항소심 재판부는 18일 강제 조정 결정을 내리면서 “(윤 전 대통령) 발언의 성격, 언론·표현의 자유, 사회적 갈등 비용 등을 종합해볼 때 외교부가 소를 철회하는 방식이 바람직하다”고 했다. 재판부는 전문가가 ‘음성 판독 불가’ 결론을 내린 것을 토대로 “외교부가 제출한 증거만으로는 이 사건 보도가 허위임을 인정하기 부족하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>선로 위 걷는 근로자들… 이동 중엔 보호 규정이 없다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/21/4AEY7JLCZ5ET5MAV2ORXI4PKNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/21/4AEY7JLCZ5ET5MAV2ORXI4PKNY/</guid>
-      <dc:creator>김아사 기자, 이승규 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>사상자 7명을 낸 지난 19일 경북 청도군 경부선 열차 사고는 미흡한 안전 규칙과 작업자 보호 장치로 인한 참사라는 정황이 속속 드러나고 있다. 앞서 6년 전 비슷한 사망 사고가 발생했는데도, 코레일이 예방 조치를 강화하지 않았다는 비판도 나오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7Q7FI24TBADJI2VHLRUZ4TY64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사건 현장 합동 감식 - 20일 경북 청도군 화양읍의 경부선 무궁화호 열차 사고 현장을 찾은 경북경찰청, 국립과학수사연구원, 항공철도사고조사위원회 관계자들이 합동 감식을 하고 있다. 하루 전인 19일 오전 이곳에선 작업자 7명이 무궁화호 열차에 치이는 사고가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 본지 취재 결과, 이번 사고 같은 상황에서 근로자들이 선로와 어느 정도 떨어져 있어야 한다는 규정이 명확하지 않았던 것으로 확인됐다. 코레일의 작업은 열차를 멈추고 진행하는 ‘차단 작업’과 열차를 멈추지 않고 진행하는 ‘상례 작업’으로 나뉜다. 작업 위치가 선로에서 2m 바깥이면 ‘위험 지역’이 아니라고 보고 상례 작업으로 진행한다. 이번 사고 당시 작업자들은 폭우 뒤 비탈면 이상 여부를 점검하겠다고 작업을 신청했고, ‘상례 작업’으로 분류돼 진행됐다. &lt;br&gt;&lt;br&gt;문제는 이번 사고 당시처럼 근로자들이 작업 현장으로 ‘이동 중’일 때 관련 규정이 제대로 없다는 점이다. 현재 코레일의 ‘열차운행 선로지장작업 업무세칙‘은 ’작업장‘이 선로에서 2m 밖일 때 ’상례 작업‘을 한다고 규정할 뿐, 이동할 때 선로와 거리가 어느 정도가 되어야 하는지 명확하게 정하지 않고 있다. 단지 ‘작업 이동 시 선로 옆 자갈이 깔린 노반으로 이동하고, 노반이 충분하지 않을 경우 열차 대피가 용이한 곳으로 이동해야 한다’고만 돼있다. 이번 사고 작업자들은 선로와 바짝 붙거나 아예 선로 위로 이동했다가 뒤쪽에서 접근한 열차에 치였을 가능성이 높다. 경상자 성모씨는 “공간이 좁아서 어쩔 수 없이 선로 위를 걸었다”고 한 언론에 밝혔다. 이처럼 이동 중 선로에서 2m 이내로 진입해 열차 접근 시 피하기 어려울 정도라면, 상례 작업을 하지 못하도록 규정으로 못 박았어야 한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;전문가들은 ‘선로에서 2m’라는 기준도 위험할 수 있다고 지적한다. 시속 100km가 넘는 열차 속도를 감안할 때 2m 거리는 안전을 확보하기가 사실상 불가능하다는 것이다. 또 현장에 2m를 표시하는 선도 없어서 작업자들이 2m 안팎을 넘나들더라도 막기 어렵다. 한 사립대 철도학과 교수는 “안전을 작업자들의 양심에 맡기고 있다”면서 “이 기준 때문에 상례 작업 자체가 매우 위험해지는 것”이라고 했다. 사고 지점도 선로 2m 밖은 풀이 우거져 진입이 어려운 곳이기 때문에 작업자들은 2m 안쪽에서 이동하고 작업할 수밖에 없는 상황이었다. &lt;br&gt;&lt;br&gt;철도 작업자의 ‘생명줄’인 ‘열차 경보기’도 제 역할을 전혀 못 했다. 작업자 7명은 경보기를 4개 갖고 있었고 정상 작동됐다고 코레일 측은 밝혔다. 그런데도 작업자들이 열차를 피하지 못하고 변을 당했다. 경찰은 사고 발생 바로 직전에 다른 열차가 다녔다는 사실에 주목하고 있다. 본지가 입수한 보안 카메라 영상에 따르면, 사고 3분 전쯤 상·하행 선로에 화물 열차와 여객 열차가 지나갔다. 이 열차들이 지나갈 때 경보가 울린 다음 사고 열차가 지나갔을 때 다시 경보가 울리자 근로자들이 이를 오작동으로 오인했을 가능성도 있다는 것이다. &lt;br&gt;&lt;br&gt;2019년 10월 경남 밀양역에서도 작업자들에게 열차의 접근 사실이 제대로 전해지지 않아 사고가 발생했다. 코레일 작업자 3명이 선로 주변에서 작업하다 열차에 치여 1명이 숨지고 2명이 중상을 입었다. 당시 근로자들은 굉음을 내는 특수 장비로 작업을 하고 있어서 열차 접근을 알리는 ‘무전’을 제대로 듣지 못해 변을 당했다. 그런데 이 사건 이후에도 코레일은 경보기 보급을 확대했을 뿐, 다른 조치를 취하지 않았다. 한 코레일 협력업체 관계자는 “지금 같은 경보 시스템은 소음에 취약할 수밖에 없다”면서 “정확한 열차 위치를 근로자들에게 알려줄 수 있는 새로운 알림 시스템을 고민해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이번 사고의 사상자 7명 중 6명은 민간 하청 업체 근로자다. 사망자 2명 중엔 올해 입사한 30대 신입 직원도 있었다. 사고 업체는 코레일과 업무 계약을 맺은 곳인데, 이번 작업은 최근 내린 폭우로 국토교통부의 특별 점검 지시가 내려오며 계획에 없다가 추가된 것이다. 갑작스러운 지시에 업체는 다른 지역에서 일하던 직원들까지 불러 투입했다. &lt;br&gt;&lt;br&gt;이날 국회 환경노동위원회 전체 회의에서도 청도 열차 사고가 쟁점이 됐다. 김영훈 고용노동부 장관은 “코레일은 100% 정부가 소유하는 기업이다. 이번 사고의 책임자는 누구라고 생각하느냐”는 우재준 국민의힘 의원 질문에 “수사 결과에 따라 엄정하게 책임을 물어야 된다고 생각한다”고 했다. 그는 그러나 이재명 대통령이나 국토교통부 장관이 사고를 책임져야 한다는 야당 주장에 대해선 강하게 반박했다. 김 장관은 “중대재해처벌법에는 경영 책임자에 대한 책임을 묻게 돼 있는데 (코레일은) 국토부 장관이 경영 책임자가 아니고 감독 기관”이라며 “민간 기업의 원·하청 관계를 국가기관에 적용하기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김병준 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/21/Q7D5UHQH4RAGHDJCJKQIPM2DII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/21/Q7D5UHQH4RAGHDJCJKQIPM2DII/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김병준 &lt;/b&gt;별세, &lt;b&gt;소금녀 &lt;/b&gt;남편상, &lt;b&gt;김명희&lt;/b&gt;·&lt;b&gt;김석규&lt;/b&gt;·&lt;b&gt;김행규&lt;/b&gt;·&lt;b&gt;김옥실&lt;/b&gt;·&lt;b&gt;김동규&lt;/b&gt; NH농협손해보험 제주총국장 부친상, &lt;b&gt;임수홍&lt;/b&gt; 장인상, &lt;b&gt;송경애&lt;/b&gt;·&lt;b&gt;양복순&lt;/b&gt;·&lt;b&gt;이인숙&lt;/b&gt; 시부상=20일4시22분 제주 부민장례식장, 발인 22일7시40분, (064)742-5000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;오동희&lt;/b&gt; 前 대구시교육감 별세, &lt;b&gt;박종순&lt;/b&gt; 남편상, &lt;b&gt;오명숙&lt;/b&gt;·&lt;b&gt;오인규&lt;/b&gt; 前 대구은행 지점장·&lt;b&gt;오준영&lt;/b&gt; 삼성전자 상무 부친상, &lt;b&gt;최석근&lt;/b&gt; 前 KEB외환은행 지점장 장인상, &lt;b&gt;함지영&lt;/b&gt;·&lt;b&gt;이원주&lt;/b&gt; 시부상, &lt;b&gt;오승엽&lt;/b&gt;·&lt;b&gt;오연경&lt;/b&gt;·&lt;b&gt;오승현&lt;/b&gt;·&lt;b&gt;오진하&lt;/b&gt;·&lt;b&gt;오윤하&lt;/b&gt; 조부상, &lt;b&gt;최연준&lt;/b&gt;·&lt;b&gt;최연혁&lt;/b&gt; 외조부상=19일21시43분 대구 영남대병원, 발인 22일9시, (053)620-4231&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조주형&lt;/b&gt; 별세, &lt;b&gt;황재윤&lt;/b&gt; 남편상, &lt;b&gt;조혜정&lt;/b&gt;·&lt;b&gt;조현욱&lt;/b&gt; 전북일보 사진부 기자 부친상, &lt;b&gt;박광일&lt;/b&gt; 장인상=20일10시 광주광역시 스카이장례식장, 발인 22일7시30분, (062)951-1004&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 성주재단·이화여자대학교 패션디자인학과 ‘KIFT (Korea International Fashion Tech) 2025’ 개최</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/21/L4YJWHOIWRDDZJUAY4Z6KLLJYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/21/L4YJWHOIWRDDZJUAY4Z6KLLJYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>성주재단과 이화여자대학교 패션디자인학과가 오는 9월 5일 오후 2시 서울 이화여자대학교 대학원관 중강당에서 ‘KIFT (Korea International Fashion Tech) 2025’를 개최한다. 지난해 이탈리아 밀라노에서 처음 열린 KIFT는 패션과 기술의 융합을 주제로 한 글로벌 포럼이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>탈북 독거 노인에게 장수사진 선물한 ‘1일 짝꿍들’</title>
       <link>https://www.chosun.com/national/people/2025/08/21/MIRV5W72HBAGZFRQIWOPC7MVKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/21/MIRV5W72HBAGZFRQIWOPC7MVKA/</guid>
@@ -772,33 +862,6 @@
       <description/>
       <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
       <content:encoded>지난 16일 서울 강서구 남북통합문화센터. 탈북민 마순희(74)씨가 아끼는 분홍색 꽃무늬 블라우스를 입고 카메라 앞에 섰다. 화사한 옷과 달리 무뚝뚝한 표정에 카메라 옆에서 마씨를 지켜보던 자원봉사자 김명래(75)씨는 “남한에선 예순다섯이 넘어가면 무병장수하라는 의미로다가 활짝 웃으면서 장수 사진을 찍는 거여, 예쁘게 웃어”라며 웃었다. 그러자 김씨의 표정이 금세 마씨에게 옮겨갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQYOQBY2ZJDJLJMBQPO56PALSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 서울 강서구 남북통합문화센터에서 탈북민 마순희(앞줄 가운데)씨가 자원봉사자들과 기념 촬영을 하고 있다. 뒤에 선 자원봉사자가 김명래씨와 박유경양이다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함경북도 무산 출신인 마씨는 1998년 두만강을 건너 2003년 한국에 발을 디뎠다. 충남 아산 출신인 김씨와는 이날 처음 만났지만 비슷한 또래라는 이유로 손쉽게 언니 동생 사이가 됐다. 두 사람의 인연을 닿게 한 건 남북통합문화센터에서 마련한 탈북 어르신 장수 사진 촬영이다. 마씨를 포함해 서울 강서구·양천구 일대에서 홀로 사는 탈북 어르신 29명을 위해 생전 모습을 찍어주는 행사였다. 이 센터 자원봉사팀 소속 30여 명은 이날 어르신들의 ‘일일 짝꿍’으로 곁을 지켰다. 어르신들의 머리 손질과 화장은 탈북민 출신 미용사 양정화(37)씨가 도맡았다. 휴무를 반납하고 전북 전주에서 올라왔다는 양씨는 “남한에서 처음 배운 미용 기술로 봉사를 하고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;영정 사진을 찍는다는 생각에 어르신들의 표정이 어두워지는 순간도 있었다. 하지만 자원봉사자 중 최연소인 박유경(18)양과 사진작가 박민기씨가 “환하게 웃어야 오래 산다”고 말하자 다시 웃음꽃이 폈다. 어르신들은 모두 이날 촬영을 위해 가장 아끼는 옷을 꺼내 입었다. 전국노래자랑에 출연해 ‘북에서 온 실버 스타’로 이름을 알린 김병수(84)씨는 무대에 오를 때만 착용한다는 무지갯빛 반짝이 넥타이를 맸다. 정영옥(80)씨는 “이런 날 아니면 언제 입어보겠냐”라며 딸이 맞춰 준 한복을 가방에서 꺼내 갈아입었다.&lt;br&gt;&lt;br&gt;남북통합문화센터는 가족 없이 홀로 지내는 탈북민 어르신이 늘자 이들의 외로움을 달래기 위해 이번 촬영을 기획했다. 남북하나재단에 따르면, 2021년만 해도 3명에 불과했던 탈북민 무연고 사망자 수는 작년 22명으로 늘었다. 탈북민들이 한국에 정착해 사는 기간도 길어져 65세 이상 탈북민이 전체 탈북민의 12.7%를 차지할 정도로 고령화가 진행되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘할리우드 거장’ 타란티노, 英서 연극 무대 도전</title>
-      <link>https://www.chosun.com/national/people/2025/08/21/M3IK27FP7VFERPH7YXI3OPSDLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/21/M3IK27FP7VFERPH7YXI3OPSDLU/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZEO2ZSIZBDZPNOVTKMNHWPYFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;할리우드 거장 쿠엔틴 타란티노(62) 감독이 연극 무대에 도전한다. 이르면 2027년 영국 런던 웨스트엔드에 코미디 장르 신작을 올릴 예정이다.&lt;br&gt;&lt;br&gt;타란티노는 최근 한 팟캐스트에서 “연극 극본이 완성됐다”며 “제작에 1년 반에서 2년이 걸릴 것”이라고 밝혔다. 내년 초 영국으로 이주해 본격적인 작업에 착수할 계획이다. 타란티노가 연극을 제작하는 것은 이번이 처음이다. 흥행에 성공하면 해외 공연과 영화화도 추진하겠다고 했다. &lt;br&gt;&lt;br&gt;타란티노는 1992년 영화 ‘저수지의 개들’로 데뷔해 ‘펄프 픽션’으로 칸영화제 황금종려상을 받았고, ‘킬 빌’ 시리즈로 흥행에도 성공해 세계적 감독 반열에 올랐다. 평소 “영화는 10편만 찍겠다”고 밝혔는데, 2019년에 선보인 ‘원스 어폰 어 타임 인 할리우드’가 9번째 작품이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 국민대 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/21/DBZSAJ4EXBEZVLYBFK7JBMGCSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/21/DBZSAJ4EXBEZVLYBFK7JBMGCSU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;국민대&lt;/b&gt;▷교학부총장 나창순▷교무처장 강동욱▷총무처장 이성욱▷국제교류처장 김병준▷입학처장 조욱연▷과학기술대학장 김태종▷대학원장 김재홍▷자동차모빌리티대학원장 겸 자동차산업대학원장 장시열&lt;br&gt;&lt;br&gt;&lt;b&gt;▲스포츠조선&lt;/b&gt;▷경제산업본부장 전상희&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>축구선수 양재우, 스페인 영화 韓배우 첫 주연</title>
-      <link>https://www.chosun.com/national/people/2025/08/21/TENX3264I5AJZNQLKRFAECIM7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/21/TENX3264I5AJZNQLKRFAECIM7A/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XM5BSXINI5BYXMU26UAK54REKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 배우가 처음으로 스페인 장편영화의 주연을 맡게 됐다. 영화 ‘시게 미 보즈’(Sigue Mi Voz·내 목소리를 따라)에서 한국인 축구선수 겸 배우 양재우(24)가 남자 주인공 ‘강’ 역으로 캐스팅됐다. 양재우는 11세에 스페인으로 건너가 비야레알 유소년팀에서 축구를 시작했으며, 현재 모스토레스 CF 소속 선수이자 유소년팀 감독으로도 활동 중이다.&lt;br&gt;&lt;br&gt;원작 웹소설 속 주인공이 한국인이라는 설정을 제작진이 그대로 반영한 결과다. 영화는 집에 틀어박혀 라디오만 듣던 여주인공이 라디오 DJ 강의 목소리에 이끌려 세상 밖으로 나오는 과정을 그린다. 원작은 베네수엘라 작가 아리아나 고도이의 동명 소설로 누적 조회 수 3680만 회를 기록한 인기작이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 수영복 관리법</title>
@@ -810,15 +873,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKON6LIRCNAINLSHDWAFKX4GJI.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수영복을 입은 뒤엔 곧바로 물에 여러 차례 헹궈서 소금기를 제거하는 게 좋다. 이후 중성세제로 세탁해 평평한 곳에서 말리면 섬유 손상 없이 오래 입을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [동물 이야기] 공항·기차역에서 활약하는 경찰견, 진돗개도 할 수 있을까?</title>
-      <link>https://www.chosun.com/national/nie/2025/08/21/3MLTRICHSZCKPKC34NWAVPDS74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/21/3MLTRICHSZCKPKC34NWAVPDS74/</guid>
-      <dc:creator>신종필 경찰견종합훈련센터 교수</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>요즘 우리나라에서도 토종 진돗개를 경찰견으로 훈련하려는 시도가 이어지고 있어요. 진돗개는 충성심이 강하고 똑똑한 데다, 특히 냄새를 따라가는 능력이 뛰어나기로 유명하죠. 그래서 경찰인재개발원 경찰견종합훈련센터에서는 실종자를 찾거나 범인을 추적하는 임무에 활용할 수 있을지 연구 중이랍니다. 그동안 진돗개가 경찰견으로 활약하기 어려웠던 것은 독립심이 강하기 때문이었는데요. 명령을 그대로 따르기보다는 스스로 판단하려는 성향이 크지요. 그래서 독일 셰퍼드나 리트리버와 같이 복종 훈련을 잘 받는 개보다 활용하기 어렵다고 볼 수도 있어요. 하지만 진돗개는 체력도 좋아서, 앞으로 경찰견으로 기대해 볼 만한 토종견이에요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6THS2EJAKZFSNAGVAQMURL7G5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰견에 도전하는 진돗개 '상만'(왼쪽)과 '임회'. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항에서 마약과 폭발물을 탐지하거나, 범죄자를 추적하는 개들을 본 적이 있을 거예요. 바로 이 친구들이 경찰견이에요. 그렇다면 어떤 개가 경찰견이 될 수 있을까요? 모든 개가 경찰견이 될 수 있지는 않답니다. 건강뿐 아니라 기질도 꼼꼼히 평가해요. 여기에 후각 능력, 대담성 같은 항목도 테스트하죠. 이걸 다 통과해야 비로소 경찰견 훈련을 시작할 수 있어요.&lt;br&gt;&lt;br&gt;경찰견 훈련은 아주 어린 시절부터 해요. 생후 두세 달 정도 되면 사회화 훈련을 받으면서 사람과 친해지고, 낯선 환경에 놀라지 않도록 적응 연습을 하죠. 큰 소리나 미끄러운 바닥, 여러 사람과 동물 등 다양한 상황을 겪으면서 자신감을 키워요. 그다음에는 “앉아” “기다려” “따라와” 같은 기본 복종 훈련을 받아요. 이렇게 훈련하면서 사람 지시에 집중하고 빠르게 반응하는 습관을 들이는 거예요. 그 뒤에는 개의 성격과 능력에 맞춰 특수 훈련이 이어지죠. 마약 탐지견은 특정 냄새가 나는 물체를 긁거나 물어서 신호를 보내게 하고, 폭발물 탐지견은 냄새를 맡으면 자리에 앉도록 가르쳐요. 추적 훈련도 있는데, 이건 어떤 사람의 체취를 기억했다가 대상자를 찾으면 짖거나 앉게끔 하는 것이랍니다.&lt;br&gt;&lt;br&gt;같은 경찰견이라고 해도 나라에 따라 활용하는 방식이 다르답니다. 미국이나 유럽에서는 경찰견이 범인을 제압하거나 군중을 통제하는 역할까지 맡아요. 하지만 우리나라에선 아직 법적 근거가 부족해 경찰견이 실제로 범인을 무는 임무는 하지 않지요. &lt;br&gt;&lt;br&gt;경찰견은 종마다 맡는 임무가 따로 있답니다. 예를 들어, 저먼 셰퍼드는 지능과 체력이 뛰어나고 위압감 있는 외모 덕분에 공항이나 시위 현장에서 자주 활용돼요. 사람을 위축시키는 효과가 있죠. 또 벨지언 말리누아는 민첩하고 반응이 빨라 특수부대에서 인기가 많고, 래브라도 리트리버는 온순하고 공격성이 낮아 기차역같이 사람이 많은 장소에서 탐지견으로 주로 활약하죠. 잉글리시 스프링어 스패니얼은 몸집이 작지만 후각이 좋아서 마약이나 폭발물을 찾는 데 뛰어나답니다. &lt;br&gt;&lt;br&gt;경찰견도 ‘은퇴’가 있답니다. 엄격한 선발 과정과 고된 훈련을 거친 개도 나이가 들면 은퇴해서 일반 가정에 분양되기도 하는데, 우리나라에서는 아직 분양률이 높은 편은 아니랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 8월 21일</title>
       <link>https://www.chosun.com/national/transport-environment/2025/08/21/SL3S3CV7T5CJTKLOPQTG6WNACM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/21/SL3S3CV7T5CJTKLOPQTG6WNACM/</guid>
@@ -826,42 +880,6 @@
       <description/>
       <pubDate>Wed, 20 Aug 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YATWVZFDDFFVZLPHYBSKRTWQJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] 3일간 사투로 얻은 고기 빼앗긴 어부 “그래도 인간은 패배하지 않는다”</title>
-      <link>https://www.chosun.com/national/nie/2025/08/21/FJKDUKXWKRER5GSCMCJLWYCYKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/21/FJKDUKXWKRER5GSCMCJLWYCYKE/</guid>
-      <dc:creator>이진혁 출판 편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NT3FUSI6P5DQVJPDVGAKD7P4QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;노인과 바다&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;어니스트 헤밍웨이 지음｜김욱동 옮김｜민음사｜가격 8000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;열심히 준비했는데도 결과가 기대만큼 나오지 않은 경험이 있지요. 시험공부를 몇 주 동안 했는데 원하는 점수를 얻지 못한다든가, 운동 경기에서 끝까지 뛰었지만 결국 패배하고 마는 순간처럼요. 그럴 때는 힘이 빠지고, ‘왜 이렇게까지 해야 할까?’라는 생각이 들기도 합니다. 어니스트 헤밍웨이의 ‘노인과 바다’는 바로 그런 질문 앞에 선 우리에게 큰 울림을 주는 고전입니다.&lt;br&gt;&lt;br&gt;이야기의 주인공은 쿠바의 늙은 어부 산티아고입니다. 그는 무려 84일 동안 한 마리의 고기도 잡지 못했습니다. 사람들은 그를 ‘가장 운이 없는 사람’이라며 비웃었지요. 하지만 노인은 흔들리지 않았습니다. 그리고 85일째 되는 날, 그는 자신을 믿어주는 유일한 존재인 소년 마놀린의 배웅을 받으며 다시 넓은 바다로 나아갑니다.&lt;br&gt;&lt;br&gt;노인은 마침내 그의 조각배보다도 훨씬 큰 청새치와 마주칩니다. 그때부터 꼬박 사흘에 걸친 사투가 시작됩니다. 노인은 손이 베이고, 배고픔과 갈증에 시달리면서도 낚싯줄을 놓지 않습니다. 놀라운 것은 그가 청새치를 정복의 대상으로 여기지 않는다는 점입니다. 오히려 그는 “너보다 크고, 아름답고, 침착하고 고결한 놈은 보지 못했구나”라며 존경심을 표하지요.&lt;br&gt;&lt;br&gt;긴 싸움 끝에 그는 마침내 청새치를 잡습니다. 하지만 이게 끝이 아니었어요. 곧 피 냄새를 맡은 상어들이 몰려와 청새치를 갉아먹기 시작합니다. 노인은 작살, 칼, 노, 심지어 배의 키까지 뽑아 싸우지만 결국 항구에 돌아왔을 때 남은 것은 뼈뿐이었습니다.&lt;br&gt;&lt;br&gt;여기까지 읽으면 허무함을 느낄지도 모릅니다. 그러나 헤밍웨이는 이 지점에서 이렇게 말하지요. “하지만 인간은 패배하도록 만들어진 게 아니야. 인간은 파멸당할 수는 있을지 몰라도 패배할 수는 없어.”&lt;br&gt;&lt;br&gt;이 소설의 감동은 힘든 과정을 끝까지 버티고 견뎌낸 노인의 태도에 있습니다. 그는 운이 없다고 세상을 탓하지 않았고, 자신의 한계를 시험하는 고통 속에서도 존엄성을 잃지 않았습니다. 그는 바다를 ‘어머니’처럼 여기며 자연의 섭리를 겸허히 받아들였습니다.&lt;br&gt;&lt;br&gt;무엇보다 산티아고는 혼자가 아니었습니다. 가장 힘들 때에도 그는 자신을 믿고 따르는 마놀린을 떠올렸습니다. 마놀린의 존재는 노인에게 다시 돌아가야 할 세상이 있다는 증거였습니다.&lt;br&gt;&lt;br&gt;마지막에 산티아고는 지쳐 잠들며 꿈을 꿉니다. 꿈속에는 젊은 시절 보았던 아프리카의 사자들이 나타납니다. 늙고 지친 그의 몸과 달리, 사자는 힘과 용기의 상징이었습니다.&lt;br&gt;&lt;br&gt;어쩌면 우리의 삶도 거대한 바다 위에서 펼쳐지는 항해와 같을지 모릅니다. 때로는 오랜 노력에도 아무것도 얻지 못하고, 때로는 상상도 못 한 시련이 모든 것을 앗아가기도 하지요. 하지만 이 소설은 우리에게 진정한 승리는 남들이 부러워하는 성취나 결과에 있는 것이 아니라고 말해 줍니다. 어떤 상황에서도 나 자신과 세상을 존중하며, 나를 믿어주는 단 한 사람의 마음을 잊지 않는 게 얼마나 중요한지를 깨우쳐주지요. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 하늘과 물의 神 혈통 이어받아… 정치·주술 능력 강조했죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/21/WM52C6TV3VH6FIPW774DC6QLUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/21/WM52C6TV3VH6FIPW774DC6QLUQ/</guid>
-      <dc:creator>유석재 역사문화전문기자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZ6UQ4TX6NARNOU4YM5VYOCXYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 50부작 애니메이션 '고주몽'의 한 장면. 북한은 고구려를 배경으로 한 여러 작품을 만들고 있는데, 고구려 역사를 계승했다는 것을 드러내기 위해서인 것으로 보입니다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북한이 고구려 건국 스토리를 담은 50부작 애니메이션 ‘고주몽’의 제작을 마치고 TV 방영 중이라는 뉴스가 최근 나왔어요. 고구려를 중국사의 일부로 편입하려는 중국의 ‘동북공정’에 맞서는 것은 좋은 일이지만, 좀 유의해야 할 점이 있습니다.&lt;br&gt;&lt;br&gt;북한은 ‘고구려·발해=북한’ ‘백제·신라=남한’이라는 도식적이고 유치한 역사관을 곧잘 드러낸다는 점입니다. ‘고구려를 계승한 북한의 정통성’을 내세우려는 속셈이 있다는 것이죠. 만약 대한민국에도 이런 분위기가 있었더라면 ‘주몽’ ‘광개토태왕’ ‘대조영’ ‘우씨왕후’처럼 고구려·발해를 배경으로 한 드라마는 나오기 어려웠을 겁니다. 오늘은 ‘고주몽’이 어떤 인물이었는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;박해를 딛고 나라 세운 영웅신화&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘삼국사기’ 등에 기록된 고구려 건국신화 내용부터 보죠. 고구려의 초대 임금 동명성왕(기원전 58~19, 재위 기원전 37~19)의 성은 고(高)씨이며 이름은 주몽 또는 추모였습니다. 아버지는 천제(天帝)의 아들 해모수, 어머니는 하백(강의 신)의 딸 유화였습니다. 임신한 유화는 부여 금와왕의 궁궐에서 머물다가 알을 낳았는데 거기서 주몽이 태어났습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFHNEANBVZBHRJLVKLLCRLY5OI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고구려 시대 무덤인 무용총 벽에 그려진 사냥 장면(수렵도)이에요. 말을 타고 활을 쏘는 모습은 주몽 신화의 활 솜씨와 기마 문화를 이어받은 고구려인들의 풍습을 상징적으로 보여주지요. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주몽은 자라면서 활을 잘 쐈는데 부여 왕자들이 그를 해치려 했고, 주몽은 친구인 오이·마리·협보를 비롯해 자신을 따르는 무리들을 이끌고 달아났습니다. 큰 강(송화강)에 가로막히자 자라와 물고기가 다리 역할을 해 줘 건너간 뒤 졸본부여라는 땅에 이르러 왕의 사위가 됐고, 마침내 왕위를 이어받으며 고구려라는 나라를 세웠습니다. 그가 바로 고구려의 초대 임금 동명성왕이었습니다.&lt;br&gt;&lt;br&gt;이 신화는 무슨 의미를 담고 있는 걸까요. 하늘과 물의 신의 혈통을 이어받은 고귀한 인물이 주인공입니다. 정치적 권위의 원천인 ‘하늘’을 강조하는 동시에, 농업 생산을 좌우하는 ‘물’ 또는 ‘땅’의 권위를 함께 주장하고 있는 것이죠. 출생에서부터 장애와 난관을 겪었지만 박해를 이기면서 한 왕조를 창건하는 영웅의 서사시로 볼 수 있습니다. 그만큼 후대 고구려인이 조상을 신격화·영웅화했던 것이죠. 주몽은 고구려는 물론 조선 시대에도 단군과 동격으로 제사의 대상이 됐습니다. 신화 속 주몽은 기마술과 궁술에 능한 무장인 동시에 주술사(주문을 외거나 술법을 부려 재앙을 막는 사람)의 면모를 보입니다. 여기서 정치와 주술 능력을 함께 지닌 고대 왕의 성격이 드러난다는 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;부여와 고구려의 건국신화는 같은 이야기?&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 여기서 조금 더 생각해 볼 것이 있습니다. 중국 철학사에서 비중이 큰 사상가로 후한의 왕충(27~97)이 있는데, 그의 대표 저서 ‘논형’에는 이런 이야기가 실렸습니다. ‘동명’이라는 인물이 알에서 태어나 활을 잘 쐈는데 핍박을 피해 도망가자 강에서 물고기와 자라가 다리를 놓아 줬고, 마침내 나라를 세웠다고요. 그런데 여기서 동명이 세운 나라는 고구려가 아니라 ‘부여’로 나옵니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NU4AIYFTEVHDJNACOUINGFBOLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주몽은 졸본(흘승골성)에 도읍을 정하고 고구려를 세웠다고 해요. 졸본으로 추정되는 중국 요령(랴오닝)성에 있는 오녀산성 일대 전경. 가파른 암벽을 둘러싸는 성벽이 건설됐습니다. /동북아역사넷&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어떻게 된 걸까요? 부여의 ‘동명왕’과 고구려의 ‘추모왕(주몽왕)’은 다른 사람이었는데 나중에 고구려가 부여의 ‘동명왕 신화’를 갖다 쓰게 되면서 동명왕과 추모왕, 부여 건국신화와 고구려 건국신화가 겹치고 혼동을 일으키게 됐다는 해석이 있습니다. 국내 역사서에는 부여 건국에 대한 기록이 따로 나오지 않지요. 신화 줄거리 자체가 스키타이·흉노·돌궐 등 유라시아 신화에서 자주 나타나는 스토리라고도 합니다. 결국 고구려와 부여는 같은 뿌리에서 나왔고, 고구려는 부여계 국가였다는 것입니다. 주몽의 아들 또는 의붓아들인 온조가 남하해서 백제를 세웠으니, 백제 역시 부여계인 것이죠. 백제는 6세기 성왕 때 국호를 ‘남부여’라 하기도 했습니다.&lt;br&gt;&lt;br&gt;고구려·백제·신라 삼국 중에서 두 나라가 부여계라는 것은 부여가 현대 한국인에게도 큰 영향을 미치고 있다는 것을 의미합니다. 중국 정사(正史) 중 하나인 ‘삼국지’(우리가 아는 소설 ‘삼국지연의’와는 다른 책입니다) 위서 동이전에서 부여의 제천의식 ‘영고’를 설명하는 대목 중 ‘음식가무(飮食歌舞)’를 즐겼다는 불멸의 네 글자가 기록돼 있습니다. ‘(며칠 동안 끊임없이) 마시고 먹고 노래하고 춤춘다’는 의미입니다. K팝과 K푸드가 세계를 휩쓰는 지금 보면 과연 고개를 끄덕일 만합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘다물’, 옛 땅을 다시 회복하다&lt;/b&gt;&lt;br&gt;&lt;br&gt;기원전 37년 임금이 된 주몽은 졸본(흘승골성)에 도읍을 정하고 나라 이름을 고구려라 했다고 ‘삼국사기’는 기록합니다. 졸본은 지금 중국 요녕(랴오닝)성에 있는 오녀산성으로 추정되는데, 가파른 암벽 위에 성이 있는 지형입니다. 서기 3년(유리왕 22년) 평지성인 국내성(지금의 중국 지안)으로 수도를 옮기기 전까지 고구려의 도읍이었던 곳이죠. 이후 427년(장수왕 15년) 고구려는 세 번째 수도로 도읍을 옮기는데 바로 평양이었습니다.&lt;br&gt;&lt;br&gt;사실 ‘삼국사기’에 기록된 동명성왕 고주몽의 연대가 확실한지는 의문입니다. 그러나 주목할 점은 기록상으로 고구려 건국 초기부터 주변 나라들을 병합하는 ‘정복 국가’의 모습을 보이고 있었다는 것입니다.&lt;br&gt;&lt;br&gt;기원전 36년(동명성왕 2년)에는 인근에 있는 나라 비류국의 송양왕에게 항복을 받았습니다. 비류국은 고조선을 계승한 정치 세력이고, 이 항복을 통해 고구려가 고조선을 계승했다는 해석도 있습니다. 이 대목에서 ‘삼국사기’에 기록된 용어가 ‘다물(多勿)’인데 비류국의 옛 땅을 다물도로 삼았다는 겁니다. 다물이란 고구려 말로 ‘옛 땅을 회복하는 것’이란 뜻이었다고 합니다. 이후 동명성왕은 기원전 33년 행인국을, 기원전 28년에는 북옥저를 병합했다고 기록됐습니다.&lt;br&gt;&lt;br&gt;고조선이 멸망한 뒤 중국의 한(漢)나라가 설치한 ‘한사군’ 중에서도 특히 현도군은 고조선 유민들의 끈질긴 항쟁으로 인해 내륙으로 옮기게 되고, 그 자리에 생겨난 정치 세력이 고구려였다는 점도 주목해야 합니다. 한마디로 ‘중국 통일 왕조의 침략에 맞선 항쟁 속에서 새롭게 생겨난, 군사력이 강한 한국사의 고대 왕조’가 고구려였다고 볼 수 있는 것입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 야유(揶揄)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/21/JZ7NW33OGBCXHLV6B7O4HNBABU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/21/JZ7NW33OGBCXHLV6B7O4HNBABU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNADA73A6BGPZL2SHL4ZFNBEDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 고요하고 평온하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/21/3A7BUXQPEBFDLCJTIRWLCS6N4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/21/3A7BUXQPEBFDLCJTIRWLCS6N4U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 20 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2DL4QMOA5B6DD5CIXHIJJCVIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 “특검이 모욕감 줘 안 좋은 선택 유도하는 것 같다”</title>
