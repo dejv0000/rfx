@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘전과 17범’ 대선 후보 송진호 또 구속…”미라클 시티”가 뭐기에</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/22/AWWPSPXO2VBOVBY5KCMFZ7YF2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/AWWPSPXO2VBOVBY5KCMFZ7YF2I/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 22:28:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYQ2IJTIEBQVUUPVXMNALY6R3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송진호 전 무소속 대선 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21대 대선에 기호 8번으로 무소속 출마하며 17건의 전과 기록 사실이 알려져 논란이 됐던 송진호씨가 사기 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;서울중앙지법은 지난 20일 송씨에 대해 “도주 및 증거 인멸 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;송씨는 2020년부터 캄보디아에 이른바 ‘미라클 시티’(기적의 도시)를 건설하겠다며 투자자들을 속여 수억 원을 가로챈 혐의를 받는다. 송씨는 미라클 시티가 산업단지와 복합 테마파크 등을 건설해 그곳에서 가상 화폐를 상용화하는 스마트 시티 개념이라고 주장했다. 또 ‘미라클 코인’을 상장하면 200배의 수익을 챙길 수 있다며 투자자들을 모집했지만, 5년이 지나도록 상장되지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이 과정에서 투자금 편취 등 송씨의 사기 정황을 포착하고 수사를 벌여온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편 송씨는 지난 6‧3 대선에 출마했을 당시 역대 대선 후보 중 최대 전과를 보유한 사실이 알려져 논란이 됐다. 선거관리위원회의 후보자 정보공개에 따르면 송씨는 사기와 폭력‧상해, 재물손괴, 근로기준법 위반, 부정수표단속법 위반 등의 혐의로 17차례 처벌받았다. 이 중 징역형을 선고받은 것은 8차례였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유승민 딸 유담, 31세에 교수 임용… 인천대서 강의</title>
+      <link>https://www.chosun.com/politics/politics_general/2025/08/22/NJPM7KXAHVCFTCVL246BMQG5ZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/politics_general/2025/08/22/NJPM7KXAHVCFTCVL246BMQG5ZU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 21 Aug 2025 21:53:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSHECC7LX5GGTPT5E4EO7HBCPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소셜미디어 생방송에 출연한 유승민 전 의원과 딸 유담씨. /유튜브 채널 '유승민 TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유승민 전 의원의 딸 유담씨가 다음 달부터 교수로서 대학 강단에 선다. &lt;br&gt;&lt;br&gt;21일 TV조선에 따르면 유씨는 2025학년도 2학기 전임교원 신규 임용에 합격해 다음 달 1일부터 인천대 글로벌정경대학 무역학부 교수로 임용된다. 유씨는 국제경영 분야 전공 선택 두 과목을 강의할 예정이다. &lt;br&gt;&lt;br&gt;1994년생인 유씨는 올해 31살이다. 동국대 법대를 졸업한 후 연세대에서 경영학 석사, 고려대에서 경영학 박사 학위를 취득한 것으로 전해졌다. 최연소 임용 교수는 아니다. 인천대에 따르면 과거 28세에 전임교원으로 임용된 사례가 있었다. &lt;br&gt;&lt;br&gt;유씨는 2016년 4월 열린 총선에서 유 전 의원이 대구 동구을에 무소속으로 출마했을 때 언론에 처음 모습을 드러냈고, 2017년 대통령 선거와 2022년 지방선거 출마 당시 선거 지원에 나서 화제가 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KVPAJJQ4SNWS3AMRG6LTY7H3X4.jpg?auth=b25b2d7452f337d7725e05e3546758ebb57fafef1f39370594b2e2deb2aff8e9&amp;smart=true&amp;width=1080&amp;height=663" type="image/jpeg" height="663" width="1080">
+        <media:description type="plain">4.13 총선 대구 동구을에 무소속으로 출마한 유승민 의원과 딸 유담씨가 30일 오후 대구시 동구 용계동 선거사무소에서 열린 개소식에서 지지자들에게 인사하고 있다.</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>10만명 찾아왔다, 강진 살린 ‘반값 여행’ 묘수</title>
       <link>https://www.chosun.com/national/regional/2025/08/22/DD5JFD2OVZFAJJJ6EYEUX7YA2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/DD5JFD2OVZFAJJJ6EYEUX7YA2U/</guid>
@@ -770,24 +792,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 03:58:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7Q7FI24TBADJI2VHLRUZ4TY64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 경북 청도군 화양읍의 경부선 무궁화호 열차 사고 현장을 찾은 경북경찰청, 국립과학수사연구원, 항공철도사고조사위원회 관계자들이 합동 감식을 하고 있다. 하루 전 이곳에선 작업자 7명이 무궁화호 열차에 치이는 사고가 발생했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이철우 경북도지사는 21일 도청 간부회의에서 “최근 발생한 청도 열차 사고의 명칭을 ‘무궁화호 열차 사고’로 통일해 사용해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 지사는 이번 사고를 ‘청도 열차 사고’라고 지칭하면 청도 지역 전체 이미지에 부정적인 영향이 우려된다고 했다. &lt;br&gt;&lt;br&gt;이에 따라 경북도는 중앙부처와 유관기관에 명칭을 공식 변경해 줄 것을 요청하고, 지역 행정기관 및 산하기관의 협조 공문 등 문서상 표현도 변경하기로 했다. 또 언론사에 제공하는 보도자료에서도 해당 사고를 ‘무궁화호 열차 사고’로 표기하도록 했다.&lt;br&gt;&lt;br&gt;도는 무안공항 참사로 불리다가 지역 반발 등에 따라 국토부가 ‘제주항공 여객기 참사’로 명칭을 바꾼 것을 참고해 열차 사고 명칭을 변경하기로 했다고 설명했다.&lt;br&gt;&lt;br&gt;경북도는 “사고 장소가 특정 지역명으로 불리면 지역 경제와 주민 생활 전반에 부정적 이미지가 나타날 수 있다”며 “사고 명칭 변경은 지역 명예를 지키기 위한 행정 조치”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>관광객으로 입국 대만인, 제주서 몰래 ‘여행 가이드’ 영업하다 들통</title>
-      <link>https://www.chosun.com/national/regional/2025/08/21/EM7ODDWJIVGNLB2SKTMBVGXUXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/21/EM7ODDWJIVGNLB2SKTMBVGXUXE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 04:11:33 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIEMN7HAABHHJIWIDZAIIG6R6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 자치경찰단이 불법 관광영업 행위에 대해 단속하고 있다./제주도 자치경찰단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여행 가이드 자격 없이 외국인을 상대로 불법 관광 영업을 한 40대 대만인이 적발됐다.&lt;br&gt;&lt;br&gt;제주도 자치경찰단은 관광진흥법 위반 및 출입국관리법 위반 혐의로 40대 여성 대만인 A씨를 적발했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 대만 현지 여행사를 통해 지인 23명을 모집해 지난 15∼19일 4박 5일간 제주에서 관광을 안내한 혐의를 받는다. 무자격 관광 통역 가이드를 고용한 제휴 국내 여행사에도 행정처분이 통보됐다.&lt;br&gt;&lt;br&gt;A씨는 관광 목적으로 제주에 입국한 뒤 관광통역안내 자격을 갖추지 않은 채 여행 가이드 활동을 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;출입국관리법상 관광 등 목적으로 입국한 관광객은 여행 이외의 활동을 할 수 없다.&lt;br&gt;&lt;br&gt;무자격 가이드 행위를 한 경우 과태료(1차 150만원·2차 300만원·3차 이상 500만원)가 부과된다. 체류 자격 외 활동을 할 경우 3년 이하의 징역 또는 3000만원 이하의 벌금형에 처할 수 있다.&lt;br&gt;&lt;br&gt;제주자치경찰 관계자는 “불법 관광 영업은 여행 일정에 면세점 방문을 과도하게 포함시켜 지나친 쇼핑을 유도하는 등 제주 관광의 질을 크게 떨어뜨릴 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;한편 자치경찰단은 지난 3월부터 불법 관광 영업 단속을 강화해 7월 말 기준 무등록 여행업 4건, 불법 유상운송 31건, 무자격 가이드 10건 등 총 45건을 단속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“벌레 잡으려 했다”...나무에 흉기 찍어 스토킹한 30대, 징역 1년 6개월 </title>
-      <link>https://www.chosun.com/national/regional/2025/08/21/5LALU5NN4VHK5GQQGADHCB2DQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/21/5LALU5NN4VHK5GQQGADHCB2DQE/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 03:49:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식당 주인에게 폭행을 하고 식당 인근 나무에 흉기를 찍는 등의 방식으로 스토킹한 30대가 “벌레를 잡으려고 그랬다”는 황당한 주장을 펼쳤지만 결국 실형을 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 스토킹 처벌법 위반, 특수재물손괴, 폭행 등 혐의로 기소된 A(32)씨에게 징역 1년 6개월을 선고했다고 21일 밝혔다. 이와 함께 보호관찰 2년, 스토킹 치료프로그램 이수 40시간도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 25일 오전 1시 15분쯤 B(35)씨가 운영하는 춘천의 한 식당 앞에서 B씨에게 주먹질을 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 식당 앞에서 담배를 피우며 지나가는 사람들에게 시비를 건 일로 112 신고를 당해 출동 경찰관과 사건 경위에 대해 이야기하던 도중 B씨가 “저 사람이 나한테도 뭐라 그랬다”고 말했다는 이유로 홧김에 이같이 범행했다.&lt;br&gt;&lt;br&gt;그는 3일 뒤 B씨 식당 앞까지 찾아가 인근에 있는 나무를 흉기로 찍어 경찰로부터 스토킹 경고장을 받고도 지난 4월 17일 또 식당에 찾아가 둔기를 휘둘러 출입문과 방범카메라, 음료 냉장고, 포스 컴퓨터 등을 망가뜨린 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A씨 측은 재판 과정에서 “B씨를 폭행한 사실이 없고 폭행의 고의도 없었을 뿐 아니라 흉기로 나무를 찍은 행위는 벌레를 잡기 위한 것이었다”는 주장을 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해자 진술이 일관되고 현장에 있던 경찰관 역시 A씨가 B씨를 폭행하는 장면을 목격한 점, 당시 상황이 CCTV 영상에 포착된 점 등을 종합할 때 A씨가 폭행의 고의를 가지고 A씨에게 주먹질 한 사실 등을 충분히 인정할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란 특검, ‘계엄 해제 회의 참석’ 박상우 전 국토부 장관 참고인 조사</title>
