@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 계엄 전 노상원과 자주 통화한 ‘제3자’...前 육참총장 비서실장 A씨는 누구</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/22/Y22NKTUTDND4XDI3Q6KAGZ42IA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/Y22NKTUTDND4XDI3Q6KAGZ42IA/</guid>
+      <dc:creator>김희래 기자, 유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 05:06:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YYLN2SKPEQCWVINVUFPNI53U5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노상원 전 정보사령관이 비상계엄을 준비했을 것으로 추정되는 시기에 집중적으로 통화한 제3자는 노 전 사령관과 근무연이 있는 예비역 중장 A씨인 것으로 전해졌다. 조은석 내란특검은 그에게 내란 방조 혐의를 적용할 수 있다고 보고 최근 그를 소환해 조사했다.&lt;br&gt;&lt;br&gt;법조계에 따르면, A씨는 예비역 중장으로 노 전 사령관의 육군사관학교 선배다. A씨는 노 전 사령관뿐만 아니라 ‘12·3비상계엄’ 사태를 주도한 김용현 전 국방부 장관과도 근무연이 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 과거 B 육군참모총장의 비서실장으로 근무했는데, 이때 김 전 장관이 비서실 지휘관리과장으로 근무했다. A씨가 비서실을 떠난 뒤에는 김 전 장관이 후임 비서실장에 임명됐다. 또 B씨는 육군참모총장 예편 직후 대통령경호실장(현 경호처장)으로 임명됐는데, 이때 경호실의 군사관리관이 노 전 사령관이었다고 한다. B씨를 매개로 노 전 사령관과 김 전 장관, A씨의 인연이 얽히고 설켜있는 것이다.&lt;br&gt;&lt;br&gt;특히 A씨는 이후 육군교육사령관으로 자리를 옮겼는데, 이때 노 전 사령관이 정보학교장으로 있으면서 A씨를 직속 상관으로 모셨다. A씨는 전역한 후 민간 기업 부사장으로 취임했으나, 현재는 일을 그만 둔 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 A씨가 대포폰을 사용해 노 전 사령관과 계엄 준비 시기에 긴밀하게 연락 주고받았다고 의심하고 있다. 다만 근거가 통화 기록뿐이라, A씨가 계엄을 방조했다는 구체적 혐의점은 포착하지 못한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘건진법사’ 전성배, 구속 후 첫 특검 조사 불출석... 건강상 이유</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/22/CZ4AIMHFKBBQNPB7ZVQRVKUBTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/CZ4AIMHFKBBQNPB7ZVQRVKUBTY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 05:04:41 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 스토킹 살인미수 피의자 33살 장형준 신상공개 </title>
+      <link>https://www.chosun.com/national/2025/08/22/KA7OPC6FQFHYRBYJJWGAAEWQO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/22/KA7OPC6FQFHYRBYJJWGAAEWQO4/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 04:48:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXCTXVXMPYSTQRWZKZ5FGVZM24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헤어진 전 연인을 흉기로 찔러 살해하려한 살인미수 혐의 피의자 장형준(33). /울산지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 울산에서 스토킹하던 20대 여성을 흉기로 찔러 살해하려 한 장형준(33)의 신상을 22일 공개했다. &lt;br&gt;&lt;br&gt;울산지검은 이날 살인미수 혐의로 장씨를 구속 기소하면서 장씨의 이름과 나이, 얼굴을 공개했다. 살인미수 혐의를 받는 피의자의 신상이 공개되기는 이번이 처음이다. &lt;br&gt;&lt;br&gt;장씨의 신상은 울산지검 홈페이지를 통해 30일간 공개된다. &lt;br&gt;&lt;br&gt;장씨는 지난달 28일 오후 3시 38분쯤 울산 북구의 한 병원 지상 주차장에서 자신이 스토킹하던 20대 여성 A씨를 기다렸다가 미리 준비한 흉기로 수십 회 찌른 혐의를 받는다. &lt;br&gt;&lt;br&gt;장씨는 앞서 스토킹 신고로 접근 금지 등의 잠정 조치를 받고 있었지만, A씨 직장을 찾아가 범행했다. A씨는 경찰에 바로 연락할 수 있는 스마트워치를 갖고 있었지만, 스마트워치를 누를 겨를도 없었다. &lt;br&gt;&lt;br&gt;장씨는 범행 직후 차를 몰아 도주하려고 했지만, 주변에 있던 시민들이 저지하면서 경찰에 붙잡혔다. 장씨는 지난달 30일 도주 우려가 있다며 구속됐다.&lt;br&gt;&lt;br&gt;경찰로부터 사건을 넘겨받은 검찰은 장씨의 범행이 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’에서 규정하는 신상정보 공개 요건에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;이 법에 따르면 ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다. 미성년자의 경우는 공개하지 않는다. 심의회 심의를 거쳐 공개를 결정하면 얼굴과 성명, 나이 등의 신상을 공개할 수 있다.&lt;br&gt;&lt;br&gt;살인미수 혐의 피의자의 신상이 공개되기는 이번이 처음으로 전해졌다. 지난 2015년 10월 발생한 부산 서면 사격장 총기 탈취 사건 피의자가 강도살인미수 및 강도예비 혐의 등으로 공개된 사례는 있었지만, 살인미수 혐의로만 공개된 사례는 이제껏 없었다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “병원비·생계비·주거 이전비 등 피해자를 위한 경제적 지원, 중상해 구조금 지원, 피해자와 가족에 대한 심리 치료 지원 등 실효적인 피해 회복이 이뤄질 수 있도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6LOLQUITU5AXHEIYJDRUABA3KA.JPG?auth=b5de04c79affb90420fcf3bfe5274ba240d6483e841bd79c68232ddec5afeef5&amp;smart=true&amp;width=241&amp;height=181" type="image/jpeg" height="181" width="241">
+        <media:description type="plain">살인미수 혐의를 받는 장형준의 신상정보가 22일 공개됐다.(울산지검홈페이지 갈무리. 재판매 및 DB 금지)</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>부산 앞바다서 발견된 상어 사체… 길이 3ｍ, 무게 100㎏</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/22/XKQTFDJDL5BGZGZH4HWR6FQJWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/XKQTFDJDL5BGZGZH4HWR6FQJWM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 04:37:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7TG3LB5DZ4UFBQYS4L2AGYYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해상에서 인양된 상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 영도구 해상에서 길이 3ｍ, 무게 100㎏의 상어 사체가 발견됐다. &lt;br&gt;&lt;br&gt;부산해양경찰서는 22일 오전 6시 30분쯤 부산 영도구 봉래동 물양장 앞 해상에서 상어 사체를 발견해 크레인으로 인양했다고 밝혔다.&lt;br&gt;&lt;br&gt;길이 3ｍ, 무게 100㎏의 상어는 흰배환도상어로 확인됐다. 흰배환도상어는 공격성이 약한 종으로 분류된다. 전 세계 열대에서 아한대 해역의 연안으로부터 외양까지 널리 분포하며, 해양의 표층에서부터 수심 370m까지 서식한다. 먹이는 주로 군집을 이루며 사는 어류와 오징어류인 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZWY5PLZL4TNCS42YCYWFCZ6HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 인양된 흰배환도상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRBW54U5YRAXPCCBXRSZ7OINAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 인양된 흰배환도상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경은 해상 순찰을 하다가 바다에 떠 있는 상어를 발견했다. 발견 당시 이미 죽어 부패가 진행된 상태였으며, 작살이나 포획 흔적은 없었다. 해경 관계자는 “포획 흔적은 보이지 않았다”며 “상어 사체가 조류로 떠밀려오며 해상에서 발견된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;부산 앞 해상에서 상어가 발견된 건 처음은 아니다. 작년 9월 자갈치 크루즈 선착장 앞 해상에서 공격성이 강한 청새리상어로 추정되는 상어 사체가 발견된 바 있다. 또 같은 달 말엔 영도구 생도 인근 해상에서 밤낚시를 하던 선원이 청상아리의 공격을 받아 부상을 입는 일이 벌어지기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 영도 앞바다서 3m 길이 상어 사체 발견</title>
+      <link>https://www.chosun.com/national/regional/2025/08/22/2DDUDIC2BVGEHGAEU25WGVN55I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/2DDUDIC2BVGEHGAEU25WGVN55I/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 04:27:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZWY5PLZL4TNCS42YCYWFCZ6HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 발견된 '흰배환도상어' 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산해양경찰서는 22일 오전 6시 30분쯤 부산 영도구 봉래동 물양장 앞 해상에서 상어 사체를 발견해 인양했다고 밝혔다.&lt;br&gt;&lt;br&gt;길이 3ｍ, 무게 100㎏의 상어는 흰배환도상어로 확인됐다.&lt;br&gt;&lt;br&gt;흰배환도상어는 공격성이 약한 종으로 분류된다.&lt;br&gt;&lt;br&gt;해경은 해상 순찰을 하다가 바다에 떠 있는 상어를 발견했으며 발견 당시 이미 죽은 상태였다.&lt;br&gt;&lt;br&gt;해경 관계자는 “상어 사체가 조류로 떠밀려오며 해상에서 발견된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘세관 마약 수사 외압’ 합동수사팀, 임은정 동부지검장이 지휘</title>
       <link>https://www.chosun.com/national/court_law/2025/08/22/GETY3BVIMJF3RLOFAIV5TRYNGM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/GETY3BVIMJF3RLOFAIV5TRYNGM/</guid>
@@ -821,15 +869,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKTTAS23KLYHASR2MPWIGZ765E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 여성이 전화금융사기(보이스피싱) 조직에 속아 숙박업소에 나흘간 ‘셀프 감금’되어 있다가 경찰에 구조된 사실이 알려졌다.&lt;br&gt;&lt;br&gt;21일 전북경찰청에 따르면 이달 초 회사원인 20대 여성 A씨는 보이스피싱 조직에 속아 전북 지역 한 모텔에서 나흘간 숙박하며 5000만원을 건네려 했다.&lt;br&gt;&lt;br&gt;당시 A씨는 카드사 콜센터를 사칭한 보이스피싱 조직으로부터 ‘신용카드가 배송될 예정이다’는 전화를 받았다.&lt;br&gt;&lt;br&gt;A씨가 ‘신용카드를 신청한 사실이 없다’고 했지만 보이스피싱 조직은 개인정보가 유출돼 계좌가 범죄에 연루된 것 같다며 검사와 금융감독원 직원 등을 사칭한 일당과 차례로 전화 연결을 유도했다.&lt;br&gt;&lt;br&gt;이후 보이스피싱 조직은 A씨에게 전화해 ‘수사에 협조하지 않으면 구속 수사하겠다’ ‘범죄에 연루되지 않았다는 것을 증명하라’는 등의 협박을 했다.&lt;br&gt;&lt;br&gt;특히 A씨는 ‘자산 검수를 위해 숙박업소에서 혼자 생활하라’는 지시를 받고 스스로 모텔로 가 4일간 머무르며 대출까지 받아 5000만원을 마련해 보이스피싱 조직에 건네려 했다.&lt;br&gt;&lt;br&gt;다행히 첩보를 입수한 경찰이 돈을 건네기 전 A씨를 구조해 피해를 모면한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;‘셀프 감금’ 보이스피싱은 피해자가 보이스피싱 조직의 협박에 속아 스스로를 모텔에 감금하고 통화 원격 제어 등으로 돈을 갈취당하는 신종 범죄다.&lt;br&gt;&lt;br&gt;전북경찰청은 ‘셀프 감금’ 방식의 보이스피싱이 전국적으로 잇따르고 있다며 주의를 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘핼러윈 참사’ 트라우마 호소… 경남서도 숨진 소방관 있었다</title>
-      <link>https://www.chosun.com/national/2025/08/21/OG2N5CIMF5C65LBTW7SNLQHA3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/21/OG2N5CIMF5C65LBTW7SNLQHA3E/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 07:04:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNS6YH5FK7FARAV7XVBNOZ75JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소방청 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서도 ‘이태원 참사’ 현장에 투입됐던 소방관이 우울증을 호소하다 숨진 것으로 뒤늦게 확인됐다. &lt;br&gt;&lt;br&gt;21일 소방청과 경남소방본부, 경남경찰청 등에 따르면 지난달 29일 오전 9시 30분쯤 경남 고성소방서 소속 소방공무원 A(40대)씨가 자신의 자택에서 숨진 채 발견됐다. “A씨가 연락을 받지 않는다”는 소방서 동료의 신고가 있었다고 한다. 타살 혐의점은 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 지난달 8일부터 8월 7일까지 질병 휴직을 낸 상태에서 숨졌다. 경찰 관계자는 “A씨가 주변 동료와 가족들에게 평상시 ‘이태원 참사 때 현장 출동 후 많이 힘들다’는 이야기를 많이 했다고 한다”며 “사망 당일에도 동료가 함께 병원을 가려다 연락이 되지 않아 신고했다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 10월 29일 서울 용산구 이태원에서 발생한 참사 당시 서울 용산소방서 소속으로 현장에 출동해 구조 활동을 펼친 후 우울감을 호소해 왔었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 2월 25일 이태원 참사 트라우마를 이유로 공무상 요양을 신청했고, 2월 28일 서울에서 고향인 경남 고성으로 자리를 옮겼다. A씨는 고성소방서로 근무지를 옮긴 후에 병가와 질병 휴직을 잇따라 냈다고 한다. &lt;br&gt;&lt;br&gt;공무상 요양은 재직 중 발생한 공무상 질병 또는 부상에 대해 심사를 거쳐 요양 시 발생하는 치료비 등을 지원하는 제도다. 퇴직 후 장해급여 신청도 가능하다. &lt;br&gt;&lt;br&gt;하지만 A씨는 지난 6월 13일 인사혁신처 공무원재해보상심의위원회로부터 ‘불승인’ 통보를 받았다고 한다. 인사혁신처는 상병과 공무 사이 상당한 인과관계를 인정할 수 없다는 이유로 이 같은 판단을 내린 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현재 A씨의 유족 측은 공무상 순직 신청을 하기 위해 준비 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 인천의 한 119소방센터 소속 소방대원 B(30대)씨도 이태원 참사 현장 투입 후 우울증을 호소하다 실종 10일째인 지난 20일 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;B씨 역시 이태원 참사 현장에 투입된 뒤 우울증 진단을 받고 지속적으로 치료를 받아왔다고 한다. 실종 직전엔 가족과 지인들에게 “미안하다”는 내용의 메모를 남긴 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>순천 레미콘공장서 질식 사고... 작업자 3명 의식 불명</title>
       <link>https://www.chosun.com/national/national_general/2025/08/21/4N6SB664FJBHHOGDAORS7JAJEM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/4N6SB664FJBHHOGDAORS7JAJEM/</guid>
@@ -846,15 +885,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 07:10:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZY35OJATBRN27FA7R54V5DBNYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상헌 전 국회의원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기초의원 공천을 대가로 금품을 받은 혐의로 재판에 넘겨진 이상헌 전 더불어민주당 의원이 1심에서 징역형의 집행유예와 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;울산지법 형사3단독 이재욱 부장판사는 21일 정치자금법 위반과 부정청탁 및 금품 등 수수의 금지에 관한 법률 위반 혐의로 기소된 이 전 의원에게 징역 10개월에 집행유예 2년과 벌금 300만원을 선고했다. 4200만원가량 추징도 명령했다.&lt;br&gt;&lt;br&gt;재판부는 또 이 전 의원에게 불법 정치자금을 제공한 A씨에게는 징역 8개월에 집행유예 2년과 벌금 300만원을 선고했다. 이 전 의원 캠프 선거대책본부장 C씨는 징역 6개월에 집행유예 2년, 선거 캠프 다른 관계자 2명에겐 벌금 200만원과 300만원이 각각 선고됐다.&lt;br&gt;&lt;br&gt;정치자금을 불법으로 받아 100만원 이상의 벌금형이 확정되면 5년간 피선거권이 제한돼 선거에 출마할 수 없다. 금고형 또는 징역형이 확정되면 10년간 선거에 출마할 수 없다.&lt;br&gt;&lt;br&gt;이 전 의원은 울산 북구 국회의원 재선거에 출마한 지난 2018년 4월 당원 A씨에게 다가올 지방선거에서 지역구 구의원 비례대표 공천을 약속하며 당내 경선기탁금, 선거활동비 명목으로 현금 2200만원을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 전 의원은 A씨가 비례대표 공천 심사에서 탈락하자 2022년 열릴 지방선거 때 구의원 공천을 다시 약속하면서 선거 유세차량 임차 명목으로 1400만원, 아들 결혼식 축의금 명목으로 500만원을 챙긴 혐의도 받는다.&lt;br&gt;&lt;br&gt;이 전 의원은 재판 과정에서 “2018년 당시 비례대표를 약속할 위치나 권한이 없었고, 불법적인 금전 거래도 없었다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 이 전 의원과 선거 캠프 관계자, A씨 등이 서로 주고받은 문자메시지와 통화내역 등을 볼 때 혐의가 인정된다고 판단했다. 이 전 의원이 A씨에게 “금전을 줘서 고맙다”는 취지로 전화한 사실도 혐의 입증에 영향을 끼쳤다.&lt;br&gt;&lt;br&gt;2018년 당시 이 전 의원 선거캠프에 선거 자금이 부족했던 점, A씨가 당초 다른 정당의 당원이었으나 민주당으로 당적을 변경한 이후 지속적으로 구의원 비례대표로 공천을 신청한 점 등도 참작했다.&lt;br&gt;&lt;br&gt;재판부는 “정치자금 불법 수수는 정당의 민주적 기본 질서를 무너뜨리고, 대의민주주의를 가로막는 행위”라며 “다만 동종 범죄 전력이 없는 점을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 의원은 선고 직후 “항소할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>살해 후 시신 지문으로 6000만원 대출까지… 양정렬, 2심도 ‘무기징역’</title>
-      <link>https://www.chosun.com/national/regional/2025/08/21/KL7GYBXAMRC27KQZYRV6FDHZK4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/21/KL7GYBXAMRC27KQZYRV6FDHZK4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 06:59:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7EHCEYK6VB3HN3PHLHVI7SHPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일면식 없는 동갑내기 남성을 살해하고 피해자 지문으로 대출까지 받은 강도살인범 양정렬(32)이 항소심에서도 무기징역을 선고 받았다./대구지검 김천지청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식도 없는 남성을 살해하고, 시신의 지문을 이용해 수천만원의 대출까지 받아 1심에서 무기징역을 선고받은 양정렬(32)이 항소심에서도 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;대구고법 형사1부(재판장 정성욱)는 21일 강도살인 등 혐의로 재판에 넘겨진 양정렬에 대한 항소심에서 원심과 같은 무기징역을 유지했다. 앞서 검찰은 1, 2심 모두 사형을 구형했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자 가족들이 피고인을 사형에 처해달라는 탄원서를 여러 차례 제출했으며 사형의 선고를 고려할 필요성이 적지 않다. 하지만 국민의 생명을 보호할 책임이 있는 국가가 생명을 박탈하는 사형을 선고할 때는 매우 신중해야 한다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;양정렬은 2023년 다니던 직장을 그만 둔 뒤 금융기관에서 수천만원을 대출받아 생활하다 돈이 다 떨어지자 과거 살았던 적이 있는 경북 김천으로 내려왔다. 이후 30대 피해자 A씨의 오피스텔 현관문 앞에 앉아 있다가 귀가 중이던 A씨를 흉기로 살해하고 금품을 빼앗은 혐의로 재판에 넘겨졌다. 두 사람은 일면식도 없는 사이였다.&lt;br&gt;&lt;br&gt;양정렬은 숨진 A씨의 체크카드 등으로 편의점과 택시, 숙박업소에서 수백만원을 사용했다. 이후 잔고가 떨어지자 A씨의 휴대전화를 이용해 6000만원을 대출받기도 했으며, 이 과정에서 숨진 A씨의 지문과 신분증 등을 이용했다. &lt;br&gt;&lt;br&gt;연락이 두절돼 A씨 부모가 걱정하자, 양정렬은 자신이 A씨인 것처럼 행세하며 A씨 부모에게 거짓 문자 메시지를 보내기도 한 것으로 드러났다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘세관 마약 수사 외압’ 의혹 檢 합동수사팀, 경찰청 국가수사본부 압수 수색</title>
@@ -900,33 +930,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 04:34:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAZMYZRZMVVT4XXQZC6TCBKTSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 21일 ‘건진 법사’ 전성배씨 자택에서 확보한 관봉권 띠지를 분실한 검찰 수사관을 입건하며 정식 수사에 나섰다. 지난 19일 정성호 법무부 장관이 “매우 엄중한 사안”이라며 감찰을 지시한지 사흘 만이다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 대검 조사팀은 당시 수사 과정에서 관봉권 띠지를 잃어버린 서울남부지검 수사관 등을 입건한 것으로 알려졌다. 검찰이 정식 수사에 나선만큼, 분실을 보고받고 후속 조치에 나서지 않은 신응석 전 서울남부지검장 등 당시 검찰 지휘부에 대한 조사도 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;앞서 서울남부지검은 작년 12월 전씨 자택에 대한 압수 수색 과정에서 발견한 1억6500만원의 현금 다발 가운데 5000만원에 둘러져 있던 관봉권 띠지와 스티커를 분실한 것으로 전해졌다. 관봉권은 조폐공사가 한국은행에 신권을 보낼 때 띠지로 묶은 뭉칫돈으로, 띠지에는 현금을 검수한 날짜와 담당자 코드, 식별 번호 등이 적혀 있어 수사의 단서가 된다.&lt;br&gt;&lt;br&gt;분실 논란이 일자 남부지검은 “경력이 짧은 직원이 실수로 띠지와 스티커를 버렸다”고 해명했지만, 대검은 수사의 필요성이 있다고 판단했다. 정성호 법무부장관은 이 같은 사실이 알려지자 진상 파악과 책임 소재 규명을 위한 감찰을 지시하며 “감찰 과정에서 작은 의혹이라도 발견된다면 대검은 신속한 후속 조치를 취해야 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘계엄 해제 회의 참석’ 박상우 전 국토부 장관 참고인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/21/WUMG7IO4SBC6HJFHDPQKLLZXII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/WUMG7IO4SBC6HJFHDPQKLLZXII/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 03:06:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPSFTIG5MNKSBA44LP5ELHYUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상우 전 국토교통부 장관이 지난달 29일 정부세종청사에서 열린 이임식에서 이임사 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 21일 박상우 전 국토교통부 장관을 참고인 신분으로 불러 조사 중이다. 특검은 박 전 장관을 상대로 ‘12·3 비상계엄’ 전후 상황과 대통령실의 지시 사항 등을 조사할 것으로 보인다.&lt;br&gt;&lt;br&gt;박 전 장관은 지난해 12월 3일 밤 계엄 선포 직전 열린 국무회의에는 참석하지 않고, 국회에서 계엄 해제가 가결된 뒤 4일 새벽 열린 국무회의에는 참석한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;박 전 장관은 계엄 당일 밤 9시 18분 대통령실 행정관에게 ‘대통령실로 들어와 달라’는 구두 요청을 받았지만, 교통 문제 등을 이유로 회의에 불참한 것으로 알려졌다. 이후 윤석열 전 대통령의 대국민 담화를 통해 계엄 발령 사실을 처음 알게 됐다는 입장이다.&lt;br&gt;&lt;br&gt;박 전 장관은 국회가 계엄 해제를 가결한 뒤 새벽에 열린 ‘비상계엄 해제’ 국무회의에는 참석했다. 당시 국무회의에서 안건이 의결되면서 계엄 선포 6시간여 만인 4일 오전 4시 30분 해제됐다.&lt;br&gt;&lt;br&gt;특검이 한덕수 전 국무총리 추가 조사를 하루 앞두고 박 전 장관을 부른 것은 계엄 당일 국무위원들의 타임라인을 재구성하려는 차원으로 풀이된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 장모 ‘잔고증명서 위조’ 동업자, 항소심서 징역 1년 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/21/SPHM5WEA4NEXLMF7OKY5Z3BYPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/SPHM5WEA4NEXLMF7OKY5Z3BYPI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 02:45:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5I7QW5PSKCO5KI5I4YWZZ5UYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 장모 최은순씨. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 장모 최은순씨와 함께 통장 잔고증명서를 위조한 혐의로 재판에 넘겨진 동업자 안모씨가 항소심에서도 실형을 선고받았다. 서울고법 형사3부(재판장 이승한)는 20일 사문서위조 등 혐의로 기소된 안모씨에게 1심과 마찬가지로 징역 1년을 선고하고 법정 구속했다. &lt;br&gt;&lt;br&gt;안씨는 2013년 4~10월 경기 성남시 도촌동 땅을 매입하면서 최씨와 공모해 4차례에 걸쳐 총 347억원이 저축은행에 예치돼 있는 것처럼 잔고 증명서를 위조한 혐의(사문서 위조)를 받는다. 땅을 사들이면서 본인의 사위 등 명의로 계약하고 등기한 혐의(부동산실명법 위반)도 있다. &lt;br&gt;&lt;br&gt;안씨는 재판 과정에서 “잔고증명서를 활용해 얻을 수 있는 이익이 없었다”며 무죄를 주장해왔다. 하지만 항소심 재판부는 “부동산과 경기 가평 요양병원과 관련해 각 잔고증명서를 위조할 충분한 경제적 이해관계가 있었다”며 안씨 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;재판부는 또 “안씨는 문서 위조 사실을 몰랐다고 주장하지만, 실제 잔고증명서 필요성에 관해 공범들에게 설명하고 설득해 실제 위조 범행까지 했으며 (동업자들에게)잔고증명서 위조를 요청하며 개인·법인 명의로 해달라거나 액수까지 말해주는 등 적극 가담했다”고 했다.&lt;br&gt;&lt;br&gt;한편 최씨는 2023년 11월 대법원에서 징역 1년을 확정받고 작년 5월 형기를 두 달 남기고 가석방됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘뉴타운 해제 10년만’ 마포구 염리동, 1120가구 재개발 시동</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/21/2B6ZLE7TKFGD3EM2HAJCRZGIJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/2B6ZLE7TKFGD3EM2HAJCRZGIJA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 01:54:34 +0000</pubDate>
-      <content:encoded>뉴타운 사업이 추진됐다가 정비구역이 해제돼 10년간 정체돼 있었던 서울 마포구 염리동 488-14번지 일대가 1120가구 대단지 아파트로 조성될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NF2NAFTUFVHCHPDCMPWZPKCLH4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 20일 제13차 도시계획위원회를 열고 ‘마포구 염리동 488-14번지 일대 주택정비형 재개발사업 정비계획 결정 및 정비구역 지정안’을 수정 가결했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;이곳은 2003년부터 뉴타운 사업이 추진됐지만, 2015년 정비구역이 해제되면서 주거환경 개선이 10년간 정체됐던 지역이다. 구릉지형에 노후한 다세대 주택이 밀집한 곳으로, 2020년부터 재개발 사업이 재개됐다.&lt;br&gt;&lt;br&gt;정비계획안에 따르면, 임대주택 258가구를 포함해 총 1120가구가 공급된다. 역세권과 인접한 장점을 살려 저층에는 연도형 상가를 배치하고, 높이차를 이용해 커뮤니티 시설과 부대 복리시설도 저층에 배치한다. &lt;br&gt;&lt;br&gt;기반 시설로는 도로, 공원, 사회복지시설 등이 들어서며, 이대역부터 아현 재정비촉진지구 내 주요 시설을 연결하는 남북간 공공보행통로도 신설된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“월병? 한국은 송편 먹는다”...이동욱 발언에 中팬들 발끈</title>
