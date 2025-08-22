@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>성범죄 수사받은 30대… 음주운전 걸리자 “재판 스트레스 탓” </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/TABAYJYJCFAN5NVSFN62ABE4BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/TABAYJYJCFAN5NVSFN62ABE4BM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 22:29:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YH4MKO4A4LALI5ZQKCSYFTYBTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지방법원 원주지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;짧은 기간 3차례 음주·무면허 운전 범행을 저지른 30대가 성범죄 수사로 인한 스트레스 때문이라며 항변했지만, 결국 징역형 처벌을 받았다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 춘천지방법원 원주지원 형사3단독 황해철 판사는 도로교통법 위반(음주운전·무면허운전) 혐의로 기소된 30대 A씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 15일 오전 2시 59분쯤 원주에서 운전면허 없이 혈중알코올농도 0.290% 상태로 약 800ｍ가량 승용차를 운전하고, 같은 날 오전 5시 15분쯤 혈중알코올농도 0.180% 상태에서 2.4㎞ 구간 운전한 혐의로 재판에 넘겨졌다. 앞서 작년 8월 1일 오전 2시 48분쯤 원주의 한 도로 약 900ｍ 구간에서 혈중알코올농도 0.239% 상태로 승용차를 운전한 혐의도 더해졌다.&lt;br&gt;&lt;br&gt;A씨는 재판에서 알코올 농도 수치가 높은 것은 전날 술을 마셨다거나 운전 후 음주 측정 직전에 마신 맥주의 영향이라고 주장했다. &lt;br&gt;&lt;br&gt;특히 A씨는 아동·청소년의 성보호에 관한 법률 위반(강제추행) 사건 관련 수사와 재판으로 인해 정신적으로 극심한 스트레스를 받는 과정에서 범행을 저질렀다고 항변했다. &lt;br&gt;&lt;br&gt;다만 재판부는 A씨 주장을 받아들이지 않았다. 황 판사는 “방범카메라 영상 증거 등에 비추어 볼 때 피고인의 주장은 받아들이기 어렵다”며 “짧은 기간 3회 범행인 데다, 강제추행죄 수사와 재판은 피고인의 범죄로 인해 진행된 것으로 스스로 자숙하기보다는 추가로 범죄를 저질러 유리한 정상으로 평가할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “피고인이 입장을 번복해 공소사실을 인정하고, 이 사건 범행 후 강제추행죄로 확정판결을 받았기에 동시에 판결할 경우와의 형평을 고려해 형을 정했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>엄마의 간곡한 부탁에… 문신, 지우는 게 트렌드</title>
       <link>https://www.chosun.com/national/weekend/2025/08/23/BKTROO7YRVGI3AYC7BGPLWUIXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/08/23/BKTROO7YRVGI3AYC7BGPLWUIXI/</guid>
@@ -899,15 +908,6 @@
         <media:description type="plain">21일 오후 전남 순천시 한 레미콘공장에서 간이탱크 청소작업 중이던 작업자들이 의식 불명 상태에 빠지는 사고가 발생해 경찰과학수사대가 현장 조사하고 있다. /연합뉴스</media:description>
         <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>2030 미팅, 주선자는 군포·오산시</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/2N7EEWQU2NFHNHH3C22FTVIA5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/2N7EEWQU2NFHNHH3C22FTVIA5E/</guid>
-      <dc:creator>오산=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>경기 군포시와 오산시가 ‘연합 미팅’ 행사를 연다. 저출생 문제가 심각한 가운데 두 지방자치단체가 합동으로 미혼 남녀가 만나는 행사를 여는 것이다. &lt;br&gt;&lt;br&gt;군포와 오산은 11월 두 차례 미팅 행사를 연다. 군포와 오산에서 차례로 연다. 참가 대상은 군포와 오산에 사는 27~39세 남녀 총 32명이다. 행사 이름은 공모를 해서 정할 예정이다. 오산시 관계자는 “신청자가 많으면 규모를 더 키울 계획”이라며 “남녀가 자연스럽게 가까워질 수 있도록 두 지역의 명소를 찾고 있다”고 했다.&lt;br&gt;&lt;br&gt;오산시는 지난해 처음 ‘SOLO(솔로)만 오산’ 행사를 열었다. 오산에 사는 미혼 남녀 119명이 참가해 커플 33쌍이 탄생했다. 이 중 1쌍은 올 4월 결혼식을 올렸다. 오산시 관계자는 “참가자들 반응도 좋고 실제 커플까지 탄생해 올해는 행사 규모를 더 키울 계획이었다”고 했다.&lt;br&gt;&lt;br&gt;그때 올해 처음 미팅 행사를 기획한 군포시와 만났다. 군포시 관계자는 “오산의 성공 사례를 벤치마킹하려고 도움을 요청했다가 아예 판을 키워보자고 뜻을 모았다”고 했다.&lt;br&gt;&lt;br&gt;군포와 오산은 수도권에서 인구가 적은 ‘미니 도시’다. 군포는 25만3000명, 오산은 24만7000명이다. 오산시 관계자는 “오산과 군포는 사실상 같은 생활권”이라며 “연합 미팅을 열면 교류의 폭을 더 키울 수 있을 것”이라고 했다. 군포시 관계자는 “반응이 좋으면 내년에는 의왕 등 근처 다른 지자체와도 함께 열겠다”고 했다.&lt;br&gt;&lt;br&gt;이들 외에도 서울, 울산, 경기 성남 등이 미팅 행사를 열고 있다. 지난 6월 서울 반포한강공원 세빛섬에서 열린 ‘설렘, in 한강’ 행사에는 미혼 남녀 3283명이 몰려 경쟁률 33대1을 기록했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>오세훈·로빈슨 대담 “약자 품어야 성장 가능”</title>
