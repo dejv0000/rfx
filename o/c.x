@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>최교진 후보자, 북한 옹호글 논란 단체에 ‘시민 후원’ 독려</title>
+      <link>https://www.chosun.com/national/education/2025/08/22/XJUH2Z7SO5C3HIM4R3XOTVHMSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/22/XJUH2Z7SO5C3HIM4R3XOTVHMSE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 14:13:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS6OUU6PCFD4TPDAPSDVF3CP5A.png"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 후보자가 2015년 11월 올린 게시글. /페이스북 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 부총리 겸 교육부 장관 후보자가 과거 소셜미디어에 북한을 찬양하는 게시글로 논란이 된 단체의 후원을 독려하는 글을 올려 논란이 되고 있다.&lt;br&gt;&lt;br&gt;최 후보자는 2015년 11월 ‘인권운동사랑방’이라는 단체의 후원자 모집 온라인 링크를 자신의 페이스북에 공유했다. &lt;br&gt;&lt;br&gt;이와 함께 “20여년을 넘게 인권 운동 분야에서 다양하게 활동해 온 인권운동사랑방에서 후원인을 모집하고 있다. 아래 링크를 누르시면 자세한 내용을 확인할 수 있다“며 ”여기에서 활동하는 활동가가 꼭 제 사위라서 올리는 것은 아닙니다^^“라고 글을 썼다.&lt;br&gt;&lt;br&gt;최 후보자가 소개한 이 단체는 2011년 익명 자유게시판에 “김정은 대장은 동지들과 국민들을 뜨겁게 사랑하며 한없이 겸허하고 소탈한 풍모를 지니신 위인” 등의 글이 게시돼 문제가 된 바 있다. 당시 경찰은 단체에 해당 글들이 국가보안법에 위반된다며 삭제할 것을 통보했고, 방송통신위원회도 삭제하라는 행정명령을 내렸다.&lt;br&gt;&lt;br&gt;하지만 단체는 이를 거부하고 삭제 명령이 부당하다며 행정 소송을 진행했다. 그러나 2015년 대법원 상고 기각으로 문제의 게시글을 삭제 해야 한다는 판결이 최종 확정됐다.&lt;br&gt;&lt;br&gt;최 후보자는 이 단체 후원을 독려하는 글을 올린 이유에 대해 “인사청문회에서 말하겠다”고 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노란봉투법 두고... 오세훈·고용노동부 설전 벌였다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/22/G2C3FED7FZEVHAEUHY26SNQIXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/G2C3FED7FZEVHAEUHY26SNQIXY/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 13:25:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q27KBRQ2ZZOKZHWIFG6H34OO34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 21일 서울시청에서 열린 노벨경제학상 수상자 초청 '지속가능한 번영을 위한 길' 특별대담에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부는 22일 오세훈 서울시장이 정부와 여당이 추진하는 노란봉투법(노동조합법 2·3조 개정안)을 “미래 경쟁력을 갉아먹는 정책”이라고 비판한 것을 두고 “(노란봉투법은) 불법파업을 용인하거나 책임을 면제해주는 법이 아니다”라고 반박했다.&lt;br&gt;&lt;br&gt;고용노동부는 이날 보도설명자료를 통해 “노동조합법 2·3조 개정안은 노동조합법에 따른 정당한 노조활동의 보호범위를 명확히 함과 동시에 불법행위에 대해서도 책임을 분명하게 지우고 있다”며 “다만 과도한 손해배상으로 인해 근로자의 생계가 위협받지 않도록 형평의 원칙에 비춰 권한과 책임만큼 손배책임을 지도록 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;고용노동부는 “개정안은 원청의 외주화 절약과 단가 경쟁 중심의 공급망 운영, 인건비 전가 등으로 인해 하청 노동자의 근로 조건이 개선되지 못하는 산업현장의 구조적 모순을 해소하자는 취지”라며 “원·하청 책임을 명확히 해 중소기업의 경영 환경을 실질적으로 개선하고, 원·하청과 노사가 함께 성장하는 기반을 공고히 하는 법”이라고 했다.&lt;br&gt;&lt;br&gt;고용노동부는 “원·하청 상생 관행이 정착되면 지속 가능한 산업 생태계로 성장하고 기업 경쟁력이 강화돼 청년 일자리를 늘리고, 질을 높이는 긍정적 효과를 거둘 수 있다”며 “정부는 노사 현장 의견을 수렴하며 구체적 가이드라인과 지원방안을 마련해나가겠다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 오 시장은 전날 서울시청에서 노벨경제학상 수상자 제임스 로빈슨 미 시카고대 공공정책대학원 교수와 ‘지속 가능한 번영을 위한 길’을 주제로 한 대담에서 노란봉투법을 언급하며 “자유 시장 경제 질서를 무너뜨릴 정도로 인센티브 시스템 자체를 망가뜨리는 포퓰리즘은 어떤 경우에도 국민적 저항으로 막아내야 한다”고 비판했다.&lt;br&gt;&lt;br&gt;오 시장은 “노란봉투법의 핵심 내용은 불법적 쟁의 행위를 해도 손해배상청구 소송을 할 수 없는 것인데, 선진적인 것으로 포장해 밀어붙이지만 사실은 미래 세대 희망이 사라지게 되는 것”이라고 했다. 그러면서 “선거에 당선되기 위해서 하는 감언이설, 그런 종류의 포퓰리즘은 애교로 봐줄 수 있는 수준일 수 있지만, 집권 후에 미래 경쟁력을 갉아먹는 정책을 내놓고 그것을 선의로 포장하는 것은 실패한 정권으로 가는 지름길”이라고 했다.&lt;br&gt;&lt;br&gt;김병민 서울시 정무부시장은 고용노동부 설명자료에 재반박 입장문을 내고 “고용노동부는 ‘대화촉진법’이라는 민노총 등 기득권 노조의 일방적인 주장을 앵무새처럼 되풀이하며 국민을 기만하고 있다”고 비판했다.&lt;br&gt;&lt;br&gt;김 부시장은 “1개 기업이 수천개가 될 수도 있는 하청 노조를 상대로 직접 교섭을 하도록 만드는 법이 기업에게는 대화 촉진법이 아닌 파업 촉진법”이라며 “정권에 도움 준 진영에 주는 선물용 정책이 청년 고용을 갉아먹는다는 지적은 오 시장뿐만 아니라 대한민국의 미래를 걱정하는 누구라도 할 수 있는 비판”이라고 했다.&lt;br&gt;&lt;br&gt;노란봉투법은 사용자 범위를 확대해 원청과 하청 근로자 간 교섭을 가능하게 하고, 파업에 대한 과도한 손해배상 청구를 제한한다는 내용을 담고 있다. 하청 업체 노동자가 원청에 대해 직접 단체교섭을 요구할 수 있다. 구조 조정이나 공장 해외 이전 등 경영 판단도 파업 사유가 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검 ‘건진 관봉권 띠지’ 분실한 수사관·남부지검 압수수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/22/CFAAO4KKGNB6XEFT2CHTRZHBPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/CFAAO4KKGNB6XEFT2CHTRZHBPY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 12:15:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/277WPCJ2QVFWBJDV6ZZBGW36O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'건진 법사' 전성배씨가 지난 21일 서울 종로구 김건희 특검팀 사무실로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 22일 서울남부지검의 ‘건진 법사’ 전성배씨의 관봉권 띠지 폐기 사건에 연루된 남부지검 수사관 2명의 자택과 사무실에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 대검 감찰부 조사팀은 이날 남부지검 소속 수사관 2명의 자택과 남부지검에 위치한 이들의 사무실에 대한 압수수색에 나섰다. 이들은 작년 12월 전씨 자택에 대한 압수 수색 과정에서 발견한 1억6500만원의 현금 다발 가운데 5000만원에 둘러져 있던 관봉권 띠지와 스티커를 분실한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;관봉권은 조폐공사가 한국은행에 신권을 보낼 때 띠지로 묶은 뭉칫돈으로, 띠지에는 현금을 검수한 날짜와 담당자 코드, 식별 번호 등이 적혀 있어 수사의 단서가 된다. 남부지검은 스티커 일부를 촬영해 보관했지만, 띠지 실물 등은 분실한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대검은 지난 19일 정성호 법무부 장관의 지시에 따라 조사팀을 꾸려 관봉권 띠지 분실 의혹에 대한 감찰에 착수했다. 대검 조사팀은 전날 수사관 2명을 입건하고 정식 수사로 전환했다.&lt;br&gt;&lt;br&gt;대검 조사팀은 압수 수색에서 확보한 자료를 분석하고 관련자 조사를 통해 관봉권 띠지 폐기 과정을 규명할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘싸이 공연’ 지원 보냈더니... 몰래 보다 딱 걸린 여경 5명</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/22/XERAC7VHIFCDLFSGZECA7A4574/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/XERAC7VHIFCDLFSGZECA7A4574/</guid>
+      <dc:creator>부산=김미희 기자 , 인쳔=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 11:39:50 +0000</pubDate>
+      <content:encoded>가수 싸이의 콘서트 현장에 지원 나간 경찰관 5명이 공연을 관람하다 적발돼 자체 감찰을 받고 있다. &lt;br&gt;&lt;br&gt;22일 부산경찰청에 따르면, 이들은 지난 15일 부산 연제구 아시아드 보조 경기장에서 열린 ‘싸이 흠뻑쇼’ 현장에 출동했다. 교통 정리 등 지원 업무를 하기 위해서였다. 그러나 이들은 근무 장소를 벗어나 공연을 본 것으로 조사됐다. 정복 위에 ‘바람막이’를 입어 경찰 신분이 드러나지 않았다고 한다. 공연기획사 관계자가 이들이 ‘입장 팔찌’를 차고 있지 않은 걸 보고 적발했다. &lt;br&gt;&lt;br&gt;기획사 측의 항의를 받은 경찰은 자체 감찰에 착수했다. 5명은 모두 여성 경찰관으로 경감급 경찰관도 포함된 것으로 알려졌다. 이들은 “화장실에 갔다가 잠깐 공연을 봤다”고 해명했다고 한다. &lt;br&gt;&lt;br&gt;당시 아시아드보조경기장 일대에는 공연을 보기 위해 수만 명의 인파가 몰렸다. 경찰은 안전 관리, 교통 정리를 위해 경찰관을 투입했다. &lt;br&gt;&lt;br&gt;인천 남동구의 변사 사건 현장에선 사망한 남성이 착용하고 있던 금목걸이가 사라져 경찰이 출동한 경찰관 5명을 조사하고 있다. 사라진 금목걸이는 20돈짜리로 시가 1100만원 상당이라고 한다. &lt;br&gt;&lt;br&gt;인천경찰청 관계자는 “처음 출동한 남동경찰서 형사가 찍은 사진에는 금목걸이가 분명히 있었는데 나중에 찍은 사진에는 사라졌다”며 “현장에 간 형사 2명과 검시 조사관 1명, 과학수사대 직원 2명 등 5명을 내사(입건 전 조사)하고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사별 후 20년 홀로 산 80대 노인…HIV 감염 미스터리</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/08/MNQQ5ZVB7VBSDIBEPJKU52WVMY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 07 Aug 2025 00:30:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C45YADW2BVOPZFJ25J7IC7HWP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HIV 검사 키트./로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에서 80대가 ‘인간면역결핍바이러스(HIV)’ 감염 판정을 받아 의학계의 주목을 받고 있다. 전 세계적으로 80세 이후 HIV 진단 사례가 많지 않은 데다, 이 노인은 배우자와 사별 후 20년간 성적 접촉이 없었다고 한다.&lt;br&gt;&lt;br&gt;국민건강보험공단 의료진은 7일 국제학술지 ‘임상 사례 보고’(Clinical case reports) 최신호 논문을 통해 지난해 림프종에 따른 항암제 치료를 위해 시행한 혈액검사에서 HIV 양성으로 최종 진단된 A(85)씨의 사례를 보고했다.&lt;br&gt;&lt;br&gt;HIV는 후천성면역결핍증후군(AIDS·에이즈)을 일으키는 바이러스다. HIV 바이러스 감염자가 면역 결핍이 심해져 합병증이 생기면 에이즈 환자가 된다. 국내 HIV 감염인은 20∼40대가 80% 이상을 차지할 정도로 젊은 층에 집중돼 있다.&lt;br&gt;&lt;br&gt;보고에 따르면 A씨의 HIV 감염 경로는 그야말로 미스터리다. &lt;br&gt;&lt;br&gt;A씨는 20여 년 전 배우자가 심장 질환으로 사망한 후 줄곧 홀로 살아왔다. 이후 성관계는 없었다고 한다.&lt;br&gt;&lt;br&gt;배우자는 심장 질환으로 대학 병원에 입원해 있는 동안 여러 차례 시술과 검사를 받았던 터라, HIV 감염 가능성은 작았다는 게 가족의 주장이다.&lt;br&gt;&lt;br&gt;더욱이 A씨는 림프종 진단을 받기 전까지 HIV 수술이나 입원은 물론 수혈, 주사 약물 사용, 침술, 문신 등의 경험도 없었던 것으로 알려졌다. 감염 경로가 될 수 있는 상황에 노출된 일이 없다는 얘기다.&lt;br&gt;&lt;br&gt;따로 사는 두 아들도 모두 HIV 음성으로 판정됐다. &lt;br&gt;&lt;br&gt;의료진은 수년 전에 HIV 감염이 이뤄졌을 것으로 추정했다. A씨의 혈액 내 면역세포(CD4) 수가 많고, 바이러스 농도가 높은 점이 그 이유였다.&lt;br&gt;&lt;br&gt;이에 의료진은 A씨의 감염 경로보다 고령자에 대한 HIV 진단이 부재한 현실에 주목해야 한다고 지적했다.&lt;br&gt;&lt;br&gt;의료진은 논문에서 “고령자의 성생활을 배제하거나 HIV를 노인의 질환으로 보지 않는 편견이 진단 지연의 큰 요인이 될 수 있다”며 “사회적 고립과 낮은 건강 정보 이해력도 진단이 늦어지는 데 복합적으로 작용한 것으로 보인다”고 분석했다.&lt;br&gt;&lt;br&gt;현재 대부분의 HIV 검사는 13∼64세 사이의 연령을 중심으로 권장되고 있으며, 노인을 대상으로 한 선별검사 지침이나 80세 이상 감염자 통계는 사실상 없는 상황이다.&lt;br&gt;&lt;br&gt;전문가들은 이번 사례를 통해 고령자에게서도 임상 상황에 따라 HIV 검사가 반드시 고려돼야 하며, 특히 사회적 취약성이 중첩된 노인의 경우 선제적인 검진이 필요하다고 짚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>부산 사상구 주례동 고시텔 화재... 30대 남성 중상  </title>
       <link>https://www.chosun.com/national/regional/2025/08/22/Q532X6AC65AXRHCM7Z24NAVCPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/Q532X6AC65AXRHCM7Z24NAVCPA/</guid>
@@ -892,15 +937,6 @@
       <content:encoded>정부가 ‘대규모 고객 유심(USIM) 정보 유출 사고’로 물의를 빚은 SK텔레콤에 대한 제재 수위를 이르면 오는 27일 결정한다. 개인정보보호위원회는 “SK텔레콤에 대한 처분안을 27일 전체회의에 상정하기로 했다”고 21일 밝혔다. 개인정보 유출 사고가 발생한 지 4개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77JAEB7JAYSBSDF6REJAVJESQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 SK텔레콤 대리점 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SK텔레콤은 지난 4월22일 위원회에 서버를 해킹당해 고객 개인정보가 유출됐다고 신고했다. 이로 인해 약 2700만건의 고객 정보가 유출된 것으로 파악됐다. &lt;br&gt;&lt;br&gt;위원회는 SK텔레콤이 외부 침입을 차단하기 위한 안전조치 의무를 준수했는지, 개인정보가 유출된 이후 고객들에게 제대로 통지했는지 등을 집중 조사한 것으로 알려졌다. 조사 절차를 마친 지난달 말에는 SK텔레콤에 처분 원인과 내용, 근거 법령, 증거자료 목록 등이 담긴 ‘사전 통지서’를 보냈다. &lt;br&gt;&lt;br&gt;27일 전체회의에선 위원들이 조사 결과와 SK텔레콤 주장 등을 종합적으로 검토해 과징금 규모를 결정하게 된다. 위원회 관계자는 “다만 추가 조사와 논의가 필요하다고 판단하면 최종 제재 결정이 미뤄질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;통신업계에선 이번 사태로 SK텔레콤이 역대 최대 과징금을 물게 될지에 주목하고 있다. SK텔레콤의 지난해 무선 통신 사업 매출액은 약 12조7700억원이다. 개인정보보호법에 따르면 과징금은 매출액의 최대 3%까지 부과할 수 있다. 과징금이 최대 3000억원대가 될 수 있는 것이다. 지금까지 위원회가 부과한 최대 과징금은 2022년 9월 구글·메타에 부과한 1000억원이다. &lt;br&gt;&lt;br&gt;다만 SK텔레콤이 해킹 사고 직후 자발적으로 유출을 신고했고, 피해자 구제와 재발 방지 대책을 마련한 점이 ‘감경 요인’으로 작용할 수 있다는 관측도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>중국인들, 또 드론 띄워 제주 해군기지 찍었다</title>
-      <link>https://www.chosun.com/national/2025/08/21/J2BDEFBRBJANNB45P4FO73GQ6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/21/J2BDEFBRBJANNB45P4FO73GQ6A/</guid>
-      <dc:creator>김준호 기자, 제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 10:27:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJIJ6MO5O26SBEJLSESALMNUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 서귀포시 강정동 제주해군기지./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 해군기지 상공에 드론을 날려 이를 불법 촬영한 중국인들이 붙잡혔다. &lt;br&gt;&lt;br&gt;제주경찰청은 군사기지 및 군사시설 보호법 위반 혐의로 중국인 30대 남녀 2명을 검거해 조사하고 있다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 19일 오후 5시쯤 제주 서귀포시 강정해군기지 인근에서 드론으로 군사 기지를 불법 촬영한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 부대 경계 근무자가 드론을 발견했고, 해군은 즉시 기지 경계와 방호 조치에 들어갔다. &lt;br&gt;&lt;br&gt;이후 경찰과 함께 부대 인근에서 드론을 조종하던 이들을 붙잡았다. 이들은 경찰에 “불법인지 몰랐다”는 취지로 진술했다고 한다. 경찰 조사 결과 이들은 무비자로 입국한 관광객이라고 한다. 경찰은 이들이 정확히 언제 국내로 입국했는지 등을 출입국관리소 등을 통해 확인 중이다. &lt;br&gt;&lt;br&gt;경찰은 “휴대전화와 드론 메모리카드에 저장된 영상 등을 분석해 해군기지를 촬영한 경위를 분석한 뒤 구속 여부, 신병 처리 등을 결정할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;중국인 등 외국인이 국내 주요 군사 시설을 촬영하다 적발되는 사건은 이번이 처음이 아니다. 지난해 6월 부산에서는 중국인 유학생 3명이 해군작전사령부와 미국 항공모함 등을 드론으로 몰래 촬영하다 적발됐다. 경찰 조사 결과 이들은 2023년 3월부터 지난해 6월까지 모두 9차례에 걸쳐 군 기지를 촬영한 것으로 드러났다. &lt;br&gt;&lt;br&gt;이들이 불법 촬영한 자료는 중국 소셜미디어 계정을 통해 무단 배포됐다고 한다. 경찰은 이 같은 혐의로 지난 6월 이들 중 2명을 군사시설보호법 위반 혐의로 구속했다. 특히 범행을 주도한 중국인에게는 일반이적 혐의도 적용했다. 일반이적 혐의로 외국인을 구속한 건 처음이었다. 일반이적 혐의는 대한민국의 군사상 이익을 해한 자 등에게 적용된다. 징역 3년 이상(최대 무기징역)의 형을 내릴 수 있다.&lt;br&gt;&lt;br&gt;적국(북한)을 위해 간첩 행위를 한 사람을 처벌하는 간첩죄보다는 처벌 수위가 가볍지만 군사시설보호법 위반보다는 무겁다.&lt;br&gt;&lt;br&gt;이에 주한중국대사관은 소셜미디어에 “사진 촬영은 반드시 현지 법률·법규를 준수해야 하며, 드론 사용과 드론을 사용한 촬영에 주의하라”며 “한국법상 군사기지와 군사시설을 임의로 촬영하는 것은 명백히 금지되고 있으며, 비행금지구역·촬영금지구역 등 민감한 장소에서는 사진 촬영을 하지 않도록 주의하라”고 했다.&lt;br&gt;&lt;br&gt;지난 5월엔 대만인 2명이 경기 평택시의 미군 오산 기지에서 열린 ‘2025 오산 에어쇼’에서 망원렌즈를 장착한 카메라로 기지 내부 시설과 장비를 불법 촬영했다가 경찰에 붙잡혔다. 이들은 행사 당일 세 차례에 걸쳐 출입을 제지당했지만 행사장에 몰래 들어가 불법 촬영을 한 것으로 조사됐다. 지난 3월엔 경기 수원에서 중국 국적 10대 남성 2명이 공군 기지 인근에서 전투기를 무단 촬영하다 적발됐다. 이들은 중국에서 온 고등학생으로 관광 비자로 입국한 지 3일 만에 촬영을 시도했다. 작년 11월엔 중국인 남성이 국정원 청사를 드론을 띄워 촬영하다가 체포됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, ‘횡령’ 혐의 김예성씨 배우자 2차 소환조사 </title>
       <link>https://www.chosun.com/national/court_law/2025/08/21/E2NF7MWIXZA3FFRDYLIP7BXMDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/E2NF7MWIXZA3FFRDYLIP7BXMDI/</guid>
@@ -908,15 +944,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 10:22:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MAK7DC5MLXWVITXSLIWEGOGLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 23일 '김건희 집사' 김예성 씨의 아내 정모씨가 서울 종로구 김건희 특검(특별검사 민중기)으로 소환 조사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 21일 김예성씨의 배우자를 소환 조사했다. 김 여사의 측근으로 알려진 김씨는 현재 횡령 혐의로 서울구치소에 수감된 상태다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 특검은 이날 김씨의 배우자 정모씨를 지난달 23일에 이어 2차 소환했다. 정씨는 피의자 신분으로, 특검은 정씨가 남편의 횡령 행위에 가담했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;이들 부부는 이른바 ‘IMS모빌리티 대기업 특혜성 투자 의혹’의 중심에 있는 인물이다. 과거 김씨가 임원을 지냈던 IMS모빌리티는 지난 2023년 6월 오아시스에쿼티파트너스를 통해 카카오모빌리티·한국증권금융 등 기업으로부터 총 184억원을 투자받았다. 그런데 당시 해당 투자금 중 46억원이 정씨가 대표이사로 이름을 올린 ‘이노베스트코리아’가 기존에 보유했던 주식을 사들이는 데 쓰였다는 사실이 알려지면서 논란이 불거졌다.&lt;br&gt;&lt;br&gt;특검팀은 이노베스트코리아가 얻은 46억원 중 일부가 김씨 부부, 더 나아가 김 여사에게까지 흘러갔을 가능성을 들여다보고 있다. 하지만 김씨 측은 35억여 원을 조 대표에게 빌려줬다는 입장이다. 이런 만큼 특검은 조영탁 IMS모빌리티 대표도 지난 2일과 20일 두 차례 불러 억대 투자를 받은 경위와 김씨와의 채무 관계 등에 대해 캐물었다. IMS모빌리티 전현직 직원 다수도 참고인 신분으로 특검의 조사를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 김예성씨가 이노베스트코리아로 받은 46억원 중 약 33억8000만원을 횡령했다고 보고 김씨에 대한 구속영장을 청구했다. 김씨 측은 “횡령 혐의는 특혜성 투자 의혹과 관계 없는 별건”이라고 주장했지만, 법원이 받아들이지 않으면서 김씨는 지난 15일 구속됐다. 특검은 오는 22일에 김예성씨를 다시 소환할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“심신미약 주장하면 된다”던 성폭행 시도 군인, 1심 징역 20년</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/21/UKB6VLWBKFGSXEKV55ACJQMR3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/UKB6VLWBKFGSXEKV55ACJQMR3A/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 10:24:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPVXAY6FJRDSXAYWVYXQ4L6APY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대전지방법원·고등법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가 중 상가 화장실에서 일면식 없는 여성을 성폭행하려던 20대 현역 군인에게 법원이 중형을 선고했다. 범행 당시 심신미약 상태였다는 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;대전지법 제11형사부(재판장 박우근)는 21일 성폭력 범죄의 처벌 등에 관한 특례법 위반(강간 등 살인) 및 특수방실침입 등 혐의로 기소된 A씨에게 징역 20년을 선고했다. 이어 신상정보 공개 10년, 아동·청소년·장애인 관련 기업 취업 제한 10년, 위치추적 전자장치 부착 20년도 함께 명령했다.&lt;br&gt;&lt;br&gt;앞서 A씨 측은 피해 여성 B씨의 진술에 신빙성이 없고 강간·살인의 고의가 없었다며 혐의를 반박해 왔으나 법원은 인정하지 않았다. 심신미약 상태였다는 주장 역시 받아들이지 않았다. 재판부는 “피해자는 수사기관에서부터 공소 사실과 부합하는 취지의 진술을 일관되게 하고 있고 CCTV 영상과 의사 소견 등도 이를 뒷받침하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “젊은 여성을 따라 들어가 흉기로 여러 차례 상해를 가하고 지속해 성관계를 요구하는 등 강간과 살인의 고의도 있었다”고 판시했다. 또 “정신감정 결과 회피성 인격장애와 군 복무에 대한 부정적인 감정이 나타나긴 했으나 심신미약 상태에 있었다고 보기는 어렵다”며 “피해자가 극심한 트라우마를 호소하는데도 피고인은 책임 회피에만 급급하다”고 지적했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월 8일 오후 3시 30분쯤 대전 중구의 한 상가 여자 화장실에서 B씨를 흉기로 위협해 성폭행을 시도하고, 이 과정에서 흉기를 휘둘러 상해를 입힌 혐의를 받는다. 당시 A씨는 피를 흘린 채 살려달라고 말하는 B씨를 위협하며 “마지막으로 성관계를 해달라”고 요구한 것으로 알려졌다. 두 사람은 일면식 없는 사이였고 A씨는 화장실에 들어가던 B씨를 따라가 범행했다.&lt;br&gt;&lt;br&gt;한편 지난 4월 공판에선 A씨가 범행 직후 가족과 대화하며 ‘심신미약을 주장하면 된다’고 말했다는 진술이 나오기도 했다. 극단적 선택을 시도하다 체포된 A씨와 병원에 동행한 경찰관의 진술로, 그는 “봉합 수술이 끝난 뒤 A씨는 부친을 병실 밖으로 나가라고 한 뒤 모친과 대화했다”며 “첫마디가 ‘외삼촌과 외할아버지 돈도 많은데 도와줄 사람 없냐’ ‘심신미약 주장하면 된다’는 취지의 말이었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 여사, 오후 5시 30분 특검 조사 종료...23일 재소환</title>
@@ -928,15 +955,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VEFJIM6M3FLB5J5ABKV7SAT62U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구속된 김건희 여사를 태운 호송차가 21일 오후 소환조사를 위해 서울 종로구에 마련된 김건희 특검팀 사무실로 들어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에 대한 민중기 특별검사팀의 구속 후 세 번째 조사가 약 4시간 만에 종료됐다. 특검은 김 여사를 23일 재소환해 조사를 이어갈 예정이다. &lt;br&gt;&lt;br&gt;21일 민중기 특별검사팀은 김 여사에 대한 조사가 오후 6시 24분 종료됐다고 밝혔다. 김 여사는 이날 오후 2시 12분 서울 광화문 KT웨스트빌딩에 위치한 특검 사무실에 출석해 조사를 받았다. 김 여사에 대한 조사는 오후 5시 30분 종료됐으며, 조서 열람은 오후 6시 24분 종료됐다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘건진 법사’ 전성배씨 청탁 의혹 관련 조사를 진행했다. 김 여사는 대부분의 질문에 진술거부권을 행사한 것으로 전해졌다. 특검은 이날 100여장 분량의 질문지를 준비한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;김 여사는 이날 오전 서울남부구치소에서 대면 진료를 받은 뒤 특검 사무실에 출석했다. 당초 특검은 전날 김 여사를 조사하려 했지만, 김 여사 측이 건강 문제를 호소하며 일정이 하루 밀렸다. &lt;br&gt;&lt;br&gt;특검은 김 여사를 23일 오전 10시 재소환해 구속영장 범죄사실 관련 조사를 이어나갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>필리핀서 12억원 상당 마약 밀수 일당 5명 구속 </title>
-      <link>https://www.chosun.com/national/2025/08/21/W4E73KPP6BCB3DPEQDPEYZ5PKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/21/W4E73KPP6BCB3DPEQDPEYZ5PKI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 09:51:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJWM37HOYRC5LI3S6L4GIINN5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 압수한 마약. /부산 북부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀 세부에서 12억원 상당의 마약을 국내로 밀수한 뒤 ‘던지기’ 수법으로 운반한 일당이 검거됐다.&lt;br&gt;&lt;br&gt;부산 북부경찰서는 마약류관리법 위반(향정) 혐의로 30대 여성 A씨 등 5명을 검찰에 구속 송치했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨 등은 지난 3~4월 텔레그램을 통해 상선으로부터 지시를 받고 부산 일대 아파트와 인적이 드문 등산로 등에 마약을 숨겨둔 뒤 장소를 알려주는 이른바 ‘던지기’ 수법으로 마약을 유통한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들의 범행은 시민 신고로 들통났다. 버스 기사 B씨가 지난 3월 23일 북구 한 등산로 샛길로 퇴근하던 중 종이 상자를 발견했다. 그는 상자 안에서 테이프로 감싼 수상한 물체가 마약으로 의심돼 경찰에 신고했다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰이 국립과학수사연구원에 해당 물체에 대한 감정을 의뢰한 결과 필로폰으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 등산로 입구 주변 방범카메라(CCTV) 분석 등을 통해 마약 밀반입책과 수거책, 모집책 등 5명을 잇따라 검거했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 이들은 지난 3월 필리핀 세부에서 비행기를 통해 마약을 밀반입한 것으로 드러났다. 이들이 밀수한 마약류는 시가 12억원 상당의 케타민 2kg과 필로폰 110g으로, 4만3600여 명이 동시에 투약할 수 있는 양이었다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “모집책이 고액 알바를 미끼로 다른 피의자들을 범행에 끌어들였으며, 운반책들은 자신이 가져온 물건이 마약인 줄 몰랐다고 주장하고 있다”면서 “현재 상선 등에 대한 수사를 이어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>멋쟁해병 멤버 ‘임성근 만남’ 국회 허위 증언 정황</title>
       <link>https://www.chosun.com/national/court_law/2025/08/21/5NOERFE7CNAXNPGJQMGS6MMPE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/21/5NOERFE7CNAXNPGJQMGS6MMPE4/</guid>
@@ -944,24 +962,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 09:15:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMY7PK6SYRFMTI52ASRQ2IONJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 12월 임성근 전 해병대 1사단장과 '멋쟁해병' 멤버 송모씨가 함께 있는 모습. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹에 연루된 경호처 출신 ‘멋쟁해병’ 멤버 송모씨와 임 전 사단장이 지난 2023년 12월 만난 정황을 포착했다.&lt;br&gt;&lt;br&gt;앞서 송씨가 국회에서 구명 로비 의혹 관련 질문에 “2023년 말 임 전 사단장을 만난 적 없다”고 증언한 내용과 배치되는 증거가 나온 것이다. 송씨는 “날짜 착오”라는 입장이다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 해병 특검은 지난달 송씨에 대한 압수 수색을 통해 송씨와 임 전 사단장이 함께 찍은 사진을 확보했다. 두 사람이 나란히 앉아 웃고 있는 이 사진은 지난 2023년 12월 23일 촬영됐다고 한다.&lt;br&gt;&lt;br&gt;송씨는 이종호 전 블랙펄인베스트 대표 등 해병 출신으로 구성된 ‘멋쟁해병’의 멤버로, 이 전 대표와 함께 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹을 받는다. 2023년 7월 고 채수근 상병 사망 사고가 발생한 뒤 임 전 사단장이 과실치사 혐의를 받게 되자, 이 전 대표가 친분이 있는 김건희 여사에게 구명을 청탁했다는 것이다.&lt;br&gt;&lt;br&gt;이와 관련해 송씨는 작년 10월 국회 법제사법위원회 고위공직자범죄수사처 국정감사에 출석해 “2023년 연말에 임 전 사단장을 만난 적 있느냐”는 장경태 의원의 질문에 “없다”고 답했다. 특검이 확보한 사진과 배치되는 증언이다.&lt;br&gt;&lt;br&gt;이날 언론에 사진이 공개되고 위증 논란이 불거지자, 송씨는 본지에 “임 전 사단장이 (채 상병 사건 이후) 사단장에서 물러난 뒤 위로차 식사하며 찍은 사진”이라며 “2024년 2월쯤 만났다고 기억했는데 최근 특검 포렌식 과정에서 2023년 12월인 것을 알게 됐다”고 해명했다. 해당 모임에는 임 전 사단장과 멋쟁해병 멤버 최모 경위 등이 참석했고, 이 전 대표는 없었다고 한다. 송씨는 “특검에도 같은 취지로 설명했다”고 말했다.&lt;br&gt;&lt;br&gt;한편 특검은 지난 18일 송씨를 상대로 약 7시간 동안 참고인 조사를 진행했다. 특검은 송씨를 상대로 임 전 사단장과의 관계 등에 대해 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“경호처 서기관 김민수 입니다”... 사장님, 이런 전화는 의심부터</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/21/OFZXLQTQFRAH7M6K7BRZB34YHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/OFZXLQTQFRAH7M6K7BRZB34YHM/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 08:58:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV7HJH4ZH4LPJSIVY4QGAZVE7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노쇼 사기 방지 포스터/용산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 용산경찰서는 최근 대통령실 인근에서 경호처 등을 사칭한 ‘노쇼’(예약 부도) 사기가 발생한 데 대해 피해 예방 홍보 등 적극적으로 대응하고 있다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난 5일 ‘대통령 경호처 경호본부 서기관 김민수’라고 자신을 소개한 한 남성이 용산구에 위치한 민어 전문 식당에 120만원 상당의 요리를 주문했다. 점주 A씨는 주문대로 민어를 구입해 요리했으나 뒤늦게 사기임을 인지한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 용산서는 다각도로 수사를 진행하고 있다고 밝혔다. 또한 용산구청과 협조해 요식업 업주 대상으로 보이스피싱 예방 문자를 발송했다. &lt;br&gt;&lt;br&gt;관할 구역인 용산 삼각지파출소에서도 노쇼 피해 방지 포스터를 별도로 제작하는 등 피해 방지에 적극 나서고 있다. &lt;br&gt;&lt;br&gt;한편 용산서는 사기가 의심될 경우 해당 공공기관이나 관할 경찰서, 구청 등에 문의∙신고할 것을 당부했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘미아동 마트 흉기난동범’ 김성진, 1심 무기징역에 불복해 항소</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/21/JL4XLOQZAFDQDF4L5QLLBC4A64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/21/JL4XLOQZAFDQDF4L5QLLBC4A64/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 08:02:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSWWNAYAU5XTHP7SYEBPUJWGE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강북구 미아동 마트에서 흉기를 휘둘러 1명을 살해하고 1명을 다치게 한 김성진이 지난 5월 1일 오전 서울 강북경찰서에서 검찰로 구속 송치되고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강북구 한 마트에서 흉기를 휘둘러 1명을 숨지게 한 김성진(33)이 1심 무기징역 판결에 불복해 항소했다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 김씨는 지난 19일 서울북부지법 형사합의13부(재판장 나상훈)에 항소장을 제출했다. 김씨는 살인과 살인미수 혐의로 기소돼 지난 1심에서 무기징역을 선고받았다. 재판부는 김씨에게 전자장치 30년 부착과 준수사항 이행 명령도 내렸다.&lt;br&gt;&lt;br&gt;앞서 검찰은 “사회에 극심한 불안을 야기했다”며 사형을 구형했으나, 재판부는 “도심 한복판에서 무차별적 범행으로 사회적 공포를 야기했다”면서도 “환청 등 충동적 요인도 감안해야 한다”며 무기징역을 선택했다.&lt;br&gt;&lt;br&gt;김씨는 지난 4월 22일 오후 서울 강북구 미아동의 한 마트에서 진열된 흉기를 꺼내 60대 여성을 찔러 숨지게 했다. 이어 40대 직원을 공격했지만 피해자의 애원으로 범행은 미수에 그쳤다.&lt;br&gt;&lt;br&gt;검찰이 법정에 제출한 CCTV 영상에는 김씨가 범행 직후 카메라를 향해 극우 성향 온라인 커뮤니티 ‘일간베스트 저장소(일베)’의 인증 포즈를 취하는 모습이 담겼다. 해당 장면이 공개되자 시민들의 공분이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>순천 레미콘공장서 질식 사고... 작업자 3명 의식 불명</title>
