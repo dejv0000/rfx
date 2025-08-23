@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가뭄에 제한 급수하는 강릉 “제발 비를...” 기우제까지</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/MGXRX4AWZJAA5CNYVYFS4UEB5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/MGXRX4AWZJAA5CNYVYFS4UEB5M/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 06:42:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWBLTGV5SHTPTFM5MRH2RHS2WU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 극심한 가뭄을 겪고 있는 강원 강릉의 단비를 기원하는 기우제가 23일 오전 강릉시 인근지역인 평창군 대관령면 국사성황사에서 열리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“천지신명께 비나이다. 강릉에 제발 비를 뿌려주소서.”&lt;br&gt;&lt;br&gt;최근 강원도 강릉 지역에 심각한 가뭄이 계속됨에 따라 강릉단오보존회가 23일 강원 평창군 대관령면 횡계리 대관령산신당·대관령국사성황사에서 기우제(祈雨祭)를 봉행했다.&lt;br&gt;&lt;br&gt;강릉단오제보존회 관계자는 “가뭄 해갈에 대한 간절한 마음을 담아 대관령 산신과 대관령 국사 성황신에게 가뭄 해갈을 기원하는 기우제를 지냈다”고 밝혔다. 기우제에는 초헌관 최종봉 강릉시번영회장, 아헌관 최종원 강릉시이통장연합회장, 종헌관 심오섭 강릉단오제보존회 전승 교육사가 참여했다.&lt;br&gt;&lt;br&gt;기우제가 열린 산신당과 국사성황사 일원은 보존회 회원은 물론 가뭄 극복을 염원하기 위한 시민들로 인산인해를 이뤘다. 보존회 회원들은 밤, 대추, 떡 등 제물을 올린 뒤 비가 내리길 기원하는 축문(祝文)을 낭독했다.&lt;br&gt;&lt;br&gt;기우제가 끝나고 빈순애 강릉단오제보존회장이 굿을 펼쳤다. 빈순애 회장은 “매년 단오 굿 등으로 시민 안녕과 풍어·풍년을 기원했지만, 올해는 유난히 덥고 가물어 물 부족이 우려된다”며 “시민이 마음껏 물을 쓰기 어려울까 걱정돼 천지신명께 비를 내려달라고 기원했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEQQF3SUDVN6PHT2V4UCNI5SVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 22일 강원 강릉시 주요 상수원인 오봉저수지 상류에서 굴착기가 동원돼 물의 원활한 유입을 위한 하상 정비가 긴급 시행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국농어촌공사에 따르면 이날 강릉 지역 주 상수원인 오봉저수지 저수율은 18.3%로 평년(68.3%) 대비 26.8%에 그치고 있다. 현재 기준으로 오봉저수지 사용 가능 일수는 22일에 불과하다.&lt;br&gt;&lt;br&gt;당분간 뚜렷한 비 예보도 없어 생활용수와 농업용수의 심각한 공급 차질이 우려된다. 이에 강릉시는 지난 20일부터 세대별 계량기를 잠그는 제한 급수를 실시 중이다. &lt;br&gt;&lt;br&gt;현재까지 대상 구역 5만3485가구 가운데 87.7%인 4만6922가구의 절수 조치(제한 급수)를 마쳤다. 시는 오봉저수지 저수율이 15%로 떨어지면 수도 계량기 75%를 잠그는 제한 급수와 함께 농업용수 공급도 중단할 예정이다. 지난 21일 가뭄 단계가 심각으로 격상됨에 따라 식품접객업·집단급식소의 일회용품 사용을 한시적으로 허용하고 있다.&lt;br&gt;&lt;br&gt;한시적 허용 기간에는 식품접객업소 내 일회용품 사용 민원 발생 시 과태료를 부과하지 않는다. 일회용품 한시적 허용 조처는 가뭄 ‘심각’ 단계 해제 시까지만 적용된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>또 공사장 안전 사고... 20m 옥상서 작업자 추락해 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/CRCNPBYMIVE4PGUPQWYMFEQC5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/CRCNPBYMIVE4PGUPQWYMFEQC5Y/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 06:30:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 11시 21분쯤 울산 울주군 삼남읍 한 종교시설 신축 현장 4층 옥상에서 50대 작업자 A씨가 추락했다. 이 사고로 크게 다친 A씨는 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 사고가 난 건물은 층고가 높아 A씨가 추락한 옥상의 높이는 20ｍ에 달하는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 현장 관계자 등을 상대로 정확한 사고 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> 수류탄이 왜 거기서 나와… 서울 구로구 학교서 2발, 주민들 대피</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/AI55RBTXTFHE7GWJC744UFBO7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/AI55RBTXTFHE7GWJC744UFBO7E/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 06:49:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MMYR2VJ372RSDZ67IYYJWNIEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 구로구의 한 중·고등학교에서 23일 수류탄 2발이 발견됐다.&lt;br&gt;&lt;br&gt;이날 오전 10시 40분쯤 구로구 궁동에 있는 우신중·고등학교 경비원이 분리수거장에서 수류탄 2발을 발견했다고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;수류탄은 함께 출동한 군 폭발물처리반(EOD)이 수거했다.&lt;br&gt;&lt;br&gt;휴일이어서 학생들은 등교하지 않았지만 당시 학교에 나와 있던 교직원과 운동장에 있던 주민들이 학교 밖으로 대피했다.&lt;br&gt;&lt;br&gt;경찰은 수류탄이 교내에서 발견된 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>가수 린·이수 부부, 결혼 11년만 파경… “원만한 합의”</title>
       <link>https://www.chosun.com/national/national_general/2025/08/23/D4E7WCTRSZDB7L43KB66EVKIEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/D4E7WCTRSZDB7L43KB66EVKIEY/</guid>
@@ -828,15 +855,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWCSZOKEG5LMHFPL66YJFOZY3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 4일 서울 송파구 서울동부지검에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 서울동부지검장이 윤석열 정부 때 불거진 ‘세관 마약 수사 외압 의혹’을 수사 중인 합동수사팀을 지휘하게 됐다.&lt;br&gt;&lt;br&gt;대검찰청은 21일 보도자료를 통해 “대검 마약·조직범죄부에서 수사 상황을 지휘해온 합동수사팀을 서울동부지검에서 직접 지휘하도록 소속을 변경했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 지난 6월 검찰과 경찰, 국세청, 금융정보분석원(FIU)과 함께 서울동부지검에 합동수사팀을 구성하고, 사안의 중대성·관할 등을 고려해 대검 마약조직범죄부가 직접 수사를 지휘해왔다. 그러나 이번 검찰 인사에 맞춰 사무실이 있는 동부지검에서 직접 지휘하도록 변경한 것이다. 대검은 “신속한 의사결정이 필요하고 수사 과정의 공정성을 보다 객관적으로 담보하고자 검찰 인사에 맞춰 소속을 변경했다”고 설명했다.&lt;br&gt;&lt;br&gt;합동수사팀은 2023년 1월 서울 영등포경찰서가 필로폰 밀수 범행을 수사하는 과정에서 인천세관 공무원들이 연루됐다는 진술을 확보하자 대통령실과 경찰 등이 사건 은폐를 위해 외압을 행사했다는 의혹을 수사 중이다. 당시 수사를 담당한 백해룡(경정) 전 영등포경찰서 형사과장은 2023년 10월 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 “관세청 관련 문구 삭제를 요청하는 전화를 받았다”고 폭로했다. 또 당시 영등포서장이 “이 사건을 용산에서 심각하게 보고 있다”며 브리핑 연기를 지시했다고 주장했다.&lt;br&gt;&lt;br&gt;합동수사팀을 이끌게 된 임은정 지검장은 그간 해당 의혹에 적극적으로 목소리를 내왔다. 지난달에는 백 경정을 초청해 직접 면담하고 사건 관련 내용을 청취하기도 했다.&lt;br&gt;&lt;br&gt;당시 검찰 내부망에는 “검사장이 왜 근무 시간에 업무 연관성이 없는 인사를 검찰청으로 불러 이야기를 듣느냐”는 비판글이 올라왔다. 이에 대해 임 지검장은 “불신을 풀고 수사가 진척되기를 바라는 마음으로 하는 일이니 오해하지 마시기 바란다”는 댓글을 달았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제기동 다세대주택 방화 피의자 구속 송치…사망자 1명 늘어</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/2MPEPWNQ6VD45HUGQCYMOFTNTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/2MPEPWNQ6VD45HUGQCYMOFTNTE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 03:19:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3SY3ZGSV5LWK7YR63VSMCV7JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동대문경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 제기동의 한 다세대주택에서 불을 질러 15명의 사상자를 낸 30대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 동대문경찰서는 30대 남성 A씨를 현주건조물방화치사상 혐의로 22일 서울북부지검에 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 12일 오후 11시 52분쯤 제기동의 4층짜리 다세대주택 주차장에 불을 지른 혐의를 받는다. 경찰이 건물 주변 CCTV를 분석한 결과, 불은 폐지를 쌓아둔 리어카에서 시작됐다. A씨는 범행 직후 도주했다가 지난 14일 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;이 화재로 입원 치료 중이던 피해자 1명이 추가로 사망해 총 2명이 숨지고 13명이 다쳤다.&lt;br&gt;&lt;br&gt;화재가 난 다세대주택은 주차장이 필로티 구조(기둥만 두고 벽체 없이 개방된 구조)로 돼 있어 불이 급격하게 번졌고, 이 때문에 인명 피해가 커졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>죽음의 고비 넘긴 개그맨 고명환, 연매출 10억원 CEO 대박 난 비결</title>
       <link>https://www.chosun.com/national/national_general/2025/08/22/72AGJQEJFZB6XIUIY6USLI6LIM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/72AGJQEJFZB6XIUIY6USLI6LIM/</guid>
@@ -891,15 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2DQOPZNP5UOTAYANPEBSPJVVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 노상원 전 정보사령관을 오는 23~24일 연달아 소환하는 것으로 확인됐다. 특검은 이달 4일과 11일, 17일에도 계엄 직전 노 전 사령관과 자주 통화한 제3자의 내란 방조 의혹과 관련해 참고인 조사를 진행했다. 이번이 네번째다.&lt;br&gt;&lt;br&gt;특검은 해당 제3자를 특정해 조사했으나 내란과 직접 연결되는 단서를 확보하지 못해 피의자로 입건하지는 못한 상태인 것으로 알려졌다. 다만 ‘노상원 수첩’ 등 핵심 증거 분석을 위해서는 노 전 사령관의 진술이 중요하다고 보고, 주변 인물들에 대한 조사를 병행하면서 그의 입을 열려는 것으로 보인다.&lt;br&gt;&lt;br&gt;노 전 사령관은 수사팀과 일상적 대화에는 응하지도, 자신의 수첩 관련 질문에는 답변을 피하는 태도를 유지하고 있는 것으로 전해졌다. 특검 안팎에서는 “제3자 관련해 부르는 것도 사실상 노 전 사령관을 소환할 명목이 필요해서 그렇다”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;특검은 지난 19일에도 수첩 분석을 위해 노 전 사령관이 계엄 전 자주 찾았던 전북 군산의 무속인 이선진씨를 참고인으로 불러 조사했다. 이 과정에서 수첩에 적힌 ‘北’ 자가 노 전 사령관의 필체가 맞다는 이씨의 진술을 확보했다.&lt;br&gt;&lt;br&gt;특검은 또 노 전 사령관이 이씨에게 사주 수업을 하던 시기 작성한 노트도 찾아 달라고 요청했으나, 실제 확보는 못한 것으로 파악됐다. 2022~2023년 이씨가 노 전 사령관에게 사주 강의를 들을 당시 작성된 노트와 수첩의 필체를 대조하기 위한 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>고(故) 이선균 수사정보 유출해 파면된 경찰, 불복 소송에서 ‘패소’ </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/EUOWUNP3WJFKZKWYZEUIBTLQYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/EUOWUNP3WJFKZKWYZEUIBTLQYM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 02:20:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 경찰 수사를 받다가 숨진 배우 고(故) 이선균씨의 수사 정보를 유출해 파면된 경찰이 제기한 파면 처분 불복 소송에서 패소했다. &lt;br&gt;&lt;br&gt;인천지법 행정 1-3부(재판장 장유진)는 파면된 30대 A씨가 인천경찰청장을 상대로 낸 파면처분 취소 소송에서 원고 패소 판결했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “A씨는 직무 성격상 고도의 준법성과 직무 윤리가 요구되는 경찰로, 수사 중인 사건 피의자의 개인정보 보호와 수사 내용 보안의 중요성을 충분히 인식할 수 있는 직위였다”며 “수사 대상자의 입건 여부는 유출 시 수사에 지장을 초래할 수 있어 비밀로 보호할 필요성이 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “A씨는 경찰의 통상적인 언론 대응 수준을 넘어 원고 스스로 자신이 권한 없이 취득한 수사 진행 사항 및 수사 대상자들에 대한 정보를 언론에 무단으로 유출했다”며 “수사 대상자들의 권리를 침해하고 경찰 직무의 공공성을 심히 훼손해 비위의 정도가 매우 무겁다”고 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “A씨에 대한 엄정한 징계 처분은 불가피하다”며 “처분을 통해 달성하고자 하는 공직 기강 확립과 경찰 공무원에 대한 국민 신뢰 회복 등의 공익이 A씨가 입게 될 불이익에 비해 훨씬 크다”고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “경찰과 기자 사이의 통상적인 관계에 비추어 기자에게 정보를 제공하고 협조한 것이 크게 비난받을 일이라고 볼 수 없다”며 “표창 수상 경력에 따른 징계 감경이 고려되지 않았고, 10년간 경찰공무원으로 성실하게 근무한 점, 깊게 반성하고 있는 점 등을 볼 때 파면은 지나치게 과중하다”고 주장했으나, 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 10월 이선균씨 마약 의혹 사건의 수사 진행 상황을 담은 자료를 사진으로 찍어 B씨 등 기자 2명에게 유출한 혐의를 받는다. 인천경찰청 마약범죄수사계가 작성한 이 자료엔 이씨 마약 사건과 관련한 수사 대상자의 이름과 나이, 전과, 직업 등 인적 사항이 담겼다. &lt;br&gt;&lt;br&gt;인천경찰청은 지난해 7월 징계위원회를 열어 당시 경위로 근무하던 A씨를 파면 의결했다. &lt;br&gt;&lt;br&gt;A씨는 1심 판결에 불복해 항소했다. 항소심 재판은 서울고법 인천원외재판부에서 진행될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>창원서 남학생이 밀어 여교사 요추 골절...전치 12주 부상 </title>
       <link>https://www.chosun.com/national/2025/08/22/AX4TJO34LVFBND3VC2C7HI4PQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/22/AX4TJO34LVFBND3VC2C7HI4PQA/</guid>
@@ -916,15 +925,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 01:00:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4A43ZXXJGKUNHC52SWYLY2UUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초경찰서는 태국에서 필로폰·케타민 6kg을 국내로 밀반입한 마약조직 총책 30대 남성 A씨 등 12명을 지난해 10월부터 이번달까지 검찰에 송치했다고 21일 밝혔다. 이중 9명은 구속 상태로 넘겨졌다. 마약 6kg는 20만명이 동시에 투약할 수 있는 분량이다. 경찰은 아직 판매되지 않은 필로폰과 케타민 2.4kg를 압수했다.&lt;br&gt;&lt;br&gt;밀반입책 5명은 필로폰 3kg과 케타민 3kg을 몸에 부착해 숨기는 ‘바디패커’ 방식으로 지난해 9월부터 두 달 간 3차례에 걸쳐 국내에 마약을 들여온 것으로 조사됐다. 마약은 텔레그램을 통해 유통됐다. 고액 아르바이트라고 속여 유통책을 구한 뒤 마약을 판매했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰과 검찰에 총 4건의 수배가 내려졌던 상습 마약사범이었던 것으로 드러났다. 지난 4월 경찰청이 주최한 ’2025 아태지역 마약법집행회의(R-IDEC)‘에서 태국 마약통제청과의 회의를 실시하는 등 국제 공조를 한 경찰은 태국 현지에서 A씨를 검거, 8월 초 국내로 송환해 구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변사사건 현장에서 20돈 금목걸이 사라져… 출동 경찰관 5명 내사</title>
-      <link>https://www.chosun.com/national/incident/2025/08/22/W4QGUHS675BWDBYXUMDFHD5M7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/22/W4QGUHS675BWDBYXUMDFHD5M7E/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:13:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4ZS256JXKV2J6XULKZ4RQOX6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금목걸이. /뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 출동했던 변사 사건 현장에서 사망자가 착용하고 있던 금목걸이가 사라져 경찰이 조사에 나섰다. &lt;br&gt;&lt;br&gt;22일 인천경찰청 형사기동대 등에 따르면 지난 20일 오후 2시쯤 인천 남동구 만수동의 한 빌라에서 50대 남성 A씨가 숨을 쉬지 않는다는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;소방 당국은 출동해 A씨가 숨진 사실을 확인한 뒤 경찰에 인계했다.&lt;br&gt;&lt;br&gt;그런데, 조사 과정에서 A씨가 착용하고 있던 금목걸이가 사라진 사실이 파악됐다. &lt;br&gt;&lt;br&gt;소방 인계 뒤 최초로 출동한 남동경찰서 소속 형사가 휴대전화로 촬영한 A씨 사진엔 금목걸이가 있었으나, 이후 현장을 찾은 인천경찰청 과학수사대 촬영 사진엔 목걸이가 없었던 것이다. 이 금목걸이는 20돈짜리로, 시가 1100만원 상당인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;당시 경찰관들은 서로의 신체를 수색했으나 목걸이는 발견되지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 현장에 출동했던 형사 2명과 검시 조사관 1명, 과학수사대 직원 2명 등 5명을 상대로 조사에 착수했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사건 기록을 처음부터 다시 들여다보면서 입건 전 조사(내사)를 진행하게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희특검, ‘건진법사’ 전성배 소환... 구속 직후 조사</title>
