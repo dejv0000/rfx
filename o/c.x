@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“돼지국밥 먹으러 한국 가요”… 대만인 50만명 찾은 도시는</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/URTP2II4UZARHJOUPII2SZQAIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/URTP2II4UZARHJOUPII2SZQAIE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 08:17:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QELCWCMFS5EQJLVRHID5UNYTM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 돼지국밥. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산을 찾는 대만 관광객들이 큰 폭으로 늘어난 가운데, 이들이 가장 선호하는 음식은 돼지국밥으로 나타났다. &lt;br&gt;&lt;br&gt;13일 항공업계에 따르면 부산과 대만을 오가는 국내 항공사 여객기에 대만 국적 승객 비율이 60~70%에 달하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;올해 초부터 7월까지 부산과 대만(타이베이‧가오슝)을 오간 에어부산 여객기에 대만 탑승객 비율은 평균 71%였다. 특히 부산~가오슝 노선의 80% 이상이 대만 국적 승객이었다. 에어부산 관계자는 “꾸준하게 대만 국적 승객 비율이 높아지고 있다”며 “국적기에 외국인 승객이 이 정도 비율인 것은 이례적인 일”이라고 했다. &lt;br&gt;&lt;br&gt;부산~타이베이 제주항공 여객기 탑승객도 60~70%가 대만 관광객이었다. 대만 국적 항공사 중화항공과 타이거에어 타이완의 부산~타이베이 노선 승객도 대부분 대만 국적이다. &lt;br&gt;&lt;br&gt;부산을 찾는 대만 관광객이 늘고 있다는 것은 관광 통계에서도 나타난다. 한국관광공사 관광 데이터랩에 따르면, 한국을 찾는 전체 대만 관광객 중 부산 방문 비율은 2023년 13%대였지만, 2024년 16%로 올랐다. 올해 상반기에는 23%까지 높아졌다. &lt;br&gt;&lt;br&gt;작년 부산을 찾은 대만 관광객은 모두 50만456명으로, 처음으로 외국인 관광객 가운데 1위를 차지했다. 2023년 25만7049명과 비교하면 2배 가까이 증가한 수치다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBTEEZXKNBCFPHUVIT5KO6ZL4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 부산 사하구 감천문화마을을 방문한 대만 관광객 가족이 한복을 입고 기념촬영을 하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여행업계에서는 부산을 찾는 대만 관광객이 늘어난 이유로 직항 노선 확대, 대만 현지 소셜미디어를 통한 입소문 등을 꼽았다. 중국과 대만의 관계가 악화한 이후 중국을 찾던 대만 관광객이 부산으로 유입됐다는 분석도 있다. &lt;br&gt;&lt;br&gt;한 관광업계 관계자는 “2011년 에어부산이 국적기 중 처음으로 부산~대만 직항 노선을 취항한 뒤 항공편이 다양화되면서 부산을 찾는 대만 관광객이 크게 늘었다”며 “특히 외식 문화에 관심이 많은 대만인이 돼지국밥, 씨앗호떡, 수산물 등 부산의 음식에 크게 관심을 갖는 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;부산관광공사는 대만 관광객 1만5796명을 대상으로 ‘선호하는 부산 음식’에 대해 설문조사한 결과, 돼지국밥(중복 응답)이 66.9%로 1위를 차지했다고 밝혔다. 이어 부산어묵(37.4%), 씨앗호떡(22.4%), 장어구이(19.4%) 순이었다. 타이거에어 타이완과 함께 선보인 돼지국밥 기내식은 지난 3월부터 4개월 동안 총 2166개가 판매될 정도로 인기를 끌고 있다고 한다. &lt;br&gt;&lt;br&gt;관광업계는 하반기 부산을 찾는 대만 관광객이 더 늘어날 것으로 기대한다. 항공사들이 부산~대만 노선을 증편하고 있어서다. 대만에서 중화항공 다음으로 큰 에바항공이 부산~타이베이 노선을 신규 취항하고, 제주항공도 부산~가오슝 노선을 재운항한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산바다서 심정지 상태로 발견된 70대 해녀 2명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/BL4LL6BJ45EADBW66J4NS354D4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/BL4LL6BJ45EADBW66J4NS354D4/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 09:08:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 마크./해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 오전 10시 20분쯤 부산 기장군 앞바다에서 해녀 A(71)씨와 B(77)씨가 심정지 상태로 발견됐다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;해경에 따르면, 이들은 발견 당시 해녀 복장을 하고 있었다. 또 해산물 채취 작업 도구도 함께 발견됐다.&lt;br&gt;&lt;br&gt;이들은 심폐소생술 등 응급조치를 받고 병원으로 옮겨졌지만 소생하지 못하고 20여 분 만에 숨졌다. 해경은 정확한 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “다수의 해녀는 고령임에도 몸을 돌보지 않고 조업하다 사고를 당하는 경우가 많다”며 “본인의 몸 상태를 확인하고 무리한 조업은 삼가는 것이 가장 중요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안성 공장서 폭발, 울주 공사장 20m서 추락... 근로자 2명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/HIQZZ5OADBGQJM5HYIKNGW4AJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/HIQZZ5OADBGQJM5HYIKNGW4AJ4/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 08:42:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPPUPERU6NBXHJAUPRER7GHQUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;근로자 1명이 숨진 경기 안성 사고 현장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 공사 현장에서 근로자 사망 사고가 끊이지 않고 있다. &lt;br&gt;&lt;br&gt;23일 오전 10시 36분쯤 경기도 안성시 서운면 소재 라디에이터(열교환기) 코팅 공장에서 폭발 사고가 일어나 1명이 사망하고 1명이 다쳤다. 이날 사고는 라디에이터를 세척한 뒤 열풍기를 이용한 건조 작업 중 라디에이터에 파열이 생기면서 발생한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사고로 금속 파편에 맞은 50대 근로자 A씨가 숨지고, 60대 근로자 B씨가 다쳤다. &lt;br&gt;&lt;br&gt;경찰은 고용노동부와 함께 사고 경위를 파악하는 한편, 안전 조치가 적절했는지 여부 등을 수사하고 있다.&lt;br&gt;&lt;br&gt;울산 울주군에서도 근로자가 추락해 숨졌다. &lt;br&gt;&lt;br&gt;이날 오전 11시 21분쯤 울산 울주군 삼남읍 한 종교시설 신축 현장 4층 옥상에서 50대 작업자 C씨가 추락했다. 이 사고로 크게 다친 C씨는 현장에서 사망했다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 사고가 난 건물은 층고가 높아 C씨가 추락한 옥상의 높이는 20ｍ에 달하는 것으로 전해졌다. 경찰은 현장 관계자 등을 상대로 정확한 사고 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>가뭄에 제한 급수하는 강릉 “제발 비를...” 기우제까지</title>
       <link>https://www.chosun.com/national/regional/2025/08/23/MGXRX4AWZJAA5CNYVYFS4UEB5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/MGXRX4AWZJAA5CNYVYFS4UEB5M/</guid>
@@ -828,15 +855,6 @@
       </media:content>
     </item>
     <item>
-      <title>부산 앞바다서 발견된 상어 사체… 길이 3ｍ, 무게 100㎏</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/XKQTFDJDL5BGZGZH4HWR6FQJWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/XKQTFDJDL5BGZGZH4HWR6FQJWM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 04:37:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7TG3LB5DZ4UFBQYS4L2AGYYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해상에서 인양된 상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 영도구 해상에서 길이 3ｍ, 무게 100㎏의 상어 사체가 발견됐다. &lt;br&gt;&lt;br&gt;부산해양경찰서는 22일 오전 6시 30분쯤 부산 영도구 봉래동 물양장 앞 해상에서 상어 사체를 발견해 크레인으로 인양했다고 밝혔다.&lt;br&gt;&lt;br&gt;길이 3ｍ, 무게 100㎏의 상어는 흰배환도상어로 확인됐다. 흰배환도상어는 공격성이 약한 종으로 분류된다. 전 세계 열대에서 아한대 해역의 연안으로부터 외양까지 널리 분포하며, 해양의 표층에서부터 수심 370m까지 서식한다. 먹이는 주로 군집을 이루며 사는 어류와 오징어류인 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZWY5PLZL4TNCS42YCYWFCZ6HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 인양된 흰배환도상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRBW54U5YRAXPCCBXRSZ7OINAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 인양된 흰배환도상어 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경은 해상 순찰을 하다가 바다에 떠 있는 상어를 발견했다. 발견 당시 이미 죽어 부패가 진행된 상태였으며, 작살이나 포획 흔적은 없었다. 해경 관계자는 “포획 흔적은 보이지 않았다”며 “상어 사체가 조류로 떠밀려오며 해상에서 발견된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;부산 앞 해상에서 상어가 발견된 건 처음은 아니다. 작년 9월 자갈치 크루즈 선착장 앞 해상에서 공격성이 강한 청새리상어로 추정되는 상어 사체가 발견된 바 있다. 또 같은 달 말엔 영도구 생도 인근 해상에서 밤낚시를 하던 선원이 청상아리의 공격을 받아 부상을 입는 일이 벌어지기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산 영도 앞바다서 3m 길이 상어 사체 발견</title>
       <link>https://www.chosun.com/national/regional/2025/08/22/2DDUDIC2BVGEHGAEU25WGVN55I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/2DDUDIC2BVGEHGAEU25WGVN55I/</guid>
@@ -853,15 +871,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 01:55:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWCSZOKEG5LMHFPL66YJFOZY3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 4일 서울 송파구 서울동부지검에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 서울동부지검장이 윤석열 정부 때 불거진 ‘세관 마약 수사 외압 의혹’을 수사 중인 합동수사팀을 지휘하게 됐다.&lt;br&gt;&lt;br&gt;대검찰청은 21일 보도자료를 통해 “대검 마약·조직범죄부에서 수사 상황을 지휘해온 합동수사팀을 서울동부지검에서 직접 지휘하도록 소속을 변경했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 지난 6월 검찰과 경찰, 국세청, 금융정보분석원(FIU)과 함께 서울동부지검에 합동수사팀을 구성하고, 사안의 중대성·관할 등을 고려해 대검 마약조직범죄부가 직접 수사를 지휘해왔다. 그러나 이번 검찰 인사에 맞춰 사무실이 있는 동부지검에서 직접 지휘하도록 변경한 것이다. 대검은 “신속한 의사결정이 필요하고 수사 과정의 공정성을 보다 객관적으로 담보하고자 검찰 인사에 맞춰 소속을 변경했다”고 설명했다.&lt;br&gt;&lt;br&gt;합동수사팀은 2023년 1월 서울 영등포경찰서가 필로폰 밀수 범행을 수사하는 과정에서 인천세관 공무원들이 연루됐다는 진술을 확보하자 대통령실과 경찰 등이 사건 은폐를 위해 외압을 행사했다는 의혹을 수사 중이다. 당시 수사를 담당한 백해룡(경정) 전 영등포경찰서 형사과장은 2023년 10월 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 “관세청 관련 문구 삭제를 요청하는 전화를 받았다”고 폭로했다. 또 당시 영등포서장이 “이 사건을 용산에서 심각하게 보고 있다”며 브리핑 연기를 지시했다고 주장했다.&lt;br&gt;&lt;br&gt;합동수사팀을 이끌게 된 임은정 지검장은 그간 해당 의혹에 적극적으로 목소리를 내왔다. 지난달에는 백 경정을 초청해 직접 면담하고 사건 관련 내용을 청취하기도 했다.&lt;br&gt;&lt;br&gt;당시 검찰 내부망에는 “검사장이 왜 근무 시간에 업무 연관성이 없는 인사를 검찰청으로 불러 이야기를 듣느냐”는 비판글이 올라왔다. 이에 대해 임 지검장은 “불신을 풀고 수사가 진척되기를 바라는 마음으로 하는 일이니 오해하지 마시기 바란다”는 댓글을 달았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>죽음의 고비 넘긴 개그맨 고명환, 연매출 10억원 CEO 대박 난 비결</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/72AGJQEJFZB6XIUIY6USLI6LIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/72AGJQEJFZB6XIUIY6USLI6LIM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 03:13:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MB5VIPCL7VAJJD5EBOOA5VB6RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 출신 작가 고명환./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 고명환(52)이 죽음의 고비를 넘기고 다양한 직업으로 제2의 인생을 살게 된 사연을 밝혔다. 그는 현재 베스트셀러 작가이자 연 매출 10억원의 외식업 사업가, 자가 4채를 보유한 재테크의 달인으로 살고 있다.&lt;br&gt;&lt;br&gt;고명환은 지난 21일 방송된 KBS ‘옥탑방의 문제아들’을 통해 “죽음 문턱에서 ‘나는 개그맨으로 안 태어났구나’라는 걸 깨달았다. ‘작가 고명환’이라는 삶을 안 꺼내고 죽었으면 얼마나 후회했을까 싶다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;고명환은 2005년 드라마 촬영을 위해 이동하던 중 고속도로에서 트럭과 충돌하는 큰 교통사고를 당했다고 한다.&amp;nbsp;당시 그는 병원에서 눈을 뜨자마자 “유언부터 남기라”는 말을 들을 정도로 생사의 갈림길에 섰다.&lt;br&gt;&lt;br&gt;기적적으로 회복한 고명환은 중환자실에서 “제발 저를 살려주시면, 남이 말하는 기준으로 살지 않고, 내 안의 뭔가를 꺼내보고 싶다”라고 생각했다고 한다.&lt;br&gt;&lt;br&gt;사고를 극복한 그는 베스트셀러 작가, 연 매출 10억원의 외식업 사업가, 강연가 등 다양한 직업으로 다시 비상했다. &lt;br&gt;&lt;br&gt;‘강연계의 BTS’로 불린다는 고명환은 “하루에 2~3번씩 강연을 한다. 최고경영자(CEO) 조찬 모임도 있는데 보통 오전 7시”라며 “이렇게 강연을 하고 책을 쓰는 건 사람들이 죽음 앞에 갔을 때 겪지 않아도 될 고통을 겪지 않게 해주고 싶다는 마음 때문”이라고 했다.&lt;br&gt;&lt;br&gt;네 번의 사업 실패를 딛고 다시 시작한 외식 사업도 연 매출 10억원을 기록 중이다. 그는 지구 온난화에 맞춰 여름 음식인 메밀 국수로 아이템을 선정하고, 고령화 시대에 맞춰 50~80대 타깃층을 선정해 성공을 이뤘다. 특히 그는 식당 오픈 1시간 전 독서법, 글쓰기, 다이어트 음식 조리법 등 다양한 주제로 무료 강연을 했고, 강연이 매출로 연결될 수 있도록 이를 마케팅으로 활용했다고 한다.&lt;br&gt;&lt;br&gt;과거 300만원을 가지고 상경했던 고명환은 자가를 4채 보유한 재테크의 달인으로도 성장했다. 그는 “여자 친구를 사귈 때마다 8년, 5년씩 사귀었다. 그때마다 여자친구랑 살 집을 청약 신청했다. 박명수가 알려준 방법”이라며 “저축은 어렵지만 차라리 빚을 내어 갚는 것이 낫다”고 조언했다.&lt;br&gt;&lt;br&gt;지난해 8월 ‘고전이 답했다: 마땅히 살아야 할 삶에 대하여’를 발간한 그는 인세만 2억5200만원을 번 인기 작가이기도 하다. 이 책은 출간 직후 예약 판매 하루 만에 교보문고, 예스24, 알라딘 통합 베스트셀러 1위에 올랐다. 이 책으로 한강 작가와 나란히 올해의 작가상을 받는 쾌거도 이뤘다.&lt;br&gt;&lt;br&gt;고명환은 개그맨 공백기 당시 회사까지 입사해 오로지 돈만 좇았던 때를 회상했다. 사고 이후로는 “열심히 살았지만, 방향을 잘못 갔구나“라는 생각을 했다며 ”속도보다 방향인 걸 이해했다. 속도를 높이기 전에 방향 먼저 알아야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검, ‘이종섭 귀국’ 방산회의 급조 의혹 수사… 외교부 실무자 소환</title>
@@ -898,15 +907,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 02:40:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWULLQMBXZEJPO7FZLISOM6HNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웃 주민의 방화로 불에 탄 전동 휠체어. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 험담한다며 이웃의 전동 휠체어에 불을 지른 50대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 통영경찰서는 방화 등 혐의로 A씨를 긴급체포했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 21일 오전 8시쯤 통영시 광도면 한 아파트 2층 복도에 주차된 이웃의 전동 휠체어에 라이터로 불을 지른 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 불로 같은 층에 거주하는 이웃 주민 1명이 연기를 마셔 병원에 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;불은 전동 휠체어 등을 태운 뒤 출동한 소방대원에 의해 같은 날 오전 8시 25분쯤 모두 꺼졌다. 배터리 폭발 등은 일어나지 않았다. 다만 화재 대피 방송 등을 듣고 놀란 주민들이 대피하는 소동이 빚어졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YS53OPL2ZHIFASYBP6SH65CH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웃 주민의 방화로 불에 탄 전동 휠체어. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 전동 휠체어 배터리 쪽이 아닌 상단 의자 부분이 많이 탄 것을 의심해 감시카메라(CCTV)를 분석해 누군가 고의로 전동 휠체어에 불을 붙이는 장면을 확인했다. 경찰은 방화 추정자로 A씨를 특정한 후 이날 오전 9시 21분쯤 아파트 단지 내 공터에 있던 A씨를 붙잡았다. 범행 때 쓴 라이터도 압수했다.&lt;br&gt;&lt;br&gt;A씨 역시 이 아파트 주민이었다. A씨는 “전동 휠체어 주인인 여성 B(50대)씨가 험담을 하고 다녔고, 며칠 전 승강이도 벌였다”며 “평소 개인 감정이 좋지 않아 그랬다”는 취지로 경찰에 범행을 시인했다고 한다.&lt;br&gt;&lt;br&gt;사건 당시 B씨는 화재 현장 주변에는 없었다고 한다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위와 범행 동기 등을 조사한 뒤 A씨에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 내란 특검, 노상원 주말 연달아 소환... 무속인 조사서 “수첩 속 ‘北’, 노상원 글씨” 진술 확보</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/MMJIIQ7LIJH7JIXE2E6W5757O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/MMJIIQ7LIJH7JIXE2E6W5757O4/</guid>
-      <dc:creator>오유진 기자, 김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 02:28:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2DQOPZNP5UOTAYANPEBSPJVVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 노상원 전 정보사령관을 오는 23~24일 연달아 소환하는 것으로 확인됐다. 특검은 이달 4일과 11일, 17일에도 계엄 직전 노 전 사령관과 자주 통화한 제3자의 내란 방조 의혹과 관련해 참고인 조사를 진행했다. 이번이 네번째다.&lt;br&gt;&lt;br&gt;특검은 해당 제3자를 특정해 조사했으나 내란과 직접 연결되는 단서를 확보하지 못해 피의자로 입건하지는 못한 상태인 것으로 알려졌다. 다만 ‘노상원 수첩’ 등 핵심 증거 분석을 위해서는 노 전 사령관의 진술이 중요하다고 보고, 주변 인물들에 대한 조사를 병행하면서 그의 입을 열려는 것으로 보인다.&lt;br&gt;&lt;br&gt;노 전 사령관은 수사팀과 일상적 대화에는 응하지도, 자신의 수첩 관련 질문에는 답변을 피하는 태도를 유지하고 있는 것으로 전해졌다. 특검 안팎에서는 “제3자 관련해 부르는 것도 사실상 노 전 사령관을 소환할 명목이 필요해서 그렇다”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;특검은 지난 19일에도 수첩 분석을 위해 노 전 사령관이 계엄 전 자주 찾았던 전북 군산의 무속인 이선진씨를 참고인으로 불러 조사했다. 이 과정에서 수첩에 적힌 ‘北’ 자가 노 전 사령관의 필체가 맞다는 이씨의 진술을 확보했다.&lt;br&gt;&lt;br&gt;특검은 또 노 전 사령관이 이씨에게 사주 수업을 하던 시기 작성한 노트도 찾아 달라고 요청했으나, 실제 확보는 못한 것으로 파악됐다. 2022~2023년 이씨가 노 전 사령관에게 사주 강의를 들을 당시 작성된 노트와 수첩의 필체를 대조하기 위한 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>창원서 남학생이 밀어 여교사 요추 골절...전치 12주 부상 </title>
