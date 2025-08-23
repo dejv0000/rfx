@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>장애인 동료 음식에 침 뱉은 국회 공무원... 항소심도 “해임 정당”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/23/XBPRCVTRVNBRZL5UKOCSDAGQN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/XBPRCVTRVNBRZL5UKOCSDAGQN4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 11:33:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLY4PJBGGBORNMFQHQ2PPWH6FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발달장애인 동료에게 침 뱉은 음식을 먹이고 모욕적인 발언을 한 국회사무처 공무원을 해임한 것은 정당하다는 항소심 판결이 나왔다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 서울고법 행정7부(재판장 구회근)는 지난달 국회사무처 소속 공무원이었던 A씨가 낸 해임 취소 소송 항소심에서 1심과 같이 해임이 정당하다고 판결했다.&lt;br&gt;&lt;br&gt;2023년 A씨는 직장 내 괴롭힘을 사유로 17년간 일한 국회사무처에서 해임됐다. 국회인권센터 조사에 따르면 A씨는 2010년부터 함께 일한 중증 발달장애인 공무직 동료 B씨에게 수시로 라면이나 김밥을 사오라고 하는 등 사적인 심부름을 시킨 것으로 나타났다. 평소 세탁기로 세탁하던 국회의원 양말을 손빨래시키고, 떡이나 생수에 침을 뱉은 뒤 먹게 하기도 했다. &lt;br&gt;&lt;br&gt;A씨는 해임이 부당하다며 소송을 제기했지만 1심에 이어 항소심에서도 패소했다. 지난해 1심 서울행정법원은 “A씨는 신분이 보장된 8급 일반직공무원이자 ‘팀장’으로 불렸던 반면 피해자는 계약직이었던 점을 비춰 보면 직무·직급에 있어 우월적 지위에 있었다고 보인다”며 “직무와 관련 없는 사적인 지시를 하거나 비인격적인 대우를 한 것은, 우월적 지위를 이용해 근무환경을 악화시키는 부당한 행위로서 공무원의 성실의무를 위반한 것”이라고 했다.&lt;br&gt;&lt;br&gt;1심 재판부는 또 “A씨 행위는 본인은 물론 공직 사회에 대한 국민의 신뢰를 실추시킬 정도로 매우 심각하다”며 “비위 정도가 심하고 고의가 있는 경우 파면이나 해임 처분을 하도록 돼 있는 규정에 미뤄, 해임 처분이 징계재량권을 일탈·남용한 것이라고 보기 어렵다”고 했다. A씨가 항소했으나 항소심 재판부도 “1심 판결이 정당하다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>프로야구 최초 대기록…한화 손아섭, 통산 2600안타 달성</title>
+      <link>https://www.chosun.com/national/people/2025/08/23/SZUBC5X6ANELBCTE2AUAG7FDRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/23/SZUBC5X6ANELBCTE2AUAG7FDRM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 12:32:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMUNVOB3IZMWLMFXENK23OB3LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화 이글스 손아섭이 23일 대전 한화생명볼파크에서 열린 2025 프로야구 SSG 랜더스와 홈 경기 8회말 공격에서 프로야구 최초 개인 통산 2600번째 안타를 치고 있다. /한화 이글스 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한화 이글스의 베테랑 외야수 손아섭(37)이 프로야구 사상 처음으로 2600안타 고지를 밟았다. &lt;br&gt;&lt;br&gt;손아섭은 23일 대전 한화생명볼파크에서 열린 2025 프로야구 SSG랜더스와 홈 경기에 2번 타자 우익수로 선발 출전해 4타수 1안타 1득점을 기록했다. &lt;br&gt;&lt;br&gt;1회 삼진, 3회 땅볼, 5회 뜬공으로 물러난 손아섭은 마지막 타석에서 안타를 뽑아냈다. 8회말 공격 선두 타자로 나선 손아섭은 SSG 선발 미치 화이트를 상대로 볼 카운트 1볼 2스트라이크에서 몸쪽 낮은 커브를 공략해 우중간 안타를 때렸다. 전날까지 개인 통산 2599개의 안타를 기록한 손아섭은 이로써 KBO리그 통산 첫 번째로 개인 통산 2600안타라는 대기록을 작성했다. &lt;br&gt;&lt;br&gt;2007년 롯데 자이언츠에서 프로 데뷔한 손아섭은 2010년부터 2023년까지 매년 세 자릿수 안타를 뽑아냈다. 최다 안타 타이틀도 4차례(2012‧2013‧2017‧2023시즌)나 차지했다. &lt;br&gt;&lt;br&gt;KBO리그 역대 최다 안타 1위를 달리고 있는 손아섭이 안타를 생산할 때마다 이 기록은 새로 쓰인다. 2500안타를 돌파한 선수로는 최형우(KIA타이거즈‧2562안타), 김현수(LG트윈스‧2509안타), 박용택(2504안타)이 있다. &lt;br&gt;&lt;br&gt;한편, 이날 한화는 팀 창단 후 처음으로 홈 경기 100만 관중 돌파라는 기록도 세웠다. 50번째 홈 경기 매진을 기록하며 올해 한화의 홈 경기 총관중 수는 101만1110명이 됐다. &lt;br&gt;&lt;br&gt;이날 한화는 SSG랜더스에 5대0으로 이기며 6연패에서 벗어났다. 66승3무48패가 되면서 3위 SSG(58승4무54패)와 승차를 7경기로 벌린 2위를 차지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 송하윤 학폭 폭로자, 경비지원 거절…”내 돈으로 조사받겠다”</title>
+      <link>https://www.chosun.com/national/people/2025/08/23/MB74YRRKPNH2LPIIWOUW6S5QSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/23/MB74YRRKPNH2LPIIWOUW6S5QSE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 10:33:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ELM26A7F5DIMXBDBCKLMUZLLSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송하윤. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송하윤에게 과거 학교폭력 피해를 당했다고 주장한 A씨가 송하윤 측이 제안한 입국 경비 지원 제안을 거절했다. &lt;br&gt;&lt;br&gt;A씨는 22일 한 온라인 커뮤니티에 ‘송하윤 학폭 피해자입니다’라는 제목의 글을 올리고 송하윤 측에 자료 공개를 요구했다. &lt;br&gt;&lt;br&gt;A씨가 요청한 문서는 2004년 반포고 재학 중이던 학생 김미선(송하윤 본명)이 3학년 2학기 무렵 압구정고로 전학한 사례와 관련해 ▲학생징계위원회 회의록 및 결과 ▲강제 전학 행정처분 관련 문서 ▲전학 조치 사유가 기재된 전학 승인 문서 ▲징계 기록 보존 여부 확인서 등이다. &lt;br&gt;&lt;br&gt;A씨는 “저는 지금 당장 한국에 방문할 필요가 없는 상황이며 비용 보전을 먼저 요청한 적도 없다”며 “송하윤 측은 100% 전액 (지원)인양 표현했지만 실제로는 제한적 범위 내 일부 정산에 불과하다”고 했다. 이어 “정말로 학폭으로 인한 강제 전학이 없다고 주장한다면 위의 서류를 발부받아 공개하면 이 모든 상황이 끝난다”며 “문서를 모두 발부받으면 최대 3000원 정도 나온다. 본인의 억울함을 증명하는 데 훨씬 빠르고, 입국 경비 전액 지원보다 훨씬 저렴하다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “만약 혹시라도 못 하시겠다면 이런 왜곡된 언론플레이는 그만하시길 정중히 요청드린다”며 “제 자비로 한국에 입국해 조사에 성실히 협조하겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 송하윤 측은 A씨를 명예훼손과 업무방해, 협박 등 혐의로 고소했다고 밝혔다. 송하윤의 법률대리인 법무법인 지음은 22일 “A씨가 신속히 귀국해 조사받을 수 있도록 항공료, 호텔비, 교통비 등 경비 일체를 지원할 예정”이라며 “입국 이후 제기된 주장들에 대한 사실관계를 하나씩 검증해 대응할 준비를 이미 마쳤다”고 밝혔다. &lt;br&gt;&lt;br&gt;한편 A씨는 작년 4월 JTBC ‘사건반장’을 통해 송하윤에게 학교폭력 피해를 당했다는 사실을 최초로 공개했다. 놀이터로 불려 나가 영문도 모른 채 90분간 따귀를 맞았고, 송하윤은 또 다른 학폭 사건에 연루돼 전학을 갔다는 내용이었다. 당시 송하윤은 “제보자와 일면식도 없고 모든 주장은 사실 무근”이라고 부인했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울고검, 김건희 ‘허위 경력’ 의혹 재수사 여부 검토한다</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/23/AE5SXGOTOJE7LP3CKYIFNWRLGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/AE5SXGOTOJE7LP3CKYIFNWRLGE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 10:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARY6FTLJ7ZBLNIML5IAB7YZX4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 대선 후보 신분이던 지난 2021년 12월 김건희 여사가 자신의 '허위 이력 의혹'과 관련해 입장문을 발표하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고검이 윤석열 전 대통령 배우자 김건희 여사의 ‘허위 경력 기재’ 의혹을 재수사할지 검토한다. 23일 법조계에 따르면 서울고검은 김 여사의 허위 경력 기재 사건을 불기소한 서울중앙지검 처분에 불복해 시민단체가 항고한 사건을 전날 형사부에 배당했다. &lt;br&gt;&lt;br&gt;앞서 2021년 12월 시민단체 사법정의바로세우기시민행동(사세행) 등은 김 여사가 국민대·안양대 등 다수 대학에 비정규직 교원 임용에 지원하면서 허위 경력을 기재한 것으로 보인다며 상습 사기·업무방해 등 혐의로 경찰에 고발했다. &lt;br&gt;&lt;br&gt;애초 경찰은 이 사건을 무혐의로 불송치했으나 고발인의 이의신청에 따라 검찰에 송치돼 보완수사가 이뤄졌다. 이후 지난 6월 김건희 특검으로 사건이 이송됐지만 지난달 31일 특검이 사건을 다시 검찰로 돌려보냈다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사7부(부장 권성희)는 지난 19일 불기소 결정을 내렸다. 업무방해 혐의는 공소시효(7년)가 완성됐고, 상습사기 혐의에 대해선 이력이 허위가 아니거나 그 결과로 채용됐다고 보기 어렵다는 이유였다.&lt;br&gt;&lt;br&gt;이에 고발인인 사세행 측이 불복해 항고했다. 김한메 사세행 대표는 “국민대 교수 임용 건은 2014~2016년에 이뤄져 공소시효가 아직 1년가량 남았다”며 “이에 대한 재수사를 촉구하는 차원에서 항고장을 제출했다”고 했다. 사기죄 공소시효는 10년이다.&lt;br&gt;&lt;br&gt;사건을 배당한 서울고검은 서울중앙지검에서 수사 기록을 넘겨받아 검토한 뒤 재수사 착수 여부를 결정할 방침이다. 서울고검은 불기소 처분이 적절했는지 살펴본 뒤 기각하거나 재기수사 명령(불기소 결정 사건을 재수사하라는 것)이나 공소제기 명령 등을 내릴 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“돼지국밥 먹으러 한국 가요”… 대만인 50만명 찾은 도시는</title>
       <link>https://www.chosun.com/national/national_general/2025/08/23/URTP2II4UZARHJOUPII2SZQAIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/URTP2II4UZARHJOUPII2SZQAIE/</guid>
@@ -807,24 +843,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2JP336YLT5XRHPHVLDQAU4XWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 과거 석사 학위 논문을 작성하며 기사 내용을 출처를 밝히지 않고 그대로 가져다 쓴 것으로 나타났다.&lt;br&gt;&lt;br&gt;최 후보자는 2006년 12월 목원대 대학원 행정학과 석사 학위 논문으로 ‘매니페스토 운동에 나타난 정책공약 분석’을 제출했다. 그런데 이 논문에서 2006년 2월 한 일간지가 작성한 기사와 같은 문장이 다수 확인됐다.&lt;br&gt;&lt;br&gt;최 후보자는 논문 ‘이론적 고찰’에서 영국의 사례를 들었는데, “매니페스토의 출발점은 1834년 영국이다. 당시 로버트 필 보수당 당수가 이 개념을 처음 제시했다. 그는 ‘겉만 번지르르한 공약으로 순간의 환심을 살 순 있다. 그러나 결국은 실패한다’며 구체화 된 공약의 필요성을 강조했다. 그 후 1997년 영국 노동당의 토니 블레어가 매니페스토를 제시해 집권에 성공하면서 세상에 널리 알려졌다” 등 논문에 적은 내용은 그해 2월 1일 한 일간지가 보도한 기사 내용과 정확히 일치한다. &lt;br&gt;&lt;br&gt;일본 사례를 들며 “최근에는 일본에서 매니페스토가 꽃피우고 있다. 2003년 지방선거에서 이를 기치로 내건 정치 신인들이 곳곳에서 절대 열세라던 판세를 뒤집으면서 주목을 받았다. 14명 중 7명이 현지사로 당선됐다” 등이라 적은 내용도 기존 기사와 모두 일치하는 문장이다.&lt;br&gt;&lt;br&gt;하지만 최 후보자는 논문에서 해당 기사 출처를 밝히지 않았다. 학계에서는 학술적인 내용의 논문을 작성하며 기사 글을 그대로 가져다가 출처도 밝히지 않은 건 연구 윤리 위반에 해당할 수 있다는 지적이 나온다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>무더위 속 남부 중심 소나기...토요일엔 수도권에 소나기</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/22/TNNIAKIK55CPFDCBBTVDO7MYBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/22/TNNIAKIK55CPFDCBBTVDO7MYBI/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 05:31:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QAJ2CXOKAHQ26NUDUY4XSQVLPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 오전 광주 북구청 교차로 횡단보도에서 북구 보건소 직원이 갑자기 쏟아지는 한 어르신과 함께 우산을 쓰고 횡단보도를 건너고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 전국 대부분 지역에 폭염특보가 발효된 가운데, 오후에는 남부 지방을 중심으로 소나기가 내리겠다.&lt;br&gt;&lt;br&gt;이날 기상청에 따르면, 당분간 전국 대부분 지역에서 최고 체감 온도가 35도 안팎으로 올라 매우 무더울 전망이다. 이날 낮 최고 기온은 30~37도로 예보됐다.&lt;br&gt;&lt;br&gt;이날 오후부터 저녁 사이 전라 동부와 경북 남부, 울산·경남 내륙, 제주도에는 소나기가 내릴 것으로 보인다. 소나기에 의한 예상 강수량은 호남권 5~40㎜, 영남권 5~60㎜, 제주도 5~20㎜ 등이다.&lt;br&gt;&lt;br&gt;토요일인 23일에는 오전부터 저녁 사이 서울·인천·경기 북부와 강원 중·북부 내륙·산지, 제주도에 소나기가 내릴 것으로 예보됐다. 예상 강수량은 수도권과 강원도 5~40㎜, 제주도 5~20㎜ 등이다.&lt;br&gt;&lt;br&gt;일요일인 24일에도 오전부터 저녁 사이 경기 동부와 강원 내륙·산지, 충북, 경상 지역에 5~40㎜가량의 소나기가 내리겠다. &lt;br&gt;&lt;br&gt;기상청은 “소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다”며 “같은 시군구 내에서도 강수량 차이가 매우 클 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선물 받는 공무원 사진 찍어 협박, 수의계약으로 공사 따낸 인터넷 매체 기자… 징역형 </title>
-      <link>https://www.chosun.com/national/regional/2025/08/22/MIHCD6NCORGYXM3OLC3VLXBSUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/MIHCD6NCORGYXM3OLC3VLXBSUM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 05:42:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3GBCZJKXFMCSCWXLYGHL2RPUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원이 건설업자에게 소고기 선물 받는 모습을 찍은 뒤 협박해 수의계약으로 관급공사를 따낸 30대 인터넷 매체 기자에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사1단독 박성인 부장판사는 공갈, 공갈미수 등의 혐의로 재판에 넘겨진 A씨에게 징역 1년 6개월을 선고했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 1월 19일 경북 칠곡군 한 면장이 지역 내 건설업체 대표에게 소고기 선물 받는 장면을 찍었다. 이후 면사무소를 찾아가 “면장이 뇌물 받는 사진을 찍었다. 수의계약을 달라. 그렇지 않으면 이 사실을 보도하겠다”며 협박해 같은 해 3월과 6월 두 차례에 걸쳐 총 2700여 만원가량의 하천 정비 사업을 수의계약으로 따낸 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;또 가림막 설치나 비산 먼지 발생 신고 없이 굴착 작업을 하던 농민, 폐기물 싣고 나가던 덤프트럭 기사 등의 법 위반 사실을 보도하겠다고 협박해 총 3800여만원의 금품을 갈취한 것으로 조사됐다. 이어 같은 해 8월엔 또 다른 공무원들을 협박해 수의계약으로 사업 관련 예산을 받아 내려했지만, 공무원이 응하지 않아 미수에 그치기도 했다. &lt;br&gt;&lt;br&gt;한편 소고기를 받은 해당 면장은 공무원 품위 손상 등으로 주의 처분을 받았다. 김영란법 위반 등으로 경찰 조사를 받았지만, 선물한 건설업체 대표가 면장의 학교 후배이고, 설 명절을 앞두고 받은 10만원 이하의 축산물인 점, 그리고 1시간가량 후에 돌려줬다는 이유로 무혐의 처분을 받았다고 칠곡군은 설명했다. 칠곡군 관계자는“경찰 조사에서는 무혐의 처분을 받았지만, 공무원 품위를 손상했다고 판단해 인사 조치 한 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 계엄 전 노상원과 자주 통화한 ‘제3자’...前 육참총장 비서실장 A씨는 누구</title>
       <link>https://www.chosun.com/national/court_law/2025/08/22/Y22NKTUTDND4XDI3Q6KAGZ42IA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/Y22NKTUTDND4XDI3Q6KAGZ42IA/</guid>
@@ -841,18 +859,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 05:04:41 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 스토킹 살인미수 피의자 33살 장형준 신상공개 </title>
-      <link>https://www.chosun.com/national/2025/08/22/KA7OPC6FQFHYRBYJJWGAAEWQO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/22/KA7OPC6FQFHYRBYJJWGAAEWQO4/</guid>
-      <dc:creator>울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 04:48:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXCTXVXMPYSTQRWZKZ5FGVZM24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헤어진 전 연인을 흉기로 찔러 살해하려한 살인미수 혐의 피의자 장형준(33). /울산지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 울산에서 스토킹하던 20대 여성을 흉기로 찔러 살해하려 한 장형준(33)의 신상을 22일 공개했다. &lt;br&gt;&lt;br&gt;울산지검은 이날 살인미수 혐의로 장씨를 구속 기소하면서 장씨의 이름과 나이, 얼굴을 공개했다. 살인미수 혐의를 받는 피의자의 신상이 공개되기는 이번이 처음이다. &lt;br&gt;&lt;br&gt;장씨의 신상은 울산지검 홈페이지를 통해 30일간 공개된다. &lt;br&gt;&lt;br&gt;장씨는 지난달 28일 오후 3시 38분쯤 울산 북구의 한 병원 지상 주차장에서 자신이 스토킹하던 20대 여성 A씨를 기다렸다가 미리 준비한 흉기로 수십 회 찌른 혐의를 받는다. &lt;br&gt;&lt;br&gt;장씨는 앞서 스토킹 신고로 접근 금지 등의 잠정 조치를 받고 있었지만, A씨 직장을 찾아가 범행했다. A씨는 경찰에 바로 연락할 수 있는 스마트워치를 갖고 있었지만, 스마트워치를 누를 겨를도 없었다. &lt;br&gt;&lt;br&gt;장씨는 범행 직후 차를 몰아 도주하려고 했지만, 주변에 있던 시민들이 저지하면서 경찰에 붙잡혔다. 장씨는 지난달 30일 도주 우려가 있다며 구속됐다.&lt;br&gt;&lt;br&gt;경찰로부터 사건을 넘겨받은 검찰은 장씨의 범행이 ‘특정중대범죄 피의자 등 신상정보 공개에 관한 법률’에서 규정하는 신상정보 공개 요건에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;이 법에 따르면 ‘범행 수단이 잔인하고, 중대한 피해가 발생한 경우’ ‘피의자가 그 죄를 범했다고 믿을 만한 충분한 증거가 있을 경우’ ‘국민의 알 권리 보장 및 피의자의 재범 방지 및 범죄 예방 등 공공의 이익을 위해 필요한 경우’에 신상공개 대상이 된다. 미성년자의 경우는 공개하지 않는다. 심의회 심의를 거쳐 공개를 결정하면 얼굴과 성명, 나이 등의 신상을 공개할 수 있다.&lt;br&gt;&lt;br&gt;살인미수 혐의 피의자의 신상이 공개되기는 이번이 처음으로 전해졌다. 지난 2015년 10월 발생한 부산 서면 사격장 총기 탈취 사건 피의자가 강도살인미수 및 강도예비 혐의 등으로 공개된 사례는 있었지만, 살인미수 혐의로만 공개된 사례는 이제껏 없었다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “병원비·생계비·주거 이전비 등 피해자를 위한 경제적 지원, 중상해 구조금 지원, 피해자와 가족에 대한 심리 치료 지원 등 실효적인 피해 회복이 이뤄질 수 있도록 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6LOLQUITU5AXHEIYJDRUABA3KA.JPG?auth=b5de04c79affb90420fcf3bfe5274ba240d6483e841bd79c68232ddec5afeef5&amp;smart=true&amp;width=241&amp;height=181" type="image/jpeg" height="181" width="241">
-        <media:description type="plain">살인미수 혐의를 받는 장형준의 신상정보가 22일 공개됐다.(울산지검홈페이지 갈무리. 재판매 및 DB 금지)</media:description>
-      </media:content>
     </item>
     <item>
       <title>부산 영도 앞바다서 3m 길이 상어 사체 발견</title>
@@ -889,15 +895,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 03:01:00 +0000</pubDate>
       <content:encoded>대법원이 당내 경선 과정에서 허용되지 않는 방식으로 지지를 호소한 국민의힘 예비 후보에게 벌금형을 확정했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZJTUSFHBSEANTERAIUJQ3WJ3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 공직선거법 위반 혐의로 기소된 변호사 김모씨에게 벌금 50만원을 선고한 원심을 확정했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;김 변호사는 지난해 제22대 국회의원 선거 포천·가평 지역구에서 국민의힘 예비후보로 등록했다. 해당 경선은 당원과 일반 시민을 대상으로 한 여론조사 방식으로 치러졌는데, 김 변호사는 여론조사를 이틀 앞둔 지난해 3월 10일 지역 5일장에서 ‘경선 여론조사 02 전화받고 김00 선택!’이라는 문구가 적힌 표지판을 들고 인사한 혐의로 기소됐다. 공직선거법은 당내 경선에서 명함 배부, 홍보물 발송, 토론회를 제외한 선거운동을 금지하고 있다.&lt;br&gt;&lt;br&gt;1심은 김 변호사에게 벌금 50만원을 선고했다. 김 변호사는 지지를 호소하는 내용의 표지판을 들고 선거 운동하는 것이 위법인지 몰랐다고 주장했지만, 법원은 받아들이지 않았다. 1심은 “표지판을 들고 경선 운동을 하는 것이 적법하다고 잘못 인식했다고 하더라도 그 인식에 정당한 이유가 없다”면서 “변호사로서의 지적 능력을 다해 이를 회피하려는 진지한 노력을 다하지 않았다”고 지적했다.&lt;br&gt;&lt;br&gt;2심도 같은 판단을 내렸고, 대법원 역시 “원심이 법리를 오해했거나 자유심증주의 한계를 벗어난 잘못이 없다”며 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]살인 5건 중 1건, 가정·교제폭력 징후 있었다…최근 3년간 372건 ‘예고된 범죄’</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/2QQLP2S2JRCDTABSJBBYQ7KFLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/2QQLP2S2JRCDTABSJBBYQ7KFLA/</guid>
-      <dc:creator>구아모 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 02:45:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XDWFHWZFUBPYG6ZWTQSQUJTBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 달서구의 한 아파트에 침입해 스토킹하던 50대 여성을 흉기로 살해하고 도주한 혐의를 받는 피의자 윤정우(48)가 지난 6월 16일 오후 대구지방법원 서부지원에 출석해 구속 전 피의자 심문(영장실질심사)을 마친 뒤 법원을 떠나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 3년간 발생한 살인 사건 다섯 건 중 한 건은 가정폭력·교제폭력·스토킹 등 친밀관계 범죄가 선행된 것으로 드러났다. 사전에 위험 신호가 있었음에도 제때 차단하지 못해 살인으로 이어진 ‘예고된 범죄’라는 지적이 나온다.&lt;br&gt;&lt;br&gt;국민의힘 여성가족위원회 조은희 의원이 경찰청에서 제출받은 자료에 따르면 2023년부터 올해 7월까지 발생한 살인·살인 미수 사건 1920건 중 372건(19.4%)이 가정폭력, 교제폭력, 스토킹 같은 관계성 범죄가 원인이었다. 단순 환산하면 매달 12명이 폭력 징후가 있었음에도 살인(미수) 피해자가 된 셈이다.&lt;br&gt;&lt;br&gt;세부적으로는 가정폭력이 136건(60.4%)으로 가장 많았고, 교제폭력 62건(27.6%), 스토킹 22건(9.8%)이 뒤를 이었다. 성폭력(4건), 성매매(1건)가 원인으로 드러난 사례도 있었다. 피해자의 73.5%가 여성으로, 친밀 관계 범죄가 결국 여성 살인 피해로 이어지는 비율이 높았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZBPY5XQ7DROD5OC3EGTAYVYK5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산의 한 병원 주차장에서 20대 여성에게 흉기를 휘둘러 살해를 시도한 혐의(살인미수)로 경찰에 체포된 30대 남성 A씨가 30일 오후 울산지방법원에서 열리는 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 호송차로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방치된 폭력 신호는 끝내 살인으로 이어졌다. 지난해 11월 구미에서 전 연인을 스토킹하던 남성이 살해 사건을 저지른 데 이어, 올해 들어서만 경기 동탄과 대구에서 연이어 스토킹 살인 사건이 발생했다. 두 사건 모두 가해자가 불구속 상태에서 수사를 받던 중 벌어져 제도적 허점을 드러냈다.&lt;br&gt;&lt;br&gt;지난 6월 대구에서는 신변 보호를 받던 50대 여성이 가스 배관을 타고 집에 침입한 40대 남성에게 살해당했다. 불구속 수사 중이던 가해자는 경찰 조사를 받는 와중에도 피해자 집 근처를 배회했던 것으로 알려졌다. 한 달 전 동탄에서도 30대 여성이 전 남성 지인에게 납치돼 살해당했는데, 이 역시 불구속 상태에서 벌어진 사건이었다.&lt;br&gt;&lt;br&gt;실제로 스토킹범 구속률은 해마다 떨어지고 있다. 경찰청에 따르면 검거된 스토킹범의 구속률은 2021년 7.0%에서 2022년 3.3%, 2023년 3.0%, 2024년 2.9%로 내려갔다. 경찰 관계자는 “도주 우려가 없다며 구속영장을 기각하지만, 그 사이 피해자가 살해당하는 일이 반복된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUS522XB4LMZVWRQ7JT3M5ZV6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 17일 인천 스토킹 살인사건 희생자의 유가족 및 여성의 당 관계자들이 서울 서초구 서울중앙지방법원에서 가해자의 항소심 선고 관련 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;스토킹 피해자들의 목소리는 절박하다. 서울에 거주하는 직장인 이모(31)씨는 헤어진 전 남자 친구의 스토킹으로 “일상이 무너졌다”고 했다. 전 남자 친구는 이별 다음 날부터 수백 통의 메시지와 전화를 쏟아냈고, 집 앞 복도에 서 있기도 했다. 이씨는 “가해자가 5시간이나 서 있다가 현행범으로 체포됐는데도 바로 풀려나 다시 연락이 왔다”며 “피의자의 자유가 피해자 안전보다 더 중요하게 취급된다”고 분통을 터뜨렸다.&lt;br&gt;&lt;br&gt;부산에 사는 채모(38)씨는 이혼한 전 남편으로부터 “섹시한 엉덩이가 생각난다”는 식의 성적 모욕 메시지를 하루 수십 통씩 받는다. 법원에서 협의 이혼 절차를 밟던 날, 남편을 마주할까 두려워 “급히 화장실을 간다”고 둘러대고 달아날 정도였다. 채씨는 “피해자들이 숨어 살지 않고 숨 쉬듯 살아갈 수 있는 세상이 언제 오느냐”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 스토킹과 교제 폭력이 단순한 사적 갈등이 아니라 사회 구조적 문제라는 점을 강조한다. 이웅혁 건국대 경찰학과 교수는 “스토킹을 개인 문제로 치부하는 인식이 피해를 키운다”며 “사건이 발생하고 나서야 법석을 떠는 일이 반복되지 않으려면 초기 단계에서 구속 수사 등 강력한 개입이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;조은희 의원은 “친밀한 관계에서 발생하는 범죄의 심각성이 확인됐다”며 “입법 공백 상태인 교제 폭력 처벌 법제화와 피해자 보호 장치 강화가 시급하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“험담해서”... 이웃 전동휠체어 불 지른 50대女 체포 </title>
