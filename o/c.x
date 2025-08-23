@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가수 린·이수 부부, 결혼 11년만 파경… “원만한 합의”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/D4E7WCTRSZDB7L43KB66EVKIEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/D4E7WCTRSZDB7L43KB66EVKIEY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 04:35:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27DIH4N5Y3PGIEDR2XQNQVBJFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 이수, 린. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 린과 엠씨더맥스 이수 부부가 결혼 11년 만에 이혼했다. &lt;br&gt;&lt;br&gt;23일 두 사람의 소속사 325이엔씨는 “린과 이수는 충분한 대화와 상호 존중을 바탕으로 각자의 길을 걷기로 합의해 최근 이혼 절차를 마무리하고 있다”며 “어느 한쪽의 귀책 사유로 인한 것이 아닌 원만한 합의 하에 이뤄진 결정”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “법적 관계는 정리됐으나, 각자의 위치에서 서로를 응원하는 음악적 동료로서의 관계는 지속될 예정”이라고 했다. &lt;br&gt;&lt;br&gt;린과 이수는 2013년 4월 공개 열애를 시작해 2014년 9월 결혼했다. 작년 듀엣곡 ‘눈물 나게 만들었잖아’를 발표하는 등 음악적으로도 교류해왔다.&lt;br&gt;&lt;br&gt;린은 2001년 가요계에 데뷔해 ‘사랑했잖아’를 비롯한 히트곡과 ‘시간을 거슬러’ 등 드라마 오리지널사운드트랙(OST)으로 인기를 누렸다.&lt;br&gt;&lt;br&gt;이수는 2000년 그룹 문차일드로 데뷔했으며 2002년 엠씨더맥스로 팀명을 바꾼 뒤 ‘잠시만 안녕’ ‘행복하지 말아요’ ‘어디에도’ 등의 히트곡을 남겼다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최전방 부대서 육군 하사 숨져… 발견 당시 의식불명 상태</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/6MWFPYCOUVEVBBYXULUBA64WXI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/6MWFPYCOUVEVBBYXULUBA64WXI/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 04:12:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHBGFZGMCENR7YQPAOZ7WMZN4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최전방 철책선에서 근무하는 병사들 모습. 기사와 무관한 사진./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 최전방 부대에서 의식 불명 상태로 발견된 육군 하사가 숨졌다.&lt;br&gt;&lt;br&gt;23일 군 당국 등에 따르면 이날 오전 7시 17분쯤 강원도 내 한 최전방 부대에서 육군 하사 A씨가 의식 불명 상태로 발견됐다. A씨는 군 헬기를 통해 수도병원으로 후송됐으나 이날 오전 9시 31분쯤 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;A씨 발견 직전 부대원들은 부대 내에서 총성을 들은 것으로 알려졌다. 군 당국은 민간 수사 기관과 함께 부대원들 진술 등을 토대로 다양한 가능성을 염두에 두고 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전자발찌 끊고 달아난 청주 40대 성범죄자, 부산서 검거</title>
       <link>https://www.chosun.com/national/court_law/2025/08/23/SBJHWAICHRBSPH4A6E3OGSESAE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/SBJHWAICHRBSPH4A6E3OGSESAE/</guid>
@@ -810,15 +828,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWCSZOKEG5LMHFPL66YJFOZY3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 4일 서울 송파구 서울동부지검에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 서울동부지검장이 윤석열 정부 때 불거진 ‘세관 마약 수사 외압 의혹’을 수사 중인 합동수사팀을 지휘하게 됐다.&lt;br&gt;&lt;br&gt;대검찰청은 21일 보도자료를 통해 “대검 마약·조직범죄부에서 수사 상황을 지휘해온 합동수사팀을 서울동부지검에서 직접 지휘하도록 소속을 변경했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 지난 6월 검찰과 경찰, 국세청, 금융정보분석원(FIU)과 함께 서울동부지검에 합동수사팀을 구성하고, 사안의 중대성·관할 등을 고려해 대검 마약조직범죄부가 직접 수사를 지휘해왔다. 그러나 이번 검찰 인사에 맞춰 사무실이 있는 동부지검에서 직접 지휘하도록 변경한 것이다. 대검은 “신속한 의사결정이 필요하고 수사 과정의 공정성을 보다 객관적으로 담보하고자 검찰 인사에 맞춰 소속을 변경했다”고 설명했다.&lt;br&gt;&lt;br&gt;합동수사팀은 2023년 1월 서울 영등포경찰서가 필로폰 밀수 범행을 수사하는 과정에서 인천세관 공무원들이 연루됐다는 진술을 확보하자 대통령실과 경찰 등이 사건 은폐를 위해 외압을 행사했다는 의혹을 수사 중이다. 당시 수사를 담당한 백해룡(경정) 전 영등포경찰서 형사과장은 2023년 10월 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 “관세청 관련 문구 삭제를 요청하는 전화를 받았다”고 폭로했다. 또 당시 영등포서장이 “이 사건을 용산에서 심각하게 보고 있다”며 브리핑 연기를 지시했다고 주장했다.&lt;br&gt;&lt;br&gt;합동수사팀을 이끌게 된 임은정 지검장은 그간 해당 의혹에 적극적으로 목소리를 내왔다. 지난달에는 백 경정을 초청해 직접 면담하고 사건 관련 내용을 청취하기도 했다.&lt;br&gt;&lt;br&gt;당시 검찰 내부망에는 “검사장이 왜 근무 시간에 업무 연관성이 없는 인사를 검찰청으로 불러 이야기를 듣느냐”는 비판글이 올라왔다. 이에 대해 임 지검장은 “불신을 풀고 수사가 진척되기를 바라는 마음으로 하는 일이니 오해하지 마시기 바란다”는 댓글을 달았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 티몬 회생절차 종결…‘티메프 사태’ 이후 첫 정상화</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/62ITJQTQEFDA5EWBTJHSRELJTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/62ITJQTQEFDA5EWBTJHSRELJTM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:38:14 +0000</pubDate>
-      <content:encoded>‘티메프 사태’의 티몬이 22일 기업 회생 절차를 졸업했다. 지난해 7월 29일 법원에 회생 절차 개시를 신청한 지 1년 1개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HB6T55VLQTHVDPOJAJDEOEIV4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 7월 서울 강남구 티몬 사옥에서 '판매 대금 미정산 사태'로 피해를 입은 소비자들이 환불 현장 접수를 위해 기다리고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 이날 “티몬에 대한 회생 절차 종결 결정을 내렸다”고 밝혔다. 법원에 따르면 티몬은 인가된 회생 계획에 따라 회생담보권 전부와 채권의 96.5%를 변제했다. 계좌 불일치 등으로 아직 변제하지 못한 채권은 별도 계좌에 예치해 관리하면서 지급할 예정이다.&lt;br&gt;&lt;br&gt;회생 절차 종결은 채무 변제와 구조조정 계획이 정상적으로 이행됐음을 뜻한다. 회생 기간 동안 법원의 관리 아래 제한적이었던 티몬의 경영 활동이 정상화되면서 자유로운 영업 활동이 가능해졌다.&lt;br&gt;&lt;br&gt;티몬과 위메프는 대규모 정산 지연 사태로 논란이 되면서 지난해 7월 29일 법원에 회생 개시를 신청했다. 법원은 자율 구조조정(ARS) 프로그램을 거쳐 같은 해 9월 10일 회생 개시를 결정했다.&lt;br&gt;&lt;br&gt;이후 지난 4월 법원은 신선식품 새벽 배송 전문 기업인 ‘오아시스마켓(오아시스)’을 티몬의 인수 예정자로 허가했다. 다만 지난 6월 20일 열린 관계인 집회에서 중소상공인·소비자 등 과반이 회생 계획안에 반대해 부결됐다. &lt;br&gt;&lt;br&gt;그러나 법원은 같은 달 23일 “회생계획안의 이행 가능성이 높고 이해관계인들의 이익에도 부합한다”며 강제인가를 결정하면서, 오아시스가 티몬의 새 주인으로 확정됐다. 강제인가는 기업의 회생계획안이 채권자 집회에서 부결되더라도 법원이 직권으로 승인할 수 있는 제도다. &lt;br&gt;&lt;br&gt;이번 회생 절차 종결로 티몬은 새 주인이 된 오아시스를 중심으로 본격적인 사업 재개에 나설 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제기동 다세대주택 방화 피의자 구속 송치…사망자 1명 늘어</title>
       <link>https://www.chosun.com/national/national_general/2025/08/22/2MPEPWNQ6VD45HUGQCYMOFTNTE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/2MPEPWNQ6VD45HUGQCYMOFTNTE/</guid>
@@ -952,21 +961,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 22:28:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYQ2IJTIEBQVUUPVXMNALY6R3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송진호 전 무소속 대선 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21대 대선에 기호 8번으로 무소속 출마하며 17건의 전과 기록 사실이 알려져 논란이 됐던 송진호씨가 사기 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;서울중앙지법은 지난 20일 송씨에 대해 “도주 및 증거 인멸 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;송씨는 2020년부터 캄보디아에 이른바 ‘미라클 시티’(기적의 도시)를 건설하겠다며 투자자들을 속여 수억 원을 가로챈 혐의를 받는다. 송씨는 미라클 시티가 산업단지와 복합 테마파크 등을 건설해 그곳에서 가상 화폐를 상용화하는 스마트 시티 개념이라고 주장했다. 또 ‘미라클 코인’을 상장하면 200배의 수익을 챙길 수 있다며 투자자들을 모집했지만, 5년이 지나도록 상장되지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이 과정에서 투자금 편취 등 송씨의 사기 정황을 포착하고 수사를 벌여온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편 송씨는 지난 6‧3 대선에 출마했을 당시 역대 대선 후보 중 최대 전과를 보유한 사실이 알려져 논란이 됐다. 선거관리위원회의 후보자 정보공개에 따르면 송씨는 사기와 폭력‧상해, 재물손괴, 근로기준법 위반, 부정수표단속법 위반 등의 혐의로 17차례 처벌받았다. 이 중 징역형을 선고받은 것은 8차례였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>곧 9월인데 더 심해지는 폭염... 주말까지 체감 35도 무더위</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/21/L7J4RADZYRCBPPMVKZD4U6VISU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/21/L7J4RADZYRCBPPMVKZD4U6VISU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 11:59:57 +0000</pubDate>
-      <content:encoded>‘여름의 끝’이 9월까지 연장될 것으로 보인다. 이번 주말은 계절을 역행하듯 더위가 오히려 심해질 것으로 전망됐다.&lt;br&gt;&lt;br&gt;21일 기상청에 따르면, 티베트고기압이 우리나라 상공을 덮은 가운데 북태평양고기압 가장자리를 타고 뜨겁고 축축한 공기가 불어오면서 주말까지 폭염이 심해질 것으로 예상됐다. 특히 남부 지방은 제주 남쪽 해상에서 일본 규슈 쪽으로 이동하는 열대 저압부(태풍 전 단계의 뜨거운 공기 덩어리)의 영향으로 고온 다습한 공기가 더 들어오면서 폭염경보(최고 체감 기온 35도 이상)급 더위가 이어지겠다. 22일 아침 최저기온은 23~27도, 낮 최고기온은 30~36도로 예보됐다.&lt;br&gt;&lt;br&gt;우리나라 상공에 ‘공기 이불’이 덮인 상황에서, 난로를 켜놓은 듯 뜨거운 바람이 종일 들어오고 있다. 이에 서울을 비롯한 중부지방에 폭염주의보가, 남부 지방은 폭염경보가 발령돼있다. &lt;br&gt;&lt;br&gt;열대야도 심해지고 있다. 서울은 20일 밤부터 21일 아침까지 최저기온이 27.4도를 기록, 엿새째 열대야가 발생했다. 서울은 22일 아침 최저기온이 26도, 최저 체감 기온은 이보다 3도가량 높은 29도에 달할 것으로 예보됐다. 축축한 공기가 들어오면서 습도를 높여 실제 기온보다 피부로 느끼는 더위가 더 심한 것이다. 통상 상대습도 55%를 기준으로 10%포인트가 올라갈 때마다 체감 기온은 1도씩 올라가는데, 22일 새벽에는 습도가 최고 90%에 달할 것으로 예상됐다.&lt;br&gt;&lt;br&gt;22일 대기 불안정으로 곳곳에 소나기가 내리겠으나, 더위를 식혀줄 정도는 아닐 것으로 보인다. 22일 호남·영남권에 5~40㎜의 소나기가 예보됐다. 남부 지방은 낮 동안 대기 하층 공기가 달궈져 상하층 기온 차가 커지면서 대기가 불안정해지고, 이에 소나기 구름대가 발달하겠다. &lt;br&gt;&lt;br&gt;주말에도 곳곳에 소나기 소식이 있다. 23일에는 경기 북부와 강원도에 5~40㎜의 소나기가 예고됐다. 중부지방은 대기 상층에서 하강하는 건조 공기와 중국 내륙에서 유입된 하층의 고온 다습한 공기와 충돌해 대기가 불안정해질 것으로 보인다. 일요일인 24일에는 경기 동부와 강원·충북·경상권에 소나기가 내리겠다. 내주 화요일인 26일에는 기압골의 영향으로 중부지방에 비가 예보됐으나, 비구름대가 강원 영동까진 향하지 못하고 태백산맥 서쪽 지역에만 비를 뿌릴 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/XBEN3RIGSFDH5CZZHRY5MRE4AA.JPG?auth=c19d34bd4db7a5ae023b230cd0211115a7e67be390a82482cb01462f0d0d44a9&amp;smart=true&amp;width=4852&amp;height=2729" type="image/jpeg" height="2729" width="4852">
-        <media:description type="plain">(서울=뉴스1) 박지혜 기자 = 절기상 ‘처서’가 이틀 앞으로 다가왔지만 여전히 찜통 더위가 이어진 21일 오후 서울 광화문네거리에서 시민들이 횡단보도 앞 그늘막 아래 모여 신호를 기다리고 있다. 
-
-폭염특보가 해소되기는커녕 폭염경보로 격상되는 지역들이 늘면서, 당분간 무더위는 지속될 전망이다. 2025.8.21/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박지혜 기자</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
