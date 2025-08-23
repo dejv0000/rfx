@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘하트시그널4’ 유이수, 학폭·유흥업소 근무 부인 “유포자 고소”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/24/UETVGL2W5FEMDGSD22VUWP5BG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/UETVGL2W5FEMDGSD22VUWP5BG4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 21:54:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWQTQ4WESNGB3DWLPYXY3A5SNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유이수. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예능프로그램 ‘하트시그널4’ 출연자 유이수가 학교폭력 가해자, 유흥업소 근무 루머로 고통을 받고 있다며 법적 대응을 예고했다.&lt;br&gt;&lt;br&gt;유이수는 23일 자신의 소셜미디어를 통해 “최근 온라인상에서 전혀 사실이 아닌 내용들이 무분별하게 퍼지면서, 많은 분들께 혼란과 불편을 드리게 되어 오랜 고민 끝에 조심스럽게 입장을 전하게 됐다”며 “이제는 저뿐 아니라 제 가족과 소중한 사람들까지 상처를 받는 상황”이라고 했다. &lt;br&gt;&lt;br&gt;유이수는 “‘학교폭력 가해자’ ‘과거 유흥업소 근무’라는 말도 안 되는 주장들은 사실이 아님을 명백히 말씀드린다”며 “이러한 주장은 어떠한 증거도 없이 감정적 호소와 왜곡된 기억을 바탕으로 확산되었고 이로 인해 비난의 시선과 따가운 눈초리를 견뎌내야 했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “특정 (소셜미디어) 계정을 통해 제가 과거 유흥업소 근무를 했다는 허위 사실을 유포하고, 금전을 요구하는 협박까지 있었던 점은 더 이상 묵과할 수 없는 수준”이라며 “진실이 아니어도 의심만으로 얼마나 쉽게 사람이 무너질 수 있는지를 온몸으로 겪었다”고 했다. &lt;br&gt;&lt;br&gt;유이수는 “저는 이 사안을 바로잡기 위해 법무법인과 함께 형사 고소를 정식으로 진행 중”이라며 “앞으로도 모든 허위 사실 유포와 협박, 2차 유포 행위에 대해서 끝까지 책임을 묻고 단호히 대응할 것”이라고 했다. &lt;br&gt;&lt;br&gt;한편 유이수는 지난 2023년 방영된 채널A 예능프로그램 ‘하트시그널4’ 출연자다. 당시 방송에서 신민규와 최종 커플로 맺어졌으나 지난 1월 결별했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한 문제만 틀려도 아이들 운다... 피 말리는 내신 탓에 ‘脫대치동’</title>
       <link>https://www.chosun.com/national/2025/08/24/EOCTYBXZBFDYPCDZP7A3VWEJIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/08/24/EOCTYBXZBFDYPCDZP7A3VWEJIE/</guid>
@@ -817,15 +826,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/EEDMJNDY7VG4FDBCEJSQT3NU5U.jpg?auth=3f1dcba3072e7134203c8eaea3a65751c020a0c7489a193c9cb9220299dd2dbb&amp;smart=true&amp;width=631&amp;height=355" type="image/jpeg" height="355" width="631">
         <media:description type="plain">한라산국립공원 관계자들이 백록담 주변 나무테크 교체 과정에서 나온 쓰레기를 수거하고 있다./한라산국립공원관리소</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>특검, ‘김건희母 측근' 김충식 압수 수색... ‘공흥지구 개발 특혜 의혹’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/GMP3CACETFHYVE4T5RVMUFWE4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/GMP3CACETFHYVE4T5RVMUFWE4Y/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 06:05:03 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀은 22일 김 여사의 어머니 최은순씨와 장기간 교류한 것으로 알려진 사업가 김충식씨의 주거지와 개인 창고 등을 압수 수색했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HID4S3BUCITM3OPEIEFNNM37I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 어머니 최은순씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이른바 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 김씨를 피의자로 입건해 수사 중이라고 밝혔다. 정확한 혐의명을 밝히지는 않았다.&lt;br&gt;&lt;br&gt;이 의혹은 김 여사 일가가 2013년 당시 양평군수였던 김선교 의원으로부터 공흥지구 개발 사업 관련 인허가 특혜, 사업 지연 소급 승인 특혜, 개발부담금 면제 특혜 등을 받아 100억원 이상의 재산상 이득을 취했다는 게 핵심이다.&lt;br&gt;&lt;br&gt;김 여사 일가 회사인 ESI&amp;amp;D는 2011~2016년 양평군 공흥리 일대 부지 2만2411㎡에 도시개발사업을 진행해 350세대 규모의 아파트를 건설했다. 그런데 2021년 윤석열 전 대통령이 대선에 출마한 이후 이 사업을 두고 여러 특혜가 있었다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;양평군은 원래 이 사업에 대해 ESI&amp;amp;D에 2012년 11월부터 2014년 11월까지 2년간 사업 기한을 인가했다. ESI&amp;amp;D는 기한이 지나고도 별도 연장 신청 없이 미인가 상태로 사업을 진행했다가 양평군이 뒤늦게 사업 기간을 연장해주며 특혜를 받았다는 것이다. 또, ESI&amp;amp;D는 이 사업으로 798억원의 분양 실적을 거뒀지만, 토지 개발 과정에서 발생하는 땅값의 차익을 환수하는 제도인 개발부담금을 내지 않았다. &lt;br&gt;&lt;br&gt;양평군은 2016년 7월 공흥지구 공사가 끝난 뒤에 17억여원의 개발부담금을 이 업체에 부과했는데, 김 여사 오빠 김씨가 토사 운반 관련 서류를 꾸며 양평군에 제출하는 방식으로 개발비를 부풀려 결국 양평군이 개발부담금을 0원으로 줄였다. 이에 김 여사 일가와 양평군이 유착해 이 같은 편의를 봐준 것이 아니냐는 의혹이 제기된 상태다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난달 25일 최씨와 오빠 김진우씨, 김 의원의 주거지와 사무실 등을 압수 수색한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>특검, ‘김건희 계좌 관리’ 이종호 구속 기소</title>
