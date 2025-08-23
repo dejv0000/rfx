@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전자발찌 끊고 달아난 청주 40대 성범죄자, 부산서 검거</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/23/SBJHWAICHRBSPH4A6E3OGSESAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/SBJHWAICHRBSPH4A6E3OGSESAE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 03:09:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TI4J23YSI5PS5POHTWSSM7AHXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위치추적 전자장치(전자발찌)를 훼손하고 달아났다가 검거된 40대 성범죄자. /청주보호관찰소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위치추적 전자장치(전자발찌)를 끊고 달아났던 40대 성범죄자가 도주 17시간 만에 부산에서 붙잡혔다.&lt;br&gt;&lt;br&gt;법무부는 충북 청주시 남이면 척북리에서 전자발찌를 끊고 도주한 A(46)씨를 23일 오전 11시 33분쯤 부산시 금정구 구서동에서 검거했다고 밝혔다. 법무부 보호관찰을 받던 A씨는 앞서 전날 오후 6시 41분쯤 충북 청주시 남이면 척북리에서 전자발찌를 끊고 도주했다. &lt;br&gt;&lt;br&gt;법무부와 청주보호관찰소는 이날 A씨를 공개수배한 끝에 검거했다. 법무부는 “경찰과 공조해 검거했으며 절차에 따라 수사 후 검찰에 송치할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 노란봉투법 연일 비판…“기득권만 보호하는 청년희생법”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/WCGU46N6KFAZTNEGJR43YWZRZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/WCGU46N6KFAZTNEGJR43YWZRZ4/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 02:09:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I4VEZQMN7PDMMSYS6Q3X2STK5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 23일 국회 본회의에 노란봉투법(노동조합법 2·3조 개정안)이 상정된 것과 관련해 “청년의 미래를 도둑질하는 경제 악법을 즉각 철회하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 페이스북에 ‘청년 희생법, 민노총 보답법’이라는 제목의 글에서 “20대 청년 중 일도 구직도 하지 않는 ‘쉬는 청년’이 42만명으로 역대 최고”라며 “청년들은 우리 사회에 묻고 있다. 도대체 우리의 기회는 어디에 있느냐고”라고 썼다. 그러면서 “이런 청년들의 절규는 외면한 채 정부 여당은 노란봉투법 통과를 예고했다. 철저히 민주노총 기득권에만 영합하는 정치”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “우리나라 시스템은 이미 경직돼 있다”며 “일단 고용하면 해고가 어려우니 기업들은 비정규직과 하청·하도급으로 위험을 회피한다”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 “변화하는 경제 상황, 기술 발전 수준에 유연하게 대응하기 위해 정규직은 일부만 채용하고 나머지 분량을 비정규직과 하청으로 대체하는 것이 기업 입장에서는 ‘합리적인 회피책’이 되는 것”이라며 “결국 이미 기득권에 진입한 사람들만 보호받고, 새로 취업하려는 청년은 바늘구멍과 같은 취업 전쟁을 통과해야 한다”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 “노란봉투법이 통과된다면 이제는 하청 문제를 넘어 기업들이 아예 대한민국을 떠나고, 외국 기업은 들어오지도 않는 나라가 될 것”이라며 “원천적으로 일자리의 씨가 마를 수 있다”고 했다. 그러면서 “이대로라면 ‘쉬는 청년’이 42만명이 아니라 100만명이 될 수도 있다. 청년의 미래를 도둑질하는 경제 악법을 즉각 철회하기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 지난 21일 서울시청에서 노벨경제학상 수상자 제임스 로빈슨 미 시카고대 공공정책대학원 교수와 ‘지속 가능한 번영을 위한 길’을 주제로 한 대담에서도 노란봉투법을 언급하며 “핵심 내용은 불법적 쟁의 행위를 해도 손해배상청구 소송을 할 수 없는 것인데, 선진적인 것으로 포장해 밀어붙이지만 사실은 미래 세대 희망이 사라지게 되는 것”이라고 비판했다.&lt;br&gt;&lt;br&gt;고용노동부가 다음 날 “불법 파업을 용인하거나 책임을 면제해주는 법이 아니다”라고 반박하자, 오 시장 측은 “기득권 노조의 일방적인 주장을 앵무새처럼 되풀이하며 국민을 기만하고 있다”고 재반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전자발찌 끊고 도주...청주 40대 성범죄자 공개 수배</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/23/4CMKKMVJOFFFFKVXNBPLJB3IEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/4CMKKMVJOFFFFKVXNBPLJB3IEI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 02:41:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TI4J23YSI5PS5POHTWSSM7AHXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 보호관찰을 받던 40대 성범죄자가 위치추적 전자장치(전자발찌)를 훼손하고 달아나 당국이 공개수배에 나섰다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 40대 성범죄자가 위치추적 전자장치(전자발찌)를 끊고 달아나 공개 수배됐다.&lt;br&gt;&lt;br&gt;법무부와 청주보호관찰소에 따르면 보호관찰을 받던 A(46)씨는 전날 오후 6시 41분쯤 충북 청주시 남이면 척북리에서 전자발찌를 끊고 도주했다. 이후 진주·김해·부산으로 이동한 것으로 확인됐으나 현재는 소재 파악이 되지 않고 있다.&lt;br&gt;&lt;br&gt;A씨는 도주 후 어두운 색 상·하의와 캡 모자를 착용한 것으로 확인됐다. 고양이 캐릭터 그림이 그려진 커다란 비닐 쇼핑백을 갖고 있다. 키 180㎝에 몸무게 70㎏가량으로 마른 체형이며 앞머리가 짧고 짙은 쌍커풀이 특징이다.&lt;br&gt;&lt;br&gt;청주보호관찰소는 A씨를 공개수배하고 제보(043-290-8954)를 받고 있다. 경찰 신고도 가능하다. 보호관찰소는 “조속히 검거될 수 있도록 신고·제보에 적극 협조를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 올레시장서 열린 도박판… 각목 들고 나타난 문신 남성, 무슨 일</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/4JVTIK4YSRBQVINJALJWYY7CWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/4JVTIK4YSRBQVINJALJWYY7CWU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 02:08:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMJITA5E5ZGDDDOC2CCX5WL5LU.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 상의를 탈의한 채 각목으로 다른 남성을 위협하고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 서귀포 매일올레시장에서 윷놀이 도박판을 벌인 일당이 검거된 가운데, 경찰이 당시 상황이 담긴 영상을 공개했다. &lt;br&gt;&lt;br&gt;경찰청은 22일 공식 유튜브 채널에 ‘도박판 현장 기습’이라는 제목의 영상을 공개했다. 여기에는 경찰이 지난 6월 17일 제주 서귀포 매일올레시장 내 공원에서 도박을 벌이던 일당을 검거하던 당시 모습이 담겼다. &lt;br&gt;&lt;br&gt;이를 보면, 이들은 대낮부터 공원에서 도박을 이어갔다. 윷을 던지는 남성들 가운데 윷놀이판 말을 옮겨주는 남성이 앉아 있고, 그 주변으로 구경꾼들이 둘러싸여 있다. 이들은 게임 승패에 따라 현금을 주고받았다. &lt;br&gt;&lt;br&gt;몸싸움이 벌어지기도 했다. 돈을 잃고 시작된 다툼이 폭력으로 이어진 것이다. 이들은 서로 멱살을 잡고는 치고받았다. 싸움을 하던 한 남성은 갑자기 자리를 비우더니, 상하의를 탈의한 채 각목을 들고 등장해 사람들을 위협했다. 팔다리에 문신이 가득한 모습의 이 남성은 실제로 다른 남성의 머리를 내려찍기까지 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCVNJDZU2NEJ7FTXBP64SYHQAI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;도박하던 남성이 각목을 들고 등장해 사람들을 위협하고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 증거 확보를 위해 현장에서 도박 장면을 촬영하며 대기하고 있던 경찰들은 즉각 체포에 나섰다. 이 과정에서 일부 용의자들이 저항하는 장면이 포착됐다. &lt;br&gt;&lt;br&gt;서귀포경찰서에 따르면, 경찰은 이날 도박 혐의 등으로 A(70)씨 등 7명을, 특수폭행 혐의로 B(60)씨 등 2명을 붙잡았다. 이들은 체포 당시 358만원의 판돈을 놓고 도박하고 있었던 것으로 알려졌다. B씨 등 2명은 지난 8일 같은 공간에서 윷놀이 도박 중 훈수를 뒀다는 이유로 C씨를 흉기로 위협하고 폭행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 A씨 등 7명을 불구속 입건하고, B씨 등 2명을 구속해 수사했다. 경찰 관계자는 “최근 1년간 매일올레시장 공원에서 도박한다는 112 신고가 100여 건 접수됐다”며 “시청과 자치경찰 등 관계기관과 협업해 환경 개선 사업을 추진하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LCVNJDZU2NEJ7FTXBP64SYHQAI.gif?auth=4f656d34102fb1d4f1a27beeedd5ae596d94947f9a879d4bbe61f2b007c1a08b&amp;smart=true&amp;width=737&amp;height=447" type="image/jpeg" height="447" width="737">
+        <media:description type="plain">도박하던 남성이 각목을 들고 등장해 사람들을 위협하고 있다. /경찰청 유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘핼러윈·제주항공 참사’ 투입 소방대원 전원 심리상담 나선다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/23/YZUO45A7OJE3VLZSGDVM4ZKJ4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/YZUO45A7OJE3VLZSGDVM4ZKJ4Q/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 01:44:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SW4PYEXSOR2ENF2P24SIQQYH3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 31일 서울 용산구 이태원 해밀톤호텔 옆 이태원 참사 골목에서 시민들이 지나가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이태원 핼러윈 참사와 무안 제주항공 참사 현장에 투입된 소방공무원 3353명 전원에게 심리 상담을 지원하기로 했다고 소방청이 23일 밝혔다. 참사 현장을 지원했던 소방대원들이 외상 후 스트레스 장애(PTSD)로 최근 잇따라 극단적 선택을 하자 내린 조치다.&lt;br&gt;&lt;br&gt;2022년 10월 29일 있었던 이태원 핼러윈 참사에 동원된 소방대원은 1316명, 무안 제주항공 참사에 투입됐던 인원은 2037명이다. 이들은 참사현장 투입 이후 1년간 집중적인 심리상담과 치료 지원 등을 받았지만, 체계적이고 지속적인 회복 지원 프로그램은 제공되지 않았다.&lt;br&gt;&lt;br&gt;그러나 참사 현장에 투입됐던 소방 공무원들이 최근 트라우마에 시달리다 생을 마감하는 경우가 이어지자 소방대원 전원을 대상으로 후속 심리지원에 나서기로 한 것이다. 핼러윈 참사 당시 용산소방서 소속으로 현장에 출동했던 40대 소방관 A씨가 지난달 29일 자택에서 숨진 채 발견됐고, 함께 출동한 또 다른 구급대원 B(30)씨도 실종 10일 만인 지난 20일 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;소방청 관계자는 “상담 지원을 희망하는 분들이 있으나 다시 악몽 같은 일을 떠올리고 싶어 하지 않는 분들도 있는 만큼 어떤 방식으로, 어떻게 추가 상담을 진행할지는 전문가와 논의를 거쳐 신중하게 접근할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;소방청이 지난해 소방관 6만1087명을 대상으로 실시한 ‘소방공무원 마음 건강 설문조사’를 보면 3141명(5.2%)이 자살위험군에 속하는 것으로 조사됐다. PTSD 4375명(7.2%), 우울증 3937명(6.5%) 등이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도이치모터스 권오수 아내 횡령 증거 없앤 직원...1심서 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/23/FFDSU3R4SBGUVGVSQUZGPUSX3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/23/FFDSU3R4SBGUVGVSQUZGPUSX3A/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 01:39:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LR6SROXZQZJTHEDKIO226FFIIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도이치모터스 주가조작 사건에 대한 검찰 수사가 시작되자 권오수 전 회장의 아내 안모씨의 횡령 증거를 없앤 혐의로 기소된 측근이 1심에서 유죄를 선고받았다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 서울중앙지법 형사1단독 이춘근 부장판사는 최근 증거인멸·배임수재 혐의로 기소된 A씨에게 징역 1년6개월에 집행유예 3년을 선고하고 160시간의 사회봉사와 1억3000여만원의 추징금을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 권 전 회장의 아내 안씨가 운영했던 회사 임원으로, 2021년 안씨 횡령 혐의의 핵심 증거를 없앤 혐의를 받았다. 회사 거래처인 인테리어 하도급 업체로부터 공사 수주 등 각종 편의를 제공해달라는 청탁과 함께 40차례 걸쳐 1억3000여만원을 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰 수사에 따르면 안씨는 도이치모터스 전시장과 서비스센터 공사를 독점 수주하기 위해 2010년 회사를 차렸다. 그런데 2016년쯤 이 회사 매출 대부분이 도이치모터스 수주에서 나온 것이라는 이유로 증여세를 납부하게 되자, 여러 업체가 수주 경쟁을 하는 것처럼 보이기 위해 2017~2020년 지인들 명의를 빌려 건설·인테리어 회사 세 곳을 새로 설립했다. 세 회사는 실제로는 안씨가 운영하며 주요 직원과 사무실을 같이 쓰는 사실상 하나의 회사였고 A씨도 이 중 한 곳에서 계속 인테리어 공사 총괄 업무를 담당했다.&lt;br&gt;&lt;br&gt;안씨는 2021년 9월 검찰의 도이치모터스 주가조작 수사가 시작되자 자신도 허위 직원 등재 등 법인자금을 횡령한 혐의로 수사를 받게 될까 봐 A씨에게 사무실에 있는 서류를 불태우는 등 증거를 없애라고 지시했다. 같은 달 A씨는 자기가 쓰던 휴대전화와 노트북을 망치로 부수고 두 차례에 걸쳐 회사 회계자료와 공사 관련 서류 등을 불태운 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 하도급업체 선정과 공사 현장감독을 총괄하면서 거래업체로부터 고액의 금품을 교부받아 업무의 공정성이 상당히 훼손됐고, 안씨에 대한 법인자금 횡령 혐의 등에 대한 수사가 예상되자 회계자료 등을 소각해 증거를 인멸했다”고 했다. 다만 범행을 자백하며 반성하는 태도를 보이고 전과가 없는 점 등을 고려해 집행유예를 선고했다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>푹푹 찌는 처서...서울 최고 34도 무더위</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/23/5JQR5UWJLFBKROO762BNKYMBLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/23/5JQR5UWJLFBKROO762BNKYMBLM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 00:12:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E32V75TVUBVATRFI3L4FRAWNCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 처서를 하루 앞두고 폭염이 찾아온 22일 서울 종로구 광화문광장 바닥분수에서 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;절기상 처서(處暑)인 23일에도 밤낮 없는 무더위가 이어질 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 22일 밤부터 23일 아침까지 서울의 최저기온이 27.4도를 기록, 일주일째 열대야가 발생했다. 강원 강릉은 최저 29.8도를 기록하며 초열대야에 가까운 밤 더위가 발생했다.&lt;br&gt;&lt;br&gt;우리나라 상공을 덮은 북태평양고기압과 티베트고기압이 두 겹의 ‘공기 이불’ 역할을 하며 폭염 강도가 심해지고 있다. 여기에 고온다습한 남서풍까지 불어오면서 이불을 쓰고 난로를 쬐듯 뜨거워지고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYVSCFDFCRD2DDXGPCK4G7L4GY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 아침 최저기온은 22~27도, 낮 최고기온은 31~36도로 예보됐다. 서울의 한낮 기온이 34도, 대구는 36도까지 오를 것으로 보인다. 현재 중부지방은 폭염주의보(체감기온 33도 이상), 남부지방은 폭염경보(체감기온 35도 이상)가 발령돼있다.&lt;br&gt;&lt;br&gt;대기 불안정으로 오전부터 밤사이 서울·인천·경기 북부와 강원 중북부 내륙·산지, 제주도에는 소나기가 내리는 곳이 있겠다. 예상 강수량은 5~40㎜다.&lt;br&gt;&lt;br&gt;더위는 일요일인 24일에도 이어지면서 최저 22~27도, 최고 31~36도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변사자 1100만원 금목걸이 훔친 범인은 ‘검시 조사관’… 경찰, 긴급체포</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/4V7ENR3RRJE4FBXCWVDVVZ5UPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/4V7ENR3RRJE4FBXCWVDVVZ5UPU/</guid>
+      <dc:creator>조홍복 기자, 인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 23 Aug 2025 00:11:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FNWRDZMQ5A24J7MQIQ2ISSIPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 변사 사건 현장에서 사망자가 착용한 20돈짜리 금목걸이를 훔친 범인은 현장에 출동한 검시 조사관이었다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 절도 혐의로 인천경찰청 과학수사대 소속 검시 조사관 30대 A(의료 서기보)씨를 붙잡아 조사 중이라고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 20일 오후 2시쯤 인천시 남동구 만수동의 한 빌라에서 숨진 50대 남성 B씨가 착용하고 있던 금목걸이를 훔친 혐의를 받고 있다. 당시 현장에 출동한 소방 당국은 B씨가 이미 숨진 사실을 확인한 뒤 경찰에 인계했고, 현장에 도착한 인천 남동경찰서 소속 경찰은 사망 원인 조사에 나섰다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 금목걸이를 착용하고 있던 점, 외부 침입의 흔적이 없는 점, 주변에 약 봉투와 술병 등이 있었던 점 등을 근거로 범죄 혐의가 없다고 보고, 현장 감식을 위해 나온 인천경찰청 과학수사대에 상황을 공유했다. 경찰은 당시 B씨가 금목걸이를 착용한 모습이 담긴 사진도 촬영했다고 한다. &lt;br&gt;&lt;br&gt;그러나 과수대 감식 과정에서 B씨가 착용한 시가 1100만원 상당 20돈짜리 금목걸이가 사라진 사실이 확인됐다. &lt;br&gt;&lt;br&gt;처음 B씨의 상황을 소방 당국에 신고한 직장 동료는 경찰이 출동한 뒤 현장을 떠났고, B씨 가족 중에도 당시 현장을 찾은 사람은 없었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 현장에 출동한 경찰관 4명과 검시 조사관 A씨 등 5명을 차례로 조사했고, 조사 직후 심경의 변화가 생긴 A씨가 자수 의사를 밝혀 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰은 “자택에 금목걸이를 숨겨뒀다”는 A씨 진술을 토대로 금목걸이를 찾아내 압수 조치했다. 경찰 관계자는 “사안의 중대성 등을 고려해 A씨에 대해 구속영장을 신청할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 모텔 화재로 투숙객 1명 사망… 대피하던 28명 중 6명 중경상</title>
+      <link>https://www.chosun.com/national/regional/2025/08/23/HTUF5YCBQNGCFNMLD2GXJQYNXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/23/HTUF5YCBQNGCFNMLD2GXJQYNXA/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 22 Aug 2025 23:49:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWHX7WWPOSUR7QQJ5EPO4DJ6RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 새벽 강원 강릉시 주문진읍 교항리 모텔 화재 현장./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 강릉 주문진 한 모텔에서 불이 나 1명이 숨지는 등 7명의 사상자가 발생했다.&lt;br&gt;&lt;br&gt;23일 소방 당국에 따르면 전날 오후 11시 47분쯤 강릉시 주문진읍 교항리 한 모텔에서 불이 나 이날 오전 1시 19분쯤 꺼졌다. 건물 안에는 투숙객 26명과 모텔 관계자 2명 등 총 28명이 있었다.&lt;br&gt;&lt;br&gt;이 불로 50대 투숙객이 심정지 상태에서 인근 병원으로 옮겨졌으나 숨졌다. 또 대피 과정에서 6명이 화상과 연기 흡입 등 중경상을 입고 병원에서 치료받고 있다.&lt;br&gt;&lt;br&gt;재산 피해는 소방서 추산 1억5000만원이다. 화재 당시 자동화재탐지설비는 정상 작동했으나 스프링클러 설치 대상 건물은 아닌 것으로 알려졌다. 당국은 정확한 화재 원인을 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>성범죄 수사받은 30대… 음주운전 걸리자 “재판 스트레스 탓” </title>
       <link>https://www.chosun.com/national/national_general/2025/08/23/TABAYJYJCFAN5NVSFN62ABE4BM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/TABAYJYJCFAN5NVSFN62ABE4BM/</guid>
@@ -798,15 +882,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2DQOPZNP5UOTAYANPEBSPJVVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태를 사전에 모의한 혐의를 받는 노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 노상원 전 정보사령관을 오는 23~24일 연달아 소환하는 것으로 확인됐다. 특검은 이달 4일과 11일, 17일에도 계엄 직전 노 전 사령관과 자주 통화한 제3자의 내란 방조 의혹과 관련해 참고인 조사를 진행했다. 이번이 네번째다.&lt;br&gt;&lt;br&gt;특검은 해당 제3자를 특정해 조사했으나 내란과 직접 연결되는 단서를 확보하지 못해 피의자로 입건하지는 못한 상태인 것으로 알려졌다. 다만 ‘노상원 수첩’ 등 핵심 증거 분석을 위해서는 노 전 사령관의 진술이 중요하다고 보고, 주변 인물들에 대한 조사를 병행하면서 그의 입을 열려는 것으로 보인다.&lt;br&gt;&lt;br&gt;노 전 사령관은 수사팀과 일상적 대화에는 응하지도, 자신의 수첩 관련 질문에는 답변을 피하는 태도를 유지하고 있는 것으로 전해졌다. 특검 안팎에서는 “제3자 관련해 부르는 것도 사실상 노 전 사령관을 소환할 명목이 필요해서 그렇다”는 해석이 나왔다.&lt;br&gt;&lt;br&gt;특검은 지난 19일에도 수첩 분석을 위해 노 전 사령관이 계엄 전 자주 찾았던 전북 군산의 무속인 이선진씨를 참고인으로 불러 조사했다. 이 과정에서 수첩에 적힌 ‘北’ 자가 노 전 사령관의 필체가 맞다는 이씨의 진술을 확보했다.&lt;br&gt;&lt;br&gt;특검은 또 노 전 사령관이 이씨에게 사주 수업을 하던 시기 작성한 노트도 찾아 달라고 요청했으나, 실제 확보는 못한 것으로 파악됐다. 2022~2023년 이씨가 노 전 사령관에게 사주 강의를 들을 당시 작성된 노트와 수첩의 필체를 대조하기 위한 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>BTS 정국·대기업 회장 당한 해킹... 법무부, 중국 국적 총책 강제송환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/VSVQMZPTS5GOVKLVIWDQZ5CCSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/VSVQMZPTS5GOVKLVIWDQZ5CCSU/</guid>
-      <dc:creator>이민준 기자, 안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 02:04:52 +0000</pubDate>
-      <content:encoded>법무부는 국내 재력가들의 명의를 도용한 뒤 거액을 빼돌린 해킹조직 총책을 태국에서 찾아내 국내로 강제송환했다고 22일 밝혔다. 피해자 중엔 유명 아이돌 방탄소년단(BTS)의 멤버 ‘정국’도 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35XZ2UJ5CO3BFE77YJMEKVNVEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부, 웹사이트 해킹으로 380억원 이상 편취한 범죄조직 총책 송환./법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 국적인 총책 A씨는 태국 등 해외에서 해킹 범죄단체를 조직한 뒤, 2023년 8월부터 지난해 1월까지 이동통신사 등 다수의 웹사이트를 해킹해 BTS 정국 및 대기업 회장, 벤처기업 대표 등의 개인정보를 확보한 뒤, 이들 명의로 휴대전화를 몰래 개통했다고 한다. 이를 활용해 피해자들의 금융계좌와 가상자산 계정에서 예금을 빼돌리는 방식으로 돈을 가로챘다는 것이다. 법무부는 피해 액수를 380억원가량이라고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 서울경찰청, 인터폴과 협력해 A씨 소재를 추적하던 중, A씨가 올 4월 태국에 입국했다는 첩보를 입수했다. 법무부는 즉시 태국 측에 A씨의 ‘긴급인도구속청구’를 했다. 긴급인도구속청구란 정식으로 범죄인 인도를 청구하기 전 신병을 우선 확보해달라고 상대국가에 요청하는 것을 가리킨다. A씨를 놓치지 않기 위해 절차 이행에 들어가는 시간을 줄이려 노력했다는 얘기다.&lt;br&gt;&lt;br&gt;법무부는 유엔 마약 및 범죄사무소(UNODC)가 운영 중인 ‘동남아시아 공조 네트워크’와 인터폴과도 수시로 연락을 주고받았다. 지난달 태국에 검사와 수사관을 파견해 태국 대검찰청·경찰청 관계자를 직접 만났고, 송환 방식과 시점 등을 논의한 뒤 A씨 신병을 확보했다는 게 법무부 설명이다. A씨는 이날 오전 5시 5분쯤 인천국제공항을 통해 입국했다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “해외 소재 해킹·보이스피싱·온라인사기 조직을 끝까지 추적해 엄단하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 사건을 수사해온 서울경찰청은 A씨를 조사하면서 압수물을 분석한 뒤 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>고(故) 이선균 수사정보 유출해 파면된 경찰, 불복 소송에서 ‘패소’ </title>
       <link>https://www.chosun.com/national/court_law/2025/08/22/EUOWUNP3WJFKZKWYZEUIBTLQYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/EUOWUNP3WJFKZKWYZEUIBTLQYM/</guid>
@@ -814,15 +889,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 02:20:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZWLNE2CUVC4BNXL5R7VBKVCJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 경찰 수사를 받다가 숨진 배우 고(故) 이선균씨의 수사 정보를 유출해 파면된 경찰이 제기한 파면 처분 불복 소송에서 패소했다. &lt;br&gt;&lt;br&gt;인천지법 행정 1-3부(재판장 장유진)는 파면된 30대 A씨가 인천경찰청장을 상대로 낸 파면처분 취소 소송에서 원고 패소 판결했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “A씨는 직무 성격상 고도의 준법성과 직무 윤리가 요구되는 경찰로, 수사 중인 사건 피의자의 개인정보 보호와 수사 내용 보안의 중요성을 충분히 인식할 수 있는 직위였다”며 “수사 대상자의 입건 여부는 유출 시 수사에 지장을 초래할 수 있어 비밀로 보호할 필요성이 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “A씨는 경찰의 통상적인 언론 대응 수준을 넘어 원고 스스로 자신이 권한 없이 취득한 수사 진행 사항 및 수사 대상자들에 대한 정보를 언론에 무단으로 유출했다”며 “수사 대상자들의 권리를 침해하고 경찰 직무의 공공성을 심히 훼손해 비위의 정도가 매우 무겁다”고 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “A씨에 대한 엄정한 징계 처분은 불가피하다”며 “처분을 통해 달성하고자 하는 공직 기강 확립과 경찰 공무원에 대한 국민 신뢰 회복 등의 공익이 A씨가 입게 될 불이익에 비해 훨씬 크다”고 판단했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “경찰과 기자 사이의 통상적인 관계에 비추어 기자에게 정보를 제공하고 협조한 것이 크게 비난받을 일이라고 볼 수 없다”며 “표창 수상 경력에 따른 징계 감경이 고려되지 않았고, 10년간 경찰공무원으로 성실하게 근무한 점, 깊게 반성하고 있는 점 등을 볼 때 파면은 지나치게 과중하다”고 주장했으나, 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 10월 이선균씨 마약 의혹 사건의 수사 진행 상황을 담은 자료를 사진으로 찍어 B씨 등 기자 2명에게 유출한 혐의를 받는다. 인천경찰청 마약범죄수사계가 작성한 이 자료엔 이씨 마약 사건과 관련한 수사 대상자의 이름과 나이, 전과, 직업 등 인적 사항이 담겼다. &lt;br&gt;&lt;br&gt;인천경찰청은 지난해 7월 징계위원회를 열어 당시 경위로 근무하던 A씨를 파면 의결했다. &lt;br&gt;&lt;br&gt;A씨는 1심 판결에 불복해 항소했다. 항소심 재판은 서울고법 인천원외재판부에서 진행될 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘싸이 흠뻑쇼’ 공연 무단 관람한 현직 경찰들… 경찰 감찰 착수</title>
-      <link>https://www.chosun.com/national/regional/2025/08/22/2ABGXIH5KVGN5OP2EESLTCHRSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/2ABGXIH5KVGN5OP2EESLTCHRSU/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:25:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TITBI4Y6BYMXVZOR5ZOQATHEEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;싸이 흠뻑쇼를 관람하기 위해 길게 줄을 선 관객들 모습./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 주말 부산에서 열린 가수 싸이 콘서트의 교통 지원 근무를 갔다가 공연을 무단 관람한 경찰관들이 적발돼 경찰이 자체 감찰에 나섰다.&lt;br&gt;&lt;br&gt;부산경찰청은 지난 15일부터 이틀간 부산 아시아드보조경기장에서 열린 싸이 흠뻑쇼 지원 근무 중에 공연을 관람한 여성 경찰관 5명에 대해 감찰 조사를 벌이고 있다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;이 경찰관들은 입장객에게 나눠주는 팔찌가 없는 점을 수상히 여긴 공연 관계자에게 적발된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 공연장 일대에 수만 명의 인파가 몰려 경찰은 안전 관리와 교통 정리 등을 위해 경력을 투입했다. 해당 경찰관들도 교통 지원 근무를 나왔고, 휴게 시간에 화장실을 다녀오던 중 공연을 본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;부산경찰청 관계자는 “감찰 조사를 통해 사실관계를 확인하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>창원서 남학생이 밀어 여교사 요추 골절...전치 12주 부상 </title>
@@ -850,15 +916,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 01:13:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4ZS256JXKV2J6XULKZ4RQOX6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금목걸이. /뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 출동했던 변사 사건 현장에서 사망자가 착용하고 있던 금목걸이가 사라져 경찰이 조사에 나섰다. &lt;br&gt;&lt;br&gt;22일 인천경찰청 형사기동대 등에 따르면 지난 20일 오후 2시쯤 인천 남동구 만수동의 한 빌라에서 50대 남성 A씨가 숨을 쉬지 않는다는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;소방 당국은 출동해 A씨가 숨진 사실을 확인한 뒤 경찰에 인계했다.&lt;br&gt;&lt;br&gt;그런데, 조사 과정에서 A씨가 착용하고 있던 금목걸이가 사라진 사실이 파악됐다. &lt;br&gt;&lt;br&gt;소방 인계 뒤 최초로 출동한 남동경찰서 소속 형사가 휴대전화로 촬영한 A씨 사진엔 금목걸이가 있었으나, 이후 현장을 찾은 인천경찰청 과학수사대 촬영 사진엔 목걸이가 없었던 것이다. 이 금목걸이는 20돈짜리로, 시가 1100만원 상당인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;당시 경찰관들은 서로의 신체를 수색했으나 목걸이는 발견되지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 현장에 출동했던 형사 2명과 검시 조사관 1명, 과학수사대 직원 2명 등 5명을 상대로 조사에 착수했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사건 기록을 처음부터 다시 들여다보면서 입건 전 조사(내사)를 진행하게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>5년간 도망다녔는데... 담배꽁초 버리다 덜미 잡힌 177억 사기 수배범</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/D4YG3XCBV5BI7MPJFSUBHNQWCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/D4YG3XCBV5BI7MPJFSUBHNQWCI/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 00:58:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6HTTSCMNJFVPKWKBP7IVMRA4A.webp"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오전 11시 30분쯤 서울 관악구 신림역 일대에서 사기 혐의로 수배 중이던 A씨가 붙잡혔다. /서울경찰청 기동순찰대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 담배꽁초를 버리다 경찰에게 발견되자 황급히 도망친 남성이 177억원 규모의 가상화폐 사기범으로 드러났다.&lt;br&gt;&lt;br&gt;서울경찰청 기동순찰대는 지난 20일 서울 관악구 신림역 일대에서 관계형 범죄·이상동기 등 강력범죄 예방 순찰을 벌이던 중 가상화폐 다중 피해 사기 수배자인 A(60)씨를 체포했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;지난 20일 오전 11시 30분쯤 경찰은 신림역 일대에서 담배꽁초를 버린 뒤 황급히 이동하던 A씨를 발견해 단속에 나섰다. 그러나 A씨는 경찰의 신분증 제시 요구에 불응하며 “봐달라, 돈을 주겠다”는 말을 반복했다. 휴대전화로 전화를 걸려는 등 시간을 끌며 현장을 벗어나려 하기도 했다. 경찰의 신원 확인 끝에 A씨는 사기 등 혐의로 체포영장이 발부된 수배자인 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 다단계 회사의 총책으로, 2018년부터 2019년까지 “가상화폐를 구입하면 막대한 수익을 얻을 수 있다”고 피해자들을 속여 1300여 명으로부터 177억원을 가로챈 혐의를 받는다. A씨는 2020년부터 검거될 때까지 약 5년간 도피 중이었다. 이외에도 A씨에게는 사기·폭행 등 10건의 수배 전과가 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “범죄취약지에서 세밀한 도보순찰을 수행하고 거동수상자를 검문한 것이 수배자를 검거하는 계기가 되었다”며 “앞으로도 관계성 범죄, 이상동기 범죄 등 강력범죄 발생이 우려되는 지역을 중심으로 예방 순찰을 강화하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 서울경찰청은 지난 4월에도 신림역 일대에서 8000억원대 불법 도박 사이트 운영 수배자를 검거한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희특검, ‘건진법사’ 전성배 소환... 구속 직후 조사</title>
@@ -895,69 +952,6 @@
       <description/>
       <pubDate>Thu, 21 Aug 2025 22:28:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYQ2IJTIEBQVUUPVXMNALY6R3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송진호 전 무소속 대선 후보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 21대 대선에 기호 8번으로 무소속 출마하며 17건의 전과 기록 사실이 알려져 논란이 됐던 송진호씨가 사기 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;서울중앙지법은 지난 20일 송씨에 대해 “도주 및 증거 인멸 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;송씨는 2020년부터 캄보디아에 이른바 ‘미라클 시티’(기적의 도시)를 건설하겠다며 투자자들을 속여 수억 원을 가로챈 혐의를 받는다. 송씨는 미라클 시티가 산업단지와 복합 테마파크 등을 건설해 그곳에서 가상 화폐를 상용화하는 스마트 시티 개념이라고 주장했다. 또 ‘미라클 코인’을 상장하면 200배의 수익을 챙길 수 있다며 투자자들을 모집했지만, 5년이 지나도록 상장되지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이 과정에서 투자금 편취 등 송씨의 사기 정황을 포착하고 수사를 벌여온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편 송씨는 지난 6‧3 대선에 출마했을 당시 역대 대선 후보 중 최대 전과를 보유한 사실이 알려져 논란이 됐다. 선거관리위원회의 후보자 정보공개에 따르면 송씨는 사기와 폭력‧상해, 재물손괴, 근로기준법 위반, 부정수표단속법 위반 등의 혐의로 17차례 처벌받았다. 이 중 징역형을 선고받은 것은 8차례였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이번엔 순천공장 질식 사고, 2명 사망·1명 중태</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/CZNKBIX6TBCCHNTBHHZF75R3RE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/CZNKBIX6TBCCHNTBHHZF75R3RE/</guid>
-      <dc:creator>순천=진창일 기자, 정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>전남 순천의 한 레미콘 공장에서 화학약품 저장 탱크를 청소하던 작업자 3명이 유독 가스에 질식해 쓰러졌다. 이 중 2명은 숨졌다. &lt;br&gt;&lt;br&gt;지난 19일 경북 청도군 경부선 철로에서 작업 중이던 근로자 2명이 무궁화호 열차에 치여 숨진 지 이틀 만에 산업 현장에서 또 사망 사고가 난 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SERSGT6Q4NFA7FTN2HDAMN6P6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;레미콘공장 탱크 점검 중인 경찰 - 21일 오후 전남 순천의 한 레미콘 공장에서 화학약품 저장 탱크를 청소하던 작업자 3명이 유독 가스에 질식해 쓰러졌다. 이 중 2명이 숨지고 1명은 중태에 빠졌다. 경찰이 탱크를 조사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 전남소방본부 등에 따르면, 이날 오후 1시 29분쯤 순천시 서면 순천일반산업단지의 한 레미콘 공장에서 작업자 3명이 쓰러졌다는 신고가 접수됐다. 화학약품 저장 탱크를 청소하러 들어갔는데 의식을 잃은 것 같다는 내용이었다. &lt;br&gt;&lt;br&gt;현장에 도착한 119 구조대원은 탱크 안에서 의식을 잃고 쓰러져 있는 작업자 3명을 발견했다. 탱크의 출입구가 폭 40㎝ 정도로 좁아 굴착기로 탱크를 넘어뜨린 뒤 이들을 구조했다. &lt;br&gt;&lt;br&gt;3명은 이 회사 공장장 김모(60)씨와 품질관리실장 우모(57)씨, 생산팀장 정모(53)씨였다.&lt;br&gt;&lt;br&gt;신고 접수 1시간 45분 만인 오후 3시 16분쯤 김씨를 먼저 구조했다. 이어 우씨와 정씨를 차례로 구조했다. 소방 당국은 탱크 안에 계속 공기를 주입했지만 우씨와 정씨는 숨졌다. 김씨는 병원에서 치료받고 있으나 중태다. &lt;br&gt;&lt;br&gt;탱크 안에선 산업안전보건법상 허용 기준치(15ppm)의 4배에 달하는 황화수소가 검출됐다. 농도가 58ppm이었다. 황화수소는 달걀 썩는 냄새가 나는 유독 가스다. 이산화탄소 농도도 3400ppm으로 정상 범위(250∼400ppm)의 약 10배에 달했다.&lt;br&gt;&lt;br&gt;이 탱크는 원통 모양으로 높이 3m, 폭 2m 크기다. 용량은 12t이다. 탱크 안에는 평소 콘크리트의 강도를 높이는 화학약품인 혼화제를 보관하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 작업자 3명은 탱크를 비운 뒤 내부를 청소하고 있었던 것으로 파악됐다. 소방 당국은 “맨 처음 탱크 안에 들어간 생산팀장 정씨가 의식을 잃자 다른 작업자들이 구조하려고 뛰어든 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;소방 관계자는 “탱크 내부엔 사람이 누우면 차오를 정도로 약품이 남아 있었다”고 했다.&lt;br&gt;&lt;br&gt;구조 당시 공기 호흡기 등 안전 장비는 발견하지 못했다고 소방 당국은 밝혔다. ‘산업안전보건기준에 관한 규칙’에 따르면 사업주는 근로자가 탱크 등 밀폐 공간에서 작업하기 전 산소와 유해 가스 농도를 측정해야 한다. 공기 호흡기나 마스크, 사다리, 로프 등도 갖춰야 한다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 이 회사가 중대재해처벌법이나 산업안전보건법을 위반했는지 조사할 방침이다. 경찰 관계자는 “법 위반 사실이 드러나면 회사 책임자 등을 입건할 것”이라고 했다. &lt;br&gt;&lt;br&gt;순천시는 시내 모든 사업장에 대해 긴급 안전 점검을 실시하기로 했다.&lt;br&gt;&lt;br&gt;고용부에 따르면, 최근 10년간(2014년~2023년) 산업 현장의 밀폐 공간에서 발생한 질식 사고는 총 174건이다. 여름에 52건(30%) 발생했다. 근로자 338명이 산업재해를 입었고 이 중 136명이 숨졌다. &lt;br&gt;&lt;br&gt;이재명 대통령이 지난 12일 국무회의에서 “산재 공화국을 반드시 벗어나도록 해야겠다”고 했지만 산업 현장에선 사고가 이어지고 있다.&lt;br&gt;&lt;br&gt;순천에선 지난 20일 오전 8시 42분쯤 별량면의 한 금속 가공 업체에서 60대 A씨가 기계에 깔려 숨졌다. 같은 날 전남 나주의 동물 사료 배합 공장에서도 근로자 B(39)씨와 C(43)씨가 쓰러졌다. B씨는 병원으로 옮겼으나 중태다. &lt;br&gt;&lt;br&gt;고용부가 이날 발표한 ‘산업재해 현황 부가 통계’에 따르면, 올 상반기 산업 현장에서 발생한 사망 사고는 278건으로 작년 상반기(266건)보다 12건(4.5%) 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M23IMXTN7ZIJRAYGYPIGMNWZYE.jpg?auth=d526ca5cf7589d156f72420667efe88b05b0358fc08685f3db90330fd08bd0ee&amp;smart=true&amp;width=4040&amp;height=2952" type="image/jpeg" height="2952" width="4040">
-        <media:description type="plain">21일 오후 전남 순천시 한 레미콘공장에서 간이탱크 청소작업 중이던 작업자들이 의식 불명 상태에 빠지는 사고가 발생해 경찰과학수사대가 현장 조사하고 있다. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>오세훈·로빈슨 대담 “약자 품어야 성장 가능”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/YWEWCZ7DDNFCVIYXRMEPGE3EPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/YWEWCZ7DDNFCVIYXRMEPGE3EPU/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QBKTDFRVZJNGXD7D2USHIPZNRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(오세훈) 서울시장이 21일 서울시청에서 열린 '지속가능한 번영을 위한 길' 특별대담에서 발언하고 있다. 오른쪽은 지난해 노벨경제학상 수상자인 제임스 로빈슨 미 시카고대 공공정책대학원 교수. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“약자를 포용하고 존중해야 경제 성장을 지속할 수 있습니다.”&lt;br&gt;&lt;br&gt;지난해 노벨경제학상 수상자인 제임스 로빈슨 미국 시카고대 공공정책대학원 교수는 21일 오전 서울시청 대회의실에서 오세훈 서울시장과 ‘지속 가능한 번영을 위한 길’을 주제로 진행한 특별 대담에서 이렇게 말했다. 로빈슨 교수는 세계적인 베스트셀러인 ‘국가는 왜 실패하는가’의 공동 저자로, 사회 제도가 국가의 경제적 번영에 미치는 영향을 연구한 학자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4272V7CLJGKFJPA2SJVOMHOIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 서울시청에서 오세훈(왼쪽) 서울시장과 제임스 로빈슨 미 시카고대 교수가 만났다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;로빈슨 교수는 “미국의 많은 정치적 문제는 바로 번영의 공유가 지난 50년간 무너졌기 때문”이라며 “시장경제에는 불평등이 존재하기 마련이지만, 여러 종류의 인센티브와 유인책을 통해 약자를 포용하는 것이 굉장히 중요하다”고 했다. &lt;br&gt;&lt;br&gt;그는 “한국이 계속 번영하려면 내부적으로 민주주의를 공고히 유지하고, 외부적으로는 다른 국가와의 민주적 동맹을 강화해야 한다”고 했다. 또 “민주주의의 혜택을 사람들이 느낄 수 있게 해서 포퓰리즘에 대항해야 한다”라고도 했다.&lt;br&gt;&lt;br&gt;이에 오 시장은 “서울시가 저소득층에게 더 많은 현금을 지원하는 ‘디딤돌 소득’ 등 약자와의 동행을 추진하는 것은 한정된 재원 속에서 뒤처진 분에게 손을 내밀고 동일한 출발선에 세운다는 철학이 뒷받침된 것”이라고 했다. 대담을 진행한 이정민 서울대 경제학부 교수는 “오 시장의 ‘약자와의 동행’과 로빈슨 교수의 ‘번영의 공유’가 일맥상통한다”고 했다.&lt;br&gt;&lt;br&gt;로빈슨 교수는 오는 12월 서울시가 개최하는 ‘2025 서울 국제 디딤돌 소득 포럼’에 기조 연사로 참석할 예정이다. 서울시 관계자는 “로빈슨 교수와의 정책 논의를 통해 약자와의 동행 정책을 더욱 정교하게 발전시킬 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘이태원 참사’ 감사 나서자… 내부 “2차 가해” 반발</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/4VJTLOZL2NG63DKQWSED75MN3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/4VJTLOZL2NG63DKQWSED75MN3E/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>경찰청이 ‘2022년 이태원 핼러윈 참사’ 대응에 대한 내부 감사에 착수하자 조직 내부에서 반발이 나왔다. 일선 출동 경찰관까지 대거 조사 대상에 포함되자 “아직도 참사 현장 트라우마(정신적 외상)에 시달리는 동료에게 조직이 2차 가해를 한다”는 목소리가 나온 것이다.&lt;br&gt;&lt;br&gt;21일 경찰에 따르면, 최근 경찰청 산하 이태원 참사 합동감사팀은 당시 관련 부서에서 일한 경찰 80~90명(경찰 노조 추산)에게 조사 대상이 됐다는 것을 통보하며 “징계·문책 절차와 시효가 정지되고, 조사 기간 의원 면직과 포상 추천 등이 제한된다”고 밝혔다. 이 감사팀은 지난달 이재명 대통령과 참사 유가족이 만난 간담회에서 유가족 측이 건의한 감사 요청에 따라 꾸려졌다.&lt;br&gt;&lt;br&gt;경찰청 관계자는 “혐의가 없다는 것이 밝혀지면 포상 등 제한 조치는 바로 해제될 것”이라고 했다. 하지만 조사 대상이 된 경찰관들은 “현장에 출동했던 경찰관들을 잠재적 범죄자로 취급하는 것”이라는 입장이다. 서울 경찰관들의 노조 격인 서울경찰청 직장협의회는 이날 경찰 내부망에 “참사 당시 현장에서 구호 활동을 했던 경찰관은 범죄자가 아니다”라며 “어떤 기준으로 조사 대상자를 선정했는지 명백히 밝혀 달라”는 성명을 냈다. 여익환 서울청 직협 위원장은 본지 통화에서 “조사 대상이 된 경찰관 상당수는 참사 당일 상부 지시에 따라 현장에 출동했을 뿐”이라며 “책임을 묻는다면 지휘부에 물어야 한다”고 했다.&lt;br&gt;&lt;br&gt;참사 당시 서울경찰청과 용산경찰서 소속 경찰 간부들은 이미 지난해 1심에서 대부분 유죄 판결을 받았다. 이임재 전 용산경찰서장과 송병주 전 용산서 112 상황실장은 사고 예방을 소홀히 한 혐의로 금고형을 선고받았다. 사고 전 축제 인파가 몰릴 것을 예측한 정보 보고서를 삭제하도록 지시한 혐의를 받은 박성민 전 서울경찰청 공공안녕정보외사부장과 김진호 전 용산서 정보과장은 각각 징역 1년 6개월, 징역 1년에 집행유예 3년형을 선고받았다.&lt;br&gt;&lt;br&gt;경찰과 참사 현장을 함께 지원했던 소방대원들은 최근 잇따라 숨졌다. 참사 당시 용산소방서 소속으로 현장에 출동했던 40대 소방관 A씨가 지난달 29일 자택에서 숨진 채 발견됐고, 함께 출동한 또 다른 구급대원 B(30)씨도 실종 10일 만인 지난 20일 숨진 채 발견됐다. 경찰은 두 사람이 스스로 목숨을 끊은 것으로 보고 있다. 두 사람은 참사 이후 우울증 진단을 받고 치료받은 전력이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“韓 포니 첫 수출국 에콰도르… 양국 이젠 경제 동반자로”</title>
-      <link>https://www.chosun.com/national/people/2025/08/22/QEDRWRCXQJHVXBXHTRFIC66SVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/22/QEDRWRCXQJHVXBXHTRFIC66SVQ/</guid>
-      <dc:creator>박강현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CHAOGDQDRCADMJ4USJYITBORU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 종로구 주한 에콰도르 대사관에서 만난 파트리시오 수아레스 에콰도르 대사가 현대차 ‘포니’ 모형을 소개하고 있다. 그는 1976년 에콰도르에 처음으로 수출된 포니를 양국 협력을 상징하는 교역품으로 꼽았다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파트리시오 수아레스(58) 주한 에콰도르 대사의 서울 종로구 대사관 내 집무실에는 현대차 ‘포니’ 모형이 놓여 있었다. 손바닥만 한 모형은 1976년 포니가 처음 수출된 나라가 에콰도르였다는 사실을 떠올리게 했다. 지난 14일 이곳에서 만난 수아레스 대사는 “1980년대 대학생 시절에 친구의 포니를 빌려 몰면서 한국이라는 먼 나라를 상상하곤 했다”면서 “양국의 인연이 앞으로 경제 동반자 관계로 발전하길 기대한다”고 말했다. &lt;br&gt;&lt;br&gt;1997년 외교관 생활을 시작한 수아레스 대사는 독일·미국·카타르 등을 거쳐 지난 1월 한국에서 임기를 시작했다. 그는 “대사 지위로 부임한 첫 국가인 한국은 특히 각별하다”며 “경제적 연결 고리를 다양화하려는 한국을 상대로 에콰도르가 매력적인 파트너라는 점을 보여주고 싶다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVEPNWR4LBGBNE5JYT7WHU54J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 파트리시오 수아레스 주한 에콰도르 대사가 서울 종로구 대사관에서 본지와 만나 질문에 답변하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수아레스 대사는 “한국과 에콰도르의 인연은 자유와 민주주의라는 가치를 공유하며 시작됐다”면서 그 시발점으로 6·25 전쟁 시기를 꼽았다. “에콰도르는 당시 군대를 직접 파병하지는 않았지만 쌀과 물자를 대한민국에 지원했습니다. 사실 에콰도르도 1949년 대지진의 여파로 힘든 시기였는데, 돌이켜 보면 긴 우정을 위한 옳은 결단이었죠.” 1962년 외교 관계를 수립했고, 1976년 6월엔 현대차가 에콰도르에 포니 6대를 수출하며 해외 시장에 처음 진출했다. 수아레스 대사는 “한국의 자동차 신화가 에콰도르에서 첫발을 뗐다고도 볼 수 있다”면서 “현대·기아차는 지금도 에콰도르 자동차 시장의 23% 정도를 차지하고 있다”고 했다. &lt;br&gt;&lt;br&gt;지금은 2023년 10월 타결된 양국 간 전략적경제협력협정(SECA)에 집중하고 있다. 양국 국회의 비준을 거쳐 정식 발효되면 한국은 에콰도르에서 에너지, 원자재, 농·수산물 등을 안정적으로 수입하고, 에콰도르는 한국에서 첨단 기술과 투자를 유치할 수 있을 것으로 전망된다. 수아레스 대사는 “경제적으로 상호 보완적 관계에 있는 한국과 에콰도르가 윈윈(win-win)할 수 있을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSC5N7B6XNHLJC2GXHUCYAADAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;파트리시오 수아레스 주한 에콰도르 대사. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수아레스 대사는 “에콰도르에서 한국은 전쟁과 가난을 극복하고 최빈국에서 세계 10위권 경제 대국 반열에 오른 나라로 잘 알려져 있다”며 “분단이나 북한 문제 같은 부정적 인식도 있지만, K컬처와 삼성 등으로 대표되는 문화·기술적 혁신을 이뤄냈다는 긍정적 이미지가 이를 압도한다”고 설명했다. 그러나 지구 반대편에 있는 두 나라 사이의 거리는 여전히 멀다. 수아레스 대사는 “한국과 에콰도르의 심리적 거리뿐 아니라 물리적 거리도 좁히고 싶다”고 했다. “인천에서 (에콰도르 수도) 키토까지 직항 노선을 마련하고 싶어요. 에콰도르엔 갈라파고스 제도나 마찰리자 해변처럼 자랑할 곳이 많거든요. 오가는 시간이 단축되면 한국 분들이 우리 나라를 많이 찾지 않을까요? 자주 만나다 보면 더 가까운 친구가 돼 있을 겁니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QMVYIHH6NFCUHBFXHECV76ICPU.jpg?auth=c09ba60ef978262f2089e3b70def2d7542623bf7dc0294777c041bf94bcc93a2&amp;smart=true&amp;width=4878&amp;height=3600" type="image/jpeg" height="3600" width="4878">
-        <media:description type="plain">14일 서울 종로구 대사관 내 집무실에서 만난 파트리시오 수아레스 주한 에콰도르 대사가 1976년 부터 에콰도르에 처음 수출된 현대 포니 자동차 모형을 들어 보이고 있다. 2025. 8. 14./ 조인원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">조인원 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 22일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/22/DC55MZHKNZBCXNUF6LWQEBPXHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/22/DC55MZHKNZBCXNUF6LWQEBPXHY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6JMZAY2GNHADLY5R46GUI5DPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“교수는 착취 사슬의 중간 관리자” 박단, 세브란스병원 복귀 지원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/21/PUVYTAEC5JHG7L3B2ZAHSE4PTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/21/PUVYTAEC5JHG7L3B2ZAHSE4PTA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 21 Aug 2025 13:14:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBHOXT4WCBN7BP6DZIGOVNKUOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 전 대한전공의협의회 비상대책위원장
-이 지난 3월 서울 여의도 국회에서 열린 의료현장 정상화를 위한 정책 토론회에서 전공의 수련 환경 문제와 개선 방향을 주제로 발표하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의정 갈등 당시 전공의 단체에서 강경 투쟁을 주도했던 박단 전 대한전공의협의회(대전협) 비상대책위원장이 올해 하반기 전공의 모집공고에서 당초 몸담고 있었던 세브란스병원에 지원한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;21일 세브란스병원 관계자에 따르면 박 전 비대위원장은 이날 마감된 병원의 하반기 전공의 모집에 지원서를 제출했다. 지원은 원래 근무하던 응급의학과 2년차 레지던트로 했다고 한다.&lt;br&gt;&lt;br&gt;박 전 위원장은 지난해 2월 윤석열 정부의 의대 정원 확대 정책에 반발해 사직서를 제출했다. 2023년 대전협 회장으로 올랐던 그는 대전협이 비대위 체제로 전환하면서 비대위원장을 맡았고, 올해 6월까지 단체를 이끌었다. 지난 1월 출범한 김택우 대한의사협회 회장 집행부에서도 부회장을 겸임하며 전공의의 목소리를 대변했다. 그는 의정 갈등이 장기화되는데 대한 책임론이 대두되고 내부 파열음이 커지자 돌연 사퇴했다.&lt;br&gt;&lt;br&gt;박 전 위원장의 복귀는 이날 대부분 마감된 전공의 복귀와 관련해 병원 내 갈등을 표면적으로 드러내는 사례가 될 것이란 분석이 나온다. 강경파를 대표했던 그가 의사 사회의 선배 및 교수들에 대한 강한 비판을 쏟아내면서 당초 전공의를 지지했던 선배들이 떠나가는 결과를 초래하기도 했기 때문이다. 그는 “수련병원 교수들은 (전공의에 대한) 착취의 사슬에서 중간관리자 역할을 해왔다”든지 “교수라 불릴 자격 없다”는 표현도 서슴지 않았다.&lt;br&gt;&lt;br&gt;특히 그는 당초 사직서를 내면서 소셜미디어에서 병원으로 돌아갈 생각이 없다고 밝히기도 했다. 그는 “현장 따위는 무시한 엉망진창인 정책 덕분에 소아응급의학과 세부 전문의의 꿈, 미련 없이 접을 수 있게 됐다”고 비판했다.&lt;br&gt;&lt;br&gt;그가 실제 병원 현장으로 돌아갈 수 있을지 여부는 병원과 해당과의 선택에 달렸다. 병원은 지원 전공의에 대한 면접 등을 통해 선발 여부를 최종 결정한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>곧 9월인데 더 심해지는 폭염... 주말까지 체감 35도 무더위</title>
