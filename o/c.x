@@ -13,6 +13,105 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>폭염·폭우가 함께...최고 36도 폭염 속 수도권 최대 100㎜ 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/24/GFWBC7V47ZEDDI3RREVMUPOTUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/24/GFWBC7V47ZEDDI3RREVMUPOTUI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 03:35:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FITWUNPPBWEQVLNYJFFNPTGQEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항시 전역에 폭염경보가 발령된 지난 20일 오후 양산을 쓴 시민들이 북구청 앞 횡단보도를 건너가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 폭우가 동시에 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;24일 기상청에 따르면, 전국에 폭염특보가 발효된 가운데 비구름대를 동반한 기압골의 영향으로 25~26일 중부지방을 중심으로 많은 비가 예고됐다.&lt;br&gt;&lt;br&gt;25~26일 예상 강수량은 수도권 30~100㎜, 강원도 20~80㎜, 충청권 10~80㎜, 전라권 10~60㎜, 경상권 5~30㎜, 제주도 5~30㎜ 등이다. 25일 경상권과 제주도엔 5~40㎜의 소나기도 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMLQEZVFKNN77JE6RGI423NQ2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동북·서북권에 호우경보가 발령된 지난 13일 오후 서울 성동구를 지나는 동부간선도로 차량통행이 통제되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강수 집중 시간은 서울을 비롯한 수도권은 25일 밤부터 26일 아침까지다. 시간당 30~50㎜의 집중호우가 퍼붓겠다. ‘매우 많은 비’의 기준이 시간당 30㎜ 이상이며, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다. 강원도는 26일 새벽부터 아침, 충남권은 26일 새벽부터 오전에 시간당 30㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;비가 내린다고 해서 폭염이 가시는 것은 아니다. 25일 아침 최저기온은 22~27도, 낮 최고기온은 30~36도로 예보됐다. 26일에는 비의 영향으로 최저 23~27도, 최고 30~34도로 기온이 소폭 내려가겠으나, 비가 그친 후에는 다시 빠르게 기온이 상승할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원래, 하반신 마비 극복하고 박사 학위 취득 “K팝 연습생 문제점 연구”</title>
+      <link>https://www.chosun.com/national/people/2025/08/24/INXRUH5HWJCKDECO6EVQFHEDCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/24/INXRUH5HWJCKDECO6EVQFHEDCM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 03:31:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTI3UELTZVFRRLKZQS2KQSW34I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원래가 박사 학위를 받고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 클론 출신의 강원래(56)가 명지대학교 일반 대학원에서 교육학 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;강원래는 지난 23일 소셜미디어를 통해 휠체어를 타고 졸업 가운을 입은 채 박사 학위를 받는 모습을 공개했다.&lt;br&gt;&lt;br&gt;강원래는 지난 19일 ‘케이팝 아이돌 연습생 양성 체계의 문제점과 개선 방안’이라는 제목의 논문으로 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;강원래는 박사 학위를 받는 사진과 함께 “저 이제 춤 박사, 강 박사”라는 글을 올리며 기뻐했다. &lt;br&gt;&lt;br&gt;강원래는 2015년 디지털서울문화예술대에서 학사를 마쳤고, 2020년 명지대 일반대학원 교육학 석사 학위를 취득했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRJRDEC3WFBTBCKEOWJBJREZ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박사학위를 취득한 강원래. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원래는 앞서 논문에 대해 “방탄소년단(BTS)과 블랙핑크를 배출한 K팝의 인기 요소는 다양하지만, 연습생 제도가 매우 중요한 기반이 되고 있다”며 “K팝 아이돌 연습생 양성 체계의 문제점과 개선책을 찾고 싶어 연구를 시작했다”고 설명한 바 있다.&lt;br&gt;&lt;br&gt;강원래는 클론 시절 ‘쿵따리 샤바라’, ‘초련’ 등의 히트곡으로 대중의 사랑을 받았다. 하지만 지난 2000년 오토바이 사고로 하반신 마비 판정을 받았다. 방송인 김송과 2003년에 결혼해 슬하에 아들 한 명을 두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘노란봉투법’ 무엇이 달라지나...노조 손해배상 책임 면제, 정리해고 이유로 쟁의 가능 </title>
+      <link>https://www.chosun.com/national/labor/2025/08/24/345JAVFS7BFQLDJD6ZXFOXJQSM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/24/345JAVFS7BFQLDJD6ZXFOXJQSM/</guid>
+      <dc:creator>박상현 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 03:20:28 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZ7BNLKY223J7GFL3C4IAZDWDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총, 진보당 등 노조법 2·3조 개정운동본부가 24일 서울 여의도 국회에서 열린 제428회 국회(임시회) 제2차 본회의에서 노동조합 및 노동관계조정법 일부개정법률안(대안) 가결을 지켜보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘노란봉투법’이 24일 국회 본회의를 통과하면서, 유예기간이 끝나는 6개월 후부터는 사용자가 손해를 입더라도 노조나 노동자의 손해배상 범위가 제한되는 등 노동자의 권리가 커지면서 현장에 큰 파장을 불러올 것으로 전망된다.&lt;br&gt;&lt;br&gt;이날 국회 본회의를 통과한 노조법 2·3조 개정안은 크게 사용자와 노동쟁의의 개념 등을 규정한 2조, 노조 활동과 관련한 손해배상 청구 및 배상 책임을 다룬 3조로 구분된다.&lt;br&gt;&lt;br&gt;◇하청업체도 원청과 단체교섭 가능&lt;br&gt;&lt;br&gt;2조에서는 ‘사용자’에 “근로계약 체결 당사자가 아니더라도 근로자의 근로조건에 대해 실질적이고 구체적으로 지배·결정할 수 있는 지위에 있는 자도 그 범위에 있어서는 사용자로 본다”는 내용이 추가됐다. &lt;br&gt;&lt;br&gt;이는 하청업체 등 간접고용 근로자도 원청 사용자와 단체교섭 등을 할 수 있도록 해 노동권을 보장한다는 취지다. 다만 일반적으로 사용자가 인정될 때처럼 교섭을 모두 할 수 있는 것은 아니고 안전 등 실질적 지배력이 미치는 일부 의제에 대해서만 가능하다.&lt;br&gt;&lt;br&gt;‘노동조합’ 정의에서 “근로자가 아닌 자의 가입을 허용하는 경우”는 노조로 보지 않는다는 부분도 삭제됐다. 특수형태근로종사자(특고)·플랫폼 종사자 등의 단결권을 보장하기 위한 것으로, 노조 주체가 근로자여야 한다는 전제는 유지된다.&lt;br&gt;&lt;br&gt;‘노동쟁의 개념’도 기존 ‘근로조건의 결정’에서 ‘근로조건의 결정과 근로조건에 영향을 미치는 사업 경영상의 결정’으로 수정됐다. 또 ‘사용자의 명백한 단체협약 위반’이라는 문구가 추가됐다. 이 조항은 작년 개정안에서 ‘근로조건’으로 바뀌었는데, 대상의 범위가 너무 포괄적으로 확대된다는 의견이 있어 이번 안에서는 범위를 제한했다.&lt;br&gt;&lt;br&gt;노동쟁의 대상에 구조조정·정리해고·사업 통폐합 등이 포함되는 것도 큰 변화다.&lt;br&gt;&lt;br&gt;◇사용자 손해 입어도 노동자 손해배상 범위 줄어들어&lt;br&gt;&lt;br&gt;3조에서는 사용자가 손해를 입었을 시에도 배상을 청구할 수 없는 조건에 단체교섭, 쟁의행위 외 선전전·피케팅 등 노조법에 따른 정당한 “그 밖의 노동조합 활동”을 추가했다. &lt;br&gt;&lt;br&gt;또 “사용자의 불법행위에 대해 노조 또는 근로자의 이익을 지키기 위해 부득이하게 손해를 가한 경우엔 배상 책임이 없다”는 조항, “사용자는 단체교섭 또는 쟁의행위, 그 밖의 노조 활동으로 인한 노조 또는 근로자의 손해배상 등 책임을 면제할 수 있다”는 조항이 신설됐다. &lt;br&gt;&lt;br&gt;이밖에 법원이 손해배상 책임을 근로자에게 인정하는 경우에도 신원보증인에게는 배상 책임을 물리지 않는다는 내용, 근로자에 대해 손해배상 책임 비율을 정하는 구체적 조건 등이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천 레미콘 공장 질식 사고 사망자 3명으로 늘어</title>
+      <link>https://www.chosun.com/national/incident/2025/08/24/SGBK2SM2LZCKNKWS7MMUEITPTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/24/SGBK2SM2LZCKNKWS7MMUEITPTE/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 03:17:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BERNIGJCWA2GG24JFMOACRNNIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 21일 오후 1시 29분쯤 전남 순천일반산업단지 내 레미콘 공장에서 지상 간이탱크 청소 작업자 3명이 쓰러져 소방당국이 구조작업을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 A레미콘 공장에서 화학약품 저장 탱크를 청소하던 직원들이 유독 가스에 질식된 사고와 관련해 사망자가 3명으로 늘었다. &lt;br&gt;&lt;br&gt;24일 전남경찰청 등에 따르면 이날 오전 질식 사고로 병원에서 치료를 받던 A레미콘 공장 공장장 김모(60)씨가 숨졌다.&lt;br&gt;&lt;br&gt;앞서 지난 21일 오후 1시 29분쯤 A레미콘 공장에서 작업자 3명이 쓰러졌다는 신고가 접수됐다. 화학약품 저장 탱크를 청소하러 들어갔는데 의식을 잃은 것 같다는 내용이었다.&lt;br&gt;&lt;br&gt;현장에 도착한 119 구조대원은 탱크 안에서 의식을 잃고 쓰러져 있던 김씨와 품질관리실장 우모(57)씨, 생산팀장 정모(53)씨를 발견했다. 소방 당국은 탱크의 출입구가 폭 40㎝ 정도로 좁아 굴착기로 탱크를 넘어뜨린 뒤 이들을 구조했다.&lt;br&gt;&lt;br&gt;신고 접수 1시간 45분 만에 김씨가 먼저 구조됐고 이어 우씨와 정씨를 차례로 구조됐다. 소방 당국은 탱크 안에 계속 공기를 주입했지만 우씨와 정씨는 숨졌다. 김씨는 병원으로 이송돼 치료를 받아왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>6개월 후 시행되는 ‘노란봉투법’...노동부 “노사 의견 수렴 TF 구성”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/24/MJLS6ZXLZJETFD2QVDVYJ5IHFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/24/MJLS6ZXLZJETFD2QVDVYJ5IHFQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 02:39:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUSLNACD7JMEFK44MJEHZ4WICA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 서울 여의도 국회에서 열린 제428회 국회(임시회) 제2차 본회의에서 노동조합 및 노동관계조정법 일부개정법률안(대안)이 더불어민주당 주도로 통과되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 이른바 ‘노란봉투법’으로 불리는 노동조합 및 노동관계조정법 2·3조 개정안이 국회 본회의를 통과하면서, 고용노동부가 향후 6개월의 법 시행 준비 기간 동안 노사 의견을 수렴하는 태스크포스(TF)를 구성한다고 밝혔다.&lt;br&gt;&lt;br&gt;노동부는 이날 “향후 6개월간의 시행 준비기간 동안 노사의 다양한 의견을 폭넓게 수렴하는 TF를 구성하고, 현장에서 제기되는 주요 쟁점과 우려 사항을 면밀히 파악할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;노동부는 “개정법의 실제 적용과 관련 의견을 상시로 수렴할 수 있는 경영계·노동계 상설 소통창구를 TF에 설치해 지속적이고 체계적인 피드백을 제공할 계획”이라며 “이를 통해 법 시행 과정에서의 불확실성을 최소화해 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “노동위원회와 법원에서 제시되는 판례와 판단 기준 등을 종합적으로 검토하고, 전문가들의 심도 있는 논의를 거쳐 원청의 사용자성 판단기준, 교섭 절차, 노동쟁의 범위 등에 대한 구체적 지침·매뉴얼을 정교하게 마련해나갈 계획”이라고 설명했다.&lt;br&gt;&lt;br&gt;또 “지방고용노동청을 통해서도 노란봉투법에 취약할 수 있는 권역별 주요 기업들을 진단하고, 필요시 교섭 과정에서의 컨설팅 등을 지원해 원·하청이 상생할 수 있는 교섭 사례를 창출해나갈 예정”이라고 했다.&lt;br&gt;&lt;br&gt;노란봉투법 시행 취지에 대해 노동부는 “변화한 노동 환경과 산업 구조에 대응해 권한과 책임이 불일치하는 제도적 사각지대를 해소하는 데 의의가 있다”며 “원·하청 등 다층적 산업구조 하에서의 실질적인 교섭권 보장, 과도한 손해배상 청구로 인한 노동권 위축 문제 등을 해소하는 법적 기반을 마련한 것”이라고 했다.&lt;br&gt;&lt;br&gt;김영훈 노동부 장관은 “이번 노조법 2·3조 개정은 산업 현장에서부터 노사 대화를 촉진하고, 노동시장 격차를 해소하기 위한 ‘대화촉진법’이자 ‘상생의 법’, 노동과 함께하는 ‘진짜 성장법’”이라면서 “일각에서 우려하는 무분별한 교섭이나 무제한 파업, 불법 파업에 대한 무조건적인 면책이 아니다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노란봉투법 국회 통과… 노동계 “진짜 사장 교섭 투쟁 본격화”</title>
+      <link>https://www.chosun.com/national/labor/2025/08/24/PHREYJAQTBAO7AF4PVKIFXBB3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/08/24/PHREYJAQTBAO7AF4PVKIFXBB3A/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 03:01:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SB7RRPIXSVOI5NYVTTBKJ5XE6E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;민주노총, 진보당 등 노조법 2·3조 개정운동본부가 24일 서울 여의도 국회 본청 앞 계단에서 노조법 2·3조 개정안 입법 환영 기자회견을 열고 구호를 외치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 노동조합법 2·3조 개정안(노란봉투법)이 국회 본회의를 통과하자 노동계는 환영의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;민주노총은 이날 오전 ‘20년 투쟁의 결실, 노조법 개정 통과 2026년 비정규직·특고(특수고용)·하청 노동자 권리 쟁취의 원년 열겠다’는 제목의 성명을 발표했다.&lt;br&gt;&lt;br&gt;이들은 “오늘의 성과는 그 숭고한 희생이 만든 역사적 결실. 민주노총은 이를 가슴 뜨겁게 환영한다”면서도 “이번 개정이 완전하지는 않다”고 했다. 그러면서 “아직도 수많은 노동자가 법의 울타리 밖에 남아 있으며, 사용자의 교묘한 회피와 정부의 미비한 대책이 남아 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “‘진짜 사장 교섭 쟁취 투쟁 본부’를 즉각 가동한다”며 “2026년 3월 개정 노조법이 시행되는 순간부터 그 힘이 현장에서 살아 움직이도록 만들 것. 2026년을 ‘비정규직·특수고용 권리 쟁취의 원년’으로 만들기 위해 교섭권 보장·노동자성 확대를 실질로 만드는 총력 투쟁에 나설 것”이라고 했다.&lt;br&gt;&lt;br&gt;이재명 정부를 향해서는 “법은 통과됐지만 후속 지침과 대책이 없다면 무용지물”이라고 했다. 그러면서 “민주노총은 정부가 법의 정신에 맞는 구체적 조치를 책임 있게 내놓을 것을 요구한다”며 “만약 정부가 노동자의 권리를 훼손하거나 축소한다면, 우리는 총력 투쟁으로 맞설 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경영계에는 “이번 개정을 부정하고 무력화하려는 어떤 시도도 꿈꾸지 말라”며 “교섭을 회피하고 책임을 회피한다면, 민주노총은 전 조직적 투쟁으로 ‘진짜 사장’을 단죄할 것”이라고 했다.&lt;br&gt;&lt;br&gt;한국노총도 이날 오전 ‘원청 교섭 시대 열렸다. 노조법 2·3조 국회 본회의 통과를 환영한다’는 제목의 입장문을 내고, “헌법이 보장하는 노동 3권 사각지대에 놓여 있던 특수고용·하청 플랫폼 노동자들이 진짜 사장을 상대로 노조할 권리를 대폭 확대할 수 있는 길이 드디어 열렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “노조법 2·3조 개정안의 국회 본회의 통과는 새로운 시작”이라며 “한국노총은 개정된 노조법이 현장에서 실효성 있게 작동하도록 집중 지원할 것”이라고 했다. 그러면서 “확대된 사용자 개념과 강화된 단체교섭 의무를 통해 원·하청 구조의 불합리한 관행을 근본적으로 개선하고, 특수고용 노동자의 노동자성이 일터에서 정당하게 인정받을 수 있도록 세심히 살필 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;국회는 이날 오전 본회의에서 표결에 부쳐 재석 의원 186명 중 찬성 183명, 반대 3명으로 노란봉투법을 의결했다. 이 법안은 사용자 범위와 노동쟁의 대상을 확대하고, 파업 노동자에 대한 기업의 손해배상 청구를 제한하는 내용이 핵심이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국전쟁 때 납북된 철도공무원…법원 “퇴직 연금 지급해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/24/COEFIU6ADFFBFMA7772OY4RFWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/COEFIU6ADFFBFMA7772OY4RFWY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 02:20:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2BV6CT3JFIBMDHFHGNR73MJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원 · 서울행정법원 청사 /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 강제 납북돼 북한에서 사망한 철도공무원에게도 퇴직연금을 지급해야 한다는 1심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 A씨 유족이 공무원연금공단을 상대로 낸 ‘퇴직연금 부지급 처분 취소’ 소송에서 원고 승소로 판결했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;6·25전쟁 당시 교통부 철도청 소속 철도공무원으로 근무하던 A씨는 1950년 7월 15일 인민군에 납북 당했다. 그는 북한에서 B씨와 결혼해 살다가 1996년 사망했고 B씨는 남편 사망 후 2003년 10월 탈북해 국내로 들어왔다.&lt;br&gt;&lt;br&gt;B씨는 작년 3월 공무원연금공단에 남편 A씨의 퇴직급여를 청구했으나, 공무원연금공단이 “A씨는 ‘공무원 재직기간’과 ‘기여금(보험료) 납입 요건’을 충족하지 못했다”며 거부하자 소송을 냈다. B씨 측은 A씨가 공무 수행 중 납북돼 당연퇴직이나 면직되지 않았기 때문에 공무원연금법이 제정·시행된 1960년 당시 공무원 신분을 유지하고 있었다고 주장했다.&lt;br&gt;&lt;br&gt;법원은 유족 손을 들어줬다. 먼저, 재직기간과 관련해 재판부는 “A씨는 납북 당시 공무원으로 재직했고, 당시 국가공무원법에 따르면 공무원의 납북이나 행방불명은 당연퇴직이나 면직 사유가 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;기여금 납입 요건에 대해서도 “A씨는 공무원연금법 제정 전 납북됐으므로 기여금을 납부하지 않았지만, 공무원연금법은 퇴직급여 수급 요건으로 기여금 납부를 요구하고 있지 않다”며 “이미 임용돼 공무원 신분이 된 이상 기여금이 적립되지 않았다는 이유로 연금법 적용대상자가 아니라고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여대생 난자 600만원 드릴게요”... 매매 유인한 30~40대 여성들</title>
+      <link>https://www.chosun.com/national/regional/2025/08/24/UUHLR5D5P5AMRARXMSK6SZJWFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/24/UUHLR5D5P5AMRARXMSK6SZJWFM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 02:41:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU35EWUILZHTMLUCBRRKTLMAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 부산법원종합청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 지역 대학교 여자 화장실에 난자를 제공하면 수백만 원을 주겠다는 전단을 붙인 여성 2명이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사5단독 김현석 부장판사는 생명윤리 및 안전에 관한 법률 위반 혐의로 기소된 40대 여성 A씨와 30대 여성 B씨에게 각각 징역 4개월에 집행유예 1년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 작년 부산 지역 대학 여자 화장실 4곳에 자신들이 개설한 카카오톡 오픈채팅방으로 연결되는 QR코드가 기재된 ‘고액 단기 알바’ 등의 전단을 붙여 난자 매매를 유인한 혐의를 받는다.&lt;br&gt;&lt;br&gt;현행법상 금전이나 재산상 이익을 목적으로 난자와 정자 제공을 유인하거나 거래하는 행위는 금지되고 있다.&lt;br&gt;&lt;br&gt;전단 부착 이후 일주일간 A씨에게는 6명이, B씨에게는 7명이 연락했다. 두 사람은 난자 기증자를 찾고 있다며 사례금 500만~600만원을 제시했으나 실제 매매로는 이어지지 않았다고 한다.&lt;br&gt;&lt;br&gt;김 판사는 “이 사건 범행은 죄질이 가볍지 않다”면서 “피고인들 모두 반성하고 있고, 초범인 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>남의 땅에 사과나무 심고 수확… 대법 “처벌 못해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/24/OPEOFX2MBFBJ7MK2SLNEYCP5PU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/OPEOFX2MBFBJ7MK2SLNEYCP5PU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 02:10:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남의 땅에 몰래 사과나무를 심고 수년간 재배해 사과를 수확했더라도 횡령이나 재물손괴죄로 처벌할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 A씨에게 횡령·재물손괴 혐의로 벌금 50만원을 선고한 원심 판결을 깨고 사건을 수원지법으로 돌려보냈다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 경기 시흥의 5244㎡(약 1580평) 땅에 주인 모르게 사과나무 40그루를 심은 뒤 2021년 10월 사과 80개, 2022년 10월 사과 160개를 수확한 혐의로 기소됐다. A씨는 이미 1999년부터 이 땅에 배추와 무, 고구마 등 농작물을 재배했고 2014년부터는 사과나무, 체리나무, 복숭아나무 등을 심은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;땅 주인 B씨는 2008년 땅을 상속받은 뒤 주로 외국에 살다가 2022년 10월에야 이런 사실을 알게 됐고, 땅과 사과나무가 자기 소유라고 주장하면서 A씨에게 더 이상 땅을 사용하지 말라고 요청했다. 그러나 A씨는 사과나무는 자기 소유라고 주장하며 땅을 매수하겠다는 제안을 했다. A씨는 이 분쟁 중에도 사과를 따갔고, 절도 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 A씨의 절도 혐의를 인정해 벌금 70만원을 선고했으나, 2심은 “(A씨가) B씨가 실제로 갖고 있던 사과를 훔친 것은 아니다”라며 절도 혐의를 무죄로 판단했다. 다만 2심은 사과나무 소유권이 B씨에게 있다고 보고, 횡령·재물손괴죄가 성립한다고 판단했다. 2심 재판부는 “A씨는 사과를 보관하고 있다가 B씨에게 돌려줘야 했는데 이를 가지고 간 것은 횡령이고, 사과나무에서 사과를 떼어낸 것은 B씨 소유의 사과나무를 손괴한 것”이라며 벌금 50만원을 선고했다.&lt;br&gt;&lt;br&gt;대법원 판단은 달랐다. 먼저 횡령 혐의에 대해 대법원은 “B씨는 토지를 상속받고도 관리하지 않다가 14년이 지나서야 토지와 사과나무 소유권을 주장한 반면, A씨는 비록 자기 소유가 아니지만 장기간 비용과 노력을 들여 사과나무를 재배해왔다”며 “토지 사용을 중지해달라는 요청을 받았다는 것만으로 A씨가 B씨를 위해 사과를 그대로 보관·유지해야 할 의무가 생겼다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재물손괴죄에 대해서는 “사과나무 과실인 사과를 수취하는 것은 사과나무 본래 용법에 따라 사용하는 것”이라며 “A씨가 B씨 소유 사과나무에서 무단으로 사과를 수취했다고 하더라도, 이는 B씨가 사과나무 효용을 누리지 못하게 되는 것일 뿐 사과나무 효용이 침해된 것이라고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소비쿠폰 이의신청, 3주 만에 6만건 돌파…최다 사유는?</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/24/OJLDAXRPVBGKHMPMNSIZYMBA6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/OJLDAXRPVBGKHMPMNSIZYMBA6E/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 02:50:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACYYTZ7ROAGAIJY6TXHLXTZUUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 전통시장에 민생회복 소비쿠폰 사용가능 점포 안내문이 게시돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민권익위원회가 운영한 1차 민생회복 소비쿠폰 이의신청 창구에 3주 만에 6만 건이 넘는 민원이 접수된 것으로 나타났다.&lt;br&gt;&lt;br&gt;24일 권익위는 1차 소비쿠폰 신청이 시작된 지난달 21일부터 이달 10일까지 3주간 국민신문고 누리집에서 이의신청 전용 창구를 운영한 결과 총 5만8873건이 접수됐다고 밝혔다.&lt;br&gt;&lt;br&gt;여기에 오프라인 등 다른 경로를 통해 접수된 5429건을 합하면 권익위에 접수된 이의신청은 총 6만4302건에 달한다.&lt;br&gt;&lt;br&gt;전용 창구 기준 최다 이의신청 사유는 ‘해외 체류 후 귀국’으로 2만4907건(42.31%)이 접수됐다.&lt;br&gt;&lt;br&gt;해외 체류자는 6월 18일∼9월 12일 사이 귀국한 경우 출입국 사실 확인과 이의신청 절차를 거치면 소비 쿠폰을 받을 수 있다.&lt;br&gt;&lt;br&gt;이어 주요 이의신청 사유는 ▲ 출생(1만636건·18.07%) ▲ 비수도권·인구감소지역 이사(4975건·8.45%) ▲ 재외국민·외국인(4689건·7.96%) 순이었다.&lt;br&gt;&lt;br&gt;출생 관련 이의신청이 많았던 이유는 소비쿠폰 지급 기준일인 6월 18일 이후 출생한 신생아도 출생신고를 마치고 9월 12일까지 이의신청을 하면 지급 대상이 될 수 있기 때문이다.&lt;br&gt;&lt;br&gt;비수도권·인구감소지역 이사 관련 이의신청이 많았던 이유는 1차 민생회복 소비쿠폰은 국민 1인당 기본 15만원을 지급하지만 비수도권 지역 주민에게는 3만원을, 농어촌 인구감소지역 주민에게는 5만원을 추가로 지급하기 때문이다.&lt;br&gt;&lt;br&gt;한편 1차 소비 쿠폰은 다음 달 12일까지 신청이 가능하며 오는 11월 30일까지 사용해야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴게소 세워둔 차량, 내리막길 굴러 고속도로 진입…연쇄 추돌 사고</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/24/HRUICHGL5ZCAPK33722QNY3TCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/HRUICHGL5ZCAPK33722QNY3TCI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 01:22:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBM5K4JQWVGRXBRZADMTP2I2HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;운전자가 탑승하지 않은 상태에서 고속도로에 진입한 차량. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴게소에 기어 중립 상태로 정차해 놓은 차량이 내리막길을 굴러 고속도로에 진입하면서 연쇄 추돌 사고가 발생했다. &lt;br&gt;&lt;br&gt;24일 충남소방본부 등에 따르면 전날 오후 9시 12분쯤 충남 논산시 벌곡면 호남고속도로 대전 방향 벌곡휴게소 인근에서 모닝 차량이 고속도로로 굴러가 다른 차량 4대와 추돌하는 사고가 발생했다. 당시 모닝 차량에 운전자는 탑승하지 않은 상태였다. &lt;br&gt;&lt;br&gt;다행히 이 사고로 6명이 다쳤지만 모두 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;당시 모닝 차량 운전자는 휴게소 주유소에서 주유를 하기 위해 정차했다. 이후 변속 기어를 중립에 놓고 화장실에 다녀오는 사이, 탑승자 없이 차량이 경사진 도로를 굴러가 고속도로 안으로 진입했다.&lt;br&gt;&lt;br&gt;고속도로에 들어온 모닝 차량을 주변을 지나던 차량 한 대가 먼저 추돌했고, 뒤따르던 차량 3대도 사고 차량을 피하지 못해 연쇄 추돌 사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰은 모닝 차량 운전자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘하트시그널4’ 유이수, 학폭·유흥업소 근무 부인 “유포자 고소”</title>
       <link>https://www.chosun.com/national/national_general/2025/08/24/UETVGL2W5FEMDGSD22VUWP5BG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/UETVGL2W5FEMDGSD22VUWP5BG4/</guid>
@@ -770,15 +869,6 @@
       <content:encoded>쌍방울 불법 대북 송금 사건을 수사했던 박상용 수원지검 부부장검사가 자신을 둘러싼 ‘울산지검 술판 의혹’과 ‘대변 의혹’을 제기한 민주당 의원들을 상대로 낸 민사 소송의 1심이 시작됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3GF6HGIDMXDTNWI37ZBT6CXKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이성윤 더불어민주당 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사25부(재판장 권기만)는 22일 박 검사가 이성윤·서영교 민주당 의원 등 9명을 상대로 제기한 3억원대 손해배상 청구 소송의 첫 변론 기일을 진행했다.&lt;br&gt;&lt;br&gt;재판부는 이날 박 검사 측에 “이성윤 의원이 ‘대변 사건’의 당사자가 박 검사라고 말한 것인지 의견을 내달라”고 요청했다. 이 의원이 적시한 허위 사실이 무엇인지 구체적으로 특정해 달라는 취지다.&lt;br&gt;&lt;br&gt;이 의원이 국회 법사위 전체 회의에서 대변 사건 등을 언급할 당시 박 검사의 이름을 직접 언급하지는 않았기 때문에, 명예훼손 성립 여부를 따지려면 박 검사가 피해자라는 점이 명확히 입증돼야 한다는 취지다.&lt;br&gt;&lt;br&gt;아울러 재판부는 피고 측에도 “대변 사건의 당사자가 박 검사라고 말한 근거와, 그 진위 확인을 위해 어떤 절차를 거쳤는지 서면을 제출하라”고 했다. 이 의원 등 피고 측은 국회의원의 면책 특권을 주장했고 재판부는 “법리적으로 검토해보겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이 의원은 지난해 6월 국회 법사위 전체 회의에서 2019년 울산지검 소속 검사 30여 명이 특수활동비로 술판을 벌였다는 의혹을 제기했다. 대북 송금 사건을 수사한 검사가 당시 술자리에 참여했고, 그 검사가 회식 후 청사 내 간부 식당에서 술을 마신 뒤 화장실 세면대 등에 대변을 바르는 행위를 했다는 의혹도 제기했다. 이후 서 의원은 민주당 최고위원회의에서 그 당사자가 박 검사라고 주장한 바 있다.&lt;br&gt;&lt;br&gt;이 의혹을 근거로 민주당은 지난해 7월 박 검사에 대한 탄핵소추안을 발의하기도 했다. 그러나 박 검사는 “명백한 허위 사실”이라고 반박했고, 정신적 피해를 호소하며 이 의원 등을 상대로 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;재판부는 오는 10월 24일 두 번째 변론을 열고, 당시 울산지검에서 박 검사와 함께 일했던 황모 변호사를 증인으로 부르기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>건설 현장 추락사고에 ‘중대재해’ 혐의로 건설사 대표 등 실형</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/22/SDGHQXTAIFD27PNLPN4GEORGLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/22/SDGHQXTAIFD27PNLPN4GEORGLM/</guid>
-      <dc:creator>대전=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 07:48:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O46NBFMMVZ2BMMMSQVEZ62PY2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 신축 공사현장에서 작업자가 추락해 숨진 사고와 관련해 건설사 대표 등에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사5단독 장원지 부장판사는 22일 중대재해처벌법 위반 혐의로 기소된 건설사 대표 A씨에게 징역 10개월을 선고했다. 현장소장 등 건설사 안전관리 책임자 3명에게 업무상과실치사 혐의가 적용돼 각각 징역 6~8개월이 선고됐다.&lt;br&gt;&lt;br&gt;또 중대재해처벌법 위반 혐의를 받는 하도급 업체 대표 B씨에게는 징역 1년에 집행유예 2년을, 업무상과실치사 혐의를 받는 안전관리 책임자에게는 징역 6개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;양벌규정에 따라 기소된 건설사에는 벌금 1억원, 하청업체에는 5000만원이 선고됐다.&lt;br&gt;&lt;br&gt;A씨 등은 2022년 3월 8일 대전 대덕구 한 아파트 신축 건설 현장 2층 발코니에서 콘크리트 벽면을 다듬는 작업을 하다가 70대 근로자가 5.7ｍ 아래로 떨어져 숨진 사고와 관련해 안전 확보 의무를 지키지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;장 부장판사는 “추락 방지망이 설치됐다면 피해자가 사망하지 않았을 텐데, 공법상 추락 방지망을 두 번 설치해야 한다는 비용 측면의 이유로 당시 안전 조치를 하지 않았다”면서 “건설 현장에서 가장 빈번한 안전 사고인 추락 방지를 위한 주의 의무를 소홀히 해 사고가 발생했는데도 반성하지 않아 엄하게 처벌할 필요가 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘세무조사 무마’ 윤우진 전 용산세무서장, 2심에서도 실형</title>
       <link>https://www.chosun.com/national/court_law/2025/08/22/RQ3JPCTR3BAJNPFSUFKZE45VBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/RQ3JPCTR3BAJNPFSUFKZE45VBQ/</guid>
@@ -789,15 +879,6 @@
     법원은 이날 변호사법 위반 혐의로 기소된 윤 전 서장에 대해 항소를 모두 기각하고 1심 징역 10개월을 유지했다. 다만 건강문제 등을 고려해 법정구속은 하지 않았다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사5-2부(재판장 김용중)는 22일 변호사법 위반 혐의로 기소된 윤 전 서장에게 1심과 같이 징역 10개월을 선고하고 3219만원 추징을 명령했다. 다만 윤 전 서장이 장기간 재판을 받아왔고 건강 상태가 안 좋은 점 등을 고려해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 청탁 목적으로 3000여 만원을 받은 점이 충분히 인정된다”면서 “이 사건의 각 증거 내용을 고려해 봤을 때 원심의 형이 부당하다고 보이지 않는다”고 판단했다.&lt;br&gt;&lt;br&gt;윤 전 서장은 2017~2018년 인천 영종도의 부동산 개발업자 A씨 등 2명에게서 세금 청탁·알선이나 대관비 명목으로 1억3000만원을 받은 혐의로 구속 기소됐다. 윤 전 서장은 A씨에게 “인천 세무서장은 내 후배로 친하다” “세금 거의 안 나오게 해주겠다”는 식으로 친분을 과시한 것으로 조사됐다. 또 2020년 한 법무법인에서 법률 사무 알선 대가로 금품을 챙긴 혐의도 받았다.&lt;br&gt;&lt;br&gt;앞서 1심은 윤 전 서장이 세무조사 청탁·알선의 대가로 받은 3000만원과 법률 사무 알선 대가로 받은 금품을 유죄로 인정해 징역 10개월을 선고했다. 1심은 “자신의 신분과 경력과 인맥을 이용해 세무공무원에게 청탁·알선하는 명분으로 금품을 수수해 이익을 취득하는 등 죄책이 심히 무겁다”고 지적했다.&lt;br&gt;&lt;br&gt;이날 2심 재판부 역시 원심 판단에 잘못이 없다고 보고 검찰과 윤 전 서장 측 항소를 모두 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검, 대통령 관저팀 행정관 23일 소환 </title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/5R3BSS5GG5CUFBYO6CPUIV7OLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/5R3BSS5GG5CUFBYO6CPUIV7OLQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 06:26:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXTRLWJCHFWC5WTSIJXNGJCOBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검팀의 박지영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 ‘계엄 해제 의결 방해’ 의혹과 관련해 대통령 관저팀 소속으로 근무했던 정지원 전 대통령실 행정관을 오는 23일 참고인 신분으로 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서 관련 질의에 “소환 요청을 한 것이 맞다”고 밝혔다. 특검은 정 전 행정관을 상대로 추경호 당시 국민의힘 원내대표가 계엄 전후로 대통령 관저를 방문했는지, 윤석열 전 대통령과 계엄을 사전에 논의했는지 등을 확인할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 오전 9시 30분부터 한덕수 전 국무총리를 재차 소환해 조사하고 있다. 한 전 총리는 지난 19일 앞선 조사에서 기존 진술을 뒤집고 윤 전 대통령에게 계엄 선포문을 받았다고 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박 특검보는 “범죄를 시인한 것으로 볼 수 있을지 모호하다”며 “(진술을 바꾼) 경위 등을 봤을 때 과연 시인으로 볼 수 있을지에 대한 평가가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;이미 한 전 총리가 정장 주머니에서 계엄 선포문으로 추정되는 문건을 꺼내는 장면이 담긴 CCTV 영상과 관련자 진술 등 증거가 다수 확보된 상황에서, 뒤늦은 혐의 인정이 과연 ‘범죄 시인’으로 볼 수 있는지 따져보겠다는 것이다.&lt;br&gt;&lt;br&gt;박 특검보는 “한 전 총리의 혐의와 관련해 가장 큰 테마는 내란 관여 여부”라며 “이 부분을 인정하는지 여부가 중요한 부분으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국무총리는 대통령을 보좌하기도 하지만 견제하는 기관이기도 하다”며 “헌법을 수호하고 국가와 국민을 수호하는 책무를 하는 데 중점을 두고 보좌했는지 살펴볼 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>처자식 살해한 父의 탄원서... 판사도 “써준 사람은 정신이…”</title>
       <link>https://www.chosun.com/national/national_general/2025/08/22/NYHA3KMCKJDYVOC5LCCJZNWX6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/NYHA3KMCKJDYVOC5LCCJZNWX6Q/</guid>
@@ -805,27 +886,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 05:51:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4L5FPKAUZCHFBGDIEXUPXSP4EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목포해경이 지난 6월 진도군 진도항에서 일가족 4명이 탑승했던 차량을 인양하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수면제를 먹고 잠든 두 아들을 태운 차량을 바다로 돌진시켜 살해하고 아내를 죽음으로 내몬 가장이 선처를 구하는 탄원서를 법원에 제출했다. 재판부는 무책임한 가장의 선처를 요구한 이들을 나무랐고, 검찰은 무기징역을 구형했다. &lt;br&gt;&lt;br&gt;광주지법 형사12부(재판장 박재성)는 22일 살인 및 자살방조 혐의로 기소된 지모(49)씨에 대한 결심 공판을 열었다. &lt;br&gt;&lt;br&gt;지씨는 지난 6월 1일 오전 1시 12분쯤 전남 진도군 임회면 진도항(팽목항)에서 아내와 고등학생 두 아들을 태운 승용차를 몰고 바다로 돌진해 처자식 3명을 숨지게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;건설 현장 철근공으로 일한 지씨는 카드 빚 등 약 2억원의 채무, 자신이 관리한 일용직들에 대한 3000만원 상당의 임금 체불 등 문제를 겪고 있었다. 아내와 동반 자살을 결심한 지씨는 남겨진 자녀들이 부모 없이 힘든 생활을 이어갈 것을 예상해 자녀들까지 살해하기로 마음먹은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;지씨는 가족여행 도중 자녀들에게 수면제를 희석시킨 피로회복제를 마시게 했다. 팽목항이 생애 마지막 행선지일 줄 몰랐던 두 아들은 다음 날 아침에 함께 갈 맛집 등을 찾아보고 있던 때였다. 이후 지씨는 자신도 수면제를 복용한 채 차를 운전해 바다로 돌진했으나 순간적인 공포심 등을 느끼고 홀로 열려져 있던 운전석 창문을 통해 탈출했다. &lt;br&gt;&lt;br&gt;지씨는 육지로 올라온 뒤 구조 활동 없이 현장을 떠났고, 두 자녀와 아내는 모두 바다에서 숨졌다. 지씨는 지인의 차량을 이용해 광주로 이동했다가 경찰에 검거됐다. &lt;br&gt;&lt;br&gt;지씨는 검찰 측 공소 사실을 전부 인정하면서도 선처를 바라는 의견서와 탄원서를 법원에 제출했다. 이에 재판부는 “탄원서를 써준 사람들은 정신이, 뭐 하는 사람들인가”라고 질문했다. 지씨 측 변호인은 “의견서는 제가 작성했고, 탄원서는 피고인의 친형이 주변 지인들을 통해 제출했다”고 답했다. 재판부는 “119에 신고라도 해서 가족들을 살리려고 했어야 하는 것 아니냐”며 “본인은 멀쩡히 살아 있으면서 선처를 바라는 것이냐”고 지적했다. &lt;br&gt;&lt;br&gt;검찰은 “피해자인 두 아들은 학교를 마치고 가족여행에서 맛집을 찾아다니고 행복한 추억을 만들려고 노력했다”며 “피해자들은 아무런 의심 없이 피고인이 수면제를 탄 음료를 마시고 잠들었다”고 말했다. 이어 “두 아들은 1층에서 라면을 먹고 있었는데 아버지와 어머니는 2층에서 음료수에 수면제를 타고 있었다. 아이들은 부모가 자신들을 살해할 준비를 하는 것을 꿈에도 몰랐을 것”이라고 했다. 그러면서 “비정하고 무책임한 피고인을 사회로부터 격리해야 할 필요성이 인정된다”며 무기징역을 선고해달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;지씨는 최후 진술에서 “저의 잘못된 생각으로, 아이들한테 정말 죄송하게 생각한다”고 말했다. 지씨 측 변호인은 “노동청의 임금 체불 조사와 가족에 대한 잘못된 관념으로 벌어진 일”이라며 “선처를 바란다”고 했다. &lt;br&gt;&lt;br&gt;선고 공판은 다음 달 19일 오후 2시에 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 초 유방암 진단? 박미선 측 “개인 의료 정보”</title>
-      <link>https://www.chosun.com/national/people/2025/08/22/TQOVHOPSYJDYDLNNGBFWLJIPXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/22/TQOVHOPSYJDYDLNNGBFWLJIPXU/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 05:42:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDG4FTVTPBBBJNOJWBOL2I6UHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 박미선./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 박미선 측이 유방암 진단 보도에 “개인 의료 정보다”라는 입장을 내놨다. &lt;br&gt;&lt;br&gt;박미선 소속사 큐브엔터테인먼트 측은 22일 “개인 의료 정보로 정확한 확인은 어려우나 건강상의 이유로 휴식기를 갖고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;박미선은 올해 초부터 건강 문제로 휴식기를 가져왔다. 올해 초 소속사는 “건강상 이유로 휴식기를 갖고 있으며, 심각한 투병 중은 아니다”라며 “어느 정도 회복 후 복귀를 계획 중”이라고 알린 바 있다.&lt;br&gt;&lt;br&gt;방송계에 따르면 박미선은 올해 초 유방암 초기 진단을 받은 것으로 알려졌다. 박미선은 현재 예정된 방사선 치료를 모두 마친 상태이며, 약물 치료를 계속 받고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;박미선의 건강 이상설과 관련해 남편인 개그맨 이봉원은 지난 6월 MBC ‘라디오스타’에서 “잘 치료받고 쉬고 있다. 이번 기회에 제대로 충전하고 있다”고 말했다. 또 개그우먼 조혜련은 지난 18일 MBC 라디오 ‘두시의 데이트 안영미입니다’에 출연해 “사람들이 미선 언니의 근황을 궁금해하는데, 하루도 빠짐없이 기도한다”고 했다.&lt;br&gt;&lt;br&gt;박미선은 1988년 MBC 공채 개그우먼으로 데뷔했으며, 1993년 KBS 공채 개그맨 이봉원과 결혼해 슬하에 1남 1녀를 뒀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한라산 백록담 나무데크, 뜯어보니 쓰레기 천지</title>
-      <link>https://www.chosun.com/national/regional/2025/08/22/ZV6Y5SCEBFE4FBFFGVFERCJSUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/22/ZV6Y5SCEBFE4FBFFGVFERCJSUE/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 05:53:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZPHYLETXFEI3GYPPKE5CTLABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한라산국립공원 관계자들이 백록담 주변 나무테크 교체 과정에서 나온 쓰레기를 수거하고 있다./한라산국립공원관리소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산국립공원 정상인 백록담 주변 나무데크를 교체하는 과정에서 등반객이 버린 쓰레기가 무더기로 발견됐다.&lt;br&gt;&lt;br&gt;22일 한라산국립공원관리소에 따르면 지난 21일부터 백록담 동능 정상에 설치된 572㎡ 규모의 나무데크를 교체하는 동능 정비공사를 시작했다.&lt;br&gt;&lt;br&gt;이 나무데크는 탐방객들이 앉아 물이나 간식 등을 먹으며 쉴 수 있는 공간으로, 2006년 설치됐다. 등반객들의 발길이 흙이나 바위 등에 직접 닿지 않도록 백록담 주변 훼손을 막는 보호막 역할도 한다. 이 데크는 그동안 부분 보수는 있었지만 전면 교체는 19년만이다.&lt;br&gt;&lt;br&gt;19년 만에 데크를 뜯어내 보니 페트병, 컵라면 용기, 과자봉지 등 다양한 종류의 쓰레기들로 가득 차 있었다. 정상에 오른 등반객들이 보이지 않는 데크 틈 사이로 몰래 쓰레기를 버린 것이다.&lt;br&gt;&lt;br&gt;국립공원측은 10월 말까지 3개 구간으로 나눠 데크 교체와 쓰레기 수거를 병행할 방침이다. 수거한 쓰레기는 공사 자재 등을 실어 나르는 헬기로 옮긴다.&lt;br&gt;&lt;br&gt;앞서 국립공원관리소는 지난해 11월 직원과 한라산지킴이를 백록담 일원에 투입해 5L 비닐봉지 100여 개 등 약 1.5t 분량의 쓰레기를 수거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EEDMJNDY7VG4FDBCEJSQT3NU5U.jpg?auth=3f1dcba3072e7134203c8eaea3a65751c020a0c7489a193c9cb9220299dd2dbb&amp;smart=true&amp;width=631&amp;height=355" type="image/jpeg" height="355" width="631">
-        <media:description type="plain">한라산국립공원 관계자들이 백록담 주변 나무테크 교체 과정에서 나온 쓰레기를 수거하고 있다./한라산국립공원관리소</media:description>
-      </media:content>
     </item>
     <item>
       <title>특검, ‘김건희 계좌 관리’ 이종호 구속 기소</title>
@@ -882,24 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZWY5PLZL4TNCS42YCYWFCZ6HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 영도구 앞바다서 발견된 '흰배환도상어' 사체. /부산해경 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산해양경찰서는 22일 오전 6시 30분쯤 부산 영도구 봉래동 물양장 앞 해상에서 상어 사체를 발견해 인양했다고 밝혔다.&lt;br&gt;&lt;br&gt;길이 3ｍ, 무게 100㎏의 상어는 흰배환도상어로 확인됐다.&lt;br&gt;&lt;br&gt;흰배환도상어는 공격성이 약한 종으로 분류된다.&lt;br&gt;&lt;br&gt;해경은 해상 순찰을 하다가 바다에 떠 있는 상어를 발견했으며 발견 당시 이미 죽은 상태였다.&lt;br&gt;&lt;br&gt;해경 관계자는 “상어 사체가 조류로 떠밀려오며 해상에서 발견된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘세관 마약 수사 외압’ 합동수사팀, 임은정 동부지검장이 지휘</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/GETY3BVIMJF3RLOFAIV5TRYNGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/GETY3BVIMJF3RLOFAIV5TRYNGM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:55:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NWCSZOKEG5LMHFPL66YJFOZY3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 4일 서울 송파구 서울동부지검에서 열린 취임식에서 취임사를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임은정 서울동부지검장이 윤석열 정부 때 불거진 ‘세관 마약 수사 외압 의혹’을 수사 중인 합동수사팀을 지휘하게 됐다.&lt;br&gt;&lt;br&gt;대검찰청은 21일 보도자료를 통해 “대검 마약·조직범죄부에서 수사 상황을 지휘해온 합동수사팀을 서울동부지검에서 직접 지휘하도록 소속을 변경했다”고 밝혔다.&lt;br&gt;&lt;br&gt;대검은 지난 6월 검찰과 경찰, 국세청, 금융정보분석원(FIU)과 함께 서울동부지검에 합동수사팀을 구성하고, 사안의 중대성·관할 등을 고려해 대검 마약조직범죄부가 직접 수사를 지휘해왔다. 그러나 이번 검찰 인사에 맞춰 사무실이 있는 동부지검에서 직접 지휘하도록 변경한 것이다. 대검은 “신속한 의사결정이 필요하고 수사 과정의 공정성을 보다 객관적으로 담보하고자 검찰 인사에 맞춰 소속을 변경했다”고 설명했다.&lt;br&gt;&lt;br&gt;합동수사팀은 2023년 1월 서울 영등포경찰서가 필로폰 밀수 범행을 수사하는 과정에서 인천세관 공무원들이 연루됐다는 진술을 확보하자 대통령실과 경찰 등이 사건 은폐를 위해 외압을 행사했다는 의혹을 수사 중이다. 당시 수사를 담당한 백해룡(경정) 전 영등포경찰서 형사과장은 2023년 10월 언론 브리핑을 앞두고 당시 서울경찰청 생활안전과장이었던 조병노 경무관으로부터 “관세청 관련 문구 삭제를 요청하는 전화를 받았다”고 폭로했다. 또 당시 영등포서장이 “이 사건을 용산에서 심각하게 보고 있다”며 브리핑 연기를 지시했다고 주장했다.&lt;br&gt;&lt;br&gt;합동수사팀을 이끌게 된 임은정 지검장은 그간 해당 의혹에 적극적으로 목소리를 내왔다. 지난달에는 백 경정을 초청해 직접 면담하고 사건 관련 내용을 청취하기도 했다.&lt;br&gt;&lt;br&gt;당시 검찰 내부망에는 “검사장이 왜 근무 시간에 업무 연관성이 없는 인사를 검찰청으로 불러 이야기를 듣느냐”는 비판글이 올라왔다. 이에 대해 임 지검장은 “불신을 풀고 수사가 진척되기를 바라는 마음으로 하는 일이니 오해하지 마시기 바란다”는 댓글을 달았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘이종섭 귀국’ 방산회의 급조 의혹 수사… 외교부 실무자 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/VXM2YGXJVBEF7K25NWLAQ6WUZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/VXM2YGXJVBEF7K25NWLAQ6WUZE/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 02:38:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRLULV6XMG62XEBW2SM5KX5X4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방 장관이 작년 3월 28일 서울 종로구 외교부 청사에서 열린 방산협력 주요 공관장 회의에 주(駐)호주 대사로서 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 22일 외교부 실무자들을 불러 이종섭 전 국방 장관의 주(駐)호주 대사 임명 의혹과 관련해 작년 3월 ‘방산협력 주요 공관장 회의’가 급조됐다는 의혹을 조사 중이다. 이 전 장관은 작년 3월 호주 대사로 임명돼 출국한 지 11일 만에 여론이 악화하자 해당 회의에 참석하겠다며 귀국했는데, 이 과정에 절차적 문제가 없는지 확인하겠다는 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 이날 오전 이모 전 양자경제외교국 유럽경제외교과장 등 당시 방산협력 회의를 담당한 외교부 실무자들을 소환했다. 정민영 특검보는 이날 기자단 브리핑에서 “외교부 실무자들을 대상으로 방산협력 주요 공관장 회의에 관해 조사할 예정”이라며 “이 전 장관이 호주 대사에 임명된 이후 이뤄진 회의가 어떻게 진행됐는지 경위 등을 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이 전 장관은 고 채수근 상병 사건으로 고위공직자범죄수사처 수사를 받던 작년 3월 4일 호주 대사로 임명돼 엿새 후인 10일 출국했다. 이를 두고 ‘도피성 출국’ 논란이 커지자 같은 달 21일 귀국했다. 당시 이 전 장관의 귀국 명분은 같은 달 25일 열리는 ‘방산협력 주요 공관장 회의’에 참석하겠다는 것이었다.&lt;br&gt;&lt;br&gt;당시 외교가에서는 일부 공관장만 모아 방산 회의를 연 전례가 거의 없어 이 전 장관의 귀국을 위해 급조한 것이 아니냐는 의혹이 나왔다. 불과 한 달 후인 4월 말 모든 재외공관장이 참여하는 공관장 회의가 예정돼있기도 했다.&lt;br&gt;&lt;br&gt;정 특검보는 “이 전 장관이 호주 대사에 임명되고, 출국했다가 귀국하는 전반적인 과정을 다 살펴봐야 한다고 판단했다”며 “방산 회의 자체가 범죄를 구성한다고 볼 수는 없지만, 일련의 과정을 보면 고발된 ‘범인 도피’ 등에 대한 판단을 종합적으로 할 수 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;특검은 이날 이모 전 법무부 출입국심사과장을 소환해 이 전 장관의 대사 임명 이후 출국 금지 해제 경위에 대해서도 조사 중이다. 이 전 장관은 대사 임명 후 공수처에 의해 출국 금지돼있던 사실이 알려져 논란이 됐다. 법무부는 즉시 이 전 장관의 출국 금지를 해제하고 호주로 출국할 수 있게 했다. &lt;br&gt;&lt;br&gt;한편, 특검은 이날 박정훈(대령) 해병대 수사단장에 대한 항명죄 수사·기소를 주도한 김동혁 전 국방부 검찰단장과 김모 전 보통검찰부장 등도 다시 불러 조사 중이다. 이윤세 전 해병대사령부 공보실장도 소환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법, 당내경선서 ‘여론조사 지지’ 표지판 든 국힘 예비후보 벌금 50만원 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/08/22/WNJJESQDQREJRPFCYDPK4EYW3M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/WNJJESQDQREJRPFCYDPK4EYW3M/</guid>
@@ -916,51 +958,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 02:40:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWULLQMBXZEJPO7FZLISOM6HNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웃 주민의 방화로 불에 탄 전동 휠체어. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 험담한다며 이웃의 전동 휠체어에 불을 지른 50대 여성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 통영경찰서는 방화 등 혐의로 A씨를 긴급체포했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 21일 오전 8시쯤 통영시 광도면 한 아파트 2층 복도에 주차된 이웃의 전동 휠체어에 라이터로 불을 지른 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 불로 같은 층에 거주하는 이웃 주민 1명이 연기를 마셔 병원에 옮겨져 치료를 받았다.&lt;br&gt;&lt;br&gt;불은 전동 휠체어 등을 태운 뒤 출동한 소방대원에 의해 같은 날 오전 8시 25분쯤 모두 꺼졌다. 배터리 폭발 등은 일어나지 않았다. 다만 화재 대피 방송 등을 듣고 놀란 주민들이 대피하는 소동이 빚어졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YS53OPL2ZHIFASYBP6SH65CH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이웃 주민의 방화로 불에 탄 전동 휠체어. /경남소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 전동 휠체어 배터리 쪽이 아닌 상단 의자 부분이 많이 탄 것을 의심해 감시카메라(CCTV)를 분석해 누군가 고의로 전동 휠체어에 불을 붙이는 장면을 확인했다. 경찰은 방화 추정자로 A씨를 특정한 후 이날 오전 9시 21분쯤 아파트 단지 내 공터에 있던 A씨를 붙잡았다. 범행 때 쓴 라이터도 압수했다.&lt;br&gt;&lt;br&gt;A씨 역시 이 아파트 주민이었다. A씨는 “전동 휠체어 주인인 여성 B(50대)씨가 험담을 하고 다녔고, 며칠 전 승강이도 벌였다”며 “평소 개인 감정이 좋지 않아 그랬다”는 취지로 경찰에 범행을 시인했다고 한다.&lt;br&gt;&lt;br&gt;사건 당시 B씨는 화재 현장 주변에는 없었다고 한다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사건 경위와 범행 동기 등을 조사한 뒤 A씨에 대한 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>창원서 남학생이 밀어 여교사 요추 골절...전치 12주 부상 </title>
-      <link>https://www.chosun.com/national/2025/08/22/AX4TJO34LVFBND3VC2C7HI4PQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/22/AX4TJO34LVFBND3VC2C7HI4PQA/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:32:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BE4VDZQN3KYL4EYMTGN6HRGBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남교육청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 한 중학교에서 3학년 학생이 생활 지도 중이던 50대 여교사를 강하게 밀쳐 다치게 한 사건이 발생했다. 학교는 중대한 교육 활동 침해 사안으로 보고, 교권보호위원회 개최를 요청했다. &lt;br&gt;&lt;br&gt;22일 경남도교육청 등에 따르면 지난 19일 오후 1시쯤 창원 성산구 한 중학교 1학년 교실에서 A군이 B 교사를 밀쳤다. 점심시간 3학년인 A군이 1학년 교실에 들어와 있자, 해당 반 담임인 B 교사가 이유를 물으며 생활 지도를 하는 중 벌어진 일이었다. 넘어진 B 교사를 추가로 때리거나 위협하지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A군이 밀어 바닥에 강하게 넘어진 B 교사는 요추 골절 등 전치 12주의 치료를 요하는 상해를 입고 병원에 입원해 치료를 받고 있다. 교육 당국의 조사 결과, A군은 운동장에 있던 중 1학년 교실 쪽에서 자신을 부르고 놀리는 소리가 들려 해당 반에 찾아갔다고 주장한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;학교는 즉시 A군을 분리 조치했다. 해당 학생은 사건 이후 현재 등교를 하지 않고 가정에 머물고 있다고 한다. 학교는 또 사건 당일 교육지원청에 중대한 교육활동 침해 사안으로 유선 보고하고, 교육활동 침해 사안 신고서를 제출했다. &lt;br&gt;&lt;br&gt;경남도교육청 담당 장학사는 “교육지원청에 교권보호위원회 신고가 접수된 상태로, 학교에서 발생 보고서까지 제출하면 21일 안에 교권보호위원회를 개최할 것”이라며 “다친 선생님에 대해서는 긴급 보호 조치를 지원하고 있고, 나머지 학교 선생님, 학생들을 대상으로 교육과 치료 등이 이뤄질 수 있도록 지원할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;교권보호위는 심의를 통해 교원의 교육 활동을 침해한 학생에 대해 출석 정지, 전학 등의 조치를 할 수 있다. 또 교권 침해 피해를 입은 교원에 대해서는 특별 휴가, 심리 상담, 치료 지원 등을 심의해 권고한다. &lt;br&gt;&lt;br&gt;학교에서는 이 사건 당시 점심시간이라 현장을 목격한 학생들이 많은 만큼 심리 안정을 위한 특별 상담을 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>필로폰·케타민 6kg 몸에 붙여 들여온 마약 조직 12명 檢 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/08/22/74BSXS3PLJAJBOVOZAHE2GMTMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/22/74BSXS3PLJAJBOVOZAHE2GMTMI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:00:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4A43ZXXJGKUNHC52SWYLY2UUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초경찰서는 태국에서 필로폰·케타민 6kg을 국내로 밀반입한 마약조직 총책 30대 남성 A씨 등 12명을 지난해 10월부터 이번달까지 검찰에 송치했다고 21일 밝혔다. 이중 9명은 구속 상태로 넘겨졌다. 마약 6kg는 20만명이 동시에 투약할 수 있는 분량이다. 경찰은 아직 판매되지 않은 필로폰과 케타민 2.4kg를 압수했다.&lt;br&gt;&lt;br&gt;밀반입책 5명은 필로폰 3kg과 케타민 3kg을 몸에 부착해 숨기는 ‘바디패커’ 방식으로 지난해 9월부터 두 달 간 3차례에 걸쳐 국내에 마약을 들여온 것으로 조사됐다. 마약은 텔레그램을 통해 유통됐다. 고액 아르바이트라고 속여 유통책을 구한 뒤 마약을 판매했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰과 검찰에 총 4건의 수배가 내려졌던 상습 마약사범이었던 것으로 드러났다. 지난 4월 경찰청이 주최한 ’2025 아태지역 마약법집행회의(R-IDEC)‘에서 태국 마약통제청과의 회의를 실시하는 등 국제 공조를 한 경찰은 태국 현지에서 A씨를 검거, 8월 초 국내로 송환해 구속 송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, ‘건진법사’ 전성배 소환... 구속 직후 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/IA5RYDGBAZBCBEPOQ6YWQQXV24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/IA5RYDGBAZBCBEPOQ6YWQQXV24/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 01:00:24 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀은 통일교 고위 간부로부터 고가의 명품 목걸이와 가방 등을 받아 청탁과 함께 김 여사에게 건넨 혐의로 구속된 ‘건진법사’ 전성배씨를 22일 소환한다고 밝혔다. 전씨는 전날 오후 늦게 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/277WPCJ2QVFWBJDV6ZZBGW36O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'건진법사' 전성배씨가 21일 서울 종로구에 마련된 민중기 특검팀 사무실로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장 전담 부장판사는 지난 21일 특검이 청구한 전씨의 구속영장 청구서와 사건 관련 기록을 검토한 뒤, “증거를 인멸할 염려가 있다”며 영장을 발부했다. 특검은 전씨의 진술이 사실관계와 맞지 않고 일관되지 않으며, 전씨가 주거지를 여러 차례 옮긴 점 등을 들어 증거인멸과 도주 우려가 있다고 봤다. 전씨는 구속영장 실질심사를 포기했는데, 전씨 측은 본지에 “본인(전씨) 때문에 여러 사람이 고초를 겪는 상황을 견딜 수 없고, 당연히 본인도 잘못돼야 한다고 생각하는 만큼 구속을 받아들이기로 했다”고 설명했다.&lt;br&gt;&lt;br&gt;전씨는 2022년 4~8월 사이 통일교 전 세계본부장 윤영호씨로부터 정부 지원을 요청한다는 명목의 청탁과 함께 6000만원대 그라프 다이아몬드 목걸이, 1000만원 안팎의 샤넬 가방 2개와 천수삼농축차 2개를 받아 김 여사에게 전달한 혐의(특정범죄가중처벌법상 알선수재)를 받는다.&lt;br&gt;&lt;br&gt;특검은 지난 18일 전씨를 소환해 조사했다. 특검은 전씨가 김 여사에게 명품을 건넨 것으로 지목된 시기의 아크로비스타 출입 기록, 전 통일교 세계본부장 윤영호씨에게 보낸 문자메시지 등 특검 측에서 제시하는 증거들에 “모른다”는 취지로 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 동조’ 혐의 한덕수 전 총리, 내란특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/H7FAVEDHVRFQ3M64OFTAAS7IDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/H7FAVEDHVRFQ3M64OFTAAS7IDA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 00:24:55 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT6MJKOADIYH2R426SOEXVYNBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리가 22일 내란특검 사무실이 마련된 서울고검 청사로 출석했다. 지난달 2일, 지난 19일에 이어 세 번째 소환 조사다.&lt;br&gt;&lt;br&gt;한 전 총리는 이날 9시 24분쯤 서울고검 청사에 도착했다. 그는 ‘내란 가담·방조 의혹을 여전히 부인하는지’, 계엄 문건을 윤석열 전 대통령으로부터 받았는지‘, ‘진술 번복하신 이유가 무엇인지’ 등 취재진의 질문에 답하지 않고 곧장 조사실로 향했다. 지난 19일 16시간 20분 가량의 ‘마라톤 조사’ 이후 사흘만의 재조사다.&lt;br&gt;&lt;br&gt;한 전 총리는 앞선 조사에서 “계엄 당일 윤 전 대통령으로부터 계엄 관련 문건을 받은 기억이 없다”는 기존 진술을 뒤집고 “윤 전 대통령으로부터 계엄 선포문을 받았다”고 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그는 지난 2월 국회에서 계엄 선포문에 대해 “계엄 해제 국무회의가 될 때까지는 전혀 인지하지 못했고, (나중에) 양복 뒷주머니에 있는 것을 알았다”고 증언했다. 이후 헌법재판소에서 열린 윤 전 대통령 탄핵 심판에서도 “언제 어떻게 그걸 받았는지는 정말 기억이 없다”고 주장했다. 그러나 지난 19일 조사에서 “윤 전 대통령으로부터 선포문을 받았다”고 기존 진술을 번복한 것이다.&lt;br&gt;&lt;br&gt;한 전 총리는 ‘국정 2인자’로서 지난해 12월 3일 윤 전 대통령의 불법 비상계엄 선포를 막지 못하고 방조·가담한 혐의를 받고 있다. 특검팀은 한 전 총리가 작년 12월 3일 비상계엄 선포의 정당성을 확보할 목적으로 “정족수를 맞춰 국무회의를 해야 한다”고 건의해 국무회의를 소집함으로써 윤 전 대통령의 내란 행위에 가담·방조했다고 보고 있다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤 전 대통령이 최초 계엄 선포문의 법률적 결함을 보완하기 위해 사후 계엄 선포문을 작성하고 폐기했다는 혐의의 공범으로도 지목된 상태다. 또 계엄 당일 밤 11시12분쯤 추경호 전 국민의힘 원내대표와 통화하며 국회의 계엄 해제 의결 방해에 관여했다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;특검팀은 한 전 총리를 상대로 남은 조사를 진행한 뒤 구속영장 청구 여부를 결정할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘양평고속道 특혜 의혹' 양평군청 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/N4UPZBFFUBCJPH72B36MR4VGNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/N4UPZBFFUBCJPH72B36MR4VGNI/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 00:22:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KIQ2RNWWNDYVHJYEWRLQZBV6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검팀이 22일 ‘서울~양평 고속도로 종점 변경 특혜’ 의혹 관련 양평군청 등 10여곳에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검은 이날 오전 경기 양평군에 있는 양평군청과 세종시에 있는 관계자 주거지 등에 수사관을 보내 압수 수색하고 있다.&lt;br&gt;&lt;br&gt;이 사건은 윤석열 정부가 양평 고속도로 종점을 양평군 ‘양서면’에서 김 여사 일가의 땅이 있는 ‘강상면’으로 바꿔 특혜를 주려고 했다는 내용이다.&lt;br&gt;&lt;br&gt;양평 고속도로는 경기 하남시와 양평군을 잇는 사업으로, 2017년 1월 국토부의 ‘국가 고속도로 건설 계획’에 포함돼 국책 사업으로 추진됐다. 2021년 4월 예비 타당성 조사를 통과했는데, 당시에는 양평군 양서면에 종점을 만드는 것으로 설계됐다. &lt;br&gt;&lt;br&gt;그런데 윤석열 정부 2년 차인 2023년 5월 국토부는 갑자기 원안(양서면 종점)과 대안(강상면 종점)이 함께 표기된 계획안을 공개했다. 그러자 민주당 등 당시 야권에서는 강상면에 김 여사 일가 부동산 20여 필지가 있다며 특혜 의혹을 제기했고 이번 특검 수사 대상에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
