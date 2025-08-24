@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“샤워하는 딸에 잔소리하다 싸워”… 물 부족에 허덕이는 강릉</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/24/AOGHNB2V3NA7JOOL5PEYHMIS64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/AOGHNB2V3NA7JOOL5PEYHMIS64/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 10:13:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4S2CJGTZFA3WZ5LUTXSK7VPQ5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 강원 강릉시 주요 상수원인 오봉저수지와 일대 하천의 바닥이 드러나 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 강릉시가 극심한 가뭄에 절수 조치까지 나선 가운데 지역 주민들이 “청소까지 물티슈로 하고 있다”며 불편함을 호소하고 있다. &lt;br&gt;&lt;br&gt;최근 강릉 지역 커뮤니티에는 “참다 참다 도저히 안 돼서 물티슈로 화장실 청소를 했는데 이런 날이 올 줄이야”, “물 절약을 위해 빨래를 모아 색깔 분리 안 하고 빨았다”, “마음이 불편해 머리도 못 감는다” 등 불만을 내비치는 글들이 다수 올라왔다. &lt;br&gt;&lt;br&gt;또 다른 네티즌은 “샤워 시간이 길어지거나 컵을 씻거나 할 때 물을 줄이라고 잔소리를 했는데 딸이 ‘엄마 때문에 스트레스 받는다. 무서워서 물을 못 쓰겠다’며 신경질을 냈다”며 “물 쓰는 데 눈치 주는 것 같아 미안한 마음”이라고 했다. &lt;br&gt;&lt;br&gt;“빨래 안 하고 버티다 보면 상황이 나아질 거라고 생각하고 보름 치 모아서 빨 생각이었는데”, “휴교하면 아이들 타지에 있는 친척한테 맡겨야 하나”, “친정과 시댁 모두 강릉인데 어떻게 하나” 등 단수나 휴교 가능성을 걱정하는 목소리도 나오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPWRNLI7WFJ6HDX5IOIAUA2HNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 24일 극심한 가뭄으로 강원 강릉시 주요 상수원인 오봉저수지의 저수율이 17.8%(평년 69.0%)까지 떨어져 사상 최저치를 연일 갈아치우고 있다./연합뉴스
+  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPWS5YWZZVNANKVST7VHSM4RFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 23일 강원 강릉시 경포해수욕장에서 피서객들이 물놀이를 즐기고 있다. 경포는 지난 17일 폐장했지만, 피서객들의 발길이 이어지고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정기관의 대책이 미흡한 것 아니냐는 지적도 나왔다. 한 시민은 “강릉 해수욕장 306만 명 다녀갔다는데 폐장 늦추다 물 부족 더 심해진 것 아닌가. 왜 고통은 시민들만 지나. 기본 중 기본인 물 대책은 선제적으로 세워야 하는 것 아니느냐”고 했다. 또 다른 시민은 “피서객 몰려오면 물이 부족해지는 거 뻔히 알 수 있는데 그전에 조치했어야지”라고 했다. 물을 많이 사용하는 호텔과, 펜션, 수영장, 사우나 등에 대한 영업 제한 요구도 있었다.&lt;br&gt;&lt;br&gt;이외에도 일부 시민은 생수로 머리 감기, 머리 감은 물 변기 물로 쓰기, 땀 많이 안 난 날은 샤워 티슈로 씻기, 일회용 그릇·나무젓가락·종이컵 쓰기, 생수·햇반·컵라면 사 먹기 등 물 절약 팁을 공유했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5U7NWFTNFOIJPTFI365AFVQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 극심한 가뭄으로 강원 강릉시 주요 상수원인 오봉저수지의 저수율이 17.8%(평년 69.0%)까지 떨어져 사상 최저치를 연일 갈아치우고 있다./연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉시 생활·공급 용수의 87%를 담당하는 오봉저수지의 이날 오전 저수율이 17.8%(평년 69.0%)까지 떨어지면서 사상 최저치를 갈아치웠다. 시는 지난 20일부터 수도 계량기 50%를 잠그는 방식의 제한급수를 시행하고 있다. 시는 오봉저수지 저수율이 15% 미만으로 떨어지면 계량기를 75%까지 잠그고 농업용수 공급을 전면 중단한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한덕수 구속영장 청구... 특검 “내란 방조 혐의”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/24/FEMH4LUGZRATHFR4AQNC6HQV5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/FEMH4LUGZRATHFR4AQNC6HQV5Y/</guid>
+      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 08:55:17 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 관련 내란·외환 의혹을 수사 중인 조은석 특별검사팀이 24일 한덕수 전 국무총리에 대해 내란 방조 등의 혐의로 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBVYU7LKRUYGYCD22UMJMZ7MEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 22일 피의자 조사를 받기 위해 서울 서초구 서울고등검찰청에 마련된 내란 특검 사무실에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 “특검은 금일 오후 5시 40분 한 전 총리에 대해 내란 우두머리 방조, 위증, 허위공문서 작성, 공용서류손상 등의 혐의로 구속영장을 청구했다”고 이날 밝혔다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤석열 전 대통령의 비상계엄 선포를 방조한 혐의를 받는다. 윤 전 대통령의 위헌·위법한 비상계엄 선포를 적극적으로 저지하지 않고, 오히려 계엄에 형식적 정당성을 부여할 목적으로 국무회의 소집을 건의했다는 혐의다. &lt;br&gt;&lt;br&gt;박 특검보는 “국무총리는 행정부 내에서 국회 동의를 얻어 대통령이 임명하는 유일한 공무원이고, 대통령의 국가 및 헌법 수호의 책무를 보장하는 제1의 국가기관”이라고 강조했다. 그러면서 “위헌·위법한 비상계엄을 사전에 막을 수 있었던 최고의 헌법기관으로서 국무총리의 지위와 역할 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한 전 총리는 12·3 계엄 선포문의 법률적 결함을 보완하기 위한 사후 계엄 선포문을 작성하고 폐기하는 데 관여한 혐의도 받는다. 또 헌법재판소에서 ‘계엄이 끝날 때까지 계엄 선포문을 받은 사실을 인지하지 못했다’고 위증한 혐의도 있다.&lt;br&gt;&lt;br&gt;박 특검보는 구속영장 청구 사유로 “범죄가 중대하고 증거 인멸 및 도주의 우려, 재범의 위험성이 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;한 전 총리가 계엄 당일 국무조정실을 통해 한국예술종합학교에 대한 출입 통제를 지시했다는 의혹은 이번 구속영장에선 빠졌다. &lt;br&gt;&lt;br&gt;전직 국무총리에게 구속영장이 청구된 것은 헌정 사상 처음이다. 한 전 총리는 혐의를 부인하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>60대 이상 범죄자, 지난해 처음으로 20대 추월… 살인 피의자도 가장 많아</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/24/KVCMXKDWUREN7OBKNNRJ2ESDAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/KVCMXKDWUREN7OBKNNRJ2ESDAM/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 08:58:50 +0000</pubDate>
+      <content:encoded>지난해 전체 범죄 피의자 중 60대 이상 피의자가 차지한 비율이 처음으로 20대를 추월한 것으로 나타났다. 마땅한 역할 없이 사회적으로 밀려났다는 박탈감과 소외감, 경제적 불안에 시달리는 고령층이 범죄를 저지르는 사례가 늘었다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKIDHVY7MRAU3IMHXOI4YSYCJA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 경찰청이 발간한 2024년 경찰청 범죄통계에 따르면 지난해 발생한 전체 범죄의 피의자 수는 127만3472명이었다. 이 중 60대 이상 피의자가 23만8882명으로 전체의 18.8%를 차지해 20대(18.3%)보다 많은 것으로 나타났다. 60대 이상 피의자가 20대 피의자보다 많은 것은 지난해가 처음이다. 가장 피의자 수가 많은 연령대는 50대였다. 50대 피의자는 26만2570명으로 전체 피의자의 20.6%를 차지했다. &lt;br&gt;&lt;br&gt;60대 이상 피의자가 차지하는 비율은 2020년 15.8%에서 지난해 18.8%로 최근 5년간 매년 증가하고 있다. 같은 기간 20대, 40대, 50대 피의자의 비율은 전체적으로 감소하는 추세다.&lt;br&gt;&lt;br&gt;살인 등 강력 범죄 역시 60대 이상 피의자가 저지르는 사례가 늘고 있다. 2020년 강력 범죄 피의자 중 60대 이상은 3326명으로 전체 피의자의 12.4%였다. 이 수치는 이후 매년 증가해 지난해에는 각각 3691명, 15.7%가 됐다. 특히 살인의 경우 지난해 검거된 피의자 276명 중 61세 이상이 23.2%로 가장 많았다. 올해 들어서도 지난 5월 서울 지하철 5호선 객차에서 불을 지른 원모(68)씨, 지난달 인천 송도에서 사제 총기로 아들을 살해한 조모(62)씨 등 60대 이상 피의자의 강력 범죄가 이어졌다. &lt;br&gt;&lt;br&gt;현재 60대 이상은 최근 은퇴하기 시작한 약 1000만명의 2차 베이비부머(1964~1974년생) 세대에 해당한다. 전문가들은 이들이 과거 노인들보다 훨씬 건강한 데다 사회에서 충분히 역할을 할 수 있지만, 마땅한 일자리를 구하지 못하며 좌절과 분노를 느끼고 있다고 보고 있다. 이윤호 고려사이버대 경찰학과 석좌교수는 “늘어난 기대 수명에 비해 이른 은퇴에 직면한 현 60~70대는 경제·사회적으로 위치가 불안정하다”며 “사회적 박탈감과 소외감이 폭력의 도화선이 되는 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대관령 트레일런 대회 참가한 40대 경기 중 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/08/24/CNSIG27OUZDM7IIGHYJDHE4S4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/24/CNSIG27OUZDM7IIGHYJDHE4S4M/</guid>
+      <dc:creator>평창=정성원 기자</dc:creator>
+      <description>24일 오전 8시쯤 강원 평창군 대관령면 횡계리에서 열린 트레일 런 대회에 참가한 A(45)씨가 경기 중 쓰러져 숨졌다. 
+심정지 상태였던 A씨는 심폐소생술을 받으며 소방헬기를 이용해 병원으로 이송됐으나 끝내 숨졌다.
+</description>
+      <pubDate>Sun, 24 Aug 2025 09:05:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오전 8시쯤 강원 평창군 대관령면에서 열린 트레일런 대회에 참가한 A(45)씨가 경기 중 쓰러져 숨졌다. &lt;br&gt;&lt;br&gt;심정지 상태였던 A씨는 심폐소생술을 받으며 소방헬기를 이용해 병원으로 이송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;해당 대회에는 2000여명이 참가했으며 사고 당시 날씨는 기온 21.5도, 습도 97%로 확인됐다. 트레일런 대회는 산, 들, 숲 등 자연 지형을 달리는 스포츠다. &lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘인구 105만’ 화성시, 4개 일반구 생긴다</title>
+      <link>https://www.chosun.com/national/regional/2025/08/24/L74KIAXGQBGSZGOM5VYXIDF2TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/24/L74KIAXGQBGSZGOM5VYXIDF2TM/</guid>
+      <dc:creator>화성=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 24 Aug 2025 08:44:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJDTCSNKQMUYIAG4JGM5RDKJIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인구 105만명 대도시인 경기 화성시가 4개 일반구(區) 체제로 바뀐다.&lt;br&gt;&lt;br&gt;24일 화성시에 따르면 행정안전부는 지난 22일 화성시가 낸 ‘일반구 설치 계획’을 승인했다. 지난 화성시가 2010년 일반구 설치 기준인 인구 50만 명을 달성한 이후 15년 만이다.&lt;br&gt;&lt;br&gt;이에 따라 내년부터 만세구, 효행구, 병점구, 동탄구 등 4개 구가 신설된다. 화성시는 구 청사 설치, 조례 등 법령 정비, 조직·인사, 사업 발굴 등 내년 2월 구청 출범을 마무리할 계획이다. 화성시 관계자는 “시민이 생활권 내에서 행정서비스를 누릴 수 있는 ‘30분 행정 생활권 시대’가 열리게 되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;화성시 면적은 844㎢로, 서울의 1.4배에 달한다. 그동안 구청이 없어, 시민들은 여러 행정서비스를 받기 위해 시청까지 한 시간 이상 이동해야 하는 불편을 겪었다. &lt;br&gt;&lt;br&gt;일반구 출범으로 생활권 내 30분 내에서 세무, 인·허가, 복지, 민원 등 주요 행정업무를 구청에서 직접 처리할 수 있게 된다. &lt;br&gt;&lt;br&gt;정명근 화성시장은 “이번 일반구 설치로 시민과 가까운 곳에서 맞춤형 행정을 펼칠 수 있게 됐다”며 “행정체제 개편을 철저히 준비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교육감 시절 SNS에 장녀 책 홍보한 최교진...사위는 병역 거부 논란 </title>
       <link>https://www.chosun.com/national/education/2025/08/24/MECEQVDMGRBYVC2BNWSCCJSZ4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/24/MECEQVDMGRBYVC2BNWSCCJSZ4Y/</guid>
@@ -858,33 +907,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMGK6JWW5HN3YCUQTLMKM4OVYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 지원 사업 선정 청탁을 한 교수들에게 뇌물을 받은 혐의로 재판에 넘겨진 부산시 전 부시장이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 부산지법 서부지원 형사1부(재판장 김주관)는 뇌물수수 혐의 등으로 기소된 부산시 A 전 부시장에게 징역 2년에 집행유예 3년을 선고하고 1360만원 추징을 명령했다.&lt;br&gt;&lt;br&gt;법원은 또 신라대 산학협력단에서 면직된 교수 B씨에게 징역 1년 6개월에 집행유예 3년, 교수 C씨에게 징역 1년에 집행유예 2년을 선고했다. &lt;br&gt;&lt;br&gt;B씨와 C씨는 2016년 9월 당시 부산시 일자리경제본부장인 A 전 부시장의 가족 해외여행 경비 690만원을 대신 내준 혐의로 기소됐다. C씨는 2017년 1월에도 A 전 부시장 가족 해외여행 경비 690만원을 대신 내준 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 두 교수가 부산시가 출연하거나 보조하는 사업에 신라대 산학협력단이 선정되거나 사업상 편의를 얻으려고 돈을 준 것으로 봤다.&lt;br&gt;&lt;br&gt;재판부는 “A씨는 고위공무원으로 국책 사업에 개입하고 뇌물을 받고도 그 혐의를 인정하지 않고 있다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘경선 여론조사 결과 왜곡 공표’ 정봉주 前의원, 2심도 벌금</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/C4N2TFIBW5CSVKFWT6VEMJG5HQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/C4N2TFIBW5CSVKFWT6VEMJG5HQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 08:28:10 +0000</pubDate>
-      <content:encoded>지난 22대 총선 경선 과정에서 여론조사 결과를 자신에게 유리하게 왜곡해 유포함 혐의로 재판에 넘겨진 정봉주 전 더불어민주당 의원이 2심에서도 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VVCSALCLNGTKXKVICSGK3XCVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정봉주 전 더불어민주당 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 22일 공직선거법 위반 혐의로 기소된 정 전 의원에게 1심과 같이 벌금 300만원을 선고했다. 함께 기소된 카드뉴스 제작자 양모씨는 벌금 200만원을 선고받았다.&lt;br&gt;&lt;br&gt;재판부는 “카드뉴스에 지지율을 표시하며 강북구에 거주하는 성인 남녀 중 적극 투표층에 국한된 지지율인 것을 기재하지 않은 채 전체 지지율인 것처럼 공표했다”며 “일부 사실을 숨겨 대체적으로 진실이라 할 수 없는 것을 표현해 여론조사를 왜곡했다”고 했다. 이어 “이로 인해 선거인의 판단에 잘못된 영향을 미치고 선거의 공정성을 저해했다는 개연성이 인정된다”고 지적했다.&lt;br&gt;&lt;br&gt;검찰에 따르면 정 전 의원은 지난해 2월 민주당 강북을 경선에서 당시 상대방이었던 박용진 전 의원과의 여론조사 결과를 자신에게 유리하게 발표한 혐의를 받는다.&lt;br&gt;&lt;br&gt;정 전 의원은 박 전 의원과의 지지율 격차가 비교적 적었던 ‘적극 투표층’을 대상으로 한 여론조사 결과를 마치 전체 조사 결과인 것처럼 속여 카드뉴스 자료를 제작·배포한 혐의를 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 여사, 23일 특검 소환 조사 불출석... “건강상 이유”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/CTICRAUXIBCLFFEYTZOAGK2D4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/CTICRAUXIBCLFFEYTZOAGK2D4I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 08:28:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MCKAY7NI5K6NA2O3IXFFSTOEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 변호인단은 오는 23일로 예정된 민중기 특별검사팀의 소환 조사에 출석하지 않을 예정이라고 22일 밝혔다. 사유는 ‘건강상 이유’로, 불출석사유서를 제출할 계획이라고 한다.&lt;br&gt;&lt;br&gt;김 여사는 구속 이전부터 우울증, 식이장애, 허리 디스크를 앓는 등 건강이 좋지 않은 상태인 것으로 알려져 있다. 장시간 앉아 조사에 임하는 것이 어렵다는 얘기다. 앞선 세 차례의 조사도 6시간가량에 그쳤다.&lt;br&gt;&lt;br&gt;특검은 김 여사를 지난 12일 구속한 뒤 ‘명태균 공천개입’ 의혹과 ‘도이치모터스 주가조작’ 의혹 보강 조사를 마친 상태다. 지난 18일부터 ‘건진법사·통일교' 청탁 의혹 조사를 진행 중이다. 특검도 김 여사 측 불출석 사유서를 받았고, 오는 25일 오전 10시에 출석하라고 다시 통보했다.&lt;br&gt;&lt;br&gt;한편, ‘건진법사’ 전성배씨도 이날 오후 2시로 예정된 특검 소환 조사에 건강상 이유를 들어 불출석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘건진법사’ 전성배, 25일 특검 소환 응한다... 출석 의사 밝혀</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/22/AWINUFRK2RBLFLYIY3TXNXPXRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/22/AWINUFRK2RBLFLYIY3TXNXPXRU/</guid>
-      <dc:creator>이민경 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 08:45:56 +0000</pubDate>
-      <content:encoded>통일교 고위 간부로부터 고가의 명품 목걸이와 가방 등을 받아 청탁과 함께 김건희 여사에게 건넨 혐의로 구속된 ‘건진법사’ 전성배씨가 오는 25일 특검의 소환에 응하는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6FD6VYMZ4CGB2TK5BTZP2BODYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 본지 취재를 종합하면, 전씨 측은 이날 특검에 25일 소환 통보에 응하겠다는 의사를 밝혔다. 당초 특검은 전씨에게 이날 오후 2시 출석해 조사 받으라고 통보했지만, 전씨 측은 건강상 이유를 들어 응하지 않았다.&lt;br&gt;&lt;br&gt;전씨는 지난 21일 구속돼 서울구치소에 수감됐다. 서울중앙지법 남세진 영장 전담 부장판사는 특검이 청구한 전씨의 구속영장 청구서와 사건 관련 기록을 검토한 뒤, “증거를 인멸할 염려가 있다”며 영장을 발부했다. 특검은 전씨의 진술이 사실관계와 맞지 않고 일관되지 않으며, 전씨가 주거지를 여러 차례 옮긴 점 등을 들어 증거인멸과 도주 우려가 있다고 봤다. &lt;br&gt;&lt;br&gt;전씨는 구속영장 실질심사를 포기했는데, 전씨 측은 본지에 “본인(전씨) 때문에 여러 사람이 고초를 겪는 상황을 견딜 수 없고, 당연히 본인도 잘못돼야 한다고 생각하는 만큼 구속을 받아들이기로 했다”고 설명했다.&lt;br&gt;&lt;br&gt;전씨는 2022년 4~8월 사이 통일교 전 세계본부장 윤영호씨로부터 정부 지원을 요청한다는 명목의 청탁과 함께 6000만원대 그라프 다이아몬드 목걸이, 1000만원 안팎의 샤넬 가방 2개와 천수삼농축차 2개를 받아 김 여사에게 전달한 혐의(특정범죄가중처벌법상 알선수재)를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“멈춰달라” 애원에도 또래 뺨 계속 때린 여중생…가정법원 송치</title>
       <link>https://www.chosun.com/national/incident/2025/08/22/3WCAYGGISJA5TOVE2SA24LHAS4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/22/3WCAYGGISJA5TOVE2SA24LHAS4/</guid>
@@ -892,24 +914,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 08:49:31 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ7F6SJWBZA7TJGWBMAWBSBGCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 송도의 한 아파트 단지 지상주차장에서 여중생이 또래 학생의 뺨을 때리는 장면이 담긴 ‘학폭(교내 폭력)’ 영상. / 인스타그램 화면 캡쳐.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또래 학생의 뺨을 수차례 때린 중학생과 이를 부추긴 고등학생이 각각 가정법원과 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 폭행과 특수협박 등 혐의로 중학생 A(14)양을 인천가정법원에 송치했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 범행 당시 A양의 나이가 만 13세로, 만 10세 이상 14세 미만의 촉법소년(형사미성년자)이라 가정법원 소년부로 송치됐다고 설명했다. 촉법소년은 감호 위탁, 사회봉사 명령, 보호관찰, 소년원 송치 등 1~10호의 보호 처분을 받는다. &lt;br&gt;&lt;br&gt;A양은 지난해 11월 인천시 연수구 송도동의 한 아파트 주차장에서 또래 중학생 C양의 뺨을 7차례 때리고 흉기로 위협한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 또 폭행 방조 혐의로 고등학생 B군을 불구속 입건해 검찰에 송치했다. &lt;br&gt;&lt;br&gt;B군은 A양의 범행 당시 현장에서 범행을 적극 부추기는 등 폭행을 방조한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 폭행 장면을 촬영한 고등학생은 범행에 적극적으로 가담하지 않은 것으로 보고 협의 없음으로 불송치 결정했다. 폭행 현장을 구경하던 다른 아이들도 같은 이유로 입건하지 않았다. &lt;br&gt;&lt;br&gt;경찰은 폭행 영상을 사회관계망서비스(SNS)에 게시한 인물을 특정하기 위해 인스타그램 등을 상대로 수사를 진행했으나 신원을 확인하지 못해 관련 수사를 중지하기로 결정했다. &lt;br&gt;&lt;br&gt;경찰은 지난 5월 2일 “학교 폭력 영상이 인스타그램에 올라왔다”는 신고를 받고 A양과 폭행 방조범, 영상 촬영자‧유포자 등을 상대로 수사를 진행했다. &lt;br&gt;&lt;br&gt;‘인천 송도 11년생 학폭 영상’이란 제목의 1분 39초짜리 동영상엔 A양이 야간에 아파트 단지 지상 주차장에서 C양의 뺨을 손으로 7차례 때리는 장면이 담겼다. C양이 “미안해. 그만해 달라”고 애원했음에도 A양은 계속해서 뺨을 때렸다. &lt;br&gt;&lt;br&gt;이 영상은 온라인에서 빠르게 확산됐고, A양의 이름과 학교, 연락처 등도 노출됐다.&lt;br&gt;&lt;br&gt;경찰은 2차 피해를 최소화하기 위해 방송통신심의위원회에 영상 삭제를 요청하고, 최초 유포 동영상을 비롯한 대부분의 영상을 지울 수 있도록 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘李 대통령 커피 원가 120원 발언 비판' 김용태 불송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/22/DMOBBFC5MRH2LGZYKQTKE7BCZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/22/DMOBBFC5MRH2LGZYKQTKE7BCZQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 08:50:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2OHE5GOAVRBWLLX6MFLYWIVOMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용태 국민의힘 공동선거대책위원장이 지난 5월 19일 서울 영등포구 국회에서 열린 중앙선거대책위원회회의에서 커피를 마시고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 이재명 대통령의 대선후보 시절 ‘커피 원가 120원’ 발언을 비판했다가 고발당한 김용태 국민의힘 의원에 대해 경찰이 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;22일 경찰에 따르면 서울경찰청 공공범죄수사대는 지난 12일 공직선거법 위반 혐의로 수사를 받아온 김 의원의 범죄 혐의를 인정하기 어렵다며 불송치 처분했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 대선후보 시절인 5월 16일 전북 군산 유세에서 “커피 한 잔 팔면 8000원에서 1만원을 받을 수 있는데 원가가 내가 알아보니까 120원이더라”고 말했다. 경기지사 시절 계곡에서 닭백숙 등 불법 영업을 막기 위해 상인들의 업종 전환을 설득한 일을 이야기하면서 나온 발언이다.&lt;br&gt;&lt;br&gt;이에 당시 국민의힘 비상대책위원장이었던 김 의원은 페이스북에 “이 후보의 발언에 커피로 생계를 이어가는 수많은 자영업자들은 가슴을 쳤다”고 썼다. 이에 이건태 민주당 선거대책위원회 법률대변인은 “이 후보는 ‘(자영업자가) 커피를 너무 비싸게 판다’는 말을 한 사실이 없다”면서 김 위원장을 공직선거법상 허위 사실 공표 혐의로 고발했다.&lt;br&gt;&lt;br&gt;한편 국민의힘은 같은 달 19일 김 의원이 고발당한 것에 반발해 이 대통령을 무고, 공직선거법상 허위 사실 공표, 자영업자 등에 대한 명예훼손 혐의로 맞고발했다.&lt;br&gt;&lt;br&gt;경찰은 국민의힘 고발 사건에 대해서도 같은 사유로 불송치 처분을 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> ‘돈 봉투 수수 의혹’ 김영환 충북지사 “심려 끼쳐 죄송하다”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/22/RPNZC7DATZEOXF3I3ZGBRVIZ64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/22/RPNZC7DATZEOXF3I3ZGBRVIZ64/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 08:51:18 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKXHZORJJFCCFCUAZI7DQSZXWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;간담회 주재하는 김영환 충북지사/충북도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘돈 봉투 수수 의혹’이 불거진 김영환 충북지사가 결백을 주장하며 도민에게 고개를 숙였다. &lt;br&gt;&lt;br&gt;김 지사는 22일 ’2025 영동세계국악엑스포‘와 ’2025 제천국제한방천연물산업엑스포’ 성공 개최를 위한 간담회 자리에서 “도청 압수수색과 관련해 사실 여부를 떠나 도민들께 심려를 끼쳐 죄송하다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “경찰 수사가 진행되면 명백하게 해명될 것”이라며 “도청과 산하기관 임직원들은 흔들림 없이 맡은 바 일에 최선을 다해 줄 것을 당부드린다”고 말했다.&lt;br&gt;&lt;br&gt;김 지사는 이날 도내에서 치러질 ‘영동국악엑스포’와 ‘제천한방엑스포’ 성공을 위한 당부의 말도 전했다. &lt;br&gt;&lt;br&gt;그는 “그동안 많은 노력을 기울여 준비한 두 엑스포가 반드시 성공할 수 있도록 총력을 다해달라”며 “행사장을 직접 찾아 현장을 챙기며 진두지휘할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;김 지사는 지난 6월 26일 오전 집무실에서 도내 체육계 인사 A씨에게 현금 500만원이 든 봉투를 건네받은 혐의(청탁금지법 위반)로 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 식품제조업체 대표 B씨가 250만원씩 돈을 모아 김 지사에게 전달한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;전날인 21일 충북경찰청 반부패경제범죄수사대는 충북도청에 수사관 9명을 보내 도지사 집무실과 비서실 등을 압수수색, 김 지사의 휴대전화 등을 확보했다. &lt;br&gt;&lt;br&gt;경찰은 관련 자료를 분석한 뒤 관계자들을 차례로 불러 조사할 방침이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>처자식 살해한 父의 탄원서... 판사도 “써준 사람은 정신이…”</title>
