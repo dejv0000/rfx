@@ -13,6 +13,52 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>말벌집 제거하려다 산불… 삼척 산불 6시간 넘게 이어져</title>
+      <link>https://www.chosun.com/national/incident/2025/08/25/ZFRHBN4UEBGTRNJOO2KMZP7RKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/25/ZFRHBN4UEBGTRNJOO2KMZP7RKE/</guid>
+      <dc:creator>삼척=정성원 기자</dc:creator>
+      <description>강원 삼척시 한 야산에서 불이 나 산림 당국이 6시간 넘게 진화작업을 벌이고 있다.
+25일 오전 11시 54분쯤 강원 삼척시 가곡면 오목리 한 야산에서 불이 났다.</description>
+      <pubDate>Mon, 25 Aug 2025 09:41:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YVQRFWEWPH2LEV55URWQZ33XXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 삼척 산불./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 삼척시 한 야산에서 불이 나 산림 당국이 6시간 넘게 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;25일 오전 11시 54분쯤 강원 삼척시 가곡면 오목리 한 야산에서 불이 났다. 이날 불은 마을 주민이 말벌집을 제거하기 위해 불을 냈다가 야산으로 번진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불이 나자 산림 당국은 헬기 6대 등을 투입해 불을 끄고 있으나 산이 가팔라 진화에 어려움을 겪고 있다. 현재 진화율은 90%다. &lt;br&gt;&lt;br&gt;인근에 민가가 없어 주민 대피령은 발령되지 않았다.&lt;br&gt;&lt;br&gt;산림 당국 관계자는 “진화 작업을 마치는 대로 피해 규모 등을 조사할 예정”이라며 “불은 현재 가둬진 상태여서 추가 확산은 없을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘처서 지났는데…’ 아산서 온열 질환 추정 1명 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/25/HW5JEYUYWBEDJD3Z5TJNO5ZUHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/25/HW5JEYUYWBEDJD3Z5TJNO5ZUHI/</guid>
+      <dc:creator>아산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 09:12:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O6DE7VK3VRJBTMBPYE6RUJ246U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 폭염경보가 발효된 서울 송파구 석촌호수 사거리에서 시민들이 양산을 쓴 채 걸어가고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무더위가 누그러진다는 처서가 지났지만 폭염이 이어지면서, 충남 아산에선 온열 질환 추정 사망 사고가 발생했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 25일 오후 1시 20분쯤 충남 아산시 인주면 한 공장 야외에서 50대 근로자 A씨가 쓰러져 병원으로 옮겨졌지만 숨졌다. A씨는 점심시간에 다른 근로자들과 함께 밭에서 예초 작업을 하다가 어지러움을 호소하며 실내로 들어와 쉬던 중 쓰러진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 아산의 낮 최고 기온은 36도로 폭염경보가 발효된 상태였다.&lt;br&gt;&lt;br&gt;경찰은 온열질환으로 추정하고 주변 동료들을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;앞서 오전 11시 22분쯤 서산시 고북면 한 밭에서는 비닐 작업을 하던 50대 남성 B씨가 “온몸에 쥐가 난다”고 열경련을 호소하며 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;오후 2시 17분쯤 세종시 부강면에서는 밭일을 하던 70대 C씨가 쓰러져 병원에서 치료를 받았다. 당시 C씨 체온은 40도에 달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 오후 4시까지 충남과 세종에서는 온열질환 의심 신고가 각각 3건, 1건 접수됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘전세 사기 자금줄’ 새마을금고 임원 등 자산 29억 동결</title>
+      <link>https://www.chosun.com/national/regional/2025/08/25/SLAHVAHK6VEQJHSHLZ3KOME3L4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/25/SLAHVAHK6VEQJHSHLZ3KOME3L4/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 08:43:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CFT6AC2NEVZBEWW54FAC53YJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전고등지방검찰청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전세 사기 사건에 자금줄을 댄 혐의로 대전의 한 새마을금고 임직원 등을 기소한 대전지검이 이들의 자산을 동결해 사기 피해 회복을 위한 재원을 마련키로 했다.&lt;br&gt;&lt;br&gt;대전지검 공판부(부장 최정민)는 새마을금고 전 전무이사 A씨와 전세 사기 브로커 B씨 등이 숨겨둔 범죄수익을 추적해 자산 약 29억원을 동결했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;검찰이 계좌 추적과 압수수색을 통해 확보한 자산은 이들이 전세 사기 범죄로 취득한 것으로, 아파트 등 부동산과 고급 외제 승용차, 비트코인 등 가상 자산, 예금 4억원 등이다.&lt;br&gt;&lt;br&gt;앞서 검찰은 금품을 받고 건설업자에게 불법 대출을 해주며 전세 사기 사건의 자금을 댄 혐의(특정경제범죄가중처벌 등에 관한 법률 위반)로 새마을금고 임직원 6명을 기소했다.&lt;br&gt;&lt;br&gt;이들에게 돈을 건넨 혐의를 받는 건설업자 5명과 브로커 2명도 재판에 넘겼다.&lt;br&gt;&lt;br&gt;검찰은 이들로부터 동결한 범죄수익이 전세 사기 피해자들의 피해 회복에 사용되도록 적극적으로 검토할 계획이다.&lt;br&gt;&lt;br&gt;대전지검 관계자는 “전세사기 등 범죄로 취득한 범죄수익은 끝까지 추적해 환수할 방침”이라며 “피해자들의 피해가 실질적으로 회복되도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남도 ‘제조AI 거점된다’...1조원대 피지컬 AI개발 추진 </title>
+      <link>https://www.chosun.com/national/2025/08/25/6ZLHHVT3QVAH7DBJQWKX7DNNTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/25/6ZLHHVT3QVAH7DBJQWKX7DNNTU/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 08:37:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AESNGD566RCNRIO222NLNV32BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기존 공정(왼쪽)과 피지컬 AI 공정. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남에서 미래 먹거리로 불리는 피지컬 AI(인공지능) 기술 개발이 이뤄진다. 제조 분야에 특화된 ‘챗GPT’ ‘딥 시크’를 개발해 생산 공정은 높이고 품질 불량은 크게 줄인다는 목표다. AI가 사람 대신 공장장 역할을 하는 것이다. &lt;br&gt;&lt;br&gt;경남도는 제조 분야 피지컬 AI 파운데이션 기술 개발·실증 사업이 예비타당성조사(예타) 면제를 받았다고 25일 밝혔다. 앞서 정부는 AI 3대 강국을 목표로 경남을 비롯해 전북과 광주, 대구 등 4개 지역을 지역 특화 AI 모델 개발 혁신 거점으로 정하고 예타를 면제했다. &lt;br&gt;&lt;br&gt;경남에서 기술 개발과 실증이 이어질 피지컬AI는 인간형 로봇(휴머노이드), 자율주행차·스마트 기기 등 물리적 하드웨어에 탑재된 AI를 말한다. 세계적 반도체 기업 엔비디아(NVDIA) 최고경영자(CEO) 젠슨 황은 ‘CES(국제 전자제품 박람회) 2025’에서 “피지컬 AI는 인류 산업 패러다임을 바꿀 차세대 기술이며, 제조·물류 산업을 근본적으로 바꿀 50조 달러(약 7경원) 규모의 시장”이라고 평가한 바 있다. &lt;br&gt;&lt;br&gt;과기정통부는 2026년부터 2030년 사이 1조원을 투입해 국가 제조 분야에 범용으로 투입할 수 있는 피지컬 AI 모델을 개발하고, 정밀 제어·예지 정비(고장·이상 징후 사전 감지) 등을 개발해 실증한다.&lt;br&gt;&lt;br&gt;피지컬AI는 공정 설정에 필요한 시간, 불량률, 작업자 의존도를 줄여 생산성과 제품 품질을 개선하게 된다. &lt;br&gt;&lt;br&gt;신성델타테크·KG모빌리티·CTR·삼현 등 창원국가산단 내 제조기업 8곳, 경남대·서울대·구글 클라우드 코리아·한국전자통신연구원·경남테크노파크 등 25개 기관과 기업이 참여한다. &lt;br&gt;&lt;br&gt;실증 참여 기업은 생산성과 품질이 대폭 향상될 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;경남도 관계자는 “경남이 정밀 제어, 예지 정비, 공정 최적화 등 고부가가치 설루션 세계 시장을 선점하고, 제조 기업의 인공지능 전환을 선도해 나가는 ‘대한민국 피지컬 AI 혁신 거점’으로 도약할 수 있을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;경남도는 차세대 SMR(소형모듈원자로·Small Modular Reactor) 혁신 제조 기술개발 사업 역시 예타 면제를 받았다고 밝혔다. &lt;br&gt;&lt;br&gt;SMR은 전기 출력 300MW 이하 전력을 생산하면서 공장 제작과 현장 조립이 가능한 차세대 원전을 말한다. 한국을 비롯한 세계 각국이 경쟁적으로 SMR 모델 개발에 나섰다. &lt;br&gt;&lt;br&gt;경남은 우리나라에서 유일하게 원전 주기기 제작이 가능한 두산에너빌리티를 중심으로 원전 기업 340여 곳이 밀집해 있어 SMR 기술 개발 잠재력이 높은 곳으로 꼽힌다. &lt;br&gt;&lt;br&gt;과기정통부는 2026년부터 2031년까지 2695억원을 투입해 최단 기간에 SMR을 대량으로 생산할 수 있도록 기자재 국산화, 제조 기술을 개발할 계획이다. &lt;br&gt;&lt;br&gt;경남도는 이 사업을 통해 새롭게 구축되는 장비와 기술을 활용할 경우 기존 원전 제조 방식인 주조·단조·가공 공정을 생략할 수 있어 SMR 제작 기간이 평균 14개월에서 3개월로 줄일 수 있을 것으로 기대하고 있다. &lt;br&gt;&lt;br&gt;윤인국 경남도 산업국장은 “피지컬AI, SMR 제조 혁신 기술 개발로 시장을 먼저 선점해 경남을 글로벌 첨단 제조 거점으로 도약시켜 나가겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올여름 온열질환자 4000명 넘어…2018년 이후 처음</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/25/DTGMV3IJYBAONC44YOTAVDPZAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/25/DTGMV3IJYBAONC44YOTAVDPZAM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 08:31:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LM6PYHED5JO7NU7MTEDUSXXVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;처서가 지나도 폭염의 기세가 계속된 25일 경북 경산시 대정동 한 배추밭에서 농민들이 뙤약볕 아래 허리를 굽혀 밭일을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 누적 온열질환자 수가 4000명을 넘어섰다. 8월 말에도 습한 더위가 이어지면서 온열질환자가 꾸준히 발생했기 때문으로 보인다. 특히 절기상 더위가 가시고 가을을 맞이하게 된다는 처서 이후에도 온열질환으로 인한 사망자가 잇달았다.&lt;br&gt;&lt;br&gt;25일 질병관리청 온열질환 응급실 감시체계에 따르면, 지난 24일 온열질환으로 응급실을 찾은 환자 수는 55명이었다. 이 가운데 1명은 사망했다. 이로써 올해 온열질환 응급실 감시체계를 가동한 지난 5월 15일 이래 누적 환자 수는 4048명으로 늘었다. 누적 추정 사망자 수는 26명이다. &lt;br&gt;&lt;br&gt;8월 말에 접어들었는데도 전국 각지에 폭염주의보가 발령되고, 일 최고 체감온도가 33도 이상인 상황이 지속된 데 따른 것으로 보인다.&lt;br&gt;&lt;br&gt;올해 온열질환자를 연령대별로 나눠보면 50대가 793명(19.6%)으로 가장 많았다. 다만 전체 환자 중 30.8%(1247명)는 65세 이상 고령자였다. 성별로는 남성이 79.3%(3212명), 여성이 20.7%(836명)였다. 발생 장소는 실외가 79.6%, 실내가 20.4%였다.&lt;br&gt;&lt;br&gt;올해 누적 온열질환자 수는 이미 지난해 여름 전체 규모(5월 20일~9월 30일·3704명)를 넘어섰다. 역대 최고였던 2018년(5월 20일~9월 10일·4526명)에 이어 두 번째다. 당분간 습하고 체감온도가 높은 날씨가 이어질 것으로 전망되는 만큼, 온열질환에 걸리지 않도록 유의해야 할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 김건희특검, 김 여사에 27일 오전 10시 재출석 통보...기소 전 마지막 조사 가능성</title>
       <link>https://www.chosun.com/national/court_law/2025/08/25/EEJDJPRQKVGTLF2DN37F4MXPGE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/25/EEJDJPRQKVGTLF2DN37F4MXPGE/</guid>
@@ -594,15 +640,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG466FYRWJHKRPD4TAWVUJHGAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;플라톤 지음 l 강철웅 옮김 l 출판사 아카넷 l 가격 1만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;약 2500년 전 고대 그리스 아테네에서는 늘 사람들이 모여 이야기를 나누곤 했습니다. 그 중심에는 소크라테스라는 철학자가 있었습니다. 젊은이들은 그에게 다가와 사랑, 정의, 우정, 선과 악, 예술 같은 주제에 대해 질문을 던졌습니다. 하지만 소크라테스는 정답을 주지 않았습니다. 오히려 계속 질문을 던져 젊은이들이 스스로 생각하게 만들었지요.&lt;br&gt;&lt;br&gt;그 결과, 사람들은 자신이 알고 있다고 믿던 것이 사실은 잘 모르는 것일 수도 있다는 걸 깨달았습니다. 내가 무엇을 얼마나 모르는지 깨달은 것이지요. 이를 ‘무지(無知)의 지(知)’, 즉 “나는 잘 모른다”는 것을 아는 것이라고 합니다. 소크라테스는 사람들이 ‘무지의 지’를 깨우치도록 도왔습니다. 그의 제자 플라톤은 이런 대화들을 글로 정리했는데, 그것이 바로 ‘대화편’입니다.&lt;br&gt;&lt;br&gt;플라톤의 대화편 중 한 편인 ‘변명’은 세 사람의 고발로 시작된 재판에서 소크라테스가 스스로를 변호하는 내용입니다. ‘변명’이란 단어에는 ‘옳고 그름을 가려 사리를 밝힌다’는 뜻도 있어요. 사형 판결을 받은 소크라테스는 벌금을 내고 목숨을 지킬 수도 있었습니다. 친구들이 간수에게 돈을 주고 그를 탈출시킬 계획도 세웠습니다. 하지만 그는 사형 판결을 그대로 받아들였습니다. 평생 “아테네의 법을 지켜야 한다”고 말해온 자신이 법을 어길 수는 없다는 것입니다.&lt;br&gt;&lt;br&gt;소크라테스는 왜 고발당했을까요? 고발장의 핵심은 이랬습니다. “소크라테스가 젊은이들을 망치고 있다. 그는 국가가 믿는 신들을 믿지 않고 다른 새로운 신들을 믿음으로써 불의를 행하고 있다.” 젊은이들이 지금의 아테네를 좋게 보지 않고 불만을 품게 될까 걱정한 것입니다. 또 전통적인 신들을 모셔 왔던 아테네의 질서가 흔들리게 될까 걱정했습니다. 소크라테스처럼 하나의 현상에 계속 질문을 던지고 따지다 보면 그렇게 될 수 있다고 본 것이지요.&lt;br&gt;&lt;br&gt;철학은 답을 주지 않습니다. 철학에는 결론이 없습니다. 오히려 철학은 우리에게 또 다른 질문을 던지게 만듭니다. 그래서 철학의 역사는 곧 위대한 질문들이 이어져 온 역사라고 할 수 있습니다. 그리고 그 시작점에는 늘 끊임없이 물음을 던졌던 소크라테스가 있습니다. 끊임없이 묻는다는 것은 인간만이 할 수 있는 일이라는 점에서 철학은 가장 인간적인 학문이지요. 당연하다고 생각하던 것에 대해 의문을 갖고 질문을 던진다면, 우리는 이미 철학자의 길로 들어선 것입니다.&lt;br&gt;&lt;br&gt;소크라테스 이전 철학자들 대부분은 자연의 질서를 탐구했습니다. 소크라테스는 인간의 삶과 국가를 철학의 주제로 삼았습니다. 플라톤과 아리스토텔레스가 이러한 소크라테스의 뒤를 이어 서양 철학의 바탕을 만들었습니다.&lt;br&gt;&lt;br&gt;‘변명’의 마지막 부분. 진리와 신념을 위해 죽음도 담담히 받아들인 소크라테스는 이런 말을 남깁니다. “아니, 벌써 떠날 시간이 되었군요. 나는 죽으러, 여러분은 살러 갈 시간이. 우리 중 어느 쪽이 더 좋은 일을 향해 가고 있는지는 신 말고는 그 누구에게도 분명하지 않습니다.” &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 발등에 불이 떨어지다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/25/LRSTLSWT4NC3NJ3RHUR4UUSZWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/25/LRSTLSWT4NC3NJ3RHUR4UUSZWE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GSV7YU4ARH6BBR2ALGJ7RDBVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 전비(電比)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2025/08/25/DKFSTLDJMBFGNFI2G4FJ5OANUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/25/DKFSTLDJMBFGNFI2G4FJ5OANUI/</guid>
@@ -657,48 +694,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X24DRP3SSVEFXMFFUTRXTL5TBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자동차 표면에 흠집이 생겼다면 걸레로 깨끗이 닦은 뒤 치약을 살짝 발라 문질러보자. 치약 속 연마제 성분이 흠집을 옅게 만들어준다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>용인 오피스텔서 여성 살해한 30대 남성 구속… 법원 “도주 우려”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/24/BVAQCRGIJVBEXOBQZCMTWVQIXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/BVAQCRGIJVBEXOBQZCMTWVQIXM/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>경기 용인시 한 오피스텔 주차장에서 30대 여성을 살해하고 달아난 30대 남성이 구속됐다.
-24일 수원지법 오창민 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(보복살인 등) 혐의를 받는 30대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.
-</description>
-      <pubDate>Sun, 24 Aug 2025 13:36:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WKF2UO4ZFJIPF6YO3XPPOSFEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인시 한 오피스텔 지하 주차장에서 발생한 여성 피살 사건의 피의자 A씨가 24일 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 경기도 용인동부경찰서 유치장에서 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시 한 오피스텔 주차장에서 30대 여성을 살해하고 달아난 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;24일 수원지법 오창민 부장판사는 특정범죄 가중처벌 등에 관한 법률 위반(보복살인 등) 혐의를 받는 30대 남성 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “도주 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 21일 오전 2시 40분쯤 경기 용인시 수지구 한 오피스텔 지하 주차장에서 지인인 30대 여성 B씨를 흉기로 찔러 살해한 혐의를 받고 있다. 이 사건은 범행 약 3시간 뒤인 오전 5시 45분쯤 주민이 숨진 B씨를 발견해 신고하면서 드러났다. A씨는 범행 직후 도주했으나 범행 하루 뒤인 22일 오전 8시 56분쯤 강원 홍천군 야산에서 경찰에게 긴급 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 일하던 가게의 손님으로, B씨가 지난 5월 “A씨로부터 범죄 피해를 봤다”며 신고하자 이에 대한 보복으로 B씨를 살해할 계획을 세운 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 신상 공개 위원회 개최 등을 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 8월 25일 월요일(음력 7월 3일 丙寅)</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/24/KX2WIJOM3BEIPHSBGI6HIIZZIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/24/KX2WIJOM3BEIPHSBGI6HIIZZIM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 12:14:40 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 신중하지 못한 처신은 위엄 없다. 48년생 거절 두려워하면 할 수 있는 것 많지 않다. 60년생 아직까지는 충분히 잘하고 있다. 72년생 명예가 실추되는 시기이니 신중한 처신 필요. 84년생 단란한 내 집이 지상천국. 96년생 화분에서는 동량 못 기른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 인내도 좋지만 참다가 끝날 수도. 49년생 어렵다면 가족에게 도움 청하라. 61년생 숫자 3, 8과 푸른색이 행운 부른다. 73년생 꾀 많은 낙타 짐 무거워야 잘 간다. 85년생 과정 건너뛰면 문제 생길 수 있으니 절대 주의. 97년생 소신 확고하면 과감하게.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 고결함은 칭송받지만 배고프다. 50년생 고집하지 않는 게 갈대가 사는 법. 62년생 술에 술 탄 듯 물에 물 탄 듯 사는 것도 지혜. 74년생 적극적인 모습에 상대 부담 느낄 수도. 86년생 세상엔 천 갈래의 길이 있다. 98년생 명검도 갈고닦지 않으면 녹슨다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 나무도 뿌리가 깊어야 소 매지. 39년생 행동하지 않은 상상은 허상. 51년생 기다리던 소식 들려올 듯. 63년생 양띠와의 상의는 해결의 열쇠. 75년생 전환 계기로 삼도록. 87년생 명석한 머리보다 따뜻한 마음 필요. 99년생 괜한 호기심이 화 부를 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 의기소침 과감히 떨쳐내야. 40년생 신뢰는 신뢰 부른다. 52년생 여러 복 중 배우자 복이 제일. 64년생 맑은 밤하늘에 달이 휘영청 밝구나. 76년생 결정은 온전히 자신 몫. 88년생 주변 사람과의 친목이 성패 좌우. 00년생 세상에 길은 하나만이 아니다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 몸은 노쇠하였으되 꿈은 아직 청년. 41년생 남 일에 관여 않는 게 상책. 53년생 작은 것에 만족하면 큰 것 놓친다. 65년생 감정 죽이고 이성 깨우도록. 77년생 아직 움직일 때 아니다. 89년생 지나친 의욕이 시야 가릴 수도. 01년생 새로운 삶 개척하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 고립된 생활 환경이 우울감 초래. 42년생 하나를 얻으면 절반 나누도록. 54년생 멋지게 늙는 법 터득해야. 66년생 힘든 만큼 보상 뒤따를 듯. 78년생 충전은 느리고 방전은 빠르고. 90년생 원리 원칙 지키면 뒤탈 없다. 02년생 재택이 손재 막는 지름길.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 시비 구설은 열흘 가지 않는 법. 43년생 믿었던 돌에 발부리 챈 격. 55년생 선 그을 때는 확실히. 67년생 계획에 앞서 처지를 직시. 79년생 배우자의 사랑이 만병통치약. 91년생 남 탓하기 전에 자기 반성부터. 03년생 시간이 지체되더라도 돌아가라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 과감한 결정이 사태 해결의 첫걸음. 44년생 불행 뒤집으면 행복 된다. 56년생 동남방 피하는 게 상책. 68년생 당뇨, 혈압 등 건강 유의. 80년생 충전은 느리고 방전은 빠르고. 92년생 망치가 가벼우면 못이 솟는 법. 04년생 동료와의 불화는 빨리 풀도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 육체 건강보다 정신 건강 중요. 45년생 무슨 일 있어도 초심 잃지 마라. 57년생 한번 졌다고 영원히 진 건 아니다. 69년생 서쪽 대문에서 운기 빛난다. 81년생 이유 없는 호의는 일단 의심하고 봐야. 93년생 내 소망이 상대의 소망과 똑같을 때 희망차다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 아랫사람 고언 수용할 수 있어야. 46년생 새로운 일이나 직장 문제로 심사가 번잡. 58년생 시행착오도 모두 자산. 70년생 타인에 대한 원망을 나에게로. 82년생 눈치 없는 사람 되기 싫으면 눈치 보며 가라. 94년생 목적만 명확하면 성과 무난할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 촛불 들고 한낮 서성이는 격. 47년생 세상에 고민 없는 사람 있나. 59년생 과분한 이익·명성이 화 부른다. 71년생 무엇 위해 오늘을 사는지가 중요. 83년생 밀어주고 끌어주는 아량 가져봄이. 95년생 일확천금 노리기보다 한 푼 두 푼 좀도리 쌀 모으듯.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>변사 현장서 20돈 금목걸이 훔친 검시조사관...구속 영장은 기각</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/24/ET5EWD2XJZECTOXCFEQ3GMZDWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/ET5EWD2XJZECTOXCFEQ3GMZDWQ/</guid>
-      <dc:creator>인천=김수언 기자, 인천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 11:22:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DZGH5JKDVHENNDMGNJNTNKAXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사망한 50대 남성이 착용하고 있던 금목걸이를 훔친 혐의를 받는 검시 조사관이 24일 오후 구속 전 피의자 심문(영장실질심사)을 받기 위해 인천지법으로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 변사 사건 현장에서 사망자가 착용하고 있던 20돈짜리 금목걸이를 훔친 경찰 검시(檢屍) 조사관의 구속 영장이 24일 기각됐다.&lt;br&gt;&lt;br&gt;인천지법은 이날 오후 2시 절도 혐의를 받는 인천경찰청 과학수사대 소속 9급 공무원 30대 A씨에 대한 구속 전 피의자 심문(영장실질 심사)을 열고, 같은날 오후 8시쯤 영장을 기각했다. 김한울 인천지법 당직 판사는 “피의자의 주거가 일정하고, 증거 인멸이나 도망의 염려가 있다고 보기 어렵다”고 사유를 밝혔다. 또 “그밖에 피의자의 범죄전력과 피해자측의 처벌불원의사 등 제반 사정을 참작했다”고 설명했다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 지난 22일 A씨를 긴급 체포해 조사 중이었다. 그는 4년째 인천경찰청에서 근무 중인 검시 조사관이다. 임상병리사나 간호사 자격을 가진 행정 공무원으로, 사망사건이 접수되면 과학수사대 요원들과 함께 현장에 가서 변사자의 상태를 살피는 일을 한다.&lt;br&gt;&lt;br&gt;경찰에 따르면 지난 20일 오후 2시 5분쯤 인천 남동구 만수동의 한 빌라에서 50대 남성 B씨가 숨진 채 발견됐다. 경찰 등이 현장에 출동해 시신을 수습하고 범죄 혐의점을 확인하던 중 갑자기 소란이 벌어졌다. B씨의 목에 걸려있던 20돈짜리, 시가 약 1100만원에 달하는 금목걸이가 사라진 것을 확인한 것이다.&lt;br&gt;&lt;br&gt;당시 현장에는 인천남동경찰서 소속 형사 2명이 먼저 도착했고, 10분도 채 되지 않아 인천경찰청 과학수사대 소속 직원 2명과 A씨가 도착했다. 과학수사대 직원들은 출동하면서 골목길부터 집 현관까지 사건 현장 사진을 촬영했다. 가장 먼저 현장에 도착한 형사들이 촬영한 증거사진에는 목걸이가 있었는데, 뒤이어 도착한 과학수사대 직원들의 사진에는 없었던 것이다. 형사들은 자신들이 찍어둔 사진을 보여주며 결백을 호소했고, 과학수사대 직원들과 서로 몸 수색까지 했지만 결국 목걸이는 나타나지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUATH75FALLPBK3O6A4SRWELZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금목걸이. 기사 내용과 사진은 무관함./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사에 나선 경찰은 현장에 있었던 형사 2명과 과학수사대 직원 2명, A씨 등 5명을 차례대로 불러 당시 행적을 확인했다. 수사망이 좁혀오자 A씨가 입을 열었다. 그는 경찰에 자수하면서 “과학수사대 직원들이 집 밖을 조사하는 동안 약 3~4분정도 혼자 집 안에 있었는데, 이때 목걸이를 빼내 (자신의)운동화 속에 넣었다”고 진술한 것으로 알려졌다. 20돈짜리 금목걸이는 약 75g으로 작은 사과 1개 정도 무게다. 당시 몸 수색을 할 때도 신발까지는 확인하지 않아 적발되지 않았다. A씨는 경찰에 자수하면서 “시신을 확인하다가 목걸이를 보니, 순간적으로 욕심이 생겼다”고 말한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 집 싱크대 밑에서 비닐 지퍼팩 안에 들어있던 금목걸이를 찾았다. 경찰 관계자는 “A씨는 생활고나 빚 등 금전 문제는 없었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한덕수 구속영장 청구... 특검 “내란 방조 혐의”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/24/FEMH4LUGZRATHFR4AQNC6HQV5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/FEMH4LUGZRATHFR4AQNC6HQV5Y/</guid>
@@ -742,15 +737,6 @@
       <description/>
       <pubDate>Sun, 24 Aug 2025 03:35:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FITWUNPPBWEQVLNYJFFNPTGQEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 포항시 전역에 폭염경보가 발령된 지난 20일 오후 양산을 쓴 시민들이 북구청 앞 횡단보도를 건너가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 폭우가 동시에 찾아올 것으로 보인다.&lt;br&gt;&lt;br&gt;24일 기상청에 따르면, 전국에 폭염특보가 발효된 가운데 비구름대를 동반한 기압골의 영향으로 25~26일 중부지방을 중심으로 많은 비가 예고됐다.&lt;br&gt;&lt;br&gt;25~26일 예상 강수량은 수도권 30~100㎜, 강원도 20~80㎜, 충청권 10~80㎜, 전라권 10~60㎜, 경상권 5~30㎜, 제주도 5~30㎜ 등이다. 25일 경상권과 제주도엔 5~40㎜의 소나기도 예보됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMLQEZVFKNN77JE6RGI423NQ2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 동북·서북권에 호우경보가 발령된 지난 13일 오후 서울 성동구를 지나는 동부간선도로 차량통행이 통제되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강수 집중 시간은 서울을 비롯한 수도권은 25일 밤부터 26일 아침까지다. 시간당 30~50㎜의 집중호우가 퍼붓겠다. ‘매우 많은 비’의 기준이 시간당 30㎜ 이상이며, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다. 강원도는 26일 새벽부터 아침, 충남권은 26일 새벽부터 오전에 시간당 30㎜의 비가 내리겠다.&lt;br&gt;&lt;br&gt;비가 내린다고 해서 폭염이 가시는 것은 아니다. 25일 아침 최저기온은 22~27도, 낮 최고기온은 30~36도로 예보됐다. 26일에는 비의 영향으로 최저 23~27도, 최고 30~34도로 기온이 소폭 내려가겠으나, 비가 그친 후에는 다시 빠르게 기온이 상승할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강원래, 하반신 마비 극복하고 박사 학위 취득 “K팝 연습생 문제점 연구”</title>
-      <link>https://www.chosun.com/national/people/2025/08/24/INXRUH5HWJCKDECO6EVQFHEDCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/24/INXRUH5HWJCKDECO6EVQFHEDCM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 03:31:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTI3UELTZVFRRLKZQS2KQSW34I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원래가 박사 학위를 받고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 클론 출신의 강원래(56)가 명지대학교 일반 대학원에서 교육학 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;강원래는 지난 23일 소셜미디어를 통해 휠체어를 타고 졸업 가운을 입은 채 박사 학위를 받는 모습을 공개했다.&lt;br&gt;&lt;br&gt;강원래는 지난 19일 ‘케이팝 아이돌 연습생 양성 체계의 문제점과 개선 방안’이라는 제목의 논문으로 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;강원래는 박사 학위를 받는 사진과 함께 “저 이제 춤 박사, 강 박사”라는 글을 올리며 기뻐했다. &lt;br&gt;&lt;br&gt;강원래는 2015년 디지털서울문화예술대에서 학사를 마쳤고, 2020년 명지대 일반대학원 교육학 석사 학위를 취득했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRJRDEC3WFBTBCKEOWJBJREZ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박사학위를 취득한 강원래. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원래는 앞서 논문에 대해 “방탄소년단(BTS)과 블랙핑크를 배출한 K팝의 인기 요소는 다양하지만, 연습생 제도가 매우 중요한 기반이 되고 있다”며 “K팝 아이돌 연습생 양성 체계의 문제점과 개선책을 찾고 싶어 연구를 시작했다”고 설명한 바 있다.&lt;br&gt;&lt;br&gt;강원래는 클론 시절 ‘쿵따리 샤바라’, ‘초련’ 등의 히트곡으로 대중의 사랑을 받았다. 하지만 지난 2000년 오토바이 사고로 하반신 마비 판정을 받았다. 방송인 김송과 2003년에 결혼해 슬하에 아들 한 명을 두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘노란봉투법’ 무엇이 달라지나...노조 손해배상 책임 면제, 정리해고 이유로 쟁의 가능 </title>
