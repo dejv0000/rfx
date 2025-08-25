@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[결정] "행정사는 법무사 업무 못한다"</title>
+			<description>&lt;b&gt;[헌법재판소 결정]&lt;/b&gt;&lt;br /&gt;법무사가 아닌 사람은 법무사 업무를 할 수 없도록 규정한 법무사법 조항이 헌법에 어긋나지 않는다는 헌법재판소 판단이 나왔다. &lt;br /&gt;&lt;br /&gt;헌재는 행정사 A 씨가 제기한 행정사법 제2조 제1항 단서, 법무사법 제2조 제1항 제8호에 대한 헌법소원에서 8월 21일 재판관 9인의 전원일치 의견으로 합헌 결정했다(&lt;b&gt;2020헌마1491&lt;/b&gt;). 헌재는 A 씨 청구 중 행정사법 부분은 각하하고 나머지는 기각했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요]&lt;/b&gt;&lt;br /&gt;A 씨는 행정사법 제2조 제1항 단서 '다른 법률에 따라 제한된 업무는 할 수 없다'와 법무사법 제2조 제1항 제8호 '제1호부터 제7호까지의 사무를 처리하기 위해 필요한 상담·자문 등 부수되는 사무'에 대해 헌법소원심판을 청구했다. &lt;br /&gt;&lt;br /&gt;행정사법 제2조 제1항 단서에 따라 행정사가 법무사 업무를 할 수 없는 점, 법무사법 제2조 제1항 제8호의 불명확한 규정 모두 헌법상 과잉금지원칙 위반과 직업선택의 자유 침해라는 게  A 씨 주장이다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[헌재 판단]&lt;/b&gt;&lt;br /&gt;헌재는 심판 대상 조항뿐 아니라 법무사법 제3조 제1항 '법무사가 아닌 자는 제2조에 따른 사무를 업(業)으로 하지 못한다'는 규정까지 헌법 위반이 아니라고 전했다.  &lt;br /&gt;&lt;br /&gt;먼저 헌재는 "행정사법 제2조 제1항 단서는 2011년 3월 개정된 후 2013년 1월부터 시행됐다"며 "2015년 12월 행정사 자격을 취득한 A 씨가 기본권 침해가 있는 날로부터 1년이 지난 2021년 4월에야 행정사법 제2조 제1항 단서에 대해 심판을 청구한 건 기간 도과로 부적법하다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "법무사법 제2조 제1항 제8호에 있는 '부수되는 사무'란 용어가 다소 광범위한 해석의 여지를 둔 건 사실"이라면서도 "부수되는 사무는 법무사법 제2조 제1항 제1호~제7호에 열거된 주된 사무를 처리하기 위한 범위 내에서 부수된 사무를 뜻하므로 불명확한 개념이라고 볼 수 없다"고 설명했다. &lt;br /&gt;&lt;br /&gt;헌재는 "법무사법이 직업의 자유를 제한하는 측면이 있지만 국민의 법률생활, 사법 제도와 연관돼 있어 과잉금지원칙 심사가 완화된다"며 "법무사와 행정사는 자격 요건에 차이가 있는 데다 법무사 업무가 국민 권리·의무에 영향을 미치는 법무 서류 작성, 제출 대행에 관련돼 있으므로 법무사 아닌 자가 법무사 업무를 하지 못하게 한 입법적 선택이 재량을 벗어났다고 보기 어렵다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;그러면서 "입법자가 법무사 제도를 도입하면서 국민의 법률생활에 편익을 도모할 수 있도록 비교적 넓은 법무 행위가 가능하도록 한 건 침해의 최소성에 반한다고 할 수 없다"며 "법률 사무의 전문성·신뢰성을 확보하려는 공익이 직업의 자유에 대한 제한보다 크기 때문에 법익의 균형성도 인정된다"고 밝혔다.</description>
+			<pubDate>Mon, 25 Aug 2025 03:06:40 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210744</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210744</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
+			<title>'더 센' 상법 개정안, 민주당 주도 국회 본회의 통과</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210804.jpg" alt="546474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;25일 국회 본회의에서 '더 센' 상법 개정안이 여당 주도로 통과되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;집중투표제 의무화와 감사위원 분리 선출 확대를 핵심으로 한 '2차 상법 개정안'이 8월 25일 더불어민주당 주도로 국회 본회의 문턱을 넘었다. 국민의힘은 이에 반발해 본회의 표결에 불참했다.&lt;br /&gt;&lt;br /&gt;국회는 전날부터 진행된 2차 상법개정안에 대한 필리버스터(무제한토론)를 이날 표결로 종결시키고 재석 182인 중 찬성 180인, 기권 2인으로 가결했다. 경영활동 위축 우려를 제기하며 법안 통과에 반대해온 국민의힘은 '경제 내란법'이라며 반발해 표결에 불참했다. 천하람·이준석 개혁신당 의원은 각각 기권표를 던졌다.&lt;br /&gt;&lt;br /&gt;국회법 제106조의2에 따라 필리버스터는 개시 24시간 이후 재적 의원 5분의 3 이상(180명 이상)이 찬성하면 종결된다. 민주당은 전날 오전 9시 42분 무제한 토론 종결 동의안을 제출한 바 있다.&lt;br /&gt;&lt;br /&gt;이번 개정안은 자산 총액 2조 원 이상 대형 상장회사의 경우 △집중투표제를 정관으로 배제할 수 없게 하고 △감사위원 분리 선출 인원을 기존 1명에서 2명 이상으로 늘리는 내용을 담았다. 지난 7월 3일 본회의를 통과한 '이사 충실 의무 확대' 개정안의 후속 조치다.&lt;br /&gt;&lt;br /&gt;필리버스터 마지막 주자인 주진우 국민의힘 의원은 "감사위원을 2명 이상 두게 되면 경쟁사가 감사위원을 맡는 경우를 배제할 수 없다"며 "중국·미국계 펀드 혹은 경쟁사의 투자를 받은 펀드가 추천해서 경쟁 회사에 감사위원을 밀어 넣을 수 있다면 회사의 기밀을 어떻게 지키겠냐"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "열심히 회사를 키워도 경영권을 위협받을 수 있다면 유망한 유니콘 기업들이 국내에 상장하지 않고 해외로 나가버리거나 오히려 자산 규모 2조 원 규제를 피하기 위해 성장을 어느 정도까지만 하는 피터팬 증후군(기업의 성장 기피)이 발생할 위험이 있다"고 강조했다.</description>
+			<pubDate>Mon, 25 Aug 2025 02:38:15 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210804</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210804</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210804.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국형사·법무정책연구원, 9월 2일 '국가핵심기술 해외유출 대응 제도개선 토론회'</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210783.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210783.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;한국형사·법무정책연구원(원장 정웅석, 이하 KICJ)은 9월 2일 오후 2시 서울 영등포구 여의도동 국회의원회관 제1세미나실에서 ‘국가핵심기술 해외유출 대응 제도개선 토론회’를 개최한다. 토론회는 송재봉·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3619"&gt;김남근&lt;/span&gt;(62·사법연수원 28기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3570"&gt;김기표&lt;/span&gt;(53·30기) 더불어민주당 국회의원과 공동 주최한다.&lt;br /&gt;&lt;br /&gt;토론회에서는 국가 산업경쟁력의 근간인 핵심기술의 해외유출을 방지하고, 기술안보 관점에서 실효성 있는 형사정책 및 법제 개선 방향을 모색한다.&lt;br /&gt;&lt;br /&gt;김유근 KICJ 선임연구위원이 ‘기술안보 관점에서의 국가핵심기술 해외유출에 대한 형사정책적 대응 방안’을 발표한다. 김 연구위원은 현행 제도의 한계와 기술유출 범죄에 대한 수사·기소·처벌 강화 필요성을 제안할 예정이다.&lt;br /&gt;&lt;br /&gt;이어 김은정 특허청 기술디자인특별사법경찰과 기획수사팀장이 ‘첨단전략산업 분야 핵심기술 해외유출 수사 사례’를 발표한다.&lt;br /&gt;&lt;br /&gt;종합토론에서는 손승우 법무법인 율촌 상임고문(전 한국지식재산연구원장)이 좌장을 맡는다. 이상홍 기아 정보보안2실 실장, 손용하 산업통상자원부 기술안보과 과장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25615"&gt;전우정&lt;/span&gt;(49·변호사시험 2회) KAIST 지식재산대학원 교수, 심미랑 한국지식재산연구원 법제도연구실장 등이 참여해 산업현장과 법 집행기관의 시각 등을 공유할 예정이다.&lt;br /&gt;&lt;br /&gt;송재봉 의원은 토론회에서 논의된 내용을 토대로 국가핵심기술 보호 강화를 위한 법률 개정을 추진할 계획이다.&lt;br /&gt;&lt;br /&gt;KICJ는 “토론회를 통해 국가핵심기술 보호를 위한 정책·입법 개선 방향을 제시하고, 향후 관계 부처와의 협력 및 후속 연구를 적극 추진하겠다”고 밝혔다.</description>
+			<pubDate>Mon, 25 Aug 2025 02:08:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210783</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210783</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210783.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>내란 특검, 법무부·대검·박성재 전 장관·심우정 전 총장 압수수색</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210794.jpg" alt="5658.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는 조은석 특별검사팀이 심우정 전 검찰총장과 박성재 전 법무부 장관에 대한 강제 수사에 나선 25일 서울 서초구 대검찰청 모습. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 25일 법무부와 대검찰청 등에 대한 압수수색을 진행하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&amp;nbsp;&lt;/span&gt;특별검사보는 이날 브리핑에서 "오전 9시 30분부터 법무부, 대검찰청, 서울구치소,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&amp;nbsp;&lt;/span&gt;전 법무부 장관에 대한 압수수색을 진행 중"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&amp;nbsp;&lt;/span&gt;전 검찰총장도 압수수색 대상에 포함돼 있다. &lt;br /&gt;&lt;br /&gt;심 전 총장은 지난 3월 법원이 윤 전 대통령의 구속 취소 결정을 내린 이후 즉시항고 조처로 상급법원 판단을 받는 대응을 하지 않은 것과 관련해 직권남용 등 혐의로 고발됐다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "압수수색은 고발된 내용을 중심으로 이뤄져 있다. 자택은 포함되어 있지 않지만 물품은 포함돼 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;박 특검보는 "구체적인 혐의 내용에 대해서는 말씀드리지 못한다"면서도 "통상처럼 수사하고 있다고 보면 될 것 같다. 자료를 찾아야 하는 상황이라 임의 협조를 받는 것보단 현장에서 집행이 될 것 같다"고 설명했다. &lt;br /&gt;&lt;br /&gt;박 전 장관 등은 윤석열 전 대통령의 불법적인 비상계엄 선포를 막지 못하고 방조·가담한 의혹을 받는다.&lt;br /&gt;&lt;br /&gt;박 전 장관은 계엄 당일 윤 전 대통령이 최초로 불렀던 6명의 국무위원 중 한 명이다. 비상계엄 선포 직후 법무부 간부 회의를 소집해 합동수사본부에 검사 파견을 검토하라는 지시를 내렸다는 의혹도 있다. &lt;br /&gt;</description>
 			<pubDate>Mon, 25 Aug 2025 02:04:05 -0000</pubDate>
@@ -23,16 +52,6 @@
 			<link>https://www.lawtimes.co.kr/news/210784</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210784</guid>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] '더 센 상법' 여당 주도 본회의 통과</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210790.jpg" alt="4564748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;25일 서울 여의도 국회에서 상법 개정안이 여당 주도로 처리되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 25 Aug 2025 01:15:37 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210790</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210790</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210790.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 		<item>
 			<title>【오늘의 국회일정】 2025년 8월 25일</title>
@@ -110,15 +129,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210739</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210739.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>'AACC 연구사무국 제5차 재판관 국제회의' 서울서 25~28일 개최</title>
-			<description>대한민국 헌법재판소(소장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;)가 운영하는 아시아헌법재판소연합(AACC, Association of Asian Constitutional Court and Equivalent Institutions) 연구사무국이 ‘AACC 연구사무국 제5차 재판관 국제회의’를 8월 25일부터 28일까지 서울 중구 소공동 웨스틴 조선 서울에서 개최한다. AACC 16개 회원기관의 재판관 등 40여 명이 참석할 예정이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이번 회의의 주제는 ‘사생활의 비밀과 자유(Right to Privacy)’이다. 인공지능(AI)을 비롯한 정보통신기술의 발전 등으로 최근 논의의 필요성이 커지고 있는 사생활 보호와 관련, 아시아 각국의 경험과 지식을 나눌 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;26일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;(59·사법연수원 20기) 헌법재판소장의 개회사로 행사를 시작하며 낙카린 멕트라이랏(Nakharin Mektrairat) 태국 헌법재판소장 겸 AACC 의장이 영상을 통해 축사한다. 이후&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2415"&gt;김정원&lt;/span&gt;(60·19기) 헌재 사무처장(AACC 연구사무국 사무총장)이 기조연설한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이어지는 1세션 주제는 ‘사생활의 비밀과 자유의 의미와 내용’이다. 두 꼭지로 나눠 △아제르바이잔, 방글라데시, 인도, 몰디브, 몽골 △미얀마, 파키스탄, 태국, 튀르키예, 우즈베키스탄이 발표한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;27일에는 2·3세션과 종합세션을 진행한다. ‘사생활의 비밀과 자유에 대한 제한’을 주제로 한 2세션은 대한민국, 타지키스탄이 발표한다. 이어지는 3세션에서는 ‘사생활의 비밀과 자유의 당면 논의 및 주요결정’을 주제로 카자흐스탄, 대한민국, 키르기즈, 필리핀, 러시아가 발표한다. 이후 주요 내용을 정리하고 종합적으로 토론하는 종합세션을 진행한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;  &lt;br /&gt;행사 마지막 날인 28일에는 문화 프로그램을 진행한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 회의에서는 2세션에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1549"&gt;김형두&lt;/span&gt;(60·19기) 재판관이, 3세션에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6305"&gt;정정미&lt;/span&gt;(56·25기) 재판관이 세션 발표한다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3279"&gt;김복형&lt;/span&gt;(57·24기) 재판관은 종합세션 의장을 맡을 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국 헌재는 2017년부터 격년으로 AACC 연구사무국 재판관 국제회의를 개최하며 헌법재판 경험을 아시아 각국 헌법재판기관과 공유하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;AACC는 아시아의 민주주의, 법치주의 확산, 인권보호 증진 등을 목적으로 2010년 7월 창설된 아시아 헌법재판기관 지역협의체이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;현재 대한민국, 인도네시아, 말레이시아, 몽골, 필리핀, 태국, 우즈베키스탄, 러시아, 타지키스탄, 튀르키예, 파키스탄, 아프가니스탄, 카자흐스탄, 아제르바이잔, 키르기즈, 미얀마, 인도, 몰디브, 방글라데시, 요르단, 팔레스타인, 이라크 등 22개 헌법재판기관이 가입해 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 24 Aug 2025 03:27:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210778</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210778</guid>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 		<item>
 			<title>'AACC 연구사무국 제5차 재판관 국제회의' 서울서 25~28일 개최</title>
@@ -223,16 +233,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210664</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210664.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/210775.jpg" alt="567373.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;서울 성동구 금호동에서 바라본 저녁 하늘. 남산 너머로 노을이 지고 있다.&lt;/p&gt;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: right;"&gt;   &lt;b&gt;백성현 기자 stwhite@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Fri, 22 Aug 2025 20:05:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210775</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210775</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210775.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
