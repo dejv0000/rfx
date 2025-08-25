@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>소각장 반대 주민 2000여명 개인정보, 추진 업체에 유출한 한강환경청</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/25/ZT3JTBMJGRDNVK4O26LQEWFA5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/25/ZT3JTBMJGRDNVK4O26LQEWFA5Q/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 13:42:26 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EKXECFZR7USFKERBLWKG6LNKOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 하남시에 있는 한강유역환경청. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경부 한강유역환경청 직원이 의료폐기물 소각장 건립을 반대하는 마을 주민 2000여명의 개인정보가 담긴 문건을 소각장 추진 업체로 넘겨 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;25일 환경부에 따르면, 경기 안성시 양성면 주민들로부터 폐기물 처리 사업을 추진하는 A업체 관계자를 개인정보보호법 위반 혐의로 처벌해달라는 내용의 고발장이 지난달 말 접수돼 경찰 수사가 진행 중이다.&lt;br&gt;&lt;br&gt;앞서 지난 5월 1일 한강유역청 직원 B씨는 A업체와 민원 사항을 협의하는 과정에서 주민들이 전달한 청원서 2274건을 A업체 관계자에게 넘긴 것으로 나타났다. 이 청원서에는 이름, 주소, 휴대전화 번호 등의 개인정보가 담겨 있었다.&lt;br&gt;&lt;br&gt;B씨는 A업체가 소각장 건립에 문제를 제기하는 주민들과 직접 소통해 민원을 해결해보라는 취지로 청원서를 건넸다고 밝힌 것으로 알려졌다. 한강유역청은 폐기물 처리 사업의 인허가권을 갖고 있어서, 추진 업체와 주민 사이에 의견 충돌이 발생할 경우 이를 조율해야 한다.&lt;br&gt;&lt;br&gt;한강유역청은 뒤늦게 이 사실을 파악한 뒤 주민들에게 알림톡을 보내 개인정보 유출 사실을 알리고 사과했다.&lt;br&gt;&lt;br&gt;한강유역청은 해당 알림톡에서 “8월 5일 유출 사실을 인지하고 사업장에 방문해 개인정보가 담긴 전자파일과 출력물을 전체 회수·파기 조치했다”며 “사업자로부터 이미 전달된 개인정보를 이용·복제·제공 등 방법을 불문하고 활용하지 않겠다는 확약서도 제출받았다”고 했다.&lt;br&gt;&lt;br&gt;다만 현재 주민들이 낸 고발장엔 피고발인으로 A업체 관계자만 적시돼 있어 문건을 유출한 한강유역청 직원은 입건 대상에서 빠져있다. 경찰 측은 “향후 수사 상황에 따라 한강유역청 직원들도 입건 대상에 포함될 수 있다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성추행 의혹 번복한 나상현씨밴드 “허위 사실 유포 고소 진행”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/25/2XJU2AZTO5HA3NWPCLCQ7WI46E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/2XJU2AZTO5HA3NWPCLCQ7WI46E/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 13:38:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3KOHW5MU5AFNJXDOCPTXYVEKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나상현씨밴드 보컬 나상현./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밴드 ‘나상현씨밴드’ 보컬 나상현(30)이 과거 성추행 의혹을 거듭 부인하며 허위 사실 유포 등에 대한 법적 대응에 나섰다.&lt;br&gt;&lt;br&gt;소속사 재뉴어리는 25일 입장문을 내고 “나상현씨밴드에 대한 정보통신망법 위반(명예훼손), 업무방해, 모욕, 허위사실 유포 등과 관련한 고소 및 고발을 접수 완료해 조사를 진행하고 있다”며 “멤버들을 향한 악의적인 허위사실 유포 및 모욕적 표현을 게시한 X(옛 트위터) 사용자와 구글 드라이브 사용자들을 대상으로 수사기관을 통해 신원 파악 중”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “지속적으로 발생 중인 소셜미디어(SNS)상의 허위 사실 유포와 모욕적 표현 또한 모니터링을 통해 수집하고 있다”며 “일부 온라인 사용자들에 의해 제기된 멤버들의 특정 상황은 존재하지 않는 허위 사실이고 따라서 해당 상황에 의한 피해자가 존재하는 것 역시 성립될 수 없다”고 말했다. 그러면서 “팬 여러분께 미숙했던 초기 대응으로 혼란과 아쉬움을 드린 점 거듭 사과 말씀 드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 이번 논란은 지난 5월 나상현이 과거 술자리에서 동석한 여성의 신체를 만졌다는 폭로 글이 등장하며 시작됐다. 다만 글쓴이는 “특정될까 봐 두루뭉술하다. 사석이라 증빙이 없다”며 구체적인 정황과 증거는 공개하지 않았다. 당시 나상현은 “저의 과거 행동으로 인해 불쾌감이나 불편함을 겪으셨을 분들에게 진심으로 사과드린다”며 의혹을 인정하고 사과했다.&lt;br&gt;&lt;br&gt;그러나 얼마 뒤 소속사는 이를 번복하고 나상현이 사실관계가 충분히 확인되지 않은 상황에서 도의적 책임을 지기 위해 사과한 것일 뿐이라고 주장했다. 이어 “누군가의 피해 주장 앞에서는 침묵하기보다 제기된 논란에 대한 사과 입장을 먼저 전해야 한다는 아티스트의 생각에서 비롯된 대응이었다”며 “나상현과 상황을 면밀히 돌아보고 확인한 결과 게시글에 언급된 행위는 사실이 아님을 밝힌다”고 반박했다.&lt;br&gt;&lt;br&gt;나상현도 지난 1일 글을 써 “처음 제보 글을 봤을 때 분명 제가 알고 있는 사실이 아니었지만 상황이 커져가는 것에 대한 두려움과 제가 미처 인지하지 못한 일이 있던 것은 아닌가에 대한 불안감이 있었다”며 “이런 사안에 대해선 제보자 목소리에 더욱 귀 기울여야 한다는 평소 생각에, 사실관계 확인 이전 일단 먼저 사과의 태도를 보이는 것이 가장 올바른 행동이라고 생각했다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “추후 소속사와 함께 이전 시간들을 면밀히 확인하고 진위 여부를 파악한 결과 제보 내용이 사실이 아니라는 결론에 이르게 됐다”며 “하지만 이미 많은 분이 제보 내용을 사실로 받아들이게 된 상황과 분위기 속에서 제 섣부른 이야기가 또 다른 오해와 비난으로 돌아올까 두려워 쉽게 이를 전하지 못했다”고 해명했다.&lt;br&gt;&lt;br&gt;2014년 결성한 나상현씨밴드는 멤버 전원이 서울대 출신으로 화제를 모았다. 2015년 첫 EP 앨범 ‘찌릿찌릿’을 발매했으며 단독 공연과 축제 등을 위주로 활동해왔다. 이번 논란으로 이달 초 오를 예정이었던 ‘2025 인천 펜타포트 락 페스티벌’ 출연이 취소되기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, ‘건진법사’ 전성배 오는 27일 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/25/CWQP7ZOD3BFPJPVLDIEWDY3E6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/25/CWQP7ZOD3BFPJPVLDIEWDY3E6Y/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 13:11:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q74DDI7FTEC6D725WIEWIKKKNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배 씨가 21일 서울 종로구에 마련된 민중기 특별검사팀(김건희 특검팀) 사무실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 ‘건진법사’ 전성배씨에게 오는 27일 재소환을 통보했다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 이날 특검은 전씨에 대한 소환 조사를 마친 뒤, 오는 27일 오후 2시에 재차 소환을 통보한 것으로 알려졌다. 이날 오전 10시부터 특검 조사를 받은 전씨는 오후 9시 10분쯤 조사 및 조서 열람을 마치고 수감 중인 서울구치소로 돌아갔다.&lt;br&gt;&lt;br&gt;전씨는 2022년 4~8월 사이 통일교 전 세계본부장 윤영호씨로부터 각종 통일교 현안 관련 청탁과 함께 6000만원대 그라프 다이아몬드 목걸이, 1000만원 안팎의 샤넬 가방 2개와 천수삼농축차 2개를 받아 김 여사에게 전달한 혐의(특정범죄가중처벌법상 알선수재)를 받는다. &lt;br&gt;&lt;br&gt;지난 19일 특검이 구속영장을 청구하면서 전씨는 지난 21일부터 구속된 상태다. 전씨 측은 영장실질심사를 포기했는데, 당시 전씨 측 변호인은 “본인(전씨) 때문에 여러 사람이 고초를 겪는 상황을 견딜 수 없고, 당연히 본인도 잘못돼야 한다고 생각하는 만큼 구속을 받아들이기로 했다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 임실서 공사 중 급수관로 파손...5개 마을 단수</title>
+      <link>https://www.chosun.com/national/incident/2025/08/25/V5EQKXVVBNGKPBR72XYQM3SHJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/25/V5EQKXVVBNGKPBR72XYQM3SHJI/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 13:04:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSB3WAEDS4KDXXYFB6VRQATD4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/임실군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 임실군에서 국도 공사 중 수도를 공급하는 급수관로가 파손돼 5개 마을이 단수 피해를 입었다.&lt;br&gt;&lt;br&gt;25일 임실군 등에 따르면 이날 오후 5시쯤 임실군 두곡리의 국도 17호선 공사 현장에서 업체 측이 철근 매설 작업을 하던 중 급수관로가 50cm쯤 파손됐다.&lt;br&gt;&lt;br&gt;이 사고로 별다른 인명 피해는 없었지만 임실읍 두곡리·두실리·화성리·금성리, 성수면 도인리 등 5개 마을이 단수된 것으로 파악됐다. 임실군은 급수관로를 수리 중이다.&lt;br&gt;&lt;br&gt;임실군 관계자는 “주민들에게 안내 문자를 발송했으며 저녁 11시쯤 급수가 정상적으로 재개될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주 “서울 등 일부 지자체, 계엄 때 청사 폐쇄”…서울시 측 “터무니없는 의혹제기”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/25/DOK56O6KDND6PLSH3C4TIHTK44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/DOK56O6KDND6PLSH3C4TIHTK44/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 12:52:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPS5QAAOPNJLVND34L2O4B5WVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병주 더불어민주당 3대특검 종합대응특위 위원장이 25일 서울 여의도 국회에서 열린 특위 전체회의에 참석해 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당은 지난해 12월 윤석열 전 대통령의 비상계엄 직후 서울시 등 국민의힘 소속 일부 지방자치단체장들이 청사 폐쇄하며 계엄에 적극 동조한 의혹이 있다며 수사를 촉구했다. 서울시는 “터무니없는 의혹 제기로 특검 수사를 증폭해 야당 소속 지자체장들에게 내란 프레임을 씌운다”고 했다.&lt;br&gt;&lt;br&gt;민주당이 이른바 ‘3대 특검’ 지원을 위해 꾸린 ‘3대 특검 종합 대응 특위’ 소속 김병주 의원은 25일 전체회의에서 “윤석열은 비상계엄을 선포하면서 행정안전부를 통해 전국 지자체에 청사 폐쇄 명령을 내렸다”며 “언론 보도에 따르면 오세훈의 서울시, 김진태의 강원도, 유정복의 인천시, 홍준표의 대구시, 이철우의 경상북도 등 많은 지자체는 계엄이 선포된 그날 밤 청사를 폐쇄하고 비상대책회의를 진행한 것으로 알려졌다”라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 “오비이락이라고 하기에는 너무 일사불란하다. 이 정도면 이들 지자체장 또한 비상계엄에 적극 동조한 것은 아닌지 수사가 이뤄져야 한다”며 “지구·지역 계엄사 설치 문제를 비롯해 지자체의 적극적인 내란 동조 행위에 대해 명명백백히 밝혀야 하는 이유는 시민의 삶이 한순간에 유린될 뻔했으며, 그 혐의자들이 현재까지 시청과 도청을 지휘하고 있기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCKTHL3BUNGVFI2ZVAU7QSBVJY.png"&gt;&lt;figcaption&gt;&lt;small&gt;/오세훈 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 작년 12월 3일 윤 전 대통령이 비상계엄을 선포하자 시청사에서 시장단 등 비상 회의를 소집했다. 다음 날 오전 0시 19분쯤엔 페이스북을 통해 “계엄에 반대합니다. 계엄은 철회돼야 합니다. 시장으로서 시민의 일상을 지키기 위해 최선의 노력을 다하겠습니다”라는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 김 의원 발언을 두고 김병민 정무부시장 입장 명의로 입장문을 내고 “서울시는 청사를 폐쇄한 적이 없다. 서울시는 정해진 내규에 따라 평소에도 심야에는 출입을 제한하며, 출입증을 패용한 경우에만 출입을 허용한다”며 “(김 의원 의혹 제기는) 특검 수사를 이용해 정치적 이득을 취하겠다는 얄팍한 노림수에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 “김병주 의원 등 민주당은 정확한 사실 확인도 거치지 않고 가짜 뉴스를 유포하고 있다. 언론이 고의적 왜곡을 할 땐 책임을 물어야 한다던 이재명 대통령의 말대로라면 영락없는 ‘책임 추궁감 발언’”이라며 “터무니없는 의혹 제기로 특검 수사를 증폭해 야당 소속 지자체장들에게 내란 프레임을 씌우려는 저급한 행태를 강력히 규탄한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>작년 노벨경제학상 로빈슨 “케데헌 5번 봤다... 韓 혁신의 상징”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/25/S3OLSNQTJNDZNF2RZT3CAXQXSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/S3OLSNQTJNDZNF2RZT3CAXQXSA/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 12:16:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIWXHUT6NBIIZBTKR4IQNZFIFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 노벨경제학상 수상자 제임스 로빈슨 교수가 25일 서울 성북구 고려대학교 대강당 김양현홀에서 강연하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아들이 ‘케이팝 데몬 헌터스(케데헌)’에 푹 빠져서 저도 다섯 번이나 봤습니다. 농담이 아니고 진짜입니다.”&lt;br&gt;&lt;br&gt;지난해 노벨경제학상 수상자인 제임스 로빈슨(미 시카고대 정치학과) 교수가 25일 고려대 안암캠퍼스 대강당 특별강연에서 한국 문화의 힘을 이렇게 소개했다. 그는 최근 전 세계적으로 인기를 끌고 있는 ‘케데헌’을 사례로 들며 “한국의 문화적 폭발력은 이 사회가 만들어내는 혁신과 변화를 상징한다”고 평가했다.&lt;br&gt;&lt;br&gt;로빈슨 교수는 대런 아제모을루 매사추세츠공대(MIT) 교수와 함께 쓴 ‘국가는 왜 실패하는가’에서 국가 제도의 성격이 흥망을 좌우한다고 설명했다. 포용적 제도가 노력에 따른 보상을 보장해 발전을 이끄는 반면, 착취적 제도는 특정 집단이 나머지 성과를 빼앗아 사회 전체의 동력을 잃는다는 것이다. 책은 남북한을 각각 포용적·착취적 제도의 대표 사례로 제시한다.&lt;br&gt;&lt;br&gt;그는 “포용적 정책이 혁신을 만들고, 그런 혁신이 다시 포용적 사회를 강화한다”며 “오늘날 한국이 문화·과학기술 전 분야에서 성취를 이루는 것도 이러한 제도적 기반 덕분”이라고 강조했다. 이어 “한국은 개인이 역량을 발휘할 수 있도록 자유를 허용해 혁신을 유도하는 세계적 모범 사례”라고 덧붙였다.&lt;br&gt;&lt;br&gt;반면 북한은 경제적 유인과 혁신적 제도가 부재해 한국과 전혀 다른 길을 걸었다고 지적했다. 그는 “지리적으로 가깝고 언어도 같지만 북한이 경제적으로 낙후된 것은 착취적 제도를 고집했기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;강연 이후 로빈슨 교수는 전날 국회를 통과한 ‘노란봉투법’ 관련 질문에는 “세부 내용을 잘 알지 못해 답하기 어렵다”고 했고, 26일 예정된 한미 정상회담에 대해서도 언급을 삼갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“10년간 돈 잃어본 적 없어” 선행매매로 20억원 챙긴 일당 재판行</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/25/A5CJLR7ZKBAVTLU555L2A4SIDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/A5CJLR7ZKBAVTLU555L2A4SIDQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 10:52:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QXOC67THONOXO7H73APLGEK7BU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천구 서울남부지방검찰청의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 전문 텔레그램 채널을 운영하며 선행 매매로 부당 이득 20억원가량을 챙긴 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 금융·증권범죄 합동수사부(부장 안창주)는 25일 자본시장법 위반 혐의로 텔레그램 채널을 운영하는 30대 남성 A씨를 구속 기소했다고 밝혔다. A씨에게 계좌를 제공하는 등 범행을 도운 지인 4명도 자본시장법 위반 방조 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면 이들은 주식 투자 관련 텔레그램 채널을 운영하며 주식을 선매수한 후 채널 구독자에게 이를 추천하여 매수를 유도하고 주가 상승 시 선매수한 주식을 되판 혐의를 받는다. A씨는 지난 2018년 4월쯤부터 2023년 8월까지 306개 종목을 대상으로 선행 매매를 해 22억원 상당의 부당이득을 취득한 것으로 나타났다. &lt;br&gt;&lt;br&gt;A씨는 주식 투자 관련 텔레그램 채널을 운영하며 3만6000여 명의 구독자를 모은 핀플루언서(금융과 인플루언서의 합성어)로 조사됐다. A씨는 허위로 된 혹은 과장된 경력과 정보를 공유하는 ‘리딩 행위’로 구독자들로부터 신뢰를 받았다. 그는 “최근 10년 이상은 주식하면서 돈을 잃어본 적이 없다”며 “자랑은 아니고 그만큼 철저히 종목을 선정해 투자한다”며 구독자들을 유인했다.&lt;br&gt;&lt;br&gt;A씨가 범행에 사용한 계좌는 A씨의 모친, 지인 등이 제공한 차명 계좌인 것으로 확인됐다. A씨는 차명 계좌로 선행 매매 행위 482건을 벌였다. 그는 본인과 공범 명의 등 17개 계좌를 이용하고, 베트남 전화번호로 텔레그램 채널을 운영한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 취득한 부당이득 전액에 대해 추징보전을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>말벌집 제거하려다 산불… 삼척 산불 6시간 넘게 이어져</title>
       <link>https://www.chosun.com/national/incident/2025/08/25/ZFRHBN4UEBGTRNJOO2KMZP7RKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/25/ZFRHBN4UEBGTRNJOO2KMZP7RKE/</guid>
@@ -611,69 +674,6 @@
       <pubDate>Sun, 24 Aug 2025 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6W3DMZEAJEHHN4PYB2YOW6OW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 오봉저수지를 찍은 위성사진. 왼쪽은 지난 4월 21일, 오른쪽은 8월 17일에 찍은 것이다. 저수지에 담긴 물을 각각 녹색과 파란색으로 표시했다.
 /텔레픽스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 강릉 지역 주요 상수원인 오봉저수지 저수율이 또다시 역대 최저치를 갈아치웠다. 강릉 시민들은 가뭄이 이어지자 23일 대관령에서 기우제를 지냈다. 하지만 24일 오봉저수지의 저수율이 17.8%까지 떨어진 것이다. &lt;br&gt;&lt;br&gt;최근 오봉저수지 저수율 하락 속도는 가파르다. 사흘 전만 해도 20% 선을 지키던 저수율은 22일 19%로 떨어졌고, 23일엔 18.3%를 기록했다. 하루 0.7~0.9%포인트씩 줄어들고 있다. 강릉시는 올여름 가뭄이 이어지자 지난 20일부터 제한 급수에 들어갔다. 현재까지 4만6928가구의 세대별 계량기를 절반 잠갔다. 강릉시는 저수율이 15% 밑으로 내려가면 수도 계량기를 4분의 3까지 잠그고 농업용수 공급도 중단할 계획이다.&lt;br&gt;&lt;br&gt;위성 스타트업 텔레픽스가 분석한 결과 오봉저수지의 저수 표면적은 지난 4월 21일 0.75㎢였으나 지난 17일 0.29㎢로 줄었다. 위성사진엔 물이 말라 저수지 바닥의 모래와 잡풀이 선명히 드러났다. 26일 강릉에 비가 예보됐지만 예상 강수량은 5㎜ 안팎으로 해갈엔 역부족이다. 한국농어촌공사 관계자는 “이번 주 안에 저수율 15% 선이 무너질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 김성환 환경부 장관은 지난 22일 대관령면 도암댐을 찾아 용수 방류 등 대책을 모색했다. 도암댐은 약 3000만t 용수를 확보하고 있지만 방류된 물이 강릉 남대천을 오염시킨다는 지적이 이어지면서 2001년부터 방류가 중단됐다. 강릉시 관계자는 도암댐 방류와 관련해 “주민들이 수용할 수 있을지 검토가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [명화 돋보기] 삶의 유한함·부의 상징… 화가들이 즐겨 사용한 소재였죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/25/SCDVTXMSHZGDTECG7Z4RWG3RBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/25/SCDVTXMSHZGDTECG7Z4RWG3RBY/</guid>
-      <dc:creator>이주은 건국대 문화콘텐츠학과 교수, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:37:00 +0000</pubDate>
-      <content:encoded>지난 6일은 전 세계적으로 평화를 기리는 날이었습니다. 지금으로부터 80년 전인 1945년 8월 6일 오전 8시 15분. 일본 히로시마에 원자폭탄이 투하됐습니다. 도시 전체를 쑥대밭으로 만든 엄청난 파괴력을 가진 폭탄이었죠. 그날 히로시마의 시계들은 8시 15분을 가리키며 멈춰 버렸습니다. 지금도 히로시마 평화기념자료관에는 그날 멈춘 시계들이 전시돼 있지요. 이 시계들은 전쟁의 무모함과 핵무기의 끔찍함을 전 세계 사람들에게 알리며 평화를 바라는 마음을 상징하는 유물이 됐습니다. &lt;br&gt;&lt;br&gt;시계는 그림 속에도 자주 등장하며, 중요한 역할을 합니다. 단순히 시간을 알리는 도구를 넘어 다양한 의미를 품고 있거든요. 유한한 삶을 뜻하기도 하고, 꿈속 경험이나 과거의 기억을 나타내기도 해요. 오늘은 그림 속 시계를 찾아 어떤 메시지를 담고 있는지 살펴볼까요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCANOIY5FRFZXN6LMTTSM3TQ3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안토니오 데 페레다의 '허영의 알레고리'(1636). 캔버스에 오일. 그림 하단부에 그려진 모래시계는 삶의 유한함과 덧없음을 나타냅니다. /빈 미술사 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6RWIVZOJVBUPEQXCFMHN5PIYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑수아 부셰가 그린 '식사 시간'(1739). 캔버스에 오일. 벽에 걸린 화려한 시계는 호화로움을 표현하는 장치로 사용됐어요. /루브르 박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;‘유한한 삶’ 상징&lt;/b&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품 1&amp;gt;은 스페인 화가 안토니오 데 페레다(1611~1678)가 그린 ‘허영의 알레고리’예요. 알레고리(allegory)란 눈에 보이는 사물 너머에 숨겨진 깊은 의미를 짐작하게 하는 기법인데, 17세기 유럽에서 유행한 기법 중 하나입니다. 그림에선 세속적인 욕망을 상징하는 화려하고 값진 물건들로 ‘허영’을 표현합니다. 인간의 삶이 유한하므로 아무리 많은 것을 가진다고 해도 결국 헛되고 덧없다는 의미를 나타내고 있지요.&lt;br&gt;&lt;br&gt;그림 속에서는 날개 달린 천사가 손가락으로 지구본을 가리키고 있고, 그 옆에는 작은 시계탑 모형이 놓여 있습니다. 이는 인간 세상과 시간이 가진 속성을 보여주는 장치입니다. 탁자 위에는 여러 물건이 펼쳐져 있는데, 갑옷과 무기는 전쟁에서의 승리와 명예를, 금화와 보석은 풍족한 재물을 상징합니다. 왼편엔 해골들이 보여요. 이는 언젠가 누구나 맞이하게 될 죽음을 암시하지요.&lt;br&gt;&lt;br&gt;그림 중앙 하단부에는 검은색 모래시계가 보입니다. 모래가 전부 아래로 떨어져 있지요. 어떤 사람에게 주어진 시간이 다 끝났다는 것을 의미합니다. 이처럼 모래시계와 시계탑은 권력이나 돈으로는 절대로 되돌릴 수 없는 시간의 흐름, 그리고 인간의 삶이 영원하지 않다는 사실을 보여줍니다.&lt;br&gt;&lt;br&gt;시계 자체가 부와 허영을 보여주는 물건으로 등장하는 그림도 있어요. &amp;lt;작품 2&amp;gt;는 프랑스 루이 15세 시대에 베르사유궁에서 활동했던 화가인 프랑수아 부셰(1703~1770)의 작품입니다. 부유한 저택에서 젊은 귀부인 두 명이 아이들과 함께 아침 식사를 하는 장면이 그려져 있지요. 벽에는 금빛 장식으로 화려하게 꾸며진 벽시계가 걸려 있고, 아침 8시를 가리키고 있습니다.&lt;br&gt;&lt;br&gt;18세기에 시계는 값비싼 사치품이었기 때문에 집에 벽시계를 걸 수 있다는 건 엄청난 부자라는 뜻이었습니다. 평범한 사람들은 집에 시계가 없어서, 시간을 알려면 교회나 시청, 광장의 시계탑을 바라봐야 했지요.&lt;br&gt;&lt;br&gt;이 집의 식탁과 방을 보면 귀족의 생활이 얼마나 호화로웠는지 알 수 있습니다. 집사가 들고 있는 은주전자, 칠기 탁자 위에 놓인 도자기 그릇, 당시 아무나 맛보기 어려웠던 귀한 음료인 커피나 코코아, 뒤쪽 벽을 가득 채운 큰 거울까지 어느 하나 빠지지 않고 값비싼 물건들입니다. 화가는 이처럼 고급 사치품들을 장면 속에 배치해, 그림을 보는 사람들이 귀족 생활을 부러워하게 만들었습니다. 18세기에 시계는 벽시계와 탁상시계뿐 아니라, 상류층 남자들이 호주머니에 넣고 다니던 회중시계까지 모두 대표적인 사치품이었습니다. 당시 철학자 장 자크 루소는 이런 사치품들이 사람들의 허영심을 부추긴다며 경계하라고 충고하기도 했습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KUDBHXXGVDUREXWHRL3ABR5G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;르네 마그리트의 '시간을 꿰뚫다'(1938). 캔버스에 오일. 벽난로를 뚫고 나오는 기차를 통해 다른 차원의 시간이 교차된 듯한 장면을 표현했습니다. /시카고 아트 인스티튜트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVSN6GLJRFGY3DPMS25KCPOW5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;살바도르 달리가 그린 '기억의 지속'(1931). 캔버스에 오일. 초현실주의를 대표하는 작품 중 하나로, 시간과 죽음을 표현한 것으로 알려져 있어요. /뉴욕 현대미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;과거의 시간과 기억 뜻하기도&lt;/b&gt;&lt;br&gt;&lt;br&gt;20세기 초반, 화가들은 꿈과 무의식의 세계에 큰 관심을 가지게 되었어요. 그중에서도 초현실주의 화가들은 시간의 의미를 아주 특별하게 표현했습니다. &amp;lt;작품 3&amp;gt;은 벨기에 출신 화가 르네 마그리트(1898~1967)의 작품인데, 마치 시간 여행을 하는 듯한 신비로운 상상을 담고 있지요.&lt;br&gt;&lt;br&gt;그림 속 벽난로 위에는 지금 이 순간을 보여주는 시계가 걸려 있습니다. 그런데 막힌 벽난로 벽을 뚫고 기차가 달려 나오고 있어요. 이 기차는 현실이 아닌, 다른 차원에서 온 것처럼 보입니다.&lt;br&gt;&lt;br&gt;우리는 때때로 기억을 통해 시간을 되찾습니다. 분명히 잊은 것은 아닌데, 평소에는 전혀 떠올리지 못하는 기억들이 있지요. 그런데 음악 소리, 향기, 대화 등을 통해 그 기억이 갑자기 생생하게 되살아나기도 합니다. 마치 과거가 현재로 되돌아온 것처럼요. &lt;br&gt;&lt;br&gt;이때가 바로 무의식 속에 가라앉아 있던 ‘시간을 되찾은 순간’이라고 할 수 있습니다. 마그리트는 바로 이런 경험을 그림으로 표현했습니다. 과거와 현재를 넘나들며 기억이 되살아나는 순간, 그것을 시간 여행처럼 신비롭게 그려낸 것이지요.&lt;br&gt;&lt;br&gt;&amp;lt;작품 4&amp;gt;는 스페인 카탈루냐 출신의 초현실주의 화가, 살바도르 달리(1904~1989)의 대표작 ‘기억의 지속’이에요. 달리의 가장 큰 두려움이었던 시간과 죽음을 표현한 것으로 알려진 이 그림에는 모두 네 개의 시계가 등장합니다. 중앙에는 마치 눈을 감고 잠든 것처럼 보이는 사람의 얼굴 형상이 보이고, 그 주위 시계들은 치즈가 녹아내리듯 축 늘어져 있습니다. 이는 무의식 세계에 있는 기억을 표현한 것으로 보입니다.&lt;br&gt;&lt;br&gt;탁자 위에 걸쳐진 시계에는 파리 한 마리가 앉아 있고, 옆에 놓인 회중시계에는 개미들이 몰려 있습니다. 파리는 썩은 음식에 날아들고, 개미 떼는 죽은 곤충 주위로 순식간에 모여들지요. 그러니 파리와 개미가 달라붙은 시계는 오래된 기억, 즉 시간이 멈춘 채 현재로 이어지지 못하는 과거를 상징한다고 볼 수 있습니다. 달리가 그린 이 시계들은, 마치 히로시마에서 멈춘 시계처럼 시간의 흐름이 끊어진 채 과거 속에 고여 있는 기억을 표현한 것일지도 모릅니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] 잎이 진 뒤에서야 꽃 피워… 서로 만날 수 없어 그리움 상징하죠</title>
-      <link>https://www.chosun.com/national/nie/2025/08/25/Q5IKT55VJFHKPAOS3AEQCRYOOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/25/Q5IKT55VJFHKPAOS3AEQCRYOOM/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:37:00 +0000</pubDate>
-      <content:encoded>요즘 공원·화단 등 여기저기에 연분홍 꽃이 곱기도 한 상사화가 피어 있습니다. 상사화는 꽃이 필 때는 잎이 없고, 잎이 있을 때는 꽃을 볼 수 없는 특이한 식물입니다. 봄에 잎이 나오고 성장하면서 꽃이 핀 다음 가을에 열매를 맺는, 일반적인 식물의 패턴과는 다릅니다. 상사화는 봄에는 잎만 나와 6~7월쯤 말라 떨어지고, 8월쯤 꽃대만 올라와 꽃을 피웁니다. 꽃대 끝에 연분홍 꽃 4~8송이가 뭉쳐 피는 형태입니다. 잎과 꽃이 서로 만나지 못해 그리워한다고 해서 이름이 상사화(相思花)입니다.&lt;br&gt;&lt;br&gt;서양인들에겐 잎이 진 다음 갑자기 땅에서 꽃대가 솟아나 더없이 아름답고도 독특한 꽃을 피우는 모습이 놀라웠던 모양입니다. 그래서 상사화 영어 이름은 ‘서프라이즈 릴리(Surprise lily·깜짝 백합)’입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OUNAUDOKBHM5IBBX3GFNKDJDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연분홍색 상사화 꽃이 피었어요. 상사화는 잎이 다 떨어진 다음 꽃이 핀답니다. /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상사화 뿌리를 캐면 양파 같은 모양의 동그란 알뿌리가 있습니다. 알뿌리는 인편(鱗片·비늘 모양 조각) 여러 개가 모여 하나의 구를 형성한 것입니다. 봄에 올린 잎으로 부지런히 광합성해 양분을 알뿌리에 저장한 다음 여름에 그 양분으로 꽃대를 올리는 것입니다. 달리아, 수선화, 나리도 비대한 뿌리를 가진 알뿌리 식물입니다.&lt;br&gt;&lt;br&gt;우리나라에서 살아가는 상사화는 꽃이 아름답지만 결실을 맺지 못합니다. 우리가 보는 상사화들은 자연적으로 씨가 떨어져 자란 것이 아니라, 사람들이 알뿌리를 쪼개 심어준 것입니다. 여러 가지로 마음을 짠하게 하는 상사화 스토리입니다.&lt;br&gt;&lt;br&gt;이금이의 장편 동화 ‘너도 하늘말나리야’에는 상사화가 참 인상적으로 나옵니다. 이 장편 동화는 미르, 소희, 바우 등 세 결손 가정 아이들이 서로의 상처를 감싸주며 커가는 이야기입니다. 이 중 바우는 어려서 엄마를 잃고 ‘선택적 함구증’에 걸린 아이인데, 바우 아버지는 엄마 산소 옆에 상사화를 심었습니다. 바우는 자기 가족이 만나지 못하고 살아가는 것이 상사화 같다고 생각합니다.&lt;br&gt;&lt;br&gt;상사화가 질 무렵, 그러니까 초가을에 상사화 비슷한 모양에 진한 붉은색으로 피는 꽃이 있습니다. 이 꽃은 석산으로, 꽃무릇이라 부르기도 합니다. 일부에서 이것도 상사화라고 부르지만 상사화가 따로 있으니 잘못된 호칭입니다. &lt;br&gt;&lt;br&gt;석산도 잎과 꽃이 동시에 피지 않는 점은 상사화와 같습니다. 상사화는 봄에 새잎이 나지만, 석산은 가을에 새잎이 돋아나 겨울을 납니다. 석산은 사찰 주변에 많이 심는데, 전남 영광 불갑사, 전북 고창 선운사 등이 석산 군락으로 유명합니다. 탱화(불교 그림)를 제작할 때 석산 알뿌리 전분을 방부제로 쓴다고 합니다. &lt;br&gt;&lt;br&gt;이 밖에도 위도상사화(전북 위도), 제주상사화(제주), 백양꽃(내장산 일대), 붉노랑상사화(전북, 충남 등), 진노랑상사화(전북, 전남) 등 우리나라의 특정 지역에만 분포하는 상사화 종류도 있습니다. 광릉 국립수목원에 가면 이런 다양한 상사화를 만날 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] “내가 무엇을 모르는지 아는 것이 중요” 철학자 소크라테스가 전한 가르침</title>
-      <link>https://www.chosun.com/national/nie/2025/08/25/5GWUGP67CJCJJJQVYVD6WLJQ6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/25/5GWUGP67CJCJJJQVYVD6WLJQ6E/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZG466FYRWJHKRPD4TAWVUJHGAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;플라톤 지음 l 강철웅 옮김 l 출판사 아카넷 l 가격 1만3000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;약 2500년 전 고대 그리스 아테네에서는 늘 사람들이 모여 이야기를 나누곤 했습니다. 그 중심에는 소크라테스라는 철학자가 있었습니다. 젊은이들은 그에게 다가와 사랑, 정의, 우정, 선과 악, 예술 같은 주제에 대해 질문을 던졌습니다. 하지만 소크라테스는 정답을 주지 않았습니다. 오히려 계속 질문을 던져 젊은이들이 스스로 생각하게 만들었지요.&lt;br&gt;&lt;br&gt;그 결과, 사람들은 자신이 알고 있다고 믿던 것이 사실은 잘 모르는 것일 수도 있다는 걸 깨달았습니다. 내가 무엇을 얼마나 모르는지 깨달은 것이지요. 이를 ‘무지(無知)의 지(知)’, 즉 “나는 잘 모른다”는 것을 아는 것이라고 합니다. 소크라테스는 사람들이 ‘무지의 지’를 깨우치도록 도왔습니다. 그의 제자 플라톤은 이런 대화들을 글로 정리했는데, 그것이 바로 ‘대화편’입니다.&lt;br&gt;&lt;br&gt;플라톤의 대화편 중 한 편인 ‘변명’은 세 사람의 고발로 시작된 재판에서 소크라테스가 스스로를 변호하는 내용입니다. ‘변명’이란 단어에는 ‘옳고 그름을 가려 사리를 밝힌다’는 뜻도 있어요. 사형 판결을 받은 소크라테스는 벌금을 내고 목숨을 지킬 수도 있었습니다. 친구들이 간수에게 돈을 주고 그를 탈출시킬 계획도 세웠습니다. 하지만 그는 사형 판결을 그대로 받아들였습니다. 평생 “아테네의 법을 지켜야 한다”고 말해온 자신이 법을 어길 수는 없다는 것입니다.&lt;br&gt;&lt;br&gt;소크라테스는 왜 고발당했을까요? 고발장의 핵심은 이랬습니다. “소크라테스가 젊은이들을 망치고 있다. 그는 국가가 믿는 신들을 믿지 않고 다른 새로운 신들을 믿음으로써 불의를 행하고 있다.” 젊은이들이 지금의 아테네를 좋게 보지 않고 불만을 품게 될까 걱정한 것입니다. 또 전통적인 신들을 모셔 왔던 아테네의 질서가 흔들리게 될까 걱정했습니다. 소크라테스처럼 하나의 현상에 계속 질문을 던지고 따지다 보면 그렇게 될 수 있다고 본 것이지요.&lt;br&gt;&lt;br&gt;철학은 답을 주지 않습니다. 철학에는 결론이 없습니다. 오히려 철학은 우리에게 또 다른 질문을 던지게 만듭니다. 그래서 철학의 역사는 곧 위대한 질문들이 이어져 온 역사라고 할 수 있습니다. 그리고 그 시작점에는 늘 끊임없이 물음을 던졌던 소크라테스가 있습니다. 끊임없이 묻는다는 것은 인간만이 할 수 있는 일이라는 점에서 철학은 가장 인간적인 학문이지요. 당연하다고 생각하던 것에 대해 의문을 갖고 질문을 던진다면, 우리는 이미 철학자의 길로 들어선 것입니다.&lt;br&gt;&lt;br&gt;소크라테스 이전 철학자들 대부분은 자연의 질서를 탐구했습니다. 소크라테스는 인간의 삶과 국가를 철학의 주제로 삼았습니다. 플라톤과 아리스토텔레스가 이러한 소크라테스의 뒤를 이어 서양 철학의 바탕을 만들었습니다.&lt;br&gt;&lt;br&gt;‘변명’의 마지막 부분. 진리와 신념을 위해 죽음도 담담히 받아들인 소크라테스는 이런 말을 남깁니다. “아니, 벌써 떠날 시간이 되었군요. 나는 죽으러, 여러분은 살러 갈 시간이. 우리 중 어느 쪽이 더 좋은 일을 향해 가고 있는지는 신 말고는 그 누구에게도 분명하지 않습니다.” &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 전비(電比)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/25/DKFSTLDJMBFGNFI2G4FJ5OANUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/25/DKFSTLDJMBFGNFI2G4FJ5OANUI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFKJLIJ7JBFA3J7RUJ6HGLUSDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 부드럽다, 강렬하지 않다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/25/RJLH4QJGNZCGBMZDXNKSIPE45Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/25/RJLH4QJGNZCGBMZDXNKSIPE45Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OG76PBDV3REY5A45F4PYXSKLBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2690] 돌려라 룰렛 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/25/WVZPQT3QVNCEBGDUKRQY5GMCCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/25/WVZPQT3QVNCEBGDUKRQY5GMCCI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUQHQXU5XJATDPOAIGCJNJLPBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] good call</title>
-      <link>https://www.chosun.com/national/nie/english/2025/08/25/D6YYI4REBJEMTCNXSWI2H2GLUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/25/D6YYI4REBJEMTCNXSWI2H2GLUY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMJ6SLFVJZE57NBWWB3NEV2SHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 8월 25일</title>
