@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] ‘통일교 의혹’ 권성동 “27일 오전 10시 특검 조사 출석할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/26/XQ54DKG53VGLVGAKPSKYNJGP4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/XQ54DKG53VGLVGAKPSKYNJGP4U/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 22:26:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEMSJ67EZMWLLVZOOZODT6VEEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 18일 서울 여의도 국회 의원회관에서 김건희 특검의 '건진법사-통일교 의혹' 압수수색 관련 입장을 밝히기 위해 의원실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 오는 27일 오전 10시에 권성동 국민의힘 의원에게 소환을 통보했다. 권 의원은 통일교로부터 불법 정치자금을 전달받았다는 의혹을 받는다. 권 의원은 26일 “김건희 특검에 출석할 것”이라는 입장을 밝혔다. 김건희 특검이 현역 국민의힘 의원을 조사하는 건 윤상현 의원에 이어 권 의원이 두 번째다.&lt;br&gt;&lt;br&gt;권 의원은 이날 오전 자신의 페이스북에 “오는 8월 27일 특검 조사에 출석하겠다”며 “저는 특검 측이 주장하는 모든 사안에 대해 결백하다. 그렇기에 당당하다”고 썼다. 이어 “반면 특검 측은 일부 언론과 결탁하고 정치 공작을 이어가고 있다. 당당하지 못하기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;권 의원은 “저는 이미 문재인 정부의 정치 탄압을 이겨낸 경험이 있다”며 이번 이재명 정부의 표적 숙청 시도 역시 반드시 극복해 내겠다”고 했다. 게시물에서 언급한 ‘문재인 정부의 정치 탄압’은 권 의원이 받았던 ‘강원랜드 채용 비리 혐의’를 가리키는 것으로 보인다. 권 의원은 현역 의원이던 2012~2013년 강원랜드 인사팀 등에 압력을 넣어 의원실 인턴 등 11명을 채용하게 하는 등의 혐의를 받았다. 검찰은 2016년, 2017년, 2018년 등 세 번에 걸쳐 이 사건을 수사했지만, 권 의원은 2022년 대법원에서 무죄를 확정받았다.&lt;br&gt;&lt;br&gt;권 의원은 “정의를 향한 길은 아무리 굽이치고 험난해도, 결국 진실이라는 목적지에 도달하기 마련”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 권 의원이 2022년 1월 통일교로부터 1억원대의 불법 정치자금을 수수한 정황을 확보하고 관련 수사를 진행 중이다. 앞서 특검은 권 의원에게 정치자금을 직접 건넨 것으로 알려진 윤영호 전 통일교 세계선교본부장을 정치자금법 위반 등 혐의로 지난 18일 구속 기소했다. 윤 전 본부장은 특검 조사에서 “한학자 통일교 총재의 결정과 지시에 따라 한 총재가 내실 금고에서 꺼내 준 현금 뭉치를 아내 이씨를 통해 포장해 (권 의원에게) 전달했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 본부장은 ‘건진법사’ 전성배씨와 2023년 1월 국민의힘 전당대회를 앞두고 통일교 교인들을 대거 입당시켜 권 의원을 당 대표로 만들려고 한 의혹도 받는다. 특검은 오는 27일 권 의원을 불러 이같은 의혹 전반에 대해 캐물을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>아이 망치는 7세 고시, 인권위도 ‘경고’</title>
       <link>https://www.chosun.com/national/national_general/2025/08/26/G5YFEOPQY5B2PD6XFPWSHI3KYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/26/G5YFEOPQY5B2PD6XFPWSHI3KYU/</guid>
@@ -735,15 +744,6 @@
       <description/>
       <pubDate>Fri, 22 Aug 2025 15:54:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXGC6A3NA5HNNCOJ7S6W6GKCMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 9시 서울 대표 전망대인 ‘N서울타워’의 불이 ‘에너지의 날’을 맞아 꺼졌다. 에너지의 날은 우리나라 역대 최대 전력 소비(47.4GW)를 기록한 2003년 8월 22일을 계기로 제정돼 올해 22회를 맞았다. 서울 광화문, 대전 한빛탑, 경주 첨성대 등 전국 24개 랜드마크가 소등에 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 23일</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/23/J7TWIJ4TTRGEHMPXJNHYHVPQI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/23/J7TWIJ4TTRGEHMPXJNHYHVPQI4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 22 Aug 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z34GGT2JM5BNTHVZFUOP5KEYSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 총격범, 생활비 월 640만원 받고도 범행…망상 빠진 이유는?</title>
