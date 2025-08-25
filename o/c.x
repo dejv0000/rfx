@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>외도 의심해 남편 중요 부위 절단한 50대 아내, 구속기소…사위 이어 딸도 범행 가담 </title>
+      <link>https://www.chosun.com/national/incident/2025/08/25/6YKMQOXH5FDSXGYLD33OV2546U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/25/6YKMQOXH5FDSXGYLD33OV2546U/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 05:08:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J56YV54VQ5NFFMYAXEM4WQATWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남편의 신체 중요 부위를 절단해 살해하려 한 혐의로 구속 기소된 50대 여성 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외도를 의심해 남편의 신체 중요 부위를 흉기로 절단한 50대 여성의 범행에 사위뿐 아니라 딸도 가담한 것으로 드러났다. &lt;br&gt;&lt;br&gt;인천지검 형사2부(부장 김희영)는 살인 미수 등 혐의로 50대 여성 A씨와 A씨의 사위 30대 B씨 등 2명을 구속 기소했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 또 위치정보보호 및 이용 등에 관한 법률 위반 혐의로 A씨의 딸 30대 여성 C씨를 이들과 함께 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 1시쯤 인천 강화군 화도면의 한 카페에서 술을 마시고 자고 있던 남편 D(58)의 얼굴과 팔 등을 찌르고 신체 중요 부위를 흉기로 잘라 살해하려 한 혐의를 받고 있다. B씨는 D씨를 끈과 테이프로 결박하는 등 A씨 범행을 도운 혐의를 받는다.&lt;br&gt;&lt;br&gt;C씨는 범행 전 A씨와 함께 흥신소를 이용해 D씨의 위치를 추적한 혐의를 받고 있다. 지난 7일 사건을 송치받은 검찰은 디지털 포렌식과 통신, 인터넷 자료 분석 등 보완 수사를 벌였고, C씨가 흥신소를 통해 A씨 등과 함께 D씨의 위치를 추적한 사실을 확인했다. &lt;br&gt;&lt;br&gt;D씨는 당시 신고를 받고 출동한 119 구급대에 의해 병원으로 옮겨져 치료를 받아쓰며, 생명에는 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 조사 과정에서 “남편의 외도가 의심돼 범행했다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “C씨는 피해자 D씨의 의붓딸로 파악됐다”며 “범죄피해자지원센터와 협력해 치료비 등 피해자 지원을 하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이혼 소송 중 아내가 짐 싸자... 흉기로 살해한 50대 ‘징역 22년’ </title>
+      <link>https://www.chosun.com/national/2025/08/25/Y6SCESSSFZHVFCFXELT7F27ZTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/25/Y6SCESSSFZHVFCFXELT7F27ZTQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 25 Aug 2025 04:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITR73JEUPBGFBAQ64FT3UZ5SPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송 중이던 아내를 흉기로 찔러 숨지게 한 50대 남성에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;창원지법 형사2부(재판장 김성환)는 살인 혐의로 기소된 A(59)씨에게 징역 22년을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 3일 오후 2시 20분쯤 경남 창원시 의창구 자신의 주거지에서 아내인 50대 B씨를 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 집을 나가기 위해 짐을 챙기고 있던 B씨와 말다툼을 벌이던 중 화가 나자 “이렇게 살아서 뭐 하겠나. 먼저 가서 기다려라, 나도 곧 따라가겠다”며 부엌에 있던 흉기로 B씨 가슴과 복부 등을 수차례 찔렀다. &lt;br&gt;&lt;br&gt;A씨는 B씨의 외도를 의심해 관계가 틀어진 후 이혼 소송 중이었다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경찰에 전화해 “집에서 아내를 살해했다”고 한 뒤, 3층 주거지에서 투신했다. A씨는 골반이 골절되는 등 크게 다쳤지만 목숨을 건졌다.&lt;br&gt;&lt;br&gt;재판부는 “범행 경위와 죄질이 매우 나쁘고, 범행 수법 자체도 잔혹하다”며 “유족들은 엄벌을 탄원하고 있고, 부부 사이 불화를 살인으로 끝맺음한 피고인을 장기간 사회로부터 격리하는 게 마땅하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>AI가 스토킹 가해자 재범 경고한다… 경찰, 종합대책 발표</title>
       <link>https://www.chosun.com/national/national_general/2025/08/25/U7OHEK6VNVHSLH5XB4QPD6LN6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/U7OHEK6VNVHSLH5XB4QPD6LN6Y/</guid>
@@ -669,15 +687,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DC7ZUNY6P4ZMLIJEIXE7QC6PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 서울 서초구 대검찰청에 태극기와 검찰기가 나란히 바람에 흔들리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부와 보건복지부가 전국 24개 대학을 ‘외국인 요양보호사 양성대학’으로 선정했다. 외국인 요양보호사 양성대학 제도는 외국인 돌봄 전문 인력을 대학에서 길러내 돌봄 공백을 해결하겠다는 취지로 도입됐다.&lt;br&gt;&lt;br&gt;법무부는 24일 “양 부처가 3개 광역지방자치단체가 추천한 양성대학 후보 대학을 심의해 총 24곳을 최종 선정했다”며 명단을 공개했다. 이번에 양성대학으로 선정된 곳은 명지전문대·삼육보건대 등 전문대 20곳과, 호남대·백석대 등 4년제 대학 4곳이다.&lt;br&gt;&lt;br&gt;외국인 요양보호사 양성대학 제도는 지역 우수대학을 ‘외국인 요양보호사 양성대학’으로 지정하고, 유학생 유치부터 취업까지 전 과정을 체계적으로 관리하는 제도다.&lt;br&gt;&lt;br&gt;이들 대학은 2년의 시범사업 기간(2026~2027년) 동안 외국인 유학생 전담학과를 통해 요양보호사 양성 학위과정을 운영하고, 맞춤형 한국어 교육을 포함한 요양보호사 교육을 실시할 예정이다. 양성대학은 2026학년도 1학기부터 요양보호사 양성 학위과정을 운영할 수 있고, 2026학년도 입학생 모집을 위해 ‘외국인 요양보호사 양성대학’ 명칭을 사용할 수 있게 된다.&lt;br&gt;&lt;br&gt;시범사업 기간 동안 양성대학은 매 학기마다 자체평가를 실시하여야 하며, 법무부와 보건복지부는 시범사업 기간 종료 전 양성대학의 운영 성과에 대해 평가하는 성과평가를 실시한다. 양 부처는 향후 평가 결과를 고려해 정식사업 전환 여부 등을 결정할 예정이다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “외국인 요양보호사 양성대학 제도를 통해 지역사회에 필요한 요양보호사를 지역대학이 직접 양성함으로써 돌봄 인력난 해소에 크게 기여할 수 있을 것으로 기대된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전기자전거에 개 매달고 죽을 때까지 달렸다… 50대 견주 입건</title>
-      <link>https://www.chosun.com/national/regional/2025/08/24/X2Z7KNCZMBGZRLX53WVCOTORVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/24/X2Z7KNCZMBGZRLX53WVCOTORVQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 04:28:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 키우던 개를 전기자전거에 매달고 죽을 때까지 달린 50대 남성이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;천안동남경찰서는 견주인 50대 남성 A씨를 동물보호법 위반 혐의로 입건해 조사하고 있다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 22일 오후 7시 52분쯤 천안시 동남구 신부동 천안천 산책로에서 보더콜리 품종의 대형견을 전기자전거에 매달고 달려 죽게 한 혐의를 받고 있다. 보더콜리는 순록과 양 등을 지켰던 이른바 ‘양치기개’로 알려져 있다. 지능이 높고 끈기가 있고 주인에게 순종하는 기질을 갖고 있다고 한다.&lt;br&gt;&lt;br&gt;행인이 헐떡거리는 상태로 피를 흘리며 전기자전거에 매달린 채 끌려가는 개를 보고 A씨를 제지하고, 경찰에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;구조될 당시 살아있었던 이 개는 동물병원으로 이송 도중 숨졌다. 질식사로 추정된다는 수의사의 소견이 나왔다.&lt;br&gt;&lt;br&gt;목격자들은 경찰 조사에서 “개가 서 있지도 못할 만큼 탈진했지만 견주가 전기자전거에 매달고 계속 끌고 다녔다”고 진술했다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 “키우는 개가 살이 쪄서 운동시키려고 산책을 시킨 것이다”고 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 증언 등을 토대로 동물 학대로 보고 수사 중이다. 경찰 관계자는 “견주를 상대로 자세한 경위를 파악하고, 추가 학대 여부 등도 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>헌재 “보호자의 아동학대 더 엄하게 처벌하는 현행법은 합헌”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/24/GTEC44OLMNG6VNQ52IZ24QOZN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/24/GTEC44OLMNG6VNQ52IZ24QOZN4/</guid>
@@ -730,15 +739,6 @@
       <description/>
       <pubDate>Sun, 24 Aug 2025 02:20:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GB2BV6CT3JFIBMDHFHGNR73MJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원 · 서울행정법원 청사 /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25전쟁 당시 강제 납북돼 북한에서 사망한 철도공무원에게도 퇴직연금을 지급해야 한다는 1심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정11부(재판장 김준영)는 A씨 유족이 공무원연금공단을 상대로 낸 ‘퇴직연금 부지급 처분 취소’ 소송에서 원고 승소로 판결했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;6·25전쟁 당시 교통부 철도청 소속 철도공무원으로 근무하던 A씨는 1950년 7월 15일 인민군에 납북 당했다. 그는 북한에서 B씨와 결혼해 살다가 1996년 사망했고 B씨는 남편 사망 후 2003년 10월 탈북해 국내로 들어왔다.&lt;br&gt;&lt;br&gt;B씨는 작년 3월 공무원연금공단에 남편 A씨의 퇴직급여를 청구했으나, 공무원연금공단이 “A씨는 ‘공무원 재직기간’과 ‘기여금(보험료) 납입 요건’을 충족하지 못했다”며 거부하자 소송을 냈다. B씨 측은 A씨가 공무 수행 중 납북돼 당연퇴직이나 면직되지 않았기 때문에 공무원연금법이 제정·시행된 1960년 당시 공무원 신분을 유지하고 있었다고 주장했다.&lt;br&gt;&lt;br&gt;법원은 유족 손을 들어줬다. 먼저, 재직기간과 관련해 재판부는 “A씨는 납북 당시 공무원으로 재직했고, 당시 국가공무원법에 따르면 공무원의 납북이나 행방불명은 당연퇴직이나 면직 사유가 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;기여금 납입 요건에 대해서도 “A씨는 공무원연금법 제정 전 납북됐으므로 기여금을 납부하지 않았지만, 공무원연금법은 퇴직급여 수급 요건으로 기여금 납부를 요구하고 있지 않다”며 “이미 임용돼 공무원 신분이 된 이상 기여금이 적립되지 않았다는 이유로 연금법 적용대상자가 아니라고 할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여대생 난자 600만원 드릴게요”... 매매 유인한 30~40대 여성들</title>
-      <link>https://www.chosun.com/national/regional/2025/08/24/UUHLR5D5P5AMRARXMSK6SZJWFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/24/UUHLR5D5P5AMRARXMSK6SZJWFM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 24 Aug 2025 02:41:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU35EWUILZHTMLUCBRRKTLMAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 부산법원종합청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 지역 대학교 여자 화장실에 난자를 제공하면 수백만 원을 주겠다는 전단을 붙인 여성 2명이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사5단독 김현석 부장판사는 생명윤리 및 안전에 관한 법률 위반 혐의로 기소된 40대 여성 A씨와 30대 여성 B씨에게 각각 징역 4개월에 집행유예 1년을 선고했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 작년 부산 지역 대학 여자 화장실 4곳에 자신들이 개설한 카카오톡 오픈채팅방으로 연결되는 QR코드가 기재된 ‘고액 단기 알바’ 등의 전단을 붙여 난자 매매를 유인한 혐의를 받는다.&lt;br&gt;&lt;br&gt;현행법상 금전이나 재산상 이익을 목적으로 난자와 정자 제공을 유인하거나 거래하는 행위는 금지되고 있다.&lt;br&gt;&lt;br&gt;전단 부착 이후 일주일간 A씨에게는 6명이, B씨에게는 7명이 연락했다. 두 사람은 난자 기증자를 찾고 있다며 사례금 500만~600만원을 제시했으나 실제 매매로는 이어지지 않았다고 한다.&lt;br&gt;&lt;br&gt;김 판사는 “이 사건 범행은 죄질이 가볍지 않다”면서 “피고인들 모두 반성하고 있고, 초범인 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>남의 땅에 사과나무 심고 수확… 대법 “처벌 못해”</title>
