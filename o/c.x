@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>야구부에 1200만원 한우 쏜 이대호…“선배님 본받겠다” 후배의 다짐</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/CXGZEANCSBHUPE4CMTK4IORTAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/CXGZEANCSBHUPE4CMTK4IORTAA/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 26 Aug 2025 22:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VJEARMMSDZBAFB5RC35Q6F2TKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야구선수 출신 이대호가 모교 경남고 후배들의 우승을 축하하기 위해 회식비를 결제하고 있다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;야구 선수 출신 이대호가 모교인 경남고등학교 야구부의 우승을 축하하기 위해 후배들에게 한우 회식을 선물했다.&lt;br&gt;&lt;br&gt; 지난 25일 이대호의 유튜브 채널에는 “大(대) 경남고 우승 기념으로 후배들에게 한우 쐈습니다”라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt; 경남고는 지난 2일 경북 포항야구장에서 열린 ‘제59회 대통령배 전국고교야구대회’ 결승전에서 휘문고를 4대 3으로 꺾고 우승했다. 경남고의 대통령배 우승은 1945년 창단 이후 처음이다.&lt;br&gt;&lt;br&gt;이대호는 후배들이 쓴 역사적인 성과를 축하하기 위해 모교를 방문했다. 그는 후배들에게 “대통령배 우승 축하하고, 앞으로는 봉황대기 대회가 남아 있으니까 더 열심히 하자. 또 우승하면 고기 사주겠다”며 격려했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3D2HMHCJFGW5BYTI5Z37DMZGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야구선수 출신 이대호 모교 경남고 후배들의 우승 기념 회식./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 이대호는 부산 해운대구의 한 한우 식당에서 축하 자리를 마련했다. 이 자리에는 경남고 야구부 약 60명이 함께했다. 회식 비용은 소고기 230인분을 포함해 총 1278만원이 나왔다.&lt;br&gt;&lt;br&gt;계산서를 든 이대호는 잠시 당황한 기색을 보였지만 “60명이 왔는데 230인분이면 많이 안 먹은 거 아니냐”며 ‘이대호’ 이름이 써진 개인 카드를 꺼내 들었다. 곧 “일시불로 가자”며 회식비 전액을 결제했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WEZ4JMC44KE3XEUSIIZL2UKYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남고 야구부./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 영상에는 경남고 2학년 내야수 안우석군이라고 밝힌 네티즌의 댓글이 달렸다. 안군은 “소고기 정말 잘 먹었다. 이대호 선배님의 모습을 본받아 저 또한 성공하면 모교를 위해 한턱 낼 수 있는 그런 선수가 되겠다”며 “봉황대기도 우승을 위해 열심히 해보겠다”고 다짐했다.&lt;br&gt;&lt;br&gt;영상을 접한 네티즌들은 “고깃집도 일부러 비싸고 야경 좋은 곳으로 데려가서 제대로 사줬다” “아무리 돈 많아도 쉽지 않은 일인데 후배들 위하는 마음이 대단하다” “저 선수들도 프로 데뷔해서 성공하고 멋진 선배한테 배운 걸 후배들한테 알려주면서 과거를 생각할 것” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독]최교진, 토지공사 감사때 2년9개월간 4억7000만원 받아</title>
       <link>https://www.chosun.com/national/education/2025/08/27/2UOY7VLPH5B2RGYH7KL7EH6IF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/27/2UOY7VLPH5B2RGYH7KL7EH6IF4/</guid>
@@ -909,15 +918,6 @@
       <description/>
       <pubDate>Mon, 25 Aug 2025 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNWZZMIZHZCYZHV3HZADSKJ7EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상훈(69) 전 대법관이 25일 별세했다. 고인은 1977년 19회 사법시험에 합격해 사법연수원을 10기로 수료했다. 서울지법 부장판사와 서울고법 부장판사 등을 지냈고, 2011년 이용훈 당시 대법원장 임명 제청으로 대법관이 됐다. 유족은 아내 이덕미씨와 아들 화송·딸 화은씨, 동생 이광범 법무법인 LKB평산 총괄경영대표변호사가 있다. 빈소 삼성서울병원, 발인은 27일 8시30분. (02)3410-6917&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 이명순씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/08/26/SYHD56V2NNAWJOL76QAPLB5PBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/08/26/SYHD56V2NNAWJOL76QAPLB5PBA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;이명순&lt;/b&gt; 별세, &lt;b&gt;양갑승&lt;/b&gt; 보람사무용가구 대표·&lt;b&gt;양희경&lt;/b&gt;·&lt;b&gt;양승호&lt;/b&gt; 세이빙스토리 부장·&lt;b&gt;양승만&lt;/b&gt; 광주대 대외협력처 근무 모친상, &lt;b&gt;양솔&lt;/b&gt; LH광주전남지역본부 근무 조모상, &lt;b&gt;정찬별&lt;/b&gt; 강원랜드 주임 외조모상=25일0시44분 광주광역시 VIP장례타운, 발인 27일12시30분, (062)521-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장영란&lt;/b&gt; 별세, &lt;b&gt;김현곤&lt;/b&gt; 경기도경제과학진흥원장·&lt;b&gt;김주연&lt;/b&gt; 요리연구가·&lt;b&gt;김보연&lt;/b&gt; 이대목동병원 간호파트장·&lt;b&gt;김민곤&lt;/b&gt; 서울진로직업체험지원센터 협의회장 모친상, &lt;b&gt;배병구&lt;/b&gt; 김선민 조국혁신당 대표 권한대행 보좌관 장모상=25일8시18분 서울성모병원, 발인 27일6시40분, (02)2258-5979&lt;br&gt;&lt;br&gt;▲&lt;b&gt;채영자&lt;/b&gt; 별세, &lt;b&gt;곽운수&lt;/b&gt; 조선일보 CS월배센터 대표 모친상=25일3시38분 계명대 동산병원, 발인 27일6시, (053)258-4444&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 8월 26일</title>
