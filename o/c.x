@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>도경완 “서로 존중·배려하며 살아”...‘장윤정 서브’ 발언에 밝힌 심경</title>
+      <link>https://www.chosun.com/national/people/2025/08/26/VSIGRKLPTJAHPMVDJYUCEMWELE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/26/VSIGRKLPTJAHPMVDJYUCEMWELE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 26 Aug 2025 05:12:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBVWIQUBZZFAXH2PFYZ7NKQQZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 방송인 도경완(왼쪽)과 가수 장윤정./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진웅 KBS 아나운서의 ‘장윤정 서브’ 발언이 논란이 되자, 당사자인 아나운서 출신 방송인 도경완이 직접 입장을 밝혔다. &lt;br&gt;&lt;br&gt;도경완은 26일 인스타그램을 통해 “저희 부부의 모습이 누군가에게는 한쪽으로 기울어져 보일지 모른다. 그러나 저희 부부는 서로 존중하고 배려하며 단단하게 의지하고 살아가고 있다”고 전했다. &lt;br&gt;&lt;br&gt;이어 김진웅으로부터 사과 문자를 받았다면서 “이번 일로 저희 가족과 저희 가족을 사랑해주시는 분들께 상처를 입힌 것 같아 속이 상했지만, 이로 인해 누군가 또 상처받는 일은 없었으면 한다”고 했다. 그러면서 “저희는 다시 밝은 모습으로 인사드리겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김진웅 아나운서는 지난 24일 방송된 KBS2 ‘사장님 귀는 당나귀 귀’에서 결혼정보업체를 찾아 “난 도경완 선배처럼 못 산다. 선배에게 결례인 말일 수도 있지만 누군가의 서브로는 못 산다”고 발언했다.&lt;br&gt;&lt;br&gt;이에 장윤정은 자신의 인스타그램에 이 발언이 담긴 기사를 캡처해 올리며 “상대가 웃지 못하는 말이나 행동은 ‘농담’이나 ‘장난’으로 포장될 수 없다”며 “가족 사이에 ‘서브’는 없습니다”라고 불쾌감을 드러냈다.&lt;br&gt;&lt;br&gt;김진웅 아나운서는 논란이 일자 “오늘 방송에서 경솔한 발언으로 도경완, 장윤정 선배님께 심려를 끼쳐 드려 사과의 말씀을 올린다”며 “아직까지 경험도 부족하고, 스스로에겐 귀하게 찾아온 기회인 듯해 의욕만 앞서다 보니 신중하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그의 사과에도 불구하고 전날 KBS 시청자 청원 게시판에는 ‘김진웅 아나운서의 모든 프로그램 하차 및 퇴사 청원’이라는 제목의 청원까지 등장했다.&lt;br&gt;&lt;br&gt;청원글 작성자는 “저는 수신료를 내는 시청자로서, KBS 아나운서 김진웅씨의 최근 발언과 태도에 대해 깊은 실망과 분노를 느끼고 있다”며 “공영방송의 아나운서는 단순히 방송 진행자가 아니라, 국민 앞에서 언행으로 신뢰와 품격을 보여줘야 하는 자리”라고 했다.&lt;br&gt;&lt;br&gt;이어 “김진웅 아나운서의 발언은 KBS 아나운서 전체의 품격을 훼손하고, 수신료를 납부하는 국민의 신뢰를 저버리는 행위”라며 “단순한 농담의 선을 넘어 특정인을 공개적으로 깎아내리는 부적절한 발언이었다”고 꼬집었다. 그러면서 김진웅의 모든 프로그램 하차와 KBS 아나운서직 퇴사를 요구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술자리서 동료와 싸우다 흉기 들어 난동 부린 경찰관 ‘직위해제’</title>
+      <link>https://www.chosun.com/national/regional/2025/08/26/N7KS4XURVRAG7GCU7HRJCOBRQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/26/N7KS4XURVRAG7GCU7HRJCOBRQA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 26 Aug 2025 05:03:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2FBKHUV4WFHFPVEPEWA7SYN3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 중부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 현직 경찰관이 술자리에서 동료와 다투던 중 흉기를 들었다가 직위해제돼 조사를 받고 있다.&lt;br&gt;&lt;br&gt;울산경찰청은 폭력 사건과 관련해 울산 중부경찰서 소속 A경감과 B경위를 조사 중이라고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A경감은 지난 23일 0시 45분쯤 울산 중구의 한 주점 앞에서 B경위와 다투다가 감정이 격해지자 주점 안 주방에서 흉기를 들고 나왔다.&lt;br&gt;&lt;br&gt;이 모습을 본 주점 손님이 112에 “(한 남성이) 흉기를 들고 설치고 있다. 불안하다”고 신고하면서 경찰관들이 출동했다. 다친 사람은 없었다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A경감은 당시 흉기를 휘두르거나 싸움을 벌이지는 않았다. 당시 그는 B경위 등 동료 2명과 이 주점에서 술을 마시다가 B경위와 함께 밖으로 나가게 됐고, 서로 시비가 붙은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A경감을 직위해제했다. 또 당시 정확한 사고 경위를 조사한 후 흉기 소지, 특수 협박 등 관련 혐의가 적용될 수 있는 지 여부를 검토해 징계할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 특검 “김건희, 오는 28일 재소환 통보”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/26/4UVLSRV4VJDAJGHC4L4SC7O7XM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/4UVLSRV4VJDAJGHC4L4SC7O7XM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 26 Aug 2025 04:24:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FHH2A7GNIXXZSGUSJ2D4XYZN6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일 오후 서울 서초구 서울중앙지법에서 열린 구속 전 피의자 심문(영장실질심사)를 마치고 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 오는 28일 김 여사에게 소환 조사를 통보했다고 26일 밝혔다. 특검이 이르면 오는 29일 김 여사를 재판에 넘기겠다고 밝힌 만큼, 이번 조사가 기소 전 마지막 조사가 될 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;이날 특검은 “김건희씨가 내일(27일) 건강상의 이유로 불출석 사유서를 제출해 28일 오전 10시에 소환했다”고 밝혔다. 앞서 김 여사 측은 “27일 출석은 어렵지만, 28일에는 가능하다”는 취지의 불출석 사유서를 수감 중인 서울남부구치소 측에 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 여사는 도이치모터스 주가 조작, 명태균씨 관련 공천 개입, ‘건진법사’ 전성배씨를 통한 통일교의 청탁 등 의혹을 받는다. 지난 12일 구속된 뒤로 현재까지 4번의 특검 조사를 받았는데, 김 여사 측은 대부분의 질문에 진술거부권을 행사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 오는 28일 5번째 조사를 마치고 이르면 오는 29일 김 여사를 기소할 방침이다. 김 여사의 구속 기간이 오는 31일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>30세 미만 당뇨병 환자 13년 사이 4배 늘었다</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/08/26/23MESU4AWJDFPH3BVATRR5TZQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/26/23MESU4AWJDFPH3BVATRR5TZQU/</guid>
@@ -780,15 +807,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J56YV54VQ5NFFMYAXEM4WQATWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남편의 신체 중요 부위를 절단해 살해하려 한 혐의로 구속 기소된 50대 여성 A씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외도를 의심해 남편의 신체 중요 부위를 흉기로 절단한 50대 여성의 범행에 사위뿐 아니라 딸도 가담한 것으로 드러났다. &lt;br&gt;&lt;br&gt;인천지검 형사2부(부장 김희영)는 살인 미수 등 혐의로 50대 여성 A씨와 A씨의 사위 30대 B씨 등 2명을 구속 기소했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 또 위치정보보호 및 이용 등에 관한 법률 위반 혐의로 A씨의 딸 30대 여성 C씨를 이들과 함께 불구속 기소했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1일 오전 1시쯤 인천 강화군 화도면의 한 카페에서 술을 마시고 자고 있던 남편 D(58)의 얼굴과 팔 등을 찌르고 신체 중요 부위를 흉기로 잘라 살해하려 한 혐의를 받고 있다. B씨는 D씨를 끈과 테이프로 결박하는 등 A씨 범행을 도운 혐의를 받는다.&lt;br&gt;&lt;br&gt;C씨는 범행 전 A씨와 함께 흥신소를 이용해 D씨의 위치를 추적한 혐의를 받고 있다. 지난 7일 사건을 송치받은 검찰은 디지털 포렌식과 통신, 인터넷 자료 분석 등 보완 수사를 벌였고, C씨가 흥신소를 통해 A씨 등과 함께 D씨의 위치를 추적한 사실을 확인했다. &lt;br&gt;&lt;br&gt;D씨는 당시 신고를 받고 출동한 119 구급대에 의해 병원으로 옮겨져 치료를 받아쓰며, 생명에는 지장이 없는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 조사 과정에서 “남편의 외도가 의심돼 범행했다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “C씨는 피해자 D씨의 의붓딸로 파악됐다”며 “범죄피해자지원센터와 협력해 치료비 등 피해자 지원을 하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이혼 소송 중 아내가 짐 싸자... 흉기로 살해한 50대 ‘징역 22년’ </title>
-      <link>https://www.chosun.com/national/2025/08/25/Y6SCESSSFZHVFCFXELT7F27ZTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/25/Y6SCESSSFZHVFCFXELT7F27ZTQ/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 04:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITR73JEUPBGFBAQ64FT3UZ5SPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 소송 중이던 아내를 흉기로 찔러 숨지게 한 50대 남성에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;창원지법 형사2부(재판장 김성환)는 살인 혐의로 기소된 A(59)씨에게 징역 22년을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 3일 오후 2시 20분쯤 경남 창원시 의창구 자신의 주거지에서 아내인 50대 B씨를 살해한 혐의를 받는다. &lt;br&gt;&lt;br&gt;판결문에 따르면 A씨는 집을 나가기 위해 짐을 챙기고 있던 B씨와 말다툼을 벌이던 중 화가 나자 “이렇게 살아서 뭐 하겠나. 먼저 가서 기다려라, 나도 곧 따라가겠다”며 부엌에 있던 흉기로 B씨 가슴과 복부 등을 수차례 찔렀다. &lt;br&gt;&lt;br&gt;A씨는 B씨의 외도를 의심해 관계가 틀어진 후 이혼 소송 중이었다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 경찰에 전화해 “집에서 아내를 살해했다”고 한 뒤, 3층 주거지에서 투신했다. A씨는 골반이 골절되는 등 크게 다쳤지만 목숨을 건졌다.&lt;br&gt;&lt;br&gt;재판부는 “범행 경위와 죄질이 매우 나쁘고, 범행 수법 자체도 잔혹하다”며 “유족들은 엄벌을 탄원하고 있고, 부부 사이 불화를 살인으로 끝맺음한 피고인을 장기간 사회로부터 격리하는 게 마땅하다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>AI가 스토킹 가해자 재범 경고한다… 경찰, 종합대책 발표</title>
       <link>https://www.chosun.com/national/national_general/2025/08/25/U7OHEK6VNVHSLH5XB4QPD6LN6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/25/U7OHEK6VNVHSLH5XB4QPD6LN6Y/</guid>
@@ -805,15 +823,6 @@
       <description/>
       <pubDate>Mon, 25 Aug 2025 03:09:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH6YZHB6WKK5RJYODZ25GZTT6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 8월 1일 오후 서울 종로구 정부서울청사 내 마련된 행정안전부 경찰국 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 산하 경찰국이 오는 26일 공식 폐지될 전망이다. 2022년 행안부에 설치된 지 3년 만이다. &lt;br&gt;&lt;br&gt;25일 행안부는 경찰국 폐지를 위한 ‘행정안전부와 그 소속기관 직제 개정령’과 시행규칙 개정을 완료했다고 밝혔다. 지난 18일 국무회의에서 직제 개정령안이 의결됐고, 오는 26일 공포·시행되면 폐지 절차가 마무리된다.&lt;br&gt;&lt;br&gt;행안부는 경찰국 운영의 문제점과 조속한 폐지 필요성에 대한 국민 공감대가 충분히 형성됐다고 판단해 새 정부의 정부조직 개편안과 국정과제 확정 이전임에도 신속히 폐지를 추진했다고 설명했다. 폐국 이후 자치경찰 지원 등 경찰국에서 맡던 주요 업무는 경찰청 내 소관 부서로 이관된다.&lt;br&gt;&lt;br&gt;경찰국은 윤석열 정부 때인 2022년 8월 행안부에 설치됐다. 이전까지 경찰은 청와대 민정수석실이 관리해왔는데, 윤석열 전 대통령이 대선 공약에 따라 민정수석실을 없애면서 법률상 경찰이 소속돼 있는 행안부에 경찰국을 신설한 것이다. ‘검수완박(검찰 수사권 완전 박탈)’으로 권한이 커진 경찰을 통제한다는 명분도 있었다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “국민께 드린 약속을 지키기 위해 취임 이후 속도감 있게 추진한 경찰국 폐지 작업을 매듭지으며, 경찰 조직 정상화에 한 걸음 더 다가가게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 “앞으로도 경찰의 독립성 보장과 민주적 통제 실질화를 위해 노력하는 한편, 경찰이 오직 시민의 안전과 행복을 위해 봉사하는 ‘국민의 경찰’로 거듭나도록 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민 10명 중 8명 “건보료 부담돼…보험료율 동결·인하해야”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/25/IZQ5B2I4A5GGRM4UZCMWQQ4ER4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/25/IZQ5B2I4A5GGRM4UZCMWQQ4ER4/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FLRNGI7HZEMHJ3VUSCHETUFTE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우리 국민 10명 중 8명은 건강보험료가 부담돼 보험료율을 동결하거나 인하해야 한다고 생각하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 한국경영자총협회(경총)는 이런 내용을 담은 ‘2025 국민건강보험 현안 대국민 인식조사’ 결과를 발표했다. 이 조사는 경총이 모노리서치에 의뢰해 실시했으며, 지난달 28일부터 이달 8일까지 12일 동안 전국 만 20세 이상 남녀 1007명이 응답했다.&lt;br&gt;&lt;br&gt;조사 결과에 따르면, 응답자의 45.2%는 보험료율을 동결해야 한다고 했다. 보험료율을 인하해야 한다고 응답한 비율은 35.1%였다. 합치면 80.3%로 이는 2020년 조사 이후 최고치다. 보험료율을 인상해야 한다는 응답은 19.7%였다.&lt;br&gt;&lt;br&gt;본인이나 가계 소득에 비해 건보료가 부담된다는 응답은 77.6%였다. 건보료 부담 수준이 보통이라고 응답한 비율은 17.6%, 부담되지 않는다는 응답은 4.8%였다.&lt;br&gt;&lt;br&gt;보건복지부는 요양병원 입원 환자들의 간병비를 건강보험 재정으로 지원하는 시범 사업을 하고 있다. 이에 대해 긍정적으로 평가하는 응답은 55.7%였다. 부정적 평가는 32%였다.&lt;br&gt;&lt;br&gt;업무와 관련 없는 상해·질병으로 소득을 잃었을 때 받는 ‘상병수당’을 건강보험에서 지급하는 것에 대해서는 긍정적 평가가 51.4%를 차지했다. 이는 처음으로 과반을 넘은 것이다. 부정적 평가는 38.5%로 조사됐다.&lt;br&gt;&lt;br&gt;현재 건강보험료율의 법정 상한은 8%다. 이 상한을 높이는 국민건강보험법 개정에 대해서는 부정적 의견(54.1%)이 긍정적 의견(32.3%)보다 많았다.&lt;br&gt;&lt;br&gt;한편 복지부는 오는 28일 건강보험정책심의위원회에서 내년에 적용할 건보료율을 결정할 예정이다. 윤석열 정부는 2년 연속 건보료율을 7.09%로 동결한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한덕수, 27일 구속영장 심사... 중앙지법 정재욱 판사 심리 </title>
@@ -877,15 +886,6 @@
       <description/>
       <pubDate>Mon, 25 Aug 2025 01:25:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YL46D52SX2CFBINZWKTBSZWTWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원 청사/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 정년퇴직한 근로자 중 정규직에게만 성과금을 주고 기간제에게 주지 않은 것은 차별이라는 법원 판단이 나왔다. 서울행정법원 행정11부(재판장 김준영)는 현대제철 자회사인 현대아이씨티가 중앙노동위원회를 상대로 ‘차별시정 재심 판정을 취소해달라’며 낸 소송에서 원고 패소로 판결했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;현대아이씨티는 2023년 1월 정규직 노동조합과 ‘2022년 임금협약’을 맺고, 당시 1개월 이상 근무한 재직자와 2022년 12월 31일 정년퇴직한 1962년생 정규직에게 경영성과금과 격려금을 지급하기로 합의했다. 회사는 이 임협에 따라 정년퇴직한 정규직 근로자들에게 성과금을 지급했다. 하지만 같은 날 퇴직한 기간제 근로자들에게는 주지 않았다. &lt;br&gt;&lt;br&gt;이에 정년퇴직한 1962년생 기간제 근로자들이 차별이라고 주장하며 충남지방노동위원회에 차별시정을 신청했다. 지노위에 이어 중노위도 “합리적 이유 없는 불리한 처우”라며 기간제 근로자 손을 들어줬다. 이에 회사는 차별시정에 불복해 법원에 소송을 냈다. &lt;br&gt;&lt;br&gt;법원도 “기간제 근로자라는 이유만으로 성과금을 지급하지 않은 것은 기간제법이 금지하는 차별적 처우”라고 판단했다. 재판부는 “회사는 임협으로 해당 노조 조합원들에게 급여를 지급할 의무를 갖게 되는 것이지, 노조에 가입하지 않은 다른 근로자들에게 급여를 지급하지 않을 의무를 부담하게 되는 것은 아니다”라며 “노사 간 임협의 효력을 존중하더라도, 이 합의가 같은 날 퇴직한 기간제 근로자에게 성과금을 지급하지 않을 근거가 된다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이어 “당시 정년퇴직한 정규직·기간제 근로자들의 업무 형태와 내용에 유의미한 차이가 없어 차별적 처우를 정당화할 정도의 차이가 있다고 보기 어렵다고 했다. 재판부는 또 임협을 체결한 교섭대표 노조에 임시직·촉탁직 사원이 제외된 점을 지적하며 “기간제 근로자들로서는 임협에 관여하거나 영향을 미칠 통로도 없었던 것으로 보인다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 김종현 대검 공공수사기획관 사직서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/25/ZRA6VEJHYVFPXJAZ43P3DOFDHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/25/ZRA6VEJHYVFPXJAZ43P3DOFDHU/</guid>
-      <dc:creator>김희래 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 01:08:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIYA6QLNQRIFDAPHY6MMVCF23Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김종현 대검찰청 공공수사기횐관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김종현(사법연수원 33기) 대검찰청 공공수사기획관(차장검사급)이 지난 22일 사직서를 제출한 것으로 25일 확인됐다. 지난 21일 법무부가 단행한 고검 검사급(차장·부장검사) 인사의 영향으로 풀이된다. 그는 지난 인사에서 부산지검 서부지청장으로 발령났다.&lt;br&gt;&lt;br&gt;김 기획관은 지난 2004년 검사로 임용된 이후 법무부 공안기획과 검사, 수원지검 공공수사부장, 서울중앙지검 공공수사1부장 등을 거쳤다. &lt;br&gt;&lt;br&gt;그는 수원지검 공공수사부장으로 재임할 당시 이재명 대통령의 ‘변호사비 대납 의혹’ 사건을 수사했다. 박근혜 정부였던 2017년에는 청와대 민정수석실 행정관으로도 근무했다.&lt;br&gt;&lt;br&gt;한편 한상형 법무부 형사법제과장(36기)도 최근 사의를 밝힌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 총격범, 생활비 월 640만원 받고도 범행…망상 빠진 이유는?</title>
