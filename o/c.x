@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아들 체벌 놓고 다투던 아내 살해한 40대... 항소심도 ‘징역 20년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/27/T7MXIQC46VFPLLURAI65JPRSIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/T7MXIQC46VFPLLURAI65JPRSIY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 05:11:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아들 체벌 문제로 말다툼을 하다가 아내를 살해한 40대 남성에게 1심에 이어 항소심에서도 중형이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사1부(재판장 정승규)는 살인 혐의로 기소된 A(49)씨에게 1심과 같은 징역 20년을 유지했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자는 피고인과 사이에서 자녀를 낳고 18년을 함께 살아온 배우자일 뿐만 아니라 피고인이 전 혼인 관계에서 낳은 두 자녀까지 따뜻하게 돌보며 양육해 온 사람”이라며 “그럼에도 피고인은 지나친 음주 습관으로 만취 시 피해자와 자녀를 수시로 폭행했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 지인들이 범행을 목격했는데도 수사 단계에서 계속 범행을 부인하다가 검찰 조사 말미에야 비로소 자백하는 등 죄책이 매우 무겁고, 비난 가능성도 크다”고 했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자 유족들은 깊은 슬픔에 빠져 있고 피고인에 대한 엄벌을 탄원하고 있다”며 “우발적 범행으로 보이고, 자신의 잘못을 반성하는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 1일 오후 9시 30분쯤 인천시 남동구 자택 거실에서 아내 B(51)씨를 여러 차례 때리고 흉기로 찔러 살해한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 지인들과 함께한 저녁 식사 자리에서 술을 마시던 중 B씨가 아들을 체벌하는 점에 대해 문제 제기하자 말다툼을 벌였고, 다른 여성들과 함께 집 밖으로 자리를 피했다 돌아온 B씨가 다시 양육 문제를 거론하자 격분해 상을 뒤엎고 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사기 혐의’ 부산 세계라면축제 대표, 잠적...경찰 지명수배</title>
+      <link>https://www.chosun.com/national/regional/2025/08/27/O74PCHEQSVFCDGTDJ5NWSF7AJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/O74PCHEQSVFCDGTDJ5NWSF7AJU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 05:09:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU7MOKEUG6WMOA6AZ5UKV4JTTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산연제경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 부산에서 열린 세계라면축제 운영사 대표가 사기 혐의로 수사를 받던 중 잠적해 경찰이 수배에 나섰다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 사기 등 혐의로 수사를 받던 세계라면축제 운영사 대표 A(50대)씨에 대해 지명수배를 내렸다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 5월 부산 기장군에서 열린 세계라면축제 관련 투자자와 협력업체 등에 투자금·공사 대금을 주지 않은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 연락을 끊고 잠적해 ‘소재 불명’ 처분을 내려 수사를 잠정 중단하고, 현재 지명수배해 소재를 파악 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사 중인 사안이라 자세한 내용은 알려줄 수 없다”면서 “A씨 소재가 확인되는 대로 수사를 재개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;한편 지난 5월 부산 기장군에서 열린 세계라면축제는 축제 기간 내내 부실한 행사 준비와 운영으로 방문객들의 수많은 혹평을 받다가 행사 기간도 채우지 못하고 끝났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검 “한덕수 영장심사에 360쪽 의견서 제출”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/27/64KBETHGKRC63F5M4TBU6EJGZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/64KBETHGKRC63F5M4TBU6EJGZU/</guid>
+      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 03:58:26 +0000</pubDate>
+      <content:encoded>내란 특검은 27일 오후 1시 30분부터 진행되는 한덕수 전 국무총리의 영장실질심사에 360여쪽 분량의 의견서를 제출했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMKNOXKMYQ4PNOOEI77ONFMPYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 22일 오전 12·3 비상계엄 사태에 가담·방조한 혐의로 피의자 조사를 받기 위해 서울 서초구 서울고등검찰청에 마련된 내란특별검사팀 사무실에 출석하고 있다./뉴스1 ⓒ News1 신웅수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서 “지난 25일 재판부에 360여쪽에 이르는 의견서를 제출했고, 160여쪽의 PPT도 제출했다”고 밝혔다. 오후 1시 30분 정재욱 서울중앙지법 영장전담 부장판사 심리로 열리는 구속 심사에는 김형수 특검보, 김정국 차장검사 외 검사 6명이 출석한다. 결과는 이날 늦은 밤이나 새벽에 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 24일 한 전 총리에 대해 내란 우두머리 방조, 허위 공문서 작성·행사, 대통령기록물관리법 위반, 공용 서류 손상, 위증 등 6개 혐의로 구속영장을 청구했다. 특검은 54쪽 분량의 구속영장 청구서에 범죄의 중대성을 비롯해 증거 인멸과 도주 우려, 재범 위험성 등을 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 한 전 총리가 대통령의 권한 남용을 견제해야 할 의무가 있는데도 비상계엄 선포를 저지하지 않고, 오히려 형식적 정당성을 갖추게 하려고 국무회의 소집을 건의했다고 보고 있다. 한 전 총리는 최초 계엄 선포문의 법적 하자를 덮기 위해 ‘사후 선포문’을 작성하고 폐기한 혐의, 헌법재판소와 국회에서 “계엄 선포문을 인지하지 못했다”고 위증한 혐의도 받는다.&lt;br&gt;&lt;br&gt;특검은 오후 1시쯤 서울고검에 마련된 내란 특검 사무실에서 한 전 총리에 대한 구인영장을 집행했다. 1시 18분쯤 서울중앙지법에 출석한 한 전 총리는 ‘계엄 정당화를 위해 국무위원들을 불렀나’ ‘그동안 왜 선포문을 안 받았다고 거짓말했나’ ‘대선 출마는 수사를 받지 않기 위한 것이었나’ ‘계엄 당일 추경호 국민의힘 의원과 왜 통화했나’ 등 취재진의 질문에 답하지 않고 법정에 들어갔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘나주 지게차 가혹행위’ 가담자 3명, 불구속 송치… 특수폭행 혐의</title>
+      <link>https://www.chosun.com/national/regional/2025/08/27/T7IUDSUNFFDBZLPKFVP5N5HKCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/T7IUDSUNFFDBZLPKFVP5N5HKCY/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 04:48:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKQTNYTDZVCIPB6Z3E4G2CZVWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 전남 나주의 한 벽돌 제조 공장에서 한국인 노동자들이 스리랑카 국적 외국인 노동자를 지게차로 들어 올리며 괴롭히는 모습. 비닐 랩으로 지게차 화물에 꽁꽁 묶었다. 이 모습을 휴대전화로 촬영하는 노동자도 보인다./광주전남이주노동자네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남경찰청 형사기동대는 이주노동자를 지게차에 결박하고 들어 올린 혐의(특수폭행 등)로 지게차 기사 A씨 등 3명을 불구속 송치했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 26일 나주의 한 벽돌 공장에서 스리랑카 국적 동료 B(31)씨를 지게차에 벽돌 더미와 함께 묶어 들어 올리는 등 가혹 행위를 한 혐의를 받고 있다. 또 이를 방조한 혐의로 외국인 노동자 2명도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 당시 상황을 촬영한 동영상이 언론 보도를 통해 공개되고 사회적 공분이 일자 수사에 나섰다. 이와 별개로 노동 당국은 실태 조사를 통해 A씨가 과거에도 유사한 가혹 행위를 벌인 정황을 발견해 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무용수 꿈꾸던 여고생 3명 사망 학교… 감사 결과 “입시 카르텔 정황”</title>
+      <link>https://www.chosun.com/national/regional/2025/08/27/3PQV3VJKRBEEZPVUESWKJVCRHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/3PQV3VJKRBEEZPVUESWKJVCRHY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 04:12:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SKY2LU2N7OPRYRH2NHLRDSLTKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시교육청 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6월 부산의 한 예술고 재학생 3명 사망 사건과 관련, 부산시교육청이 특별감사를 벌여 학교장과 행정실장 등에 대한 중징계를 학교법인에 요구했다. 감사 결과 해당 학교 운영 과정에서 학교-무용강사-학원 간 ‘입시 카르텔’을 비롯해 교직원들의 각종 비위가 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산시교육청은 해당 학교장 A씨와 행정실장 B씨를 포함한 26명(교원 15명, 강사 3명, 사무직원 8명)에 대해 신분상 처분을 내리고 8건의 행정상 조치, 8000여 만원에 달하는 재정상 회수·환불 조처를 내렸다고 27일 밝혔다. 다만 특별감사에서 학생들의 사망 원인을 추정할 수 있는 단서 등은 확인하지 못했다.&lt;br&gt;&lt;br&gt;학교장과 행정실장에 대해서는 학교법인에 중징계 의결을 요구할 예정이다. 학교장의 금품수수 의혹에 대해 경찰 수사를 의뢰하고, 행정실장의 횡령 혐의에 대해서는 경찰에 고발하기로 했다.&lt;br&gt;&lt;br&gt;부산시교육청에 따르면, 학교장 A씨는 일부 무용학원장들과 결탁해 학생들이 마음대로 학원을 옮기지 못하게 하는 등 특정 학원의 이권에 오랫동안 개입했다고 한다. &lt;br&gt;&lt;br&gt;감사 과정에서 A씨는 “학원에서 중학교 3학년 학생들을 보내줘야 학교가 운영되기 때문에 학원과 유대 관계가 생길 수밖에 없다”고 해명했다. 교육청 관계자는 “A씨는 감사 과정에서도 학원을 옮긴 학생을 질책한 사실에 대해 별다른 문제의식을 느끼지 못했다”고 했다. &lt;br&gt;&lt;br&gt;작년에는 무용과 실기 강사들의 학내 불법 개인지도가 적발됐다. 하지만 A씨는 문제를 제기한 교사들에게 오히려 “무용과를 간섭한다”고 반발했다고 한다. &lt;br&gt;&lt;br&gt;부산시교육청은 2021년 한국무용과 재학생 한 명이 극단적 선택을 한 사건과 관련해 해당 학생이 학원을 옮겼다는 이유로 A씨(당시 부장교사)에게 폭언과 괴롭힘을 당했다는 일부 교직원의 진술을 확보했다.&lt;br&gt;&lt;br&gt;교육청은 “입시 카르텔 형성은 단순히 사립학교법이 정한 사학기관 행동강령 위반이 아닌, 학생들의 진로와 입시 준비 과정을 불안하게 하고 학교 활동 전반을 혼란에 빠뜨린 중대한 위법·부당 행위”라고 했다. 사립학교법에 따르면, 직위를 이용해서 이권에 개입하거나 청탁 알선을 하면 안 된다. &lt;br&gt;&lt;br&gt;행정실장 B씨는 초과 근무수당 456만원과 성과 상여금 600여만원을 부정 수령한 것으로 확인됐다. B씨는 2009년 9월 1일 사립학교 사무직원으로 임용된 이후 4개의 상업 관련 사업체를 본인 명의로 운영하는 등 영리업무 금지 의무도 위반했다고 교육청은 전했다.&lt;br&gt;&lt;br&gt;교육청은 이번 감사에서 나타난 학교 운영의 구조적 문제를 진단하고 근본적인 대책을 마련하기 위해 감사관, 인성체육급식과 등 7개 부서 8개 팀이 참여하는 별도의 전담 조직을 구성했다.&lt;br&gt;&lt;br&gt;김석준 부산시교육감은 “해당 예술고의 정상화와 학생들의 안전한 학교생활 보장을 위해 감사 제보 창구는 항상 열려 있다”며 “접수되는 제보는 철저히 조사해 다시는 이러한 안타까운 일이 반복되지 않도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SKY2LU2N7OPRYRH2NHLRDSLTKA.jpg?auth=f61e1adf34b020a3c26e65dfcf0137736ed37b89564e36e04cbe3d64b77e5d90&amp;smart=true&amp;width=5190&amp;height=2861" type="image/jpeg" height="2861" width="5190">
+        <media:description type="plain">부산시교육청 전경 ⓒ News1 윤일지 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">KIM YOUNG HOON</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“전달 안 했다”...‘김영환 지사에 돈봉투 준 혐의’ 충북체육회장, 혐의 부인</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/27/GCRLHL5L2RCVXJON5DCU44OABM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/27/GCRLHL5L2RCVXJON5DCU44OABM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 04:43:42 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUDPJEOTX5ICXHJYWX7OXK3KLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사에게 돈봉투를 건넨 혐의를 받는 윤현우 충북체육회장이 27일 오전 충북경찰청에서 자신의 휴대전화에 대한 포렌식 과정에 참여한 뒤 기자들을 만나 혐의를 부인하는 입장을 밝히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김영환 충북지사에게 돈 봉투를 건넨 혐의로 수사를 받는 윤현우 충북체육회장의 휴대전화에 대한 분석에 나섰다. &lt;br&gt;&lt;br&gt;충북경찰청 반부패경제범죄수사대는 27일 오전 윤 체육회장이 참여한 가운데 휴대전화 분석을 진행했다. 윤 회장은 충북도청 압수수색 이전 이미 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;이날 윤 회장은 휴대전화 포렌식 과정에 참여한 뒤 기자들의 질문에 “김 지사에게 돈을 건넨 사실이 없다”고 답했다. &lt;br&gt;&lt;br&gt;윤 회장은 “600만원을 인출한 것은 당일 주머니에 10만원밖에 없어서 골프를 치러 가거나 체육회 선수들 격려금 등으로 쓰기 위해서 였다“라며 ”그 돈봉투는 차에 둔 채 김 지사를 만났다”고 주장했다. &lt;br&gt;&lt;br&gt;하지만 윤 회장은 정확한 용처에 대해서는 “기억나지 않는다”고 말했다. &lt;br&gt;&lt;br&gt;블랙박스 영상에 담긴 윤두영 충북배구협회장과의 통화 내용에 대해서는 “지사님이 일본에 가시는데 (형편이) 힘드니까 (고향) 후배들이 여비를 마련해주면 어떻겠느냐고 대화한 사실은 있다”라며 “하지만 (김 지사에게) 돈봉투를 준 적은 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 윤 체육회장의 휴대전화에 대한 포렌식을 통해 김 지사에게 돈이 건네진 정황을 뒷받침할 통화 내용이 있는지 살펴보고 있다. &lt;br&gt;&lt;br&gt;하지만 김 지사 휴대전화에 대한 분석 일정은 잡히지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;김 지사는 지난 6월 26일 충북도청 도지사실에서 윤 체육회장으로부터 500만원이 든 돈 봉투를 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 윤 체육회장이 앞서 윤 배구협회장과 250만원씩 분담하기로 하고 이를 건넨 것으로 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3명 질식사 ‘순천 레미콘 공장’ 압수수색… 휴대전화 등 증거물 확보</title>
+      <link>https://www.chosun.com/national/regional/2025/08/27/752VHWEOKZEOFJEPKBQGGVIOPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/752VHWEOKZEOFJEPKBQGGVIOPY/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 04:35:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSKOHXH3CFOQTOSEKM6CQOXNWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 고용노동부와 경찰이 3명이 사망한 전남 순천 레미콘 공장 질식사고와 관련해 업체를 압수수색한 뒤 서류등이 든 상자를 들고 사무실을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임직원 3명이 숨진 전남 순천 레미콘 공장 질식(중독) 사고를 조사하는 경찰과 노동 당국이 해당 업체를 27일 압수수색했다. 고용노동부와 경찰은 순천시 소재 레미콘 제조업체에 수사관과 근로감독관 등 15명을 투입해 압수수색을 벌였다.&lt;br&gt;&lt;br&gt;이들은 유해 물질 취급 관리, 보관 관련 자료와 관계자들의 휴대전화 등을 증거물로 확보했다. 이를 통해 사고 발생 원인을 확인하고 사측이 밀폐 공간 작업 시 보건 수칙을 준수했는지 여부를 살펴본다는 계획이다.&lt;br&gt;&lt;br&gt;지난 21일 순천 레미콘 제조업체에서 밀폐된 혼합제 저장 탱크 내부에서 작업하던 노동자 1명이 쓰러졌다. 그를 구조하기 위해 동료 작업자 2명이 탱크 내부로 들어갔다가 유해 가스에 중독돼 3명 모두 숨졌다.&lt;br&gt;&lt;br&gt;당시 탱크 내부에는 유해 가스인 이산화탄소와 황화수소 농도가 기준치를 크게 초과한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;광주고용노동청 관계자는 “이번 압수수색을 통해 확보된 증거 자료를 바탕으로 산업안전보건법 및 중대재해처벌법 위반 여부 등을 엄정하고 신속하게 수사할 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 신혼·자녀출산 부부 ‘한달 임대료 3만원 주택’ 지원하세요</title>
+      <link>https://www.chosun.com/national/regional/2025/08/27/K2UUARCBRBB2JNWVUINTSEXHDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/K2UUARCBRBB2JNWVUINTSEXHDM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 04:18:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3YRPYHXVRF7NLIBCCA3NQIEHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역 신혼부부를 대상으로 실시했던 ‘한달 3만원 주택’의 지원 자격을 확대한다.&lt;br&gt;&lt;br&gt;이는 저출생 극복을 위해 신혼부부·자녀 출산 가구 대상 ‘월 3만원 주택’ 지원사업 신청이 저조해 추가 모집에 나선 것이다.&lt;br&gt;&lt;br&gt;제주도는 ‘신혼부부 유형 월 3만원 공공임대주택 지원’ 사업명을 ‘3만원 주택’으로 변경하고 지원 대상 범위를 확대해 2차 모집을 실시한다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;제주도는 앞서 지난달 1∼25일 모집을 진행했으나 총 850가구 모집에 296가구만 신청했다. 이에 제주도는 2차 모집을 진행해 550가구를 추가로 선발하기로 했다.&lt;br&gt;&lt;br&gt;‘3만원 주택’은 신혼부부 또는 자녀 출산 가구를 대상으로 주택 임대료를 한달 3만원으로 낮춰 주거를 제공하는 저출생 극복 주거정책이다.&lt;br&gt;&lt;br&gt;지원 대상 범위를 확대해 분양 전환형을 제외한 제주지역 모든 공공임대주택 거주 가구를 대상으로 한다. 선정되면 올해 8월 이후 최대 5개월분의 임대료를 지원받는다.&lt;br&gt;&lt;br&gt;지원 조건은 제주지역 공공임대주택에 입주하고, 혼인 또는 자녀 출산 기간이 7년 이내며, 세대별 월평균 소득이 전년도 도시근로자 가구원 수별 월평균 소득의 100% 이하(맞벌이 부부 120% 이하, 2인 가구 110% 이하)인 가구다.&lt;br&gt;&lt;br&gt;다만 국토교통부 등 다른 기관과 지자체의 유사한 지원(주거급여, 청년월세, 둘째 자녀 주거임차비, 신혼부부 등 주택전세자금 대출이자 지원 등)을 받고 있거나 주택을 보유한 경우 등은 제외된다.&lt;br&gt;&lt;br&gt;제주도는 이 사업으로 주거비 부담을 크게 줄여 자녀 출산과 양육에 실질적인 도움을 줄 것으로 기대한다.&lt;br&gt;&lt;br&gt;박재관 제주도 건설주택국장은 “1차 때는 지원 기준이 제한적이어서 대상자가 적었지만, 2차 모집에서는 범위를 넓혀 더 많은 도민이 혜택을 받을 것으로 기대된다”며 “다양한 주거정책을 추진해 신혼부부 등이 제주에서 안정적으로 거주할 수 있는 여건을 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정성호 법무장관 “수사-기소 반드시 분리돼야”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/27/F7UOGBRLVJASRENNLVPD7RE7QE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/F7UOGBRLVJASRENNLVPD7RE7QE/</guid>
@@ -810,15 +886,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산에서 부부 싸움 중 아내를 흉기로 찌르고 투신한 남편이 숨지는 사건이 발생했다. &lt;br&gt;&lt;br&gt;26일 양산경찰서 등에 따르면 이날 오전 0시15분쯤 양산시 물금읍 한 아파트 화단에서 남성 A(40대)씨가 숨진 채 발견됐다. 경찰은 2분 전 “집에 와달라. 사건이 있다”라는 A씨의 112신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;A씨 거주지인 아파트 안에서는 흉기에 찔려 쓰러져 있는 A씨 아내 B(30대)씨가 발견됐다. B씨는 병원으로 옮겨져 치료를 받고 있지만, 생명이 위독한 상태라고 한다.&lt;br&gt;&lt;br&gt;경찰은 자택에서 부부 싸움 중 A씨가 B씨를 흉기로 찌르고 투신한 것으로 보고, 이웃 등 주변인을 통해 정확한 사건 경위를 조사하고 있다. 현재까지 A·B씨 부부의 가정폭력 신고 등 범죄 이력은 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘보이스피싱’에 속아 1억들고 모텔에 ‘셀프 감금’ 30대…이 것 보고 피해 막았다</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/26/V6EGVVINRZF6FNQVIDCL464K6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/26/V6EGVVINRZF6FNQVIDCL464K6Y/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:22:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DINAHWS4GJCT3LCAWANNM64AKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안서북경찰서가 부착한 보이스피싱 예방 안내문. /천안서북경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱(전화금융사기)에 속아 모텔에 스스로 감금해 있던 30대 남성이 모텔에 붙은 경찰의 피싱 예방 안내문을 보고 경찰에 신고해 피해를 면했다.&lt;br&gt;&lt;br&gt;26일 충남 천안서북경찰서에 따르면 A(30대)씨는 지난 21일 오후 8시쯤 “검사 명령으로 지금 모텔에 투숙 중인데 아무래도 보이스피싱이 의심된다”고 112에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 모텔에 있던 A씨가 보이스피싱에 속은 사실을 확인하고 현금 전달이 이뤄지지 않도록 막았다.&lt;br&gt;&lt;br&gt;앞서 A씨는 검사를 사칭한 보이스피싱 조직원으로부터 “수사 중인 범죄에 당신의 계좌가 연루돼 구속하겠다. 자산 검수가 필요하니 보관 중인 모든 돈을 현금으로 인출해 천안 B 모텔에 투숙하라”는 지시를 받고 전재산 1억원을 인출해 모텔에서 ‘셀프 감금’한 상태였다.&lt;br&gt;&lt;br&gt;셀프 감금 보이스피싱은 피해자 스스로를 모텔에 감금하게 해 고립시키고, 금전을 요구하거나, 통화 원격제어 등으로 돈을 가로채는 방식이다.&lt;br&gt;&lt;br&gt;A씨는 검사로 생각한 보이스피싱 조직원의 연락에 두려움을 느끼고 지시에 따라 모텔에 들어가던 중 엘리베이터에서 경찰의 ‘보이스피싱 예방 안내문’을 보고 112에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;천안서북서는 셀프 감금 보이스피싱 피해 예방 차원에서 지역 내 숙박업소를 방문해 프런트와 엘리베이터 등에 범죄 예방 안내문을 게시했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 “자칫 1억원을 날릴 뻔했다. 보이스피싱 예방 포스터가 저를 구해줬다”고 경찰에 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경찰, 검사, 금융감독원 직원 등은 사건 수사를 빙자해 금전을 요구하거나 모텔 숙박을 요구하지 않는다”면서 “피해를 막기 위해 보이스피싱 범죄 예방 홍보를 계속하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>택배 주문한 게장·연어장에 식중독균·대장균…이럴 땐 즉시 병원으로</title>
       <link>https://www.chosun.com/national/national_general/2025/08/26/QXSVL7AFKFGFNL4YYD4VBUTIOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/26/QXSVL7AFKFGFNL4YYD4VBUTIOY/</guid>
@@ -826,33 +893,6 @@
       <description/>
       <pubDate>Tue, 26 Aug 2025 02:10:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTFL3XABVVHD3PJ5INQRHVSFRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;간장게장.(기사와 관련 없음)/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인에서 판매되고 있는 인기 수산물 반찬인 연어장과 게장 일부 제품에서 식중독균과 대장균이 검출됐다.&lt;br&gt;&lt;br&gt;한국소비자원은 온라인에서 유통되는 연어장 8개와 게장 7개 등 총 15개 제품을 분석한 결과를 26일 공개했다.&lt;br&gt;&lt;br&gt;조사 결과 연어장 2개 제품에서 식중독균인 리스테리아 모노사이토제네스가 검출됐다. 게장 4개 제품에서는 위생 지표균인 대장균이 기준 부적합에 해당했으며, 이 중 1개 제품에서는 이물(나일론끈)도 들어있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;표시 실태 조사에서는 15개 제품 중 12개가 식품 유형과 내용량, 소비기한 등 의무 표시사항 준수에 미흡한 것으로 나타났다.&lt;br&gt;&lt;br&gt;다만 납, 카드뮴 등 중금속 오염 조사에선 모든 제품이 관련 기준에 적합했다. 신선 배송 과정에서 변질은 없었고, 제품 중심부 온도도 냉장 온도(0~10℃)로 유지되는 것이 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BO2ZWWUWDZFAFDPLGBFU3EEZQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조사 대상 게장./한국소비자원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소비자원은 연어장·게장 제품의 안전성 확보와 소비자 사고 예방을 위해 해당 사업자에게 제품 위생 관리 강화 및 표시 사항 개선을 권고했다. 관련 업체들은 권고를 수용해 제조 공정의 위생 관리를 강화하고 제품 표시를 개선하기로 했다.&lt;br&gt;&lt;br&gt;소비자원 관계자는 “연어장 및 게장은 가열 조리 없이 바로 섭취하는 식품이라 유해 미생물에 오염되면 식중독이 발생할 수 있다”며 “제조·유통·판매 과정에 철저한 위생 관리가 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;아울러 “수산물 반찬류는 배송 후 적정 온도에 맞게 보관한 뒤 소비기한 내 섭취하고, 제품 개봉 시 상한 냄새가 나는 등 변질이 의심되면 섭취하지 말아야 한다”며 “식중독 증상을 느끼면 즉시 병원에서 진단을 받고 음식물과 같은 증거물은 비닐봉투에 담아 보건소에 신고해달라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH5JUHGRZZDLTC2IJQQ5UEPV6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조사 대상 연어장./한국소비자원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>거창서 편의점 종업원 흉기로 찌르고 도주한 베트남 여성 체포 </title>
-      <link>https://www.chosun.com/national/2025/08/26/ULN4T2V4IBHRHPIJYSEZUSF7MQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/26/ULN4T2V4IBHRHPIJYSEZUSF7MQ/</guid>
-      <dc:creator>거창=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:05:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOTJTRZPDJE3JLJM35T7CXBVB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거창에서 편의점 종업원을 흉기로 찌르고 도주한 베트남 국적 여성이 붙잡혔다.&lt;br&gt;&lt;br&gt;거창경찰서는 살인미수 혐의로 A(30대)씨를 붙잡아 조사 중이라고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 6시 19분쯤 거창군의 한 편의점에서 종업원 B (여·20대)씨를 흉기로 수차례 찌른 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨는 팔과 얼굴 등을 다쳐 인근 병원에서 치료를 받고 있다. 생명엔 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;인근 주민 신고를 받고 출동한 경찰은 범행 후 도주한 A씨의 동선을 추적해 오후 11시 35분쯤 현장에서 2~3km 떨어진 강변 부근에 숨어있던 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 베트남 국적의 결혼 이민자로, 피해 여성과는 이렇다 할 관계는 없는 것으로 파악했다. 편의점 안에서도 다툼 등도 없었던 것으로 확인했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨의 남편이 범행이 발생한 편의점의 전 업주였고, 현재 편의점 업주와는 송사 문제 등이 얽힌 것으로 확인된다”며 “이것이 범행에 이르게 된 동기였는지 등 정확한 사건 경위를 조사할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장도 신청할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“일주일 안에 수익 10% 보장해줄게” 교제 여성들 돈 뺏어 도박 30대 男 징역형 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/26/KLBRLUJUQZBTPB4W4DJYVD4OBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/26/KLBRLUJUQZBTPB4W4DJYVD4OBU/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:02:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4CRZJ25ZVZ6NEKXAADJJZ3QPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교제하던 여성들을 상대로 수익을 내주겠다며 투자금을 받고는 불법 도박에 사용한 30대 남성이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사6단독 김주석 판사는 어플을 통해 만난 여성 등 3명을 상대로 10%의 수익을 내주겠다며 투자금 1억1530만원을 뜯어내고는 도박에 사용한 혐의(사기)로 재판에 넘겨진 박모(35)씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;박씨는 지난 2023년 12월부터 2024년 2월 초까지 만난 여자친구 김모씨를 “이모가 대부업을 하는데 투자하면 1~2주 안에 수익을 낼 수 있다”며 구슬려 받아낸 돈을 도박에 썼다. 헤어진 뒤에는 “교제할 당시 투자했던 돈에 문제가 생겼다”며 100만원을 보내주면 일주일 안에 원금을 변제하겠다고 거짓말해 받은 돈으로 다시 도박을 손을 댔다. 이런 식으로 김씨에게 뜯어낸 돈만 4180만원이다. &lt;br&gt;&lt;br&gt;박씨는 같은 어플에서 만나 교제한 고모씨에게도 지난 2024년 4월부터 약 2개월간 똑같은 수법으로 돈을 받아내 도박을 했다. 이별한 뒤에 “투자한 돈에 문제가 생겼다”며 재차 돈을 뜯어낸 것까지 같았다. 고씨에게선 두 차례에 걸쳐 2750만원을 받아냈다. &lt;br&gt;&lt;br&gt;박씨는 교제한 여성 2명 외에 어플에서 만난 남성 김씨에게도 같은 수법으로 돈을 빼앗은 적이 있는 것으로 조사됐다. 박씨는 피해자들에게 아파트와 건물을 소유하고 있다며 재력을 과시하면서 접근했다. 이렇게 피해자 3명에게서 갈취한 돈은 총 1억1530만원에 달했다.&lt;br&gt;&lt;br&gt;김 판사는 “피고인은 도박 자금으로 사용하기 위해 교제하던 여성들과, 알고 지내던 남성을 상대로 계속하여 돈을 빼앗았다”며 “다만 피고인이 범행을 인정하는 점, 피해자들이 고소를 취소하고 처벌을 원치 않는 점, 동종 전과가 없는 점 등을 고려했다”며 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 31일부터 ‘외국 기업인 우대 입국심사대’ 시범 운영</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/ZO6S4SHAWRBSNMH2P33P2UUABU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/ZO6S4SHAWRBSNMH2P33P2UUABU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:00:00 +0000</pubDate>
-      <content:encoded>정부가 외국 국적 기업인들을 대상으로 입국심사 대기시간 단축을 추진한다. 외국 기업인들의 활발한 국내활동과 기업 투자를 지원한다는 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 법무부와 국토교통부는 “오는 31일부터 인천국제공항에서 비즈니스 목적으로 한국에 입국하는 외국 국적 기업인의 입국심사 대기시간을 단축하는 조치를 시행한다”고 밝혔다. 정부는 오는 31일부터 올해 12월까지 인천국제공항에서 우대 입국심사대를 시범 시행하고, 운영 결과를 바탕으로 김포·김해 등 다른 공항으로 확대 적용방안을 검토할 방침이다. 또 중·장기적으로는 일반 외국인도 자동출입국심사를 이용할 수 있도록 입국심사 체계를 개선해나갈 계획이다.&lt;br&gt;&lt;br&gt;이번 조치는 지난 6월 이재명 대통령 주재로 열린 경제단체·기업인 간담회에서 제기된 건의사항에 대한 후속조치다. 법무부에 따르면, 현재 한국 국민은 자동출입국심사를 이용할 경우 평균 2분 내외, 내국인 대상 유인(有人) 입국심사대를 이용할 경우 평균 5분이 소요되는 반면, 대부분의 외국인은 외국인 대상 유인 입국심사대를 이용해 평균 24~35분이 걸린다고 한다.&lt;br&gt;&lt;br&gt;정부는 간담회 이후 한국경제인협회, 한국경영자총협회, 주한미국상공회의소 등 국내 6개 경제단체가 추천하는 외국 국적 기업인이 별도 입국심사대를 통해 신속하게 입국할 수 있도록 절차를 개선했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “외국 기업인 입국심사 제도를 개선해 국내 기업의 글로벌 네트워크 형성을 지원하고, 외국 기업인의 활발한 국내활동과 기업투자를 돕도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 무안공항 ‘콘크리트 둔덕’ 없앨 세 번의 기회…정부 묵살로 날렸다</title>
@@ -871,24 +911,6 @@
       <description/>
       <pubDate>Tue, 26 Aug 2025 01:35:52 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7ETUH5PYMNNDPMLKTWB7LEAKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방부 장관이 최근 ‘순직 해병 수사 외압’ 의혹을 수사 중인 해병 특검에 “특검의 수사 대상이 되는 사건은 모두 대통령의 직무 권한 범위 내에 있어 윤석열 전 대통령의 직권남용 혐의는 전혀 성립하지 않는다”는 취지의 의견서를 제출한 것으로 26일 전해졌다. &lt;br&gt;&lt;br&gt;법조계에 따르면, 김 전 장관 측 변호인은 지난 25일 해병 특검에 우편으로 이 같은 취지의 의견서를 발송했다. 김 전 장관은 고(故) 채수근 상병이 경북 예천군 실종자 수색 작전 도중 급류에 휩쓸려 숨졌을 당시 대통령실 경호처장이었다.&lt;br&gt;&lt;br&gt;김 전 장관은 이른바 ‘VIP 격노설’이 불거진 2023년 7월 31일 국가안보실 회의에 경호처장 신분으로 참석했다. 윤 전 대통령은 당시 회의에서 해병대 수사단의 채 상병 사망 사건 초동 조사 결과를 보고받고 크게 화를 내며 수사에 외압을 가했다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 의견서에서 대통령은 모든 중앙행정기관의 장을 지휘·감독하며, 국무총리나 중앙행정기관장의 명령이나 처분이 위법·부당하다고 인정하면 이를 중지·취소할 포괄적 권한이 있다며 ‘수사 외압’ 의혹을 부인한 것으로 전해졌다. 윤 전 대통령이 ‘어떤 위법 사항도 없도록 매우 철저하게 직무를 수행하는 대통령’이라는 의견도 담은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 또 “특검의 수사 내용에 대해 알지 못한다”는 취지의 의견도 전달한 것으로 파악됐다. 항상 긴장 상태를 유지해야 하는 경호처장 특성상 직무 이외의 업무에는 관여하기 어렵다고, 직무상 비밀 준수 의무가 있다는 설명도 덧붙였다고 한다.&lt;br&gt;&lt;br&gt;앞서 해병 특검은 지난 18일 김 전 장관이 수감돼 있는 서울동부구치소를 방문해 1시간 30분가량 참고인 조사를 진행했다. 김 전 장관은 작년 12.3 계엄 선포에 관여한 혐의로 내란 특검에 의해 구속된 상태다. 당시 김 전 장관은 모든 질문에 대한 진술을 거부한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해병 특검은 김 전 장관 측이 발송한 의견서를 검토한 후 추가 조사 여부 등을 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전 여친 집까지 무면허 음주 운전한 30대, 스토킹 혐의로 구속</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/26/6GGBBR44Q5BJJJSWVSVU6GIJCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/26/6GGBBR44Q5BJJJSWVSVU6GIJCE/</guid>
-      <dc:creator>세종=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 01:46:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BE54AK4WJXXBOEB57JOPZDLHOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종북부경찰서. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헤어진 여자친구에게 지속적으로 연락하고 무면허 음주 상태로 차를 몰아 집까지 찾아간 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;세종북부경찰서는 스토킹처벌법 및 도로교통법 위반 혐의로 A(30대)씨를 구속했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 23일 새벽 세종시에 위치한 전 여자친구의 집을 찾아가 현관문을 여러 차례 두드리는 등 스토킹한 혐의를 받는다. 피해 여성의 신고를 받고 출동한 경찰은 A씨가 다시 찾아올 것에 대비해 잠복해 있다가 현장에 나타난 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 이전에도 수차례에 걸쳐 피해자에게 전화를 걸거나 문자메시지를 보낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨가 전 여자친구의 집을 찾았을 때에는 무면허 상태에 면허 취소 수준으로 술을 마신 채 운전한 것으로 드러났다. 당시 A씨는 음주운전 혐의로 재판을 받던 중이었다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “이별 통보를 받아들이지 못하고 범행을 저질렀다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우리 인부 고용하거나 300만원 내놔라”...‘건폭’ 한노총 간부 벌금형 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/26/E6O5O4OYSREWFK3ODADGUM3FEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/26/E6O5O4OYSREWFK3ODADGUM3FEY/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 01:32:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI2BRANATF2URNZDWR2NHN7GJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본인이 속한 노동조합의 인부를 고용하라며 협박한 노조 간부가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사4단독 장민석 판사는 지난 13일 폭력행위 등 처벌에 관한 법률 위반 혐의로 기소된 한국노총 수도권 지역지부 사무국장 김모씨에게 벌금 300만원을 선고했다.&lt;br&gt;&lt;br&gt;김씨는 지난 2022년 4월 서울 강서구의 한 공사장을 찾아가 철근콘크리트 공사를 맡은 하도급 A건설 대표 B씨에게 “현재 고용 중인 인부를 해고하고 한국노총 인부를 고용하라”고 요구했다. &lt;br&gt;&lt;br&gt;B씨가 요구에 응하지 않자 며칠 뒤 ‘2022년도 발전기금 출연 약정서’를 들고 다시 찾아가 “인부를 고용하지 못하면 발전기금 300만원을 내라”고 했다. 이 과정에서 “기금을 내지 않으면 아마 시끄러워질 것”이라며 협박한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이에 겁먹은 B씨는 약정서에 2022년 5월 16일까지 300만원을 보내겠다고 기재했고, 지부 명의 계좌로 300만원을 보냈다.&lt;br&gt;&lt;br&gt;김씨는 재판에서 공사 현장에 간 적조차 없다며 혐의를 부인했다. 하지만 재판부는 김씨와 공사 현장을 방문했던 공범의 진술, B씨가 김씨의 명함을 가지고 있던 점 등을 고려해 범행이 인정된다고 봤다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 납득할 수 없는 변소로 일관하며 범행을 반성하지 않고 있다”며 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 1심에 불복해 지난 19일 항소장을 제출한 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>러시아 여성 185명 유흥업소 불법 취업 알선한 우즈벡인, 1심서 실형</title>
@@ -925,30 +947,6 @@
       <description/>
       <pubDate>Mon, 25 Aug 2025 20:00:00 +0000</pubDate>
       <content:encoded>순직 해병 특검이 ‘VIP 격노설’ 등이 사실이 아니란 내용을 담은 이른바 ‘국방부 괴문서’를 국방부 국방정책실에서 작성한 것으로 특정하고 관련자들을 허위 공문서 작성·행사 혐의로 처벌할 방침인 것으로 25일 알려졌다. 국방부는 해당 문건을 ‘내부 참고용’으로 만들었다는 입장이다. 하지만 특검은 이 문건이 국민의힘 일부 의원실과 보수 성향 예비역 단체에 배포된 것을 확인했다고 한다. 고(故) 채수근 상병 사망 사건에 대한 비판 여론이 높아지자 국방부가 조직적인 여론 반전 공작에 나섰다고 특검은 의심한다.&lt;br&gt;&lt;br&gt;해당 문건은 2023년 9월 국방부가 작성한 ‘해병대 순직 사고 조사 관련 논란에 대한 진실’이라는 제목의 12쪽짜리 문서다. ‘채 상병 관련 수사 외압 의혹은 박정훈(대령) 해병대 수사단장 혼자만의 느낌과 추정에 근거한 것’ ‘윤석열 전 대통령의 격노와 질책은 근거 없는 허위 주장’ 같은 내용을 담고 있다. 당시 이 문건이 언론에 공개되자 국방부 안팎에선 ‘괴문서’란 말이 나왔고 국방부는 나중에 “국방 정책 자문위원 등에게 참고용으로 제공하기 위해 사실관계를 정리한 자료일 뿐”이라고 했었다.&lt;br&gt;&lt;br&gt;그러나 특검 수사 결과 윤 전 대통령의 격노는 사실로 드러났다. 또 대통령실과 국방부 관계자들이 해병대 수사단의 초동 조사 결과를 뒤집기 위해 개입한 녹취록과 진술도 나왔다. 문건 내용이 허위로 밝혀진 것이다. 특검은 허태근 전 국방정책실장이 이끈 국방정책실이 문서 작성을 주도했으며 박진희 전 국방 장관 군사보좌관이 자료 수집 등에 관여한 것으로 의심한다. 이종섭 전 국방 장관이 괴문서를 보고받은 정황도 특검은 포착했다고 한다. 특검은 허 전 실장 등이 고의적으로 사실관계 왜곡·은폐에 나선 것으로 보고 허위 공문서 작성 및 행사 혐의로 처벌하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;특검은 또 이 문서가 내부 참고용이라는 국방부 해명과 달리, 당시 국민의힘 일부 의원실과 대한민국수호예비역장성단(대수장)에도 전달된 사실을 확인했다. 대수장은 보수 성향 예비역 단체로 군사·안보 이슈와 관련해 윤석열 정부를 옹호해 온 단체다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>前법무·검찰총장 동시에 털었다… 국무위원도 수사 확대</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/FPL5CXGAUVCTNBOTNH3DRHN2NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/FPL5CXGAUVCTNBOTNH3DRHN2NI/</guid>
-      <dc:creator>김희래 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 15:48:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 내란·외환 의혹을 수사 중인 조은석 내란특검팀은 25일 박성재 전 법무부 장관과 심우정 전 검찰총장에 대한 압수 수색에 나섰다. 전날 내란 방조 혐의 등으로 한덕수 전 국무총리에 대한 구속영장을 청구한 데 이어, 지난 정부 핵심 국무위원들의 내란 가담 혐의에 대한 수사가 본격화하는 모습이다.&lt;br&gt;&lt;br&gt;특검 관계자는 이날 브리핑에서 “금일 오전 9시 30분 박 전 장관의 자택과 법무부, 대검찰청, 서울구치소 등에 대해 압수 수색 영장을 집행했다”며 “압수 수색 대상자는 박성재 전 장관과 심우정 전 검찰총장”이라고 밝혔다. 전직 법무부 장관과 검찰총장에 대한 압수 수색이 동시에 이뤄진 것은 처음 있는 일이다. 이날 압수 수색 대상에는 박 전 장관과 심 전 총장의 휴대전화도 포함된 것으로 알려졌다. 두 사람은 ‘12·3 비상계엄’ 직후 법무부 실·국장 회의에 즈음해 세 차례 통화한 사실이 드러났기 때문이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVM4YIK77ZHQPH5FCBSVN5HTHY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇계엄 때 검사 파견·구금 시설 설치 수사 &lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 박 전 장관이 지난해 12월 3일 윤 전 대통령의 위법한 비상계엄 계획을 인지하고도 이를 제지하지 않고 계엄 실행에 가담한 것으로 의심하고 있다. 이날 압수 수색 영장에도 내란중요임무종사 혐의가 적시됐다고 한다. 박 전 장관은 계엄 당일 오후 8시 30분에서 9시 사이 서울 용산 대통령 집무실에서 계엄 선포 계획을 가장 먼저 들은 국무위원 5명 중 1명이다. 당시 대통령 집무실에는 박 전 장관과 김용현 전 국방부 장관, 이상민 전 행정안전부 장관, 한 전 총리, 조태열 전 외교부 장관, 김영호 전 통일부 장관, 조태용 전 국가정보원장 등이 있었다.&lt;br&gt;&lt;br&gt;특검은 박 전 장관이 계엄 선포 직후 법무부 실·국장 회의를 소집해 검찰국에 합동수사본부 검사 파견을 지시했다는 의혹도 수사하고 있다. 정치권에선 “실·국장 회의 전후로 박 전 장관과 심 전 총장 사이 통화가 이뤄졌고, 이후 대검 소속 검사 2명이 중앙선거관리위원회로 출동했다”는 의혹도 제기됐다. 이에 특검은 박 전 장관 지시에 따라 심 전 총장이 검사를 선관위에 보낸 사실이 있는지를 파악 중이다. &lt;br&gt;&lt;br&gt;특검은 또 박 전 장관이 계엄 직후 출입국본부장을 통해 주요 체포 대상자에 대한 출국금지 조치를 지시했다는 의혹, 포고령 위반자에 대한 수용 공간 확보를 위해 교정본부에 서울구치소 등의 수용 여력을 알아본 의혹 등을 수사 중이다. 이와 관련해 특검은 계엄 후 열린 법무부 실·국장 회의에서 “박 전 장관이 서울구치소 등의 수용 여력에 관해 말한 것을 들었다”는 취지의 관련자 진술을 확보한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RQ6YRZTLFCSBKF2AWXOXNRYE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특검 들어가는 김건희 호송 차량  25일 오전 김건희 여사가 탄 호송차가 민중기 특별검사팀 사무실이 있는 서울 종로구 KT광화문빌딩으로 들어가고 있다. 김 여사는 구속 후 네 번째 조사를 받았다.
-/ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇尹 구속 취소 ‘즉시항고’ 안 한 경위도 수사 &lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 지난 3월 법원이 윤 전 대통령의 구속 취소를 결정한 이후 심 전 총장이 즉시항고를 하지 않기로 결정한 경위도 수사하고 있다. 즉시항고는 법원의 결정·명령에 대해 불복하는 수단 중 하나로 즉시항고를 제기하면 원재판(구속취소 결정)의 집행이 정지된다. &lt;br&gt;&lt;br&gt;당시 대검은 법원의 보석과 구속 집행 정지 결정에 대한 즉시항고는 위헌이라는 헌법재판소 판례를 근거로 즉시항고를 포기했다. 이에 대해 민주당과 일부 시민단체는 “심 전 총장이 불법 부당한 지시로 검사의 직무 수행을 방해했다”며 직권남용 등 혐의로 그를 고발했다.&lt;br&gt;&lt;br&gt;한편 한 전 총리에 대한 구속영장 실질심사는 오는 27일 오후 1시 30분 서울중앙지법에서 열리고, 심리는 정재욱 영장전담 부장판사가 맡는다. &lt;br&gt;&lt;br&gt;김건희 여사를 구속한 뒤 이날 네 번째 소환 조사를 진행한 민중기 특검팀은 오는 27일 다시 김 여사를 소환했다. 특검은 이르면 29일 김 여사를 자본시장법 위반, 알선수재 등 혐의로 기소할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7H3PFHTOVJLXNH6AKYEEKOK2LA.jpg?auth=02fed8fed500ce83a89485862e47191073d3d7a159560880df06e393428abffc&amp;smart=true&amp;width=4878&amp;height=3084" type="image/jpeg" height="3084" width="4878">
-        <media:description type="plain">구속된 '건진법사' 전성배 씨를 태운 호송차가 25일 오전 소환조사를 위해 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 들어가고 있다. 2025.8.25/뉴스1 ⓒ News1 김성진 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김성진 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“자수땐 형 감경 가능하게…” 수사 중 규칙 바꿔달라는 특검</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/TLRXLWT5JJHOREYPEUNWLUBEFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/TLRXLWT5JJHOREYPEUNWLUBEFI/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 25 Aug 2025 15:48:00 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 관련 내란·외환 의혹을 수사 중인 조은석 특별검사팀이 범행을 자수하거나 신고하면 형을 감경·면제할 수 있도록 하는 규정을 특검법에 신설해 달라는 의견을 국회에 제출했다. 국회의 특검법 제정으로 설치돼 수사 중인 특검이 국회에 특검법 개정을 요구한 것은 이례적이다. 법조계에선 “선수가 경기 도중 규칙을 바꿔 달라고 하는 격”이라는 비판이 나왔다. &lt;br&gt;&lt;br&gt;박지영 내란 특검보는 “지난 24일 우원식 국회의장에게 서면으로 특검법 개정 필요성에 대한 의견을 제시했다”고 25일 밝혔다. 특검 수사 대상인 내란·외환 관련 범죄를 자수하거나 신고했을 때 형을 감면하거나 공소 보류할 수 있도록 해 달라는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QEYH75V2BGZPE5PG7WHHM6ZBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 국회 본회의장에서 추미애 법사위원장과 법사위 더불어민주당 간사인 김용민 의원이 대화하고 있다. 민주당은 이날 법사위 전체회의를 열고 특검법 개정안을 심사하려고 했으나 연기했다.
-/ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현행 국가보안법과 특정범죄 신고자 등 보호법, 자본시장법에는 자신의 범죄를 자수하거나 타인의 범죄를 신고하면 형을 감경·면제해주는 조항이 포함돼 있다. 국가보안법의 경우, 검사가 범행 동기·수단 등을 참작해 공소 제기를 보류할 수도 있도록 하고 있다. 박 특검보는 “내란 수사에선 내부자 진술이 매우 중요한데, 본인의 처벌 우려 때문에 진술을 못 하는 상황이 벌어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 특검팀은 특검법상 수사 대상의 혼란을 막기 위해 ‘관련 사건’에 대한 정의 규정, 재판 결과의 통일성을 위해 군사법원에서 재판 중인 사건도 특검 지휘가 가능하도록 하는 규정을 신설해 달라고 요청했다. 또 기간 내 수사를 마무리하지 못할 경우, 검찰의 직접 수사 제한을 고려해 수사 주체를 검토해 달라는 요청도 전달했다고 한다. &lt;br&gt;&lt;br&gt;김건희 특검도 수사 인력을 증원해 달라는 의견을 이날 국회 의사국에 제출했다. 파견 검사 수는 40명에서 60명으로, 파견 공무원은 80명에서 120명으로 확대해 달라는 내용이다. 해병 특검도 수사 기간을 30일 늘려 달라는 의견을 국회에 구두로 전달했다. 내란 특검은 특검 수사 기간이나 파견 인력을 늘려 달라는 요청은 하지 않았다고 밝혔다. &lt;br&gt;&lt;br&gt;특검의 잇따른 특검법 개정 요구는 여당이 3대 특검의 수사 범위와 기간 확대를 논의하는 와중에 나온 것이어서 논란이다. 더불어민주당은 이날 법사위에 김건희 특검의 수사 대상과 파견 인력을 늘리는 특검법 개정안을 상정하려다가 일단 연기했다. 민주당은 내란과 순직 해병 특검법도 개정하는 방안을 검토 중이다. 특검 수사 기간 도중 특검법이 개정된 전례는 없다. 한 차장검사 출신 변호사는 “거대 여당에 보조를 맞춰 수사하는 것처럼 비칠 수 있다”고 했다.&lt;br&gt;&lt;br&gt;내란 특검 관계자는 “정부 부처는 관련 법령이 개정되면 상임위를 통해 의견을 낼 수 있는 반면, 특검은 공식적인 의견 개진 창구가 없어 국회의장실에 전달하게 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울대 화학과 출신 포스텍 총장 “수능 화학, 나도 시간 내 못 풀어”</title>
