@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>평택 양계장서 태양광 패널 설치하던 60대 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/08/27/YTNZZWHUFFFXDGD76LO44QULI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/27/YTNZZWHUFFFXDGD76LO44QULI4/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>27일 오후 4시 43분쯤 경기 평택시 청북읍 한 양계장에서 태양광 패널을 설치하던 60대 근로자 A씨가 숨졌다.</description>
+      <pubDate>Wed, 27 Aug 2025 10:00:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오후 4시 43분쯤 경기 평택시 청북읍 한 양계장에서 태양광 패널을 설치하던 60대 근로자 A씨가 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 휴식 시간에 앉아서 쉬던 중 쓰러졌으며, 심폐소생술을 받으며 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 사흘 전부터 해당 현장에서 일해 왔으며, 이날 오전 8시부터 동료 2명과 함께 일한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;평택 청북 지역엔 이날 폭염주의보가 발효 중이었다.&lt;br&gt;&lt;br&gt;경찰은 부검 등을 통해 A씨의 정확한 사인 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마트서 고양이탈 쓴 채 흉기 휘두른 여성… 경찰에 체포되자 “야옹” </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/5M5OKHSV2NHQNBGAWJGFY7TJ3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/5M5OKHSV2NHQNBGAWJGFY7TJ3A/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 09:21:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5NC7DP5EJAITIPESKMEIBGICQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;양손에 흉기를 쓴 채 마트를 활보하고 있는 인형 탈을 쓴 여성. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인형 탈을 쓴 채 흉기를 들고 마트를 활보한 20대가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 거제경찰서는 27일 공공장소 흉기 소지 혐의로 20대 여성 A씨를 입건해 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 7시 23분쯤 거제시 옥포동 한 대형마트 완구매장에서 인형탈을 쓴 채 흉기 2자루를 들고 허공에 휘두르면서 돌아다니고 가판대를 찍는 등 불안감을 조성한 혐의를 받는다. &lt;br&gt;&lt;br&gt;경찰은 당시 영상을 유튜브 채널을 통해 공개하기도 했다. 이를 보면, A씨는 분홍색 고양이 모양 탈을 쓰고 들어온 뒤 상품들을 둘러보는 척하다 돌연 양손에 흉기를 들고 활보하기 시작했다. 아이들과 마주치자 한 손의 흉기를 높이 치켜든 채 다가가기도 했다. 아이들이 놀라 도망가자, 쫓아가기도 했다. 또 우산을 들고 나타난 직원을 향해선 더욱 흥분해 달려들기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSQX66CUZREOLG3SD3N2DKR7GE.png"&gt;&lt;figcaption&gt;&lt;small&gt;우산을 든 직원이 흉기를 든 A씨와 대치하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OF3YH3A2AZFFDNBEVFE5B77LWA.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 A씨를 체포하며 "다른 칼 있냐"고 묻자, A씨가 "야옹"이라고 대답하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그렇게 직원이 우산을 들고 대치하던 중 신고를 받은 경찰이 출동했고, A씨는 공공장소 흉기소지죄로 현행범 체포됐다. &lt;br&gt;&lt;br&gt;체포 당시 경찰이 “다른 칼 있냐” “칼 왜 들고 있어냐” 등을 묻자, A씨는 대답 대신 “야옹” “그건 말할 수 없다냥” 등 이해하기 어려운 대답을 했다. 경찰이 “휴대전화 있냐”고 물었을 땐 “그딴 거 내가 왜 말하냥”이라고 했다. &lt;br&gt;&lt;br&gt;당시 A씨 범행으로 다친 사람은 없는 것으로 파악됐다. 정신 병력이 있던 그는 병원에 강제 입원 조처됐다. 경찰은 정확한 사건 경위를 조사한 뒤 사건을 검찰에 송치할 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 3월부터 초중고 학생 수업중 스마트폰 사용 ‘금지’ </title>
+      <link>https://www.chosun.com/national/education/2025/08/27/OEQJ7U3F3BHQLDAAKML6FFCMTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/27/OEQJ7U3F3BHQLDAAKML6FFCMTU/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 09:10:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NAWRUWE2RKIXBE6SAKSMPFJPPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교육부 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 3월부터 초·중·고등학생은 학교 수업 중에 스마트폰을 원칙적으로 사용할 수 없게 된다.&lt;br&gt;&lt;br&gt;교육부는 27일 국회 본회의에서 이같은 내용을 담은 초·중등교육법 개정안이 통과됐다고 밝혔다. 법 시행은 내년 3월부터다.&lt;br&gt;&lt;br&gt;개정안은 초·중·고교생이 수업 중 휴대전화 등 스마트기기를 사용해서는 안 된다고 정하고 있다. 예외는 있다. 장애가 있거나 특수교육이 필요한 학생 등이 보조기기로 사용하는 경우, 교육 목적으로 사용하는 경우, 긴급한 상황 대응 등을 위해 사용하는 경우엔 교사 승인을 통해 사용할 수 있다. &lt;br&gt;&lt;br&gt;그간 교육계에선 학교에서 학생 스마트폰 사용을 금지해야 한다는 목소리가 높았다. 스마트폰 사용으로 수업에 집중하지 않는 학생이 늘고, 교권 침해로도 이어지는 경우가 많았기 때문이다. 해외 선진국은 이미 학교에서 스마트폰 사용을 금지하고 있다. 미국에선 뉴욕이 수업 중 휴대폰 사용을 금지하고 있고, 캘리포니아 역시 학교에 따라 일부 혹은 전면 제한하고 있다. 영국은 스마트폰을 학교에 가지고 올 수는 있으나 수업 중 사용은 금지하는 가이드라인을 2021년 발표했다. &lt;br&gt;&lt;br&gt;이번 개정안 통과에 따라, 학교에서 스마트기기 사용을 제한하는 기준이나 방법, 스마트기기의 유형 등 사항은 학칙으로 정하게 된다.&lt;br&gt;&lt;br&gt;국가인권위원회는 앞서 학교의 휴대전화 일괄 수거는 인권침해가 아니라는 결정을 내린 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연세대, ‘디지털 포용과 책임 있는 인공지능’ 국제 심포지엄 개최</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/GETMPNCB7JHOFGFW3USGY33PSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/GETMPNCB7JHOFGFW3USGY33PSY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 09:10:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCZIVJPCO5H73NJB4SZQYP57I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍순만 연세대 국가관리연구원장이 26일 오후 부산 BPEX 콘퍼런스홀에서 열린 ‘디지털 포용과 책임 있는 인공지능: 글로벌 시각과 한국의 역할’에서 패널들을 소개하고 있다./연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대는 지난 26일 부산 BPEX 콘퍼런스홀에서 한국정책학회와 공동으로 ‘디지털 포용과 책임 있는 인공지능: 글로벌 시각과 한국의 역할’을 주제로 국제 심포지엄을 개최했다. 김상부 세계은행 디지털 부총재, 윌슨 화이트 구글 글로벌 공공정책 부사장 등 학계·기업·공공부문 관계자들이 모여 포용적 디지털 전환 방안을 논의했다.&lt;br&gt;&lt;br&gt;1부 특별연설에서는 김상부 세계은행 초대 디지털 부총재와 윌슨 화이트 구글 글로벌 공공정책 부사장이 연사로 나서 각각 국제기구와 글로벌 기업의 관점에서 디지털 포용에 대해 논의했다. 김 부총재는 “전 세계 인구 중 약 31억 명이 여전히 인터넷을 사용하지 못하고 있다”며 디지털 격차를 해소하는 것이 모두를 위한 포용적 디지털 전환을 실현하는 핵심 과제”라고 강조했다. 화이트 부사장은 “인공지능의 혜택이 모두에게 전달되기 위해서는 교육·인프라·협력을 통해 디지털 격차를 해소해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;2부 전문가 패널 토론에서는 홍순만 연세대 국가관리연구원장의 사회로 최문실 한국지능정보사회진흥원 디지털포용본부장, 정준화 국회입법조사처 입법조사관, 조정호 엔씨소프트서비스 대표, 홍승헌 한국행정연구원 연구위원, 문병걸 연세대 행정학과 교수가 참여해 디지털 격차 해소와 인공지능 생태계 조성을 위한 각계의 역할을 밝혔다. &lt;br&gt;&lt;br&gt;이번 행사는 연세대 국가관리연구원과 행정학과 BK21 교육연구단이 한국정책학회와 함께 주최하고, 한국지능정보사회진흥원(NIA)이 후원했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“산후조리원서 아기 바뀌어”...모유 수유까지 다른 사람이</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/ZFB24JKHBVFU7EVV2OFKEQWK3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/ZFB24JKHBVFU7EVV2OFKEQWK3U/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 08:30:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2ZOE32LNZHEZJWASXEMMRROFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신생아가 엄마 손을 잡고 있다. 해당 사진은 기사와 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산후조리원에 입소한 지 이틀 만에 아기가 다른 산모에게 잘못 전달돼 모유 수유까지 받는 사건이 벌어졌다. 해당 조리원 측은 “당사자에게 죄송스러운 마음”이라며 “전액 환불 처리했고, 재발 방지를 위해 산모와 신생아 이중 체크 강화는 물론, 신생아에게 발찌를 부착하기로 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;지난 25일 유튜브 채널 ‘누히’에는 “조리원에서 겪은 믿기 힘든 일, 제 아기가 바뀌었어요”라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;누히는 “입소 이틀 만에 황당한 일을 겪었다”며 “아기를 낳은 지 고작 6일 만에 조리원 수유실에서 아기가 바뀌는 일이 있었다“고 말했다. 이어 “아기가 바뀐 것도 모자라서 ‘사과’(아기)가 다른 엄마의 모유를 먹고 있는 장면을 제가 보게 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;당시 입소 이틀째였던 산모 누히는 수유실에서 아이를 기다리던 중 조리원 관계자로부터 “OO이 어머님”이라는 잘못된 호명을 들었다. 누히가 “저는 사과 엄마다”라고 정정하자, 담당자는 신생아실로 들어갔지만 ‘사과’는 보이지 않았다. 잠시 뒤 신생아실이 술렁였고, 결국 다른 산모의 품에 안겨 모유 수유를 받고 있던 아기가 바로 ‘사과’였던 사실이 드러났다.&lt;br&gt;&lt;br&gt;누히에 따르면 선생님이 “아기 확인할게요” 하고 아기를 데려갔다가 ‘아기 괜찮네요’ 하며 다시 딸기 어머니께 안겨드렸는데, 뒷모습이 달랐다. 그 뒤에야 제게 사과가 안겨졌다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;그러나 당황한 누히가 즉시 신생아실에 확인을 요청하자, 관계자는 “절대 그런 일 없다”고 부인했고, 재차 요구하자 “아닌 것 같다” “내일 오전에 연락드리겠다”는 말만 반복했다고 누히는 전했다. 결국 누히가 직접 신생아실을 찾아 다른 부모와 4자 대면을 한 끝에 아기가 뒤바뀌었던 사실이 확인됐다.&lt;br&gt;&lt;br&gt;누히는 “제가 가기 전 이미 조리원 측이 상대 부모에게 찾아가 울며불며 사과했다고 하더라. 그런데 저한테는 끝까지 ‘그런 일 없다’고 거짓말을 한 게 더 화가 났다”고 했다. 뒤늦게 원장과 대리인, 상대 부모가 참석한 자리에서야 정식으로 사과를 받고 조리원을 조기 퇴소했다.&lt;br&gt;&lt;br&gt;이와 관련해 해당 조리원 측은 27일 조선닷컴에 “수유실에서 아이를 전달받는 과정에서 소통 오류가 있었다. 당사자들에게는 전액 환불 처리해드렸다”며 “당시 바로 사과드렸어야 했는데 이런 상황이 처음이라 우왕좌왕했다. 죄송스러울 뿐”이라고 했다. 이어 “해당 사건 이후 신생아와 산모 이름을 따로 이중 체크를 강화했으며, 아기들에게 발찌 부착을 하기로 했다”고 설명했다. &lt;br&gt;&lt;br&gt;해당 영상은 27일 오후 기준 조회수 51만회를 넘었다. “아기 이름표가 빠져 있었던 적이 있다” “얼굴이 달라 이상해서 확인했더니 다른 아기였다”는 등 유사한 경험담도 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용산구에 ‘안전관리상’ 수여한 서울시 뒤늦게 “취소”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/SG36WLH7BNBLTEV3QXBEGBCAHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/SG36WLH7BNBLTEV3QXBEGBCAHA/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 08:52:31 +0000</pubDate>
+      <content:encoded>서울 용산구에 ‘지역축제 안전관리 우수사례’ 상을 준 서울시가 27일 이를 취소했다. 10·29 이태원 참사 유가족들의 반발에 따른 것이다.&lt;br&gt;&lt;br&gt;서울시는 “아직 이태원 참사 피해자들의 아픔이 아물지 않은 상황에서 용산구에서 보도자료를 배포하는 등 필요 이상의 과도한 홍보를 한 것에 대해 유감스럽게 생각한다”며 “용산구 ‘대상’ 수상을 취소했다”고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 “오세훈 시장이 ‘유족의 고통과 아픔을 헤아리지 못한, 너무도 상식밖의 일이었다’며 관계자들을 질책했다”며 “즉시 경위를 설명, 사과하고 다시는 이런 일이 재발되지 않도록 하라고 지시했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 22일 서울시는 ‘2025년 지역축제 안전관리 우수사례 경진대회’에서 용산구에 대상을 수여했다. 이에 용산구는 보도자료를 내고 ‘용산이 함께하는 핼러윈 대비 다중운집 인파 안전관리’를 주제로 발표를 진행했으며, 지난해 핼러윈 기간 이태원 일대에서 추진한 종합 안전대책이 높은 평가를 받았다고 홍보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEYPQTCPN6MZAATLNQVJZ26HNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰관들이 서울 용산구 이태원 일대에서 인파 관리를 위해 순찰을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 10·29 이태원참사 유가족협의회·시민대책회의는 성명을 내고 “오세훈 시장은 부적절한 시상에 대해 공개 사과하고 용산구청의 수상을 취소하라”고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>14명 숨진 오송 지하차도 참사... “국정조사 한다”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/27/7CI5S4SYA5DDNNLBYFUXRVBKLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/27/7CI5S4SYA5DDNNLBYFUXRVBKLY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 08:53:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56FTRAU5MRPEFKS43UGC7QHYNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 서울 여의도 국회에서 열린 제428회국회(임시회) 제3차 본회의에서 오송 지하차도 참사 진상규명과 재발방지 대책마련을 위한 국정조사계획서 승인의 건이 통과되자 유가족들이 감사인사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 숨진 ‘청주 오송 지하차도 참사’에 대한 국회의 국정조사가 진행된다. &lt;br&gt;&lt;br&gt;국회는 27일 본회의를 열어 ‘오송 참사 진상 규명과 재발 방지 대책 마련을 위한 국정조사 요구안’을 의결했다. &lt;br&gt;&lt;br&gt;이번 국정조사는 참사 발생 원인과 전후 대처 등 참사 전반에 대한 철저한 진상조사를 통해 책임 소재를 명백히 규명하고 재발 방지 대책 마련을 위해 실시된다.&lt;br&gt;&lt;br&gt;국정조사는 이날부터 다음 달 25일까지 30일간 진행된다. 기간은 본회의 의결을 통해 연장할 수 있다. &lt;br&gt;&lt;br&gt;조사 대상 기관은 국무조정실, 행정안전부, 국토교통부, 행정중심복합도시건설청, 충북도, 청주시, 대검찰청, 청주지검, 경찰청, 충북경찰청, 청주흥덕경찰서, 소방청, 금호건설 등이다. &lt;br&gt;&lt;br&gt;오송 참사 유가족협의회와 오송 참사생존자협의회, 오송 참사 시민대책위원회는 이날 성명을 통해 “국회가 진상규명의 길을 연 역사적인 결정을 했다”며 환영했다. &lt;br&gt;&lt;br&gt;이들은 “철저한 진상규명과 재발 방지의 장이 되기를 바란다”며 “희생자들의 억울함을 풀며 안전한 사회를 만드는 길에 끝까지 함께 할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;김영환 충북지사는 입장문을 통해 “국정조사 취지와 오송 참사 유가족의 뜻을 존중해 국정조사에 성실하게 임하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;오송 참사는 2023년 7월 15일 오전 8시 40분쯤 청주시 흥덕구 오송읍 궁평2지하차도에서 발생했다. 폭우로 인근 미호강 제방이 터져 하천수가 유입돼 차량 17대가 침수됐고 14명이 숨졌다. &lt;br&gt;&lt;br&gt;검찰은 오송 참사와 관련해 이범석 청주시장 등 45명을 기소해 4명이 실형을 선고받았고 나머지는 재판이 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 한덕수 구속 심사 종료...3시간 40분 만</title>
       <link>https://www.chosun.com/national/court_law/2025/08/27/PY24ULWNWZERZHIUNKHLQOHIOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/PY24ULWNWZERZHIUNKHLQOHIOA/</guid>
@@ -878,51 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QBBNDNWL5GGDFHW3554AKII5U.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“연금은 있지요?” “자녀 모두 결혼했나요.”&lt;br&gt;&lt;br&gt;지난 22일 오후 서울 서초구 서초동의 대형 건물 라운지에서 13쌍의 50·60대 남녀가 마주 보고 앉아 ‘첫인사’를 나눴다. 이들 상당수는 이혼이나 사별로 혼자 된 사람들이었다. 희끗한 머리에 정장 차림의 60대 남성이 맞은편 여성에게 “MBTI(성격 유형 검사) 유형이 무엇이냐”고 묻자 주변에서 웃음이 터졌다. &lt;br&gt;&lt;br&gt;이들은 10분마다 자리를 바꿔가면서 처음 보는 상대와 이야기를 나눴다. 이날 ‘최종 커플’이 된 건 윤모(56)씨와 손모(여·52)씨 한 쌍이었다. 윤씨는 “오늘 나오면서 ‘내 짝’을 찾을 수 있겠다 싶었다”며 “나이 들어 이렇게 가슴 뛰는 감정을 느낄 줄은 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;중장년층을 위한 ‘릴레이 데이트’가 인기를 끌고 있다. 짧은 시간에 돌아가면서 만나는 릴레이 데이트는 한 번에 여러 사람을 만나볼 수 있다는 장점 때문에 MZ세대에서 유행했다. 그런데 이젠 중장년층도 소개팅 시장에 진입하고 있다. 중장년 이혼이 늘고 있지만 이들은 여전히 정신적으로나 육체적으로 ‘젊다’고 느끼면서 짝을 찾는 데 적극 나서는 것이다.&lt;br&gt;&lt;br&gt;통계청에 따르면 결혼한 지 30년 이상 된 부부의 이혼은 최근 10년 새 46% 증가했다. 60대 남성의 이혼 비율은 21.3%로 전체 연령대 가운데 가장 높았다. &lt;br&gt;&lt;br&gt;중장년층 소개팅을 주선하는 업체들은 싱글인 50·60대 남녀 20~30명을 한자리에 모아 10분마다 파트너를 바꿔가며 대화를 나누게 한다. 본인과 ‘결이 맞는’ 상대를 찾는 게 목적이다. 아이스 브레이킹(ice breaking· 말문 트기) 시간, 1대1 대화, 사랑의 작대기 같은 이벤트 등을 한다. 참석자당 5만~7만원을 받는다. 한 중장년층 데이트 업체 관계자는 “나이가 들어도 낭만과 애정에 대한 욕구는 젊은 사람과 다를 것이 없다”고 했다.&lt;br&gt;&lt;br&gt;이른바 ‘그레이 로맨스(노년 연애)’ 사업은 미국과 중국 등 세계적으로 유행하고 있다. 휴대폰으로 데이트 상대를 구할 수 있는 데이팅 앱 사업도 급속도로 커지고 있다. 한국의 한 시니어 데이트 앱 가입자는 지난해 2만명에서 올해 10만명으로 1년 만에 5배 가까이 늘었다. 지방자치단체들도 시니어들이 만날 수 있는 데이트 행사를 열고 있다. 서울 종로구청은 지난 6월 ‘굿라이프 챌린지’라는 이름으로 행사를 열어 7쌍의 노년 커플이 탄생했다.&lt;br&gt;&lt;br&gt;정순둘 이화여대 사회복지학과 교수는 “베이비붐 세대는 부모 세대와 달리 경제·문화 자원이 풍부하고 스마트폰 사용에 익숙해 노년에도 새로운 관계에 주저하지 않는다”며 “이성 교제는 고독과 우울을 낮추고 사회적 관계망을 복원해 건강한 노년을 만드는 긍정적 활동”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>의대생 커뮤니티 ‘메디스태프’ 대표 증거 인멸 혐의로 검찰 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/08/26/KGH4S75AMFEFXGKIT777E2ZFRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/26/KGH4S75AMFEFXGKIT777E2ZFRM/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 09:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCKKJVOQPL3I6CHMOXK32WF564.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기동훈 의사·의대생 커뮤니티 메디스태프 대표/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사·의대생 전용 온라인 커뮤니티 ‘메디스태프’의 기동훈 대표와 송모 최고기술책임자(CTO)가 ‘전공의 리베이트(수익 배분) 수수 의혹’ 내부 고발자에 대한 비방글 작성자 찾는 것을 방해한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 지난 22일 메디스태프의 기모 대표와 송모 CTO를 증거인멸 혐의로 서울중앙지검에 송치했다고 26일 밝혔다. 서울 지역 대학병원 교수 김모씨가 지난해 기 대표 등을 고소한 데 따른 것이다. 김씨는 대학병원 전공의들이 제약사로부터 리베이트를 수수했다고 폭로한 인물로, 메디스태프에는 그를 모욕하거나 조롱하는 비방성 게시글과 댓글이 다수 게재됐다. 김씨는 메디스태프 운영진이 자신에 대한 비방글에 대해 별다른 조치를 하지 않았고 오히려 게시글을 삭제해달라는 요청을 무시하고 자신의 계정을 강제 탈퇴 처리한 데 이어 글 작성자를 특정할 수 없도록 새 시스템을 적용하는 등 증거 수집을 방해했다고 주장했다.&lt;br&gt;&lt;br&gt;한편 ‘전공의 리베이트 수수 의혹’을 수사한 서울 노원경찰서는 지난해 11월 서울의 한 대학병원 전공의 출신 의사들과 리베이트를 제공한 제약사를 서울북부지검에 송치했고, 검찰은 지난달 대학병원 의사들과 제약사들에 대해 의료법 위반과 약사법 위반 등 혐의로 약식 기소했다. 이들은 지난 2019~2021년 사이 제약회사 직원들로부터 ‘제품 설명회’를 빌미로 회식비를 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘5억대 불법 자금·뇌물’ 추가 기소...이화영 “李대통령 관계만으로 숱하게 기소”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/DY7ITORXONE6FEXVVHNPVRMJO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/DY7ITORXONE6FEXVVHNPVRMJO4/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 09:10:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UL3KZ6XUFTNTKI4AMWIKQJM6MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘5억원대 뇌물과 불법 정치자금을 받은 혐의를 받는 이화영 전 경기도 평화부지사가 “당시 경기도지사였던 이재명 대통령과의 관계만으로 기소된 것”이라고 26일 주장했다. 이 전 부지사는 이미 ‘쌍방울 불법 대북 송금’ 사건으로 징역 7년8개월의 중형을 확정받고 수감 중이다.&lt;br&gt;&lt;br&gt;수원지법 형사11부(재판장 송병훈)는 이날 이 전 부지사의 특정범죄 가중처벌 등에 관한 법률상 뇌물 및 정치자금법 위반 혐의 사건 첫 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 이 전 부지사 측은 검찰의 공소사실에 대해 “피고인을 굉장히 뇌물 좋아하는 사람으로, 인격적으로 폄훼하는 무도한 공소제기라고 하지 않을 수 없다”며 모든 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이 전 부지사의 변호인은 “피고인은 이재명 대통령과의 관계만으로 공격받아서 숱하게 기소되고, 일부 혐의가 확정된 상황”이라며, “(검찰이)국가 형벌권을 지나치게 남용하는 것”이라고 했다. 그러면서 “피고인과 (이 전 부지사에게 뇌물을 준 혐의를 받는) 다른 피고인들은 10년 이상 친분을 쌓아온 대학 선후배나 동업자로서 사교적, 의례적 관계로 판단해야 맞는 것”이라며 “모든 인간관계에 대해서 형사법적인 칼을 들이대면 자유민주주의 헌법을 지향하는 대한민국 사회가 위축되는 전체주의적 사회가 될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;변호인은 또 “피고인은 전 국회의원, 경기도 평화부지사를 역임했는데, 3년에 걸쳐 옥살이를 시키는 게 과연 경기도민들을 생각했을 때 맞는 일인지 생각해봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 증인으로 나온 경기도내 건설업체 대표 A씨는 “이 전 부지사에게 1회당 2000만원씩 총 3억원을 현금으로 줬다”고 진술했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RS2KCVYFIJGGUWQLSKL6TC6OGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2018년 경기도지사였던 이재명 대통령과 이화영 전 경기도 평화부지사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면, 이 전 부지사는 지난 2015년 10월부터 2022년 9월까지 경기도 내 기업들에서 현금 3억원을 수수하고, 자신이 타고 다니던 수입 차량의 리스료, 개인 사무실 월세 등을 대신 내도록 해 총 5억3700만원의 불법 정치 자금과 뇌물을 받아 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 전 부지사는 또 김성태 전 쌍방울 그룹 회장으로부터 “고향 선배인 경찰관이 승진할 수 있도록 힘써 달라”는 청탁과 함께 3000만원을 받고, 2020년 총선에 출마했을 때는 여러 사람 이름으로 2000만원의 후원금을 쪼개기 방식으로 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;이 전 부지사는 2021년 7월부터 2022년 9월까지 도내 건설업체 대표 A씨에게 지역구 관리비 명목으로 15차례에 걸쳐 3억원을 현금으로 받고, A씨가 소유한 전원주택을 ‘선거 캠프’ 용도로 무상으로 사용한 것으로도 조사됐다. 또 경기도 평화부지사와 킨텍스 대표로 근무할 때는 여의도 국회의사당 부근 개인 사무실 2곳의 월세와 관리비 등으로 5200만원을 기업가 B씨에게 대납하게 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 밖에 한 전기 공사 업체에 자신을 직원으로 등재시켜 급여 명목으로 4300만원을 받아 챙기고, 이 업체 명의로 리스한 수입차를 6년 동안 공짜로 타면서 리스료와 보험료 등 5500만원을 대신 내게 한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대구로페이’ 다음달부터 할인율 7%→13%로 상향</title>
-      <link>https://www.chosun.com/national/regional/2025/08/26/NPISI5RNDVA4ZEVSD6ELATNUYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/26/NPISI5RNDVA4ZEVSD6ELATNUYM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 08:29:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYLIK5V3RRALXLXUNYXX3MBRWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구로페이 2차 할인 발행 포스터./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 다음 달 1일부터 2차 발행하는 지역사랑상품권인 ‘대구로페이’ 할인율을 기존 7％에서 13％로 높인다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;개인별 월 구매 한도는 1차와 같은 50만원이며, iM뱅크 영업점 또는 모바일 앱 ‘iM샵’에서 신청할 수 있다. 2차 발행 규모는 3180억원으로, 정해진 기간 없이 해당 금액이 소진될 때까지 할인 판매를 이어간다. &lt;br&gt;&lt;br&gt;또 9월 한 달 동안은 대구로페이 보유 한도를 100만원으로 상향 조정하기로 했다. 1차 발행 당시 기존 7％ 할인율로 50만원을 충전했던 시민들도 추가 50만원에 대해서는 상향된 할인 혜택을 모두 받을 수 있도록 하기 위해서다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “오는 10월 추석, 11월 코리아 세일 페스타 등 대규모 소비 시즌 등이 있어 이때 대구로페이 발행 수요가 급증하면 1인당 구매 한도를 조정할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;대구로페이는 지역 내 연매출 30억원 이하인 가맹점 10만여 곳에서 사용할 수 있으며, 지역 공공 배달앱 ‘대구로’에서 대구로페이로 결제하면 5% 할인 혜택도 추가로 받는다. 다만 백화점이나 유흥·사행성 등 일부 업종에서는 사용할 수 없다. 이번 1일부터 발행한 1차 대구로 페이 판매액은 지난 25일 기준 753억원으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 가현산 진입로서 화재 …시신 1구 발견</title>
-      <link>https://www.chosun.com/national/incident/2025/08/26/BW7Q7IQ5AFGWPIBI5LLHPOJKCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/26/BW7Q7IQ5AFGWPIBI5LLHPOJKCI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 05:37:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구 가현산 인근에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;26일 인천소방본부에 따르면 이날 오후 12시 39분쯤 인천시 서구 금곡동 가현산 진입로 부근에서 불이 났다는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;이 화재로 임야 일부가 탔으며 화재 현장에서 신원을 알 수 없는 시신 1구가 발견됐다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 42명과 장비 20대를 투입해 신고 접수 21분 만인 오후 1시쯤 불을 껐다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 목격자 진술 등을 토대로 구체적인 화재 원인과 피해 규모를 조사할 방침이다. &lt;br&gt;&lt;br&gt;소방 관계자는 “화재를 진압하는 과정에서 시신 1구가 발견돼 경찰에 인계했다”고 했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, 시신은 훼손돼 신원 확인이 필요한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 사인 규명 등을 위해 국립과학수사연구원에 시신 부검을 의뢰할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 타살 등 범죄 혐의점은 확인되지 않았다”며 “시신 부검을 의뢰할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영환 충북지사, ‘30억 돈거래 의혹’ 공수처 수사도 받는다 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/26/UCYSUXF7CZGVRJ7SNOGPESFCQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/26/UCYSUXF7CZGVRJ7SNOGPESFCQ4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 08:11:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMSL5T3VBHF52DJSXRGA54LTNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈봉투 수수 의혹으로 경찰 수사를 받는 김영환 충북지사가 공수처 수사까지 받게 됐다. &lt;br&gt;&lt;br&gt;26일 법조계 등에 따르면 고위공직자범죄수사처(공수처)가 지역 사업가와 수십억 원 상당의 금전거래를 한 혐의로 고발된 김영환 충북지사의 사건을 이달 초 수사 1부에 배당했다. &lt;br&gt;&lt;br&gt;앞서 충북시민사회연대회의는 김 지사를 사전수뢰 등 혐의로 공수처에 고발했다. &lt;br&gt;&lt;br&gt;김 지사는 2023년 10월 4일 서울 종로구 북촌로(가회동)에 있는 자신 명의의 2층 건물과 토지(연면적 277㎡)를 담보로 A 업체에서 30억원을 빌렸다.&lt;br&gt;&lt;br&gt;하지만 A 업체의 실질적 소유주로 알려진 B씨가 충북도내 폐기물 처리 업체인 C사의 대표였던 사실이 알려지면서 논란이 불거졌다. 이 업체가 충북도 산하기관의 인허가가 필요한 폐기물 처리 시설의 확장을 추진한 것으로 알려졌기 때문이다. &lt;br&gt;&lt;br&gt;시민단체의 고발장을 접수한 경찰은 사전수뢰·이해충돌방지법 등의 혐의로 1년여 가까이 기간 동안 수사에 나섰지만, 지난 6월 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;김 지사가 B씨와 문제의 사업 관련한 청탁이나 특혜를 주고받을 위치에 있지 않다고 판단했다. &lt;br&gt;&lt;br&gt;하지만 시민단체는 경찰의 불송치 결정에 대해 “납득할 수 없는 결정”이라며 지난달 김 지사를 공수처에 재고발했다.&lt;br&gt;&lt;br&gt;공수처는 관련 기록 검토를 마친 뒤 본격적인 수사에 나설 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘통일교 국힘 선거 개입 의혹’에 김건희 입김 있었나...특검, 관련 정황 확보</title>
       <link>https://www.chosun.com/national/court_law/2025/08/26/XMBQZJCLK5C2DPAOJ5NWIQMHP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/XMBQZJCLK5C2DPAOJ5NWIQMHP4/</guid>
@@ -939,24 +957,6 @@
       <description/>
       <pubDate>Tue, 26 Aug 2025 06:58:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLXE3EFUD5KFZOONVR4PBHBTRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 박원순 전 서울시장 성폭력 사건에서 유족 측을 대리한 정철승 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 박원순 서울시장 유족을 대리하면서 성폭력 피해자 신원 일부를 공개한 정철승 변호사가 피해자에게 4000만원을 배상해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;26일 법조계에 따르면 서울중앙지법 민사34단독 김소망 판사는 박 전 시장 피해자가 정 변호사를 상대로 낸 7000만원의 손해배상 청구 소송 1심에서 지난 22일 원고 일부 승소로 판결했다. &lt;br&gt;&lt;br&gt;정 변호사는 2021년 8월 페이스북에 ‘박원순 사건 관련 사실관계’라는 제목으로 세 건의 글을 올리고 피해자 신원을 특정할 수 있는 시장 비서실 근무 시기 등을 적었다. ‘피해자가 성추행당했다는 주장에는 물증이 없다’ ‘피해자가 이례적으로 빨리 진급했다’는 취지의 주장도 올렸다. 이후 피해자는 정 변호사를 정보통신망법상 명예훼손과 개인정보보호법 위반 등 혐의로 고소했고 손해배상 소송도 제기했다.&lt;br&gt;&lt;br&gt;김 판사는 ‘성추행 증거가 없다’고 한 글에 대해 “참고인 진술과 텔레그램 메신저 대화 내용, 사진 등 인적·물적 증거가 존재하기 때문에 허위”라고 했다. 또 “서울시 직원들 평균 승진 기간에 비춰봤을 때 피해자가 이례적으로 빠른 진급을 한 것은 아닌데 마치 피해자가 혜택을 받고 무고한 것처럼 쓴 것은 잘못된 표현”이라고 판시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 변호사는 지난 5월 형사 사건 1심에서도 명예훼손 혐의가 인정돼 징역 1년을 선고받았다. 당시 재판부는 “정 변호사가 쓴 게시글은 고의로 거짓을 적시한 것으로 인정된다”며 “피해자가 고인을 무고했을 가능성을 거짓으로 제기한 것은 그 목적이 공익을 위한 것이라고 볼 수 없고, 피해자를 비방하려 한 것으로 볼 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;박 전 시장 피해자를 대리한 김재련 변호사는 이날 페이스북에 “법원 판결에 경의를 표한다”며 “피해자가 성폭력 가해자를 상대로 민사소송을 제기해 인용 판결을 받는 금액에 비춰볼 때, 이번 판결은 2차 가해 행위자에 대한 배상금액으로 4000만원이 인용됐다는 점에 의미를 두고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도경완 “서로 존중·배려하며 살아”...‘장윤정 서브’ 발언에 밝힌 심경</title>
-      <link>https://www.chosun.com/national/people/2025/08/26/VSIGRKLPTJAHPMVDJYUCEMWELE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/26/VSIGRKLPTJAHPMVDJYUCEMWELE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 05:12:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBVWIQUBZZFAXH2PFYZ7NKQQZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아나운서 출신 방송인 도경완(왼쪽)과 가수 장윤정./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김진웅 KBS 아나운서의 ‘장윤정 서브’ 발언이 논란이 되자, 당사자인 아나운서 출신 방송인 도경완이 직접 입장을 밝혔다. &lt;br&gt;&lt;br&gt;도경완은 26일 인스타그램을 통해 “저희 부부의 모습이 누군가에게는 한쪽으로 기울어져 보일지 모른다. 그러나 저희 부부는 서로 존중하고 배려하며 단단하게 의지하고 살아가고 있다”고 전했다. &lt;br&gt;&lt;br&gt;이어 김진웅으로부터 사과 문자를 받았다면서 “이번 일로 저희 가족과 저희 가족을 사랑해주시는 분들께 상처를 입힌 것 같아 속이 상했지만, 이로 인해 누군가 또 상처받는 일은 없었으면 한다”고 했다. 그러면서 “저희는 다시 밝은 모습으로 인사드리겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;김진웅 아나운서는 지난 24일 방송된 KBS2 ‘사장님 귀는 당나귀 귀’에서 결혼정보업체를 찾아 “난 도경완 선배처럼 못 산다. 선배에게 결례인 말일 수도 있지만 누군가의 서브로는 못 산다”고 발언했다.&lt;br&gt;&lt;br&gt;이에 장윤정은 자신의 인스타그램에 이 발언이 담긴 기사를 캡처해 올리며 “상대가 웃지 못하는 말이나 행동은 ‘농담’이나 ‘장난’으로 포장될 수 없다”며 “가족 사이에 ‘서브’는 없습니다”라고 불쾌감을 드러냈다.&lt;br&gt;&lt;br&gt;김진웅 아나운서는 논란이 일자 “오늘 방송에서 경솔한 발언으로 도경완, 장윤정 선배님께 심려를 끼쳐 드려 사과의 말씀을 올린다”며 “아직까지 경험도 부족하고, 스스로에겐 귀하게 찾아온 기회인 듯해 의욕만 앞서다 보니 신중하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;그의 사과에도 불구하고 전날 KBS 시청자 청원 게시판에는 ‘김진웅 아나운서의 모든 프로그램 하차 및 퇴사 청원’이라는 제목의 청원까지 등장했다.&lt;br&gt;&lt;br&gt;청원글 작성자는 “저는 수신료를 내는 시청자로서, KBS 아나운서 김진웅씨의 최근 발언과 태도에 대해 깊은 실망과 분노를 느끼고 있다”며 “공영방송의 아나운서는 단순히 방송 진행자가 아니라, 국민 앞에서 언행으로 신뢰와 품격을 보여줘야 하는 자리”라고 했다.&lt;br&gt;&lt;br&gt;이어 “김진웅 아나운서의 발언은 KBS 아나운서 전체의 품격을 훼손하고, 수신료를 납부하는 국민의 신뢰를 저버리는 행위”라며 “단순한 농담의 선을 넘어 특정인을 공개적으로 깎아내리는 부적절한 발언이었다”고 꼬집었다. 그러면서 김진웅의 모든 프로그램 하차와 KBS 아나운서직 퇴사를 요구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>영종도 가는 3번째 해상교량 ‘제3연륙교’, 통행료 2000원…영종·청라 주민은 무료</title>
-      <link>https://www.chosun.com/national/regional/2025/08/26/4QYLTAJPRRECVLMZLLMD42YX4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/26/4QYLTAJPRRECVLMZLLMD42YX4A/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:46:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYGXEGGBZ7IXBGDGB244AGTVFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연말 개통 예정인 인천 제3연륙교 통행료가 소형차 기준 2000원으로 확정됐다. &lt;br&gt;&lt;br&gt;인천시는 25일 통행료심의위원회를 열고 이같이 결정했다고 밝혔다. &lt;br&gt;&lt;br&gt;차종별로는 경차의 경우 1000원, 소형차(승용차, 16인승 이하 승합차, 2.5t 미만 화물차)는 2000원, 중형차(16인승 초과 승합차, 2.5t 이상·10t 미만 화물차) 3400원, 대형차(10t 이상 화물차) 4400원이다.&lt;br&gt;&lt;br&gt;인천시는 제3연륙교 개통과 함께 영종·청라 주민은 무료로 이용할 수 있게 하고, 내년 3월 말까지 통행료 감면 시스템을 구축해 무료 대상을 인천 시민 전체로 확대할 계획이다.&lt;br&gt;&lt;br&gt;제3연륙교는 영종대교·인천대교에 이어 영종도와 육지를 연결하는 세 번째 해상 교량이다. 중구 중산동과 서구 청라동 구간 4.68㎞를 왕복 6차선 규모로 연결한다. 현재 공정률은 95% 수준으로, 오는 12월 개통을 앞두고 있다. &lt;br&gt;&lt;br&gt;제3연륙교는 세계 최고 높이인 180m 주탑 전망대와 수변 데크길, 야간 경관 등을 갖춘 체험·관광형 교량으로 세워진다.&lt;br&gt;&lt;br&gt;제3연륙교는 개통 시 예상되는 인근 영종대교·인천대교의 손실보상금 부담 주체와 규모를 놓고 인천시와 국토교통부 사이에 이견을 보여 통행료 결정이 지연됐다.&lt;br&gt;&lt;br&gt;인천시는 제3연륙교 손실 부담금으로 2039년까지 총 2967억원이 필요한 것으로 추산했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 무안공항 ‘콘크리트 둔덕’ 없앨 세 번의 기회…정부 묵살로 날렸다</title>
