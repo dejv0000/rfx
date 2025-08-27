@@ -13,6 +13,62 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한덕수 전 총리 구속영장 기각...“사실관계 다툴 여지”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/27/KRXGRZC64JFVZEQ27HLK3PSJIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/KRXGRZC64JFVZEQ27HLK3PSJIE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 12:59:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3YFMMD6EBOZPMG6BMPP2EVQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 내란 행위 방조 혐의를 받는 한덕수 전 국무총리가 27일 구속영장 실질 심사를 마친 뒤 대기 장소인 서울구치소로 이동하기 위해 서울 서초구 서울중앙지법 청사를 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포를 방조하는 등 윤석열 전 대통령의 내란 행위에 가담했다는 혐의를 받는 한덕수 전 국무총리의 구속영장이 27일 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;정재욱 서울중앙지법 영장 전담 부장판사는 이날 한 전 총리의 구속 심사를 연 뒤 오후 9시 57분쯤 “중요한 사실관계 및 피의자의 일련의 행적에 대한 법적 평가와 관련하여 다툴 여지가 있다”며 특검의 영장 청구를 기각했다.&lt;br&gt;&lt;br&gt;정 부장판사는 “본건 혐의에 관해 현재까지 확보된 증거와 수사 진행 경과, 피의자의 현재 지위 등에 비춰 방어권 행사 차원을 넘어선 증거 인멸의 우려가 있다고 보기 어렵다”고 기각 사유를 밝혔다. 또 “피의자의 경력과 연령, 주거와 가족관계, 수사절차에서의 피의자의 출석 상황, 진술 태도 등을 종합하면 도주의 우려가 있다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 한 전 총리를 두 차례 불러 조사하고, 자택과 국무총리 공관 등을 압수 수색한 뒤 지난 24일 구속영장을 청구했다. 54쪽 분량의 영장 청구서에는 범죄의 중대성과 재범 위험성, 증거 인멸·도주 우려 등 구속 수사가 필요한 사유가 담겼다.&lt;br&gt;&lt;br&gt;특검은 한 전 총리에게 내란 우두머리 방조와 허위 공문서 작성·행사, 대통령기록물관리법 위반, 공용 서류 손상, 위증 등 6가지 혐의를 적용했다. 한 전 총리가 ‘제1국가기관’이자 ‘국정2인자’인 국무총리로서 대통령의 권한 남용을 견제해야 할 의무가 있는데도 비상계엄 선포를 저지하지 않고, 오히려 형식적 정당성을 갖추게 하려고 국무회의 소집을 건의했다는 것이 특검 시각이다. 한 전 총리는 최초 계엄 선포문의 법적 하자를 덮기 위해 ‘사후 선포문’을 작성하고 폐기한 혐의, 헌법재판소와 국회에서 “계엄 선포문을 인지하지 못했다”고 위증한 혐의도 받았다.&lt;br&gt;&lt;br&gt;구속 심사는 이날 오후 1시 30분부터 오후 4시 55분까지 진행됐다. 특검 측에선 김형수 특검보 등 검사 8명이 참여해 160쪽 분량 파워포인트(PPT) 자료와 계엄 선포 당시 한 전 총리 행적이 촬영된 용산 대통령실 CCTV 영상 등을 통해 구속 필요성을 주장한 것으로 전해졌다. 반면 한 전 총리는 이날 구속 심사에서 혐의 대부분을 부인하고 증거인멸 위험도 크지 않다고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;법원은 양측 주장을 살펴본 뒤 구속 수사 필요성이 인정되지 않는다고 판단한 것으로 보인다. 특검이 한 전 총리 신병 확보에 실패하면서, 박성재 전 국무부 장관 등 비상계엄 선포 전 소집된 다른 국무위원에 대한 수사 동력이 떨어질 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총 간부, 서울경찰청 청사서 버젓이 음주운전</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/XNJXEQFYHVCIRDI5RK4JNW4XLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/XNJXEQFYHVCIRDI5RK4JNW4XLU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 13:20:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NUMXJAFXHFLSYDSHSIDYRDFBHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 간부가 서울 종로구 서울경찰청 청사 경내에서 음주 운전을 하다 붙잡혔다. 이 간부는 청사 방호원 제지에도 차량을 몰았던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 민주노총 간부 A씨를 도로교통법 위반(음주 운전) 혐의로 입건해 조사하고 있다고 27일 밝혔다. 경찰에 따르면, A씨는 전날 오전 집회 신고를 하기 위해 서울 종로구 서울경찰청 청사에 차량을 주차했다. 그는 외부에서 술을 마시고 다음 날 새벽 1시쯤 청사로 돌아왔다. 이후 주차된 차량을 몰고 50ｍ가량 운전한 혐의를 받고 있다. A씨가 차에 타기 전 비틀거리는 모습을 본 청사 방호원은 그가 운전하는 걸 막으려고 했지만, A씨는 결국 운전대를 잡았다. 방호원이 건 112 신고를 받고 출동한 인근 종로서 경찰관들이 청사 입구 인근에서 차량을 정지시키고 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;현장 측정 결과 A씨의 혈중알코올농도는 면허정지 수준이었던 것으로 나타났다. 경찰은 A씨가 술을 마신 장소와 귀가 동선, 청사로 돌아온 시점 등을 조사하고 있다. 민주노총 측은 이날 본지 문의에 “취재에 응하지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동반 투신 ‘강서 세 모녀’…현장서 채무 관련 메모 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/27/ZRTMSWH62NATHOTKO5NDJCXEUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/ZRTMSWH62NATHOTKO5NDJCXEUQ/</guid>
+      <dc:creator>한영원 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 12:50:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH66E7KD2JAT5CAKAWUIDNIMXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 서울 강서구 소재 오피스텔 옥상에서 모녀지간인 3명이 추락해 사망했다. 사진은 27일 오후 서울 강서구 한 오피스텔 옥상 모습. 2025.8.27 /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 밤 서울 강서구의 한 오피스텔에서 동반 투신한 ‘강서 세 모녀’의 자택에서 채무 관련 메모가 발견된 것으로 알려졌다. 경찰은 현재 이들의 정확한 사망 동기를 조사 중이다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 지난 26일 오후 9시 30분쯤 서울 강서구의 한 주상복합 오피스텔에서 여성 3명이 추락사한 사건을 조사 중이라고 27일 밝혔다. 사망자는 40대 어머니와 10대 딸 둘로 확인됐다. 어머니와 딸 1명은 현장에서 사망했으며, 또 다른 딸 1명은 병원으로 옮겨졌으나 끝내 사망했다. &lt;br&gt;&lt;br&gt;이들이 추락한 곳은 오피스텔 옥상이다. 약 160cm인 테라스 담벼락 앞에는 옥상 풀숲에 놓여 있던 나무 벤치가 옮겨져 있었다. 모녀가 뛰어내리기 전 옥상 담벼락에 오르는 데 발판으로 쓰인 듯 보였다. 해당 오피스텔 주민인 김모(38)씨는 “집 안에 있는데 2~3초 정도 ‘꺄아악’ 하는 젊은 여성의 비명 소리가 나더니 그 직후에 무언가 바닥에 부딪히는 ‘쿵’ 소리가 들렸다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4HXRS4G3BKRHLGVR7KV63KHPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 지난 26일 밤 서울 강서구의 한 주상복합건물에서 모녀 3명이 추락하는 사고가 발생해 사고 현장을 경찰 등 관계자들이 수습하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 사건 현장의 방범카메라를 확인했고 세 모녀가 추락하기 전까지 저항하는 행동이 발견되지 않은 점 등을 토대로 현장에서는 타살 혐의점이 없었던 것으로 보고 있다. 현장에서 유서가 발견되지는 않았으나, 채무를 짐작케 하는 메모가 발견된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 세 모녀는 코로나 시기부터 경제적 형편이 다소 어려워진 것으로 전해졌다. 별거 중이던 남편의 사업이 코로나 전까지만 해도 번창했으나, 코로나 유행 시기 동안 사업이 위태로워지며 형편이 어려워진 것으로 알려졌다. 각각 중학생, 고등학생인 두 딸은 학교에 다니지 않고 검정고시를 준비한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;다만 강서구에 따르면 기초생활수급자는 아니었던 것으로 확인됐다. 보건복지부 확인 결과 위기가구를 모니터링하는 행복e음 시스템에도 이들이 포착된 적은 없었다. 모녀가 실거주했던 해당 오피스텔은 11~15평 넓이의 집으로 전세가는 3억~4억원 정도였다.&lt;br&gt;&lt;br&gt;경찰 조사 결과, 모녀에게서 마약이나 음주 정황은 발견되지 않았다. 경찰은 이날 남편 등 유족을 불러 조사를 진행했으며, 모녀의 휴대폰 포렌식도 검토 중에 있다. 검사를 동석한 검안도 마친 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>개인 정보 인질 삼아 협박… 텔레그램 단체 대화방 운영자 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/08/27/643UDDPTHZBGDDDFTHRV4PWLTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/27/643UDDPTHZBGDDDFTHRV4PWLTY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>수백명이 참가한 텔레그램 단체 대화방에 피해자들의 개인정보를 무단으로 게시하며 금전을 요구한 10대 운영자가 구속됐다.
+경기남부경찰청 사이버수사대는 개인정보보호법 위반과 공갈미수 등 혐의로 10대 A씨를 구속했다고 27일 밝혔다.
+</description>
+      <pubDate>Wed, 27 Aug 2025 12:53:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수백명이 참가한 텔레그램 단체 대화방에 피해자들의 개인 정보를 무단으로 게시하며 금전을 요구한 10대 운영자가 구속됐다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사대는 개인정보보호법 위반과 공갈미수 등 혐의로 10대 A씨를 구속했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 1월부터 최근까지 텔레그램에 ‘수용소’라는 이름의 단체 대화방을 운영하면서 피해자들의 나이, 직업, 얼굴 등 개인 정보를 게시한 뒤 삭제를 조건으로 돈을 내라고 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 운영하는 대화방엔 수백 명이 참가해 있었으며, 현재까지 170여 명이 이 같은 수법에 피해를 본 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “제보라는 형식으로 피해자들의 정보를 누군가로부터 전달받아 단체 대화방에 게시했다”면서 “공범들에 대해서 추가 수사 중”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘채 상병 괴문서’ 초안 작성자 “이종섭이 보고받고 칭찬”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/27/VUZFUWAZE5CYVO5C6WTDFUAJ5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/VUZFUWAZE5CYVO5C6WTDFUAJ5E/</guid>
+      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 12:19:58 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWRMOTAYLFDNFESSS64ACWLQ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'순직 해병 수사 외압' 의혹과 관련해 국방부가 2023년 9월 작성한 ‘해병대 순직 사고 조사 관련 논란에 대한 진실’ 문건. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 ‘VIP 격노설’ 등이 거짓이라는 이른바 ‘국방부 괴문서’ 초안 작성자를 특정해 조사한 것으로 전해졌다. 해당 문건 작성자는 “이종섭 전 국방장관이 문건을 보고받고 칭찬했다고 들었다”는 취지로 말했다고 한다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 해병 특검은 당시 국방장관 군사보좌관실 소속이던 A 중령을 괴문서 초안 작성자로 특정하고 두 차례 불러 조사했다. A 중령은 해당 문건에 대해 “대변인실 자료 등을 참고해 작성했고, 문건을 보고하자 이종섭 전 장관이 칭찬했다고 들었다”는 취지로 진술한 것으로 알려졌다. 특검은 지난달 A 중령에 대한 압수 수색도 진행했다.&lt;br&gt;&lt;br&gt;국방부 괴문서는 2023년 9월 국방부가 작성한 ‘해병대 순직 사고 조사 관련 논란에 대한 진실’이라는 제목의 12쪽짜리 문서다. 주요 내용은 ‘고(故) 채수근 상병 관련 수사 외압 의혹은 박정훈(대령) 해병대 수사단장 혼자만의 느낌과 추정에 근거한 것’ ‘윤석열 전 대통령의 격노와 질책은 근거 없는 허위 주장’ 등이다. 당시 국방부는 “내부 참고용으로 작성했다”면서도 작성자를 밝히진 않았다.&lt;br&gt;&lt;br&gt;최근 해병 특검은 대통령실·국방부 관계자들에 대한 조사를 통해 ‘VIP 격노’를 규명했다. 문건의 주요 내용이 허위로 밝혀진 것이다. 특검은 A 중령 등 군사보좌관실이 해당 문건 초안을 만들고, 국방정책실이 완성한 것으로 보고 있다. 특검은 이 문서가 내부 참고용이라는 국방부 해명과 달리, 당시 국민의힘 일부 의원실 등에 전달된 사실도 확인했다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관 등 국방부 관계자들이 고의적으로 사실관계 왜곡·은폐를 하려 한 것으로 보고 허위 공문서 작성 및 행사 혐의로 처벌하는 방안을 검토 중이다.&lt;br&gt;&lt;br&gt;이종섭 전 장관 측은 “해당 문건을 보고받고 승인한 것이 맞지만, 허위 공문서로 보기는 어렵다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 해경 전 기획조정관 압수수색… ‘내란 부화수행’ 혐의 적용</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/27/6FZMUAFIEJAZRMWKUM56MMH4NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/6FZMUAFIEJAZRMWKUM56MMH4NY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 27 Aug 2025 11:21:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCDFHW3QPVMNZAWID3WNORWWUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'12·3 비상계엄' 관련 내란·외환 사건을 수사하는 조은석 특별검사팀이 26일 인천시 연수구 송도동 해양경찰청에서 압수수색에 나선 가운데 관계자들이 압수품을 들고 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 ‘계엄 가담’ 의혹이 제기된 해양경찰청 간부에 대한 압수 수색에 나선 가운데, 관련 영장에 내란 부화수행 혐의가 적시된 것으로 27일 알려졌다.&lt;br&gt;&lt;br&gt;특검은 지난 26일 안성식 전 해양경찰청 기획조정관의 관사와 자택, 해경 본청 사무실 등 3곳을 압수 수색했다. 특검은 영장에 내란 부화수행 혐의를 적시한 것으로 전해졌다. 내란 부화수행은 폭동 단순 가담자에게 적용되는 혐의다.&lt;br&gt;&lt;br&gt;특검 관계자는 전날 진행된 압수 수색에 대해 “이번 사건은 특검의 인지로 수사에 착수한 것”이라며 “비상계엄 직후 해경 간부회의 내용 관련”이라고 설명했다.&lt;br&gt;&lt;br&gt;안 전 조정관은 계엄 당시 파출소 청사 방호를 위한 총기 휴대 검토와 계엄사 파견 인력 증원 등을 주장한 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;당시 해경은 계엄 선포 이후 전국 지휘관 화상회의를 했는데, 회의 시작 전 안 전 조정관이 ‘직원들의 총기 휴대와 합수부 구성 시 수사 인력 파견이 필요하다’는 취지로 주장했다는 것이다. 안 전 조정관은 또 ‘계엄 사범들이 많이 올 것 같으니 유치장을 비우고 정비하라’는 지시도 내렸던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>평택 양계장서 태양광 패널 설치하던 60대 숨져</title>
       <link>https://www.chosun.com/national/incident/2025/08/27/YTNZZWHUFFFXDGD76LO44QULI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/27/YTNZZWHUFFFXDGD76LO44QULI4/</guid>
@@ -856,24 +912,6 @@
       <content:encoded>최근 중국의 한 방송사가 칭하이성 초원에 사는 야생 고양이 가족 모습을 공개해 화제가 됐어요. 어미와 조그마한 새끼 네 마리로 이뤄진 가족인데 하나같이 복슬복슬한 회색 털을 하고 얼굴은 다소 납작했어요. 새끼들이 굴 입구에 올망졸망 모여 있는 모습이 정말 깜찍했답니다. 이 야생 고양이의 이름은 ‘마눌(manul)’이랍니다. 몽골말로 ‘들고양이’ 또는 ‘삵’이라는 뜻이에요. &lt;br&gt;&lt;br&gt;마눌은 중국·몽골을 중심으로 중앙아시아와 이란 일부 지역까지 살고 있어요. 독일 동물학자 페터 시몬 팔라스가 18세기에 발견해 학계에 보고했다고 해서 ‘팔라스고양이(Pallas’s cat)’라고도 부르지요. 다 자란 몸길이는 50~60cm 정도로 반려동물로 키우는 집고양이보다 약간 큰 편이에요. 마눌은 둥글넓적한 얼굴과 덥수룩한 털을 가졌으며 까칠한 인상으로 인기가 많은 페르시아고양이와 빼닮았어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQGBR7MC5VDRVGEGLGPSAWHRNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마눌은 아담하고 둥글둥글하지만 다부진 몸집을 하고 있고 턱밑과 배 부분의 털은 수북하답니다. 그래서 여느 고양이보다 다리가 짧아 보이기도 해요. 이렇게 두꺼운 털옷 덕에 강추위와 칼바람을 이겨낼 수 있죠. 많은 고양잇과 동물이 쫑긋 선 귀를 갖고 있지만, 마눌의 귀는 얼굴처럼 둥그스름하고 작은 편이어서 쉽게 눈에 띄지 않아요. 여기에 얼룩무늬가 곁들여진 잿빛 털은 바위틈에서 훌륭한 위장 효과를 발휘하죠. 마눌은 쥐·도마뱀·새를 잡아먹는 사냥꾼이기도 하지만, 여우·늑대·독수리가 노리는 사냥감이기도 해서 어떻게든 눈에 띄지 않는 게 좋거든요. 그런데 마눌의 천적 중에는 사람도 있어요. 예로부터 몽골에서는 마눌의 몸에 신비한 효험이 있다고 여겨서 약재로 쓰려고 잡았대요.&lt;br&gt;&lt;br&gt;비록 몸집은 작아도 먹잇감을 잡는 모습을 보면 마눌은 영락없는 고양잇과 맹수랍니다. 풀숲이나 바위 틈새 등에 몸을 숨기고 있다가 먹잇감이 사정거리에 들어오면 급습해요. 또 쥐나 토끼 등이 사는 굴속으로 발을 뻗어서 발톱으로 사냥감을 끄집어내기도 해요. 마눌은 고양이치고는 아주 다양한 소리를 내면서 소통하는데, 보통 고양이처럼 갸르릉대기도 하고 꺅꺅 소리치기도 해요. 짝짓기 철이 되면 울음소리는 더욱 다양해져서 개처럼 컹컹 짖는 듯한 소리, 올빼미처럼 ‘홋 홋’ 하는 소리까지 낸답니다. &lt;br&gt;&lt;br&gt;암컷은 임신하면 75일 안팎의 임신 기간을 거쳐 많게는 한 배에 여덟 마리까지 새끼를 낳아요. 많은 고양잇과 동물과 마찬가지로 수컷이 육아에 참여하지 않죠. 출산 직후 눈도 제대로 뜨지 못하고 꼬물거리는 새끼들은 그러나 아주 빠른 속도로 자라나요. 생후 3~4개월이 되면 어미와 함께 먹이를 찾아 나설 수 있고요. 생후 5~6개월이 되면 어미 품을 떠나 독립하죠. 생후 1년이 되면 어엿한 어른이 돼 번식이 가능해져요. &lt;br&gt;&lt;br&gt;마눌의 서식 지역 중 여러 곳에서 도시를 건설하거나 가축을 기르기 시작하면서 터전을 잃는 경우가 잇따르고 있어요. 그래서 많은 사람이 마눌을 보호하기 위한 대책이 필요하다고 말한답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2692] 쿵작쿵작 장단치기</title>
-      <link>https://www.chosun.com/national/nie/2025/08/27/CF5LDFZ62VA6XLAKM7MBCKOSPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/08/27/CF5LDFZ62VA6XLAKM7MBCKOSPQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDU53Y4TAFGL3EYPFPPNWUDAF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 설파(說破)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/08/27/4W7IWIIG2ZAADOIA7CWBOS3PDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/08/27/4W7IWIIG2ZAADOIA7CWBOS3PDI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJ7DFZR22NG4XFG4ETKUCNXVQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] get flustered</title>
       <link>https://www.chosun.com/national/nie/english/2025/08/27/63BCSWJ2FNFGDF6QIWQWIAD4A4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/08/27/63BCSWJ2FNFGDF6QIWQWIAD4A4/</guid>
@@ -881,24 +919,6 @@
       <description/>
       <pubDate>Tue, 26 Aug 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNXTBVMHVBHHZIIDYROPMNC2KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 꿈에서 보았다, ~의 꿈을 꾸다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/08/27/TAWQ5IE6VBCFBJLYM22MY6W6JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/08/27/TAWQ5IE6VBCFBJLYM22MY6W6JU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI3DVO2LAJFMDEYGNDR4AFUWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 손수 돌보아 기르다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/08/27/SG6PV4WMS5CZFD3RVFYQE26IME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/08/27/SG6PV4WMS5CZFD3RVFYQE26IME/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQE6A7ERIJGLTFC4HGAAPFQF5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 8월 27일</title>
@@ -923,15 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>이복현 전 금감원장 변호사 복귀...법률사무소 개업</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/YNI64EQR3RHIHNCR7GTKX35A34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/YNI64EQR3RHIHNCR7GTKX35A34/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 12:58:43 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MX4IDAYEIOMSP3K4JDTAFX3KPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이복현 전 금융감독원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이복현(53·사법연수원 32기) 전 금융감독원장이 변호사 사무실 열었다. 26일 법조계에 따르면 이 전 원장은 최근 서울 중구 정동 신아빌딩에 ‘이복현 법률사무소’를 개업했다.&lt;br&gt;&lt;br&gt;이 전 원장은 검찰에서 사직한 뒤 2022년 5월 변호사 개업을 신고했으나 그해 6월 금감원장에 임명되면서 휴업했었다. 지난 6월 5일 임기 3년을 마친 이 전 원장은 같은 달 서울지방변호사회에 재개업을 신고했다.&lt;br&gt;&lt;br&gt;서울대 경제학과를 나온 이 전 원장은 공인회계사 시험과 사법시험에 모두 합격한 뒤 경제·금융 수사를 주로 해왔다. 서울지검 남부지청에서 검사 생활을 시작했고 서울중앙지검 특수4부장·경제범죄형사부장 등을 지냈다. &lt;br&gt;&lt;br&gt;2013년 국가정보원 댓글 사건을 수사했고 2017년 박근혜 정부 국정 농단 사건 특검 수사에도 참여했다. 2019년에는 삼성바이오로직스 분식 회계 의혹 사건을 맡아 이재용 삼성전자 회장을 기소하기도 했다. 2022년 5월 윤석열 정부 첫 금감원장으로 임명됐다. 검찰 출신이 금감원장에 기용된 것은 처음이었다. &lt;br&gt;&lt;br&gt;한편, 공직에서 퇴직해 변호사 개업을 한 경우 1년간은 근무했던 국가기관이 처리하는 사건을 수임할 수 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중장년층도 MZ처럼 릴레이 소개팅… “연금은 있죠?” “자녀는요?”</title>
       <link>https://www.chosun.com/national/national_general/2025/08/26/NXR6FQ5VBBBWNKSYVSEOVZSQTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/26/NXR6FQ5VBBBWNKSYVSEOVZSQTQ/</guid>
@@ -948,15 +959,6 @@
       <description/>
       <pubDate>Tue, 26 Aug 2025 06:08:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCF5JLMSLJJZRKMEFBH3QGTBPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨를 통해 김건희 여사에게 고가 선물을 전달하고 통일교의 현안을 청탁한 의혹을 받는 윤영호 전 통일교 세계본부장이 지난달 30일 서울중앙지법에서 열린 영장실질심사에 출석하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 2023년 국민의힘 당 대표 선거에서 통일교가 김기현 의원을 지원한 정황을 포착한 것으로 26일 알려졌다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 특검은 윤영호 전 통일교 세계선교본부장과 ‘건진법사’ 전성배씨가 해당 내용과 관련해 나눈 문자 메시지를 확보했다고 한다. 2023년 2월 초 전씨가 “당 대표 김기현, 최고위원 박성중 조수진 장예찬으로 정리하라네요”라고 윤씨에게 보냈고, 윤씨가 “움직이라고 하겠다”고 답한 것으로 전해졌다. 실제로 김 의원은 당 대표에 선출됐고, 조수진 의원과 장예찬 의원도 각각 최고위원에 선출됐다.&lt;br&gt;&lt;br&gt;특검은 전씨가 김 여사의 의중을 통일교 측에 전달한 것으로 보고 실제로 관련 이야기가 오갔는지 들여다보고 있다. 다만 이에 대해 김 여사 측은 “두 사람 사이의 일방적인 대화로, 여사는 해당 내용을 전혀 몰랐고 전달받지 않았다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 두 사람이 권성동 의원을 당 대표로 선출하기 위해 통일교 교인들을 동원하려고 한 정황도 파악했다. 당시 윤씨는 문자메시지로 전씨에게 “윤심은 정확히 무엇입니까” “전당대회에 어느 정도 규모로 필요한가요”라고 물었고, 전씨는 “윤심은 변함없이 권(성동)”이라고 답한 것으로 전해졌다. 그러나 권 의원이 당 대표 선거에 불출마를 선언하자, 지원 대상을 김 의원으로 변경한 것이 아니냐는 것이 특검 측 의심이다.&lt;br&gt;&lt;br&gt;이밖에도 특검은 윤씨가 전씨를 통해 통일교의 캄보디아 메콩강 개발사업 지원 등을 청탁하면서 김 여사를 캄보디아에 데려가려 했다는 정황이 담긴 휴대전화 문자메시지도 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박원순 피해자 공개한 정철승 변호사에... 법원 “4000만원 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/26/PRGJF3OSEFBS7BJJWX2YWDRV6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/26/PRGJF3OSEFBS7BJJWX2YWDRV6U/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 06:58:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLXE3EFUD5KFZOONVR4PBHBTRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 박원순 전 서울시장 성폭력 사건에서 유족 측을 대리한 정철승 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 박원순 서울시장 유족을 대리하면서 성폭력 피해자 신원 일부를 공개한 정철승 변호사가 피해자에게 4000만원을 배상해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;26일 법조계에 따르면 서울중앙지법 민사34단독 김소망 판사는 박 전 시장 피해자가 정 변호사를 상대로 낸 7000만원의 손해배상 청구 소송 1심에서 지난 22일 원고 일부 승소로 판결했다. &lt;br&gt;&lt;br&gt;정 변호사는 2021년 8월 페이스북에 ‘박원순 사건 관련 사실관계’라는 제목으로 세 건의 글을 올리고 피해자 신원을 특정할 수 있는 시장 비서실 근무 시기 등을 적었다. ‘피해자가 성추행당했다는 주장에는 물증이 없다’ ‘피해자가 이례적으로 빨리 진급했다’는 취지의 주장도 올렸다. 이후 피해자는 정 변호사를 정보통신망법상 명예훼손과 개인정보보호법 위반 등 혐의로 고소했고 손해배상 소송도 제기했다.&lt;br&gt;&lt;br&gt;김 판사는 ‘성추행 증거가 없다’고 한 글에 대해 “참고인 진술과 텔레그램 메신저 대화 내용, 사진 등 인적·물적 증거가 존재하기 때문에 허위”라고 했다. 또 “서울시 직원들 평균 승진 기간에 비춰봤을 때 피해자가 이례적으로 빠른 진급을 한 것은 아닌데 마치 피해자가 혜택을 받고 무고한 것처럼 쓴 것은 잘못된 표현”이라고 판시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 변호사는 지난 5월 형사 사건 1심에서도 명예훼손 혐의가 인정돼 징역 1년을 선고받았다. 당시 재판부는 “정 변호사가 쓴 게시글은 고의로 거짓을 적시한 것으로 인정된다”며 “피해자가 고인을 무고했을 가능성을 거짓으로 제기한 것은 그 목적이 공익을 위한 것이라고 볼 수 없고, 피해자를 비방하려 한 것으로 볼 수밖에 없다”고 했다. &lt;br&gt;&lt;br&gt;박 전 시장 피해자를 대리한 김재련 변호사는 이날 페이스북에 “법원 판결에 경의를 표한다”며 “피해자가 성폭력 가해자를 상대로 민사소송을 제기해 인용 판결을 받는 금액에 비춰볼 때, 이번 판결은 2차 가해 행위자에 대한 배상금액으로 4000만원이 인용됐다는 점에 의미를 두고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 무안공항 ‘콘크리트 둔덕’ 없앨 세 번의 기회…정부 묵살로 날렸다</title>
