@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>주진모, 골프 치다가 ’2700만원 롤렉스' 받은 근황</title>
+      <link>https://www.chosun.com/national/people/2025/08/28/XHB3JV35VBHYXOZFTGB62WBVCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/28/XHB3JV35VBHYXOZFTGB62WBVCA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 09:37:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KQTCWN4N27K46P6GGEBTA3QPFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 주진모./스포츠조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 주진모가 골프 유튜브 촬영 도중 우연히 홀인원을 기록하며 2700만원 상당의 명품 시계를 경품으로 받았다.&lt;br&gt;&lt;br&gt;27일 유튜브 채널 ‘변기수 골프TV’에는 “2700만원 롤렉스 청콤, 진짜 가져가버리다?!”라는 제목의 영상이 올라왔다. 촬영은 경북 상주시 블루원 상주 골프리조트에서 진행됐다.&lt;br&gt;&lt;br&gt;진행자 변기수는 “파3에서 홀인원을 하면 롤렉스 서브마리너 청콤을 드린다. 오늘부터 시행되는 이벤트이니 편하게 치면 된다”고 설명했다. ‘파3’는 세 번 안에 홀에 공을 넣어야 하는 거리를 뜻한다.&lt;br&gt;&lt;br&gt;주진모는 7번 홀에서 9번 아이언으로 친 공이 홀을 향해 곧장 날아가더니, 그린 위를 구르며 그대로 홀에 빨려 들어갔다. 3번 안에 넣어야 하는 거리를 단 한 번 만에 성공한 것이다. 현장은 순간 술렁였고, 주진모는 얼떨떨한 듯 “나 했다”고 말하며 변기수와 포옹했다.&lt;br&gt;&lt;br&gt;변기수는 “경품은 원래 1년짜리 이벤트로 준비한 것인데”라고 말을 잇지 못했다. 그러면서 “오늘이 이벤트 첫날인데 이런 일이 벌어지다니 말도 안 된다”며 “변기수 TV 5년 4개월 만에 처음으로 홀인원이 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이날 주진모는 경품으로 2700만원 상당의 롤렉스 서브마리너 시계를 받았다. 그는 지난 26일 서울 압구정 하이시간 매장에서 열린 홀인원 세리머니에 참석해 직접 시계를 수령했다. 주진모는 “평소 즐겨하는 골프에서 뜻밖의 행운을 얻게 돼 너무 기쁘다”며 감사 인사를 전했다.&lt;br&gt;&lt;br&gt;이벤트를 준비한 지성식 하이시간 대표는 “솔직히 홀인원이 나올 거라곤 예상하지 못했다”며 “주진모 배우께서 멋지게 성공해주셔서 기쁜 마음으로 경품을 전달했다”고 말했다. 그러면서 “다음 홀인원 주인공에게는 파텍필립 같은 초고가 시계를 줄지, 아니면 그냥 골프공 한 박스로 마무리할지 고민 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;주진모는 2019년 방영된 SBS 드라마 ‘빅이슈’ 이후 휴대전화 해킹으로 인한 사생활 유출 논란에 휩싸인 뒤 활동을 쉬고 있다. 그는 2019년 11살 연하의 의사 민혜연과 결혼했다. 주진모는 간간이 민혜연의 유튜브 영상에 등장해 근황을 전하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘통일교 불법자금 혐의’ 권성동 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/LYITSLNWI5C4PB2JI37KK6JIOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/LYITSLNWI5C4PB2JI37KK6JIOM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 08:48:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNGM6QQEOVBGCZ7DVMSDUDG424.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 27일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 통일교 부정 청탁 의혹 관련 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 28일 권성동 국민의힘 의원에 대한 구속영장을 청구했다. 지난 27일 권 의원을 소환 조사한 지 하루 만에 신병 확보에 나선 것이다. 권 의원은 통일교로부터 불법 정치자금을 건네받았다는 혐의(정치자금법 위반)를 받는다. &lt;br&gt;&lt;br&gt;이날 특검은 “28일 오후 권 의원에 대한 구속영장을 청구했다”고 밝혔다. 권 의원이 불체포특권을 가진 현역 국회의원 신분인 만큼, 구속 전 피의자심문(영장실질심사)에 앞서 국회에서 체포동의안 표결 절차를 거치게 된다. 체포동의안 가결에는 재석 의원 과반 출석 및 출석 의원 과반 찬성이 필요하다.&lt;br&gt;&lt;br&gt;특검은 전날인 27일 권 의원을 불러 13시간 40여분 간 조사했다. 권 의원 측은 진술거부권을 행사하지 않고 적극적으로 의혹을 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 권 의원이 2022년 1월 통일교로부터 1억원대의 불법 정치자금을 받은 정황을 확보하고 관련 수사를 진행 중이다. 권 의원에게 정치자금을 직접 건넨 것으로 알려진 윤영호 전 통일교 세계본부장은 앞서 특검 조사에서 “한학자 통일교 총재의 결정과 지시에 따라 한 총재가 내실 금고에서 꺼내 준 현금 뭉치를 아내 이씨를 통해 포장해 (권 의원에게) 전달했다”고 진술한 것으로 전해졌다. 권 의원은 2022년 2~3월 한학자 통일교 총재로부터 현금이 든 쇼핑백을 받았다는 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;이밖에도 특검은 윤영호 전 본부장과 ‘건진 법사’ 전성배씨가 2022년 3월 치러진 국민의힘 당대표 선거에서 권 의원의 당선을 위해 통일교 교인들을 대거 입당시켰다는 의혹도 수사 중이다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 김 여사에게 귀금속을 건넨 의혹을 받는 이배용 국가교육위원장을 압수 수색했다. 특검은 앞서 김 여사 일가에 대한 압수 수색 과정에서 이 위원장이 김 여사 측에 금품을 건넨 정황을 포착한 것으로 전해졌다. 특검은 이 위원장이 금품을 김 여사에게 건넨 대가로 국가교육위원장직에 임명된 것은 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;앞서 이봉관 서희건설 회장 역시 김 여사에게 ‘반클리프 아펠’ 목걸이와 ‘티파니’ 목걸이 등을 건넸다는 내용의 자수서를 특검에 제출한 바 있다. 이봉관 회장은 국가조찬기도회 회장직을 맡고 있는데, 이 위원장 역시 이 기도회의 임원으로 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’사상자 3명’ 부산 북구 아파트 화재도 전기스쿠터 배터리 발화</title>
+      <link>https://www.chosun.com/national/regional/2025/08/28/2AFHIJB5CZCEJE467DYU4LAHCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/28/2AFHIJB5CZCEJE467DYU4LAHCE/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 09:21:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEI3TCVXHROPHI2QO5T5PFIMQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;화재가 발생해 80대 노모와 50대 아들이 숨진 부산 북구 만덕동의 한 아파트에서 경찰과 국과수 소방당국이 합동감식을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 3명의 사상자를 낸 부산 북구 만덕동 아파트 화재는 전기 스쿠터 리튬이온 배터리에서 불이 시작된 것으로 조사됐다.&lt;br&gt;&lt;br&gt;28일 부산 북부경찰서에 따르면 국립과학수사연구원은 지난달 13일 북구 만덕동 한 아파트 2층에서 발생한 화재의 원인으로 전기 스쿠터 배터리 팩을 지목했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이 아파트는 1층에 기둥을 세운 필로티 구조”라면서 “불이 난 세대 현관 인근 방에서 충전 후 보관 중이던 배터리 팩에서 전기적인 요인으로 발화한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;올 들어 전기 이륜차 배터리 충전으로 인한 실내 화재 사고가 끊이질 않고 있다. 지난 17일 모자가 숨진 서울 마포구 창전동 아파트 화재도 전동 스쿠터 배터리 열 폭주가 원인으로 추정되고 있다.&lt;br&gt;&lt;br&gt;또 리튬이온 배터리에서 발생한 화재는 단 몇 초 만에 온도가 1000도 넘게 치솟으며 거센 불길을 쏟아내는 ‘열 폭주’ 탓에 불길이 빠르게 번져 인명 피해로 이어지고 있다. &lt;br&gt;&lt;br&gt;이번 북구 만덕동 아파트 화재도 현관 인근에서 시작된 불이 빠르게 번져 외부 대피를 어렵게 만들었다. 이 때문에 집 내부에 있던 80대 모친과 50대 아들이 숨졌다. 또 함께 있었던 40대 아들도 양팔에 화상을 입고 옮겨졌다.&lt;br&gt;&lt;br&gt;이 아파트 건축 허가가 이뤄진 2003년 2월에는 스프링클러 설치가 의무규정이 아니었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년도 건강보험료 1.48% 인상...월 소득 400만원 직장인 연 2만4000원 추가 부담</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/28/6GOKHW5TORESBAF6YX2MHJ5LLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/28/6GOKHW5TORESBAF6YX2MHJ5LLI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 08:46:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HWP5O4AODTUO6GVJJX7ZPAWSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 작년 2월 서울 국민건강보험공단 종로지사 모습. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년도 건강보험료율이 올해보다 1.48% 오른다. 건보료가 오르는 것은 지난 2023년 이후 3년 만이다.&lt;br&gt;&lt;br&gt;보건복지부는 28일 건강보험 정책 최고 의결 기구인 건강보험 정책 심의 위원회를 열고 내년도 건강보험료율(소득에서 건강보험료를 걷는 비율)을 올해(7.09%)보다 1.48% 오른 7.19%로 결정했다.&lt;br&gt;&lt;br&gt;건강보험은 현재 직장 가입자는 소득의 7.09%를 회사와 절반씩 나눠 내고, 지역 가입자는 소득의 7.09%에다 재산 등을 고려한 추가 보험료를 낸다. 예를 들어 월 소득 400만원 직장인의 경우 월 28만3600원의 건강보험료를 회사와 본인이 14만1800원씩 절반씩 나눠 낸다. &lt;br&gt;&lt;br&gt;하지만 내년부터 28만7600원의 보험료를 회사와 본인이 14만3800원씩 절반씩 나눠 내게 된다. 월 소득 400만원 직장인 입장에서 보면 보험료가 월 2000원 오르는 것이다. 자영업자 등 지역가입자는 월 소득 400만원 기준 월 4000원이 오른다. 연간 4만8000원 꼴이다.&lt;br&gt;&lt;br&gt;건강보험료율은 2018년 6.24%였지만,MRI(자기공명영상)·초음파 검사 등에도 건강보험을 적용하는 ‘문재인 케어’의 여파로 이듬해 3.49% 급증했다. 이후 조금씩 꾸준히 오르다 2024·2025년은 고물가 등을 고려해 정부가 2년 연속 동결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EG5WJ5ISOBZN2YEMCHKK5QUGRQ.jpg?auth=2bf5465e812ec8a1d91bedec1786c70af4f99120831799068b25ce8d9c64aaf3&amp;smart=true&amp;width=5000&amp;height=3338" type="image/jpeg" height="3338" width="5000">
+        <media:description type="plain">정부가 역대 처음으로 2년 연속 건강보험료율을 동결했다. 사진은 이날 서울 국민건강보험공단 종로지사 모습./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울시, 1조799억원 2차 추경…‘소비 쿠폰’ 3500억원 지방채 발행</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/D3YNYL4A5FCKPHU6DGUM4Q4WOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/D3YNYL4A5FCKPHU6DGUM4Q4WOQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 09:06:51 +0000</pubDate>
+      <content:encoded>서울시가 ‘2025년 제2회 추가경정예산안’을 1조799억원 규모로 편성해 29일 서울시의회에 제출한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S55PXOG6EJNJZC4BJ3F544XAB4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울 중구 중부시장에 민생회복 소비쿠폰 사용 가능 매장 안내문이 부착되어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 추경 예산안에는 민생 회복 소비 쿠폰 2차 지급을 위한 예산과 시내버스 재정 지원 예산 등이 포함됐다.&lt;br&gt;&lt;br&gt;민생 회복 소비 쿠폰 예산은 8988억원 규모로 편성했다. 사업 예산 중 시비로 부담하는 3500억원은 지방채를 발행해 마련한다. 서울시는 소비 쿠폰 사업 예산의 25%를 시비로 부담하도록 돼 있다. 예산의 10%만 시비로 부담하는 다른 시·도보다 부담액이 높다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “활용할 수 있는 재정 여력이 거의 없어 불가피하게 지방채를 발행해야 하는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;시내버스 재정 지원 예산은 올 연말 시내버스 누적 부채가 1조원에 달할 것으로 예상돼 마련한 것이다. 1375억원 규모다. 서울시는 “대중교통의 재정 악화는 서비스 품질을 떨어뜨리고 운영을 불안정하게 할 수 있어 추가로 재정 지원을 하려는 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;이번 추경안에는 이외에도 취약계층 돌봄 강화 등을 위한 사업비 248억원이 담겼다.&lt;br&gt;&lt;br&gt;정상훈 서울시 기획조정실장은 “앞으로도 시 재정 건전성을 높이고 시민 안전과 편익을 모두 지켜나가기 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, 12·12 반란 맞선 故 김오랑 중령 국가배상 항소 포기 </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/3WVNKETIKREFDJREF7RBCR275U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/3WVNKETIKREFDJREF7RBCR275U/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 08:21:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOPZOAO2QLKNXMHYPTWKLWUJEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·12 군사 반란 당시 전두환 전 대통령 측 신군부에 맞서 상관을 지키다 숨진 김오랑 중령의 추모식이 지난 12일 오전 경남 김해시 삼정동 삼성초등학교 옆 김 중령 흉상 앞에서 열리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전두환 신군부의 12·12 군사 반란 당시 반란군에 맞서 싸우다 숨진 고(故) 김오랑 중령 유족들이 제기한 국가배상소송에서 정부가 항소를 포기했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 28일 페이스북에 “국방부의 요청을 받아들여 항소 포기를 지휘했다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 “이번 결정은 과거 국가가 김 중령의 숭고한 죽음마저 ‘전사’가 아닌 ‘순직’으로 진실을 왜곡해온 중대한 과오를 바로잡기 위함”이라면서 “이번 항소 포기로 김 중령이 권력이 아닌 국민과 국가에 충성을 다한 참군인으로서 영원히 기억되고 합당한 예우를 받기 바란다”고 했다.&lt;br&gt;&lt;br&gt;김 중령은 1979년 12·12 군사반란 당시 정병주 육군특전사령관의 비서실장이었다. 그해 12월 13일 새벽 정 사령관을 불법 체포하려 난입한 반란군과 교전하다 숨졌는데, 당시 일반적인 직무 수행이나 훈련 중 사망한 것을 뜻하는 ‘순직’으로 처리됐다. 그러나 43년 만인 2022년 9월 군 사망사고 진상규명위원회는 반란군이 총기를 난사하며 정 사령관을 체포하려는 것을 김 중령이 저지하다가 피살된 사실을 확인했다. 이에 따라 김 중령은 전투 중 사망한 ‘전사’로 바로잡혔다. 전사는 순직보다 보상 규모가 크다.&lt;br&gt;&lt;br&gt;유족 측은 김 중령의 사망 경위를 조작·은폐한 국가에 책임을 묻겠다며 지난해 6월 이 소송을 제기했고, 서울중앙지법 민사911단독 유창훈 부장판사는 지난 12일 김 중령의 누나인 김쾌평씨 등 유족 10명이 국가를 상대로 낸 5억원 규모의 손해배상 청구 소송에서 유족 측에 승소 판결했다. 재판부는 유족 1인당 최소 900만원에서 최대 5700만원까지 위자료 등을 인정하고 국가가 총 2억9900만원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;김 중령은 2023년 11월 개봉한 영화 ‘서울의 봄’에서 배우 정해인이 연기한 오진호 소령의 실제 모델이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국·미국 등 외국산 원료로 된장 판매한 더본코리아, 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/28/ADBDREDHFRF6RINLYIKFE4D3WQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/28/ADBDREDHFRF6RINLYIKFE4D3WQ/</guid>
+      <dc:creator>예산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 08:59:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UDDKHOIWMBKSFYNUZXWEIZM5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더본코리아. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외식사업가 백종원 대표가 경영하는 더본코리아의 농지법 위반 등의 혐의에 대해 수사해온 경찰이 이 업체와 직원들을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;충남경찰청 반부패경제범죄수사대는 농지법과 축산물위생관리법 위반 등의 혐의로 더본코리아 법인과 법인·백석공장 관계자들을 불구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;더본코리아는 2016년 9월부터 올해 3월까지 충남 예산군 오가면 농업진흥구역에 설립한 백석공장에서 중국산 메주와 미국·캐나다·호주산 대두 등 외국산 원료로 된장을 만들어 판매한 혐의를 받는다. 또 백석공장 인근에 비닐하우스 2동(면적 440㎡)을 농업용 공정식 온실 용도로 신고하고, 실제로는 된장 원료 보관 창고로 사용한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;현행 농지법상 농업진흥구역 내 시설에서는 국내산 농수산물을 원료로 식품을 생산해야 한다. &lt;br&gt;&lt;br&gt;법인 측은 예산군의 행정처분에 따라 지난해 12월 비닐하우스를 철거했고, 경찰 수사가 시작되자 지난 6월 백석공장 운영을 중단했다.&lt;br&gt;&lt;br&gt;이와 함께 2023년 11월 추남 홍성군에서 열린 바비큐 축제장에서 상온에 노출된 상태로 돼지고기를 일반 트럭에 싣고 운반해 축산물위생관리법을 위반한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “농약 분무기로 고기에 소스를 뿌리고 검사를 받지 않은 바비큐 그릴을 사용해 식품위생법 위반 혐의로 고발된 건은 단순 조리해 해당돼 무혐의 처분을 내렸다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>순천서 열리는 건강·소통·힐링의 축제... 내달 27일 제3회 전국 웰니스 노르딕워킹 대회</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/X5U4XGLOPVAI7NLRMTNODZQYYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/X5U4XGLOPVAI7NLRMTNODZQYYM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 08:16:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSSYILCZPNGERMLXEWGIZC3QQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;웰니스 노르딕 워킹 군무팀. /한국웰니스노르딕워킹협회(KWNA) 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천시는 다음 달 27일 오전 9시 30분 순천 오천그린광장에서 ‘제3회 전국 웰니스 노르딕워킹(북유럽식 걷기) 대회’를 개최한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;전국에서 500여 명이 참가할 예정인 이번 대회는 순천시 보건소가 주최하고 한국웰니스노르딕워킹협회(KWNA)가 실무 운영을 맡아 진행한다. &lt;br&gt;&lt;br&gt;이번 대회에서는 KWNA 군무팀이 선보이는 특별한 군무 퍼포먼스 등 색다른 볼거리를 제공한다. 또 참가자 전원에게 텀블러와 쿨스카프를 기념품으로 증정할 예정이다. 참가자 모집 기간은 27일부터 다음달 17일까지. 참가신청은 순천시 홈페이지 및 공식 SNS(블로그, 인스타그램, 네이버밴드)를 통해 할 수 있다. &lt;br&gt;&lt;br&gt;순천시 보건소는 2023년부터 ‘웰니스 노르딕워킹 교실’을 운영하며 시민들의 건강 증진을 위해 꾸준히 힘써왔다. 지난해부터는 대회를 전국 규모로 확대해 매년 개최하고 있다. 지금까지 7700여 명이 매주 3km 걷기 프로그램에 참여했다. 현재 웰리더(Welleader) 40명과 동아리 14개를 중심으로 웰니스 문화 확산에도 앞장서고 있다.&lt;br&gt;&lt;br&gt;정봉화 KWNA 회장은 “순천의 아름다운 자연을 배경으로 열리는 이번 대회가 건강한 걷기 문화를 전국으로 확산시키는 계기가 되길 바란다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>’검정 고무신’ 소송 2심 “故 이우영에 저작권 있어… 출판사가 4000만원 배상”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/28/ODRGJBF5AFGS3KDB2DOOU3ZVPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/ODRGJBF5AFGS3KDB2DOOU3ZVPU/</guid>
@@ -846,24 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXV25YRO3DOBYARYBH5HYIPNM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 과정에서 윤석열 전 대통령의 내란 행위를 방조한 혐의를 받는 한덕수 전 국무총리가 27일 오후 서초구 서울중앙지방법원에서 열린 구속 영장 실질심사에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 방조 등 혐의로 구속영장이 청구된 한덕수 전 국무총리의 구속 심사가 27일 오후 4시 55분쯤 종료됐다. 한 전 총리는 서울구치소로 이동해 결과가 나올 때까지 대기할 예정이다.&lt;br&gt;&lt;br&gt;정재욱 서울중앙지법 영장 전담 부장판사 심리로 진행된 구속 심사는 이날 오후 1시 30분부터 3시간 25분간 이어졌다. 한 전 총리는 심사를 마치고 5시 5분쯤 나왔다. 그는 ‘계엄을 정당화하기 위해 국무위원들을 부른 건지’ ‘왜 계엄선포문을 안 받았다고 한 건지’ ‘대선 출마는 수사를 피하기 위한 것이었는지’ 등 취재진 질문에 아무런 답을 하지 않았다. &lt;br&gt;&lt;br&gt;앞서 내란 특검은 한 전 총리에게 내란 우두머리 방조와 허위 공문서 작성·행사, 대통령기록물관리법 위반, 공용 서류 손상, 위증 등 6가지 혐의를 적용해 지난 24일 구속영장을 청구했다. 54쪽 분량의 영장 청구서에는 범죄의 중대성과 재범 위험성, 증거 인멸·도주 우려 등 구속 수사가 필요한 사유가 담겼다. &lt;br&gt;&lt;br&gt;구속 심사를 앞두고 지난 25일에는 법원에 360여쪽 분량 의견서와 영상이 포함된 160쪽의 PPT 자료를 제출했다고 한다. 이날 심사에는 김형수 특검보와 김정국 차장검사 등 8명이 참석해 구속 필요성을 주장했다.&lt;br&gt;&lt;br&gt;결과는 이날 늦은 밤이나 새벽에 나올 전망이다. 한 전 총리 구속 여부를 결정할 정 부장판사는 앞서 김건희 여사와 이상민 전 행정안전부 장관의 구속영장을 발부한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“정말 감사해요”...외국인 유학생 분실 등록금 찾아준 부산 시민</title>
-      <link>https://www.chosun.com/national/regional/2025/08/27/EJS4UWKQXZH2VGF634DUCKQGSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/EJS4UWKQXZH2VGF634DUCKQGSI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 08:05:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ICG74L5JURDQ7N7J2O3BX6PY5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;등록금 봉투 찾아준 시민과 유학생. /부산 남부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 대학교 등록금이 든 봉투를 분실한 외국인이 한 시민의 도움으로 돈을 되찾았다.&lt;br&gt;&lt;br&gt;27일 부산 남부경찰서에 따르면, 전날 오전 9시 30분쯤 스리랑카 출신 유학생 A씨는 남구 경성대 인근 횡단보도를 건너던 중 등록금 100여 만원이 든 봉투를 잃어버렸다는 사실을 알아챘다.&lt;br&gt;&lt;br&gt;A씨는 어렵게 마련한 돈을 잃어버려 망연자실했고, 곧바로 근처 지구대를 찾아 분실신고를 했다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 주변을 수색하고 인근 CCTV를 확인하다가 돈 봉투가 습득물로 접수된 것을 확인했다. 횡단보도 인근에서 돈 봉투를 주운 B씨가 직장에서 바쁜 일을 마무리한 뒤 가까운 지구대에 방문해 돌려준 것이다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 잃어버린 돈과 습득물이 일치하는 것을 확인하고, A씨에게 돈 봉투를 돌려줬다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 ‘다시 찾지 못할 줄 알았다’며 눈시울을 붉히며 B씨에게 거듭 감사 인사를 전했다”며 “B씨는 ‘누구라도 저와 똑같이 행동했을 것’이라고 말했다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘타다’ 운전기사 항소심서 근로자 인정...1심 판결 뒤집어</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/X2V5UQVINBDQDKTLSV2VAPVZGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/X2V5UQVINBDQDKTLSV2VAPVZGI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 08:00:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OWGMYQHQ43CZWABU6SYH24QEOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차량 호출 서비스 '타다' 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차량 호출 플랫폼 ‘타다’ 운전기사를 근로자로 인정해야 한다는 항소심 판결이 나왔다. 작년 7월 타다의 프리랜서 운전기사를 플랫폼 근로자로 봐야 한다는 대법원 판결이 나온 뒤로 하급심에서도 같은 판결이 이어지고 있다.&lt;br&gt;&lt;br&gt;서울고법 행정6-1부(재판장 황의동)는 27일 타다 운영사 VCNC의 모회사였던 쏘카가 중앙노동위원회의 부당해고 구제 재심 판정에 불복해 낸 소송에서 1심 판결을 뒤집고 쏘카 패소로 판결했다. 타다 운전기사를 근로자로 인정한 중노위 판정이 정당하다는 취지다.&lt;br&gt;&lt;br&gt;운전기사들과 프리랜서 계약을 맺고 타다를 운영하던 VCNC는 2019년 인원 감축을 이유로 A씨 등 운전기사 70여명에게 계약 해지를 통보했다. 이에 A씨는 “실제로는 VCNC의 지휘·감독을 받고 일하는 근로자였는데 일방적으로 해고를 당했다”며 노동위원회에 구제를 신청했다. 이듬해 중앙노동위원회가 부당해고가 맞는다고 인정하자 쏘카가 불복해 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;앞서 2022년 7월 1심은 쏘카 측 손을 들어줬으나 2심에서 뒤집힌 것이다. 타다 운전기사의 근로자성을 인정한 작년 대법원 판결이 영향을 미친 것으로 보인다. 대법원은 당시 다른 타다 운전기사 관련 사건에서 “쏘카는 협력업체와 운전 용역 제공 계약을 체결해 프리랜서 드라이버를 공급받았지만 임금과 업무 내용은 직접 결정했다”며 “자회사 VCNC는 앱을 통해 드라이버 근태를 관리했고 근무시간과 장소를 최종적으로 결정했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>88 서울 올림픽 양궁 금메달리스트 박성수 감독 별세</title>
       <link>https://www.chosun.com/national/people/2025/08/27/ULMCHQRWKJF7ZP7NNT3ZT322K4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/27/ULMCHQRWKJF7ZP7NNT3ZT322K4/</guid>
@@ -877,26 +935,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘내연녀 잔혹 살해·유기’ 양광준, 항소심도 무기징역</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/ZIEBG3CWZVFKDIQ42R5DGPUMXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/ZIEBG3CWZVFKDIQ42R5DGPUMXM/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>같은 사무실에 근무하던 여성 군무원을 살해한 뒤 시신을 훼손해 북한강에 유기한 육군 소령 양광준(39)이 1심에 이어 항소심에서도 무기징역을 선고받았다.
-서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인 등 혐의로 기소된 양광준의 항소심에서 원심과 같은 무기징역을 선고했다고 27일 밝혔다.
-</description>
-      <pubDate>Wed, 27 Aug 2025 07:49:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVU42KQTNBBHFAORLOG5H7NYJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양광준 화천 북한강 토막살인범/강원경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 사무실에 근무하던 여성 군무원을 살해하고 시신을 훼손해 북한강에 유기한 육군 소령 양광준(39)이 1심에 이어 항소심에서도 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인 등 혐의로 기소된 양광준의 항소심에서 원심과 같은 무기징역을 유지했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;양은 지난해 10월 25일 경기 과천시 한 군부대 주차장에 세워진 자신의 차량에서 군무원 A(33)씨를 목 졸라 살해한 혐의를 받고 있다. 양은 또 인근 공사장에서 A씨의 시신을 훼손한 뒤 강원 화천군 북한강에 유기했다.&lt;br&gt;&lt;br&gt;유부남이었던 양은 A씨와의 부적절한 관계가 밝혀지는 것을 막기 위해 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;양은 특히 범행을 숨기기 위해 시신 유기 이후에도 A씨의 휴대전화를 이용해 A씨의 가족과 직장 등에 문자 메시지를 보내기도 했다.&lt;br&gt;&lt;br&gt;1심에서 무기징역을 선고받은 양은 “형량이 무겁다”며 항소했다. 그는 항소심 재판 과정에서 136차례나 반성문을 제출했고, 지난달 23일 열린 결심 공판에선 “매일 죄를 참회하고 반성한다”며 선처를 호소하기도 했다.&lt;br&gt;&lt;br&gt;양의 변호인 측도 계획 범행으로 판단된 내용 중 일부는 사실과 다르다며 선처를 호소했다.&lt;br&gt;&lt;br&gt;그러나 항소심 재판부는 “피고인을 무기한 사회로부터 격리해서 참회하게 하는 것이 불가피하다”며 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “범행 내용과 수법이 매우 잔혹하고, 인간에 대한 최소한의 존중도 찾아볼 수 없다”면서 “생명 존중과 망자에 대한 존중이라는 기본적인 가치를 훼손했다는 점에서도 선처를 바랄 수 없을 만큼 죄책이 무겁다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘정치자금법 위반 혐의’ 강용석...1심서 ‘공소 기각’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/7HGIPHEVJJBQREU4UMK5WVNGRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/7HGIPHEVJJBQREU4UMK5WVNGRY/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 07:38:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O76YVIFDU6IQH4ANH7MSQWW5FU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강용석 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 6·1 지방선거 당시 정치 후원금을 사적으로 쓴 혐의로 재판에 넘겨진 강용석 변호사가 27일 1심에서 ‘공소 기각’ 판결을 받았다. 검찰의 기소가 잘못됐다는 것이다.&lt;br&gt;&lt;br&gt;수원지법 형사10단독 한소희 판사는 이날 정치자금법 위반 혐의를 받는 강 변호사에 대한 선고 공판을 열고 “피고인의 공소를 기각한다”고 판결했다. 한 판사는 “피고인에 대한 이 사건의 공소제기 절차가 무효에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 강 변호사 측은 “검찰이 검찰청법 제4조를 위반해 수사 개시 검사가 공소를 제기했기 때문에 무효”라는 취지로 주장했는데, 법원이 이를 받아들인 것이다. 검찰청법 4조 2항에 따르면 검사는 자신이 수사 개시한 범죄에 대해선 공소를 제기할 수 없다.&lt;br&gt;&lt;br&gt;한 판사는 “이 사건 관련 공소 제기 검사인 A검사가 피고인을 소환하고 조사해 수사를 개시했다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/27E7NPIR63TK6J34QYG6QVALKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강 변호사는 선고 직후 취재진에 “재판부가 법률에 따라서 적법하게 판단했다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;강 변호사는 2022년 6월 지방선거를 앞둔 5월 후원금 5억5000만원을 자신의 처남이 운영하는 업체로 이체해 개인 용도로 사용한 혐의를 받는다. 당시 그는 경기도지사 선거에 출마했다. &lt;br&gt;&lt;br&gt;이와 별개로 강 변호사는 선거를 앞두고 처남이 운영하는 업체에 이체한 6억6000만원 가운데 일부 금액을 선거운동 관련 비용으로 불법 지급한 혐의(공직선거법 위반) 등으로도 기소돼 지난 4월 대법원서 징역 1년 6월에 집행유예 3년이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>BTS 지민, 배우 송다은과 열애설…‘엘리베이터 영상’ 퍼져</title>
       <link>https://www.chosun.com/national/national_general/2025/08/27/G3LWPYAPDNEVZGP3FDBH5NLBWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/G3LWPYAPDNEVZGP3FDBH5NLBWY/</guid>
@@ -904,45 +942,6 @@
       <description/>
       <pubDate>Wed, 27 Aug 2025 05:21:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YLRH45KJQFFSBHS465NVONVKCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송다은이 올린 영상에 지민이 등장한 모습. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 지민과 배우 송다은이 사적인 공간에서 함께 있는 영상이 공개돼 열애설이 불거졌다.&lt;br&gt;&lt;br&gt;27일 온라인 커뮤니티 등에 따르면 송다은은 최근 자신의 틱톡 계정에 아파트 복도로 추정되는 공간에서 촬영한 영상을 올렸는데 지민이 등장해 화제가 됐다. &lt;br&gt;&lt;br&gt;영상에서 송다은은 엘리베이터 문 앞에서 누군가를 기다린다. 엘리베이터 안에 타고 있던 사람은 BTS의 지민이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHZY6DUZRKHJJ3XVJYGZOXSVTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송다은(왼쪽), 방탄소년단 지민. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지민은 송다은을 보고 놀라며 “나 들어오는 거 알았어? 내가 일부러 말 안 하고 온 건데”라고 했다.&lt;br&gt;&lt;br&gt;송다은이 올린 영상은 곧 삭제됐으나 온라인 커뮤니티와 소셜미디어 등을 통해 퍼졌다. 해당 영상이 언제 어디서 촬영된 것인지는 알려지지 않았다. &lt;br&gt;&lt;br&gt;두 사람은 지난해에도 열애설이 불거진 바 있다. &lt;br&gt;&lt;br&gt;지민의 소속사 빅히트 뮤직 측은 해당 영상과 관련한 조선닷컴 질의에 입장을 밝히지 않았다. &lt;br&gt;&lt;br&gt;송다은은 2018년 연애 프로그램 ‘하트시그널 2’에 출연해 대중에 얼굴을 알렸으며 드라마 ‘지고는 못 살아’, ‘한 번 다녀왔습니다’ 등에 출연했다.&lt;br&gt;&lt;br&gt;지민은 지난 6월 군 복무를 마친 후 내년 봄 컴백을 위해 미국에서 음반 작업 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최교진, 방북 승인 16번 받아… “평양 딛는 순간 감동의 눈물”</title>
-      <link>https://www.chosun.com/national/education/2025/08/27/FYBRNFVHPBDVFDV6PZSYEFXK7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/27/FYBRNFVHPBDVFDV6PZSYEFXK7Y/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 07:00:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NSHBHKRLLISPN5PSP6ZTGDLBSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 교육부 장관 후보자. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 사회부총리 겸 교육부 장관 후보자가 과거 통일부에 북한을 방문하겠다고 신청한 횟수가 총 17회에 달하는 것으로 나타났다. 이중 16회는 방문 승인이 내려졌다.&lt;br&gt;&lt;br&gt;27일 서지영 국민의힘 의원실이 통일부에서 받은 자료에 따르면, 최 후보자는 통일부에 2003년부터 2011년까지 17번에 걸쳐 북한 방문 신청을 접수했다.&lt;br&gt;&lt;br&gt;통일부는 ‘남북 관계 악화’를 이유로 미승인한 2011년 9월 신청을 제외하곤, 총 16번의 북한 방문 신청을 모두 승인했다.&lt;br&gt;&lt;br&gt;통일부가 승인한 최 후보자의 북한 방문 신청 내용을 보면, 최 후보자는 평양(3차례)과 금강산(5차례), 개성(2차례), 개성공단(6차례)을 방문 지역으로 밝혔다. &lt;br&gt;&lt;br&gt;또 평양과 금강산, 개성을 방문하는 목적은 사회문화나 관광으로 작성했다. 개성공단 방문 목적은 경제협력이었다. &lt;br&gt;&lt;br&gt;최 후보자는 과거 자신의 소셜미디어에 북한 관련 글을 올리기도 했다. 그는 페이스북에 2007년 평양에 다녀온 뒤 느낀 점을 썼다. 그는 이 글에서 “순안공항에 첫발을 딛는 순간 나도 모르게 감동의 눈물이 흘렀고, 그 자리에 엎드려 땅에 입맞춤하고 싶을 정도로 감격했었다. 북쪽이 최악의 상태를 고난의 행군으로 이겨내고 이제 자신감을 갖게 된 것 같아 좋았다”라고 했다.&lt;br&gt;&lt;br&gt;2013년 4월, 한 아동문학가의 글을 페이스북에 올리곤 “고맙고 눈물이 난다”고 썼다. 해당 글은 “북녘에서 미사일 발사대를 움직이는 손이 바빠질수록 우리는 더 많은 무기를 녹여 꽃받침을 만들고, 핵무기를 만들어 겁을 줄수록 우리는 더 깨끗한 맨살로 두 팔 벌리고 심장을 내미는 수밖에요. 더 많은 쌀을, 더 많은 약을, 더 많은 꽃을, 더 많은 사랑을 전진 배치한 미사일 발사대 앞으로 가지고 가는 것, 그것만이 이 전쟁을 막을 수 있게 하는 것 아닐까요”라는 내용이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BJENJ4IQDRGMRPWAZJFKPPM3OQ.jpg?auth=adfedb8e84eb5615ecf9e752474bb4213d8708c61502c4c7e7904f71de0eb9ea&amp;smart=true&amp;width=2135&amp;height=1201" type="image/jpeg" height="1201" width="2135">
-        <media:description type="plain">최교진 사회부총리 겸 교육부장관 후보자가 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“노상원, 부정선거 수사단 선발 때 ‘전라도 출신 빼라’ 지시” 법정 증언</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/4GTDUVTI3FAJPE3DNLZDMABEBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/4GTDUVTI3FAJPE3DNLZDMABEBU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 07:03:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJPKJ2SWJFT4OWD4JZ6AQRNXB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노상원 전 정보사령관이 계엄 준비 시기에 중앙선거관리위원회의 부정선거 의혹을 수사할 ‘제2수사단’을 구성하면서 ‘전라도 출신은 빼라고 했다’는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;27일 서울중앙지법 형사합의21부(재판장 이현복)는 개인정보보호법 위반 혐의 등으로 기소된 노 전 사령관의 2차 공판기일을 진행했다.&lt;br&gt;&lt;br&gt;이날 재판에는 지난해 12월 1일 노 전 사령관, 문상호 전 정보사령관과 이른바 ‘롯데리아 회동’을 한 정보사 김봉규·정성욱 대령에 대한 증인신문이 진행됐다. 문 전 사령관은 이들을 통해 정보사 요원 명단을 작성한 뒤 노 전 사령관에게 보냈었다.&lt;br&gt;&lt;br&gt;내란 특검 측이 김봉규 대령에게 “피고인(노상원)이 특수부대 쪽은 특수무술 잘하는 인원으로 선발하되 전라도 출신은 제외하라고 했는데 맞느냐”고 묻자, 김 대령은 “네”라고 답했다. 이어 “말씀대로 업무 잘하는 인원을 뽑았는데 구체적으로 전라도 출신은 빼라고 해서 다시 (요원 선발을) 진행했다”고 했다.&lt;br&gt;&lt;br&gt;김 대령의 증언에 따르면 지난해 10월 노 전 사령관은 정보사 인원 10~15명 추가 선발을 요청한 뒤, 11월에는 특수요원 5명을 포함시켜 달라고 했다. 이 과정에서 노 전 사령관이 ‘전라도 출신은 제외하라’는 지시를 내렸다는 것이다.&lt;br&gt;&lt;br&gt;노 전 사령관은 민간인 신분이던 지난해 11월 제2수사단 구성을 위해 문 전 사령관에게 정보사 소속 요원들의 인적 정보 등을 받은 혐의(개인정보보호법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;문 전 사령관은 텔레그램 등 보안 메신저를 통해 노 전 사령관에게 정보사 요원 46명의 개인정보를 전달했다. 여기에는 계급·성명뿐 아니라 출신과 임관 연도, 출생 지역, 학력, 기타 특징까지 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>직원 시켜 ‘명품시계 밀반입’ 면세점 前 대표…2심서 실형 받고 법정 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/LLCFYWEU6FCJVMDDBM5NTFQZZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/LLCFYWEU6FCJVMDDBM5NTFQZZY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 07:03:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7UVJVN2D47WF2X7VNX4IPMSIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명품 시계 등 고가 면세품을 외국인 명의로 산 뒤 국내로 몰래 들여온 HDC신라면세점 전 대표이사가 항소심에서도 실형을 선고받고 법정 구속됐다. &lt;br&gt;&lt;br&gt;인천지법 형사항소3부(재판장 최성배)는 27일 관세법 위반 혐의로 기소된 HDC신라면세점 전 대표이사 A씨에 대한 항소심 선고공판에서 징역 1년 6개월을 선고한 원심을 파기하고 징역 1년에 추징금 1억7200여 만원을 선고했다. &lt;br&gt;&lt;br&gt;1심에서 법정 구속된 A씨는 지난 5월 법원에서 보석 신청이 인용돼 석방됐으나 이날 실형 선고로 다시 구속됐다. &lt;br&gt;&lt;br&gt;재판부는 “면세점 대표이사로 밀수를 막아야 할 지위에 있음에도 직원들을 통해 밀수입 범행을 저질러 죄질이 불량하다”며 “1심에서 유죄 이유를 설명했는데도 여전히 범행을 부인하고 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “사회 지도층 인사임에도 (잘못을) 인정하지 않고 있어 실형을 면할 수 없다”며 “형사 처벌을 받은 전력이 없는 점, 재범 가능성이 크지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;법원은 A씨와 함께 기소된 전·현직 직원 4명과 홍콩 소재 특판업체 대표·직원 등 6명 중 5명에겐 1심과 마찬가지로 징역형이나 벌금형의 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;다만 이들 중 1심에서 징역형의 집행유예를 선고받은 1명은 벌금형이 선고됐고, 면세점 법인에겐 1심과 같은 벌금 500만원과 추징금 1900여 만원이 선고됐다. &lt;br&gt;&lt;br&gt;A씨는 지난 2016년 4월 28일부터 같은 해 10월 4일까지 홍콩지역 HDC 신라면세점 특판업체 외국인 직원의 명의를 빌려 롤렉스 등 시가 1억7000여만원 상당의 명품시계 4개를 세관 신고 없이 국내로 밀반입한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 평소 HDC 신라면세점과 거래한 홍콩 소재 특판업체 직원들에게 명품 시계를 국내에서 면세가로 구매해 홍콩으로 가지고 나가게 했다. 이어 A씨의 지시를 받은 HDC 신라면세점‧특판업체 직원들이 현지에서 해당 명품 시계를 건네받아 국내로 갖고 들어온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;범행 당시 내국인 면세점 구매 한도는 3000달러로 제한돼 있던 반면, 외국인에겐 금액 제한이 없었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파리올림픽 양궁 국가대표 감독 숨진 채 발견…사망원인 조사 중</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/27/SLWXCIZ6EVFJVIGAEHIMYUCS64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/SLWXCIZ6EVFJVIGAEHIMYUCS64/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 07:08:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EBZG3UZVVNJ5NTNWPIPUFK6VI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 파리올림픽 당시 박성수 감독이 선수들에게 엄지손가락을 치켜세우고 있다. /KPPA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 파리올림픽에서 대한민국 양궁 남자 국가대표팀을 이끌었던 박성수 인천 계양구청 양궁팀 감독이 숨진 채 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;27일 대한양궁협회 등에 따르면 박 감독은 이날 오전 9시쯤 충북 청주시의 한 숙박업소에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;박 감독은 회장기 대학·실업 양궁대회에 참가하기 위해 청주에 머물던 중이었다.&lt;br&gt;&lt;br&gt;대한양궁협회 관계자는 조선닷컴과의 통화에서 “아직까지 정확한 사망 원인은 파악하지 못했다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 박 감독이 지병으로 숨진 것으로 추정하고 있다. 현재 정확한 사망 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“내 아들 숙제 시키지 마” 사유리, 발언 논란에 고개 숙였다 </title>
