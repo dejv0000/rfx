@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“속옷까지 벗으라더라”… 황보, 이스라엘 국경서 끌려간 사연</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 22:18:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V6UP5VQIFGZ5BXK4G7DOQVV44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 황보./KBS2&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 황보가 강한 인상으로 겪은 억울한 일을 떠올리며 이스라엘 국경에서 몸 수색까지 당했던 사연을 공개했다.&lt;br&gt;&lt;br&gt;황보는 지난 28일 방송한 KBS2 ‘옥탑방의 문제아들’에 출연해 ‘살면서 가장 억울한 일’에 대한 질문을 받자 “이상하게 공항이나 국경 검색대에서 나만 걸린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;과거 방송인 송은이, 김숙과 함께 해외여행을 떠난 황보는 이스라엘에서 요르단으로 국경을 넘기 위해 입국 심사를 받았다고 한다.&lt;br&gt;&lt;br&gt;송은이는 “걸어서 국경을 넘는 곳이라 가방을 끌고 국경을 넘었는데, 나랑 김숙만 (입국 심사를) 통과해 나왔다”며 “황보가 한참 있다가 나와서 물어봤더니 코웃음을 치면서 군인에게 잡혀갔다고 하더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;황보는 “국경 검색대에서 나를 불러내더니 어떤 공간에서 옷을 다 벗으라고 하더라. 속옷까지 싹 벗어야 했다. 이스라엘 여군이 나를 다 수색했다. 여군이 조사했지만 기분이 좋지 않았다”며 “내가 킬러처럼 보이나?”라고 했다.&lt;br&gt;&lt;br&gt;당시 황보는 20명 가까운 일행 중 유일하게 추가 몸 수색을 받았다고 한다.&lt;br&gt;&lt;br&gt;억울해하는 황보에게 패널들도 “미녀 스파이처럼 보인 거 아니냐” “황보는 이국적으로 보여서 그런 거 아니냐” 등의 이야기를 보탰다.&lt;br&gt;&lt;br&gt;이 밖에도 황보는 강한 인상 탓에 환불을 쉽게 하는 이른바 ‘환불 원정대’, 골초 등의 오해를 받는다며 억울해했다. 황보는 “난 살면서 환불을 단 한 번도 해본 적이 없다. 그리고 담배를 피운 적이 없다. 그런데도 사람들이 맨날 나 보자마자 ‘라이터 있냐’고 자주 묻는다”고 토로했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평서 가던 남이섬, 이젠 춘천서 배타고 한번에</title>
+      <link>https://www.chosun.com/national/regional/2025/07/11/QB276Y7MQBBZHLRU6XNC3FELDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/11/QB276Y7MQBBZHLRU6XNC3FELDA/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
+      <content:encoded>주소는 강원도 춘천시, 그러나 이곳으로 들어갈 수 있는 선착장은 경기도 가평군에 있다. 매년 관광객 200만명이 찾는 북한강 남이섬 얘기다.&lt;br&gt;&lt;br&gt;남이섬은 춘천시 남산면 방하리에 있다. 가평군 선착장에서 배를 타거나 짚라인을 이용해야만 들어갈 수 있다. 이 때문에 식당가, 주차장 모두 가평군 선착장 주변에 몰려 있다. 춘천시 관계자는 “이러한 동선 때문에 관광 수익을 전부 가평이 가져간다”며 “가평 남이섬이라고 아는 사람도 많다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH5Y6SFZHJBSFK34SUKM7FCP6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 춘천시가 최근 춘천과 남이섬을 연결하는 새 항로를 만들기로 했다. 남이섬 동쪽의 남산면 방하리 일대 10만7000㎡를 선착장을 갖춘 관광단지로 개발하고 남이섬을 오가는 뱃길을 만든다는 구상이다. &lt;br&gt;&lt;br&gt;남이섬에는 남이나루 선착장과 메타나루 선착장이 있는데 새로 만드는 뱃길은 메타나루 선착장을 이용한다. 남이섬 메타세쿼이아길 근처에 있는 선착장이다. &lt;br&gt;&lt;br&gt;관광단지는 오는 2027년 착공해 2035년 완공할 계획이다. 자전거를 타고 북한강을 건널 수 있는 ‘스카이바이크’도 놓는다.&lt;br&gt;&lt;br&gt;사업비는 740억원으로 추산했다. 이 중 590억원은 민간 투자를 유치할 예정이다.&lt;br&gt;&lt;br&gt;남이섬을 운영하는 주식회사 남이섬 측도 긍정적인 분위기다. 남이섬 관계자는 “섬을 찾는 관광객의 편의를 위해 춘천시 구상을 긍정적으로 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;춘천시는 새로운 뱃길이 생기면 관광객들이 춘천으로 더 유입될 것으로 보고 있다. 춘천에 있는 소양강댐, 레고랜드 등과 연계 관광 상품도 개발할 계획이다. &lt;br&gt;&lt;br&gt;육동한 춘천시장은 “남이섬 뱃길은 춘천시의 오랜 숙원 사업”이라며 “주민들도 원하고 있어 이번엔 반드시 이뤄내겠다”고 했다.&lt;br&gt;&lt;br&gt;남이섬은 원래 육지였다. 1944년 가평군에 청평댐이 생기면서 북한강의 수위가 상승했고 지금처럼 섬이 됐다. 축구장 64개 크기다. &lt;br&gt;&lt;br&gt;한류 드라마 ‘겨울연가’에 등장해 외국인 관광객이 많이 찾는다. 작년엔 188만4991명이 왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 넘쳐나는 보이스피싱에, 재판 지연 가중</title>
       <link>https://www.chosun.com/national/court_law/2025/08/29/3AZREMM3YZAKNFDKFRJBNZ5QXE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/3AZREMM3YZAKNFDKFRJBNZ5QXE/</guid>
@@ -936,24 +954,6 @@
         <media:description type="plain">12·3 비상계엄 과정에서 윤석열 전 대통령의 내란 행위를 방조한 혐의를 받는 한덕수 전 국무총리가 27일 오후 구속영장이 기각된 후 경기 의왕시 서울구치소를 나서고 있다. 2025.8.27/뉴스1 ⓒ News1 신웅수 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 신웅수 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>북의 황강댐 무단 방류 12년… 올해도 뾰족한 대책 없어</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/28/OFVBGTNY5BAPHMXDSSYJPUVG5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/28/OFVBGTNY5BAPHMXDSSYJPUVG5A/</guid>
-      <dc:creator>박상현 기자, 양수연 인턴기자(서울대 철학과 졸업)</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CA7QXPEAM3UNAL34B2MHIZNGFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 경기 연천군 군남댐 수위가 증가,  많은 물을 방류하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름 비가 단시간에 퍼붓는 ‘게릴라성 집중호우’가 잦아지면서, 급격히 불어난 하천 수위를 감당하지 못한 북한이 황강댐 무단 방류를 반복하고 있다. 올해 들어서만 2차례, 총 16일간 방류가 이뤄졌다. 2009년 경기 연천군 주민 6명의 목숨을 앗아간 황강댐 무단 방류 사고가 재연되는 것 아니냐는 우려가 나온다.&lt;br&gt;&lt;br&gt;27일 국민의힘 박성훈 의원실이 환경부에서 제출받은 자료에 따르면, 북한이 우리 측에 황강댐 방류를 마지막으로 사전 통보한 것은 박근혜 정부 시절인 2013년 7월이었다. 앞서 2009년 사고 이후 남북은 황강댐 방류 시 사전 통보해주기로 합의했는데, 정작 사전 통보는 2010년 2회, 2013년 1회 등 총 3회에 불과했다고 한다. 2014년에는 북한이 황강댐 수문을 열지 않았지만, 2015년부터 올해까지 총 51회에 걸쳐 사전 통보 없이 무단 방류를 진행했다. 북한이 합의를 사실상 지키지 않고 있는 것이다. 북한의 무단 방류는 문재인 정부 때인 2020년이 9차례로 가장 많았다.&lt;br&gt;&lt;br&gt;문제는 2022년 이후 시간당 100㎜가 넘는 집중호우가 잦아졌는데도 황강댐 무단 방류에 대한 뚜렷한 대비책이 없다는 것이다. 위성 영상을 통한 감시도 실시간으로 이뤄지는 것은 아니어서, 접경 지역에 있는 경기 연천 필승교와 군남댐 수위가 상승하는 것을 관측해 방류 여부를 추정하는 것이 전부다. 군남댐 외에는 홍수를 막을 인프라도 없다. 환경부는 “위성 영상으로 접경 지역을 하루 1~2회 감시하고 있고, 호우 상황에선 하루 최대 3회까지 감시하고 있다”면서도 “댐 방류를 위한 수문 조작이 수시로 가능한 만큼 위성 영상으로 방류 횟수를 제대로 추정하는 것은 어렵다”고 했다. &lt;br&gt;&lt;br&gt;현 정부 출범 후인 지난 6월 말 북한에 황강댐 방류 사전 통보를 공식 요청했으나 북한은 여전히 응하지 않고 있다. 이에 군남댐에 넘치는 물을 빼내기 위한 별도의 물길을 추가하는 등의 대책이 필요하다는 지적이 나온다. &lt;br&gt;&lt;br&gt;강부식 단국대 토목환경공학과 교수는 “북한의 협조를 기대하기 어려운 상황에서 실질적인 접경 지역 홍수 인프라 대책을 구상해야 한다”고 했다. 박성훈 의원은 “북한에 ‘대답 없는 요청’만 할 게 아니라 구체적 비상 대처 계획을 수립하고 이를 접경 지역 주민들과 공유해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7ZPUNWXOOCTRFIVYCKSKRMJR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성훈 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘수업 중 스마트폰 금지’ 법으로 못 박았다</title>
-      <link>https://www.chosun.com/national/education/2025/08/27/VUPOM5PAZJFGDHGM2N2MXLG2WA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/27/VUPOM5PAZJFGDHGM2N2MXLG2WA/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDN2EJ3VHVH4HEEFUBBBM5O5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 중학교 앞에서 학생들이 스마트폰을 보면서 하교하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 1학기부터 초등·중·고등학교 학생들의 수업 중 휴대폰 사용을 금지하는 법안이 국회 본회의를 통과했다. ‘스마트폰 중독’으로 학력 저하, 정신 건강 문제 등이 심각해지자 학교에서만이라도 디지털 기기 사용을 못 하도록 법적으로 막은 것이다. &lt;br&gt;&lt;br&gt;국회는 27일 본회의를 열고 이 같은 내용을 담은 초·중등교육법 개정안을 통과시켰다. 개정안에 따르면 초중고 학생은 수업 중 스마트폰뿐 아니라 태블릿 PC 등 모든 디지털 기기를 사용해서는 안 된다. 교육 목적이나 긴급 상황, 특수교육 대상자에게 필요한 경우를 제외하곤 사용이 금지된다. 해당 개정안은 내년 3월 1학기부터 적용된다. &lt;br&gt;&lt;br&gt;현재 전국의 학교는 교육부가 2023년 9월 도입한 ‘생활지도 고시’에 따라 수업 중 스마트폰을 금지하고 있다. 하지만 상대적으로 구속력이 약한 행정 고시이기 때문에 상당수 학교에서 학생들의 스마트폰 사용을 제지하기 어려운 한계가 있었다. 이에 따라 아예 법으로 수업 중 디지털 기기 사용을 금지하는 규정을 마련한 것이다. 어길 경우 처벌 규정은 없다. 학교별로 학칙에 따라 어긴 학생에게는 주의, 상담 등 생활지도를 할 것으로 보인다. &lt;br&gt;&lt;br&gt;이번 개정안은 또 수업 중이 아니더라도 학교장과 교사가 학생들의 학습권 보호, 교사의 교육 활동 보장을 위해 필요한 경우에는 학생들의 스마트폰 사용과 소지를 제한할 수 있도록 했다. 제한 기준과 구체적 방식은 학교별 학칙으로 정한다. 예컨대, 스마트폰을 아예 학교에 가져올 수 없게 금지할지, 수업 전 일괄 수거해 하교 때 돌려줄지 등을 학교별로 정하라는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YQHNVUHF5NCBPMGFXIPTKADIHM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수업 중 휴대폰 사용을 법으로 제한하게 된 것은 최근 청소년들의 스마트폰 중독 문제가 매우 심각해지고 있기 때문이다. 여성가족부의 ‘2025년 청소년 미디어 이용 습관 진단 조사’에 따르면, 스마트폰 사용을 스스로 자제하지 못하는 ‘스마트폰 과의존 위험군’ 청소년(초4·중1·고1)이 21만3243명에 달하는 것으로 나타났다. 스마트폰 과의존은 스마트폰을 과도하게 이용해 일상생활에 지장이 생기는 상태를 가리킨다. 의학계에선 스마트폰 의존이 심할 경우 수면 부족과 우울, 집중력 저하 등 문제가 생길 수 있다고 경고한다. 한 중학교 교사는 “수업 중에 ‘몰폰(몰래 스마트폰을 사용함)’을 하는 학생 때문에 교사는 교권을, 다른 학생들은 학습권을 침해당하는 일이 부지기수”라고 말했다. &lt;br&gt;&lt;br&gt;해외에서도 학교 내 스마트폰 사용을 강력하게 금지하는 추세다. 미국 캘리포니아주, 텍사스주 등에서는 최근 들어 수업 중 스마트폰뿐 아니라 무선 이어폰, 스마트워치 등 디지털 기기 사용을 금지하는 ‘폰 프리(phone free)’ 법을 도입했다. 영국, 프랑스, 호주에서도 일찌감치 학교 내 스마트폰 사용을 금지하고 있다. &lt;br&gt;&lt;br&gt;청소년들의 디지털 기기 사용에 대한 사회 인식도 바뀌고 있다. 국가인권위원회는 지난 2014년 학교에서 학칙으로 학생 휴대전화를 수거하는 행위가 학생들에 대한 인권 침해라고 의견을 냈다. 하지만 10년 만인 지난해 10월엔 “학생 휴대전화 사용과 관련해 사이버 폭력 등 다양한 문제가 나타나 더는 인권 침해로 단정할 수 없다”며 입장을 바꾼 바 있다. &lt;br&gt;&lt;br&gt;이날 국회를 통과한 개정안은 국민의힘 조정훈·서명옥·이인선 의원 등이 발의한 초·중등교육법 개정안 3건을 하나로 통합한 법안이다. 조 의원은 이날 본회의 통과 후 페이스북에 올린 글에서 “이 법은 교실에서 친구들과의 대화, 작은 농담과 웃음, 아이들의 집중과 휴식 같은 가장 소중한 것을 지키자는 약속”이라며 “스마트폰을 빼앗으려는 것이 아니라, 아이들의 시간과 삶을 돌려주려는 것”이라고 취지를 설명했다. 이어 “학교라는 공간만큼은 알고리즘의 유혹과 과몰입의 파도에서 아이들을 잠시 떼어 놓자는 것”이라면서 “아이들이 친구들, 그리고 선생님과 쌓는 시간으로 성장할 수 있도록 최소한의 질서를 세우는 일. 지금은 학생들이 조금 실망하더라도, 사회가 해야만 하는 책임이라고 믿는다”고 밝혔다.&lt;br&gt;&lt;br&gt;교사 단체도 환영하는 입장문을 냈다. 한국교총은 이날 성명을 내고 “그간 잘못된 휴대전화·스마트 기기 사용으로 인해 학생들의 스마트폰 과의존성과 중독성, 학습 저하, 여타 학생들의 수업권과 교사의 교권 침해가 심각했다는 점에서 이를 개선하는 전환점이 되길 기대한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>13시간 특검 조사 받은 권성동 “통일교에 全大 도와달라고 한 적 없다”</title>
