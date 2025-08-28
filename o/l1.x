@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>대한상사중재원·대구교통공사, '도시철도 분쟁 해결' 협약</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/210964.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;신현윤 원장(왼쪽에서 세 번째)과 김기혁 사장(네 번째) 등 협약식 참석자들. 《사진=대한상사중재원 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한상사중재원(원장 신현윤)과 대구교통공사(사장 김기혁)가 분쟁 해결을 위한 협력에 나섰다.&lt;br /&gt;&lt;br /&gt;양 기관은 8월 28일 서울 강남구 삼성동 중재원 제1심리실에서 업무협약을 체결했다. 이번 협약은 대구 지역 도시철도 건설과 운영 과정에서 발생할 수 있는 분쟁을 효율적으로 해결하기 위해 마련됐다. 이날 중재제도를 활성화하기 위한 상호 협력체계 구축도 논의됐다.&lt;br /&gt;&lt;br /&gt;양 기관은 앞으로 △합동 홍보사업과 교육프로그램 운영 △중재제도 안내 자료의 작성·배포 △관련 전문가 양성 등 다양한 분야에서 실질적인 협력을 이어갈 계획이다.&lt;br /&gt;&lt;br /&gt;신현윤 중재원 원장은 “지하철 건설과 운영은 수많은 협력사와 갈등이 얽히고, 복잡한 쟁점이 수반되는 경우가 많다”며 “이런 갈등을 효율적으로 해결하기 위해서는 중재제도의 적극적 활용이 필수적”이라고 말했다.</description>
+			<pubDate>Thu, 28 Aug 2025 11:45:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210964</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210964</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210964.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희특검, 권성동 의원 구속영장 청구..."정치자금법 위반 혐의"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210963.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;통일교 청탁 의혹을 받는 국민의힘 권성동 의원이 27일 서울 종로구 KT광화문빌딩에 마련된 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀 사무실에 피의자 신분으로 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3937"&gt;권성동&amp;nbsp;&lt;/span&gt;국민의힘 의원에 대해 구속영장을 청구했다. 현역 의원에 구속영장을 청구한 것은 3대 특검팀 가운데 처음이다. &lt;br /&gt;&lt;br /&gt;특검팀은 28일 언론 공지를 통해 "오늘 오후 권성동 의원을 정치자금법 위반 혐의로 구속영장을 청구했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;권 의원은 대선을 앞둔 2022년 1월 5일 윤영호 전 통일교 세계본부장으로부터 불법 정치자금 1억 원을 수수한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;특검팀은 전날인 27일 권 의원에 대해 13시간가량 강도 높은 조사를 진행했다. 권 의원은 조사에서 진술거부권을 행사하지 않고, 혐의를 대부분 부인했다고 한다. &lt;br /&gt;&lt;br /&gt;권 의원은 특검 조사에 출석하기 전 취재진에 "여러 번 밝힌 바와 같이 통일교 관계자로부터 어떠한 금품을 수수한 바가 없다"라고 말했다. &lt;br /&gt;&lt;br /&gt;권 의원은 현직 국회의원 신분으로, 구속을 위해선 국회의 체포동의안이 필요하다. 현직 국회의원은 회기 중 국회 동의 없이 체포·구금되지 않는 불체포특권을 가진다. &lt;br /&gt;&lt;br /&gt;국회법상 관할법원 판사는 영장 발부 전 체포동의 요구서를 정부에 제출하고, 정부는 국회에 체포 동의를 요청한다. 국회는 체포동의안이 보고되면 24시간 이후 72시간 이내 표결해야 한다. 동의안 가결 조건은 재적의원 과반 출석, 출석의원 과반 찬성이다.</description>
+			<pubDate>Thu, 28 Aug 2025 11:44:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210963</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210963</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210963.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희특검, 이배용 국가교육위원장 자택 압수수색..."귀금속 수수 의혹"</title>
 			<description>김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희특검)이 이배용 국가교육위원장에 대한 강제수사에 나섰다. &lt;br /&gt;&lt;br /&gt;28일 특검팀은 언론 공지를 통해 "이날 '김건희 씨의 귀금속 수수 의혹 사건'과 관련해 이 위원장 주거지에 대한 압수수색을 실시했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 김 여사 일가의 부동산 특혜 의혹과 관련해 압수수색을 벌이는 과정에서, 이 위원장이 김 여사 측에 귀금속을 건넨 정황을 포착한 것으로 알려졌다. &lt;br /&gt;&lt;br /&gt;특검팀은 이 위원장이 국가교육위원장직을 대가로 윤 전 대통령 부부에 귀금속을 건넨 것인지 의심하고 있다. 윤 전 대통령은 2022년 9월 이 위원장을 초대 국가교육위원장으로 임명했다.</description>
 			<pubDate>Thu, 28 Aug 2025 08:53:10 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210904</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210904.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>추미애 법사위원장 "지귀연, 룸살롱서 650만원 형사처벌 대상…인사조치 해야"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210902.jpg" alt="456478.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;추미애 더불어민주당 의원 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회 법제사법위원장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&lt;/span&gt;(67·사법연수원 14기) 더불어민주당 의원이 27일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;서울중앙지법 부장판사에 대해 대법원의 신속한 인사 조치를 촉구했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;의원은 이날 자신의 페이스북을 통해 '지귀연에 대한 인사 조치 지연 개탄'이라는 제목의 글을 올리면서 "자판기 커피 몇 잔, 단 800원 때문에 해고된 버스 기사가 있는가 하면 650만원의 향응을 받아도 아무 문제 없는 판사가 있다"며 "지금이라도 대법원은 지귀연에 대한 신속한 인사 조치로 최소한의 책임을 보여야 한다"고 지적했다. &lt;br /&gt;&lt;br /&gt;이어 그는 "대마불사(大馬不死)는 대형경제 사범 대기업 총수를 관대하게 처분하고 방면할 때 사법부가 대기업 경영자는 국가 경제에 미치는 영향력이 커 아무리 잘못이 크더라도 내보내는 것이 낫다는 사법 자제의 논리"라며 "사법부가 지 판사가 내란수괴 등 중죄인 재판을 담당하는데 이제 와서 쉽게 바꿀 수 없다는 식이라면 큰 사건을 맡은 판사는 잘못도 눈감아 준다는 대마불사론을 셀프 응용하고 있는 것"이라고 꼬집었다.&lt;br /&gt;&lt;br /&gt;또한 "명백한 증거가 있음에도 법원은 제 식구 감싸기에 급급한 듯 5개월째 침묵으로 일관하고 지귀연은 여전히&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;내란수괴 재판을 담당하고 있다"며 "법을 수호해야 할 대법원과 윤리 감찰관실의 처신이 양심 있는 개인의 행동보다 더 정의에 동떨어져 있다"고 비판했다.&lt;br /&gt;&lt;br /&gt;한편&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사는 현재&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령의 내란수괴·직권남용 혐의 재판을 맡고 있으며 지난 3월 구속 취소 결정을 내려 논란을 불러일으킨 바 있다. 이후 그에 대한 룸살롱 접대 의혹이 제기되기도 했다.</description>
-			<pubDate>Wed, 27 Aug 2025 11:24:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210902</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210902</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210902.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>민주당, 정성호 '검찰개혁안' 이견에 "법무부 장관 개인 의견"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210900.jpg" alt="5645647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;27일 서울 여의도 국회에서 더불어민주당 민형배 의원 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당은 8월 27일 검찰개혁안의 일부 내용에 대해&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&lt;/span&gt;(63·사법연수원 18기) 법무부 장관이 이견을 표하자 "지도부는 '장관께서 좀 너무 나가신 것 아닌가'란 생각을 갖고 있다"고 선을 그었다. 검찰 개편을 둘러싼 당정 간 미묘한 온도차가 드러난 셈이다.&lt;br /&gt;&lt;br /&gt;민주당 검찰개혁 특위 위원장인 민형배 민주당 의원은 이날 국회에서 기자들과 만나 정 장관이 '검찰 보완수사권 전면 폐지'를 재논의해야 한다는 입장을 밝힌 것과 관련해 "당 지도부는 장관께서 좀 너무 나가신 것 아닌가 하는 생각"이라고 말했다.&lt;br /&gt;&lt;br /&gt;민 의원은 "특위안에는 그런 내용이 없고, 당정에서 합의됐거나 의논해서 한 건 아니다"라며 "법무부 장관이 개인적 의견을 말씀한 것 같다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;정 장관이 행정안전부 산하에 중대범죄수사청(중수청)을 설치하는 방안에 우려를 표시한 데 대해서도 민 의원은 "당에서 입장을 안 냈는데 그렇게 말씀하신 것에 대해서 장관 본분에 충실한 건가 이런 우려가 좀 있다"고 지적했다. &lt;br /&gt;&lt;br /&gt;앞서 정 장관은 지난 25일 예산산특별위원회 종합정책질의에서 민주당의 검찰개혁안 대로 검찰청 폐지 이후 수사를 담당하는 중대범죄수사청이 행정안전부 산하에 신설되면 행안부에 권한이 비대화 될 수 있다는 취지로 우려를 표한 바 있다. &lt;br /&gt;&lt;br /&gt;민 의원은 '국가수사위원회(국수위)의 설치 문제를 놓고도 정 장관과 이견이 있는 것 같다'는 지적에 "그것을 반영해야 할 이유는 없다. 당정대가 협의하는 과정이 있다면 거기서 그런 안이 제기될 수는 있다"면서도 "사실 당 지도부에선 정 장관이 그렇게 말씀한신 데 대해 '장관 본분에 충실한 것인가'란 우려가 있는 것 같다"고 말했다.&lt;br /&gt;&lt;br /&gt;민 의원은 또한 검찰개혁안 준비 정도에 대해선 "대략적인 초안은 지금 마무리 단계에 와 있다"고 답했다.&lt;br /&gt;&lt;br /&gt;특위 간사인 이용우 민주당 의원은 "오는 25일로 예정된 국회 본회의에서 검찰청을 폐지하는 부분은 당정대 간에 이견없이 차질없이 추진될 것"이라며 "정부조직법 개정안이 처리되는 부분에 있어서는 지금까지 전혀 차질없이 당정대가 같은 입장을 갖고 있다고 이해해주시면 될 것 같다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;한편 '검찰개혁 4법'을 발의한 김용민 민주당 의원 역시 이날 본인의 페이스북을 통해 "바꾼다고 모든 것이 개혁은 아니다"라며 "개혁을 왜 하려고 하는지 출발점을 잊으면 안 된다"고 말했다.</description>
-			<pubDate>Wed, 27 Aug 2025 11:21:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/210900</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210900</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210900.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
