@@ -13,6 +13,50 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>헤어진 연인 성폭행한 대학교수 구속기소</title>
+      <link>https://www.chosun.com/national/incident/2025/08/28/NRYHF6BNRZEA7PJQEBZVQF54WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/28/NRYHF6BNRZEA7PJQEBZVQF54WU/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 13:01:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LENYLGKXBRPRDKHEMNRS3626GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 지역의 한 대학교수가 헤어진 연인을 성폭행한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;28일 법조계에 따르면 광주지검은 최근 주거침입강간 혐의로 50대 남성 A씨를 구속 기소했다. A씨는 지난 4월부터 약 2개월 동안 연인 관계였던 B씨의 집에 수차례 침입해 B씨를 성폭행한 혐의로 기소됐다. A씨는 이별을 통보한 B씨가 만나주지 않자 이 같은 범행을 저지른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 A씨가 성폭행 상황을 불법 촬영한 것으로 보고 여죄를 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>女선수가 복근 사진 올렸다고 중징계 요청 민원 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/6G5CA7UAG5ECXIXO3IQCPXJKRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/6G5CA7UAG5ECXIXO3IQCPXJKRA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 12:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUXVLLYD7JE2JERLUEQVTSI6Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문제가 된 박수민 선수의 사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자 역도 선수가 자신의 소셜미디어에 복근을 찍은 사진을 올렸다가 중징계를 요구하는 민원을 받은 사실이 알려져 논란이 일고 있다. &lt;br&gt;&lt;br&gt;26일 포천시청 소속 역도 선수 박수민은 소셜미디어를 통해 자신에 대한 민원이 접수된 사실을 알리며 “시청 소속이라도 말로만 공무원이고, 우린 그냥 시청 소속 직장운동부다. 공무원 취급도 못 받는다. (시에서는) 신경도 안 쓴다”고 했다. &lt;br&gt;&lt;br&gt;이어 민원인을 향해 “너희가 뭔 상관이냐. 사진 하나하나 캡처해서 민원 넣는 거 보면 부지런도 하다”라고 했다.&lt;br&gt;&lt;br&gt;박수민이 공개한 민원 내용에 따르면 민원인은 박수민의 소셜미디어 사진을 첨부한 뒤 “첨부 파일에 나오는 선수가 귀 시청 소속 선수인가?”라며 “인스타그램에 속옷을 입은 사진을 올리는데, 시청 이미지가 손상된다. 이런 사람과 굳이 계약하는 이유가 무엇인지 궁금하다. 당장 중징계 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;민원인은 박수민이 거울 앞에서 복근을 드러낸 채 찍은 사진을 문제 삼았다. &lt;br&gt;&lt;br&gt;포천시청 직장운동경기부 설치 및 운영 조례 시행규칙 등에 따르면 시청 산하 직장운동경기부 선수는 품위 유지 의무를 준수해야 하고, 이를 위반하면 파면·해임·정직·감봉 등 징계 처분을 받을 수 있다. &lt;br&gt;&lt;br&gt;다만 복근을 찍은 사진을 개인 소셜미디어에 게재한 것이 ‘품위 유지 의무’를 위반한 것이라고 보긴 어렵다는 평가가 나온다. &lt;br&gt;&lt;br&gt;해당 사연은 소셜미디어와 온라인 커뮤니티 등에서 화제가 됐고, 이를 다룬 일부 게시물은 수십만 회의 조회 수를 기록했다.&lt;br&gt;&lt;br&gt;사연을 접한 네티즌들은 “별걸 다 가지고 시비를 건다” “노출이 심한 사진도 아닌데 저 정도도 문제가 되나?” “저런 민원은 무시해야 한다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SZYY73IAQFFT7MCNPBY2GUZUGU.jpg?auth=4c202e53bf4b28626d588eaf36cf560eb82532c3db42d4d1a0be2c7062a3d988&amp;smart=true&amp;width=768&amp;height=432" type="image/jpeg" height="432" width="768">
+        <media:description type="plain">문제가 된 박수민 선수의 사진. /온라인 커뮤니티</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘통혁당 재건 사건’ 故 김태열, 사형 집행 43년 만에 재심 무죄</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/EGYNBG6NCFGDLGIDWPWCCQMD44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/EGYNBG6NCFGDLGIDWPWCCQMD44/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 11:12:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE4DERIKXJLA3EHFVRBKZTBMOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박정희 정권 당시 ‘통일혁명당(통혁당) 재건 사건’에 연루돼 사형을 선고받은 고(故) 김태열씨가 재심에서 무죄 판결을 받았다. 1982년 사형이 집행된 지 43년 만이다.&lt;br&gt;&lt;br&gt;서울고법 형사5부(재판장 권순형)는 김씨의 국가보안법·반공법 위반 혐의 사건 재심에서 28일 무죄를 선고했다. 재판부는 당시 육군 보안사령부 수사관들이 구속영장 없이 김씨를 강제 연행해 감금한 뒤 가혹행위를 했다고 판단하고 “억울한 고초를 겪고 힘든 세월을 겪어 온 피고인과 가족들에게 사과와 위로의 뜻을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;통혁당 사건은 1968년 8월 중앙정보부가 “북한 지령을 받은 인사들이 통혁당을 결성해 반정부·반국가단체 활동을 했다”고 발표한 대규모 간첩단 사건이다. 이후 통혁당은 와해됐지만 1974년 11월 보안사는 김씨 등이 북한 지령으로 통혁당을 재건하려 했다는 내용의 ‘통혁당 재건 사건’을 발표했다. 17명이 국가보안법 등 혐의로 유죄 판결을 받았고, 그 가운데 김씨 등 4명은 사형을 선고받았다.&lt;br&gt;&lt;br&gt;김씨 유족은 2023년 10월 서울고법에 재심을 청구했고 고법이 이를 받아들이면서 재심이 열렸다. 이날 재판부는 김씨가 당시 법정에서 간첩 혐의를 자백한 진술에 대해 “당시 보안사 수사관들이 재판을 주시하고 있고 김씨가 혼자만 진술을 번복하더라도 실익 없이 보안사에 끌려가 가혹행위를 당할 것이란 두려움을 갖고 있었던 것으로 보인다”며 “혼자만 종전 진술을 번복해 사형 같은 중형을 선고받기보다 허위로 자백하면서 반성하는 듯한 모습을 보여 어떻게든 중형을 피하고자 했을 가능성도 있어보인다”고 했다.&lt;br&gt;&lt;br&gt;한편 통혁당 재건 사건은 재심에서 여러 차례 무죄 확정 판결이 나왔다. 김씨와 함께 사형 선고를 받았다가 1991년 가석방된 고 박기래씨는 2023년 5월 대법원에서 무죄를 확정 받았고, 간첩단 사건의 우두머리로 지목돼 사형 선고를 받고 16년간 옥살이했던 고 진두현씨와 징역 10년형이 확정됐던 고 박석주씨도 지난 5월 대법원에서 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>당근 7t ‘와르르’… 아수라장된 고속도로</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/XU5LQHTEMRDQPFHN7Y3WMGPLIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/XU5LQHTEMRDQPFHN7Y3WMGPLIU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 11:31:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKPN7HLNEWZWYM7FS2PDTQCXBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 충북 괴산군 연풍면 중부내륙고속도로 양평방향 연풍ic 인근에서 화물차가 중앙분리대를 들이받아 화물칸에 실려있던 당근이 도로에 쏟아져있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로를 달리던 화물차가 중앙분리대를 들이받아 당근 7t가량이 도로로 쏟아지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;28일 경찰 등에 따르면 이날 오후 3시 44분쯤 충북 괴산군 연풍리 양평 방향 중부내륙고속도로를 달리던 12t 화물차가 중앙분리대를 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 화물차에 실려 있던 7t가량의 당근이 반대편 차선으로 쏟아져 1t 트럭과 스포츠유틸리티 차량이 충돌하는 2차 사고가 발생했다. 인근을 지나던 다른 승용차 2대도 당근에 맞아 파손됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBI222XWHTZ2XBGE3U7WVMCWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 충북 괴산군 연풍면 중부내륙고속도로 양평방향 연풍IC 인근에서 화물차가 중앙분리대를 들이받아 화물칸에 실려있던 당근이 도로에 쏟아져있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화물차 운전자 40대 A씨는 가벼운 부상을 입고 인근 병원으로 이송돼 치료를 받고 있다. &lt;br&gt;&lt;br&gt;사고 수습 과정에서 창원 방향 고속도로 2차선 중 1개 차선이 통제됐다.&lt;br&gt;&lt;br&gt;경찰은 화물차 운전석 타이어가 터지면서 사고가 발생한 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MU2VG2T2LJA6RCNQ5EKWDPHSHU.JPG?auth=95a47df2028ef8ede1d36ede782490da5bab8ca6624e6873eeb62899f1f8513e&amp;smart=true&amp;width=1071&amp;height=602" type="image/jpeg" height="602" width="1071">
+        <media:description type="plain">28일 오후 3시 40분쯤 충북 괴산군 연풍면 중부내륙고속도로 양평방향 연풍ic 인근에서 A 씨(40)가 몰던 12톤 화물차가 중앙분리대를 들이받아 화물칸에 실려있던 당근이 도로에 쏟아져있다.(괴산소방서 제공. 재판매 및 DB금지)./뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>주진모, 골프 치다가 ’2700만원 롤렉스' 받은 근황</title>
       <link>https://www.chosun.com/national/people/2025/08/28/XHB3JV35VBHYXOZFTGB62WBVCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/28/XHB3JV35VBHYXOZFTGB62WBVCA/</guid>
@@ -886,33 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCZIVJPCO5H73NJB4SZQYP57I4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍순만 연세대 국가관리연구원장이 26일 오후 부산 BPEX 콘퍼런스홀에서 열린 ‘디지털 포용과 책임 있는 인공지능: 글로벌 시각과 한국의 역할’에서 패널들을 소개하고 있다./연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대는 지난 26일 부산 BPEX 콘퍼런스홀에서 한국정책학회와 공동으로 ‘디지털 포용과 책임 있는 인공지능: 글로벌 시각과 한국의 역할’을 주제로 국제 심포지엄을 개최했다. 김상부 세계은행 디지털 부총재, 윌슨 화이트 구글 글로벌 공공정책 부사장 등 학계·기업·공공부문 관계자들이 모여 포용적 디지털 전환 방안을 논의했다.&lt;br&gt;&lt;br&gt;1부 특별연설에서는 김상부 세계은행 초대 디지털 부총재와 윌슨 화이트 구글 글로벌 공공정책 부사장이 연사로 나서 각각 국제기구와 글로벌 기업의 관점에서 디지털 포용에 대해 논의했다. 김 부총재는 “전 세계 인구 중 약 31억 명이 여전히 인터넷을 사용하지 못하고 있다”며 디지털 격차를 해소하는 것이 모두를 위한 포용적 디지털 전환을 실현하는 핵심 과제”라고 강조했다. 화이트 부사장은 “인공지능의 혜택이 모두에게 전달되기 위해서는 교육·인프라·협력을 통해 디지털 격차를 해소해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;2부 전문가 패널 토론에서는 홍순만 연세대 국가관리연구원장의 사회로 최문실 한국지능정보사회진흥원 디지털포용본부장, 정준화 국회입법조사처 입법조사관, 조정호 엔씨소프트서비스 대표, 홍승헌 한국행정연구원 연구위원, 문병걸 연세대 행정학과 교수가 참여해 디지털 격차 해소와 인공지능 생태계 조성을 위한 각계의 역할을 밝혔다. &lt;br&gt;&lt;br&gt;이번 행사는 연세대 국가관리연구원과 행정학과 BK21 교육연구단이 한국정책학회와 함께 주최하고, 한국지능정보사회진흥원(NIA)이 후원했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“산후조리원서 아기 바뀌어”...모유 수유까지 다른 사람이</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/27/ZFB24JKHBVFU7EVV2OFKEQWK3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/ZFB24JKHBVFU7EVV2OFKEQWK3U/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 08:30:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2ZOE32LNZHEZJWASXEMMRROFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신생아가 엄마 손을 잡고 있다. 해당 사진은 기사와 관련 없음./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;산후조리원에 입소한 지 이틀 만에 아기가 다른 산모에게 잘못 전달돼 모유 수유까지 받는 사건이 벌어졌다. 해당 조리원 측은 “당사자에게 죄송스러운 마음”이라며 “전액 환불 처리했고, 재발 방지를 위해 산모와 신생아 이중 체크 강화는 물론, 신생아에게 발찌를 부착하기로 했다”고 밝혔다. &lt;br&gt;&lt;br&gt;지난 25일 유튜브 채널 ‘누히’에는 “조리원에서 겪은 믿기 힘든 일, 제 아기가 바뀌었어요”라는 제목의 영상이 올라왔다.&lt;br&gt;&lt;br&gt;누히는 “입소 이틀 만에 황당한 일을 겪었다”며 “아기를 낳은 지 고작 6일 만에 조리원 수유실에서 아기가 바뀌는 일이 있었다“고 말했다. 이어 “아기가 바뀐 것도 모자라서 ‘사과’(아기)가 다른 엄마의 모유를 먹고 있는 장면을 제가 보게 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;당시 입소 이틀째였던 산모 누히는 수유실에서 아이를 기다리던 중 조리원 관계자로부터 “OO이 어머님”이라는 잘못된 호명을 들었다. 누히가 “저는 사과 엄마다”라고 정정하자, 담당자는 신생아실로 들어갔지만 ‘사과’는 보이지 않았다. 잠시 뒤 신생아실이 술렁였고, 결국 다른 산모의 품에 안겨 모유 수유를 받고 있던 아기가 바로 ‘사과’였던 사실이 드러났다.&lt;br&gt;&lt;br&gt;누히에 따르면 선생님이 “아기 확인할게요” 하고 아기를 데려갔다가 ‘아기 괜찮네요’ 하며 다시 딸기 어머니께 안겨드렸는데, 뒷모습이 달랐다. 그 뒤에야 제게 사과가 안겨졌다”고 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;그러나 당황한 누히가 즉시 신생아실에 확인을 요청하자, 관계자는 “절대 그런 일 없다”고 부인했고, 재차 요구하자 “아닌 것 같다” “내일 오전에 연락드리겠다”는 말만 반복했다고 누히는 전했다. 결국 누히가 직접 신생아실을 찾아 다른 부모와 4자 대면을 한 끝에 아기가 뒤바뀌었던 사실이 확인됐다.&lt;br&gt;&lt;br&gt;누히는 “제가 가기 전 이미 조리원 측이 상대 부모에게 찾아가 울며불며 사과했다고 하더라. 그런데 저한테는 끝까지 ‘그런 일 없다’고 거짓말을 한 게 더 화가 났다”고 했다. 뒤늦게 원장과 대리인, 상대 부모가 참석한 자리에서야 정식으로 사과를 받고 조리원을 조기 퇴소했다.&lt;br&gt;&lt;br&gt;이와 관련해 해당 조리원 측은 27일 조선닷컴에 “수유실에서 아이를 전달받는 과정에서 소통 오류가 있었다. 당사자들에게는 전액 환불 처리해드렸다”며 “당시 바로 사과드렸어야 했는데 이런 상황이 처음이라 우왕좌왕했다. 죄송스러울 뿐”이라고 했다. 이어 “해당 사건 이후 신생아와 산모 이름을 따로 이중 체크를 강화했으며, 아기들에게 발찌 부착을 하기로 했다”고 설명했다. &lt;br&gt;&lt;br&gt;해당 영상은 27일 오후 기준 조회수 51만회를 넘었다. “아기 이름표가 빠져 있었던 적이 있다” “얼굴이 달라 이상해서 확인했더니 다른 아기였다”는 등 유사한 경험담도 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용산구에 ‘안전관리상’ 수여한 서울시 뒤늦게 “취소”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/27/SG36WLH7BNBLTEV3QXBEGBCAHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/27/SG36WLH7BNBLTEV3QXBEGBCAHA/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 08:52:31 +0000</pubDate>
-      <content:encoded>서울 용산구에 ‘지역축제 안전관리 우수사례’ 상을 준 서울시가 27일 이를 취소했다. 10·29 이태원 참사 유가족들의 반발에 따른 것이다.&lt;br&gt;&lt;br&gt;서울시는 “아직 이태원 참사 피해자들의 아픔이 아물지 않은 상황에서 용산구에서 보도자료를 배포하는 등 필요 이상의 과도한 홍보를 한 것에 대해 유감스럽게 생각한다”며 “용산구 ‘대상’ 수상을 취소했다”고 밝혔다. &lt;br&gt;&lt;br&gt;서울시는 “오세훈 시장이 ‘유족의 고통과 아픔을 헤아리지 못한, 너무도 상식밖의 일이었다’며 관계자들을 질책했다”며 “즉시 경위를 설명, 사과하고 다시는 이런 일이 재발되지 않도록 하라고 지시했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 22일 서울시는 ‘2025년 지역축제 안전관리 우수사례 경진대회’에서 용산구에 대상을 수여했다. 이에 용산구는 보도자료를 내고 ‘용산이 함께하는 핼러윈 대비 다중운집 인파 안전관리’를 주제로 발표를 진행했으며, 지난해 핼러윈 기간 이태원 일대에서 추진한 종합 안전대책이 높은 평가를 받았다고 홍보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BEYPQTCPN6MZAATLNQVJZ26HNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰관들이 서울 용산구 이태원 일대에서 인파 관리를 위해 순찰을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 10·29 이태원참사 유가족협의회·시민대책회의는 성명을 내고 “오세훈 시장은 부적절한 시상에 대해 공개 사과하고 용산구청의 수상을 취소하라”고 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>14명 숨진 오송 지하차도 참사... “국정조사 한다”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/08/27/7CI5S4SYA5DDNNLBYFUXRVBKLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/08/27/7CI5S4SYA5DDNNLBYFUXRVBKLY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 08:53:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56FTRAU5MRPEFKS43UGC7QHYNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 서울 여의도 국회에서 열린 제428회국회(임시회) 제3차 본회의에서 오송 지하차도 참사 진상규명과 재발방지 대책마련을 위한 국정조사계획서 승인의 건이 통과되자 유가족들이 감사인사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14명이 숨진 ‘청주 오송 지하차도 참사’에 대한 국회의 국정조사가 진행된다. &lt;br&gt;&lt;br&gt;국회는 27일 본회의를 열어 ‘오송 참사 진상 규명과 재발 방지 대책 마련을 위한 국정조사 요구안’을 의결했다. &lt;br&gt;&lt;br&gt;이번 국정조사는 참사 발생 원인과 전후 대처 등 참사 전반에 대한 철저한 진상조사를 통해 책임 소재를 명백히 규명하고 재발 방지 대책 마련을 위해 실시된다.&lt;br&gt;&lt;br&gt;국정조사는 이날부터 다음 달 25일까지 30일간 진행된다. 기간은 본회의 의결을 통해 연장할 수 있다. &lt;br&gt;&lt;br&gt;조사 대상 기관은 국무조정실, 행정안전부, 국토교통부, 행정중심복합도시건설청, 충북도, 청주시, 대검찰청, 청주지검, 경찰청, 충북경찰청, 청주흥덕경찰서, 소방청, 금호건설 등이다. &lt;br&gt;&lt;br&gt;오송 참사 유가족협의회와 오송 참사생존자협의회, 오송 참사 시민대책위원회는 이날 성명을 통해 “국회가 진상규명의 길을 연 역사적인 결정을 했다”며 환영했다. &lt;br&gt;&lt;br&gt;이들은 “철저한 진상규명과 재발 방지의 장이 되기를 바란다”며 “희생자들의 억울함을 풀며 안전한 사회를 만드는 길에 끝까지 함께 할 것”이라고 말했다. &lt;br&gt;&lt;br&gt;김영환 충북지사는 입장문을 통해 “국정조사 취지와 오송 참사 유가족의 뜻을 존중해 국정조사에 성실하게 임하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;오송 참사는 2023년 7월 15일 오전 8시 40분쯤 청주시 흥덕구 오송읍 궁평2지하차도에서 발생했다. 폭우로 인근 미호강 제방이 터져 하천수가 유입돼 차량 17대가 침수됐고 14명이 숨졌다. &lt;br&gt;&lt;br&gt;검찰은 오송 참사와 관련해 이범석 청주시장 등 45명을 기소해 4명이 실형을 선고받았고 나머지는 재판이 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 한덕수 구속 심사 종료...3시간 40분 만</title>
       <link>https://www.chosun.com/national/court_law/2025/08/27/PY24ULWNWZERZHIUNKHLQOHIOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/PY24ULWNWZERZHIUNKHLQOHIOA/</guid>
@@ -967,15 +984,6 @@
         <media:description type="plain">부산시교육청 전경 ⓒ News1 윤일지 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">KIM YOUNG HOON</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘금융 분야 전문’ 양석조 전 검사장...법률사무소 개업</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/KQCSFUIO6RDSVGZ3ODLGEP46QE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/KQCSFUIO6RDSVGZ3ODLGEP46QE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 03:13:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVHMGBEK3RNDBCKAKTVG4HF3UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;양석조 전 서울동부지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양석조(52·사법연수원 29기) 전 서울동부지검장이 9월 초 서초동에 변호사 사무실을 연다. &lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 양 전 지검장은 최근 서울 서초구 서초동 양진빌딩에 ‘양석조 법률사무소’ 사무실을 마련하고 개업을 준비 중이다. 양 전 지검장은 지난달 1일 검찰에서 사직한 뒤 최근 서울지방변호사회에 변호사 개업을 신고했다.&lt;br&gt;&lt;br&gt;양 전 지검장은 제주 출신으로 오현고를 수석졸업하고 한양대 법대를 졸업했다. 2003년 서울지검 동부지청 검사로 임관해 대검찰청 사이버수사과장, 서울중앙지검 특수 3부장, 대검 반부패강력부 선임연구관, 서울남부지검장, 대검 반부패부장, 서울동부지검장 등을 거쳤다. 특히 금융위원회 파견근무 등 금융·조세·사이버수사 분야에 탁월한 것으로 알려져 있다. 첨단·과학수사 분야 2급 공인전문검사(블루벨트) 자격도 보유하고 있다.&lt;br&gt;&lt;br&gt;그는 2011년 이명박 정부 시절 천신일 세중나모 회장을 알선수재 등 혐의로 구속기소했다. 2016~2017년에는 박근혜 정부 국정농단 사건 특검 수사에 참여하기도 했다.&lt;br&gt;&lt;br&gt;한편, 검사장 등 검찰 고위간부가 퇴직해 변호사 개업을 한 경우 퇴직 전 1년간 근무했던 기관의 사건을 3년 동안 수임할 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
