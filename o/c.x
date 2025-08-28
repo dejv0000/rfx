@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 유승준 ‘비자 발급’ 세 번째 소송 1심 승소</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/JMXCWQMLQBGP5LCQNMWLGBZHJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/JMXCWQMLQBGP5LCQNMWLGBZHJQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 05:11:10 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘선거법 위반’ 민주당 이병진 의원, 2심서도 당선무효형</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/22GOUMAEOZBAFFJIV4SJY5QSVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/22GOUMAEOZBAFFJIV4SJY5QSVA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 05:08:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN2H4CKW54KUYI4ATGJ2OFIITY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이병진 더불어민주당 의원이 지난 4월 2일 오후 서울 여의도 국회에서 열린 비상의원총회에 참석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 4월 총선에서 재산 중 일부를 누락해 신고한 혐의 등으로 기소된 이병진 더불어민주당 의원(경기 평택을)이 2심서도 당선무효형을 선고받았다. &lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 28일 이 의원의 공직선거법 위반 및 부동산 실명제 위반 혐의 2심 선고공판서 항소를 기각하고 원심 판결을 유지했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 공직선거법 위반 혐의에 대해 벌금 700만원을 선고했다. 부동산 실명제 위반 혐의로는 벌금 500만원을 선고했다. 선거법 사건에서 벌금 100만원 이상의 형을 받고 대법원에서 확정되면, 의원직을 잃게 된다.&lt;br&gt;&lt;br&gt;이 의원은 총선을 앞두고 선거관리위원회에 후보자 재산 신고를 하는 과정에서 충남 아산시 영인면에 있는 6600㎡ 땅을 담보로 하는 채권(5억5000만원)과 사실상 자신이 소유한 타인 명의의 주식 계좌 등을 누락한 혐의 등으로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;이 의원은 또 사실상 자신이 소유한 땅을 지인인 김모씨의 명의로 등기해 부동산 실명제를 위반한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>총책 ‘마동석’이 이끌던 캄보디아 거점 보이스피싱 조직원, 1심서 징역 4년</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/SH2DMM3OPFDIJFO7E577OP3OAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/SH2DMM3OPFDIJFO7E577OP3OAU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 05:06:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEWIRE2XMTKUC7PV43CESCBD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 본거지를 두고 수억 원의 돈을 뜯어낸 보이스피싱 조직원들이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;28일 서울동부지법 형사12부(재판장 이정형)는 범죄단체 가입·활동, 범죄단체 가입 교사 등 혐의로 각각 구속 기소된 신모씨와 나모씨에게 징역 4년과 징역 1년 6개월을 선고했다. 이들은 캄보디아에 거점을 둔 보이스피싱 조직에서 활동한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들이 속한 ‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 가로챈 것으로 조사됐다. 조직은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 성매매 업소 실장을 사칭하는 ‘로맨스팀’ 등 범죄 수법에 따라 7개의 팀으로 나뉘어 운영됐다. 캄보디아에서 활동하던 조직원들은 비자 연장 등 문제로 잠시 한국에 들어왔다가 검거됐으며, 대부분 2030 MZ세대다.&lt;br&gt;&lt;br&gt;재판부는 “불특정 다수의 피해자를 상대로 조직적 사기를 벌인 단체에 가입해 활동하거나 이를 교사한 피고인들의 죄책이 매우 무겁다”며 “피고인들이 범행을 모두 인정한 점, 수사기관에 적극 협조한 점 등을 고려해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“비와서 우산으로 덮어준 것”...광복절날 소녀상에 비닐 씌운 50대, 내사 종결</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/2VCLSJIGCBHD7M3YM5LMQVE6OY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/2VCLSJIGCBHD7M3YM5LMQVE6OY/</guid>
+      <dc:creator>안산=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 05:05:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCCAQLIR3JCTNMTT5JWIL6C5JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안산 상록수역 '평화의 소녀상'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절날 평화의 소녀상에 비닐을 씌운 50대가 형사 처벌을 면하게 됐다. &lt;br&gt;&lt;br&gt;경기 안산상록경찰서는 모욕 혐의를 받아온 A씨에 대해 입건 전 조사(내사) 종결할 계획이라고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 광복 80주년이었던 지난 15일 오후 11시 46분쯤 안산시 상록구 상록수역 앞에 설치된 평화의 소녀상 얼굴과 상반신을 우산 비닐로 씌운 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이날 비가 내리던 중이었는데, A씨는 소녀상 주변에 우산대가 없는 상태로 버려진 우산 비닐로 소녀상을 덮고 5분여간 큰절을 했다. 그는 “소녀상이 비를 맞지 말라고 비닐을 덮어준 것”이라며 “평소에도 소녀상에 경의를 표해왔다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사건 전후 CCTV 영상을 확인한 뒤 A씨의 진술이 사실이라고 봤고, 모욕죄를 적용할 수 없다고 결론 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>드라마 촬영 후 제주 숲에 쓰레기 한가득… 민폐 논란에 제작사 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/28/SJGJHWRSIVDDBBZDSTO7XALF5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/SJGJHWRSIVDDBBZDSTO7XALF5Q/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 04:56:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQURENYJKRHSBP3FW65FQV772I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 촬영 후 숲에 쓰레기가 방치된 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 수지와 김선호가 주연으로 출연하는 디즈니+ 시리즈 ‘현혹’ 촬영팀이 제주도에서 촬영을 마친 뒤 숲에 쓰레기를 무단 투기해 논란이 일었다. 결국 제작진은 “촬영이 늦게 끝나 어둡다 보니 꼼꼼하게 현장 마무리를 하지 못했다”며 사과했다. &lt;br&gt;&lt;br&gt;28일 네티즌 A씨는 자신의 소셜미디어 계정에 특정 드라마 촬영팀이 촬영 후 쓰레기를 제주도의 한 숲에 그대로 버리고 갔다며 관련 영상을 공개했다. &lt;br&gt;&lt;br&gt;이를 보면, 숲에 각종 쓰레기가 한가득 버려진 상태다. 페트병, 비닐, 일회용 컵은 물론 부탄가스와 목장갑 등도 눈에 띄었다. &lt;br&gt;&lt;br&gt;이후 이 글은 캡처돼 다른 온라인에 확산했다. 처음 쓰레기 무단 투기를 고발한 A씨는 드라마 이름을 공개하진 않았으나, 이후 커피 홀더 속 배우 얼굴 등을 토대로 디즈니+ ‘현혹’ 제작진으로 특정됐다. 네티즌들은 “일반 쓰레기도 문젠데 부탄가스는 정말 위험하다” “이런 글 한두 번 보는 게 아닌데 촬영팀은 왜 기본도 안 지키는 거냐” “아무리 피곤하고 힘들어도 촬영 끝나면 원상복구하고 가야 하는 것 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;논란이 이어지자, 결국 ‘현혹’ 제작사 숏박스는 사과에 나섰다. 숏박스는 “촬영이 늦게 끝나 현장이 어두운 상황에서 꼼꼼하게 마무리를 하지 못했다”며 “상황을 인지한 즉시 촬영장 측과 유관 기관에 사과 및 양해를 구했고, 쓰레기를 즉시 수거했다. 현재는 모두 정리된 상태”라고 했다. 이어 “촬영 후 현장을 제대로 정리하지 못해 불편을 끼쳐드린 점 진심으로 사과드린다”며 “앞으로는 보다 철저히 관리해 이런 일이 재발하지 않도록 주의하겠다”고 했다.&lt;br&gt;&lt;br&gt;처음 문제를 제기한 A씨 역시 후속 댓글을 통해 “드라마 촬영 일은 24일 일요일인 듯하고, 제가 영상을 촬영한 시간은 27일 수요일”이라며 “수요일 오후 4시 이후 쓰레기는 누군가 치웠고, 다음날 아침에 확인해 보니 일부 쓰레기는 아직 주위에 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “어두웠다 해도 좀 더 신경을 썼어야…”라며 “열악한 환경에서 고생하며 창작 활동하시는 분들도 몇몇 상식 밖의 행동을 하는 사람들 때문에 함께 욕먹는 거 같아 안타깝다”고 했다. 그러면서 “배우분들 이름도 메인에 거론되어 미안하지만, 이번 일로 제작진의 재발 방지와 깊은 반성이 있었으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 드라마 제작진의 ‘민폐 논란’이 불거진 건 이번이 처음은 아니다. 2023년엔 tvN 드라마 ‘무인도의 디바’ 제작진이 제주 해변에서 촬영 소품으로 쓰인 돌 무더기를 치우지 않아 비판을 받고 원상복구에 나섰다. 또 2022년 드라마 ‘찌질의 역사’ 측은 골목 소방차 통행로를 촬영 차량으로 막아 지적을 받고 사과했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“평소 무시해서”... 베트남 女이주노동자 얼굴 발로 걷어찬 40대, 징역 1년 </title>
+      <link>https://www.chosun.com/national/court_law/2025/08/28/BMQE5TXXKBCVJIY4NSXWW7HM5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/BMQE5TXXKBCVJIY4NSXWW7HM5Q/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 28 Aug 2025 04:43:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXRA4EEDMI4XV6AZO7V2JMY3FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 국적의 여성 이주노동자의 얼굴을 발로 걷어차는 등 폭행해 다치게 한 혐의를 받는 40대 남성이 1심서 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 형사19단독 설일영 판사는 28일 상해 혐의로 기소된 A씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 19일 경기 용인시 한 업체에서 베트남 국적의 20대 여성 B씨의 얼굴과 몸 등을 주먹과 발로 마구 구타해 전치 2주의 상해를 입힌 혐의로 구속 기소됐다. A씨는 당시 달걀 포장 작업을 하던 중, B씨와 말다툼을 한 것으로 파악됐다. A씨는 평소 B씨가 자신을 무시하고 있다는 생각에 화가 나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이날 설 판사는 “피고인은 사건 당시 직장 하급자인 피해자를 상대로 매우 중한 정도의 폭력을 행사했다”며 “피해자는 외국인 노동자인데 근무지 공장 내에서 피고인으로부터 폭행을 당해 신체 상해와 심한 심적 고통을 느꼈을 것으로 보인다”고 했다. 이어 “피고인은 폭력 관련 범죄 전력이 있으며 피해자로부터 용서받지도 못했다. 다만, 범행을 인정하고 반성하고 있는 점을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>BTS 정국도 재벌 회장도 당했다…‘알뜰폰 무단개통’ 국제 해킹 조직 일당 검거, 피해액만 640억원</title>
       <link>https://www.chosun.com/national/incident/2025/08/28/2UGPZPP5DNGFTKHDCHCODCQW2A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/28/2UGPZPP5DNGFTKHDCHCODCQW2A/</guid>
@@ -837,45 +891,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZIU3DVMV6BENNLAS3XZWT7HGB4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일부 회원들이 마약 투약·유통 등 혐의로 기소된 수도권 연합 동아리의 활동 모습./서울남부지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대·고려대·연세대 등 수도권 대학생 수백명이 가입한 연합 동아리를 운영하며 집단으로 마약을 투약한 혐의로 기소된 주범이 항소심에서 감형을 받았다. &amp;nbsp;&lt;br&gt;&lt;br&gt;서울고법 형사4-3부(재판장 황진구)는 27일 마약류관리법위반 등 혐의를 받는 염모(32)씨에게 징역 1년 6개월을 선고하고 약물중독 재활 교육 프로그램 40시간 이수와 추징금 1324만원을 명령했다. 1심의 징역 3년보다 형량이 줄었다.&lt;br&gt;&lt;br&gt;염씨는 대학 연합 동아리를 만들어 회장으로 활동하며 2022년 12월부터 약 1년간 집단으로 마약을 구매·투약한 혐의로 지난해 7월 구속 기소됐다. 이 동아리에서 만난 여자친구가 다른 남성 회원과 만났다는 이유로 여러 차례 폭행해 다치게 하고(특수상해) 성관계 영상을 유포하겠다고 협박한 혐의(성폭력처벌법상 촬영물 등 협박)도 받았다.&lt;br&gt;&lt;br&gt;세 가지 혐의를 모두 인정한 1심과 달리 항소심 재판부는 마약 혐의만 유죄로 판단해 감형했다. 재판부는 특수상해와 촬영물 등 협박 혐의에 대한 검사의 공소를 기각하면서 “두 혐의는 수사 개시 경위나 범죄사실 증거 측면에서 사법경찰관이 송치한 범죄와 직접 관련성이 인정되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;염씨 측은 1심 재판에서부터 “검찰 수사권이 없어 공소를 기각해야 한다”고 주장해왔다. 검사가 수사를 개시할 수 있는 범죄로 ‘사법경찰관이 송치한 범죄와 직접 관련성이 있는 범죄’를 규정한 검찰청법을 근거로 들었다. 실제 이 사건은 염씨와 공범의 마약 투약 사건 재판을 진행하던 공판 검사가 재판을 준비하며 수상한 계좌거래 내역을 포착한 뒤 직접 수사에 나서면서 드러난 사건이다. 이 검사는 대학생 연합 동아리에서 대규모로 마약을 투약한 범행을 규명했고 염씨가 여자친구를 폭행·협박한 혐의도 밝혀냈다.&lt;br&gt;&lt;br&gt;이날 재판부는 염씨 주장을 일부 받아들이면서 “검사가 염씨의 마약 범죄 공범에게 전화해 진술을 듣고 사진을 제출받으면서 (폭행·협박) 사건을 인지한 것으로 보인다”며 “이는 선행 사건의 공판 검사가 기록을 검토하거나 증거를 추가로 수집하는 과정에서 자연스럽게 인지한 것으로 보이지 않기 때문에 검사가 따로 수사를 개시해 기소한 것은 법령 규정을 위반한 위법한 조치”라고 했다.&lt;br&gt;&lt;br&gt;이어 “설령 참고인 진술 등을 통해 혐의를 포착했다고 하더라도, 검찰청법 개정 취지에 비춰보면 수사 검사가 경찰의 1차적 수사권을 배제하고 예외적으로 수사 개시하지 않으면 안 될 특별한 사정 있었다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>길고양이에 살충제 분사, 담뱃불 고문한 20대 남성 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2025/07/20/4I5U5WUNURBCBJ7T6YE4JWSI7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/07/20/4I5U5WUNURBCBJ7T6YE4JWSI7E/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 20 Jul 2025 03:20:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2IY5UXUDRAKLNVW2ELROUAOPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군인 시절 길고양이에게 살충제를 뿌리는 등 동물을 잔혹하게 학대해 죽인 혐의로 재판에 넘겨진 20대 남성이 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사3단독 한정석 판사는 지난 9일 동물보호법 위반 혐의로 기소된 대학생 방모(22)씨에게 벌금 700만원을 선고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;방씨는 강원 원주의 한 부대에서 군인으로 복무하던 지난해 5월 25일 길고양이에게 살충제를 뿌리고, 고양이의 발을 담뱃불로 지진 혐의를 받는다. 방씨는 같은 날 갈퀴, 나무 막대기, 벽돌 등으로 고양이의 머리를 수차례 내려치기도 했다. &lt;br&gt;&lt;br&gt;방씨는 범행 3일 전에도 비슷한 방식으로 고양이를 학대한 혐의를 받는다. 고양이를 들어 올려 빙글빙글 돌린 후 땅에 내려놓고는 살충제를 분사했다고 한다. &lt;br&gt;&lt;br&gt;재판부는 “피해 고양이는 피고인과 공범들의 학대 끝에 신체가 크게 훼손된 채 죽음에 이르렀다”며 “피고인의 행동은 동물의 생명을 경시하는 것에서 비롯됐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/B2IY5UXUDRAKLNVW2ELROUAOPY.jpg?auth=69897fdf5312258d33f22308dd32dad6d9cc42aa4f67d212f5ad28276d31361c&amp;smart=true&amp;width=1800&amp;height=1012" type="image/jpeg" height="1012" width="1800">
-        <media:description type="plain">일러스트=조선디자인랩 김영재</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>아들 체벌 놓고 다투던 아내 살해한 40대... 항소심도 ‘징역 20년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/T7MXIQC46VFPLLURAI65JPRSIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/T7MXIQC46VFPLLURAI65JPRSIY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 05:11:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아들 체벌 문제로 말다툼을 하다가 아내를 살해한 40대 남성에게 1심에 이어 항소심에서도 중형이 선고됐다. &lt;br&gt;&lt;br&gt;서울고법 인천원외재판부 형사1부(재판장 정승규)는 살인 혐의로 기소된 A(49)씨에게 1심과 같은 징역 20년을 유지했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자는 피고인과 사이에서 자녀를 낳고 18년을 함께 살아온 배우자일 뿐만 아니라 피고인이 전 혼인 관계에서 낳은 두 자녀까지 따뜻하게 돌보며 양육해 온 사람”이라며 “그럼에도 피고인은 지나친 음주 습관으로 만취 시 피해자와 자녀를 수시로 폭행했다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인은 지인들이 범행을 목격했는데도 수사 단계에서 계속 범행을 부인하다가 검찰 조사 말미에야 비로소 자백하는 등 죄책이 매우 무겁고, 비난 가능성도 크다”고 했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자 유족들은 깊은 슬픔에 빠져 있고 피고인에 대한 엄벌을 탄원하고 있다”며 “우발적 범행으로 보이고, 자신의 잘못을 반성하는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2월 1일 오후 9시 30분쯤 인천시 남동구 자택 거실에서 아내 B(51)씨를 여러 차례 때리고 흉기로 찔러 살해한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 지인들과 함께한 저녁 식사 자리에서 술을 마시던 중 B씨가 아들을 체벌하는 점에 대해 문제 제기하자 말다툼을 벌였고, 다른 여성들과 함께 집 밖으로 자리를 피했다 돌아온 B씨가 다시 양육 문제를 거론하자 격분해 상을 뒤엎고 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘사기 혐의’ 부산 세계라면축제 대표, 잠적...경찰 지명수배</title>
-      <link>https://www.chosun.com/national/regional/2025/08/27/O74PCHEQSVFCDGTDJ5NWSF7AJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/O74PCHEQSVFCDGTDJ5NWSF7AJU/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 05:09:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU7MOKEUG6WMOA6AZ5UKV4JTTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산연제경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 부산에서 열린 세계라면축제 운영사 대표가 사기 혐의로 수사를 받던 중 잠적해 경찰이 수배에 나섰다.&lt;br&gt;&lt;br&gt;부산 연제경찰서는 사기 등 혐의로 수사를 받던 세계라면축제 운영사 대표 A(50대)씨에 대해 지명수배를 내렸다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 5월 부산 기장군에서 열린 세계라면축제 관련 투자자와 협력업체 등에 투자금·공사 대금을 주지 않은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 연락을 끊고 잠적해 ‘소재 불명’ 처분을 내려 수사를 잠정 중단하고, 현재 지명수배해 소재를 파악 중이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 수사 중인 사안이라 자세한 내용은 알려줄 수 없다”면서 “A씨 소재가 확인되는 대로 수사를 재개할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;한편 지난 5월 부산 기장군에서 열린 세계라면축제는 축제 기간 내내 부실한 행사 준비와 운영으로 방문객들의 수많은 혹평을 받다가 행사 기간도 채우지 못하고 끝났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 “한덕수 영장심사에 360쪽 의견서 제출”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/64KBETHGKRC63F5M4TBU6EJGZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/64KBETHGKRC63F5M4TBU6EJGZU/</guid>
-      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 03:58:26 +0000</pubDate>
-      <content:encoded>내란 특검은 27일 오후 1시 30분부터 진행되는 한덕수 전 국무총리의 영장실질심사에 360여쪽 분량의 의견서를 제출했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMKNOXKMYQ4PNOOEI77ONFMPYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 22일 오전 12·3 비상계엄 사태에 가담·방조한 혐의로 피의자 조사를 받기 위해 서울 서초구 서울고등검찰청에 마련된 내란특별검사팀 사무실에 출석하고 있다./뉴스1 ⓒ News1 신웅수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서 “지난 25일 재판부에 360여쪽에 이르는 의견서를 제출했고, 160여쪽의 PPT도 제출했다”고 밝혔다. 오후 1시 30분 정재욱 서울중앙지법 영장전담 부장판사 심리로 열리는 구속 심사에는 김형수 특검보, 김정국 차장검사 외 검사 6명이 출석한다. 결과는 이날 늦은 밤이나 새벽에 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;내란 특검은 지난 24일 한 전 총리에 대해 내란 우두머리 방조, 허위 공문서 작성·행사, 대통령기록물관리법 위반, 공용 서류 손상, 위증 등 6개 혐의로 구속영장을 청구했다. 특검은 54쪽 분량의 구속영장 청구서에 범죄의 중대성을 비롯해 증거 인멸과 도주 우려, 재범 위험성 등을 적시한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 한 전 총리가 대통령의 권한 남용을 견제해야 할 의무가 있는데도 비상계엄 선포를 저지하지 않고, 오히려 형식적 정당성을 갖추게 하려고 국무회의 소집을 건의했다고 보고 있다. 한 전 총리는 최초 계엄 선포문의 법적 하자를 덮기 위해 ‘사후 선포문’을 작성하고 폐기한 혐의, 헌법재판소와 국회에서 “계엄 선포문을 인지하지 못했다”고 위증한 혐의도 받는다.&lt;br&gt;&lt;br&gt;특검은 오후 1시쯤 서울고검에 마련된 내란 특검 사무실에서 한 전 총리에 대한 구인영장을 집행했다. 1시 18분쯤 서울중앙지법에 출석한 한 전 총리는 ‘계엄 정당화를 위해 국무위원들을 불렀나’ ‘그동안 왜 선포문을 안 받았다고 거짓말했나’ ‘대선 출마는 수사를 받지 않기 위한 것이었나’ ‘계엄 당일 추경호 국민의힘 의원과 왜 통화했나’ 등 취재진의 질문에 답하지 않고 법정에 들어갔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>무용수 꿈꾸던 여고생 3명 사망 학교… 감사 결과 “입시 카르텔 정황”</title>
       <link>https://www.chosun.com/national/regional/2025/08/27/3PQV3VJKRBEEZPVUESWKJVCRHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/27/3PQV3VJKRBEEZPVUESWKJVCRHY/</guid>
@@ -914,24 +929,6 @@
       <description/>
       <pubDate>Wed, 27 Aug 2025 03:13:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVHMGBEK3RNDBCKAKTVG4HF3UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;양석조 전 서울동부지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양석조(52·사법연수원 29기) 전 서울동부지검장이 9월 초 서초동에 변호사 사무실을 연다. &lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 양 전 지검장은 최근 서울 서초구 서초동 양진빌딩에 ‘양석조 법률사무소’ 사무실을 마련하고 개업을 준비 중이다. 양 전 지검장은 지난달 1일 검찰에서 사직한 뒤 최근 서울지방변호사회에 변호사 개업을 신고했다.&lt;br&gt;&lt;br&gt;양 전 지검장은 제주 출신으로 오현고를 수석졸업하고 한양대 법대를 졸업했다. 2003년 서울지검 동부지청 검사로 임관해 대검찰청 사이버수사과장, 서울중앙지검 특수 3부장, 대검 반부패강력부 선임연구관, 서울남부지검장, 대검 반부패부장, 서울동부지검장 등을 거쳤다. 특히 금융위원회 파견근무 등 금융·조세·사이버수사 분야에 탁월한 것으로 알려져 있다. 첨단·과학수사 분야 2급 공인전문검사(블루벨트) 자격도 보유하고 있다.&lt;br&gt;&lt;br&gt;그는 2011년 이명박 정부 시절 천신일 세중나모 회장을 알선수재 등 혐의로 구속기소했다. 2016~2017년에는 박근혜 정부 국정농단 사건 특검 수사에 참여하기도 했다.&lt;br&gt;&lt;br&gt;한편, 검사장 등 검찰 고위간부가 퇴직해 변호사 개업을 한 경우 퇴직 전 1년간 근무했던 기관의 사건을 3년 동안 수임할 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, ‘채 상병 지휘’ 前 포7대대장 내일 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/27/53436M5M6FFWNBQFFPLCHKV7P4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/27/53436M5M6FFWNBQFFPLCHKV7P4/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 03:07:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OS4WPVZX7PVJJWCE2UOLRVLLEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검 정민영 특검보가 지난달 7일 서울 서초구 특검 사무실에서 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 2023년 7월 경북 예천군 실종자 수색 작전에서 고(故) 채수근 상병을 지휘했던 이용민 전 해병1사단 포병여단 포7대대장을 28일 불러 조사한다.&lt;br&gt;&lt;br&gt;정민영 특검보는 27일 기자단 브리핑에서 “채 상병 사망 사건과 관련해 이용민 당시 포7대대장을 내일(28일) 조사한다”며 “사고 당시 해병대원들이 구명조끼 등 안전 장비 없이 수중 수색 작전에 투입된 경위를 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 대대장은 2023년 7월 19일 실종자 수색 작전 과정에서 채 상병을 비롯한 포7대대 장병들에게 안전 장비 없이 허리 높이 수심까지 들어가도록 지시해 채 상병을 사망에 이르게 한 혐의(업무상 과실치사)를 받는다. 이 전 대대장은 당시 “우리 포병은 허리 아래까지 들어간다”는 최진규 전 포11대대장의 수색 지침을 받고 소속 부대원들에게 수중 수색을 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;채 상병 사건을 수사한 경북경찰청은 작년 7월 현장 지휘관인 이 전 대대장과 최 전 대대장 등 6명에게 과실치사 혐의가 인정된다고 보고 검찰에 송치했다. 앞서 이 사건을 경찰에 이첩한 국방부 조사본부도 이용민·최진규 전 대대장 2명의 혐의가 인정된다고 판단했다. 다만 경북청과 조사본부 모두 임성근 전 해병대 1사단장은 혐의자에서 제외했다. &lt;br&gt;&lt;br&gt;특검은 이 전 대대장을 상대로 당시 수색 지시가 내려온 경위, 임 전 사단장의 지도 사항 등을 집중 조사할 방침이다.&lt;br&gt;&lt;br&gt;한편 해병 특검은 이날 오전부터 채 상병 사건 초동 조사를 맡았던 박정훈(대령) 해병대 수사단장을 참고인 신분으로 불러 조사하고 있다. 박 대령은 이날 출석에 앞서 취재진과 만나 “수사단장 직무나 특검의 조사에 협조하는 것이나 다 제가 해야 할 소임이라고 생각하기 때문에 열심히 하려고 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이날 박 대령을 상대로 채 상병 사망 사고와 관련한 수사 외압 의혹, 박 대령에 대한 국방부 검찰단의 항명죄 수사 과정 등에 대해 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>33년 동안 불법이었던 문신 시술 합법화되나..오늘 국회 상임위 통과</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/27/QTATR4DUFBFS5C7MVYG642O26Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/27/QTATR4DUFBFS5C7MVYG642O26Y/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 27 Aug 2025 02:54:02 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STV4B3QEC5CUFGHR2OAO6FMMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 서울의 한 작업실에서 타투이스트(문신사)가 고객의 몸에 문신을 새겨 넣고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사가 아닌 문신사에게 문신 시술을 허용하는 내용의 ‘문신사법’이 27일 국회 보건복지위원회를 통과했다. 그동안 문신사들의 문신 시술은 불법이었는데, 합법화 수순을 밟고 있는 것이다.&lt;br&gt;&lt;br&gt;국회 보건복지위원회는 이날 여야 의원 3명이 대표발의한 3건의 문신사법을 통합한 정부안을 가결했다. &lt;br&gt;&lt;br&gt;통과된 문신사법의 핵심은 의료인에게만 허용된 문신 시술을 비의료인인 문신사에게도 허용한다는 것이다. 현행법상 의사가 아닌 비의료인의 문신 시술은 불법이다. &lt;br&gt;&lt;br&gt;불법의 근거는 1992년 대법원 판결로 거슬러 올라간다. 당시 대법원은 문신 시술을 의료 행위라고 판단했고, 이후 33년 동안 불법이란 법적 판단이 유지됐다. &lt;br&gt;&lt;br&gt;하지만 현실을 반영하지 못하는 법이란 비판이 잉어졌다. 눈썹 문신을 포함해 문신 시술을 받은 국민이 1300만명에 달하지만, 의사가 직접 시술하는 비율은 1.4%에 그치기 때문이다. 비의료인인 문신사 수도 30만명을 넘는다.&lt;br&gt;&lt;br&gt;국회와 정부 안팎에선 문신사법의 국회 최종 통과 가능성을 높게 보고 있다. 여야 이견이 거의 없기 때문이다. 이재명 대통령도 문신 합법화를 대선 공약으로 내세운 바 있다. 문신사법이 앞으로 국회 법제사법위원회와 본회의에서 통과되면 문신사의 문신 시술은 합법이 된다.&lt;br&gt;&lt;br&gt;하지만 의료계에는 법안 철회까지 요구하며 강하게 반발 중이다. 대한의사협회는 “문신에 사용되는 염료는 대부분 식약처 허가를 받지 않은 화학물질로, 중금속 성분의 체내 잔류 가능성과 발암성 의심 물질 포함 위험이 있다”고 주장했다. 대한피부과의사회는 “문신은 피부에 상처를 내고 인체에 이물질을 주입하는 침습적 행위로, 결코 가볍게 다룰 수 없는 의료적 위험성을 가지고 있다”며 “비의료인이 문신하는 과정에서 감염·부작용 관리가 안 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;일본은 원래 비의료인의 문신 시술을 불법으로 봤지만, 최근 최고재판소에서 입장을 바꿔 합법 영역으로 바뀌었다. 영국 등에선 비의료인이어도 1년 이상 기술, 위생, 안전 등에 관해 교육 받으면 합법적으로 문신 시술을 할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 2개 중학교에 또 폭발물 설치 협박 팩스…학생들 대피 소동</title>
