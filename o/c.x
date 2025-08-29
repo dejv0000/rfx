@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘고대 4·18 우남포럼’ 출범... 화합의 역사 시작</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/V26XPT2PGND4ZPUTDSDI3E3WPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/V26XPT2PGND4ZPUTDSDI3E3WPE/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:30:24 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3JZLMRX7FNB7ZKYB7AUQLK22VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 성북구 고려대 교우회관에서 열린 ‘고대 4·18 우남포럼’ 창립대회에서 참석자들이 기념 촬영을 하고 있다. 포럼 관계자는 “이승만 전 대통령의 건국 이념과 4·18 의거의 정신을 함께 되새기기 위해 해당 포럼을 출범했다”고 밝혔다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 4·18 학생 의거 세대 중심의 동문들이 주축이 된 ‘고대 4·18 우남포럼’이 29일 오후 서울 성북구 고려대 교우회관 안암홀에서 공식 출범했다. 이날 창립대회에는 전직 장관과 총장, 학계·종교계 인사 등 200여 명이 참석해 우남(雩南) 이승만 초대 대통령의 공과를 재조명하고 4·18 의거 정신을 계승하자는 뜻을 모았다.&lt;br&gt;&lt;br&gt;‘우남포럼’은 지난 3월 이승만 대통령 탄신 150주년을 맞아 100여 명의 고려대 동문들이 그의 묘소를 함께 참배하면서 태동했다. 이후 4·18세대와 그 후배 동문들이 합류해 조직이 확대됐다.&lt;br&gt;&lt;br&gt;포럼은 이승만 대통령의 업적과 4·18 의거 정신을 균형 있게 조명하는 것을 목표로 한다. 참석자들은 “대한민국의 건국과 민주주의의 뿌리를 바로 이해하는 것이 사회 분열을 극복하는 길”이라고 강조하며, “이승만 정신과 4·18 의거 정신을 함께 기려야 한다”며 통합의 중요성을 강조했다.&lt;br&gt;&lt;br&gt;포럼 상임고문에는 당시 학생운동 주역인 이용만(92) 전 재무부 장관, 박강수(87) 전 배재대 총장, 김중위(85) 전 환경부 장관, 두상달(85) 국가조찬기도회 명예회장 등이 이름을 올렸다. 김호일(83) 전 의원과 이기수(79) 전 고려대 총장도 참여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLKSF4JXLVDV7D5C6SQDID3UDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 성북구 고려대 교우회관에서 열린 ‘고대 4·18 우남포럼’ 창립대회에서 참석자들이 기념 촬영을 하고 있다. 포럼 관계자는 “이승만 전 대통령의 건국 이념과 4·18 의거의 정신을 함께 되새기기 위해 해당 포럼을 출범했다”고 밝혔다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이용만 전 장관은 “이 전 대통령이 있었기에 오늘의 대한민국이 선진국 대열에 설 수 있었다”며 “한·미 상호방위조약 체결, 경제·기술 원조, 한국군 현대화는 이 전 대통령 업적의 정점”이라고 말했다. 그는 “이승만 대통령의 국제 감각과 지도력, 고려대 학생들의 4·18 의거는 자유와 정의를 향한 동일한 정신의 표현”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;박강수 전 총장은 “4·18 의거는 자유와 정의를 향한 대학생들의 기개였다”며 “이승만 대통령의 자유민주주의와 애국심을 재조명하는 계기가 되길 바란다”고 했다. 김중위 전 장관은 “올해는 이승만 대통령 탄신 150주년이자 서거 60주기”라며 “좌우 이념 갈등 속에서 건국의 의미가 왜곡돼 왔다. 지도자의 정신을 연구하고 청년 세대에 알리는 것이 절실하다”고 말했다.&lt;br&gt;&lt;br&gt;두상달 명예회장은 “우남 이승만은 국가의 기초를 놓았고, 박정희는 그 위에서 경제성장을 이뤄냈다”며 “이들의 공로가 대한민국을 오늘의 번영으로 이끌었다”고 했다. 이기수 전 총장은 “4·18 의거는 고려대 최고의 브랜드 가치”라며 “이승만 대통령의 건국 리더십을 함께 조명해 민주주의 뿌리를 되새겨야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZYYQ2XZ35E2NIEOAMHKNNJXCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 성북구 고려대 교우회관에서 열린 ‘고대 4·18 우남포럼’ 창립대회에서 참석자들이 기념 촬영을 하고 있다. 포럼 관계자는 “이승만 전 대통령의 건국 이념과 4·18 의거의 정신을 함께 되새기기 위해 해당 포럼을 출범했다”고 밝혔다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 기념식에는 이인호(89) 서울대 명예교수, 이영일(86) 전 의원, 이장호(80) 영화감독, 서상목(78) 전 보건복지부 장관, 강성학(77) 고려대 명예교수, 이 전 대통령의 며느리인 조혜자 여사와 손자 이병구 이화장 대표도 참석했다. &lt;br&gt;&lt;br&gt;4·19 당시 서울대 정치학과 3학년으로 고려대생과 함께 시위를 주도했던 이영일 전 의원은 축사에서 “비록 만시지탄이지만, 고대 동문들이 나서주어 이 전 대통령의 공과를 균형 있게 평가할 수 있게 되어 뜻깊다”며 “함께 화합의 역사를 만들어가자”고 했다.&lt;br&gt;&lt;br&gt;포럼은 앞으로 이 전 대통령의 건국 철학과 업적을 연구하고, 4·18 의거의 역사적 교훈을 널리 알리는 학술·사회 활동을 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 공수처·전 부장검사 압수수색… ‘이종호 위증’ 의혹</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/29/XE3VETMIQ5BPFEJX4P4WJQ63JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/XE3VETMIQ5BPFEJX4P4WJQ63JQ/</guid>
+      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:06:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFNBFG663UGV4RMUR65MBE6Z3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사 중인 해병 특검이 29일 송창진 전 고위공직자범죄수사처(공수처) 부장검사와 공수처 청사 등을 압수 수색한 것으로 전해졌다. 송 전 부장검사는 이종호 전 블랙펄인베스트 대표와 관련해 국회에서 위증을 한 혐의(국회증언감정법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 이날 송창진·김선규·박석일 등 전직 공수처 부장검사 3명을 압수 수색해 휴대전화 등을 확보했다. 송 전 부장검사는 피의자, 다른 2명은 참고인 신분이다. 특검은 경기도 정부과천청사에 있는 공수처 청사에도 검사와 수사관을 보내 압수 수색을 진행했다.&lt;br&gt;&lt;br&gt;송 전 부장검사는 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹에 연루된 이종호 전 대표에 대해 위증한 혐의로 고발됐다. 송 전 부장검사는 작년 7월 공수처 차장 직무대행을 맡으며 당시 수사 중이던 구명 로비 사건의 수사 보고를 받았는데, 공수처 임용 전인 2021년 이 전 대표 변호를 맡았던 사실이 뒤늦게 알려졌다. 그는 작년 7월 12일 직무 회피를 했고, 사흘 후인 15일 공수처의 수사 지휘·감독에서 배제됐다.&lt;br&gt;&lt;br&gt;‘늑장 회피’ 의혹이 불거지자 송 전 부장검사는 작년 7월 26일 국회에서 열린 ‘윤석열 대통령 탄핵소추 청원 2차 청문회’에 불려 나왔다. 송 전 부장검사는 “공수처 수사 과정에서 언제 이 전 대표가 구명 로비 사건에 연루됐는지 알았냐”는&amp;nbsp;장경태 민주당 의원의 질문에&amp;nbsp;“7월 10일 공익신고자가 와서 조사를 받기 전엔&amp;nbsp;이 전 대표가 연루된 사실을 알지 못했다”고 답했다.&lt;br&gt;&lt;br&gt;그러나 특검은 공수처 수사를 총괄한 송 전 부장검사가 이 전 대표 연루 사실을 몰랐을 리 없다고 의심하고 있다. 특검은 조만간 송 전 부장검사를 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘바이든-날리면’ 명예훼손 혐의 MBC 기자 등 3년 만에 불송치</title>
+      <link>https://www.chosun.com/national/incident/2025/08/29/CORCGB6FRVCUDIFAA7TEFNF4YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/29/CORCGB6FRVCUDIFAA7TEFNF4YI/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:50:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2CRVZEJKMUJKOSFQ2YAZJRUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 상암동 MBC 사옥 건물/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 2022년 방미 당시 불거진 이른바 ‘바이든-날리면’ 자막 논란 등을 보도해 명예훼손 혐의로 고발된 MBC 기자를 수사하던 경찰이 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 정보통신망법상 명예훼손 등 혐의로 고발된 MBC 기자와 박홍근 당시 더불어민주당 원내대표 등 총 12명에 대해 지난 18일 불송치 결정을 내렸다고 29일 밝혔다. 증거 불충분 등으로 혐의를 입증하기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 조 바이든 당시 미국 대통령이 뉴욕에서 주재한 한 행사에 참석한 뒤 행사장을 떠나던 윤 전 대통령 발언이 발단이 됐다. 당시 MBC는 윤 전 대통령이 한 발언을 전하며 “(미국) 국회에서 이 XX들이 승인 안 해주면 ‘바이든’은 쪽팔려서 어떡하나”라는 자막을 달았다. 대통령실은 “국회는 한국 국회를, 바이든이 아니라 ‘날리면’이라고 말한 것”이라고 주장했다. 이에 국민의힘 이종배 서울시의원과 보수단체인 자유대한호국단, 서민민생대책위원회 등은 MBC 기자와 당시 이사장 등을 상대로 경찰에 고발장을 제출했으나, 약 3년 만에 수사가 종결된 것이다.&lt;br&gt;&lt;br&gt;논란이 생긴 그해 외교부가 MBC를 상대로 낸 정정 보도 청구 소송도 최근 항소심 결과가 나왔다. 1심에선 MBC의 보도를 허위로 보고 정정 보도를 명령했지만, 항소심 재판부인 서울고법은 지난 18일 강제 조정 결정을 내리면서 “(윤 전 대통령) 발언의 성격, 언론·표현의 자유, 사회적 갈등 비용 등을 종합해볼 때 외교부가 소를 철회하는 방식이 바람직하다”고 했다. 재판부는 전문가가 ‘음성 판독 불가’ 결론을 내린 것을 토대로 “외교부가 제출한 증거만으로는 이 사건 보도가 허위임을 인정하기 부족하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 도로에 맥주병 400개 와르르…시민들 나서자 30분만에 말끔</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/VPZPCQCBG5CVJDEHJTZAEC66OQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/VPZPCQCBG5CVJDEHJTZAEC66OQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:34:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ66WSPOMFFQFDN2WBLZFL7DBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도로 위로 쏟아진 맥주병을 치우는 시민들./ 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 한 도로에 맥주병 수백 개가 쏟아지는 사고가 발생했으나 시민들의 발 빠른 도움으로 2차 피해를 막을 수 있었다. &lt;br&gt;&lt;br&gt;29일 오전 10시 20분쯤 대전 중구 대사동 충무로네거리에서 주류 운반 트럭에 실린 맥주 상자가 도로 위로 쏟아졌다. 이 사고로 400여 개의 유리 파편이 도로 일부를 뒤덮으면서 차량 통행이 어려운 상황이 됐다. &lt;br&gt;&lt;br&gt;사고 현장 인근에 사무실이 있는 대전시체육회 직원 10여 명은 창문으로 아수라장이 된 도로를 목격하고 빗자루 등을 챙겨 나와 자발적으로 청소에 나섰다. 이를 본 행인들도 손을 보태면서 약 30분 만에 도로를 정리했다. 경찰은 안전을 위해 도로를 통제했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CT4RQDMLD5KVTPP66TIGYYENXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 10시 20분쯤 중구 대사동 충무로 네거리에서 주류 박스를 싣고 달리던 주류 운반 차량에서 맥주병 20상자가 도로위로 쏟아졌다. 대전시체육회 직원들이 쏟아진 맥주병을 치우고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 트럭 운전자가 적재함 고정을 허술하게 한 상태에서 우회전하다 사고가 난 것으로 보고 적재물 추락 방지 조치 의무 위반으로 범칙금을 부과했다.&lt;br&gt;&lt;br&gt;대전시체육회 관계자는 “공직 유관 단체로서 시민들이 불편함을 겪지 않길 바라는 마음에서 도움을 주기 위해 나섰고, 주변에 있던 시민분들도 같이 도와주셔서 신속하게 치울 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>故오요안나 모친, MBC 앞에서 단식 농성한다…“사건 덮으려고만 해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/HEOYTNR2AZCKHJZMVLE4TJ6LO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/HEOYTNR2AZCKHJZMVLE4TJ6LO4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:29:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWITX4MOMFRPCRROGLAK3UGY4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 오요안나. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 내 괴롭힘으로 인해 극단적 선택을 했다는 의혹이 제기된 고(故) 오요안나 MBC 전 기상캐스터의 어머니가 서울 상암동 MBC 건물 앞에서 사건 해결을 촉구하는 단식 농성을 시작하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;고 오요안나씨의 어머니 장연미씨는 29일 한겨레와의 인터뷰에서 “MBC는 우리 안나가 죽었는데도 이 사건을 덮으려고만 하고 있다”며 “MBC가 유족에게 사과하고 재발 방지 대책을 내놓는 동시에 지금 기상캐스터로 근무하는 애들만이라도 정규직으로 바꿔줄 것 등을 요구했으나 대답이 없다”고 말했다. &lt;br&gt;&lt;br&gt;장씨는 “MBC의 성실한 답변을 요구하며 9월 8일부터 서울 상암동 MBC 앞에서 단식 농성에 들어간다”고 덧붙였다. &lt;br&gt;&lt;br&gt;오요안나씨 유족 측은 지난 22일 MBC 실무진을 만나 ‘MBC 사장의 공식 사과와 재발 방지 대책 발표’ ‘오요안나 명예사원증 수여 및 사내 추모 공간 마련’ ‘기상캐스터 정규직화’ 등의 내용이 담긴 요구안을 전달했다. &lt;br&gt;&lt;br&gt;한편 지난해 9월 숨진 오요안나(당시 28세)씨는 극단적인 선택을 하기 전까지 직장 내 괴롭힘에 시달렸다는 의혹이 제기됐다. 유족은 고인의 휴대폰 속 유서와 통화 내용, 메시지 등을 바탕으로 동료 직원을 상대로 민사 소송을 제기했다.&lt;br&gt;&lt;br&gt;고용노동부는 지난 5월 MBC에 대한 특별 근로 감독 결과를 발표했다. 고용부는 “(고인에 관한) 조직 내 괴롭힘이 있었다”면서도 “근로기준법상 근로자로 인정되지는 않아 직장 내 괴롭힘 규정이 적용되지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;이후 MBC는 직장 내 괴롭힘 가해자로 거론된 기상캐스터 4명 중 3명과 재계약을 해 논란이 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검 “이종호, 공수처장·의원과 찍은 사진 보이며 ‘재판 로비’ 과시”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/29/L7T2CAMLYVEZ5DCOCSNKT4WAVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/L7T2CAMLYVEZ5DCOCSNKT4WAVU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 09:09:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALLJI2PRVZGCTLHFKXB6JXXAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 최측근인 이종호 전 블랙펄인베스트 대표가 도이치모터스 1차 주가조작 ‘주포’인 이정필씨에게 김 여사 등과의 인맥을 자랑하며 ‘재판 로비’를 대가로 돈을 요구한 정황이 공개됐다.&lt;br&gt;&lt;br&gt;29일 본지가 입수한 이 전 대표의 변호사법 위반 사건 공소장에 따르면, 이 전 대표는 도이치모터스 주가조작 1심 재판 중이던 2022년 5월 경기도 성남의 한 주점에서 이씨와 만나 “(재판 결과는) 걱정하지 마라. 김건희나 VIP(윤석열 당시 대통령)에게 이야기해 집행유예가 나오도록 해주겠다”고 말했다. 이 전 대표는 자신이 국회의원과 고위공직자범죄수사처 처장 등과 찍은 사진을 보여주며 정계·법조계 인맥을 통해 재판 로비가 가능한 것처럼 꾸몄다고 한다.&lt;br&gt;&lt;br&gt;이 전 대표는 이씨에게 지속적으로 “김건희가 사건을 챙겨보고 있다”, “김건희가 알아서 잘할 거니까 재판은 신경 안 써도 된다”, “내가 김건희와 직접 소통이 되고, VIP나 행정관들이랑도 연계가 돼 있다”, “너는 집행유예 나오도록 잘할 거니까 걱정하지 말라”고 말하며 안심시켰다고 한다.&lt;br&gt;&lt;br&gt;이후 이 전 대표는 이씨에게 “재판에 도움되는 사람들의 그림을 사줘야 한다”는 등의 이유로 금품을 요구했고, 2022년 5월~2023년 2월까지 23차례에 걸쳐 7590만원을 수수한 것으로 김건희 특검은 보고 있다. 또 이씨가 2022년 10월 별도의 횡령 혐의로 고소당해 경찰 수사를 받게 되자, 이 전 대표가 “수사과장을 잘 아니 사건을 해결해주겠다”며 800만원을 받아 간 정황도 확인됐다.&lt;br&gt;&lt;br&gt;두 사람은 도이치모터스 주가조작 범행 당시에는 서로를 알지 못했지만 기소 이후 재판을 함께 받으며 친해졌다고 한다. 특검은 지난 22일 이 전 대표를 구속기소했다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 대표 측은 “이씨의 허위 진술에 근거한 특검의 일방적인 주장”이라며 “(진술 외에) 어떤 증거도 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김경수 “5극 3특 핵심은 권역별 전략 사업 만드는 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/HZ2CYLDIMRG2NM3NRNU4ZSV7TU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/HZ2CYLDIMRG2NM3NRNU4ZSV7TU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 08:17:36 +0000</pubDate>
+      <content:encoded>김경수 지방시대위원장이 29일 “5극 3특의 핵심은 권역별로 전략 사업을 만드는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RXW3R3YDZKS7F3FTVLHMP7ICI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김경수 지방시대위원장이 29일 전북대학교에서 열린 2025년 한국지방자치학회 하계학술대회에서 강연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 위원장은 이날 전북대학교에서 열린 2025년 한국지방자치학회 하계학술대회에서 이같이 말했다.&lt;br&gt;&lt;br&gt;5극 3특은 이재명 정부의 지역 균형 발전 전략이다. 5극은 수도권, 동남권, 대경권, 중부권, 호남권 등 5개의 초광역권을, 3특은 3개의 특별자치도(제주특별자치도·강원특별자치도·전북특별자치도)를 말한다.&lt;br&gt;&lt;br&gt;김 위원장은 이날 학술대회 기조 강연과 좌담회에서 스웨덴의 도시 말뫼를 예로 들어 5극 3특을 설명했다.&lt;br&gt;&lt;br&gt;김 위원장은 “조선업이 쇠퇴하면서 말뫼의 상징이었던 대형 해상 크레인이 단 1달러에 매각됐다”며 “크레인이 옮겨질 때 지역 주민들이 아쉬움의 눈물을 흘렸던 그 도시가 이젠 하루에만 스타트업 8개가 만들어지는 곳이 됐다”고 했다.&lt;br&gt;&lt;br&gt;이어 “대학에 투자해 인재를 육성했고, 바다 건너 덴마크 코펜하겐과 다리로 연결해 130만명이 생활하는 권역을 만들었다”며 “이렇게 청년들이 찾아오는 산업 생태계를 만든 게 주효했다”고 말했다.&lt;br&gt;&lt;br&gt;그는 “5극 3특 역시 선도 기업을 중심으로 권역별 전략 사업을 만드는 것”이라고 했다.&lt;br&gt;&lt;br&gt;참여정부의 혁신 도시 정책과 관련해선 “전반적인 균형 발전으로 이어지지 못한 한계가 있었다”며 “시도 중심이 아니라 전국을 권역화해 발전시켜야 한다”고 말했다.&lt;br&gt;&lt;br&gt;권역이나 특별자치도 간 불균형 우려에 대해선 “권역과 특별자치도 사이의 균형 발전도 중요하다”며 “지방 정부와 합의해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>건진법사 측근 사업가, 첫 재판서 혐의 부인…“알선 대가 아닌 투자금”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/29/2LRFLBA3YNBSVEPUCV5HJ7AANU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/2LRFLBA3YNBSVEPUCV5HJ7AANU/</guid>
@@ -892,60 +955,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWDY3O23JNHE7MOJBYFJFYP5YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 손임성 경기도 도시주택실장이 용인 반도체 국가산업단지 토지거래허가구역 내 불법투기 수사 결과를 발표하고 있다./경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토지거래허가구역으로 지정된 용인 반도체 국가산업단지 일원에서 위장 전입 등으로 134억원대의 부동산 불법 거래를 한 이들이 경기도 수사망에 무더기로 적발됐다.&lt;br&gt;&lt;br&gt;경기도 부동산수사팀은 부동산거래신고법 위반 혐의로 A씨 등 23명을 송치했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 정부가 용인시 처인구 이동·남사읍 일대에 첨단 시스템 반도체 산단을 조성한다고 발표하자 부동산 호재를 활용, 불법으로 토지를 사들인 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;정부는 지난 2023년 3월 용인 반도체 국가산업단지 일원을 토지거래허가구역으로 지정했다. 토지거래허가구역에서 허가를 받으려면 세대원 전원이 해당 지역에 거주하고 토지를 직접 이용해야 한다.&lt;br&gt;&lt;br&gt;유형별로 보면 이동·남사읍 129.48㎢가 토지거래허가구역으로 지정된 뒤 부동산을 불법으로 사들인 이들이 14명으로 가장 많았다. 이어 기획 부동산 불법 투기 8명, 농업회사법인 활용 투기 1명 등이다. 이들이 투입한 투기자금은 135억원에 이른다.&lt;br&gt;&lt;br&gt;용인에서 공인중개업소를 운영하는 A(50대)씨는 자신의 아들, 친구들과 함께 ‘직접 벼농사를 짓겠다’며 허가를 받았다. 하지만 그는 대리 경작자를 물색한 뒤 마을 주민에게 대신 농사를 짓게 하고 허위 농자재 구입 내역까지 준비했다.&lt;br&gt;&lt;br&gt;또 수원에 사는 B(40대)씨는 배우자와 함께 용인 남사읍 소재 원룸에 위장 전입한 뒤 토지 거래 허가를 받았다. B씨는 실제 용인에 거주한 적이 없으며 취득한 토지도 친인척에게 경작을 맡긴 것으로 확인됐다.&lt;br&gt;&lt;br&gt;기획 부동산에 의한 투기 행위도 적발됐다. 인천에 사무소를 둔 법인 대표 C(60대)씨와 D(40대)씨는 지난 2022년 11월 임야 1필지를 7억1000만원에 매입했다. 이후 주부 등 30여 명의 상담사를 고용해 ‘해당 토지가 도시개발사업지구에 포함돼 환지를 받을 수 있다’고 속여 투자자를 모집하고 지분을 나누는 등 이른바 지분 쪼개기로 거래하려 했다. 해당 필지가 토지거래허가구역으로 지정, 지분 쪼개기가 허용되지 않았다. 그러자 이들은 매수자를 상대로 “허가구역이 조만간 풀릴 것인데, 당장 거래 허가가 나지 않아 소유권 이전 등기가 나지 않으니 근저당권(채무자의 채권을 담보하기 위해 부동산에 설정하는 권리) 설정 등기로 거래하자”며 합의 약정서를 작성하고, 부동산을 거래했다. 이런 방식으로 취득한 토지를 19억3000만원에 매도한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;불법적인 방법으로 토지거래 허가를 받은 경우 부동산거래신고법에 따라 2년 이하의 징역 또는 계약 체결 당시 개별공시지가의 30% 이하에 해당하는 벌금형에 처해진다.&lt;br&gt;&lt;br&gt;경기도는 지난 3월부터 7월까지 5개월간 부동산 전담 수사관 6명을 투입해 수사를 진행했다. &lt;br&gt;&lt;br&gt;손임성 경기도 도시주택실장은 “경기 침체와 금융 비용 증가로 부동산 거래량은 지속적으로 감소하고 있음에도 토지거래허가구역 내 투기 조장 행위와 위장 전입 등을 이용한 불법 투기는 여전히 성행하고 있다”며 “부동산 거래 시장을 교란하고 실수요자에게 피해를 주는 불법 투기에 대해 수사를 이어가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>환경부, ‘폐수 무단 배출’ HD현대오일뱅크에 과징금 1761억원 부과</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/28/WUSZYU2KTVDBZBMYY4ZDX7MMOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/28/WUSZYU2KTVDBZBMYY4ZDX7MMOM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 07:32:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMD574RJGFGKDHJ3TRAI3VHD7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 서산시에 있는 HD현대오일뱅크 대산공장 전경. /HD현대오일뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경부가 유해 물질인 페놀이 함유된 폐수를 불법 배출한 책임을 물어 HD현대오일뱅크에 과징금 1761억 원을 부과했다고 28일 밝혔다. 환경 관련 위반 과징금으로는 역대 최고액이다.&lt;br&gt;&lt;br&gt;환경부는 이날 “현대오일뱅크의 불법 폐수 배출 건이 지난 2월 유죄 판결이 남에 따라 28일 과징금 부과를 최종 통보했다”고 밝혔다. 현대오일뱅크는 “용수가 부족한 상황에서 공업용수를 재활용했고, 폐수를 무단 방류한 적도, 환경을 오염시킨 적도 없다”는 취지로 맞서왔다.&lt;br&gt;&lt;br&gt;환경부 특별사법경찰관은 현대오일뱅크가 폐수에 함유된 페놀 농도의 측정치를 충청남도에 허위로 신고해 방지 시설 설치를 면제 받고, 이후 2019년 10월부터 2021년 11월까지 페놀 배출허용기준(1.0mg/L)이 초과된 폐수를 그대로 자회사인 HD현대오씨아이로 배출했다고 봤다.&lt;br&gt;&lt;br&gt;또 현대오일뱅크가 2016년 10월부터 2021년 11월까지 또 다른 자회사인 HD현대케미칼에 적절한 처리를 거치지 않은 공업용수를 공급, 폐수처리장 증설 비용 약 450억 원을 절감하는 등 막대한 불법 이익을 거뒀다고 봤다. 현대오일뱅크는 2022년 1월 환경부에 이 같은 사실을 자진신고한 바 있다. &lt;br&gt;&lt;br&gt;환경부는 “자진신고 불법 사항에 더해, 검찰 기소 및 법원 판결의 사실관계를 토대로 현대오일뱅크의 자사 공장 내에서 2017년 6월부터 2022년 10월까지 배출허용기준이 초과된 폐수를 적법한 절차를 거치지 않고 배출한 사실을 파악했으며, 이를 토대로 총 1761억 원의 과징금을 산정했다”고 설명했다. &lt;br&gt;&lt;br&gt;2020년 11월 27일 개정된 ‘환경범죄단속법’ 시행에 따라 페놀 배출이 과징금 대상에 포함되면서, 과징금 부과 대상기간은 2020년 11월부터 2022년 10월까지 총 1년 11개월로 적용됐다. 페놀과 같은 특정수질유해물질을 배출한 경우, 가중처벌 성격의 과징금 조항(제12조)을 따르는데, 개정 전에는 ‘불법 배출 이익의 2배 이상 10배 이하에 해당하는 금액’을 과징금으로 부과할 수 있었지만, 법이 개정되며 매출액의 5%까지 부과할 수 있게 됐다.&lt;br&gt;&lt;br&gt;환경범죄단속법이 개정된 뒤 이 법에 따라 첫 과징금이 부과된 사례는 2021년 영풍 석포제련소 건이다. 석포제련소는 공장 내부에서 유출된 특정수질유해물질(카드뮴)이 공장 바닥을 통해 토양·지하수를 오염시킨 것이 확인돼 물환경보전법 위반으로 281억원의 과징금 처분을 받았다.&lt;br&gt;&lt;br&gt;환경부는 “기업이 환경 비용 절감을 목적으로 장기간에 걸쳐 국민 건강과 안전을 위험한 상황에 놓이게 한 점에 대해 엄정한 판단 기준을 적용했다”며 “관련 법령에 따라 기업 측이 자진신고를 한 점과 관련 조사에 협력한 점 등을 종합적으로 고려했다”고 했다.&lt;br&gt;&lt;br&gt;현대오일뱅크 측은 “공업용수 재활용 과정에서 외부로의 오염물질 배출은 없었다”며 “아직 법원에서 항소심이 진행되고 있는 만큼 사실관계를 분명히 밝혀 지역사회의 불안과 오해가 없도록 소명하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 여사 진술거부권 행사... ‘측근’ 김예성도 김 여사와 같은 날 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/28/6WSDX2NW4NHLJMXANOL4RPHDJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/6WSDX2NW4NHLJMXANOL4RPHDJ4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 06:02:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNJI5BPFEIFLR24U4BSZSRXQQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 관련한 각종 의혹 사건을 수사하는 민중기 특별검사팀 오정희 특검보가 지난 26일 서울 종로구 KT광화문빌딩에 마련된 특검 사무실에서 정례 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 민중기 특별검사팀에 출석해 조사받고 있는 김건희 여사가 대부분의 질문에 진술거부권을 행사하고 있는 것으로 알려졌다. 같은 날 특검은 김 여사 측근 김예성씨를 오는 29일 재판에 넘길 예정이라고도 밝혔다.&lt;br&gt;&lt;br&gt;오정희 특검보는 이날 정례 브리핑에서 “김건희씨를 오전 10시 14분부터 조사하고 있고, 점심 시간을 가진 뒤 오후 1시 23분부터 조사를 재개했다”고 밝혔다. 오 특검보는 “조사 내용은 도이치모터스 주가 조작 사건 관련이며, 김 여사 측은 진술거부권을 행사하고 있다”고 했다. 이날 특검의 김 여사 조사는 오후 3시 24분 끝났다. 김 여사는 오후 4시 42분쯤 조서 열람까지 마치고 특검 사무실을 떠났다.&lt;br&gt;&lt;br&gt;또 오 특검보는 “김예성씨를 내일(29일) 기소할 예정”이라고도 했다. 그러면서 혐의 등 자세한 내용은 기소가 이뤄지는 시점에 밝히겠다고 설명했다. 앞서 특검은 김 여사를 오는 29일에 기소하겠다고 밝혔는데, 김씨도 같은 날 재판에 넘기겠다는 것이다.&lt;br&gt;&lt;br&gt;김 여사는 2022년 4~8월 ‘건진 법사’ 전성배씨를 통해 통일교 측으로부터 6000만원대 다이아몬드 목걸이, 1000만원 내외 샤넬백 등과 함께 교단 현안 청탁을 받은 혐의(특정범죄 가중처벌법상 알선수재)를 받는다. 이외에도 윤석열 전 대통령과 함께 2022년 대선 때 ‘정치 브로커’ 명태균씨로부터 58차례에 걸쳐 여론조사 결과를 무상으로 제공 받고, 그해 국회의원 보궐선거에서 김영선 전 국민의힘 의원이 공천받도록 영향력을 행사한 혐의(정치자금법 위반)와, 2009~2012년 발생한 ‘도이치모터스 주가조작 의혹’에 가담한 혐의(자본시장법 위반)도 받는다.&lt;br&gt;&lt;br&gt;김예성씨는 한때 임원으로 있던 IMS모빌리티가 184억원대 투자를 받는 과정에서 김 여사와의 친분을 내세워 개입했다는 의혹을 받는다. 다만 특검은 김씨에 대한 구속영장을 청구했을 때는 관련 혐의(배임)가 아닌 횡령 혐의를 적용했다.&lt;br&gt;&lt;br&gt;한편 특검은 오는 31일에는 전성배씨를 소환 조사할 예정이다. 지난 21일 구속된 전씨는 통일교 관련 의혹에 대해 “통일교로부터 목걸이 등을 받았지만, 중간에 잃어버려 김 여사에게 전달하지 못했다”고 주장하고 있다. 또 전씨는 2022년 6월 지방선거 당시 공천 청탁을 전달한 혐의와, 2023년 3월 국민의힘 전당대회를 앞두고 권성동 의원을 당 대표에 당선시키기 위해 통일교인들을 동원하려 했다는 혐의 등도 받는다.&lt;br&gt;&lt;br&gt;전씨의 공천 청탁과 관련해 특검은 내달 2일에는 박창욱 경북도의원을 불러 조사할 계획이다. 박 의원은 2022년 6월 지방선거 당시 브로커 김모씨를 통해 전씨에게 공천을 청탁했다고 의심받는다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>75㎏ 드론이 머리 위로 ‘뚝’… 50m 굴뚝서 일하던 공단 직원 사망</title>
-      <link>https://www.chosun.com/national/incident/2025/08/28/CKDOOXT3GNFLHJWT4EENCMZ5DY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/28/CKDOOXT3GNFLHJWT4EENCMZ5DY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 05:49:34 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZJ4LPFAVZIC75YFPONWBWVRQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 전주 팔복동 드론 추락사고 현장./전북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대기질을 측정하던 한국환경공단 직원이 추락한 드론에 맞아 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;28일 전북경찰청 등에 따르면 이날 오전 11시 2분쯤 전북 전주시 덕진구 팔복동의 한 공장에서 A(40대)씨가 쓰러져 있다는 신고가 접수됐다. 소방 구급대원이 현장에 도착했을 당시 A씨는 의식과 호흡이 없는 상태였다. A씨는 병원으로 이송됐지만 끝내 숨졌다. &lt;br&gt;&lt;br&gt;환경부 산하 한국환경공단 직원인 A씨는 당시 이 공장에 있는 높이 50m 굴뚝에 올라가 대기질을 측정하고 있었다. 그런데 굴뚝 위를 날고 있던 대기질 측정 드론이 A씨의 머리로 추락하면서 사고가 발생한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;추락한 드론은 높이 50㎝, 길이 80㎝, 무게는 60㎏이다. 드론에 달려 있던 대기질 측정 장비(15㎏)까지 더하면 무게는 75㎏에 달한다. &lt;br&gt;&lt;br&gt;당시 A씨는 점검·유지 보수용 계단을 통해 굴뚝에 올라갔고, 드론은 A씨와 함께 대기질 측정 작업을 하고 있던 드론 업체 소속 직원이 조종한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 드론이 공장 굴뚝에 부딪히면서 추락한 것으로 보고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>前 드론사령관 변호인 “왜 특검은 과거 공안검찰의 권한 휘두르려 하나”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/28/INBQAKMS7RFHVMYWKSEYEGTH2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/INBQAKMS7RFHVMYWKSEYEGTH2Y/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 06:07:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7LCVWPNNJOA3O6EC4XOCPJY7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관이 28일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검팀 사무실로 조사를 받기 위해 들어서는 중 이승우 변호사의 배웅을 받고 있다. 앞서 내란 특검은 지난 20일 이 변호사의 조사 참여를 중단시켰다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용대 전 드론작전사령관 측 이승우 변호사는 28일 내란·외환 혐의를 수사하는 조은석 특별검사팀을 향해 “우리는 왜 지난 20여 년간 검찰개혁이 필요하다고 생각했나. 자기편은 처벌하지 않고, 상대편은 없는 죄도 만드는 것에 분노했던 것”이라며 “검찰은 수사권을 박탈해야 한다고 목소리를 높이면서, 왜 특검은 과거 공안검찰이 휘두르던 모든 특별 수사 권한을 새로운 입법으로 특검에 부여해달라고 요구하느냐”고 말했다.&lt;br&gt;&lt;br&gt;이 변호사는 이날 오후 내란 특검 사무실이 마련된 서울고검 청사 앞에서 성명서를 내고 “수사상 기밀이란 구체적 혐의가 있을 때 존재할 수 있는 개념”이라며 “구체적인 혐의가 없는 상태에서 수사상 비밀이라고 얘기한다면, 세상의 모든 게 수사상의 비밀”이라고 주장했다. 또 “일반이적 혐의에 대한 실체의 진실이 존재하지 않는데, 존재하지 않는 것을 존재하는 것처럼 믿게 만들려고 한다면 그것은 강제력을 수반하는 수사가 아닌 무고”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “특검은 군의 무인기 작전이 어떤 면에서 북한을 이롭게 했다는 것이며, 그것이 어떠한 논리적 연결로서 적을 이롭게 했다는 이적죄와 외환죄가 성립한다는 것인지 공개적으로 법리를 설명하라”고 비판했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시 김 전 사령관을 피의자 신분으로 재소환했다. 외환 혐의 관련 8번째 소환이고, 특검이 지난 20일 김 사령관의 변호인에 대해 수사 내용 및 군사 기밀 유출을 이유로 조사 참여를 중단시킨 이후 첫 조사다. 이 변호사는 조사실에 함께 들어가지 못하고, 청사 밖에서 김 전 사령관을 기다렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산서 횡단보도 건너던 보행자, 레미콘 차량에 치여 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/08/28/PZOFONMNCRDAHCDOTG53VODDFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/28/PZOFONMNCRDAHCDOTG53VODDFM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 07:34:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKF6YGFLMJDU7ELR4IWSXTUWBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 레미콘 차량. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 오전 10시쯤 부산 금정구 부곡동 한 도로에서 우회전하던 레미콘 차량이 횡단보도를 건너던 70대 여성을 들이받았다. 이 사고로 피해 여성은 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 피해 여성이 녹색 보행자 신호에 맞춰 횡단보도를 건너고 있었다고 밝혔다.&lt;br&gt;&lt;br&gt;레미콘 차량 운전자는 70대 남성이었으며, 음주 상태가 아닌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자가 신호를 미처 보지 못했다고 진술했다”면서 “정확한 사고 경위에 대해서는 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부천 새마을금고 이사장 및 임직원, 불법 선거 혐의로 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/28/J4YZNQ7GQ5AT3PZDFWAQTKMUCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/J4YZNQ7GQ5AT3PZDFWAQTKMUCY/</guid>
-      <dc:creator>부천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 07:02:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LVOIYO7ONHOJKTXPGW4Q3XXSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천소사경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천의 한 새마을금고 이사장 선거에서 불법 선거 운동을 한 혐의로 현직 이사장과 임직원들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부천소사경찰서는 위탁선거법 위반 혐의 등으로 현직 이사장 A씨와 지점장, 직원 등 총 6명을 불구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 3월 5일 실시된 제1회 전국 동시 새마을금고 이사장 선거 과정에서 신규 출자 회원 100여 명에게 금품을 제공한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;또 출자금을 대신 납부해주고 투표권이 있는 타인 명의 계좌를 개설한 혐의도 있다. &lt;br&gt;&lt;br&gt;이들은 지난해 1월부터 8월까지 A씨의 당선을 목적으로 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;위탁선거법상 새마을금고 이사장 선거 범죄 공소시효는 선거일로부터 6개월로 다음 달 5일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제사에 쓴 수박 “덜 익었어요” 조상님도 놀랄 비양심 환불</title>
       <link>https://www.chosun.com/national/national_general/2025/08/28/NK77NU4EZRG37DLGYDICSWGILY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/NK77NU4EZRG37DLGYDICSWGILY/</guid>
@@ -953,15 +962,6 @@
       <description/>
       <pubDate>Thu, 28 Aug 2025 06:07:38 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VP6PGBLYVEBBJD3CMWZDIQEBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과일 가게에 반품된 제사상에 올린 듯한 수박(왼쪽), 부산의 한 마트 안내문./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제사상에 올렸던 것으로 추정되는 과일을 가져와 환불을 요구하는 손님들의 사연이 전해졌다.&lt;br&gt;&lt;br&gt;지난 26일 한 온라인 커뮤니티에는 ‘너는 반드시 벌 받을 거야’라는 제목으로 한 장의 사진이 올라왔다. &lt;br&gt;&lt;br&gt;사진에는 제사상에 올린 과일처럼 윗부분 일부가 잘려 빨간 과육이 드러난 수박 한 통의 모습이 담겼다. 심지어 수박은 반으로 갈라진 채 겹쳐 있다.&lt;br&gt;&lt;br&gt;작성자는 “이러고 반품을 하냐. 너무 농 익었다고? ‘귀신같이 안다’는 말이 있다. 귀신은 다 알고 있다”고 꼬집었다.&lt;br&gt;&lt;br&gt;올해 수박은 폭염과 폭우 등 기상 이변 속에 ‘금(金) 수박’이라고 불릴 정도로 가격이 치솟았다. 한국농수산식품유통공사 농산물유통정보(KAMIS)에 따르면 수박 평균 소매 가격은 1개당 지난달 말 3만원대에 진입했다. &lt;br&gt;&lt;br&gt;수박 값이 비싸지자 제사 지낸 수박을 반품하는 일이 최근 자주 일어나는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이달 부산의 한 대형 마트에는 “수박 구매하신 분들 중 제사만 지내고 반품하시는 분들이 많다”며 “제사 지내고 환불·반품 안 된다”는 경고성 안내문이 붙기도 했다.&lt;br&gt;&lt;br&gt;네티즌들은 “아무리 봐도 상식적이지 않은 행동” “말만 들었지 실제 벌어지는 일인지는 몰랐다” “이렇게 제사 지내면 조상님도 싫어하실 것” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;또 자영업자 네티즌들은 “명절 시즌에는 아이 한복을 구매한 뒤 유치원 행사할 때만 입히고 환불해달라고 한다” “여름 매트를 여름철에 쓰고 가을에 반품해 달라고 한다” 등의 경험담을 공유하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘선거법 위반’ 민주당 이병진 의원, 2심서도 당선무효형</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/28/22GOUMAEOZBAFFJIV4SJY5QSVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/22GOUMAEOZBAFFJIV4SJY5QSVA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 05:08:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN2H4CKW54KUYI4ATGJ2OFIITY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이병진 더불어민주당 의원이 지난 4월 2일 오후 서울 여의도 국회에서 열린 비상의원총회에 참석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 4월 총선에서 재산 중 일부를 누락해 신고한 혐의 등으로 기소된 이병진 더불어민주당 의원(경기 평택을)이 2심서도 당선무효형을 선고받았다. &lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 28일 이 의원의 공직선거법 위반 및 부동산 실명제 위반 혐의 2심 선고공판서 항소를 기각하고 원심 판결을 유지했다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 공직선거법 위반 혐의에 대해 벌금 700만원을 선고했다. 부동산 실명제 위반 혐의로는 벌금 500만원을 선고했다. 선거법 사건에서 벌금 100만원 이상의 형을 받고 대법원에서 확정되면, 의원직을 잃게 된다.&lt;br&gt;&lt;br&gt;이 의원은 총선을 앞두고 선거관리위원회에 후보자 재산 신고를 하는 과정에서 충남 아산시 영인면에 있는 6600㎡ 땅을 담보로 하는 채권(5억5000만원)과 사실상 자신이 소유한 타인 명의의 주식 계좌 등을 누락한 혐의 등으로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;이 의원은 또 사실상 자신이 소유한 땅을 지인인 김모씨의 명의로 등기해 부동산 실명제를 위반한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>BTS 정국도 재벌 회장도 당했다…‘알뜰폰 무단개통’ 국제 해킹 조직 일당 검거, 피해액만 640억원</title>
