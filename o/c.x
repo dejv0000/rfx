@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 법원, 권성동 체포동의 요구서 특검에 전달</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/29/75656JDRY5D75J7GROAZ744AWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/75656JDRY5D75J7GROAZ744AWY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 04:46:19 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LSL4RRTEUJR7OG6YHP7CBA64Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 27일 오전 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 통일교 부정 청탁 의혹 관련 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법은 29일 정치자금법 위반 혐의를 받는 권성동 국민의힘 의원에 대한 ‘체포동의 요구서’를 특검에 송부했다고 밝혔다. 현직 국회의원은 회기 중 불체포 특권이 있기 때문에 영장 실질심사를 받기 전 국회에서 체포동의안이 통과돼야 한다. &lt;br&gt;&lt;br&gt;특검은 체포동의 요구서를 법무부를 거쳐 국회에 보낸다. 국회의장은 체포동의 요청을 받은 후 처음 개의하는 본회의에 이를 보고하고 보고된 때부터 ‘24시간 이후 72시간 이내’ 표결해야 한다. 체포동의안은 재적 의원 과반수 출석과 출석 의원 과반수 찬성으로 가결된다. 체포동의안이 가결될 경우 법원에서 영장 실질심사가 열리고, 부결되면 영장은 자동 기각된다.&lt;br&gt;&lt;br&gt;김건희 여사의 여러 의혹을 수사하는 특검은 전날 법원에 권 의원에 대한 구속영장을 청구했다. 특검은 권 의원이 2022년 1월 통일교로부터 1억원대 불법 정치자금을 받은 정황을 확보하고 수사하고 있다. 권 의원이 같은 해 2~3월 한학자 통일교 총재로부터 현금이 든 쇼핑백을 받았다는 의혹도 있다. 특검은 윤영호 전 통일교 세계본부장으로부터 “한학자 통일교 총재의 결정과 지시에 따라 한 총재가 내실 금고에서 꺼내준 현금 뭉치를 아내 이씨를 통해 포장해 (권 의원에게) 전달했다”는 진술을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시설관리직은 군복무 경력 임금에 반영 안돼”… 인권위 “차별” </title>
+      <link>https://www.chosun.com/national/national_general/2025/08/29/2ICE2DWDWNA7LK7PTHWEKWBT6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/2ICE2DWDWNA7LK7PTHWEKWBT6E/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 04:54:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2O3IOMOA4K35QF3X3JYBDTSYYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 특정 직군이라는 이유로 군경력을 인정하지 않는 것은 차별이라고 보고 개선을 권고했다. &lt;br&gt;&lt;br&gt;경기도에 위치한 A 공공기관에서 시설운영직으로 근무 중인 진정인 B씨는 입사 전 경력과 군복무 경력이 연봉 등급 산정에 반영되지 않았다며 지난해 9월 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;이에 해당 공공기관은 시설운영직과 일반직은 채용 경로와 업무 범위가 달라 본질적으로 다른 집단이라고 했다. 시설운영직의 임금체계는 노사 합의에 따르는 점 등을 들어 차별에 해당하지 않는다고 덧붙였다. &lt;br&gt;&lt;br&gt;경북에 위치한 C 기관 소속 청원경찰 진정인 2명 또한 비슷한 취지로 지난해 5월 인권위에 진정을 제기했다. 산업기능요원 복무 경력이 일반직 공무원과 달리 호봉 산정시 인정되지 않고 있어 차별이라는 것이다. &lt;br&gt;&lt;br&gt;C 기관은 국가공무원과 청원경찰에게 적용되는 법령이 다르다며, 산업기능요원 경력을 군 경력으로 인정하려면 청원경찰법 개정이 선행돼야 한다고 했다. &lt;br&gt;&lt;br&gt;인권위 차별시정위원회는 A 기관에 대해 시설운영직에만 군복무 경력을 임금 산정에서 제외한 것은 합리적 이유 없이 불리하게 대우한 차별 행위에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;B기관에 대해서도 청원경찰에게만 동일한 기준이 적용되지 않는 것은 형평성에 어긋날 소지가 있다고 판단했다. 청원경찰법의 정비 주체인 경찰청장에게도 법령 개정의 필요성을 표명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>’BMW 급발진 의혹’ 배상 판결, 5년 만에 뒤집혀… 대법 “페달 오조작 가능성”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/29/FMECGETYGNCINDKLT6R7S2DZOY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/FMECGETYGNCINDKLT6R7S2DZOY/</guid>
@@ -866,15 +884,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FBEWIRE2XMTKUC7PV43CESCBD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 본거지를 두고 수억 원의 돈을 뜯어낸 보이스피싱 조직원들이 1심에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;28일 서울동부지법 형사12부(재판장 이정형)는 범죄단체 가입·활동, 범죄단체 가입 교사 등 혐의로 각각 구속 기소된 신모씨와 나모씨에게 징역 4년과 징역 1년 6개월을 선고했다. 이들은 캄보디아에 거점을 둔 보이스피싱 조직에서 활동한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들이 속한 ‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 가로챈 것으로 조사됐다. 조직은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 성매매 업소 실장을 사칭하는 ‘로맨스팀’ 등 범죄 수법에 따라 7개의 팀으로 나뉘어 운영됐다. 캄보디아에서 활동하던 조직원들은 비자 연장 등 문제로 잠시 한국에 들어왔다가 검거됐으며, 대부분 2030 MZ세대다.&lt;br&gt;&lt;br&gt;재판부는 “불특정 다수의 피해자를 상대로 조직적 사기를 벌인 단체에 가입해 활동하거나 이를 교사한 피고인들의 죄책이 매우 무겁다”며 “피고인들이 범행을 모두 인정한 점, 수사기관에 적극 협조한 점 등을 고려해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“비와서 우산으로 덮어준 것”...광복절날 소녀상에 비닐 씌운 50대, 내사 종결</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/28/2VCLSJIGCBHD7M3YM5LMQVE6OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/2VCLSJIGCBHD7M3YM5LMQVE6OY/</guid>
-      <dc:creator>안산=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 05:05:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCCAQLIR3JCTNMTT5JWIL6C5JA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안산 상록수역 '평화의 소녀상'./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광복절날 평화의 소녀상에 비닐을 씌운 50대가 형사 처벌을 면하게 됐다. &lt;br&gt;&lt;br&gt;경기 안산상록경찰서는 모욕 혐의를 받아온 A씨에 대해 입건 전 조사(내사) 종결할 계획이라고 28일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 광복 80주년이었던 지난 15일 오후 11시 46분쯤 안산시 상록구 상록수역 앞에 설치된 평화의 소녀상 얼굴과 상반신을 우산 비닐로 씌운 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이날 비가 내리던 중이었는데, A씨는 소녀상 주변에 우산대가 없는 상태로 버려진 우산 비닐로 소녀상을 덮고 5분여간 큰절을 했다. 그는 “소녀상이 비를 맞지 말라고 비닐을 덮어준 것”이라며 “평소에도 소녀상에 경의를 표해왔다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사건 전후 CCTV 영상을 확인한 뒤 A씨의 진술이 사실이라고 봤고, 모욕죄를 적용할 수 없다고 결론 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>드라마 촬영 후 제주 숲에 쓰레기 한가득… 민폐 논란에 제작사 사과</title>
       <link>https://www.chosun.com/national/national_general/2025/08/28/SJGJHWRSIVDDBBZDSTO7XALF5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/28/SJGJHWRSIVDDBBZDSTO7XALF5Q/</guid>
@@ -936,15 +945,6 @@
       <description/>
       <pubDate>Thu, 28 Aug 2025 00:30:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVZ7Z34M7J2CEZMXEQM6NLFSO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 12일  서울 서초구 서울중앙지방법원에서 구속 전 피의자 심문(영장실질심사)을 마치고 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 28일 김 여사를 재소환했다. 특검이 오는 29일 김 여사를 재판에 넘기겠다고 밝힌 만큼, 이날 조사는 기소 전 마지막 조사가 될 전망이다.&lt;br&gt;&lt;br&gt;서울남부구치소에 수감 중인 김 여사는 이날 오전 9시 28분쯤 호송차를 타고 특검 사무실이 있는 서울 광화문 KT웨스트빌딩에 도착했다. 김 여사를 태운 호송차는 지하주차장을 통해 빌딩 내부로 들어갔다.&lt;br&gt;&lt;br&gt;이번 조사는 김 여사가 지난 12일 구속된 후로 이뤄지는 다섯 번째 조사다. 특검은 이날 조사에서 도이치모터스 주가조작 의혹에 관한 부분을 집중적으로 추궁할 예정이다. &lt;br&gt;&lt;br&gt;김 여사는 2022년 4~8월 ‘건진 법사’ 전성배씨를 통해 통일교 측으로부터 6000만원대 다이아몬드 목걸이, 1000만원 내외 샤넬백 등과 함께 교단 현안 청탁을 받은 혐의(특정범죄 가중처벌법상 알선수재)를 받는다.&lt;br&gt;&lt;br&gt;이외에도 윤석열 전 대통령과 함께 2022년 대선 때 ‘정치 브로커’ 명태균씨로부터 58차례에 걸쳐 여론조사 결과를 무상으로 제공 받고, 그해 국회의원 보궐선거에서 김영선 전 국민의힘 의원이 공천받도록 영향력을 행사한 혐의(정치자금법 위반)와, 2009~2012년 발생한 ‘도이치모터스 주가조작 의혹’에 가담한 혐의(자본시장법 위반)도 받는다.&lt;br&gt;&lt;br&gt;구속 영장에 따른 김 여사의 구속 기간은 오는 31일까지다. 다만 특검이 김 여사를 기소하게 되면, 1심 재판이 진행되는 최대 6개월간 구속이 가능해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민주 박성준, 내란 특검 참고인 조사 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/28/PBXO7JOTAJDFDHJ5HCI56G5X4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/28/PBXO7JOTAJDFDHJ5HCI56G5X4Q/</guid>
-      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 00:05:30 +0000</pubDate>
-      <content:encoded>박성준 더불어민주당 의원이 28일 내란 특검의 참고인 조사를 받기 위해 특검에 출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2VIUYSTI5JOS5PYPGRNG653J4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성준 더불어민주당 의원이 28일 서울 서초구 서울고등검찰청에 마련된 내란특검 사무실로 참고인 조사를 받기 위해 출석하며 취재진 질문에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 의원은 이날 오전 내란 특검 사무실이 마련된 서울고검 청사에 출석하면서 “비상계엄 당시 국회 차원에서 어떤 일이 있었는지 말씀드릴 것”이라고 했다. 박 의원은 비상계엄 당시 민주당 원내수석을 지냈다. &lt;br&gt;&lt;br&gt;박 의원은 국민의힘을 겨냥해 “선출된 권력이 국민의 민의를 대변하지 않고 권력을 행사하면서 민주주의가 무너지는 것”이라면서 “국회의원들이 내란에 동조하고 비상계엄 해제를 방해하는 건 매우 중대한 민주주의 위기 시그널”이라고 했다.&lt;br&gt;&lt;br&gt;내란 특검은 12·3 비상계엄 당시 추경호 원내대표 등 국민의힘 지도부가 계엄 해제 표결을 방해했다는 의혹을 수사 중이다. 이와 관련해 특검은 우원식 국회의장, 민주당 백혜련·김상욱 의원, 국민의힘 조경태·김예지 의원을 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>남원 시민들, 시장 향해 “당신 돈으로 400억 물어내라”</title>
