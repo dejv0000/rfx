@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘폭염주의보’ 평택 텃밭서 일하던 70대 여성…쓰러져 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/IVU3B5U2RZCHPATGJQ7JPX5KTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/IVU3B5U2RZCHPATGJQ7JPX5KTA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 11:50:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q6MEYAU2ADN55ID5RXXL42EQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택의 한 텃밭에서 일하던 70대 여성이 쓰러져 숨졌다. &lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면 이날 오후 5시 30분쯤 경기 평택시 팽성읍의 한 텃밭에서 70대 여성 A씨가 쓰러진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 병원으로 옮겨졌으나 사망 판정을 받았다. &lt;br&gt;&lt;br&gt;A씨는 농사용 작업복을 입고 장화를 신고 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;평택지역은 이날 폭염주의보가 내려졌고, 낮 최고기온 34.5도를 기록했다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 사망 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“짬뽕 포장하러 갔다가”…상의 탈의한 업주에 ‘충격’</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/30/3MIXWOA6JNET7FNVQMNHOKGI5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/3MIXWOA6JNET7FNVQMNHOKGI5I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 10:46:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJ3MZQ4JTREPPJLSOM3YAJKLQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 한 중국집 업주가 상의를 탈의한 채 음식을 포장한다는 목격담이 전해졌다./ 네이버 카페 ‘아프니까 사장이다’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 중국집 업주가 상의를 탈의한 채 음식을 포장하는 모습이 목격됐다.&lt;br&gt;&lt;br&gt;30일 자영업자들이 모인 네이버 카페 ‘아프니까 사장이다’에는 동네 중국집에서 이 같은 장면을 봤다는 글이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 자신도 요식업에 종사하고 있다며 “수년째 단골로 다니던 인기 많은 중국집에 짬뽕을 포장 주문하러 갔다. 매장에는 에어컨도 선풍기도 없었다”며 당시 상황을 떠올렸다.&lt;br&gt;&lt;br&gt;그는 “포장하러 왔으니 10분 정도 더운 건 참을 수 있었다”면서도 “마스크와 위생모를 착용하지 않고 슬리퍼에 반바지 차림인 모습은 늘 봐왔지만, 상의를 벗은 채 손님 접대부터 포장 마감, 매장 테이블 청소까지 하는 건 납득이 안 된다”고 말했다.&lt;br&gt;&lt;br&gt;그가 올린 사진 속에는 반바지와 양말만 착용한 남성이 상의 탈의한 채 맨몸으로 음식을 검은 비닐봉지에 담는 모습이 담겼다. &lt;br&gt;&lt;br&gt;A씨는 이 남성이 “사장이거나 사장의 남편으로 보인다”고 했다. A씨는 “수년간 이해할 수 없는 운영을 봐왔지만, 상의 탈의는 위생법 위반 아니냐”며 “컨디션이 안 좋아서 밥 사러 나왔다가 여기가 중국인 줄 알았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “아무리 맛집이라도 더러워서 먹기 싫다” “충격이다. 구청에 민원 넣으라” “사진을 보고도 믿기 힘들다”는 등의 반응이 이어졌다.&lt;br&gt;&lt;br&gt;더운 날씨가 이어지고 있는 올여름, 상의 탈의가 논란이 된 건 이번이 처음이 아니다. 28일 한 온라인 커뮤니티에는 KTX에서 상의를 탈의하고 앉아가는 남성의 모습이 포착됐다. 공개된 사진을 보면, 한 남성 승객이 상의를 탈의한 채 열차 의자에 앉아 있는 모습이 담겼다. 남성의 팔과 옆구리 부분이 훤히 드러났지만, 승객은 주위 시선을 신경 쓰지 않는 모습이었다. &lt;br&gt;&lt;br&gt;공공장소에서 노출을 하면 공연음란죄나 경범죄로 처벌받을 수 있다. 공연 음란 행위를 한 자는 1년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처해질 수 있다. 공공장소에서 신체의 주요 부위를 노출하면 10만원 이하의 벌금, 구류 또는 과료 처분을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천안 도로포장 작업 60대 근로자 장비 깔려 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/SMCVMAXPVNAAZAOKTFL6AJQ4K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/SMCVMAXPVNAAZAOKTFL6AJQ4K4/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 11:03:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UDXPVTSQUST7EL5LLZL7E57WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 1시 53분쯤 60대 근로자가 장비에 깔려 숨지는 사고가 발생한 충남 천안시 동남구 용곡동 도로포장 작업 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안의 한 도로포장 작업 현장에서 60대 근로자가 장비에 깔려 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;30일 경찰과 소방 당국 등에 따르면 이날 오후 1시 53분쯤 충남 천안시 동남구 용곡동의 한 도로포장 작업 현장에서 근로자 A(63)씨가 아스콘 표면을 다지는 타이어 롤러에 깔렸다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 장비가 후진하는 과정에서 사고가 발생한 것으로 보고 현장 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보]행안부, 오늘 오후 7시 강릉시 일원 재난 사태 선포</title>
       <link>https://www.chosun.com/national/national_general/2025/08/30/3O7P4EPN3BD6LH64DLNDXDGWEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/3O7P4EPN3BD6LH64DLNDXDGWEA/</guid>
@@ -946,37 +973,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJENJ4IQDRGMRPWAZJFKPPM3OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 사회부총리 겸 교육부장관 후보자가 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 사회부총리 겸 교육부 장관 후보자가 과거 음주운전으로 적발됐던 당시, 혈중알코올농도가 0.187%였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;29일 김민전 국민의힘 의원실이 경찰청에서 받은 자료에 따르면, 최 후보자는 2003년 10월 17일 오전 1시 44분쯤 대전시 용문동 소재 도로에서 음주운전으로 경찰에 적발됐다. &lt;br&gt;&lt;br&gt;당시 최 후보자의 혈중알코올농도는 면허 취소 수준인 0.187%였다. 현행 도로교통법상 혈중알코올농도가 0.03% 이상, 2003년 기준으로는 0.05% 이상이면 음주운전에 해당한다. &lt;br&gt;&lt;br&gt;김민전 의원은 “혈중알코올농도 0.187%는 만취 상태로, 누구든 목숨을 앗아갈 수 있는 중범죄”라며 “교육계의 모범이 되어야 할 교육감이 음주운전을 했다는 것은 국민 상식에 반하는 일”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/BJENJ4IQDRGMRPWAZJFKPPM3OQ.jpg?auth=adfedb8e84eb5615ecf9e752474bb4213d8708c61502c4c7e7904f71de0eb9ea&amp;smart=true&amp;width=2135&amp;height=1201" type="image/jpeg" height="1201" width="2135">
         <media:description type="plain">최교진 사회부총리 겸 교육부장관 후보자가 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“속옷까지 벗으라더라”… 황보, 이스라엘 국경서 끌려간 사연</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 22:18:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V6UP5VQIFGZ5BXK4G7DOQVV44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 황보./KBS2&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 황보가 강한 인상으로 겪은 억울한 일을 떠올리며 이스라엘 국경에서 몸 수색까지 당했던 사연을 공개했다.&lt;br&gt;&lt;br&gt;황보는 지난 28일 방송한 KBS2 ‘옥탑방의 문제아들’에 출연해 ‘살면서 가장 억울한 일’에 대한 질문을 받자 “이상하게 공항이나 국경 검색대에서 나만 걸린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;과거 방송인 송은이, 김숙과 함께 해외여행을 떠난 황보는 이스라엘에서 요르단으로 국경을 넘기 위해 입국 심사를 받았다고 한다.&lt;br&gt;&lt;br&gt;송은이는 “걸어서 국경을 넘는 곳이라 가방을 끌고 국경을 넘었는데, 나랑 김숙만 (입국 심사를) 통과해 나왔다”며 “황보가 한참 있다가 나와서 물어봤더니 코웃음을 치면서 군인에게 잡혀갔다고 하더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;황보는 “국경 검색대에서 나를 불러내더니 어떤 공간에서 옷을 다 벗으라고 하더라. 속옷까지 싹 벗어야 했다. 이스라엘 여군이 나를 다 수색했다. 여군이 조사했지만 기분이 좋지 않았다”며 “내가 킬러처럼 보이나?”라고 했다.&lt;br&gt;&lt;br&gt;당시 황보는 20명 가까운 일행 중 유일하게 추가 몸 수색을 받았다고 한다.&lt;br&gt;&lt;br&gt;억울해하는 황보에게 패널들도 “미녀 스파이처럼 보인 거 아니냐” “황보는 이국적으로 보여서 그런 거 아니냐” 등의 이야기를 보탰다.&lt;br&gt;&lt;br&gt;이 밖에도 황보는 강한 인상 탓에 환불을 쉽게 하는 이른바 ‘환불 원정대’, 골초 등의 오해를 받는다며 억울해했다. 황보는 “난 살면서 환불을 단 한 번도 해본 적이 없다. 그리고 담배를 피운 적이 없다. 그런데도 사람들이 맨날 나 보자마자 ‘라이터 있냐’고 자주 묻는다”고 토로했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 “변호인 들어오지 말라”… 헌법상 방어권 무시 논란</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/YNJS75Q5QNGVDORC7YSW6RTZIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/YNJS75Q5QNGVDORC7YSW6RTZIU/</guid>
-      <dc:creator>오유진 기자, 김혜민 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 16:04:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CSQFZSSB5NRVIQSQ33KMINSEI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관이 28일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검팀(특별검사 조은석) 사무실로 조사를 받기 위해 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘평양 무인기 침투’ 의혹과 관련해 김용대 전 드론작전사령관을 수사 중인 내란 특검이 최근 김 전 사령관 측 변호사 입회를 막아 논란이 일고 있다. 특검 측은 “절차에 따라 문제가 있는 변호사의 참여를 중단시킨 것”이라는 입장이지만, 법조계에선 “헌법이 보장한 방어권 침해 논란을 부를 수 있다”는 말이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JNVW5KADVHERBEAUTF7LBWDCI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“변호인 없이 조사받으라”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 내란 특검은 지난 20일 오전 김 전 사령관이 조사를 받기 위해 출두하자 “A 변호사의 입회를 금지한다”며 변호사 참여를 막았다. A 변호사가 언론에 수사와 군사 비밀 자료를 유출했다는 게 이유였다. 이에 김 전 사령관은 “변호사 없이는 조사받기 곤란하다”고 했고, 이날 조사는 무산됐다. &lt;br&gt;&lt;br&gt;그러나 특검 측은 이날 오후 김 전 사령관에게 전화를 걸어 “특검법 규정상 변호인 참여 없이도 조사가 가능하다. 22일 출석해 조사받으라”고 한 뒤 “조사에 나오지 않으면 조사에 불응했다는 기록을 남기겠다”고 말했다고 한다. 김 전 사령관 측은 “변호인 조력권을 심각하게 침해했다”며 특검 조치에 대해 준항고했다. 김 전 사령관은 22일 조사에 불응했고, 28일 결국 변호사 없이 혼자 조사받았다.&lt;br&gt;&lt;br&gt;이에 대해 특검 측은 “특검법에는 변호인 참여와 관련해 대검 예규를 준용하도록 돼 있다”면서 “다른 변호인을 선임해 조사받으면 되는데, 김 전 사령관이 A 변호사만을 고집하고 있기 때문에 생긴 논란”이라는 입장이다. 차장검사 출신 한 변호사는 “소환 불응을 기록으로 남기겠다고 하면 피조사자는 심리적으로 위축될 수밖에 없다”면서 “특검이 변호인 없는 조사를 강요했다고 의심받을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇직권남용 피해자가 수사 맡아&lt;/b&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 구속을 취소한 법원 결정에 대해 심우정 전 검찰총장이 ‘즉시항고’를 하지 않은 것을 두고, 내란 특검은 심 전 총장이 윤 전 대통령의 내란 혐의를 수사한 검찰 특별수사본부(특수본) 수사팀의 권리를 침해했는지 여부를 수사 중이다.&lt;br&gt;&lt;br&gt;문제는 당시 특수본 소속이었던 일부 검사가 내란 특검에 파견돼 심 전 총장의 직권남용 혐의에 대한 수사를 맡고 있다는 것이다. 한 법조계 관계자는 “법리상 심 전 총장이 직권을 남용했으면, 특수본 검사들은 직권남용의 피해자다. 피해자에게 사실상 가해자 수사를 맡긴 셈이어서 이해 충돌 소지가 있다”며 “법관도 사건 당사자와 이해관계가 있으면 재판을 맡지 않는다”고 말했다.&lt;br&gt;&lt;br&gt;김건희 여사의 도이치모터스 주가조작 사건을 수사한 검사들이 특검에 파견돼 김 여사를 다시 수사하는 것도 논란이다. 이 검사들은 2020년 4월부터 이 사건을 수사해 4년 6개월 만에 불기소 처분해 ‘부실 수사’ 의혹을 받는 당사자들이기 때문이다. 검사장 출신 변호사는 “부실 수사 의혹을 받고 있는 검사들이 과거 실수를 만회하려고 무리한 수사를 진행할 수 있다”며 “수사팀을 조정할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THMWNKMG65G4NCY2AZUIQLBNEM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;“김건희 시계 사줬다” 로봇개 사업자 자택 압수수색 - 28일 김건희 여사 의혹을 수사 중인 민중기 특검팀이 김 여사에게 5000만원대 ‘바쉐론 콘스탄틴’ 시계를 건넨 로봇 개 수입 업체 대표 서성빈씨의 경기도 양평 집을 압수 수색했다. 사진은 서씨 자택 주차장에 있는 고급 롤스로이스 차량. 특검은 서씨가 그 대가로 정부의 로봇 개 관련 사업을 수주한 것으로 보고 수사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조계 “특검, 영장 청구 남발”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에선 특검이 영장 청구를 남발하고 있다는 지적도 나온다. 내란 특검은 지난 27일 한덕수 전 국무총리에게 ‘내란 방조’ 혐의를 처음 적용해 구속영장을 청구했다가 영장 심사 5시간 만에 기각됐다. ‘법적 평가와 관련해 다툴 여지가 있다’는 게 법원의 기각 사유다.&lt;br&gt;&lt;br&gt;법조계 한 인사는 “법원이 한 전 총리의 ‘국무회의 소집 건의’가 위법했다고 보기엔 무리가 있다고 판단한 것”이라고 말했다. 고법 부장 출신 한 변호사는 “형사 책임을 물으려면 사안을 신중하게 구분해야지, 일단 영장부터 청구하고 보는 식으로 수사가 진행되면 안 된다”고 했다.&lt;br&gt;&lt;br&gt;김건희 특검도 특혜 투자 의혹을 받는 렌터카 업체 IMS모빌리티 등에 대한 압수 수색 영장을 청구했다가 기각된 바 있다. 법원은 당시 “특검 수사 범위에 해당하지 않는다”고 했다. 이후 특검은 재차 영장을 청구해 발부받았다.&lt;br&gt;&lt;br&gt;순직 해병 특검은 임성근 전 해병대 1사단장의 구명 로비 의혹과 관련해, 김장환 극동방송 이사장과 이영훈 여의도순복음교회 담임목사 등을 압수 수색했다가 개신교계에서 “참고인을 피의자 다루듯 했다” “종교의 자유를 심각하게 침해했다” 등의 반발을 샀다. 이후 수사는 별다른 진척이 없는 상황이다. 김건희 특검도 지난 7월 통일교 본부를 압수 수색하며 통일교 성물(聖物)을 발로 건드리는 등 과잉 수사 논란을 불렀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘싸이 수면제 사건’ 남의 일 아니다… 약 대리 수령·국내 재반입은 불법</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/08/29/QIJJLJ7LAFDGRCCS4S2FFRMPBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/29/QIJJLJ7LAFDGRCCS4S2FFRMPBE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>지난 22일 일본으로 여행을 갔다가 인천공항으로 입국한 A씨는 당혹스러운 일을 겪었다. 파킨슨병을 앓고 있는 A씨는 수면제로도 쓰이는 ‘리보트릴’을 국내에서 처방받아 일본에 들고 갔다가 남은 걸 가져왔는데, 세관에 압수당한 것이다. A씨는 “병원에서 처방받은 약이라고 얘기했는데도 안 먹히더라”고 말했다. &lt;br&gt;&lt;br&gt;A씨가 이런 일을 당한 건 ‘리보트릴’이 ‘향정신성의약품’으로 분류되기 때문이다. 마약류관리법에 따르면, 마약류 성분이 함유된 의약품이나 수면제, 각성제, 식욕억제제 등 향정신성 의약품을 국내로 들여오는 것은 불법이다. 우리 국민이 해외여행을 갔다가 현지에서 구입한 것이든, 외국인이 본국에서 사온 것이든 모두 반입이 금지된다. 국내에서 정당하게 처방받은 약품도 식품의약품안전처 승인 없이 국내로 들고 들어오면 ‘불법 반입’이 된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSSRR3R32FBTBD74X7JRNZYEBE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예외적으로 미리 신고하고&lt;b&gt; &lt;/b&gt;승인받은 약품은 반입이 허용된다. 그 때문에 해외에 나갈 때 복용해야 하는 마약류 의약품이 있다면 미리 신고를 해야 한다. 신고는 ‘의약품 안전나라’ 홈페이지에서 할 수 있다. 이름과 여권 번호, 방문 국가, 의약품의 주성분 등을 입력하고 병원 진단서와 처방전도 첨부해야 한다. 승인 처리에는 최장 10일이 걸리는 만큼 여유를 두고 미리 신고하는 게 좋다. 이 경우에도 약품은 최대 3개월 치까지만 들여올 수 있다. &lt;br&gt;&lt;br&gt;방문하는 국가의 마약류 의약품 반입 규정도 사전에 확인하는 것이 좋다. 우리나라에서 처방받은 약이라도 일부 국가에선 오남용, 불법 유통 문제로 반입을 허용하지 않을 수 있기 때문이다. 국가별 반입 규정은 관세청이 운영하는 ‘해외통관지원센터’ 홈페이지에서 확인할 수 있다. 영문 처방전도 챙기는 게 좋다. 해외 입국 과정에서 약품 소지 이유에 대한 증빙 자료로 쓸 수 있다. &lt;br&gt;&lt;br&gt;일각에선 의사와 약사가 마약류 성분이 들어간 약을 처방할 때는 환자에게 분명하게 알려줘야 한다는 지적도 나온다. 환자가 처방받은 약의 성분이 무엇인지, 신고 대상인지 등을 알기 어렵기 때문이다. 라이터 등 비행기 탑승 시 소지하면 안 되는 물품을 항공사가 알려주는 것처럼, 의약품도 고지해줄 필요가 있다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BWIH2O2ECFFSFHM6VKB5JUUM4M.png?auth=39691b3853d51836c6393b52cb8d61c00366fe33e3ac2b724a41b2f25c02d46c&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">일러스트=조선디자인랩 한유진</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
     </item>
     <item>
