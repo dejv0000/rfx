@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>선원·낚시꾼 19명 태운 어선 충돌 후 전복…전원 구조</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/OXO6YYZDXFDJXOJR2AQMUT3P5Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/OXO6YYZDXFDJXOJR2AQMUT3P5Q/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 04:38:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4BZ7R4ENJMRTK52CFYG7FAAQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오전 5시 18분쯤 경남 거제시 양지암취 북동방 약 1.8㎞ 해상에서 19명이 승선한 9ｔ급 낚시어선 A호와 3명이 타고 있던 4ｔ급 어선 B호가 충돌하는 사고가 발생해 A호가 전복됐다. 다행히 인명피해는 없었다. 사진은 사고 현장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 시간대 선원과 낚시꾼 19명을 태운 어선이 다른 어선과 충돌 후 뒤집히는 사고가 발생했으나 다행히 인명 피해는 없었다. &lt;br&gt;&lt;br&gt;30일 해양경찰 등에 따르면 이날 오전 5시 18분쯤 경남 거제시 양지암취 북동방 약 1.8㎞ 해상에서 9t급 낚시 어선 A호와 4t급 어선 B호가 충돌했다. &lt;br&gt;&lt;br&gt;이 사고로 선체에 물이 들어오면서 A호가 전복됐다. &lt;br&gt;&lt;br&gt;침수가 시작되자 A호에 타고 있던 선원 2명과 낚시꾼 17명은 B호와 인근의 다른 어선에 옮겨 타 모두 구조됐다. &lt;br&gt;&lt;br&gt;B호의 경우도, 선박 운항이 가능한 상태였고, 인명 피해는 발생하지 않았다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 창원해경은 경비함정과 연안구조정 등을 투입해 구조된 사람들을 모두 경비함정에 태워 거제 외포항에 입항시켰다. &lt;br&gt;&lt;br&gt;해경은 A호 선체 왼편 선저부(바닷물에 잠긴 부분)와 B호 뱃머리 부분이 부딪히면서 선체가 피손돼 구멍이 발생한 것으로 보고, 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘치정 문제’ 갈등 상대 잔혹하게 살해한 50대女… 징역 35년</title>
       <link>https://www.chosun.com/national/court_law/2025/08/30/ZGGZ3DEIRFB2RF6AWOS53T2ZXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/30/ZGGZ3DEIRFB2RF6AWOS53T2ZXU/</guid>
@@ -929,15 +938,6 @@
         <media:description type="plain">김영훈 고용노동부 장관이 지난 22일 서울 중구 서울고용노동청에서 본지와 인터뷰하는 모습. 그는 원·하청 격차 해소를 위해 기존의 기업별 노사 교섭 대신, 초기업 단위 교섭 제도가 필요하다고 밝혔다. /박성원 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>BTS 명의로 알뜰폰… 16명에 390억 뜯어</title>
-      <link>https://www.chosun.com/national/incident/2025/08/29/Y6P3NGOAFNEXBFCHLS2VYNVRPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/29/Y6P3NGOAFNEXBFCHLS2VYNVRPU/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>국내 재력가들의 개인 정보를 해킹하고, 알뜰폰을 무단으로 개통해 390억원을 빼돌린 국제 해킹 조직이 경찰에 붙잡혔다. 이들은 수감자나 해외 체류 등 대포폰을 개통해도 알아차리기 어려운 사람들을 주요 타깃으로 삼은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 28일 국제 해킹 조직 총책인 중국 국적 A(35)씨와 B(40)씨, 국내외 조직원 등 총 18명을 검거했다고 밝혔다. 이들은 지난 2023년 7월부터 올해 4월까지 해킹을 통해 무단 개통한 피해자 명의 ‘알뜰폰’을 범죄 도구로 삼아 피해자 16명에게서 390억원을 빼앗고, 10명에게서 250억원을 가로채려고 시도한 혐의를 받고 있다. 중소 사업자들이 운영하는 ‘알뜰폰’ 통신사가 주요 이동통신 3사 대비 보안에 취약한 점을 노린 것이다. 이들의 표적이 돼 개인·금융·인증 정보가 유출된 피해자는 총 258명이었다.&lt;br&gt;&lt;br&gt;해킹 조직은 온라인으로 이뤄지는 ‘비대면 본인 인증 서비스’의 보안 취약점을 집중 공략했다. 정부·공공기관과 민간 기업 온라인 웹사이트를 해킹해 개인·금융·인증 정보를 모았다. 이를 가지고 피해자 명의 알뜰폰 118대를 몰래 개통했다. 이 알뜰폰과 해킹으로 얻은 개인 정보로 피해자들의 은행·증권 계좌와 가상 자산 거래소 계정에 침입해 돈을 가로챘다. 경찰 관계자는 “알뜰폰과 해킹 기술로 공인 인증서와 아이핀 같은 다중 인증 체계를 모두 무력화했다는 점에서 전례가 없는 사건”이라고 밝혔다.&lt;br&gt;&lt;br&gt;주요 표적은 돈이 많은 저명 인사들이었다. 교정 시설에 수감된 기업 회장, 해외에 체류 중이거나 군에 입대한 연예인 등 휴대폰 무단 개통에 바로 대응하기 어려운 재력가들을 노렸다. 범행 대상으로 삼은 피해자 258명이 보유한 자산 규모는 총 55조2200억원으로 집계됐다. 피해자 중 70명이 대기업 회장이나 기업 대표였고, 재계 100대 그룹에 속한 피해자만 22명이다. 국내 주요 재벌 그룹 회장과 유명 아이돌 그룹 ‘BTS(방탄소년단)’의 정국(본명 전정국·28) 같은 유명 인사들도 포함됐다. 정국은 해킹 직후 소속사가 조치에 나서 금전적 피해를 당하지는 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>與, 지귀연 판사 석달 넘게 공격… 법조계 “대법, 문제 있든 없든 결론내야”</title>
