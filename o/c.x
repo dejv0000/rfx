@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘국내산 100%’ 땅콩버터라더니... 이 제품서 발암물질 나왔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/30/S7OICEQUXRDTNNJBYFZLD3XWXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/S7OICEQUXRDTNNJBYFZLD3XWXQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 06:57:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXR4S3NXENGCFO6PRAQACBHDGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;회수 조치된 ‘너티풀 땅콩버터스무스’./식품의약품안전처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국내산 땅콩 100%’를 내세운 땅콩버터 제품에서 발암물질이 검출돼 회수 조치됐다.&lt;br&gt;&lt;br&gt;30일 식품의약품안전처는 ‘너티풀 땅콩버터스무스’에서 곰팡이 독소인 아플라톡신이 기준치를 초과해 검출됐다며 판매 중단 및 회수 조치에 들어갔다고 밝혔다.&lt;br&gt;&lt;br&gt;문제가 된 제품은 경기 고양시의 식품 제조·가공업체 ‘푸드홀릭’이 만들고, 서울 강남구 소재 ‘큐브릭코퍼레이션’이 유통·판매한 것이다. 회수 대상은 소비 기한이 2026년 8월 18일로 표시된 제품이며, 총 생산량은 567.8㎏, 약 2839개가 시중에 유통됐다.&lt;br&gt;&lt;br&gt;아플라톡신은 고온다습한 환경에서 곡류·견과류에 잘 발생하는 곰팡이 독소로, 국제암연구소(IARC)가 발암 물질로 분류하고 있다. 다량 섭취할 경우 출혈, 설사, 간경변 등을 일으킬 수 있다.&lt;br&gt;&lt;br&gt;식약처 관계자는 “고양시청에 해당 제품을 신속히 회수하도록 조치했다”며 “구매한 소비자는 즉시 섭취를 중단하고 구입처에 반품해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김포 농수로에서 실종된 70대 남성, 인근 하천서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/LKP6RFVEHZBBPHUT63LD5SG5YA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/LKP6RFVEHZBBPHUT63LD5SG5YA/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 07:11:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IS3YOPVOOUJWNJCP3UDNJCECM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수색 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포의 한 농수로에서 실종된 70대 남성이 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;30일 경기도소방재난본부 등에 따르면 전날 오후 2시 57분쯤 경기 김포시 고촌읍 태리에서 A(70)씨가 실종됐다는 신고가 119에 접수됐다. &lt;br&gt;&lt;br&gt;A씨는 발전기 조작을 위해 농수로에 내려갔다가 실종된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 구조대원 등 44명과 차량 8대를 동원해 실종 지점 주변 논밭과 하천 등지를 수색했고, 하루 만인 이날 오후 1시 54분쯤 인근 하천에서 숨진 A씨를 발견했다. &lt;br&gt;&lt;br&gt;경찰은 범죄 혐의점은 없는 것으로 보고, 정확한 사인 파악을 위해 국립과학수사연구원에 부검을 의뢰하는 한편, 구체적인 사고 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>선원·낚시꾼 19명 태운 어선 충돌 후 전복…전원 구조</title>
       <link>https://www.chosun.com/national/incident/2025/08/30/OXO6YYZDXFDJXOJR2AQMUT3P5Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/OXO6YYZDXFDJXOJR2AQMUT3P5Q/</guid>
@@ -940,15 +958,6 @@
       </media:content>
     </item>
     <item>
-      <title>與, 지귀연 판사 석달 넘게 공격… 법조계 “대법, 문제 있든 없든 결론내야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/55SOLYK5RJDO5N552BGUBMG6FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/55SOLYK5RJDO5N552BGUBMG6FI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 내란 사건 재판을 맡고 있는 지귀연 서울중앙지법 부장판사에 대한 여권의 공격이 3개월 넘게 이어지고 있다. 지난 5월 더불어민주당 의원들이 “지 부장판사가 룸살롱 접대를 받았다”며 의혹을 제기하면서부터다. 이에 대해 대법원은 진상 조사를 벌였지만 아직까지 결과를 내놓지 않고 있다. &lt;br&gt;&lt;br&gt;28일 본지 취재를 종합하면, 대법원 윤리감사관실은 지 부장판사의 소명서와 현장 조사 등을 바탕으로 ‘의혹이 증명되지 않는다’고 사실상 판단한 것으로 알려졌다. 하지만 이 의혹이 고위공직자범죄수사처에 고발돼 있다는 이유로 대법원 차원의 공식 결론을 내리길 미루는 분위기다. 법조계에서는 “대법원이 중요 재판을 맡은 법관에게 문제가 있다면 인사 조치를 하고, 없으면 결백하다고 밝혀야 하는데 정치권과 여론의 눈치를 보며 사법 신뢰를 떨어뜨리고 있다”는 말이 나온다.&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 지난 26일 국회 법제사법위원회에 출석해 이 의혹과 관련해 “윤리감사관실에서 (룸살롱) 현장과 제출된 증거를 확인한 바로는 객관적으로 (접대 의혹이) 증명됐다는 자료가 부족한 것 같다”며 “(의혹이) 명확히 증명됐다면 대법원이 특별한 조치를 취했을 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 대법원은 지난 5월 민주당 김용민 의원 등이 “지 부장판사가 작년 8월쯤 서울 강남 룸살롱에서 직무 관련자에게 수백만 원 상당의 접대를 받았다”는 의혹을 제기하자 감사에 착수했다. 김 의원 측에서 지목한 강남구 룸살롱을 방문해 조사했고, 지 부장판사의 소명서와 카드 결제 내역 등도 제출받았다. 지 부장판사는 소명서에서 “법조계 후배들에게 밥을 사준 뒤 술자리 전 귀가했다”고 해명했다고 한다. 법원의 한 관계자는 “룸살롱 접대 의혹의 실체가 없다고 판단한 것으로 알고 있다”며 “다만 대법원이 먼저 나서서 ‘문제없다’고 밝히는 것을 부담스러워하는 것 같다”고 전했다. &lt;br&gt;&lt;br&gt;대법원이 결론을 미루는 사이 민주당은 지 부장판사에 대한 공격을 계속하고 있다. 추미애 민주당 의원은 전날 자신의 페이스북에 “양심 있는 제보자가 (지 부장판사의) 접대비로 650만원을 송금한 내역을 갖고 있다고 밝혔다. 대법원은 지 부장판사에 대한 신속한 인사 조치로 최소한의 책임을 보여야 한다”는 글을 올렸다.&lt;br&gt;&lt;br&gt;한 고법판사는 “지 부장판사는 중앙지법에서 가장 중요한 윤석열 전 대통령 등의 내란 재판을 맡고 있는데, 감사 결과에 문제가 없다면 국민들에게 빨리 밝혀 의혹을 잠재우는 게 맞는다”며 “스스로 결론 내지 못하고 공수처 수사 결과가 나올 때까지 기다린다는 것 자체가 사법부 신뢰를 떨어뜨리는 일”이라고 했다.&lt;br&gt;&lt;br&gt;한편, 지난 5월 지 부장판사의 뇌물 혐의 고발장을 접수한 공수처는 아직 대법원의 감사 자료도 확보하지 못하는 등 수사가 지지부진한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>유·초·중·고 학생 1년새 13만명 줄어</title>
       <link>https://www.chosun.com/national/education/2025/08/29/TLP4JSFX4FGU7HGWIDR4KIPQK4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/29/TLP4JSFX4FGU7HGWIDR4KIPQK4/</guid>
@@ -969,15 +978,6 @@
         <media:description type="plain">일러스트=조선디자인랩 한유진</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘재산 누락’ 與 이병진 의원, 2심도 당선 무효형</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/4BLN62LDKZFN7E4XBE27UVP4KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/4BLN62LDKZFN7E4XBE27UVP4KE/</guid>
-      <dc:creator>수원=김수언 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>작년 4월 총선에 출마하며 재산을 축소 신고한 혐의 등으로 기소된 이병진 더불어민주당 의원(경기 평택을)이 1심에 이어 2심에서도 당선 무효형을 선고받았다. &lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 28일 이 의원의 공직선거법 위반 사건에 대해 1심과 같이 벌금 700만원을 선고했다. 부동산 실명제 위반 혐의에 대해선 벌금 500만원을 선고했다. 이 판결이 대법원에서 확정되면 이 의원은 의원직을 잃는다.&lt;br&gt;&lt;br&gt;이 의원은 선거관리위원회에 후보자 재산 신고를 하면서 5억5000만원 채권을 누락한 혐의로 불구속 기소됐다. 자기 땅을 다른 사람 명의로 등기해 부동산 실명제를 위반한 혐의도 받는다. &lt;br&gt;&lt;br&gt;이날 신영대 민주당 의원의 선거사무장을 지낸 강모씨도 징역형을 선고받았다. 이 형이 대법원에서 확정되면 신 의원은 의원직을 잃는다. &lt;br&gt;&lt;br&gt;공직선거법에 따르면, 선거사무장이 300만원 이상 벌금형이나 징역형을 받으면 의원의 당선이 무효가 된다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 김종호)는 지난해 총선 경선 과정에서 여론조사 결과를 조작한 혐의로 기소된 강씨에게 징역 1년에 집행유예 2년을 선고했다. 재판부는 같은 혐의로 기소된 정모 전 보좌관과 심모 보좌관에겐 각각 징역 1년 4개월을 선고했다. 모두 1심과 같은 형이다.&lt;br&gt;&lt;br&gt;이들은 2023년 12월 총선 경선 당시 카카오톡 단체 대화방 등을 통해 민주당 전북 군산·김제·부안갑 여론조사 결과를 조작한 혐의를 받고 있다. 이 경선에서 신 의원은 김의겸 전 의원을 누르고 공천을 받았다. 신 의원은 새만금 태양광 사업과 관련해 뇌물을 수수하고 당내 경선 여론조사를 조작한 혐의로 불구속 기소돼 1심 재판을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘딩크’ 원했던 아빠, 삼둥이 낳고 ‘출산 전도사’ 됐죠</title>
