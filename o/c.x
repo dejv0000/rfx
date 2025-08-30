@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘치정 문제’ 갈등 상대 잔혹하게 살해한 50대女… 징역 35년</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/30/ZGGZ3DEIRFB2RF6AWOS53T2ZXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/30/ZGGZ3DEIRFB2RF6AWOS53T2ZXU/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 02:32:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QHDQJOWKRQMW3FFF56F6ZBQAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지방법원 고양지원./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치정 문제로 갈등을 겪던 60대 여성을 잔혹하게 살해한 50대 여성에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;30일 법조계에 따르면 의정부지법 고양지원 형사1부(재판장 김희수)는 살인과 사체손괴 등 혐의로 구속기소 된 50대 여성 A씨에 대해 징역 35년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2월 21일 오후 6시쯤 경기 고양시 덕양구의 한 중식당에서 업주 60대 여성 B씨를 살해한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;당시 B씨는 목 부위 등이 훼손돼 숨진 채 발견됐고, 손 부위 등을 다친 A씨도 약에 취해 의식을 잃고 쓰러져 있었다. &lt;br&gt;&lt;br&gt;외부인이 드나든 흔적을 찾지 못한 경찰은 A씨를 용의자로 지목했고, A씨는 병원 치료 후 자신이 B씨를 살해했다고 자백했다. &lt;br&gt;&lt;br&gt;A씨는 숨진 B씨의 사실혼 관계 남편 C씨와 내연 관계로, 사건 당시 B씨가 운영하는 식당을 찾아가 말다툼을 벌이다 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 이전에 구입해 둔 흉기로 피해자를 살해하는 등 계획적으로 범행했다”며 “머리 등을 수십 회 찔러 치명상을 입히는 등 수법이 매우 잔혹하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피해자 유족은 사실혼 배우자의 불륜 상대방인 피고인으로부터 수긍할 수 없는 이유로 갑자기 가족을 잃고 극심한 정신적 고통을 겪고 있으나, 피고인은 피해 회복을 위한 아무런 조처를 하지 않고 있다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여자친구 얼굴 발로 차고 스토킹…30대 태권도 사범 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/RQJACCED4ZHTRJR3QFVMDYTPII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/RQJACCED4ZHTRJR3QFVMDYTPII/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 01:31:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q6MEYAU2ADN55ID5RXXL42EQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길거리에서 여자친구의 얼굴을 발로 차는 등 폭행하고 스토킹한 태권도 사범이 구속됐다. &lt;br&gt;&lt;br&gt;경이 일산동부경찰서는 상해와 스토킹범죄처벌법 위반 등 혐의로 30대 남성 A씨를 구속했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 10시쯤 경기 고양시 일산동구의 한 길가에서 여자친구 B씨의 얼굴을 발로 차는 등 폭행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;태권도 사범인 A씨는 지인들과 함께한 술자리에서 B씨와 말다툼을 벌이다 범행한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 범행 후에도 B씨에게 지속적으로 연락하는 등 스토킹한 혐의도 받는다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 사건 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경기 부천 경인고속도로서 80대 남성 차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/HYVSL5WXOVDB3KHBP2KHUG4JYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/HYVSL5WXOVDB3KHBP2KHUG4JYI/</guid>
+      <dc:creator>이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 00:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZSJ5VQWQ6ZJX3S45VOQRI43AE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경인고속도로에서 길을 건너던 80대 남성이 차에 치여 숨졌다. &lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면 이날 오전 4시쯤 경기 부천시 고강동 경인고속도로 인천 방면 22.7㎞ 지점에서 80대 A씨가 승용차 2대에 잇따라 치여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;A씨는 고속도로 중앙분리대 지점에서 사고를 당한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 고속도로에 들어간 이유 등 정확한 사고 경위를 조사하고, 사고 차량 운전자들을 입건할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무더위 속 전국 대부분 소나기…월요일까지 비 이어져</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/08/30/RHK2VXQX4NAD5LSIBKA5PXRAXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/30/RHK2VXQX4NAD5LSIBKA5PXRAXU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 00:42:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFNJT2OHCBESZPI7XEZV2AQENU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오전 서울 광화문 일대에 소나기가 내리고 있다. 이날 서울의 낮 기온은 최고 34.7도까지 올라 무더웠다. 비가 내리면서 습도가 상승해 체감 온도는 더 높았다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말 동안 전국 대부분 지역에 소나기가 내리겠다. 기온은 당분간 최고 체감 온도가 35도 안팎으로 오르는 등 매우 무더울 전망이다.&lt;br&gt;&lt;br&gt;30일 기상청에 따르면, 이날 새벽 수도권과 강원도를 중심으로 시간당 30㎜ 안팎의 매우 강한 소나기가 내리면서 서울 서남권과 경기 남양주·광주·양평·가평, 강원 홍천·횡성에 호우특보가 내려졌다. &lt;br&gt;&lt;br&gt;현재 우리나라는 북태평양고기압 가장자리에 놓여 있다. 북태평양고기압 가장자리를 따라 고온다습한 남서풍이 우리나라로 불어 들어오고, 이 공기가 상승하면서 대기 불안정이 발생했기 때문에 소나기가 내리는 것이다.&lt;b&gt; &lt;/b&gt;소나기가 내리면 같은 시·군·구 안에서도 강수량 차이가 매우 크게 나타날 수 있다.&lt;br&gt;&lt;br&gt;이날 오후까지 수도권과 강원도, 충남 북부, 충북 중·북부에 소나기가 내릴 것으로 보인다. 오후에는 그 밖의 충청권과 호남권, 영남 서부 내륙, 제주도에 소나기가 내릴 것으로 예보됐다. 일부 전남 동부 내륙과 경남 서부 내륙에는 저녁까지 소나기가 이어지겠다.&lt;br&gt;&lt;br&gt;이날 소나기 예상 강수량은 수도권·강원도 5~60㎜, 충청·호남·영남권 5~30㎜, 제주도 5~20㎜ 등이다.&lt;br&gt;&lt;br&gt;일요일인 31일 남부지방 중심으로 내리기 시작하는 비는 9월 1일 전국으로 확대되겠다. 31일 늦은 새벽부터 제주도에, 오전부터 남부지방에, 밤부터 수도권과 강원 내륙·산지, 충청권에 비가 내릴 것으로 예보됐다. 1일은 전국 대부분 지역에 비가 내릴 것으로 보인다.&lt;br&gt;&lt;br&gt;31~1일 예상 강수량은 수도권·강원도·충청권 30~80㎜, 호남권 5~60㎜, 영남권 5~80㎜, 제주도 10~80㎜ 등이다.&lt;br&gt;&lt;br&gt;31일에는 5~60㎜가량의 소나기도 내릴 전망이다. 늦은 새벽부터 오후 사이 수도권과 강원 내륙·산지, 충청권에 소나기가 내릴 것으로 보인다. 일부 충북에는 저녁까지 소나기가 이어지겠다.&lt;br&gt;&lt;br&gt;기상청은 “비나 소나기가 내리는 지역에서는 돌풍과 함께 천둥·번개가 치는 곳이 있겠다”며 “특히 30일 아침까지 수도권과 강원 내륙·산지에 시간당 30㎜ 안팎의 매우 강한 소나기가 내리는 곳이 있겠으니 시설물 관리와 안전 사고에 유의하기 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 전국 대부분 지역에 폭염특보가 발효된 가운데, 30~31일 낮 최고기온은 각각 30~35도, 30~34도로 예보됐다. 특히 서풍 계열의 바람이 산맥을 타고 넘으면서 동쪽 지역을 중심으로 기온이 오를 것으로 보인다. 폭염경보가 내려진 전남권과 경상권을 중심으로는 체감 온도가 35도 안팎으로 오르는 등 매우 무덥겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘백신 입찰담합’ 제약사·도매상 과징금 소송 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/30/7JS5REW67VHSVCAST6PBJ4JGVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/30/7JS5REW67VHSVCAST6PBJ4JGVM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 00:38:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T26VCNEJREZFMMZOJGSD4CFAXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 2023년 10월 19일 서울의 한 병원에서 백신 접종을 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백신 입찰에서 6년 동안 담합해 과징금 처분을 받은 제약사와 의약품 도매상들이 소송을 제기했지만 잇따라 패소하고 있다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울고법 행정6-1부(재판장 황의동)는 팜월드·지엔팜·웰던팜 등 의약품 도매상이 공정거래위원회를 상대로 낸 시정명령 등 취소 소송에서 최근 원고 패소 판결했다.&lt;br&gt;&lt;br&gt;팜월드 등은 시장에서 경쟁을 제한하는 ‘경쟁 제한성’이 존재하지 않는다고 주장했지만, 법원은 이를 받아들이지 않았다. 재판부는 “원고들의 공동행위는 입찰 자체의 경쟁뿐 아니라 입찰에 이르는 과정에서 경쟁을 부당하게 제한한 행위로서 부당한 공동행위에 해당한다”고 했다. 또한 “공동행위로 경쟁이 감소해 가격, 수량, 품질, 기거래 조건조건 등의 결정에 영향을 미치거나 미칠 우려가 있다고 봄이 상당하다”고 판시했다.&lt;br&gt;&lt;br&gt;공정위는 2023년 7월 글로벌 백신 제조사 글락소스미스클라인과 6개 백신 총판, 25개 의약품 도매상 등 32곳의 백신 입찰 담합 행위를 적발해 과징금 409억원을 부과했다. 2013년 2월부터 2019년 10월까지 질병관리청, 국방부 등이 조달청을 통해 발주한 백신 구매 입찰 170건에서 사전에 낙찰 예정자와 들러리 업체를 정하고 가격을 담합한 데 대한 제재였다. 해당 백신은 인플루엔자·간염·결핵 백신 등 정부 예산으로 무료 접종하는 국가예방접종사업(NIP) 대상이었고, 입찰 규모는 7000억원이었다.&lt;br&gt;&lt;br&gt;이번에 패소한 팜월드·지엔팜·웰던팜은 각각 10억4100만원·4억4600만원·7800만원의 과징금을 받았다. 앞서 백신 총판인 유한양행과 광동제약도 같은 취지의 소송을 냈지만 지난달 10일과 24일 각각 패소했다. 공정위 판단은 1심 판결과 같은 효력이 있어서 공정위 제재에 불복해 행정소송을 제기하면 서울고법이 심리한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘채 상병 사망 당시 군 정보 담당’ 황유성 전 방첩사령관 특검 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/30/5STMW4J4U5ADXFWUTUVGBDI7P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/30/5STMW4J4U5ADXFWUTUVGBDI7P4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 01:20:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTJGNZZCYFN7HIEBQTGKE27WNI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;황유성 전 국군방첩사령관이 30일 오전 서울 서초구 '순직 해병 특검'에 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 채수근 상병 사망 당시 군 정보 업무를 담당했던 황유성 전 방첩사령관이 30일 순직 해병 특검에서 참고인 조사를 받고 있다.&lt;br&gt;&lt;br&gt;황 전 사령관은 이날 오전 9시 25분쯤 서울 서초구 해병 특검 사무실에 나왔다. 그는 ‘VIP 격노설’을 파악했나‘, ’수사 외압 정황을 알고 있었나‘, ’이종섭 당시 국방부 장관에게 어떤 지시를 받았느냐‘, ‘사건 초동 조사 결과 보고가 이뤄진 후 대통령실 군사보좌관과 통화한 이유가 무엇인가’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다.&lt;br&gt;&lt;br&gt;황 전 사령관은 2022년 11월부터 2023년 11월까지 군 정보를 수집·관리하는 방첩사 사령관이었다. 해병 특검은 2023년 7월 채 상병 사망 당시 국방부와 해병대 내부에서 발생한 사건 조사·이첩·회수·재조사 과정과 관련해 황 전 사령관이 어떤 내용을 보고받고 지시했는지, 이종섭 당시 국방부 장관이 어떤 지시를 했는지 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;앞서 특검은 방첩사가 2023년 7~8월 작성한 동향 보고 자료를 확보했다. 이 문건에는 ‘임성근 전 해병대 1사단장을 과실치사 혐의자에서 빼라는 상부의 지시가 있었다’는 내용이 담겼다고 한다. 이에 대해 이종섭 전 장관 측은 “임 전 사단장을 혐의자에서 빼라는 지시를 한 적 없다”며 “방첩사의 문건은 박정훈(대령) 해병대 수사단장과 김계환 전 해병대 사령관 등의 말을 토대로 작성된 것으로 추정되는데, 주관적 평가가 배제된 객관적 사실인지 불분명하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서초 내곡동 비닐하우스 화재로 1명 숨져...여의도선 전기 자전거 배터리 추정 화재</title>
+      <link>https://www.chosun.com/national/incident/2025/08/30/3WQBKAHHUBGSLFUD3TRR6JZ7BM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/3WQBKAHHUBGSLFUD3TRR6JZ7BM/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 00:11:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7WRXFISHXQLLN4UJFDB7SAPZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 서초구 내곡동 비닐하우스 화재/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 서초구 내곡동 화훼단지에서 불이 나 한 명이 숨졌다.&lt;br&gt;&lt;br&gt;30일 소방 당국에 따르면, 이날 오전 3시 40분쯤 내곡동 화훼단지에서 불이 나 비닐하우스 3동이 불타고 1명이 숨졌다. 주민 신고를 받고 출동한 소방 당국은 오전 3시 50분쯤 대응 1단계를 발령하고 화재 발생 1시간 32분 만인 5시 12분쯤 큰 불길을 잡았다. 소방 당국은 정확한 화재 원인과 사망자 신원을 확인 중이다. 굴착기를 동원해 추가 인명 피해가 있는지도 확인하고 있다.&lt;br&gt;&lt;br&gt;전날인 29일 오후 7시 14분쯤에는 서울 영등포구 여의도동에 세워진 공유 전기 자전거에서 배터리가 원인으로 추정되는 불이 났다. 열 폭주(배터리 화재 특유의 연쇄 폭발) 현상을 보이던 불은 8분 만에 꺼졌고 인명 피해는 없었다. 소방청에 따르면, 지난 2020년부터 2024년까지 최근 5년간 발생한 국내 소형 리튬이온 배터리 화재는 총 678건으로 이 중 92%(627건)가 전기 이륜차 배터리였다. 지난 18일에도 서울 마포구 창전동 소재 아파트에서도 전동 스쿠터용 배터리가 원인으로 추정되는 불이 나 2명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의혹 석 달 만에 입 연 고민시…“일탈은 했지만 학폭은 없다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/30/4W73DYHS5NG4JE7Y4UNWOHTWTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/4W73DYHS5NG4JE7Y4UNWOHTWTY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 29 Aug 2025 23:43:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WXBAZDCKAJG4VDTLFMR3THOBCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 고민시./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 고민시가 학교 폭력 의혹이 불거진 지 석 달 만에 “단언컨대 학폭을 한 사실이 절대 없다”며 입장을 밝혔다.&lt;br&gt;&lt;br&gt;고민시는 30일 새벽 자신의 인스타그램에 올린 장문의 글을 통해 “여러 가십과 루머에도 감내는 물론 그저 모든 것이 제 몫이라 여기며 흘려보냈지만, 과거가 불완전했다는 이유로 누명까지 떠안아야 할 이유는 결코 없다. 인정할 것은 확실히 인정하고 명백히 아닌 것은 아닌 것”이라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;그는 “일탈을 즐거워하며 철없이 학창 시절을 보낸 학생이었음을 그 누구보다 스스로 가장 잘 인지하고 있고 후회하기에 부족했던 만큼 완벽하진 못할지라도 진심을 다해 더 나은 삶을 살아가자는 마음 하나로 지금껏 걸어왔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자라 폭로한 이의 신원 미상 커뮤니티 글 외 학폭 사실 확인을 할 수 있는 뚜렷한 정황은 그 무엇도 없지만, 학교 폭력 피해에 있어 정확한 증거 제시가 쉽지 않음 역시 동의하는 바”라며 “가해자가 아닌 증거를 뒷받침할 타당성 있는 자료를 제출해 수사 진행 중이다. 허위 사실을 포함한 학폭 폭로에 관해 시간이 오래 걸리더라도 진실을 밝혀낼 때까지 멈출 일은 절대 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;뒤늦게 입장을 밝힌 이유에 대해서는 “몇 달 동안 수사 결과만을 기다리면서 하루에도 수십 번씩 끝자락까지 요동치는 마음을 다잡고 또 잡으며 버티고 삼켜냈는지 모른다”며 “마냥 기다리고 계실 분들을 위해서라도 제 입장을 밝히는 것이 도리라는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;고민시는 “중대한 사회문제인 학교 폭력은 엄격히 처벌해야 마땅한 것이라 생각한다”며 “그러나 이를 악의로 역이용하는 것은 본질을 흐려 진정한 학폭 문제 심각성을 희석시키는 일”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “분명 거짓이라 했음에도 입맛대로 만들어 단정 짓고 확정 지어 버리는, 온갖 카더라가 난무하는 인터넷 세상 속 사람을 무참히 보내버릴 수 있다는 게 얼마나 잔인하고 끔찍한 일인지 이 사실을 부디 모두가 알았으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “기필코 진실은 반드시 밝혀지게 될 것”이라고 글을 마무리했다.&lt;br&gt;&lt;br&gt;고민시의 학폭 의혹은 지난 5월 온라인 커뮤니티를 통해 제기됐다. 작성자는 고민시가 중학생 시절 금품 갈취, 폭언, 장애 학생 조롱과 협박 등을 일삼았다고 주장했다. 당시 소속사 미스틱스토리는 “명백한 허위 사실”이라며 “배우를 믿고 있다. 민·형사상 법적 조치에 들어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 고민시는 2020년 3월 미성년자 시절 음주 사진이 공개된 것과 관련해 “심려 끼친 점 모두 죄송하다”며 사과한 바 있다.&lt;br&gt;&lt;br&gt;당시 그는 “지난 행동이 그릇됨을 인지하고 있고 지난날의 제 모습들에 책임을 통감하고 있다. 때로는 말이 전부가 아니고, 저의 진심이 다 전해지진 않겠지만 저로 인해 피해를 보신 분들께 진심으로 죄송하다”며 “더 성숙하고 올바른 길로 갈 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>임은정 “정성호, 검찰에 장악돼”… 지검장이 법무장관 개혁안 공격</title>
       <link>https://www.chosun.com/national/court_law/2025/08/30/DFIMQLEHPJBW5M6WK3RJT5FXSA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/30/DFIMQLEHPJBW5M6WK3RJT5FXSA/</guid>
@@ -810,15 +882,6 @@
       </media:content>
     </item>
     <item>
-      <title>“사람도 옮는다”... 인천 동물 번식장서 ‘브루셀라병’ 대규모 발생 </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/QLZE266BHZEDZKKXG7M5B5TYB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/QLZE266BHZEDZKKXG7M5B5TYB4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 00:31:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TR7ODCFEBVGINFKK5NQODWR7OI.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화도 동물 번식장 모습. /루시의 친구들&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 강화군 소재 동물 번식장에서 학대받다 구조된 개에서 ‘브루셀라병’(Brucellosis)이 확인됐다. 브루셀라병은 인수공통감염병으로, 사람에게도 전염돼 감기와 유사한 증상을 유발한다.&lt;br&gt;&lt;br&gt;29일 농림축산식품부에 따르면, 인천 강화군 소재 한 동물 번식 생산 시설에서 학대를 받던 중 동물보호단체에 의해 구조된 개 260마리 중 105마리가 지난 11일 브루셀라병 확진 판정을 받았다. 현재 격리 치료 중이다. &lt;br&gt;&lt;br&gt;브루셀라병은 인수공통전염병으로, 개에서는 생식기 및 태막의 염증과 유산, 불임 등 번식 장애를 주로 일으킨다. 그동안 연간 1~4건 정도만 보고됐는데, 이번에 대규모 집단 감염이 확인된 것이다. 감염견들이 이미 전국의 펫숍으로 유통됐을 가능성도 있어 추가 확산이 우려되는 상황이다. 치료가 어려워 한번 감염된 개는 대부분 일생 동안 균을 보균하게 된다. &lt;br&gt;&lt;br&gt;사람이 옮을 경우 파상열과 오한, 두통, 근육통 등 심한 감기 증상이 나타난다. 심하면 관절염, 임파절염, 척수염, 심내막염 등으로 이어질 수 있다. 통상 7~21일의 잠복기를 가진다.&lt;br&gt;&lt;br&gt;농식품부는 개들에게서 브루셀라병 양성이 확인된 직후 질병관리청과 지자체 등 관련 기관에 발생 상황을 공유, 역학조사와 방역 조치를 실시한 상태다. 앞으로 동일한 사례가 발생하지 않도록 동물생산업장 등에 대한 관리를 강화할 계획이다. &lt;br&gt;&lt;br&gt;최정록 방역정책국장은 “관할 지자체와 긴밀히 협력하여 확산을 방지하기 위해 철저히 방역 관리를 실시하고 있다”며 “반려동물에서 태아 유·사산 등 브루셀라병 의심 증상을 보일 경우 즉시 가축방역기관으로 신고해달라”고 했다. &lt;br&gt;&lt;br&gt;한편 동물보호단체들로 구성된 ‘루시의 친구들’은 지난달 인천 강화도의 열악한 번식장에서 사육되던 개 300여 마리를 구조했다. 이 번식장은 지자체 허가를 받아 운영되는 곳이었지만, 관리·돌봄과 관련한 법적 기준은 전혀 지켜지지 않았다고 단체들은 설명했다. &lt;br&gt;&lt;br&gt;개들은 오물과 분변이 가득한 환경에서 사육되고 있던 것으로 파악됐다. 한 동물단체 관계자는 “털에 오물이 엉겨 눈도 뜨지 못하는 개들은 수북한 분변에 구더기가 우글거리는 ‘뜬장’(공중에 떠 있는 우리) 위에서 불법 사육되고 있었다”며 “평사에 있는 개들 또한 최악의 불결한 환경에서 온몸에 각종 오물이 묻은 채 피부병을 앓고 있었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“속옷까지 벗으라더라”… 황보, 이스라엘 국경서 끌려간 사연</title>
       <link>https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/IMT6K5ZP2NFKHK24XSJ2ATRETY/</guid>
@@ -826,27 +889,6 @@
       <description/>
       <pubDate>Thu, 28 Aug 2025 22:18:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V6UP5VQIFGZ5BXK4G7DOQVV44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 황보./KBS2&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 황보가 강한 인상으로 겪은 억울한 일을 떠올리며 이스라엘 국경에서 몸 수색까지 당했던 사연을 공개했다.&lt;br&gt;&lt;br&gt;황보는 지난 28일 방송한 KBS2 ‘옥탑방의 문제아들’에 출연해 ‘살면서 가장 억울한 일’에 대한 질문을 받자 “이상하게 공항이나 국경 검색대에서 나만 걸린다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;과거 방송인 송은이, 김숙과 함께 해외여행을 떠난 황보는 이스라엘에서 요르단으로 국경을 넘기 위해 입국 심사를 받았다고 한다.&lt;br&gt;&lt;br&gt;송은이는 “걸어서 국경을 넘는 곳이라 가방을 끌고 국경을 넘었는데, 나랑 김숙만 (입국 심사를) 통과해 나왔다”며 “황보가 한참 있다가 나와서 물어봤더니 코웃음을 치면서 군인에게 잡혀갔다고 하더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;황보는 “국경 검색대에서 나를 불러내더니 어떤 공간에서 옷을 다 벗으라고 하더라. 속옷까지 싹 벗어야 했다. 이스라엘 여군이 나를 다 수색했다. 여군이 조사했지만 기분이 좋지 않았다”며 “내가 킬러처럼 보이나?”라고 했다.&lt;br&gt;&lt;br&gt;당시 황보는 20명 가까운 일행 중 유일하게 추가 몸 수색을 받았다고 한다.&lt;br&gt;&lt;br&gt;억울해하는 황보에게 패널들도 “미녀 스파이처럼 보인 거 아니냐” “황보는 이국적으로 보여서 그런 거 아니냐” 등의 이야기를 보탰다.&lt;br&gt;&lt;br&gt;이 밖에도 황보는 강한 인상 탓에 환불을 쉽게 하는 이른바 ‘환불 원정대’, 골초 등의 오해를 받는다며 억울해했다. 황보는 “난 살면서 환불을 단 한 번도 해본 적이 없다. 그리고 담배를 피운 적이 없다. 그런데도 사람들이 맨날 나 보자마자 ‘라이터 있냐’고 자주 묻는다”고 토로했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가평서 가던 남이섬, 이젠 춘천서 배타고 한번에</title>
-      <link>https://www.chosun.com/national/regional/2025/07/11/QB276Y7MQBBZHLRU6XNC3FELDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/07/11/QB276Y7MQBBZHLRU6XNC3FELDA/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 10 Jul 2025 15:53:00 +0000</pubDate>
-      <content:encoded>주소는 강원도 춘천시, 그러나 이곳으로 들어갈 수 있는 선착장은 경기도 가평군에 있다. 매년 관광객 200만명이 찾는 북한강 남이섬 얘기다.&lt;br&gt;&lt;br&gt;남이섬은 춘천시 남산면 방하리에 있다. 가평군 선착장에서 배를 타거나 짚라인을 이용해야만 들어갈 수 있다. 이 때문에 식당가, 주차장 모두 가평군 선착장 주변에 몰려 있다. 춘천시 관계자는 “이러한 동선 때문에 관광 수익을 전부 가평이 가져간다”며 “가평 남이섬이라고 아는 사람도 많다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH5Y6SFZHJBSFK34SUKM7FCP6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 춘천시가 최근 춘천과 남이섬을 연결하는 새 항로를 만들기로 했다. 남이섬 동쪽의 남산면 방하리 일대 10만7000㎡를 선착장을 갖춘 관광단지로 개발하고 남이섬을 오가는 뱃길을 만든다는 구상이다. &lt;br&gt;&lt;br&gt;남이섬에는 남이나루 선착장과 메타나루 선착장이 있는데 새로 만드는 뱃길은 메타나루 선착장을 이용한다. 남이섬 메타세쿼이아길 근처에 있는 선착장이다. &lt;br&gt;&lt;br&gt;관광단지는 오는 2027년 착공해 2035년 완공할 계획이다. 자전거를 타고 북한강을 건널 수 있는 ‘스카이바이크’도 놓는다.&lt;br&gt;&lt;br&gt;사업비는 740억원으로 추산했다. 이 중 590억원은 민간 투자를 유치할 예정이다.&lt;br&gt;&lt;br&gt;남이섬을 운영하는 주식회사 남이섬 측도 긍정적인 분위기다. 남이섬 관계자는 “섬을 찾는 관광객의 편의를 위해 춘천시 구상을 긍정적으로 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;춘천시는 새로운 뱃길이 생기면 관광객들이 춘천으로 더 유입될 것으로 보고 있다. 춘천에 있는 소양강댐, 레고랜드 등과 연계 관광 상품도 개발할 계획이다. &lt;br&gt;&lt;br&gt;육동한 춘천시장은 “남이섬 뱃길은 춘천시의 오랜 숙원 사업”이라며 “주민들도 원하고 있어 이번엔 반드시 이뤄내겠다”고 했다.&lt;br&gt;&lt;br&gt;남이섬은 원래 육지였다. 1944년 가평군에 청평댐이 생기면서 북한강의 수위가 상승했고 지금처럼 섬이 됐다. 축구장 64개 크기다. &lt;br&gt;&lt;br&gt;한류 드라마 ‘겨울연가’에 등장해 외국인 관광객이 많이 찾는다. 작년엔 188만4991명이 왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 넘쳐나는 보이스피싱에, 재판 지연 가중</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/3AZREMM3YZAKNFDKFRJBNZ5QXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/3AZREMM3YZAKNFDKFRJBNZ5QXE/</guid>
-      <dc:creator>김은경 기자, 권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 20:02:00 +0000</pubDate>
-      <content:encoded>작년 12월 부산지법 서부지원 401호 형사 법정. 보이스피싱 조직에서 현금 수거책을 맡은 50대 여성의 재판이 열렸다. 변호인은 재판부에 “혐의를 모두 인정하지만 피고인의 추가 범행이 곧 기소될 예정이니 기일을 새로 잡아 한꺼번에 재판받게 해달라”고 했다. 그러나 재판장은 “보이스피싱 사건이 너무 쌓여 있어 추가 기일을 잡을 여유가 없다. 바로 변론을 시작해달라”며 거절했다. 이날 법정 모니터엔 보이스피싱 사건 재판만 3건 더 예정돼 있었다.&lt;br&gt;&lt;br&gt;전국 지방법원 형사합의 재판부가 보이스피싱 사건으로 골머리를 앓고 있다. 보이스피싱 범죄에 대한 법정형이 높아지면서, 과거 단독 판사가 맡던 사건이 합의부로 몰려들고 있기 때문이다. 안 그래도 중요하고 복잡한 사건을 많이 다루는 합의부에 보이스피싱 사건까지 몰리면서 ‘재판 지연’ 문제가 심각해지고 있는 것이다.&lt;br&gt;&lt;br&gt;28일 법원행정처 집계에 따르면, 지난 5월 전국 지방법원 형사합의부에 신규 배당된 사건 중 보이스피싱 관련 사건의 비율이 29.9%에 달했다. 3건 중 1건이 보이스피싱 사건인 셈이다. 지난해 같은 달 11.3%에서 크게 늘었다. 서울북부지법(50.6%), 서울동부지법(43.5%), 인천지법 부천지원(40%) 등 일부 법원에서는 신규 사건의 절반가량이 보이스피싱이었다.&lt;br&gt;&lt;br&gt;법원에서는 지난 2023년 11월 보이스피싱 범죄 법정형을 ‘10년 이하의 징역’에서 ‘징역 1년 이상’으로 높인 통신 사기 피해 환급법 개정법이 시행되면서 형사합의부 보이스피싱 사건이 증가했다고 보고 있다. 법원조직법상 법정형이 징역 1년 이상인 사건은 합의부가 맡도록 돼 있어, 법 개정 전에는 단독 판사가 맡던 사건들이 합의부로 넘어오는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UILXRM7Y6RHKRDPEDPUPQGOHEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이렇다보니 사건 처리가 갈수록 늦어지고 있다. 2023년 기준 1심 불구속 형사사건의 평균 처리 기간이 단독 판사는 181일이었지만 합의부는 229일로, 한 달 이상 더 걸렸다. 합의부는 판사 3명이 합의 과정 등을 거쳐야 하기 때문에 당연히 사건 처리 기간이 더 필요하다. 한 형사합의부 재판장은 “기소된 피고인은 대부분 총책이 아닌 현금 인출책·전달책·수거책 등 하부 조직원이서 사건 내용이 단순하다”며 “빨리 처리할 수 있는 사건들이 합의부로 오다 보니 불필요하게 재판이 지연되고 있다”고 했다.&lt;br&gt;&lt;br&gt;더 큰 문제는 합의부가 기존에 다루고 있는 사건들도 지체된다는 점이다. 스토킹 피해에 시달리던 40대 회사원 A씨는 범인이 지난 5월 재판에 넘겨졌다는 소식을 듣고 결과를 기다리고 있었다. 그런데 첫 재판 기일이 석 달 넘도록 잡히지 않아 법원에 물어봤더니 “보이스피싱 사건이 너무 많이 쌓여 있어서 재판 날짜를 잡기가 어렵다”는 답이 돌아왔다. 기소 후 넉 달이 지난 9월에야 첫 기일이 잡혔다.&lt;br&gt;&lt;br&gt;법원마다 고육책을 짜내고 있다. 인천지법 부천지원은 형사합의부 미제 사건이 2023년 말 218건에서 작년 말 400건으로 급증하자, 올해 3월부터 민사 재판부에 일부 보이스피싱 사건을 넘기고 있다. 서울중앙지법은 이달부터 보이스피싱 사건을 단독 사건 2심을 맡는 ‘형사 항소부’에 배당하고 있다.&lt;br&gt;&lt;br&gt;법원 내부에서는 “법원조직법을 고쳐 보이스피싱 사건을 단독 판사가 심리할 수 있도록 예외를 둬야 한다”는 지적이 나온다. 법원은 실제 음주 운전 재범 사건이나 특수상해·절도 등 법정형이 높은 사건을 예외적으로 단독 판사가 맡도록 하고 있다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞형사합의부&lt;/b&gt;&lt;br&gt;&lt;br&gt;판사 3명 이상으로 구성돼 복잡하거나 중요한 사건을 다루는 재판부를 말한다. 법정형이 1년 이상 징역·금고형이거나 무기징역·사형인 사건은 합의 재판부가 맡는다. 1심 판결에 불복해 항소한 사건을 다루는 고등법원의 2심 역시 합의부가 재판한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3265KJUIZJGWPNTKK7L45IEX3Q.png?auth=3078ddd248db7f47cbfba97cc0f6823eb8623ac837b23d6d6fe971ae05a61495&amp;smart=true&amp;width=1200&amp;height=675" type="image/png" height="675" width="1200">
-        <media:description type="plain">일러스트=조선디자인랩 한유진·Midjourney</media:description>
-      </media:content>
     </item>
     <item>
       <title>특검 “변호인 들어오지 말라”… 헌법상 방어권 무시 논란</title>
@@ -938,42 +980,6 @@
       <content:encoded>작년 4월 총선에 출마하며 재산을 축소 신고한 혐의 등으로 기소된 이병진 더불어민주당 의원(경기 평택을)이 1심에 이어 2심에서도 당선 무효형을 선고받았다. &lt;br&gt;&lt;br&gt;수원고법 형사3부(재판장 김종기)는 28일 이 의원의 공직선거법 위반 사건에 대해 1심과 같이 벌금 700만원을 선고했다. 부동산 실명제 위반 혐의에 대해선 벌금 500만원을 선고했다. 이 판결이 대법원에서 확정되면 이 의원은 의원직을 잃는다.&lt;br&gt;&lt;br&gt;이 의원은 선거관리위원회에 후보자 재산 신고를 하면서 5억5000만원 채권을 누락한 혐의로 불구속 기소됐다. 자기 땅을 다른 사람 명의로 등기해 부동산 실명제를 위반한 혐의도 받는다. &lt;br&gt;&lt;br&gt;이날 신영대 민주당 의원의 선거사무장을 지낸 강모씨도 징역형을 선고받았다. 이 형이 대법원에서 확정되면 신 의원은 의원직을 잃는다. &lt;br&gt;&lt;br&gt;공직선거법에 따르면, 선거사무장이 300만원 이상 벌금형이나 징역형을 받으면 의원의 당선이 무효가 된다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 김종호)는 지난해 총선 경선 과정에서 여론조사 결과를 조작한 혐의로 기소된 강씨에게 징역 1년에 집행유예 2년을 선고했다. 재판부는 같은 혐의로 기소된 정모 전 보좌관과 심모 보좌관에겐 각각 징역 1년 4개월을 선고했다. 모두 1심과 같은 형이다.&lt;br&gt;&lt;br&gt;이들은 2023년 12월 총선 경선 당시 카카오톡 단체 대화방 등을 통해 민주당 전북 군산·김제·부안갑 여론조사 결과를 조작한 혐의를 받고 있다. 이 경선에서 신 의원은 김의겸 전 의원을 누르고 공천을 받았다. 신 의원은 새만금 태양광 사업과 관련해 뇌물을 수수하고 당내 경선 여론조사를 조작한 혐의로 불구속 기소돼 1심 재판을 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>춘천에선… 호수 한복판, 정원이 떠다닌다</title>
-      <link>https://www.chosun.com/national/regional/2025/08/29/DZS6CV5S3ZCZTGHYCU4SMUMPBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/29/DZS6CV5S3ZCZTGHYCU4SMUMPBE/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MHSPTWMGNAEVOVXJAXVAOV3U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 춘천시 상중도(上中島)에 조성되는 생태 정원의 조감도. 춘천시는 상중도 서쪽 18만㎡ 땅에 154억원을 들여 ‘호수 위 정원’을 만든다. 올 하반기 착공해 2027년 개장한다는 계획이다. 카약을 타고 섬 주변과 습지를 둘러볼 수 있는 카약 선착장도 만든다./강원도 춘천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 오후 강원 춘천시 상중도(上中島). 의암호 가운데 떠 있는 65만㎡ 크기 섬이다. 남이섬(46만㎡)보다 크다. 둘레길을 걷던 관광객들이 벤치에 앉아 ‘물멍’을 하고 있었다. 최일구(45)씨는 “여기선 물이 보석처럼 반짝인다”고 했다.&lt;br&gt;&lt;br&gt;상중도는 1967년 북한강에 의암댐을 지으면서 생긴 섬이다. 습지와 비닐하우스 등이 있다. 하류에 있는 하중도(下中島)에는 2022년 ‘레고랜드’가 들어섰다. 상중도와 하중도는 작은 다리로 연결된다. 두 섬을 묶어 중도라고도 한다. 2018년 춘천역과 하중도를 잇는 춘천대교가 생겨 상중도까지 차를 타고 들어갈 수 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI6FQ2NEG5E75IOBIZLTB4VOCE.png"&gt;&lt;figcaption&gt;&lt;small&gt;호수지방정원이 들어설 춘천시 의암호 내 상중도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55L7MTIID5ATTBOPJYSHKBRJWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;상중도 내에 호수지방정원이 들어갈 위치/그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 상중도가 ‘호수 위 정원’으로 탈바꿈한다. 춘천시는 상중도 서편 18만㎡에 154억원을 들여 생태 정원을 조성한다고 28일 밝혔다. 올 하반기 착공해 2027년 개장한다는 계획이다. 현재 설계 작업 중이다. 춘천시는 “전국에 정원은 많지만 호수 한가운데 섬을 정원으로 만드는 건 처음”이라고 했다. &lt;br&gt;&lt;br&gt;상중도 호수정원은 호수 위 정원의 특징을 살려 만든다. 카약을 타고 정원을 둘러볼 수 있게 카약 선착장도 만든다. 황미정 춘천시 정원개발팀장은 “수면 높이에서 바라보는 정원은 색다른 모습이 될 것”이라고 했다. 수변 둘레길도 만든다. 둘레길 주변에는 부들, 부처꽃 등 수생식물을 심는다. &lt;br&gt;&lt;br&gt;춘천시는 호수정원과 레고랜드를 묶어 관광객을 유치한다는 계획이다. 레고랜드와 호수정원은 걸어서 30분 정도 거리다. 자전거를 타면 10분이면 오갈 수 있다. 2029년엔 중도와 춘천 서면을 잇는 서면대교가 개통한다. 그러면 춘천역과 중도, 서면이 바로 연결된다. 지금은 춘천역에서 서면을 가려면 호수에 막혀 30분씩 돌아가야 했다. 춘천시 관계자는 “춘천역을 중심으로 중도, 서면 토이로봇관·애니메이션박물관 등을 묶어 연계 관광 상품을 개발할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BRXMQ7MSFGU5O6WBWNN67GFMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;호수지방정원 카약선착장 및 카약킹 아일랜드 조감도/춘천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 7월 상중도에는 산림청 국립정원소재센터가 문을 연다. 정원소재센터는 정원 관련 장비, 식물, 흙 등을 연구·생산하는 곳이다. 온실과 야외 전시장 등을 갖춘다. 김득정 춘천시 녹지정원과장은 “정원소재센터와 호수 정원을 묶어 정원산업 생태계를 만들 것”이라며 “전국의 정원 애호가들이 찾을 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;중장기적으로 2028년에는 호수 정원의 규모를 30만㎡ 이상으로 확대하고 국제정원박람회를 개최한다는 계획이다. 김윤철 춘천시 건설국장은 “순천만 국가정원처럼 국가정원 지정에도 도전할 것”이라고 했다. 2015년 국내 첫 국가정원으로 지정된 순천만국가정원에는 2023년 관광객 980만명이 찾았다. 경제효과가 연간 8000억원에 달한다.&lt;br&gt;&lt;br&gt;춘천시는 상중도 호수정원을 중심으로 춘천시 전체를 정원 도시로 만든다는 구상을 갖고 있다. 올 연말까지 시내에 정원 33곳을 조성해 산책로로 연결한다. 춘천시 평생학습관에선 도시 정원을 가꿀 ‘시민 정원사’를 길러 내고 있다. 지난해 40명을 배출한 데 이어 올해 51명이 ‘시민 정원사’가 된다. 노영대 춘천시 정원계획팀장은 “단순히 도시에 정원을 조성하는 사업이 아니다”라며 “춘천의 새 브랜드로 정원 도시를 만드는 것”이라고 했다. &lt;br&gt;&lt;br&gt;춘천은 서울과 1시간 거리다. ITX청춘 열차를 타고 서울로 출퇴근하는 사람도 많다. 2027년 서울과 강원 속초를 연결하는 동서고속화철도가 개통한다. 2031년에는 제2경춘고속도로도 생긴다. 그러나 상수원 보호 규제 때문에 공장 하나 세우기 어렵다. 춘천시 인구는 2022년(28만7000명) 이후 감소세로 돌아섰다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대리 수령은 코로나 기간에만 잠시 허용</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/KEPX7CN2SFGWVGJDZEFQEH3ZXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/KEPX7CN2SFGWVGJDZEFQEH3ZXU/</guid>
-      <dc:creator>이기우 기자, 장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>유명 가수 싸이(본명 박재상·48)가 전문 의약품을 처방받고 매니저를 통해 대리 수령했다가 경찰에 입건된 것과 관련해 28일 “명백한 과오”라고 사과했다. 싸이 소속사는 이날 입장문에서 “싸이는 만성적인 수면 장애 진단을 받고, 의료진 처방에 따라 수면제를 복용하고 있다”며 “수면제를 대리 수령한 경우는 있었지만, 대리 처방을 받은 적은 없었다”고 했다. 싸이가 직접 의료진에게 정해진 용량을 처방받아 수면제를 복용하는 과정에서 제3자가 대리 수령한 일이 있었다는 것이다.&lt;br&gt;&lt;br&gt;싸이 사례처럼 의료법을 위반할 의사가 없었더라도 의약품을 타인을 통해 수령할 경우 낭패를 볼 수 있다. 지난 2020년 코로나 팬데믹 당시 코로나 확산 방지를 위해 수면제 등 전문 의약품도 본인이 처방을 받았을 경우 대리 수령하는 게 한시적으로 허용된 적이 있다. 그러나 2021년 11월부터 비대면 진료를 통해 처방할 수 있는 약품에서 수면제 등은 제외하고 대리 수령도 할 수 없도록 규정이 바뀌었다. 이를 모르고 예전처럼 의사 처방은 본인이 받고 약품 수령은 지인에게 부탁하면 문제가 될 수 있다는 것이다. &lt;br&gt;&lt;br&gt;의료법 등에 따르면 직접 처방받은 의약품을 다른 사람이 대신 수령하면 벌금형을 받는 경우가 많다. 그러나 처방까지 남이 대신 받으면 무거운 징역형을 받을 수 있다. 작년 프로야구 선수 출신 오재원씨가 자낙스와 스틸녹스를 후배 야구 선수들에게 대리로 처방받아 약을 수령해 오라고 한 혐의로 징역 1년 6개월의 실형을 선고받았다. 싸이는 약을 받아 오는 것만 매니저에게 부탁했다는 것이어서 오씨와 경우가 다르다는 입장이다.&lt;br&gt;&lt;br&gt;수면제 등도 예외적으로 대리 수령이 가능한 경우가 있다. 의료법은 환자 거동이 불편하고 질환이 오랫동안 계속돼 환자 상태가 변화할 가능성이 적은 상황 등에선 환자의 직계 가족 등이 약을 대신 받을 수 있도록 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서울서 1시간 거리… 호반의 도시 춘천, 정원 도시로 만들 것”</title>
-      <link>https://www.chosun.com/national/regional/2025/08/29/57MADUZJWNF45AJ5AOY2WSXJMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/29/57MADUZJWNF45AJ5AOY2WSXJMM/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“춘천에 기회가 찾아오고 있습니다. 빨리 성장 동력을 찾아 달려야 합니다. 그게 바로 ‘정원(庭園)’입니다. ‘호반 도시’ 춘천을 ‘정원 도시’로 바꾸는 거죠.”&lt;br&gt;&lt;br&gt;27일 춘천시청에서 만난 육동한 춘천시장은 이렇게 말했다. 그는 기획재정부 경제정책국장, 국무총리실 국무차장 등을 지낸 경제 관료 출신이다. 2022년 춘천시장이 됐다. 요즘 정원에 푹 빠졌다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OL7QKD34TZEGBLRH6Z6BHUNYVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-왜 하필 정원인가.&lt;br&gt;&lt;br&gt;“춘천은 서울과 가깝다. ITX-청춘 열차를 타면 1시간 거리다. 웬만한 수도권 도시보다 가깝다. 여기에 천혜의 자연환경을 갖고 있다. 그래서 생각난 게 ‘정원 산업’이다. 정원은 그저 도시를 예쁘게 꾸미는 수단이 아니다. 순천만국가정원에는 매년 1000만명에 가까운 관광객이 모인다. 경제 효과가 8000억원에 달한다. 상중도 호수 정원을 중심으로 시내 곳곳에 정원을 만들어 춘천 하면 정원이 떠오르게 할 계획이다.”&lt;br&gt;&lt;br&gt;-왜 상중도인가.&lt;br&gt;&lt;br&gt;“상중도는 호수와 습지 생태계를 모두 경험할 수 있는 곳이다. 전국에 정원은 많지만 ‘호수 위 정원’은 상중도가 유일하다. 춘천역과 가깝고 하중도의 레고랜드와도 연계할 수 있다. 수도권 주민들이 부담 없이 찾아올 수 있다. 산림청 국립정원소재센터도 상중도에 들어선다. 관광뿐 아니라 정원 산업 플랫폼 역할도 할 수 있다.”&lt;br&gt;&lt;br&gt;―호수 정원은 어떻게 만드나.&lt;br&gt;&lt;br&gt;“상중도 습지와 호수 등 기존 생태계와 정원을 조화롭게 버무리는 게 중요하다고 본다. 호수 정원을 걸으며 자연과 하나 되는 느낌이 들도록 만들려고 한다. 국내외 정원 작가 6명이 참여하는 작가 정원도 선보일 예정이다.”&lt;br&gt;&lt;br&gt;―시민 참여를 강조한다.&lt;br&gt;&lt;br&gt;“정원 도시가 성공하려면 시민이 주인공이 돼야 한다. 시민들이 정원에 관심을 갖고 직접 정원사가 돼 도시 정원을 꾸미는 방식 말이다. 그래서 시 평생학습관에 정원 교실을 열었다. 시민들의 삶의 질을 높이는 동시에 지역의 정원 산업 수준도 끌어올릴 수 있다고 본다.”&lt;br&gt;&lt;br&gt;―춘천역 앞 옛 미군 기지 부지는 어떻게 활용할 계획인가.&lt;br&gt;&lt;br&gt;“캠프페이지 부지는 춘천시민의 소중한 자산이다. 금싸라기 땅은 귀하게 써야 한다. 그동안 ‘춘천 청년들은 왜 춘천을 떠나는가’ 고민해 왔다. 결국 해답은 일자리였다. 캠프페이지 부지 일부에는 시각 특수 효과(VFX) 전문 기업 등을 유치해 첨단 영상 산업 생태계를 조성할 생각이다. 정원 도시와 첨단 산업 두 가지가 춘천의 성장을 이끌 것이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아나운서 퇴직 후 사업… 70억원 첫 투자 유치 “유명보단 유용해야 팔려”</title>
-      <link>https://www.chosun.com/national/people/2025/08/29/HIJL24HHTVHQ3DQNPI2Q6KGU2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/08/29/HIJL24HHTVHQ3DQNPI2Q6KGU2A/</guid>
-      <dc:creator>변희원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QOAKAATH2ZFWVLKAIVMF3MMTDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성수동 사무실에서 만난 김소영 비플랜트 대표는 “직원 두 명과 사업을 시작했는데 어느새 50명으로 늘었다”며 “이들이 제품을 직접 사용하면서 품평을 하는 게 경쟁력 중 하나”라고 했다. 모두 20~40대 여성이다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;벤처캐피털(VC) 알토스벤처스는 유니콘(기업 가치 1조원 이상 비상장 기업)이 된 쿠팡, 우아한형제들(배달의민족), 비바리퍼블리카(토스)의 초기 투자로 성공하면서 스타트업계에서 ‘가장 투자받고 싶은 VC’로 꼽힌다. 이 회사가 최근 ‘비플랜트’에 70억원을 단독으로 초기 투자했다는 소식이 전해지자 업계에선 “비플랜트 창업자가 대체 누구냐”고 다퉈 물었다. 알토스벤처스 측은 “우리의 설득과 회유, 읍소 끝에 비플랜트가 투자를 받아줬다”고 했다.&lt;br&gt;&lt;br&gt;비플랜트를 세운 이는 전 MBC 아나운서 김소영 대표다. 그는 퇴사 후, 2017년 오프라인 서점 ‘책발전소’를 시작으로 2020년 이커머스(온라인 상거래) 플랫폼 ‘브론테’, 지난해 ‘세렌’과 ‘커브드’까지 8년 만에 네 개 브랜드를 만들었다. 브론테는 생활용품, 화장품, 의류 등을 선별해서 판매하고, 세렌과 커브드는 각각 건강기능식품과 화장품 브랜드이다. 서울 성수동 비플랜트 사무실에서 만난 김 대표는 “책방을 운영하다가 코로나가 닥치면서 책과 함께 팔던 생활용품을 온라인에서도 판매한 게 시작이었다”며 “브론테의 경우, 매출이 매년 두 배씩 늘어나고 있고, 커브드는 해외 진출도 준비하고 있다”고 했다. &lt;br&gt;&lt;br&gt;김 대표는 브론테에서 판매하는 물건을 인스타그램과 같은 소셜미디어에서 홍보하는 인플루언서 역할도 함께 하고 있다. 공중파 메인 뉴스까지 진행했던 ‘익숙한 얼굴’로 소비자를 모은 것은 아닐까. 그는 “30~40대 워킹맘들은 차은우를 좋아하지, 김소영을 좋아하진 않는다”고 웃으며 “설령 익숙한 얼굴 때문에 물건을 사더라도 성에 차지 않거나 필요가 없으면 다시 찾지 않는다”고 했다. 그에 따르면 80%에 달하는 재구매율이 매출 성장의 비결. “유명(有名)보다는 유용(有用)해야 한다”는 게 김 대표의 지론이다. &lt;br&gt;&lt;br&gt;“저는 아무 물건이나 사고 싶진 않지만, 워킹맘이다 보니 어느 브랜드가 좋고, 어디가 싼지 찾아볼 시간이 없었어요. 제가 살 만한 물건을 딱 집어줄 ‘언니’가 있으면 좋겠다는 생각으로 시작했는데, 다들 그런 언니가 필요했던 거죠. 필요한 존재는 꼭, 다시 찾아가기 마련입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘딩크’ 원했던 아빠, 삼둥이 낳고 ‘출산 전도사’ 됐죠</title>
       <link>https://www.chosun.com/culture-life/culture_general/2025/08/29/ZNJERSQ2YJAIZBLQEJHWMBGHII/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/29/ZNJERSQ2YJAIZBLQEJHWMBGHII/</guid>
@@ -981,15 +987,6 @@
       <description/>
       <pubDate>Thu, 28 Aug 2025 15:51:00 +0000</pubDate>
       <content:encoded>“화면을 보시면...배아가 세 개가 보이네요.”&lt;br&gt;&lt;br&gt;세종시에 사는 임지명(35)·장은혁(34)씨 부부는 지금도 임신 6주 차 초음파 검사 결과를 알게 된 날을 잊지 못한다. 두 살배기 세 쌍둥이 하다(아들)·하리(딸)·하오(아들)는 ‘예상치 못한 선물’이었다. 결혼 초기만 해도 남편 장씨는 ‘딩크족(자녀가 없는 부부)’을 생각했지만, 아이를 좋아하는 유치원 교사 아내의 설득 끝에 “한 명만 낳아보자”고 마음을 돌린 것이었다. 그런데 한꺼번에 세 아이가 찾아온 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XHLE3CBZZCS3G7ZYTFIJI5FKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 세종시 자택 소파에 앉은 채 웃고 있는 임지명·장은혁씨 가족 모습. 사진 왼쪽부터 임씨, 둘째 딸 하리, 셋째 아들 하오, 남편 장은혁씨, 첫째 아들 하다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원래 부부는 첫아이를 계획하면서 ‘아들이 태어나면 하다, 딸이면 하리’라고 이름을 미리 정해 두었다고 한다. 그런데 예상치 못한 세쌍둥이를 갖게 되면서 ‘하오’라는 이름을 하나 더 짓게 됐다.&lt;br&gt;&lt;br&gt;이 부부는 2019년 처음 만났다. 세종시에서 근무하는 임씨에게 지인이 “부여에서 약국을 개업한 친구가 있는데, 한번 만나보라”고 권한 것이 계기였다. 두 사람 모두 결혼을 염두에 두고 있던 상황. 쉽게 연애를 시작할 생각은 없었지만 첫 만남 이후 일주일 만에 교제가 시작됐다. 남편 장씨의 진정성이 빛을 발했다. 장씨는 밤 8시 약국 문을 닫은 뒤에 임씨를 만나러 세종으로 달려갔다. 그렇게 잠깐의 데이트를 하고 새벽 1~2시에 다시 돌아오는 ‘강행군’을 반복했다고 한다. &lt;br&gt;&lt;br&gt;둘은 전형적인 ‘문과 여자’와 ‘이과 남자’였다. 성격과 생각, 대화 방식도 달랐지만 신기할 만큼 대화가 척척 맞았다. 임씨는 아이들과 동료 교사 이야기를 풀어놓고, 장씨는 약국을 찾아오는 어르신들 이야기를 전했다. 아무 의미 없는 얘기도 몇 시간씩 술술 이어졌다. “이 사람과 함께하면 평생 즐겁겠다”는 확신이 든 둘은 연애 한 달 만에 결혼을 약속했고, 2020년 11월 부부가 됐다.&lt;br&gt;&lt;br&gt;비슷한 점이 많았지만 달랐던 점은 자녀 계획이었다. 당초 남편은 자녀를 갖고 싶다는 생각이 크게 없었다. 누군가의 삶을 책임져야 한다는 게 부담이었다고 한다. 하지만 아내 임씨의 오랜 설득 끝에 결국 ‘한 명만 낳자’는 걸로 합의한 뒤 부부가 난임 치료를 이어가다 세 쌍둥이란 선물을 받게 된 것이다. &lt;br&gt;&lt;br&gt;2023년 5월에 태어난 삼둥이는 이란성이라 외모도, 성격도 저마다 다르다. 첫째 아들인 하다는 밝고 활발한 성격. 항상 깔깔 웃으며 애교가 많다고 한다. 둘째인 딸 하리는 조용조용하지만 야무지다. 오빠나 동생이 보이지 않으면 “어디 갔어?”라며 챙기곤 한다. 셋째이자 막내인 아들 하오는 한 가지에 꽂히면 끝까지 파고드는 ‘학자 스타일’이다. 벌써부터 좋아하는 동물들을 꿰고 있고, 혼자 조용히 장난감을 갖고 노는 것을 즐긴다. 개성 강한 세 아이 덕분에 집은 하루 종일 시끌벅적하다.&lt;br&gt;&lt;br&gt;물론 ‘삼둥이’ 육아가 쉽진 않았다. 돌 전에는 매 순간이 전쟁 같았다. 육아휴직을 낸 아내는 친정이 있는 광주광역시에 내려가 어머니 도움을 받으며 1년을 보내기도 했다. 다행히 아이들이 조금씩 자라면서 상황이 달라졌다. 이젠 어린이집에서도 적응을 끝마쳤고, 아이들끼리도 역할 놀이를 하며 시간을 잘 보낸다. 그러면서 부부에게도 조금씩 여유가 생기고, 긍정적인 변화들이 찾아왔다.&lt;br&gt;&lt;br&gt;한때 아이를 원하지 않았던 남편은 “이제 ‘아이가 없었다면 어땠을까’라는 생각 자체를 할 수 없을 정도”라고 했다. 집에서 쉬고 있으면 세 아이가 달려와 “아빠 사랑해”라며 무릎에 매달리는 순간이 가장 행복하다고 했다. 최근 남편 장씨는 지인들에게 “아이는 꼭 낳아라”라며 출산을 권할 정도가 됐다. 아이와 있을 때만 경험할 수 있는 행복이 있다는 것이다.&lt;br&gt;&lt;br&gt;아내 임씨 역시 “육아는 아이만 자라는 게 아니라 부모도 함께 성장하는 시간”이라고 했다. 아이가 있기에 자신의 생각을 다시 돌아보게 되고, 더욱 성숙해질 수 있었다는 것이다. 혼자였다면 그냥 흘려보냈을 감정들을 아이 덕분에 다시 다듬게 됐다고도 했다. 임씨는 “처음엔 부모가 자녀에게 주는 사랑이 더 크다고 생각했지만, 지금은 아이에게서 받는 사랑이 훨씬 더 크다는 사실을 깨달았다”고 말했다. &lt;br&gt;&lt;br&gt;요즘에는 애교 많은 아이들 덕분에 집 안에 웃음이 끊이지 않는다. 임씨는 “새 옷을 입으면 아이들이 ‘엄마 이거 너무 예뻐’ 하고 먼저 말해주는데 그럴 때마다 느끼게 되는 뿌듯함, 소소한 행복감이 있다”고 했다. &lt;br&gt;&lt;br&gt;아내 임씨는 아이들 덕분에 부모님과도 더 가까워졌다고 한다. 그는 “내가 어렸을 땐 우리 아버지는 가정적인 분이 아니었다”며 “하지만 손주들이 태어나면서 완전히 모습이 달라지셨다”고 말했다. 과거엔 함께 집에 있어도 말을 많이 하지 않았던 아버지였다. 하지만 요즘엔 “에어컨 켜놓을 테니 아이들이랑 언제 집에 도착하는지 알려달라”고 먼저 연락을 하고, 아이들과 산책을 하며 번갈아 목말을 태워준다. 아버지의 새로운 면모에 가족 모두가 놀랐다고 한다. 임씨는 “아이들 덕분에 부모님과 나누는 대화도 크게 늘어나고 부모님을 더 이해하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 29일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/29/75OITGKQ7JDUJKPL5VZXJRIRFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/29/75OITGKQ7JDUJKPL5VZXJRIRFI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GIHDIOP2ZCOZASHPFI6MS2VUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
