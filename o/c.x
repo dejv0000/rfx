@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“박지성과 이혼하고 셋째 임신? 와우”… 김민지, 가짜뉴스에 분노</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/31/A7GHXPYUSNCOLDWZERH4MD353Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/A7GHXPYUSNCOLDWZERH4MD353Y/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 08:14:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4OJ6JM2FHDXKZQ337TAHWA7U.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;박지성·김민지 부부. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 축구 국가대표 선수 박지성(44)의 아내 김민지(40) 전 SBS 아나운서가 가짜 뉴스에 분노했다.&lt;br&gt;&lt;br&gt;김민지는 30일 인스타그램에 “역시 나와 남편이 만나 결혼한 이야기는 도파민의 민족을 만족시키기엔 턱없이 밋밋한 듯”이라며 사진 여러 장을 올렸다. 일부 온라인 커뮤니티와 소셜미디어에 확산한 가짜 뉴스 이미지로, 김민지가 얼마 전 공개한 아들과의 사진에 ‘부모님 반대에도 결혼한 아나운서’라는 자극적인 문구가 적혀있다.&lt;br&gt;&lt;br&gt;김민지는 “연애할 때도 온갖 배신과 복수, 치정이 얽힌 스토리가 생성되더니 최근엔 결혼 반대설, 이혼설, 셋째 임신설까지 있는 것 같다. 이혼했는데 임신이라니 와우”라며 “아줌마 아저씨 사는데 관심 가져줘서 고마워요. 그런데 미안해요. 우리 그렇게 멋지지 않아요”라고 했다. 이어 “부모님 반대 저도 좋아하는 재밌는 소재긴 한데, 남편은 옛날부터 유명한 일등 사윗감이었다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 박지성과 김민지는 2013년 교제를 인정하고 공개 연애를 이어 오다 이듬해 결혼했다. 슬하에 1남 1녀를 뒀다. 이들 가족은 영국 런던에 거주 중이며 김민지는 인스타그램과 유튜브 등으로 일상을 전하고 있다. 결혼 10주년이던 작년 8월엔 “난 당신을 보면서 무슨 일이 있더라도 힘을 낼 거야. 우린 잘 살아갈 거야”라는 글을 써 변함없는 애정을 드러내기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>논문 표절 의혹 최교진 “출처 표시 소홀, 송구하다”</title>
+      <link>https://www.chosun.com/national/education/2025/08/31/ZLZVGJ4IJBC4ZLYMM4RJX4M4ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/31/ZLZVGJ4IJBC4ZLYMM4RJX4M4ZQ/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 06:25:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SB7H4FFNVFOT7HB526SPMEZDQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 사회부총리 겸 교육부장관 후보자가 8월 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하며 인사하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 자신의 석사 논문 표절 논란에 대해 사과했다.&lt;br&gt;&lt;br&gt;최 후보자는 31일 국회에 제출한 인사청문회 서면질의 답변서를 통해 “논문을 작성하는 과정에서 기사 등을 인용하며 출처 표기가 없었던 점에 대해 송구스럽게 생각한다”고 말했다. 최 후보자는 2006년 12월 목원대 대학원 행정학사 석사 학위 논문으로 ‘매니페스토 운동에 나타난 정책 공약 분석’을 제출하면서 다수 신문 기사 문장을 출처 표기 없이 인용해 표절 논란에 휩싸였다.&lt;br&gt;&lt;br&gt;최 후보자는 “다만 논문의 핵심 내용이 매니페스토 운동이라는 당시의 새로운 정치 현상에 관한 것이라 언론 보도를 일부 활용할 수밖에 없었고 그 과정에서 출처 표시가 소홀했다”며 “해당 논문은 연구 윤리 관련 구체적 기준이 정립되기 이전인 2006년에 작성된 점을 고려할 필요가 있다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;최 후보자는 “기회가 주어진다면 합리적이고 자율적인 연구 환경과 문화가 조성될 수 있도록 현장과 충분히 소통하며 연구 윤리 제도가 확립되도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;최 후보자는 또 과거 SNS(소셜미디어)에서 조국 전 법무부 장관에 대해 ‘정치적 탄압’을 받고 있다는 취지의 발언을 한 것에 대해서도 사과 입장을 밝혔다. 그는 “교육자로서 입시 비리와 관련해 청년들이 받은 상처를 먼저 살펴야 했는데 그러지 못한 점을 송구스럽게 생각한다”며 “당시 검찰의 과도한 수사와 권한 남용에 대한 비판에 공감하는 취지로 관련 글을 공유했으나, 자녀 입시 비리 등을 옹호하려는 의도는 아니었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>재난영화처럼…‘최악 가뭄’ 강릉에 전국 소방차 출동</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/31/4CDXLWF5LBEZFC3T5HKSTRY6XY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/4CDXLWF5LBEZFC3T5HKSTRY6XY/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 05:57:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZ3Q7KKUOZAFJCZ3IUNK3UMN34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 강릉시 강북공설운동장 주차장에 급수지원을 하기 위해 전국에서 모인 소방차량들이 도열해 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최악의 가뭄으로 정부가 재난 사태를 선포한 강원 강릉시에 전국 소방 동원령이 발령돼 31일 전국 소방차 50대가 출동해 급수 지원에 나섰다. 강릉시는 이날 주요 생활용수 공급원인 오봉저수지의 저수율이 15% 아래로 떨어지면서 제한급수가 본격 시행됐고, 농업용수 공급도 중단된 상태다. &lt;br&gt;&lt;br&gt;35도 안팎의 무더위가 기승을 부린 이날 오전 9시 강릉시 연곡면 강북공설운동장에는 전국에서 온 물탱크차 50대와 급배수지원차 1대가 집결했다. 강원도 내 소방서는 물론 서울, 인천, 경기, 경북 등 전국 각지에서 온 소방차들이 집결해 급수 지원에 나선 것이다. &lt;br&gt;&lt;br&gt;소방차들은 동해, 속초, 평창, 양양 등 인근 지역 소화전에서 담아온 물을 홍제정수장에 쏟아붓는 방식으로 오후 8시까지 2500t을 급수할 예정이다. 9월 1일부터는 소방차를 담수량이 큰 물탱크 차량으로 바꿔 하루 3000t을 급수한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AH247VLPIVFDLNHPO5VBJE3I5Y.gif"&gt;&lt;figcaption&gt;&lt;small&gt;강릉시에 투입된 소방차들. /소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청은 이날부터 동원된 물탱크차를 활용해 주요 생활 거점과 급수 취약지에 순환 공급을 시작했다. 주민들은 지정 급수 지점에서 생수를 받아가면 된다.&lt;br&gt;&lt;br&gt;이는 전날 오후 7시를 기해 행정안전부가 강릉 일원에 재난 사태를 선포하고, 소방청이 강릉시 급수 지원을 위해 국가 소방 동원령을 발령한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;◆ ‘강릉 저수율 15% 무너져…농업용수 공급도 중단&lt;br&gt;&lt;br&gt; 강릉시는 최근 최악의 가뭄에 시달리고 있다.&lt;br&gt;&lt;br&gt;이날 강릉시에 생활용수의 87%를 공급하는 오봉저수지의 저수율이 15% 아래로 떨어지면서 제한급수가 본격 시행됐다. 31일 한국농어촌공사 농촌용수종합정보시스템에 따르면 이날 오전 7시 40분쯤 오봉저수지 저수율은 14.9%로, 전날 15.3%에서 0.4%P 떨어졌다.&lt;br&gt;&lt;br&gt;식수 공급의 마지노선으로 여겨진 저수율 15% 선이 무너지자 강릉시는 수도 계량기 75%를 잠그는 제한 급수를 본격적으로 시행한다.&lt;br&gt;&lt;br&gt;앞서 강릉시는 저수율이 25% 이하로 떨어진 지난 20일부터 아파트를 비롯해 5만 3485가구의 계량기 50%를 잠그는 제한 급수를 시행했다. 시는 또 전날부터 오봉저수지의 농업용수 공급도 중단했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HH2KHRR2GXMNZFBONXRNL3VJEE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;31일 오전 국가소방동원령이 발령된 강릉에 소방치 51대가 집결해 있다. /소방청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;◆ 최악 가뭄 강릉, 당분간 큰비 없어... 1일 겨우 5㎜&lt;br&gt;&lt;br&gt;당분간 강릉 지역에는 강수 전망도 없어 제한 급수 상황은 더욱 악화할 것으로 예상된다.&lt;br&gt;&lt;br&gt;9월 1일 전국 대부분 많은 비가 예보됐지만 정작 가뭄이 극심한 강원 동해안에는 5㎜ 안팎의 적은 비만 올 것으로 예상됐다. 기상청에 따르면 이날 밤 수도권·강원 내륙·강원 산지·충청에 비가 오기 시작해 9월 1일엔 대부분 지역에 비가 올 것으로 예상된다. 예상 강수량은 수도권·서해5도·강원내륙·강원산지·충청·경남권 30∼80㎜(부산·울산·경남남해안과 경남동부내륙 최대 100㎜ 이상), 제주 20∼80㎜(산지 최대 100㎜ 이상), 호남 10∼60㎜(전남동부 최대 80㎜ 이상), 대구·경북·울릉도·독도 5∼60㎜이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPXW6ZBQKNPXNARQDWMWJ2IBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 강원 강릉시 홍제정수장에서 전국에서 달려온 소방차들이 급수하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 강원 영동에는 최소 9월 10일까지 비 예보가 없다.강원 영동은 올해 들어 이달 29일까지 내린 비가 477.5㎜로 예년 같은 기간 강수량(960.1㎜)의 절반에 못 미친다. 강릉은 누적 강수량이 404.2㎜로 평년(944.7㎜)의 40% 수준이다. 특히 4월 이후 내린 비의 양은 기상 관측 이래 가장 낮은 수치를 기록하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YR4ZF4K5VNFYNLIVTL4CBR6CZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최악의 가뭄을 겪고 있는 강원도 강릉시에 정부가 재난사태를 선포한 가운데 31일 강릉 오봉저수지에 강바닥이 드러나 있다/ 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 비가 내리지 않을 경우 4주 내 오봉저수지 저수율이 9.7%까지 떨어지며 10% 아래로 내려갈 것으로 예상한다. &lt;br&gt;&lt;br&gt;이재명 대통령은 전날 오후 오봉저수지를 찾아 현장을 점검한 뒤 관계 부처에 즉각적인 재난 사태 선포를 지시하고 강릉 가뭄 지역에 대한 국가 소방 동원령 발령도 추가로 지시했다. 자연 재난인 가뭄으로 재난 사태가 선포되는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HH2KHRR2GXMNZFBONXRNL3VJEE.gif?auth=dc544b839bdca1d56673ceceeb8fc0c3ba0ce76880033cefbac1a14bba22deef&amp;smart=true&amp;width=654&amp;height=368" type="image/jpeg" height="368" width="654">
+        <media:description type="plain">31일 오전 국가소방동원령이 발령된 강릉에 소방치 51대가 집결해 있다. /소방청 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">소방청 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[오늘의 운세]  9월 1일 월요일 (음력 7월 10일 癸酉)</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/31/VK5EQ6IFC5C7JGP4QKWT6F4BTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/VK5EQ6IFC5C7JGP4QKWT6F4BTE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 상황 변화 있더라도 계획대로 움직이도록. 48년생 뇌·심혈관 질환 있다면 재발 주의. 60년생 작은 유혹에 흔들리지 않도록. 72년생 여럿이 함께면 태산인들 못 옮길까. 84년생 경솔한 언행이 후환 부를 수도. 96년생 무정한 하늘도 오직 선인을 돕는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 목표를 정했으면 그날의 일과 꼭 완수하도록. 49년생 신장·방광 계통 질환 있다면 즉시 진료. 61년생 한숨 돌리면서 천천히 생각. 73년생 손가락 하나 구부렸다고 주먹 될까. 85년생 자신감 가지고 강행해 봐도 좋을 듯. 97년생 현상 아닌 본질 꿰뚫어야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 마음과 감정 상태 늘 살피도록. 50년생 확실한 승기 잡기 전까진 방어 태세 유지하라. 62년생 억만금 줘도 시간은 살 수 없다. 74년생 마지막 종 울리기 전까진 끝난 게 아니다. 86년생 감동시킬 땐 말 아닌 행동으로. 98년생 행복은 마음가짐에서.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 초조한 마음에 실수 따르는 법. 39년생 지난 과거 묻지 마라. 51년생 운동과 여행으로 일상의 여유를. 63년생 외부 활동은 자제하는 게 좋을 듯. 75년생 권리와 제 몫 당당히 요구하라. 87년생 인고의 시간이 필요할 듯. 99년생 공은 상대에게 돌리도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 문제 해결 열쇠는 소띠에게. 40년생 아랫사람 말이라도 유념해 듣도록. 52년생 서남 양방에 손재 주의. 64년생 배 띄우자 바람 분다. 76년생 북쪽에 운기 서리니 북문 이용. 88년생 침착은 다급한 상황에서 필요. 00년생 윗사람 도움으로 어려움 해결.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 무심코 지낸 친구가 귀인. 41년생 대수롭지 않은 일로 즐거운 하루. 53년생 작은 이익에 시비 두렵다. 65년생 자존감 잃지 않도록 노력하라. 77년생 신속하되 분명한 처신이 후회 막는다. 89년생 밤중 노상에 낙상 주의. 01년생 여유롭고 너그럽게 처신.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 남 이해하면 내가 편안. 42년생 자기 단점 자기가 잘 아는 법. 54년생 진척 없으니 심사 갑갑. 66년생 일정한 거리 유지는 서로에게 필요. 78년생 위아래 두루 잘 살펴 처신하도록. 90년생 친지간의 꾐 경계하도록. 02년생 기억력보다 분별력 필요할 듯.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 간담 질환을 주의. 43년생 대인 관계에 스트레스가 적지 않을 듯. 55년생 여름옷은 봄에 준비하는 것. 67년생 마음을 다잡고 한길로만 매진. 79년생 한발 물러나 전체를 관망. 91년생 자비와 관용을 베풀도록. 03년생 어설픈 의사 표현이 오해 살 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 먼저 듣고 나중에 말하라. 44년생 공로와 실적은 남에게 돌리도록. 56년생 뜻밖의 이익에 하루가 풍성. 68년생 이웃의 어려움 외면 마라. 80년생 모난 세상 둥글둥글 살아라. 92년생 반풍수가 집안을 망친다더라. 04년생 애매모호한 처신은 옳지 않다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 실물(失物)수 있으니 주의. 45년생 집에서 새는 바가지, 들에 가도 샌다. 57년생 유흥으로 시간·돈 낭비 우려. 69년생 활기차고 긍정적 사고가 복 부른다. 81년생 원인 없애면 결과는 따라서 없어진다. 93년생 주름이 짙어지는 만큼 연륜도 깊어진다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 도와줄 사람 있으니 걱정 마라. 46년생 눈앞만 보지 말고 시야 넓혀라. 58년생 조작하지 말고 있는 수용하라. 70년생 어디든 라이벌과 훼방꾼은 있기 마련. 82년생 제 자리가 어딘지 명확히 인지하라. 94년생 반전의 기회는 사소한 실수조차 인정할 때.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
+&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 명가수도 잘 부르는 곡조 각기 있는 법. 47년생 뜬구름 같은 세상사 아등바등 살 것 있나. 59년생 아집은 자신만 멍들게 할 뿐. 71년생 실마리만 찾으면 술술 풀릴 것 같은데. 83년생 앞에서 칭찬, 뒤에서 질책. 95년생 과격한 운동과 무리한 행동 삼가라.	&lt;br&gt;
+&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>“날 속이나, 거짓 반성문 썼나”… 아들 탓한 학대 엄마 꾸짖은 판사</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/31/JOQ4KDEA6BCRHPCDHNT3J7SY5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/JOQ4KDEA6BCRHPCDHNT3J7SY5A/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 07:32:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린 자녀에게 흉기를 던지는 등 학대한 혐의로 기소된 40대 엄마가 선고 당일 법정에서 범행을 반성한다던 태도를 바꾸고 도리어 자녀를 탓했다가 재판 절차를 다시 밟게 됐다.&lt;br&gt;&lt;br&gt;아동복지법 위반(아동 학대) 혐의를 받는 40대 여성 A씨의 재판은 지난 28일 수원지법 형사11단독 김수정 부장판사 심리로 진행됐다. 이날 김 부장판사는 판결 선고에 앞서 A씨의 범죄 사실을 하나하나 읽어 내려갔다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월부터 올해 초까지 초등학생 자녀의 뺨을 밀치고 흉기를 집어던져 가슴 부위를 맞게 하는 등 신체적 학대를 한 혐의로 지난 4월 불구속 기소됐다. 그는 자녀의 머리카락을 잡아당기고 괴성을 지르는가 하면, 식사 중인 자녀들에게 아무 이유 없이 계란찜을 집어던지며 거친 말을 쏟아낸 것으로도 조사됐다. 이 사실은 피해 자녀가 경찰에 직접 신고하면서 알려졌다. A씨는 경찰관을 밀치며 욕하고 손을 물어 피가 나게 하는 등 공무집행을 방해한 혐의도 받는다.&lt;br&gt;&lt;br&gt;김 부장판사는 “제가 일부러 공소 사실이 길지만 다 읽었다. 들어보니 어떠냐”고 피고인에게 물었다. 선고에 앞서 A씨의 반성 여부와 향후 재발 방지를 확인하려는 취지였다. 이때 A씨는 “반성한다. 어른이니까 더 잘해야 했다”면서도 “아들이 저보다 힘이 세고 제가 제압당하는 게 믿어지지 않았다. 그럼에도 보듬고 다독거려야 했는데 제가 소리만 질러도 아들이 계속 신고했다”고 말했다.&lt;br&gt;&lt;br&gt;이에 김 부장판사는 “저도 아이를 키운다. 애가 말을 안 들으면 화날 수 있다. 그렇다고 해서 엄마가 애한테 칼을 던질 수 있냐”고 지적했다. 그러자 A씨는 “저 칼 안 던졌다. 아이를 법정에 증인으로 세우는 것보다 제가 칼을 던진 거로 인정하는 게 좋겠다 싶어서 그렇게 한 것”이라고 주장했다. 이어 ‘자녀들에게 계란찜을 던진 것도 부인하냐’는 질문에 “그때 계란찜 먹지도 않았다”고 반박했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “아이가 거짓말을 한다는 것이냐. 저를 속이나. 재판부에 제출한 편지와 반성문에는 다 반성하는 것처럼 써놓고 여기선 전혀 잘못한 게 없고 아이가 거짓말한다고 하느냐”며 “다시는 아동 학대가 일어나지 않는다고 믿을 수 있어야 제가 선처를 하든지 하지 않겠느냐”고 꾸짖었다.&lt;br&gt;&lt;br&gt;그러면서 “피고인은 영장 심사도 받았다. 그만큼 수사기관이 이 사건을 중하게 봤다는 건데 어떻게 이렇게 경각심이 없을 수 있나”라며 “기록상 굉장히 반성하는 것으로 보여 이 사건을 빨리 종결하려고 했다. 그런데 이 상태로는 선고를 할 수 없다. 변론을 재개해 양형 조사하겠다”고 결정했다.&lt;br&gt;&lt;br&gt;양형 조사란 형량을 정할 때 고려할 수 있는 가정 환경과 범행 동기 등을 파악하는 것이다. 아동 학대 사건의 경우 전문 양형 조사관이 전화, 가정 방문, 대면 조사 등으로 가정 양육 상황을 파악한다. 이번 재판부 결정은 A씨가 제출한 반성문 등 기록상 나타난 내용과 선고 법정 발언 및 태도가 불일치했기 때문에, 면밀한 조사를 거쳐 선고 형량을 다시 따지겠다는 취지로 해석된다.&lt;br&gt;&lt;br&gt;A씨에 대한 다음 공판 기일은 10월 20일이다. 선고 기일은 공판 이후 다시 지정될 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, IMS모빌리티 대표 구속영장에 “윤석열·김건희 친분 과시”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/31/D2FUBICQDZAIHDER7BHGPLT3HM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/D2FUBICQDZAIHDER7BHGPLT3HM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 07:06:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6Q4QDVMI3XZRYMNPMY7GYGPCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 12일 오전 서울 서초구 서울중앙지법에서 열린 자본시장과 금융투자업에 관한 법률 위반 및 정치자금법 위반 혐의 등의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 횡령 등 혐의를 받는 조영탁 IMS모빌리티 대표의 영장에 김 여사를 한 차례 언급한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;31일 법조계에 따르면 특검은 조 대표의 구속영장에 “피의자(조영탁 대표)는 윤석열, 김건희와의 친분을 투자업계에서 과시해 왔다”는 취지의 내용이 포함됐다고 한다. 특검은 조 대표가 김 여사의 측근인 김예성씨를 연결고리 삼아 이들 부부의 영향력을 이용했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;김예성씨가 한때 임원으로 있었던 IMS모빌리티는 2023년 6월 오아시스에쿼티파트너스를 통해 카카오모빌리티·신한은행 등으로부터 184억원대 투자를 받았다. 해당 투자를 받을 당시 IMS모빌리티는 순자산(566억원)보다 부채(1414억원)가 많은 자본잠식 상태였다. 이런 탓에 이같은 투자 과정에 김 여사의 입김이 작용한 것이 아니냐는 의혹이 불거졌다. 윤 전 대통령은 2016년 7월 조 대표의 결혼식에서 주례를 서기도 했다.&lt;br&gt;&lt;br&gt;이에 대해 조 대표는 “김예성씨는 2021년 4월 퇴사해 해당 투자에 개입하지 않았다”며 “김씨와 친분이 있을 뿐, 김 여사와는 제가 결혼한 2016년 이후 뵌 적도, 연락드린 적도 없다”며 이같은 의혹을 부인했다. 또 “특검은 3차례 조사에서 한 번도 김 여사와의 관계에 대해 묻지 않았다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 29일 특정경제범죄 가중처벌법상 배임, 횡령, 외부감사법 위반, 증거은닉교사 등 혐의를 적용해 조 대표에 대한 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>30대 고혈압 환자, 10명 중 7~8명은 본인이 환자인지 몰라</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/08/31/4TQRPO6GZBFBVIANVXXETHLG4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/08/31/4TQRPO6GZBFBVIANVXXETHLG4E/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 06:00:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCGPUCZRMVCRXMFFB6YBEZ4EBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'세계 고혈압의 날'을 하루 앞둔 지난 2024년 5월16일 부산 도시철도 1호선 시청역에서 '너와 내 가족 혈압알기 캠페인'이 열려 시민들이 혈압을 측정하고 있다. '세계 고혈압의 날'은 세계고혈압연맹(WHL)이 고혈압에 대한 경각심을 일으키고자 지정한 날로 2006년부터 5월 17일을 세계 고혈압의 날로 지정해 기념하고 있다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30대 고혈압 환자 10명 가운데 7~8명은 본인이 환자인지도 모르는 것으로 나타났다. &lt;br&gt;&lt;br&gt;질병관리청은 31일 “30대 성인 100명 중 10명이 고혈압 환자인데(2021년 기준), 그중 7~8명은 본인이 고혈압 환자인지 모르고 있다”고 밝혔다. 질병관리청에 따르면 30대 고혈압 환자의 ‘인지율’은 24.8%에 그쳤다. 인지율이란 실제 환자 가운데 의사로부터 진단을 받은 비율로, 이 비율만큼 환자 본인이 환자라는 것을 알고 있다는 뜻이다.&lt;br&gt;&lt;br&gt;고혈압 환자의 인지율은 나이가 낮아질수록 급격히 낮아졌다. 70세 이상 고혈압 환자의 인지율은 87.1%였는데 40대는 50.7%, 30대는 24.8%, 20대는 19.3%였다. &lt;br&gt;&lt;br&gt;고혈압의 경우 제대로 관리되지 않으면 심장에 혈액을 공급하는 관상동맥이 갑자기 막혀 심장에 산소가 통하지 않는 ‘심근경색’, 뇌에 혈액을 공급하는 혈관이 막히는 ‘뇌졸중’ 등의 발생 위험이 커진다.&lt;br&gt;&lt;br&gt;하지만 20~30대의 고혈압은 적절한 관리가 안 되고 있다는 지적이 많다. 대한고혈압학회에 따르면 20~30대 고혈압 유병자(수축기 혈압이 140mmHg 이상이거나 이완기혈압이 90mmHg 이상인 경우 등)는 89만4000명으로 이 중 지속적인 치료를 안 받는 경우가 75만9000명에 달한다.&lt;br&gt;&lt;br&gt;고혈압처럼 심장질환과 뇌혈관질환으로 이어질 수 있는 당뇨병 역시 고혈압과 비슷했다. 70대 이상 당뇨병 환자의 66.6%는 본인이 환자인 것을 인지하고 있었다. 하지만 이 비율이 40대는 53.3%, 30대는 43.1%, 20대는 22.1%로 급격히 떨어졌다. 질병청은 “질병이 있다는 것을 알아야 치료·관리를 시작할 수 있는데, 본인이 환자인지 모르는 20~40대 성인이 많아 치료·관리 시기가 늦어지고 있다”고 했다. 임승관 질병관리청장은 “증상이 뚜렷하지 않아 관리 시기를 놓치기 쉬운 만큼 20대부터 정기적인 검사·측정을 통해 자신의 혈압·혈당·콜레스테롤 수치를 알아야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘서정시 거목’ 신석정 시인 51주기 추모…전국 문인들 부안에 모였다</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/08/31/UMVJH6RXZFBBTOAM533T2ETFRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/08/31/UMVJH6RXZFBBTOAM533T2ETFRU/</guid>
+      <dc:creator>부안=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 06:43:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AE7Z7M2VERELTJRNZAAFSTODMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 현대시의 큰 별, 석정(夕汀) 신석정 시인의 서거 51주기를 맞아 전국 문인들이 지난 29~30일 전북 부안 모항 해나루 가족호텔에서 ‘2025 대한민국 문학인 어울림 한마당’을 개최했다./신석정기념사업회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 현대시의 큰별 석정(夕汀) 신석정 시인의 서거 51주기를 맞아 전국 문인들이 그의 문학혼을 기리기 위해 한자리에 모였다. &lt;br&gt;&lt;br&gt;신석정기념사업회는 지난 29일부터 30일까지 이틀간 전북 부안 모항 해나루 가족호텔에서 ‘2025 대한민국 문학인 어울림 한마당’을 개최했다고 31일 밝혔다. 한국문인협회가 주최하고 신석정기념사업회, 전북문인협회, 석정문학회가 공동 주관하는 이번 행사에는 김호운 한국문인협회 이사장을 비롯해 전국 지회·지부 문인 300여 명이 참석했다. &lt;br&gt;&lt;br&gt;올해 행사에선 신석정 시인의 작품 세계를 재조명하고, 부안의 문화유산을 연계한 다채로운 프로그램이 진행됐다. 신석정 시인의 첫 시집 ‘촛불’을 중심으로 그의 서정 세계와 사상, 유토피아적 인식, 그리고 생태 정신을 깊이 있게 탐구하는 심포지엄도 열렸다. &lt;br&gt;&lt;br&gt;윤석정 신석정기념사업회 이사장은 “전북에서 처음으로 귀한 문인들을 모시게 되어 큰 영광”이라며 “신석정 시인의 ‘부조리와 현실에 대한 인간의 성실한 저항이 시인에게 요구되는 것을 잊어서는 안 된다’는 말씀을 되새기며 문학 발전을 위해 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;김호운 한국문인협회 이사장은 “신석정 시인은 전북의 시인이 아니라 한국 문학의 줄기를 이루는 시인이며 세계문학 속의 시인으로 나아가는 것이 한국 문학의 발전이라 생각해 부안 행사를 기획하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“검찰 개혁 비판 임은정, 검사 일했다면 할 수 없는 말” 내부 비판</title>
       <link>https://www.chosun.com/national/court_law/2025/08/31/PLAM4W4IZZFM3LBYC3R7SQRDFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/PLAM4W4IZZFM3LBYC3R7SQRDFU/</guid>
@@ -854,15 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘난민 신청자 폭행’ 외국인보호소 직원 직위해제… 법무부 진상조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/MWXXK6GK2FAQXL6DHLXUUJN4UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/MWXXK6GK2FAQXL6DHLXUUJN4UU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 07:46:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ESSZVJUUPQZJU57LOJVMVNCSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 청주외국인보호소 직원이 난민신청자를 폭행했다는 의혹과 관련해 해당 직원 A씨를 29일 자로 직위해제하고 진상조사에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 “관련자들의 위법 행위는 법과 원칙에 따라 엄중 조치하고, 철저한 조사와 제도 개선으로 같은 사건이 발생하지 않도록 해 보호 외국인의 인권 보호에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;전날 TV조선은 청주외국인보호소 소속인 A씨가 작년 9월 예멘인 난민 신청자를 여러 차례 폭행하고, 전기충격기로 위협했다고 보도했다. A씨 외에 다른 직원들은 폭행 상황을 지켜보기만 했을 뿐 별다른 조치를 하지 않았다는 의혹도 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>신동아건설 회생계획안 인가...회생 개시 7개월 만</title>
       <link>https://www.chosun.com/national/court_law/2025/08/29/AEQ5LAOYAVH3NNV2DH6WVUZGQM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/AEQ5LAOYAVH3NNV2DH6WVUZGQM/</guid>
@@ -870,33 +950,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 07:31:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLDT4TBZOWE2RWOTAJAAZYSHA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 시공능력평가 58위 건설사인 신동아건설 본사 모습. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 기업회생 절차를 밟고 있는 신동아건설의 회생계획안을 인가했다고 29일 밝혔다. 지난 1월 회생절차가 개시된 지 7개월 만이다.&lt;br&gt;&lt;br&gt;이날 신동아건설 회생계획안 심리·결의를 위한 채권자 집회에서는 회생담보권자의 88.63%, 회생채권자의 88.61%가 회생계획안에 찬성했다. 회생계획안 인가 요건인 회생담보권자의 4분의 3(75%), 회생채권자의 3분의 2(67%) 이상의 동의를 얻었다. 서울회생법원은 “신동아건설 관리인이 제출한 최종 회생계획안이 인가 요건을 구비하고 있고 법정 가결요건을 충족했다”며 인가 결정을 내렸다.&lt;br&gt;&lt;br&gt;주택 브랜드 ‘파밀리에’로 잘 알려진 신동아건설은 작년 기준 시공능력평가 58위의 중견 건설사다. 1977년 설립돼 건축·토목공사와 부동산 임대 등 사업을 해왔다. 최근 원자재 가격의 급격한 상승으로 수익성이 악화된 데다 분양시장 침체로 사업일정이 지연·중단되고 최근 준공한 주요 공사현장 관련 공사대금 회수까지 부진하면서 유동성이 악화됐다. 지난 1월 6일 기업회생을 신청했고, 같은 달 22일 회생절차가 개시됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘SM 시세조종 의혹’ 카카오 김범수에 징역 15년 구형     </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/PADVEAKXJRCDJMZYZCCM2WFBDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/PADVEAKXJRCDJMZYZCCM2WFBDI/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 06:39:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OK7RAZE2RSM7Z3TLFMUPV2QMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SM엔터테인먼트 시세조종 공모 의혹을 받는 김범수 카카오 창업자가 29일 오후 서울 양천구 남부지법에서 열린 결심공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오의 SM엔터테인먼트(SM) 인수 과정에서 주가를 조작한 혐의를 받는 김범수 카카오 창업자에 대해 검찰이 징역 15년에 벌금 5억원을 구형했다. 함께 기소된 피고인 6명도 징역형이 구형됐고, 카카오와 카카오엔터에는 각각 벌금 5억원이 구형됐다.&lt;br&gt;&lt;br&gt;서울남부지법 형사합의15부(재판장 양환승)는 29일 자본시장법 위반 혐의로 기소된 김 위원장 등에 대한 결심공판을 진행했다. 이날 검찰은 김 위원장에게 징역 15년과 벌금 5억원을 구형했다. 검찰은 “피고인 김범수는 카카오 그룹의 총수이자 최종 의사 결정권자로서 적법한 경쟁 자격이 있음을 보고받았음에도 지속적으로 반대하면서 ‘평화적으로 가져오라’며 SM 인수를 지시했다”며 “카카오의 SM 인수 의도를 숨기고 하이브의 공개 매출을 막기 위해 장내 매집을 통한 SM 주가 시세 조종의 범행을 승인했으므로 책임이 가장 막중하다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 검찰은 “장내 매집을 통한 하이브의 공개를 저지하는 최종 의사 결정을 했고, 카카오 그룹의 최대 주주로서 이번 범행으로 인한 수익의 최고 수혜자라는 점에서 다른 피고인들에 비해 비난 가능성이 높다”고 했다.&lt;br&gt;&lt;br&gt;검찰은 함께 기소된 배 전 투자총괄대표에게 징역 12년, 지창배 원아시아파트너스 대표에는 징역 10년, 김성수 전 카카오엔터테인먼트 대표에 대해선 징역 9년을 각각 구형했다. 또 홍은택 전 카카오 대표, 강호중 카카오 전 투자전략실장, 김태영 전 원아시아파트너스 부대표에는 각 징역 7년이 구형됐다. &lt;br&gt;&lt;br&gt;검찰은 작년 8월 김 위원장을 자본시장법 위반 혐의로 구속 기소했다. 김 위원장 등은 2023년 2월 SM 인수 과정에서 경쟁 상대인 하이브의 공개매수를 방해하기 위해 SM 주가를 하이브의 공개매수가인 12만원보다 높게 고정시키려고 시세를 조종한 혐의를 받는다. 김 위원장 등은 카카오와 카카오엔터 명의로 190차례에 걸쳐 SM 주식 1300억원어치를 사들였다. 또 김 위원장 등은 같은 달 사모펀드 운용사 ‘원아시아파트너스’ 명의로 363차례에 걸쳐 SM 주식 1100억원어치를 매입하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 김예성 구속기소...IMS모빌리티 대표 등 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/7GKHY6UIIJB6ZPJNN34FLJE35Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/7GKHY6UIIJB6ZPJNN34FLJE35Q/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 07:07:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7ISEQL7DI2JFIZNMX4332ATC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가의 '집사'로 알려진 김예성 씨가 지난 12일 인천국제공항에서 체포돼 서울 종로구에 마련된 김건희 특검팀 사무실로 조사를 받기 위해 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사 측근 김예성씨를 29일 구속 기소했다. 김씨는 특정경제범죄가중처벌법상 횡령 및 업무상 횡령 혐의를 받는다.&lt;br&gt;&lt;br&gt;박상진 특검보는 이날 정례 브리핑을 열고 “오늘 오후 속칭 ‘집사 게이트’ 사건 관련 피의자 김예성씨에 대해 특정경제범죄가중처벌법상 횡령 혐의로 구속 기소했다”고 밝혔다. 특검은 공소장에 김씨의 횡령 액수를 48억여원이라 적시했다. 앞서 김씨의 구속영장에 적시된 횡령 금액은 33억8000만원이었으나 구속 후 보강 수사 과정에서 횡령 액수가 늘었다.&lt;br&gt;&lt;br&gt;김씨가 임원을 지냈던 IMS모빌리티는 2023년 6월 오아시스에쿼티파트너스를 통해 카카오모빌리티·한국증권금융 등 기업으로부터 총 184억원을 투자받았다. 그런데 당시 투자금 중 46억원이 김씨의 아내 정모씨가 대표이사로 이름을 올린 ‘이노베스트코리아’가 기존에 보유했던 주식을 사들이는 데 쓰였다는 사실이 알려지면서 논란이 불거졌다. 특검은 김씨가 이노베스트코리아로 받은 46억원 중 약 33억8000만원을 횡령했다고 보고 김씨에 대한 구속영장을 청구한 바 있다.&lt;br&gt;&lt;br&gt;특검은 이날 조영탁 IMS모빌리티 대표, 민경민 오아시스에쿼티파트너스 대표, IMS모빌리티 이사 모모씨에 대해서도 특정경제범죄가중처벌법상 횡령과 배임 등 혐의로 구속영장을 청구했다. 조 대표는 배임(약 32억원)과 횡령(약 35억원), 주식회사외부감사에관한법률위반, 증거은닉교사 혐의를 받으며, 민 대표는 배임(약 32억원) 혐의를 받는다. 모씨는 증거은닉 혐의로 구속영장이 청구됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈 “소비쿠폰 위해 지방채 발행에 ‘편법’ 동원”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/GVJMHTDOINDYTHJCOPLKPRLC2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/GVJMHTDOINDYTHJCOPLKPRLC2A/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 06:58:51 +0000</pubDate>
-      <content:encoded>오세훈 서울시장은 29일 민생회복 소비쿠폰 재원 마련과 관련과 관련해 “정부가 지방채를 내서 재원 마련을 하라고 하면 지방자치단체장의 재정운영 철학을 짓밟는 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 서울시의회 임시회 시정질문에 출석해 소비쿠폰 재원 마련 방안에 관한 국민의힘 윤영희 의원(비례)의 질문에 “그동안 허리띠를 졸라매서 부채를 줄여왔는데, 소비쿠폰을 발행하느라 3500억 부채를 지라는 것이 받아들이기 힘든 부분”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYSY4X7IUIXYJC7EMF6GGGNGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 중구 세종대로 서울시의회 본회의장에서 발언 중인 오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 17개 시도 중 유일하게 국고보조율 75%를 적용받는다. 다른 시도는 국고보조율이 90%다. 서울시는 소비쿠폰 지급에 따른 부담이 약 3500억원이라며, 이를 마련하기 위해 같은 규모로 지방채를 발행키로 했다.&lt;br&gt;&lt;br&gt;오 시장은 “지방채를 발행하려면 지방재정법을 개정해야 하는데, 아직 법이 국회 행정안전위 소위를 통과한 단계”라며 “당장 재원이 필요하다 보니 투트랙으로 지방채 발행에 편법을 동원하고 있다”고 했다. 그는 “지방채를 발행해 재난 관리 기금에 집어넣고, 이를 통합 재정 안정화 기금으로 돌려쓰겠다는 것”이라며 “사실 코로나 때는 재난 상황이라 재난 관리 기금을 편법 운영한 적이 있으나, 과연 집권 초 선심성 정책을 위해 재난 관리 기금을 우회 통로로 쓰는 게 과연 국민적 공감대가 있겠느냐”고 했다. 또 “아마 이런 과정을 국민 여러분들이 아시게 되면, 그 소비쿠폰으로 불고기를 드실 때 과연 그렇게 맛이 있으시겠느냐”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 소비쿠폰 추진 과정에서 정부가 지자체와 협의하지 않은 점도 지적했다. 오 시장은 “(이재명) 대통령께도 ‘이번에는 협조하겠으나 (편법을 동원한 소비쿠폰 발행이) 반복되는 경우 서울시는 협조하기 어렵다’는 입장을 직접 말했다”며 “(소비쿠폰이) 경기부양 효과가 있는지는 논쟁의 여지가 있다 해도, 부담을 지자체에 떠넘기는 것은 매우 잘못된 행태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국민 98.2%가 민생 회복 소비 쿠폰 신청…9조원 지급</title>
@@ -908,15 +961,6 @@
       <content:encoded>지난 28일까지 전 국민의 98.2%가 민생 회복 소비 쿠폰 신청을 마친 것으로 집계됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJYTJ3Z75VNHLDJTIJXFTJATUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 시내 한 전통시장에 '민생 회복 소비 쿠폰을 사용할 수 있다'는 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 행정안전부에 따르면, 전날 기준 국민 4969만4846명이 민생 회복 소비 쿠폰 신청을 마친 것으로 집계됐다. 전체 지급 대상자의 98.2% 수준이다. 지급을 완료한 금액은 9조8억원에 달했다.&lt;br&gt;&lt;br&gt;신용카드와 체크카드로 지급받기를 신청한 사람이 3443만7929명으로 가장 많았다. 모바일·카드 지역사랑상품권으로 신청한 사람이 795만7571명으로 뒤를 이었다. 이어 선불 카드(605만6512명), 지류 지역사랑상품권(124만2834명) 순이었다.&lt;br&gt;&lt;br&gt;지역별로는 전남 지역의 신청률이 98.72%로 가장 높았다. 그 뒤를 울산(98.68%), 대구(98.62%) 등이 이었다. 신청률이 가장 낮은 지역은 서울로 전체의 97.56%가 신청을 마쳤다.&lt;br&gt;&lt;br&gt;한편 전날까지 신용카드와 체크카드로 지급한 소비 쿠폰 5조9715억원 중 4조6968억원이 쓰인 것으로 집계됐다. 전체의 78.7% 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>산책길서 사우나 내부가 훤히… 이번엔 안산 5성급 리조트 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/GADH6BJMPZFXLBIMXH2SL7HR2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/GADH6BJMPZFXLBIMXH2SL7HR2A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 06:55:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DORA6D3IOGQUN6MVROQGVPH3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 안산의 한 5성급 리조트 내부 사우나가 창문을 통해 훤히 들여다 보이는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산의 한 5성급 리조트에서 남성 사우나 내부가 외부에 그대로 노출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;투숙객 A씨는 지난 23일 오후 7시 30분쯤 리조트 산책로를 걷던 중 1층 사우나 창문을 통해 내부가 훤히 보이는 것을 발견했다. 당시 사우나가 운영 중이어서 이용객들의 모습까지 외부에 드러난 상태였다고 한다. &lt;br&gt;&lt;br&gt;A씨는 연합뉴스에 “저녁 시간 산책을 하던 중 창문 너머로 사우나 내부가 보여 깜짝 놀랐다”며 “안에 있던 손님들은 자신들의 모습이 밖에서 보인다는 사실을 모르는 것 같았다”고 말했다. 그는 체크아웃 시 리조트 측에 문제를 알리려 했으나 일정상 그러지 못했다고 덧붙였다.&lt;br&gt;&lt;br&gt;리조트 측은 “사우나 이용객으로 보이는 누군가가 창문 블라인드를 올리면서 벌어진 일로 추정된다”고 했다. 해당 유리창에는 사생활 보호용 필름이 시공돼 있었지만 야간에는 차단 효과가 부족해, 리조트 측이 블라인드를 내려 시야를 가려왔다. 그러나 누군가 블라인드를 올리면서 문제가 발생했다는 것이다.&lt;br&gt;&lt;br&gt;리조트 관계자는 “외부 노출 사실을 확인하고 보완책을 검토 중”이라며 “블라인드를 임의로 조작할 수 없도록 고정하거나 필름을 교체하는 방안을 논의하고 있다. 더 이상의 이런 문제가 발생하지 않도록 필요한 조치를 할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이달 12일에도 경주의 한 호텔에서 유사한 사고가 있었다. 보호 필름 성능이 떨어져 사우나 내부가 노출되자, 호텔 측은 사과문을 내고 “재발 방지를 위해 정기 점검과 임직원 보안 인식 강화 교육을 실시하겠다”고 알렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 재범 행각…중고 식기세척기 ‘신품 둔갑’ 군납업자 檢 송치</title>
       <link>https://www.chosun.com/national/national_general/2025/08/29/VZG4NYFKBJEDLAISGGABO7STVA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/VZG4NYFKBJEDLAISGGABO7STVA/</guid>
@@ -924,15 +968,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 06:49:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZO6GSE7YINUB6CPDZ3YPYD6LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 장병들이 사용하는 식기세척기를 납품하면서 중고 제품을 신품으로 속여 공급한 혐의를 받는 군납업체 소유주가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울경찰청 안보수사과는 군납 식기세척기 임대업체 A사의 실소유주 손모(55)씨를 입찰방해 등 혐의로 지난 28일 검찰에 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;국방부는 A사의 납품 비리 의혹을 확인하기 위해 조사를 의뢰했고, 육군 중앙수사단이 지난 2023년 초 수사에 착수했다. 이후 경찰도 손씨를 입건해 본격 수사에 나섰다.&lt;br&gt;&lt;br&gt;육군사관학교를 졸업한 재정병과 소령 출신인 손씨는 군에서 임대 사용 후 철거된 식기세척기를 수거해 겉면 시트지와 일부 부품을 교체한 뒤 ‘새 제품’인 것처럼 꾸며 군에 재납품한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;손씨는 2017년에도 같은 수법으로 중고 식기세척기를 신품으로 속여 납품한 혐의로 기소돼 징역 1년 4개월을 선고받은 전력이 있다. 2018년 출소 이후에도 A사를 비롯한 6개 군납 식기세척기 임대업체에서 임원으로 활동하며 군납 리스 사업에 관여해온 것으로 드러났다.&lt;br&gt;&lt;br&gt;손씨 업체를 통해 납품된 식기세척기는 370여 대, 22억 원 규모에 이르며 육·해·공군과 해병대 등 전군 부대에 설치된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수지 측, 난데없는 결혼설에 법적 대응 “합의·선처 없다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/3WIHW42ZCBAAREVQ5XTATEFGT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/3WIHW42ZCBAAREVQ5XTATEFGT4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 06:54:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWF3VZU7DRBKDL3GFIVV5TL7OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 수지. /매니지먼트 숲&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 미쓰에이 출신 가수 겸 배우 수지(배수지‧31)가 난데없이 유명 사업가와의 결혼설에 휩싸였다. &lt;br&gt;&lt;br&gt;29일 수지의 소속사 매니지먼트 숲은 공지문을 통해 “최근 당사 아티스트와 관련해 지라시, 추측성 루머, 악의적 게시물, 비방 댓글 등이 확인되고 있다”며 “이는 아티스트의 명예를 심각하게 훼손하는 행위로, 어떠한 합의나 선처 없이 강력한 법적 조치를 진행할 예정이다”라고 밝혔다.&lt;br&gt;&lt;br&gt;소속사는 “당사는 향후 모든 불법 행위에 대해 단호히 대응할 것이며, 소속 아티스트의 권익 보호에 최선을 다하겠다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 온라인상에서는 수지가 국내 유명 사업가와 곧 결혼을 할 예정이라는 글이 유포됐다. &lt;br&gt;&lt;br&gt;이에 수지의 소속사 매니지먼트 숲 김장균 대표는 전날 자신의 소셜미디어에 “유언비어 퍼트리다 걸리면 혼난다”는 글을 올렸다. &lt;br&gt;&lt;br&gt;한편, 수지는 2010년 그룹 미쓰에이로 데뷔했으며 이후 배우로 활발하게 활동하고 있다. 현재 내년에 공개 예정인 디즈니+ ‘현혹’을 촬영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가을은 언제쯤... 주말에도 덥고 습하다 “9월초까지 늦더위”</title>
@@ -969,24 +1004,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 02:33:29 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBO3XNSNPBGGDGWP5FNNKPC4BE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주시 한국에너지공대./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학생 1인당 교육비가 가장 많은 대학은 한국에너지공대인 것으로 나타났다.&lt;br&gt;&lt;br&gt;교육부와 한국대학교육협의회(대교협)는 29일 4년제 일반·교육대학 193개교의 8월 대학 정보 공시를 발표했다. 2024년 학생 1인당 교육비는 2021만2000원으로 전년(1953만원)보다 68만2000원(3.5%) 늘었다. 작년 국공립대학의 1인당 교육비는 2592만5000원, 사립대학은 1838만6000원이었다.&lt;br&gt;&lt;br&gt;1인당 교육비가 가장 높은 곳은 전남 나주에 위치한 국립 특별법법인 대학인 한국에너지공대였다. 작년 학생 1인당 교육비는 1억8434만2081원이었다. 한국에너지공대는 2022년 개교해 올해 3년차다. 문재인 정부가 호남 지역 공약으로 추진했다.&lt;br&gt;&lt;br&gt;한국에너지공대 1인당 교육비는 첫해인 2022년 4억5304만6596원에 달했다. 재학생 수가 154명밖에 되지 않았기 때문이다. 2023년엔 학생 수가 283명으로 늘며 1인당 교육비는 2억6803만4577원이 됐고, 작년 학생 수는 377명이 되며 인당 교육비 역시 줄었다. &lt;br&gt;&lt;br&gt;한국에너지공대에 이어 인당 교육비가 높은 곳은 포스텍(1억3273만1380원), 대구경북과학기술원(9842만3925원), 카이스트(9502만4117원), 광주과학기술원(8858만5659원), 울산과학기술원(7640만2408원)이었다. 서울대는 6302만1143원이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조세호, 빌 게이츠와 셀카 올렸다가 날벼락…댓글창 닫게한 ‘음모론’</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/GFVE2I6RZNGBBBLSP6YOMUKW6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/GFVE2I6RZNGBBBLSP6YOMUKW6A/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 00:14:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRTMMJMKKJD7NPH3M2NWBHLYSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;빌 게이츠 게이츠 재단 이사장(가운데)과 방송인 조세호, 유재석./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 조세호가 방한한 빌 게이츠 게이츠 재단 이사장과 함께 찍은 사진을 소셜미디어(SNS)에 올렸다가 ‘백신 음모론자’들의 표적이 됐다.&lt;br&gt;&lt;br&gt;조세호는 지난 27일 자신의 인스타그램을 통해 “빌 게이츠 자기님과”라는 문구와 함께 게이츠 이사장, 유재석과 함께 촬영한 사진을 공개했다. 최근 방영한 ‘유 퀴즈 온 더 블럭’ 녹화 당시 촬영한 사진이다.&lt;br&gt;&lt;br&gt;이 사진에 일부 네티즌들은 “조세호는 백신 맞았냐” “백신 강제하지 말아라” “빌 게이츠는 킬 게이츠” 등의 댓글을 쏟아냈다. 백신 음모론을 신봉하는 이들의 댓글로, 대부분 게이츠 이사장이 백신 접종을 강제한다는 식의 음모론을 펼쳤다.&lt;br&gt;&lt;br&gt;이를 본 다른 네티즌들은 “우리나라에도 백신 음모론자들이 있어 놀랐다”는 식의 반응을 보이기도 했다.&lt;br&gt;&lt;br&gt;댓글 창이 ‘백신’ 관련 내용으로 도배되자 조세호는 이 사진의 댓글 창을 닫았다. &lt;br&gt;&lt;br&gt;게이츠 이사장은 코로나 팬데믹 시기 일부 음모론 단체들로부터 “백신을 이용해 인체에 마이크로칩을 심으려 한다”는 주장에 휩싸였다. &lt;br&gt;&lt;br&gt;이들은 게이츠 이사장이 코로나 창궐 전인 2015년 한 강연장에서 한 발언을 근거로 이런 음모론을 펼쳤다. 당시 게이츠 이사장은 “향후 몇십 년 안에 1000만 명 이상을 사망에 이르게 할 바이러스가 나타날 것”이라며 “지구를 보존하기 위해 인구수를 큰 폭으로 줄여야 한다”고 말했다.&lt;br&gt;&lt;br&gt;과학적 근거가 없는 음모론은 전 세계적으로 확산됐고, 결국 게이츠 이사장은 현지 매체 인터뷰를 통해 “나와 관련된 모든 코로나 음모론은 사실이 아니다”라고 여러 차례 반박했다. 아울러 그는 “코로나 배후에 내가 있다는 음모론이 미국의 백신 접종량을 낮추고 있다”며 “음모론이 아니었다면 백신 접종량이 지금보다 훨씬 더 높았을 것”이라고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘어묵 1개 3000원’ 바가지  논란 부산 노점 결국 형사고발</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/BIXBDQILSJD3JLW2I3VKLYKEWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/BIXBDQILSJD3JLW2I3VKLYKEWA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 02:11:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUK3OBEVD35ZKSHR3L3EMTPXQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 관광지 인근 노점 주인이 어묵을 판매하고 있다./유튜브 '투깝이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어묵 1개에 3000원을 받아 바가지 논란이 불거진 부산 기장군 해동용궁사 인근 노점이 무신고 업소로 확인돼 지자체가 고발에 나섰다. &lt;br&gt;&lt;br&gt;29일 부산 기장군은 해동용궁사 인근 노점 15곳이 무신고 영업을 해온 사실이 드러나 식품위생법 위반 혐의로 형사고발에 착수했다고 밝혔다. 다만 바가지요금 자체에 대해서는 지자체가 단속할 권한이 없어 향후 행정 지도할 계획이다.&lt;br&gt;&lt;br&gt;기장군 관계자는 조선닷컴에 “바가지요금 근절, 가격표시제 준수 등 행정지도를 하겠다”면서 “해동용궁사 입구 무신고 업소들에 대해서는 주기적으로 점검해 왔는데 다음에도 적발 시 고발하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 유튜브와 인터넷 커뮤니티를 중심으로 해동용궁사 인근에서 어묵 1개당 3000원에 판매되는 사실이 알려지며 논란이 됐다. 지난 18일 유튜브 채널 ‘투깝이’에 공개된 영상을 보면 유튜버는 해운대 용궁사 인근 한 노점에서 어묵 가격을 물었다가 “3000원”이라는 답변을 들었다. “몇 개에 3000원이에요?”라고 되묻자, 상인은 “1개에 3000원”이라고 말했다. 옆에 있던 핫도그 역시 4000원에 판매되고 있었다.&lt;br&gt;&lt;br&gt;해당 영상은 빠르게 확산했다. 이를 접한 네티즌들은 “부산도 바가지요금 문제로 관광객이 끊겨야 정신을 차릴 것” “장사 하루 하고 말 것도 아니지 않냐” “관광지라도 어묵 한 개에 3000원은 너무 심하다” 등 오뎅 가격이 너무 비싸다며 부정적인 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
