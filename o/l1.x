@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 남의 명의로 공공임대 살다 매매 '무효'</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/210978.jpg" alt="we23426.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;대법원이 공공건설임대주택의 임차권을 사실상 양도받아 거주하면서 장차 우선분양 전환을 전제로 체결한 매매계약은 반사회질서 법률행위로 무효라고 판단했다. 무주택 서민 보호를 위해 임차권 양도를 제한하고 우선분양 자격 요건을 엄격히 규정한 임대주택법의 입법취지를 다시 확인한 것이다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3987"&gt;신숙희&amp;nbsp;&lt;/span&gt;대법관)는 7월 18일 공공임대아파트 인도를 청구한 원고 A 씨와 이에 맞서 소유권이전등기를 요구한 피고 B 씨 사이의 상고심(&lt;b&gt;2023다264530, 2023다264547&lt;/b&gt;)에서 원심을 파기하고 사건을 수원지법으로 돌려보냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2008년 대한주택공사와 공공건설임대주택 임대차계약을 체결했지만 실제로는 거주하지 않고 B 씨가 대신 입주해 보증금과 관리비 등을 납부했다. 이후 두 사람은 2012년 아파트 분양 전환을 전제로 매매계약을 맺고, "소유권 이전 시 이미 받은 매매대금 외에는 추가 청구를 하지 않는다"는 각서를 작성했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;임대의무기간이 끝난 2020년 한국토지주택공사(LH)는 A 씨에게 분양 전환을 통보했고, A 씨는 잔금을 납부해 자신의 명의로 소유권이전등기를 마쳤다. 이후 A 씨는 아파트 인도를 청구했고 B 씨는 매매계약을 근거로 소유권이전등기를 청구하는 맞소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;임대의무기간 동안 주민등록 등 요건만 형식적으로 유지해 우선분양 자격을 갖춘 것처럼 외관을 만든 뒤, 임대주택을 분양 전환 받아 아파트 소유권을 이전하기로 한 매매계약이 반사회질서 법률행위로 무효인지&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 원심을 파기환송했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "분양전환제도는 공공의 재원이 투입된 임대주택을 일정 기간 거주한 무주택자인 임차인에게 우선적으로 분양해 주거를 마련할 기회를 보장한다는 면에서 보호법익의 공익적 성격이 강하다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "이 사건 계약은 전체적으로 보아 공공건설임대주택의 임차권 양도와 분양전환에 관한 임대주택법 등 관련 법령의 입법 목적을 본질적으로 훼손해 무주택 서민이 미리 정해진 기준과 절차에 따라 공공건설임대주택을 공급받고 우선적으로 분양전환 받을 기회를 빼앗는 결과를 가져오므로, 사회질서에 반하는 법률행위로서 무효라고 볼 여지가 상당하다"고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;   &lt;br /&gt;그러면서 "이 사건 매계약의 효력을 인정한 원심의 판단에는 반사회질서 법률행위에 관한 법리를 오해하고 필요한 심리를 다하지 아니해 판결에 영향을 미친 잘못이 있다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 31 Aug 2025 21:08:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/210978</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/210978</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/210978.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>한국사내변호사회 2025 워크숍…"사내변호사도 비밀유지권 보장"</title>
 			<description>&lt;div class="cheditor-caption-wrapper"&gt;   &lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211013.jpg" alt="5464748.jpg" style="background-color: #f0f0f0;" /&gt;&lt;/p&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;figcaption class="cheditor-caption-text" style="text-align: center; margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;8월 30일 부산 해운대구 중동 그랜드조선호텔에서 열린 2025년 한국사내변호사회 정기워크숍에서 박재병 케어닥 대표가 강연하고 있다. 《사진=박성동 기자》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;한국사내변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13431"&gt;이재환&lt;/span&gt;)는 30일 부산 해운대구 중동 그랜드조선호텔에서 2025년도 정기워크숍을 열었다.&lt;br /&gt;&lt;br /&gt;1박 2일로 진행된 이번 워크숍에는 100여 명이 참석했다. 워크숍은 문화체험과 세미나, 친교의 시간 등으로 진행됐다. 세미나에서는 부산에 본사를 둔 케어닥의 박재병 대표가 '해외 신문팔이에서 기업인이 되기까지'를 주제로 강연했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13431"&gt;이재환&lt;/span&gt;(46·사법연수원 35기) 회장은 "기업 법무에 있어 사내 변호사의 역할은 일반 변호사보다 중요하다고 할 수 있다"며 "사내 변호사와 경영진의 상담을 어떤 조건에서 어느 선까지 비밀유지권으로 인정할 수 있을지 연구용역을 진행 중"이라고 말했다. 이 회장은 유럽에서는 수사기관이 기업을 압수수색할 때 변호사 업무내용은 대상에서 배제하거나 법정에서의 진술거부권을 인정하는 등 사내 변호사의 지위가 강화되는 추세라고 설명했다.&lt;br /&gt;&lt;br /&gt;사내변호사회는 기업 내 변호사들의 전문성 강화와 권익 보호를 위해 2006년 설립돼 2600여 명이 회원으로 활동하고 있다. 건설, 금융, 미디어, 헬스케어 등 기 산업별로 학술분과를 두고 있고, 지역모임과 동호회도 운영한다. 올해는 CJ, 무신사, 빙그레 등 10개 기업이 기업회원 자격으로 새로 가입했다.&lt;br /&gt;&lt;br /&gt;이 회장은 "최근 일본 사내변호사회와 소통하다가 내년 정기워크숍은 도쿄에서 열면 어떻겠느냐고 제안해줘서 한일 교류를 고민하고 있다"며 "후원법인과 멀리서 참석해준 회원들에게 감사하다"고 말했다.</description>
 			<pubDate>Sun, 31 Aug 2025 02:24:02 -0000</pubDate>
@@ -232,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211000</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211000.jpg</media:thumbnail>
 			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희특검, '집사게이트' 김예성 기소… 조영탁 대표 구속영장 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211001.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 일가의 '집사'로 지목된 김예성 씨가 12일 귀국 직후 인천국제공항에서 체포돼 서울 종로구 김건희특검 사무실에 인치되며 취재진의 질문을 받고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 김 여사 일가 집사로 불리는 김예성 씨를 구속 상태로 재판에 넘겼다. 김 씨가 설립에 관여한 렌터카 회사 IMS 모빌리티를 운영해 온 조영탁 대표 등에 대한 구속영장도 청구했다. &lt;br /&gt;&lt;br /&gt;특검팀은 29일 김 씨를 특정경제범죄 가중처벌법상 횡령 혐의로 구속기소 했다. &lt;br /&gt;&lt;br /&gt;김 씨는 김 여사와의 친분을 활용해 대기업·금융사들로부터 청탁성 투자금 184억 원을 IMS 모빌리티를 통해 받은 뒤, 자신이 실소유한 이노베스트코리아를 이용해 48억 원을 빼돌린 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;다만 특검팀은 김 씨 공소장에 투자 유치와 관련해 김 여사의 역할 등을 적시하지는 않았다. 이에 따라 김 여사 등의 개입 여부를 계속 수사할 것으로 보인다. &lt;br /&gt;&lt;br /&gt;특검팀은 29일 조영탁 IMS모빌리티 대표에 대해 특경법상 배임·횡령, 외부감사법 위반, 증거은닉교사 혐의 등으로 구속영장을 청구했다. 기업 투자금 유치에 관여한 민경민 오아시스에쿼티파트너스 대표에 대해서는 특경법상 배임 혐의로, 모재용 IMS모빌리티 경영지원실 이사에 대해서는 증거은닉 혐의로 구속영장을 청구했다. &lt;br /&gt;</description>
-			<pubDate>Fri, 29 Aug 2025 07:43:56 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211001</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211001</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211001.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
