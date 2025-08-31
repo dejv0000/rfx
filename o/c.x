@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 “피고인 소재 파악 노력 없이 공시송달로 재판하면 위법”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/31/FEVHXMOXGFESVOD64AFKD4GU5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/FEVHXMOXGFESVOD64AFKD4GU5I/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 03:21:32 +0000</pubDate>
+      <content:encoded>피고인의 소재 파악을 충분히 하지 않은 채 공시송달로 재판을 진행한 뒤 선고한 것은 절차상 위법하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 정문에 서 있는 조각. 엄태정이 1995년 제작한 ‘법과 정의의 상(象)’이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 최근 사기 혐의로 기소된 A씨에게 징역 1년 8개월을 선고한 원심을 깨고 사건을 대구지법으로 돌려보냈다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;보일러 업체를 운영하던 A씨는 2014년 지인에게 “새 공장을 운영할 예정이니 투자하면 웃돈을 얹어주겠다”고 속여 2억원을 편취한 혐의로 기소됐다. 그는 2023년 10월 1심에서 징역 1년 8개월을 선고받자 항소했다.&lt;br&gt;&lt;br&gt;이듬해 8월 열린 항소심 첫 공판에 A씨가 출석하지 않자, 재판부는 주소지인 경북 청송군 모처로 소환장을 보냈지만 폐문부재로 송달이 이뤄지지 않았다. 재판부는 경찰에 A씨에 대한 소재 탐지를 촉탁했지만, A씨가 ‘소재 불명’이라는 회신을 받았다.&lt;br&gt;&lt;br&gt;결국 재판부는 소환장을 공시송달해 재판을 진행했다. 사건 기록에는 A씨의 다른 주소와 가족의 전화번호 등이 기재돼 있었지만, 재판부는 이를 통한 연락을 시도하진 않았다고 한다. &lt;br&gt;&lt;br&gt;그해 10월 두 번째로 열린 공판에도 A씨가 불출석하자, 재판부는 피고인 없이 심리를 진행한 뒤 항소를 기각했다. 그러자 A씨는 지난 1월 항소심 판결을 받아들일 수 없다며 상고했다.&lt;br&gt;&lt;br&gt;대법원은 “항소심 법원은 공시송달을 결정하기 전 다른 주소지나 가족 전화번호 등으로 연락을 시도해 소재를 파악하려는 노력을 했어야 한다”며 사건을 파기환송했다. 피고인이 거주지 변경 신고를 하지 않은 잘못이 있더라도, 법원이 곧바로 공시송달로 판결한 것은 피고인의 권리를 침해한 것이라는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 정국 자택 주차장 침입한 40대 여성, 현행범 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/08/31/DTFKQWAX4NFDJBJ4ZUULL5QMJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/DTFKQWAX4NFDJBJ4ZUULL5QMJQ/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 02:23:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NZFVJJRY46U5TDWPABTIMNAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 정국의 자택 주차장에 침입한 40대 여성이 체포됐다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 한국 국적 40대 여성 A씨를 주거침입 혐의로 입건해 수사 중이라고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 30일 밤 BTS 정국이 거주하는 서울 용산구 단독주택 주차장에 침입했다가 신고를 받고 출동한 경찰에 현행범으로 체포됐다. 경찰은 A씨를 상대로 정확한 사건 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인터넷 생방송 중 흉기 꺼내다 출연자 다치게 한 20대 유튜버 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/08/31/ENRTWZAZ45FZNLD3AY56OWNDHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/31/ENRTWZAZ45FZNLD3AY56OWNDHE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 02:17:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 생방송 중 다투는 장면을 연출하기 위해 흉기를 꺼내다 출연자를 다치게 한 20대 유튜버가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 과실치상 혐의로 20대 A씨를 입건해 조사하고 있다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 9시 30분쯤 인천시 서구의 한 사무실에서 인터넷 생방송을 하던 중 가방에 있던 흉기를 꺼내는 과정에서 출연자인 30대 B씨의 손을 다치게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 애초 특수상해 혐의로 A씨를 현행범으로 체포했으나, 조사 과정에서 다투는 장면을 연출하다가 B씨가 다친 것으로 보고 혐의를 과실치상으로 변경했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “다치게 하려는 고의를 인정하기 어려워 혐의를 과실치상으로 바꿨다”며 “구체적인 사건 경위를 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한학자 통일교 총재 “정치적 청탁과 금전거래 지시 안해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/31/IIEF3YMJZRF27NGGBVH7MH6GM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/IIEF3YMJZRF27NGGBVH7MH6GM4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 02:38:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZLPOX2B6I4Z6GF7UW4P2CMWOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재/통일교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한학자 통일교 총재가 ‘권성동 의원 청탁 의혹’과 관련해 “어떤 불법적인 정치적 청탁 및 금전 거래를 지시한 적이 없다”는 입장을 밝혔다. 한 총재가 공개적으로 입장을 밝힌 것은 김건희 특검이 해당 의혹을 조사한 이후 처음이다.&lt;br&gt;&lt;br&gt;한 총재는 31일 통일교 예배에서 ‘참어머님 특별 메시지’라는 제목의 입장문에서 “나의 지시로 우리 교회가 불법 정치자금을 제공하였다는 허위 사실이 유포되고 있다”며 이같이 주장했다.&lt;br&gt;&lt;br&gt;한 총재는 “나는 이 자리를 빌려 분명히 말씀드린다. 세계평화와 하늘부모님(하나님)께서 사랑하는 대한민국의 발전을 위한 하늘부모님의 섭리를 경륜해 나오는 여정 속에 어떤 불법적인 정치적 청탁 및 금전 거래를 지시한 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “여러분의 동참과 헌신, 그리고 기도와 정성에 깊이 감사한 마음”이라며 “선민과 세계평화 주역의 사명을 다하는 감사의 삶을 살아주길 바란다”고 전해했다. 이날 한 총재의 특별 메시지는 건강상의 문제로 통일교 방송인 피스TV의 아나운서가 대독했다.&lt;br&gt;&lt;br&gt;한 총재와 통일교는 권성동 국민의힘 의원에게 현금 1억원을 전달했다는 의혹을 받는다. 앞서 윤영호 전 통일교 세계본부장은 특검 조사에서 “한학자 총재의 결정과 지시에 따라 한 총재가 내실 금고에서 꺼내 준 현금 뭉치를 (권 의원에게) 전달했다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 따라 특검은 조만간 한 총재를 피의자 신분으로 불러 조사할 것이란 전망이 나온다. 특검은 지난 28일 권 의원에 대해 정치자금법 위반 혐의로 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광안리해수욕장 인근 바다서 수영하던 60대女 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/08/31/NN6ONYOWOJFH5GSDAR3PHSBP7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/08/31/NN6ONYOWOJFH5GSDAR3PHSBP7M/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 02:11:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EF7Z2FIG26OOTOKTOMB5WXE4PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰서./부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 광안리해수욕장 인근 바다에서 수영을 하던 60대 여성이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;부산해양경찰서에 따르면 31일 오전 6시 20분쯤 광안리해수욕장 레포츠센터 패들보드 탑승장 인근 해상에서 수영을 하던 A(61)씨가 심정지를 일으켰다.&lt;br&gt;&lt;br&gt;일행과 떨어진 A씨를 발견한 동호회 회원은 패들보드를 타고 주변을 지나던 레저객 B씨에게 구조 요청을 했다.&lt;br&gt;&lt;br&gt;이에 B씨는 A씨를 패들보드에 태운 뒤 심폐소생술을 하며 연안으로 향했고, 신고를 받고 출동한 해경은 A씨를 연안구조정으로 옮겨 육상으로 이동했다.&lt;br&gt;&lt;br&gt;A씨는 소방구급대에 의해 인근 병원으로 이송됐지만, 사고 발생 1시간여 만에 결국 숨졌다.&lt;br&gt;&lt;br&gt;해경은 A씨가 바다 수영 도중 심장마비를 일으킨 것으로 보고, 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>유명 BJ 사생활 폭로 협박에 극단적 선택… 法, 1500만원 배상 판결</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/31/3KSQP4NSSJBW7LQZOPH5ZMDYT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/3KSQP4NSSJBW7LQZOPH5ZMDYT4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 31 Aug 2025 01:41:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MBFPS3IOG476ACTNUYWJ7ULTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법정./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 폭로 협박을 받은 뒤 극단적 선택을 한 30대 여성의 유가족이 가해자인 유명 BJ(인터넷 방송인)를 상대로 낸 손해배상 소송을 제기했으나, 청구액에 크게 못 미치는 배상 판결을 받았다. &lt;br&gt;&lt;br&gt;31일 법조계에 따르면 인천지법 민사 16부(재판장 박성민)는 지난해 33세의 나이로 숨진 여성 A씨의 유족이 BJ B(41)씨를 상대로 낸 손해배상 청구 소송에 대해 최근 일부 승소 판결했다. &lt;br&gt;&lt;br&gt;재판부는 “A씨 유족에게 1500만원을 지급하라”고 명령했다. 그러나 법원이 인정한 배상액은 A씨 유족이 요구한 10억원대 청구액에 비해 크게 못 미치는 액수다. &lt;br&gt;&lt;br&gt;A씨 유족은 재판 과정에서 “B씨가 자기의 잘못을 뉘우치지 않으면서 (관련 형사 재판에) 항소하는 모습에 고인이 충격을 받아 극단적인 선택을 해 숨졌다”며 “B씨는 손해를 배상할 의무가 있다”고 주장했다. &lt;br&gt;&lt;br&gt;재판부는 “B씨의 명예훼손 등 범행으로 망인이 정신적 손해를 입었다는 것은 경험칙에 비추어 명백하다”며 “B씨에게 망인의 정신적 손해에 관한 손해배상 책임이 인정된다”고 했다. 그러나 “제출된 증거만으로는 피고의 범행과 망인의 사망 사이에 인과관계가 있다고 인정하기엔 부족하다”고 판단했다. &lt;br&gt;&lt;br&gt;A씨 유족은 이 같은 판결에 불복해 손해배상 청구액을 3억원으로 낮춰 항소했다. 지난 29일 선고 기일이 예정됐으나 법원은 추가 조정 절차가 필요하다고 보고 이를 9월 중순으로 연기한 상태다.&lt;br&gt;&lt;br&gt;B씨는 지난 2020년 5월 아프리카 TV 개인 방송에서 전 여자친구 A씨의 사생활을 폭로하겠다며 협박한 혐의 등으로 기소됐다. B씨는 2개월 정도 사귀던 A씨로부터 결별을 통보받자 강요 미수와 명예훼손 등 범행을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨는 “A씨로부터 데이트 폭력을 당했다”는 허위 글을 30개 언론사 기자에게 이메일로 보냈고, A씨가 다니던 회사 인터넷 게시판에도 비슷한 내용의 글을 올린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 B씨의 1심 형사 재판에서 징역 1년, 집행유예 2년 선고된 지난해 2월 약물 과다 복용으로 응급실에 옮겨졌고, 의식불명 상태로 요양병원에서 지내다가 지난해 9월 숨졌다. &lt;br&gt;&lt;br&gt;B씨는 이후 형사 항소심 재판에서 강요 미수와 명예훼손 등 혐의로 징역 2년 집행유예 4년을 선고받았고, 이 판결은 지난해 7월 대법원에서 확정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수사 검사가 직접 재판에 넘기면 불법?…강용석 사건 ‘공소 기각’의 의미</title>
       <link>https://www.chosun.com/national/national_general/2025/08/31/BJCRIRMAQRC4NFSGOCD7UHOWZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/31/BJCRIRMAQRC4NFSGOCD7UHOWZY/</guid>
@@ -890,24 +944,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2LSL4RRTEUJR7OG6YHP7CBA64Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 27일 오전 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 통일교 부정 청탁 의혹 관련 조사를 받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법은 29일 정치자금법 위반 혐의를 받는 권성동 국민의힘 의원에 대한 ‘체포동의 요구서’를 특검에 송부했다고 밝혔다. 현직 국회의원은 회기 중 불체포 특권이 있기 때문에 영장 실질심사를 받기 전 국회에서 체포동의안이 통과돼야 한다. &lt;br&gt;&lt;br&gt;특검은 체포동의 요구서를 법무부를 거쳐 국회에 보낸다. 국회의장은 체포동의 요청을 받은 후 처음 개의하는 본회의에 이를 보고하고 보고된 때부터 ‘24시간 이후 72시간 이내’ 표결해야 한다. 체포동의안은 재적 의원 과반수 출석과 출석 의원 과반수 찬성으로 가결된다. 체포동의안이 가결될 경우 법원에서 영장 실질심사가 열리고, 부결되면 영장은 자동 기각된다.&lt;br&gt;&lt;br&gt;김건희 여사의 여러 의혹을 수사하는 특검은 전날 법원에 권 의원에 대한 구속영장을 청구했다. 특검은 권 의원이 2022년 1월 통일교로부터 1억원대 불법 정치자금을 받은 정황을 확보하고 수사하고 있다. 권 의원이 같은 해 2~3월 한학자 통일교 총재로부터 현금이 든 쇼핑백을 받았다는 의혹도 있다. 특검은 윤영호 전 통일교 세계본부장으로부터 “한학자 통일교 총재의 결정과 지시에 따라 한 총재가 내실 금고에서 꺼내준 현금 뭉치를 아내 이씨를 통해 포장해 (권 의원에게) 전달했다”는 진술을 확보한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“시설관리직은 군복무 경력 임금에 반영 안돼”… 인권위 “차별” </title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/2ICE2DWDWNA7LK7PTHWEKWBT6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/2ICE2DWDWNA7LK7PTHWEKWBT6E/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 04:54:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2O3IOMOA4K35QF3X3JYBDTSYYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)는 특정 직군이라는 이유로 군경력을 인정하지 않는 것은 차별이라고 보고 개선을 권고했다. &lt;br&gt;&lt;br&gt;경기도에 위치한 A 공공기관에서 시설운영직으로 근무 중인 진정인 B씨는 입사 전 경력과 군복무 경력이 연봉 등급 산정에 반영되지 않았다며 지난해 9월 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;이에 해당 공공기관은 시설운영직과 일반직은 채용 경로와 업무 범위가 달라 본질적으로 다른 집단이라고 했다. 시설운영직의 임금체계는 노사 합의에 따르는 점 등을 들어 차별에 해당하지 않는다고 덧붙였다. &lt;br&gt;&lt;br&gt;경북에 위치한 C 기관 소속 청원경찰 진정인 2명 또한 비슷한 취지로 지난해 5월 인권위에 진정을 제기했다. 산업기능요원 복무 경력이 일반직 공무원과 달리 호봉 산정시 인정되지 않고 있어 차별이라는 것이다. &lt;br&gt;&lt;br&gt;C 기관은 국가공무원과 청원경찰에게 적용되는 법령이 다르다며, 산업기능요원 경력을 군 경력으로 인정하려면 청원경찰법 개정이 선행돼야 한다고 했다. &lt;br&gt;&lt;br&gt;인권위 차별시정위원회는 A 기관에 대해 시설운영직에만 군복무 경력을 임금 산정에서 제외한 것은 합리적 이유 없이 불리하게 대우한 차별 행위에 해당한다고 판단했다. &lt;br&gt;&lt;br&gt;B기관에 대해서도 청원경찰에게만 동일한 기준이 적용되지 않는 것은 형평성에 어긋날 소지가 있다고 판단했다. 청원경찰법의 정비 주체인 경찰청장에게도 법령 개정의 필요성을 표명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>’BMW 급발진 의혹’ 배상 판결, 5년 만에 뒤집혀… 대법 “페달 오조작 가능성”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/FMECGETYGNCINDKLT6R7S2DZOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/FMECGETYGNCINDKLT6R7S2DZOY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 6월 30일 서울 서초구 대법원 모습. 이날 대법원의 이재명 대통령 사건 파기환송 논란으로 열린 전국법관대표회의에서 5개 의안이 모두 부결됐다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 2018년 호남고속도로에서 60대 부부가 숨진 ‘BMW 급발진 의심 사고’와 관련해 차량 제조사인 BMW코리아가 유족들에게 배상할 책임이 없다고 판결했다. 비슷한 ‘급발진 사고’ 소송 중 이례적으로 제조사의 배상 책임을 인정했던 원심 판결이 5년 만에 대법원에서 뒤집혔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 사고 유족 2명이 BMW를 상대로 제기한 손해배상 청구 소송 상고심에서 ‘BMW가 8000만원을 지급하라’고 했던 원심 판결을 깨고 사건을 서울중앙지법으로 돌려보냈다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;사고는 2018년 충남 논산시 방면 호남고속도로에서 벌어졌다. 당시 66세이던 A씨가 BMW 승용차에 남편을 태우고 주행하다 가드레일을 들이받았다. 사고 직전 차량은 시속 200㎞가 넘는 속도로 갓길 300m가량을 달린 것으로 조사됐다. 차량은 불에 탔고 부부는 숨졌다. 이에 자녀들이 차량 급발진을 주장하며 BMW를 상대로 손해배상을 청구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;1심은 “자동차 결함이나 급발진으로 인해 사고가 발생했다고 인정할 증거가 없다”며 청구를 기각했다. 그러나 2020년 8월 서울중앙지법 2심 재판부는 “자동차 결함으로 인한 사고라고 판단된다”며 BMW가 자녀 둘에게 각각 4000만원씩 지급하라고 판결했다. &lt;br&gt;&lt;br&gt;2심 재판부는 차량이 이전까지는 시속 80~100㎞ 수준으로 과속하지 않았던 점, 사고 직전 고속 주행한 300m구간에선 비상등을 켠 채 다른 차량이 달리지 않는 갓길로 운행한 점 등을 미뤄 운전자가 정상적인 운행을 하고 있었다고 판단했다. BMW 측은 ‘차량 브레이크등이 켜지지 않았다’고 주장했으나 2심 재판부는 “차량 엔진상 결함이 있을 경우 브레이크 페달이 딱딱해질 가능성도 있어 운전자가 브레이크 페달을 밟으려는 시도를 하지 않았다고 단정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;판결은 대법원에서 다시 뒤집혔다. 대법원은 “이른바 ‘급발진 사고’ 유형에서 제조업자 책임을 인정하려면 운전자가 급가속 당시 가속 페달을 밟지 않았다는 것을 증명해야 한다”며 “차량이 정상 주행하다가 사고 직전에 비정상적으로 주행했다는 정황만으로 A씨의 페달 오조작 가능성을 배제할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 엔진 결함으로 브레이크 페달이 딱딱해졌을 수도 있었다는 원심 판단에 대해 “자동차 엔진 결함과 브레이크 페달 기능 사이 상관관계가 밝혀졌다고 보기 어렵고, 그것만으로 정상 운행이 증명되는 것도 아니다”라고 했다. 또 “자동차가 이 사고로 전소돼 어느 지점부터 왜 급가속을 하게 됐는지 확인할 수 있는 증거가 없고 사고 이전 결함을 의심할 만한 전조 증상이 있었다는 등 급가속 원인으로 볼 만한 사정도 확인되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김건희 “주어진 길 외면하지 않고 묵묵히 재판에 임하겠다”</title>
       <link>https://www.chosun.com/national/court_law/2025/08/29/TWGTW3V5TRHMNGLOG3PR7ZATZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/TWGTW3V5TRHMNGLOG3PR7ZATZM/</guid>
@@ -915,15 +951,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 03:03:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CE6LAM4TO5WS6CCJ4UOHDBNPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 6일 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구속 상태로 재판에 넘겨진 김건희 여사가 29일 “제게 주어진 길을 외면하지 않고 묵묵히 재판에 임하겠다”고 소회를 밝혔다. 김 여사는 민중기 특별검사팀이 정식 수사를 개시한 지 59일 만에 구속 기소됐다.&lt;br&gt;&lt;br&gt;김 여사 측은 이날 언론 공지를 통해 “앞으로도 어떤 혐의에 관해서든 특검 조사에 성실하게 출석하겠다”고 밝혔다. 김 여사는“국민께 심려를 끼친 이 상황이 참으로 송구하고 매일이 괴로울 따름”이라며 “어떠한 경우에도 변명하지 않겠다”고 덧붙였다. 이어 “가장 어두운 밤에 달빛이 밝게 빛나듯 저 역시 저의 진실과 마음을 바라보며 이 시간을 견디겠다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 김 여사를 자본시장법 위반, 정치자금법 위반, 특정범죄가중처벌법상 알선수재 혐의로 구속 기소했다. 김 여사는 2010~2012년 ‘도이치모터스 주가 조작 의혹’ 사건에서 ‘전주(錢主)’로 가담해 8억여 원의 시세 차익을 얻은 혐의를 받고 있다. 2022년 3월 대선 전에는 윤석열 전 대통령과 함께 ‘정치 브로커’ 명태균씨로부터 3억 7440만원에 해당하는 여론조사를 제공 받고, 같은 해 6월 국회의원 보궐선거에서 김영선 전 국민의힘 의원이 경남 창원 의창에서 공천받도록 한 혐의도 적용됐다. ‘건진 법사’ 전성배씨를 통해 2022년 4~7월 통일교 측으로부터 6200만원대 다이아몬드 목걸이, 1000만원 안팎의 샤넬백 2개 등을 받은 혐의도 받는다.&lt;br&gt;&lt;br&gt;전직 영부인이 구속 상태로 재판에 넘겨진 것은 헌정사상 이번이 처음이다. 대통령 부부가 동시에 구속 상태로 재판 받는 것도 처음이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 김건희 여사 구속 기소… 정치자금법 위반 등</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/R7R2I6YB5RE4PDF5ALNCUXIU74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/R7R2I6YB5RE4PDF5ALNCUXIU74/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 02:12:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKZFSWZ3Y4Y6C45NWEEUDO3NPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난 12일 오전 서울 서초구 서울중앙지법에서 열린 자본시장과 금융투자업에 관한 법률 위반 및 정치자금법 위반 혐의 등의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 29일 김 여사를 자본시장법 위반, 정치자금법 위반, 특정범죄가중처벌법상 알선수재 혐의로 구속 기소했다고 밝혔다. 역대 대통령 배우자가 재판에 넘겨진 것은 헌정 사상 처음이다. 다만 김건희 특검은 김 여사와 공모한 혐의가 있는 윤석열 전 대통령은 이날 재판에 넘기지 않았다. &lt;br&gt;&lt;br&gt;김 여사는 권오수 전 도이치모터스 회장 등의 2010~2012년 도이치모터스 주가 조작 범행에 ‘전주(錢主)’로 가담해 8억여 원의 시세 차익을 얻은 혐의를 받고 있다. 또한 2022년 3월 대선을 앞두고 윤 전 대통령과 함께 명태균씨로부터 2억7440만원에 해당하는 여론조사 58건을 제공받고, 2022년 6월 국회의원 보궐선거에 명씨가 돕고 있던 김영선 전 국민의힘 의원이 경남 창원 의창에 공천받도록 한 혐의도 있다. 특검은 김 여사가 ‘건진 법사’ 전성배씨를 통해 2022년 4~7월 통일교 측의 6200만원대 그라프 목걸이, 1000만원 안팎의 샤넬백 2개, 천수삼 농축차 2개를 받은 혐의도 적용했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 12일 서울남부구치소에 구속된 후 지금까지 5차례(14·18·21·25·28일)에 걸쳐 특검 조사를 받았다. ‘12·3 비상계엄’과 관련해 지난 7월 다시 구속된 후 특검 조사와 재판 출석을 거부하고 있는 윤 전 대통령과 달리 특검에 출석했지만, 대부분 진술거부권을 행사했고 일부 사실이나 의혹에 대해서는 혐의를 부인했다. 때론 사실관계를 묻는 특검 측 질문에 “말이 되느냐”고 반문하면서 적극적으로 자신의 입장을 나타내기도 했다.&lt;br&gt;&lt;br&gt;김건희 특검은 이날 김 여사를 재판에 넘긴 후에도 진행 중인 다른 수사를 계속할 예정이다. 특검은 이봉관 서희건설 회장이 2022년 3월 대선 이후 김 여사에게 6000만원대 반클리프앤아펠 목걸이 등 1억원대 귀금속을 건넨 혐의를 수사 중이다. 이 회장은 특검에 낸 자수서에서 김 여사에게 고가의 금품을 건네는 대가로 사위인 박성근 전 검사의 채용을 청탁했다고 인정했다. 실제 박 전 검사는 차관급인 국무총리 비서실장에 임명됐다.&lt;br&gt;&lt;br&gt;특검은 로봇개 수입업체 대표 서성빈씨가 2022년 9월 5000만원대 바쉐론 콘스탄틴 시계를 김 여사 대신 구매하고 전달한 사건, 이배용 국가교육위원회 위원장이 금거북이를 건네고 2022년 9월 대통령 직속 국가교육위원회 위원장에 임명됐다는 의혹도 수사 중이다. &lt;br&gt;&lt;br&gt;또한 서울~양평 고속도로 노선 변경 및 양평 공흥지구 개발 사업에 김 여사가 관여했는지, 김 여사 측근 김예성씨 관련 회사인 IMS모빌리티가 2022년 6월 대기업과 금융사에서 184억원을 투자받는 과정에 김 여사가 관여했거나 투자금 일부가 김 여사에게 전달됐는지도 규명 대상이다.&lt;br&gt;&lt;br&gt;이날 특검이 기소한 사건을 포함해 김 여사의 각종 의혹에 윤 전 대통령이 공모한 혐의가 인정되면 윤 전 대통령도 추가로 기소될 수 있다.&lt;br&gt;&lt;br&gt;현재 특검법상 김건희 특검의 최대 수사 기한은 오는 11월 말이다. 더불어민주당 일각에서 추진하고 있는 특검법 개정안이 국회 본회의를 통과한다면 수사 기한은 12월 말까지 늘어날 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검, 내일 황유성 前 방첩사령관 소환… ‘수사 외압’ 정황 조사</title>
@@ -960,36 +987,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 02:11:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUK3OBEVD35ZKSHR3L3EMTPXQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 관광지 인근 노점 주인이 어묵을 판매하고 있다./유튜브 '투깝이'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어묵 1개에 3000원을 받아 바가지 논란이 불거진 부산 기장군 해동용궁사 인근 노점이 무신고 업소로 확인돼 지자체가 고발에 나섰다. &lt;br&gt;&lt;br&gt;29일 부산 기장군은 해동용궁사 인근 노점 15곳이 무신고 영업을 해온 사실이 드러나 식품위생법 위반 혐의로 형사고발에 착수했다고 밝혔다. 다만 바가지요금 자체에 대해서는 지자체가 단속할 권한이 없어 향후 행정 지도할 계획이다.&lt;br&gt;&lt;br&gt;기장군 관계자는 조선닷컴에 “바가지요금 근절, 가격표시제 준수 등 행정지도를 하겠다”면서 “해동용궁사 입구 무신고 업소들에 대해서는 주기적으로 점검해 왔는데 다음에도 적발 시 고발하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;최근 유튜브와 인터넷 커뮤니티를 중심으로 해동용궁사 인근에서 어묵 1개당 3000원에 판매되는 사실이 알려지며 논란이 됐다. 지난 18일 유튜브 채널 ‘투깝이’에 공개된 영상을 보면 유튜버는 해운대 용궁사 인근 한 노점에서 어묵 가격을 물었다가 “3000원”이라는 답변을 들었다. “몇 개에 3000원이에요?”라고 되묻자, 상인은 “1개에 3000원”이라고 말했다. 옆에 있던 핫도그 역시 4000원에 판매되고 있었다.&lt;br&gt;&lt;br&gt;해당 영상은 빠르게 확산했다. 이를 접한 네티즌들은 “부산도 바가지요금 문제로 관광객이 끊겨야 정신을 차릴 것” “장사 하루 하고 말 것도 아니지 않냐” “관광지라도 어묵 한 개에 3000원은 너무 심하다” 등 오뎅 가격이 너무 비싸다며 부정적인 반응을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“브랜드 티셔츠 97% 할인?” 해외 직구 초저가 상품 4개 중 3개가 ‘짝퉁’</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/29/I3LEUHKIFRGYVL7OUBG2ZEE5BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/29/I3LEUHKIFRGYVL7OUBG2ZEE5BY/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 23:34:36 +0000</pubDate>
-      <content:encoded>해외 온라인 플랫폼에서 초저가로 판매하는 국내 브랜드 제품 4개 중 3개는 위조 상품이라는 점검 결과가 나왔다.&lt;br&gt;&lt;br&gt;서울시는 중국 알리익스프레스 등 해외 온라인 플랫폼에서 판매 중인 7개 국내 브랜드의 제품 20개를 점검한 결과 15개 제품이 ‘위조’ 판정을 받았다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PC3JPWACLBSMF65IXHN22VP7ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 비교한 국내 정품 가방과 해외직구 위조 상품 비교. 왼쪽이 정품, 오른쪽이 위조 상품이다. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검사 제품은 정상가 대비 45~97% 할인된 가격으로 판매되는 의류 6개, 수영복 3개, 잡화 3개, 어린이 완구 8개다.&lt;br&gt;&lt;br&gt;의류와 수영복은 4개 브랜드 9개 제품 모두 로고와 라벨 등이 정품과 차이를 보여 위조 판정을 받았다. 라벨은 중국어로 표기돼 있었고, ‘검사필’ 표시가 없거나 제조자명, 취급상 주의사항 등 표시 사항이 적혀 있지 않았다. 민소매 제품을 반소매로 파는 등 제품 디자인을 바꿨거나, 원단 품질이 매우 떨어지는 사례도 있었다.&lt;br&gt;&lt;br&gt;잡화도 2개 브랜드사 3개 제품이 모두 위조 판정을 받았다. 가방은 제품의 크기와 로고 위치·크기, 지퍼 슬라이드 등 부자재의 형태·재질이 정품과 달랐다.&lt;br&gt;&lt;br&gt;머리핀은 원단 재질과 금박 색상이 정품과 차이를 보였고 포장재도 정품에서 쓰는 재생 봉투·PVC 지퍼백이 아닌 OPP 투명 비닐이었다.&lt;br&gt;&lt;br&gt;해당 브랜드에서 제작하지 않는 매트도 있어 브랜드 도용이 확인됐다.&lt;br&gt;&lt;br&gt;어린이 완구는 3개 브랜드사 8개 제품 중 3개 제품이 위조 판정을 받았다. 정품과 달리 완구의 관절이 헐겁고 도색, 재질 등 품질이 현저하게 떨어져 파손, 유해 물질 노출 위험이 있는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;서울시는 “위조 상품은 육안으로 직접 비교하면 정품과 차이가 크지만, 온라인에서는 판매자가 정품 이미지를 무단 사용하는 경우가 많아 소비자가 위조 여부를 판별하기가 어렵다”며 “또 실제 제품을 받아보더라도 로고 위치, 봉제 방식 등 정품 여부를 확인할 수 있는 세부 기준에 대한 정보가 부족해 위조 여부를 인지하기 어렵다”고 했다. 이어 “되도록 브랜드 공식 판매처에서 물품을 구매하는 편이 좋고, 정상가 대비 현저히 낮은 가격으로 판매되는 제품은 위조 가능성이 커 주의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최교진, 음주운전 ‘혈중알코올 0.187%’로 면허 취소 수준</title>
-      <link>https://www.chosun.com/national/education/2025/08/29/7XF3PTC6M5FSZHZCM5BMTF3MXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/08/29/7XF3PTC6M5FSZHZCM5BMTF3MXM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 01:02:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJENJ4IQDRGMRPWAZJFKPPM3OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 사회부총리 겸 교육부장관 후보자가 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 사회부총리 겸 교육부 장관 후보자가 과거 음주운전으로 적발됐던 당시, 혈중알코올농도가 0.187%였던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;29일 김민전 국민의힘 의원실이 경찰청에서 받은 자료에 따르면, 최 후보자는 2003년 10월 17일 오전 1시 44분쯤 대전시 용문동 소재 도로에서 음주운전으로 경찰에 적발됐다. &lt;br&gt;&lt;br&gt;당시 최 후보자의 혈중알코올농도는 면허 취소 수준인 0.187%였다. 현행 도로교통법상 혈중알코올농도가 0.03% 이상, 2003년 기준으로는 0.05% 이상이면 음주운전에 해당한다. &lt;br&gt;&lt;br&gt;김민전 의원은 “혈중알코올농도 0.187%는 만취 상태로, 누구든 목숨을 앗아갈 수 있는 중범죄”라며 “교육계의 모범이 되어야 할 교육감이 음주운전을 했다는 것은 국민 상식에 반하는 일”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BJENJ4IQDRGMRPWAZJFKPPM3OQ.jpg?auth=adfedb8e84eb5615ecf9e752474bb4213d8708c61502c4c7e7904f71de0eb9ea&amp;smart=true&amp;width=2135&amp;height=1201" type="image/jpeg" height="1201" width="2135">
-        <media:description type="plain">최교진 사회부총리 겸 교육부장관 후보자가 14일 오전 서울 여의도 한국교육시설안전원에 마련된 인사청문회 준비 사무실로 출근하고 있다./뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘딩크’ 원했던 아빠, 삼둥이 낳고 ‘출산 전도사’ 됐죠</title>
-      <link>https://www.chosun.com/culture-life/culture_general/2025/08/29/ZNJERSQ2YJAIZBLQEJHWMBGHII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/08/29/ZNJERSQ2YJAIZBLQEJHWMBGHII/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 28 Aug 2025 15:51:00 +0000</pubDate>
-      <content:encoded>“화면을 보시면...배아가 세 개가 보이네요.”&lt;br&gt;&lt;br&gt;세종시에 사는 임지명(35)·장은혁(34)씨 부부는 지금도 임신 6주 차 초음파 검사 결과를 알게 된 날을 잊지 못한다. 두 살배기 세 쌍둥이 하다(아들)·하리(딸)·하오(아들)는 ‘예상치 못한 선물’이었다. 결혼 초기만 해도 남편 장씨는 ‘딩크족(자녀가 없는 부부)’을 생각했지만, 아이를 좋아하는 유치원 교사 아내의 설득 끝에 “한 명만 낳아보자”고 마음을 돌린 것이었다. 그런데 한꺼번에 세 아이가 찾아온 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XHLE3CBZZCS3G7ZYTFIJI5FKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 세종시 자택 소파에 앉은 채 웃고 있는 임지명·장은혁씨 가족 모습. 사진 왼쪽부터 임씨, 둘째 딸 하리, 셋째 아들 하오, 남편 장은혁씨, 첫째 아들 하다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원래 부부는 첫아이를 계획하면서 ‘아들이 태어나면 하다, 딸이면 하리’라고 이름을 미리 정해 두었다고 한다. 그런데 예상치 못한 세쌍둥이를 갖게 되면서 ‘하오’라는 이름을 하나 더 짓게 됐다.&lt;br&gt;&lt;br&gt;이 부부는 2019년 처음 만났다. 세종시에서 근무하는 임씨에게 지인이 “부여에서 약국을 개업한 친구가 있는데, 한번 만나보라”고 권한 것이 계기였다. 두 사람 모두 결혼을 염두에 두고 있던 상황. 쉽게 연애를 시작할 생각은 없었지만 첫 만남 이후 일주일 만에 교제가 시작됐다. 남편 장씨의 진정성이 빛을 발했다. 장씨는 밤 8시 약국 문을 닫은 뒤에 임씨를 만나러 세종으로 달려갔다. 그렇게 잠깐의 데이트를 하고 새벽 1~2시에 다시 돌아오는 ‘강행군’을 반복했다고 한다. &lt;br&gt;&lt;br&gt;둘은 전형적인 ‘문과 여자’와 ‘이과 남자’였다. 성격과 생각, 대화 방식도 달랐지만 신기할 만큼 대화가 척척 맞았다. 임씨는 아이들과 동료 교사 이야기를 풀어놓고, 장씨는 약국을 찾아오는 어르신들 이야기를 전했다. 아무 의미 없는 얘기도 몇 시간씩 술술 이어졌다. “이 사람과 함께하면 평생 즐겁겠다”는 확신이 든 둘은 연애 한 달 만에 결혼을 약속했고, 2020년 11월 부부가 됐다.&lt;br&gt;&lt;br&gt;비슷한 점이 많았지만 달랐던 점은 자녀 계획이었다. 당초 남편은 자녀를 갖고 싶다는 생각이 크게 없었다. 누군가의 삶을 책임져야 한다는 게 부담이었다고 한다. 하지만 아내 임씨의 오랜 설득 끝에 결국 ‘한 명만 낳자’는 걸로 합의한 뒤 부부가 난임 치료를 이어가다 세 쌍둥이란 선물을 받게 된 것이다. &lt;br&gt;&lt;br&gt;2023년 5월에 태어난 삼둥이는 이란성이라 외모도, 성격도 저마다 다르다. 첫째 아들인 하다는 밝고 활발한 성격. 항상 깔깔 웃으며 애교가 많다고 한다. 둘째인 딸 하리는 조용조용하지만 야무지다. 오빠나 동생이 보이지 않으면 “어디 갔어?”라며 챙기곤 한다. 셋째이자 막내인 아들 하오는 한 가지에 꽂히면 끝까지 파고드는 ‘학자 스타일’이다. 벌써부터 좋아하는 동물들을 꿰고 있고, 혼자 조용히 장난감을 갖고 노는 것을 즐긴다. 개성 강한 세 아이 덕분에 집은 하루 종일 시끌벅적하다.&lt;br&gt;&lt;br&gt;물론 ‘삼둥이’ 육아가 쉽진 않았다. 돌 전에는 매 순간이 전쟁 같았다. 육아휴직을 낸 아내는 친정이 있는 광주광역시에 내려가 어머니 도움을 받으며 1년을 보내기도 했다. 다행히 아이들이 조금씩 자라면서 상황이 달라졌다. 이젠 어린이집에서도 적응을 끝마쳤고, 아이들끼리도 역할 놀이를 하며 시간을 잘 보낸다. 그러면서 부부에게도 조금씩 여유가 생기고, 긍정적인 변화들이 찾아왔다.&lt;br&gt;&lt;br&gt;한때 아이를 원하지 않았던 남편은 “이제 ‘아이가 없었다면 어땠을까’라는 생각 자체를 할 수 없을 정도”라고 했다. 집에서 쉬고 있으면 세 아이가 달려와 “아빠 사랑해”라며 무릎에 매달리는 순간이 가장 행복하다고 했다. 최근 남편 장씨는 지인들에게 “아이는 꼭 낳아라”라며 출산을 권할 정도가 됐다. 아이와 있을 때만 경험할 수 있는 행복이 있다는 것이다.&lt;br&gt;&lt;br&gt;아내 임씨 역시 “육아는 아이만 자라는 게 아니라 부모도 함께 성장하는 시간”이라고 했다. 아이가 있기에 자신의 생각을 다시 돌아보게 되고, 더욱 성숙해질 수 있었다는 것이다. 혼자였다면 그냥 흘려보냈을 감정들을 아이 덕분에 다시 다듬게 됐다고도 했다. 임씨는 “처음엔 부모가 자녀에게 주는 사랑이 더 크다고 생각했지만, 지금은 아이에게서 받는 사랑이 훨씬 더 크다는 사실을 깨달았다”고 말했다. &lt;br&gt;&lt;br&gt;요즘에는 애교 많은 아이들 덕분에 집 안에 웃음이 끊이지 않는다. 임씨는 “새 옷을 입으면 아이들이 ‘엄마 이거 너무 예뻐’ 하고 먼저 말해주는데 그럴 때마다 느끼게 되는 뿌듯함, 소소한 행복감이 있다”고 했다. &lt;br&gt;&lt;br&gt;아내 임씨는 아이들 덕분에 부모님과도 더 가까워졌다고 한다. 그는 “내가 어렸을 땐 우리 아버지는 가정적인 분이 아니었다”며 “하지만 손주들이 태어나면서 완전히 모습이 달라지셨다”고 말했다. 과거엔 함께 집에 있어도 말을 많이 하지 않았던 아버지였다. 하지만 요즘엔 “에어컨 켜놓을 테니 아이들이랑 언제 집에 도착하는지 알려달라”고 먼저 연락을 하고, 아이들과 산책을 하며 번갈아 목말을 태워준다. 아버지의 새로운 면모에 가족 모두가 놀랐다고 한다. 임씨는 “아이들 덕분에 부모님과 나누는 대화도 크게 늘어나고 부모님을 더 이해하게 됐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
