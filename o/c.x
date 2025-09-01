@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>음주 사고 내고 ‘뺑소니’...1km 쫓아가 잡고보니 현직 경찰관</title>
+      <link>https://www.chosun.com/national/incident/2025/09/01/YS7ZXVL53JHE5KDCFI6M5C6GGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/01/YS7ZXVL53JHE5KDCFI6M5C6GGI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 05:08:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 운전하다 사고를 내고 별다른 조치 없이 현장을 벗어난 현직 경찰관이 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 특정범죄가중처벌법상 도주치상과 도로교통법상 음주운전 등 혐의로 인천공항경찰단 소속 경장 30대 A씨를 입건했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 28일 오후 7시 35분쯤 인천시 연수구 송도동의 한 편도 5차로 도로에서 술을 마시고 운전하다 신호 대기 중인 SUV(스포츠유틸리티차량)를 들이받은 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 사고 후 별다른 조치 없이 차량을 운전해 도주했다가 1㎞ 정도 떨어진 곳에서 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경찰은 피해 차량의 신고를 받고 현장에 출동한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;조사 결과 A씨의 혈중알코올농도는 0.08% 이상의 면허취소 수치였다. &lt;br&gt;&lt;br&gt;A씨는 현재 직위 해제 조치된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 피해 차량 운전자 등을 상대로 정확한 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 다시 들고가나요”… ‘배달 완료’ 인증샷 찍고 음식 가져간 배달원</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/01/57BPTUJC4RCWVNIEE5Y6ZVWLHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/01/57BPTUJC4RCWVNIEE5Y6ZVWLHY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:52:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YC4JWZD555FSTMYRWICB6MAVQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 기사가 '배달 완료' 인증 사진을 찍은 뒤 음식을 그대로 다시 가져가고 있다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 배달 기사가 고객에게 전할 음식을 사진만 찍고 다시 가져갔다는 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;부산 수영경찰서는 1일 최근 수영구 한 공동주택에서 ‘배달 기사가 음료를 절도했다’는 신고를 접수해 수사 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 배달 기사 A씨는 지난달 24일 새벽 12시 12분쯤 수영구의 한 아파트에 배달을 가 음식을 현관문 앞에 놓아둔 뒤 사진을 찍고 이를 그대로 챙겨 되돌아간 혐의를 받는다. &lt;br&gt;&lt;br&gt;이번 일은 음료를 주문한 소비자 B씨가 당시 상황이 담긴 방범카메라 영상을 자신의 소셜미디어에 공유해 올리면서 화제가 됐다. &lt;br&gt;&lt;br&gt;영상을 보면, A씨는 실제로 음료를 문 앞에 놓은 뒤 사진을 찍곤 곧바로 이를 다시 가져갔다. 일부 배달 플랫폼은 기사가 음식을 비대면으로 배달할 경우 사진을 촬영해 고객에게 전송하도록 하는데, A씨는 인증 사진만 찍고는 음료를 그대로 가져간 것이다.&lt;br&gt;&lt;br&gt;영상은 현재 조회 수가 650만회가 넘는다. 댓글도 1000개 이상 달렸다. 네티즌들은 “너무 당당하게 가져가는 걸 보니 한두 번 한 행동이 아닌 것 같다” “복도에 방범카메라 있어서 다행이다” 등의 반응을 보였다. 비슷한 경험을 공유하는 네티즌도 있었다. “비슷한 일 당해봤는데 기사들이 아니라고 박박 우기면 배달 플랫폼 측에서도 해줄 수 없는 게 없다고 한다” “내 음식도 배달 완료 떠서 바로 가지러 나갔는데 없더라. 딱 이런 상황이었을 거 같다” 등이다. &lt;br&gt;&lt;br&gt;이후 B씨는 A씨를 절도죄로 신고한 뒤 진행 상황을 소셜미디어에 공유했다. &lt;br&gt;&lt;br&gt;B씨에 따르면, A씨는 “오배송인 줄 알고 다시 가져갔는데, 가는 중에 주문 취소가 돼서 자체 폐기했다”는 취지로 배달 플랫폼 측에 해명했다. 하지만 B씨는 배송 완료 안내가 뜬 지 1시간 뒤에야 주문 취소를 한 점 등을 근거로 기사가 거짓 진술을 한다고 판단, 경찰에 절도 신고를 접수했다고 한다. B씨는 “한 시간을 넘게 오배송지 찾느라 돌아다녔다는 게 말이 되냐”며 “괘씸해서 바로 절도 신고했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 해당 아파트 방범카메라 영상 자료 등을 확보했으며, 조만간 A씨를 특정해 수사를 진행할 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮도 밤도 올여름이 역대 가장 더웠다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/01/6FOSLK3VCVHHPONJVHWDIHJDCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/01/6FOSLK3VCVHHPONJVHWDIHJDCI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:54:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROB5AVE22XYVLQUCAW6DMU4PJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염이 계속된 지난달 28일 오후 대구 북구 들샘공원에서 어린이들이 물놀이를 하며 더위를 식히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올여름이 역대 여름(6~8월) 가운데 가장 더웠던 것으로 공식 확인됐다. 폭염과 열대야가 기승을 부리면서 낮 더위도, 밤 더위도 최고 기록을 세웠다.&lt;br&gt;&lt;br&gt;1일 기상청에 따르면, 지난 6월 1일부터 8월 31일까지 3개월 간 전국 기온을 집계한 결과, 일평균기온 평균이 25.7도로 집계돼 종전 기록(2024년·25.6도)을 제치고 1위에 올랐다. 전국에 기상 관측망이 깔리며 각종 기록의 기준으로 삼는 1973년 이후 52년간 가장 더웠던 것이다.&lt;br&gt;&lt;br&gt;올여름은 ‘낮 최고기온’과 ‘밤 최저기온’도 역대 가장 높았다. 전국 일 최고기온 평균은 30.7도를 기록, 작년(30.4도) 기록을 제치고 1위에 올랐다.&lt;br&gt;&lt;br&gt;열대야의 기준이 되는 밤 최저기온(오후 6시부터 이튿날 오전 9시 기온 기록)도 21.9도로 종전 기록이던 작년과 동일하게 집계되며 1위에 올랐다. 기상 기록은 최근 기록을 선순위로 삼기에 올해가 1위에 오르게 됐다.&lt;br&gt;&lt;br&gt;일 최저기온 평균은 21.5도로 최고 기록인 작년(21.7도)에 이어 2위에 올랐다.&lt;br&gt;&lt;br&gt;올여름은 한여름 더위를 몰고오는 북태평양고기압이 예년보다 빠르게 확장하면서 7월 초부터 이상고온 현상이 발생했다. 이후 우리나라 대기 상·하층을 고온건조한 티베트고기압과 고온다습한 북태평양고기압이 장악하면서, 두 겹의 공기 이불을 덮은 듯 열기가 빠져나가지 못하는 현상이 반복됐다.&lt;br&gt;&lt;br&gt;우리나라 주변 해수면 온도 역시 평년보다 0.5~1도 가량 높은 상태가 유지되면서, 남서풍이 불 때 예년보다 더 뜨겁고 축축한 공기가 밀려 들어와 기온을 높였다. 동풍 계열의 바람이 불 때는 태백산맥을 타고 넘으며 고온건조해진 공기가 서쪽 지역에 열풍을 공급, 한낮에 섭씨 40도가 넘는 더위가 중부지방을 중심으로 발생했다.&lt;br&gt;&lt;br&gt;기상청 관계자는 “9월 초까지는 늦더위가 기승을 부릴 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘건진 법사’ 측근 브로커, “고문님 재판 무죄 가능하다” 금품 사기</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:51:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N74AJ72EAYUHGC66NQNJFVPZTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배씨 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨 측근으로 알려진 사업가 이모씨가 전씨와의 친분을 내세워 “무죄를 받아주겠다”며 수억원을 갈취한 정황을 특검이 확보한 것으로 1일 파악됐다. 이씨는 지인들에게 전씨의 인맥을 활용해 재판에서 무죄를 받을 수 있다며 피해자들을 속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검이 최근 국회에 제출한 이씨의 공소장을 살펴보면, 이씨는 지난해 4월 지인 A씨로부터 “친구 B씨가 보석 출소 이후 무죄를 선고 받기 위해 대관 작업 할 사람을 찾는다”는 말에 “대통령 부부나 국민의힘 유력 정치인들, 고위 법조인들과 가까운 전성배 고문님이 계시다”고 말했다. 그러면서 “고문님께 부탁하면 재판에서 무죄를 받아줄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 무죄를 받아주는 대가로 현금을 요구한 것으로 파악됐다. 이씨는 지인에게 “고문님이 대법관 등 고위법관을 통해서 일을 봐주는데 5억원이 필요하고, 무죄가 나오면 돈을 추가로 줘야 한다”며 “돈은 모두 현금으로만 받는다”고 했다. B씨는 지난해 5~6월 사이 이를 승낙한 후 A씨를 통해 1억원씩 네 차례에 걸쳐 총 4억원을 이씨에게 건넨 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이씨는 지난달 18일 공무원의 직무와 관련된 사항에 대한 청탁과 함께 금품을 받아 챙긴 혐의(특정범죄 가중처벌법상 알선수재)로 지난달 18일 구속기소됐다. 특검은 이씨가 수사 무마, 재판 편의 등을 요청하는 이들을 전씨와 연결해주는 ‘브로커’로 활동했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;지난달 29일 서울중앙지법에서 열린 첫 공판준비기일에서 이씨 측 변호인은 “특가법상 알선수재 혐의의 객관적, 주관적 구성 요건을 따져봤을 때 객관적으로 알선 청탁 목적으로 특정해 부탁한 사실 자체가 없고 증거도 없다”며 “이 사건 알선 상대방이 건진 법사인지 대법관인지도 명확하지 않은 상황”이라고 했다. 그러면서 “특검이 기소한 특가법상 알선수재 구성 요건이 충족되지 않아 범죄가 성립하지 않고 고의 및 목적도 인정되기 어려워서 이 사건 혐의를 인정할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내 말에 왜 대답 안 해’…12살 회원 러닝머신에 넘어트리고 폭행한 복싱체육관장 </title>
+      <link>https://www.chosun.com/national/court_law/2025/09/01/S3LYKBRYQ5CSXGPCZKMHM576FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/S3LYKBRYQ5CSXGPCZKMHM576FQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:47:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3F6WNFZKZSZHVNJMTG3HHVGIYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 말에 대답하지 않았다는 이유로 12살 회원을 러닝머신에 넘어트리는 등 폭행한 복싱체육관 관장에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사 9단독 정제민 판사는 상해, 아동복지법 상 아동학대 등 혐의로 기소된 A(36)씨에 대해 징역 8개월을 선고했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;정 판사는 또 A씨에게 40시간의 아동학대 치료 프로그램 이수와 출소 후 5년간 아동 관련 기관 취업 제한을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 8월 7일 오후 9시 57분쯤 인천시 서구의 한 복싱 체육관에서 회원인 B(12)군을 여러 차례 폭행하고 신체적으로 학대한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 자신의 말에 대답하지 않는다는 이유로 화가 나 B군을 러닝머신 벨트 위로 넘어트리고, 러닝머신 뛰기를 거부하는 B군의 다리를 걷어찬 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 또 B군의 손목을 잡아 비틀면서 작동 중인 러닝머신 벨트 위에 재차 넘어지게 하고, 얼굴을 때렸다. B군은 병원에서 3주간 치료가 필요한 부상을 당한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;정 판사는 “피고인은 아동인 피해자에게 상당히 중한 정도의 폭행을 행사했고, 피해자는 상당한 육체적‧정신적 고통을 느꼈을 것으로 보인다”며 “피해자나 그 부모로부터 용서받지 못했고, 피해자 측은 피고인의 엄벌을 탄원하고 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인이 범행을 자백하고, 반성하는 태도를 보이는 점, 우발적인 범행으로 보이는 점, 형사 처벌 전력이 없는 초범인 점 등을 고려했다”며 “피고인에게 실형 선고가 불가피하지만 피해 보상의 기회를 주기 위해 법정 구속은 하지 않겠다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘비자 소송 승소’ 유승준 “사실 왜곡하는 미디어 현실 안타까워”</title>
+      <link>https://www.chosun.com/national/people/2025/09/01/37RN22VMCNDBFKYR2LUZSTSLU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/01/37RN22VMCNDBFKYR2LUZSTSLU4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:48:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QZZVO76KNGRNJFULWW2HQXH7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 유승준. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 유승준(48·미국명 스티브 유)이 한국 입국 비자를 내달라며 제기한 세 번째 행정소송 1심에서 승소한 후 첫 심경을 밝혔다. &lt;br&gt;&lt;br&gt;지난달 31일 유승준은 자신의 유튜브 채널을 통해 “저에게 가장 큰 축복이 있다면 사랑하는 아내와 사랑하는 가족을 얻은 것”이라며 “그런 의미에서 저는 모든 것을 얻었다. 가슴 아픈 일이 있을 때에도 늘 마음은 풍성하고 감사했다”고 했다. &lt;br&gt;&lt;br&gt;유승준은 “고난을 지날 때는 가짜와 진짜가 구별되고 유한한 것과 무한한 것도 구분되어 진다. 실수와 후회 없이 인생을 배울 수 있으면 얼마나 좋을까?”라며 “잃어버리고 나서야 소중했다는 걸 깨닫게 되니. 저는 참 미련한 사람”이라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “쉽진 않았지만 오늘까지 잘 왔다”며 “어떻게 해서든 사실을 왜곡하고 진심을 퇴색시키는 미디어의 현실이 너무 안타깝다”고 했다. &lt;br&gt;&lt;br&gt;앞서 서울행정법원 행정5부(재판장 이정원)는 지난달 28일 유승준이 로스앤젤레스(LA) 총영사를 상대로 제기한 사증 발급 거부 처분 취소 소송 1심 선고기일에서 원고 승소 판결했다.&lt;br&gt;&lt;br&gt;재판부는 “유승준씨의 언동이 대한민국 안전보장, 질서유지, 외교관계 등의 이익을 해칠 우려가 뚜렷하게 인정되지 않는다”며 “유씨의 입국을 금지했을 때 얻을 수 있는 공익보다 유씨가 입는 불이익의 정도가 더 커 이는 비례 원칙 위반”이라고 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 “이번 선고 결과가 유씨의 과거 행위가 적절했다고 인정하는 것은 아니다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;유승준은 국내에서 가수로 왕성한 활동을 할 당시 군 입대를 공언했다. 하지만 공익근무요원 소집 통보를 받은 유승준은 2002년 1월 해외 공연을 이유로 출국했다가 돌연 미국 시민권을 취득해 병역 기피 논란을 자초했고, 법무부는 그의 입국 금지를 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘공천 불이익 우려’ 위장 전입한 전 국민의힘 당협위원장·구의원, 법원서 나란히 벌금형</title>
       <link>https://www.chosun.com/national/national_general/2025/09/01/ZYUMQOKB3FHOLGDTPJN6FFUBUE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/01/ZYUMQOKB3FHOLGDTPJN6FFUBUE/</guid>
@@ -619,18 +673,6 @@
       </media:content>
     </item>
     <item>
-      <title>여가부 구원투수된 ‘n번방 피해자’ 변호인, 차별금지법 파고 넘을까</title>
-      <link>https://www.chosun.com/national/2025/08/31/GSORQDNAO5CR7H3NGU6HX2IK2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/31/GSORQDNAO5CR7H3NGU6HX2IK2U/</guid>
-      <dc:creator>이황희 기자</dc:creator>
-      <description>여성가족부는 윤석열 정부 내내 폐지 위기를 맞았다. 윤석열 전 대통령이 후보 시절부터 여가부 폐지를 공약으로 내세웠고, 실제로 윤석열 정부 여가부 장관을 했던 김현숙 전 장관도 공공연하게 ‘여가부 폐지를 위해 장관이 됐다’고 말할 정도였다. 존폐 기로에 서있던 여가부는 2023년 8월 새만금 잼버리를 거치며 여론의 뭇매를 맞았다. 여가부의 부실 대응으로 폐</description>
-      <pubDate>Sat, 30 Aug 2025 20:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7PLF7TE2Q5PN3OPOOVA5KTTLI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 여성가족부 장관 후보자가 지난 8월 18일 서울 서대문구 한국청소년활동진흥원에 마련된 인사청문회 준비사무실로 출근하며 취재진 질문에 답변하고 있다. photo 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성가족부는 윤석열 정부 내내 폐지 위기를 맞았다. 윤석열 전 대통령이 후보 시절부터 여가부 폐지를 공약으로 내세웠고, 실제로 윤석열 정부 여가부 장관을 했던 김현숙 전 장관도 공공연하게 ‘여가부 폐지를 위해 장관이 됐다’고 말할 정도였다. 존폐 기로에 서있던 여가부는 2023년 8월 새만금 잼버리를 거치며 여론의 뭇매를 맞았다. 여가부의 부실 대응으로 폐지론에도 힘이 실렸다.&lt;br&gt;&lt;br&gt;정권이 바뀌면서 여가부는 존속하게 됐지만, 이번에는 장관 청문회 과정에서 진통을 겪었다. 지난 7월 강선우 민주당 의원은 이재명 정부의 첫 번째 여가부 장관 후보자로 지명됐으나 갑질 논란 등 각종 의혹이 불거지며 전격 사퇴했다. 강 의원은 여성단체와 정치권, 여가부 내부 직원들 사이에서도 우려의 시선을 받았고, 청문회에서는 사실상 모든 시간을 갑질 논란 방어에 쓰기에 급급했다. 이재명 대통령은 변호사 출신의 원민경 후보자를 지난 8월 13일 새롭게 지명했고, 오는 9월 3일 인사청문회가 열릴 예정이다.&lt;br&gt;&lt;br&gt;앞서 지명된 강 의원과 달리 원 후보자에 대해서는 아직까지 이렇다 할 논란이 나오지 않고 있다. 3년 넘게 바람 앞 등불처럼 위태로운 처지였던 여가부 직원들은 새 후보자가 청문회 파고를 넘고 조직을 안정화시킬 수 있을지 촉각을 곤두세우고 있다. 여가부 측 한 관계자는 “강 의원이 지명된 후 연일 논란이 제기되면서 여가부는 언론 대응조차 감당하기 버거울 정도로 정신이 없었다”며 “(여가부) 직원들 모두 강 의원에 대한 의혹들을 전혀 모르고 있었다”고 말했다.&lt;br&gt;&lt;br&gt;청문회에 참여했던 또 다른 관계자 역시 “청문회 기간 동안 어려움이 정말 많았다”며 “근 10년간 여가부에 대한 논란이 꾸준히 있어왔지만 그중에서도 여파가 컸다”고 회상했다. 사퇴 직전까지 강 의원을 보호했던 민주당도 당시의 고충에 예외는 없었다. 민주당 한 당직자는 “정부 출범 초창기에 연이어 인사 논란이 터져 매일 야근을 했다”며 “강 의원의 경우 의혹들이 한두 개가 아니어서 더욱 힘들었다”고도 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;與 “결격사유 거의 없다” &lt;/b&gt;&lt;br&gt;&lt;br&gt;이 대통령은 원 후보자 지명 이유에 대해 “여가부가 직면한 현안 해결에 충분한 역량을 발휘할 수 있을 것으로 보인다”며 “전문성과 리더십을 바탕으로 성평등 정책 총괄과 폭력 피해자 보호, 가족과 청소년 지원 등 소관 정책에 대해서도 장관으로서 소임과 책임을 성실히 수행할 자질을 가졌다고 판단된다”고 밝혔다. 때문에 정부와 여성단체들은 원 후보자에 대해 확연한 기대감을 나타내고 있다. 여가부 관계자는 “이번 후보자는 청문회에서 크게 논란될 부분이나 결격 사유가 없는 것으로 안다”며 “내부 직원들도 대체적으로 안심하는 분위기”라고 말했다.&lt;br&gt;&lt;br&gt;여성단체들도 환영하는 분위기다. 한국여성정치네트워크는 지난 8월 19일 “말과 행동이 일치하는 원 후보자의 지명을 환영한다”며 “오랫동안 장관 부재로 부진할 수밖에 없었던 여가부 정책이 원활히 추진되기를 기대한다”고 밝혔다. 원 후보자가 자문위원을 지냈던 한국성폭력상담소도 8월 14일 논평을 통해 “원 후보자가 2000년대 초부터 지금까지 수많은 피해자 상담 등을 해왔고 ‘n번방’ 공동대책위원회 법률지원팀장으로 피해자 법률지원을 조직했다”며 “이번 후보자 지명은 정부의 새로운 의지로 여겨진다. 각 부처 협력을 통해 형법상 강간죄 개정이 제대로 검토돼야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;원 후보자는 1972년 서울 출생으로 중앙여고와 연세대 법학과를 졸업했으며, 1998년 제40회 사법시험에 합격 후 2001년 사법연수원 30기를 수료했다. 이후 원 후보자는 민주사회를 위한 변호사모임 여성인권위원장, 한국성폭력상담소 자문위원, 여성인권센터 ‘보다’ 운영위원장, 아시아위민브릿지 활동, 그리고 한국여성의전화 이사로 활동해왔다. 최근까지도 국가인권위원회 비상임위원으로 활동했고, ‘n번방’ 사건 관련 법률지원 활동으로 주목을 받기도 했다. 그는 텔레그램 성착취 피해자를 위한 공동대책변호인단으로 참여해, 피해자의 인적사항 유포 금지 및 정보통신서비스 제공자의 보호 의무 강화 등을 촉구했다. 지난 21대 총선에서는 더불어민주당 공천관리위원회 위원으로 참여하기도 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;법안 관련 해명은 숙제 &lt;/b&gt;&lt;br&gt;&lt;br&gt;이 대통령이 정치인이나 관료가 아닌, 변호사 출신의 원 후보자를 지명한 데에는 여가부가 더 이상 외풍에 흔들려서는 안 될 뿐 아니라 여성계 내부의 지지 없이는 청문회 통과가 어렵다는 위기감이 반영됐다는 분석이다. 낙마한 강 의원의 경우 갑질 논란과 별개로 여성계의 지지도 받지 못했다. 한 여성단체 센터장은 “강선우 (당시) 후보자는 의원 활동을 해오면서 여성 인권에 대한 기억 남는 활동이 거의 없었다”며 “대학원에서의 학술 경력도 여성가족부 장관을 맡기에는 어딘가 부족했다”고 평했다.&lt;br&gt;&lt;br&gt;반면 원 후보자에 대해서는 “충분한 역량을 갖춘 분”이라고 말했다. 강 의원에 대해 비판적 시각이 주를 이뤘던 온라인 여성 커뮤니티에서도 원 후보자에 대한 긍정적인 반응이 나타나고 있다. 이들은 ‘n번방 사건 당시 (원 후보자가) 큰 역할을 했다’ ‘강선우와 달리 여성 인권 개진을 위해 강하게 드라이브를 걸어주길 기대한다’ 등 반응을 보였다.&lt;br&gt;&lt;br&gt;야권이나 보수 시민단체 쪽에서는 원 후보자 개인의 신상보다는 그의 철학과 정책에 초점을 맞춰 공세를 퍼부을 것으로 보인다. 국민의힘 주진우 의원은 지난 8월 20일 “원민경 후보자가 ‘비동의강간죄를 도입해야 가해자를 처벌하지 못하는 사각지대를 해소할 수 있다’고 말했다”며 “이는 매우 신중히 결정해야 할 사항”이라고 말했다. 주 의원은 “내심의 의사인 ‘동의 여부’에 따라 형사 처벌을 결정하는 과정은 단순하지 않다”며 “앞서 민주당도 지난 총선에서 이를 공약으로 제시했다가 ‘실무진 착오’였다며 철회했었다”고 설명했다. 그러면서 “원 후보자와 여당의 입장이 다르다”며 “정확하게 어떤 자세를 취할 것인지 국민께 명확히 밝혀야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;기독교계에서는 원 후보자가 추진 필요성을 강조한 ‘차별금지법’을 문제 삼으며 “발언을 철회하라”고 주장하고 있다. 앞서 원 후보자는 “포괄적 차별금지법 제정으로 우리 사회 내 불합리한 차별에 대응해야 한다”며 “차별금지법에 대한 오해가 있을 수 있지만, 국민의 기본권 보장이라는 헌법적 가치 차원에서 다시 한번 논의하면 좋겠다”고 말한 바 있다. 기독교계의 반발이 나오는 이유는 여가부가 ‘성평등가족부’로 확대 개편 및 차별금지법 제정을 하게 될 경우 동성애를 조장할 우려가 있다고 여기기 때문이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;▷더 많은 기사는 주간조선에서 볼 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V7PLF7TE2Q5PN3OPOOVA5KTTLI.gif?auth=a12d0a85993076109cb94c66b8d2897f72442c5a8512d34e551f07fc17ca87f9&amp;smart=true&amp;width=800&amp;height=528" type="image/jpeg" height="528" width="800">
-        <media:description type="plain">원민경 여성가족부 장관 후보자가 지난 8월 18일 서울 서대문구 한국청소년활동진흥원에 마련된 인사청문회 준비사무실로 출근하며 취재진 질문에 답변하고 있다. photo 뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>변호사 대 변호사... 결말은 [이별전쟁]</title>
       <link>https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</guid>
@@ -650,15 +692,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHQIKALUARHHTOHRYECC23ZKTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 예능 프로그램 ‘나는 솔로’에 출연했던 30대 남성이 서울의 한 주차장에서 20대 여성을 성폭행한 혐의로 재판에 넘겨졌다. 법원은 피해자가 2차 피해를 입을 수 있다고 판단해 재판을 비공개로 진행했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사합의11부(부장 김우현)는 지난 29일 오전 준강간 혐의를 받는 A씨에 대한 첫 공판기일을 열었다.&lt;br&gt;&lt;br&gt;A씨 측 변호인은 “피고인의 반성과 진의가 진정성 있게 심의되는 과정에서 언론과 일반 대중의 관심이 재판을 왜곡할 가능성이 있다”면서 재판을 비공개로 진행해 줄 것을 요청했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “(피고인에게) 신청권이 있는 것은 아니고, 법에 따르면 피해자의 사생활을 보호하기 위해 비공개할 수 있다”며 “질문 과정에서 피해자 사생활이 나와 2차 피해가 우려되는 경우에 (비공개)하는 것이지, 피고인의 우려는 직접적 사유가 되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 피해자의 사생활 공개 등 2차 피해가 우려된다는 검찰 측 의견을 받아들여 재판을 비공개로 전환했다. 앞서 검찰은 “주요 증거가 동행 차량 동영상의 CCTV인데 범행이 적나라하게 다 찍혔다”면서 공개 재판에서 범행 장면이 담긴 CCTV가 재생되면 2차 피해가 일어날 수 있다고 말했다. &lt;br&gt;&lt;br&gt;A씨는 지난 6월 21일 오전 3시 30분쯤 서울 마포구 서교동의 한 주차장에서 20대 여성을 성폭행한 혐의를 받는다. 준강간은 사람의 심신상실이나 항거불능 상태를 이용해 성폭력을 저지른 경우 적용되는 혐의다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 긴급 체포했으며 같은 달 23일 법원으로부터 구속영장을 발부받았다. 이후 경찰로부터 사건을 넘겨받은 검찰은 A씨를 지난달 3일 구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 SBS플러스와 ENA에서 방영하는 ‘나는 솔로’ ‘나는 솔로, 그 후 사랑은 계속된다’에 연달아 출연해 왔다. 사건 직후 ‘나는 솔로’ 제작진은 “A씨의 범죄 혐의 관련, 법원의 구속영장 발부에 관한 내용을 뉴스 보도를 통해 알게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “사안의 중대성을 인식해 시청자들에게 불편함이 없도록 조치해 방송할 예정”이라며 “이미 방송한 분도 최대한 출연자를 편집·삭제하겠다”고 했다. 이후 26일 방영분에서는 A씨의 출연분이 통편집됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘폭염주의보’ 평택 텃밭서 일하던 70대 여성…쓰러져 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/08/30/IVU3B5U2RZCHPATGJQ7JPX5KTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/IVU3B5U2RZCHPATGJQ7JPX5KTA/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Aug 2025 11:50:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q6MEYAU2ADN55ID5RXXL42EQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택의 한 텃밭에서 일하던 70대 여성이 쓰러져 숨졌다. &lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면 이날 오후 5시 30분쯤 경기 평택시 팽성읍의 한 텃밭에서 70대 여성 A씨가 쓰러진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨는 병원으로 옮겨졌으나 사망 판정을 받았다. &lt;br&gt;&lt;br&gt;A씨는 농사용 작업복을 입고 장화를 신고 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;평택지역은 이날 폭염주의보가 내려졌고, 낮 최고기온 34.5도를 기록했다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 사망 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“짬뽕 포장하러 갔다가”…상의 탈의한 업주에 ‘충격’</title>
       <link>https://www.chosun.com/national/national_general/2025/08/30/3MIXWOA6JNET7FNVQMNHOKGI5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/3MIXWOA6JNET7FNVQMNHOKGI5I/</guid>
@@ -666,33 +699,6 @@
       <description/>
       <pubDate>Sat, 30 Aug 2025 10:46:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJ3MZQ4JTREPPJLSOM3YAJKLQI.png"&gt;&lt;figcaption&gt;&lt;small&gt;대구의 한 중국집 업주가 상의를 탈의한 채 음식을 포장한다는 목격담이 전해졌다./ 네이버 카페 ‘아프니까 사장이다’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 중국집 업주가 상의를 탈의한 채 음식을 포장하는 모습이 목격됐다.&lt;br&gt;&lt;br&gt;30일 자영업자들이 모인 네이버 카페 ‘아프니까 사장이다’에는 동네 중국집에서 이 같은 장면을 봤다는 글이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 자신도 요식업에 종사하고 있다며 “수년째 단골로 다니던 인기 많은 중국집에 짬뽕을 포장 주문하러 갔다. 매장에는 에어컨도 선풍기도 없었다”며 당시 상황을 떠올렸다.&lt;br&gt;&lt;br&gt;그는 “포장하러 왔으니 10분 정도 더운 건 참을 수 있었다”면서도 “마스크와 위생모를 착용하지 않고 슬리퍼에 반바지 차림인 모습은 늘 봐왔지만, 상의를 벗은 채 손님 접대부터 포장 마감, 매장 테이블 청소까지 하는 건 납득이 안 된다”고 말했다.&lt;br&gt;&lt;br&gt;그가 올린 사진 속에는 반바지와 양말만 착용한 남성이 상의 탈의한 채 맨몸으로 음식을 검은 비닐봉지에 담는 모습이 담겼다. &lt;br&gt;&lt;br&gt;A씨는 이 남성이 “사장이거나 사장의 남편으로 보인다”고 했다. A씨는 “수년간 이해할 수 없는 운영을 봐왔지만, 상의 탈의는 위생법 위반 아니냐”며 “컨디션이 안 좋아서 밥 사러 나왔다가 여기가 중국인 줄 알았다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “아무리 맛집이라도 더러워서 먹기 싫다” “충격이다. 구청에 민원 넣으라” “사진을 보고도 믿기 힘들다”는 등의 반응이 이어졌다.&lt;br&gt;&lt;br&gt;더운 날씨가 이어지고 있는 올여름, 상의 탈의가 논란이 된 건 이번이 처음이 아니다. 28일 한 온라인 커뮤니티에는 KTX에서 상의를 탈의하고 앉아가는 남성의 모습이 포착됐다. 공개된 사진을 보면, 한 남성 승객이 상의를 탈의한 채 열차 의자에 앉아 있는 모습이 담겼다. 남성의 팔과 옆구리 부분이 훤히 드러났지만, 승객은 주위 시선을 신경 쓰지 않는 모습이었다. &lt;br&gt;&lt;br&gt;공공장소에서 노출을 하면 공연음란죄나 경범죄로 처벌받을 수 있다. 공연 음란 행위를 한 자는 1년 이하의 징역, 500만원 이하의 벌금, 구류 또는 과료에 처해질 수 있다. 공공장소에서 신체의 주요 부위를 노출하면 10만원 이하의 벌금, 구류 또는 과료 처분을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천안 도로포장 작업 60대 근로자 장비 깔려 사망</title>
-      <link>https://www.chosun.com/national/incident/2025/08/30/SMCVMAXPVNAAZAOKTFL6AJQ4K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/SMCVMAXPVNAAZAOKTFL6AJQ4K4/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Aug 2025 11:03:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UDXPVTSQUST7EL5LLZL7E57WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 1시 53분쯤 60대 근로자가 장비에 깔려 숨지는 사고가 발생한 충남 천안시 동남구 용곡동 도로포장 작업 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안의 한 도로포장 작업 현장에서 60대 근로자가 장비에 깔려 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;30일 경찰과 소방 당국 등에 따르면 이날 오후 1시 53분쯤 충남 천안시 동남구 용곡동의 한 도로포장 작업 현장에서 근로자 A(63)씨가 아스콘 표면을 다지는 타이어 롤러에 깔렸다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태로 병원으로 이송됐으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 장비가 후진하는 과정에서 사고가 발생한 것으로 보고 현장 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보]행안부, 오늘 오후 7시 강릉시 일원 재난 사태 선포</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/30/3O7P4EPN3BD6LH64DLNDXDGWEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/30/3O7P4EPN3BD6LH64DLNDXDGWEA/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Aug 2025 09:54:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIXVBM4WLI2UXS7MOWVYZ7NSJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;행정안전부./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘구명조끼 전달 해주려다…’, 바다에 빠진 20대 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/08/30/6U555FCG4JDBDOMYBHFXMDTT4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/30/6U555FCG4JDBDOMYBHFXMDTT4Q/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Aug 2025 09:49:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IADZLBRRGM25KFYMBHSQAU2QOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 양양의 한 해수욕장에서 물에 빠진 사람을 구하려던 20대가 숨졌다. &lt;br&gt;&lt;br&gt;30일 해경과 소방 당국 등에 따르면 이날 오후 12시 23분쯤 강원 양양군 현북면 하광정리 하조대 해수욕장에서 물에 빠진 사람을 구하려던 20대 A씨가 바다에 빠졌다. &lt;br&gt;&lt;br&gt;현장에 있던 안전관리 요원이 A씨를 물 밖으로 구조해 소방과 해경이 심폐소생술을 실시하면서 병원으로 이송했으나, A씨는 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 물에 빠진 B씨가 구조를 요청하는 소리를 듣고 구명조끼를 전달하기 위해 바다로 뛰어드는 과정에서 사고를 당한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;B씨는 구명조끼를 전달받아 스스로 물 밖으로 나왔다고 한다. &lt;br&gt;&lt;br&gt;해경은 정확한 사고 경위 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>심권호, 야윈 근황에 걱정 잇따르자…“과거 영광의 흔적”</title>
@@ -960,15 +966,6 @@
       <description/>
       <pubDate>Fri, 29 Aug 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLMZFHW2QBFI3HVX6ARURVO4YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최근 20~30대 사이에 외모로 참가 여부를 결정한다는 ‘외모 승인제 파티’가 유행하고 있다. /게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘나이 33세, 키 159.8㎝(컨디션 좋으면 160.8㎝), 몸무게 52㎏, 아침 공복에는 50.8㎏.’ 이 모든 것을 공개했건만 왜 연락이 없을까. 사진 속 내 외모가 마음에 안 드는 걸까? 초조하게 휴대전화를 붙들고 기다리길 3시간째, 드디어 메시지가 왔다. &lt;br&gt;&lt;br&gt;“미승인 안내. 결이 맞지 않아 아쉽게도 함께하지 못하게 됐습니다.”&lt;br&gt;&lt;br&gt;아이돌 오디션이라도 봤느냐고? 아니다. 단지 끼고 싶었을 뿐이다. 꽃 같은 청춘들이 모여 서로의 짝을 찾는다는 파티 자리에.&lt;br&gt;&lt;br&gt;최근 20~30대 사이에 외모로 참가 여부를 결정한다는 ‘외모 승인제 파티’가 유행하고 있다. 매달 지원자가 많게는 수천 명일 정도로 인기다. 희망자가 주최 측에 자신의 사진을 보내면 외모 검토(?) 후 참가 여부를 결정해 주는 방식. 참가비는 4만~7만원 선이다. 이성을 만날 때 중요하게 여겨졌던 직업·연봉·학벌 세 가지는 묻지도, 따지지도 않는다. 심지어 ‘직업 발설 금지’를 내거는 곳도 있다. 직접 3곳에 지원해 봤다. 도대체 어떤 방식으로 진행되는 것이며 이런 곳에 가는 이유는 무엇일까. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇오직 외모만 봅니다&lt;/b&gt;&lt;br&gt;&lt;br&gt;소셜미디어에서 외모 승인제 파티를 검색하니 수많은 업체 정보가 쏟아졌다. ‘서울대와 대기업, 여기선 스펙이 아닙니다’ ‘연봉 23억 의사도 못 옵니다’…. 다음 문구가 뼈를 때린다. ‘오직 외모로만 입장 가능.’&lt;br&gt;&lt;br&gt;일단 홈페이지 신청 버튼을 눌렀다. 모집 규모는 남녀 각 30~60명 정도. 일종의 집단 소개팅인 셈. 적지 않은 규모였지만 대다수의 날짜가 ‘모집 마감’이었다. 짧은 질문에 답을 적어 나갔다. 주로 나이나 키, 사진으로 외모를 확인할 수 있는 소셜미디어 ID(아이디) 등을 물었다. 또 하나. 얼굴이 잘 보이는 ‘본인 사진’ 1~2장은 필수 제출이다. “전체적인 분위기를 파악할 수 있도록 전신 사진이 필요하다”는 곳도 있었다.&lt;br&gt;&lt;br&gt;결국 사진으로 승패가 결정된다. 노트북 앞에 앉아 있는 실시간 모습을 찍어 올리는 건 아닌 거 같았다. 숍에서 헤어·메이크업했을 때의 사진을 찾았다. 첫 업체에 보냈다. &lt;br&gt;&lt;br&gt;두 번째 업체의 경우 ‘나이 제한’이 있었다. 남자 2000~1990년생, 여자 2002~1992년생 사이만 참가 가능. 입장 전 신분증까지 확인해 틀린 정보가 있으면 출입이 불가하단다. 나이 제한에는 걸리지 않았다. 적당한 사진을 골라 첨부했다. 마지막 업체에 올린 사진도 고르면서 신중을 기했다. 어느새 자존심 싸움이 되어 있었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇한 달 신청자만 3000여 명&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘입장 시간 오후 8시 정각까지 서울 성북구의 파티룸으로 와 주세요. 20분 이상 늦으면 입장이 제한될 수 있습니다.’&lt;br&gt;&lt;br&gt;결과는 2곳 합격, 1곳 불합격. 합격 메시지에는 “화려할 필요는 없지만 평소보다 분위기 있게 입고 와 달라”는 ‘드레스 코드’가 적혀 있었다. 반면 불합격 통보 메시지에는 “참가비를 환불해 드리겠다”는 서글픈 문구가.&lt;br&gt;&lt;br&gt;외모 승인제 파티는 주로 이벤트 기획 업체나 게스트하우스·파티룸 관계자 등이 주최한다. 한 업체는 지난 3월 서울 동작구 사당에서 첫 파티를 연 뒤 이달까지 총 5만7000여 명의 신청서를 받았다고 한다. 이 업체는 “월 신청자가 3000명 이상”이라며 “하루 평균 110명의 신청서를 매일 4시간씩 검토한다”고 안내했다. 승인율이 평균 27%에 불과하단다. 이 업체 대표 이승후(30)씨는 “외모가 뛰어난데 소개팅이나 헌팅포차, 클럽을 부담스러워하는 지인들을 보면서 비슷한 성향의 사람들끼리 파티를 기획하면 어떨까 생각했다”며 “외모에서부터 호감인 사람들이 가까워질 수 있는 장치를 마련하는 것이 목적”이라고 했다. 매주 금·토요일 홍대입구역에서 파티를 여는 또 다른 업체 역시 “신청자가 많아 대기해야 할 수 있다”고 안내한다.&lt;br&gt;&lt;br&gt;모인 이들은 진행자의 진행에 맞춰 식사를 하거나 술을 마시고 ‘미니 게임’ 등을 하며 이야기를 나눈다. 남성 장모(26)씨는 “일대일로 만나는 소개팅은 사진과 다른 외모의 상대가 나오면 실망하지 않느냐”며 “외모 승인제 파티는 여러 명이 나오기 때문에 마음에 드는 사람을 만날 수 있다는 게 장점”이라고 말했다. 한 20대 여성은 “외모가 마음에 들지 않으면 조건이 좋아도 호감이 안 생긴다”며 “먼저 외모를 확인한 후 알아가는 것도 괜찮다고 본다”고 했다.&lt;br&gt;&lt;br&gt;전문가들은 ‘외모 승인제’ 확산이 외모를 학벌·직업 못지않은 자산으로 여기는 요즘 젊은 층의 가치관을 반영한다고 본다. 구정우 성균관대 사회학과 교수는 “결혼을 망설이는 젊은 층이 많지만, 결혼은 결국 만남에서 시작된다”며 “외모를 기준으로 한 파티를 가볍게만 볼 게 아니라, 새로운 형태의 만남으로 이해할 필요가 있다”고 말했다. 김중백 경희대 사회학과 교수는 “아직 일부 젊은 층 사이에서 나타나는 현상이지만, 점차 확산된다면 외모 지상주의를 심화시키는 부작용을 낳을 수 있다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신동아건설 회생계획안 인가...회생 개시 7개월 만</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/AEQ5LAOYAVH3NNV2DH6WVUZGQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/AEQ5LAOYAVH3NNV2DH6WVUZGQM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 07:31:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLDT4TBZOWE2RWOTAJAAZYSHA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국내 시공능력평가 58위 건설사인 신동아건설 본사 모습. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울회생법원은 기업회생 절차를 밟고 있는 신동아건설의 회생계획안을 인가했다고 29일 밝혔다. 지난 1월 회생절차가 개시된 지 7개월 만이다.&lt;br&gt;&lt;br&gt;이날 신동아건설 회생계획안 심리·결의를 위한 채권자 집회에서는 회생담보권자의 88.63%, 회생채권자의 88.61%가 회생계획안에 찬성했다. 회생계획안 인가 요건인 회생담보권자의 4분의 3(75%), 회생채권자의 3분의 2(67%) 이상의 동의를 얻었다. 서울회생법원은 “신동아건설 관리인이 제출한 최종 회생계획안이 인가 요건을 구비하고 있고 법정 가결요건을 충족했다”며 인가 결정을 내렸다.&lt;br&gt;&lt;br&gt;주택 브랜드 ‘파밀리에’로 잘 알려진 신동아건설은 작년 기준 시공능력평가 58위의 중견 건설사다. 1977년 설립돼 건축·토목공사와 부동산 임대 등 사업을 해왔다. 최근 원자재 가격의 급격한 상승으로 수익성이 악화된 데다 분양시장 침체로 사업일정이 지연·중단되고 최근 준공한 주요 공사현장 관련 공사대금 회수까지 부진하면서 유동성이 악화됐다. 지난 1월 6일 기업회생을 신청했고, 같은 달 22일 회생절차가 개시됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
