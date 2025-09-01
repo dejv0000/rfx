@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 전 대통령, 영치금 3억원 변호사비·치료비로 사용</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/01/ETQLK6HLIJFIVFQ44VGMENNRHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/ETQLK6HLIJFIVFQ44VGMENNRHM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 13:32:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWIW3ZDLXRRWSRYNKW6JMQZA24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 지난 7월 10일 서울구치소에 구속 수감된 이후 받은 영치금 중 3억 700만원을 변호사비와 치료비로 사용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;1일 박은정 조국혁신당 의원실이 확인한 윤 전 대통령 보관금 출금 내역을 살펴보면, 윤 전 대통령은 지난 7월 15일부터 지난달 29일까지 79차례에 걸쳐 영치금 3억 700만원을 출금했다. 윤 전 대통령은 7월 15일과 16일 각각 300만원씩 출금할 때는 본인 계좌로 송금을 요청했는데, 이후 77차례 출금은 모두 변호사비와 치료비 등에 사용한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;입금 내역엔 지지자들이 영치금을 보내면서 쓴 ‘계몽해주셔서 감사합니다’ ‘건강하세요’와 같은 메시지와 ‘깜빵 수고’와 같은 조롱 메시지 등이 섞여 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;영치금의 1인 보관 한도는 400만원이다. 교정 당국은 보관금품 관리지침에 따라 영치금이 400만원을 넘을 경우 수용자가 석방될 때 지급하거나, 개인 계좌로 이체하도록 하고 있다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령의 배우자 김건희 여사와 장모 최은순씨는 윤 전 대통령이 지난 1월 고위공직자범죄수사처에 체포돼 수감됐을 때 각각 50만원과 100만원을 영치금으로 입금한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉시, 오봉저수지 저수율 10%땐 격일제·시간제 급수</title>
+      <link>https://www.chosun.com/national/regional/2025/09/01/RLGKIQ65JRH5TOPISLUDXPPTJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/01/RLGKIQ65JRH5TOPISLUDXPPTJM/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>극심한 가뭄 피해를 겪고 있는 강원 강릉시가 주 식수원인 오봉저수지 저수율이 10% 아래로 내려가면 격일제나 시간제 급수를 시행키로 했다.
+김홍규 강릉시장은 1일 오전 시청 재난상황실에서 가뭄 대응 비상 대책 2차 기자회견을 열고 이 같은 방침을 밝혔다.</description>
+      <pubDate>Mon, 01 Sep 2025 13:08:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXMNXX3KTQEMA74O5WSOZ7IRI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김홍규 강릉시장이 1일 오전 '가뭄 대응 비상 대책 2차 기자회견'을 통해 강화된 조치를 설명하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄 피해를 겪고 있는 강원 강릉시가 주 식수원인 오봉저수지 저수율이 10% 아래로 내려가면 격일제나 시간제 급수를 시행키로 했다.&lt;br&gt;&lt;br&gt;김홍규 강릉시장은 1일 오전 시청 재난상황실에서 가뭄 대응 비상 대책 2차 기자회견을 열고 이 같은 방침을 밝혔다. 이날 오봉저수지의 저수율은 14.5% 기록했다.&lt;br&gt;&lt;br&gt;앞서 시는 전날 오봉저수지 저수율이 15% 아래로 떨어지자 세대별 수도 계량기를 50%에서 75%까지 잠갔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFUWLQHAEEQR56OQ3PUWWBHPPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 강원 강릉시 주요 상수원인 오봉저수지 일대가 메말라 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 오봉저수지 저수율이 10% 아래로 떨어지면 시간제·격일제 급수를 시행하고, 전 시민에게 1인당 하루 2ℓ씩 6일 치 분량인 12ℓ의 생수를 배부한다. 시내권은 아이스아레나 등 4곳, 면 지역은 초등학교 등을 배부 장소로 지정한다. 다만, 의료·교정·사회복지시설엔 하루 20대의 살수차가 생활용수를 공급한다.&lt;br&gt;&lt;br&gt;최악의 경우 저수율이 0%까지 떨어질 경우 차량 운반 급수에 돌입한다는 방침이다.&lt;br&gt;&lt;br&gt;시는 이미 2ℓ 생수 135만병을 비축했으며, 저수율이 15% 이하로 떨어진 지난달 28일과 29일 사회복지시설과 학교 등에 우선 배부를 마쳤다.&lt;br&gt;&lt;br&gt;강릉관광개발공사에서 운영하는 숙박 시설은 저수율 10% 미만이 되면 운영을 전면 중단키로 했다.&lt;br&gt;&lt;br&gt;김홍규 강릉시장은 “역대 최악의 가뭄으로 시민 여러분께서 겪고 있는 불편과 걱정을 더 덜어내지 못해서 다시 한번 깊이 송구스럽게 생각한다”면서 “시민 여러분의 소중한 일상을 지켜낼 수 있도록 가뭄 극복에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>변호사 대 변호사... 결말은 [이별전쟁]</title>
+      <link>https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</guid>
+      <dc:creator>법무법인 시작</dc:creator>
+      <description/>
+      <pubDate>Sat, 30 Aug 2025 20:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;격주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FRJP3DX6FFHVA6S44N52T5KVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSKRHGU5JVA75EIM3WBAT2IF2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 소송을 걸어주세요 끝&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;오큰네무역①&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1NjBq" rel=""&gt;&lt;u&gt;https://m.site.naver.com/1NjBq&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;오큰네무역②&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1NjBE" rel=""&gt;&lt;u&gt;https://m.site.naver.com/1NjBE&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AAGZZCO3FJHZROIAC5P74XPISE.png?auth=0311a5dfb413a0cc869caf19370e546bc9118970995c7b7f2978e151a0c274f2&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800"/>
+    </item>
+    <item>
+      <title>서울대 이공계마저... 석·박사 4분의 3 못 채웠다</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/01/IDMTA2HUJRGFVMD25KWJCY3GO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/01/IDMTA2HUJRGFVMD25KWJCY3GO4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 10:22:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMQYAKXXB3KP6XBAVWGN5GMKHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인재 유출 비상에 걸린 서울대가 이공계 석·박사 인재 부족을 겪고 있다. 올해 상반기 서울대의 이공계열 석·박사 과정의 4분의 3 정도가 모집 정원을 채우지 못했다.&lt;br&gt;&lt;br&gt;서지영 국민의힘 의원실이 교육부로부터 제출받은 ‘서울대 2025학년도 전기 대학원 모집 단위별 충원율 현황’에 따르면 서울대 자연과학대학, 공과대학 등 이공계열 석·박사 과정의 75%가 모집 정원을 채우지 못했다. 자연과학대학의 경우 81.5%, 공과대학의 경우 70.3%가 충원율이 미달했다.&lt;br&gt;&lt;br&gt;모집 인원보다 지원자 수가 더 적은 과정도 전체 과정 중 41.1%인 것으로 나타났다. 지원자의 자질이 부족하다는 등의 이유로 모집 인원보다 적게 선발한 과정도 35%가량에 달했다. 가령 자연과학대학 수리과학부 석박통합과정의 경우 모집 인원 29명에 지원자 수는 66명이었으나 선발 인원은 17명이었다.&lt;br&gt;&lt;br&gt;교수 해외 유출 비상에 걸린 서울대가 석·박사 인재마저 부족해지고 있다. 지난 2021년부터 올해 5월까지 지난 4년간 서울대에서 해외 대학으로 떠난 교수는 56명이다. 이는 작년 서울대 전체 교원(2344명)의 2%에 달한다. &lt;br&gt;&lt;br&gt;한편 한국과학기술원(카이스트), 광주과학기술원(GIST), 대구경북과학기술원(DGIST), 울산과학기술원(UNIST) 등 지방에 흩어진 4대 과학기술원도 인재 부족을 겪고 있다. 서 의원이 과학기술정보통신부로부터 제출받은 자료에 따르면 4대 과기원의 박사후연구원 5명 중 1명은 외국인이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울구치소 CCTV 열람에...尹 전 대통령 측 “전직 대통령 망신주기”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/01/PET2FJDEZNF5VDM7YICLSIEEV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/PET2FJDEZNF5VDM7YICLSIEEV4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 10:44:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4AOUW5ZGNITBA4T7AJ5TFJRCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 더불어민주당 간사가 1일 경기도 의왕시 서울구치소에서 열린 현장검증을 마치고 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원회 소속 의원들이 1일 서울구치소 내 폐쇄회로(CC)TV를 열람하자, 윤석열 전 대통령 측은 “전직 대통령 망신주기”라며 반발했다.&lt;br&gt;&lt;br&gt;이날 오전 추미애 법사위원장을 비롯해 더불어민주당·조국혁신당 소속 법사위 의원들은 경기 의왕시 서울구치소를 찾아 현장 검증을 벌였다. 앞서 지난달 1일과 7일 특검팀이 체포 영장 집행을 시도할 때 윤 전 대통령이 거부하는 모습을 확인하기 위해서다.&lt;br&gt;&lt;br&gt;1차 집행 당시 특검은 윤 전 대통령이 속옷 차림으로 저항했다고 밝혔다. 2차 집행 때는 교도관 등이 윤 전 대통령에게 물리력을 행사하는 과정에서 윤 전 대통령이 의자에서 떨어져 다쳤다는 사실이 알려졌다. 집행 시도가 거듭 실패하는 상황에서 윤 전 대통령이 일반 수용자들이 사용하는 접견실과 별도 공간에서 변호인을 접견한다는 사실까지 알려지자 ‘서울구치소에서 윤 전 대통령에게 특혜를 제공한다’는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;이날 CCTV 영상을 열람한 김용민 의원은 “1차 집행 때는 윤석열이 속옷 차림으로 누워서 집행을 거부하면서 ‘나에게 강제력을 행사할 수 없다’라고 강력하게 반발했고, 2차 집행 역시 속옷 차림으로 자리에 앉아서 성경책으로 보이는 책을 읽으며 집행을 거부했다”고 했다. &lt;br&gt;&lt;br&gt;2차 집행 과정에서 윤 전 대통령이 의자에서 떨어졌다는 의혹에 대해 김 의원은 “의자를 밖으로 끌어당기는 정도 수준의 물리력 행사만 있었을 뿐, 강제로 들어내거나 끌어내거나 하지 않았다”고 했다. 의자에서 떨어져서 다쳤다는 윤 전 대통령 측 주장이 사실이 아니라고 반박한 것이다.&lt;br&gt;&lt;br&gt;이에 대해 윤 전 대통령의 법률대리인단은 즉각 비판 목소리를 냈다. 대리인단은 “형의 집행 및 수용자의 처우에 관한 법률 제94조는 자살·자해·도주 등 행위를 방지하기 위해 필요한 범위에서 CCTV를 이용하여 계호를 할 수 있도록 하고 있다”며 “CCTV는 수용자 또는 시설을 계호하기 위한 최소한의 범위에서 사용할 수 있는 것이며, 국회가 의결한 것과 같이 특혜 제공이나 수사 방해 목적을 확인하기 위해서 사용하거나 열람할 수 있는 것이 아니다”라고 했다. &lt;br&gt;&lt;br&gt;이어 “교정시설 내부 CCTV는 보안시설 영상물로 비공개 원칙이 적용되고 있다”며 “수용자의 인권을 보호하기 위한 것뿐 아니라 교정시설 내부 구조나 경비체계가 노출될 경우 보안에 큰 위험을 초래할 수 있기 때문“이라고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “결국 수용자의 안전과 시설의 질서 유지를 유해 설치된 CCTV의 영상을 특혜 제공 및 수사방해 혐의를 확인하기 위해 열람하고 공개한다는 것은 관련 법률의 취지를 명백히 위반하는 것”이라며 “당사자가 불법성의 증거를 확보하기 위해 신청한 정보공개 조차 거부했으면서 수사기관이나 법원도 아닌 국회가 이를 확인하겠다는 것은 정치적 목적으로 법률을 위반할 수 있다는 것과 다르지 않다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>천안 탑원교차로 인근 가스 유출…“차량 우회하고 주민 주의를”</title>
       <link>https://www.chosun.com/national/regional/2025/09/01/MDG72RP7EFEXNI63USUHDFJ7B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/01/MDG72RP7EFEXNI63USUHDFJ7B4/</guid>
@@ -549,42 +597,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5YHYWLSTBVLOTFO2AWYBS2JEF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박단 전 대한전공의협의회(대전협) 비상대책위원장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박단 전 대한전공의협회(대전협) 비상대책위원장이 세브란스병원 하반기 전공의 모집공고에 지원했지만 불합격했다.&lt;br&gt;&lt;br&gt;29일 박 전 비대위원장은 자신의 페이스북에 글을 올려 “며칠 전 세브란스병원 응급실에서 다시 수련을 받고자 응급의학과 전공의 모집에 지원서를 냈었다”며 “금일 불합격 통보를 받았다”고 했다. 그는 “애증의 응급실, 동고동락했던 의국원들과 함께하지 못하는 것은 조금 아쉽지만, 뭐 별 수 있나”라며 “이 또한 다 제가 부족하기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;2023년 8월 대전협 회장으로 선출된 그는 작년 2월 세브란스병원 응급의학과 레지던트 수련을 중단했다. 당시 “소아응급의학과 세부 전문의의 꿈, 미련 없이 접을 수 있게 됐다”며 “저는 돌아갈 생각 없다”고 밝혔다. 이후 올해 6월까지 전공의 대표 단체인 대전협을 이끌었고, 전공의들의 대정부 투쟁을 이끌었다. 하지만 이후 의료계 안 팎에서 박전 비대위원장의 강경 대응 방식에 대한 비판이 나왔고, 이를 계기로 사퇴했다.&lt;br&gt;&lt;br&gt;그는 이날 페이스북 글에서 “한풀 더 식히며 또 어떻게 살아가야할지 고민해 보려 한다”라며 “염려와 격려를 보내주신 모든 분들께 감사의 인사를 남긴다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 前 검찰단장 “이첩 회수·항명 수사에 ‘대통령실 관여’ 짐작”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/T3V3HU3R3JFAZBIU7RQ7LQMGCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/T3V3HU3R3JFAZBIU7RQ7LQMGCM/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 11:02:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2B257NZVDQ4PRKGVS52A6LVYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동혁 전 국방부 검찰단장이 지난 20일 오전 서울 서초구 순직 해병 특검 사무실에 피의자 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹의 핵심 피의자인 김동혁 전 국방부 검찰단장이 해병 특검 조사에서 “당시 국방부의 이첩 회수·항명죄 수사 등에 대통령실이 관여돼 있을 것으로 짐작했다”는 취지로 진술한 것으로 확인됐다. 김 전 단장이 고(故) 채수근 상병 사망 사건의 처리 과정에서 대통령실의 개입 가능성을 인정한 것은 처음이다.&lt;br&gt;&lt;br&gt;특검은 김 전 단장이 채 상병 사건 초동 조사 기록 회수와 박정훈(대령) 해병대 수사단장에 대한 항명죄 표적 수사 등 윤석열 전 대통령의 직권남용 범행에 적극 공모했다고 보고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김 전 단장은 이달 중순 총 7차례 특검에 출석해 강도 높은 조사를 받으며 “국방부가 채 상병 사건의 이첩을 보류·회수하고, 항명죄 수사를 결정한 배경에 대통령실이 있을 거라 짐작했다”는 취지로 말했다. 김 전 단장은 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 해병대 수사단 초동 조사 기록의 경찰 이첩 보류와 회수, 항명죄 수사에 전방위적으로 관여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 전 단장은 2023년 7월 31일 윤 전 대통령이 초동 조사 결과를 보고받고 격노한 후 박진희 전 군사보좌관과 통화하며 이첩 보류 등에 대해 논의했다. 해병대 수사단이 이첩을 강행한 8월 2일 오후에는 신범철 전 국방차관이 주재한 국방부 대책 회의에 참석해 ‘진상 조사’, ‘책임자 처벌 방안’ 등을 검토했다. 회의 직후 검찰단은 이종섭 전 국방장관 등의 지시에 따라 경찰에 이첩된 기록을 회수하고 박 대령을 ‘집단 항명 수괴’ 혐의로 입건했다. 이처럼 국방부 내 일련의 조치가 급박하게 진행된 배경에 대통령실의 관여가 있었을 것이라는 게 김 전 단장의 생각이다.&lt;br&gt;&lt;br&gt;특검은 김 전 단장이 대통령실의 외압을 사실상 알고도 이첩 보류·회수, 박 대령 항명죄 수사 등 부당한 지시에 적극 동조했다고 보고 있다. 한 법조인은 “군 사건을 공정하게 수사해야 할 검찰단장이 자신의 영달을 위해 적법하게 이첩된 기록을 회수하고, 박 대령을 ‘표적 수사’하기 위해 허위 내용으로 구속영장을 청구하고 기소했다면 처벌을 피하기 어려울 것”이라고 말했다. 박 대령은 1심에서 무죄 판결을 받았고, 2심에서는 지난달 9일 특검이 항소를 취하해 무죄가 확정됐다. 이명현 특검은 항소를 취하하면서 “국방부 검찰단이 박 대령을 집단 항명 수괴로 기소한 건 공소권 남용”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3OZEVJAW5DK5OFVHDZOJ24F6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈 해병대 수사단장이 29일 서울 서초구 순직 해병 특검 사무실에 참고인 조사를 받기 위해 출석하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 김 전 단장은 특검 조사에서 “당시로서는 이종섭 전 장관의 이첩 보류·회수, 항명죄 수사 지시가 명백히 불법이라고 볼 상황이 아니었다. 국방부 검찰단은 장관의 지시를 수명(受命)했을 뿐”이라고 해명한 것으로 전해졌다. 군인으로서 상관의 지시를 따른 것이라 법적 책임을 물을 수 없다는 취지다. 김 전 단장은 또 “박 대령이 계속 검찰단의 소환 요청에 응하지 않아 구속영장을 청구한 것”이라며 “절대 ‘보복성 수사’가 아니었다”고 주장했다고 한다.&lt;br&gt;&lt;br&gt;특검은 이날 김 전 단장이 사용하던 국방부 검찰단 집무실 등에 대한 압수 수색을 진행했다. 김 전 단장의 진술 내용을 바탕으로 추가 자료를 확보하기 위해 강제 수사에 나선 것이다. 앞서 이 사건을 수사한 고위공직자범죄수사처도 작년 1월 국방부 검찰단을 압수 수색했다.&lt;br&gt;&lt;br&gt;한편, 특검은 지난 26일 서성훈 중앙지역군사법원장을 참고인으로 불러 조사했다. 서 군사법원장은 검찰단이 박정훈 대령을 수사할 당시 김 전 단장, 유재은 전 법무관리관 등 국방부 관계자들과 통화한 것으로 전해졌다. 다만 특검 관계자는 군사법원 통화 의혹에 대해 “아직까지 수사를 적극적으로 진행할 만한 내용은 확인하지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘바이든-날리면’ 명예훼손 혐의 MBC 기자 등 3년 만에 불송치</title>
-      <link>https://www.chosun.com/national/incident/2025/08/29/CORCGB6FRVCUDIFAA7TEFNF4YI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/08/29/CORCGB6FRVCUDIFAA7TEFNF4YI/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 09:50:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6A2CRVZEJKMUJKOSFQ2YAZJRUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포구 상암동 MBC 사옥 건물/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 2022년 방미 당시 불거진 이른바 ‘바이든-날리면’ 자막 논란 등을 보도해 명예훼손 혐의로 고발된 MBC 기자를 수사하던 경찰이 불송치 결정을 내렸다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 정보통신망법상 명예훼손 등 혐의로 고발된 MBC 기자와 박홍근 당시 더불어민주당 원내대표 등 총 12명에 대해 지난 18일 불송치 결정을 내렸다고 29일 밝혔다. 증거 불충분 등으로 혐의를 입증하기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;이 사건은 2022년 9월 조 바이든 당시 미국 대통령이 뉴욕에서 주재한 한 행사에 참석한 뒤 행사장을 떠나던 윤 전 대통령 발언이 발단이 됐다. 당시 MBC는 윤 전 대통령이 한 발언을 전하며 “(미국) 국회에서 이 XX들이 승인 안 해주면 ‘바이든’은 쪽팔려서 어떡하나”라는 자막을 달았다. 대통령실은 “국회는 한국 국회를, 바이든이 아니라 ‘날리면’이라고 말한 것”이라고 주장했다. 이에 국민의힘 이종배 서울시의원과 보수단체인 자유대한호국단, 서민민생대책위원회 등은 MBC 기자와 당시 이사장 등을 상대로 경찰에 고발장을 제출했으나, 약 3년 만에 수사가 종결된 것이다.&lt;br&gt;&lt;br&gt;논란이 생긴 그해 외교부가 MBC를 상대로 낸 정정 보도 청구 소송도 최근 항소심 결과가 나왔다. 1심에선 MBC의 보도를 허위로 보고 정정 보도를 명령했지만, 항소심 재판부인 서울고법은 지난 18일 강제 조정 결정을 내리면서 “(윤 전 대통령) 발언의 성격, 언론·표현의 자유, 사회적 갈등 비용 등을 종합해볼 때 외교부가 소를 철회하는 방식이 바람직하다”고 했다. 재판부는 전문가가 ‘음성 판독 불가’ 결론을 내린 것을 토대로 “외교부가 제출한 증거만으로는 이 사건 보도가 허위임을 인정하기 부족하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검 “이종호, 공수처장·의원과 찍은 사진 보이며 ‘재판 로비’ 과시”</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/L7T2CAMLYVEZ5DCOCSNKT4WAVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/L7T2CAMLYVEZ5DCOCSNKT4WAVU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 09:09:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALLJI2PRVZGCTLHFKXB6JXXAYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 지난 5일 서울 서초구 서울중앙지법에서 열린 영장실질심사에 출석하고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 최측근인 이종호 전 블랙펄인베스트 대표가 도이치모터스 1차 주가조작 ‘주포’인 이정필씨에게 김 여사 등과의 인맥을 자랑하며 ‘재판 로비’를 대가로 돈을 요구한 정황이 공개됐다.&lt;br&gt;&lt;br&gt;29일 본지가 입수한 이 전 대표의 변호사법 위반 사건 공소장에 따르면, 이 전 대표는 도이치모터스 주가조작 1심 재판 중이던 2022년 5월 경기도 성남의 한 주점에서 이씨와 만나 “(재판 결과는) 걱정하지 마라. 김건희나 VIP(윤석열 당시 대통령)에게 이야기해 집행유예가 나오도록 해주겠다”고 말했다. 이 전 대표는 자신이 국회의원과 고위공직자범죄수사처 처장 등과 찍은 사진을 보여주며 정계·법조계 인맥을 통해 재판 로비가 가능한 것처럼 꾸몄다고 한다.&lt;br&gt;&lt;br&gt;이 전 대표는 이씨에게 지속적으로 “김건희가 사건을 챙겨보고 있다”, “김건희가 알아서 잘할 거니까 재판은 신경 안 써도 된다”, “내가 김건희와 직접 소통이 되고, VIP나 행정관들이랑도 연계가 돼 있다”, “너는 집행유예 나오도록 잘할 거니까 걱정하지 말라”고 말하며 안심시켰다고 한다.&lt;br&gt;&lt;br&gt;이후 이 전 대표는 이씨에게 “재판에 도움되는 사람들의 그림을 사줘야 한다”는 등의 이유로 금품을 요구했고, 2022년 5월~2023년 2월까지 23차례에 걸쳐 7590만원을 수수한 것으로 김건희 특검은 보고 있다. 또 이씨가 2022년 10월 별도의 횡령 혐의로 고소당해 경찰 수사를 받게 되자, 이 전 대표가 “수사과장을 잘 아니 사건을 해결해주겠다”며 800만원을 받아 간 정황도 확인됐다.&lt;br&gt;&lt;br&gt;두 사람은 도이치모터스 주가조작 범행 당시에는 서로를 알지 못했지만 기소 이후 재판을 함께 받으며 친해졌다고 한다. 특검은 지난 22일 이 전 대표를 구속기소했다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 대표 측은 “이씨의 허위 진술에 근거한 특검의 일방적인 주장”이라며 “(진술 외에) 어떤 증거도 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 공수처·전 부장검사 압수수색… ‘이종호 위증’ 의혹</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/29/XE3VETMIQ5BPFEJX4P4WJQ63JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/29/XE3VETMIQ5BPFEJX4P4WJQ63JQ/</guid>
-      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 09:06:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FFNBFG663UGV4RMUR65MBE6Z3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부과천청사 고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘순직 해병 수사 외압’ 의혹을 수사 중인 해병 특검이 29일 송창진 전 고위공직자범죄수사처(공수처) 부장검사와 공수처 청사 등을 압수 수색한 것으로 전해졌다. 송 전 부장검사는 이종호 전 블랙펄인베스트 대표와 관련해 국회에서 위증을 한 혐의(국회증언감정법 위반)를 받고 있다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 해병 특검은 이날 송창진·김선규·박석일 등 전직 공수처 부장검사 3명을 압수 수색해 휴대전화 등을 확보했다. 송 전 부장검사는 피의자, 다른 2명은 참고인 신분이다. 특검은 경기도 정부과천청사에 있는 공수처 청사에도 검사와 수사관을 보내 압수 수색을 진행했다.&lt;br&gt;&lt;br&gt;송 전 부장검사는 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹에 연루된 이종호 전 대표에 대해 위증한 혐의로 고발됐다. 송 전 부장검사는 작년 7월 공수처 차장 직무대행을 맡으며 당시 수사 중이던 구명 로비 사건의 수사 보고를 받았는데, 공수처 임용 전인 2021년 이 전 대표 변호를 맡았던 사실이 뒤늦게 알려졌다. 그는 작년 7월 12일 직무 회피를 했고, 사흘 후인 15일 공수처의 수사 지휘·감독에서 배제됐다.&lt;br&gt;&lt;br&gt;‘늑장 회피’ 의혹이 불거지자 송 전 부장검사는 작년 7월 26일 국회에서 열린 ‘윤석열 대통령 탄핵소추 청원 2차 청문회’에 불려 나왔다. 송 전 부장검사는 “공수처 수사 과정에서 언제 이 전 대표가 구명 로비 사건에 연루됐는지 알았냐”는 장경태 민주당 의원의 질문에 “7월 10일 공익신고자가 와서 조사를 받기 전엔 이 전 대표가 연루된 사실을 알지 못했다”고 답했다.&lt;br&gt;&lt;br&gt;그러나 특검은 공수처 수사를 총괄한 송 전 부장검사가 이 전 대표 연루 사실을 몰랐을 리 없다고 의심하고 있다. 특검은 조만간 송 전 부장검사를 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 전역 호우주의보…하천29곳 통제, 1단계 비상근무</title>
       <link>https://www.chosun.com/national/national_general/2025/09/01/3C4MGXK6GJCWTA73UJN2EQRADU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/01/3C4MGXK6GJCWTA73UJN2EQRADU/</guid>
@@ -883,15 +895,6 @@
         <media:description type="plain">SM엔터테인먼트 시세조종 공모 의혹을 받는 김범수 카카오 창업자가 29일 오후 서울 양천구 남부지법에서 열린 결심공판에 출석하고 있다. 2025.8.29/뉴스1 ⓒ News1 장수영 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 장수영 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 8월 30일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/08/30/VUXKFYLRZRGBJHYKXPSB2XPYIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/08/30/VUXKFYLRZRGBJHYKXPSB2XPYIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 29 Aug 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TICGR55BTRGHRFUSHNJTHFXXAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이 사람들이 다 병력 자원?” 힙해서 입는 ‘대한 육군’ 티셔츠</title>
