@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부천서 50대 근로자 토사 매몰돼 숨져</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/02/5EIWVGVEGBDWFPKAB57KG2PUXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/02/5EIWVGVEGBDWFPKAB57KG2PUXE/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Sep 2025 09:53:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부천서 상수도 공사를 하던 50대 근로자가 토사에 매몰돼 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;2일 오후 3시 20분쯤 경기도 부천시 소사구 한 배수지 부근에서 일용직 노동자 50대 A씨가 토사에 매몰됐다는 신고가 접수됐다. A씨는 신고를 받고 출동한 소방당국에 구조돼 인근 병원으로 옮겨졌으나 숨졌다. 소방당국이 현장에 출동했을 땐 이미 그는 심정지 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 노후 상수도 밸브 교체 작업을 하던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지하 1ｍ 깊이의 흙막이를 설치하는 과정에서 토사가 흘러내려 사고가 난 것으로 보고 구체적인 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>단타 매매로 손실보던 이춘석, 李 정부 출범 이후 ‘정책 수혜주’로 이익 </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/02/QCZKE6L4NVGLVEBUQMUBNVPUCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/02/QCZKE6L4NVGLVEBUQMUBNVPUCQ/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Sep 2025 09:07:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLIWKNREQBCKTBT6JXH6ZHWUJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이춘석 무소속 의원이 지난달 4일 서울 여의도 국회에서 열린 본회의에서 차 보좌관 명의로 개설된 주식 계좌를 확인하고 있다. /더팩트 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주식 차명 거래 의혹을 받는 이춘석(4선·전북 익산갑) 무소속 의원이 이재명 정부 출범 이전에도 보좌관 명의로 차명 거래를 한 정황을 경찰이 포착한 것으로 2일 전해졌다. 경찰이 이 의원 차명 거래를 분석한 결과, 이재명 정부 출범 이전엔 주로 단타 매매를 하면서 손실을 봤지만 현 정부 출범 이후엔 ‘국가대표 AI’ 선정주 등으로 이득을 본 것으로 파악한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 국정기획위원회 경제2분과장으로 임명되기 전에도 이 의원은 보좌관 휴대폰 명의로 차명 거래를 해왔다고 한다. 이 의원은 주로 단타 매매를 했고, 전반적으로 손실을 본 것으로 전해졌다. &lt;br&gt;&lt;br&gt;그러나 이 의원이 경제2분과장으로 임명된 이후 보유한 주식들은 ‘국가대표 AI’ 선정주와 스테이블 코인 대장주 등 ‘정책 수혜주’로 주가가 급등한 종목들이다. 경찰은 과거엔 손실을 봤던 이 의원이 정부 내부 정보를 통해 주식 거래에서 이득을 봤다고 의심하고 있다.&lt;br&gt;&lt;br&gt;이 의원이 차 보좌관 명의로 보유했던 카카오페이, 네이버, LG CNS 주식은 이재명 정부 출범일인 6월 4일 이후 이 의원이 국회 본회의장에서 차명 거래한 지난달 4일까지 모두 두 자릿수 수익률을 보였다. 카카오페이 주가는 65.4%, LG CNS는 39.5%, 네이버는 24.9% 상승했다. 같은 기간 코스피 상승률(18.5%)의 최대 3.53배에 이르는 수익률이다.&lt;br&gt;&lt;br&gt;이 의원이 네이버 종목 주문을 내던 창에 떠있는 당시 시장가격은 23만3000원대에서 23만7000원대로, 전일 종가 대비로는 3.8~5.3% 오른 가격이다. 오후 2시 정부가 네이버를 ‘AI 국가대표’로 발표하며 네이버 주가는 23만9500원까지도 치솟았다. &lt;br&gt;&lt;br&gt;이 의원이 537주 보유했던 카카오페이는 이재명 정부 출범 후 한 달도 안 돼 주가가 2.4배 뛰었다. 정부가 미는 스테이블코인 대장주로 꼽힌 덕분이다. 4일 카카오페이는 직전 거래일 대비 1.64% 오른 6만1800원에 장을 마쳤고, 이후 나흘간 주가가 6.96% 올랐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내란 특별재판부 설치는 위헌” 헌법소원 제기</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/02/PKESBDRYWJHLFOADGPDNDLBQFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/02/PKESBDRYWJHLFOADGPDNDLBQFA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Sep 2025 09:10:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IASCYGHK2S3YMJEQR3CLI4DZZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 추진하는 ‘내란 특별법’의 위헌 여부를 가려달라는 헌법소원이 제기됐다. 2일 법조계에 따르면 헌법재판소는 이날 일반 국민이 제기한 내란 특별법 헌법소원 사건을 접수했다. 청구인은 법안 내용 중 특별재판부 설치 조항이 국민의 재판 청구권을 침해한다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;헌법재판소는 재판관 3인으로 구성된 지정재판부 사전 심사를 통해 전원재판부에 회부해서 사건을 정식 심리할지 결정할 예정이다. 다만 이 법안은 국회 본회의를 통과하기 전 법안 심사 단계에 있어 각하(却下·심리하지 않고 종결)될 가능성이 높다. 곧 시행될 예정인 법안에 대해 예외적으로 위헌 여부를 심리할 수 있지만 어떤 기본권이 침해됐는지 청구인이 구체적으로 밝혀야 한다.&lt;br&gt;&lt;br&gt;박찬대 민주당 의원 등 115명이 지난 7월 발의한 내란특별법은 서울중앙지법·서울고법에 12·3 비상계엄 관련 사건을 담당할 특별재판부와 특별영장전담판사를 두는 내용을 담고 있다. 국회(국민의힘 제외), 판사회의, 대한변협이 각 3명씩 추천해 구성한 위원회가 특별재판부와 영장 판사 후보를 추천하도록 했다. 민주당은 오는 4일 법안을 국회 법제사법위원회에 올려 소위에 부칠 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한덕수 국무총리에 대한 구속영장이 법원에서 기각된 이후 민주당이 이 법안을 본격 추진하면서 사법부 독립 침해 우려 등 논란이 커지고 있다. 변호사 단체 ‘착한 법 만드는 사람들’은 이날 성명을 내고 “법관 임명 절차에 외부 인사가 개입하도록 하는 내란 특별법은 헌법 질서를 정면으로 위반한다”며 “국민이 국회에 위임한 권한 밖의 행위”라고 했다. 한반도 인권과 통일을 위한 변호사모임(한변)도 3일 대법원 앞에서 내란특별법의 위헌성을 지적하는 기자회견을 열 예정이다.&lt;br&gt;&lt;br&gt;대법원 법원행정처는 지난달 29일 내란특별법에 대해 “위헌 소지가 있어 신중한 검토가 필요하다”는 의견을 국회에 제출했다. 사법권 독립 침해, 재판의 독립성·공정성에 대한 신뢰 저하, 사법의 정치화 등 우려를 들었다. 천대엽 법원행정처장이 지난 1일 국회 예산결산특별위원회 전체회의에 출석해 국회 등 외부 기관이 특별재판부 법관 임명에 관여할 경우 “사법의 독립성, 재판의 객관성·공정성에 시비를 불러일으킬 여지가 있다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“다 아는 분”…윤정수 12세 연하 아내, 정체 밝혀졌다 </title>
+      <link>https://www.chosun.com/national/people/2025/09/02/G3CCDDISFRCBFJ35DMFT5IRKYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/02/G3CCDDISFRCBFJ35DMFT5IRKYU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Sep 2025 08:35:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FN5IWRANPLDGCWMGRQUDAUGUPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 윤정수(53)의 아내가 방송인 원자현(41)으로 밝혀졌다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 윤정수(53)의 아내가 방송인 원자현(41)으로 밝혀졌다. &lt;br&gt;&lt;br&gt;2일 방송계에 따르면 윤정수와 지난달 혼인신고를 한 12세 연하의 필라테스 강사는 스포츠 전문 리포터로 활동했던 원자현이다. &lt;br&gt;&lt;br&gt;원자현은 KBS 리포터, 웨더뉴스 글로벌 웨더 자키, 교통 캐스터 등 다양한 방송 분야에서 활동했다. 2010년 광저우 아시안게임에서 MBC 스포츠 전문 리포터로 활약하며 ‘광저우의 여신’으로 불리며 주목받았다. &lt;br&gt;&lt;br&gt;MBC ‘스포츠 하이라이트’, XTM ‘남자공감 랭크쇼 M16’, 손바닥TV ‘원자현의 모닝쇼’, 더엠 ‘원자현의 분데스리가 쇼’ 등 여러 프로그램의 MC를 맡아 안정적인 진행 실력을 인정받았다. &lt;br&gt;&lt;br&gt;이후 피트니스 모델로 전향해 2015년 머슬마니아 피트니스 세계대회 선발전에서 모델 여자 숏 부문과 미즈비키니 종목에서 각각 2위를 차지했다. 2017년부터는 필라테스 강사로 활동하고 있다. &lt;br&gt;&lt;br&gt;윤정수는 지난 7월 방송에서 결혼을 전제로 교제 중인 연인이 있다고 밝혔다. 지난달 유튜브 채널을 통해서는 혼인신고를 마치고 법적 부부가 됐다고 알렸다. 당시 영상에서 윤정수는 혼인신고서를 들고 아내를 찾아가 포옹했는데, 아내의 모습은 공개되지 않았다. &lt;br&gt;&lt;br&gt;윤정수와 원자현은 오는 8일 TV조선 ‘조선의 사랑꾼’ 출연을 확정했다. 예고편에서 윤정수와 절친한 배기성, 임형준은 아내에 관한 이야기를 듣고 “다 아시는 분이잖아”라며 놀랐다. ‘조선의 사랑꾼’ 관계자는 “윤정수의 아내가 다음 주 방송에서 처음 공개될 예정이니 방송으로 확인 부탁드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 초교에 오성홍기만?… “여기가 중국이냐” 민원 쏟아져</title>
       <link>https://www.chosun.com/national/national_general/2025/09/02/W5UM5J6GHRDXTIPTGMHYQHSGRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/02/W5UM5J6GHRDXTIPTGMHYQHSGRY/</guid>
@@ -863,16 +899,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시는 오봉저수지 저수율이 10% 아래로 떨어지면 시간제·격일제 급수를 시행하고, 전 시민에게 1인당 하루 2ℓ씩 6일 치 분량인 12ℓ의 생수를 배부한다. 시내권은 아이스아레나 등 4곳, 면 지역은 초등학교 등을 배부 장소로 지정한다. 다만, 의료·교정·사회복지시설엔 하루 20대의 살수차가 생활용수를 공급한다.&lt;br&gt;&lt;br&gt;최악의 경우 저수율이 0%까지 떨어질 경우 차량 운반 급수에 돌입한다는 방침이다.&lt;br&gt;&lt;br&gt;시는 이미 2ℓ 생수 135만병을 비축했으며, 저수율이 15% 이하로 떨어진 지난달 28일과 29일 사회복지시설과 학교 등에 우선 배부를 마쳤다.&lt;br&gt;&lt;br&gt;강릉관광개발공사에서 운영하는 숙박 시설은 저수율 10% 미만이 되면 운영을 전면 중단키로 했다.&lt;br&gt;&lt;br&gt;김홍규 강릉시장은 “역대 최악의 가뭄으로 시민 여러분께서 겪고 있는 불편과 걱정을 더 덜어내지 못해서 다시 한번 깊이 송구스럽게 생각한다”면서 “시민 여러분의 소중한 일상을 지켜낼 수 있도록 가뭄 극복에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>변호사 대 변호사... 결말은 [이별전쟁]</title>
-      <link>https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/08/31/W2PEYGQXN5C6TJMINA6REI23SA/</guid>
-      <dc:creator>법무법인 시작</dc:creator>
-      <description/>
-      <pubDate>Sat, 30 Aug 2025 20:30:00 +0000</pubDate>
-      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;격주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FRJP3DX6FFHVA6S44N52T5KVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSKRHGU5JVA75EIM3WBAT2IF2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 소송을 걸어주세요 끝&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;오큰네무역①&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1NjBq" rel=""&gt;&lt;u&gt;https://m.site.naver.com/1NjBq&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;오큰네무역②&lt;br&gt;&lt;br&gt;&lt;a href="https://m.site.naver.com/1NjBE" rel=""&gt;&lt;u&gt;https://m.site.naver.com/1NjBE&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AAGZZCO3FJHZROIAC5P74XPISE.png?auth=0311a5dfb413a0cc869caf19370e546bc9118970995c7b7f2978e151a0c274f2&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800"/>
-    </item>
-    <item>
       <title>서울구치소 CCTV 열람에...尹 전 대통령 측 “전직 대통령 망신주기”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/01/PET2FJDEZNF5VDM7YICLSIEEV4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/PET2FJDEZNF5VDM7YICLSIEEV4/</guid>
@@ -880,15 +906,6 @@
       <description/>
       <pubDate>Mon, 01 Sep 2025 10:44:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4AOUW5ZGNITBA4T7AJ5TFJRCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 더불어민주당 간사가 1일 경기도 의왕시 서울구치소에서 열린 현장검증을 마치고 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원회 소속 의원들이 1일 서울구치소 내 폐쇄회로(CC)TV를 열람하자, 윤석열 전 대통령 측은 “전직 대통령 망신주기”라며 반발했다.&lt;br&gt;&lt;br&gt;이날 오전 추미애 법사위원장을 비롯해 더불어민주당·조국혁신당 소속 법사위 의원들은 경기 의왕시 서울구치소를 찾아 현장 검증을 벌였다. 앞서 지난달 1일과 7일 특검팀이 체포 영장 집행을 시도할 때 윤 전 대통령이 거부하는 모습을 확인하기 위해서다.&lt;br&gt;&lt;br&gt;1차 집행 당시 특검은 윤 전 대통령이 속옷 차림으로 저항했다고 밝혔다. 2차 집행 때는 교도관 등이 윤 전 대통령에게 물리력을 행사하는 과정에서 윤 전 대통령이 의자에서 떨어져 다쳤다는 사실이 알려졌다. 집행 시도가 거듭 실패하는 상황에서 윤 전 대통령이 일반 수용자들이 사용하는 접견실과 별도 공간에서 변호인을 접견한다는 사실까지 알려지자 ‘서울구치소에서 윤 전 대통령에게 특혜를 제공한다’는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;이날 CCTV 영상을 열람한 김용민 의원은 “1차 집행 때는 윤석열이 속옷 차림으로 누워서 집행을 거부하면서 ‘나에게 강제력을 행사할 수 없다’라고 강력하게 반발했고, 2차 집행 역시 속옷 차림으로 자리에 앉아서 성경책으로 보이는 책을 읽으며 집행을 거부했다”고 했다. &lt;br&gt;&lt;br&gt;2차 집행 과정에서 윤 전 대통령이 의자에서 떨어졌다는 의혹에 대해 김 의원은 “의자를 밖으로 끌어당기는 정도 수준의 물리력 행사만 있었을 뿐, 강제로 들어내거나 끌어내거나 하지 않았다”고 했다. 의자에서 떨어져서 다쳤다는 윤 전 대통령 측 주장이 사실이 아니라고 반박한 것이다.&lt;br&gt;&lt;br&gt;이에 대해 윤 전 대통령의 법률대리인단은 즉각 비판 목소리를 냈다. 대리인단은 “형의 집행 및 수용자의 처우에 관한 법률 제94조는 자살·자해·도주 등 행위를 방지하기 위해 필요한 범위에서 CCTV를 이용하여 계호를 할 수 있도록 하고 있다”며 “CCTV는 수용자 또는 시설을 계호하기 위한 최소한의 범위에서 사용할 수 있는 것이며, 국회가 의결한 것과 같이 특혜 제공이나 수사 방해 목적을 확인하기 위해서 사용하거나 열람할 수 있는 것이 아니다”라고 했다. &lt;br&gt;&lt;br&gt;이어 “교정시설 내부 CCTV는 보안시설 영상물로 비공개 원칙이 적용되고 있다”며 “수용자의 인권을 보호하기 위한 것뿐 아니라 교정시설 내부 구조나 경비체계가 노출될 경우 보안에 큰 위험을 초래할 수 있기 때문“이라고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “결국 수용자의 안전과 시설의 질서 유지를 유해 설치된 CCTV의 영상을 특혜 제공 및 수사방해 혐의를 확인하기 위해 열람하고 공개한다는 것은 관련 법률의 취지를 명백히 위반하는 것”이라며 “당사자가 불법성의 증거를 확보하기 위해 신청한 정보공개 조차 거부했으면서 수사기관이나 법원도 아닌 국회가 이를 확인하겠다는 것은 정치적 목적으로 법률을 위반할 수 있다는 것과 다르지 않다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>천안 탑원교차로 인근 가스 유출…“차량 우회하고 주민 주의를”</title>
-      <link>https://www.chosun.com/national/regional/2025/09/01/MDG72RP7EFEXNI63USUHDFJ7B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/01/MDG72RP7EFEXNI63USUHDFJ7B4/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Sep 2025 09:58:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJLDMQKTNJTLAYDUVXB3YUIIVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 주택가의 가스계량기. 위 사진은 기사와 직접적인 관련은 없다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 5시23분쯤 충남 천안시 동남구 병천면 탑원교차로 인근에서 “가스 냄새가 심하게 난다”는 주민 신고가 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;천안시는 이런 상황을 알리며 “차량은 주변 도로를 우회하고, 인근 주민은 유의해 달라”는 안전 문자를 보냈다.&lt;br&gt;&lt;br&gt;시와 경찰 등 관계당국은 도시가스가 새어 나왔을 가능성에 무게를 두고 정확한 상황을 파악 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최교진 후보자 “성적표 받고 우는 여학생, 뺨 때린 적 있어” 발언 논란</title>
@@ -931,24 +948,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/GOKP7PCPS5DBPK5MOOENU4WA24.png?auth=1a7da0910aa5b6ee371fbc0283e23b55715b794520f5e584d847049810c6729a&amp;smart=true&amp;width=1221&amp;height=880" type="image/png" height="880" width="1221">
         <media:description type="plain">가창 폐채석장 웅덩이 모습. 짙은 물 색 등으로 이국적인 풍광을 자아낸다. /페이스북</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“병간호 힘들다” 토로한 아내 살해…前 서울대 교수 징역 25년</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/01/VIZU2WFBFFD2LDQWMRK6JBIGLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/VIZU2WFBFFD2LDQWMRK6JBIGLU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Sep 2025 09:05:50 +0000</pubDate>
-      <content:encoded>전직 서울대 교수가 자신을 간호하던 아내를 살해한 혐의로 1심에서 중형을 선고받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FTGPTVCXJGOPCYLMP3UYTQ3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지법./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사36부(재판장 이정엽)는 1일 살인 등 혐의로 구속기소된 A씨에게 징역 25년을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 지난 1월 자신을 간호하던 아내가 자택에서 “밖에 나가지도 못하고 힘들다. 이렇게 사느니 죽는 게 낫겠다. 죽든지 내가 집을 나가 양로원으로 가겠다. 앞으로 혼자 살아라”고 말하자 흉기로 여러 차례 찔러 살해한 혐의를 받는다. A씨는 서울대 교수로 재직하다 퇴직했고, 작년쯤부터 불면증으로 건강이 악화해 아내의 간호를 받아온 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인의 극심한 육체적, 정신적 고통 속에서 사망에 이르렀을 것으로 보이는 등 범행 수법이 매우 잔혹하다”며 “피해자가 피고인에게 ‘혼자 살라’는 등의 말을 했다고 하더라도 살인에 있어서 참작할 만한 동기라고 볼 수는 없다”고 지적했다.&lt;br&gt;&lt;br&gt;법원은 심신 미약 상태에서 범행을 저질렀다는 A씨의 주장에 대해 “판단력이나 현실 검증력이 건재했다는 정신 감정 결과를 종합하면 심신미약 상태에 있었다고 보기 어렵다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;아울러 “자녀들이 이 사건으로 인한 상처를 치유하고 평온한 이상으로 복귀하는 것은 매우 어려울 것으로 보인다”면서도 “A씨가 초범이고 고령에 건강 상태가 좋지 않은 점을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 검찰이 청구한 전자장치 부착 명령과 보호관찰 명령은 기각했다. 재판부는 “범죄 전력이 없는 점, 사이코패스 진단 기준점에 해당하지 않는 점, 배우자를 상대로 저지른 특수 관계에서 발생한 사건인 점 등을 고려하면 재범 위험성이 있다고 보기 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해외여행 가서 구직 노력?...실업급여 부정 수급자 111명 적발</title>
-      <link>https://www.chosun.com/national/regional/2025/09/01/VVUZP55AUVGF7ONKSM64YTN6A4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/01/VVUZP55AUVGF7ONKSM64YTN6A4/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Sep 2025 08:47:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2I25U7GE6S6PJLQQZZQSMM4AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전고용노동청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전고용노동청은 올 상반기 해외에 체류하면서 실업급여를 받은 부정 수급자 111명을 적발, 이들이 부정 수급한 1억 8200만원을 반환하도록 조치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;이는 지난해 같은 기간에 적발된 인원 40명, 부정 수급액 7300만원과 비교하면 크게 늘어난 수치다. 노동 당국이 출입국 정보를 활용해 해외 체류 중 실업급여를 받은 충청지역 실업자 데이터를 분석해 부정 수급 의심자 183명을 선별해 추적 조사한 결과다.&lt;br&gt;&lt;br&gt;조사 결과 이들은 실업급여를 받는 도중 해외여행, 가족 방문 등 목적으로 출국한 뒤 국내에 있는 가족이나 지인이 대리로 온라인 실업인정을 하게 해 수백만원에서 수천만원의 실업급여를 부정 수급한 것으로 드러났다. &lt;br&gt;&lt;br&gt;실업자가 매달 실업급여를 받으려면 구직활동 중임을 증명하기 위한 실업인정 신청을 국내에서 정해진 날짜에 해야한다. 실업급여를 받는 도중 해외 체류는 해외에서 재취업 활동을 하는 경우가 아니라면 어려운데, 특히 어학연수, 해외봉사, 여행 등 목적으로는 엄격히 제한된다. 이 때문에 국내에서 실업인정 신청을 못 할 경우 반드시 사전에 노동 당국 담당자와 상담하고 실업 인정일 변경 등 조치를 해야 한다.&lt;br&gt;&lt;br&gt;실업급여를 부정 수급할 경우 고용보험법상 수급액의 최대 5배 추가 징수되고, 3년 이하 징역 또는 3000만원 이하의 벌금형에 처할 수 있다.&lt;br&gt;&lt;br&gt;김도형 대전고용노동청장은 “고용보험의 재정 건전성을 악화하는 부정 수급을 근절시키기 위해 강력히 대응하고 부정 수급 예방 활동도 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대법원 “사법개혁에 사법부 참여 못하는 비상 상황...법원장들이 의견 수렴해달라”</title>
