@@ -13,6 +13,35 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전국 최초 ‘1000원 매점’, 가천대·평택대서 문 열어...수백명 장사진</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/03/S2GPTLHP5ZBDDAPTT6F5SV7BNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/03/S2GPTLHP5ZBDDAPTT6F5SV7BNU/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Sep 2025 13:19:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQT5WCSSLVNYNPPBJ7I62EB6NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 경기 성남시 수정구 가천대학교 글로벌캠퍼스에 개소한 '대학생 천원매점'에서 학생들이 생필품을 구매하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“(이렇게 사면)두 끼 쯤은 되겠네요. 1000원만 주시면 됩니다. 제일 싸죠?”&lt;br&gt;&lt;br&gt;3일 오전 10시 경기 성남 가천대 글로벌캠퍼스 건물 1층에 400여명이 줄을 섰다. 이날 처음으로 문을 연 ‘경기도 대학생 1000원 매점’을 이용하기 위한 학생들이 장사진을 이룬 것이다. 매점은 2층인데, 꼬리를 무는 줄이 1층까지 이어졌다.&lt;br&gt;&lt;br&gt;이날 가천대를 찾은 김동연 경기도지사가 ‘1일 점원’이 됐다. 김 지사는 매대에서 스캐너를 들었다. 그는 손님이 골라온 레토르트(특수 포장된 완성 식품) 갈비탕, 볶음밥, 컵라면 등 상품 바코드를 스캐너로 일일이 찍은 후, 단돈 1000원을 건네받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4OTBW3QQ5MCXBSVHNAR5EAAFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 경기도 성남시 가천대학교에서 열린 '천원 매점' 개소식에서 김동연 경기도지사가 학생들이 구입한 물건을 계산하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 가천대·평택대에서 ‘1000원 매점’을 시범 운영한다고 밝혔다. 생필품과 먹거리 등으로 구성된 물품 꾸러미를 1000원에 이용할 수 있는 매점이다. 고물가로 어려움을 겪는 대학생들의 생활비 부담을 덜어주기 위해 경기도가 고안한 정책이다. ’1000원의 아침밥’은 이미 전국 곳곳서 유행이지만, 1000원 매점은 전국 최초다.&lt;br&gt;&lt;br&gt;학생들은 매점에 구비된 약 30여가지의 상품 중 자신이 필요한 물건 4가지를 골라 담고 1000원만 내면 된다. 경기도 관계자는 “사전 선호도 조사를 거쳐 즉석밥, 참치캔, 컵라면 등 먹거리와 샴푸, 클렌징폼, 치약, 칫솔 등 생필품 등을 준비했다”며 “시중가 대비 90% 저렴하게 구매할 수 있다”고 했다. 재학생 인증 후 매점에 입장할 수 있다. 각 학교는 창고를 포함한 약 20평 정도의 공간을 교내에 마련해 매점으로 만들었다.&lt;br&gt;&lt;br&gt;김민성(23) 가천대 학생 대표는 “학생 입장에선 1000원으로 두 끼를 해결할 수 있어서 큰 도움이 된다”며 “팍팍한 대학생의 주머니 사정 속 하나의 숨구멍이 될 수 있는 정책”이라고 했다. 이날 약 500명이 몰리면서 일부 물건은 동이 나기도 했다.&lt;br&gt;&lt;br&gt;정책 아이디어는 대학생들의 식비 부담 문제 해결 방안을 논의하는 과정에서 나왔다. “1000원 밥상에 이어 1000원 매점을 운영하자”는 도민 의견에 대해, 2015~2017년 아주대 총장을 지낸 김 지사도 크게 공감했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOJNH73F3RMP5CXSANPJWBD3LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 3일 경기도 성남시 가천대학교에 개점한 '천원 매점'에서 학생들이 입장을 위해 줄을 서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사업 예산은 NH농협은행 경기본부가 낸 기부금 3억원으로 마련했다. 각 학교 학생 자치기구가 직접 매점을 운영하는 방식이다. 경기도는 두 기관을 연결하고 기부금을 매칭하는 등의 행정 지원을 맡았다. 이들은 지난 6월 9일 협약도 맺었다. 경기도는 이번 시범 운영 후 1000원 매점을 확대하겠다는 계획이다. 김 지사는 “1000원 매점으로 입학률도 올라가고, 학교 이미지도 좋아질 것”이라고 했다.&lt;br&gt;&lt;br&gt;경기도는 2023년부터 도내 33개 대학을 대상으로 ’1000원의 아침밥' 사업도 하고 있다. 대학생들이 1000원만 내면 아침을 먹을 수 있도록 대학에 지원금을 지급하는 것이다. 학생 1인당 농림축산식품부가 2000원, 경기도가 1000원을 지원하며, 나머지는 대학이 부담한다. 경기도는 올해 약 5억원을 지원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OOJNH73F3RMP5CXSANPJWBD3LA.jpg?auth=df74cc86e0e0114c5301d950b4ca5afb23e0c5632fa0d48fc840860a4090f70b&amp;smart=true&amp;width=4578&amp;height=3108" type="image/jpeg" height="3108" width="4578">
+        <media:description type="plain">&lt;YONHAP PHOTO-3397&gt; 고물가 시대, 대학생들을 위한 '천원 매점'
+    (성남=연합뉴스) 홍기원 기자 = 3일 경기도 성남시 가천대학교에 개점한 '천원 매점'에서 학생들이 입장을 위해 줄을 서 있다.
+    경기도가 도입한 '천원 매점'은 고물가 시대 생활비 부담으로 어려움을 겪는 대학생들을 위해 생필품과 먹거리 등을 시중 가격보다 90% 이상 할인해 3~5개씩 묶음으로 1천원에 판매하는 매점이다. 2025.9.3
+    xanadu@yna.co.kr/2025-09-03 13:58:55/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">홍기원</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>쥬얼리 이지현, 헤어디자이너로 새출발…“9월 예약 마감”</title>
+      <link>https://www.chosun.com/national/people/2025/09/03/QPTVJTYXOBB3RJTJA5PNQXVRDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/03/QPTVJTYXOBB3RJTJA5PNQXVRDM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Sep 2025 13:07:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3XW7OXB3VGIVA3WG7SW7T5DZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 쥬얼리 출신 이지현. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 쥬얼리 출신 이지현(42)이 헤어디자이너로 전직 후 본격적인 활동을 예고했다. &lt;br&gt;&lt;br&gt;2일 이지현은 자신의 인스타그램을 통해 “너무 감사합니다”라며 “많은 분들의 관심 덕분에 9월 예약이 마감되었다. 10월 예약 게시물을 곧 올리겠다”고 했다. &lt;br&gt;&lt;br&gt;이지현은 이어 “예약하신 분들 노쇼는 절대 안 된다”며 “오시는 분들 관대하고 너그러운 마음으로 와달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이지현은 지난 3월 국가 공인 미용사 자격증 시험에 합격했다는 소식을 알린 바 있다. 이지현은 이후 실무 교육을 받아왔다.&lt;br&gt;&lt;br&gt;이지현은 지난 7월 방송인 장영란이 운영하는 유튜브 채널에 출연해 “(자격증 시험을) 1년 3개월 준비했다”며 “어린 친구들 18시간 잠도 안 자고 연습해서 시험 보러 오는데 나는 그들보다는 살림하고 밥하고 빨래하느라 시간이 없다. (시험 준비하느라) 눈물 콧물 다 뺐다”고 했다. &lt;br&gt;&lt;br&gt;1998년 다국적 걸그룹 써클로 데뷔한 이지현은 2001년부터 쥬얼리 멤버로 활동했다. 2006년 쥬얼리를 탈퇴한 후에는 배우로 활동했다. &lt;br&gt;&lt;br&gt;이지현은 2013년 연상의 회사원과 결혼한 뒤 두 자녀를 낳았지만 3년 만에 이혼했다. 2017년엔 안과 의사와 재혼했으나 2020년 이혼했다. 현재는 두 자녀를 홀로 키우고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LOKCKGOPQ5SMHW3QEVJWDDU4XQ.jpg?auth=162b000d3a00099dad1e5359d551def9d211cabba255f87eb155768aa7886369&amp;smart=true&amp;width=922&amp;height=706" type="image/jpeg" height="706" width="922">
+        <media:description type="plain">이지현 SNS</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>배우 박탐희, 암투병 고백 “남겨질 아이들 생각에 고통스러웠다”</title>
       <link>https://www.chosun.com/national/people/2025/09/03/CHYJOEHOTNCCDNXV3LQQIZKSFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/03/CHYJOEHOTNCCDNXV3LQQIZKSFQ/</guid>
@@ -876,15 +905,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 여수의 한 레미콘 공장서 20대 근로자가 숨져 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;경찰에 따르면 17일 오후 5시쯤 전남 여수 율촌면 한 레미콘 공장에서 20대 작업자 A씨가 심정지 상태로 쓰러졌다. A씨는 곧바로 병원으로 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 콘크리트 배합 탱크에서 청소 작업을 하던 중 의식을 잃었고, 이를 동료가 목격해 119에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 감전 사고를 당한 것으로 보고 정확한 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부천서 50대 근로자 토사 매몰돼 숨져</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/02/5EIWVGVEGBDWFPKAB57KG2PUXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/02/5EIWVGVEGBDWFPKAB57KG2PUXE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Sep 2025 09:53:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차(기사와 관련 없음)/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부천서 상수도 공사를 하던 50대 근로자가 토사에 매몰돼 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;2일 오후 3시 20분쯤 경기도 부천시 소사구 한 배수지 부근에서 일용직 노동자 50대 A씨가 토사에 매몰됐다는 신고가 접수됐다. A씨는 신고를 받고 출동한 소방당국에 구조돼 인근 병원으로 옮겨졌으나 숨졌다. 소방당국이 현장에 출동했을 땐 이미 그는 심정지 상태였던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 노후 상수도 밸브 교체 작업을 하던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지하 1ｍ 깊이의 흙막이를 설치하는 과정에서 토사가 흘러내려 사고가 난 것으로 보고 구체적인 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>단타 매매로 손실보던 이춘석, 李 정부 출범 이후 ‘정책 수혜주’로 이익 </title>
       <link>https://www.chosun.com/national/national_general/2025/09/02/QCZKE6L4NVGLVEBUQMUBNVPUCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/02/QCZKE6L4NVGLVEBUQMUBNVPUCQ/</guid>
@@ -919,18 +939,6 @@
       <description/>
       <pubDate>Tue, 02 Sep 2025 07:56:50 +0000</pubDate>
       <content:encoded>정유미 법무연수원 연구위원(검사장)이 지난 1일 검찰 내부망에서 강도 높은 검찰 개혁을 주장하는 임은정 서울동부지검장을 비판한 뒤, 2일 하루에만 중간 간부(차장·부장검사) 3명이 수사·기소 분리와 검찰청 폐지 등을 골자로 하는 검찰 개혁에 반발하는 입장을 낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“수사-기소 분리가 선진적 제도? 실체 없다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 김성훈 청주지검 중요경제범죄조사단(중경단) 부장은 이날 검찰 내부망 이프로스에 &amp;lt;중수청이라 쓰고 무법자 재판소라 읽는다&amp;gt;는 게시글을 올리면서, “지금 한국에는 ‘수사-기소 분리론’이라는 유령이 떠돌고 있다”며 “수사-기소 분리가 영미법계의 선진적 제도라는 주된 논거는 자세히 살펴보면 실체가 없다”고 했다. 영미법계에선 한국식 수사-기소 분리를 가리켜 ‘괴물 같은(monstrous) 제도’ ‘무법자 재판소’라고 부른다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33WUBGH4VRP6RPHNN7R5GVCUFY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;대검찰청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구체적으로 김 부장검사는 우선 영미법엔 판사는 물론 수사기관이 피고인이나 피의자를 신문하는 절차가 없다는 점을 언급하면서, 20세기 초반 미국에서는 경찰이 피의자의 자백을 받기 위해 밀실에서 피의자를 폭행하고 굶기는 등의 고문 수사가 횡행했다는 점을 짚었다. 당시 미국에서 이러한 고문 수사가 사회적 문제가 되자, 예심(豫審) 제도를 도입해 경찰이 아닌 판사가 피의자를 신문하게 해야 한다는 대안까지 제시됐다는 것이다.&lt;br&gt;&lt;br&gt;우리나라는 1954년 형사소송법을 제정할 당시 예심제도를 폐지하고, 그 기능을 준사법기관인 검사에 부여했다는 게 김 부장검사 설명이다. 예심제도의 경우 판사가 피고인을 신문한다는 점에서 우리나라가 채택한 대륙법과도 일맥상통하는 부분이 있으나, 형이 확정되지 않은 채 장기간 구금될 수 있다는 우려 등 부작용도 크다는 것이다. 김 부장검사는 “우리나라 외에도 독일, 이탈리아, 오스트리아, 스위스 등 대륙법 국가들에서 우리나라와 같이 검사에게 피의자 신문권이 부여된 시스템이 채택됐고, 대륙법 수사 시스템의 한 방식으로 인정받고 있다”고 했다. 준사법기관인 ‘검사’의 수사 통제는 정당한 사법적 안전장치라는 얘기다.&lt;br&gt;&lt;br&gt;이런 가운데 검찰청을 폐지한 뒤 중수청을 설치하는 것은 “인권보장 장치를 제거하는 입법”이라는 게 김 부장검사의 지적이다. 첫 수사를 맡는 경찰 단계에서의 인권 침해 등 부작용을 견제할 수 있는 안전장치를 없애는 것이나 마찬가지라는 것이다. &lt;br&gt;&lt;br&gt;김 부장검사는 “이미 우리나라는 2020년 형사소송법을 개정해 경찰이 독자적으로 피의자를 신문할 수 있는 시스템을 만들었다. 20세기 초반 미국에서 있었던 ‘무법자 재판소’가 이미 열리고 있는 것”이라며 “일반 행정기관인 경찰과 중수청에서 열리는 무법자 법정이 형사 사건을 지배하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“檢 적개심만 가득한 사람이 마이크 잡아"&lt;/b&gt; &lt;br&gt;&lt;br&gt;한편, 강수산나 서울서부지검 중경단 부장도 이날 오전 내부망에 &amp;lt;언어가 다를 때 생기는 에피소드&amp;gt;라는 제목의 글을 올렸다. 강 부장검사는 프로이센 왕국의 프리드리히 대왕이 야간 불침번을 서는 병사들에게 ‘나이는 몇 살인지’ ‘근무한 지는 얼마나 되는지’ 물었던 일화를 소개했다. &lt;br&gt;&lt;br&gt;어느 날 궁 주변을 둘러보던 왕이 매우 어려 보이는 병사를 보고, ‘여기 근무한 지 얼마나 되나’라고 물었더니 독일어를 모르는 병사는 평소 암기한 대로 “Twenty years”라고 대답했다. 깜짝 놀란 왕은 ‘그럼 도대체 자네는 몇 살인가?’라고 묻자 병사는 “Two years”라고 씩씩하게 대답했다는 것이다. 어이가 없는 답에 왕은 마지막으로 병사에게 ‘자네가 바보인가, 내가 바보인가’라고 묻자 병사는 “Both, Sir”라고 힘주어 답했다.&lt;br&gt;&lt;br&gt;강 부장검사는 이어 “사법연수원 30기는 졸업 여행을 금강산으로 갔었다. 유람선에서 아침 식사를 마치고 커피를 마시기 위해 커피 코너로 갔더니, 외국인이 커피를 따라주더라”고 했다. 이어 “옆 투명한 상자에 1000원짜리 지폐와 1달러 지폐가 넣어져 있는 것이 보여 ‘커피를 마시려면 돈을 따로 내야 하냐’라고 물었더니, 여직원이 ‘커피몰입니다’라는 말만 반복했다”는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HLI4R6XXPVFTZOKBFTCFDGZ2II.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./이덕훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강 부장검사가 두 일화를 소개한 것은, 이재명 대통령이 강조한 검찰 개혁의 토론장에 검찰 입장이 반영될 여지가 없다는 점을 에둘러 비판한 것으로 보인다. 그는 “검찰 개혁 공청회에는 마땅히 검찰의 입장에서 개혁안이 가져올 파장과 부작용에 대해 가장 잘 아는 사람이 참석해야 마땅할 것”이라며, “검찰에 적개심만 가득한 사람이 마치 검찰을 대표하는 전권이라도 부여잡은 듯 마이크를 잡고 있다. 같은 시대에 살고 같은 언어를 말하면서도 상대방의 말을 전혀 이해하지 못하는 사람이 많은 것 같다”고 했다. 근무 기간 중 수사 경험이 부족하다는 지적이 꾸준히 제기됐던 임은정 지검장을 가리켜 비판한 것으로 풀이된다. &lt;br&gt;&lt;br&gt;이어 그는 “‘왜’를 설명하지 못한 채 ‘검찰 수사권 폐지’가 독립운동만큼이나 중요한 과제인 양 목청을 높이는 사람들을 보면, 질문 순서가 바뀐 것을 모르고 프리드리히 대왕의 질문에 기계적으로 답변한 어린 병사와 ”커피몰입니다”만 앵무새처럼 반복했던 유람선의 외국인 여직원같이 느껴진다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“정확한 비판과 어리석은 비판은 구분해야”&lt;/b&gt;&lt;br&gt;&lt;br&gt;강백신 대구고검 검사(차장)도 같은 날 내부망에 게시글을 올리면서, 미국 뉴욕남부지검의 연방 검사장을 지낸 프릿 바라라 전 검사장의 저서 ‘Doing Justice’를 소개했다. 형사 사법 시스템이 정상적으로 작동하지 않는 상황에서 국민을 위해 일하는 국가의 법률가로서 기본을 돌아보자는 취지다. &lt;br&gt;&lt;br&gt;강 차장검사는 특히 바바라 전 검사장의 “정확한 비판과 어리석은 비판을 구분해야 한다”는 책 속 구절을 인용했다. 검찰 개혁의 필요성을 인정하면서도, 더불어민주당이 밀어붙이는 개혁안에 대해선 받아들일 수 없다는 뜻을 에둘러 표현한 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘지게차 가혹행위 피해’ 스리랑카 이주 노동자, 새 직장 찾았다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/02/PANB37ZPKZA6TBHMWG7UMVKEGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/02/PANB37ZPKZA6TBHMWG7UMVKEGE/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Sep 2025 07:52:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKQTNYTDZVCIPB6Z3E4G2CZVWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 전남 나주의 한 벽돌 제조 공장에서 한국인 노동자들이 스리랑카 국적 외국인 노동자를 지게차로 들어 올리며 괴롭히는 모습. /광주전남이주노동자네트워크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 나주의 한 벽돌 공장에서 집단 괴롭힘을 당했던 스리랑카 국적 외국인 노동자 A(31)씨가 새 직장을 구했다.&lt;br&gt;&lt;br&gt;2일 전남노동권익센터에 따르면 스리랑카 국적 노동자 A씨가 전날 전남의 한 공장에 취업했다. 앞서 A씨가 전 직장에서 지게차에 묶여 한국인 노동자들에게 집단 괴롭힘을 당하는 영상이 공개되면서 사회적 공분이 일었다. &lt;br&gt;&lt;br&gt;이 영상을 본 이재명 대통령까지 나서 “소수자, 약자에 대한 용납할 수 없는 폭력이자 명백한 인권 유린”이라고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 광주지방고용노동청에 ‘사업장 변경 신청서’를 내고 전 직장을 떠났다. A씨는 고용허가제(E-9 비자)를 통해 들어온 외국인 노동자로 퇴사한 뒤 3개월 이내 새 직장을 구하지 못하면 국내 체류 자격을 잃는다.&lt;br&gt;&lt;br&gt;문길주 전남노동권익센터장은 “다행히 A씨와 함께 일해보자는 사업장이 나서서 취업이 성사될 수 있었다”고 전했다. A씨는 전 직장을 떠난 뒤에도 트라우마를 호소해 심리 상담 치료를 받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 전남경찰청은 A씨를 지게차에 결박하고 들어 올린 혐의(특수폭행 등)로 지게차 기사 B씨 등 3명을 불구속 송치했다. B씨는 지난 2월 26일 나주의 한 벽돌 공장에서 스리랑카 국적 동료 A씨를 지게차에 벽돌 더미와 함께 묶어 들어 올리는 등 가혹 행위를 한 혐의를 받고 있다. 또 이를 방조한 혐의로 외국인 노동자 2명도 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OKQTNYTDZVCIPB6Z3E4G2CZVWI.jpg?auth=2c06ad6dce4bde21f88aae6feffbde4347af7527ce0a148c28b714301b816530&amp;smart=true&amp;width=1280&amp;height=753" type="image/jpeg" height="753" width="1280">
-        <media:description type="plain">지난 2월 전남 나주의 한 벽돌 제조 공장에서 한국인 노동자들이 스리랑카 국적 외국인 노동자를 지게차로 들어 올리며 괴롭히는 모습. /광주전남이주노동자네트워크</media:description>
-      </media:content>
     </item>
     <item>
       <title>은마아파트 재건축, 49층 5893가구 단지로 재탄생</title>
