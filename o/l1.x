@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 검찰, 사법농단 1심 무죄 양승태 항소심서 징역 7년 구형</title>
+			<description>&lt;p&gt;   &lt;br style="text-align: center;" /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211094.jpg" alt="lawtimes.jpg" /&gt;&lt;br style="text-align: center;" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 03 Sep 2025 02:47:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211094</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211094</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211094.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>김병기 "사법부, '내란특별재판부' 반대만 말고 대안 내놔야"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211092.jpg" alt="4567489.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size: 14px; line-height: 1.6em;"&gt;3일 서울 여의도 국회에서 열린 최고위원회의에서 김병기 민주당 원내대표 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;김병기 더불어민주당 원내대표는 9월 3일 ‘내란특별재판부’ 설치 요구와 관련 “사법부는 내란특별재판부가 아니라면 어떤 대안을 갖고 있냐”며 “무조건 ‘못 고친다’고 하지 말고 국회와 소통하라”고 촉구했다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;김 원내대표는 이날 서울 여의도 국회에서 열린 민주당 최고위원회의에서 “무조건 반대하지 말고 사법부는 내란특별재판부 없이도 내란 종식과 정의 심판이 내려지도록 최선을 다해 달라”며 이같이 말했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;내란특별재판부 설치에 ‘위헌’ 소지가 있다는 주장과 관련해서도 “2018년 사법농단 특별재판부 논의 때도 위헌 주장이 있었지만 결론이 나지 않았다”며 “2014년 세월호 (사고) 당시에는 사법부 스스로 특별재판부 설치를 검토한 사실도 있다”고 말했다. 그러면서 “만약 위헌이라면 사법부가 애초에 검토하지 않았을 것”이라고 했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;김 원내대표는 또 “위헌 여부만큼 중요한 것은 국민이 내란특별재판부 설치를 왜 그토록 주장하느냐는 것”이라며 “불안과 불신이 그 이유라 생각하지 않나”고 했다. 이어 “사법부가 내란을 제대로 종식시킬지 우려를 키워 왔고, 이는 사법부가 자초한 일”이라고 말했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;김 원내대표는 “서로 숙고한다면 좋은 대안이 나올 수 있을 것”이라고 했다.&lt;/p&gt;   &lt;/p&gt;</description>
 			<pubDate>Wed, 03 Sep 2025 01:36:23 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211080</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211080.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>'학생 노동인권' 증진 위해 서울변회·서울시교육청 맞손</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211072.jpg" alt="34637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;2일 열린 업무협약 체결식에서 조순열 회장과 정근식 교육감. 《사진=서울지방변호사회》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;서울지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;)는 9월 2일 오전 11시 서울 서초구 서초동 변호사회관 1층 회의실에서 서울특별시교육청(교육감 정근식)과 '학교 노동인권교육 활성화 및 학생 노동인권 증진'을 위한 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;최근 학생들은 아르바이트 등 다양한 형태로 노동 시장에 진입하는 경우가 늘고 있다. 이에 서울변회는 학생들이 자신의 노동 권리를 정확히 알고 부당한 상황에 적절히 대처할 수 있도록 서울특별시교육청과 함께 ‘학교 노동인권교육’ 분야에서 체계적으로 협력하기로 했다. 양 기관이 그동안 '변호사 명예교사 제도' 등을 통해 이어온 협력 관계를 한 단계 확대한 것이다.&lt;br /&gt;&lt;br /&gt;이번 협약을 통해 양 기관은 △학교 노동인권교육 활성화를 위한 강사풀 및 콘텐츠 지원 △교원의 노동인권 및 노동관계법 연수 지원 △일하는 학생의 노동인권 상담 및 권리구제 지원 등의 분야에서 협력한다.&lt;br /&gt;&lt;br /&gt;이날 협약식에는 서울지방변호사회의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;(53·사법연수원 33기) 회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34148"&gt;김기원&lt;/span&gt;(40·변호사시험 5회) 수석부회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="28564"&gt;진시호&lt;/span&gt;(40·변시 4회) 총무이사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="33777"&gt;양윤섭&lt;/span&gt;(37·변시 7회) 총무이사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="28538"&gt;김수영&lt;/span&gt;(46·변시 3회) 인권이사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="31207"&gt;김준우&lt;/span&gt;(46·변시 2회) 프로보노 지원센터장과 서울특별시교육청의 정근식 교육감, 조백기 학생인권옹호관, 한상목 사무관, 진주 정책보좌관이 참석했다. &lt;br /&gt;&lt;br /&gt;서울변회 관계자는 "변호사들의 전문적 지식과 풍부한 경험을 바탕으로 청소년 노동인권교육에 적극 참여해 청소년들이 노동법의 기본 원칙을 이해하고 미래 사회의 당당한 구성원으로서 자신의 권익을 스스로 보호하며 건강하게 성장할 수 있도록 최선을 다하겠다"고 밝혔다.</description>
-			<pubDate>Tue, 02 Sep 2025 10:06:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211072</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211072</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211072.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
