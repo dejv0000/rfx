@@ -13,6 +13,298 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인구 300만 부산에 외국인 관광객 벌써 200만</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/ESC7GRT4HRFX7GO5YSXWN4HCC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/ESC7GRT4HRFX7GO5YSXWN4HCC4/</guid>
+      <dc:creator>부산=김미희 기자 , 부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBTEEZXKNBCFPHUVIT5KO6ZL4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 부산 사하구 감천문화마을을 방문한 대만 관광객 가족이 한복을 입고 기념촬영을 하고 있다.
+
+부산관광공사에 따르면 올해 1∼5월 부산 방문 외국인 관광객 수는 총 138만3천여명으로 지난해 같은 기간보다 23.7% 증가했다.
+지난 4월에는 외국인 관광객 동향 집계 이래 가장 빠른 속도로 연 누계 100만명을 돌파했다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 3일 오후 부산 해운대구 ‘해운대 블루라인 파크’ 청사포 정거장. 2020년 동해남부선 폐선 부지에 만든 해변 열차다. 해운대 미포에서 송정해수욕장까지 4.8㎞를 오간다. 열차 위로는 승객 4명이 탈 수 있는 ‘스카이캡슐’도 다닌다. 해변 열차가 정거장에 도착하니 승객 80여 명이 쏟아져 나왔다. 절반이 외국인이었다. 중국에서 온 윤홍화(26)씨는 “요즘 샤오훙슈(중국의 SNS)에서 스카이캡슐이 진짜 유명하다”며 “해변을 달리는 열차 안에서 나만의 사진을 찍을 수 있는 장소는 여기뿐”이라고 했다. 해변 열차 관계자는 “올 상반기 승객 170만명 중 76만5000명(45%)이 외국인이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TS5U6NNIUNHTDEWCPHRHDKPMFA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 부산 사하구 감천문화마을을 방문한 외국인 관광객들이 기념촬영을 하고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 날 부산 사하구 감천문화마을. 한복 입은 외국인 관광객 100여 명이 마을 입구를 가득 메웠다. 한국인을 찾기 힘들 정도였다. 대만에서 왔다는 황신팅(22)씨는 “알록달록한 집과 바다가 너무 예쁘다”며 “유럽 마을에 온 것 같다”고 했다. 동네 주민 김모(72)씨는 “맨날 보는 달동네에 이렇게 외국인이 몰릴 줄 몰랐다”며 “청년들이 떠나 노인과 바다밖에 없는 도시라고 했는데 이젠 외국인들로 매일 시끌벅적하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SLP64WMGNC2JAQH2TC2TDZQX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에 외국인 관광객이 몰리고 있다. 올 1~7월 부산을 찾은 외국인 관광객은 200만3466명으로 역대 최대 기록을 세웠다. 1년 전보다 23% 증가했다. 인구 300만 부산에 벌써 200만명이 넘는 외국인 관광객이 방문한 것이다. 올해 300만명을 넘어설 기세다. &lt;br&gt;&lt;br&gt;이들은 왜 부산을 찾았을까?&lt;br&gt;&lt;br&gt;김기헌 영산대 관광컨벤션학과 교수는 “세계적으로 K팝, K푸드 등이 인기를 끌면서 우리나라를 찾는 외국인이 크게 늘었다”며 “2번, 3번 서울을 찾은 외국인들이 이제는 부산, 경주, 제주 등으로 눈을 돌리고 있다”고 했다. K관광의 저변이 확대된 결과라는 것이다. 부산에서 여행사를 운영하는 이정민씨는 “서울 관광을 마친 뒤 KTX를 타고 부산에 내려오는 외국인 관광객이 늘고 있다”고 했다. &lt;br&gt;&lt;br&gt;프랑스에서 온 에밀리(17)양은 “서울이 마드리드라면 부산은 바르셀로나와 비슷하다”며 “멋진 바다와 맛있는 음식, 싼 물가가 서울과 다른 부산의 강점”이라고 했다. 광안대교와 마린시티의 야경 사진을 보고 싱가포르나 홍콩을 떠올렸다는 관광객도 있었다.&lt;br&gt;&lt;br&gt;올해 부산을 가장 많이 방문한 외국인은 대만인이었다. 37만명이 부산을 찾았다. 중국인(31만명), 일본인(26만명), 미국인(14만명)보다 많다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YADTZ3X25FBIHKIEWWWX73YEIA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 부산 사하구 감천문화마을을 방문한 외국인 관광객들이 기념촬영을 하고 있다./20250815 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 25만명이었던 대만 관광객은 지난해 50만명으로 2배가 됐다. 중국인을 따돌리고 처음 1위에 올랐고 올해도 증가세를 이어가고 있다. 부산관광공사 관계자는 “그동안 일본을 많이 찾던 대만인들이 부산으로 넘어오고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FLCLWBTPRCO7MXIESOZL5TNN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 부산진구 서면 한 돼지국밥에서 일본인 관광객들이 돼지국밥을 먹기 전 기념사진을 촬영하고 있다. /김미희 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 만난 대만 관광객들은 “돼지국밥이 제일 기억에 남는다”고 했다. 바이한(29)씨는 “돼지국밥 생각이 나서 부산에 또 왔다”며 “평소 즐겨 먹는 우육면과 비슷하면서도 국물이 진해서 더 맛있다”고 했다.&lt;br&gt;&lt;br&gt;부산관광공사가 최근 대만 관광객 1만5796명을 대상으로 실시한 ‘가장 선호하는 부산 음식’ 설문조사에서도 돼지국밥이 67%로 1위에 올랐다. 2위는 부산어묵(37%)이었다. 부산관광공사 관계자는 “대만에는 돼지국밥과 비슷한 국물 요리가 많다”며 “그래서 친숙하게 느끼는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;부산과 대만을 오가는 직항편도 많이 늘었다. 에어부산, 중화항공 등이 항공편을 잇따라 열면서 하루 9편이 부산과 대만 타이베이·가오슝 등을 오간다. 타이베이에서 1시간 45분이면 부산에 도착한다.&lt;br&gt;&lt;br&gt;부산시는 2023년 내놓은 ‘비짓부산패스’가 효과를 보고 있다고 분석했다. 5만5000원(24시간권 기준)짜리 패스를 사면 해운대 블루라인파크 해변열차, 엑스더스카이 전망대, 송도해상케이블카 등 39곳을 공짜로 즐길 수 있다. 올 상반기 17만4000장이 팔렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NIW7RQDAGZDMHPKAAP4KOM5CSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캡슐 열차에서 한 컷 - 외국인 관광객이 해변 열차 ‘스카이 캡슐’ 안에서 찍은 사진. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 관광객이 늘면서 침체된 지역 상권에도 온기가 돌고 있다. 서면시장에서 돼지국밥집을 운영하는 조서연(63)씨는 “요즘은 손님 10명 중 3명이 외국인”이라며 “외국인 손님 덕분에 먹고산다”고 했다. 그는 “영어·일본어·중국어 메뉴판도 만들었다”고 했다.&lt;br&gt;&lt;br&gt;과제도 있다. 부산관광공사가 부산을 찾은 외국인 관광객 1000명을 대상으로 조사한 결과, 관광 만족도는 5점 만점에 4.3점이었지만 재방문 의사는 3.9점에 그쳤다. 여호근 동의대 호텔컨벤션경영학과 교수는 “붐을 이어가기 위해선 재방문율을 높여야 한다”며 “다양한 체험 콘텐츠를 개발할 필요가 있다”고 했다. 대만에서 온 핀옌(24)씨는 “부산역이나 김해공항에 도착한 뒤 관광지에 찾아가기가 어렵다”며 “대부분 우버나 카카오택시를 이용한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PBTEEZXKNBCFPHUVIT5KO6ZL4A.jpg?auth=40abbd0ac57e8f4248f8ca60984f9defd286aec624e1f53c971691455d1ec878&amp;smart=true&amp;width=3647&amp;height=2432" type="image/jpeg" height="2432" width="3647">
+        <media:description type="plain">15일 오전 부산 사하구 감천문화마을을 방문한 대만 관광객 가족이 한복을 입고 기념촬영을 하고 있다.
+
+부산관광공사에 따르면 올해 1∼5월 부산 방문 외국인 관광객 수는 총 138만3천여명으로 지난해 같은 기간보다 23.7% 증가했다.
+지난 4월에는 외국인 관광객 동향 집계 이래 가장 빠른 속도로 연 누계 100만명을 돌파했다./김동환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>독도 경비함까지 ‘강릉 급수 작전’</title>
+      <link>https://www.chosun.com/national/regional/2025/09/05/F6OKPFWJ3RBEBCHMIQ5BZKTVWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/F6OKPFWJ3RBEBCHMIQ5BZKTVWA/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>역대 최악의 가뭄에 시달리고 있는 강원도 강릉 주민들을 돕기 위해 독도 경비함도 출동했다.&lt;br&gt;&lt;br&gt;동해지방해양경찰청은 “지난 3일부터 5000t급 독도 경비함 삼봉호를 급수 지원에 투입했다”고 4일 밝혔다. 해경이 급수 지원에 독도 경비함을 투입한 건 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2J5AOEOHBF37KJ4TSM3AUDMNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바닥 드러낸 저수지서 22년전 티코가… - 극심한 가뭄으로 바닥이 드러난 강원도 강릉 오봉저수지에서 티코 승용차가 발견됐다. 경찰은 22년 전 수몰된 것으로 추정했다. /강원도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼봉호가 한 번에 실어 나를 수 있는 물의 양은 600t이다. 소방차 50대 분량이다.&lt;br&gt;&lt;br&gt;삼봉호는 지난 3일 동해시에서 생활용수 600t을 싣고 와 강릉 안인항에 내렸다. 이 물을 소방차가 강릉 홍제정수장으로 실어 날랐다. &lt;br&gt;&lt;br&gt;국방부도 이날부터 장병 800명과 차량 400여 대를 강릉에 투입했다. 전국에서 집결한 소방차 80대도 동해·양양·속초 등을 오가며 물을 실어 나르고 있다. &lt;br&gt;&lt;br&gt;그러나 강릉 최대의 상수원인 오봉저수지의 저수율은 이날 13.5%로 떨어졌다. 역대 최저치를 또 경신했다. 이날 수도권과 강원 등 중부 지방에 최대 44㎜ 비가 내렸지만 오봉저수지에 내린 비는 3.5㎜에 그쳤다. 저수지가 바닥을 드러내면서 지난 3일에는 22년 전 매몰된 것으로 추정되는 ‘티코’ 승용차가 발견됐다. 경찰 관계자는 “2003년 9월 태풍 ‘매미’ 때 저수지에 수몰된 것으로 보인다”며 “차량 주변에 시신은 없었다”고 했다.&lt;br&gt;&lt;br&gt;강릉시는 5일부터 시민 18만여 명에게 생수를 배급하기로 했다. 1인당 2L짜리 생수 6병씩 나눠준다. 시는 오봉저수지의 저수율이 10% 아래로 떨어지면 시간제·격일제 급수를 시행할 계획이다.&lt;br&gt;&lt;br&gt;지역 대학들은 단수에 대비해 비상 대책을 마련했다. 강릉원주대는 수돗물이 끊기면 강의실 문을 닫고 원격 수업을 실시하기로 했다.&lt;br&gt;&lt;br&gt;강릉관광개발공사가 운영하는 오죽 한옥마을은 5일부터 문을 닫는다. 6일 열릴 예정이던 경포 트레일런 대회는 무기한 연기됐고 강릉커피배 전국시니어테니스대회(9일)는 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갈수록 좁아지는 채용 문… SKY 학생도 한숨</title>
+      <link>https://www.chosun.com/national/education/2025/09/05/OMWT5AMJ7VHKRGNTJFIMSVBPEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/05/OMWT5AMJ7VHKRGNTJFIMSVBPEA/</guid>
+      <dc:creator>김민기 기자, 정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEXZJKPUYRGZ5MVDDLIAWWX25A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'서울대 채용 박람회' SK·KT 등 불참 - 지난 2일 서울대 종합체육관에서 열린 '하반기 서울대 채용 박람회'를 찾은 학생들이 기업 부스에서 상담을 받는 모습. 이번에 참가한 기업은 126곳으로 작년보다 줄어들었다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“A사 부스가 안 보이네” “그럼 거긴 올해 채용 안 하는 거야?” &lt;br&gt;&lt;br&gt;지난 2일 서울대 관악캠퍼스 종합체육관에서 열린 ‘하반기 서울대 채용박람회’. 학생들이 삼삼오오 모여 이런 대화를 나눴다. 서울대에서 매년 열리는 이 행사는 주요 대기업들이 일제히 참가하는 국내 최대 규모의 채용 박람회로 꼽힌다. 그런데 올해 박람회 참가 기업은 126곳으로, 작년(134곳)보다 줄었다. SK, KT 등 학생들이 선호하는 대기업들이 올해는 불참하면서 채용 상담 부스를 열지 않은 것이다.&lt;br&gt;&lt;br&gt;지난 1일부터 나흘간 고려대 안암캠퍼스에서 열린 채용박람회. 2일 박람회에 참여한 삼성전자가 별도 설명회를 연다는 소식에 시작 30분 전부터 학생 100여 명이 미리 줄을 길게 서서 대기하는 모습이 보이기도 했다. 하지만 고려대 역시 올해 전체 참가 기업은 102곳으로 작년(123곳)보다 줄었다. 현대차, 카카오 계열사 등이 오지 않았다. 연세대(108곳→101곳), 성균관대(111곳→92곳)도 채용 박람회 상황이 비슷했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZFTXBXZ4BGYXML2FF4WBMSLZI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 채용 박람회 규모가 줄어들고 있다. 그동안 대학들이 매년 돌아오는 공채 시즌에 맞춰 채용 박람회를 열면, 기업들이 여기에 참가해 모집 홍보를 하는 게 일반적이었다. 또 그동안 기업들은 방문하는 학교 출신 직원을 함께 데려가 재학생들과 ‘선배와의 대화’ 시간을 제공하기도 했다. 하지만 지난 2019년 현대차를 시작으로 SK, 롯데 등 주요 기업이 공채를 폐지하고 수시 채용으로 전환하면서 대학 박람회 열기도 식고 있는 것이다. 대기업 관계자는 “수시 채용은 필요할 때 사람을 뽑을 수 있어 효율적이고, 경제 불확실성에 대응하기 위한 전략적인 선택”이라며 “계열사별로 채용 시기가 제각각이기 때문에 예전처럼 대학들이 9월에 일괄적으로 진행하는 박람회는 참여하지 않는 추세”라고 말했다. &lt;br&gt;&lt;br&gt;하지만 고용 한파가 길어지는 가운데 공채 대신 수시 채용까지 확대되자 젊은 취준생 사이에선 “너무 불안하다”는 걱정이 터져 나오고 있다. 서울대 공과대학 4학년 김모(25)씨는 “기업들의 채용 시기나 규모가 예측이 안 되니 너무 답답하다”고 했다. 서울대 인문대 석사과정 B씨는 “기업이 결원이 생기면 그때그때 채용 공고를 내는데, ‘땜빵용’으로 사람을 뽑는 거 아닌가”라면서 “취준생들은 언제 공고가 날지 모르니 압박감이 크다”고 말했다. 그러면서 그는 “공고 자격란에 ‘경력 우대’라는 말을 보면 ‘그럼 신입은 대체 어디 가서 경력을 쌓나’라는 생각이 계속 든다”고도 했다. &lt;br&gt;&lt;br&gt;올 초 한국경영자총협회가 전국 100인 이상 기업 500곳을 대상으로 ‘신규 채용 계획’을 조사한 결과, “채용 계획이 있다”고 답한 곳은 60.8%였다. 2022년만 해도 72%였는데, 매년 감소세를 보이고 있다. 고용노동부가 지난 7월 발표한 ‘구인배수’는 0.4로 26년 만에 최저치를 기록했다. 구직자 10명당 일자리가 4개뿐이라는 뜻이다. &lt;br&gt;&lt;br&gt;지난 6월 대한상공회의소가 상반기 채용 공고 14만4181건을 분석한 결과, 경력 채용만 원하는 기업이 82%에 달했다. 인공지능(AI) 시대에 반복적 업무는 신규 사원이 아닌 AI에 맡기려는 분위기도 커지고 있다. 고려대 인문대 석사생 고모(26)씨는 “안 그래도 채용 공고가 줄어 걱정인데, 경력만 뽑으니까 원서조차 낼 수가 없다”며 “취업 준비를 하는 또래들 스트레스가 크다”고 했다. &lt;br&gt;&lt;br&gt;이를 놓고 기업들이 사회적 책무 차원에서 젊은 층을 위한 인턴 기회를 늘려야 한다는 지적이 나온다. 조준모 성균관대 경제학과 교수는 “기업들이 양질의 인턴 기회를 늘려 젊은이들이 경험과 자신감을 갖게 해야 한다”며 “인턴 경험을 한 학생이 늘어나면 젊은 층은 기회를 잡게 되고, 업계의 인재 저변도 넓어지니 기업에도 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘우아함의 황제’ 이탈리아 패션 거장 조르지오 아르마니, 떠나다</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/05/CKQBB545HNBTPK3LZLYMCTGBUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/05/CKQBB545HNBTPK3LZLYMCTGBUU/</guid>
+      <dc:creator>최보윤 기자, 윤수정 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:50:23 +0000</pubDate>
+      <content:encoded>이탈리아를 넘어 전 세계 패션계에 큰 족적을 남긴 이탈리아 패션계 거장 조르조 아르마니(91)가 4일(현지 시각) 세상을 떠났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SATDZM3GZVGIZLTJ5YV2O4Z6WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2018년 다음 연도 유행을 선도하는 아르마니 패션쇼로 호평을 받은 뒤 여성 모델들과 무대 인사를 전한 조르조 아르마니. /AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아르마니그룹은 이날 성명을 통해 “직원과 협력자들이 항상 존경과 찬사를 담아 ‘일 시뇨르(존경하는 선생님) 아르마니’로 불렀던 조르조 아르마니가 사랑하는 사람들에게 둘러싸여 평화롭게 세상을 떠났다”고 밝혔다. &lt;br&gt;&lt;br&gt;그는 오는 28일 밀라노 패션위크에서 아르마니 브랜드 탄생 50주년 기념 쇼를 앞두고 있었다. 디자이너이자 사업가로서 독보적 자질을 보이며 “지칠 줄 모르는 추진력의 소유자”로 불렸던 아르마니가 어떤 방식으로 패션사(史)의 한 페이지를 장식할 지 한창 관심이 뜨거운 시기였다.&lt;br&gt;&lt;br&gt;하지만 아르마니의 트레이드 마크인 은백발에, 탄탄한 체형이 돋보이는 짙은 네이비의 딱 붙는 티셔츠를 입고 런웨이(쇼 무대)에 올라 단단한 미소로 청중에 인사를 건네는 모습을 더는 볼 수 없게 됐다. 올 1월에는 자신의 고급 맞춤복 브랜드 ‘아르마니 프리베’ 20주년을 파리에서 기념하는 등 ‘영원한 현역’다운 아우라를 풍겼던 그의 건강 이상설이 퍼진 것은 지난 6월 밀라노 남성 패션위크부터. 쇼가 끝난 뒤 크리에이티브 디렉터가 관객을 향해 인사를 해오던 패션계 관행과 달리 무대에 나서지 않은 것이다. 생애 처음으로 직접 패션쇼를 지휘하지 못했다. 이후 그의 인생 가장 화려할 50주년 축하 패션쇼와 파티를 불과 20여 일 앞두고 생을 마감하게 됐다. &lt;br&gt;&lt;br&gt;아르마니는 1975년 절친이자 사업 파트너였던 세르지오 갈레오티와 함께 ‘조르조 아르마니’라는 이름의 브랜드를 세웠다. 이후 ‘우아함의 황제’ ‘미니멀리즘의 거장’으로 불리며 현대 이탈리아 패션의 상징으로 자리 잡았다. 특유의 절제된 감각과 냉철한 경영 감각을 결합해 연간 23억유로(약 3조7000억원) 매출을 올리는 세계적 명품 기업으로 키웠다.&lt;br&gt;&lt;br&gt;1934년 이탈리아 북부 피아첸차에서 태어난 아르마니는 원래 의학을 전공했다. 어려운 형편의 가족을 위해 밀라노 의대에 진학했으나, 생활비를 마련하기 위해 1957년 백화점 아르바이트로 시작한 일이 그의 인생을 바꿨다. 정식 패션 공부를 하지 않았지만 백화점 바이어를 하며 스스로 디자인을 터득했다. &lt;br&gt;&lt;br&gt;스물셋이 되던 해 그는 의사 메스 대신 의상을 재단하기 위한 줄자와 가위를 들었다. 패션에 민감한 이탈리아에서 ‘신성’의 탄생을 알린 건 1964년 이탈리아 출신 패션 사업가 니노 체루티가 선보인 브랜드 ‘히트맨’의 디자이너가 되면서부터였다. 의대생으로 익힌 신체 구조적 재단에 그의 평소 철학인 편안함을 결부했다. 몸의 선을 따라 흐르는 듯이 디자인한 스타일로, 남녀 구분 없이 입을 수 있는 중성적인 느낌과 옷에 속박되지 않는 인체공학적 디자인을 선보이며 자신의 능력을 입증했다. 결국 1975년 자신의 이름이 담긴 브랜드로 ‘아르마니 스타일’ 세계를 열었다. 이탈리아 패션의 역사가 새로 쓰이는 순간이기도 했다. &lt;br&gt;&lt;br&gt;안감이 없는 자유로운 재단의 재킷은 이탈리아어 ‘스프레차투라(sprezzatura·아무리 어려운 일이라도 무척이나 쉬운 것처럼 해내는 것)’의 대명사로 불렸다. 여성성과 남성성의 경계를 허물고, 절제되면서도 여유있는 라인으로 시대를 초월한 스타일로 주목받았다. 아르마니는 곧 ‘자연스러운 우아함’과 동의어나 마찬가지였다. 1975년 여성복을 론칭한 뒤엔 역으로 넓은 어깨선과 날렵한 실루엣이 돋보이는 파워 슈트를 선보이며 사회 활동에 적극적이며 자기 표현이 강한 여성들을 대변했다. &lt;br&gt;&lt;br&gt;AP통신은 그를 “밀라노 기성복의 거장”으로 평가하며, 구조적이지 않은 자유로운 디자인으로 패션계의 혁신을 이끌었다고 전했다. ‘레 조르지오(Re Giorgio·조르지오 왕)’라는 패션계 별칭으로 불린 그는 광고와 경영은 물론, 모델들이 무대에 오르기 전 머리 모양까지 직접 손볼 만큼 모든 세부 사항을 챙기는 완벽주의자로도 유명했다. &lt;br&gt;&lt;br&gt;부드러우면서도 유연한데 체형도 잡아주는 그의 재킷은 ‘소프트 테일러링(soft-shouldered suits)’ 시대를 열며 할리우드를 단번에 사로잡았다. 1980년 배우 리처드 기어가 영화 ‘아메리칸 지골로’에서 아르마니 슈트를 입어 유명해졌다. &lt;br&gt;&lt;br&gt;아르마니의 의상은 레드카펫에서 가장 많이 등장하는 브랜드 중 하나이기도 하다. 소피아 로렌, 조디 포스터, 숀 코너리 등 남녀를 가리지 않고 아르마니를 택한 스타들이 줄을 이었다.&lt;br&gt;&lt;br&gt;디자이너로서뿐만 아니라 사업성도 능했다. 아르마니는 루이비통의 모회사인 LVMH, 구찌의 모회사인 케링 등 거대 패션 그룹들이 두각을 드러낸 세계 명품 시장에서 단독 주주로서 자신의 이름을 건 브랜드를 일궈온 몇 안 되는 디자이너로 이름을 떨쳤다. 미국의 대표 디자이너 랄프 로렌(86)도 디자인과 CEO(최고경영자)를 겸했지만 지난 2015년 외부 CEO를 영입하면서 그룹 회장과 최고 크리에이티브 디렉터의 직함만 유지한 바 있다. &lt;br&gt;&lt;br&gt;젊은 층을 공략한 엠포리오 아르마니. 아르마니 진, 아르마니 익스체인지 등 패션 브랜드에 이어 홈 인테리어 브랜드 아르마니 카사를 비롯해 아르마니 호텔, 아르마니 뷰티 등 ‘아르마니 제국’을 세우며 억만장자 대열에 올랐다. 현재 46개국에 500여 개 매장을 운영하며, 외부 투자 없이 독립성을 유지하는 것을 가장 큰 가치로 여겼다.&lt;br&gt;&lt;br&gt;스포츠에도 관심이 많아 이탈리아 밀라노 농구팀을 인수하는가 하면 이탈리아 올림픽 대표팀의상을 디자인하며 이탈리아를 대표하는 당대 최고 디자이너로 추앙받았다. 2021년 이탈리아 최고 영예 중 하나인 공로 훈장을 수상하고, 미국 패션 디자이너 협회로부터 평생 공로상을 받았다. &lt;br&gt;&lt;br&gt;일시적인 유행보다는 현대적이면서도 클래식한 그만의 정체성을 일궈나갔고, 실용을 바탕으로 지나친 사치와 허영을 경계했다. 디테일에 대해 지독할 정도로 집착하는 그의 패션 철학은 어쩌면 단순했다. ‘인간에 대한 사랑’. 상처난 영혼을 위한 위로의 바느질은 그가 사랑을 표현하는 방식이었다. 숨기거나 과장하지도 않고, 간결하게 자신만의 고집을 구조적으로 표현해냈다. &lt;br&gt;&lt;br&gt;“우아함은 남의 눈에 띄지 않으면서도 잊히지 않는 예술”이라고 강조했던 그는 복잡하고 다단하며 고단한 세상을 그는 그 누구보다도 우아하고 간결하게 해석해 내려 애썼다. “명성이 나를 이 길로 이끌지 않았다. 돈도 아니었다. 우아함은 돈으로 살 수 없다. 무언가를 만드는 것, 그것이 항상 나를 움직여 온 동기다.”&lt;br&gt;&lt;br&gt;아르마니 그룹은 오는 주말 밀라노에 일반인을 위한 조문실을 마련할 예정이며, 장례식은 가족과 가까운 지인들만 참석하는 비공개 형식으로 치러진다. 현재까지 확실한 아르마니의 사후 후계자는 발표된 바 없다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오늘부터 김밥 말아야”… ‘케데헌’ 인기에 김천시 언급되는 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/5OFSM4YFMZCCHEVBV2WSCLGL64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/5OFSM4YFMZCCHEVBV2WSCLGL64/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:32:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOAYKE76VFC4ZGAMGA4N4H6VP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 김천김밥축제에 몰린 인파. /김천시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘케이팝 데몬 헌터스’(케데헌) 열풍에 김천시의 김천김밥축제가 덩달아 주목받고 있다. 주인공 루미가 김밥 한 줄을 통째로 베어 무는 장면 때문이다. &lt;br&gt;&lt;br&gt;4일 김천시에 따르면, 작년 처음 시작된 김천김밥축제가 오는 10월 25일부터 26일 양일간 김천시 직지문화공원 및 사명대사공원 일대에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;김밥은 김천의 특산품은 아니지만, 많은 이들이 ‘김밥천국’ 줄임말로 ‘김천’을 떠올리는 데서 힌트를 얻어 시험 삼아 축제를 연 것이 연례행사로 자리매김하게 됐다. &lt;br&gt;&lt;br&gt;올해는 특히 영화 케데헌의 인기로 외국인 관광객도 다수 유치하게 될지에 관심이 쏠린다. 케데헌에 주인공 루미가 김밥 한 줄을 통째로 베어 무는 장면이 등장하는데, 이 장면이 해외 팬들에게 인기를 끌고 있기 때문이다. 틱톡 등 소셜미디어에선 ‘김밥 한입에 먹기 챌린지’ 영상이 등장하기까지 했다. 인스타그램에는 김밥(kimbap·gimbap) 해시태그가 총 65만건 이상 등록됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AU4I5HHX6VCNZOQ2XVDJ55P7CY.png"&gt;&lt;figcaption&gt;&lt;small&gt;해외 팬들이 영화 케데헌 속 주인공 루미가 김밥을 통째로 베어 무는 장면을 패러디하고 있다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김천김밥축제는 케데헌이 공개되기 이전인 작년 처음 열렸을 때도 성공을 거둔 바 있다. 당시 전국에서 인파가 예상과 달리 많이 몰리면서, 준비해둔 1만6000인분 김밥이 행사 시작 3시간 만에 동났다. 온라인에선 겨우 찾아갔으나 정작 김밥을 먹을 수 없었다며 불만을 토로하는 후기가 이어지기도 했다. 예상 방문객이 2만명이었으나, 실제론 5배인 10만명이 방문한 것으로 집계됐다. 김천시 인구(약 13만명)에 맞먹는 방문객이 몰린 것이다. &lt;br&gt;&lt;br&gt;케데헌으로 인해 김밥이 해외 팬들의 관심까지 끌면서, 올해 역시 많은 인파가 몰릴 가능성이 언급된다. 이에 네티즌 사이에서는 “지금부터 김밥 말아야 하는 것 아니냐” 등 우스갯소리까지 나왔다. 김천김밥축제 공식 홍보 소셜미디어에는 “이번에는 사전 준비를 잘해서 성황리에 마무리하면 좋겠다” “케데헌 때문에 외국인들도 많이 올 수 있으니 규모 크게 준비해야 할 듯” “작년엔 버스에서 내리지도 못했다. 올해는 꼭 구경하고 싶다” 등의 댓글이 달리기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BYHPM7BHZFWFL246MJGHYJZ7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 26일 경북 김천시 사명대사 공원에서 열린 ‘제1회 김천 김밥 축제’ 현장. 김밥 맛을 보러 온 관광객들로 붐비고 있다. 지난 26~27일 축제장을 찾은 관광객은 10만명에 달했다. /김천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김천시 측은 작년 혼란을 발판 삼아 올해는 수만 명이 행사장을 찾아도 큰 문제가 없도록 만반의 준비를 한다는 계획이다. 김천 관광진흥과 관계자는 “케데헌에서 김밥이 노출되며 바이럴이 되는 바람에 더 기대가 크다”며 “외국인들이 찾을 것을 대비해서 통역이 가능한 서포터즈 등도 모집해 불편함이 없도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LTMXXHHZ7RERFMU5NGGPR3TFRQ.png?auth=bdc145e50ff079a22325709c8336938c965157e67676fb8895655efd230bc0db&amp;smart=true&amp;width=329&amp;height=247" type="image/png" height="247" width="329">
+        <media:description type="plain">해외 팬들이 영화 케데헌 속 주인공 루미가 김밥을 통째로 베어 무는 장면을 패러디하고 있다. /온라인 커뮤니티</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[바로잡습니다] 8월 30일 자 B2면 ‘올해로 요리 경력 50년 중식 거장 여경래’ 기사 중 외</title>
+      <link>https://www.chosun.com/special/announcement/2025/09/05/G5ZQDYJRPFGGXJNHOLO6N7ENF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/09/05/G5ZQDYJRPFGGXJNHOLO6N7ENF4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:55:00 +0000</pubDate>
+      <content:encoded>▲8월 30일 자 B2면 ‘올해로 요리 경력 50년 중식 거장 여경래’ 기사 중 “당시 샐러리맨 연봉이 30만원 정도였으니까 되게 많이 받은 거죠”에서 ‘연봉’은 ‘월급’의 잘못으로 바로잡습니다.&lt;br&gt;&lt;br&gt;▲2일 자 A14면 ‘“지구 살리자”며 이번엔 가우디 걸작 훼손’ 기사에서 고야의 작품명 ‘옷 벗은 마야’ ‘옷 입은 마야’의 ‘마야’를 ‘마하’로 바로잡습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘김건희네 이우환 그림’ 김상민 前 검사가 사서 줬다</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/2P35BZC6RZEOTDJ3IPHJH3MKYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/2P35BZC6RZEOTDJ3IPHJH3MKYY/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>민중기 특검팀이 지난 7월 말 김건희 여사 친오빠인 김진우씨의 장모 집을 압수 수색하면서 확보한 이우환 화백 그림의 구매자를 김상민 전 검사로 특정한 것으로 4일 확인됐다. 김 전 검사는 김 여사가 작년 총선 때 경남 창원 의창에 국민의힘 공천을 받게 하려고 했던 사람이다. 김 전 검사는 국민의힘 공천을 받지는 못했으나 총선 후 국가정보원장 특별보좌관에 임명됐다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김씨 장모 집에서 찾았던 이 화백의 그림 ‘점으로부터(From Point) No.800298’을 김 전 검사가 구매해 김씨에게 전달했다는 진술을 최근 확보한 것으로 전해졌다. 이 작품은 2022년 6월 대만 경매에서 한국인 이모씨가 약 3000만원에 낙찰받아 한국으로 들여왔다. 이후 김 전 검사가 2023년 초쯤 이 그림을 약 1억원에 구매한 것으로 특검은 파악했다고 한다. 이때는 김 전 검사가 대검과 서울중앙지검에서 현직 검사로 근무할 때다.&lt;br&gt;&lt;br&gt;김진우씨 측은 이 그림이 김 전 검사에게 ‘대리 구매’를 부탁해 매입한 것이란 입장이다. 김 전 검사에게 그림 값도 줬고 김 여사와는 관련이 없다는 주장이다. 앞서 김 여사도 특검 조사에서 이 그림과 관련해 “내 것이 아니다. 나라면 구매하지 않았을 것”이라고 진술했다고 한다. 그러나 특검은 김 여사가 김 전 검사로부터 그림을 선물받고, 그 대가로 그가 국민의힘 공천을 받을 수 있도록 영향력을 행사하려 했거나 총선 후 국정원장 특보에 임명되도록 했을 가능성을 수사 중이다. &lt;br&gt;&lt;br&gt;김 전 검사는 올해 47세로 윤석열 전 대통령과는 사법연수원 기수로 12기수 차이가 나는 한참 후배다. 그런데도 김 여사가 김 전 검사를 챙긴 배경에 집안 간 관계나 그림 제공 등이 작용했을 가능성을 특검은 의심하는 것이다. 특검은 김 여사가 작년 4월 총선에서 김 전 검사를 경남 창원 의창 선거구에 출마시키기 위해, 작년 2월 이곳 지역구 의원인 김영선 전 국민의힘 의원에게 전화해 “김상민 검사가 당선될 수 있도록 하면 선거 이후 장관 또는 공기업 사장 자리를 주겠다”며 불출마를 종용했다는 진술을 확보했다. 실제 김 전 의원은 작년 2월 18일 경남 김해갑으로 지역구를 바꾸겠다고 밝혔었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[알립니다] 랜선 건강교실 ‘자궁암 치료법’</title>
+      <link>https://www.chosun.com/special/announcement/2025/09/05/GKOZRPW4FVFUDJ4LOBMQZDUISI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/09/05/GKOZRPW4FVFUDJ4LOBMQZDUISI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHG4LMSO6FFVLDNRG2FZVBW4ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;QR코드_랜선 건강교실 9월_자궁암&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼성서울병원과 조선일보사가 마련하는 ‘랜선 건강교실’ 9월 영상이 업로드됐습니다. 최근 서구식 식습관과 호르몬 불균형 등의 영향으로 자궁내막암 환자가 늘어나고 있고, 자궁경부암은 전 세계 여성 암 중 유병률 2위를 차지할 정도입니다. 이번 건강교실에선 삼성서울병원 산부인과 김태중 교수가 ‘자궁암의 종류와 최신 치료 방법’에 관해 자세히 설명합니다. &lt;br&gt;&lt;br&gt;랜선 건강교실은 매월 삼성서울병원과 조선일보 공식 유튜브 채널에 소개됩니다. QR코드를 스캔하면 해당 영상으로 연결됩니다.&lt;br&gt;&lt;br&gt;▲링크: https://youtu.be/ib9Ycx12vN8&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 의료 관광객, 작년에만 100만명</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/IB6NFFCQTFE2VLDAZCYT2R7NSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/IB6NFFCQTFE2VLDAZCYT2R7NSI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>지난해 서울을 찾은 외국인 관광객 중 약 100만명이 서울 시내 피부과나 성형외과 등 병원을 찾은 것으로 집계됐다. 이들이 의료비로 쓴 돈은 1조2000억원을 넘어섰다. 의료 관광객 수와 의료비 모두 역대 최대 규모다. &lt;br&gt;&lt;br&gt;서울시는 보건복지부의 ‘외국인 환자 유치 현황’을 분석한 결과, 2024년 서울을 찾은 외국인 1314만명 중 99만9642명이 서울 시내 병원을 이용한 것으로 나타났다고 4일 밝혔다. 2023년엔 47만3340명의 외국인이 병원을 찾았는데, 1년 만에 2배 이상으로 늘어난 것이다. 외국인이 카드로 서울의 의료기관에서 결제한 금액은 총 1조2310억원으로 집계됐다.&lt;br&gt;&lt;br&gt;외국인들에게 가장 인기 있는 병원은 피부과였다. 66만5382명(66.6%)이 피부과 진료를 받았다. 성형외과가 13만1541명(13.2%)으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;한방병원이나 한의원을 찾은 외국인은 2만3066명(2.3%)이었지만, 2020년 1845명에 비하면 12배 이상 급증했다. 강진용 서울시 보건의료정책과장은 “세계적으로 흥행한 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스’에 한의원이 등장한 덕에 한의원 방문객 수가 앞으로 더욱 많아질 것으로 보고 있다”고 했다. &lt;br&gt;&lt;br&gt;국적별로는 일본인이 42만1541명(42.2%)으로 가장 많았다. 이어 중국(22만260명), 미국(7만5531명), 대만(7만4292명) 순이다. 또 의료 관광객이 주로 방문한 자치구는 피부과·성형외과 등 미용 의료 시설이 몰려 있는 강남구(37만7073명)와 서초구(28만8475명)로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘최서원 조카’ 장시호 추락… 아래층 난간에 걸려 구조</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/DZOH7ZC2AFHSRLT2RV2IFQIBQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/DZOH7ZC2AFHSRLT2RV2IFQIBQE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55PVEOH7B5GP3JXWQIALUHLNUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 정부 때인 2016년 이른바 ‘국정 농단 사건’을 일으킨 최서원(개명 전 최순실)씨의 조카 장시호(46)씨가 4일 아파트 12층에서 추락했다가 아래층 난간에 걸려 구조됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국 등에 따르면, 장씨는 이날 오전 6시 서울 강남구 한 아파트 11층 난간에 걸려 있다가 구조됐다. 장씨 집은 바로 위층인 12층인 것으로 알려졌다. 장씨는 외관상 큰 부상은 없었고 곧바로 병원으로 옮겨졌다. 경찰은 장씨 추락이 사고에 의한 것인지 다른 요인이 작용한 것인지 조사 중이다.&lt;br&gt;&lt;br&gt;장씨는 박근혜 정부 국정 농단 사건과 관련, 동계스포츠영재센터 운영과 관련해 강요 혐의 등으로 구속 기소됐다. 2017년 1심에서 징역 2년 6개월을 선고받았으나 항소심에서는 국가보조금 횡령 혐의가 무죄로 인정돼 형량이 징역 1년 6개월로 줄었다. 장씨는 지난해 국정 농단 특별검사팀에 파견됐던 검사와 사적 만남을 이어왔다는 허위 사실을 유포한 혐의로 경찰 조사도 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“상위권大 가려 자퇴”… 작년 4년제 대학 중도이탈자 10만817명 역대 최대</title>
+      <link>https://www.chosun.com/national/education/2025/09/05/3XHMLE6V6VE4HM7HR23WWCATG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/05/3XHMLE6V6VE4HM7HR23WWCATG4/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>지난해 대학을 다니다가 그만둔 학생이 10만명이 넘은 것으로 나타났다.&lt;br&gt;&lt;br&gt;4일 종로학원이 대학알리미 공시 자료를 분석한 결과, 지난해 전국 4년제 대학을 다니다가 자퇴나 미등록 등으로 그만둔 학생이 10만817명이었다. 전년(10만56명)보다 761명 늘었고, 관련 자료가 공개된 2007년 이후 최대 규모다. 대학 신입생은 매년 줄고 있는데, 중간에 그만두는 학생은 갈수록 늘고 있는 것이다. 작년 전국 4년제 대학이 뽑은 신입생이 34만명인 점을 감안하면, 이 규모의 30%에 달하는 인원이 대학을 떠난 셈이다.&lt;br&gt;&lt;br&gt;지방 대학의 중도 탈락자(6만7921명)는 수도권 대학(3만2896명)의 두 배였다. 중도 탈락자가 1000명 이상인 대학은 16곳이었다. 대학알리미 확인 결과, 계명대(1523명)가 가장 많았다. 이어 대구대(1497명), 조선대(1327명), 동의대(1256명), 영남대(1232명), 원광대(1204명), 경희대(1175명), 경상국립대(1170명), 중앙대(1134명), 가천대(1090명) 등의 순이었다.&lt;br&gt;&lt;br&gt;이들 상당수는 반수, 편입에 도전한 것으로 분석된다. 대학에 들어가서도 ‘제2의 입시’에 나서는 경우가 늘어나고 있는 것이다. 임성호 종로학원 대표는 “경기 침체로 취업난이 심해지자, 학생들이 다니던 대학보다 더 상위권인 대학으로 진학해 취업 시장에서 우위를 점하려는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;실제로 지난해 수능을 치른 재수생 이상 수험생은 14만3496명으로, 2011년(14만4056명) 이후 최대였다. 올해 서울대 정시 모집에 최초 합격한 1570명 중에서도 재수생 이상(901명)이 재학생(633명)보다 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무주 반딧불 축제, 폭염에 역대 가장 늦게 개막</title>
+      <link>https://www.chosun.com/national/regional/honam/2025/09/05/QDFQAOW6MBEUZEAH3X56BMKEOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/09/05/QDFQAOW6MBEUZEAH3X56BMKEOI/</guid>
+      <dc:creator>무주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVHHDMCXNCZFL274KHNAOR5OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 무주반딧불축제가 ‘자연특별시 무주로의 힐링 여행’을 주제로 6일부터 14일까지 9일간 열린다./무주군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 무주군은 오는 6일부터 14일까지 무주읍 등나무운동장과 지남공원, 남대천 일대에서 ‘제29회 무주 반딧불축제’를 개최한다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;무주 반딧불축제는 1997년 시작한 국내 대표 환경 축제다. 올해 세계축제협회 아시아지부로부터 ‘2025 아시아 친환경 축제’로 선정됐다.&lt;br&gt;&lt;br&gt;올해는 기록적인 폭염과 열대야 때문에 역대 가장 늦게 축제를 연다. 그동안은 주로 8월 말에 축제를 열었다. 2023년 9월 2일에 연 것이 가장 늦었다. &lt;br&gt;&lt;br&gt;반딧불은 밤 기온이 23도 정도로 떨어져야 활발하게 날아다닌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPBJCNFVLNHLPA6AUISQGXOLRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 무주 반딧불 축제에서 관광객들이 반딧불을 감상하는 모습. /무주군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무주군 관계자는 “2000년대 초반만 하더라도 8월 20일쯤 축제를 시작했는데 갈수록 늦어지고 있다”고 했다. &lt;br&gt;&lt;br&gt;대표 프로그램은 ‘반딧불이 신비 탐사’다. 해가 진 오후 7시 30분쯤 반딧불이가 사는 풀숲을 걷는 프로그램이다. &lt;br&gt;&lt;br&gt;무주군 관계자는 “반경 50m 안에 반딧불이 100여 마리가 1분당 15~20번씩 노란 빛을 내뿜는다”며 “무주 반딧불축제에서만 볼 수 있는 장관”이라고 했다.&lt;br&gt;&lt;br&gt;참가비 2만원 중 1만원은 지역사랑 상품권으로 돌려준다. &lt;br&gt;&lt;br&gt;행사 기간 등나무운동장과 한풍루 앞에서는 무주군 학생 태권도 시범단과 전주대 태권도 시범단의 공연이 열린다. 점심 시간에는 무주 주민들이 만든 ‘1000원 국수’를 맛볼 수 있다. 황인홍 무주군수는 “올해도 바가지요금, 일회용품, 안전사고가 없는 ‘3무(無) 축제’를 이어가겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉에 7.5㎜ 비, 해갈엔 역부족</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/P5YTMT437NB6BIRS2FF7M56QEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/P5YTMT437NB6BIRS2FF7M56QEI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZSQE6HB7JFHRJDE24STF43DEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 강원 강릉시 성산면의 한 배추밭에서 주민이 비오는 밭을 살피고 있다. 극심한 가뭄에 시달리는 강릉 일대에 이날 7.5㎜가량 비가 내렸다. 태풍 ‘페이파’가 뜨거운 공기 덩어리를 밀어 올린 덕인데, 제대로 북상하지 못하면서 북쪽에 있는 강릉에 많은 비가 내리진 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>맥도날드 갈릭버거에, 창녕 마늘이 확 떴다</title>
+      <link>https://www.chosun.com/national/regional/2025/09/05/LGXCEK7NQ5AC3N3NGSIRVDE4UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/LGXCEK7NQ5AC3N3NGSIRVDE4UU/</guid>
+      <dc:creator>창녕=김주영 기자, 창녕=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>“요새는 서울 사람들도 창녕 하면 부곡 하와이 대신 ‘아~ 창녕 마늘’ 하지예! 마늘 하면 창녕 마늘 아입니꺼.”&lt;br&gt;&lt;br&gt;경남 창녕군에서 20년째 마늘 농사를 짓는 신창휴(65)씨는 요즘 신이 난다. 최근 맥도날드가 출시한 ‘창녕 갈릭버거’가 인기를 끌고 있기 때문이다. 햄버거에 창녕 마늘을 넣어 달큼한 맛이 난다. 덩달아 창녕 마늘도 상한가다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPHV6BYRMJEC7EIO5R3V6OYARM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김남엽 창녕군 농산물유통팀장은 “세계적인 기업이 나서 창녕 마늘을 홍보해 주니 지역 브랜드가 절로 상승하고 있다”며 “창녕 우포늪, 부곡온천 등을 찾는 관광객도 늘고 있다”고 했다.&lt;br&gt;&lt;br&gt;경기 화성에 사는 고진희(63)씨는 “요즘은 마트에서 마늘 고를 때 창녕 마늘인지 꼭 확인한다”고 했다.&lt;br&gt;&lt;br&gt;창녕은 국내 최대 마늘 산지(産地)지만 아는 사람이 적었다. 올해 창녕에선 2998농가가 마늘 6만5105t을 생산했다. 전국 마늘 생산량의 22%다. 시중에서 파는 국산 마늘 5개 중 1개는 창녕산이란 얘기다. 이 중 80t을 맥도날드에 보낸다.&lt;br&gt;&lt;br&gt;창녕 마늘은 풍미가 있고 달다는 평을 받는다. 까기 쉽고 덜 매워 고깃집에서 많이 찾는다. 맥도날드도 이런 이유로 창녕 마늘을 선택해 메뉴를 개발했다고 한다. 창녕군 관계자는 “창녕 흙은 점성이 있고 유황을 품고 있어 마늘에 영양분이 많다”고 했다. 창녕 부곡온천수에도 유황 성분이 많이 들어 있다.&lt;br&gt;&lt;br&gt;창녕은 원래 양파의 고장이다. 1909년 국내 최초로 양파를 재배한 곳이 창녕이다. 2010년대 중국산 양파 때문에 값이 폭락하자 농민들은 단가가 높은 마늘을 키우기 시작했다. 임동섭(67) 창녕농협 조합장은 “마늘은 양파와 생육 환경이 비슷해 쉽게 전환할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;마늘은 창녕의 효자 농산물이다. 해마다 매출 3000억원을 올린다. 창녕군 한 해 예산(7000억원)의 절반 수준이다. 1년에 1억원 이상 버는 농가도 1000곳이 넘는다.&lt;br&gt;&lt;br&gt;창녕군은 작년 12월 전국 최초로 ‘마늘 우량 종구(種球) 증식 센터’를 열었다. 마늘은 씨를 뿌리지 않고 종구(씨마늘)를 심어 기르는데, 좀 더 튼튼한 종구를 생산하는 곳이다. 군이 나서서 농기계도 빌려준다. 창녕군은 1대 1억원이 넘는 마늘 수확기 4대를 갖추고 있다. 창녕군 관계자는 “농촌이 갈수록 고령화되고 있어 자동화가 중요하다”고 했다.&lt;br&gt;&lt;br&gt;성낙인 창녕군수는 “마늘은 한국인의 ‘솔 푸드’”라며 “창녕 마늘의 경쟁력을 끌어올리고 다양한 판로를 개척하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>멀티탭 사고 급증… 피해 절반이 10세 미만</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/6NJKFKS2TJBFPMS4AWUB4LWFGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/6NJKFKS2TJBFPMS4AWUB4LWFGI/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>최근 5년간 멀티탭과 콘센트 등에서 발생한 안전사고가 387건에 달하는 것으로 나타났다. 매년 77건꼴이다. 특히 멀티탭 사고는 최근 5년간 3배 가까이 증가했다. 한국소비자원은 4일 ‘소비자 안전 주의보’를 발령했다. &lt;br&gt;&lt;br&gt;소비자원에 따르면, 최근 5년간(2020~2024년) 소비자원에 접수된 멀티탭·콘센트·플러그 관련 사고는 총 387건이었다. 화재, 감전 등 사고를 합친 것이다. &lt;br&gt;&lt;br&gt;콘센트 사고가 214건, 멀티탭 사고가 158건, 플러그 사고가 15건이었다. &lt;br&gt;&lt;br&gt;증가 추세는 멀티탭 사고가 가장 가팔랐다. 2020년 19건이었던 멀티탭 사고는 지난해 53건으로 5년간 2.8배가 됐다. 같은 기간 콘센트 사고는 56건에서 43건으로 줄었다. &lt;br&gt;&lt;br&gt;소방청 관계자는 “최근 의류 스타일러, 로봇 청소기 등 다양한 가전제품이 등장하면서 가정 내 전력 소비량이 증가하고 있다”며 “멀티탭에 문어발식으로 꽂아 쓰는 경우가 많아 화재 사고가 잇따르고 있다”고 했다. 최근 지구온난화 여파로 에어컨 사용량이 늘어나면서 멀티탭 화재가 잦다는 분석도 있다. 국립소방연구원 관계자는 “에어컨은 특히 전기를 많이 먹는다”며 “멀티탭을 쓰면 안 되고 반드시 벽면 콘센트에 꽂아 써야 한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 7월 부산시 기장군의 한 아파트에선 멀티탭 화재로 9·6세 자매가 숨졌다. 소방 당국은 “에어컨 주변 멀티탭에서 불이 시작된 것으로 보인다”고 밝혔다. &lt;br&gt;&lt;br&gt;사고 피해자 중 절반(48.1%)은 10세 미만 어린이였다. 소방청 관계자는 “어린이가 멀티탭을 만지지 못하게 관리해야 한다”고 했다. &lt;br&gt;&lt;br&gt;멀티탭을 쓸 때는 가전제품의 소비 전력을 확인해 멀티탭 용량을 넘지 않도록 해야 한다고 소방청은 조언했다. 멀티탭에 또 다른 멀티탭을 연결해 쓰는 것도 위험하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>당정 “지역의사법, 정기국회 내 처리”  의료계 “결국 의대 정원 조정이 핵심”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/05/M3JMIVQXABE6HAVJJH7AZKERLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/05/M3JMIVQXABE6HAVJJH7AZKERLQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>더불어민주당과 대통령실, 보건복지부가 4일 당정(黨政) 협의를 갖고 ‘지역의사법’을 올 정기국회 내 통과시키기로 방침을 잡으면서, 선발 규모에 관심이 쏠리고 있다. &lt;br&gt;&lt;br&gt;지역의사법은 지방 의대들이 별도의 입학 전형을 실시해 해당 지역에서 근무할 의사를 뽑도록 하는 내용이 골자다. 이를 통해 입학한 의대생은 입학금·수업료·교재비·기숙사비 등을 전액 지원받는 대신, 졸업 후 해당 지역 의료 기관에서 10년간 의무 근무를 해야 한다. 의무 근무를 하지 않으면 의사 면허가 취소된다. &lt;br&gt;&lt;br&gt;관건은 지방 의대들에 ‘지역 의사’ 의대생을 얼마나 선발할 수 있게 해주느냐다. 국내 의대 전체의 총정원을 유지한 채 각 의대별 정원 안에서 선발한다면, 일반 의대생 입학 정원이 줄어들기 때문이다. 이는 의대 준비생과 학부모의 반발로 이어질 수 있다. 일단 지역의사법에는 ‘정원의 일정 비율’에서 지역 의사 의대생을 선발토록 규정돼 있다. 정원 안에서 뽑게 하면서도, 구체적인 비율은 의료인 부족 규모 등을 고려해 따로 정하도록 했다.&lt;br&gt;&lt;br&gt;이 때문에 “결국 핵심은 법안 내용보다도 앞으로 정해질 의대 정원 조정 규모”라는 지적이 나온다. 지난해 정부는 3058명이던 의대 정원을 올해부터 5058명으로 2000명 늘렸지만, 의료계 반발에 내년도 의대 정원을 유지(5058명)하면서도 한시적으로 모집 인원(3123명)만 줄여놓은 상태다. 내후년(2027년) 의대 정원 규모는 의사인력 수급추계위원회(추계위)가 논의를 거쳐 늦어도 내년 초까지 결정하게 된다. 이 추계위의 결론에 따라 의대 정원은 물론, 지역 의사 규모도 최종 결정되는 것이다. &lt;br&gt;&lt;br&gt;의사 단체는 지역의사법에 대해 “실현 가능성이 부족하고 헌법상 직업 선택 자유를 침해한다”며 반발하고 있다. 김택우 대한의사협회 회장은 “(지역의사 도입은) 명확한 설계도도 없고, 사회적 합의도 없이 논의되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰의 이화영 술자리 회유 의혹… 법무부, 수원구치소 실태 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/UY5SRJXGY5E43EO5S4JRCRSN5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/UY5SRJXGY5E43EO5S4JRCRSN5E/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>법무부가 이화영 전 경기도 평화부지사가 제기한 ‘검찰의 술자리 회유 의혹’을 확인하기 위해 수원구치소에 대한 실태 조사를 벌이고 있는 것으로 4일 전해졌다. 정성호 장관 지시로, 수원구치소 교도관들의 불법이나 복무 규정 위반 행위 등이 없었는지 살펴보겠다는 것이다.&lt;br&gt;&lt;br&gt;이 전 부지사는 “검찰이 쌍방울그룹 대북 송금 사건에 이재명 대통령이 연루됐다는 진술을 확보하려고 조사실에서 술자리를 만들어 자신을 회유했다”고 주장했다. 당시 이 전 부지사는 구속돼 수원구치소에 수감돼 있었다. 이에 대해 검찰은 지난해 구치소 관계자 조사 및 출정 기록 등을 확인한 뒤, 이 전 부지사의 주장이 허위라고 결론 냈다. &lt;br&gt;&lt;br&gt;이 전 부지사는 쌍방울그룹 대북 송금 혐의로 구속 기소돼 징역 7년 8개월형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노만석 검찰총장 대행, 보완수사 폐지 공개 반대</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/4DBF7I4ZD5DKVILMR5J55PQVYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/4DBF7I4ZD5DKVILMR5J55PQVYI/</guid>
+      <dc:creator>유희곤 기자, 김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>노만석(대검찰청 차장) 검찰총장 직무대행이 “적법 절차를 통해 실체적 진실을 밝히는 것은 검찰의 권한이 아닌 의무”라고 말했다. 노 대행은 지난 3일 부산고검·지검을 격려 방문한 자리에서 “국민을 범죄로부터 지키기 위해 우리의 의무를 다하자”며 이같이 말했다고 대검이 4일 전했다. 노 대행은 본지 통화에서 “지금까지 검찰의 보완 수사로 국민의 억울함이 밝혀진 과거 사례가 많으니, 어떤 상황이 오든 흔들림 없이 일하자는 취지였다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 이날 국회 법제사법위 공청회에서 참여한 차진아 고려대 교수는 민주당의 ‘검찰청 폐지 후 공소청 신설’ 법안에 대해 “검찰총장은 헌법기관인 만큼 개헌 없이 검찰청을 공소청으로 바꾸는 것은 위헌”이라고 했다. 이에 민주당 소속 추미애 법사위원장은 “검찰총장은 행정기관의 장일 뿐”이라며 “법률로서 얼마든지 명칭을 바꿀 수 있다”고 했다. &lt;br&gt;&lt;br&gt;한편 대법원 법원행정처는 이날 민주당이 추진 중인 ‘특검법 개정안’ 중 특검 기소 사건의 재판 중계 조항에 대해 “국가의 안전보장 등을 해치고, 여론 재판 우려가 있다”고 했다. 특검이 다 못한 수사를 국가수사본부가 넘겨받아 기소 여부를 결정하는 조항도 “검사가 공소 제기를 하도록 하는 형사소송법과 충돌한다”고 했다. 진보 성향 시민단체인 참여연대도 이날 논평을 내고 민주당이 추진하는 내란 사건 전담 특별재판부에 대해 “신중할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>판사 출신 한학자 변호인, 민중기 특검 만나 논란</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/WZCQTS4AJVFMHFS64V546AZ6HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/WZCQTS4AJVFMHFS64V546AZ6HY/</guid>
+      <dc:creator>표태준 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
+      <content:encoded>민중기 특검이 ‘통일교 현안 청탁 의혹’과 관련해 한학자 통일교 총재에게 “오는 8일 나와 조사받으라”고 통보했다고 4일 밝혔다. 이런 가운데 한 총재가 유력 전관(前官) 변호사들로 구성된 변호인단을 꾸리고, 이 변호인들이 잇따라 특검 사무실을 방문한 사실이 알려져 논란이 일고 있다.&lt;br&gt;&lt;br&gt;한 총재 변호를 맡은 이혁(사법연수원 26기) 변호사는 지난달 말쯤 서울 광화문에 있는 김건희 여사 관련 사건을 수사하는 민중기 특검팀 사무실을 찾아 민(14기) 특검과 20여 분 면담했다고 한다. 이 변호사는 특검과 면담한 내용을 통일교 측에 알렸고, 통일교 측은 이를 기록해 문서로 보관하고 있는 것으로 전해졌다. 판사 출신의 이 변호사는 2009년 민 특검이 부산고법 부장판사로 근무할 때는 같은 재판부 배석을 맡았다.&lt;br&gt;&lt;br&gt;앞서 한 총재 변호를 맡은 오광수(18기) 변호사도 지난 2일 특검 사무실에서 박상진(29기) 특검보를 만난 것으로 알려져 논란이 일자, 이날 사임했다. 그는 이재명 대통령과 사법연수원 동기로, 지난 6월 민정수석으로 임명됐다가 ‘차명 재산 의혹’이 불거지자 닷새 만에 사퇴했다.&lt;br&gt;&lt;br&gt;변호인이 특검을 ‘방문 변론’ 하는 것이 위법은 아니지만 전관이 아니면 어려운 일이어서 특혜 시비를 부를 수 있다는 지적이 나온다. 이런 논란에 검찰은 2016년부터 방문 변론을 관리 대장에 남기고 있지만 특검은 별다른 기록을 남기지 않고 있다. 특검 측은 이날 “이 변호사가 다른 사건으로 특검 사무실을 방문했다가 나가는 길에 인사차 민 특검과 차담을 나눈 것은 맞지만, 사건 변론은 없었다”고 했다.&lt;br&gt;&lt;br&gt;한편 한 총재는 전날(3일) 건강 문제로 서울아산병원에 입원했으며, 아직 8일 출두 여부를 특검에 알리지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤윤수 미스토홀딩스 회장, 한국외대에 발전기금 10억원</title>
+      <link>https://www.chosun.com/national/people/2025/09/05/K6VU4E7OWRAU7MWDCH5KGF7ZZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/05/K6VU4E7OWRAU7MWDCH5KGF7ZZA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRWJK6O2YZCRXPSRMIAKHH37DQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 오전 한국외대 서울캠퍼스 총장실에서 윤윤수(왼쪽) 미스토홀딩스 회장과 박정운(오른쪽) 한국외대 총장이 기부 증서를 들고 있다./한국외대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국외국어대학교는 윤윤수(80) 미스토홀딩스 회장이 발전기금 10억원을 기부했다고 4일 밝혔다. 이번 기부금은 한국외대 인공지능(AI) 분야 교육·연구 역량 강화 등에 쓰일 예정이다. 한국외대 정치외교학과 66학번인 윤 회장의 모교 누적 기부액은 약 35억원이다. 이탈리아 신발 브랜드 ‘휠라’의 한국 지사장이던 윤 회장은 2007년 본사를 인수하며 ‘샐러리맨 신화’로 불린 인물이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상학 등 8명 ‘통일문화대상’</title>
+      <link>https://www.chosun.com/national/people/2025/09/05/UGPXD4ABVNCFHOQFERQMEPJJGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/05/UGPXD4ABVNCFHOQFERQMEPJJGQ/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGW7VFLLZRBBJDBBL2MRVMKUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 제18회 통일문화대상 수상자들이 기념사진을 찍고 있다. 앞줄 왼쪽부터 신예찬, 이호영, 윤정호, 이상학, 김주하, 박호진, 고재만, 이민석씨. /매일경제&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상학 KT&amp;amp;G 수석부사장이 4일 통일문화연구원과 매일경제가 주최하는 ‘제18회 통일문화대상’에서 경제 부문상을 받았다. 탈북 청년과 고려인을 위한 금융·문화·기술 교육과정을 만든 공로를 인정받았다. 문화 부문상은 이호영 한얼도예 대표, 언론 부문상은 윤정호 TV조선 본부장과 김주하 MBN 특임상무, 이민석 조선일보 사회부 기동팀장 등 총 8명이 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 강주옥 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/05/YIYT2K62A5HPNDNUMKORESRUJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/05/YIYT2K62A5HPNDNUMKORESRUJA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:51:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강주옥&lt;/b&gt; 별세, &lt;b&gt;강호창&lt;/b&gt; 엉터리 대표·&lt;b&gt;강미다&lt;/b&gt;·&lt;b&gt;강주정&lt;/b&gt;·&lt;b&gt;강혜원&lt;/b&gt; 부친상, &lt;b&gt;김형근&lt;/b&gt; SK에코플랜트 대표·&lt;b&gt;김정섭&lt;/b&gt; 장인상=3일17시7분 이대서울병원, 발인 6일5시30분, (02)6986-4440&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김태일&lt;/b&gt; 별세, &lt;b&gt;김은진&lt;/b&gt; 필봉초 교사·&lt;b&gt;김성경&lt;/b&gt; 서울자살예방센터 팀장·&lt;b&gt;김의준&lt;/b&gt; BnH세무법인 세무사 부친상=3일11시10분 경북 김천 태찬장례식장, 발인 5일6시, (054)435-6119&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송숙자&lt;/b&gt; 별세, &lt;b&gt;신범호&lt;/b&gt; 아내상, &lt;b&gt;신현숙&lt;/b&gt;·&lt;b&gt;신준봉&lt;/b&gt; 중앙일보 논설위원·&lt;b&gt;신지훈&lt;/b&gt; 서울아산병원 영상의학과 교수 모친상, &lt;b&gt;박덕순&lt;/b&gt; 장모상=3일20시30분 서울아산병원, 발인 6일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤재순&lt;/b&gt; 별세, &lt;b&gt;이우식&lt;/b&gt; 아내상, &lt;b&gt;이영주&lt;/b&gt;·&lt;b&gt;이연수&lt;/b&gt;·&lt;b&gt;이희수&lt;/b&gt;·&lt;b&gt;이준석&lt;/b&gt;·&lt;b&gt;이서윤&lt;/b&gt; 모친상, &lt;b&gt;정신&lt;/b&gt; 전남대병원장·&lt;b&gt;김재형&lt;/b&gt;·&lt;b&gt;송승주&lt;/b&gt; 장모상=3일10시 광주광역시 VIP장례타운, 발인 5일8시, (062)521-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;임구연&lt;/b&gt; 별세, &lt;b&gt;임순환&lt;/b&gt; 아내상, &lt;b&gt;임지선&lt;/b&gt;·&lt;b&gt;임가현&lt;/b&gt;·&lt;b&gt;임가희&lt;/b&gt; 모친상, &lt;b&gt;이한형&lt;/b&gt; 국민일보 사진부 기자 장모상=4일9시46분 대구 한패밀리병원, 발인 6일9시30분, (053)760-8800&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[우리 아이 튼튼하게] 하루 건너 고열 반복된다면 말라리아 증상일 수 있어요</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2025/09/05/BEE3OQW3KNDUPF52RZBPAG4KPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/09/05/BEE3OQW3KNDUPF52RZBPAG4KPY/</guid>
+      <dc:creator>백정현 우리아이들병원 병원장</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:50:00 +0000</pubDate>
+      <content:encoded>최근 질병관리청이 전국에 말라리아 경보를 내렸습니다. 말라리아는 말라리아 원충에 감염된 암컷 모기가 사람을 물 때 전파되는 병으로, 국내에선 주로 5~10월에 발생합니다. 대부분은 가볍게 지나가지만, 아이들이나 면역력이 약한 사람은 중증으로 진행될 수 있어 주의가 필요합니다. &lt;br&gt;&lt;br&gt;말라리아에 걸리면 고열, 오한, 두통, 근육통, 구토, 설사 같은 증상이 나타나는데, 특히 우리나라에서 흔한 삼일열 말라리아는 하루는 열이 나고, 다음 날은 괜찮다가, 또 그다음 날 열이 나는 독특한 패턴이 있습니다. 감기와 비슷해 그냥 넘길 수 있지만, 이런 증상이 반복되면 반드시 병원에 가야 합니다.&lt;br&gt;&lt;br&gt;말라리아는 일본뇌염처럼 백신이 없기 때문에 예방이 가장 중요합니다. 모기는 4월부터 10월 사이, 해가 진 뒤부터 새벽까지 활동이 가장 활발합니다. 따라서 이 시간대에는 외출을 피하는 것이 좋습니다. 어쩔 수 없이 밖에 나가야 한다면 집에 돌아와 샤워로 땀 냄새를 씻어내고, 옷은 어두운색보다 밝은색 긴소매와 긴바지를 입는 것이 모기를 피하는 데 도움이 됩니다.&lt;br&gt;&lt;br&gt;모기 기피제를 올바르게 사용하는 것도 중요합니다. 기피제에는 여러 성분이 있는데, 성분과 농도에 따라 사용 가능한 나이가 다르답니다. 기피제는 팔, 다리, 목 등 노출된 피부나 옷, 신발, 양말에 뿌리거나 얇게 발라 사용합니다. 얼굴에 바를 때는 어른이 손에 먼저 덜어 눈과 입 주위를 피해 발라주는 것이 안전합니다.&lt;br&gt;&lt;br&gt;기피제는 보통 한 번 바르면 4~5시간 동안 효과가 지속돼요. 하지만 필요 이상으로 자주 뿌리거나 장시간 사용하면 피부가 붉어지거나 알레르기 같은 부작용이 생길 수 있어 주의해야 합니다. 따라서 4시간 이내에 덧바르지 않는 것이 좋아요. 또 잠자리에 들기 전에는 방충망이 잘 닫혀 있는지 확인하고 모기장을 치는 습관을 들이면 더 안전합니다. 사소해 보이는 이런 습관이 사실은 아이들을 말라리아 같은 감염병에서 지켜주는 든든한 방법이 된답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 9월 5일</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/NWTX32TZ7RGCBBADRPV5KWYHZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/NWTX32TZ7RGCBBADRPV5KWYHZM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IG5UQNLUJCQZDA7YOXQYJ64HI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>설치 의무 없지만… 맘 놓고 일하도록 사내 어린이집 마련했죠</title>
+      <link>https://www.chosun.com/culture-life/culture_general/2025/09/05/C2XU34EE3FGC7B4IBPSK2KPEPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/culture-life/culture_general/2025/09/05/C2XU34EE3FGC7B4IBPSK2KPEPU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:50:00 +0000</pubDate>
+      <content:encoded>3일 서울 강남구 대치동 오뚜기 본사(오뚜기 센터) 건물 2층. 만 5세 아이들이 모여 있는 ‘별빛달빛 우주반’에서 “까르르” 하는 웃음소리가 들려왔다. 영어 원어민 선생님 재스민 라모스(30)씨가 영어로 아이 손에 있는 인형을 가리키며 영어로 “이건 뭐지? 이 예쁜 인형은 너희들과 닮았어!”(What is it? It’s a pretty doll. It looks like you guys!)라고 하자, 아이들은 “맞아요”(You’re right) “예뻐요”(Yes, It’s pretty)라며 맞장구를 쳤다. 라모스씨는 기자에게 “아이들이 아직 영어로 말하는 게 서툴지만, 내가 하는 말은 곧잘 이해한다”며 “나도 한국말을 할 줄 알아 아이들을 돌보는 데 전혀 문제가 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWYRZNJLXRHQLIST4KHU4TSYOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 대치동 오뚜기 센터 내 어린이집에서 아이들이 선생님과 ‘오(○), 엑스(×) 퀴즈 놀이’를 하고 있는 모습. 이 회사는 직원들의 출산·육아 지원을 위해 2018년 3월부터 직장 어린이집을 운영 중이다. /오뚜기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만 3~4세 아이들이 모인 ‘맑고고운 하늘반’ 안에 들어가 보니 아이들이 시장 놀이를 하느라 정신이 없었다. 손님 역할을 맡은 한 아이가 모형 감자를 가리키며 “이건 얼마예요?”라고 묻자, 상인 역할을 맡은 다른 아이는 “1000원”이라고 또박또박 대답했다. &lt;br&gt;&lt;br&gt;이곳은 오뚜기가 지난 2018년 3월부터 운영하고 있는 직장 어린이집이다. 430㎡(약 130평) 공간에서 현재 만 0~5세 아이 40명이 돌봄을 받고 있다. 유치원 과정도 통합돼 있어 초등학교 입학 전까지도 다닐 수 있다. 만 5세 아이는 현재 7명으로, 내년에는 초등학교에 입학한다. 곽정영(46) 원장은 “어린이집이 처음 문을 열었을 때 기어 다니면서 이유식을 먹던 친구들도 있는데, 지난 7년간 이들이 커 가는 과정을 다 지켜봤다”고 했다.&lt;br&gt;&lt;br&gt;원래 이곳은 법적으로 어린이집을 설치해야 하는 의무가 없는 곳이다. 현행 영유아보육법상 직장 어린이집을 의무적으로 설치해야 하는 기준은 상시 근로 직원이 500명 이상이거나 상시 여성 직원이 300명 이상인 경우다. 하지만 오뚜기 본사인 ‘오뚜기 센터’에는 직원 약 450명이 상주 근무하고, 직원 중 여성은 3분의 1쯤 된다. 그럼에도 오뚜기 측은 ‘아이를 낳고 기르는 게 회사 생활의 장애물이 돼선 안 된다’는 판단 아래 기존 사무실과 회의실 등이 있던 2층 공간을 어린이집으로 만들었다. 직장 어린이집을 통해 직원들이 마음 놓고 아이를 좀 더 편하게 키울 수 있도록 지원에 나선 것이다. &lt;br&gt;&lt;br&gt;직원들은 아침 일찍인 오전 7시 30분부터 퇴근 이후인 오후 7시 30분까지 아이를 맡길 수 있다. 어린이집 측은 “혹시라도 부모님들이 사무실에서 급한 일이 생겨 빨리 출근하거나 퇴근이 좀 늦어지더라도 큰 문제가 없는 편”이라고 했다. 또 아침을 챙겨 먹지 못하고 오는 아이들을 위해 영양죽 등을 아침 간식으로 제공한다. 부모 입장에선 아침 식사 준비 부담을 덜 수 있고, 아이들은 든든하고 건강한 아침으로 하루를 시작할 수 있다.&lt;br&gt;&lt;br&gt;교사 수도 적지 않다. 어린이집 원장을 제외하고 직접 아이를 돌보는 교사만 15명에 달한다. 예를 들어, 만 2세 이상~만 3세 미만 영아 대(對) 교사 법적 비율은 아이 7명당 교사 1명이다. 하지만 오뚜기에서는 아이 8명을 교사 2명이 돌본다. 특히 올해부터는 영어 원어민 교사까지 채용했다. 어린이집 장유선 교사는 “아이들이 원어민 선생님과 자연스럽게 어울리며 영어를 접하고 있고, 즐겁고 친근하게 외국어 경험을 쌓아가고 있다”며 “학부모들도 ‘아이들이 외국인을 만났을 때 조금씩 알아듣고 표현하는 경우가 늘고 있다’며 긍정적 반응을 보인다”고 했다. 이곳에선 연령별 코딩 교육과 하프·우쿨렐레와 같은 악기 교육 등 각종 특별활동도 제공하고 있다.&lt;br&gt;&lt;br&gt;어린이집을 이용하는 이비즈(e-biz) 사업부 김수현 팀장은 “넓은 공간, 좋은 시설 등 여러 장점이 있지만, 부모 입장에선 심리적 안정감을 가장 먼저 꼽고 싶다”며 “어린이집이 직장과 같은 공간에 있기 때문에 무슨 일이 생기면 언제든 달려갈 수 있다. 부담과 불안을 크게 덜 수 있다”고 했다. 교육팀 박진수 차장은 “사내 커플이라 어린이집을 다니는 딸까지 세 식구가 모두 차 하나로 집과 회사 건물을 오가고 있다”며 “같은 건물 안에 있다 보니 아이가 아빠·엄마가 어떤 회사에 다니고 어떻게 일하는지 자연스럽게 접하게 돼 가족끼리 공감대가 만들어졌다”고 했다. &lt;br&gt;&lt;br&gt;오뚜기는 일과 육아를 병행할 수 있게 근무시간도 다양화했다. 탄력 근무제와 시차 출퇴근 제도를 통해 30분 단위로 출근 시간을 조정할 수 있다. 지난해에는 288명의 임직원이 이를 활용했다고 한다. 특히 ‘반반차 제도’를 운영해 연차를 2시간 단위로 쓸 수 있게 했다. 만약 어린이집에서 아이가 갑자기 아플 경우, 반반차를 써서 아이를 데리고 인근 병원에서 진료를 본 뒤, 다시 어린이집에 맡길 수도 있다. 스마트워크센터 등 거점 오피스도 운영 중이다. &lt;br&gt;&lt;br&gt;자녀 출산을 격려하기 위해 아이를 낳으면 ‘오뚜기몰’에서 쓸 수 있는 마일리지도 70만원씩 지급한다. 지난해에만 37명이 아이를 낳아 총 2590만원의 마일리지를 지급했다. 회사 관계자는 “직장 어린이집은 단순한 보육 시설이 아닌, 임직원과 가족이 함께 성장하는 육아 공동체로 발전시키고 있다”며 “출산과 육아가 회사 생활의 장애물이 아니라 활력이 될 수 있도록 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 다시 수거하다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/09/05/IPZFLFYRKZH6FFQ7FSMYX3UAUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/05/IPZFLFYRKZH6FFQ7FSMYX3UAUM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOKOYONYNVAJDLT7AVN7J2GU4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 전작도록(全作圖錄)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/05/5G4ZXZK6KJBJLFFRJGLBEWPR44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/05/5G4ZXZK6KJBJLFFRJGLBEWPR44/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y27QTNADMJFZRE2GPRKROENSIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] one thing led to another</title>
+      <link>https://www.chosun.com/national/nie/english/2025/09/05/UPUP67SOLFCLDCHJRXKQKDSKLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/05/UPUP67SOLFCLDCHJRXKQKDSKLU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4OLPMXSRFD2RI3XVCVRMAKBDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2699] 제목 외우기</title>
+      <link>https://www.chosun.com/national/nie/2025/09/05/4NIEDTNPVNFKZL7XJZAYTWOAH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/05/4NIEDTNPVNFKZL7XJZAYTWOAH4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVCZBOFZ7BBZ5CUMZ726GLUT3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 코를 골다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/09/05/4EWTFZJWQ5DD3PXYNOVBVEEDAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/05/4EWTFZJWQ5DD3PXYNOVBVEEDAA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TOMCLCEIJVGEDALKQEMU2ENELI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대 모집 감소, 무전공 확대, 학폭 의무 반영… 올해도 변수 많다</title>
+      <link>https://www.chosun.com/national/education/2025/09/05/MBXWJA6KFJFA7O3DW6JZ3QQAKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/05/MBXWJA6KFJFA7O3DW6JZ3QQAKM/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72NC3GYM4NFEDOBHHLQURFHQCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 8일부터 2026학년도 대입 수시 모집 원서 접수가 시작된다. 의대 모집 정원 축소, 무전공 선발 확대, 학교 폭력 가해 사실 의무 반영 등 변수가 많기 때문에 지원하려는 대학의 모집 요강을 꼼꼼하게 확인해 지원 전략을 세워야 한다. 사진은 고려대 학생들과 유학생들이 교내를 함께 걷고 있는 모습. /고려대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 8일 2026학년도 대학 입시의 수시 모집 원서 접수가 시작된다. 한국대학교육협의회(대교협)에 따르면, 2026학년도 입시에서 전국 196개 대학이 전체 모집 인원 34만5179명 가운데 27만5848명(79.9%)을 수시 모집으로 뽑는다. 최근 5년 사이 수시 모집 인원 비율이 가장 높다. 2026학년도 수시 모집 인원은 지난해(27만1481명)보다 4000명 넘게 늘었고, 수시 선발 비율도 전년(79.6%) 대비 0.3%포인트 올랐다. &lt;br&gt;&lt;br&gt;수시 모집 원서 접수는 8일부터 12일까지 대학별로 최소 3일 이상 진행된다. 대학들은 9월 13일부터 12월 11일까지 수시 전형을 치르고, 12월 12일까지 합격자를 발표한다. 그사이 11월 13일(목)에 2026학년도 대학수학능력시험이 실시되며, 성적은 12월 5일 수험생들에게 통지된다. 수시 합격자들은 12월 15일부터 17일까지 등록한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGITLVQNGNFMFKPCUJZC6JNXAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학들은 통상 수시 모집에서는 ‘학생부’ 위주로, 정시 모집에선 ‘수능’ 성적을 위주로 학생을 선발한다. 2026학년도 수시 모집에서도 학생부 위주 전형 중심의 선발 기조를 유지한다. 전형 유형별 모집 인원(정원 내 기준)을 보면 내신 위주의 학생부 교과 전형이 15만5495명(56.4%)으로 가장 많다. 이어 학생부 종합 전형(29.5%), 실기(7.9%), 논술(4.6%), 재외국민 등 기타 전형(1.7%) 순이다. &lt;br&gt;&lt;br&gt;2026학년도에는 많은 대학이 모집 단위를 신설했다. 신설 학과 대부분은 AI(인공지능)·반도체·바이오 등 첨단 분야와 관련 있다. 주요 대학 중에선 연세대(진리자유학부, 모빌리티시스템 전공), 서강대(반도체공학과), 성균관대(배터리학과, 바이오신약·규제과학과), 중앙대(지능형반도체공학과)가 대표적이다. 서강대는 반도체공학과를 신설했고, 성균관대는 삼성SDI와 연계한 배터리학과와 바이오신약·규제과학과를 열었다. 산업계 수요와 직결된 첨단·계약 학과가 속속 등장하면서 자연·공학 계열 수험생들의 선택지가 넓어졌다. 올해는 학과 신설 외에도 모집 단위 개편·통합, 모집 단위명 변경 등이 적잖다. 모집 요강 확인 시 유의해야 한다.&lt;br&gt;&lt;br&gt;교육부의 ‘무전공(전공 자율 선택) 확대’ 방침에 따라 많은 대학이 자유전공학부를 신설하거나 계열·단과대 중심의 광역 모집을 확대하고 있다. 교육부가 제시한 무전공 선발 형태는 크게 ‘유형 1’과 ‘유형 2’로 나뉜다. 유형 1은 전공을 정하지 않고 입학 후 대학 내 모든 전공(보건의료·사범대학 등 제외)을 자유롭게 선택한다. 통상 자유전공학부가 이에 해당한다. ‘유형 2’는 계열 또는 단과대 단위로 입학한 뒤 추후 해당 계열·단과대 안에서 전공을 선택한다. 상위권이지만 원하는 학과에 가기엔 성적이 다소 부족한 수험생의 경우 유형 1로 지원할 수 있어 상위권 수험생들의 지원 전략에 큰 변수가 될 전망이다.&lt;br&gt;&lt;br&gt;2026학년도 수시 모집에서 의대 모집 인원 변동도 주요 변수다. 의학 계열(의대·치의대·한의대·수의대)에서 지난해보다 930여 명 줄어든 2115명을 선발한다. 이는 정시를 포함한 내년도 의대 모집 인원이 2024학년도 수준인 3058명으로 복귀한 데 따른 것이다. 전년도에 모집 인원이 크게 증가해 경쟁률이 소폭 하락했던 지방 소재 대학들은 올해 수험생 증가에 모집 인원 감소까지 더해져 경쟁률과 합격선이 상승할 전망이다. &lt;br&gt;&lt;br&gt;2026학년도부터는 모든 대학이 수시와 정시 전형에서 학교 폭력 가해 사실을 의무적으로 반영해야 한다. 이는 2023년 교육부가 발표한 학교 폭력 근절 종합 대책에 따른 조치로 2026학년도부터는 학생부교과·학생부종합·논술·실기 등 모든 전형에서 학교 폭력 조치 사항을 필수적으로 반영해야 한다. 특히 연세대·고려대·이화여대·한국외대 등 일부 대학은 학교 폭력 관련 조치가 있을 경우 전형 종류에 따라 지원 자체가 불가능하다. 가해 전력이 있다면 지원 자격 제한이나 서류·면접 평가 감점 등 불이익을 받을 수 있다. 일부 대학은 전년도에 선제적으로 반영하기도 했다. 지원 전 반드시 모집 요강을 확인해야 한다.&lt;br&gt;&lt;br&gt;이번 수시 모집에선 수능 최저 학력 기준에도 변화가 많다. 고려대·이화여대·한양대 등 주요 대학이 일부 전형에서 최저 기준을 신설하거나 완화했고, 연세대·건국대·서울시립대·서울여대 등 일부 대학은 특정 전형에서 아예 폐지했다. 수험생들은 대학별 최저 기준 충족 여부를 반드시 확인해야 한다.&lt;br&gt;&lt;br&gt;기회균형·지역균형 등 사회 통합 전형도 확대됐다. 전체 3만8200명을 선발해 지난해보다 776명 늘었다. 학령인구 감소에도 불구하고 사회적 배려 계층을 위한 입학 기회는 넓어진 셈이다.&lt;br&gt;&lt;br&gt;수험생들은 올해 수시 전형에서 하향 지원보다는 상향 또는 적정 지원을 선호할 것으로 예상됐다. 종로학원이 지난 7월 23~27일 수험생 1089명을 대상으로 실시한 설문조사에 따르면 응답자의 44.5%가 총 6차례 가능한 수시 지원 기회 중 하향 지원을 1곳도 하지 않겠다고 밝혔다. 이는 취업 시장 한파로 인해 이전보다 대학 간판을 중시하는 심리가 작용하고 있다는 분석이다. 한 입시 업계 관계자는 “수험생들은 대학의 명성과 경쟁력을 고려해 보다 높은 목표를 설정하고 지원하는 경향이 커지고 있다”며 “무전공 확대, 신설학과 등장, 수능 최저 기준 변화, 학교 폭력 반영 등 여러 변수를 충분히 고려해 신중한 지원 전략을 세우는 것이 중요하다”고 설명했다.&lt;br&gt;&lt;br&gt;대학별 모집 요강은 대입 정보 포털(www.adiga.kr)과 각 대학 홈페이지에서 확인할 수 있다. 각 시·도교육청의 홈페이지나 입시 설명회에서도 수험생에게 필요한 입시 정보를 얻을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘최서원 조카’ 장시호, 아파트 12층서 추락... 11층 난간 걸려 구조</title>
       <link>https://www.chosun.com/national/national_general/2025/09/04/4FHPC222BVBTNMNSCAFHIRAXBI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/4FHPC222BVBTNMNSCAFHIRAXBI/</guid>
@@ -608,28 +900,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P746DFYSAVGCJJAR4EGZMQXZN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 서산 한 중학교에서 남성 교사가 학생들에게 수개월간 성추행과 성희롱을 했다는 고소장이 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서산경찰서는 강제추행 혐의로 교사 A씨를 조사하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;일부 피해 학생의 학부모들은 “A씨가 학생들을 상대로 학기 초부터 과도한 신체 접촉을 하고 부적절한 언행을 반복했다”고 주장하며 지난달 말 A씨에 대한 고소장을 제출했다.&lt;br&gt;&lt;br&gt;학부모들은 학교에 이 같은 사실을 알리며 A 교사에 대한 즉각적인 분리 조치를 요구했다. &lt;br&gt;&lt;br&gt;이에 학교 측은 해당 교사를 분리 조치하고, 학교 홈페이지에 학교장 명의의 사과문을 올렸다.&lt;br&gt;&lt;br&gt;학교 측은 사과문을 통해 “해당 교사에 대해선 즉시 학생과의 완전한 분리 조치를 취했다”며 “교육청 및 수사기관과 협력해 피해자 보호와 2차 가해 방지를 위해 노력하고 철저한 진상 조사가 이뤄지도록 하겠다”는 입장을 밝혔다. 그러면서 재발 방지 대책 마련, 학생들의 심리 치료 지원도 약속했다.&lt;br&gt;&lt;br&gt;학교 측은 지난 3일 교사 A씨에 대해 직위해제 결정을 내린 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 충남교육청 관계자는 “사실관계 등 자세한 내용은 수사 중인 사안이라 구체적으로 확인해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘도시 열섬, 가로수로 해결하자’...제주서 나무포럼 열린다</title>
-      <link>https://www.chosun.com/national/regional/2025/09/04/UNPTDDTHF5AZDDIAUPLF3DQZ7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/UNPTDDTHF5AZDDIAUPLF3DQZ7M/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 00:24:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYDRVNYQEJDB7CPKDSTX3EUYAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가로수가 울창한 제주시 연동의 한 도로를 시민들이 걷고 있다. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가로수의 공익적 가치를 집중적으로 조명하는 포럼이 제주에서 열린다.&lt;br&gt;&lt;br&gt;4일 제주도에 따르면 ‘도시의 나무, 미래의 숲’을 주제로 가로수의 현재와 미래에 대해 심층적으로 분석하는 제2회 나무포럼이 5~6일 열린다.&lt;br&gt;&lt;br&gt;5일에는 1부 행사로 제주시 연동 제주썬호텔에서 기조강연과 함께 4개의 세션이 열린다.&lt;br&gt;&lt;br&gt;이창석 국립생태원장이 ‘도시 나무 이야기’를 주제로 기조강연을 한다. 이어 ‘가로수, 환경과 문화를 품다’ ‘기후위기 시대’ ‘가로수 관리 전략’ ‘도시계획과 가로수’ ‘시민과 함께 가꾸는 제주 가로수의 미래’ 등 4개 세션에 모두 12명의 전문가와 실무자들이 발표와 종합 토론을 진행한다.&lt;br&gt;&lt;br&gt;포럼에서 제기되는 전문가 조언과 시민들의 다양한 의견은 제주도가 수립 중인 ‘제주형 가로수 조성·관리 가이드라인’에 반영될 수 있다. 제주도는 지난달 관련 용역에 착수해 내년 1월 결과를 발표할 예정이다. 특히 폭염이 심해지고 있는 상황에서 가로수를 활용해 도시의 열섬현상을 완화하는 방안에 관심이 클 것으로 기대된다.&lt;br&gt;&lt;br&gt;포럼에서 ‘세미 맹그로브숲’에 대한 발표도 들을 수 있다. 맹그로브는 열대와 아열대 지역의 해안이나 강 하구의 염분이 많은 습지에서 자라는 식물을 말한다. 제주도는 탄소를 줄이기 위한 방안의 하나로 세미 맹그로브숲 조성사업을 자생지 주변 마을 주민과 함께 추진하고 있다.&lt;br&gt;&lt;br&gt;둘째 날인 6일에는 한라생태숲 광장에서 체험 프로그램이 마련된다. ‘식물치유 프로그램’에서는 로즈마리·세이지·오데코롱·레몬밤 등 다양한 허브 식물로 스머지 스틱이나 삽목 화분을 만든다. ‘곤충교실’에서는 제주지역에 서식하는 다양한 곤충을 관찰하고 이들의 생태적 특징을 배울 수 있다. ‘제주 가로수 보드게임’은 주요 가로수 38종이 그려진 그림 카드의 짝을 맞추는 게임이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한국인들 한걸음에 달려와”…체코서 사고 당한 여성 구한 이들의 정체</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/ZQJWIZFYSFCMHN5QXHRV7ZF6DM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/ZQJWIZFYSFCMHN5QXHRV7ZF6DM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 22:33:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXLXIAU3UJH3BJQGF2PJIWIV5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;체코 현지서 구조활동 벌이는 모범 소방대원들./소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체코 시내에서 사고를 당한 여성을 신속하게 구조한 한국인들의 모습이 공개됐다. 이들의 정체는 다름 아닌 모범 구조대원으로 선발돼 해외연수를 떠난 소방공무원들이었다.&lt;br&gt;&lt;br&gt;4일 소방청에 따르면 2025년 소방 모범 구조대원으로 꼽힌 소방공무원 22명은 지난달 25일부터 지난 2일까지 체코·슬로바키아에서 진행된 해외연수에 참여했다.&lt;br&gt;&lt;br&gt;이들은 연수 나흘째인 지난달 28일 오후 체코 브르노 시내에서 전동 휠체어를 타고 이동하던 중년 여성이 구조물에 걸려 크게 넘어지는 상황을 목격했다.&lt;br&gt;&lt;br&gt;사고가 난 여성은 우측 팔꿈치가 부러지고, 양 손바닥에 부상을 입은 상태였다. 바닥에 쓰러진 그는 충격으로 한동안 미동조차 하지 못했던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 상황을 목격한 소방공무원들은 주저 없이 현장으로 달려갔다. 교통을 통제해 2차 사고를 예방한 이들은 가지고 있던 약품과 드레싱 키트를 활용해 출혈 지혈 등 응급처치에 나섰다.&lt;br&gt;&lt;br&gt;이를 지켜보던 시민들이 “놀랄 만큼 질서정연하고 숙련된 대응이었다”고 말했다고 소방청은 전했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDBHCJLUIVBVXKPRXIJYBK2FOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 피해자./소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방공무원들은 구조된 여성에게 구급차 이송을 권유했으나 그는 “응급처치가 완벽하다”며 보호자 연락을 요청했다. 소방공무원들은 부상자를 보호자에게 인계한 뒤 숙소로 돌아왔다.&lt;br&gt;&lt;br&gt;이 여성은 며칠 뒤 자신의 근황과 함께 감사 인사를 이메일로 보냈다. 특히 그는 한국어로 번역된 메시지를 직접 작성해 “평생 잊을 수 없는 은혜를 입었다. 잊지 못할 선물을 받은 기분”이라고 전해왔다.&lt;br&gt;&lt;br&gt;당연히 해야 할 일을 했던 대원들은 뜻밖의 감사 인사에 감동한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7LAI4IGN5DVVO5AYKJXUDXFFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 피해자가 보낸 한국어 이메일./소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김재운 소방청 구조과장은 “국외 연수라는 낯선 환경에서도 소방대원들은 본능적으로 움직였고, 누구보다 빠르게 구조자의 곁으로 달려가 생명을 살리는 본연의 역할을 다했다”며 “이번 사례는 한국 소방의 전문성과 헌신, 그리고 시민 안전을 지키는 본분은 장소와 국경을 가리지 않는다는 점을 다시 한번 입증했다”고 말했다.&lt;br&gt;&lt;br&gt;한편 모범 구조대원 해외 연수는 선발된 대원들이 해외의 구조 체계를 직접 경험하고, 국내 현장 적용 가능성을 높이기 위해 추진되는 프로그램이다. 이번 체코·슬로바키아 연수 과정에서도 대원들은 현지 소방청과 구조센터를 방문해 재난 대응 시스템을 비교·분석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TWHHEYJ6RZG6LHCJGM2TZB4X4I.jpg?auth=7c64652cde81e1af62b6b6a841fd0df3eff14ed4ebe85a7b1684780ebddf5331&amp;smart=true&amp;width=396&amp;height=297" type="image/jpeg" height="297" width="396">
-        <media:description type="plain">체코 현지서 구조활동 벌이는 모범 소방대원들./소방청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>[관가 인사이드] 李 정부 여가부와 尹 정부 차관의 기이한 동거</title>
       <link>https://www.chosun.com/national/national_general/2025/09/04/YVHFM2UXXVCAVCGTJ77S6GUFFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/YVHFM2UXXVCAVCGTJ77S6GUFFQ/</guid>
@@ -655,24 +925,6 @@
       </media:content>
     </item>
     <item>
-      <title>[알립니다] ‘아이가 행복’ 시즌 8 축제에 초대합니다</title>
-      <link>https://www.chosun.com/special/announcement/2025/09/04/FHCBAEQCC5DMBGPKSAARTOVFC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/09/04/FHCBAEQCC5DMBGPKSAARTOVFC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NROVUZT2JZESXEIHURR7GUWOKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;'아이가 행복입니다' 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;저출생 문제를 극복하고 행복한 대한민국을 만들기 위한 ‘아이가 행복입니다’ 시즌 8 행사가 오는 19~20일 서울 잠실 롯데월드타워월드파크 잔디 광장에서 열립니다.&lt;br&gt;&lt;br&gt;이 행사는 조선일보가 주최하고 저출산고령사회위원회·교육부·보건복지부·여성가족부·서울시 등이 후원합니다. 이틀 동안 행사장 무대에선 핑크퐁·브레드이발소 등의 인기 캐릭터가 나오는 공연과 판타스틱버블쇼 등이 열리고, 행사장 곳곳에 ‘K-POP 댄스 스테이지’ ‘우리 가족 신문 만들기’ ‘놀이로 배우는 어린이 경제 교육’ 등과 같은 프로그램이 마련됩니다.&lt;br&gt;&lt;br&gt;특히 행사 첫날에는 본지와 대한상공회의소가 공동 주최하는 ‘아이가 행복입니다 AWARDS’ 시상식(출산 장려·돌봄 지원·환경 조성 부문)이 열릴 예정입니다. 사회 각 분야에서 저출생 극복에 기여한 기업·기관·단체가 대상입니다. 또 독자들을 대상으로 진행한 ‘31초 우리 가족 행복 담기 공모전’ 결과도 공개합니다. &lt;br&gt;&lt;br&gt;▲일시·장소: 9월 19일(금)~20일(토) 서울 송파구 롯데월드타워 월드파크 잔디 광장&lt;br&gt;&lt;br&gt;▲문의·안내: 홈페이지 &lt;a href="http://www.behappykorea.kr/" rel=""&gt;www.behappykorea.kr&lt;/a&gt;, 운영사무국 1551-3159&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인테리어 갈등에… 칼 휘두른 피자가게 점주</title>
-      <link>https://www.chosun.com/national/incident/2025/09/04/2XR7GKVLBBHF5I3B4TH3LMM5DI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/04/2XR7GKVLBBHF5I3B4TH3LMM5DI/</guid>
-      <dc:creator>강지은 기자, 김도연 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4J5BYWFHW5PT5FR3R3R5GKPW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 관악구 조원동  칼부림 사건 현장에서 과학수사대가 현장조사를 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 피자 가게에서 칼부림이 벌어져 세 명이 사망하는 사고가 3일 발생했다. 이번 사건은 가맹점주와 본사 간 갈등에서 비롯된 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 등에 따르면, 이날 오전 10시 57분 관악구 조원동(옛 신림8동)의 한 피자 가게 안에 4명이 흉기에 찔려 쓰러져 있다는 내용의 신고가 접수됐다. 피의자는 피자 가게 사장인 40대 A씨로, 피해자들을 칼로 찌른 뒤 자해했다고 한다. 피해자들은 복부에 중상을 입고 인근 병원으로 이송됐으나 모두 숨졌고, A씨도 흉기로 목숨을 끊으려다 중상을 입었다. &lt;br&gt;&lt;br&gt;사망한 피해자 3명(남 2, 여 1) 중 남성 1명은 피자 프랜차이즈 본사 임원, 나머지 2명은 부녀 관계로 모두 인테리어 업자였다. 프랜차이즈 가맹점주인 A씨는 매장 보수 공사를 두고 본사와 갈등이 있었던 것으로 알려졌다. A씨와 가족들은 “본사가 지정한 업체를 통해 인테리어를 한 지 2년도 지나지 않아 누수가 생기고 타일도 깨졌는데 본사에서는 보수를 안 해주겠다고 했다”며 “또 적자가 날 게 뻔한 1인 세트 메뉴를 만들라고 본사가 강요했다”고 주장했다. 본사 측은 갑질은 없었다는 입장이다.&lt;br&gt;&lt;br&gt;이 프랜차이즈 업체는 창업 점주들에게 교육비로 300만원, 주방 장비 집기류로 2300만~2800만원 등을 받고 있었다. 조명, 타일, 바닥, 전기 공사 등 인테리어 비용은 별도로 받고 있는 것으로 파악됐다. 대형 프랜차이즈 업체들은 가맹점 인테리어 공사를 본사에서 지정한 인테리어 업체에서 하도록 한다. 이 외에도 감리비·기획 관리비 등 명목으로 돈을 받는 경우도 많다. &lt;br&gt;&lt;br&gt;최근 프랜차이즈 업계에서는 차액 가맹금(마진)을 두고 본사와 가맹점 간 분쟁이 잇달아 일어나고 있다. 프랜차이즈 본부는 필수 품목(가맹점이 본부에서 꼭 사야 하는 원·부재료)을 팔아 이윤을 남긴다. 그런데 본부가 과도한 차액 가맹금을 받아낸다며 가맹점들이 반발하는 경우가 늘고 있다. 한국프랜차이즈산업협회에 따르면 유명 프랜차이즈 브랜드 17곳에서 가맹점주 2491명이 차액 가맹금 소송을 진행 중이다.&lt;br&gt;&lt;br&gt;한편 A씨는 이날 병원에서 경찰에 범행을 인정한 것으로 전해졌다. A씨는 주방에 있는 흉기로 범행한 것으로 파악됐다. 경찰 관계자는 “피의자 퇴원이 가능할 때 체포할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희, 샤넬백 받고 “정부 차원서 통일교 돕고자 노력”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/04/RPKQBULOXVBYPNCX2CCFUPSKJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/RPKQBULOXVBYPNCX2CCFUPSKJ4/</guid>
@@ -691,15 +943,6 @@
       <content:encoded>민중기 특검팀은 김건희 여사와 맺은 친분을 내세워 대기업과 금융사에서 184억원의 ‘특혜성 투자’를 받았다는 의혹을 받는 조영탁 대표 등 IMS모빌리티 관계자 3명에 대해 구속 영장을 청구했으나 3일 기각됐다. 영장을 심사한 서울중앙지법 재판부는 “구속 필요성이나 도주, 증거인멸 우려에 대한 소명이 부족하다”며 이들 영장을 기각했다.&lt;br&gt;&lt;br&gt;이 사건은 김 여사 측근인 김예성씨가 IMS 설립에 관여하고 지분을 가진 사실이 알려지면서 특검 수사 대상에 올랐다. 특검은 기업들이 김씨를 통해 김 여사 측에 청탁할 목적으로 IMS에 특혜성 투자를 했는지 확인 중이다. 이 때문에 특검은 이 사건을 ‘김건희 집사 게이트’라고 불러왔다. &lt;br&gt;&lt;br&gt;하지만 아직 김 여사와의 연관성은 드러나지 않고 있다. 특검은 조 대표 등에 대해 구속 영장을 청구하면서 투자금을 자회사 부실을 메우거나 개인 채무를 갚는 데 쓴 혐의(배임·횡령)를 적용했다. 특혜성 투자 의혹과 별개의 개인 비리였다.&lt;br&gt;&lt;br&gt;특검은 앞서 지난달 29일 김예성씨를 구속 기소할 때도 김 여사 관련 의혹은 밝히지 못한 채 우선 IMS 자금 횡령 건으로 처리했다. 법조계 일각에선 “‘집사 게이트’를 밝히겠다고 수사를 진행하고 있지만, 지금까지 결과는 기업인들의 개인 범죄 수준”이라며 “이러면 별건 수사라는 논란이 불거질 것”이라는 말이 나왔다. 지난 7월에는 이 의혹을 확인하려고 IMS 등에 대한 압수 수색 영장을 청구했다가 한 차례 기각된 적도 있었다.&lt;br&gt;&lt;br&gt;7월 초 특검이 가장 먼저 강제 수사에 들어간 ‘삼부토건 주가조작 의혹’도 김 여사와의 관련성을 찾지 못하고 있다. 도이치모터스 주가조작 때 김 여사 계좌를 관리했던 이종호 전 블랙펄인베스트 대표가 삼부토건 주가조작을 미리 알았다는 의혹이 제기돼 수사는 시작됐지만 이 전 대표를 변호사법 위반 혐의로, 이일준 삼부토건 회장 등을 주가조작 혐의로 구속 기소했을 뿐이다. 김 여사 개입 여부는 드러난 게 없는 셈이다.&lt;br&gt;&lt;br&gt;한편, 한학자 통일교 총재 변호인단에 합류한 오광수 전 대통령실 민정수석이 전날(2일) 변호인 신분으로 박상진 특검보를 만나 사건 관련 이야기를 나눈 것으로 전해졌다. 이재명 대통령과 사법연수원 18기 동기인 오 변호사는 지난 6월 8일 민정수석으로 임명됐다가 ‘차명 재산 의혹’이 불거지자 닷새 만에 사퇴했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한화오션 거제조선소 외국인 감독관 추락사</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/62Y2YT3EDJGIPB4FS5KRNIL7MM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/62Y2YT3EDJGIPB4FS5KRNIL7MM/</guid>
-      <dc:creator>거제=김주영 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>경남 거제시 한화오션 조선소에서 건조 중이던 선박의 구조물이 무너져 30대 선주사 감독관이 숨졌다. &lt;br&gt;&lt;br&gt;창원해양경찰서 등에 따르면, 3일 오전 11시 56분쯤 건조 중이던 브라질 페트로브라스79 선박의 선미(船尾) 덱이 갑자기 무너져 내렸다. 이 사고로 브라질의 선주 회사에서 온 30대 감독관 A씨가 바다로 추락해 숨졌다. 당시 A씨 등은 선미 덱에서 윈치(무거운 물체를 끌어올리는 장치)의 하중 테스트를 하고 있었다. 해경 관계자는 “무게를 이기지 못한 덱이 휘면서 A씨가 약 10m 아래 해상으로 추락한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;한화오션 측은 “모든 작업을 즉시 중단하고 사고 원인을 조사하고 있다”며 “추가적인 안전 조치를 시행하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;한편, 이날 서울 성동구의 아파트 건설 현장에선 근로자가 추락해 숨지는 사고가 발생했다. 소방 당국에 따르면, 이날 오전 9시 45분쯤 성동구 용답동 GS건설 아파트 공사 현장에서 50대 중국인 근로자 B씨가 추락해 숨졌다. 당시 B씨는 15층에 거푸집을 설치하던 중 추락한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;고용노동부와 경찰은 중대재해처벌법 등 위반 여부와 구체적인 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;허윤홍 GS건설 대표는 이날 사과문을 내고 “참담하고 부끄러운 심정으로 이번 사고의 책임을 통감한다”며 “사고 현장의 모든 공정을 즉시 중단하고, 전 현장에 대한 전사적 특별 점검을 시행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>원민경 “차별금지법·비동의 간음죄 필요하다”</title>
       <link>https://www.chosun.com/national/education/2025/09/04/5I27X66XQRHAJOAPNLTBQ4GWLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/04/5I27X66XQRHAJOAPNLTBQ4GWLE/</guid>
@@ -713,33 +956,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘총상 사망’ 육군 대위 유서에 괴롭힘 등 호소</title>
-      <link>https://www.chosun.com/national/2025/09/04/UEKJDVMUINFEVBXF6LL5A6Q6QU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/04/UEKJDVMUINFEVBXF6LL5A6Q6QU/</guid>
-      <dc:creator>안동=권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>대구 수성못에서 숨진 채 발견된 육군 대위가 부대에서 괴롭힘을 당했다는 내용의 유서를 남긴 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경북경찰청 등에 따르면, 지난 2일 오전 대구 수성구 수성못 근처에서 육군 A 대위가 숨진 채 발견됐다. 머리에 총상을 입은 상태였다.&lt;br&gt;&lt;br&gt;A 대위는 사복 차림이었으며 현장에는 훈련용 K2 소총과 유서가 있었다. 경찰은 “타살 흔적은 없었다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유서는 군 당국과 부모, 기자들을 상대로 썼다”며 “직장 내 괴롭힘과 가혹 행위를 당했다는 내용이 담겨 있어 정확한 사실관계를 조사하고 있다”고 했다. &lt;br&gt;&lt;br&gt;A 대위는 경북 영천에 있는 육군 3사관학교에서 훈육 장교로 근무했다. 1일 밤 K2 소총과 실탄을 갖고 부대에서 약 50㎞ 떨어진 대구 도심 수성못까지 이동한 것으로 파악됐다. 그 과정에서 어떤 제재도 받지 않았던 것으로 조사됐다. 이 때문에 군의 총기·실탄 관리에 구멍이 뚫렸다는 지적이 나왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 첫 ‘대학생 천원매점’ 가천대·평택대서 문 열어</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/04/6VHZQFLHIZH7FCJYMUNDHY2724/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/04/6VHZQFLHIZH7FCJYMUNDHY2724/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>경기도가 학생들 생활비 부담을 덜어주기 위해 추진한 ‘1000원 매점’이 3일 가천대와 평택대에 문을 열었다. 경기도는 올해 두 대학에서 시범 운영을 해본 뒤, 도내 다른 대학으로 사업을 확대할 계획이다. 전국 대학 중 ‘1000원의 아침 밥’ 사업을 하는 곳은 많지만 ‘1000원 매점’을 운영하는 건 처음이다.&lt;br&gt;&lt;br&gt;1000원 매점은 컵라면과 즉석밥, 참치캔, 샴푸, 치약, 칫솔 등 30여 가지를 판다. 상품 4개를 묶어 1000원에 판매한다. 경기도 관계자는 “학생들을 대상으로 설문조사를 해 제일 필요한 품목을 정했다”며 “시중가 대비 최고 90% 싸게 살 수 있다”고 했다.&lt;br&gt;&lt;br&gt;운영은 해당 대학 학생회가 하고, 비용은 NH농협은행 경기본부가 낸 기부금 3억원으로 조달한다. 경기도는 기부자를 구해 와 학생회와 연결해주는 역할을 한다. &lt;br&gt;&lt;br&gt;사업을 추진한 사람은 김동연 경기도지사다. 김 지사는 2015~2017년 아주대 총장을 지냈다. 그는 이날 가천대 1000원 매점에서 ‘1일 점원’으로 일했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손도끼 협박범, 5조원대 도박단… 필리핀서 붙잡힌 한국 범죄자 49명 송환</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/O2VXCY2VW5ADXLYSYJ7OGZKIZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/O2VXCY2VW5ADXLYSYJ7OGZKIZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MDG7WMJNC5GN7GLWK2RQYCCQUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필리핀으로 도피했다가 현지에서 붙잡힌 한국 범죄자 49명이 3일 인천국제공항 제1터미널을 통해 송환되고 있다. 범죄 피의자 해외 송환 사례 중 역대 최대 규모다. 이들 중 보이스피싱 등 사기 피의자가 25명으로 가장 많았고, 사이버 범죄와 강력 범죄 피의자가 각각 17명, 3명이었다. 지난해 필리핀 세부에서 손도끼로 한국인 관광객을 협박해 현금 1000만원을 뜯어낸 2인조 강도, 2018년부터 5조3000억원 규모의 온라인 불법 도박 사이트를 운영한 범죄 조직원, 기업 자금 200억원을 횡령하고 16년간 해외 도피한 중소기업 대표 등이 이날 송환됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특검 “추경호, 계엄 사전 인지 가능성 배제못해”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/04/QAQ2BFMJCRCU3DUN5PAAZ4AMUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/QAQ2BFMJCRCU3DUN5PAAZ4AMUY/</guid>
@@ -749,15 +965,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZX64WARBZN27FHOY2VAE45K4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추경호 국민의힘 의원이 3일 서울 여의도 국회에서 열린 긴급 의원총회에 참석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특검은 12·3 비상계엄 당시 국민의힘 원내대표를 맡았던 추경호 의원이 윤석열 전 대통령의 계엄 선포 계획을 사전에 인지했을 가능성을 수사 중이다. 특검은 지난 2일 추 의원을 내란 중요 임무 종사 혐의 피의자로 특정하고 압수 수색을 벌였다.&lt;br&gt;&lt;br&gt;특검 관계자는 3일 브리핑에서 “특검은 (윤 전 대통령 등의) 비상계엄 관련 논의가 지난해 3월부터 진행된 것으로 보고 있다”며 “추 의원은 지난해 5월 국민의힘 원내대표에 취임해 (비상계엄을) 사전에 인지했을 가능성도 배제할 수 없다”고 했다. 이 관계자는 “작년 9월 김용현 전 국방부 장관의 인사 청문회에서도 비상계엄 관련 질문이 오갔기 때문에 (추 의원이) 사전에 분위기를 감지했을 가능성도 없지 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령 공소장을 보면, 윤 전 대통령은 작년 3~4월쯤 서울 삼청동 안가(安家)에서 신원식 당시 국방 장관, 조태용 국정원장, 김용현 경호처장 등과 함께 식사하면서 ‘비상대권’을 처음 언급했다. 이후 그해 9월 김 처장이 국방 장관에 취임하면서 본격적인 계엄 준비가 이뤄진 것으로 특검은 보고 있다. &lt;br&gt;&lt;br&gt;특검은 이런 상황에서 작년 5월 국민의힘 원내대표에 취임한 추 의원이 윤 전 대통령 등과 수시로 소통하면서 계엄 계획을 사전에 알았을 가능성을 의심하고 있다. 추 의원이 계엄 실행을 돕기 위해, 계엄 선포 직후 국민의힘 의원총회 장소를 네 차례 바꿔가며 국회의 계엄 해제 표결을 고의로 방해했을 가능성이 있다는 것이다. 추 의원은 “특검이 구체적인 증거 제시도 없이 ‘가능성을 배제할 수 없다’는 말잔치로 정치 공작을 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>자택·시신 기부하고 떠난 ‘노블레스 오블리주’</title>
-      <link>https://www.chosun.com/national/people/2025/09/04/6PJOGNTPDBER7GHYLOQHMYDMD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/04/6PJOGNTPDBER7GHYLOQHMYDMD4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5AQWC6USFFU3GVYES7O5XMV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 신영오 연세대 생명시스템대학 명예교수./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고(故) 신영오 연세대 생명시스템대학 명예교수가 전 재산을 연세대에 기부하고 본인 시신을 의대 해부 실습용으로 기증한 사실이 3일 뒤늦게 알려졌다. 연세대는 “삶의 마지막까지 노블레스 오블리주(사회 지도층이 책임을 다하는 것)를 실천하셨다”고 이날 밝혔다.&lt;br&gt;&lt;br&gt;연세대에 따르면 신 교수는 지난달 22일 85세로 별세했다. 그는 평생을 살아온 연세대 인근 염리동 집과 부지를 연세대와 대한성서공회에 신탁 기부했다. 처음 기부 의사를 밝혔던 2015년 70억원으로 추정되던 부동산은 현재 200억원대로 오른 것으로 전해졌다. 연세대는 이번 기부로 거처가 없어진 신 교수 부인에겐 교내 기숙사인 ‘에비슨하우스’를 평생 제공하기로 했다.&lt;br&gt;&lt;br&gt;신 교수는 생전 부인과 함께 시신 기증 서약을 했다. 자녀들에겐 “이 사실을 외부에 알리지 말라”고 당부했다. 이 때문에 지인들조차 부고장에 적힌 장지 ‘연세대학교’를 본 뒤에야 신 교수가 시신 기증을 하기로 했다는 사실을 알게 됐다고 한다. 신 교수 시신은 연세대 의대 실습이 끝난 뒤 화장해 다른 가족들이 묻힌 경기 남양주시 영락교회공원묘원에 묻을 예정이다. 고인의 딸 신애선 서울대 의과대학 교수는 본지 통화에서 “의학을 연구하는 자녀들을 보며 아버지는 생전 본인 시신이 교육이나 연구에 사용되길 바라셨다”고 했다. 이어 “실향민이었던 아버지는 ‘친척도 땅도 모두 이북에 두고 왔다’며 재산이나 장지에는 큰 관심을 두지 않으셨다”며 “자녀들에게도 ‘너희에게 물려줄 재산은 없다’고 평생 말씀하셨다”고 했다. &lt;br&gt;&lt;br&gt;1939년생인 고인은 1961년 연세대 화학과를 졸업한 뒤 미국으로 건너가 매사추세츠 주립대와 미시간 주립대에서 토양학 석박사 학위를 받았다. 1973년 귀국해 연세대 이과대학 조교수로 부임했다. 국내 토양 분류 체계를 새로 확립하고 30여 편의 학술 논문을 발표하는 등 토양학 발전에 공헌했다. 1975년부터 5년간 연세유업의 전신인 농업개발원 원장을 맡아 낙후된 국내 낙농 현장에 우유 보급의 기틀을 마련했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“통신사 선조들처럼… 평화·이해의 여정 함께할래요”</title>
       <link>https://www.chosun.com/national/people/2025/09/04/GX6YSPU33VHIPCIBGLNZG4DGGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/04/GX6YSPU33VHIPCIBGLNZG4DGGI/</guid>
@@ -765,215 +972,6 @@
       <description/>
       <pubDate>Wed, 03 Sep 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OMPA4SIFVBORPKP7QBCQUGEZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 일본 시가현 히코네시에 있는 사찰 소안지(宗安寺)에서 다케우치 신도 주지 스님이 ‘청년 신(新)조선통신사’ 한국 대원들에게 사찰 역사를 설명하고 있다. 소안지는 조선통신사가 에도(도쿄)로 향하던 길목에 머물렀던 곳이다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“전국시대 때 일본을 통일한 영웅으로만 생각했던 도요토미 히데요시가 한국사에선 국토를 유린하고 민중을 학살한 침략자라는 점이 정말 낯설었습니다. 한·일 대화를 통해 서로를 더 잘 이해할 수 있겠지요.”&lt;br&gt;&lt;br&gt;지난달 28일 일본 오사카 긴키대 히가시오사카 캠퍼스에서 한·일 대학생 청년들이 만났다. 이 대학 한국어학과 재학생 야마노 나나(21)씨는 한국에서 온 학생들에게 “한국 아이돌 그룹 ‘NCT’가 너무 좋아 한국어를 배우다가 양국 역사 서술 차이에 충격을 받아 한양대 사학과에서 한국 근현대사까지 배운 경험이 있다”며 “서로를 이해하려면 서로를 배워야 한다”고 했다.&lt;br&gt;&lt;br&gt;야마노씨를 비롯한 이 대학 한국어학과 재학생 15명은 이날 조선일보·외교부가 공동 주최한 ‘청년 신(新)조선통신사’ 한국 대원 16명을 만났다. ‘청년 신(新)조선통신사’는 올해로 8회째를 맞이했다. 이들은 17~19세기 조선통신사의 발자취를 따라 8박 9일간 일본 열도를 탐방하고 지난 2일 돌아왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVOELSLY5RDJVKZTQXSEJCDTNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 일본 오사카(大阪) 긴키대(近畿大) 히가시오사카 캠퍼스에서 열린 한·일 청년 교류회. 긴키대 한국어학과 재학생 15명과 조선일보·외교부가 공동 주최한 ‘청년 신(新)조선통신사’ 한국 대원 16명이 모여 세븐틴·트와이스·NCT·BTS 등 자신이 좋아하는 K팝 아이돌 이야기를 나누며 교류하고 있다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통신사는 조선 시대 국왕이 일본 막부에 파견한 외교 사절단이다. 임진왜란 직후에는 ‘탐적사(探賊使·도둑을 살핀다)’로 불렸지만, 이후 ‘통신사(通信使·뜻을 전하고 믿음으로 통한다)’로 명칭이 바뀌었다. 갈등을 넘어 화해와 교류를 지향하는 양국의 의지가 반영된 변화였다. 1607년부터 1811년까지 12차례 파견된 통신사는 실제 약 200년간 양국의 평화적 공존을 이끌었다. 통신사가 머문 곳마다 일본 학자와 백성이 성리학을 배우려 모여들었고, 문화 교류가 활발했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B22VNWLMNJHYHNJN7LWBBDT7OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 27일 일본 히로시마현 구레시 시모카마가리(下蒲刈)에 있는 조선통신사역사관에서 ‘청년 신(新)조선통신사’ 탐방단 학생들이 17~19세기 조선통신사의 사행 경로가 표시된 지도를 살펴보고 있다. 시모카마가리는 조선통신사가 에도로 향하던 길목에서 가장 성대한 접대를 받았던 곳 가운데 하나다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신 조선통신사 대원들이 찾은 일본에서도 평화를 위한 역사 속 노력의 흔적이 곳곳에 남아 있었다. 교토·히코네·시즈오카의 절 주지 스님들은 통신사가 남긴 글과 그림을 보물처럼 간직하다가 청년 대원들에게 직접 꺼내 보여줬다. 교토의 불교 사찰 지쇼인(知勝院)에 보존된 병풍에는 수행 문인들이 양국의 우호를 기원하며 지은 시문과 사군자 그림이 담겨 있었다. 고려대 대학원생 유제원(25)씨는 “책으로만 접했던 필담과 유물을 실제로 보니 벅찼다”며 “말이 통하지 않았던 시대에 필담으로 마음을 잇고자 했던 노력의 흔적이 느껴진다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFMFQDXY4NGEXD2NJTDGWB36LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 일본 교토 지쇼인(知勝院)에서 히사야마 류쇼 주지 스님이 ‘청년 신(新)조선통신사’ 대학생 탐방단에게 병풍에 남아 있는 조선통신사의 글과 그림을 설명하고 있다. 당시 조선과 일본의 문인들은 서로 한시를 주고받으며 뜻을 나눴다. /구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년 통신사 대원들은 양국 역사의 비극적 현장도 찾았다. 1895년 청·일 전쟁을 끝내고 조선의 운명을 바꿔놓은 시모노세키조약 체결지를 찾은 뒤 임진왜란 때 희생된 조선·명나라 사람들의 귀와 코가 묻힌 교토 미미즈카(耳塚·귀무덤)도 찾았다. 히로시마에선 원폭 평화기념관을 찾아 핵 참상의 흔적을 둘러보고, 인근 한국인 희생자 위령비에 헌화하며 추모도 했다. 전남대 일어일문학과 재학생 안세민(26)씨는 “히로시마에서 만난 주민들이 세대 차이에도 따뜻하게 맞아줘 인상 깊었다”며 “앞으로 한·일 관계도 외교의 틀을 넘어 민간 차원의 친근한 교류가 중요하다고 느꼈다”고 했다. &lt;br&gt;&lt;br&gt;청년 대원들을 인솔한 손승철 강원대 명예교수는 “9차 통신사로 일본으로 건너간 조선 선비 신유한과 일본 유학자 아메노모리 호슈가 함께 눈물을 흘리며 우정을 나눴듯, 오늘의 만남도 끝이 아니라 시작”이라며 “오늘을 출발점으로 삼아 진정한 청년 통신사가 되길 바란다”고 했다. 김정해(23·국민대 경영학부)씨는 “탐적사로 시작해 통신사로 나아갔던 선조들처럼 불신을 넘어 이해로 향하는 여정에 작은 보탬이 되고 싶다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/254G27DQFBFEJN42K26MY37ZFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 일본 시즈오카현 세이켄지(清見寺)에서 후시미 고사쿠(81) 문화해설사가 ‘청년 신(新)조선통신사’ 탐방단에게 사찰과 조선통신사의 인연을 설명하고 있다. 후시미 해설사는 “도쿠가와 이에야스 시대에 일본이 조선에 큰 피해를 끼쳤지만, 그 후 평화를 회복하기 위해 많은 노력이 이어졌고, 그 흔적이 지금까지 유산으로 남아 있다”고 했다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김영일 前 연합통신 사장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/09/04/HB4PHOOYNRGFBNAOBYENG52CUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/04/HB4PHOOYNRGFBNAOBYENG52CUQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김영일&lt;/b&gt; 前 연합통신 사장 별세, &lt;b&gt;한애영&lt;/b&gt; 남편상, &lt;b&gt;김수정&lt;/b&gt;∙&lt;b&gt;김성은&lt;/b&gt; 부친상, &lt;b&gt;김시준&lt;/b&gt; 장인상=2일17시20분 신촌세브란스병원, 발인 5일5시20분, (02)2227-7500 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;신승삼&lt;/b&gt; 별세, &lt;b&gt;김혜경 &lt;/b&gt;남편상, &lt;b&gt;신대원&lt;/b&gt; 헤럴드경제 외교안보팀장∙&lt;b&gt;신대근&lt;/b&gt; 부친상, &lt;b&gt;황진우&lt;/b&gt; 아르카아이앤씨 이사∙&lt;b&gt;나현미&lt;/b&gt; 시부상, &lt;b&gt;신효린&lt;/b&gt; 조부상=2일13시28분 인천 부평세림병원, 발인 5일6시30분, (032)523-8844&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[플라자] 한국여성기자협회 ‘제3회 한일여성기자포럼’ 개최 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/09/04/MBKUUNYSAZAXZHTCHHX67VA6ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/04/MBKUUNYSAZAXZHTCHHX67VA6ZM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲한국여성기자협회(회장 하임숙)는 5일 서울 한국프레스센터에서 ‘한·일 공공·기업·미디어의 성별 다양성’을 주제로 ‘제3회 한일여성기자포럼’을 개최한다고 밝혔다. 한일 여성 기자들이 현안을 함께 논의하고 발전 방향을 모색하는 자리다. 양국 여성 기자와 전문가 100여 명이 참석한다.&lt;br&gt;&lt;br&gt;▲대한적십자사 서울지사 여성봉사특별자문위원회(위원장 허연호)는 12일 서울 마장동 적십자사 서울지사에서 창립 70주년 기념식을 열고 향후 전개할 인도주의 사업 발전 방안을 논의할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이상한 교수 산학협력정책학회장</title>
-      <link>https://www.chosun.com/national/people/2025/09/04/QUBIU64N7JGKFAWKUCF5EALDHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/04/QUBIU64N7JGKFAWKUCF5EALDHA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>이상한 순천향대 융합창업학부장이 한국산학협력정책학회 제5기 회장에 취임했다. 임기는 이달부터 2026년 12월까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속의 한국사] 가뭄은 국가 위기… 왕은 ‘내 잘못’이라며 반찬도 줄여</title>
-      <link>https://www.chosun.com/national/nie/2025/09/04/WEZEWWTXJVHIFBH2ZJZTFXOMAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/04/WEZEWWTXJVHIFBH2ZJZTFXOMAY/</guid>
-      <dc:creator>이한 작가·'한잔 술에 담긴 조선’ 저자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>최근 극심한 가뭄에 시달리는 강원도 강릉시에 국가 재난 사태가 선포됐습니다. 계속되는 가뭄에 강릉시에서 비가 오길 기원하는 기우제를 지내 눈길을 끌기도 했지요.&lt;br&gt;&lt;br&gt;먼 옛날 인류는 석기시대 때부터 물 가까운 곳에 삶의 터전을 잡았습니다. 이후 농사를 짓고 가축을 키우면서 물은 더욱 중요해졌습니다. 그렇기에 사람들은 가뭄이 드는 경우 ‘비를 내려 달라’는 의식을 치르기도 했는데, 이것을 기우제라고 합니다. 그렇다면 기우제는 언제부터 시작됐고, 과거의 모습은 어땠을까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EV447GLHVFCTZOG2TLXER627IE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;①지난달 강원 강릉시 강릉향교에서 유림과 시민들이 해갈을 기원하는 기우제를 지내고 있는 모습. ②서울 종로구에 있는 동관왕묘(동묘) 내부에 있는 관우상. 과거 관우는 나라를 지켜주는 수호신처럼 여겨졌기 때문에 관왕묘에서도 기우제가 행해졌어요. ③경복궁 경회루 전경. 가뭄 땐 이곳에서 기우제를 지내기도 했죠. ④조선 시대에 그려진 운룡도(작가 미상). 과거 용은 비를 내릴 수 있는 신성한 존재로 여겨졌어요. 그래서 용을 그리거나 용에게 제사를 지내며 비가 오길 빌었습니다. /연합뉴스·국가유산청·국립중앙박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;가뭄 들면 왕 내쫓기도 했죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;아주 먼 옛날부터 사람들은 비를 내리게 하기 위해 갖은 주술을 시행했습니다. 먼 옛날 중국에서는 ‘포무’라는 의식이 있었습니다. 무당을 뜨거운 햇빛 아래 두는 것인데, 이렇게 하면 하늘이 그를 불쌍히 여겨 비를 내려준다고 믿은 것이지요. 가뭄이 정치 때문이라고 믿기도 했습니다. ‘삼국지’ 위서 동이전에서는 부여에 가뭄이 들면 왕을 죽이거나 쫓아낸다는 이야기가 있는데, 어쩌면 이것이 우리나라에서 가장 오래된 기우제의 한 형태였을지도 모릅니다.&lt;br&gt;&lt;br&gt;삼국 시대에도 사람들은 가뭄이 들 때마다 여러 방법으로 기우제를 치렀습니다. 삼국사기에 기록된 가장 오래된 기우제는 백제 법왕 2년(600) 봄 가뭄에 기우제를 지낸 겁니다. 신라에서도 진평왕 50년(628)에 용의 그림을 그려 비를 빌었습니다. 그러나 실제로는 기록된 것보다 훨씬 전부터 기우제를 지냈을 겁니다.&lt;br&gt;&lt;br&gt;유교의 나라 조선에서도 주술적 성격의 기우제가 남아있었습니다. 용의 모습을 그리기도 했고, 흙이나 짚으로 용의 모양을 빚었습니다. 왜 그랬을까요? 신성한 동물인 용이 비를 내리는 권능을 갖고 있다고 믿었기 때문입니다. 그래서 제사를 지내 용을 달래거나, 때로는 위협하기도 했습니다. 당시 호랑이는 용과 상극인 동물로 믿어졌는데, 호랑이의 목을 잘라 용이 산다고 믿은 강에 던져 용신을 위협하는 방법도 썼답니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;비 올 때까지 계속 기우제 지내&lt;/b&gt;&lt;br&gt;&lt;br&gt;과거엔 가뭄의 가장 큰 책임은 왕에게 있었습니다. 조선 시대의 왕들은 가뭄이 들면 “내가 덕이 부족하기 때문”이라고 말했고, 원래 일하던 집무실(정전)을 옮기거나 심지어는 반찬 가짓수를 줄이기도 했어요. 태종을 비롯해 세종, 폭군 연산군, 그리고 조선의 마지막을 장식한 고종과 순종마저도 가뭄이 들면 감선(반찬을 줄임)했습니다. 특히 성종은 감선을 너무 심하게 해 신하들이 말렸지만 뜻을 굽히지 않았지요.&lt;br&gt;&lt;br&gt;기우제는 왕들이 직접 나서 지내기도 했답니다. 누구한테 비를 빌었을까요? 기우제의 대상은 용 말고도 곳곳의 산과 강, 바다의 신 등 다양했습니다. 제사를 지내는 장소도 가지각색이었지요. 삼각산, 목멱산(남산), 한강 등등 지낼 곳은 다 지냈고 전쟁 때 많은 사람이 전사한 곳에도 제사를 지내곤 했어요. 각 지역의 지방관들도 기우제를 지냈습니다. 각 지역에 있는 산과 강, 그리고 그곳에 머물고 있다고 믿어진 신령들에게 비를 내려달라고 빌었지요.&lt;br&gt;&lt;br&gt;기우제는 5번, 6번, 심지어 10번이 넘게 계속됐습니다. 비가 올 때까지 계속 치러진 것이지요. 이때 제물을 바치는 것과 함께 기우제문을 지었는데, 어느 때는 용신을 야단치기도 했고, 달래기도 했습니다. 왕은 자신의 부족함을 탓하며 하늘에 빌었습니다. “스스로 임금답지 못함을 알고 있으니, 역사에 부끄러움이 많습니다. 백성들은 죄가 없으니, 잘못은 실로 내게 있습니다.” 조선 왕조에서 가장 훌륭한 임금 중 한 명으로 평가받는 정조의 기우제문 중 일부입니다.&lt;br&gt;&lt;br&gt;농경 사회에서 가뭄은 심각한 국가 위기 상황이었죠. 이 때문에 가뭄은 국정 운영을 바꾸기도 했습니다. 왕은 가뭄이 심해지면 구언(求言)을 하곤 했습니다. 신하들의 의견을 구한다는 뜻인데, “비가 오지 않는 것은 정치가 잘못된 탓이니 거침없이 말해다오!”라는 겁니다. 원래 왕에게 직언하는 것은 목숨을 걸어야 하는 일이었지만, 이처럼 가뭄 때문에 시행되는 구언에는 신하가 어떤 말을 하더라도 왕은 처벌하거나 화를 내면 안 되었습니다. 가뭄의 도의적인 책임을 져야 했기 때문입니다.&lt;br&gt;&lt;br&gt;옛날에도 저수지와 보를 만드는 등 가뭄 대비를 했지만, 농사에 필요한 물의 절대적인 양은 하늘에 기댈 수밖에 없었습니다. 씨앗을 심는 중요한 시기에 가뭄이 들면 아예 그해 농사를 망치는 일도 벌어졌지요. 기우제엔 그만큼 간절하고 절박한 마음이 담겨 있었던 것입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;비가 오지 않아도 위안 되기도&lt;/b&gt;&lt;br&gt;&lt;br&gt;마침내 비가 내리면 사람들은 기뻐하며 안도의 한숨을 쉬었습니다. 왕과 관리들은 비를 내려준 신령에게 감사 제사를 올렸는데, 다시 가뭄이 올까 두려워서이기도 했습니다. &lt;br&gt;&lt;br&gt;사실 인간이 어떤 정치를 하든 날씨와 기후는 인간 뜻대로 되지 않습니다. 옛사람들도 이를 몰랐던 것은 아니었습니다. 그럼에도 기우제를 지낸 것은 누군가 책임을 지고 백성의 고통을 달래야 한다는 생각 때문도 있었습니다.&lt;br&gt;&lt;br&gt;조선 시대에 가뭄과 관련된 전설 가운데 가장 유명한 것은 태종과 관련된 이야기입니다. 태종은 젊어서 권력을 얻기 위해 이복동생과 처남들까지 죽인 냉혹한 군주로 알려졌습니다. 그런데 임종을 앞두고 혹독한 가뭄이 들자 “내가 비를 내리게 하겠다”는 말을 남기고 세상을 떠났다고 합니다. 이후 태종의 기일이면 비가 온다며 이것을 ‘태종우(太宗雨)’라 불렀습니다. 실제로 태종이 그런 말을 했는지, 또 그날마다 비가 왔는지는 알 수 없습니다. 그러나 조선 사람들은 오래도록 태종우를 믿었고, 심지어 이순신 장군의 ‘난중일기’에도 기록될 만큼 널리 회자되었습니다.&lt;br&gt;&lt;br&gt;기우제를 통해 왕과 백성들은 가뭄이라는 고통 앞에서 힘을 합쳤고, 희생을 감수했으며 나라는 하나가 되어 환란을 헤쳐나갈 수 있었습니다. 비록 당장 일이 해결되지 않아도, 사람들은 위안을 얻을 수 있었던 것이지요. 그것이 현재까지도 기우제가 계속되는 이유입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] 깊은 바다에선 제트기처럼 빠르게… 해안가에선 속도 줄며 거대한 파도 돼요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/04/O4JE7QF63BDV7B7SR2UDEZEE2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/04/O4JE7QF63BDV7B7SR2UDEZEE2I/</guid>
-      <dc:creator>이미선 기상청장</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>지난 7월, 러시아 캄차카반도 근처 해저에서 규모 8.8의 엄청난 지진이 발생했어요. 20세기 이후 전 세계에 발생한 지진 중 규모가 여섯째로 큰 지진이었죠. 이 지진은 해저를 뒤흔들어 거대한 지진해일까지 발생시켰습니다. 흔히 ‘쓰나미’라는 표현을 많이 사용하는데, 우리말로 지진해일이라고 한답니다. 캄차카반도와 가까운 쿠릴열도에서는 약 5~7m 높이의 지진해일이 관측됐고, 멀리 태평양 한가운데 하와이까지 영향을 받아 약 1.7m 높이의 지진해일이 관측되기도 했어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6M2AXFNCWJDKFJVRSRDFCL7DHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2011년 동일본 대지진 당시 이와테현 미야코시의 해안가를 덮친 지진해일의 모습. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지진해일은 우리가 흔히 보는 일반적인 파도와 무엇이 다를까요? 둘은 겉모습은 비슷해 보이지만, 생성 원리와 구조가 완전히 다르답니다. 일반적인 파도는 주로 바람에 의해 해수면 근처의 얕은 층이 흔들리는 현상이에요. 바람이 수면 위를 지나가는 과정에서 물이 요동쳐서 만들어지는 것이죠. 반면 지진해일은 해저에서 발생한 충격으로 바닷속 깊은 곳부터 해수면까지&lt;b&gt; &lt;/b&gt;바닷물이 거대한 덩어리째로 이동하는 현상입니다.&lt;br&gt;&lt;br&gt;지진해일을 일으키는 가장 흔한 원인은 해저에서 발생하는 지진이에요. 지구를 둘러싸고 있는 지각은 여러 개의 판으로 구성되어서 서로 움직이고 부딪치면서 지진을 발생시키는데요. 해저에서도 이 땅덩어리들이 충돌하면서 바닷물을 밀어내거나 끌어당기면서 지진해일이 생겨납니다. 2004년 인도네시아 지진과 2011년 동일본 대지진 때 발생한 지진해일이 대표적인 사례죠. 또 해저화산이 폭발할 때 지진해일이 발생하기도 합니다. &lt;br&gt;&lt;br&gt;지진해일은 깊은 바다에서는 속도가 시속 500~800km에 달해요. 마치 제트기와 같이 빠르게 이동하지만, 파도의 높이가 낮아서 거의 눈에 띄지 않아요. 하지만 이 파도가 수심이 얕은 해안가로 다가오면, 속도가 급격히 느려지는 대신 가지고 있는 에너지를 보존하기 위해 높이가 뚜렷하게 높아집니다. 깊은 바다는 고속도로처럼 넓고 깊으니 물결(차)이 빠르게 달리고, 해안가는 골목길처럼 좁아서 속도가 줄어든다고 생각하면 쉬워요.&lt;b&gt; &lt;/b&gt;결국 바다에서 넓게 퍼져 있던 물이 좁은 해안가로 몰리면서, 그 에너지가 한곳에 모여 거대한 벽 같은 파도가 되어 육지를 덮치게 되는 것입니다.&lt;br&gt;&lt;br&gt;기상청은 한반도에 영향을 줄 수 있는 큰 규모의 지진이 발생하면, 이에 맞춰 재난 문자, TV 방송을 통해 경보를 발령하고 있어요. 만약 지진해일 경보를 듣는다면 당황하지 않는 것이 가장 중요해요. 먼저 해안가에 있을 땐 바다에서 최대한 멀리 떨어지고, 높은 언덕이나 건물 위로 빠르게 이동해야 해요. 피할 시간이 없다면, 철근 콘크리트로 된 3층 이상의 건물로 올라가야 해요. 파도가 지나갔다고 해서 안심하지 말고 경보가 해제될 때까지 높은 곳에 머물러야 합니다.&lt;br&gt;&lt;br&gt;바다 위 배에 있을 때엔 항구로 돌아오지 말고, 더 깊고 넓은 바다로 나가야 해요. 깊은 바다에서는 지진해일의 파도 높이가 낮아져서 비교적 안전하거든요. 지진해일은 분명 무서운 자연현상이지만, 미리 대비하면 안전을 지킬 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야하는 고전] 머리에 못 박힌 괴물의 이름은 ‘프랑켄슈타인’이 아니랍니다</title>
-      <link>https://www.chosun.com/national/nie/2025/09/04/NO6SDAGZVNDDLCWMRZZU5343OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/04/NO6SDAGZVNDDLCWMRZZU5343OE/</guid>
-      <dc:creator>이진혁 출판 편집자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G63237SLXNEAVLUCC6NEKXX37U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;프랑켄슈타인&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;메리 셸리 지음｜김선형 옮김｜문학동네｜가격 1만1000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;마음을 나눌 사람이 없거나, 아무도 내 진짜 모습을 알아주지 않는다는 생각에 슬퍼질 때가 있죠. 만약 세상에 단 한 명이라도 나를 이해해줄 이가 있다면 얼마나 좋을까요? 오늘 소개할 책 ‘프랑켄슈타인’은 바로 그 ‘단 한 명’을 간절히 원한 한 존재의 슬프고도 무서운 이야기입니다.&lt;br&gt;&lt;br&gt;많은 사람이 놀랄 사실이 하나 있습니다. 우리가 흔히 영화나 만화에서 보는, 머리에 나사못이 박힌 괴물의 이름은 사실 프랑켄슈타인이 아닙니다. ‘빅토르 프랑켄슈타인’은 그를 만든 과학자의 이름이고 정작 괴물은 이름조차 얻지 못하고 버려졌어요. 이는 모든 비극의 시작이기도 합니다.&lt;br&gt;&lt;br&gt;젊은 과학자 빅토르는 생명의 비밀을 밝히려는 야망을 가진 인물입니다. 연구 끝에 그는 여러 시체의 조각을 이어 붙여 새로운 생명을 창조해내지요. 하지만 막상 괴물의 흉측한 모습에 경악한 그는 자신이 만든 피조물을 버리고 도망쳐버립니다. 피조물은 자신의 끔찍한 외모 때문에 인간들에게 혐오와 폭력의 대상이 되고 말지요.&lt;br&gt;&lt;br&gt;하지만 그는 단순한 괴물이 아니었습니다. 숲속에 숨어 지내며 오두막집에 사는 한 가족의 따뜻한 모습을 엿보고, 그들처럼 사랑하고 사랑받기를 간절히 꿈꿉니다. 스스로 글을 깨쳐 책을 읽으며 깊이 사유하는 존재로 성장해요. 그리고 마침내 용기를 내 사람들에게 다가가지만, 돌아오는 것은 비명과 돌팔매질뿐이었습니다. 깊은 절망에 빠진 괴물은 자신을 창조한 빅토르를 찾아가 울부짖습니다. “나는 선했고, 내 영혼은 사랑과 박애로 빛났다. 하지만 나는 외롭지 않은가? 참담하게 고독하지 않은가?”&lt;br&gt;&lt;br&gt;그가 원한 것은 거창한 게 아니었습니다. 자신을 이해해줄 단 한 명의 동반자를 만들어달라는 것이었죠. 하지만 빅토르는 그 요구가 더 큰 재앙을 부를까 두려워 끝내 거절합니다. 마지막 희망마저 짓밟힌 피조물은 빅토르의 가족과 친구를 살해하는 끔찍한 복수극을 벌입니다.&lt;br&gt;&lt;br&gt;이 책은 생명을 창조하고도 책임을 지지 않아 벌어지는 섬뜩한 공포를 알려줍니다. 그래서 ‘프랑켄슈타인’은 ‘인류 최초의 과학소설(SF)’이라는 문학사적 의미를 갖습니다. 이 소설은 1818년 발표됐는데, 저자가 200년 전부터 과학기술의 발전에 대한 경고를 보낸 셈이죠. 시대를 앞서간 이 기이한 이야기는 후대 예술가들에게 영감을 주며 영화 ‘터미네이터’ ‘블레이드 러너’ 같은 작품에 영향을 미쳤습니다.&lt;br&gt;&lt;br&gt;피조물은 태어날 때부터 악하지 않았습니다. 그는 “내가 아담이 돼야 하는데, 오히려 타락한 천사가 됐다”고 탄식합니다. 어쩌면 진짜 괴물은 흉측한 외모 때문에 그를 소외시킨 인간들일지도 모릅니다. 이야기의 마지막, 북극의 황량한 얼음 위에서 증오와 복수의 여정은 끝이 납니다. 창조주의 시신 앞에서 홀로 남게 된 피조물은 통곡하며 마지막 말을 남깁니다. “나는 철저히 혼자다.” 이 책은 우리 안의 인간다움이 무엇인지 돌아보게 하는 거울과도 같은 작품입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 9월 4일</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/GHI4EO6PBVE35EPOWGCUZB52N4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/GHI4EO6PBVE35EPOWGCUZB52N4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVALTTZ27FCYHNL2VUQQGJQOKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 병 내부 닦을 땐 달걀 껍데기</title>
-      <link>https://www.chosun.com/culture-life/living/2025/09/04/X73KU2ZXU5APRA6WNRSDHZYXV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2025/09/04/X73KU2ZXU5APRA6WNRSDHZYXV4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQTQZVPX6BFORISYLCH7GXHANE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입구가 작은 병을 씻을 때는 달걀 껍질을 잘게 부숴 물과 함께 넣고 흔들어보자. 부서진 껍질의 거친 면이 수세미 역할을 해 구석구석 때를 벗겨낸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 파초선(芭蕉扇)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/04/REV6VRD2FNFQTL22VL7NST223Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/04/REV6VRD2FNFQTL22VL7NST223Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYN7A5YDWJHXREYNU3TKEWZW24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 잠꼬대를 하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/09/04/ZGL7C42KTBEFFPGIXCSQZARRAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/04/ZGL7C42KTBEFFPGIXCSQZARRAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YET4CDMBZE2VNHUOSVQVG5ELU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 일손을 돕다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/09/04/TYWASI4HZZEZNAPUEGDHAWRMCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/04/TYWASI4HZZEZNAPUEGDHAWRMCE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JBKDMDGEVAKDCDNXSQ2FDALGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2698] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2025/09/04/7ELYD4N2WNA4XAPAUKO3C3S75E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/04/7ELYD4N2WNA4XAPAUKO3C3S75E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVPZR6CXHVFQDGVLIBLFPTM5JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] be blown away</title>
-      <link>https://www.chosun.com/national/nie/english/2025/09/04/K2HR377D25FQVGTTKA43PZMCXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/04/K2HR377D25FQVGTTKA43PZMCXU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZSIV4VV5VFJFPJQWVZYMRRJVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>안미현 검사, 임은정 공개 비판 “대통령을 검사에게 속은 바보로 만들어”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/PMSAJEDCZFGSPNOPPLGUHAMCGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/PMSAJEDCZFGSPNOPPLGUHAMCGM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 14:13:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOEPRXBWXOYNLXJBFYLMNWLI6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원랜드 채용비리 수사와 관련한 외압 의혹을 폭로했던 안미현 검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 검찰 인사를 공개 비판하고 검찰의 보완수사권을 없애야 한다고 주장한 임은정 동부지검장(사법연수원 30기)을 향한 동료 검사들의 공개 비판이 이어지고 있다. &lt;br&gt;&lt;br&gt;2018년 강원랜드 수사 외압 의혹을 폭로했던 안미현 서울중앙지검 검사(사법연수원 41기)는 3일 검찰 내부망(이프로스)에 글을 올려 “어떻게 현직 검사, 그것도 ‘검사장’께서 대통령의 인사에 대해 공개적으로 비난을 할 수 있냐”며 “대통령을 검사들에게 속은 바보로 만들었다”고 했다. &lt;br&gt;&lt;br&gt;임 지검장이 보완수사권 폐지를 주장하고 있는 것에 대해서는 “지난 몇 년을 검사로서의 본업은 부업처럼 하고, 본업을 인플루언서로 살았다고 해도 수사의 개념조차 모르면 어떡하냐”며 “송치된 구속 사건에 있어서 검찰의 보완수사가 남용된 사례가 있느냐”고 했다. &lt;br&gt;&lt;br&gt;안 검사는 “임 검사장님께서 말씀하시는 바대로 된다면, 그것은 검찰 개혁이 아니라 형사 사법 체계의 붕괴”라며 “검찰 개혁이라는 정치적 레토릭만 외치지 마시고, 검사장으로서 서울동부지검의 사건과 조직을 챙겨보시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;이어 “검사장이 된 후 정치적 중립성을 저버린 채 팬들의 목소리에 갇혀 향후 국회의원, 법무부 장관, 공소청장 자리를 꿈꾸고 계시는 것이냐”며 “계속 검사장의 역할이 아닌 ‘검사 장의사’의 역할만 하려고 한다면 ‘사법 붕괴 5적’에 윤석열 전 대통령과 나란히 임은정이라는 이름을 올릴 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FHRGIJ3MIOTNCKXKFCTYPKOOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지방검찰청 검사장. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 지난달 29일 국회 의원회관에서 촛불행동 등 주최로 열린 ‘검찰개혁의 쟁점은 무엇인가’ 검찰개혁 긴급 공청회에 토론자로 참석해 “(정성호 법무부 장관의 검찰개혁안은) 검사장 자리 늘리기 수준인 것 같아서 참담한 심정”이라며 “정성호 장관조차도 검찰에 장악돼 있다”고 발언해 논란이 됐다. &lt;br&gt;&lt;br&gt;임 검사장은 또 최근 검찰 고위 간부 등 인사가 ‘참사(慘事)’라며 봉욱 대통령실 민정수석, 이진수 법무부 차관, 성상헌 검찰국장, 김수홍 검찰과장, 노만석 대검 차장(검찰총장 직무대행)을 ‘검찰 개혁 5적’이라고 불렀다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국 최초 ‘1000원 매점’, 가천대·평택대서 문 열어...수백명 장사진</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/03/S2GPTLHP5ZBDDAPTT6F5SV7BNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/03/S2GPTLHP5ZBDDAPTT6F5SV7BNU/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 13:19:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQT5WCSSLVNYNPPBJ7I62EB6NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 경기 성남시 수정구 가천대학교 글로벌캠퍼스에 개소한 '대학생 천원매점'에서 학생들이 생필품을 구매하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“(이렇게 사면)두 끼 쯤은 되겠네요. 1000원만 주시면 됩니다. 제일 싸죠?”&lt;br&gt;&lt;br&gt;3일 오전 10시 경기 성남 가천대 글로벌캠퍼스 건물 1층에 400여명이 줄을 섰다. 이날 처음으로 문을 연 ‘경기도 대학생 1000원 매점’을 이용하기 위한 학생들이 장사진을 이룬 것이다. 매점은 2층인데, 꼬리를 무는 줄이 1층까지 이어졌다.&lt;br&gt;&lt;br&gt;이날 가천대를 찾은 김동연 경기도지사가 ‘1일 점원’이 됐다. 김 지사는 매대에서 스캐너를 들었다. 그는 손님이 골라온 레토르트(특수 포장된 완성 식품) 갈비탕, 볶음밥, 컵라면 등 상품 바코드를 스캐너로 일일이 찍은 후, 단돈 1000원을 건네받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4OTBW3QQ5MCXBSVHNAR5EAAFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 경기도 성남시 가천대학교에서 열린 '천원 매점' 개소식에서 김동연 경기도지사가 학생들이 구입한 물건을 계산하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 가천대·평택대에서 ‘1000원 매점’을 시범 운영한다고 밝혔다. 생필품과 먹거리 등으로 구성된 물품 꾸러미를 1000원에 이용할 수 있는 매점이다. 고물가로 어려움을 겪는 대학생들의 생활비 부담을 덜어주기 위해 경기도가 고안한 정책이다. ’1000원의 아침밥’은 이미 전국 곳곳서 유행이지만, 1000원 매점은 전국 최초다.&lt;br&gt;&lt;br&gt;학생들은 매점에 구비된 약 30여가지의 상품 중 자신이 필요한 물건 4가지를 골라 담고 1000원만 내면 된다. 경기도 관계자는 “사전 선호도 조사를 거쳐 즉석밥, 참치캔, 컵라면 등 먹거리와 샴푸, 클렌징폼, 치약, 칫솔 등 생필품 등을 준비했다”며 “시중가 대비 90% 저렴하게 구매할 수 있다”고 했다. 재학생 인증 후 매점에 입장할 수 있다. 각 학교는 창고를 포함한 약 20평 정도의 공간을 교내에 마련해 매점으로 만들었다.&lt;br&gt;&lt;br&gt;김민성(23) 가천대 학생 대표는 “학생 입장에선 1000원으로 두 끼를 해결할 수 있어서 큰 도움이 된다”며 “팍팍한 대학생의 주머니 사정 속 하나의 숨구멍이 될 수 있는 정책”이라고 했다. 이날 약 500명이 몰리면서 일부 물건은 동이 나기도 했다.&lt;br&gt;&lt;br&gt;정책 아이디어는 대학생들의 식비 부담 문제 해결 방안을 논의하는 과정에서 나왔다. “1000원 밥상에 이어 1000원 매점을 운영하자”는 도민 의견에 대해, 2015~2017년 아주대 총장을 지낸 김 지사도 크게 공감했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOJNH73F3RMP5CXSANPJWBD3LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 3일 경기도 성남시 가천대학교에 개점한 '천원 매점'에서 학생들이 입장을 위해 줄을 서 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사업 예산은 NH농협은행 경기본부가 낸 기부금 3억원으로 마련했다. 각 학교 학생 자치기구가 직접 매점을 운영하는 방식이다. 경기도는 두 기관을 연결하고 기부금을 매칭하는 등의 행정 지원을 맡았다. 이들은 지난 6월 9일 협약도 맺었다. 경기도는 이번 시범 운영 후 1000원 매점을 확대하겠다는 계획이다. 김 지사는 “1000원 매점으로 입학률도 올라가고, 학교 이미지도 좋아질 것”이라고 했다.&lt;br&gt;&lt;br&gt;경기도는 2023년부터 도내 33개 대학을 대상으로 ’1000원의 아침밥' 사업도 하고 있다. 대학생들이 1000원만 내면 아침을 먹을 수 있도록 대학에 지원금을 지급하는 것이다. 학생 1인당 농림축산식품부가 2000원, 경기도가 1000원을 지원하며, 나머지는 대학이 부담한다. 경기도는 올해 약 5억원을 지원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OOJNH73F3RMP5CXSANPJWBD3LA.jpg?auth=df74cc86e0e0114c5301d950b4ca5afb23e0c5632fa0d48fc840860a4090f70b&amp;smart=true&amp;width=4578&amp;height=3108" type="image/jpeg" height="3108" width="4578">
-        <media:description type="plain">&lt;YONHAP PHOTO-3397&gt; 고물가 시대, 대학생들을 위한 '천원 매점'
-    (성남=연합뉴스) 홍기원 기자 = 3일 경기도 성남시 가천대학교에 개점한 '천원 매점'에서 학생들이 입장을 위해 줄을 서 있다.
-    경기도가 도입한 '천원 매점'은 고물가 시대 생활비 부담으로 어려움을 겪는 대학생들을 위해 생필품과 먹거리 등을 시중 가격보다 90% 이상 할인해 3~5개씩 묶음으로 1천원에 판매하는 매점이다. 2025.9.3
-    xanadu@yna.co.kr/2025-09-03 13:58:55/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">홍기원</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>쥬얼리 이지현, 헤어디자이너로 새출발…“9월 예약 마감”</title>
-      <link>https://www.chosun.com/national/people/2025/09/03/QPTVJTYXOBB3RJTJA5PNQXVRDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/03/QPTVJTYXOBB3RJTJA5PNQXVRDM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 13:07:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3XW7OXB3VGIVA3WG7SW7T5DZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 쥬얼리 출신 이지현. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 쥬얼리 출신 이지현(42)이 헤어디자이너로 전직 후 본격적인 활동을 예고했다. &lt;br&gt;&lt;br&gt;2일 이지현은 자신의 인스타그램을 통해 “너무 감사합니다”라며 “많은 분들의 관심 덕분에 9월 예약이 마감되었다. 10월 예약 게시물을 곧 올리겠다”고 했다. &lt;br&gt;&lt;br&gt;이지현은 이어 “예약하신 분들 노쇼는 절대 안 된다”며 “오시는 분들 관대하고 너그러운 마음으로 와달라”고 했다.&lt;br&gt;&lt;br&gt;앞서 이지현은 지난 3월 국가 공인 미용사 자격증 시험에 합격했다는 소식을 알린 바 있다. 이지현은 이후 실무 교육을 받아왔다.&lt;br&gt;&lt;br&gt;이지현은 지난 7월 방송인 장영란이 운영하는 유튜브 채널에 출연해 “(자격증 시험을) 1년 3개월 준비했다”며 “어린 친구들 18시간 잠도 안 자고 연습해서 시험 보러 오는데 나는 그들보다는 살림하고 밥하고 빨래하느라 시간이 없다. (시험 준비하느라) 눈물 콧물 다 뺐다”고 했다. &lt;br&gt;&lt;br&gt;1998년 다국적 걸그룹 써클로 데뷔한 이지현은 2001년부터 쥬얼리 멤버로 활동했다. 2006년 쥬얼리를 탈퇴한 후에는 배우로 활동했다. &lt;br&gt;&lt;br&gt;이지현은 2013년 연상의 회사원과 결혼한 뒤 두 자녀를 낳았지만 3년 만에 이혼했다. 2017년엔 안과 의사와 재혼했으나 2020년 이혼했다. 현재는 두 자녀를 홀로 키우고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LOKCKGOPQ5SMHW3QEVJWDDU4XQ.jpg?auth=162b000d3a00099dad1e5359d551def9d211cabba255f87eb155768aa7886369&amp;smart=true&amp;width=922&amp;height=706" type="image/jpeg" height="706" width="922">
-        <media:description type="plain">이지현 SNS</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김건희특검, ‘건진 법사’ 딸·처제 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/03/ZRSLFVISZBHKHHMHQUCSVQ46B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/ZRSLFVISZBHKHHMHQUCSVQ46B4/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 09:43:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VY7NT3DG52F3CCONRCZ5VP5THU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배씨가 지난달 21일 서울 종로구에 마련된 민중기 특별검사팀 사무실로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 ‘건진 법사’ 전성배씨의 딸과 처제의 자택 등을 압수 수색했다. 특검은 통일교(현 세계평화통일가정연합) 측이 ‘김 여사 선물용’이라며 건넨 6000만원대 다이아몬드 목걸이 등을 찾고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면 특검은 1일 전씨의 딸과 처제의 자택 등을 압수 수색했다. &lt;br&gt;&lt;br&gt;전씨는 2022년 4~8월 전 통일교 세계본부장 윤영호씨로부터 6000만원대 그라프 목걸이, 1000만원대 샤넬백 2개 등을 받아 김 여사에게 전달하려 한 혐의(특정범죄가중처벌법상 알선수재) 등을 받고 있다. 지난달 19일 특검이 구속영장을 청구하면서 지난 21일부터 구속된 상태다.&lt;br&gt;&lt;br&gt;전씨는 목걸이와 샤넬백 등을 잃어버렸다는 입장을 고수하고 있다. 전씨는 특검 조사에서 “목걸이와 샤넬백은 갖고 다니다 잃어버렸다”고 진술한 것으로 전해졌다. 김 여사 또한 목걸이 등은 전달 받은 적 없다는 입장이다.&lt;br&gt;&lt;br&gt;반면 특검은 김 여사가 목걸이를 받은 걸로 보고 있다. 특검에 따르면 윤씨는 2022년 7월 전씨에게 “통일교가 추진하는 국제행사인 서밋 2022&amp;amp;리더십 콘퍼런스에 교육부 장관이 예방할 수 있도록 해달라“는 청탁과 함께 목걸이를 전달했고, 목걸이는 김 여사에게 전달됐다. 전씨는 김 여사의 반응을 묻는 윤씨에게 ”여사님이 큰 선물이라고 놀라셨지만 별다른 말씀이 없어요”라고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총, 26년 만에 노사정 대화 복귀</title>
-      <link>https://www.chosun.com/national/labor/2025/09/03/ID2SI6UZBJDRHK7EE5XWJGIVNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/03/ID2SI6UZBJDRHK7EE5XWJGIVNU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 09:05:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XRSRV756V62CGFCTP54CIUIM5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국민주노동조합총연맹(민주노총). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총이 국회가 주도하는 노사정 사회적 대화 참여를 결정했다. 지난 1999년 노사정위원회(현 경제사회노동위원회) 탈퇴 이후 26년 만에 노사정 대화 기구에 복귀하는 것이다. 이에 따라 이재명 정부의 친노동 정책은 더욱 강경하게 추진될 가능성이 커졌다는 분석이 나온다.&lt;br&gt;&lt;br&gt;민노총은 3일 서울 마포구청 대강당에서 중앙위원회를 열고 ‘국회 사회적대화 참여’ 안건을 표결에 부쳤다. 이날 중앙위엔 재적 355명 중 261명이 참석했고, 과반인 142명이 찬성하면서 안건이 가결됐다.&lt;br&gt;&lt;br&gt;지금까지 사회적 대화는 경사노위법에 의거해 운영되는 공식적 사회적 대화 기구인 ‘경사노위’를 통해 진행됐다. 여기엔 한국노총만 참여했을 뿐 민주노총은 들어오지 않았다. &lt;br&gt;&lt;br&gt;민노총이 이날 경사노위 대신 국회가 주도하는 사회적 대화 기구 참여를 택한 건, 급진적 노동 정책 입법화에 국회가 더 유리하다고 판단했기 때문이란 분석이다. 경영계와 정부를 상대하는 경사노위 보다, 여당이 급진적 요구를 하기 나은 상대인데다 입법을 하는데도 훨씬 효율적이란 것이다. 민노총은 이날 “입법 기구인 국회를 대화의 무대로 삼아 노정 교섭을 뒷받침하고 산별 교섭을 제도화하는 기반을 마련할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;민노총은 진보 정부가 들어설 때마다 사회적 대화 기구 복귀를 시도했지만, 번번이 무산됐다. 노무현 정부 때인 2005년엔 지도부가 노사정 대화 복귀를 논의하려 했지만 일부 강경파의 반발로 무산됐고, 문재인 정부 시절인 2020년에도 코로나 극복을 위한 노사정 합의문까지 작성했다가 공동 발표 15분 전에 내부 반발로 합의가 무산됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>바뀐 체력 검사로 여성 순경 급증? 경찰 “사실 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/WBLT4KPLFBB2BCUSCNC6772SUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/WBLT4KPLFBB2BCUSCNC6772SUQ/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 08:56:32 +0000</pubDate>
-      <content:encoded>내년부터 바뀌는 순경 공개 채용 방식으로 인해 합격자 60~70%가 여성이 될 것이라는 전망이 나오자, 경찰청이 “그간의 실제 운영 결과와 다르다”는 입장을 내놨다. 경위 공개 채용 등에 바뀐 채용 방식을 도입해본 결과 남성 합격자가 더 많은 것으로 나타났다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSPX6MIPDZIWLAZ4H5I3H4MSNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 하반기에 경기남부경찰청에서 열린 순경 공채 체력시험에서 한 여성 응시자가 팔굽혀펴기를 하고 있다. 내년부터 개편되는 순경 체력시험에선 팔굽혀펴기는 빠지고, 장애물 넘기 등의 종목 5가지를 정해진 시간 안에 완수해야 한다. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청에 따르면 내년 순경 공채부터는 남녀 통합 선발과 ‘순환식 체력검사’가 도입된다. 올해까지는 남자 순경과 여자 순경을 따로 뽑아 왔지만 내년부터는 남녀 정원이 통합된다. 또 체력검사는 올해까지 각 종목의 점수를 따져 왔지만, 내년부터는 장애물달리기·장대허들넘기 등 5종목에 대해 합격·불합격 여부만 따지게 된다.&lt;br&gt;&lt;br&gt;이에 대해 학원가 등에선 바뀐 공채 방식이 여성 수강생에게 훨씬 유리하다는 의견이 나온다. 통상 여성 수험생들의 필기 성적이 남성 수험생보다 높은 데다, 체력 검사 역시 합격 기준만 맞추면 되도록 바뀌었기 때문이다. 경찰대 출신인 김대환 해커스경찰 강사는 지난달 30일 유튜브에서 “내년 순경 공채 합격자의 60~70%는 여성이 될 것”이라며 “여경이 쉽게 통과할 수 있는 체력 기준을 설정하고 합격·불합격 여부만 가리면 체력이 좋은 남자들이 불리해질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 경찰청은 3일 “2023년부터 경위 공개 채용, 경찰행정직 경력 채용 등 시험에서 순환식 체력 검사를 도입한 결과 남성의 통과율은 90%대 후반, 여성의 통과율은 약 70% 전후”라고 밝혔다. 경찰에 채용되려면 필기 시험을 합격한 후 체력 검사를 거쳐야 하는데, 필기 시험을 합격하더라도 체력 검사를 통과하는 비율은 여성 수험생이 상대적으로 낮았다는 것이다. &lt;br&gt;&lt;br&gt;경찰청 관계자는 “현재 체력검사 각 종목의 통과 기준이 4분 40초 이하”라며 “2021년 중앙경찰학교 교육생 대상으로 측정한 결과 약 60%만 이를 통과한 것으로 나타났다”고 했다. 기존 순경 채용 시험에 합격한 교육생들도 합격률이 60%에 불과할 정도로 체력 검사 합격 기준이 높기 때문에, 단순히 합격·불합격 방식으로 바뀌었다는 것만으로 여성 합격자가 급격하게 늘지는 않을 것이라는 의미다. 또 2023년부터 순환식 체력검사가 도입되고 있는 경위 공채 합격자의 남녀 성비 역시 2023년에 7대3, 2024년에는 8대2로 남성이 훨씬 많았다는 것이 경찰 설명이다. &lt;br&gt;&lt;br&gt;다만 경위 공채 인원은 연간 50명에 불과하며 경쟁률도 70대 1에 육박한다. 이 때문에 남성 수험생들의 필기 시험 성적이 일반 순경 공채에 비해 더 높게 나오는 것이 보통이다. 매년 4000~5000명을 선발하는 일반 순경 공채는 상황이 다를 가능성이 크다. 경찰청 관계자는 “실제 최종 합격자의 남녀 성별 비율이 어떻게 될지는 미지수지만, 9개월간의 초임 순경 교육을 통해 현장 대응력을 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박나래 집 털어간 절도범 징역 2년… “피해자가 엄벌 탄원”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/H447C66YHBDADHYBXVEZ7TYXAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/H447C66YHBDADHYBXVEZ7TYXAM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 06:27:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OF3KQGA65BERPIUD4GOZ5DDYAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 박나래. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 박나래(40)씨 자택에 침입해 금품을 훔친 30대 남성에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사1단독 박지원 부장판사는 3일 절도 및 야간주거침입 혐의로 재판에 넘겨진 정모(37)씨에게 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;박 부장판사는 “피고인이 공소사실을 인정하고 있고 피해자에게 금품을 반환했다”면서도 “동종 전과가 있고 범행 피해 물품이 상당히 고가일뿐더러 피해자가 엄벌을 탄원하고 있는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;앞서 정씨는 지난 4월 4일 서울 용산구 박씨 자택에 침입해 수천만 원 상당의 금품을 훔친 혐의를 받는다. 그는 경찰 조사에서 박씨의 집인 사실을 모르고 범행했다고 진술했다. 이외에 올해 3월 말 용산구 또 다른 집에서 절도를 저질러 체포된 적 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;정씨는 훔친 물건을 장물로 내놓기도 했다. 금품을 넘겨받아 업무상과실장물취득 혐의로 함께 기소된 우모씨와 장모씨도 각각 벌금 200만원과 300만원을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백내장 검사, 병원 따라 최대 400배 차이…비급여 의료비 격차 여전</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/03/TM2FAE6YBRB67G6WHLCSHEOUNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/03/TM2FAE6YBRB67G6WHLCSHEOUNI/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 03:19:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQO3TM6T2QBZO3CI5CFKHJDCKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의료기관이 밀집한 건물에 병원 간판이 걸려있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백내장 진행 정도를 확인하는 ‘샤임프러그 사진 촬영 검사’ 가격이 의료기관별로 최대 400배 차이가 나는 등 비급여 진료비 격차가 여전히 큰 것으로 조사됐다.&lt;br&gt;&lt;br&gt;보건복지부와 건강보험심사평가원은 올해 병·의원별 비급여 진료비 조사·분석 결과를 심평원 홈페이지와 모바일 앱 ‘건강e음’을 통해 공개한다고 3일 밝혔다. 비급여 진료는 건강보험 급여가 적용되지 않아 환자가 비용 전액을 부담해야 한다. 병원이 자체적으로 금액을 정하기 때문에 병원마다 가격이 다르다.&lt;br&gt;&lt;br&gt;정부는 국민의 알 권리를 보장하고 합리적인 선택을 돕기 위해 전체 의료기관별 주요 비급여 진료비를 조사해 공개하고 있다. 올해는 전체 의료기관의 비급여 항목 693개의 가격을 공개한다.&lt;br&gt;&lt;br&gt;올해 4월부터 6월까지 7만3748개 의료기관을 대상으로 비급여 진료비를 조사한 결과, 지난해와 올해 공통항목 571개 가운데 367개(64.3%)의 평균 가격이 인상됐다. 도수치료의 평균 가격이 전년 대비 1.3% 올랐고, 폐렴구균 예방접종비는 2.1% 인상됐다. 다만 이번 비급여 진료비용 조사 결과 연간 물가상승률(2.2%)보다는 평균금액 인상폭이 낮았던 것으로 나타났다.&lt;br&gt;&lt;br&gt;주요 비급여 진료비의 의료기관별 격차는 여전히 컸다. 백내장 수술 후 남아있는 수정체의 일부에 혼탁이 있는지를 측정하는 샤임프러그 사진 촬영 검사는 서울의 한 상급종합병원은 5400원, 서울 서초구의 한 의원급 안과는 200만원으로 약 370배나 차이가 났다. 심평원 관계자는 “샤인프러그 검사는 수술이나 다른 검사와 병행해서 실시하는 경우가 있어 가격 편차가 크게 나타났다”고 했다.&lt;br&gt;&lt;br&gt;비급여 항목 가운데 가장 규모가 큰 도수치료의 경우 천국 최고값은 60만원이고, 최저값은 300원이었다. 중간값은 10만원이었다. 일반 국민들이 자주 가는 의원급으로 한정하면 최고 50만원, 최저 300원이었다. 다만 의료계 관계자는 “도수치료는 실제 치료 시간에 따라 가격이 매겨지기 때문에 실제 체감 가격은 달라질 수 있다”고 했다. 실제 도수치료 최저 금액인 300원을 책정한 경기 성남의 한 의원의 경우 “시간 별로 치료 금액에 차이가 있을 수 있다”고 고지했다.&lt;br&gt;&lt;br&gt;약침술이나 임플란트도 가격 편차가 컸다. 전체 의료기관을 통틀어 약침술의 전국 중간 가격은 1만원이었는데, 전국 최고 가격은 30만원, 최저가격은 10원으로 무려 3만배나 차이가 났다. 약침술은 약물에 경혈을 주입해 침과 한약의 작용을 병행하는 시술이다. 투여하는 약물의 종류와 용량에 따라 차이가 발생한 것이다.&lt;br&gt;&lt;br&gt;임플란트의 경우 평균 금액은 118만8000원이지만, 소재와 병의원급 규모에 따라 30만원에서 461만원으로 적잖은 격차가 있었다. 또 같은 대학병원급 치과병원이더라도 집도의가 교수인지, 전공의인지와 수술의 난이도에 따라 130만원안팎의 차이가 발생했다. 임플란트 재료가 국산인지, 수입산인지에 따라 150만원가량의 치료비 차이가 있기도 했다.&lt;br&gt;&lt;br&gt;폐렴구균 예방접종료는 중간금액이 13만원이었지만, 세종 한 의원의 경우 18만원을 받았다. 체외충격파치료 역시 의원급의 중간진료비는 7만원인데, 상급종합병원의 경우 최고 31만9000원으로 책정한 곳이 있었다.&lt;br&gt;&lt;br&gt;복지부와 심평원은 합리적 선택을 위해 홈페이지에서 각 의료기관의 비급여 진료비와 정확한 치료 내역을 확인해달라고 당부했다. 이번에 공개된 비급여 진료비 정보는 건강보험심사평가원(www.hira.or.kr) 홈페이지 첫 화면에서 비급여 진료비 정보를 누르면 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 서울 신림동에서 칼부림... 4명 중상</title>
-      <link>https://www.chosun.com/national/incident/2025/09/03/AL7YQPE5SZFGNCOIOAEKCJI32M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/03/AL7YQPE5SZFGNCOIOAEKCJI32M/</guid>
-      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 02:46:09 +0000</pubDate>
-      <content:encoded>서울 관악구 신림동에서 칼부림이 발생해 40대 남성 2명 등 총 4명이 중상을 입는 사고가 3일 발생했다.&lt;br&gt;&lt;br&gt;소방 등에 따르면, 이날 오전 10시 50분쯤 서울 관악구 신림동에서 칼부림이 발생해 30대 남성 1명, 40대 남성 2명, 여성 1명이 복부에 부상을 입고 인근 병원으로 이송됐다. 이중 남성 2명은 심정지 상태다.&lt;br&gt;&lt;br&gt;경찰은 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
