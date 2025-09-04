@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘최서원 조카’ 장시호, 아파트 12층서 추락... 11층 난간 걸려 구조</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/04/4FHPC222BVBTNMNSCAFHIRAXBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/4FHPC222BVBTNMNSCAFHIRAXBI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 13:23:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5FHPUL3YIONVOMQVOQKJDB6PE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최서원씨 조카 장시호씨/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최서원(개명 전 최순실)씨의 조카 장시호(46)씨가 4일 서울 강남구의 한 아파트에서 추락했다가 난간에 걸려 구조됐다.&lt;br&gt;&lt;br&gt;소방 당국 등에 따르면, 이날 오전 6시쯤 장씨는 강남구에 있는 아파트 12층에서 추락했다. 11층 난간에 걸려 구조됐고, 큰 외상은 없는 상태로 병원에 이송됐다고 알려졌다. 당국은 사고 경위를 확인 중이다.&lt;br&gt;&lt;br&gt;장씨는 ‘박근혜·최순실 게이트’의 핵심 인물이다. 국정농단 사태 당시 대기업과 공기업 등을 상대로 최씨와 함께 운영하던 한국동계스포츠영재센터를 지원하도록 강요한 혐의 등으로 2017년 2년 6개월 징역형을 선고 받았다. 이후 2018년 항소심에선 영재센터를 운영하며 국가보조금을 가로챈 혐의가 무죄로 판단돼 징역 1년 6개월로 감형을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 지하철역서 시비 건 취객에 흉기 휘두른 60대 체포</title>
+      <link>https://www.chosun.com/national/regional/2025/09/04/P35J3OFU3BFERJ53TXUBD5S2AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/P35J3OFU3BFERJ53TXUBD5S2AY/</guid>
+      <dc:creator>부산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 13:38:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 사하경찰서는 지하철 역사에서 취객에게 흉기를 휘두른 혐의(특수상해)로 60대 남성 A씨를 붙잡아 조사하고 있다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 오후 9시 50분쯤 부산도시철도 1호선 노포행 열차 안에서 처음 만난 60대 남성 B씨가 술에 취해 시비를 걸자 인근 역에서 내려 몸싸움을 벌였다.&lt;br&gt;&lt;br&gt;그러다가 A씨는 가지고 있던 흉기를 꺼내 B씨의 팔을 여러 차례 찌른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 생명에 지장이 없는 상태다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 현행범으로 체포했으며 구속영장을 신청할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘신세계 면세점 폭파 협박’ 30대 남성 구속…“도망 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/04/JVFW3BUXBJEQTHDB6B62N2V2EM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/JVFW3BUXBJEQTHDB6B62N2V2EM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 13:06:56 +0000</pubDate>
+      <content:encoded>신세계 면세점 등을 폭파하겠다고 협박 글을 올린 30대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSTDI5UDAVPZDKLHYUXABHTUOE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;‘신세계백화점 폭파 테러글‘을 온라인에 올려 수천 명이 대피하고 다수 경찰력이 동원되는 등 혼란스러운 사태를 빚게 만든 10대 게시자가 검거된 가운데 관련 뉴스에 ‘폭파 협박 댓글’을 단 20대도 경찰에 붙잡혔다. 사진은 6일 오전 경찰이 긴급 수색을 마친 경기 용인시 수지구 신세계 사우스시티의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 4일 공중협박 등 혐의를 받는 A씨에 대한 영장실질심사를 진행한 뒤 구속 영장을 발부했다. 남 부장판사는 “도망할 염려가 있다”고 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 소셜미디어에 ‘신세계 면세점을 폭파하겠다’는 댓글을 올린 혐의로 지난 2일 오후 경기 여주시 자택에서 긴급 체포됐다. 경찰이 신세계 면세점 등을 수색한 결과 실제 폭발물은 발견되지 않은 것으로 조사됐다. A씨는 경찰 조사에서 자신의 혐의를 인정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 오후 3시 6분쯤 법원에 모습을 드러낸 A씨는 ‘협박 글을 왜 올렸느냐’ ‘정말 폭발물을 설치하려 한 것이냐’ ‘폭발물을 소지한 적 있느냐’ 등 기자들의 질문에 아무런 답을 하지 않았다. ‘공권력이 낭비됐는데 반성하지 않느냐’는 질문에 A씨는 잠시 발걸음을 멈췄지만 이내 곧 법정으로 향했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 남해·하동 적조로 양식 어류 75만마리 폐사... 18억원 피해</title>
+      <link>https://www.chosun.com/national/regional/2025/09/04/HIQ7526VXJGTHP4H4UWD2LMB2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/HIQ7526VXJGTHP4H4UWD2LMB2E/</guid>
+      <dc:creator>남해=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 12:43:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6T5N6V2H2AEF5WNAUIUC34477Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박완수 경남지사(왼쪽 세번째)가 4일 적조 피해가 발생한 남해군 양식어가에서 어업인을 격려하고 있다. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 남해군과 하동군 어가의 양식어류 75만 마리가 적조로 폐사한 것으로 4일 집계됐다.&lt;br&gt;&lt;br&gt;경남도는 이날 남해·하동 어가 50곳에서 넙치와 참돔, 감성돔 등 양식어류 75만5268마리가 적조로 폐사했다고 밝혔다. 경남도는 누적 피해 금액을 18억4635만 원으로 추산했다.&lt;br&gt;&lt;br&gt;지역별로는 남해 어가 29곳에서 69만 5348마리, 하동 어가 21곳에서 5만 9920마리가 폐사했다.&lt;br&gt;&lt;br&gt;현재 경남 해역은 중부 앞바다와 서부 남해 앞바다, 사천만·강진만, 거제 동부 앞바다에서 적조 주의보가 내려져 있다.&lt;br&gt;&lt;br&gt;또 거제 와현~내도와 추봉도~산달도~거제만, 사천 모섬 인근 해상엔 광범위한 적조띠가 분포해 있는 상태다.&lt;br&gt;&lt;br&gt;국립수산과학원은 이번 주 남해안 수온이 적조생물이 성장하기 좋은 23~26도에 이를 것으로 예측했다. 또 비가 내리면서 육상에서 영양염이 유입돼 유해성 적조가 확산할 가능성이 클 것으로 전망했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SHNFMAFZVPP5OQDVHFZKXO354.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 경남 남해군 미조면 한 항구에서 적조로 집단 폐사한 참돔의 수거 작업이 진행되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피해가 확산하면서 경남도는 오는 5~6일을 ‘적조 방제의 날’로 지정하고 대규모 방제 활동에 돌입한다. 방제에는 수산업경영인 경남연합회, 한국자율관리어업 경남연합회, 전국연안어업인 경상남도연합회, 해경 등 관계기관이 함께 선박과 장비, 인력을 투입한다.&lt;br&gt;&lt;br&gt;경남도는 적조주의보 발효 직후 대책상황실을 가동해 현재까지 선박 1250척, 중장비 264대, 인력 2552명을 동원해 9400t의 황토를 살포했다. 지역별로 현장지도반도 운영중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천대엽, 특검법 개정안에 “위헌 시비·증언 오염 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/04/MT7TJVGXP5FDZDAPYEGTACL22A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/MT7TJVGXP5FDZDAPYEGTACL22A/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 10:59:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47HKQIS3HNLS7DKTFH73IZMSWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 4일 국회에서 열린 법제사법위원회 전체 회의에서 내란사건에 특별재판부 설치에 대한 법원의 입장을 설명하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장이 내란 특검법 개정안에 담긴 ‘재판 중계 의무화’ 조항에 대해 4일 “상당한 위헌성 문제가 있다”고 했다. 천 처장은 이날 국회 법제사법위원회 전체회의에서 주진우 국민의힘 의원 질의에 “특검법이 위헌시비에 휘말리지 않고 재판 충실성을 강화하는 쪽으로 개정됐으면 좋겠다”며 이렇게 말했다.&lt;br&gt;&lt;br&gt;천 처장은 ‘재판의 심리는 국가 안전보장·안녕질서·선량한 풍속을 해할 염려가 있을 때는 법원의 결정으로 비공개할 수 있다’는 헌법 109조를 언급하며 “각종 헌법 교과서 등을 찾아보니 이를 보장하지 않을 경우 위헌성이 문제가 될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “현행 내란 특검법은 ‘특별한 사정이 있는 경우 재판장 결정으로 예외를 둘 수 있다’고 규정하고 있는데 이 조항이 있다면 위헌성 시비를 최소화할 수 있다는 생각”이라고 했다.&lt;br&gt;&lt;br&gt;천 처장은 재판이 무조건 중계될 경우 증언 확보가 어려워져 재판의 원활한 진행에 차질이 생길 수 있다는 점도 지적했다. 그는 “증인이 공무상 비밀 등을 이유로 공개 증언을 거부할 경우 재판 중계로 신상이 노출된다면 거부권을 행사할 것이 당연하다”며 “비공개 재판의 예외를 두는 이유는 이 같은 공무상 비밀 유지 의무자가 증언하도록 하기 위한 것”이라고 했다.&lt;br&gt;&lt;br&gt;또 “다수 증인을 신문하는 사건에선 앞선 증인의 증언을 다 확인하게 되면 다음 증인의 증언이 왜곡되거나 변질할 위험성이 많다”며 “재판 중계가 아무런 제한 없이 이뤄질 경우, 충실하고 객관적인 진실에 부합하는 재판에 장애가 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;법원행정처는 앞서 주 의원실에 제출한 ‘특검법 개정안에 대한 의견서’에서도 “위헌 소지가 있고 증인이나 피고인이 ‘말 맞추기’를 할 우려가 있다”는 입장을 낸 바 있다. &lt;br&gt;&lt;br&gt;천 처장은 민주당이 추진 중인 ‘내란 특별재판부 설치’ 법안에 대해서도 “사법부 독립 침해”라고 했다. 그는 “법원이 아닌 외부 권력기관이 재판부 구성에 관여한다는 것은 직접적으로는 사법부 독립에 대한 침해이고 간접적으로는 재판에 영항을 미치는 것으로, 일반 국민들은 받아들이기 어려울 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;천 처장은 초대 대법원장인 김병로 선생을 인용해 특검법 개정안과 내란 특별법을 재고해달라고 했다. 그는 “가인 김병로 선생께서 이승만 정권 시절 ‘국회에서 절차를 밟아 제정한 법률이라고 하더라도 그 내용이 헌법 정신에 맞지 않으면 국민들은 입법부에 성찰을 요구할 권리가 있다’는 말씀을 하셨다”며 “전체 법관들이 이 부분에 대해 많은 걱정을 하고 있어 부디 국회에서 현명한 결론을 내려주시기 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 인척 집에서 나온 ‘이우환 그림’... 김상민 전 검사가 사서 줬다</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/04/CP4NZVWP5NESNDDR7YRJI4F2KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/CP4NZVWP5NESNDDR7YRJI4F2KE/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 11:08:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKLFV5P727KZHSK52OHASA5JNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀(김건희 특검팀) 박상진 특검보가 8월 29일 서울 세종대로 특검에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 지난 7월 말 김건희 여사 친오빠인 김진우씨의 장모 집을 압수 수색하면서 확보한 이우환 화백 그림의 구매자를 김상민 전 검사로 특정한 것으로 4일 확인됐다. 김 전 검사는 김 여사가 작년 총선 때 경남 창원 의창에 국민의힘 공천을 받게 하려고 했던 사람이다. 김 전 검사는 국민의힘 공천을 받지는 못했으나 총선 후 국가정보원장 특별보좌관에 임명됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김씨 장모 집에서 찾았던 이 화백의 그림 ‘점으로부터(From Point) No.800298’을 김 전 검사가 구매해 김씨에게 전달했다는 진술을 최근 확보한 것으로 전해졌다. 이 작품은 2022년 6월 대만 경매에서 한국인 이모씨가 약 3000만원에 낙찰받아 한국으로 들여왔다. 이후 김 전 검사가 2023년 초쯤 이 그림을 약 1억원에 구매한 것으로 특검은 파악했다고 한다.&lt;br&gt;&lt;br&gt;김진우씨 측은 이 그림이 김 전 검사에게 ‘대리 구매’를 부탁해 매입한 것이란 입장이다. 김 전 검사에게 그림 값도 줬고 김 여사와는 관련이 없다는 주장이다. 앞서 김 여사도 특검 조사에서 이 그림과 관련해 “내 것이 아니다. 나라면 구매하지 않았을 것”이라고 진술했다고 한다. 그러나 특검은 김 여사가 김 전 검사로부터 그림을 선물받고, 그 대가로 그가 국민의힘 공천을 받을 수 있도록 영향력을 행사하려 했거나 총선 후 국정원장 특보에 임명되도록 했을 가능성을 수사 중이다.&lt;br&gt;&lt;br&gt;김 여사는 작년 4월 총선에서 김 전 검사를 경남 창원 의창에 출마시키기 위해 영향력을 행사했다는 의혹을 받고 있다. 특검은 김 여사가 작년 2월 이곳 지역구 의원인 김영선 전 국민의힘 의원에게 전화해 “김상민 검사가 당선될 수 있도록 하면 선거 이후 장관 또는 공기업 사장 자리를 주겠다며 불출마를 종용했다는 진술을 확보했다. 실제 김 전 의원은 작년 2월 18일 경남 김해갑으로 지역구를 바꾸겠다고 밝혔다.&lt;br&gt;&lt;br&gt;다만 김 전 검사는 끝내 경남 창원에서 국민의힘 공천을 받지 못했다. 이후 그는 작년 8월 국정원장 법률특보에 임명됐다. 특검은 이 과정에 김 여사가 관여한 것은 아닌지 규명한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천안 금은방서 귀금속 1억원어치 턴 20대 하루만에 검거</title>
+      <link>https://www.chosun.com/national/regional/2025/09/04/Z4UCDVCXKBAFBDCJIJUREJJTHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/Z4UCDVCXKBAFBDCJIJUREJJTHY/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 11:24:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YRWIDZ6HFL3BB566VQ44PRZVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 금은방에 진열된 금 장신구 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안시의 한 금은방에 들어가 1억원 상당의 귀금속을 훔쳐 달아난 20대가 범행 하루 만에 검거됐다.&lt;br&gt;&lt;br&gt;천안동남경찰서는 4일 오후 6시 25분쯤 서산에서 A(27)씨를 붙잡았다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 7시 30분쯤 천안시 동남구 신부동 한 금은방에 들어가 둔기로 진열장을 깨뜨린 뒤 순금 목걸이 등 1억원 상당의 귀금속을 훔쳐 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 모자와 마스크를 쓰고 금은방에 들어가 “배달 왔다”고 말하며 물건을 놓는 척하다가 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 과정에서 인명 피해 등은 발생하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 가게 앞에 있던 오토바이를 타고 도주한 뒤 차량을 이용해 서산까지 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 우선 특수절도 혐의로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“포고령 위법 몰랐나” 특검 추궁에, 現경찰 “열심히 일한 죄밖에…억울”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/04/4HGXOUAQWJDH5MMXGRNLJI64TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/4HGXOUAQWJDH5MMXGRNLJI64TM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Sep 2025 10:50:58 +0000</pubDate>
+      <content:encoded>경찰 간부들의 내란 혐의 재판에 증인으로 나온 현직 경찰 간부가 “열심히 일한 경찰은 억울하다”고 내란 특검을 향해 주장했다. 12·3 비상계엄 당일 국회의원을 체포하라는 지시를 받은 적도 없다고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFBNGNA2GDYUZJODHYECEBSSFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 서초구 서초동 서울중앙지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 4일 내란 중요임무 종사 등 혐의로 기소된 조지호 경찰청장·김봉식 전 서울경찰청장 등 경찰 간부들의 21차 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 재판에는 이치수 전 영등포경찰서 형사2과 강력계장, 김만중 전 경찰청 경비안전계장, 이재현 전 영등포경찰서 수사2과장이 증인으로 나왔다. &lt;br&gt;&lt;br&gt;검찰은 오후 증인으로 출석한 이재현 전 과장에게 “포고령에 국회 및 정치 활동을 일체 금지하고 영장 없이 체포할 수 있다는 내용이 있었는데 위법·부당하다는 생각은 안 했는가”라고 물었다. 그러자 “(경찰은) 억울하다. 정말 열심히 일한 죄밖에 없는데 이렇게 색안경을 끼고 곡해해 판단해서 잘못이라고 하니 억울하다”고 이 전 과장은 답했다.&lt;br&gt;&lt;br&gt;이어 내란 특검팀의 이윤제 특검보는 “당시 큰 문제가 없었고 잘 기억이 안 난다는 취지로 말하는 증인의 인식에 놀랐다”면서 “경찰은 국민을 보호해야 하는 것 아니냐. 포고령 내용을 보시지 않았냐”고 따져 물었다.&lt;br&gt;&lt;br&gt;그러자 이 전 과장은 “특검보님, (비상계엄 당일) 그게 위법하다는 것을 알고 이행할 수 있는 사람이 얼마나 됐을까요”라고 했다. 이어 “국회의원을 체포하라 했으면 거부했을 것이다. 그런 얘기가 없었고 질서 유지하라는 게 다였다”라며 “경찰은 질서 유지를 하러 나갔는데 그게 왜 잘못인가”라고 토로했다. &lt;br&gt;&lt;br&gt;아울러 “집시 사범이 혹시 발생하면 유치장이 필요할 수 있다고 생각했지만, 국회의원 구금이나 체포는 예상하지 못했다”라며 “계엄 사범의 유치장 인치는 염두하지 못했다”는 취지로 말했다.&lt;br&gt;&lt;br&gt;그는 지난해 12월 3일 비상계엄 선포 당일 영등포경찰서에 남아 현장 지원 및 조사를 담당했다고 했다. 포고령 내용과 관련해 계엄법 조항을 검토하고, 혹시나 생길 상황에 대비해 유치장 등을 준비했다고 한다.&lt;br&gt;&lt;br&gt;한편 이날 오전 재판에서 검찰은 박창균 전 형사1과장과 이치수 전 강력계장의 비상계엄 당일 통화 녹음을 공개했다. 녹음에는 박 전 과장이 이 전 계장에게 “방첩사 체포조가 온다고 한다. 형사 5명 붙여달라고 하니 누구 데려갈지 명단을 좀 달라”고 말한 내용이 담겼다. &lt;br&gt;&lt;br&gt;이 전 계장은 “통화했지만 내용을 명확하게 기억하지는 못한다”라며 “방첩사라는 것도 그때 처음 들어봤다”라고 했다. 이어 비상계엄 당시 사용됐던 ‘체포조’라는 단어에 대해 “순간적으로 말을 편하게 하려고 한 말이라 생각한다”면서 국회의원 체포 업무를 뜻한 것은 아니라는 취지로 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘인재 유출’ 서울대, 우수 교수 75세까지 재임용하겠다</title>
       <link>https://www.chosun.com/national/national_general/2025/09/04/GPZRVOIJIJC2PAZ4IX5NL3UR4U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/GPZRVOIJIJC2PAZ4IX5NL3UR4U/</guid>
@@ -850,27 +922,6 @@
       </media:content>
     </item>
     <item>
-      <title>배우 박탐희, 암투병 고백 “남겨질 아이들 생각에 고통스러웠다”</title>
-      <link>https://www.chosun.com/national/people/2025/09/03/CHYJOEHOTNCCDNXV3LQQIZKSFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/03/CHYJOEHOTNCCDNXV3LQQIZKSFQ/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 10:01:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XH6LWQ66MRFELJOFZM25QDXKGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 박탐희가 3일 유튜브에 출연해 과거 암 진단을 받고 투병했던 경험을 털어놨다. / 유튜브 '새롭게하소서 CBS'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 박탐희가 암 투병 사실을 뒤늦게 고백하며 당시 심경을 밝혔다. &lt;br&gt;&lt;br&gt;박탐희는 3일 유튜브 채널 ‘새롭게하소서 CBS’에 출연해 과거 암 진단을 받고 투병했던 경험을 공개했다. &lt;br&gt;&lt;br&gt;박탐희는 2017년 5월 첫째 아들의 학부모 모임에서 건강검진을 권유받아 조직 검사를 받았고, 이후 암 진단을 받았다고 밝혔다. 그는 “심장이 쿵 소리를 내면서 지하로 떨어졌다가 올라오는 느낌을 받았다”며 “그날 아침까지도 아니었는데, 갑자기 내가 암 환자가 됐다”고 했다. &lt;br&gt;&lt;br&gt;그는 “겨우 40살이었다. 언젠가 죽는 존재라는 건 알지만 죽음이 현실이 되니까 만감이 교차하더라”며 “제가 아프고 죽을까 봐 슬프지는 않았다. 남겨질 아이들이 엄마 없이 자라야 한다는 게 공포로 다가왔다”고 했다. &lt;br&gt;&lt;br&gt;가족들의 응원 속에 수술을 받으러 간 박탐희는 “그때만 해도 3개월 뒤에 드라마 촬영을 계획하고 있었다”고 했다. 하지만 “암 초기인 줄 알고 개복했는데 전이가 됐더라. 전이된 부분까지 도려내면서 예상치 못하게 큰 수술이 됐다”고 했다. &lt;br&gt;&lt;br&gt;박탐희는 결국 항암 치료까지 받게 됐다고 했다. 그는 “항암을 하면 머리가 빠지지 않나. 머리가 다 빠져서 몇 년간 활동을 못하는 상황이 왔다”며 활동을 중단할 수밖에 없었던 이유를 털어놨다. 이어 “연기를 사랑하고, 연기할 때 살아있다는 걸 느끼는 사람인데 팔다리를 묶인 것 같은 느낌이었다”고 했다. &lt;br&gt;&lt;br&gt;박탐희는 이 모든 과정을 지켜본 첫째 아들을 생각하며 연신 눈물을 흘렸다. 그는 “아들이 어린 나이에 너무 큰 걸 감당해야 했다”고 했다. &lt;br&gt;&lt;br&gt;박탐희는 “항암 치료하고 나면 온몸에 세포가 다 죽고, 70세 노인이 된 느낌이다. 관절에 힘이 없어서 걷지도 못했다”며 “구역질이 나서 화장실에 가다가 쓰러지고, 팔로 기어가야 했다”고 말했다. 이어 “그 모습을 첫째 아들이 다 보고 있던 게 너무 가슴이 아팠다”며 “화장실에서 나오면 아들이 안아줬다. 너무 빨리 철이 든 모습에 가슴이 아프다”고 했다. &lt;br&gt;&lt;br&gt;현재 추적 검사 중이라는 박탐희는 “항암 후 6개월에 한 번씩 검사를 하고, 5년이 지나면 1년마다 검사한다”며 “지난 4월 (병원에) 다녀왔는데 또 1년을 받아왔다”고 했다. 검사에서 암 재발 등 특이 사항이 발견되지 않아 다음 해에 추적 검사만 받으면 된다는 뜻으로 풀이된다. 박탐희는 “하루하루를 소중하게 살고 있다”며 미소 지었다. &lt;br&gt;&lt;br&gt;한편 박탐희는 2008년 사업가 남편과 결혼해 슬하에 1남 1녀를 두고 있다. 최근에는 소셜미디어를 통해 팬들과 소통을 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/J76DJQON35HO5ENZQKVYMLNIXM.jpg?auth=292a00e62fa032580f174e7d1ddc4d8f34d3a7db1434e9cb6dc1eb1cce2eb2e3&amp;smart=true&amp;width=284&amp;height=213" type="image/jpeg" height="213" width="284">
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>‘불법 체류자’여도 임금체불 당했다면...법무부 “관계 기관 통보 면제”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/03/XMZG7JUCKRAD3PIWZI7KYCTXBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/XMZG7JUCKRAD3PIWZI7KYCTXBU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 09:18:58 +0000</pubDate>
-      <content:encoded>법무부가 외국인 근로자들의 임금체불 피해를 막기 위해 법령 개정을 추진한다. 불법 체류 중인 외국인 근로자라고 하더라도 임금체불 피해를 당한 경우 지방출입국·외국인 관서에 불법 체류 사실을 통보하지 않도록 하는 내용이 골자다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D6QLTBOF6LJS7GW3Z2RHNHKAZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법무부는 “출입국관리법 84조를 개정해 외국인 근로자를 ‘통보의무 면제’ 대상에 포함할 예정”이라고 밝혔다. 현행 출입국관리법 84조는 ‘국가나 지방자치단체 공무원이 직무수행 중 외국인의 불법체류 사실을 알게 된 경우 반드시 지방출입국·외국인 관서의 장에게 통보해야 한다’고 규정하고 있다.&lt;br&gt;&lt;br&gt;이런 규정 탓에 외국인 근로자들이 임금체불 피해를 당했더라도 관계기관에 신고하기를 주저해 왔다고 정부는 보고 있다. 신고 과정에서 불법체류 사실이 드러나 강제출국 당할 수 있어서다.&lt;br&gt;&lt;br&gt;이에 법무부는 현행 통보 의무 면제 대상에 외국인 근로자를 포함하기로 했다. 이번 조치는 지난 2일 대통령실 주재로 열린 제40회 국무회의에서 ‘임금체불 대책’이 논의된 데 따른 후속 조치다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “앞으로 월급을 못 받은 외국인 근로자가 그대로 강제 출국하게 되는 일은 사라질 것”이라며 “대한민국은 국제사회에서 책임있는 구성원으로서의 역할을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, ‘건진 법사’ 딸·처제 압수 수색</title>
       <link>https://www.chosun.com/national/court_law/2025/09/03/ZRSLFVISZBHKHHMHQUCSVQ46B4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/ZRSLFVISZBHKHHMHQUCSVQ46B4/</guid>
@@ -898,42 +949,6 @@
       <content:encoded>내년부터 바뀌는 순경 공개 채용 방식으로 인해 합격자 60~70%가 여성이 될 것이라는 전망이 나오자, 경찰청이 “그간의 실제 운영 결과와 다르다”는 입장을 내놨다. 경위 공개 채용 등에 바뀐 채용 방식을 도입해본 결과 남성 합격자가 더 많은 것으로 나타났다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WSPX6MIPDZIWLAZ4H5I3H4MSNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 하반기에 경기남부경찰청에서 열린 순경 공채 체력시험에서 한 여성 응시자가 팔굽혀펴기를 하고 있다. 내년부터 개편되는 순경 체력시험에선 팔굽혀펴기는 빠지고, 장애물 넘기 등의 종목 5가지를 정해진 시간 안에 완수해야 한다. /경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청에 따르면 내년 순경 공채부터는 남녀 통합 선발과 ‘순환식 체력검사’가 도입된다. 올해까지는 남자 순경과 여자 순경을 따로 뽑아 왔지만 내년부터는 남녀 정원이 통합된다. 또 체력검사는 올해까지 각 종목의 점수를 따져 왔지만, 내년부터는 장애물달리기·장대허들넘기 등 5종목에 대해 합격·불합격 여부만 따지게 된다.&lt;br&gt;&lt;br&gt;이에 대해 학원가 등에선 바뀐 공채 방식이 여성 수강생에게 훨씬 유리하다는 의견이 나온다. 통상 여성 수험생들의 필기 성적이 남성 수험생보다 높은 데다, 체력 검사 역시 합격 기준만 맞추면 되도록 바뀌었기 때문이다. 경찰대 출신인 김대환 해커스경찰 강사는 지난달 30일 유튜브에서 “내년 순경 공채 합격자의 60~70%는 여성이 될 것”이라며 “여경이 쉽게 통과할 수 있는 체력 기준을 설정하고 합격·불합격 여부만 가리면 체력이 좋은 남자들이 불리해질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 경찰청은 3일 “2023년부터 경위 공개 채용, 경찰행정직 경력 채용 등 시험에서 순환식 체력 검사를 도입한 결과 남성의 통과율은 90%대 후반, 여성의 통과율은 약 70% 전후”라고 밝혔다. 경찰에 채용되려면 필기 시험을 합격한 후 체력 검사를 거쳐야 하는데, 필기 시험을 합격하더라도 체력 검사를 통과하는 비율은 여성 수험생이 상대적으로 낮았다는 것이다. &lt;br&gt;&lt;br&gt;경찰청 관계자는 “현재 체력검사 각 종목의 통과 기준이 4분 40초 이하”라며 “2021년 중앙경찰학교 교육생 대상으로 측정한 결과 약 60%만 이를 통과한 것으로 나타났다”고 했다. 기존 순경 채용 시험에 합격한 교육생들도 합격률이 60%에 불과할 정도로 체력 검사 합격 기준이 높기 때문에, 단순히 합격·불합격 방식으로 바뀌었다는 것만으로 여성 합격자가 급격하게 늘지는 않을 것이라는 의미다. 또 2023년부터 순환식 체력검사가 도입되고 있는 경위 공채 합격자의 남녀 성비 역시 2023년에 7대3, 2024년에는 8대2로 남성이 훨씬 많았다는 것이 경찰 설명이다. &lt;br&gt;&lt;br&gt;다만 경위 공채 인원은 연간 50명에 불과하며 경쟁률도 70대 1에 육박한다. 이 때문에 남성 수험생들의 필기 시험 성적이 일반 순경 공채에 비해 더 높게 나오는 것이 보통이다. 매년 4000~5000명을 선발하는 일반 순경 공채는 상황이 다를 가능성이 크다. 경찰청 관계자는 “실제 최종 합격자의 남녀 성별 비율이 어떻게 될지는 미지수지만, 9개월간의 초임 순경 교육을 통해 현장 대응력을 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>5조 온라인 도박단, 200억 횡령범... 한국 범죄자 49명 필리핀서 송환</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/DXMRMKXFOVG4JJ4O4YZI6RGJRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/DXMRMKXFOVG4JJ4O4YZI6RGJRE/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 07:30:00 +0000</pubDate>
-      <content:encoded>경찰청은 동남아 유명 관광지 필리핀으로 도피했다가 현지에서 붙잡힌 한국 범죄자 49명을 3일 한국으로 송환했다고 밝혔다. 범죄 피의자 해외 송환 사례 중 역대 최대 규모다.&lt;br&gt;&lt;br&gt;이날 송환된 피의자 중엔 최근 피해 규모가 급증하고 있는 보이스피싱 등 사기 피의자가 25명으로 가장 많았다. 온라인 불법 도박 사이트 등 사이버 범죄 피의자는 17명, 강력 범죄 피의자는 3명이었다. 횡령·외국환거래법 위반·탈세·성범죄 피의자도 1명씩 포함됐다. 평균 도피 기간은 3년 6개월이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QLOPCXKABF5FJLNDUXKWQLP6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 필리핀 니노이 아키노 공항에서 주황색 옷을 입은 한국인 범죄자들이 호송을 기다리고 있다. 경찰청은 이날 한국인 범죄자 49명을 필리핀에서 일시 송환했다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 중엔 손도끼로 한국인 관광객을 협박해 현금 1000만원을 뜯어낸 2인조 강도, 2018년부터 5조3000억원 규모의 온라인 불법 도박 사이트를 운영한 범죄 조직원들도 포함됐다. 자신이 경영하던 중소기업 자금 200억원을 횡령한 후 16년간 해외 도피를 계속하던 기업 대표도 있었다.&lt;br&gt;&lt;br&gt;이들 중 인터폴 적색 수배서가 발부된 대상자는 45명, 이들을 대상으로 국내 수사 기관에서 내려진 수배는 154건이었다. 이들에게 사기 피해를 당한 국민은 총 1322명, 합산 피해액은 605억원이었다. 불법 도박 사이트 운영자들이 올린 수익은 10조7000억원이었다.&lt;br&gt;&lt;br&gt;이들은 이렇게 범죄 수익을 챙겨 필리핀에서 도피 생활을 해왔다. 그러나 한국 경찰이 현지 경찰과 공조한 끝에 모두 현지에서 검거할 수 있었다. 경찰 관계자는 “지난 6월 초 현지에 파견된 한국 경찰과 필리핀 이민청의 수배자 추적팀 요원 30여 명의 공조로 불법 도박 사이트를 운영하던 조직원 8명을 현지 주거지에서 체포했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YBYE7U6E5AOFJI2UTQZTRJ36E.png"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 필리핀 니노이 아키노 공항에서 주황색 옷을 입은 한국인 범죄자들이 호송되고 있다. 경찰청은 이날 한국인 범죄자 49명을 필리핀에서 일시 송환했다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이번 송환을 위해 국내 경찰관과 의료진 등 130여 명을 투입했다고 밝혔다. 인천국제공항 입국장에는 대테러기동대 등 경찰 100여 명을 배치해 송환 대상자들이 입국 후 호송 차량에 탑승하는 과정을 감시했다. 주필리핀 한국 대사관(대사 이상화)은 구체적인 송환 규모와 신병 인도 절차, 전세기 운항 등 세부 절차를 현지 당국과 조율했다. 경찰청은 “국제 공조를 통한 범죄 척결의 상징적 성과”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원행정처, 특검법 개정안에 “예외 없는 재판 공개는 신중해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/03/63N66L7TJBHQ5GVSRCUQTWPRB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/63N66L7TJBHQ5GVSRCUQTWPRB4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 06:21:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6W4YXQDNLNP45CJUWOOG4YDYP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 법안심사제1소위원장이 2일 서울 여의도 국회에서 열린 법제사법위원회 제1차 법안심사제1소위원회에서 의사봉을 두드리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검이 기소한 재판을 예외 없이 공개하고 의무적으로 녹음·녹화하도록 한 특검법 개정안에 대해 법원행정처가 “신중한 검토가 필요하다”는 의견을 밝혔다. &lt;br&gt;&lt;br&gt;3일 박준태 국민의힘 의원을 통해 입수한 특검법 법안 심사 자료에 따르면 법원행정처는 “심리의 예외 없는 공개는 경우에 따라 국가의 안전보장과 안녕질서, 선량한 풍속을 해칠 우려가 있다”며 “재판장의 소송지휘권과 피고인 방어권을 보장할 필요성 등을 종합적으로 고려할 때 신중한 검토가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;특검 수사 범위·기간을 늘리고 인력을 확충하는 내용의 3대 특검법 개정안에는 재판을 예외없이 공개하도록 하는 내용도 일부 담겼다. 특히 내란 특검이 기소한 사건의 경우 1심 재판은 반드시 중계하도록 했다. &lt;br&gt;&lt;br&gt;현행 내란 특검법은 ‘재판장은 특검이나 피고인 신청이 있는 경우 중계를 허가하되 특별한 사정이 있다고 판단되는 경우에는 중계를 불허할 수 있다’고 규정하고 있는데, 1심 재판에 한해 중계를 의무화한다는 것이다. 재판 공개 규정이 없던 해병 특검법도 개정안에 ‘재판의 심리와 판결은 공개한다’ ‘심리 전부를 속기하고 녹음 또는 영상톡화를 해야 한다’는 규정을 신설했다.&lt;br&gt;&lt;br&gt;이에 관해 법원행정처는 “사건 특성상 국가 기밀로 인해 심리를 일부 비공개하고 증인 신문을 할 필요가 있을 수 있다”며 “심리를 공개할 경우 증인의 증언에 제약이 발생해 실체적 진실 발견에 장애가 될 위험이 있다”고 했다. 또 “대법원 규칙 등 현행 규정에는 중계 범위가 공판 개시 전이나 판결 선고 때로 제한돼 있다”고 지적했다. &lt;br&gt;&lt;br&gt;예외 없이 모든 절차를 속기하고 녹음·녹화하도록 한 것에 대해 법원행정처는 “재판 절차가 지연되고 소송관계인의 사생활 비밀이나 신변안전을 침해할 위험이 있을 수 있다”며 “일정한 예외를 정하는 것을 추가적으로 검토할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;특검법 개정안은 지난 2일 더불어민주당 주도로 국회 법제사법위원회 제1법안심사소위원회를 통과했다. 국민의힘은 부작용이 많다며 반발해 퇴장했다. 민주당은 이르면 오는 4일 법사위 전체회의를 열고 개정안을 처리하겠다는 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘내란 방조’ 한덕수 전 국무총리, 오는 16일 첫 재판</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/03/VUJVSG4QXNBRPDTVZB4JMJV2JQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/VUJVSG4QXNBRPDTVZB4JMJV2JQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 07:48:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6MDOFZJIAHYOX7DZDAS7SX2GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 내란 행위 방조 혐의 등을 받는 한덕수 전 국무총리가 지난달 27일 경기 의왕시 서울구치소에서 구속 전 피의자 심문(영장실질심사)이 기각되자 구치소를 나서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포를 방조하는 등 윤석열 전 대통령의 내란 행위에 가담했다는 혐의로 기소된 한덕수 전 국무총리의 1심 재판이 오는 16일 시작된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 이날 한 전 총리의 공판 준비기일을 오는 16일 오후 2시로 지정했다. 공판 준비기일은 정식 재판에 앞서 사건의 쟁점과 향후 심리 일정 등을 정리하는 절차로 피고인 출석 의무는 없다. 첫 정식 재판은 30일 오전 10시에 열린다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 지난달 29일 한 전 총리를 불구속 기소했다. 내란 우두머리 방조와 허위공문서 작성·행사, 공용서류손상, 대통령기록물법 위반, 위증 등 6개 혐의를 적용했다. &lt;br&gt;&lt;br&gt;특검은 한 전 총리가 윤석열 전 대통령의 불법 비상계엄 선포를 저지하지 않고 오히려 형식적 정당성을 갖추게 하려고 국무회의 소집을 건의하는 등 내란 행위를 방조했다고 판단했다. 최초 계엄 선포문의 법적 하자를 덮기 위해 ‘사후 선포문’을 작성하고 폐기한 혐의, 헌법재판소와 국회에서 “계엄 선포문을 인지하지 못했다”고 위증한 혐의도 있다. &lt;br&gt;&lt;br&gt;내란 특검은 기소에 앞서 한 전 총리에 대해 구속영장을 청구했지만 법원은 “중요한 사실관계 및 피의자의 일련의 행적에 대한 법적 평가와 관련해 다툴 여지가 있다”며 지난달 27일 영장을 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘총상 사망’ 육군 대위, 유서 통해 괴롭힘·가혹행위 주장</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/B5H3CTW3QZGMVJL3JLS6XMOEGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/B5H3CTW3QZGMVJL3JLS6XMOEGM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 07:41:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZOE4WVUOAZNQZPBFUVRPCKTFBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 대구 수성구 수성못 인근에서 현역 육군 대위가 총상을 입고 사망한 채 발견된 가운데 사건 현장에서 육군수사대와 경찰, 과학수사대 등이 현장조사를 벌이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 수성못에서 총상을 입고 숨진 채 발견된 육군 대위가 괴롭힘·가혹행위 등을 호소하는 유서를 남긴 사실이 확인됐다. &lt;br&gt;&lt;br&gt;3일 경북경찰청과 육군 등에 따르면 전날 오전 6시 29분쯤 육군 3사관학교 소속 A 대위가 대구시 수성못 인근에서 머리에 총상을 입고 숨진 채 발견됐다. 현장에서는 K2 소총과 유서가 발견됐다. &lt;br&gt;&lt;br&gt;A 대위는 유서를 각각 군 당국, 부모, 기자들을 상대로 세 부분으로 나눠 작성했는데 특히 기자들을 대상으로 작성한 유서에는 직장 내 괴롭힘과 가혹행위 정황을 호소하는 내용이 담겨 있었다. &lt;br&gt;&lt;br&gt;현재 A 대위 사건은 군사 경찰이 일차적으로 기본 사실관계를 확인하고 있으나 현행법상 군사 경찰은 군인 사망 시 가혹행위나 성범죄 등 정황이 확인될 경우 경찰에 신속히 사건을 이첩해야 한다.&lt;br&gt;&lt;br&gt;경찰은 사건이 이첩되면 유서 내용을 바탕으로 가혹행위와 괴롭힘 정황 등을 수사할 예정이다.&lt;br&gt;&lt;br&gt;육군 관계자는 조선닷컴과의 통화에서 직장 내 괴롭힘과 가혹행위 정황을 호소한 유서 내용과 관련, “현재는 수사 중이라 그와 관련한 입장 표명이 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박나래 집 털어간 절도범 징역 2년… “피해자가 엄벌 탄원”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/03/H447C66YHBDADHYBXVEZ7TYXAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/H447C66YHBDADHYBXVEZ7TYXAM/</guid>
@@ -959,25 +974,6 @@
       <description/>
       <pubDate>Wed, 03 Sep 2025 02:46:09 +0000</pubDate>
       <content:encoded>서울 관악구 신림동에서 칼부림이 발생해 40대 남성 2명 등 총 4명이 중상을 입는 사고가 3일 발생했다.&lt;br&gt;&lt;br&gt;소방 등에 따르면, 이날 오전 10시 50분쯤 서울 관악구 신림동에서 칼부림이 발생해 30대 남성 1명, 40대 남성 2명, 여성 1명이 복부에 부상을 입고 인근 병원으로 이송됐다. 이중 남성 2명은 심정지 상태다.&lt;br&gt;&lt;br&gt;경찰은 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서로를 보는 눈에 애정 가득…6·25 전쟁 속 ‘한미 커플’ 흑백 사진</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/03/6GZMGJFRHVDS7H5LOOC7QZNDZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/03/6GZMGJFRHVDS7H5LOOC7QZNDZU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Sep 2025 02:35:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BR4TR37JUZFCLFKDEPY3CVT54A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년대 한국으로 파병 온 미국인 할아버지와 한국인 할머니의 모습이라며 공개된 사진./레딧&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 촬영된 한국인 여성과 파병 온 미국인 남성 부부의 흑백 사진이 공개돼 화제다.&lt;br&gt;&lt;br&gt;지난 1일 글로벌 온라인 커뮤니티 ‘레딧’ 한국 게시판에는 ’1952~1953년쯤 조부모님과 아버지’라는 제목으로 흑백 사진이 공유됐다.&lt;br&gt;&lt;br&gt;사진 속에는 한복을 입은 앳된 얼굴의 한국인 아내와 미국인 남편, 어린 아들의 모습이 담겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4FYXRX23FG6RJWVDVAW2WUTNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년대 한국으로 파병 온 미국인 할아버지와 한국인 할머니의 모습이라며 공개된 사진./레딧&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;첫 번째 사진에서 부부는 활짝 웃으며 서로를 바라보고 있다. 상의를 벗은 채 얼굴에 면도 크림을 바른 남편 앞에서 아내는 거울을 들어주고 있다.&lt;br&gt;&lt;br&gt;또 다른 사진에서 남편은 한국에 주둔하는 미군 육군 제8군 소속임을 나타내는 표시가 새겨진 군복을 입은 채 아이를 안고 있다. 한복 차림의 아내는 그 옆에 앉아 환하게 웃고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QHQVTLY4YZABZKQKRPND7BMR4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년대 돌잔치 모습./레딧&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이 돌잔치 때 찍은 것으로 보이는 사진에는 한복을 차려 입은 아이 앞에 각종 과일과 떡, 전 등이 한상 가득 푸짐하게 차려져 있다.&lt;br&gt;&lt;br&gt;또 아내가 장총을 들고 사격 자세를 취하거나 군용 트럭 운전대를 잡는 등 전쟁 중인 상황을 보여주는 모습도 담겼다.&lt;br&gt;&lt;br&gt;사진 속 부부의 손녀라고 밝힌 작성자는 “할머니는 북한 출신이었고, 전쟁 중 고향이 폭격을 당해 월남한 후 할아버지가 있는 군부대의 간호사로 취직했다”며 “전쟁 중에 만난 두 사람은 여기저기 옮겨 다녔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “할아버지는 한국전쟁이 얼마나 끔찍했는지 제게 말씀해 주셨다”며 “이 사진들을 보니 할머니는 암울했던 그 시절 할아버지께 ‘삶의 빛’이셨던 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXW5H4W3GFHEHEZA476E3JMAII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1950년대 미군과 결혼한 한국인 여성이 장총을 들고 사격 자세를 취한 모습./레딧&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작성자에 따르면 사진 촬영 당시 할머니는 20세쯤, 할아버지는 26세쯤이었다. 할머니는 군인이었던 남편 근무지에 따라 독일로 향했다가 1960년대에 다시 한국으로 돌아왔고, 작성자가 태어날 무렵엔 미국 워싱턴주 터코마에 거주했다. 할머니는 2004년 노환으로 세상을 떠났다.&lt;br&gt;&lt;br&gt;작성자는 “할머니와 할아버지는 끝까지 서로를 사랑했다. 할머니가 무엇을 부탁하든 할아버지는 늘 들어주셨다”며 “할머니는 사랑으로 손주들을 돌보셨다. 미역국을 끓여주시고, 포도 껍질을 일일이 까주셨던 기억이 난다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “(내가) 해물 순두부를 먹을 때는 매운 음식도 잘 먹는다며 자랑스러워하셨다”며 “할머니의 음식 덕분에 한국 음식을 정말 좋아하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이 게시글은 하루 만에 4만 개가 넘는 추천을 받으며 큰 관심을 모았다.&lt;br&gt;&lt;br&gt;국내외 네티즌들은 “가장 행복해 보이는 커플이다” “정말 감동적인 사진” “역사의 한장면이다” “전쟁 속에서도 저런 밝은 미소가 나올 수 있다니 슬프고 감동적이다” 등의 반응을 보냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ZXGMPFZ7SNCZBGPRSUDT6NAHEU.gif?auth=c56ac59ae97642fc6f1694c90861d3734f5747b2d4d4c73e358022708c3d124a&amp;smart=true&amp;width=494&amp;height=277" type="image/jpeg" height="277" width="494"/>
-    </item>
-    <item>
-      <title>김건희 특혜 투자 의혹 IMS 대표 구속영장 기각...“구속 필요성 소명 부족”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/03/CUH4ER4UVBCF7GY6OR7IJ2SIJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/03/CUH4ER4UVBCF7GY6OR7IJ2SIJI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Sep 2025 21:08:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7GOKZ562BNRHI55LLN4CXZJYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 측근 김예성씨 횡령 의혹에 연루된 조영탁 IMS모빌리티 대표가 조사를 받기 위해 20일 오전 서울 종로구 김건희 특검팀(특별검사 민중기) 사무실로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 측근 김예성씨가 김 여사와의 친분을 내세워 부당하게 거액을 투자받았다는 의혹과 관련해 특검이 조영탁 IMS모빌리티 대표 등에 대해 청구한 구속영장이 3일 기각됐다.&lt;br&gt;&lt;br&gt;박정호 서울중앙지법 영장 전담 부장판사는 조 대표와 모재용 IMS모빌리티 경영지원실 이사, 민경민 오아시스에쿼티파트너스 대표 등 3명에 대한 특검의 구속영장 청구를 모두 기각했다. 박 부장판사는 “구속 필요성이나 도주, 증거인멸의 염려에 대한 소명이 부족하다”고 기각 사유를 밝혔다. &lt;br&gt;&lt;br&gt;세 사람은 모두 김씨가 한때 임원으로 있던 IMS모빌리티가 대기업과 금융사에서 투자금을 유치하는 과정에서 수십억원을 횡령한 의혹에 연루됐다. 특검은 2023년 6월 자본잠식 상태이던 IMS모빌리티가 오아시스를 통해 카카오모빌리티·신한은행 등 기업들로부터 184억원을 받았다고 의심하고 있다. 김 여사와의 친분을 이용해 대가성 자금을 받았다는 것이다. 특검은 조 대표 구속영장 청구서에 “윤석열 전 대통령, 김 여사와의 친분을 투자업계에서 과시해 왔다”는 취지의 내용을 포함한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조 대표와 민 대표는 투자 유치 과정에서 각각 32억원의 배임 행위를 한 혐의를 받고 있다. 조 대표에게는 35억원을 횡령한 혐의도 적용됐다. 모 이사는 특검이 IMS모빌리티를 압수수색하기 직전 PC등을 치우려하는 등 증거를 은닉한 혐의를 받는다. 박 부장판사는 전날 오전 10시부터 3시간가량 세 사람의 구속영장 실질 심사를 진행한 뒤, 이날 새벽 4시30분쯤 영장을 기각했다. &lt;br&gt;&lt;br&gt;이 의혹의 핵심인 김씨는 IMS모빌리티 자금 48억원을 횡령한 혐의로 지난달 29일 구속 기소됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
