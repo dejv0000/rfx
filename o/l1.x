@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김건희특검, 국교위 압수수색...'이배용 매관매직 의혹'</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211174.jpg" alt="458.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정부서울청사 내 국가교육위원회. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사의 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 이배용 국가교육위원장의 매관매직 의혹과 관련해 국가교육위원회에 대한 강제수사에 나섰다. &lt;br /&gt;&lt;br /&gt;특검팀은 5일 언론 공지를 통해 "이날 오전 이 위원장 귀금속 공여 의혹 사건과 관련해 국가교육위원회 압수수색에 착수했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이 위원장은 김 여사에 금거북이 등을 건네고 인사청탁을 했다는 의혹을 받는다. &lt;br /&gt;&lt;br /&gt;특검팀은 양평 공흥지구 개발 특혜 의혹과 관련해 김 여사 일가에 대해 압수수색 하다가, 이 위원장이 윤 전 대통령에게 건넨 것으로 보이는 편지와 금거북이를 발견하고 수사에 착수했다. &lt;br /&gt;&lt;br /&gt;한편 특검팀은 이날 오전 대통령 경호처도 압수수색하고 있다. 특검팀은 "관련 수사에 필요한 자료를 제출받기 위한 압수수색"이라고 밝혔다. &lt;br /&gt;</description>
+			<pubDate>Fri, 05 Sep 2025 02:31:39 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211174</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211174</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211174.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>여변 직장맘지원센터, 양성평등 확산 공로로 여가부 장관표창 수상</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211170.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;여성가족부 주관 '2025년 양성평등진흥 유공 장관표창' 시상식에서 김문정 서울시 서남권직장맘지원센터장(왼쪽에서 세 번째). 《사진=한국여성변호사회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;)가 운영하는 서울특별시 서남권직장맘지원센터(센터장 김문정)가 9월 4일 '2025년 양성평등진흥 유공 포상'에서 여성가족부 장관표창을 수상했다. &lt;br /&gt;&lt;br /&gt;직장 내 양성평등 문화 확산과 일‧가정 양립 지원 강화를 위한 센터의 지속적인 노력과 실질적 기여가 높은 평가를 받았다.&lt;br /&gt;&lt;br /&gt;센터는 △모성보호 및 일‧가정양립제도 활용 촉진을 통한 근로환경 개선 △출산전후휴가‧육아휴직 등 제도의 교육‧홍보 및 현장 확산 △참여형 캠페인과 협력 네트워크를 통항 양성평등 인식 제고 △현장 의견을 기반으로 한 제도 개선 건의 및 정책 반영 △언론‧미디어를 활용한 사회적 담론 형성 등 다방면에서 체계적인 활동을 전개해왔다.&lt;br /&gt;&lt;br /&gt;센터는 일선 현장의 사례와 수요를 정책에 적극 반영해 실행력을 강화하고 제도의 활용도를 높이고자 했다. 이를 통해 양성평등 가치의 사회적 확산에 기여한 점이 주요 공적으로 평가됐다.&lt;br /&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;(57·사법연수원 29기) 한국여성변호사회 회장은 “이번 수상은 무엇보다 센터가 현장에서 직장맘과 함께 호흡하며 제도의 실질적 활용을 지원해 온 노력의 성과”라며 “앞으로도 직장맘의 권익 보호와 일‧가정 양립 문화의 정착을 위해 최선을 다하겠다”고 소감을 밝혔다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211170.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;한편 센터는 오는 9월 22일 서울 서초구 서초동 변호사회관에서 ‘육아기 근로시간 단축 현행제도 개선 토론회’를 개최한다. 센터 개소 이후 누적된 6만여 건의 상담 데이터를 토대로 현행 제도의 사각지대를 점검하기 위해서다. &lt;br /&gt;&lt;br /&gt;관계 전문가들과 육아기 근로시간 단축을 실제 사용한 직장맘과 육아기 근로시간 단축을 허용한 사업장의 인사담당자, 고용노동부 여성고용정책과 담당자가 토론자로 함께 해 실질적인 개선안을 모색하는 자리가 될 예정이다. 참가신청은 9월 1일부터 센터 홈페이지를 통해 가능하다.</description>
+			<pubDate>Fri, 05 Sep 2025 02:29:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211170</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211170</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211170.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 소송 과정에서 개인정보 제출…대법 "정당행위여서 무죄"</title>
 			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;재판 과정에서 주장의 증명이나 범죄 혐의에 대한 방어권 행사를 위해 개인정보가 포함된 자료를 법원에 제출한 경우, 사회상규에 반하지 않아 위법이 아니라는 대법원 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1377"&gt;노태악&amp;nbsp;&lt;/span&gt;대법관)는 7월 18일 개인정보보호법 위반 혐의로 기소돼 유죄를 선고받은 A 씨 사건 상고심에서 원심을 파기하고 무죄 취지로 사건을 대전지법에 환송했다(&lt;b&gt;2023도3673&lt;/b&gt;).&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원은 같은 날 선고된 또 다른 사건(&lt;b&gt;2023도17590&lt;/b&gt;)에서도 고발장 접수 과정에서 개인정보가 담긴 자료를 제출한 행위가 정당행위에 해당한다고 판단해 무죄 취지로 환송했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;대구 서구의 한 아파트 동대표 회장이던 A 씨는 관리소장 B 씨와 공모해 2020년 6월 입주자대표회의 해산 관련 가처분 사건에서 재판부 요구에 따라 입주자카드 584장을 제출했다. 카드에는 세대주와 가족의 생년월일, 주소, 직업, 차량번호, 전화번호 등이 기재돼 있었으며 주민등록번호 뒷자리는 삭제된 상태였다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심은 개인정보보호법 위반을 인정해 벌금 70만 원을 선고했다. 항소심도 유죄 판단을 유지했지만, 제출 경위를 참작해 벌금 70만 원에 집행유예 1년을 선고했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;법원에 개인정보가 포함된 자료를 제출하는 행위를 위법하다고 볼 것인지.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 무죄 취지로 사건을 파기 환송했다. 재판부는 "재판과정에서 소송상 필요한 주장의 증명이나 범죄혐의에 대한 방어권 행사를 위하여 개인정보가 포함된 소송서류나 증거를 법원에 제출하는 경우, 고소·고발 또는 수사절차에서 범죄혐의 소명이나 방어권 행사를 위하여 개인정보가 포함된 증거자료를 수사기관에 제출하는 경우에는 사회상규에 위배되지 않는 행위에 해당하여 형법 제20조에 따라 위법성이 조각될 수 있다"고 판시했다.&lt;br /&gt;또한 "정당행위 해당 여부는 개인정보 제출자의 수집·보유 경위와 목적, 제출 상대방, 제출의 필요성과 범위, 비실명화 등 안전조치 여부, 제출된 개인정보의 성격·양, 침해되는 법익의 정도, 대체 수단 존재 여부, 불가피한 사정 유무 등을 종합적으로 고려해 객관적이고 합리적으로 판단해야 한다"고 심리 기준을 제시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 05 Sep 2025 00:10:53 -0000</pubDate>
@@ -216,26 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211121</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211121.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>노만석 검찰총장 대행 "보완수사로 실체 밝히는 건 검찰 의무"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211118.jpg" alt="34537.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;노만석 검찰총장 직무대행 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당이 검찰개편을 추진하며 보완수사권 폐지를 주장하는 가운데,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1493"&gt;노만석&lt;/span&gt;&amp;nbsp;검찰총장 직무대행이 "적법절차를 지키면서 보완수사를 통해 실체적 진실을 밝히는 것은 검찰의 권한이 아니라 의무"라는 입장을 밝혔다. &lt;br /&gt;&lt;br /&gt;4일 대검찰청에 따르면 노 대행은 전날 부산에서 열린 제32차 마약류퇴치국제협력회의(ADLOMICO)에 참석한 뒤 부산고검과 지검을 격려 방문한 자리에서 "현재는 현재의 상황에서, 미래는 미래의 상황에서 국민을 범죄로부터 지키기 위해 우리의 의무를 다하자"며 이같이 말했다.&lt;br /&gt;&lt;br /&gt;더불어민주당 검찰개혁 특별위원회는 검찰의 보완수사권을 없애고 보완수사요구권만 남겨야 한다고 주장한다. 중대범죄수사청(중수청)은 행정안전부 산하에 설치해야 한다는 주장도 하고 있다. &lt;br /&gt;&lt;br /&gt;노 대행의 발언은 검찰개편 논의 과정에서 보완수사권 폐지가 쟁점으로 떠오른 상황을 의식한 것으로 풀이된다.</description>
-			<pubDate>Thu, 04 Sep 2025 04:30:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211118</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211118</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211118.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>민주당 '검찰청 해체' 가닥…중수청, 행안부 산하에 두는 방안 유력</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211109.jpg" alt="54647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;3일 국회에서 열린 검찰개혁 및 정부조직법 개편 의견 수렴을 위해 열린 민주당 정책 의원총회 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;더불어민주당이 검찰청을 폐지하고 기존 검찰의 수사권을 넘겨받을 중대범죄수사청(중수청)을 행정안전부 산하에 두는 쪽으로 잠정 결론 내린 것으로 3일 전해졌다. &lt;br /&gt;&lt;br /&gt;민주당은 이날 국회에서 정책의원총회를 열고 △검찰청 폐지 및 중수청·공소청 신설을 골자로 한 검찰개혁안 △기후에너지부 신설 △기재부·금융위 개편 등을 논의했다.&lt;br /&gt;&lt;br /&gt;백승아 원내대변인은 의총 후 브리핑에서 "검찰청 폐지 법안의 이달 내 통과를 목표로, 행안부와 법무부 중 중수청 소재를 어디로 할지에 대한 논의만 있었다"며 "많은 의원이 얘기했는데 행안부 안이 대다수였고 법무부 안은 없었다"고 밝혔다. 다만 "중수청을 총리실 산하에 두자는 의견도 있었다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;중수청 소속 문제는 여권 내에서 최대 쟁점이었다. 강경파는 중수청을 법무부에 둘 경우 검찰 출신과의 연결고리가 유지돼 개혁 효과가 반감된다며 행안부 안을 주장해 왔다. 반면 정성호 법무부 장관은 중수청을 행안부에 두면 권한 남용을 통제하기 어렵다며 반대해 왔다.&lt;br /&gt;&lt;br /&gt;민주당은 이번 논의를 바탕으로 9월 4일 검찰개혁 공청회를 열고 9월 7일 고위당정협의에서 최종 결론을 내린 뒤 정부조직법 개정안을 발의할 계획이다.&lt;br /&gt;&lt;br /&gt;백 원내대변인은 "최종적으로 이재명 대통령의 의지가 중요한 것이어서 이를 참조해 결정은 정부에서 할 것으로 의총에서 정리했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;또 '보완수사권과 관련해 검찰 출신 의원들이 상반된 의견을 내지 않았느냐'는 질문에, 백 원내대변인은 "오늘은 보완수사권의 경우 논의 대상이 아니었다. 얘기하다 보니 잠깐 나온 수준"이라며 "앞으로 보완수사권에 대해서는 심도 있게 얘기할 시간이 따로 있을 것"이라고 말했다.&lt;br /&gt;</description>
-			<pubDate>Thu, 04 Sep 2025 01:55:46 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211109</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211109</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211109.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
