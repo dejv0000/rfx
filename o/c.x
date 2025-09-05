@@ -13,6 +13,76 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>3代가 산부인과학 발전에 헌신... 신희철 서울대 의대 명예교수 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/05/GC7CULNOANH7XBSDVYQ6KBYHSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/05/GC7CULNOANH7XBSDVYQ6KBYHSQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 12:15:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5NYFMOBYWZHSVJAR574L27NRNQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;신희철 교수. /대학신문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위험 임신 분야의 권위자로 꼽힌 신희철(78) 서울대 의대 산부인과 명예교수가 5일 오후 7시 별세했다. 고인은 1947년 서울에서 태어나 경기고와 서울대 의대를 졸업하고 산부인과 의사의 길을 걸었다. 1981년 전임강사로 서울대 의대 산부인과학 교실에 부임해 2012년 교수로 퇴임할 때까지 40여년간 산모를 돌보고 태아를 받았다.&lt;br&gt;&lt;br&gt;조부와 부친의 뒤를 이어 3대(代)가 국내 산부인과학 발전을 위해 헌신한 것으로 유명하다. “아버님의 모습을 보고 의사가 돼야겠다는 숙명을 느꼈다”고 했다. 고인의 조부는 1925년 한국인 최초로 산부인과를 개원한 신필호 선생이다. 부친 신한수 전 서울대 의대 명예교수는 1960년대 산부인과 전문의 제도 도입의 산파 역할을 했다. 고인도 임신중독증 등으로 위험한 상태에 놓인 산모와 태아를 치료하는 고위험 임신 분야를 전공했고, 대한모체태아의학회 명예회장과 대한산부인과초음파학회 이사 등을 지냈다. 2012년 교수 정년을 맞아 모교 신문과 한 인터뷰에서는 “출산은 하늘이 정하는 일이기 때문에 의사가 자신의 기술로 환자를 살리려 애를 쓰면 일이 잘못되는 경우가 많다”며 “산부인과 의사는 기다릴 줄 알아야 한다”고 했다.&lt;br&gt;&lt;br&gt;유족으로는 아내 윤재명씨와 자녀 신지영·신지현맥킨지코리아 본부장·신지원·신덕규인사동39 대표가 있다. 빈소는 서울대병원장례식장에 마련됐다. 발인은 8일 오전 5시 30분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초등생들 3차례 납치하려 해놓고... “장난이었다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/PZHHPEVBBFG2VBFQ3YLVCAQBYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/PZHHPEVBBFG2VBFQ3YLVCAQBYA/</guid>
+      <dc:creator>장윤 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 12:43:46 +0000</pubDate>
+      <content:encoded>지난달 28일 오후 3시 36분 서울 서대문구 홍은동. 한 초등학교 주변에서 회색 SUV 탑승자들이 창문을 내리더니 가방을 멘 초등학생 두 명에게 말을 걸었다. 아이들이 뒷걸음치자 SUV는 후진을 해 따라갔다. 아이들은 겁에 질린 채 소리를 지르며 뒤돌아 도망쳤다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서가 5일 브리핑을 통해 공개한 CCTV에 담긴 모습이다. 경찰은 전날 서대문구 초등학교 근처에서 어린이들을 유괴하려고 한 혐의로 20대 초반 남성 세 명을 긴급 체포하고, 이 중 범행에 적극 가담한 두 명에 대해 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 체포된 남성 세 명은 지난달 28일 오후 3시 30분 초등학생들에게 차량으로 접근한 뒤 “귀엽다. 집에 데려다줄게”라고 말을 걸며 유인하려고 했다. 이들의 범행은 3시 31분, 32분, 36분에 걸쳐 세 차례 반복됐다. 현재까지 경찰이 파악한 피해 학생은 네 명으로, 모두 초등학교 저학년 남학생이었다.&lt;br&gt;&lt;br&gt;이들은 경찰 조사에서 “전날 술을 마신 뒤 만나 짬뽕을 먹은 뒤 초등학생들이 귀엽게 생겨 장난 삼아 던진 말인데 깜짝 놀라는 모습을 보고 재밌어서 계속했다”고 진술했다. 즉석에서 범행을 계획했고 실제 차량에 태워 유괴할 의도는 없었다는 주장이다. 경찰이 구속영장을 신청하지 않은 피의자 1명은 “잘못되면 중범죄가 될 수 있다”고 제지했다. 경찰도 충동적인 장난이었을 가능성도 배제하지 않고 있다. 법원도 이날 “혐의 사실, 고의 등에 다툼의 여지가 있어 방어권을 보장할 필요성이 있다”며 두 명에 대한 구속영장을 기각했다. 피의자들은 친구 사이고 동종 전과는 없는 것으로 조사됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 이 사건 초기 수사에 한계가 있었다고 인정했다. 지난 1일 범행이 일어난 인근 초등학교는 학부모들에게 “최근 인근에서 유괴 시도가 있었다”며 주의를 당부하는 공지를 보냈고, 이 사실이 언론을 통해 보도됐다. 그러나 당시 경찰은 “수사팀이 CCTV를 확인했지만 약취·유인 행위는 발견되지 않았다”고 했었다. 그러나 이후 추가 신고가 접수되자 강력팀을 투입해 수사에 나섰고, 범행이 사실로 드러났다. 경찰은 “신고 당시 차량은 흰색 스타렉스로 접수됐지만 실제 범행에 쓰인 건 회색 쏘렌토였다”며 “차종과 색상이 달라 사실 확인에 어려움이 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/F2BFX724YET2YJ6N67EJC5OT7M.jpg?auth=404061be577a14def893d9431f2345809ebecf494e9c70acaed1468db2919258&amp;smart=true&amp;width=3747&amp;height=2741" type="image/jpeg" height="2741" width="3747">
+        <media:description type="plain">초등학생들을 유괴하려 한 혐의로 긴급체포된 20대 남성 3명 중 A씨와 B씨가 5일 오전 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다. 이들은 지난달 28일 서대문구 홍은동의 한 초등학교 인근에서 장소를 옮겨가며 총 3차례에 걸쳐 초등학생을 대상으로 범행을 시도했었다. 2025.9.5/뉴스1 ⓒ News1 이광호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이광호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법원, ‘초등생 3차례 유괴 미수’ 일당 구속 기각 </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/V62EIZLN6VFJDNFHSNHUGA5DH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/V62EIZLN6VFJDNFHSNHUGA5DH4/</guid>
+      <dc:creator>장윤 기자, 최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 13:26:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCXZGDPT6VO5TMUFDPP5KZIPOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;초등학생들을 유괴하려 한 혐의로 긴급체포된 20대 남성 3명 중 두 명이 5일 오전 10시 30분 서울 마포구 서울서부지방법원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1
+
+이들은 지난달 28일 서대문구 홍은동의 한 초등학교 인근에서 장소를 옮겨가며 총 3차례에 걸쳐 초등학생을 대상으로 범행을 시도했었다. 
+ 2025.9.5/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서대문구 초등학교 근처에서 귀가하는 초등생들을 세 차례 유괴하려 한 일당이 구속을 면했다.&lt;br&gt;&lt;br&gt;서울서부지법 김형석 영장전담 판사는 5일 오전 미성년자 유인미수 혐의를 받는 20대 남성 2명에 대한 구속 전 피의자 심문(영장실질심사)을 연 뒤 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;법원은 “피의자들의 혐의 사실, 고의 등에 다툼의 여지가 있어 방어권을 보장할 필요성이 있다”며 구속영장 기각 사유를 밝혔다. 또 법원은 “피의자의 주거지가 일정하고 대부분의 증거가 수집돼 있어 증거인멸이나 도망의 염려가 있다고 보기 어려운 점 등에 비춰볼 때 현 단계에서 구속의 사유와 필요성을 인정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;피의자들은 지난달 28일 오후 3시 30분쯤 서울 서대문구 초등학교 인근에서 초등생들에게 차량으로 접근한 뒤 “귀엽다. 집에 데려다줄게”라고 말을 걸며 유인하려고 한 혐의를 받는다. 이들의 범행은 3시 31분, 32분, 36분에 걸쳐 세 차례 반복됐다. 현재까지 경찰이 파악한 피해 학생은 네 명으로, 모두 초등학교 저학년 남학생이었다.&lt;br&gt;&lt;br&gt;이들은 경찰 조사에서 “전날 술을 마신 뒤 만나 짬뽕을 먹은 뒤 초등학생들이 귀엽게 생겨 장난 삼아 던진 말인데 깜짝 놀라는 모습을 보고 재밌어서 계속했다”고 진술했다. 즉석에서 범행을 계획했고 실제 차량에 태워 유괴할 의도는 없었다는 주장이다. 경찰이 구속영장을 신청하지 않은 피의자 1명은 “잘못되면 중범죄가 될 수 있다”고 친구들을 제지하기도 했다. 경찰도 충동적인 장난이었을 가능성도 배제하지 않고 있다. 피의자들은 친구 사이고 동종 전과는 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘당원 모집·갑질’...광주 서구 장애인복지관장, 사무국장 징계</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/L3VC7HJKYFFD3AKZLB6SKJQK6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/L3VC7HJKYFFD3AKZLB6SKJQK6I/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 12:03:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEPOTOVCXM4PGRFVEIWKAIAMQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 서구청 전경. 뉴스1DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 서구의 한 장애인 복지시설에서 ‘당원 모집’과 ‘갑질’ 논란이 있었던 관장과 사무국장이 징계를 받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;광주 서구는 산하 복지시설인 서구 장애인복지관 관장에게 정직 2개월을, 사무국장에게는 사직서 수리 조치가 이뤄졌다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 익명의 제보자가 광주 시민단체 등에 서구장애인복지관 권리당원 모집·갑질 의혹을 투서를 보냈다. &lt;br&gt;&lt;br&gt;해당 제보와 관련, 서구는 관련자들을 대상으로 사실관계 조사를 진행했고 일부 내용이 사실로 밝혀졌다. &lt;br&gt;&lt;br&gt;한편 이날 열린 민간위탁심의위원회에서는 위탁 해지 여부도 논의됐지만 시설 내 개선책을 조건으로 위탁운영을 유지하기로 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘동성 동료의원 성추행’ 실형받은 세종시의원 민주당서 ‘제명’ </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/QKCIBE7FTRG5JKUCMRQ7LHQ5QI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/QKCIBE7FTRG5JKUCMRQ7LHQ5QI/</guid>
+      <dc:creator>세종=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 11:41:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B6CV32HGDJDNXF35KDXQBRQM4A.png"&gt;&lt;figcaption&gt;&lt;small&gt;상병헌 세종시의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동성 동료의원을 성추행한 혐의로 실형을 선고받은 더불어민주당 소속 상병헌 세종시의원이 당으로부터 제명됐다.&lt;br&gt;&lt;br&gt;더불어민주당 세종시당 윤리심판원은 상병원 의원을 제명한다고 5일 밝혔다. 당은 “징계 혐의 사실이 인정돼 윤리심판원 규정 제19조에 의거해 제명 처분을 내렸다”고 했다.&lt;br&gt;&lt;br&gt;앞서 상 의원은 전날 탈당계를 제출했지만 당은 징계 회피 목적으로 판단했다. &lt;br&gt;&lt;br&gt;세종시의회도 상 의원에 대한 징계를 추진 중이다. 세종시의회 윤리특위는 전날 상 의원에 대한 제명안을 의결하고 오는 8일 예정된 시의회 100회 임시회 2차 본회의에 상정했다. 재적 의원 20명 중 3분의 2 이상인 14명이 찬성하면 상 의원의 제명이 확정된다. &lt;br&gt;&lt;br&gt;상 의원은 세종시의회 의장이었던 지난 2022년 8월 서울 여의도의 한 음식점에서 만찬 겸 술자리를 한 뒤 도로변에서 같은 당 남성의원의 신체 일부를 만지고, 국민의힘 소속 남성 의원에게 입맞춤을 하는 등 추행한 혐의로 지난 7월 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한국의 타임스스퀘어’ 광화문스퀘어 개장식 광화문광장서 열려</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/G3UVNCM5PNENRGUJO7PE7ZOBFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/G3UVNCM5PNENRGUJO7PE7ZOBFQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 11:25:02 +0000</pubDate>
+      <content:encoded>서울 광화문광장 일대를 미국 뉴욕 맨해튼의 타임스스퀘어 같은 미디어·광고 명소로 만드는 ‘광화문스퀘어 프로젝트’가 5일 시민에게 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKVK6LL7CVIPDCYNF4FO6LBCEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 서울 광화문광장에서 열린 광화문스퀘어 오프닝 세리머니에서 KT WEST 빌딩에 설치된 대형 전광판에 공연 영상이 재생되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 7시 광화문광장에서는 ‘광화문스퀘어 개장식’이 열렸다. 김민재 행정안전부 차관을 비롯해 정문헌 종로구청장 등이 개장식에 참석했다.&lt;br&gt;&lt;br&gt;이날 개장식의 백미는 전광판 점등식이었다. 시민들이 전광판에 나오는 숫자를 바라보며 카운트다운을 외치자, KT 광화문 빌딩의 전광판 2개에서 동시에 미래의 광화문광장 모습 등을 담은 영상이 흘러 나왔다.&lt;br&gt;&lt;br&gt;광화문스퀘어는 광화문광장 주변 건물 9곳에 대형 전광판을 걸어 미디어·광고 명소로 조성하는 사업이다. 지난 4월 코리아나호텔 외벽에 가로 22m, 세로 60m 크기 전광판이 처음 불을 밝혔다. 이번에 둘째로 KT 광화문 빌딩에 가로 47m, 세로 21m 크기 대형 전광판이 걸린 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZP7SM7G3MBCVNPAKKJNGXQGLDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 설치된 코리아나호텔 외벽 전광판의 모습. /종로구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10월에는 동아미디어센터에도 대형 전광판이 생긴다. 종로구는 내년 초까지 9곳 모두를 가동한다는 목표다.&lt;br&gt;&lt;br&gt;정문헌 종로구청장은 이날 개장식에서 “뉴욕의 타임스스퀘어를 뛰어넘는 새로운 광화문광장으로 거듭난다”며 “전 세계 사람들이 모여 즐길 수 있는 공간이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>워크숍 참석했다 실종 40대 소방공무원...이틀 만에 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/XPJBGE5X4VDDRCCVR4PJJAEHVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/XPJBGE5X4VDDRCCVR4PJJAEHVA/</guid>
+      <dc:creator>장흥=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 10:57:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;워크숍에 참석했다 실종됐던 소방공무원이 이틀 만에 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;5일 전남 장흥경찰서에 따르면 이날 오후 5시 40분쯤 장흥댐 늑룡교 교각 아래에서 소방공무원 A(40대)씨로 추정되는 시신이 발견됐다.&lt;br&gt;&lt;br&gt;전남 지역의 한 소방서에서 근무했던 A씨는 지난 2일부터 1박 2일 일정으로 전남 여수에서 열린 직장 워크숍에 참석한 것으로 전해졌다. 그러던 중 연락이 끊겼고, A씨의 가족은 지난 3일 경찰에 실종신고를 했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 A씨의 행방을 추적하다 장흥댐 근처에서 A씨의 차량을 확인하고 주변을 수색해왔다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 정확한 사망 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>GH 이직한 경기도지사 전 비서관, 부하 여직원 성추행 피소</title>
       <link>https://www.chosun.com/national/national_general/2025/09/05/4ZTUCUXR65B63HMOQOE5CLOVE4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/4ZTUCUXR65B63HMOQOE5CLOVE4/</guid>
@@ -838,15 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKLFV5P727KZHSK52OHASA5JNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀(김건희 특검팀) 박상진 특검보가 8월 29일 서울 세종대로 특검에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 지난 7월 말 김건희 여사 친오빠인 김진우씨의 장모 집을 압수 수색하면서 확보한 이우환 화백 그림의 구매자를 김상민 전 검사로 특정한 것으로 4일 확인됐다. 김 전 검사는 김 여사가 작년 총선 때 경남 창원 의창에 국민의힘 공천을 받게 하려고 했던 사람이다. 김 전 검사는 국민의힘 공천을 받지는 못했으나 총선 후 국가정보원장 특별보좌관에 임명됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김씨 장모 집에서 찾았던 이 화백의 그림 ‘점으로부터(From Point) No.800298’을 김 전 검사가 구매해 김씨에게 전달했다는 진술을 최근 확보한 것으로 전해졌다. 이 작품은 2022년 6월 대만 경매에서 한국인 이모씨가 약 3000만원에 낙찰받아 한국으로 들여왔다. 이후 김 전 검사가 2023년 초쯤 이 그림을 약 1억원에 구매한 것으로 특검은 파악했다고 한다.&lt;br&gt;&lt;br&gt;김진우씨 측은 이 그림이 김 전 검사에게 ‘대리 구매’를 부탁해 매입한 것이란 입장이다. 김 전 검사에게 그림 값도 줬고 김 여사와는 관련이 없다는 주장이다. 앞서 김 여사도 특검 조사에서 이 그림과 관련해 “내 것이 아니다. 나라면 구매하지 않았을 것”이라고 진술했다고 한다. 그러나 특검은 김 여사가 김 전 검사로부터 그림을 선물받고, 그 대가로 그가 국민의힘 공천을 받을 수 있도록 영향력을 행사하려 했거나 총선 후 국정원장 특보에 임명되도록 했을 가능성을 수사 중이다.&lt;br&gt;&lt;br&gt;김 여사는 작년 4월 총선에서 김 전 검사를 경남 창원 의창에 출마시키기 위해 영향력을 행사했다는 의혹을 받고 있다. 특검은 김 여사가 작년 2월 이곳 지역구 의원인 김영선 전 국민의힘 의원에게 전화해 “김상민 검사가 당선될 수 있도록 하면 선거 이후 장관 또는 공기업 사장 자리를 주겠다며 불출마를 종용했다는 진술을 확보했다. 실제 김 전 의원은 작년 2월 18일 경남 김해갑으로 지역구를 바꾸겠다고 밝혔다.&lt;br&gt;&lt;br&gt;다만 김 전 검사는 끝내 경남 창원에서 국민의힘 공천을 받지 못했다. 이후 그는 작년 8월 국정원장 법률특보에 임명됐다. 특검은 이 과정에 김 여사가 관여한 것은 아닌지 규명한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>천안 금은방서 귀금속 1억원어치 턴 20대 하루만에 검거</title>
-      <link>https://www.chosun.com/national/regional/2025/09/04/Z4UCDVCXKBAFBDCJIJUREJJTHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/Z4UCDVCXKBAFBDCJIJUREJJTHY/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 11:24:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YRWIDZ6HFL3BB566VQ44PRZVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 금은방에 진열된 금 장신구 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안시의 한 금은방에 들어가 1억원 상당의 귀금속을 훔쳐 달아난 20대가 범행 하루 만에 검거됐다.&lt;br&gt;&lt;br&gt;천안동남경찰서는 4일 오후 6시 25분쯤 서산에서 A(27)씨를 붙잡았다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 7시 30분쯤 천안시 동남구 신부동 한 금은방에 들어가 둔기로 진열장을 깨뜨린 뒤 순금 목걸이 등 1억원 상당의 귀금속을 훔쳐 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 모자와 마스크를 쓰고 금은방에 들어가 “배달 왔다”고 말하며 물건을 놓는 척하다가 범행한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 과정에서 인명 피해 등은 발생하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 가게 앞에 있던 오토바이를 타고 도주한 뒤 차량을 이용해 서산까지 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 우선 특수절도 혐의로 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“포고령 위법 몰랐나” 특검 추궁에, 現경찰 “열심히 일한 죄밖에…억울”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/04/4HGXOUAQWJDH5MMXGRNLJI64TM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/4HGXOUAQWJDH5MMXGRNLJI64TM/</guid>
@@ -854,15 +915,6 @@
       <description/>
       <pubDate>Thu, 04 Sep 2025 10:50:58 +0000</pubDate>
       <content:encoded>경찰 간부들의 내란 혐의 재판에 증인으로 나온 현직 경찰 간부가 “열심히 일한 경찰은 억울하다”고 내란 특검을 향해 주장했다. 12·3 비상계엄 당일 국회의원을 체포하라는 지시를 받은 적도 없다고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFBNGNA2GDYUZJODHYECEBSSFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 서초구 서초동 서울중앙지법 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 4일 내란 중요임무 종사 등 혐의로 기소된 조지호 경찰청장·김봉식 전 서울경찰청장 등 경찰 간부들의 21차 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 재판에는 이치수 전 영등포경찰서 형사2과 강력계장, 김만중 전 경찰청 경비안전계장, 이재현 전 영등포경찰서 수사2과장이 증인으로 나왔다. &lt;br&gt;&lt;br&gt;검찰은 오후 증인으로 출석한 이재현 전 과장에게 “포고령에 국회 및 정치 활동을 일체 금지하고 영장 없이 체포할 수 있다는 내용이 있었는데 위법·부당하다는 생각은 안 했는가”라고 물었다. 그러자 “(경찰은) 억울하다. 정말 열심히 일한 죄밖에 없는데 이렇게 색안경을 끼고 곡해해 판단해서 잘못이라고 하니 억울하다”고 이 전 과장은 답했다.&lt;br&gt;&lt;br&gt;이어 내란 특검팀의 이윤제 특검보는 “당시 큰 문제가 없었고 잘 기억이 안 난다는 취지로 말하는 증인의 인식에 놀랐다”면서 “경찰은 국민을 보호해야 하는 것 아니냐. 포고령 내용을 보시지 않았냐”고 따져 물었다.&lt;br&gt;&lt;br&gt;그러자 이 전 과장은 “특검보님, (비상계엄 당일) 그게 위법하다는 것을 알고 이행할 수 있는 사람이 얼마나 됐을까요”라고 했다. 이어 “국회의원을 체포하라 했으면 거부했을 것이다. 그런 얘기가 없었고 질서 유지하라는 게 다였다”라며 “경찰은 질서 유지를 하러 나갔는데 그게 왜 잘못인가”라고 토로했다. &lt;br&gt;&lt;br&gt;아울러 “집시 사범이 혹시 발생하면 유치장이 필요할 수 있다고 생각했지만, 국회의원 구금이나 체포는 예상하지 못했다”라며 “계엄 사범의 유치장 인치는 염두하지 못했다”는 취지로 말했다.&lt;br&gt;&lt;br&gt;그는 지난해 12월 3일 비상계엄 선포 당일 영등포경찰서에 남아 현장 지원 및 조사를 담당했다고 했다. 포고령 내용과 관련해 계엄법 조항을 검토하고, 혹시나 생길 상황에 대비해 유치장 등을 준비했다고 한다.&lt;br&gt;&lt;br&gt;한편 이날 오전 재판에서 검찰은 박창균 전 형사1과장과 이치수 전 강력계장의 비상계엄 당일 통화 녹음을 공개했다. 녹음에는 박 전 과장이 이 전 계장에게 “방첩사 체포조가 온다고 한다. 형사 5명 붙여달라고 하니 누구 데려갈지 명단을 좀 달라”고 말한 내용이 담겼다. &lt;br&gt;&lt;br&gt;이 전 계장은 “통화했지만 내용을 명확하게 기억하지는 못한다”라며 “방첩사라는 것도 그때 처음 들어봤다”라고 했다. 이어 비상계엄 당시 사용됐던 ‘체포조’라는 단어에 대해 “순간적으로 말을 편하게 하려고 한 말이라 생각한다”면서 국회의원 체포 업무를 뜻한 것은 아니라는 취지로 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인재 유출’ 서울대, 우수 교수 75세까지 재임용하겠다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/GPZRVOIJIJC2PAZ4IX5NL3UR4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/GPZRVOIJIJC2PAZ4IX5NL3UR4U/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 09:44:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCKNXVINL7P5DSM5EEYWDJCKPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인재 유출 비상에 걸린 서울대가, 재직 중인 석과 교수 중 일부를 ‘특임 석좌 교수’로 선정해 65세 정년 이후 최대 10년간 재임용 가능한 제도를 신설했다.&lt;br&gt;&lt;br&gt;서울대는 지난 8월 평의원회에서 특임석좌교수 제도를 심의해 도입했다고 4일 밝혔다. 서울대는 ‘서울대학교 석좌 교수 등에 관한 규정’에 “재직 중인 석좌교수 중 학문적 업적이 탁월하고 해당 분야 교육 및 연구에 기여할 수 있는 사람을 정년 이후에 특임 석좌 교수로 임용할 수 있다”는 내용을 신설했다.&lt;br&gt;&lt;br&gt;특임 석좌 교수는 재직 중인 석좌 교수 중에서 우수한 석학을 선정해 65세 정년 이후 5년 동안 재임용해 연구 공간, 학술 활동비 등을 지원받을 수 있다. 이후 성과 평가를 거쳐 75세까지 또 한 번 재임용될 수도 있다. &lt;br&gt;&lt;br&gt;앞서 서울대 교수회는 지난 4월 탁월한 성과를 낸 교수들이 65세 정년 이후에도 학교에서 계속해서 연구·교육을 할 수 있도록 최대 70세까지 재임용하는 방안을 내놨다. 이에 서울대 본부 또한 우수 교수 재임용 방안 등을 연구해온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한국 고등교육법상 교수의 정년은 65세로 고정돼 있다. 그러나 포스텍, 카이스트 등 일부 대학에선 우수 교수에 대해선 정년 이후에도 연구를 지원해주고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란 특검, 국민의힘 원내대표실 압수수색 종료...“협의 거쳐 진행”</title>
@@ -874,24 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ICPLQB6OGMCKXLNAWGVXMVPD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 의원들이 3일 오후 서울 여의도 국회 국민의힘 원내대표실 앞에서 긴급 의원총회를 가진 가운데 내란특검 수사관들이 원내대표실 압수수색에 나서며 영장을 꺼내고 있다. 2025.9.3/뉴스1 ⓒ News1 신웅수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 원내대표실과 행정국 등을 대상으로 한 내란 특검의 압수 수색이 야당과의 대치 끝에 사흘 만에 마무리됐다.&lt;br&gt;&lt;br&gt;내란 특검은 4일 국민의힘 원내대표실에 대한 압수 수색이 종료됐다고 밝혔다. 특검은 이날 언론 공지를 통해 “협의를 거쳐 형사소송법 절차에 따라 진행됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이날 야당으로부터 임의제출 형식으로 자료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 지난 2일부터 국민의힘 원내대표실과 행정국 등에 대한 압수 수색을 시도했지만, 야당의 반발로 이틀 연속 무산됐다. 야당 의원들은 국회 복도에서 의원총회를 열고 연좌농성을 벌이며 저지했다.&lt;br&gt;&lt;br&gt;특검은 추경호 전 국민의힘 원내대표가 윤석열 전 대통령 측의 요청을 받고 의원총회 장소를 여러 차례 변경하는 방식으로 다른 의원들의 계엄 해제 표결 참여를 방해했다는 의혹을 수사 중이다.&lt;br&gt;&lt;br&gt;이와 관련해 지난 2일 추 전 원내대표의 자택과 사무실, 차량 등을 압수 수색해 관련 자료를 확보했다. 국민의힘 조지연 의원실과 당 사무처 직원의 휴대전화도 압수 수색 대상에 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“중국인 2명이 자판기 다 쓸어가”… 아이돌 굿즈 ‘되팔이’ 논란 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/P6JAFRDCEVGUTJYB6SDRONVKQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/P6JAFRDCEVGUTJYB6SDRONVKQQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 08:36:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MK3GULS65FB4JAZKWEYWCWZUWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아이돌 굿즈 상품을 전부 사 가는 중국인 남성과 여성에게 한국인 팬들이 항의하고 있다. /X&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아이돌 팝업스토어에서 상품을 싹쓸이해가는 중국인들이 포착돼 논란이 일고 있다. &lt;br&gt;&lt;br&gt;4일 온라인에는 중국인 되팔이 업자 2명이 아이돌 그룹 NCT 위시 팝업스토어 자판기 상품을 전부 사 갔다는 내용의 글이 확산했다. &lt;br&gt;&lt;br&gt;한 네티즌이 공유한 영상을 보면, 중국어를 쓰는 남성과 여성이 커다란 가방에 상품을 허겁지겁 담는다. 가방은 이미 상품들로 가득 찼고, 자판기는 텅텅 빈 상태다. &lt;br&gt;&lt;br&gt;이에 한국인들이 “정신 차리세요. 여기 줄 서 있는 사람이 몇 명인데” “여기 기다리는 사람이 몇 명인데” “양심 없다” 등 소리치며 항의했다. 다만 중국인들은 아랑곳하지 않고 상품을 쓸어 담았고, 되레 항의하는 한국인들을 향해 손가락질하기도 했다. &lt;br&gt;&lt;br&gt;이 영상은 국내뿐만 아니라 웨이보 등 중국 소셜미디어 등으로도 퍼지며 논란이 됐다. 한 네티즌이 올린 게시물은 조회 수가 240만회를 넘겼다. &lt;br&gt;&lt;br&gt;네티즌들은 영상 속 두 사람을 한정 판매 상품을 대량으로 구매한 뒤 웃돈을 얹어 되팔아 마진을 남기는 ‘황니우(黃牛)’로 추정했다. 황니우는 중국에서 암표상이나 리셀러 등 되팔이 업자를 일컫는 말로, 동영상 플랫폼 틱톡 등을 통해 물건을 재판매하는 것으로 알려져 있다. &lt;br&gt;&lt;br&gt;네티즌들은 “아무리 선착순이라지만 너무한 것 아니냐” “팬이라서 많이 사는 건 괜찮은데, 되팔이꾼 같아서 화난다” “한국에서 하루도 안 돼서 사라진 물량들이 왜 알리익스프레스에는 많이 남아있나 했더니 이런 이유 때문인 것 같다” 등의 반응을 보였다. 일각에선 운영 방식을 문제 삼기도 했다. “이건 되팔이꾼보다도 1인 구매 제한을 두지 않은 소속자 잘못” “1인 한정 수량을 설정해놨어야 하는 것 아니냐” 등이다. &lt;br&gt;&lt;br&gt;중국인 되팔이꾼이 온라인에서 논란이 된 건 이번이 처음은 아니다. 지난 4~5월 잠실 송파구에서 열린 포켓몬스터 행사에도 사은품을 얻어가려는 중국 업자들이 몰려들었다는 목격담이 쏟아졌다. 또 지난 5월 일본에서는 중국인들이 경품으로 주는 ‘치이카와’를 챙기려고 맥도날드 해피세트를 대량으로 사 갔다는 글이 올라오기도 했다. &lt;br&gt;&lt;br&gt;중국 현지에서도 황니우로 인한 혼란은 꾸준히 발생하는 것으로 알려졌다. 2022년 베이징 동계 올림픽 당시에는 마스코트 ‘빙둔둔’ 상품 재판매 사례가 이어져 공안 당국까지 나서 브로커를 처벌한 바 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고용노동부 “노조 ‘추투’ 노란봉투법과 무관... 인수합병은 노동쟁의 대상 아냐”</title>
-      <link>https://www.chosun.com/national/labor/2025/09/04/ZYI7QCW4YZFVZDMW74AKUEJH2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/04/ZYI7QCW4YZFVZDMW74AKUEJH2Y/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 08:46:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KHHQAZYVQN5BLLMF34KTHXLQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 서울 여의도 국회에서 열린 제428회 국회(임시회) 제2차 본회의에서 노동조합 및 노동관계조정법 일부개정법률안(대안)이 재석 186인, 찬성 183인, 반대 3인, 기권 0인으로 가결되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 고용노동부가 HD현대중공업과 HD현대미포의 합병 결정과 같은 인수합병은 노동조합법 2·3조 개정안(노란봉투법) 시행 이후에도 노동 쟁의 대상이 될 수 없다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;노동부는 이날 오후 정부세종청사에서 최근 주요 사업장 노조들이 돌입한 파업 관련 출입 기자단 설명회를 열었다. 노동부 관계자는 “현대차, 한국GM, HD현대조선 3사 등의 최근 파업은 개정 노조법이 아닌 임단협 과정에서 발생한 노사 간 입장 차이 때문에 발생했다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법의 핵심 중 하나는 노동조합이 노동 쟁의의 대상으로 삼을 수 있는 범위에 ‘근로 조건에 영향을 미치는 사업 경영상의 결정’이 포함되는 것이다. 이 때문에 경영계에서는 인수합병이나 공장 이전, 해외 투자 등까지 노조 파업의 원인이 될 수 있다는 우려가 나오고 있는 상황이다.&lt;br&gt;&lt;br&gt;그러나 이날 노동부 관계자는 “인수합병처럼 근로 조건에 영향을 미칠 수 있는 가능성이 일반적인 사업 경영상 결정이 전부 노동 쟁의 대상이 되는 것은 아니다”라며 “사업 경영상 결정 중에서도 인원 감축이나 정리 해고 같이 근로 조건에 미치는 영향이 직접적이고 밀접한 경우 노동 쟁의 대상이 되는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “인수합병 관련해서는 설명을 해줄 것과 고용 안정을 확인해줄 것을 노조가 요구하고 있는데, 사측이 이를 들어준다고 하고 있기 때문에 인수합병이 파업 원인이라고 보기는 어렵다”고 밝혔다. &lt;br&gt;&lt;br&gt;현대차 노조는 지난 3일부터 7년 만에 부분 파업에 돌입했다. 한국GM은 지난 7월부터 16차례 부분 파업을 이어가고 있다. HD현대조선 3사는 지난 3일 공동 파업을 진행했으며, 오는 10·12일에도 두 차례 파업이 예정돼 있다.&lt;br&gt;&lt;br&gt;HD현대조선 3사 중 HD현대중공업과 HD현대미포의 이사회는 지난달 27일 한미 조선업 협력 프로젝트에 대응하기 위해 2사 합병을 의결한 바 있다. 이에 두 회사 노조는 합병으로 인한 구조조정 등이 발생하면 공동 대응을 하겠다고 선언했다. 이후 일각에서는 노란봉투법의 영향이 있다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;한국GM 노조가 임금 협상과 별개로 회사에서 진행 중인 직영 정비 센터 매각 철회를 요구하고 있는 상황과 관련해서는 “대부분 노조가 임금 인상과 관련 없는 내용으로만 파업하는 경우는 없다”며 “법원에서는 주된 목적과 종된 목적을 나눠 파업 정당성 여부를 파악한다”고 했다.&lt;br&gt;&lt;br&gt;노동부 관계자는 “노조법 개정안 시행까지 남은 6개월간 노사 및 전문가들의 의견을 수렴해 원청의 사용자성 판단 기준과 노동쟁의 범위, 교섭 절차 등에 대한 구체적인 매뉴얼을 마련할 것”이라며 “이 과정에서 경영계가 과도한 우려를 하지 않고, 노동계도 과도한 기대를 하지 않도록 현장 지원 TF를 통해 소통하며 준비하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 경찰, 서대문구 초등학생 유괴 미수 20대 남성 3명 긴급체포</title>
       <link>https://www.chosun.com/national/national_general/2025/09/04/27STJOT3ZVHPTNESX6YUX3IFTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/27STJOT3ZVHPTNESX6YUX3IFTI/</guid>
@@ -899,15 +933,6 @@
       <description/>
       <pubDate>Thu, 04 Sep 2025 08:05:15 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2XWI4OTHJE3BL7MKEPTV67AO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 서울 서대문구 한 초등학교 인근에서 아동을 납치하려 한 일당을 붙잡았다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 약취 유인 미수 혐의를 받는 20대 남성 3명을 긴급체포하고 이 중 2명에 대한 구속영장을 신청했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난달 28일 오후 3시 30분쯤 초등학교 인근에서 차량에 탑승한 채 3차례 초등학생들에게 접근해 “귀엽다, 집에 데려다줄게” 등 말을 걸면서 유인하려 한 혐의를 받는다. 다만 어린이들이 모두 자리를 피해 유괴 시도는 미수에 그쳤다.&lt;br&gt;&lt;br&gt;이 초등학교는 지난 1일 가정통신문을 통해 “주말 사이 인근 초등학교 후문과 포방터시장 공영주차장 놀이터 부근에서 흰색 차량에 탑승한 낯선 남성 두 명이 아이들에게 접근해 집까지 데려다주겠다고 제안한 사례가 보고됐다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;다만 경찰은 최초 신고했던 차량의 색상이 일당의 차량과 달라 수사에 차질을 빚었던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한편 대검찰청에 따르면 13세 미만 아동 유괴 범죄는 2020년 113건, 2021년 138건, 2022년 178건, 2023년 204건으로 매년 증가하는 추세다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘재판 중단’ ‘말 맞추기’ 우려...대법원이 지적한 특검법 개정안</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/04/PULY5M75GBDC7DYTP2VY4Q7ATA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/PULY5M75GBDC7DYTP2VY4Q7ATA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 07:25:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7ZXPX5ILBMILHOV3RSLSXW5KM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 여의도 국회에서 제429회 국회(정기회) 법제사법위원회 제1차 법안심사제1소위원회가 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 추진하는 특검법 개정안에 담긴 ‘재판 중계 의무화’ 조항에 대해 대법원 법원행정처가 국회에 “위헌 소지가 있다”는 의견을 밝혔다. 4일 주진우 국민의힘 의원이 대법원에서 받은 의견서에 따르면, 법원행정처는 내란 특검법 개정안 중 ‘1심 재판을 반드시 중계해야 한다’는 조항의 위헌 소지와 부작용을 조목조목 지적했다.&lt;br&gt;&lt;br&gt;법원행정처는 이 조항이 “법원의 비공개 심리 결정 권한을 규정한 헌법에 위반될 소지가 있다”고 했다. 재판의 심리와 판결을 공개하되 ‘재판의 심리는 국가의 안전보장·안녕질서를 방해하거나 선량한 풍속을 해할 염려가 있을 때는 법원 결정으로 공개하지 않을 수 있다’고 규정한 헌법 109조에 반할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;위헌 소지 때문에 재판이 지연되거나 나중에 재판 결과가 문제 될 수 있다는 지적도 했다. 피고인이 법령을 문제 삼아 위헌법률심판제청 신청을 하고, 재판부가 이를 받아들여 헌재에 위헌심판 제청을 하면 헌재 결정이 나오기까지 재판이 중단되기 때문이다. 법원행정처는 “헌재가 위헌 결정을 내릴 경우 이미 진행된 재판의 적법 여부도 문제가 될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;증인·피고인의 ‘말 맞추기’ 위험이 있다는 우려도 나왔다. 법원행정처는 “형사재판은 유죄 입증을 위해 엄격한 증명·증거를 요구하기 때문에 하나의 사실관계에 대해 여러 증인과 피고인의 진술을 듣게 된다”며 “재판이 전부 중계되고 증인이 앞서 나온 증거·증언을 숙지하고 나와 말 맞추기를 할 경우, 증언의 신빙성을 판단하기 어려워질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;특히 내란 특검은 수사 대상에 외환죄를 포함하고 있어 국가 기밀 누설 우려가 있는 경우 비공개 재판이 필요할 수 있다는 의견이 담겼다. 법원행정처는 “내란 사건 특성 상 군인 등 다수 공무원들이 증인으로 나올 텐데, 재판이 모두 중계된다고 하면 소관 부서에서 승낙을 안 하거나 증언을 거부할 우려도 있다”고 했다. &lt;br&gt;&lt;br&gt;이 밖에 “재판부와 특검, 변호인에 대한 과도한 비난이나 ‘신상 털기’ 등이 우려된다”고도 했다. 법원행정처는 “국민적 관심이 많은 사건의 재판 중계를 통해 국민의 알권리를 보장하고 재판의 절차적 투명성·공정성을 높이려는 입법 취지는 공감할 수 있으나, 이 같은 이유로 신중 검토가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이민정, ‘예수상’ 앞에서 명품백 들고 사진 찍었다가...“무례하다”</title>
@@ -926,24 +951,6 @@
       <description/>
       <pubDate>Thu, 04 Sep 2025 05:00:06 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KINPBJMWOJEC5ENBPRCQOGXPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시내에 위치한 삼성혈/제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역에 뿌리를 둔 옛 탐라왕국의 기원을 상징하는 고·양·부 삼성(三姓)사재단이 창립 104년 만에 존폐 기로에 놓였다.&lt;br&gt;&lt;br&gt;4일 삼성사재단에 따르면 작년에 재산세와 종합부동산세로 부과된 세금은 41억8600만원이다. 또 올해와 내년까지 납부할 세금 예상액은 116억원에 달한다. &lt;br&gt;&lt;br&gt;세금 폭탄을 맞은 토지는 조선시대 임금이 탐라국을 건국한 삼성(三姓) 시조를 위해 하사한 위토(位土)다. 위토란 제례에 필요한 비용을 충당하기 위해 마련된 토지다. 삼성사재단은 일제강점기 토지조사령에서 토지 수탈을 막고 법적 주체성을 확보하기 위해 1921년 비영리 재단으로 설립됐다.&lt;br&gt;&lt;br&gt;재단에 따르면 지방세법 개정 전인 2021년 약 5억원의 세금을 냈다. 그런데 정부는 2022년부터 부동산 투기 근절을 위해 사학법인과 종교단체까지 종부세를 단계적으로 적용하면서 삼성사재단도 포함됐다. 그 결과 2022년 17억원, 2023년 28억원, 2024년 41억원 등 매년 세금이 눈덩이처럼 불어났다.&lt;br&gt;&lt;br&gt;재단 관계자는 “그동안 재단 소유 토지를 처분하면서 세금을 냈다”며 “정부가 지속적으로 종부세를 부과할 경우 10년 내 자산이 소멸돼 제향(祭享·나라에서 지내는 제사)은 물론 장학사업, 탐라문화상 시상 등 공익활동과 사회공헌을 하기 어렵게 됐다”고 했다.&lt;br&gt;&lt;br&gt;재단 측은 지난해 9월 세금 감면을 위한 국회 청원을 냈다. 재단 측은 “종친·문중회가 법인재단으로 설립된 것은 삼성사재단이 유일한 사례”라며 “국가에서 하사한 토지 때문에 ‘파산’할 지경에 이르렀다”고 법 개정의 필요성을 밝혔다.&lt;br&gt;&lt;br&gt;같은 성과 본을 가진 후손들이 공동의 선조를 모시는 종중(宗中)은 자연발생적 혈족·친목단체로 세금 부담이 크지 않았다. 2013년까지만 해도 삼성사재단은 연간 5000여 만원의 세금을 냈다. 그런데 2013년 정부의 유권해석에서 ‘3개의 종중이 공익목적을 위해 출연된 재산을 기반으로 재단법인을 설립, 등기를 했다’며 자연발생적인 혈족단체가 아닌 법인격을 갖춘 재단으로 판단, 분리 과세(낮은 세율 부과) 특례를 인정하지 않았다.&lt;br&gt;&lt;br&gt;삼성사재단은 지난해 남조로 도로 편입 보상금과 아파트 등을 처분해 41억원의 세금을 납부했다.&lt;br&gt;&lt;br&gt;재단은 현재 약 1500필지의 토지를 소유하고 있는 것으로 알려졌다. 하지만 현재의 법에 따라 세금을 낼 경우 10년 내 존립이 어려울 것으로 내다봤다.&lt;br&gt;&lt;br&gt;한편, 국가지정 문화재 사적 134호인 삼성혈(三姓穴)은 삼신인이 솟아난 세 개의 구멍(穴)을 뜻한다. 1526년(중종 21) 이수동 제주목사가 돌담을 쌓고, 붉은 칠을 한 홍문(紅門)과 혈비(穴碑)를 세우면서 성역화됐으며, 유교식 혈제(穴祭)를 지냈다. 1698년(숙종 24) 유한명 목사는 탐라시조의 위패를 모신 성전인 삼성전(三姓殿)을 건립했다. 1785년 정조는 삼성사(三姓祠) 편액을 하사했다. 매년 4월 10일과 10월 10일에 춘추대제를, 12월 10일 탐라 시조를 기리는 건시대제(乾始大祭)를 봉향하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“왜 다른 남자 만나” 임신한 전 부인 살해한 40대, 징역 40년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/04/AUMLV26ZWFCRPCQXEVAK5RVY34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/AUMLV26ZWFCRPCQXEVAK5RVY34/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 다른 남자를 만난다는 이유로 임신한 전 부인을 찾아가 흉기로 살해한 40대 남성에게 중형이 확정됐다. 대법원 1부(주심 서경환 대법관)는 살인·살인미수 혐의로 기소된 A(44)씨의 상고심에서 징역 40년을 선고하고 5년의 보호관찰을 명령한 원심 판결을 최근 확정했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해&amp;nbsp; 3월 전북 전주시 완산구의 한 미용실에서 임신 7개월이던 전 부인 B씨를 흉기로 찔러 살해하고, B씨와 결혼을 앞두고 있던 남자친구에게도 흉기를 휘둘러 살해하려다 미수에 그친 혐의로 기소됐다. 뱃속에 있던 아이는 사건 직후 응급수술로 태어나 치료를 받았으나 19일 만에 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 수사 기관에서 B씨가 다른 남자와 교제를 시작한 것과 자신과 사이에서 낳은 딸 양육에 소홀해진 것에 배신감과 서운한 마음이 들었다고 진술했다. 그러나 조사 결과 B씨는 오히려 자신이 딸을 키우겠다고 말하는 등 양육에 소홀히 한 점이 확인되지 않았고, A씨는 이혼 후에도 수시로 찾아가 협박해온 것으로 나타났다. &lt;br&gt;&lt;br&gt;A씨는 1심 재판 과정에서 심신 미약을 주장했지만, 재판부는 이를 받아들이지 않고 징역 40년에 보호관찰 5년을 선고했다. 재판부는 “정신 감정 결과에 의하면 A씨는 범행 당시 불안과 분노가 주 증상이었고 우울장애에는 해당하지 않았던 것으로 보인다”며 “사전에 범행 도구·시기를 계획한 점을 보면 심신 미약 상태에까지 이르렀다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;2심도 “유족들이 여전히 신체적·정신적 충격을 회복하지 못하고 있고 엄벌을 탄원하고 있다”며 1심 판결을 유지했다. 2심 재판부는 “응급수술로 태어난 아이가 가족들 품에 제대로 안겨보지도 못한 채 생을 마감한 결과를 양형에 참작하지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 “범행 동기와 수단, 범행 이후 정황 등 여러 사정을 살펴보면 1·2심에서 선고한 징역 40년이 심히 부당하다고 할 수 없고 살인 범죄를 다시 범할 위험성을 인정해 보호관찰을 명하고 준수 사항을 부과한 판단에도 잘못이 없다”며 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>지하철 좌석 4칸 차지한 채 ‘쿨쿨’...논란된 사진 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/IR5ZHTK6HVAQZPQ3P5F42WJC3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/IR5ZHTK6HVAQZPQ3P5F42WJC3E/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 02:48:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JWFM7Y55NEIBJK2WOGOC4HNME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 지하철 좌석 4칸을 차지한 채 잠을 자고 있다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지하철에서 한 남성이 좌석 4칸을 차지한 채 누워 있는 모습이 포착돼 논란이 되고 있다. &lt;br&gt;&lt;br&gt;지난 3일 온라인 커뮤니티 보배드림에는 ‘지하철이 자기 집인 줄 알고 대자로 누움’이라는 제목의 글과 함께 사진 한 장이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “퇴근길 지하철에서 자리가 있나 싶어 안을 살펴보니 사람이 별로 없어 앉아갈 생각으로 들어갔는데 사진처럼 누워서 자는 승객 때문에 텅 비었던 것”이라며 사진 한 장을 공개했다.&lt;br&gt;&lt;br&gt;공개된 사진을 보면 한 남성이 가방을 베개 삼아 지하철 좌석 4칸을 차지한 채 드러누워 자고 있다. 신발도 신은 채 그대로 좌석에 올려진 상태였다. &lt;br&gt;&lt;br&gt;A씨는 “남성은 30대 정도로 보이고 코까지 골았다”며 “남성 민폐 행동 때문에 다른 이용객들은 서서 갔다”고 했다. 그러면서 “제발 공중도덕을 지키면 좋겠다. 적어도 타인에게 불편을 주는 무례함은 자제하자”고 했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “다음에 탈 사람에 대한 배려가 하나도 없다” “일어나라고 소리쳤어야 했다” “왜 이렇게 이런 행동을 하는 사람들이 점점 늘어나냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;지하철에서 일부 승객들이 도 넘은 행동으로 시민들이 불편을 겪은 건 이번이 처음은 아니다. 지난 7월에는 무궁화호 열차에서 한 승객이 홀로 좌석 5칸을 차지하고 누워 스마트폰을 하는 모습이 포착됐다. 또 지난해에도 한 남성이 다리를 쩍 벌린 채 지하철 자리 4칸에 걸쳐 누워 있는 모습이 온라인에 확산하면서 네티즌들의 공분을 사기도 했다. &lt;br&gt;&lt;br&gt;이런 상황을 목격할 경우, 승객은 지하철 불편신고를 통해 일부 문제를 해결할 수 있다. 1~8호선은 1577-1234로, 9호선은 1544-4009로 신분당선은 031-8018-7777로, 공항철도와 경의·중앙선 그리고 분당선은 1544-7769로 전화를 걸거나 문자를 보내면 된다. 객실 내에 생긴 모든 문제에 관해 민원신고가 가능하며, 해당 내용은 기관사에게 전달된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
