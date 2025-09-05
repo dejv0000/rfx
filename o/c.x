@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>GH 이직한 경기도지사 전 비서관, 부하 여직원 성추행 피소</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/4ZTUCUXR65B63HMOQOE5CLOVE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/4ZTUCUXR65B63HMOQOE5CLOVE4/</guid>
+      <dc:creator>수원=김수언 기자, 수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 08:58:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCM2TDJ4PD6OXZN653PB5ZO57Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기주택도시공사 전경.(GH 제공. 재판매 및 DB금지)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기주택도시공사(GH) 간부급 직원이 회식 자리에서 부하 여직원을 성추행했다는 고소장이 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;5일 수원영통경찰서에 따르면 지난달 말 GH 소속 간부 A씨에 대한 강제추행 혐의 고소장이 접수됐다. &lt;br&gt;&lt;br&gt;고소인은 A씨가 지난달 회식 자리에서 신체 일부를 만지는 등 추행했다고 주장하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 경기도지사 비서실 비서관 출신이다. 지난 6월 27일 공고된 GH 임기직 전문가 가급 공개 채용에 응시해 최종 합격했으며 지난달 초 임용됐다. 가급은 임기제 중 가장 높은 직위로 실장·처장급에 해당한다. &lt;br&gt;&lt;br&gt;GH 사건 발생 직후 A씨를 보직해임했다. B씨는 사건 직후 분리 조처돼 현재 휴가 중인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;GH 관계자는 “성추행 피해를 입었다는 직원의 내부 신고가 있었다”며 “구체적인 내용을 밝히긴 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1억5천만원 보이스피싱 피해금 수거...50대, 국민참여재판서 징역 2년</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/TNKDGN35O5ACDKO74OKDSI7AXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/TNKDGN35O5ACDKO74OKDSI7AXM/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 10:04:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMDV2WAFIV27AOO25DGGF3O52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. 2019.5.24/뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1억5천만원 상당의 보이스피싱 피해금을 수거한 혐의를 받는 50대가 국민참여재판에서 실형을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사12부(재판장 박건창)는 전기통신금융사기피해방지및피해금환급에관한특별법 위반 혐의로 기소된 A씨의 국민참여재판에서 징역 2년을 선고하고 법정 구속했다.&lt;br&gt;&lt;br&gt;배심원단 7명은 만장일치로 유죄 평결했다. 양형 의견으로는 4명이 징역 2년, 3명은 징역 1년6개월의 의견을 냈다.&lt;br&gt;&lt;br&gt;A씨는 작년 8~9월 보이스피싱 범죄 피해자 8명으로부터 9차례 걸쳐 1억5천여만원을 회수한 혐의를 받았다.&lt;br&gt;&lt;br&gt;그는 재판에서 “구직 업체를 통해 실존하는 회사에 취직했고, 업무의 일환으로 알고 현금을 수거해 전달했다”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 배심원단은 A씨가 보이스피싱 범죄 가담 고의성을 인정할 수 있다고 판단했다. 회사가 피고인을 채용해 거액의 현금 수거 및 전달 업무를 맡기고 실제로 현금을 주고받는 과정에서 상대방의 신분과 금액을 확인하지 않는 등 비정상적인 업무 내용이 이 같은 판단을 내리는 근거가 됐다.&lt;br&gt;&lt;br&gt;재판부는 “본인의 잘못을 인정하지 않고 있음은 물론, 피해자들로부터 용서받지 못했다”며 “피해 회복을 위한 노력도 기울이지 않았다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대장동’ 재판부, 정진상 보석 조건 완화…‘자정 전 귀가’ 삭제</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/6RH6QXWHHRBQVPJMCF2QVJ2MOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/6RH6QXWHHRBQVPJMCF2QVJ2MOQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 09:50:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MPNT66FOQRANYMVWRXYI5SS3EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진상 전 더불어민주당 당대표 정무조정실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동 개발 비리 의혹으로 재판 받고 있는 정진상 전 민주당 대표실 정무조정실장의 보석 조건이 완화됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 5일 정 전 실장의 대장동·위례·성남FC·백현동 뇌물 사건 재판에서 “보석 조건 중 ‘자정 전 귀가’ 조항은 현 시점에서 불필요해 지난 3일 삭제했다”고 밝혔다. 정 전 실장은 2023년 4월 보석으로 풀려나면서 실시간 위치추적 전자 팔찌 부착, 사건 관계자 접촉 금지, 허가 없는 주거지 변경·출국 금지, 자정 전 귀가 등 조건을 부과받았다.&lt;br&gt;&lt;br&gt;재판부는 “재판이 장기간 진행된 현 시점에서 일부 조건이 부적절해보여 삭제했다”고 했다. 이에 정 전 실장 측 변호인은 “감사하지만 보석 이후 2년 5개월간 한 사람 생애에서 가장 중요한 시기에 아무것도 못 하는 ‘연금’ 상태가 장기화되고 있다”며 “최소한 조건만 남기고 나머지는 풀어달라”고 요청했다. 재판부는 “접촉 금지 규정은 당분간 유지하고 실시간 위치추적 조건은 (완화할지) 검토해보겠다”고 답했다.&lt;br&gt;&lt;br&gt;정 전 실장은 최근 자정 전 귀가 조건을 상습적으로 위반해 재판부로부터 주의를 받은 바 있다. 그가 보석 허가 이후 재판부가 정한 보석 조건을 어긴 것은 총 다섯 번이다.&lt;br&gt;&lt;br&gt;한편 정 전 실장은 이재명 대통령과 함께 기소됐으나, 재판부가 대선 이후 이 대통령에 대한 재판만 분리해 무기한 연기하면서 혼자 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 광안리해수욕장서 외국인 관광객 돈 훔치고 때린 40대 女 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/09/05/CF6EMSNEPZD7RKR3V6MYF4LJQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/CF6EMSNEPZD7RKR3V6MYF4LJQ4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 08:53:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLJH5272OBJBXHTXAYVXSC5JHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사진은 수영경찰서 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 수영경찰서는 외국인 관광객의 돈을 훔치고 폭행한 혐의(준강도)로 40대 여성 A씨를 구속했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 2일 오후 8시쯤 부산 수영구 광안리 해수욕장에서 폴란드 국적 여행객인 10대 B양이 벤치에 둔 가방을 뒤져 현금 18만원을 훔친 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 돈을 들고 달아나던 A씨를 쫓아온 B양의 뺨을 때리는 등 폭행한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;당시 해수욕장 기초질서 관리를 담당하던 구청 관계자 2명이 A씨를 붙잡아 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “자세한 범행 경위와 여죄 등을 수사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>후임 시장이 뒤집은 모노레일 사업… 400억대 배상 위기 남원시, 대법원 상고</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/05/DYWBMLIIFNBJDDGYCFHFJ2TRZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/DYWBMLIIFNBJDDGYCFHFJ2TRZY/</guid>
+      <dc:creator>남원=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 08:25:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYVCJVX26VHSLELW3RURGYLB54.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;최경식 남원시장이 지난달 27일 전북 남원시 춘향문화예술회관에서 열린 시민보고회에서 400억원대의 배상금을 물게 된 경위를 설명하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;춘향테마파크 모노레일 사업 손해배상 청구 소송 항소심에서 패소한 남원시가 대법원에 상고했다.&lt;br&gt;&lt;br&gt;남원시는 5일 “춘향테마파크 개발사업 중단 사태의 주요 쟁점에 대한 위법성 여부를 명확히 하고자 상고장을 제출했다”고 밝혔다.&lt;br&gt;&lt;br&gt;지난달 24일 광주고법 전주재판부가 모노레일 사업의 대주단(금융사)이 남원시를 상대로 낸 손해배상 청구 소송 항소심에서 “남원시는 대주단에 408억원을 배상하라”는 판결에 불복한 것이다.&lt;br&gt;&lt;br&gt;춘향테마파크 모노레일 사업은 남원시 춘향테마파크에 2.4㎞ 길이 모노레일과 집와이어 등을 놓는 사업이다. 전임 이환주 남원시장 재임 시절인 2020년 남원시가 민간 사업자인 남원테마파크와 민간 개발 사업 실시 협약을 체결하면서 시작됐다.&lt;br&gt;&lt;br&gt;남원테마파크는 405억원을 대출받아 2022년 6월 모노레일과 집와이어 등을 완공했다. 하지만 최경식 시장이 2022년 7월 취임 이후 “모노레일 이용 수요가 부풀려졌다”며 사업을 재검토할 것을 지시했다. 이 때문에 모노레일은 개통식도 열지 못하고 완공 2개월 뒤인 2022년 8월에야 임시 운행을 시작했다.&lt;br&gt;&lt;br&gt;남원테마파크에 사업비를 빌려준 대주단(금융사)은 2023년 12월 남원시를 상대로 408억원 손해배상 청구 소송을 냈고, 1·2심 법원 모두 대주단의 손을 들어줬다. 1심 재판부는 “남원시가 정당한 사유 없이 제때 사용·수익 허가를 내주지 않아 개장이 지연됐다”고 봤다. 2심 재판부도 “남원시 주장과 달리 사업비 부풀리기 등 정황이 포착되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;남원시는 법적 다툼을 계속 이어가겠다는 방침이다. 시는 “이번 소송은 지방자치단체의 재정 건전성과 향후 행정 운영 전반에 중대한 영향을 미치는 사안”이라며 “주요 쟁점에 대한 대법원의 명확한 판례가 없는 만큼 종국적 판단을 받아볼 필요가 있다고 봤다”고 설명했다.&lt;br&gt;&lt;br&gt;남원시는 “불필요한 소송 비용이 들어가지 않도록 최선을 다하겠다”고 덧붙였다. &lt;br&gt;&lt;br&gt;하지만 시의회 및 시민단체와 갈등이 예상된다. 남원시의회는 “이미 490억원의 배상금과 지연 이자를 부담해야 하는 상황에서 상고를 하면 소송 비용은 물론 장기화로 이자 부담만 더욱 크게 늘 수 있다”는 입장을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CYVCJVX26VHSLELW3RURGYLB54.JPG?auth=4ba0e42d50ed04f8805e7bf1ce9df532e06b323bac07b2044350a1ea5b212235&amp;smart=true&amp;width=2204&amp;height=1240" type="image/jpeg" height="1240" width="2204">
+        <media:description type="plain">최경식 남원시장이 지난달 27일 전북 남원시 춘향문화예술회관에서 열린 시민보고회에서 400억원대의 배상금을 물게 된 경위를 설명하고 있다. /김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘쯔양 협박’ 유튜버 구제역, 항소심도 징역 3년 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/05/5WUHELHATFDZLOD3YOX7HMOOJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/5WUHELHATFDZLOD3YOX7HMOOJ4/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 08:38:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVODMUH2DDJMBCYBMCZACWIC5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 구제역(본명 이준희)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 1240만명을 보유한 유명 먹방 유튜버 ‘쯔양’(본명 박정원)을 협박해 수천만원을 받아 챙기는 등의 혐의를 받는 유튜버 구제역(본명 이준희)이 5일 2심 재판에서도 징역 3년을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소3-3부(재판장 김은교)는 이날 구제역과 유튜버 주작감별사(본명 전국진), 카라큘라(본명 이세욱), 크로커다일(본명 최일환)과 쯔양의 전 남자친구이자, 전 소속사 대표였던 이모씨의 변호인인 최모 변호사 등의 협박 및 공갈, 공갈방조 혐의 사건 항소심 선고 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 재판부는 구제역에게 징역 3년을 선고한 원심 판결의 형량을 그대로 유지했다. 또 주작감별사에게는 징역 1년에 집행유예 3년, 160시간의 사회봉사를, 카라큘라는 징역 1년에 집행유예 3년, 240시간 사회봉사명령을, 크로커다일에는 벌금 500만원을 각각 선고했다. 1심 판결과 같은 형량이다.&lt;br&gt;&lt;br&gt;다만 쯔양과 이씨의 혼전 동거 등 과거 사생활 등을 폭로할 것처럼 협박해 2310만원을 뜯어내고, 그의 정보를 구제역에게 제공한 혐의(공갈, 개인정보보호법 및 변호사법 위반 등)등으로 구속기소된 최 변호사에게는 징역 1년6월에 집행유예 2년 및 사회봉사 160시간을 선고했다. 앞서 1심에서는 징역 2년을 선고했는데, 형량이 줄었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMDV2WAFIV27AOO25DGGF3O52M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구제역 등은 2023년 2월 쯔양에게 “탈세와 사생활 관련 의혹을 제보받았다. 돈을 주면 이를 공론화하지 않겠다”는 취지로 겁을 줘 5500만원을 갈취한 혐의로 작년 8월 구속 기소됐다. 구제역은 또 2021년 10월 쯔양에게 “네가 고소를 남발해 소상공인을 괴롭힌다는 영상을 올리겠다”는 취지로 위협하고, 지난해 5월 쯔양에게 “탈세 등 의혹이 공론화되길 원치 않으면 내 지인의 식당을 홍보해달라”고 요구해 강제로 촬영하게 한 혐의(강요)도 받는다.&lt;br&gt;&lt;br&gt;카라큘라는 쯔양에 대한 구제역의 공갈 범행을 방조한 혐의 등을 받고 있다. 크로커다일은 구제역에게 “쯔양 폭로 영상을 올리기보다 직접 돈을 뜯어내는 게 이익이다”라는 취지로 권유해 공갈을 방조한 혐의다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A63RHEL2EMREYMOSNOUIQHFD6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 쯔양(박정원)이 지난 4월 16일 오전 서울 강남경찰서에서 고소인 신분으로 출석, 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인 이준희는 관련자들과의 대화 녹음 파일 속 자신의 발언 중 (쯔양에게)금전을 요구한 사실이 없다고 주장한다”며 “그러나 이들 관련자가 녹음한 게 대화 전체는 아니라고 보이며, 명시적 방법이 아니어도 피고인의 일련의 발언과 거동 등을 보면 묵시적으로 공갈이 성립된다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피고인은 피해자의 약점을 이용해 사생활을 대중에 폭로하지 않는 대가로 재물을 갈취해 그 죄질이 좋지 않고 피해액이 상당하다”며 “그럼에도 이해할 수 없는 변명으로 일관하고 재판부를 호도하려 해 진지하게 반성하는 태도라고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사에 대한 감형 이유로는 “당심에 와서 원심의 유죄 판결 전부를 인정하고 잘못을 뉘우치고 있다”며 “1년 가까이 구금된 기간 자숙한 것으로 보이는 점 등을 고려하면 원심 형은 너무 무거워 부당하다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 LNG 탱크 공사현장서 ‘온열질환 추정’ 근로자 사망</title>
+      <link>https://www.chosun.com/national/2025/09/05/25HDFIFQG5DV3GU32VOVWTYNRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/05/25HDFIFQG5DV3GU32VOVWTYNRI/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 08:46:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPXHDRRBNKKUJFX3VZXFMUBJLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 한 공사 현장에서 온열 질환으로 추정되는 사망 사고가 발생해 경찰과 고용노동부가 조사에 나섰다.&lt;br&gt;&lt;br&gt;5일 울산소방본부 등에 따르면 전날 오후 2시 50분쯤 울산 북신항 코리아에너지터미널(KET) 내 액화천연가스(LNG) 탱크 공사 현장에서 근로자 A(40대)씨가 갑자기 어지럼증을 호소하며 쓰러졌다.&lt;br&gt;&lt;br&gt;A씨는 응급조치를 받고 병원으로 이송됐지만 숨졌다. 사고 당시 A씨의 체온은 43도까지 올랐던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;협력업체 소속인 A씨는 이날 동료 7명과 함께 탱크 바닥 청소 작업을 했다. &lt;br&gt;&lt;br&gt;경찰은 부검을 통해 A씨의 정확한 사망 원인을 밝힐 예정이다. 고용노동부 울산지청은 이 공사 현장에 작업 중지 명령을 내렸다. &lt;br&gt;&lt;br&gt;사고가 난 LNG 탱크는 대우건설이 시공을 맡아 건조 중이었던 것으로 확인됐다. 대우건설은 사고 직후 입장문을 통해 “정확한 원인 규명을 위해 관계기관 조사에 적극 협조하고 피해자와 유가족에게 필요한 지원을 아끼지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>형사법학계 절반 “중수청 반대”... 70% “檢보완수사권 필요”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/05/B5LXSSZWBRFTVJ2OTGE6SZRNPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/B5LXSSZWBRFTVJ2OTGE6SZRNPM/</guid>
@@ -825,45 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KHHQAZYVQN5BLLMF34KTHXLQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 24일 서울 여의도 국회에서 열린 제428회 국회(임시회) 제2차 본회의에서 노동조합 및 노동관계조정법 일부개정법률안(대안)이 재석 186인, 찬성 183인, 반대 3인, 기권 0인으로 가결되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 고용노동부가 HD현대중공업과 HD현대미포의 합병 결정과 같은 인수합병은 노동조합법 2·3조 개정안(노란봉투법) 시행 이후에도 노동 쟁의 대상이 될 수 없다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;노동부는 이날 오후 정부세종청사에서 최근 주요 사업장 노조들이 돌입한 파업 관련 출입 기자단 설명회를 열었다. 노동부 관계자는 “현대차, 한국GM, HD현대조선 3사 등의 최근 파업은 개정 노조법이 아닌 임단협 과정에서 발생한 노사 간 입장 차이 때문에 발생했다”고 했다.&lt;br&gt;&lt;br&gt;노란봉투법의 핵심 중 하나는 노동조합이 노동 쟁의의 대상으로 삼을 수 있는 범위에 ‘근로 조건에 영향을 미치는 사업 경영상의 결정’이 포함되는 것이다. 이 때문에 경영계에서는 인수합병이나 공장 이전, 해외 투자 등까지 노조 파업의 원인이 될 수 있다는 우려가 나오고 있는 상황이다.&lt;br&gt;&lt;br&gt;그러나 이날 노동부 관계자는 “인수합병처럼 근로 조건에 영향을 미칠 수 있는 가능성이 일반적인 사업 경영상 결정이 전부 노동 쟁의 대상이 되는 것은 아니다”라며 “사업 경영상 결정 중에서도 인원 감축이나 정리 해고 같이 근로 조건에 미치는 영향이 직접적이고 밀접한 경우 노동 쟁의 대상이 되는 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “인수합병 관련해서는 설명을 해줄 것과 고용 안정을 확인해줄 것을 노조가 요구하고 있는데, 사측이 이를 들어준다고 하고 있기 때문에 인수합병이 파업 원인이라고 보기는 어렵다”고 밝혔다. &lt;br&gt;&lt;br&gt;현대차 노조는 지난 3일부터 7년 만에 부분 파업에 돌입했다. 한국GM은 지난 7월부터 16차례 부분 파업을 이어가고 있다. HD현대조선 3사는 지난 3일 공동 파업을 진행했으며, 오는 10·12일에도 두 차례 파업이 예정돼 있다.&lt;br&gt;&lt;br&gt;HD현대조선 3사 중 HD현대중공업과 HD현대미포의 이사회는 지난달 27일 한미 조선업 협력 프로젝트에 대응하기 위해 2사 합병을 의결한 바 있다. 이에 두 회사 노조는 합병으로 인한 구조조정 등이 발생하면 공동 대응을 하겠다고 선언했다. 이후 일각에서는 노란봉투법의 영향이 있다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;한국GM 노조가 임금 협상과 별개로 회사에서 진행 중인 직영 정비 센터 매각 철회를 요구하고 있는 상황과 관련해서는 “대부분 노조가 임금 인상과 관련 없는 내용으로만 파업하는 경우는 없다”며 “법원에서는 주된 목적과 종된 목적을 나눠 파업 정당성 여부를 파악한다”고 했다.&lt;br&gt;&lt;br&gt;노동부 관계자는 “노조법 개정안 시행까지 남은 6개월간 노사 및 전문가들의 의견을 수렴해 원청의 사용자성 판단 기준과 노동쟁의 범위, 교섭 절차 등에 대한 구체적인 매뉴얼을 마련할 것”이라며 “이 과정에서 경영계가 과도한 우려를 하지 않고, 노동계도 과도한 기대를 하지 않도록 현장 지원 TF를 통해 소통하며 준비하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>참여연대마저 민주당 ‘내란 사건 특별재판부’ 추진 반대 “신중해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/GRW3M5Z47ZAKNN67CJB2IVM6YE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/GRW3M5Z47ZAKNN67CJB2IVM6YE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 08:40:08 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GL3QKQKHIVEBHDTSEU3QLSYCPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;참여연대/조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;참여연대가 더불어민주당이 추진하고 있는 내란 특별재판부 설치에 신중한 접근을 촉구했다. 내란 사건 1심이 상당히 진행된 현재 상황에서 특별재판부를 추진할 경우 오히려 재판 일정이 될 가능성이 높다는 게 이유다.&lt;br&gt;&lt;br&gt;참여연대는 4일 논평을 내고 “현 시점에서 법률을 제정해 재판부를 변경할 경우, 입법절차와 공판갱신 절차 등으로 사실상 재판지연은 불가피하다”며 “더욱이 윤석열 전 대통령을 포함한 피고인들이 특별재판부의 위헌성을 문제 삼아 재판을 더욱 지연시킬 가능성이 매우 높다”고 지적했다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당은 지난달 27일 내란 방조 혐의를 받는 한덕수 전 국무총리에 대한 구속영장이 기각된 것을 계기로 내란 특별재판부 설치를 주장하고 있다. 하지만, 사법부 독립 침해 우려 등 논란이 커지고 있다. 이런 상황에서 친여 성향의 시민단체인 참여연대도 내란 특별재판부 설치에 신중해야 한다는 내용의 논평을 낸 것이다.&lt;br&gt;&lt;br&gt;참여연대는 지난 7월 박찬대 더불어민주당 의원이 대표발의한 내란특별법이 내란 사건의 1·2심 재판을 각각 3개월내에 선고하도록 한 것에 대해서도 “이 사건 재판의 특성상 3개월에 불과한 재판 기간은 책임 입증을 하기에 물리적으로 어려울 수 있다”며 우려를 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한약 주세요” 한의원에 케데헌 본 외국인 북적</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/02/AXWJV3QBPZHDZC7J7ONTPUDQYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/02/AXWJV3QBPZHDZC7J7ONTPUDQYI/</guid>
-      <dc:creator>조성호 기자, 강혜진 인턴기자(연세대 행정학 졸업)</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Sep 2025 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGCUO637RVEFNBWGCHX7WTKXAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 8월 21일 오후 서울 종로구 통인한의원에서 미얀마 국적의 카잉씨가 치료를 받고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 19일 낮 12시 서울 종로에 있는 통인한의원. 한 흑인 여성이 전신에서 ‘두두둑’ 소리가 나는 추나 치료(손으로 뼈·관절을 교정하거나 통증을 완화해주는 한방 치료 요법)를 받고 있었다. ‘이 한의원이 영어를 잘한다’는 인터넷 후기를 보고 찾아왔다는 프랑스인 코맘블라 마누앙씨는 “한국 여행 중에 쌓인 피로가 풀렸다”며 엄지손가락을 치켜올렸다. 이승환 통인한의원 원장은 “하루 평균 약 60명 정도의 환자가 찾아오는데, 그중 외국인 환자가 많은 날엔 10명 정도는 된다”고 했다.&lt;br&gt;&lt;br&gt;국내 한의원이 한국을 방문하는 외국인들의 ‘필수 코스’ 중 하나로 떠오르고 있다. 1일 보건복지부에 따르면, 지난해 국내 한의원을 찾은 외국인 환자는 3만3893명으로 전년 대비 85% 증가했다. 전년 대비 증가율만 보면 피부과에 이어 둘째로 증가 폭이 컸다. 최근 몇 년 사이 K팝·K드라마·K뷰티 등의 영향으로 국내 피부과·성형외과뿐 아니라 한약·추나·침 등도 함께 관심을 받게 된 것이다. 특히 올 6월부터 넷플릭스에서 공개된 ‘케데헌(케이팝 데몬 헌터스)’ 열풍까지 더해져 한의원 인기가 더욱 올라갔다는 지적이다. 실제로 ‘케데헌’에는 주인공인 K팝 걸그룹 ‘헌트릭스’가 한의원에서 한약을 짓는 장면이 나온다.&lt;br&gt;&lt;br&gt;외국인들은 케데헌에 등장하는 ‘HAN의원’과 외관이 비슷하다고 소문난 서울 종로의 서울한방진흥센터 건물 앞에서 인증 사진을 찍고, 약재 족욕이나 한방 천연팩, 아로마 경락 등을 체험하고 있다. 이 센터 관계자는 “케데헌이 공개되기 전엔 월평균 방문객이 500~600명 정도였지만 공개 다음 달인 7월부터 방문객이 2000명까지 늘었다”며 “특히 족욕 체험이 인기가 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV5EZ3MCTZFWDEP56HLRQTX42Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한의학계는 이처럼 물이 들어왔을 때 노를 저으려는 분위기다. 특히 일선 한의원들은 외국인 환자를 붙잡기 위해 마케팅에 열을 올리고 있다. 영어로 된 입간판뿐 아니라, 진료 대기실에는 중국어, 일본어, 인도네시아어, 베트남어, 태국어, 말레이시아어 등 다양한 언어의 팸플릿을 비치해 놓기도 했다. 종로 한 한의원 관계자는 “외국인 환자에게 특히 인기 있는 것은 ‘한약’”이라며 “특히 한약이 생리통이나 소화불량, 알레르기 등과 같은 질환 치료에 효과가 좋다는 소문이 나면서 많이 찾는 편”이라고 했다. 특히 환(丸) 형태 한약은 냄새에 대한 거부감도 적고, 부피나 무게도 많이 나가지 않아 석 달 치를 처방받아 본국으로 돌아가는 경우도 많다는 설명이다.&lt;br&gt;&lt;br&gt;최근에는 한의학과 K뷰티를 접목한 미용 전문 한의원들도 ‘외국인 친화 병원’임을 앞세워 홍보에 뛰어들었다. 매선 리프팅(실을 피부에 넣어 얼굴 형태를 교정하는 시술) 같은 미용 목적의 치료나 다이어트 한약을 주력 상품으로 내세우고 있다. 이를 위해 외국인 환자용 소셜미디어 계정을 별도로 운영하는 곳도 적지 않다. 서울 성동구에 있는 두나한의원 관계자는 “방문하는 외국인 대부분은 소셜미디어를 통해 알아보고 미리 예약한다”고 했다. 아예 동남아 지역 인플루언서를 초대해 치료의 비포·애프터(전후)를 비교해 보여주는 영상을 촬영하는 한의원도 있다. &lt;br&gt;&lt;br&gt;외국인 환자 유치에 나서는 한의원은 앞으로 계속 늘어날 전망이다. 지난달 말 한국한의약진흥원이 ‘외국인 환자 유치 및 진료를 위한 첫걸음’이란 주제로 세미나를 진행했는데, 한의사 약 200명이 참여했다. 외국인 환자 유치 확대를 위한 진료 사례라든지 환자 응대, 홍보 노하우를 배우려는 한의사들이 그만큼 많은 것이다. 서울시의회도 오는 12일 ‘케데헌 열풍과 한의의료관광 활성화’ 토론회를 열고 한의원을 서울 관광 상품으로 키우려는 방안을 모색한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UGCUO637RVEFNBWGCHX7WTKXAI.jpg?auth=cabc98e0ee5e5375bf0f3b9e917be4f0d116aed1a8aae75093f1710bef03105d&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">2025년 8월 21일 오후 서울 종로구 통인한의원에서 미얀마 국적의 카잉씨가 치료를 받고 있다. /장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘거제 교제폭력’ 전 여친 폭행해 숨지게 한 20대男, 징역 12년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/04/F2OUU7BWTBAARHDKGUSC572CV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/F2OUU7BWTBAARHDKGUSC572CV4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 08:35:35 +0000</pubDate>
-      <content:encoded>경남 거제에서 전 여자친구를 폭행해 숨지게 한 20대 남성이 대법원에서 중형을 확정받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H7I5RCTFBC3DAIXL3QPFZXMMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 여자친구를 폭행한 20대 남성 A씨로 추정되는 남성 사진과 A씨에 대한 신상이 온라인상에 공개됐다./온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 4일 스토킹처벌법 위반·상해치사 등 혐의로 기소된 A씨에게 징역 12년을 선고한 원심을 확정했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 4월 전 여자친구 B씨의 집에 무단으로 침입해 목을 조르거나 머리와 얼굴 등을 수차례 때려 숨지게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;사건 전날 B씨가 “헤어지자”면서 연락을 끊자 A씨는 14차례 전화를 걸었고, B씨가 받지 않자 화풀이할 생각으로 범행을 결심했다고 한다. A씨는 미리 알고 있었던 B씨의 집 비밀번호를 누르고 들어가 잠을 자고 있던 B씨를 약 30분간 폭행한 것으로 조사됐다. B씨는 병원으로 이송돼 치료를 받았지만, 열흘 만에 끝내 숨졌다.&lt;br&gt;&lt;br&gt;1심은 “연인 관계에서 발생한 ‘데이트 폭력’ 범죄로 사회적 공분이 크다”며 “엄중한 처벌을 통해 사회적 경각심을 주는 것이 절실하다”면서 A씨에게 징역 12년을 선고했다. &lt;br&gt;&lt;br&gt;이어 “건장한 성인 남성인 피고인이 잠에서 막 깨어난 피해자를 때려 숨지게 하는 등 죄책이 매우 무겁고, 피해자는 젊은 나이에 자신에게 펼쳐진 앞날을 경험해보지 못한 채 생을 마감했음에도 피고인은 잘못을 온전히 인정하지 않고 있다”고 질타했다.&lt;br&gt;&lt;br&gt;2심도 “A씨는 피해 보상을 위해 노력하지 않고 있고 잘못을 진심으로 뉘우치는지도 다소 의문이다”라며 같은 판단을 내렸다. 대법원도 원심 판단에 잘못이 없다고 보고 상고를 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“테러가 시작된다”... 청주서 테러 위협 신고, 경찰 수사 나서</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/04/WUCTQVTJ2NBAHASNUTCSXLML6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/04/WUCTQVTJ2NBAHASNUTCSXLML6U/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 08:05:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주의 한 건설사와 초등학교에 ‘테러를 하겠다’는 문자를 받았다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;경찰에 따르면 4일 오후 1시 36분쯤 ‘청주의 한 건설사와 초등학교에서 테러가 시작된다’는 내용의 문자를 받았다는 시민의 신고가 112에 접수됐다. &lt;br&gt;&lt;br&gt;경찰은 서원구 C초등학교와 청원구에 있는 B건설사에 경찰 특공대와 초동 대응반, 인근 지구대 인력 등 83명을 보내 조치에 나섰다. &lt;br&gt;&lt;br&gt;이 같은 내용을 인지한 학교 측은 이날 오후 2시쯤 학생들을 모두 하교 조치했다.&lt;br&gt;&lt;br&gt;경찰에 신고를 한 시민 A씨는 “‘Q씨 때문에 테러가 시작된다’는 내용의 문자를 이틀 전인 2일 받았는데, Q씨는 회사 직원”이라며 “휴가로 자리를 비웠던 Q씨가 출근한 뒤 내용을 확인하고 신고를 하게 됐다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 7월 중순쯤 Q씨가 휴대전화를 잃어버렸는데 이후 Q씨의 이름으로 돈을 빌려달라는 문자가 같은 회사 직원 여럿에게 전송됐던 사실도 확인됐다. &lt;br&gt;&lt;br&gt;테러로 지목된 건설사와 학교 또한 Q씨가 재직 중이거나 관련된 학교로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 테러 예고 문자에 해외발신 번호가 찍힌 점을 토대로 국외에서 전송됐는지 휴대전화를 습득한 이가 장난을 친 것인지 다방면에 걸쳐 수사를 진행하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현재까지 특별한 상황은 발생하지 않았고, 테러 위험성은 없는 것으로 보인다”며 “문자를 보낸 이에 대해서는 가용 수단을 모두 동원해 추적하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 경찰, 서대문구 초등학생 유괴 미수 20대 남성 3명 긴급체포</title>
       <link>https://www.chosun.com/national/national_general/2025/09/04/27STJOT3ZVHPTNESX6YUX3IFTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/27STJOT3ZVHPTNESX6YUX3IFTI/</guid>
@@ -882,15 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K7ZXPX5ILBMILHOV3RSLSXW5KM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 서울 여의도 국회에서 제429회 국회(정기회) 법제사법위원회 제1차 법안심사제1소위원회가 열리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 추진하는 특검법 개정안에 담긴 ‘재판 중계 의무화’ 조항에 대해 대법원 법원행정처가 국회에 “위헌 소지가 있다”는 의견을 밝혔다. 4일 주진우 국민의힘 의원이 대법원에서 받은 의견서에 따르면, 법원행정처는 내란 특검법 개정안 중 ‘1심 재판을 반드시 중계해야 한다’는 조항의 위헌 소지와 부작용을 조목조목 지적했다.&lt;br&gt;&lt;br&gt;법원행정처는 이 조항이 “법원의 비공개 심리 결정 권한을 규정한 헌법에 위반될 소지가 있다”고 했다. 재판의 심리와 판결을 공개하되 ‘재판의 심리는 국가의 안전보장·안녕질서를 방해하거나 선량한 풍속을 해할 염려가 있을 때는 법원 결정으로 공개하지 않을 수 있다’고 규정한 헌법 109조에 반할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;위헌 소지 때문에 재판이 지연되거나 나중에 재판 결과가 문제 될 수 있다는 지적도 했다. 피고인이 법령을 문제 삼아 위헌법률심판제청 신청을 하고, 재판부가 이를 받아들여 헌재에 위헌심판 제청을 하면 헌재 결정이 나오기까지 재판이 중단되기 때문이다. 법원행정처는 “헌재가 위헌 결정을 내릴 경우 이미 진행된 재판의 적법 여부도 문제가 될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;증인·피고인의 ‘말 맞추기’ 위험이 있다는 우려도 나왔다. 법원행정처는 “형사재판은 유죄 입증을 위해 엄격한 증명·증거를 요구하기 때문에 하나의 사실관계에 대해 여러 증인과 피고인의 진술을 듣게 된다”며 “재판이 전부 중계되고 증인이 앞서 나온 증거·증언을 숙지하고 나와 말 맞추기를 할 경우, 증언의 신빙성을 판단하기 어려워질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;특히 내란 특검은 수사 대상에 외환죄를 포함하고 있어 국가 기밀 누설 우려가 있는 경우 비공개 재판이 필요할 수 있다는 의견이 담겼다. 법원행정처는 “내란 사건 특성 상 군인 등 다수 공무원들이 증인으로 나올 텐데, 재판이 모두 중계된다고 하면 소관 부서에서 승낙을 안 하거나 증언을 거부할 우려도 있다”고 했다. &lt;br&gt;&lt;br&gt;이 밖에 “재판부와 특검, 변호인에 대한 과도한 비난이나 ‘신상 털기’ 등이 우려된다”고도 했다. 법원행정처는 “국민적 관심이 많은 사건의 재판 중계를 통해 국민의 알권리를 보장하고 재판의 절차적 투명성·공정성을 높이려는 입법 취지는 공감할 수 있으나, 이 같은 이유로 신중 검토가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희특검 “통일교 변호인, 지난주 특검 인사차 만나 차담”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/04/A4NRR2E6ZNB3DIASCRYGPNF3U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/A4NRR2E6ZNB3DIASCRYGPNF3U4/</guid>
-      <dc:creator>이민경 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 05:55:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZLPOX2B6I4Z6GF7UW4P2CMWOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재의 모습./통일교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교 측을 대리하는 변호인이 민중기 특검을 따로 만났다는 의혹과 관련해 특검은 “인사차 차담을 나눈 것”이라고 4일 해명했다.&lt;br&gt;&lt;br&gt;이날 박상진 특검보는 정례 브리핑에서 “지난주 법무법인 태평양 소속 변호인이 타 사건으로 담당 특검보를 만난 후 돌아가는 길에 인사차 잠시 특검팀에 들러 차담을 나눈 사실이 있다”며 “그 변호인은 통일교 사건의 변호인이라는 사실 알리지 않았고, 안부 등 일상적인 인사만 나눈 것에 불과했다”고 설명했다. &lt;br&gt;&lt;br&gt;이어 박 특검보는 “저희 특검은 변론권 보장과 수사 보안 및 업무 효율성 차원에서 특별한 사정 없는 한 특검보가 변호사들로부터 변론을 받고 있다”며 “수사의 공정성과 형평성을 해치지 않기 위해 언제나 최선의 노력 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;지난 3일 KBS는 통일교 한학자 총재의 변호를 맡은 이모 변호사가 최근 민중기 특검을 25분간 만났다고 보도했다. 해당 변호사가 민 특검과 가까운 사이로 알려지면서, 해당 변호사가 이례적인 대우를 받은 것이 아니냐는 지적이 나왔다. 다만 특검은 전관 변호사에 대한 특혜라는 주장에 대해선 강하게 부인하고 있다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 오후 1시 30분부터 윤영호 전 통일교 세계본부장을, 오후 2시부터 ‘건진 법사’ 전성배씨를 소환 조사 중이라고도 밝혔다. 두 사람은 통일교 측이 김건희 여사에게 금품을 건네며 통일교 현안을 청탁했다는 의혹에 연루돼 있다. 다만 이날 두 사람의 대질 조사는 예정돼 있지 않다. &lt;br&gt;&lt;br&gt;특검은 전씨의 구속 기간이 오는 9일 만료되는 만큼, 오는 8일 전씨를 구속기소할 방침이다. 전씨는 혐의를 인정하지 않는다는 입장을 고수해왔는데, 최근에는 일부 혐의에 대해선 인정한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;같은 날 특검은 한 총재에 대한 소환 조사를 통보하기도 했다. 그러나 한 총재 측이 이에 응할지는 아직 알려지지 않았다. 한 총재는 전날 서울아산병원 특실에 입원해 심장 관련 시술을 받고 회복 중이다. 현재까지 건강 상태와 관련해 특검에는 별다른 상황이 전달되지 않았다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이민정, ‘예수상’ 앞에서 명품백 들고 사진 찍었다가...“무례하다”</title>
       <link>https://www.chosun.com/national/people/2025/09/04/CR3VRTKH6VHMRP3E7KWGXDI2N4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/04/CR3VRTKH6VHMRP3E7KWGXDI2N4/</guid>
@@ -898,24 +917,6 @@
       <description/>
       <pubDate>Thu, 04 Sep 2025 07:13:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XXYGBTMEWVA3ZJ3TSQLTYW72NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성당 제단 앞 십자가 예수상을 배경으로 명품 가방을 들고 포즈를 취하고 있는 이민정./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이민정이 남편 이병헌의 베니스 국제영화제 참석에 동행했다가 의도치 않은 논란에 휘말렸다.&lt;br&gt;&lt;br&gt;이민정은 이병헌 주연의 영화 ‘어쩔수가없다’가 제82회 베니스 국제영화제 경쟁 부문에 초청되자 남편을 따라 베니스로 향했다. 현지에서 이병헌과 함께 있는 모습이 포착됐고, 영화의 여자 주인공인 손예진과도 시내를 함께 둘러보는 장면이 목격됐다.&lt;br&gt;&lt;br&gt;논란은 인스타그램에 올린 사진 한 장에서 비롯됐다. 손예진이 직접 찍어준 이 사진에서 이민정은 성당 제단 앞 십자가 예수상을 배경으로 명품 가방을 들고 포즈를 취했다.&lt;br&gt;&lt;br&gt;해당 사진을 두고 일부 네티즌들은 “신성한 공간에서 마치 화보처럼 사진을 찍은 것은 경솔하다”고 지적했다. 특히 제단 위에 올라 포즈를 취한 점에서 “무례하다”는 비판이 이어졌다.&lt;br&gt;&lt;br&gt;네티즌들은 “천주교 신자들에게 이 사진은 큰 충격이고 상처다” “신성한 장소에서 가방 간접 홍보용으로 포즈 잡는 건 좀 아닌 것 같다” “제대에 올라 사진을 찍는 무례를 범했다“ 등의 반응을 보였다. 다른 네티즌들은 “신자가 아니라서 그랬을 거라 본다” “누구나 실수할 수 있다”는 의견을 내놨다.&lt;br&gt;&lt;br&gt;이후에도 이민정은 베니스에서의 일상을 계속 공유했지만, 이와 관련해서는 입장을 밝히지 않고 있다.&lt;br&gt;&lt;br&gt;한편 박찬욱 감독의 영화 ‘어쩔수가없다’는 제82회 베니스 국제영화제 경쟁 부문에 초청돼 지난달 29일 처음 공개됐다. 해외 주요 매체의 호평이 쏟아지면서 수상 가능성이 높게 점쳐지고 있다. 아울러 영화는 2026년 미국 아카데미영화상 국제장편부문 한국 대표작으로도 선정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아무 이유 없이... 분당서 행인 6명 다짜고짜 폭행</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/04/KRQW5CCWDJB3LJHNDMV6FIREDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/04/KRQW5CCWDJB3LJHNDMV6FIREDM/</guid>
-      <dc:creator>성남=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 07:19:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQQ42TSFWNGHLEOG53QK43HOAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;분당경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일면식 없는 행인 6명을 아무런 이유 없이 폭행한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 분당경찰서는 상해 혐의로 A(50대)씨를 현행범 체포해 조사 중이라고 4일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 낮 12시쯤 성남시 분당구 판교동의 한 노상에서 지나가는 시민 6명에게 주먹을 휘두르거나 발로 차는 등의 폭행을 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;폭행을 당한 행인 중 60대 2명과 70대 1명, 80대 1명 등 총 4명이 다쳐 병원으로 이송돼 치료를 받고 있다. 이들 모두 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 정신질환으로 치료를 받은 이력이 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 대상으로 구체적인 범행 동기를 조사하는 한편 구속영장 신청을 검토 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 관광객 입맛 사로잡은 제주 음식 ‘1위는?’</title>
-      <link>https://www.chosun.com/national/regional/2025/09/04/SKBX4ZIW7REZRLQDBV3247EYUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/SKBX4ZIW7REZRLQDBV3247EYUM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 04:58:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZKMJKMHOJHJ3C2YGDMKNGXYLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주산 돼지고기/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 관광객의 입맛을 사로잡은 제주 음식 3가지는 흑돼지와 감귤, 커피인 것으로 나타났다.&lt;br&gt;&lt;br&gt;제주관광공사는 4일 ‘해외 소셜로 보는 제주 관심 콘텐츠 : 음식’을 발표했다. 이 보고서는 ’2024년 제주도 방문 관광객 실태조사’에서 음식·미식 탐방을 주요 여행 고려 요인으로 꼽은 일본과 대만, 싱가포르의 최근 2년 치 소셜 데이터 3만5979건을 수집·분석한 것이다.&lt;br&gt;&lt;br&gt;우선 인기 음식 순위를 보면 1위는 흑돼지, 2위는 감귤, 3위는 커피 순으로 나타났다.&lt;br&gt;&lt;br&gt;제주관광공사는 해당 세 키워드에 대한 소셜 데이터를 심층 분석한 결과 어떤 한 시점에 해당 키워드를 주제로 한 글이 많이 공유되면서 데이터양이 급상승했다는 공통점이 있었다고 설명했다.&lt;br&gt;&lt;br&gt;실제 흑돼지의 경우 일본 예능 프로그램 ‘리어돌 WEST’에 나온 흑돼지를 먹는 장면이 X, 인스타그램 등에 공유되면서 한때 언급량이 급상승했다. 감귤과 커피의 경우 개인이 작성한 후기가 많이 공유되는 시점이 다수 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 밖에 제주 음식 관련 데이터에 가장 많은 영향력을 끼치는 것은 그룹 ‘방탄소년단’과 글로벌 SNS 채널인 ‘인스타그램’으로 분석됐다.&lt;br&gt;&lt;br&gt;제주관광공사 관계자는 “이번 보고서를 소셜미디어 활용 마케팅 전략을 수립하기 위한 실질적인 기초자료로 활용해 나갈 것”이라며 “앞으로 체험·활동, 넷플릭스 시리즈 ‘폭싹 속았수다’ 등 후속 주제에 대한 해외 소셜 분석 결과도 순차적으로 발간해 해외 관광 마케팅 자료를 지속적으로 발간해 나갈 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주 탐라왕국 시조 ‘고·양·부(高梁夫)’ 삼성 재단 파산 위기, 왜?</title>
