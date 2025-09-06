@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘144만 구독자’ 유튜버 대도서관, 자택서 숨진채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/06/2TKUYI2LBBBR7BOMVPGBXU7ROE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/06/2TKUYI2LBBBR7BOMVPGBXU7ROE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 03:56:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCYSESYF5MM22N3X33VP4E7OEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대도서관이 유튜브 채널 구독자를 100만 명 이상 확보한 유튜버가 받는‘골드 플레이 버튼'을 보여주고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 대도서관으로 활동해온 나동현(47)씨가 6일 오전 광진구 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰과 소방에 따르면 이날 오전 지인이 ‘약속에 나오지 않고 연락이 닿지 않는다’며 신고했고, 오전 8시 40분쯤 출동한 경찰과 소방이 자택에서 나씨를 발견했다.&lt;br&gt;&lt;br&gt;현장에서는 유서가 발견되지 않았으며, 타살 혐의점도 확인되지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;나씨는 1세대 인터넷 방송인으로, 유튜브 구독자 144만명을 보유한 인기 유튜버다. 2002년부터 활동을 시작해 ‘대한민국 인터넷 방송의 시초격 인물’로 불려왔다.&lt;br&gt;&lt;br&gt;그는 아프리카TV와 유튜브에서 게임 방송과 리뷰를 주로 제작했다. ‘스타크래프트’, ‘워크래프트’, ‘리그 오브 레전드(LoL)’, ‘마인크래프트’ 등 인기 게임을 중심으로 다양한 콘텐츠를 선보였다. 최근까지도 ‘마비노기 모바일’ 등 신작 게임 방송을 이어가며 활발히 활동했다. &lt;br&gt;&lt;br&gt;2016년 방송통신위원회 인터넷문화 정책자문위원을 지냈고, 2018년 대한민국문화연예대상 예능부문 남자신인상을 수상하는 등 대중 활동 영역을 넓혔다. 국내 1인 미디어를 대중화한 상징적인 인물로 꼽혀왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MF5UZGQ26BAHFKR66NZZCSDJZI.jpg?auth=e0b705d10abd19491de93a8ad60a690a41f23aeadfc77eb6433b5e9a5f0ad70f&amp;smart=true&amp;width=310&amp;height=232" type="image/jpeg" height="232" width="310">
+        <media:description type="plain">-대도서관이 유튜브 채널 구독자를 100만 명 이상 확보한 유튜버가 받는‘골드 플레이 버튼'을 보여주고 있다.</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>포항 빌라 화재…. “고양이가 전자레인지 작동한 듯”</title>
       <link>https://www.chosun.com/national/incident/2025/09/06/LJNRR4RCXBEJXPQLPJ4D2WXG54/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/06/LJNRR4RCXBEJXPQLPJ4D2WXG54/</guid>
@@ -877,15 +889,6 @@
       <description/>
       <pubDate>Fri, 05 Sep 2025 03:01:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYYXC6QDORGJRP65GVIJHH5OBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수술복으로 보이는 옷을 입고 임산부석에 앉아있는 남성. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사로 추정되는 남성이 수술복으로 보이는 옷을 입고 지하철 임산부 배려석에 앉아 있는 사진이 온라인상에서 확산되면서 논란이 일고 있다.&lt;br&gt;&lt;br&gt;5일 온라인상에서는 한 남성이 수술복으로 보이는 옷을 입고 지하철 임산부 배려석에 다리를 꼬고 앉아 스마트폰을 보고 있는 사진이 논란이 됐다. 사진이 촬영된 날짜나 장소 등은 알려지지 않았다. &lt;br&gt;&lt;br&gt;임산부 배려석은 임산부의 대중교통 이용 편의를 위해 지하철 칸마다 마련되어 있으며 비워두기를 권장한다. &lt;br&gt;&lt;br&gt;해당 사진은 한 의사 온라인 커뮤니티를 통해 처음 공개된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;사진을 접한 의사들은 “의사로서 부끄럽다” “수술복의 더러운 피와 오물이 지하철 좌석에 묻을 수 있다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;다만 “그렇게 욕먹을 일인가” “필수의료는 그냥 봐주자”는 등 남성을 옹호하는 반응도 있었다. &lt;br&gt;&lt;br&gt;이 사진이 다른 온라인 커뮤니티로도 퍼지면서 일반 네티즌들 사이에서도 갑론을박이 오갔다. &lt;br&gt;&lt;br&gt;남성을 비판하는 네티즌들은 “임산부석에 세균을 옮기면 큰일이다” “정말 부끄러운 일” 등의 반응을 보였고, 남성을 옹호하는 네티즌들은 “뭔가 급한 사정이 있었던 거 아니냐” “임산부가 오면 비켜주면 되는 것 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;일부 네티즌은 “진짜 의사인가? 수술복을 입고 코스프레를 하는 것 아닌가”라고 의심하기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>단수 어려움 겪었던 경북 청도군, 강릉에 생수 7만병 긴급 지원</title>
-      <link>https://www.chosun.com/national/regional/2025/09/05/LICUY3NCNBFSLB3BITUWISTZFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/LICUY3NCNBFSLB3BITUWISTZFQ/</guid>
-      <dc:creator>청도=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 02:47:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Z4KF6TMD5ECVHEHG3V4MBRBRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 청도군, 강릉에 생수 지원./청도군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단수로 어려움을 겪었던 경북 청도군은 가뭄으로 어려움을 겪고 있는 강릉시에 2L 생수 7만병을 긴급 지원했다고 5일 밝혔다. 청도군은 18t 화물차량 8대를 투입해 강릉까지 직접 전달했다. &lt;br&gt;&lt;br&gt;이번에 전달된 생수는 청도군이 올해 폭염과 고지대 단수 사태에 대비해 미리 준비했던 2L 생수 20만병 중 일부이다. 청도군은 지난해 8월 폭염 때 풍각면과 각남면 일부 지역에 단수 사태가 발생했다. 하지만, 올해는 단수 등의 상황이 발생하지 않았다. &lt;br&gt;&lt;br&gt;청도군 관계자는 “작은 보탬이지만 강릉시민들께 큰 희망이 되길 바라며, 조속히 가뭄이 해소되기를 기원한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가뭄 시름 강릉시 “홍제정수장 대수용가 6일 오전부터 제한급수”</title>
