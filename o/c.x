@@ -13,6 +13,83 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>포항 빌라 화재…. “고양이가 전자레인지 작동한 듯”</title>
+      <link>https://www.chosun.com/national/incident/2025/09/06/LJNRR4RCXBEJXPQLPJ4D2WXG54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/06/LJNRR4RCXBEJXPQLPJ4D2WXG54/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>6일 오전 0시 47분쯤 경북 포항시 동해면의 한 빌라에서 불이 났다. 불은 10분만에 자체 진화됐지만, 집 내부 일부와 집기가 불에 타고 반려묘 1마리가 죽었다.</description>
+      <pubDate>Sat, 06 Sep 2025 02:29:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXFUMC5RM5ARDM44UAQLEQN6JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 오전 0시 47분쯤 경북 포항시 동해면의 한 빌라에서 불이 났다. 불은 반려묘가 전자레인지를 작동해 난 것으로 추정되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 0시 47분쯤 경북 포항시 동해면의 한 빌라에서 불이 났다. 불은 10분만에 자체 진화됐지만, 집 내부 일부와 집기가 불에 타고 반려묘 1마리가 죽었다.&lt;br&gt;&lt;br&gt;소방 당국은 반려묘가 전자레인지를 작동시켜 불이 난 것으로 추정하고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김종민 의원, 7일 오후 내란특검 참고인 조사... ‘계엄 해제 의결 방해’ 관련</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/06/6JO374FU5RHWJO7FVQFKT2WARM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/06/6JO374FU5RHWJO7FVQFKT2WARM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 01:59:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJLMP6ZYIJDLAH7BISXKVAMSVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김종민 국회의원. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 오는 7일 오후 2시 ‘계엄 해제 의결 방해 의혹’과 관련해 김종민 무소속 의원을 참고인 신분으로 불러 조사한다. 김 의원은 계엄 선포 직후 국회의 계엄 해제 요구 결의안 표결에 참여했던 의원 가운데 한 명이다.&lt;br&gt;&lt;br&gt;특검은 국민의힘 지도부가 국회의 계엄 해제 의결을 방해했는지 여부를 수사 중이다. 추경호 당시 국민의힘 원내대표가 비상 의원총회 장소를 여러 차례 변경하면서 상당수 의원이 표결에 참여하지 못했다는 의혹이 제기된 바 있다.&lt;br&gt;&lt;br&gt;특검은 앞서 우원식 국회의장과 더불어민주당 김상욱·김성회·박성준·백혜련·박선원 의원, 국민의힘 조경태·김예지 의원, 조국혁신당 서왕진 의원 등을 참고인으로 불러 조사했다. 지난달 21일 국회사무처를 압수 수색했고, 이달 2일에는 추 전 원내대표의 자택과 사무실, 조지연 의원실 등을 압수 수색했다. 이어 4일에는 국민의힘 원내대표실과 행정국 등을 대상으로 한 압수 수색을 마무리했다.&lt;br&gt;&lt;br&gt;특검은 계엄 해제 표결에 불참하고 당시 원내대표실에 머물렀던 국민의힘 의원들을 주요 참고인으로 보고 있다. 당시 원내대표실에는 추 전 원내대표를 비롯해 김희정·송언석·임이자·정희용·김대식·신동욱·조지연 의원 등 8명이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉 오봉저수지 저수율 12.9%… 오늘부터 아파트·호텔 ‘급수 중단’</title>
+      <link>https://www.chosun.com/national/regional/2025/09/06/6D7NLNYK7NCP3B5LJKO26QXSVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/06/6D7NLNYK7NCP3B5LJKO26QXSVU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>극심한 가뭄 피해를 겪는 강원 강릉시가 6일 오전 9시부터 시내 아파트 113곳과 호텔 10곳의 수돗물 공급을 중단했다. 강릉시가 가뭄으로 수돗물 공급을 끊는 것은 처음이다.</description>
+      <pubDate>Sat, 06 Sep 2025 02:04:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOFWOEVAGNI5THQWB73S2TV32M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최악 가뭄을 겪고 있는 강원 강릉시가 6일 오전 9시부터 아파트와 호텔 등 123곳을 대상으로 급수제한을 실시하는 가운데 강릉의 한 아파트 엘리베이터에 급수제한과 생수 배부를 알리는 공고문이 붙어 있다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄 피해를 겪는 강원 강릉시가 6일 오전 9시부터 시내 아파트 113곳과 호텔 10곳의 수돗물 공급을 중단했다. 강릉시가 가뭄으로 수돗물 공급을 끊는 것은 처음이다.&lt;br&gt;&lt;br&gt;앞서 강릉시는 지난달 31일부터 세대별 수도 계량기를 75% 잠그는 제한 급수를 시행했지만, 물 사용량이 줄지 않자 대규모 물탱크를 갖춘 아파트와 호텔을 대상으로 급수 중단에 나섰다.&lt;br&gt;&lt;br&gt;이번 수돗물 공급 중단은 단수(斷水)와는 다르다. 해당 시설은 100t 이상 물탱크를 갖추고 있어 2~3일치 물을 저장하고 있다. 부족분은 급수차 등을 투입해 보충한다.&lt;br&gt;&lt;br&gt;강릉시 관계자는 “이 123곳의 물 사용량은 하루 평균 2만4000t으로 강릉 전체 사용량(약 8만t)의 30% 수준”이라며 “절수 효과가 기대에 미치지 않아 물 사용 억제를 유도하기 위한 조치”라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BE4R2DUIMYVHLJ5WSYXYVQFGQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 강원 강릉 재난 대응을 위해 군 급수지원작전에 투입된 육군항공사령부 시누크(CH-470D) 헬기가 오봉저수지에 물을 붓고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉시의 최대 상수원인 오봉저수지의 저수율은 이날 12.9%로 떨어져 역대 최저치를 기록했다. 전날 소방차 81대 등 차량 549대와 산불 진화 헬기·군 헬기 9대가 투입돼 물을 공급했지만 역부족이었다.&lt;br&gt;&lt;br&gt;이날은 해군 군수지원함인 대청함까지 급수에 나섰다. 제주 해군기동함대사령부 소속인 대청함은 생활용수 450t을 싣고 와 소방차에 물을 공급한다. 해군은 오는 11일에도 대청함을 투입해 추가 급수를 지원할 예정이다. 소방차 81대 등 차량 530대와 헬기 5대도 이날 운반 급수에 투입됐다.&lt;br&gt;&lt;br&gt;강릉시는 오봉저수지의 저수율이 10% 아래로 내려가면 홍제정수장 급수 전 지역을 대상으로 새벽에 물 공급을 끊는 ‘시간제’ 단수 조치를 시행할 계획이다. 또 상황이 악화되면 ‘격일제’ 단수도 진행할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조국혁신당 성비위 의혹, 고소 접수 5개월째 경찰 수사 이어져</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/06/NKOYHMSB4FFB3IKSBUBWKLYJZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/06/NKOYHMSB4FFB3IKSBUBWKLYJZA/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 00:55:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3X3OYW27KNA5LI4B3AFTV76IDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조국혁신당 강미정 대변인이 4일 서울 여의도 국회 소통관에서 탈당 기자회견을 하면서 당 내 성 비위 사건과 관련해 “당이 사건을 방치했다”며 울먹였다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조국혁신당 내 성 비위 의혹을 둘러싼 경찰 수사가 고소 접수 이후 5개월째 이어지고 있다. 피해자들은 “경찰은 수사를 이어가고 있지만, 당 지도부는 여전히 소극적”이라며 당의 대응을 비판하고 있다.&lt;br&gt;&lt;br&gt;서울경찰청 여성청소년범죄수사계는 6일 “조국혁신당 내 성 비위 의혹에 대한 수사를 계속 진행 중”이라고 밝혔다. 경찰은 지난 4월 피해자의 고소장을 접수한 뒤 7월 피의자 신분으로 당 핵심 당직자 A씨를 한 차례 불러 조사했다. 현재까지 고소인과 피의자 진술을 확인하며 사실관계를 검증하는 등 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;고소장에 따르면 A씨는 지난해 7월 택시 안에서 피해자의 손을 잡고 볼에 입을 맞추는 등 강제로 추행했다. 또 같은 해 12월 윤석열 전 대통령 탄핵 찬성 집회에 참석한 뒤 여러 당직자들과 노래방에 가서 피해자의 허리를 감싼 혐의도 받고 있다. 고소장에는 당시 자리에 동석했던 조국혁신당 관계자들의 진술이 증거 자료로 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;피해자는 상급자였던 A씨로부터 약 10개월간 신체 접촉과 성희롱성 발언을 당했다며 지난 4월 고소장을 제출했고, 5월 고소인 조사를 받았다. 하지만 A씨는 경찰 조사에서 혐의를 전면 부인한 것으로 알려졌다. 또 다른 핵심 당직자 B씨 역시 성추행과 직장 내 괴롭힘 의혹이 제기돼 휴직 중이다.&lt;br&gt;&lt;br&gt;조국혁신당은 지난 6월 A씨를 제명하고 B씨에 대해서는 당원 자격정지 1년 징계를 확정했지만, 피해자 보호 조치가 미흡했다는 지적이 이어지고 있다. 강 대변인은 지난 4일 국회 기자회견에서 “동지라고 믿었던 이들의 성희롱과 괴롭힘을 마주했지만, 사건이 접수된 지 다섯 달이 지나도록 당의 피해자 지원 대책은 전혀 없었다”며 울먹이며 탈당을 선언했다. 그는 “피해자가 10명쯤 된다”고도 주장했다.&lt;br&gt;&lt;br&gt;강 대변인은 또 “당이 경찰의 자료 제공 요청에도 협조하지 않았다”며 “가해자들이 지도부와 막역한 사이”라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>드론·카메라 등 수업 물품 팔아 2000만원 챙긴 초등교사 ‘파면’</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/06/W5QMO5IFNRF3JAHGKTRIVFBP2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/06/W5QMO5IFNRF3JAHGKTRIVFBP2E/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>수업용 드론과 카메라 등 기자재를 중고 거래 사이트에 팔아 돈을 챙긴 초등학교 교사가 파면 처분을 받았다.
+인천시교육청은 지난 6월 징계위원회를 열고 초등학교 교사 A씨에 대해 파면을 의결했다고 6일 밝혔다.
+</description>
+      <pubDate>Sat, 06 Sep 2025 00:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57ZRTAKLJP2ILF6ORPMRJM7EFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시교육청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수업용 드론과 카메라 등 기자재를 중고 거래 사이트에 팔아 돈을 챙긴 초등학교 교사가 파면 처분을 받았다.&lt;br&gt;&lt;br&gt;인천시교육청은 지난 6월 징계위원회를 열고 초등학교 교사 A씨에 대해 파면을 의결했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 9월부터 지난해까지 자신이 근무한 학교 2곳에서 드론과 카메라 등 수업 기자재를 팔아 2112만원을 횡령한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨의 범행은 학교가 지난해 자체 점검 과정에서 기자재 일부가 사라진 사실을 확인하면서 드러났다.&lt;br&gt;&lt;br&gt;학교는 즉시 인천시교육청에 이를 보고하고, A씨를 경찰에 고발했다.&lt;br&gt;&lt;br&gt;인천시교육청 감사 결과 A씨는 인사 발령으로 옮긴 다른 학교에서도 같은 수법으로 범행을 벌인 사실이 추가로 확인됐다. A씨는 횡령 의혹이 제기된 뒤 일부 금액을 변제한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰은 A씨를 업무상 횡령 혐의로 벌금 500만원에 약식 기소했지만, A씨는 이에 불복해 지난 2일 정식 재판을 청구했다. 또 징계 결과에도 반발해 교원소청심사위원회에 소청 심사도 제기한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KT 이용자 휴대폰 소액결제 피해, 광명 이어 금천서도 발생</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/06/MLBU5CPNJVBGNHVW2A6OJG2MXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/06/MLBU5CPNJVBGNHVW2A6OJG2MXU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 00:30:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U3CBFA2M7RFJD7KSY26UPJB6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 휴대폰 스미싱에 사용된 문자들. 문자에 포함된 인터넷 주소를 클릭하면 소액 결제가 이뤄져 사용자들이 피해를 보게 된다./온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 금천구에서 KT 이용자들을 대상으로 한 휴대전화 소액 결제 피해가 잇따라 발생해 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;6일 경찰에 따르면 금천경찰서에는 지난달 26일부터 소액 결제 관련 피해 신고 14건이 접수됐다. 피해자들은 모바일 상품권 구매, 교통카드 충전 등의 명목으로 수십만 원씩 인출됐다며 신고한 것으로 전해졌다. 피해액은 총 800만 원 규모다.&lt;br&gt;&lt;br&gt;앞서 경기 광명에서도 비슷한 피해 사례가 보고됐다. 지난 2일 기준 광명경찰서에는 26명이 피해를 호소했고, 모바일 상품권 충전 등 62차례에 걸쳐 1769만원이 빠져나간 것으로 확인됐다.&lt;br&gt;&lt;br&gt;KT 측은 “피해가 특정 지역과 통신사에 집중된 만큼 악성 앱을 통한 정보 유출 가능성이 크다”며 “악성 앱 유포 경위를 파악 중”이라고 했다. 경찰은 통신사와 협력해 피해 발생 경위와 구체적인 수법을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무더위 이어지는 주말...전국에 최대 100㎜ 비</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/06/UZ7QYMKTAVEAVMYPZNPMHLE2CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/06/UZ7QYMKTAVEAVMYPZNPMHLE2CQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 00:34:38 +0000</pubDate>
+      <content:encoded>토요일인 6일엔 전국 대부분 지역에 비나 소나기가 내려 일요일인 7일까지 이어지겠다. 이 기간 동안 낮 기온은 30도 안팎까지 오르는 더위도 이어질 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5GZOKB74J57D5NIZYJJSUWDBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내리고 있는 4일 오전 서울 세종대로사거리 횡단보도에서 우산을 쓴 시민들이 신호를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청은 6일 전국이 대체로 흐린 가운데 새벽 수도권·충남권을 시작으로 비가 내리겠다고 예보했다. 오전부터는 강원권과 전라권에, 오후에는 경상권과 제주도에 비가 내리겠다.&lt;br&gt;&lt;br&gt;비는 다음날인 7일까지 이어질 전망이다. 6~7일 지역별 예상 강수량은 서울·인천·경기 30~80㎜(많은 곳 100㎜ 이상), 서해5도 20~60㎜, 강원권 20~60㎜(많은 곳 80㎜ 이상), 대전·세종·충남 30~80㎜(많은 곳 100㎜ 이상), 충북 20~60㎜(많은 곳 80㎜ 이상), 전북·광주·전남 30~80㎜(많은 곳 100㎜ 이상), 대구·경북·부산·울산·경남 10~60㎜, 제주도 5~40㎜다. &lt;br&gt;&lt;br&gt;이 기간 일부 지역에는 시간당 20~50㎜의 강한 비가 예보됐다. 한때 수도권과 충청·전라·경상 일부 지역엔 5~60㎜의 소나기가 내릴 가능성도 있다. 다만 비구름대가 태백산맥을 넘지 못하면서 가뭄에 시달리고 있는 강원 영동엔 비가 거의 내리지 않을 전망이다. &lt;br&gt;&lt;br&gt;기온은 평년(최저 16~22도, 최고 25~29도)보다 높을 전망이다. 전국 대부분 지역 최고 체감온도가 33도 안팎으로 올라 더위가 이어지겠다. 최고기온은 서울 30도, 인천 30도, 춘천 29도, 강릉 33도, 대전 31도, 대구 34도, 전주 32도, 광주 32도, 부산 31도, 제주 33도로 예상된다.&lt;br&gt;&lt;br&gt;주요 도시 예상 최저기온은 서울 25도, 인천 26도, 춘천 23도, 강릉 25도, 대전 24도, 대구 23도, 전주 24도, 광주 24도, 부산 25도, 제주 27도다. &lt;br&gt;&lt;br&gt;미세먼지 농도는 전 권역이 ‘좋음’으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“금은방 털어 변상해”… 후배에 금은방 절도 강요한 고교생 항소심도 ‘집유’</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/06/CIP4I7L2CVFMPHGEJ7J3CNXWIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/06/CIP4I7L2CVFMPHGEJ7J3CNXWIQ/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>후배가 자신의 오토바이를 망가뜨리자 금은방을 털어 변상하라고 강요한 고등학생이 항소심에서도 집행유예를 선고받았다.
+의정부지법 형사2부는 특수절도미수 교사 혐의 등으로 기소된 고등학생 A군에 대해 원심과 같은 징역 1년2개월에 집행유예 2년을 선고했다고 6일 밝혔다.
+</description>
+      <pubDate>Sat, 06 Sep 2025 00:18:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후배가 자신의 오토바이를 망가뜨리자 금은방을 털어 변상하라고 강요한 고등학생이 항소심에서도 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사2부는 특수절도미수 교사 혐의 등으로 기소된 고등학생 A군에 대해 원심과 같은 징역 1년 2개월에 집행유예 2년을 선고했다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난해 같은 고등학교 후배 B군이 자신의 오토바이를 망가뜨리자 수리비와 합의금 명목으로 250만원을 요구했다. B군의 아버지가 150만원을 건넸지만, A군은 “성에 차지 않는다”며 B군의 휴대전화를 빼앗았다.&lt;br&gt;&lt;br&gt;그러나 B군의 아버지가 도난 신고를 하자 휴대전화는 곧 사용할 수 없게 됐다.&lt;br&gt;&lt;br&gt;이에 A군은 지난해 9월 26일 B군을 불러 “금은방을 털어 돈을 갚아라”며 절단기와 망치 등을 건네 범행을 시켰다. B군은 경기 파주시 한 금은방에 침입을 시도했으나 자물쇠를 열지 못해 범행은 미수에 그쳤다. A군은 또 같은 달 다른 후배 C군에게도 경기 연천군의 한 금은방 절도를 지시하고 자신은 망을 보는 등 범행에 가담했으나 역시 실패했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “미성년자에게 금은방 절도를 제안하고 주도한 점에서 죄질이 좋지 않다”며 집행유예를 선고했으나 A씨는 양형 부당 등을 이유로 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “원심 형을 변경할 만한 새로운 사정이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]색다른 이야기#문해력교수나민애#워크웨어열풍</title>
       <link>https://www.chosun.com/national/weekend/2025/09/06/IIDSEFVUCNA53F7FJAAQKSHHLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/09/06/IIDSEFVUCNA53F7FJAAQKSHHLE/</guid>
@@ -829,18 +906,6 @@
       <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사 중인 해병 특검은 이종섭 전 국방장관의 참모였던 박진희(육군 소장) 전 국방장관실 군사보좌관을 피의자로 입건했다고 5일 밝혔다. 박 전 보좌관은 군사보좌관 재직 이후 육군 56사단장에 임명됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2COYB23LFO4FVPJA3P2PQBCKS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박진희 전 국방장관실 군사보좌관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 이날 오전 서울 서초동 특검 사무실에서 열린 언론 브리핑에서 “지난 3일 박 전 보좌관을 직권남용, 모해위증 혐의 피의자로 입건했다”며 “박 전 보좌관은 이미 해병 특검에서 참고인 조사를 두 차례 받은 바 있다. 그간 수사 진행 경과 등을 종합할 때 박 전 보좌관을 피의자 신분으로 조사할 필요성이 있다고 봤다”고 말했다. 앞서 박 전 보좌관은 지난 7월 28일, 30일 특검 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;박 전 보좌관은 2023년 7~8월 이 전 장관, 김계환 전 해병대 사령관 등과 수차례 연락하면서 국방부 조사본부의 고(故) 채수근 상병 사망 사건 재조사 과정 등에 관여한 혐의(직권남용), 박정훈(대령) 해병대 수사단장을 처벌 받게 하려는 목적 등으로 법원 등에 증인으로 나와 허위 증언을 한 혐의(모해위증) 등을 받고 있다.&lt;br&gt;&lt;br&gt;또 정 특검보는 “박 전 보좌관은 최근까지 육군 56사단장으로 재직하고 있었다”며 “특검은 박 전 보좌관이 특검 수사를 방해하거나 지장을 주는 행위를 할 우려가 있다고 보고, 특검법에 따라 지난 3일 국방부에 박 전 보좌관에 대한 직무배제를 요구했다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 육군은 이날 박 전 보좌관에 대해 직무정지를 위한 분리파견 인사 조치를 단행했다고 공지했다.&lt;br&gt;&lt;br&gt;해병 특검은 이르면 다음주 박 전 보좌관을 피의자 신분으로 소환 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울시 공무원들, 예산 빼돌려 해외여행 다녀온 혐의로 직위해제</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/18/OSJC5NP6INFD7DZOT6AF6G4KFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/18/OSJC5NP6INFD7DZOT6AF6G4KFA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 18 Jun 2025 06:31:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YP32DK6IQVE5PDYGH3CQ5EKUFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의 국제개발협력(ODA) 업무를 담당하는 공무원 2명이 관련 예산을 빼돌려 해외여행을 다녀왔다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;18일 서울시 등에 따르면 시는 최근 글로벌도시정책관 소속 과장급 A씨와 직원 B씨를 업무상 횡령 혐의로 서울 남대문경찰서에 고발했다.&lt;br&gt;&lt;br&gt;이들은 5000만원 안팎의 미집행 예산을 빼돌려 해외여행을 다녀왔다는 혐의를 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 시는 내부에서 횡령 의혹에 대한 제보가 접수돼 자체 감사를 진행했으며, 감사 결과 비위 사실을 확인해 고발 조치했다. 고발 조치 후 이들은 직위 해제됐다. &lt;br&gt;&lt;br&gt;시 관계자는 조선닷컴과의 통화에서 “자세한 내용은 수사 중이라 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YP32DK6IQVE5PDYGH3CQ5EKUFA.jpg?auth=c74eda3e795a69f2ee5dacb8af41a701a6e307d4ed688fab93e77933d79a7633&amp;smart=true&amp;width=1800&amp;height=1012" type="image/jpeg" height="1012" width="1800">
-        <media:description type="plain">일러스트=조선디자인랩 김영재</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>아파트 ‘입주자 카드’ 재판 증거로 무단 제출한 동대표…대법 “처벌 못해”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/05/HJF7XQRO5ZABJMU6XVBRTZNC4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/HJF7XQRO5ZABJMU6XVBRTZNC4I/</guid>
@@ -887,24 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBN6EQ4MGDACTXIRIW5IORFMJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용산 대통령실 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀은 5일 “관련 수사에 필요한 자료를 제출받기 위해 압수 수색에 착수했다”고 밝혔다. 구체적인 혐의에 대해선 이날 오후 열릴 정례 브리핑에서 밝힐 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검팀은 지난달 29일 ‘건진법사 청탁’ 의혹 및 ‘도이치모터스 주가 조작’, ‘명태균 공천 개입’ 등 세 가지 의혹으로 김 여사를 기소했고, ‘서희건설 금품 수수’ 및 ‘대통령실 이전 비리’ 의혹 등은 계속 수사 중이다. 이날 경호처 압수 수색은 수사 중인 사안들과 관련된 것으로 보인다.&lt;br&gt;&lt;br&gt;법조계 일각에선 김 여사가 따로 지급받은 사실이 알려진 ‘비화폰’ 사용 내역 관련 자료를 확보하려는 것 같다는 분석도 나왔다. 통상 비화폰 서버는 주기적으로 자료가 삭제되는 것으로 알려졌지만, 경찰이 지난 5월 말 확보한 서버 자료엔 사용 관련 기록이 남아있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“입교전 성매수 혐의 신임 경찰 퇴교?”... 법원은 “부당”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/05/SUPPFPKKNVHF5BTDPVV3OKAVKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/05/SUPPFPKKNVHF5BTDPVV3OKAVKQ/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 00:28:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙경찰학교 입교 전 발생한 사건으로 수사받는 학생에 대한 퇴교 조치는 부당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;청주지법 행정1부(재판장 김성률)는 5일 A씨가 중앙경찰학교장을 상대로 낸 직권 퇴교 처분 취소 소송에서 원고 승소 판결했다.&lt;br&gt;&lt;br&gt;2023년 경찰시험에 합격해 교육생 신분으로 중앙경찰학교에 입교한 A씨는 입교 전 사건과 관련, 경찰 수사를 받고 있다는 이유로 퇴교 조치를 당했다. &lt;br&gt;&lt;br&gt;당시 그는 1년여 전부터 아동·청소년의 성 보호에 관한 법률 위반(성 매수) 혐의로 불구속 입건돼 수사를 받고 있었다. &lt;br&gt;&lt;br&gt;중앙경찰학교는 A씨가 입교한 이후 수사 관할 경찰서로부터 통보를 받고 그를 즉각 교육운영위원회에 회부, 같은 해 12월 직권 퇴교 처분을 내렸다. &lt;br&gt;&lt;br&gt;퇴교 사유는 교육생 신분으로 중요 의무를 위반해 학교의 명예를 훼손했다는 것이다. &lt;br&gt;&lt;br&gt;하지만 A씨는 “범행을 저지른 적이 없다”고 억울함을 호소했다. &lt;br&gt;&lt;br&gt;그러면서 “만약 유죄가 나온다고 하더라도 입교 후 물의를 일으킨 것은 아니기 때문에 퇴교 처분은 부당하다”며 학교를 상대로 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;1년여간의 재판 끝에 법원은 학교 측의 퇴교 처분이 부당하다며 A씨의 손을 들어줬다.&lt;br&gt;&lt;br&gt;재판부는 “교칙 조항은 전체적으로 교육생 신분을 전제로 하는 비행 행위를 퇴교·감점 사유로 삼고 있다”며 “이 조항은 학생 신분을 가지게 된 사람의 행위로 인한 것에 적용된다”고 판시했다. &lt;br&gt;&lt;br&gt;다만, A씨가 형사재판에서 유죄를 확정받았다면 다른 교칙에 따라 또다시 퇴교 처분을 받을 수도 있었다. &lt;br&gt;&lt;br&gt;하지만 A씨는 소송 도중 이뤄진 형사재판 1·2심에서도 모두 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>독도 경비함까지 ‘강릉 급수 작전’</title>
-      <link>https://www.chosun.com/national/regional/2025/09/05/F6OKPFWJ3RBEBCHMIQ5BZKTVWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/F6OKPFWJ3RBEBCHMIQ5BZKTVWA/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>역대 최악의 가뭄에 시달리고 있는 강원도 강릉 주민들을 돕기 위해 독도 경비함도 출동했다.&lt;br&gt;&lt;br&gt;동해지방해양경찰청은 “지난 3일부터 5000t급 독도 경비함 삼봉호를 급수 지원에 투입했다”고 4일 밝혔다. 해경이 급수 지원에 독도 경비함을 투입한 건 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R2J5AOEOHBF37KJ4TSM3AUDMNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바닥 드러낸 저수지서 22년전 티코가… - 극심한 가뭄으로 바닥이 드러난 강원도 강릉 오봉저수지에서 티코 승용차가 발견됐다. 경찰은 22년 전 수몰된 것으로 추정했다. /강원도소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼봉호가 한 번에 실어 나를 수 있는 물의 양은 600t이다. 소방차 50대 분량이다.&lt;br&gt;&lt;br&gt;삼봉호는 지난 3일 동해시에서 생활용수 600t을 싣고 와 강릉 안인항에 내렸다. 이 물을 소방차가 강릉 홍제정수장으로 실어 날랐다. &lt;br&gt;&lt;br&gt;국방부도 이날부터 장병 800명과 차량 400여 대를 강릉에 투입했다. 전국에서 집결한 소방차 80대도 동해·양양·속초 등을 오가며 물을 실어 나르고 있다. &lt;br&gt;&lt;br&gt;그러나 강릉 최대의 상수원인 오봉저수지의 저수율은 이날 13.5%로 떨어졌다. 역대 최저치를 또 경신했다. 이날 수도권과 강원 등 중부 지방에 최대 44㎜ 비가 내렸지만 오봉저수지에 내린 비는 3.5㎜에 그쳤다. 저수지가 바닥을 드러내면서 지난 3일에는 22년 전 매몰된 것으로 추정되는 ‘티코’ 승용차가 발견됐다. 경찰 관계자는 “2003년 9월 태풍 ‘매미’ 때 저수지에 수몰된 것으로 보인다”며 “차량 주변에 시신은 없었다”고 했다.&lt;br&gt;&lt;br&gt;강릉시는 5일부터 시민 18만여 명에게 생수를 배급하기로 했다. 1인당 2L짜리 생수 6병씩 나눠준다. 시는 오봉저수지의 저수율이 10% 아래로 떨어지면 시간제·격일제 급수를 시행할 계획이다.&lt;br&gt;&lt;br&gt;지역 대학들은 단수에 대비해 비상 대책을 마련했다. 강릉원주대는 수돗물이 끊기면 강의실 문을 닫고 원격 수업을 실시하기로 했다.&lt;br&gt;&lt;br&gt;강릉관광개발공사가 운영하는 오죽 한옥마을은 5일부터 문을 닫는다. 6일 열릴 예정이던 경포 트레일런 대회는 무기한 연기됐고 강릉커피배 전국시니어테니스대회(9일)는 취소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘우아함의 황제’ 이탈리아 패션 거장 조르지오 아르마니, 떠나다</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/09/05/CKQBB545HNBTPK3LZLYMCTGBUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/05/CKQBB545HNBTPK3LZLYMCTGBUU/</guid>
@@ -923,24 +970,6 @@
       <content:encoded>지난해 서울을 찾은 외국인 관광객 중 약 100만명이 서울 시내 피부과나 성형외과 등 병원을 찾은 것으로 집계됐다. 이들이 의료비로 쓴 돈은 1조2000억원을 넘어섰다. 의료 관광객 수와 의료비 모두 역대 최대 규모다. &lt;br&gt;&lt;br&gt;서울시는 보건복지부의 ‘외국인 환자 유치 현황’을 분석한 결과, 2024년 서울을 찾은 외국인 1314만명 중 99만9642명이 서울 시내 병원을 이용한 것으로 나타났다고 4일 밝혔다. 2023년엔 47만3340명의 외국인이 병원을 찾았는데, 1년 만에 2배 이상으로 늘어난 것이다. 외국인이 카드로 서울의 의료기관에서 결제한 금액은 총 1조2310억원으로 집계됐다.&lt;br&gt;&lt;br&gt;외국인들에게 가장 인기 있는 병원은 피부과였다. 66만5382명(66.6%)이 피부과 진료를 받았다. 성형외과가 13만1541명(13.2%)으로 뒤를 이었다.&lt;br&gt;&lt;br&gt;한방병원이나 한의원을 찾은 외국인은 2만3066명(2.3%)이었지만, 2020년 1845명에 비하면 12배 이상 급증했다. 강진용 서울시 보건의료정책과장은 “세계적으로 흥행한 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스’에 한의원이 등장한 덕에 한의원 방문객 수가 앞으로 더욱 많아질 것으로 보고 있다”고 했다. &lt;br&gt;&lt;br&gt;국적별로는 일본인이 42만1541명(42.2%)으로 가장 많았다. 이어 중국(22만260명), 미국(7만5531명), 대만(7만4292명) 순이다. 또 의료 관광객이 주로 방문한 자치구는 피부과·성형외과 등 미용 의료 시설이 몰려 있는 강남구(37만7073명)와 서초구(28만8475명)로 집계됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>맥도날드 갈릭버거에, 창녕 마늘이 확 떴다</title>
-      <link>https://www.chosun.com/national/regional/2025/09/05/LGXCEK7NQ5AC3N3NGSIRVDE4UU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/LGXCEK7NQ5AC3N3NGSIRVDE4UU/</guid>
-      <dc:creator>창녕=김주영 기자, 창녕=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“요새는 서울 사람들도 창녕 하면 부곡 하와이 대신 ‘아~ 창녕 마늘’ 하지예! 마늘 하면 창녕 마늘 아입니꺼.”&lt;br&gt;&lt;br&gt;경남 창녕군에서 20년째 마늘 농사를 짓는 신창휴(65)씨는 요즘 신이 난다. 최근 맥도날드가 출시한 ‘창녕 갈릭버거’가 인기를 끌고 있기 때문이다. 햄버거에 창녕 마늘을 넣어 달큼한 맛이 난다. 덩달아 창녕 마늘도 상한가다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPHV6BYRMJEC7EIO5R3V6OYARM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김남엽 창녕군 농산물유통팀장은 “세계적인 기업이 나서 창녕 마늘을 홍보해 주니 지역 브랜드가 절로 상승하고 있다”며 “창녕 우포늪, 부곡온천 등을 찾는 관광객도 늘고 있다”고 했다.&lt;br&gt;&lt;br&gt;경기 화성에 사는 고진희(63)씨는 “요즘은 마트에서 마늘 고를 때 창녕 마늘인지 꼭 확인한다”고 했다.&lt;br&gt;&lt;br&gt;창녕은 국내 최대 마늘 산지(産地)지만 아는 사람이 적었다. 올해 창녕에선 2998농가가 마늘 6만5105t을 생산했다. 전국 마늘 생산량의 22%다. 시중에서 파는 국산 마늘 5개 중 1개는 창녕산이란 얘기다. 이 중 80t을 맥도날드에 보낸다.&lt;br&gt;&lt;br&gt;창녕 마늘은 풍미가 있고 달다는 평을 받는다. 까기 쉽고 덜 매워 고깃집에서 많이 찾는다. 맥도날드도 이런 이유로 창녕 마늘을 선택해 메뉴를 개발했다고 한다. 창녕군 관계자는 “창녕 흙은 점성이 있고 유황을 품고 있어 마늘에 영양분이 많다”고 했다. 창녕 부곡온천수에도 유황 성분이 많이 들어 있다.&lt;br&gt;&lt;br&gt;창녕은 원래 양파의 고장이다. 1909년 국내 최초로 양파를 재배한 곳이 창녕이다. 2010년대 중국산 양파 때문에 값이 폭락하자 농민들은 단가가 높은 마늘을 키우기 시작했다. 임동섭(67) 창녕농협 조합장은 “마늘은 양파와 생육 환경이 비슷해 쉽게 전환할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;마늘은 창녕의 효자 농산물이다. 해마다 매출 3000억원을 올린다. 창녕군 한 해 예산(7000억원)의 절반 수준이다. 1년에 1억원 이상 버는 농가도 1000곳이 넘는다.&lt;br&gt;&lt;br&gt;창녕군은 작년 12월 전국 최초로 ‘마늘 우량 종구(種球) 증식 센터’를 열었다. 마늘은 씨를 뿌리지 않고 종구(씨마늘)를 심어 기르는데, 좀 더 튼튼한 종구를 생산하는 곳이다. 군이 나서서 농기계도 빌려준다. 창녕군은 1대 1억원이 넘는 마늘 수확기 4대를 갖추고 있다. 창녕군 관계자는 “농촌이 갈수록 고령화되고 있어 자동화가 중요하다”고 했다.&lt;br&gt;&lt;br&gt;성낙인 창녕군수는 “마늘은 한국인의 ‘솔 푸드’”라며 “창녕 마늘의 경쟁력을 끌어올리고 다양한 판로를 개척하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>멀티탭 사고 급증… 피해 절반이 10세 미만</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/6NJKFKS2TJBFPMS4AWUB4LWFGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/6NJKFKS2TJBFPMS4AWUB4LWFGI/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>최근 5년간 멀티탭과 콘센트 등에서 발생한 안전사고가 387건에 달하는 것으로 나타났다. 매년 77건꼴이다. 특히 멀티탭 사고는 최근 5년간 3배 가까이 증가했다. 한국소비자원은 4일 ‘소비자 안전 주의보’를 발령했다. &lt;br&gt;&lt;br&gt;소비자원에 따르면, 최근 5년간(2020~2024년) 소비자원에 접수된 멀티탭·콘센트·플러그 관련 사고는 총 387건이었다. 화재, 감전 등 사고를 합친 것이다. &lt;br&gt;&lt;br&gt;콘센트 사고가 214건, 멀티탭 사고가 158건, 플러그 사고가 15건이었다. &lt;br&gt;&lt;br&gt;증가 추세는 멀티탭 사고가 가장 가팔랐다. 2020년 19건이었던 멀티탭 사고는 지난해 53건으로 5년간 2.8배가 됐다. 같은 기간 콘센트 사고는 56건에서 43건으로 줄었다. &lt;br&gt;&lt;br&gt;소방청 관계자는 “최근 의류 스타일러, 로봇 청소기 등 다양한 가전제품이 등장하면서 가정 내 전력 소비량이 증가하고 있다”며 “멀티탭에 문어발식으로 꽂아 쓰는 경우가 많아 화재 사고가 잇따르고 있다”고 했다. 최근 지구온난화 여파로 에어컨 사용량이 늘어나면서 멀티탭 화재가 잦다는 분석도 있다. 국립소방연구원 관계자는 “에어컨은 특히 전기를 많이 먹는다”며 “멀티탭을 쓰면 안 되고 반드시 벽면 콘센트에 꽂아 써야 한다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 7월 부산시 기장군의 한 아파트에선 멀티탭 화재로 9·6세 자매가 숨졌다. 소방 당국은 “에어컨 주변 멀티탭에서 불이 시작된 것으로 보인다”고 밝혔다. &lt;br&gt;&lt;br&gt;사고 피해자 중 절반(48.1%)은 10세 미만 어린이였다. 소방청 관계자는 “어린이가 멀티탭을 만지지 못하게 관리해야 한다”고 했다. &lt;br&gt;&lt;br&gt;멀티탭을 쓸 때는 가전제품의 소비 전력을 확인해 멀티탭 용량을 넘지 않도록 해야 한다고 소방청은 조언했다. 멀티탭에 또 다른 멀티탭을 연결해 쓰는 것도 위험하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이상학 등 8명 ‘통일문화대상’</title>
       <link>https://www.chosun.com/national/people/2025/09/05/UGPXD4ABVNCFHOQFERQMEPJJGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/05/UGPXD4ABVNCFHOQFERQMEPJJGQ/</guid>
@@ -948,33 +977,6 @@
       <description/>
       <pubDate>Thu, 04 Sep 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGW7VFLLZRBBJDBBL2MRVMKUJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 제18회 통일문화대상 수상자들이 기념사진을 찍고 있다. 앞줄 왼쪽부터 신예찬, 이호영, 윤정호, 이상학, 김주하, 박호진, 고재만, 이민석씨. /매일경제&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이상학 KT&amp;amp;G 수석부사장이 4일 통일문화연구원과 매일경제가 주최하는 ‘제18회 통일문화대상’에서 경제 부문상을 받았다. 탈북 청년과 고려인을 위한 금융·문화·기술 교육과정을 만든 공로를 인정받았다. 문화 부문상은 이호영 한얼도예 대표, 언론 부문상은 윤정호 TV조선 본부장과 김주하 MBN 특임상무, 이민석 조선일보 사회부 기동팀장 등 총 8명이 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>의대 모집 감소, 무전공 확대, 학폭 의무 반영… 올해도 변수 많다</title>
-      <link>https://www.chosun.com/national/education/2025/09/05/MBXWJA6KFJFA7O3DW6JZ3QQAKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/05/MBXWJA6KFJFA7O3DW6JZ3QQAKM/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 15:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72NC3GYM4NFEDOBHHLQURFHQCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오는 8일부터 2026학년도 대입 수시 모집 원서 접수가 시작된다. 의대 모집 정원 축소, 무전공 선발 확대, 학교 폭력 가해 사실 의무 반영 등 변수가 많기 때문에 지원하려는 대학의 모집 요강을 꼼꼼하게 확인해 지원 전략을 세워야 한다. 사진은 고려대 학생들과 유학생들이 교내를 함께 걷고 있는 모습. /고려대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 8일 2026학년도 대학 입시의 수시 모집 원서 접수가 시작된다. 한국대학교육협의회(대교협)에 따르면, 2026학년도 입시에서 전국 196개 대학이 전체 모집 인원 34만5179명 가운데 27만5848명(79.9%)을 수시 모집으로 뽑는다. 최근 5년 사이 수시 모집 인원 비율이 가장 높다. 2026학년도 수시 모집 인원은 지난해(27만1481명)보다 4000명 넘게 늘었고, 수시 선발 비율도 전년(79.6%) 대비 0.3%포인트 올랐다. &lt;br&gt;&lt;br&gt;수시 모집 원서 접수는 8일부터 12일까지 대학별로 최소 3일 이상 진행된다. 대학들은 9월 13일부터 12월 11일까지 수시 전형을 치르고, 12월 12일까지 합격자를 발표한다. 그사이 11월 13일(목)에 2026학년도 대학수학능력시험이 실시되며, 성적은 12월 5일 수험생들에게 통지된다. 수시 합격자들은 12월 15일부터 17일까지 등록한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGITLVQNGNFMFKPCUJZC6JNXAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학들은 통상 수시 모집에서는 ‘학생부’ 위주로, 정시 모집에선 ‘수능’ 성적을 위주로 학생을 선발한다. 2026학년도 수시 모집에서도 학생부 위주 전형 중심의 선발 기조를 유지한다. 전형 유형별 모집 인원(정원 내 기준)을 보면 내신 위주의 학생부 교과 전형이 15만5495명(56.4%)으로 가장 많다. 이어 학생부 종합 전형(29.5%), 실기(7.9%), 논술(4.6%), 재외국민 등 기타 전형(1.7%) 순이다. &lt;br&gt;&lt;br&gt;2026학년도에는 많은 대학이 모집 단위를 신설했다. 신설 학과 대부분은 AI(인공지능)·반도체·바이오 등 첨단 분야와 관련 있다. 주요 대학 중에선 연세대(진리자유학부, 모빌리티시스템 전공), 서강대(반도체공학과), 성균관대(배터리학과, 바이오신약·규제과학과), 중앙대(지능형반도체공학과)가 대표적이다. 서강대는 반도체공학과를 신설했고, 성균관대는 삼성SDI와 연계한 배터리학과와 바이오신약·규제과학과를 열었다. 산업계 수요와 직결된 첨단·계약 학과가 속속 등장하면서 자연·공학 계열 수험생들의 선택지가 넓어졌다. 올해는 학과 신설 외에도 모집 단위 개편·통합, 모집 단위명 변경 등이 적잖다. 모집 요강 확인 시 유의해야 한다.&lt;br&gt;&lt;br&gt;교육부의 ‘무전공(전공 자율 선택) 확대’ 방침에 따라 많은 대학이 자유전공학부를 신설하거나 계열·단과대 중심의 광역 모집을 확대하고 있다. 교육부가 제시한 무전공 선발 형태는 크게 ‘유형 1’과 ‘유형 2’로 나뉜다. 유형 1은 전공을 정하지 않고 입학 후 대학 내 모든 전공(보건의료·사범대학 등 제외)을 자유롭게 선택한다. 통상 자유전공학부가 이에 해당한다. ‘유형 2’는 계열 또는 단과대 단위로 입학한 뒤 추후 해당 계열·단과대 안에서 전공을 선택한다. 상위권이지만 원하는 학과에 가기엔 성적이 다소 부족한 수험생의 경우 유형 1로 지원할 수 있어 상위권 수험생들의 지원 전략에 큰 변수가 될 전망이다.&lt;br&gt;&lt;br&gt;2026학년도 수시 모집에서 의대 모집 인원 변동도 주요 변수다. 의학 계열(의대·치의대·한의대·수의대)에서 지난해보다 930여 명 줄어든 2115명을 선발한다. 이는 정시를 포함한 내년도 의대 모집 인원이 2024학년도 수준인 3058명으로 복귀한 데 따른 것이다. 전년도에 모집 인원이 크게 증가해 경쟁률이 소폭 하락했던 지방 소재 대학들은 올해 수험생 증가에 모집 인원 감소까지 더해져 경쟁률과 합격선이 상승할 전망이다. &lt;br&gt;&lt;br&gt;2026학년도부터는 모든 대학이 수시와 정시 전형에서 학교 폭력 가해 사실을 의무적으로 반영해야 한다. 이는 2023년 교육부가 발표한 학교 폭력 근절 종합 대책에 따른 조치로 2026학년도부터는 학생부교과·학생부종합·논술·실기 등 모든 전형에서 학교 폭력 조치 사항을 필수적으로 반영해야 한다. 특히 연세대·고려대·이화여대·한국외대 등 일부 대학은 학교 폭력 관련 조치가 있을 경우 전형 종류에 따라 지원 자체가 불가능하다. 가해 전력이 있다면 지원 자격 제한이나 서류·면접 평가 감점 등 불이익을 받을 수 있다. 일부 대학은 전년도에 선제적으로 반영하기도 했다. 지원 전 반드시 모집 요강을 확인해야 한다.&lt;br&gt;&lt;br&gt;이번 수시 모집에선 수능 최저 학력 기준에도 변화가 많다. 고려대·이화여대·한양대 등 주요 대학이 일부 전형에서 최저 기준을 신설하거나 완화했고, 연세대·건국대·서울시립대·서울여대 등 일부 대학은 특정 전형에서 아예 폐지했다. 수험생들은 대학별 최저 기준 충족 여부를 반드시 확인해야 한다.&lt;br&gt;&lt;br&gt;기회균형·지역균형 등 사회 통합 전형도 확대됐다. 전체 3만8200명을 선발해 지난해보다 776명 늘었다. 학령인구 감소에도 불구하고 사회적 배려 계층을 위한 입학 기회는 넓어진 셈이다.&lt;br&gt;&lt;br&gt;수험생들은 올해 수시 전형에서 하향 지원보다는 상향 또는 적정 지원을 선호할 것으로 예상됐다. 종로학원이 지난 7월 23~27일 수험생 1089명을 대상으로 실시한 설문조사에 따르면 응답자의 44.5%가 총 6차례 가능한 수시 지원 기회 중 하향 지원을 1곳도 하지 않겠다고 밝혔다. 이는 취업 시장 한파로 인해 이전보다 대학 간판을 중시하는 심리가 작용하고 있다는 분석이다. 한 입시 업계 관계자는 “수험생들은 대학의 명성과 경쟁력을 고려해 보다 높은 목표를 설정하고 지원하는 경향이 커지고 있다”며 “무전공 확대, 신설학과 등장, 수능 최저 기준 변화, 학교 폭력 반영 등 여러 변수를 충분히 고려해 신중한 지원 전략을 세우는 것이 중요하다”고 설명했다.&lt;br&gt;&lt;br&gt;대학별 모집 요강은 대입 정보 포털(www.adiga.kr)과 각 대학 홈페이지에서 확인할 수 있다. 각 시·도교육청의 홈페이지나 입시 설명회에서도 수험생에게 필요한 입시 정보를 얻을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 인척 집에서 나온 ‘이우환 그림’... 김상민 전 검사가 사서 줬다</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/04/CP4NZVWP5NESNDDR7YRJI4F2KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/04/CP4NZVWP5NESNDDR7YRJI4F2KE/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 11:08:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKLFV5P727KZHSK52OHASA5JNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀(김건희 특검팀) 박상진 특검보가 8월 29일 서울 세종대로 특검에서 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 지난 7월 말 김건희 여사 친오빠인 김진우씨의 장모 집을 압수 수색하면서 확보한 이우환 화백 그림의 구매자를 김상민 전 검사로 특정한 것으로 4일 확인됐다. 김 전 검사는 김 여사가 작년 총선 때 경남 창원 의창에 국민의힘 공천을 받게 하려고 했던 사람이다. 김 전 검사는 국민의힘 공천을 받지는 못했으나 총선 후 국가정보원장 특별보좌관에 임명됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 김씨 장모 집에서 찾았던 이 화백의 그림 ‘점으로부터(From Point) No.800298’을 김 전 검사가 구매해 김씨에게 전달했다는 진술을 최근 확보한 것으로 전해졌다. 이 작품은 2022년 6월 대만 경매에서 한국인 이모씨가 약 3000만원에 낙찰받아 한국으로 들여왔다. 이후 김 전 검사가 2023년 초쯤 이 그림을 약 1억원에 구매한 것으로 특검은 파악했다고 한다.&lt;br&gt;&lt;br&gt;김진우씨 측은 이 그림이 김 전 검사에게 ‘대리 구매’를 부탁해 매입한 것이란 입장이다. 김 전 검사에게 그림 값도 줬고 김 여사와는 관련이 없다는 주장이다. 앞서 김 여사도 특검 조사에서 이 그림과 관련해 “내 것이 아니다. 나라면 구매하지 않았을 것”이라고 진술했다고 한다. 그러나 특검은 김 여사가 김 전 검사로부터 그림을 선물받고, 그 대가로 그가 국민의힘 공천을 받을 수 있도록 영향력을 행사하려 했거나 총선 후 국정원장 특보에 임명되도록 했을 가능성을 수사 중이다.&lt;br&gt;&lt;br&gt;김 여사는 작년 4월 총선에서 김 전 검사를 경남 창원 의창에 출마시키기 위해 영향력을 행사했다는 의혹을 받고 있다. 특검은 김 여사가 작년 2월 이곳 지역구 의원인 김영선 전 국민의힘 의원에게 전화해 “김상민 검사가 당선될 수 있도록 하면 선거 이후 장관 또는 공기업 사장 자리를 주겠다며 불출마를 종용했다는 진술을 확보했다. 실제 김 전 의원은 작년 2월 18일 경남 김해갑으로 지역구를 바꾸겠다고 밝혔다.&lt;br&gt;&lt;br&gt;다만 김 전 검사는 끝내 경남 창원에서 국민의힘 공천을 받지 못했다. 이후 그는 작년 8월 국정원장 법률특보에 임명됐다. 특검은 이 과정에 김 여사가 관여한 것은 아닌지 규명한다는 계획이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 탐라왕국 시조 ‘고·양·부(高梁夫)’ 삼성 재단 파산 위기, 왜?</title>
-      <link>https://www.chosun.com/national/regional/2025/09/04/OG3K7JCK6BF5LIHBQNVIGXG57U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/04/OG3K7JCK6BF5LIHBQNVIGXG57U/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Sep 2025 05:00:06 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KINPBJMWOJEC5ENBPRCQOGXPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주시내에 위치한 삼성혈/제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주지역에 뿌리를 둔 옛 탐라왕국의 기원을 상징하는 고·양·부 삼성(三姓)사재단이 창립 104년 만에 존폐 기로에 놓였다.&lt;br&gt;&lt;br&gt;4일 삼성사재단에 따르면 작년에 재산세와 종합부동산세로 부과된 세금은 41억8600만원이다. 또 올해와 내년까지 납부할 세금 예상액은 116억원에 달한다. &lt;br&gt;&lt;br&gt;세금 폭탄을 맞은 토지는 조선시대 임금이 탐라국을 건국한 삼성(三姓) 시조를 위해 하사한 위토(位土)다. 위토란 제례에 필요한 비용을 충당하기 위해 마련된 토지다. 삼성사재단은 일제강점기 토지조사령에서 토지 수탈을 막고 법적 주체성을 확보하기 위해 1921년 비영리 재단으로 설립됐다.&lt;br&gt;&lt;br&gt;재단에 따르면 지방세법 개정 전인 2021년 약 5억원의 세금을 냈다. 그런데 정부는 2022년부터 부동산 투기 근절을 위해 사학법인과 종교단체까지 종부세를 단계적으로 적용하면서 삼성사재단도 포함됐다. 그 결과 2022년 17억원, 2023년 28억원, 2024년 41억원 등 매년 세금이 눈덩이처럼 불어났다.&lt;br&gt;&lt;br&gt;재단 관계자는 “그동안 재단 소유 토지를 처분하면서 세금을 냈다”며 “정부가 지속적으로 종부세를 부과할 경우 10년 내 자산이 소멸돼 제향(祭享·나라에서 지내는 제사)은 물론 장학사업, 탐라문화상 시상 등 공익활동과 사회공헌을 하기 어렵게 됐다”고 했다.&lt;br&gt;&lt;br&gt;재단 측은 지난해 9월 세금 감면을 위한 국회 청원을 냈다. 재단 측은 “종친·문중회가 법인재단으로 설립된 것은 삼성사재단이 유일한 사례”라며 “국가에서 하사한 토지 때문에 ‘파산’할 지경에 이르렀다”고 법 개정의 필요성을 밝혔다.&lt;br&gt;&lt;br&gt;같은 성과 본을 가진 후손들이 공동의 선조를 모시는 종중(宗中)은 자연발생적 혈족·친목단체로 세금 부담이 크지 않았다. 2013년까지만 해도 삼성사재단은 연간 5000여 만원의 세금을 냈다. 그런데 2013년 정부의 유권해석에서 ‘3개의 종중이 공익목적을 위해 출연된 재산을 기반으로 재단법인을 설립, 등기를 했다’며 자연발생적인 혈족단체가 아닌 법인격을 갖춘 재단으로 판단, 분리 과세(낮은 세율 부과) 특례를 인정하지 않았다.&lt;br&gt;&lt;br&gt;삼성사재단은 지난해 남조로 도로 편입 보상금과 아파트 등을 처분해 41억원의 세금을 납부했다.&lt;br&gt;&lt;br&gt;재단은 현재 약 1500필지의 토지를 소유하고 있는 것으로 알려졌다. 하지만 현재의 법에 따라 세금을 낼 경우 10년 내 존립이 어려울 것으로 내다봤다.&lt;br&gt;&lt;br&gt;한편, 국가지정 문화재 사적 134호인 삼성혈(三姓穴)은 삼신인이 솟아난 세 개의 구멍(穴)을 뜻한다. 1526년(중종 21) 이수동 제주목사가 돌담을 쌓고, 붉은 칠을 한 홍문(紅門)과 혈비(穴碑)를 세우면서 성역화됐으며, 유교식 혈제(穴祭)를 지냈다. 1698년(숙종 24) 유한명 목사는 탐라시조의 위패를 모신 성전인 삼성전(三姓殿)을 건립했다. 1785년 정조는 삼성사(三姓祠) 편액을 하사했다. 매년 4월 10일과 10월 10일에 춘추대제를, 12월 10일 탐라 시조를 기리는 건시대제(乾始大祭)를 봉향하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
