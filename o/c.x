@@ -13,6 +13,26 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“명동~홍대 4만5000원” 미터기 끄고 바가지 씌우다 딱 걸린 택시기사</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/06/YSPSBT5JDRAH7GWH3OBRY6KLDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/06/YSPSBT5JDRAH7GWH3OBRY6KLDU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Sep 2025 10:23:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKU2GCBVCZEDVJI7N2NLLRYDJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국 택시기사가 명동에서 홍대까지 가려는 일본인에게 4만5000원 요금을 부르는 모습./ TBS방송&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 택시 기사가 서울 명동에서 홍대까지 택시를 이용한 일본인에게 과도한 요금을 청구하는 장면이 일본 현지 매체에 보도돼 온라인에서 공분이 일고 있다. &lt;br&gt;&lt;br&gt;일본 TBS NEWS DIG는 지난 4일 “외국인 관광객을 노린 택시 불법 행위가 이어지자 서울시가 단속을 강화하고 있다”며 단거리 승객 승차 거부와 바가지 요금 사례를 보도했다. &lt;br&gt;&lt;br&gt;이 방송에서 취재진은 관광객인 척하며 명동에서 홍대까지 택시를 이용했다. 취재진이 탑승한 차량의 기사는 미터기를 꺼놓고 목적지까지 이동했다. 택시 면허 등록증 역시 가려놓은 모습이었다. &lt;br&gt;&lt;br&gt;이 택시기사는 취재진을 태우자 일본어로 “만나서 기쁩니다”라고 친근하게 인사했다. 그 뒤 기사는 “1만엔을 주면 카지노에 데려다주겠다”고 하거나 “유흥업소를 소개시켜주겠다”며 연락처를 요구했다고 매체는 보도했다.&lt;br&gt;&lt;br&gt;목적지인 홍대에 도착하자 이 택시기사는 요금이 4만5000원이 나왔다며 현금으로 지불하면 4만원으로 깎아주겠다고 했다. 일반적으로 명동에서 홍대까지 택시 요금은 약 1만2000원 정도 나오는데, 네 배의 요금을 부른 것이다. 취재진이 요금을 계산한 뒤 영수증을 요청했지만 기사는 “영수증은 없다”고 했다. &lt;br&gt;&lt;br&gt;이후 취재진은 기사에게 방송 촬영 중임을 밝히고 요금을 과도하게 받은 이유를 묻자 “손님을 명동에서 1시간이나 기다렸다”고 말한 뒤 떠났다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AV2PTX7ZOYLXOLVOEMOT5LQLEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여행객들이 택시를 이용하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 방송 화면을 캡처한 글은 국내 온라인 커뮤니티에도 확산됐다. 네티즌들은 “택시 기사는 사소한 일이라고 할 수 있지만 결국 저런 행위들이 관광 이미지를 다 깎아먹는 것이다” “일부 택시 기사의 행태 때문에 전체가 욕을 먹는다” “이래서 앱을 써야 한다” “한류 열풍에 먹칠하다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;올해 상반기 방한 외국인 관광객은 총 882만명으로 지난해 같은 기간(770만명)보다 112만명가량 늘어났다. 서울시는 관광 성수기를 맞아 지난달부터 100일간 외국인 관광객을 상대로 한 택시 부당 요금 청구나 승차 거부 등 불법행위를 집중 단속하고 있다. 시는 2015년 8월 전국 최초로 전담 단속반을 신설한 이후 약 10년간 운영 중이다.&lt;br&gt;&lt;br&gt;앞서 시는 작년 총 7435건의 외국인 대상 인터뷰를 실시해 345건의 위법 행위를 적발하는 성과를 거뒀다. 주요 위반 유형은 부당 요금 징수, 미터기 미사용, 사업 구역 외 영업 등으로 적발 시 과태료, 과징금, 영업 정지, 면허 취소 등 행정처분이 이뤄진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사람이 불에 타 쓰러져 있다”… 분당 공원 화장실서 여성 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/09/06/375NUWZBZFDXPJQLRQRSVLW6UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/06/375NUWZBZFDXPJQLRQRSVLW6UI/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>6일 오후 6시 3분쯤 경기 성남시 분당구 구미동의 한 공원 화장실에서 성인 여성이 불에 타 숨진채 발견됐다.
+경찰은 “사람이 불에 타 쓰러져 있다”는 신고를 접수 받고 현장에 출동했지만, 여성은이미 숨져 있었다.
+</description>
+      <pubDate>Sat, 06 Sep 2025 11:23:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오후 6시 3분쯤 경기 성남시 분당구 구미동의 한 공원 화장실에서 성인 여성이 불에 타 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 “사람이 불에 타 쓰러져 있다”는 신고를 접수받고 현장에 출동했지만, 여성은 이미 숨져 있었다.&lt;br&gt;&lt;br&gt;숨진 여성에게 타살 혐의점은 발견되지 않았으며, 인화 물질을 소지한 채 화장실로 들어가는 여성의 모습이 포착된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 여성의 신원을 확인하는 한편 자세한 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살예방SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>AI와 ‘야한 대화’에 빠진 초등학생들... 학교는 비상</title>
       <link>https://www.chosun.com/national/national_general/2025/09/06/HHSWCTUFTRB2VH2FWBL5IG4O4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/06/HHSWCTUFTRB2VH2FWBL5IG4O4Q/</guid>
@@ -835,15 +855,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKSFGLVKDBCLVHL4MARZUX73CM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한 시장 점포에 민생회복 소비쿠폰 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민생회복 소비 쿠폰 2차 지급을 앞두고 이를 악용한 ‘스미싱’ 범죄가 등장해 관계 당국이 주의를 당부했다.&lt;br&gt;&lt;br&gt;방송통신위원회는 민생회복 소비 쿠폰 지급 내용을 사칭해 불법 도박 사이트 등의 인터넷 주소(URL)를 누르도록 하는 악성 스팸 피해 주의보를 4일 발령했다. 실제 신고 사례에 따르면 사칭 문자에는 “민생회복 쿠폰 도착 안내 지금 받으러 가기”라는 문구와 함께 출처가 불분명한 URL이 첨부돼 있다.&lt;br&gt;&lt;br&gt;이 URL을 누르면 정부 기관을 위장한 가짜 사이트로 연결되고 여기에 접속하면 개인정보와 금융 정보를 탈취할 수 있는 앱이 설치된다. 방통위는 이 과정이 무단 송금 및 휴대전화 원격 제어 등의 추가 피해로 이어질 수 있다고 경고했다.&lt;br&gt;&lt;br&gt;만약 스팸 문자를 받았을 때는 간편 신고 앱이나 휴대전화 기능으로 한국인터넷진흥원(KISA)에 신고할 수 있다. URL이 포함됐다면 카카오톡 ‘보호나라’ 채널을 실행한 후 해당 문자를 복사·붙여넣기해 정상적인 문자인지 여부를 우선 확인하는 것도 가능하다.&lt;br&gt;&lt;br&gt;방통위는 “민생회복 소비 쿠폰을 사칭한 스팸이 늘고 있는 만큼 낯선 문자 속 URL은 절대 누르지 말고 ‘보호나라’ 채널을 통해 반드시 확인하라”며 “보안 습관이 가장 확실한 예방책”이라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대천해수욕장 인근 해상서 여성 시신 발견… “신원 확인 중”</title>
-      <link>https://www.chosun.com/national/regional/2025/09/05/P2VS6NZFT5C5BH24JKSRACLNDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/P2VS6NZFT5C5BH24JKSRACLNDQ/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 05:11:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBJXDF5SC2JK6BBVH2WBBIJ4BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보령해양경찰서 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 보령시 신흑동 대천해수욕장 인근에서 신원 미상의 여성이 숨진 채 발견돼 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;5일 보령해경에 따르면 이날 오전 10시 30분쯤 대천해수욕장 갓바위 부근 해상에 여성의 시신이 떠다닌다는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;해경은 현장에 출동해 시신을 수습한 뒤 신원 파악에 나섰다.&lt;br&gt;&lt;br&gt;해경 관계자는 “소지품 등이 없어 여성인 점 외에 아직 정확한 신원을 파악하지 못한 상태”라며 “사고나 범죄 등 다양한 가능성을 열어두고 신원 파악과 사망 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 중구 금속공장서 60대 여성 숨져…남편 병원 이송</title>
       <link>https://www.chosun.com/national/national_general/2025/09/05/TR3QKW7IFJGKPMU7IAIHCCHNWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/TR3QKW7IFJGKPMU7IAIHCCHNWY/</guid>
@@ -914,15 +925,6 @@
       <description/>
       <pubDate>Fri, 05 Sep 2025 02:07:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LG5L4K3TVCUW4BHFGKHJPHOO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 오봉저수지가 맨바닥을 드러내고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉시가 극심한 가뭄으로 저수율 급감에 따라 홍제정수장 급수구역 대수용가에 제한급수를 시행한다.&lt;br&gt;&lt;br&gt;강릉시는 5일 “홍제정수장 공급 지역의 생활용수 부족이 심각한 수준에 이르러 오는 6일 오전 9시부터 제한급수를 시작한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 박진희 前군사보좌관 ‘수사 외압’ 피의자 전환... 軍은 직무정지</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/IOPP5KQBRVAEPMBVFJDRWIORKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/IOPP5KQBRVAEPMBVFJDRWIORKE/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 02:35:08 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사 중인 해병 특검은 이종섭 전 국방장관의 참모였던 박진희(육군 소장) 전 국방장관실 군사보좌관을 피의자로 입건했다고 5일 밝혔다. 박 전 보좌관은 군사보좌관 재직 이후 육군 56사단장에 임명됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2COYB23LFO4FVPJA3P2PQBCKS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박진희 전 국방장관실 군사보좌관/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 이날 오전 서울 서초동 특검 사무실에서 열린 언론 브리핑에서 “지난 3일 박 전 보좌관을 직권남용, 모해위증 혐의 피의자로 입건했다”며 “박 전 보좌관은 이미 해병 특검에서 참고인 조사를 두 차례 받은 바 있다. 그간 수사 진행 경과 등을 종합할 때 박 전 보좌관을 피의자 신분으로 조사할 필요성이 있다고 봤다”고 말했다. 앞서 박 전 보좌관은 지난 7월 28일, 30일 특검 조사를 받은 바 있다.&lt;br&gt;&lt;br&gt;박 전 보좌관은 2023년 7~8월 이 전 장관, 김계환 전 해병대 사령관 등과 수차례 연락하면서 국방부 조사본부의 고(故) 채수근 상병 사망 사건 재조사 과정 등에 관여한 혐의(직권남용), 박정훈(대령) 해병대 수사단장을 처벌 받게 하려는 목적 등으로 법원 등에 증인으로 나와 허위 증언을 한 혐의(모해위증) 등을 받고 있다.&lt;br&gt;&lt;br&gt;또 정 특검보는 “박 전 보좌관은 최근까지 육군 56사단장으로 재직하고 있었다”며 “특검은 박 전 보좌관이 특검 수사를 방해하거나 지장을 주는 행위를 할 우려가 있다고 보고, 특검법에 따라 지난 3일 국방부에 박 전 보좌관에 대한 직무배제를 요구했다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 육군은 이날 박 전 보좌관에 대해 직무정지를 위한 분리파견 인사 조치를 단행했다고 공지했다.&lt;br&gt;&lt;br&gt;해병 특검은 이르면 다음주 박 전 보좌관을 피의자 신분으로 소환 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아파트 ‘입주자 카드’ 재판 증거로 무단 제출한 동대표…대법 “처벌 못해”</title>
