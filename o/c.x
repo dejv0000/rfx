@@ -13,6 +13,79 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“범칙금 낼 돈 빌려줘”…거절당하자 지인에 흉기 휘두른 남성 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/HFPCDSEGBVAMXPX6FL6GB5D4AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/HFPCDSEGBVAMXPX6FL6GB5D4AU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 03:23:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7SIU6WL7ERIKRCEJFAF2JMMCEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동부지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 빌려달라는 요구를 거절하고, 이 통화 내용을 스피커폰을 통해 주변 사람들에게 알렸다는 이유로 지인에게 흉기를 휘두른 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사11부(재판장 강민호)는 살인 미수 혐의로 기소된 이모(51)씨에게 지난달 29일 징역 2년 6개월을 선고했다. 이씨는 지난 4월 23일 지인 A씨에게 전화를 걸어 “교통 단속에 걸려 범칙금을 내야 한다”며 돈을 빌리려다 거절당하자 이틀 뒤 A씨를 찾아가 흉기를 휘두른 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 A씨가 스피커폰 통화 중이었고, 자신의 부탁이 거절당하는 통화 내용을 A씨 주위 사람들이 실시간으로 들었다는 걸 알게 된 이씨는 뒤늦게 화가 치밀었다고 한다. 이를 두고 말다툼을 하다 A씨가 이씨의 집으로 찾아가자 이씨는 A씨의 턱 부분을 흉기로 찔렀다. A씨는 곧바로 이씨의 공격을 피해 생명에 지장은 없었다고 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 피고인의 공격을 피하고 곧바로 제압해 중한 상해는 입지 않았지만 실제로 찌른 부위는 생명을 잃을 수도 있는 부위였다”고 했다. 이어 “피해자가 이씨에 대한 처벌을 원하고 있다”며 “피고인은 상해, 폭행 등 폭력 범죄 등으로 여러 차례 형사처벌받은 전력이 있다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>54년 의사 외길 인생, 이제는 ‘그림 처방전’으로 환자들 치유</title>
+      <link>https://www.chosun.com/national/people/2025/09/05/O7FLQPE3ZRDI7HQ6NDPVLXHHWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/05/O7FLQPE3ZRDI7HQ6NDPVLXHHWM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 05 Sep 2025 00:05:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2J2SYFKAVCF3NTMDGB4BBLJ7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;54년간 의사로 살아온 김화숙(79) 대한의사협회 고문이 이달 7일까지 서울 중구문화원 예원갤러리에서 첫 개인전을 연다. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평생 죽음의 문턱 앞을 지키며 환자를 보살핀 김화숙(79) 대한의사협회 고문은 최근 밤마다 붓을 잡는다. 54년째 의사 외길을 걷고 있지만, 사람들에게 또 다른 ‘처방전’을 건네기 위해서다. 낮에는 청진기, 밤에는 붓을 들며 완성한 작품은 어느덧 50여 점이나 쌓였다. 현미경 속 세포를 연필로 따라 그리며 의사의 꿈을 키웠던 그가 첫 개인전을 개최했다. 이젠 환자의 심신(心身)을 보듬는 의사이자 화가로서 제2막을 열었다.&lt;br&gt;&lt;br&gt;김 고문은 이화여대 의대 재학 시절, 세포학과 조직학을 배우며 현미경 속 세포 하나하나를 연필로 그리곤 했다. 스스로도 이를 즐겼다던 김 고문은 “어렸을 적부터 그림 그리기를 좋아해서인지 현미경 속 세상에서도 예술적 욕구가 샘솟았다”고 했다. 1971년 처음 의사 가운을 입은 뒤로도 ‘언젠가 한 번은 붓을 잡으리라’ 생각했다고 한다.&lt;br&gt;&lt;br&gt;의사로 정신없이 살아오던 1999년, 김 고문은 문득 ‘그림을 그리고 싶다’는 생각 하나로 동네 화실을 찾았다. 말기 암, 백혈병 등 시한부 환자들을 숱하게 마주해왔던 만큼 그에게도 마음의 평안이 필요했던 것이다. 꽃병에 담긴 들국화를 화폭에 담아냈는데, 이 작품으로 한 미술전에서 상까지 거머쥐었다. 하지만 그해 말 친오빠가 교통사고로 세상을 떠나면서, 충격에 미술 활동을 이어갈 동력을 잃었다. 네 명의 자녀를 키우고 환자들을 진료하는 데 집중하다 보니 붓을 다시 잡을 힘조차 남아나질 않았다. 김 고문은 “마음의 병을 앓는 상태에서는 제대로 된 그림을 그릴 수 없다는 생각이 들었다”고 회상했다.&lt;br&gt;&lt;br&gt;그런 김 고문의 삶에 지난 2020년 변곡점이 생겼다. 자신의 마음뿐 아니라, 의사로서 마주하는 시한부 환자들의 마음도 치유해보자는 생각에 다시 한 번 붓을 잡았다. 일선에서 물러나 주 1~2일 진료를 보며 시간적 여유도 생겼다. 그렇게 이때부터 그림을 그리기 시작했다. 오랜만에 작품 활동을 재개했지만, 2023년 한국문화미술대전과 국제문화미술대전 등에서 잇따라 수상하며 빛을 발했다. 지난 3년간 그린 그림만 50여 점이다. 주로 자연의 풍경을 따뜻하고 평화로운 유화로 표현했다.&lt;br&gt;&lt;br&gt;김 고문의 그림은 자신은 물론, 다른 이들의 마음까지 치유하는 ‘처방전’이 됐다. 그는 모교인 이화여대와 이대목동병원에 자신의 그림을 기증해 전시했다. 자신이 운영하는 병원 복도에도 그림을 걸어뒀다. 때로는 환자들에게 그림을 선물하기도 했다. 종종 환자들이 “덕분에 마음의 평안을 얻는다”며 고마움을 전한다고 한다.&lt;br&gt;&lt;br&gt;김 고문은 앞으로 그림을 그려 발생하는 수익을 모교에 장학기금으로 기부해 후학 양성에 보탬이 되고 싶다는 바람을 밝혔다. 또 그는 “여생 역시 나를 찾아오는 환자들에게 치유의 시간을 선물하는 의사로서 살아가고 싶다”며 “그 과정에 나의 그림이 환자들의 삶에 보탬이 됐으면 한다”고 했다. 김 고문의 첫 개인전 ‘김화숙 作品展’은 서울 중구문화원 예원갤러리에서 이달 7일까지 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>익산 255㎜ 폭우…전라선 익산-전주 열차 운행 중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/G7IQ7GEIG5HBRINQRLVENRGDA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/G7IQ7GEIG5HBRINQRLVENRGDA4/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 00:36:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOL3RK7IDNMT5G7HLPTQQYVDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북지역에 장대비가 쏟아진 7일 전라선 익산-전주 구간 철도 선로가 물에 잠겨 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 전북 지역에 폭우가 내려 전라선 익산-전주 구간 일부가 침수되면서 열차 운행이 전면 중단됐다가 3시간 40분 만에 재개됐다.&lt;br&gt;&lt;br&gt;코레일은 이날 6시 25분쯤 ‘선로 침수로 전라선(익산-전주) 열차 운행이 중지됩니다. 타 교통 이용 부탁드립니다’라는 문자메시지를 보냈다. 동산역과 전주역 사이 선로가 침수된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;코레일은 익산-전주 구간에 버스를 투입해 전라선 KTX 승객들이 이용할 수 있도록 했다. 현재는 배수 작업이 완료돼 전라선 모든 구간이 정상 운행 중이다. &lt;br&gt;&lt;br&gt;전북 지역엔 밤사이 시간당 150㎜ 이상의 강한 비가 내리면서 침수 피해가 발생했다. 전주기상지청에 따르면 전날부터 이날 오전 8시 30분 현재까지 누적 강수량은 군산 296㎜, 익산 함라 255.5㎜, 전주 완산 189㎜, 김제 180㎜, 완주 구이 165㎜, 부안 134.7㎜, 진안 131㎜ 등을 기록하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEO3NVMU2VMQLEAGU43YDJ64ZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 곳곳에 호우경보가 발효된 7일 전북 전주시 덕진구 전주천 하류에 강한 물살이 흐르고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 8시 기준 진안·정읍·임실·순창 등 4개 시군에는 호우경보가, 나머지 10개 시군에는 호우주의보가 발효됐다. 산림청은 호우로 인해 산사태 등 산림 재난 위험이 높은 것으로 판단해 익산과 완주에 산사태 경보를, 전주·군산·김제·정읍·부안·진안·임실·무주 등 10개 시군에 산사태 주의보를 발령했다.&lt;br&gt;&lt;br&gt;전주시는 이날 오전 8시 8분 폭우로 만경강 수위가 오르자 전주시 덕진구 송천2동 진기들 권역에 주민 대피령을 내렸다. 주민 40여 명이 용소중학교 등 인근 대피소로 긴급 대피했다.&lt;br&gt;&lt;br&gt;전북소방본부에 따르면 현재까지 상가와 주택, 도로 등 침수 피해가 익산 38건, 군산 33건 등 도내에서 124건의 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국내 LED 기술 빼돌린 대만 업체…대법 “한국 법원이 형사 재판 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/07/3SD4YZOFBRCGTNSHLABERZNC2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/07/3SD4YZOFBRCGTNSHLABERZNC2M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 03:09:36 +0000</pubDate>
+      <content:encoded>외국 기업에도 양벌 규정을 적용해 한국 법원에서 재판할 수 있다는 대법원 첫 판단이 나왔다. 양벌 규정은 회사 직원이 법을 어겼을 때 그 직원을 고용한 회사에도 함께 책임을 묻는 제도다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZPEPEQZDIC33J67AKPFUW3N4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 최근 산업기술보호법 및 부정경쟁방지법 위반 혐의로 기소된 대만의 LED 생산업체 ‘에버라이트’에 벌금 6000만원을 선고한 원심을 확정했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;국내 LED 생산업체 서울반도체에서 근무했던 김모씨 등 3명은 퇴사 후 에버라이트에 입사하면서, 서울반도체의 핵심 기술과 영업 비밀 등을 열람·촬영해 에버라이트에 넘긴 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;에버라이트 회사 측도 양벌 규정에 따라 함께 기소됐다. 그러나 회사 측은 재판 과정에서 “외국에서의 과실 행위에 대해 대한민국의 재판권이 인정될 수 없다”며 책임을 부인했다. &lt;br&gt;&lt;br&gt;쟁점은 외국 법인에 양벌 규정을 적용할 때 우리 법원에 형사 재판권이 인정되는지 여부였다. 1·2심은 회사 책임을 인정해 벌금형을 선고했고, 대법원도 같은 판단을 내렸다. &lt;br&gt;&lt;br&gt;대법원은 “영업비밀 누설·취득에 대한 의사의 합치와 무단 유출 행위가 대한민국 안에서 이뤄진 이상, 비록 영업비밀 유출 행위가 대한민국 밖에서 이뤄졌다고 하더라도 대한민국 안에서 죄를 범한 것으로 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;또한 “직원들이 대한민국에서 죄를 범한 것으로 볼 수 있는 이상, 회사도 대한민국에서 죄를 범한 것”이라며 “회사에 대해 대한민국 법원에 재판권이 있다고 본 원심의 결론은 정당하다”고 판단했다. &lt;br&gt;&lt;br&gt;이에 대법원은 회사 측 상고를 기각하고 벌금 6000만원을 선고한 원심을 확정했다. 한편 영업 비밀을 유출한 김씨 등은 산업기술보호법 위반 등 혐의로 징역형 집행유예를 확정받았다. &lt;br&gt;&lt;br&gt;이번 판결은 외국 법인에 대한 양벌 규정 적용과 관련해 우리 법원의 형사 재판권의 범위를 구체적으로 대법원이 판시한 첫 사례다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 노원구 아파트서 불…60대 남성 숨져</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/YWQTTRMQMVC2RNZ2T3WKKUJCUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/YWQTTRMQMVC2RNZ2T3WKKUJCUM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 02:47:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2TWKK5U3FOEJJXK4S3IO4UEZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;출동하는 소방대원들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 노원구의 한 아파트에서 불이 나 남성 1명이 숨졌다.&lt;br&gt;&lt;br&gt;7일 오전 0시 4분쯤 노원구 공릉동의 15층짜리 아파트 5층에서 불이 났다. 인근 주민들은 “폭발음이 들렸다”며 소방당국에 신고했다. 출동한 소방은 장비 32대와 인력 102명을 투입해 진화 작업을 벌였고, 불은 57분 만인 오전 1시 1분쯤 꺼졌다.&lt;br&gt;&lt;br&gt;이 불로 집 안에 있던 60대 남성이 숨졌으며, 연기와 불길을 피해 주민 80여명이 한밤중에 급히 밖으로 대피하는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;소방당국 및 경찰은 사망한 남성이 방 안에서 스스로 불을 낸 것으로 추정하고 있다. 경찰과 함께 합동 감식을 통해 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“물살에 휩쓸려 사라졌다”...인천 장봉도서 낚시객 실종</title>
+      <link>https://www.chosun.com/national/incident/2025/09/07/JYLFYOCLOVCTJDCDA2ZGYMHV7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/07/JYLFYOCLOVCTJDCDA2ZGYMHV7A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 01:59:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4EV6HPNE3UG5B33NXDI4H3LWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연안 순찰하는 해경. (기사와 직접 관련 없는 자료 사진)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 장봉도에서 낚시를 하던 50대 남성이 실종돼 해경과 소방 당국이 수색에 나섰다. &lt;br&gt;&lt;br&gt;7일 인천소방본부 등에 따르면 전날 오후 1시 4분쯤 인천시 옹진군 장봉도의 한 선착장에서 50대 A씨가 실종됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;“A씨가 함께 낚시하던 중 물살에 휩쓸려 사라졌다”는 신고를 받고 출동한 해경과 소방 당국은 구조대를 투입해 인근 해상을 수색했으나 전날 오후 늦게까지 A씨를 찾지 못했다. &lt;br&gt;&lt;br&gt;해경과 소방 당국은 A씨에 대한 수색을 지속하는 한편, 정확한 사고 경위를 조사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 서천에 시간당 137㎜ 폭우 쏟아져… 세종에선 낙뢰로 1144세대 정전</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/07/SCEDVFBBGRCBXLZAUMVDOQ6UCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/07/SCEDVFBBGRCBXLZAUMVDOQ6UCI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 01:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOQCBZR3JJIZND52K4MN4HUPZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 밤사이 내린 많은 비로 홍수주의보가 내려진 전북 전주시 전주천 서천교에서 시민들이 불어난 물을 걱정스럽게 바라보고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤사이 충남 서천에 시간당 100㎜가 넘는 폭우가 쏟아지면서 충청 지역에 비 피해가 잇따랐다. 세종시에선 낙뢰로 인한 정전이 발생했다.&lt;br&gt;&lt;br&gt;7일 대전지방기상청에 따르면 전날 0시부터 이날 오전 9시까지 누적 강수량은 충남 서천 257㎜, 논산 183㎜, 연무(논산) 172.5㎜, 부여 136.9㎜, 계룡 105㎜ 등이다. 서천에는 0시 17분 기준 1시간 동안 137㎜에 달하는 폭우가 내렸다.&lt;br&gt;&lt;br&gt;서천군은 폭우가 쏟아지자 “하천변 저지대, 산사태 위험 지역 접근을 자제하시고 위험 감지 시 마을회관 등 안전한 곳으로 대피하라”고 재난 문자를 발송했다. &lt;br&gt;&lt;br&gt;충남소방본부에는 오전 9시 기준 비 피해 신고 64건이 접수됐다. 이 가운데 36건은 서천군에 집중됐다. 신고 내용은 배수 지원, 나무 쓰러짐, 토사 유출, 맨홀 역류 등이다. 현재까지 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;앞서 지난 6일 오후 9시 24분쯤 세종시 장군면 도계리·은용리·하봉리 일대 1144세대에서는 정전이 발생했다. 천둥·번개를 동반한 비가 내리면서 낙뢰에 의해 변압기가 손상된 것으로 알려졌다. 한국전력공사 긴급보수반은 2시간여 만인 오후 11시 33분쯤 복구를 완료했다.&lt;br&gt;&lt;br&gt;대전지방기상청 관계자는 “오늘 5∼60㎜의 비가 더 내릴 것으로 보인다”면서 “일부 지역에서는 80㎜가 넘는 많은 비가 내릴 수 있으니 비 피해에 유의해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KEOJTUF7YNESXJDHXRVDNPHLBA.gif?auth=a3b71cb653babf9d0f24f56c3238de4d25cef5ab48087ad73222611c346ccfce&amp;smart=true&amp;width=1000&amp;height=563" type="image/jpeg" height="563" width="1000"/>
+    </item>
+    <item>
+      <title>‘삼다수 중국 수출 비용 절감’...제주~中 칭다오 화물선 다음달 운항 개시</title>
+      <link>https://www.chosun.com/national/regional/2025/09/07/4GIPVWA5WZGUBEB3CKGBX6XSHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/07/4GIPVWA5WZGUBEB3CKGBX6XSHQ/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 01:38:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3YRPYHXVRF7NLIBCCA3NQIEHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도청 정문./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주와 중국 칭다오를 잇는 화물선이 다음 달 취항한다.&lt;br&gt;&lt;br&gt;제주도는 제주항과 중국 칭다오간 국제 컨테이너선이 다음달 16일 중국 칭다오항을 출항한 뒤 이틀 후인 18일 제주항에 도착하고, 이후 29일부터는 정기운항한다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이번 항로 개설로 제주항이 1968년 무역항으로 지정된 이후 57년 만에 처음으로 국제 컨테이너 화물선이 정기 운항하게 됐다. 그동안 제주항은 무역항으로 지정됐지만 국제 화물선 운항이 전무했다.&lt;br&gt;&lt;br&gt;제주도는 이번 항로 개설로 제주지역 기업들의 수출입 물류비 부담이 크게 줄 것으로 기대하고 있다. 기존대로 부산항을 거쳐 중국으로 수출하면 컨테이너(1TEU)당 204만4000원 비용이 들었으나, 직항이 생기면 119만4000원으로 41.6%의 절감효과가 있다.&lt;br&gt;&lt;br&gt;제주도는 연간 수출 물동량 2500TEU 처리 때 21억원에서 최대 88억원(1만400TEU 기준)까지 비용을 절감할 수 있을 것으로 내다봤다. 운송시간도 부산항 경유 대비 최소 2일 이상 단축된다.&lt;br&gt;&lt;br&gt;제주도는 제주-칭다오간 신규항로 개설이 내수시장을 넘어 중국 시장으로의 진출 기회를 제공해 지역경제에 다방면의 파급효과를 가져올 것으로 예상한다. 중국산 건축자재 직수입, 제주산 생수·화장품 직수출이 가능해지고 원재료 수입과 완제품 수출이 용이해져 제조기업 유치에도 도움이 될 전망이다. 하역 장비 운용, 보세구역 관리, 선박 입출항 지원 등에 추가 인력이 필요해 직접적인 일자리 창출 효과도 기대하고 있다&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>노란봉투법 등에 업은 노조, 이젠 ‘노동이사제’ 노리나</title>
       <link>https://www.chosun.com/national/2025/09/07/TVL3WZMLE5FCLOR4YBCIINXIDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/09/07/TVL3WZMLE5FCLOR4YBCIINXIDI/</guid>
@@ -834,51 +907,6 @@
       </media:content>
     </item>
     <item>
-      <title>김포 가스 공장서 암모니아 누출...근로자 등 62명 대피 소동 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/OD5KDAWPWJEJJBUIC52IPGSTRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/OD5KDAWPWJEJJBUIC52IPGSTRU/</guid>
-      <dc:creator>김포=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 06:36:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXHBZCZBPFA25G62RM4NBH3YQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 9시 43분쯤 경기 김포시 하성면 양택리의 한 가스 제조공장에서 암모니아가 누출돼 근로자 등 62명이 대피하는 소동이 벌어졌다./김포소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포의 한 가스 제조공장에서 암모니아가 누출되는 사고가 발생해 근로자 등 60여 명이 대피하는 소동이 벌어졌다. &lt;br&gt;&lt;br&gt;5일 소방당국에 따르면 이날 오전 9시 43분쯤 김포시 하성면 양택리의 한 가스 제조공장에서 암모니아가 누출됐다. &lt;br&gt;&lt;br&gt;당시 공장엔 직원 17명이 근무하고 있었는데, 모두 자력 대피했으며 인근 업체 관계자 45명도 대피했다. 사고로 인한 인명 피해는 없는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;사고 당시 가스를 보관하는 창고에서 연기가 뿜어져 나왔고, 이를 직원이 발견해 119 신고했다. 신고를 받고 출동한 소방 당국은 현장 접근을 통제한 뒤 중화 작업을 진행해 이날 낮 12시 45분쯤 가스 배출을 완료했다. &lt;br&gt;&lt;br&gt;김포시는 재난 문자를 통해 인근 주민 외출 자제와 차량 우회를 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여순사건 희생자 신원 첫 확인… 유해 2구, 유가족과 유전자 일치 </title>
-      <link>https://www.chosun.com/national/regional/2025/09/05/MG66I2MHGRGUNN2SDEEP7HRLBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/05/MG66I2MHGRGUNN2SDEEP7HRLBU/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 06:02:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRYIDNKRO2VMK7RIQS7IABFMMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 광양 매티재에서 발굴된 여순사건 희생자 유해./위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1948년 여순사건 당시 무고하게 희생된 민간인의 신원이 처음으로 확인됐다. 2021년 여순사건 특별법 제정 이후 정부 차원의 유해 발굴이 시작됐는데 희생자 신원이 확인된 것은 이번이 처음이다. 앞으로 추가 사례가 더 나올지 주목된다.&lt;br&gt;&lt;br&gt;5일 여수·순천 10·19사건 진상 규명 및 희생자 명예회복위원회(위원회)에 따르면 전남 담양군 대덕면 옥천약수터에서 발굴된 유해 26구 가운데 2구의 신원이 확인됐다. 위원회는 유전자 대조 검사를 거쳐 담양에서 발굴된 2구와 유가족들의 유전자가 일치한 것을 확인했다.&lt;br&gt;&lt;br&gt;담양 옥천약수터에서는 작년 2월에 유해 26구와 탄피, 고무신 등 유류품 109점이 발견됐다. 발굴된 유해는 작년 7월 봉안식을 거쳐 세종추모의 집에 안치됐다.&lt;br&gt;&lt;br&gt;옥천약수터는 1950년 7월 구례 지역에서 예비 검속으로 광주로 이송되던 희생자들이 집단 학살된 곳으로 지목된 곳이다. 광양 매티재에서도 지난 2월부터 발굴이 시작돼 유해 9구와 탄피, 고무신 등 유류품 46점이 발견됐다.&lt;br&gt;&lt;br&gt;수습된 유해와 유류품은 지난 8월까지 세척과 보전 처리, 유전자 검사 및 분석 등의 과정을 거쳤다. 위원회는 작년 11월부터 담양과 광양에서 유해 35구를 수습해 구례·광양·하동 지역 유가족 94명을 대상으로 유전자 검사를 했다.&lt;br&gt;&lt;br&gt;이번에 신원이 확인된 2구 외에 33구의 유전자 정보가 유가족과 일치하지 않아 추가 조사와 발굴이 시급하다는 지적이다. 위원회는 오는 25일 오전 10시 광양시 공설운동장 체육관에서 유해 봉안식을 열 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5LVUDACWBZPW7GTMVQPWV65TPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 10월 19일 전남 고흥문화회관 광장에서 열린 ‘여순 10.19사건 제75주기 합동추념식’에서 김영록 전남지사가 추모사를 하고 있다./전남도 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;봉안식은 올해 광양 매티재에서 새로 발굴된 유해 9구에 대한 장례식에 이어 신원이 확인된 담양 옥천약수터 희생자 유해 2구를 가족 품에 인도하는 순서로 진행된다. 봉안식을 마치면 광양 매티재 발굴 유해 9구는 국가 묘역인 세종 추모의 집에 안치될 예정이다.&lt;br&gt;&lt;br&gt;위원회는 신원이 확인되지 않은 유해는 지속해 유족 채혈과 유전자 검사를 진행하고, 올해 11월 구례 차독골에서 유해를 추가 발굴할 계획이다. 위원회 관계자는 “유족의 한을 풀어주고 과거와의 화해와 국민 통합에 이바지하도록 노력하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;여순사건은 1948년 여수에 주둔하던 국군 14연대 일부 군인이 정부의 ‘제주 4·3 사건’ 진압 명령을 거부하면서 일어났다. 1955년 지리산 입산 금지가 해제될 때까지 전남과 전북, 경상남도 일부 지역에서 많은 무고한 민간인이 희생당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>60대 대리기사 차량 돌진 사고…동승했던 차주 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/08/18/54WEAIUDCFBCFLZSESVICTFAHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/08/18/54WEAIUDCFBCFLZSESVICTFAHE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 17 Aug 2025 14:26:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TV5UGR6PPS4LFMWWMEQ7UFPIN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 서울 동작구 상도동의 한 골목에서 대리기사가 몰던 차량이 주택 외벽과 전봇대를 들이받는 사고가 발생했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 한 주택가 골목에서 대리기사가 운전하던 차량이 주택 외벽을 들이받아 뒷좌석에 타고 있던 차량 소유주가 사망하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;17일 경찰과 소방당국 등에 따르면 전날 오후 11시 30분쯤 서울 동작구 상도동의 한 골목에서 60대 대리운전 기사 A씨가 운전하던 차량이 주택 외벽과 전봇대 등을 잇따라 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 대리기사는 경상을 입었고, 뒷좌석에 타고 있던 50대 차주는 심정지 상태로 병원에 이송됐지만 결국 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 운전자인 대리기사에게서 음주나 마약 정황은 발견되지 않았다고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 운전자 부주의로 인한 사고로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아빠가 암인데 병원비 좀…” 남자친구 속여 1억 뜯은 20대 여성</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/6PCF6SISGZF7HESOF3RUYW3FHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/6PCF6SISGZF7HESOF3RUYW3FHQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 05:52:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남자친구에게 아버지가 폐암에 걸려 병원비가 필요하다고 거짓말을 한 후 1억여 원을 뜯어낸 20대 여성이 실형을 선고받았다. &lt;br&gt;&lt;br&gt;5일 춘천지법 형사1단독 송종환 부장판사는 사기 혐의로 재판을 받아온 A(29·여)씨에게 징역 1년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 온라인 게임을 통해 만나 교제하게 된 남성 B씨에게 지난 2022년 11월부터 지난해 8월까지 105차례에 걸쳐 1억여 원을 뜯어낸 혐의다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 ‘아버지가 폐암에 걸려서 병원비가 필요하다’ ‘돈을 빌려주면 아버지가 운영하는 업체를 매각해 돈을 갚겠다’ 등의 거짓말로 B씨를 속여 이같이 범행했다.&lt;br&gt;&lt;br&gt;하지만 A씨의 아버지는 폐암에 걸린 사실이 없었고, 운영하는 업체도 없었다. A씨는 B씨로부터 빌린 돈을 채무 변제, 게임 아이템 구입, 생활비 등 개인적인 용도로 사용했다.&lt;br&gt;&lt;br&gt;송 부장판사는 “이 사건 범행으로 피해자는 개인회생에 이르게 되는 등 피해가 막심하다”며 “(변제 계획에 따르면) 변제까지 최소 5년 이상이 걸리고 변제 계획이 그대로 이행될 수 있을지 심히 의문이 든다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“2차 민생쿠폰 벌써 주네?”… ‘이 문자’ 눌렀다간 개인정보 다 털린다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/ZEZN4K4AR5AGRBKIMFURVWXARI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/ZEZN4K4AR5AGRBKIMFURVWXARI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 05:39:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKSFGLVKDBCLVHL4MARZUX73CM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;한 시장 점포에 민생회복 소비쿠폰 안내문이 붙어 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민생회복 소비 쿠폰 2차 지급을 앞두고 이를 악용한 ‘스미싱’ 범죄가 등장해 관계 당국이 주의를 당부했다.&lt;br&gt;&lt;br&gt;방송통신위원회는 민생회복 소비 쿠폰 지급 내용을 사칭해 불법 도박 사이트 등의 인터넷 주소(URL)를 누르도록 하는 악성 스팸 피해 주의보를 4일 발령했다. 실제 신고 사례에 따르면 사칭 문자에는 “민생회복 쿠폰 도착 안내 지금 받으러 가기”라는 문구와 함께 출처가 불분명한 URL이 첨부돼 있다.&lt;br&gt;&lt;br&gt;이 URL을 누르면 정부 기관을 위장한 가짜 사이트로 연결되고 여기에 접속하면 개인정보와 금융 정보를 탈취할 수 있는 앱이 설치된다. 방통위는 이 과정이 무단 송금 및 휴대전화 원격 제어 등의 추가 피해로 이어질 수 있다고 경고했다.&lt;br&gt;&lt;br&gt;만약 스팸 문자를 받았을 때는 간편 신고 앱이나 휴대전화 기능으로 한국인터넷진흥원(KISA)에 신고할 수 있다. URL이 포함됐다면 카카오톡 ‘보호나라’ 채널을 실행한 후 해당 문자를 복사·붙여넣기해 정상적인 문자인지 여부를 우선 확인하는 것도 가능하다.&lt;br&gt;&lt;br&gt;방통위는 “민생회복 소비 쿠폰을 사칭한 스팸이 늘고 있는 만큼 낯선 문자 속 URL은 절대 누르지 말고 ‘보호나라’ 채널을 통해 반드시 확인하라”며 “보안 습관이 가장 확실한 예방책”이라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 중구 금속공장서 60대 여성 숨져…남편 병원 이송</title>
       <link>https://www.chosun.com/national/national_general/2025/09/05/TR3QKW7IFJGKPMU7IAIHCCHNWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/TR3QKW7IFJGKPMU7IAIHCCHNWY/</guid>
@@ -924,15 +952,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J26PJCCTMNCYTMQP7ISOB4ZZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 확산된 아파트 관리사무소 직원 전원 사직 안내문./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 울산의 한 아파트에서 관리사무소 직원들이 일부 동대표로부터 갑질을 당했다고 주장하며 집단 사직한 사건과 관련해 진정을 받아 조사한 고용노동부가 ‘직장 내 괴롭힘’ 적용 대상이 아니라고 판단했다. 입주자대표회의(입대의)가 근로기준법상 관리사무소 직원들의 사용자로 보기 어렵다는 판단 때문이다.&lt;br&gt;&lt;br&gt;고용노동부 울산지청은 A아파트 관리사무소 직원들이 입대의 측에 제기한 직장 내 괴롭힘 진정에 대해 최근 ‘행정 종결’ 처리했다고 5일 밝혔다. 행정 종결은 경찰의 내사 종결과 비슷하다. 법상 처벌할 근거가 없거나 범죄 혐의가 없다고 보고 검찰로 사건을 송치하지 않고 종결했다는 의미다. &lt;br&gt;&lt;br&gt;고용부 울산지청에 따르면 앞서 A아파트 관리사무소 직원들이 낸 진정서에는 관리실 직원 9명이 입대의 회장을 비롯한 3명에게 직장 내 괴롭힘을 당했다고 주장하는 행위 20건이 적시돼 있었다. &lt;br&gt;&lt;br&gt;고용부 울산지청 관계자는 “입대의가 근로기준법상 관리실 직원들의 ‘사용자’로 보기 어렵다고 판단해 이 같은 결정을 내렸다”고 설명했다. 근로기준법상 직장 내 괴롭힘은 근로계약의 당사자인 ‘근로자 또는 사용자’에 해당돼야 적용된다. 이 관계자는 “관리사무소 직원들은 입대의와 위수탁 관리 계약을 체결한 주택관리업체의 근로자들로, 관리실 직원들의 사용자는 주택관리업체”라고 했다. 즉, 입대의와 관리실 직원 사이에 근로계약 관계가 성립된다고 보기 어렵다고 판단한 것이다. &lt;br&gt;&lt;br&gt;전국적으로 이와 유사한 사건이 잇따르자 국가인권위원회는 지난 2020년 아파트 경비원을 괴롭히는 제3자도 직장 내 괴롭힘의 가해자가 될 수 있다는 권고를 내린 바 있다. 근로기준법상 ‘사용자 또는 근로자’에 해당하지 않더라도 제3자인 아파트 주민이나 입대의가 갑질을 할 경우에도 피해자를 보호해야 한다는 취지다. &lt;br&gt;&lt;br&gt;고용부 울산지청 관계자는 “입대의가 인사·노무 관리에 직접적으로 개입하고 지휘·감독권을 행사하거나 주택관리업체를 유령업체 등으로 세워서 고의로 근로계약을 하는 ‘묵시적 근로계약’이라는 게 있는데, 사용자성을 확장해서 법리를 적용해봐도 현 주택관리업체의 사용자성을 부인할 만한 것이 확인되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;다만 이 관계자는 “입대의의 부당 간섭이 있었다고 보고 주택관리업체와 입대의 측에 유사 상황이 재발하지 않도록 공문을 보냈다”며 “또 집단 사직한 A아파트 관리사무소 직원들이 실업급여를 받을 수 있도록 조치했다”고 했다. &lt;br&gt;&lt;br&gt;한편, 지난 7월 한 온라인 커뮤니티에 울산의 한 아파트에서 관리사무소 직원들이 일부 동대표와의 갈등 끝에 집단 사직했다는 소식이 전해져 화제가 됐다. 아파트 엘리베이터에 붙은 안내문 사진을 보면 ‘관리실 직원 전원 사직’이라는 제목의 안내문에 “관리사무소 직원으로 근무하면서 최선을 다해 입주민과 공동체의 이익 및 발전을 위해 노력해 왔습니다”라며 “그러나 일부 동대표들의 다음과 같은 반복적이고 구조적인 문제로 인해 더 이상 정상적인 직무 수행이 어렵다고 판단해 부득이하게 관리실 직원 전원이 사직하게 됐습니다”라고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“의사 망신이다” 수술복 입고 임산부석 앉은 남성에 ‘와글와글’</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/RPPWOC4BFJBMZO7WZKSLNB4WCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/RPPWOC4BFJBMZO7WZKSLNB4WCY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 03:01:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYYXC6QDORGJRP65GVIJHH5OBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수술복으로 보이는 옷을 입고 임산부석에 앉아있는 남성. /온라인커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사로 추정되는 남성이 수술복으로 보이는 옷을 입고 지하철 임산부 배려석에 앉아 있는 사진이 온라인상에서 확산되면서 논란이 일고 있다.&lt;br&gt;&lt;br&gt;5일 온라인상에서는 한 남성이 수술복으로 보이는 옷을 입고 지하철 임산부 배려석에 다리를 꼬고 앉아 스마트폰을 보고 있는 사진이 논란이 됐다. 사진이 촬영된 날짜나 장소 등은 알려지지 않았다. &lt;br&gt;&lt;br&gt;임산부 배려석은 임산부의 대중교통 이용 편의를 위해 지하철 칸마다 마련되어 있으며 비워두기를 권장한다. &lt;br&gt;&lt;br&gt;해당 사진은 한 의사 온라인 커뮤니티를 통해 처음 공개된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;사진을 접한 의사들은 “의사로서 부끄럽다” “수술복의 더러운 피와 오물이 지하철 좌석에 묻을 수 있다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;다만 “그렇게 욕먹을 일인가” “필수의료는 그냥 봐주자”는 등 남성을 옹호하는 반응도 있었다. &lt;br&gt;&lt;br&gt;이 사진이 다른 온라인 커뮤니티로도 퍼지면서 일반 네티즌들 사이에서도 갑론을박이 오갔다. &lt;br&gt;&lt;br&gt;남성을 비판하는 네티즌들은 “임산부석에 세균을 옮기면 큰일이다” “정말 부끄러운 일” 등의 반응을 보였고, 남성을 옹호하는 네티즌들은 “뭔가 급한 사정이 있었던 거 아니냐” “임산부가 오면 비켜주면 되는 것 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;일부 네티즌은 “진짜 의사인가? 수술복을 입고 코스프레를 하는 것 아닌가”라고 의심하기도 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>가뭄 시름 강릉시 “홍제정수장 대수용가 6일 오전부터 제한급수”</title>
       <link>https://www.chosun.com/national/regional/gangwon/2025/09/05/KWLTHNMO5BEDXFZYWUXBZBH3XI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/05/KWLTHNMO5BEDXFZYWUXBZBH3XI/</guid>
@@ -959,24 +978,6 @@
       <pubDate>Fri, 05 Sep 2025 01:27:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY5IGY6V7REJNLBBU7SPKDTRUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마이크 폼페이오 전 미국 국무장관./박성원 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마이크 폼페이오 전 미국 국무부 장관이 김건희 특별검사팀이 한학자 세계평화통일가정연합(통일교) 총재를 정치자금법 위반 등의 혐의로 조사하고 있는 것과 관련 “매우 우려스러운 일”이라고 했다. &lt;br&gt;&lt;br&gt;폼페이오 전 장관은 4일 자신의 엑스(X·구 트위터)를 통해 “한국에서 종교 지도자 한학자 총재를 대상으로 한 법적 조치는 매우 우려스러운 일”이라며 “종교의 자유에 대한 침해가 심화되고 있는 것은 한국이 지지해야 할 민주주의 원칙을 저버리는 일”이라는 짧은 글을 올렸다. &lt;br&gt;&lt;br&gt;폼페이오 전 장관은 도널드 트럼프 대통령 집권 1기 당시인 2018년부터 2021년까지 제70대 미국 국무부 장관을 지냈다. 2018년엔 중앙정보국(CIA) 국장 자격으로 평양을 방문해 김정은 북한 국무위원장을 만난 바 있다.&lt;br&gt;&lt;br&gt;김건희 특검팀은 지난 1일 한 총재 측에 소환 조사를 통보했다. 한 총재는 통일교 인사가 김건희 여사에게 고가의 선물을 전달할 때 관여한 혐의, 권성동 국민의힘 의원에게 윤석열 정부의 통일교 지원을 요청하며 정치자금을 전달한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4VK3EWMQNDA3L4KBMLX3TRM3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 폼페이오 전 장관이 올린 게시물. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란·김건희·순직해병 3대 특검의 수사는 외교 문제로 비화하고 있는 모양새다. &lt;br&gt;&lt;br&gt;앞서 트럼프 대통령도 지난달 25일 한미 정상회담 직전 소셜미디어를 통해 “한국 지금 무슨 일이 일어나고 있는가? 숙청(purge)이나 혁명처럼 보인다”며 “그런 상황에서는 우리가 거기서 사업할 수 없다”는 내용의 글을 올렸다. &lt;br&gt;&lt;br&gt;트럼프 대통령은 백악관 집무실에서 열린 이재명 대통령과의 회담에서는 “나는 정보 당국으로부터 (한국) 교회들에 대한 압수 수색이 있었다고 들었다”면서 “만약 그것이 사실이라면 매우 나쁜 일일 것”이라고 했다&lt;br&gt;&lt;br&gt;뉴트 깅그리치 전 미국 연방 하원 의장은 지난달 27일 워싱턴타임스에 기고한 글에서 한국 내 보수 정당과 교회 지도자에 대한 대규모 압수 수색을 거론하며 “이재명 정부의 최근 정치·종교에 대한 전면적인 탄압(all-out assault)이 숨 막힐 지경”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘막말 논란’ 최교진 후보자, SNS 폐쇄 “오해,우려 있어 활동 자제”</title>
-      <link>https://www.chosun.com/national/education/2025/09/05/A4LVR7NU6VF2LJ2LP7PSHGB7JY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/05/A4LVR7NU6VF2LJ2LP7PSHGB7JY/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 01:07:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YHPBKNHTUH2SOIDE6RV6A5SXXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최교진 사회부총리 겸 교육부 장관 후보자가 2일 서울 여의도 국회 교육위원회에서 열린 인사청문회에 출석해 의원 질의에 답변하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관 후보자가 자신의 소셜미디어(SNS) 계정을 폐쇄한 것으로 나타났다. 장관 후보자 지명 이후 과거 SNS에 남긴 친북 성향, 정치 편향 발언들이 논란이 되자 활동을 멈춘 것이다. &lt;br&gt;&lt;br&gt;최 후보자는 지난 4일 자신의 페이스북과 X(옛 트위터) 계정을 닫았다. 최 후보자는 이날 페이스북 계정 폐쇄 전 마지막으로 올린 게시물에서 “청문회 과정에서 의도와는 다르게 저의 SNS 활동이 오해와 우려가 있었기에 활동 자제를 약속드렸다”며 “페이스북 활동을 중단함을 널리 이해 부탁한다”고 남겼다. 많게는 하루에 2~3개씩 SNS에 글을 올렸던 최 후보자는 인사청문회 기간 동안 언론 보도 등을 통해 막말 논란이 불거졌다. 페이스북 폐쇄 전에는 지난달 18일을 마지막으로 글을 남기지 않았다.&lt;br&gt;&lt;br&gt;최 후보자는 페이스북 등에 올린 과거 글 때문에 논란에 휩싸였다. 그는 2013년 페이스북에 천안함이 북한 어뢰 탓에 폭침된 것이 아니라 제3국에 의해 좌초됐다는 내용의 음모론 게시물을 공유했다. 2019년 10월 26일에는 박정희 전 대통령 서거일을 ‘탕탕절’이라고 희화화해 표현했다.&lt;br&gt;&lt;br&gt;최 후보자는 온라인 발언 논란이 커지자 인사 청문회와 국회 답변서를 통해 사과의 뜻을 밝혔다. 천안함 폭침 사건 음모론을 공유한 것에 대해서는 인사 청문회에서 “음모론에 전혀 동의하지 않는다”면서 “그 일로 상처를 받으신 분이 계신다면 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘이배용 매관매직’ 의혹 관련 국교위 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/MN5JGTDFWJE6NBCGMDAFT76BEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/MN5JGTDFWJE6NBCGMDAFT76BEA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 00:51:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4OZAD4WAIHZRDHQ4CLYDHWK74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이배용 국가교육위원회 위원장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;​윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 5일 이배용 전 국가교육위원장(장관급) 귀금속 공여 의혹 사건과 관련하여 국가교육위원회를 압수수색하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이 전 위원장은 2022년 3월 대선 직후 김 여사에게 당선축하용으로 5돈짜리 금거북이와 축하 카드를 건넸고, 그해 9월 윤석열 정부가 처음 출범한 국가교육위원회 초대 위원장에 임명됐다. 특검은 김 여사가 금품을 받은 대가로 이 전 위원장이 장관급 자리에 임명됐는지 수사 중이다. 지난달 28일에는 서울 마포구의 이 전 위원장 자택을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘우아함의 황제’ 이탈리아 패션 거장 조르지오 아르마니, 떠나다</title>
