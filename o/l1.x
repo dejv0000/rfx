@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰청 78년 만에 폐지…공소청·중수청 신설 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211213.jpg" alt="5648.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;윤호중 행정안전부 장관과 더불어민주당 한정애 정책위의장이 7일 서울 종로구 정부서울청사에서 제3차 고위당정협의회 결과 및 정부조직 개편 방안에 대해 발표하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정부와 여당이 검찰청을 공식 폐지하고 기소와 수사 기능을 분리하기로 했다. 기소는 법무부 산하 신설 기관인 공소청이, 수사는 행정안전부 소속 중대범죄수사청(중수청)이 전담한다.&lt;br /&gt;&lt;br /&gt;더불어민주당과 정부, 대통령실은 9월 7일 서울 삼청동 국무총리 공관에서 고위당정협의회를 열고 이 같은 내용의 정부조직 개편안을 확정했다. 한정애 민주당 정책위의장은 브리핑에서 "당정은 국정기획위원회에서 건의한 조직 개편안을 중심으로 사회 각계의 의견을 듣고 심도 있는 논의를 거쳐 마련한 정부 조직 개편방안을 추진했다"며 "개편 방안 중 검찰 개혁을 가장 심도 있게 논의했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;그는 "검찰 개혁의 완성은 대통령의 핵심 공약"이라며 "그간 검찰의 견제받지 않은 권한의 남용과 공정성 훼손에 대해 지속적인 우려가 있었다"고 지적했다.&lt;br /&gt;&lt;br /&gt;&lt;p&gt;공소청은 공소 제기와 유지, 영장 청구 등을 맡고, 중수청은 부패·경제 범죄 등 중대 범죄 수사를 담당한다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;중수청과 경찰청 국가수사본부(국수본) 간 기능 중복 우려에 대해선 향후 역할을 구분하도록 설계할 것으로 보인다. 이창규 행안부 조직국장은 이와 관련한 취재진의 질문에 "행안부 소속으로 경찰청이 있고, 그 아래에 국수본이 있다"며 "그래서 중수청이 행안부에 설치된다고 하더라도 국수본과는 서로 수사 대상, 범위가 명확히 다르도록 설계해야 할 것으로 생각된다"고 답했다. 그는 또 "고위공직자범죄수사처(공수처)는 이번 개편이나 이관 대상에서 제외된다"고 덧붙였다.&lt;/p&gt;&lt;br /&gt;당정은 또 국무총리실 산하에 범정부 검찰개혁추진단을 꾸려 세부 방안을 마련하고 조속히 국회에 정부조직법 개정안을 제출한다는 계획이다. 민주당은 오는 9월 25일 본회의에서 법안을 처리해 추석 이전 시행을 목표로 하고 있다.&lt;br /&gt;&lt;br /&gt;한 의장은 "오늘 협의 결과를 토대로 의원 입법을 통해 조속히 정부조직법 개정안을 국회에 제출하고, 추석 이전에 개편안을 시행하기 위해 이달 말에 법안이 통과되도록 노력하기로 했다"며 "정부조직 개편에 특별히 야당의 적극적인 협조를 부탁드린다"고 설명했다. &lt;br /&gt;&lt;br /&gt;법안이 국회를 통과하면 1978년 출범한 검찰청은 78년 만에 역사 속으로 사라진다. 공소청과 중수청은 법률 공포 후 1년 뒤 정식 출범한다.&lt;br /&gt;&lt;br /&gt;한편 이날 정부조직 개편에는 경제부처 개편안도 포함됐다. 기획재정부는 재정경제부와 기획예산처로 분리된다. 재정경제부 장관은 경제부총리를 겸임하며, 기획예산처는 국무총리 소속으로 편제된다. 금융위원회는 금융감독위원회로 개편하고, 산하에 증권선물위원회와 금융소비자보호위원회가 신설된다. 금융감독원 내 금융소비자보호처는 금융소비자보호원으로 개편된다.&lt;br /&gt;&lt;br /&gt;또한 환경부와 산업통상자원부의 에너지 기능을 통합한 기후에너지환경부가 신설되며, 방송통신위원회는 폐지하고 방송미디어통신위원회로 대체한다. 위원회 규모는 상임위원 3명·비상임위원 4명 등 총 7명 체제로 확대된다. 법안이 통과되면 방통위는 해체되며, 이진숙 방통위원장은 임기 종료로 사실상 해임된다.&lt;br /&gt;&lt;br /&gt;이밖에 과기정통부 장관이 겸임하는 과학기술부총리가 신설되고, 교육부 장관이 맡았던 사회부총리는 폐지된다. 여성가족부는 성평등가족부로 확대 개편되며, 통계청은 국가데이터처, 특허청은 지식재산처로 격상된다. 고용노동부 산업안전보건본부는 차관급 본부로 격상한다.</description>
+			<pubDate>Sun, 07 Sep 2025 10:08:51 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211213</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211213</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211213.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰청 폐지, 공소청·중수청 신설…정부 조직개편안 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211212.jpg" alt="45645646.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;정청래 더불어민주당 대표가 7일 서울 종로구 총리공관에서 열린 고위당정협의회에서 발언하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;정부와 여당이 검찰청을 폐지하고 기소와 수사 기능을 분리하기로 했다. 기존 검찰의 기소는 신설되는 공소청이, 수사는 중대범죄수사청(중수청)이 맡는다. 공소청은 법무부 산하, 중수청은 행정안전부 소속이다.&lt;br /&gt;&lt;br /&gt;더불어민주당과 정부, 대통령실은  9월 7일 서울 삼청동 국무총리 공관에서 고위당정협의회를 열고 이 같은 내용의 정부조직 개편안을 확정했다. 정부는 또 총리실 산하에 범정부 검찰개혁 추진단을 설치해 세부 과제를 논의할 계획이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;정부조직법 개정안이 국회를 통과하면 검찰청은 내년 공식 폐지된다. 1978년 출범한 지 78년 만이다. 민주당은 추석 전인 오는 9월 25일 본회의에서 해당 법안을 처리한다는 방침이다.&lt;br /&gt;</description>
+			<pubDate>Sun, 07 Sep 2025 09:13:42 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211212</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211212</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211212.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 금융위, 금융감독위로 개편...특허청은 지식재산처로 격상</title>
+			<description>&lt;p style="text-align: start;"&gt;   &lt;br style="text-align: center;" /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211211.jpg" alt="lawtimes.jpg" /&gt;&lt;br style="text-align: center;" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 07 Sep 2025 08:58:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211211</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211211</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211211.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>국회 관여 '법관 평가' 사법 독립 침해 논란</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211175.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;여당의 ‘사법개혁특별위원회’가 내놓은 ‘사법 개혁 5대 과제’ 중 ‘법관 평가 제도 개선안’에 대해 법조에서 논란이 일고 있다. 국회가 법관 인사에 개입함으로써 사법권 독립을 침해할 수 있다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;정청래 더불어민주당 대표가 발의한 법원조직법 개정안(제44조의 2)에 따르면, 15명 이내의 법관평가위원회를 두되 위원회는 국회 교섭단체가 추천하는 5명, 법률가 단체 추천 5명, 법원 내부 구성원 5명으로 구성하도록 했다. 이 개정안이 통과돼 확정될 경우 국회와 법률가 단체가 추천하는 인사 10명이 법관평가위의 3분의 2를 차지하게 돼 법관 평가와 인사에 직접적인 영향을 미치게 된다. 국회가 법관 인사에 관여하게 되는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법조에선 이 개정안에 ‘위헌’ 소지가 있다고 지적한다. 국회가 사실상 법원 인사에 개입하는 것이어서 헌법이 정하고 있는 삼권분립과 사법부 독립을 본질적으로 침해할 수 있다는 것이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;헌법 제103조는 ‘법관은 헌법과 법률에 의하여 그 양심에 따라 독립하여 심판한다’고 규정한다. 헌법 학계에서는 사법권의 본질적 내용인 재판 작용은 법관이 담당하므로 법관의 신분상 독립이 확보되지 않으면 재판의 공정성과 독립성이 확보될 수 없고, 법관의 신분상 독립은 법관 인사의 독립성 공정성이 핵심이라는 데 이론이 거의 없다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;부장판사 출신의 한 변호사는 “다수의 외부 인사가 직접 법관 인사에 개입하는 것은 자칫 개별 재판의 결론이나 과정을 좌우하려는 통로로 악용될 수 있어 사법권 독립 원칙에 현저히 반한다”고 말했다. 그는 “정치권이 직접 법관 인사에 관여하면 법관이 자신의 인사상 이익이나 불이익을 위해 정치권의 눈치를 보지 않을 수 없어 그 자체로 큰일 날 일”이라고 했다. 장영수 고려대 로스쿨 명예교수는 “법관 임용이나 평가 등은 원칙적으로 법률로 정해야 하지만 사법부 독립이라는 헌법상 원칙과 충돌하지 않도록 신중할 필요가 있다”고 말했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원행정처도 해당 법원조직법 개정안에 대해 명확히 ‘반대’ 의견을 밝혔다. 사법부의 독립을 침해하고, 중립성을 훼손할 수 있어 “위헌 소지가 높다”고 밝혔다. 법원행정처는 외부인으로 구성된 위원회가 법관에 대한 평정을 할 경우 △판결 내용 자체에 대한 평가가 이뤄질 위험이 있고 △위원회의 평가가 인사관리에 반영되면 판결에 대한 간섭으로 해석될 가능성이 있다고 지적했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;현행 ‘판사 근무성적 등 평정 규칙’ 제4조 제2항에 따르면 재판의 독립성을 해칠 우려가 있는 사항은 평정이 불가하다. 법원행정처는 국회가 추천하는 위원 5명이 포함된다면 사법부의 정치적 중립에 심대한 위협을 끼친다고 했다. 연례적으로 이뤄지는 통상적 평정까지 정치권 등 외부에서 주도할 경우 사법부 독립 침해의 우려가 높다고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원행정처는 다른 법조 직역의 예도 들었다. 검사와 헌법연구관에 대한 평정 역시 각각 검사복무평정규칙 제8조, 헌법연구관 등의 근무성적평정 규칙 제8조에 따라 공개되지 않는다.&lt;/p&gt;</description>
 			<pubDate>Sun, 07 Sep 2025 02:35:48 -0000</pubDate>
@@ -210,36 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211192</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211192.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국형사·법무정책연구원, '국가핵심기술 해외유출 대응' 제도개선 토론회 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211194.jpg" alt="675859.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;9월 2일 '국가핵심기술 해외유출 대응' 토론회 참석자들.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사·법무정책연구원(원장 정웅석, 이하 KICJ)이 9월 2일 오후 2시 서울 영등포구 여의도동 국회의원회관 제1세미나실에서 ‘국가핵심기술 해외 유출 대응 제도 개선 토론회’를 열었다.&lt;br /&gt;&lt;br /&gt;송재봉·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3619"&gt;김남근&lt;/span&gt;(62·사법연수원 28기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="3570"&gt;김기표&lt;/span&gt;(53·30기) 국회의원과 함께 개최한 이번 토론회에서는 국가 핵심 기술의 해외 유출을 방지하고, 기술 안보 관점에서 실효성 있는 형사정책과 법제 개선 방향을 모색했다.&lt;br /&gt;&lt;br /&gt;정웅석 KICJ 원장은 개회사에서 “국가핵심기술은 단순한 산업 자산이 아니라 경제와 국가 안보의 토대”라며 “지능화·다변화되는 기술 유출에 대응하기 위해 형사·법무 정책과 산업적 보호 장치가 유기적으로 결합된 제도적 보완책이 필요하다”고 강조했다.&lt;br /&gt;&lt;br /&gt;송 의원은 “산업기술보호법, 국가첨단전략산업법, 방산기술보호법 등 관련 법률이 존재하지만 체계적 정합성이 부족해 제도적 공백이 발생하고 있다”며 “사전 보호 장치 정비가 시급하다”고 밝혔다. 김남근 의원은 “기술 보호는 민사 분쟁 대응에 그칠 수 없으며 형사정책과 안보 전략이 결합된 국가적 보호 체계가 필요하다”고 제언했다.&lt;br /&gt;&lt;br /&gt;김기표 의원은 “최근 5년간 산업 기술 유출 건수가 100여 건에 달하고 피해 규모는 약 23조 원에 이른다”며 “탈취 수법은 고도화되는 반면, 현행 제도는 입증 요건이 까다로워 처벌이 어렵다”고 지적했다. 목성호 특허청 차장은 “최근 해외 기업이 국내 자회사를 설립해 연구자를 영입하는 등 교묘한 방식의 유출 사례가 늘고 있다”며 적극적 대응을 촉구했다.&lt;br /&gt;&lt;br /&gt;이날 김유근 KICJ 선임연구위원이 ‘기술 안보 관점에서의 국가핵심기술 해외 유출에 대한 형사정책적 대응 방안’을 발표하며, 현행 법제도의 한계를 지적하고 수사·기소·처벌 강화 필요성을 제시했다. 김은정 특허청 기술디자인특별사법경찰과 기획수사팀장은 ‘첨단전략산업 분야 핵심 기술 해외 유출 수사 사례’를 소개했다.&lt;br /&gt;&lt;br /&gt;토론에서는 손승우 법무법인 율촌 상임고문(전 한국지식재산연구원장)이 좌장을 맡고, 이상홍 기아 정보보안2실 실장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25615"&gt;전우정&lt;/span&gt;(49·변호사시험 2회) KAIST 지식재산대학원 교수, 심미랑 지식재산연구원 법제도연구실장이 참여했다.&lt;br /&gt;&lt;br /&gt;송 의원은 이번 논의 내용을 토대로 관련 법률 개정을 추진할 계획이라고 밝혔다. 한국형사·법무정책연구원은 이번 토론회에서 제시된 정책·입법 제안 사항을 관계 부처와 국회에 전달하고, 국가핵심기술 보호를 위한 후속 연구와 협의체 구성을 적극 추진할 예정이다.</description>
-			<pubDate>Fri, 05 Sep 2025 11:10:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211194</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211194</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211194.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울중앙지방법무사회, 천주교 석문복지재단과 지역사회 상생 위한 업무협약 체결</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211195.jpg" alt="4564748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;5일 서울중앙지방법무사회 회관에서 열린 업무 협약식. 《사진=서울중앙지방법무사회》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울중앙지방법무사회(회장 류선재)은 9월 5일 서울 서초구 방배동 서울중앙지방법무사회 회관에서 사회복지법인 천주교석문복지재단(대표이사 김광수)과 지역사회의 상생모델 구축을 위한 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;양 기관은 이번 협약을 통해 법률상담 지원과 청소년·어르신 등 사회적 약자를 대상으로 한 복지서비스 확대에 나선다. 후원 활동을 통해서도 나눔 문화 확산과 행복한 공동체 사회 구현에 기여할 계획이다.&lt;br /&gt;&lt;br /&gt;서울중앙회는 무료 법률상담 및 권익 보호 활동, 사회공헌 봉사 등을 담당한다. 천주교 석문복지재단은 청소년 장학·멘토링 지원, 복지 프로그램 운영 및 협력사업 추진 등을 이어갈 예정이다. &lt;br /&gt;&lt;br /&gt;석문복지재단은 지난 약 30년 간 소년소녀가장과 저소득·다문화 가정 청소년을 지원하며, 장학금과 문화체험, 멘토링 등을 제공해왔다.&lt;br /&gt;&lt;br /&gt;이날 협약식에는 노용성, 김정실 전 서울중앙회 회장과 윤한정 원로위원을 비롯해 이성준, 서선진부회장 및 상임이사 등이 참석했다.&lt;br /&gt;&lt;br /&gt;류선재 회장은 “이번 협약을 통해 법률적 지원이 필요한 청소년과 사회적 약자들이 더욱 실질적인 도움을 받을 수 있기를 바란다”고 말했다.&lt;br /&gt;&lt;br /&gt;김광수 대표이사는 “재단의 나눔 활동에 법률적 전문성이 더해지면서, 도움이 필요한 이들에게 보다 체계적이고 폭넓은 지원을 제공할 것”이라고 밝혔다.&lt;br /&gt;</description>
-			<pubDate>Fri, 05 Sep 2025 11:08:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211195</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211195</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211195.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장, 9월 미국 아틀랜타·뉴욕서 연속 세미나···국제분쟁 대응 해법 공유</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211196.jpg" alt="647.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 9월 미국에서 총 3개의 세미나를 연이어 개최한다. &lt;br /&gt;&lt;br /&gt;광장은 지난 8월 싱가포르에서 개최한 ‘한국의 법, 정책, 그리고 컴플라이언스: 새로운 정치 지형에서의 법적 변화와 불확실성' 세미나를 통해 '현지에 직접 찾아가는 서비스'의 가능성을 확인하고, 글로벌 경쟁력 고도화에 나섰다. &lt;br /&gt;&lt;br /&gt;이번 해외 현지 세미나에는 한·미 분쟁 실무에 정통한 양국의 전문가들이 패널로 참여하며, 기업 실무진·전문가 간의 네트워킹을 통해 분쟁 예방과 사후 대응 역량을 강화하는 자리가 될 전망이다. &lt;br /&gt;&lt;br /&gt;첫 세미나는 9월 16일 미국 조지아주 아틀랜타에서 열린다. 광장은 글로벌 로펌 존스데이(Jones Day)와 함께 아틀랜타 및 미국 남동부에 진출한 한국 기업들을 대상으로 현지 분쟁 트렌드와 문화적 장벽, 소송·중재 리스크 대응을 다룰 예정이다.&lt;br /&gt;&lt;br /&gt;뉴욕에서는 9월 18일과 19일, 양일간 세미나가 이어진다. 18일 개최되는 ‘아시아 중재 대회’는 중국의 허(JunHe), 일본의 나가시마 오노 쓰네마쓰(Nagashima Ohno &amp; Tsunematsu), 싱가포르 국제중재센터가 공동 주최하고, KOTRA와 뉴욕 국제중재센터가 후원한다. 광장은 공동 주최진과 함께 영미법 체계에서 기업들이 직면하는 다국적 분쟁 이슈, 증거개시(Discovery) 전략 등을 심도 있게 다룰 예정이다.&lt;br /&gt;&lt;br /&gt;19일 열리는 ‘US-Korean Legal Counsel Summit’은 광장과 글로벌 로펌 '깁슨 던(Gibson Dunn)'이 공동 주최한다. 미국에 진출한 국내 기업 법무·컴플라이언스 책임자를 대상으로 실제 분쟁 사례와 트럼프행정부하의 규제 리스크 관리 방안을 소개한다. 본 행사 또한 KOTRA의 후원 아래 이루어지며, 국내 기업의 북미 시장 진출과 분쟁 대응을 위한 ‘실전형 로드맵’을 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;광장 국제분쟁그룹을 이끄는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&lt;/span&gt;(60·사법연수원 20기) 변호사는 “싱가포르에서 현지 기업들과 긍정적인 의견을 나눈 성과를 발판 삼아, 미국 아틀랜타와 뉴욕 현지에서 직접 다양한 법적 문제를 머리를 맞대고 논의해보는 기회를 갖게 되어 기쁘다”며 “국내 기업이 글로벌 무대에서 역동적으로 성장할 수 있도록 현지의 생생한 분쟁 경험과 광장의 축적된 전문성을 결합한 원스톱 솔루션을 지속 제공하겠다”고 말했다.</description>
-			<pubDate>Fri, 05 Sep 2025 11:07:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211196</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211196</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211196.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
