@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한국해양대, 최악 가뭄 강릉에 식수 1000t 실은 실습선 급파</title>
+      <link>https://www.chosun.com/national/regional/2025/09/07/JND7BY774BHRVNZN3FIXPAURMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/07/JND7BY774BHRVNZN3FIXPAURMA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 07:43:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XEKKXW6UBVHLNEIYCYWOW3S3XQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;국립한국해양대 실습선 한나라호. /국립한국해양대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국립한국해양대가 108년 만에 최악 가뭄으로 국가재난사태가 선포된 강원도 강릉시에 실습선을 투입해 식수를 제공한다.&lt;br&gt;&lt;br&gt;국립한국해양대는 아시아 최대 규모 실습선인 한나라호(9196t)를 강릉항으로 급파했다고 7일 밝혔다. 한나라호는 이날 오후 4시 부산항을 출발해 8일 오전 7시쯤 강릉항에 도착할 예정이다.&lt;br&gt;&lt;br&gt;한국해양대는 한나라호에 소방차 약 300대 분량에 달하는 식수 1000t을 채워 강릉시에 공급할 계획이다. 이번 급수 지원에는 한나라호에 승선해 교육 훈련 중인 200여 명의 학생들이 직접 참여한다.&lt;br&gt;&lt;br&gt;국립한국해양대 류동근 총장은 “가뭄으로 고통받는 강릉 시민들에게 한나라호가 희망의 물줄기가 되기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;한편 한나라호는 해기사를 양성하는 실습선으로 비상사태 때에는 수송, 의료 지원, 구호 활동 등 임무도 수행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해 야산서 벌목하던 50대, 굴러떨어진 바위 부딪혀 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/07/BJJPPNETTVH35FF3HXJOTNXHHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/07/BJJPPNETTVH35FF3HXJOTNXHHQ/</guid>
+      <dc:creator>김해=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 06:55:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KRKCIOOMX5QKH4IJK6YZO5MEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급대 출동 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 김해 한 야산에서 벌목하던 작업자가 굴러떨어진 바위에 부딪혀 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;7일 김해서부경찰서에 따르면, 이날 오전 9시 55분쯤 경남 김해 한 야산에서 벌목 작업을 하던 일용직 노동자 A(50대)씨가 굴러떨어진 바위에 부딪혔다.&lt;br&gt;&lt;br&gt;이 사고로 크게 다친 A씨는 인근 병원으로 이송돼 치료를 받았으나 숨졌다&lt;br&gt;&lt;br&gt;경찰 관계자는 “쓰러진 나무가 바위를 쳐 사고가 난 것으로 보인다”며 “작업 관계자를 상대로 정확한 사고 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>200년 만의 기록적 폭우… 군산·서천에 시간당 100㎜ 이상 ‘물폭탄’</title>
       <link>https://www.chosun.com/national/transport-environment/2025/09/07/EZ2GWEUBDNBRXGJ4OD7OYKNXGY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/07/EZ2GWEUBDNBRXGJ4OD7OYKNXGY/</guid>
@@ -955,24 +973,6 @@
       <description/>
       <pubDate>Fri, 05 Sep 2025 04:30:04 +0000</pubDate>
       <content:encoded>서울 동대문구 이문동 일대에 최고 43층 3488가구 규모 단지가 들어설 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AIICANQSNLDOAGXFNDNPQHHVHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이문4구역 재정비촉진지구 주택재개발 정비사업 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 4일 정비사업 통합 심의위원회를 열고 이 같은 내용의 ‘이문4구역 재개발 정비 사업 심의안’을 통과시켰다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;이문4구역은 수도권 전철 1호선 신이문역·외대앞역이 주변에 있다. 중랑천과도 접해 있다. 인근 이문1구역, 휘경3구역, 이문3구역 등 재개발과 함께 ‘서울 동북권 뉴타운’ 공급 계획의 일부다.&lt;br&gt;&lt;br&gt;심의안에 따르면, 이문4구역에는 최고 43층 20동(棟) 3488가구 단지가 들어선다. 이 중 717가구는 임대 주택이다. 근린 생활 시설 등도 함께 짓는다. 2027년 상반기 착공이 목표다.&lt;br&gt;&lt;br&gt;지역 문화 센터와 지역 공동체 센터 등 지역 주민 누구나 이용할 수 있는 개방형 커뮤니티 시설을 만든다. 단지를 가로지르는 공공 보행 통로도 조성한다.&lt;br&gt;&lt;br&gt;중랑천 인근에 있다는 입지를 살려 동부간선도로에서 봤을 때 입체적으로 보이도록 단지를 짓는다.&lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “사업을 빠르게 추진해 동북권 주택 공급에 기여할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재, 8일 특검 불출석... “심장 시술 받고 회복 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/RLUODJAEHFASZJS2QVYOWOH3RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/RLUODJAEHFASZJS2QVYOWOH3RU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 04:02:37 +0000</pubDate>
-      <content:encoded>고위 간부를 통해 통일교의 현안을 청탁하면서 김건희 여사에게 명품 목걸이와 가방 등을 건넨 혐의를 받는 한학자 통일교 총재가 오는 8일 민중기 특검팀에 불출석할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOZPAXIETJ5RLWFYB7ZOSNXEKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 본지 취재를 종합하면, 한 총재 변호인단은 이날 중 특검에 한 총재의 불출석사유서를 제출하는 것으로 전해졌다. 주된 사유는 한 총재의 건강 문제인데, 한 총재는 최근 서울아산병원에 입원해 심장에 시술을 받았다고 한다. 한 총재는 시술을 받은 뒤 경기 가평군에 있는 HJ매그놀리아국제병원으로 옮겨 회복 중인 것으로 전해졌다. 통일교 측은 한 총재가 1943년생으로 올해 나이가 82세인 점, 심장 시술을 받은 지 얼마 되지 않은 점 등을 고려해달라는 의견을 사유서에 담은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검이 주목하는 것은 통일교 전 세계본부장인 윤영호씨가 ‘건진법사’ 전성배씨를 통해 통일교의 현안이던 ‘UN 제5사무국 한국 유치’를 비롯해 아프리카 관련 사업에 대한 정부 지원 등을 김 여사에게 청탁한 배경이다. 특검은 2022년 4~7월 사이 윤씨가 샤넬 가방 2개와 그라프 목걸이 등 총 8293만원 상당의 명품 3점을 전씨에게 줬고, 전씨가 이를 김 여사에게 전달했다고 본다. 이러한 금품 제공은 한 총재의 승인 없이 이뤄질 수 없다는 게 특검 시각이다.&lt;br&gt;&lt;br&gt;특검은 또 윤씨가 권성동 국민의힘 의원에게 불법 정치자금을 건넨 배경에도 한 총재의 승인이 있었다고 의심한다. 2021년 12월 29일 권 의원과 윤씨가 처음 만났고, 이듬해 1월 5일 윤씨는 권 의원에게 현금 1억원을 건넸다는 게 지금까지의 특검 조사 결과다. 이 역시 한 총재가 보고를 받은 뒤 승인했다고 특검은 본다. 이후 권 의원은 2022년 2월 8일 경기 가평군에 있는 통일교 천정궁을 찾아 한 총재를 만났고, 한 총재는 이때 윤석열 당시 국민의힘 대선 후보를 돕겠다고 말한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무 “심우정, 비상계엄 직후 특활비 3억원 넘게 몰아 써... 면밀히 살펴볼 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/Q5NU5KIPGJALBOI724PCNSJPVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/Q5NU5KIPGJALBOI724PCNSJPVU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 03:04:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NW6KCBM7XFIJVO63U7T42PCAKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무장관은 5일 “심우정 전 검찰총장이 12·3 비상계엄 직후 4일 동안 특수활동비를 3억원 이상 몰아쓴 실태가 드러났다”며 진상조사에 착수하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북에 진상조사 착수 계획을 알리면서 “검찰총장이 불법 비상계엄에 검찰을 동원하려 했다면, 이는 공익의 대변자여야 할 검찰이 국민을 배반하려 한 것”이라며 “심각한 국기문란 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;전날 열린 국회 법제사법위원회 전체회의에서는 심우정 당시 총장이 12월 3∼6일 나흘간 이례적으로 12월 특활비 절반가량인 45%를 지급했다는 의혹이 제기된 바 있다.&lt;br&gt;&lt;br&gt;정 장관은 이와 함께 서울구치소 관계자들에 대한 감찰에 착수한 사실도 밝혔다. 윤석열 전 대통령이 수감 중일 때 과도한 변호인 접견을 가졌고, 접견하러 온 민원인들이 부적절하게 보안구역에 출입한 사실이 확인됐다는 것이다. &lt;br&gt;&lt;br&gt;정 장관은 이 밖에도 강의구 전 대통령실 부속실장이 무단으로 휴대전화를 반입한 혐의도 확인해 형사고발 조치를 취했다고도 설명했다. 민원인이나 변호인은 교정시설에서 수감된 피의자를 접견할 때 휴대전화 등 전자기기를 갖고 들어갈 수 없다.&lt;br&gt;&lt;br&gt;정 장관은 “국민주권 정부는 과거의 권력 남용과 감춰졌던 잘못들을 하나씩 바로 잡아 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘우아함의 황제’ 이탈리아 패션 거장 조르지오 아르마니, 떠나다</title>
