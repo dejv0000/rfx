@@ -13,6 +13,70 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>200년 만의 기록적 폭우… 군산·서천에 시간당 100㎜ 이상 ‘물폭탄’</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/07/EZ2GWEUBDNBRXGJ4OD7OYKNXGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/07/EZ2GWEUBDNBRXGJ4OD7OYKNXGY/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 04:37:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HY6CXGFWUVOOTFP52KLJAAZS24.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 새벽 전북 군산시 미성초 인근에서 현장 출동 중이던 소방대원이 침수현장을 발견하고 통제하고 있다. /전북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후까지 남부 지방을 중심으로 강한 비가 내릴 전망이다. 이날 오전 충남과 전북에 비가 집중되면서 충남 서천과 전북 군산에는 200년에 1번 내릴 확률의 비가 왔다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전까지 수도권·강원도에, 오후까지 충청권·남부 지방에 비가 내리겠다. 예상 강수량은 수도권 5㎜, 강원도 5~40㎜, 충청권 5~80㎜, 호남권 30~120㎜, 영남권 5~60㎜, 제주도 5~40㎜ 등이다. &lt;br&gt;&lt;br&gt;현재 비구름대는 동서로 길고 남북으로 폭이 좁은 모양이다. 이 비구름대가 이날 오전 충남 남부와 전북 지역에 멈춰 있다가, 전남 지역으로 천천히 남하하고 있다. 따라서 오후까지 전남 지역에는 돌풍과 천둥·번개를 동반한 시간당 30~50㎜의 매우 강하고 많은 비가 내릴 것으로 보인다. &lt;br&gt;&lt;br&gt;전날 오후 8시부터 이날 오후 1시까지 주요 지점의 누적 강수량은 전북 군산 296.4㎜, 전북 익산 239.3㎜, 전북 김제 209㎜ 등이다.&lt;br&gt;&lt;br&gt;충남 서천과 전북 군산은 1시간 최대 강수량이 100㎜를 넘어섰다. 충남 서천에는 이날 자정쯤 1시간에 137㎜, 전북 군산은 152.2㎜의 비가 내렸다. 이는 200년 빈도(200년에 1번 발생할 수 있는 확률) 비에 해당한다. 군산은 1시간 강수량 기준으로 관측 이래 가장 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;그러나 이번 비가 남부지방에 집중되면서, 가뭄을 겪고 있는 강원 강릉은 갈증을 풀지 못했다. 강릉에는 이날 오전 1시쯤 비가 내리기 시작했는데 오후 1시까지 누적 강수량이 4.8㎜에 그쳤다. 12시간 동안 5㎜도 채 내리지 않은 것이다.&lt;br&gt;&lt;br&gt;월요일인 8일은 경남권과 제주도에 비가 내릴 전망이다. 남부 지방과 제주도는 화요일인 9일 밤까지 비가 이어지겠다. 8~9일 예상 강수량은 호남권 5~80㎜, 영남권 5~60㎜, 제주도 10~60㎜ 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KEOJTUF7YNESXJDHXRVDNPHLBA.gif?auth=a3b71cb653babf9d0f24f56c3238de4d25cef5ab48087ad73222611c346ccfce&amp;smart=true&amp;width=1000&amp;height=563" type="image/jpeg" height="563" width="1000"/>
+    </item>
+    <item>
+      <title>간암 환자에 협진 없이 항암제 투여⋯법원 “오류 없었다면 존중해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/07/NK63SUIZPNEXBA3ENOHGXK7HJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/07/NK63SUIZPNEXBA3ENOHGXK7HJU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 04:37:49 +0000</pubDate>
+      <content:encoded>병원이 간암 환자에게 협의진료(협진) 절차 없이 항암제를 투여했더라도 그 판단과 진단에 중대한 오류가 없었다면 의료진의 결정을 존중해야 한다는 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 최근 학교법인 대한예수교장로회총회 고려학원이 건강보험심사평가원(심평원)을 상대로 낸 요양급여비용 삭감 처분 취소 등 소송에서 원고 승소로 판결했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;고려학원이 운영하는 부산의 A 병원은 환자 B씨에게 간세포암종(간암)을 진단한 뒤 항암제 ‘렌비마 캡슐’을 투여했다. 이후 B씨는 2021년 11월 조직검사에서 간세포암 4기가 확정됐고 림프절 전이도 발견됐다. 병원은 암 전이로 인해 국소 치료가 불가능하다고 보고 렌비마 캡슐을 계속 투여했고, 심평원에 요양급여비용 327만원과 의료급여비용 386만원을 청구했다.&lt;br&gt;&lt;br&gt;하지만 심평원은 “B씨가 국소 치료를 받을 수 없는 림프절 전이 암 환자라는 근거가 확인되지 않는다”며 급여 비용 지급을 거부했다. 또 심평원은 병원이 검사 결과만 보고 약물 치료를 택하는 게 아니라, 다학제 진료나 협진으로 국소 치료 가능 여부 등을 판단했어야 한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 병원 측 손을 들어줬다. 재판부는 “수술 또는 국소 치료가 불가능한지 여부는 의학적 전문 지식이 필수적인 판단의 영역”이라며 “의학적 전문 지식을 갖춘 기관이 필요한 검사를 모두 거쳐 신중하게 진단 내렸다면 객관적으로 중대한 오류나 잘못이 드러나지 않은 이상 이를 가급적 존중해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;또한 “B씨는 CT검사에서 림프절 전이 소견이 있었고, 이후 조직검사에서 간세포암이 확진됐다”며 “렌비마 캡슐 투여 후 림프절 크기가 줄어든 점도 전이 환자라는 점을 뒷받침한다”고 설명했다. 다학제 진료나 협진이 없었다는 심평원의 주장에 대해선 “다학제적 진료 및 판단 등이 있는 경우 수술 또는 국소 치료가 불가능한 것으로 보아 그 인정 범위를 넓히자는 것이지, 반드시 다학제적 진료 등을 통해서 판단하라는 취지가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘최악 가뭄’ 강릉에 2차 국가소방동원령... 물탱크차 20대 더</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/NTFI6JRHMVES7GRPJCXYTXQMNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/NTFI6JRHMVES7GRPJCXYTXQMNM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 04:24:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAEMSAFKBNDAVEQCOZEIESCGSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 강원 강릉시 외곽의 한 하천에서 전국에서 모인 살수차와 소방차, 군용차가 오봉저수지에 투입할 물을 담고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청이 7일 국가소방동원령을 재차 발령하고 극심한 가뭄에 시달리는 강원도 강릉에 물탱크차 20대를 추가 동원한다. 국가소방동원령은 지방자치단체 소방력만으로는 재난에 대응하기 어려운 경우 국가 차원에서 재난 현장에 소방력을 동원하는 조치다.&lt;br&gt;&lt;br&gt;소방청은 이날 오전 강릉에 2차 국가소방동원령을 발령하고, 부산·대구·대전·울산·세종·전북 등지에서 물 1만L를 실을 수 있는 물탱크차 20대를 차출해 강릉으로 보내기로 했다.&lt;br&gt;&lt;br&gt;물탱크차들은 8일 오전 11시 강릉 연곡면 강북공설운동장에 집결해 급수 지원에 나설 예정이다. 소방청 긴급정비지원단도 파견돼 현장에서 동원된 소방차를 점검하고 정비한다.&lt;br&gt;&lt;br&gt;앞서소방청은 지난달 31일 강릉에 국가소방동원령을 발령하고 전국에서 50대 물탱크차를 동원해 인근 지자체에서 물을 실어 강릉으로 나르는 급수 작업에 투입해 오고 있다. 백승두 소방청 대변인은 “강릉 가뭄 상황이 악화했다는 판단에 따라 전국에서 물탱크차 20대를 추가 동원하기로 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최근 5년간 학교 폭력 2배 급증...소송도 증가 </title>
+      <link>https://www.chosun.com/national/education/2025/09/07/UUDCVRV6AREMJH3UTRK3M7TT7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/07/UUDCVRV6AREMJH3UTRK3M7TT7E/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 04:22:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XFVCGFLMNMNKBCEHQIQOBSZJJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교폭력 피해 학생의 어머니가 전국 학교폭력·사이버폭력 실태조사 기자회견에서 발언하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 초중고 학교 폭력 건수가 2배 이상으로 증가한 것으로 나타났다.&lt;br&gt;&lt;br&gt;7일 국회 교육위원회 진선미 의원이 교육부로부터 받은 ‘최근 5년간 초·중·고 학교폭력 현황’에 따르면, 학교폭력 사안 접수 건수는 2020학년도 2만5903건에서 2024학년도 5만8502건으로 약 2.3배가 됐다. &lt;br&gt;&lt;br&gt;같은 기간 사안이 중대해 학폭위로 회부된 건수는 8357건에서 2만7835건으로 약 3.3배가 됐다.&lt;br&gt;&lt;br&gt;사이버폭력의 경우 2023학년도 3422건에서 2024학년도 4534건으로 늘었고, 성폭력은 3685건에서 4588건으로 증가했다.&lt;br&gt;&lt;br&gt;학교폭력 사건이 행정소송으로 이어진 사례 역시 늘었다. 가해학생의 소송은 2021학년도 202건에서 2024학년도 444건으로, 피해학생의 소송은 같은 기간 53건에서 96건으로 각각 늘었다.&lt;br&gt;&lt;br&gt;진선미 의원은 “학폭 발생 건수가 매년 증가하는 것은 학폭 문제가 구조적으로 심화하고 있음을 보여주는 경고 신호”라며 “교육부는 실질적 피해 회복과 학교 공동체 회복을 위한 체계적 대책을 마련해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시, 추석 맞아 ‘7% 할인’ 서울사랑상품권 2755억 발행</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/OIOLIPG7HNFODLIPBTC4TOX5YM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/OIOLIPG7HNFODLIPBTC4TOX5YM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 03:59:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4R6LKYGWYJPLBBK4O5HOB7E62E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 4일 서울 마포구 망원시장에서 시민들이 장을 보고있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 추석을 맞아 액면가보다 7% 할인된 금액으로 구매할 수 있는 ‘서울사랑상품권’을 2755억원어치 발행한다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;이번 지역사랑상품권은 오는 16일부터 사흘 동안 자치구별로 발행된다. 발행된 자치구 내에서만 사용할 수 있다. 국비 지원에 따라 할인율이 기존 5%에서 7%로 확대됐다. &lt;br&gt;&lt;br&gt;중구·용산구·성북구·서대문구·양천구·강서구·구로구·금천구·동작구·관악구·강남구 등 11개 자치구는 결제액 일부를 상품권으로 돌려주는 ‘페이백(payback)’ 이벤트도 진행한다.&lt;br&gt;&lt;br&gt;지역상품권 결제 시 결제 금액의 2∼5%를 상품권으로 환급해주는데, 지역상품권 7% 할인까지 더하면 최대 12% 할인 혜택을 받는 것이다. 페이백 이벤트는 자치구별로 마련한 예산이 소진되면 조기 마감된다.&lt;br&gt;&lt;br&gt;지역상품권 발행일은 자치구별로 다르다. 용산구·서초구·중랑구·관악구·동대문구·동작구·성북구·종로구·영등포구는 16일, 강북구·도봉구·마포구·성동·노원구·강동구·송파구·강서구·중구는 17일, 금천구·은평구·강남구·광진구·서대문구·양천구·구로구는 18일이다.&lt;br&gt;&lt;br&gt;서울페이플러스(서울pay+) 앱에서 1인당 월 50만원까지 구매할 수 있고 보유 한도는 1인당 150만원이다. 네이버페이로도 구매 가능하다.&lt;br&gt;&lt;br&gt;구매 이후 상품권을 사용하지 않았다면 전액 취소할 수 있다. 현금 구매나 계좌이체로 산 경우 보유 금액 중 60% 이상 소진한 경우에만 잔액을 환불받을 수 있다. 신용카드 결제 건은 잔액 환불이 안 된다.&lt;br&gt;&lt;br&gt;이해선 서울시 민생노동국장은 “할인율이 확대된 만큼 명절을 앞두고 내수 침체로 어려움을 겪는 소상공인과 시민들에게 실질적인 도움이 되길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 전기·정보공학부 통합 30주년...권욱현 초대 학부장 “학과 간 벽 깨고 연구 경쟁력 키워야“</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/ZXFEXD7UKZCAHEDFFUUARLWOXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/ZXFEXD7UKZCAHEDFFUUARLWOXY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 03:45:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBJOKUMIM5GEZHGHXPSNJ37M6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울대 제1공학관에서 권욱현 서울대 명예교수가 서울대 전기·정보공학부 학부 통합 30주년 기념행사 축사를 하고 있다./서울대 전기·정보공학부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 공과대학 전기·정보공학부가 학부 통합 30주년을 맞은 가운데, 통합 후 첫 학부장을 맡았던 권욱현 서울대 명예교수는 “전기·정보공학부가 학부 통합을 이뤄냈듯, 대학에서 학과 간의 벽을 깨고 공학의 연구 경쟁력을 더욱 키워나가야 한다”고 했다.&lt;br&gt;&lt;br&gt;지난 5일 오후 서울대 제1공학관에서는 전기·정보공학부 학부 통합 30주년 기념 행사가 열렸다. 지난 1995년 서울대 공과대학 전기공학과, 전자공학과, 제어계측공학과는 ‘전기공학부’라는 명칭으로 교과 운영, 학사 제도, 연구 등을 통합했다. &lt;br&gt;&lt;br&gt;당시 제어계측공학과 소속이었던 권 교수는 고(故) 한송엽 교수, 민홍식 교수 등 동료 교수들과 함께 “학문이 함께 갈 때 더 큰 규모의 연구를 이루고 연구 및 교육의 중복을 줄이는 등 더 나은 방향으로 나아갈 수 있다”며 자발적 통합을 이뤄냈다. 통합한 전기공학부는 2012년 지금의 ‘전기·정보공학부’로 명칭을 바꿨고, 학문 간 협업을 촉진해왔다.&lt;br&gt;&lt;br&gt;이날 본지와 만난 권 교수는 “규모의 경제처럼 연구 또한 규모를 키워야 융합 연구를 이뤄낼 수 있고 국제 경쟁력을 키울 수 있다”며 “30년 전 학부 통합의 목표는 연구 규모와 범위를 키우고 넓혀 산업 발전에 기여하겠다는 것이었다”고 했다. 이어 권 교수는 “산업이 키워 국가 경쟁력을 높이겠다는 것은 공학의 책무”라며 “많은 공학도들이 앞으로 우리나라 이공계의 중요성을 계속해서 알려야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JEIR3EAWHZAAROTR6N3RM6QSZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5일 오후 서울대 제1공학관에서 전기·정보공학부 학부통합 30주년 기념 행사가 열렸다./서울대 전기·정보공학부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권 교수는 대학이 당면한 ‘이공계의 위기’에 대해 “대입 성적 좋은 학생들이 의대, 치대로 쏠리며 인재가 편협해지고 있다”고 했다. 권 교수는 “1990년대에는 공학이 산업을 일으키던 세대였고 서울대에서 가장 입결이 높은 이공계가 공학이었지만 IMF 경제 위기 이후에는 인재들이 안정적인 직업만을 좇는 경향이 생겼다”며 “공학이 나라 발전에 기여한다는 것을 우리 공학도들이 노력하고 성과로 보여줘야 한다”고 했다.&lt;br&gt;&lt;br&gt;이날 축사에서 권 교수는 서울대의 ‘인재 유출’과 관련해 “스타 교수가 나타날 수 있도록 해달라”고 당부했다. 권 교수는 “외부에서 우리 학과에 대해 평가를 할 때 ‘스타 교수가 없다’고 한다”며 “그런 교수들이 나타날 수 있는 분위기를 만들어달라. 잘하는 사람이 보이면 그 우상이 보인다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 기념 행사에서는 학부 통합에 큰 기여를 한 (故) 한송엽 교수, 민홍식 교수, 권욱현 교수에게 공로패가 수여됐다. 김주관 네이버쇼핑 대표, 우경식 엠블 대표 등 학부 동문들도 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위-법무부, ‘기업과 인권 국제포럼’ 공동 개최</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/07/VGEE4HPJBNBKDA7VTZUFQZANC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/VGEE4HPJBNBKDA7VTZUFQZANC4/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Sep 2025 03:41:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5HKVEMCV2DPYUN7XAO67DP5RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회와 법무부가 인권경영 추진 전략을 모색하기 위한 포럼을 개최한다고 7일 밝혔다. &lt;br&gt;&lt;br&gt;인권위는 오는 8일 오전 11시 서울 중구 풀만 호텔 그랜드볼룸에서 ‘기업과 인권 국제포럼’을 공동 주최한다.&lt;br&gt;&lt;br&gt;이번 포럼은 최근 글로벌 정치·경제 불안, 보호무역주의 부상 등으로 인권경영 추진 동력이 약화되는 상황에서 관련 국내외 제도를 점검하기 위해 마련됐다.&lt;br&gt;&lt;br&gt;인권경영은 기업의 모든 경영활동 과정에서 발생하는 인권침해를 예방하고, 인권보호를 위해 기업이 필요한 활동을 다하는 경영방식을 말한다. &lt;br&gt;&lt;br&gt;행사에는 유엔 기업과 인권 실무그룹, 유엔개발계획(UNDP), 국제노동기구(ILO), 경제협력개발기구(OECD) 기업책임경영센터 등 국제기구 관계자와 정부, 학계 전문가 등이 참석한다. &lt;br&gt;&lt;br&gt;▲인권 규제 흐름과 도전 과제 ▲인권실사법·강제노동 수입금지법 등 입법 동향 ▲기업과 인권 관련 이니셔티브 활용 및 기업 모범사례 공유 ▲향후 인권경영 촉진 전략 등을 주제로 4개 세션이 진행될 예정이다. &lt;br&gt;&lt;br&gt;인권위 관계자는 “위기 상황에서도 인권경영을 지속해야 한다는 공감대를 확산하고, 글로벌 인권경영 흐름에 부합하는 국내 법제가 마련될 수 있도록 관계 기관 등과 지속 협력할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“범칙금 낼 돈 빌려줘”…거절당하자 지인에 흉기 휘두른 남성 징역형</title>
       <link>https://www.chosun.com/national/national_general/2025/09/07/HFPCDSEGBVAMXPX6FL6GB5D4AU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/07/HFPCDSEGBVAMXPX6FL6GB5D4AU/</guid>
@@ -863,38 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UVNJKJ4KLVQIYX64A2ARUCUHYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;육동한 춘천시장이 5일 시청 브리핑룸에서 기자회견을 열고 국토교통부 주관 ‘2025년 상반기 도시재생 혁신지구 공모사업’에서 최종 선정된 소감을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 춘천 캠프페이지가 5일 도시재생혁신지구 공모 사업에 최종 선정됐다.&lt;br&gt;&lt;br&gt;육동한 춘천시장은 이날 시청 브리핑룸에서 기자회견을 열고 국토교통부 주관 ‘2025년 상반기 도시재생 혁신지구 공모사업’에서 최종 선정됐다고 밝혔다.&lt;br&gt;&lt;br&gt;도시재생혁신지구는 ‘도시재생특별법’에 근거해 쇠퇴한 도심에 산업·상업·복지 기능을 집약해 새로운 성장 거점을 만드는 대규모 사업이다. &lt;br&gt;&lt;br&gt;특히 대규모 유휴 부지 활용, 주택도시기금(출자·융자·보증) 지원, 통합 심의를 통한 절차 간소화 등 강력한 재정·행정 지원을 통해 쇠퇴 지역을 국가 차원의 신성장 거점으로 육성하는 사업이다.&lt;br&gt;&lt;br&gt;시는 옛 캠프페이지(근화동 198 일원) 부지 중 일부 12만㎡ 규모에 시민공원과 함께 첨단 영상산업 클러스터, 대형 복합 스튜디오, 컨벤션센터 등을 조성한다. &lt;br&gt;&lt;br&gt;또 공원과 어우러지는 개방형 공간과 축제 광장을 조성해 시민이 체감할 수 있는 생활문화 거점으로 발전시켜 나가겠다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VC5XXQWDNGXGWQ5H5QCEPO4NU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천 국가시범지구 계획안./춘천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총 사업비는 3568억원 규모로 공모 선정으로 이 중 국비 250억원을 확보했다. 사업 시행자는 주택도시기금과 지자체가 공동으로 출자하는 리츠(부동산투자회사)로 지정해 안정적 재원 조달을 보장하고 있다.&lt;br&gt;&lt;br&gt;춘천시는 관련 법 절차에 따라 곧바로 후속 절차에 착수하겠다고 밝혔다. 우선 주택도시기금과 협의를 통해 시행자인 리츠를 설립해 본격적으로 사업을 추진한다. &lt;br&gt;&lt;br&gt;시는 국내외 영상 제작사와 협력해 VFX와 AI가 결합된 차세대 K콘텐츠 산업을 선도하는 거점을 캠프페이지에 조성하겠다는 구상이다.&lt;br&gt;&lt;br&gt;앞서 춘천 캠프페이지는 2008년 발전 종합 계획(공원·개발 병행) 수립, 2019년 문화공원 지정, 그리고 도청사 이전 논의와 맞물려 활용 방안을 두고 끊임없는 논란이 있어왔다.&lt;br&gt;&lt;br&gt;육 시장은 “도시재생 혁신지구는 춘천의 미래를 바꾸는 결정적 전환점”이라면서 “청년에게는 꿈과 일자리를, 도시에는 새로운 생명력을, 그리고 시민 모두에게는 자부심을 드리게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘1심 무죄’ 성폭행범, 대검찰청 DNA 감정으로 잡아냈다... 2심서 법정구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/LGGGCFEWG5EJPL66XZK5RNPCMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/LGGGCFEWG5EJPL66XZK5RNPCMM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 07:15:48 +0000</pubDate>
-      <content:encoded>지난달 말, 대구고법 형사2부(재판장 왕해진)는 50대 성폭행범 A씨에게 징역 2년을 선고하고 법정구속했다. 성폭행을 저지른 A씨는 1심에서 무죄를 선고 받았는데, 항소심에서 선고 결과가 뒤집힌 것이다. 유죄 선고 배경에는 대검찰청 과학수사부(부장 최영아 검사장)의 정밀 DNA 분석이 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JPLW57GVRG2ZMLHBULXM55I34.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서초동 대검찰청 국가디지털포렌식센터 DNA감정실./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 동호회에서 만난 A씨와 피해자 B씨가 B씨의 집에서 술자리를 가진 것이 발단이 됐다. 또 다른 참석자가 먼저 집에 돌아가자 A씨는 B씨를 성폭행했고, 이튿날엔 B씨의 집에 무단침입하기도 했다. B씨는 경찰에 A씨를 신고했고, 국립과학수사연구원의 감정 결과 B씨의 속옷, 바지, 티셔츠에선 A씨와 일치하는 DNA가 발견됐다.&lt;br&gt;&lt;br&gt;그런데 1심은 A씨에게 무죄를 선고한 것이다. A씨는 법정에서 성관계 자체가 불가능한 상황이었다고 주장하면서 자신의 혐의를 전면 부인했는데 B씨가 1심 재판 도중 평소 앓던 지병으로 세상을 떠나면서 B씨는 법정에서 직접 피해 사실을 진술하지 못했다. 이런 가운데 1심은 국과수 감정 결과에 대해 “정액 반응이 확인되지 않고, Y염색체 DNA감정법은 아버지, 형제 등 부계가 동일한 남성의 경우 같은 결과가 나올 수 있다”며 A씨가 아닌 다른 진범이 있을 가능성이 있다고 판단했다.&lt;br&gt;&lt;br&gt;검찰이 항소를 결정하면서, 사건을 넘겨 받은 공판 검사는 피해자 B씨의 의류를 정밀 감정해달라고 대검 과수부에 의뢰했다. 의뢰를 접수한 대검 과수부 산하 DNA·화학분석과는 광원을 쪼여 흔적이 발견되는 부분에서 샘플을 채취한 뒤, 정액반응·상염색체 DNA감정·Y염색체 DNA감정을 진행했다. 특히 상염색체 DNA감정에서 동일한 결과가 나올 경우, 동일인으로 판정된다고 한다. 사람은 총 23쌍의 염색체를 갖고 있는데, 사람마다 상염색체가 다르기 때문이라고 한다.&lt;br&gt;&lt;br&gt;정밀 감정 결과 1심이 무죄 근거로 제시했던 정액 반응이 B씨의 속옷에서 확인됐다. 정액이 검출된 곳을 비롯해, 속옷의 또 다른 부위에서 검출된 DNA도 모두 A씨의 것으로 확인된 것이다. 공판 검사는 이 결과를 2심 법원에 제출했고, 법원은 유죄를 인정했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “이 사건은 피해자가 지병으로 세상을 떠나 직접 목소리를 낼 수 없는 상황에서도 과학수사가 사망한 피해자의 마지막 증언이 될 수 있음을 보여준 사례”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“1% 확률”…초아, 자궁경부암 투병 딛고 쌍둥이 임신</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/QXS35XRFG5BCRL56AFIMYPWCVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/QXS35XRFG5BCRL56AFIMYPWCVM/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 05:43:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL7EKPTLVRB2JFY3ULCBHNBWPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;크레용팝 출신 초아가 쌍둥이 임신 소식을 알렸다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 크레용팝 출신 초아가 자궁경부암 투병을 딛고 쌍둥이 임신 소식을 알렸다.&lt;br&gt;&lt;br&gt;초아는 5일 인스타그램에 “드디어 간절히 기다려온 소중한 생명이 찾아왔다”며 일란성 쌍둥이 임신 10주차에 접어들었다고 밝혔다. 출산은 내년 3월 예정이다.&lt;br&gt;&lt;br&gt;그는 “2년 전 암 진단을 받고 여러 대학 병원에서 아이를 가질 수 없을 것이라 했지만 절대 포기하지 않았고, 가임력을 지켜주신 병원과 교수님을 만나 무사히 암 수술을 마치고 회복할 수 있었다”며 “여러 번의 자연임신 시도 후 시험관 시술에 도전하게 되었고 기적처럼 1차 만에 아이가 찾아와 줬다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “저는 경부가 없어 조산 위험이 있어 일부러 배아를 1개만 이식을 했는데도 스스로 자연 분열해 일란성 쌍둥이가 됐다. 1% 확률이라고 한다”며 “처음엔 걱정이 앞섰지만, 지금은 그저 열심히 잘 품어서 건강하게 낳아야겠다는 생각뿐”이라고 했다.&lt;br&gt;&lt;br&gt;끝으로 “끝까지 희망이 되는 모습 보여드리겠다”며 난임 부부들에게 응원을 보냈다.&lt;br&gt;&lt;br&gt;2021년 6세 연상 사업가와 결혼한 초아는 2023년 10월 자궁경부암 투병 사실을 뒤늦게 알렸다. 당시 그는 “행복한 신혼 1년 차 산전 검사를 위해 찾아갔던 병원. 그날 나는 자궁경부암 진단을 받았다”며 “수술 당시 암 크기는 예상보다 훨씬 작았고 기적적으로 가임력도 보존할 수 있게 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FP5HL4PWJVBRFNFNMBFUXFQ2BE.jpg?auth=b2deb90bcf73a83b2ca7c547e995de2bb8b5ad34d9067b08f755fd842a8588aa&amp;smart=true&amp;width=760&amp;height=428" type="image/jpeg" height="428" width="760">
-        <media:description type="plain">크레용팝 출신 초아가 쌍둥이 임신 소식을 알렸다./인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>[신문은 선생님] [산 이야기] 속세를 떠나 오르는 산… 조선 세조는 이곳 소나무에 벼슬도 내렸대요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/01/H24ZSFRDC5GANF6FSREU5QBTJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/01/H24ZSFRDC5GANF6FSREU5QBTJM/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 31 Aug 2025 15:37:00 +0000</pubDate>
-      <content:encoded>무더위가 여전히 기승을 부리지만, 최근 아침과 저녁으로 조금씩 선선해지고 있습니다. 등산의 계절이 조금씩 다가오고 있는데요. 오늘은 신발장 깊숙이 넣어둔 등산화를 꺼내어 갈 만한 산을 소개하겠습니다. 충북 보은과 경북 상주에 걸쳐 있는 속리산입니다. &lt;br&gt;&lt;br&gt;속리산은 명산 중의 명산으로 손꼽힙니다. 1058m에 이르는 높이, 멋있는 바위가 솟구친 화려한 산세, 또 백두대간의 주능선이라는 것을 설명하지 않아도 그 깊이를 가늠할 수 있는 산이지요. ‘속세를 떠난다’는 뜻을 가진 속리산(俗離山)이라는 이름은 신라 시대 존경받던 어느 스님이 이 산에 들자, 그를 따라 입산한 사람이 많다고 해서 붙여졌다고 합니다. 이 외에도 1000년 넘는 세월 동안 역사에 속리산과 관련한 이야기들이 많이 남아 있습니다. 능선의 ‘입석대’에선 신라 진평왕의 왕비인 마야부인이 기도를 올렸다고 하며, 경업대는 조선시대 임경업 장군이 수련했던 바위라고 전해집니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZBCABR4GVAONG3B7XHP453I2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문장대에서 본 속리산 주능선. 철제 계단을 따라 오르면 자연 바위 전망대 위에서 속리산 일대가 훤히 보이는 경치를 즐길 수 있답니다.
-/이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가장 유명한 일화는 조선 시대 세조와 관련된 것인데요. 1464년 법주사로 행차하던 세조의 가마가 나뭇가지에 걸릴 듯하자, 소나무가 스스로 가지를 번쩍 들어 올렸습니다. 이를 가상하게 여긴 세조가 소나무에게 정이품 벼슬을 하사했다는 ‘정이품송’ 전설이 있지요.&lt;br&gt;&lt;br&gt;속리산 대표 명소인 문장대에 얽힌 이야기도 있는데요. 문장대는 ‘글월 문(文)’에 ‘숨길 장(藏)’ 자를 쓰는데 원래 이름은 운장대였습니다. 구름 속에 숨겨진 바위 봉우리라는 뜻이었지요. 법주사를 찾은 세조가 꿈을 꿨는데, 귀인이 나타나 운장대에 올라가길 권했습니다. 다음 날 운장대에 이르렀더니 ‘삼강오륜’을 적은 책이 한 권 있어, 종일 글을 읽었다 하여 문장대라 불리게 되었다고 합니다. &lt;br&gt;&lt;br&gt;아이러니한 것은, 세조는 조카인 단종을 몰아내고 왕위에 오른 잔인한 왕인데, 유교의 기본 도덕을 가르치는 책이 놓여 있었던 것입니다. 어떤 이들은 인륜을 거스른 비도덕적인 왕에게 속리산이 가르침을 주려 했다고 해석하기도 하지만, 전설로 받아들이는 것이 일반적입니다. &lt;br&gt;&lt;br&gt;속리산의 정상은 천왕봉(1058m)인데요. 그보다 4m 낮은 문장대(1054m)가 더 유명해진 건 접근하기 편하고 무엇보다 ‘경치의 왕’이기 때문입니다. 문장대는 큰 바위 여럿을 책을 쌓듯 포개어 놓은 모양인데요. 왕관처럼 보이기도 하고, 반질반질한 바위 표면은 거대한 문어 머리 부분처럼 보이기도 합니다. 계단을 따라 문장대에 오르면 시원한 풍경이 드러납니다. &lt;br&gt;&lt;br&gt;법주사를 거쳐 문장대에 오른다면, 하루를 꽉 채우는 알찬 당일 산행을 할 수 있습니다. 법주사에서 문장대까지 7㎞로 짧지 않지만, 완만한 아스팔트 구간(차량 통행 금지)이 2㎞입니다. 등산에 익숙하지 않더라도 5시간 이상 걸을 지구력이 있다면 그리 어렵지만은 않습니다. 내려올 땐 신선대와 경업대, 관음암을 거치는 길로 하산하면 더 다양한 경치를 즐길 수 있습니다. 이 코스는 12㎞ 거리이며, 6시간 정도 걸립니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>광양 이순신대교에서 트레일러·1t 트럭 추돌 사고로 신호수 2명 사망</title>
       <link>https://www.chosun.com/national/national_general/2025/09/05/AJUXEBAXV5FNVCX2S4KIULUALA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/AJUXEBAXV5FNVCX2S4KIULUALA/</guid>
@@ -941,43 +973,6 @@
       <description/>
       <pubDate>Fri, 05 Sep 2025 03:04:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NW6KCBM7XFIJVO63U7T42PCAKI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무장관은 5일 “심우정 전 검찰총장이 12·3 비상계엄 직후 4일 동안 특수활동비를 3억원 이상 몰아쓴 실태가 드러났다”며 진상조사에 착수하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 이날 자신의 페이스북에 진상조사 착수 계획을 알리면서 “검찰총장이 불법 비상계엄에 검찰을 동원하려 했다면, 이는 공익의 대변자여야 할 검찰이 국민을 배반하려 한 것”이라며 “심각한 국기문란 행위”라고 지적했다.&lt;br&gt;&lt;br&gt;전날 열린 국회 법제사법위원회 전체회의에서는 심우정 당시 총장이 12월 3∼6일 나흘간 이례적으로 12월 특활비 절반가량인 45%를 지급했다는 의혹이 제기된 바 있다.&lt;br&gt;&lt;br&gt;정 장관은 이와 함께 서울구치소 관계자들에 대한 감찰에 착수한 사실도 밝혔다. 윤석열 전 대통령이 수감 중일 때 과도한 변호인 접견을 가졌고, 접견하러 온 민원인들이 부적절하게 보안구역에 출입한 사실이 확인됐다는 것이다. &lt;br&gt;&lt;br&gt;정 장관은 이 밖에도 강의구 전 대통령실 부속실장이 무단으로 휴대전화를 반입한 혐의도 확인해 형사고발 조치를 취했다고도 설명했다. 민원인이나 변호인은 교정시설에서 수감된 피의자를 접견할 때 휴대전화 등 전자기기를 갖고 들어갈 수 없다.&lt;br&gt;&lt;br&gt;정 장관은 “국민주권 정부는 과거의 권력 남용과 감춰졌던 잘못들을 하나씩 바로 잡아 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 아파트 관리실 집단 사직 사건...고용부“직장 내 괴롭힘 아냐”</title>
-      <link>https://www.chosun.com/national/2025/09/05/B3GWV3HH3FE4TI4LTYATF4HD6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/05/B3GWV3HH3FE4TI4LTYATF4HD6E/</guid>
-      <dc:creator>울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 03:02:38 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J26PJCCTMNCYTMQP7ISOB4ZZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인 커뮤니티에 확산된 아파트 관리사무소 직원 전원 사직 안내문./ 온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 울산의 한 아파트에서 관리사무소 직원들이 일부 동대표로부터 갑질을 당했다고 주장하며 집단 사직한 사건과 관련해 진정을 받아 조사한 고용노동부가 ‘직장 내 괴롭힘’ 적용 대상이 아니라고 판단했다. 입주자대표회의(입대의)가 근로기준법상 관리사무소 직원들의 사용자로 보기 어렵다는 판단 때문이다.&lt;br&gt;&lt;br&gt;고용노동부 울산지청은 A아파트 관리사무소 직원들이 입대의 측에 제기한 직장 내 괴롭힘 진정에 대해 최근 ‘행정 종결’ 처리했다고 5일 밝혔다. 행정 종결은 경찰의 내사 종결과 비슷하다. 법상 처벌할 근거가 없거나 범죄 혐의가 없다고 보고 검찰로 사건을 송치하지 않고 종결했다는 의미다. &lt;br&gt;&lt;br&gt;고용부 울산지청에 따르면 앞서 A아파트 관리사무소 직원들이 낸 진정서에는 관리실 직원 9명이 입대의 회장을 비롯한 3명에게 직장 내 괴롭힘을 당했다고 주장하는 행위 20건이 적시돼 있었다. &lt;br&gt;&lt;br&gt;고용부 울산지청 관계자는 “입대의가 근로기준법상 관리실 직원들의 ‘사용자’로 보기 어렵다고 판단해 이 같은 결정을 내렸다”고 설명했다. 근로기준법상 직장 내 괴롭힘은 근로계약의 당사자인 ‘근로자 또는 사용자’에 해당돼야 적용된다. 이 관계자는 “관리사무소 직원들은 입대의와 위수탁 관리 계약을 체결한 주택관리업체의 근로자들로, 관리실 직원들의 사용자는 주택관리업체”라고 했다. 즉, 입대의와 관리실 직원 사이에 근로계약 관계가 성립된다고 보기 어렵다고 판단한 것이다. &lt;br&gt;&lt;br&gt;전국적으로 이와 유사한 사건이 잇따르자 국가인권위원회는 지난 2020년 아파트 경비원을 괴롭히는 제3자도 직장 내 괴롭힘의 가해자가 될 수 있다는 권고를 내린 바 있다. 근로기준법상 ‘사용자 또는 근로자’에 해당하지 않더라도 제3자인 아파트 주민이나 입대의가 갑질을 할 경우에도 피해자를 보호해야 한다는 취지다. &lt;br&gt;&lt;br&gt;고용부 울산지청 관계자는 “입대의가 인사·노무 관리에 직접적으로 개입하고 지휘·감독권을 행사하거나 주택관리업체를 유령업체 등으로 세워서 고의로 근로계약을 하는 ‘묵시적 근로계약’이라는 게 있는데, 사용자성을 확장해서 법리를 적용해봐도 현 주택관리업체의 사용자성을 부인할 만한 것이 확인되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;다만 이 관계자는 “입대의의 부당 간섭이 있었다고 보고 주택관리업체와 입대의 측에 유사 상황이 재발하지 않도록 공문을 보냈다”며 “또 집단 사직한 A아파트 관리사무소 직원들이 실업급여를 받을 수 있도록 조치했다”고 했다. &lt;br&gt;&lt;br&gt;한편, 지난 7월 한 온라인 커뮤니티에 울산의 한 아파트에서 관리사무소 직원들이 일부 동대표와의 갈등 끝에 집단 사직했다는 소식이 전해져 화제가 됐다. 아파트 엘리베이터에 붙은 안내문 사진을 보면 ‘관리실 직원 전원 사직’이라는 제목의 안내문에 “관리사무소 직원으로 근무하면서 최선을 다해 입주민과 공동체의 이익 및 발전을 위해 노력해 왔습니다”라며 “그러나 일부 동대표들의 다음과 같은 반복적이고 구조적인 문제로 인해 더 이상 정상적인 직무 수행이 어렵다고 판단해 부득이하게 관리실 직원 전원이 사직하게 됐습니다”라고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가뭄 시름 강릉시 “홍제정수장 대수용가 6일 오전부터 제한급수”</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/09/05/KWLTHNMO5BEDXFZYWUXBZBH3XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/05/KWLTHNMO5BEDXFZYWUXBZBH3XI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 02:07:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LG5L4K3TVCUW4BHFGKHJPHOO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉 오봉저수지가 맨바닥을 드러내고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉시가 극심한 가뭄으로 저수율 급감에 따라 홍제정수장 급수구역 대수용가에 제한급수를 시행한다.&lt;br&gt;&lt;br&gt;강릉시는 5일 “홍제정수장 공급 지역의 생활용수 부족이 심각한 수준에 이르러 오는 6일 오전 9시부터 제한급수를 시작한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트 ‘입주자 카드’ 재판 증거로 무단 제출한 동대표…대법 “처벌 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/05/HJF7XQRO5ZABJMU6XVBRTZNC4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/05/HJF7XQRO5ZABJMU6XVBRTZNC4I/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 01:35:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA75O2GJFZHFHGZV3K6ZSCITMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사나 재판 과정에서 남의 개인정보가 포함된 자료를 제출했더라도, 방어권 행사를 위한 불가피한 사정이 있었고 사생활 침해 정도가 크지 않다면 처벌할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 최근 개인정보보호법 위반 혐의로 기소된 A씨에게 벌금형 집행유예를 선고한 원심을 깨고 사건을 대전지법으로 돌려보냈다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;대전의 한 아파트에서 동대표 회장을 맡던 A씨는 2020년 입주민들과 소송 중 주민들의 개인정보가 담긴 ‘입주자 카드’를 당사자 동의 없이 법원에 증거로 제출한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이 사건은 아파트 관리비와 관리운영 등 문제로 일부 입주민들이 A씨 등 입주자대표회의에 문제 제기를 하면서 시작됐다. 주민들은 과반수 세대로부터 ‘입주자대표회의 해산’을 요구하는 서면 동의를 받아 이를 근거로 법원에 A씨의 ‘동대표 직무 정지’ 가처분을 신청했다. &lt;br&gt;&lt;br&gt;A씨는 가처분 사건 재판에서 “해산에 동의하는 세대수가 과반수에 미달한다”고 주장했다. 담당 재판부가 “그렇다면 세대주나 세대 구성원을 확인할 수 있는 자료를 제출하라”고 했고, A씨는 관리사무소에 보관 중이던 입주자 카드 584장을 당사자 허락 없이 법원에 냈다. 입주자 카드에는 세대주와 직업, 차량번호, 가족사항, 세대원 생년월일, 전화번호, 주소 등 개인정보가 적혀 있었다. &lt;br&gt;&lt;br&gt;1·2심은 “A씨가 입주민 동의 없이 개인정보를 제3자에게 제공했고, 업무상 알게 된 개인정보를 누설했다”며 유죄로 판단했다. 1심은 벌금 70만원을 선고했고, 2심은 “개인정보가 불특정 다수인에게 공개되지는 않았다”는 점을 참작해 벌금 70만원에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “A씨가 입주자 카드를 제출한 것은 소송 행위의 일환으로, 사회 상규에 위배되지 않는다고 볼 여지가 충분하다”며 처벌할 수 없다고 판단했다. 대법원은 “입주자 카드에 기재된 개인정보는 세대주·세대원 특정에 필요한 정보에 불과하고 사상·신념, 정치적 견해, 건강 정보 등 사생활을 현저히 침해할 우려가 있는 민감정보 등은 포함돼있지 않다”며 “법원이 보관하고 있어 개인정보가 소송과 무관한 제3자에게 제공될 위험성도 크지 않다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 “수사나 소송에서 방어권 행사를 위해 개인정보가 포함된 자료를 제출하는 경우 위법이 아니라고 인정될 수 있다”며 “개인정보를 제출하게 된 경위·목적, 불가피한 사정의 유무, 개인정보의 내용, 민감 정보인지 여부, 침해의 정도 등 여러 사정을 종합적으로 고려해 판단해야 한다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>폼페이오 전 美국무장관 “통일교 총재 법적조치 우려…종교 자유 침해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/05/NJ4N5NOAWBHNJLEMRWH7EPA7VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/05/NJ4N5NOAWBHNJLEMRWH7EPA7VM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 01:27:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY5IGY6V7REJNLBBU7SPKDTRUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마이크 폼페이오 전 미국 국무장관./박성원 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마이크 폼페이오 전 미국 국무부 장관이 김건희 특별검사팀이 한학자 세계평화통일가정연합(통일교) 총재를 정치자금법 위반 등의 혐의로 조사하고 있는 것과 관련 “매우 우려스러운 일”이라고 했다. &lt;br&gt;&lt;br&gt;폼페이오 전 장관은 4일 자신의 엑스(X·구 트위터)를 통해 “한국에서 종교 지도자 한학자 총재를 대상으로 한 법적 조치는 매우 우려스러운 일”이라며 “종교의 자유에 대한 침해가 심화되고 있는 것은 한국이 지지해야 할 민주주의 원칙을 저버리는 일”이라는 짧은 글을 올렸다. &lt;br&gt;&lt;br&gt;폼페이오 전 장관은 도널드 트럼프 대통령 집권 1기 당시인 2018년부터 2021년까지 제70대 미국 국무부 장관을 지냈다. 2018년엔 중앙정보국(CIA) 국장 자격으로 평양을 방문해 김정은 북한 국무위원장을 만난 바 있다.&lt;br&gt;&lt;br&gt;김건희 특검팀은 지난 1일 한 총재 측에 소환 조사를 통보했다. 한 총재는 통일교 인사가 김건희 여사에게 고가의 선물을 전달할 때 관여한 혐의, 권성동 국민의힘 의원에게 윤석열 정부의 통일교 지원을 요청하며 정치자금을 전달한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y4VK3EWMQNDA3L4KBMLX3TRM3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 폼페이오 전 장관이 올린 게시물. /엑스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란·김건희·순직해병 3대 특검의 수사는 외교 문제로 비화하고 있는 모양새다. &lt;br&gt;&lt;br&gt;앞서 트럼프 대통령도 지난달 25일 한미 정상회담 직전 소셜미디어를 통해 “한국 지금 무슨 일이 일어나고 있는가? 숙청(purge)이나 혁명처럼 보인다”며 “그런 상황에서는 우리가 거기서 사업할 수 없다”는 내용의 글을 올렸다. &lt;br&gt;&lt;br&gt;트럼프 대통령은 백악관 집무실에서 열린 이재명 대통령과의 회담에서는 “나는 정보 당국으로부터 (한국) 교회들에 대한 압수 수색이 있었다고 들었다”면서 “만약 그것이 사실이라면 매우 나쁜 일일 것”이라고 했다&lt;br&gt;&lt;br&gt;뉴트 깅그리치 전 미국 연방 하원 의장은 지난달 27일 워싱턴타임스에 기고한 글에서 한국 내 보수 정당과 교회 지도자에 대한 대규모 압수 수색을 거론하며 “이재명 정부의 최근 정치·종교에 대한 전면적인 탄압(all-out assault)이 숨 막힐 지경”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘우아함의 황제’ 이탈리아 패션 거장 조르지오 아르마니, 떠나다</title>
