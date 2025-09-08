@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/opinion</link>
 		<language>ko</language>
 		<item>
+			<title>법조광장 : 법과 언론의 가치 - 공군검찰단 장병 기자단 법률신문사 방문기</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/256/210965.jpg" alt="456475456.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;7월 9일 김형찬 공군검찰단장, 조영민 고등검찰부장, 김경수 공판기획검사와 제4기 공군검찰단 장병 기자단 11명은 서울 서초구 법률신문사를 방문했다. 제4기 공군검찰단 장병 기자단의 올해 첫 방문 취재로 감회가 새로웠다. 단원들은 법률신문의 역할과 업무에 관해 설명을 듣고, 질의응답하는 시간을 가졌다.&lt;br /&gt;&lt;br /&gt;법률신문은 한국전쟁이 발발한 1950년 창간, 올해로 75주년을 맞은 법조의 유일무이한 전문지다. 법률신문은 주간지로서 매주 2회 월요일과 목요일에 신문을 간행한다. 현재는 종이 신문만이 아니라 디지털 시대의 변화에 발맞춰 다양한 콘텐츠를 제공한다.&lt;br /&gt;&lt;br /&gt;질의응답 시간에는 △정치적 편향으로부터 언론의 중립을 지키는 방법 △디지털 전환과 종이 신문의 가치 △검토 및 편집과정의 중요성 등 심도있는 이야기가 오갔다.&lt;br /&gt;&lt;br /&gt;가장 기억에 남는 말로는 누가 읽어도 모순이 없는 일관성 있는 기사와 사실만을 기반으로 작성된 기사가 가장 잘 쓴 기사라는 것. 법률신문은 정치적으로 어디에도 편향되어 있지않은, 균형 잡힌 기사를 작성하기 위해 노력하고 있었다. &lt;br /&gt;&lt;br /&gt;디지털 시대의 변환점에 있는 지금, 종이 신문이 보존해야 하는 가치와 지향점에 대한 이야기도 나눴다. 2000년 초 지하철에서 책과 신문을 보던 모습들이 지금은 그 어디에서도 찾아볼 수 없다. 심지어 최근에는 AI를 활용한 기사들과 동영상 등의 콘텐츠를 이용한 기사도 등장하고 있다. &lt;br /&gt;&lt;br /&gt;이렇듯 디지털 시대가 도래하며, 종이 신문의 가치가 과거에 비해 희석된 것은 사실이다. 하지만 그렇다고 해서 종이 신문의 가치가 사라지지는 않을 것이라고 생각한다. 시대의 흐름에 맞추어 읽는 형태는 변화해도, 본질적인 지식을 쌓음에 있는 읽음의 가치는 계속해서 존재할 것이기 때문이다.&lt;br /&gt;&lt;br /&gt;원고 마감과 편집에 관해서도 들을 수 있었다. 공군검찰단 장병 기자단도 기사를 쓰다 보면 많은 생각이 든다. 내가 쓴 기사가 독자들에게 얼마나 관심이 있게 다가갈지, 틀린 내용이나 민감한 내용은 없는지, 기사가 불러일으킬 파급 효과는 어떨지 등 말이다. 다양한 사람이 읽고 피드백을 주고받는 검토와 편집은 선택이 아닌 필수다. 수정에 수정을 거듭하는 과정을 통해 보다 완성된 기사를 선보일 수 있기 때문이다. 인생은 편집의 연속이며, 편집 없이는 더 나은 방향으로 나아갈 수 없다는 말도 인상깊었다.&lt;br /&gt;&lt;br /&gt;이날 법률신문 방문으로 법과 언론이 지켜야 할 가치와 소통의 힘에 대해 배울 수 있었다. 공군 검찰단과 기자단원들은 법질서 확립과 법문화 확산을 위해 앞으로도 더욱 노력하겠다.&lt;br /&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;송현도 병장(공군 제5공중기동비행단)&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Mon, 08 Sep 2025 05:19:50 -0000</pubDate>
+			<category>opinion</category>
+			<link>https://www.lawtimes.co.kr/opinion/210965</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/210965</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/210965.jpg</media:thumbnail>
+			<dc:creator>송현도</dc:creator>
+		</item>
+		<item>
 			<title>이인용 칼럼 : (17) 세상이 왜 이런가요? - 사회주의는 실패하고
 마르크스주의 변형
 자유민주주의는 위기
@@ -39,19 +49,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/211128</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/211128.jpg</media:thumbnail>
 			<dc:creator>모성준</dc:creator>
-		</item>
-		<item>
-			<title>법조광장 : 검찰개혁 속에서 법률가의 임무 - 검찰 향한 대중의 분노 뜨겁지만
-응징이 목적인 개혁은 곤란
-국민에 이익되는 방향으로 가야
-</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/256/211125.jpg" alt="34534637.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;최근 한국 사회는 격동의 시기를 지나고 있다. 2024년 12월 3일 발생한 내란사태 이후, 우리 사회의 법치와 민주주의는 깊은 상처를 입었다. 그 충격은 사회 각계에 파장을 일으켰고, 여러 개혁의 물결이 다시금 거세게 일기 시작했다. 그 중심에는 검찰개혁이 자리하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;나는 이 개혁의 당위성에 깊이 공감하는 사람이다. 검찰 조직은 오랫동안 권력과 유착돼 정치적 중립성을 스스로 훼손했다. 이는 우리 사회의 공정성과 신뢰의 훼손으로 이어졌고, 그 중심에는 수사권 남용이라는 구조적 문제가 도사리고 있다. 따라서 이것을 개혁하고자 하는 것은 단순한 선택이 아니라 민주주의와 법치주의를 회복하기 위한 필연적 과제다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰을 향한 대중의 분노는 뜨겁다. 그 감정은 검찰 해체를 요구하는 주장으로까지 이어진다. 이해 못할 바가 아니다. 개혁을 주도하는 이들도 대중의 요구에 따라 검찰을 공중분해하고, 직접 수사권은 물론 검사의 보완 수사권 마저 박탈하자는 주장을 하고 있다. 한마디로 “검찰은 악”이라는 단순한 구호가 개혁의 주류가 되어가는 형국이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;나는 이 같은 흐름에 대해 한편 공감을 하면서도 다른 한편 깊은 우려를 표하지 않을 수 없다. 지금 이 시기에야말로 나는 이 같은 질문을 하지 않으면 안 된다고 생각한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“대중의 분노를 따르는 것이 지식인의 책무인가?”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;노암 촘스키는 지식인으로서 나의 표상이다. 그는 평생 권력의 거짓을 파헤치고, 진실을 말하는 지식인의 윤리를 실천해 온 인물이다. 그는 명확히 말한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“지식인의 책무는 진실을 말하고, 거짓을 폭로하는 것이다.”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;촘스키 정신은 나에게 ‘지식인이란 무엇인가’, ‘법률가란 무엇인가’라는 질문을 지속적으로 던진다. 그리고 지금, 나는 이 질문을 우리 사회 전체가 함께 고민해야 한다고 느낀다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;검찰개혁은 정의로운 방향으로 추진되어야 한다. 그러나 그것은 단지 ‘검찰을 응징하는 개혁’이어서는 안 된다. 검찰의 권력을 제한하는 목적은, 국민을 더 잘 보호하기 위한 제도적 전환이어야 한다. 그 과정에서 범죄로부터의 국민을 보호해야 하는 국가의 기능이 위축되지 않고 경찰의 수사권 남용을 적절히 통제할 수 있도록 지혜를 모아야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;만일 대중의 분노에만 기댄 개혁이 추진되고, 그에 대한 신중한 우려마저 ‘반개혁’으로 몰아붙인다면, 우리 사회는 결국 이념이 진실을 압도하는 위험한 경로로 나아가게 될 것이다. 나는 이것이 지식인, 특히 법률가가 드러내야 하는 진실이라고 본다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;오늘날 우리는 너무 많은 법률가들이 사유보다는 진영의 언어, 현실보다는 공허한 이상을 좇는 모습을 보고 있다. 지식인은 대중을 대신해 분노할 수 있지만 항상 그래서는 안 된다. 그중에서도 법률가는 대중을 대신해 냉정해져야 하며, 때로는 불편한 진실을 말할 용기를 가져야 한다. 그것이 지식인으로서의 법률가에 주어진 책무이자 존재 이유다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;진정한 개혁은 선동이 아니라 이성적 사유에서 출발해야 한다. 검찰개혁은 반드시 필요하지만, 그것은 전체 국민의 이익이 되는 방식과 내용으로 이뤄져야 한다. 그것이 정의이고, 공공선을 향한 책임 있는 개혁의 길이다.&lt;/p&gt;&lt;p&gt;나는 지금도 스스로에게 묻는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“지금 내가 말하는 것은 진실인가, 아니면 사람들이 듣고 싶어하는 분노인가?”&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;&lt;b&gt;박찬운 교수(한양대 로스쿨)&lt;/b&gt;&lt;/p&gt;&lt;hr style="height: 1px; background-color: #999999; border: none;" /&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-size: 14px;"&gt;박찬운 교수는 1987년 사법연수원을 16기로 수료한 후 변호사로 활동하며 대한변호사협회 인권위원회 부위원장, 민주사회를 위한 변호사모임(민변) 사무차장과 난민법률지원위원장, 서울지방변호사회 섭외이사 등을 맡았다.&amp;nbsp;&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-size: 14px;"&gt;2017년 경찰개혁위원회의 위원으로 참여해 경찰 수사권 독립을 위해 노력했고, 2020~2023년 국가인권위원회 상임위원으로 재임하면서 경찰의 인권침해를 조사하는 제1소위원회 위원장을 역임했다.&lt;/span&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 05 Sep 2025 20:50:01 -0000</pubDate>
-			<category>opinion</category>
-			<link>https://www.lawtimes.co.kr/opinion/211125</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/opinion/211125</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/256/211125.jpg</media:thumbnail>
-			<dc:creator>박찬운</dc:creator>
 		</item>
 		<item>
 			<title>이현곤의 생각대로 : (21) 검찰을 다시 생각한다 - 어떻게든 검찰 죽이겠단 개혁안
