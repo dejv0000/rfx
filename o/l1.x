@@ -6,7 +6,7 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 정청래 "대법관 증원, 법관평가제 등 법원조직법, 형사소송법 개정으로 사법제도 확립"</title>
+			<title>[속보] 정청래 "대법관 증원, 법관평가제…법원조직법 등 개정"</title>
 			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211259.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 09 Sep 2025 01:52:08 -0000</pubDate>
 			<category>news</category>
@@ -17,7 +17,7 @@
 		</item>
 		<item>
 			<title>한국상속신탁학회, '가족 개념의 변화와 신탁의 역할' 주제 세미나 개최</title>
-			<description>한국상속신탁학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;)은 9일 오후 5시 서울 강남구 삼성동 법무법인 트리니티 4층 안젤루스룸에서 '가족 개념의 변화와 신탁의 역할'을 주제로 세미나를 연다.&lt;br /&gt;&lt;br /&gt;현대사회에는 전통적인 가족의 개념이 급격히 변화하면서, 다양한 형태의 가족이 공존하고 있다. &lt;br /&gt;&lt;br /&gt;이번 세미나는 그 구성원의 지원과 재산의 보호 및 승계를 위한 법 제도로서 '신탁'의 역할과 그 한계를 살펴보는 자리로 마련됐다.&lt;br /&gt;&lt;br /&gt;발표는 최수정 서강대 로스쿨 교수가 맡는다.</description>
+			<description>한국상속신탁학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;)는 9일 오후 5시 서울 강남구 삼성동 법무법인 트리니티 4층 안젤루스룸에서 '가족 개념의 변화와 신탁의 역할'을 주제로 세미나를 연다.&lt;br /&gt;&lt;br /&gt;현대사회에는 전통적인 가족의 개념이 급격히 변화하면서, 다양한 형태의 가족이 공존하고 있다. &lt;br /&gt;&lt;br /&gt;이번 세미나는 그 구성원의 지원과 재산의 보호 및 승계를 위한 법 제도로서 '신탁'의 역할과 그 한계를 살펴보는 자리로 마련됐다.&lt;br /&gt;&lt;br /&gt;발표는 최수정 서강대 로스쿨 교수가 맡는다.</description>
 			<pubDate>Tue, 09 Sep 2025 01:38:52 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/211257</link>
