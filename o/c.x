@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] ‘한밤중 KT 소액 결제’ 불법 통신 장비 연결 발견, 조직적 해킹 가능성</title>
+      <link>https://www.chosun.com/national/incident/2025/09/09/QIV2OQQYWZEH7MDF2V2UYNWCDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/09/QIV2OQQYWZEH7MDF2V2UYNWCDI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 12:24:28 +0000</pubDate>
+      <content:encoded>한밤중 휴대전화 소액 결제로 수십만원이 빠져나가는 피해가 최근 KT 고객들 사이에서 동시다발적으로 발생해 경찰이 수사에 나섰다. KT는 피해자들의 휴대전화가 불법 통신 장비와 연결돼 해킹된 정황을 잡고 이를 경찰에 통보했다. 전문가들은 범죄 조직이 KT 기지국을 위장한 ‘이동식 사설 기지국’ 등을 구동해 피해자들의 휴대폰에 접근해 개인 정보를 빼낸 뒤 소액 결제를 했을 가능성을 제기하고 있다. 한국에서 이런 해킹 범죄가 발생한 건 처음이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, KT는 지난 8일 피해자들 휴대폰을 분석한 결과 외부의 해킹 공격 정황을 발견해 KISA(한국인터넷진흥원)에 신고한 것으로 전해졌다. KT는 이때 불법 통신 장비가 피해 고객들 단말기에 연결된 기록을 발견했다고 한다.&lt;br&gt;&lt;br&gt;범죄 조직이 이동식 기지국을 이용해 소액 결제에 필요한 개인 정보를 빼냈을 가능성이 크다고 경찰에선 의심한다. KT 기지국을 가장한 이동식 기지국을 피해 지역 인근에 설치한 다음, 이 기지국을 통해 통신 서비스를 이용한 KT 고객들의 정보를 빼냈다는 것이다. 실제 피해도 특정 통신사(KT)·지역(경기 광명, 서울 금천)·시간(새벽)에 집중됐다.&lt;br&gt;&lt;br&gt;허위 기지국을 동원하는 해킹 수법은 해외에서 심심찮게 발생하고 있다. 지난해 10월 영국 맨체스터에선 자체적으로 만든 통신 장비(안테나)를 이용해 인근 지역 수천 명에게 스미싱(문자메시지를 통한 피싱) 문자를 보낸 뒤 이를 통해 개인 정보를 빼내려 한 두 명이 검거됐다. 다만 이번 KT 고객 소액 결제 사건은 스미싱 문자를 보내는 수준을 넘어 가입자 정보를 빼내 소액 결제까지 하는 등 범행 수법이 고도화했다는 분석이 나온다. 경기남부경찰청 사이버수사대는 8일 기준 광명·금천 일대에서 접수된 피해 신고가 74건, 피해액은 4580만원이라고 8일 밝혔다. 9일에는 경기 부천에서도 400만원 이상의 피해 신고가 접수됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오른쪽 발에 깁스하고 운전하다 ‘인도 돌진’… 3명친 운전자 “페달 착각”</title>
+      <link>https://www.chosun.com/national/incident/2025/09/09/HETWCZQSQRAZLLT726AIG24Y2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/09/HETWCZQSQRAZLLT726AIG24Y2U/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 12:53:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6SNL7ZWLACAUAKL6N6YYZ2BXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 오후 4시 50분쯤 경기 화성시 영천동 한 사거리에서 인도로 돌진한 미니쿠퍼 차량./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성 동탄신도시에서 50대 여성이 발에 깁스를 한 채 운전하다 보행자 3명을 치는 사고가 발생했다. &lt;br&gt;&lt;br&gt;9일 경기소방재난본부 등에 따르면 전날 오후 4시 50분쯤 화성시 영천동 한 사거리에서 미니쿠퍼 차량 한 대가 인도로 돌진해 보행자 3명을 덮쳤다. 이 차량은 건널목에서 보행자 1명을 치고 이어 인도에 있던 보행자 2명을 쳤다. 차량은 인근 건물 1층 난간을 들이받고 나서야 멈춰 섰다.&lt;br&gt;&lt;br&gt;이 사고로 10대 여학생 2명과 50대 남성 등 3명이 다쳤다. 이 중 10대 여학생 한 명은 얼굴 부위를 크게 다쳐 수술받고 회복 중이며, 다른 두 명은 경미한 부상을 입고 병원에서 치료를 받고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;운전자는 50대 여성 A씨로 그는 운전 당시 오른쪽 발에 깁스를 한 채 운전했던 것으로 조사됐다. 경기 화성동탄경찰서는 교통사고처리 특례법 위반(치상) 혐의로 A씨를 형사 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;A씨는 경찰 에 “가속 페달과 감속 페달을 착각했다”는 취지로 진술한 것으로 전해졌다. 운전자는 술을 마시거나 약물을 복용한 상태는 아니었던 것으로 조사됐다. 경찰은 A씨가 운전 미숙으로 사고를 낸 것으로 보고 구체적인 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/J6SNL7ZWLACAUAKL6N6YYZ2BXU.jpg?auth=e9739a83c2d0f14eb1bf5da06e34369fde89c02edd18971b1c2783a5e7de09aa&amp;smart=true&amp;width=1021&amp;height=761" type="image/jpeg" height="761" width="1021">
+        <media:description type="plain">지난 8일 오후 4시 50분쯤 경기 화성시 영천동 한 사거리에서 인도로 돌진한 미니쿠퍼 차량./ 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘이춘재 사건 누명’ 故윤동일씨에 무죄 구형...“피고인께 사죄”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/09/EAJ2KDZ57JDFHOG7UT3G7UKBAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/EAJ2KDZ57JDFHOG7UT3G7UKBAM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 12:00:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G625A5WMYLVWKJ4CTCH7VKG6SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2020년 '이춘재 연쇄살인사건'의 재심이 열렸던 경기도 수원시 영통구 수원지방법원 501호 법정. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 화성 일대서 벌어진 ‘이춘재 연쇄살인 사건’ 중 9차 사건 용의자로 몰렸다가, 또 다른 성범죄 사건에 연루돼 징역형을 선고받은 고(故) 윤동일씨에 대한 재심 재판에서 검찰이 윤씨에게 무죄를 구형했다.&lt;br&gt;&lt;br&gt;9일 수원지법 형사15부(재판장 정윤섭)는 윤씨의 재심 재판 결심 공판을 열었다. 이날 최후 의견진술에 나선 검찰은 “오랜 시간 불명예를 안고 지낸 피고인과 그 가족에게 사죄드린다”며 “피고인에게 무죄를 선고해달라”고 했다.&lt;br&gt;&lt;br&gt;검찰은 “이 사건 공소사실에 대해 유죄 증거는 수사기관에서 피고인의 자백과 피해자의 진술인데 피고인 수사 당시 경찰의 가혹행위는 불법임이 확인됐고, 피해자는 피고인이 범인과 체격이 달라 당시에도 범인이 아니었다고 생각했다고 진술했다”며 “과거 피해자 진술 확보 과정에서 적법 절차가 준수됐다고 보기 어렵고 피고인 범인으로 특정할 증거도 부족하다”고 했다.&lt;br&gt;&lt;br&gt;윤동일 씨 변호인인 김칠준 변호사는 “재심이어도 검찰이 무죄를 구형하는 것은 상당한 용기가 필요한데 검찰이 무죄를 구형한 것에 대해 감사하고 감회가 새롭다”며 “오래된 사건이라 피고인에게 혐의가 없다는 것이 밝혀졌지만 검찰이 당시 역할을 왜 못했는지, 법원은 이를 왜 걸러내지 못했나 하는 부분은 여전히 미완의 과제”라고 했다.&lt;br&gt;&lt;br&gt;박준영 변호사는 “35년 전 수사기관은 심증만으로 피고인을 이춘재 사건 9차 범인으로 피고인을 몰았고, 그를 구속하고자 피해자의 진술을 왜곡하고 피고인의 서명 날인을 강요했다”며 “피고인이 출소 후에도 형사들이 집과 직장을 수시 방문하기도 하고 주변인을 통해 동향을 파악하기도 했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TY3CABHTVJRYGRVQRWSM7LFE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤씨는 1991년 강제추행치상 혐의로 기소돼 그해 4월 23일 수원지법에서 징역 2년 6개월에 집행유예 3년을 선고받았다. 윤씨는 판결에 불복해 상소했으나 모두 기각돼 1992년 1심 판결이 확정됐다.&lt;br&gt;&lt;br&gt;윤씨가 이 혐의로 입건된 당시, 그는 이춘재 살인사건 9차 사건의 용의자로 몰렸었다. 다행히 9차 사건 피해자의 교복에서 나온 체액과 윤씨의 혈액 감정 결과, 일치하지 않는 것으로 나오면서 그는 살인 혐의를 벗었다.&lt;br&gt;&lt;br&gt;윤씨 측은 당시 수사기관이 이춘재 사건과는 별개로, 강제추행치상 혐의 사건을 조작해 기소한 것이라고 주장했다. 윤씨는 이 사건으로 수개월간 옥살이를 해야 했으며, 집행유예 선고로 출소한 이후 암 판정을 받았다. 그는 결국 만 26세이던 1997년 사망했다.&lt;br&gt;&lt;br&gt;이 사건을 조사한 진실·화해를 위한 과거사정리위원회는 2022년 12월 “경찰의 수사 과정에서 피해자에 대한 불법체포·가혹행위·자백 강요·증거 조작 및 은폐 등 불법적인 행위가 있었다는 점을 확인했다”고 밝혔고, 법원은 작년 7월 재심 결정을 내렸다.&lt;br&gt;&lt;br&gt;재심 선고는 10월 30일 오후 2시에 진행된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조태용, 尹 전화 받고서 홍장원에게 사직 요구 정황</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/09/C5OFNRCKYNHYDLRETD6ZNRP2KM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/C5OFNRCKYNHYDLRETD6ZNRP2KM/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 10:40:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTSRTKAHRBIXNNBKLZWY3Y5IOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍장원(왼쪽) 전 국가정보원 1차장이 지난 1월 22일 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사 특별위원회 1차 청문회에 출석해 자리하고 있다. 오른쪽은 조태용 전 국가정보원장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란특검팀이 조태용 전 국가정보원장이 12·3 비상계엄 해제 이튿날 윤석열 전 대통령의 전화를 받고 홍장원 전 국정원 1차장에게 사표를 내라고 한 정황을 포착한 것으로 9일 전해졌다. 특검은 조만간 조 전 원장을 피의자 신분으로 불러 조사할 계획이다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검은 최근 조 전 원장의 비화폰 통화 기록을 분석하면서, 조 전 원장이 작년 12월 5일 윤 전 대통령과 통화한 후 홍 전 자창을 원장 집무실로 불러 사직을 요구했다고 보고 수사 중인 것으로 알려졌다. 특검은 홍 전 차장으로부터 “당시 조 원장에게서 ‘인사권자(대통령)의 결정’이라고 들었다”는 진술도 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령에게 경질 지시를 받은 적 없다던 조 전 원장의 국회, 헌법재판소 등에서의 증언이 위증이라고 보고 수사 중이다. 조 전 원장은 작년 12월 7일 국회에서 기자들에게 홍 차장 경질 사유와 관련해 “(계엄 해제 뒤인) 4일 오후에 1차장이 ‘안보가 중요한데, 초당적 단합이 중요하니 (원장이) 이재명 대표에게 전화를 걸어 설명하는 게 어떠냐’고 얘기했다”며 “그건 정치적 중립에 어긋나므로 할 수 없고, 정치적 중립 면에서 1차장이 적절치 않다 생각해서 5일에 대통령에게 교체를 건의했다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;한편 조 전 원장은 윤 전 대통령 탄핵 심판에서 계엄 당일 윤 전 대통령으로부터 계엄 관련 지시나 문건을 받은 적이 없다고 증언했는데, 특검은 이 증언도 허위였던 것으로 의심하고 있다. 특검은 조 전 원장이 계엄 당일 대통령 집무실을 나가면서 계엄 관련 문건을 두 번 접어 양복 주머니에 넣는 모습이 담긴 CCTV 영상을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>文 ‘뇌물 혐의’ 재판 서울에서 진행…국민참여재판은 11월에 결정</title>
       <link>https://www.chosun.com/national/court_law/2025/09/09/U4ZATQ6HBJEXTANS3PB7NZPHNA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/U4ZATQ6HBJEXTANS3PB7NZPHNA/</guid>
@@ -866,15 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZLYPVAXQRHADNILV3TBAEL6AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여에스더(왼쪽)와 홍혜걸 부부. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의학전문기자 출신 방송인 홍혜걸이 아내이자 가정의학과 전문의인 여에스더가 중증 우울증을 앓고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;홍혜걸은 지난 5일 유튜브 채널 ‘여에스더의 에스더TV’를 통해 여에스더가 쾌감을 느끼지 못하는 무쾌감증(anhedonia·안헤도니아) 증상을 겪고 있다고 말했다.&lt;br&gt;&lt;br&gt;홍혜걸은 “사실 안헤도니아 타입의 우울증은 중증 우울증이다. 치료를 위해 지금까지 안 해본 것이 없다”며 “미국 식품의약국(FDA)에서 공인한 스프라바토(spravato)까지 다 해 봤다. 약물도 거의 모든 약물을 다 두루 시도해봤다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “우리 집사람이 조금이라도 행복을 느끼고 에너지를 부추길 수 있는 그런 상황이 와야 하는데 지금 아내에겐 즐거운 게 없다”며 “영화를 봐도 재미없고 맛있는 거 먹는 것도 재미없고 여행도 재미없고 쇼핑도 재미없어한다. 어제는 며느리, 아들과 밥을 먹기로 했는데 약속 두 시간 전쯤 아무 데도 가기 싫다고 해 취소했다”고 말했다.&lt;br&gt;&lt;br&gt;다만 그는 “(아내가) 옛날에는 자꾸 엉뚱한 생각을 했는데, 옛날처럼 나쁜 충동이 줄어든 것만으로 고맙다”며 “우울증을 잘 치료해서 여행도 가고 쇼핑도 하고 함께 맛집도 가면 좋을 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;홍혜걸은 지난 7일 페이스북을 통해 “집사람과 연락이 닿지 않아 서운해하는 분들이 있다”며 “우울증이란 질병 탓으로 생각해주길 빈다”고 했다. 그는 “간단한 한 줄 답장조차 매우 힘든 의무가 되어 괴로워한다”며 “가끔 유튜브나 홈쇼핑에 나오는 건 회사와 직원을 위한 CEO로서 최소한의 업무이고, 한번 방송하면 일주일 내내 방에서 잠옷 차림으로 누워 지낸다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인권위 김용원 “美 조지아 공장 한국인 강제 수감, 심각한 인권침해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/08/Q5I22D2BBNH2TPBHNJPMNCVS2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/08/Q5I22D2BBNH2TPBHNJPMNCVS2A/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 09:30:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SUDMGF7BTJGTJJZY6MMKCHZJNE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;미국 이민세관단속국(ICE)가 5일 홈페이지에 공개한 현대차·LG에너지솔루션 합작 배터리 공장 단속 현장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 조지아주 현대차·LG에너지솔루션 합작 배터리 공장에서 한국인 근로자 300여 명이 불법 체류 혐의로 구금된 사건과 관련해 국가인권위원회 상임위원이 “심각한 인권침해”라고 비판했다.&lt;br&gt;&lt;br&gt;김용원 인권위 상임위원은 8일 서울 중구 인권위 청사에서 열린 제17차 전원위원회에서 “미국의 현행범 체포와 강제 수감 방식은 우리나라 인권 기준으로 볼 때 굉장한 인권침해”라고 주장했다.&lt;br&gt;&lt;br&gt;그는 “인권위가 외교부 장관에게 사태의 심각성과 자국민 인권 침해 수준을 알리고, 재발 방지를 위한 대책을 권고할 필요가 있다”며 “미국 당국에 대해서는 비자 발급 제도 개선을 요구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “구금 근로자들을 귀국시키는 방식으로 문제를 종결하기로 한 것은 사실상 미국 이민 당국의 추방을 적극적으로 돕는 합의”라고 비판했다. 이는 미 당국이 추진하는 ‘추방 조치’에 한국 정부가 일방적으로 협력하는 모양새라는 주장이다.&lt;br&gt;&lt;br&gt;다만 김 위원의 발언은 추가 논의로 이어지지 않았고, 이날 전원위에서는 △인권 친화적 학교 조성 정책 권고 △장애인 선거 편의 제공 미흡 진정 사건 안건 등이 의결됐다.&lt;br&gt;&lt;br&gt;앞서 지난 4일(현지 시각) 미국 이민세관단속국(ICE)은 조지아주 서배너 합작 공장에서 불법 체류 혐의로 475명을 체포했으며, 이 가운데 300여 명이 한국인으로 확인됐다. 구금된 한국인들은 즉각 추방 또는 장기 재판을 선택하라는 통보를 받았고, 오는 10일 전원 송환될 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, ‘비서관 자녀 학폭 무마 의혹’ 수사한다</title>
       <link>https://www.chosun.com/national/court_law/2025/09/08/X2TFGL6UGRBDDO227BWXYINRCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/08/X2TFGL6UGRBDDO227BWXYINRCA/</guid>
@@ -882,24 +913,6 @@
       <description/>
       <pubDate>Mon, 08 Sep 2025 09:09:22 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IDXF345GZCHRERR4IEVE4A2X4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 김승희 전 의전비서관의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 김승희 전 대통령실 의전비서관의 자녀 학교폭력 무마 의혹을 수사하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 특검은 최근 경기 성남교육지원청으로부터 김 전 비서관 자녀의 학교폭력대책심의위원회 관련 자료를 확보한 것으로 전해졌다. 제출한 자료에는 회의록과 학폭위원들의 논의 내용을 녹음한 파일도 포함됐다.&lt;br&gt;&lt;br&gt;김 전 비서관의 자녀는 초등학교 3학년이었던 2023년 7월 10일과 17일 학교 화장실에서 두 차례 같은 학교 2학년 학생을 리코더와 주먹 등으로 여러 차례 때려 전치 9주의 상해를 입혔다. 학교장은 7월 19일 김 전 비서관의 자녀에 대한 출석 정지 처분과 학급 교체 처분 등을 내렸지만 강제 전학 조치는 내리지 않았다. 당시 더불어민주당은 김영호 의원은 “가해 학생에 대한 출석 정지 처분이 내려진 날, 김 비서관 아내의 카카오톡 프로필(사진)이 남편과 대통령이 함께 있는 사진으로 교체됐다”며 “대통령 측근의 위세를 과시하는 것은 매우 부적절한 태도”라고 비판했다. &lt;br&gt;&lt;br&gt;이러한 가운데 최근 김 여사가 2023년 7월 20일 장상윤 당시 교육부 차관과 8분여간 통화한 사실이 언론 보도를 통해 알려지며 논란이 일었다. 김 여사가 장 전 차관과 통화한 날짜는 김 전 비서관의 자녀에게 출석정지 처분이 내려진 다음 날이다.&lt;br&gt;&lt;br&gt;김 비서관은 행사·전시 기획 업체를 운영하다가 20대 대선 때 윤석열 전 대통령 캠프에 합류해 홍보 기획 업무를 맡았다. 김 여사와는 2009년 고려대 언론대학원 최고위 과정을 함께 다니며 친분을 쌓은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 서구, 전국 자치구 중 인구수 1위…서울 송파구 넘어서</title>
-      <link>https://www.chosun.com/national/regional/2025/09/08/ET2PLAUWM5EFXAYS7SCHLU3SME/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/08/ET2PLAUWM5EFXAYS7SCHLU3SME/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 08:32:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCBUCGPBI5FMZF52DSSU7XGYMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시 서구 전경./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구가 전국 69개 특·광역시 자치구 가운데 인구가 가장 많은 지역이 됐다. &lt;br&gt;&lt;br&gt;인천 서구는 지난 8월 기준 주민등록 인구 수가 64만6703명을 기록해 전국 특·광역시 자치구 중 인구수 1위에 올랐다고 8일 밝혔다. 직전까지 1위였던 서울 송파구는 8월 기준 64만5953명으로 2위였다. &lt;br&gt;&lt;br&gt;1988년 1월 인천 북구에서 분구돼 12개 법정동, 15만4000명의 인구로 출범한 서구는 청라, 검단, 루원시티 등 대규모 도시 개발로 2015년 50만명을, 2023년 60만명을 각각 돌파하는 등 인구가 꾸준히 증가했다. &lt;br&gt;&lt;br&gt;서구 관계자는 “전국 특·광역시 자치구 가운데 인천 서구 인구가 가장 많다는 건 도시 성장성과 주거 매력도가 그만큼 높은 것으로 해석할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;서구는 전국 특·광역시 자치구 인구수 1위를 기념하기 위해 오는 21일까지 2주간 블로그 등 서구 공식 온라인 SNS에서 ‘퀴즈 이벤트’를 진행한다. 서구는 추첨을 통해 1만원 상당의 네이버페이와 5000원 상당의 커피 쿠폰 등을 총 300명에게 전달할 예정이다. &lt;br&gt;&lt;br&gt;서구는 내년 7월 예정된 인천 행정체제 개편에 따라 서구와 검단구로 나뉘게 된다. 분구 시 서구 인구는 39만명, 검단구 인구는 26만명 규모가 될 것으로 예상되고 있다. &lt;br&gt;&lt;br&gt;한편, 8월 기준 인구가 가장 많은 기초자치단체는 경기도 수원시로 118만9487명이 살고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹측, 내란 재판부에 특검법 위헌심판 제청 신청</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/08/I7RK6ET2CNBIPMCJFRMMATQY64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/08/I7RK6ET2CNBIPMCJFRMMATQY64/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 08:13:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDL5XDIULVRFUQD4KSVZ4XQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 7월 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란특검 ‘계엄 해제 표결 방해’ 의혹 연루 국민의힘 의원에 “공판 전 증인신문 청구 검토”</title>
@@ -938,15 +951,6 @@
       <description/>
       <pubDate>Mon, 08 Sep 2025 01:29:29 +0000</pubDate>
       <content:encoded>고려대학교는 공인회계사(CPA) 최종 합격자 수에서 10년 연속 전국 1위를 달성했다고 밝혔다. 올해 수석 합격자와 최연소 합격자 모두 고려대 학생이다. &lt;br&gt;&lt;br&gt;고려대에 따르면, 2025년 CPA 시험에서 고려대 학생 170명이 최종 합격했다. 고려대 측은 “2023년 이후 공식 통계는 공개되지 않지만, 회계법인과 각 대학 집계를 종합한 결과 고려대가 최다 합격자를 배출한 것으로 확인됐다”고 밝혔다. &lt;br&gt;&lt;br&gt;고려대는 2016년 이후 10년째 CPA 시험에서 가장 많은 합격자를 배출하고 있다. 고려대 합격자 수는 ▲2016년 118명 ▲2017년 97명 ▲2018년 114명 ▲2019년 109명 ▲2020년 127명 ▲2021년 152명 ▲2022년 175명 등이다. 올해까지 누적 합격자가 1400명을 넘었다. &lt;br&gt;&lt;br&gt;이런 성과는 대학의 체계적인 교육 프로그램과 지원 제도 덕분이라고 고려대 측은 밝혔다. 예컨대, 경영대학의 CPA 시험 준비반 ‘정진초(精進礎)’는 2023학년도부터 다른 학과 학생들에게도 개방해 다양한 고려대 학생들이 CPA를 공부할 수 있는 기반을 닦았다. 이 밖에도 학습 공간, 강의 수강료, 모의고사 등을 지원하고, 온라인 커뮤니티와 선배 멘토링 제도도 운영한다. &lt;br&gt;&lt;br&gt;고려대 관계자는 “10년 연속 CPA 합격자 최다 배출이라는 성과는 학생들의 열정과 교수진의 헌신, 그리고 학교의 체계적 지원이 함께 이룬 결실”이라면서 “앞으로도 국내를 넘어 글로벌 무대에서 활약할 회계 전문가 양성에 힘쓰겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QKLCJ2VYBALNEJLTRGUMX65ZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 ‘교통 지옥’ 서부간선 평면화 보류…“도로 추가해 용량 늘릴 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/08/HAKYFO3TZZAC5GGIQUCBBBUQUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/08/HAKYFO3TZZAC5GGIQUCBBBUQUI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 01:19:27 +0000</pubDate>
-      <content:encoded>서울시가 자동차 전용도로인 서부간선도로를 신호가 있는 일반 도로로 만드는 공사를 잠정 중단하기로 했다. ‘안 그래도 막히는 도로가 더 막힌다’는 등 시민들의 불만이 나오자 이를 받아들인 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5SOETYF3ZNEDN5TKX2PVHNHAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 15일 오후 서울 서부간선도로 오목교 지하차도의 모습. 차량 통행이 중단돼 주변 도로가 정체를 빚고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 8일 서부간선도로를 평면화하는 대신 도로 용량을 확대한다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울시는 2013년 서부간선도로를 교차로와 신호등이 있는 일반 도로로 바꾸기로 했다. 차로 수를 줄여 공원을 만들고 자동차 전용도로 때문에 단절된 도시를 연결하겠다는 구상이었다.&lt;br&gt;&lt;br&gt;지난 6월 오목교 구간의 일부 차로를 폐쇄하자 이 일대는 들어오는 차량과 직진 차량 등이 뒤엉켜 혼잡이 일었다. 온라인 커뮤니티에는 “근처 안양천로까지 꽉 막힌다” “원래도 막히는 길을 왜 공사를 해서 더 막히게 하느냐” 등의 불만이 잇따라 올라왔다.&lt;br&gt;&lt;br&gt;이에 서울시는 공사를 전면 보류하기로 했다. 현재 진행 중인 오목교 구간의 공사는 즉시 중단하고, 지하차도를 원상 복구한다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “대체 도로가 부족한 상황에서 교통 불편 등을 우려하는 시민들의 의견을 수용했다”고 말했다.&lt;br&gt;&lt;br&gt;공사를 추진할지는 현재 정부가 짓고 있는 ‘서울광명고속도로’ 완공 이후 재검토한다. 대체 도로가 추가로 생겨 교통량이 분산될 때까지 기다리겠다는 것이다.&lt;br&gt;&lt;br&gt;한편 현재 4차로인 구간은 도로 가운데 중앙 분리대를 줄여 1개 차로를 늘린다. 늘린 차로는 교통 정체가 심한 출퇴근 시간대 교통량에 따라 가변 차로로 운영하는 방안을 검토한다.&lt;br&gt;&lt;br&gt;서부간선도로로 단절된 서울 서남부의 동서를 연결하는 작업도 계속한다. 인근 주민들이 안양천으로 쉽게 접근할 수 있도록 보행 육교를 설치하거나, 덮개 공원을 조성하는 등 방안을 모색한다.&lt;br&gt;&lt;br&gt;한병용 서울시 재난안전실장은 “교통 문제와 지역 단절 해소라는 두 가지 과제를 고려해 모두를 위한 정책을 단계적으로 추진하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
