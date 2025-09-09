@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>文 ‘뇌물 혐의’ 재판 서울에서 진행…국민참여재판은 11월에 결정</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/09/U4ZATQ6HBJEXTANS3PB7NZPHNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/U4ZATQ6HBJEXTANS3PB7NZPHNA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 09:57:06 +0000</pubDate>
+      <content:encoded>문재인 전 대통령의 뇌물 혐의 재판이 서울중앙지법에서 계속 진행된다. 국민참여재판 진행 여부는 오는 11월 말 결정될 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25Y2UMRLZZTKPUHCGVNBQ5DYNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문재인 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 이현복)는 9일 뇌물 등 혐의로 기소된 문 전 대통령과 이상직 전 더불어민주당 의원의 2차 공판 준비기일을 열었다. 준비기일에는 피고인 출석 의무가 없어 문 전 대통령은 지난 기일에 이어 이날도 법정에 나오지 않았다. 이 전 의원은 푸른 수의를 입고 법정에 출석했다. &lt;br&gt;&lt;br&gt;재판부는 이날 울산지법에서 재판을 받게 해달라는 문 전 대통령 측의 관할 이송 요청을 재차 기각했다. 재판부는 “피고인 측에서 이송을 요청하는 이유를 이해하지 못하는 것은 아니지만, 종전에 이송을 허가하지 않았을 때와 사정 변경 사유가 없다”고 설명했다. &lt;br&gt;&lt;br&gt;앞서 문 전 대통령과 이 전 의원은 각각 거주지를 이유로 울산지법과 전주지법으로 사건을 이송해달라고 요청했지만, 재판부는 지난 첫 준비기일 때 “울산지법의 설비 문제와 언론 접근성, 신청 목적의 실효성 등을 고려했을 때 이 법원에서 재판하는 것이 타당하다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;한편 재판부는 오는 11월 25일 준비기일을 한 차례 더 열고 증거 선별 절차를 진행한 뒤, 국민참여재판 진행 여부를 결정하기로 했다. 문 전 대통령과 이 전 의원 모두 국민참여재판을 희망한다는 의사를 밝힌 바 있다.&lt;br&gt;&lt;br&gt;문 전 대통령 측의 국민참여재판 신청과 관련해 검찰은 지난 2일 “피고인 측이 증거 상당 부분에 동의하고 증인 신문에 필요한 인원이 소규모로 특정되면 수용할 의사가 있다”는 의견서를 법원에 제출했다.&lt;br&gt;&lt;br&gt;이에 문 전 대통령 측은 “검찰은 경위 사실을 입증한다면서 전체 증거의 40％나 냈다”며 “증거를 트럭으로 쏟아부은 뒤 진을 다 빼서 유무죄로 처벌받는 게 아니라 재판받으며 처벌받게 하고 있다”고 반박했다. 검찰이 공소사실과 직접 관련이 없는 증거까지 과도하게 신청했다는 취지다. &lt;br&gt;&lt;br&gt;이에 재판부는 오는 10월 21일까지 ‘증거 입증 취지를 다시 정리하고 공소 사실별로 분류해 제출하라’고 검찰에 명령했다. 또 문 전 대통령 측에는 검찰이 수정해 제출할 증거 목록에 대한 의견을 11월 11일까지 제출하도록 했다.&lt;br&gt;&lt;br&gt;재판부는 “오는 3차 준비 기일에 증거 선별 절차가 예상대로 잘 이뤄져 증인 신문이 7~8명으로 압축될 수 있으면 참여 재판을 진행하는 방향으로 적극 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 재판부는 문 전 대통령 측이 방어권 보장을 위해 대통령기록물 열람·복사를 허용해 달라는 요청을 받아들였다. 단, 대표 변호인 3명의 서약서 제출과 사본 반환을 조건으로 붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조지호 “세 차례 항명으로 조속한 계엄 해제 기여”…국회 측 “분노가 든다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/09/Z4C3C3YNHRH2FMCXSN7XLYXBHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/Z4C3C3YNHRH2FMCXSN7XLYXBHU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 09:56:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SACMHFBEFJJNOHQDLVHQEQVH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서울 종로구 헌법재판소 대심판정에서 열린 조지호 경찰청장 탄핵심판 사건 첫 변론기일에 조 청장을 비롯해 피청구인 측 대리인들이 자리하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄에 가담한 의혹으로 탄핵소추된 조지호 경찰청장 측이 9일 탄핵심판에서 “세 차례 항명하는 등 국회의 계엄 해제 의결에 기여했다”고 주장했다. 국회 측은 “견강부회식 주장에 분노의 감정까지 든다”고 했다.&lt;br&gt;&lt;br&gt;이날 헌법재판소 대심판정에서 열린 탄핵심판 첫 변론기일에서 조 청장 측 대리인은 “조 청장은 비상계엄이라는 초유의 사태를 맞아 대통령 개인에 대한 충성보다 민주주의 수호를 생각해 사직을 각오한 항명을 하고, 그 와중에 치안 유지를 위해 고뇌하고 갈등한 끝에 최선의 노력을 다했다”며 “본인의 역사적 실수에 변명할 생각이 없으나 반민주적인 사건에 경찰이 엮였다는 오해가 없기를 희망하고 있다”고 했다.&lt;br&gt;&lt;br&gt;조 청장 측은 비상계엄 선포 직전 삼청동 안가에서 윤석열 전 대통령과 김용현 전 국방부 장관으로부터 일방적으로 비상계엄 선포를 통보받고도 공관으로 복귀해 휴식을 취한 것, 결정적인 순간에 국회 통제를 풀었고 통제하던 순간에도 월담을 방치한 것, 여인형 방첩사령관으로부터 안보수사관 100명 지원과 주요 정치인 체포를 위한 위치정보 확인요구 등을 받았으나 이를 묵살한 것 등을 세 차례 항명의 순간이라고 주장했다. &lt;br&gt;&lt;br&gt;그러면서 “윤 전 대통령이 ‘덕분에 일찍 끝났다’는 조롱기 있는 섭섭함을 표현한 것은 조 청장이 조속한 계엄 해제에 기여한 것을 아이러니하게 인정하는 것”이라고 했다. 이어 “계엄은 3시간 동안 벌어진 사건으로 조 청장이 급박한 상황에서 ‘명백한 위헌’이라고 판단하지는 못했다”면서도 “헌재도 계엄의 위험성 판단(윤석열 전 대통령 탄핵심판)에 3개월이 걸렸는데, 비법률가인 조 청장에게 너무 높은 수준의 법률 판단을 기대하는 것 아니냐”고 했다. 조 청장 측은 “조 청장이 세 번 항명할 동안 다른 관계부처는 뭘 했느냐”며 “사실상 다들 계엄을 옹호했다”고도 했다. &lt;br&gt;&lt;br&gt;이에 국회 측 대리인은 “계엄 해제 결의는 국회의원과 시민, 보좌관이 월담까지 해서 이뤄낸 것인데 마치 조 청장이 소극적으로 혹은 용인해서 발생한 일인듯 견강부회식으로 주장하는 것에 분노의 감정마저 든다”고 반박했다.&lt;br&gt;&lt;br&gt;이날 변론에는 조 청장이 직접 출석해 발언했다. 조 청장은 “국회 경내에 다수 시민들이 모이는 상황이었고 이해관계를 달리 하는 시민들이 충돌한다든지 하는 경우 반드시 막아야 했다”며 “기본적으로 국회를 경비할 수밖에 없는 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;중앙선거관리위원회 청사 등에 경찰 인력을 배치한 것에 대해서도 “선관위(관련 건물) 세 군데 계엄군이 간다는 얘기를 전해듣고 돌발 사태가 발생할 수 있다고 판단했다”며 “아무것도 지시하지 않는 것은 안 된다고 생각해 경기남부경찰청에 우발 사태에 대비하라고 지시한 것”이라고 했다. &lt;br&gt;&lt;br&gt;조 청장은 지난해 12·3 비상계엄 당시 윤 전 대통령 등의 내란 행위에 가담했다는 이유로 12월 12일 탄핵소추됐다. 다음 변론기일은 오는 30일 오후 3시다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>美 구금된 한국인 태울 전세기 내일 출발… 비용은 LG엔솔 부담</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/09/OCMTZB3AHNARDIAIOYYBRHCARI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/OCMTZB3AHNARDIAIOYYBRHCARI/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 08:45:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCA7GATBPTB3XTHXMENFJPHSFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 이민세관단속국(ICE·U.S. Immigration and Customs Enforcement)이 지난 4일 조지아주 내 현대자동차그룹과 LG에너지솔루션 합작 배터리 공장 건설 현장의 한국인 직원 300여 명을 기습 단속·구금하는 영상을 공개했다./ICE 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 조지아주 현대차그룹-LG에너지솔루션 배터리 합작 공장 건설 현장에서 구금된 한국인 300여 명을 태울 전세기가 이르면 오는 10일 현지로 출발한다.&lt;br&gt;&lt;br&gt;9일 외교부와 항공업계에 따르면 대한항공은 다음 날 오전 인천국제공항에서 조지아주 하츠필드-잭슨 애틀랜타 국제공항행 전세기를 띄울 예정이다. 기종은 B747-8i로 낙점됐다. 평소 미주 등 장거리 노선에 투입되는 여객기로 368석을 갖췄다. 구금된 한국인 300여 명이 한 번에 탑승할 수 있는 규모다.&lt;br&gt;&lt;br&gt;한국에서 미국으로 향할 땐 빈 기체로 비행하고 한국인들을 태우고 돌아오는 편은 현지 시각으로 10일 늦은 오후 애틀랜타 공항에서 떠날 것으로 보인다.&lt;br&gt;&lt;br&gt;전세기 왕복 운항 비용은 LG에너지솔루션 측에서 부담하는 것으로 알려졌다. 외교부 관계자는 조선닷컴에 “10일 오전 미국행 출발을 목표로 하고 있다”며 “필요한 비용은 관련 기업 측에서 부담할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 미국 이민 당국은 지난 4일 조지아주의 현대차그룹-LG에너지솔루션 배터리 합작 공장 건설 현장에서 불법 체류자 단속을 벌였다. 이 과정에서 한국인 300여 명을 비롯해 475명을 체포했다. 이번에 구금된 한국인들은 전문직·투자자 비자 대신 전자여행허가제(ESTA)나 단기 방문(B1) 비자를 소지한 채 현지에서 일하다 단속 대상이 됐다. &lt;br&gt;&lt;br&gt;석방된 한국인들은 우선 조지아주 남부 포크스톤의 이민세관단속국(ICE) 구금 시설에서 차로 약 4시간 30분 거리(428㎞) 떨어진 애틀랜타 공항으로 이동한 뒤 전세기에 탑승할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건진법사, 희림-국세청장-윤한홍 만남 주선했다...세무조사 무마 의혹</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/09/C2S2I5U4M5C4PNFUNKPI32UEFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/C2S2I5U4M5C4PNFUNKPI32UEFU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 09:00:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6HQEIYPDRUBP2DDVDMRSEHMGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배 씨가 지난달 21일 서울 종로구에 마련된 민중기 특별검사팀 사무실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨의 각종 청탁 의혹을 수사 중인 민중기 특별검사팀이 희림건축이 김창기 전 국세청장에게 세무조사 관련 청탁을 한 정황을 포착한 것으로 9일 알려졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면 특검은 전씨의 공소장에 전성배씨가 희림 측 인사와 김창기 전 국세청장, 윤한홍 국민의힘 의원의 만남을 주선했다는 내용을 적시했다고 한다. 윤 의원은 소위 ‘윤핵관’으로 분류되는 친윤계 핵심 실세다. 김창기 전 청장은 2022년 6월부터 2024년 7월까지 윤석열 정부 초대 국세청장을 지냈다. 현재는 퇴직한 상태다.&lt;br&gt;&lt;br&gt;지난 8일 특검은 전씨를 재판에 넘기면서 전씨가 2022년 7월부터 2025년 1월까지 희림건축에 대한 세무조사, 형사고발 사건을 무마해주겠다며 합계 4500만원 상당의 금품과 이익을 수수했다고 설명했다. 당시엔 세무조사를 어떻게 무마했는지 등은 밝히지 않았는데, 이 과정에 국세청 수장과 현역 국회의원이 개입했다는 사실이 추가로 드러난 것이다.&lt;br&gt;&lt;br&gt;다만 이 같은 논란에 대해 윤 의원 측은 “희림 관련자 또는 관계자와 식사 자리뿐만 아니라 어떠한 자리에도 동석한 적이 없다”며 “희림과 관련된 대화도 나눈 적 없다”고 부인했다.&lt;br&gt;&lt;br&gt;희림은 김건희 여사가 운영했던 전시 기획사 코바나콘텐츠의 후원사로 알려진 업체다. 앞서 윤석열 전 대통령이 취임 후 용산 대통령실 집무실 관저 이전 과정에서 김 여사와의 친분을 이용해 리모델링 공사 수의계약을 따냈다는 의혹을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광명서 초등학생 납치하려던 고등학생...경찰, 구속영장 신청 예정</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/09/XYFM5EDOB5HO5KX5Y6QOCMG4CY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/XYFM5EDOB5HO5KX5Y6QOCMG4CY/</guid>
+      <dc:creator>광명=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Sep 2025 08:27:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFS7N7YOXVEIBI4TRER2YPDH6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광명경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명에서 초등학생을 납치하려고 한 고등학생이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;광명경찰서는 9일 성폭력범죄의 처벌 등에 관한 특례법 위반(13세 미만 미성년자에 대한 강간·강제추행 등 미수) 혐의로 고등학생 A(10대)군에 대해 이날 중 구속영장을 신청할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;A군은 전날 오후 4시 20분쯤 광명시의 한 아파트에서 초등학교 저학년생인 B양을 납치하려고 한 혐의를 받고 있다. 그는 B양을 따라가 엘리베이터 같은 층에서 내린 뒤 목을 조르며 이 같은 범행을 저지른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A군은 수초간 강압적인 행위를 이어가다가 B양이 큰 소리로 울며 저항하자 건물 밖으로 도망쳤다.&lt;br&gt;&lt;br&gt;이후 B양은 자신의 부모에게 피해 사실을 알렸고, 부모가 엘리베이터 내 CCTV를 확인한 뒤 같은 날 오후 6시 55분쯤 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 A군의 신원을 확인한 후 오후 9시 45분쯤 자택에 있는 A군을 긴급체포했다. &lt;br&gt;&lt;br&gt;A군은 경찰 조사에서 “B양에게 성범죄를 저지를 목적으로 범행을 했다”는 취지로 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A군은 B양과 평소 안면이 있는 사이는 아니며 우발적 범행이었다고 주장하고 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘美 스탠퍼드 최초 한국인 테뉴어‘ 황승진 교수 “대한민국 AI 둘러싼 환경 바뀌어야”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/09/ITK6OEGGWJBMTKYWQLDDKJGDFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/ITK6OEGGWJBMTKYWQLDDKJGDFY/</guid>
@@ -839,33 +884,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IDXF345GZCHRERR4IEVE4A2X4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 김승희 전 의전비서관의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 김승희 전 대통령실 의전비서관의 자녀 학교폭력 무마 의혹을 수사하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;8일 법조계에 따르면 특검은 최근 경기 성남교육지원청으로부터 김 전 비서관 자녀의 학교폭력대책심의위원회 관련 자료를 확보한 것으로 전해졌다. 제출한 자료에는 회의록과 학폭위원들의 논의 내용을 녹음한 파일도 포함됐다.&lt;br&gt;&lt;br&gt;김 전 비서관의 자녀는 초등학교 3학년이었던 2023년 7월 10일과 17일 학교 화장실에서 두 차례 같은 학교 2학년 학생을 리코더와 주먹 등으로 여러 차례 때려 전치 9주의 상해를 입혔다. 학교장은 7월 19일 김 전 비서관의 자녀에 대한 출석 정지 처분과 학급 교체 처분 등을 내렸지만 강제 전학 조치는 내리지 않았다. 당시 더불어민주당은 김영호 의원은 “가해 학생에 대한 출석 정지 처분이 내려진 날, 김 비서관 아내의 카카오톡 프로필(사진)이 남편과 대통령이 함께 있는 사진으로 교체됐다”며 “대통령 측근의 위세를 과시하는 것은 매우 부적절한 태도”라고 비판했다. &lt;br&gt;&lt;br&gt;이러한 가운데 최근 김 여사가 2023년 7월 20일 장상윤 당시 교육부 차관과 8분여간 통화한 사실이 언론 보도를 통해 알려지며 논란이 일었다. 김 여사가 장 전 차관과 통화한 날짜는 김 전 비서관의 자녀에게 출석정지 처분이 내려진 다음 날이다.&lt;br&gt;&lt;br&gt;김 비서관은 행사·전시 기획 업체를 운영하다가 20대 대선 때 윤석열 전 대통령 캠프에 합류해 홍보 기획 업무를 맡았다. 김 여사와는 2009년 고려대 언론대학원 최고위 과정을 함께 다니며 친분을 쌓은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘100세 생일’ 이석규 애국지사에 큰절 올린 보훈부 장관  </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/08/74VQY724CVDKZJVOMTL7FOLQOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/08/74VQY724CVDKZJVOMTL7FOLQOY/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 08:58:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHA7ZCPO5FKB7OPUXGIV3MWV2Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권오을(왼쪽) 국가보훈부 장관이 8일 전북 전주시 전주보훈요양원 강당에서 열린 이석규 애국지사 상수연에 참석해 큰절을 올리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일제강점기 조국의 독립을 위해 헌신한 이석규 애국지사의 100세 생일을 기념하는 상수연이 8일 전북 전주시 보훈공단 전주보훈요양원에서 열렸다. 권오을 국가보훈부 장관은 이 지사에게 직접 큰절을 올리며 존경의 마음을 전했다.&lt;br&gt;&lt;br&gt;정장 차림으로 휠체어에 앉아 축하객들을 맞이한 이 지사는 “제 생일을 축하해주기 위해 오신 모든 분께 감사하다. 영광스러운 이 자리를 잊지 않겠다”며 감사의 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;이날 권 장관은 이재명 대통령의 축전과 꽃다발을 전달하며 국가를 위한 이 지사의 헌신에 깊은 감사를 표했다. 특히 권 장관이 이 지사를 향해 허리를 숙여 큰절을 올리는 모습은 참석자들에게 큰 울림을 주었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLVBQJHQI2A7R2GRENJ3UNA444.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이석규 애국지사가 8일 전북 전주시 전주보훈요양원 강당에서 열린 상수연에서 기념인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상수연에서는 이 지사의 독립운동 활동을 담아 인공지능(AI) 기술로 제작한 헌정 영상이 상영돼 눈길을 끌었다. 영상에는 이 지사가 다녔던 학교의 후배 학생들의 축하 메시지도 담겨 의미를 더했다.&lt;br&gt;&lt;br&gt;1926년 전북 완주에서 태어난 이 지사는 1943년 광주사범학교 재학 시절 ‘무등독서회’를 조직해 항일운동을 이끌었다. 그는 반일 여론 확산을 위한 전단과 벽보를 제작해 배포했으며, 1945년에는 연합군의 국내 상륙 시점에 맞춰 동료들과 함께 봉기를 계획했다. 그러나 계획이 사전에 노출되면서 체포돼 옥고를 치르기도 했다. 정부는 그의 공로를 인정해 2010년 대통령 표창을 수여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2035년까지 온실가스 60% 감축? 현 정권에 맞춰 무리수 던진 환경부</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/08/2D3PAGSZHNDU5JLPXMO5OAPSBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/08/2D3PAGSZHNDU5JLPXMO5OAPSBI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 08:48:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAWBTK6KTZHONBEBYQXRVDTPOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환(가운데) 환경부 장관과 이형일(왼쪽) 기획재정부 1차관, 이호현 산업통상자원부 2차관이 8일 오전 서울 여의도 국회에서 열린 기후위기 특별위원회 전체회의에서 대화를 하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 11월 국제사회에 ‘2035 NDC(국가 온실가스 감축목표)’ 제출을 앞두고, 환경부가 8일 2035년 온실가스 배출량을 2018년 대비 60% 이상 감축하는 안(案)을 후보로 올려 논란이 예상된다. 환경부가 기술적 한계와 산업계 현실을 고려하지 않은 채 정권 입맛에 맞는 안을 내놨다는 것이다.&lt;br&gt;&lt;br&gt;환경부는 8일 국회 기후위기특별위원회에 “이달 중 ’2035 NDC‘와 관련한 복수의 논의안을 제시하고 의견을 듣겠다”면서 4개의 안을 제시했다. &lt;br&gt;&lt;br&gt;첫째는 산업계가 요구하는 40% 중후반대다. CCUS(탄소 포집·활용·저장 기술)를 포함해 아직 감축 기술이 무르익지 않은 만큼, 현재는 목표를 보수적으로 잡고, 목표 시점인 2050년으로 갈수록 감축량을 늘리자는 것이다. 둘째는 2018년부터 2050년까지 매년 감축률을 일정하게 유지하는 ‘선형 감축 경로’로 계산된 53%다.&lt;br&gt;&lt;br&gt;문제는 나머지 두 안이다. 셋째 안은 ‘기후변화에 관한 정부 간 협의체’(IPCC)가 지구 온도 상승 폭을 산업화 이전 대비 1.5도 이하로 억제하기 위해 필요하다고 제시한 61%다. 그러나 이는 우리나라에 권고된 목표치가 아니라 배출량이 더 많은 국가들을 포함한 전세계 평균치다. 마지막 안은 환경단체 등에서 적정 감축량이라고 주장하고 있는 67%이다. 환경부 관계자는 “말그대로 안인 만큼 여러 의견을 종합한 것”이라고 했다.&lt;br&gt;&lt;br&gt;당초 2035 NDC는 최대 53% 안에서 결정될 거란 시각이 지배적이었다. 문 정부 때 수립한 ‘2030 NDC’(2018년 대비 40% 감축)는 실패가 기정사실화됐다. 앞으로 5년 간 총 2억5500만여t, 연평균 전년 대비 3.6%씩 큰 폭으로 탄소를 줄여야 하는데 2024년 감축량이 전년 대비 2% 수준에 그치는 등 더디기 때문이다. 이에 현실적 목표를 세우자는 분위기가 지배적이었으나 정부가 바뀐 후 급진적으로 변한 것이다.&lt;br&gt;&lt;br&gt;일각에선 실제 최종안은 50% 내외에서 결정될 것이란 관측이 나온다. 한 탄녹위 전문위원은 “2035 NDC 성적표가 나오는 시기가 이재명 정부의 임기 말과 맞물려 있기 때문에 목표를 지나치게 높게 잡을 순 없을 것”이라며 “탄소 감축이 얼마나 어려운 일인지 아는 환경부가 60% 이상 안을 공표한 게 이해가 가지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>콘랩컴퍼니, 건진법사에게 ‘무민공원’ 개발 청탁했나...특검 혐의 포착</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/08/MOTWPFLCC5CIVPWRBJQSV42SYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/08/MOTWPFLCC5CIVPWRBJQSV42SYY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 08:38:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZI6KH53DDUQBLHQFPG65LUU3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배 씨가 민중기 특별검사팀(김건희 특검팀) 사무실로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진법사’ 전성배씨의 각종 청탁 의혹을 수사 중인 민중기 특별검사팀이 스타트업 업체가 전씨에게 억대 청탁금을 건넨 정황을 포착한 것으로 8일 전해졌다.&lt;br&gt;&lt;br&gt;이날 특검은 전씨를 구속 기소하면서 “전씨는 2022년 9월부터 2023년 10월까지 콘랩컴퍼니의 사업 관련 청탁을 명목으로 1억6000만원을 수수한 혐의를 받는다”고 밝혔다. 콘랩컴퍼니는 카카오프렌즈 임원 출신이 2020년 2월 만든 회사로, 카카오프렌즈와 지식재산관(IP) 제휴를 맺어 카카오프렌즈 캐릭터 등의 라이센스를 이용해 각종 사업을 하는 업체다. 지난 6월 폐업해 현재는 문을 닫은 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZQQFLIZ2FCRPJBASEJNQXZXWM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;핀란드 캐릭터 무민./무민 공식 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;콘랩컴퍼니가 전씨에게 청탁한 사업은 2023년 4월 경기도 의왕시가 백운호수 일대에 조성한 공원 사업과 관련된 것으로 알려졌다. 콘랩컴퍼니는 핀란드 대표 캐릭터 ‘무민’에 대한 국내 라이센스를 가지고 있는데, 이 캐릭터를 테마로 한 공원을 만들도록 청탁을 했다는 것이다. 실제로 이 공원은 ‘무민공원’이라는 이름의 체험형 테마공원으로 조성됐다.&lt;br&gt;&lt;br&gt;다만 해당 청탁이 김 여사를 매개로 이뤄졌는지에 대해선 추가 조사가 필요한 상황이다. 특검 관계자는 “(콘랩컴퍼니의) 청탁이 김 여사를 통해 이뤄졌는지에 대해서는 아직 공소장에 기재할 만큼 명확하지 않다”고 설명했다.&lt;br&gt;&lt;br&gt;이같은 청탁 혐의 외에도 전씨는 윤영호 전 통일교 세계본부장과 희림건축, 박창욱 경북도의원으로부터 청탁을 명목으로 금품을 수수한 혐의 등도 받는다. 특검은 이날 특가법상 알선수재 및 정치자금법 위반 혐의로 전씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 서구, 전국 자치구 중 인구수 1위…서울 송파구 넘어서</title>
       <link>https://www.chosun.com/national/regional/2025/09/08/ET2PLAUWM5EFXAYS7SCHLU3SME/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/08/ET2PLAUWM5EFXAYS7SCHLU3SME/</guid>
@@ -875,15 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCBUCGPBI5FMZF52DSSU7XGYMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시 서구 전경./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구가 전국 69개 특·광역시 자치구 가운데 인구가 가장 많은 지역이 됐다. &lt;br&gt;&lt;br&gt;인천 서구는 지난 8월 기준 주민등록 인구 수가 64만6703명을 기록해 전국 특·광역시 자치구 중 인구수 1위에 올랐다고 8일 밝혔다. 직전까지 1위였던 서울 송파구는 8월 기준 64만5953명으로 2위였다. &lt;br&gt;&lt;br&gt;1988년 1월 인천 북구에서 분구돼 12개 법정동, 15만4000명의 인구로 출범한 서구는 청라, 검단, 루원시티 등 대규모 도시 개발로 2015년 50만명을, 2023년 60만명을 각각 돌파하는 등 인구가 꾸준히 증가했다. &lt;br&gt;&lt;br&gt;서구 관계자는 “전국 특·광역시 자치구 가운데 인천 서구 인구가 가장 많다는 건 도시 성장성과 주거 매력도가 그만큼 높은 것으로 해석할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;서구는 전국 특·광역시 자치구 인구수 1위를 기념하기 위해 오는 21일까지 2주간 블로그 등 서구 공식 온라인 SNS에서 ‘퀴즈 이벤트’를 진행한다. 서구는 추첨을 통해 1만원 상당의 네이버페이와 5000원 상당의 커피 쿠폰 등을 총 300명에게 전달할 예정이다. &lt;br&gt;&lt;br&gt;서구는 내년 7월 예정된 인천 행정체제 개편에 따라 서구와 검단구로 나뉘게 된다. 분구 시 서구 인구는 39만명, 검단구 인구는 26만명 규모가 될 것으로 예상되고 있다. &lt;br&gt;&lt;br&gt;한편, 8월 기준 인구가 가장 많은 기초자치단체는 경기도 수원시로 118만9487명이 살고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>의료사고로 5년간 의사 81명이 형사 재판 받았다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/08/F5M2I4ZCBNGH5CBGN3A3K34JL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/08/F5M2I4ZCBNGH5CBGN3A3K34JL4/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 07:49:32 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGDS3NZQIJNXPRMOUO6ZB6TFJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국환자단체연합회 소속 회원들이 올해 3월 서울 여의도 국회 앞에서 의료 사고의 중대 과실 범위를 줄이려는 정부 방침에 반발하는 기자회견을 열고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의료 사고로 인해 의사가 형사 재판을 받은 건수가 최근 5년간 81건이라는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;서종희 연세대 법학전문대학원 교수는 8일 국회에서 열린 ‘의료분쟁 관련 법·제도 개선방안 모색을 위한 공청회’에서 이런 내용이 담긴 연구 결과를 발표했다. 이날 공청회는 대한의사협회와 더불어민주당 전진숙 의원, 국민의힘 서명옥 의원, 개혁신당 이주영 의원 공동 주최로 열렸다.&lt;br&gt;&lt;br&gt;서 교수에 따르면 2024~2024년 5년 간 의료 사고로 형사 재판을 받은 건수는 81건이다. 연평균 약 20건 수준이다. 이중 38%(31건)은 무죄를 선고받았다. 32%(26건)은 벌금형 혹은 벌금형 집행유예를, 27%(22건)는 금고형 이상의 집행유예를, 3%(2건)는 금고형 이상을 선고받았다. &lt;br&gt;&lt;br&gt;민사소송은 2011~2020년 연간 795건~960건으로 형사소송보다 양이 훨씬 많았다. 환자측이 청구한 주장 인용률은 50% 내외였다. &lt;br&gt;&lt;br&gt;서 교수는 “형사 입건에 비해 실제 재판까지 받는 경우는 드물지만, 매년 수백 명의 의사가 형사 소송 부담을 부담을 겪고 있다”며 “무죄율이 38%라는 것은 형사재판에서 인과관계 입증을 엄격하게 보고 있다는 것이지만, 송치 및 입건으로 (의사 입장에서는) 정신적 피해 등이 생기는 것이 기정사실”이라고 했다. 서 교수는 “한국은 다른 나라에 비해 의료사고에 댛나 사법 리스크가 매우 크다”며 “형사 리스크 뿐 아니라 민사적으로도 의료진에게 과도한 부담을 지우고 있다”고 했다.&lt;br&gt;&lt;br&gt;이종길 대구지방법원 부장판사는 “환자에 대한 신속한 피해 보상을 위해 의료진의 민사책임을 강화하되, 형사고소의 남용을 막기 위해 일정한 경우 의료진의 형사 책임을 면제할 수 있는 제도를 모색해야 한다”며 “중대한 의료과실의 기준을 과목별로 명확히 설정할 기구를 만들 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹측, 내란 재판부에 특검법 위헌심판 제청 신청</title>
       <link>https://www.chosun.com/national/court_law/2025/09/08/I7RK6ET2CNBIPMCJFRMMATQY64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/08/I7RK6ET2CNBIPMCJFRMMATQY64/</guid>
@@ -891,15 +900,6 @@
       <description/>
       <pubDate>Mon, 08 Sep 2025 08:13:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDL5XDIULVRFUQD4KSVZ4XQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 7월 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘대리처방’ 의혹 가수 싸이, 경찰 소환조사 받는다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/08/HNW5V52LCZFRPBKX5AQM2AYYAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/08/HNW5V52LCZFRPBKX5AQM2AYYAA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 07:46:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFDQTUQCY2JHPJZQLVRRZ3HIMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 싸이. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전문 의약품을 처방받고 매니저를 통해 대리 수령한 유명 가수 싸이(본명 박재상·48)를 소환해 조사할 방침이라고 밝혔다. &lt;br&gt;&lt;br&gt;박현수 서울경찰청장 직무대리는 8일 서울 종로구 서울경찰청에서 진행된 정례 기자간담회에서 싸이에 대해 “현재까지 출석 조사를 하지 않았으나 싸이를 소환 조사할 방침을 세우고 있다”며 “관련자 조사와 압수물 분석 등을 진행 중이며 처방전이 어떻게 발급됐는지 수사를 진행하고 있다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 싸이가 2022년부터 최근까지 대면 진료를 받지 않은 채 서울의 한 대학병원에서 향정신성 의약품인 자낙스와 스틸녹스를 처방받고, 매니저를 통해 대리 수령한 정황을 포착해 수사에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;자낙스와 스틸녹스는 수면 장애와 불안 장애, 우울증 치료에 쓰이는 의약품이다. 의존성과 중독성이 커 2021년부터는 비대면 진료에서 처방하지 못하도록 하고 있다.&lt;br&gt;&lt;br&gt;서울 서대문경찰서는 지난달 싸이와 그에게 향정신성 의약품을 처방해준 대학병원 의사 A교수를 입건했다. &lt;br&gt;&lt;br&gt;싸이 측은 약품을 ‘대리 수령’한 사실을 인정하면서도 ‘대리 처방’을 받은 적은 없다는 입장이다.&lt;br&gt;&lt;br&gt;싸이 소속사 피네이션은 지난달 28일 공식 입장을 통해 “전문 의약품인 수면제를 대리 수령한 점은 명백한 과오이자 불찰”이라면서도 “싸이는 만성적인 수면 장애 진단을 받고, 의료진의 처방에 따라 수면제를 복용하고 있다. 의료진의 지도하에 정해진 용량을 처방받아 수면제를 복용해왔다”고 했다.&lt;br&gt;&lt;br&gt;소속사 측은 “그 과정에서 수면제를 3자가 대리 수령한 경우가 있었고, 최근 경찰에서 조사가 진행 중”이라며 “대리 처방은 없었다”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란특검 ‘계엄 해제 표결 방해’ 의혹 연루 국민의힘 의원에 “공판 전 증인신문 청구 검토”</title>
