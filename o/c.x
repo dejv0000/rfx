@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>문형배 “대법관 늘리자면서 ‘재판소원’으로 4심제 하자는 건 모순”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/10/3OYU37AJLRBUBAID6ZLB72J2UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/3OYU37AJLRBUBAID6ZLB72J2UY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 14:04:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3BCEA43XT523SMAYHO5LO2EGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 전 헌법재판소장 권한대행이 10일 오후 서울 마포구 서강대학교 성이냐시오관에서 '법률가의 길-헌법소원과 민주주의'를 주제로 특별강연을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 전 헌법재판소장 권한대행이 10일 “신속한 재판을 위해 대법관을 늘리자면서 ‘재판소원’을 도입해 4심제로 가자는 건 모순”이라고 말했다. 문 전 대행은 이날 서울 서강대학교 성이냐시오관 강당에서 진행한 특강에서 대법관 증원과 재판소원(법원 재판에 대한 헌법소원) 도입 등 더불어민주당이 추진하는 이른바 ‘사법 개혁’ 논의에 관한 질문에 이같이 답했다. &lt;br&gt;&lt;br&gt;그는 대법관 증원론에 대해 “국회와 대법원이 상고심 제도에 한 차례도 대화하지 않고 대법관 증원에만 집중하면 안 된다”고 했다. 그는 “상고심을 ‘사실심’의 연장으로 볼 것인지 ‘법률심’으로 유지할 것인지에 대한 큰 틀을 먼저 정해야 하고, 상고가 잦은 이유를 분석한 뒤 이를 해소하려는 방안을 논의하는 순서로 가야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 최종 판결에 불복해 헌재에 ‘재판소원’에 대해선 “반드시 4심제가 될 것”이라고 했다. 그는 “헌재는 이미 한해 2600건의 사건이 접수되고, 위헌 결정을 내리는 데 3~4년이 걸린다”며 “대법원에 한 해 접수되는 4만건의 사건 중 30%가 불복해 재판소원을 접수한다면 문제가 복잡해진다”고 했다. 이어 “재판소원이 활발한 독일에서도 인용률이 1~2%에 그친다”며 “신속한 재판을 위해 대법관을 늘리자면서 4심제로 가겠다는 것은 모순”이라고 지적했다. 그는 “헌재가 내린 ‘한정위헌(조문의 해석에 관해 위헌 판결을 하는 것)’ 결정을 재심 사유로 인정하는 것이 재판소원의 대안이 될 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;문 전 대행은 1·2심 부실화 문제도 사법 개혁 논의 안건으로 다뤄져야 한다고 했다. 그는 “최근 서울중앙지법에서 형사합의부 재판장을 최근에 만났는데, 일주일에 재판을 4일 하고 판결문을 쓸 수 있는 날은 하루밖에 없다고 하더라”라며 “이런 재판부를 2~3배 늘려줘야 심리 부실이 없을 것 아니냐”고 했다. 또 “대법원까지 갈 필요 없는 사건의 상고가 과도하게 많다는 것을 2심 법원에서 느꼈다”며 “이 문제도 적당한 선에서 걸러낼 방법을 논의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “그럼에도 대법관 증원이 필요하면 논의할 수 있겠으나 오는 12일 법원장회의와 25일 전국법관대표회의에서 의견이 수렴될 것이고, 이를 토대로 국회와 대법원이 충분히 논의했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;재판 독립 침해 문제에 대해선 “사법 독립은 사법부가 존립하기 위한 필요조건으로, 사법부가 독립돼있지 않으면 사법부가 아니다”라고 했다. 그는 “사법 독립은 가벼운 문제가 아니다”라면서도 “사법부가 사법 독립을 방패 삼아 스스로를 정당화해서도 안 된다. 국민으로부터 신뢰받지 못하는 사법부는 더욱 존립할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검 ‘사건 회수’ 최초 지시자 尹 판단… 이시원 진술 확보</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/10/XGIAIPUOJZABZOW4EETZTPX4RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/XGIAIPUOJZABZOW4EETZTPX4RI/</guid>
+      <dc:creator>김혜민 기자, 방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 13:41:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMFQO7TVD5J4NFK4ZIMBUENU4Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이시원 전 대통령실 공직기강비서관이 지난 2일 오후 서울 서초구 순직 해병 특검 사무실에 피의자 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이시원 전 공직기강비서관이 순직 해병 특검 조사에서 “윤석열 전 대통령에게 고(故) 채수근 상병 사망 관련 조사 기록을 회수하라고 지시받은 게 맞는 것 같다”는 취지로 진술한 것으로 전해졌다. 특검은 윤 전 대통령이 사건 회수를 직접 지시하는 등 수사 외압에 나섰다고 판단하고 있다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면, 이 전 비서관은 최근 특검 조사에서 이같이 진술하며 윤 전 대통령이 사건 회수 지시를 내렸을 가능성을 인정했다. 이 전 비서관은 지난 2023년 8월 2일 국방부가 경찰에 이첩된 해병대 수사단의 초동 조사 기록을 회수하는데 깊이 관여한 혐의(직권남용)를 받는다. 이 전 비서관은 기록 회수 당일 임기훈 전 국방비서관, 신범철 전 국방차관, 유재은 전 국방부 법무관리관 등과 여러 차례 전화와 문자를 하기도 했다.&lt;br&gt;&lt;br&gt;이 전 비서관은 앞서 “조태용 전 국가안보실장이 ‘채 상병 사건 기록을 회수해달라’고 요청해서 관련 업무에 협조한 것”이라고 특검에 진술했는데, 나아가 윤 전 대통령이 직접 회수 지시를 내렸을 수 있다는 취지의 추가 진술을 한 것이다. 특검은 윤 전 대통령이 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 초동 조사 결과를 보고받고 화를 낸 뒤, 기록이 실제로 경찰에 이첩되자 회수 등 외압을 행사했다고 판단하고 있다. &lt;br&gt;&lt;br&gt;특검은 유재은 전 관리관을 상대로 “신범철 전 차관이 이첩 당일 기록 회수를 지시했다”는 취지의 진술도 확보했다. 특검은 윤 전 대통령이 신 전 차관을 통해서도 회수 지시를 내렸을 수 있다고 보고 있다. &lt;br&gt;&lt;br&gt;이에 대해 신 전 차관은 “대통령에게 기록 회수 등 (외압 관련) 지시는 받지 않았다”는 입장이다. 신 전 차관은 이날 직권남용 혐의 피의자 신분으로 약 12시간 동안 특검 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>심우정 전 총장 딸 뽑은 국립외교원, 노동부 “채용절차법 위반”</title>
+      <link>https://www.chosun.com/national/labor/2025/09/10/SJWQ66STBVHNBMHCNN4TGHUVWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/10/SJWQ66STBVHNBMHCNN4TGHUVWU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 13:22:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M3GCMJ7BSBMSZ5JT3F5A25ZVZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부가 심우전 전 검찰총장 딸의 외교부 특혜 채용 의혹과 관련해 국립외교원의 채용절차법 위반 행위가 있었다고 판단했다.&lt;br&gt;&lt;br&gt;10일 노동부에 따르면, 서울지방고용노동청은 심 전 총장의 딸 A씨의 특혜 채용 의혹과 관련해 외교부와 국립외교원의 채용절차법 위반 여부를 조사한 결과 국립외교원이 위반 행위를 했다고 판단했다. 외교부의 위반 행위는 발견되지 않았다.&lt;br&gt;&lt;br&gt;앞서 A씨가 지난해 국립외교원 기간제 연구원과 올해 외교부 공무직 연구원으로 채용되는 과정에서 특혜가 있었다는 의혹이 제기된 바 있다. A씨는 석사 학위 예정자였는데 석사 학위가 필요한 채용에 합격했다는 것이다. 채용 공고상 응시 자격을 기존 경제 분야에서 A씨 전공인 국제 정치로 바꿔 재공고했다는 의혹도 있었다.&lt;br&gt;&lt;br&gt;노동당국은 A씨가 석사 학위 예정자일 때 석사 학위 자격이 필요한 국립외교원 채용에 지원해 합격한 것이 문제가 있었다고 봤다. 석사 학위 소지자가 다수 지원했음에도 A씨와 같은 석사 학위 예정자까지 포함해야 할 만큼의 불가피한 변경 사유가 있지도 않았다는 것이다. 다만 박철희 당시 국립외교원장의 채용 관련 지시나 압력에 대한 정황은 발견되지 않았다고 한다.&lt;br&gt;&lt;br&gt;외교부 채용과 관련해서는 A씨가 합격한 2차 채용 공고가 A씨 조건에 맞춰 변경됐다는 의혹과 A씨를 채용하기 위해 1차 최종 면접자를 탈락시켰다는 의혹 등이 모두 그렇게 판단할 이유가 없기 때문에 법 위반이 아니라고 봤다.&lt;br&gt;&lt;br&gt;노동당국은 국립외교원의 채용절차법 위반과 관련해 법무부에 ‘국가 기관을 대상으로 과태료 부과가 가능한지’ 여부를 질의해 회신을 기다리는 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>심근경색 年14만명, 뇌졸중 65만명... 5년새 각각 17%·7% 늘어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/10/CSCF5D2OUZCCBEVVJOE3RN3KFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/10/CSCF5D2OUZCCBEVVJOE3RN3KFI/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 13:13:37 +0000</pubDate>
+      <content:encoded>지난 6일 세상을 떠난 유튜버 대도서관(47)의 사인이 ‘뇌출혈’인 것으로 알려졌다. 대도서관은 사망 전날까지 건강하게 활동하는 모습을 보여 일각에선 ‘심근경색’이 사인이라는 주장이 나왔지만, 전처는 “부검 결과 뇌출혈로 확인됐다”고 10일 밝혔다. &lt;br&gt;&lt;br&gt;대표적인 심뇌혈관 질환인 심근경색과 뇌출혈은 모두 발병 이후 1년 이내 사망할 확률이 20%에 이를 정도로 위험한 질병이다. 특히 최근 들어 발병률이 높아지고 있는 것으로 나타났다. &lt;br&gt;&lt;br&gt;10일 본지가 건강보험심사평가원의 국민관심질병통계를 분석한 결과, 뇌졸중 환자는 2020년 60만7862명에서 지난해 65만3275명으로 7.5% 늘었다. 뇌졸중은 뇌 안에서 혈관이 터져 출혈이 발생하는 뇌출혈과 뇌 속 혈관이 막히는 뇌경색을 아우르는 질병이다. 같은 기간 심근경색 환자는 12만2231명에서 14만3310명으로 17.2% 늘었다. 심근경색은 심장 근육으로 흘러가야 하는 피가 혈전 등으로 막혀 생기는 증상을 뜻한다.&lt;br&gt;&lt;br&gt;심근경색과 뇌졸중 모두 고령일수록 발병률이 높다. 그런데 최근엔 50대 이상 연령에선 발병률(10만명당 발병 건수)이 줄어들고 있는 반면, 40대에선 증가 추세다. 40대 발병률은 2020년 377.1에서 지난해 386.7로 2.5%가량 늘었다. &lt;br&gt;&lt;br&gt;뇌졸중과 심근경색은 둘 다 여성보다 남성에게 더 자주 발생한다. 뇌졸중의 경우 10만명당 발병률이 남성 1436.4, 여성 1088.1로 남성이 32% 높았다. 심근경색은 남성 438.5, 여성 115.3으로 3배 가까이 차이 났다. 이렇게 남녀 차이가 큰 것은 여성 호르몬인 에스트로겐이 심혈관을 보호해주기 때문이란 분석이 나온다. 이 때문에 여성들도 에스트로겐 호르몬이 줄어드는 폐경 이후 발병률이 높아진다. &lt;br&gt;&lt;br&gt;전문가들은 뇌졸중·심근경색 등 심뇌혈관 질환을 예방하려면 평소 혈관 건강을 챙겨야 한다고 조언한다. 이를 위해 단기간 내 운동량을 갑자기 늘리기보다 평소 운동을 꾸준히 하는 생활 습관을 갖는 게 도움이 된다. 심혈관 질환은 잠복기를 거쳐 발생하는 만큼, 정기 검진으로 이를 조기에 발견하는 것도 중요하다.&lt;b&gt; &lt;/b&gt;질병관리청 관계자는 “금연, 금주와 함께 건강한 식습관, 규칙적인 운동을 통해 체중·스트레스 관리를 잘해야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HJNQQIUSAJHJHE5UFYEKMFV3SA.jpg?auth=c2b0f575d9e7048778b2e414d9deda368ae92363dd04e99c418dab6b8bd043f5&amp;smart=true&amp;width=581&amp;height=327" type="image/jpeg" height="327" width="581">
+        <media:description type="plain">심근경색</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>문상호 “노상원, 제2수사단에 전라도 출신과 군무원 빼라고 했다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/10/IZPRDDC5Z5EHRBHQUXT7B4EKIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/IZPRDDC5Z5EHRBHQUXT7B4EKIA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 10:20:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZXN6IPYBNG4XJG7AQMXIQB7WA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문상호 전 국군 정보사령관(왼쪽)과 노상원 전 정보사령관.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노상원 전 정보사령관이 12·3 비상계엄 준비 과정에서 부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’을 구성하면서 “전라도와 군무원 출신은 빼라”고 지시했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;문상호 전 정보사령관은 10일 서울중앙지법 형사21부(재판장 이현복) 심리로 열린 노 전 사령관의 개인정보보호법 위반 사건 재판에 증인으로 나와 “노 전 사령관이 유능한 인물 20명을 추리라면서 전라도와 군무원 출신은 빼고 부사관을 포함하라고 했다”고 말했다. 문 전 사령관은 노 전 사령관 지시를 받고 현직 정보사 간부들을 시켜 요원 명단을 작성한 뒤 노 전 사령관에게 전달했다. &lt;br&gt;&lt;br&gt;문 전 사령관은 12·3 비상계엄을 일주일가량 앞두고 노 전 사령관이 ‘해외 출장을 취소하라’고 했다고도 증언했다. 문 전 사령관은 지난해 11월 25~29일 일정으로 해외 출장이 잡혀 있었는데, 출장 전날 노 전 사령관이 화를 내며 “네가 지금 제정신이냐, 상황이 어떤 상황인데 해외 출장을 가느냐”며 “당장 취소하라”고 했다는 것이다. 이에 몇 개월 전부터 해당 국가·기관 등과 조율된 것이라며 난색을 표하니 노 전 사령관이 “늦어도 수요일(27일)까지 돌아오라”고 했다고 한다. 문 전 사령관은 수요일까지 돌아오려고 시도했지만 실제로는 원래 일정대로 금요일(29일)에 돌아왔다”고 했다.&lt;br&gt;&lt;br&gt;문 전 사령관이 처음 제2수사단 명단 작성을 지시받은 건 지난해 9월쯤이었다고 했다. 노 전 사령관이 ‘북한 고위급 장성 등 대량 탈북 상황이 발생할 징후가 있다’며 요원을 선발해달라는 요청을 했고 이후 10월 초중순쯤 김모, 정모 대령을 지목해 두 사람에게 선발을 맡기라고 지시했다고 한다.&lt;br&gt;&lt;br&gt;문 전 사령관은 정보사령관도 모르는 대량 탈북 상황을 민간인인 노 전 사령관이 아는 것에 대해 “의구심이 들고 이상했다”고 했다. 이에 내키지 않아했더니, 노 전 사령관이 “너 나 못 믿냐, 내가 너한테 나쁜 것 시키겠느냐”며 “장관이 전화할 것”이라고 말했다고 했다.&lt;br&gt;&lt;br&gt;문 전 사령관은 “이후 김용현 전 장관이 10월 14일 실제로 비화폰으로 전화가 와 ‘노 전 사령관을 잘 도와주라’고 말해 깜짝 놀랐다”며 “김 전 장관에게 전화를 받은 건 그때가 처음이었다”고 했다. 김 전 장관은 비상계엄 이튿날인 12월 4일에도 문 전 사령관에게 전화해 “수고했다. 모든 일은 장관인 내가 지시한 것”이라고 말했다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정성호 법무장관 “검찰 헌법기관 아냐”...‘검찰청 폐지 위헌’ 주장 반박</title>
       <link>https://www.chosun.com/national/court_law/2025/09/10/GZGPCULTRBDFRJX5WYQEP76L4E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/GZGPCULTRBDFRJX5WYQEP76L4E/</guid>
@@ -889,42 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QS33YUZ6DQOB52VTMLZRSATM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산구치소 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산구치소에 수감 중이던 20대 재소자가 숨지는 사건이 발생해 교정 당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;9일 부산구치소 등에 따르면 지난 7일 오후 3시 12분쯤 부산 사상구 부산구치소 수용소 내부에서 20대 남성 A씨가 숨졌다는 내부 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고는 A씨와 같은 방에 있던 재소자가 했다. A씨는 심폐소생술(CPR) 등 응급처치를 받으며 인근 병원으로 이송됐지만 같은 날 오후 5시 8분쯤 숨졌다.&lt;br&gt;&lt;br&gt;유족은 A씨가 같은 방에서 생활하는 재소자 여러 명에게 폭행당해 숨졌다고 주장하고 있는 것으로 알려졌다. A씨는 다른 재소자 3명과 함께 같은 방에서 생활한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;부산구치소 관계자는 “상급기관인 대구지방교정청과 특별사법경찰팀이 관련된 내용을 수사 중이어서 자세한 내용은 확인해줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강의구 前부속실장, ‘구속 수감’ 尹 전 대통령에게 ‘반려견’ 사진 보여줬다</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/09/VZM3YCLYM5HHHOTLB3NOJBZIHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/VZM3YCLYM5HHHOTLB3NOJBZIHM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 07:41:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IEOL5TTNBCLX367M32XN36HKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 서울한강공원에서 반려견 토리와 함께 산책을 하는 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 ‘수감 생활 특혜’ 의혹을 조사한 법무부가 강의구 전 대통령실 부속실장이 휴대전화를 몰래 들여간 뒤 윤 전 대통령에게 반려견의 사진과 동영상을 보여준 정황을 확보한 것으로 9일 확인됐다.&lt;br&gt;&lt;br&gt;법무부 교정본부가 이날 박은정 조국혁신당 의원실에 제출한 자료 등을 종합하면, 강 전 실장은 윤 전 대통령이 공수처에 체포된 뒤 서울구치소에 구속 수감돼 있던 지난 2월 접견을 가졌다. 이 때 강 전 실장은 서울구치소장의 허가를 받지 않고 휴대전화를 접견 장소에 반입한 뒤, 윤 전 대통령이 기르던 반려견의 모습이 담긴 사진과 동영상을 윤 전 대통령에게 보여준 것으로 조사됐다.&lt;br&gt;&lt;br&gt;법무부는 형집행법 133조를 위반한 혐의가 있다며 강 전 실장을 경기남부경찰청에 고발한 상태다. 형집행법은 소장의 허가를 받지 않고 통신기기를 교정시설에 반입할 경우 3년 이하의 징역 또는 3000만원 이하의 벌금에 처한다고 규정한다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 1월 말 접견한 김정환 전 대통령실 수행실장 등 대통령실 관계자들에게 “강아지들도 잘 있느냐”고 물어본 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울법대 76학번 “‘하명재판’할 내란 특별재판부 설치는 위헌”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/09/6GNQJ3RC4JCPDH6UP23TTY44NE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/6GNQJ3RC4JCPDH6UP23TTY44NE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 07:00:11 +0000</pubDate>
-      <content:encoded>서울법대 76학번 출신 법조인 21명이 더불어민주당이 추진하는 ‘내란 특별재판부’ 설치 법안에 반대한다는 성명을 냈다. 김현 전 대한변호사협회장을 비롯해 조대환 전 대통령실 민정수석, 심규철 전 국회의원, 이충상 전 인권위 상임위원 등 21명이 이름을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4JEWZ5Q7QU5ULPBKN35AY7JWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 “정치인과 변호사 등이 추천한 인사를 특별재판관으로 임명한다는 민주당 법안은 위헌”이라며 “외부인이 법원의 전속 권한인 사무 분담과 사건 배당 권한을 침해하는 것이어서 허용될 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;또 “재판의 불공정하다고 생각하면 기피 신청을 할 일이지, 이미 사건을 배당받아 심리해 온 담당 법관을 입맛에 맞게 ‘하명재판’을 할 사람으로 바꾸는 것은 시장에서 구입한 물건을 일방적으로 바꾸는 것보다 나쁘다”고 했다. &lt;br&gt;&lt;br&gt;민주당이 윤석열 전 대통령의 구속 취소 결정을 내린 지귀연 부장판사를 내란 사건 재판에서 배제하려고 시도하는 것에 대해선 “군사 정권 때 박시환 판사의 즉결심판 무죄를 이유로 그를 전근시킬 시기가 아닌 때에 작은 지원으로 전근시킨 것이 큰 비판을 받았지 않은가”라며 바람직하지 않다고 주장했다.&lt;br&gt;&lt;br&gt;이어 “내란 사건 피고인에게만 적용되는 내란특별재판부 설치법은 전형적인 ‘개별사건법률’”이라며 “법은 불특정 다수인을 대상으로 일반적으로 적용되어야 하기 때문에 개별사건법률은 원칙적으로 위헌이라는 강한 의심을 불러일으킨다는 헌법재판소 판례를 외면해서는 안 된다”고 했다. “전두환 피고인 한 명에게만 적용되는 ‘전두환 처벌 특별법’을 만들면 위헌인 것을 생각하면 이해하기 쉽다”고도 덧붙였다.&lt;br&gt;&lt;br&gt;끝으로 “사법권 독립이 무너지면 삼권분립이 없어져 민주주의가 사라진다”면서 “위헌성이 있는 내란특별재판부 설치의 추진만큼은 가급적 빨리 접는 것이 민주당과 국가 모두에 좋을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;성명에는 김현·도두형·최거훈·이충상·조대환·강홍구·김동윤·김용호·김정균·문용호·민문기·박경민·심규철·안승국·양승천·이민희·이진홍·장태규·정해덕·하광룡·한덕렬 등 법조인 21명이 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이영애 “딸, 아이돌 준비…오디션 보러 다닌다”</title>
-      <link>https://www.chosun.com/national/people/2025/09/09/ONCA7TSCVZELROPCVZWKGSB6RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/09/ONCA7TSCVZELROPCVZWKGSB6RQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 07:40:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPMAX3GIWRHIFMWDWTIBXXS6OM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애가 15살 딸이 오디션을 보고 있다며 아이돌 데뷔 가능성을 내비쳤다.&lt;br&gt;&lt;br&gt;8일 유튜브 채널 ‘짠한형 신동엽’에는 이영애가 출연했다. 이영애는 이날 자녀에 대한 이야기가 나오자, 딸이 아이돌에 관심이 많아 오디션을 보러 다닌다고 밝혔다. &lt;br&gt;&lt;br&gt;그는 “딸은 나와 달리 아이돌을 좋아한다. 그냥 내버려두고 있다”며 “못 하게 하면 ‘엄마 때문이다’라는 소리 듣는다고 하더라”고 말했다.&lt;br&gt;&lt;br&gt;‘아미(방탄소년단 팬덤명)’로 유명한 엄마의 영향이 아니냐는 신동엽의 말에 이영애는 “딸도 투모로우바이투게더와 보이넥스트도어를 좋아해 최근 함께 콘서트를 다녀왔다”고 전했다. &lt;br&gt;&lt;br&gt;다만 “엄마로서 걱정도 많다. 아이들이 연예인을 보며 화려한 면만 보지, 그 이면에 있는 힘든 과정을 모르지 않나”라며 고백하기도 했다.&lt;br&gt;&lt;br&gt;2009년 재미 교포 사업가 정호영과 결혼한 이영애는 2011년 쌍둥이 남매를 얻었다. 이후 2014년 SBS 스페셜 ‘이영애의 만찬’을 통해 쌍둥이 남매를 처음 공개했는데, 당시 네 살이었던 이영애의 딸은 또렷한 이목구비로 관심을 받기도 했다.&lt;br&gt;&lt;br&gt;현재 이영애의 딸은 선화예술중학교 성악과에 재학 중이며, 노래와 예술에 대한 재능을 키우고 있다. 이영애는 과거에도 “연예인 끼가 있는 쌍둥이 남매 중 딸이 더 많은 관심과 재능을 보인다”고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 고검 검사 “관봉권 담당 수사관, 압수물 넘쳐나 정신없었을 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/09/R6SZP37PIJEYVNCSB6IGGBPQ3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/R6SZP37PIJEYVNCSB6IGGBPQ3M/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 07:11:16 +0000</pubDate>
-      <content:encoded>검찰의 ‘건진 법사 관봉권 띠지 유실’ 사건과 관련해 정치권 등에서 특검 수사가 필요하다는 목소리가 나오는 가운데 현직 차장검사가 “관봉권 띠지 관련 공정한 감찰과 수사를 바란다”고 목소리를 냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XGVFDQWB3HJTGXYMIDPVG4HQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 2차장을 지낸 공봉숙 서울고검 검사는 9일 검찰 내부망(이프로스)에 “어린 수사관들을 먹잇감으로 내어주고 ‘한번만 봐주세요’라고 하는 것 같아 안타깝고 처참하다”며 “검찰 구성원 중에 어린 수사관들이 일부러 관봉권 띠지를 훼손했다고 생각하는 사람이 한 명이라도 있나”라고 적었다.&lt;br&gt;&lt;br&gt;지난 5일 건진 법사 관련 수사를 담당한 서울남부지검 관계자들은 국회 법제사법위원회 제1소위가 개최한 ‘검찰개혁 입법청문회’에 증인으로 출석했다. 당시 수사관들은 띠지 분실 경위 등에 대해 “기억이 나지 않는다”며 “그때 당시 사건의 경중도 몰랐고 관봉권이라는 것 자체도 몰랐다”고 증언했다.&lt;br&gt;&lt;br&gt;공 검사는 “국회의원들께선 ‘너희들이 다 덮어써서 교도소 가고 징역 살지 말고 누가 시켰는지 말해라’고 윽박지르고 회유한다”며 “요즘은 수사도 이런식으로 하지 않는다. 불쌍해서 눈물이 날 지경이었다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “압수계 수사관들은 수사검사실에서 내려오는 압수물을 챙겨서 보관할 따름이고, 당시에는 압수물이 넘쳐나 정신이 없었을 것”이라며 “의원님들은 ‘그걸 어떻게 모르냐고 고함치시던데, 분업화 돼 있는 대규모 검찰청의 업무시스템이나 처리하는 압수물의 양을 보면 모르는 게 당연할 수도 있을 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;공 검사는 “검찰에 잘못이 없었다는 건 아니다”라며 “검사실과 압수물 담당자 간 소통 오류가 있어 중요한 증거물이 분실됐다면 잘못이고, 잘잘못을 가려 상응한 조치를 취해야 한다”고 했다. 중요한 압수물을 분실할 수 있는 시스템을 고쳐야 한다고도 언급했다.&lt;br&gt;&lt;br&gt;공 검사는 “누구의 잘못인지 아직 명백하게 밝혀진 것도 아닌 상황에서 신규 수사관들이 조직적 증거인멸의 하수인처럼 전 국민 앞에서 조리돌림 당하는 것이 과연 정당한가”고 물었다. 또 “어린 검찰 수사관들이 일부러 증거를 훼손했을 리가 없다는 점에 대해 제 손모가지를 걸 정도로 확신하고 있고 조리돌림 당하는 꼴을 도저히 볼 수 없어 의견을 밝힌다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>소방청, ‘국민·소방관 안전 강화를 위한 소방청 주요 정책’ 발표</title>
       <link>https://www.chosun.com/national/national_general/2025/09/09/ECKJXI7XIRHBNK7IKGZI742FHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/ECKJXI7XIRHBNK7IKGZI742FHA/</guid>
@@ -950,15 +962,6 @@
       <description/>
       <pubDate>Tue, 09 Sep 2025 01:10:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BC5LMCLKJNOSRLTRKUZWPLCEGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정훈(대령) 해병대 수사단장이 지난 4일 참고인 조사를 받기 위해 서울 서초구 순직 해병 특검 사무실에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국방부 검찰단이 박정훈(대령) 해병대 수사단장을 항명 혐의로 수사하면서 두 차례나 체포영장을 청구했다가 기각당했던 사실이 뒤늦게 알려졌다. 순직 해병 특검은 박 대령 체포 시도에 윤석열 전 대통령 등 대통령실이 관여한 건 아닌지 수사 중이다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 군검찰은 지난 2023년 8월 14일과 28일 박 대령에 대한 체포영장을 청구했지만 군사법원에서 모두 기각당했다. 박 대령은 같은 해 8월 2일 이종섭 전 국방장관 등의 지시에 불복해 고(故) 채수근 상병 초동 조사 기록을 경찰에 이첩했다가 항명 혐의로 입건돼 수사를 받고 있었다.&lt;br&gt;&lt;br&gt;해병 특검은 군검찰의 박 대령에 대한 체포 시도를 확인하고, 일종의 보복성·압박용 수사가 이뤄진 건 아닌지 파악 중이다. 당시 박 대령은 8월 11일 상부 보고 없이 KBS 방송에 출연해 ‘수사 외압’ 의혹을 제기했고, 8월 27일에는 이른바 ‘VIP 격노설’이 언론에 처음 보도됐다. 윤 전 대통령이 수사 외압 의혹에 연루되는 것을 막기 위해 군검찰이 체포영장 청구에 나섰을 가능성이 있는 것이다. 특검은 또 이 시기 윤 전 대통령과 이시원 전 대통령실 공직기강비서관, 이종섭 전 장관 사이에 여러 차례 통화가 있었던 내역도 확인했다.&lt;br&gt;&lt;br&gt;군검찰은 두 차례 체포영장이 기각된 직후 박 대령에 대한 구속영장을 청구했지만, 군사법원은 9월 1일 “증거인멸 우려가 적다”며 기각했다. 당시 군검찰이 작성한 박 대령 구속영장 청구서에는 ‘대통령 격노는 (박 대령의) 망상’ 등 표현이 들어가 있다. 이후 군검찰은 박 대령을 항명 등 혐의로 기소했고 1심에서는 무죄 판결이 나왔다.&lt;br&gt;&lt;br&gt;특검은 체포 및 구속영장 청구를 주도한 김동혁 전 국방부 검찰단장이 윤 전 대통령, 이종섭 전 장관 등과 공모해 직권남용 범행을 저지른 것으로 의심하고 있다. 김 전 단장은 최근 특검 조사에서 “당시 국방부의 이첩 회수·항명죄 수사 등에 대통령실이 관여돼 있을 것으로 짐작했다”며 대통령실 개입 가능성을 일부 인정했다고 한다. 다만 “당시 박 대령이 계속 검찰단의 소환 요청에 응하지 않아 구속영장을 청구한 것으로, ‘보복성 수사’가 아니었다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 대해 이 전 장관 측은 “박 대령에 대한 체포영장 청구나 기각을 군검찰로부터 보고받은 기억이 없다. 윤 전 대통령에게 관련 지시를 받은 적도 없다”고 주장했다. 그러면서 “설령 항명죄 수사 과정에서 체포 시도가 있었다고 해도 어떤 범죄가 되는지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무소불위 기후부</title>
-      <link>https://www.chosun.com/politics/goverment/2025/09/09/4IZF5RGDZ5GLLMMTVYS2GM5XZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/09/09/4IZF5RGDZ5GLLMMTVYS2GM5XZE/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 15:49:00 +0000</pubDate>
-      <content:encoded>정부·여당이 환경부 대신 신설하기로 한 기후에너지환경부(기후부)에 대해 전문가들은 “주요 사업에 대한 인허가권과 물·전기 통제권을 한꺼번에 쥐고 견제는 거의 받지 않는 막강한 부처가 될 것”이라고 전망했다. &lt;br&gt;&lt;br&gt;환경영향평가법에 따라 공공이나 민간이 시행하는 일정 규모 이상의 건설·개발 사업은 환경 영향 평가를 받아야 한다. 이때 환경부 장관이 사업 계획이 적정하지 않다고 판단하면 사업 내용의 재검토를 요구하는 등의 방법으로 사업 진행을 막을 수 있다. 그동안 이 권한은 다른 경제 부처들의 목소리가 더 컸기 때문에 잘 행사되지 못했다. 그러나 이번 정부 조직 개편으로 기획재정부와 산업통상자원부가 각각 ‘반 토막’이 나게 되면서 이를 견제할 부처들이 크게 약화됐다.&lt;br&gt;&lt;br&gt;산업부가 정하던 전기 요금도 앞으로는 기후부가 정하게 된다. 전기사업법에 따라서 전기 요금은 한국전력이 산업부에 변경을 신청하고 산업부가 기재부와의 협의를 거쳐 이를 인가하면 바뀌는데, 이 업무를 하는 조직이 모두 기후부로 이관된다. 화석연료와 원전, 재생에너지의 실질적인 사용 한도를 정하는 국가 온실가스 감축 목표(NDC) 설정도 기후부가 중심이 된다.&lt;br&gt;&lt;br&gt;물 관련 업무는 과거에는 수자원 관리는 국토교통부, 수질 관리는 환경부로 나뉘어 있었으나, 문재인 정부 때인 2020년 ‘물 관리 일원화’ 조치를 통해 모든 권한이 환경부에 집중됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
