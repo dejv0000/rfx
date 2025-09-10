@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인권위 “검경, 통신 조회할 때 법원 허가 받아야” 권고</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/10/WGF7QV2VPRBUBMTLPSB3QPZYSA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/WGF7QV2VPRBUBMTLPSB3QPZYSA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 05:09:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH7UUMAWIRMBPMZJ7ONXY76LQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 검경 등 수사기관이 통신사로부터 이용자 정보를 받을 때 반드시 법원의 허가를 받도록 하는 등 제도적 장치를 마련해야 한다고 국회의장 등에게 권고했다.&lt;br&gt;&lt;br&gt;인권위는 “개인정보 유출로 인한 기본권 침해의 위험성이 커지고 있다”며 수사기관이 통신 조회를 할 때는 법원의 허가를 받도록 할 것을 지난 8월 25일 국회의장 등 관계 기관에 권고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;현행 전기통신사업법 제83조 제3항은 수사기관이 재판이나 수사를 위해 전기통신사업자에게 성명, 주민등록번호, 주소, 전화번호 등의 ‘이용자 정보’를 요구할 수 있도록 정하고 있다. 이는 1978년 제정된 전기통신법에서 시작된 조항으로, 인터넷과 휴대전화가 보급되기 전 시대의 법 제도를 그대로 답습한 내용이다.&lt;br&gt;&lt;br&gt;인권위는 인공지능(AI), 빅데이터 등 고도화된 디지털 환경에서 무분별하게 수집된 이용자 정보가 개인의 행동 패턴이나 정치 성향 등을 파악하는 데 악용될 수 있어 기본권 침해 우려가 있다고 봤다. &lt;br&gt;&lt;br&gt;실제 수사기관이 범죄와 무관한 국민의 인적 사항까지 수집한 사례가 이어져 왔고, 국제사회도 꾸준히 우려를 표해왔다. &lt;br&gt;&lt;br&gt;또한 인권위는 법 개정 전이라도 주민등록번호 등 민감 정보 제공 제한, 수집 정보의 목적 외 사용 금지 및 폐기, 비밀 유지 의무 강화, 제공 현황 공개, 수사기관 내부 심사 절차 마련 등의 제도 개선이 시급하다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘관악구 피자가게 칼부림’ 피의자 일주일만에 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/10/2P63OADOOBCEHEXS42PCEKMX4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/2P63OADOOBCEHEXS42PCEKMX4Q/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 05:02:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJPMTPUUGRMTVLZXJUCSNGDN44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 관악구 한 식당에서 칼부림 사건이 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 피자가게에서 흉기를 휘둘러 3명을 살해한 피의자가 사건 발생 일주일 만에 체포됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 10일 오전 피자가게 프랜차이즈 가맹점주 A(41)씨를 살인 혐의로 체포했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3일 서울 관악구 조원동(옛 신림8동)에서 자신이 운영하던 피자가게에서 프랜차이즈 본사 임원 1명, 인테리어 업자 2명에게 흉기를 휘둘러 살해한 혐의를 받는다. A씨는 매장 보수 공사를 두고 본사와 갈등이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 자해를 시도하다 중상을 입어 일주일 동안 병원 치료를 받고 있던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “향후 피의자를 상대로 범행 경위를 면밀하게 조사한 후 구속영장을 신청할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>KT소액결제 피해 확산... 피해 사례 124건, 피해액 8000만원</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/10/3OTKG6ZXEBDFXIVYGLUDN45OGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/3OTKG6ZXEBDFXIVYGLUDN45OGY/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 04:55:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HKHPLD73VTE3SBJ5IYRRPCV7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 한 시민이 서울 kt 판매점 앞을 지나고 있다. /KT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 경기 광명과 서울 금천구를 중심으로 발생한 KT 이용자들의 휴대전화 소액 결제 피해가 확산하고 있다. &lt;br&gt;&lt;br&gt;10일 경기남부경찰청 사이버수사대에 따르면 지난달 27일부터 이달 9일 오후 6시까지 경찰에 신고된 KT 소액 결제 피해 건수는 총 124건이다. 전체 피해액은 8060여 만원에 이른다.&lt;br&gt;&lt;br&gt;경찰서별로는 광명경찰서 73건(피해액 4730만원), 금천경찰서 45건(2850만원), 부천소사경찰서 6건(480만원) 등이다. 이는 지난 5일까지 접수된 피해 건수(74건)보다 51건이 늘어난 수다.&lt;br&gt;&lt;br&gt;경찰이 확인한 피해자들은 모두 KT 통신사 가입자이며 KT 전산망을 통하는 알뜰폰 요금제 이용 중인 이들도 일부 있는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;현재까지 피해가 확인된 곳은 경기 광명과 부천, 서울 금천구 등 3곳이지만 경기 과천, 서울 영등포 등에서도 비슷한 유형의 피해가 발생하는 등 관련 신고 지역과 피해 건수는 더 늘어날 것으로 보인다. &lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사과는 각 지역 경찰서에서 발생한 사건을 넘겨받아 병합 수사할 방침이다. 현재까지 61건의 사건이 이첩됐으며 나머지 63건도 이첩될 예정이다. &lt;br&gt;&lt;br&gt;앞서 경찰은 지난달 27일 최초 신고를 접수한 후 피해자들이 특정 통신사를 이용하는 특정 지역 주민이라는 점을 고려, 지난 1일과 2일 KT 본사와 지점, 중개소 등에 연락을 했다. KT 측은 “KT는 (해킹에) 뚫릴 수 없다” 등으로 답변하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쉬었음 청년 40만, 노동부 “자발적 이직자도 실업급여 받고, 청년고용법상 청년 연령 29→34세로”</title>
+      <link>https://www.chosun.com/national/labor/2025/09/10/5IPEWYQDZBAK7N6ARMEILRXZVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/10/5IPEWYQDZBAK7N6ARMEILRXZVM/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 04:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKROQOIFXFLVNH2BXE46IDVTTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 오후 서울의 한 고용복지플러스센터 모습. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 자발적 이직자에게 생애 1회 실업급여를 지급하는 방안을 추진한다. 현재 실업급여는 비자발적 이직자만 받을 수 있다. 청년고용법상 청년 연령 상한도 현행 29세에서 34세로 늘린다.&lt;br&gt;&lt;br&gt;10일 고용노동부는 청년 일자리 문제를 해결하기 위한 ‘일자리 첫걸음 보장제’ 추진 방안을 발표했다.&lt;br&gt;&lt;br&gt;노동부에 따르면, 청년 고용은 15개월째 하락하고 있다. 저출생으로 청년 인구는 줄고 있는데 ‘쉬었음’ 청년은 지난 5년 동안 약 10만명 늘어 40만명대를 유지하고 있다. 이는 전체 청년 인구의 5.5% 수준이다. 공채는 줄고 경력직 선호 현상이 늘어나면서 청년들이 신입으로 노동 시장에 진입할 기회가 줄고 있기 때문이라고 노동부는 분석했다.&lt;br&gt;&lt;br&gt;먼저 쉬었음 청년들에 대한 금전적 지원을 확대한다. 현재 비자발적 실직자만 받을 수 있는 실업급여는 2027년부터 자발적 이직자들도 생애 1회에 한해 받을 수 있게 된다. 첫 직장 경험이 불합리하거나 경력과 맞지 않을 경우 국가가 재도전을 지원하겠다는 취지다. 현재 50만원인 구직촉진수당은 내년 60만원으로 인상할 계획이다. 구직촉진수당 제도 도입 이후 금액 인상은 이번이 처음이다.&lt;br&gt;&lt;br&gt;대기업이 자체적으로 운영하고 있는 인턴 등 일 경험 제도를 사회 공헌 차원에서 늘리도록 할 방침이다. 정부는 인턴 등을 확대하는 기업에 동반성장지수 가점, 비용 지원 등 인센티브를 지급하기로 했다. 또 일 경험을 법에 명시해 제도권 하에서 관리하겠다는 계획이다. 노동부 관계자는 “법에 근거를 둔 사업을 하면 경제 부처와 협의도 수월하게 되고 기업 입장에서도 (일 경험이) 인지도가 생기니 참여를 유도하는 데 도움이 될 것이라고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;쉬었음 청년을 국가가 선제적으로 발굴하기 위한 범정부적 데이터베이스도 구축한다. 개인정보 제공 동의를 받은 청년들이 취업할 시기를 지났는데도 고용보험에 가입되지 않은 것으로 확인되면, 도움이 필요한 상황으로 보고 각종 지원책을 안내하고 연계해주겠다는 것이다.&lt;br&gt;&lt;br&gt;정부는 지난 3월부터 국가장학금 신청자 정보와 연계한 대학생 약 150만명의 데이터베이스를 확보한 상태다. 정보 수집 대상을 추후 직업계고 졸업자와 군 장병까지 늘리겠다는 방침이다. 이들을 위험도별로 나눠 맞춤형 지원책을 펼치는 것이 이번 방안의 골자다.&lt;br&gt;&lt;br&gt;정부는 특히 위험도가 높다고 여겨지는 은둔·고립 청년들을 위한 ‘포용적 일경험’을 확대한다. 예컨대 니트(NEET·Not in Education, Employment or Training) 청년들을 위해 온라인 가상 회사를 만들어 13주 동안 일경험을 할 수 있는 ‘니트 컴퍼니’ 사업을 추진한다. 온라인으로 출퇴근을 인증하고, 각자 업무를 정하면서 회사 내 관계 맺는 연습을 하는 방식이다.&lt;br&gt;&lt;br&gt;쉬었음 청년을 위한 심리 상담 지원도 강화한다. 고용센터에서 제공하고 있는 심리 상담의 경우, 청년이라면 우선 상담받을 수 있도록 ‘패스트 트랙’을 마련하겠다는 방침이다. 직업 훈련 등을 지원하는 내일배움카드로 마음 관리 등도 받을 수 있게 된다.&lt;br&gt;&lt;br&gt;정부는 민간 채용 플랫폼과 협업해 임금 체불, 산업 재해, 직장 내 괴롭힘 등 노동법 위반 사항이 없는 기업 명단을 공개하도록 할 방침이다. 이런 혜택을 받는 청년 범위를 늘리기 위해 올해 하반기에는 청년고용법상 청년 연령 상한을 현행 29세에서 34세로 상향 추진한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이종섭 前 국방장관, 다음주 ‘호주대사 도피성 출국 의혹’ 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/10/VIBRLPNW3VCIRNEUZ3Z3CDGJ5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/VIBRLPNW3VCIRNEUZ3Z3CDGJ5A/</guid>
+      <dc:creator>이세영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 03:22:31 +0000</pubDate>
+      <content:encoded>이종섭 전 국방부 장관이 오는 17일 해병 특검에 ‘참고인’ 신분으로 출석한다. 이 전 장관이 해병 특검 조사를 받는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CEQIDKLGEGQ7WSU4I6YFLQJBU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관 측은 10일 언론 공지에서 “이 전 장관에 대해 해병 특검에서 오는 17일 오전 10시 참고인 신분으로 조사를 위한 출석 요청을 휴대전화로 받았고, 변호인을 통해 이를 수락했다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 이 전 장관 측은 “변호인은 해병 특검 측에 공식 출석 요구서 교부, 공정하고 투명한 조사를 담보하기 위한 영상 녹화 조사를 희망했다”고 했다.&lt;br&gt;&lt;br&gt;해병 특검이 이 전 장관을 참고인 신분으로 소환하는 건 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’을 조사하려는 의도로 풀이된다. 이 의혹은 윤석열 정부가 작년 3월 고(故) 채수근 상병 사망 사건으로 공수처에 입건됐던 이 전 장관을 호주 대사로 임명한 뒤 출국시켜 수사를 방해하려 했다는 내용이다. 형법상 범인 도피 죄는 ‘도피한 자’가 아닌 ‘도피하게 한 자’를 처벌하기 때문에, 이 전 장관은 참고인 신분으로 조사를 받는 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 향후 이 전 장관을 피의자 신분으로 추가 소환할 방침이다. 이 전 장관은 윤석열 정부 대통령실과 국방부 등이 채 상병 사망 사건 조사와 수사 등에 외압을 가했다는 ‘순직 해병 수사 외압’ 의혹과 관련해 직권남용 혐의의 피의자 신분으로 입건돼 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한학자 총재, 11일도 특검 불출석...“건강상 사유”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/10/U6ZHPIKRERADPIDTTHCRNJWD3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/U6ZHPIKRERADPIDTTHCRNJWD3Q/</guid>
@@ -829,24 +874,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGZL32TLYAAE7FSXDYWYWWBAOU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 일가가 운영 중인 경기도 남양주시의 A요양원. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 ‘금거북이’가 발견된 것으로 알려진 김건희 여사 일가가 운영하는 요양원을 압수 수색하며 롤렉스 시계, 까르띠에 시계, 다이아몬드 반지 등 귀금속도 발견해 확보한 것으로 9일 전해졌다. 그러나 김 여사 측은 “해당 물품들은 김 여사 동생의 결혼식 패물”이라는 입장이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 지난 7월부터 이달 5일까지 수차례 김 여사 일가가 운영하는 경기 남양주 소재 A요양원에 대한 압수 수색을 진행했다. 이 과정에서 특검은 롤렉스 시계 등 각종 귀금속이 발견되자 이를 확보했다. &lt;br&gt;&lt;br&gt;앞서 특검은 이곳에서 이배용 전 국가교육위원장이 김 여사 측에 전달한 5돈짜리 금거북이를 발견했다. 특검은 금거북이가 공직을 청탁하기 위해 전달한 뇌물이라 의심하고 이 전 위원장을 수사 중이다. 이에 특검은 금거북이와 같은 장소에서 발견된 롤렉스 시계 등 귀금속도 청탁을 대가로 받은 선물이 아닌지 의심하고 확보한 것으로 전해졌다. 해당 귀금속들의 구매자와 구매 경로를 추적해보겠다는 것이다.&lt;br&gt;&lt;br&gt;그러나 김 여사 측은 해당 귀금속들은 동생 일가의 결혼식 패물일 뿐 김 여사와 관련이 없다는 입장이다. 김 여사 측 한 관계자는 “압수 수색 당시 돌반지와 함께 놓여 있던 김 여사 동생 부부의 패물로, 동생이 해외로 나가며 보관할 곳을 찾다가 요양원 금고에 넣어두었던 것”이라며 “이 같은 사실을 특검에 소명했음에도 물건을 압수하고 압수물 내용을 언론에 알린 것은 부당하다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현직 부장검사, 임은정에 “지‘공’장님, 검사직 걸고 1대1 토론하자”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/09/CEXLPX4ZHVBFZHQQTYJHBKJOJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/CEXLPX4ZHVBFZHQQTYJHBKJOJ4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 02:06:07 +0000</pubDate>
-      <content:encoded>검찰청을 폐지하고 중대범죄수사청(중수청)과 공소청을 신설하는 정부 조직 개편안이 발표되자, 한 현직 부장검사가 임은정 서울동부지검장에게 “검사직을 걸고 1대1 공개 토론을 하자”고 제안했다. 임 지검장은 지난 7월 취임 당시 자신의 페이스북에 “검찰의 한 시대를 마무리 짓는 장의사 역할을 다하겠다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLNVSTUDXWA3HA3MN4B3DLFEPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장진영 서울북부지검 형사3부장은 지난 8일 검찰 내부망 이프로스에 ‘임은정 지공장님, 1:1 공개토론을 제안드립니다’라는 제목의 글을 올렸다. 개편안에 따르면 검찰청 폐지 이후 수사 기능은 중수청으로 이관되고, 검찰청은 공소청으로 바뀐다. 이를 두고 임 지검장의 보직이 지방공소청장, 즉 지공장으로 바뀌는 것 아니냐고 비꼰 셈이다. 장 부장검사는 “임은정 검사장님이 가장 기뻐하실 듯해 앞으로 임 검사장님에 대해서는 ‘지공장님’이라고 불러드리고자 한다”고 설명했다.&lt;br&gt;&lt;br&gt;장 부장검사는 “임 지공장님의 공개적 발언은 종전과 같은 사회적 약자를 위해 노력하고 계신 것이 맞는지 다들 우려하고 있다”며 “임 지공장님은 약 10년 전 한 명의 억울한 피해자의 고통과 아픔도 소홀히 하지 않겠다며 ‘직을 걸고’ 무죄 구형을 하신 바가 있으시다”고 했다. 이어 “저는 한 명의 피해자를 위해 검사 직을 걸었던 임 지공장님께 저의 ‘검사직’을 걸고 1대1 공개토론을 제안드리고자 한다”고 했다. 20년 가까이 국민의 혈세로 살아온 공무원으로서 국민께 감사의 마음으로 보답하기 위해 ‘검사직’을 걸고 토론을 제안한다는 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 공개토론 주제로 세 가지를 꼽았다. △현재 진행 중인 법안들이 사회적 약자의 권익 보호에 더 부합하는지 △경찰 포함 1차 수사기관에 대한 사법 통제는 필요한지, 검찰보다 더 경찰에 대한 사법 통제를 잘할 수 있는 기관이 있는지 △검사의 보완 수사권은 필요한지다.&lt;br&gt;&lt;br&gt;장 부장검사는 “세 가지 테마로 공개토론을 진행하고 임 지공장님이 추가 지정하는 주제가 있으면 얼마든지 추가하셔도 된다”면서 “임 지공장님께서 위 주제들에 대해 진정 어린 답변을, 사회적 약자를 위한 실질적인 답변을 제대로 내놓으시고 이를 위해 혼신을 다하겠다고 공개 약속을 해주시면, 저는 그동안 임 지공장님을 오해하고 임 지공장님의 심기를 불편하게 한 책임을 지고 검사직을 내려놓겠다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “반대로 임 지공장님이 저의 공개토론을 거절하시거나 또다시 침묵을 택하시겠다면, 검사장직을 내려놓으시라”며 “설마 검사일 때는 한 명을 위해서라도 직을 걸겠다는 마음이 검사장이 되니 수천만 국민을 위한 길임에도 직을 걸지 못하겠느냐”고 했다.&lt;br&gt;&lt;br&gt;장 부장검사는 이날 댓글을 통해 검찰 구성원들을 질타하기도 했다. 일선 형사부가 붕괴 직전까지 내몰린 시국에서 침묵하고 싶느냐는 것이다. 그는 “돈 많고 힘 있는 피의자들은 더 강해지고, 돈 없고 힘 없는 서민들은 더 고통받을 것이 자명하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>감사원 사무총장에 ‘백현동 감사’ 정상우</title>
-      <link>https://www.chosun.com/politics/goverment/2025/09/09/4FH67DMZQFFNVLNKBQLENKNXB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/09/09/4FH67DMZQFFNVLNKBQLENKNXB4/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 02:57:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2A5OC6JWY5EPFASMIEDVPKYHAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정상우 국민권익위원회 비상임위원. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최재해 감사원장이 9일 신임 감사원 사무총장(차관급)에 정상우(57)&amp;lt;사진&amp;gt; 국민권익위원회 비상임위원을 임용 제청할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;감사원 사무총장은 감사위원회의 의결을 거쳐 감사원장 제청으로 대통령이 임명한다. 실질적으로는 대통령이 지명한 인사를 놓고 대통령실이 감사원과 협의해 관련 절차를 진행하는 것이다. 감사원은 이날 정 위원의 사무총장 임용 제청안을 서면으로 의결하고 있으며, 금명간 이 대통령에게 제청안을 보낼 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정 위원은 전북 김제 출신으로 서울대 경제학과를 졸업하고 제36회 행정고시에 합격해 총무처(현 행정안전부)에서 공직 생활을 시작했다. 1998년부터 감사원에서 근무했고, IT감사단장, 국토해양국장, 산업·금융감사국장, 감사교육원장을 역임했다.&lt;br&gt;&lt;br&gt;정 위원은 2022년 1월 공직감찰본부장으로 임명된 직후, 감사원이 2021년 말부터 실시한 ‘성남시의 백현동 개발 특혜 의혹’ 감사를 마무리하는 데 관여했다. 이 대통령의 경기 성남시장 재직 시절 중인 2015~2017년 성남시가 한국식품연구원 부지 개발과 관련해 민간 사업자에게 과도한 용도변경과 임대에서 일반 분양으로의 부당 변경 등 특혜를 제공했다는 의혹에 관한 감사였다. 감사원은 성남시가 민간 사업자에게 수백억 원의 이익을 부당하게 몰아줬다고 결론 내리고, 검찰에 관련자들에 대한 수사를 요청했다.&lt;br&gt;&lt;br&gt;정 위원은 윤석열 전 대통령이 유병호 감사위원을 감사원 사무총장으로 임명한 직후인 2022년 7월 명예퇴직했다. 이후 민간 기업 고문을 지냈고, 지난 1월 권익위에 민주당 추천 몫의 비상임위원으로 임명됐다. 정 위원은 감사원 재직 중이던 2017~2018년 문재인 정부 청와대에서 행정관으로 근무했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 김용대 前 드론사령관 ‘변호인 참여 중단’ 준항고 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/09/09/YDFOYHXGURGYDIDYP5TAAH24MQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/09/YDFOYHXGURGYDIDYP5TAAH24MQ/</guid>
@@ -854,24 +881,6 @@
       <description/>
       <pubDate>Tue, 09 Sep 2025 01:21:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGYJXSD6R37H5JPOTFWLDHP7BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 드론작전사령관이 8월 28일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검팀(특별검사 조은석) 사무실로 조사를 받기 위해 들어서는 중 이승우 변호사의 배웅을 받고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평양 무인기 침투 의혹을 받는 김용대 전 드론작전사령관 측이 내란 특검의 특정 변호인 조사 참여 중단 조치에 불복해 준항고를 냈지만 법원이 이를 기각했다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울중앙지법 형사31단독은 지난 8일 김 전 사령관 측이 청구한 ‘수사기관의 변호인 참여 등에 관한 처분 취소·변경’ 준항고를 기각했다. 준항고는 수사기관의 특정 처분에 대해 법원에 취소나 변경을 요구하는 절차다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 지난달 20일 김 전 사령관이 출석했을 당시 A 변호사가 언론에 수사 및 군사 비밀 자료를 유출했다는 이유로 A 변호사의 참여를 막았다. 김 전 사령관 측은 다음날인 21일 “변호인 조력권을 심각하게 침해했다”며 특검 조치에 대해 준항고를 제기했지만, 법원이 이를 받아들이지 않은 것이다.&lt;br&gt;&lt;br&gt;재판부는 “A 변호인이 피의자 신문에 참여할 경우 수사 기밀을 누설할 염려가 있음이 객관적으로 명백한 경우에 해당한다”며 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;이어 김 전 사령관 측의 ‘출석요구 처분 취소 청구’에 대해 “검사 또는 사법경찰관의 ’구금, 압수 또는 압수물의 환부에 관한 처분’ 또는 ‘형사소송법에 따른 변호인의 참여 등에 관한 처분’에 해당하지 않으므로 준항고의 대상이 되는 처분이라고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;김 전 사령관 측이 준항고와 함께 낸 ‘출석요구 집행 정지 신청’에 대해서는 “김 전 사령관에게 신청권이 없고, 직권으로 살펴보더라도 준항고의 대상에 해당하지 않는 특검의 출석요구 처분의 집행을 정지할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>뉴질랜드 ‘가방 속 자녀 시신’ 한국인 엄마…말없이 고개만 절레절레</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/09/OFUYA2RJXNFKFACQKCJCFC5A7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/OFUYA2RJXNFKFACQKCJCFC5A7Q/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 02:24:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7G2BUEZJ65DNDNEBLBVUZZMMCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴질랜드 '가방 속 아이 시신' 사건 혐의로 재판을 받는 한인 여성 이모씨./AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뉴질랜드에서 어린 두 자녀를 살해하고 한국으로 도주한 혐의를 받는 한인 여성에 대한 재판이 시작됐다.&lt;br&gt;&lt;br&gt;8일 AFP통신과 현지 매체 시드니모닝헤럴드 등에 따르면 뉴질랜드 북섬 오클랜드 법원은 이모(44)씨가 출석한 가운데 첫 재판을 열었다. 이씨는 2018년 6∼7월쯤 9세 딸과 6세 아들을 살해한 뒤 한국으로 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이날 재판에서 이씨는 유죄를 인정하는지 묻는 말에 말없이 고개를 저었다. 제프리 베닝 판사는 이를 무죄 주장으로 간주하고 재판을 계속 진행했다고 말했다. &lt;br&gt;&lt;br&gt;베닝 판사는 또 이씨의 범행 당시 정신 건강 상태를 고려해 달라는 피고인 측 요청을 받을 가능성이 크다고 언급하기도 했다.&lt;br&gt;&lt;br&gt;현지 언론은 이씨가 스스로 변호를 맡고 있으나, 필요 시 지원할 변호사 2명이 대기 중이라고 전했다.&lt;br&gt;&lt;br&gt;숨진 두 아이의 정확한 사인은 아직 확인되지 않았다. 법원 기록에 따르면 이씨가 처방받은 수면제가 숨진 자녀 체내에서 검출됐지만, 다른 사망 원인도 완전히 배제되지는 않은 상황이다.&lt;br&gt;&lt;br&gt;이씨는 2017년 자녀들의 아버지가 암으로 숨진 뒤 이듬해 자녀들을 살해하고 여행 가방에 넣어 오클랜드 한 창고에 보관한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;범행 이후 이씨는 2018년 하반기에 한국으로 돌아왔고 2022년 재정적 어려움에 처하게 되자 창고 임대료 납부를 중단했다. &lt;br&gt;&lt;br&gt;이에 따라 창고 보관 물품이 온라인 경매에 부쳐지면서 이씨의 범행이 드러났다. 2022년 8월 창고 내용물을 낙찰받은 현지 주민이 가방에서 아이들의 시신을 발견해 경찰에 신고했고 뉴질랜드 경찰은 생모인 이씨를 유력한 용의자로 지목했다.&lt;br&gt;&lt;br&gt;이씨는 같은 해 9월 울산에서 검거된 뒤 뉴질랜드로 송환돼 구속됐다.&lt;br&gt;&lt;br&gt;이씨의 재판은 최장 4주 동안 이어질 것으로 예상된다. 한국에서 태어난 이씨는 뉴질랜드로 이주해 뉴질랜드 시민권을 얻었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수업 도중 책상서 춤추고 노래한 남학생… 강사, 의자 던졌다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/09/LAFWATTG25E5TCS2I7E3VAR4MU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/09/LAFWATTG25E5TCS2I7E3VAR4MU/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 02:22:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EHNVTEKARCDJNBEPGAGH7SBLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 모 직업계 고등학교에서 퇴직교사 출신 60대 시간강사가 수업을 방해한 1학년 학생을 향해 의자를 내던지는 영상이 틱톡에 올라왔다가 삭제됐다. /뉴스1(독자제공)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 직업계 고등학교에서 퇴직 교사 출신 60대 시간강사가 수업을 방해하는 학생에게 의자를 집어던지는 사건이 발생했다. &lt;br&gt;&lt;br&gt;8일 뉴스1에 따르면 지난 5일 광주 모 직업계 고등학교 시간강사 A씨는 수업 시간에 1학년 B군을 향해 의자를 집어던졌다.&lt;br&gt;&lt;br&gt;당시 B군은 주변 친구들이 소셜미디어를 통해 ‘돈을 줄 테니 책상에 올라가서 춤을 추라’고 하자 책상에 올라가 노래를 부르며 춤을 춘 것으로 전해졌다. A씨가 한 차례 저지했음에도 B군은 다시 책상에 올라가 춤을 추고 노래를 불렀다. &lt;br&gt;&lt;br&gt;A씨가 “앞으로 나오라”고 지시했지만, B군은 그대로 달아났다. 학생에게 조롱당했다고 느낀 A씨는 의자를 들고 쫓아가다가 B군을 향해 내던졌다. &lt;br&gt;&lt;br&gt;이 같은 장면이 담긴 영상이 틱톡에 올라왔으나 학교 측의 제지로 현재는 삭제된 상태다. &lt;br&gt;&lt;br&gt;학교 측은 개인정보 보호 조치 없이 영상을 게시한 학생에 대해 주의 조치를 내렸다. A씨에 대해서는 수업 중 부적절한 행위를 한 것으로 보고 학교장 명의의 경고를 내릴 방침이다. 수업을 방해한 B군에게도 같은 조치를 내릴 계획이다. &lt;br&gt;&lt;br&gt;교사로 근무하다 지난해 퇴직한 A씨는 수업을 돕기 위해 시간강사로 일주일에 1시간가량 수업을 해온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>올 여름 부산 8개 해수욕장에 2156만 피서 인파 몰렸다... 코로나 이후 최다</title>
@@ -935,15 +944,6 @@
       <description/>
       <pubDate>Mon, 08 Sep 2025 15:49:00 +0000</pubDate>
       <content:encoded>정부·여당이 환경부 대신 신설하기로 한 기후에너지환경부(기후부)에 대해 전문가들은 “주요 사업에 대한 인허가권과 물·전기 통제권을 한꺼번에 쥐고 견제는 거의 받지 않는 막강한 부처가 될 것”이라고 전망했다. &lt;br&gt;&lt;br&gt;환경영향평가법에 따라 공공이나 민간이 시행하는 일정 규모 이상의 건설·개발 사업은 환경 영향 평가를 받아야 한다. 이때 환경부 장관이 사업 계획이 적정하지 않다고 판단하면 사업 내용의 재검토를 요구하는 등의 방법으로 사업 진행을 막을 수 있다. 그동안 이 권한은 다른 경제 부처들의 목소리가 더 컸기 때문에 잘 행사되지 못했다. 그러나 이번 정부 조직 개편으로 기획재정부와 산업통상자원부가 각각 ‘반 토막’이 나게 되면서 이를 견제할 부처들이 크게 약화됐다.&lt;br&gt;&lt;br&gt;산업부가 정하던 전기 요금도 앞으로는 기후부가 정하게 된다. 전기사업법에 따라서 전기 요금은 한국전력이 산업부에 변경을 신청하고 산업부가 기재부와의 협의를 거쳐 이를 인가하면 바뀌는데, 이 업무를 하는 조직이 모두 기후부로 이관된다. 화석연료와 원전, 재생에너지의 실질적인 사용 한도를 정하는 국가 온실가스 감축 목표(NDC) 설정도 기후부가 중심이 된다.&lt;br&gt;&lt;br&gt;물 관련 업무는 과거에는 수자원 관리는 국토교통부, 수질 관리는 환경부로 나뉘어 있었으나, 문재인 정부 때인 2020년 ‘물 관리 일원화’ 조치를 통해 모든 권한이 환경부에 집중됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“선생님, 1학기 때 쓰던 AI교과서 어디 있나요”</title>
-      <link>https://www.chosun.com/national/education/2025/09/09/XTFWRSLF4RBQ7LFOU2AVXTZUGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/09/XTFWRSLF4RBQ7LFOU2AVXTZUGE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Sep 2025 15:47:00 +0000</pubDate>
-      <content:encoded>“선생님 왜 디지털 교과서 안 써요?” “디지털 교과서로는 문제 더 많이 풀 수 있는데!”&lt;br&gt;&lt;br&gt;서울 송파구 한 초등학교에서 3학년을 가르치는 안세연(35) 교사는 지난달 말 2학기 첫 수학 수업 때 아이들을 달래느라 진땀을 뺐다. 지난 1학기에 썼던 AI 디지털 교과서(AIDT) 없이 종이 교과서로만 수업을 하자, AIDT를 찾는 학생들이 많았기 때문이다. 이번 학기엔 교육청이 초3·4학년 수학 AIDT 구독료를 지원하지 않겠다고 해서 사용하지 못하는 상황이었다. 안 교사는 “AI 기능으로 모르는 부분을 보충할 수 있어서 아이들이 수학에 흥미를 느꼈는데 갑자기 수업 시간에 사용을 안 하니 찾는 것 같다”고 말했다. 안 교사의 학교는 학교 자체 예산으로 2학기에도 수학 AIDT를 사용하기로 최근 결정했다. &lt;br&gt;&lt;br&gt;지난달 이재명 정부는 전임 정부가 만든 AIDT의 법적 지위를 ‘교과서’에서 ‘교육자료’로 낮춰 정부의 무상교육 지원 대상에서 제외했다. 지난 1학기엔 교육부가 전국 모든 학생들에게 AIDT 구독료를 무상 지원했지만, 2학기부터는 교육청이나 학교 자체 예산으로 구독료를 내야 하는 것이다. &lt;br&gt;&lt;br&gt;8일 본지 취재를 종합하면, 전국 교육청은 교육감 성향에 따라 AIDT 구독료 지원 여부가 확연히 갈렸다. 진보 성향 교육감이 이끄는 부산교육청과 전남교육청은 2학기 AIDT 구독료를 아예 지원하지 않기로 했다. 부산교육청 관계자는 “여러 교육자료가 있는데, AIDT만 예산을 지원하긴 어렵다”고 말했다. 진보 성향 정근식 교육감의 서울시교육청은 초3·4학년 영어 등 일부 AIDT만 구독료를 지원하기로 했다. 2학기가 시작된 지 한참 됐는데도 아직 구독료 지원 여부를 결정하지 않은 지역도 있다. 최교진 교육부 장관 후보자가 지난 1일까지 교육감으로 있었던 세종교육청이 대표적이다. 세종교육청 관계자는 “2학기 구독료 지원은 아직 논의 중”이라고 말했다.&lt;br&gt;&lt;br&gt;반면 보수 교육감이 있는 대구·강원·경기교육청은 2학기에 원하는 학교 모두에 AIDT 구독료를 지원해주기로 정했다. &lt;br&gt;&lt;br&gt;이렇게 교육감 성향에 따라 AIDT 구독료 지원 여부가 달라지는 것은 학생 교육 측면에서 바람직하지 않다는 지적이 나온다. 학교들은 많게는 연간 수천만 원에 달하는 AIDT 구독료를 자체적으로 감당하기 어려워 교육청 지원이 없으면 학생들이 원해도 사용을 포기할 가능성이 높다. 서울 중랑구 한 초등학교 교사는 “처음엔 아이들이 제대로 다룰 수 있을까 걱정했는데, 한 학기 만에 AI 기능을 자유자재로 사용하며 공부하는 걸 보고 놀랐다”면서 “AIDT를 계속 쓰는 학생과 그렇지 않은 학생들은 디지털 활용 능력이 크게 차이 날 것”이라고 말했다.&lt;br&gt;&lt;br&gt;박남기 광주교대 명예교수는 “수백억 원이 투입된 AIDT가 도입 한 학기 만에 지역에 따라 사실상 폐기 수준이 된 것은 문제”라면서 “교육적 효과나 부족한 부분은 최소 1~2년은 써봐야 알 수 있는 만큼, 교육청들은 다른 예산을 아껴서라도 AIDT를 쓰고 싶은 학생들이 사용할 수 있도록 지원해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사람은 없고 중국산 빵만… 제주서 발견된 미확인 고무보트</title>
