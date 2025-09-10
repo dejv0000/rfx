@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>한국상속신탁학회, '가족 개념의 변화와 신탁의 역할' 세미나 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211318.jpg" alt="456474.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국상속신탁학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;)는 9월 9일 서울 강남구 삼성동 법무법인 트리니티 안젤루스룸에서 '가족 개념의 변화와 신탁의 역할'을 주제로 세미나를 열었다. &lt;br /&gt;&lt;br /&gt;이번 세미나에는 NH농협은행, 하나은행, KB국민은행, KB증권 등 주요 금융기관의 신탁 전문가들이 참석했다. &lt;br /&gt;&lt;br /&gt;이번 세미나에서는 최수정 서강대 로스쿨 교수가 발제를 맡아 현대 사회의 가족 개념 변화와 신탁 제도의 역할을 조망했다. 최 교수는 “현대사회에서 전통적인 가(家) 또는 가족의 개념은 급격히 변화하고 있으며 다양한 형태의 가족이 공존하고 있다”며 “이러한 상황에서 구성원의 지원과 재산의 보호·승계를 위한 법 제도로서 신탁의 역할과 그 한계를 개관해보는 것이 이번 세미나의 목적”이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;(51·사법연수원 33기) 회장은 축사에서 신탁과 유류분 제도의 충돌 문제를 짚었다. 그는 “가족 구성원들의 각기 다른 사정과 상황을 고려해 신탁재산을 시기적으로 나누고, 내용적으로 분리해 분배했을 경우 상속재산을 받지 못한 상속인이 유류분을 청구하더라도, 실제 유류분 침해액을 계산하거나 반환의 상대방을 특정하는 것이 법리적으로 어려운 상황이 충분히 발생할 수 있다”며 “향후 신탁과 유류분의 관계를 정립하는 것이 필수적 과제”라고 강조했다.&lt;br /&gt;</description>
+			<pubDate>Wed, 10 Sep 2025 14:19:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211318</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211318</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211318.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>법사위, '관봉권 띠지 분실' 검찰개혁 입법청문회 22일 재개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211316.jpg" alt="456363.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;10일 국회에서 열린 법제사법위원회 전체회의 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회 법제사법위원회가 오는 9월 22일 전체회의를 열고 '검찰개혁 입법청문회'를 다시 개최한다. 지난 9월 5일 법안심사1소위원회에 이어 전체회의 차원에서 두 번째 청문회가 열리는 것이다.&lt;br /&gt;&lt;br /&gt;법사위는 9월 10일 전체회의를 열고 '검찰개혁 입법청문회 실시계획서 채택의 건'을 더불어민주당 주도로 의결했다. 국민의힘 법사위원들은 법사위 차원의 추가 청문회 개최 자체에 대해 반대 입장을 밝혔다.&lt;br /&gt;&lt;br /&gt;법사위는 청문회 개최 공고를 통해 "검찰개혁의 필요성을 주장하는 근거로 제시되어 온 검찰의 수사·기소권 오남용 사건, 정치적 표적 수사 사건 등을 조사해 검찰개혁 입법에 대한 필요성을 확인하기 위한 것이 청문회의 목적"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;법사위 민주당 간사인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(49·사법연수원 35기) 의원은 "'건진법사 관봉권 띠지' 유실 사건에 한정해서 청문회를 열겠다고 (야당과) 협의를 했지만 합의에는 이르지 못했다"며 "관봉권 띠지 사건을 중점적으로 진행하는 청문회이기에 그에 맞춰 증인과 참고인 명단을 확정해달라"고 말했다.&lt;br /&gt;&lt;br /&gt;반면&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1588"&gt;나경원&lt;/span&gt;(62·24기) 국민의힘 의원은 "지난번 소위의 일방적인 청문회에 대해 상당한 이의를 표시했다"며 "수사·재판중인 사건에 대해서는 청문회라는 이름을 빌려 실질적으로 수사와 재판에 영향을 미치는 것을 하지 말자는 것인데, 결국 또다시 민주당이 (청문회 주제로) 내놓은 것은 '관봉권 띠지 사건'"이라고 비판했다.&lt;br /&gt;&lt;br /&gt;이어 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;위원장 나 홀로 법사위가 아니지 않나. 불법적인 회의 운영이다. 간사 선임 안을 상정해주실 것을 촉구한다"며 "저희 당은 (청문회 증인·참고인 명단에) 45명을 냈으니까 하실 거면 다 채택해달라. 민주당이 요구하는 대로 관봉권 띠지만 하는 청문회에 대해서는 저희는 동의할 수 없다"고 했다.&lt;br /&gt;&lt;br /&gt;이에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&amp;nbsp;&lt;/span&gt;의원은 "사건을 들여다보는 청문회는 검찰개혁에 있어서 큰 의미를 갖는다"며 "검찰 내부적으로 이 사건에 대한 수사가 안 되고 꼬리 자르기를 하려는 게 눈에 보이기 때문에 공정하게 수사를 하려면 특검에서 수사하는 게 맞다"고 맞섰다.&lt;br /&gt;&lt;br /&gt;한편 이날 전체회의에서는 비의료인의 문신 시술을 허용하는 '문신사법' 제정안과 장애인 평생 교육 진흥과 관련된 업무를 지원하기 위해 국가 장애인 평생교육 진흥센터를 설치하고 장애인 평생교육사 자격을 신설하는 내용을 담은 '장애인평생교육법' 제정안도 의결됐다. &lt;br /&gt;&lt;br /&gt;또한 내란·외환죄 등 중대범죄자의 가석방을 금지하는 형법 개정안과, 군사·공무상 비밀 관련 시설을 내란·외환 사건으로 압수수색할 때 시설 책임자 동의 없이도 집행할 수 있도록 한 형사소송법 개정안은 법안심사소위로 회부됐다.</description>
+			<pubDate>Wed, 10 Sep 2025 14:17:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211316</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211316</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211316.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희특검, '삼부토건 주가조작' 이기훈 부회장 목포서 체포</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: left;"&gt;삼부토건 주가조작 의혹을 수사하는&amp;nbsp;&lt;span class="lawmanlink" serial="1017" style="font-weight: bold;"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 이기훈 삼부토건 부회장을 목포에서 체포했다.&lt;/div&gt;&lt;br /&gt;특검팀은 10일 언론 공지를 통해 "서울경찰청 형사기동대와 공조해 오후 6시14분 목포에서 이기훈을 체포영장에 의해 체포했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 체포된 이 부회장을 곧바로 조사하지 않고, 서울구치소로 인치할 예정이다. &lt;br /&gt;&lt;br /&gt;자본시장법 위반 혐의를 받는 이 부회장은 7월 17일 서울중앙지법에서 진행된 구속영장실질심사에 출석하지 않고 잠적했다. 특검팀은 이 부회장이 도주했다고 판단하고 추적해왔다. &lt;br /&gt;&lt;br /&gt;삼부토건 주가조작 의혹은 고위공직자범죄수사처(공수처)의 채 상병 수사 외압 사건 수사 과정에서 불거졌다. 수사 외압에 연루된 인물들이 참여한 카카오톡 단체 대화방에서 이종호 전 블랙펄 대표가 2023년 5월 14일 "삼부 내일 체크하고"라고 남긴 글이 삼부토건 주식 종목에 대한 얘기가 아니냐는 의혹이 나오면서다. 이 전 대표는 도이치모터스 주가조작 사건의 핵심 인물로, 김 여사의 계좌를 관리한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;같은 달 삼부토건은 폴란드에서 열린 우크라이나 재건을 위한 국제 콘퍼런스에 원희룡 당시 국토부 장관과 함께 참석한 뒤, 우크라이나 재건 테마주 등으로 분류돼 1000원 대이던 주가가 그해 7월 5500원까지 급등했다. &lt;br /&gt;&lt;br /&gt;특검팀은 삼부토건이 해외 재건 사업을 추진할 능력과 의사가 없으면서, 전현직 임직원들이 우크라이나 기업과 형식적 업무협약을 맺는 방식으로 투자자를 속여 주가를 인위적으로 부양했다고 판단했다.</description>
 			<pubDate>Wed, 10 Sep 2025 10:03:13 -0000</pubDate>
@@ -220,24 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211293</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211293.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>대법원 국선전담변호사 처음으로 3명 위촉</title>
-			<description>&lt;p&gt;   &lt;span style="font-weight: bold;" serial="29471"&gt;손의태&lt;/span&gt;(44·변호사시험 3회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="34598"&gt;김상윤&lt;/span&gt;(42·변호사시험 5회)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="44482"&gt;김현지&lt;/span&gt;(37·변호사시험 6회) 변호사가 대법원 국선전담변호사로 9월 1일 위촉됐다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="29471"&gt;손의태&lt;/span&gt;&amp;nbsp;변호사는 서울중앙과 강원 강릉에서 8년,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="44482"&gt;김현지&lt;/span&gt;&amp;nbsp;변호사는 전북 전주에서 3년 정도 국선전담변호사 경력을 쌓은 바 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 국선전담변호사 위촉은 이번이 처음이다. 국선전담변호사 제도는 그동안은 1·2심에서만 운용해 왔다. 이번에 최종심에도 이 제도를 도입하면서, 대법원은 피고인의 방어권을 보다 실질적으로 보장하고 상고심 재판을 더욱 충실하게 만들 것으로 기대하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 제도가 도입된 데는 넘치는 사건 수가 영향을 미쳤다. 대법원은 연간 1만4000건이 넘는 국선 사건을 처리하며 전국 법원 중 가장 사건 수가 많았지만, 이를 전담할 변호사가 없었다. 이로 인해 피고인의 방어권이 최종심에서 충실히 보장되지 못한다는 우려가 있었다. 피고인 대상 만족도 조사에서 국선전담변호사에 대한 좋은 평가가 일반 국선변호인보다 일관되게 높게 나타난 것도 긍정적으로 작용했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번에 위촉된 대법원 국선전담변호사들은 우선 전국 구치소에 수감된 구속 피고인들을 더 신속하게 접견해 변론을 준비할 것으로 보인다. 또 방대한 1·2심 사건 기록을 면밀히 검토해 수준 높은 상고이유서를 작성하는 등 상고심 재판을 더욱 충실하게 만드는 데 기여할 전망이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법원행정처는 제도가 안정적으로 정착되면 12명까지 확대 운용할 계획이다. 법원행정처 관계자는 “현재는 3명으로 시작하지만, 올해 운영 결과를 바탕으로 성과, 대법원 국선변호 사건 수, 예산, 사무 공간 등 제반 여건을 종합적으로 고려해 증원 규모를 확정할 것”이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국선전담변호사 제도는 기존 국선 변호인의 형식적 변론 문제를 해결하고, 경제적으로 어려운 피고인의 헌법상 변호인 조력권을 실질적으로 보장하기 위해 2006년 도입됐다. 국가가 직접 채용한 변호사가 국선 사건만을 전담하여 충실한 변론을 제공함으로써, 공정한 재판을 구현하고 인권을 옹호하는 데 그 취지가 있다.&lt;/p&gt;</description>
-			<pubDate>Tue, 09 Sep 2025 20:10:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211234</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211234</guid>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법관평가위원회 반대, 대법관 증원엔 신중</title>
-			<description>&lt;p&gt;9월 12일, 전국법원장회의를 앞두고 전국 각급 법원의 일선 판사들의 절대 다수가 국회 추천 위원 등 외부 인사가 참여하는 법관평가위원회 설치에 대해 명확한 반대 의견을 표한 것으로 알려졌다. 재경지법과 수도권 법원을 중심으로 대다수 판사들은 ‘사법부 독립 침해’를 우려하며 법관 평가 제도 개편안에 반대했다고 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관을 14명에서 30명까지 증원하는 데 대해서는 찬반이 엇갈렸다. 원칙적인 찬성 의견도 있었지만, 1·2심의 재판 역량이 약화될 수 있다는 우려 등으로 신중한 접근이 필요하다는 의견이 많았다고 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관 추천위원회 구성 다양화, 하급심 판결문 공개 확대, 압수수색영장 사전 심문제 도입에 대해서는 대체로 법원행정처의 기존 입장과 비슷한 의견이 많았던 것으로 전해졌다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 의견 수렴은 지난 1일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&amp;nbsp;&lt;/span&gt;법원행정처장이 전국 법원장들에게 “소속 법관들의 의견을 모아달라”고 요청하면서 시작됐다. 이에 각급 법원은 이메일이나 서면 제출, 익명 설문 조사, 직급별 토론회 등 다양한 방식을 통해 소속 판사들의 의견을 자유로이 받았다고 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전국법원장회의는 12일 오후 2시 대법원 청사에서 임시회의를 열고, 일선 판사들의 의견을 바탕으로 5대 개혁 의제에 대한 사법부의 공식 입장을 논의하고 정리할 예정 이다.&lt;/p&gt;</description>
-			<pubDate>Tue, 09 Sep 2025 20:10:02 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211296</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211296</guid>
-			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
