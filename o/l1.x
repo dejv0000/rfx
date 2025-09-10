@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 유튜버 구제역, 명예훼손으로 벌금 300만 원 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211216.jpg" alt="56758.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;유튜버 구제역. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;성범죄 전력 등을 공개해 격투기 선수 출신 유튜버 A 씨의 명예를 훼손한 유튜버 구제역(본명 이준희)에게 벌금 300만 원이 확정됐다. 대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관)는 8월 14일 정보통신망법 위반(명예훼손) 혐의로 기소된 이준희 씨에게 벌금 300만 원을 선고한 원심을 확정했다(&lt;b&gt;2025도7538&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;이 씨는 2020년 8월 A 씨와 과거 연인 관계였던 제보자 B 씨를 만나 인터뷰했다. B 씨는 A 씨가 불법적인 성적 학대를 했다고 주장했다. 해당 인터뷰는 이 씨의 유튜브 채널에 게시됐다.&lt;p&gt;&lt;br /&gt;인터뷰 외에도 이 씨는 A 씨가 성범죄로 유죄 판결을 받았다는 영상을 게시하고, A 씨의 형사사건 판결문을 공개하는 등 A 씨를 비방할 목적으로 정보통신망을 통해 공공연하게 해당 사실을 공개했다.&lt;br /&gt;이에 이 씨는 3회에 걸쳐 A 씨의 명예를 훼손한 혐의로 기소됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 이 씨가 게시한 동영상 내용과 해당 행위로 얻는 이익 등을 고려하면, 그가 오로지 국민의 알권리라는 공공의 이익을 위해 동영상을 게시했다고 보긴 어렵다며 벌금 300만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심 재판부도 검사의 항소를 기각하고 1심과 마찬가지로 벌금 300만 원을 선고했다. 항소심 재판부는 이 씨가 공개 기한이 지난 A 씨의 형사사건 판결문을 공개한 점, 전파성 강한 유튜브 채널에서 불특정 다수에게 사실을 공표해 A 씨의 피해 정도가 매우 큰 점 등을 고려해 이같이 판단했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 구제역의 상고를 기각하고, 원심 판결을 그대로 확정했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 10 Sep 2025 03:09:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211216</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211216</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211216.jpg</media:thumbnail>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무법인 로고스, '노란봉투법 기업 대응방안' 세미나 개최</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211302.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211302.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.lawlogos.com/main/main.asp" target="_blank"&gt;법무법인 로고스&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2270"&gt;양사연&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7300"&gt;임형민&lt;/span&gt;)는 오는 9월 18일 오후 3시 서울 강남구 삼성동 도심공항타워 14층 로고스 라운지에서 ‘노란봉투법 시행 이후, 기업이 직면할 위기와 대응방안’을 주제로 세미나를 연다.&lt;br /&gt;&lt;br /&gt;이번 세미나는 노란봉투법 시행으로 인한 노동환경 변화 속에서 기업들이 맞닥뜨릴 수 있는 법적 리스크와 대응 전략을 모색하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;발제는 권혁 고려대 노동대학원 교수가 맡는다. 이어지는 토론에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="26798"&gt;전별&lt;/span&gt;(42·변호사시험 3회) 로고스 파트너 변호사(노동법 박사)와 한국노동조합총연맹 중앙법률원에서 근무한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40604"&gt;박운병&amp;nbsp;&lt;/span&gt;둥지 법률사무소 변호사가 참여한다.</description>
 			<pubDate>Wed, 10 Sep 2025 02:07:52 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211287</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211287.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원도서관, '사법의 전통, 변화를 거듭하다' 기획전 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211285.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조희대 대법원장과 대법관들이 9일 열린 법원도서관 법원사자료 기획전 개막식에서 전시를 둘러보고 있다.&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법원도서관(관장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6879"&gt;전지원&lt;/span&gt;)이 9월 9일부터 19일까지 서울 서초구 대법원 2층 중앙홀에서 2025년 법원사자료 기획전 '사법의 전통, 변화를 거듭하다'를 연다. 이번 전시는 조선시대 사법제도의 흐름과 세종대왕의 민본주의 정신이 우리 사법에 어떻게 계승됐는지 조망한다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: left;"&gt;9일 오후 열린 개막식에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(68·사법연수원 13기) 대법원장,&amp;nbsp;&lt;span class="lawmanlink" serial="5602" style="font-weight: bold;"&gt;천대엽&lt;/span&gt;(61·사법연수원 21기) 법원행정처장과 대법관들이 참석해 전시를 둘러봤다. 천 처장은 "조선시대 사법의 전통에서 이어져 오는 민본주의와 법치주의 정신이 우리나라 사법의 원류"라며 "훈민정음 창제를 통해 국민을 위한 사법에 큰 획을 그은 세종대왕의 업적을 돌아보면서, 사법부가 앞으로 나아가야 할 길을 함께 고민하는 계기가 되기를 바란다"고 격려사를 전했다.&lt;/p&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211285.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;참석자들은 규장각 한국학연구원장인 정긍식 서울대 로스쿨 교수의 해설과 함께 전시를 관람했다. &lt;br /&gt;&lt;br /&gt;이번 기획전에서는 조선시대 법전 편찬 원칙, 죄인 인권 보호 제도, 재판 관리에 대한 세종대왕의 가르침 등을 살펴볼 수 있다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: left;"&gt;특히 훈민정음 창제 이후 백성이 쉽게 읽고 쓸 수 있는 한글로 작성된 소지(所志, 소장에 해당)와 결송입안(決訟立案, 판결문에 해당) 등을 통해 사법 접근성이 확장되는 과정을 볼 수 있다.&lt;/p&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211285.jpg" alt="3.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6879"&gt;전지원&lt;/span&gt;(58·24기) 법원도서관장은 "전 세계적으로 한글과 한국 문화에 대한 관심이 높지만, 우리 사법의 전통은 아직 충분히 조명되지 못했다"며 "이번 기획전이 우리 법문화의 역사와 가치를 널리 알리는 데 기여하길 바란다"고 말했다.&lt;br /&gt;&lt;br /&gt;전시 관련 영상은 법원도서관 유튜브 채널과 법원TV를 통해 확인할 수 있다.</description>
-			<pubDate>Tue, 09 Sep 2025 08:09:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211285</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211285</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211285.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
