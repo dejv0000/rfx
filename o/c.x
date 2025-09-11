@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>李대통령, ‘막말·北옹호·음주운전’ 최교진 교육장관 재가</title>
+      <link>https://www.chosun.com/national/education/2025/09/11/ORIO4UXJBNBGXFU3CHSFIPSCQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/11/ORIO4UXJBNBGXFU3CHSFIPSCQI/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 13:01:37 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5DVUNHF4BEAXPIB7NIKIK4BWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 국회 교육위 인사청문회에서 최교진 사회부총리 겸 교육부 장관 후보자가 의원들의 질문에 답하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 전 세종시교육감이 교육부 장관으로 임명됐다.&lt;br&gt;&lt;br&gt;11일 교육부는 이날 오후 이재명 대통령이 최 장관에 대한 임명안을 재가했다고 밝혔다.&lt;br&gt;&lt;br&gt;최 장관은 12일 오전 대전현충원을 참배하고, 이후 정부세종청사로 이동해 취임식을 갖는다.&lt;br&gt;&lt;br&gt;최 장관은 앞서 음주 운전, 막말, 정치 편향, 북한 옹호, 논문 표절, 공기업 낙하산 취업 등 각종 논란에 휩싸였다. &lt;br&gt;&lt;br&gt;최 장관은 2003년 음주 운전으로 벌금 200만원형을 선고받았는데, 당시 혈중알코올농도는 ‘면허취소’에 해당하는 0.187%였다. &lt;br&gt;&lt;br&gt;그가 소셜미디어를 통해 과거 했던 말들도 잇따라 논란이 됐다. 최 장관은 조국 전 법무부 장관의 자녀 입시 비리 수사를 ‘검찰의 칼춤’이라고 했고, 성폭행 혐의로 실형을 선고받은 안희정 전 충남지사가 ‘사법 살인’을 당했다는 취지의 글을 공유했다. 과거 북한 방문 경험에 대해선 “순안공항에 첫발을 딛는 순간 나도 모르게 감동의 눈물이 흘렀다”고 썼다. 2013년에는 ‘천안함 폭침 음모론’을 주장한 게시물을 수차례 공유했다. 2019년엔 박정희 전 대통령 서거일을 ‘탕탕절’이라고 희화화해 표현했다.&lt;br&gt;&lt;br&gt;4일 최 장관은 자신의 소셜미디어 계정을 폐쇄했다. 그는 “청문회 과정에서 의도와는 다르게 저의 SNS 활동이 오해와 우려가 있었기에 활동 자제를 약속드렸다”고 했다.&lt;br&gt;&lt;br&gt;국회 장관 인사 청문회가 2일 열렸으나, 야당 반대로 인사청문 경과보고서 채택이 무산됐다. 이재명 대통령은 10일 국정 공백을 이유로 국회에 보고서 재송부를 요청했고, 이날 국회 교육위원회는 전체회의에서 여당 주도로 청문 보고서를 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Z5DVUNHF4BEAXPIB7NIKIK4BWI.jpg?auth=8811a7887a291ef16599652714fdf9c73bb7df9a5fe0ad82f8dda8c1b5c44a7e&amp;smart=true&amp;width=5943&amp;height=3934" type="image/jpeg" height="3934" width="5943">
+        <media:description type="plain">최교진 사회부총리 겸 교육부 장관 후보자가 2025년  9월 2일 서울 여의도 국회에서 열린 교육위원회의 인사청문회에서 위원 질의에 답하고 있다. /김지호 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>광명서 초등생 끌고가려던 고교생 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/11/KDIXRZTVB5H33NZUHPFR2U5HHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/11/KDIXRZTVB5H33NZUHPFR2U5HHM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 13:58:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q6LRNUFZSFDWTGUQVUI7JHLJ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 안산지원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명시에서 초등학생을 끌고 가려 한 고등학생이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 남성우 부장판사는 11일 성폭력 범죄의 처벌 등에 관한 특례법(성폭력처벌법) 위반 등 혐의를 받는 고교생 A군에 대해 구속 전 피의자 심문(영장실질심사)을 열고 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;남 부장판사는 “도망할 염려가 있고 소년으로서 구속해야 할 부득이한 사유가 있다”고 영장 발부 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난 8일 오후 4시 20분쯤 광명시 한 아파트에서 초등학교 저학년생인 B양을 따라가 엘리베이터로 같은 층에서 내린 뒤 목을 조르며 끌고 가려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A군은 수초간 강압적 행위를 이어가다가 B양이 큰 소리로 울며 저항하자 건물 밖으로 달아났다.&lt;br&gt;&lt;br&gt;이후 피해 사실을 전해 들은 B양의 부모가 경찰에 신고했고, 경찰은 방범카메라(CCTV) 영상 등을 통해 A군을 추적해 같은 날 오후 9시 45분쯤 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A군은 B양과 아는 사이는 아니고, 성범죄를 저지를 목적으로 우발적 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>목마른 강릉엔 60㎜ 단비... 주말 전국 곳곳 거세게 쏟아져</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/11/CH7NWCUG3VEL7FVA7BLGRVK42M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/11/CH7NWCUG3VEL7FVA7BLGRVK42M/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 12:00:52 +0000</pubDate>
+      <content:encoded>강원도 동해안 지역에 주말 동안 최대 60㎜의 비가 내리겠다. 극심한 가뭄을 겪고 있는 강릉 지역 가뭄 해소에 도움이 될 전망이다. &lt;br&gt;&lt;br&gt;11일 기상청에 따르면, 저기압이 우리나라를 지나면서 12일과 13일 전국에 시간당 30㎜ 안팎의 비가 내리겠다. 시간당 30㎜ 비가 내리면 우산을 써도 비를 제대로 막을 수 없고 시야 확보가 어려워 운전도 힘들다. &lt;br&gt;&lt;br&gt;12일 늦은 오후 수도권과 충청권, 남부 지방에서 시작된 비는 밤에는 강원도까지 확대될 전망이다. 비는 13일 밤 대부분 그치겠지만, 강원도와 충북 북부, 경북 지역은 14일 새벽까지 이어질 수 있다.&lt;br&gt;&lt;br&gt;강릉시를 포함한 동해안 지역에도 이틀간 최대 60㎜가량 비가 올 것으로 예보됐다. 북부 동해안은 80㎜ 넘게 올 수도 있다. 남서풍과 북동풍이 동해상에서 만나 생기는 작은 저기압이 동해안으로 이동하면서 비구름대도 함께 유입되기 때문이다.&lt;br&gt;&lt;br&gt;주말 동안 강원 내륙·산지 지역 예상 강수량은 30~120㎜이며, 수도권 20~120㎜, 충청권 30~120㎜, 호남권 30~120㎜, 영남권 20~80㎜, 제주도 10~80㎜의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UKH4DC7CKEKU5KQRXD4IWSE3TY.jpg?auth=20215b9cc36562e626e768a197c00b1e6ab938c961f003a4057c60a7a9d457fb&amp;smart=true&amp;width=4295&amp;height=2864" type="image/jpeg" height="2864" width="4295">
+        <media:description type="plain">가을비가 요란하게 내리는 9일 오후 경북 경산시 영남대 앞에서 우산을 쓴 학생들이 발걸음을 재촉하고 있다. 2025.9.9/뉴스1 ⓒ News1 공정식 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 공정식 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>260억 법정 혈투... 하이브 “민희진 기획” 민 “막장 드라마”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/PJKDSYIVNNHQNJDSBWP46YLOIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/PJKDSYIVNNHQNJDSBWP46YLOIU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 12:50:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROI2RE74VDX44ETLEBGZ6U3RGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 전 어도어 대표가 11일 오후 서울 서초구 서울중앙지법에서 열린 하이브와의 풋옵션 행사 관련 주식매매대금 청구 소송 2차 변론기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하이브와 민희진 전 어도어 대표가 260억원이 걸린 풋옵션 소송에서 격렬한 공방전을 벌였다. &lt;br&gt;&lt;br&gt;11일 서울중앙지법 민사합의31부(재판장 남인수)는 민 전 대표 등 3명이 하이브를 상대로 낸 주식 매매 대금 청구 및 주주 간 계약 해지 확인 소송의 두 번째 변론기일을 열었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇하이브 측 “민희진, 아일릿 데뷔 전부터 ‘사재기 공격’ 준비”&lt;/b&gt;&lt;br&gt;&lt;br&gt;하이브 측의 증인으로 출석한 정진수 CLO(최고법률책임자)는 민 전 대표가 주주 간 계약 변경을 통해 무소불위의 권력을 휘두르고, 하이브의 또 다른 걸그룹인 아일릿의 표절‧음반 사재기 의혹 등을 제기했다고 주장했다. &lt;br&gt;&lt;br&gt;정 CLO는 어도어 감사를 통해 취득한 증거를 공개한 뒤 “민희진 산하의 이상우 부대표가 작성하고 있던 프로젝트 1945, VP 업무 노트, 하이브 7대 죄악 등의 내용이 발견됐다”고 했다. 프로젝트 1945 문건 중 ‘음원 사재기’ 항목에는 “르세라핌 2/19”, “아일릿 3/25” 등이 적혀 있었다고 한다. 정 CLO는 이를 두고 “2/19는 르세라핌의 컴백일, 3/25는 아일릿의 데뷔 날짜”라며 “특히 아일릿은 데뷔 전인데도 저런 프레임으로 공격하려고 한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;그는 또 뉴진스 멤버들이 어도어에 전속계약 해지를 통보한 것에 관해 “처음부터 끝까지 막후에는 민희진이 있다는 생각이 든다”고 말했다. &lt;br&gt;&lt;br&gt;정 CLO는 민 전 대표가 일본에서 투자자를 만났다는 제보도 들었다고 했다. 그는 “당시 뉴진스의 전속계약 가처분 소송이 펜딩(계류)됐던 상황이었는데, ‘100% 뉴진스가 이긴다’는 법무법인 세종의 의견서를 일본어로 번역해 투자자에게 보여준 자료를 봤다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇민희진 “아일릿 표절 의혹, 모든 사람들이 이야기해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민 전 대표는 아일릿의 표절 의혹을 제기했다는 주장에 관해 “제 개인 주장이기 전에 모든 커뮤니티에서 사람들이 이야기했다”며 “아일릿 티저 사진이 나왔을 때부터 ‘뉴진스 아니냐’는 의혹이 제기됐다”고 했다. &lt;br&gt;&lt;br&gt;투자자 접촉설에 관해서는 “풍문으로만 있고, 실제로 접촉 내용이나 이런 자료가 없지 않느냐”고 했다. &lt;br&gt;&lt;br&gt;하이브 측이 공개한 자신과 이상우 전 어도어 부대표 간 카카오톡 대화에 대해서는 “허구의 소설”이라며 “거의 막장드라마다. 저를 축출하겠다고 각을 잡고 스토리를 만들었다”고 했다. &lt;br&gt;&lt;br&gt;양측의 날 선 신경전도 이어졌다. 하이브 측은 “반대 신문에서는 증인이 답변한 내용에 대한 반박이 이뤄져야 하는데, 지금 민 전 대표는 그냥 본인의 이야기를 하고 있다”며 “이게 기자회견이냐”고 했다. 민 전 대표는 정 CLO를 향해 “오늘 위증을 많이 하신다”고 맞받았다. &lt;br&gt;&lt;br&gt;앞서 민 전 대표는 작년 11월 하이브에 풋옵션 행사를 통보했다. 계약에 따르면 민 전 대표는 풋옵션 행사 시 어도어의 직전 2개년도 평균 영업이익에 13배를 곱한 값에서 자신이 보유한 어도어 지분율의 75%만큼의 액수를 하이브로부터 받을 수 있다. &lt;br&gt;&lt;br&gt;풋옵션 산정 기준 연도는 2022~2023년이고, 이 기간 어도어 영업이익은 2022년은 손실 40억원, 2023년은 이익 335억원이었다. 민 전 대표는 어도어 주식 57만3160주(18%)를 보유하고 있다. 이를 토대로 계산하면 민 전 대표가 받을 수 있는 금액은 약 260억원에 이르는 것으로 알려졌다. 하지만 하이브는 작년 7월 주주 간 계약을 해지함에 따라 민 전 대표의 풋옵션 권리도 소멸했다고 주장한다. &lt;br&gt;&lt;br&gt;재판부는 오는 11월 27일 민 전 대표에 대한 당사자 신문을 추가로 진행하고, 12월 18일 변론을 종결하기로 했다. 선고는 내년 1월쯤에 나올 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주도 ‘고무보트 밀입국’ 중국인 6명 중 5명 검거</title>
+      <link>https://www.chosun.com/national/regional/jeju/2025/09/11/P3LTEYFPWNB4JOEMFNJ6WC4CBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2025/09/11/P3LTEYFPWNB4JOEMFNJ6WC4CBM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 12:11:42 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UCQSXM3DJFPTZHWA3JCH2HOH2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 오전 제주시 한경면 용수리 해안가에서 발견된 고무보트를 해경이 조사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고무보트를 타고 제주로 몰래 입국한 중국인 2명이 11일 추가로 붙잡혔다. 현재까지 밀입국 중국인 6명 중 5명이 검거되면서 해경은 남은 1명을 추적하고 있다.&lt;br&gt;&lt;br&gt;제주해양경찰청은 출입국관리법 위반 혐의로 중국 국적의 남성 A(50대)씨와 B(여·40대)씨를 이날 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 해경의 수사망이 좁혀오자 해경에 자수 의사를 밝혔다가 다시 잠적했지만, 이날 오후 12시 3분쯤 서귀포시 남원읍에 있는 한 훈련센터 인근 도로에서 붙잡혔다.&lt;br&gt;&lt;br&gt;B씨는 이날 오후 5시 50분쯤 제주시 용담동의 공원 주차장에서 해경에 긴급 체포됐다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 지난 7일 오후 중국 남동부 장쑤성 난퉁시에서 다른 중국인들과 함께 90마력 엔진이 달린 고무보트를 타고 바다를 건너 8일 새벽 제주시 한경면 용수리 해안을 통해 밀입국한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들에 앞서 A·B씨와 함께 밀입국한 다른 중국인 남성 3명도 검거된 상태다. 제주에서 이들의 밀입국을 도운 중국인 여성 조력자 2명도 검거됐다.&lt;br&gt;&lt;br&gt;해경은 중국인 6명이 돈을 벌기 위해 중국인 브로커를 통해 밀입국한 후 각자 흩어졌다는 진술을 확보하고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;밀입국 중국인 중 3명은 구속됐다. 해경은 남은 1명을 추적하고 있다.&lt;br&gt;&lt;br&gt;제주 해경은 지난 8일 오전 7시 56분쯤 제주시 한경면 용수리 해녀탈의장 인근에서 미확인 고무보트가 있다는 주민 신고를 받았다. 당시 현장에는 탑승자는 없었고, 구명조끼 6개, 중국어 표기 빵, 연료통 12개, 비상식량, 낚시대 등이 발견됐다. 해경과 군, 경찰이 조를 벌인 결과 간첩 활동 등 대공 용의점은 없는 것으로 확인됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갯벌 고립자 구조하다 숨진 해양경찰관, 1계급 특진</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/11/X7CYWOATBRBV3O3UQP7UR6N364/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/11/X7CYWOATBRBV3O3UQP7UR6N364/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 11:50:12 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3BJJF5VPJO2BP3Z3LHWXSLGEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 인천 동구의 한 장례식장에 마련된 해양경찰관 고(故) 이재석 경사의 빈소를 찾은 해경 동료들이 조문하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌에 고립된 70대 외국인을 구조하다 숨진 해양경찰관이 1계급 특진했다.&lt;br&gt;&lt;br&gt;해양경찰청은 11일 승진 심사위원회를 열고 인천해양경찰서 영흥파출소 소속 이재석(34) 경장의 계급을 경사로 1계급 특진했다고 밝혔다.&lt;br&gt;&lt;br&gt;이 경사는 이날 오전 3시 30분쯤 인천시 옹진군 영흥도 갯벌에서 중국 국적의 A(70대)씨가 고립됐다는 신고를 받고 현장에 출동했다. &lt;br&gt;&lt;br&gt;밀물에 갇혀 있던 A씨를 발견한 이 경사는 바다로 뛰어들어 접근했고, A씨에게 자신의 구명조끼를 벗어 입혀줬다. 이후 이 경사는 A씨와 함께 뭍으로 헤엄쳐 나오다 실종됐다. &lt;br&gt;&lt;br&gt;A씨는 해경 헬기를 통해 구조됐지만, 실종된 이 경사는 6시간 뒤쯤 영흥면 꽃섬에서 1.4㎞ 떨어진 해상에서 심정지 상태로 발견돼 병원으로 옮겨졌지만 숨졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘삼부토건 주가조작’ 이기훈 구속영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/7CPAVJ7CGRA57JIAKOWMH7GJXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/7CPAVJ7CGRA57JIAKOWMH7GJXA/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 10:57:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNJNVSSZSKGJ7DMVKTLEASLVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장)이 경찰에 체포돼 지난 11일 서울 종로구에 마련된 김건희특검 사무실로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 11일 ‘삼부토건 주가조작’ 의혹을 받는 이기훈 삼부토건 부회장 겸 웰바이오텍 회장에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;이날 특검은 “금일 19시 42분쯤 피의자 이기훈에 대한 구속영장을 청구했다”라고 밝혔다. 이 부회장은 자본시장법 위반 혐의 등을 받는다. 이에 따라 법원은 구속 전 피의자심문(영장실질심사)을 통해 이 부회장의 구속 여부를 가릴 전망이다.&lt;br&gt;&lt;br&gt;앞서 특검은 경찰청 형사기동대와 공조해 전날인 10일 수사 도중 도주한 이 부회장을 목포에서 체포했다. 지난 7월 17일 이 부회장이 잠적한 지 55일 만에 신병을 확보한 것이다. 김형근 특검보는 11일 정례 브리핑에서 “이기훈은 도주 후 가평, 목포, 울진, 충남, 하동 등의 펜션을 며칠씩 전전하며 도피하다가 8월 초부터 목포 소재 원룸 형태 빌라에 단기임대 계약을 체결하고 머물러왔던 것으로 확인됐다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이 부회장을 체포한 이틑날인 11일 오전 10시부터 이 부회장에 대한 조사를 진행했다. 서울구치소에 수감된 이 부회장은 이날 교정본부 호송차를 타고 특검 사무실에 도착했다.&lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹은 2023년 삼부토건이 윤석열 정부의 우크라이나 재건 사업에 참여하는 것처럼 꾸며 주가를 5배 이상으로 부양했다는 의혹이다. 이와 관련해 특검은 지난 7월 14일 자본시장법 위반 혐의로 이일준 회장, 이응근 전 대표, 이 부회장에 대한 구속영장을 청구했다. 그러나 이 부회장은 구속 전 피의자 심문(영장실질심사)에 불출석하고 도주했다.&lt;br&gt;&lt;br&gt;이 부회장이 잠적을 감추자, 특검은 이 부회장에 대한 체포영장을 발부받고 추적에 나섰다. 한 달이 넘도록 행적이 드러나지 않자 지난달 19일엔 경찰청 국가수사본부에 긴급수배를 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>日 강제동원 피해자들, 국가배상 소송 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/WCAF4XNF5NBBXLM6VCIN2RIEDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/WCAF4XNF5NBBXLM6VCIN2RIEDE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 10:30:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE4DERIKXJLA3EHFVRBKZTBMOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울법원종합청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1965년 한·일 청구권 협정 체결로 일제 강제동원 피해에 대한 보상을 받지 못하게 됐다며 피해자와 유족들이 국가배상 소송을 냈으나 1심에서 패소했다. 2018년 대법원이 ‘일제에 대한 손해배상 청구권은 한일 협정으로 사라지지 않았다’고 판단한 만큼 국가가 아닌 일본과 배상을 다퉈야 한다는 취지다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사47부(재판장 하성원)는 11일 태평양전쟁 강제동원 피해자와 유족 441명이 국가를 상대로 낸 손해배상 청구 소송에서 원고 청구를 모두 기각한다고 판결했다. &lt;br&gt;&lt;br&gt;이들은 청구권 협정으로 일본을 상대로 직접 손해배상이나 미지급 임금 청구를 하지 못하게 됐다며 2019년 8월 국가를 상대로 소송을 냈다. 경제협력자금을 강제동원 피해자들에게 나눠주지 않고 정부가 부당 이득을 취했다고도 주장했다. &lt;br&gt;&lt;br&gt;우리 정부는 당시 청구권 협정에 따라 일제강점기 때 일본이 벌인 침략·범법 행위에 대해 경제협력자금 명목으로 무상 3억달러와 장기 저리의 정부 차관 2억달러 등을 받았는데 이 가운데 강제동원 피해자 몫을 달라는 취지다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “원고들이 강제동원 피해자 중 생존자 또는 유족이라는 사실을 인정할 만한 충분한 증거가 제출됐다고 보기 어렵다”고 했다. 또 “가정적으로 판단하더라도 정부가 일본과 협정을 체결했다는 것만으로 강제동원 피해자와 유족들의 일본에 대한 개인 청구권이 소멸됐다고 보이지 않는다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 앞서 2018년 10월 전원합의체 판결을 통해 “강제징용 피해자들의 위자료 청구권은 한일 협정에 포함되지 않았다”는 취지의 판결을 확정한 바 있다. 개인 배상 청구권이 사라지지 않았다는 것이다. 이에 따라 일제의 불법 행위에 대한 손해배상 청구 소송에서 일본 기업 등이 배상하라는 판결이 잇따라 나왔다. 일본 측은 개인 배상을 포함한 징용 문제가 청구권 협정으로 완전히 해결됐다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시장서 승려 때리고 옷 벗은 만취 50대 체포</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/09/11/LFEP5MKOZRHGBMUCLVOIFEPPYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/11/LFEP5MKOZRHGBMUCLVOIFEPPYY/</guid>
@@ -827,15 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해루질 한다며 집을 나섰다가 실종됐던 50대 남성이 이틀 만에 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;10일 평택해경에 따르면, 이날 오후 3시 40분쯤 충남 당진 송악읍 당진항 고대부두 인근 해상에서 50대 남성 A씨가 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 8일 저녁 당진에서 해루질하겠다며 집을 나선 뒤 가족과 연락이 두절됐다고 한다.&lt;br&gt;&lt;br&gt;해경은 정확한 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, ‘총책 마동석’ 캄보디아 보이스피싱 조직원에 중형 구형</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/Y6AT3CP6QBFY3GDAEVJP6HWAWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/Y6AT3CP6QBFY3GDAEVJP6HWAWA/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 09:21:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYSBV3GBJFEZEGZXXGHIXFV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 본거지를 두고 활동한 보이스피싱 조직원들에게 검찰이 징역 13년의 중형을 구형했다.&lt;br&gt;&lt;br&gt;10일 서울동부지법 형사11부(재판장 강민호)는 범죄단체가입 등 혐의로 구속 기소된 보이스피싱 조직원 5명에 대한 공판 기일을 열었다. 검찰은 이날 ”조직적 범죄로 인한 피해가 중하다“며 서모씨에게 징역 13년, 김모씨에게 징역 10년, 한모씨와 A씨에게 징역 8년, B씨에게 징역 6년을 구형했다.&lt;br&gt;&lt;br&gt;이들이 소속됐던 ‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 가로챈 것으로 조사됐다. 조직은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 성매매 업소 실장을 사칭하는 ‘로맨스팀’ 등 범죄 수법에 따라 7개의 팀으로 나뉘어 운영됐다. 캄보디아에서 활동하던 조직원들은 비자 연장 등 문제로 잠시 한국에 들어왔다가 검거됐으며, 대부분 2030 MZ세대다.&lt;br&gt;&lt;br&gt;이날 검찰이 가장 높은 형량을 구형한 서씨는 조직원 다수를 거느리며 범행을 지시한 관리자급 조직원이었다고 한다. 피고인들은 눈물을 흘리며 ”범죄를 저지른 것에 깊이 반성하고 있고 피해자들의 피해 회복에도 최선을 다하겠다“고 했다.&lt;br&gt;&lt;br&gt;이들에 대한 선고 기일은 내달 17일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 특검, ‘삼부토건 주가조작’ 수사 중 도주한 이기훈 목포서 체포</title>
       <link>https://www.chosun.com/national/court_law/2025/09/10/YTT4CCOKHFEOXDUT5SYZEZWIPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/YTT4CCOKHFEOXDUT5SYZEZWIPI/</guid>
@@ -854,33 +924,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HP5USRRYZGTWTCGDQEHZHOYZAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극동방송 이사장 김장환 목사. /원천침례교회 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김장환 목사 측이 10일 임성근 전 해병대 1사단장의 ‘구명 로비’ 의혹과 관련해 “그 어떤 구명 로비를 한 사실이 없고 관련 증거나 정황도 없다”며 “선량한 참고인에 대한 불법 부당한 수사를 즉각 중지해달라”고 주장했다.&lt;br&gt;&lt;br&gt;김 목사 측 변호인은 이날 오후 5시쯤 이 같은 내용의 의견서를 순직 해병 특검 사무실에 제출하고 언론에도 공개했다. 앞서 특검은 지난 7월 극동방송 이사장인 김 목사와 한기붕 전 극동방송 사장 등이 고(故) 채수근 상병 사건과 관련한 구명 로비 의혹에 연루된 정황을 포착했다며 압수 수색했다. 특검은 최근 김 목사에게 참고인 조사를 받으라며 소환 통보를 했지만, 김 목사 측은 지난 8일 불출석한데 이어 11일 조사에도 응하지 않겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김 목사 측은 의견서에서 “김 목사와 한 전 사장은 그동안 참고인 자격으로 특검 수사에 성실하게 임해 실체적 진실이 밝혀질 수 있도록 최대한 협조해왔다”면서 “강제적인 압수 수색에도 불구하고 김 목사가 구명 로비에 관여했다는 직·간접적인 증거나 정황은 확인된 것이 없다”고 주장했다. 이어 “그러자 특검은 김 목사의 (채 상병 사건 당시) 통화 내역을 특정 언론사에 불법적으로 흘려, 방송과 언론을 통해 일평생 기독교 복음 전파와 나라와 민족을 위해 살아온 김 목사의 명예를 심각하게 훼손했다”고 했다.&lt;br&gt;&lt;br&gt;일부 언론은 최근 김 목사가 지난 2023년 7~9월 윤석열 전 대통령과 이종섭 전 국방장관, 임 전 사단장 등과 통화한 내역이 있다며 구명 로비 의혹을 보도했다. 이에 대해 김 목사 측은 “특정 언론에 의도적으로 유출한 김 목사의 통화 내역은 수사기관의 강제 수사에 따라 확보된 증거이며, 임 전 사단장 구명 로비와 전혀 관계가 없는 사생활 비밀 보호 대상이 되는 통신 자료”라고 말했다.&lt;br&gt;&lt;br&gt;또 한 전 사장이 2023년 7월부터 약 1년간의 휴대전화 통화 기록 등을 삭제했다는 특검 측 발표에 대해서는 “완전히 날조된 허위 사실”이라고 반박했다. 김 목사 측은 “한 전 사장은 통화 내역 등을 삭제한 사실이 전혀 없으며, 사무실 컴퓨터 파일을 삭제하도록 지시한 사실이 결코 없었다는 점을 밝힌다”고 했다.&lt;br&gt;&lt;br&gt;김 목사 측은 “그동안 여러 차례 특검 검사에게 압수 수색 결과 김 목사의 구명 로비 실체는 없는 것으로 확인됐으니 수사를 종결해달라고 요구했다”면서 “수사에 적극 협조하는 선량한 참고인에 대한 불법 부당한 수사를 즉각 중지해달라”고 했다. 이어 “존경받는 기독교 지도자를 범죄자로 낙인찍고 낡은 프레임을 씌우는 수사는 과잉 수사를 넘어 의도된 불법 표적수사에 해당하며, 헌법에 보장된 종교의 자유를 심각하게 침해하는 종교탄압 수사에 다름 아니다”라고도 했다.&lt;br&gt;&lt;br&gt;다만 김 목사 측은 “조사할 구체적인 사항을 미리 고지해 협의하면 실체적 진실 발견에 도움이 되도록 성실하게 수사에 협조할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>여성변호사회 “최말자씨 무죄 판결 환영…성 피해자에 대한 정의구현"</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/IDRITEPZLFGK7OMOHGTSGPIF6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/IDRITEPZLFGK7OMOHGTSGPIF6Q/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 09:02:54 +0000</pubDate>
-      <content:encoded>자신을 성폭력하려던 남성의 혀를 깨물어 유죄를 선고받았던 최말자(79)씨가 61년 만에 무죄 판결을 받은 것에 대해 한국여성변호사회가 “환영한다”는 입장을 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EBC3J5TMZZLRXJJ2CBYMLWYEZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;61년 전 성폭행범 혀를 깨물어 집행유예 확정판결을 받았던 최말자 씨가 10일 오후 부산 연제구 부산지방법원에서 열린 재심 선고공판에서 무죄를 선고받은 뒤 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국여성변호사회(여변)는 10일 “여성 인권과 정의를 위해 큰 용기와 결단을 보여준 최말자씨에게 깊은 지지와 연대의 마음을 전한다”면서 “우리 사회의 성 평등과 사법 정의를 실현한 재판부의 판결을 적극 환영한다”고 밝혔다. &lt;br&gt;&lt;br&gt;최말자씨는 1964년 5월 6일 자신을 성폭행하려던 남성 노모(당시 21세)씨의 혀를 깨물어 1.5cm 자른 혐의로 징역 10월, 집행유예 2년을 선고받았다. 당시 최말자씨는 성폭행에 저항한 정당방위라고 주장했지만 법원은 이를 받아들이지 않았다. 61년이 지난 이날, 부산지법 형사5부(재판장 김현순)는 최말자씨의 중상해 등 혐의 재심에서 무죄를 선고했다. &lt;br&gt;&lt;br&gt;이에 대해 여변은 “피해자의 정당방위를 인정하지 않고 가해자로 판단한 과거 판결은 우리 사회에 만연했던 성폭력 피해자에 대한 사회적 편견과 왜곡된 시선이 반영된 결과였고, 이로 인해 성폭력 피해자가 가해자보다 더 무거운 처벌을 받는 불합리한 결과가 초래됐다”고 했다.&lt;br&gt;&lt;br&gt;또한 “이번 재심 판결로 인해 61년 만에 성폭력 피해자의 정당방위 및 방어권에 대한 과거의 잘못된 판단을 바로잡고 중요하고 의미 있는 선례를 남기게 되었다”면서 “국가와 사법체계는 성폭력 피해자에 대하여 어떠한 편견과 성차별적 시선을 갖지 않고 정의구현이라는 본연의 역할을 다해야 할 것이다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이태원 참사 막말’ 김미나 창원시의원, 유가족에 1억여원 배상 판결</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/4NMVQ53MQBBWBO5TJOI6C6CP5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/4NMVQ53MQBBWBO5TJOI6C6CP5Q/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 08:23:17 +0000</pubDate>
-      <content:encoded>이태원 참사 유가족을 모욕하는 글을 소셜미디어에 올려 형사재판에서 유죄가 확정된 김미나 창원시의원이 민사 소송에서도 유족들에게 거액을 물어주게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VGE72NODNOWL6GKCKIO53ZVTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김미나 창원시의원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사912단독 이선희 부장판사는 10일 이태원 참사 유가족 150명이 김 의원을 상대로 낸 손해배상 청구 소송에서 “원고들에게 총 1억4330만원을 배상하라”며 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;재판부는 희생자의 배우자에게는 150만원, 직계존속은 120만원, 약혼자는 100만원, 형제자매는 70만원, 인척은 30만원씩 위자료를 정했다. 재판부는 “원고의 게시글 중 일부는 원고들 전부에 대해 인격권을 침해하는 모욕적이고 경멸적인 인신공격에 해당한다”고 설명했다.&lt;br&gt;&lt;br&gt;김 의원은 이태원 참사 이후인 2022년 11~12월 자신의 페이스북에 이태원 참사 유족들을 가리켜 “자식 팔아 장사한다는 소리 나온다. 나라 구하다 죽었냐” “시체 팔이 족속들” “세월호에 재미 들여서 이태원에 써먹으니 식상” 등의 글을 게시했다. 유가족들은 김 의원을 모욕 혐의로 형사 고소했고, 4억5700만원 규모의 손해배상 청구 소송도 제기했다.&lt;br&gt;&lt;br&gt;형사재판 1·2심은 징역 3개월의 선고를 유예했다. 2심 과정에서 김 의원은 “깊이 반성하고 앞으로도 언행에 조심하겠다”고 사과했지만, 유가족 측은 “진심으로 사과한 적이 없다”면서 이를 받아들이지 않았다. 검찰과 김 의원 모두 상고하지 않아 지난해 10월 형은 그대로 확정됐다. 한편 창원시의회는 윤리특별위원회를 열어 김 의원에 대한 징계 수위를 제명으로 의결했지만, 본회의에서 무산된 바 있다.&lt;br&gt;&lt;br&gt;이날 선고 이후 유가족 측 대리인은 “오늘 판결이 2차 가해에 대한 사회적 관심을 불러오고 예방할 계기가 됐으면 좋겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDGFO65B6LXVR5PQ7LWZ5A6CDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10.29 이태원 참사 '2차 가해' 김미나 창원시의원에 대한 손해배상 소송 제기 기자회견이 10일 진행되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조리기능사 시험 식재료 제자들에게 유출한 교사 3명… 부정행위로 수사받아</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/10/GAUKXFU3HZBUHBJQDOCGSHTU5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/10/GAUKXFU3HZBUHBJQDOCGSHTU5U/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 08:43:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STBYT5T4JBF3DNP4BULXPLCHNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안동남경찰서. /천안동남경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가기술자격시험 중 하나인 조리기능사 시험에 쓰일 식재료를 사전에 유출한 혐의로 충남 천안 한 특성화고 교사들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남 천안동남경찰서는 국가기술자격법 위반 등 혐의로 입건된 교사 3명에게 범죄 혐의가 있다고 판단해 최근 검찰에 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 6월 10~12일 천안 한 특성화고에서 진행 예정이던 조리기능사 실기 시험을 하루 앞두고 교내 냉장고에 보관된 시험에 쓰일 식재료를 사전에 확인하고 학생들과 공유한 혐의를 받는다. 일부 교사는 냉장고에 부착된 보안 스티커를 떼고 식재료를 확인한 후 다시 붙여놓은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 교사들의 휴대전화 디지털 포렌식을 진행하고, 관계자들을 대상으로 수사를 벌여 부정행위를 뒷받침할 수 있는 증거를 확보했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘20대 여대생과 마약 투약’ 코스닥상장사 임원 실형</title>
       <link>https://www.chosun.com/national/national_general/2025/09/10/VG3HZVNYXBGW7B663XHHJM5FIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/VG3HZVNYXBGW7B663XHHJM5FIE/</guid>
@@ -890,15 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQLSR6VQZVAUOXJMEMH6KYB27I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원 로고 현판.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SKY 명문대생 마약 동아리’ 소속 여대생과 함께 마약을 투약한 혐의로 재판에 넘겨진 코스닥 상장사 임원이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 고소영 판사는 10일 마약류관리법 위반 등 혐의로 구속 기소된 40대 코스닥 상장사 임원 A씨에게 2년 6개월을 선고했다. 추징금 60만원과 80시간의 약물중독 재활 프로그램 이수도 함께 명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 대학생인 20대 여성 B씨와 상습적으로 필로폰을 투약·소지한 혐의를 받는다. 마약을 투약한 상태에서 서울 올림픽대로, 강변북로 등 약 13km 구간에서 고급 외제차를 운전하기도 했다. &lt;br&gt;&lt;br&gt;A씨는 검찰의 수사를 받는 동안 출장을 핑계로 미국으로 도주하려 했으나 검찰의 출국 금지 조치로 구속됐다. 앞서 A씨는 지난 2020년 태국에서 마약을 밀수하는 등 동종 범행으로 징역 3년에 집행유예 5년을 선고받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 범행은 검찰이 SKY 포함 수도권 13개 대학 학생들이 포함된 연합 동아리 ‘깐부’의 집단 마약 투약 사건을 수사하며 드러났다. 해당 동아리 회장인 20대 염모씨는 지난해 7월 구속 기소됐다. B씨는 동아리 회장이 구속돼 마약을 구하기 어렵게 되자, A씨로부터 마약을 제공받으며 함께 투약한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;고 판사는 “동종 범행으로 인한 집행유예 기간에 범행을 저질러 엄한 처벌이 불가피하고 투약 횟수, 경위, 기간을 고려하면 죄질이 좋지 않다”고 봤다. 그러면서도 고 판사는 “범행을 대체로 자백하고 반성하고 있고 수사기관에서 자신의 범행을 적극적으로 밝히고 공범에 대해 제보한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] ‘임은정 1대1 토론 제안’ 檢간부 “특검 파견 검사 복귀 독려해달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/PYAUUPRBVFHHNHCRLAPJHDRQVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/PYAUUPRBVFHHNHCRLAPJHDRQVQ/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 07:57:47 +0000</pubDate>
-      <content:encoded>임은정 서울동부지검장에게 검찰청 폐지를 골자로 한 개혁을 주제로 한 1대1 공개 토론을 제안한 현직 부장검사가 10일 “특검에 파견된 검사의 복귀를 독려해달라”고 정성호 법무장관에게 요청했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 보건·소년범죄 등 민생 사건 수사를 전담하는 서울북부지검 형사3부의 장진영 부장검사는 이날 검찰 내부망 이프로스에 게시글을 올려 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCPNTNHA6ITNSTWPY5PR26R56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 부장검사는 “전국 일선청의 형사부엔 통상 4~5명의 검사가 배치됐는데, 지난 인사이동 이후 2~3명만 배치된 경우가 많다”며 “미제 사건과 (특검 파견으로 인한) 재배당 사건은 늘어가고, 이는 자연스레 6개월·1년을 초과하는 장기 사건의 증가로 이어질 것”이라고 했다. 미제 사건이 쌓이다가는 ‘부도’를 맞을 수 있다는 우려를 내비친 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 이러한 일선 형사부의 상황을 해결할 수 있는 대안으로 ‘특검 파견 검사 복귀 독려’를 제안한 것이다. 장 부장검사는 “파견 중인 검사들은 대부분이 경력 검사들로, 업무 처리가 뛰어난 것으로 알고 있다”며 “이러한 검사들이 일선으로 복귀한다면 한 명이라도 절실한 일선 형사부에 큰 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;장 부장검사는 특검 수사의 공정성을 고려할 때 파견 검사 복귀가 필요하다고 주장했다. 당정이 검찰청을 폐지하는 것은 일부 정치적 사건 수사로 국민적 불신을 샀기 때문인데, 특검에 파견돼 수사 중인 검사들도 이 수사에 참여했던 ‘덩어리 중 일부’이지 않느냐는 것이다. 장 부장검사는 검찰개혁에 대해 “일부가 부패했으니 전체를 폐기해야 한다는 것인데, 특검에 파견 중인 검사들은 검찰에 상당 기간 재직해 ‘폐기돼야 할’ 핵심 자원”이라고 했다. 개혁 대상이라고 지목한 검사들에게 전 정권 수사를 맡기는 것은 모순이라는 얘기다.&lt;br&gt;&lt;br&gt;장 검사는 또 특검에 파견된 검사들이 수사를 비롯해 공소유지까지 맡는 것은 검찰개혁의 논리와 맞지 않는다는 점도 지적했다. 당정은 수사와 기소를 분리시켜 검사에게 기소와 공소유지만을 맡기는 개혁안을 추진하고 있다. 그런데 수사 경험이 풍부한 경력 검사들이 특검에서 정치인 관련 사건을 수사하고, 재판까지 맡게 되면 형평성 문제가 불거질 수 있다는 것이다. 장 부장검사는 “민생 사건의 관계자들이 왜 차별을 받는지 의문을 가질 수도 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;대신 장 검사는 “현재 국민의 대표들로부터 수사 주체로서 두터운 신뢰를 얻고 있는 경찰을 대거 특검에 투입해주시라”며 “검사가 꼭 필요하다면 개혁의 원인과는 무관한 신임 검사들을 투입하는 방안을 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;장 부장검사처럼 일선 형사부를 이끌고 있는 이주훈 대전지검 형사3부장도 댓글로 공감을 표했다. 이 부장검사는 “검찰은 내란에 동조했다는 비난을 받았다”며 “검찰청 소속 검사들이 특검에서 벌이는 수사가 중립성을 확보하려면 검사들이 복귀해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>파주 군부대 폭발로 2명 중상 등 8명 부상… “교육용 포탄 터져”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/10/57YLAW66NFCQJMYQ72LPMP7A4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/57YLAW66NFCQJMYQ72LPMP7A4Y/</guid>
@@ -906,15 +940,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 07:58:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA53J53ROBBWPBKACZLL2HCDVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군 부대./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주 육군부대 폭발 사고로 8명이 다쳤다.&lt;br&gt;&lt;br&gt;10일 군 당국에 따르면 이날 오후 3시 24분쯤 파주시 소재 한 육군 부대 내에서 군 교육 훈련 때 사용하는 교보재 포탄이 터졌다. 2명 중상, 6명 경상 등 군인 8명이 부상을 입었다. &lt;br&gt;&lt;br&gt;이날 오후 4시 25분쯤 헬기를 통해 부상자를 병원으로 옮겼다. 부상자 모두 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 부대에선 실탄 없이 사격 절차를 연습하는 훈련이 진행됐다. 이때 폭음을 내는 용도의 교보재 포탄이 터진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;군 당국은 정확한 사고 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘브랜드뉴파티’ 입당원서 1162장 조작...조성은 1심 실형 집행유예 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/OXSJ3BIUHZFMDBK3TDZ672FDCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/OXSJ3BIUHZFMDBK3TDZ672FDCY/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 06:35:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMA5CWEXLZPVDPJRDGVIOXJAO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신당 브랜드뉴파티 창당 당시 입당원서를 조작한 혐의로 재판에 넘겨진 조성은 올마이티미디어 대표./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2020년 ‘브랜드뉴파티’라는 새로운 당을 만드는 과정에서 입당원서를 위조한 혐의를 받는 조성은 올마이티미디어 대표가 1심에서 실형 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 고소영 판사는 사문서위조, 정당법 위반 등 혐의로 기소된 조 대표에서 징역 1년에 집행유예 2년을 선고했다. 사회봉사 40시간도 함께 명했다.&lt;br&gt;&lt;br&gt;조 대표와 같은 혐의로 기소된 김종구 전 주몽골 대사, 이재섭 전 브랜드뉴파티 경기도당 위원장은 각각 징역 6개월, 집행유예 1년을 선고받았다. &lt;br&gt;&lt;br&gt;이들은 지난 2020년 2월 ‘브랜드뉴파티’ 창당을 위해 허위로 입당 원서를 제출했다. 검찰에 따르면, 조 대표는 김 전 대사를 통해 월남전 참전 유공자 1만8000여명의 명단과 생년월일, 주소, 연락처 등의 개인보를 넘겨받아 원서 1162장을 조작했다. &lt;br&gt;&lt;br&gt;고 판사는 “정당을 허위로 등록할 경우 정당정치 자체의 신뢰성을 저하시킬 뿐만 아니라 선거의 공정성에도 영향을 미칠 수 있다”며 “그럼에도 피고인들은 범행을 부인하고 있다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;한편 조 대표는 지난 2020년 당시 윤석열 검찰총장이 측근을 통해 미래통합당(현 국민의힘)에 여권 정치인에 대한 형사고발을 사주했다는 의혹의 제보자로 알려진 인물이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란특검, 한동훈 전 국민의힘 대표 ‘공판 전 증인신문’ 청구</title>
@@ -933,24 +958,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 05:09:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH7UUMAWIRMBPMZJ7ONXY76LQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 검경 등 수사기관이 통신사로부터 이용자 정보를 받을 때 반드시 법원의 허가를 받도록 하는 등 제도적 장치를 마련해야 한다고 국회의장 등에게 권고했다.&lt;br&gt;&lt;br&gt;인권위는 “개인정보 유출로 인한 기본권 침해의 위험성이 커지고 있다”며 수사기관이 통신 조회를 할 때는 법원의 허가를 받도록 할 것을 지난 8월 25일 국회의장 등 관계 기관에 권고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;현행 전기통신사업법 제83조 제3항은 수사기관이 재판이나 수사를 위해 전기통신사업자에게 성명, 주민등록번호, 주소, 전화번호 등의 ‘이용자 정보’를 요구할 수 있도록 정하고 있다. 이는 1978년 제정된 전기통신법에서 시작된 조항으로, 인터넷과 휴대전화가 보급되기 전 시대의 법 제도를 그대로 답습한 내용이다.&lt;br&gt;&lt;br&gt;인권위는 인공지능(AI), 빅데이터 등 고도화된 디지털 환경에서 무분별하게 수집된 이용자 정보가 개인의 행동 패턴이나 정치 성향 등을 파악하는 데 악용될 수 있어 기본권 침해 우려가 있다고 봤다. &lt;br&gt;&lt;br&gt;실제 수사기관이 범죄와 무관한 국민의 인적 사항까지 수집한 사례가 이어져 왔고, 국제사회도 꾸준히 우려를 표해왔다. &lt;br&gt;&lt;br&gt;또한 인권위는 법 개정 전이라도 주민등록번호 등 민감 정보 제공 제한, 수집 정보의 목적 외 사용 금지 및 폐기, 비밀 유지 의무 강화, 제공 현황 공개, 수사기관 내부 심사 절차 마련 등의 제도 개선이 시급하다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관악구 피자가게 칼부림’ 피의자 일주일만에 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/2P63OADOOBCEHEXS42PCEKMX4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/2P63OADOOBCEHEXS42PCEKMX4Q/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 05:02:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJPMTPUUGRMTVLZXJUCSNGDN44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 관악구 한 식당에서 칼부림 사건이 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 피자가게에서 흉기를 휘둘러 3명을 살해한 피의자가 사건 발생 일주일 만에 체포됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 10일 오전 피자가게 프랜차이즈 가맹점주 A(41)씨를 살인 혐의로 체포했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3일 서울 관악구 조원동(옛 신림8동)에서 자신이 운영하던 피자가게에서 프랜차이즈 본사 임원 1명, 인테리어 업자 2명에게 흉기를 휘둘러 살해한 혐의를 받는다. A씨는 매장 보수 공사를 두고 본사와 갈등이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 자해를 시도하다 중상을 입어 일주일 동안 병원 치료를 받고 있던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “향후 피의자를 상대로 범행 경위를 면밀하게 조사한 후 구속영장을 신청할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 내년부터 시행되는 쓰레기 직매립 금지... 지난 4년간 신규 공공 소각장은 ‘0곳’, 민간 소각장 물량만 77% 늘었다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/10/3GNXGEQMVFCSNECHSGCOLIROP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/10/3GNXGEQMVFCSNECHSGCOLIROP4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 20:00:00 +0000</pubDate>
-      <content:encoded>서울 동작구는 최근 한 재활용 업체와 한 해 4700t, 3년간 총 1만4100t의 생활 폐기물을 처리하는 27억원짜리 계약을 맺었다. 동작구는 “쓰레기 직매립 금지 조처에 따라 ‘쓰레기 대란’이 없도록 처리 활로를 확보해 놓은 것”이라고 했다.&lt;br&gt;&lt;br&gt;내년부터 시행될 수도권(서울·인천·경기) 쓰레기 직매립 금지 조처까지는 2021년부터 현재까지 4년의 준비 기간이 있었다. 쓰레기를 그대로 묻지 않고 한 번 태워 소각재만 묻어 매립지 낭비를 줄이고, 발생지 처리 원칙에 따라 지자체가 신규 공공 소각장을 지어 처리하자는 취지였다.&lt;br&gt;&lt;br&gt;그러나 9일 본지가 지난 4년간 수도권 지자체의 생활 폐기물 처리 현황을 분석한 결과, 공공 소각장 증설은 전부 실패하고 민간 위탁을 통한 처리가 대폭 늘어난 것으로 확인됐다. 공공 영역에 있던 생활 폐기물 처리가 민간으로 넘어가고 있는 것이다. 2021년 수도권 지자체들의 생활 폐기물 민간 위탁 처리량은 25만464t이었다. 그런데 작년엔 36만7823t, 올해는 지난 7월까지 44만3609t으로 2021년 대비 각각 41%, 77% 증가했다. 민간 위탁이란 쓰레기를 공공 소각장이 아닌 민간 소각장과 재활용 업체를 통해 처리했다는 뜻이다. 반면 환경부가 기대했던 공공 소각장 증설은 한 곳도 없었다.&lt;br&gt;&lt;br&gt;전문가들은 공공성을 확보할 방안을 찾아야 한다고 지적한다. 유럽연합(EU)은 쓰레기 소각 시 열에너지 회수율이 60% 이상인 소각장에 각종 인센티브를 주고 있다. 소각열로 천연가스를 대체하거나 난방에 활용할 수 있기 때문이다. 오세천 공주대 환경공학과 교수는 “민간 위탁 처리 시 향후 쓰레기 거부 등의 문제가 발생하지 않도록 유의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
