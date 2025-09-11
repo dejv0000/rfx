@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시장서 승려 때리고 옷 벗은 만취 50대 체포</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/09/11/LFEP5MKOZRHGBMUCLVOIFEPPYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/11/LFEP5MKOZRHGBMUCLVOIFEPPYY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 10:03:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TZ4SAEDTTIFO3JX7DVDNIZPXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원서부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시장에서 시줏돈을 받는 승려를 이유 없이 폭행하고 옷을 벗은 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경남 창원서부경찰서는 특수폭행과 공연음란 등의 혐의로 A(50대)씨를 현장에서 체포했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 11일 오후 3시 39분쯤 창원시 의창구 봉곡시장 인근에서 시줏돈을 받는 승려를 소주병과 휴대전화로 폭행하고, 옷을 벗는 등 난동을 부린 혐의를 받는다.&lt;br&gt;&lt;br&gt;행인의 신고를 받고 출동한 경찰은 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;A씨는 체포 당시 만취 상태였고, 별다른 이유 없이 승려에게 폭력을 휘두른 것으로 알려졌다. 폭행을 당한 승려는 크게 다치지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 구체적인 범행 동기와 동종 전과 여부 등을 조사한 후 구속영장 신청을 검토할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새만금국제공항 좌초 위기… 김관영 전북지사 “깊은 유감”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/I7HKYZATT5E7TA5GIPXYLINAPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/I7HKYZATT5E7TA5GIPXYLINAPU/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 09:02:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YERWTHB7TEDP6YFZO3YOE62RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김관영 전북도지사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새만금 국제공항 건설 사업 기본계획을 취소하라는 법원 판결이 나오자, 김관영 전북도지사가 “180만 전북도민과 함께 깊은 유감을 표한다”고 11일 밝혔다. &lt;br&gt;&lt;br&gt;김 지사는 이날 자신의 소셜미디어(SNS)를 통해 “이번 판결은 오랜 시간 새만금 국제공항을 염원해온 전북도민의 뜻과 국가가 약속한 균형발전의 대의에 정면으로 반하는 결정”이라며 “전북도는 국토교통부와 즉시 협력해 항소 절차에 돌입하고, 항소심을 통해 새만금 국제공항의 필요성과 정당성을 반드시 입증해 내겠다”고 했다. &lt;br&gt;&lt;br&gt;그는 “새만금 국제공항은 새만금 개발의 핵심 동력이자 전북의 미래를 떠받치는 국가 기간 인프라다”며 “2019년 국가균형발전 프로젝트로 선정된 이래 중앙정부와 전북도가 함께 일관되게 준비해온 중차대한 사업으로 중단은 있을 수 없다”고 강조했다. 이어 “새만금 국제공항과 관련한 법적 분쟁은 조속히 종식돼야 하며, 사업은 차질 없이 추진되어야 한다”고 했다. &lt;br&gt;&lt;br&gt;더불어민주당 전북도당도 법원 판결에 반발했다. 전북도당은 이날 입장문을 내고 “전북 도민의 오랜 염원을 짓밟고 균형 발전이라는 국가 생존 전략에 역행한 판결”이라며 “공항 개발 사업 기본 계획 취소 소송에 대한 원고(새만금신공항백지화공동행동) 승소 판결에 깊은 유감”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “공항 건립은 균형 발전을 앞당기고 국가의 미래 전략 거점을 마련할 중차대한 사업”이라며 “국토교통부가 즉시 항소하고 사업을 지속해서 추진할 것을 촉구하며 앞으로 국토부, 전북도와 협력해 하루라도 빨리 공항이 건립되도록 힘을 모을 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잇따르는 유괴 시도에… 경찰, 학교 인근 순찰 대폭 강화</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/X2HKQ7JAXRGA3FTOSBIH3G6VZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/X2HKQ7JAXRGA3FTOSBIH3G6VZI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 08:26:09 +0000</pubDate>
+      <content:encoded>경찰이 전국 초등학교 주변 순찰을 대폭 강화하고 수상한 인물에 대해선 검문 검색을 실시하기로 했다. 최근 전국에서 아동을 유괴하려 한다는 신고가 잇따르자 대책을 내놓은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMZKO5ZCPAXH2GHZCVSVWYVO6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 서울 서대문구 한 초등학교에서 경찰관들이 학생들의 하굣길을 지키고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 전국 초등학교 6183곳의 등·하교 시간대에 맞춰 순찰을 대폭 강화하겠다고 11일 밝혔다. 학교 인근과 통학로 등에 경찰을 집중 배치하며, 오랫동안 주차된 차량이나 어린이 주변을 배회하는 인물에 대해선 적극적으로 검문 검색을 실시할 계획이다. 경찰에 따르면 지난 5일 경남 기동순찰대가 초등학교 인근에서 순찰 도중 경찰관을 보고 달아나는 남성을 발견했는데, 이 남성을 따라가 신원을 확인해 보니 지명 수배자였다고 한다.&lt;br&gt;&lt;br&gt;경찰은 이를 위해 전국 지구대·파출소 소속 경찰(약 4만 8000명), 기동순찰대(약 2500명)를 비롯해 교통경찰 3000여명, 학교전담경찰관(SPO) 1100여명 등 총 5만5000여명의 경찰을 최대한 동원할 방침이다. 경찰 관계자는 “필요한 경우 아동안전지킴이, 녹색어머니, 자율방범대 등 시민들과도 협력해 합동 순찰을 실시하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 지역별로는 지방자치단체 CCTV 관제센터(전국 217곳)에서도 화상 순찰을 강화하고, 등·하교 시간대에 거동이 수상한 인물이나 범죄가 의심스러운 상황이 확인되면 신속하게 경찰에 신고할 수 있도록 하겠다는 방침이다. 또 범죄예방진단팀(CPO)을 중심으로 학교 주변과 주요 통학로 일대에서 범죄나 사고에 취약한 부분이 없는지 다시 한번 점검할 계획이다. &lt;br&gt;&lt;br&gt;서울지방경찰청도 이날 서울 지역 학부모를 대상으로 경계 경보인 ‘긴급 스쿨벨’을 발령했다. 학부모들에게는 자녀에게 낮선 사람이 접근했을 때의 대처법, 112 신고 요령 등을 안내했다. 이와 함께 등·하굣길 순찰을 강화하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10분 지각 버스에 ‘욱’...터미널 직원에 흉기 든 50대 체포 </title>
+      <link>https://www.chosun.com/national/2025/09/11/SEX5UU7FCZEIZCMLTSR7Y5PQ7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/11/SEX5UU7FCZEIZCMLTSR7Y5PQ7A/</guid>
+      <dc:creator>하동=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 08:28:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스가 제때 오지 않는다며 흉기로 터미널 직원을 위협한 50대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 하동경찰서는 버스터미널 직원에게 흉기를 휘두른 혐의(특수협박)로 A씨를 검거했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 10일 오전 8시 45분쯤 하동군 진교면 진교버스터미널 대합실에서 진주행 버스를 기다리던 중 ‘버스가 늦게 온다’며 검표 직원에게 항의하다가, 가방 속에 소지하고 있던 흉기를 꺼내 휘두른 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨 범행으로 다친 사람은 없었다. A씨를 피해 달아나던 터미널 직원의 신고를 받고 출동한 경찰이 A씨를 현장에서 붙잡았다. 경찰이 왔을 때는 흉기를 들고 있진 않았다고 한다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 술에 취한 상태는 아니었다. 경찰은 A씨가 이날 8시 35분쯤 와야 할 버스가 10분 정도 늦자 이 같은 범행을 저지른 것으로 보고 있다. A씨는 범행을 시인했다고 한다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 우발적으로 범행한 것으로 보고 구속영장을 신청했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스-어도어 ‘전속계약 분쟁’ 조정 결렬…결국 법원이 10월 결론낸다</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/CFKCIJETD5CBRCNG2TVBTATLAA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/CFKCIJETD5CBRCNG2TVBTATLAA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 08:27:59 +0000</pubDate>
+      <content:encoded>걸그룹 뉴진스와 소속사 어도어의 전속계약 분쟁이 조정으로 마무리되지 못하고, 결국 법원 판결을 통해 결론이 나게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAUGGWZX7FJW3FCRRXM5AEC4WE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스 다니엘과 민지가 지난달 14일 서울 서초구 서울중앙지법에서 열린 '뉴진스 계약해지 선언에 계약 유효 확인 소송' 관련 소송 1차 조정기일에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사41부(재판장 정회일)는 11일 오후 1시 30분부터 어도어가 뉴진스 멤버들을 상대로 낸 전속계약 유효 확인 소송의 2차 조정 기일을 열었다. 뉴진스 멤버들은 법원에 나오지 않았다. &lt;br&gt;&lt;br&gt;이날 조정은 비공개로 약 20분간 진행됐지만, 결국 결론이 나지 않았다. 지난달 14일 1차 조정에 이어 두 번째 조정 시도도 무산된 것이다. 이에 따라 재판부는 오는 10월 30일 판결을 선고하기로 했다.&lt;br&gt;&lt;br&gt;이 소송은 지난해 8월 어도어가 민희진 전 대표이사를 해임한 뒤, 뉴진스가 어도어에 전속계약 해지를 통보하면서 시작됐다. 뉴진스는 민 전 대표의 복귀를 요구했지만 받아들여지지 않자, 신뢰 관계가 파탄 났다며 계약 해지를 주장했다. 그러자 어도어 측은 지난해 12월 “뉴진스가 일방적으로 전속계약 해지를 통보했다”면서 이 소송을 제기했고, 가처분 신청도 함께 냈다. &lt;br&gt;&lt;br&gt;소송 과정에서 어도어 측은 “소속사는 연예 활동의 기회를 제공했고 수익도 잘 정산하는 등 신뢰 관계가 파탄 난 상황이 아니라 전속 계약 해지 사유가 없다”고 주장하고 있다. 반면 뉴진스 측은 “민희진 전 대표가 축출된 이후, 전속 계약 체결 당시 믿고 의지했던 어도어는 존재하지 않는다. 신뢰 관계가 파탄 나서 전속 계약을 유지할 수 없다”는 입장으로 맞서는 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아동학대” 교사‧교직원 10명 고소한 학부모, 되레 구속 기로 </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/YLPDDESM4FAP7PETTXOY46PY5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/YLPDDESM4FAP7PETTXOY46PY5I/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 08:25:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAVYFRVKMBH2XDTSTOY6F3BAY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;교사와 교직원 10명을 협박 및 무고한 혐의를 받는 학부모에 대해 엄벌을 촉구하는 제주교사노조. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 한 학부모가 초등학교 교사와 교직원 10명을 아동학대 혐의로 고소했다가 되레 협박과 무고 혐의로 구속 갈림길에 섰다. &lt;br&gt;&lt;br&gt;제주 동부경찰서는 협박 및 무고 혐의로 학부모 A씨에 대해 구속영장을 신청했다고 11일 밝혔다. 경찰은 “A씨를 비롯해 교사 등 사건 관계자들을 조사한 결과 사안이 중대하고 재범 우려가 있다”고 영장 신청 이유를 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 작년 12월부터 올해 5월까지 자신의 자녀가 다녔던 제주시 한 초등학교 1~6학년 담임교사를 포함해 교직원 10명을 아동 학대 혐의로 고소했다. &lt;br&gt;&lt;br&gt;A씨는 초등학교를 졸업한 자녀가 초등학생 시절 학대를 당했고, 교사들의 수업 방식 등에 충격을 받아 지병이 발현됐다고 주장했다. 교사들에게 이러한 내용으로 연락을 시도하는 과정에서 A씨는 교사들에게 “죽이겠다”는 협박성 발언을 했다. 결혼을 앞둔 남성 교사에게는 ‘(결혼식에서) 깽판 치려 했다’고 하는 등 위협을 가했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 교사를 상대로 고소하기 전에 제주도교육청과 제주시교육지원청, 학교 행정실 직원 등을 상대로도 반복적인 민원을 제기한 것으로 파악됐다. 검찰 수사 결과 고소당한 7명에 대해 ‘혐의 없음’ 결론이 내려졌다. 나머지 3명은 경찰 수사 단계에서 불송치됐다. &lt;br&gt;&lt;br&gt;경찰은 아동학대 고소 사건을 수사하던 중 관련 사실을 인지하고 수사에 착수했다. 제주교사노동조합은 지난달 기자회견을 열고 A씨에 대한 엄벌을 촉구하며 경찰에 탄원서를 제출했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가뭄이 앗아간 커피향… 강릉커피축제 결국 취소 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/11/6VO2X6C465BIXAOOMPKEQGPZHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/11/6VO2X6C465BIXAOOMPKEQGPZHM/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>강원도 강릉의 대표 축제인 ‘강릉커피축제’가 취소됐다.
+강원 강릉시는 극심한 가뭄이 계속됨에 따라 다음달 23일부터 26일까지 열릴 예정이던 제17회 강릉커피축제를 전면 취소했다고 11일 밝혔다.
+</description>
+      <pubDate>Thu, 11 Sep 2025 08:19:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3KSIYHBX7NB45I4KQV4Y2USK34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강릉커피축제 취소 안내문&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 강릉의 대표 축제인 ‘강릉커피축제’가 취소됐다. 극심한 가뭄에 따른 물 부족 때문이다.&lt;br&gt;&lt;br&gt;강릉시는 가뭄이 계속됨에 따라 다음 달 23일부터 26일까지 열릴 예정이던 제17회 강릉커피축제를 전면 취소했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CMFPIRNU7FDSNNFN4LRHIG2GEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 9월 강릉의 한 아파트에서 아파트 관계자들이 주민들에게 1가구당 생수병 2묶음(12병)을 나눠주고 있다.  /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2009년 첫선을 보인 커피축제는 매년 30만명이 찾는 강릉의 대표 축제다. 다양한 종류의 커피 원두와 메뉴 소개, 시민들이 직접 커피를 만드는 ‘100인 100味’ 등 해마다 다채로운 행사를 선보였다. &lt;br&gt;&lt;br&gt;그러나 올해 8월부터 강릉시민 18만명이 사용하는 생활용수의 상수원인 오봉저수지의 저수율이 연일 최저치를 경신하자 강릉시는 행사를 취소한다는 결정을 내렸다.&lt;br&gt;&lt;br&gt;강릉시 관계자는 “강릉커피축제를 기다려온 분들의 상실감이 크겠지만 당장 물 절약이 절실한 시기”라며 “시민 안전과 물 공급 안정을 최우선으로 고려해 취소를 결정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[팩트 체크] 李대통령 “참사는 보수 정권에서 주로 발생” 사실일까?</title>
       <link>https://www.chosun.com/national/labor/2025/09/11/RBRFN7M7HFEONCIWMZSVZL7UYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/11/RBRFN7M7HFEONCIWMZSVZL7UYE/</guid>
@@ -816,15 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STBYT5T4JBF3DNP4BULXPLCHNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안동남경찰서. /천안동남경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가기술자격시험 중 하나인 조리기능사 시험에 쓰일 식재료를 사전에 유출한 혐의로 충남 천안 한 특성화고 교사들이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;충남 천안동남경찰서는 국가기술자격법 위반 등 혐의로 입건된 교사 3명에게 범죄 혐의가 있다고 판단해 최근 검찰에 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 지난 6월 10~12일 천안 한 특성화고에서 진행 예정이던 조리기능사 실기 시험을 하루 앞두고 교내 냉장고에 보관된 시험에 쓰일 식재료를 사전에 확인하고 학생들과 공유한 혐의를 받는다. 일부 교사는 냉장고에 부착된 보안 스티커를 떼고 식재료를 확인한 후 다시 붙여놓은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 교사들의 휴대전화 디지털 포렌식을 진행하고, 관계자들을 대상으로 수사를 벌여 부정행위를 뒷받침할 수 있는 증거를 확보했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“6세 아들을 밀치고 잡아당겼다”… 어린이집 학대 의심 신고</title>
-      <link>https://www.chosun.com/national/incident/2025/09/10/DUZFNB44TVF47IKCUBGKH6KGWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/10/DUZFNB44TVF47IKCUBGKH6KGWE/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 08:27:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66JXKNPDWZR3RZY272S4TIYTP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 어린이집 보조교사가 원생을 학대했다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;10일 인천 부평경찰서에 따르면 지난 4일 인천 부평구 한 어린이집에 다니는 아들이 아동 학대를 당했다는 신고가 경찰에 접수됐다. &lt;br&gt;&lt;br&gt;A(6)군의 엄마는 “지난달 14일 어린이집 보조교사 50대 B씨가 아들을 밀치고 잡아당겼다”며 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 신고 이후 해당 어린이집을 그만둔 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 해당 어린이집 내부 보안 카메라(CCTV) 등을 확보해 학대 정황 등을 확인할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A군이 얼마나 다쳤는지는 아직 확인되지 않았다”며 “10세 미만 아동이 학대를 당했다는 내용이라 인천경찰청에서 수사를 담당하게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘20대 여대생과 마약 투약’ 코스닥상장사 임원 실형</title>
       <link>https://www.chosun.com/national/national_general/2025/09/10/VG3HZVNYXBGW7B663XHHJM5FIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/VG3HZVNYXBGW7B663XHHJM5FIE/</guid>
@@ -832,15 +888,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 08:23:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQLSR6VQZVAUOXJMEMH6KYB27I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지방법원 로고 현판.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘SKY 명문대생 마약 동아리’ 소속 여대생과 함께 마약을 투약한 혐의로 재판에 넘겨진 코스닥 상장사 임원이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사9단독 고소영 판사는 10일 마약류관리법 위반 등 혐의로 구속 기소된 40대 코스닥 상장사 임원 A씨에게 2년 6개월을 선고했다. 추징금 60만원과 80시간의 약물중독 재활 프로그램 이수도 함께 명했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 7월 대학생인 20대 여성 B씨와 상습적으로 필로폰을 투약·소지한 혐의를 받는다. 마약을 투약한 상태에서 서울 올림픽대로, 강변북로 등 약 13km 구간에서 고급 외제차를 운전하기도 했다. &lt;br&gt;&lt;br&gt;A씨는 검찰의 수사를 받는 동안 출장을 핑계로 미국으로 도주하려 했으나 검찰의 출국 금지 조치로 구속됐다. 앞서 A씨는 지난 2020년 태국에서 마약을 밀수하는 등 동종 범행으로 징역 3년에 집행유예 5년을 선고받은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 범행은 검찰이 SKY 포함 수도권 13개 대학 학생들이 포함된 연합 동아리 ‘깐부’의 집단 마약 투약 사건을 수사하며 드러났다. 해당 동아리 회장인 20대 염모씨는 지난해 7월 구속 기소됐다. B씨는 동아리 회장이 구속돼 마약을 구하기 어렵게 되자, A씨로부터 마약을 제공받으며 함께 투약한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;고 판사는 “동종 범행으로 인한 집행유예 기간에 범행을 저질러 엄한 처벌이 불가피하고 투약 횟수, 경위, 기간을 고려하면 죄질이 좋지 않다”고 봤다. 그러면서도 고 판사는 “범행을 대체로 자백하고 반성하고 있고 수사기관에서 자신의 범행을 적극적으로 밝히고 공범에 대해 제보한 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 차량에 매달고 400m 질주한 음주 운전자… 야밤 추격전 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/WDXSW4NENJCVVNVQ4QY3CC55DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/WDXSW4NENJCVVNVQ4QY3CC55DU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 08:11:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QQW55YD6FBEGVKXWMQUUMBSVPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 운전자가 경찰이 음주 검문을 위해 정차를 요구하자 경찰을 차량에 매단 채 그대로 도주하고 있다. /경찰청 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 검문 요청에 불응한 채 경찰을 차량에 매달고 도주한 30대 음주 운전자가 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;10일 대전지법 천안지원 형사1부(전경호 부장판사) 심리로 열린 A씨에 대한 공판에서 검찰은 징역 3년을 구형했다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 29일 0시 52분쯤 아산시 배방읍 일대에서 술을 마신 채 운전하다, 정차를 지시한 경찰을 매달고 도주하는 등 특수공무집행 방해 혐의로 구속기소 됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰을 차량에 매단 채 400ｍ가량 주행한 것으로 조사됐다. 이로 인해 경찰은 타박상 등 전치 3주 상처를 입은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰청 공식 유튜브 채널에는 당시 상황이 담긴 영상이 공유됐다. 이를 보면, A씨는 ‘옆 차 운전자가 음주 운전을 하는 것 같다’는 신고를 받고 출동한 경찰의 정차 지시를 무시한 채 그대로 질주했다. 골목에서 도주로가 막혀 속도가 느려진 사이 경찰이 차량에 매달려 정차를 재차 요구했으나, A씨는 경찰을 매단 채 다시 도주를 시도했다. 결국 A씨는 함께 출동한 경찰이 순찰차로 다시 추격을 시도한 끝에 질주를 멈췄다. &lt;br&gt;&lt;br&gt;A씨의 당시 혈중알코올농도는 0.178％의 만취 상태였던 것으로 드러났다. &lt;br&gt;&lt;br&gt;A씨는 공판 최후 진술에서 “피해 경찰관과 국가에 물의를 일으킨 점에 대해 진심으로 사죄한다”며 범행을 인정한 것으로 알려졌다. 선고 공판은 오는 10월 1일 열릴 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘임은정 1대1 토론 제안’ 檢간부 “특검 파견 검사 복귀 독려해달라”</title>
@@ -852,28 +899,6 @@
       <content:encoded>임은정 서울동부지검장에게 검찰청 폐지를 골자로 한 개혁을 주제로 한 1대1 공개 토론을 제안한 현직 부장검사가 10일 “특검에 파견된 검사의 복귀를 독려해달라”고 정성호 법무장관에게 요청했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 보건·소년범죄 등 민생 사건 수사를 전담하는 서울북부지검 형사3부의 장진영 부장검사는 이날 검찰 내부망 이프로스에 게시글을 올려 이 같은 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCPNTNHA6ITNSTWPY5PR26R56A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 부장검사는 “전국 일선청의 형사부엔 통상 4~5명의 검사가 배치됐는데, 지난 인사이동 이후 2~3명만 배치된 경우가 많다”며 “미제 사건과 (특검 파견으로 인한) 재배당 사건은 늘어가고, 이는 자연스레 6개월·1년을 초과하는 장기 사건의 증가로 이어질 것”이라고 했다. 미제 사건이 쌓이다가는 ‘부도’를 맞을 수 있다는 우려를 내비친 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 이러한 일선 형사부의 상황을 해결할 수 있는 대안으로 ‘특검 파견 검사 복귀 독려’를 제안한 것이다. 장 부장검사는 “파견 중인 검사들은 대부분이 경력 검사들로, 업무 처리가 뛰어난 것으로 알고 있다”며 “이러한 검사들이 일선으로 복귀한다면 한 명이라도 절실한 일선 형사부에 큰 도움이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;장 부장검사는 특검 수사의 공정성을 고려할 때 파견 검사 복귀가 필요하다고 주장했다. 당정이 검찰청을 폐지하는 것은 일부 정치적 사건 수사로 국민적 불신을 샀기 때문인데, 특검에 파견돼 수사 중인 검사들도 이 수사에 참여했던 ‘덩어리 중 일부’이지 않느냐는 것이다. 장 부장검사는 검찰개혁에 대해 “일부가 부패했으니 전체를 폐기해야 한다는 것인데, 특검에 파견 중인 검사들은 검찰에 상당 기간 재직해 ‘폐기돼야 할’ 핵심 자원”이라고 했다. 개혁 대상이라고 지목한 검사들에게 전 정권 수사를 맡기는 것은 모순이라는 얘기다.&lt;br&gt;&lt;br&gt;장 검사는 또 특검에 파견된 검사들이 수사를 비롯해 공소유지까지 맡는 것은 검찰개혁의 논리와 맞지 않는다는 점도 지적했다. 당정은 수사와 기소를 분리시켜 검사에게 기소와 공소유지만을 맡기는 개혁안을 추진하고 있다. 그런데 수사 경험이 풍부한 경력 검사들이 특검에서 정치인 관련 사건을 수사하고, 재판까지 맡게 되면 형평성 문제가 불거질 수 있다는 것이다. 장 부장검사는 “민생 사건의 관계자들이 왜 차별을 받는지 의문을 가질 수도 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;대신 장 검사는 “현재 국민의 대표들로부터 수사 주체로서 두터운 신뢰를 얻고 있는 경찰을 대거 특검에 투입해주시라”며 “검사가 꼭 필요하다면 개혁의 원인과는 무관한 신임 검사들을 투입하는 방안을 고려해달라”고 했다.&lt;br&gt;&lt;br&gt;장 부장검사처럼 일선 형사부를 이끌고 있는 이주훈 대전지검 형사3부장도 댓글로 공감을 표했다. 이 부장검사는 “검찰은 내란에 동조했다는 비난을 받았다”며 “검찰청 소속 검사들이 특검에서 벌이는 수사가 중립성을 확보하려면 검사들이 복귀해야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  9월 11일 목요일 (음력 7월 20일 癸未)</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/5KQ5M5IPG5CQPJL7DFNL4B2UPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/5KQ5M5IPG5CQPJL7DFNL4B2UPI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	 36년생 누런색과 숫자 5, 10 절대 피하라. 48년생 후견인의 도움으로 새 일 시작할 수도. 60년생 이로움 백 가지면 해로움도 백 가지. 72년생 세상에 비포장도로만 있겠나. 84년생 잘 살아도 못 살아도 내 팔자. 96년생 음지가 양지 되고 양지가 음지 된다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	 37년생 믿고 기댈 수 있는 사람 되도록. 49년생 분수에 맞게 처신하면 욕먹을 일 없다. 61년생 금전 문제라면 보수적인 자세로. 73년생 양식은 머슴이 먹고 장작은 소가 때고. 85년생 상대가 실수할 때까지 기다려야. 97년생 찬사 속엔 비난도 함께한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	 38년생 남 잔치에 감 놔라 배 놔라 마라. 50년생 자제력이 어느 때보다 필요. 62년생 취침 전 3분의 명상이 최고의 피로 해소제. 74년생 사람들 평판은 고려 대상 아니다. 86년생 토사구팽은 권력과 이익 집단의 속성. 98년생 숫자 2, 7과 붉은색은 행운 부른다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	 27년생 충분한 휴식은 능률 배가한다. 39년생 원숭이띠와 차량 동승은 피하라. 51년생 가만히 있으면 무식은 면한다. 63년생 천리마 알아봐야 명장. 75년생 싸움은 말리고 흥정은 붙이랬다. 87년생 모르는 게 치욕은 아니다. 99년생 앞만 보고 달리지 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	 28년생 동성(同性)의 윗사람이 귀인. 40년생 자신이 할 일은 자신이 책임져야. 52년생 충동구매나 과소비는 피하라. 64년생 노력을 주면 성공을 살 수 있다. 76년생 비판과 시비라면 웃어넘기도록. 88년생 은에서 은 못 고른다. 00년생 북쪽에서 온 사람 경계.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	 29년생 복잡하게 생각 말고 간단명료하게. 41년생 가다가 멈추면 아니 감만 못하다. 53년생 멀리 내다보는 안목 갖도록. 65년생 뜻밖에 벼락감투 쓸 수도. 77년생 우렁이도 두렁 넘을 꾀 있다. 89년생 검은색이 재물 운 이끈다. 01년생 시루에 물 붓기.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	 30년생 좋게 생각하면 좋은 게 된다. 42년생 상황에 순응하며 지내도록. 54년생 굳은 의지가 등용문 여는 열쇠. 66년생 누구를 만나든 진솔한 모습으로. 78년생 사교성을 발휘하도록. 90년생 구설수 염려되니 사전에 주의. 02년생 권리에 앞서 책임을 다하라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	 31년생 해결의 열쇠는 가족 친지에게. 43년생 모래로 쌓은 성이 얼마나 가겠나. 55년생 이성 간 언행을 각별히 주의. 67년생 정체는 후퇴만 못하다. 79년생 마음을 넓게 가지니 몸이 편안. 91년생 활동은 많아도 소득은 별로. 03년생 더 벅차고 더 열정적으로.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	 32년생 십 년 세도 없고 열흘 붉은 꽃 없다. 44년생 몸은 쇠약해도 마음은 청춘. 56년생 흥망성쇠가 물레바퀴 돌 듯. 68년생 지나친 책임감은 벗어던져라. 80년생 순간의 선택이 하루를 좌우. 92년생 네 일도 내 일같이. 04년생 자기 반성이 문제 해결의 열쇠.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	 33년생 집 안이 명당이니 붙어 있어라. 45년생 뜻밖에 근심 걱정 해결될 수도. 57년생 한눈팔지 말고 본업에 충실. 69년생 자존심이 상하더라도 유연하게 대처하라. 81년생 서운하고 아쉬울 때가 물러날 때. 93년생 대천 바다도 건너봐야 깊이를 안다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	 34년생 머리보다 몸 쓰도록. 46년생 완벽하진 않지만 복지부동이 지금으로선 최선. 58년생 해결 실마리 안 보인다. 70년생 착수에 앞서 현재 처지 고려해야. 82년생 상대방 원망 나에게 돌리도록. 94년생 조급하게 서두를수록 달아날 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 밤하늘 달빛이 만 리 비추는구나. 47년생 심혈관 약하면 예방 필수. 59년생 이리 떼를 막자고 범을 불러들일까. 71년생 삼 년 벌던 논밭도 다시 보고 산다. 83년생 독신이라면 이성 만나기에 적합. 95년생 물가·강가·호숫가·수영장 등에서 원기 충전.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>파주 군부대 폭발로 2명 중상 등 8명 부상… “교육용 포탄 터져”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/10/57YLAW66NFCQJMYQ72LPMP7A4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/57YLAW66NFCQJMYQ72LPMP7A4Y/</guid>
@@ -881,34 +906,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 07:58:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NA53J53ROBBWPBKACZLL2HCDVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군 부대./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 파주 육군부대 폭발 사고로 8명이 다쳤다.&lt;br&gt;&lt;br&gt;10일 군 당국에 따르면 이날 오후 3시 24분쯤 파주시 소재 한 육군 부대 내에서 군 교육 훈련 때 사용하는 교보재 포탄이 터졌다. 2명 중상, 6명 경상 등 군인 8명이 부상을 입었다. &lt;br&gt;&lt;br&gt;이날 오후 4시 25분쯤 헬기를 통해 부상자를 병원으로 옮겼다. 부상자 모두 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;사고 당시 부대에선 실탄 없이 사격 절차를 연습하는 훈련이 진행됐다. 이때 폭음을 내는 용도의 교보재 포탄이 터진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;군 당국은 정확한 사고 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희, 24일 첫 재판...건진법사 청탁 등 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/V7L7GXMX3FBT7FBUSDY22THIL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/V7L7GXMX3FBT7FBUSDY22THIL4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 07:48:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65OQZS5FRYD2JJ62ZDBG4F47JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부인 김건희 여사가 지난달 12일 오전 서울 서초구 서울중앙지법에서 열린 자본시장과 금융투자업에 관한 법률 위반 및 정치자금법 위반 혐의 등의 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도이치모터스 주가조작·명태균 공천개입·건진법사 청탁 등 여러 의혹으로 구속기소된 김건희 여사의 첫 재판이 오는 24일 열린다. &lt;br&gt;&lt;br&gt;10일 서울중앙지법 형사27부(재판장 우인성)는 김 여사의 첫 공판 기일을 오는 24일 오후 2시 10분으로 지정했다. 정식 공판 기일에는 피고인이 직접 출석해야 한다. 역대 대통령 배우자가 피고인으로 법정에 서는 것은 처음이다.&lt;br&gt;&lt;br&gt;김 여사 관련 의혹을 수사하는 민중기 특별검사팀은 지난달 29일 김 여사를 자본시장법·정치자금법 위반, 특정범죄가중처벌법상 알선수재 혐의로 구속기소했다. &lt;br&gt;&lt;br&gt;김 여사는 권오수 전 도이치모터스 회장 등의 2010~2012년 주가 조작 범행에 가담해 8억여원의 시세 차익을 얻은 혐의를 받는다. &lt;br&gt;&lt;br&gt;2022년 3월 대선을 앞두고 윤석열 전 대통령과 공모해 명태균씨로부터 2억7440만원에 해당하는 여론조사 58건을 제공받고, 같은 해 6월 국회의원 보궐선거에 명씨가 돕고 있던 김영선 전 국민의힘 의원이 공천을 받도록 영향력을 행사한 혐의도 있다.&lt;br&gt;&lt;br&gt;또 ‘건진법사’ 전성배씨를 통해 2022년 4~7월 통일교 측으로부터 6200만원대 그라프 목걸이 등 8000만원 상당의 금품을 수수한 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;김 여사에게 청탁과 함께 금품을 건넨 혐의로 구속기소된 윤모 통일교 전 세계본부장 사건은 같은 재판부에서 오는 17일 첫 재판을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동거 여성 상습 폭행하고, 협박한 현직 경찰 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/GEYXIQCCCJDQFL7GBICQ2WWDHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/GEYXIQCCCJDQFL7GBICQ2WWDHI/</guid>
-      <dc:creator>속초=정성원 기자</dc:creator>
-      <description>동거하던 여성을 상습적으로 폭행하고 집에 무단으로 침입한 현직 경찰관이 구속됐다.
-10일 법조계에 따르면 춘천지법 속초지원은 전날 상해 등 혐의로 청구된 강원지역 현직 경찰관인 A경위의 구속영장을 발부했다.</description>
-      <pubDate>Wed, 10 Sep 2025 07:44:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YFMERL2TVFH3ZOE3O53YGE6HOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거하던 여성을 상습적으로 폭행하고 집에 무단으로 침입한 현직 경찰관이 구속됐다.&lt;br&gt;&lt;br&gt;10일 법조계에 따르면 춘천지법 속초지원은 전날 상해 등 혐의로 청구된 강원지역 현직 경찰관인 A경위의 구속영장을 발부했다. 재판부는 “증거 인멸의 우려가 있다”며 영장 발부 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A 경위는 지난 2023년 말부터 지난 7월까지 동거하던 여성을 10여 차례 폭행하거나 협박한 혐의를 받고 있다. 또 동거하지 않던 시기엔 여성의 집에 무단으로 침입한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;A경위는 경찰 조사에서 “연인과 다투던 중 범행을 저질렀다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A경위를 직위 해제하는 한편 조사 결과에 따라 징계 절차를 밟을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘노란봉투법’ 헌법소원 청구... “기업 영업의 자유 침해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/O4VCU5DK5VFZVGIK5TFCVIEVLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/O4VCU5DK5VFZVGIK5TFCVIEVLQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 07:20:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I22P2QRZL75J62FBQO6JWBCQR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 서울 여의도 국회 소통관에서 노동개혁청년행동 관계자들이 노란봉투법 입법 반대 기자회견을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도 인권과 통일을 위한 변호사모임(한변) 명예회장 김태훈 변호사가 10일 여러 중소기업을 대리해 헌법재판소에 ‘노란봉투법(개정 노동조합법)’에 대한 위헌 확인 헌법소원을 청구했다고 밝혔다. 지난 9일 공포된 노란봉투법은 6개월 유예 기간을 거쳐 내년 시행될 예정이다. &lt;br&gt;&lt;br&gt;김 변호사는 “노란봉투법이 시행되면 많은 원청 기업이 분쟁에 휘말리고 법적 리스크를 피하려 사업 축소·해외 이전·자동화 등을 택할 것”이라며 “그 피해는 고스란히 중소 협력업체의 연쇄 도산과 일자리 감소로 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;노란봉투법은 노조의 교섭 대상인 ‘사업자’의 범위를 ‘근로 조건을 실질적으로 지배·결정할 수 있는 자’로 넓혔다. 또 회사가 경영상 판단으로 실시하는 구조 조정이나 정리 해고 등이 근로 조건에 영향을 주는 경우 파업 등 쟁의 행위가 가능하도록 했다. 노조의 파업에 대한 기업의 손해배상 청구를 제한하는 내용도 있다.&lt;br&gt;&lt;br&gt;김 변호사는 노란봉투법이 기업의 계약 및 영업의 자유를 침해한다고 주장했다. 그는 “사용자 범위를 ‘실질적 지배력’이라는 모호한 기준으로 확대해 헌법상 죄형법정주의를 위반하고 형사처벌 위험을 증가시킨다”며 “구조조정 등 고도의 경영 판단마저 파업 대상으로 삼아 경제활동의 자유를 본질적으로 침해한다”고 했다. &lt;br&gt;&lt;br&gt;또 “(노조의) 불법행위에 대한 손해배상 청구권을 봉쇄하고 이미 발생한 손해에 대해서도 소급해 재산권을 박탈한다”며 “재판청구권도 정면으로 부정한다”고 했다. 마지막으로 “같은 불법행위에 대해 노조에만 특혜를 부여하는 법으로 헌법의 대원칙인 ‘법 앞의 평등’을 훼손한다”고 했다.&lt;br&gt;&lt;br&gt;김 변호사는 “노란봉투법은 특정 노조의 구호만 좇는 법으로 기업의 헌법상 기본권을 침해하고 자유민주주의 경제 질서를 무너뜨린다”며 “헌재가 조속한 위헌 결정으로 법치주의와 시장경제 균형을 회복하는 결단을 내려주기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘브랜드뉴파티’ 입당원서 1162장 조작...조성은 1심 실형 집행유예 </title>
@@ -945,15 +942,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 05:02:02 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJPMTPUUGRMTVLZXJUCSNGDN44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 서울 관악구 한 식당에서 칼부림 사건이 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구의 한 피자가게에서 흉기를 휘둘러 3명을 살해한 피의자가 사건 발생 일주일 만에 체포됐다.&lt;br&gt;&lt;br&gt;서울 관악경찰서는 10일 오전 피자가게 프랜차이즈 가맹점주 A(41)씨를 살인 혐의로 체포했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3일 서울 관악구 조원동(옛 신림8동)에서 자신이 운영하던 피자가게에서 프랜차이즈 본사 임원 1명, 인테리어 업자 2명에게 흉기를 휘둘러 살해한 혐의를 받는다. A씨는 매장 보수 공사를 두고 본사와 갈등이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 자해를 시도하다 중상을 입어 일주일 동안 병원 치료를 받고 있던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “향후 피의자를 상대로 범행 경위를 면밀하게 조사한 후 구속영장을 신청할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쉬었음 청년 40만, 노동부 “자발적 이직자도 실업급여 받고, 청년고용법상 청년 연령 29→34세로”</title>
-      <link>https://www.chosun.com/national/labor/2025/09/10/5IPEWYQDZBAK7N6ARMEILRXZVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/10/5IPEWYQDZBAK7N6ARMEILRXZVM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 04:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKROQOIFXFLVNH2BXE46IDVTTQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 오후 서울의 한 고용복지플러스센터 모습. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 자발적 이직자에게 생애 1회 실업급여를 지급하는 방안을 추진한다. 현재 실업급여는 비자발적 이직자만 받을 수 있다. 청년고용법상 청년 연령 상한도 현행 29세에서 34세로 늘린다.&lt;br&gt;&lt;br&gt;10일 고용노동부는 청년 일자리 문제를 해결하기 위한 ‘일자리 첫걸음 보장제’ 추진 방안을 발표했다.&lt;br&gt;&lt;br&gt;노동부에 따르면, 청년 고용은 15개월째 하락하고 있다. 저출생으로 청년 인구는 줄고 있는데 ‘쉬었음’ 청년은 지난 5년 동안 약 10만명 늘어 40만명대를 유지하고 있다. 이는 전체 청년 인구의 5.5% 수준이다. 공채는 줄고 경력직 선호 현상이 늘어나면서 청년들이 신입으로 노동 시장에 진입할 기회가 줄고 있기 때문이라고 노동부는 분석했다.&lt;br&gt;&lt;br&gt;먼저 쉬었음 청년들에 대한 금전적 지원을 확대한다. 현재 비자발적 실직자만 받을 수 있는 실업급여는 2027년부터 자발적 이직자들도 생애 1회에 한해 받을 수 있게 된다. 첫 직장 경험이 불합리하거나 경력과 맞지 않을 경우 국가가 재도전을 지원하겠다는 취지다. 현재 50만원인 구직촉진수당은 내년 60만원으로 인상할 계획이다. 구직촉진수당 제도 도입 이후 금액 인상은 이번이 처음이다.&lt;br&gt;&lt;br&gt;대기업이 자체적으로 운영하고 있는 인턴 등 일 경험 제도를 사회 공헌 차원에서 늘리도록 할 방침이다. 정부는 인턴 등을 확대하는 기업에 동반성장지수 가점, 비용 지원 등 인센티브를 지급하기로 했다. 또 일 경험을 법에 명시해 제도권 하에서 관리하겠다는 계획이다. 노동부 관계자는 “법에 근거를 둔 사업을 하면 경제 부처와 협의도 수월하게 되고 기업 입장에서도 (일 경험이) 인지도가 생기니 참여를 유도하는 데 도움이 될 것이라고 판단했다”고 밝혔다.&lt;br&gt;&lt;br&gt;쉬었음 청년을 국가가 선제적으로 발굴하기 위한 범정부적 데이터베이스도 구축한다. 개인정보 제공 동의를 받은 청년들이 취업할 시기를 지났는데도 고용보험에 가입되지 않은 것으로 확인되면, 도움이 필요한 상황으로 보고 각종 지원책을 안내하고 연계해주겠다는 것이다.&lt;br&gt;&lt;br&gt;정부는 지난 3월부터 국가장학금 신청자 정보와 연계한 대학생 약 150만명의 데이터베이스를 확보한 상태다. 정보 수집 대상을 추후 직업계고 졸업자와 군 장병까지 늘리겠다는 방침이다. 이들을 위험도별로 나눠 맞춤형 지원책을 펼치는 것이 이번 방안의 골자다.&lt;br&gt;&lt;br&gt;정부는 특히 위험도가 높다고 여겨지는 은둔·고립 청년들을 위한 ‘포용적 일경험’을 확대한다. 예컨대 니트(NEET·Not in Education, Employment or Training) 청년들을 위해 온라인 가상 회사를 만들어 13주 동안 일경험을 할 수 있는 ‘니트 컴퍼니’ 사업을 추진한다. 온라인으로 출퇴근을 인증하고, 각자 업무를 정하면서 회사 내 관계 맺는 연습을 하는 방식이다.&lt;br&gt;&lt;br&gt;쉬었음 청년을 위한 심리 상담 지원도 강화한다. 고용센터에서 제공하고 있는 심리 상담의 경우, 청년이라면 우선 상담받을 수 있도록 ‘패스트 트랙’을 마련하겠다는 방침이다. 직업 훈련 등을 지원하는 내일배움카드로 마음 관리 등도 받을 수 있게 된다.&lt;br&gt;&lt;br&gt;정부는 민간 채용 플랫폼과 협업해 임금 체불, 산업 재해, 직장 내 괴롭힘 등 노동법 위반 사항이 없는 기업 명단을 공개하도록 할 방침이다. 이런 혜택을 받는 청년 범위를 늘리기 위해 올해 하반기에는 청년고용법상 청년 연령 상한을 현행 29세에서 34세로 상향 추진한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 내년부터 시행되는 쓰레기 직매립 금지... 지난 4년간 신규 공공 소각장은 ‘0곳’, 민간 소각장 물량만 77% 늘었다</title>
