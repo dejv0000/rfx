@@ -6,6 +6,85 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김건희특검, 이기훈 삼부토건 부회장 구속영장 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211372.jpg" alt="4748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장)이 경찰에 체포돼 11일 서울 종로구에 마련된 김건희특검 사무실로 들어서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 이기훈 삼부토건 부회장에 대해 구속영장을 청구했다.&lt;br /&gt;&lt;br /&gt;특검팀은 9월 11일 언론 공지를 통해 "삼부토건 주가조작 사건과 관련해 이날 오후 7시 42분께 피의자 이기훈에 대한 구속영장을 청구했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 오전 10시부터 이 부회장을 불러 조사한 뒤, 곧바로 이같은 결정을 내렸다. &lt;br /&gt;&lt;br /&gt;앞서 특검팀은 7월 14일 자본시장법 위반 혐의로 이 전 부회장에 대한 구속영장을 청구했다. 이 전 부회장은 7월 17일 열린 구속영장실질심사에 참석하지 않고, 도주하다가 9월 10일 목포에서 체포돼 서울구치소에 수감됐다. &lt;br /&gt;&lt;br /&gt;삼부토건 주가조작 의혹의 핵심 피의자인 이 전 부회장은 2023년 5~7월 삼부토건 주가조작에 가담해 수백억 원 상당의 부당 이익을 취한 혐의를 받는다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:24:11 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211372</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211372</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211372.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>이 대통령 연수원 동기 차지훈 화우 변호사 주UN 대사 유력</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211369.jpg" alt="34636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;차지훈 변호사. 《사진=법무법인 화우》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;주UN한국대표부 대사에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5692"&gt;차지훈&lt;/span&gt;(62·사법연수원 18기) &lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt; 변호사가 내정된 것으로 11일 알려졌다. 전임 황준국 대사는 7월 귀임해 현재 주UN 대사는 공석이다.&lt;br /&gt;&lt;br /&gt;차 변호사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령과 사법연수원 18기 동기다. 전남 순천 출신으로 서울대 법대를 졸업했다. 2003년 미국 뉴욕주 변호사 자격을 취득했다. 2009년부터 2017년까지 경기도 성남시 고문변호사를 맡았고 2018년부터 화우에서 일했다.&lt;br /&gt;&lt;br /&gt;차 변호사는 2020년 '친형 강제입원 발언' 관련으로 이 대통령이 공직선거법상 허위사실공표 혐의로 재판을 받을 때 이 대통령을 변호해 대법원 전원합의체 무죄 취지 파기환송을 이끌어냈다.&lt;br /&gt;&lt;br /&gt;9월 23일 미국 뉴욕에서 열리는 제80차 유엔총회에 이 대통령과 동행할 가능성이 있다. 차 변호사는 곧 화우에서 퇴직할 예정이다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:23:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211369</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211369</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211369.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>'더 센 3대 특검법' 국회 통과…원안대로 "기간 연장·인력 증원"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211368.jpg" alt="3452.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;11일 국회 본회의에서 '윤석열 전 대통령 등에 의한 내란·외환 행위의 진상규명을 위한 특별검사 임명 등에 관한 법률 일부개정법률안'에 대한 수정안이 여당 주도로 통과되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;특검 수사 기간을 늘리고 인력을 증원하는 이른바 '더 센 3대(내란·김건희·해병대원) 특검법 개정안'이 9월 11일 더불어민주당 주도로 국회 본회의를 통과했다.&lt;br /&gt;&lt;br /&gt;김건희 특검법 개정안과 채 상병 특검법 개정안은 이날 본회의에서 재석 의원 168명 가운데 찬성 168명으로 가결됐다. 내란 특검법 개정안은 재석 의원 165명 가운데 찬성 163명, 기권 2명으로 가결됐다. 더불어민주당 소속 김용민, 박주민 의원이 기권표를 던졌다.&lt;br /&gt;&lt;br /&gt;국민의힘 의원들은 특검법 처리에 반대하며 표결에 참여하지 않아 민주당 등 여권 주도로 법안을 처리했다.&lt;br /&gt;&lt;br /&gt;3대 특검법 개정안에는 특검의 수사 기간을 30일씩 두 차례(60일) 연장이 가능하게 하는 내용이 담겼다. 파견 검사 인력도 내란 특검과 김건희 특검은 현재 60, 40명인 파견 검사를 70명으로, 20명인 채 상병 특검은 30명으로 늘리도록 했다.&lt;br /&gt;&lt;br /&gt;하지만 특검의 군 검찰 지휘권, 특검 종료 후 국가수사본부 이첩 사건에 대한 수사 지휘 등 내용은 개정안에 포함되지 않았다. 재판 공개 의무 조항은 완화 적용했다.&lt;br /&gt;&lt;br /&gt;여야 원내지도부는 전날 두 차례 회동을 통해 국민의힘 요구를 반영해 내용을 완화하기로 합의한 바 있다. 대신 국민의힘은 상임위원장을 맡고 있는 국회 정무위원회에서 금융감독위원회 설치 관련 법안 처리에 협조하기로 했다.&lt;br /&gt;&lt;br /&gt;그러나 민주당 강경파를 중심으로 반발이 커지자, 민주당은 하루 만에 협상 최종 결렬을 선언했다. 문금주 민주당 원내대변인은 이날 정책조정회의 뒤 기자회견에서 "어제 국민의힘과 했던 3대 특검 협상은 최종 결렬된 것으로 보면 된다"며 "특검법 개정안은 원안대로 처리한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;국민의힘은 이에 반발해 이날 투표에 참여하지 않고 장외 투쟁에 나섰다. 또한 오는 9월 12일 국회에서 당원들이 참여하는 대규모 규탄대회를 열기로 했다.&lt;br /&gt;&lt;br /&gt;최수진 국민의힘 원내수석대변인은 "지금은 필리버스터가 중요한 것이 아니다. 저희와 협치하지 않고 (합의 약속을) 깨부순 것 아니냐"며 "저희는 강력히 투쟁하는 게 맞겠다고 판단했다"고 말했다.&lt;br /&gt;</description>
+			<pubDate>Thu, 11 Sep 2025 12:21:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211368</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211368</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211368.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>대법원, '대한민국 법원의 날' 기념식 개최… 故박세진 부장판사 등 표창</title>
+			<description>대법원은 제11회 '대한민국 법원의 날'을 맞아 9월 12일 오전 11시 서울 서초동 대법원 청사 중앙홀에서 기념식을 연다. &lt;br /&gt;&lt;br /&gt;'대한민국 법원의 날'은 1948년 9월 13일 우리나라가 미군정으로부터 사법권을 이양받아 사법주권을 회복한 날을 기념해 2015년부터 매년 치러지고 있다. 사법부 독립의 의미를 되새기고 법원의 역할과 법관의 사명을 다짐하는 자리다.&lt;br /&gt;&lt;br /&gt;올해 기념식은 국민의례를 시작으로 대법원장 표창 수여, 대법원장 기념사, 기념영상 상영, 인천지법 부천지원 DONO 합창단(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2235"&gt;김정아&amp;nbsp;&lt;/span&gt;부장판사)의 공연 순으로 진행된다. 일부 외부 인사와 법관, 법원공무원만 참석하는 간소한 행사로 마련됐다.&lt;br /&gt;&lt;br /&gt;대법원장 표창은 사법부 발전과 법률문화 향상에 기여한 인물들에게 수여된다. 수상자는 백혈병 투병 중에도 헌신적으로 직무를 수행한 故&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14098"&gt;박세진&amp;nbsp;&lt;/span&gt;전 부장판사, 26년간 성실 근무와 민원 응대로 모범이 된 이복성 수원회생법원 사무관, 청사 안전 확보와 복구 활동에 앞장선 김성규 서울서부지법 주사보, 유관기관 협업과 등기 강의로 대외 이미지를 높인 김재로 대전지법 등기주사보, 봉사활동과 응급환자 구조에 기여한 임윤택 서울북부지법 보안관리서기보, 28년간 청사 시설관리와 사회봉사에 헌신한 최병진 대구지법 포항지원 공무관이다.&lt;br /&gt;&lt;br /&gt;행사는 대법원 유튜브 채널을 통해 생중계된다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:19:50 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211362</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211362</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>노경필 대법관, 남아공 J20 정상회의 참석… 국제사법 협력 논의</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 375px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211361.jpg" alt="211361.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;노경필 대법관&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&lt;/span&gt;(61·사법연수원 23기) 대법관이 남아프리카공화국 헌법재판소의 공식 초청을 받아 9월 2일부터 5일까지 요하네스버그에서 열린 J20 정상회의(J20 Summit)에 참석했다.&lt;br /&gt;&lt;br /&gt;J20 정상회의는 G20 회원국의 대법원장과 헌법재판소장이 모여 사법부의 역할과 협력 방안을 논의하는 최고 수준의 국제 사법회의다. 2018년 아르헨티나 대법원이 처음 개최한 이후 매년 G20 의장국이 주최해 왔다. 올해 회의는 '변화하는 시대의 정의: 독립성, 혁신, 그리고 협력'을 주제로 영국, 프랑스, 러시아, 호주, 인도 등 주요국 사법부 수장이 참석했다.&lt;br /&gt;&lt;br /&gt;노 대법관은 제4세션 좌장을 맡아 '사이버 범죄 퇴치: 국경을 넘는 국제사법 협력 강화'를 주제로 토론을 이끌었다. 이 세션에는 러시아 헌법재판소 재판관 알렉산드르 코노발로프, 아일랜드 대법관 브라이언 머레이, 아프리카 인권법원 대법관 두미사 은체베차가 발표자로 참여해 각국의 대응 경험과 국제 협력 방안을 공유했다.&lt;br /&gt;&lt;br /&gt;대법원 관계자는 "이번 회의는 변화하는 시대 속에서 사법부의 독립성과 책임을 재조명하고, 국제적 차원의 협력 필요성에 대한 공감대를 확산했다는 점에서 의미가 크다"고 말했다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:18:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211361</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211361</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211361.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울가정법원 사랑나눔자원봉사단, 피해아동 초청 문화관람행사 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211360.jpg" alt="211360.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울가정법원(법원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9185"&gt;이원형&lt;/span&gt;)과 서울가정법원 자원봉사단체 ‘사랑나눔자원봉사단’(단장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7748"&gt;이광우&amp;nbsp;&lt;/span&gt;수석부장판사)은 9월 8일 서울 송파구 롯데월드타워에서 2025년 하반기 피해아동 초청 문화관람행사를 열었다.&lt;br /&gt;&lt;br /&gt;행사에 앞서 법원과 자원봉사단은 학대 피해아동 보호수탁기관인 서울특별시립 아동푸른센터를 방문해 기부금을 전달했다. 아동들은 합창·밴드·댄스 공연으로 감사의 마음을 전했으며, 법원과 시설 관계자들은 피해아동의 회복과 성장을 위해 사회적 지원이 필요하다는 데 뜻을 모았다.&lt;br /&gt;&lt;br /&gt;오후에는 아동푸른센터와 아동힐링센터 소속 아동들을 초청해 롯데월드 아쿠아리움과 서울스카이 전망대를 함께 관람했다. 자원봉사단원들은 아이들과 1대1로 짝을 이뤄 하루를 동행하며 정서적 교류와 체험 활동을 이어갔다.&lt;br /&gt;&lt;br /&gt;서울가정법원 관계자는 "앞으로도 피해아동들이 상처를 극복하고 밝은 미래를 그려 나갈 수 있도록 다양한 문화체험 기회를 지속적으로 마련해 나가겠다"고 말했다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:17:24 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211360</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211360</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211360.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 디엘지, 국제중재·M&amp;A 전문가 김준민·안종석 시니어 외국변호사 영입</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211359.jpg" alt="211359.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;법무법인 디엘지&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="28309"&gt;안희철&lt;/span&gt;)가 김준민(미국 뉴욕주) 시니어 외국변호사와 안종석(미국 캘리포니아주) 시니어 외국변호사를 영입했다.&lt;br /&gt;&lt;br /&gt;김준민 외국변호사는 기업 인수합병(M&amp;A)과 국제중재 분야에서 26년여간 활동한 전문가다. 엘리엇 펀드를 대리해 대한민국을 상대로 제기한 투자자-국가 간 분쟁 중재(UNCITRAL)를 비롯해, 메이슨 캐피털 매니지먼트를 대리한 UNCITRAL, 론스타 펀드를 대리하여 하나금융그룹을 상대로 한 국제중재(ICC), 론스타 펀드를 대리해 대한민국을 상대로 진행된 투자자-국가 간 분쟁 중재 등 굵직한 사건들을 수행해왔다. AIG 인베스트먼트 부사장, 법무법인 세종 국제중재팀 부팀장, 케이엘파트너스 국제중재팀 팀장 등을 역임했다.&lt;br /&gt;&lt;br /&gt;안종석 외국변호사는 30여 년간 국제중재, M&amp;A, 기업 자문 분야에서 대형 로펌, 국제 중재 특화 로펌, 다국적 기업의 고위 임원으로 활동해왔다. 예금보험공사를 대리해 대한생명 매각을 이끌었고, 푸르덴셜그룹의 영풍생명보험 인수 과정에서 법률 자문을 수행했다. 월마트의 한국 마크로 인수 등 다국적 기업의 한국 시장 진출에도 깊이 관여했다. 싱가포르국제중재센터(SIAC) 중재 사건에서는 15억 달러 규모 복합용도 여의도 IFC 빌딩 인수 관련 분쟁을 대리했고, 미래에셋을 대리해 중국계 보험사로부터 15개의 미국 럭셔리 호텔을 인수하는 58억 달러 규모 거래에서 델라웨어주 1심과 대법원에서 완전 승소를 이끌어낸 바 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5968"&gt;조원희&lt;/span&gt;(55·사법연수원 30기) 디엘지 대표변호사는 “이번에 영입한 두 외국변호사는 변호사업계에도 널리 알려진 국제중재나 글로벌 M&amp;A 분야의 전문가”라며 “디엘지는 이번 영입으로 국제중제와 글로벌 딜을 수행할 수 있도록 업무 수행 능력을 크게 보강했다”고 밝혔다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:16:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211359</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211359</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211359.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
+			<title>화우, 저연차 사내변호사 위한 실무강좌 14년째 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211358.jpg" alt="211358.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 9일부터 이틀 동안 제14회 '사내변호사를 위한 법률실무강좌'를 열었다.&lt;br /&gt;&lt;br /&gt;이번 교육은 개정 상법을 비롯해 M&amp;A, 개인정보보호, 상장법인·규제실무, 조세 등 11개 강좌로 진행됐다. 80여 개 기업의 법무 담당자 130여 명이 참석했다.&lt;br /&gt;&lt;br /&gt;화우는 2011년 로펌 최초로 저연차 사내변호사를 위한 법률실무강좌를 시작했다. 참여자에게는 매년 개정판을 발간하는 화우총서도 제공하고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9965"&gt;시진국&lt;/span&gt;(52·사법연수원 32기) 화우 경영담당 변호사는 "상법과 노동조합법 개정 등으로 기업 리스크는 복잡해지고 있다"며 "사내변호사들이 규제 환경에 대응할 수 있게 계속 지원하겠다"고 말했다.</description>
+			<pubDate>Thu, 11 Sep 2025 12:14:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211358</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211358</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211358.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희특검, 통일교 7곳 압수수색...이기훈 구속영장 청구예정</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211357.jpg" alt="4748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장)이 경찰에 체포돼 11일 서울 종로구에 마련된 김건희특검 사무실로 들어서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 세계평화통일가정연합(통일교)에 대해 재차 강제수사에 나섰다. 특검팀은 11일 소환 조사에 불출석 사유서를 제출한 한학자 통일교 총재 측에 15일 출석해 조사받으라고 재통보한 상태다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6827"&gt;김형근&amp;nbsp;&lt;/span&gt;특검보는 11일 "이날 오전부터 통일교 본부 5개 지구 등 7곳에 대해 압수수색을 진행 중"이라고 밝혔다. 특검팀은 통일교 압수수색 영장에 정당법 위반 등의 혐의를 적시했다.&lt;br /&gt;&lt;br /&gt;특검팀은 통일교가 2023년 국민의힘 전당대회를 앞두고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3937"&gt;권성동&amp;nbsp;&lt;/span&gt;의원을 당 대표로 선출되게 하려고 교인을 무더기 입당시켰다고 의심하고 있다. &lt;br /&gt;&lt;br /&gt;건강상 이유로 11일 특검팀 소환에 불응한 한 총재 측은 15일 소환조사 통보에 대해 특검팀 측에 아직 불출석 의사를 밝히지 않았다. &lt;br /&gt;&lt;br /&gt;특검팀은 이날 오전 10시부터 이기훈 삼부토건 부회장을 불러 조사 중이다. 이 부회장은 진술거부권을 행사하지 않는 것으로 알려졌다. 이 부회장은 10일 오후 6시 14분께 목포에서 체포돼, 서울구치소에 수감됐다. &lt;br /&gt;&lt;br /&gt;김 특검보는 "어제(10일) 특검팀은 서울경찰청 형사기동대와 공조해 통신 및 계좌거래 내역 등 관련 자료에 대한 면밀한 분석, 수십 명 주변인 탐문, CCTV 동선 분석 등 철저한 추적수사 끝에 도주한 이 전 부회장이 목포 옥암동 소재 빌라촌 밀집 지역에서 조력자들의 도움을 받아 은거 중인 사실을 파악했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;이 전 부회장은 7월 17일 열린 구속영장실질심사에 참석하지 않고, 잠적했다. 그는 경기도 가평, 목포, 울진, 충남, 하동 등의 펜션을 전전하며 도피하다가, 8월 초부터 단기 임대한 목포 옥암동의 원룸 형태 빌라에서 머무른 것으로 조사됐다. 이 전 부회장은 휴대전화 5대, 데이터 에그 8대, 데이터 전용 유심 7개를 이용해 특검팀 추적을 피했다. &lt;br /&gt;&lt;br /&gt;김 특검보는 "이 전 부회장의 도피를 도운 주요 조력자 8명을 파악해 출국금지 조치했고, 이들에 대한 철저한 수사를 통해 도피를 도운 자들의 죄상을 밝혀 엄중 처벌할 예정"이라며 "이 전 부회장에 대해선 오늘(11일) 저녁 조사를 완료하는 대로 곧바로 구속영장을 청구하겠다"고 설명했다. &lt;br /&gt;&lt;br /&gt;이 전 부회장은 2023년 5~7월 삼부토건 주가조작에 가담해 수백억 원 상당의 부당 이익을 취한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;한편 11일 국회 본회의에선&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3937"&gt;권성동&amp;nbsp;&lt;/span&gt;의원에 대한 체포동의안이 가결됐다. 앞서 8월 28일 특검팀은 통일교 측으로부터 불법 정치자금 1억 원을 받은 혐의로 권 의원에 대해 구속영장을 청구했다.</description>
 			<pubDate>Thu, 11 Sep 2025 07:32:45 -0000</pubDate>
@@ -161,84 +240,6 @@
 			<link>https://www.lawtimes.co.kr/news/211319</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211319</guid>
 			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국상속신탁학회, '가족 개념의 변화와 신탁의 역할' 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211318.jpg" alt="456474.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국상속신탁학회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;)는 9월 9일 서울 강남구 삼성동 법무법인 트리니티 안젤루스룸에서 '가족 개념의 변화와 신탁의 역할'을 주제로 세미나를 열었다. &lt;br /&gt;&lt;br /&gt;이번 세미나에는 NH농협은행, 하나은행, KB국민은행, KB증권 등 주요 금융기관의 신탁 전문가들이 참석했다. &lt;br /&gt;&lt;br /&gt;이번 세미나에서는 최수정 서강대 로스쿨 교수가 발제를 맡아 현대 사회의 가족 개념 변화와 신탁 제도의 역할을 조망했다. 최 교수는 “현대사회에서 전통적인 가(家) 또는 가족의 개념은 급격히 변화하고 있으며 다양한 형태의 가족이 공존하고 있다”며 “이러한 상황에서 구성원의 지원과 재산의 보호·승계를 위한 법 제도로서 신탁의 역할과 그 한계를 개관해보는 것이 이번 세미나의 목적”이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11051"&gt;김상훈&lt;/span&gt;(51·사법연수원 33기) 회장은 축사에서 신탁과 유류분 제도의 충돌 문제를 짚었다. 그는 “가족 구성원들의 각기 다른 사정과 상황을 고려해 신탁재산을 시기적으로 나누고, 내용적으로 분리해 분배했을 경우 상속재산을 받지 못한 상속인이 유류분을 청구하더라도, 실제 유류분 침해액을 계산하거나 반환의 상대방을 특정하는 것이 법리적으로 어려운 상황이 충분히 발생할 수 있다”며 “향후 신탁과 유류분의 관계를 정립하는 것이 필수적 과제”라고 강조했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 10 Sep 2025 14:19:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211318</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211318</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211318.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>법사위, '관봉권 띠지 분실' 검찰개혁 입법청문회 22일 재개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211316.jpg" alt="456363.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;10일 국회에서 열린 법제사법위원회 전체회의 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국회 법제사법위원회가 오는 9월 22일 전체회의를 열고 '검찰개혁 입법청문회'를 다시 개최한다. 지난 9월 5일 법안심사1소위원회에 이어 전체회의 차원에서 두 번째 청문회가 열리는 것이다.&lt;br /&gt;&lt;br /&gt;법사위는 9월 10일 전체회의를 열고 '검찰개혁 입법청문회 실시계획서 채택의 건'을 더불어민주당 주도로 의결했다. 국민의힘 법사위원들은 법사위 차원의 추가 청문회 개최 자체에 대해 반대 입장을 밝혔다.&lt;br /&gt;&lt;br /&gt;법사위는 청문회 개최 공고를 통해 "검찰개혁의 필요성을 주장하는 근거로 제시되어 온 검찰의 수사·기소권 오남용 사건, 정치적 표적 수사 사건 등을 조사해 검찰개혁 입법에 대한 필요성을 확인하기 위한 것이 청문회의 목적"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;법사위 민주당 간사인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&lt;/span&gt;(49·사법연수원 35기) 의원은 "'건진법사 관봉권 띠지' 유실 사건에 한정해서 청문회를 열겠다고 (야당과) 협의를 했지만 합의에는 이르지 못했다"며 "관봉권 띠지 사건을 중점적으로 진행하는 청문회이기에 그에 맞춰 증인과 참고인 명단을 확정해달라"고 말했다.&lt;br /&gt;&lt;br /&gt;반면&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1588"&gt;나경원&lt;/span&gt;(62·24기) 국민의힘 의원은 "지난번 소위의 일방적인 청문회에 대해 상당한 이의를 표시했다"며 "수사·재판중인 사건에 대해서는 청문회라는 이름을 빌려 실질적으로 수사와 재판에 영향을 미치는 것을 하지 말자는 것인데, 결국 또다시 민주당이 (청문회 주제로) 내놓은 것은 '관봉권 띠지 사건'"이라고 비판했다.&lt;br /&gt;&lt;br /&gt;이어 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;위원장 나 홀로 법사위가 아니지 않나. 불법적인 회의 운영이다. 간사 선임 안을 상정해주실 것을 촉구한다"며 "저희 당은 (청문회 증인·참고인 명단에) 45명을 냈으니까 하실 거면 다 채택해달라. 민주당이 요구하는 대로 관봉권 띠지만 하는 청문회에 대해서는 저희는 동의할 수 없다"고 했다.&lt;br /&gt;&lt;br /&gt;이에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13701"&gt;김용민&amp;nbsp;&lt;/span&gt;의원은 "사건을 들여다보는 청문회는 검찰개혁에 있어서 큰 의미를 갖는다"며 "검찰 내부적으로 이 사건에 대한 수사가 안 되고 꼬리 자르기를 하려는 게 눈에 보이기 때문에 공정하게 수사를 하려면 특검에서 수사하는 게 맞다"고 맞섰다.&lt;br /&gt;&lt;br /&gt;한편 이날 전체회의에서는 비의료인의 문신 시술을 허용하는 '문신사법' 제정안과 장애인 평생 교육 진흥과 관련된 업무를 지원하기 위해 국가 장애인 평생교육 진흥센터를 설치하고 장애인 평생교육사 자격을 신설하는 내용을 담은 '장애인평생교육법' 제정안도 의결됐다. &lt;br /&gt;&lt;br /&gt;또한 내란·외환죄 등 중대범죄자의 가석방을 금지하는 형법 개정안과, 군사·공무상 비밀 관련 시설을 내란·외환 사건으로 압수수색할 때 시설 책임자 동의 없이도 집행할 수 있도록 한 형사소송법 개정안은 법안심사소위로 회부됐다.</description>
-			<pubDate>Wed, 10 Sep 2025 14:17:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211316</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211316</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211316.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희특검, '삼부토건 주가조작' 이기훈 부회장 목포서 체포</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: left;"&gt;삼부토건 주가조작 의혹을 수사하는&amp;nbsp;&lt;span class="lawmanlink" serial="1017" style="font-weight: bold;"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 이기훈 삼부토건 부회장을 목포에서 체포했다.&lt;/div&gt;&lt;br /&gt;특검팀은 10일 언론 공지를 통해 "서울경찰청 형사기동대와 공조해 오후 6시14분 목포에서 이기훈을 체포영장에 의해 체포했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 체포된 이 부회장을 곧바로 조사하지 않고, 서울구치소로 인치할 예정이다. &lt;br /&gt;&lt;br /&gt;자본시장법 위반 혐의를 받는 이 부회장은 7월 17일 서울중앙지법에서 진행된 구속영장실질심사에 출석하지 않고 잠적했다. 특검팀은 이 부회장이 도주했다고 판단하고 추적해왔다. &lt;br /&gt;&lt;br /&gt;삼부토건 주가조작 의혹은 고위공직자범죄수사처(공수처)의 채 상병 수사 외압 사건 수사 과정에서 불거졌다. 수사 외압에 연루된 인물들이 참여한 카카오톡 단체 대화방에서 이종호 전 블랙펄 대표가 2023년 5월 14일 "삼부 내일 체크하고"라고 남긴 글이 삼부토건 주식 종목에 대한 얘기가 아니냐는 의혹이 나오면서다. 이 전 대표는 도이치모터스 주가조작 사건의 핵심 인물로, 김 여사의 계좌를 관리한 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;같은 달 삼부토건은 폴란드에서 열린 우크라이나 재건을 위한 국제 콘퍼런스에 원희룡 당시 국토부 장관과 함께 참석한 뒤, 우크라이나 재건 테마주 등으로 분류돼 1000원 대이던 주가가 그해 7월 5500원까지 급등했다. &lt;br /&gt;&lt;br /&gt;특검팀은 삼부토건이 해외 재건 사업을 추진할 능력과 의사가 없으면서, 전현직 임직원들이 우크라이나 기업과 형식적 업무협약을 맺는 방식으로 투자자를 속여 주가를 인위적으로 부양했다고 판단했다.</description>
-			<pubDate>Wed, 10 Sep 2025 10:03:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211312</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211312</guid>
-			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국여성변호사회, "최말자씨 무죄 판결 적극 환영···성 평등과 사법정의 실현"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211311.jpg" alt="34534534636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;61년 전 성폭행하려던 남성의 혀를 깨물어 중상해 혐의로 기소돼 유죄 판결을 받았던 최말자 씨가 10일 부산지법에서 열린 재심 선고 공판을 마친 뒤 열린 기자회견에서 손을 번쩍 들고 있다. 최씨는 61년 만에 열린 재심에서 무죄를 선고받았다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국여성변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1151"&gt;왕미양&lt;/span&gt;, 이하 여변)는 10일 성명서를 내고, 61년 전 성폭행 가해자의 혀를 깨물어 징역형을 선고받은 최말자(78) 씨가 재심에서 무죄를 선고받은 것에 대해 “우리 사회의 성 평등과 사법정의를 실현한 재심 재판부의 무죄 판결을 적극 환영한다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;부산지법 형사5부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1800"&gt;김현순&amp;nbsp;&lt;/span&gt;부장판사)는 9월 10일 최 씨의 중상해 등 혐의 재심 사건에서 "중상해를 인정할 증거가 부족하고, 피고인의 행위는 정당방위로 인정된다"며 무죄를 선고했다.&lt;br /&gt;&lt;br /&gt;1964년 5월 만 18세의 최 씨는 자신을 성폭행하려던 가해자의 혀를 깨물어 약 1.5㎝를 절단했다. 성폭행에 저항한 정당방위라고 주장했으나 받아들여지지 않았고, 중상해죄로 ‘징역 10월형의 집행유예 2년’을 선고받았다. 반면 가해자에게는 강간미수가 아닌 특수주거침입과 특수협박죄만 인정돼 ‘징역 6개월형의 집행유예 2년’이 선고됐다. &lt;br /&gt;&lt;br /&gt;여변은 이에 대해 "피해자의 정당방위를 인정하지 않고 가해자로 판단한 과거 판결은 우리 사회에 만연했던 성폭력 피해자에 대한 사회적 편견과 왜곡된 시선이 반영된 결과였고, 이로 인해 성폭력 피해자가 가해자보다 더 무거운 처벌을 받는 불합리한 결과가 초래됐다"고 했다.&lt;br /&gt;&lt;br /&gt;그러면서 이번 재심 판결에 대해서는 "61년 만에 성폭력 피해자의 정당방위 및 방어권에 대한 과거의 잘못된 판단을 바로잡고 중요하고 의미 있는 선례를 남기게 됐다"며 "국가와 사법체계는 성폭력 피해자에 대해 어떠한 편견과 성차별적 시선을 갖지 않고 정의구현이라는 본연의 역할을 다해야 할 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;여변은 "이번 판결을 계기로 성폭력 피해자를 포함해 모든 범죄 피해자는 범죄 사실 뿐만 아니라, 사회적 편견과 2차 가해로부터 당연히 보호돼야 한다는 사회적 인식이 널리 보편화되기를 기대한다"며 "앞으로도 성폭력 피해자들의 정당한 권리와 인권보호를 위해 최선을 다하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;끝으로 "여성 인권과 정의를 위해 큰 용기와 결단을 보여준 최말자씨에게 깊은 지지와 연대의 마음을 전하며, 우리 사회의 성 평등과 사법정의를 실현한 재심 재판부의 무죄 판결을 적극 환영한다"고 전했다.</description>
-			<pubDate>Wed, 10 Sep 2025 10:01:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211311</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211311</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211311.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>'혀 절단 사건' 최말자 씨 61년 만에 무죄</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211309.jpg" alt="23441.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;성폭행하려던 남성의 혀를 깨물어 중상해 혐의로 기소돼 유죄 판결을 받았던 최말자 씨가 10일 부산지법에서 열린 재심 선고 공판을 마친 뒤 꽃다발을 받고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;61년 전 자신을 성폭행하려던 남성의 혀를 깨물어 중상을 입힌 혐의로 유죄를 선고받았던 최말자(78) 씨가 재심에서 무죄를 선고받았다.&lt;br /&gt;&lt;br /&gt;부산지법 형사5부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1800"&gt;김현순&amp;nbsp;&lt;/span&gt;부장판사)는 9월 10일 최 씨의 중상해 등 혐의 재심 사건에서 "중상해를 인정할 증거가 부족하고, 피고인의 행위는 정당방위로 인정된다"며 무죄를 선고했다.&lt;br /&gt;&lt;br /&gt;최 씨는 1964년 만 18세 때 성폭행을 시도한 노모(당시 21세) 씨의 혀를 깨물어 1.5㎝가량 절단케 한 혐의로 기소돼 징역 10월에 집행유예 2년을 선고받았다. 반면 노 씨는 강간미수 혐의는 제외되고 특수주거침입·특수협박만 적용돼 징역 6월에 집행유예 2년을 선고받았다. 이 사건은 정당방위가 인정되지 않은 대표 사례로 '강제 키스 혀 절단 사건'으로 불리며 형법 교과서와&lt;b&gt; 《법원 100년사》&lt;/b&gt;에 기록됐다.&lt;br /&gt;&lt;br /&gt;최 씨는 사건 발생 56년 만인 2020년 재심을 청구했으나 1·2심은 "불법 구금과 자백 강요를 입증할 증거가 부족하다"며 기각했다. 하지만 대법원은 2023년 "1964년 검찰이 장기간 불법 구금을 했을 가능성이 크고, 이는 형사소송법상 재심 사유에 해당한다"며 재심 개시를 결정했다.&lt;br /&gt;&lt;br /&gt;대법원은 또 "최 씨의 진술은 일관되고 재판 기록, 당시 언론 기사, 재소자 명부 등 여러 자료가 이를 뒷받침한다"며 "원심이 증거 부족만을 이유로 기각한 것은 부적절하다"고 지적했다. &lt;br /&gt;&lt;br /&gt;부산지검은 7월 23일 결심공판에서 "성폭력 피해자의 정당한 행위로 위법성이 인정되지 않는다"며 무죄를 구형했다. 이어 "검찰은 피해자를 범죄와 사회적 편견, 2차 피해로부터 보호해야 하지만 과거 이 사건에서는 오히려 그 역할을 다하지 못했다"며 사과했다. 검찰은 최 씨를 피고인이 아닌 최말자님으로 호칭하며 "마땅히 보호받아야 할 피해자에게 가늠할 수 없는 고통을 드렸다"고 고개를 숙였다.</description>
-			<pubDate>Wed, 10 Sep 2025 07:36:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211309</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211309</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211309.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>"노란봉투법은 경제파괴법"… 한변, 헌법소원 제기</title>
-			<description>‘노란봉투법’에 대해 위헌 확인을 구하는 헌법소원이 제기됐다.&lt;br /&gt;&lt;br /&gt;한변 명예회장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1823"&gt;김태훈&lt;/span&gt;(78·사법연수원 5기) 변호사는 10일 복수의 중소기업을 대리해 9일 공포된 '노동조합 및 노동관계조정법 일부개정법률'이 기업의 헌법상 기본권을 침해하고 자유민주주의 경제질서를 무너뜨린다며 헌법재판소에 위헌확인 헌법소원 심판을 청구했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 “노란봉투법은 특정 노조의 구호만 좇아 폭력적 사업장 점거에 대한 예외적 소송사례를 일반화하는 잘못된 전제에서 출발한 경제파괴법”이라며 청구 이유를 밝혔다.&lt;br /&gt;&lt;br /&gt;김 변호사는 “사용자 범위를 ‘실질적 지배력’이라는 모호한 기준으로 확대해 죄형법정주의를 위반하고 형사처벌 위험을 증가시켰다”며 “구조조정 등 고도의 경영상 판단마저 파업 대상으로 삼아 경제활동의 자유를 본질적으로 침해한다”고 강하게 비판했다.&lt;br /&gt;&lt;br /&gt;그러면서 “불법행위에 대한 손해배상 청구권을 봉쇄하고, 이미 발생한 손해에 대해서도 소급 적용해 재산권을 박탈해 재판청구권을 정면으로 부정했다”며 "동일한 불법행위를 저질러도 오직 노동조합에만 특혜를 부여함으로써 법 앞의 평등이라는 헌법의 대원칙을 훼손했다”고 지적했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 노란봉투법이 시행될 경우 “많은 원청 기업이 분쟁에 휘말리고, 법적 리스크를 피하기 위해 사업 축소, 해외 이전이나 자동화를 택할 것”이라며 “그 피해는 중소 협력업체의 연쇄 도산과 일자리 감소로 이어지고, 이는 노동자를 보호한다는 명분 아래 미래 세대와 노동자를 내쫓는 노사공멸법”이라고도 주장했다.&lt;br /&gt;&lt;br /&gt;끝으로 “헌법재판소는 더 이상의 사회적 혼란과 경제적 피해가 발생하기 전에 조속히 위헌 결정을 내려 법치주의와 시장경제의 균형을 회복하는 역사적 결단을 내려주시길 강력히 촉구한다”고 강조했다.</description>
-			<pubDate>Wed, 10 Sep 2025 07:35:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211308</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211308</guid>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>류근혁 전 보건복지부 제2차관, 광장 합류</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211307.jpg" alt="45644.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;류근혁 고문. 《사진=법무법인 광장》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 류근혁 전 보건복지부 제2차관을 고문으로 영입했다고 10일 밝혔다. &lt;br /&gt;&lt;br /&gt;류 고문은 보건복지부, 대통령비서실 등에서 근무한 경험과 전문성을 바탕으로 광장 헬스케어팀에 합류해 역량 강화에 나선다.&lt;br /&gt;&lt;br /&gt;류 고문은 인하대 행정학과를 졸업하고, 영국 웨일스 스완지대 공중보건학부(Swansea Wales Univ. Public Health)&amp;nbsp;석사 및 인제대 보건학 박사 학위를 취득했다.&lt;br /&gt;&lt;br /&gt;1992년 제36회 행정고등고시를 합격해 공직에 입문한 류 고문은 30년간 보건복지부에 근무했다. 보건복지부 건강정책국장, 대변인, 정책기획국장, 연금정책국장, 인구정책실장직을 거쳐 식품, 의약품, 질병정책 등 정책 전반을 담당하는 대통령비서실 사회정책비서관을 역임했다. 2021년에는 보건의료 정책 전반을 담당하는 보건복지부 제2차관을 지냈다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;(68·사법연수원 23기) 광장 대표변호사는 “광장 헬스케어팀은 의료기기, 식품, 화장품, 의료 분야에서 발생하는 다양한 이슈에 대해 최적의 서비스 제공하고 있다”며 “광장은 헬스케어 현장의 풍부한 경험과 전문성을 갖춘 류근혁 고문을 영입해 국내 최고를 자랑하는 광장 헬스케어팀의 자문 역량을 더욱 강화했다”고 말했다.</description>
-			<pubDate>Wed, 10 Sep 2025 07:34:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211307</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211307</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211307.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>내란 특검, 한동훈 증인신문 청구… '국회 의결방해' 관련 참고인 신분</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211306.jpg" alt="45647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;한동훈 전 국민의힘 대표 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'국회 계엄 해제 의결 방해 의혹'을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 10일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&amp;nbsp;&lt;/span&gt;전 국민의힘 대표의 진술을 확보하기 위해 법원에 공판 전 증인신문을 청구했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&amp;nbsp;&lt;/span&gt;특검보는 이날 브리핑에서 "한 전 대표에 대해 형소법 제221조의2에 따라 서울중앙지법에 증인신문을 청구했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;형사소송법 제221조의2는 검사가 수사에 없어서는 안 될 사실을 안다고 명백히 인정되는 사람이 출석이나 진술을 거부할 경우 제1회 공판기일 전에 판사에게 증인신문을 청구할 수 있다고 규정한다.&lt;br /&gt;&lt;br /&gt;법원은 증인이 소환에 불응하면 강제 구인을 할 수 있고, 통상의 증인신문 절차와 같이 판사 앞에서 검사의 질문을 받는다. 증인신문 과정에서 나온 증언은 조서와 동일한 효력을 지닌다.&lt;br /&gt;&lt;br /&gt;현재 한 전 대표는 참고인 신분이다. 특검팀은 그의 진술이 반드시 필요하다고 판단하고 있으나, 출석을 거부하는 데다 참고인 신분이라 강제 소환이 어렵다는 점을 고려해 공판 전 증인신문 카드를 꺼내든 것으로 풀이된다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "계엄 당시 현장에서는 한 전 대표의 메시지와 추 전 원내대표의 메시지가 계속 달랐다"며 "서로 상황을 공유하면서 의견을 교환했을 가능성도 있다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "한 전 대표는 최근 발간한 책이나 인터뷰 등에서도 관련 주장을 한 것으로 알고 있다"며 "수사팀 입장에서는 조사가 가장 필요한 사람"이라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "현재 특검팀이 소환을 요청한 사람 중 일부는 고민해보겠다며 답을 미룬 사람도 있다"며 "한 전 대표 외에도 반드시 조사가 필요한 참고인이 불출석 의사가 명백한 경우에는 적극적으로 증인신문을 청구할 예정"이라고 말했다.</description>
-			<pubDate>Wed, 10 Sep 2025 07:33:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211306</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211306</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211306.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
