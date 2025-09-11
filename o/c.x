@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>연 6만% 이자 물린 악질 사채 조직 검거...안 갚으면 ‘차용증 인증 사진’으로 협박</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/F4SJZQZPRVEB5P7URBGWDDHRTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/F4SJZQZPRVEB5P7URBGWDDHRTE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 05:09:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J2NMKPLM6ZANTN5KUIDDQZ6GDM.png"&gt;&lt;figcaption&gt;&lt;small&gt;피해자들이 차용증을 들고 찍은 얼굴 사진을 담보로 받아 돈을 갚지 못할 때 이를 빌미로 협박을 이어간 악질 사채 조직이 경찰에 검거됐다./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가족·지인들의 연락처 등을 담보로 초단기·고금리 대출을 해준 후 대출금이 연체되면 가족들과 지인들을 협박한 사채 조직 32명이 검거됐다. 이들은 수십만 원의 소액 대출을 해준 뒤 연 이자 4000~6만%를 물리기도 했다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단은 가족·지인들의 연락처 등 개인정보를 담보로 초단기·고금리 대출을 해준 후 대출금이 연체되자 가족들과 지인들을 협박한 사채 조직 32명을 검거해 송치했다고 11일 밝혔다. 이 중 11명은 구속됐다. 경찰은 피해액 18억원 중 15억원을 기소 전 추징보전했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이 일당은 대구 지역에서 주로 활동하며 지난 2020년 7월부터 2025년 11월까지 전국의 피해자 103명을 상대로 약 7억1000만원을 빌려준 뒤 18억원을 상환받았다. 이들이 물린 연 이자율은 최대 6만%였다. 대부업 등록도 하지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이들은 포털사이트 카페 등에 ‘신용불량자 대출 가능’ 등의 문구를 내걸고 광고하며 급전이 필요한 서민들을 유인한 것으로 확인됐다. 대출을 해줄 때는 차용증을 들고 찍은 얼굴 사진과 가족·지인의 연락처 10개를 담보로 받았다. 피해자들이 빌린 금액은 10만~30만원으로 소액인 것으로 드러났다. &lt;br&gt;&lt;br&gt;연체가 지속될 경우 이 일당은 악질 추심에 나섰다. 6일 안에 상환하지 못한 경우에 매일 5만원을 ‘연장비’ 명목으로 받아냈다. 이후에도 돈을 갚지 못한 피해자에게는 “가족 팔고 지인 팔아 돈 빌린 사기꾼” 등의 메시지로 협박했다. 담보로 받은 연락처로 가족과 지인들을 단체 채팅방에 초대해 협박을 이어가기도 했다.&lt;br&gt;&lt;br&gt;이뿐만 아니라 소셜미디어에 피해자들이 차용증을 들고 찍은 사진을 올려 협박하고 채권 추심용 협박 전단지를 제작해 협박할 준비까지 한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R53YANE5WRBEVNIGELJ3ZRR63Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10만~30만원 소액 대출을 해주고 일주일 가까이 갚지 못하면 매일 5만원씩 '연장비'를 받아 연 이율 수천%의 이자를 받아낸 악질 사채 조직 일당이 경찰에 검거됐다./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 피해자는 30만원을 빌리고 원리금으로 311만원을 상환했다. 이자율을 계산하면 연 6만8000%였다. 또 다른 피해자는 이 업체에서 빌리고 갚기를 반복하는 ‘돌려 막기 대출’에 빠져 204회에 걸쳐 7000만원을 빌리고 600여 회에 걸쳐 1억6000만원을 상환했다. 이자만 9000만원가량이었다.&lt;br&gt;&lt;br&gt;이들은 비대면·무통장 영업 방식 등을 매뉴얼로 공유하며 영업팀, 추심팀, 출금팀 등 분업화된 조직을 구성했다. 경찰의 수사를 피하고자 가족, 친구, 선후배만을 조직원으로 가입시키는 등 폐쇄적인 조직 생활을 이어간 것으로 확인됐다. 경찰 수사가 시작되자 이 일당은 도주하는 피의자들에게 대포폰과 체크카드를 제공하는 등 도주를 돕기도 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이자 제한을 초과한 사채나 미등록 업체는 금융이 아니라 범죄”라며 각별한 주의를 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘국힘 입당 의혹’ 통일교 관련 기관 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/5UK2OPCWSZAS5OTRL26E5GVKDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/5UK2OPCWSZAS5OTRL26E5GVKDI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 04:59:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4VBQ5UMTG362QANEKQCVKNRFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 가평군 통일교 천원궁 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 통일교인의 국민의힘 입당 의혹과 관련해, 통일교 관련 기관을 압수 수색하고 있는 것으로 11일 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면 특검은 이날 11일 오전 9시부터 서울 용산구의 통일교 서울본부를 비롯한 각지의 천주평화연합(UPF) 사무실 등에 수사관을 보내 압수 수색을 벌이고 있다. 압수 수색 영장에는 정치자금법 위반 혐의 등이 적시돼 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;천주평화연합은 2023년 3월 국민의힘 전당대회를 앞두고 교인들에게 입당 원서를 배포했다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;앞서 특검은 이같은 의혹에 관여한 윤영호 전 세계본부장과 ‘건진법사’ 전성배씨 등을 구속기소했다. 특검은 두 사람이 국민의힘 전당대회에서 권성동 의원을 당선시키기 위해 통일교인들을 집단적으로 입당시키려고 했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;최근 특검팀은 해당 의혹의 사실관계를 확인하기 위해 2021년 12월부터 지난해 4월 사이 당원 명단을 확인하려 당사 압수수색을 시도했으나 국민의힘 측의 강한 반발로 무산된 상태다. &lt;br&gt;&lt;br&gt;한편 같은 날 국회에선 특검이 권 의원에 대한 구속영장을 청구한 것과 관련한 체포동의안을 표결할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 김용원 “트럼프 사과 요구해야”…안 위원장 “논의 필요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/11/EG4OVYISHVH27EOMUU7RWCKUBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/11/EG4OVYISHVH27EOMUU7RWCKUBU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 05:01:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SPLDGSK3D7JYGJNG6KAGQWEL24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장이 지난 3일 오후 서울 중구 인권위에서 열린 제16차 상임위원회를 주재하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회 김용원 상임위원 겸 군인권보호관이 미국 이민세관단속국(ICE)의 한국인 근로자 대규모 체포·구금 사태와 관련해 트럼프 미국 대통령의 사과를 요구하는 성명 채택을 긴급 제안했지만 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;김 위원은 11일 인권위 제23차 상임위원회에서 “ICE가 300명 넘는 한국인을 장갑차까지 동원해 일괄 체포·구금한 것은 국제사회 인권 기준을 심각하게 위반한 것”이라며, 안창호 인권위원장 명의의 성명을 외교부 장관에게 전달할 것을 제안했다. 성명에는 트럼프 대통령의 공식 사과, 인권침해 행위자 조사, 전문 인력 확보를 위한 비자쿼터 신설 등이 포함됐다.&lt;br&gt;&lt;br&gt;그러나 이숙진 상임위원은 “사안의 중대성을 고려할 때 사전 검토 과정이 필요하다”며 즉각 채택에 신중론을 제기했다. 안 위원장도 “외교부 장관에게 요구한 내용은 사후적 조치로 보인다”며 “시간을 갖고 논의하겠다”고 했다.&lt;br&gt;&lt;br&gt;김 상임위원의 제안은 이날 채택되지 않았다.&lt;br&gt;&lt;br&gt;앞서 지난 4일(현지 시각) ICE는 미국 조지아주 서배나에 위치한 현대차·LG에너지솔루션 합작 배터리 공장 건설 현장을 급습해 불법 체류 혐의 등으로 근로자 450~560명을 체포했다. 이 가운데 한국인은 300여 명에 달하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 법원 “새만금 신공항 기본계획 취소해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/GTGDHTE4TJAZHOPB24A75IO3NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/GTGDHTE4TJAZHOPB24A75IO3NY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 04:55:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고의 사고로 4억3000만원”…렌터카 몰고 보험금 챙긴 일당 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/09/11/NNT6LI7TZBH33PNITZ2CY6VRQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/11/NNT6LI7TZBH33PNITZ2CY6VRQA/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 04:46:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;렌터카를 이용해 고의로 교통사고를 내고 보험금 수억원을 챙긴 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 보험사기방지 특별법 및 도로교통법 위반 혐의로 주범인 30대 A씨를 구속 송치하고 공범인 40대 B씨 등 10명을 불구속 송치했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2021년부터 지난해 10월까지 수원·안산 일대에서 주로 교차로 내 진로변경 차량을 노려 고의로 사고를 낸 혐의를 받는다. 이 과정에서 총 63회에 걸쳐 보험사로부터 4억3000여만원을 편취한 것으로 조사됐다. 연도별로는 2021년 23건, 2022년 20건, 2023년 13건, 2024년 7건이 적발됐다.&lt;br&gt;&lt;br&gt;사고 유형은 교차로 내 진로변경이 39건(61.9%)으로 가장 많았고, 교차로 외 진로변경 18건(28.5%), 신호위반 3건, 중앙선 침범 1건 순이다.&lt;br&gt;&lt;br&gt;주범 A씨는 63건 전부에 가담한 것으로 파악됐다. 한 달 6차례 사고를 내기도 했다. 단일 사고로 최대 4000만원을 챙긴 사실도 드러났다. 공범들은 A씨와 지인 관계로 대부분 차량에 동승해 보험 합의금을 나눠 가졌고, 편취한 돈은 채무 변제와 생활비로 탕진했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 지난해 8월 금융감독원의 수사의뢰를 받아 금융계좌 압수, 통신수사, 블랙박스 영상 감정 등을 통해 63건의 범행을 적발했다. 경찰 관계자는 “자동차를 이용한 보험사기 행위는 형사처벌은 물론 운전면허 행정처분도 이뤄진다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘尹 체포 찬성' 집회서 경찰 무전기 던진 민노총 조합원, 2심 징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/11/EMQ2I3FPWRC2RH2YQFLMOZIITI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/EMQ2I3FPWRC2RH2YQFLMOZIITI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 04:42:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZL7YIHBPUAAR52NA2UO4MCHV5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 4일 서울 용산구 대통령 관저 인근에서 윤석열 대통령 체포·탄핵 찬성 집회에 나선 민주노총 등 진보단체 회원들이 관저 방향으로 행진을 시도하자 경찰이 제지하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 윤석열 전 대통령 체포 찬성 집회에서 무전기를 던져 경찰관을 다치게 한 혐의로 기소된 민주노총 조합원이 항소심에서도 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 형사3부(재판장 이승한)는 11일 특수공무집행방해치상 혐의로 기소된 민주노총 조합원 이모(53)씨에게 1심과 같이 징역 2년에 집행유예 3년을 선고하고 80시간의 사회봉사를 명령했다.&lt;br&gt;&lt;br&gt;이씨는 지난 1월 4일 용산구 한남동 대통령 관저 인근에서 차로를 점거하고 경찰과 대치하던 중 무전기를 빼앗아 던져 경찰관 이마에 상처를 입힌 혐의로 기소됐다. 피해 경찰관은 2주간 치료가 필요한 부상을 입었다.&lt;br&gt;&lt;br&gt;앞서 지난 4월 1심은 이씨에게 징역형 집행유예를 선고하면서 “경찰관 머리에 맞을 것을 명백히 알고 던진 것으로 보이고 피해 경찰관의 신체적·정신적 고통이 적지 않았을 것으로 보인다”고 했다. 다만 이씨가 범행을 인정하고 반성하는 점, 피해 경찰관이 처벌을 원치 않는 점 등을 고려했다고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 “이씨에게 동종 전력이 여러 차례 있다”며 더 무거운 형을 선고해달라고 항소했으나, 항소심 재판부는 “검사가 양형 요소로 주장하는 사정들은 이미 원심(1심)에서 충분히 고려된 것으로 보인다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국방차관·군사보좌관·해병사령관 줄소환… 이종섭 조사 전 외압 규명 집중</title>
       <link>https://www.chosun.com/national/court_law/2025/09/11/CMS6AQPZIFDMRHGPNYVQPLOC6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/CMS6AQPZIFDMRHGPNYVQPLOC6E/</guid>
@@ -844,33 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URWMRVY6DGLBYQSZFQWRFWLYRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학교 주변에서 운동 중이던 중학생에게 60대 남성이 접근해 차량에 태우려 했다는 신고가 접수돼 경찰이 조사에 나섰다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 미성년자 유인 미수 혐의로 60대 A씨를 입건 전 조사(내사)하고 있다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오후 4시 38분쯤 인천시 서구 청라동의 한 도로에서 중학생인 10대 B양에게 접근해 “차에 태워주겠다”고 말을 건넨 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;학교 주변에서 달리기를 하고 있던 B양은 “낯선 사람이 차에 태워주겠다며 접근해 불안하다”며 경찰에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 현장 주변 CCTV 등을 토대로 A씨의 차량을 특정하고, 경찰서로 A씨를 불러 조사를 진행했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “B양이 아랫배를 잡고 힘들어하는 모습을 보여서 도와주려고 했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 운전석에서 조수석 창문을 내리고 B양에게 말을 건넨 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “차량 블랙박스 영상과 녹음 내용 등을 토대로 정확한 사실 관계를 조사할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 용인시청 압수수색… 홍보 현수막 ‘관권선거’ 의혹 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/09/10/7UP3RZQX3NCVLFJJ5PRU4PTREA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/10/7UP3RZQX3NCVLFJJ5PRU4PTREA/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 02:56:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 10일 용인시청을 상대로 대규모 압수수색에 나섰다. 민선 8기 출범 이후 시정 홍보 현수막이 사전 관권 선거에 해당한다는 의혹이 제기된 데 따른 것이다.&lt;br&gt;&lt;br&gt;용인동부경찰서는 이날 오전 9시부터 수사관 10명을 투입해 시청 행정과 등을 압수수색했다. 수색은 오후 3시까지 이어질 예정이다. 경찰은 현수막 제작·집행 과정에 관한 증거 자료 확보에 주력하고 있다.&lt;br&gt;&lt;br&gt;앞서 용인시의회 박인철·임현수 시의원은 지난 1월 “용인시가 이장협의회·통장협의회·새마을협의회 등 단체 명의로 현수막을 게시하고 비용을 시 예산에서 지출했다”며 공직선거법 위반과 업무상 배임 혐의 등을 들어 경찰에 수사를 요청했다.&lt;br&gt;&lt;br&gt;이에 대해 시 관계자는 “민선자치가 시작된 1996년 이후 시정 성과를 홍보하는 현수막은 지속적으로 게시돼 왔으며, 민선 7·8기에서도 같은 방식으로 진행됐다”며 “그동안 수사에 성실히 협조하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢 ‘다중피해범죄 집중수사팀’ 출범… 불법다단계·보이스피싱 파헤친다</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/SEUBIV42DBERJOKDLQJEJ4EA2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/SEUBIV42DBERJOKDLQJEJ4EA2Q/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 02:18:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQFKFEGAZ4TFI4I7PWCWYGI6O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 보이스피싱, 불법 다단계 사기 등 조직적 다중 피해 범죄를 근절하기 위한 집중수사팀을 서울중앙지검에 설치한다고 10일 밝혔다. 정성호 법무장관이 지난달 다중 피해 범죄에 대한 신속한 수사와 엄정한 처리를 지시한 데 따른 조치다.&lt;br&gt;&lt;br&gt;대검은 이날 “조직적 다중 피해 범죄로 국민들의 피해가 극심해지고 있지만 수사가 장기화될 경우 범죄조직이 피해 재산을 세탁·은닉해 회복하기 어렵다”며 “대검 검사와 수사관 등으로 편성한 집중수사팀을 서울중앙지검에 설치해 신속 수사하겠다”고 밝혔다. 수사팀장은 김용제 대검 형사3과장이 맡고, 대검 형사부와 마약·조직범죄부 소속 검찰 연구관과 회계 전문 수사관 등 12명 규모로 꾸려진다.&lt;br&gt;&lt;br&gt;서민들을 노리는 조직적 다중 피해 범죄는 최근 증가 추세다. 특히 유사수신·다단계 사기 사건은 2021년 2158건에서 작년 3727건으로 급증했는데 오히려 사건 처리율은 34%(735건)에서 24.8%(925건)으로 줄었다. 수사가 장기화되는 사이 범죄자들은 범죄수익을 세탁·은닉하면서 피해도 커지고 있다. 이에 정 장관은 “대규모 피해가 우려되는 다중 피해 범죄 사건을 신속·엄정하게 수사하여 진상을 규명하라”고 지시했다.&lt;br&gt;&lt;br&gt;집중수사팀은 사회적 이목이 집중된 다수 피해자·다액 피해 사건 중 신속하고 집중적인 수사가 필요한 사건, 총책 등을 추적해 배후 조직을 규명할 필요가 있는 사건 등을 서울중앙지검과 함께 수사할 방침이다. 또한 범죄 피해 재산을 추적해 환부하는 등 실질적으로 피해를 회복하기 위한 조치도 병행할 계획이다.&lt;br&gt;&lt;br&gt;대검 관계자는 “주요 다중 피해 범죄 사건을 집중 수사해 범죄조직을 엄단하고, 피해자들을 신속 구제하겠다”며 “국민을 범죄로부터 보호하고 살피는 검찰 본연의 역할을 수행하기 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신범철 前국방 차관, 해병 특검 첫 출석…‘수사 외압’ 의혹 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/H2TRQ3GD25DU7P4BS57VMQN6UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/H2TRQ3GD25DU7P4BS57VMQN6UI/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 00:59:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZGBFYLALVN5JAEBAKK25P6VAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신범철 전 국방부 차관이 10일 직권남용 권리행사방해 혐의를 받는 피의자 신분으로 서울 서초구 순직해병특검에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신범철 전 국방부 차관이 10일 ‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검에 출석했다. 신 전 차관은 고(故) 채수근 상병 사망 사건 수사에 외압을 행사했다는 혐의(직권남용)를 받는다.&lt;br&gt;&lt;br&gt;신 전 차관은 이날 오전 10시쯤 서울 서초구 해병 특검 사무실에 피의자 신분으로 출석하며 취재진을 만나 “우리나라 군을 위해서 진실이 밝혀져야 된다고 생각한다”며 “성실하게 조사에 임하겠다”고 말했다. “김계환 전 해병대 사령관에게 혐의자와 죄명을 빼라고 지시했나” “대통령실에서 채 상병 사건 기록 회수에 개입한 것을 알고 있었나”는 취재진 질문에는 고개를 저으며 “나중에 진실이 다 밝혀질 거라 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;신 전 차관은 2023년 7월 31일 국가안보실 회의에서 윤석열 전 대통령이 채 상병 사건에 대한 해병대 수사단의 초동 조사 결과를 보고받고 크게 화를 냈다는 이른바 ‘VIP 격노’를 임기훈 전 대통령실 국방비서관에게서 들었다는 인물 중 한 명이다. 다만, 신 전 차관은 임 전 비서관으로부터 그런 내용을 들은 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;특검은 ‘VIP 격노’를 전해 들은 신 전 차관이 채 상병 사망 사건 기록의 이첩 보류 및 회수 과정에 개입했다고 의심하고 있다. 신 전 차관은 채 상병 사망 사건 기록이 경찰에 이첩됐다가 곧바로 회수됐던 2023년 8월 2일 윤 전 대통령, 이시원 전 대통령실 공직기강비서관 등과 통화했다.&lt;br&gt;&lt;br&gt;특검은 이날 신 전 차관을 상대로 채 상병 사망 사건 기록 이첩 및 회수 과정에서 어떤 지시를 내렸는지, 대통령실로부터 어떤 지시를 받았는지 등을 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRN5MKVIZJJBHNBARA6VLS454I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정종범 전 해병대 부사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 특검은 지난주 정종범 전 해병대 부사령관에 대한 참고인 조사를 3차례 진행했다. 정민영 특검보는 10일 언론 브리핑에서 “최근 정 전 부사령관에 대한 참고인 조사를 3차례 진행했다”며 “정 전 부사령관은 윤 전 대통령의 격노 직후 이종섭 전 국방부 장관과 대면 회의를 했고, 이후 김 전 사령관이 지시받거나 지시한 사항도 잘 알고 있는 인물”이라고 말했다.&lt;br&gt;&lt;br&gt;특검은 정 전 부사령관을 상대로 채 상병 사망 사건 기록 이첩 및 회수와 관련한 해병대 사령부의 논의 사항, 당시 이 전 장관 및 김 전 사령관의 지시 사항 등을 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 특검은 오는 11일과 12일 박진희 전 국방장관실 군사보좌관에 대한 피의자 조사를 진행할 예정이다. 특검은 최근 박 전 보좌관을 직권남용 및 모해위증 혐의 피의자로 입건했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부하직원 차로 332번 출퇴근 해놓고 “카풀이었다”…결국 강등된 공무원</title>
       <link>https://www.chosun.com/national/national_general/2025/09/10/I5L52UOH2ZBGLMCRIOBUXHBL7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/I5L52UOH2ZBGLMCRIOBUXHBL7A/</guid>
@@ -878,15 +905,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 02:11:48 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNVELGBMFFNSAG6EYRZ33URBIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부하 직원이 운전하는 차량으로 300차례 넘게 출퇴근하고 ‘카풀’이라 주장한 공무원이 강등 처분에 불복해 행정소송을 제기했으나 패소했다.&lt;br&gt;&lt;br&gt;인천지법 행정 1-1부(김성수 부장판사)는 인천시 옹진군 공무원 A씨가 군수를 상대로 낸 강등 처분 취소 소송에서 원고 패소 판결을 했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2019년 9월~2023년 6월 직무 관련자인 산림사업 계약업체 임직원들로부터 총 41차례에 걸쳐 137만원 상당의 식사·술·유흥 등 향응을 받았다가 감사원에 적발됐다.&lt;br&gt;&lt;br&gt;또 2021년 1월∼2023년 2월에는 과장이라는 직위를 이용해 부하 직원이 운전하는 차를 타고 332차례 출퇴근한 것으로 조사됐다. 이뿐 아니라 2022년 9월에는 공용차량인 산림재해 업무 지휘차를 타고 고향인 경상남도 사천시에 다녀온 뒤 부하 직원에게 유류비를 대신 내게 시켰다.&lt;br&gt;&lt;br&gt;인천시 인사위원회는 지난해 6월 A씨에게 강등 처분과 함께 징계부가금 412만원(향응 수수액의 3배)을 내도록 의결했다. 강등은 감사원이 A씨를 조사한 뒤 요구한 정직보다 한 단계 더 높은 처분이다.&lt;br&gt;&lt;br&gt;시 인사위는 “직무 관련자로부터 받은 향응 수수액이 100만원 이상이고 비위가 지속적이고 반복적으로 행해졌다”며 “직위를 이용해 사적 노무를 상습적으로 제공받으면서도 어떠한 대가도 지급하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;그러나 A씨는 “직무와 무관하게 식사와 술자리를 가졌을 뿐이고 향응 수수액은 실제로는 82만원에 불과해 경과실에 해당한다”고 주장했다. 또 “출퇴근 때는 (부하 직원의) 제안과 호의에 따라 ‘카풀’을 했을 뿐”이라며 지난해 11월 행정소송을 제기했다.&lt;br&gt;&lt;br&gt;법원은 “A씨에게 향응을 제공한 (업체 임직원을) 직무 관련자로 인정하기에 무리가 없고 고의 또는 중과실을 넉넉히 인정할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;아울러 “출퇴근 운전을 한 (부하 직원도) A씨가 상급자이자 평정권자였기 때문에 차량 운행을 섣불리 중단할 수 없었던 것으로 보일 뿐”이라며 “A씨는 높은 준법의식과 청렴성이 요구되는 자리에 있었는데도 계속해서 비위 행위를 저질렀다”고 판결 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목줄 풀린 진돗개 공격에 전치 2주… 견주 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/3G4Z5OQW4FECFAHEH4PCFDYMHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/3G4Z5OQW4FECFAHEH4PCFDYMHU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 01:44:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HURIX4QLD4VSHWPKCH3YFBC2HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;키우던 진돗개의 목줄을 느슨하게 묶어 개물림 사고를 낸 견주가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사6단독 서동원 판사는 과실치상 혐의로 기소된 진돗개 견주 A씨에게 지난달 28일 벌금 100만원을 선고했다. A씨가 키우던 진돗개는 지난 3월 23일 서울 강동구의 한 공터 옆 이면도로에서 행인 B씨를 공격했다. 당시 A씨의 진돗개는 도로 한쪽에 목줄로 묶여 있었으나 줄이 풀리면서 B씨를 덮친 것으로 조사됐다. B씨는 갑자기 달려든 진돗개가 함께 산책 중이던 자신의 반려견을 공격하자, 이를 제지하다가 오른쪽 다리 피부가 찢어져 전치 2주 진단을 받았다. B씨 반려견도 입 부분을 물어뜯겼다.&lt;br&gt;&lt;br&gt;재판부는 “견주는 반려견이 주위 통행하는 사람에게 위해를 가하지 않도록 묶어둔 목줄이 풀리지 않게 단단히 묶고 입마개를 하는 등 개물림 사고를 방지할 주의 의무가 있다”고 했다. &lt;br&gt;&lt;br&gt;한편 현행 동물보호법상 진돗개는 맹견으로 지정돼 있지 않아 입마개 착용 의무가 없다. 맹견으로 분류되는 견종은 도사견, 로트와일러, 아메리칸 핏불테리어, 스태퍼드셔 불테리어, 아메리카 스태퍼드셔 테리어 등 5종이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘재밌는 구경 알바하자’... 제주서 여자 초등생 유괴 시도한 30대 긴급체포</title>
@@ -933,25 +951,6 @@
       <pubDate>Tue, 09 Sep 2025 15:47:00 +0000</pubDate>
       <content:encoded>경찰이 9일 유정복 인천시장 비서실 등을 압수 수색했다. 유 시장이 지난 4월 국민의힘 대선 후보 경선에 출마하면서 인천시 공무원들을 선거운동에 동원했다는 혐의다. 경찰은 앞서 지난달 21일 김영환 충북도지사 집무실도 압수 수색했는데 정치권에선 “내년 6월 지방선거를 앞두고 경찰이 국민의힘 소속 지방자치단체장을 겨냥해 무리한 수사를 벌이고 있다”는 말이 나온다. 유 시장과 김 지사 모두 국민의힘 소속이다. &lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 이날 오전 인천시청 시장 비서실, 정무수석실, 홍보수석실, 홍보기획관실, 영상편집실, 기록물관리실 등을 압수 수색했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4PZL5OAKVH2NJI3EEF4RIV7EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 9일 오후 인천시청을 압수 수색한 경찰이 압수물을 담은 상자를 들고 나오고 있다.
 /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천선거관리위원회와 지역 시민단체는 공직선거법 위반 혐의로 유 시장과 인천시 공무원 등 총 12명을 경찰에 고발했다.&lt;br&gt;&lt;br&gt;유 시장은 이날 “당내 경선 운동은 공직선거법상 선거운동에 해당하지 않는다”며 “(유 시장이 경선에서 떨어져) 선거 결과에도 전혀 영향을 미치지 않았는데도 압수 수색까지 한 건 과잉 수사”라고 했다.&lt;br&gt;&lt;br&gt;김 지사는 지역 체육계 인사로부터 현금 500만원이 든 돈봉투를 수수했다는 혐의를 받고 있다. 김 지사는 “금품을 받은 사실이 전혀 없다”며 반발하고 있다.&lt;br&gt;&lt;br&gt;더불어민주당은 지난달 31일 “국민의힘 소속 시·도지사들이 내란에 동조한 혐의가 있다”며 특검 수사를 촉구했다. 민주당 최고위원인 전현희 3대 특검 종합 대응 특별위원장은 “내란 세력 청산과 지방선거 승리로 국민주권을 완성하겠다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손현보 목사 구속, 법조계도 “과하다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/10/VBYHYL3Y7ZD3ZLLMXAKJJTTJSM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/10/VBYHYL3Y7ZD3ZLLMXAKJJTTJSM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 15:47:34 +0000</pubDate>
-      <content:encoded>손현보 부산 세계로교회 목사가 8일 사전 선거운동을 한 혐의 등으로 구속됐다. 부산지법 엄성환 영장 전담 부장판사는 “도망의 염려가 있다”며 구속영장을 발부했다. 이를 두고 법조계에선 “도주 우려를 들어 종교인을 무리하게 구속했다”는 평가가 나왔다. 세계로교회 측은 “정권이 정치적인 이유로 교회를 탄압하고 있다”고 반발했다.&lt;br&gt;&lt;br&gt;손 목사는 올 초 윤석열 전 대통령 탄핵 반대 집회를 열었던 개신교계 단체 ‘세이브코리아’의 대표다.&lt;br&gt;&lt;br&gt;손 목사는 부산교육감 재선거를 앞둔 지난 3월 교회 예배 자리에서 정승윤 교육감 후보와 대담을 하고 그 영상을 유튜브 등에 올린 혐의를 받고 있다. 정 후보의 선거 사무실에서 ‘승리 기원 예배’를 갖고 “우파 후보를 찍어 정말 하나님 나라를 세워야 한다”고 발언한 혐의도 받고 있다. 지난 5~6월 교회에서 열린 기도회와 예배에서 “대선에서 김문수 후보를 당선시키고 이재명 후보를 낙선시켜야 한다”고 말한 혐의도 있다.&lt;br&gt;&lt;br&gt;손 목사 측은 “교회에 상주하며 매주 예배를 보는 손 목사가 도주할 우려가 있다는 게 말이 되느냐”며 “지금까지 경찰 수사에 불응한 적도 없다”고 했다. &lt;br&gt;&lt;br&gt;형사 전문 변호사 A씨는 “통상적으로 사전 선거운동 혐의는 불구속 수사가 원칙”이라며 “피의자의 주거가 일정하고 증거도 소셜미디어에 그대로 남아 있는데 구속한 건 과도하다”고 했다. &lt;br&gt;&lt;br&gt;현직 판사 B씨는 “혐의가 인정돼도 벌금형이 나올 텐데 구속의 상당성이 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;한동훈 전 국민의힘 대표는 이날 자신의 페이스북을 통해 “표현의 자유가 보장되는 대한민국에서 이 정도 혐의로 구속 수사까지 받는 것은 전례나 상식에 비추어 지나치다”며 “법은 누구에게나 같은 기준으로 적용되어야 한다. 검경과 사법부가 권력의 마음을 읽으면 안 된다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 경찰 관계자는 “법원이 손 목사가 죄를 범했다고 의심할 만한 상당한 이유가 있다고 본 것”이라며 “실형 가능성이 높을 경우 도주 우려를 들어 영장을 발부하는 경우도 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 “권성동, 통일교 1억 외에도 정치 자금 받은 정황”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/O3NTFCBM2VD3PDRAMXPP2VTH4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/O3NTFCBM2VD3PDRAMXPP2VTH4Y/</guid>
-      <dc:creator>표태준 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Sep 2025 15:47:00 +0000</pubDate>
-      <content:encoded>김건희 특검팀이 권성동 국민의힘 의원의 정치자금법 위반 혐의 구속영장 청구서에 “권 의원이 윤영호 통일교 전 세계본부장에게 받은 1억원 이외에 추가로 정치자금을 수수했다고 의심할 만한 사정이 있다”고 적시한 것으로 9일 확인됐다. 이를 근거로 특검은 구속 수사의 필요성을 강조했다. &lt;br&gt;&lt;br&gt;본지가 입수한 구속영장 청구서를 보면, 권 의원은 대선을 앞둔 2022년 1월 5일 서울 여의도 63빌딩 내 중식당에서 윤씨를 만나 정치자금 1억원을 받았다. 특검은 권 의원에게 1억원을 건넸다는 윤씨의 진술, 두 사람이 만난 당일 찍어둔 1억원 사진 등을 영장에 적시했다. 특검은 권 의원 혐의에 대해 “정치 최고 권력자 중 하나이자 현직 국회의원이 종교 단체와 서로의 이해관계를 충족하기 위해 거래한 것”이라고 적시했다. 이에 대해 권 의원은 “윤씨를 만났지만 돈은 받지 않았다”는 입장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB32HAQ2CBD2JMKCENHE5WUKSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 특검 출석하는 김상민 前 검사 9일 오전 김상민 전 검사가 서울 종로구 KT광화문빌딩 웨스트에 있는 ‘김건희 특검’ 사무실에 출석하고 있다.
-/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 권 의원이 1억원 외에 추가로 정치자금을 받았을 것으로 보고 수사 중인 것으로 전해졌다. 권 의원에 대한 체포 동의안은 이르면 11일 국회 본회의에서 표결이 진행될 전망이다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 김건희 여사가 작년 9월 서울 종묘 망묘루에서 외부인과 한 이른바 ‘종묘 차담회’ 의혹을 수사 중이라고 밝혔다. 국가 유산을 사적으로 유용해 직권남용에 해당하는지 보겠다는 것이다. 특검은 또 김 여사가 김승희 전 의전비서관 딸의 학교 폭력 사건에 개입한 의혹도 수사 중이다. 2023년 7월 성남의 한 초등학교 3학년이었던 김 전 비서관 딸은 2학년 학생을 폭행해 출석 정지 10일 등 처분을 받았는데, 당시 김 여사가 장상윤 교육부 차관과 통화한 사실이 알려졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 7월 김 여사 일가의 경기 남양주의 요양원을 압수 수색하며, 이배용 전 국가교육위원장이 선물한 ‘금거북이’뿐 아니라 롤렉스·까르띠에 시계, 다이아몬드 반지 등도 확보했다고 한다. 김 여사 측은 “남동생 부부의 결혼식 패물이다. 김 여사와 관련이 없다”는 입장이지만, 특검은 출처를 조사 중이다. 특검은 이날 김 여사 측에 1억원대 이우환 화백 그림을 선물하고, 총선 공천을 청탁한 의혹을 받는 김상민 전 검사를 불러 조사했다. &lt;br&gt;&lt;br&gt;특검은 전날 기소한 ‘건진법사’ 전성배씨 공소장에 전씨가 세무조사 관련 청탁을 원하는 희림종합건축사무소 측과 윤한홍 국민의힘 의원, 김창기 전 국세청장의 만남을 주선했다는 내용을 적시한 것으로 전해졌다. 이에 대해 윤 의원은 이날 “희림 관련자와 어떠한 자리에 동석한 적이 없고 희림과 관련된 어떠한 대화도 나눈 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 법무부는 강의구 전 대통령실 부속실장이 지난 2월 윤석열 전 대통령을 접견하면서 몰래 휴대전화를 들고 들어가 반려견 사진과 동영상을 보여준 정황을 확인했다고 밝혔다. 법무부는 형집행법 위반 혐의로 강 전 실장을 경찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
