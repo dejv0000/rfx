@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“애들 먹을 누룽지에 유충 둥둥”…어린이집 식판 공개에 학부모들 발칵</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/12/5IYTIAU6M5GRBPNRHBD4MD455Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/5IYTIAU6M5GRBPNRHBD4MD455Y/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Sep 2025 22:35:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIHQJ35KM5CJ7BEZCPJKOEFMP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택의 한 어린이집 식단 사진에서 유충이 발견됐다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 평택의 한 어린이집이 공개한 급식 사진에서 벌레 유충이 다수 발견돼 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 10일 소셜미디어(SNS)에는 “평택 송탄의 어린이집 키즈노트에 올라온 구더기 사진”이라며 음식이 담긴 식판 사진 한 장이 올라왔다. 식판에 담긴 누룽지 위로 벌레 유충이 둥둥 떠 있는 모습이다.&lt;br&gt;&lt;br&gt;작성자는 “보여주는 키즈노트에도 이 모양인데 애들은 안 먹었을까”라며 “다들 조심하라. 애들 먹는 걸로 장난을 친다”고 적었다.&lt;br&gt;&lt;br&gt;이 게시글은 여러 온라인 커뮤니티와 지역 맘카페 등을 통해 빠르게 확산됐다.&lt;br&gt;&lt;br&gt;송탄 지역 학부모들은 “송탄에 살고 아이를 어린이집에 보내는 입장이라 불안하다” “내년에 송탄 어린이집 보낼 예정인데 걱정된다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;자신을 방역업체 관계자라고 소개한 한 네티즌은 사진 속 벌레를 두고 “화락곡나방(쌀나방) 유충으로 보인다”고 분석하기도 했다. &lt;br&gt;&lt;br&gt;그는 “흔히 구더기라 부르는 것은 파리의 유충이고 이번 벌레는 나방의 유충”이라며 “주방의 쌀 관리 미흡으로 화랑곡나방이 발생했거나 누룽지 입고 당시 이미 화랑곡나방에 오염된 상태에서 조리된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;여러 마리가 뭉쳐 있는 이유에 대해서는 “화랑곡나방 애벌레가 고치를 만들 때 쓰는 견사가 끈적거린다”며 “견사에 휘감겨 여러 마리가 한 번에 들어가지 않았나 싶다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “저도 애를 키우고 있는 입장이라 굉장히 화가 나는 사진”이라며 “위생 관리 신고부터 해야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 고의로 유충이 더 잘 보이도록 사진을 찍은 것 아니냐는 의혹도 제기됐다. 일부는 “선생님이 내부 고발할 수 없어서 일부러 보이게 찍어 올려 학부모들을 움직이게 한 것 같다”고 추측했고, 또 “조작의 가능성도 있어 보인다”는 식의 반응도 나온 상황이다.&lt;br&gt;&lt;br&gt;이 어린이집은 관련 당국의 조사를 받은 것으로 전해졌다. 식품의약품안전처는 쌀의 보관 상태, 식재료 유통기한 등을 확인했으며 현재 어린이집 측은 평택시 행정처분을 대기 중이라고 한 학부모는 전했다.&lt;br&gt;&lt;br&gt;정부는 1년에 두 차례 어린이집 정기점검을 실시하고 있다. 그러나 지자체가 점검 일정을 사전에 공지하기 때문에 어린이집의 허술한 관리 실태가 드러나는 경우는 극히 드문 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TYNU7HU3RZDDHMVAWI32U7FALE.jpg?auth=eae0d5fda2fda92db224e00c39e68836b9a6cf636b8ef33bbf748e5319d5993b&amp;smart=true&amp;width=1080&amp;height=608" type="image/jpeg" height="608" width="1080">
+        <media:description type="plain">경기 평택의 한 어린이집 식단 사진에서 유충이 발견됐다./스레드</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>세계 톱10 암병원에 올해도 한국 3곳</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/09/12/JX3UFHZUCFCCBNCQOUO2T3VSL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/12/JX3UFHZUCFCCBNCQOUO2T3VSL4/</guid>
@@ -964,15 +976,6 @@
       <description/>
       <pubDate>Wed, 10 Sep 2025 10:11:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYMHMHS5ARNZJNKNN45EGLHJUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 10일 서울 여의도 국회 본회의장에서 김영훈 고용노동부 장관, 배경훈 과학기술정보통신부 장관과 대화하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 ‘검찰청의 명칭을 바꾸는 건 위헌’이라는 주장에 대해 10일 “검찰청은 헌법기관이 아니다”라고 했다. &lt;br&gt;&lt;br&gt;정 장관은 이날 국회 법제사법위원회 전체 회의에 참석해 나경원 국민의힘 의원의 질의에 이같이 답변했다. 나 의원은 “검찰총장이 헌법에 명시돼 있기 때문에 검찰청은 넓은 의미의 헌법기구라고 볼 수 있다”며 “그렇다면 (검찰청을 공소청으로 바꾸는 것이) 법률에 의해 헌법을 개정하는 위헌 아니냐”라고 물었다. &lt;br&gt;&lt;br&gt;당초 정 장관은 “여러 견해가 있는 걸로 안다”면서 즉답을 피했지만, 김용민 의원이 같은 취지로 재차 질문하자 “(검찰이) 헌법기관은 아닌 것으로 생각한다”라고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 7일 정부는 검찰청을 폐지하고 중대범죄수사청과 공소청을 신설하는 내용을 담은 정부 조직 개편안을 발표했다. 이같은 검찰개혁안이 발표되자, 법조계에서는 검찰청의 명칭을 공소청으로 변경하는 것이 위헌인지 여부가 논란이 됐다. 대표적으로 차진아 고려대 법학전문대학원은 지난 4일 법사위 검찰 개혁 공청회에서 “검찰청은 ‘헌법상의 기관’이기 때문에, 헌법의 하위인 법률로써 명칭을 변경해선 안 된다”고 주장했다.&lt;br&gt;&lt;br&gt;정 장관은 이같은 정부 조직 개편안에 대해 “추후 입법 과정에서 국민의 편익을 증진시키고, 범죄로부터 국민이 안전한 나라를 만들겠다는 것이 검찰 개혁의 목표”라며 “충실히 이행되도록 잘 협조해야 할 것”이라고 말한 바 있다.&lt;br&gt;&lt;br&gt;정부와 여당은 오는 25일 국회 본회의에서 정부 조직법을 처리하고, 1년 간의 유예 기간을 거쳐 시행한다는 계획이다. 중수청과 공소청, 국가수사위원회 설치에 관한 법률 제정은 추후 논의를 거쳐 연내에 세부안을 확정하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 특검, ‘삼부토건 주가조작’ 수사 중 도주한 이기훈 목포서 체포</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/10/YTT4CCOKHFEOXDUT5SYZEZWIPI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/YTT4CCOKHFEOXDUT5SYZEZWIPI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Sep 2025 09:31:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MREO6JMUJPAVLNRL63WKVQH6Q.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 3대 특검 종합대응 특위 의원들이 지난달 20일 서울 여의도 국회 소통관에서 김건희 특검팀의 '삼부토건 주가조작' 의혹 이기훈 삼부토건 부회장에 대한 긴급 공개수배 관련 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 ‘삼부토건 주가조작 사건’과 관련해 수사를 받던 도중 도주한 이기훈 삼부토건 부회장을 체포했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이날 “서울경찰청 형사기동대와 공조해 금일 오후 6시 14분쯤 목포에서 이기훈을 체포영장에 의해 체포했다”라고 밝혔다. 이 부회장은 곧바로 서울구치소로 이송될 예정이다. 목포에서 서울까지 이동하는 데 시간이 다소 걸리는 걸 감안해, 특검은 이날 조사를 진행하진 않겠단 방침이다.&lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹은 2023년 삼부토건이 윤석열 정부의 우크라이나 재건 사업에 참여하는 것처럼 꾸며 주가를 5배 이상으로 부양했다는 의혹이다. 이와 관련해 특검은 지난 7월 14일 자본시장법 위반 혐의로 이일준 회장, 이응근 전 대표, 이 부회장에 대한 구속영장을 청구했다. 그러나 이 부회장은 구속 전 피의자 심문(영장실질심사)에 불출석하고 도주했다. 법원은 영장실질심사에 출석한 이 회장과 이 전 대표에 대한 구속영장을 발부했지만, 이 부회장에 대해선 기각 또는 발부 여부를 결정하지 않았다.&lt;br&gt;&lt;br&gt;이 부회장이 잠적을 감추자, 특검은 이 부회장에 대한 체포영장을 발부받고 추적에 나섰다. 한 달이 넘도록 행적이 드러나지 않자 지난달 19일엔 경찰청 국가수사본부에 긴급수배를 요청하기도 했다. 잠적이 길어지면서 일각에선 이 부회장이 밀항을 통해 외국으로 도주한 것이 아니냐는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;특검이 이날 이 부회장에 대한 신병을 확보한 만큼 향후 수사도 속도감 있게 진행될 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
