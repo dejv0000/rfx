@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰지구대 유리창 우산으로 ‘와장창’… 순경 눈썰미에 결국 덜미</title>
+      <link>https://www.chosun.com/national/2025/09/13/EEEKBUM5PVC7FAVL6JF56F5UG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/13/EEEKBUM5PVC7FAVL6JF56F5UG4/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 04:52:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 불만을 품고 지구대 유리창을 우산으로 파손한 후 달아난 범인이 신임 순경의 예리한 눈썰미에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;부산 북부경찰서는 공용 물건 손상 혐의로 50대 남성 A씨를 검거했다고 13일 밝혔다. A씨는 지난 1일 0시54분쯤 북부경찰서 화명지구대 회의실 유리창을 우산으로 내리쳐 파손한 뒤 달아난 혐의를 받고 있다. 당시 화명지구대는 증축 공사 중이어서 경찰관은 없는 상태였다. &lt;br&gt;&lt;br&gt;A씨는 사건 발생 이후 지난 12일 길거리에서 지구대에 근무 중이던 신임 조호정 순경에게 검거됐다. 당시 조 순경은 순찰 근무 중 마침 길 건너편을 우산을 들고 걷던 A씨를 발견한 후 불심검문을 거쳐 검거했다. 앞서 CCTV에 찍힌 A씨 인상착의를 기억한 덕분이다. &lt;br&gt;&lt;br&gt;A씨가 파손한 유리 창문은 7만7000원 상당. 그는 경찰에서 “대학 시절 경찰에 괴롭힘을 당한 기억에 범행을 저질렀다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “CCTV 영상이 단체 대화방에 공유됐는데, 조 순경이 범인의 인상착의를 잘 기억하고 있다가 신속하게 검거한 사례”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“피로감 드려 죄송하다”...김종국 ‘철통 보안 결혼’ 사과</title>
       <link>https://www.chosun.com/national/people/2025/09/13/UYJAW4S4WNHDDKIGGSTSRDRFQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/13/UYJAW4S4WNHDDKIGGSTSRDRFQE/</guid>
@@ -915,15 +924,6 @@
       <description/>
       <pubDate>Fri, 12 Sep 2025 01:32:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMXBJ25ZFGHP2X6SA2G5AQ5HAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 청도에서 승용차가 앞서 가던 경운기를 들이받아 70대 농민이 숨졌다. &lt;br&gt;&lt;br&gt;12일 경북소방본부에 따르면, 11일 오후 7시 15분쯤 경북 청도군 매전면 한 도로에 승용차가 경운기를 추돌했다. &lt;br&gt;&lt;br&gt;이 사고로 경운기를 몰던 A씨가 심정지 상태로 병원에 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 승용차 운전자의 부주의로 사고가 난 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “타인 향해 던진 그릇, 빗나갔어도 폭행죄 성립”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/12/HATEI3QDABE3XGKVNILTF7VCYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/12/HATEI3QDABE3XGKVNILTF7VCYQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 01:52:24 +0000</pubDate>
-      <content:encoded>타인을 향해 던진 물건이 빗나가 그를 맞히지 않았더라도 폭행죄로 처벌할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물 / 이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 최근 폭행 혐의로 기소된 A씨에게 무죄를 선고한 원심을 깨고 사건을 대전지법으로 돌려보냈다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월 대전 대덕구의 한 노래방에서 B씨에게 ‘자리에 돌아가라’고 했지만, 그가 말을 듣지 않자 멜라민 소재의 플라스틱 그릇을 던진 혐의로 기소됐다. A씨가 던진 그릇은 주변 테이블에 부딪혀 튀어 올라, B씨의 오른쪽 뒤로 날아가서 B씨를 직접 맞히지는 않았다고 한다.&lt;br&gt;&lt;br&gt;앞서 1·2심은 B씨가 그릇에 맞지는 않았다는 이유로 A씨에게 무죄를 선고했다. 재판부는 A씨가 그릇을 던진 행동은 1회에 그쳤으며, 순간적인 불만을 표시하는 행동이라 볼 여지가 있는 등 폭행에 해당한다고 의심의 여지 없이 증명됐다고 보기 어렵다고 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 달리 판단했다. 대법원은 “폭행죄에서 말하는 폭행이란 사람의 신체에 대하여 육체적․정신적으로 고통을 주는 유형력을 행사함을 뜻하는 것으로서 반드시 피해자의 신체에 접촉함을 필요로 하는 것은 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피해자에게 근접하여 욕설을 하면서 때릴 듯이 손발이나 물건을 휘두르거나 던지는 행위를 한 경우에 직접 피해자의 신체에 접촉하지 않았다고 하여도 피해자에 대한 불법한 유형력의 행사로서 폭행에 해당한다”며 폭행죄 법리를 다시 확인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전주·광명·서울... 잇단 미성년 유괴시도, 학부모는 불안하다</title>
