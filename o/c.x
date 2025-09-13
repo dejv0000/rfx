@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“피로감 드려 죄송하다”...김종국 ‘철통 보안 결혼’ 사과</title>
+      <link>https://www.chosun.com/national/people/2025/09/13/UYJAW4S4WNHDDKIGGSTSRDRFQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/13/UYJAW4S4WNHDDKIGGSTSRDRFQE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 02:09:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPIZ3DTSDFBALCGOL2EIV2Y4UY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김종국/News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김종국이 최근 철통 보안 속 서울 모처에서 비공개 결혼식을 올린 가운데, 이와 관련해 “피로감을 느낀 분들에게” 죄송하다고 말했다.&lt;br&gt;&lt;br&gt;김종국은 지난 11일 자신의 유튜브 채널을 통해 “결혼을 축하해 주신 많은 분께 감사드린다. 정말 열심히 살겠다”고 했다. 이어 “여러 이유로 조용히 식을 치르느라 많은 이야기 전달을 못 해 죄송하다”며 “이해 부탁드린다”고 고개 숙였다. &lt;br&gt;&lt;br&gt;이어 “저와 관련된 소식으로 인해서 피로감을 느끼신 분들께 죄송한 마음”이라고 사과하며 “아껴주시고 또 응원해 주시고 새로운 출발에 상황을 많이 이해해 주신 여러분께 감사하다”고 했다.&lt;br&gt;&lt;br&gt;김종국은 결혼식 장소와 하객 명단을 극비에 부친 것에 대해 “아내가 조용히 하길 원했고, 나도 관심받는 걸 좋아하지 않는다”고 해명했다. 또한 일부에서 제기된 혼전 임신 의혹에 대해선 “속도위반 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;김종국은 지난 5일 오후 7시 서울 모처에서 비연예인 아내와 비공개 결혼식을 올렸다. 신부에 대한 정보는 공개되지 않았다. 그의 결혼식은 절친한 방송인 유재석이 사회를 봤다는 것 외에는 장소나 하객 등도 알려지지 않았다. 하객이 찍은 사진 한 장도 공개되지 않아 ‘007 결혼’, ‘철통 보안 결혼식’ 등의 키워드로 화제를 모았다. &lt;br&gt;&lt;br&gt;1976년생인 김종국은 1995년 그룹 터보로 데뷔해 ‘회상’, ‘화이트 러브(White Love)’, ‘트위스트 킹’ 등의 히트곡으로 큰 인기를 누렸다. 이후 솔로 가수 활동과 예능 활동을 병행하며 활발히 활동 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>200만명 투약 가능… 도주한 외국인 마약 제조사범 스페인서 압송</title>
+      <link>https://www.chosun.com/national/2025/09/13/NZ5YFXNJSRA6PIB7WS3PNHSWNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/13/NZ5YFXNJSRA6PIB7WS3PNHSWNM/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 00:58:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HCHIKNCSFCMHJWFKEOBGZLHBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청과 법무부로 구성된 합동 송환팀은 지난 12일 항공편으로 코카인 제조사범 A씨를 국내로 압송했다. /해경청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200만명이 동시에 투약할 수 있는 마약을 제조한 외국인이 국내로 소환됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 법무부와 합동으로 지난 12일 콜롬비아 국적의 코카인 제조사범 A씨를 스페인에서 국내로 송환했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 선박을 통해 국내에 반입된 액체 형태의 코카인을 지난해 6월 강원도 지역 한 창고에서 고체 코카인으로 가공해 국내 총책 등에게 판매한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 제조한 코카인은 60kg. 200만명이 동시 투약할 수 있는 양이며 시가로는 1800억원에 이르는 것으로 추산됐다. &lt;br&gt;&lt;br&gt;앞서 지난해 8월 해경은 캐나다 마약 조직원과 국내 판매책 등 3명을 구속했다. 하지만 A씨는 해외로 도주한 상태여서 해경은 같은 해 10월 인터폴을 통해 적색수배를 했다.&lt;br&gt;&lt;br&gt;이어 지난 1월 스페인 인터폴을 통해 현지 사법당국이 A씨를 검거하자 법무부는 즉각 범죄인 인도 청구 절차를 진행했다.&lt;br&gt;&lt;br&gt;스페인 사법당국의 승인 이후 해양경찰청과 법무부로 구성된 합동 송환팀은 지난 12일 항공편으로 A씨를 스페인에서 국내로 압송했다.&lt;br&gt;&lt;br&gt;해양경찰청 관계자는 “송환된 A씨를 상대로 추가 조사를 진행하고, 공범 여부와 마약 유통경로를 집중 추적할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“드디어 강릉에도 ‘비’님이!” 오봉저수지 저수율 소폭 상승 </title>
+      <link>https://www.chosun.com/national/2025/09/13/PXEAGT762VGATCRIKHA7TFXZZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/13/PXEAGT762VGATCRIKHA7TFXZZQ/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 02:31:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCRLMDU7AVKNZAZLZY3DAPZ6G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 가뭄으로 메마른 강원 강릉시 오봉저수지 상류에 비가 내리며 물이 흐르고 있다. 오봉저수지는 강릉지역 생활용수 87%를 공급하고 있다. /연합뉴스  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 해안·산간 지역을 중심으로 100㎜ 이상 많은 비가 내리면서 극심한 가뭄을 겪는 강릉의 오봉저수지 저수율도 소폭 상승하고 있다. &lt;br&gt;&lt;br&gt;13일 강원지방기상청에 따르면 전날부터 내린 비로 이날 오전 10시 현재 속초 140㎜, 양양 100㎜, 강릉 91.5㎜, 춘천 75㎜, 인제 69.5㎜, 원주 57.5㎜ 등의 강수량을 기록했다.&lt;br&gt;&lt;br&gt;강릉 오봉저수지 주변도 당초 예상한 최대 강수량 60㎜를 넘긴 70㎜ 이상 강수량을 기록했다. 강릉에 일 강수량이 30㎜를 넘긴 것은 지난 7월 15일(39.7㎜) 이후 60일 만이다.&lt;br&gt;&lt;br&gt;이번 비로 강릉 지역의 생활용수 87%를 공급하고 있는 오봉저수지의 저수율은 소폭이지만 점차 상승 중이다. 전날 11.5%였던 저수율은 이날 오전 10시 기준 12.1%를 기록했다. 아직 해갈에는 부족한 상황이라고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOHAB3YKCFL73O6R42CHVFPP4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 가뭄으로 메마른 강원 강릉시 오봉저수지 일원에 비가 내리자 시민들이 우산을 쓰고 바라보고 있다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉 시민들은 모처럼 단비 소식에 반가움을 표했다. 소셜네트워크서비스(SNS)에는 “드디어 ‘비’님이 오신다” “머리도 감고 샤워도 하고 싶다” “주말 내내 비가 주룩주룩 와야 한다” “기우제가 성공했다” 등의 글이 올라왔다. 일부 시민은 비가 내리는 영상을 촬영해 공유했다.&lt;br&gt;&lt;br&gt;강원도소방본부는 이번 비가 14일 새벽까지 이어질 것으로 예보되자 이날 하루 운반급수를 중단하기로 했다.&lt;br&gt;&lt;br&gt;양양군 평지, 고성군 평지, 속초시 평지, 강릉시 평지, 강원 중부 산지, 강원 북부 산지에는 호우주의보가 발효 중이다. 강원 영북 지역을 중심으로 많은 비가 내리면서 인제군 기린면 현리교 지점에 홍수주의보가 내려지고 국립공원 탐방로 등이 통제됐다. &lt;br&gt;&lt;br&gt;강원소방본부에 따르면 이날 비 피해 신고 건수는 강릉 1건(배수), 영월 1건(나무 쓰러짐) 등이다.&lt;br&gt;&lt;br&gt;강원도와 각 지자체는 호우에 따라 국립공원 탐방로 24곳, 둔치 주차장 4곳 등을 통제했으며, 산사태 취약 지역을 중심으로 예찰 활동을 강화하고 있다.&lt;br&gt;&lt;br&gt;비는 14일 새벽까지 이어질 것으로 예보됐다. 예상 강수량은 강원 산지·남부 내륙 20∼70㎜, 강원 중·북부 내륙 5∼40㎜이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전국 대부분 강하고 많은 비... 강릉에도 ‘단비’ 이어진다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/13/EGSH6IUSZ5G7LEUV47TU7X7MSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/13/EGSH6IUSZ5G7LEUV47TU7X7MSU/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 00:17:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OS55C4RX44GNABSZ4KPZALSDVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 강원 강릉 교통 일대에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. 기상청은 극심한 가뭄이 이어지는 강릉을 포함한 동해안에 오는 14일까지 30~80㎜(많은 곳 북부동해안 100㎜이상)의 비가 내릴 것으로 예보했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 13일 전국 대부분 지역에서 오후까지 강하고 많은 비가 내리겠다. 수도권은 오후에, 그 밖의 전국 대부분 지역은 밤부터 비가 대부분 그치겠다. 긴 가뭄이 이어졌던 강릉 역시 전날부터 내린 비가 14일까지 이어질 전망이다.&lt;br&gt;&lt;br&gt;13일 예상 강수량은 서울·경기·강원·전남 30∼80㎜, 인천·경기 북서부 5∼40㎜, 전북 50∼100㎜ 등이다. 충청권과 제주에는 내일까지 각각 50∼100㎜, 20∼60㎜의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;짧은 시간에 많은 비가 내려 계곡이나 하천의 물이 갑자기 불어날 수 있어 주의가 필요하다.&lt;br&gt;&lt;br&gt;낮 최고기온은 23~31도로 예보됐다. 미세먼지 농도는 원활한 대기 확산가 강수 영향으로 전 권역이 ‘좋음’ 수준을 보이겠다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZCRLMDU7AVKNZAZLZY3DAPZ6G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 가뭄으로 메마른 강원 강릉시 오봉저수지 상류에 비가 내리며 물이 흐르고 있다. 이날 오전 8시 기준 오봉저수지 저수율은 11.9%로 전날보다 0.4%포인트 올랐다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편, 충남과 경기남부와 그간 가뭄이 극심했던 강원 동해안을 중심으로 전날부터 비가 쏟아진 가운데 강원 강릉(용강동 기준)에는 86.9㎜의 비가 내린 것으로 관측됐다.&lt;br&gt;&lt;br&gt;현재 강원과 충청남부 일부, 전북, 전남북서부엔 호우주의보가 내려져있다. 특히 강원·충청·경북에는 이날 오전, 호남·경남·제주에 오후까지 천둥·번개·돌풍을 동반한 비가 시간당 30㎜ 이상 올 때가 있겠으니 대비할 필요가 있다. 호남은 시간당 강우량이 30∼50㎜, 최대 70㎜ 이상에 달할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZCRLMDU7AVKNZAZLZY3DAPZ6G4.jpg?auth=1fd0a0107fb3ff8688989447504fd26045019f41d4fae37471031d62463b6bcd&amp;smart=true&amp;width=3945&amp;height=2847" type="image/jpeg" height="2847" width="3945">
+        <media:description type="plain">13일 가뭄으로 메마른 강원 강릉시 오봉저수지 상류에 비가 내리며 물이 흐르고 있다. 이날 오전 8시 기준 오봉저수지 저수율은 11.9%로 전날보다 0.4%포인트 올랐다./연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">류호준</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>오늘 서울 도심에서 민노총 등 대규모 집회… “대중교통 이용 권고” </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/13/NERYPBSITFAJ5H434I73HLUPIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/13/NERYPBSITFAJ5H434I73HLUPIU/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 00:47:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NTU7JO7XZIONGAY7ZEJLGQPQE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 19일 총파업대회 당시 전국민주노동조합총연맹(민노총) 조합원들이 서울 중구 을지로 일대에서 행진을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 13일 서울 도심에서는 대규모 집회가 잇따라 예정돼 시민 불편이 우려된다. 숭례문과 광화문 일대를 중심으로 교통 체증이 불가피할 전망이다.&lt;br&gt;&lt;br&gt;전국민주노동조합총연맹(민노총)은 이날 오후 3시부터 4시 30분까지 숭례문로터리~태평로터리 일대에서 ‘9·13 민주노총 결의대회’를 연다. 신고 인원은 1만명이다. 본 집회에 앞서 오후 1시부터 서울지방고용노동청, 삼각지역 인근에서 사전 결의대회를 연 뒤 숭례문 인근으로 집결할 예정이다. &lt;br&gt;&lt;br&gt;민노총은 노조법 2·3조 개정안에 특수고용·플랫폼 노동자 보호가 빠졌다며 향후 입법 보완을 요구하고, 노정교섭 제도 구축과 회계공시·타임오프제 폐지를 촉구할 예정이다. 또 트럼프 행정부의 노동자 정책을 규탄한다는 입장도 밝혔다.&lt;br&gt;&lt;br&gt;같은 시간 전광훈 목사가 이끄는 대한민국바로세우기국민운동본부(대국본)는 오후 1시부터 6시까지 동화면세점 인근에서 5만명 규모의 ‘광화문 국민대회’를 개최한다.&lt;br&gt;&lt;br&gt;오후 6시부터는 촛불행동이 광화문 교보빌딩 앞에서 ‘내란청산 국민주권실현 촛불대행진’을 연다. 신고 인원은 1만명이며, 참가자들은 미국 대사관과 광화문 일대를 행진하며 “미국 규탄” 구호를 외칠 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “시민 불편이 우려되는 만큼 도심권 이동 시에는 가급적 지하철 등 대중교통을 이용하고, 부득이하게 차량을 이용해야 하는 운전자는 실시간 교통 정보를 미리 확인해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“공무원들이 전향 강요” 소송 낸 北 간첩...2심도 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/13/4YR66O2DQNDQJMM2TEBN3HLBPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/13/4YR66O2DQNDQJMM2TEBN3HLBPQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 00:35:26 +0000</pubDate>
+      <content:encoded>국가보안법 위반으로 실형을 살고 나온 북한 간첩이 국가가 “사상 전향을 강요했다”고 주장하며 제기한 국가배상소송 2심에서도 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W32L2U23IASI4SC4WTFKAYULVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 서울중앙지법 민사항소1-3부(부장판사 최성수 임은하 김용두)는 A씨가 국가를 상대로 제기한 손해배상소송 항소심에서 원고 패소 판결한 1심을 그대로 유지했다.&lt;br&gt;&lt;br&gt;A씨는 조선노동당 산하 대남공작기구인 정찰총국 소속으로 2011년 중국 위조 여권을 통해 국내로 잠입해, 5년 가량 간첩 활동을 했다. 그는 중국인인 척 행세하며 국제결혼을 통해 한국 국적을 취득했다. 이후 서울·경기 지역의 주요 다중시설과 인천항 부두를 촬영하는 등 군사적·정치적 기밀을 빼내고, 이메일을 통해 추진 경과를 북한에 보고한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 2016년 국가보안법 위반 등 혐의로 재판에 넘겨져 징역 5년이 확정됐고, 2021년 5월 만기 출소했다. 그는 서울과 대구 등지에서 정부가 운영하는 보호시설에서 지내면서도 수시로 “북한에 돌려보내달라”고 요구하며 사상 전향을 거부했다.&lt;br&gt;&lt;br&gt;그는 주민등록증이 없어 취업이나 의료보험 혜택 등을 받지 못하다 결국 2021년 10월 청와대와 국가정보원에 “주민등록증을 발급해달라”는 민원을 넣었다. 당시 국정원은 “일반 탈북민처럼 주민등록 관련 지원을 받으려면 전향 의사를 표시하거나 법원에서 주민등록 절차를 밟을 수 있다”고 답변했다.&lt;br&gt;&lt;br&gt;가정법원을 통해 주민등록을 한 염 씨는 지난해 5월 “경찰과 국정원, 법무부 소속 공무원들이 주민등록이나 주거, 직업 문제 등을 해결하려면 사상 전향을 해야 한다고 강요했다”며 사상의 자유 등 기본권 침해를 이유로 1억 원 규모의 국가배상소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 “공무원들이 염 씨에게 사상 전향을 강요하거나 이에 동조했다고 볼 구체적인 사실을 인정하기 어렵다. 객관적인 자료가 없다”며 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;2심 재판부도 “대구교도소, 법무부, 서울가정법원, 한국법무복지보호공단, 대구시경찰청, 통일부에 대한 사실조회 결과까지 보태어 보더라도 1심의 사실인정과 판단은 정당하다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘특수·금융통' 이진동 전 고검장 변호사 개업</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/13/ETCQ4Y3CWBEZPAZD43M54BOGEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/13/ETCQ4Y3CWBEZPAZD43M54BOGEQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 00:22:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBLZOVLKKZEORDWMSOYW7UOJUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진동 대검찰청 차장검사가 지난 2월 25일 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란혐의 진상규명 국정조사 특별위원회 전체회의 청문회에서 의원질의에 답하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진동(57·사법연수원 28기) 전 대검찰청 차장검사(고검장)가 변호사로 개업한다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 이 전 고검장은 최근 서울 서초구 서초동 웅진타워에 사무실을 마련하고 오는 15일부터 변호사 활동을 시작한다.&lt;br&gt;&lt;br&gt;이 전 고검장은 기업자금비리 공인전문검사(2급) 인증을 받은 특수·금융 분야 수사 전문가이면서 강력 사건 수사로도 이름을 알렸다. 이 전 고검장은 서울 출신으로 경동고와 연세대 생화학과를 졸업한 후 1996년 제38회 사법시험에 합격했다. 사법연수원 수료 후 1999년 인천지검에서 검사 생활을 시작해 부산지검 특수부와 서울중앙지검 특수1부를 거쳤다. 평검사 시절 국정원 불법 도청 사건, 저축은행 비리 의혹 등을 수사했다.&lt;br&gt;&lt;br&gt;이후 서울남부지검 금융조사2부장, 서울중앙지검 조사1부장·형사3부장을 맡아 한미약품 미공개 정보 이용 사건, 이장석 전 키움 히어로즈 대표 횡령·배임 사건 등을 수사했다. &lt;br&gt;&lt;br&gt;특히 형사3부장 시절에는 경찰이 단순 우발 살인 혐의로 송치한 배우 송선미씨 남편 고모씨 사망 사건을 보완수사해 청부살인 혐의를 밝혀냈다. 검찰은 재일교포 1세인 할아버지 재산을 두고 사촌 고씨와 갈등을 빚다가 2017년 8월 다른 사람을 시켜 고씨를 살해한 혐의로 곽모씨를 기소했고, 곽씨는 2018년 말 무기징역형이 확정됐다. 이 전 고검장은 허익범 특별검사팀 출범 전까지 드루킹 댓글 조작 사건 수사를 맡아 ‘드루킹’ 김모씨와 ‘서유기’ 박모씨 등을 구속 기소하기도 했다.&lt;br&gt;&lt;br&gt;이 전 고검장은 이후 금융위원회 파견 근무, 수원지검 2차장, 대구지검 1차장, 수원지검 안산지청장, 대전지검장, 서울서부지검장, 대구고검장을 역임했다. 검찰총장 후보군에 포함된 후 작년 9월부터 검찰 2인자인 대검 차장검사를 지냈고, 이재명 정부 출범 후인 지난 7월 사직했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NRBJJKZAIRF5ZCF52BWTA5EC2A.jpg?auth=db82367125e7eb982b982735631317897903b909970e7979bd0e25626e6e0877&amp;smart=true&amp;width=2783&amp;height=2087" type="image/jpeg" height="2087" width="2783">
+        <media:description type="plain">이진동 대검찰청 차장검사가 25일 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란혐의 진상규명 국정조사 특별위원회 전체회의 청문회에서 의원질의에 답하고 있다. 2025.02.25 /남강호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">namkangho</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>[아무튼, 주말]#훈장받은봉사왕치과의사#광화문미식대전</title>
       <link>https://www.chosun.com/national/weekend/2025/09/13/PH6RDBVH4BE77DLXY6SYZ3RTRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/09/13/PH6RDBVH4BE77DLXY6SYZ3RTRY/</guid>
@@ -854,24 +926,6 @@
       <content:encoded>타인을 향해 던진 물건이 빗나가 그를 맞히지 않았더라도 폭행죄로 처벌할 수 있다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/US44TUU6MRGTDHAKZ2X6TUHWAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초동 대법원 건물 / 이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 최근 폭행 혐의로 기소된 A씨에게 무죄를 선고한 원심을 깨고 사건을 대전지법으로 돌려보냈다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 7월 대전 대덕구의 한 노래방에서 B씨에게 ‘자리에 돌아가라’고 했지만, 그가 말을 듣지 않자 멜라민 소재의 플라스틱 그릇을 던진 혐의로 기소됐다. A씨가 던진 그릇은 주변 테이블에 부딪혀 튀어 올라, B씨의 오른쪽 뒤로 날아가서 B씨를 직접 맞히지는 않았다고 한다.&lt;br&gt;&lt;br&gt;앞서 1·2심은 B씨가 그릇에 맞지는 않았다는 이유로 A씨에게 무죄를 선고했다. 재판부는 A씨가 그릇을 던진 행동은 1회에 그쳤으며, 순간적인 불만을 표시하는 행동이라 볼 여지가 있는 등 폭행에 해당한다고 의심의 여지 없이 증명됐다고 보기 어렵다고 봤다.&lt;br&gt;&lt;br&gt;그러나 대법원은 달리 판단했다. 대법원은 “폭행죄에서 말하는 폭행이란 사람의 신체에 대하여 육체적․정신적으로 고통을 주는 유형력을 행사함을 뜻하는 것으로서 반드시 피해자의 신체에 접촉함을 필요로 하는 것은 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “피해자에게 근접하여 욕설을 하면서 때릴 듯이 손발이나 물건을 휘두르거나 던지는 행위를 한 경우에 직접 피해자의 신체에 접촉하지 않았다고 하여도 피해자에 대한 불법한 유형력의 행사로서 폭행에 해당한다”며 폭행죄 법리를 다시 확인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내일까지 전국에 많은 비...‘가뭄’ 강릉에도 단비</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/12/JNNY7GN3O5CETLWET3YRM6ITJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/12/JNNY7GN3O5CETLWET3YRM6ITJU/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 01:54:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLH6GOEKBAEGAC54RQADJ6WEEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 오후 경북 경산시 영남대 앞에서 우산을 쓴 학생들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비구름대를 동반한 저기압이 우리나라 상공을 통과하면서 12~13일 전국에 많은 비가 내리겠다. 가뭄에 신음하고 있는 강원 강릉에도 단비가 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 산둥반도 쪽에서 동진하는 저기압의 영향으로 12일 오전 전남부터 비가 내리겠다. 이날 오후엔 남부지방 전역과 수도권·충청, 밤에는 강원으로 비가 확대되겠다.&lt;br&gt;&lt;br&gt;이번 비는 수도권과 충청·남부지방(경북 제외)에선 13일 밤, 강원·경북은 14일 새벽, 제주는 14일 오후까지 이어지겠다.&lt;br&gt;&lt;br&gt;12~13일 수도권은 서울·인천·경기북부 30~100㎜, 경기남부에 50~150㎜의 비가 내리겠다. 강원내륙·산지는 50~150㎜, 강릉을 포함한 강원 동해안은 20~60㎜가 예상된다. &lt;br&gt;&lt;br&gt;충청권은 대전·세종 50~100㎜, 충북 50~120㎜, 충남 50~150㎜로 예보됐다. 전라권은 광주·전남 30~80㎜, 전북 30~150㎜로 예상됐고, 경상권은 부산·울산·경남 30~80㎜, 대구·경북엔 20~80㎜의 비가 내리겠다. &lt;br&gt;&lt;br&gt;제주도는 14일까지 30~120㎜가 예상된다.&lt;br&gt;&lt;br&gt;12일 밤부터 13일 오전 사이 곳곳에 집중호우가 예상된다. 특히 13일 새벽에 경기남부, 강원내륙·산지, 충북북부, 대전·세종·충남, 전북 등에 시간당 30~50㎜의 강한 비가 내리겠다. ‘매우 강한 비’의 기준이 시간당 30㎜ 이상이고, 운전을 할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;비가 내리면서 12일 낮 기온은 24~28도에 머물며 30도 아래로 떨어지겠다. 다만 비가 그치고 난 후엔 다시 기온이 소폭 오를 것으로 보인다.&lt;br&gt;&lt;br&gt;토요일인 13일 아침 최저기온은 19~25도, 낮 최고기온은 23~30도로 예보됐다. 일요일인 14일에는 최저기온은 19~25도로 같지만, 한낮 기온은 27~32도로 다시 오름세를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS RM, 생일 맞아 서울아산병원·고려대의료원에 각 1억원 기부 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/12/OO6D56VFR5BGNMY3LQY7GPCQJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/OO6D56VFR5BGNMY3LQY7GPCQJI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 01:20:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WKA2ODNS4TLS2MNRO2RWLCRH3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방탄소년단(BTS)의 RM(김남준·30)이 지난 6월 10일 오전 강원도 춘천시 신북읍 체육공원 축구장에서 군 복무를 마친 뒤 전역 인사를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS)의 RM(본명 김남준·31)이 12일 생일을 맞아 국내 병원에 2억원을 기부했다. &lt;br&gt;&lt;br&gt;12일 의료계에 따르면 RM은 생일에 맞춰 서울아산병원에 후원금 1억원을, 고려대의료원에 발전기금 1억원을 각각 기부했다.&lt;br&gt;&lt;br&gt;서울아산병원은 RM의 후원금을 경제적으로 취약하거나 불우한 환자의 치료비와 수술비 지원 등에 사용할 계획이다. 고려대의료원도 진료 환경을 개선하고 다양한 의료 서비스를 확충하는 데 후원금을 사용할 계획이다.&lt;br&gt;&lt;br&gt;RM은 “생일을 맞아 의미 있는 일에 동참하고 싶은 마음에 후원을 결심했다”며 “치료가 꼭 필요하지만 경제적인 어려움으로 고통받는 환자들에게 작게나마 도움이 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;RM은 매년 자신의 생일인 9월 12일마다 다양한 형태로 기부하며 선한 영향력을 전파해왔다. 작년에는 국가보훈부의 ‘제복 근무자 감사 캠페인’에 동참하고자 1억원을 기부했고, 2023년에는 대한법의학회에 기부했다. 2021년과 2022년에는 문화유산의 복원과 보존을 위해 국외소재문화유산재단에 기부금을 전달했다.&lt;br&gt;&lt;br&gt;한편 RM이 속한 BTS는 오는 2026년 봄 완전체 활동을 준비하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전주·광명·서울... 잇단 미성년 유괴시도, 학부모는 불안하다</title>
       <link>https://www.chosun.com/national/regional/2025/09/12/NAHRSBXMDVAEDGFIFBEZXSFF5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/12/NAHRSBXMDVAEDGFIFBEZXSFF5A/</guid>
@@ -885,27 +939,6 @@
     saba@yna.co.kr/2025-09-05 09:16:53/Media Only
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">한종찬</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>가뭄 이어지는 강릉에 ‘물대포’ 간다...소방청 대용량포방사시스템 긴급 투입</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/12/42SG2K3Z55CVROU2EFVYZ4GINU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/42SG2K3Z55CVROU2EFVYZ4GINU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 01:23:12 +0000</pubDate>
-      <content:encoded>소방청은 가뭄이 장기화해 생활용수 확보에 어려움을 겪고 있는 강릉시에 ‘대용량포방사시스템’을 긴급 투입해 급수 지원에 나선다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;대용량포방사시스템은 대형 유류탱크 화재나 국가 중요 시설의 재난 대응을 위해 도입된 특수 장비지만, 태풍이 왔을 때 배수에 동원되는 등 다양한 역할을 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYYVASUY5FM6LKQBWGPCY5W4ZU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 포항 남구 포스코 포항제철소에서 점검 중인 대용량 포방사 시스템./소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청은 중앙119구조본부가 보유한 분당 4만5000L급 대용량포방사시스템을 활용해 하루 최대 1만t 이상의 물을 강릉에 공급할 계획이다. 현재 강릉시 하루 생활용수 사용량은 약 8만5000t으로, 소방청은 대용량포방사시스템이 생활용수 확보에 상당부분 기여할 것으로 보고 있다.&lt;br&gt;&lt;br&gt;중앙119구조본부는 강릉시 홍제동 남대천에 길이 25m, 폭 20m, 깊이 2.5m 규모의 임시 취수정을 설치하고, 대용량포방사시스템에 300㎜ 대구경 소방호스를 연결해 약 1km 떨어진 홍제정수장까지 직접 물을 실어나르게 할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ5LAUBDUNFSRPOO6RPWIOOWGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대용량포방사시스템 투입 계획/소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“애들 먹을 누룽지에 유충 둥둥”…어린이집 식판 공개에 학부모들 발칵</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/12/5IYTIAU6M5GRBPNRHBD4MD455Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/5IYTIAU6M5GRBPNRHBD4MD455Y/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 22:35:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIHQJ35KM5CJ7BEZCPJKOEFMP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택의 한 어린이집 식단 사진에서 유충이 발견됐다./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 평택의 한 어린이집이 공개한 급식 사진에서 벌레 유충이 다수 발견돼 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 10일 소셜미디어(SNS)에는 “평택 송탄의 어린이집 키즈노트에 올라온 구더기 사진”이라며 음식이 담긴 식판 사진 한 장이 올라왔다. 식판에 담긴 누룽지 위로 벌레 유충이 둥둥 떠 있는 모습이다.&lt;br&gt;&lt;br&gt;작성자는 “보여주는 키즈노트에도 이 모양인데 애들은 안 먹었을까”라며 “다들 조심하라. 애들 먹는 걸로 장난을 친다”고 적었다.&lt;br&gt;&lt;br&gt;이 게시글은 여러 온라인 커뮤니티와 지역 맘카페 등을 통해 빠르게 확산됐다.&lt;br&gt;&lt;br&gt;송탄 지역 학부모들은 “송탄에 살고 아이를 어린이집에 보내는 입장이라 불안하다” “내년에 송탄 어린이집 보낼 예정인데 걱정된다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;자신을 방역업체 관계자라고 소개한 한 네티즌은 사진 속 벌레를 두고 “화락곡나방(쌀나방) 유충으로 보인다”고 분석하기도 했다. &lt;br&gt;&lt;br&gt;그는 “흔히 구더기라 부르는 것은 파리의 유충이고 이번 벌레는 나방의 유충”이라며 “주방의 쌀 관리 미흡으로 화랑곡나방이 발생했거나 누룽지 입고 당시 이미 화랑곡나방에 오염된 상태에서 조리된 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;여러 마리가 뭉쳐 있는 이유에 대해서는 “화랑곡나방 애벌레가 고치를 만들 때 쓰는 견사가 끈적거린다”며 “견사에 휘감겨 여러 마리가 한 번에 들어가지 않았나 싶다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 “저도 애를 키우고 있는 입장이라 굉장히 화가 나는 사진”이라며 “위생 관리 신고부터 해야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;일각에서는 고의로 유충이 더 잘 보이도록 사진을 찍은 것 아니냐는 의혹도 제기됐다. 일부는 “선생님이 내부 고발할 수 없어서 일부러 보이게 찍어 올려 학부모들을 움직이게 한 것 같다”고 추측했고, 또 “조작의 가능성도 있어 보인다”는 식의 반응도 나온 상황이다.&lt;br&gt;&lt;br&gt;이 어린이집은 관련 당국의 조사를 받은 것으로 전해졌다. 식품의약품안전처는 쌀의 보관 상태, 식재료 유통기한 등을 확인했으며 현재 어린이집 측은 평택시 행정처분을 대기 중이라고 한 학부모는 전했다.&lt;br&gt;&lt;br&gt;정부는 1년에 두 차례 어린이집 정기점검을 실시하고 있다. 그러나 지자체가 점검 일정을 사전에 공지하기 때문에 어린이집의 허술한 관리 실태가 드러나는 경우는 극히 드문 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TYNU7HU3RZDDHMVAWI32U7FALE.jpg?auth=eae0d5fda2fda92db224e00c39e68836b9a6cf636b8ef33bbf748e5319d5993b&amp;smart=true&amp;width=1080&amp;height=608" type="image/jpeg" height="608" width="1080">
-        <media:description type="plain">경기 평택의 한 어린이집 식단 사진에서 유충이 발견됐다./스레드</media:description>
       </media:content>
     </item>
     <item>
@@ -931,34 +964,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/M5IB56JIS5AT3HCTGW42YN2WIE.JPG?auth=5b2b8bbb66484ac40579b0dcdb900174d247e6e6feae69cbc990c21bb090da72&amp;smart=true&amp;width=5472&amp;height=3648" type="image/jpeg" height="3648" width="5472">
         <media:description type="plain">서울 동작구청 신청사 2층에 조성된 길이 15m의 대형 미끄럼틀 ‘D-Lide’./서울 동작구청</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“판소리, 세계인 가슴 울릴 매력적 음악” 프랑스인이 ‘영동 국악엑스포’ 홍보대사</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/12/ZKZLJWJLTVG4FJOAP6J6W2S5OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/12/ZKZLJWJLTVG4FJOAP6J6W2S5OY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>국내 첫 국악 박람회인 ‘2025 영동 세계 국악엑스포’ 홍보 대사에 프랑스 출신 마포 로르(Mafo Laure)씨가 위촉됐다. 넷플릭스 애니메이션 영화 ‘케이팝 데몬 헌터스’가 세계적으로 흥행하면서 한국 전통 문화에 대한 관심이 커지는 가운데, 홍보 대사 7인 중 외국인으로선 유일하게 마포씨가 ‘깜짝 발탁’돼 행사를 알리게 된 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GHLFUV3IZATRCJ2E7WV2FD37U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 영동 세계 국악엑스포가 12일 개막한다. 사진은 국악엑스포에 참가하는 영동군 난계국악단. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프랑스 파리 출신인 마포씨는 11일 본지 인터뷰에서 “큰 행사에서 뜻깊은 역할을 할 수 있게 돼 기쁜 마음”이라며 “프랑스에서 친구를 초대했고, 행사 기간 다양한 방법으로 전 세계에 국악을 소개할 것”이라고 했다.&lt;br&gt;&lt;br&gt;마포씨는 8년째 한국에 머물며 판소리를 배우고 있다. 그는 드라마 ‘응답하라 1988’을 계기로 한국어 공부를 시작했고, 한국문화원을 찾았다가 민혜성 명창의 공연을 보고 판소리에 빠졌다. 그는 “가사를 몰랐지만 지금까지 들었던 어떤 음악보다 깊은 울림이 있었고 신비롭게 느껴졌다”며 “국악이 한국인뿐 아니라 세계인의 가슴을 울릴 수 있는 매력적인 음악이라는 증거”라고 했다. &lt;br&gt;&lt;br&gt;판소리를 전 세계에 알리고 싶다는 그의 바람은 홍보 대사 위촉으로 이어졌다. 마포씨는 “알고 지내던 한국예술종합학교 교수님께서 저를 추천해주셨다고 연락을 받았다”고 했다. 엑스포 조직위 관계자는 “마포씨의 이야기는 이번 엑스포 주제인 ‘국악, 세계를 품다’를 가장 잘 드러내는 사례”라며 “그의 진솔한 이야기가 전 세계인에게 국악의 아름다움을 알리는 데 큰 역할을 할 것이라 확신한다”고 했다. 마포씨는 “엑스포가 끝나더라도 국내외에서 판소리 공연 등을 통해 국악을 알리고, 모든 이가 쉽게 판소리에 다가올 수 있도록 도울 것”이라고 했다.&lt;br&gt;&lt;br&gt;이번 행사는 국내에서 열리는 첫 국악 박람회다. 충북 영동군 레인보우 힐링 관광지와 국악 체험존에서 열린다. 12일 개막해 10월 11일까지 한 달간 계속된다. 행사 기간 전통 국악과 퓨전 국악 공연이 열릴 뿐만 아니라 세계 30국의 민속 음악을 감상할 수 있는 공연도 펼쳐진다. &lt;br&gt;&lt;br&gt;영동은 ‘국악의 고장’이다. 조선 세종 때 악학을 정립한 난계 박연 선생의 고향으로, 매년 국악 축제를 이어 왔다. 김영환 충북지사는 “이번 행사는 국악의 전통을 지키면서도 현대적 가치와 산업적 가능성을 함께 보여주는 무대가 될 것”이라며 “세계인에게 국악의 힘을 알리는 계기로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해리스의 후회… “바이든 재선 도전, 적극적으로 막았어야”</title>
-      <link>https://www.chosun.com/national/people/2025/09/12/EDKCC5SQHJEEDPSCCGICHD37KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/12/EDKCC5SQHJEEDPSCCGICHD37KM/</guid>
-      <dc:creator>김은중 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VQO75N7WFLQJLK55Q4QSNJT34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;AP 연합뉴스
-카멀라 해리스 전 부통령(왼쪽)과 조 바이든 전 대통령. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 미국 대선에서 민주당 후보로 나섰다가 패배한 카멀라 해리스 전 부통령이 조 바이든 전 대통령의 재선 도전을 적극적으로 말리지 않은 것을 후회한다는 내용을 담은 자서전을 낸다.&lt;br&gt;&lt;br&gt;미국 잡지 ‘디 애틀랜틱’은 해리스가 오는 23일 출간 예정인 자서전 ’107일(107 Days)’에 “바이든의 재선 도전에 의문을 갖지 못한 것이 ‘무모한(reckless) 실수’였다”는 내용이 있다고 10일 보도했다. 1942년생인 바이든은 지난해 ‘고령 리스크’ 우려에도 재선 도전을 고집하다 뒤늦게 7월에 불출마 선언을 했으며, 8월에 대선 후보로 공식 선출된 해리스는 도널드 트럼프 현 대통령에게 완패를 당했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FOUNFG575EZRBIXX66FC5FONM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;카멀라 해리스(오른쪽) 전 미국 부통령과 조 바이든 전 대통령. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해리스는 ‘디 애틀랜틱’에 게재한 자신의 저서 발췌문에서 “나는 바이든이 사퇴해야 한다고 주장을 펼치기에 가장 부적절한 위치에 있었다”며 “그런 요청이 있을 경우 바이든 부부가 나를 ‘불충(disloyal)’하게 여길 것이라 믿었기 때문”이라고 했다. 해리스는 이어 “당시 나와 다른 참모들은 바이든 부부가 스스로 결정을 내릴 수 있도록 관대함을 베푼 것”이라면서도 “지금은 목소리를 내지 않은 것이 실수였다고 믿고, 돌이켜 보면 무모한 행동이었고 위험 부담이 너무 컸다”고 했다.&lt;br&gt;&lt;br&gt;해리스는 바이든의 인지력 저하 논란에 대해서는 “81세의 조는 지쳤고, 그게 신체적·언어적 실수로 드러났을 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 9월 12일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/12/VLITT5GNRFB2NCT2I265MJQJLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/12/VLITT5GNRFB2NCT2I265MJQJLE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZW6Z5F2S5A2PIBBFDCMGWO744.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>李대통령, ‘막말·北옹호·음주운전’ 최교진 교육장관 재가</title>
