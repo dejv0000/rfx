@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해병특검, ‘VIP 격노 인정’ 김계환 14일 네 번째 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/13/EUZHKRGU4ND2HE6KWXKFXDCHYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/13/EUZHKRGU4ND2HE6KWXKFXDCHYA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 07:11:02 +0000</pubDate>
+      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 이명현 해병특검팀이 오는 14일 김계환 전 해병대 사령관을 피의자 신분으로 불러 조사할 예정이다. 김 전 사령관에 대한 소환 조사는 이번이 네 번째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FPP7ZCQG2RMZ5P23PRF66NMAWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;특검 출석하는 김계환 전 해병대사령관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 특검 관계자는 “김 전 사령관을 14일 오전 10시부터 조사할 예정”이라고 밝혔다. 김 전 사령관은 지난 7월 7일과 17일에 이어 전날에도 피의자 신분으로 조사 받았다.&lt;br&gt;&lt;br&gt;김 전 사령관은 채상병 사망 사건 당시 해병대의 수장으로 해병대 수사단의 초동 수사 결과 보고와 기록 이첩 보류 회수 등 일련의 과정에 관여한 당사자로 직권남용 및 모해위증 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 지난 7월 특검 조사에서 ‘VIP 격노설’에 대해 들은 바가 없다고 진술했다. 그러나 특검의 구속영장 청구로 같은 달 22일 열린 구속 전 피의자 심문(영장실질심사)에서는 “VIP 격노 사실을 전해 들었다”고 처음으로 인정했다. 당시 법원은 김 전 사령관에 대한 구속영장을 기각했다. 특검은 그동안 국방부와 해병대 사령부 관계자 조사를 통해 확보한 진술을 토대로 김 전 사령관에 대한 추가 조사를 이어갈 방침이다.&lt;br&gt;&lt;br&gt;한편 특검은 14일 오후 1시 신범철 전 국방부 차관과 이충면 전 국가안보실 외교비서관도 소환해 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 장관 “윤석열 정권 언론 제재 5건 항소 포기 지휘”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/13/Q2JVCYDXN5FY5KDGSJEG2BB3FM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/13/Q2JVCYDXN5FY5KDGSJEG2BB3FM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 06:29:09 +0000</pubDate>
+      <content:encoded>정성호 법무부 장관이 윤석열 정부 시절 방송통신위원회가 언론사에 내렸던 제재 처분에 대해 “법적 근거 없는 무리한 조치였다”며 항소 포기를 지휘했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3EHA62LHBBGNFD4TLILY5RCXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면, 정 장관은 전날 자신의 페이스북을 통해 “윤석열 정권은 자신들, 특히 대통령 부부에 불리한 보도를 하는 언론에 재갈을 물리고, 국민들의 눈과 귀를 가리기 위해 방통위를 앞장 세워 부당한 제재를 남발해 왔다”고 밝혔다. 그는 이어 “오늘 저는 부당한 제재를 받은 언론사들이 방통위를 상대로 제기한 처분취소 1심 소송과 관련하여, 방통위의 무리하고 법적 근거 없는 제재로 판단되는 5건에 대한 항소 포기를 일괄 지휘했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;정 장관이 지목한 사례는 △CBS &amp;lt;김현정 뉴스쇼&amp;gt;의 ‘김건희 여사 명품백 수수 의혹’ 보도 관련 주의 처분 △가톨릭평화방송 CPBC &amp;lt;김혜영의 뉴스공감&amp;gt;의 ‘이태원 참사 특별법’ 관련 주의 처분 △MBC &amp;lt;뉴스하이킥&amp;gt;의 ‘도이치모터스 주가조작 사건’ 논평 관련 관계자 징계요구 처분 △MBC &amp;lt;시선집중&amp;gt;의 ‘한동수 전 대검 감찰부장 인터뷰’ 관련 주의 처분 △JTBC &amp;lt;뉴스룸&amp;gt;의 ‘김만배-신학림 녹취록 사건’ 관련 제재 등이다.&lt;br&gt;&lt;br&gt;정 장관은 “진실을 덮기 위한 권력의 무도한 언론 제재는 지난 정권의 탄핵으로 종지부를 찍어야 한다”며 “앞으로도 권력을 남용한 윤석열 정권의 잘못을 하나씩 차분하게 바로잡아 가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰지구대 유리창 우산으로 ‘와장창’… 순경 눈썰미에 결국 덜미</title>
       <link>https://www.chosun.com/national/2025/09/13/EEEKBUM5PVC7FAVL6JF56F5UG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/09/13/EEEKBUM5PVC7FAVL6JF56F5UG4/</guid>
@@ -917,15 +935,6 @@
       </media:content>
     </item>
     <item>
-      <title>경북 청도서 승용차가 경운기 추돌… 70대 농민 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/09/12/4BEDWHQ3P5GTPNUZKABOMXL5FQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/12/4BEDWHQ3P5GTPNUZKABOMXL5FQ/</guid>
-      <dc:creator>청도=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 01:32:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMXBJ25ZFGHP2X6SA2G5AQ5HAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 청도에서 승용차가 앞서 가던 경운기를 들이받아 70대 농민이 숨졌다. &lt;br&gt;&lt;br&gt;12일 경북소방본부에 따르면, 11일 오후 7시 15분쯤 경북 청도군 매전면 한 도로에 승용차가 경운기를 추돌했다. &lt;br&gt;&lt;br&gt;이 사고로 경운기를 몰던 A씨가 심정지 상태로 병원에 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 승용차 운전자의 부주의로 사고가 난 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전주·광명·서울... 잇단 미성년 유괴시도, 학부모는 불안하다</title>
       <link>https://www.chosun.com/national/regional/2025/09/12/NAHRSBXMDVAEDGFIFBEZXSFF5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/12/NAHRSBXMDVAEDGFIFBEZXSFF5A/</guid>
@@ -998,15 +1007,6 @@
       <description/>
       <pubDate>Thu, 11 Sep 2025 12:50:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROI2RE74VDX44ETLEBGZ6U3RGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민희진 전 어도어 대표가 11일 오후 서울 서초구 서울중앙지법에서 열린 하이브와의 풋옵션 행사 관련 주식매매대금 청구 소송 2차 변론기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하이브와 민희진 전 어도어 대표가 260억원이 걸린 풋옵션 소송에서 격렬한 공방전을 벌였다. &lt;br&gt;&lt;br&gt;11일 서울중앙지법 민사합의31부(재판장 남인수)는 민 전 대표 등 3명이 하이브를 상대로 낸 주식 매매 대금 청구 및 주주 간 계약 해지 확인 소송의 두 번째 변론기일을 열었다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇하이브 측 “민희진, 아일릿 데뷔 전부터 ‘사재기 공격’ 준비”&lt;/b&gt;&lt;br&gt;&lt;br&gt;하이브 측의 증인으로 출석한 정진수 CLO(최고법률책임자)는 민 전 대표가 주주 간 계약 변경을 통해 무소불위의 권력을 휘두르고, 하이브의 또 다른 걸그룹인 아일릿의 표절‧음반 사재기 의혹 등을 제기했다고 주장했다. &lt;br&gt;&lt;br&gt;정 CLO는 어도어 감사를 통해 취득한 증거를 공개한 뒤 “민희진 산하의 이상우 부대표가 작성하고 있던 프로젝트 1945, VP 업무 노트, 하이브 7대 죄악 등의 내용이 발견됐다”고 했다. 프로젝트 1945 문건 중 ‘음원 사재기’ 항목에는 “르세라핌 2/19”, “아일릿 3/25” 등이 적혀 있었다고 한다. 정 CLO는 이를 두고 “2/19는 르세라핌의 컴백일, 3/25는 아일릿의 데뷔 날짜”라며 “특히 아일릿은 데뷔 전인데도 저런 프레임으로 공격하려고 한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;그는 또 뉴진스 멤버들이 어도어에 전속계약 해지를 통보한 것에 관해 “처음부터 끝까지 막후에는 민희진이 있다는 생각이 든다”고 말했다. &lt;br&gt;&lt;br&gt;정 CLO는 민 전 대표가 일본에서 투자자를 만났다는 제보도 들었다고 했다. 그는 “당시 뉴진스의 전속계약 가처분 소송이 펜딩(계류)됐던 상황이었는데, ‘100% 뉴진스가 이긴다’는 법무법인 세종의 의견서를 일본어로 번역해 투자자에게 보여준 자료를 봤다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇민희진 “아일릿 표절 의혹, 모든 사람들이 이야기해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;민 전 대표는 아일릿의 표절 의혹을 제기했다는 주장에 관해 “제 개인 주장이기 전에 모든 커뮤니티에서 사람들이 이야기했다”며 “아일릿 티저 사진이 나왔을 때부터 ‘뉴진스 아니냐’는 의혹이 제기됐다”고 했다. &lt;br&gt;&lt;br&gt;투자자 접촉설에 관해서는 “풍문으로만 있고, 실제로 접촉 내용이나 이런 자료가 없지 않느냐”고 했다. &lt;br&gt;&lt;br&gt;하이브 측이 공개한 자신과 이상우 전 어도어 부대표 간 카카오톡 대화에 대해서는 “허구의 소설”이라며 “거의 막장드라마다. 저를 축출하겠다고 각을 잡고 스토리를 만들었다”고 했다. &lt;br&gt;&lt;br&gt;양측의 날 선 신경전도 이어졌다. 하이브 측은 “반대 신문에서는 증인이 답변한 내용에 대한 반박이 이뤄져야 하는데, 지금 민 전 대표는 그냥 본인의 이야기를 하고 있다”며 “이게 기자회견이냐”고 했다. 민 전 대표는 정 CLO를 향해 “오늘 위증을 많이 하신다”고 맞받았다. &lt;br&gt;&lt;br&gt;앞서 민 전 대표는 작년 11월 하이브에 풋옵션 행사를 통보했다. 계약에 따르면 민 전 대표는 풋옵션 행사 시 어도어의 직전 2개년도 평균 영업이익에 13배를 곱한 값에서 자신이 보유한 어도어 지분율의 75%만큼의 액수를 하이브로부터 받을 수 있다. &lt;br&gt;&lt;br&gt;풋옵션 산정 기준 연도는 2022~2023년이고, 이 기간 어도어 영업이익은 2022년은 손실 40억원, 2023년은 이익 335억원이었다. 민 전 대표는 어도어 주식 57만3160주(18%)를 보유하고 있다. 이를 토대로 계산하면 민 전 대표가 받을 수 있는 금액은 약 260억원에 이르는 것으로 알려졌다. 하지만 하이브는 작년 7월 주주 간 계약을 해지함에 따라 민 전 대표의 풋옵션 권리도 소멸했다고 주장한다. &lt;br&gt;&lt;br&gt;재판부는 오는 11월 27일 민 전 대표에 대한 당사자 신문을 추가로 진행하고, 12월 18일 변론을 종결하기로 했다. 선고는 내년 1월쯤에 나올 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘삼부토건 주가조작’ 이기훈 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/11/7CPAVJ7CGRA57JIAKOWMH7GJXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/11/7CPAVJ7CGRA57JIAKOWMH7GJXA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 10:57:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNJNVSSZSKGJ7DMVKTLEASLVUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장)이 경찰에 체포돼 지난 11일 서울 종로구에 마련된 김건희특검 사무실로 들어서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 11일 ‘삼부토건 주가조작’ 의혹을 받는 이기훈 삼부토건 부회장 겸 웰바이오텍 회장에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;이날 특검은 “금일 19시 42분쯤 피의자 이기훈에 대한 구속영장을 청구했다”라고 밝혔다. 이 부회장은 자본시장법 위반 혐의 등을 받는다. 이에 따라 법원은 구속 전 피의자심문(영장실질심사)을 통해 이 부회장의 구속 여부를 가릴 전망이다.&lt;br&gt;&lt;br&gt;앞서 특검은 경찰청 형사기동대와 공조해 전날인 10일 수사 도중 도주한 이 부회장을 목포에서 체포했다. 지난 7월 17일 이 부회장이 잠적한 지 55일 만에 신병을 확보한 것이다. 김형근 특검보는 11일 정례 브리핑에서 “이기훈은 도주 후 가평, 목포, 울진, 충남, 하동 등의 펜션을 며칠씩 전전하며 도피하다가 8월 초부터 목포 소재 원룸 형태 빌라에 단기임대 계약을 체결하고 머물러왔던 것으로 확인됐다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이 부회장을 체포한 이틑날인 11일 오전 10시부터 이 부회장에 대한 조사를 진행했다. 서울구치소에 수감된 이 부회장은 이날 교정본부 호송차를 타고 특검 사무실에 도착했다.&lt;br&gt;&lt;br&gt;삼부토건 주가조작 의혹은 2023년 삼부토건이 윤석열 정부의 우크라이나 재건 사업에 참여하는 것처럼 꾸며 주가를 5배 이상으로 부양했다는 의혹이다. 이와 관련해 특검은 지난 7월 14일 자본시장법 위반 혐의로 이일준 회장, 이응근 전 대표, 이 부회장에 대한 구속영장을 청구했다. 그러나 이 부회장은 구속 전 피의자 심문(영장실질심사)에 불출석하고 도주했다.&lt;br&gt;&lt;br&gt;이 부회장이 잠적을 감추자, 특검은 이 부회장에 대한 체포영장을 발부받고 추적에 나섰다. 한 달이 넘도록 행적이 드러나지 않자 지난달 19일엔 경찰청 국가수사본부에 긴급수배를 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>새만금국제공항 좌초 위기… 김관영 전북지사 “깊은 유감”</title>
