@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“약값만 2억, 언니 도와달라” 원더걸스 유빈 호소에 5만명 움직였다</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/13/OIN2HQN6EVA57G6L5BHZDA73DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/13/OIN2HQN6EVA57G6L5BHZDA73DU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Sep 2025 08:21:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COHGZNLMWNFFBDWXSQW6WCTGOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원더걸스 출신 유빈. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 원더걸스 출신 가수 유빈(본명 김유빈‧37)이 암 전이로 고통받는 언니의 소식을 알리며 동참을 호소한 국회 국민동의 청원이 5만명의 동의를 받았다. &lt;br&gt;&lt;br&gt;유빈은 12일 자신의 소셜미디어를 통해 이 같은 소식을 알리며 “이번 청원에 함께 마음을 모아주시고 소중한 동의를 보내주신 모든 분들께 진심으로 감사드린다”며 “여러분의 응원과 지지가 우리 가족에게 큰 힘이 됐고, 많은 환우분에게도 큰 희망과 용기가 됐다”고 했다. &lt;br&gt;&lt;br&gt;유빈은 “무엇보다도 따뜻한 마음을 깊이 느낄 수 있었다”며 “보내주신 마음을 오래도록 간직하며 감사의 뜻을 전한다. 여러분의 따뜻한 마음이 큰 위로가 됐다. 늘 잊지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 유빈은 지난 1일 소셜미디어를 통해 자신의 큰언니가 2020년 유방암 진단을 받고 치료를 받고 있다고 알렸다. &lt;br&gt;&lt;br&gt;유빈은 “다행히 효과적인 치료제를 어렵게 찾아냈지만, 현실적인 여건 때문에 제대로 된 치료를 받기가 너무나 힘든 상황이다. 언니를 조금이라도 지키고 싶은 간절한 마음으로 여러분께 도움을 부탁드린다”며 국민 청원 링크를 공유했다.&lt;br&gt;&lt;br&gt;유빈이 동참을 부탁한 청원은 ‘유방암 뇌전이 치료제 투키사(투카티닙)의 건강보험 급여 적용 및 신속한 처리 요청에 관한 청원’이다.&lt;br&gt;&lt;br&gt;투키사는 2개월 기준 약값이 3000만원에 달하고 다른 항암제와 병용할 경우 건강보험이 적용되던 약도 비급여로 전환돼 환자가 연간 2억원의 치료비를 부담해야 하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지난달 27일 올라온 이 청원은 13일 오후 5시 기준 5만3431명의 동의를 얻었다. &lt;br&gt;&lt;br&gt;국민동의 청원은 휴대폰 등을 통해 본인 인증을 해야 참여할 수 있고, 5만명 이상의 동의를 받으면 정식 접수돼 국회 소관위원회 및 관련 위원회로 넘어간다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>해병특검, ‘VIP 격노 인정’ 김계환 14일 네 번째 소환 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/09/13/EUZHKRGU4ND2HE6KWXKFXDCHYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/13/EUZHKRGU4ND2HE6KWXKFXDCHYA/</guid>
@@ -984,19 +993,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5DVUNHF4BEAXPIB7NIKIK4BWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 국회 교육위 인사청문회에서 최교진 사회부총리 겸 교육부 장관 후보자가 의원들의 질문에 답하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 전 세종시교육감이 교육부 장관으로 임명됐다.&lt;br&gt;&lt;br&gt;11일 교육부는 이날 오후 이재명 대통령이 최 장관에 대한 임명안을 재가했다고 밝혔다.&lt;br&gt;&lt;br&gt;최 장관은 12일 오전 대전현충원을 참배하고, 이후 정부세종청사로 이동해 취임식을 갖는다.&lt;br&gt;&lt;br&gt;최 장관은 앞서 음주 운전, 막말, 정치 편향, 북한 옹호, 논문 표절, 공기업 낙하산 취업 등 각종 논란에 휩싸였다. &lt;br&gt;&lt;br&gt;최 장관은 2003년 음주 운전으로 벌금 200만원형을 선고받았는데, 당시 혈중알코올농도는 ‘면허취소’에 해당하는 0.187%였다. &lt;br&gt;&lt;br&gt;그가 소셜미디어를 통해 과거 했던 말들도 잇따라 논란이 됐다. 최 장관은 조국 전 법무부 장관의 자녀 입시 비리 수사를 ‘검찰의 칼춤’이라고 했고, 성폭행 혐의로 실형을 선고받은 안희정 전 충남지사가 ‘사법 살인’을 당했다는 취지의 글을 공유했다. 과거 북한 방문 경험에 대해선 “순안공항에 첫발을 딛는 순간 나도 모르게 감동의 눈물이 흘렀다”고 썼다. 2013년에는 ‘천안함 폭침 음모론’을 주장한 게시물을 수차례 공유했다. 2019년엔 박정희 전 대통령 서거일을 ‘탕탕절’이라고 희화화해 표현했다.&lt;br&gt;&lt;br&gt;4일 최 장관은 자신의 소셜미디어 계정을 폐쇄했다. 그는 “청문회 과정에서 의도와는 다르게 저의 SNS 활동이 오해와 우려가 있었기에 활동 자제를 약속드렸다”고 했다.&lt;br&gt;&lt;br&gt;국회 장관 인사 청문회가 2일 열렸으나, 야당 반대로 인사청문 경과보고서 채택이 무산됐다. 이재명 대통령은 10일 국정 공백을 이유로 국회에 보고서 재송부를 요청했고, 이날 국회 교육위원회는 전체회의에서 여당 주도로 청문 보고서를 의결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/Z5DVUNHF4BEAXPIB7NIKIK4BWI.jpg?auth=8811a7887a291ef16599652714fdf9c73bb7df9a5fe0ad82f8dda8c1b5c44a7e&amp;smart=true&amp;width=5943&amp;height=3934" type="image/jpeg" height="3934" width="5943">
         <media:description type="plain">최교진 사회부총리 겸 교육부 장관 후보자가 2025년  9월 2일 서울 여의도 국회에서 열린 교육위원회의 인사청문회에서 위원 질의에 답하고 있다. /김지호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>목마른 강릉엔 60㎜ 단비... 주말 전국 곳곳 거세게 쏟아져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/11/CH7NWCUG3VEL7FVA7BLGRVK42M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/11/CH7NWCUG3VEL7FVA7BLGRVK42M/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Sep 2025 12:00:52 +0000</pubDate>
-      <content:encoded>강원도 동해안 지역에 주말 동안 최대 60㎜의 비가 내리겠다. 극심한 가뭄을 겪고 있는 강릉 지역 가뭄 해소에 도움이 될 전망이다. &lt;br&gt;&lt;br&gt;11일 기상청에 따르면, 저기압이 우리나라를 지나면서 12일과 13일 전국에 시간당 30㎜ 안팎의 비가 내리겠다. 시간당 30㎜ 비가 내리면 우산을 써도 비를 제대로 막을 수 없고 시야 확보가 어려워 운전도 힘들다. &lt;br&gt;&lt;br&gt;12일 늦은 오후 수도권과 충청권, 남부 지방에서 시작된 비는 밤에는 강원도까지 확대될 전망이다. 비는 13일 밤 대부분 그치겠지만, 강원도와 충북 북부, 경북 지역은 14일 새벽까지 이어질 수 있다.&lt;br&gt;&lt;br&gt;강릉시를 포함한 동해안 지역에도 이틀간 최대 60㎜가량 비가 올 것으로 예보됐다. 북부 동해안은 80㎜ 넘게 올 수도 있다. 남서풍과 북동풍이 동해상에서 만나 생기는 작은 저기압이 동해안으로 이동하면서 비구름대도 함께 유입되기 때문이다.&lt;br&gt;&lt;br&gt;주말 동안 강원 내륙·산지 지역 예상 강수량은 30~120㎜이며, 수도권 20~120㎜, 충청권 30~120㎜, 호남권 30~120㎜, 영남권 20~80㎜, 제주도 10~80㎜의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UKH4DC7CKEKU5KQRXD4IWSE3TY.jpg?auth=20215b9cc36562e626e768a197c00b1e6ab938c961f003a4057c60a7a9d457fb&amp;smart=true&amp;width=4295&amp;height=2864" type="image/jpeg" height="2864" width="4295">
-        <media:description type="plain">가을비가 요란하게 내리는 9일 오후 경북 경산시 영남대 앞에서 우산을 쓴 학생들이 발걸음을 재촉하고 있다. 2025.9.9/뉴스1 ⓒ News1 공정식 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 공정식 기자</media:credit>
       </media:content>
     </item>
     <item>
