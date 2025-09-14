@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검 “김상민, 2023년 2월 金여사에 1억4000만원짜리 그림 전달"</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/14/ERXO4FY3AJA5BMNFDFSULYDHQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/ERXO4FY3AJA5BMNFDFSULYDHQY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 09:05:57 +0000</pubDate>
+      <content:encoded>민중기 특별검사팀이 김상민 전 검사가 김건희 여사에게 1억4000만원 상당의 그림을 건넨 시기를 2023년 2월 초로 특정한 것으로 14일 확인됐다. 특검은 김 전 검사가 청탁금지법을 위반했다고 보고 구속영장을 청구한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKP4NGCCRQ6BMSL6JNNP6QCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 A4용지 2쪽 분량의 김 전 검사 구속영장에 이 같은 내용을 적시했다. 특검은 구속영장의 대부분을 구속 필요 사유를 소명하는 데 할애했는데, 중형 선고가 예상되는 만큼 김 전 검사가 도주할 우려가 있다고 주장한 것으로 파악됐다. 또 김 전 검사가 혐의를 전면 부인해 증거를 인멸할 우려가 크고, 다른 참고인들에게 위해를 가할 우려가 있다는 주장도 펼쳤다고 한다. 특검은 김 전 검사를 구속 상태에서 수사해 진실을 밝히겠다고 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 김 전 검사 측은 이러한 특검의 주장을 모두 받아들일 수 없다는 입장인 것으로 전해졌다. 수사를 통해 혐의를 입증한 뒤 구속영장을 청구하는 것이 올바른 순서 아니냐는 취지라고 한다. 또 김 전 검사에게 이우환 화백의 그림 ‘점으로부터(From Point) No.800298’를 판매한 사업가는 지인 관계에 있어 위해를 끼칠 우려도 성립하지 않는다는 게 김 전 검사의 입장이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGXRPFRWRJGNDDDQ3L2NLTZCPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사가 김건희 여사 측에 전달했다는 이우환 화백의 그림. 이 화백이 1980년 그렸다는 ‘점으로부터(From Point) No.800298’이다. /ethereal auctioneers&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 전 검사가 이 그림을 김 여사에게 건넸다고 보지만, 김 여사 측은 김 전 검사로부터 그림을 받은 사실이 없고, 2024년 총선 공천이나 국정원 법률특보 임명을 도운 적도 없다는 입장이다. 김 여사는 지난해 초 오빠 김진우씨 집에 이 그림이 걸려 있는 모습을 처음 봤고, ‘이 화백 그림은 위작이 많은데 왜 샀지’라고 생각한 게 전부라는 것이다. 김 여사 측은 김 전 검사를 포함한 국민의힘 관계자들의 공천에 개입할 수 있는 위치에 있지 않았다는 입장을 일관되게 유지해오고 있다.&lt;br&gt;&lt;br&gt;김 전 검사는 지난 9일 특검 조사를 마치고 나오면서 기자들과 만나 “논란이 되고 있는 그림은 제가 사서 소유했던 그림이 아니라 김씨의 요청으로 (거래를) 중개한 것”이라고 해명했다. 그림을 구입한 자금의 출처에 대해선 “알지 못한다”며 “김씨로부터 받은 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 해당 그림이 위작인지 여부도 계속 수사 중이다. 거래 가격은 1억4000만원으로 특정했지만, 진품의 경우 가격이 크게 오를 수 있기 때문이다.&lt;br&gt;&lt;br&gt;김 전 검사의 영장실질심사는 오는 17일 오후 2시 30분에 서울중앙지법 박정호 영장전담 부장판사 심리로 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉에 100㎜ 단비, 오봉저수지 수위 1.37m 상승… 가뭄 해갈엔 역부족</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/09/14/2CHCKMWDERFFNFRCREVOCHTPKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/14/2CHCKMWDERFFNFRCREVOCHTPKU/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 08:58:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHBCMNVFLRONVCK44SN52CR2TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 강원 강릉지역의 생활용수 87%를 공급하고 있는 오봉저수지가 이틀간 내린 비로 저수율이 올랐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 가뭄에 제한급수가 시행되는 강원 강릉에 전날 100㎜에 달하는 비가 내렸다. 하루 강수량 기준으로 강릉에 30㎜가 넘은 것은 지난 7월 15일(39.7㎜) 이후 60일 만이다.&lt;br&gt;&lt;br&gt;14일 강원도와 강릉시 등에 따르면, 지난 12일 오후 3시부터 이날 오후 4시까지 강릉 도심에 112㎜의 비가 내렸다. 특히 강릉 지역에 생활용수를 공급하는 오봉저수지에 직접적인 영향을 주는 강릉 닭목재에는 90㎜, 도마 84.5㎜, 삽당령 84㎜, 왕산 82㎜ 등의 강수량이 기록됐다.&lt;br&gt;&lt;br&gt;이번 비로 83만여t의 물이 오봉저수지로 자연 유입된 것으로 추정된다. 이날 오후 5시 30분 기준 오봉저수지의 저수율은 16%를 기록하고 있다. 가장 낮은 저수율을 보였던 지난 12일 11.5%보다 4.5% 포인트가 오른 셈이다.&lt;br&gt;&lt;br&gt;오봉저수지 저수율이 오른 것은 지난 7월 23일 이후 52일 만이다. 오봉저수지의 수위 역시 전날 99.74ｍ에서 101.1m로 상승했다.&lt;br&gt;&lt;br&gt;가뭄으로 제한급수 등 식수난을 겪는 상황에서 단비가 내렸지만 완전한 가뭄 해갈에는 아직 역부족이다.&lt;br&gt;&lt;br&gt;전날 비가 내리면서 일시 중단됐던 소방과 군부대의 원수와 정수 운반급수는 이날 다시 이뤄졌다.&lt;br&gt;&lt;br&gt;소방 당국의 대용량포 방사 시스템을 통한 비상급수도 재개됐다.&lt;br&gt;&lt;br&gt;제한급수도 계속되고 있다. 강릉시는 저수조 100t 이상 보유 아파트의 급수 시간(제수 밸브 개방)을 오전 6시부터 9시, 오후 6시부터 9시까지 하루 2차례, 3시간씩 시행하는 제한 급수 방식을 지난 13일 오후부터 적용하고 있다.&lt;br&gt;&lt;br&gt;앞서 시는 지난 6일 오전 9시부터 아파트를 비롯한 대형 숙박 시설 등 123곳에 대해 오전과 오후 각 1시간씩 수돗물을 공급하는 고강도의 제한급수를 시행했으나 시민 불편이 크다는 판단에 따라 제한급수 방식을 개선했다.&lt;br&gt;&lt;br&gt;생수(병입수)는 전날까지 800만개가 입고돼 198만2000개가 시민들에게 보급됐으며, 601만8000개가 남아 있는 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 만덕1터널서 차량 3대 충돌...5명 다쳐 병원 이송 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/14/LCIOFQXTIBD35MQZACD5SXEEOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/14/LCIOFQXTIBD35MQZACD5SXEEOM/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 08:40:04 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHC4WSJXARH2TA65M2LIVJ2GIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 북구 만덕1터널에서 SUV차량이 중앙분리대를 침범하면서 차량 3대가 충돌하는 사고가 발생했다. /부산 북부경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 북구 만덕1터널 근처 도로에서 SUV차량이 중앙분리대를 침범하면서 차량 3대가 충돌했다. 이 사고로 운전자 등 5명이 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;부산 북부경찰서에 따르면 14일 오후 2시25분쯤 북구 만덕1터널 동래에서 만덕방향으로 진행하던 SUV 차량이 중앙분리대를 침범해 반대 방향에서 운행 중이던 승용차와 SUV를 잇따라 충돌했다. &lt;br&gt;&lt;br&gt;이 사고로 SUV를 운전한 70대 남성 A씨 등 5명이 병원으로 옮겨져 치료를 받고 있다. 2명은 중상, 3명은 경상을 입었다. A씨는 당시 음주 상태는 아닌 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 블랙박스 등 자료를 확보해 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 한학자 총재 측 “17~18일 김건희 특검 자진 출석할 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/14/JLULPVG7N5CPPNBOKDT3MHPK5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/JLULPVG7N5CPPNBOKDT3MHPK5U/</guid>
@@ -961,24 +988,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQZ7VUYPEZFL3EAOZW3LPQBRKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 여행 온 중국인이 여성을 쫓아다니며 신고 있는 스타킹을 요구하다 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 ‘신고 있는 스타킹을 팔아라’면서 여성을 쫓아다닌 혐의(스토킹 범죄의 처벌 등에 관한 법률 위반)로 20대 중국인 A씨를 긴급체포해 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 6시 40분쯤 제주시 연동 한 쓰레기 분리처리시설에서 생활 쓰레기를 분리 배출하던 20대 한국인 여성에게 휴대전화 번역 애플리케이션을 이용해 ‘신고 있는 스타킹을 100만원에 팔아라’고 한 뒤 거절하는 여성을 150ｍ가량을 따라오며 스토킹한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자는 A씨가 쫓아오자 집 대신 인근 편의점으로 들어가 112에 신고한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 관광을 위해 제주로 왔으며, 신고 있는 스타킹을 달라고 한 것이 아니라 똑같은 스타킹을 사고 싶어 물어본 것이라며 혐의를 부인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 출국 정지 조치하고 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“여전히 난 못 걸어요”…보험급여 부당 수령 70대, 항소심서 법정 구속</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/12/XMQYDE6HQZDOHNBOJVGST5HHE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/12/XMQYDE6HQZDOHNBOJVGST5HHE4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 06:52:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Q6ELNGU7NHV5GVEB467PYHUV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건설 현장에서 다쳐 하반신 마비 판정을 받은 후 증상이 호전됐는데도 이를 속여 부당하게 보험급여를 받아 챙긴 70대가 법정 구속됐다.&lt;br&gt;&lt;br&gt;대전고법 제1형사부(재판장 박진환)는 12일 특정 경제범죄 가중처벌 등에 관한 법률 위반(사기) 등 혐의로 기소된 70대 A씨에 대해 원심을 깨고 징역 3년을 선고한 뒤 법정 구속했다.&lt;br&gt;&lt;br&gt;A씨는 1997년 3월 공사 현장에서 추락해 두 다리를 완전히 사용하지 못하는 양하지 마비 증상으로 중증요양상태등급 기준 제1급 판정을 받았다. 하지만 같은 해 11월 지팡이를 짚고 혼자 걸을 수 있을 정도로 상태가 호전됐음에도 하반신 마비 증상을 호소했다. &lt;br&gt;&lt;br&gt;그렇게 1999년 6월부터 2024년 8월까지 그가 타낸 보험 급여는 총 18억4000여 만원에 달했고, 실제 받을 수 있는 액수보다 무려 12억여 원을 부당하게 수령했다. 결국 덜미를 잡힌 그는 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;또 그는 타인의 요양보호사 자격증을 이용해 근로복지공단을 속여 간병비를 지급받은 혐의도 추가됐다. 검찰은 간병비 부정 수급에 가담한 70대 B씨도 함께 기소했다. &lt;br&gt;&lt;br&gt;1심 재판부는 A씨에게 징역 3년 6개월, B씨에게는 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “범행이 장기간에 이뤄지고, 피해액이 큰 데다 공적 연금에 상당한 악영향을 미쳐 엄벌이 필요하다”고 지적했다. 다만 “처음부터 근로복지공단을 적극적으로 속일 의도가 있었다기보다는 근로복지공단의 관리 소홀 상태에 편승해 범행을 이어온 것으로 보인다”며 “이들의 건강 상태 등을 고려해 법정 구속은 하지 않는다”고 판시했다. &lt;br&gt;&lt;br&gt;하지만 항소심 재판부는 형이 무겁다는 피고인들의 주장은 일부 인정하면서도 원심과 달리 이들이 적극적으로 범행을 저질렀고 도주의 우려가 있다며 이들을 법정 구속했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “마치 요양보호사가 간병한 것처럼 적극적으로 근로복지공단을 속여 죄질이 불량하다”며 “피고인들의 범행으로 정당하게 보험 급여 받을 수 있는 사람들에게 사용해야 할 공적 연금이 부당하게 지급돼 엄중한 처벌이 필요하다”고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 “다만, 실제 A씨가 산업재해로 장애를 입어 생계에 제약이 있었던 점, 항소심에서 1억1000여만원을 추가로 반납한 점을 고려해 형을 정했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘한덕수에 계엄해제 국무회의 건의’ 前국무조정실장 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/12/JW3ZX4DSEVEDDDVOUTOHR3EBB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/12/JW3ZX4DSEVEDDDVOUTOHR3EBB4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 06:36:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D44MDBJP5JFQCBVXEHRSEKENRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 특검팀의 박지영 특검보. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 12일 방기선 전 국무조정실장을 참고인 신분으로 소환했다고 밝혔다. 방 전 실장은 한덕수 전 국무총리에게 계엄 해제 국무회의 소집을 건의했던 인물이다.&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 브리핑에서 “방 전 실장에 대해서는 한 전 총리가 이미 기소된 부분과는 다른 부분에 대해 조사가 이뤄질 것으로 보인다”고 했다. 특검은 방 전 실장을 상대로 국회 의결 후 실제 계엄 해제가 늦어진 경위 등을 확인할 전망이다.&lt;br&gt;&lt;br&gt;특검은 또 한동훈 전 국민의힘 대표 등에 대한 증인신문 청구가 재판부에 이미 배당됐다고도 밝혔다. 박 특검보는 “한 전 대표에 대한 증인신문 청구가 이미 배당됐고, 배당된 재판부가 신속히 결정해줄 것으로 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 한 전 대표와 국민의힘 서범수·김희정·김태호 의원에 대해 공판 전 증인신문을 청구했다. 공판 전 증인신문은 참고인이 수사기관의 조사 요청에 불응할 경우 검사가 법원으로 참고인을 강제로 불러 신문할 수 있게 한 제도다. 한 전 대표에 대한 증인신문 청구는 서울중앙지법에, 나머지 의원들에 대해서는 서울남부지법에 각각 접수됐다.&lt;br&gt;&lt;br&gt;박 특검보는 “증인신문 청구에 불출석하면 구인영장이 발부돼 (강제) 구인을 할 수 있다”며 “법원의 절차이기 때문에 한 전 대표가 현명하게 판단하시리라 생각한다”고 했다. 이어 “추가 증인신문 청구를 고려하고 있는 것으로 안다”며 “수사 기한이 제한돼 있고 빠른 진상 규명을 국민들이 원하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 내란 우두머리 혐의로 기소된 윤석열 전 대통령의 재판 중계 신청에 대해서도 적극적으로 검토 중이라고 밝혔다. 박 특검보는 “윤 전 대통령에 대한 재판 중계는 국민의 알 권리 충족 차원에서 적극적으로 검토 중”이라고 했다. 다만 “중계가 되려면 법정 시스템 제반 여건이 되어야 하는 것으로 알고 있다”며 “그런 부분들을 전반적으로 고려해 중계 신청 여부를 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 특검, ‘정치자금법 위반’ 김상민 전 검사 구속영장 청구</title>
       <link>https://www.chosun.com/national/court_law/2025/09/12/B2I2736FNBEURLDSDSPNQLTHDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/12/B2I2736FNBEURLDSDSPNQLTHDQ/</guid>
@@ -986,15 +995,6 @@
       <description/>
       <pubDate>Fri, 12 Sep 2025 05:32:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IGFGPBONBG4X7NJK73KZVJFRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀 박상진 특검보가 지난달 29일 서울 종로구 KT광화문빌딩 웨스트에서 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘공천 청탁 의혹’ 등을 받는 김상민 전 검사에 대해 청탁금지법 위반 및 정치자금법 위반 혐의로 구속 영장을 청구했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;김 전 검사는 2023년 1월 김 여사 측에 1억원대 이우환 화백 그림을 전달한 혐의를 받는다. 특검은 이후 김 전 검사가 작년 4월 총선을 앞두고 김 여사를 통해 김영선 전 의원 지역구인 창원 의창에 국민의힘 공천을 받으려고 시도했다고 보고 있다. 김 여사는 김 전 의원에게 “김 검사는 조국 수사를 열심히 했다. 그가 창원 의창에 당선되도록 지원해 달라”는 취지의 연락을 했던 것으로 알려졌다. 실제 김 전 의원은 지역구를 옮겼다.&lt;br&gt;&lt;br&gt;김 전 검사는 결국 국민의힘 공천을 받지는 못했지만, 총선이 끝나고 작년 8월 국가정보원 법률특보에 임명됐다. 이에 대해 김 전 검사는 “이 화백 그림은 김 여사 친오빠인 김진우씨의 부탁으로 ‘대리 구매’한 것”이라는 입장이다. &lt;br&gt;&lt;br&gt;김 전 검사는 2023년 김모씨로부터 선거용 차량 리스 보증금 4000여만원을 대납받은 혐의도 있다. 김씨는 사기 코인을 발행해 800여억원을 챙긴 혐의로 구속 기소된 이른바 ‘존버킴’ 박모씨의 지인이다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘건진법사’ 전성배씨의 청탁 의혹 관련해 박창욱 경북도의원을 정치자금법 위반 혐의로 구속 영장을 청구했다고 밝혔다. 또 이 사건 관련 사업가 김모씨에 대해서도 구속 영장을 청구했다. 박 도의원은 김씨를 통해 전씨에게 경북도의원 후보로 국민의힘 공천을 청탁하고, 그 대가로 1억원을 지급한 혐의를 받는다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>초등학교 찾은 오세훈 “어린이 안전 위해 가능한 모든 대안 찾겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/12/244FWZVCVZAGHMNV26NQ6LDUB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/244FWZVCVZAGHMNV26NQ6LDUB4/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 06:18:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3Z3BSQOIRJ27C7W6UQFH2LZQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 12일 서울 광진구 양남초를 방문해 학생들에게 초등안심벨 사용법을 설명하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 전국 각지에서 미성년자를 대상으로 한 유괴 시도가 잇따르고 있는 가운데, 오세훈 서울시장이 12일 광진구 양남초를 찾아 등하굣길 안전 확보를 위한 간담회를 열었다.&lt;br&gt;&lt;br&gt;이날 간담회에 앞서 양남초 1학년 교실을 찾은 오 시장은 학생들을 대상으로 ‘초등안심벨’ 사용법을 설명했다.&lt;br&gt;&lt;br&gt;초등안심벨은 긴급 상황에서 버튼을 누르면 자동차 경적 수준의 경고음이 울리는 장치다. 아이들이 가방에 달고 다닐 수 있다.&lt;br&gt;&lt;br&gt;앞서 전날 서울시는 내년부터 초등안심벨을 서울 시내 모든 초등학생에게 지원하겠다고 발표했다. 지난 5월 서울 시내 606개 모든 초등학교의 신청을 받아 1~2학년 학생에게 보급했는데, 대상을 늘리기로 한 것이다.&lt;br&gt;&lt;br&gt;한편 이날 현장 간담회에는 양남초 교장을 비롯해 학부모와 학교 전담 경찰관 등 10여 명이 참석했다.&lt;br&gt;&lt;br&gt;간담회에서 한 학부모는 “서울시가 고학년까지 안심벨을 나눠준다는 소식을 듣고 한결 마음이 놓인다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “며칠 새 어린 자녀를 둔 학부모 불안이 커지고 있어 대책 마련을 고심하고 있다“며 ”경찰, 교육청 등과 가능한 모든 대안을 찾아 등하굣길 어린이 안전을 보호해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>젊은 남성들 우르르 모여 인천공항 난리…축구선수 때문? </title>
