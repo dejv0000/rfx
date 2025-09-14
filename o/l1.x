@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰제도 개편 비판 김종민 변호사 페북 계정차단…"이유 통보도 없어"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211431.jpg" alt="45748.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김종민 변호사 페이스북 계정.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰청 폐지와 공소청 신설 등&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;정부가 추진하는 검찰 제도 개편을 비판해온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2309"&gt;김종민&lt;/span&gt;(59·사법연수원 21기) 법무법인 MK 파트너스 변호사의 페이스북 계정이 차단됐다.&lt;br /&gt;&lt;br /&gt;페이스북은 14일 김 변호사의 계정을 일시 차단하고 "180일 이내에 재고를 요청하지 않으면 계정이 영구 비활성화된다"고 안내했다. &lt;br /&gt;&lt;br /&gt;김 변호사는 법률신문과의 통화에서 "2017년부터 써온 계정에 로그인하지 못하고 있다"며 "안내문에는 '커뮤니티 규정 위반'이라고만 돼 있을 뿐 차단 이유를 통보받지 못했다"고 말했다. 그러면서 "최근 검찰 개편안이 중국의 형사사법 제도와 100% 같다고 페이스북에 올린 적이 있는데 그 때문인지 모르겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 9월 11일 국회에서 국민의힘이 주최한 '검찰해체와 인민재판부 설치에 관한 청문회'에 나와 같은 취지로 발언했다. 그는 "비속어나 혐오표현을 쓴 적이 없다"며 "이런 조치는 검열국가 행위로 볼 수 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;김 변호사의 계정 차단 조치 사유에 대해 페이스북에 질의하자, 페이스북 측은 "개별 계정의 조치 사유에 대해서는 공개할 수 없는 점 양해 바란다"고 했다. 페이스북은 통상 신고가 접수되면 인공지능이나 검토부서 인력이 내용을 확인한다. 이후 당사자에게 소명 기회를 주지 않고 예고 없이 계정을 비활성화할 수 있다. 주로 폭력·유해·허위 콘텐츠 게시가 원인이 된다.&lt;br /&gt;&lt;br /&gt;김 변호사는 계정 차단에 대해 페이스북 측에 이의신청을 했다. 180일 안에 제한조치를 풀지 않으면 소송을 제기하겠다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 변호사는 1995년 검사로 임용돼 사법연수원 교수, 법무부 인권정책과장 등을 거쳤고 2015년 변호사로 개업했다. 문재인 정부 때인 2017년 법무부 검찰개혁위원회 위원으로 활동했다.</description>
+			<pubDate>Sun, 14 Sep 2025 09:43:19 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211431</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211431</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211431.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 한학자, 내일 특검 조사 불출석… 3차례 소환 불응</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211430.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 14 Sep 2025 07:22:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211430</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211430</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211430.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>"영국서 변호사는 자격증일 뿐" 온라인·야간 교육 개방</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211393.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국에서는 생업을 포기하지 않고도 변호사 자격을 취득할 수 있는 길이 사실상 없지만, 영국은 직장인 등 비법학 전공자에게 변호사가 될 문을 활짝 열어 두고 있다. 국내 직장인 A 씨는 최근 영국 현지에 한 번도 가지 않고 1년 6개월짜리 온라인 대학원 과정을 마쳐, 내년 영국 변호사(solicitor) 시험(SQE)을 앞두고 있다. A 씨는 한국 로스쿨과 변호사시험에 비교하면 부담이 크지 않다며 “핵심 과목만 이수하면 된다. 결코 만만하다고 볼 수는 없지만, 그렇다고 대단한 깊이를 요구하지도 않는다”고 말했다. 그는 “영국에서도 직장인들이 방송통신대학의 과정을 많이 이용하는 것으로 안다”고 했다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;BPP로 문호 열어&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;영국은 최근 몇 년 사이 사회 경력자들이 변호사가 될 수 있는 문턱을 빠르게 낮췄다. 비전공자들을 위해 ‘BPP University’, ‘University of Law’ 같은 대학원 과정을 두고 있다. 코로나19 이후 온라인·야간 과정을 대폭 확대해 직장인들의 접근성을 한층 높였다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2021년에는 변호사 선발 제도를 대폭 개혁했다. 2000만 원에 달하는 비싼 실무 교육과정(Legal Practice Course·LPC)을 폐지하고, 절대평가 방식의 자격시험(SQE)을 도입했다. 합격률은 50% 수준이고, 절대평가여서 합격 정원이 없다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2년간의 실무 수습 요건도 완화해 로펌 외에 정부기관, 사내 법무팀 등 최대 네 곳의 경력을 합산할 수 있도록 했다. 영국 변호사인 김경화 스티븐슨하우드 대표변호사는 “의사가 짧은 교육을 받고 의료전문 변호사가 되거나, 엔지니어가 변호사가 되어 건축 분야 전문가가 되는 식”이라고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;영국, 자격과 경쟁&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;이러한 개방적인 제도의 배경에는 변호사를 바라보는 근본적인 철학의 차이가 있다. 영국에서 유학한 한 로스쿨 교수는 “영국은 변호사 정원을 두는 식으로 국가가 변호사 시장을 관리하지 않는다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;김경화 대표변호사 역시 “영국에서 변호사는 일정 수준만 넘으면 주어지는 자격증 개념”이라며 “일단 변호사가 되면 장래가 보장되는 게 아니라, 그때부터 치열한 법률 서비스 경쟁을 시작해야 한다”고 했다. 국가는 ‘자격’을 부여할 뿐, 생존은 ‘시장 경쟁’의 영역이라는 것이다.&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;한국, 통제와 포화&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;반면 한국에서 방송통신대(방송대) 로스쿨 도입에 반대하는 핵심 논리는 시장 포화와 변호사시험 합격률 저하에 대한 우려다. 이는 변호사 수를 국가가 적절한 수준으로 통제하고 관리해야 한다는 전제가 깔려있다. 영국과는 반대의 철학이다. 인구가 7000만 명인 영국은 매년 2500명 정도 변호사가 배출된다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한 로스쿨 교수는 “집단이 커지게 되면 균질한 수준을 갖추지 못하게 되고 경쟁에 따라 계층이 나뉘는 건 자연스러운 현상”이라며 “변호사가 됐다고 해서 일자리를 보장해줘야 한다는 전제는 잘못됐다”고 말했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 14 Sep 2025 05:40:13 -0000</pubDate>
@@ -221,24 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211417</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211417.jpg</media:thumbnail>
 			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>싱가포르 법원, 소액 재판 위해 'AI 도구' 도입</title>
-			<description>&lt;p&gt;싱가포르 법정에 새로운 생성형 인공지능(AI) 도구가 도입됐다.&lt;/p&gt;&lt;br /&gt;싱가포르 소액재판소(Small Claims Tribunals, SCT)의 재판부는 9월 10일(현지시간)부터 새로운 생성형 AI 도구를 활용하기 시작했다. 소액사건이 계류 중인 당사자와 그 대리인도 11월부터 AI 도구의 도움을 받을 수 있게 될 예정이다.&lt;br /&gt;&lt;br /&gt;신규 도입되는 AI 도구는 원고와 피고가 제출한 사건 내용을 읽기 쉬운 요약본으로 제공한다. 복잡한 사실관계와 증거, 법적·사실적 쟁점을 쉽게 풀어 설명해 이해를 돕는 방식이다.&lt;br /&gt;&lt;br /&gt;이 AI 도구는 사용자가 상대의 입장과 증거의 요점을 정확히 파악해 자신의 주장을 더욱 효과적으로 구성하도록 돕겠다는 것을 목표로 하고 있다. &lt;br /&gt;&lt;br /&gt;이번 AI 도구는 모든 단계에서 철저히 기밀성이 유지되고, 법률 자문 제공 없이 사실 요약만 하도록 설계했다는 것이 싱가포르 법원의 입장이다. &lt;br /&gt;&lt;br /&gt;싱가포르 사법부는 AI 플랫폼 기업인 하비AI(Harvey.AI)와 협력해 이번 생성형 인공지능 도구를 개발했다. 생성형 AI는 훈련된 데이터를 기반으로 콘텐츠를 만들어내는 딥러닝 알고리즘을 의미한다.&lt;br /&gt;&lt;br /&gt;2025년 3월 순다레쉬 메논(Sundaresh Menon) 싱가포르 대법원장은 법률신문과의 인터뷰에서 "소가 3만 싱가포르 달러 이하의 소액 사건에 한해 나홀로 소송 당사자들을 위한 AI 기반 플랫폼을 개발 중이고 2025년 말 정식 출시가 목표"라고 밝힌 바 있다.</description>
-			<pubDate>Fri, 12 Sep 2025 10:37:14 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211367</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211367</guid>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국민사법학회 제3회 판례연구회 20일 개최 … 대학원생 논문경연도 열려</title>
-			<description>한국민사법학회(회장 박수곤)이 서울대 법학연구소(소장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7189"&gt;전원열&lt;/span&gt;)와 함께 오는 9월 20일 서울 관악구 신림동 서울대 백주년기념관 최종길홀에서 ‘2025년 제3회 판례연구회’를 개최한다. &lt;br /&gt;&lt;br /&gt;제1세션에서는 고세일 충남대 로스쿨 교수가 ‘사생활 보호’를 주제로 2025년 2월 27일 선고된 대법원 2023다233895 판결에 관해 발표한다. 이무룡 서울대 로스쿨 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1752"&gt;김태선&lt;/span&gt;(52·사법연수원 30기) 서강대 로스쿨 교수는 ‘총회 결의 없는 조합장 보수 지급과 도의관념에 적합한 비채변제’를 주제로 대법원&lt;b&gt; 2024다257362&lt;/b&gt; 판결을 다룬다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17380"&gt;권오상&lt;/span&gt;(44·39기) 전남대 로스쿨 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;제2세션에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9636"&gt;이동진&lt;/span&gt;(47·32기) 서울대 로스쿨 교수와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7685"&gt;이창현&lt;/span&gt;(51·31기) 서강대 로스쿨 교수가 발표한다. 이동진 교수는 ‘연장된 소유권 유보와 도산’을 주제로 2024년 9월 13일 선고된 대법원&lt;b&gt; 2022다294084 &lt;/b&gt;판결을 다룰 예정이다. 김은아 숭실대 법학과 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7685"&gt;이창현&amp;nbsp;&lt;/span&gt;교수는 ‘시효완성 후 일부 변제와 시효이익의 포기’를 주제로 7월 24일 선고된 대법원 &lt;b&gt;2023다240299&lt;/b&gt; 전원합의체 판결에 관해 발표한다. 윤태영 아주대 로스쿨 교수가 토론한다.&lt;br /&gt;&lt;br /&gt;이날 서울대 백주년기념관 최종길홀 옆 102호에서는 ‘2025년 제10회 대학원생 논문경연대회’가 열릴 예정이다.</description>
-			<pubDate>Fri, 12 Sep 2025 10:12:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211416</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211416</guid>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
