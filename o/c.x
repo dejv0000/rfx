@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>제주 해변서 포탄 추정 물체 발견... “폭발 가능성 낮아”</title>
+      <link>https://www.chosun.com/national/regional/2025/09/14/7BFIYSKMZZEVZFYUL5RAEQ5QGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/14/7BFIYSKMZZEVZFYUL5RAEQ5QGA/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 11:57:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XCQX3YS4STK3LOVG5RWDTJI62U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 제주 서귀포시 성산읍 광치기해변에서 포탄으로 추정되는 물체가 발견돼 군경 등 관계당국이 조사중이다. /뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 해변에서 포탄 추정 물체가 발견돼 해군이 조사중이다.&lt;br&gt;&lt;br&gt;14일 제주소방안전본부 등에 따르면 이날 오후 3시 6분쯤 서귀포시 성산읍 광치기해변에서 ‘포탄으로 보이는 물체가 있다’는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;소방당국은 경찰과 해경에 공동 대응을 요청하는 한편 현장에 출동해 안전 조치를 진행했다.&lt;br&gt;&lt;br&gt;발견된 물체는 녹이 슨 상태였으며 포탄으로 추정됐다. 크기와 규격 역시 확인중이다.&lt;br&gt;&lt;br&gt;해군은 발견된 물체의 폭발 가능성은 낮다고 전했다.&lt;br&gt;&lt;br&gt;해군 기동함대 폭발물처리반(EOD)이 물체를 수거했으며 해군은 자세한 경위를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘빨간 마후라’ 부른 쟈니브라더스 멤버 진성만, 미국서 별세</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/14/6YDCUO6JGZHEZN3JIZRBLWWF7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/14/6YDCUO6JGZHEZN3JIZRBLWWF7M/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 12:51:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NRT6VXLSZHSXB2KUNTVR2QCOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1960년대 히트곡 ‘빨간 마후라’를 부른 남성 사중창단 ‘쟈니브라더스’ 멤버 진성만씨. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1960년대 히트곡 ‘빨간 마후라’를 부른 남성 사중창단 ‘쟈니브라더스’ 멤버이자 영화 제작자인 진성만(85)씨가 가족과 생활하던 미국 로스앤젤레스(LA)에서 지병으로 별세했다.&lt;br&gt;&lt;br&gt;고인은 1940년 3월 전북 익산에서 3남 1녀 중 장남으로 태어났다. 그는 21세 때인 1961년 ‘예그린악단’ 합창단원으로 음악 활동을 시작했다. 악단 해산 후엔 1963년 동아방송 1기로 성우 활동에 나섰다. 배우 사미자씨와 김무생씨 등이 그의 동기다.&lt;br&gt;&lt;br&gt;진씨가 가장 힘을 쏟았던 분야는 단연 음악이었다. 1963년 예그린악단 단원 출신 김준, 양영일, 김현진과 쟈니브라더스를 결성했고 그해 동아방송 중창 콩쿠르에서 최우수상을 받으며 이름을 알렸다. 이어 이듬해 동명 영화 주제곡 ‘빨간 마후라’가 큰 인기를 끌면서 톱스타로 발돋움했다.&lt;br&gt;&lt;br&gt;대표곡 ‘빨간 마후라’가 탄생한 비화도 유명하다. 1963년 초여름 당시 영화 제작사 신필름 측이 작곡가 황문평씨에게 주제곡을 당일 완성해 달라고 의뢰했고, 황씨는 급히 가수를 물색하던 중 신예였던 쟈니브라더스를 낙점했다. 멤버들은 두세 번의 연습만 한 뒤 녹음을 마쳤다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WATBZQQBHUCLWAKPTEG6XO7YWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원년 멤버 그대로 모인 '쟈니브라더스'가 활동 당시 사진 옆에서 포즈를 취하고 있다. 위에서부터 김준, 양영일, 김현진, 진성만씨. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 곡은 발표와 동시에 우리나라 공군의 대표 군가로 자리 잡게 됐다. 더불어 쟈니브라더스도 ‘방앗간집 둘째 딸’ ‘아나 농부야’ ‘마포 사는 황부자’ ‘수평선’ 등을 잇달아 히트시키며 당대 최고 인기 그룹이 됐다. 그러다 1968년 여름 각자 솔로 활동에 집중하기 위해 해체했다.&lt;br&gt;&lt;br&gt;이후 고인은 영화 제작자로 변신해 1986년 배우 김지미씨가 설립한 ‘지미필름’ 대표를 맡았고 영화 ‘오렌지 나라’ ‘명자 아끼꼬 쏘냐’ ‘물의 나라’ ‘아낌없이 주련다’ 등을 제작했다. 또 ‘로보캅’ ‘마지막 황제’ 등 1980년대 굵직한 명작을 수입하며 기획과 흥행 모두에 뛰어난 인물로 평가받았다. 그는 김지미씨 친동생인 김지애씨와 결혼했다.&lt;br&gt;&lt;br&gt;진씨와 쟈니브라더스는 1973년 TBC ‘쇼쇼쇼’ 고별 무대 이후 34년 만인 2007년 3월 KBS ‘가요무대, 돌아온 쟈니브라더스’로 재결합해 팬들을 만났다. 진씨는 가족이 있는 LA와 한국을 오가며 활동해 2016년엔 첫 솔로 앨범을 냈고 ‘진성만 팝 &amp;amp; 재즈 콘서트’도 열었다.&lt;br&gt;&lt;br&gt;유족으로는 부인 김씨와 세 딸이 있다. 장례식은 미국에서 치러질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4NRT6VXLSZHSXB2KUNTVR2QCOY.jpg?auth=8b1aa99f0518d05470570ec0549da57640e2cdffaefbc6f315dac106cf91649a&amp;smart=true&amp;width=771&amp;height=530" type="image/jpeg" height="530" width="771">
+        <media:description type="plain">1960년대 히트곡 ‘빨간 마후라’를 부른 남성 사중창단 ‘쟈니브라더스’ 멤버 진성만씨. /연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>문형배 “대법관 늘리자면서 ‘재판소원’으로 4심제 하자는 건 모순”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/10/3OYU37AJLRBUBAID6ZLB72J2UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/10/3OYU37AJLRBUBAID6ZLB72J2UY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Sep 2025 14:04:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3BCEA43XT523SMAYHO5LO2EGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문형배 전 헌법재판소장 권한대행이 10일 오후 서울 마포구 서강대학교 성이냐시오관에서 '법률가의 길-헌법소원과 민주주의'를 주제로 특별강연을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문형배 전 헌법재판소장 권한대행이 10일 “신속한 재판을 위해 대법관을 늘리자면서 ‘재판소원’을 도입해 4심제로 가자는 건 모순”이라고 말했다. 문 전 대행은 이날 서울 마포구 서강대학교 성이냐시오관 강당에서 진행한 특강에서 대법관 증원과 재판소원(법원 재판에 대한 헌법소원) 도입 등 더불어민주당이 추진하는 이른바 ‘사법 개혁’ 논의에 관한 질문에 이같이 답했다. &lt;br&gt;&lt;br&gt;그는 대법관 증원론에 대해 “국회와 대법원이 상고심 제도에 한 차례도 대화하지 않고 대법관 증원에만 집중하면 안 된다”고 했다. 그는 “상고심을 ‘사실심’의 연장으로 볼 것인지 ‘법률심’으로 유지할 것인지에 대한 큰 틀을 먼저 정해야 하고, 상고가 잦은 이유를 분석한 뒤 이를 해소하려는 방안을 논의하는 순서로 가야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 최종 판결에 불복해 헌재에 위헌 심사를 청구하는 ‘재판소원’ 도입에 대해선 “반드시 4심제가 될 것”이라고 했다. 그는 “헌재는 이미 한해 2600건의 사건이 접수되고, 위헌 결정을 내리는 데 3~4년이 걸린다”며 “대법원에 한 해 접수되는 4만건의 사건 중 30%가 불복해 1만2000여건의 재판소원이 더 접수된다면 문제가 복잡해진다”고 했다. 이어 “재판소원이 활발한 독일에서도 인용률이 1~2%에 그친다”며 “신속한 재판을 위해 대법관을 늘리자면서 4심제로 가겠다는 것은 모순”이라고 지적했다. 그는 “헌재가 내린 ‘한정위헌(법원의 조문 해석에 대해 위헌 판결을 하는 것)’ 결정을 재심 사유로 인정하는 것이 재판소원의 대안이 될 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;문 전 대행은 1·2심 부실화 문제도 사법 개혁 논의 안건으로 다뤄져야 한다고 했다. 그는 “최근 서울중앙지법에서 형사합의부 재판장을 최근에 만났는데, 일주일에 재판을 4일 하고 판결문을 쓸 수 있는 날은 하루밖에 없다고 하더라”라며 “이런 재판부를 2~3배 늘려줘야 심리 부실이 없을 것 아니냐”고 했다. 또 “대법원까지 갈 필요 없는 사건의 상고가 과도하게 많다는 것을 2심 법원에서 느꼈다”며 “이 문제도 적당한 선에서 걸러낼 방법을 논의해야 한다”고 했다.&lt;br&gt;&lt;br&gt;그는 “그럼에도 대법관 증원이 필요하다면 논의할 수 있겠으나 오는 12일 전국 법원장 회의와 25일 전국법관대표회의에서 의견이 수렴될 것이고, 이를 토대로 국회와 대법원이 충분히 논의했으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;국회 등의 재판 독립 침해 문제에 대해서는 “사법 독립은 사법부가 존립하기 위한 필요조건으로, 사법부가 독립돼있지 않으면 사법부가 아니다”라고 했다. 문 전 대행은 “국민 대표는 무오류인가”라며 “그걸 견제하는 게 사법부”라고도 했다. &lt;br&gt;&lt;br&gt;이어 “사법부가 잘못하면 당연히 비판해야 하지만 ‘감 놔라 배 놔라’ 하는 건 옳지 못하다”며 “사법부 권한에 대한 존중 없이 이른바 개혁을 하겠다는 건 (신중하게) 생각해봐야 한다”고 했다. 다만 그는 “사법부가 사법 독립을 방패 삼아 스스로를 정당화해서도 안 된다. 국민으로부터 신뢰받지 못하는 사법부는 더욱 존립할 수 없다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>특검 “김상민, 2023년 2월 金여사에 1억4000만원짜리 그림 전달"</title>
       <link>https://www.chosun.com/national/court_law/2025/09/14/ERXO4FY3AJA5BMNFDFSULYDHQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/ERXO4FY3AJA5BMNFDFSULYDHQY/</guid>
@@ -959,33 +989,6 @@
       <description/>
       <pubDate>Fri, 12 Sep 2025 07:43:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XTPUNEZHVADZCM2WF7YGFBMJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피해 음식점 리뷰 게시판에 올라온 후기. /아프니까 사장이다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;50만원 상당의 음식을 ‘노쇼(예약 부도)’ 당해 피해를 본 자영업자가 음식을 버리는 대신 주민들에게 무료 제공해 위로와 응원을 받은 사연이 알려졌다.&lt;br&gt;&lt;br&gt;지난 10일 국내 최대 자영업자 온라인 커뮤니티인 ‘아프니까 사장이다’에는 ‘삼계탕 노쇼, 무료로 이웃에게 나눠버렸습니다’라는 제목의 글이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “어제 삼계탕 30인분, 약 50만원 정도를 노쇼 당했다”며 예약자 B씨와 나눈 문자를 공개했다.&lt;br&gt;&lt;br&gt;A씨는 며칠 전 B씨로부터 삼계탕 30인분 등 50만원 상당의 예약 주문을 받았다. 예약 전화를 받을 당시 예약금을 언급했지만, B씨가 “이 동네 식당에서 한두 번 회식한 것이 아니니 걱정하지 말라”는 식으로 말해 믿고 예약금을 받지 않았다.&lt;br&gt;&lt;br&gt;이후 예약 당일인 9일 오전에도 A씨는 B씨에게 “변동 사항 있으면 미리 연락 달라”며 확인 문자를 보냈고, B씨는 “이따 뵙겠다”고 답했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K4DPR7AOBNBMXBVN5W6MSXOJCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨와 B씨가 나눈 문자메시지 대화. /아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 당일 오후 4시 예약 시간까지 손님은 나타나지 않았고, B씨는 뒤늦게 “죄송하다. 취소해 달라. 못 갈 것 같다. 사정이 생겨”라고 답했다.&lt;br&gt;&lt;br&gt;A씨는 “자영업자라면 알겠지만 예약금 받기 사실 어렵다. 말 한마디가 매출로 이어지다 보니 고객에게 불편한 멘트를 하기 쉽지 않다”며 “분노와 좌절이 밀려왔다. 삼계탕은 조리 시간도 오래 걸리고 어머님이 주방을 맡아 주시다 보니 너무 죄송했다. 해서 이렇게 버릴 바에는 지역 주민에게 무료 나눔을 진행하자 생각했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지역 커뮤니티에 무료 나눔 소식을 알렸고, 이를 보고 찾아온 지역 주민들 덕분에 준비한 음식은 모두 소진됐다.&lt;br&gt;&lt;br&gt;무료로 나눔 받은 주민들은 음식점 리뷰에 “마음이 많이 안 좋으실 텐데 내색 없이 너무 친절히 응대해 주셨다. 정성 가득 음식 잘 먹었다” 등의 후기를 남겼다. 일부 주민은 삼계탕은 필요 없고, 조금이라도 도움을 주고 싶으니 계좌번호를 알려달라고 요청하기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EC5CR36IKFDVBAN25U7HJX2JCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨를 응원하는 지역 주민들. /아프니까 사장이다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “오히려 더 많은 분들에게 나눠드리지 못해 죄송할 정도로 걱정과 응원을 받았다”며 “분노를 나누니 오히려 행복하더라. 재료 값이라도 챙겨주시는 분들, 너무 맛있다고 칭찬해 주시는 분들, 함께 분노해 주시는 분들 모두 감사했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “각박하다 생각했던 세상이 아직 따뜻한 면이 있음에 감동했다”며 “자영업 시장이 너무 좋지 않은 요즘 다들 힘내시라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李대통령 “깽판” 지목한 반중집회… “명동길 못 가” 경찰 첫 제한 통고</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/12/FZTSVEHSJNDKBCRDSNEBTGJIGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/12/FZTSVEHSJNDKBCRDSNEBTGJIGY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 05:54:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VCH6BCSUADCOG3BQZ2WTU4V5MQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;'자유대학'이 지난 9일 저녁 서울 중구 명동에서 반중 성향의 집회를 열고 거리를 행진했다. /자유대학 유튜브 영상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 12일 서울 명동 일대에서 열릴 예정인 부정선거 규탄 집회 주최 측의 반중(反中) 집회에 대해 공식 제한 통고를 내렸다. 최근 이재명 대통령이 국무회의에서 해당 시위를 “깽판”이라 지목하며 실효적 대책을 주문한 데다, 명동 상인들도 소음·욕설 피해와 외국인 관광객 이탈을 호소하며 경찰에 집회 금지를 요청한 데 따른 조치다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 이날 오후 7시 30분 주한 중국 대사관 인근에서 집회를 예고한 ‘민초결사대’에 대해 명동 이면도로 진입 금지 및 행진 경로 변경을 골자로 한 제한 통고를 확정·전달했다. 경찰 관계자는 “제한 통고는 오늘 집회부터 적용되며, 명동길로 진입하지 못하도록 행진 경로를 다른 큰길로 우회하도록 조치했다”고 했다.&lt;br&gt;&lt;br&gt;이에 따라 이날부터 집회 주최 측은 명동길 대신 을지로2가, 퇴계로, 시청 교차로 등 대로변을 이용해 행진해야 하며, 주한 중국대사관 경계 100m 이내 접근도 금지된다. 이 외에도 집회 중 외국인 관광객을 향한 욕설이나 모욕적 언행 등 마찰 유발 행위도 금지된다.&lt;br&gt;&lt;br&gt;이날 제한 통고는 명동 상인들의 민원과 관광특구 보호 필요성이 복합적으로 반영된 결과다. 명동관광특구협의회는 앞서 11일 오전 남대문경찰서에 공문을 제출하며, “좁은 이면도로에 수백 명의 시위대가 몰리면서 관광객에게 공포감을 주고 국격을 훼손하고 있다”며 시위 금지를 요청한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 이번 제한 조치를 시작으로, 매주 명동 일대를 행진한 ‘자유대학’과 ‘선관위서버까국민운동본부’ 등 다른 단체에도 순차적으로 제한 통고를 전달할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘탈북민 北인권운동가’ 김성민 전 자유북한방송 대표 별세</title>
-      <link>https://www.chosun.com/national/people/2025/09/12/PDVUXWWY6VF4LCYOLCOGOBA73I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/12/PDVUXWWY6VF4LCYOLCOGOBA73I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 06:25:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XHAXVEI5VEOPLXDX55V6EDLHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성민 전 자유북한방송 대표. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20여 년간 대북 라디오 방송을 이끌며 북한 인권을 위한 활동을 해온 김성민 전 자유북한방송 대표(63)가 12일 별세했다. 고인은 지난 2017년부터 암 투병 생활을 해오다가 지난해 9월 시한부 판정을 받은 바 있다.&lt;br&gt;&lt;br&gt;김 전 대표는 1962년 자강도 희천시에서 태어났으며, 북한군 예술선전대 작가(대위)로 활동하다 1995년 탈북과 1996년 재탈북을 거쳐 1999년 2월 한국에 입국했다.&lt;br&gt;&lt;br&gt;김 전 대표는 탈북민 북한인권단체인 탈북자동지회 회장을 역임했으며, 지난 2004년 민간 대북방송인 ‘자유북한방송’을 설립했다.&lt;br&gt;&lt;br&gt;자유북한방송은 북한의 대남기구인 반제민전(구 한민전)이 방송 중단을 요구하며 폭파 위협을 하는 민감한 반응을 보일 정도로 파급력이 컸다. 고인은 자유북한방송을 운영하며 협박 소포와 편지, 이메일 등을 받기도 했다.&lt;br&gt;&lt;br&gt;김 전 대표는 매년 한국과 미국을 오가며 ‘북한자유주간 행사’를 공동 개최해 북한 주민들의 실상을 세계에 알렸다. 프랑스 국경없는기자회 ‘올해의 매체상’(2008), 대만 민주주의기금 ‘아시아 민주인권상’(2009), 한반도인권과통일을위한변호사모임 ‘북한인권상’(2019), 국민훈장 동백장(2024)을 받았다.&lt;br&gt;&lt;br&gt;김 전 대표는 1995년 문명옥씨와 결혼해 딸 김예림씨를 뒀다. 빈소는 이대서울병원 특1호실에 마련될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“신고 있는 스타킹 팔아라”...여행 온 제주서 여성 스토킹한 중국인</title>
-      <link>https://www.chosun.com/national/regional/2025/09/12/WXLBJD54BRDJ3MBFIQL63PRX3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/12/WXLBJD54BRDJ3MBFIQL63PRX3E/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Sep 2025 06:44:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DQZ7VUYPEZFL3EAOZW3LPQBRKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에 여행 온 중국인이 여성을 쫓아다니며 신고 있는 스타킹을 요구하다 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주서부경찰서는 ‘신고 있는 스타킹을 팔아라’면서 여성을 쫓아다닌 혐의(스토킹 범죄의 처벌 등에 관한 법률 위반)로 20대 중국인 A씨를 긴급체포해 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 6시 40분쯤 제주시 연동 한 쓰레기 분리처리시설에서 생활 쓰레기를 분리 배출하던 20대 한국인 여성에게 휴대전화 번역 애플리케이션을 이용해 ‘신고 있는 스타킹을 100만원에 팔아라’고 한 뒤 거절하는 여성을 150ｍ가량을 따라오며 스토킹한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자는 A씨가 쫓아오자 집 대신 인근 편의점으로 들어가 112에 신고한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 관광을 위해 제주로 왔으며, 신고 있는 스타킹을 달라고 한 것이 아니라 똑같은 스타킹을 사고 싶어 물어본 것이라며 혐의를 부인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 출국 정지 조치하고 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 특검, ‘정치자금법 위반’ 김상민 전 검사 구속영장 청구</title>
