@@ -13,6 +13,61 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘건진법사 공천 청탁’ 브로커 구속... 박창욱 경북도의원은 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/15/GN3FXOEAVFHA3KDTHSENOSEGPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/15/GN3FXOEAVFHA3KDTHSENOSEGPY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Sep 2025 13:30:53 +0000</pubDate>
+      <content:encoded>‘건진법사’ 전성배씨에게 박창욱 경북도의원의 공천을 청탁한 혐의로 받는 브로커 김모씨가 15일 구속됐다. 반면 전씨에게 금품을 건넨 혐의를 받는 박 도의원의 구속영장은 기각됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KL6GSPU77BIGZMP7S6DKBKK4P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배씨에게 국민의힘 공천을 청탁한 혐의를 받는 박창욱 경북도의원(당시 후보자)이 15일 서울중앙지법에서 영장실질심사를 마치고 법원을 나서고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장 전담 부장판사는 이날 민중기 특검팀이 청구한 두 사람의 구속영장에 대한 실질심사를 진행한 뒤, 정치자금법 위반 및 변호사법 위반 혐의를 받는 김씨에 대해 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;그러나 박 도의원의 경우 “본건 혐의사실의 금품을 받은 사람(전성배)이 정치자금법상 ‘그 밖에 정치활동을 하는 사람’에 해당하는지에 대해 사실관계 및 법리적인 면에서 다툴 여지가 있다”며 영장을 기각했다. 돈을 받은 전씨가 정치자금법 적용 대상이 아니어서, 박 도의원에게도 정치자금법 적용이 어렵다고 본 것이다. &lt;br&gt;&lt;br&gt;정 부장판사는 또 “광범위한 압수 수색 및 다수 관련자들을 조사해 확보된 증거, 수사 진행 경과, 가족 및 사회적 유대관계, 수사기관 및 심문 과정에서의 출석 상황 등을 종합하면 현 단계에서 구속의 필요성이나 상당성을 인정하기 어렵다”고도 했다.&lt;br&gt;&lt;br&gt;이날 오후 영장 심사가 끝난 뒤 박 도의원은 “2022년 지방선거에서 전씨를 통해서 공천 청탁했냐” “김씨와는 어떤 관계냐” 등 기자들 질문에 아무런 대답을 하지 않았다. 이후 브로커 김씨는 영장 심사를 위해 법정으로 들어가면서 “1억원 상당의 현금과 한우를 제공한 사실 인정하냐”는 질문에 “없다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>당진 KG스틸 공장서 근로자 추락사… 중대재해법 위반 조사</title>
+      <link>https://www.chosun.com/national/incident/2025/09/15/ICUGUKHPDRAEPCQHDOSMS37BWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/ICUGUKHPDRAEPCQHDOSMS37BWE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>충남 당진시 KG스틸 공장에서 50대 하청업체 근로자가 작업 중 추락해 숨졌다.
+15일 고용노동부 등에 따르면 KG스틸 하청업체 소속 A(54)씨는 이날 오전 9시 30분쯤 쿨링타워 설비 부품을 인양하던 중 갑자기 줄이 끊어지면서 부품과 부딪혔다.</description>
+      <pubDate>Mon, 15 Sep 2025 13:17:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진시 KG스틸 공장에서 50대 하청업체 근로자가 작업 중 추락해 숨졌다.&lt;br&gt;&lt;br&gt;15일 고용노동부 등에 따르면 KG스틸 하청업체 소속 A(54)씨는 이날 오전 9시 30분쯤 쿨링타워 설비 부품을 인양하던 중 갑자기 줄이 끊어지면서 부품과 부딪혔다. 이 과정에서 A씨가 서 있던 난간도 파손, A씨가 9.4m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 곧바로 인근 병원으로 옮겨졌으나 사고 발생 9시간 만인 오후 6시 32분쯤 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 관계자 등을 상대로 정확한 사고 경위를 조사 중이다. 고용노동부 천안지청도 이날 사고 사업장 작업 중지 조치 후 사업안전보건법과 중대재해법 위반 여부 등에 대해 조사에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“예쁘다”… 車창문 내리고 女초등생에 말 건 70대 경찰 조사</title>
+      <link>https://www.chosun.com/national/incident/2025/09/15/3JUET34QJRCPRNIARQQ4APWVL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/3JUET34QJRCPRNIARQQ4APWVL4/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>전북 군산에서 70대 남성이 하교 중이던 초등학생에게 “예쁘다”는 취지의 말을 건네 경찰 조사를 받고 있다.
+15일 군산경찰서에 따르면 지난 10일 “이틀 전 오후 3시쯤 군산시 모 초등학교 인근에서 한 할아버지가 초등학생인 딸에게 말을 걸었다”는 부모의 신고가 접수됐다.
+</description>
+      <pubDate>Mon, 15 Sep 2025 12:35:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산에서 70대 남성이 하교 중이던 초등학생에게 “예쁘다”는 취지의 말을 건네 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;15일 군산경찰서에 따르면 지난 10일 “이틀 전 오후 3시쯤 군산시 모 초등학교 인근에서 한 할아버지가 초등학생인 딸에게 말을 걸었다”는 부모의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;해당 남성은 당시 차량을 몰다 창문을 내리고 학생에게 말을 건 뒤 그대로 현장을 떠난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 인근 방범카메라(CCTV) 등을 통해 A씨의 차량을 특정했고, 주거지에서 그를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “아이가 예뻐서 예쁘다는 취지로 말 만하고 지난 간 것일 뿐 유괴하려던 것은 아니다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 추가 조사를 거쳐 입건 여부를 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책!] 몸속을 누비는 트랜스포머 로봇… 영화 속 상상이 현실이 된다면?</title>
+      <link>https://www.chosun.com/national/nie/2025/09/15/UANH5LSRBZHAJNJR6RHP4QMLOY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/15/UANH5LSRBZHAJNJR6RHP4QMLOY/</guid>
+      <dc:creator>표정훈 출판평론가</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 15:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3LPE2FMMJBEXCGULOQ225KNYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김민준·정이숙 지음 l 출판사 동아시아 l 가격 1만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;과학 영화나 소설 속 발명품이 우리 생활 속에 실제로 등장한 경우가 많아졌습니다. 작은 휴대전화로 사진을 찍고, 영화를 보고, 게임을 하는 일도 불과 수십 년 전만 해도 상상하기 힘들었지요. 저자인 김민준 교수(미국 서던메소디스트대 기계공학과)는 나노로봇 분야에서 이 같은 발전을 이끌고 있습니다. 그는 세계에서 처음으로 스스로 모양을 바꾸며 인체 내부를 탐사하는 ‘트랜스포머’ 나노로봇을 개발했어요. 이 책은 영화 같은 상상을 현실로 바꾸는 나노로봇 과학자의 도전기입니다.&lt;br&gt;&lt;br&gt;저자가 만드는 나노로봇은 머리카락 굵기(약 0.1㎜)보다도 훨씬 더 작습니다. 현미경으로만 볼 수 있을 정도죠. 김 교수는 이 나노로봇이 혈관 속을 돌아다니며 막힌 혈관을 뚫거나, 필요한 곳에 약을 정확하게 전달할 수 있게 만들었어요. 그런데 사람 몸속에는 혈액, 콧물 같은 다양한 액체가 흐르고 있어서 로봇이 한 가지 모양만 가지고는 제대로 움직이기 어렵죠. 마치 아스팔트길만 있는 게 아니라 모래길, 진흙길, 바위길이 섞여 있는 것과 비슷합니다.&lt;br&gt;&lt;br&gt;그래서 저자는 영화 ‘트랜스포머’의 로봇처럼, 나노로봇이 스스로 모양을 바꾸도록 만들었습니다. 액체의 성질이 달라지면 로봇도 그에 맞게 모양을 바꾸며 움직일 수 있는 겁니다. 이 아이디어의 배경에는 약 30년 전 나온 영화 ‘이너스페이스’가 있습니다. 영화 속에서 주인공이 작은 잠수함을 타고 몸속을 탐험하는 장면이, 김 교수에게 연구의 영감을 주었다고 해요. 결국 영화 속 상상이 현실로 이어진 겁니다.&lt;br&gt;&lt;br&gt;과학자들은 남들이 가본 적 없는 새로운 길을 개척합니다. 새로운 길을 여는 창의성은 이미 있는 것들을 연결 지어 보고, 지금까지 생각하지 못했던 가능성을 상상해 보는 능력입니다. 그러한 연결 짓기와 상상하기의 결과가 ‘트랜스포머’ 나노로봇입니다. 저자는 여기서 멈추지 않고, 나노로봇에 인공지능(AI)을 넣어 스스로 학습하고 더 똑똑하게 움직이도록 연구하고 있습니다.&lt;br&gt;&lt;br&gt;저자는 과학이란 혼자만의 힘으로 되는 게 아니라고 말합니다. 나노로봇을 예로 들어 볼까요? 로봇을 움직이려면 전기와 컴퓨터가 필요하고, 몸속에서 잘 작동하려면 재료공학과 의학 지식도 필요합니다. 여기에 물리·화학·수학까지 힘을 보태야 하지요. 당연히 과학자 한 사람이 이 모든 걸 다 잘할 수는 없어요. 그래서 여러 분야의 전문가가 모여 팀을 이루는 겁니다.&lt;br&gt;&lt;br&gt;오늘날 과학기술의 가장 큰 화두는 바로 ‘혁신’입니다. 저자는 혁신에 대해 이렇게 설명합니다. “상상이 현실이 될 때 그것이 ‘혁신’이다. 그리고 혁신은 다양한 사람이 함께하면서 기술이 융합될 때 일어난다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용진 해경청장 사의… “李대통령 말씀에 무거운 책임감”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/15/WLVAH3EU2NDHDE5DZ4TY3XVFU4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/15/WLVAH3EU2NDHDE5DZ4TY3XVFU4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Sep 2025 10:52:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53ZHO6XUAMVDSYINDNGREOEZV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용진 해양경찰청장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용진 해양경찰청장이 15일 사의를 표명했다. &lt;br&gt;&lt;br&gt;김 청장은 이날 언론에 배포한 자료를 통해 “순직 해경 사건 관련 대통령님의 말씀에 무거운 책임감을 느낀다”며 “이 사건의 진실 규명과 새로운 해양경찰에 도움이 되고자 사의를 표명한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이재명 대통령은 이날 고(故) 이재석(34) 경사 순직 사건과 관련해 “해경이 아닌 외부의 독립적인 기관에 맡겨 엄정히 조사하라”고 지시했다.&lt;br&gt;&lt;br&gt;강유정 대통령실 대변인은 “이 대통령은 고인의 동료들로부터 ‘윗선이 진실을 은폐하고 있다’는 증언이 나왔다는 점을 짚었고, 이어 유가족과 동료들의 억울함이 없도록 해야 한다면서 이런 지시를 했다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QU6EKBCZCFBFTFIYZF5S2YW52U.jpg?auth=b9599c72d99befc000aaf0d82b0137688e5396ec0ab4c4117290d5076a68dc08&amp;smart=true&amp;width=5784&amp;height=3254" type="image/jpeg" height="3254" width="5784">
+        <media:description type="plain">&lt;YONHAP PHOTO-4671&gt; 추도사 하는 김용진 해양경찰청장
+     (인천=연합뉴스) 임순석 기자 = 김용진 해양경찰청장이 15일 인천 서구 인천해양경찰서에서 엄수된 '해양경찰관 고(故) 이재석 경사 영결식'에서 추도사를 하고 있다. 2025.9.15 [공동취재]
+    soonseok02@yna.co.kr/2025-09-15 11:32:36/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>부산 앞바다서 조업 중 선박 사이에 낀 30대 외국인 숨져</title>
       <link>https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</guid>
@@ -642,33 +697,6 @@
       <content:encoded>민중기 특별검사팀이 김상민 전 검사가 김건희 여사에게 1억4000만원 상당의 그림을 건넨 시기를 2023년 2월 초로 특정한 것으로 14일 확인됐다. 특검은 김 전 검사가 청탁금지법을 위반했다고 보고 구속영장을 청구한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKP4NGCCRQ6BMSL6JNNP6QCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 A4용지 2쪽 분량의 김 전 검사 구속영장에 이 같은 내용을 적시했다. 특검은 구속영장의 대부분을 구속 필요 사유를 소명하는 데 할애했는데, 중형 선고가 예상되는 만큼 김 전 검사가 도주할 우려가 있다고 주장한 것으로 파악됐다. 또 김 전 검사가 혐의를 전면 부인해 증거를 인멸할 우려가 크고, 다른 참고인들에게 위해를 가할 우려가 있다는 주장도 펼쳤다고 한다. 특검은 김 전 검사를 구속 상태에서 수사해 진실을 밝히겠다고 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 김 전 검사 측은 이러한 특검의 주장을 모두 받아들일 수 없다는 입장인 것으로 전해졌다. 수사를 통해 혐의를 입증한 뒤 구속영장을 청구하는 것이 올바른 순서 아니냐는 취지라고 한다. 또 김 전 검사에게 이우환 화백의 그림 ‘점으로부터(From Point) No.800298’를 판매한 사업가는 지인 관계에 있어 위해를 끼칠 우려도 성립하지 않는다는 게 김 전 검사의 입장이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGXRPFRWRJGNDDDQ3L2NLTZCPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사가 김건희 여사 측에 전달했다는 이우환 화백의 그림. 이 화백이 1980년 그렸다는 ‘점으로부터(From Point) No.800298’이다. /ethereal auctioneers&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 전 검사가 이 그림을 김 여사에게 건넸다고 보지만, 김 여사 측은 김 전 검사로부터 그림을 받은 사실이 없고, 2024년 총선 공천이나 국정원 법률특보 임명을 도운 적도 없다는 입장이다. 김 여사는 지난해 초 오빠 김진우씨 집에 이 그림이 걸려 있는 모습을 처음 봤고, ‘이 화백 그림은 위작이 많은데 왜 샀지’라고 생각한 게 전부라는 것이다. 김 여사 측은 김 전 검사를 포함한 국민의힘 관계자들의 공천에 개입할 수 있는 위치에 있지 않았다는 입장을 일관되게 유지해오고 있다.&lt;br&gt;&lt;br&gt;김 전 검사는 지난 9일 특검 조사를 마치고 나오면서 기자들과 만나 “논란이 되고 있는 그림은 제가 사서 소유했던 그림이 아니라 김씨의 요청으로 (거래를) 중개한 것”이라고 해명했다. 그림을 구입한 자금의 출처에 대해선 “알지 못한다”며 “김씨로부터 받은 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 해당 그림이 위작인지 여부도 계속 수사 중이다. 거래 가격은 1억4000만원으로 특정했지만, 진품의 경우 가격이 크게 오를 수 있기 때문이다.&lt;br&gt;&lt;br&gt;김 전 검사의 영장실질심사는 오는 17일 오후 2시 30분에 서울중앙지법 박정호 영장전담 부장판사 심리로 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘검찰 개혁’ 비판한 김종민 변호사 페이스북 차단… 검열 논란</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/VIXQ6QQICNBDPEB7PRMUXIGBWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/VIXQ6QQICNBDPEB7PRMUXIGBWY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 07:49:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPQMY2JRJRM6DO7355K5ZWVKHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 서울 여의도 국회 법제사법위원회 전체회의에서 열린 '검찰 개혁 공청회'에서 김종민(오른쪽) 변호사가 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부와 더불어민주당이 추진하는 ‘검찰청 해체’ 등 형사사법제도 개편을 페이스북에서 공개 비판해온 광주지검 순천지청장 출신 김종민(사법연수원 21기) 변호사의 페이스북 계정이 14일 차단됐다.&lt;br&gt;&lt;br&gt;페이스북은 이날 김 변호사의 계정을 일시 차단하며 “180일 이내에 재고를 요청하지 않으면 계정이 영구 비활성화된다”고 안내했다. 김 변호사가 이에 이의 신청을 하자 “게시물 또는 댓글이 커뮤니티 규정을 준수하지 않는 것으로 확인되면 비활성화 조치가 유지된다”며 검토에 착수했다.&lt;br&gt;&lt;br&gt;김 변호사는 그간 페이스북에서 이재명 정부의 ‘검찰 폐지’와 ‘수사·기소 분리’ 정책 방향에 대해 강하게 비판했고, “국가수사위원회는 정권이 직접 모든 수사기관을 지휘·통제하는 ‘중국식 공안 통치’의 전형”이라는 글을 올렸다. 최근 국회 법제사법위원회에서 열린 ‘검찰 개혁’ 관련 공청회에 진술인으로 참석해 이 같은 취지의 의견을 냈다.&lt;br&gt;&lt;br&gt;문재인 정부 첫해 대검찰청 검찰개혁위원으로 활동했던 김 변호사는 페이스북에 문재인 정부의 ‘검수완박(검찰 수사권 완전 박탈)’ 반대 글도 종종 올렸다. 윤석열 전 대통령의 정계 진출과 ‘정치 검찰’ 논란에 대해서도 가감 없이 비판했다. 그러나 계정 자체가 차단돼 영구 폐쇄 경고를 받은 것은 이번이 처음이라고 한다.&lt;br&gt;&lt;br&gt;법조계와 정치권에서는 “정권에 비판적인 게시물과 계정을 차단하는 것은 일종의 검열”이라는 지적이 나왔다. 한 정치권 인사는 “이재명 정부의 검찰 개혁을 중국 공안식 사법 시스템에 빗대자 이런 조치가 취해진 것 아니냐. 페이스북이 검열 논란을 피하기 어려울 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재, 특검 소환 3차례 불응...특검 “대책 검토 중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/CPQNXMKQZVEXNHC357JUVEIMHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/CPQNXMKQZVEXNHC357JUVEIMHY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 06:47:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LEAHNMBD5VMWZUIBE2RIHKDECU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2017년 한학자 세계평화통일가정연합 총재가 일본 오사카 가도마스포츠센터에서 열린 ‘효정 패밀리 페스티벌 오사카 대회’에서 기조연설을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권성동 국민의힘 의원에게 불법 정치자금을 건넨 ‘윗선’으로 의심받는 한학자 통일교 총재가 오는 15일 민중기 특별검사팀의 소환에 응하지 않을 예정이다. &lt;br&gt;&lt;br&gt;14일 특검은 “내일(15일) 소환 조사 예정이던 통일교 한학자 총재는 변호인들을 통해 내일 조사에 불출석하겠다는 의사를 서면으로 제출했다”라고 밝혔다. 한 총재 측은 건강상의 사유를 들었다고 한다. &lt;br&gt;&lt;br&gt;특검은 “(한 총재 측이) 매번 직전에 일방적인 불출석 의사를 밝혀 옴에 따라, 수사팀은 향후 대책을 검토 중에 있다”라고 밝혔다. 한 총재 측의 연이은 불응에 불편한 기색을 드러낸 것이다.&lt;br&gt;&lt;br&gt;한 총재가 특검의 소환 통보에 불응한 건 이번이 세 번째다. 앞서 특검은 지난 8일과 11일에도 한 총재를 소환했지만, 한 총재 측은 최근 한 총재가 심장 시술을 받는 등 건강 상태가 좋지 못해 출석이 어렵다는 입장을 전했다고 한다. 당초 통일교 측은 한 총재에 대한 서면 조사를 요청했지만, 특검은 대면 조사 방침을 굽히지 않는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;일각에선 특검이 체포영장 청구 카드를 꺼내들 수 있다는 전망도 나온다. 강제 수사로 신병 확보에 나설 수 있다는 것이다. 통상 피의자가 출석 요구에 세 번 불응할 경우 수사기관은 체포영장을 청구한다.&lt;br&gt;&lt;br&gt;한 총재는 윤영호 전 통일교 세계본부장과 공모해 2022년 1월 국민의힘 권성동 의원에게 정치자금 1억원을 전달한 혐의와 미국 라스베이거스 원정도박 의혹을 무마했다는 혐의 등을 받는다.&lt;br&gt;&lt;br&gt;이와 관련해 법원은 오는 16일 권 의원에 대한 영장실질심사를 열고 구속 여부를 결정할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 이종섭 조사 앞둔 주말에도 외압·도피 관계자 줄소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/ERG5KVPGMBEIBDNXC5BKDWGLUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/ERG5KVPGMBEIBDNXC5BKDWGLUI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 06:29:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQN5M2YC6RPGTH4L3ZHKUECVSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신범철 전 국방차관이 14일 서울 서초구 순직 해병 특검팀 사무실에 피의자 조사를 받기 위해 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방장관에 대한 조사를 앞두고 고(故) 채수근 상병 사건 외압 의혹과 주(駐)호주 대사 임명·도피 의혹에 연루된 국방부·대통령실 관계자들을 주말에도 소환하며 혐의 다지기에 나섰다.&lt;br&gt;&lt;br&gt;해병 특검은 14일 오후 1시에 이충면 전 외교비서관과 신범철 전 국방차관을, 오전 10시부터 김계환 전 해병대 사령관을 연달아 불러 조사하고 있다. 이 전 비서관과 신 전 차관은 이번이 세 번째, 김 전 사령관은 네 번째 소환 조사다.&lt;br&gt;&lt;br&gt;이날 낮 12시 59분쯤 서울 서초구 특검 사무실에 출석한 이 전 비서관은 “윤석열 전 대통령이 이 전 장관의 호주 대사 임명을 준비하라고 지시했느냐”, “국가안보실에서 방산 공관장 회의를 급히 기획했느냐” 등 취재진의 질문에 답하지 않고 조사실로 향했다.&lt;br&gt;&lt;br&gt;이 전 비서관은 작년 초 이 전 장관의 호주 대사 임명이 추진됐던 시기 대통령실에서 국가안보실 외교비서관으로 근무했다. 특검은 이 전 비서관을 상대로 안보실이 호주 대사 도피 의혹에 관여했는지 조사할 방침이다. 특검은 작년 3월 이 전 장관 귀국을 위해 급조됐다는 의혹을 받는 ‘방산협력 주요 공관장 회의’ 개최에 안보실이 개입한 정황을 확인하고 수사 중이다.&lt;br&gt;&lt;br&gt;신 전 차관은 이날 오후 1시쯤 사무실에 출석하면서 “사실대로 (특검에) 다 이야기를 하고 있다”며 “우리나라와 군을 위해 진실이 모두 밝혀져야 된다고 생각한다”고 말했다. 취재진이 “대통령이 박정훈 대령의 보직 해임을 지시했느냐”고 묻자, 신 전 차관은 “그런 적 없다”고 답했다.&lt;br&gt;&lt;br&gt;신 전 차관은 지난 2023년 8월 채 상병 사건 초동 조사 기록의 이첩·회수 당시 해외 출장 중이던 이 전 장관을 대신해 국방부 대책 회의를 주재하고, 윤 전 대통령과 수차례 연락을 주고받았다. 특검은 이른바 ‘VIP 격노’ 이후 이어진 수사 외압과 관련해 신 전 차관이 지시받은 내용, 이행 여부 등을 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSVWZX6X4FOSXGL4GRUPVRC6JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김계환 전 해병대 사령관이 14일 서울 서초구 순직 해병 특검에 출석해 조사실로 향하는 승강기에 타고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 전 사령관은 이날 오전 10시 3분쯤 취재진의 질문에 묵묵부답으로 출석했다. 김 전 사령관은 지난 7월 두차례 소환조사 후 구속영장이 청구됐다가 법원에서 기각됐고, 이후 지난 12일 다시 불려 나와 조사받았다.&lt;br&gt;&lt;br&gt;특검은 김 전 사령관을 상대로 지난 2023년 7~8월 채 상병 사건 기록의 이첩 보류와 회수, 항명 수사 등 전반적 과정을 조사하고 있다. 박정훈 대령에 대한 모해위증 혐의 조사도 함께 이뤄진다. 김 전 사령관은 특검 조사에서 자신의 혐의를 대체로 부인하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 이들 진술을 바탕으로 오는 17일 이종섭 전 장관 조사 준비에 주력할 전망이다. 첫 조사에서는 호주 대사 임명 및 도피성 출국 의혹이 집중적으로 다뤄질 예정이다. 특검은 이후 이 전 장관을 추가로 소환해 수사 외압 의혹, 직권남용 혐의를 규명할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전국 전공의노조 출범... “혹사의 대 끊기 위해 싸울 것”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/09/14/U5ECMMF4ONCWRKHZRYIAOMAWPI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/14/U5ECMMF4ONCWRKHZRYIAOMAWPI/</guid>
@@ -676,24 +704,6 @@
       <description/>
       <pubDate>Sun, 14 Sep 2025 05:31:49 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S344P4FV2VNR7LPUTSV7ZYLO6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 서울 용산구 대한의사협회에서 열린 전국전공의노동조합 출범식에서 유청준(가운데) 위원장이 노조 깃발을 펄럭이고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전공의들이 설립한 전국 단위의 노동조합이 14일 공식 출범했다. 전공의들은 의사 면허를 취득하고 전문의가 되기 위해 종합병원 등에서 수련하는 인턴과 레지던트들이다. 지난해 2월 정부의 의대 증원에 반발해 의료 현장을 이탈했다가, 올 9월 복귀했다.&lt;br&gt;&lt;br&gt;전국전공의노동조합은 이날 서울 용산구 대한의사협회 회관 지하 1층 대강당에서 발대식을 열고 “혹사의 대를 끊고 무너지는 의료를 바로잡고자 노조를 설립했다”고 했다. 전공의노조는 출범 선언문을 통해 “전공의들이 사명감으로 버텨온 현실은 근로기준법은 물론, 전공의 특별법조차 무시하는 근로환경과 교육권의 박탈이었다”고 했다. 그러면서 “교육권과 인권이 박탈된 채 값싼 노동력으로 소모되는 것이 정당한가”라며 “그것이 좋은 의사가 되고 더 나은 의료를 만드는 길인가”라고 했다. &lt;br&gt;&lt;br&gt;이어 “전공의에 대한 혹사와 인권 박탈을 대가로 유지되는 의료는 더 이상 유지될 수 없다”며 “우리는 더 이상 침묵 속에서 병원의 소모품이 되지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;전공의노조는 “정당한 권리와 인간다운 삶을 지키기 위해 싸우겠다”며 “환자 안전과 국민 건강을 최우선의 가치로 삼고, 대한민국 의료의 지속 가능한 발전을 위해 사회와 책임을 나누겠다”고 했다. 그러면서 “당당하게 권리를 주장하고 전국의 전공의가 서로 연결되고 사회와 연대하며, 건강한 의료를 향해 나아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;중앙대병원 전공의인 유청준 초대 노조위원장은 취임사를 통해 “전공의노조는 우리의 처우 개선만을 위한 조직이 아니라 환자 안전을 지키고, 건강하고 지속 가능한 의료시스템을 만드는 출발점”이라며 “전공의들의 노동 인권 보장이 곧 환자의 안전”이라고 강조했다.&lt;br&gt;&lt;br&gt;전공의노조는 전공의들의 노동시간 단축, 법정 휴게시간 보장, 1인당 환자 수 제한, 임신·출산 전공의의 안전 보장, 방사선 피폭에 대한 대책 마련, 병원 내 폭언·폭행 중단 등을 요구하고 있다. 이들은 전공의의 정당한 권리가 침해되지 않는 지 등을 파악하기 위한 신고센터를 운영하고, 주기적 실태조사도 벌이기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>망상 빠져 ‘묻지마 흉기 난동’...1심 집유 깨고 항소심서 실형</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/3U4SHR3FGFCDRDETBCIJDIYOZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/3U4SHR3FGFCDRDETBCIJDIYOZM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 05:04:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMAKD2NLVK6ZLY6OGDAAAUK43I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법·서울고법이 있는 서울법원종합청사./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군 선임과 함께 자신을 해치려 한다는 망상에 빠져 대로변에서 모르는 남성에게 흉기를 휘두른 남성에게 항소심에서 실형이 선고됐다. &lt;br&gt;&lt;br&gt;14일 법조계에 따르면 서울고법 형사10-2부(재판장 이재신)는 최근 살인미수·특수협박·특수공부집행 등 혐의로 기소된 A씨에게 징역형 집행유예를 선고한 1심을 깨고 징역 2년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 작년 11월 서울 중구의 한 시장 근처 버스정류장에서 일면식 없는 남성 B씨의 등과 옆구리 부위를 여러 차례 흉기로 찔러 다치게 한 혐의로 기소됐다. 그는 정신질환으로 군대 선임이 자신을 해치려 한다는 망상에 사로잡혀 있었고, B씨가 군대 선임들과 같은 일당이라고 생각해 범행한 것으로 나타났다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 도망가자 근처 잡화점 입구에 있는 길이 170㎝의 나무판을 뜯어낸 뒤 매장 출입문을 내리쳐 유리창을 깨뜨리고, 인근 속옷 가게에 있던 여성을 밖으로 끌고 나와 폭행하기도 했다. 신고를 받고 현장에 출동한 경찰관에게도 흉기를 휘두른 것으로 조사됐다. &lt;br&gt;&lt;br&gt;지난 5월 1심은 A씨에게 A씨의 살인미수 등 혐의를 유죄로 인정하면서도 망상장애가 범행에 영향을 미친 점 등을 고려해 징역 3년에 집행유예 5년을 선고했다. 피해자들에게 거액에 합의금을 지급한 점도 들어 “실형을 선고해 사회로부터 격리하기보다는 이번에 한해 징역형의 집행을 유예하고 가족의 보살핌 하에 보호관찰과 정기 치료를 받으며 건전한 사회인으로 살 기회를 주는 것이 바람직하다”고 했다. &lt;br&gt;&lt;br&gt;검찰은 형이 너무 가볍다며 항소했고 2심 재판부는 이를 받아들여 실형을 선고했다. 재판부는 “사전에 범행 도구를 준비한 정황을 비롯해 범행의 경위·방법, 피해자의 수와 피해 정도 등에 비춰 죄책이 매우 무겁다”고 했다.&lt;br&gt;&lt;br&gt;이어 “피해자들은 일상 공간에서 일면식도 없는 사람으로부터 피해를 입어 상당한 정신적 고통과 불안감에 시달릴 것으로 보인다”며 “B씨의 경우 흉기에 찔린 상처가 깊고, 다친 팔 부위는 다수의 혈관과 신경이 지나는 곳이어서 회복에 긴 시간이 걸릴 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>前 근무지 사건 수임한 전관 변호사…법원 “징계 정당” </title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/KBFDZQOLI5GY3HRUS4VTUHLISY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/KBFDZQOLI5GY3HRUS4VTUHLISY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 03:02:01 +0000</pubDate>
-      <content:encoded>검찰에서 퇴직한 지 1년도 안 된 변호사가 전직 근무지 사건을 수임한 경우 실제 변론을 하지 않았더라도 징계하는 것이 정당하다는 1심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AG7MIPWK4RHNTLPK5GQKSPHZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 진현섭)는 변호사 A씨가 법무부 변호사징계위원회를 상대로 낸 견책처분 취소 소송에서 원고 패소로 판결했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;2021년 서울남부지검에서 퇴직한 뒤 한 법무법인 소속 변호사로 일하던 A씨는 이듬해 3월 의뢰인이 서울남부지법에 신청한 가처분 사건을 수임했다는 이유로 지난해 대한변호사협회에서 견책 처분을 받았다.&lt;br&gt;&lt;br&gt;변호사법은 판·검사가 퇴직하고 변호사로 활동하는 경우 1년간은 퇴직 당시 근무했던 법원이나 검찰청 사건을 수임할 수 없도록 제한하고 있다. 이때 지방법원과 그에 대응하는 지방검찰청은 같은 기관으로 간주된다. 서울남부지검에서 퇴직했다면 1년간은 서울남부지법에서 처리하는 사건도 맡을 수 없다는 뜻이다.&lt;br&gt;&lt;br&gt;A씨는 견책 처분에 불복해 법무부 변호사징계위에 이의신청을 냈지만 기각되자 소송을 제기했다. 그는 재판에서 “급박하게 가처분 신청을 하는 과정에서 법무법인 직원이 보고하지 않고 선임계에 이름을 적어 냈다”며 “수임 사실을 몰랐다”고 했다. 또 문제의 가처분 신청은 접수 후 며칠 만에 심문 기일도 열리지 않은 상태에서 취하했기 때문에, 사건에 영향을 미치지 않았다고도 주장했다.&lt;br&gt;&lt;br&gt;하지만 법원은 “직원 실수라 하더라도 A씨가 주의의무를 위반한 것이 잘못이 아니라고 할 수 없다”며 견책 처분이 정당했다고 판결했다. 재판부는 “변협이 그와 같은 사정을 충분히 참작해 징계 처분 중 가장 가벼운 견책을 한 것으로 보인다”고도 했다.&lt;br&gt;&lt;br&gt;사건에 영향을 미치지 않았다는 주장에 대해서는 “공직 퇴임 변호사가 퇴직 당시 근무하던 국가기관이 처리하는 사건을 수임하는 경우 그 자체로 사건 처리 공정성을 저해할 우려가 있다”며 “실질적으로 변론을 하지 않았다고 해서 제재 필요성이 없다고 단정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 대한변협 ‘검찰 해체’ ‘보완수사권 폐지’ 설문조사 착수</title>
