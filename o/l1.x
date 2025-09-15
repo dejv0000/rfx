@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>정성호 법무부 장관 "검찰 보완수사로 새 사건 수사 안돼"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211486.jpg" alt="5464748949.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정성호 법무부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&amp;nbsp;&lt;/span&gt;법무부 장관은 9월 15일 검찰 제도 개편의 주요 쟁점인 검찰 보완수사권과 관련해 "검찰이 보완수사를 통해 (사건을) 인지하거나, 새로운 사건 수사를 개시하는 것은 절대 있어서는 안 된다고 생각한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;정 장관은 이날 국회에서 열린 정치 분야 대정부 질문에 출석해 "검찰이 반드시 보완수사권을 가져야 한다고 주장하기보다는, 검찰이 기소 후 공소유지를 잘하고 입증을 잘해서 유죄 판결을 받아야 한다"며 이같이 말했다.&lt;br /&gt;&lt;br /&gt;이어 "검찰 수사로 인해 억울한 피해자가 나오지 않게 하는 것도 중요하지만 (기소된) 범죄자가 처벌받지 않으면 국민은 거기에 더 큰 불만을 갖는다"며 "공소유지를 충실하게 하는 제도적 장치로 뭐가 있는지 생각해보겠다"고 했다.&lt;br /&gt;&lt;br /&gt;또 "만약 보완수사권이 논의된다면 송치된 범죄 사실의 동일성 범위를 고려해야 한다"고도 말했다.&lt;br /&gt;&lt;br /&gt;그러면서 "지금 별건 수사로 확보된 증거도 (법원이) 증거능력을 인정하지 않는 방향으로 가는 것 아닌가"라며 "형사소송법상 보완수사와 관련해서는 그 범위가 송치된 범죄사실 범위를 넘어가면 공소기각 판결을 받는 것 아닌가"라고 되물었다.&lt;br /&gt;&lt;br /&gt;정 장관은 "굳이 저는 (검찰이) 보완수사를 꼭 해야 한다는 게 아니다. 기소 후 공소유지를 제대로 해서 확실한 유죄 판결을 받을 수 있는 제도적 장치를 전반적으로 고민해달라는 요청을 드린다"고 재차 강조했다.&lt;br /&gt;&lt;br /&gt;정 장관은 '전건 송치' 제도 부활 검토 의사도 밝혔다. 유영하 국민의힘 의원이 "1차 수사기관에 수사 지시권을 주는 건 맞지만, 수사 종결권은 기소권자에게 있어야 한다"며 "전건 송치 제도 부활을 장관이 적극 검토해달라"고 요청하자, 정 장관은 "네, 알겠다"고 답했다.&lt;br /&gt;&lt;br /&gt;'전건 송치'는 경찰이 수사한 모든 사건을 결론과 관계없이 검찰에 송치하는 제도로, 최근 검찰청 폐지와 수사·기소 분리를 골자로 한 정부 조직개편안이 확정되면서 경찰 수사권을 견제할 장치로 논의되고 있다.&lt;br /&gt;</description>
+			<pubDate>Mon, 15 Sep 2025 12:51:10 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211486</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211486</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211486.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>조희대 대법원장, 정치권 사퇴 요구에 '침묵'</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211484.jpg" alt="3453637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;조희대 대법원장 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(사법연수원 13기) 대법원장이 자신에 대한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장정치권 일각의 사퇴 요구에 대해 아무런 입장을 밝히지 않았다.&lt;br /&gt;&lt;br /&gt;조 대법원장은 15일 오후 퇴근길에 취재진으로부터 “정치권에서 대법원장 사퇴를 요구하고 있다”며 입장을 묻는 질문을 받았지만 답하지 않았다.&lt;br /&gt;&lt;br /&gt;그는 차량에 탑승한 뒤에도 “대통령실에서 ‘임명 권력은 선출 권력을 존중해야 한다’는 취지로, 사법부가 이를 돌아볼 필요가 있다는 입장을 냈는데, 이에 대해 어떻게 생각하느냐”는 추가 질문을 받았지만 답변 없이 현장을 떠났다.&lt;br /&gt;&lt;br /&gt;앞서 같은 날 오전, 대통령실은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&lt;/span&gt;(사법연수원 14기) 국회 법제사법위원장이 조 대법원장의 공개 사퇴를 요구한 데 대해, “국회에서 나온 요구를 사법부가 돌이켜봐야 할 필요가 있지 않느냐”는 취지의 발언을 내놨다. 하지만 논란이 확산되자 강유정 대통령실 대변인은 “구체적인 의견은 아직 없다”고 설명했다.&lt;br /&gt;&lt;br /&gt;한편, 국민의힘 장동혁 의원은 부산시당에서 열린 최고위원회의에서 “더불어민주당은 조 대법원장을 사퇴시키고, 이재명 대표의 공직선거법 사건 유죄 판결을 뒤집으려 한다”고 주장했다.</description>
 			<pubDate>Mon, 15 Sep 2025 10:46:42 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211437</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211437.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>대통령실, 대법원장 사퇴 요구에 "원칙적으로 공감"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211440.jpg" alt="446.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;강유정 대통령실 대변인 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대통령실은 9월 15일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;국회 법제사법위원장의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장 사퇴 요구에 대해 "원칙적으로 공감한다"는 입장을 밝혔다.&lt;br /&gt;&lt;br /&gt;강유정 대통령실 대변인은 이날(15일) 오전 용산 대통령실 브리핑에서 추 위원장의 주장과 관련한 질문을 받고 "특별한 입장은 없다"면서도 "시대적 요구와 국민적 요구가 있다면 임명된 권한으로 요구에 대해 개연성과 이유를 돌이켜봐야 할 필요가 있다는 점에서 원칙적으로 공감한다"고 답했다.&lt;br /&gt;&lt;br /&gt;강 대변인은 전국법원장회의 등을 통해 새 정부와 국회를 향한 사법부의 공개 반발이 나온 데 대해선 "입법부·행정부·사법부의 삼권 분립도 있지만, 무엇보다 주권재민이라는 측면에서 헌법 근본 정신은 입법부가 가지고 있는 충분한 논의에 대한 존중이 있어야 한다는 것"이라며 "간접적인 임명권을 통해 임명된 권한은 입법부 논의를 충분히 지켜봐야 할 필요가 있다"고 말했다.&lt;br /&gt;&lt;br /&gt;또 여당의 내란전담재판부 신설 추진을 둘러싼 논란과 관련해서도 "입법부 자정 능력과 내부적 협의 능력을 의심하기보다는 천천히 지켜보고 그 논의 과정에서 숙의할 필요가 있다"고 말했다. 그러면서 "내란 신속 종식을 위해 법률을 제정하거나 이후 기구가 필요하다고 할지언정, 그것 역시 국회가 논의를 거쳐서 해야할 일"이라며 “정부는 최종적으로 존중할 수밖에 없다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;앞서 추 위원장은 전날(14일) 자신의 페이스북을 통해 "헌법 수호를 핑계로 '사법 독립'을 외치지만, 속으로는 내란범을 재판 지연으로 보호하고 있다"며 "자신의 인사권은 재판의 중립성 객관성을 담보할 만큼 행사되고 있나. 국민이 힘들게 민주 헌정을 회복해 놓으니 숟가락 얹듯이 사법부 독립을 외치고 있다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;추 위원장은 또 "검찰 독재 시대에는 침묵하다가 가장 민주적인 정권 아래에서 무슨 염치로 사법부 독립을 주장하냐"며 "내란 세력에게 번번이 면죄부를 주고 법을 이용해 죄를 빨아 준 사법 세탁소 역할을 했을 뿐"이라고 했다.&lt;br /&gt;&lt;br /&gt;그러면서 "내란을 저지른 이후에도 내란범 구속 취소 등으로 내란 세력의 간을 키웠다. 이에 대한 책임은 조 원장에게 있고 사법 독립을 위해서 자신이 먼저 물러남이 마땅하다"며 "사법 독립을 막고 내란 재판의 신속성과 공정성을 침해하는 장본인이 물러나야 사법 독립이 지켜지기 때문"이라고 덧붙였다.</description>
-			<pubDate>Mon, 15 Sep 2025 01:40:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211440</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211440</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211440.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
