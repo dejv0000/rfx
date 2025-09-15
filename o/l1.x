@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 미리 찍은 면허증 사진도 본인 확인 수단</title>
+			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;금융기관이 미리 찍은 운전면허증 사진으로 본인 확인을 한 것이 부적절하다고 보긴 어렵다는 대법원 판결이 나왔다. 대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="455"&gt;엄상필&amp;nbsp;&lt;/span&gt;대법관)는 8월 14일 A 씨가 B 은행을 상대로 낸 채무부존재 확인소송에서 원고 패소 판결한 원심을 확정했다(&lt;b&gt;2024다236754&lt;/b&gt;). &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2022년 7월 딸 사칭범 C 씨에게 속아 미리 찍은 운전면허증 사진, 계좌번호, 비밀번호를 전송하고 원격제어 앱도 휴대폰에 설치했다. C 씨는 비대면 방식으로 B 은행에 A 씨 계좌를 개설하고, 9000만 원을 대출받았다. B 은행은 운전면허증 사진 제출, 다른 금융사의 A 씨 계좌에 1원 송금 후 암호 입력, 휴대폰 본인 인증, 신용정보 조회 등을 거쳐 대출을 실행했다. A 씨는 C 씨가 명의를 도용해 대출 약정을 체결했다며 B 은행을 상대로 채무부존재 확인소송을 제기했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심에서 A 씨가 승소했지만, 항소심에선 A 씨가 패소했다. 1심과 항소심 모두 B 은행이 복수의 인증 수단을 통해 본인 확인 절차를 이행했다고 했다. 하지만 미리 찍은 운전면허증 사진으로 본인 확인을 한 것이 적절했는지에 대해 1심과 항소심의 판단이 달랐다.  &lt;br /&gt;&lt;br /&gt;1심 재판부는 "B 은행은 대출 과정에서 A 씨 운전면허증을 촬영한 사진을 제출받지 않았다"며 " 비대면 실명확인 방안이 정한 의무사항을 B 은행이 이행하지 못했다"고 했다. 반면 항소심 재판부는 "비대면 실명확인 방안이 실명확인증표 실물을 바로 촬영해 제출하는 경우로만 한정된다고 볼 수 없다"며 "고객이 실물확인증표를 직접 촬영했는지, 아니면 그 사본을 타인이 전달받거나 다시 촬영했는지 금융기관이 식별하는 게 기술적으로 가능해 보이지 않는다"고 했다. &lt;br /&gt;&lt;br /&gt;비대면 실명확인 방안은 은행연합회와 금융투자협회가 마련하고, 금융위원회가 적절한 본인 확인 방법이라고 유권 해석한 가이드라인이다. 해당 방안엔 주민등록증, 운전면허증, 여권 같은 실명확인증표를 고객이 촬영 또는 스캔 후 이메일이나 파일 업로드 방식으로 제출해야 한다는 내용이 있다.   &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 A 씨 상고를 기각하고, 원심 판결을 확정했다. 대법원 재판부는 "금융기관이 실물확인증표 사본인 운전면허증 사진 파일을 제출받아 자동적으로 행정안전부 신분증 진위확인 시스템을 거치는 점을 고려할 때, 거래 당시에 실물확인증표를 바로 촬영한 파일을 제출받는 것과 사전에 촬영된 파일을 제출받는 건 큰 차이가 없다"고 판시했다. &lt;br /&gt;</description>
+			<pubDate>Mon, 15 Sep 2025 03:05:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211352</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211352</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>장동혁 "이재명 재판 재개 두려워 대법원장 사퇴 요구"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211443.jpg" alt="5674.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;국민의힘 장동혁 대표가 15일 부산 수영구 남천동 부산시당에서 열린 현장최고위원회에서 발언하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국민의힘은 9월 15일 여당이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장에 대해 사퇴를 요구하고, 대통령실이 이에 대해 '원칙적으로 공감한다'고 밝힌 것과 관련해, "내란특별재판부를 밀어붙이는 것은 중단된 이재명 대통령의 재판 5건이 다시 열릴 것을 우려한 조치"라고 비판했다.&lt;br /&gt;&lt;br /&gt;장동혁 국민의힘 대표는 이날(15일) 오전 국민의힘 부산시당에서 열린 현장 최고위원회의에서 "대통령실이 조희대 대법원장을 사퇴시키고, (이 대통령의) 유죄 판결을 뒤집으려 할 것"이라며 이같이 말했다.&lt;br /&gt;&lt;br /&gt;그는 "이 대통령에 대한 재판 5개는 중단돼 있지만, 공범 재판은 지금 계속 진행 중"이라며 "공범들에 대한 유죄 판결이 확정된다면 나중에 퇴임 이후 이 대통령에 대한 재판도 결국 공범들의 판결과 마찬가지로 유죄가 될 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;이어 "그것이 두렵기 때문에 지금 공범들의 판결을 어떻게든 무죄로 만들기 위해 조희대 대법원장의 사퇴를 요구하고 있다고 생각한다"며 "대법관 증원이 사법부 반대로 여의치 않자 방향을 선회해 대법원장의 사퇴를 강하게 요구하고 있다"고 지적했다.&lt;br /&gt;&lt;br /&gt;장 대표는 또 "대통령실도 '원칙적으로 공감한다'고 표현했지만 원칙적 공감이 아닌 대통령이 가장 원하는 바 일 것"이라고 강조했다.&lt;br /&gt;&lt;br /&gt;그러면서 "대법원장과 대통령의 임기를 달리한 것은 대통령의 권력 변동과 상관없이 사법부의 독립을 굳건히 지키라는 대한민국 헌법의 명령"이라며 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;&amp;nbsp;대법원장은 반드시 헌법의 명령을 따라야 할 것"이라고 주문했다. &lt;br /&gt;&lt;br /&gt;앞서 강유정 대통령실 대변인은 이날(15일) 오전 용산 대통령실 브리핑에서 추미애 법사위원장이 조희대 대법원장의 사퇴를 요구한 데 대해 "특별한 입장은 없다"면서도 "시대적 요구와 국민적 요구가 있다면 임명된 권한으로 요구에 대해 개연성과 이유를 돌이켜봐야 할 필요가 있다는 점에서 원칙적으로 공감한다"고 말한 바 있다.</description>
 			<pubDate>Mon, 15 Sep 2025 01:54:30 -0000</pubDate>
@@ -228,16 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211381</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211381.jpg</media:thumbnail>
 			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>영풍 "고려아연 돈받고 소액주주 동원"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211376.jpg" alt="45444.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진= 액트 로고》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;소액주주 플랫폼 액트(운영사 컨두잇)가 금전 계약을 맺고 고려아연 측을 위해 소액주주를 동원했다는 혐의로 경찰에 고발당했다. 영풍은 9월 11일 서울 용산경찰서에 “고려아연 최윤범 회장과 박기덕 사장은 회사 자금을 이용해 주주총회 경영권 방어를 목적으로 부당한 이익을 제공했고, 이상목 액트 대표는 이를 수수했다”며 최 회장과 박 사장, 이 대표를 상법 위반 등 혐의로 고발했다. 액트는 고려아연, 한미약품 등 경영권 분쟁 과정에서 소액주주 연대 활동을 주도해 온 플랫폼이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상법 제634조의2 제1항은 주식회사의 이사 등이 주주의 권리 행사와 관련해 회사의 계산으로 재산상의 이익을 공여한 경우 1년 이하의 징역 또는 300만 원 이하의 벌금에 처하도록 한다. 이익을 수수한 자도 같은 처벌을 받는다.&lt;/p&gt;&lt;p&gt;고려아연 측은 “주주 친화적인 주주총회 안건 개발과 관련해 자문 서비스를 제공받은 것”이라는 입장이다. 고려아연 측은 액트와의 계약이 논란이 되자 지난 3일 “당사는 해당 업체가 제공하고 있는 여러 서비스 중 주주총회 자문 관련 용역 계약을 체결하였을 뿐”이라고 해명한 바 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이상목 액트 대표는 지난 5일 입장문을 내고 “소액주주 관점에서 고려아연은 저희가 찾던 ‘모범 사례’에 적합했다”며 “저희가 먼저 연락해 돕고 싶다고 말씀드렸다”고 했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 12 Sep 2025 20:09:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211376</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211376</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211376.jpg</media:thumbnail>
-			<dc:creator>임현경 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
