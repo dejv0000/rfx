@@ -13,6 +13,53 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부산 앞바다서 조업 중 선박 사이에 낀 30대 외국인 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>15일 오후 3시 54분쯤 부산 다대포 인근 해상에서 조업 중이던 30대 외국인 선원 A씨가 선박 사이에 끼어 숨졌다.</description>
+      <pubDate>Mon, 15 Sep 2025 10:09:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EF7Z2FIG26OOTOKTOMB5WXE4PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 3시 54분쯤 부산 다대포 인근 해상에서 조업 중이던 30대 외국인 선원 A씨가 선박 사이에 끼어 숨졌다. A씨는 오후 4시 10분쯤 다대포항에서 대기 중이던 구급차로 병원에 옮겨졌지만 치료를 받던 중 숨졌다.&lt;br&gt;&lt;br&gt;해경은 조업 도중 A씨가 선박 사이에 끼이면서 사고가 난 것으로 추정하고 선장 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2705] 열려라, 단어 창고</title>
+      <link>https://www.chosun.com/national/nie/2025/09/15/VNX5JDZCMNCHBBR4BVDCYIFDIA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/15/VNX5JDZCMNCHBBR4BVDCYIFDIA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Sep 2025 15:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GV62I6B2HZDG3AZ7IPHXBFL5M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[두근두근 뇌 운동] [2705] 열려라, 단어 창고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘평화와 자유’ 수호한 인천상륙작전…75주년 기념식 열려</title>
+      <link>https://www.chosun.com/national/regional/2025/09/15/IDUIG7R7BNGYBKXNHOYY4P2R74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/15/IDUIG7R7BNGYBKXNHOYY4P2R74/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Sep 2025 09:42:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DP6HENICJPHHBXHSJVP6VYLJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 인천 중구 인천항 8부두에서 열린 제75주년 인천상륙작전 전승 행사에서 해병대가 인천상륙작전을 재연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국전쟁의 전세를 역전시킨 인천상륙작전 75주년 기념식이 15일 인천 중구 내항 8부두에서 열렸다. &lt;br&gt;&lt;br&gt;국가보훈부, 해군, 해병대, 인천시가 공동 주관한 이번 기념식엔 유정복 인천시장, 강동길 해군참모총장, 제이비어 브런슨 유엔군사령관, 조셉 레인스 주니어 미국 ‘더글러스 맥아더 장군 재단(General Douglas MacArthur Foundation)’ 대표를 비롯해 국내외 참전 용사, 보훈 단체 관계자, 시민 등 1500여 명이 참석했다. &lt;br&gt;&lt;br&gt;유정복 시장은 기념사에서 “인천상륙작전은 평화와 자유를 수호하고, 박애 정신을 실천하기 위해 세계 각국이 힘을 합쳐 이뤄낸 위대한 승리였다”며 “참전 용사들이 남긴 유산을 기억하는 것은 우리의 의무이자 사명”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “인천은 전쟁의 상처를 딛고 국제도시로 성장했다”며 “이제 인천은 국제 평화 도시로서 세계와 함께 미래로 나아갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;맥아더 장군의 아들 아서 맥아더 4세는 이날 기념식에 친서를 보내 “인천상륙작전은 대한민국의 꿈을 무너뜨리려던 공산군의 시도에 패배 직전에서 승리를 일궈낸 역사의 전환점이었다”며 “성공 가능성은 천분의 일에 불과하다는 평가였지만, 다국적 연합 상륙군과 대한민국 군인들의 용기로 승리를 이끌어냈다”고 했다. &lt;br&gt;&lt;br&gt;이어 “인천상륙작전의 결실은 대한민국의 자유와 75년에 이르는 번영이었다”며 “대한민국은 오늘날 전 세계 모든 자유민들에게 빛나는 등불이 되고 있다. 부디 영원한 평화와 번영을 누리시기를 기원한다”고 했다.&lt;br&gt;&lt;br&gt;기념식이 끝난 뒤엔 해군 해상작전헬기와 해상기동헬기, 상륙돌격장갑차 등 장비와 해군 특수전 요원들이 참여한 가운데, 상륙작전 재연 행사가 진행됐다. &lt;br&gt;&lt;br&gt;기념식 행사에 앞서 인천에서는 맥아더 장군 동상 헌화, 월미도 원주민희생자 위령비 헌화, 인천상륙작전 조형물 제막식 등이 진행됐다.&lt;br&gt;&lt;br&gt;1950년 9월 15일 단행된 인천상륙작전은 한·미·영 등 8국 261척의 함정이 투입돼 2차 세계대전 이후 최대 규모 상륙작전으로 기록됐다.&lt;br&gt;&lt;br&gt;당시 국군과 연합군은 인천상륙작전 13일 만인 9월 28일 서울을 수복하는 등 한국전쟁의 전세를 뒤집었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉에 또 비소식… 내일 밤부터 최대 20㎜ 내려</title>
+      <link>https://www.chosun.com/national/regional/2025/09/15/DNTLDSRNK5ARLP2CGEBWJ6G77I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/15/DNTLDSRNK5ARLP2CGEBWJ6G77I/</guid>
+      <dc:creator>강릉=정성원 기자</dc:creator>
+      <description>극심한 가뭄을 겪고 있는 강원도 강릉에 16일과 17일 이틀간 비가 내린다는 예보가 나왔다.
+기상청은 16~17일 강릉에 최대 20㎜ 비가 내릴 것이라고 15일 예보했다. 앞서 강릉엔 지난 주말 100㎜가 넘는 단비가 내렸다.</description>
+      <pubDate>Mon, 15 Sep 2025 09:15:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EXSYTUESBIBVDAIIX4JOA5NYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 14일 강원 강릉지역의 생활용수 87%를 공급하고 있는 오봉저수지가 전날 내린 비로 저수율이 소폭 상승해 있다. 15일 현재 오봉저수지의 저수율은16.3%를 기록했다.
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄을 겪고 있는 강원도 강릉에 16일과 17일 이틀간 비가 내릴 것으로 보인다. &lt;br&gt;&lt;br&gt;기상청은 16~17일 강릉에 최대 20㎜ 비가 내릴 것이라고 15일 예보했다. 앞서 강릉엔 지난 주말 100㎜가 넘는 단비가 내렸다. 지난달 6일(22.7㎜) 이후 38일 만에 ‘비다운 비’가 내린 것이다.&lt;br&gt;&lt;br&gt;주말 새 내린 비로 오봉저수지 저수율은 이날 16.3%를 기록했다. 한때 11.6%까지 떨어졌던 저수율이 소폭 상승하며 한고비를 넘겼지만, 여전히 해갈엔 부족한 수준이다.&lt;br&gt;&lt;br&gt;한국농어촌공사 관계자는 “16일과 17일 비가 더해져도 저수율은 조금 오르는 수준에 그칠 것”이라며 “200㎜ 이상 쏟아져야 위기를 벗어날 수 있다”고 했다.&lt;br&gt;&lt;br&gt;강릉시는 이날부터 300세대 이상 아파트 단지를 대상으로 2차 생수 배부에 나섰다. 오는 18일부터는 전 시민에게 1인당 24L의 생수가 지급된다. 외국인 유학생에게도 생수를 지원한다. &lt;br&gt;&lt;br&gt;강릉시 관계자는 “제한급수가 시행 중인 아파트 주민에겐 1인당 생수 36L가 추가로 지급되며, 24개월 이하 아기를 둔 가정에는 아이 1명당 2L 생수 24병을 추가 지급하고 있다”고 했다.&lt;br&gt;&lt;br&gt;도암댐 방류를 앞두고 도암댐 비상 방류수의 안전성 확보 등을 위한 수질검증위원회도 이날 공식 출범했다. 이들은 도암댐 비상 방류수의 수질 측정 및 검토를 통해 상수원으로의 사용 적합 여부를 검증한다. 또 강릉시 가뭄 해소 시 방류 중단 시기 결정을 협의하는 역할도 맡는다. 강릉시는 지난 10일 가뭄 극복을 위해 도암댐과 남대천을 잇는 도수관로(15km)에 담긴 물 15만t을 공급받기로 했다. 강원 평창군에 있는 도암댐은 1990년 건설한 발전용 댐이다. 고도가 높은 평창에서 강릉으로 물을 떨어뜨려 전기를 생산한다. 이를 위해 도암댐과 남대천을 잇는 도수관로가 설치돼 있다. 그러나 지난 2001년 도암댐의 오염수가 남대천으로 유입되며 운영을 중단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 국힘 의원 3명 증인신문 청구 인용... 29·30일 기일 지정</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/15/BWD34GQHPZGBJGJ7OYHCWPIJJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/15/BWD34GQHPZGBJGJ7OYHCWPIJJE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Sep 2025 08:51:28 +0000</pubDate>
+      <content:encoded>추경호 전 국민의힘 원내대표 등에 대한 국회의 ‘계엄 해제 의결 방해’ 의혹을 수사중인 조은석 내란특검은 15일 김태호·김희정·서범수 국민의힘 의원에 대한 증인신문이 오는 29일과 30일에 진행된다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OZ74CRM2KOOPEH4XY3EXVJSFOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법 입구. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 측은 이날 오후 공지를 통해 “특검이 남부지법에 청구한 공판 전 증인신문 청구와 관련해 김희정 의원 29일 오후 3시, 김태호 의원 30일 오후 2시, 서범수 의원 30일 오후 4시로 신문기일이 지정됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검 측은 지난 11일 이들에 대한 공판 전 증인신문을 청구했다. 공판 전 증인신문은 참고인이 진술을 거부하는 경우 검사가 제1회 공판기일 전까지 법원에 청구해 증인을 신문하는 제도다.&lt;br&gt;&lt;br&gt;특검 관계자는 “당시 서 의원은 국민의힘 사무총장으로 표결에 참여하고 현장에 있으면서 한동훈 전 대표와 협의하고 직접 추경호 전 원내대표에게 ‘본회의장으로 오라’고 얘기한 것으로 안다”며 “당시 상황에 대해 누구보다 잘 알고 있을 것”이라고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “김희정 의원은 당시 원내대표실에서 (추 전 원내대표와) 같이 있어 당시 원내대표실 상황을 잘 설명할 것으로 보인다”며 “김태호 의원은 당사에 있으면서 표결에 불참했는데 당시 당사에서 기다리면서 추 전 원내대표와 연락했을 것으로 보인다. 당시 당사 상황에 대해 가장 잘 설명할 수 있을 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한변 “李대통령·민주당, 사법부 독립 훼손하는 헌법 파괴 중단하라"</title>
       <link>https://www.chosun.com/national/court_law/2025/09/15/HFJ6LRT3GZBZLJUWGWEC75GBLY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/15/HFJ6LRT3GZBZLJUWGWEC75GBLY/</guid>
@@ -530,15 +577,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNUXI63W3TQCPJECHHIGTGXYCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전한길./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국에 체류 중인 한국사 강사 출신 보수 유튜버 전한길씨가 구글 측으로부터 자신이 운영하는 유튜브 채널 ‘전한길뉴스’와 관련한 수익 창출 중단을 통보받았다고 밝혔다.&lt;br&gt;&lt;br&gt;전씨는 지난 13일(현지 시각) 미국 워싱턴 DC 근교에서 열린 우파 단체 주최 행사 ‘트루스포럼’에 참석한 자리에서 “제가 운영하고 진행하고 있는 ‘전한길뉴스’가 수익 정지 명령을 받았다”며 “민감한 문제 때문에 수익 창출을 정지시킨다는 통보를 받았다”고 말했다.&lt;br&gt;&lt;br&gt;전씨는 ‘전한길뉴스’ 채널에 올린 영상에서도 “구글코리아로부터 수익 창출 중단 메일을 받았다”며 “‘민감한 사건’ 때문이라고 하는데, 불법이나 범죄를 저지르거나 허위 사실을 유포한 적이 없다”고 했다. 그러면서 이 같은 구글 측의 조치가 “언론 탄압이자 보수 우파 죽이기”라고 주장했다.&lt;br&gt;&lt;br&gt;이와 함께 전씨는 현재 미국에 체류 중인 이유에 대해 “언제 출국 금지·구속될지 모르겠다는 생각이 들어서 미국으로 온 것”이라며 “이 행사에 오면서도 누가 총을 들고 오는 것 아닌가 (걱정돼) 150만원짜리 방탄복도 구입했다”고 했다.&lt;br&gt;&lt;br&gt;또 최근 발생한 미국의 청년 우파 활동가 찰리 커크 암살 사건을 언급하며 “개인적인 롤모델이었는데 희생이 너무나 가슴 아프다”고 말했다.&lt;br&gt;&lt;br&gt;전씨는 현재 유튜브 채널 구독자 56만명을 보유하고 있으며, 유튜브 채널에 계좌 번호를 걸어두고 ‘자율 구독료’ 명목으로 후원받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[경찰 25시] 치안감 승진, 文라인 뜨고 尹라인은 졌다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/15/VEWHF36RNJGHLDUXBTFLBEUOSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/15/VEWHF36RNJGHLDUXBTFLBEUOSE/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 15:43:00 +0000</pubDate>
-      <content:encoded>경찰청이 지난 12일 발표한 치안감 승진 내정자 9명 중 8명이 윤석열 정부에선 승진하지 못했던 것으로 14일 나타났다. 치안감은 경찰청장을 맡는 치안총감, 치안총감 후보군인 치안정감에 이은 세 번째 계급이다. 이재명 정부가 이번 치안감 인사를 통해 임기 중반 이후 경찰 최고 수뇌부 후보군을 구축했다는 평가가 나온다.&lt;br&gt;&lt;br&gt;이번 인사에서 치안감으로 승진한 사람은 곽병우·홍석기·유윤종·고범석·김원태·김영근·이종원·최보현·김종철 경무관 등 9명이다. 이 가운데 2023년 초 경무관으로 승진한 곽병우 내정자를 제외한 나머지 8명은 모두 문재인 정부 때인 2021년 경무관으로 승진했다. 이 8명은 윤석열 정부 들어선 3년 내내 승진하지 못했다. 현 정부 출범 직후인 지난 6월 치안정감으로 승진한 유재성 경찰청 차장과 박성주 국수본부장도 윤석열 정부에선 승진하지 못했다.&lt;br&gt;&lt;br&gt;최보현·김종철 내정자는 문재인 정부 때 청와대 국정상황실 파견 근무도 했다. 다만 출신 지역으로는 전남 3명, 대구·경북 2명, 충북 2명, 경남 2명 등으로 골고루 분배됐다. &lt;br&gt;&lt;br&gt;같은 날 발표된 치안정감 승진자 5명이 모두 윤석열 정부에서 치안감으로 승진했던 것과는 대조적이다. 한 여권 인사는 이를 두고 “전임 정부에서 경찰 고위직을 대대적으로 물갈이해 치안정감 후보군은 윤 정부 때 치안감으로 승진한 간부들이 대부분일 수밖에 없었다”고 했다. 전 정권 때인 지난 2월 치안정감으로 승진 내정됐던 박현수 서울경찰청장 직무대리는 이번 인사에서 제외돼 거취가 불투명해졌다.&lt;br&gt;&lt;br&gt;차기 경찰청장 후보군인 현 치안정감 7명 중 3명은 59세로 내년이면 정년을 맞게 된다. 내년 이후로는 치안정감 세 자리가 비게 된다. 한 경찰 관계자는 “이번에 치안감으로 승진한 이들 중 차차기 경찰청장이 나올 가능성이 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독]항생제도 안 듣는 ‘수퍼박테리아’ 환자 5년간 2.3배...사망자 수 에이즈 5배</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/09/15/JM3HP6YKNNAKHBBOPDTF5CRTB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/15/JM3HP6YKNNAKHBBOPDTF5CRTB4/</guid>
@@ -555,24 +593,6 @@
       <description/>
       <pubDate>Sun, 14 Sep 2025 15:54:00 +0000</pubDate>
       <content:encoded>이재명 대통령은 지난 13일 차정인 전 부산대 총장을 국가교육위원장으로 임명했다. 국가교육위원회(국교위)는 정권이 바뀔 때마다 교육 정책까지 달라지는 혼란을 없애자는 취지로 설립된 대통령 직속 기구로 위원장은 장관급이다.&lt;br&gt;&lt;br&gt;검사 출신인 차 위원장은 민변 변호사 등을 거쳐 부산대 총장(2020~2024년)을 지냈다. 올 초 부산교육감 재선거에 출마한 그는 “조민(조국 조국혁신당 비대위원장의 딸)을 지키지 못해 미안하다”고 해 논란을 불러일으켰다. 차 위원장은 부산대 총장 시절, 부정 입학이 확인된 조민씨의 부산대 의학전문대학원 입학 취소 처분을 늦게 해 직무유기로 검찰 고발까지 당했다. 교육계에선 “입시 비리를 옹호·두둔한 인사가 국가 백년지대계인 교육의 큰 틀을 세우는 수장 자리에 앉는 것은 말이 안 된다“는 비판이 나왔으나, 임명을 강행한 것이다. &lt;br&gt;&lt;br&gt;지난 11일에는 과거 막말, 음주 운전, 북한 옹호, 학생 폭행 등으로 논란을 일으킨 최교진 교육부 장관 후보자가 장관으로 임명됐다. 최 장관은 ‘제자 논문 가로채기’ 의혹 등으로 앞서 낙마한 이진숙 전 교육부장관 후보자에 비해 결격 사유가 더 많다는 비판을 받았는데, 이 역시 임명을 강행한 것이다. &lt;br&gt;&lt;br&gt;이 같은 인사 배경에 대해 교육계 안팎에선 “진보 교육 단체인 전교조의 지지를 받기 때문”이란 해석이 나왔다. 세종시 교육감을 지낸 최 장관은 전교조 간부 출신이다. 전교조는 그가 후보로 지명됐을 때 “교육 개혁 추진을 기대한다”며 사실상 환영 논평을 냈고, 최 장관의 각종 논란에 대해선 언급도 하지 않았다. 반면 이 전 후보자는 충남대 총장 시절 교내 평화의 소녀상 철거 요구 논란과 관련해 전교조 등 진보 단체까지 가세해 임명을 반대했다.&lt;br&gt;&lt;br&gt;최근 대통령실 교육비서관에 내정된 것으로 알려졌던 스타 강사 출신 이현 우리교육연구소 이사장도 사교육걱정없는세상, 전교조 서울지부 등 진보 단체들이 강하게 반대를 표명하자, 내정이 철회된 것으로 전해졌다. 익명을 요구한 한 교육계 인사는 “교육 핵심 인사가 진보 단체의 주장으로 결정되는 모양새”라며 “정부의 교육 철학에 의구심이 커질 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개구리 18일·갈매기 6일… 기후변화로 산란 빨라져</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/15/QZVWVOID75EONGEGLTV3N5OYTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/15/QZVWVOID75EONGEGLTV3N5OYTM/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 15:45:00 +0000</pubDate>
-      <content:encoded>기후 변화에 따른 기온 상승으로 이전보다 개구리·새 등의 산란 시기가 빨라지고, 식물의 잎이 돋아 있는(착엽) 기간은 길어진 것으로 확인됐다.&lt;br&gt;&lt;br&gt;14일 환경부 산하 국립공원공단은 계절에 따른 전국 국립공원 내 동·식물의 반응 변화 관찰(2010년부터 올 현재까지) 결과를 공개했다. 이에 따르면, 지리산국립공원에서 큰산개구리의 첫 산란 시기는 18일 앞당겨졌다. 큰산개구리는 전국에 분포하며 야외에서 흔히 볼 수 있는 종이다. 보통 2월 중순에 산란을 시작하기 때문에 그전 12월과 1월 때 기온이 산란 시기를 결정 짓는 핵심 요인으로 꼽힌다. 바닷새인 괭이갈매기는 국내 최대 번식지인 한려해상국립공원 홍도(경남 통영)에서 관찰(2012년부터 올해까지)을 해본 결과 산란 시기가 6.5일 빨라졌다고 한다&lt;br&gt;&lt;br&gt;이뿐만이 아니다. 설악산국립공원에서 관찰한 신갈나무의 착엽 기간은 2015년 145일에서 지난해 193일로 48일 늘어났다. 신갈나무는 우리나라 산림을 대표하는 활엽수다. &lt;br&gt;&lt;br&gt;이 같은 변화는 먹이 사슬 등 생태계 전반에 적지 않은 영향을 끼칠 것으로 보인다. 공단 관계자는 “가령 조류의 산란 시기가 빨라지면 어린 새가 성장해야 할 시기에 먹이인 곤충이 충분히 나오지 않아 생존율이 떨어진다”며 “식물의 개화 시기도 곤충의 활동 시기와 맞지 않으면 꽃가루받이가 제대로 이뤄지지 않는 등 불균형으로 이어질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새만금 공항 취소 판결에 둘로 갈라진 전북</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/15/A77UWVGPWZB3LHB6ZXK4NA24U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/15/A77UWVGPWZB3LHB6ZXK4NA24U4/</guid>
-      <dc:creator>군산=김정엽 기자, 제주=오재용 기자, 부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 15:43:00 +0000</pubDate>
-      <content:encoded>지난 11일 법원이 ‘새만금 신공항’ 사업을 취소하라고 판결하면서 전북도는 충격에 빠졌다. 지역 여론도 ‘반발’과 ‘환영’으로 나뉘어 엇갈리고 있다. 새만금 신공항 사업은 전북 새만금 간척지에 2029년까지 8000억원을 들여 국제공항을 짓는 사업이다. 경제성이 부족했지만 문재인 정부 때 ‘지역 균형 발전’ 논리를 내세워 예비타당성 조사(정부의 경제성 평가 절차)를 면제했다. 오는 11월 착공을 앞두고 있다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇둘로 쪼개진 전북&lt;/b&gt;&lt;br&gt;&lt;br&gt;법원 판결 이후 전북도는 ‘초상집’ 분위기다. 김관영 전북도지사는 판결 직후 자신의 소셜미디어를 통해 “오랜 시간 새만금 국제공항을 염원해온 전북도민의 뜻을 정면으로 반하는 결정”이라며 “전북도는 국토교통부와 협력해 항소 절차에 돌입하고, 항소심에서 새만금 국제공항의 필요성과 정당성을 반드시 입증해 내겠다”고 했다. &lt;br&gt;&lt;br&gt;전북도 관계자는 14일 “대법원의 최종 판단이 나올 때까지 새만금 국제공항 건설과 관련한 행정 절차를 그대로 진행할 것”이라고 했다. 오는 11월 착공까지 예정대로 밀어붙이겠다는 게 전북도 생각이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2TKQHLUEKFHLJKOCTJFCNQOBJU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북도 안에서는 2036년 하계 올림픽 유치에 악영향을 줄 수 있다는 우려도 나왔다. 전북은 지난 2월 서울시를 누르고 2036년 올림픽 유치에 도전할 국내 후보지로 선정됐다. 현재 인도, 카타르, 인도네시아 등과 경쟁하고 있다.&lt;br&gt;&lt;br&gt;지역 정치권과 경제계도 들끓고 있다. 더불어민주당 전북도당 소속 지역 국회의원 7명은 12일 공동 성명을 내고 “이번 판결은 국가 균형 발전에 대한 역행”이라며 “사업을 중단 없이 계속 추진해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;전북 지역 200여 개 민간 단체가 모인 ‘새만금 국제공항 조기 건설 추진 연합’도 “일방적인 백지화 주장은 전북도민을 무시하는 처사”라고 했다.&lt;br&gt;&lt;br&gt;반면 지역 환경단체 등은 사업 백지화를 요구하고 있다. ‘새만금 신공항 백지화 공동행동’은 지난 11일 입장문을 내고 “사법부가 환경 보전과 국민 안전의 가치를 인정한 당연한 결과”라고 했다. 이들은 판결 다음 날인 12일 서울행정법원에 집행정지 신청도 냈다. 대법원에서 판결이 확정될 때까지 새만금 공항과 관련한 모든 절차를 중단시켜 달라는 것이다. &lt;br&gt;&lt;br&gt;정의당 전북도당도 “(이번 판결에) 전북도와 정치권의 책임이 크다”면서 “사업을 전면 재검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이처럼 찬반이 극명하게 대립하면서, 올 11월 착공이 어렵지 않겠느냐는 전망이 나온다. 전북의 한 시민단체 관계자는 “현재 국토부와 전북지방환경청이 진행하고 있는 환경영향평가 결과도 판결에 영향을 받을 수밖에 없다”며 “지역 여론도 갈라진 상태라 부정적 결론이 나올 가능성이 크다”고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇가덕도·제주로 번진 ‘철새 리스크’&lt;/b&gt;&lt;br&gt;&lt;br&gt;새만금발(發) 후폭풍은 부산과 제주로 확산하고 있다. 부산 가덕도 신공항과 제주 제2공항도 새만금처럼 철새 도래지 근처에 짓기 때문이다. 법원은 항공기와 철새가 충돌할 위험이 높은데도 제대로 검토하지 않았다는 이유로 새만금 사업을 취소했다. &lt;br&gt;&lt;br&gt;법원이 판결 근거로 든 국토부 전략환경영향평가 결과에 따르면, 새만금 신공항의 연간 예상 조류 충돌 횟수는 최대 45.9회로 작년 12월 ‘제주항공 참사’가 발생한 무안공항(0.07회)의 656배였다. 179명이 사망한 제주항공 참사는 조류와 충돌이 주원인이었다. 이 평가에서 가덕도 신공항은 최대 14.5회, 제주 제2공항은 최대 14회로 예상됐다. 새만금 공항보다는 적지만 무안공항의 최대 200~207배란 것이다.&lt;br&gt;&lt;br&gt;부산 지역의 ‘가덕도 신공항 반대 시민행동’은 지난 12일 성명을 내고 “새만금 신공항 취소 판결을 깊이 환영한다”며 “판결의 취지는 가덕도 신공항에도 동일하게 적용돼야 한다”고 주장했다. 새만금 신공항 사업을 취소하는 판결을 내린 서울행정법원에선 가덕도 신공항 취소 소송도 진행 중이다. &lt;br&gt;&lt;br&gt;제주 제2공항 사업은 현재 제주도의회에서 환경영향평가가 진행 중인데 지역에선 절차가 지연될 수 있다는 말이 나온다. 제2공항 예정지는 반경 13㎞ 안에 철새 도래지가 4곳 있다. 제주 지역 시민단체인 ‘제주 제2공항 강행 저지 비상도민회의’는 “무안공항 참사 이후 조류 충돌 위험에 대한 경각심이 커진 만큼, 제주 제2공항도 즉각 철회해야 한다”고 주장했다. &lt;br&gt;&lt;br&gt;국토부는 “판결문을 면밀히 분석한 뒤 대응 방향을 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“北 인권운동 길 연 선구자인데…” 추모객들 눈시울 붉혀</title>
@@ -620,24 +640,6 @@
       <description/>
       <pubDate>Sun, 14 Sep 2025 09:05:57 +0000</pubDate>
       <content:encoded>민중기 특별검사팀이 김상민 전 검사가 김건희 여사에게 1억4000만원 상당의 그림을 건넨 시기를 2023년 2월 초로 특정한 것으로 14일 확인됐다. 특검은 김 전 검사가 청탁금지법을 위반했다고 보고 구속영장을 청구한 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TKP4NGCCRQ6BMSL6JNNP6QCMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 특검은 A4용지 2쪽 분량의 김 전 검사 구속영장에 이 같은 내용을 적시했다. 특검은 구속영장의 대부분을 구속 필요 사유를 소명하는 데 할애했는데, 중형 선고가 예상되는 만큼 김 전 검사가 도주할 우려가 있다고 주장한 것으로 파악됐다. 또 김 전 검사가 혐의를 전면 부인해 증거를 인멸할 우려가 크고, 다른 참고인들에게 위해를 가할 우려가 있다는 주장도 펼쳤다고 한다. 특검은 김 전 검사를 구속 상태에서 수사해 진실을 밝히겠다고 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그러나 김 전 검사 측은 이러한 특검의 주장을 모두 받아들일 수 없다는 입장인 것으로 전해졌다. 수사를 통해 혐의를 입증한 뒤 구속영장을 청구하는 것이 올바른 순서 아니냐는 취지라고 한다. 또 김 전 검사에게 이우환 화백의 그림 ‘점으로부터(From Point) No.800298’를 판매한 사업가는 지인 관계에 있어 위해를 끼칠 우려도 성립하지 않는다는 게 김 전 검사의 입장이라고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGXRPFRWRJGNDDDQ3L2NLTZCPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 검사가 김건희 여사 측에 전달했다는 이우환 화백의 그림. 이 화백이 1980년 그렸다는 ‘점으로부터(From Point) No.800298’이다. /ethereal auctioneers&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 김 전 검사가 이 그림을 김 여사에게 건넸다고 보지만, 김 여사 측은 김 전 검사로부터 그림을 받은 사실이 없고, 2024년 총선 공천이나 국정원 법률특보 임명을 도운 적도 없다는 입장이다. 김 여사는 지난해 초 오빠 김진우씨 집에 이 그림이 걸려 있는 모습을 처음 봤고, ‘이 화백 그림은 위작이 많은데 왜 샀지’라고 생각한 게 전부라는 것이다. 김 여사 측은 김 전 검사를 포함한 국민의힘 관계자들의 공천에 개입할 수 있는 위치에 있지 않았다는 입장을 일관되게 유지해오고 있다.&lt;br&gt;&lt;br&gt;김 전 검사는 지난 9일 특검 조사를 마치고 나오면서 기자들과 만나 “논란이 되고 있는 그림은 제가 사서 소유했던 그림이 아니라 김씨의 요청으로 (거래를) 중개한 것”이라고 해명했다. 그림을 구입한 자금의 출처에 대해선 “알지 못한다”며 “김씨로부터 받은 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 해당 그림이 위작인지 여부도 계속 수사 중이다. 거래 가격은 1억4000만원으로 특정했지만, 진품의 경우 가격이 크게 오를 수 있기 때문이다.&lt;br&gt;&lt;br&gt;김 전 검사의 영장실질심사는 오는 17일 오후 2시 30분에 서울중앙지법 박정호 영장전담 부장판사 심리로 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강릉에 100㎜ 단비, 오봉저수지 수위 1.37m 상승… 가뭄 해갈엔 역부족</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/09/14/2CHCKMWDERFFNFRCREVOCHTPKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/14/2CHCKMWDERFFNFRCREVOCHTPKU/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 08:58:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XHBCMNVFLRONVCK44SN52CR2TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 강원 강릉지역의 생활용수 87%를 공급하고 있는 오봉저수지가 이틀간 내린 비로 저수율이 올랐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극한 가뭄에 제한급수가 시행되는 강원 강릉에 전날 100㎜에 달하는 비가 내렸다. 하루 강수량 기준으로 강릉에 30㎜가 넘은 것은 지난 7월 15일(39.7㎜) 이후 60일 만이다.&lt;br&gt;&lt;br&gt;14일 강원도와 강릉시 등에 따르면, 지난 12일 오후 3시부터 이날 오후 4시까지 강릉 도심에 112㎜의 비가 내렸다. 특히 강릉 지역에 생활용수를 공급하는 오봉저수지에 직접적인 영향을 주는 강릉 닭목재에는 90㎜, 도마 84.5㎜, 삽당령 84㎜, 왕산 82㎜ 등의 강수량이 기록됐다.&lt;br&gt;&lt;br&gt;이번 비로 83만여t의 물이 오봉저수지로 자연 유입된 것으로 추정된다. 이날 오후 5시 30분 기준 오봉저수지의 저수율은 16%를 기록하고 있다. 가장 낮은 저수율을 보였던 지난 12일 11.5%보다 4.5% 포인트가 오른 셈이다.&lt;br&gt;&lt;br&gt;오봉저수지 저수율이 오른 것은 지난 7월 23일 이후 52일 만이다. 오봉저수지의 수위 역시 전날 99.74ｍ에서 101.1m로 상승했다.&lt;br&gt;&lt;br&gt;가뭄으로 제한급수 등 식수난을 겪는 상황에서 단비가 내렸지만 완전한 가뭄 해갈에는 아직 역부족이다.&lt;br&gt;&lt;br&gt;전날 비가 내리면서 일시 중단됐던 소방과 군부대의 원수와 정수 운반급수는 이날 다시 이뤄졌다.&lt;br&gt;&lt;br&gt;소방 당국의 대용량포 방사 시스템을 통한 비상급수도 재개됐다.&lt;br&gt;&lt;br&gt;제한급수도 계속되고 있다. 강릉시는 저수조 100t 이상 보유 아파트의 급수 시간(제수 밸브 개방)을 오전 6시부터 9시, 오후 6시부터 9시까지 하루 2차례, 3시간씩 시행하는 제한 급수 방식을 지난 13일 오후부터 적용하고 있다.&lt;br&gt;&lt;br&gt;앞서 시는 지난 6일 오전 9시부터 아파트를 비롯한 대형 숙박 시설 등 123곳에 대해 오전과 오후 각 1시간씩 수돗물을 공급하는 고강도의 제한급수를 시행했으나 시민 불편이 크다는 판단에 따라 제한급수 방식을 개선했다.&lt;br&gt;&lt;br&gt;생수(병입수)는 전날까지 800만개가 입고돼 198만2000개가 시민들에게 보급됐으며, 601만8000개가 남아 있는 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 한학자 총재 측 “17~18일 김건희 특검 자진 출석할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/14/JLULPVG7N5CPPNBOKDT3MHPK5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/14/JLULPVG7N5CPPNBOKDT3MHPK5U/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 07:58:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4V66Y5OUONJ6FIOJW4LEUXQOGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 특검의 세 차례에 걸친 소환 요구에 응하지 않은 한학자 통일교 총재 측이 “오는 17~18일 중 자진 출석할 것”이라는 입장을 14일 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 지난 1일 한 총재에게 8일 출석할 것을 처음 요구했으나 한 총재는 서울아산병원에 입원해 심장 관련 시술을 받고 회복 중이라는 이유를 들어 출석하지 않았다. &lt;br&gt;&lt;br&gt;특검팀은 11일 소환을 재통보했지만 한 총재 측은 산소포화도가 정상 범위를 밑도는 등 회복 경과가 좋지 않다며 이에도 응하지 않았다. 특검은 오는 15일 출석할 것을 다시 요구했지만, 한 총재 측은 이날 특검에 불출석 사유서를 다시 내고 소환에 응하기 어렵다고 밝혔다.&lt;br&gt;&lt;br&gt;한 총재 측은 “지난 11일 시술을 받은 서울아산병원 진료 결과 재시술이 필요할 수 있다고 한다”며 “부정맥도 재발한 상황”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 통일교 전 세계본부장 윤영호씨가 2022년 1월 5일 권성동 국민의힘 의원에게 불법 정치자금 1억원을 건넨 것을 비롯해, 2022년 4~7월 사이 ‘건진법사’ 전성배씨를 통해 김건희 여사에게 총 8293만원어치 명품 목걸이 및 가방 2개를 건넨 배경에 한 총재가 있다고 본다. 특검은 윤씨와 김 여사를 기소하면서 이들의 공소장에 한 총재가 이 같은 범행을 보고 받은 뒤 승인했다고 적시했으나, 한 총재를 대면조사하지는 못한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘검찰 개혁’ 비판한 김종민 변호사 페이스북 차단… 검열 논란</title>
