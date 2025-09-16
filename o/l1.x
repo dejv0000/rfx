@@ -6,6 +6,36 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 한학자 총재 측 "17일 오전 10시 특검 출석"</title>
+			<description>&lt;p style="text-align: center; "&gt;&lt;span style="background-color: #f0f0f0;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211504.jpg" alt="3637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;통일교 한학자 총재. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Tue, 16 Sep 2025 05:51:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211504</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211504</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211504.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울변회, '창립 제118주년' 기념식···시민인권상에 '투명사회를 위한 정보공개센터'</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211489.jpg" alt="45637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;15일 파르나스 호텔에서 열린 서울변회 창립 제118주년 기념 행사. 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;"청년 변호사들에게는 안정적인 출발의 기회를, 중견 변호사님들에게는 지속 가능한 발전의 토대를"&lt;br /&gt;&lt;br /&gt;1907년 한성변호사회를 모태로 설립된 서울지방변호사회가 창립 제118주년을 맞았다.&lt;br /&gt;&lt;br /&gt;15일 서울 강남구 삼성동 그랜드 인터컨티넨탈 서울 파르나스 호텔에서 열린 서울지방변호사회 '창립 제118주년 기념행사'에서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10599"&gt;조순열&lt;/span&gt;(사법연수원 33기) 회장은 "지난 118년 동안 일제 강점기의 법률 구조 활동, 민주화 과정 속에서의 인권 보호, 그리고 오늘날 복잡다단한 사회 문제에 이르기까지 서울지방변호사회는 언제나 국민과 함께 해 왔다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "오늘날 기술 혁신의 물결을 온몸으로 체감하고 있다"며 "우리 변호사들은 시대의 흐름을 거스르지 않고, 인공지능 플랫폼 등 기술 혁신을 충분히 활용하면서도 법조인의 본질적 가치와 사명을 굳건히 지켜나갈 것"이라고 했다. &lt;br /&gt;&lt;br /&gt;끝으로 조 회장은 "비윤리적 업무 형태와 무분별한 광고 경쟁은 공정한 수임 질서를 해치고 법조 사회의 불신을 야기하며 결국에는 국민의 부담으로 이어지게 될 것"이라며 "거대한 변화의 흐름 속에서 청년 변호사들에게는 안정적인 출발의 기회를, 중견 변호사님들에게는 지속 가능한 발전의 토대를, 원로 회원님들께는 존경과 예우를 다하는 문화를 마련하겠다"고 강조했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;(변호사시험 2회) 대한변호사협회 회장은 축사에서 "10명의 변호사로 시작된 서울지방변호사회는 선배 회원들의 피와 땀으로 일궈낸 118년의 역사를 거쳐 등록 회원 수 2만 8000여 명 규모로 성장했다"며 "인공지능을 활용한 리걸테크의 확산, 과열되는 수임 경쟁, 급격한 변호사 수 증가 등 법률 시장 질서를 위협하는 여러 문제에 있어 큰 지지가 되어 서울지방변호사회에 감사의 말씀을 드린다"고 말했다.&lt;br /&gt;&lt;br /&gt;또한 "오랜 숙원이었던 변호사 비밀유지권, 디스커버리, 징벌적 손해배상 제도의 확대 등이 입법부, 사법부, 행정부에서 설득이 이루어지고 있어, 좋은 소식을 전해드릴 수 있으리라 기대하고 있다"고 했다.&lt;br /&gt;&lt;br /&gt;이날 기념식에서는 우수 국회의원상, 우수 경찰상, 우수 법조 언론인상, 회원 포상, 사무국 직원 표창이 이어졌다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5558"&gt;천기흥&lt;/span&gt;(사법시험 8회) 변호사는 55년 동안 법조인으로 인권옹호와 사회 정의 실현에 기여한 공로로 '명덕상'을 수상했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30923"&gt;강정규&lt;/span&gt;(변시 2회) 변호사는 사회적 약자에 대한 인권 옹호에 이바지해 변호사의 공익적 사명을 다한 점을 인정받아 '공익봉사상'을 받았다.&lt;br /&gt;&lt;br /&gt;30년 이상 변호사로 활동하며 법조인의 귀감이 된 회원에게 주어지는 '백로상' 78명, 회무에 헌신해 회 발전에 기여한 회원에게 주어지는 '공로상' 5명에 대한 수상 등도 진행됐다.&lt;br /&gt;&lt;br /&gt;인권 옹호와 사회 정의 실현에 기여한 개인이나 단체에 주어지는 '시민인권상' 시상식도 열렸다.&lt;br /&gt;&lt;br /&gt;제31회 시민인권상은 '투명사회를 위한 정보공개센터'에게 돌아갔다. 서울변회는 단체에 상패와 상금 1000만 원을 수여했다. &lt;br /&gt;&lt;br /&gt;투명사회를 위한 정보공개센터는 정보공개법 개정운동, 중대산업재해 발생 사업장 정보 공개 등 시민의 알권리 보장을 위해 다양한 노력을 기울여온 단체다. 서울변회는 이 단체가 추구하는 '정보 인권'의 중요성이 AI 기술을 바탕으로 급속도로 나아가는 사회에서 더욱 커질 것이라고 평가했다.</description>
+			<pubDate>Tue, 16 Sep 2025 04:37:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211489</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211489</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211489.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>이복현 전 금융감독원장, 법률신문사 내방</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211495.jpg" alt="4563.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;제15대 금융감독원장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9983"&gt;이복현&lt;/span&gt;(사법연수원 32기) 변호사가 9월 16일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;이 변호사는 "공직에서 기업이 직면하는 현실적 어려움을 직접 체감한 만큼, 우선은 자문을 중심으로 활동할 예정"이라고 말했다.&lt;br /&gt;&lt;br /&gt;그는 지난 6월 변호사로 개업해 서울 중구 서소문동에 이복현 법률사무소를 열었다. &lt;br /&gt;&lt;br /&gt;이 변호사는 서울 경문고와 서울대 경제학과를 나와 2000년 제42회 사법시험에 합격했다. 서울지검 남부지청에서 검사로 임관한 이 변호사는 전주지검 군산지청, 법무부 법무과, 서울중앙지검, 춘천지검 등을 거쳤다. 2016년에는 최순실 국정농단 특검에 파견돼 근무했으며, 이후 서울중앙지검 부부장검사, 특수4부장, 경제범죄형사부장, 대전지검 형사3부장, 서울북부지검 형사2부장 등을 지냈다.</description>
+			<pubDate>Tue, 16 Sep 2025 04:33:34 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211495</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211495</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211495.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>우상호 "대통령실, 대법원장 거취 논의한 바 없고 계획 없다"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211494.jpg" alt="211494.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;우상호 대통령실 정무수석 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;우상호 대통령실 정무수석은 9월 16일 "대통령실은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장 거취에 대해 논의한 바 없고 앞으로도 논의할 계획이 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;우 수석은 이날(16일) 용산 대통령실에서 기자간담회를 열고 조 대법원장 거취에 대한 대통령실 입장은 "없다"며 거듭 강조했다.&lt;br /&gt;&lt;br /&gt;앞서 강유정 대변인은 전날(15일) 브리핑에서 더불어민주당 소속 추미애 국회 법제사법위원장이 조희대 대법원장의 사퇴를 요구한 것과 관련해 "그 부분에 대한 시대적·국민적 요구가 있다면 그 요구에 대한 개연성과, 이유에 대해서 돌이켜봐야 할 필요가 있지 않느냐는 점에서 원칙적으로 공감하고 있다"고 말한 바 있다. &lt;br /&gt;&lt;br /&gt;우 수석은 이에 대해 "사법부 개혁의 취지에 원칙적으로 공감한다는 취지로 알고 있다"며 "사법부 개혁의 취지에 공감한다는 것은 대통령실이 일관되게 말해온 것"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "사법 개혁 취지에 동의한다는 얘기는 지금의 사법부가 완벽하지 않고, 과거에 있었던 몇 가지 사안들이 있으니 그런 게 개선될 수 있는 제도적 개선 방안을 고민하는 게 맞다. 다만 대통령실이 개입해 사법부를 강제하고 그러지는 않겠다(는 것)"이라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;우 수석은 이 대통령이 임명권력과 선출권력 간 서열이 있는 것처럼 언급하며 삼권분립을 흔들었다는 지적에는 "서열이라고 표현한 게 아닌 것으로 안다"며 "사법부의 독립이라는 것도 국민으로부터의 독립은 아니라는 취지다. (사법부도) 국민의 목소리를 듣고 국민이 원하면 반응해야 한다는 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "'사법부도 국민 목소리를 들어 국민적 우려에 대한 자체적인 답변을 해야 하는 것 아닌가'라는 문제의식을 가진 것은 맞다"며 "'입법부가 제도적으로 (사법 개편을) 설계한다고 할 때는 법원도 의견을 내고 그래야 되는 것 아닌가'라는 취지"라고 부연했다.</description>
 			<pubDate>Tue, 16 Sep 2025 02:35:45 -0000</pubDate>
@@ -208,36 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/211460</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211460</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211460.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국정보통신법학회, 창립 첫 세미나 '주파수 행정과 법치주의' 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211453.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211453.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;한국정보통신법학회(회장 이성엽)는 오는 9월 22일 오후 4시 서울 중구 소공동 웨스틴 조선호텔 코스모스 바이올렛홀에서 '주파수 행정에서 법치주의 발전을 위한 과제'를 주제로 세미나를 개최한다. 이번 세미나는 창립 후 열리는 첫 세미나다.&lt;br /&gt;&lt;br /&gt;주파수는 6세대 이동통신(6G), 위성, 방송 등 미래 핵심 산업의 기반 자원으로서 국가안보, 경제성장, 사회적 공익과 직결된다. 하지만 주파수 자원의 희소성과 기술 발전의 급속화, 이해관계자 간 갈등은 행정 집행 과정에서 법적 불확실성을 야기한다는 문제가 제기된다. 현 정부가 연말까지 3G·4G 주파수 재할당 정책을 마련하는 과정에서 법의 우위, 행정의 투명성, 정책의 예측가능성을 어떻게 제도적으로 담보할 것인지가 핵심 쟁점으로 주목된다.&lt;br /&gt;&lt;br /&gt;이에 한국정보통신법학회는 산·학·연·관 전문가들이 참여해 논의하는 장을 마련했다. &lt;br /&gt;&lt;br /&gt;세미나에서 김태오 국립창원대 법학과 교수는 '주파수 행정에서 법치주의 발전을 위한 과제'를 주제로 발표한다. &lt;br /&gt;&lt;br /&gt;이어 이성엽 회장이 좌장으로 종합토론을 이끈다. 이희정 고려대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="591"&gt;박재윤&lt;/span&gt;(51·사법연수원 29기) 한국외대 로스쿨 교수, 김지훈 전 한국법제연구원 박사, 김태호 한국정보통신법학회 부회장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9806"&gt;최계영&lt;/span&gt;(49·32기) 서울대 로스쿨 교수,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11167"&gt;배상원&lt;/span&gt;(51·34기) &lt;b&gt;&lt;a href="https://www.kimchang.com/ko/main.kc" target="_blank"&gt;김·장 법률사무소&lt;/a&gt;&lt;/b&gt; 변호사, 남영준 과기정통부 주파정책과 과장 등이 참여한다.&lt;br /&gt;&lt;br /&gt;이성엽 학회장은 “이번 세미나는 주파수 재할당 정책 등 시의성 높은 현안을 계기로, 주파수 행정에서 법치주의의 원칙을 재조명하는 자리가 될 것”이라며 “특히 투명하고 예측가능한 제도 설계를 통해 국가 경쟁력과 공공성을 함께 강화하는 방안이 심도 있게 논의될 것”이라고 말했다.&lt;br /&gt;&lt;br /&gt;한국정보통신법학회는 통신, 방송, 전파, 데이터, AI, 플랫폼, 개인정보, 정보보호 등 정보통신(ICT)법 분야 전체를 다루는 법 이론 연구 단체로 지난 6월 창립됐다.</description>
-			<pubDate>Mon, 15 Sep 2025 06:03:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211453</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211453</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211453.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국사내변호사회, 글로벌 로펌 HSF Kramer와 '글로벌 공급망 대응 세미나'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211450.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;한국사내변호사회는 오는 9월 25일 오후 4시 서울 서초구 서초동 서울지방변호사회관에서 글로벌 로펌 허버트 스미스 프리힐즈 크레이머(HSF Kramer)와 함께 ‘글로벌 공급망의 법적 리스크 대응' 세미나를 연다.&lt;br /&gt;&lt;br /&gt;기업 내 변호사와 유관 법무조직 구성원을 대상으로 관세의 불확실성과 공급망에 미치는 영향 등을 소개하고, 이에 대한 대응 방안을 논의하기 위해서다. 이번 세미나는 영어와 한국어 동시통역이 제공된다.&lt;br /&gt;&lt;p style="text-align: left;"&gt;   &lt;br /&gt;&lt;/p&gt;세미나에서는 △제재 및 관세 리스크 관리 △지정학적 리스크와 수출관리 △정부 주도 공급망 회복력 정책 △경쟁법과 공급망 구조 △공급망 계약 리스크 등 다양한 주제가 다뤄질 예정이다. 세션에는 HSF Kramer 소속 외국 변호사들이 연사로 참여한다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211450.jpg" alt="2.jpg" /&gt;&lt;/p&gt;</description>
-			<pubDate>Mon, 15 Sep 2025 06:00:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211450</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211450</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211450.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰제도 개편 비판한 김종민 변호사 페북 차단 하루 만에 복구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211445.jpg" alt="457484.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김종민 변호사가 통보받은 페이스북 계정 차단사유.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;검찰 제도 개편을 비판해온&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2309"&gt;김종민&lt;/span&gt;(59·사법연수원 21기) 법무법인 MK파트너스 변호사의 페이스북 계정 차단이 하루 만에 해제됐다.&lt;br /&gt;&lt;br /&gt;페이스북은 9월 15일 새벽 일시 차단한 김 변호사의 계정을 복구했다. 김 변호사는 14일 계정이 차단되자 이의신청을 했다. 페이스북은 "180일 이내에 재고를 요청하지 않으면 계정이 영구 비활성화된다"고 안내했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 계정이 복구된 뒤 게시물을 올려 "터무니 없는 일이어서 말이 나오지 않지만 누군가 이재명 정권에 쓴소리를 하는 제 계정에 좌표를 찍어 집단적으로 페북 측에 신고한 때문으로 추측된다"고 말했다.&lt;br /&gt;&lt;br /&gt;페이스북은 계정 차단 사유로 '인신 착취에 관한 커뮤니티 규정 위반'을 통보했다. 하지만 문제가 된 게시물은 인신 착취와는 관련이 없었다. 김 변호사는 2일 검찰 개편과 관련한 경찰의 입장을 비판하는 논평을 게시했다. 경찰청은 1일 기자간담회에서 "경찰 수사 전 과정은 10종의 통제 프로세스에 따라 관리된다"며 경찰 수사권 비대화 우려에 대해 반박했다.&lt;br /&gt;&lt;br /&gt;페이스북은 폭력·유해·허위 콘텐츠 등 신고가 접수되면 반드시 직원이 직접 내용물을 검토한 뒤 계정을 정지한다고 밝히고 있다. 페이스북 측은 인신착취와 관련없는 김 변호사의 게시물과 계정을 왜 차단했는지 답하지 않고 있다.</description>
-			<pubDate>Mon, 15 Sep 2025 05:59:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211445</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211445</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211445.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
