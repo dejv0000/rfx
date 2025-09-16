@@ -6,14 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 한학자 총재 측 "17일 오전 10시 특검 출석"</title>
-			<description>&lt;p style="text-align: center; "&gt;&lt;span style="background-color: #f0f0f0;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211504.jpg" alt="3637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;통일교 한학자 총재. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Tue, 16 Sep 2025 05:51:01 -0000</pubDate>
+			<title>특검 강제수사 시사에 한학자 통일교 총재 "17일 자진출석"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211507.jpg" alt="3637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;통일교 한학자 총재. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한학자 통일교 총재가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀) 사무실에 9월 17일 자진 출석한다. 한 총재는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 부부에게 선물과 현안 청탁을 했다는 의혹을 받는데, 이미 세 차례 소환 통보에 불응한 한 총재에 대해 특검팀이 체포영장 청구까지 시사하자 한 총재 측이 한발 물러선 셈이다. 특검팀이 “법과 원칙에 따라 수사 일정을 정할 것”이라는 입장을 고수하면서, 한 총재가 강제수사를 피하기는 어려울 것이라는 분석도 나온다.&lt;br /&gt;&lt;br /&gt;한 총재 측은 16일 “17일 오전 10시에 출석해 성실히 조사에 응하겠다”며 “비록 건강이 완전히 회복되지는 못했지만, 특검 앞에 약속한 바를 지키고자 하는 마음을 헤아려 주시기 바란다”고 했다. 자진 출석과 관련해 “특검팀과의 사전 협의가 없었다”고 했다.&lt;br /&gt;&lt;br /&gt;특검팀 관계자는 이날 “만약 (한 총재가) 조사를 받으러 자진 출석할 경우, 필요한 조사가 있기 때문에 조사할 가능성도 있다”고 했다. 다만 특검팀은 한 총재의 출석을 피의자 측의 일방적인 통보로 보고, 기존 수사 일정을 그대로 진행하겠다는 입장이다. 특검팀은 한 총재가 3차 소환에 불응한 15일 이후로 한 총재 측에 추가 소환을 통보하거나 일정 조율을 한 적이 없다고 밝혔다.&lt;br /&gt;&lt;br /&gt;한 총재는 최근 심장 시술을 받은 뒤 건강 회복이 필요하다는 이유로 특검팀 소환 통보에 불응해 왔다. 앞서 특검팀은 한 총재가 3차 소환에 불응한 15일 “오늘 불출석했기 때문에 3차 소환 불응으로 처리했다”고 밝혔다. 이를 두고 특검팀이 한 총재에 대한 체포영장 청구 등 강제수사를 검토하고 있음을 시사한 것으로 풀이됐다.&lt;br /&gt;&lt;br /&gt;특검팀이 자진 출석 의사를 밝힌 한 총재에게 체포영장 청구까지 시사했던 만큼, 조사 뒤 구속영장을 청구할 가능성도 높다는 분석이 나온다. 한 검사장 출신 변호사는 “보통 피의자가 혐의를 부인할 경우, 대면 조사를 통해 꼼꼼히 혐의를 보완한다”며 “자진 출석하겠다고 밝혔는데도 체포영장 청구 의사를 내비친 것은 그만큼 혐의 입증에 자신이 있다는 것”이라고 말했다.&lt;br /&gt;&lt;br /&gt;한 부장검사 출신 변호사는 “한 총재는 고령인 데다가 심장 시술을 받은 점은 불출석 사유로 인정될 수 있어 영장 발부가 어려울 수 있다”면서도 “다만 집단적인 증거 인멸이나 도주 모의 정황 등이 있다면 출석 불응을 ‘시간 끌기’로 볼 수 있어 사정이 달라질 수 있다”고 설명했다.&lt;br /&gt;&lt;br /&gt;한 총재는 윤영호 전 통일교 세계본부장을 통해 2022년 권성동 국민의힘 의원에게 불법 정치자금 1억 원을 건넸다는 의혹을 받는다. 또 윤 전 본부장과 건진법사 전성배 씨를 통해 김 여사에게 통일교 현안 청탁과 함께 명품 가방 등을 전달하는 것을 최종적으로 승인했다는 의혹도 있다. 한 총재는 자신을 둘러싼 혐의를 부인하는 상황이다.&lt;br /&gt;&lt;br /&gt;정치자금법 위반 혐의를 받는 권 의원에 대한 구속영장 실질심사는 16일 오후 서울중앙지법에서 진행됐다. 특검팀 수사로 구속영장이 청구된 첫 현역 의원이다. 권 의원은 영장 심사에 출석하며 “이재명 특검의 수사는 거짓”이라며 혐의를 전면 부인했다.&lt;br /&gt;</description>
+			<pubDate>Tue, 16 Sep 2025 08:34:37 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211504</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211504</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211504.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/211507</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211507</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211507.jpg</media:thumbnail>
+			<dc:creator>임현경 기자</dc:creator>
+		</item>
+		<item>
+			<title>내란 특검, 김병기 민주당 원내대표 참고인 조사…17일 방문조사 예정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211505.jpg" alt="235.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;더불어민주당 김병기 원내대표가 9월 16일 국회에서 열린 원내대책회의에서 정기국회 회기 내 정부조직법 처리에 대한 발언을 하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;'국회 계엄 해제 의결 방해 의혹'을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 17일 김병기 더불어민주당 원내대표를 참고인 신분으로 불러 조사한다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&lt;/span&gt;&amp;nbsp;특검보도 이날 브리핑에서 "17일 오후 4시 김 원내대표에 대해 참고인 조사를 할 예정"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 여러 사정을 고려해 방문 조사 형식으로 12·3 비상계엄 전후 사실관계 등을 조사할 예정이라고 설명했다. &lt;br /&gt;&lt;br /&gt;또 오는 19일에는 김용현 전 국방부장관에 소환을 통보했다. 김 전 장관 측은 아직 특검에 출석 의사를 밝히지 않았다. &lt;br /&gt;&lt;br /&gt;박 특검보는 외환 의혹 관련 수사의 경우 수사 특성상 신중하게 접근하고 있다고 했다. 박 특검보는 "외환 의혹은 군사 기밀이나 국익과 밀접히 연관돼 있어 조금 더 신중하게 보고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "여러 의혹에 대한 사실관계 파악과 전체적인 조망이 필요한 상황"이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;또 "평양 무인기 의혹 외에도 아파치 헬기나 몽골 관련 의혹 등 여러 사건에 대한 수사가 동시에 진행되고 있다"며 개별 사건에 대한 기소가 임박한 상황은 아니라고 했다. &lt;br /&gt;</description>
+			<pubDate>Tue, 16 Sep 2025 08:32:07 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211505</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211505</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211505.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>서울변회, '창립 제118주년' 기념식···시민인권상에 '투명사회를 위한 정보공개센터'</title>
@@ -202,7 +212,7 @@
 		</item>
 		<item>
 			<title>손인혁 헌법재판소 사무처장 본사 방문</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211465.jpg" alt="568584.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;손인혁 헌법재판소 사무처장&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5031"&gt;손인혁&lt;/span&gt;(사법연수원 28기) 헌법재판소 사무처장이 9월 15일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;&lt;br /&gt;손 처장은 "10년 만에 헌법재판소로 돌아와 중책을 맡게 됐는데, 그때와 헌재의 위상이 달라진 것을 체감하고 있다"며 "무거운 책임감을 느끼며, 최선을 다해 임하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;손 교수는 연세대 법학과를 졸업하고 1996년 제38회 사법시험에 합격했다. 그는 사법연수원을 수료한 후 1999년 곧바로 헌법연구관보로 임용됐다. 이후 헌법연구관, 헌재소장 비서실장 등으로 20년 가까이 헌재에 몸담았다. 2016년부터는 연세대 로스쿨 교수로 재직하며 후학을 양성했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;손 처장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;(20기) 헌법재판소장이 헌재 연구관으로 파견됐을 당시 함께 헌재에 근무하며 인연을 맺은 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;헌재 사무처장은 정무직으로, 별도의 임기는 없다.&lt;/p&gt;</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211465.jpg" alt="568584.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;손인혁 헌법재판소 사무처장&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5031"&gt;손인혁&lt;/span&gt;(사법연수원 28기) 헌법재판소 사무처장이 9월 15일 취임 인사차 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;p&gt;&lt;br /&gt;손 처장은 "10년 만에 헌법재판소로 돌아와 중책을 맡게 됐는데, 그때와 헌재의 위상이 달라진 것을 체감하고 있다"며 "무거운 책임감을 느끼며, 최선을 다해 임하겠다"고 말했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;손 처장은 연세대 법학과를 졸업하고 1996년 제38회 사법시험에 합격했다. 그는 사법연수원을 수료한 후 1999년 곧바로 헌법연구관보로 임용됐다. 이후 헌법연구관, 헌재소장 비서실장 등으로 20년 가까이 헌재에 몸담았다. 2016년부터는 연세대 로스쿨 교수로 재직하며 후학을 양성했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;손 처장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&lt;/span&gt;(20기) 헌법재판소장이 헌재 연구관으로 파견됐을 당시 함께 헌재에 근무하며 인연을 맺은 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;헌재 사무처장은 정무직으로, 별도의 임기는 없다.&lt;/p&gt;</description>
 			<pubDate>Mon, 15 Sep 2025 08:14:39 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/211465</link>
@@ -228,16 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/211462</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211462</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211462.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>IAKL, 24일부터 32차 정기총회…"미래를 향한 원칙으로 회귀"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211460.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211460.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;/p&gt;세계한인법률가회(IAKL·회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5897"&gt;조영희&lt;/span&gt;)가 9월 24일부터 27일까지 서울 성북구 안암동 고려대 로스쿨에서 제32차 정기총회를 연다. &lt;br /&gt;&lt;br /&gt;이번 총회 주제는 '미래를 향한 원칙으로의 회귀'다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5897"&gt;조영희&lt;/span&gt;(56·사법연수원 27기) IAKL 회장은 홍보리플릿 환영사에서 "한국에서는 대통령을 포함한 고위 공직자들의 일련의 탄핵이 있었으며, 국제적으로는 세계 각지에서 끊이지 않는 갈등과 보호무역주의가 대두됐다"며 주제를 정한 배경을 설명했다.&lt;br /&gt;&lt;br /&gt;조 회장은 "법조계가 그 어느 때보다도 큰 고민과 책임감을 안게 됐다"며 "법조인 본연의 임무에 다시 주목하고 구성원 각자 소명을 돌아보며 미래 세대의 발전을 모색하는 의미 있는 시간이 되길 희망한다"고 말했다.&lt;br /&gt;&lt;br /&gt;총회 기간 국제중재, 암호화폐, 미국 내 이민·관세정책, AI 등 20여 개 주제로 학술 프로그램이 진행된다. 이외 중견 변호사들의 경력 개발 멘토링, 여성 변호사·사내 변호사 네트워킹 시간도 마련돼 있다. 행사에는 법관, 검사, 로스쿨 교수와 학생 등도 등록할 수 있다.&lt;br /&gt;&lt;br /&gt;1988년 설립된 IAKL은 한국을 비롯해 23개국에서 3500여 명의 회원을 보유하고 있다.</description>
-			<pubDate>Mon, 15 Sep 2025 06:05:38 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211460</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211460</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211460.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
