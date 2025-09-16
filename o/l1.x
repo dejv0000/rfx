@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>우상호 "대통령실, 대법원장 거취 논의한 바 없고 계획 없다"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211494.jpg" alt="211494.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;우상호 대통령실 정무수석 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;우상호 대통령실 정무수석은 9월 16일 "대통령실은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&amp;nbsp;&lt;/span&gt;대법원장 거취에 대해 논의한 바 없고 앞으로도 논의할 계획이 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;우 수석은 이날(16일) 용산 대통령실에서 기자간담회를 열고 조 대법원장 거취에 대한 대통령실 입장은 "없다"며 거듭 강조했다.&lt;br /&gt;&lt;br /&gt;앞서 강유정 대변인은 전날(15일) 브리핑에서 더불어민주당 소속 추미애 국회 법제사법위원장이 조희대 대법원장의 사퇴를 요구한 것과 관련해 "그 부분에 대한 시대적·국민적 요구가 있다면 그 요구에 대한 개연성과, 이유에 대해서 돌이켜봐야 할 필요가 있지 않느냐는 점에서 원칙적으로 공감하고 있다"고 말한 바 있다. &lt;br /&gt;&lt;br /&gt;우 수석은 이에 대해 "사법부 개혁의 취지에 원칙적으로 공감한다는 취지로 알고 있다"며 "사법부 개혁의 취지에 공감한다는 것은 대통령실이 일관되게 말해온 것"이라고 설명했다.&lt;br /&gt;&lt;br /&gt;그러면서 "사법 개혁 취지에 동의한다는 얘기는 지금의 사법부가 완벽하지 않고, 과거에 있었던 몇 가지 사안들이 있으니 그런 게 개선될 수 있는 제도적 개선 방안을 고민하는 게 맞다. 다만 대통령실이 개입해 사법부를 강제하고 그러지는 않겠다(는 것)"이라고 덧붙였다.&lt;br /&gt;&lt;br /&gt;우 수석은 이 대통령이 임명권력과 선출권력 간 서열이 있는 것처럼 언급하며 삼권분립을 흔들었다는 지적에는 "서열이라고 표현한 게 아닌 것으로 안다"며 "사법부의 독립이라는 것도 국민으로부터의 독립은 아니라는 취지다. (사법부도) 국민의 목소리를 듣고 국민이 원하면 반응해야 한다는 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "'사법부도 국민 목소리를 들어 국민적 우려에 대한 자체적인 답변을 해야 하는 것 아닌가'라는 문제의식을 가진 것은 맞다"며 "'입법부가 제도적으로 (사법 개편을) 설계한다고 할 때는 법원도 의견을 내고 그래야 되는 것 아닌가'라는 취지"라고 부연했다.</description>
+			<pubDate>Tue, 16 Sep 2025 02:35:45 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211494</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211494</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211494.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 대법 "준수기간 없는 전자장치 부착명령은 위법… 음주측정 결과도 증거능력 없어"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211490.jpg" alt="54637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;대법원이 전자장치 부착 대상자에게 부과된 '음주 금지 및 음주측정 응할 의무' 명령이 준수기간을 정하지 않았다면 위법하다고 판시했다. 이에 근거한 음주측정 결과 역시 증거능력이 없다고 판단했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 형사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관)는 8월 14일 도로교통법위반(음주운전) 및 전자장치부착법 위반 혐의로 기소된 A 씨 상고심에서 유죄를 선고한 원심을 파기하고 사건을 의정부지법으로 환송했다(&lt;b&gt;2025도7665&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2014년 성폭력 사건으로 징역 4년과 7년간 위치추적 전자장치 부착명령을 확정받았다. 형 집행 종료 후 2017년 12월부터 전자장치 부착명령이 집행되면서 △자정~새벽 5시 외출금지 △피해자 접근금지 △성폭력 치료프로그램 120시간 이수 등이 준수사항으로 부과됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이후 2024년 3월 서울북부지법은 검사의 청구를 받아들여 '혈중알코올농도 0.03% 이상 음주 금지 및 보호관찰관의 정당한 음주측정 요구에 응할 것'이라는 추가 준수사항을 결정했으나, 준수기간을 명시하지 않았다. 같은 해 4월 A 씨는 술을 마신 뒤 운전했고, 보호관찰관의 요구에 따라 음주측정을 한 결과 혈중알코올농도 0.107%가 확인됐다. 검찰은 이를 근거로 A 씨를 전자장치부착법 위반 및 음주운전 혐의로 기소했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1, 2심은 모두 유죄로 인정하고 징역 8개월을 선고했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;기간을 정하지 않은 위치추적 전자장치 부착명령 준수사항이 적법한지&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 사건을 파기환송했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원은 "전자장치부착법 제9조의2 제1항에 따르면 법원이 준수사항을 부과할 때는 반드시 준수기간을 정해야 한다"며 "이 사건 추가 준수사항은 준수기간을 정하지 않아 위법하므로 이를 위반했다고 하여 전자장치부착법위반죄로 처벌할 수 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;또한 "위법한 준수사항을 근거로 한 음주측정 요구는 정당하지 않고, 그에 따른 혈중알코올농도 측정치는 적법절차에 따르지 않고 수집된 증거로서 증거능력이 없다"며 "원심이 이를 근거로 음주운전 부분을 유죄로 인정한 것은 법리를 오해한 잘못"이라고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Tue, 16 Sep 2025 02:17:19 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211490</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211490</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211490.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>[신간소식] 탈덕수용소, 뻑가···베일에 싸인 '사이버 렉카' 추적기 《사이버 렉카 전쟁》 출간</title>
 			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211491.jpg" alt="5673373.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국내 최초로 해외 플랫폼 기반 익명 유튜버의 신원을 밝혀낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6894"&gt;정경석&lt;/span&gt;(사법연수원 28기) 법무법인 리우 변호사가 사이버 렉카 추적의 모든 과정을 담은&lt;b&gt; 《사이버 렉카 전쟁》&lt;/b&gt;(법률신문사 펴냄)을 출간했다.&lt;br /&gt;&lt;br /&gt;엔터테인먼트, 콘텐츠, 지식재산권 전문 변호사인 정 변호사는 아이브(IVE)의 장원영, 가수 강다니엘 등 유명 연예인들을 대리해 사이버 렉카 ‘탈덕수용소’를 상대로 한 소송에서 국내 최초로 익명의 운영자 신원을 밝혀내는 데 성공해 주목 받았다.&lt;br /&gt;&lt;br /&gt;책에는 ‘탈덕수용소’, ‘뻑가’ 등 무분별한 허위 사실 유포로 사회적 논란을 일으킨 사이버 렉카 운영자들의 신원을 특정하고 법적 책임을 묻기까지의 과정이 생생하게 기록됐다. 단순한 성공담을 넘어 익명성 뒤에 숨은 가해자에게 책임을 묻는 것은 피해자의 당연한 권리이며, 표현의 자유에는 반드시 책임이 따른다는 메시지를 전한다.&lt;br /&gt;&lt;br /&gt;사이버 렉카를 추적하는 과정에서 드러난 국내 법적 절차의 한계와, 헤이그 증거조사협약을 통한 사법공조 절차의 실패 과정이 여과없이 담겼다. &lt;br /&gt;&lt;br /&gt;교착상태를 풀어낸 미국 법원의 ‘디스커버리(Discovery)’ 제도를 활용한 과정 역시 구체적으로 소개된다. 익명성에 가려진 가해자에게 실질적인 법적 책임을 물을 수 있다는 선례를 따라, 사이버 명예훼손으로 고통받는 피해자들은 물론, 관련 사건을 다루는 법률 실무가, IT 및 엔터테인먼트 업계 종사자들에게 법적 대응의 새로운 길을 제시한다.&lt;br /&gt;&lt;br /&gt;정 변호사는 악플 문제의 심각성을 느껴 법무법인 내에 ‘클린인터넷센터’를 설립해 활동해 왔다. 여러 유명인의 악플 대응 업무를 수행하던 중 ‘탈덕수용소’ 사건을 맡게 됐다는 정 변호사는 이 책을 통해 사이버 명예훼손의 고통 속에서 법적 대응을 망설이는 피해자들에게 희망과 용기를 주고, 구체적인 절차와 방법을 제시해 실질적인 도움을 주고자 했다.</description>
 			<pubDate>Tue, 16 Sep 2025 01:53:42 -0000</pubDate>
@@ -218,26 +238,6 @@
 			<link>https://www.lawtimes.co.kr/news/211445</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211445</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211445.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>대한법률구조공단, 전 직원 연봉 감액 합의…4년 만에 채용 재개</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211461.jpg" alt="4748.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;대한법률구조공단이 재정 건전성 확보를 위해 전 직원의 연봉을 일부 감액하기로 했다. 공단은 이를 통해 확보한 재원으로 중단됐던 신규 공개 채용을 4년 만에 재개할 계획이다. 대한법률구조공단은 15일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2697"&gt;김영진&amp;nbsp;&lt;/span&gt;이사장과 양대 노조(대한법률구조공단 노동조합·변호사 노동조합) 위원장이 참석한 가운데 ‘노사·노노 화합 선언식’을 열고 이같이 합의했다고 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;이번 합의는 누적된 퇴직 적립금 고갈로 재무 건전성이 악화된 공단 상황을 개선하기 위해 추진됐다. 먼저 변호사 노조 대표자가 임금 감액에 동의했고, 이후 대한법률구조공단 노조가 조합원 투표를 진행했다. 투표에는 조합원의 약 90%가 참여했고, 찬성률 86.28%로 안건이 가결됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 노사 합의를 통해 공단은 정부의 공공기관 직무성과 중심 보수 체계 개편안 일부를 도입하게 됐다. 공단 안팎에서는 이번 합의가 장기간 지속된 노사 및 노노(勞勞) 갈등을 해소하고 협력 관계를 구축하는 계기가 될 것으로 보고 있다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;김 이사장은 “조직의 위기 극복을 위해 구성원 모두가 희생하여 책임을 나누는 모습이야말로 진정한 공공성의 실천”이라고 말했다. 곽은석 노조위원장은 “노사와 노노가 갈등을 넘어 연대하는 새로운 문화를 만들어가겠다”고 밝혔다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="22119"&gt;박종항&lt;/span&gt;(41·사법연수원 42기) 변호사 노조위원장도 “희생이 아닌 미래를 위한 투자”라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 15 Sep 2025 05:55:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211461</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211461</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211461.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>이 대통령 연수원 동기 차지훈 변호사, 주UN 한국대사 공식 임명</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211448.jpg" alt="34636.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;차지훈 주UN한국대표부 대사.&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;주UN한국대표부 대사에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5692"&gt;차지훈&lt;/span&gt;(62·사법연수원 18기) 변호사가 공식 임명됐다.&lt;br /&gt;&lt;br /&gt;외교부는 15일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;정부 초대 주UN 대사로 차 전 &lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt; 변호사를 임명했다고 발표했다. 주UN 대사는 주재국 임명 동의를 뜻하는 아그레망 절차가 필요하지 않아 차 변호사는 즉시 미국 뉴욕에 있는 UN 본부에 부임할 수 있다.&lt;br /&gt;&lt;br /&gt;전남 순천 출신인 차 대사는 사법연수원 18기로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령과 동기다. 2009년부터 2017년까지 경기도 성남시 고문변호사를 맡았다. 2020년 '친형 강제입원 발언' 관련 공직선거법상 허위사실공표 혐의로 재판 중 이 대통령을 변호해 대법원에서 무죄 판결을 받아냈다.&lt;br /&gt;&lt;br /&gt;한국은 9월 유엔 안전보장이사회 의장국을 맡는다. 차 대사는 안보리에서 활동을 시작할 것으로 보인다. 안보리는 15개 이사국이 매달 돌아가며 의장국이 돼 회의를 소집하고 진행한다. 9월 23일에는 제80차 유엔총회에 이 대통령과 동행할 수 있다.</description>
-			<pubDate>Mon, 15 Sep 2025 04:19:31 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211448</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211448</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211448.jpg</media:thumbnail>
 			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
