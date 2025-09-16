@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[관가 인사이드]두 어머니 모시고 임명식 참석한 원민경 여가부 장관</title>
+      <link>https://www.chosun.com/national/education/2025/09/17/QCIKTOM4RFBXJGRCEGXO7BOUSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/17/QCIKTOM4RFBXJGRCEGXO7BOUSE/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 22:32:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRWJMKVPUFCRRMLLBT3FUDGOXI.png"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 여성가족부 장관이 15일 장관 임명식에서 이재명 대통령과 기념 촬영을 하고 있다. 이 대통령 오른쪽에는 원장관의 시어머니와 친어머니./유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부 출범 100여 일 만에 1기 내각 구성이 완료된 가운데 지난 15일 원민경 여성가족부 장관의 임명장 수여식이 관가에서 화제입니다. 원 장관이 친어머니와 시어머니를 함께 모시고 임명식에 참석했기 때문입니다. 이날 이재명 대통령은 원 장관에게 임명장을 수여한 뒤 두 어머니에게 각각 꽃다발을 전하며 축하 인사를 건넸습니다. 이 대통령은 “어느 분이 시어머니이신가요?”라고 물으며 웃었고, 이를 지켜보던 강훈식 대통령 비서실장은 “장관님과 (친어머니가) 너무 똑같으셔서, 누가 봐도 알 것 같아요”라고 하는 등 행사장 이목이 온통 원 장관 가족에게 집중됐습니다. &lt;br&gt;&lt;br&gt;장관이 임명식에 양가 어머니를 대동한 것은 매우 이례적인 일입니다. 대부분 배우자와 함께 참석했고, 종종 자녀나 양가 어머니 가운데 한 명을 데려온 경우는 있었습니다. 이번 내각에서도 한성숙 중소벤처기업부 장관이 친어머니와 동행했는데, 시어머니·친어머니와 함께한 사람은 원 장관뿐이었습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVZZO3F2LZPHTIDJ5BBOI3NCUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 15일 용산 대통령실에서 임명장 수여식 참석자 및 가족들과 기념촬영을 하고 있다. 
+    이날 이 대통령은 이석연 국민통합위원장, 김진애 국가건축정책위원장, 김호 농어업농어촌특별위원장에게 위촉장을, 최교진 교육부 장관, 원민경 여가부 장관, 차정인 국가교육위원장, 주병기 공정거래위원장, 이억원 금융위원장에게 임명장을 수여했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원 장관 측은 16일 본지에 “평소 시어머니와 친정어머니에게 감사한 마음이 각별했기 때문에 영광스러운 자리에 가장 존경하는 두 분을 모시고 간 것”이라고 했습니다. 원 장관 측은 “시어머니는 일찍이 남편과 사별해 삼 형제를 홀로 키우고 며느리인 저를 응원해준 지원군이었고, 초등학교 교사 출신인 친어머니는 군에서 사고로 막내아들을 잃은 이후에도 딸인 저의 사회 활동을 아낌없이 지원해주셨다”고 했습니다. 맞벌이 부부인 원 장관은 변호사로 활동하던 시절 두 딸의 양육 등에서 양가 어머니의 도움을 많이 받았다고 합니다. &lt;br&gt;&lt;br&gt;이재명 정부는 여성가족부를 성평등가족부로 확대하면서 고용노동부의 ‘여성고용정책’도 여가부로 이전합니다. 여성들이 경력 단절 없이 사회 활동을 할 수 있게 돕는 정책을 총괄하게 된 것이죠. 정부 안팎에선 “원 장관이 본인의 경험을 바탕으로 맞벌이 부모들의 고충을 이해하고 해결하는 데 적극적으로 나서주면 좋겠다”는 기대가 나옵니다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MTT2GUX7FRGULKO2KHJG3X43MI.png?auth=26181792f95407bd4dd1f2816aabd70eb801f0b603aebf0471442faf122777de&amp;smart=true&amp;width=1338&amp;height=753" type="image/png" height="753" width="1338">
+        <media:description type="plain">원민경 여성가족부 장관이 15일 장관 임명식에서 이재명 대통령과 기념 촬영을 하고 있다. 이 대통령 오른쪽에는 원장관의 시어머니와 친어머니./유튜브 캡처</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>거리의 무법자 ‘청소년 픽시 자전거’… 경찰도 비상</title>
       <link>https://www.chosun.com/national/national_general/2025/09/17/YOSBI6BRHZH7BHMXK45SPYIDUQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/YOSBI6BRHZH7BHMXK45SPYIDUQ/</guid>
@@ -822,15 +835,6 @@
       <description/>
       <pubDate>Mon, 15 Sep 2025 15:55:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U535VUJ7TJCFNGSDSZ7276YFX4.png"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 15일 대통령실의 ‘조희대 대법원장 사퇴’ 발언에 대해 공식 입장을 내놓지 않았다. 대통령실이 민주당의 사퇴 요구에 동조했다는 보도에 ‘오독·오보’라며 거리를 둔 만큼 직접적인 대응은 하지 않는다는 것으로 풀이된다. 다만 여권에서 대법원장 사퇴를 계속 주장하고 있어 대법원은 대책을 마련하기 위해 논의를 이어간다는 방침이다.&lt;br&gt;&lt;br&gt;대통령실 발언이 알려진 이날 오전 대법원 법원행정처 실장급 간부들은 예정돼 있던 회의에서 대법원장 사퇴 요구와 관련한 논의를 한 것으로 전해졌다. 법원행정처 한 관계자는 “대법원 차원의 대응 방법 등을 논의했지만, 일단 별도 메시지를 내지 않고 분위기를 지켜보는 쪽으로 정리된 것으로 안다”며 “지난주 전국 법원장 회의에서 이미 ‘대법관 증원’ 등에 우려를 나타낸 만큼 집단행동에 다시 나서기는 어렵지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POIXKCATHVB6FMU7TTXDYGNNKM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원행정처 고위 관계자는 “법원장 회의 후 여권의 반발은 있었지만, 대통령실이 직접 (대법원장 사퇴와 관련해) 발언할 줄은 전혀 예상하지 못했다”면서 “대통령실 입장도 수위를 낮추고 있는 것을 보면 진짜 대법원장직을 사퇴하라는 압박은 아니었던 것으로 보인다”고 했다. 다만 “여권이 대법원장 사퇴를 강하게 주장하고 있어서 우려를 갖고 대책을 고심 중”이라고 했다. 민주당의 대법원장 사퇴 요구에 대해 대통령실이 “원칙적으로 공감한다”고 밝혔다가 논란이 커지자 “국민적 요구가 있다면 돌아봐야 한다는 의미”라며 수습에 나선 것을 지목한 것이다.&lt;br&gt;&lt;br&gt;일선 법원에서도 어수선한 분위기가 이어졌다. 서울중앙지법 한 관계자는 “하루 종일 대통령실 발언 관련 뉴스를 판사들과 주고받으며 대법원 분위기가 어떤지를 탐색했다”면서 “참담하다는 사람도, 화가 난다는 사람도 있었다”고 했다. 지방의 한 부장판사는 “이재명 대통령의 공직선거법 사건 파기환송 판결에 대한 보복이 이 정도로 노골적일 줄 몰랐다”며 “정치권력이 사법부를 흔드는 것은 훗날 민주주의에 되돌릴 수 없는 상처로 남을 것”이라고 했다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 오후 퇴근길에서 “정치권의 사퇴 요구에 대한 입장을 밝혀달라”는 취재진의 질문에 아무런 답을 하지 않고 자리를 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대만 사기범죄 처벌 대폭 강화… 최대 7년→12년형으로</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/16/ZLEANLOI5VEQFDFOFPLYYNNSEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/ZLEANLOI5VEQFDFOFPLYYNNSEA/</guid>
-      <dc:creator>이기우 기자, /타이베이=류재민 특파원</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Sep 2025 15:49:00 +0000</pubDate>
-      <content:encoded>대만은 보이스피싱 등 사이버 사기 규모가 날로 커지자 정부 차원에서 총력전을 벌이고 있다. 대만 입법원(국회)은 지난 7월 ‘4대 사기 방지 패키지’ 법안을 통과시켰다. 사기 범죄 예방법을 새로 제정하고 통신 보안 감시법·형사소송법·자금세탁방지법 등 기존 법률도 개정해 사기 범죄에 대한 처벌을 대폭 강화했다.&lt;br&gt;&lt;br&gt;대만에서 기존 사기죄는 최대 5년, 가중 사기죄는 1~7년의 징역형을 선고받았다. 그러나 지난달 처음 시행된 사기범죄예방법에 따르면 사기 피해 액수에 따라 형벌이 가중된다. 피해 액수가 500만 대만달러(약 2억3000만원)를 초과할 경우 3~10년, 1억 대만달러(약 46억원)를 초과할 경우 5~12년의 징역형에 처할 수 있다. 범죄 조직의 총책에 대한 처벌도 5~12년의 징역형으로 상향됐다. 기존엔 형기의 절반을 채우면 됐던 가석방 요건도 형기 3분의 2 이상을 채우도록 했다. 사기죄를 3번 이상 저지르면 가석방 대상에서 제외된다.&lt;br&gt;&lt;br&gt;사기 범죄 추적도 용이하도록 법을 바꿨다. 개정된 법에 따라 GPS(위성항법장치), 자율 주행 차량에 대한 위치 추적, 열화상 카메라 등 최신 기술을 이용해 범죄 조직이나 이들에 의해 납치된 피해자의 행방을 찾을 수 있도록 했다. &lt;br&gt;&lt;br&gt;자금 세탁에 주로 활용되는 가상 자산 업체에 대한 규제도 강화했다. 가상 화폐 관련 기업이나 직원은 자금세탁방지 등록 절차를 거쳐야 하고, 이를 이행하지 않으면 최대 2년 징역형에 처해질 수 있다. 대포 통장 명의를 제공했다가 적발된 사람들은 5년간 ATM에서 하루 최대 1만 대만달러(약 46만원)만 인출·이체할 수 있도록 제한된다.&lt;br&gt;&lt;br&gt;대만은 2004년 세계 최초로 사기 전용 신고·상담 번호 165 콜센터를 열어 22년간 운영하고 있다. 지난달 22일 대만 타이베이 베이터우구에 있는 콜센터 사무실에 들어서니 컴퓨터 모니터 앞에 헤드셋을 낀 상담원들이 줄지어 앉아 있는 모습이 보였다. 165센터는 은행과의 업무 연동을 통해 사기가 의심되는 계좌를 곧바로 은행에 통보한다. 이후 은행에서 이를 확인하고 계좌 동결을 하는 ‘원스톱 시스템’을 갖추고 있다. 계좌 동결을 통해 사기 피해를 막은 규모가 3억 대만달러(약 148억원)가 넘는다고 콜센터 측은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>추석 앞두고 코로나 환자 10주 연속 증가</title>
