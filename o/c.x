@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>용인 영동고속도로 마성터널서 버스 화재…11명 중경상 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/16/MOM4VWYYQVEANDP5DEXLV4YJR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/16/MOM4VWYYQVEANDP5DEXLV4YJR4/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 13:59:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KD2CX4PZVIEBDH4CP5DMEJLAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 경기 용인시 처인구 영동고속도로 강릉방향 마성터널에서 버스 화재가 발생해 소방대원들이 화재를 진압하고 있다. /경기도소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 9시 17분쯤 경기도 용인시 처인구 영동고속도로 강릉 방향 마성터널을 지나던 시외버스에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 1명이 크게 다치고 10명은 연기를 마셔 치료를 받고 있다. 부상자는 더 늘어날 가능성이 있다.&lt;br&gt;&lt;br&gt;사고는 인천에서 충북 진천으로 향하던 시외버스가 단독사고로 인해 불이 나면서 시작됐다.&lt;br&gt;&lt;br&gt;소방당국은 대응 2단계를 발령하고, 장비 24대와 인력 72명을 동원한 진화작업에 나서 1시간여 만인 오후 10시 25분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 자세한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>치파오 입은 중국 여성들, 성산 일출봉서 춤 ‘갑론을박’</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/16/4AMOI4L2E5FEPBQLIZ57UURPWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/4AMOI4L2E5FEPBQLIZ57UURPWY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 13:20:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OR5OHQN4RHRNJXVNVA4V3VUP4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국의 전통 의상인 분홍색 치파오를 입은 여성들이 성산일출봉 동암사 인근에서 춤을 추고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국인들이 전통 의상을 입고 성산일출봉 동암사 인근에서 단체 춤을 추는 장면이 포착됐다. &lt;br&gt;&lt;br&gt;16일 한 온라인 커뮤니티에는 ‘성산일출봉에서 단체로 춤추는 중국인들’이라는 제목과 함께 영상 하나가 올라왔다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면, 중국의 전통 의상인 분홍색 치파오를 입은 여성 10명이 성산일출봉 동암사 인근에서 두 줄로 나란히 중국 음악에 맞춰 춤을 추는 모습이 담겼다. 여성들 앞에서는 모자와 선글라스를 쓴 한 남성과 또 다른 남성이 함께 ‘예술단’이라고 적힌 빨간색 행사용 현수막을 들고 있었다. &lt;br&gt;&lt;br&gt;이 영상은 여러 온라인 커뮤니티와 소셜미디어(SNS) 등에 널리 퍼졌고, 네티즌들은 엇갈린 반응을 보였다. 네티즌들은 “백두산에서는 태극기도 못 꺼내는데 제주도에서는 난리 났다” “남의 나라 와서 왜 저러는 걸까” “그냥 춤추는 거면 괜찮은데 노래 크게 틀고 하는 건 좀 아닌 것 같다” 등의 의견을 내놨다. &lt;br&gt;&lt;br&gt;반면 일부는 “한국 사람들도 미국 같은 해외 가서 태권도 하고 그러는데 그거랑 비슷한 것 아니냐” “요즘 중국 사람들 단체 관광하면서 명소에서 저렇게 춤추는 게 유행이라더라. 물론 저런 외진 곳에서 자기들끼리 하는 걸 뭐라고 하겠나” “그냥 촬영용 같다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;제주를 찾는 외국인 관광객은 점점 늘어나고 있다. 지난 1월 제주도관광협회에 따르면 지난해 제주를 찾은 외국인 관광객은 190만7608명으로 코로나 이전인 2019년 이후 5년 만에 100만명을 넘어섰다. 특히 중국인 관광객이 130만4359명으로 전체 외국인 관광객의 68.4%를 차지했다. 올해 1~8월 제주를 찾은 외국인 관광객은 150만 9498명으로 전년 동기 130만 5895명과 비교해 20만 3603명(15.6%) 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 금속 제조 공장서 40대 외국인 노동자 기계에 끼여 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/16/INRIN6C2X5GN3KVJVIGE2MXO4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/16/INRIN6C2X5GN3KVJVIGE2MXO4U/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 13:22:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FV5STKOYAM33ANSFO7CJEDL43M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 금속 제조 공장에서 40대 외국인 노동자가 기계에 끼여 숨졌다.&lt;br&gt;&lt;br&gt;16일 인천경찰청 형사기동대에 따르면 이날 오후 2시 50분쯤동구 만석동에 있는 금속 제조 공장에서 캄보디아 국적 40대 A씨가 프레스기에 끼였다.&lt;br&gt;&lt;br&gt;이 사고로 119 구급대가 출동했으나 A씨가 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;노동 당국은 해당 공장이 근로자 5인 이상 사업장인 점을 고려해 중대재해 처벌 등에 관한 법률(중대재해처벌법)을 적용할 방침이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 금속으로 된 원형 모양의 봉을 깎는 작업을 하다가 사고를 당한 것으로 보고 구체적인 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A 씨의 시신 부검을 의뢰하고, 내부 CCTV를 확인해 사고 당시 안전관리자가 있었는지 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산지하철 노사 단체협상 잠정 합의…17일 파업 철회 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/16/ZBW7GC5EFNAJZPJL5BTFAQRMCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/16/ZBW7GC5EFNAJZPJL5BTFAQRMCU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 12:24:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHDVPHC543YHVKJ3QDOQXLZAMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 부산 금정구 노포차량 사업소에서 박명도 부산교통공사 경영지원 본부장(연단 앞쪽)과 이상화 부산지하철노조 사무국장이 교섭 합의를 하고 기념사진을 찍고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지하철 노사가 16일 단체협상 최종교섭에서 잠정 합의안을 마련했다.&lt;br&gt;&lt;br&gt;노조는 17일 오전 첫차부터 시작하려던 파업을 철회할 전망이다.&lt;br&gt;&lt;br&gt;부산지하철 노사는 이날 오후 3시부터 부산 금정구 노포차량기지 홍보장에서 6시간에 이르는 협상을 벌여 잠정 합의안을 도출했다.&lt;br&gt;&lt;br&gt;합의안의 주요 내용은 △정부 지침에 따른 임금 3.0% 인상 △통상임금 범위 변경에 따른 법정수당 증가분 별도 지급 △어려운 재정 여건을 감안해 임금 소급분과 평가급 내년 1월 지급 △퇴직금 산정 시 1년 미만 근무자 근속연수 일할 계산 △가족수당 지급 기준 공무원과 동일하게 변경 등이다.&lt;br&gt;&lt;br&gt;부산교통공사 자회사인 부산도시철도운영서비스 노사도 이날 최종교섭에서 내년부터 주5일제 근무 도입과 인력 50명 충원 등에 잠정 합의했다.&lt;br&gt;&lt;br&gt;이번 잠정합의로 부산도시철도는 17일 첫차부터 정상 운행한다. 노사는 향후 열리는 노조 대의원 대회와 조합원 총투표를 거쳐 합의안에 최종 서명할 예정이다. 최종 타결되면 부산교통공사는 6년 연속 무분규 기록을 이어가게 된다.&lt;br&gt;&lt;br&gt;이병진 부산교통공사 사장은 “이번 잠정합의는 노사가 시민을 최우선으로 두고 교섭에 임해 거둔 결실”이라며 “앞으로도 건강한 노사문화를 바탕으로 안전하고 편리한 도시철도 서비스를 제공하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국민참여재판에 수사 검사 못 가게… 대검 지침 개정</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/16/VXQDUWBI65GB3EFFOU7WFD7G3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/16/VXQDUWBI65GB3EFFOU7WFD7G3E/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 12:33:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWE3SZCYEIKCQBJKY2RVVUW7UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 국민참여재판에서 수사 검사가 공판에 참여할 수 없도록 예규를 수정한다. 이재명 정부의 ‘수사·기소 분리’ 원칙과 정성호 법무장관의 직무대리 제도 개선 지시에 따른 것이다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 대검은 ‘국민참여재판 공소수행에 관한 지침’ 개정 작업에 착수했다. 국민참여재판에 수사 검사가 직무대리 형태로 공판에 참여하는 것을 막는다는 취지다.&lt;br&gt;&lt;br&gt;현재 지침은 인사로 전출된 수사 검사가 기존에 수사했던 사건의 국민참여재판 공판 준비 기일과 배심원 선정기일, 공판 기일에 참석하는 것을 원칙으로 한다. 대검 공판송무부는 작년 11월 수사 검사가 국민참여재판에 적극 참여하도록 일선 검찰청에 지시하기도 했다. &lt;br&gt;&lt;br&gt;그러나 정 장관이 수사 검사가 직무대리 발령을 받아 해당 사건의 재판에 참여하는 것을 원칙적으로 금지하면서, 대검도 예규 손질에 나섰다. 앞서 법무부는 성범죄나 아동학대 사건에서 이미 담당 검사와 신뢰관계가 형성된 피해자에 대한 증인신문이 필요한 경우 등 특수한 상황에서만 제한적으로 직무대리를 허용하기로 했다.&lt;br&gt;&lt;br&gt;검찰 내부에서는 우려의 목소리도 나온다. 사건을 가장 잘 아는 수사 검사가 직무대리로 국민참여재판 등 공판에 참여하지 못하면 공소 유지에 허점이 생길 수 있다는 것이다.&lt;br&gt;&lt;br&gt;앞서 이화영(전 경기도 평화부지사)씨의 국회 위증 및 쪼개기 후원 사건의 수사와 기소를 맡았던 부산고검 창원지부 서현욱 검사는 전날 검찰 내부망 이프로스에 대검의 국민참여재판 직무대리 불허 사실을 밝히며 “재고해달라”고 요청하기도 했다. 이씨 재판은 국민참여재판으로 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>촌각 다투는데…이재석 경사 실종 후 구조 장비 투입에 38분 소요</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/16/KTAHTJFVXZF6ZFKW4M6UY3TQQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/KTAHTJFVXZF6ZFKW4M6UY3TQQU/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Sep 2025 10:40:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CH36HUH4QTENQISXM3TI5EGJAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 인천 서구 인천해양경찰서에서 영흥도 갯벌에 고립된 70대 중국인을 구조하다 숨진 故 이재석 경사의 영결식이 엄수되고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 숨진 고(故) 이재석(34) 경사가 바다에서 실종된 후 실질적인 구조 장비가 투입되기까지 40분 가까이 소요된 것으로 드러났다.&lt;br&gt;&lt;br&gt;16일 정희용 국민의힘 의원실이 확보한 해경 상황보고서와 무전 녹취록을 보면 지난 11일 오전 3시 9분쯤 민간 드론 순찰업체는 “(이 경사가) 육지로 이동 중 물이 많이 찼다”며 해경 영흥파출소에 추가 인원 투입을 권고했다.&lt;br&gt;&lt;br&gt;파출소 측은 즉시 근무자 4명을 현장에 투입해 6분 만에 수색을 시작했다. 그러던 중 오전 3시 27분쯤 드론 순찰업체가 “이 경사의 위치를 놓쳤다”고 전달한 시점부터 촌각을 다투는 긴급 상황이 벌어졌다.&lt;br&gt;&lt;br&gt;당시 수색 작업에 투입된 한 직원은 밀물이 빠르게 차오르는 상황을 토대로 “동력 서프보드라도 있어야 할 것 같다”며 “무동력 가지고 막 할 게 아닌 거 같다”는 무전을 남겼다.&lt;br&gt;&lt;br&gt;동력 서프보드는 후미의 제트펌프를 토대로 최대 시속 30km까지 이동할 수 있는 자체 동력 장비로 조이스틱 형태의 컨트롤러로 쉽게 조종할 수 있고 수심이 얕은 곳에서 활용도가 높은 편이다.&lt;br&gt;&lt;br&gt;이 경사가 실종된 급박한 상황을 고려할 때 기동성 좋은 동력 서프보드를 활용하는 것은 자연스러운 판단이었다. 하지만 정작 장비 투입 과정에서 40분에 가까운 시간이 소요된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;무전 녹취록에는 구조 장비를 준비해 현장으로 이동하는 과정이 매끄럽게 진행되지 못한 정황이 담겼다.&lt;br&gt;&lt;br&gt;당시 무전으로 장비 지원을 요청받은 한 직원은 오전 3시 32분쯤 “이제 이동할 건데 지금 (해상 순찰차) 예비키를 잘 못 찾겠다”며 난색을 드러냈다.&lt;br&gt;&lt;br&gt;구조·구급 장비가 보관된 순찰차는 이 경사가 출동할 때 사용했는데 문이 잠긴 상태여서 예비키가 필요한 상황이었다.&lt;br&gt;&lt;br&gt;해양경찰청은 당초 “동력 서프보드 예비키를 찾지 못한 것 같다”고 밝혔다가 “순찰차 예비키를 지칭한 것으로 확인됐다”고 뒤늦게 정정했다.&lt;br&gt;&lt;br&gt;무전 과정에서 “동력 서프보드 바람을 빼서 차량 뒷좌석에 실어야 한다”거나 “오리발 챙겨서 개인 차량으로 오는 게 좋을 것 같다”는 등 대화가 오가기도 했다.&lt;br&gt;&lt;br&gt;동력 서프보드 공기 주입과 운반, 순찰차 내 구조·구급 장비 확보 상황 등을 고려할 때 관련 장비를 즉시 투입하기에 미비했던 것으로 추정된다.&lt;br&gt;&lt;br&gt;실제로 파출소 측이 실질적인 구조 장비인 동력 서프보드를 투입해 수색을 실시한 시각은 오전 4시 5분으로, 드론 순찰 업체가 이 경사의 위치를 놓쳤다고 알린 시점보다 38분가량 뒤였다.&lt;br&gt;&lt;br&gt;이 경사 순직 사고와 관련해 해경 측이 다수의 관련 규정을 어긴 정황이 드러난 데 이어 신속한 현장 대응에도 미진한 부분이 나타난 셈이다.&lt;br&gt;&lt;br&gt;군 열상감시장비(TOD)를 토대로 수색 지점이 공유됐으나 구조 헬기가 잘못된 방향으로 이동해 10분 넘게 혼선을 빚은 사실도 무전 기록에서 드러났다.&lt;br&gt;&lt;br&gt;당시 무전에는 “헬기의 위치가 잘못됐다”, “동서남북 기준으로 정확한 위치를 다시 보내달라” 등의 교신 내용이 담겼다.&lt;br&gt;&lt;br&gt;엔진 과열로 고무보트에 시동이 걸리지 않거나 동력 서프보드와 드론의 배터리가 방전돼 일시적으로 구조 작업에 차질이 빚어지기도 했다.&lt;br&gt;&lt;br&gt;앞서 영흥파출소는 2인 출동이라는 내부 규정을 지키지 않았을 뿐만 아니라 직원들에게는 규정보다 많은 휴게시간을 같은 시간대에 부여한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;이 경사는 이들의 휴게시간인 당일 오전 2시 7분쯤 “갯벌에 사람이 앉아 있다”는 드론 순찰 업체의 신고를 받고 현장에 혼자서 출동했다가 구조 과정에서 실종됐고 결국 숨졌다.&lt;br&gt;&lt;br&gt;영흥파출소는 사고 당일 이 경사가 현장에 출동한 지 80여분 만인 오전 3시 30분에야 상급 기관으로 관련 내용을 보고한 것으로도 파악됐다.&lt;br&gt;&lt;br&gt;해경 관계자는 “무전 녹취록 등을 토대로 장비 관리 실태와 현장 대응 상황이 적절했는지 조사가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>권성동 구속 심사, 4시간 30여분만 종료…서울구치소서 대기</title>
       <link>https://www.chosun.com/national/court_law/2025/09/16/Y5AJCG5IGNHRTHK2SYPOGWTLKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/16/Y5AJCG5IGNHRTHK2SYPOGWTLKI/</guid>
@@ -859,26 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 당진시 KG스틸 공장에서 50대 하청업체 근로자가 작업 중 추락해 숨졌다.&lt;br&gt;&lt;br&gt;15일 고용노동부 등에 따르면 KG스틸 하청업체 소속 A(54)씨는 이날 오전 9시 30분쯤 쿨링타워 설비 부품을 인양하던 중 갑자기 줄이 끊어지면서 부품과 부딪혔다. 이 과정에서 A씨가 서 있던 난간도 파손, A씨가 9.4m 아래로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 곧바로 인근 병원으로 옮겨졌으나 사고 발생 9시간 만인 오후 6시 32분쯤 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 관계자 등을 상대로 정확한 사고 경위를 조사 중이다. 고용노동부 천안지청도 이날 사고 사업장 작업 중지 조치 후 사업안전보건법과 중대재해법 위반 여부 등에 대해 조사에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“예쁘다”… 車창문 내리고 女초등생에 말 건 70대 경찰 조사</title>
-      <link>https://www.chosun.com/national/incident/2025/09/15/3JUET34QJRCPRNIARQQ4APWVL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/3JUET34QJRCPRNIARQQ4APWVL4/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>전북 군산에서 70대 남성이 하교 중이던 초등학생에게 “예쁘다”는 취지의 말을 건네 경찰 조사를 받고 있다.
-15일 군산경찰서에 따르면 지난 10일 “이틀 전 오후 3시쯤 군산시 모 초등학교 인근에서 한 할아버지가 초등학생인 딸에게 말을 걸었다”는 부모의 신고가 접수됐다.
-</description>
-      <pubDate>Mon, 15 Sep 2025 12:35:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산에서 70대 남성이 하교 중이던 초등학생에게 “예쁘다”는 취지의 말을 건네 경찰 조사를 받고 있다.&lt;br&gt;&lt;br&gt;15일 군산경찰서에 따르면 지난 10일 “이틀 전 오후 3시쯤 군산시 모 초등학교 인근에서 한 할아버지가 초등학생인 딸에게 말을 걸었다”는 부모의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;해당 남성은 당시 차량을 몰다 창문을 내리고 학생에게 말을 건 뒤 그대로 현장을 떠난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 인근 방범카메라(CCTV) 등을 통해 A씨의 차량을 특정했고, 주거지에서 그를 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “아이가 예뻐서 예쁘다는 취지로 말 만하고 지난 간 것일 뿐 유괴하려던 것은 아니다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 추가 조사를 거쳐 입건 여부를 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 몸속을 누비는 트랜스포머 로봇… 영화 속 상상이 현실이 된다면?</title>
-      <link>https://www.chosun.com/national/nie/2025/09/15/UANH5LSRBZHAJNJR6RHP4QMLOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/15/UANH5LSRBZHAJNJR6RHP4QMLOY/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Sep 2025 15:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3LPE2FMMJBEXCGULOQ225KNYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;김민준·정이숙 지음 l 출판사 동아시아 l 가격 1만5000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;과학 영화나 소설 속 발명품이 우리 생활 속에 실제로 등장한 경우가 많아졌습니다. 작은 휴대전화로 사진을 찍고, 영화를 보고, 게임을 하는 일도 불과 수십 년 전만 해도 상상하기 힘들었지요. 저자인 김민준 교수(미국 서던메소디스트대 기계공학과)는 나노로봇 분야에서 이 같은 발전을 이끌고 있습니다. 그는 세계에서 처음으로 스스로 모양을 바꾸며 인체 내부를 탐사하는 ‘트랜스포머’ 나노로봇을 개발했어요. 이 책은 영화 같은 상상을 현실로 바꾸는 나노로봇 과학자의 도전기입니다.&lt;br&gt;&lt;br&gt;저자가 만드는 나노로봇은 머리카락 굵기(약 0.1㎜)보다도 훨씬 더 작습니다. 현미경으로만 볼 수 있을 정도죠. 김 교수는 이 나노로봇이 혈관 속을 돌아다니며 막힌 혈관을 뚫거나, 필요한 곳에 약을 정확하게 전달할 수 있게 만들었어요. 그런데 사람 몸속에는 혈액, 콧물 같은 다양한 액체가 흐르고 있어서 로봇이 한 가지 모양만 가지고는 제대로 움직이기 어렵죠. 마치 아스팔트길만 있는 게 아니라 모래길, 진흙길, 바위길이 섞여 있는 것과 비슷합니다.&lt;br&gt;&lt;br&gt;그래서 저자는 영화 ‘트랜스포머’의 로봇처럼, 나노로봇이 스스로 모양을 바꾸도록 만들었습니다. 액체의 성질이 달라지면 로봇도 그에 맞게 모양을 바꾸며 움직일 수 있는 겁니다. 이 아이디어의 배경에는 약 30년 전 나온 영화 ‘이너스페이스’가 있습니다. 영화 속에서 주인공이 작은 잠수함을 타고 몸속을 탐험하는 장면이, 김 교수에게 연구의 영감을 주었다고 해요. 결국 영화 속 상상이 현실로 이어진 겁니다.&lt;br&gt;&lt;br&gt;과학자들은 남들이 가본 적 없는 새로운 길을 개척합니다. 새로운 길을 여는 창의성은 이미 있는 것들을 연결 지어 보고, 지금까지 생각하지 못했던 가능성을 상상해 보는 능력입니다. 그러한 연결 짓기와 상상하기의 결과가 ‘트랜스포머’ 나노로봇입니다. 저자는 여기서 멈추지 않고, 나노로봇에 인공지능(AI)을 넣어 스스로 학습하고 더 똑똑하게 움직이도록 연구하고 있습니다.&lt;br&gt;&lt;br&gt;저자는 과학이란 혼자만의 힘으로 되는 게 아니라고 말합니다. 나노로봇을 예로 들어 볼까요? 로봇을 움직이려면 전기와 컴퓨터가 필요하고, 몸속에서 잘 작동하려면 재료공학과 의학 지식도 필요합니다. 여기에 물리·화학·수학까지 힘을 보태야 하지요. 당연히 과학자 한 사람이 이 모든 걸 다 잘할 수는 없어요. 그래서 여러 분야의 전문가가 모여 팀을 이루는 겁니다.&lt;br&gt;&lt;br&gt;오늘날 과학기술의 가장 큰 화두는 바로 ‘혁신’입니다. 저자는 혁신에 대해 이렇게 설명합니다. “상상이 현실이 될 때 그것이 ‘혁신’이다. 그리고 혁신은 다양한 사람이 함께하면서 기술이 융합될 때 일어난다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김용진 해경청장 사의… “李대통령 말씀에 무거운 책임감”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/15/WLVAH3EU2NDHDE5DZ4TY3XVFU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/15/WLVAH3EU2NDHDE5DZ4TY3XVFU4/</guid>
@@ -893,24 +927,6 @@
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>부산 앞바다서 조업 중 선박 사이에 낀 30대 외국인 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/15/OGNK4JRW6BBPHIFHCNLAW6EDMU/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>15일 오후 3시 54분쯤 부산 다대포 인근 해상에서 조업 중이던 30대 외국인 선원 A씨가 선박 사이에 끼어 숨졌다.</description>
-      <pubDate>Mon, 15 Sep 2025 10:09:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EF7Z2FIG26OOTOKTOMB5WXE4PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 오후 3시 54분쯤 부산 다대포 인근 해상에서 조업 중이던 30대 외국인 선원 A씨가 선박 사이에 끼어 숨졌다. A씨는 오후 4시 10분쯤 다대포항에서 대기 중이던 구급차로 병원에 옮겨졌지만 치료를 받던 중 숨졌다.&lt;br&gt;&lt;br&gt;해경은 조업 도중 A씨가 선박 사이에 끼이면서 사고가 난 것으로 추정하고 선장 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘평화와 자유’ 수호한 인천상륙작전…75주년 기념식 열려</title>
-      <link>https://www.chosun.com/national/regional/2025/09/15/IDUIG7R7BNGYBKXNHOYY4P2R74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/15/IDUIG7R7BNGYBKXNHOYY4P2R74/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Sep 2025 09:42:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5DP6HENICJPHHBXHSJVP6VYLJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 인천 중구 인천항 8부두에서 열린 제75주년 인천상륙작전 전승 행사에서 해병대가 인천상륙작전을 재연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국전쟁의 전세를 역전시킨 인천상륙작전 75주년 기념식이 15일 인천 중구 내항 8부두에서 열렸다. &lt;br&gt;&lt;br&gt;국가보훈부, 해군, 해병대, 인천시가 공동 주관한 이번 기념식엔 유정복 인천시장, 강동길 해군참모총장, 제이비어 브런슨 유엔군사령관, 조셉 레인스 주니어 미국 ‘더글러스 맥아더 장군 재단(General Douglas MacArthur Foundation)’ 대표를 비롯해 국내외 참전 용사, 보훈 단체 관계자, 시민 등 1500여 명이 참석했다. &lt;br&gt;&lt;br&gt;유정복 시장은 기념사에서 “인천상륙작전은 평화와 자유를 수호하고, 박애 정신을 실천하기 위해 세계 각국이 힘을 합쳐 이뤄낸 위대한 승리였다”며 “참전 용사들이 남긴 유산을 기억하는 것은 우리의 의무이자 사명”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “인천은 전쟁의 상처를 딛고 국제도시로 성장했다”며 “이제 인천은 국제 평화 도시로서 세계와 함께 미래로 나아갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;맥아더 장군의 아들 아서 맥아더 4세는 이날 기념식에 친서를 보내 “인천상륙작전은 대한민국의 꿈을 무너뜨리려던 공산군의 시도에 패배 직전에서 승리를 일궈낸 역사의 전환점이었다”며 “성공 가능성은 천분의 일에 불과하다는 평가였지만, 다국적 연합 상륙군과 대한민국 군인들의 용기로 승리를 이끌어냈다”고 했다. &lt;br&gt;&lt;br&gt;이어 “인천상륙작전의 결실은 대한민국의 자유와 75년에 이르는 번영이었다”며 “대한민국은 오늘날 전 세계 모든 자유민들에게 빛나는 등불이 되고 있다. 부디 영원한 평화와 번영을 누리시기를 기원한다”고 했다.&lt;br&gt;&lt;br&gt;기념식이 끝난 뒤엔 해군 해상작전헬기와 해상기동헬기, 상륙돌격장갑차 등 장비와 해군 특수전 요원들이 참여한 가운데, 상륙작전 재연 행사가 진행됐다. &lt;br&gt;&lt;br&gt;기념식 행사에 앞서 인천에서는 맥아더 장군 동상 헌화, 월미도 원주민희생자 위령비 헌화, 인천상륙작전 조형물 제막식 등이 진행됐다.&lt;br&gt;&lt;br&gt;1950년 9월 15일 단행된 인천상륙작전은 한·미·영 등 8국 261척의 함정이 투입돼 2차 세계대전 이후 최대 규모 상륙작전으로 기록됐다.&lt;br&gt;&lt;br&gt;당시 국군과 연합군은 인천상륙작전 13일 만인 9월 28일 서울을 수복하는 등 한국전쟁의 전세를 뒤집었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>강릉에 또 비소식… 내일 밤부터 최대 20㎜ 내려</title>
@@ -942,15 +958,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJVNT2MHYJI6PPISDAKOCHJLEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장의 장남 이지 씨가 탑승한 것으로 추정되는 미니밴이 15일 오후 경남 창원시 진해구 진해기지사령부 제3 정문으로 향하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재용 삼성전자 회장의 장남 이지호(24)씨가 15일 해군 장교로 입대했다. &lt;br&gt;&lt;br&gt;이지호씨는 이날 오후 1시쯤 경남 창원시 진해구 진해기지사령부 제3정문 위병소를 탑승한 채로 통과했다. 이씨가 탑승한 것으로 추정되는 미니밴이 언론 카메라에 포착되기도 했다. &lt;br&gt;&lt;br&gt;장교 입대자의 신분 확인은 위병소와 위병소에서 수십m 떨어진 곳에서 동시에 진행됐고, 이씨가 탑승한 차는 위병소에서 떨어진 곳에서 보안 검사를 받았다. &lt;br&gt;&lt;br&gt;이씨는 이날 139기 해군 학사관 후보생으로 입영해 11주간 장교 교육 훈련을 받고 12월 1일 해군 소위로 임관할 예정이다. 소위는 위관급 장교의 세 계급 가운데 맨 아래 계급이다. 이씨 보직과 복무 부대는 교육훈련 성적, 군 특기별 인력 수요 등을 감안해 임관 시 결정된다. 훈련 기간과 임관 후 의무 복무 기간 36개월을 포함한 군 생활 기간은 총 39개월이다.&lt;br&gt;&lt;br&gt;2000년 미국에서 태어나 한국과 미국 복수 국적을 가지고 있던 이씨는 해군 장교로 병역 의무를 다하기 위해 미국 시민권을 포기했다. 복수 국적자가 일반 사병이 아닌 장교로 복무하려면 외국 시민권을 포기해야 한다. 또 미국 영주권이나 시민권을 보유한 병역의무 대상자가 자원 입영을 신청한 사례는 한 해 평균 100여 명에 불과한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원·법조계 “대법원장 사퇴 요구, 독재정권도 안 했다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/15/6HJXCKPGAJAOLGETK4NFKMS3KY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/15/6HJXCKPGAJAOLGETK4NFKMS3KY/</guid>
-      <dc:creator>방극렬 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Sep 2025 04:16:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBJ2QOMATNB3NNIRZLZ7KNU3JI.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 4일 대통령 취임 선서식에서 이재명(왼쪽) 대통령이 조희대 대법원장과 악수하고 있는 모습. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령실이 더불어민주당의 조희대 대법원장 사퇴 요구와 관련해 ‘원칙적 공감’ 입장을 밝힌 것에 대해 15일 법원 내부와 법조계에서는 강한 비판과 우려의 목소리가 나왔다. 법조인들은 “독재 정권도 대법원장 사퇴를 공개 요구한 적은 없다” “삼권분립과 국가 시스템을 무너뜨리는 위험한 발언”이라고 지적했다.&lt;br&gt;&lt;br&gt;현직 고법 부장판사는 이날 “과거 권위주의 독재 정권이 사법부를 여러 차례 흔들었지만, 적어도 대통령이 대법원장 사퇴를 대놓고 요구하진 않았었다”며 “전대미문의 일이 벌어지는 것 같아 법원 구성원으로서 참담하다”고 말했다. 그는 “겉으로는 ’내란 특별재판부’ 설치 여부가 논란이지만 결국 이재명 대통령의 공직선거법 사건에 대한 대법원 유죄 판결에 대법원장이 책임지라는 것”이라며 “민주 사회에서 특정 사건의 판결을 빌미로 사법부 수장을 물러나라고 압박하는 것이 가능한가”라고 했다.&lt;br&gt;&lt;br&gt;법원장 출신 한 변호사는 “민주당 정치인들이야 대법원장 사퇴를 구호로 외칠 수 있다고 쳐도, 대통령실에서 이에 호응하는 메시지를 내는 것은 차원이 다르다”며 “특정 정파의 이익을 위해 국가 시스템과 사법 체계를 무너뜨리는 일”이라고 비판했다. 이어 “헌법상 삼권분립의 취지는 선출된 권력의 위험성을 선출되지 않은 권력이 견제하는 것”이라며 “대통령과 국회의 권력 서열이 사법부보다 높다는 인식부터가 위험하고 잘못됐다”고 했다.&lt;br&gt;&lt;br&gt;현직 부장검사는 “정부·여당이 검찰 해체에 이어 대법원장 사퇴까지 사실상 요구하며 사법체계 전반을 장악하는 데 나선 것”이라며 “사법부가 이에 굴복하면 향후 유력 정치인과 권력자에 대한 수사 및 공소 유지는 동력을 잃게 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDNRC7GIWJIYDKCTCVQD2ZVAXA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;강유정 대통령실 대변인이 15일 서울 용산 대통령실 청사에서 기자단 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강유정 대통령실 대변인은 이날 오전 용산 대통령실 브리핑에서 민주당의 조 대법원장 사퇴 요구에 대해 “시대적인 국민적 요구가 있다면 ‘임명된 권한’으로서 그 요구에 대한 개연성과 이유를 돌이켜봐야 될 필요가 있다는 점에 원칙적으로 공감한다”고 밝혔다. 선출 권력인 국회가 조 대법원장의 사퇴를 요구한다면 임명직인 조 대법원장 스스로 그 배경을 돌이켜보라는 것으로, 민주당의 주장에 사실상 동조한 것으로 분석됐다.&lt;br&gt;&lt;br&gt;다만 대통령실은 브리핑을 두고 논란이 커지자 조 대법원장 사퇴 요구에 대통령실이 공감을 표한 것은 아니라고 부인했다. 강 대변인은 “삼권분립 및 선출 권력에 대한 존중감에 대해 ‘원칙적 공감’이라고 표현한 것”이라며 “(대법원장 사퇴와 관련해) 특별한 입장은 없다”고 했다.&lt;br&gt;&lt;br&gt;정청래 민주당 대표는 이날 당 최고위원회의에서 “대법원장이 그리도 대단한가. 대통령 위에 있느냐”라며 “조 대법원장은 직에서 물러나야 한다”고 주장했다. 추미애 국회 법제사법위원장도 전날 페이스북에서 “조 대법원장이 내란범을 재판 지연으로 보호하고 있다”며 사퇴를 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>딸 사칭 보이스피싱에 속아 9000만원 대출…대법 “본인 인증 여러번이었다면 유효”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/15/J7LTBBOAUJF5NJLN46SQIMVTRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/15/J7LTBBOAUJF5NJLN46SQIMVTRE/</guid>
@@ -958,15 +965,6 @@
       <description/>
       <pubDate>Mon, 15 Sep 2025 04:36:58 +0000</pubDate>
       <content:encoded>보이스피싱으로 명의를 도용당해 대출 피해를 본 사건에서, 은행이 대출 과정에서 여러 차례 본인 확인 절차를 거쳤다면 대출은 유효하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XN6VOJDUU2ID6NCT3F2P7FBLVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 최근 보이스피싱 피해자 A씨가 한 저축은행을 상대로 낸 채무부존재 확인 소송에서 원고 패소로 판결한 원심을 확정했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2022년 7월 딸을 사칭한 보이스피싱범으로부터 “엄마 난데 폰이 먹통돼서 임시번호로 문자하는 거야. 통화가 안 돼서 그러는데 이 번호로 카톡 추가하고 톡 해줘”라는 메시지를 받았다. A씨는 요청에 따라 운전면허증 사진, 계좌번호, 비밀번호 등을 넘겨주고 휴대전화에 원격제어 애플리케이션도 설치했다. &lt;br&gt;&lt;br&gt;보이스피싱범은 이를 이용해 A씨 명의로 저축은행에 비대면 계좌를 개설한 뒤 9000만원을 대출받았다. 저축은행은 이 과정에서 본인 확인을 위해 운전면허증 사진 제출, 타 금융사 계좌에 1원 송금 후 인증번호 확인, 휴대전화 본인인증, 신용정보 조회 후 A씨의 전자서명 등 여러번 인증 절차를 거쳤다. 그러나 A씨는 “성명불상의 제3자가 명의를 도용해 체결한 계약으로 무효”라며 소송을 제기했다.&lt;br&gt;&lt;br&gt;쟁점은 저축은행의 비대면 실명확인 절차가 적정했는지 여부였다. 1심은 “은행이 제출받은 면허증 사진은 원본을 직접 촬영한 것이 아니므로, 본인 확인을 이행했다고 인정할 수 없다”면서 A씨의 손을 들어줬다. 그러나 2심은 “비대면 거래에서 반드시 현장에서 바로 촬영한 신분증 파일만 제출해야 한다고 볼 이유가 없다”며 “은행이 취한 본인 확인 절차는 적정하다”고 판결을 뒤집었다.&lt;br&gt;&lt;br&gt;대법원도 2심 판단에 잘못이 없다고 보고 상고를 기각했다. 대법원은“피고가 복수의 인증 수단을 병행해 이 사건 대출 신청이 원고의 의사에 따른 것임을 확인하려는 노력을 다했다고 평가할 수 있다”고 판단했다.&lt;br&gt;&lt;br&gt;또한 “비대면으로 운전면허증 사진 파일을 제출받아 그 진정성을 확인하는 절차의 특성상 원본을 바로 촬영한 파일을 제출받는 것과 사전에 촬영된 파일을 제출받는 것 사이에 큰 차이가 없다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“연락 피해 화나”...거제 골프장서 전처 살해한 50대 구속</title>
-      <link>https://www.chosun.com/national/2025/09/15/37DUX6RVXVHLTCQVSIZ357EVNA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/15/37DUX6RVXVHLTCQVSIZ357EVNA/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Sep 2025 02:36:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제의 한 골프장에서 사실혼 관계였던 여성을 살해하고, 자해한 남성이 구속됐다. 이 남성은 연락을 회피한 피해자에게 분노와 배신감이 일어 범행했다는 취지로 진술했다.&lt;br&gt;&lt;br&gt;경남경찰청은 살인 혐의를 받는 A(50대)씨를 지난 14일 구속했다고 15일 밝혔다. A씨는 지난 5일 오전 10시 35분쯤 경남 거제에 있는 한 골프장에서 사실혼 관계였던 전처 B(50대)씨를 미리 준비한 흉기로 찔러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;범행 당시 B씨는 골프장에서 캐디(경기보조원)로 경기를 진행하고 있었다. A씨는 골프장 작업자인 것처럼 위장한 후 홀에서 기다리다가 B씨에게 접근해 범행했다. &lt;br&gt;&lt;br&gt;A씨는 범행 직후 골프장 직원들과 대치하던 중 스스로 배를 찔렀다. 병원으로 옮겨져 수술을 받고 치료를 받던 A씨는 지난 12일 퇴원했다. 경찰은 A씨 퇴원과 함께 체포영장을 집행해 A씨에 대한 조사를 진행했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨와 B씨는 10년 넘게 사실혼 관계를 유지해오다 지난 7월쯤 헤어졌다. A씨는 7월쯤 B씨를 때려 112 신고가 이뤄졌던 것으로 확인됐다. 경찰은 B씨에게 스마트워치를 지급하고, 주거지 주변 순찰을 강화했다. 다만, 사건이 발생한 당일 B씨는 근무여건상 사물함에 스마트워치를 보관했던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “금전적인 문제와 함께 B씨가 연락을 회피하고 안 만나려 하는 것에 분노와 배신감을 느껴 범행했다”는 취지로 혐의를 인정했다고 한다. &lt;br&gt;&lt;br&gt;경찰은 A씨 진술 진위를 확인하고 보강수사를 거친 뒤 조만간 사건을 검찰에 송치할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
