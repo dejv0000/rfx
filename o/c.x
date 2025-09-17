@@ -13,6 +13,32 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“감사합니다, 씩씩하게 걸을 수 있게 해주셔서”</title>
+      <link>https://www.chosun.com/national/people/2025/09/18/CF3I5AEX5VEPXDY7QQ7CTNPOGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/18/CF3I5AEX5VEPXDY7QQ7CTNPOGU/</guid>
+      <dc:creator>민학수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 22:29:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TB7MYYEJ2RE6PKQY3A3VN4CONA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민기 석교상사 회장은 70대 들어 60대 때 보다 더 건강하고 활력 넘치는 인생을 즐기고 있다. /올댓골프&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 출범 40주년을 맞은 이민기 석교상사 회장은 매일 점심 식사 후 탄천을 걷는다. 방해받지 않고 중요한 회사 결정을 내리기 좋은 시간이다. 그렇다고 느릿느릿 걷지는 않는다. 추월당하는 걸 싫어해 자신도 모르게 꽤 빠른 속도로 걷는다. 때로는 아무 생각 없이 걷는 것 자체가 좋아서 나설 때도 있는데, 발걸음은 늘 경쾌하다. 가는 데 40분, 돌아오는 데 40분. 꼬박 80분을 걸으면 1만 보가 찍힌다. 그렇게 탄천을 걸을 때면 자연스럽게 감사 인사를 드리게 된다고 한다. “하느님, 감사합니다. 씩씩하게 걸을 수 있게 해주셔서.” 그는 “세상에는 마음껏 걷지 못하는 사람들이 많다. 잘 걸을 수 있다는 것만으로도 감사한 일임을 절실히 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KPB6DXIPNNBV3D5RIAFKHXW5CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 출범 40주년을 맞은 석교상사는 사내 다양한 동호인 모임을 통해 직원들이 친근하게 소통하는 기회를 갖는다. 사진은 골프 동호회 모임 '삽질회' 동반 라운드 기념 사진. /올댓골프&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1953년생인 그는 골프용품 수입업체 석교상사를 IMF와 글로벌 금융위기를 거치며 탄탄하게 키워낸 국내 골프 용품업계 1세대다. 몇 년 전 당뇨로 고생한다는 소식이 들렸지만, 예전보다 훨씬 날씬해진 몸매와 건강한 얼굴빛이 눈길을 끌었다. 그의 건강 관리 비결은 골프 정보 못지않게 많은 이들에게 도움이 될 만했다.&lt;br&gt;&lt;br&gt;“2년 전 우연히 생활 습관을 바꾸게 되는 일이 있었어요. 아내가 방 전구를 갈아 달라고 해서 의자 위에 올라갔는데, 다리가 너무 후들거려서 넘어질까 조바심이 날 정도였죠. 그래도 건강한 편이라고 생각했는데, 큰일이구나 싶었습니다. 나이 들면 근육량이 줄어드는 근감소증을 조심해야 한다는 얘기를 들었는데 그 순간 절실히 깨달았어요.”&lt;br&gt;&lt;br&gt;그는 이후 체중 감량에 나섰다. 키 168cm의 그는 현재 체중 65~66kg을 유지한다. 2년 전 74kg에서 8kg가량을 줄인 것이다. 저녁 6시 이후에는 물과 허브차만 마시고, 다음 날 아침 8시에야 식사를 하는 간헐적 단식(14시간)을 실천한다. 식단은 저탄수화물·채소·단백질 위주다. 아침은 생야채, 양배추, 당근, 오이, 표고버섯 삶은 것, 삶은 계란 1개, 그리고 현미빵이나 바게트를 곁들여 소량의 탄수화물을 섭취한다. 점심이나 저녁은 회사 일정에 맞춰 즐겁게 먹되, 탄수화물은 필요한 양만 취한다.&lt;br&gt;&lt;br&gt;그는 “같은 음식을 먹어도 섭취 순서에 따라 혈당 변화가 크게 달라진다”며 “야채를 먼저 먹고, 단백질(멸치 등)을 섭취한 뒤, 마지막으로 탄수화물을 이전의 3분의 1만 먹는다. 이렇게 하면 식후 혈당도 안정적이다”고 했다. 당뇨 가족력이 있는 그는 2년 전 당화혈색소 6.7~6.8, 공복혈당 122였는데 지금은 정상 수치로 회복했다.&lt;br&gt;&lt;br&gt;70대에 접어들며 시작한 체중 관리라 자신감이 부족했지만, 그는 병원과 연계한 ‘스위치 온(Switch On) 다이어트’ 프로그램을 활용했다. 먹은 음식을 사진으로 찍어 의사에게 보여주는 방식이다. 필요할 때는 영양제를 맞으며 체력을 유지했다. 이제는 운동을 생활화했다. 그는 탄천 1만 보 걷기 외에도 집 욕실 같은 좁은 공간에서 아침·저녁 20~30분씩 꾸준히 운동한다. 스쿼트 50회 3세트를 기본으로, 5kg 덤벨 두 개로 이두·삼두·전완근을 단련한다. 아침에는 전완근과 이두근, 저녁에는 삼두근과 어깨 근육을 집중적으로 훈련한다. 최근에는 플랭크도 시작했는데, 1분 30초씩 3세트를 하다 보면 몸이 심하게 떨린다고 한다.&lt;br&gt;&lt;br&gt;“운동을 하다 보면 화장실 거울에 비친 모습에서 자신감이 생겨요. 조금씩 근육이 붙는 걸 보면 ‘살아있네’라는 말이 절로 나옵니다.” 얼마 전 고교 동창 모임에서는 이런 농담도 들었다. “너랑 같이 다니면 안 되겠다. 너무 어려 보이고 옷 입는 것도 애들 같다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4PLYQCI3FHXJOWX25YWSG2OJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이민기(왼쪽) 석교상사 회장은 골프계에서 유명한 바이크 애호가다. 동호인 세계에서 큰 형님으로 통한다. /올댓골프&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 골프계에서 잘 알려진 바이크 애호가이자, 커피 로스팅 실력자다. 지인들과 음악을 즐기며 여가를 보내고, 본업인 골프도 꾸준히 친다. “현직에서 일하는 게 큰 행복입니다. 사람들을 자주 만나면 자신도 흐트러지지 않게 되죠. 만약 은퇴했다면 이렇게 건강관리를 열심히 하지 않았을 겁니다.” 앞으로는 새벽 미사에 다니고, 세례명 ‘빈첸시오’ 성인처럼 봉사 활동에도 힘쓰고 싶다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;그가 가장 보람 있게 꼽는 일은 매년 가을 열리는 ‘사랑나눔 골프대회’다. 지난해 열린 제17회 대회에서는 2억4000여만 원의 후원금을 마련해 성가복지병원, 요셉의원, 선덕원 등에 전달했다. 역대 최다 모금액을 거의 매년 경신해왔으며, 23년간 누적 기부금만 21억 원을 넘는다. 개인 후원과 의료기기 지원까지 합치면 23억 원 이상이다.&lt;br&gt;&lt;br&gt;“제가 누린 행운과 복은 제 것이 아니라고 생각합니다. 그래서 어려운 이들을 보면 미안한 감정이 생겨요. 남의 복을 가져왔으니 나누고 돌려줘야 한다는 마음으로 살고 있습니다.”&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RT5IP34FBVGZFEQSJFJ6P34AEA.jpg?auth=63b5bb4395766bf87744eebf14e83f7f02b26fbdee44a20285351aebb82287ba&amp;smart=true&amp;width=2268&amp;height=1276" type="image/jpeg" height="1276" width="2268">
+        <media:description type="plain">이민기 석교상사 회장은 70대 들어 60대 때 보다 더 건강하고 활력 넘치는 인생을 즐기고 있다. /올댓골프</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>밥 먹는 테이블에 맨발 올려놓고 취침…다낭 공항서 나라 망신</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/18/KTCRQVCTYFBJ5FKNY6SEWFTFJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/KTCRQVCTYFBJ5FKNY6SEWFTFJY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 22:09:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZBJTP4OIRCYHAJ65PRUJT4DDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베트남 다낭 국제공항 라운지에서 한국인으로 추정되는 인물이 테이블에 발을 올려놓고 누워있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;베트남 다낭 국제공항 라운지에서 일부 한국인이 의자와 테이블에 맨발을 올려놓고 자는 모습이 포착됐다. &lt;br&gt;&lt;br&gt;16일 한 온라인 커뮤니티에는 ‘다낭 공항 라운지에서 민망한 장면…제가 다 얼굴이 화끈’ 제목의 글이 올라왔다. &lt;br&gt;&lt;br&gt;글쓴이 A씨는 “며칠 전 다낭공항 라운지에서 좀 민망한 장면을 봤다”며 “아마도 신나게 놀고 밤늦은 비행기를 기다리느라 다들 지쳐 있겠지만, 한국분들 같은데 바로 옆 다른 의자에 발을 올리고 주무시니 토나올 것 같았다”고 했다. 이어 “또 어떤 분은 식사를 하는 테이블, 즉 밥상에 발을 올려놓고 주무시는 모습이었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIGLFHXTIRC23LQARMJ4LYDBZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인으로 추정되는 인물이 다른 사람이 쉬어야 할 의자 옆자리까지 다리를 뻗고 누워 있다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 “외국인들은 몇 없었지만 어이없어 하는 표정이었고, 일하는 베트남 직원분들께도 참 민망스런 모습이었다”며 “여행지에서 피곤해서 쉬는 건 좋지만 공용 공간에서는 최소한 매너가 필요하지 않겠나”라고 했다. 그러면서 “우리보다 조금 못사는 국가라고 막 해서는 안 된다”며 “외국에서 이런 장면들 보셨나. 어디서든 멋진 모습을 보여주는 매너 있는 한국인이면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;A씨가 올린 사진을 보면, 유리잔이 놓인 테이블에 맨발을 올려놓고 누워 있는 모습이나 다른 사람이 앉아서 쉬어야 할 소파 옆자리까지 다리를 뻗고 누워있는 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;베트남 다낭은 ‘경기도 다낭시’라는 말이 있을 정도로 한국인이 많이 찾는 관광지다. 2024년 상반기 다낭에 머물렀던 한국인 방문객 수는 82만2765명으로, 다낭을 찾은 전체 해외 방문객 중 41%를 차지했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S7275WVMXNAANLCV33VX2CDHJM.jpg?auth=f0a542687e91212f535bc2f9b9f8c051597114fa0f20e1ee7ab9dbe2cb637d65&amp;smart=true&amp;width=898&amp;height=505" type="image/jpeg" height="505" width="898">
+        <media:description type="plain">베트남 다낭 국제공항 라운지에서 한국인으로 추정되는 인물이 테이블에 발을 올려놓고 누워있다. /보배드림</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>[단독] 보이스피싱 급증에 범죄 수익 몰수·추징 사상 첫 1조원 돌파</title>
       <link>https://www.chosun.com/national/national_general/2025/09/18/4QKRT4WNFVGPPJQUBS7M7UVKL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/4QKRT4WNFVGPPJQUBS7M7UVKL4/</guid>
@@ -953,24 +979,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/MTT2GUX7FRGULKO2KHJG3X43MI.png?auth=26181792f95407bd4dd1f2816aabd70eb801f0b603aebf0471442faf122777de&amp;smart=true&amp;width=1338&amp;height=753" type="image/png" height="753" width="1338">
         <media:description type="plain">원민경 여성가족부 장관이 15일 장관 임명식에서 이재명 대통령과 기념 촬영을 하고 있다. 이 대통령 오른쪽에는 원장관의 시어머니와 친어머니./유튜브 캡처</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘용인 시간당 53.5㎜‘...경기 호우 피해 26건 접수</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/16/TET5LLCDHNGY5N6TTQO2ZHK7TE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/TET5LLCDHNGY5N6TTQO2ZHK7TE/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 09:45:44 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7AJJNKCYRH3ZBMGKY45DJOWZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 2시 10분쯤 안산시 상록구 안산천 산책로에서 고립된 90대 남성이 소방대원들에 의해 구조되고 있다./ 경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기지역에 호우특보가 내렸던 16일 일부 지역에서 시간당 50㎜를 넘기는 등 많은 비가 쏟아지면서 곳곳에서 피해가 발생했다.&lt;br&gt;&lt;br&gt;이날 경기도소방재난본부에 따르면 오후 4시까지 접수된 호우 피해 건수는 총 26건이다. 인명구조 1건, 주택 및 도로 침수에 따른 안전조치 등 25건이다. &lt;br&gt;&lt;br&gt;이날 오후 2시 3분쯤 안양시 만안구의 한 발전소 신축 현장에서는 철근으로 된 비계가 일부 무너져 내리는 사고도 발생했다. 이로 인한 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;또 오후 2시 10분쯤 안산시 상록구 안산천 산책로에서 수위가 갑자기 올라가면서 전동 휠체어를 타고 지나가던 90대 남성이 고립됐다가 소방대원들에 의해 구조됐다.&lt;br&gt;&lt;br&gt;이날 0시부터 오후 5시까지 경기지역에 내린 비는 용인 57㎜, 화성 53.5㎜, 안산 51.5㎜, 군포·광주 43㎜ 등이다. 1시간 최대 강수량으로는 용인 53.5㎜, 화성 52.5㎜, 안산 50.5㎜, 광주 41.5㎜, 군포 40.5㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 안산에 호우경보를, 이천·여주·광주·오산·용인·시흥·부천·평택·화성 등 9개 시군에 호우 주의보를 내렸다가 비가 소강상태를 보이자 오후 3시 30분을 기해 차례로 해제했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가천대 ‘AI·컴퓨팅연구원' 개원</title>
-      <link>https://www.chosun.com/national/education/2025/09/16/AVYTKRAYXZADVKBOIVBVUSGBVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/16/AVYTKRAYXZADVKBOIVBVUSGBVI/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 09:02:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CLXK3F6XZFBVJG2BIPYI6AMIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 가천대에서 'AI·컴퓨팅연구원' 개원식이 열렸다. /가천대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가천대가 인공지능 분야의 경쟁력을 강화하기 위해 ‘AI·컴퓨팅연구원’을 열었다. 70세까지 정년을 보장하는 조건을 내걸고 고려대 이원준(60) 교수를 초대 연구원장으로 초빙했다. &lt;br&gt;&lt;br&gt;AI·컴퓨팅연구원은 인공지능을 핵심축으로 6G 네트워크, 클라우드·엣지 컴퓨팅, 양자 컴퓨팅, 피지컬(Physical) AI, 신약 개발, 바이오, 반도체, 정책 등 다양한 ICT 분야와 융합 연구를 하는 기관이다. &lt;br&gt;&lt;br&gt;초대 연구원장으로 이원준 고려대 컴퓨터학과 및 정보보호대학원 교수를 초빙했다. 이 신임 원장은 유무선 통신네트워킹 시스템, 인공지능 기반 클라우드-엣지 컴퓨팅, 무선 보안 분야에서 세계적 연구 업적을 쌓아 2021년 컴퓨팅·통신네트워킹 분야에서 IEEE Fellow로 선정됐다. 1973년 설립된 한국정보과학회 회장을 역임했다. &lt;br&gt;&lt;br&gt;가천대는 ‘70세까지 정년을 보장’하는 조건으로 이 원장을 초빙했다. 현재 법적 교수 정년은 65세다. &lt;br&gt;&lt;br&gt;이길여 가천대 총장은 “국내 최초로 인공지능학과를 개설한 가천대가 이젠 연구에서도 새로운 전기를 마련하기 위해 AI·컴퓨팅연구원을 열게 됐다”면서 “파격적 조건으로 이원준 교수를 초빙한 것은 반도체·배터리·바이오 BBC 분야 등 가천대 특화 분야와 융합을 통해 AI·컴퓨팅연구원을 글로벌 허브로 키우겠다는 의지를 담은 것”이라고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGCKDN6V2FEKBNVDJQ3YVPFSP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이길여 가천대 총장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
