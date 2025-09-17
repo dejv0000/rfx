@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>천연기념물 검독수리 둥지, 77년만에 발견</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/17/NKLGUPREWVASNJ253NAJNQ6YDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/17/NKLGUPREWVASNJ253NAJNQ6YDU/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 13:26:33 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BC4KOWKOAFFRHEWA7S3NWUMD7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 국립생태원이 제주도 한라산 북쪽 절벽에서 망원 카메라로 촬영한 검독수리와 번식 둥지. 둥지는 지름 약 2m, 높이 약 1.5m 크기다./국립생태원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;멸종 위기 야생 생물 1급인 검독수리의 번식 둥지가 77년 만에 국내에서 확인됐다. 환경부 산하 국립생태원은 제주도 한라산 북쪽 약 90m 높이 절벽의 3분의 1 지점에서 지름 약 2m, 높이 약 1.5m 크기의 검독수리 둥지를 발견했다고 17일 밝혔다. 검독수리는 양쪽 날개를 활짝 편 길이가 2m가 넘는 대형 맹금류로, 사슴·토끼 같은 포유류와 오리·꿩 등 조류를 주로 사냥한다. &lt;br&gt;&lt;br&gt;국립생태원에 따르면, 이번 둥지 발견은 작년 7월 제주대 제주야생동물구조센터 직원이 한라산 북쪽에서 한 살 미만으로 추정되는 어린 검독수리를 구조한 데서 시작됐다. 비록 이 검독수리는 구조 3일 만에 죽었지만, “인근에서 검독수리를 봤다”는 지역 주민들의 잇따른 목격담에 국립생태원 측은 본격 조사에 들어갔다. 생태원은 한라산을 관리하는 제주특별자치도 세계유산본부의 허가를 받아 지난 4월부터 최근까지 서식지를 탐색해 둥지를 찾았다. 연구진은 지난 5월 이 둥지에서 검독수리 한 쌍과 새끼 한 마리가 있는 모습을 약 200m 떨어진 지점에서 망원 카메라로 촬영하는 데 성공했다. 연구진은 암수 모두 최소 6년생 이상으로 추정했다. 하지만 올 7월 조사에서 이 검독수리 가족이 둥지를 떠난 것으로 확인됐다. &lt;br&gt;&lt;br&gt;검독수리의 번식 둥지가 확인된 것은 1948년 미군 육군 장교 로이드 레이먼드 울프가 경기도 예봉산 정상 인근 절벽에서 발견한 후 77년 만이다. 울프는 이 기록을 1950년 미국의 저명한 조류 학술지 ‘디 오크(The Auk)’에 게재한 바 있다.&lt;br&gt;&lt;br&gt;국립생태원 관계자는 “그동안 우리나라에서도 검독수리가 발견된 적이 있지만 보통 러시아 등에서 월동을 위해 찾아온 철새였는데, 이번에 둥지와 함께 발견된 검독수리들은 옛날부터 우리 조상들과 함께 살았던 텃새라는 점에서 의미가 깊다”고 밝혔다.&lt;b&gt; &lt;/b&gt;현재 멸종 위기 야생 생물 1급은 총 68종이며, 이 중 조류는 검독수리를 포함해 16종이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/AXPOSC4ZUFFNNMDTZWTUJ4K4IY.png?auth=8e260a3e8601d0462d0d1a6aff1112152db0f1a1fb3371095d497fc04515c7e6&amp;smart=true&amp;width=372&amp;height=209" type="image/png" height="209" width="372">
+        <media:description type="plain">/국립생태원</media:description>
+        <media:credit role="author" scheme="urn:ebu">정해민 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>이종섭 첫 특검 조사 11시간만 종료… 李측 “범인 도피는 망상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/17/RCHQBU7B3JCGBBCCRCUS3VFLPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/RCHQBU7B3JCGBBCCRCUS3VFLPA/</guid>
+      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 13:37:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKUGN7VYABM5RJGKNAO2UOQ5Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방장관이 17일 오전 서울 서초구 순직 해병 특검 사무실에 참고인 신분으로 조사를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종섭 전 국방부 장관이 17일 순직 해병 특검에 처음 출석해 11시간 동안 조사를 받고 귀가했다. 이 전 장관 측은 이날 조사가 이뤄진 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’에 대해 “망상”이라며 부인했다.&lt;br&gt;&lt;br&gt;이 전 장관은 이날 오후 9시 10분쯤 특검 조사를 마치고 나오면서 “(의혹에 대해) 충분히 설명드렸다”고 말했다. 이 전 장관은 “범인 도피가 없었다는 입장이느냐”는 취재진 질문에 “거기에 대해 도피라고 생각하세요?”라고 반문하기도 했다. 이 전 장관 측은 “(범인 도피는) 망상이라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;특검은 이날 이 전 장관을 상대로 작년 3월 호주 대사 임명·출국 과정에 대해 집중 조사했다. 당시 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처)에 입건됐던 이 전 장관을 윤석열 정부가 호주 대사로 임명해 수사를 방해하려 했다는 의혹이다. 이 전 장관은 대사 임명 직후 출국금지돼있던 사실이 알려져 법무부가 급히 이를 해제하기도 했다. 다만 형법상 범인 도피죄는 ‘도피한 자’가 아닌 ‘도피하게 한 자’를 처벌하기 때문에 이 전 장관은 이날 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;앞서 특검은 외교부의 공관장 자격심사 등이 졸속으로 진행됐다는 진술을 확보하고, 법무부 출국금지 해제 과정에서 조태열 전 외교장관, 박성재 전 법무장관, 심우정 전 법무차관 등이 관여한 정황도 포착했다. 특검은 이 전 장관이 대통령실·외교부·법무부 관계자 등과 어떤 논의를 주고받았는지, 범인 도피 시도가 있었는지 캐물었지만, 이 전 장관 측은 특검 조사에서 관련 의혹을 전면 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 이 전 장관은 오는 23일 ‘순직 해병 수사 외압’ 의혹과 관련해서는 피의자로 특검 조사를 받을 예정이다. 해병 특검이 지난 7월 2일 출범한 이후 83일 만이다. 특검 관계자는 “이 전 장관에 대한 피의자 조사는 최소 3차례, 길어지면 5차례 이상도 진행될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“저수율 20% 회복했다”... 강릉에 70㎜ 단비</title>
+      <link>https://www.chosun.com/national/regional/gangwon/2025/09/17/BZCG7FUUWZGLZD653OEWE2BUZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/17/BZCG7FUUWZGLZD653OEWE2BUZ4/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 12:50:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UN3H43KXANQ2LALLIBG5DMRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 강원 강릉지역에 많은 비가 내린 지난 13일 오전 우산을 쓴 시민이 마른 저수지에 내리는 단비를 바라보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;끝을 알 수 없는 가뭄에 시달리던 강원 강릉에 단비가 내렸다. 말라가던 오봉저수지 저수율도 20% 선을 회복했다. &lt;br&gt;&lt;br&gt;17일 한국농어촌공사 농촌용수종합정보시스템에 따르면 이날 오후 9시 30분 기준 저수율은 20.4%를 기록했다. 지난달 21일 저수율이 19.9%로 떨어진 지 약 한 달 만에 회복된 것이다. &lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 이날 오봉저수지 영향권에 드는 곳에 내린 비의 양은 닭목재 78.5㎜, 도마 72.5㎜, 오봉지소 60㎜, 왕산 52.5㎜를 기록했다. &lt;br&gt;&lt;br&gt;강릉지역 87%의 생활용수를 공급하는 상수원 오봉저수지의 저수율은 지난 12일 11.6%까지 떨어져 역대 최저치를 기록했다. &lt;br&gt;&lt;br&gt;오봉저수지 저수위도 전날보다 1.6ｍ가량 높아진 102.95ｍ를 기록했다.&lt;br&gt;&lt;br&gt;강원지방기상청은 강릉을 비롯한 영동은 내일(18일) 낮(12∼15시)까지 돌풍과 함께 천둥, 번개를 동반한 비가 이어지는 곳이 있겠다고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 윤지온, 만취 상태서 오토바이 훔쳐 몰다 적발</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/17/YHMOE6AXYBFKTDEFLUU2UTNIZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/YHMOE6AXYBFKTDEFLUU2UTNIZU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 12:46:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMM56WSOMBCL7WOOOXV5YBYZCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 윤지온. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 윤지온(35)이 만취 상태에서 길에 세워져 있던 오토바이를 훔쳐 몰다 적발된 사실을 인정하고 사과했다. &lt;br&gt;&lt;br&gt;윤지온은 17일 자신의 소셜미디어를 통해 “먼저 이런 불미스러운 일로 소식을 전하게 되어 마음이 무겁고 죄송하다”며 “지난 16일 기억을 못할 정도로 술에 취해 길에 세워져 있는 오토바이를 무단으로 타고 이동하는 잘못을 저질렀다”고 했다. &lt;br&gt;&lt;br&gt;윤지온은 “이후 모든 혐의를 인정했고 현재 피해 상황을 파악하고 있다”며 “저의 경솔한 행동으로 인하여 저를 응원해 주시던 많은 분들께 상처와 실망을 드려서 정말 면목이 없다. 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;윤지온은 “다시는 이런 일이 생기지 않도록 경각심을 갖고 평생 뉘우치며 살겠다”며 “향후 이뤄질 조사에 성실히 임하고 내려질 처분에 대해 달게 받겠다. 어떠한 변명의 여지도 없다. 다시 한번 고개 숙여 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;윤지온은 이번 사건으로 내년 방영 예정인 채널A 새 드라마 ‘아기가 생겼어요’에서 하차한다.&lt;br&gt;&lt;br&gt;윤지온은 2013년 연극으로 데뷔했으며, 2019년 JTBC 드라마 ‘멜로가 체질’을 통해 이름을 알렸다. 이후 ‘우연일까’, ‘엄마친구아들’ 등에 출연하며 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“왜 혼자 출동했나요”...유족에 “안전 우려되는 상황 아니었다”</title>
+      <link>https://www.chosun.com/national/incident/2025/09/17/LXEBC522IVAJREAPEFQLDNTK2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/17/LXEBC522IVAJREAPEFQLDNTK2Q/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 12:35:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYB5LH25CMAJFEIC767NDIER7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오전 인천 서구 인천해양경찰서에서 영흥도 갯벌에 고립된 70대 중국인을 구조하다 숨진 고(故) 이재석 경사의 영결식이 엄수된 가운데 경찰 관계자들이 헌화 및 분향을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 순직한 고(故) 이재석(34) 경사 사고와 관련, 당시 이 경사와 함께 근무하던 당직 팀장은 안전에 큰 우려가 없다고 보고 혼자 출동시킨 것으로 파악됐다. &lt;br&gt;&lt;br&gt;17일 유족 등에 따르면 이 경사의 실종 소식을 접한 사촌형 A씨는 지난 11일 오전 5시 54분쯤 인천해양경찰서 영흥파출소에 전화를 걸어 당직 팀장과 전화 통화를 했다. 이 당직 팀장은 구조 활동 투입 당시부터 연락이 끊길 때까지 이 경사와 무전 교신을 지속한 인물이다.&lt;br&gt;&lt;br&gt;당직 팀장은 통화에서 이 경사가 혼자 출동한 이유 등에 대한 질문에 “그때는 일단 안전에는 큰 우려가 되는 상황이 아니라고 판단했었다”고 답했다. &lt;br&gt;&lt;br&gt;또 “차량 순찰을 나갈 때나 이동할 때는 두 사람이 이동하게 돼 있다”고 했다. &lt;br&gt;&lt;br&gt;12일 유족과의 대화에선 “재석이가 (추가 인원이 필요하다고 말한 것을) 제가 제대로 듣지 못한 것 같다”며 “그 말을 들었다면 추가 인원을 안 보낼 이유가 없는데”라고 했다. &lt;br&gt;&lt;br&gt;한 유족은 본지 통화에서 “당시 팀장이 2인 1조 출동 원칙을 알고도, 안전이 우려되지 않는다며 재석이를 혼자 출동시켰다”고 주장했다. 이어 “정확한 사고 경위가 조사돼야 한다”고 했다. &lt;br&gt;&lt;br&gt;해경은 외부 독립 기관에서 정확한 사고 경위 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>압구정 현대아파트 주민들, 백혈병 관리소 직원에 1억원</title>
+      <link>https://www.chosun.com/national/people/2025/09/17/OB4G7G2DIJEO5HFVWYVFWVOJ2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/17/OB4G7G2DIJEO5HFVWYVFWVOJ2A/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 12:08:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UHC7RY6NBG5VNMVKTPGHZKYEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 경기도 부천시 순천향대 부천병원에서 이태영 입주자대표회의 회장(왼쪽 두 번째) 등 압구정구현대아파트 주민들이 이 아파트 관리사무소에서 일했던 김미숙 주임(사진 가운데)에게 성금을 전달하고 있다. /압구정현대아파트 입주자회의 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구 압구정 현대아파트 주민들이 급성 백혈병에 걸린 관리사무소 직원에게 성금 약 1억원을 모아 전달했다.&lt;br&gt;&lt;br&gt;이 아파트 관리사무소에서 3년째 일하던 김미숙(52) 총무주임은 올 7월 혈액암인 급성 백혈병 진단을 받은 뒤 병세 악화로 호흡곤란을 겪으면서 고압산소 치료까지 받아야 했다. 부모·형제 없이 혼자 사는 김 주임으로선 값비싼 치료비를 감당하기 어려웠다고 한다. 이 소식을 접한 주민들은 먼저 급하게 현금 545만원을 모아 지난달 초 전달했다. 이어 지난달 28일에는 입주자대표회의가 ‘아름다운 동행’이란 이름으로 대대적 모금 활동을 하기로 결정했다. 주민들은 아파트 게시판에 안내문을 붙이고, 관리사무소에 관련 현수막을 내걸기도 했다.&lt;br&gt;&lt;br&gt;그 결과 이달 15일까지 보름 남짓 동안 9466만5000원을 모을 수 있었다. 지난달 초에 전달했던 금액과 합치면 성금 총 1억11만5000원을 마련한 것이다. 압구정 구(舊)현대아파트 3300가구 중 847가구가 동참했다고 한다. 주민 대표들은 17일 병원을 찾아 김 주임에게 성금을 전달했다. 이태영 아파트 입주자대표회의 회장은 “근면 성실했던 김 주임의 빠른 회복을 주민 모두가 간절히 바라고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양평고속도로 종점 변경 의혹’ 국토부 서기관 구속…“도망 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/17/Z5J7LWJXMFFGJPBJAVU2JS2J4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/Z5J7LWJXMFFGJPBJAVU2JS2J4M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 11:59:47 +0000</pubDate>
+      <content:encoded>서울-양평고속도로 종점을 김건희 여사 일가의 땅이 있는 양평군 강상면으로 바꿨다는 의혹을 받는 국토부 서기관이 17일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RT7TLHDVY53BGFGKHWVZDHVEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 반부패·경제범죄수사대가 16일 오전 '양평고속도로 특혜 의혹'과 관련, 세종시 정부세종청사 국토교통부 도로정책과에서 압수수색을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 김모 서기관에 대한 영장실질심사를 진행한 뒤 구속영장을 발부했다. 남 부장판사는 “도망할 염려가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;김 서기관은 2022년 국토부가 용역업체들을 통해 양평고속도로 사업에 대한 타당성 조사를 진행할 당시 국토부 도로정책과의 실무자로, 용역업체들에 대안 노선을 검토하라고 지시한 인물이다. &lt;br&gt;&lt;br&gt;다만 김 서기관은 양평고속도로 의혹과 무관한 개인 비리(뇌물 혐의)로 영장이 청구됐고, 이날 구속됐다. 특검은 김 서기관의 자택 등을 두 차례 압수수색하는 과정에서 관련 업체들로부터 3000만원이 넘는 현금을 수수한 정황을 포착했다. &lt;br&gt;&lt;br&gt;특검은 김 서기관이 양평군 강상면으로 종점을 변경하도록 용역업체에 압력을 행사한 혐의(업무상 배임)도 함께 수사 중이다. 특검은 김 서기관이 업체들로부터 뒷돈을 받고 노선 변경에 영향을 끼친 것이 아닌지 의심하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검 ‘조태용 직무유기’ 관련 김병기 민주당 원내대표 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/17/FR3GQF64CVCMTJVT6FSH6A37VE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/FR3GQF64CVCMTJVT6FSH6A37VE/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 11:44:16 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 등의 내란 사건을 수사 중인 조은석 내란특검이 17일 국회를 방문해 더불어민주당 김병기 원내대표를 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6DPU4MYZ72DRY6XML7ZXQL34Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 원내대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 국회 정보위원회 소속인 김 원내대표를 상대로 조태용 전 국가정보원장이 비상계엄 선포 계획을 미리 알고도 정보위에 보고하지 않은 직무유기 의혹을 집중 조사한 것으로 전해졌다. 국정원법 15조에 따르면, 국정원장은 국가 안전보장에 중대한 영향을 미치는 상황이 발생할 경우 지체 없이 대통령 및 국회 정보위원회에 보고해야 한다.&lt;br&gt;&lt;br&gt;특검팀은 또 작년 12월 6일 홍장원 전 국정원 1차장이 국회 정보위에서 계엄 당시 지시받은 체포조 명단을 폭로한 뒤 조 전 원장이 뒤늦게 정보위 면담 자리에 참석한 경위 등도 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 원내대표는 이날 조사가 끝난 뒤 취재진과 만나 국정원장의 보고 의무와 관련해 “정확한 것이 아니더라도 무슨 일이 있다면 반드시 먼저 보고해야 한다”며 “정보기관에서 국가 변란을 막는 것보다 중요한 게 어디 있느냐”고 했다.&lt;br&gt;&lt;br&gt;그는 이어 국정원이 전화로라도 윤석열 당시 대통령의 계엄 선포 계획을 정보위에 보고하지 않았던 것에 대해 “상식적으로 생각해도 긴급한 보고들은 전화로 다 보고하지 않느냐”며 “유선 보고가 없었다는 건 말도 안 되는 소리”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘원더걸스’ 선예, 커크 추모 논란에 “한 생명 죽음에 웃어야 하나”</title>
+      <link>https://www.chosun.com/national/people/2025/09/17/OYH7SRJI7RGTRIW563ZNREIM2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/17/OYH7SRJI7RGTRIW563ZNREIM2I/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 10:18:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YV24WQDXIZB2BD32IE6DSL5LBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원더걸스 출신 선예. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 원더걸스 출신 선예(본명 민선예‧36)는 17일 도널드 트럼프 미국 대통령의 측근인 찰리 커크의 사망을 애도하는 글을 올렸다가 비판을 받은 것과 관련 “여러분은 한 생명의 죽음에 대해서 웃고 있나”라고 했다. &lt;br&gt;&lt;br&gt;선예는 이날 자신의 소셜미디어를 통해 “(찰리 커크) 아내의 호소가 담긴 영상을 보고, 엄마로 살아가고 있는 같은 한 사람으로서 먹먹한 가슴으로 추모글을 올렸다”며 “그러자 얼굴도 모르는 분들이 제 공간에 와서 저에게 욕을 한다. 여러분 왜 그렇게까지 하시나?”라고 했다. &lt;br&gt;&lt;br&gt;선예는 “한 사람이 죽었다. 그럼 여러분은, 한 생명의 죽음에 대해서 ‘참 잘됐다’라는 마음으로 웃고 계신가?”라며 “제 직업, 엄마, 여자라는 정체성을 떠나 한 인격체로서 한 사람의 비극적인 죽음을 추모했다”고 했다. &lt;br&gt;&lt;br&gt;선예는 “(아이들에게) 지금보다 조금이라도 더 나은 세상을 물려주고 싶은 마음으로 고민하고 살아가고 있다”며 “서로 견해가 다르고, 생각이 다른 부분들이 있지만 서로 다르기에 아름다운 부딪힘 속에서 더 나은 세상으로 갈 수 있다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “저를 정치적 혹은 종교적 이슈로 몰아가지 말라”며 “제 공간에 와서 무례하고 비인격적인 언행은 더 이상 삼가주시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;앞서 선예는 미국 보수 청년 단체 ‘터닝포인트 USA(Turning Point USA)’의 창립자이자 대표인 찰리 커크를 추모하는 게시물을 소셜미디어에 올렸다가 일부 네티즌들로부터 비판을 받았다. 찰리 커크는 지난 10일 미국 유타주의 유타 밸리 대학교에서 연설 도중 괴한의 총격을 받고 사망했다. &lt;br&gt;&lt;br&gt;찰리 커크는 생전 기독교 가치관을 바탕으로 총기 소유권을 지지하고 낙태와 동성애, 트랜스젠더 권리를 비판해 논쟁의 중심에 섰다. &lt;br&gt;&lt;br&gt;이와 관련 국내에선 일부 네티즌들이 그룹 슈퍼주니어 멤버 최시원, 배우 진서연, 최준용 등 찰리 커크 추모글을 올린 유명인들에게 악플 테러를 가했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VETKPUNOZFGOHETCSBRRR2L6IQ.jpg?auth=78e4c68f09aea534d3e0a1de8510859e7b6a82a352e0f57db1e27445311fafc9&amp;smart=true&amp;width=1698&amp;height=1273" type="image/jpeg" height="1273" width="1698">
+        <media:description type="plain">18일 오전 서울 성북구의 한 카페에서 뮤지컬 '루쏘'에 출연하는 배우 선예가 본지와의 인터뷰를 갖고 있다. 2023. 1. 18 / 장련성 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한학자 통일교 총재, ‘金여사 명품 선물’ 질문에 “내가 왜 그래야 하나”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/17/5Y4Z2QR5NJF6THRXOICSXDJEAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/5Y4Z2QR5NJF6THRXOICSXDJEAI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 10:38:24 +0000</pubDate>
+      <content:encoded>김건희 여사에게 8293만원어치 명품을 건네고, 권성동 국민의힘 의원에게 불법 정치자금을 제공한 혐의를 받는 한학자 통일교 총재가 17일 9시간 반가량 진행된 특검 조사를 마치고 돌아갔다.&lt;br&gt;&lt;br&gt;이날 오전 9시 46분쯤 서울 광화문 특검 사무실에 출석한 한 총재는 오전 10시부터 조사에 임했다. 오후 4시 45분쯤 피의자 신문을 마친 뒤 조서 열람을 시작했고, 오후 7시 33분쯤 사무실 1층에 모습을 드러냈다. 한 총재는 이날 오전 출석할 때는 통일교 관계자 부축을 받아 걸어들어갔지만, 귀갓길엔 휠체어를 탔다. 한 총재는 지난 4일 서울아산병원에서 심장 수술을 받고 회복 중인 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJVJG5A4FFOY5CQLUR6Y72RHDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 17일 서울 종로구 KT광화문빌딩에 마련된 민중기 특별검사팀 사무실에서 조사받고 귀가하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대기 중이던 기자들이 ‘권 의원에게 왜 1억원을 전달했느냐’고 묻자, 한 총재는 “내가 왜 그럴 필요가 있습니까”라고 답했다. 이어진 ‘김 여사에게 목걸이와 가방 전달하신 적 없느냐’는 질문엔 “내가 왜 그래야 하는데”라고 답했다. 한 총재는 ‘조사에서 어떻게 해명하셨는지’ 묻는 질문엔 “전체적으로 들어보시라. 내가 어떻게 답했는지”라고 말했다. 통일교 측이 앞서 밝힌 것처럼 혐의를 모두 부인한 것이다. 한 유튜버가 ‘불법 정치자금, 청탁 직접 지시하셨죠’라고 지적하자, 한 총재는 “아니야”라며 강하게 부인하기도 했다.&lt;br&gt;&lt;br&gt;한 총재는 통일교 전 세계본부장 윤영호씨를 통해 김건희 여사에게 6200만원대 그라프 목걸이와 1000만원 안팎 샤넬 가방 2개를, 권성동 국민의힘 의원에게 불법 정치자금 1억원을 건넨 혐의를 받는다. 국민의힘 등에 불법 정치자금 2억1000만원을 제공한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 바다, 적조 피해 눈덩이처럼 불어</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/09/17/36DHEIPCBZH7RATPZUNLROYU4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/17/36DHEIPCBZH7RATPZUNLROYU4E/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Sep 2025 10:23:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SHNFMAFZVPP5OQDVHFZKXO354.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 경남 남해군 미조면 한 항구에서 집단 폐사한 참돔의 수거 작업이 진행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역에서 적조로 어류 281만여 마리가 폐사한 것으로 집계됐다. &lt;br&gt;&lt;br&gt;경남도는 지난달 말 적조 특보 발령 후 양식장 112곳에서 넙치·숭어·감성돔·농어·참돔 등 어류 281만3808마리가 누적 폐사했다고 17일 밝혔다. 지난 16일 기준으로 집계된 196만2307마리보다 대폭 늘어났다.&lt;br&gt;&lt;br&gt;세부 피해 현황으로는 남해군 양식장 38곳에서 159만1165마리, 통영시 양식장 41곳에서 73만4640마리, 하동군 양식장 22곳에서 20만3903마리, 거제시 양식장 9곳에서 26만1100마리, 사천시·고성군 양식장 2곳에서 각 1만2000마리가 누적 폐사했다. 피해 금액은 59억5506만원으로 추산하고 있다. &lt;br&gt;&lt;br&gt;국립수산과학원은 지난달 26일 적조 예비 특보를 시작으로 경남 서부 연안에 적조 특보를 올해 처음 발령했다.&lt;br&gt;&lt;br&gt;경남도는 지난달 26일부터 어류 폐사 해역 등에 황토 1만3456t을 뿌리는 등 방제 작업을 하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“故 이재석 경사 한 시간 동안 생존”...마지막 포착 시간  20분 오류, 왜?</title>
       <link>https://www.chosun.com/national/national_general/2025/09/17/7GFL5A3ADNFEZPF5HVVCYDRWFI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/7GFL5A3ADNFEZPF5HVVCYDRWFI/</guid>
@@ -786,60 +892,6 @@
 /스미소니언 국립 초상화 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;역사 속 인물은 늘 같은 모습으로만 남지 않습니다. 어떤 시대에는 영웅처럼 칭송받지만, 다른 시대에는 비판의 대상이 되기도 해요. 또 어떤 가치를 중요하게 생각하는지에 따라 같은 인물에 대해서도 정반대의 평가를 하기도 하죠. 오늘 알아볼 알렉산드로스 대왕, 진시황, 에이브러햄 링컨은 다양한 평가가 나오는 대표적인 인물들입니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;제국의 건설자인가, 파괴의 정복자인가&lt;/b&gt;&lt;br&gt;&lt;br&gt;마케도니아의 왕 필리포스 2세(기원전 382~336)는 그리스를 정복한 후 페르시아 원정을 계획하다 암살당했어요. 그의 아들 알렉산드로스(기원전 356~323)는 스무 살에 왕위에 올라 아버지의 계획을 이어받았지요. 그는 페르시아와 이집트를 차례로 정복하고, 중앙아시아와 인더스강 유역까지 뻗어 나가는 거대한 제국을 세웠습니다. 이로써 약 300년 동안 이어진 헬레니즘 시대가 시작됐어요.&lt;br&gt;&lt;br&gt;알렉산드로스는 정복지에 그리스 문화를 퍼뜨리면서도 다른 문화와의 융합을 시도했어요. 특히 정복지 주민들과 집단 결혼을 주관하면서 제국의 화합을 이끌었지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XAOBMATOBFGFPOYQZCVBUY67Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;로마 시대 제작된 알렉산드로스 대왕의 모자이크화. 알렉산드로 대왕은 정복 지역 주민들에게 포용 정책을 폈다는 긍정적 평가가 있지만, 수많은 전쟁을 일으킨 잔혹한 지배자라는 평가도 받지요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 그를 보는 시선은 엇갈립니다. 그를 부정적으로 평가하는 사람들은 알렉산드로스는 숱한 전쟁으로 수많은 사람을 희생시켰고, 그의 문화 융합 정책도 사실은 그리스 문화를 우위에 두는 성격이 강했다고 주장합니다. 이마저도 농촌 지역에서는 잘 이뤄지지 않았고요. 또 대부분의 주요 관직을 마케도니아인과 그리스인이 가져갔기에 정복지 사람들의 불만은 클 수밖에 없었죠. 결국 그의 제국은 그가 세상을 떠난 뒤 곧바로 분열하고 말았습니다. 알렉산드로스를 두고 누군가는 ‘동서를 잇는 위대한 정복자’라 하지만, 최근엔 부정적인 측면을 조명하는 연구도 많아지고 있어요. &lt;br&gt;&lt;br&gt;&lt;b&gt;폭군 진시황? 통일의 상징이기도&lt;/b&gt;&lt;br&gt;&lt;br&gt;기원전 221년, 진시황제는 전국시대를 끝내고 최초로 중국을 통일했어요. 그는 화폐와 도량형(길이·부피·무게 등의 단위)을 통일했고, 문자를 정리해 오늘날 한자의 뿌리가 되는 소전체를 만들었지요. 또 북방 민족을 막기 위해 성벽을 연결해 만리장성의 기초를 쌓고, 전국 곳곳에 뻗은 도로망을 건설했습니다. 군현제를 실시해 강력한 중앙집권 체제를 세운 것도 그의 업적이에요.&lt;br&gt;&lt;br&gt;하지만 진시황은 폭군으로도 기억되고 있지요. 사마천의 역사서 ‘사기’에는 그가 유학 경전을 불태우고, 학자들을 처벌했다는 ‘분서갱유’ 사건이 기록돼 있습니다. 또 거대한 궁궐과 무덤을 건설하며 백성들의 고통을 외면했다는 비판도 받았어요. 이런 모습 때문에 그는 잔혹한 군주로 불리며 부정적인 평가를 받지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4DDO2BPYJCSRLBYZWSVABCFZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청나라 시대에 진시황을 상상해 그린 그림이에요. 진시황은 ‘분서갱유’ 등 사건을 저지른 대표적인 폭군으로 알려져 있지만, 중국을 최초로 통일하고 나라의 기틀을 다진 지도자이기도 합니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 다른 한편으로는, 진시황제가 인재를 널리 등용하고 병사들에게 전공을 세우면 보상을 아끼지 않았다는 기록과 평가도 있어요. 매일 엄청난 분량의 문서를 직접 검토할 정도로 일에 몰두했다고도 합니다. 중화인민공화국 초대 주석인 마오쩌둥 역시 “진시황은 최초로 중국을 통일한 인물”이라며 긍정적으로 평가했죠.&lt;br&gt;&lt;br&gt;다만 진시황이 이후 동양 군주들의 모델이 됐다는 건 분명합니다. ‘황제’라는 칭호, 군현제와 중앙집권 제도, 사상의 통일은 뒤 왕조들이 그대로 이어받았지요. 진시황이 없었다면 중국 대륙이 지금의 유럽처럼 여러 나라로 나뉘어 있었을지도 모릅니다. 그래서 그는 ‘폭군’이자 동시에 ‘통일의 상징’으로, 오늘날까지도 서로 다른 평가를 받고 있는 인물이에요.&lt;br&gt;&lt;br&gt;&lt;b&gt;민주주의의 상징 링컨, 정치의 한계도 보여줘&lt;/b&gt;&lt;br&gt;&lt;br&gt;에이브러햄 링컨은 “국민의, 국민에 의한, 국민을 위한 정부”라는 게티즈버그 연설로 잘 알려진 정치인이지요. 이 연설은 민주주의의 정신을 가장 잘 보여 주는 말로 지금까지 인용됩니다. 그래서 링컨은 자유와 평등의 상징으로 존경받지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QL5PUNIT7FGGBILNE5T6QGPDVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미국 워싱턴 DC 링컨기념관에 있는 링컨 조각상. 그는 노예제 폐지를 이 끌었어요. 하지만 노예제와 인종에 대한 입장이 시기별로 달라졌다는 의견도 있습니다&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 최근 미국에서 링컨에 대한 평가도 달라져야 한다는 목소리가 다시 나오기 시작했어요. 그가 처음부터 완전한 노예 해방론자는 아니었다는 겁니다. 1858년 링컨은 선거운동 기간에 열린 토론에서 “흑인과 백인이 사회적·정치적으로 평등하게 살 수는 없다”는 취지로 말했죠. 흑인과 백인 사이에 차이가 있다고도 했어요. 오늘날 기준으로는 분명 인종차별적인 발언이지요. 그러면서도 그는 흑인들의 기본적인 인권은 보장해야 한다는 취지의 발언을 하기도 했습니다. 이렇게 본다면 초창기에 링컨이 가졌던 시각은 제한된 범위의 평등이었다고 할 수 있지요. 이 때문에 일부에선 “링컨도 사실 인종차별주의자였다”라는 비판도 나옵니다. 그래서 학자들은 링컨의 태도를 시기별로 나눠 살펴야 한다고도 말하죠.&lt;br&gt;&lt;br&gt;현실 정치에서도 링컨의 최우선 과제는 무엇보다도 북부와 남부로 갈라지지 않도록 미국 연방을 유지하는 거였습니다. 노예제 폐지 문제는 그다음이었죠. 링컨은 노예제를 확대하는 데 대해선 단호히 반대했지만, 기존 남부 주에서 즉각 폐지해야 한다는 입장은 아니었어요. 그는 1861년 대통령이 된 뒤에 “나는 기존 노예제 주에 간섭할 권한도 의향도 없다”고 했습니다.&lt;b&gt; &lt;/b&gt;또 “(남북)전쟁의 목적은 연방을 구하는 것이지, 노예제를 지키거나 없애는 것이 아니다”라고 밝히기도 했죠.&lt;br&gt;&lt;br&gt;그럼에도 링컨이 노예제 폐지에 결정적으로 기여한 것은 맞습니다. 남북전쟁 중인 1863년 노예 해방 선언을 발표했고, 헌법을 바꿔서 노예제를 완전히 없애려고 노력했어요. 그의 사망 직후 이뤄진 미국 내 노예제 폐지를 놓고 “링컨의 정치적 노력과 리더십이 없었다면 가능하지 않았다”는 평가도 많습니다. &lt;br&gt;&lt;br&gt;이 인물들의 이야기는 역사가 결코 단순하지 않다는 사실을 알려 줍니다. 역사를 과거와 현재가 끊임없이 대화하는 장이라고 말하는 이유가 여기에 있는 것이겠죠. 그래서 역사적 인물을 단순히 ‘영웅’이나 ‘악인’으로만 구분하기보다, 복합적인 얼굴을 가진 존재로 이해하는 것이 좋겠습니다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [동물 이야기] ‘반가운 손님’ 상징하지만... 자기 영역 침범하면 독수리도 공격해요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/17/3AT32J52OFBDNJFDVVOOMB3TYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/17/3AT32J52OFBDNJFDVVOOMB3TYY/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:39:00 +0000</pubDate>
-      <content:encoded>서울을 배경으로 걸그룹 멤버들이 악귀를 물리치는 내용을 그린 넷플릭스 애니메이션 ‘케이팝 데몬 헌터스’의 인기가 식지를 않고 있어요. 주인공인 아이돌 그룹 멤버들 못지않게 잠깐씩 등장하는 호랑이 ‘더피’와 까치 ‘수지’의 인기가 대단합니다. 우리나라 전통 민화로 유명한 까치호랑이 그림에서 힌트를 얻어 만든 캐릭터라고 하죠.&lt;br&gt;&lt;br&gt;덕분에 흔한 텃새로만 알려진 까치에 대한 관심도 높아졌어요. 까치 하면 먼저 다른 새들과 확연히 구별되는 울음소리, 그리고 이 울음소리가 들리면 반가운 손님이 찾아온다는 얘기가 떠오르지 않나요? 까치는 참새·비둘기와 함께 우리나라에서 가장 흔하게 볼 수 있는 텃새예요. 수도권 지하철에만 까치 이름이 들어간 역이 두 곳(2·5호선 까치산역·7호선 까치울역)이 될 정도죠. 까치는 분류학적으로는 참새·까마귀와도 가까워요. 다 자란 몸길이는 45~48㎝인 까치는 몸 색깔이 검은색과 흰색으로 뚜렷하게 구분돼 있죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36HNM5K66JDUFBODA4PGPGKLCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 위쪽의 검은 깃털은 자세히 보면 푸르스름한 광택을 띠어요. 뒤에는 아주 기다란 꽁지깃이 있고요. 날아다닐 때는 다른 새들보다 속도가 비교적 느린 편이라서 알아보는 게 어렵지 않답니다. 땅에 내려왔을 때는 두 발을 모으고 깡충깡충 점프하며 이동하죠. 곡식과 과일부터 곤충, 그리고 도마뱀 같은 작은 파충류까지 사냥하는 잡식성이랍니다. 유럽에 사는 까치는 다른 새의 둥지를 습격해서 새알을 훔쳐 먹기도 한대요. &lt;br&gt;&lt;br&gt;까치는 한번 터전을 잡으면 좀처럼 떠나지 않고 둥지를 짓고 새끼를 쳐요. 번식 철이 되면 새로운 둥지를 짓는 걸 좋아하지만, 기존의 둥지가 상태가 괜찮으면 고쳐 쓰기도 해요. 이렇게 해를 거듭해 고쳐 쓰면 둥지가 아주 커진답니다. 거울 조각처럼 반짝이는 걸 좋아해서 둥지에 가져다 놓기도 하는데요. 이건 친척뻘인 까마귀와도 아주 흡사한 습성이죠. &lt;br&gt;&lt;br&gt;까치는 땅에서 4~20m 떨어진 높은 나뭇가지 위에 둥지를 지어요. 그래야 뱀 등으로부터 더 안전하게 새끼와 알을 지킬 수 있거든요. 나무가 많지 않은 도시에서는 높고 튼튼한 구조물을 찾다 보니 철도의 전차선이나 전봇대 위에 둥지를 짓게 됐어요. 그런데 이런 곳에 까치집을 지으면 전기가 끊기거나 열차 운행에 차질을 빚을 수 있어 까치가 번식을 시작하는 봄철에 맞춰 전국 곳곳에서 까치집을 제거하는 작업을 하고 있답니다. 게다가 까치는 수확을 앞둔 과일을 쪼아 먹어 농사를 망치기도 하죠. 이런 이유들로 까치는 환경부에서 유해야생동물로 지정돼 있기도 해요. &lt;br&gt;&lt;br&gt;까치는 한 배에 많게는 알을 여섯 개까지 낳아요. 알에서 나온 지 한 달 정도 지나면 날아다닐 수 있게 되고, 다시 한 달 정도 부모의 보호를 받다가 독립해요. 까치는 자신의 영역을 정해놓고, 이를 지키려는 습성이 강한 새랍니다. 우리나라로 겨울을 나러 온 독수리가 까치에게 공격을 받는 장면이 간혹 보이는데요. 이건 까치가 자신의 영역을 침범하지 말라고 대응에 나서는 거래요. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] back to square one</title>
-      <link>https://www.chosun.com/national/nie/english/2025/09/17/Q6KSZQ7UDJBK5K4VKZC6NZZQFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/17/Q6KSZQ7UDJBK5K4VKZC6NZZQFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2MJYDFW2ND7TLF4GJBV4RQW54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 닦다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/09/17/2NK45LDIW5EDDBLLJUT7T64NGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/17/2NK45LDIW5EDDBLLJUT7T64NGM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4QDIMHDXVAA5HG2Q36J2AHTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 호전(好戰)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/17/T2JTIV33C5H6DHKVA3MGBVMZHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/17/T2JTIV33C5H6DHKVA3MGBVMZHA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IW6QFUNH5VAAJDYU5DG7NKCMJE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2707] 사다리를 타자</title>
-      <link>https://www.chosun.com/national/nie/2025/09/17/LD4MHHQHH5GUZIAKUG6OZ7BXZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/17/LD4MHHQHH5GUZIAKUG6OZ7BXZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4R5I3FC6KRBNDC6CFIXEH43YN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 대가나 보상을 바라다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/09/17/X5MZBXITJJDXVJ2DY3HIHMQMGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/17/X5MZBXITJJDXVJ2DY3HIHMQMGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGTLKEYRTNHSJFTRKZYODQQJNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 9월 17일</title>
       <link>https://www.chosun.com/national/transport-environment/2025/09/16/Q43TEZMOYNDXDLOST22SAF3PXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/16/Q43TEZMOYNDXDLOST22SAF3PXM/</guid>
@@ -849,15 +901,6 @@
       <content:encoded>전국 대체로 흐리고 곳곳에 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CFGHYQR2U5BABHUW6IOJPGNKLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>용인 영동고속도로 마성터널서 버스 화재…11명 중경상 </title>
-      <link>https://www.chosun.com/national/regional/2025/09/16/MOM4VWYYQVEANDP5DEXLV4YJR4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/16/MOM4VWYYQVEANDP5DEXLV4YJR4/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 13:59:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KD2CX4PZVIEBDH4CP5DMEJLAI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 경기 용인시 처인구 영동고속도로 강릉방향 마성터널에서 버스 화재가 발생해 소방대원들이 화재를 진압하고 있다. /경기도소방재난본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 9시 17분쯤 경기도 용인시 처인구 영동고속도로 강릉 방향 마성터널을 지나던 시외버스에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;이 불로 1명이 크게 다치고 10명은 연기를 마셔 치료를 받고 있다. 부상자는 더 늘어날 가능성이 있다.&lt;br&gt;&lt;br&gt;사고는 인천에서 충북 진천으로 향하던 시외버스가 단독사고로 인해 불이 나면서 시작됐다.&lt;br&gt;&lt;br&gt;소방당국은 대응 2단계를 발령하고, 장비 24대와 인력 72명을 동원한 진화작업에 나서 1시간여 만인 오후 10시 25분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 자세한 화재 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>치파오 입은 중국 여성들, 성산 일출봉서 춤 ‘갑론을박’</title>
       <link>https://www.chosun.com/national/national_general/2025/09/16/4AMOI4L2E5FEPBQLIZ57UURPWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/4AMOI4L2E5FEPBQLIZ57UURPWY/</guid>
@@ -865,15 +908,6 @@
       <description/>
       <pubDate>Tue, 16 Sep 2025 13:20:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OR5OHQN4RHRNJXVNVA4V3VUP4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;중국의 전통 의상인 분홍색 치파오를 입은 여성들이 성산일출봉 동암사 인근에서 춤을 추고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국인들이 전통 의상을 입고 성산일출봉 동암사 인근에서 단체 춤을 추는 장면이 포착됐다. &lt;br&gt;&lt;br&gt;16일 한 온라인 커뮤니티에는 ‘성산일출봉에서 단체로 춤추는 중국인들’이라는 제목과 함께 영상 하나가 올라왔다. &lt;br&gt;&lt;br&gt;공개된 영상을 보면, 중국의 전통 의상인 분홍색 치파오를 입은 여성 10명이 성산일출봉 동암사 인근에서 두 줄로 나란히 중국 음악에 맞춰 춤을 추는 모습이 담겼다. 여성들 앞에서는 모자와 선글라스를 쓴 한 남성과 또 다른 남성이 함께 ‘예술단’이라고 적힌 빨간색 행사용 현수막을 들고 있었다. &lt;br&gt;&lt;br&gt;이 영상은 여러 온라인 커뮤니티와 소셜미디어(SNS) 등에 널리 퍼졌고, 네티즌들은 엇갈린 반응을 보였다. 네티즌들은 “백두산에서는 태극기도 못 꺼내는데 제주도에서는 난리 났다” “남의 나라 와서 왜 저러는 걸까” “그냥 춤추는 거면 괜찮은데 노래 크게 틀고 하는 건 좀 아닌 것 같다” 등의 의견을 내놨다. &lt;br&gt;&lt;br&gt;반면 일부는 “한국 사람들도 미국 같은 해외 가서 태권도 하고 그러는데 그거랑 비슷한 것 아니냐” “요즘 중국 사람들 단체 관광하면서 명소에서 저렇게 춤추는 게 유행이라더라. 물론 저런 외진 곳에서 자기들끼리 하는 걸 뭐라고 하겠나” “그냥 촬영용 같다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;제주를 찾는 외국인 관광객은 점점 늘어나고 있다. 지난 1월 제주도관광협회에 따르면 지난해 제주를 찾은 외국인 관광객은 190만7608명으로 코로나 이전인 2019년 이후 5년 만에 100만명을 넘어섰다. 특히 중국인 관광객이 130만4359명으로 전체 외국인 관광객의 68.4%를 차지했다. 올해 1~8월 제주를 찾은 외국인 관광객은 150만 9498명으로 전년 동기 130만 5895명과 비교해 20만 3603명(15.6%) 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 금속 제조 공장서 40대 외국인 노동자 기계에 끼여 숨져 </title>
-      <link>https://www.chosun.com/national/regional/2025/09/16/INRIN6C2X5GN3KVJVIGE2MXO4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/16/INRIN6C2X5GN3KVJVIGE2MXO4U/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 13:22:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FV5STKOYAM33ANSFO7CJEDL43M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 금속 제조 공장에서 40대 외국인 노동자가 기계에 끼여 숨졌다.&lt;br&gt;&lt;br&gt;16일 인천경찰청 형사기동대에 따르면 이날 오후 2시 50분쯤동구 만석동에 있는 금속 제조 공장에서 캄보디아 국적 40대 A씨가 프레스기에 끼였다.&lt;br&gt;&lt;br&gt;이 사고로 119 구급대가 출동했으나 A씨가 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;노동 당국은 해당 공장이 근로자 5인 이상 사업장인 점을 고려해 중대재해 처벌 등에 관한 법률(중대재해처벌법)을 적용할 방침이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 A씨가 금속으로 된 원형 모양의 봉을 깎는 작업을 하다가 사고를 당한 것으로 보고 구체적인 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 A 씨의 시신 부검을 의뢰하고, 내부 CCTV를 확인해 사고 당시 안전관리자가 있었는지 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산지하철 노사 단체협상 잠정 합의…17일 파업 철회 </title>
@@ -894,15 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWE3SZCYEIKCQBJKY2RVVUW7UQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 국민참여재판에서 수사 검사가 공판에 참여할 수 없도록 예규를 수정한다. 이재명 정부의 ‘수사·기소 분리’ 원칙과 정성호 법무장관의 직무대리 제도 개선 지시에 따른 것이다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 대검은 ‘국민참여재판 공소수행에 관한 지침’ 개정 작업에 착수했다. 국민참여재판에 수사 검사가 직무대리 형태로 공판에 참여하는 것을 막는다는 취지다.&lt;br&gt;&lt;br&gt;현재 지침은 인사로 전출된 수사 검사가 기존에 수사했던 사건의 국민참여재판 공판 준비 기일과 배심원 선정기일, 공판 기일에 참석하는 것을 원칙으로 한다. 대검 공판송무부는 작년 11월 수사 검사가 국민참여재판에 적극 참여하도록 일선 검찰청에 지시하기도 했다. &lt;br&gt;&lt;br&gt;그러나 정 장관이 수사 검사가 직무대리 발령을 받아 해당 사건의 재판에 참여하는 것을 원칙적으로 금지하면서, 대검도 예규 손질에 나섰다. 앞서 법무부는 성범죄나 아동학대 사건에서 이미 담당 검사와 신뢰관계가 형성된 피해자에 대한 증인신문이 필요한 경우 등 특수한 상황에서만 제한적으로 직무대리를 허용하기로 했다.&lt;br&gt;&lt;br&gt;검찰 내부에서는 우려의 목소리도 나온다. 사건을 가장 잘 아는 수사 검사가 직무대리로 국민참여재판 등 공판에 참여하지 못하면 공소 유지에 허점이 생길 수 있다는 것이다.&lt;br&gt;&lt;br&gt;앞서 이화영(전 경기도 평화부지사)씨의 국회 위증 및 쪼개기 후원 사건의 수사와 기소를 맡았던 부산고검 창원지부 서현욱 검사는 전날 검찰 내부망 이프로스에 대검의 국민참여재판 직무대리 불허 사실을 밝히며 “재고해달라”고 요청하기도 했다. 이씨 재판은 국민참여재판으로 진행될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>권성동 구속 심사, 4시간 30여분만 종료…서울구치소서 대기</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/16/Y5AJCG5IGNHRTHK2SYPOGWTLKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/16/Y5AJCG5IGNHRTHK2SYPOGWTLKI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 09:40:55 +0000</pubDate>
-      <content:encoded>통일교로부터 불법 정치자금 1억원을 받았다는 혐의를 받는 권성동 국민의힘 의원의 구속 심사가 4시간 30여분만에 끝났다. 구속 여부는 이날 밤 늦게 결정될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDTE4QH4PWFMT4GGOTLMFSDUWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 16일 오후 서울 서초구 중앙지방법원에서 '통일교 불법 정치자금 수수' 의혹(정치자금법 위반 혐의) 관련 구속 전 피의자 심문(영장실질심사)에 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사의 심리로 진행된 영장실질심사는 16일 오후 2시 시작돼 6시 37분쯤 끝났다. 재판부는 오후 5시쯤 약 10분간 휴식을 가진 것 외에는 계속 심문을 진행했다.&lt;br&gt;&lt;br&gt;심사를 마친 권 의원은 오후 6시 45분쯤 법원을 나서며 “잘 설명했다”고 짧게 말했다. ‘한국은행 관봉권으로 (돈을) 받았느냐’ ‘통일교로부터 어떠한 경제적 지원도 받은 게 없는 것인가’ ‘윤영호 전 통일교 세계본부장으로부터 어떠한 경제적 지원도 받은 적 없느냐’는 등을 묻는 기자의 질문에는 대답하지 않았다. 권 의원은 호송차를 타고 서울구치소로 이동해 결과가 나올 때까지 대기한다.&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀은 지난달 28일 권 의원에 대한 구속영장을 청구했다. 권 의원은 대선을 앞둔 2022년 1월 서울 여의도 63빌딩에서 윤 전 본부장으로부터 불법 정치자금 1억원을 받은 혐의를 받는다. 특검은 권 의원이 이 돈 외에도 추가로 정치자금을 받았을 가능성이 있다고 보고 구속 수사의 필요성을 강조하고 있다.&lt;br&gt;&lt;br&gt;권 의원에 대한 체포동의안은 지난 11일 국회 본회의에서 여당 주도로 통과됐다. 법원이 구속 영장을 발부하면 권 의원은 구치소에 수감돼 정식 입소 절차를 밟게 된다. 영장이 기각되면 곧바로 풀려난다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘용인 시간당 53.5㎜‘...경기 호우 피해 26건 접수</title>
       <link>https://www.chosun.com/national/national_general/2025/09/16/TET5LLCDHNGY5N6TTQO2ZHK7TE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/16/TET5LLCDHNGY5N6TTQO2ZHK7TE/</guid>
@@ -910,24 +935,6 @@
       <description/>
       <pubDate>Tue, 16 Sep 2025 09:45:44 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7AJJNKCYRH3ZBMGKY45DJOWZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 2시 10분쯤 안산시 상록구 안산천 산책로에서 고립된 90대 남성이 소방대원들에 의해 구조되고 있다./ 경기도소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기지역에 호우특보가 내렸던 16일 일부 지역에서 시간당 50㎜를 넘기는 등 많은 비가 쏟아지면서 곳곳에서 피해가 발생했다.&lt;br&gt;&lt;br&gt;이날 경기도소방재난본부에 따르면 오후 4시까지 접수된 호우 피해 건수는 총 26건이다. 인명구조 1건, 주택 및 도로 침수에 따른 안전조치 등 25건이다. &lt;br&gt;&lt;br&gt;이날 오후 2시 3분쯤 안양시 만안구의 한 발전소 신축 현장에서는 철근으로 된 비계가 일부 무너져 내리는 사고도 발생했다. 이로 인한 인명피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;또 오후 2시 10분쯤 안산시 상록구 안산천 산책로에서 수위가 갑자기 올라가면서 전동 휠체어를 타고 지나가던 90대 남성이 고립됐다가 소방대원들에 의해 구조됐다.&lt;br&gt;&lt;br&gt;이날 0시부터 오후 5시까지 경기지역에 내린 비는 용인 57㎜, 화성 53.5㎜, 안산 51.5㎜, 군포·광주 43㎜ 등이다. 1시간 최대 강수량으로는 용인 53.5㎜, 화성 52.5㎜, 안산 50.5㎜, 광주 41.5㎜, 군포 40.5㎜ 등이다.&lt;br&gt;&lt;br&gt;기상청은 안산에 호우경보를, 이천·여주·광주·오산·용인·시흥·부천·평택·화성 등 9개 시군에 호우 주의보를 내렸다가 비가 소강상태를 보이자 오후 3시 30분을 기해 차례로 해제했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관악구 피자집 칼부림 살인’ 김동원 신상 공개</title>
-      <link>https://www.chosun.com/national/incident/2025/09/16/TPBDB5YOHZFB7EDL3WJ4XYQSKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/16/TPBDB5YOHZFB7EDL3WJ4XYQSKQ/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 09:39:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O2IR4SSDA3Q7V6RRKGDOB2IMZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 공개된 서울 관악구 피자가게 살인사건 피의자 김동원/서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 관악구 소재 피자 프랜차이즈 가게에서 흉기를 휘둘러 3명을 숨지게 한 점주 김동원(41)의 신상 정보가 16일 공개됐다. &lt;br&gt;&lt;br&gt;서울경찰청은 이날 신상정보공개위원회를 열어 김동원의 이름, 나이, 사진 등을 서울경찰청 홈페이지에 30일간 공개하기로 했다고 밝혔다. 경찰은 “인테리어 공사 이후 보수 문제 관련하여 불만을 품고 3명을 살해하는 등 피해의 중대성 및 범행의 잔인성이 인정되고, 범행의 증거도 충분하며, 범죄 예방 등 공공의 이익을 위해 필요하다고 판단했다”며 신상 공개 이유를 설명했다.&lt;br&gt;&lt;br&gt;김동원은 지난 3일 서울 관악구 조원동에서 자신이 운영하던 피자가게에서 프랜차이즈 본사 임원 1명, 인테리어 업자 2명에게 흉기를 휘둘러 살해한 혐의를 받는다. 피해자들과 매장 보수 공사를 두고 갈등이 있자 앙심을 품고 범행을 저지른 것으로 전해졌다. 김동원은 경찰 조사에서 범행을 인정했고, 신상 공개 결정에도 ‘이의 없다’는 입장을 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원노조 “법원, 개혁 대상 전락… 대법원장 결자해지하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/16/JZSTTN2YPFAVJDBENLIYSE5GDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/16/JZSTTN2YPFAVJDBENLIYSE5GDM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 08:53:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GW6VERDCCMFC7WDRV3O4Y4VUSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당이 내란전담재판부 설치를 놓고 이견을 표한 조희대 대법원장에 대한 사퇴 공세를 높인 15일 저녁 서울 서초구 대법원에서 조희대 대법원장이 청사를 나서고 있다. 2025.9.15/뉴스1 ⓒ News1 장수영 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원 노동조합은 더불어민주당의 ‘사법 개혁’ 추진과 조희대 대법원장 사퇴 요구 등에 대해 16일 “대법원장이 결자해지하기 바란다”고 했다. 전국공무원노동조합 법원본부는 이날 성명서를 내고 “조 대법원장은 ‘법의 날’ 행사에서 사법권 독립을 강조했으나 그 직후 정치권에서는 사퇴를 쟁점화하고 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;법원노조는 “1987년 이후 지난 40여년간 사법제도 개편이 추진될 때 언제나 사법부가 참여할 공간이 열려있었고 적극적으로 참여했었다. 이는 사법부에 대한 기본적인 신뢰가 있었기 때문”이라며 “그러나 지금 여당이 밀어붙이는 사법개혁에 많은 국민이 호응하고 있고 법원은 개혁의 주체가 아니라 대상으로 전락했다”고 했다.&lt;br&gt;&lt;br&gt;대법원이 지난 12일 전국법원장회의를 열고 “사법제도 개편에 사법부 참여가 필수적”이라고 발표한 것에 대해서는 “사법권이 법원의 고유 권한이고 사법제도의 변경 시 그 운용을 법원이 해야 하기 때문에 법원 구성원이라면 지극히 당연하다고 생각할 수 있는 내용”이라면서도 “하지만 국민들의 시선은 차갑기만 하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사법부는 왜 이런 상황에 처하게 됐는가. 그 책임은 누구에게 있는가”라며 “여기까지 이르게 된 것은 대법원장의 진두지휘에 따라 대법원이 비상식적 절차를 통해 선고한 대통령 후보에 대한 파기환송 판결이 결정적 원인”이라고 했다.&lt;br&gt;&lt;br&gt;법원노조는 “내란 우두머리 혐의로 재판받는 윤석열을 풀어준 지귀연 부장판사의 구속 취소 결정은 불신의 시작점이 됐다”고도 주장했다. 이어 “조 대법원장은 검찰총장 시절 윤석열과 닮아가고 있다”며 “법원장들을 앞세워 대한민국 보수의 마지막 전사처럼 행동하지 말고 직접 결자해지하기 바란다. 그것만이 사법부가 사법개혁의 주체로 바로 설 수 있는 유일한 길”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가천대 ‘AI·컴퓨팅연구원' 개원</title>
