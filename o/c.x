@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서울대, 국유재산 관악수목원 무상양여받아 시민들에 상시 개방</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/18/NPW6TIVL6VBSZI4VNUQVG55NHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/NPW6TIVL6VBSZI4VNUQVG55NHY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 05:08:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4CZJWNHBZF2FBDH3LKDMMT344.png"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 안양시 관악수목원의 모습./서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대가 국유재산이던 경기도 안양시 관악수목원을 무상으로 양여받게 됐다. 지금까지 임시 개방만 이뤄지던 관악수목원은 58년 만에 시민들에게 상시 개방될 예정이다. 서울대는 지난 2018년부터 법인화 이후 미양여 국유재산 1550.6ha 중 안양시 지역 일부를 무상 양여해달라고 요청해왔다.&lt;br&gt;&lt;br&gt;서울대는 최근 기획재정부 협의를 거치고 교육부의 최종 승인을 받아 국유재산이던 관악수목원의 무상 양여를 확정 지었다고 18일 밝혔다. 앞서 서울대와 안양시는 지난 2월 ‘관악수목원 전면 개방 및 국유재산 무상 양여를 위한 법적 효력 있는 업무협약(MOA)’을 체결했다.&lt;br&gt;&lt;br&gt;서울대는 관악수목원의 전시 구역 25ha 중 교육·연구 시설을 제외한 20ha를 시민에게 상시 개방할 계획이다. 임시 개방되던 관악수목원이 시민들에게 상시 개방되는 것은 수목원이 설립된 지 58년 만의 최초다.&lt;br&gt;&lt;br&gt;서울대는 지난 2011년 법인화 이후 미양여 국유재산 1550.6ha 가운데 안양시 지역 93.7ha를 무상양여해달라고 요청해왔다. 이번 교육부의 승인으로 서울대는 그간 위탁 운영해오던 관악수목원에 대한 법적 소유권을 확보하게 된 것이다.&lt;br&gt;&lt;br&gt;서울대와 안양시는 이후 관악수목원 내 안양시 지역에 대해 ‘서울대학교 안양수목원’이란 명칭을 사용하기로 합의했으며 서울대는 올해 관련 규정을 개정했다. 수목원은 올해 말쯤 시민들에게 전면 개방될 예정이다.&lt;br&gt;&lt;br&gt;강병철 서울대 농업생명과학대학 학장은 “관악수목원은 반세기 넘게 교육과 연구의 장으로 기능해 온 귀중한 자산”이라며 “수목원의 보존과 활용의 균형을 잡고 미래 세대를 위한 교육·연구 기반으로서의 기능을 키워가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 김건희 특검, 한학자 통일교 총재 구속 영장 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/18/LP3RUQATTFECXFNBUHMWCBFUIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/LP3RUQATTFECXFNBUHMWCBFUIY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 04:33:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M454QLJSQ67SQKNECVZZVVSPIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치 자금 제공 혐의를 받는 한학자 통일교 총재가 17일 오후 서울 종로구 김건희 특검팀(특별검사 민중기) 사무실에서 나오며 취재진 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘통일교 현안 청탁 의혹’ 등을 수사하는 민중기 특검팀이 한학자 통일교 총재, 정원주 전 통일교 비서실장에 대해 정치자금법 위반 혐의 등으로 구속 영장을 청구했다고 18일 밝혔다. 한 총재를 전날 소환 조사하고 하루 만에 신병 확보에 나선 것이다.&lt;br&gt;&lt;br&gt;특검은 이날 오후 브리핑을 열고 “한 총재를 전날 조사했을 때 대체로 혐의를 부인했다”며 “증거 인멸의 우려가 농후하다고 판단해 구속 영장을 청구한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한 총재는 2022년 대선을 앞두고 정씨, 윤영호 전 통일교 세계본부장과 공모해 권성동 국민의힘 의원에게 1억원의 불법 정치자금을 전달한 혐의(정치자금법 위반)를 받는다. 통일교 자금을 이용해 국민의힘 광역시도당 등에 총 2억1000만원을 기부한 혐의도 있다.&lt;br&gt;&lt;br&gt;한 총재는 2022년 4~7월에 걸쳐 ‘건진법사’ 전성배씨를 통해 통일교 현안을 청탁하며 그라프 목걸이 등 8000만원대 금품을 김 여사에게 전달한 혐의(청탁금지법 위반)도 받는다. 이 같은 청탁용 금품을 마련하기 위해 통일교 자금을 횡령한 혐의도 있다.&lt;br&gt;&lt;br&gt;한 총재는 2022년 10월 자신의 미국 라스베이거스 원정도박 수사 소식을 윤씨를 통해 권 의원에게서 전해 듣고, 윤씨에게 증거를 인멸하도록 지시한 혐의(증거인멸교사)도 받는다.&lt;br&gt;&lt;br&gt;또, 한 총재는 ‘통일교 교인 국민의힘 집단 입당’ 의혹 관련 의혹도 받는다. 특검은 이날 오전부터 이 혐의를 확인하기 위해 국민의힘 당사 압수 수색을 시도하고 있다. 다만 이 의혹과 관련한 혐의(정당법 위반)는 수사가 더 필요해 이번 한 총재 구속 영장 청구서에 담기지는 않았다고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이영애 “신용카드 대란으로 많은 사람 죽어…광고 모델로서 책임감 느꼈다"</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/18/6IWKVXJRXRCKLPQCH7OPNYE3AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/6IWKVXJRXRCKLPQCH7OPNYE3AE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 03:25:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HKBH4O2DUVFDLFZVE3OJ5W37FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애가 2000년대 초반 벌어진 카드 대란 사태를 떠올리며 광고 모델로서 책임감을 느끼게 된 계기를 밝혔다.&lt;br&gt;&lt;br&gt;이영애는 지난 17일 방송된 MBC ‘손석희의 질문들 3’에 출연해 그간 찍은 광고에 대해 이야기 나눴다.&lt;br&gt;&lt;br&gt;1990년 초콜릿 광고 모델로 데뷔한 이영애는 고(故) 최진실의 후속 모델을 뽑는 오디션에 갔다가 캐스팅돼 당일 촬영에 투입됐다고 한다. 당시 중화권 스타였던 유덕화와 함께 촬영한 이 광고로 이영애는 데뷔와 동시에 일약 스타덤에 올랐고, 수많은 광고를 찍게 됐다.&lt;br&gt;&lt;br&gt;손석희는 “17년 동안 240여 편의 광고를 찍었다고 하더라. 그게 가능한가 계산했더니 한 달에 하나꼴로 찍은 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 손석희는 연극 연출가 김상수의 말을 인용했다. 김상수는 “광고가 보여주고 약속하는 이미지는 사실이 아니라는 것을 이영애 배우는 잘 알고 있을 거다”라고 말했다.&lt;br&gt;&lt;br&gt;이영애는 “그렇다. 광고 모델도 배우로 나오는 거다. 광고에 맞는 콘셉트에 내용이 있으니까 거기에 맞춰 연기한다고 생각한다”고 답했다.&lt;br&gt;&lt;br&gt;이어 “제 자신을 돌아보게 되고 가끔은 TV 속 제 얼굴이 싫었다. 그래서 광고를 줄이기도 했다. 광고에 대한 부작용도 많았다”며 신용카드 대란 사태를 떠올렸다.&lt;br&gt;&lt;br&gt;신용카드 대란 사태는 무분별한 신용카드 발급으로 수백만 명이 신용 불량자가 된 사건이다.&lt;br&gt;&lt;br&gt;1999년 정부가 외환 위기 직후 급격히 위축된 소비를 진작시키기 위한 방안의 하나로 신용카드 거래 활성화를 위한 정책을 적극적으로 추진하면서 초래됐다. &lt;br&gt;&lt;br&gt;1999년부터 2002년 중반까지 신용카드 장수가 3900만장에서 1억500만장으로 급증했고, 신용카드 사용자를 대상으로 한 현금 대출도 크게 늘어났다.&lt;br&gt;&lt;br&gt;신용카드사의 과다 경쟁과 무분별한 신용카드 사용이 반복되면서 개인 신용불량자 수가 2001년 245만명에서 2002년 264만명, 2003년 372만명으로 지속적으로 증가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDNTWHG36RDSDIXY6I2F6CTWQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애./MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이영애는 “신용불량자 사회 현상이 아주 심각했다. 많은 사람이 스스로 목숨을 끊었고, 광고 모델을 한 입장에서 모델로서 책임감도 없지 않아 있다고 느꼈다”며 “충격이었고 마음이 아팠다. 그만하겠다고 한 광고도 여러 개 있었다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 이영애는 2008년 방송된 MBC 스페셜 ‘나, 이영애’에서도 광고를 대하는 비슷한 견해를 밝혔다. &lt;br&gt;&lt;br&gt;그는 “카드사 모델로 활동할 때 무차별적인 카드 발급과 사용으로 신용불량자가 늘어나는 것을 보고 많이 생각했다”며 “내 잘못은 아니지만 많은 사람이 고통받는 걸 보고 모델의 사회적 역할에 대해 고민했다. 이후 광고 촬영할 때 광고주에게 내 의견을 적극적으로 전한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 중앙지법 “내란 재판 맡는 형사25부에 법관 1명 추가 배치”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/18/3FZB3K43OZBL3EGYSHBYHPN7CY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/3FZB3K43OZBL3EGYSHBYHPN7CY/</guid>
@@ -891,33 +918,6 @@
       <description/>
       <pubDate>Wed, 17 Sep 2025 07:04:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIXAVXEJQBFVFG2IH2LIKNTZYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 장예찬 전 최고위원이 항소심 판결 이후 소회를 밝히고 있다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22대 총선 당시 부산 수영구에 출마했다가 허위 학력 기재와 여론조사 왜곡 혐의로 기소된 장예찬 전 국민의힘 청년최고위원이 항소심에서 무죄를 선고받았다. 앞서 1심 재판부의 벌금 150만원을 선고를 뒤집은 것이다.&lt;br&gt;&lt;br&gt;부산고법 형사2부(재판장 박운삼)는 공직선거법 위반 혐의로 기소된 장씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;장 전 최고위원은 22대 총선 후보자 등록 당시 학력란에 ‘주이드 응용과학대학교’ 소속 음악학부에 재학 후 중퇴했으면서 ‘네덜란드 마스트리흐트 국립음악대학교 음악학사과정 중퇴’라고 기재한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;또 선거 막바지에 여론조사 결과를 왜곡한 홍보물을 소셜미디어(SNS)와 문자로 수영구 유권자에게 전송한 혐의도 있다. 당시 여론조사 결과는 ‘국민의힘 정연욱 후보 33.8%, 더불어민주당 유동철 후보 33.5%, 무소속 장예찬 후보 27.2%’로 나왔지만, 장씨는 자신을 지지한 응답자 중 ‘지지하는 후보의 당선 가능성’을 묻는 86.7%의 수치를 인용하며 ‘장예찬 당선 가능성 여론조사 1위’라고 홍보했다.&lt;br&gt;&lt;br&gt;1심 재판부는 장 전 최고위원의 학력 기재가 허위 사실 공표에 해당한다고 판단했다. 하지만 항소심 재판부는 “(공직선거법에서) 정규 학력에 준하는 외부의 교육 과정을 기재하도록 돼 있는데 거기에는 반드시 외국 대학교명을 기재해야 한다고 해석하기 어렵다”면서 “피고인은 마스트리트 국립음악대학교로 표기를 했는데 ‘콘서바토리엄’이 음악원으로 번역되기도 하고 음악대학교라고 번역되기도 한다. 따라서 마스트리트 국립음악대라고 기재하면 결국 피고인이 선택한 교육 과정이 사실대로 기재됐다고 볼 수 있다. 또 주이드 응용과학대를 일부로 생략해서 어떤 이익을 누리려고 한 것으로 보이지 않는다”고 판단했다.&lt;br&gt;&lt;br&gt;또 항소심 재판부는 여론조사 왜곡 혐의에 대해서도 1심과 다른 판단을 내렸다. 항소심 재판부는 “부적절한 면이 있는 것은 분명하다. 당선 가능성 여론조사 1위라는 문구에는 오해의 소지가 있다”면서 “다만 표기된 수치를 보면 유동철 후보 79.3%, 정연욱 후보 82.8%, 피고인 85.7%로 기재돼 있다. 단순한 당선 가능성이면 그 수치 합이 100이 돼야 하는데 100이 훨씬 넘는다. 그 의심을 기초로 조금만 들여다보면 아래 문구에 ‘여론조사 가상대결 지지층’이라는 표시가 돼 있다. 따라서 여론 조사 결과를 왜곡까지 했다고 보이진 않는다”고 했다.&lt;br&gt;&lt;br&gt;선고 이후 장 전 최고위원은 “(해외 대학은) 우리나라 대학 제도와는 학제가 많이 다른데 그런 부분을 일률적으로 재단하지 않고 사회 통념에 맞게 판단해 감사하다”며 “부적절하다는 지적에 대해서는 무겁게 받아들이고 앞으로 선거나 정치하면서 논란이 될 만한 실수를 범하지 않도록 교훈으로 삼겠다”고 했다.&lt;br&gt;&lt;br&gt;그는 향후 정치 행보에 대해 “복당된 뒤 바깥에서 여론을 추스르며 백의종군하는 과정을 보내고 있다. (이번 판결 이후) 달라지는 것은 크게 없을 것 같다. 국민, 청년들과 소통하며 여론을 모으는 하나의 밀알이 되겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 장 전 최고위원은 당시 총선에서 국민의힘 부산 수영구 후보로 공천됐으나 10여 년 전 SNS에 올린 부적절한 글 때문에 논란이 일자 공천이 취소됐다. 이후 공천 취소에 반발해 탈당한 뒤 무소속으로 출마했다가 낙선했다.&lt;br&gt;&lt;br&gt;장 전 최고위원은 1심 선고 이후인 올 4월 복당을 신청했고, 국민의힘은 장 전 최고위원의 복당을 의결했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 상반기 여의도에 ‘北 드론 방어막’ 뜬다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/17/TL4JWDMTB5EUFO6MAGJYZDQMSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/TL4JWDMTB5EUFO6MAGJYZDQMSY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 06:49:29 +0000</pubDate>
-      <content:encoded>서울시가 북한의 드론 공격에 대비해 내년 상반기 여의도에 ‘드론 방어 시스템’을 구축하기로 했다. 군과 연계해 드론을 탐지한 뒤 이를 격추하는 체계를 만들겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4POXKCTUZIQTHSGMETBWRQJ5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 17일 오후 서울 중구 서울시청에서 열린 제5차 서울시 안보포럼에서 환영사를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 17일 ‘제5차 서울시 안보 포럼’을 열고 이 같은 방어 대책을 논의했다.&lt;br&gt;&lt;br&gt;앞서 서울시는 작년 6월 개최한 ‘제3차 안보 포럼’에서 “북한의 드론 공격에 대비해 민·관·군 통합 방어 시스템을 구축하겠다”고 했다. 2022년 북한이 수도권에 무인기 도발을 일으키고 작년에는 ‘오물 풍선’을 잇따라 살포하는 등 드론 위협이 늘어나면서다. 이번에 시스템을 어떻게 구축할지 방법이 나온 것이다.&lt;br&gt;&lt;br&gt;우선 방어 체계를 구축할 시설의 숫자, 방공 진지와의 연계 여부에 따라 4개 유형으로 나눠 시스템을 구축할 계획이다.&lt;br&gt;&lt;br&gt;예컨대 여의도는 국회와 한국거래소 등을 하나로 묶어 시스템을 구축한다. 군 자산을 활용해 대응할 수 있도록 방공 진지와도 연계한다.&lt;br&gt;&lt;br&gt;이후 레이더나 센서 등 지역별로 어떤 장비를 설치하면 좋을지 판단해 실제 시스템 구축에 나선다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “소리나 온도 변화를 감지하는 장비도 설치 대상”이라고 말했다.&lt;br&gt;&lt;br&gt;서울시는 우선 내년 상반기 국회 등 국가 중요 시설이 몰려 있는 여의도에서 시범 사업을 해보고 2027년부터 권역별로 확대를 추진한다는 계획이다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 “서울이 드론 방어 선도 도시로 자리매김할 수 있도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>취중 행패에 편의점 출입 제지당하자 업주 살해하려 한 50대</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/17/5FE2X5CRBBF67NB7LGTABKXS2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/5FE2X5CRBBF67NB7LGTABKXS2U/</guid>
-      <dc:creator>고양=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 06:55:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/64NICGSJSBG4ZGJY4OUJJ5GT34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일산서부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 편의점에서 행패를 부려 출입을 제지당한 것에 앙심을 품고 업주를 흉기로 찌르려 한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 일산서부경찰서는 살인미수 등 혐의로 A(50대)씨에 대해 구속영장을 신청했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 16일 낮 12시 55분쯤 일산서구 일산동의 한 편의점 앞에서 흉기로 업주인 50대 여성 B씨를 찌르려 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 미리 흉기를 준비해 범행을 저질렀으며 B씨의 얼굴을 손으로 때리기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이를 목격한 행인 60대 C씨가 달려들어 A씨를 제지했고 이 과정에서 C씨는 손을 다쳤다. 다른 행인들의 신고를 받고 출동한 경찰은 A씨를 현장에서 검거했다.&lt;br&gt;&lt;br&gt;A씨는 평소 술에 취해 해당 편의점에서 난동을 부렸고, B씨가 출입을 막자 불만을 품고 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 자세한 범행 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘가격 담합 의혹’ 제당 3사 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/EVW7DLM55ZG3RIIPS74RGGD3QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/EVW7DLM55ZG3RIIPS74RGGD3QI/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 06:44:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XSTW2TWAFDSVLHXBZYFB6NSLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경/ 장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 가격 담합 의혹이 제기된 CJ제일제당, 삼양사, 대한제당 등 국내 대표 제당업체 3곳을 17일 압수 수색했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “설탕 제조·판매 업체 3사가 수년간 가격을 담합했다는 의혹과 관련해 강제 수사에 착수한 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회는 작년 3월 해당 업체에 대한 조사에 착수하고 설탕 판매 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;제당 3사는 과거에도 담합 행위가 적발돼 행정제재를 받았다. 1990년 말 설탕의 원료인 원당 수입 자유화를 앞두고 과당 경쟁을 막기 위해 1991년부터 15년간 내수시장의 설탕 반출량 규모를 정하고 가격 기준을 합의하는 방식이었다. 공정위는 2007년 CJ제일제당에 227억원, 삼양사와 대한제당에 각각 180억원과 103억원의 과징금을 부과했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“시원하게 내린다” “쫄딱 젖어도 좋아”… ‘극한 가뭄’ 강릉에 호우주의보</title>
