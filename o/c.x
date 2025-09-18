@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 전원합의체 “중도 상환 수수료, 이자 아니다”…첫 판단</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/18/M3XL7O27RJBR3HQVOFJHD5JGFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/M3XL7O27RJBR3HQVOFJHD5JGFI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 10:03:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 정문에 서 있는 조각. 엄태정이 1995년 제작한 ‘법과 정의의 상(象)’이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대출을 만기보다 일찍 갚을 때 내는 ‘중도 상환 수수료’는 이자로 간주할 수 없다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;대법원 전원합의체는 18일 A사가 특수목적법인(SPC) B사 등을 상대로 낸 손해배상 청구 소송에서 원고 일부 승소로 판결한 원심을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;A사는 2019년 10월 상가 신축과 분양을 위해 B사로부터 68억원을 대출받았다. B사는 선이자와 수수료 등을 공제한 뒤 실제로는 55억40여 만원을 빌려줬다. A사가 1년 안에 대출을 갚는 경우, 상환액의 1%를 ‘중도 상환 수수료’로 내는 계약도 맺었다. A사는 7개월 만인 2020년 5월 대출금 전액을 갚으면서 중도 상환 수수료로 2881만원을 냈다. &lt;br&gt;&lt;br&gt;이후 A사는 “이미 대출을 받을 때 각종 수수료와 이자가 공제됐는데 중도상환수수료까지 이자로 포함하면 이자제한법상 최고금리(당시 연 24%)를 넘게 된다”면서 초과해 낸 돈을 돌려달라며 손해배상 소송을 청구했다.&lt;br&gt;&lt;br&gt;쟁점은 중도 상환 수수료를 이자로 간주할 수 있는지 여부였다. 1·2심은 “금전 대차의 대가로 볼 수 있는 것이라면 명칭과 상관없이 모두 이자로 봐야 한다”면서 A사의 주장을 받아들였다. 법원은 B사가 초과분을 포함해 7억8000만원을 돌려줘야 한다고 판결했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 중도 상환 수수료는 이자로 간주할 수 없다고 봤다. 대법원은 “중도 상환 수수료는 기한 전 돈을 갚으면서 발생하는 손해에 대해 지급하는 돈이므로, 본래 의미의 금전 대차의 대가(이자)로 보기는 어렵다”고 했다. &lt;br&gt;&lt;br&gt;또한 “중도 상환 수수료를 이자로 간주하면 최고 이자율이 적용돼 돈을 빌려준 회사가 형사 처벌로 이어질 가능성이 있어 엄격하게 해석할 필요가 있다”고 설명했다. 대법원 관계자는 “중도 상환 수수료를 이자제한법상 이자로 간주할 수 없다고 대법원이 최초로 판시한 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 측, ‘내란 사건’ 재판부에 기피 신청… 재판 중단</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/18/4TKSMW25KVGLDH76ZSYJVPFZ7I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/4TKSMW25KVGLDH76ZSYJVPFZ7I/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 09:48:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBQMNIT43AB2343DM4Q3UAGE44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 국방부 장관이 28일 오전 서울 여의도 국회에서 열린 국방위원회 전체회의에 출석, 생각에 잠겨 있다. 2024.11.28/뉴스1 ⓒ News1 김민지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김용현 전 국방장관 측이 18일 열린 내란 사건 재판에서 재판부의 소송 지휘에 반발해 기피 신청을 내면서 재판 절차가 중단됐다.&lt;br&gt;&lt;br&gt;이날 서울중앙지법 형사합의25부(재판장 지귀연)는 내란 중요임무 종사 등 혐의를 받는 김용현 전 장관의 공판을 진행했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 오후 증인신문에서 특검 측이 수사기록에 가명을 썼다면서 “전문법칙을 우회하는 특검의 소송 전략에 휘둘릴 수 없다”며 문제 제기했다. 재판부가 재판을 계속 진행하겠다는 뜻을 밝히자 김 전 장관 측은 “강행하면 (재판부) 기피 신청을 하겠다. 소송 절차를 정지해 달라”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “기피 신청을 한 이상 소송 절차는 중단된다고 볼 수밖에 없다”며 “사유서를 제출해 달라”고 했다. 이어 “기피 신청도 피고인의 권리다. 대신 기각되면 증인신문이 진행될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;이에 특검 측은 “명백한 소송 지연 행위로 판단해서 간이 기각을 해달라”고 요청했다. 그러나 재판부는 “명백한 소송 지연이라고 보기는 어렵다”며 “재판부가 본인들이 원하는 대로 하지 않으니 공정한 진행을 할 수 없다고 하는 것 같다”며 간이 기각 요청을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;앞서 김 전 장관 측은 지난 7월 내란 특검의 추가 기소 사건을 맡은 형사합의34부(재판장 한성진)에도 여러 차례 기피 신청을 냈으나 모두 기각된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘KT 소액결제’ 피의자 2명 구속...“도망 우려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/18/SVQ6OUIMFJBNDIRMGMRHTGGD6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/SVQ6OUIMFJBNDIRMGMRHTGGD6I/</guid>
+      <dc:creator>안산=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 09:11:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2SKRHM5UPQ6H7A7PPMSITL3X4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 경기 수원시 영통구 수원영통경찰서에서 'KT 소액결제' 사건 피의자인 중국 교포 A 씨가 구속 전 피의자 심문(영장실질심사)를 받기 위해 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘KT 소액결제’ 사건의 피의자인 중국 국적 남성 2명이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 안산지원 정진우 영장전담 부장판사는 18일 정보통신망법 위반과 컴퓨터 사용 사기 등 혐의를 받는 A(48)씨와 컴퓨터 등 사용 사기와 범죄수익 은닉규제법 위반 혐의를 받는 B(44)씨에 대한 구속 전 피의자 심문(영장실질심사)를 열고 “도망할 염려가 있다”며 영장을 발부했다. &lt;br&gt;&lt;br&gt;A씨는 초소형 기지국 장비로 휴대전화를 해킹해 피해자들의 개인 정보를 빼낸 혐의를 받는다. 경찰은 A씨가 빼돌린 개인 정보를 이용해 모바일 상품권을 구입하거나 교통카드를 충전하는 등 소액 결제를 한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;B씨는 A씨가 구입한 모바일 상품권 등을 현금으로 바꾼 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 지난 16일 인천국제공항과 서울 영등포에서 A씨와 B씨를 각각 검거했다.&lt;br&gt;&lt;br&gt;앞서 경찰은 광명시 소하동 일대에서 “지난달 27~31일 새벽 시간대 모르는 사이에 휴대전화에서 소액 결제로 수십만원이 빠져나갔다”는 신고를 여러 건 접수해 수사에 착수했다. 이후 서울 금천, 인천 부평, 경기 부천과 과천 등에서도 비슷한 내용의 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;경찰은 구속된 이들을 대상으로 조사를 이어나갈 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말없이 끊긴 신고전화...소방관 기지로 응급환자 찾아 무사 이송</title>
+      <link>https://www.chosun.com/national/regional/2025/09/18/DTYUI7YUBJFFZHZF5IE66JYT4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/18/DTYUI7YUBJFFZHZF5IE66JYT4U/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 09:05:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQ4VLHSJO5GNHGX44MJ4PRCQ2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산소방재난본부 119종합상황실. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수차례 아무 말도 없던 신고 전화를 받은 119 상황실 직원이 기지를 발휘해 소중한 생명을 구했다.&lt;br&gt;&lt;br&gt;18일 부산소방재난본부에 따르면 지난 16일 오후 8시 34분 부산소방재난본부 119종합상황실에 두 차례에 걸쳐 아무 말 없는 신고 전화가 접수된 뒤 곧바로 끊어졌다.&lt;br&gt;&lt;br&gt;당시 전화를 받았던 서종한 소방교는 신고자에게 두 차례 역으로 전화를 걸었지만, 응답이 없어 ‘단순 오신고’로 처리될 수 있는 상황이었다.&lt;br&gt;&lt;br&gt;서 소방교는 혹시 모를 긴급 상황에 대비해 ‘긴급 상황인 경우 반드시 119로 재신고해 달라’는 안내 문자를 신고자에게 발송했다.&lt;br&gt;&lt;br&gt;이어 오후 8시 36분 세 번째 신고에서 희미하게 호흡곤란으로 추정되는 소리가 들리자, 서 소방교는 즉시 비상 체제로 전환했다. 그는 통화 중 GPS(위성항법장치) 위치를 기반으로 구급차와 펌프차 출동 지령을 내리고, 경찰과의 공동 대응도 요청했다.&lt;br&gt;&lt;br&gt;신고자의 위치는 부산 사상구의 한 다가구 주택 밀집 지역으로 확인됐다. 하지만 GPS 오차와 주택들이 밀집한 특성상 신고자의 정확한 주소 파악이 어려웠다.&lt;br&gt;&lt;br&gt;현장에 도착한 구급대원과 경찰은 집마다 문을 두드려가며 반경 50m 지점을 중심으로 수색을 진행했다. 그 순간 서 소방교는 환자와 통화 중 수화기 너머로 들려오는 문 두드리는 소리를 단서로 신고자가 있는 정확한 장소를 특정했다.&lt;br&gt;&lt;br&gt;현장에 출동한 구급대원들은 신속히 문을 열고 집 안으로 들어가 80대 남성 A씨가 쓰러져 있는 것을 발견했다. 당시 A씨는 식은땀과 고열 증상을 보이며 산소포화도가 급격히 떨어진 상태였다.&lt;br&gt;&lt;br&gt;구급대원들은 즉시 응급처치를 시행한 뒤 A씨를 병원으로 이송했다. 현재 A씨는 병원에서 패혈증을 진단받고 치료를 받고 있다.&lt;br&gt;&lt;br&gt;부산소방 관계자는 “이번 구조는 희미한 위험 신호도 놓치지 않은 세심함과 GPS를 활용한 신속한 출동, 경찰과의 긴밀한 협조 등 단계마다 전문성과 팀워크가 유기적으로 발휘된 결과”라면서 “작은 신호도 놓치지 않고 끝까지 책임지는 자세로 시민 안전을 지키겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의사협회 “지역의사·공공의사 도입 반대...위헌 소지 있고, 실효성 없어"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/18/CYMPL7R2LFHNXHFIGRX7ROEEVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/18/CYMPL7R2LFHNXHFIGRX7ROEEVM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 08:57:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FFT7UZLSFLYFLN5HEFUMMR6GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 김택우 대한의사협회장(사진 오른쪽)이 서울 용산구 대한의사협회 회관에서 열린 브리핑에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 여당이 ‘지역 의사’ 및 ‘공공 의사’를 도입하려는 것에 대해 대한의사협회가 18일 정례 브리핑에서 “위헌 소지가 있다”며 반대 입장을 밝혔다. 이어 “반대 의견을 국회 보건복지위원회와 보건복지부에 제출할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;더불어민주당과 대통령실, 보건복지부는 앞서 지난 4일 지역의사와 공공의사를 도입하는 내용이 담긴 법을 올해 정기국회 내 통과시키기로 방침을 정했다. 하지만 의협이 여기에 대해 공식적으로 반대 입장을 낸 것이라, 향후 여당과 정부, 의사 간 갈등이 예상된다.&lt;br&gt;&lt;br&gt;현재 국회에는 더불어민주당 이수진 의원이 대표 발의한 ‘필수의료 강화 및 지역의료 격차 해소를 위한 특별법안’ 등이 발의돼 있다. 정부와 지방자치단체가 필수의료 강화 및 지역의료 격차 해소를 위해 3년마다 종합계획을 세우고 시행해야 한다는 내용이 핵심이지만, 지역 의사와 공공 의사 도입에 관한 내용도 담겼다.&lt;br&gt;&lt;br&gt;해당 법안은 지방 의대들이 별도의 입학 전형으로 해당 지역에서 10년간 의무 근무를 하는 이른바 ‘지역 의사’를 의무적으로 뽑도록 했다. 이들은 수업료, 기숙사비 등을 지원 받지만, 졸업 후 의무 근무를 하지 않으면 의사 면허가 취소된다. &lt;br&gt;&lt;br&gt;공공 의사도 지역 의사처럼 기존 전형과 별도로 선발한다. 공공 의사 전형으로 의대에 입학하면 수업료, 기숙사비 등을 전액 지원 받지만 정부에서 정하는 의료기관에서 10년간 의무적으로 일해야 한다.&lt;br&gt;&lt;br&gt;의협은 “의료인력을 일시적으로 복무하게 하기보다 자발적으로 필수·지역 의료를 담당하고자 하는 환경을 만드는 게 필요하다”며 “10년간 의무 복무는 헌법상 직업 선택의 자유·거주 이전의 자유를 침해할 소지가 커 위헌 소지가 있다”고 했다.&lt;br&gt;&lt;br&gt;의협은 두 가지 제도가 실효성이 없다고 비판했다. 의협은 “공중보건장학제도 등 기존의 유사 제도가 지원자 미달로 사실상 실패한 전례에 비춰볼 때 제도가 실질적인 인력 확보 효과를 거두기 어렵다”고 했다. 이어 “의사면허를 딴 후 전공의 수련 기간을 제외하면 실질적 의무 복무 기간은 약 5년에 불과해 인력 이탈을 막는 근본 해결책이 될 수 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘2026 대구마라톤’ 풀코스 참가신청 하루 만에 1만6000명 넘어 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/18/NDFBR72ZU5BQ7OQFACV4GK2QGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/18/NDFBR72ZU5BQ7OQFACV4GK2QGQ/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 08:59:57 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JBFW64FPRXKB3XFKYZL4IEKWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'2025 대구마라톤대회' 모습/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 지난 17일부터 ’2026 대구마라톤대회' 마스터스 풀코스 참가자를 접수한 결과, 하루 만에 1만 6000여 명이 신청했다고 18일 밝혔다. 지난해 81일 동안 모집한 풀코스 참가 신청자 수(1만3000여 명)를 하루 만에 넘어선 것이다. &lt;br&gt;&lt;br&gt;또 대구마라톤에서만 운영되는 러닝 크루 등 ‘50인 이상 단체’ 참가 접수도 모집 목표(30팀)를 하루 만에 초과 달성해 조기 마감됐다.&lt;br&gt;&lt;br&gt;이날 대구시에 따르면, 내년 2월 22일 열리는 대구마라톤은 세계 정상급 엘리트 선수와 풀코스 참가자 2만여 명, 10㎞ 1만 5000여 명, 건강달리기(5㎞) 5000여 명 등 모두 4만여 명이 참가하는 세계육상연맹(WA) 인증 ‘골드 라벨’ 대회다. &lt;br&gt;&lt;br&gt;대회 신청자가 한꺼번에 몰리면서 대구마라톤 홈페이지의 참가 신청 기능에 일부 장애가 발생하기도 했다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “참가 접수에 앞서 서버를 작년 대비 4배 이상 증설하고 사전 테스트를 진행했지만, 접수 시작과 동시에 예상을 크게 뛰어넘는 신청자가 한꺼번에 몰리면서 지연 현상이 생겼다”며 “오는 22일 10㎞와 건강 달리기 참가 접수 때에는 같은 문제가 생기지 않도록 참가 신청, 참가비 결제를 분리해 운영하는 등 대책을 마련하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“불법 촬영 신고하겠다”는 여자친구 살해한 20대…검찰, ‘무기징역’ 구형</title>
+      <link>https://www.chosun.com/national/regional/2025/09/18/WM56QFIDHRAFTKAA7XPBPTMZ7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/18/WM56QFIDHRAFTKAA7XPBPTMZ7U/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 08:37:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NEB72YMFAVHRJKGS7DXJM5DJ5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 성관계 불법 촬영 영상을 신고하겠다는 여자친구를 살해한 혐의로 기소된 20대 남성에게 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 18일 대전지법 형사11부(재판장 박우근) 심리로 열린 A(29)씨에 대한 살인 혐의 사건 결심 공판에서 “불법 촬영 영상 신고에 대한 두려움, 합의금 요구에 대한 경제적 부담감 등으로 살인을 저질러 죄질이 불량하고, 피해자 유족이 엄벌을 탄원하고 있다”며 재판부에 무기징역을 선고해 달라고 요청했다. 또 위치추적 전자장치 30년 부착 명령도 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 9일 오전 5시 10분쯤 자신의 주거지에서 여자친구 B씨를 목 졸라 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;여자친구인 B씨와 평소 갈등이 있었던 A씨는 B씨가 “성관계 불법 촬영 영상을 신고하겠다. 합의금을 달라”고 요구하자 화가 나 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨 변호인은 “범행 후 경찰에 자수한 뒤 수사에 적극 협조했고, 이 사건 전까지 전과가 없는 점 등을 고려해 법이 허용하는 한도 내에서 관대한 처벌을 내려달라”고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “술을 마시고 이성을 잃은 채 어리석은 행동을 해 피해자와 유족에게 잊을 수 없는 고통을 남겼다”며 “평생 속죄하는 마음을 안고 살겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘해경 순직’ 사고 대응,  문제 없었나…檢, 인천해경서·영흥파출소 압수수색</title>
       <link>https://www.chosun.com/national/incident/2025/09/18/KHCPFCU7EZE6ZF5FAZUZBAFH2A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/18/KHCPFCU7EZE6ZF5FAZUZBAFH2A/</guid>
@@ -846,42 +909,6 @@
       <content:encoded>김건희 여사에게 8293만원어치 명품을 건네고, 권성동 국민의힘 의원에게 불법 정치자금을 제공한 혐의를 받는 한학자 통일교 총재가 17일 9시간 반가량 진행된 특검 조사를 마치고 돌아갔다.&lt;br&gt;&lt;br&gt;이날 오전 9시 46분쯤 서울 광화문 특검 사무실에 출석한 한 총재는 오전 10시부터 조사에 임했다. 오후 4시 45분쯤 피의자 신문을 마친 뒤 조서 열람을 시작했고, 오후 7시 33분쯤 사무실 1층에 모습을 드러냈다. 한 총재는 이날 오전 출석할 때는 통일교 관계자 부축을 받아 걸어들어갔지만, 귀갓길엔 휠체어를 탔다. 한 총재는 지난 4일 서울아산병원에서 심장 수술을 받고 회복 중인 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJVJG5A4FFOY5CQLUR6Y72RHDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 17일 서울 종로구 KT광화문빌딩에 마련된 민중기 특별검사팀 사무실에서 조사받고 귀가하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대기 중이던 기자들이 ‘권 의원에게 왜 1억원을 전달했느냐’고 묻자, 한 총재는 “내가 왜 그럴 필요가 있습니까”라고 답했다. 이어진 ‘김 여사에게 목걸이와 가방 전달하신 적 없느냐’는 질문엔 “내가 왜 그래야 하는데”라고 답했다. 한 총재는 ‘조사에서 어떻게 해명하셨는지’ 묻는 질문엔 “전체적으로 들어보시라. 내가 어떻게 답했는지”라고 말했다. 통일교 측이 앞서 밝힌 것처럼 혐의를 모두 부인한 것이다. 한 유튜버가 ‘불법 정치자금, 청탁 직접 지시하셨죠’라고 지적하자, 한 총재는 “아니야”라며 강하게 부인하기도 했다.&lt;br&gt;&lt;br&gt;한 총재는 통일교 전 세계본부장 윤영호씨를 통해 김건희 여사에게 6200만원대 그라프 목걸이와 1000만원 안팎 샤넬 가방 2개를, 권성동 국민의힘 의원에게 불법 정치자금 1억원을 건넨 혐의를 받는다. 국민의힘 등에 불법 정치자금 2억1000만원을 제공한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경남 바다, 적조 피해 눈덩이처럼 불어</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/09/17/36DHEIPCBZH7RATPZUNLROYU4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/17/36DHEIPCBZH7RATPZUNLROYU4E/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 10:23:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SHNFMAFZVPP5OQDVHFZKXO354.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 경남 남해군 미조면 한 항구에서 집단 폐사한 참돔의 수거 작업이 진행되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 지역에서 적조로 어류 281만여 마리가 폐사한 것으로 집계됐다. &lt;br&gt;&lt;br&gt;경남도는 지난달 말 적조 특보 발령 후 양식장 112곳에서 넙치·숭어·감성돔·농어·참돔 등 어류 281만3808마리가 누적 폐사했다고 17일 밝혔다. 지난 16일 기준으로 집계된 196만2307마리보다 대폭 늘어났다.&lt;br&gt;&lt;br&gt;세부 피해 현황으로는 남해군 양식장 38곳에서 159만1165마리, 통영시 양식장 41곳에서 73만4640마리, 하동군 양식장 22곳에서 20만3903마리, 거제시 양식장 9곳에서 26만1100마리, 사천시·고성군 양식장 2곳에서 각 1만2000마리가 누적 폐사했다. 피해 금액은 59억5506만원으로 추산하고 있다. &lt;br&gt;&lt;br&gt;국립수산과학원은 지난달 26일 적조 예비 특보를 시작으로 경남 서부 연안에 적조 특보를 올해 처음 발령했다.&lt;br&gt;&lt;br&gt;경남도는 지난달 26일부터 어류 폐사 해역 등에 황토 1만3456t을 뿌리는 등 방제 작업을 하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“故 이재석 경사 한 시간 동안 생존”...마지막 포착 시간  20분 오류, 왜?</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/17/7GFL5A3ADNFEZPF5HVVCYDRWFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/7GFL5A3ADNFEZPF5HVVCYDRWFI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 10:08:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A6JR27W3EQDXHKZTEP2WUI5F2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구명조끼 벗어주는 해경 고(故) 이재석 경사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 순직한 해경 고(故) 이재석(34) 경사의 모습이 마지막으로 포착된 시간이 애초 알려졌던 것보다 20여 분 뒤인 것으로 파악됐다. 갯벌에 고립됐던 중국 국적 70대 남성과 만난 뒤 한 시간 가까이 생존해 있었던 셈이다. &lt;br&gt;&lt;br&gt;해양경찰청은 17일 설명자료를 내 “드론 영상 및 무전 녹취록 등을 비교 분석한 결과, 이 경사의 마지막 포착 시간은 11일 오전 3시 49분쯤으로 추정된다”고 밝혔다. &lt;br&gt;&lt;br&gt;당시 상황이 기록된 무전 녹취록을 보면 파출소 직원은 드론팀을 만난 사실을 알리면서 “재석이랑 요구조자 움직임이 지금 보인다고 한다”며 “지금 물에 떠 있는 상황이라고 한다”고 했다. &lt;br&gt;&lt;br&gt;해경 관계자는 “당시 이 경사를 비추던 드론 카메라가 다른 곳을 비춘 뒤 다시 이 경사를 찾으려 했으나 찾지 못했다”고 했다. &lt;br&gt;&lt;br&gt;해경은 인천해양경찰서 영흥파출소 근무 일지를 토대로 작성된 사고 관련 보고서에 “오전 3시 27분 드론 모니터링 중 구조자 및 요구조자 위치 소실”이라고 기록돼 있는데, 이는 잘못 기재된 것으로 파악했다. &lt;br&gt;&lt;br&gt;해경은 “이 경사가 드론에 마지막으로 포착된 시간이 알려진 내용과 다른 것을 확인했다”며 “정확한 시간과 오류 발생 경위는 외부 독립기관에서 조사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이 경사는 지난 11일 오전 2시 7분쯤 “갯벌에 사람이 앉아 있다”는 드론 순찰업체의 신고를 받고 현장에 혼자 출동했다가 구조 과정에서 실종됐고 끝내 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;파출소 측은 당일 오전 4시 5분쯤에서야 실질적인 구조 장비인 동력 서프보드를 투입해 수색을 시작하는 등 신속한 현장 대응에 문제가 있었던 것으로 나타났다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘세계문화유산’ 종묘 기와 훼손범 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/17/CZX2UNKSORFCRONEONSRMUOBPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/17/CZX2UNKSORFCRONEONSRMUOBPM/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 09:13:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MS635ZP2OHIL64OCLO73TVPOXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;훼손된 종묘 담장. /국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;종묘 담벼락을 훼손한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 혜화경찰서는 유네스코 세계유산인 종묘 담장을 훼손한 혐의로 50대 남성 A씨를 긴급체포해 조사 중이라고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 15일 오전 0시 50분쯤 종묘 외대문 서측, 서순라길 방향 외곽 담장에서 기와 10장을 깨뜨린 혐의(문화유산법 위반)를 받고 있다. &lt;br&gt;&lt;br&gt;훼손된 기와는 암키와와 수키와가 각각 5장으로, 국가유산청은 같은 날 오후 3시 15분쯤 보수를 완료했다.&lt;br&gt;&lt;br&gt;피해 사실은 종묘관리소가 새벽 순찰 중 발견해 경찰에 신고했다. 경찰은 현장 주변에서 용의자의 인상착의를 파악한 뒤 동선을 추적해 A씨를 검거했다.&lt;br&gt;&lt;br&gt;A씨에 대한 구속 전 피의자 심문(영장실질심사)은 18일 서울북부지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘15년 투병’ 이의정 “사망설까지 봤다”…뇌종양 완치 근황</title>
-      <link>https://www.chosun.com/national/people/2025/09/17/ZUOOHYTVUNCSLI6FLIRIR7M3HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/17/ZUOOHYTVUNCSLI6FLIRIR7M3HY/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 09:49:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LAV4KZDFDZGPDMD4EOAUT7XBOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이의정의 과거 모습(왼쪽)과 현재 모습./MBC 시트콤 ‘남자 셋 여자 셋’, MBN ‘명을 사수하는 사람들 명사수’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이의정(49)이 뇌종양 투병 끝에 완치 판정을 받은 뒤 근황을 공개했다.&lt;br&gt;&lt;br&gt;지난 10일 방송된 MBN 시사·교양 프로그램 ‘명을 사수하는 사람들 명사수’에 출연한 이의정은 2006년 뇌종양 말기 진단 이후 15년간의 투병 생활과 후유증을 고백했다. &lt;br&gt;&lt;br&gt;이의정은 건강의 적신호를 발견했을 당시를 떠올리며 “‘번개머리’ 시절 4년 반 동안 하루 30분도 못 자던 시기가 있었다. ‘남자 셋 여자 셋’을 그만둔 것도 잠을 자고 싶어서였다”고 했다. 이어 “세수를 할 때 손이 제멋대로 옆으로 가고, 머리가 깨질 듯한 두통이 찾아왔다. 큰 병원으로 가라는 말 이후부터는 기억이 없다”고 떠올렸다.&lt;br&gt;&lt;br&gt;그는 투병 중 가장 힘들었던 순간으로 “내가 사망했다는 기사를 직접 봤을 때”를 꼽았다. 이의정은 당시 사망설 기사를 보고 아빠한테 전화를 걸어 “나 죽어?”라고 묻자, 놀란 아빠가 전화를 끊었다는 일화도 전했다.&lt;br&gt;&lt;br&gt;뇌종양 투병 15년 만에 완치 판정을 받은 그는 “뇌종양은 치료 후 5년이 지나면 후유증이 온다는데 예측할 수 없다고 하더라. 다행히 저는 고관절 괴사로 왔다. 간이나 위였다면 살지 못했을 것”이라며 “한번 망가지면 재생하기 힘들다. 관리 잘해야 한다”고 담담히 말했다. &lt;br&gt;&lt;br&gt;현재 그는 꾸준한 재활과 철저한 건강 관리로 일상을 이어가고 있다. 지난 6월 방송된 MBN ‘특종세상’에서는 9살 연하 유도선수 출신 남자친구와 함께 재활 운동을 하는 모습도 공개돼 화제를 모은 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법원장 “李대통령 선거법 사건, 한덕수와 논의 안했다"</title>
       <link>https://www.chosun.com/national/court_law/2025/09/17/ZRD5K6OAAZHDRAQ6VQ23GRGE2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/ZRD5K6OAAZHDRAQ6VQ23GRGE2U/</guid>
@@ -902,24 +929,6 @@
       <description/>
       <pubDate>Wed, 17 Sep 2025 09:04:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ5F7S5LCQX3SVD7DHT6C5HOSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박형준 부산시장이 17일 정부의 동남권투자공사 설립과 관련해 “명백한 대통령 공약 파기”라고 비판했다. &lt;br&gt;&lt;br&gt;동남권투자공사(은행) 설립은 이 대통령의 대선 공약이다. 부산·울산·경남 지역의 산업 경쟁력 회복을 위해 자금을 공급할 정책 금융기관을 만드는 것이 목표다.&lt;br&gt;&lt;br&gt;박 시장은 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “이재명 정부가 산업은행의 부산 이전을 백지화하고 동남권투자은행도 아닌 투자공사를 설립하기로 한 것은 부산 시민의 여망을 팽개치는 처사”라며 “사탕발림으로 지역 발전의 근원적 해결책을 외면한 결정이다”고 했다. &lt;br&gt;&lt;br&gt;이어 그는 “산은 부산 이전은 노무현 대통령의 지역 균형 발전을 위한 공공기관 이전 정책에 뿌리를 둔 부산의 염원”이라며 “민주당이 추진하던 정책이었고 민주당 지도부가 정략적인 이유로 외면하지 않았다면 진작에 실현됐을 정책”이라고 했다.&lt;br&gt;&lt;br&gt;박 시장은 “이 대통령은 후보 시절 산은 이전 대신 동남투자은행을 공약했지만, 어제 국무회의에서 동남권투자공사를 설립하기로 결정했다”며 “이는 명백한 대통령 공약 파기이자 부산시민을 무시하는 처사”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 투자공사 형태가 되면 안 되는 이유를 조목조목 반박했다.&lt;br&gt;&lt;br&gt;박 시장은 “동남투자공사는 자금 조달 규모와 탄력성에서 산은과 비교가 되지 않고 출자·사채·펀드 조성 등 간접 조달 중심이라 정책자금 지원이 제약되고 민간 자금 유치에도 한계가 뚜렷하다”고 했다.&lt;br&gt;&lt;br&gt;이외에도 기존 금융기관의 기능 중복, 주무 부처 위주의 관리 감독으로 고위험·부실 위험 가능성이 높은 점, 수익 위주의 투자로 지역 기업의 접근성 미흡 등을 근거로 들었다.&lt;br&gt;&lt;br&gt;박 시장은 “이 때문에 과거 한국정책금융공사가 실패했는데도 실패할 가능성이 높은 모델을 고집하는 이유를 모르겠다”며 “산은 이전이 아니라면 그에 버금가는 역할을 할 투자은행이 돼야 한다고 강조했음에도 정부가 이런 결정을 내려 납득할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이 대통령이 국가균형발전은 선택이 아닌 운명이라고 한 발언과 산은 부산 이전을 백지화한 데 이어 투자은행도 아닌 투자공사를 설립하겠다는 건 과연 부합하는지 묻지 않을 수 없다”며 “투자공사는 산은 이전과 함께 쓸 수 있는 보조수단일 뿐”이라며 산은 이전을 요구했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난 16일 정부세종청사에서 열린 국무회의에서 동남권투자은행 대신 동남권투자공사를 설립하겠다는 전재수 해양수산부 장관의 설명을 들은 뒤 “그럼 그렇게 하시죠”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 공사장서 펌프카 붐대 맞은 60대 작업자 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/09/17/VV74T7EOMRG25FW64HJVIW325Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/17/VV74T7EOMRG25FW64HJVIW325Y/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 09:12:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EQ6QPLYLBFPPE4W75INDFAM3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오후 부산 기장군 공사현장에서 콘크리트 타설 작업 도중 부러진 붐대. /부산경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 1시쯤 부산 기장군 한 신축 공사현장에서 60대 작업자 A씨는 콘크리트 타설 작업 중 부러진 펌프카 붐대에 머리를 맞았다. &lt;br&gt;&lt;br&gt;이 사고로 크게 다친 A씨는 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 관계자 등을 상대로 정확한 사고 경위와 안전 규정 준수 여부 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산 제조 공장서 협력업체 직원 지게차에 깔려 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/09/17/FZLPFEOXIFANRI7CDRRIBHN5JU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/17/FZLPFEOXIFANRI7CDRRIBHN5JU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 08:59:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WAM2C6LQIZJBPPZZS7BWPD5NYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 울주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오후 1시 15분쯤 울산 울주군 온산읍의 한 비철금속 제조업체에서 협력업체 직원이 지게차에 깔려 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;울산 울주경찰서와 울산소방본부에 따르면 사고 당시 60대인 협력업체 직원 A씨가 자전거를 타고 이동하던 중 좌회전을 하던 지게차와 부딪혔다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 119 구급대에 의해 병원에 옮겨졌으나 숨졌다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 자세한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘KT 소액결제’ 사건 40대 중국교포 용의자 인천공항서 검거</title>
@@ -947,15 +956,6 @@
       <description/>
       <pubDate>Wed, 17 Sep 2025 06:10:54 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTO6HS5LJQRWZ6JRU4OVCMWCLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 강원 강릉에 단비가 내린 17일 시민들이 우산을 쓰고 횡단보도를 걷고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄을 겪고 있는 강원 강릉 지역에 호우주의보가 내려지면서 주민들이 해갈에 대한 기대감을 드러내고 있다.&lt;br&gt;&lt;br&gt;기상청은 17일 오후 1시 55분을 기해 강릉평지와 강원 중부산지에 호우주의보를 발효했다. 이번 특보에는 닭목재·왕산·도마 등 오봉저수지 일대가 포함돼 있다.&lt;br&gt;&lt;br&gt;호우주의보는 3시간 강우량이 60㎜ 또는 12시간 강우량이 110㎜ 이상으로 예측될 때 발효된다. 강릉지역에 호우주의보가 발효된 것은 지난 13일 이후 나흘 만이다.&lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 이날 오후 2시 기준 강릉을 포함한 중부·북부 동해안에는 시간당 30㎜ 안팎의 강한 비가 쏟아지고 있다. &lt;br&gt;&lt;br&gt;이날 자정부터 오후 2시까지 오봉저수지 일대 누적 강수량은 도마 43.5㎜, 닭목재 43㎜, 왕산 33㎜ 등 집계됐다. 강릉 북부지역인 주문진엔 52㎜, 강릉 시내는 41.9㎜가 내렸다.&lt;br&gt;&lt;br&gt;이날 비의 영향으로 오봉저수지 저수율도 자연스레 오르고 있다. 농촌용수종합정보시스템에 따르면 오후 2시 기준 오봉저수지 저수율은 16.8%로 전날 대비 0.2%p 높아졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C656VWOX7JBMNMYFLBU6UJMOGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;17일 강원 강릉 지역에 비가 내리는 모습. /네이버 날씨 제보톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강릉 시내 장대비가 쏟아지자 지역 커뮤니티 등에는 “시원하게 쏟아지고 있다” “드디어 비다운 비가 내린다. 밤새 내려 가뭄 해소에 큰 도움이 되길” “비가 오니 마음이 여유로워진다” “비에 쫄딱 젖었는데도 왜이리 기분이 좋죠?” “왕산에 비가 왕창온다” 등의 글들이 올라왔다. 다만 낮 12시부터 빗줄기가 거세지자 저지대 침수를 우려하는 반응도 있었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김 여사에 공천청탁’ 김상민 前 검사 구속 심사 출석 “부적절한 처신 사죄”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/PVYCPR27LFAOVLDZ7LZVFIYCRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/PVYCPR27LFAOVLDZ7LZVFIYCRQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 04:22:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3REFEVLMVGK32L33UIFE5N3PSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김상민 전 부장검사가 지난 9일 서울 종로구 광화문에 마련된 김건희 특검팀 사무실에 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 측에 국회의원 선거 공천 청탁과 함께 고가의 그림을 건넸다는 의혹을 받는 김상민 전 검사가 17일 법원의 구속 심사에 출석했다. &lt;br&gt;&lt;br&gt;이날 오후 1시 16분쯤 서울 서초구 서울중앙지법에 도착한 김 검사는 “공직자로서 부적절한 처신과 정치적 미숙함으로 많은 국민들에게 심려를 끼친 점에 대해서는 깊이 사죄드린다”며 고개를 숙였다. 이어 “하지만 구속영장 청구서에 적힌 범죄사실은 그동안 특검과 언론에서 끊임없이 확대 재생산되어 왔으나, 사실과 다르다”고 말했다.&lt;br&gt;&lt;br&gt;김 전 검사는 “특검은 일단 구속을 한 다음에 진실 규명을 하겠다고 하지만 이는 자유민주적 기본질서에 위배되는 명백한 수사권 남용”이라며 “구속이라는 제도가 정치적 목적이나 수사 편의를 위한 수단이 될 수는 없다”고 했다. 이어 “오늘 사법부에서 헌법과 법률에 따라 공정한 판단을 내려주시리라 굳게 믿고 있다. 잘 소명하고 나오겠다”고 한 뒤 법원으로 들어갔다.&lt;br&gt;&lt;br&gt;그는 ‘김 여사 측에 이우환 화백 그림을 건넨 것을 인정하나’ ‘공천 청탁 명목으로 건넨 것 맞나’ ‘국정원 (법률)특보 자리도 김 여사가 관여했나’ ‘선거용 차량 대여비를 대납시켰다는 의혹 인정하나’ 등 기자 질문에는 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;박정호 서울중앙지법 영장전담 부장판사는 이날 오후 2시30분부터 청탁금지법 위반 혐의를 받는 김 전 감사의 구속영장 실질 심사를 진행한다. 구속 여부는 이르면 이날 저녁 나올 전망이다.&lt;br&gt;&lt;br&gt;앞서 김 여사 의혹을 수사하는 민중기 특별검사는 김 전 검사에게 청탁금지법을 적용해 구속영장을 청구했다. 특검은 김 전 검사가 작년 총선을 앞두고 국민의힘 공천을 받기 위해 2023년 1월 김 여사 측에 1억원대 이우환 화백 그림을 전달했다고 의심하고 있다. 같은 해 사업가 김모씨에게 선거용 차량 리스 보증금 4000여만원을 대납하게 한 혐의도 있다.&lt;br&gt;&lt;br&gt;김 여사 공천 개입 의혹의 핵심인 명태균씨는 지난 2월 변호인을 통해 “김 여사가 ‘김상민 검사가 조국 수사 때 정말 고생 많이 했다’며 ‘김상민이 의창구 국회의원 되게 도와달라’고 말했다”고 주장한 바 있다. 김 전 검사는 공천을 받지는 못했지만 총선이 끝나고 작년 8월 국가정보원 법률특보에 임명됐다. 김 전 검사는 이에 대해 “이 화백 그림은 김 여사 친오빠인 김진우씨의 부탁으로 ‘대리 구매’한 것”이라는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘양평고속도로 종점 변경’ 국토부 서기관, 구속 심사 출석</title>
