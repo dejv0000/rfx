@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경남 남해서 70대 농민, 벼 수확 콤바인 기계에 끼여 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/09/19/VCPG2KGJBBHKFIJWI75L3O6DRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/19/VCPG2KGJBBHKFIJWI75L3O6DRM/</guid>
+      <dc:creator>남해=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 05:00:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7D63JI6QYVIZNLCQXM6LXCGQBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노랗게 익은 벼. 위 사진은 기사와 직접적인 관련은 없다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 남해에서 벼를 수확하던 70대 남성이 콤바인 기계에 끼여 숨졌다. &lt;br&gt;&lt;br&gt;19일 경남 남해경찰서 등에 따르면 지난 18일 오전 10시 49분쯤 남해군 남면의 한 논에서 70대 남성이 콤바인을 이용해 벼를 수확하던 중 사고를 당했다. &lt;br&gt;&lt;br&gt;출동한 119구급대가 심폐소생술을 하며 이 남성을 병원으로 옮겼으나 결국 숨졌다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 그가 기계에 낀 지푸라기를 제거하려다 신체 일부가 끼인 것으로 보고 정확한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 송정 앞바다서 8명 탄 어선 침몰…7명 구조·1명 실종</title>
+      <link>https://www.chosun.com/national/regional/2025/09/19/JTJPXKEZYBCFFHHT3CWOZNBU5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/19/JTJPXKEZYBCFFHHT3CWOZNBU5U/</guid>
+      <dc:creator>울산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 04:33:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YE7PFNXTIGXZE3DCRIJTFU2IQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산해양경찰서 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해상에서 8명이 탑승한 어선이 침몰하는 사고가 발생해 해경이 승선원 구조에 나섰다.&lt;br&gt;&lt;br&gt;19일 울산해양경찰서에 따르면 이날 오전 11시 52분쯤 부산 송정항 인근을 항해 중이던 부산 영도 선적 어선 A호( 79ｔ급 , 외끌이저인망)로부터 조난신호가 접수됐다. &lt;br&gt;&lt;br&gt;A호는 전날 오후 11시 4분쯤 부산 남항을 출항했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 한국 국적 3명, 인도네시아 국적 5명 등 승선원 8명 중 7명(한국인 3명, 인도네시아인 4명)의 구조를 완료했다. 인도네시아인 1명은 실종됐다.&lt;br&gt;&lt;br&gt;구조된 60대 선장은 현재 의식이 없는 상태다.&lt;br&gt;&lt;br&gt;해경은 실종자 구조작업에 나서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아서 가짜 자산운용사 사이트로 84억원 뜯어낸 일당 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/EUG6FILUGJHVZJ2UOCE5P7OFJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/EUG6FILUGJHVZJ2UOCE5P7OFJI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 04:26:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2USXGSH5AN2C27JLGL4N5FM2CQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 양천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 거점을 두고 가짜 사이트를 운영하며 한국인 62명에게서 약 84억원을 뜯어낸 일당이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울 양천경찰서는 캄보디아에 사무실을 차리고 가짜 사이트를 통해 한국인 피해자들을 상대로 84억원을 빼앗은 일당 20명을 범죄단체가입·활동 등의 혐의로 검찰에 기소 의견 송치했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 피해자 모집책 김모(30)씨를 비롯한 7명을 구속 상태로 검찰에 넘겼다. 나머지 13명은 불구속 상태로 송치했다. 아직 잡히지 않은 관리책 중국인 최모(40)씨 등 해외에 체류 중인 피의자 7명은 인터폴에 적색 수배를 요청했다. 총책은 아직 잡히지 않았다.&lt;br&gt;&lt;br&gt;일당은 지난해 2~7월 캄보디아 거점인 ‘망고단지’에 사무실을 두고 실제 주가 지표와 연동된 가짜 사이트를 만들어 SNS 등에 광고했다. 연락이 온 피해자들에게는 유명 자산운용사를 사칭하며 “매일 5~20% 수익을 보장한다”고 속였다. &lt;br&gt;&lt;br&gt;피해자 대부분은 사회 초년생이나 투자 경험이 적은 중·장년층으로, 1명당 적게는 수백만원에서 많게는 4억원대의 재산 피해를 입었다. &lt;br&gt;&lt;br&gt;검거된 사기 조직 일당은 학교 동창이거나 고향 친구 사이였다. 이들은 총책과 팀장, 모집책, 고객센터, 자금 세탁책 등 역할을 세부적으로 나눠 조직적 범행을 저질렀다. 경찰은 피의자 중 일부가 마약을 투약한 혐의도 확인해 추가로 입건한 상태다. &lt;br&gt;&lt;br&gt;양천경찰서 관계자는 “소셜미디어상 투자 전문가 등을 사칭해 원금 보장 및 고수익 보장을 미끼로 투자를 권유하는 경우 대부분 사기”라며 주의를 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>해병 특검, 다음주 이노공·조태열 연달아 소환</title>
       <link>https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</guid>
@@ -906,33 +933,6 @@
       <description/>
       <pubDate>Thu, 18 Sep 2025 01:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67NILTKNBBMVTDPN72H2E3DT2A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김용대 전 드론작전사령관이 18일 서울 서초구 서울고등검찰청에 마련된 내란 특검팀(특별검사 조은석) 사무실에 피의자 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 18일 오전 10시 김용대 전 드론작전사령관을 불러 조사하고 있다. 특검의 ‘변호인 참여 배제’ 결정을 취소해달라는 취지의 재항고를 낸 이후 첫 조사다. 김 전 사령관은 변호인 없이 홀로 조사에 임하고 있다.&lt;br&gt;&lt;br&gt;김 전 사령관은 이날 특검에 출석하면서 “(특검에서) 자꾸 잘못했다고 하고 비상계엄하고 엮으려 하는데, 제가 혼자 이렇게 들어갈 수 있는 건 잘못한 것이 없기 때문”이라며 “고민은 많이 했지만, 거짓됨 없이 얘기를 다 하고 있어서 혼자 들어가도 괜찮겠다(고 판단했다)”고 말했다.&lt;br&gt;&lt;br&gt;특검의 ‘변호인 참여 배제’ 결정과 관련해선 “저는 우리 변호사님을 절대적으로 신뢰한다”고 했다. 김 전 사령관 측 이승우 변호사도 “특검하고 개인적으로 물리적인 충돌을 할 의향은 없다”며 “대한민국의 법과 질서에 따라 불복 절차를 거쳐서 충분히 증명할 수 있는 부분들 소명하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;김 전 사령관 측은 지난 10일 특검의 ‘변호인 참여 배제’ 결정을 취소해 달라며 법원에 재항고를 냈다. 특검이 이 변호사가 수사 기밀을 유출했다는 이유로 변호인 참여를 금지하자, 김 전 사령관 측은 준항고로 맞섰다. 하지만 법원은 지난 9일 이를 기각했고, 법원이 재항고마저 받아들이지 않을 경우, 김 전 사령관은 다른 변호인을 새로 선임하거나 변호인 없이 홀로 조사받아야 한다.&lt;br&gt;&lt;br&gt;김 전 사령관 측은 재항고장에 “일반이적 등 사건으로 변호인의 참여가 제한된 상태에서 혼자 8월 28일 조사를 받았고, 9월 18일에도 소환을 통보 받고 변호인 참여 없이 혼자 출석해 조사를 받게 됐다” “원심의 기각 결정은 ‘변호인의 조력을 받을 권리’를 전면적으로 영구적으로 박탈하는 조치로서 헌법의 기본권을 제한한다”고 썼다.&lt;br&gt;&lt;br&gt;이어 “피재항고인(특검)은 재항고인(김 전 사령관)이 다른 변호인을 선임하거나 어떤 변호사든 같이 들어오면 된다고 하나, 현실적으로 재항고인은 특검이 수사를 하는 정치적 사안에 대해 특검을 찬성하거나 특검의 판단에 찬성해 관여하기를 꺼리는 다수의 변호사들을 선임할 수 없고, 특검 수사의 부담감을 감수할 의지가 있는 변호사를 선임할 수 없으며, 본 사건의 구체적인 내용을 이해하고 변론의 방향과 의논을 할 수 있는 신뢰 관계를 구축하려면 김 전 사령관에 대한 피의자 신문 조서의 열람이 필요하나, 이 또한 허용받지 못하고 있는 상태”라고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 김 전 사령관은 홀로 조사에 들어가 질문과 답변을 메모하고, 점심 시간에 나와 변호인과 의논을 하고, 다시 오후 조사에 혼자 들어가 조사에 응하고, 저녁 시간에 나와 변호인과 조사가 진행된 내용에 대해 논의하는 과정을 반복하고 있다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경북 고령군, 지산동 고분군 유네스코 세계 문화유산 등재 기념 미디어아트 행사</title>
-      <link>https://www.chosun.com/national/regional/2025/09/18/6X7OJRXSSBCL3ATBRUBR3J55CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/18/6X7OJRXSSBCL3ATBRUBR3J55CA/</guid>
-      <dc:creator>고령=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 02:17:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XT3AAYEVTZECLI3QXJDSEUNGR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 국가유산 미디어아트 고령 지산동 고분군./고령군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 고령군은 19일부터 다음 달 12일까지 유네스코 세계문화유산으로 등재된 고령 지산동 고분군 등을 무대로 ’2025 국가유산 미디어아트’ 행사를 연다고 18일 밝혔다. 가야 문명의 역사와 문화를 담고 있는 고령 지산동 고분군은 2023년 9월 사우디아라비아 리야드에서 열린 제45차 세계유산위원회에서 우리나라 16번째 유네스코 세계유산으로 등재됐다. &lt;br&gt;&lt;br&gt;이번 행사는 ‘대가야, 열두 개의 별’을 주제로, 대가야 악성 우륵 선생이 작곡한 가야금 12곡과 고령 지산동 고분군에 담긴 대가야의 영광을 미디어아트로 재해석해 선보인다. 행사 기간 중 쉬는 날 없이 매일 오후 7시부터 10시까지 미디어아트를 즐길 수 있다. 또 대가야박물관도 야간 개장해 다양한 가야 문화 콘텐츠를 즐길 수 있다. 오는 23일에는 세계유산 등재 2주년 기념식과 드론 라이트쇼를 비롯한 대북 퍼포먼스와 드로잉 퍼포먼스 등도 선보인다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I2Q22QPNP5EXFOFME35CVJCLNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 국가유산 미디어아트 고령 지산동 고분군 예행 연습의 한 장면./고령군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이남철 고령군수는 “지금까지 볼 수 없었던 새로운 지산동 고분군의 모습과 가야 문화를 향유할 수 있는 기회가 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독]외국인 건보료 체납액 5월까지 357억원... 벌써 작년 수준 넘겼다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/16/O2CGHSLRJNHFRBRPHGJKRFGVWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/16/O2CGHSLRJNHFRBRPHGJKRFGVWA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Sep 2025 04:51:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OOYIGOVF3JAXXDJVJIARYH6AIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국에 체류하면서 건강보험료를 납부하는 외국인들의 보험료 체납액이 올해 5월말 이미 지난해 수준을 넘어선 것으로 확인됐다. 외국인들이 건강보험으로부터 받는 진료비가 빠르게 늘어가고 있는 가운데 체납액의 규모가 커지면서 외국인 건보 가입자 관리 체계에 대한 정비가 시급하단 목소리가 나온다.&lt;br&gt;&lt;br&gt;16일 국회 보건복지위원회 김미애 의원(국민의힘)이 건강보험공단으로부터 제출받은 자료에 따르면 올해 5월 25일 기준 외국인 가입자의 체납액이 357억원에 달하는 것으로 확인됐다. 5개월만에 지난해 연간 체납액 308억원을 넘어선 셈이다.&lt;br&gt;&lt;br&gt;외국인 건보료 체납의 특징은 체납액 상위 3국 출신이 전체의 절반 이상을 차지한다는 점이다. 국적별로 나누면 중국 출신이 109억원, 베트남이 45억원, 우즈베키스탄 40억원으로 상위 3국에 올랐다. 뒤를 이어 인도네시아 19억원, 미국과 일본이 각 15억원, 몽골과 러시아가 각 11억원 순이었다.&lt;br&gt;&lt;br&gt;다만 체납액 기준 최대라는 불명예를 차지한 중국은 체납 세대 비율면에선 3.7%로 높지 않은 편이었다. 가입자 자체가 많아서 체납액이 커졌을 뿐 건보에 가입한 전체 세대에서 체납한 세대가 차지하는 비중은 적었단 뜻이다. 체납 세대 비율에서 1위를 차지한 국가는 인도네시아로 15.4%의 세대가 건보료를 체납하고 있는 것으로 확인됐다. 우즈베키스탄(14.6%), 일본(11.9%), 몽골(10.2%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;일각에서는 올해 4월 외국인의 건보료 체납에 대한 규정이 완화된 것이 체납액 증가를 이끌었다는 지적도 나온다. 당초 건강보험법은 외국인이 건보료를 체납하면 곧장 보험급여를 제한하도록 규정하고 있었지만 헌법재판소는 이런 규정이 외국인 차별에 해당한다며 헌법불합치 판정을 내렸다. 이 때문에 복지부는 체납 이후 한 달의 유예기간을 주는 방식으로 법을 바꿨다. 투자자·교수·연구원 등 체류 기간이 5년 이상 인정되는 특정 비자를 받는 이들에게는 두 차례의 체납까지는 허용해주는 규정도 신설했다.&lt;br&gt;&lt;br&gt;문제는 체납액이 늘어나는 속도보다 더 빠른 속도로 진료비 지출이 늘고 있다는 점이다. 지난해 외국인 건강보험 진료비 지출은 1조3925억원으로 2020년 9186억원과 비교하면 51.6%가 늘었다. 같은 기간 내국인의 진료비 지출이 34% 오른 것과 비교하면 그 속도가 매우 가팔랐다. 내국인 진료비 역시 급속한 고령화로 지출 증가 속도가 빠르다는 지적을 받는 상황에서 외국인의 지출이 더 빨리 늘고 있는 셈이다.&lt;br&gt;&lt;br&gt;특히 외국인은 건보 진료비 지출 가운데서도 입원과 약국 지출보다 외래비 지출이 가장 많은 것으로 나타났다. 지난해 기준 외국인의 외래 급여비 지출 비중은 44%로 입원(37%), 약국(18.9%)보다 높았다.&lt;br&gt;&lt;br&gt;외래비 지출이 많다는 것은 적극적으로 병문을 방문하고 있다는 뜻이다. 내국인은 입원비와 외래비의 지출이 크게 차이가 나지 않는데 외국인은 외래 비중이 꾸준히 높은 것으로 나타났으며 외래의 비중은 매년 늘어나는 추세였다.&lt;br&gt;&lt;br&gt;김미애 의원은 “외국인 건보 가입자가 반복적인 외래 진료를 통해 진료비 지출액이 급격히 늘어나고 있는 가운데 체납액 관리는 되고 있지 않는 실정”이라며 “건강보험 재정 건전성을 위해 체납 관리와 부당 청구·점검 확대 등 대책이 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>회삿돈 5억 빼돌려 생활비로 쓴 자금 관리책, 징역형 집유</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/18/ZN4QQBMKQFD77EOF7KGUFGJ42A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/ZN4QQBMKQFD77EOF7KGUFGJ42A/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 02:12:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYSBV3GBJFEZEGZXXGHIXFV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자금 관리책으로 회사를 옮겨 다니며 5억원이 넘는 회삿돈을 빼돌린 직원이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사5단독 양진호 판사는 업무상 횡령, 사전자기록 등 위작, 사문서 위조 등 혐의로 기소된 30대 여성 정모씨에게 징역 2년에 집행유예 5년을 지난 2일 선고했다.&lt;br&gt;&lt;br&gt;정씨는 2018년 7월부터 지난해 5월까지 다닌 회사 2곳에서 회계 관리, 자금 이체 업무를 맡으며 횡령한 돈을 자신의 생활비 등에 사용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;정씨는 2018년 7월 11일부터 2020년 5월 31일까지 재직한 A사에서 운영자금이 들어있는 계좌의 관리자용 OTP(일회용 비밀번호 생성기)를 이용해 자신의 계좌로 총 46회에 걸쳐 2억668만원을 송금했다. 또 2020년 12월 이직한 B사에서도 회계팀장으로 일하며 관리자용 인증서와 OTP를 이용해 총 29회에 걸쳐 3억2704만원을 빼돌린 뒤 사적으로 썼다. &lt;br&gt;&lt;br&gt;횡령 사실을 감추기 위한 범행도 이어졌다. 정씨는 전산회계시스템에 접속해 거래처로부터 부자재를 공급받았다며 허위 전표를 24차례 작성한 것으로 조사됐다. 2023년 기말 회계 감사를 받는 과정에서 대표이사와 과장, 주임 등의 서명을 붙여 지출결의서를 위조하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해 규모와 범행 방법, 범행 기간 등에 비춰 죄질이 대단히 좋지 않고 재범의 위험성이 높다”면서도 “피고인이 범행을 모두 자백하고 있고 형사처벌을 받은 전력이 없으며 피해자들에게 피해금 상당 부분을 변제했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 이춘석 차명거래 의혹 의원실 추가 압수수색</title>
