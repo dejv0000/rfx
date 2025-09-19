@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 명예훼손' 재판부 “윤석열 증인 소환하겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/6LFJLYBTGVHC5MYW4AVO5MK73A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/6LFJLYBTGVHC5MYW4AVO5MK73A/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 09:31:50 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLKVMF2IWLJO5Q2M7YV2KCSMIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 명예를 훼손할 목적으로 허위 인터뷰를 한 혐의를 받는 화천대유 대주주 김만배 씨(왼쪽)와 신학림 전 언론노조위원장이 지난해 6월 20일 서울 서초구 중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 각각 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 대선을 앞두고 허위 인터뷰를 보도해 윤석열 전 대통령의 명예를 훼손한 혐의로 기소된 전·현직 언론인들 사건을 심리하는 재판부가 윤 전 대통령을 증인으로 부르기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 19일 화천대유자산관리 대주주 김만배씨와 전국언론노조위원장을 지낸 신학림씨 등의 정보통신망법상 명예훼손 재판을 열고 “오는 10월 24일 윤 전 대통령을 증인으로 소환해보도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;정보통신망법상 명예훼손죄는 피해자가 처벌을 원하지 않는다는 의사를 밝히면 처벌할 수 없는 ‘반의사불벌죄’다. 재판부는 윤 전 대통령을 불러 처벌을 원하는지 확인한다는 방침이다. &lt;br&gt;&lt;br&gt;다만 윤 전 대통령이 실제 법정에 나올 가능성은 높지 않다는 관측이 나온다. 지난 7월 10일 서울구치소에 수감된 윤 전 대통령은 자신이 피고인인 내란 우두머리 혐의 재판에도 이날까지 10차례 연속 불출석했다.&lt;br&gt;&lt;br&gt;김씨 등은 20대 대선을 사흘 앞둔 2022년 3월 6일 윤석열 당시 국민의힘 후보가 대검찰청 중수2과장이던 시절 부산저축은행 대출 브로커라는 의혹을 받은 조우형씨의 수사를 무마했다는 내용의 허위 인터뷰를 보도한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘교회 여고생 학대’ 합창단장, 1심 징역 4년6월→2심 징역 25년</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/MH54K37RWJHHVIUJJX2EXVPHLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/MH54K37RWJHHVIUJJX2EXVPHLA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 09:35:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWWUEAFMJFLTRNJIXVD6DIW6OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천의 한 교회에서 여고생을 학대한 혐의로 구속영장이 청구된 50대 신도가 작년 5월 18일 인천지법에서 열린 구속영장 실질심사에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 교회에서 생활하던 여고생을 장기간 학대해 살해한 혐의 등으로 기소된 교회 합창단장이 19일 항소심에서 징역 25년을 선고받았다. “살해 고의가 있다고 보기 어렵다”며 징역 4년 6개월을 선고한 1심을 뒤집은 것이다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 이날 교회 합창단장인 50대 여성 A씨에게 징역 25년을 선고하고 법정 구속했다. 함께 기소된 교회 신도 2명도 각각 징역 25년과 징역 22년을 선고받고 법정 구속됐다. 아동유기·방임 혐의로 함께 재판을 받은 피해 여고생의 친모는 징역 4년을 선고받았다.&lt;br&gt;&lt;br&gt;이들은 작년 2월부터 5월까지 인천 남동구의 한 교회 합창단 숙소에서 생활하던 여고생 B양을 온몸에 멍이 들 정도로 학대해 숨지게 한 혐의를 받는다. B양은 잠을 자지 못한 채 성경 필사를 강요당하고, 지하 1층부터 지상 7층까지 계단을 오르내린 것으로 조사됐다. 팔과 다리가 묶이는 등 가혹 행위도 당했다. 여고생의 모친은 정신적 장애가 있다는 진단을 받은 딸을 병원 대신 교회에 보내 유기하고 방임한 것으로 드러났다.&lt;br&gt;&lt;br&gt;작년 12월 1심은 “피고인들에게 B양을 살해할 고의가 있었다고 인정하기는 어렵다”며 아동학대 살해가 아닌 치사 혐의를 적용했다. 이에 따라 A씨와 신도들은 징역 4년∼4년 6개월을, 여고생 모친은 징역 1년에 집행유예 2년을 선고받았다. A씨 등은 항소한 뒤 보석으로 풀려났다.&lt;br&gt;&lt;br&gt;2심은 1심을 뒤집고 ‘살해 고의’를 인정했다. 2심 재판부는 “이 부분(고의)에 대해 기록을 면밀히 살펴보고 토론을 많이 했다. 진료기록 감정 등 전문가 의견 등을 종합하면 학대와 사망 간 상당한 인과관계가 인정된다”고 밝혔다.&lt;br&gt;&lt;br&gt;2심은 “A씨는 B양의 건강 상태가 악화했음을 인식했음에도 신도 2명에게 계속 학대를 지시하거나 독려해 사망으로 이끌었다”며 “피고인들이 범행을 은폐하고 증거 인멸을 시도한 점 등을 봐도 학대의 결과를 충분히 인식하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “피고인들은 B양에게 책임을 돌리거나 결박 행위에 동의했다는 주장을 하는 등 학대 행위를 합리화해 과연 범행의 중대성을 인식하는지조차 의심스럽다”며 “범행의 실체를 정확히 밝히고, 이에 상응하는 중한 처벌을 함으로써 참혹하게 살해된 피해자에게 다소나마 위안이 되길 바랄 뿐”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“스타교수 유출 막자” 서울대 성과연봉제 도입 확정</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/U3GFLAKSGFFKNA6GLPSCIRDOOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/U3GFLAKSGFFKNA6GLPSCIRDOOE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 08:34:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JM4YBPBP7OUMKO4SUBJ3IB35SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대가 인재 유출을 막고자 교수들의 성과에 따라 연봉을 차등 지급하는 ‘성과연봉제’ 도입을 확정했다.&lt;br&gt;&lt;br&gt;서울대는 18일 오후 진행한 평의원회에서 성과연봉제 도입을 확정지었다. 이에 따라 서울대 교수들은 내년부터 평가받은 성과에 따라 차등적인 성과급을 받게 된다.&lt;br&gt;&lt;br&gt;성과연봉제는 각 교수의 성과를 ‘만족(S)’ ‘보통1(N1)′ ‘보통2(N2)′ ‘불만족(U)’ 4등급으로 나눠 평가한 후 그에 맞는 성과급을 지급하는 제도다. S는 기준 성과급의 200%, N1은 150%, N2는 100%를 받는다. U인 경우 성과급은 없다. 이번에 도입하는 성과연봉제는 ‘누적식’으로 전년도에 받은 성과급을 누적시켜 다음 해 연봉에 반영한다. 올해 말쯤 작년도 성과에 대한 평가가 완료되면 내년 개편된 성과연봉제에 따른 첫 성과급이 지급될 예정이다. &lt;br&gt;&lt;br&gt;평가 방식에도 변화가 있다. 대학·대학원 차원에서 실시되던 성과 평가 일부를 대학 본부가 직접 맡기로 했다. 다만 본부가 직접 평가하는 분야는 학술·교육·봉사 가운데 교육 부문에 한정된다.&lt;br&gt;&lt;br&gt;성과와 무관하게 연차가 쌓이면 일률적으로 월급이 오르는 호봉제를 유지해온 서울대가 성과연봉제 도입을 결정한 것은 ‘스타 교수’ 유출에 대한 위기감에서 비롯됐다. 2012년 정부의 등록금 동결 정책으로 교수 연봉이 10년간 제자리인 상황에서 보수 체계의 변화 없이는 유명 교수들이 해외 대학으로 이동하는 것을 막을 수 없다고 본 것이다. 실제로 지난 4년간 서울대에선 56명의 교수가 해외 대학으로 빠져나갔다. &lt;br&gt;&lt;br&gt;앞서 서울대 본부는 지난 6월 성과연봉제 초안을 작성해 교수들에게 안내한 후 이에 대한 의견 수렴 절차를 거쳤다. 서울대교수노동조합(교수노조)은 앞으로 성과연봉제 관련 개정 절차를 진행할 때는 교수노조와의 협의를 반드시 거칠 것과 교수 개인이 호봉제와 연봉제 중 선택할 수 있도록 할 것을 요구했고 본부는 이를 수용했다. &lt;br&gt;&lt;br&gt;서울대 본부에선 각 교수를 대상으로 호봉제와 성과연봉제 중 어떤 방식으로 급여를 받을 것인지 조사에 나설 예정이다. 한번 결정한 방식은 추후 변경이 어려운 것으로 알려졌다. 서울대는 일부 행정 작업을 거쳐 이달 말쯤 성과연봉제를 공포할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZQM37UBAEJAFNJJXOOALYQEZWY.gif?auth=7ffa72267496a216b7521bdeed66cd72ed21a1350f528d32bb79c2f5e5193d09&amp;smart=true&amp;width=600&amp;height=338" type="image/jpeg" height="338" width="600">
+        <media:description type="plain">서울 관악구에 있는 서울대학교 정문 photo 조선일보</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>강릉 아파트 113곳 제한급수 해제… 오봉저수지 저수율 28.5%로 올라</title>
       <link>https://www.chosun.com/national/regional/gangwon/2025/09/19/6JV3YW3GKVBHVPJ7W253BYTSC4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/19/6JV3YW3GKVBHVPJ7W253BYTSC4/</guid>
@@ -932,33 +963,6 @@
       <description/>
       <pubDate>Thu, 18 Sep 2025 07:26:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXA2CCYHRNPEQN25CECPSYBADM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮 부산 주택가에서 여고생을 납치하려 한 30대에게 검찰이 실형을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 18일 부산지법 서부지원 형사1부(재판장 김주관) 심리로 열린 결심 공판에서 추행 약취 미수 등 혐의로 기소된 30대 남성 A씨에게 징역 3년과 취업 제한 명령 7년을 선고해달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 1일 오후 4시 5분쯤 부산 사하구 한 주택가에서 B양에게 다가가 팔을 잡아당겨 인근 골목길로 끌고 가려한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;범행 이후 A씨는 도피 생활을 하다가 사건 발생 5일 만에 경찰에 자진 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;A씨 측은 법정에서 “당시 A씨는 여자 친구가 어린 남자와 데이트한 사실을 알고 기분이 상해 있던 중 B양을 보고 여자 친구에 대한 반발심에 우발적으로 범행을 저지르게 됐다”며 “A씨는 범행 이후 체포가 두려워 도망가긴 했으나 내내 죄책감에 시달리다가 경찰서에 자수한 사정을 고려해 달라”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 A씨에 대한 선고 기일을 다음 달 23일로 지정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 불법 드론 무력화 기술 선보여</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/18/GJRR7QHFZFCYBMGBLZHTOTKKJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/GJRR7QHFZFCYBMGBLZHTOTKKJI/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 06:55:44 +0000</pubDate>
-      <content:encoded>경찰이 국가 중요 시설을 촬영하는 불법 드론을 탐지해 무력화하는 기술을 선보였다. 불법 드론을 찾아 정보를 확인한 후, 조종 권한을 빼앗고 비행 경로 등을 분석하는 기술이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VSBWOQ765FCANE2YME6SMT2ERI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 대전 한국원자력연구원에 구축된 불법 드론 대응 시스템. 원자력 시설 내에 침입한 드론을 탐지해 제어권을 빼앗는 기술이다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 우주항공청과 함께 18일 오후 대전 한국원자력연구원에서 원자력 시설에 불법 드론이 침투한 상황을 가정한 기술 시연회를 개최했다. 경찰청은 2021년부터 우주청과 함께 관련 기술을 개발해왔는데 이날 첫선을 보인 것이다. 실제 기술 연구는 한국원자력연구원이 맡아 진행해 왔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 불법 드론 대응은 총 3단계로 진행된다. 1단계는 탐지·식별로, 드론의 통신 주파수를 분석해 기종 등 정보를 확보한다. 이후 조종자의 위치, 촬영 중인 영상 등의 증거를 확인해 저장한다.&lt;br&gt;&lt;br&gt;2단계는 제어권 탈취다. 1단계에서 확인한 정보에 따른 취약점을 이용해 조종 권한을 빼앗는 것이다. 드론을 사격 등의 수단으로 격추시키는 물리적 대응과 달리 추락으로 인한 피해를 예방할 수 있어 도심에서도 활용할 수 있다는 설명이다.&lt;br&gt;&lt;br&gt;마지막 3단계는 포렌식이다. 제어권을 빼앗아 무력화시킨 드론 기체 등을 분석해 비행 경로, 촬영 사진·영상 등 범죄를 입증할 수 있는 자료를 획득하는 것이다. 1~2단계는 군이나 국정원 등이 작전을 수행하고 3단계는 경찰이 맡게 된다. &lt;br&gt;&lt;br&gt;이번에 개발된 드론 대응 기술은 군 기지 등 다른 국가 주요 시설에도 적용이 가능하다. 다음달 말에는 양양공항에서 2차 시연회가 열릴 예정이다. &lt;br&gt;&lt;br&gt;최주원 경찰청 미래치안정책국장은 “드론 기술이 급속하게 발전하고 있는 만큼 관련 범죄에 대비한 포렌식 기술 확보에 최선을 다하겠다”고 했다. 김현대 우주항공청 항공혁신부문장은 “전세계적으로 드론 관련 보안 위협이 커지는 상황에서 이번에 개발한 기술은 국민 안전을 지키기 위한 핵심 기술이 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검 ‘계엄사 파견 의혹’ 국정원 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/18/3CQIQAEO6NFQXBMQYQERZCK574/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/3CQIQAEO6NFQXBMQYQERZCK574/</guid>
-      <dc:creator>김희래 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 06:16:10 +0000</pubDate>
-      <content:encoded>‘12·3 비상계엄’에 관한 내란·외환 혐의를 수사하는 조은석 내란특검팀이 18일 국가정보원에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;내란 특검팀은 이날 오후 서울 서초구 내곡동 소재 국정원에 검사와 수사관을 보내 압수수색을 진행했다. 이번 압수수색은 국정원으로부터 필요한 자료를 제출 받는 임의제출 방식으로 이뤄졌다고 한다. 형사소송법 110조는 ‘군사상 비밀을 요하는 장소는 책임자 승낙 없이 압수 또는 수색할 수 없다’고 규정하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFRI6XXWNVFWFNBODVH7ME6LRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국정원 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 국정원이 계엄사 파견을 검토했다는 의혹과 관련해 전날 국정원 담당 부서 관계자도 소환해 조사했다. 앞서 윤건영 더불어민주당 의원은 국정원이 계엄사에 인력 파견을 검토하고 활동 계획을 세운 사실이 있다며 ‘비상계엄 선포 시 ○○국 조치사항’이라는 제목의 문건을 공개했다.&lt;br&gt;&lt;br&gt;해당 문건에는 국정원 조사국 직원 80여 명을 계엄사와 합수부에 파견하고, 중앙합동정보조사팀을 5개조 30여 명으로 구성하는 내용이 담긴 것으로 알려졌다. 특검팀은 조태용 전 국정원장 등 윗선이 문건 내용과 관련해 지시하거나 관여한 부분이 있는지 여부를 수사하고 있다.&lt;br&gt;&lt;br&gt;한편 특검팀은 오는 19일 외환 혐의와 관련해 김용현 전 국방부 장관을 불러 조사할 예정이었지만, 김 전 장관이 불출석 사유서를 제출하면서 조사가 불발됐다.&lt;br&gt;&lt;br&gt;특검 관계자는 이날 “저희가 내일(19일) 출석 요구를 했는데 (김 전 장관이) 불출석 사유서를 제출했다”며 “다시 협의를 해서 조사 일정을 결정할 방침”이라고 말했다. 김 전 장관은 현재 서울동부구치소에 수감돼 있는데, 특검 측은 “방문조사는 하지 않기로 했다”고 덧붙였다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전기자전거에 묶인 채 달리다 죽은 개…천안시, ’24시 동물 구조 체계' 가동</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/18/YGPME6USH5HQZC6YR676CPARWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/YGPME6USH5HQZC6YR676CPARWM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 06:05:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XHUNPGETBGRBMFFEM65W7EMMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전기자전거에 매달린 채 달리던 개가 피를 흘리며 쓰러져 있다. /케어 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안시에서 보더콜리가 전기자전거에 묶인 채 달리다 죽는 사건이 발생한 가운데, 천안시는 학대받은 동물 구조와 관련한 제도 개선이 필요하다는 지적에 따라 24시간 긴급 대응 체계를 가동하기로 했다. &lt;br&gt;&lt;br&gt;시는 18일 천안동물의료센터, 나우동물메디컬센터, 스카이동물메디컬센터 등 24시 동물병원 3곳과 피학대 동물 긴급 대응 조치를 위한 업무 협약을 했다.&lt;br&gt;&lt;br&gt;이에 따라 시는 동물 학대 신고 접수 때 신속히 현장으로 출동해 긴급 구조하고, 피학대 동물에 대해 현장에서 가까운 협약 동물병원과 연계해 신속한 병원 진료를 시행한다. 24시 동물병원은 피학대 동물 입원 때 신속히 치료하고 응급처치와 진료 등을 지원한다. 아울러 시는 행정적·제도적 장치 마련, 동물 학대 예방과 시민 인식 개선 활동도 추진한다. &lt;br&gt;&lt;br&gt;시는 앞으로 동물보호 관련 조례 제·개정을 통해 제도적 기반을 강화하고, 협력 동물병원과 동물복지 향상을 위한 정보 교류, 전문가 교육·자문 등 협력 체계를 지속해서 확대할 방침이다. 이명열 농업환경국장은 “이번 협약으로 동물 학대 사건을 예방하고 긴급 상황에 신속하게 대응할 기반을 마련했다”며 “사람과 동물이 함께 안전하고 존중받는 도시를 만들기 위해 힘을 쏟을 것”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 지난달 22일 오후 7시 52분쯤 천안시 동남구 신부동 천안천 산책로에서 보더콜리 품종의 대형견이 전기자전거에 매달린 채 달리다 죽는 일이 벌어졌다. 견주 A씨는 시속 10∼15㎞ 속도로 30분 이상 달려, 결국 이 개를 죽게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 헐떡거리는 상태에서 피를 쏟으며 전기자전거에 끌려가는 개를 본 시민들이 견주를 제지하고 경찰에 신고한 것으로 알려졌다. 목격자들은 경찰 조사에서 “개가 서 있지도 못할 만큼 탈진했지만 견주가 전기자전거에 매달고 계속 끌고 다녔다”고 진술했다.&lt;br&gt;&lt;br&gt;개는 구조 당시 살아있었지만, 동물병원으로 이송 중 죽었다. 질식사로 추정된다는 수의사의 소견이 나왔다.&lt;br&gt;&lt;br&gt;동물단체 등을 통해 당시 상황이 담긴 사진과 영상이 공유되기도 했는데, 여기엔 쓰러진 개 주변으로 피가 가득한 모습이 담겼다. &lt;br&gt;&lt;br&gt;이후 동물단체 등에서 학대받은 동물 구조와 관련한 제도 개선이 필요하다는 목소리가 이어진 바 있다. &lt;br&gt;&lt;br&gt;경찰은 제보 영상과 죽은 개의 상태 등을 토대로 A씨가 잔인한 방법으로 개를 죽게 했다고 봤다. 또 A씨가 상가주택 옥상의 열악한 환경에서 두 마리를 키우며 방치·학대한 혐의도 있다고 보고 지난달 31일 사전구속영장을 신청했다. 다만 검찰은 “도주 및 증거인멸 우려가 없다”며 신청을 반려했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 김건희 특검, 한학자 통일교 총재 구속 영장 청구</title>
