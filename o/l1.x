@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>김후곤 전 서울고검장, 법률신문사 방문</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211599.jpg" alt="45633.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울고등검사장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1699"&gt;김후곤&lt;/span&gt;(사법연수원 25기) &lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt; 대표변호사가 18일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 15일부터 광장 형사그룹을 이끌고 있다. 그는 "광장이 지난해 매출 4000억 원을 넘어 크게 성장하고 있다"며 "인재를 영입해 나가 형사그룹 기여를 높이겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;경동고와 동국대 법학과를 졸업한 김 변호사는 1993년 제35회 사법시험에 합격해 1996년 검사로 임관했다. 수원지검 특수부장, 서울중앙지검 특수1부장, 대검 반부패부 선임연구관 등을 거쳐 2022년 서울고검장을 역임했다.&lt;br /&gt;&lt;br /&gt;특히 서울중앙지검 첨단범죄수사부 근무, 방송통신위원회 파견을 통해 IT, 개인정보 분야 전문성을 쌓았다. 2023년 데이터분쟁조정위원장으로 임명됐고 2024년부터 KT 컴플라이언스위원장도 겸임하고 있다.</description>
+			<pubDate>Fri, 19 Sep 2025 05:30:36 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211599</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211599</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211599.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>특검, 김건희 친오빠 김진우 소환조사...'이우환 그림 수수 의혹'</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211614.jpg" alt="3452.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 여사 오빠인 김진우 씨가 7월 31일 김 여사 관련 의혹들을 수사하는 민중기 특별검사팀 사무실이 위치한 서울 종로구 KT광화문빌딩에서 나오고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13751"&gt;김상민&amp;nbsp;&lt;/span&gt;전 검사로부터 이우환 화백의 그림을 선물 받은 혐의를 받는 김 여사의 친오빠 김진우 씨를 불러 조사한다. &lt;br /&gt;&lt;br /&gt;특검팀은 19일 언론 공지를 통해 "오늘(19일) 오전 김진우 씨를 소환 조사 중"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;특검팀은 김 씨를 상대로 김 전 검사가 이우환 화백의 그림을 건넨 경위 등을 물을 것으로 보인다. &lt;br /&gt;&lt;br /&gt;18일 구속된 김 전 검사는 이 화백의 그림을 1억 원가량에 구매해 김 씨를 통해 김 여사 측에 건네고, 공천·정부 인사 등을 청탁한 혐의를 받는다. 김 전 검사 측은 '김 씨 부탁으로 그림값을 받고 대리 구매했다'며 혐의를 부인했다. &lt;br /&gt;&lt;br /&gt;앞서 특검팀은 11일 김 씨에게 소환 조사를 통보했지만, 김 씨 측은 변호인 사정으로 출석이 어렵다고 밝혔다.</description>
 			<pubDate>Fri, 19 Sep 2025 01:32:24 -0000</pubDate>
@@ -228,15 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211560</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211560.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원, 특검 재판 신속 방안 마련… 형사25부 법관 추가</title>
-			<description>법원이 3대 특별검사(내란·김건희·순직해병) 사건의 신속하고 공정한 재판을 위해 다양한 방안을 마련하고 지원에 나서기로 했다. 올해 공포된 3개의 특검법은 특별검사가 기소한 사건을 다른 재판보다 우선해 심리하도록 규정하고 있다.&lt;br /&gt;&lt;br /&gt;서울중앙지법은 내란 사건을 맡고 있는 형사25부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7225"&gt;지귀연&amp;nbsp;&lt;/span&gt;부장판사)에 법관 1명을 추가 배치하는 등 특검사건 재판지원 방안을 마련했다고 9월 18일 밝혔다.&lt;br /&gt;&lt;br /&gt;법원에 따르면 오는 20일 복직하는 법관 1명이 형사25부에 합류해 일반사건을 담당할 예정이다. 현재 형사25부는 3건의 내란사건을 맡고 있다. 이와 함께 일반사건도 병행해 담당하고 있어 업무 부담이 큰 상황이다. 서울중앙지법은 내년 2월 정기인사 때 형사합의부 증설을 위한 법관 증원도 법원행정처에 요청한 상태다.&lt;br /&gt;&lt;br /&gt;법원은 특검사건 배당 시 상당한 사건 가중치를 부여해 담당 재판부의 부담을 줄이기로 했다. 특검사건 1건을 맡으면 일반사건 5건을 배당하지 않는 방식이다. 이미 진행 중인 사건에도 소급 적용된다. 특히&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 사건(형사35부)과 김건희 여사 사건(형사27부)은 사건의 난이도와 복잡성을 고려해 기존보다 강화된 조치가 적용돼 일반사건 10건이 배당되지 않는다.&lt;br /&gt;&lt;br /&gt;또 특검사건 재판부가 일반사건의 배당조정이나 재배당을 요청하면 이를 적극 검토하기로 했다. 이와 함께 참여관·주무관·속기사·법원경위 등 직원 충원도 추진된다.&lt;br /&gt;&lt;br /&gt;형사법정 부족 문제를 해소하기 위해 민사법정 2곳을 형사법정으로 개조했다. 추가로 형사 중법정 1개가 내년 상반기 완공을 목표로 공사 중이다.&lt;br /&gt;&lt;br /&gt;서울중앙지법은 서울고법과 협력해 서울법원종합청사 재판중계준비팀을 구성, 특검법상 재판중계가 차질 없이 진행되도록 예산 확보와 중계설비 마련 작업 중이다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 관계자는 "특검사건의 신속하고 공정한 재판 진행을 위해 다양한 방안을 지속적으로 마련해 나가겠다"고 말했다.</description>
-			<pubDate>Thu, 18 Sep 2025 04:15:25 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211568</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211568</guid>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
