@@ -13,6 +13,172 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해병 특검, 다음주 이노공·조태열 연달아 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:53:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAX52Z3FN33YZU6HO2WSIFT25A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태열 전 외교부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 오는 23일 이노공 전 법무부 차관을, 24일 조태열 전 외교부 장관을 피의자 신분으로 소환해 조사한다. 이종섭 전 국방부 장관의 ‘주(駐) 호주대사 임명 및 도피성 출국 의혹’에 연루된 법무부·외교부 고위직 관계자들에 대한 조사를 본격화하는 모양새다.&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 19일 언론 브리핑에서 “다음 주부터 호주대사 사건의 피의자들에 대한 조사를 본격적으로 시작한다”며 “오는 22일에는 이시원 전 대통령실 공직기강비서관을, 23일에는 이 전 차관을, 24일에는 조 전 장관을 불러 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;이들은 2024년 3월 고(故) 채수근 상병 사망 사건과 관련해 고위공직자범죄수사처(공수처)의 수사를 받고 있던 이 전 장관을 호주 대사로 임명·출국시켜 공수처 수사를 방해하려 한 혐의(범인 도피·직권남용)를 받는다.&lt;br&gt;&lt;br&gt;이 전 차관은 이 전 장관에 대한 법무부 인사정보관리단의 인사 검증이 이뤄질 당시 법무부 차관이었다. 조 전 장관은 이 전 장관이 호주대사로 임명돼 출국하고 귀국 후 사임하는 전 과정을 관장한 인물이다. 이 전 비서관은 이 전 장관에 대한 대통령실의 인사 검증을 담당했다.&lt;br&gt;&lt;br&gt;특검은 이들을 상대로 이 전 장관의 호주대사 임명 및 출국 과정에 위법 행위가 없었는지 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIV5CHZSJRJKNOKONJ2HFUYHQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병 특검의 정민영 특검보가 4일 서울 서초구 해병 특검 사무실에서 정례 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 해병 특검은 이날 내란 특검에 박성재 전 법무부 장관의 휴대전화 전자정보를 제출했다고 밝혔다. 정 특검보는 “내란 특검에서 (해병 특검이 확보한) 박 전 장관의 휴대전화 이미징 파일에 대한 압수수색 영장을 법원에서 발부받아 이날 집행하러 왔다”고 말했다. 해병 특검은 지난 8월 4일 박 전 장관의 차량과 휴대전화 등을 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;특검은 출범 두 달이 지나도록 한 사람도 기소되지 않은 등 수사 실적이 전무하다는 비판에 대해서는 이날 “납득하기 어렵다”는 입장을 밝혔다. 정 특검보는 “(해병 특검에서 다루는) 사건의 성격이 다른 특검과 굉장히 다른 면이 있다”며 “이제 (수사 기간) 중반을 막 지난 정도기 때문에 아직 기소가 되지 않아 수사가 제대로 안 됐다는 비판은 납득하기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>직접 만든 총기로 아들 살해 60대男, 손주·며느리 살인미수 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/P57F6JYWONADJM5QYQ763ZZQHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/P57F6JYWONADJM5QYQ763ZZQHE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 02:37:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NQI6JDOOUDRX4KKHPN7GKWIRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사제 총기 살해 사건 피의자 조모(62)씨.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천에서 사제 총기로 아들을 살해하고, 며느리와 손주 등 4명을 죽이려 한 혐의로 구속 기소된 조모(62)씨가 19일 첫 공판에서 자신에게 적용된 혐의 일부를 부인했다. &lt;br&gt;&lt;br&gt;인천지법 형사13부(재판장 김기풍)는 이날 살인, 살인미수, 총포·도검·화약류 등의 안전관리에 관한 법률 위반, 현주건조물방화미수 등 혐의로 구속기소된 조씨에 대한 첫 공판을 진행했다. &lt;br&gt;&lt;br&gt;갈색 수의를 입고 법정에 들어선 조씨측 변호인은 검찰의 공소사실에 대한 의견을 묻는 재판장 질문에 “살인과 총포화약법 위반 혐의를 인정한다”고 했다. &lt;br&gt;&lt;br&gt;다만 “피해자 4명에 대한 살인미수 혐의는 살인의 고의를 부인하는 입장”이라며 “현주건조물방화미수 혐의는 사실관계는 인정하나 착수(범죄실행개시)가 되지 않았기 때문에 법리적으로 예비죄를 검토해야 한다”고 했다. &lt;br&gt;&lt;br&gt;조씨는 생년월일과 주거지 등을 확인하는 인정신문에 담담한 목소리로 답했고, 국민참여재판은 원하지 않는다고 했다. &lt;br&gt;&lt;br&gt;피해자 측 변호인은 법정에서 비공개 재판을 요청했다. 그는 “가족 간에 이뤄진 참혹한 범행이라는 점과 가족들이 힘들어하고 있다는 점 등을 고려할 때 재판 내용이 구체적으로 공개된다면, 유족의 사생활 침해나 2차 가해가 우려된다”며 “피해자의 자녀들이 최근 아버지의 사망을 알게됐고, 가족들이 사회로 복귀하는 것을 고려하고 있는 만큼 비공개 심리를 해줬으면 좋겠다”고 했다. 조씨 측 변호인도 비공개 재판을 요청했다. &lt;br&gt;&lt;br&gt;재판부는 “피해자 측 의견에 공감할 수 있는 부분이 있고, 재판부도 그런 우려를 하지 않을 수 없다”면서도 “규정과 판례 등을 검토한 결과, 현재 상태에서 비공개 사유에 해당된다고 보기 어렵다”고 요청을 받아들이지 않았다. &lt;br&gt;&lt;br&gt;조씨는 지난 7월 20일 오후 9시 31분쯤 인천시 연수구 송도동의 한 아파트 33층 집에서 사제 총기로 산탄 2발을 발사해 아들 A(33)씨를 살해하고, 며느리와 손주 2명, 외국인 가정교사(며느리 지인) 등 4명도 살해하려 한 혐의로 구속기소 됐다.&lt;br&gt;&lt;br&gt;조씨는 서울 도봉구 집에 점화장치와 인화성 물질 등을 설치해 불을 내려한 혐의도 받는다. &lt;br&gt;&lt;br&gt;조씨는 유튜브에서 본 영상 등을 토대로 지난해 8월부터 총기를 만들기 위해 파이프와 손잡이 등을 구입하고, 총기 격발, 폭발물 제조 실험 등을 한 것으로 파악됐다. 그는 범행 전 운전 연습과 사전답사를 위해 차량을 빌리는 등 범행을 계획한 것으로 나타났다.&lt;br&gt;&lt;br&gt;조씨는 20년 넘게 일정한 직업 없이 살면서 월 600만원이 넘는 돈을 전처와 아들로부터 받아 생활해 오다가, 2023년 말부터 전처가 지원을 중단하자 앙심을 품고 아들을 살해한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 조씨가 전처가 아들과 함께 자신을 속이고 고립시킨다는 망상에 빠져 전처가 아끼는 아들과 그 가족을 살해해 복수하려 한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;조씨의 다음 재판은 10월 20일 인천지법에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>탈북→월북→탈북… 어머니 모시러 북한 넘나든 탈북민 사연</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/GVT3I3X6BBGJNLY5COUKEXLWPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/GVT3I3X6BBGJNLY5COUKEXLWPU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 02:01:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMVO4YRIUVGMJFECXU7S2DQNEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탈북 후 어머니를 모셔오기 위해 월북한 후 재차 탈북한 탈북민 김강우씨. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어머니를 모시기 위해 북한을 넘나든 탈북민의 사연이 공개돼 화제를 모으고 있다. &lt;br&gt;&lt;br&gt;19일 온라인에선 지난달 10일 방영된 탈북민 출연 토크쇼 ‘이제 만나러 갑니다’에 출연한 김강우씨 사연이 재조명됐다. &lt;br&gt;&lt;br&gt;김씨는 2009년 아버지가 누명을 쓰고 억울하게 숨지자 20대 중반인 2016년 5월 탈북해 국내에 정착, 약 3년 뒤 어머니를 모셔오기 위해 월북을 감행했다. 김씨는 이 방송에서 당시 과정을 상세히 털어놨고, 온라인에선 김씨의 이런 사연이 뒤늦게 이목을 끌었다. &lt;br&gt;&lt;br&gt;월북 과정이 순탄하지는 않았다. 압록강을 통해 겨우 북한에 잠입, 군인 교대 시간을 노려 철조망을 넘으려 했으나, 예상치 못하게 경비병과 조우하게 된 것이다. 경비병은 AK 소총으로 김씨를 위협하며 가방 검사 등 검문을 시작했고, 김씨는 이때 “(한국) 여권이 발견되면 이대로 끝이다”라는 생각에 몸싸움을 시작했다. 김씨는 당시 상황에 대해 “엎치락뒤치락하는데 손에 돌멩이가 잡히더라”며 “경비병이 소리칠 수도 있겠단 생각에 입을 막고 돌로 몇 차례 찍었더니 신음 소리 내며 안 움직이길래 담을 뛰어넘었다”고 했다. &lt;br&gt;&lt;br&gt;이런 우여곡절 끝에 김씨는 늦은 밤 북한의 집에 도착해 어머니와 상봉했다. 김씨는 “(집에 도착한 순간) 다리에 힘이 풀리더라”며 “그래서 집에 들어가 몇 마디 얘기도 못 나누고 기절하듯 잠들었다”고 회상했다. &lt;br&gt;&lt;br&gt;김씨는 이튿날 잠에서 깬 뒤 어머니에게 자초지종을 설명했다. 어머니는 처음엔 한국 생활 이야기를 믿지 않았다고 한다. 다만 월북 당시 한국에서 사용하던 아이폰을 챙겨간 상태였기에, 휴대전화 사진첩 속 사진과 영상 등을 보여주며 어머니에게 탈북을 설득했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7B5WFRPPN5GSLOIKE3J5G34ZRM.png"&gt;&lt;figcaption&gt;&lt;small&gt;월북 후 북한 어머니 집에 도착한 김강우씨가 촬영한 셀카 사진. 배경에 김일성 김정일 초상화가 걸려 있다. /채널A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그렇게 김씨의 두 번째 탈북이 시작됐다. &lt;br&gt;&lt;br&gt;김씨는 당초 브로커를 끼고 바로 탈북할 예정이었으나, 상황은 좋지 않았다. 입북 때 군인과의 충돌 사건으로 북한 국경 전역에 특별경계령이 내려진 상태였기 때문이다. 이에 김씨는 집 인근 산 농막에 숨어 지내며 중국 로밍을 통해 브로커와 간헐적으로 연락하며 탈북 순간을 기다렸다. 산에 올라가면 중국 통신망인 차이나텔레콤 전파가 잡혀서 연락이 가능했다고 한다. 다만 2~3분 이상 통화는 추적 위험이 있어 짧게만 연락했다고 김씨는 설명했다. &lt;br&gt;&lt;br&gt;북한에 도착한 지 보름 남짓이 지났을 무렵, 김씨는 브로커와 다시 탈북 날짜를 정했다. 계획은 브로커가 북한 국경 경비대를 매수해 놓으면, 어머니와 함께 중국 국경을 넘는 것이었다. &lt;br&gt;&lt;br&gt;하지만 탈북 당일, 브로커가 매수해 둔 경비대가 아닌 다른 경비대가 보초를 서게 되는 바람에 어머니와의 탈북 시도는 무산됐다. 김씨는 혹시 모를 당국의 추적 위험에 대비하기 위해 어머니를 먼저 집으로 보내고, 자신은 어머니 집 인근의 친척 집으로 향했다. &lt;br&gt;&lt;br&gt;또다시 은신이 시작됐는데, 또 한 번 위기가 닥쳤다. 보위부 직원이 어머니 집에 들이닥친 것이다. 김씨는 “어머니를 구하러 북한에 들어왔는데, 오히려 보위부에 넘겨준 꼴이 됐다”며 “여기서 내가 나타나서 당국에 체포되면 온 가족이 다 끌려갈 것이란 생각에 할 수 있는 게 없었다”고 했다. &lt;br&gt;&lt;br&gt;결국 김씨는 “한시라도 빨리 한국에 먼저 돌아가서 브로커를 통해 어머니를 탈북시키는 게 급선무”라는 생각에 홀로 다시 탈북하기로 결심했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARTPQOSVDVCI5MUM6W64KJG7QY.png"&gt;&lt;figcaption&gt;&lt;small&gt;김씨가 직접 촬영한 북한 국경지대 사진. /채널 A&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨가 계획한 두 번째 탈북 경로는 입북 당시 경비병과 몸싸움을 벌였던 루트였다. 자칫 위험할 수 있는 이 방법을 선택한 이유에 대해 김씨는 “첫째는 익숙한 길이었기 때문”이라며 “둘째 이유는 둑 위에서 빠른 입수가 가능했으며, 강을 건너면 중국 도심과 인접해 빠른 탈출이 가능하다고 생각했다”고 했다. &lt;br&gt;&lt;br&gt;죽을힘을 다해 압록강을 건너, 김씨는 두 번째 탈북에 성공했다. 입북 22일 만이었다. 이후 중국에서 비행기를 타고 한국에 도착했다. &lt;br&gt;&lt;br&gt;다만 위기는 끝나지 않았다. 국내 입국 바로 다음 날 국가보안법 위반으로 경찰에 체포된 것이다. 북한 지역을 무단으로 드나들거나 접촉할 경우 잠입·탈출 위반으로 최소 3년 이상의 징역형이 내려진다. 김씨는 애당초 이 사실을 인지하고 있었기에 경찰 체포에 순순히 응했다고 한다. &lt;br&gt;&lt;br&gt;김씨는 국내 수사 당국에서 강도 높은 조사를 받았다. 조사는 약 5개월 이상 이어졌다고 한다. 이때 김씨는 어머니가 한국에 오는 게 누명을 벗는 가장 빠른 방법이라고 생각했고, 브로커를 통해 어머니를 빠른 시일 내 탈북시키기로 결심했다. 그렇게 어머니는 태국을 통해 탈북에 성공했고, 두 사람은 한국에서 재회했다. &lt;br&gt;&lt;br&gt;김씨는 기소 뒤 10개월간 미결수로 수감됐다가, 이후 재판에서 징역형의 집행유예를 선고받고 풀려났다. 적용 혐의는 국가보안법상 잠입·탈출 위반이 아닌 남북교류협력에 관한 법률 위반 혐의였다. 김씨가 체제에 반하는 행위는 하지 않았던 점, 입북에 악의가 없었던 점 등을 재판부가 고려한 것이다. 이에 따라 김씨는 북한 방문 시 절차를 지키지 않은 혐의로 징역 6개월에 집행유예 2년을 선고받았다. &lt;br&gt;&lt;br&gt;이런 김씨의 재판 기록은 언론 보도로도 남아 있다. 당시 재판을 맡은 창원지법 형사7단독 박규도 판사는 “동종 전과가 없고 반성하고 있으며, 경위에 참작할 사정이 있는 점을 고려했다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무직에 생활비 없다고 해도...어머니 묶고 30만원 뺏어 달아난 아들</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/GOG3T7JYZRBTXEK7U5PPCZIF3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/GOG3T7JYZRBTXEK7U5PPCZIF3U/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 02:32:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSJN2FOFFWYXECVCRH44T2RJW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친어머니를 결박하고 강제로 현금을 훔쳐 달아난 비정한 아들이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;광주 광산경찰서는 19일 강도 혐의로 30대 A씨에 대해 구속영장을 신청했다고 밝혔다. 경찰에 따르면 A씨는 지난 16일 오후 11시 30분쯤 자신의 어머니 B씨가 운영하는 광주광역시 광산구의 한 마사지 업소에서 현금 30만원과 휴대전화 등을 빼앗아 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 당일 오후 9시 30분쯤 B씨 업소에 도착해 B씨를 묶은 뒤 지갑에서 현금을 빼앗은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 자신의 차량을 타고 경기도 자신의 거주지로 달아났지만, 신고를 받고 추적에 나선 경찰에 의해 이튿날 검거됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “무직 상태에서 생활비가 없어 범행을 저질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 정확한 범행 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KSJN2FOFFWYXECVCRH44T2RJW4.jpg?auth=51a3c85306b5b2bb0113c2c463931afbb5e261378b47cdb72715e4a4f37ce90b&amp;smart=true&amp;width=7087&amp;height=3986" type="image/jpeg" height="3986" width="7087">
+        <media:description type="plain">광주 광산경찰서. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘법인카드 사적유용 혐의’ 이진숙 방통위원장, 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/09/19/YVKMKJXZZFEJDLRUBV33JEOE4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/19/YVKMKJXZZFEJDLRUBV33JEOE4A/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:52:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIXYQ23Z4VBMHCSUQNEJVZSXX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 방송통신위원장. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘법인카드 부정사용’ 혐의를 받는 이진숙 방송통신위원장에 대한 수사를 마무리하고 검찰로 사건을 송치했다.&lt;br&gt;&lt;br&gt;대전 유성경찰서는 19일 이 위원장을 업무상 배임 혐의로 검찰에 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 지난해 7월 황정아 더불어민주당 의원 등 당시 국회 과학기술정보방송통신위원회 소속 의원들이 이 위원장에 대해 업무상 배임 혐의 등으로 고발한 사건을 접수해 수사를 벌여왔다.&lt;br&gt;&lt;br&gt;고발인들은 이 위원장이 지난 2015년 3월 4일부터 2018년 1월 9일까지 대전MBC에 재직하면서 법인카드를 사적 용도로 사용해 회사에 손해를 끼쳤다고 주장했다.&lt;br&gt;&lt;br&gt;경찰은 이 위원장의 법인카드 사용처에 대한 압수수색을 벌이는 등 사적 용도 사용 여부를 살피는 한편, 총 4차례 소환 조사한 후 범죄 혐의점이 있다고 판단했다.&lt;br&gt;&lt;br&gt;이에 대해 이 위원장은 자신의 인사청문회에서 관련 의혹에 대해 “업무상 목적 외에 사용한 적은 한 번도 없다”고 해명했다. 이 위원장은 또 경찰 조사 과정에서 이 사건과 관련 “정치적 목적이 있다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 내란 재판 10차례 연속 불출석...특검, 기일 추가 요청</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/FJKSKRSY4FACRBCLI4VS6CAPMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/FJKSKRSY4FACRBCLI4VS6CAPMU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 02:23:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRGPS7IIKMAJFSYFVSQO5VMWCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사25부(재판장 지귀연)가 윤석열 전 대통령의 내란 우두머리 혐의 재판이 열리는 형사대법정에 앉아 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 19일 윤석열 전 대통령의 내란 재판에서 기일을 추가로 지정해달라고 요청했다. 윤 전 대통령은 10차례 연속 불출석했다.&lt;br&gt;&lt;br&gt;박억수 특별검사보는 19일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤 전 대통령의 내란 재판에 출석해 “전날(18일) 김용현 전 장관 측이 재판부 기피 신청을 해 향후 소송 절차가 정지된 상황”이라며 “이 재판에서 (추가로)기일을 지정해 신속한 재판이 이뤄질 수 있도록 조치해달라”고 말했다.&lt;br&gt;&lt;br&gt;재판부는 이에 “기피신청 문제로 기일을 추가해야 할 것 같다”고 밝혔다. 윤 전 대통령 측 변호인도 “사정이 허락하는 한 최대한 협조해서 추가 기일을 논의하겠다”고 말했다.&lt;br&gt;&lt;br&gt;같은 재판부에서 내란 중요임무 종사 혐의로 재판을 받고 있는 김 전 장관 측은 전날 재판부의 소송 지휘에 반발해 기피신청을 냈다. 기피신청은 법관이 불공정한 재판을 할 우려가 있을 때 검사 또는 피고인 측에서 법관을 배제할 것을 신청하는 제도다. 재판 지연 목적임이 명백할 경우 곧바로 기각할 수 있지만 그렇지 않으면 같은 법원의 다른 재판부가 결정하게 된다. 결과가 나올 때까지 재판은 중단된다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 건강 이상을 이유로 재판에 나오지 않았다. 지난 7월 10일 재구속 이후 10차례 연속 불출석이다. 재판부는 자의에 의한 불출석으로 보고 이날 피고인 없는 궐석 재판을 진행하기로 했다. 이날 재판에서는 12·3 비상계엄 선포 당시 국회 봉쇄와 관련해 육군 특수전사령부 707특수임무단 소속 요원과 경찰 기동대 간부 등의 증인 신문이 이뤄진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공공의료원 10곳 중 8곳, 의사·간호사  ‘정원 미달’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/19/PF5VANAYCFFN7PJHENGDJQI7HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/19/PF5VANAYCFFN7PJHENGDJQI7HY/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 02:08:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y64HHLGWWFKWFFI2KUAOYER5MA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지방 한 병원의 모습. 기사와 직접 관련은 없습니다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 공공의료원 10곳 중 8곳이 의사 또는 간호사 수가 정원보다 적은 것으로 나타났다. &lt;br&gt;&lt;br&gt;19일 국회 보건복지위원회 소속 김선민 조국혁신당 의원이 국립중앙의료원에서 제출받은 자료에 따르면 서울의료원을 포함한 전국 의사 수는 지난해 기준 총 1343명으로 정원(1451명)에 못 미친다. 또 공공의료원의 간호직 인원은 7669명으로 정원(8262명)보다 593명 적었다. 공공의료원 35곳 중 25곳(71.4%)에서 간호사 수가 정원에 못 미친 것으로 나타났다.&lt;br&gt;&lt;br&gt;의료원 35곳 중 의사와 간호사가 모두 정원을 채웠거나 정원보다 많은 곳은 7곳(20%)에 그쳤고, 나머지 28곳(80%)은 의사 또는 간호사가 부족했다. 의사와 간호사가 모두 미달인 곳은 13곳이었다.&lt;br&gt;&lt;br&gt;김선민 의원은 “지역·계층·분야와 관계없이 국민의 건강을 보호·증진하기 위해 국가와 지자체가 공공의료원을 운영하고 있지만, 인력 부족으로 제대로 된 진료를 하기 힘든 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신림역 살인 예고 글 작성자, 정부에 4370만원 배상”...민사 책임 첫 판결</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/WWHOS4B2YZHJFBAD7EYFVYCYEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/WWHOS4B2YZHJFBAD7EYFVYCYEA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:27:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 커뮤니티에 ‘신림역에서 사람을 죽이겠다’는 허위 글을 올린 30대 남성이 정부에 수천만원대 배상금을 물게 됐다. 살인 예고글을 올린 작성자에게 민사상 배상 책임을 인정한 첫 판결이다.&lt;br&gt;&lt;br&gt;19일 서울중앙지법 민사93단독 조정민 판사는 정부가 ‘신림역 2번 출구 살인 예고글’ 게시자 최모(31)씨를 상대로 낸 손해배상 청구 소송에서 “최씨가 대한민국에 4370만1434원과 지연 이자를 지급하라”고 판결했다. &lt;br&gt;&lt;br&gt;최씨는 2023년 7월 26일 한 인터넷 커뮤니티에 ‘신림역 2번 출구 앞에 칼을 들고 서 있다. 이제부터 사람 죽인다’는 내용의 글을 올렸다. 서울 관악구 신림동에서 조선(34)이 무차별적으로 흉기를 휘둘러 1명이 숨지고 3명이 다친 이른바 ‘신림역 흉기 난동’ 사건이 벌어진 5일 뒤였다. &lt;br&gt;&lt;br&gt;법무부는 최씨의 허위 게시글로 112 신고 접수부터 검거에 이르기까지 경찰청 사이버수사팀과 경찰기동대 등 703명의 경찰력이 투입됐고 경찰관 수당과 동원 차량 유류비 등 4370만1434원이 사용됐다며 손해배상을 청구하는 소송을 냈다. 공권력과 세금을 헛되게 쓰게 한 것에 형사상 책임은 물론 민사상 배상 책임까지 묻겠다는 취지였다. 당시 법무부 장관은 한동훈 전 국민의힘 대표다.&lt;br&gt;&lt;br&gt;최씨는 경찰 업무를 방해한 혐의(협박·위계공무집행방해)로 구속기소돼 작년 12월에서 징역 1년에 집행유예 2년이 확정됐다. 이 사건 1심을 맡은 서울중앙지법은 “다른 사람 관심을 끌기 위해 별다른 죄의식 없이 글을 올렸고 이 범행으로 다수의 경찰이 출동해 공권력 낭비가 컸다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“故 김광석 노래, 리메이크 수준 아니냐”...日 밴드 표절 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/BFO5Z4GRXFA4LLCJC3QYATDKC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/BFO5Z4GRXFA4LLCJC3QYATDKC4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 00:59:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVH5ICLT4BB6TL2G6DEVNGD6CY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일본 밴드 슈퍼등산부의 논란이 된 노래 산보와 고(故) 김광석 생전 모습(오른쪽)/유튜브 '슈퍼등산부', 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본의 인디밴드 슈퍼등산부가 고(故) 김광석의 대표곡 ‘바람이 불어오는 곳’을 표절했다는 의혹이 불거졌다. 밴드 측은 “몰랐다”며 표절을 부인했지만, 곡 전체가 지나치게 유사하다는 지적이 온라인을 중심으로 이어지며 논란이 확산하고 있다.&lt;br&gt;&lt;br&gt;슈퍼등산부는 18일 자신의 유튜브 채널 댓글로 “저희의 곡 ‘산보’에 대해 많은 지적 감사드린다”며 “여러분들의 댓글을 보고 처음으로 김광석 님의 ‘바람이 불어오는 곳’을 들었고, 저희도 놀랄 만큼 부분적 멜로디가 비슷하다고 느꼈다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 밴드는 “한국에서 굉장히 유명한 곡이라고 하나 부끄럽게도 제작 당시에는 미처 알지 못하였고, 산속을 걷는 이미지로 작곡한 멜로디가 부분적으로 비슷하게 되어 결과적으로 유사한 곡을 발표해버린 사실에 대해 진지하게 받아들이고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;슈퍼등산부는 2023년 나고야에서 결성된 인디밴드로, 산장 라이브 공연과 등산을 병행하며 활동해왔다. 지난해에는 일본 최대 규모 산장인 하쿠바산소(해발 2832m)에서 공연을 열기도 했다. 문제가 된 신곡 ‘산보’는 이달 10일 발매됐다.&lt;br&gt;&lt;br&gt;밴드는 표절 의혹을 부인하면서도 “‘산보’는 산과 자연 속을 걷는 시간을 통해 마음과 삶이 풍요로워지는 모습을 떠올리며 작곡한 곡”이라며 “이번 지적을 계기로 훌륭한 한국의 명곡을 알게 되었고, 음악에는 국경을 넘어 사람과 사람을 이어주는 힘이 있다는 것을 새삼 느끼게 되는 계기가 되었다. 일본의 여러분은 물론 한국의 여러분들도 저희 음악을 따뜻한 마음으로 보듣 받아들여 주시면 감사하겠다”고 강조했다.&lt;br&gt;&lt;br&gt;그러나 일각에서는 특정 몇 마디가 아닌 곡의 처음부터 끝까지 ‘바람이 불어오는 곳’과 흡사하다는 점을 지적하며, 단순한 우연으로 보기 어렵다는 지적이 이어지고 있다. 특히 슈퍼등산부의 ‘산보’가 2011년 제이레빗(J Rabbit)이 리메이크한 버전과 도입부부터 유사하다는 점에서 “번안곡인 줄 알았다”는 반응까지 나오고 있다.&lt;br&gt;&lt;br&gt;일본에서도 이번 논란에 대해 “부끄럽다”는 반응이 나오고 있다. “지금이라도 로열티를 지급하고, 번안곡임을 인정해야 한다” ”한국 곡과 너무 비슷하다“ ”이 정도면 리메이크곡“ 등의 의견을 내놓았다.&lt;br&gt;&lt;br&gt;김광석은 1984년 ‘노래를 찾는 사람들’ 1집을 통해 대중에 알려진 뒤, 담백하고 울림 있는 목소리로 포크송 붐을 이끈 전설적인 가수다. ‘바람이 불어오는 곳’ 외에도 ‘사랑했지만’, ‘사랑이라는 이유로’, ‘이등병의 편지’, ‘서른 즈음에’ 등 수많은 명곡을 남겼으나 31세의 나이로 요절했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘이우환 그림 거래’ 김건희 오빠 소환조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/6W3A2N24LNHXVJRTSDYYNXGJHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/6W3A2N24LNHXVJRTSDYYNXGJHA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:28:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIEBC6GFJAXBRXQ7YJH7EFJIRE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 오빠 김진우 씨가 7월 25일 김건희 특검 조사를 마치고 옷깃으로 얼굴을 가린 채 변호인과 함께 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 19일 김 여사 오빠 김진우씨를 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;특검은 김씨를 상대로 김상민 전 부장검사가 구매한 이우환 화백의 그림을 받은 경위 등을 물을 예정이다. &lt;br&gt;&lt;br&gt;특검은 지난 7월 김씨 자택을 압수 수색하는 과정에서 이우환 화백의 그림 ‘점으로부터(From Point) No.800298′을 발견했다. 그림 거래 경로를 추적해 김 전 검사를 최종 구매자로 특정했다. 특검은 김 전 검사가 김씨를 통해 김 여사에게 그림을 건네고, 2024년 총선 공천 및 국정원 법률특보 임명을 청탁했다고 보고 있다. 그림 구매 가격은 1억원대로 알려져 있다. &lt;br&gt;&lt;br&gt;김 전 검사는 “이 화백 그림은 김씨 부탁으로 ‘대리 구매’한 것”이라는 입장이다. 김 전 검사는 지난 18일 청탁금지법 위반 혐의로 구속됐다.&lt;br&gt;&lt;br&gt;김씨는 지난 7월에도 특검 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 ‘세종 국제 콘퍼런스’ 개최… 각국 대법원장·대법관 모인다</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/NAGXFN45TNC4LPXL3IVF4XWK2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/NAGXFN45TNC4LPXL3IVF4XWK2U/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:35:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIYPBMZG35FZ3DKNBUWTDYHPCU.png"&gt;&lt;figcaption&gt;&lt;small&gt;대법원이 오는 22~23일 서울 장충동 신라호텔에서 ‘세종 국제 콘퍼런스’를 개최한다. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 사법부 국제 교류와 협력을 강화하기 위해 9년 만에 ‘세종 국제 컨퍼런스’를 연다. 싱가포르와 필리핀 대법원장을 비롯한 세계 각국 최고법원 수장이 세종대왕의 법치주의 정신을 공유하고, 사법 독립과 공정한 사법권 행사의 의미에 대해 논의하는 자리다.&lt;br&gt;&lt;br&gt;대법원은 오는 22~23일 서울 장충동 신라호텔에서 ‘세종 국제 콘퍼런스’를 개최한다고 19일 밝혔다. 싱가포르·일본·중국·필리핀·호주·그리스·이탈리아 등 10여 개 국가의 대법원장과 대법관, 국제형사재판소(ICC)의 전·현직 소장과 재판관 등이 참석한다.&lt;br&gt;&lt;br&gt;이번 콘퍼런스의 핵심은 세종대왕의 법치주의 정신을 조명하는 것이다. 조희대 대법원장은 첫날 개회사에서 600년 전 백성들의 사법 접근성 강화를 위해 훈민정음을 창제했던 세종대왕의 업적을 강조할 예정이다. 조 대법원장은 평소 세종대왕의 법철학에 깊은 관심을 가져온 것으로 전해졌다. 대법원은 “민본사상과 애민정신에 기초해 정의롭고 공정한 사법을 구현한 세종대왕의 법사상을 세계와 공유할 것”이라고 했다.&lt;br&gt;&lt;br&gt;첫날 주요 세션에서는 ‘법치주의 수호’와 ‘사법 독립’을 위한 국제형사재판소와 각국 대법원의 노력과 역할에 대해 논의한다. 시민들에 대한 사법 접근성 향상과 사회적 약자 보호 등도 다룬다. 둘째 날은 AI와 사법의 관계, 지식재산권 보호를 위한 사법의 역할 등 미래 사법 과제가 주된 주제다. &lt;br&gt;&lt;br&gt;콘퍼런스 종료 이후에는 일본과 중국, 호주 대법관들이 대법원 및 각급 법원을 찾아 교류한다. 경기도 성남의 대법원 전산정보센터에도 몽골 등 주요 인사들이 방문할 예정이다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “이번 행사를 시작으로 국제 교류·협력을 강화해 국제적 차원에서 법치주의와 정의 실현에 기여하고, 내년 9월 국내에서 개최되는 ‘아시아·태평양 대법원장 회의’도 준비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘건진 법사’ 측근 브로커, “고문님 재판 무죄 가능하다” 금품 사기</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Sep 2025 04:51:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N74AJ72EAYUHGC66NQNJFVPZTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배씨 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨 측근으로 알려진 사업가 이모씨가 전씨와의 친분을 내세워 “무죄를 받아주겠다”며 수억원을 가로 챈 정황을 특검이 확보한 것으로 1일 파악됐다. 이씨는 지인들에게 전씨의 인맥을 활용해 재판에서 무죄를 받을 수 있다며 피해자들을 속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검이 최근 국회에 제출한 이씨의 공소장을 살펴보면, 이씨는 지난해 4월 지인 A씨로부터 “친구 B씨가 보석 출소 이후 무죄를 선고 받기 위해 대관 작업 할 사람을 찾는다”는 말에 “대통령 부부나 국민의힘 유력 정치인들, 고위 법조인들과 가까운 전성배 고문님이 계시다”고 말했다. 그러면서 “고문님께 부탁하면 재판에서 무죄를 받아줄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 무죄를 받아주는 대가로 현금을 요구한 것으로 파악됐다. 이씨는 지인에게 “고문님이 대법관 등 고위법관을 통해서 일을 봐주는데 5억원이 필요하고, 무죄가 나오면 돈을 추가로 줘야 한다”며 “돈은 모두 현금으로만 받는다”고 했다. B씨는 지난해 5~6월 사이 이를 승낙한 후 A씨를 통해 1억원씩 네 차례에 걸쳐 총 4억원을 이씨에게 건넨 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이씨는 지난달 18일 공무원의 직무와 관련된 사항에 대한 청탁과 함께 금품을 받아 챙긴 혐의(특정범죄 가중처벌법상 알선수재)로 지난달 18일 구속기소됐다. 특검은 이씨가 수사 무마, 재판 편의 등을 요청하는 이들을 전씨와 연결해주는 ‘브로커’로 활동했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;지난달 29일 서울중앙지법에서 열린 첫 공판준비기일에서 이씨 측 변호인은 “특가법상 알선수재 혐의의 객관적, 주관적 구성 요건을 따져봤을 때 객관적으로 알선 청탁 목적으로 특정해 부탁한 사실 자체가 없고 증거도 없다”며 “이 사건 알선 상대방이 건진 법사인지 대법관인지도 명확하지 않은 상황”이라고 했다. 그러면서 “특검이 기소한 특가법상 알선수재 구성 요건이 충족되지 않아 범죄가 성립하지 않고 고의 및 목적도 인정되기 어려워서 이 사건 혐의를 인정할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, ‘평양 무인기 침투 작전’ 이승오 합참 작전본부장 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/O76P4VCZYBFJVPGHGIGHFDXTXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/O76P4VCZYBFJVPGHGIGHFDXTXQ/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:21:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXFA35JMBBSNFZZZQLEWRTOLAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이승오 합동참모본부 작전본부장이 지난 1월 14일 오전 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회에서 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 ‘평양 무인기 침투 작전’과 관련해 19일 오전 이승오 합동참모본부 작전본부장을 피의자 신분으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 12·3 비상계엄 선포 명분을 쌓기 위해 평양에 무인기를 보내 북한의 도발을 유도했다는 의혹을 수사하면서, 김용현 전 국방부 장관이 해군 출신인 김명수 합참의장을 패싱하고, 이 본부장, 김용대 전 드론작전사령관과 직접 소통했을 가능성을 의심해 왔다.&lt;br&gt;&lt;br&gt;특검은 이 본부장과 윤 전 대통령, 김 전 장관, 김 전 사령관 등 4명이 공모 관계에 있다고 최근 판단한 것으로 알려졌다. 지휘 체계가 ‘윤 전 대통령–김 전 장관–이 본부장–김 전 사령관’으로 이뤄졌다고 보는 것이다.&lt;br&gt;&lt;br&gt;특검은 법리 검토 끝에 이들에게 일반이적 혐의를 적용하기로 결정한 것으로 전해졌다. 지난달 이 본부장을 직권남용 권리행사 방해와 허위 공문서 작성 등 혐의 피의자로 전환하고, 자택과 사무실 등을 압수 수색했다. 압수 수색 영장에는 “지난해 10월 8일, 10회에 걸쳐 북한에 무인기를 침투시켰다”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;조만간 이 본부장 등 4명에 대한 사법 처리 여부가 결정될 것으로 보인다. 특검은 지난 18일 김 전 사령관과 김명수 합참의장을 소환한 데 이어 오는 22일에는 서울동부구치소를 찾아 구속 수감 중인 김 전 장관을 방문 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지능형교통체계(ITS) 사업 로비 의혹…현직 시장·도의원 등 추가 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/09/19/Z7AGMSS2MJCG3B6IZ7PGMATPHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/Z7AGMSS2MJCG3B6IZ7PGMATPHQ/</guid>
+      <dc:creator>안산=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 01:07:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체 지능형교통체계(ITS) 사업을 둘러싼 로비 의혹을 수사 중인 경찰이 현직 시장과 경기도의원들을 추가 입건했다.&lt;br&gt;&lt;br&gt;경기 안산상록경찰서는 뇌물수수 혐의로 현직 A시장과 B도의원을 비롯해 경기도의원 3명 등 4명을 지난 17일 입건해 조사하고 있다고 19일 밝혔다. 경찰은 또 알선수재 혐의로 전직 지자체 공무원 C씨도 함께 입건했다.&lt;br&gt;&lt;br&gt;A시장은 ITS 사업체 운영자 김모씨로부터 금품을 받은 혐의를 받고 있다. 김씨는 도내 다수 지자체를 상대로 ITS 구축 사업을 추진하며 공무원과 정치인에게 금품을 건넨 혐의로 지난달 구속 기소됐다. 경찰은 김씨가 제3자를 통해 A시장에게도 금품을 전달한 정황을 포착했다고 한다.&lt;br&gt;&lt;br&gt;B의원 등 도의원 3명은 김씨로부터 수십만원대 향응을 제공받은 혐의를 받는다. C씨는 퇴직 후 김씨 편의를 봐주는 대가로 금품을 받고 사업과 관련한 알선을 한 혐의가 있다.&lt;br&gt;&lt;br&gt;이번 사건은 경찰이 지난 4월 안산시 공무원의 수뢰 정황을 포착하면서 불거졌다. 경찰은 김씨가 안산시 공무원에게 5000만원을 건넨 사실을 확인해 지난 7월 구속 송치했다. 이어 김씨가 ITS 구축 사업 관련 특별조정교부금 배정 과정에서 도의원 다수를 상대로 로비한 정황을 확보, 이들을 차례로 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;앞서 박세원(화성3)·이기환(안산6)·정승현(안산4) 도의원은 김씨로부터 수천만원~2억8000만원의 금품을 챙긴 혐의로 구속 송치됐으며, 최만식(성남2) 도의원과 김홍성 전 화성시의회 의장은 불구속 송치됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “추가 입건된 인물들에 대한 수사는 초기 단계로 구체적인 내용을 확인해 줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“최소 5% 이자 거뜬히” 투자 수익 보장한다며 5억 뜯어간 40대 男 징역형</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/RMDF6YPQ4FE3FK4JZZBHF73AFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/RMDF6YPQ4FE3FK4JZZBHF73AFI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 00:58:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UIM4WAKO5IQEMJV5IAC6CVAAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 개발한 게임에 투자하면 최소 5%의 이자를 보장하겠다며 피해자들로부터 5억여 원을 가로챈 40대 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김성은 판사는 사기와 재물손괴 혐의로 기소된 백모(42)씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;무직 상태였던 백씨는 2020년 서울 양천구의 한 운동장에서 피해자 임모씨를 만나 “내가 게임 프로그램을 개발했는데 돈을 빌려주면 최소 5%의 이자율을 보장하겠다”고 했다. 그러나 실제로는 아무런 게임 개발도 진행하지 않았고, 돈을 받으면 도박 등 개인 용도로 쓸 계획이었다. 임씨는 이에 속아 넘어가 총 4억4760만원을 건넸다.&lt;br&gt;&lt;br&gt;백씨는 이듬해 4월에도 같은 수법으로 또 다른 피해자 김모씨에게 접근해 9200만원을 받아냈다.&lt;br&gt;&lt;br&gt;그는 동거하던 연인에게 거짓말을 해 돈을 받아내기도 했다. 2021년 10월쯤 연인 박모씨에게 “내가 운영하던 광고회사를 폐업하면서 발생한 4억원 변제가 필요하다. 돈을 빌려주면 두 배로 갚겠다”고 속여 총 5200만원을 받아 챙겼다. 이후 박씨가 경찰에 신고하자, 피해자의 집 유리창을 깨뜨리는 등 보복성 범행도 저질렀다.&lt;br&gt;&lt;br&gt;김 판사는 “사기 범행의 피해액이 상당히 크고, 범행 후 3~4년이 지나도록 피해 회복 노력을 하지 않았다”며 “다만 범행을 인정하고 반성하는 태도를 보이는 점, 피해자 임씨·김씨와 원만히 합의한 점을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴대전화 통째로 포렌식해 포착한 별건 혐의… 대법 “위법 수사”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/OWYNTFTEM5FPVL5TXIXL25D7UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/OWYNTFTEM5FPVL5TXIXL25D7UQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 00:42:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사기관이 참고인 휴대전화를 통째로 포렌식(디지털 증거 추출)한 뒤 별건(別件) 범죄 단서를 포착해 수사에 착수한 것은 위법하다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 군기누설 등 혐의로 기소된 예비역 중령 A씨에게 징역형 집행유예를 선고한 원심을 깨고 사건을 지난달 서울고법으로 돌려보냈다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 공군 법무관이던 2018년 전역을 앞두고 민간 취업을 위해 군사기밀과 공무상 비밀이 포함된 문건을 작성해 외부로 유출한 혐의로 기소됐다. 직무상 비밀이 포함된 문건을 법무부 통일법무과 검사에게 전달하고, 군사상 기밀인 관급 공사 내용이 들어간 ‘국방분야 사업 계획서’를 작성해 대형 로펌 변호사에게 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨의 이런 혐의는 이른바 ‘기무사 계엄령 문건’ 사건 수사 과정에서 드러났다. 2018년 8월 특별수사단은 참고인 신분이던 A씨의 휴대전화 정보를 통째로 복제한 뒤 엑셀 파일로 추출했고 군검찰이 이를 분석하다가 계엄령 사건과 무관한 군사기밀 유출 혐의를 포착한 것이다. 군 검찰은 새 영장을 발부받아 수사한 뒤 A씨을 재판에 넘겼다.&lt;br&gt;&lt;br&gt;재판에서는 첫 압수수색 당시 휴대전화 정보를 일괄 추출한 것이 위법한 수사인지가 쟁점이 됐다. 수사기관이 영장에 적시된 혐의와 관련이 있는지 구분하지 않고 휴대전화 정보 등을 복제하는 것은 영장주의 원칙에 반하는 위법한 압수라는 것이 대법원 결정례다.&lt;br&gt;&lt;br&gt;1·2심은 적법한 수사로 보고 A씨에게 징역 8개월에 집행유예 1년을 선고했다. 2심 군사법원 재판부는 “특수단 수사관이 처음 휴대전화 정보를 복사해 엑셀 파일로 출력한 것은 영장 혐의와 관련된 전자정보를 선별하기 위한 사전준비 절차로 볼 수 있다”며 “관계없는 정보까지 무분별하게 탐색됐다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “혐의 사실 관련성을 구분하지 않고 임의로 전자정보를 출력·복제한 것은 영장주의와 적법절차 원칙에 반하는 위법한 압수”라며 “위법한 압수로 얻은 정보는 증거능력을 인정할 수 없다”고 판단했다. &lt;br&gt;&lt;br&gt;대법원은 “휴대전화에는 사생활에 관한 방대한 정보가 집적돼있어 무제한적 압수·수색이 이뤄질 경우 기본권 침해 정도가 심각할 수 있다”며 “A씨는 최초 사건의 피의자도 아니었는데, 이 경우 압수수색영장에 기재된 혐의와 관련된 범위 내로 탐색·추출 대상을 제한하는 조치를 취했어야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>허위 신고 들키자 형 행세한 50대 남성, 1심서 징역 6개월</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/19/NU275RB5J5GDVL3AEKWDJ36FWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/NU275RB5J5GDVL3AEKWDJ36FWI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 00:24:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYSBV3GBJFEZEGZXXGHIXFV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허위 신고 조사를 위해 신분 확인을 요청하는 경찰에 친형의 인적 사항을 댄 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사7단독 조아람 판사는 주민등록법 위반, 사서명위조 등 혐의로 기소된 50대 남성 정모씨에게 지난 5일 징역 6개월을 선고했다고 19일 알려졌다. 정씨는 지난 1월 경찰에 “음주운전이 의심되는 차량이 있다”는 허위 신고를 했다. 이에 신분 확인을 요청하는 경찰에게 정씨는 자신의 형 주민번호를 말했다. 또 즉결심판 청구서에 서명을 요구받자 형 행세를 했다고 조사됐다. &lt;br&gt;&lt;br&gt;정씨는 공무집행방해 혐의로 집행유예를 선고받은 전력이 있는데, 당시 유예 기간이 끝나지 않았던 것으로 드러났다. 재판부는 “피고인이 이 사건 범행을 인정하고 있다”면서도 “집행유예 기간 중 재범한 점, 허위의 112 신고로 즉결심판이 청구되자 불만을 품고 공무집행을 방해한 점 등을 고려해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 초등학교 지하서 불...1000여 명 대피</title>
+      <link>https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 00:00:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CZULRVW5H56OMLE476YOMW754.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 서울 강남구의 한 초등학교에서 불이 나 학생과 교직원이 긴급 대피한 사실이 19일 알려졌다.&lt;br&gt;&lt;br&gt;소방 등에 따르면, 18일 낮 12시 19분쯤 서울 강남구 자곡동의 한 초등학교 지하 전기실에서 불이 나 학생과 교직원 등 1000여 명이 대피했다. 화재로 인한 인명 피해는 없었다. 학교 관계자의 신고를 받고 출동한 소방은 화재 발생 약 30분 만인 12시 47분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방은 전기실에 있던 태양광 장치에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>트리플 태풍 발생, 한반도 영향은? “주말에 우산 챙기세요”</title>
       <link>https://www.chosun.com/national/transport-environment/2025/09/19/2BXVTKELGNFIJL37RPV6FY3EBY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/19/2BXVTKELGNFIJL37RPV6FY3EBY/</guid>
@@ -769,15 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYSBV3GBJFEZEGZXXGHIXFV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자금 관리책으로 회사를 옮겨 다니며 5억원이 넘는 회삿돈을 빼돌린 직원이 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사5단독 양진호 판사는 업무상 횡령, 사전자기록 등 위작, 사문서 위조 등 혐의로 기소된 30대 여성 정모씨에게 징역 2년에 집행유예 5년을 지난 2일 선고했다.&lt;br&gt;&lt;br&gt;정씨는 2018년 7월부터 지난해 5월까지 다닌 회사 2곳에서 회계 관리, 자금 이체 업무를 맡으며 횡령한 돈을 자신의 생활비 등에 사용한 혐의를 받는다.&lt;br&gt;&lt;br&gt;정씨는 2018년 7월 11일부터 2020년 5월 31일까지 재직한 A사에서 운영자금이 들어있는 계좌의 관리자용 OTP(일회용 비밀번호 생성기)를 이용해 자신의 계좌로 총 46회에 걸쳐 2억668만원을 송금했다. 또 2020년 12월 이직한 B사에서도 회계팀장으로 일하며 관리자용 인증서와 OTP를 이용해 총 29회에 걸쳐 3억2704만원을 빼돌린 뒤 사적으로 썼다. &lt;br&gt;&lt;br&gt;횡령 사실을 감추기 위한 범행도 이어졌다. 정씨는 전산회계시스템에 접속해 거래처로부터 부자재를 공급받았다며 허위 전표를 24차례 작성한 것으로 조사됐다. 2023년 기말 회계 감사를 받는 과정에서 대표이사와 과장, 주임 등의 서명을 붙여 지출결의서를 위조하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “피해 규모와 범행 방법, 범행 기간 등에 비춰 죄질이 대단히 좋지 않고 재범의 위험성이 높다”면서도 “피고인이 범행을 모두 자백하고 있고 형사처벌을 받은 전력이 없으며 피해자들에게 피해금 상당 부분을 변제했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검, 정진석 前 대통령 비서실장 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/18/DIELOIYS7FFH3CRD2HJM2JBZ7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/DIELOIYS7FFH3CRD2HJM2JBZ7Q/</guid>
-      <dc:creator>유종헌 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 01:05:00 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 관련 내란·외환 의혹을 수사 중인 조은석 특별검사팀이 18일 정진석 전 대통령 비서실장을 소환해 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IINN2OJF64O7YUENTA6IM3I4PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진석 전 대통령실 비서실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 전 실장은 이날 오전 10시 내란 특검 사무실이 마련된 서울고검 청사에 참고인 신분으로 출석해 조사받고 있다. 내란 특검이 정 전 실장을 조사하는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;정 전 실장은 12·3 비상계엄 당시 대통령실에서 윤석열 전 대통령과 소통한 인물이다. 정 전 실장은 국회의 비상계엄 해제 요구안 가결 뒤 신원식 전 국가안보실장과 함께 합동참모본부 전투통제실에 있던 윤 전 대통령을 찾아가 만나기도 했다.&lt;br&gt;&lt;br&gt;정 전 실장은 계엄 종료 이후 대통령실 공용 PC에 저장된 기록 및 공용 서류를 일괄 폐기 또는 파쇄하도록 지시했다는 의혹도 받는다. 정 전 실장은 시민단체로부터 고발당한 상태다. 다만 이날 조사에선 관련 의혹에 대한 질답은 이뤄지지 않는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 이춘석 차명거래 의혹 의원실 추가 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2025/09/18/3XRG5XH22NDUPCP7JBFI3TKY64/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/3XRG5XH22NDUPCP7JBFI3TKY64/</guid>
@@ -787,15 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G32PVYOASAMKEG4H6TOCOLVNNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주식 차명거래 의혹이 제기된 이춘석 무소속 의원이 지난 15일 새벽 서울 마포구 서울경찰청 금융범죄수사대에서 조사를 마친 뒤 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이춘석(4선·전북 익산갑) 무소속 의원의 주식 차명거래 혐의를 수사하는 경찰이 18일 서울 여의도 국회 의원회관의 이 의원 사무실 등을 대상으로 강제 수사 중이다. 이 의원의 의원실 압수수색은 지난달 11일에 이어 두 번째다.&lt;br&gt;&lt;br&gt;서울경찰청 금융범죄수사대는 이날 오전 이 의원의 의원실 등을 압수수색해 자료를 확보 중이라고 밝혔다. 경찰은 주식 투자에 사용된 자금 출처 관련 자료를 추가로 확보하기 위해 2차 압수수색에 나선 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난달 이 의원의 전북 익산갑 지역 사무실과 익산 자택, 여의도 국회사무처을 압수수색했다. 국회 의원회관의 이 의원 사무실은 지난달 11일에 이어 두 번째 압수수색이다. &lt;br&gt;&lt;br&gt;이 의원은 지난달 국회 본회의장에서 보좌관 차모씨의 명의로 네이버와 LG CNS 등 인공지능(AI) 관련주를 거래하는 모습이 포착됐다. 이후 경찰은 이 의원과 차씨를 금융실명법 및 자본시장법 위반 등 혐의로 입건해 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰은 이 의원이 3년 넘게 차씨의 명의 계좌를 이용해 10억원이 넘는 투자금으로 주식 거래를 해온 정황을 포착하고 자금 출처를 수사 중이다. 이 의원이 최근 4년간 공직자윤리위원회에 신고한 재산은 4억2000만~4억7000만원 정도다.&lt;br&gt;&lt;br&gt;이 의원은 최근 소환 조사에서 “정치자금이 아니라 출판기념회와 경조사비 등으로 조달한 개인 자금”이라고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 태종대 앞바다서 낚시객 추정 60대 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2025/09/18/BE2CYKEAQVEU3LWRSDISAK5YHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/18/BE2CYKEAQVEU3LWRSDISAK5YHU/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 02:03:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRXJSKG625E37KA7DPLMUP3CWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰서 전경. /부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 태종대 인근 바다에서 낚시 조끼를 입은 남성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;18일 부산해경에 따르면 이날 오전 7시 26분쯤 부산 영도구 태종대 유람선 선착장 인근 바다에 사람이 떠 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 같은 날 오전 7시 57분쯤 낚시 조끼를 입은 채 숨져 있는 60대 남성 A씨를 발견해 수습했다.&lt;br&gt;&lt;br&gt;해경 관계자는 ”당시 A씨는 머리 쪽에 외상이 있었다“며 “실족에 의한 사고로 보이지만 다양한 가능성을 열어 놓고 정확한 사고 경위를 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 김건희 특검, 국민의힘 당사 압수수색 재시도</title>
       <link>https://www.chosun.com/national/court_law/2025/09/18/PFUDNJYUTNA5ZMCLNXAI3ZF3HU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/PFUDNJYUTNA5ZMCLNXAI3ZF3HU/</guid>
@@ -803,24 +951,6 @@
       <description/>
       <pubDate>Thu, 18 Sep 2025 01:33:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGS6PLD2ORLT7BQJPZGHLHNSSE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;송언석 국민의힘 비상대책위원장 겸 원내대표를 비롯한 의원들이 8월 18일 오후 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실 앞에서 현장 비상의원총회 및 야당탄압 정치보복 압수수색 항의방문을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 18일 오전 국민의힘 중앙당사에 대한 압수 수색을 재시도하고 있다. 특검은 지난달에도 압수 수색을 시도했지만 국민의힘 측의 반발로 무산된 바 있다.&lt;br&gt;&lt;br&gt;이번 압수 수색은 통일교 교인들의 국민의힘 당원 가입 의혹 등을 살펴보기 위해서다. 특검이 전날 한학자 통일교 총재를 조사하고 하루 만이다. 특검이 압수 수색에 나서자 송언석 국민의힘 원내대표는 동료 의원들에게 “특검이 압수 수색을 시도하고 있다. 당원 명부 수호를 위해 국회 경내에 계신 의원님들께서는 속히 전원 중앙당사 1층으로 모여주시길 요청드린다”고 공지했다.&lt;br&gt;&lt;br&gt;국민의힘에 대한 압수 수색 시도는 이번이 세 번째다. 특검은 지난달 13일 첫 압수 수색을 시도했지만 국민의힘 측이 저항하며 실패했다. 같은달 18일 특검이 국민의힘 측에 수사관을 보내 압수 수색 협조를 요청하고 나섰지만 이 역시 반발하며 무산됐다. 이후 압수 수색 영장 기한이 만료되며 특검은 영장을 재청구 받아 이날 압수 수색에 착수했다.&lt;br&gt;&lt;br&gt;이번 압수 수색은 2023년 3월 치러진 국민의힘 당대표 선거를 앞둔 2022년 12월 ‘건진 법사’ 전성배씨와 전 통일교 세계본부장 윤영호씨가 권성동 의원을 당대표로 밀기 위해 통일교 교인들을 당원으로 가입시키려 했다는 의혹을 확인하기 위해서다. 윤씨는 당시 전씨에게 “윤심은 정확히 무엇입니까, 전당대회에 어느 정도 규모로 필요한가요”라는 문자메시지를 보냈는데 전씨는 “윤심은 변함없이 권”이라고 답한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 특검은 국민의힘에 가입한 통일교 신도 명단과, 같은 시기 당에 가입한 당원 명부를 대조해 봐야 한다는 입장이다. 그러나 국민의힘은 당원 명부를 넘길 수 없다며 맞서는 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한강 다리 중 가장 막히는 곳은 ‘한남대교’ 2위는 ‘성산대교’</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/18/JWOSNOZLUZDIZOCQQLRNCMXXNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/18/JWOSNOZLUZDIZOCQQLRNCMXXNY/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 01:36:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDRGKRVYI5BXJJLYDCLKYZGS7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도로와 다리가 수많은 자동차로 꽉 막힌 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한강 다리 중 한남대교가 가장 막히는 것으로 조사됐다. 한남대교는 경부고속도로와 연결되고, 한남동·이태원(용산구), 남산1호터널(중구)과 강남구를 잇는다. 통행량이 가장 적은 곳은 여의도(영등포구)에 있는 서강대교다.&lt;br&gt;&lt;br&gt;서울시가 국회 국토교통위원회 소속 손명수 더불어민주당 의원실에 제출한 자료에 따르면, 한강 다리 중 한남대교의 올해 평일 통행량이 가장 많은 것으로 나타났다. 한남대교의 평일 기준 일 평균 통행량은 19만2197대다. 한강 북쪽에서 남쪽으로 향하는 ‘남향’과 그 반대인 ‘북향’이 각각 10만255대, 9만1942대를 차지했다.&lt;br&gt;&lt;br&gt;남향 기준으로는 한남대교에 이어 성산대교의 통행량이 하루 평균 7만549대로 많았다. 이어 성수대교, 영동대교, 청담대교, 양화대교, 마포대교 순이었다.&lt;br&gt;&lt;br&gt;북향의 경우에도 성산대교의 통행량(6만8890대)이 둘째로 많았다. 성수대교, 마포대교, 양화대교 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;양방향을 합치면 한남대교, 성산대교, 성수대교, 영동대교, 청담대교 등 순으로 나타났다. 강남구에 연결된 한강 다리에 통행량이 집중된 것이다.&lt;br&gt;&lt;br&gt;주말 통행량이 가장 많은 곳도 한남대교로 나타났다. 한남대교의 주말 통행량은 남향 8만6945대, 북향 8만2644대 등 하루 평균 16만9588대로 집계됐다.&lt;br&gt;&lt;br&gt;주말 기준 남향 통행량은 한남대교에 이어 성산대교(6만3747대), 성수대교, 영동대교, 양화대교, 청담대교, 가양대교 등 순이었다. 북향은 한남대교에 이어 성산대교(6만5407대), 성수대교, 양화대교, 청담대교 등 순이었다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, ‘변호인 스마트접견’ 도입... 서울구치소서 6개월간 시범 운영</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/18/Y4A5HFRX6VBXZGGU4GV33PLX7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/Y4A5HFRX6VBXZGGU4GV33PLX7U/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 01:23:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKCGZJL2NBJDYGF2J3K65G5J3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 오는 10월 13일부터 내년 4월 12일까지 6개월간 서울구치소에서 ‘변호인 스마트접견’을 시범 운영한다고 밝혔다. &lt;br&gt;&lt;br&gt;스마트접견은 변호인이 구치소와 교도소 등 교정시설을 직접 방문하지 않고 휴대전화나 노트북 등을 이용해 온라인으로 수용자를 접견하는 것이다. 법무부는 시범 운영 기간 동안 데이터 전송량, 시스템 안정성, 인력과 시설 여건, 보안성(공개된 장소에서의 접견 등) 등을 면밀히 분석한 후 스마트접견 제도의 단계적 확대 실시를 검토할 예정이다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “이번 제도 도입으로 수용자는 소송 서류 작성이나 재판 준비 과정에서 신속하게 변호인의 도움을 받을 수 있을 것”이라며 “변호인 역시 이동과 대기 시간을 줄여 보다 효율적으로 법률 조력을 제공할 수 있을 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>밥 먹는 테이블에 맨발 올려놓고 취침…다낭 공항서 나라 망신</title>
@@ -834,135 +964,6 @@
         <media:description type="plain">베트남 다낭 국제공항 라운지에서 한국인으로 추정되는 인물이 테이블에 발을 올려놓고 누워있다. /보배드림</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>대기번호 100만… KTX 추석 예매 ‘먹통 사태’</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/18/U6RWHLYJWRECNERFTRTUP27KTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/18/U6RWHLYJWRECNERFTRTUP27KTY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>“출근 시간까지 바꾸면서 아침 일찍 대기했는데, 허무하네요.”&lt;br&gt;&lt;br&gt;추석 연휴 기간 일반인 대상 KTX 승차권 예매가 시작된 17일, 코레일 공식 예매 사이트 접속이 3시간가량 제대로 안 되는 상황이 벌어졌다. 오전 7시 시작하는 예매에 성공하기 위해 아침 일찍부터 대기하던 시민들은 사이트 접속 자체가 되지 않아 분통을 터트렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5US3U2TQVATVESRCQY7IRKJ6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 열차의 일반 승차권 예매가 시작된 17일 오전 7시 40분 코레일 예매 사이트에 대기 순서가 104만3741번째라는 문구가 떠있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전에서 부산 가는 KTX 표를 예매하려던 김모(48)씨는 7시 정각부터 사이트 접속을 시도했지만 제대로 안 돼 예매를 결국 포기했다. 김씨는 “오전에 겨우 접속했는데 대기 번호가 49만2063번이었고, 오전 11시 30분까지 대기했는데도 차례가 안 오더라”면서 “매년 예약이 힘들었지만, 올해는 너무 심하다”고 했다. 이날 100만번대 이상 대기 번호를 받았다는 이들도 많았다.&lt;br&gt;&lt;br&gt;코레일 측은 “평소 연휴 때보다 수요가 2배가량 늘어 서버 과부하로 장애가 발생한 것으로 추정된다”며 “추석 연휴가 최대 10일로 길다 보니 더 많은 사람이 기차 예매에 나선 것 같다”고 말했다. 실제 작년 추석 첫날에는 63만9000석이 예매됐는데, 올해는 126만3000석이 예매된 것으로 나타났다. 코레일은 오후 1시 마감 예정이던 이날 예약을 4시까지로 3시간 늘렸다.&lt;br&gt;&lt;br&gt;하지만 명절 때마다 KTX 예약에는 사람이 몰렸고 수요를 예측할 시간도 충분했던 만큼 코레일이 제대로 대비하지 않은 탓이라는 지적도 나온다. 현재 코레일은 자체 서버로 예매 시스템을 운영하는데, 명절마다 트래픽을 감당하기 어려워 접속 장애가 벌어지니 외부 서버를 이용하는 ’클라우드’ 기반으로 바꿔야 한다는 지적을 받았다. 코레일에선 지난 2017년과 2022년 추석에도 예매 승객이 몰려 사이트 접속 자체가 불가능한 사고가 벌어졌다.&lt;br&gt;&lt;br&gt;SRT를 운영하는 SR의 경우 지난 7월 예매 시스템을 클라우드로 전환했다. 지난 8~11일 예매를 진행한 SRT는 접속 장애 등 사고 없이 예매가 진행됐다. SR 측은 “클라우드 전환 후 첫 명절인데, 접속 장애 관련 민원이 크게 줄었다”면서 “체감할 수 있게 서비스 개선이 이뤄졌다”고 말했다. &lt;br&gt;&lt;br&gt;코레일은 최근 사상자 7명을 낸 ‘청도 무궁화호 열차 사고’의 여파로 올 추석 때 예년만큼 열차 편수를 늘리지 못했다. 경전선은 오히려 운행 열차가 줄었다. 사고 구간 인근의 선로 작업을 모두 중지해서 열차 운행에 필수적인 선로와 전기 시설물 점검을 못 하고 있기 때문이다. 시민 입장에선 가뜩이나 좌석이 줄어 표 구하기 어려운데 예약 마비 사태까지 발생한 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>승합車에 불법 기지국 장비 싣고 다니며, KT 휴대폰 해킹했다</title>
-      <link>https://www.chosun.com/national/incident/2025/09/18/RBCEPM4AVVESPCUX7M4STGPQLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/18/RBCEPM4AVVESPCUX7M4STGPQLE/</guid>
-      <dc:creator>수원=김현수 기자, 수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RE4EEYMLMJGTNOKNC77A2SLBEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광명 등 수도권 서남부 지역에서 발생한 ‘KT 소액 결제 해킹 사건’의 용의자 2명이 경찰에 붙잡혔다. 이들은 40대 중국인이었다. 경찰은 이들이 KT의 ‘초소형 기지국(펨토셀)’ 장비를 차량에 싣고 다니며 휴대전화를 해킹한 정황을 확인했다. 펨토셀은 빌딩 사무실 등 휴대전화가 잘 터지지 않는 곳에 설치하는 통신 장비다. 국내에서 펨토셀을 이용해 해킹을 벌이다 적발된 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사대는 지난 16일 오후 2시 3분쯤 인천국제공항에서 용의자 A(48)씨를 검거했다고 17일 밝혔다. 같은 날 오후 2시 53분쯤에는 공범 B(44)씨를 서울 영등포에서 체포했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHAEJFQBEZCZDEERBJ5R4NTBVA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 초소형 기지국 장비로 휴대전화를 해킹해 피해자들의 개인 정보를 빼낸 혐의를 받는다. 경찰은 A씨가 빼돌린 개인 정보를 이용해 모바일 상품권을 구입하거나 교통카드를 충전하는 등 소액 결제를 한 것으로 보고 있다. B씨는 A씨가 구입한 모바일 상품권 등을 현금으로 바꾼 혐의를 받는다. &lt;br&gt;&lt;br&gt;이들은 중국 국적을 가진 ‘조선족’으로 국내에서 일용직 근로자 등으로 일한 것으로 파악됐다. 불법체류자는 아닌 것으로 조사됐다. IT(정보통신) 업종에 근무했는지는 확인되지 않았다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMXFNI3EAZFPXFOF6ZXTE7HAXQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 범행 직후 중국으로 출국했다가 다시 입국하는 과정에서 검거됐다. B씨는 현금화한 모바일 상품권을 추적해 붙잡았다고 한다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “범행 때 초소형 기지국 장비를 승합차에 싣고 피해 발생 지역을 다녔다”고 진술했다. 경찰은 A씨가 범행에 사용한 초소형 기지국 장비도 확보해 감식 중이라고 밝혔다. 경찰 관계자는 “감식을 통해 장비의 출처와 해킹 방법 등을 규명할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;KT 소액 결제 해킹 사건은 지난 8월 27일 경기 광명시, 서울 금천구에서 처음 불거졌다. 이후 9월 초 경기 부천·과천, 서울 영등포구, 인천 부평 등으로 확산했다. 자기도 모르는 사이에 휴대전화에서 수십만 원이 빠져나갔다는 신고가 잇따랐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 지난 15일 기준 경찰에 접수된 피해는 총 199건, 피해액은 1억2600만원으로 집계됐다. 과학기술정보통신부와 KT는 지난 10일 피해 사례가 278건, 피해액은 1억7000만원이 넘는다고 발표했다. &lt;br&gt;&lt;br&gt;KT는 지난 11일 “피해자들의 통신 기록을 분석한 결과 불법 초소형 기지국을 통해 이용자 개인 정보가 유출됐을 가능성이 있다”고 밝혔다. 당시 KT는 “불법 초소형 기지국 2개를 확인했으며 이 기지국 신호를 수신한 기록이 있는 휴대전화 이용자는 1만9000명으로 파악된다”고 했다. 실제 피해는 경찰에 접수된 것보다 더 클 수 있다는 것이다. &lt;br&gt;&lt;br&gt;펨토셀은 통신사가 직접 관리하는 기지국과 달리 수가 많고 크기가 작아 관리 사각지대에 놓여 있다는 지적을 받아왔다. 철거할 때 ID(아이디)를 삭제하고 폐기해야 하지만 방치되는 경우가 많다는 것이다.&lt;br&gt;&lt;br&gt;해킹 전문가들은 “이 장비를 불법 개조하면 휴대전화가 KT 기지국으로 인식해 접속한다”며 “반경 20~30m 안에 있는 KT 휴대전화의 통신 내역과 결제 인증 번호 등을 빼낼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 어떻게 불법 펨토셀을 확보했는지, 소액 결제 과정에서 어떤 방식으로 본인 인증 절차를 무력화했는지 등을 조사하고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 B씨가 서로 모르는 사이라고 진술했다”며 “국내나 해외에 배후 조직이 있을 가능성을 염두에 두고 수사를 확대할 계획”이라고 했다. KT 측은 “경찰 수사에 적극 협조해 사건이 조속히 규명될 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재, 9시간 30분 조사받고 귀가</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/18/ZLGCNXUZ3JAAJLYRLQFWOJGY5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/ZLGCNXUZ3JAAJLYRLQFWOJGY5Q/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TXRB375LZVAK7AGAXT5SR4KG7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;들어갈 땐 걸어서, 나올 땐 휠체어 - 한학자 통일교 총재가 17일 오후 서울 종로구 민중기 특별검사팀 사무실에서 조사를 받은 뒤 귀가하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한학자 통일교 총재가 17일 민중기 특검팀에 피의자 신분으로 출석했다. 한 총재는 김건희 여사에게 수천만 원짜리 명품을 선물하고, 국민의힘 권성동(구속) 의원에게 불법 정치 자금을 준 혐의를 받는다. 앞서 한 총재는 심장 수술을 이유로 특검의 소환 통보에 세 번 불응했었다. 한 총재는 이날 출석길에 “수술받고 아파서 그랬다”고 했다.&lt;br&gt;&lt;br&gt;특검은 통일교 전 세계본부장 윤영호(구속)씨가 2022년 4~7월 김 여사에게 6220만원짜리 그라프 목걸이, 1000만원 안팎 샤넬 가방 2개를 건네면서 통일교 현안 해결을 청탁한 것이 한 총재 지시라고 의심한다. 특검은 윤씨가 2022년 1월 5일 권 의원에게 1억원을 건넨 혐의, 통일교가 국민의힘 측에 2억1000만원을 후원한 혐의와 관련해 한 총재 지시 가능성을 수사 중이다. 한 총재는 9시간 반 동안 조사를 받고 나오면서 ‘김 여사에게 명품을 줬느냐’는 기자 질문에 “내가 왜 그래야 하는데...”라며 혐의를 부인했다.&lt;br&gt;&lt;br&gt;이런 가운데 김상민 전 검사가 이날 서울중앙지법에서 3시간 동안 구속영장 실질심사를 받았다. 김 전 검사는 1억4000만원을 주고 산 이우환 화백의 그림 1점을 2023년 2월 초 김 여사에게 선물하고, 작년 총선 출마를 준비하며 지인 김모씨에게 차량 대여비 4000여 만원을 받은 혐의(정치자금법 위반)를 받는다. 특검은 김 전 검사가 그림을 대가로 이듬해 4월 총선에서 국민의힘 공천을 받을 수 있게 해달라고 도움을 요청했거나 공직 임용을 청탁했는지 수사 중이다. 김 전 검사는 김 여사 친오빠의 부탁을 받고 그림 거래를 중개했을 뿐이란 입장이다.&lt;br&gt;&lt;br&gt;특검은 이날 ‘서울~양평 고속도로’ 설계 용역 업체에 종점 변경을 회유했다는 의혹을 받는 국토교통부 김모 서기관을 구속했다. 법원은 “도망 우려가 있다”며 영장을 발부했다. 다만 김 서기관은 양평고속도로 의혹과 무관한 개인 비리(뇌물수수)로 영장이 청구됐다.&lt;br&gt;&lt;br&gt;한편 해병 특검은 이날 이종섭 전 국방 장관을 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’ 참고인으로 불러 조사했다. 23일엔 ‘순직 해병 수사 외압’ 의혹의 피의자로 이 전 장관을 다시 불러 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>항의받으며 해병 특검에 출석하는 이종섭 前 장관</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/18/WJMD62OPQRBARCOQAZUM5OVCHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/18/WJMD62OPQRBARCOQAZUM5OVCHY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7CHOZY2RBDTNB6NKDYAJPIVPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종섭 전 국방부 장관이 17일 오전 서울 서초구에 있는 순직 해병 특검 사무실에 출석하고 있다. 해병 특검은 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’과 관련한 조사를 하기 위해 이 전 장관을 참고인 신분으로 소환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 판결] “고위직 전관 성공 보수 9억, 고액 아냐” ‘백현동 수사 무마’ 의혹 변호사 2심 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/18/7WI7CMSH3JECPCI3XTNEIXEXIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/7WI7CMSH3JECPCI3XTNEIXEXIY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:54:00 +0000</pubDate>
-      <content:encoded>서울고법 형사6-3부(재판장 이예슬)는 17일 ‘백현동 개발 비리 사건’ 수사 무마를 대가로 1억원을 받은 혐의(변호사법 위반)로 기소된 고검장 출신 임정혁 변호사에 대해 징역 2년에 집행유예 3년을 선고한 1심을 깨고 무죄를 선고했다.&lt;br&gt;&lt;br&gt;임 변호사는 2023년 6월 백현동 개발업자 정바울 아시아디벨로퍼 회장의 검찰 수사 단계에서 변호를 맡았다. 정씨는 이재명 대통령이 성남시장 시절 추진한 백현동 개발 사업과 관련해 횡령·배임 등 혐의로 수사를 받았다. 서울고검장 등을 지낸 임 변호사는 정씨에게 “검찰 인맥을 이용해 구속을 막아주겠다”며 10억원을 요구했고 착수금으로 1억원을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;1심은 “검찰 지휘부를 만나 불구속 수사를 청탁하는 것은 부적절한 사적 접촉”이라며 임 변호사에게 징역 2년에 집행유예 3년, 추징금 1억원을 선고했다. 그러나 2심은 임 변호사가 청탁을 했다고 볼 증거가 부족하다고 봤다. 재판부는 “임 변호사가 고검장 등 요직을 거친 전관 변호사라는 점, 사건의 사회적 주목도가 컸고 검찰의 구속영장 청구가 임박했던 상황 등을 고려하면 구속되지 않는 조건으로 성공 보수 9억원을 약정하고 착수금 1억원을 받은 것을 지나치게 고액이라고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이날 판결에 대해 법조계에서는 “형사 사건 성공 보수 약정은 무효라는 대법원 판례가 있는데도 하급심이 전관 변호사의 성공 보수를 인정한 판결을 내린 것은 부적절해 보인다는 반응이 나왔다. 한 차장검사 출신 변호사는 “대법원 판례의 취지는 선량한 사회 풍속을 위해 형사 사건에서의 성공 보수 약정을 지양하라는 것인데, 하급심이 수억 원대 보수를 통상적이라고 본 것은 취지에 맞지 않는다”고 지적했다. &lt;br&gt;&lt;br&gt;이창현 한국외대 로스쿨 교수는 “이번 사건의 성공 보수가 많은 편으로 보이긴 한다. 논란이 반복되는 만큼 성공 보수를 양성화해 합리적인 기준을 마련할 필요가 있다”고 했다. 또 다른 판사 출신 변호사는 “성공 보수 약정이 민사상 무효일 수는 있어도, 성공 보수를 약속했다는 정황을 범죄라고 단정하기는 어렵다”고 했다. 이번 판결을 내린 재판부는 이 대통령​의 공직선거법 위반 사건 항소심에서도 무죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“언론 징벌적 배상제… ‘입막음 소송’ 이어질 것”</title>
-      <link>https://www.chosun.com/national/people/2025/09/18/4MGKT7VAE5DCJJXLBIYCEICKPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/18/4MGKT7VAE5DCJJXLBIYCEICKPY/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRK5USNHTRA7DEKVO4NFCEZB3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 중구 한국프레스센터에서 열린 ‘어떻게 언론을 지킬 것인가’ 관훈클럽·한국언론학회 공동 기획 세미나에서 주영진(왼쪽부터) SBS 기자, 이종규 한겨레신문 저널리즘책무실장, 이나연 연세대 교수(사회), 정은령 세명대 교수, 서수민 서강대 교수가 토론하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;언론 현업에 종사하고 있는 중견 언론인들과 학계에 몸담고 있는 연구자들이 저널리즘 가치 회복을 위해 머리를 맞댔다. 17일 서울 중구 한국프레스센터에서 ‘어떻게 언론을 지킬 것인가’를 주제로 열린 관훈클럽·한국언론학회 공동 세미나에선 여권에서 추진하는 ‘징벌적 손해배상제’에 대한 우려를 비롯해 상업화된 포털의 폐해와 속보 경쟁, 진영 논리에 빠진 언론의 문제점 등에 대한 지적이 쏟아졌다.&lt;br&gt;&lt;br&gt;‘저널리즘 신뢰 회복: 언론 위기의 본질과 출구’ 세션 첫 발제자로 나선 강지원 한국일보 문화부장은 “징벌적 배상이 가능해지면 정치권의 소송 남발로 권력자들에 대한 의혹 보도가 위축될 것”이라며 “이런 류의 입법은 ‘허위 정보 억제’와 ‘감시 위축 방지’를 동시에 달성해야 한다”고 말했다. 현재 민주당 언론개혁특별위원회가 만든 개정안은 허위·조작 보도에 대해 손해액의 최대 3~5배 수준의 징벌적 손해배상을 도입하는 것이 골자로, 언론사의 ‘고의’가 입증되지 않은 경우에도 중과실만으로 허위 보도의 책임을 물을 수 있게 만든 점 등이 독소 조항으로 지적되고 있다.&lt;br&gt;&lt;br&gt;‘언론 위기’를 주제로 발제한 윤석민 서울대 교수는 “일부 언론의 편향성과 저품질을 빌미로 전체 언론에 대해 부정적 인식을 만들고, 언론이 민주주의 토대가 아니라 걸림돌이라는 인식마저 퍼뜨리고 있다”면서 “정치 권력 주도로 언론을 개혁해야 한다는 것은 권력에 의한 언론 통제와 다를 바 없다”고 말했다. 그는 “정치·경제 권력에 대한 견제와 같은, 언론이 해야 할 일을 제대로 못 하고 있다는 점에서 분명 현재 한국 언론은 위기”라면서 “이는 언론이 엄청난 기술 발전의 시대에 제대로 혁신하지 못했기 때문”이라고 지적했다.&lt;br&gt;&lt;br&gt;이종규 한겨레신문 저널리즘책무실장은 “정치인을 비롯한 권력자들은 의혹을 제기하면 습관적으로 가짜 뉴스 딱지를 붙이지만, 막상 뭐가 허위인지에 대해선 설명이 없다”며 “이 과정에서 언론 신뢰가 떨어지는 악순환이 나온다”고 지적했다. 정우상 조선일보 논설위원은 “정치권력은 예나 지금이나 언론을 귀찮아한다, ‘언론 개혁’이란 이름의 입막음 충동을 경계해야 한다”면서 “이럴 때일수록 산업의 자기 파괴적 경쟁을 멈추고 협력의 토대를 만들어야 한다”고 했다.&lt;br&gt;&lt;br&gt;‘언론을 지키자’는 말이 나올 때까지, 언론은 과연 스스로에게 얼마나 엄격했는지 되묻는 목소리도 나왔다. 정은령 세명대 교수는 “사실 검증(팩트체크)은 단순한 기술이 아니라 숙련과 창의성이 개입된 매우 전문적인 영역인데, 이런 기능이 언론사에서 점점 약화되고 있다”며 “변화한 미디어 환경에서 속보와 수익에 대한 압박이 언론사들의 ‘의견 팔이’와 기계적 중립을 부추긴 것은 아닌지 되돌아 보아야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;‘온라인 뉴스 유통 거버넌스’ 세션에선 포털에 종속된 언론 현실을 개선하기 위한 대안들이 제시됐다. 김경태 MBC 국장은 “공영·준공영 매체를 축으로 한 ‘뉴스공급자협회’ 모델을 만들어 알고리즘을 공개하고 공동 큐레이션을 통해 뉴스 유통의 투명성을 높이면 포털에 맞설 수 있지 않겠냐”고 했다. 김정근 경향신문 미디어전략실장은 “온라인 매출의 45%가 포털에서 나오고 이 중 87%가 네이버에 의존하는 매체들은 네이버에 종속될 수밖에 없는 현실”이라며 “또 다른 네이버식의 포털이 등장할 수 있다”고 우려했다.&lt;br&gt;&lt;br&gt;배진아 언론학회장은 이날 세미나 취지에 대해 “진실과 거짓이 혼재되어 사실 보도의 가치가 흔들리고 플랫폼 중심의 유통 구조 때문에 언론의 독립성이 위기에 처했다”며 “언론을 개혁 대상이 아니라 사회가 지켜야 할 공적 자산으로 보아야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 9월 18일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/18/IYKSZBWTDFGNRJLCH6M247BNMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/18/IYKSZBWTDFGNRJLCH6M247BNMY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GG2DU4BXVRE3LL4KF4LLG44C5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이종섭 첫 특검 조사 11시간만 종료… 李측 “범인 도피는 망상”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/RCHQBU7B3JCGBBCCRCUS3VFLPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/RCHQBU7B3JCGBBCCRCUS3VFLPA/</guid>
-      <dc:creator>방극렬 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 13:37:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKUGN7VYABM5RJGKNAO2UOQ5Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방장관이 17일 오전 서울 서초구 순직 해병 특검 사무실에 참고인 신분으로 조사를 받기 위해 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종섭 전 국방부 장관이 17일 순직 해병 특검에 처음 출석해 11시간 동안 조사를 받고 귀가했다. 이 전 장관 측은 이날 조사가 이뤄진 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’에 대해 “망상”이라며 부인했다.&lt;br&gt;&lt;br&gt;이 전 장관은 이날 오후 9시 10분쯤 특검 조사를 마치고 나오면서 “(의혹에 대해) 충분히 설명드렸다”고 말했다. 이 전 장관은 “범인 도피가 없었다는 입장이느냐”는 취재진 질문에 “거기에 대해 도피라고 생각하세요?”라고 반문하기도 했다. 이 전 장관 측은 “(범인 도피는) 망상이라고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;특검은 이날 이 전 장관을 상대로 작년 3월 호주 대사 임명·출국 과정에 대해 집중 조사했다. 당시 고(故) 채수근 상병 사망 사건으로 고위공직자범죄수사처(공수처)에 입건됐던 이 전 장관을 윤석열 정부가 호주 대사로 임명해 수사를 방해하려 했다는 의혹이다. 이 전 장관은 대사 임명 직후 출국금지돼있던 사실이 알려져 법무부가 급히 이를 해제하기도 했다. 다만 형법상 범인 도피죄는 ‘도피한 자’가 아닌 ‘도피하게 한 자’를 처벌하기 때문에 이 전 장관은 이날 참고인 신분으로 출석했다.&lt;br&gt;&lt;br&gt;앞서 특검은 외교부의 공관장 자격심사 등이 졸속으로 진행됐다는 진술을 확보하고, 법무부 출국금지 해제 과정에서 조태열 전 외교장관, 박성재 전 법무장관, 심우정 전 법무차관 등이 관여한 정황도 포착했다. 특검은 이 전 장관이 대통령실·외교부·법무부 관계자 등과 어떤 논의를 주고받았는지, 범인 도피 시도가 있었는지 캐물었지만, 이 전 장관 측은 특검 조사에서 관련 의혹을 전면 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 이 전 장관은 오는 23일 ‘순직 해병 수사 외압’ 의혹과 관련해서는 피의자로 특검 조사를 받을 예정이다. 해병 특검이 지난 7월 2일 출범한 이후 83일 만이다. 특검 관계자는 “이 전 장관에 대한 피의자 조사는 최소 3차례, 길어지면 5차례 이상도 진행될 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“저수율 20% 회복했다”... 강릉에 70㎜ 단비</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/09/17/BZCG7FUUWZGLZD653OEWE2BUZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/17/BZCG7FUUWZGLZD653OEWE2BUZ4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 12:50:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2UN3H43KXANQ2LALLIBG5DMRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 강원 강릉지역에 많은 비가 내린 지난 13일 오전 우산을 쓴 시민이 마른 저수지에 내리는 단비를 바라보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;끝을 알 수 없는 가뭄에 시달리던 강원 강릉에 단비가 내렸다. 말라가던 오봉저수지 저수율도 20% 선을 회복했다. &lt;br&gt;&lt;br&gt;17일 한국농어촌공사 농촌용수종합정보시스템에 따르면 이날 오후 9시 30분 기준 저수율은 20.4%를 기록했다. 지난달 21일 저수율이 19.9%로 떨어진 지 약 한 달 만에 회복된 것이다. &lt;br&gt;&lt;br&gt;강원지방기상청에 따르면 이날 오봉저수지 영향권에 드는 곳에 내린 비의 양은 닭목재 78.5㎜, 도마 72.5㎜, 오봉지소 60㎜, 왕산 52.5㎜를 기록했다. &lt;br&gt;&lt;br&gt;강릉지역 87%의 생활용수를 공급하는 상수원 오봉저수지의 저수율은 지난 12일 11.6%까지 떨어져 역대 최저치를 기록했다. &lt;br&gt;&lt;br&gt;오봉저수지 저수위도 전날보다 1.6ｍ가량 높아진 102.95ｍ를 기록했다.&lt;br&gt;&lt;br&gt;강원지방기상청은 강릉을 비롯한 영동은 내일(18일) 낮(12∼15시)까지 돌풍과 함께 천둥, 번개를 동반한 비가 이어지는 곳이 있겠다고 예보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘양평고속도로 종점 변경 의혹’ 국토부 서기관 구속…“도망 염려”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/Z5J7LWJXMFFGJPBJAVU2JS2J4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/Z5J7LWJXMFFGJPBJAVU2JS2J4M/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 11:59:47 +0000</pubDate>
-      <content:encoded>서울-양평고속도로 종점을 김건희 여사 일가의 땅이 있는 양평군 강상면으로 바꿨다는 의혹을 받는 국토부 서기관이 17일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RT7TLHDVY53BGFGKHWVZDHVEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부경찰청 반부패·경제범죄수사대가 16일 오전 '양평고속도로 특혜 의혹'과 관련, 세종시 정부세종청사 국토교통부 도로정책과에서 압수수색을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장전담 부장판사는 이날 특정범죄가중처벌법상 뇌물 혐의를 받는 김모 서기관에 대한 영장실질심사를 진행한 뒤 구속영장을 발부했다. 남 부장판사는 “도망할 염려가 있다”고 설명했다.&lt;br&gt;&lt;br&gt;김 서기관은 2022년 국토부가 용역업체들을 통해 양평고속도로 사업에 대한 타당성 조사를 진행할 당시 국토부 도로정책과의 실무자로, 용역업체들에 대안 노선을 검토하라고 지시한 인물이다. &lt;br&gt;&lt;br&gt;다만 김 서기관은 양평고속도로 의혹과 무관한 개인 비리(뇌물 혐의)로 영장이 청구됐고, 이날 구속됐다. 특검은 김 서기관의 자택 등을 두 차례 압수수색하는 과정에서 관련 업체들로부터 3000만원이 넘는 현금을 수수한 정황을 포착했다. &lt;br&gt;&lt;br&gt;특검은 김 서기관이 양평군 강상면으로 종점을 변경하도록 용역업체에 압력을 행사한 혐의(업무상 배임)도 함께 수사 중이다. 특검은 김 서기관이 업체들로부터 뒷돈을 받고 노선 변경에 영향을 끼친 것이 아닌지 의심하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 ‘조태용 직무유기’ 관련 김병기 민주당 원내대표 참고인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/FR3GQF64CVCMTJVT6FSH6A37VE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/FR3GQF64CVCMTJVT6FSH6A37VE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 11:44:16 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령 등의 내란 사건을 수사 중인 조은석 내란특검이 17일 국회를 방문해 더불어민주당 김병기 원내대표를 참고인 신분으로 조사했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y6DPU4MYZ72DRY6XML7ZXQL34Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 원내대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 국회 정보위원회 소속인 김 원내대표를 상대로 조태용 전 국가정보원장이 비상계엄 선포 계획을 미리 알고도 정보위에 보고하지 않은 직무유기 의혹을 집중 조사한 것으로 전해졌다. 국정원법 15조에 따르면, 국정원장은 국가 안전보장에 중대한 영향을 미치는 상황이 발생할 경우 지체 없이 대통령 및 국회 정보위원회에 보고해야 한다.&lt;br&gt;&lt;br&gt;특검팀은 또 작년 12월 6일 홍장원 전 국정원 1차장이 국회 정보위에서 계엄 당시 지시받은 체포조 명단을 폭로한 뒤 조 전 원장이 뒤늦게 정보위 면담 자리에 참석한 경위 등도 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 원내대표는 이날 조사가 끝난 뒤 취재진과 만나 국정원장의 보고 의무와 관련해 “정확한 것이 아니더라도 무슨 일이 있다면 반드시 먼저 보고해야 한다”며 “정보기관에서 국가 변란을 막는 것보다 중요한 게 어디 있느냐”고 했다.&lt;br&gt;&lt;br&gt;그는 이어 국정원이 전화로라도 윤석열 당시 대통령의 계엄 선포 계획을 정보위에 보고하지 않았던 것에 대해 “상식적으로 생각해도 긴급한 보고들은 전화로 다 보고하지 않느냐”며 “유선 보고가 없었다는 건 말도 안 되는 소리”라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘원더걸스’ 선예, 커크 추모 논란에 “한 생명 죽음에 웃어야 하나”</title>
-      <link>https://www.chosun.com/national/people/2025/09/17/OYH7SRJI7RGTRIW563ZNREIM2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/17/OYH7SRJI7RGTRIW563ZNREIM2I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 10:18:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YV24WQDXIZB2BD32IE6DSL5LBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원더걸스 출신 선예. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 원더걸스 출신 선예(본명 민선예‧36)는 17일 도널드 트럼프 미국 대통령의 측근인 찰리 커크의 사망을 애도하는 글을 올렸다가 비판을 받은 것과 관련 “여러분은 한 생명의 죽음에 대해서 웃고 있나”라고 했다. &lt;br&gt;&lt;br&gt;선예는 이날 자신의 소셜미디어를 통해 “(찰리 커크) 아내의 호소가 담긴 영상을 보고, 엄마로 살아가고 있는 같은 한 사람으로서 먹먹한 가슴으로 추모글을 올렸다”며 “그러자 얼굴도 모르는 분들이 제 공간에 와서 저에게 욕을 한다. 여러분 왜 그렇게까지 하시나?”라고 했다. &lt;br&gt;&lt;br&gt;선예는 “한 사람이 죽었다. 그럼 여러분은, 한 생명의 죽음에 대해서 ‘참 잘됐다’라는 마음으로 웃고 계신가?”라며 “제 직업, 엄마, 여자라는 정체성을 떠나 한 인격체로서 한 사람의 비극적인 죽음을 추모했다”고 했다. &lt;br&gt;&lt;br&gt;선예는 “(아이들에게) 지금보다 조금이라도 더 나은 세상을 물려주고 싶은 마음으로 고민하고 살아가고 있다”며 “서로 견해가 다르고, 생각이 다른 부분들이 있지만 서로 다르기에 아름다운 부딪힘 속에서 더 나은 세상으로 갈 수 있다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;그러면서 “저를 정치적 혹은 종교적 이슈로 몰아가지 말라”며 “제 공간에 와서 무례하고 비인격적인 언행은 더 이상 삼가주시길 바란다”고 했다. &lt;br&gt;&lt;br&gt;앞서 선예는 미국 보수 청년 단체 ‘터닝포인트 USA(Turning Point USA)’의 창립자이자 대표인 찰리 커크를 추모하는 게시물을 소셜미디어에 올렸다가 일부 네티즌들로부터 비판을 받았다. 찰리 커크는 지난 10일 미국 유타주의 유타 밸리 대학교에서 연설 도중 괴한의 총격을 받고 사망했다. &lt;br&gt;&lt;br&gt;찰리 커크는 생전 기독교 가치관을 바탕으로 총기 소유권을 지지하고 낙태와 동성애, 트랜스젠더 권리를 비판해 논쟁의 중심에 섰다. &lt;br&gt;&lt;br&gt;이와 관련 국내에선 일부 네티즌들이 그룹 슈퍼주니어 멤버 최시원, 배우 진서연, 최준용 등 찰리 커크 추모글을 올린 유명인들에게 악플 테러를 가했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VETKPUNOZFGOHETCSBRRR2L6IQ.jpg?auth=78e4c68f09aea534d3e0a1de8510859e7b6a82a352e0f57db1e27445311fafc9&amp;smart=true&amp;width=1698&amp;height=1273" type="image/jpeg" height="1273" width="1698">
-        <media:description type="plain">18일 오전 서울 성북구의 한 카페에서 뮤지컬 '루쏘'에 출연하는 배우 선예가 본지와의 인터뷰를 갖고 있다. 2023. 1. 18 / 장련성 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>한학자 통일교 총재, ‘金여사 명품 선물’ 질문에 “내가 왜 그래야 하나”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/17/5Y4Z2QR5NJF6THRXOICSXDJEAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/17/5Y4Z2QR5NJF6THRXOICSXDJEAI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 10:38:24 +0000</pubDate>
-      <content:encoded>김건희 여사에게 8293만원어치 명품을 건네고, 권성동 국민의힘 의원에게 불법 정치자금을 제공한 혐의를 받는 한학자 통일교 총재가 17일 9시간 반가량 진행된 특검 조사를 마치고 돌아갔다.&lt;br&gt;&lt;br&gt;이날 오전 9시 46분쯤 서울 광화문 특검 사무실에 출석한 한 총재는 오전 10시부터 조사에 임했다. 오후 4시 45분쯤 피의자 신문을 마친 뒤 조서 열람을 시작했고, 오후 7시 33분쯤 사무실 1층에 모습을 드러냈다. 한 총재는 이날 오전 출석할 때는 통일교 관계자 부축을 받아 걸어들어갔지만, 귀갓길엔 휠체어를 탔다. 한 총재는 지난 4일 서울아산병원에서 심장 수술을 받고 회복 중인 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJVJG5A4FFOY5CQLUR6Y72RHDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 17일 서울 종로구 KT광화문빌딩에 마련된 민중기 특별검사팀 사무실에서 조사받고 귀가하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대기 중이던 기자들이 ‘권 의원에게 왜 1억원을 전달했느냐’고 묻자, 한 총재는 “내가 왜 그럴 필요가 있습니까”라고 답했다. 이어진 ‘김 여사에게 목걸이와 가방 전달하신 적 없느냐’는 질문엔 “내가 왜 그래야 하는데”라고 답했다. 한 총재는 ‘조사에서 어떻게 해명하셨는지’ 묻는 질문엔 “전체적으로 들어보시라. 내가 어떻게 답했는지”라고 말했다. 통일교 측이 앞서 밝힌 것처럼 혐의를 모두 부인한 것이다. 한 유튜버가 ‘불법 정치자금, 청탁 직접 지시하셨죠’라고 지적하자, 한 총재는 “아니야”라며 강하게 부인하기도 했다.&lt;br&gt;&lt;br&gt;한 총재는 통일교 전 세계본부장 윤영호씨를 통해 김건희 여사에게 6200만원대 그라프 목걸이와 1000만원 안팎 샤넬 가방 2개를, 권성동 국민의힘 의원에게 불법 정치자금 1억원을 건넨 혐의를 받는다. 국민의힘 등에 불법 정치자금 2억1000만원을 제공한 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박형준 부산시장, 정부 동남권투자공사 설립안에 “대통령 공약 파기”</title>
-      <link>https://www.chosun.com/national/regional/2025/09/17/L4HTZBWRJBBS7LVUJZARYXXCKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/17/L4HTZBWRJBBS7LVUJZARYXXCKQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Sep 2025 09:04:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ5F7S5LCQX3SVD7DHT6C5HOSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박형준 부산시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박형준 부산시장이 17일 정부의 동남권투자공사 설립과 관련해 “명백한 대통령 공약 파기”라고 비판했다. &lt;br&gt;&lt;br&gt;동남권투자공사(은행) 설립은 이 대통령의 대선 공약이다. 부산·울산·경남 지역의 산업 경쟁력 회복을 위해 자금을 공급할 정책 금융기관을 만드는 것이 목표다.&lt;br&gt;&lt;br&gt;박 시장은 이날 자신의 사회관계망서비스(SNS)에 올린 글에서 “이재명 정부가 산업은행의 부산 이전을 백지화하고 동남권투자은행도 아닌 투자공사를 설립하기로 한 것은 부산 시민의 여망을 팽개치는 처사”라며 “사탕발림으로 지역 발전의 근원적 해결책을 외면한 결정이다”고 했다. &lt;br&gt;&lt;br&gt;이어 그는 “산은 부산 이전은 노무현 대통령의 지역 균형 발전을 위한 공공기관 이전 정책에 뿌리를 둔 부산의 염원”이라며 “민주당이 추진하던 정책이었고 민주당 지도부가 정략적인 이유로 외면하지 않았다면 진작에 실현됐을 정책”이라고 했다.&lt;br&gt;&lt;br&gt;박 시장은 “이 대통령은 후보 시절 산은 이전 대신 동남투자은행을 공약했지만, 어제 국무회의에서 동남권투자공사를 설립하기로 결정했다”며 “이는 명백한 대통령 공약 파기이자 부산시민을 무시하는 처사”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 투자공사 형태가 되면 안 되는 이유를 조목조목 반박했다.&lt;br&gt;&lt;br&gt;박 시장은 “동남투자공사는 자금 조달 규모와 탄력성에서 산은과 비교가 되지 않고 출자·사채·펀드 조성 등 간접 조달 중심이라 정책자금 지원이 제약되고 민간 자금 유치에도 한계가 뚜렷하다”고 했다.&lt;br&gt;&lt;br&gt;이외에도 기존 금융기관의 기능 중복, 주무 부처 위주의 관리 감독으로 고위험·부실 위험 가능성이 높은 점, 수익 위주의 투자로 지역 기업의 접근성 미흡 등을 근거로 들었다.&lt;br&gt;&lt;br&gt;박 시장은 “이 때문에 과거 한국정책금융공사가 실패했는데도 실패할 가능성이 높은 모델을 고집하는 이유를 모르겠다”며 “산은 이전이 아니라면 그에 버금가는 역할을 할 투자은행이 돼야 한다고 강조했음에도 정부가 이런 결정을 내려 납득할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;그는 “이 대통령이 국가균형발전은 선택이 아닌 운명이라고 한 발언과 산은 부산 이전을 백지화한 데 이어 투자은행도 아닌 투자공사를 설립하겠다는 건 과연 부합하는지 묻지 않을 수 없다”며 “투자공사는 산은 이전과 함께 쓸 수 있는 보조수단일 뿐”이라며 산은 이전을 요구했다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 지난 16일 정부세종청사에서 열린 국무회의에서 동남권투자은행 대신 동남권투자공사를 설립하겠다는 전재수 해양수산부 장관의 설명을 들은 뒤 “그럼 그렇게 하시죠”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
