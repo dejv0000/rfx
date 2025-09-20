@@ -13,6 +13,94 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>400원 짜리 초코파이 훔쳤다가 실직 위기 40대…“변호사비만 1000만원 썼다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/19/JNJAOPZIFZCZFEFY2GVH7ULWIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/JNJAOPZIFZCZFEFY2GVH7ULWIE/</guid>
+      <dc:creator>전주=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 02:00:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4P2ZBTFPZJ4WXAADSVFNK257U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초코파이(기사 내용과 관계 없음)/.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북의 한 물류회사 협력업체 직원 A(41)씨는 지난해 1월 18일 오전 4시 6분쯤 물류회사 사무실 냉장고에서 초코파이 1개와 커스터드 1개를 꺼내 들었다. 이곳에서 보안 업무를 맡고 있던 A씨는 이날 순찰을 돌다 배가 고파 과자를 가져갔다고 한다. &lt;br&gt;&lt;br&gt;이때까지만 해도 A씨는 400원짜리 초코파이와 650원짜리 커스터드 등 1050원어치 과자를 먹은 일로 재판을 받고 직장까지 잃을 위기에 처할 줄은 몰랐다. &lt;br&gt;&lt;br&gt;하지만 물류회사 소장 B씨가 방범카메라(CCTV)를 보고 112에 A씨를 절도죄로 신고하면서 기나긴 법적 다툼이 시작됐다. B씨는 사건 발생 8일 만인 지난해 1월 26일 경찰서에서 피해자 조사를 받았다. 당시 B씨는 CCTV 영상을 제출하면서 “도난품의 회수와 변상을 원하지 않고, A씨에 대한 처벌을 원한다”고 진술했다고 한다. &lt;br&gt;&lt;br&gt;A씨는 지난해 2월 6일 경찰서에서 피의자 신분으로 조사를 받았다. 초코파이 등을 훔칠 의도가 전혀 없었다고 주장했지만, 경찰은 A씨가 사무실 냉장고에서 과자를 가지고 나오는 장면이 찍힌 CCTV를 증거로 들이밀었다. 경찰은 절도 혐의를 적용해 검찰에 사건을 기소 의견으로 넘겼다. &lt;br&gt;&lt;br&gt;A씨는 합의를 하면 기소유예 처분을 받을 수 있다는 변호사 말을 듣고, B씨 등과 합의를 시도했다. 하지만 끝내 합의를 하지는 못했다고 한다. A씨 측 박정교 변호사는 “검찰이 기소유예 처분을 하려면 피해자와 합의가 필수인데, 그게 안 이뤄졌다”며 “회사 측이 왜 합의를 안 해줬는지 의아하다”라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VTZBE5FTU3H5FUCCJUSZZZXU5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전주지검 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결국 검찰은 절도 금액이 적다는 점 등을 이유로 사건을 A씨를 벌금 50만원에 약식 기소했다. 법원은 A씨에게 벌금 5만원의 약식명령을 내렸고, A씨는 이에 불복해 무죄를 다투겠다며 정식 재판을 청구했다. 박정교 변호사는 “유죄를 받으면 회사에서 해고될 수 있기 때문에, A씨는 수사 단계부터 재판까지 변호사를 고용해 무죄를 주장하고 있다”며 “현재까지 사용한 변호사 비용만 1000만원이 넘는 것으로 알고 있다”고 말했다. &lt;br&gt;&lt;br&gt;A씨는 1심 재판에서 “평소 사무실을 드나드는 탁송 기사들로부터 ‘냉장고 간식을 먹어도 된다’는 말을 들었다”며 초코파이를 훔칠 의도가 없었다고 주장했다. 하지만 물류회사 소장 B씨는 “탁송 기사들도 냉장고를 함부로 열지 않고, 물류회사 직원들로부터 허락을 받고 간식을 꺼내간다”고 재판에서 진술했다. A씨가 물류회사 직원들의 허락을 받지 않고 과자를 꺼냈으니 당연히 절도에 해당된다는 주장이다. &lt;br&gt;&lt;br&gt;1심 재판에선 사건이 발생한 사무실에 있는 냉장고 위치도 쟁점이 됐다. 사건이 발생한 사무실은 사무 공간과 탁송 기사 대기 공간이 함께 있다. 두 공간 사이에 별도의 출입문은 없는데, 재판부는 문제의 냉장고가 사무 공간에 있다고 봤다. 탁송 기사는 사무 공간에 들어갈 수 없기 때문에 냉장고 안에 과자를 함부로 먹을 수 없다는 판단이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심을 맡은 전주지법 형사6단독 김현지 판사는 “피고인의 직업과 근무 경력을 고려하면 탁송 기사들에게 물류 회사 사무실 안에 있는 냉장고 속 물품에 대한 처분 권한이 없음을 충분히 알 수 있었을 것으로 보인다”며 벌금 5만원을 선고했다. 김현지 판사는 A씨에게 동종 전과가 있는 점도 참작해 형을 정했다고 한다. &lt;br&gt;&lt;br&gt;현재 A씨는 이 판결에 불복해 항소심이 진행 중이다. 항소심 재판장은 지난 18일 첫 재판을 열면서 “사실 사건을 따지고 보면 400원짜리 초코파이와 650원짜리 커스터드를 가져다 먹었다는 건데…”라며 “각박하게 이렇게까지 해야 하느냐”고 했다. &lt;br&gt;&lt;br&gt;이와 관련해 박정교 변호사는 “사건이 발생한 장소는 누구나 드나들 수 있는 사무실”이라며 “사무실 방범카메라를 봐도 피고인이 사무실에 들어갈 때 망설임이 없었다”고 했다. 이어 “음료수나 과자는 공개된 장소에 있는 물건인데 구태여 일일이 허락받고 먹으라는 게…”라면서 “진짜 과자를 훔치려고 했다면 (과자 상자를) 통째로 들고 가지 초코파이 한 개, 커스터드 한 개 이렇게 갖고 가겠느냐”고 말했다. 이어 그는 “사실 이게 뭐라고…배고프면 과자를 먹으라고 해놓고 절도의 고의가 성립한다는 게 이해가 가지 않는다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34RKHGTF2ZGDVHJEHROPNDPM3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검사 출신 김종민 변호사는 자신의 소셜미디어에 “기소유예로 종결하면 됐을 사안인데 전적으로 검찰의 잘못”이라고 썼다./김종민 변호사 페이스북 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨를 약식 기소한 검찰 처분을 두고 비판의 목소리가 나왔다. 검사 출신 김종민 변호사는 소셜미디어에 “기소유예로 종결하면 됐을 사안인데 전적으로 검찰의 잘못”이라고 썼다. 이에 대해 검찰 관계자는 “일반적인 형사 사건 절차상 혐의가 인정되는 상황에서 피해자가 처벌을 원하고, 피의자가 혐의를 부인하면 기소를 하는 게 원칙이다”라며 “A씨의 경우 동종 전과까지 있기 때문에 기소를 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;A씨의 재판이 알려지면서 오석준 대법관의 ‘800원 판결’도 다시 주목받고 있다. 이 사건은 버스 기사가 운송 수익금 800원을 횡령했다는 이유로 해고당한 사건과 관련해 오 대법관이 대법관이 되기 전 해고가 정당하다고 판결한 사건이다.&lt;br&gt;&lt;br&gt;이 판결은 소액이라도 횡령은 중대한 비위 행위로 판단한 것인데, 사회적 약자에게 너무 가혹한 판결이 아니냐는 비판을 받으며 그의 대법관 인사청문회에서 큰 쟁점이 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QW6QUZPSMJEJ7LYQKTW6BMOFLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오석준 신임 대법관이 지난 2022년 11월 28일 서울 서초구 대법원에서 열린 취임식에서 취임사를 하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건은 지난 2010년 전북 지역의 한 운송회사에서 7년간 일한 버스기사 김모씨가 운송수익금 중 800원을 회사에 납부하지 않았다는 이유로 해고되면서 불거졌다. 김씨는 이를 부당해고라며 소송을 제기했다. &lt;br&gt;&lt;br&gt;당시 서울행정법원 부장판사였던 오 대법관은 이 사건의 재판을 맡아 회사의 해고가 정당하다고 판결했다. 그는 “회사는 승객들이 내는 요금 외에 별다른 수익금이 없으므로, 기사가 수익금을 전액 납부하리라는 신뢰가 기본이 된다”며 “해당 회사의 단체협약에는 ‘회사의 재산을 횡령했을 때는 해고한다’는 규정이 있고 이를 근거로 횡령 금액의 많고 적음을 떠나 해고는 정당한 징계”라고 판단했다.&lt;br&gt;&lt;br&gt;이 판결은 2022년 오 대법관의 국회 인사청문회에서 다시 조명되며 논란을 낳았다. 당시 더불어민주당 의원들은 “비정한 판결”이라고 비판했다. 오 대법관은 인사청문회에서 이 판결에 대해 “저의 판결로 버스기사가 어려움을 겪고 있을 수도 있다는 생각에 마음이 무겁다. 살피지 못한 점이 있었다”고 밝혔다. 초코파이 절도 사건과 800원 절도 사건, 법과 인정(人情) 사이에서 판단이 쉽지 않은 문제들이지만 모든 걸 법으로 해결해야 하느냐는 질문을 던지는 사건들이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ETFESHLRIZHJRCD75CMHOURK4M.gif?auth=e1b23d86d3ec20b7c9405e57c133c925edc5f81e6df0c56c2f76e4f40c85c420&amp;smart=true&amp;width=800&amp;height=450" type="image/jpeg" height="450" width="800">
+        <media:description type="plain">초코파이 그래픽 gif</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘한강버스’ 운항 이틀만에 팔당댐 방류 증가로 임시 중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/3RG7LNGYJ5DGLPDELZS4L5VNXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/3RG7LNGYJ5DGLPDELZS4L5VNXQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 02:34:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3UPDP5UJVGR3NDBX35FHGIHP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강버스 정식 운항을 하루 앞둔 17일 서울 여의도 한강시민공원 한강버스 정류장에 한강버스가 폭우로 계류돼 있다./고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 한강의 새로운 교통수단인 ‘한강버스’가 정식 운항 이틀 만에 집중호우로 인한 팔당댐 방류 증가의 영향으로 임시 중단됐다.&lt;br&gt;&lt;br&gt;서울시는 서울·경기 지역 집중호우로 인한 팔당댐 방류 증가로 20일 한강버스 운항을 임시 중단한다고 밝혔다. 한강홍수통제소는 이날 오전 6시 10분 초당 3300t의 팔당댐 방류를 승인했다.&lt;br&gt;&lt;br&gt;서울시 ‘2025 풍수해 대비 재난안전대책 행동안내서’ 단계별 대응 기준에 따르면 팔당댐 방류량이 3000톤/초 이상일 경우 한강 내 모든 선박(동력 및 무동력)의 운항이 통제된다.&lt;br&gt;&lt;br&gt;오는 21일 운항은 팔당댐 방류량 감소 상황과 한강 수위 상승 등을 고려해 선박 운항 가능 여부, 선착장 정상 운영, 방류로 인한 부유물로 인한 선박 영향 정도 등을 점검한 후 시민 안전이 확보될 경우 운항을 결정할 방침이다. &lt;br&gt;&lt;br&gt;서울시는 한강버스 누리집을 통해 시민들에게 운항 중단을 안내하고 선착장 인근 지하철 출구 및 버스정류장 등에 안내 문구를 부착할 예정이다. &lt;br&gt;&lt;br&gt;지난 18일부터 정식 운항을 시작한 한강버스는 서울 강서구 마곡~송파구 잠실 구간(28.9㎞)을 오간다. 선착장은 마곡과 잠실을 포함해 망원·여의도·압구정·옥수·뚝섬 등 총 7곳이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국정원 법률특보’ 김상민 “李 대통령 피습, 테러로 보기 어려워" 특검 진술</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/20/MVQTHC6EL5CGJJTZGUONZFUMOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/20/MVQTHC6EL5CGJJTZGUONZFUMOU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 02:25:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R25MGBA3JVL73OBVQRZQMDHDLA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 연루된 '공천 청탁' 의혹의 핵심 인물 김상민 전 부장검사가 지난 17일 서울 서초구 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령의 피습 사건 당시 해당 사건을 테러가 아닌 일반 형사 사건으로 축소·은폐했다는 의혹을 받는 김상민 전 검사가 ‘법적으로 테러로 보기 어렵다’고 민중기 특별검사팀에 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 김 전 검사는 이 대통령을 테러 피해자로 보기 어렵다는 취지의 법률 검토 보고서를 쓴 경위를 지난 9일 특검에 설명한 것으로 전해졌다. 당시 김 전 검사는 국가정보원 법률특보였는데, 특검은 그가 김건희 여사에게 이우환 화백의 작품을 건넨 대가로 해당 직에 임명됐다고 의심하고 있다.&lt;br&gt;&lt;br&gt;김 전 검사 측은 “2016년 제정된 테러방지법은 테러를 국가, 지방자치단체 등의 권한 행사를 방해하거나 의무 없는 일을 하게 하거나 공중을 협박하려 저지르는 살인, 폭파 등 범죄로 정의한다“며 ”당시 이재명 대표의 피습은 테러방지법상 테러가 아니라는 법률적 의견을 제시했을 뿐”이라는 취지로 특검에 짧게 진술했다고 한다.&lt;br&gt;&lt;br&gt;이 대통령은 민주당 당대표였던 작년 1월, 부산 가덕도 신공항 부지에서 60대 남성 김모씨에게 목 부위에 흉기피습을 당했다. 해당 사건을 수사한 경찰은 김씨가 단독범행을 벌인 것으로 결론 냈고, 김씨는 지난 2월 대법원에서 징역 15년을 확정받았다.&lt;br&gt;&lt;br&gt;그러나 민주당은 김 전 검사가 낸 보고서 등을 근거로 국정원이 피습사건을 테러가 아닌 일반 형사 사건으로 은폐한 것이 아니냐고 주장했고, 지난 5일 김 전 검사와 조태용 전 국정원장 등을 직권남용 혐의 등으로 내란특검에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시집 ‘그리운 바다 성산포’ 펴낸 ‘섬 시인’ 이생진 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/20/5TRJETTUSNF6RN3J6HFASC4JZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/20/5TRJETTUSNF6RN3J6HFASC4JZE/</guid>
+      <dc:creator>황지윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 01:41:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XVG4I4E52FBXNDYNO25EMVNMQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 11월 19일 서울 종로구 인사동 카페 '시가연'에서 시집 '무연고'를 낸 이생진 시인이 본지와 인터뷰를 갖고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘섬 시인’으로 불린 시인 이생진(96)이 19일 별세했다. 칠십여년 동안 전국 3000여개 섬 중 1000여곳을 다니며 섬사람들의 애환을 시에 담았다. &lt;br&gt;&lt;br&gt;1929년 충남 서산에서 태어났다. 서산농림학교와 국제대 영어영문학과를 졸업, 1954~1993 성남중과 보성중 영어교사로 일했다. 1995년 시집 ‘산토끼’를 펴내며 문학 활동을 시작했다. 정식으로 등단한 것은 1969년 ‘현대문학’을 통해서다. &lt;br&gt;&lt;br&gt;대표 시집은 1978년 펴낸 ‘그리운 바다 성산포’다. 그 인연으로 2001년 제주도 명예 도민이 됐다. &lt;br&gt;&lt;br&gt;고인은 아흔이 넘어서도 활발하게 시를 썼다. 2021년 아흔둘에 신작 시집 ‘나도 피카소처럼’ 을 내는 등 시집 40권을 냈다. &lt;br&gt;&lt;br&gt;2018년 38번째 시집 ‘무연고(無緣故)’를 펴내고 본지와 한 인터뷰에서 그는 “섬에서 시를 쓰면 물새도 날아오고 파도 소리도 밀려온다”며 “마치 내가 앉은 곳에 시가 몰려오는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;유족으로는 자녀 이수현·이경희·이승일씨가 있다. 빈소는 서울대병원. 발인은 21일 오전 5시. (02)2072-2014&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6Y3JBNJX4FGNRO3ANPHZHZ3TQI.jpg?auth=506199849a4dca8f7ca153b9e4700e3ca27f21f8b2bd9121549eec4f9bccd385&amp;smart=true&amp;width=2240&amp;height=1680" type="image/jpeg" height="1680" width="2240">
+        <media:description type="plain">2018년 11월 19일 서울 종로구 인사동 카페 '시가연'에서 시집 '무연고'를 낸 이생진 시인이 본지와 인터뷰를 갖고 있다. /장련성 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“잊지 않겠습니다” 전쟁기념관서 호명된 7400여명 한국전쟁 참전 미군 실종장병</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/6BYQXOG2K5FWPAVZMAM7H3TRWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/6BYQXOG2K5FWPAVZMAM7H3TRWQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 02:04:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMF23LXOMNBNVCDV67OB5QXMDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 용산구 전쟁기념관에서 백선엽장군기념사업회가 '미군 실종장병 이름 부르기 행사'를 열고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아벨 도널드 레이먼드. 아벨 프랜시스 하워드. 애덤스 찰스 윌리엄….”&lt;br&gt;&lt;br&gt;먹구름이 낀 20일 오전 9시쯤 서울 용산구 전쟁기념관 평화의 광장. 검은 옷에 검은 구두를 신은 한 여성이 6·25 전쟁 당시 참전해 실종된 미군 장병들의 이름을 하나하나 읽고 있었다.&lt;br&gt;&lt;br&gt;30분이 넘도록 이름을 외쳤지만 준비된 명부의 절반도 읽지 못했다. 수십 명이 돌아가며 실종된 미군 장병 7400여 명의 이름을 다 부르기까지는 2시간이 넘게 걸렸다. &lt;br&gt;&lt;br&gt;백선엽장군사업기념회가 주관한 이번 행사는 6·25 때 참전했다가 실종돼 집으로 돌아오지 못하고 유해도 발굴되지 않은 미군 장병을 기억하기 위해 열렸다. 6·25전쟁 미군 전사자는 3만6500여 명이고 실종자 수는 7400여 명이다.&lt;br&gt;&lt;br&gt;미국은 1979년부터 매년 9월 셋째 주 금요일을 ‘전쟁 포로·실종자 인식의 날’로 지정했다. 이날마다 미국 곳곳에서는 참전한 군인들을 기리는 추모식이 열린다. 기념회는 미국과의 시차를 고려해 한국에서는 20일에 행사를 열었다고 설명했다.&lt;br&gt;&lt;br&gt;한규성 백선엽장군기념사업회 대표는 “미국에서는 돌아오지 못한 포로·실종자들을 기리는 마음으로 수십 년 동안 추모 행사를 열어오며 그들을 잊지 않으려 한다”며 “우리 또한 한국전쟁에 참여한 미군 장병들을 잊어서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;백선엽장군기념사업회는 고(故) 백선엽 장군의 호국 정신과 업적을 기리기 위해 지난 2020년 말쯤 민간 주도로 설립됐다. 백선엽 장군은 6·25전쟁 때 기념비적 승리를 이끈 대한민국 최초 4성 장군으로서 지난 2020년 별세했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BUMH4BRKGRHQZFXD5ZLH3PYVRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 서울 용산구 전쟁기념관에서 육군 장병 엄준상씨가 미군 실종장병의 이름을 외치고 있다./김도연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 이름 부르기 행사에는 초등학생, 국군 장병 등 전쟁기념관을 찾은 시민들도 참여했다. 휴가를 맞아 선임들과 전쟁기념관을 찾았다는 육군 장병 엄준상(20)씨는 “참전하신 미군 장병들께 감사한 마음을 담아 한 분 한 분 소중히 불렀다”며 “우리나라를 위해 싸워준 미군들을 잊지 않고 나 또한 우리나라를 용감히 지켜내겠다”고 했다.&lt;br&gt;&lt;br&gt;한국으로 여행을 왔다가 전쟁기념관을 찾은 미국인, 캐나다인, 프랑스인 군인들도 실종 미군 장병들의 이름을 불렀다. 캐나다 해군인 A(35)씨는 “전쟁기념관에 온 것 또한 한국 전쟁의 역사를 더 잘 알기 위함이었다”며 “이렇게 많은 미군 장병이 참전한 줄 몰랐다. 캐나다 또한 한국 전쟁에 수만 명 파병됐는데 참전한 군인들을 기억하려 해줘서 나 또한 고마웠다”고 했다. &lt;br&gt;&lt;br&gt;서울 동작구에 사는 초등학생 제시카(11)양은 “한국 전쟁도 잘 알지 못했다”며 “조금밖에 읽지 않았지만 외국인 이름이 많더라. 이분들께 항상 감사한 마음을 가져야겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난해에도 전쟁기념관에서는 ‘제1회 한미 연합 한국전쟁 미군 포로·실종자 인식의 날’ 행사가 열렸다. 6·25 전쟁 74주년을 맞아 한국 대표 37명과 미국 대표 37명 등 74명이 미군 실종자의 이름을 소리 내 읽었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“민감한 곳 접촉했다”…층간소음 이웃 성추행 무고한 30대 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/20/EUH7SEUOKZHTXBUBX7BBHYL7RY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/20/EUH7SEUOKZHTXBUBX7BBHYL7RY/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 01:03:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MD26ATBOYRFNDEJIDMAA4XB7NQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 층간소음 문제로 다툼을 벌이다 이웃을 강제추행범으로 몬 30대 여성이 무고죄로 처벌받았다. &lt;br&gt;&lt;br&gt;춘천지법 형사2단독 김택성 부장판사는 무고 혐의로 기소된 A(32)씨에게 징역 1년에 집행유예 2년을 선고하고, 사회봉사 80시간을 명령했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;사건의 발단은 지난해 2월 아파트 복도에서 벌어진 몸싸움이었다. A씨의 아버지는 이웃 B씨와 층간소음 문제로 다투다 몸싸움까지 벌였다. 이 과정에서 A씨는 B씨가 자기 엉덩이 부위에 성기를 고의로 접촉했다며 강제추행죄로 무고한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 현장에 있던 A씨의 남편이 B씨에게 공동폭행 및 재물손괴 혐의로 고소당하자, A씨는 앙심을 품고 B씨를 무고한 것으로 조사됐다. 경찰 조사 결과, 당시 다툼 현장에서 두 사람 간의 신체 접촉은 없었던 것으로 드러났다. &lt;br&gt;&lt;br&gt;김택성 부장판사는 “무고는 피고소인에게 상당한 고통을 가하고 국가형벌권의 공정한 행사를 방해하는 중대 범죄”라며 엄벌의 필요성을 강조했다. 다만 “피고인이 뒤늦게나마 잘못을 인정하고 자백하는 점 등을 고려해 형을 정했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, ‘평양 무인기 침투 의혹’ 尹 전 대통령에 24일 출석 통보</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/20/STOIBCS3TZAQBO32Z73YZCDFKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/20/STOIBCS3TZAQBO32Z73YZCDFKM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 00:16:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIN5LHDDFDAQMAZVN4PJRXP56I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 7월 9일 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 의혹을 수사하는 조은석 특별검사팀이 오는 24일 윤 전 대통령에게 소환을 통보했다고 밝혔다. 이에 윤 전 대통령 측은 “아무 논의없이 일방적인 소환 통보를 했다”며 부당하다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;특검은 20일 “윤 전 대통령에게 피의자 신분으로 오는 24일 오전 출석할 것을 통보했다”고 설명했다. 이어 “구체적 혐의에 대해선 확인이 어렵다”고 덧붙였지만, 특검은 ‘평양 무인기 침투 의혹’과 관련해 윤 전 대통령을 조사할 방침으로 알려졌다.&lt;br&gt;&lt;br&gt;해당 의혹은 윤 전 대통령이 비상계엄 선포의 명분을 만들기 위해 작년 10월 드론작전사령부에 평양 무인기 투입 작전을 지시했다는 내용이다. 이와 관련해 특검은 지난 19일 이승오 합동참모본부 작전본부장을 소환 조사했고, 오는 22일에는 서울 동부구치소에 수감 중인 김용현 전 장관을 방문 조사할 예정이다.&lt;br&gt;&lt;br&gt;그러나 윤 전 대통령 측은 “아직 선임된 변호사에 대한 통지는 이루어진 바 없고, 선임되지 않은 변호사에게 문자로 통지가 이루어졌다”며 소환 방식에 절차상 하자가 있다고 주장했다. 특검은 지난 19일 윤 전 대통령의 내란 재판 변호인인 김계리 변호사한테 문자로 출석을 통보했는데, 김 변호사는 재판만 담당하고 특검 조사에는 관여하지 않는다는 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “(특검이 통보한) 소환일은 9월 24일인데, 다음날인 25일은 내란우두머리사건 재판, 26일은 특수공무집행방해등 첫 재판이라 변호인들이 한창 재판에 투입되어 급박하게 준비 중인 상황”이라며 “아무 논의없이 일방적인 소환 통보를, 선임되지 않은 변호사에게 하는건 몹시 부당한 것”이라고 했다. 그러면서 “적법하고 원칙적인 우편 소환통지서를 받은 뒤 조사에 응할지 여부를 검토하겠다”라고 덧붙였다.&lt;br&gt;&lt;br&gt;지난 7월 10일 재구속된 이후 윤 전 대통령은 재판 일정과 특검의 소환 조사에 모두 불응하고 있다. 지난 19일 서울중앙지법 형사25부(재판장 지귀연)는 윤 전 대통령의 내란 혐의 16차 재판을 진행했지만, 윤 전 대통령은 건강상의 이유로 출석하지 않았다. 앞선 9번의 재판에도 불출석해 총 10차례 연속 불출석한 것이다. 재판부는 불출석 후 초반 세 차례 재판은 ‘기일 외 증거조사’ 방식으로 증인신문을 진행했지만, 지난달 11일 재판부터 피고인이 불출석한 상태에서 궐석재판을 이어가고 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 7월 김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀의 소환에도 수차례 응하지 않았다. 이에 특검은 법원에서 체포영장을 발부받아 지난달 1일과 7일 영장을 집행하기 위해 서울구치소를 찾았으나, 윤 전 대통령이 집행을 완강히 거부하면서 두 차례 시도 모두 무산으로 돌아갔다. 이 과정에서 윤 전 대통령이 속옷 차림으로 체포를 거부했다는 사실 등이 외부에 알려지면서 ‘피의자 망신주기’라는 지적이 나왔다. 윤 전 대통령 측은 2차 집행 당시 물리력을 동원하는 과정에서 윤 전 대통령이 의자에서 떨어져 다쳤다고 주장하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강릉에 단비…오봉저수지 저수율 34.9%까지 올랐다</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/ZER3UGUTCNEF3L2U6SO5GOWHZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/ZER3UGUTCNEF3L2U6SO5GOWHZQ/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 00:12:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z5IRTE5M2RLX5BE5TAJ5S6AQAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 강원 강릉지역 상수원 오봉저수지에 물이 차오르고 있다. 최근 내린 비로 오봉저수지 저수율이 상승하면서 강릉시는 아파트 시간제 제한 급수를 이날 오후 6시부터 해제하기로 했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;극심한 가뭄을 겪고 있는 강원 강릉 지역에 다시 단비가 내리면서 오봉저수지 저수율이 34.9%까지 올랐다. 오봉저수지는 강릉 지역 생활용수의 87%를 공급하고 있다.&lt;br&gt;&lt;br&gt;20일 강원지방기상청에 따르면 전날 정오부터 이날 오전 8시까지 내린 강수량은 삼척 원덕 92.5㎜, 동해 81.6㎜, 북강릉 73.3㎜, 강릉 70.8㎜, 속초 57.8㎜ 등을 기록했다. &lt;br&gt;&lt;br&gt;강릉 지역에 내린 단비에 오봉저수지 저수율도 상승하고 있다. 한국농어촌공사 농촌용수종합정보시스템에 따르면 이날 오전 8시 10분 기준 오봉저수지 저수율은 34.9%(평년 72.4%)로 전날의 28.1%보다 6.8%포인트 올랐다.&lt;br&gt;&lt;br&gt;오봉저수지 저수율은 지난 12일 역대 최저치인 11.5%까지 떨어졌으나, 최근 강릉 지역에 내린 비가 꾸준히 유입되며 지난 13일부터 상승세를 보이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARUSTGKKK5IVPD6BRIRN2EZOD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 강릉시가 상수원인 오봉저수지 저수율이 회복세로 접어들면서 19일 오후부터 아파트 시간제 제한급수를 해제한 가운데 강릉의 한 아파트 엘리베이터에 이를 알리는 안내문이 붙어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 강릉시는 지난 19일 저수조 용량 100t 이상 아파트 113개소를 대상으로 하루 2차례, 각 3시간씩 실시했던 시간제 제한 급수를 이날 오후 6시부터 전면 해제했다. 강릉시는 지난달 20일부터 오봉저수지 저수율이 25% 이하로 떨어지자 제한 급수에 돌입했다.&lt;br&gt;&lt;br&gt;시행 초기에는 수도 계량기의 50%를 잠갔으나, 지난달 31일 저수율이 15% 미만까지 떨어지면서 75%까지 잠그는 조치에 들어갔다.&lt;br&gt;&lt;br&gt;이후 강릉시는 지난 6일부터 홍제정수장 급수 지역 가운데 100t 이상 저수조를 보유한 아파트 113곳을 대상으로 제한급수를 진행했다. 한때 일부 아파트에선 오전·오후 각 1시간씩 수돗물을 공급했다가, 지난 13일부터는 113곳 아파트를 대상으로 하루 2차례(오전 6~9시, 오후 6~9시), 각 3시간씩 제한급수를 시행했다.&lt;br&gt;&lt;br&gt;강릉시는 이날 아파트 제한 급수 관계자 간담회(3차)를 열고 오봉저수지 저수율 추세, 비 예보, 절수 효과 등을 고려해 그동안 아파트에서 실시한 제한 급수를 해제하기로 결정했다.&lt;br&gt;&lt;br&gt;이번 결정에 따라 113곳의 아파트에서는 시간 제한 없이 물을 자유롭게 사용할 수 있게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성시경 “탈세와는 무관”… 1인 기획사 미등록 운영 사과 </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/7JTTPFKGB5FPVIT4ZPSU3WDVYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/7JTTPFKGB5FPVIT4ZPSU3WDVYQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 23:30:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V63ZESJFY5CO5J2Q4UX42DXUDM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 성시경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 성시경이 1인 기획사를 대중문화 예술기획업 미등록 상태로 불법 운영해 온 것에 대해 사과하며 “탈세와는 무관하다”고 해명했다.&lt;br&gt;&lt;br&gt;성시경은 18일 인스타그램에 “저와 관련된 일로 많은 분들께 심려를 드린 점 진심으로 죄송하게 생각한다”며 기획사를 미등록 상태로 운영해온 점에 대해 사과했다. &lt;br&gt;&lt;br&gt;성시경은 “데뷔하고 이런저런 회사를 전전하며 많은 일들을 겪고 2011년 1인 기획사를 설립했다”며 “2014년 대중문화예술산업발전법 시행과 함께 대중문화예술기획업 등록 제도가 도입되었고 이를 제때 인지하고 이행하지 못했다”고 했다. 이어 “새로운 제도 개설을 인지하고 교육 이수 등록을 못한 것은 회사의 분명한 잘못이고 크게 반성하고 있다”며 “관련 등록 절차를 빠르게 진행하고 있으며 잘못된 부분들을 바로 잡겠다”고 했다. &lt;br&gt;&lt;br&gt;성시경은 기획사 미등록 운영이 탈세 목적과는 무관하다고 밝혔다. 그는 “등록을 하지 않은 것이 소득 누락이나 탈세같은 목적과는 무관하다는 점은 분명히 말씀드리고 싶다”며 “소득은 세무사를 통해 투명하게 신고해오고 있다”고 했다. &lt;br&gt;&lt;br&gt;끝으로 “이번 일을 계기로 제 자신을 더 엄격히 돌아보는 계기가 된 것 같다”며 “꼼꼼히 챙기며 책임감 있게 활동하겠다”고 했다. &lt;br&gt;&lt;br&gt;최근 연예인들이 설립한 1인 기획사 상당수가 미등록 상태로 불법 운영된 사실이 잇달아 드러났다. 가수 옥주현을 시작으로 성시경, 송가인, 강동원 등이 대중문화예술기획업 등록을 하지 않고 운영해온 것으로 파악됐다. 현행 대중문화예술산업발전법에 따르면, 법인 및 1인 초과 개인사업자 형태로 활동하는 연예인과 기획사 모두 대중문화예술기획업 등록을 마쳐야 한다. 이 필수 요건을 위반할 경우 2년 이하 징역 또는 2000만원 이하 벌금형을 포함한 형사 처벌과 영업정지 등의 법적 제재를 받을 수 있다.&lt;br&gt;&lt;br&gt;이에 문화체육관광부는 오는 12월 31일까지 등록 계도 기간을 운영하고, 이후에는 법적 조치를 할 방침이다. 문체부 관계자는 “이번 계도 기간은 업계 스스로 법적 의무를 점검하고 등록을 마칠 수 있는 자율 정비의 기회”라며 “투명하고 합법적인 기획‧매니지먼트 환경을 만들어 대중문화예술인을 보호하고 대중문화 산업의 신뢰도를 높이겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#국중박인기해부#아동유괴의모든것</title>
       <link>https://www.chosun.com/national/weekend/2025/09/20/DGD7R3CJMFHZ5D6VWO5AHACCKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/09/20/DGD7R3CJMFHZ5D6VWO5AHACCKE/</guid>
@@ -774,24 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXFA35JMBBSNFZZZQLEWRTOLAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이승오 합동참모본부 작전본부장이 지난 1월 14일 오전 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회에서 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 ‘평양 무인기 침투 작전’과 관련해 19일 오전 이승오 합동참모본부 작전본부장을 피의자 신분으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 12·3 비상계엄 선포 명분을 쌓기 위해 평양에 무인기를 보내 북한의 도발을 유도했다는 의혹을 수사하면서, 김용현 전 국방부 장관이 해군 출신인 김명수 합참의장을 패싱하고, 이 본부장, 김용대 전 드론작전사령관과 직접 소통했을 가능성을 의심해 왔다.&lt;br&gt;&lt;br&gt;특검은 이 본부장과 윤 전 대통령, 김 전 장관, 김 전 사령관 등 4명이 공모 관계에 있다고 최근 판단한 것으로 알려졌다. 지휘 체계가 ‘윤 전 대통령–김 전 장관–이 본부장–김 전 사령관’으로 이뤄졌다고 보는 것이다.&lt;br&gt;&lt;br&gt;특검은 법리 검토 끝에 이들에게 일반이적 혐의를 적용하기로 결정한 것으로 전해졌다. 지난달 이 본부장을 직권남용 권리행사 방해와 허위 공문서 작성 등 혐의 피의자로 전환하고, 자택과 사무실 등을 압수 수색했다. 압수 수색 영장에는 “지난해 10월 8일, 10회에 걸쳐 북한에 무인기를 침투시켰다”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;조만간 이 본부장 등 4명에 대한 사법 처리 여부가 결정될 것으로 보인다. 특검은 지난 18일 김 전 사령관과 김명수 합참의장을 소환한 데 이어 오는 22일에는 서울동부구치소를 찾아 구속 수감 중인 김 전 장관을 방문 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>지능형교통체계(ITS) 사업 로비 의혹…현직 시장·도의원 등 추가 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/09/19/Z7AGMSS2MJCG3B6IZ7PGMATPHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/Z7AGMSS2MJCG3B6IZ7PGMATPHQ/</guid>
-      <dc:creator>안산=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 01:07:06 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체 지능형교통체계(ITS) 사업을 둘러싼 로비 의혹을 수사 중인 경찰이 현직 시장과 경기도의원들을 추가 입건했다.&lt;br&gt;&lt;br&gt;경기 안산상록경찰서는 뇌물수수 혐의로 현직 A시장과 B도의원을 비롯해 경기도의원 3명 등 4명을 지난 17일 입건해 조사하고 있다고 19일 밝혔다. 경찰은 또 알선수재 혐의로 전직 지자체 공무원 C씨도 함께 입건했다.&lt;br&gt;&lt;br&gt;A시장은 ITS 사업체 운영자 김모씨로부터 금품을 받은 혐의를 받고 있다. 김씨는 도내 다수 지자체를 상대로 ITS 구축 사업을 추진하며 공무원과 정치인에게 금품을 건넨 혐의로 지난달 구속 기소됐다. 경찰은 김씨가 제3자를 통해 A시장에게도 금품을 전달한 정황을 포착했다고 한다.&lt;br&gt;&lt;br&gt;B의원 등 도의원 3명은 김씨로부터 수십만원대 향응을 제공받은 혐의를 받는다. C씨는 퇴직 후 김씨 편의를 봐주는 대가로 금품을 받고 사업과 관련한 알선을 한 혐의가 있다.&lt;br&gt;&lt;br&gt;이번 사건은 경찰이 지난 4월 안산시 공무원의 수뢰 정황을 포착하면서 불거졌다. 경찰은 김씨가 안산시 공무원에게 5000만원을 건넨 사실을 확인해 지난 7월 구속 송치했다. 이어 김씨가 ITS 구축 사업 관련 특별조정교부금 배정 과정에서 도의원 다수를 상대로 로비한 정황을 확보, 이들을 차례로 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;앞서 박세원(화성3)·이기환(안산6)·정승현(안산4) 도의원은 김씨로부터 수천만원~2억8000만원의 금품을 챙긴 혐의로 구속 송치됐으며, 최만식(성남2) 도의원과 김홍성 전 화성시의회 의장은 불구속 송치됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “추가 입건된 인물들에 대한 수사는 초기 단계로 구체적인 내용을 확인해 줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“최소 5% 이자 거뜬히” 투자 수익 보장한다며 5억 뜯어간 40대 男 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/19/RMDF6YPQ4FE3FK4JZZBHF73AFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/RMDF6YPQ4FE3FK4JZZBHF73AFI/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 00:58:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UIM4WAKO5IQEMJV5IAC6CVAAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 개발한 게임에 투자하면 최소 5%의 이자를 보장하겠다며 피해자들로부터 5억여 원을 가로챈 40대 남성이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김성은 판사는 사기와 재물손괴 혐의로 기소된 백모(42)씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;무직 상태였던 백씨는 2020년 서울 양천구의 한 운동장에서 피해자 임모씨를 만나 “내가 게임 프로그램을 개발했는데 돈을 빌려주면 최소 5%의 이자율을 보장하겠다”고 했다. 그러나 실제로는 아무런 게임 개발도 진행하지 않았고, 돈을 받으면 도박 등 개인 용도로 쓸 계획이었다. 임씨는 이에 속아 넘어가 총 4억4760만원을 건넸다.&lt;br&gt;&lt;br&gt;백씨는 이듬해 4월에도 같은 수법으로 또 다른 피해자 김모씨에게 접근해 9200만원을 받아냈다.&lt;br&gt;&lt;br&gt;그는 동거하던 연인에게 거짓말을 해 돈을 받아내기도 했다. 2021년 10월쯤 연인 박모씨에게 “내가 운영하던 광고회사를 폐업하면서 발생한 4억원 변제가 필요하다. 돈을 빌려주면 두 배로 갚겠다”고 속여 총 5200만원을 받아 챙겼다. 이후 박씨가 경찰에 신고하자, 피해자의 집 유리창을 깨뜨리는 등 보복성 범행도 저질렀다.&lt;br&gt;&lt;br&gt;김 판사는 “사기 범행의 피해액이 상당히 크고, 범행 후 3~4년이 지나도록 피해 회복 노력을 하지 않았다”며 “다만 범행을 인정하고 반성하는 태도를 보이는 점, 피해자 임씨·김씨와 원만히 합의한 점을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강남 초등학교 지하서 불...1000여 명 대피</title>
       <link>https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</guid>
@@ -810,34 +880,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIYGNLPUEU7NC6GUNQAOSK77H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우산을 쓴 시민이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한반도 남쪽 해상에서 세 개의 태풍이 연이어 발생하면서 주말 전국에 비가 내릴 전망이다. &lt;br&gt;&lt;br&gt;19일 기상청에 따르면 전날 17호 태풍 ‘미탁’이 발생했고, 이날 새벽 18호 태풍 ‘라가사’와 19호 태풍 ‘너구리’까지 잇따라 모습을 드러냈다. &lt;br&gt;&lt;br&gt;‘미탁’은 비교적 세력이 약한 태풍으로, 19일 오전 3시 기준 홍콩 동남동쪽 약 300㎞ 부근 해상을 지나고 있다. 홍콩 방향으로 이동 중이며 20일쯤 열대저압부로 약화될 가능성이 높다. &lt;br&gt;&lt;br&gt;‘너구리’는 이날 오전 3시 기준으로 일본 도쿄 동남동쪽 약 2320㎞ 부근 해상에 위치해 있다. 일본 동쪽 해상으로 이동 중이며 21일부터 방향을 틀어 다시 바다 쪽으로 빠져나갈 것으로 보인다. &lt;br&gt;&lt;br&gt;강도 3의 강한 태풍으로 발달할 것으로 보이는 ‘라가사’는 필리핀 북쪽으로 서진 중이다. 예상 경로인 필리핀 루손섬 북쪽을 지나 대만 남쪽, 홍콩과 광둥성 등 중국 남부 지역에 영향을 끼칠 것으로 예상된다. 다만 방향을 바꿔 북상할 가능성도 있다. &lt;br&gt;&lt;br&gt;국내에는 19일 오후부터 서쪽에서 저기압이 접근하면서 비가 오기 시작해 이날 밤에는 전국 대부분 지역에 비가 쏟아질 것으로 보인다. 가장 강하게 비가 쏟아지는 시간대는 20일 새벽부터 아침 사이가 될 것으로 보인다. 이때 충남 남부 서해안과 전북 서해안을 중심으로 시간당 30㎜ 안팎의 집중호우가 쏟아질 가능성이 있다. 전국적으로 예상되는 누적 강수량은 10~60㎜다. &lt;br&gt;&lt;br&gt;기상청은 앞으로도 추가 가을 태풍 발생 가능성이 높다고 보고 있다. 기상청 관계자는 “해수면 온도가 높아 태풍의 씨앗이 되는 열대요란이 발생하기 좋은 조건”이라며 “향후 열대요란 발달 여부와 경로에 따라 날씨 변동성이 커질 수 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란특검, 정진석 소환… 계엄 열흘 전 있었던 정보사 ‘몽골작전’도 수사</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/QEKALCHSZVG43M4ODDFRXNQRTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/QEKALCHSZVG43M4ODDFRXNQRTI/</guid>
-      <dc:creator>유종헌 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 관련 내란·외환 의혹을 수사 중인 조은석 특별검사팀이 18일 정진석 전 대통령 비서실장을 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 정 전 실장을 상대로 12·3 비상계엄 전후 대통령실 상황을 집중 캐물었다. 정 전 실장은 작년 12월 3일 비상계엄 선포 직전 용산 대통령실에 소집돼 국무회의에 배석했다. 그는 이튿날 새벽에는 국회의 계엄 해제 요구안 의결 후에도 합동참모본부 전투통제실에 머물던 윤 전 대통령을 찾아가 대통령실로 돌아가야 한다고 설득한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이런 가운데 내란 특검은 정보사령부의 ‘몽골 공작’ 의혹을 수사 중이다. 12·3 계엄 열흘 전쯤 정보사 요원 2명이 몽골 수도 울란바토르에서 북한 대사관 인사와 접촉하려다 현지 당국에 체포된 것과 관련해, 특검은 윤 전 대통령이 북한의 도발을 유도하려고 정보사로 하여금 북한과 접촉하게 했을 가능성을 의심한다. 반면 정보사 관계자는 “지난해 6월 발생한 정보사 블랙 요원 명단 유출 사태 때문에 정보망 재구축을 하러 간 것”이라고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 몽골에 파견됐던 정보사 요원들이 몽골어를 못 하고, 대북 작전 경험도 별로 없다는 군 관계자 진술을 확보했다고 한다. 몽골에 파견됐던 2명 중 한 명은 영어에 능통하고, 다른 한 명은 동남아시아 전문인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검은 2018년 정보사 화이트 요원 5명의 신상이 유출된 사건도 들여다보고 있다. 당시엔 정보망 재구축에 3년이 소요됐는데, 이번에는 블랙 요원 명단 유출 5개월 만에 서둘러 정보망 재구축에 나섰다는 점이 석연치 않다는 것이다. 다만 정보사 한 관계자는 “몽골어를 할 수 있는 요원 자체가 별로 없는 데다가 당시는 정보망 재구축 필요성이 컸던 상황”이라고 했다. &lt;br&gt;&lt;br&gt;내란 특검은 국민의힘 지도부의 계엄 해제 표결 방해 의혹도 수사 중이지만 국민의힘 의원 상당수가 출석 요구에 불응하면서 수사는 답보 상태다. 오는 23일 한동훈 전 대표에 대한 공판 전 증인신문이 예정돼 있지만 한 전 대표는 불출석할 가능성이 크다. &lt;br&gt;&lt;br&gt;한편, 특검은 이날 국가정보원이 계엄 당시 요원을 계엄사령부에 파견하는 방안을 검토했다는 의혹과 관련해 국가정보원을 압수 수색했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소액결제 배후에 中 거대 조직… “IT 전문가 다수 모인 듯”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/19/EWYDFVJ6S5HNZIQJNUPWWPVMA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/EWYDFVJ6S5HNZIQJNUPWWPVMA4/</guid>
-      <dc:creator>수원=김현수 기자, 수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>‘KT 소액 결제 해킹 사건’의 피의자인 중국인 남성이 경찰에 “주범이 중국에 있다”고 진술한 것으로 18일 확인됐다. 경찰은 중국의 전문 범죄 조직이 개입했을 가능성에 무게를 두고 수사를 확대하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSHLCBE47ZEOFFCGGGANZMYBUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
-‘KT 소액 결제 해킹 사건’의 피의자 2명이 18일 오전 영장실질심사에 출석하기 위해 경기 수원영통경찰서를 나서고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기남부경찰청에 따르면, 지난 16일 인천국제공항에서 검거된 중국인 A(48)씨는 경찰에 “중국에 있는 윗선의 지시를 받았다”고 진술했다. 그는 최근 ‘윗선’과 중국에서 접촉했다고 한다. A씨는 ‘초소형 기지국(펨토셀)’ 장비를 승합차에 싣고 다니며 휴대전화를 해킹해 개인 정보를 빼낸 혐의를 받는다. 펨토셀은 빌딩 사무실 등 휴대전화가 잘 터지지 않는 곳에 설치하는 통신 장비다. 경찰은 A씨가 빼돌린 개인 정보를 이용해 모바일 상품권을 구입하거나 교통카드를 충전하는 등 소액 결제를 한 것으로 보고 있다. 같은 날 검거된 공범 B(44)씨는 모바일 상품권 등을 현금화한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 국내에서 일용직 근로자 등으로 일했다고 한다. 경찰 관계자는 “두 사람 모두 서로 모르는 사이라고 진술했다”며 “통신 장비에 대한 전문적인 지식도 갖고 있지 않았다”고 했다. B씨는 한국어도 못 한다고 한다. &lt;br&gt;&lt;br&gt;이 때문에 경찰은 배후에 중국의 해킹 조직이 있을 것으로 보고 있다. 해킹 전문가들은 “이번 해킹 사건은 한두 명이 벌일 수 있는 사건이 아니다”라며 “IT(정보통신) 전문가들이 다수 모인 거대 조직이 있을 것”이라고 분석했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 사용한 펨토셀이 대만에서 건너왔을 가능성이 있다고 보고 구체적인 경위를 조사하고 있다. 국민의힘 최수진 의원실에 따르면, 이 장비에는 KT가 관리하는 펨토셀과 다른 형태의 관리 번호가 붙어 있다고 한다. 앞서 지난달 25일 대만에서도 중국 범죄 조직의 지시를 받은 일당이 ‘가짜 기지국’ 장비를 이용해 개인 정보를 빼돌린 혐의로 검거됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>두 달간 압수수색 수십 번 했지만… 해병 특검, 기소는 0건</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/6Q5CXMXPVFD7HDQDWCWLSCXJEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/6Q5CXMXPVFD7HDQDWCWLSCXJEA/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>순직 해병 특검이 지난 7월 2일 출범한 지 두 달 넘게 지났지만 이렇다 할 수사 실적을 내지 못하고 있다. 해병 특검은 ‘순직 해병 수사 외압’ 의혹과 관련해 압수 수색만 수십 차례 했지만, 아직까지 재판에 넘긴 사람은 한 명도 없다. 개신교계 등이 순직한 채수근 상병 소속 부대장의 ‘구명 로비’ 창구였다는 의혹도 수사했지만 논란만 부른 채 별다른 진척이 없는 상황이다. 그런데도 해병 특검은 내란·김건희 등 3특검 가운데 가장 먼저 수사 기간을 연장했다.&lt;br&gt;&lt;br&gt;순직 해병 수사 외압 의혹은 윤석열 전 대통령이 2023년 7월 채 상병 부대장이던 임성근 전 해병대 1사단장 등에게 과실치사 혐의를 적용한 해병대 수사단 조사 결과를 보고받고 크게 화를 낸 뒤, 대통령실과 군 지휘부를 통해 수사에 외압을 가했다는 내용이다. 이와 관련, 해병 특검은 지난 7월 22일 김계환 전 해병대 사령관에게 구속영장을 청구했지만 법원에서 기각됐고, 두 달 가까이 지난 최근에야 다시 김 전 사령관을 불러 수사를 이어가고 있다. 의혹 핵심인 이종섭 전 국방부 장관은 23일 처음으로 피의자 조사를 받을 예정이다. 내란 특검에 구속된 윤 전 대통령이 해병 특검 조사에 응할지는 불투명하다. 해병 특검이 지금까지 체포나 구속한 인사도 없다.&lt;br&gt;&lt;br&gt;해병대 수사단에서 시작해 국방부 조사본부, 경북경찰청, 대구지검 등을 거쳐 해병 특검에 넘어온 채 상병 과실치사 사건과 관련해서는 아직 한 사람도 기소되지 않았다. 채 상병이 수해 현장에서 실종자 수색 도중 급류에 휩쓸려 사망에 이른 것의 지휘 책임이 어디까지인지 규명하는 수사가 2년 넘게 매듭을 짓지 못한 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 김장환 극동방송 이사장과 이영훈 여의도순복음교회 담임목사 등이 임 전 사단장을 과실치사 혐의자에서 빼기 위한 구명 로비에 관련돼 있다며 지난 7월 18일 압수 수색을 했다. 하지만 두 달 넘게 참고인 신분인 김·이 목사 등에 대한 조사는 이뤄지지 않았다. 참고인 조사 요청에 세 차례 불응한 김 목사 측은 “구명 로비한 사실이 없고, 특정 언론에 통신 기록이 공개되는 등 명예 훼손에 대해 특검 측 사과가 먼저”라는 입장이다. 이 목사 측과는 소환 일정 조율도 제대로 안 되는 것으로 알려졌다. 검사장 출신 한 변호사는 “진상 규명과 그에 따른 처벌이란 특검 본연의 취지로 돌아가 전열을 정비할 필요가 있어 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>13명 구속한 김건희 특검, 9명 혐의엔 ‘김건희’ 없었다</title>
       <link>https://www.chosun.com/national/court_law/2025/09/19/I53VFTDJENCDZJVPB3IBFJYJYU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/I53VFTDJENCDZJVPB3IBFJYJYU/</guid>
@@ -853,33 +895,6 @@
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">황광모</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>중앙지법의 자구책… 내란 사건 재판부에 판사 1명 추가</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/AGPPJQJNN5EJ5EQF2MIVMI56O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/AGPPJQJNN5EJ5EQF2MIVMI56O4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>서울중앙지법이 윤석열 전 대통령 사건을 포함한 내란 사건 재판을 심리 중인 형사25부에 판사를 한 명 추가하겠다고 18일 밝혔다. 민주당이 “내란 재판을 침대 축구처럼 한다”며 내란 전담재판부 설치 등을 추진하자, 법원이 대응에 나선 것으로 보인다. “법관을 추가 배치해 신속하게 재판을 진행하겠다”는 뜻을 밝혔다는 것이다.&lt;br&gt;&lt;br&gt;법원은 20일부로 복직하는 판사 1명을 형사25부에 배치하겠다고 했다. 그러면 형사25부 판사는 3명에서 4명으로 늘어난다. 형사25부는 윤 전 대통령 사건을 비롯해 김용현 전 국방장관 등 군 관계자 사건, 경찰 지휘부 사건 등 내란 사건 재판과 다수의 일반 형사 사건 재판을 병행 심리하고 있다. 새로 투입되는 판사는 내란 재판은 맡지 않고, 일반 형사 사건을 담당할 것이라고 한다.&lt;br&gt;&lt;br&gt;형사25부 재판장인 지귀연 부장판사는 내란 재판은 물론 일반 사건 심리에 계속 참여한다. 다만 법정 판사석이 3석인 만큼 배석 판사는 한 명씩 번갈아 빠지게 된다. 주심을 맡은 사건 재판에는 반드시 들어가되, 주심이 아닌 경우 교대로 빠지는 식이다.&lt;br&gt;&lt;br&gt;중앙지법은 내년 2월 정기 인사 때 형사합의부도 더 늘리겠다고 했다. 판사 3명이 심리하는 형사합의부는 중대한 범죄나 사회적 파장이 큰 사건을 담당하는데, 3특검이 기소한 사건 대부분이 이곳에 배당된다. 현재 중앙지법의 형사합의부는 16개다. 이와 관련, 중앙지법은 특검 기소 사건을 신속히 처리하기 위해 법원행정처에 법관 증원을 요청했다고 밝혔다. 중앙지법은 내년 상반기 완공을 목표로 형사 법정 1개를 신설하는 공사도 진행 중이다. &lt;br&gt;&lt;br&gt;법원은 특검 사건을 맡은 재판부의 업무 부담을 줄이기 위해 사건 배당 방식도 조정한다. 특검 사건이 1건 배당되면 일반 사건 5건은 배당하지 않는 식으로 업무량을 분산하겠다는 것이다. 특검 사건 담당 재판부의 참여관·주무관·속기사 등 인력 충원도 추진한다. 중앙지법은 특검법에 따라 재판이 중계될 가능성에 대비해 서울고법과 함께 ‘서울법원종합청사 재판 중계 준비팀’도 구성했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>코인업자에 뇌물 받은 혐의… 현직 경찰서장 압수 수색</title>
-      <link>https://www.chosun.com/national/incident/2025/09/19/X337EW7GQVDMJHQ4LLQ5HHMP3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/X337EW7GQVDMJHQ4LLQ5HHMP3E/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 지역 경찰서장 등 경찰 간부 2명이 코인 업자에게 뇌물을 받았다는 혐의로 검찰이 압수 수색을 벌였다.&lt;br&gt;&lt;br&gt;수원지검은 18일 뇌물 수수 등 혐의로 서울 모 경찰서 서장인 A 총경의 사무실과 집을 압수 수색했다.&lt;br&gt;&lt;br&gt;A 총경은 코인 투자 사기 사건의 피의자인 B씨에게 수차례에 걸쳐 수천만 원을 수수한 혐의를 받고 있다. 검찰은 A 총경이 사건 수사를 무마해 주는 대가로 금품을 받은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;앞서 검찰은 사기 혐의로 기소된 B씨의 자금 흐름을 추적하는 과정에서 A 총경과 관련된 수상한 거래 내역을 확인하고 수사에 착수했다.&lt;br&gt;&lt;br&gt;이에 대해 A 총경은 혐의를 전면 부인했다고 한다. 그는 “B씨에게 투자 개념으로 5000만원을 건넸고, 이자를 더해 돌려받았을 뿐”이라며 “수사를 무마했다는 얘기도 전혀 사실이 아니고 서울경찰청에도 같은 취지로 소명했다”고 밝혔다고 한다.&lt;br&gt;&lt;br&gt;검찰은 또 다른 경찰 간부 C씨 역시 B씨에게 금품을 받은 단서를 확보하고 이날 동시에 압수 수색했다. 수사팀은 확보한 자료를 분석해 A 총경 등의 진술과 대조할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이화영 술자리 논란, 서울고검서 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/DUTK7UHXURDWDPEPX7SDVSSG2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/DUTK7UHXURDWDPEPX7SDVSSG2A/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>대검찰청이 18일 서울고검에 ‘인권 침해 점검 TF(태스크포스)’를 꾸리고, 이화영 전 경기도 평화부지사가 제기한 ‘검찰의 술자리 회유 의혹’에 대해 진상 조사에 나섰다.&lt;br&gt;&lt;br&gt;대검은 이날 “검찰의 과잉·표적 수사와 기소, 인권 침해 의혹 제기 등 업무 관행에 대한 비판이 지속되고 있다”며 “노만석 검찰총장 직무대행은 업무 관행을 점검하고 개선을 도모하기 위해 TF를 구성·운영하도록 지시했다”고 밝혔다. 대검은 “정성호 법무부 장관이 지시한 ‘이 전 부지사 증언’ 관련 사안에 대해서도 TF에서 신속히 진상을 확인해 결과를 보고하도록 조치했다”고 했다.&lt;br&gt;&lt;br&gt;전날 정 장관은 수원지검이 지난 2023년 ‘쌍방울 대북 송금 사건’ 수사 과정에서 조사실로 술과 외부 음식을 반입해 이화영 전 부지사, 김성태 전 쌍방울 회장 등에게 제공했다는 의혹에 대한 감찰을 지시했다. 이 전 부지사는 작년 4월 ‘쌍방울 대북 송금 사건’ 1심 재판에서 “검찰청에서 김 전 회장 등과 술을 마시며 회유당했다”고 주장했다. 법무부는 최근 실태 조사에서 이 전 부지사의 주장을 뒷받침하는 교도관의 진술, 출정 일지 등을 확보했다고 밝혔다.&lt;br&gt;&lt;br&gt;인권 침해 점검 TF 팀장은 정용환 서울고검 감찰부장이 맡는다. 정 팀장은 문재인 정부 시절 서울중앙지검에서 김건희 여사, 윤우진 전 용산세무서장 등 윤석열 전 대통령의 가족·측근 관련 수사를 한 적이 있다.&lt;br&gt;&lt;br&gt;한편, 대검은 해경 이재석 경사 순직 사고 관련 수사팀을 구성하고 이날 인천해양경찰서 등을 압수 수색했다. 이 경사는 갯벌에 고립된 노인을 구하다 숨졌는데, 2인 1조가 아닌 혼자 현장에 출동했다 사고를 당해 초동 대처에 문제가 있다는 지적이 제기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>최교진 “수능·내신 절대평가 전환에 공감” 돌발 발언</title>
@@ -919,15 +934,6 @@
       <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBG5MW2KKFGPRCWZT54LD3HJBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김준호 기자
 경남 남해군 미조면의 한 양식장에서 적조로 폐사한 참돔. 450㎏짜리 고무통에 가득 담겨 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 오전 경남 남해 미조면 앞바다의 한 참돔 양식장. 어민들이 물 위로 배를 드러낸 채 둥둥 떠오른 참돔을 뜰채로 쉴 새 없이 퍼 올렸다. ‘붉은 재앙’이라 불리는 적조가 6년 만에 남해 앞바다에 확산하면서 물고기들이 죄다 질식사한 것이다. 물고기 450~470kg이 담기는 고무 대야 수십 통이 금세 가득 찼다. 추석 대목에 출하하려고 3년간 키운 참돔들이 떼로 죽어나가는 모습에 어민들의 얼굴이 잿빛이 됐다. &lt;br&gt;&lt;br&gt;전국에 수산물을 공급하는 경남 남해안이 어패류(魚貝類) 집단 폐사로 신음하고 있다. 지난달부터 적조 현상이 이어지고 있는 데다가, 최근에는 산소 농도가 지나치게 낮은 물 덩어리 ‘빈산소수괴’까지 퍼지면서 양식 어류와 가리비, 굴 등 패류까지 모두 죽어나가고 있는 탓이다. 한여름 폭염에도 그나마 잠잠했던 고수온 피해도 뒤늦게 나타나고 있다. 최악의 ‘삼중고’에 어민들은 “지옥이 따로 없다”고 입을 모은다.&lt;br&gt;&lt;br&gt;경남은 우리나라 가두리 양식장 약 83만㎡의 절반 이상인 42만㎡가 밀집해있다. 고성 앞바다에선 우리나라 가리비 약 70%, 창원에선 홍합 50% 이상이 난다. 그런데 지난 15일까지 고성·창원 일대 패류 양식장 약 220ha에서 폐사 신고가 접수됐다. 누적 피해액은 45억원 규모로 추산된다. 10월부터 수확철인 가리비의 경우, 현재 통발 속 대부분 빈 껍데기만 남아 있고 알맹이는 찾아볼 수 없다고 한다. 빈산소수괴가 바다에 퍼지면서 산소를 마시지 못한 가리비가 다 죽은 것이다. 빈산소수괴는 해수가 잘 순환되지 않는 지역에 비가 많이 내리고 해수 온도가 올라갔을 때 주로 발생한다. 고성 가리비 자율공동체의 공종열 위원장은 “추석과 11월 김장철만 기다렸는데, 이게 무슨 청천벽력인지 모르겠다”며 “10월부터 내년 4월까지 수확을 하는데, 이러다 빚만 지고 내년엔 양식도 못할 판”이라고 했다.&lt;br&gt;&lt;br&gt;지난 8일 통영 욕지도 가두리 양식장에선 “물고기 304만여 마리가 고수온 때문에 폐사했다”는 신고가 접수됐다. 올해 첫 고수온 신고다. 지난달 초 욕지도 주변 해수 온도는 29도까지 치솟았다. 어민들은 그동안 폐사한 물고기를 냉동고에 보관했다가 한 번에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;적조 피해도 늘고 있다. 17일 오후 기준 남해·하동·거제·통영·사천·고성 등 6개 시군에서 참돔·숭어·방어·조피볼락(우럭) 등 양식 어류 총 281만3808마리가 폐사한 것으로 집계됐다. 전체 피해액은 59억5500여 만원으로 추산된다. &lt;br&gt;&lt;br&gt;박태규 국립수산과학원 해양수산연구사는 “적조, 빈산소수괴, 고수온 피해가 동시에 발생한 것은 정말 이례적인 일”이라며 “이상 기후 여파로 이달까지는 이런 현상이 반복될 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작년 폭염 30일, 60년 후엔 80일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/19/NLIOM2C54JCPRN5JSGM3CAUL2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/19/NLIOM2C54JCPRN5JSGM3CAUL2E/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>오는 21세기 말(2081~2100년) 한반도에서 최고기온이 33도를 넘는 폭염일 수가 연간 최대 79.5일을 기록할 것이란 전망이 나왔다. 지난해 우리나라 폭염일이 30.1일이었던 점을 감안하면 최대 2.6배까지 늘어날 수 있다는 것이다. 이 기간 한반도 연평균 기온은 최대 18.2도로, 현재 역대 최고 기록인 지난해(14.5도)보다 4도 정도 오를 전망이다.&lt;br&gt;&lt;br&gt;환경부와 기상청은 18일 이 같은 내용의 ‘한국 기후위기 평가 보고서 2025’를 발간했다고 밝혔다. 보고서에 따르면, 오는 2081~2100년 한반도의 폭염일 수는 온실가스 감축 수준에 따라 연간 24.2~79.5일로 늘어난다고 한다. 이 기간 열대야일 수는 최소 22.3일에서 최대 68.4일로 증가할 것으로 예상했다. &lt;br&gt;&lt;br&gt;기후 온난화는 이미 진행 중인 것으로 나타났다. 지난해 한반도 연평균 기온은 14.5도로, 기존 최고 기록이었던 13.7도(2023년)를 1년 만에 다시 썼다. 2000년만 해도 12.2도였는데, 20여 년 만에 2도 이상 오른 것이다. 온열 질환자 역시 2020~2023년에는 연평균 1709명 수준이었지만, 지난해에는 2배 이상 증가한 3704명을 기록했다. &lt;br&gt;&lt;br&gt;이뿐만이 아니다. 우리나라 바다 표면 수온은 1968~2023년 사이 1.44도 상승했는데, 이는 같은 기간 세계 평균(0.7도)의 2배 이상이었다. 이 같은 영향으로, 수산업에선 지난해까지 14년간 고수온 3472억원, 저수온 308억원의 누적 피해가 발생했다. 또 우리나라 해수면 상승 속도는 연평균 3.6㎜(1993~2018년)로, 같은 기간 세계 평균(3.4㎜)보다 높았다. &lt;br&gt;&lt;br&gt;보고서는 또 겨울 철새인 민물가마우지가 국내에서 여름철에 관찰되거나, 여름 철새인 중대백로가 겨울철에 출현하는 등 계절과 맞지 않는 조류 출현 현상 역시 기후 위기 때문으로 분석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 9월 19일</title>
