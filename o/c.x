@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김건희 특검, 23일 김상민 전 검사 소환...구속 후 첫 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/20/SKYWSOURVBGUBC56E6QV33MA5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/20/SKYWSOURVBGUBC56E6QV33MA5Y/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 07:31:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UUQ35BFIK7SAQRAFQGXUH2AII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 연루된 '공천 청탁' 의혹의 핵심 인물 김상민 전 부장검사가 17일 서울 서초구 서초동 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 오는 23일 김상민 전 검사를 불러 조사할 예정이다. 김 전 검사가 지난 18일 청탁금지법 위반 혐의로 구속된 이후 이뤄지는 첫 조사다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 특검은 김 전 검사 측에 오는 23일 오전 10시에 소환 통보를 했다. 김 전 검사 측은 이날 예정대로 조사에 출석하겠다는 입장이다. &lt;br&gt;&lt;br&gt;김 전 검사는 2023년 1월 말 이우환 화백의 그림 ‘점으로부터 No.800298’을 1억4000만원에 구매해 김 여사 오빠 김진우씨에게 건네고 지난해 22대 총선 공천 등을 청탁한 혐의(청탁금지법 위반)를 받는다. 김 전 검사는 공천을 받지는 못했으나 총선 후 국가정보원장 법률특별보좌관에 임명됐다. 특검은 지난 12일 김 전 검사의 구속영장을 청구하면서 김 여사를 청탁 대상자로 적시했다. 다만 이에 대해 김 전 검사 측은 “김진우씨 부탁으로 그림을 ‘대리구매’했다”는 입장이다.&lt;br&gt;&lt;br&gt;이밖에도 김 전 검사는 총선 출마를 준비하며 이른바 ‘존버킴’ 박모씨 측으로부터 선거용 차량 리스비를 대납받았다는 혐의(정치자금법 위반)도 받는다.&lt;br&gt;&lt;br&gt;앞서 박정호 서울중앙지법 영장전담 부장판사는 지난 17일 김 전 검사의 영장실질심사를 진행한 뒤 18일 새벽 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“홧김에 그랬다” 방송중인 BJ 흉기로 찌른 30대 유튜버 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/LNQL4X2OU5DWPEUB2SEM2Z4K2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/LNQL4X2OU5DWPEUB2SEM2Z4K2Y/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 06:29:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXMMUAGZFFE6BHRT342H5QOL6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 생방송 중인 30대 남성을 흉기로 찌른 30대 여성 유튜버가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;부천 원미경찰서는 살인미수 혐의로 30대 여성 유튜버 A씨를 긴급체포해 조사 중이라고 20일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오전 2시 50분쯤 경기 부천시 원미구 한 상가 건물 계단에서 인터넷 방송인(BJ) 30대 B씨를 흉기로 여러 차례 찔러 살해하려 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨는 복부와 손 등을 다쳐 병원으로 옮겨졌다. 생명에는 지장이 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;당시 방송에는 범행 장면이 그대로 노출되지 않았으나, A씨가 욕설하는 음성과 흉기에 찔린 B씨가 고통스러워하는 모습 등이 담긴 것으로 파악됐다. &lt;br&gt;&lt;br&gt;범행 직후 A씨는 112에 자수했으며, 경찰은 주거지에서 A씨를 긴급 체포했다. A씨는 경찰 조사에서 “아는 사이인데 홧김에 그랬다”는 취지로 진술했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “구체적인 범행 동기 등을 추가로 조사하고 있다”며 “A씨의 구속영장을 신청할 계획”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 오혜식 별세</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/20/AMT2P2DMRFGQRKOUGA2WBZ5E6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/20/AMT2P2DMRFGQRKOUGA2WBZ5E6I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 06:17:10 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;오혜식&lt;/b&gt; 별세, &lt;b&gt;이원경&lt;/b&gt;·&lt;b&gt;이윤경&lt;/b&gt;·&lt;b&gt;이선경&lt;/b&gt;·&lt;b&gt;이인경&lt;/b&gt; 모친상, &lt;b&gt;변철영&lt;/b&gt;·&lt;b&gt;임로벗&lt;/b&gt; 장모상, &lt;b&gt;윤혜숙&lt;/b&gt;·&lt;b&gt;서유정&lt;/b&gt; 시모상, &lt;b&gt;이종언&lt;/b&gt;·&lt;b&gt;이종찬&lt;/b&gt;·&lt;b&gt;이종호&lt;/b&gt;·&lt;b&gt;이종하&lt;/b&gt;·&lt;b&gt;이유미&lt;/b&gt;·&lt;b&gt;이유나&lt;/b&gt; 조모상, &lt;b&gt;변지훈&lt;/b&gt;·&lt;b&gt;변예훈&lt;/b&gt;·&lt;b&gt;임재희&lt;/b&gt;·&lt;b&gt;임민희&lt;/b&gt; 외조모상=20일 한양대병원(조문은 22일 12시부터), 발인 24일8시, (02)2290-8114&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대통령 살해 협박’… 홧김에 SNS에 글 올린 10대 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/09/20/K74PSWHKQRFPLMKBLPT7EWTEEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/20/K74PSWHKQRFPLMKBLPT7EWTEEI/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 06:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3RRRGTSWMA3IBSM3YKHMZAH5VY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령과 정청래 더불어민주당 대표를 살해하겠다는 내용의 글을 SNS에 올린 10대 청소년이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 김포경찰서는 이 대통령과 정 대표에 대한 협박 글을 사회관계망서비스(SNS) 단체 대화방에 게시한 혐의(협박)로 10대 A군을 검거해 조사 중이라고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지인들과의 인스타그램 단체 대화방에서 ‘이 대통령과 정 대표 중 한 명을 데리고 가겠다’는 취지의 글을 올려 이들을 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 서울경찰청으로부터 공조 요청을 받은 김포경찰서는 이날 김포시의 자택에서 A군의 신원을 특정하고 자진 출석을 요구했다. 부모와 함께 경찰서에 출석한 A군은 조사 과정에서 “단체 대화방에서 지인과 얘기를 나누던 중 홧김에 그랬다”고 진술한 것으로 전해졌다. 경찰은 구체적인 범행 동기를 파악하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘유령 수술’ 근절...정부, 수술 의료진·방법 기록 의무화 </title>
       <link>https://www.chosun.com/national/welfare-medical/2025/09/20/XYV7LWINLZBGXCAGQQSUYM2HAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/20/XYV7LWINLZBGXCAGQQSUYM2HAI/</guid>
@@ -862,15 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N74AJ72EAYUHGC66NQNJFVPZTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배씨 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨 측근으로 알려진 사업가 이모씨가 전씨와의 친분을 내세워 “무죄를 받아주겠다”며 수억원을 가로 챈 정황을 특검이 확보한 것으로 1일 파악됐다. 이씨는 지인들에게 전씨의 인맥을 활용해 재판에서 무죄를 받을 수 있다며 피해자들을 속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검이 최근 국회에 제출한 이씨의 공소장을 살펴보면, 이씨는 지난해 4월 지인 A씨로부터 “친구 B씨가 보석 출소 이후 무죄를 선고 받기 위해 대관 작업 할 사람을 찾는다”는 말에 “대통령 부부나 국민의힘 유력 정치인들, 고위 법조인들과 가까운 전성배 고문님이 계시다”고 말했다. 그러면서 “고문님께 부탁하면 재판에서 무죄를 받아줄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 무죄를 받아주는 대가로 현금을 요구한 것으로 파악됐다. 이씨는 지인에게 “고문님이 대법관 등 고위법관을 통해서 일을 봐주는데 5억원이 필요하고, 무죄가 나오면 돈을 추가로 줘야 한다”며 “돈은 모두 현금으로만 받는다”고 했다. B씨는 지난해 5~6월 사이 이를 승낙한 후 A씨를 통해 1억원씩 네 차례에 걸쳐 총 4억원을 이씨에게 건넨 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이씨는 지난달 18일 공무원의 직무와 관련된 사항에 대한 청탁과 함께 금품을 받아 챙긴 혐의(특정범죄 가중처벌법상 알선수재)로 지난달 18일 구속기소됐다. 특검은 이씨가 수사 무마, 재판 편의 등을 요청하는 이들을 전씨와 연결해주는 ‘브로커’로 활동했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;지난달 29일 서울중앙지법에서 열린 첫 공판준비기일에서 이씨 측 변호인은 “특가법상 알선수재 혐의의 객관적, 주관적 구성 요건을 따져봤을 때 객관적으로 알선 청탁 목적으로 특정해 부탁한 사실 자체가 없고 증거도 없다”며 “이 사건 알선 상대방이 건진 법사인지 대법관인지도 명확하지 않은 상황”이라고 했다. 그러면서 “특검이 기소한 특가법상 알선수재 구성 요건이 충족되지 않아 범죄가 성립하지 않고 고의 및 목적도 인정되기 어려워서 이 사건 혐의를 인정할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>내란 특검, ‘평양 무인기 침투 작전’ 이승오 합참 작전본부장 재소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/O76P4VCZYBFJVPGHGIGHFDXTXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/O76P4VCZYBFJVPGHGIGHFDXTXQ/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 01:21:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXFA35JMBBSNFZZZQLEWRTOLAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이승오 합동참모본부 작전본부장이 지난 1월 14일 오전 서울 여의도 국회에서 열린 윤석열 정부의 비상계엄 선포를 통한 내란 혐의 진상규명 국정조사특별위원회에서 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란·외환 혐의를 수사하는 조은석 내란 특검팀이 ‘평양 무인기 침투 작전’과 관련해 19일 오전 이승오 합동참모본부 작전본부장을 피의자 신분으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 12·3 비상계엄 선포 명분을 쌓기 위해 평양에 무인기를 보내 북한의 도발을 유도했다는 의혹을 수사하면서, 김용현 전 국방부 장관이 해군 출신인 김명수 합참의장을 패싱하고, 이 본부장, 김용대 전 드론작전사령관과 직접 소통했을 가능성을 의심해 왔다.&lt;br&gt;&lt;br&gt;특검은 이 본부장과 윤 전 대통령, 김 전 장관, 김 전 사령관 등 4명이 공모 관계에 있다고 최근 판단한 것으로 알려졌다. 지휘 체계가 ‘윤 전 대통령–김 전 장관–이 본부장–김 전 사령관’으로 이뤄졌다고 보는 것이다.&lt;br&gt;&lt;br&gt;특검은 법리 검토 끝에 이들에게 일반이적 혐의를 적용하기로 결정한 것으로 전해졌다. 지난달 이 본부장을 직권남용 권리행사 방해와 허위 공문서 작성 등 혐의 피의자로 전환하고, 자택과 사무실 등을 압수 수색했다. 압수 수색 영장에는 “지난해 10월 8일, 10회에 걸쳐 북한에 무인기를 침투시켰다”는 내용이 담겼다.&lt;br&gt;&lt;br&gt;조만간 이 본부장 등 4명에 대한 사법 처리 여부가 결정될 것으로 보인다. 특검은 지난 18일 김 전 사령관과 김명수 합참의장을 소환한 데 이어 오는 22일에는 서울동부구치소를 찾아 구속 수감 중인 김 전 장관을 방문 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>강남 초등학교 지하서 불...1000여 명 대피</title>
       <link>https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</guid>
@@ -914,34 +941,6 @@
       <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DG6VUGUB5RAEZPTXQONJIKZDLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
 최교진 교육부 장관이 18일 서울 여의도 국회에서 열린 대정부 질문에서 국회의원들 질문에 답하고 있다. 최 장관은 이날 “(수능·내신을) 절대평가로 전환할 시기가 됐다는 데에 대체로 공감했다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최교진 교육부 장관이 취임 후 첫 정책 발표인 ‘고교 학점제 개선 방안’을 하루 전날 취소했다. 같은 날 국회에선 “수능·내신 절대평가 전환에 공감한다. 교육부가 중심이 돼서 최대한 준비하겠다”고 밝혀 학생·학부모들을 술렁이게 했다. 교육계에선 “교육부 장관이 취임 직후부터 민감하고 파급력 큰 교육 정책에 대해 섣부른 행보를 보인다”는 비판의 목소리가 나오고 있다. &lt;br&gt;&lt;br&gt;18일 오전 교육부는 다음 날로 예정된 ‘고교 학점제 개선안’ 발표를 갑자기 미뤘다. 교육부는 이날 출입 기자단에 “국가교육위원회(국교위) 등과 충분한 협의가 필요해 발표를 연기한다”고 공지했다. 고교 학점제는 학생이 원하는 과목을 선택하고, 정해진 학점을 이수해 졸업하는 제도로 올해부터 전국 고1을 대상으로 시행됐다. 하지만 내신 경쟁 과열로 고1 학생들의 자퇴가 잇따르고, 교사들의 업무가 늘어나자 전교조 등 교원 단체들이 잇따라 폐지를 촉구해 왔다. 교육계에선 고교 학점제가 어떻게 개선될지가 최대 관심사였다. 최 장관은 첫 공식 외부 일정으로 지난 15일 충남 금산여고를 방문해 학생·교사로부터 고교 학점제 관련 의견을 들었고, 16일엔 시·도교육감들을 만나 제도 개선 방안을 논의했다. &lt;br&gt;&lt;br&gt;그러던 최 장관이 갑자기 발표를 취소한 것은 국교위의 반발 때문으로 알려졌다. 국교위는 중장기 교육 정책 수립을 목적으로 2022년 설립된 대통령 직속 기구로, 지난 15일 신임 차정인 위원장이 취임한 상태다. 교육부는 지난 수개월간 국교위와 고교 학점제 개선안을 논의해 왔는데, 차 신임 위원장 취임 이후엔 별다른 협의를 못 했다고 한다. 교육부는 법에 따라 대학 입시, 교육과정 등 굵직한 교육 정책을 만들 땐 국교위와 협의해야 한다. 교육계에선 “교육부와 국교위가 시작부터 엇박자를 내는 것 아니냐”는 지적이 나왔다. &lt;br&gt;&lt;br&gt;같은 날 오후, 최 장관은 국회 대정부 질문에서 ‘수능·내신 절대평가 전환’에 대해 긍정적 입장을 밝혔다.&lt;b&gt; &lt;/b&gt;그는 수능과 내신의 절대평가 전환을 어떻게 생각하는지 묻는 강득구 더불어민주당 의원의 질문에 “시·도교육감들과 협의하면서 대입 제도 개선이 필요함과 동시에 절대평가로 전환할 시기가 됐다는 데에 대체로 공감했다”며 “대입 제도를 전환할 때는 국민적 숙의·합의 과정이 매우 필요하다. 국교위와 함께 최대한 의제화해서 다음 대입 개편 때까지는 준비하도록 하겠다”고 말했다. &lt;br&gt;&lt;br&gt;최 장관의 발언에 대해 입시 업계와 학부모 사이에선 “이재명 정부가 수능과 내신을 모두 절대평가로 전환하기로 정한 것 아니냐”는 반응이 나왔다. 올해 고1이 치르는 2028학년도 대입 개편​안은 이미 확정됐고, 입시 정책은 4년 예고제를 적용하고 있기 때문에 최 장관이 말한 ‘다음 대입 개편’은 현재 초등학교 6학년이 고3이 되는 2032학년도 입시로 해석됐다. 한 입시 전문가는 최 장관 발언 직후 소셜미디어에 “대학 입시가 또다시 혼란에 빠지는 게 아닌가 싶다”면서 “문재인 정부 초대 김상곤 교육부 장관이 수능을 절대평가로 전환하겠다고 1년간 전국 공청회를 했지만, 결국 일부만 절대평가로 변경한 게 기억난다”고 썼다.&lt;br&gt;&lt;br&gt;수능·내신 절대평가는 세종교육감을 지낸 최 장관을 포함해 시·도교육감들이 줄곧 주장하던 내용이다. 학생들이 고교 학점제에서 성적 걱정 없이 원하는 수업을 선택할 수 있도록 내신과 수능을 모두 절대평가로 바꿔야 한다는 것이다. 이렇게 되면 학생 변별이 어려워 대학들이 자체 시험을 강화할 수 있고 학생들은 바뀐 입시 제도에서 큰 혼란을 겪을 것이란 우려도 있다. &lt;br&gt;&lt;br&gt;교육부 측은 이날 최 장관 발언에 대해 “장관 개인의 입장을 밝힌 것으로, 아직 정부 차원에서 검토하거나 정책 추진 일정이 정해진 것은 아니다”라며 진화에 나섰다. 하지만 교육계에선 “교육부 장관이 대학 입시에 대한 입장을 섣불리 발언해 혼란을 주고 있다”는 비판이 나왔다. 한 서울 사립대 교수는 “교육감은 대학 입시 결정 권한이 없고 정부에 입장을 전달하는 데 그치지만, 정부 정책을 직접 수립·집행하는 교육부 장관의 발언은 파급력이 막강한 만큼 더욱 신중해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;최 장관이 정책 발표를 돌연 취소하고, 대입에 민감한 발언을 하는 것은 교육 정책에 신중한 모습을 보인 이재명 대통령과 상반된다. 이 대통령은 최근 취임 100일 기자회견에서 “입시 정책은 바꾸면 바꿔서 난리, 안 바꾸면 안 바꿔서 난리가 난다”며 “교육 문제는 잘못 건드리면 이념 투쟁의 장으로 변질되기도 해 의도적으로 전면에 얘기를 안 한 측면이 있다”고 했다. 그러면서 “(입시는) 국교위가 정상화되면 거기서 논의하면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민생쿠폰 지급하려 비상금 쓰는 서울 자치구들</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/19/QP32XMVY2FCHRAWZQNRXSNOPAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/QP32XMVY2FCHRAWZQNRXSNOPAY/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울 노원구는 ‘민생 회복 소비 쿠폰’ 2차 지급을 앞두고 최근 머리를 싸맸다. 노원구가 구민들에게 소비 쿠폰을 지급하기 위해 마련해야 할 돈은 약 129억원. 그러나 노원구는 서울 25자치구 가운데 재정 자립도가 최하위권으로, 예비비마저 7억원으로 거의 동난 상태다. 결국 고심 끝에 부동산 매매 대금을 끌어다 쓰기로 했다. 광운대 역세권 개발 사업 추진 과정에서 구유지를 팔아 남긴 148억원 가운데 49억원을 떼오고, 상계2구역 주택 재개발 사업에서 얻은 수입을 보태 소비 쿠폰 예산을 마련하기로 한 것이다. 노원구 관계자는 “급하니까 일단 끌어오긴 했는데, 땅 판 돈을 이렇게 쓰는 게 맞는지 모르겠다”고 했다. &lt;br&gt;&lt;br&gt;소비 쿠폰 2차 지급을 앞두고 서울 자치구들이 재원 조달에 골머리를 앓고 있다. 끌어 쓸 돈이 없는 자치구가 대부분인데, 당장 22일부터 구민들에게 2차 소비 쿠폰이 지급되기 때문이다. 이에 25구 가운데 23구가 최근 추가경정예산을 편성해 구의회 심의 절차를 밟았다. 자치구들은 “서울이라고 해서 곳간 사정이 넉넉한 게 아닌데, 당장 예산을 마련하려니 갑갑하다”고 입을 모았다.&lt;br&gt;&lt;br&gt;다른 지방자치단체는 소비 쿠폰 사업비의 10%를 부담하지만, 재정 자립도가 높은 서울은 25%를 부담해야 한다. 이에 따라 서울시 자치구가 마련해야 할 돈은 총 2200억원가량으로 추산된다.&lt;br&gt;&lt;br&gt;올해 재정 자립도가 15.7%에 불과한 은평구는 소비 쿠폰 예산 111억원을 마련하기 위해서 각 부서 인건비를 조금씩 떼어내는 방안까지 검토하고 있다. 은평구 관계자는 “야간·주말 근무 수당이 추가로 나갈 것에 대비해 인건비를 살짝 여유 있게 책정해두는데, 일단 이것부터 줄여볼까 한다”며 “구청에서 추진하는 사업비도 다 조금씩 줄여서 마른 수건을 짜내는 중”이라고 했다.&lt;br&gt;&lt;br&gt;전체 자치구의 56%인 14구는 ‘통합 재정 안정화 기금’을 헐어다 쓰기로 했다. 이 기금은 원래 재난 대응 등에 쓰기 위해 수년간 적립해두는 일종의 ‘비상금’이다. 한 자치구 관계자는 “일단 돈을 무조건 대야 하니까 쉽게 뽑아 쓸 수 있는 기금을 건드리는 것”이라고 했다. 이와 관련, 오세훈 서울시장은 지난달 29일 서울시의회 시정 질문에서 “집권 초 선심성 정책을 위해 재난 관리 기금을 우회 통로로 쓰는 게 맞느냐”고 했다. 서울시도 소비 쿠폰 사업비 3500억원을 충당하기 위해 지방채를 발행한다. &lt;br&gt;&lt;br&gt;상대적으로 예산이 넉넉한 자치구도 있다. 송파구와 용산구는 63억원, 48억원을 각각 예비비로 충당했다. 재정 자립도가 54.8%로 최상위권인 강남구는 올해 더 걷힌 재산세로 140억원을 확보할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>적조·고수온에 산소 부족… 추석 앞두고 애타는 남해</title>
-      <link>https://www.chosun.com/national/2025/09/19/CBBN63LTLBFUHO2SWSNJLP3GTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/19/CBBN63LTLBFUHO2SWSNJLP3GTU/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBG5MW2KKFGPRCWZT54LD3HJBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김준호 기자
-경남 남해군 미조면의 한 양식장에서 적조로 폐사한 참돔. 450㎏짜리 고무통에 가득 담겨 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 16일 오전 경남 남해 미조면 앞바다의 한 참돔 양식장. 어민들이 물 위로 배를 드러낸 채 둥둥 떠오른 참돔을 뜰채로 쉴 새 없이 퍼 올렸다. ‘붉은 재앙’이라 불리는 적조가 6년 만에 남해 앞바다에 확산하면서 물고기들이 죄다 질식사한 것이다. 물고기 450~470kg이 담기는 고무 대야 수십 통이 금세 가득 찼다. 추석 대목에 출하하려고 3년간 키운 참돔들이 떼로 죽어나가는 모습에 어민들의 얼굴이 잿빛이 됐다. &lt;br&gt;&lt;br&gt;전국에 수산물을 공급하는 경남 남해안이 어패류(魚貝類) 집단 폐사로 신음하고 있다. 지난달부터 적조 현상이 이어지고 있는 데다가, 최근에는 산소 농도가 지나치게 낮은 물 덩어리 ‘빈산소수괴’까지 퍼지면서 양식 어류와 가리비, 굴 등 패류까지 모두 죽어나가고 있는 탓이다. 한여름 폭염에도 그나마 잠잠했던 고수온 피해도 뒤늦게 나타나고 있다. 최악의 ‘삼중고’에 어민들은 “지옥이 따로 없다”고 입을 모은다.&lt;br&gt;&lt;br&gt;경남은 우리나라 가두리 양식장 약 83만㎡의 절반 이상인 42만㎡가 밀집해있다. 고성 앞바다에선 우리나라 가리비 약 70%, 창원에선 홍합 50% 이상이 난다. 그런데 지난 15일까지 고성·창원 일대 패류 양식장 약 220ha에서 폐사 신고가 접수됐다. 누적 피해액은 45억원 규모로 추산된다. 10월부터 수확철인 가리비의 경우, 현재 통발 속 대부분 빈 껍데기만 남아 있고 알맹이는 찾아볼 수 없다고 한다. 빈산소수괴가 바다에 퍼지면서 산소를 마시지 못한 가리비가 다 죽은 것이다. 빈산소수괴는 해수가 잘 순환되지 않는 지역에 비가 많이 내리고 해수 온도가 올라갔을 때 주로 발생한다. 고성 가리비 자율공동체의 공종열 위원장은 “추석과 11월 김장철만 기다렸는데, 이게 무슨 청천벽력인지 모르겠다”며 “10월부터 내년 4월까지 수확을 하는데, 이러다 빚만 지고 내년엔 양식도 못할 판”이라고 했다.&lt;br&gt;&lt;br&gt;지난 8일 통영 욕지도 가두리 양식장에선 “물고기 304만여 마리가 고수온 때문에 폐사했다”는 신고가 접수됐다. 올해 첫 고수온 신고다. 지난달 초 욕지도 주변 해수 온도는 29도까지 치솟았다. 어민들은 그동안 폐사한 물고기를 냉동고에 보관했다가 한 번에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;적조 피해도 늘고 있다. 17일 오후 기준 남해·하동·거제·통영·사천·고성 등 6개 시군에서 참돔·숭어·방어·조피볼락(우럭) 등 양식 어류 총 281만3808마리가 폐사한 것으로 집계됐다. 전체 피해액은 59억5500여 만원으로 추산된다. &lt;br&gt;&lt;br&gt;박태규 국립수산과학원 해양수산연구사는 “적조, 빈산소수괴, 고수온 피해가 동시에 발생한 것은 정말 이례적인 일”이라며 “이상 기후 여파로 이달까지는 이런 현상이 반복될 것으로 추정된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 9월 19일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/19/G7TYG6PG4FDE3A657FWIDROFQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/19/G7TYG6PG4FDE3A657FWIDROFQA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFI4XONZO5GT5PY65PDMSJ2QSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[기자의 시각] 자살률 탈꼴찌가 목표인 나라</title>
