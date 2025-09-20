@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘유령 수술’ 근절...정부, 수술 의료진·방법 기록 의무화 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/20/XYV7LWINLZBGXCAGQQSUYM2HAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/20/XYV7LWINLZBGXCAGQQSUYM2HAI/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 04:21:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DI7RCJPOCHDXAACTR7JBXCAAK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부 정부세종청사 전경./보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수술에 참여한 의료인과 수술 방법, 내용을 의무적으로 기록으로 남기게 하는 방안을 추진한다.&lt;br&gt;&lt;br&gt;보건복지부는 최근 이러한 내용을 담은 의료법 시행규칙 일부개정령안을 입법 예고했다. 이에 따르면 수술에 참여한 의료인의 이름과 그 역할, 수술 일시·방법·내용·시간·경과 등을 반드시 남겨야 한다. &lt;br&gt;&lt;br&gt;수술실 보안카메라 설치 의무화 등에도 유령·대리 수술이 지속해서 발생하고 있기 때문이다. 의료계에 따르면 최근 간담회에서 대한의사협회, 대한병원협회 등 이해관계자들도 개정안의 취지에 동의한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;복지부는 이와 함께 의료인이 아닌 이에게 수술 등 의료행위를 시켰을 때 처분을 강화하는 내용의 의료관계 행정처분 규칙 일부개정령안도 입법 예고했다. 이에 따르면 무면허 의료행위를 교사한 의료인 자격정지 기간은 현행 3개월에서 6개월로 늘어난다. 무면허 의료행위를 한 자가 스스로 신고한 경우엔 행정처분을 줄여준다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>400원 짜리 초코파이 훔쳤다가 실직 위기 40대…“변호사비만 1000만원 썼다”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/19/JNJAOPZIFZCZFEFY2GVH7ULWIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/JNJAOPZIFZCZFEFY2GVH7ULWIE/</guid>
@@ -914,16 +923,6 @@
       <description/>
       <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
       <content:encoded>서울 노원구는 ‘민생 회복 소비 쿠폰’ 2차 지급을 앞두고 최근 머리를 싸맸다. 노원구가 구민들에게 소비 쿠폰을 지급하기 위해 마련해야 할 돈은 약 129억원. 그러나 노원구는 서울 25자치구 가운데 재정 자립도가 최하위권으로, 예비비마저 7억원으로 거의 동난 상태다. 결국 고심 끝에 부동산 매매 대금을 끌어다 쓰기로 했다. 광운대 역세권 개발 사업 추진 과정에서 구유지를 팔아 남긴 148억원 가운데 49억원을 떼오고, 상계2구역 주택 재개발 사업에서 얻은 수입을 보태 소비 쿠폰 예산을 마련하기로 한 것이다. 노원구 관계자는 “급하니까 일단 끌어오긴 했는데, 땅 판 돈을 이렇게 쓰는 게 맞는지 모르겠다”고 했다. &lt;br&gt;&lt;br&gt;소비 쿠폰 2차 지급을 앞두고 서울 자치구들이 재원 조달에 골머리를 앓고 있다. 끌어 쓸 돈이 없는 자치구가 대부분인데, 당장 22일부터 구민들에게 2차 소비 쿠폰이 지급되기 때문이다. 이에 25구 가운데 23구가 최근 추가경정예산을 편성해 구의회 심의 절차를 밟았다. 자치구들은 “서울이라고 해서 곳간 사정이 넉넉한 게 아닌데, 당장 예산을 마련하려니 갑갑하다”고 입을 모았다.&lt;br&gt;&lt;br&gt;다른 지방자치단체는 소비 쿠폰 사업비의 10%를 부담하지만, 재정 자립도가 높은 서울은 25%를 부담해야 한다. 이에 따라 서울시 자치구가 마련해야 할 돈은 총 2200억원가량으로 추산된다.&lt;br&gt;&lt;br&gt;올해 재정 자립도가 15.7%에 불과한 은평구는 소비 쿠폰 예산 111억원을 마련하기 위해서 각 부서 인건비를 조금씩 떼어내는 방안까지 검토하고 있다. 은평구 관계자는 “야간·주말 근무 수당이 추가로 나갈 것에 대비해 인건비를 살짝 여유 있게 책정해두는데, 일단 이것부터 줄여볼까 한다”며 “구청에서 추진하는 사업비도 다 조금씩 줄여서 마른 수건을 짜내는 중”이라고 했다.&lt;br&gt;&lt;br&gt;전체 자치구의 56%인 14구는 ‘통합 재정 안정화 기금’을 헐어다 쓰기로 했다. 이 기금은 원래 재난 대응 등에 쓰기 위해 수년간 적립해두는 일종의 ‘비상금’이다. 한 자치구 관계자는 “일단 돈을 무조건 대야 하니까 쉽게 뽑아 쓸 수 있는 기금을 건드리는 것”이라고 했다. 이와 관련, 오세훈 서울시장은 지난달 29일 서울시의회 시정 질문에서 “집권 초 선심성 정책을 위해 재난 관리 기금을 우회 통로로 쓰는 게 맞느냐”고 했다. 서울시도 소비 쿠폰 사업비 3500억원을 충당하기 위해 지방채를 발행한다. &lt;br&gt;&lt;br&gt;상대적으로 예산이 넉넉한 자치구도 있다. 송파구와 용산구는 63억원, 48억원을 각각 예비비로 충당했다. 재정 자립도가 54.8%로 최상위권인 강남구는 올해 더 걷힌 재산세로 140억원을 확보할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[핫코너] 건대 앞 명물 ‘타로 거리’ 기습 철거에 노점상들 반발</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/19/MGZZDH7PLRGITL6YNHUPTQ7D4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/MGZZDH7PLRGITL6YNHUPTQ7D4I/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFX3N7HCERA3VPCLYHN4CGO3HY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 강지은 기자
-서울 광진구 건대입구역 2번 출구 앞에 설치된 안전 펜스. 광진구가 이곳에 있던 ‘타로 노점’을 철거한 뒤 설치했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오후 서울 광진구 건대입구역 2번 출구. 인도 한쪽에 파란색 안전 펜스가 100m 넘게 쳐져 있었다. 2주 전까지만 해도 타로 점을 봐주는 노점 컨테이너들이 늘어서 있던 곳이지만, 이날 펜스 위로 ‘불법 가게 집중 정비 지역’이란 현수막이 붙었다. 앞서 지난 8일 새벽 광진구(구청장 김경호)는 컨테이너들이 허가받지 않은 불법 노점이라며 상당수를 철거했다. 이에 상인들은 거리 한쪽에 천막을 치고 농성을 벌이고 있다.&lt;br&gt;&lt;br&gt;‘타로 거리’는 2000년대 초부터 건대입구역 주변에 사주나 타로를 보는 노점들이 모여들기 시작하면서 조성됐다. 방송에도 등장해 점을 보기 위한 긴 줄이 늘어설 정도로 인기를 끌면서 길거리 음식을 파는 노점도 함께 들어섰다.&lt;br&gt;&lt;br&gt;그런데 이 노점들이 인도 폭의 절반 이상을 차지한 탓에 ‘길이 비좁다’ ‘냄새가 심하다’는 민원이 쏟아졌다. 게다가 노점 대부분이 영업허가도 받지 않았다. 광진구는 “대리 운영 정황이 적발돼 허가가 취소된 곳도 있다”고 했다.&lt;br&gt;&lt;br&gt;상인들은 납득하기 어렵다고 반발한다. 노점 상인들에게 예고도 하지 않았던 데다가 해가 뜨지 않은 새벽에 철거를 진행해 과도하다는 것이다. 상인 A씨는 “2010년 박스를 설치해 노점을 운영하기로 구청과 합의했다”고 했다. 그러나 구는 “거리 정비 차원에서 박스라도 세워서 장사를 하라고 했던 것”이라며 “노점 운영을 허가했던 것이 아니다”라고 했다. 또 “도로법에 따라 허가를 받지 않고 반복적으로 도로를 점용하거나, 통행·안전을 확보하기 위해 신속한 조치가 필요하면 예고 절차를 거치지 않아도 된다”고 했다.&lt;br&gt;&lt;br&gt;상인 일부는 다시 가판대 등을 세우고 영업을 하겠다는 입장이다. 반면 구 관계자는 “정식 절차를 따라 남은 노점도 조만간 철거할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>적조·고수온에 산소 부족… 추석 앞두고 애타는 남해</title>
