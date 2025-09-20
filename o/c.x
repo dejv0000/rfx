@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>강남서 대낮 음주운전, 5중 추돌로 임산부 다쳐... 30대 여성 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/20/CPIDMFIFPFADREJJIHZ7QWLM7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/CPIDMFIFPFADREJJIHZ7QWLM7E/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Sep 2025 08:26:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7E7LZNFEKJGYHOMTN6VRLF4454.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 신사동 도산공원 사거리 인근 도로에서 음주 운전 차량으로 5중 추돌 사고가 발생했다./서울시 교통정보시스템(TOPIS)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 대낮에 음주 운전을 해 승용차 5대가 추돌하며 임산부 등이 다치는 사고가 발생했다. 음주 운전을 한 30대 여성은 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 도로교통법 위반(음주운전) 등의 혐의로 30대 여성 A씨를 현행범 체포했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 10시 32분쯤 서울 강남구 신사동 도산공원 사거리 인근 도로에서 술에 취한 상태로 차를 몰다가 앞 차량을 들이받아 5중 추돌 사고를 낸 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨의 혈중알코올농도는 면허 취소 수준(0.08% 이상)이었던 것으로 조사됐다. 이 사고로 임산부 등이 다쳤다.&lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 자세한 사건 경위를 파악하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김건희 특검, 23일 김상민 전 검사 소환...구속 후 첫 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/09/20/SKYWSOURVBGUBC56E6QV33MA5Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/20/SKYWSOURVBGUBC56E6QV33MA5Y/</guid>
@@ -887,15 +896,6 @@
       <description/>
       <pubDate>Fri, 19 Sep 2025 01:35:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIYPBMZG35FZ3DKNBUWTDYHPCU.png"&gt;&lt;figcaption&gt;&lt;small&gt;대법원이 오는 22~23일 서울 장충동 신라호텔에서 ‘세종 국제 콘퍼런스’를 개최한다. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 사법부 국제 교류와 협력을 강화하기 위해 9년 만에 ‘세종 국제 컨퍼런스’를 연다. 싱가포르와 필리핀 대법원장을 비롯한 세계 각국 최고법원 수장이 세종대왕의 법치주의 정신을 공유하고, 사법 독립과 공정한 사법권 행사의 의미에 대해 논의하는 자리다.&lt;br&gt;&lt;br&gt;대법원은 오는 22~23일 서울 장충동 신라호텔에서 ‘세종 국제 콘퍼런스’를 개최한다고 19일 밝혔다. 싱가포르·일본·중국·필리핀·호주·그리스·이탈리아 등 10여 개 국가의 대법원장과 대법관, 국제형사재판소(ICC)의 전·현직 소장과 재판관 등이 참석한다.&lt;br&gt;&lt;br&gt;이번 콘퍼런스의 핵심은 세종대왕의 법치주의 정신을 조명하는 것이다. 조희대 대법원장은 첫날 개회사에서 600년 전 백성들의 사법 접근성 강화를 위해 훈민정음을 창제했던 세종대왕의 업적을 강조할 예정이다. 조 대법원장은 평소 세종대왕의 법철학에 깊은 관심을 가져온 것으로 전해졌다. 대법원은 “민본사상과 애민정신에 기초해 정의롭고 공정한 사법을 구현한 세종대왕의 법사상을 세계와 공유할 것”이라고 했다.&lt;br&gt;&lt;br&gt;첫날 주요 세션에서는 ‘법치주의 수호’와 ‘사법 독립’을 위한 국제형사재판소와 각국 대법원의 노력과 역할에 대해 논의한다. 시민들에 대한 사법 접근성 향상과 사회적 약자 보호 등도 다룬다. 둘째 날은 AI와 사법의 관계, 지식재산권 보호를 위한 사법의 역할 등 미래 사법 과제가 주된 주제다. &lt;br&gt;&lt;br&gt;콘퍼런스 종료 이후에는 일본과 중국, 호주 대법관들이 대법원 및 각급 법원을 찾아 교류한다. 경기도 성남의 대법원 전산정보센터에도 몽골 등 주요 인사들이 방문할 예정이다.&lt;br&gt;&lt;br&gt;대법원 관계자는 “이번 행사를 시작으로 국제 교류·협력을 강화해 국제적 차원에서 법치주의와 정의 실현에 기여하고, 내년 9월 국내에서 개최되는 ‘아시아·태평양 대법원장 회의’도 준비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘건진 법사’ 측근 브로커, “고문님 재판 무죄 가능하다” 금품 사기</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/01/HZZTPCPTEJEEZELNNLGC4YQBIE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Sep 2025 04:51:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N74AJ72EAYUHGC66NQNJFVPZTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 친분을 이용해 각종 청탁을 받은 의혹이 제기된 건진법사 전성배씨 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨 측근으로 알려진 사업가 이모씨가 전씨와의 친분을 내세워 “무죄를 받아주겠다”며 수억원을 가로 챈 정황을 특검이 확보한 것으로 1일 파악됐다. 이씨는 지인들에게 전씨의 인맥을 활용해 재판에서 무죄를 받을 수 있다며 피해자들을 속인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검이 최근 국회에 제출한 이씨의 공소장을 살펴보면, 이씨는 지난해 4월 지인 A씨로부터 “친구 B씨가 보석 출소 이후 무죄를 선고 받기 위해 대관 작업 할 사람을 찾는다”는 말에 “대통령 부부나 국민의힘 유력 정치인들, 고위 법조인들과 가까운 전성배 고문님이 계시다”고 말했다. 그러면서 “고문님께 부탁하면 재판에서 무죄를 받아줄 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 무죄를 받아주는 대가로 현금을 요구한 것으로 파악됐다. 이씨는 지인에게 “고문님이 대법관 등 고위법관을 통해서 일을 봐주는데 5억원이 필요하고, 무죄가 나오면 돈을 추가로 줘야 한다”며 “돈은 모두 현금으로만 받는다”고 했다. B씨는 지난해 5~6월 사이 이를 승낙한 후 A씨를 통해 1억원씩 네 차례에 걸쳐 총 4억원을 이씨에게 건넨 것으로 확인됐다. &lt;br&gt;&lt;br&gt;이씨는 지난달 18일 공무원의 직무와 관련된 사항에 대한 청탁과 함께 금품을 받아 챙긴 혐의(특정범죄 가중처벌법상 알선수재)로 지난달 18일 구속기소됐다. 특검은 이씨가 수사 무마, 재판 편의 등을 요청하는 이들을 전씨와 연결해주는 ‘브로커’로 활동했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;지난달 29일 서울중앙지법에서 열린 첫 공판준비기일에서 이씨 측 변호인은 “특가법상 알선수재 혐의의 객관적, 주관적 구성 요건을 따져봤을 때 객관적으로 알선 청탁 목적으로 특정해 부탁한 사실 자체가 없고 증거도 없다”며 “이 사건 알선 상대방이 건진 법사인지 대법관인지도 명확하지 않은 상황”이라고 했다. 그러면서 “특검이 기소한 특가법상 알선수재 구성 요건이 충족되지 않아 범죄가 성립하지 않고 고의 및 목적도 인정되기 어려워서 이 사건 혐의를 인정할 수 없다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>강남 초등학교 지하서 불...1000여 명 대피</title>
