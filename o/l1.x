@@ -6,6 +6,25 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 내란 특검, 윤석열 전 대통령 24일 소환 통보</title>
+			<description>&lt;p style="text-align: start;"&gt;   &lt;br style="text-align: center;" /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211650.jpg" alt="lawtimes.jpg" /&gt;&lt;br style="text-align: center;" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sat, 20 Sep 2025 00:24:55 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211650</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211650</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211650.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 9월 20일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:30 사랑의 친구들 바자회(이화여고 유관순기념관)&lt;br /&gt;&lt;br /&gt;15:00 파주시 기업박람회 개막식(임진각 광장 주차장)&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 19 Sep 2025 22:37:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211644</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211644</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>내란전담재판부 '위헌' 논란 지속 과거 사례 보니</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211618.jpg" alt="4623.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;9월 19일 국회 법제사법위원회 법안심사제1소위원회 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;더불어민주당이 발의한 ‘내란·국정농단 전담재판부’ 설치 법안을 두고 위헌 논란이 계속되고 있다. 국회가 법관추천위원회에 참여하는 조항이 빠졌지만, 법무부가 대신 들어가면서 사법부 독립 침해 소지가 가시지 않고 있기 때문. 게다가 과거 특별재판부들은 대체로 헌법에 명시적 근거를 뒀던 것과 달리 이번 법안은 그렇지 않다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;국회입법조사처가&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25269"&gt;천하람&lt;/span&gt;(변호사시험 1회) 개혁신당 의원실에 제출한 자료에 따르면, 헌정사상 특별재판부와 같은 사법기관이 설치된 전례는 모두 세 차례였다: ①1948년 반민족행위처벌 특별재판부 ②1960년 부정선거 관련자 특별재판소 ③1961년 5·16 혁명재판소.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1948년 제헌헌법 제101조는 ‘제헌국회는 해방 전의 악질적인 반민족 행위를 처벌하는 특별법을 제정할 수 있다’고 규정했다. 이에 따라 대법원 내 반민족행위처벌 특별재판부가 설치됐다. 반민족행위처벌법을 근거로 단심제로 운영됐고, 국회 선출 인사가 재판관을 맡아 법률가가 아니어도 임명될 수 있었다. 이 재판부는 1949년 8월까지 총 41명을 심판해 15명에게 실형을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;1960년 제2공화국은 제4차 개헌 부칙에 특별재판소 설치 근거를 명시했다. 부칙은 ‘부정선거 관련자를 처벌하기 위해 특별재판소를 둘 수 있다’고 규정했다. 이에 따라 특별재판소 및 특별검찰부 조직법이 제정됐다. 소장은 민의원이 선출하고 재판관은 소장이 임명했다. 판사뿐 아니라 4월 혁명 단체 대표, 변호사, 대학 교수, 언론인 등도 재판관으로 참여했다. 모든 사건은 기소 또는 재심 청구일부터 3개월 내 심판하도록 했다. 그러나 1961년 5·16 군사 정변으로 재판은 중단됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;5·16 쿠데타 직후 군사정부는 국가재건비상조치법에 따라 혁명재판소를 설치했다. 반국가·반혁명 행위를 처벌한다는 명분이었다. 재판장은 현역 장교가 맡았다. 혁명재판소는 설치 당시 헌법적 근거가 없었다. 다만 1962년 개헌 헌법에서 부칙에 국가재건비상조치법 등에 의해 행해진 재판의 효력이 지속된다는 내용을 사후 규정해 문제가 됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="25269"&gt;천하람&amp;nbsp;&lt;/span&gt;의원은 “60~70년 전 추진됐던 특별재판부마저 헌법상 삼권 분립을 지키고자 헌법에 명문의 규정을 뒀다”며 “지금 대한민국 민주주의 수준은 과거보다 훨씬 진보했음에도 우리 국회가 70년 전보다 퇴보한다는 게 말이 되는가”라고 했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 19 Sep 2025 20:07:01 -0000</pubDate>
@@ -107,7 +126,7 @@
 		</item>
 		<item>
 			<title>내란·국정농단 전담재판부 '소수 의견 공개' 의무화 논란…대법 "정치권·여론 압박 우려"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211639.jpg" alt="35222.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조희대 대법원장을 비롯한 대법관들이 9월 18일 서울 서초구 대법원에서 열린 전원합의체에서 자리하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;더불어민주당이 3대 특검(내란·김건희·순직해병) 사건을 전담하는 '내란·국정농단 전담재판부' 설치 법안을 발의하면서 포함한 전담재판부 판사들의 소수 의견 표시를 의무화하는 조항을 두고 논란이 일고 있다. 재판의 독립성을 침해할 수 있다는 지적이다.&lt;br /&gt;&lt;br /&gt;민주당이 지난 9월 18일 발의한 해당 법안에는 '전담재판부의 판결문에는 합의에 관여한 모든 판사의 의견을 표시해야 한다'는 규정이 담겼다. 이는 앞서 논란이 됐던 '내란 특별재판부' 설치 법안에도 동일하게 들어 있던 내용으로, 판사 개개인에게 유·무죄 등 핵심 쟁점에 관한 의견을 반드시 밝히도록 강제한 것이다.&lt;br /&gt;&lt;br /&gt;대법원 법원행정처는 이에 대해 부정적인 입장을 내놨다. 법원행정처가 송석준 국민의힘 의원실에 제출한 의견서에 따르면 "소수의견 표시를 의무로 하는 경우 정치권·여론의 압박에 따른 부담 등으로 인해 충실한 합의가 저해될 우려가 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;법원행정처는 특히 "정치적으로 민감한 형사사건인 대상 사건에 대해 3인 재판부에서 표시 의무를 강제하는 것은 판사들에게 큰 심리적 부담을 야기하고 재판의 정치적 독립성에 부정적인 영향을 끼칠 소지가 있다"고 지적했다. &lt;br /&gt;&lt;br /&gt;또한 "판사들이 소수의견 표시를 주저하게 돼 논리의 경쟁과 설득에 기초한 충실한 합의가 아니라 소수의견 표시를 하지 않아도 될 정도의 타협적 결론에 이를 가능성도 배제하기 어렵다"고 했다.&lt;br /&gt;&lt;br /&gt;그러면서 "다수 대법관·헌법재판관이 합의·평의에 관여하는 대법원이나 헌법재판소 재판에서 소수의견의 표시를 의무화하는 것과 달리, 3인 재판부에서는 재판부에서 그 표시 여부를 선택할 수 있도록 정하는 방안이 합의의 충실성, 재판의 정치적 독립성 보장 등 관점에서 유리할 수 있다"며 대안을 제시했다.&lt;br /&gt;&lt;br /&gt;다만 법원행정처는 법원조직법 제65조의 '심판의 합의는 공개하지 않는다'는 조항을 들어 "합의 비밀의 원칙에 대한 예외로서 소수의견을 표시하도록 정할지 여부는 기본적으로 소수의견 표시의 강점과 약점을 합리적으로 고려하여 입법 정책적으로 결정할 사항"이라고 덧붙였다.</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;div class="cheditor-caption-wrapper"&gt;      &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;         &lt;img src="https://image.lawtimes.co.kr/thumb/180/211639.jpg" alt="2222.jpg" /&gt;         &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;더불어민주당 3대특검 종합대응 특별위원회 이성윤 의원 등이 9월 18일 서울 여의도 국회 의안과에 '윤석열·김건희 등의 국정농단 사건 진상규명을 위한 전담재판부 설치에 관한 법률안'을 제출하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;/div&gt;더불어민주당이 3대 특검(내란·김건희·순직해병) 사건을 전담하는 '내란·국정농단 전담재판부' 설치 법안을 발의하면서 포함한 전담재판부 판사들의 소수 의견 표시를 의무화하는 조항을 두고 논란이 일고 있다. 재판의 독립성을 침해할 수 있다는 지적이다.&lt;br /&gt;&lt;br /&gt;민주당이 지난 9월 18일 발의한 해당 법안에는 '전담재판부의 판결문에는 합의에 관여한 모든 판사의 의견을 표시해야 한다'는 규정이 담겼다. 이는 앞서 논란이 됐던 '내란 특별재판부' 설치 법안에도 동일하게 들어 있던 내용으로, 판사 개개인에게 유·무죄 등 핵심 쟁점에 관한 의견을 반드시 밝히도록 강제한 것이다.&lt;br /&gt;&lt;br /&gt;대법원 법원행정처는 이에 대해 부정적인 입장을 내놨다. 법원행정처가 송석준 국민의힘 의원실에 제출한 의견서에 따르면 "소수의견 표시를 의무로 하는 경우 정치권·여론의 압박에 따른 부담 등으로 인해 충실한 합의가 저해될 우려가 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;법원행정처는 특히 "정치적으로 민감한 형사사건인 대상 사건에 대해 3인 재판부에서 표시 의무를 강제하는 것은 판사들에게 큰 심리적 부담을 야기하고 재판의 정치적 독립성에 부정적인 영향을 끼칠 소지가 있다"고 지적했다. &lt;br /&gt;&lt;br /&gt;또한 "판사들이 소수의견 표시를 주저하게 돼 논리의 경쟁과 설득에 기초한 충실한 합의가 아니라 소수의견 표시를 하지 않아도 될 정도의 타협적 결론에 이를 가능성도 배제하기 어렵다"고 했다.&lt;br /&gt;&lt;br /&gt;그러면서 "다수 대법관·헌법재판관이 합의·평의에 관여하는 대법원이나 헌법재판소 재판에서 소수의견의 표시를 의무화하는 것과 달리, 3인 재판부에서는 재판부에서 그 표시 여부를 선택할 수 있도록 정하는 방안이 합의의 충실성, 재판의 정치적 독립성 보장 등 관점에서 유리할 수 있다"며 대안을 제시했다.&lt;br /&gt;&lt;br /&gt;다만 법원행정처는 법원조직법 제65조의 '심판의 합의는 공개하지 않는다'는 조항을 들어 "합의 비밀의 원칙에 대한 예외로서 소수의견을 표시하도록 정할지 여부는 기본적으로 소수의견 표시의 강점과 약점을 합리적으로 고려하여 입법 정책적으로 결정할 사항"이라고 덧붙였다.</description>
 			<pubDate>Fri, 19 Sep 2025 10:40:48 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/211639</link>
@@ -222,26 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211625</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211625.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>부산변회, 일본 후쿠오카변호사회와 교류회</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211622.jpg" alt="2222.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;부산지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2751"&gt;김용민&lt;/span&gt;)는 지난 9월 12일 일본 후쿠오카현 변호사회관에서 정례교류회를 진행했다고 19일 밝혔다.&lt;br /&gt;&lt;br /&gt;이번 교류회에 후쿠오카회는 우에다 히데토모 회장과 마츠이 히토시 국제위원장 등 43명이 참석했다. 부산변회는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2751"&gt;김용민&amp;nbsp;&lt;/span&gt;회장과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9874"&gt;염정욱&amp;nbsp;&lt;/span&gt;국제위원장 등 30명이 참석했다.&lt;br /&gt;&lt;br /&gt;부산변회 방문단은 후쿠오카 지방재판소를 방문해 재판관과의 면담한 뒤 지방검찰청 시설도 견학했다.&lt;br /&gt;&lt;br /&gt;이어 ‘한국과 일본의 변호사 징계제도’를 주제로 토론회가 열렸다. 부산변회에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="30938"&gt;조묘진&lt;/span&gt;(변호사시험 2회) 변호사가, 후쿠오카회에서는 타가와 카즈나리 외국변호사가 발표했다.</description>
-			<pubDate>Fri, 19 Sep 2025 07:01:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211622</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211622</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211622.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>김후곤 전 서울고검장, 법률신문사 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211599.jpg" alt="45633.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울고등검사장을 지낸&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1699"&gt;김후곤&lt;/span&gt;(사법연수원 25기) &lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt; 대표변호사가 18일 서울 서초구 법률신문사를 방문해 이수형 사장 등과 환담했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 15일부터 광장 형사그룹을 이끌고 있다. 그는 "광장이 지난해 매출 4000억 원을 넘어 크게 성장하고 있다"며 "인재를 영입해 나가 형사그룹 기여를 높이겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;경동고와 동국대 법학과를 졸업한 김 변호사는 1993년 제35회 사법시험에 합격해 1996년 검사로 임관했다. 수원지검 특수부장, 서울중앙지검 특수1부장, 대검 반부패부 선임연구관 등을 거쳐 2022년 서울고검장을 역임했다.&lt;br /&gt;&lt;br /&gt;특히 서울중앙지검 첨단범죄수사부 근무, 방송통신위원회 파견을 통해 IT, 개인정보 분야 전문성을 쌓았다. 2023년 데이터분쟁조정위원장으로 임명됐고 2024년부터 KT 컴플라이언스위원장도 겸임하고 있다.</description>
-			<pubDate>Fri, 19 Sep 2025 05:30:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211599</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211599</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211599.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
