@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘정치자금법 위반’ 한학자 총재, 내일 구속영장 심사... 통일교 “불구속 상태서 진실 규명 가능”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/21/WDCLRU5G6BAUFIWWMENQB4TNJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/WDCLRU5G6BAUFIWWMENQB4TNJ4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 10:53:52 +0000</pubDate>
+      <content:encoded>통일교(세계평화통일가정연합)가 국민의힘 권성동 의원과 김건희 여사 등에게 불법적인 금품을 건넸다는 의혹과 관련, 민중기 특검이 한학자 총재에 대해 청구한 구속영장 실질심사가 22일 서울중앙지법에서 열린다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3FDYUSEVHI35MMN5JRW6QMYD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치 자금 제공 혐의를 받는 한학자 통일교 총재가 지난 17일 서울 종로구 김건희 특검 사무실에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장전담 부장판사는 22일 오후 1시 30분부터 정치자금법 위반 등 혐의를 받는 한 총재에 대한 영장실질 심사를 진행한다.&lt;br&gt;&lt;br&gt;특검은 통일교의 ‘정점’인 한 총재 신병을 확보해 관련 수사를 신속히 진행해야 한다는 입장이다. 한 총재가 윤영호 전 통일교 세계본부장 등에게 지시해 권 의원과 김 여사에게 금품을 제공하고, 국민의힘에 불법 후원금을 지원한 혐의를 규명하겠다는 것이다.&lt;br&gt;&lt;br&gt;하지만 통일교 측은 21일 입장문을 내고 “83세 고령의 한 총재님은 오랜 기간 백내장, 녹내장 치료에도 불구하고 현재 시력이 크게 악화됐다. 또 지난 9월 심장 부위에 대한 절제 수술 이후 완전히 회복되지 않은 상황”이라며 “구금이 이어질 경우 안압 상승으로 급속한 실명뿐 아니라 심장 질환의 합병증 발병 우려가 크다”고 했다.&lt;br&gt;&lt;br&gt;이들은 이어 “통일교는 세계본부와 재단을 비롯한 300여 개 산하기관으로 운영되며, 총재님이 모든 사무를 지시하거나 관리하는 것은 제도적으로 불가능하다”며 “이미 수사기관이 두 차례 대규모 압수 수색과 관계자 조사를 통해 방대한 자료를 확보했기 때문에, 구속으로 새롭게 밝혀질 것은 없다”고 했다.&lt;br&gt;&lt;br&gt;통일교 측은 “도주나 증거 인멸의 가능성은 전혀 없으며, 불구속 상태에서도 진실 규명은 충분히 가능하다”면서 “사법부가 법과 원칙을 지키는 동시에 국민의 기본권과 종교의 자유라는 헌법적 가치를 존중해 주실 것을 기대한다”고 덧붙였다. &lt;br&gt;&lt;br&gt;한 총재의 혐의는 정치자금법 위반, 청탁금지법 위반, 증거인멸교사, 업무상 횡령 등 네 가지다. 그는 윤영호 전 세계본부장에게 지시해 2022년 1월 권 의원에게 정치자금 1억원을 전달한 혐의(정치자금법 위반)와 통일교 자금을 이용해 국민의힘 광역시도당 등에 총 2억1000만원을 기부한 혐의를 받는다. 또 한 총재는 2022년 4∼7월 ‘건진법사’ 전성배씨를 통해 김 여사에게 그라프 목걸이와 샤넬백을 건네며 교단 현안을 청탁한 데 관여한 혐의(청탁금지법 위반)도 있다.&lt;br&gt;&lt;br&gt;이밖에도 한 총재는 김 여사에게 건넨 금품을 교단 자금으로 구매한 혐의(업무상 횡령), 2022년 10월 자신의 원정 도박 의혹에 관한 경찰 수사에 대비해 윤씨에게 증거 인멸을 지시한 혐의(증거인멸교사)도 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“무료 국수 맛있게 먹었잖아!” 한수원이 건 현수막…金총리 “모욕적”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/21/CK74OIGICBCAXLZIFZSBOIOSJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/21/CK74OIGICBCAXLZIFZSBOIOSJM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 12:10:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJVXYGLKARDJ5DQPZJVT2MSAPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경주시 일대에 설치된 한국수력원자력 월성원자력본부 현수막./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김민석 국무총리는 경북 경주시 일대에 설치된 한국수력원자력 월성원자력본부 현수막 속 표현이 무례하다는 논란이 일자 “경위를 확인하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 총리는 21일 오후 페이스북에 글을 올려 “한수원 월성본부가 제작해 경주 시내 여러 곳에 설치한 현수막이 시민들을 분노하게 만들었다”며 문제의 현수막 사진을 공개했다.&lt;br&gt;&lt;br&gt;경주 시내에 부착된 이 현수막에는 ‘5년 동안 월성원자력본부가 경주시 지방세로 2190억을 냈다지요?’ ‘이번 벚꽃 마라톤 때 월성본부가 무료로 주는 국수도 맛있게 먹었잖아!’ ‘경주시의 자랑 월성원자력본부, 항상 여러분과 함께합니다’ 등의 문구가 적혀 있다. &lt;br&gt;&lt;br&gt;김 총리는 특히 ‘국수’ 관련 내용을 겨냥해 “너무 모욕적이다. 공공 기관의 행사 지원은 ‘한 푼 던져주는’ 그런 것이 아니다”라며 “주민에 대한 존중이 없으면 소통이 아니다. 그런 태도와 비아냥으로는 국민의 마음을 얻을 수 없다”고 지적했다.&lt;br&gt;&lt;br&gt;아울러 “이번 사태의 경위를 확인하고 모든 공직자의 소통 태도와 방식을 바로잡는 계기로 삼겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JJVXYGLKARDJ5DQPZJVT2MSAPU.jpg?auth=9cb84639f5146f922574a5ed84f469cc371d172d283dfeb56330968169956aee&amp;smart=true&amp;width=860&amp;height=516" type="image/jpeg" height="516" width="860">
+        <media:description type="plain">경북 경주시 일대에 설치된 한국수력원자력 월성원자력본부 현수막./페이스북</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>법원, 한동훈 전 대표에 ‘증인 소환장’ 발송... ‘폐문부재’로 서류 송달 안 돼</title>
       <link>https://www.chosun.com/national/court_law/2025/09/21/DW65GE4P6VCFTETZ7DKZDDT4MY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/DW65GE4P6VCFTETZ7DKZDDT4MY/</guid>
@@ -953,24 +974,6 @@
 &lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	 35년생 범띠와 함께라면 못 넘을 고비 없다. 47년생 주변 부추김에 넘어가지 않도록. 59년생 성질대로 하다간 구설과 잡음 야기. 71년생 흔들리지 말고 목표에 집중. 83년생 무딘 칼도 자주 쓰면 날카로워지기 마련. 95년생 무리한 계획은 세우지 않는 게 상책.	&lt;br&gt;
 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>겨울 비닐하우스서 숨진 이주 노동자… 2심 “국가가 2000만원 배상하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/DYGNXPPMXJFI7OFUUNACOC7XWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/DYGNXPPMXJFI7OFUUNACOC7XWQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 07:14:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MLSFCOZZ5UXEKVDZCLAI7Q6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울 난방이 되지 않는 비닐하우스 숙소에서 지내다 사망한 이주 노동자 누온 속헹씨의 유족에게 국가가 2000만원을 배상하라는 항소심 판결이 19일 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 민사항소3-2부(재판장 박평균)는 이날 속헹씨 가족이 정부를 상대로 낸 국가배상 소송에서 원고 패소 판결을 한 1심을 취소하고 “정부가 원고들에게 각 1000만원을 지급하라”고 선고했다. 이날 판결에 따라 속헹씨 부모는 총 2000만원을 배상받게 됐다. 소송 비용의 80%는 원고가, 나머지는 정부가 부담하라고 했다.&lt;br&gt;&lt;br&gt;캄보디아 출신인 속헹씨는 지난 2020년 12월 경기도 포천의 한 농장에서 일을 하다가 비닐하우스 숙소에서 숨진 채 발견됐다. 사인은 간경화로 인한 합병증이었지만, 이주 노동자들의 열악한 주거환경이 근본적인 사고 원인이라는 지적이 나왔다. 당시 속헹씨를 비롯한 외국인 근로자들은 비닐하우스 안에 설치한 가건물에 거주했다. &lt;br&gt;&lt;br&gt;이에 속헹씨 유족은 2021년 12월 사망 1주기에 근로복지공단에 산재보상을 신청했고, 공단은 이듬해 5월 이를 승인했다. 유족은 2022년 9월 국가를 상대로 별도의 손해배상 소송을 냈다.&lt;br&gt;&lt;br&gt;작년 8월 1심은 “유족들이 제출한 증거만으로는 속헹씨 사망에 대한 국가의 의무 위반 등 잘못이 입증됐다고 보기 어렵다”고 판결했지만, 2심은 이를 뒤집고 정부의 책임을 인정했다. 정부가 열악한 이주 노동자들의 환경을 알면서도 방치하며 관리·감독을 하지 않았다는 유족 측의 주장이 일부 인정된 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수자원공사가 개발한 ‘물 관리 디지털 기술’ 美 실리콘밸리 진출</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/19/FPFBFF5IQREKXPQVMHLL2M5VSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/19/FPFBFF5IQREKXPQVMHLL2M5VSU/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 07:48:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFZR3NYN2DIFBVBZX7HAMPLNP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석대 한국수자원공사 사장(왼쪽에서 다섯째부터)과 리처드 산토스(Richard Santos) 밸리 워터 이사회 부의장, 리타 찬(Rita Chan) 밸리 워터 수석부사장) /한국수자원공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국수자원공사가 개발한 물관리 기술인 ‘디지털트윈 플랫폼’이 미국 실리콘밸리에 진출한다.&lt;br&gt;&lt;br&gt;수공은 18일(현지 시각) 미국 캘리포니아주 산호세에서 산타클라라 지역 물 관리 공공 기관인 ‘밸리 워터(Santa Clara Valley Water District)’와 디지털트윈 물 관리 시스템 구축을 위한 기본 협약(MOA)을 체결했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;디지털 트윈 플랫폼은 실제 수자원 환경을 디지털 가상 공간에 구현해, 강우량·하천 수위·댐 운영 현황 등 유역 내 모든 물 관리 요소를 실시간으로 분석·예측하는 물 관리 기술이다.&lt;br&gt;&lt;br&gt;밸리 워터는 구글·애플·엔비디아 등 빅테크가 밀집한 실리콘밸리를 포함한 산타클라라 전역 약 220만명에게 용수를 공급하는 캘리포니아 주 정부 공공기관이다. 댐 10개를 운영하며 홍수·가뭄과 하천·지하수를 관리한다.&lt;br&gt;&lt;br&gt;그러나 밸리 워터는 건설된 지 100년 가까이 지난 노후 댐 관리와 반복되는 가뭄, 상수원 부족 등 복합적인 물 문제를 겪고 있다. 반면 실리콘밸리 지역의 첨단 산업 성장으로 데이터 센터 냉방, 반도체 세척 등에 필요한 물 수요는 꾸준히 늘고 있는 상황이다.&lt;br&gt;&lt;br&gt;이에 밸리 워터는 수공의 물 관리 기술을 도입하기로 결정한 것이다. 수공은 향후 밸리 워터와 계약 조건, 기술 협력 범위를 구체화해 사업 계약을 체결할 계획이다. 사업에 본격적으로 착수하게 되면 댐뿐 아니라 정수장, 관로, 지하수 시설까지 디지털 공간에 구현한다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “글로벌 혁신의 심장부인 미국 실리콘밸리에 진출한 것은 글로벌 물 시장에서 입지를 넓혔다는 의미가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘민주당 돈봉투’ 이성만, 무죄로 뒤집혔다.. 2심 " 녹음파일 위법 증거"</title>
