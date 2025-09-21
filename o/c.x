@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 한동훈 전 대표에 ‘증인 소환장’ 발송... ‘폐문부재’로 서류 송달 안 돼</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/21/DW65GE4P6VCFTETZ7DKZDDT4MY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/DW65GE4P6VCFTETZ7DKZDDT4MY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 09:06:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SKX7W2ELZIARFK6XQXIK2HOK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 한동훈 전 국민의힘 대표에게 ‘계엄 해제 의결 방해’ 의혹과 관련해 증인 소환장을 보냈지만, 한 전 대표가 수령하지 않은 것으로 나타났다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 서울중앙지법은 지난 12일 한 전 대표에게 증인 소환장을 발송했으나, ‘폐문부재’를 이유로 전달되지 않았다. 당사자가 집에 없고 문이 닫혀 있어 송달이 이뤄지지 않았다는 의미다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 지난 10일 법원에 한 전 대표에 대한 ‘공판 전 증인신문’을 청구했다. 참고인이 진술을 거부할 경우 검사가 제1회 공판기일 전까지 법원에 요청해 증인을 신문하는 절차다.&lt;br&gt;&lt;br&gt;법원은 지난 12일 이를 받아들이고 오는 23일을 심문기일로 지정했다. 같은 날 한 전 대표에게는 증인 소환장을, 추경호 전 국민의힘 원내대표에게는 증인신문 기일 통지서를 각각 보냈다. 하지만 한 전 대표의 소환장은 송달되지 않은 것이다.&lt;br&gt;&lt;br&gt;이로써 한 전 대표가 증인신문에 불출석할 가능성은 한층 커졌다. 한 전 대표는 지난 12일 페이스북에 “저는 알고 있는 모든 것을 책과 다큐멘터리 증언 등으로 말했고, 당시 계엄을 저지했던 제 모든 행동은 실시간 영상으로 전국민께 공유됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란 특검 추가 기소’ 윤석열, 법원에 보석 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/21/PRRR7OGMWVBEJDHF6VWU7UZSOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/PRRR7OGMWVBEJDHF6VWU7UZSOQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 08:44:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SMOGXLYBEYPUS2VIOZWU6LRL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 7월 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 내란 특검팀에 의해 구속 기소된 사건의 첫 정식 재판을 일주일 앞두고 법원에 보석을 청구했다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 윤 전 대통령 측은 특수공무집행방해·직권남용 등 혐의를 심리하는 서울중앙지법 형사35부(재판장 백대현)에 지난 19일 보석 신청서를 제출했다. 보석은 보증금 등을 받고 구속 중인 피고인을 석방하는 제도다. 보석 심문 기일은 아직 정해지지 않았다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 3월 법원의 구속 취소 결정으로 석방됐다가 지난 7월 내란 특검팀에 의해 다시 구속됐다. 윤 대통령 측은 지난달 재판부에 기일 변경을 요청했지만 기각됐고, 지난달 19일 첫 공판 준비기일이 열렸다. 재판부는 한 차례 만에 준비 절차를 종결하고 오는 26일 첫 공판을 진행할 예정이다.&lt;br&gt;&lt;br&gt;앞서 내란 특검팀은 윤 전 대통령을 지난 7월 19일 구속 기소했다. 구속 기간 연장 없이 재구속 9일 만에 이뤄진 기소였다. 특검팀은 국무위원의 계엄 심의·의결권 침해, 계엄선포문 사후 작성·폐기, 비상계엄 이후 허위 공보, 비화폰 기록 삭제 지시, 체포영장 집행 저지 등 5가지 혐의를 적용했다. &lt;br&gt;&lt;br&gt;한편 특검팀은 윤 전 대통령에게 오는 24일 소환 조사를 통보했다. 특검은 ‘평양 무인기 침투 의혹’ 관련 외환 혐의에 대해 조사할 방침이다. 그러나 윤 전 대통령 측은 “특검이 아무런 협의 없이 일방적으로 소환 통보를 했다”며 정식으로 통지서를 받으면 출석 여부를 검토해보겠다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  9월 22일 월요일 (음력 8월 1일 甲午)</title>
       <link>https://www.chosun.com/national/national_general/2025/09/21/HTA2SBVTCBDM7OLS4MQFWGTOXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/21/HTA2SBVTCBDM7OLS4MQFWGTOXY/</guid>
@@ -955,15 +973,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFZR3NYN2DIFBVBZX7HAMPLNP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석대 한국수자원공사 사장(왼쪽에서 다섯째부터)과 리처드 산토스(Richard Santos) 밸리 워터 이사회 부의장, 리타 찬(Rita Chan) 밸리 워터 수석부사장) /한국수자원공사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국수자원공사가 개발한 물관리 기술인 ‘디지털트윈 플랫폼’이 미국 실리콘밸리에 진출한다.&lt;br&gt;&lt;br&gt;수공은 18일(현지 시각) 미국 캘리포니아주 산호세에서 산타클라라 지역 물 관리 공공 기관인 ‘밸리 워터(Santa Clara Valley Water District)’와 디지털트윈 물 관리 시스템 구축을 위한 기본 협약(MOA)을 체결했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;디지털 트윈 플랫폼은 실제 수자원 환경을 디지털 가상 공간에 구현해, 강우량·하천 수위·댐 운영 현황 등 유역 내 모든 물 관리 요소를 실시간으로 분석·예측하는 물 관리 기술이다.&lt;br&gt;&lt;br&gt;밸리 워터는 구글·애플·엔비디아 등 빅테크가 밀집한 실리콘밸리를 포함한 산타클라라 전역 약 220만명에게 용수를 공급하는 캘리포니아 주 정부 공공기관이다. 댐 10개를 운영하며 홍수·가뭄과 하천·지하수를 관리한다.&lt;br&gt;&lt;br&gt;그러나 밸리 워터는 건설된 지 100년 가까이 지난 노후 댐 관리와 반복되는 가뭄, 상수원 부족 등 복합적인 물 문제를 겪고 있다. 반면 실리콘밸리 지역의 첨단 산업 성장으로 데이터 센터 냉방, 반도체 세척 등에 필요한 물 수요는 꾸준히 늘고 있는 상황이다.&lt;br&gt;&lt;br&gt;이에 밸리 워터는 수공의 물 관리 기술을 도입하기로 결정한 것이다. 수공은 향후 밸리 워터와 계약 조건, 기술 협력 범위를 구체화해 사업 계약을 체결할 계획이다. 사업에 본격적으로 착수하게 되면 댐뿐 아니라 정수장, 관로, 지하수 시설까지 디지털 공간에 구현한다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “글로벌 혁신의 심장부인 미국 실리콘밸리에 진출한 것은 글로벌 물 시장에서 입지를 넓혔다는 의미가 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘나는 솔로’ 男 출연자, 성폭행 혐의 1심서 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/19/U7GJSX7QDVAPPCONOAV7EZZOZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/19/U7GJSX7QDVAPPCONOAV7EZZOZE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 07:16:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHQIKALUARHHTOHRYECC23ZKTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 예능 프로그램 ‘나는 솔로’에 출연했던 30대 남성이 서울의 한 주차장에서 20대 여성을 성폭행한 혐의로 기소돼 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;서울서부지법 형사합의11부(김우현 부장판사)는 19일 준강간 혐의로 구속기소된 박모(35)씨에게 징역 1년 6개월에 집행유예 3년을 선고했다. 이와 함께 성폭력 치료 강의 40시간 수강과 아동·청소년·장애인 관련 기관 5년 취업 제한도 명령했다.&lt;br&gt;&lt;br&gt;박씨는 지난 6월 21일 오전 3시 30분쯤 서울 마포구 서교동의 한 주차장에서 술에 취한 20대 여성을 성폭행한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 만취한 피해자가 몸을 밀치는 등 거부 의사를 보였음에도 간음한 것으로 보인다”며 “피해자는 상당한 정신적 충격을 받았고 저항 과정에서 상처도 입었다”고 전했다.&lt;br&gt;&lt;br&gt;다만 “피고인이 범행을 인정하고 반성하고 있으며, 피해자와 합의가 이뤄져 처벌을 원하지 않는다는 점, 3개월간 구금돼 자숙의 시간을 가진 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;박씨는 SBS플러스와 ENA에서 방영하는 ‘나는 솔로’ ‘나는 솔로, 그 후 사랑은 계속된다’에 연달아 출연한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘민주당 돈봉투’ 이성만, 무죄로 뒤집혔다.. 2심 " 녹음파일 위법 증거"</title>
       <link>https://www.chosun.com/national/court_law/2025/09/19/KOQ7GEDQ5RAGLAI572NSLUHFXY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/KOQ7GEDQ5RAGLAI572NSLUHFXY/</guid>
@@ -971,15 +980,6 @@
       <description/>
       <pubDate>Fri, 19 Sep 2025 07:39:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R3FHGCOV4FI7XO5ZQSEC6XHXRM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이성만 전 더불어민주당 의원이 19일 오후 서울 서초구 서울고등법원에서 열린 더불어민주당 전당대회 돈봉투 사건 관련 정치자금법위반 등 2심 선고에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘민주당 전당대회 돈봉투’ 사건으로 기소된 이성만 전 의원이 2심에서 무죄를 선고받았다. 서울고법 형사7부(재판장 이재권)는 19일 이 의원의 정당법·정치자금법 위반 사건에서 징역형 집행유예를 선고한 1심 판결을 파기하고 무죄를 선고했다.&lt;br&gt;&lt;br&gt;이 전 의원은 민주당 전당대회를 앞둔 2021년 4월 송영길 당시 당대표 후보(현 소나무당 대표) 지지 모임에 참석해 윤관석 전 의원으로부터 300만 원이 든 돈봉투를 받은 혐의로 기소됐다. 같은 해 3월 송 대표 경선캠프에 부외 선거자금 1100만원을 건넨 혐의도 있다. &lt;br&gt;&lt;br&gt;앞서 1심은 이 전 의원의 혐의를 모두 유죄로 판단해 총 징역 9개월에 집행유예 2년을 선고했다. 그러나 2심 재판부는 1심이 유죄 증거로 삼은 이정근 전 민주당 사무부총장의 통화 녹음파일을 “위법 수집 증거”라며 무죄로 뒤집었다. &lt;br&gt;&lt;br&gt;검찰은 2022년 이씨의 개인 비리(알선수재) 사건을 수사하는 과정에서 휴대전화 3대를 확보했는데, 그 안에 있던 통화 녹음파일에 돈봉투 살포 정황이 담겨있었다. 검찰은 이씨로부터 ‘휴대전화 속 정보를 범위 제한 없이 다른 사건 증거로 사용해도 된다’는 동의를 받은 뒤 돈봉투 사건 수사를 시작했다고 했다. &lt;br&gt;&lt;br&gt;재판부는 “이씨가 당시에 받던 알선수재 혐의 수사와 무관한 정보까지 제출했다고 보기는 어렵다”고 했다. 또 “검사는 알선수재 혐의와 무관한 별도의 범죄 혐의에 대해서는 압수 수색 영장을 새로 발부받아야 하는데도 이씨의 휴대전화를 보관하고 있다가 이 재판의 증거로 제출했다”며 “이는 영장주의와 적법절차주의를 위반한 것”이라고도 했다. 다른 사람들의 법정 진술도 위법 수집된 통화 녹음파일에 기초해 이뤄진 것으로 보고 모두 증거에서 배제했다.&lt;br&gt;&lt;br&gt;이는 ‘이정근 녹음파일’의 증거 능력을 인정한 다른 돈봉투 사건 재판 결과와는 배치된다. 돈봉투를 조성한 혐의를 받은 윤 전 의원의 경우 1·2심 판결문에 해당 녹음파일이 적법한 증거라고 적시됐다. 윤 전 의원은 작년 10월 대법원에서 징역 2년이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검 “金여사 친인척, 증거은닉·수사방해 혐의로 수사 예정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/MFPQBUWYM5DUDJ4IB35UHZGVSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/MFPQBUWYM5DUDJ4IB35UHZGVSI/</guid>
-      <dc:creator>이민경 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 05:35:46 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특검팀은 19일 “김상민 전 검사의 ‘이우환 그림 공여’ 의혹과 관련해 김 여사의 친오빠인 김진우씨를 소환 조사 중”이라며 “이를 기점으로 특검은 김씨의 장모 및 김 여사의 모친 최은순씨 사무실에서 김 여사가 수수한 것으로 의심되는 각종 물품이 발견된 경위를 본격적으로 수사할 예정”이라고 밝혔다. 수사 대상은 김씨를 포함한 김 여사의 친인척으로, 혐의는 증거은닉 및 수사방해다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OD6JG5A4ZPXSGU3F4I6M5WJ5SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 오빠 김진우씨가 지난 7월 28일 오후 김건희 특검팀 조사를 마치고 옷깃으로 얼굴을 가린 채 변호인 부축을 받으며 취재진을 피해 걸어가고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇이우환 그림·금거북이 수사 본격화&lt;/b&gt;&lt;br&gt;&lt;br&gt;특검은 이날 오전부터 김씨를 참고인 신분으로 조사하고 있다. 이날이 세 번째 조사다. 특검은 그간 김씨의 장모 집에서 김상민(구속) 전 검사가 구입한 이우환 화백의 그림 ‘점으로부터(From Point) No.800298′가 발견된 전후 경위를 수사해왔는데, 특검은 김 여사가 수수한 금품들을 김씨 집에 맡겨뒀고, 김씨가 특검 수사를 앞두고 이를 장모 집으로 옮겼을 가능성이 있다고 의심한다. 이 과정에서 김씨를 비롯한 친인척들이 가담했을 가능성까지 수사하겠다는 얘기다.&lt;br&gt;&lt;br&gt;현행 형법에 따르면 친족이거나 동거 중인 가족이 본인을 위해 증거인멸을 했을 경우엔 처벌하지 않도록 하고 있다. 그러나 친족과 친족이 아닌 사람이 공모한 경우 등 제3자가 관여한 범죄라면 친족도 처벌할 수 있다는 게 법원 판례이다. 특검 관계자는 “여러 가능성 중 처벌될 가능성이 있어서 사실관계를 먼저 파악해볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 이배용 전 국가교육위원장의 비서였던 박모씨의 주거지와 사무실을 이주 초에 압수 수색했다고 밝혔다. 이 전 위원장은 김 여사 측에게 당선 축하 카드와 함께 5돈짜리 금거북이를 건넨 것으로 조사됐는데, 이 금거북이는 김 여사 일가가 운영하는 경기 남양주시의 한 요양원에서 특검이 확보했다. 금거북이가 김씨 일가 쪽으로 넘어가게 된 경위 역시 수사 대상이라는 얘기다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇국민의힘 당원명부 압수 수색엔 “분석 중”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이런 가운데 특검 관계자는 전날 국민의힘 당사와 당원명부 데이터베이스를 관리하는 업체를 압수 수색해 11만명의 당원명부를 확보했다는 언론 보도에 대해선 “구체적인 내용을 말씀드리기는 어렵다”며 “확보한 자료는 현재 분석 중에 있다”고 밝혔다. 압수 수색 영장에 적시된 내용에 따라 통일교 교인의 당원 가입 여부를 대조해 추출했고, 전체 명부를 받아온 것은 아니란 얘기다.&lt;br&gt;&lt;br&gt;동일인 여부를 어떻게 검증했는지 묻는 질문에 특검 관계자는 “주민등록번호나 계좌번호를 확인한 것은 아니라면서도 다른 방식으로 확인하는 절차를 거쳤다”며 “동일인인지 확인한 사람에 한해 명단을 압수한 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>30년만에 ‘버진로드’ 다시 밟은 부부...특별한 결혼식 열린 거제 지심도</title>
