@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[부음] 강광칠 前 연합뉴스 충청취재본부장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/20/OLDRZ6W7SZACHNSB2B45NCNCQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/20/OLDRZ6W7SZACHNSB2B45NCNCQI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Sep 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;강광칠&lt;/b&gt; 前 연합뉴스 충청취재본부장 별세, &lt;b&gt;박영례&lt;/b&gt; 남편상, &lt;b&gt;강명훈&lt;/b&gt;·&lt;b&gt;강소희&lt;/b&gt; 부친상, &lt;b&gt;이상후&lt;/b&gt; 장인상=18일20시35분 삼성서울병원, 발인 21일9시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김정자&lt;/b&gt; 별세, &lt;b&gt;강동호&lt;/b&gt; 前 서울경제신문 기자·&lt;b&gt;강민호&lt;/b&gt;·&lt;b&gt;강혜란&lt;/b&gt;·&lt;b&gt;강원호&lt;/b&gt; 모친상,&lt;b&gt; 정기남&lt;/b&gt; 前 국무총리실 정무실장 장모상=19일10시47분 경기 성남 분당제생병원, 발인 22일5시30분, (031)779-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서동홍&lt;/b&gt; 별세, &lt;b&gt;서상덕&lt;/b&gt; 에스투더블유 대표·&lt;b&gt;서정덕&lt;/b&gt;·&lt;b&gt;서시현&lt;/b&gt; 부친상,&lt;b&gt; 변기성&lt;/b&gt; 장인상, &lt;b&gt;이연경&lt;/b&gt;·&lt;b&gt;이수아&lt;/b&gt; 시부상=19일7시30분 대구 파티마병원, 발인 21일6시30분, (053)940-8196&lt;br&gt;&lt;br&gt;▲&lt;b&gt;전진희&lt;/b&gt; 별세, &lt;b&gt;민충기&lt;/b&gt; 前 SBS 뉴욕특파원 아내상, &lt;b&gt;민호세&lt;/b&gt;·&lt;b&gt;민수아&lt;/b&gt; 모친상,&lt;b&gt; 이원희&lt;/b&gt; 장모상, &lt;b&gt;김수연&lt;/b&gt; 시모상=18일20시30분 서울성모병원, 발인 21일7시, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대부업체에 건넨 내 계좌, 돈세탁 통장으로 사용됐다</title>
       <link>https://www.chosun.com/national/national_general/2025/09/22/MTZ5YDCJHVCWHF2Q3ZEGCYVSLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/MTZ5YDCJHVCWHF2Q3ZEGCYVSLA/</guid>
@@ -901,19 +910,6 @@
       <description/>
       <pubDate>Fri, 19 Sep 2025 15:52:00 +0000</pubDate>
       <content:encoded>▲보건복지부◇과장급 전보▷의료기관정책과장 신현두▷의료정보정책과장 정준섭▷사회보장조정과장 신지명▷재생의료정책과장 이준미 ▷요양보험제도과장 윤수현▷아동학대대응과장 모두순▷장애인서비스과장 이고운▷기초연금과장 박나연◇과장급 파견▷의료개혁추진단 의료체계혁신과장 임은빈&lt;br&gt;&lt;br&gt;▲국가보훈부◇ 과장급 전보▷기획재정담당관 용교순▷보훈의료혁신과장 진지혜&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>커피 한잔하며 AI와 한판… 텍스트힙 다음은 ‘바둑힙’</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/20/CGWTWFPQZJHK7KJDNWP3I3CGS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/20/CGWTWFPQZJHK7KJDNWP3I3CGS4/</guid>
-      <dc:creator>강우석 기자, 김동현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHUKQ2VWSJDG5K4GXKKGU7VYHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 경기도 고양시의 한 기원에서 바둑 동호인 안명서(오른쪽)씨가 친구들에게 AI(인공지능)와 대국하는 시범을 보이고 있다. 도중에 바둑판 중앙에 어지럽게 바둑돌을 올려놓았는데도 AI는 원하는 착수 지점에 돌을 놓았다. 최근 바둑에 흥미를 갖는 MZ 세대가 늘어난 가운데, 이곳에도 20~30대 손님이 대부분이었다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7일 경기도 고양시의 한 기원(棋院)에 들어서니 커피 향이 코를 찔렀다. 밝은 우드톤 가구와 곳곳에 놓인 화분, 편안하게 들리는 음악까지 테이블 위에 놓인 바둑판을 보지 않았다면 누구나 카페로 생각할 공간이었다. 기원엔 10여 명이 있었는데 대학생이나 사회 초년병처럼 보이는 20~30대가 대부분이었고, 여성이 더 많았다. 기원 한쪽엔 AI(인공지능) 바둑 로봇까지 있었다. AI가 상대 실력에 맞춰 바둑을 두는데, 로봇 팔이 스스로 바둑돌을 집어 바둑판 위에 착수까지 하는 게 신기했다. AI 로봇과 바둑을 두던 안명서(23)씨는 “요즘 제 또래들은 ‘1인 취미’를 중시하는데, 이 기원은 AI가 있어 혼자 와도 부담 없이 대국할 수 있다”고 말했다. 정태욱(26)씨도 “영화나 드라마에서 봤던 기원은 ‘어르신들의 공간’이란 느낌이라 내키지 않았는데, 여긴 또래도 많고 분위기도 밝아 마음 맞는 친구와 카페 가듯이 들른다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZ4XMMGP5BAULPUZI5PDCNCBVE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;MZ세대 사이에서 바둑이 ‘힙(hip·멋진) 아이템’으로 떠오르고 있다. 스마트폰으로 대표되는 ‘디지털’ 문화의 홍수 속에서 매끈한 바둑돌을 나무로 된 바둑판에 올리는 ‘아날로그’ 오락의 매력을 찾는 젊은 층이 늘고 있다. 책을 읽거나 필사(筆寫)하는 것을 멋으로 여겨 유행한 것과 비슷한, MZ세대 사이에서 부는 ‘아날로그 붐’의 하나라는 분석이 나온다. 여기에다 영화나 드라마를 통해 바둑에 호기심이 생긴 젊은 세대가 급증하고, 이런 수요를 포착해 카페 같은 ‘신세대 기원’이 곳곳에 생기고 있다.&lt;br&gt;&lt;br&gt;한국대학바둑연맹에 따르면 2023년 1285명이었던 전국 대학 바둑 동아리 부원 수는 이듬해 1498명, 올해는 2025명으로 2년 사이 58% 증가했다. 현재 연맹에 소속된 대학 바둑 동아리는 28개로 2년 전(26개)과 큰 차이는 없지만, 신규 회원이 급증한 것이다. 바둑을 아예 모르는 사람부터 어린 시절 프로를 준비했던 이들까지 다양하다. 매주 대학 동아리방에 모여 서로 대국을 두는 등 정기 모임을 갖고, 대학·지역별로 토너먼트 교류전도 해마다 10번가량 치른다고 한다. 박기현(명지대) 한국대학바둑연맹 회장은 “컴퓨터나 스마트폰이 아닌 마주 보고 앉아 바둑을 두는 행위 자체를 색다른 매력으로 느끼는 친구가 많다”며 “또한 바둑은 똑똑한 사람이 즐기는 게임이라는 인식도 있다”고 말했다. &lt;br&gt;&lt;br&gt;새로 바둑에 유입되는 젊은 세대 중엔 어린 자녀를 키우는 30대 부모도 적지 않다. ‘일산 바둑’을 운영하는 김민주 대표는 “방학 때 자녀를 데리고 온 부모가 아이들이 바둑을 배우는 동안 혼자 AI와 대국하다가 자신이 더 바둑에 빠지기도 한다”고 했다. 어린 자녀가 놀 수 있게 책이나 장난감을 구비해 ‘키즈 카페’처럼 꾸며서 부모들이 편하게 바둑을 둘 수 있게 한 기원도 있다. 온라인 쇼핑몰 등에서 바둑판이나 바둑돌, 바둑 관련 책을 사들이는 사람도 예년보다 늘었는데, 구매자 상당수가 20~30대로 분석된다.&lt;br&gt;&lt;br&gt;올해 초 사제(師弟)인 조훈현·이창호 9단의 라이벌 구도를 영화로 각색한 ‘승부’, 바둑이 극의 흐름을 이끄는 주요 장치로 등장하는 드라마 ‘더 글로리’, 이세돌 9단이 출연한 넷플릭스 예능 프로그램 ‘데블스 플랜 2’ 같은 콘텐츠가 연달아 흥행한 것이 MZ세대 사이에서 바둑의 인기를 높였다는 해석도 나온다. 이은희 인하대 소비자학과 교수는 “바둑을 소재로 한 대중문화 콘텐츠가 젊은 세대에게 ‘진입 장벽’을 낮춘 측면이 분명히 있다”며 “출연자들이 고도의 수싸움을 벌이는 예능 프로그램을 즐기는 젊은 층도 많아지면서 두뇌 게임의 ‘원조’라고 할 수 있는 바둑에 관심이 높아지는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OHUKQ2VWSJDG5K4GXKKGU7VYHY.jpg?auth=7b88fa9088bf70c0eb7cc14b65f0e3c8de20f3f56673d4c252745a992c995bf5&amp;smart=true&amp;width=5688&amp;height=3304" type="image/jpeg" height="3304" width="5688">
-        <media:description type="plain">지난 7일 경기도 고양시의 한 기원에서 바둑 동호인 안명서(오른쪽)씨가 친구들에게 AI(인공지능)와 대국하는 시범을 보이고 있다. 도중에 바둑판 중앙에 어지럽게 바둑돌을 올려놓았는데도 AI는 원하는 착수 지점에 돌을 놓았다. 최근 바둑에 흥미를 갖는 MZ 세대가 늘어난 가운데, 이곳에도 20~30대 손님이 대부분이었다./박성원 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">park seongwon</media:credit>
-      </media:content>
     </item>
     <item>
       <title>전국 식당 ‘김민수 노쇼 사기’ 주의보</title>
