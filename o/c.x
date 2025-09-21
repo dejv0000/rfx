@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>2차 소비쿠폰 지급 신청 내일부터... 첫 주엔 요일제 적용</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/21/LOHDZTJRAVET7HEEIUZ4BVOTGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/21/LOHDZTJRAVET7HEEIUZ4BVOTGE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 03:45:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6OSGFLWN3K7KQ3NWNZGBFAKTXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9일 서울 동대문구 청량리 전통시장에 민생회복 소비쿠폰 사용가능 점포 안내문이 부착돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 22일 오전 9시부터 소득 하위 90% 국민에게 1인당 10만원을 지급하는 민생회복 소비쿠폰 2차 지급 신청을 받는다고 21일 밝혔다. &lt;br&gt;&lt;br&gt;1차 지급 때와 마찬가지로 신용·체크카드, 선불카드, 지역사랑상품권 중 원하는 방식을 선택해 받을 수 있다. &lt;br&gt;&lt;br&gt;신용·체크카드를 원하는 국민은 이용 중인 카드사 홈페이지나 앱, 콜센터, ARS를 통해 신청할 수 있다. 카드와 연계된 은행 영업점을 방문해도 된다. 케이뱅크·카카오뱅크·토스 등 간편 결제 앱을 통한 신청도 가능하다.&lt;br&gt;&lt;br&gt;모바일이나 카드형 지역사랑상품권은 주소지 관할 지방자치단체 전용 앱이나 홈페이지에서 신청할 수 있다. 선불카드나 지류형(일부 카드형 포함) 상품권은 관할 읍·면·동 행정복지센터를 방문해 신분증만 제시하면 현장에서 바로 받을 수 있다.&lt;br&gt;&lt;br&gt;의무 복무 중인 군 장병은 희망하는 경우 주민등록상 주소지가 아닌 복무지 관할 행정복지센터에서 소비 쿠폰을 신청하고, 해당 지자체에서 사용 가능한 선불카드 등을 지급받을 수 있다.&lt;br&gt;&lt;br&gt;온·오프라인 신청 모두 첫 주(22∼26일)는 출생 연도 끝자리에 따른 요일제가 적용된다. 월요일은 1·6, 화요일은 2·7, 수요일은 3·8, 목요일은 4·9, 금요일은 5·0이며, 주말에는 온라인으로 누구나 신청할 수 있다.&lt;br&gt;&lt;br&gt;소득 하위 90% 기준은 지난 6월 건강보험료다. 외벌이 직장 가입자 기준 1인 가구는 22만원 이하, 2인은 33만원 이하, 3인은 42만원 이하, 4인은 51만원 이하 등이면 소비 쿠폰을 받을 수 있다. 자영업자 등 지역 가입자 가구의 건보료 상한은 외벌이 기준 1인 22만원, 2인 31만원, 3인 39만원, 4인 50만원 등이다.&lt;br&gt;&lt;br&gt;건보료 기준을 만족해도 작년 재산세 과세표준 합계가 12억원을 넘으면 2차 소비 쿠폰을 받을 수 없다. 이자·배당 등 작년 금융 소득이 2000만원을 넘는 경우도 마찬가지다. 지급 대상자 여부는 건강보험공단, 카드사 홈페이지·앱, 주민센터·은행 영업점 등을 통해서 확인할 수 있다.&lt;br&gt;&lt;br&gt;2차 소비 쿠폰 신청 기한은 내달 31일까지다. 사용 기한은 11월 30일까지다. 특별시·광역시 주민은 자기 지역에서, 도(道) 지역 주민은 주소지 시·군에서만 사용할 수 있다. 신용·체크카드 또는 선불카드로 받은 경우 일부 업종을 제외한 연 매출 30억원 이하 소상공인 업체에서 사용 가능하다.&lt;br&gt;&lt;br&gt;다만 소비 여건이 열악한 일부 읍·면 지역 하나로마트, ‘공공형’ 로컬푸드 직매장과 ‘면’ 지역 농협·민간형 로컬푸드 직매장, 법인 소재지와 매장 소재지가 일치하는 지역소비자생활협동조합 매장은 매출과 관계없이 사용처에 포함된다.&lt;br&gt;&lt;br&gt;윤호중 장관은 “2차 소비 쿠폰은 국민 편의를 제고하기 위해 신청 절차를 간소화하고 사용처를 확대하는 등 많은 노력을 기울였다”며 “10월 31일 전까지 반드시 신청해 소비 쿠폰을 꼭 지급받고, 11월 30일까지 신속히 사용해주시길 당부드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>월요일 아침 최저 12도, 선선한 가을</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/21/ITTGJ67C3BBORBKSUALPPSIXCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/21/ITTGJ67C3BBORBKSUALPPSIXCY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Sep 2025 04:20:38 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3JPXCLMCJJJNN53WR3VMVXSVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21일 오전 제주 서귀포시 남원면 휴애리 자연생활공원을 찾은 관람객들이 활짝 피어난 핑크뮬리를 감상하는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월요일인 22일엔 아침 최저 기온이 12도까지 내려가며 선선한 가을 날씨가 이어지겠다. 북쪽에서 내려온 찬 공기가 더운 공기를 밀어내며 늦더위가 누그러진 것이다.&lt;br&gt;&lt;br&gt;21일 기상청에 따르면 22일 아침 최저기온은 12~21도, 낮 최고기온은 23~29도를 기록하겠다. 이는 예년과 비슷한 수준이다. 구체적으로 서울이 17~24도, 대전 16~25도, 대구 16~25도, 부산 21~27도, 광주 17~27도를 나타내겠다. 내륙을 중심으로 낮과 밤의 기온 차가 10도 안팎으로 크게 나타나는 곳이 있겠으니, 건강 관리에 유의해야 한다고 기상청은 전했다. 대기의 원활한 확산으로 미세 먼지 농도는 전국이 ‘좋음’ 수준을 보이는 가운데, 제주도 지역엔 아침까지 약한 비가 내리겠다. &lt;br&gt;&lt;br&gt;비는 23일(화요일) 전국으로 확대될 것으로 보인다. 주변 저기압에 영향을 받는 고기압 가장자리에 들면서 대기가 불안정 해지는 탓이다. 수도권에 5㎜ 안팎, 전라도와 경상도 지역에 5~10㎜ 가량의 비가 올 것으로 전망된다. 제주 지역엔 5~20㎜ 비가 예보 돼 있다. 비가 그친 후 24일 아침 최저 기온은 16~24도, 낮 최고 기온은 22~30도로 기온이 다시 소폭 오를 것으로 전망된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘1조1900억대 다단계 사기’ 휴스템 회장 징역 7년 대법서 파기…2심 다시</title>
       <link>https://www.chosun.com/national/court_law/2025/09/21/KECM2DVGBZC7NADPEUL2DBSDZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/KECM2DVGBZC7NADPEUL2DBSDZU/</guid>
@@ -959,15 +977,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YE7PFNXTIGXZE3DCRIJTFU2IQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산해양경찰서 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해상에서 8명이 탑승한 어선이 침몰하는 사고가 발생해 해경이 승선원 구조에 나섰다.&lt;br&gt;&lt;br&gt;19일 울산해양경찰서에 따르면 이날 오전 11시 52분쯤 부산 송정항 인근을 항해 중이던 부산 영도 선적 어선 A호( 79ｔ급 , 외끌이저인망)로부터 조난신호가 접수됐다. &lt;br&gt;&lt;br&gt;A호는 전날 오후 11시 4분쯤 부산 남항을 출항했던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 한국 국적 3명, 인도네시아 국적 5명 등 승선원 8명 중 7명(한국인 3명, 인도네시아인 4명)의 구조를 완료했다. 인도네시아인 1명은 실종됐다.&lt;br&gt;&lt;br&gt;구조된 60대 선장은 현재 의식이 없는 상태다.&lt;br&gt;&lt;br&gt;해경은 실종자 구조작업에 나서고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>해병 특검, 다음주 이노공·조태열 연달아 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/RP7GFC2F5JBMXDML5K7GVZK3KA/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 01:53:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAX52Z3FN33YZU6HO2WSIFT25A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태열 전 외교부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 오는 23일 이노공 전 법무부 차관을, 24일 조태열 전 외교부 장관을 피의자 신분으로 소환해 조사한다. 이종섭 전 국방부 장관의 ‘주(駐) 호주대사 임명 및 도피성 출국 의혹’에 연루된 법무부·외교부 고위직 관계자들에 대한 조사를 본격화하는 모양새다.&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 19일 언론 브리핑에서 “다음 주부터 호주대사 사건의 피의자들에 대한 조사를 본격적으로 시작한다”며 “오는 22일에는 이시원 전 대통령실 공직기강비서관을, 23일에는 이 전 차관을, 24일에는 조 전 장관을 불러 조사할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;이들은 2024년 3월 고(故) 채수근 상병 사망 사건과 관련해 고위공직자범죄수사처(공수처)의 수사를 받고 있던 이 전 장관을 호주 대사로 임명·출국시켜 공수처 수사를 방해하려 한 혐의(범인 도피·직권남용)를 받는다.&lt;br&gt;&lt;br&gt;이 전 차관은 이 전 장관에 대한 법무부 인사정보관리단의 인사 검증이 이뤄질 당시 법무부 차관이었다. 조 전 장관은 이 전 장관이 호주대사로 임명돼 출국하고 귀국 후 사임하는 전 과정을 관장한 인물이다. 이 전 비서관은 이 전 장관에 대한 대통령실의 인사 검증을 담당했다.&lt;br&gt;&lt;br&gt;특검은 이들을 상대로 이 전 장관의 호주대사 임명 및 출국 과정에 위법 행위가 없었는지 조사할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIV5CHZSJRJKNOKONJ2HFUYHQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병 특검의 정민영 특검보가 4일 서울 서초구 해병 특검 사무실에서 정례 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 해병 특검은 이날 내란 특검에 박성재 전 법무부 장관의 휴대전화 전자정보를 제출했다고 밝혔다. 정 특검보는 “내란 특검에서 (해병 특검이 확보한) 박 전 장관의 휴대전화 이미징 파일에 대한 압수수색 영장을 법원에서 발부받아 이날 집행하러 왔다”고 말했다. 해병 특검은 지난 8월 4일 박 전 장관의 차량과 휴대전화 등을 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;특검은 출범 두 달이 지나도록 한 사람도 기소되지 않은 등 수사 실적이 전무하다는 비판에 대해서는 이날 “납득하기 어렵다”는 입장을 밝혔다. 정 특검보는 “(해병 특검에서 다루는) 사건의 성격이 다른 특검과 굉장히 다른 면이 있다”며 “이제 (수사 기간) 중반을 막 지난 정도기 때문에 아직 기소가 되지 않아 수사가 제대로 안 됐다는 비판은 납득하기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“신림역 살인 예고 글 작성자, 정부에 4370만원 배상”...민사 책임 첫 판결</title>
       <link>https://www.chosun.com/national/court_law/2025/09/19/WWHOS4B2YZHJFBAD7EYFVYCYEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/19/WWHOS4B2YZHJFBAD7EYFVYCYEA/</guid>
@@ -975,15 +984,6 @@
       <description/>
       <pubDate>Fri, 19 Sep 2025 01:27:22 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYW56QFHN5ASRDOAYV7U5TDR6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 법원종합청사/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인터넷 커뮤니티에 ‘신림역에서 사람을 죽이겠다’는 허위 글을 올린 30대 남성이 정부에 수천만원대 배상금을 물게 됐다. 살인 예고글을 올린 작성자에게 민사상 배상 책임을 인정한 첫 판결이다.&lt;br&gt;&lt;br&gt;19일 서울중앙지법 민사93단독 조정민 판사는 정부가 ‘신림역 2번 출구 살인 예고글’ 게시자 최모(31)씨를 상대로 낸 손해배상 청구 소송에서 “최씨가 대한민국에 4370만1434원과 지연 이자를 지급하라”고 판결했다. &lt;br&gt;&lt;br&gt;최씨는 2023년 7월 26일 한 인터넷 커뮤니티에 ‘신림역 2번 출구 앞에 칼을 들고 서 있다. 이제부터 사람 죽인다’는 내용의 글을 올렸다. 서울 관악구 신림동에서 조선(34)이 무차별적으로 흉기를 휘둘러 1명이 숨지고 3명이 다친 이른바 ‘신림역 흉기 난동’ 사건이 벌어진 5일 뒤였다. &lt;br&gt;&lt;br&gt;법무부는 최씨의 허위 게시글로 112 신고 접수부터 검거에 이르기까지 경찰청 사이버수사팀과 경찰기동대 등 703명의 경찰력이 투입됐고 경찰관 수당과 동원 차량 유류비 등 4370만1434원이 사용됐다며 손해배상을 청구하는 소송을 냈다. 공권력과 세금을 헛되게 쓰게 한 것에 형사상 책임은 물론 민사상 배상 책임까지 묻겠다는 취지였다. 당시 법무부 장관은 한동훈 전 국민의힘 대표다.&lt;br&gt;&lt;br&gt;최씨는 경찰 업무를 방해한 혐의(협박·위계공무집행방해)로 구속기소돼 작년 12월에서 징역 1년에 집행유예 2년이 확정됐다. 이 사건 1심을 맡은 서울중앙지법은 “다른 사람 관심을 끌기 위해 별다른 죄의식 없이 글을 올렸고 이 범행으로 다수의 경찰이 출동해 공권력 낭비가 컸다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>강남 초등학교 지하서 불...1000여 명 대피</title>
-      <link>https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/19/NTMKE5YH2JCYLJ5GHA2AVPDIOI/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Sep 2025 00:00:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CZULRVW5H56OMLE476YOMW754.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 18일 서울 강남구의 한 초등학교에서 불이 나 학생과 교직원이 긴급 대피한 사실이 19일 알려졌다.&lt;br&gt;&lt;br&gt;소방 등에 따르면, 18일 낮 12시 19분쯤 서울 강남구 자곡동의 한 초등학교 지하 전기실에서 불이 나 학생과 교직원 등 1000여 명이 대피했다. 화재로 인한 인명 피해는 없었다. 학교 관계자의 신고를 받고 출동한 소방은 화재 발생 약 30분 만인 12시 47분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방은 전기실에 있던 태양광 장치에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>트리플 태풍 발생, 한반도 영향은? “주말에 우산 챙기세요”</title>
