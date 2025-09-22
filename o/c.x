@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘강릉 가뭄’ 24일 만에 재난 사태 해제</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/22/KM4JJZYE5BG6HBHOZMXEYH6D2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/KM4JJZYE5BG6HBHOZMXEYH6D2I/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 12:32:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRF3HZ5SUENKWBN6CW2LCS7TZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;극심한 가뭄을 겪고 있는 강원 강릉지역에 많은 비가 내린 지난13일 오전 우산을 쓴 시민이 마른 저수지에 내리는 단비를 바라보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 가뭄으로 강릉시에 지난달 30일 선포했던 가뭄 재난 사태를 22일 오후 6시부로 해제한다고 밝혔다. 재난 사태 선포 24일 만이다.&lt;br&gt;&lt;br&gt;이번 재난사태 해제는 강원특별자치도가 안정적인 수원 확보 상황과 추석 연휴 지역경제 위축 등을 고려해 선포 해제를 건의해 이뤄졌다.&lt;br&gt;&lt;br&gt;선포 해제에 따라 소방청의 국가소방동원령과 환경부의 가뭄 예·경보 단계도 함께 해제된다. 강릉 지역 가뭄 관리는 앞으로 평시 관리 체계로 전환된다.&lt;br&gt;&lt;br&gt;앞서 행안부는 지난 20일 강릉 현장을 찾아 관계기관과 함께 그간의 정부 지원 내용을 점검하고 현 가뭄 상황을 진단했다. 정부는 강릉 지역 가뭄 극복을 위해 ‘강릉 가뭄 대응 현장지원반’을 운영하며 대응해왔다.&lt;br&gt;&lt;br&gt;현장지원반에는 행안부·환경부·농식품부·국방부, 경찰청·소방청·해경청, 농어촌공사·수자원공사 등 12개 기관 18명이 참여했다. 전국 각지에서 독도경비함, 헬기 등 인력·장비를 총동원해 운반급수를 지원했다. 총 2만여 명의 인력과 8700여 대의 차량·헬기·함정·방사시스템 등이 투입됐다.&lt;br&gt;&lt;br&gt;또 특별교부세 34억원을 선제적으로 지원해 남대천 용수 공급 시설과 오봉저수지 상류천 준설을 추진하는 등 추가 수원 확보를 위한 노력도 계속하고 있다. 임시취수정·도수관로 등을 설치해 도암댐 취수 시설을 마련했고 지난 20일부터는 도암댐 방류를 시작해 하루 1만t의 원수가 추가 공급되고 있다.&lt;br&gt;&lt;br&gt;재난 사태가 해제된 이후에도 강릉시의 요청에 따라 대용량포방사시스템을 활용한 홍제정수장으로의 원수 공급은 지속된다. 최근 강수 등으로 강릉의 주요 수원인 오봉저수지 저수율은 이날 오후 9시 기준 60.7%의 저수율을 기록 중이다. 강릉시에 약 200일간 생활용수를 공급할 수 있는 수량이다.&lt;br&gt;&lt;br&gt;강릉시는 시민 불편 최소화를 위해 대수용가(저수조 용량 100t 이상) 123개소 등을 중심으로 시행했던 제한 급수를 19일 해제했다. 다만 절수 조치 등 물 절약 노력은 지속한다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “강릉 지역이 가뭄 상황을 이겨내고 일상을 회복할 수 있었던 것은 생수 나눔, 운반 급수를 비롯해 전 국민이 함께한 노력 덕분”이라며 “그간 밤낮을 가리지 않고 가뭄 현장에서 헌신해 주신 여러분께 깊이 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1986 아시안게임 체조 금메달리스트 권순성씨 별세</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/22/R73I25GTQFCABBZSCMRBUITROQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/R73I25GTQFCABBZSCMRBUITROQ/</guid>
+      <dc:creator>장민석 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 11:39:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3XNCKZSYJDZ7R4UZADJUVCUHOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;故(고) 권순성씨와 딸 권하림. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1986년 서울 아시안게임 기계체조 남자 평행봉 금메달리스트 권순성(59)씨가 22일 별세했다. &lt;br&gt;&lt;br&gt;고인은 약 23년간 체조 선수로 활약하며 주 종목인 링과 평행봉에서 세계적인 기량을 선보였다. 1986년 서울 아시안게임에서 평행봉 금메달을 따냈고, 단체종합과 링에선 은메달 2개를 추가해 한국 남자 기계체조 사상 최초로 아시안게임 메달 3개를 획득했다.&lt;br&gt;&lt;br&gt;고인은 선수 은퇴 이후에도 체조 관련 연구를 통해 한국 체조 발전에 기여했다. 그의 딸 권하림은 다이빙 국가대표로 2021년 도쿄올림픽에 출전했다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원장례식장 10호실에 마련되었으며, 발인은 24일 오전 5시 40분이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/T5BXGGSRBRB6LPETHK3ZFRLW7Q.JPG?auth=6ebf0a4667b4e10ec0523498504626eff67e890a727f355663b87ef12a4a7d84&amp;smart=true&amp;width=209&amp;height=157" type="image/jpeg" height="157" width="209">
+        <media:description type="plain">별세한 故(고) 권순성씨와 딸 권하림. /뉴스1 ⓒ 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ 뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>흉가 체험 유튜버, 산청 폐리조트서 시신 발견 </title>
       <link>https://www.chosun.com/national/2025/09/22/TGJS3OUK5NCJ5LC2J7SPGOF3MQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/09/22/TGJS3OUK5NCJ5LC2J7SPGOF3MQ/</guid>
@@ -691,24 +713,6 @@
       <description/>
       <pubDate>Sun, 21 Sep 2025 03:06:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 강남대로 193(양재동) 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 연속 이어진 회식 끝에 급성 알코올 중독으로 숨진 회사원에 대해 법원이 산업재해를 인정했다.&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 21일 삼성전자 직원이었던 A씨의 배우자가 근로복지공단을 상대로 “유족 급여 및 장의비 부지급 처분을 취소해 달라”며 낸 소송에서 원고 승소로 판결했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;삼성전자 무선사업부에서 멕시코 영업 관리 업무를 담당한 A씨는 2022년 7월 2일 자택 주차장에서 숨진 채 발견됐다. 사인은 급성 알코올 중독이었다. &lt;br&gt;&lt;br&gt;그는 숨지기 전날까지 사흘 연속 회식에서 술을 마신 것으로 조사됐다. A씨 배우자는 업무상 재해를 주장하며 공단에 유족급여와 장의비를 청구했지만, 공단은 “A씨의 사망은 업무상 질병으로 보기 어렵고, 회식과 업무 간 인과관계도 인정하기 어렵다”며 이를 거부했다. 이에 불복한 A씨 배우자는 소송을 제기했다.&lt;br&gt;&lt;br&gt;쟁점은 회식이 업무와 관련된 자리인지 여부였다. A씨가 참석한 6월 29일 회식에서는 1인당 와인 2~잔을 마셨고, 6월 30일 회식에서는 총 36명이 소주 34병과 맥주 46병을 나눠 마신 것으로 조사됐다. 이 두 차례의 회식은 업무 관계자와의 자리로, 비용은 각각 회사 경비로 처리했다고 한다.&lt;br&gt;&lt;br&gt;사망 하루 전인 7월 1일에는 A씨가 맡은 멕시코 파트 직원과 현지인 등 5명이 함께 술자리를 가졌다. 당시 비용은 A씨의 개인 카드와 현지인 카드로 나눠 결제됐다. 의사 소견에 따르면 A씨 사망에 가장 영향을 미친 것은 이날 회식인데, A씨의 배우자는 이 회식이 업무상 회식이라고 주장했지만 공단은 A씨가 돈을 지불했기 때문에 ‘사적 모임’으로 봐야 한다고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 A씨 배우자 측 손을 들어줬다. 재판부는 “A씨가 사망 전날 회식에 대해 식사 비용을 부담한 사정만으로 업무 관련성이 없다고 단정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 멕시코 현지인들과 업무적으로 긴밀한 협력이 필요했던 점, 같은 해 8월 멕시코로 6개월 장기 출장이 예정돼 현지 지원이 필요했던 점 등을 비춰 “출장 환영 자리의 성격상 술을 거절하기 어려웠을 것”이라고 판단했다. 식사 비용만 100만원이라 단순 친목 수준으로 보기 어렵다고도 봤다.&lt;br&gt;&lt;br&gt;또한 재판부는 연일 이어진 회식으로 알코올이 누적된 효과도 인정했다. 재판부는 “앞선 두 차례 음주로 인한 알코올이 완전히 분해되기 전에 연속으로 술을 마시면서 혈중 알코올 농도가 더 높아졌을 것으로 추정할 수 있다”면서 회식이 A씨 사망에 복합적으로 영향을 미쳤을 가능성을 배제할 수 없다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘조희대·한덕수 회동설’ 서영교, 직권남용 혐의 고발당해</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/21/BXA3OALQSJA3ZDHQOPG5VDY6Q4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/21/BXA3OALQSJA3ZDHQOPG5VDY6Q4/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Sep 2025 03:04:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HNL7FZ7RBBM33GFNBSYDDXIMMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서영교 더불어민주당 의원이 지난 4일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 천대엽 법원행정처장에게 질의하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘익명의 제보 녹취’를 틀며 조희대 대법원장과 한덕수 전 국무총리 간 부적절한 만남 의혹을 공식 석상에서 처음 제기했던 서영교 더불어민주당 의원이 직권남용·선거법위반 등 혐의로 경찰에 고발당했다. &lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 20일 서 의원을 직권남용, 선거법위반, 명예훼손, 협박, 업무방해, 내란 등 혐의로 서울경찰청에 고발했다고 밝혔다. &lt;br&gt;&lt;br&gt;서민위는 고발장에서 “AI 음성 여부에 대한 명확한 입장 없이 ‘우리가 따로 받은 제보도 있다. 모든 건 수사를 통해 확인하면 된다’라는 불명확한 사실을 면책특권 뒤에 숨어 조 대법원장 탄핵과 사퇴 협박 그리고 진실 미공개로 일관하면서 국민을 기만하고 능멸한 것은 명예훼손, 협박, 업무방해에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;서 의원은 앞서 지난 5월 14일 국회 법제사법위원회에서 유튜브 채널 열린공감TV의 녹취를 틀고 “제보를 받았다”며 “윤석열 탄핵 이후 정상명, 한덕수, 김충식, 조희대 4인이 회동했다고 한다”고 의혹을 제기했다. 해당 녹취엔 조 대법원장이 이 회동에서 당시 대선 후보였던 이재명 대통령의 공직선거법 사건을 두고 ‘대법원에 올라오면 알아서 처리하겠다’고 언급했다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>심우정 前검찰총장, 내란 특검 출석... 피고발인 신분</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/21/7W7P3MVHOVCTHLLAZN7H2P4FRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/21/7W7P3MVHOVCTHLLAZN7H2P4FRI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Sep 2025 00:58:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437FRLPJPFJZ3P65JL7A2NWHTA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;심우정 전 검찰총장이 21일 오전 서울 서초구 서울고등검찰청에 마련된 내란 특검팀(특별검사 조은석) 사무실에 피고발인 신분으로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심우정 전 검찰총장이 21일 피고발인 신분으로 내란 특검에 출석했다.&lt;br&gt;&lt;br&gt;심 전 총장은 이날 오전 9시 54분쯤 내란 특검 사무실이 마련된 서울고검에 출석했다. ‘윤석열 전 대통령의 구속취소 즉시항고 포기 결정에 대한 입장’ ‘비상계엄 당시 박성재 전 법무부 장관에게 검사 파견 지시를 받은 것이 없는지’ 등 취재진 질문에 답하지 않고 곧장 조사실로 향했다.&lt;br&gt;&lt;br&gt;앞서 여당과 시민단체는 심 전 총장이 윤석열 전 대통령의 구속취소 결정 이후 즉시항고를 하지 않았다며 지난 3월 직권남용·직무유기 혐의로 고위공직자범죄수사처(공수처)에 고발했다. 공수처는 이를 특검의 수사 대상에 포함된다고 판단하고 특검에 사건을 이첩했다.&lt;br&gt;&lt;br&gt;내란 우두머리 혐의 등으로 구속 기소됐던 윤 전 대통령은 지난 3월 검찰의 기소가 구속 기간 만료 후 이뤄졌다며 법원에 구속 취소를 청구했고, 법원은 이를 인용했다. 법원은 구속영장 실질심사으로 인해 연장되는 구속 기간을 날이 아닌 ‘시간’으로 계산하는 것이 타당하므로 검찰이 구속 기간이 만료된 상태에서 윤 전 대통령을 기소했다고 판단했다.&lt;br&gt;&lt;br&gt;당시 수사팀에서는 법원의 구속 취소 결정에 즉시항고 해 상급심 판단을 받아봐야 한다는 의견이 나왔지만, 심 전 총장은 대검 부장 회의 등을 거친 끝에 위헌 소지 등을 고려해 불복하지 않기로 하고 윤 전 대통령 석방을 지휘했다.&lt;br&gt;&lt;br&gt;심 전 총장은 12·3 비상계엄 당시 박성재 전 법무부 장관으로부터 합동수사본부에 검사 파견을 지시받았다는 의혹도 받고 있다. 당시 대검 소속 검사가 방첩사령부 측과 연락을 나눈 뒤 중앙선거관리위원회(선관위)로 출동했다는 의혹도 있다.&lt;br&gt;&lt;br&gt;특검은 심 전 총장을 상대로 이러한 의혹 전반의 사실 관계를 확인할 것으로 보인다. 앞서 특검은 관련 의혹의 진상을 규명해줄 물증을 확보하고자 지난달 25일 심 전 총장의 휴대전화와 대검찰청 등을 압수수색한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희 특검, 23일 김상민 전 검사 소환...구속 후 첫 조사</title>
