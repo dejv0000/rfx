@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>흉가 체험 유튜버, 산청 폐리조트서 시신 발견 </title>
+      <link>https://www.chosun.com/national/2025/09/22/TGJS3OUK5NCJ5LC2J7SPGOF3MQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/22/TGJS3OUK5NCJ5LC2J7SPGOF3MQ/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 10:05:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUJJOHXDFJN52P6BF75JAJR6YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폐가 체험 중인 유튜버 A시가 시신을 발견한 방송 화면. /유튜브 캡처 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버가 경남 산청에서 흉가 체험 영상을 촬영하는 중 남성의 시신을 발견해 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;22일 산청경찰서 등에 따르면 지난 13일 오전 1시 41분쯤 산청 한 폐건물 3층에서 남성이 숨져 있는 것을 유튜버 A씨가 발견해 신고했다. 발견 당시 시신은 부패가 상당히 진행돼 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 확인 결과 시신은 30대 중반의 B씨로 확인됐다. 경찰은 경기도에 거주하는 B씨가 지난 7월쯤 집을 나갔던 것으로 가족을 통해 확인했다. 범죄 혐의점은 없었고, B씨가 숨진 장소에서는 신변을 비관하는 내용의 유서가 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 B씨가 인터넷 검색 등을 통해 해당 건물을 찾은 것으로 보고 있다. 이 건물은 지난 2023년쯤 불이 난 이후 비어 있었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편, A씨의 신고 과정에서 경찰 초기 대응을 두고 논란이 일고 있다. 당시 A씨 신고를 접수한 경남경찰청 112상황실에서는 “사람이 죽은 것이 확실하냐”며 현장 사진을 요구한 것으로 전해졌다. 이에 A씨는 사진을 찍기 위해 다시 현장으로 들어갔다고 한다. &lt;br&gt;&lt;br&gt;이 같은 내용이 알려지자 A씨가 올린 영상에는 “다시 현장 가서 시체 사진 찍어 보내세요 하는 게 맞나?” “살인 사건이면 범인이 숨어 있을 수도 있는데 다시 가서 확인해달라고 한다고?” 등 경찰 대응에 대한 부정적인 댓글이 달렸다. &lt;br&gt;&lt;br&gt;이와 관련해 경남경찰청 관계자는 “심야 시간대 폐허에서 시신이 있다는 신고였던 만큼 112 상황실에서는 장난전화 여부를 확인하기 위해 요청한 것”이라며 “당시 신고자에게 밖이었다면 찍어 보내지 않아도 된다고 했다”고 말했다. 경찰은 국립과학수사연구원에 시신 부검을 의뢰해 정확한 사망 원인을 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산국제영화제 티켓 판다고 속이고 잠적...경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/2025/09/22/XJNQOGUATRAFFFHEJMF5RJGR64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/22/XJNQOGUATRAFFFHEJMF5RJGR64/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 10:03:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HTRMXWNJCVMUDEJOCEO2FFGSPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제30회 부산국제영화제 개막식이 열린 17일 부산 해운대구 영화의전당으로 관람객들이 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제30회 부산국제영화제(BIFF)가 성황리에 개최되고 있는 가운데 영화제에서 인기를 끌고 있는 티켓을 판매하겠다고 속인 뒤 돈만 받고 잠적하는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 30대 여성 A씨가 14만원 상당의 사기 피해를 입었다고 고소장을 접수해 수사를 벌이고 있다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 21일 BIFF 오픈 채팅방에서 인기 상영작 티켓을 판매한다는 글을 보고 판매자에게 연락했다.&lt;br&gt;&lt;br&gt;이어 A씨는 판매자에게 14만원을 지급했지만, 이후 판매자는 잠적한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “현재 피의자 특정을 위해 압수수색 영장을 신청한 상태”라면서 “자세한 사항은 수사 중이라 알려줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난 17일 개막한 부산국제영화제는 오는 26일까지 이어질 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘빅뱅 팔이’ 하더니 또 사업?… ‘버닝썬’ 승리, 출소 후 근황</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/22/PAZIGF5VRREWPBCPVBMA65AGAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/PAZIGF5VRREWPBCPVBMA65AGAQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 09:15:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUFOMYOPRBC5FBJMWUEIJUHK4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 빅뱅 전 멤버 승리의 근황으로 알려진 사진. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘클럽 버닝썬 사건’으로 실형을 살고 출소한 그룹 빅뱅 전 멤버 승리(35‧본명 이승현)의 근황이 공개됐다.&lt;br&gt;&lt;br&gt;최근 온라인 커뮤니티와 소셜미디어에는 승리의 최근 모습으로 알려진 흑백 사진 두 장이 공개돼 확산하고 있다. 과거보다 비교적 살이 오른 얼굴로 미소 짓고 있는 사진이다. 승리는 누군가와 어깨동무를 한 채 포즈를 취하고 있는데, 일부 네티즌은 이 인물이 말레이시아에서 주얼리 브랜드를 운영하는 사업가라고 주장했다. 이에 승리가 새로운 사업을 구상 중인 것 아니냐는 댓글도 이어지고 있다. 다만 사진 속 인물의 신원이나 사진을 찍은 정확한 시기 등은 알려지지 않았다.&lt;br&gt;&lt;br&gt;2006년 빅뱅 막내로 데뷔한 승리는 사내이사로 재직하던 클럽 버닝썬 논란으로 2019년 팀을 탈퇴하고 연예계에서 은퇴했다. 이듬해 1월 상습 도박, 성매매, 성매매 알선, 성폭력범죄의처벌 등에 관한 특례법 위반, 외국환거래법 위반, 식품위생법 위반, 업무상 횡령, 특정경제범죄가중처벌 등에 관한 법률 위반(횡령), 특수폭행교사 등 9개 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;2020년 3월 제5포병단에 입대한 승리는 군사법원 재판 1심서 징역 3년 실형을 선고받고 국군 교도소에 수감됐다. 2심에서 1년 6개월로 형량이 줄었고 전시근로역으로 편입돼 민간 교도소인 여주교도소로 이감됐다. 대법원은 승리의 모든 혐의에 대해 유죄를 인정하고 징역 1년 6개월을 확정했다. 이후 승리는 2023년 2월 형기를 마치고 출소했다.&lt;br&gt;&lt;br&gt;작년 1월엔 캄보디아 행사에서 빅뱅 동료였던 지드래곤을 언급해 논란을 빚기도 했다. 당시 승리는 무대에 올라 “언젠가 지드래곤을 이곳으로 데려오겠다(One day I’ll bring G-Dragon to here)”고 외쳤고, 지드래곤과 태양이 함께 부른 곡 ‘굿 보이(GOOD BOY)’에 맞춰 춤을 췄다. 이 모습이 공개되자 네티즌들은 “빅뱅 이름에 먹칠 그만해라” “빅뱅 팔이 지겹다” “반성을 모른다”고 비판했었다.&lt;br&gt;&lt;br&gt;그 후에도 승리가 중국에서 사업을 계획 중이라는 보도가 나온 바 있으나, 승리는 직접 이를 부인했다. 그는 한 매체와의 인터뷰에서 “해외 일정은 기존 지인들을 만나거나 결혼식 참석 등 개인적인 시간을 보내기 위함이지 사업 계획은 전혀 없다”며 “사적인 부분에 있어서도 논란이 생기지 않도록 신중히 행동하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>피싱 조직 근거지 보러 캄보디아 갔다 피해자 2명 구조한 부산 경찰 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/22/I24DYOGXARCHZHLKBXH5ANNGRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/22/I24DYOGXARCHZHLKBXH5ANNGRA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Sep 2025 08:21:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFTYVYWYVNACRJ4Y36ILTBDOTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 서부경찰서 수사과장 오영훈 경정. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사비로 보이스 피싱 범죄 근거지를 확인하러 캄보디아에 간 부산 경찰 간부가 비행기 안에서 피해자 2명을 잇달아 구조했다.&lt;br&gt;&lt;br&gt;22일 부산경찰청에 따르면, 부산 서부경찰서 수사과장 오영훈(56) 경정은 지난달 21~24일 사비로 캄보디아 프놈펜을 찾았다. 팀에서 수사 중인 투자 리딩 사기 조직의 근거지를 확인하기 위해서다. &lt;br&gt;&lt;br&gt;오 경정은 프놈펜으로 떠나기 전 현지에 주재하는 경찰 영사와 연락해 보이스 피싱 조직이 있는 건물에 대해 사전 설명을 듣고 지난달 21일 출국길에 올랐다.&lt;br&gt;&lt;br&gt;현지에 도착한 그는 출국 전 연락을 했었던 경찰 영사로부터 문자 메시지를 받았다. 메시지에는 20대 남성 A씨 사진과 함께 ‘보이스 피싱 조직에 합류하려는 A씨가 같은 비행기를 타고 있다. 찾아서 인계해달라’는 내용이었다. A씨의 부모는 “지적장애 자녀를 취업시켜 준다는 말에 속아 캄보디아로 향했다”며 경찰에 신고를 한 상태였다. 오 경정은 사진 속 남성이 본인의 옆자리에 앉은 남성과 동일임을 알아채고, 그를 무사히 경찰 영사에 인계했다.&lt;br&gt;&lt;br&gt;업무를 마치고 귀국하려던 오 경정은 또다시 경찰 영사로부터 도움 요청을 받았다. 보이스 피싱 조직에 붙잡혀 일주일간 감금돼 폭행을 당하다 탈출한 30대 남성 B씨와 인천국제공항까지 동행해 달라는 것이었다. 당시 B씨는 자신의 계좌로 들어온 사기 수익금을 인출하지 못하자 조직원들로부터 무차별 구타를 당해 극도로 불안한 상태였다. 오 경정은 B씨를 안심시키며 인천국제공항으로 귀국했고, 그를 가족 품으로 무사히 돌려보냈다.&lt;br&gt;&lt;br&gt;한편 오 경정이 수사 중이던 투자 리딩 사기 사건은 현재도 피의자들을 추적하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시흥서 의붓형·편의점 직원 살해한 30대... 1심서 징역 40년</title>
       <link>https://www.chosun.com/national/court_law/2025/09/22/O6DV3466WFECHOPP6JHE3JFEG4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/22/O6DV3466WFECHOPP6JHE3JFEG4/</guid>
@@ -518,25 +554,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36YFVHLI7NERBCNCS6SK2I7J4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 재송동 차량 돌진 사고. /부산경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 20대 운전자가 몰던 차량이 편의점으로 돌진해 2명이 다쳤다.&lt;br&gt;&lt;br&gt;22일 오전 6시 6분쯤 부산 해운대구 재송동 교차로에서 20대 남성 A씨가 몰던 SUV 차량이 우측 인도를 넘어 편의점으로 돌진했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨와 40대 여성 편의점 종업원이 경상을 입고 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 졸음운전을 하다 사고를 낸 것으로 보고 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>라면엔 파리, 국밥엔 노끈이 둥둥…고속도로 휴게소 음식 먹으려다 깜짝</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/22/4AQISQA5H5CA7GF7DODYGO5EAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/4AQISQA5H5CA7GF7DODYGO5EAE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Sep 2025 00:16:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U4PY4EJ2CVAYPPZW3IUGU54FQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우동 속 귀뚜라미, 국밥 속 노끈./정희용 의원실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 고속도로 휴게소에서 판매하는 음식에서 파리, 노끈 등의 이물질이 발견되는 등 일부 휴게소 식당의 위생 상태가 불량한 것으로 드러났다. 추석 연휴를 앞두고 휴게소 먹거리 안전 점검을 철저히 할 필요성이 제기되고 있다.&lt;br&gt;&lt;br&gt;22일 국회 농림축산식품해양수산위원회 소속 정희용 국민의힘 의원(경북 고령군·성주군·칠곡군)이 한국도로공사에서 제출받은 자료에 따르면, 최근 5년간(2021~2025년 8월) 전국 고속도로 휴게소 내 식당·카페 등에서 식품위생법 위반으로 총 20건이 적발됐다.&lt;br&gt;&lt;br&gt;위반 사항으로는 ‘이물질 혼입’이 9건으로 가장 많았다. 이어 식품 취급 위반(4건), 수질 검사 부적합(2건), 종사자 위생모 미착용(2건), 조리장 내 위생 불량(1건) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;구체적인 이물질 주요 사례로는 ▲문경휴게소 라면에 파리 혼입(2022년) ▲덕유산휴게소 음료에 고체 이물질 다수 혼입(2022년) ▲영천휴게소 공기밥에 약봉지 혼입(2022년) ▲문경휴게소 우동에서 귀뚜라미 혼입(2023년) ▲안성휴게소 국밥에서 노끈 혼입(2023년) 등이다.&lt;br&gt;&lt;br&gt;정희용 국회의원은 “추석 연휴 기간 고속도로 휴게소 이용객이 대폭 늘어날 것으로 예상돼 휴게소 먹거리 위생 관리를 더욱 철저히 할 필요가 있다”며 “식약처·도로공사·지자체 등 관계 당국은 연휴 기간 귀성·귀경객들이 안심하고 휴게소를 이용할 수 있도록 만전을 기해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대부업체에 건넨 내 계좌, 돈세탁 통장으로 사용됐다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/22/MTZ5YDCJHVCWHF2Q3ZEGCYVSLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/MTZ5YDCJHVCWHF2Q3ZEGCYVSLA/</guid>
-      <dc:creator>안상현 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BKSFMGGWJFCDPOSWSSBKOHFO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장련성 기자
-서울 종로구 종각역 인근 골목길에 대부업체 광고가 붙어 있다. 최근 보이스피싱 범죄 조직은 돈이 필요한 저신용자들에게 대출을 해주겠다고 접근해 대포 통장 개설을 유도하고 있다. 이렇게 확보한 대포 통장은 불법 자금 세탁에 쓰인다. 올 상반기 보이스피싱 조직에 대포 통장을 제공해 검거된 사람은 3833명으로 작년보다 85% 늘었다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40대 이모씨는 보이스피싱 조직의 자금 세탁을 도왔다는 혐의로 기소돼 재판을 받고 있다. 1억원이 넘는 범죄 수익금을 세탁하는 데 이씨 통장이 사용됐기 때문이다. &lt;br&gt;&lt;br&gt;작년 중순 권고 사직을 받아 회사를 그만둔 이씨는 카드 값, 월세가 밀리자 은행을 찾았지만 ‘소득이 없으면 대출이 어렵다’는 답이 돌아왔다. 그런데 며칠 뒤 발견한 소셜미디어 광고 글은 ‘무직자도 대출 간단 해결’이라고 소개하고 있었다. 댓글로 연락처를 남기자 하루도 지나지 않아 전화가 왔다. 상담원은 “대출 승인을 받을 수 있는데, 계좌 거래 실적만 조금 쌓으면 된다”고 했다. “계좌에 돈을 입금해 드릴 테니 이 돈으로 상품권과 가상 화폐를 사서 우리한테 다시 전달해 주세요.” 이 상담원은 사실 보이스피싱 조직원이었다. 이씨는 “대출이 급한 상황에서 실적까지 높여준다고 하니 혹했다”며 “범죄인 줄 꿈에도 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSI3HWFWFZBPZETUTXWQILBB54.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 피해액이 눈덩이처럼 불어나면서, 보이스피싱 조직의 불법 자금 세탁 규모도 함께 급증하고 있다. 21일 경찰청에 따르면, 올해 상반기(1~6월) 보이스피싱 조직에 대포 통장(차명 계좌)을 제공해 검거된 인원은 3833명으로 작년(2072명)보다 85% 늘어났다. 금융감독원이 이양수 국민의힘 의원실에 제출한 자료에 따르면, 보이스피싱 사기 이용 계좌로 신고돼 전국 은행에서 지급 정지한 계좌 수는 작년 4만215개, 총피해액은 2516억원이었다. 2020년(2만8688개·1869억원)과 비교하면 각각 40.2%, 34.6% 증가했다. 이 의원은 “지급 정지되지 않고 결국 해외로 빠져나간 금액은 훨씬 많을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBMVIROOHRGZDDPSEHWFJUYT4U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자금 세탁은 보이스피싱 범죄의 마지막 단계다. 중국·동남아 등 해외에 거점을 둔 보이스피싱 조직들은 범죄 수익을 대포 통장으로 세탁한 뒤 해외로 유출하고 있다. 지난 2011년 정부는 피해자가 경찰 등에 신고하면 사기 이용 계좌를 즉각 동결시켜 돈이 빠져나가는 것을 막는 ‘지급 정지’ 제도를 도입했다.&lt;br&gt;&lt;br&gt;그런데 최근 보이스피싱 범죄 수법이 갈수록 고도화돼 사기라는 걸 깨닫고 경찰에 신고하는 시점이 갈수록 늦어지고 있다. 지급 정지 조치가 이뤄지기도 전 범죄 조직들이 느긋하게 여러 차명 계좌를 돌려가며 이체시키는 방식으로 돈을 세탁하고 있는 것이다. 경찰청 관계자는 “범죄 조직들이 경제적 벼랑 끝에 몰린 이들에게 접근해 저신용자 대출이나 고액 아르바이트를 미끼로 대포 통장을 대거 확보하고 있다”고 했다.&lt;br&gt;&lt;br&gt;대포 통장 이외의 자금 세탁 수법도 점점 더 교묘해지고 있다. 주부 서모(39)씨는 얼마 전 온라인 중고 거래 플랫폼인 당근에서 중고 마사지기를 판매하려다가 계좌 지급 정지 조치를 당했다. 마사지기를 사겠다던 사람이 서씨 계좌로 수백만 원을 보낸 뒤 전화를 걸어 “실수로 돈을 잘못 보냈는데, 내 아들 계좌로 돈을 환불해 줄 수 있느냐”고 했다. 의심 없이 돈을 돌려줬는데, 사실은 보이스피싱 범죄 수익금이었다.&lt;br&gt;&lt;br&gt;해외여행에서 쓰고 남은 외화를 인터넷을 통해 거래하는 것도 위험하다. 자신도 모르는 새에 보이스피싱 자금 세탁에 연루될 수 있기 때문이다. 범죄 조직원들은 최근 온라인에서 미국 달러 등을 팔겠다는 사람에게 접근해 예약금 명목으로 구매 대금을 선입금하고 있다. 범죄 수익을 외화로 세탁하는 방식이다. 금감원은 관련 사례가 증가하자 최근 “웃돈을 제시하거나 사전 이체, 제3자 명의 이체를 할 경우엔 보이스피싱을 의심해야 한다”고 했다.&lt;br&gt;&lt;br&gt;지난 7월엔 보이스피싱 조직에 가상 계좌를 제공해 돈세탁을 도운 대가로 수수료 32억원을 챙긴 전자 지급 결제 대행사(PG)가 처음으로 적발됐다. PG사는 신용카드사와 직접 계약하지 못하는 영세 온라인 쇼핑몰 대신 결제 업무를 대신 해주는 회사다. 서울 동부지검 보이스피싱 범죄 정부합동수사단은 작년 10월까지 1년간 보이스피싱 및 불법 도박 운영 조직 등에 가상 계좌 4565개를 제공한 전자 결제 대행사 관계자 4명을 기소했다. 상품권 사업자들도 보이스피싱 조직의 주요 자금 세탁 경로다. 서울 서부지검은 지난 11일 보이스피싱 사기 조직 등이 피해자 26명에게서 빼앗은 143억원을 받아 상품권으로 세탁해 준 상품권 사업자를 구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘법원 尹 구속 취소 때 항고 포기’ 심우정 前총장 17시간 반 특검조사</title>
       <link>https://www.chosun.com/national/court_law/2025/09/22/X7RAB5TL35FKXI6R56NLES7GRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/22/X7RAB5TL35FKXI6R56NLES7GRU/</guid>
@@ -557,15 +574,6 @@
         <media:description type="plain">APEC에 참가하는 세계 정상이 묵을 라한셀렉트 경주 전경./ 라한호텔 제공</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>“자금세탁 처벌 강화” 대법, 양형기준 논의</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/22/7ROR5IXUHBHIJNC7L4WH4KW4XE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/7ROR5IXUHBHIJNC7L4WH4KW4XE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Sep 2025 15:55:00 +0000</pubDate>
-      <content:encoded>올해 국내 보이스피싱 피해액이 사상 처음 1조원을 넘길 것으로 전망되면서 정부도 본격적인 대응에 나섰다. 중국·동남아 등에 거점을 두고 있는 해외 보이스피싱 조직이 범죄 수익금을 빼돌리지 못하도록 자금 세탁을 집중 단속하고 금융권의 감시·배상 책임도 강화하기로 했다. &lt;br&gt;&lt;br&gt;정부가 지난달 28일 발표한 ‘보이스피싱 근절 종합 대책’은 범죄 조직이 보이스피싱을 통해 빼앗은 자금의 세탁 수단에 대한 규제를 대폭 강화했다. 범죄 조직의 자금 세탁을 어렵게 해 피해 규모를 줄이고 추적을 용이하게 하겠다는 취지다. 우선 통신사기피해환급법을 개정해 가상 자산 거래소에도 이상 거래 탐지, 거래 목적 확인, 지급 정지, 피해액 환급을 의무화할 예정이다.&lt;br&gt;&lt;br&gt;자금 세탁에 대한 법원의 처벌 강도도 강해질 전망이다. 대법원 양형위원회는 지난 16일 자금 세탁 범죄에 대한 양형 기준을 만들기 위한 논의에 착수했다. 대법원은 “자금 세탁은 엄벌이 필요한 보이스피싱 등 중대 범죄의 핵심 수단으로 실질적인 처벌이 요구된다”고 했다. 양형 기준은 내년 3월 최종적으로 결정된다.&lt;br&gt;&lt;br&gt;은행 등 금융권의 감시·배상 의무도 강화된다. 종합 대책에는 은행에 보이스피싱 피해에 대한 배상 책임을 물릴 수 있도록 법제화를 추진한다는 내용이 담겼다. 은행에 금전적 책임을 지워 범죄 감시 및 예방 의무를 강화하겠다는 취지다. 영국에선 은행이 보이스피싱 피해액을 최대 8만5000파운드(약 1억6000만원)까지 배상하도록 하고 있다. 싱가포르에선 작년부터 금융권뿐만 아니라 통신사에도 책임을 묻는 ‘공유 책임제’를 도입했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>계좌 개설 쉽고 추적 어려워… 가상화폐로 ‘이중 세탁’</title>
@@ -611,18 +619,6 @@
       <description/>
       <pubDate>Sun, 21 Sep 2025 15:53:00 +0000</pubDate>
       <content:encoded>제주도가 내년 220억원을 들여 가파도에 ‘탄소 중립 섬’ 조성 사업을 추진하는 것을 두고 논란이 일고 있다. 제주도 본섬에서 남서쪽으로 5.4㎞ 떨어진 가파도(면적 0.84㎢)는 지난 2011~2016년 풍력과 태양광 등 재생에너지만으로 전력 수요를 충족한다는 프로젝트를 진행했다가 실패했던 곳이다. 당시 예산만 낭비했다는 지적이 컸는데, 이름만 바꾼 사업에 수백억 원 비용을 또 투입하는 게 맞느냐는 비판이 나오는 것이다. &lt;br&gt;&lt;br&gt;21일 제주도 의회 등에 따르면, 제주도는 ‘가파도 RE100(재생에너지 100% 사용) 마을 조성’ 사업에 내년도 예산 220억원을 확보했다. 기존 전력원인 디젤 발전기를 100% 재생에너지 발전 설비로 전환하는 게 골자다.&lt;br&gt;&lt;br&gt;그러나 이는 지난 2011~2016년 진행했던 가파도 ‘탄소 중립 섬’ 사업과 판박이란 지적이 나온다. 제주도는 우근민 당시 제주지사 주도로 2012년부터 4년간 예산 146억원을 투입해 250㎾(킬로와트)급 풍력발전기 2기와 48가구에 3㎾ 태양광 발전기를 설치했다. 가파도의 최대 사용 전력이 224㎾였던 만큼 재생에너지로 전력 수요 공급이 충분하다는 게 당시 제주도의 입장이었다.&lt;br&gt;&lt;br&gt;그러나 결과는 실패였다. 태양광발전기는 날씨에 따라 발전량이 들쑥날쑥했다. 햇볕이 많이 비치는 날은 발전량이 100%에 달했지만, 비 오는 날은 10%가 채 안 됐다. 발생 전력을 비축해 둘 에너지 저장 장치(ESS)가 제대로 갖춰지지 않아 버려지는 전력도 많았다. 풍력발전기 또한 고장 등으로 제대로 작동하지 못한 채 방치되다 결국 올해 철거됐다. 한 전력 업계 관계자는 “현재 가파도는 전체 전력 중 재생에너지 비율이 3%가량으로 뚝 떨어진 상태”라며 “사정이 변한 게 없는데 무작정 예산만 투입한다면 실패는 또 반복될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이태원서 홍대까지… N72번 심야버스, 주말엔 외국인 세상</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/22/QGF4D2PEJFDK3LIS54A7U27IYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/QGF4D2PEJFDK3LIS54A7U27IYQ/</guid>
-      <dc:creator>구아모 기자, 최하연 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Sep 2025 15:53:00 +0000</pubDate>
-      <content:encoded>“이태원에서 홍대로 가자!”&lt;br&gt;&lt;br&gt;지난 20일 오전 0시 45분 서울 용산구 6호선 이태원역 1번 출구 앞 버스 정류장. ‘불금(불타는 금요일)’을 막 넘긴 시각, 폭우를 피해 뛰어든 외국인 관광객과 시민 20여 명이 뒤엉켜 있었다.&lt;br&gt;&lt;br&gt;영어와 중국어, 일본어, 러시아어가 여기저기서 흘러나왔다. 금발의 독일인 남성이 맥주 캔을 든 채 비틀거렸고, 바로 옆 20대 일본인 여성 관광객 2명이 웃으며 “너모 재미써(너무 재밌어)”라고 했다. 그 뒤로 인도·네팔에서 왔다는 청년 무리들이 여러 번 홍대를 외쳤다. 이들 모두 ‘올빼미 버스’란 별칭으로 불리는 N72번 버스가 도착하기를 기다리는 외국인 관광객이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7H6YMZITHZGL3OFUQ2LSLPHQFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;토요일인 20일 오전 2시 서울 N72번 심야 버스가 외국인 관광객들로 가득 찼다. N72번 버스는 외국인 관광객이 많이 찾는 홍대·신촌·이태원 등을 통과해 새벽에도 붐빈다. 요즘에는 ‘외국인 만원 버스’가 됐다./최하연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심야 버스인 N72번은 서울 은평구 수색동과 중랑구 공영차고지를 평일·주말 가리지 않고 하루 아홉 차례 왕복 70㎞를 달린다. 번호 앞의 N은 밤(Night)이란 뜻으로, 밤 11시 30분부터 새벽 3시 45분까지 운행한다. 지하철 운행이 끊긴 뒤 서북·동북권을 관통하는 몇 안 되는 노선으로, 심야 택시 승차 거부 문제 등을 해결하기 위해 2022년 신설됐다. 그런데 최근 주말마다 ‘외국인 만원 버스’로 변한다. 홍대·신촌·이태원 등 대표 번화가마다 정차해 갈수록 늘어나는 외국 관광객들의 ‘발’이 되고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J73W2SFV7ZCB5LRDJLGC4ONYK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재팀은 지난 15일과 20일 이틀간 새벽 심야 버스를 직접 타보고, 지켜봤다. 20일 오전 1시 40분쯤 찾은 서울 마포구 홍대입구역 앞 버스 정류장에서 중국에서 온 관광객 왕샤오위(22)씨를 만났다. 그는 아이돌 그룹 세븐틴 멤버 민규의 팬이 돼 한국을 찾았다. 외국인 관광객들에게 N 버스는 단돈 2500원에 번화가를 오갈 수 있는 저렴하고 안전한 교통수단이었다. 이태원으로 향하는 버스에 탄 그는 “한국은 밤에도 치안이 좋아 안심된다”고 했다. 외국인 관광객들이 우르르 버스에 타자 버스 기사는 “카드 플리즈” “노 머니, 온리 카드”라고 외쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAHIMJZZRRA5JHXI4WJWBILQ44.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오전 1시 40분쯤 찾은 서울 마포구 홍대입구역 앞 버스 정류장 모습./ 최하연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 버스 기사는 “최근엔 ‘케이팝 데몬 헌터스(케데헌)’ 열풍으로 외국인 관광객이 늘어서인지 N 버스가 평소 주말보다 더 붐빈다”고 했다. 서울시 관계자는 “홍대에 숙소를 잡은 외국인들이 저녁에 이태원에서 관광을 즐긴 뒤 N 버스를 타고 숙소로 돌아가는 경우가 많다”고 했다.&lt;br&gt;&lt;br&gt;이날 새벽 2시 30분 이태원 앞 정류장에서 ‘탑승 전쟁’이 벌어졌다. 뒷문이 열리자 승객이 다 내리기도 전 승객들이 밀려 들어왔다. 내부가 미어터져 버스 기사가 문을 닫지도 못했다. “백(back·뒤로)! 백!”이라는 버스 기사 고성이 차 안을 가득 메웠다. 버스를 타지 못한 관광객들은 영어로 욕설을 내뱉었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VVGNFRYOUJEZPNFV3ZWMX3UBYE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 16일 새벽 1시쯤 서울 용산구 6호선 이태원역 1번 출구 앞 버스 정류장 모습./최하연 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;버스 탑승을 포기한 다른 외국인 관광객 무리는 택시 기사들에게 “하우 머치 홍대(홍대까지 얼마인가요)”를 외쳤다. 브라질에서 온 루이즈(28)씨는 “라틴 음악을 많이 틀어주는 이태원 클럽이 좋아 연속 이틀 이태원을 찾았다”며 “그런데 오늘은 버스 타기도 힘들어 숙소에 어떻게 돌아가야 할지 모르겠다”고 했다.&lt;br&gt;&lt;br&gt;서울시 교통 통계에 따르면, N72번 버스 하루 평균 승차 인원은 2022년 523명, 2023년 840명, 2024년 1224명으로 2년 만에 배 이상으로 늘었다. 코로나 팬데믹 이후 외국인 관광객이 늘어난 영향이 큰 것으로 분석된다. N 버스 안에서 소란을 피우는 외국인들이 목격되면서 최근엔 ‘서울의 심야 1호선’이라고도 불린다. N 버스와 지하철 1호선 모두 구간이 긴 데다가, 눈에 띄는 독특한 복장과 행동을 하는 사람이 많이 모이기 때문에 붙은 별칭이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O77PVK5U4BEBRJF6DC5K3I3C2U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국 관광객 승객이 늘면서 일반 승객과 기사들 불편도 커지고 있다. 자정 넘어 퇴근길에 오른 자영업자 김모(58)씨는 “삼각지에서 신설동 가는 버스를 타려 해도, 홍대서 놀던 외국인 관광객들이 2차로 이태원에 몰리면서 버스가 매번 꽉 차 귀가하기 힘들다”고 했다.&lt;br&gt;&lt;br&gt;버스 기사들 사이에선 “금요일 근무가 다가오면 걱정된다”는 말도 나온다. 이태원 인근에선 과음한 승객들이 구토를 많이 하고, 신촌·홍대 인근에선 외국인 남성들이 한국 여성에게 헌팅을 자주 시도해 민원이 많이 들어온다고 한다. 버스 운전 경력 10년 차인 이모(68)씨는 “평일엔 승객 절반이, 주말엔 10명 중 7~8명이 외국인”이라고 했다. 그는 “한국에 이렇게 외국인이 많은지 새삼 체감하고 있다”며 “새벽 차고지에 무사히 돌아오면 ‘오늘도 큰일 없이 끝났다’는 생각에 한숨을 돌린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KJTEZ5DQXRG7VA37URMUXHBDC4.jpg?auth=aa0bb5221484f3286cf2d21cd67c1a0ac825b9eb497db7b5a40295f23dfcc296&amp;smart=true&amp;width=3703&amp;height=2131" type="image/jpeg" height="2131" width="3703">
-        <media:description type="plain">토요일인 20일 오전 2시 서울 N72번 심야 버스가 외국인 관광객들로 가득 찼다. N72번 버스는 외국인 관광객이 많이 찾는 홍대·신촌·이태원 등을 통과해 새벽에도 붐빈다. 요즘에는 ‘외국인 만원 버스’가 됐다./최하연 기자</media:description>
-      </media:content>
     </item>
     <item>
       <title>평양에 무인기 침투 의혹… 특검, 尹에 24일 출석 통보</title>
