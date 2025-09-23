@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹, 26일 ‘내란특검 추가 기소’ 첫 재판 출석... 보석 심문도 함께</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/23/53GA32ASKRATTFBE27KJGG3NFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/53GA32ASKRATTFBE27KJGG3NFE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Sep 2025 08:31:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WO7MTYAL5ZORWD26NWBHBBAPQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 7월 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 오는 26일 직권남용 등 혐의로 특검이 추가 기소한 사건의 첫 재판에 출석한다. 같은 날 윤 전 대통령의 보석 심문도 열릴 예정이다.&lt;br&gt;&lt;br&gt;23일 윤 전 대통령 법률대리인단은 “오는 26일 10시 15분 신건 공판은 출석한다”고 밝혔다. 이어 “형사재판에서 피고인의 출석은 형사소송법상 공판 개정의 요건”이라며 “이번 신건의 경우 궐석재판으로 진행되던 기존 내란 우두머리 재판과 별개의 재판 절차인 관계로 첫 공판에 반드시 출석해야 하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;형사소송법 276조에는 ‘피고인이 공판기일에 출석하지 아니한 때에는 특별한 규정이 없으면 개정하지 못한다’고 돼 있다. 형사 재판을 개시하려면 반드시 피고인이 출석해야 한다는 의미다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 26일 윤 전 대통령의 직권남용·특수공무집행방해 등 사건의 첫 공판을 연 뒤 곧바로 보석 심문을 진행할 전망이다. 윤 전 대통령 측은 앞서 특검이 직권남용 등 혐의로 추가 기소한 1심 재판부에 지난 19일 보석을 신청했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 24일 내란 특검의 소환 요구에는 응하지 않기로 했다. 윤 전 대통령 측은 이날 예정된 조사에 불출석할 예정이라고 밝혔다. 다만 불출석 사유서는 제출하지 않았다. 특검은 브리핑에서 “윤 전 대통령이 구두로 구치소 담당자에게 불출석 의사를 전달한 것으로 알고 있다”며 “출석 여부를 최종적으로 확인하고 향후 재소환 여부를 검토할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>과학·기술 우수 인재 영주·귀화 패스트트랙 대상 확대 </title>
+      <link>https://www.chosun.com/national/court_law/2025/09/23/6ID6ZRGNFJB2VCN62WFGYBO4IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/6ID6ZRGNFJB2VCN62WFGYBO4IU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Sep 2025 08:25:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 국내 유학 중인 해외 우수 인재 유치를 위해 시행 중인 ‘과학기술 우수 인재 영주·귀화 패스트트랙’ 제도를 확대·개편한 ‘K-STAR 비자트랙’을 운영한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;2023년 1월부터 시행된 기존 패스트트랙 제도는 한국과학기술원(KAIST) 등 5개 과학기술원에서 석·박사 학위를 받은 외국인을 대상으로 했다. 총장 추천을 받으면 거주 자격(F-2) 비자를, 연구 경력·실적 등이 일정 기준을 충족하면 영주 자격 비자(F-5)를 받았고, 연구 실적이 우수하면 국적심의위원회를 거쳐 특별귀화를 할 수 있었다. 일반유학생이라면 최소 6년인 영주 자격 취득 기간이 절반인 3년으로 단축됐다. 제도 시행 후 올 8월까지 296명이 F-2 비자를 받았다.&lt;br&gt;&lt;br&gt;법무부는 이번에 제도 적용 대상을 20여 개 일반 대학으로 확대하기로 했다. 이날 27개 대학을 대상으로 사업설명회를 열었고, 다음 달에 신청을 받아 연말에 대상 대학을 선정할 예정이다.&lt;br&gt;&lt;br&gt;법무부는 제도 개편으로 F-2 비자를 발급받는 외국 우수 인재가 연간 약 100명에서 400명으로 확대될 것으로 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘공익대표’ 기능 강화... “공익활동 최선 다할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/23/ZUDASMXNQ5DENPJ7LGPURZR6HU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/ZUDASMXNQ5DENPJ7LGPURZR6HU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Sep 2025 08:30:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKYEJAGHTVPZLCGCVOGB2ETITI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 청사 앞에 검찰 깃발이 바람에 날리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 수사와 기소 이외에 공익적인 법률 사무를 확대한다.&lt;br&gt;&lt;br&gt;대검찰청은 23일 “검사는 ‘공익의 대표자’로서 수사와 기소, 형 집행 외에도 민·상사, 행정의 다양한 영역에서 어려운 국민을 돕고 범죄를 예방하기 위해 공익적인 법률 사무를 꾸준히 수행하고 있다”며 이같은 방침을 밝혔다.&lt;br&gt;&lt;br&gt;올해 하반기 기준 전국 60개 지검·지청에는 공익대표 전담검사가 66명, 수사관 64명(겸임 포함)이 지정돼 활동하고 있다. 이들은 통상 검사의 업무로 여겨지는 피의자 수사나 기소, 공소 유지가 아닌 법률 사무에 투입된다.&lt;br&gt;&lt;br&gt;검찰이 해온 대표적인 법률 사무로는 부모로부터 학대·방임된 아동들을 대신해 친권상실·미성년후견인 선임을 청구하고, 양부모로부터 학대받은 아동을 위해 파양을 청구하는 것이 있다.&lt;br&gt;&lt;br&gt;또 검찰은 질병·장애·노령 등으로 사무처리에 어려움을 겪는 이들을 위해 성년후견개시심판을 청구하거나, 실종신고자로 접수됐으나 사망자로 간주된 이들에 대한 실종신고를 취소하는 업무도 해오고 있다. 이밖에도 보이스피싱이나 주식 리딩방 사기 등에 각종 민생범죄에 활용되는 유령법인에 대한 해산 명령으로 추가 범행을 차단하는 역할도 맡고 있다.&lt;br&gt;&lt;br&gt;특정 업무를 위해 전담팀을 운영하는 사례도 있다. 앞서 대구지검은 2021년 9월 ‘공익대표 전담팀’을, 부산지검은 2022년 7월 ‘비송사건 전담팀’을, 서울동부지검은 지난 3월 ‘유령법인 해산팀’을 운영해왔다. 검찰은 전담팀의 추가 설치를 계획하고 있다.&lt;br&gt;&lt;br&gt;대검은 “앞으로도 검찰은 법적 도움이 절실한 국민의 법률대리인으로서 아동과 사회적 약자 보호, 국민 재산의 보호 등 공익활동에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“이재명 반대” 외쳤던 유동규, 결국 검찰로 넘겨졌다</title>
       <link>https://www.chosun.com/national/national_general/2025/09/23/EQAHYOFHEVHU3A5NJTG5E2PCNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/EQAHYOFHEVHU3A5NJTG5E2PCNE/</guid>
@@ -930,33 +957,6 @@
       <description/>
       <pubDate>Mon, 22 Sep 2025 05:34:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KQDZY4J57EDWHUKS34JR6YUQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 배우자 김건희 여사가 지난 8월 6일 서울 종로구 KT광화문빌딩 웨스트에 마련된 민중기 특별검사팀 사무실에 출석하고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사에게 오는 25일 피의자 조사를 받으라고 통보했다고 22일 밝혔다. 특검의 이번 조사는 지난달 29일 김 여사를 구속 기소한 이후 약 한 달 만이다. 김 여사는 구속 후 지난달 12일 구속되기 전에 한 차례, 구속 이후 기소되기 전까지 다섯 차례에 걸쳐 피의자 조사를 받았다.&lt;br&gt;&lt;br&gt;특검은 김 여사를 상대로 김 여사 오빠 김진우씨가 2023년 1월 말 김상민(구속) 전 검사에게서 받은 1억4000만원 상당의 이우환 그림을 받은 경위에 대해 조사할 예정이다. 김 전 검사는 청탁금지법 위반 등의 혐의로 지난 18일 구속됐다. &lt;br&gt;&lt;br&gt;청탁금지법상 공직자(윤석열 전 대통령)의 배우자는 금지물품을 받아도 처벌 대상이 아니지만, 특검은 김 여사에게 뇌물 가액이 3000만원 이상일 때 적용되는 특정범죄가중처벌법상 뇌물수수 혐의로 피의자 조사를 할 예정이라고 했다. &lt;br&gt;&lt;br&gt;뇌물 범죄는 공직자에게만 적용되는 범죄인 만큼, 특검은 김 전 검사가 김씨에게 건넨 그림을 윤 전 대통령과 김 여사 부부가 공모해 수수했다고 보는 것으로 보인다. 특검은 그 대가로 윤 전 대통령 부부가 작년 4월 제22대 국회의원 선거에서 김 전 검사가 국민의힘 공천을 받을 수 있도록 했고, 김 전 검사가 공천을 받지 못한 후에는 그해 8월 김 전 검사를 국가정보원장 법률특보로 임명하는 데 영향력을 행사한 게 아닌지 의심하고 있다. &lt;br&gt;&lt;br&gt;한편 특검은 이날 서울중앙지법에서 열리는 한학자 통일교 총재와 ‘통일교 2인자’로 불리는 정원주 전 천무원 비서실장의 구속영장 실질심사에 총 8명의 검사를 투입했다고 밝혔다. 두 사람의 구속 여부는 이날 오후 늦게 결정될 전망이다.&lt;br&gt;&lt;br&gt;특검은 통일교 신자들의 국민의힘 집단 가입 의혹에 대해선 “데이터베이스 관리 업체에 대한 압수 수색은 완료가 됐으나, 국민의힘 당사에 대해선 국민의힘 측의 완강한 거부로 압수 수색이 중지된 상황”이라며 “추후 압수 수색 재개 여부 등은 확인해드리기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;또한 김건희 특검은 이날 ‘건진 법사’ 전성배씨에 대한 정치권 청탁 의혹과 관련해 박노욱 전 봉화군수, 브로커 김모(구속)씨 등을 불러 조사 중이다. 서울~양평 고속도로 노선 변경 의혹과 관련해 국토교통부 서기관 김모(구속)씨도 조사하고 있다. 삼부토건 및 웰바이오텍 주가 조작 사건과 관련해서는 이기훈 삼부토건 부회장 겸 웰바이오텍 회장과 구세현 전 웰바이오텍 대표를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢 ‘서해 피격 사건’ 文 전 대통령 직무유기·명예훼손 혐의 불기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/22/USYZJPTHQRDCPH6UT4UO5UFTFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/22/USYZJPTHQRDCPH6UT4UO5UFTFU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Sep 2025 06:23:42 +0000</pubDate>
-      <content:encoded>검찰이 ‘서해 공무원 피격 사건’ 유족이 문재인 전 대통령을 직무유기와 명예훼손 혐의로 고소한 사건을 불기소 처분했다. 고소 이후 2년 9개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNWINPNM2EYGK2IIHSNPLW6DFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울중앙지검 공공수사1부(부장 이병주)는 지난 19일 고(故) 이대준씨의 유족이 문 전 대통령을 고소한 사건 중 일부 혐의에 증거 불충분을 사유로 불기소 결정을 내렸다.&lt;br&gt;&lt;br&gt;이씨의 유족은 지난 2022년 12월 문 전 대통령이 이씨에 대한 구조 조치를 지시하지 않았고, 해양경찰청이 이씨의 월북을 단정한 수사 중간결과를 발표하게 했다며 직무유기와 명예훼손, 허위공문서 작성, 직권남용 등 혐의로 서울중앙지검에 고발했다.&lt;br&gt;&lt;br&gt;검찰은 이 중 직무유기와 명예훼손 혐의는 불기소했지만, 나머지 직권남용과 허위공문서 작성 등 혐의는 계속 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산소방, 6명 숨진 반얀트리 공사장 ‘아르곤 용접 불티’ 화재 재현</title>
-      <link>https://www.chosun.com/national/regional/2025/09/22/OYN3SGK24JEEXKJST2DZHBDVDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/22/OYN3SGK24JEEXKJST2DZHBDVDI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Sep 2025 06:09:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2SQJ42FVVATHFY6PGGN57BCQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 부산경찰청이 6명의 사망자가 발생한 '반얀트리 리조트 화재 사고' 중간 수사결과 발표에서 공개한 화기 작업 현장의 배관 사진./부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2월 6명이 숨진 부산 기장군 ‘반얀트리 리조트 화재’ 재판에서 화재 원인인 아르곤(TIG) 용접의 불티 발생 여부를 놓고 검찰과 피고인 측이 치열한 법적 다툼을 벌이고 있다. 최근 소방이 진행한 실증 실험에서는 아르곤 용접에서도 불티가 발생해 화재로 이어질 수 있다는 결과가 나왔다.&lt;br&gt;&lt;br&gt;부산소방재난본부 화재조사계는 지난 15~17일 사흘간 아르곤 용접 시 생기는 불티와 용융물(쇳물 등 고온에 녹은 물질)의 화재 위험성 등을 검증하는 실험을 진행했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;부산소방은 아르곤 용접은 불티가 발생하지 않아 화재 위험이 없다는 오해를 바로잡기 위해 이번 실험을 기획했다고 밝혔다.&lt;br&gt;&lt;br&gt;아르곤 용접은 아르곤 가스로 용융부를 보호해 일반 용접에 비해 불티가 적게 발생하는 편이다. 하지만 화재 위험성이 전혀 없는 것은 아니라고 소방 측은 설명했다.&lt;br&gt;&lt;br&gt;실험 결과 아르곤 용접 시에도 용융물과 불티가 발생하며 화재로 이어졌다. 또 작업자가 아르곤 용접 중 발생한 용융물을 배관 보온재에 떨어뜨리자 불이 붙었고, 열의 상승효과로 추가 연소도 관측됐다.&lt;br&gt;&lt;br&gt;이번 실험이 주목받는 것은 지난 2월 부산 기장군에서 발생한 반얀트리 리조트 공사장 화재 때문이다. 검찰과 경찰은 당시 현장 작업자가 배관실 용접에서 발생한 불티가 아래층 배관 보온재에 떨어져 열이 쌓여 불이 났다고 봤다. 반면 원·하청 측은 당시 작업자가 불티가 적게 발생하는 아르곤 용접을 사용했기 때문에 검·경이 제시한 화재 원인은 가능성이 적다고 반박했다.&lt;br&gt;&lt;br&gt;이에 이번 사건을 심리 중인 부산지법 동부지원 형사2부는 지난 7월 현장 검증을 진행했고, 그 결과 아르곤 용접 중 제한된 일부 상황에서만 불이 났다.&lt;br&gt;&lt;br&gt;하지만 이번 부산소방 실험은 당시 작업자가 말한 상황보다 더 안전한 조건에서 실험했는데도 불이 나 검·경의 주장에 힘이 더 실리는 상황이다.&lt;br&gt;&lt;br&gt;부산소방 관계자는 “2020~2024년 전국에서 용접·절단·연마 등으로 인한 부주의 화재는 5227건으로, 이 가운데 아르곤 용접 관련 화재도 23건으로 집계됐다”며 “이번 실험을 통해 아르곤 용접 역시 화재 위험이 있음을 확인했다. 현장에서는 KFI 인증 방화포를 사용하고, 화재 감시자 배치 등 안전 수칙을 철저히 지켜야 한다”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘KT 소액결제’ 피의자 “아파트 많은 곳 표적”, 범행 동기는 생활고... 경찰 수사 확대</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/22/CYNPZJBBFNG5BOWE62ACHI5WGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/22/CYNPZJBBFNG5BOWE62ACHI5WGY/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Sep 2025 05:37:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6EROVFFEC5NVXYP6HG6PISKIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 18일 오전 경기 수원시 영통구 수원영통경찰서에서 'KT 소액결제 사건' 피의자인 중국 교포 A 씨가 구속 전 피의자 심문을 받기 위해 나오고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘KT 소액 결제’ 사건의 피의자로 경찰에 검거된 중국인이 인구 밀집 지역인 아파트 많은 곳을 범행 대상으로 삼았던 것으로 드러났다.&lt;br&gt;&lt;br&gt;22일 경기남부경찰청에 따르면 정보통신망법 위반 및 컴퓨터 등 사용 사기 혐의를 받는 A(48)씨는 불법 소형 기지국(펨토셀)을 승합차에 싣고 수도권 피해 지역을 돌며 KT 가입자의 휴대전화 개인정보를 무단 탈취했다. 그는 지난 16일 인천국제공항에서 경찰에 검거됐다.&lt;br&gt;&lt;br&gt;그는 경찰 조사에서 “‘아파트가 많이 있는 곳으로 가라’는 지시를 받았다”고 주장한 것으로 알려졌다. A씨는 이 같은 지시에 따라 자신의 승합차에 펨토셀을 싣고 경기 광명과 서울 금천 등에 있는 대규모 아파트 단지를 돌아다녔다는 것이다. &lt;br&gt;&lt;br&gt;아직까지 범행을 지시한 ‘윗선’이 누군지 밝혀지지 않은 가운데 경찰은 A씨의 범행 기간 동선을 추적하면서 진술이 사실인지 대조하고 있다.&lt;br&gt;&lt;br&gt;아울러 경찰은 무단 소액 결제 피해가 경기 광명·부천·과천, 서울 금천·영등포, 인천 부평 일대에 국한되지 않고 광범위하게 일어난 사실이 뒤늦게 드러난 데 대해서도 수사할 계획이다.&lt;br&gt;&lt;br&gt;앞서 지난 20일 KT가 황정아 더불어민주당 의원에게 제출한 자료에 따르면 기존에 알려진 지역 외에 서울 동작, 서초, 경기 고양 일산동구에서도 피해가 발생했다. 다만 A씨가 추가로 드러난 피해 지역 아파트 단지를 대상으로 범행했는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 KT로부터 자료를 받는 대로 정확한 피해 내역을 산정하고 범행 지역과 일치하는지 살펴볼 방침이다. &lt;br&gt;&lt;br&gt;더불어 A씨는 범행 동기와 관련해 “생활이 어려워 500만원을 받는 대가로 범행에 가담했다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨 진술 진위를 가리기 위해 계좌 등도 들여다볼 예정이다. 현재까지 경찰은 A씨에게 범행을 제안 및 지시한 ‘윗선’ 이외에도 범행에 가담한 인물이 존재할 것으로 추정하고 수사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘정교 유착 의혹’ 한학자 통일교 총재, 구속 심사 출석</title>
