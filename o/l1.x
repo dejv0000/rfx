@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>"분과위, 전법대 전체 대표 안 해"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211772.jpg" alt="546448.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;5월 26일 열린 전국법관대표회의 임시회의 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;전국법관대표회의(이하 전법대) 재판제도 분과위원회가 25일 대법관 증원안에 대한 토론회를 개최한다. 법원 내부에서는 토론회의 성격과 근거 자료를 두고 여러 말이 나오고 있다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;우선 전법대 재판제도 분과위는 법관 대표뿐 아니라 일반 법관까지 참석 대상을 확대한 토론회를 열어, 대법관 증원 등에 대한 자유로운 의견을 교환하겠다고 밝혔다. 이에 대해 법원 내부에서는 분과위 토론회는 향후 전체회의의 공식 안건 논의 및 의결과는 구분된다는 지적이 나온다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;한 부장판사는 “분과위는 정기회의에 앞서 연구하는 역할을 수행하기 때문에 분과위가 진행하는 토론 결과를 전체 전법대의 토론 결과로 볼 수는 없다”며 “전체 법관 대표가 의결하지 않으면 전법대의 의견으로 볼 수 없다”고 말했다. 과거 법관 대표를 지낸 한 판사는 “분과위 토론회일 뿐인데, 전법대 전체가 논의하고 의결하는 것처럼 보이는 것 같다”며 “토론 후 전체 회의를 한다는 것인지 향후 계획에 대해서도 들은 바가 없는 것 같다”고 말했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;전법대 관계자는 토론회 결과를 전체 회의 안건으로 발의할지에 대해 “아직 미정이며, 진행 경과와 상황에 따라 달라질 것 같다”고 법률신문에 말했다. 그는 “토론회 후 토론 결과와 최종 보고서를 작성해 공유하고, 향후에도 필요한 연구와 논의를 이어갈 예정”이라고 했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;토론회에 앞서 분과위가 배포한 보도자료에 대해서도 다소 뒷말이 나오고 있다. 분과위가 공개한 보도자료에는 ‘과거 설문조사에서 법관 과반이 대법관 증원에 찬성했다’는 내용이 포함돼 있고, 다른 설문 내용은 빠져 있다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;법원 내부망에 게시된 전체 보고서에 따르면, 해당 설문(2018년 10월, 898명 응답)에서 상고심 개편 방안으로 대법관 증원안(54% 동의) 외 상고허가제가 74.4%, 상고법원 설치안이 20.7%의 동의를 얻었다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Wed, 24 Sep 2025 03:21:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211772</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211772</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211772.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
+			<title>내란 특검 "尹 추가기소 사건 첫 공판·보석 심문 중계 신청"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211770.jpg" alt="5673.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박지영 특검보 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 오는 26일 열리는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령 추가 기소 사건 1차 공판 기일과 보석 심문에 대해 법원에 중계를 신청했다고 24일 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&amp;nbsp;&lt;/span&gt;특검보는 이날 "오늘 오전 서울중앙지법에 특검이 기소한 윤 전 대통령 사건 1차 공판 기일 및 보석 심문에 대해 중계를 신청했다"며 "국민의 알 권리를 고려한 것"이라고 밝혔다. &lt;br /&gt;&lt;br /&gt;박 특검보는 "기존에 진행 중이던 내란 우두머리 재판의 경우, (재판 중계 시) 증인 위축과 군 기밀 문제 등 조심스러운 부분이 있었다. 이번 재판은 국가 기밀 등과 직결되는 부분이 없어 신청했다"고 설명했다. &lt;br /&gt;&lt;br /&gt;재판 중계 신청은 내란특검법 개정 전 11조 4항에 근거했다. 11조 4항은 '재판장은 특별검사 또는 피고인의 신청이 있는 경우 특별한 사정이 없는 한 중계를 허가해야 한다'라고 규정하고 있다. &lt;br /&gt;&lt;br /&gt;재판 중계 여부는 담당 재판부의 결정에 달려있다. 재판부는 중계를 허가하지 않을 특별한 사정이 있다고 판단되는 경우에는 중계를 불허할 수 있고, 그 이유를 밝혀야 한다.&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Sep 2025 03:20:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211770</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211770</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211770.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 고철 투자수익 수뢰액 계산 상법상 이율 6%</title>
+			<description>고철 투자 수익에 대한 수뢰액을 산정할 때 민법이 아닌 상법상 이율을 적용하는 게 타당하다는 대법원 판단이 나왔다. 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;재법관)는 8월 28일 고철업자 A 씨로부터 금품을 받은 경찰관 B 씨에 대한 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 등의 혐의를 심리하는 상고심에서 검찰과 B 씨의 쌍방 상고를 기각하고 원심을 확정했다(&lt;b&gt;2025도10746&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;B 씨는 우범자 관리 대상인 조직폭력배 출신 A 씨의 동향을 파악하다가 친분을 맺었다. A 씨의 청탁을 받은 B 씨가 수사 정보를 제공하기도 했다. 2022년 10월, B 씨는 A 씨에게 투자 수익금을 받기로 하고 2850만 원을 투자했다. A 씨는 150만 원씩 다섯 차례, 총 750만 원을 B 씨에게 교부했다. 2023년 5월 B 씨는 A 씨에게 3000만 원을 추가로 투자했다. A 씨는 9회에 걸쳐 매월 280만 원, 총 2520만 원을 B 씨에게 건넸다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;B 씨가 직무와 관계없이 대여로 얻을 수 있는 통상적 이익을 초과한 금액은 뇌물에 해당한다. 이때 민법과 상법 중 무엇을 적용해 통상적 이익을 계산할지가 쟁점이 됐다.&lt;p&gt;민법 제379조는 ‘이자 있는 채권의 이율은 다른 법률의 규정이나 당사자의 약정이 없으면 연 5푼(5%)으로 한다’고 규정한다. 상법 제54조엔 ‘상행위로 인한 채무의 법정이율은 연 6분(6%)으로 한다’고 돼 있다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A 씨가 B 씨의 금전을 차용했다고 판단해 수뢰액 산정에서 민법을 적용했다. B 씨의 통상적 이익은 278만7500원으로 계산됐다. B 씨의 투자 수익금 수뢰액은 3270만 원에서 278만7500원을 뺀 2991만2500원이다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;항소심은 1심과 달리 상법을 적용했다. A 씨가 고철업을 하는 상인의 지위에 있기에, B 씨가 A 씨에게 금전을 대여한 건 상행위로 인한 금전채권에 해당한다는 게 항소심 재판부 판단이다. 이에 따라 B 씨의 통상적 이익이 334만5000원으로 늘어났다. 동시에 B 씨의 투자 수익금 수뢰액이 2935만5000원으로 줄어들었다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 B 씨의 투자 수익금 수뢰액 산정에 위법 사항이 없다며 징역 4년, 벌금 4000만 원, 추징금 3060만9000원을 선고한 원심 판결을 그대로 확정했다.&lt;/p&gt;</description>
+			<pubDate>Wed, 24 Sep 2025 03:07:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211714</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211714</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>내란 특검, '계엄 검사 파견 의혹' 박성재 전 법무부장관 피의자 소환</title>
 			<description>&lt;p&gt;&lt;span style="text-align: center; background-color: #f0f0f0;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211769.jpg" alt="435363738.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 법무부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 24일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&amp;nbsp;&lt;/span&gt;전 법무부장관을 피의자로 소환했다. &lt;br /&gt;&lt;br /&gt;박 전 장관은 이날 오전 9시 50분께 서울고검 청사에 출석했다. &lt;br /&gt;&lt;br /&gt;박 전 장관은 지난해 12월 3일 국무회의에 참석한 뒤 법무부로 돌아와 실·국장 간부회의를 소집했다. 이 자리에서 박 전 장관은 계엄사령부 산하 합동수사본부에 검사 파견을 검토하라고 검찰국에 지시한 의혹를 받는다.&lt;br /&gt;&lt;br /&gt;또 출입국본부장에게는 '출국금지팀' 대기를 지시했고, 신용해 전 법무부 교정본부장에게는 수용 공간을 확보하라고 지시한 의혹도 있다.&lt;br /&gt;&lt;br /&gt;특검팀은 지난달 25일 법무부와 대검찰청, 서울구치소, 박 전 장관,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3204"&gt;심우정&amp;nbsp;&lt;/span&gt;전 검찰총장 등을 대상으로 압수수색을 벌이며 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;특검팀은 지난 21일 심 전 총장을 피고발인 신분으로 불러 17시간 넘게 조사하면서, 계엄 선포 당시 박 전 장관의 합동수사본부 검사 파견 지시 의혹 등을 확인했다.&lt;br /&gt;&lt;br /&gt;박 전 장관은 계엄 당일 법무부 간부 회의 전후로 심 전 총장과 세 차례 통화한 사실이 드러났다.&lt;br /&gt;&lt;br /&gt;특검팀은 지난 23잍 박 전 장관의 '수용공간 확보 지시'와 관련해 신용해 전 법무부 교정본부장을 참고인 신분으로 불러 조사했고 22일에는 법무부 간부 회의 참석을 거부하고 사표를 냈던 류혁 전 법무부 감찰관을 조사했다.</description>
 			<pubDate>Wed, 24 Sep 2025 01:43:35 -0000</pubDate>
@@ -210,36 +239,6 @@
 			<link>https://www.lawtimes.co.kr/news/211757</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211757</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211757.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>지식재산처 설립안에 변리사들 "K-디스커버리 도입해야"</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/211756.jpg" alt="3453.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국정기획위원회가 특허청을 지식재산처로 승격하는 방안을 발표한 가운데 지식재산처가 수행할 업무로 'K-디스커버리' 도입을 변리사들이 가장 바라는 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;대한변리사회가 17일부터 22일까지 변리사 회원들을 상대로 설문조사한 결과 지식재산처에 바라는 점에 응답자 391명의 25%인 177명이 'K-디스커버리 제도 도입'이라고 답했다. 특허침해 소송에서 원고가 침해 사실을 입증할 증거를 제시하기 어려운 탓에 그동안 손배금액 책정이 지나치게 낮았다는 것이다.&lt;br /&gt;&lt;br /&gt;디스커버리 제도 도입 외에는 '심사기간 단축'(22%), '지식재산 창출·활용·보호를 위한 지원 확대'(21%), '국가 R&amp;D 결과물에 대한 지식재산 창출 지원 확대'(10%) 순으로 응답이 많았다.&lt;br /&gt;&lt;br /&gt;지식재산처가 담당해야 할 업무 범위를 묻는 항목에는 31%가 '부정경쟁방지'를 꼽았다. '저작권'이라는 응답도 28%로 두 번째로 많았다. 저작권 업무는 문화체육관광부에서 담당한다. 지금의 특허청은 산업재산권 업무만 맡고 있다.&lt;br /&gt;&lt;br /&gt;지식재산처가 해결할 현안으로는 '변리사의 침해소송대리'라는 응답이 42%로 가장 많았다. 변리사회는 변리사가 소송에 참여하지 못해 소송이 지연되고 있다며 특허권의 가치가 떨어지는 원인 가운데 하나라고 주장했다.</description>
-			<pubDate>Tue, 23 Sep 2025 11:47:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211756</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211756</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211756.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>대구변회, 위기 노인 심리상담 등 위해 성금 450만 원 기탁</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211754.jpg" alt="12314.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대구중구노인상담소 성금 전달식에 참석한 관계자들.&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대구지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8881"&gt;이병희&lt;/span&gt;) 소속 저스티스봉사단(단장 김영민)이 성금 총 450만 원을 지역 복지기관에 기탁했다.&lt;br /&gt;&lt;br /&gt;봉사단은 위기·취약 어르신을 포함한 어르신 무료 심리 상담 지원을 위해 대구중구노인상담소에 200만 원을 기부했다. 또 이주민 추석 행사 선물 마련을 위해 대구이주민선교센터에 250만 원을 전달했다.&lt;br /&gt;&lt;br /&gt;대구변회는 “8월 성금으로 총 670만 원을 모금했으며, 이번 성금 전달 이후 차액은 추후 겨울철 전기요 기탁 때 보탤 예정”이라고 전했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Sep 2025 11:46:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211754</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211754</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211754.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
-		</item>
-		<item>
-			<title>이원석 전 검찰총장 "법률가에게 필요한 것은 이치와 정"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211753.jpg" alt="2314.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;서강대 하비에르관에서 로스쿨 재학생을 대상으로 강연하고 있는 이원석 전 검찰총장.《사진=한민아 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;“법은 흑과 백으로만 이뤄진 이분법이다. 법률가는 법뿐만 아니라 세상의 이치와 인간의 정을 헤아릴 줄 알아야 한다”&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9175"&gt;이원석&lt;/span&gt;(사법연수원 27기) 전 검찰총장은 9월 23일 서울 마포구 신수동 서강대 로스쿨에서 ‘법률가는 무엇으로 사는가’를 주제로 강연했다.&lt;br /&gt;&lt;br /&gt;이 전 총장은 법률가의 기본 소양으로 법(法) 외에도 리(理)와 정(情)을 강조했다. 그는 ‘이원석법’으로 불리는 ‘축사의 부동산 등기에 관한 특례법’(이하 축사등기법)을 사례로 들어 설명했다.&lt;br /&gt;&lt;br /&gt;이 전 총장은 “기존 부동산등기법과 대법원 판례에 따르면 벽을 세울 수 없는 한우 농가는 법률상 ‘건물’의 요건을 충족하지 못해 부동산 등기를 할 수 없었다”며 2008년 법무부 근무 당시 한우 농가를 방문한 일화를 소개했다. 그는 “기존 법으로는 등기가 어려워 등기 브로커 등 편법이 발생하고, 담보권 설정이 안 돼 대출이 불가한 상황이었다”며 “국가가 국민의 재산권을 보호하는 것이 이치”라고 설명했다.&lt;br /&gt;&lt;br /&gt;그는 “흑과 백인 법을 다채롭게 만드는 것은 인간의 정”이라며 2002년 김해공항 인근에서 발생한 ‘중국국제항공 129편 추락 사고’를 언급했다. 이 전 총장은 당시 현장을 지휘한 검사로서 유족이 느끼는 감정과 국가기관에 대한 불신을 헤아리려 했다고 말했다.&lt;br /&gt;&lt;br /&gt;그는 “국립과학수사연구소에만 DNA 검사를 맡겨도 되지만, 대검 유전자 감식실에도 검사를 요청했다”며 “시신 수습 과정을 당시 유족들이 받아들일 수 있게 노력했다”고 설명했다.&lt;br /&gt;&lt;br /&gt;끝으로 이 전 총장은 “직업에서 ‘직’은 자리를, ‘업’은 일을 의미한다”며 “방점은 ‘업’에 있다. 자리를 쫓으면 안 된다”고 말했다. 그는 “법률가들이 비난의 대상이 되고 있다”며 “예비법조인인 여러분이 법률로 더불어 잘 사는 세상을 만들어달라”고 당부했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Sep 2025 11:45:36 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211753</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211753</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211753.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
