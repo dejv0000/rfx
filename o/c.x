@@ -13,6 +13,275 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[사건 인사이드] 옆 농가 돼지 사체 빌려다가 3억대 보험금 청구한 농장주</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/25/SWLZTDT2WFGSRDJ5HJBON5A53Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/SWLZTDT2WFGSRDJ5HJBON5A53Q/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCRSH3XXDBH5HAEWVKHGJBTUT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한여름 폭염이 이어지던 작년 9월 충남 홍성군의 한 농가에서 돼지가 무더기로 폐사했다. A 농장은 ‘폭염으로 인한 자연재해’라며 보험사에 재해보험금을 청구했다. 그런데 이 농장이 신고한 폐사율이 약 70%(3180마리 중 2212마리 폐사)였다. 10% 수준인 인근 농가 평균 폐사율의 7배였다. 이 폐사 수가 인정됐다면 농가가 받을 보험금은 약 3억6000만원이었다. 이를 이상하게 여긴 보험사는 조사에 들어갔다.&lt;br&gt;&lt;br&gt;보험 조사관들이 불시에 농장을 찾았다. 일부 돼지 사체에 붉은 래커로 ‘95’ 등의 숫자가 칠해져 있었다. 보험 중복 청구를 막기 위해 보험사가 이미 보험금을 산정한 사체에 순서대로 번호를 매겨 놓은 것이었다. 그런데 농장을 더 둘러보니 상당수 사체가 지나치게 깨끗했다. 폐사한 동물은 온몸에 흙이나 오물이 묻어 있기 마련인데 그런 흔적이 없었다. 조사관들은 농장 구석에서 수세미와 신나 등 세척 도구들을 발견했다. 이 도구로 농가 주인이 붉은 래커 표식을 지운 흔적도 발견했다.&lt;br&gt;&lt;br&gt;보험사는 이 농장이 이미 보험금이 청구된 폐사체를 재활용하는 수법으로 보험금을 과다 청구한 것으로 의심해 충남경찰청에 수사를 의뢰했다. 경찰은 농장주가 옆 농가에서 돼지 사체를 빌려와 ‘폭염 피해’로 위장 청구하거나, 청구가 완료된 사체를 세척해 다시 보험사에 보상을 청구했다는 진술을 확보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NZ7X2CTYL5FOZDE4TDCDZ3CQ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 홍성군 문제 농가의 현장에서 발견된 신나 통(왼쪽)과 내부에 검은 잔여물이 남아 있는 플라스틱 용기(오른쪽). 경찰은 농장주가 돼지 사체에 칠해진 붉은 락카 표식을 지우기 위해 신나와 수세미 등을 사용한 정황을 확인했다고 밝혔다./NH농협손해보험&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 농장 주인은 작년 10월 보험 조사관에게 “사건을 좀 봐달라”며 5000만원 현금 다발도 건넸다고 한다. 조사관은 이를 곧바로 보험사에 보고했고, 돈다발은 경찰을 통해 농장주에게 반환됐다. 이 과정에서 농장주가 사건을 무마하려 한 정황이 드러나 배임증재 미수 혐의가 추가됐다. 경찰은 지난 7월 보험사기방지특별법 위반과 배임증재 미수 혐의로 사건을 검찰에 송치했다.&lt;br&gt;&lt;br&gt;해마다 폭염이 반복되면서 보험사엔 가축 폐사 신고가 급증하고 있다. 하지만 일부 농가가 폭염이 닥치기 전에 폐사한 가축까지 ‘폭염 피해’로 둔갑해 보상을 신청하는 사례가 적잖다고 한다. 보험사 관계자는 “닭·염소 같은 소형 가축 폐사체는 주로 냉동 보관하다가 뒤늦게 신고하는 사례가 적잖은 것으로 의심된다”며 “돼지처럼 부피가 크고 부패가 빠른 동물은 보험금을 이미 타갔다는 래커 표식을 지우는 방식으로 조작하는 경우가 늘고 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4R3ELDTLTF3ASZBIK4KZOACLXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;돼지사육농가 자료사진. 사진은 기사 내용과 직접적인 관련 없음./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>4.5일제 시동 건 정부, 연내 로드맵 발표</title>
+      <link>https://www.chosun.com/national/labor/2025/09/25/KJDVWWVOC5DOHOTORYSJ6GJB4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/25/KJDVWWVOC5DOHOTORYSJ6GJB4Q/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 16:12:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WC2XR26VQFHI5A73YBRJ5CEEBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 중구 은행연합회에서 전국금융산업노동조합 관계자들이 ‘내일을 바꿀 주 4.5일제!’라고 적힌 손팻말을 들고 있다. 금융노조는 26일부터 주 4.5일제 도입과 임금 인상 등을 요구하는 총파업에 들어간다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 정부의 국정 과제인 ‘주 4.5일제’의 밑그림을 그리는 노사정 협의체 논의가 시작됐다. 고용노동부는 24일 ‘실노동시간 단축 로드맵 추진단’을 출범했다고 밝혔다. 정부와 민주노총, 한국노총, 한국경영자총협회, 중소기업중앙회 등이 참여하는 추진단은 3개월간 논의해 주 4.5일제 추진 세부안 등을 담은 ‘실노동시간 단축 로드맵’을 발표할 예정이다.&lt;br&gt;&lt;br&gt;앞서 이재명 대통령은 대선 기간 “우리나라 평균 노동시간을 2030년까지 OECD(경제협력개발기구) 평균 이하로 단축하겠다”고 공약했고, ‘주 4.5일제 추진’을 국정 과제로 채택했다. 지난해 기준 우리나라 연평균 근로시간은 1859시간으로 OECD 국가의 평균(1717시간)보다 많다.&lt;br&gt;&lt;br&gt;정부는 우선 주 4.5일제를 확산하는 데 방점을 둘 것으로 보인다. 이를 위해 4.5일제를 도입하는 업체에 재정 지원을 가능케 하는 ‘실노동시간 단축 지원법’을 연내에 제정할 예정이다. 내년부턴 주 4.5일제 시범 사업 등을 시행하기 위한 325억원 예산 배정도 마쳤다. 정부 내에선 예정대로 4.5일제 도입 분위기가 확산되면 2028년쯤엔 법정 노동 시간 자체를 줄이는 법 개정을 검토할 수 있을 것이란 기대가 나온다. 다만, 노동계는 임금 삭감 없는 주 4.5일제를 요구하고 있어 이와 관련한 사회적 논쟁은 불가피할 것으로 보인다.&lt;br&gt;&lt;br&gt;정부는 노동계가 ‘공짜 노동’ 시간을 늘린다고 지적해 온 ‘포괄임금제’ 역시 금지한다는 방침이다. 포괄임금제는 실제 근로시간을 따지지 않고 연장·야간·휴일근로수당을 사전에 일정액으로 정하는 임금 제도다. 정부는 실제 근무시간을 측정하고 기록하는 것을 의무화하는 식으로 근로기준법을 개정할 예정이다.&lt;br&gt;&lt;br&gt;한편, 금융노조는 이날 서울 명동 은행회관에서 기자회견을 열어 주 4.5일제 도입 등을 주장하며 26일 총파업을 예고했다. 금융노조는 “장시간 노동은 저출생과 지방 소멸을 가속하는 주요 원인”이라며 “금융권이 선제적으로 주 4.5일제를 도입해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXUV2SYL2ZGMVBMRQCSMZFTOQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 주 4.5일제 추진 밝히는 노동부 장관
+김영훈 고용노동부 장관이 24일 열린 ‘실노동시간 단축 로드맵 추진단 킥오프 회의’에 참석해 발언하는 모습. 이날 출범한 추진단에서 주 4.5일제 추진 세부안 등을 마련한다.
+/고용노동부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇정부 “노동시간 OECD 평균으로” 재계 “임금 삭감 없인 불가능”&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부는 OECD(경제협력개발기구) 수준의 평균 노동시간을 달성하기 위해 반드시 4.5일제가 확산돼야 한다고 판단하고 있다. 연차 휴가 소진율을 높이거나 육아휴직을 제대로 사용하도록 하는 등 사각지대를 없애는 방안도 추진되지만, 근로시간 자체를 줄이지 않으면 한계가 있다고 결론지은 것이다.&lt;br&gt;&lt;br&gt;문제는 근로시간 단축으로 나타날 기업의 생산성 저하와 근로자의 임금 삭감이다. 노동계는 임금 삭감 없는 4.5일제를 주장하지만, 경영계에선 노동 생산성이 줄어드는 데 급여만 올리는 것은 불가능에 가깝다는 반박이 제기된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WQLLTHW52RCAPKNNISHXRZLW6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇생명 안전 업무부터 4.5일제 시범 사업&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부는 내년 시범 사업을 통해 주 4.5일제 확산 분위기를 조성하겠다는 계획이다. 과로사·산재 고위험 등이 높은 생명·안전 관련 업무 등에 4.5일제를 시범 도입한다는 방침이다. 소방, 의료, 재난 대응 관련 업무가 우선 도입 대상으로 거론된다.&lt;br&gt;&lt;br&gt;이 같은 방침은 정부의 또 다른 핵심 국정 과제인 ‘산재와의 전쟁’과도 연관돼 있다는 분석이다. 정부는 장시간의 야근 등이 산재와 연관돼 있고, ‘과로 사회’에서 벗어나면 산재를 줄일 수 있다고 보고 있다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 정부는 4.5일제 도입 업체에 대한 재정 지원을 위해 연내 ‘실노동시간 단축 지원법’을 만들 예정이다. 주 4.5일제를 도입한 기업에 보조금, 세액공제 등 혜택을 제공하겠다는 취지다. 구체적으로 노사 합의로 주 4.5일제를 도입·운영한 업체에 대해선 근로자 1인당 6개월간 20만~60만원을 지원하는 제도를 검토하고 있다. 도입 후 채용이 증가한 기업에 대해선 추가 채용 인원당 60만~80만원을 지급하는 안도 거론된다. 이를 위해 고용노동부는 내년도 예산 325억원을 이미 배정한 상태다. 이 외에 4.5일제 도입 지원을 위한 특화 컨설팅, 육아기 근로자의 ‘10시 출근제’ 등도 함께 추진해 근로시간을 줄인다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇기업들 “생산성 하락 뻔한데”&lt;/b&gt;&lt;br&gt;&lt;br&gt;산업계에선 제조업 중심인 우리나라 산업 구조에서 4.5일제 도입은 기업의 생산성 하락과 직결될 것이라는 지적이 나온다. 특히 미국 관세 협상 등 불확실성이 지속되고, 글로벌 공급망 재편 등으로 생산 단가가 오르고 있어 심각한 경영 위기에 봉착할 수 있다는 것이다.&lt;br&gt;&lt;br&gt;한국경영자총협회에 따르면 한국의 시간당 노동생산성은 44.4달러로 OECD 평균인 56.5달러의 80%에도 미치지 못한다. 미국 77.9달러, 독일 68.1달러, 프랑스 65.8달러, 영국 60.1달러, 일본 49.1달러 등 대부분의 주요국보다 낮은 수치를 나타냈다.&lt;b&gt; &lt;/b&gt;최근 대한상공회의소는 ‘2018년 이후 국내 업체 임금은 연평균 4% 오르는 데 반해, 노동생산성은 1.7% 올랐다’는 내용의 보고서를 내놓기도 했다. 대한상의 측은 “인건비 상승이 노동생산성을 웃돌 경우, 임금 상승을 가격에 전가하기 어렵고 연구·개발 투자 여력도 부족한 중소·중견 기업이 더 큰 타격을 받게 된다”고 했다.&lt;br&gt;&lt;br&gt;업계에선 반도체 등 첨단 산업에 대해선 오히려 주 52시간 근무제 예외 적용 등 근로 유연화 제도를 고심해야 한다는 지적도 많다. 핵심 개발 인력의 경우 대체가 힘들기 때문에 단순히 인력을 더 투입하는 식으로는 개발 진도를 나갈 수 없다는 것이다.&lt;br&gt;&lt;br&gt;근로자의 급여 감소 문제도 해결해야 할 숙제다. 노동계에선 ‘임금 감소 없는 주 4.5일제’를 주장하고 있지만, 노동생산성이 저하되면 이익도 줄기 때문에 현실적으로 급여를 줄일 수밖에 없다는 게 전문가들의 공통된 견해다. 조준모 성균관대 경제학과 교수는 “기업 입장에선 줄어드는 시간만큼 사람을 더 뽑아야 하는데, 기존 임금까지 유지시켜 줘야 한다면 이는 이중고”라며 “현재 논의되는 4.5일제 추진은 부담을 모두 기업에 전가시키는 구조”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DVPB5C7F2JFUNJQHNPOWWOSL2Q.jpg?auth=b5b982a77097d4f25e7391736979c860dcc61afbed4c434eb8e1da6a76f7311b&amp;smart=true&amp;width=5560&amp;height=3268" type="image/jpeg" height="3268" width="5560">
+        <media:description type="plain">2025년 9월 24일 서울 중구 은행연합회에서 한국금융산업노동조합 관계자들이 9.26 총파업 돌입 기자회견을 진행하고 있다. /장경식 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 정권따라 바뀌는 세종보 방침에 그간 240억 허비… 보 해체시 총 355억원 날리는 셈 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/25/OJEHHIML4VCRZNFGIBRLZZXI4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/25/OJEHHIML4VCRZNFGIBRLZZXI4U/</guid>
+      <dc:creator>세종=정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 20:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AQAXOTFHJHT5JFEFP3DL23JVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 세종시 금강 일대의 세종보와 그 뒤에 있는 한두리대교를 하늘에서 바라본 모습. 강 바닥이 곳곳에 드러나 있다. 이명박 정부 때 완공된 세종보는 문재인 정부 때인 2018년부터 가동을 중단하고 수문을 열어놓고 있다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 23일 오후 세종시 세종보(洑)로부터 약 500m 떨어진 금강 한두리대교 밑 공터. ‘세종보 재가동 중단하고 4대강 재자연화 즉각 이행하라!’고 적힌 현수막과 천막이 눈에 들어왔다. 이곳은 일부 환경 단체 회원들이 한 명씩 돌아가며 500일 넘게 ‘세종보 철거’를 요구하는 노숙 농성장이다. 여기서 기자가 바라본 금강은 마치 폭이 좁은 동네 하천처럼 보였다. 세종보 수문이 계속 열려 있기 때문에 한두리대교의 교각은 물에 제대로 잠겨 있지도 않았다. 마른 교각에는 ‘흘러라 강물아’ ‘세종보 NO’ 등 낙서만 가득했다.&lt;br&gt;&lt;br&gt;세종보는 이명박 정부 때 4대강 사업의 일환으로 건설비 241억원을 투입해 2012년 완공됐다. 이명박·박근혜 정부 때만 해도 세종보를 가동해 강물을 담아놓은 반면, 문재인 정부는 환경 단체들의 의견을 받아들여 지난 2018년부터 세종보 가동을 중단하고 수문을 완전히 개방했다. 윤석열 정부는 세종보 재가동을 위해 지난해 수문을 수리했지만, 이를 반대한 환경 단체들이 노숙 농성으로 막아서면서 이재명 정부가 들어선 현재까지 가동 중단 상태가 계속되고 있다. 환경 단체들은 현 정부에 ‘세종보 가동 중단’을 넘어 ‘보 해체’까지 요구하고 있다. &lt;br&gt;&lt;br&gt;정권에 따라 세종보를 둘러싼 방침이 달라지면서 문재인 정부 이후 날리게 된 비용만 그동안 240억원에 달한다. 만약 현 정부에서 세종보 해체까지 결정한다면 총 355억원(240억원+해체 비용 115억원)이 허비될 것으로 추산된다.&lt;br&gt;&lt;br&gt;24일 환경부가 김위상 국민의힘 의원실에 제출한 자료에 따르면, 문재인 정부가 세종보 가동 중단 후 기존에 끌어다 쓰던 물 충당을 위해 2021년부터 진행한 인근 양화취수장 확장 공사(2024년 완공)에 투입된 예산은 약 118억원에 이른다. 세종시 역시 물이 줄자 보 상류에 임시 보(돌보)를 만들어 유지하는 데 예산 2억원을 썼다고 한다. 윤석열 정부 때 전(前) 정부에서 방치해온 세종보 재가동을 위해 쓴 수리 공사비는 약 30억원이다. 세종보를 그대로 뒀다면 쓸 필요가 없었던 150억원이 그동안 나간 셈이다. 이뿐만이 아니다. 세종보 가동을 중단하면서 보의 물로 전력을 생산하던 수력 발전소도 운영을 멈추게 됐다. 연간 10GWh(기가와트시) 안팎의 전기 생산으로 매년 10억원이 넘는 수익을 내던 발전소였다. 연도별 정산 단가(발전소가 한전에 전기를 파는 가격)를 따져봤을 때, 세종보 가동 중단으로 이 기간 약 90억원의 전력 수익이 증발된 것으로 추정된다.&lt;br&gt;&lt;br&gt;세종보를 둘러싼 중앙정부와 지자체 간 신경전도 벌어지고 있다. ‘4대강 재자연화’를 내세운 김성환 환경부 장관은 세종보 반대 환경 단체에 “재가동은 없다”고 약속했지만, 세종시는 재가동을 원한다. 특히 세종시는 금강 물이 마르는 문제를 세종보로 해결해야 한다는 입장이다. 금강 수위를 높여 수상 레저 시설로 활용할 계획도 갖고 있다. 세종보 인근 주민·상인들로 구성된 세종보가동추진주민협의체 홍승원 대표은 “세종보는 세종시 건설 계획 때부터 담겨있었던 시설”이라며 “세종보가 있는 세종시에 살기로 결정한 시민들의 권리를 보장해줘야 한다”고 했다. 지난해 세종시가 시민 1000명을 대상으로 진행한 여론조사에선 ‘재가동 찬성’(42.4%)이 ‘반대’(20.3%)의 2배를 넘었다. 김위상 의원은 “세종보는 지역 주민의 편익과 수요에 기반해 운영 방향이 결정돼야 할 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 한국편집기자협회(회장 김창환) 창립 61주년 기념집 발간 외</title>
+      <link>https://www.chosun.com/national/people/2025/09/26/7VFCWWEGFFDPPCYA5GGDB3QTSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/26/7VFCWWEGFFDPPCYA5GGDB3QTSY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:42:00 +0000</pubDate>
+      <content:encoded>▲한국편집기자협회(회장 김창환)가 창립 61주년을 맞아 기념집 ‘60+1 다시, 편집 – 뉴 에디팅의 시작’을 발간했다.&lt;br&gt;&lt;br&gt;▲서울대는 백승학 서울대 치의학대학원 교수가 세계교정과의사연맹(WFO)이 수여하는 ‘뛰어난 교육자상(Outstanding Educator Awards)’을 받았다고 최근 밝혔다.&lt;br&gt;&lt;br&gt;▲24일 국회 의원회관에서 ‘설탕 과다 사용세 토론회’가 열렸다. 윤영호 서울대 건강문화사업단장은 “만성 질환으로 인한 사회경제적 비용이 연간 15조원 이상”이라며 설탕세 부과 필요성을 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포괄임금제 금지도 추진</title>
+      <link>https://www.chosun.com/national/labor/2025/09/25/KXEONPERU5FQ5EBHJPIHPMYAVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/09/25/KXEONPERU5FQ5EBHJPIHPMYAVY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:48:00 +0000</pubDate>
+      <content:encoded>노동 시간 단축 정책의 또 다른 핵심은 ‘포괄임금제’ 금지다. 포괄임금제는 실제 근로 시간을 따지지 않고 연장·야간·휴일 근로 수당을 사전에 일정액으로 정해서 주는 임금 제도다. 노동계에선 이를 장시간 노동, 공짜 노동을 야기하는 제도라고 주장해 왔다.&lt;br&gt;&lt;br&gt;정부가 포괄임금제 금지에 나서는 건, 이 제도가 근로자가 실제로 일한 근로시간을 정확히 반영하지 못하고 있다는 판단에서다. 정부는 사용자의 실제 근로 시간 측정과 기록을 의무화하는 방식으로 근로기준법을 개정해 포괄임금제를 금지한다는 방침이다. &lt;br&gt;&lt;br&gt;업계의 관심은 포괄임금제의 범위다. 현재 삼성, 현대차 등 주요 대기업들은 전면적인 포괄임금제가 아닌, ‘고정 OT(Over Time)’라는 제도를 이용하고 있다. 포괄임금제가 근로 시간 산정이 어려운 곳에 적용되는 것과 달리, 고정OT는 근로 시간 산정이 가능한지 여부와 관계없이 기본급 외 법정 수당을 사전에 결정된 정액으로 지급한다는 차이가 있다. 노동계에선 실제로 일을 더하고도, 이미 정해진 정액 탓에 근로자가 제대로 보상받지 못하는 경우가 현장에 만연해 있다고 보고 있다.&lt;br&gt;&lt;br&gt;업계에선 추진단이 고정 OT 제도를 기존대로 유지할지, 포괄임금제에 포함한다고 보고 금지 의견을 내놓을지에 대한 관심이 크다. 고정 OT 제도가 문제라고 지적되면, 기업의 임금 체계는 대수술이 불가피하기 때문이다. 고용노동부 관계자는 “경영계, 노조 측과 논의를 통해 납득할 만한 방안을 마련할 것”이라고 했다.&lt;br&gt;&lt;br&gt;일각에선 포괄임금제가 근로자 임금을 올리는 측면 등의 현실도 고려돼야 한다는 주장도 나온다. 정액제를 통해 약속된 근무 시간보다 실제 초과 근무 시간이 적더라도 고정된 수당을 받을 수 있는 데다, 수입이 예측 가능한 것도 근로자에게 유리하다는 것이다. 더욱이 포괄임금제하에서도 약정된 연장 근로를 넘어서면 50%를 가산해 지급해야 한다. 최준선 성균관대 법학전문대학원 교수는 “우리나라는 근로자가 업무 중 흡연을 하는 등 근무지 이탈, 사적인 용무를 보는 일이 외국보다 잦은 편”이라며 “포괄임금제를 금지하기 위해선 정확한 근로 시간을 측정해야 하는데, 이를 두고도 노사 갈등이 이어질 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞포괄임금제&lt;/b&gt;&lt;br&gt;&lt;br&gt;실제 근로시간을 따지지 않고, 사전에 연장·야간·휴일 근로 수당을 일정액으로 정해서 주는 임금 제도. 정부는 실제 근로시간 측정과 기록을 의무화하는 방식으로 포괄임금제 금지를 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>버스·택시 운전 만 18세부터 가능</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/25/7LZI75M2T5ERZJCVJDQDWWBRTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/25/7LZI75M2T5ERZJCVJDQDWWBRTI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:47:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KJTCJTFFVDRBG4VY6BFWR6UJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 부산 연제구 부산시청에서 열린 '버스 승무원(기사) 채용설명회'에서 구직자들이 상담하고 있다. 부산의 버스 업체 관계자는 "최근 버스 기사 지원자 수가 채용 인원의 2배수에도 못 미쳐 구인난을 겪고 있다"고 했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 만 18세도 버스·택시 기사가 될 수 있다. &lt;br&gt;&lt;br&gt;국토교통부는 이런 내용의 ‘여객자동차운수사업법’ 개정안을 마련해 25일 입법 예고한다고 밝혔다. 개정안은 법제처 심사 등을 거쳐 이르면 11월 시행될 전망이다. &lt;br&gt;&lt;br&gt;개정안에 따르면, 현재 만 20세부터 응시가 가능한 버스·택시 등 사업용 차량의 운전 자격 시험 응시 기준이 만 18세로 낮아진다. &lt;br&gt;&lt;br&gt;현재 도로교통법상 운전면허 시험은 만 18세부터 볼 수 있다. 그런데 여객자동차운수사업법은 만 20세부터 버스나 택시 운전 자격증을 딸 수 있게 규정했다. 운전면허를 따도 버스나 택시 업계에 바로 취업할 수 없었던 것이다. 앞으로 기사 시험 연령 기준이 낮춰지면 고등학교를 갓 졸업한 학생도 운전면허를 따고 지정 기관의 교육을 이수하면 버스나 택시 기사로 취업할 수 있다. &lt;br&gt;&lt;br&gt;운수 업계에선 젊은 인력이 유입되면 만성적인 인력난에 도움이 될 것으로 기대하고 있다. 지난 6월 고용노동부가 발표한 ‘1분기 직종별 사업체 노동력 조사’에 따르면, 운전·운송직 미충원율은 24.6%였다. 필요한 인력 4명 중 1명은 못 뽑았다는 뜻이다. &lt;br&gt;&lt;br&gt;국토부는 또 운행을 끝낸 버스나 택시가 등록된 차고지로 돌아갈 필요 없이 일반 주차장에서도 머물 수 있도록 허용하기로 했다. 기존엔 공항버스가 서울 서초구 서울교대에서 마지막 손님을 내려준 다음 강서구 차고지까지 약 26㎞를 빈 차로 갔다가 다음 첫 차 운행을 위해 다시 서울교대로 돌아와야 했다. 이젠 서울교대 인근 주차장에 밤새 차를 세워둘 수 있게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“자녀 있어야” 60%→70%… 2040 결혼·출산 긍정 인식 늘어</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/25/W36TK33XDFC6PMXYY2JHMPQ5PU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/25/W36TK33XDFC6PMXYY2JHMPQ5PU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:46:00 +0000</pubDate>
+      <content:encoded>직장 생활 4년 차 오모(28)씨는 입사 때만 해도 ‘결혼은 해도 아이는 안 낳겠다’고 생각했다. 일하는 데 아이가 방해가 될 것 같아서다. 그런데 이젠 생각이 바뀌었다. 오씨는 “주변 선배들을 보니 애가 있어도 다들 일 잘하더라”며 “애가 있어도 괜찮겠다는 생각이 든다”고 말했다. &lt;br&gt;&lt;br&gt;오씨처럼 결혼과 자녀에 대해 긍정적으로 생각하는 젊은 층이 크게 늘어난 것으로 나타났다. 저출산고령사회위원회(저고위)는 24일 이런 내용의 ‘결혼·출산·양육 인식 조사 결과’를 발표했다. 지난 8월 전국 만 25~49세 남녀 2800명을 설문 조사한 것이다. &lt;br&gt;&lt;br&gt;조사 결과, 결혼에 대해 긍정적인 인식을 갖고 있는 비율은 74.5%로, 작년 3월 70.9%에서 3.6%포인트 늘었다. ‘자녀가 있어야 한다’는 응답도 작년 3월 61.1%에서 올해 8월 70.8%로 10%포인트 가까이 올랐다. &lt;br&gt;&lt;br&gt;특히 미혼 남녀 사이에서 결혼과 자녀에 대한 긍정적 인식이 크게 높아진 것으로 나타났다. 결혼에 대해 긍정적인 미혼 남녀는 작년 3월 55.9%에 그쳤는데, 이번 조사에선 62.6%로 올랐다. ‘자녀가 있어야 한다’고 응답한 비율 역시 같은 기간 50%에서 61.2%로 올랐다. &lt;br&gt;&lt;br&gt;전체 응답자들이 생각하는 이상적인 자녀 수는 평균 1.8명으로, 작년과 같았다. &lt;br&gt;&lt;br&gt;출산을 위해 필요한 조건으로 가장 많이 꼽힌 것은 ‘소득이 좀 더 많다면’(34.6%)이었다. ‘육아휴직을 자유롭게 사용할 수 있다면’(22.3%)과 ‘유연 근무를 할 수 있다면’(19.7%)이 그 뒤를 이었다. ‘유연 근무’는 시차 출퇴근, 재택 근무 등 근무시간과 장소를 조정할 수 있는 제도다. 저고위 측은 “경제적 조건과 일·가정 양립 개선이 자녀를 출산할지 결정하는 핵심 요인이라는 점이 확인됐다”고 했다. &lt;br&gt;&lt;br&gt;이날 통계청 발표에 따르면 지난 7월 출생아 수는 2만1803명으로 작년 7월부터 13개월째 증가세를 이어갔다. 같은 달 혼인 건수는 2만394건으로 7월 기준 2016년 이후 최고치를 기록했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘4398’ 번호 달고 법정 선 김건희… 직업 묻자 “무직”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/25/WWBYMPSDXZEJDIRWNQORROUPDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/WWBYMPSDXZEJDIRWNQORROUPDM/</guid>
+      <dc:creator>박혜연 기자, 김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNAPHE7WRVPCNC47QC5GYVV26A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 24일 오후 서울중앙지법에서 열린 도이치모터스 주가조작 등 사건 첫 재판에 출석하고 있다. 남색 정장 차림에 마스크를 썼다. 수용 번호가 적힌 배지를 달았다. 지난달 12일 구속된 이후 44일 만이다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 2시 12분 서울중앙지법 311호 중법정에 김건희 여사가 들어섰다. 흰 와이셔츠에 짙은 남색 정장 차림으로, 검은색 뿔테 안경에 흰 마스크를 썼다. 머리는 한 갈래로 묶었고, 화장기 없는 얼굴은 수척해진 모습이었다. 법정에 들어설 때 수갑은 차지 않았지만 왼쪽 옷깃엔 수용 번호 ‘4398′이 적힌 둥근 플라스틱 배지가 달려 있었다.&lt;br&gt;&lt;br&gt;김 여사는 양손을 가지런히 모으고 고개를 숙인 채 피고인석으로 이동해 방청석을 향해 잠시 고개를 숙여 인사한 뒤 자리에 앉았다. 지난달 12일 구속된 뒤 43일 만에 처음으로 대중 앞에 모습을 드러낸 것이다. 전직 대통령 부인 가운데 형사 법정 피고인석에 앉은 사람은 김 여사가 처음이다.&lt;br&gt;&lt;br&gt;재판장인 우인성 부장판사가 “피고인 일어나주십시오”라고 하자, 김 여사는 두 손을 모은 채 자리에서 일어났다. 그는 “국민 참여 재판을 원하느냐”는 질문에 “아닙니다”라고 말했다. 가끔 왼손을 떨며 머리를 쓸어넘겼지만, 목소리는 크고 또렷했다. 재판장이 생년월일을 묻자 “72년 9월 2일입니다”라고 했고, “피고인, 직업 없는 것 맞나요”라는 물음엔 “네, 무직입니다” 하고 답했다. 구속되기 전 머물던 서초동 아크로비스타 주소와 본적지(경기 양평군 강상면)를 확인하는 질문에도 “맞습니다”라고 답했다. &lt;br&gt;&lt;br&gt;이날 법정에서 김 여사가 공개적으로 한 말은 여섯 마디뿐이었다. 다만 그는 재판 내내 변호사들과 귓속말로 이야기를 나눴다. 서류를 뒤적이거나 펜으로 메모하기도 했다.&lt;br&gt;&lt;br&gt;재판은 40분 만에 끝났다. 재판장이 피고인의 신원을 확인하는 ‘인정신문(人定訊問)‘에 이어 특검이 도이치모터스 주가조작, 명태균씨 공천 개입 의혹, 통일교 청탁 의혹 등 공소사실을 설명했다. 특검은 최소 27명의 증인신문이 필요하다고 했고, 주가조작 사건에선 김 여사의 공범 여부가 핵심 쟁점이라고 했다. &lt;br&gt;&lt;br&gt;김 여사 측은 모든 혐의를 부인했다. 김 여사 측은 주가조작 혐의와 관련해 “과거 수차례 ‘혐의 없음’ 결정이 내려졌다. 특검이 일부 증거만을 발췌해 침소봉대하고 있다”고 했다. 공천 개입 의혹과 관련해서는 “명태균씨와 계약 관계가 없었고 여론조사를 지시한 사실이 없다”고 했다. 김 여사 측은 통일교 청탁 의혹은 “금품을 받은 사실이 없고 ‘배달 사고’ 가능성이 의심된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 26일 준비 기일을 열어 증인신문 순서 등을 정하기로 했다. 같은 날 이 법원에서 윤석열 전 대통령의 재판과 보석 심문도 예정돼 있지만, 김 여사가 준비 기일에 불출석하기로 해 두 사람이 같은 날 법정에 서는 상황은 이번엔 벌어지지 않을 것으로 보인다. 재판부는 다음 달 15일부터 재판을 본격적으로 시작하고, 매주 수·금요일 종일 재판을 진행하기로 했다. 재판부는 “12월 말까지 증거 조사를 마치려 한다”고 했다. &lt;br&gt;&lt;br&gt;재판이 끝난 뒤 잠시 실랑이도 벌어졌다. 변호인들이 김 여사와 대기 공간에서 잠시 대화를 나누겠다고 요청했지만 법원 보안 경비대가 제지했다. 김 여사는 계속 변호인과 이야기하려 하다가 여성 방호원 두 명에게 양팔이 붙잡혀 끌려가듯 법정을 나갔다. 나가면서 김 여사는 오른손 검지를 들어 변호인을 가리키며 “내일 볼 거잖아”라고 말했다. &lt;br&gt;&lt;br&gt;김 여사는 지난달 29일 자본시장법·정치자금법 위반, 특정범죄가중처벌법상 알선수재 혐의로 구속 기소됐다. 도이치모터스 주가조작의 공범으로 가담하고, 윤 전 대통령과 함께 명씨에게서 여론조사 58건(2억7440만원 상당)을 무상으로 받은 혐의 등이다. ‘건진 법사’ 전성배(구속 기소)씨를 통해 통일교 현안에 대한 청탁과 함께 샤넬백 등 8000만원대 금품을 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;한편, 윤 전 대통령은 이날 내란 특검의 출석 요구에 불응했다. 윤 전 대통령은 다만 전날 변호인단에 “구치소에서 조사받을 의사가 있고 주말쯤 방문 조사를 희망한다”는 뜻을 밝힌 것으로 전해졌다. 내란 특검은 이날 비상계엄에 가담한 혐의를 받는 박성재 전 법무부 장관을 소환 조사했다. 해병 특검은 ‘이종섭 전 국방부 장관의 주(駐)호주 대사 임명 및 도피성 출국 의혹’과 관련해 조태열 전 외교부 장관을 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘한직’ 법무연수원 연구위원 2년 이상 재직 땐 강등 가능</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/25/77CWONXCVND6JPVHF46CV4KVDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/77CWONXCVND6JPVHF46CV4KVDE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:45:00 +0000</pubDate>
+      <content:encoded>법무부가 대검찰청 검사급(검사장) 이상 검사가 법무연수원 연구위원으로 2년 이상 재직할 경우, 직위를 낮춰 인사를 낼 수 있도록 규정을 바꾸기로 했다. 법무부는 24일 이런 내용을 담은 ‘대검 검사급 이상 검사의 보직 범위에 관한 규정’ 일부개정령안을 입법 예고했다. 법무연수원 연구위원은 검찰 내에서 한직으로 분류되는 자리다. 좌천 후 2년 이상 변동이 없으면 사실상 알아서 나가라는 조치라는 해석이 나온다.&lt;br&gt;&lt;br&gt;법무부는 이번 규정 개정 이유와 관련해 “검사 인사의 유연성 확보, 법무연수원 연구위원직에 실질적 연구 인력 배치 등을 위한 것”이라고 설명했다. 법무부는 11월 3일까지 국민 의견을 수렴하고 이 개정령안을 국무회의에서 심의·의결할 계획이다.&lt;br&gt;&lt;br&gt;검사장급 이상 검사는 검찰총장, 고검장, 대검 차장, 법무부 기획조정실장, 지검장, 고검 차장검사, 법무연수원 연구위원 등에 재직하도록 돼 있다. 이 가운데 법무연수원 연구위원은 수사 지휘나 법무 행정 같은 주요 업무에 관여하지 못하는 자리다. 이 때문에 정권이 바뀌거나 검찰총장이 교체되면 코드가 맞지 않는 인사들을 좌천시키는 ‘유배지’로 꼽혀왔다. &lt;br&gt;&lt;br&gt;현재 2년 이상 연구위원으로 근무 중인 검사장급 검사는 윤석열 정부 때 발령난 이정현 검사장과 고경순 검사장 등이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노만석 대행, 검찰청 폐지에 “개혁 오점 될 것” 반대</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/25/F2HJ45WLLJGS5PKS4UTYFDT44Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/F2HJ45WLLJGS5PKS4UTYFDT44Q/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:45:00 +0000</pubDate>
+      <content:encoded>검찰청 폐지를 골자로 한 정부조직법 개정안 국회 처리를 하루 앞둔 24일 노만석 검찰총장 권한대행이 “헌법에 규정된 검찰을 지우는 것은 성공적 검찰 개혁에 오점이 될 수 있다”고 밝혔다. 이에 대해 정성호 법무부 장관은 “부적절하다”고 지적했다.&lt;br&gt;&lt;br&gt;노 권한대행은 이날 오후 대검찰청 대변인실을 통해 “제헌 헌법 제정 이래 78년간 국민과 함께해 온 검찰을 폐지하는 정부조직법안이 국회 본회의 상정을 앞두고 있다”며 이같이 밝혔다. 노 권한대행은 “검찰은 직접 수사와 공소 제기뿐 아니라 경찰 수사에 대한 사법 통제, 형 집행, 피해자 지원, 범죄 수익 환수, 국제 사법 공조 등 법질서를 확립하는 중추적인 역할을 수행해 왔다”면서 “헌법이 명시한 ‘검찰’이라는 용어에는 국민을 범죄로부터 지키기 위해 경찰 수사를 비롯한 법 집행을 두루 살피라는 뜻이 담겨 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 노 권한대행은 “‘공소청’이라는 명칭은 위와 같은 본연의 기능을 담아내지 못하는 것은 물론 국민을 위한 법질서 확립의 중추적 기능을 약화시킬 우려가 있다”며 “검찰 수사 기능의 이관이 또 다른 권력기관의 수사 권한 비대화로 이어지고, 전문적이고 고도화된 범죄에 대응해 온 검찰의 수사 역량이 사장된다면 국민이 원하는 올바른 검찰 개혁의 모습은 아닐 것”이라고 주장했다. 그러면서 “올바른 검찰 개혁의 모습을 다듬어 주실 것을 국민 여러분과 국회, 정부에 간곡히 요청 드린다”고 했다. 검찰청을 폐지하고 중대범죄수사청과 공소청을 신설하는 정부조직법 개정안에 반대 의사를 분명히 한 것이다.&lt;br&gt;&lt;br&gt;이날 국회 법제사법위원회 전체회의에 참석한 정 장관은 추미애 법사위원장이 “(노 권한대행의 입장은) 개인 의견에 그치지 않고, 조직의 반란을 유도하는 것이다. 기강을 잡아야 한다”고 하자, “저도 부적절하다고 느끼고 있다”고 답했다. 그러면서 “어떤 조치를 취하는 게 적절할지 연구해 보겠다”고 했다. 정 장관은 “검찰에서 수사·기소 분리 원칙에 반대하는 건 없다”며 “저희도 적극적으로 협력해 온전한 검찰 개혁이 이뤄지도록 최선을 다하겠다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환자 앞에 두고… 서울대병원 노조 무기한 파업</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/25/OYX7MANM6RGYVFF32HYENTVE3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/OYX7MANM6RGYVFF32HYENTVE3M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:45:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CK5PH6CVX5D77EP4URW3CH6FE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대병원 노조가 24일 서울 종로구 서울대병원 본관 로비에서 기자회견을 열고 있다. 이들은 인력 충원과 임금체계 개편 등을 요구하며 “무기한 전면파업에 돌입한다”고 밝혔다. 이번 파업에는 간호사, 임상병리사 등이 참여한다. 의사는 참여하지 않는다. 노조가 파업해도 응급실, 중환자실, 수술실 등은 정상 운영된다. 다만 외래 진료 등은 평상시보다 지연될 수 있다고 병원 측은 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>다시 돌아온 ‘키멀 쇼’… 첫 일성부터 트럼프 꼬집었다</title>
+      <link>https://www.chosun.com/national/people/2025/09/26/XYHYYU4XMNGZXHYSMXRZDLT47E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/26/XYHYYU4XMNGZXHYSMXRZDLT47E/</guid>
+      <dc:creator>김은중 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:42:00 +0000</pubDate>
+      <content:encoded>미국 정부의 압박에 방송 제작이 중단돼 언론과 표현의 자유에 관한 논란에 불을 붙인 ABC방송의 간판 심야 토크쇼 ‘지미 키멀 라이브!’가 23일 1주일 만에 다시 방영됐다. 평소 도널드 트럼프 미국 대통령을 비롯한 정치인들을 주로 풍자해 온 키멀은 이날 방청객들의 기립박수를 받으며 복귀를 알렸다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SCHADJPPKFC53GGTPZNUODCSHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; AP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;키멀은 이날 “나와 타이레놀의 최고경영자(CEO) 중에 누가 더 기이한 48시간을 보냈는지 모르겠다”며 너스레를 떨었다. 이는 전날 트럼프가 특별한 근거 없이 “임산부는 타이레놀(아세트아미노펜)을 복용하지 말아야 한다”고 발표한 것을 꼬집은 것으로 해석됐다. 이어 “젊은이의 살인 사건을 가볍게 여길 의도가 전혀 없었다는 점을 이해해 주길 바란다”고 했다. 그는 지난 15일 방송에서 찰리 커크 터닝포인트 USA 대표의 암살과 관련해 “매가(MAGA·미국을 다시 위대하게) 패거리가 정치적 이득을 취하려 한다”고 말하고 트럼프를 ‘금붕어를 잃은 네 살 아이’에 빗댄 것이 논란이 됐다. 이후 연방통신위원회(FCC) 등이 방송 중단을 압박했고, ABC는 곧바로 무기한 제작 중단을 결정했다. &lt;br&gt;&lt;br&gt;트럼프 대통령은 “ABC가 키멀을 복귀시켰다는 것이 믿기지가 않는다”며 “저조한 시청률 속에서 썩어가도록 내버려 두자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 경상국립대 외</title>
+      <link>https://www.chosun.com/national/people/2025/09/25/DMNR7FY2QNHVVLUT7DSHML5OPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/DMNR7FY2QNHVVLUT7DSHML5OPA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:42:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;경상국립대&lt;/b&gt;▷연구지원과장 성진우▷총무과장 이정림▷비서실장 김성래▷재무과장 오병학▷글로컬대학사업단 사업추진실장 이영호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;KBS&lt;/b&gt;▷전략기획실 미디어연구소 미디어기술연구부장 이상주&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 공석붕 前 한국패션협회장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/09/26/I2ZKSKPU6FA6HKRAAO6MBX2CFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/26/I2ZKSKPU6FA6HKRAAO6MBX2CFM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:42:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;공석붕&lt;/b&gt; 前 한국패션협회장 별세, &lt;b&gt;정천근&lt;/b&gt; 남편상, &lt;b&gt;공소영&lt;/b&gt;·&lt;b&gt;공인영&lt;/b&gt;·&lt;b&gt;공지영&lt;/b&gt; 작가 부친상, &lt;b&gt;김익진&lt;/b&gt; 장인상, &lt;b&gt;문연중&lt;/b&gt; 시부상=23일5시 서울성모병원, 발인 25일8시, (02)2258-5922&lt;br&gt;&lt;br&gt;▲&lt;b&gt;김영자&lt;/b&gt; 별세, &lt;b&gt;장덕수&lt;/b&gt;·&lt;b&gt;장미숙&lt;/b&gt;·&lt;b&gt;장혜정&lt;/b&gt;·&lt;b&gt;장진호&lt;/b&gt; 모친상, &lt;b&gt;한상길&lt;/b&gt; 동국대 불교학술원 교수 장모상, &lt;b&gt;한채희&lt;/b&gt; 연합뉴스TV 기자·&lt;b&gt;한서희&lt;/b&gt; 외조모상=24일17시30분 일산 동국대병원, 발인 26일5시30분, (031)961-9400&lt;br&gt;&lt;br&gt;▲&lt;b&gt;노형수&lt;/b&gt; 별세, &lt;b&gt;노진숙&lt;/b&gt;·&lt;b&gt;노진상&lt;/b&gt;·&lt;b&gt;노진자&lt;/b&gt;·&lt;b&gt;노장&lt;/b&gt; 다우스틸 이사 부친상, &lt;b&gt;문진석&lt;/b&gt; 더불어민주당 국회의원·&lt;b&gt;홍행기&lt;/b&gt; 서울신문 광주본부장 장인상=23일17시30분 천안 단국대병원, 발인 26일5시, (041)550-7186&lt;br&gt;&lt;br&gt;▲&lt;b&gt;정창진&lt;/b&gt; 前 서주산업 회장 별세, &lt;b&gt;윤석원&lt;/b&gt; 남편상, &lt;b&gt;정영조&lt;/b&gt;·&lt;b&gt;정영석&lt;/b&gt;·&lt;b&gt;정재은&lt;/b&gt; 부친상, &lt;b&gt;이수진&lt;/b&gt; 폭스바겐그룹코리아 상무 시부상, &lt;b&gt;정윤주&lt;/b&gt;·&lt;b&gt;정유진&lt;/b&gt; 조부상=23일20시59분 중앙대병원, 발인 26일8시, (02)860-3506&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [뉴스 속의 한국사] 조선판 검찰 개혁? 왕권 남용으로 끝난 정치극이었죠</title>
+      <link>https://www.chosun.com/national/nie/2025/09/25/6TEWJLWCOJDWLMDJFDWIQYPVPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/25/6TEWJLWCOJDWLMDJFDWIQYPVPI/</guid>
+      <dc:creator>유석재 역사문화전문기자, 기획·구성=윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:40:00 +0000</pubDate>
+      <content:encoded>인기 TV 드라마 ‘폭군의 셰프’를 둘러싸고 최근 논란이 일었어요. 연회에서 조선 왕과 명나라 사신이 같은 높이에 앉아 있는 장면 때문입니다. 네티즌들이 “역사 왜곡 아니냐”며 문제를 제기하자, 드라마 작가가 조선 시대 공식 예법서 ‘국조오례의’를 인용하며 “제대로 고증한 것”이라고 반박했습니다.&lt;br&gt;&lt;br&gt;학자들은 대체로 작가의 말이 맞는다는 반응입니다. 조선 왕은 실질적인 독립국의 군주였지만 형식적으로는 중국 천자(황제)가 책봉한 제후였기 때문에 중국 사신을 우대했다는 것이죠. 계승범 서강대 사학과 교수는 “중국 사신은 황제의 아바타 같은 존재였고 의례상 조선 왕과 동등한 위치였다”고 했습니다. 그러나 작가의 말처럼 이것은 당시 외교상의 프로토콜(의전)에 불과한 것이었으니 현재의 우리가 불쾌해할 필요는 없겠죠.&lt;br&gt;&lt;br&gt;‘폭군의 셰프’에 등장하는 ‘연희군’이라는 조선 왕은 10대 임금 연산군(재위 1494~1506)을 모티브로 하고 있어요. 조선 임금 중 호칭이 ‘군’으로 끝나는 임금은 중간에 쫓겨났단 의미입니다. 연산군과 15대 광해군이죠. 다만 숙부인 수양대군(세조)에게 밀려난 6대 단종은 ‘노산군’이란 이름으로 강등됐다가 숙종 때 복권됐습니다. 오늘은 ‘폭군의 대명사’라 할 수 있는 연산군에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDIOY2G4ZBBTXAKCMCZRKBS3EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조선시대 ​성종 때 일을 기록한 '성종실록'. '성종실록'을 편찬하는 과정에서 세조와 관련된 '불손'한 내용이 담겨 있다는 사실이 알려지며 '무오사화'가 일어났죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;즉위 4년 만에 벌어진 첫 ‘사화’&lt;/b&gt;&lt;br&gt;&lt;br&gt;연산군은 1476년 경복궁 교태전에서 성종 임금의 장남으로 태어났어요. 왕실에서 오랜만에 나온 적장자(정실 부인이 낳은 맏아들) 출신의 임금인 셈인데, 조선 임금 27명 중 적장자 출신은 문종, 단종, 연산군, 인종, 현종, 숙종, 순종까지 7명뿐이었습니다. 연산군은 12년을 세자로 있으면서 왕실의 정통 교육을 받았고, 즉위 초에는 종종 현명함도 보인 멀쩡한 군주였다고 합니다.&lt;br&gt;&lt;br&gt;그러나 1498년(연산군 4년) 많은 사람이 희생되는 무오사화가 일어나며 상황은 달라집니다. 사화(士禍)란 조정의 신하와 선비들이 정치적 반대파에게 몰려 참혹한 화를 당한 일을 말해요. 연산군의 아버지인 성종 때의 일을 기록한 실록이 ‘성종실록’인데요. 그 편찬 과정에서 김일손이라는 사관이 저명한 유학자 김종직(1431~1492)이 쓴 ‘조의제문(弔義帝文)’을 사초(실록의 원고)에 포함시켰다는 보고가 들어왔던 겁니다.&lt;br&gt;&lt;br&gt;‘조의제문’은 기원전 206년 중국에서 항우에게 시해된 초나라 군주 의제를 애도하는 글이었는데 사실은 세조가 조카 단종을 몰아낸 것을 비판하는 속뜻이 있었습니다. 그런데 세조의 증손자인 연산군은 크게 노했고 그 결과는 참혹했죠. 김종직의 문인을 비롯한 여러 사람이 사형이나 유배형을 받았습니다. 화를 면한 선비들이 모이면 “바야흐로 걸주(桀紂)의 세상일세”라며 한탄했다고 해요. 걸과 주는 각각 중국 하(夏)나라와 은(殷)나라의 마지막 임금으로 유명한 폭군들이었어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXHWF5ITEFBLNMQOGXZXZPHYZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경복궁 경회루 전경. 연산군은 경회루를 화려하게 꾸미고 흥청망청 연회를 벌였다고 해요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;어머니 복수가 빚은 ‘대숙청극’ 갑자사화&lt;/b&gt;&lt;br&gt;&lt;br&gt;그런데 더 큰 변고가 닥쳐오고 있었습니다. 1504년(연산군 10년)에 일어난 갑자사화였어요. 연산군의 친모인 윤씨는 몰래 독약을 품고 거짓 문서를 만들었다는 등의 이유로 왕비가 된 지 3년 만에 쫓겨났습니다. 그래서 ‘폐비(물러난 왕비) 윤씨’라 불리죠. 다시 3년이 지난 1482년 임금이 내린 사약을 마시고 죽었습니다.&lt;br&gt;&lt;br&gt;이 일을 알게 된 연산군이 자기 어머니를 모함했다며 아버지 성종의 후궁 두 명을 죽였고, 할머니인 대왕대비(인수대비)를 위협한 끝에 한 달 뒤 별세하는 참사를 빚었습니다. 신하들 중 조금이라도 관련돼 보이는 사람들에겐 모두 벌을 내렸습니다.&lt;br&gt;&lt;br&gt;무오사화 때만 해도 벌을 받은 사람은 51명이었는데 갑자사화 때는 4배가 넘는 239명이 처벌됐고 122명이 목숨을 잃거나 부관참시(사후 처형)를 당했습니다. 연루된 가족까지 합하면 3000명이 처벌받았을 것이라는 추정도 있습니다. 왕권에 의한 끔찍한 학살이나 다름없었죠. 무오·갑자사화와 1519년(중종 14년) 일어난 기묘사화, 1545년(명종 즉위년)의 을사사화를 조선의 ‘4대 사화’라고 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VIIG6H2HX5DH7NABHPNXVR4KAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 고양시 덕양구에 있는 '연산군시대금표비'. 금표비는 왕실에서 사냥과 군사 훈련 등을 위해 설정한 출입 금지 구역을 표시한 비석이에요. 연산군은 백성의 출입을 막고 금표 구역 안에서 유흥을 즐겼다고 합니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어쩌면 일종의 ‘실패한 검찰 개혁’?&lt;br&gt;&lt;br&gt;그런데 여기서 잠시 생각해 볼 것이 있습니다. 연산군은 자기 어머니가 어떻게 죽었는지를 뒤늦게 알자마자 분노해서 대숙청극을 벌였던 걸까요? 그게 아니라 이미 즉위 직후에 그 사실을 인지했다는 정황이 있습니다. 그렇다면 10년 동안 치밀하게 준비해서 복수극을 펼친 것이 되죠.&lt;br&gt;&lt;br&gt;더 소름 끼치는 것은 이것이 ‘친모 음해’를 빌미로 펼친 조직적인 정치 투쟁이었다는 점입니다. 종래 연산군 때의 사화를 세조의 공신 세력을 중심으로 형성된 집권층인 ‘훈구파’와, 새로 중앙에 진출해 이에 맞선 ‘사림파’ 간의 충돌 결과 사림파가 대거 희생된 사건으로 봤습니다. 하지만 최근 들어 미 하버드대의 윌렛 와그너 같은 학자들은 ‘훈구파와 사림파의 사회·경제적 배경이 별 차이가 없다’는 의견을 내고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJN3WMZHQ5CQ3KYNSRXRVKNV7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 도봉구에 있는 연산군과 아내 거창군부인 신씨의 묘예요. 연산군 묘는 유배지였던 강화도에 있었는데, 훗날 거창군부인이 중종에게 요청해 지금의 자리로 옮겼어요.
+/국립고궁박물관·국가유산청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘연산군, 그 인간과 시대의 내면’을 쓴 조선 전기 연구자 김범 박사는 “연산군 때의 사화는 훈구와 사림의 대립이 아니라, 삼사(三司)를 억압하기 위한 정치 투쟁”이라 말합니다. 관리 감찰과 탄핵, 임금에게 직언하는 역할을 맡았던 사헌부·사간원·홍문관(삼사)의 위상이 커지자, 왕권이 제약당하는 것으로 판단했던 연산군이 일부 대신과 함께 삼사를 공격하고 역할을 축소하려 한 것이 사화의 본질이라는 것이죠. 현대로 따지자면 ‘대통령이 검찰 개혁을 하는 것’에 비유할 만한 일이었습니다.&lt;br&gt;&lt;br&gt;무오사화 이후 삼사가 위축되고 왕권이 강화된 뒤 연산군의 정치는 개혁으로 이어지지 않았습니다. 왕권을 견제할 세력이 사라지고 나니 왕이 온갖 정치적 전횡, 사치와 향락, 무절제한 연회와 사냥, 사람들의 손가락질을 받을 만한 음란한 행위를 일삼게 됐고 국정은 파탄 날 지경에 이르렀던 것입니다. 조선 왕조에서 별다른 제약 없이 일탈한 임금은 사실상 연산군 한 명뿐입니다. 그 결과는 좋지 않았습니다. 갑자사화 2년 뒤인 1506년 일어난 중종반정으로 연산군은 쫓겨났고 두 달 만에 만 30세 나이로 죽었습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [재밌다, 이 책] 로마 병사들의 월급은 소금? ‘하얀 황금’이라 불릴 만큼 귀했죠</title>
+      <link>https://www.chosun.com/national/nie/2025/09/25/TGHMNTFGBVEPPLLYJ6WROJO4GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/25/TGHMNTFGBVEPPLLYJ6WROJO4GE/</guid>
+      <dc:creator>이진혁 출판 평론가</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXQKIOB4DBH3NABADNOER3NUBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;홍완식 지음｜주니어태학｜가격 1만8000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;여러 나라가 희토류 같은 자원들을 확보하기 위해 경쟁을 벌인다는 뉴스를 아마 본 적이 있을 겁니다. 이 자원들이 스마트폰과 전기차의 성능을 좌우하는 첨단 소재이기 때문이죠. 이제 석유만큼 중요한 ‘전략자원’으로 통해요. 그런데 수천 년 전에도 이런 ‘소재 전쟁’이 있었습니다. 놀랍게도 그 주인공은 반짝이는 금속이 아니라, 우리 밥상에 오르는 평범한 소금 한 줌이었죠.&lt;br&gt;&lt;br&gt;오늘 소개할 책은 이처럼 우리 주변의 평범한 물질들이 어떻게 인류의 역사를 뒤바꿨는지 그 흥미진진한 비밀을 파헤치는 과학 교양서예요. 책을 펼치면 먼저 음식의 간을 맞출 때 사용하는 소금 이야기가 나옵니다. 오늘날과 달리 고대 로마에서는 소금이 귀해서 ‘하얀 황금’이라 불렀다고 해요. 군인들 월급 일부를 소금으로 주기도 했다는 설도 있답니다. 당연히 많은 나라는 소금을 확보하기 위해 경쟁했죠. 저자는 여기서 꼬리를 물어, 소금과 마찬가지로 또 다른 염류인 질산 포타슘으로 이야기를 이어갑니다. 질산 포타슘은 화약의 핵심 원료로 인류의 전쟁 양상을 바꿔놓았지요. 그런데 동시에 식물의 성장에 꼭 필요한 영양소를 공급하는 최고의 비료이기도 합니다. 과거엔 사람을 죽이는 무기로 주로 사용된 소재가 아이러니하게도 인류를 굶주림에서 구해낸 것이지요.&lt;br&gt;&lt;br&gt;이 책은 이처럼 익숙한 소재에 숨겨진 놀라운 이야기를 담고 있답니다. 예를 들어 음식 포장지로 흔히 쓰는 가벼운 알루미늄이 사실은 비행기와 우주선을 만드는 첨단 소재로 쓰이는 것을 알고 있었나요? 또 ‘아름다움의 상징’인 다이아몬드는 오늘날 반도체 산업의 핵심 부품으로 쓰이기도 하죠. &lt;br&gt;&lt;br&gt;또한 이 책은 소재를 통해 인류 문명의 전환점을 입체적으로 보여줍니다. 예를 들어 옷의 소재가 되는 ‘목화’는 인류의 삶을 근본적으로 바꿔놓은 산업혁명의 불씨가 되기도 했죠. 목화솜에서 실을 뽑아 옷감으로 만드는 과정은 매우 복잡하고 힘들었는데, 이 어려움을 해결하기 위해 기계가 고안되었고, 이는 방적 기술의 발달로 이어졌습니다. 결국 공장이 생겨나고 대량생산 시대가 열리면서 산업혁명이 시작된 것이지요.&lt;br&gt;&lt;br&gt;유리의 발전 과정도 흥미롭습니다. 뜨거운 열로 모래를 녹여 만든 이 투명한 물질은 처음에는 귀족들의 그릇이나 창문에 쓰였어요. 하지만 빛을 굴절시키는 성질을 이용해 렌즈로 만들게 되었죠. 그 결과 현미경은 눈에 보이지 않는 작은 세계를, 망원경은 아득히 먼 우주를 펼쳐 보이며 ‘과학혁명’을 이끌었답니다.&lt;br&gt;&lt;br&gt;책의 마지막 장에서는 해리 포터의 투명 망토를 떠올리게 하는 ‘메타 물질’ 이야기가 등장합니다. 인류의 상상력이 어떻게 새로운 소재를 통해 미래 기술로 실현되는지를 보여주는 대목이지요. 이처럼 소재를 이해하는 것은 곧 우리가 사는 세상을 이해하는 첫걸음이 됩니다. 이 책은 그 첫걸음을 함께하는 가장 유쾌하고 깊이 있는 안내서가 되어 줄 것입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문은 선생님] [생활 속 경제] “코로나 시기 힘들었겠지”… ‘동정심’이 팁 상승에 영향 미쳤대요</title>
+      <link>https://www.chosun.com/national/nie/2025/09/25/IGVTAWZDRZGCJMBDL5FYPYBINA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/25/IGVTAWZDRZGCJMBDL5FYPYBINA/</guid>
+      <dc:creator>김나영 양정중 교사·경제전문작가</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:40:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;Q&lt;/b&gt;. 최근 미국에 다녀왔는데, 어디에 가든 팁(Tip)이 붙는데 가격의 20%가 기본이더라고요. 안 그래도 가격이 비싼데 부담이 됐어요. 우리나라에도 ‘배달 팁’을 받는 경우도 많은데요. 팁은 서비스를 잘 받아서 자발적으로 내는 돈인데, 왜 자꾸 팁이 오르는 걸까요?&lt;br&gt;&lt;br&gt;&lt;b&gt;A&lt;/b&gt;. 미국에서 팁 문화를 직접 경험해 보니 부담스럽게 느껴졌을 거예요. ‘그냥 포장만 해 가는 경우에도 팁을 내야 하는 걸까?’ 하는 의아한 마음도 생길 것이고요.&lt;br&gt;&lt;br&gt;그렇다면 팁은 언제부터 생겨났을까요? 중세 유럽에서 땅을 가진 귀족 영주들은 농노들에게 임금 외에 ‘수고했다’는 의미로 주던 보상이 팁의 시작이라고 알려져 있어요. 이러한 관습이 미국으로 전해졌고, 처음 팁은 손님이 자발적으로 고마움을 표현하는 성격이 강했지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDNYHSJFABCHDNYNWANHBFMYXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 이 팁의 존재는 오히려 종업원의 임금 구조를 왜곡하는 결과를 낳게 됐어요. 미국의 일부 주(州)나 식당에선 종업원들에게 최저임금보다 낮은 기본급을 주고, 그 부족분을 팁으로 채우게 하는 경우가 있습니다. 고용주는 낮은 임금만 지급하고, 나머지 임금은 노동자가 팁에 의존해 충당하도록 한 거예요. 서비스업 종사자의 낮은 기본 임금을 보충하는 제도로 굳어진 거죠. 이 때문에 팁이 없으면 생활이 어려운 사람들도 많답니다.&lt;br&gt;&lt;br&gt;문제는 손님이 내야 하는 팁이 점점 더 높아지고 있다는 겁니다. 과거엔 10~15%면 충분했지만, 지금은 18~20%가 ‘기본’으로 자리 잡고 있는 추세죠. 안 그래도 비싼 물가에 팁까지 올라서 물가가 더 오른다며, ‘팁플레이션’이라는 신조어까지 등장한 상황입니다.&lt;br&gt;&lt;br&gt;팁이 오른 데에는 여러 배경이 있지만, 코로나19도 큰 영향을 미쳤다고 해요. 전염병으로 힘든 시기에 “서비스업 종사자들은 더욱 힘들겠구나” 하는 마음으로 평소보다 더 많은 팁을 주는 경향이 생겼다는 거죠. 문제는 이렇게 한번 높아진 팁의 기준이 쉽게 내려가지 않는다는 점입니다.&lt;br&gt;&lt;br&gt;최근에는 음식점뿐 아니라 미용실이나 우버처럼 사람이 직접 서비스를 제공하는 곳이라면 거의 예외 없이 팁을 요구받습니다. 손님들 사이에선 여전히 높은 팁에 대한 저항감이 있지만, 이를 줄이려는 전략도 곳곳에서 활용되고 있지요. 대표적인 예가 결제 화면입니다. 최근엔 ‘18%’ ‘20%’ ‘22%’ 가운데 하나를 고르도록 제시하는 경우가 많은데, 사람들은 보통 가운데 값을 택하는 경향이 있습니다. 그래서 예전 같으면 지나치게 높다고 여겼을 20% 팁도 지금은 자연스럽게 선택하게 되는 것입니다.&lt;br&gt;&lt;br&gt;우리나라는 전통적으로 음식값에 이미 서비스비가 포함되어 있어 별도의 팁을 내는 문화가 없었습니다. 그러나 최근 배달 앱 이용이 늘어나면서 ‘배달 팁’이라는 이름으로 비용을 받는 경우가 생겼습니다. 이는 미국처럼 종업원의 임금을 보충하기 위한 팁이 아니라, 배달 인건비 등을 소비자가 부담하는 형태랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 밤을 줍다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2025/09/25/GTEWYJQMFFDHHHD6GZVI2VNA4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/25/GTEWYJQMFFDHHHD6GZVI2VNA4E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJEYB63665EXHGJQ5IBPHMO5SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] foot the bill</title>
+      <link>https://www.chosun.com/national/nie/english/2025/09/25/JRR3QWJDQZB63CQ5QYKNEV4QUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/25/JRR3QWJDQZB63CQ5QYKNEV4QUQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY2W3NIBO5BGNATLF3JK2TU67U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 남로당(南勞黨)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/25/TKCBFYWQKZGIFLIC6TVILA5WQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/25/TKCBFYWQKZGIFLIC6TVILA5WQ4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKT6FCVABNFT3O5FNVOUTZMHDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 모형, 틀</title>
+      <link>https://www.chosun.com/national/nie/chinese/2025/09/25/DCXI4JKVCNCAHLPSQ5S62UCRMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/25/DCXI4JKVCNCAHLPSQ5S62UCRMY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZJBPRW2W5BU7D4ARX2ZHG2UXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2713] 퍼즐 맞추기</title>
+      <link>https://www.chosun.com/national/nie/2025/09/25/WTLVBED5HRDX3PJBRHBI4FJ7PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/25/WTLVBED5HRDX3PJBRHBI4FJ7PM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DXEJQMGV25AKZLAF3P7EOPMD34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출산·육아 부담 사회가 나눠야 ‘부모도 아이도 행복한 세상’ 온다</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/25/MMXZF2SYIFAB3IJ4UPVW72EQF4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/25/MMXZF2SYIFAB3IJ4UPVW72EQF4/</guid>
+      <dc:creator>저출산고령사회위원회 주형환 부위원장</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33XTQ2COMRANBDC475ZFQCJEXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저출산고령사회위원회 주형환 부위원장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 우리나라 합계출산율은 9년 만에 반등해 0.75명을 기록했다. 지난해 7월 이후 12개월째 출생아 수가 증가하며 올해는 연간 합계출산율이 0.79명에 이를 전망이다. 혼인 건수도 15개월 연속 증가세를 보여 긍정적 흐름이 커지고 있다. 이 반등을 일시적 성과로 끝내지 않고 구조적 상승으로 전환하는 것이 중요한 지금, 무엇보다 필요한 것은 ‘아이를 낳고 키우는 부담’을 사회가 함께 나눠 지는 것이다.&lt;br&gt;&lt;br&gt;통계청이 발표한 ‘2024년 생활 시간 조사’는 부모들이 직면한 현실을 보여준다. 미성년 자녀를 둔 부모는 국민 평균보다 수면 시간이 20분 짧고, 일과 가사 노동 등 의무 시간은 2시간 길다. 반면 취미와 여가 시간은 2시간 적다. 맞벌이일수록 의무 시간은 더 늘어난다. 결국 부모는 수면과 여가를 줄여도 충분한 양육 시간을 확보하기 어렵다.&lt;br&gt;&lt;br&gt;현실을 바꾸기 위한 해법은 크게 두 가지다. 하나는 영유아와 아동에 대한 돌봄 서비스를 강화해 국가가 함께 돌보는 것이며, 다른 하나는 일터에서 유연 근무를 확산해 부모들의 시간 효율성을 높여주는 것이다.&lt;br&gt;&lt;br&gt;정부는 지난해 ‘양육의 국가 책임’을 선언하고, 그에 따른 후속 조치를 시행하고 있다. 올해 7월부터 만 5세 유아 무상 교육·보육이 실현됐고, 2027년까지 3~5세 전체로 확대된다. 내년부터 0세반의 교사 대 아동 비율도 1 대 3에서 1 대 2로 개선되며, 초등 방과 후 프로그램에 대한 이용권 제공과 질 개선으로 양질의 교육·돌봄을 좀 더 받을 수 있도록 할 계획이다.&lt;br&gt;&lt;br&gt;아이돌봄 서비스도 확대된다. 정부 지원 기준을 올해 중위소득 150%에서 200% 이하로 확대했고, 내년에는 250%까지 추가로 늘려 더 많은 가정이 혜택을 받도록 했다. 야간 긴급 돌봄 수당과 유아 돌봄 수당도 신설해 필요할 때 언제든 돌봄을 받을 수 있게 했다.&lt;br&gt;&lt;br&gt;그러나 수요를 감당하기에는 아직 부족하다. 지난해 아이돌봄 서비스의 평균 대기 기간은 33일에 달한다. 이를 해소하려면 아이돌보미 처우를 개선하고 양성 기관을 늘려 충분한 인력을 확보해야 한다. 특히 오전 7~9시, 오후 4~7시 등 수요가 집중되는 등·하원 시간대에는 수당 인상 등 맞춤형 인센티브를 도입할 필요가 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FVM5G3AKJRE33AP235KIVZRQC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;저출생 극복을 위해 조선일보가 주최한 ‘아이가 행복입니다 시즌8’이 지난 19~20일 서울 송파구 롯데월드타워 월드파크 잔디 광장 및 시그니엘서울에서 열렸다. 잔디광장 행사에 참여한 가족들은 페이스 페인팅, 바람개비 만들기, 인공지능(AI) 로봇과 오목 대결 등 행사장 곳곳에 펼쳐진 부스에서 행복한 시간을 보냈다. 사진은 ‘31초 우리 가족 행복 담기 영상제’ 본상을 받은 가족들이 이날 시상식 전 잔디 광장에 모여 단체 사진을 촬영하는 모습. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공공 돌봄의 보완재가 되어줄 민간 돌봄 서비스의 질 관리 역시 중요하다. ‘아이돌봄지원법’ 개정으로 내년부터 시행되는 민간 돌봄 기관 등록제를 계기로 관리·감독을 강화해 부모가 안심하고 이용할 수 있는 환경을 조성해야 한다. 돌봄 서비스의 접근성을 높이는 방안에 대한 논의도 필요하다. 일부 지역에서 시행하는 조부모 돌봄 수당을 확대하는 것도 좋은 대안이 될 수 있다.&lt;br&gt;&lt;br&gt;일터에서는 유연근무제의 실질적 정착이 핵심이다. 긴 통근 시간으로 육아 시간이 부족한 부모에게 유연 근무는 일·육아 병행의 부담을 낮추는 효과적인 수단이다. 이에 정부는 내년부터 육아기 근로자에게 임금 감액 없이 ‘10시 출근제’를 적용하는 사업주와 노사 간 합의로 근로시간을 단축해 주 4.5일제를 도입한 기업에 장려금을 지원할 예정이다. &lt;br&gt;&lt;br&gt;이에 더해 업종과 직무의 특성을 분석해 재택근무, 원격근무, 시차출퇴근제 등 기업에 맞는 최적의 유연 근무를 도입할 수 있도록 유연 근무 신청권 도입을 적극 논의해야 한다. 업종의 특성을 감안하되 임신기 근로자 등의 경우 근무일 중 0.5일은 재택근무를 하는 등 임신과 육아를 일과 병행할 수 있도록 일하는 방식과 문화를 근본적으로 변화시키는 방안도 중장기적으로 검토할 필요가 있다.&lt;br&gt;&lt;br&gt;돌봄은 가정만의 몫이 아니다. 공공 돌봄을 체계적으로 확충하고, 민간 시장의 품질 관리 장치를 강화하며, 유연 근무가 일상화된다면 부모의 양육 부담은 분명 줄어들 수 있다. 아이를 낳고 키울 수 있는 조건이 마련될 때 출산이라는 선택도 가능해진다. 양육의 무게를 사회가 함께 나눈다면 ‘나도 아이도 행복한 세상’은 실현 가능한 미래가 될 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김상건씨 가족_ 한 장면 한 장면 소중… 너가 웃으면 우린 행복해 외</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/25/NA66F6TK2BHW5LZS4ZROPABMME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/25/NA66F6TK2BHW5LZS4ZROPABMME/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:30:00 +0000</pubDate>
+      <content:encoded>올해 ‘31초 우리 가족 행복 담기 영상제’ 우수상은 영상 부문에서 두 작품, 사진 부문에서 두 작품이 선정됐다. 각각 롯데 상품권 100만원과 조선일보 리프린트를 선물로 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HMDP2TNQDNDHJNTXM24E45CDXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;①우수상을 받은 김상건씨 가족의 영상 '행복한 우리 가족'. 발달장애를 앓고 있는 아들 시온이의 일곱 번째 생일 파티 장면을 담았다. ②고원기씨 가족은 각기 다른 성향의 삼 남매가 엄마·아빠와 함께 캠핑장과 놀이터에서 뛰노는 모습을 담은 '우리는 행복한 삼 남매 가족'으로 우수상을 받았다. ③프로야구 삼성 팬인 엄마와 롯데 팬인 아빠 사이에서 양 팀의 유니폼을 섞은 옷을 입은 아이의 모습을 담은 조지혜씨 가족의 '우리는 남이다'. 사진 부문 우수상을 차지했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 연제구에 사는 김상건(40)씨 가족은 ‘행복한 우리 가족’이라는 제목의 영상으로 우수상을 받았다. 태어날 때부터 발달장애를 앓고 있는 시온(7)군의 생일 파티를 하는 장면을 담은 영상이었다. 케이크 모양의 가면을 쓴 아빠가 시온이를 안고 있고, 선물 모양의 가면을 쓴 엄마가 천장 가득 설치해 뒀던 풍선을 쏟아내자 얼굴 위로 떨어지는 풍선을 바라보며 시온이가 미소를 짓는 장면이 시청자의 감동을 불러일으켰다. 김씨는 “아이가 아프다 보니 한 장면이라도 영상으로 더 남기고 싶어 영상을 찍기 시작했다”며 “’시온이네’라는 유튜브 채널도 있으니 많은 관심 부탁드린다”고 수상 소감을 밝히기도 했다.&lt;br&gt;&lt;br&gt;고원기(44·서울 송파구)씨는 ‘우리는 행복한 삼 남매 가족’이라는 영상으로 상을 받았다. 캠핑을 좋아하는 첫째 서연(9), 꾸미기를 좋아하는 둘째 세연(7), 잘 삐치고 겁이 많은 귀여운 셋째 준우(4)가 엄마·아빠와 함께 캠핑장과 놀이터에서 뛰노는 모습을 담은 영상이었다. 오케스트라 단원으로 바이올린 연주와 작곡을 하는 고씨는 영상과 어울리는 음악을 삽입해 좋은 평가를 받았다.&lt;br&gt;&lt;br&gt;조지혜(39·대구)씨는 남편 김동영(36)씨, 아들 승헌(4)군과 함께 야구장에서 찍은 사진 ‘우리는 남이다’로 사진 부문 우수상을 받았다. 프로야구 삼성 라이온즈 팬인 엄마와 롯데 자이언츠 팬인 아빠가 각자 ‘우리가’ ‘남이가’라고 쓰인 응원팀 유니폼을 입고 있는 사이에 각 팀의 유니폼을 반씩 섞어 만든 옷 뒤로 ‘나는 어쩌라고’라는 글씨가 쓰여 있는 승헌이가 난감한 표정을 짓고 있는 모습의 사진이었다. 현재 승헌이는 성적 때문인지 삼성을 조금 더 좋아한다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKGE2YJ7KFAFPGAUN5TUQNS7DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;④사진 부문 우수상 수상자인 박성호씨 가족의 '나와 보니 누나가 넷 민 오남매'. 군인인 아버지의 전투복 티셔츠를 입은 오남매의 모습이 담겼다. ⑤신설된 유튜브 인기상 1위를 차지한 김현지씨 가족은 '왕할머니 사랑' 영상에서 구순 증조할머니를 반가워하며 기어가는 아이의 모습을 담았다. ⑥국제결혼 부부인 박명신씨 가족의 '여기 있었네, 행복' 영상 모습. 일상 속에서 가족들이 행복한 순간을 보내는 모습을 담아 행복이 멀리 있지 않다는 메시지를 표현했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박성호(38·전북 익산)씨 가족의 ‘나와 보니 누나가 넷 민 오남매’ 사진도 우수상을 받았다. 아이들의 이름이 민서(10), 민채(9), 민지(7), 민정(6), 민후(1)로 ‘민’이라는 돌림자를 쓰다 보니 ‘민 오남매’다. 박씨는 당초 딸 넷을 낳은 후 정관 수술을 했으나 ‘아들 하나만 더 가지자’라는 계획에 따라 다시 가족계획을 세웠고, 바로 성공을 거뒀다고 한다. 다섯 남매가 군인인 아빠의 전투복 티셔츠를 입고 찍은 사진이 심사위원단의 눈길을 끌었다.&lt;br&gt;&lt;br&gt;이번에 신설된 유튜브 인기상 1위는 김현지(33·경기 의정부)씨가 올린 ‘왕할머니 사랑’ 영상이 수상의 영예를 안았다. 아직 걷지도 못하는 아이가 구순 증조할머니 이남희씨를 반가워하며 황급히 기어가 안기는 모습에서 가족의 사랑이 전해졌다. 김씨는 “어릴 때부터 할머니·할아버지와 함께 살며 ‘할머니 껌딱지’였던 저인데, 이젠 제 아들이 왕할머니 곁을 떠나지 않는 모습에서 세대 간 이어지는 따뜻한 사랑의 소중함을 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;끝으로 특별상은 박명신(34·경기 평택)씨 가족의 ‘여기 있었네, 행복’ 영상이 받았다. 미국인 남편 제레미 딜로치(33)씨와 로건 딜로치(5), 헤일리 딜로치(2) 남매를 키우고 있는 박씨는 “언젠가 다다를 종착지 같은 것이라고 여겼던 행복이 일상 속 아이가 밥 먹는 모습, 그림 그리는 모습, 웃는 모습 등 굉장히 사소한 것에서 느낄 수 있는 것임을 깨달았다”며 영상을 찍은 계기를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>퇴근한 아빠 품에 ‘와락’… “두 딸 덕분에 매일 환영과 사랑 받는 기분”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/25/627JYDMM6BB25B2IMOUT24OYCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/25/627JYDMM6BB25B2IMOUT24OYCM/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVQNGVIM6FDZPDXGCRPRSNXXNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'31초 우리 가족 행복 담기 영상제' 대상을 받은 김형준씨 가족 영상 'Thank you'의 한 장면. 두 딸 그린·하린이가 퇴근하는 아빠에게 달려가 안기는 모습을 담았다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 서울 송파구 롯데월드타워 잔디광장 등에서 조선일보 주최로 열린 ‘아이가 행복입니다’ 시즌 8 행사에서는 ‘31초 우리 가족 행복 담기 영상제’ 시상식도 진행됐다. &lt;br&gt;&lt;br&gt;‘Thank you’라는 제목의 영상으로 영예의 대상을 차지한 김형준(42)·조희수(42)씨 부부는 “두 아이 덕분에 부모가 되기 전엔 알지 못했던 행복을 매일 경험하고 있다”며 “행복을 놓치지 않도록 아이들을 더 많이 안아주고 사랑하면서 살겠다”고 수상 소감을 밝혔다. 김씨 부부는 롯데 상품권 500만원, 가족들과 함께한 추억의 순간을 조선일보 지면 형태로 액자에 담은 ‘조선일보 리프린트’ 등을 선물로 받았다.&lt;br&gt;&lt;br&gt;대상은 받은 이 영상은 두 딸 그린(10)·하린(8)이가 퇴근하는 아빠에게 달려가 안기는 내용이다. 집에서, 아파트 단지 입구에서, 지하철역 앞 거리에서, 때로는 아이들의 하굣길에서 찍은 영상 아홉 개를 31초 분량으로 편집했다. 하린이가 두 살 때인 2019년 찍은 영상을 시작으로 지난겨울 영상까지 등장해 아이들의 성장 과정도 담겨 있다. 부부는 영상 속 자막을 통해 “세상에 태어나 누군가에게 이렇게 환영받아 본 적이 있었나 싶다”며 “아이가 태어나면 사랑만 해주고 싶었는데, 부모가 주는 사랑보다 (아이들에게) 더 큰 사랑을 받고 있는 것 같다”고 했다. &lt;br&gt;&lt;br&gt;고교 시절 친구였던 부부는 2009년 연인이 됐고, 3년 만인 2012년 결혼했다. 첫 아이 그린이가 찾아온 것은 2015년. 김씨는 “오랫동안 기다리던 아이였기에 더욱 애틋하고 소중하게 느껴졌다”며 “아이에게 형제자매가 있었으면 하는 마음이 있었는데, 감사하게도 하린이가 찾아와 줬다”고 했다.&lt;br&gt;&lt;br&gt;아이들을 키우며 부부 관계는 더욱 돈독해졌다. 재택근무를 하는 조씨가 낮 시간대를 담당하고, 남편 김씨는 퇴근 후 아이들을 주로 돌본다. 김씨는 “아이들이 낮에 학교에 다녀와서 엄마와 있다 보니 밤에 돌아오는 아빠를 더욱 반겨주는 것 같다”고 했다. 아내 조씨는 “아이들은 아빠의 퇴근을 언제나 기다린다”며 “놀라면서도 반가워하며 아이를 안아주는 남편의 모습이 좋아 영상을 남기기 시작했는데, 다행히도 아직까지는 반겨주고 있다”며 웃었다.&lt;br&gt;&lt;br&gt;부부는 아이들을 키우기 시작한 후 ‘새로운 세상’이 열렸다고 입을 모았다. 이들은 “좋은 일도, 힘든 일도 가족이 함께 겪으면서 아이가 자라는 동안 저희도 함께 성장하고 있다는 것을 느낀다”며 “우리의 부모님도 이런 시간을 보내셨겠구나 하는 생각과 함께 부모의 마음을 더 깊이 헤아리게 된다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 “아이들은 참 빨리 크는 것 같다. ‘육아는 매일 오늘의 아이와 이별하는 것’이라는 말이 있는데, 그래서 저희는 앞으로도 ‘오늘의 아이 모습’을 최대한 많이 남기며 즐겁게 살아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>난임 부부 지원 확대하고 미래 부부 위한 정책 개선할 것</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/25/6BUH77JW4ZES5NBAV4ZNLOIOOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/25/6BUH77JW4ZES5NBAV4ZNLOIOOU/</guid>
+      <dc:creator>정은경 보건복지부 장관</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 15:30:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEL3TGSAVFBYZHKWE2Z2YCEQUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정은경 보건복지부 장관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이와 가족이 주인공이 되는 ‘아이가 행복입니다’ 시즌 8 행사가 성황리에 끝났다. ‘아이가 행복입니다’ 행사와 함께 열린 ‘31초 우리 가족 행복 담기 영상제’ 수상작들을 보며, 잠시나마 복잡한 현안들을 잊고 아이들의 순수한 웃음에 온전히 집중하며 행복함을 느낄 수 있었다. 특히 대상을 받은 김형준씨의 영상에서 두 딸은 ‘아빠’란 단어만 반복했음에도, 아이들로 인한 행복감은 어느새 미소를 짓게 만들었다. 하지만 영상에서와 같이 맑은 아이들의 웃음소리를 예전만큼 주변에서 쉽게 들을 수 없다는 현실이 안타깝기도 하다. &lt;br&gt;&lt;br&gt;‘아이가 행복입니다’라는 말은 곧 아이를 키우는 부모가 행복한 사회를 뜻하기도 한다. 이에 정부는 부모님들의 양육 부담을 경감하고 아이들이 더 많은 기회를 누릴 수 있도록 아동수당 지급 대상을 13세까지로 확대할 예정이다. 또한 아이를 낳고자 하는 임신부와 난임 부부의 심리·상담 지원을 확대하며, 가임력 검사를 필요한 만큼 받으실 수 있도록 지원할 예정이다. 영유아를 양육하는 데 부모님들의 우려를 덜어드릴 수 있도록 영유아 가정을 방문해 건강을 관리하는 지역 또한 지속적으로 늘려나갈 계획이다.&lt;br&gt;&lt;br&gt;부모에 대한 지원과 더불어 정부는 아이들이 존중받고 행복하게 성장해 나갈 수 있는 사회 조성에도 힘쓸 것이다. 먼저, 국제적 기준에 맞춰 아동의 권리 보장을 강화할 수 있도록 아동기본법 제정을 검토할 것이다. 또한 아동의 권리가 침해되는 경우의 구제 절차를 규정하고 있는 유엔 아동권리협약 선택의정서가 비준될 수 있도록 국회와 적극적으로 논의할 것이다. 한편, 아이들이 살기 좋은 아동 친화적인 환경이 조성될 수 있도록 지방자치단체의 아동 정책에 대한 평가 제도를 정비하고, 사회적인 인식이 개선되도록 힘을 쏟을 것이다.&lt;br&gt;&lt;br&gt;또한 국가의 보호가 필요한 아이들을 위해 학대 우려 아동에 대한 예방적 지원을 확대하고, 이와 더불어 원가정 복귀 지원 체계 구축 등을 통해 아이들의 정서와 발달에 맞는 보호 체계로 개편할 예정이다. 지난 7월 19일부터 시작된 공적 입양 체계로의 개편을 통해 모든 입양 아동의 안전과 권리를 국가가 책임지고 보장해 나가겠다.&lt;br&gt;&lt;br&gt;올해 초 통계청이 발표한 2024년도 합계출산율은 0.75명이었다. 이는 9년 동안의 저출생 하락 추세를 반전시킨 희망의 소식이었다. 하지만 0.75명이라는 합계출산율 수치는 여전히 세계 주요국 중에서 가장 낮다. 통계청의 2024년 사회 조사에 따르면 청년들은 주거와 양질의 일자리 부족, 양육과 돌봄 부담, 그리고 일과 가정의 양립 어려움 등으로 결혼과 출산을 주저하고 있다. 청년들의 이러한 목소리는 어제오늘의 일이 아니다.&lt;br&gt;&lt;br&gt;그간 정부는 4차 저출산·고령사회 기본계획(2021~2025)과 작년 6월 발표한 저출생 추세 반전을 위한 대책 등에서 청년들의 의견을 더욱 반영해 주거와 일자리, 양육과 돌봄, 교육 분야에 집중하여 정책들을 개선해 왔다. 청년들이 제기한 사안들은 정부와 지자체, 그리고 민간단체가 긴밀하면서도 지속적으로 협력해야 하는 중장기 과제이다. 이에 정부는 청년들이 제도 개선을 요구하는 분야에 대한 정책 역량을 집중하는 5차 저출산·고령사회 기본계획(2026~2030)을 마련하는 한편, 저출산고령사회위원회가 인구 정책의 강력한 컨트롤타워 기능을 할 수 있도록 거버넌스를 강화할 것이다.&lt;br&gt;&lt;br&gt;부모들이 행복하고 청년들이 희망을 가질수록 아이들의 웃음이 가득한 사회가 될 것이다. 정부의 정책적 노력과 함께 조선일보가 8년째 이어오는 ‘아이가 행복입니다’ 캠페인과 같은 사회 각계각층의 노력들이 지속적으로 이어진다면, 어느새 우리는 희망이 가득한 대한민국에 이르게 될 것으로 확신한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천대엽, 조희대 청문회에 “李재판 사건, 청문 대상 아니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/24/FL3XR6IPCJH5RMOTBO666YDIVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/FL3XR6IPCJH5RMOTBO666YDIVM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 14:18:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRL4YCI6S5D4FE3SF76QYXXBVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 지난 12일 서울 서초구 대법원 청사에서 열린 전국법원장회의에 참석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 24일 대법원의 이재명 대통령 공직선거법 사건 전원합의체(전합) 회부 과정에 대해 “대법관 전원 검토에 따라 결정된 것”이라고 말했다. 천 처장은 이날 국회 법제사법위원회 전체회의에 참석해 “(이 대통령 사건은) 3월 28일 접수됐을 때부터 모든 대법관이 기록을 보기 시작했고 전합으로 처리하기로 합의한 사건”이라고 설명했다. &lt;br&gt;&lt;br&gt;천 처장은 민주당 의원들이 ‘소부에 배당된 이 대통령 사건을 조희대 대법원장이 중간에 끼어들어 전합에 회부했다’며 정치적 의도가 있었다고 주장하자 “전합 판결문 ‘다수 보충의견’에서 상세히 설명하듯이 대법관들은 빠른 시기에 1심과 원심(2심) 판결, 공판 기록을 기초로 사실 관계와 쟁점 파악에 착수했고 상고이유서와 답변서가 제출되는 대로 지체없이 숙지했다”고 했다. 이어 “대법원장은 일일이 대법관들 의견을 확인한 이후 후속 절차를 진행한 것”이라고 했다. &lt;br&gt;&lt;br&gt;천 처장은 또 “대법원에 상고되는 사건은 기본적으로 전원합의가 원칙이고 편의상 신속 처리를 위해 소부에 넘겨 처리할 수 있다”며 “전합 사건이어도 주심은 정해져야 하기 때문에 무작위 전산 배당에 따라 특정 대법관이 주심으로 결정되고, 주심이 결정되면 자동으로 (주심 대법관이 속한) 소부에 배당된 것처럼 보일 뿐”이라고 했다. &lt;br&gt;&lt;br&gt;민주당 주도로 법사위에서 조 대법원장 청문회를 추진하는 것에 대해 천 처장은 “(이 대통령) 전합 판결의 절차와 내용을 청문 대상으로 하는 취지로 보인다”며 “재판이 진행 중인 사건에 대해서는 국회가 관여하거나 조사할 수 없다는 국정조사감사법에 따라 청문 대상이 되지 않는다고 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;한편, 특검이 수사·기소한 사건을 한 재판부에서 병합 심리해야 한다는 주장에 대해선 “검찰이나 특검이 일괄 기소했다면 당연히 한 재판부에서 심리했겠지만, 쪼개서 기소했다”며“이미 재판이 진행 중인 상황에서 추가로 사건을 병합하다보면 1년이 아니라 2, 3년 한없이 늘어질 수 있다”고 했다. &lt;br&gt;&lt;br&gt;천 처장은 다만 “신속한 심리와 선고가 필요하다는 말씀은 충분히 경청하겠다”며 “여러 행정 조치를 최대한 경주 중이지만 부족한 점에 대해서는 더 노력하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[기자의 시각] 변협, 권력 앞에선 왜 입 닫나</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/24/XHRSMXT33NHPRNMQAIJSHO3XXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/XHRSMXT33NHPRNMQAIJSHO3XXA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 14:36:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJNRIKVAIZAKFIULOPENFCGCS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김정욱 대한변협회장이 지난 10일 전현희 민주당 의원을 예방 후 자신의 페이스북에 올린 사진, 이성윤 의원도 함께 했다./ 김정욱 대한변협회장 페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회 김정욱 회장이 지난 10일 페이스북에 더불어민주당 전현희, 이성윤 의원과 찍은 사진을 올렸다. 민주당이 검찰청 폐지를 골자로 한 ‘검찰 개혁’ 입법을 추석 전에 처리하겠다고 공언한 시점이다. 전현희 의원은 내란특별재판부 설치와 조희대 대법원장 사퇴를 주도해 온 인물이라 그 배경에 의구심이 쏠렸다. &lt;br&gt;&lt;br&gt;변협 회장은 그 사진과 함께 “변호사 비밀 유지 제도 도입 등에 대한 검토를 요청드렸고, 검찰 개혁 법안에 대해 의견을 전달했다”고 적었다. 하지만 법조계 반응은 싸늘했다. “우리나라를 대표하는 변호사 단체가 사법 시스템의 근간을 흔들 수 있는 엄중한 시기에 민주당 핵심 인사와 너무 가볍게 접촉한 것 아니냐”는 지적이 나왔다.&lt;br&gt;&lt;br&gt;전국 변호사의 3분의 2가 소속된 서울지방변호사회도 비판에서 자유롭지 못하다. 서울변회는 지난 15일 창립 118주년 행사에서 여야 의원들에게 ‘우수 국회의원상’을 수여했는데, 법제사법위원회 소속 서영교 의원도 수상자에 포함됐다. 서 의원은 수상 소감에서 “변호사 비밀 유지 법안을 정기국회 중 통과시키겠다. 변협과 서울변회 회장님께서 계속 압박을 주고 있다”고 했다. 법조계에서는 “판사·검사·변호사 등 법조삼륜(法曹三輪)의 한 축인 변호사 단체들이 정치권과의 교류에만 몰두할 뿐, 정작 검찰과 사법 개혁 현안에는 뚜렷한 입장 없이 방관한다”는 반응이 나왔다. &lt;br&gt;&lt;br&gt;물론 변협은 변호사의 이익을 대변하는 직능 단체다. 정치권에 숙원 사업을 전달하는 것 자체를 문제 삼을 순 없다. 그러나 변호사법 1조가 규정하듯 ‘국민의 기본적 인권을 옹호하는 것’ 또한 변호사의 사명이다. 변협에는 국민 인권을 지키고 사회 정의 실현에 기여해야 할 공적 성격도 있다는 뜻이다. &lt;br&gt;&lt;br&gt;그럼에도 변협은 검찰청 폐지, 내란특별재판부 설치 등 법치주의의 근간을 흔들 수 있는 현안에 대해 침묵으로 일관하고 있다. 변협은 “회원 수가 많고 의견이 다양해 섣불리 하나의 입장을 내기 어렵다”고 해명한다. 뒤늦게 변협이 현안에 대한 설문조사를 시작했지만 “불 꺼지고 물 양동이를 들고 온 격”이라는 비판이 뒤따랐다.&lt;br&gt;&lt;br&gt;검찰 개혁이 현실화되면 범죄 피해자 보호에 공백이 생기고 민생 범죄 수사가 약화될 것이라는 우려가 있다. 일부 법조 단체와 학계는 이미 토론회와 성명을 통해 문제를 제기한다. 이런 상황에서 변협의 침묵은 더 도드라진다. 민감한 사안일수록 적극적으로 말해야 그 위상을 지킬 수 있지 않을까.&lt;br&gt;&lt;br&gt;변협이 정치권과 접촉하면서 ‘선택적 침묵’으로 일관한다면 비판을 피하기 어려울 것이다. 권력 앞에 침묵한다면, 국민 인권 옹호라는 제1의 사명을 저버리는 것이 된다. 침묵을 전략으로 삼는 순간, 변호사 직역의 품위와 권위는 약화된다. 변협이 최소한의 책무와 품위를 지키고자 한다면 더 늦기 전에 분명한 목소리를 내야 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FKIDHIIGS5EYTMTZUUYL7VQVQQ.jpg?auth=0e6a99a6747be4789eb6f556f49cc533566869b5ddbfb155b1cf03770a8bf3c2&amp;smart=true&amp;width=500&amp;height=500" type="image/jpeg" height="500" width="500"/>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 9월 25일</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/24/NIPJEWRR5RGLTMWH5BNPRM7AJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/NIPJEWRR5RGLTMWH5BNPRM7AJM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 14:30:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CK52M5K4LVBGLLWQVRZ6YKM6PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대체로 흐리고 비 내려&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조희대 겨냥한 與 공수처법 개정안에…대법 “설립 취지 반한다”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/24/MWTUNGBTRFCI7BECW6AL6A73U4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/MWTUNGBTRFCI7BECW6AL6A73U4/</guid>
@@ -624,82 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGQ2H24CIVGW7BB6QNWUKWRBDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울 청계천 부근에서 시민들이 운전석·운전대가 없는 자율 주행 셔틀을 타고 있다. 서울시는 이날부터 청계광장에서 청계3가(세운상가)를 거쳐 청계5가(광장시장)를 오가는 자율 주행 셔틀 ‘청계A01′의 시범 운행을 시작했다. 승객은 최대 8명까지 탈 수 있다. 내년 하반기 유료화 전까지 무료로 이용할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘평균 69세’ 6·25 마지막 세대, 참전국 찾아 노래로 報恩</title>
-      <link>https://www.chosun.com/national/people/2025/09/24/XGV6XRVK5ZB5PNA7C5NISXDOQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/24/XGV6XRVK5ZB5PNA7C5NISXDOQM/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZJE3PDIBZHQVIATWS4XYZ7OT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 ‘청춘합창단’ 단원들이 과천시민회관 연습실에서 6·25 전쟁에 참전했던 해외 참전 용사들을 위한 공연을 준비하기 전 사진 촬영을 하고 있다. 이들은 내달 참전국인 튀르키예와 그리스를 시작으로 22국 순회 공연에 나선다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“위스퀴다라 기데르켄(위스퀴다르로 가는 길에)….”&lt;br&gt;&lt;br&gt;23일 오후 과천시민회관 연습실에 ‘위스퀴다르로 가는 길에’라는 제목의 노래가 울려 퍼졌다. 6·25전쟁에 참전했던 튀르키예 군인들이 한국에 선물하고 간 튀르키예 민요다. 이 노래를 평균 연령 69세인 남녀 합창단원 47명이 30분 넘게 열창했다. 지난 2011년 KBS 예능 프로그램 ‘해피선데이―남자의 자격’을 통해 결성된 중·장년층 합창단 청춘합창단은 내달 6·25전쟁 참전국인 튀르키예와 그리스를 시작으로 참전 22국을 순회하는 보은(報恩) 음악회에 나선다.&lt;br&gt;&lt;br&gt;보스포루스 해협을 사이에 두고 이스탄불과 마주 보는 소도시 위스퀴다르에 살고 있는 여성이 젊은 공무원을 사모하는 내용의 연가는 ‘튀르키예의 아리랑’으로 불린다. 단원 이희숙(61)씨는 악보에 적힌 튀르키예어 가사 밑에 한국어 발음을 쓰고 그 밑에 영어 알파벳으로도 발음을 적어 놨다. 아침저녁으로 가사를 외우느라 종이가 너덜너덜했다. 이씨는 “올해 초 이 곡을 처음 연습할 때는 제대로 발음도 못 했는데 이제는 외울 정도가 됐다”며 “생소한 언어로 노래를 부르다 보니 우리끼리 ‘치매 걱정은 없겠네’라며 농담했다”고 했다. 단원들은 그리스어 가요 ‘기차는 여덟 시에 떠나네’를 부르기 위해 그리스어 발음도 연습하고 있다.&lt;br&gt;&lt;br&gt;청춘합창단은 매주 화요일 오후 2시 이 회관 연습실을 빌려 연습을 한다. 연습이 시작되자 소프라노와 알토, 테너 등으로 나뉘어 단원들이 자리에 앉았다. 이후 지휘자 손짓에 맞춰 화음을 넣었다. 이날 만난 단원들은 “6·25를 경험한 마지막 세대가 더 늦기 전 참전 용사들을 직접 찾아 한국이 은혜를 잊지 않는 나라라는 걸 알리고 싶다”고 했다. &lt;br&gt;&lt;br&gt;청춘합창단은 작년 7월 뉴질랜드 오클랜드 세계합창대회에 참가했을 때 현지 참전 용사를 만나 자택에서 우연히 합창을 선보인 뒤 순회 공연을 추진하기로 뜻을 모았다고 한다. 6·25 발발 당시 초등학교 5학년 학생이었다는 조석영(85)씨는 “유엔군이 서울을 수복하면서 약수동 집을 되찾아줬다”며 “그때 이 튀르키예 노래를 들었다. 노래를 부를 때마다 집으로 돌아온 그 느낌이 생각난다”고 했다.&lt;br&gt;&lt;br&gt;청춘합창단 단원 53명 가운데 47명이 이번 순회 공연에 참여한다. 공연 이후에는 개별로 참전 용사를 만나 합창을 선물할 계획이다. 이번 행사는 주튀르키예한국대사관, 주이스탄불총영사관, 한국전 참전 용사 기념사업회 지원을 받아 10월 22일부터 11월 1일까지 10박 11일 일정으로 진행된다. 단원들이 1인당 450만원씩 참가비를 내고, 민남규(78) 한국·튀르키예 친선협회장도 5000만원을 후원한다.&lt;br&gt;&lt;br&gt;이들은 튀르키예에선 앙카라·이스탄불·카이세리 등 3개 도시의 대표 콘서트홀에서 공연한다. 한국전 참전 군인과 가족, 그리고 시민들을 초청하고 현지 공연 단체와도 협연할 예정이다. 한국어문학과가 개설된 에르지에스 대학교에서는 한국의 전통음악을 연구하는 동아리가 무대에 오른다. 그리스에서는 아테네 6·25전쟁 참전탑 참배와 함께 버스킹 형식의 거리 공연도 한다. &lt;br&gt;&lt;br&gt;예비역 공군 중장 윤학수(70) 청춘합창단장은 “젊을 때는 참전 용사들의 뜻을 이어받아 나라를 지켰다”며 “목숨 걸고 한국을 지킨 이들 덕에 번영을 누리고 있는 한 국민으로서 마땅히 해야 할 도리”라고 했다. 청춘합창단은 2015년 반기문 유엔 사무총장 재임 시절 유엔본부에서 공연을 진행하고 뉴욕 카네기홀 무대에도 섰다. 지난해 7월 뉴질랜드 오클랜드 세계합창대회에서는 시니어 부문 대상을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/FISV6GN53NHY3J2WCCB5LHELVA.jpg?auth=78cd7afa374bebd7e639547d7a29c0ad04301fdebfad175debab24336a4307b4&amp;smart=true&amp;width=5000&amp;height=2524" type="image/jpeg" height="2524" width="5000">
-        <media:description type="plain">23일 오후 경기 과천시 과천시민회관에서 평균 연령 69세인 ‘청춘합창단’ 단원 40여 명이 튀르키예·그리스 참전용사 보은 합창 공연을 준비하며 기념사진 촬영을 하고 있다. 2025.9.23. / 고운호 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>류제승 한국국가전략연구원장</title>
-      <link>https://www.chosun.com/national/people/2025/09/24/4WJHIOV4J5A77IJBLRAJBNI3EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/24/4WJHIOV4J5A77IJBLRAJBNI3EM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GW4W26PNABATTP5NG3CIIBYAVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국국가전략연구원(KRINS)의 신임 원장 겸 이사장에 류제승 전 주아랍에미리트 대사가, 부원장에 허태근 전 국방부 국방정책실장이 임명됐다. 한민구 현 원장은 명예이사장에, 이상희 명예 이사장은 명예 고문에 임명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도미노피자, 호국장학금 5000만원</title>
-      <link>https://www.chosun.com/national/people/2025/09/24/OY7K7EE4WRBEHO2K5EEUT4UW2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/24/OY7K7EE4WRBEHO2K5EEUT4UW2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>한국도미노피자가 서울 용산구 국방부에서 호국장학재단에 5000만원을 전달했다고 23일 밝혔다. 1992년 설립된 호국장학재단은 직업 군인들의 자녀에게 장학금 등을 지급해 학비 부담을 덜어주는 일을 주로 한다. 이번 기부금도 장학금으로 쓰일 예정이다. 한국도미노피자는 또 30일부터 다음 달 1일까지 현역 장병과 직업 군인, 군무원과 군인 가족을 대상으로 방문 포장 50%를 할인해주는 행사도 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>25년간 아프리카서 의료 헌신… 정춘실 소장 ‘아산상’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/24/C2CRECFTTVD3NKCFDCCEQJSRJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/24/C2CRECFTTVD3NKCFDCCEQJSRJQ/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SS64GIEHAJGEVOCD32EMOLYAQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아산사회복지재단은 제37회 아산상 수상자에 아프리카에서 80만명이 의료 혜택을 받을 수 있도록 20년 넘게 헌신해온 정춘실(59) 케냐 성 데레사 진료소장을 선정했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;영국에서 1995년 수녀로 종신 서원을 한 정 소장은 1999년 간호사 자격 취득 후 이듬해부터 아프리카 봉사를 시작했다. 특히 그는 의료 시설이 전무한 케냐의 빈민 지역에서 성 데레사 진료소를 열어 운영했고, 말라위에선 ‘음땡고 완탱가 병원’ 책임자로 활동했다.&lt;br&gt;&lt;br&gt;또 올해 아산상 의료봉사상은 김웅한(62) 서울대 의대 교수, 아산상 사회봉사상은 김현일(59)·김옥란(53) 부부가 받게 됐다. 김 교수는 20년 넘게 중국·몽골 등 17국의 선천성 심장병 어린이 844명에 대한 무료 심장 수술을 집도하고, 현지 의료진 3000여 명을 교육했다. 김씨 부부는 노숙인 무료 급식소(바하밥집)와 고립·은둔 청년 회복기관(푸른고래 리커버리센터) 등을 운영하며 20년 넘게 소외된 이웃들의 자립을 도왔다.&lt;br&gt;&lt;br&gt;시상식은 오는 11월 25일 서울 송파구 서울아산병원에서 열린다. 아산상 수상자에겐 상금 3억원, 의료·사회봉사상 수상자에겐 각 2억원의 상금이 수여된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 권재득 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/09/24/7KYBDUEFNFEXZMRD4M3QZGA43Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/24/7KYBDUEFNFEXZMRD4M3QZGA43Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;권재득 &lt;/b&gt;별세, &lt;b&gt;권상봉 &lt;/b&gt;한국수력원자력 고리원자력본부 홍보부 차장 부친상=22일20시10분 울산 영락원, 발인 25일8시, (052)272-1111&lt;br&gt;&lt;br&gt;▲&lt;b&gt;변재선 &lt;/b&gt;별세, &lt;b&gt;권월수 &lt;/b&gt;남편상, &lt;b&gt;변홍석&lt;/b&gt;·&lt;b&gt;변진경 &lt;/b&gt;시사IN 편집국장 부친상, &lt;b&gt;김응창 &lt;/b&gt;장인상, &lt;b&gt;송은경 &lt;/b&gt;시부상=22일14시31분 대구 파티마병원, 발인 25일7시, (053)958-9000&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 400년 전 ‘인공섬’ 만든 도시… 여기로 서양 문물 들어왔죠</title>
-      <link>https://www.chosun.com/national/nie/2025/09/24/R2VEFSNOIFDL5LI532N6ZL3NHI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/24/R2VEFSNOIFDL5LI532N6ZL3NHI/</guid>
-      <dc:creator>서민영 계남고 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>우리에게 ‘짬뽕’으로 잘 알려진 도시가 있습니다. 바로 일본의 나가사키입니다. 19세기 말, 나가사키에 살던 한 중국인이 가난한 유학생들을 위해 값싸고 영양 많은 요리를 만든 것이 짬뽕의 시작이었답니다. 처음에는 돼지고기와 채소만 넣었지만, 점차 오징어·굴·새우 같은 해산물이 더해지며 지금과 같은 음식이 됐죠.&lt;br&gt;&lt;br&gt;하지만 나가사키는 음식만으로 유명한 도시가 아니죠. 제2차 세계대전 때 나가사키엔 원자폭탄이 떨어져 많은 사람들이 목숨을 잃었는데, 최근 나루히토 일왕 가족이 나가사키를 찾았습니다. 이번 방문은 종전 80주년을 맞아 진행됐는데요. 일왕 가족은 나가사키 평화공원에서 원폭 희생자들을 기렸습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTFP66CNVHF5DRH553WSIHATQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;나가사키는 일찍부터 외국인들이 드나드는 교역의 창구였고, 메이지 시대에는 근대 공업 도시로 성장해 일본의 근대화에서 중요한 거점이었습니다. 또 일제강점기 우리나라 사람들이 강제 노동을 해야 했던 하시마섬(군함도)도 나가사키 앞바다에 있죠. 오늘은 이 나가사키에 얽힌 일본의 역사를 함께 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;포르투갈 상인들과 함께 세워진 도시&lt;/b&gt;&lt;br&gt;&lt;br&gt;나가사키는 일본을 이루는 네 개의 큰 섬(규슈·시코쿠·혼슈·홋카이도) 가운데 규슈 섬 서쪽 끝에 있는 도시예요. 16세기 중반까지만 해도 한적한 마을이었지만, 포르투갈 상인들이 들어오면서 상황이 달라졌답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NYUBDVTYMVBHBAQEQV4W4XWSUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아
-나가사키에 세워진 해군 전습소(가운데 건물들)와 인공섬 데지마(상단 부채꼴 섬). 일본은 데지마를 유일한 교역 창구로 삼고 서양 문물을 받아들였죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;처음 포르투갈인들은 규슈 북부 지역에 들어와 기독교를 전하고 무역도 했습니다. 임진왜란 당시 일본군이 사용했던 조총 역시 포르투갈 상인들에 의해 일본에 처음 들어왔어요. 하지만 새로운 종교를 받아들이기 어려워했던 주민들과 충돌이 이어졌죠. &lt;br&gt;&lt;br&gt;이때 등장한 인물이 오늘날 나가사키 인근 지역을 다스리던 다이묘 오무라 스미타다입니다. 그는 일본 최초의 기독교 다이묘였는데, 포르투갈과 무역을 해 이익을 얻기 위해 1571년 항구 도시 나가사키를 건설합니다. 나가사키는 파도를 피하기 좋은 만(灣)에 자리 잡고 있었고, 수심이 깊어 큰 배도 안전하게 정박할 수 있었습니다. 게다가 일본 서쪽 끝에 있어 동중국해로 곧바로 나갈 수 있었기 때문에 무역에 최적의 조건을 갖춘 항구였죠. &lt;br&gt;&lt;br&gt;이후 스미타다는 나가사키에 기독교인 거주지도 만들었어요. 이곳에 교회와 같은 서양식 건물이 지어졌고, 규모는 작지만 서양식 학교와 병원도 생겼습니다. 전국 시대 말기에 나가사키는 일본에서 가장 기독교도가 많은 땅이 되었답니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;서양 문물이 들어오는 창구 &lt;/b&gt;&lt;br&gt;&lt;br&gt;하지만 일본의 전국시대를 통일한 인물인 도요토미 히데요시는 기독교도가 늘어나는 것을 경계했어요. 기독교가 외국 세력이 개입할 빌미가 되고, 일본 백성을 분열시킬까 두려워한 거죠. 히데요시는 1587년 선교사 추방령을 내렸습니다. 그는 나가사키를 직할령으로 만들고 지방 관리를 파견해 교회도 파괴했죠. 히데요시는 기독교를 억압하는 정책은 계속하면서도, 무역으로 얻는 이익은 포기하지 못해 포르투갈 상인과의 교역은 유지했습니다. 덕분에 나가사키는 무역항으로 성장하면서 인구가 급격히 늘어나게 되지요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2K3SHZ6ZH5TLAECCD6ZJUFNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원자폭탄이 투하되기 이전(위쪽)과 이후의 나가사키를 촬영한 항공 사진이에요. 원폭으로 인해 수많은 조선인까지 목숨을 잃었습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 강경책은 에도 막부로 이어졌습니다. 막부는 기독교인을 색출하기 위해 예수나 마리아 그림이 그려진 동판을 밟게 하는 ‘후미에’를 강요했고, 이를 거부하면 처형하기도 했습니다.&lt;br&gt;&lt;br&gt;막부에 나가사키는 말 그대로 ‘필요악’ 같은 존재였어요. 나가사키는 은(銀), 비단, 향신료, 서양의 과학기술과 의약품 등이 들어오는 창구라 일본 경제에 꼭 필요했어요. 하지만 동시에 기독교가 확산할 수 있는 근거지로 여겨졌죠. 그래서 막부는 무역은 허용하되, 기독교 확산은 막는다는 절충책으로 1636년 나가사키 앞바다에 인공섬 데지마를 건설하고 이곳에서만 외부 세계와의 교역을 이어갔습니다. 서양 국가 중에서는 기독교 포교에 소극적이라고 판단됐던 네덜란드 상인들만이 이곳을 드나들 수 있었죠. &lt;br&gt;&lt;br&gt;막부가 데지마를 유일한 교역 창구로 삼으면서, 나가사키는 자연스럽게 서양 문물을 가장 먼저 받아들이는 도시가 되었습니다. 당시 일본에서는 네덜란드를 ‘화란(和蘭)’이라고 불렀는데, 서양 학문이 네덜란드 상인들을 통해 들어왔기 때문에 이를 난학(蘭学)이라고 했답니다.&lt;br&gt;&lt;br&gt;일본 학자들은 네덜란드 의학서를 번역해 ‘해체신서’ 같은 책을 펴냈고, 서양의 의학 지식이 일본에 전해졌습니다. 또 천문학, 지리학, 물리학 같은 근대 학문도 함께 들어왔지요. 이렇게 쌓인 지식은 훗날 메이지 유신 이후 일본이 빠르게 근대화를 이룰 수 있는 중요한 토대가 되었습니다. 일본 근대화의 아버지라 불리는 후쿠자와 유키치, 미쓰비시 기업을 세운 이와사키 야타로, 막부 타도 운동에 앞장선 사카모토 료마도 모두 나가사키를 활발히 드나들었죠. &lt;br&gt;&lt;br&gt;&lt;b&gt;군수 공업 도시의 그림자&lt;/b&gt;&lt;br&gt;&lt;br&gt;19세기 중반, 일본은 미국과 맺은 조약을 계기로 쇄국을 끝내고 문호를 열었습니다. 그 결과 나가사키 외에도 다른 항구들이 개항하게 되었고, 교역의 중심지는 점차 요코하마와 고베로 옮겨갔습니다. 그리고 나가사키는 무역항에서 점차 군사와 산업 거점으로 변해가기 시작했죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIYJMIMOORBGRN3ODEKCQIRCDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나가사키 앞바다에 있는 하시마섬(군함도) 전경. 멀리서 보면 군함 모습을 하고 있다고 해서 이런 이름이 붙었습니다. 일제강점기에 한국인 수백 명이 이곳에서 강제로 일을 해야 했죠. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;막부 말기엔 나가사키에 해군 장교를 양성하는 ‘해군 전습소’와 함선 수리 공장인 나가사키 용철소가 세워졌는데요. 이후 나가사키 용철소는 미쓰비시가 운영하는 민영 조선소가 됐고, 20세기엔 이곳에서 거대 전함 ‘무사시’를 비롯해 수많은 군함이 만들어지며 군수 공업의 중심지가 됐죠. &lt;br&gt;&lt;br&gt;그러나 그 발전 뒤에는 어두운 그림자가 있었습니다. 나가사키 조선소에는 많은 조선인이 강제로 동원되어 차별과 억압을 견디며 일해야 했어요. 그리고 제2차 세계대전 막바지인 1945년 8월 9일, 나가사키는 원자폭탄이 투하되는 비극을 겪게 됩니다. 시민 약 24만명 중 3분의 1 정도가 목숨을 잃었고, 나가사키에 거주하던 조선인도 1만명 이상 희생됐죠. 지금 나가사키엔 원폭 자료관과 평화공원이 조성되어 있는데, 평화공원 인근엔 조선인 희생자 추모비도 세워져 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [알립니다] 글로벌 미술대회 &amp; 루브르 박물관 전시회 개최</title>
-      <link>https://www.chosun.com/special/announcement/2025/09/24/DZ3IJMG6GBADFD6CD35ODXK3S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/09/24/DZ3IJMG6GBADFD6CD35ODXK3S4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B4GHPIAWG5EXVG2EOXIQHXWNOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린이조선일보와 에듀조선이 2025년 ‘어린이조선일보 글로벌 미술대회 &amp;amp; 루브르 박물관 전시회’를 개최합니다. 주제는 ‘우리의 문화, 다양한 문화와의 화합’입니다. 입상작은 프랑스 루브르 박물관 특별 전시 자격이 주어집니다. &lt;br&gt;&lt;br&gt;&lt;b&gt;▶참가 대상&lt;/b&gt;: 영유아·초등부 / 중·고등, 성인부(비재학 청소년 참여 가능)&lt;br&gt;&lt;br&gt;▶&lt;b&gt;접수 기간&lt;/b&gt;: 2025년 11월 5일(수) 오후 11시까지&lt;br&gt;&lt;br&gt;▶&lt;b&gt;접수 방법&lt;/b&gt;: 1) 글로벌 미술대회 홈페이지(kid.chosun.com/art) 접속 혹은 QR코드 스캔&lt;br&gt;&lt;br&gt;2) 출품 신청서 작성과 작품 파일 첨부 제출(우편 접수 불가)&lt;br&gt;&lt;br&gt;▶&lt;b&gt;참가비&lt;/b&gt;: 8000원&lt;br&gt;&lt;br&gt;▶&lt;b&gt;문의&lt;/b&gt;: 카카오톡 ‘어린이조선일보’ 플러스 친구를 통한 1대1 문의&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [동물 이야기] 캥거루처럼 주머니에서 새끼 키워… ‘똥’이 암컷과 수컷 연결해준대요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/24/SW7LXPLX5JAIVEUD3FSKIFOAEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/24/SW7LXPLX5JAIVEUD3FSKIFOAEI/</guid>
-      <dc:creator>정지섭 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z62Q2FFOXVFM3BAFMZ7QSU77DU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호주 뉴사우스웨일스주 국립공원 관리국이 얼마 전 아주 희한하게 생긴 동물의 동영상을 소셜미디어 계정에 올려놓았어요. 족제비처럼 길다란 몸뚱어리를 하고 네 발로 성큼성큼 다니는데, 꽃사슴처럼 갈색 바탕에 흰 물방울무늬가 박혀 있었어요. 바로 호주의 토종 포유동물인 주머니고양이랍니다. &lt;br&gt;&lt;br&gt;호주 하면 어떤 동물이 떠오르나요? 캥거루·코알라·쿼카·웜뱃처럼 암컷이 육아 주머니에서 새끼를 키우는 유대류들이 생각나죠? 주머니고양이 역시 이들과 같은 유대류랍니다. 다만 다른 유대류 친구들이 하나같이 풀을 뜯고 사는 초식동물인 것과 달리, 주머니고양이는 육식동물이죠. 생긴 것은 족제비나 쥐를 닮았지만, 행동 방식과 생태계에서의 역할이 고양이와 비슷해서 이런 이름이 붙은 것으로 알려져 있어요.&lt;br&gt;&lt;br&gt;꼬리를 제외한 몸길이는 최장 36~44㎝로 코알라보다도 작은 앙증맞은 크기이지만 쥐·토끼·새·곤충 등 사냥할 수 있는 동물의 종류만 스무 가지가 넘는데요. 특히 날다람쥐처럼 야행성 동물들의 보금자리를 찾아내 순식간에 덮치기도 하죠. 몸집은 왜소하지만, 덩치와 비교했을 때 무는 힘은 최고 수준이래요. &lt;br&gt;&lt;br&gt;주머니고양이는 생존력이 강해 척박한 환경에서도 곧잘 살아남는답니다. 호주에서는 최근 이상 고온과 가뭄 등으로 인해 대형 산불이 발생해 숲이 잿더미로 변하는 일이 드물지 않게 일어나고 있는데요. 이때 주머니고양이는 토끼 등 다른 동물이 파놓은 굴로 재빨리 들어가 불길을 피한대요.&lt;br&gt;&lt;br&gt;주머니고양이는 평소에는 자신의 영역을 정하고 그 안에서 단독으로 생활해요. 그러다 번식철이 되면 ‘똥’이 암컷과 수컷을 연결해주는 메신저 역할을 한답니다. 주로 평평한 바위 같은 곳에 대변을 봐서 상대방에게 자신의 존재를 알리는데, 암컷은 대변과 함께 자신의 냄새를 남겨 근처의 수컷에게 ‘짝짓기를 해서 새끼를 가질 준비가 돼 있다’는 걸 알리죠. 이렇게 대변으로 교신을 하면 다른 동물들처럼 수컷들이 정처 없이 암컷을 찾아다니거나 암컷을 두고 격렬하게 싸우는 일도 막을 수 있대요.&lt;br&gt;&lt;br&gt;주머니고양이는 털도 나지 않은 채 작고 꼬물거리는 새끼를 육아주머니에서 성장시키는데요. 그런데 초식 유대류인 캥거루나 코알라가 통상 한 마리, 많아야 두세 마리의 새끼를 낳는 것과 달리 주머니고양이는 한배에 많게는 스무 마리가 넘는 새끼를 낳아요. &lt;br&gt;&lt;br&gt;갓 태어난 새끼는 새빨간 벌거숭이로 볍씨 한 톨 크기만큼 조그맣답니다. 이 아기들이 모두 무럭무럭 자라면 참 좋겠지만 태어나는 새끼들 중 상당수는 형제자매들과의 생존 경쟁에서 밀려나 살아남지 못할 운명이에요. &lt;br&gt;&lt;br&gt;주머니고양이는 오랫동안 호주에서 최고 포식자로 군림하며 생태계가 균형을 이루도록 통제하는 역할을 해왔어요. 그런데 유럽에서 호주로 이주해 정착한 사람들이 쥐 등을 퇴치하기 위해 들여온 여우나 고양이가 야생화하면서 주머니고양이와 먹이 경쟁을 하거나 심지어는 포식자가 돼버렸어요. 이에 호주 곳곳에서는 여우·고양이를 포획해서 주머니고양이의 터전을 마련해주는 작업이 진행되고 있대요. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 9월 24일</title>
       <link>https://www.chosun.com/national/national_general/2025/09/24/DCGDT6GW75EGRPE6BT7FOTZEFM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/DCGDT6GW75EGRPE6BT7FOTZEFM/</guid>
@@ -709,69 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TI5JYIGMSZGQHMCWXBFN4HVFOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [413] ‘파투’와 ‘파토’</title>
-      <link>https://www.chosun.com/national/nie/2025/09/24/66AABRY2IRCD3NMAZOCKMI43AQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/24/66AABRY2IRCD3NMAZOCKMI43AQ/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:50:00 +0000</pubDate>
-      <content:encoded>*그동안 순조롭게 진행되어온 협상이 한순간에 파투가 나고 말았다.&lt;br&gt;&lt;br&gt;*10년 만의 재회를 꿈꾼 낭만적인 다큐멘터리가 허위 폭발물 신고로 파토가 날 뻔했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QN5HQIYTEJCIZAXGVJCLKO3MSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 의미를 지닌 낱말이 다르게 쓰였는데, 알맞은 것은 어느 것일까요? 정답은 바로 ‘파투’입니다. &lt;br&gt;&lt;br&gt;‘파투’는 한자로 깨뜨릴 파(破), 싸움 투(鬪)를 써요. 글자 그대로 풀면 ‘싸움판이 깨져 무효가 된다’는 뜻이지요. 원래는 화투(花鬪) 놀이에서 순서 등이 뒤바뀌어 판이 무효가 될 때 쓰는 말이랍니다. ‘파투가 났다’ ‘파투를 놓다’와 같이 쓰지요. 이 말은 일상에서도 많이 사용되는데요. 일이 잘못되어 흐지부지되는 것을 표현할 때도 씁니다. 예를 들면 ‘회의 중 큰 다툼이 벌어져 파투가 나고 말았다’와 같이 쓸 수 있지요.&lt;br&gt;&lt;br&gt;그런데 사람들은 흔히 ‘파토 났다’라고 말하기도 해요. 신문 기사에서조차 ‘파토’라는 표현을 많이 사용해 헷갈릴 때가 많은데, ‘파토’는 표준어가 아니고, 잘못된 표현이에요. ‘파투’라고 써야 한답니다.&lt;br&gt;&lt;br&gt;[예문]&lt;br&gt;&lt;br&gt;- 야외 공연장에서 열린 공연이 갑작스러운 폭우로 파투가 났다.&lt;br&gt;&lt;br&gt;- 파투 위기에 빠졌던 이적 협상은 그 선수가 한발 물러나면서 돌파구를 찾았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 환도(還都)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/24/T3BNIZT3BFDJVBAMOYJQ276FL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/24/T3BNIZT3BFDJVBAMOYJQ276FL4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PML6YHIB4FFPREX2VP3ZWUDYW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 찌다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/09/24/QGXYACT4LBD5FOYPGH2ENG5BZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/24/QGXYACT4LBD5FOYPGH2ENG5BZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYBYAURC3RALPN3SKFF4A2PJKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] take a page out of one’s book</title>
-      <link>https://www.chosun.com/national/nie/english/2025/09/24/WOGM6LHTW5F4ND36243RXGRPXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/24/WOGM6LHTW5F4ND36243RXGRPXA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74J3VJSELVFTDC6NWBHKCCBPBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 주렁주렁 열리다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/09/24/LQSMK7WSP5D2PCJD3FPVMYG66I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/24/LQSMK7WSP5D2PCJD3FPVMYG66I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/45TVANC6QZBAJAD5DS5DQUTBSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2712] 날짜 계산기</title>
-      <link>https://www.chosun.com/national/nie/2025/09/24/TFXHWBWYARGJDJLGHQIWCSUSVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/24/TFXHWBWYARGJDJLGHQIWCSUSVM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KSCSNEV3KVHK5BHKJWBY5FCTF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>퇴근길 차 막히자 인도로 질주... 몰상식한 SUV에 과태료 7만원</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/23/Z3IXWL2CPVEXXDIS7TTYHYKOBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/Z3IXWL2CPVEXXDIS7TTYHYKOBA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 13:48:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4V6VZXBRD53NJKLGG2C3Q6EA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 SUV 차량이 교량 인도를 달리고 있다. /'보배드림' 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퇴근 시간 광주 한 교량 인도를 주행한 차량에 대해 경찰이 과태료 처분을 내렸다. &lt;br&gt;&lt;br&gt;광주 북부경찰서는 23일 차도가 아닌 인도를 주행한 혐의(도로교통법 위반)로 한 SUV 차량에 과태료 7만원을 부과한다고 밝혔다. &lt;br&gt;&lt;br&gt;이 SUV 운전자는 지난 18일 오후 6시쯤 광주 북구 오룡동 첨단대교에서 주행하다가 차량 정체가 발생하자 자전거전용도로와 인도 위를 주행한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이를 목격한 시민들이 국민신문고를 통해 민원을 제기했고, 조사에 나선 경찰은 이날 오전 SUV의 차량 번호를 특정한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;앞서 한 네티즌은 온라인 커뮤니티를 통해 SUV가 도로가 아닌 인도를 주행 중인 사진과 함께 “퇴근 시간이라 차 많이 밀리는 건 아는데, 저렇게 사람 다니는 인도로 차를 몰고 가는 몰상식한 사람이 있다”며 “앞에 사람이 있는데도 꿋꿋이 제 갈 길 가더라”라고 했다. &lt;br&gt;&lt;br&gt;당시 이 게시물에는 “평소 저녁 러닝하는 코스인데 차단봉 설치해달라고 구청 국민신문고 민원 넣었다” “여기 유동 인구 많은데 너무 위험한 것 아니냐” 등의 댓글이 달렸다. &lt;br&gt;&lt;br&gt;경찰은 재발 방지를 위해 관할 지방자치단체인 북구에 대교 인도의 출입을 제한하는 교통 시설물 등의 설치를 통보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>KT 소액결제 피해, 새벽 시간 노렸다…“신호 잘 잡힐 때 범행”</title>
       <link>https://www.chosun.com/national/incident/2025/09/23/CTT5K54J5BH43BPGUZVZABY6AI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/23/CTT5K54J5BH43BPGUZVZABY6AI/</guid>
@@ -779,15 +909,6 @@
       <description/>
       <pubDate>Tue, 23 Sep 2025 13:06:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOKGODKTDESQTBELNMPM3R4UDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KT 무단 소액결제 사건의 피의자인 중국 국적 남성 A씨가 지난 18일 구속 전 피의자 심문(영장실질심사)에 출석하기 위해 경기도 수원영통경찰서 유치장에서 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KT 휴대전화 무단 소액결제 사건의 피의자가 신호가 원활히 잡히는 새벽 시간을 골라 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;23일 경찰에 따르면, 불법 소형 기지국(펨토셀)을 차량에 싣고 수도권을 돌아다닌 혐의로 구속된 중국동포 A(48)씨는 “윗선이 낮에는 사람이 많아 신호가 충돌하니 새벽에 움직이라고 지시했다”고 진술했다. 경찰은 통신 충돌이 최소화되는 특정 시간대를 노렸다는 점에서 펨토셀의 실제 운용 방식과 범행 수법을 규명하는 중요한 단서가 될 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 지난달부터 이달 초까지 승합차에 펨토셀을 설치해 경기 광명, 서울 금천 등 대규모 아파트 단지를 돌며 피해자 휴대전화를 해킹, 모바일 상품권 결제와 교통카드 충전을 반복한 혐의를 받는다. 경찰은 A씨의 차량과 함께 펨토셀 장비를 확보했고, 평택항을 통해 중국으로 반출되려던 또 다른 장비도 압수했다.&lt;br&gt;&lt;br&gt;경찰은 과기정통부, 한국인터넷진흥원(KISA), 민간 전문가 등이 참여하는 민관 합동 조사단을 투입해 장비 구조와 해킹 원리를 정밀 분석할 계획이다. A씨는 이르면 25일 검찰에 송치될 예정이다.&lt;br&gt;&lt;br&gt;피해 규모는 눈덩이처럼 불어나고 있다. 경찰에 접수된 피해는 22일 오후 기준 214명, 1억3600여만원에 달한다. KT가 자체 집계한 피해는 지난 11일 278명(1억7000만원)에서 18일 362명(2억4000만원)으로 불어난 상태다. 피해 지역도 서울 서초·동작, 경기 고양시 등으로 확대됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아리셀 유족들 “사망자 1명당 징역 1년도 안 돼... 형량 너무 적다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/23/JGMHSCDLDZEDTJVR3RQM6VQZYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/JGMHSCDLDZEDTJVR3RQM6VQZYA/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 10:54:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGCCZ42TEFL5BNW6NY2FMJDESU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공장 화재로 23명의 사망자가 발생한 화성 리튬전지 제조업체 아리셀 박순관 대표의 1심선고가 열린 23일 아리셀 참사 유가족들이 경기 수원지방법원 앞에서 입장을 밝히고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 6월 23명의 근로자가 사망한 ‘아리셀’ 화재 사고와 관련해 박순관 대표 등이 23일 1심서 징역 15년형을 선고받자, 유족들은 “(형량이)너무 적다”고 했다.&lt;br&gt;&lt;br&gt;이날 유족과 민주노총, 법률대리인 등으로 구성된 20여명은 이날 박 대표가 중대재해처벌법 위반 혐의 등으로 중형을 선고받고 법정구속된 후 수원지법서 기자회견을 열고 “가족 100여명의 일상이 멈춘 재앙에 비하면 이 형량은 아무것도 아니다”라고 밝혔다.&lt;br&gt;&lt;br&gt;김태윤 아리셀 산재피해가족협의회 공동대표는 “중대재해 참사로 23명의 근로자만 죽은 게 아니라 일상으로 돌아가지 못한 유가족들까지 많은 목숨을 앗아간 참사”라고 했다. 이날 김 대표는 “살인죄를 저지른 사람에게 사형을 구형하는데 가족 100명을 죽인 대표에 대한 징역 15년은 적다고 생각한다”며 “다만 재판부가 박순관을 중대재해처벌법 경영 책임자로 인정하고 더 이상 이런 참사가 발생하지 않게끔 판시한 부분에 대해서는 마음이 놓인다”고 했다.&lt;br&gt;&lt;br&gt;이 사고로 남편을 잃은 최현주 씨는 “(박 대표의 형량이) 중대채해처벌법 시행 이후 최고형이라고 다들 말하지만, 속된 말로 사망자 한 명당 징역 1년도 되지 않는다”며 “판사님도 이번 사례가 우리 사회의 선례가 돼야 한다고 말한 만큼, 많은 분이 재판 과정에 관심을 가져달라”고 했다.&lt;br&gt;&lt;br&gt;신하나 변호사(아리셀 중대재해참사 대책위원회 법률지원단장)는 “피고인들에 대한 형량은 아쉽지만, 판시 내용이 의미하는 것들은 우리 사회가 곱씹어봐야 하는 문제”라며 “우리 사회가 이 사고를 반성하고 다시는 재발하지 않도록 하기 위해서는 책임자들에게 충분한 책임을 묻는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/55B5HRN2PRPBDE63HHGB4YYD5M.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 23명이 사망한 '화성 아리셀 공장 화재'로 재판에 넘겨진 박순관 아리셀 대표이사에게 법원이 '징역 15년'을 선고한 23일 오후 경기 수원지방법원 앞에서 유가족을 비롯한 대책위 관계자들이 입장 발표 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 선고 공판이 열린 수원지법 201호 법정 72석은 취재진과 사고 유족 및 법률 대리인 등으로 가득 찼다. 법원 직원 15명이 혹시 모를 상황에 대비해 법정 경비를 서기도 했다. 이날 재판이 시작되기 전 일부 유족이 박 대표 등을 향해 “박순관 사과하라”라고 소리를 치기도 했다.&lt;br&gt;&lt;br&gt;이날 수원지법 형사14부(재판장 고권홍)는 중대재해 처벌 등에 관한 법률(산업재해치사) 위반, 파견법 위반, 산업안전보건법 위반 등 혐의로 기소된 박 대표에게 징역 15년을 선고했다. 또 산업안전보건법 위반, 업무상 과실치사상 등 혐의로 기소된 박 대표 아들 박중언 아리셀 총괄본부장에게도 징역 15년 및 벌금 100만원을 선고했다.&lt;br&gt;&lt;br&gt;이들과 함께 재판에 넘겨진 아리셀 임직원 등 6명에게는 징역 2년, 금고 1∼2년, 벌금 1000만원 등이 선고됐다.&lt;br&gt;&lt;br&gt;아리셀 화재 사고는 작년 6월 24일 경기 화성시 서신면에 있는 리튬전지 제조업체인 아리셀 공장에서 발생했다. 전지 3만5000여개가 연쇄 폭발해 작업장에서 일하던 근로자 50여명 중 23명이 숨지고 8명이 다쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMW7TYEK7T34R2XJA6ATWLVOFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박순관 아리셀 대표. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 박 대표 등은 평소 유해·위험 요인 점검을 이행하지 않고, 중대재해 발생 대비 매뉴얼을 구비하지 않은 혐의로 작년 9월 재판에 넘겨졌다. 박 본부장은 또 비상구를 설치하지 않고, 화재 발생에 대비한 안전교육과 소방훈련 등을 실시하지 않는 등 안전관리 의무를 이행하지 않은 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰에 따르면 아리셀은 매년 적자가 발생하자, 무리한 생산을 감행해오면서 안전·보건 예산과 담당 인력을 줄이고, 비용 절감을 위해 파견업체로부터 비숙련 외국인 노동자를 불법 파견받아 안전 교육 없이 고위험 공정인 전지 생산에 투입한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>징역 15년에 ‘아리셀 화재’ 대표 휘청... 부축한 아들도 ’15년'</title>
@@ -819,138 +940,6 @@
       <description/>
       <pubDate>Tue, 23 Sep 2025 12:05:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IPREDRXXIVHETKGBTWFW6WGDYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'챗카인드' 앱에서 학생들이 친구와 선생님을 칭찬하고 있는 모습./선플재단 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선플재단(이사장 민병철)이 만든 칭찬 앱 ‘챗카인드’가 23일 출시됐다. 휴대폰 앱인 ‘챗카인드’는 친구, 동료, 회사 등을 칭찬하는 글을 올리면 보상을 받을 수 있는 시스템이다. AI(인공지능)가 게시글과 댓글마다 ‘친절 점수’를 매기면 이를 커피 쿠폰·상품권·유급 휴가 등 실질적 보상으로 교환할 수 있다. 민 이사장은 “디지털 폭력과 AI 딥페이크가 넘쳐나는 시대, 기업과 학교가 칭찬과 독려를 ‘원동력’으로 삼는 선순환을 경험케 하는 것이 목표”라고 했다.&lt;br&gt;&lt;br&gt;앱 개발은 3년 전 한 대기업 임원의 제안에서 출발했다. 그는 “회사 구성원들만 볼 수 있는 온라인 커뮤니티에서 떠도는 동료와 상사를 향한 비방이 추가 따돌림으로 이어지고 있다”며 민 이사장에게 고민을 털어놨다. 이 기업 내부에서 사실과 다른 내용이 매일같이 제기되고, 일파만파 퍼지는데 회사 차원에서 대응하기 애매해 난처했던 상황이 한두 번이 아니었다고 한다. 민 이사장은 “하루 종일 머무는 직장에서 서로를 익명으로 손가락질하고 욕하는 상황에선 ‘선플 운동’은 반쪽짜리라는 생각이 들었다”고 했다. 이후 앱 개발에 착수했다.&lt;br&gt;&lt;br&gt;챗카인드는 지난 5월 말 베타 테스트를 마치고 구글 플레이·iOS 앱스토어에 정식 등록됐다. 롯데호텔, 지오엘리먼트, 대한상공회의소 등이 도입을 준비 중이다. 학생들의 경우 친절 댓글을 게시해 선플 재단에서 봉사 시간을 적립할 수 있다. ‘카인드 스코어’ 200점을 쌓으면 1시간으로 인증되며, 광운인공지능고와 오산고에서 시범 운영 중이다.&lt;br&gt;&lt;br&gt;‘1세대 국민 영어 선생님’인 민 이사장은 1980년대 아침 방송에 나와 생활 영어를 가르치며 사용했던 교재 ‘민병철 생활영어’로 명성을 떨쳤다. 2007년부터는 ‘선플운동본부’를 만들어 18년간 선플 운동을 이끌고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양궁 임시현 ‘일베 용어’ 논란에... “뜻도 모른다, 사투리 따라 한 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/23/7DF7FQHVRNEYNFU4CBZCCPIAZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/7DF7FQHVRNEYNFU4CBZCCPIAZI/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 10:27:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H6YKLV6CMZNEDNOWJONWMC5BKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임시현이 진나 12일 광주 동구 국립아시아문화전당 5·18민주광장에서 열린 2025 세계양궁선수권대회 리커브 여자 개인전 16강에서 화살을 쏘고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자 양궁 대표 임시현이 온라인 커뮤니티 ‘일간베스트 저장소’(일베)에서 특정인을 희화화하는 맥락에서 사용되는 표현을 썼다가 뒤늦게 논란이 일자 해명에 나섰다.&lt;br&gt;&lt;br&gt;임시현은 23일 인스타그램을 통해 세계양궁선수권대회에서 동메달을 획득한 소식을 전하며 “시합 바로 전, 과거에 했던 말실수가 구설수에 오르게 되면서 이런저런 말이 많았다”고 논란을 직접 언급했다. &lt;br&gt;&lt;br&gt;앞서 임시현은 지난 5월 22일 인스타그램에 활케이스 사진을 올리며 “이기야”라는 문구를 남겼다. 당시엔 이 게시물이 큰 주목을 받지 못했으나, 약 3개월이 지난 광복절 무렵 관련 보도가 나오면서 뒤늦게 논란이 일었다. ‘이기야’라는 표현은 일부 경상권에서 일상 사투리의 어기나 호격으로 사용되지만, 일베에서 고(故) 노무현 전 대통령의 사투리를 희화화하는 말투로 소비되면서 이를 부정적으로 보는 시각이 많아졌다. &lt;br&gt;&lt;br&gt;이에 임시현은 “우선 경솔했던 행동에 대해 실망하고 마음 아파하셨을 팬 여러분께 진심으로 죄송하다는 말 드리고 싶다”고 했다. &lt;br&gt;&lt;br&gt;다만 임시현은 “언제부터 국어사전에 등록되어 있는 사투리가 일베 용어가 되었냐”며 “저는 이번에 처음 알았다”고 해명했다. 이어 “일베가 아니었기에 일베 용어인지 몰랐다”며 “그냥 경상도 사투리를 따라 했을 뿐이고 새로 받은 활케이스가 맘에 들어 덧붙인 말이었다”고 했다. 아울러 “알아 보니 제가 사용했던 사투리가 누군가를 조롱할 때 쓰는 용어라고 하더라”며 “인과응보가 있다고 믿는 사람으로서 누군가를 조롱할 생각도, 마음도, 그러고 있을 시간도 없다”고 했다. 또 “저는 국위 선양하기 위해 노력해 왔고 앞으로도 노력할 것”이라고 했다. &lt;br&gt;&lt;br&gt;끝으로 “대한민국의 국가대표로서 말을 조심하지 못했던 것 같다”며 “바로 해명 글을 올리지 못해 저뿐만 아니라 많은 분이 혼란스럽고 답답해하셨을 거라 생각한다”고 했다. 그러면서 “그럼에도 믿고 기다려 주신 분들께 죄송하고, 감사하다는 말 전하고 싶다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 26일 ‘내란특검 추가 기소’ 첫 재판 출석... 보석 심문도 함께</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/53GA32ASKRATTFBE27KJGG3NFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/53GA32ASKRATTFBE27KJGG3NFE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:31:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WO7MTYAL5ZORWD26NWBHBBAPQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄과 관련해 특검 수사를 받는 윤석열 전 대통령이 지난 7월 9일 밤 서울중앙지법에서 두 번째 구속 전 피의자심문(영장실질심사)을 마친 뒤 대기장소인 서울구치소로 이동하고 있다./사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 오는 26일 직권남용 등 혐의로 특검이 추가 기소한 사건의 첫 재판에 출석한다. 같은 날 윤 전 대통령의 보석 심문도 열릴 예정이다.&lt;br&gt;&lt;br&gt;23일 윤 전 대통령 법률대리인단은 “오는 26일 10시 15분 신건 공판은 출석한다”고 밝혔다. 이어 “형사재판에서 피고인의 출석은 형사소송법상 공판 개정의 요건”이라며 “이번 신건의 경우 궐석재판으로 진행되던 기존 내란 우두머리 재판과 별개의 재판 절차인 관계로 첫 공판에 반드시 출석해야 하는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;형사소송법 276조에는 ‘피고인이 공판기일에 출석하지 아니한 때에는 특별한 규정이 없으면 개정하지 못한다’고 돼 있다. 형사 재판을 개시하려면 반드시 피고인이 출석해야 한다는 의미다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 26일 윤 전 대통령의 직권남용·특수공무집행방해 등 사건의 첫 공판을 연 뒤 곧바로 보석 심문을 진행할 전망이다. 윤 전 대통령 측은 앞서 특검이 직권남용 등 혐의로 추가 기소한 1심 재판부에 지난 19일 보석을 신청했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 24일 내란 특검의 소환 요구에는 응하지 않기로 했다. 윤 전 대통령 측은 이날 예정된 조사에 불출석할 예정이라고 밝혔다. 다만 불출석 사유서는 제출하지 않았다. 특검은 브리핑에서 “윤 전 대통령이 구두로 구치소 담당자에게 불출석 의사를 전달한 것으로 알고 있다”며 “출석 여부를 최종적으로 확인하고 향후 재소환 여부를 검토할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>과학·기술 우수 인재 영주·귀화 패스트트랙 대상 확대 </title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/6ID6ZRGNFJB2VCN62WFGYBO4IU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/6ID6ZRGNFJB2VCN62WFGYBO4IU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:25:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 국내 유학 중인 해외 우수 인재 유치를 위해 시행 중인 ‘과학기술 우수 인재 영주·귀화 패스트트랙’ 제도를 확대·개편한 ‘K-STAR 비자트랙’을 운영한다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;2023년 1월부터 시행된 기존 패스트트랙 제도는 한국과학기술원(KAIST) 등 5개 과학기술원에서 석·박사 학위를 받은 외국인을 대상으로 했다. 총장 추천을 받으면 거주 자격(F-2) 비자를, 연구 경력·실적 등이 일정 기준을 충족하면 영주 자격 비자(F-5)를 받았고, 연구 실적이 우수하면 국적심의위원회를 거쳐 특별귀화를 할 수 있었다. 일반유학생이라면 최소 6년인 영주 자격 취득 기간이 절반인 3년으로 단축됐다. 제도 시행 후 올 8월까지 296명이 F-2 비자를 받았다.&lt;br&gt;&lt;br&gt;법무부는 이번에 제도 적용 대상을 20여 개 일반 대학으로 확대하기로 했다. 이날 27개 대학을 대상으로 사업설명회를 열었고, 다음 달에 신청을 받아 연말에 대상 대학을 선정할 예정이다.&lt;br&gt;&lt;br&gt;법무부는 제도 개편으로 F-2 비자를 발급받는 외국 우수 인재가 연간 약 100명에서 400명으로 확대될 것으로 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘공익대표’ 기능 강화... “공익활동 최선 다할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/ZUDASMXNQ5DENPJ7LGPURZR6HU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/ZUDASMXNQ5DENPJ7LGPURZR6HU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:30:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKYEJAGHTVPZLCGCVOGB2ETITI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청 청사 앞에 검찰 깃발이 바람에 날리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 수사와 기소 이외에 공익적인 법률 사무를 확대한다.&lt;br&gt;&lt;br&gt;대검찰청은 23일 “검사는 ‘공익의 대표자’로서 수사와 기소, 형 집행 외에도 민·상사, 행정의 다양한 영역에서 어려운 국민을 돕고 범죄를 예방하기 위해 공익적인 법률 사무를 꾸준히 수행하고 있다”며 이같은 방침을 밝혔다.&lt;br&gt;&lt;br&gt;올해 하반기 기준 전국 60개 지검·지청에는 공익대표 전담검사가 66명, 수사관 64명(겸임 포함)이 지정돼 활동하고 있다. 이들은 통상 검사의 업무로 여겨지는 피의자 수사나 기소, 공소 유지가 아닌 법률 사무에 투입된다.&lt;br&gt;&lt;br&gt;검찰이 해온 대표적인 법률 사무로는 부모로부터 학대·방임된 아동들을 대신해 친권상실·미성년후견인 선임을 청구하고, 양부모로부터 학대받은 아동을 위해 파양을 청구하는 것이 있다.&lt;br&gt;&lt;br&gt;또 검찰은 질병·장애·노령 등으로 사무처리에 어려움을 겪는 이들을 위해 성년후견개시심판을 청구하거나, 실종신고자로 접수됐으나 사망자로 간주된 이들에 대한 실종신고를 취소하는 업무도 해오고 있다. 이밖에도 보이스피싱이나 주식 리딩방 사기 등에 각종 민생범죄에 활용되는 유령법인에 대한 해산 명령으로 추가 범행을 차단하는 역할도 맡고 있다.&lt;br&gt;&lt;br&gt;특정 업무를 위해 전담팀을 운영하는 사례도 있다. 앞서 대구지검은 2021년 9월 ‘공익대표 전담팀’을, 부산지검은 2022년 7월 ‘비송사건 전담팀’을, 서울동부지검은 지난 3월 ‘유령법인 해산팀’을 운영해왔다. 검찰은 전담팀의 추가 설치를 계획하고 있다.&lt;br&gt;&lt;br&gt;대검은 “앞으로도 검찰은 법적 도움이 절실한 국민의 법률대리인으로서 아동과 사회적 약자 보호, 국민 재산의 보호 등 공익활동에 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이재명 반대” 외쳤던 유동규, 결국 검찰로 넘겨졌다</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/23/EQAHYOFHEVHU3A5NJTG5E2PCNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/EQAHYOFHEVHU3A5NJTG5E2PCNE/</guid>
-      <dc:creator>과천=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 07:38:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWRX2FELFDLK7JNDMXW4RGWQIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제21대 대통령 선거를 앞두고 당시 이재명 더불어민주당 후보에 대한 부정적인 발언을 한 혐의로 고발된 유동규 전 성남도시개발공사 기획본부장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 과천경찰서는 공직선거법 위반 혐의로 유 전 본부장을 지난 17일 불구속 송치했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 유 전 본부장은 지난 4월 7일과 16일 과천 중앙선거관리위원회 앞 집회에서 이 후보를 비판하는 연설을 한 혐의를 받고 있다. 또 같은 달 14일에는 공식 선거운동 기간이 아님에도 서울 여의도에서 확성 장치를 이용해 홍준표 전 대구시장을 지지하고 이 후보를 반대하는 발언을 한 혐의도 받는다.&lt;br&gt;&lt;br&gt;앞서 변호사 단체 ‘검사를 검사하는 변호사 모임’ 오동현 대표가 유 전 본부장을 고발했다. 경찰은 선거운동기간 위반, 부정선거운동 혐의는 인정된다고 보고 사건을 검찰로 넘겼다. 다만 허위사실 공표 혐의에 대해서는 개인 의견 표명에 해당한다며 불송치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘金여사 명품·권성동 1억원 공여’ 통일교 前본부장 보석 청구 </title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/II6WNN2MAVA3RPH7KT4Q3SPHOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/II6WNN2MAVA3RPH7KT4Q3SPHOY/</guid>
-      <dc:creator>이민준 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:14:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEJQ4WG6YHUM66MQLONMPGEUBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 통일교 세계본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 명품 목걸이 등 8293만원어치 명품을 건네고, 권성동 국민의힘 의원에게 불법 정치 자금을 건넨 혐의로 구속된 전직 통일교 고위 간부가 23일 법원에 보석을 청구했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 윤영호(전 통일교 세계본부장)씨는 이날 서울중앙지법 형사27부(재판장 우인성)에 보석청구서를 냈다. 윤씨는 지난 7월 30일 구속됐는데, 두 달 여 만에 보석을 청구한 것이다. 청구서를 접수한 재판부는 특검에 보석 관련 의견을 내달라는 요청서를 보낸 것으로 파악됐다. 다만 자세한 청구 사유는 알려지지 않았다.&lt;br&gt;&lt;br&gt;윤씨는 지난 17일 열린 첫 재판에서 김 여사에게 6200만원대 그라프 목걸이와 1000만원 안팎의 샤넬 가방 2개를 건넨 혐의(청탁금지법 위반)와 권 의원에게 불법 정치 자금 1억원을 건넨 혐의(정치자금법 위반)를 일부 인정했다. 다만 윤씨 측은 “그라프 목걸이와 샤넬 가방을 (건진법사) 전성배씨에게 전달한 것은 인정하지만 최종적으로 김 여사에게 전달됐는지는 알지 못한다”며 “이 부분이 객관적이고 구체적으로 입증되지 않는다면 범죄가 성립하지 않는다고 판단한다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 오는 30일 오전 11시에 다음 재판을 열기로 했다. 또 다음 달부터 매주 월요일에 재판을 진행하겠다는 방침도 밝혔다.&lt;br&gt;&lt;br&gt;한편 윤씨에게 김 여사 명품 선물 및 권 의원 정치자금 제공 등 계획을 보고 받고 승인한 혐의를 받는 한학자 통일교 총재는 전날 구속돼 서울구치소 독거실에 수감됐다. 서울중앙지법 정재욱 영장 전담 부장판사는 전날 한 총재의 구속영장 실질심사를 연 뒤 “증거인멸 염려가 있다”며 구속영장을 발부했다. 특검은 한 총재 소환 시기를 고심 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘순직 해경’ 유족·동료 참고인 조사… 드론업체·파출소 직원도 소환</title>
-      <link>https://www.chosun.com/national/incident/2025/09/23/G325MG3H3FDJRCXYGJP2KA3ARU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/23/G325MG3H3FDJRCXYGJP2KA3ARU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:07:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN7CJQCH7BP6LNIGQFLCUPSA2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;갯벌 구조 활동 중 숨진 해경 이재석 경사 사고와 관련, 검찰 수사관들이 지난 18일 오후 인천 서구 인천해양경찰서를 압수수색하고 압수품을 옮기고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 구조 활동 중 순직한 해경 고(故) 이재석(34) 경사 사고와 관련한 조사에 속도를 내고 있다. &lt;br&gt;&lt;br&gt;23일 검찰 등에 따르면 인천지검 ‘인천 해경(故 이재석 경사) 순직 사건’ 수사팀은 이날 이 경사의 사촌 형 A씨와 이 경사의 소속 파출소 동료 해경 2명을 참고인 조사를 위해 소환했다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난 19일 참고인 신분으로 검찰에 출석해 이 경사의 스마트워치 등 관련 자료를 제출한 데 이어, 두 번째로 검찰에 출석하게 됐다. &lt;br&gt;&lt;br&gt;검찰 수사팀은 지난 21일 다른 동료 해경 1명을 불러 참고인 조사를 진행했는데, 사고 당시 상황과 소속 파출소 팀장과의 관계, 지난 15일 기자회견 개최 배경 등을 조사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 경사의 소속 파출소 동료였던 해경 1명도 조만간 소환을 앞두고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰 수사팀은 이날 드론 순찰업체 직원도 참고인 신분으로 불러 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;검찰 수사팀은 직권남용 권리행사방해와 업무상 과실치사, 직무유기, 허위공문서 작성 등 혐의로 전 인천해양경찰서장과 해경 영흥파출소장, 영흥파출소 당직 팀장 등을 수사하고 있다. &lt;br&gt;&lt;br&gt;지난 16일 대기발령으로 직무에서 배제된 이들은 이번 사건과 관련해 함구할 것을 지시하거나 사고 대응 조치를 적절하게 하지 않았다는 의혹을 받고 있다. 이 경사의 동료 해경 4명은 지난 15일 “이 경사를 ‘영웅’으로 만들어야 하니 사건과 관련해 함구하라는 지시를 받았다”고 폭로했다. &lt;br&gt;&lt;br&gt;지난주 해양경찰청과 인천해양경찰서, 해경 영흥파출소 등을 압수수색한 검찰 수사팀은 확보한 자료와 참고인 진술 등을 토대로 수사 대상 해경을 불러 이 경사의 사망 경위와 규정 준수 여부 등을 확인할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 ‘사법 행정권 남용’ 임종헌, 징역 7년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/Q7KH5NT3YJDG7PWX2MTLOGUXXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/Q7KH5NT3YJDG7PWX2MTLOGUXXI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 07:21:33 +0000</pubDate>
-      <content:encoded>이른바 ‘사법행정권 남용’ 사건의 실무 총책임자로 기소된 임종헌 전 법원행정처 차장의 2심 재판에서 검찰이 징역 7년을 구형했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QCFICSYUYUK435RFOQK2MTFRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 7월 17일 임종헌 전 법원행정처 차장이 서울 서초구 서울중앙지방법원에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 서울고법 형사12-1부(재판장 홍지영) 심리로 열린 결심 공판에서 검찰은 “임 전 차장에게 징역 7년을 선고해달라”고 재판부에 요청했다. 검찰은 1심에서도 같은 형량을 구형한 바 있다.&lt;br&gt;&lt;br&gt;검찰은 “특정 법관의 동향을 파악하고 제재 수단을 검토한 것은 사법 행정권 남용에 해당하는 것이 명확하다”면서 “법원은 세 차례의 내부 조사 결과, 피고인의 다수의 행위가 행정권 남용 및 부적절한 행사에 해당된다고 파악하는 등 사안이 중대하고 사법부에 미친 영향이 크다”고 했다. &lt;br&gt;&lt;br&gt;임 전 차장은 2012년 8월~2017년 3월 양승태 전 대법원장 시절 법원행정처 기획조정실장과 차장으로 근무하며 사법 행정권을 남용한 혐의로 2018년 11월 기소됐다. 그는 상고법원 도입을 위해 박근혜 정부의 도움을 받을 목적으로 일제 강제 동원 피해자 소송 등에 개입하고, ‘물의 야기 법관’을 별도 관리했다는 혐의를 받았다. 양 전 대법원장이 기소되지 않은 ‘위안부 손해배상 재판 개입’ ‘전·현직 국회의원 6명의 재판 청탁 의혹’ 등 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 1심은 작년 4월 임 전 차장의 재판 개입과 판사 블랙리스트 관리 등 주요 혐의에 대해 무죄를 선고하면서도, 일부 직권남용 혐의만 유죄로 판단해 징역 2년에 집행유예 3년을 선고했다. 1심은 “피고인은 오랜 기간 대내외적인 비난과 질타의 대상이 됐다”며 “본 재판만으로도 5년 넘는 기간 동안 유죄로 판명된 범죄보다 몇 배 많은 혐의를 벗기 위해 수많은 시간과 비용을 소비하는 일종의 사회적 형벌을 치렀다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>도심 주택가서 마약 제조... 영국인 2명 구속 송치 </title>
-      <link>https://www.chosun.com/national/2025/09/23/NTE4AVYHQFCGLD7IETNHL4OM3E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/23/NTE4AVYHQFCGLD7IETNHL4OM3E/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:00:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIMLPTEAP5HZVF456W27KZ5RI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이민경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도심 주택가에서 마약을 직접 제조해 유통하려던 영국인 관광객 2명이 적발됐다.&lt;br&gt;&lt;br&gt;경남경찰청 범죄예방대응과는 마약류 관리에 관한 법률 위반(제조) 등 혐의로 영국 국적 40대 남성 A씨와 40대 여성 B씨를 구속 송치했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;연인 관계인 두 사람은 지난 4일 오후 경남 김해시 주택가 한 빌라에서 마약류인 엑스터시(MDMA)를 제조한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨 등은 지난달 22일 인천국제공항을 통해 입국했다. 입국 당시 엑스터시 원재료 가루 360g을 소분한 상태로 몸속에 숨기고 들어왔다. 공항에서는 이들을 적발하지 못했다. 이들은 닷새간 국내 관광을 마치고 지난달 27일쯤 김해 한 빌라에 투숙했다. 경찰은 A씨 등이 묵은 해당 빌라를 미리 빌린 사람을 마약 조직원으로 추정하고 있다. &lt;br&gt;&lt;br&gt;A씨 등은 이 빌라에서 몰래 들여온 가루 형태의 원재료를 알약 형태로 만들었다. 이들은 엑스터시를 1알에 20만원, 2알에 35만원에 팔겠다며 부산·경남 유흥가에서 유통을 시도하다가 관련 첩보를 받은 경찰에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;현장에서는 이들이 제조한 엑스터시 108알과 남은 원재료를 압수했다. 전체 1800명이 투약할 수 있는 양(3억6000만원 상당)이다. 경찰은 실제 유통은 되지 않은 것으로 파악했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 등은 이번에 한국에 처음 왔고, 마약 관련 전과도 없었다”면서 “마약 원재료를 밀반입하고, 누군가 빌려 놓은 빌라에서 마약을 제조한 점을 미뤄 외국 마약 조직과 연결된 것으로 보고 상선 추적 등 수사를 이어가고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  9월 24일 수요일 (음력 8월 3일 丙申)</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/23/BXHJNAJMGNDKHEDWWDIHV25RCY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/23/BXHJNAJMGNDKHEDWWDIHV25RCY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 막히면 돌아가는 것도 좋은 방법. 48년생 운동과 여가 생활로 기분 전환 필요. 60년생 해이해지기 쉬운 때이니 마음 다잡도록. 72년생 내세우지 않아도 임자 만나면 제값 받을 듯. 84년생 천리안도 가까운 제 눈썹 못 본다더라. 96년생 자책할 이유 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 깨진 그릇에 이 맞춰봐야 온 그릇 되나. 49년생 소화기 질환 있다면 재발 주의. 61년생 불뚝 성질이 화 자초. 73년생 종착점은 또 다른 출발점. 85년생 본분에 벗어난 무리한 행동은 삼가도록. 97년생 무모해 보일 수 있지만 도전해 보는 것도 한 방법.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 몸 따로 마음 따로. 50년생 범사가 여의하니 조급해 마라. 62년생 이성 간의 거래는 엄격한 주의 요구. 74년생 뜻밖에 즐거움은 일단 경계하고 봐야. 86년생 하늘의 상서로운 별이 내 집 앞 비추는구나. 98년생 집안이 평안한데 이밖에 더 무엇을 바라리.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 작은 나눔이 큰 기쁨 된다. 39년생 뇌 심혈관 계통의 질환 두렵다. 51년생 지나침은 모자람만 못하다. 63년생 없는 사람이 기와집만 짓는다. 75년생 서울을 가야 과거를 보지. 87년생 순탄하고 평탄한 하루. 99년생 배려심이 도리어 오해를 부를 수도.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 자손 일 왈가왈부 마라. 40년생 이른 아침 노여움은 삼가도록. 52년생 풀릴 듯 풀릴 듯 안 풀리네. 64년생 검은색과 숫자 1,6은 행운 부른다. 76년생 차분하게 생각하라. 88년생 충분한 휴식과 심신 안정 중요. 00년생 최선 다해도 결과는 기대 이하.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 사익에 휘둘리지 않도록. 41년생 약이라고 먹은 것이 독 될 수도. 53년생 고집부리면 큰코다친다. 65년생 누구나 울고 싶을 때가 있지 않나. 77년생 지인의 배신을 경계하라. 89년생 운기가 점차 왕성해지는 시기. 01년생 사람을 좋아하되 맹신 마라.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 계획에 없던 일로 심신 피곤. 42년생 급히 먹는 밥이 목에 메는 법. 54년생 노상에서 횡액 조심. 66년생 울고 싶어도 웃어야 하는 때 있다. 78년생 가는 임은 밉상, 오는 임은 곱상. 90년생 세상에 인내로 못 갈 길 없다. 02년생 목표치 낮추면 달성 무난.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 일가친척이 귀인. 43년생 집안에서도 안전사고 주의. 55년생 벙어리 냉가슴 앓듯 속 답답. 67년생 새벽길 걷는 사람이 첫 이슬 턴다 했다. 79년생 개구리도 움츠려야 뛰는 법. 91년생 평범한 일상에 감사해야. 03년생 지나친 기대는 실망만 초래.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 가꿀 나무라면 밑동을 높이 잘라라. 44년생 이익이 없더라도 명분까지 잃어서야. 56년생 건강은 건강할 때 지키는 것. 68년생 토끼띠, 범띠와의 관계 주의. 80년생 정 끊는 칼 있나. 92년생 적당할 때 물러나라. 04년생 적절한 경쟁심은 발전의 요소.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 반드시 해야 할 일부터. 45년생 현실 순응이 건강, 행복에 좋다. 57년생 금전 거래와 문서 보증 절대 주의. 69년생 인심 얻고 싶다면 상대의 관심사에 관심을 보이도록. 81년생 주도권은 내게 있으니 조급해 마라. 93년생 문제 해결의 본질은 자신에게서.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 속마음 적당히 포장하는 것도 방법. 46년생 좋다거나 싫다거나 의사 표현 분명히. 58년생 뿌리 깊은 나무는 태풍 두려워 않는다. 70년생 적군인지 아군인지 알 수가 있나. 82년생 개척 정신으로 새 분야 진출 모색. 94년생 사람들과 언쟁은 운기 꺾는다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 기력 보충에는 잠이 보약. 47년생 구슬이 서 말이라도 꿰어야 보배. 59년생 보이지 않는 위험 있으니 신중에 신중을. 71년생 오늘 할 일을 내일로 미루지 마라. 83년생 이성 간 여러 문제 점차 해결될 듯. 95년생 동료, 지인으로부터 제의받을 수도.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>‘뇌물수수’ 신경호 강원도교육감, 1심 당선무효형 </title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/2UIW2GAJJFHKVBNISZJWLNCH7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/2UIW2GAJJFHKVBNISZJWLNCH7E/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>불법 선거운동과 뇌물수수 혐의로 재판에 넘겨진 신경호 강원도교육감이 1심에서 당선무효형에 해당하는 집행유예를 선고받았다.
-춘천지법 형사2부(재판장 김성래)는 23일 교육자치법 위반과 사전뇌물수수 혐의로 기소된 신 교육감의 선고공판에서 교육자치법 위반 혐의는 면소로 판단했으나, 사전뇌물수수 혐의 일부를 유죄로 인정해 징역 10개월에 집행유예 2년을 선고했다.
-</description>
-      <pubDate>Tue, 23 Sep 2025 07:40:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNSXG43YJZOFNJRITMHZ7BSGVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법선거운동과 뇌물수수 혐의로 기소된 신경호 강원도교육감이 23일 춘천지법에서 열린 선고공판에 참석한 뒤 심경을 밝히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 선거운동과 뇌물수수 혐의로 재판에 넘겨진 신경호 강원도교육감이 1심에서 당선무효형에 해당하는 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 23일 교육자치법 위반과 사전뇌물수수 혐의로 기소된 신 교육감의 선고공판에서 교육자치법 위반 혐의는 면소로 판단했으나, 사전뇌물수수 혐의 일부를 유죄로 인정해 징역 10개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;공직선거법상 선출직 공무원은 금고 이상 형이 확정되면 직을 잃게 돼 이번 판결이 확정되면 신 교육감은 교육감직을 상실하게 된다.&lt;br&gt;&lt;br&gt;신 교육감은 지난 2022년 6·1 지방선거를 앞두고 불법 사조직을 꾸려 선거운동을 하고 교육감 당선 뒤 교육청 소속 공직 임용이나 관급사업 참여를 약속하며 금품을 받은 혐의로 지난 2023년 6월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 검찰이 핵심 증거로 제시한 A 전 강원도교육청 대변인의 ‘휴대전화 녹음파일’이 위법 수집 증거라는 신 교육감 측 주장을 받아들여 뇌물수수 5건 중 4건에 대해 무죄를 선고했다. 다만 A씨가 공직 임용 대가로 현금 500만원과 리조트 숙박권을 건넨 사실은 자백과 증거로 인정돼 유죄로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 고도의 청렴성이 요구되는 교육감을 선출하기 위한 선거에 출마했음에도 A씨에게 이익제공을 약속했고, A씨로부터 정치자금과 뇌물을 수수해 죄책이 매우 중하다”고 밝혔다.&lt;br&gt;&lt;br&gt;선고 직후 신 교육감은 “강원 교육의 체질 개선을 위해 기회를 준 도민에게 죄송하다는 말씀을 드린다”면서 “오늘 판결에서 유죄 부분에 대해선 항소할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중대재해법 최고 형량... 23명 숨진 ‘아리셀 화재’ 대표 1심 징역 15년</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/WVX5ISARBZD3LBER4WKTZWBH6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/WVX5ISARBZD3LBER4WKTZWBH6Q/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 06:51:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SJO4573CQJACBHZLCSOQPINBNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 6월 25일 오후 화성시 서신면 리튬전지 공장인 아리셀에서 박순관 에스코넥 대표가 23명의 사망자를 낸 사고가 발생한 것에 대해 공식 사과문을 발표하고 취재진의 질의를 받고 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23명의 사망자가 나온 경기 화성 배터리 업체 ‘아리셀’ 화재 사고와 관련해 중대재해처벌법 위반 혐의를 받는 박순관 대표가 23일 1심서 징역 15년을 선고받았다. 2022년 중처법 시행 이후 내려진 최고 형량이다.&lt;br&gt;&lt;br&gt;앞서 검찰은 중처법상 역대 최대 구형량인 징역 20년을 선고해달라고 재판부에 요청했었다.&lt;br&gt;&lt;br&gt;수원지법 형사14부(재판장 고권홍)는 이날 오후 박 대표와 그의 아들인 박중언 아리셀 총괄본부장, 아리셀 직원 등 관계자 및 인력 파견업체인 메이셀, 한신다이아 등의 중대재해처벌법 위반, 산업안전보건법 위반 등의 혐의에 대한 선고 공판을 열고 이같이 선고했다. 또 박 본부장에 대해서도 징역 15년을 선고하고 나머지 피고인들에겐 징역 2년~금고 1년, 벌금 1000만원 등을 각각 선고했다.&lt;br&gt;&lt;br&gt;박 대표 등은 작년 6월 24일 23명이 숨지고, 9명이 다친 아리셀 공장 화재 사고와 관련해 유해·위험 요인 점검을 이행하지 않고, 중대재해 발생 대비 매뉴얼을 구비하지 않는 등 안전보건 확보 의무를 위반한 혐의를 받는다. 그의 아들인 박 본부장은 비상구를 설치하지 않고, 화재 발생에 대비한 안전교육과 소방훈련 등을 실시하지 않는 등 안전관리 의무를 이행하지 않은 혐의 등을 받고 있다. 박 대표와 박 본부장은 무허가 파견업체인 메이셀, 한신다이아 소속 근로자 230명을 아리셀의 직접생산공정에 파견한 혐의도 있다.&lt;br&gt;&lt;br&gt;아리셀은 매년 적자가 발생하자, 무리한 생산을 감행해오면서 안전·보건 예산을 줄이고, 담당 인력도 감축한 것으로 조사됐다. 또 비용 절감을 위해 파견업체로부터 비숙련 외국인 노동자를 불법 파견받아 안전 교육 없이 고위험 공정인 전지 생산에 투입한 것으로 조사됐다. 아리셀은 생산량을 늘리기 위해 전지 발열 검사를 생략하고, 여러 전지를 한곳에 적재하는 등 안전 관리 체계를 지키지 않은 것으로 파악됐다. 검찰은 이 과정에서 전지가 연쇄 폭발하며 화재가 커졌고, 대규모 인명 피해를 불러왔다고 봤다.&lt;br&gt;&lt;br&gt;아리셀은 생산 편의를 위해 방화구획 벽체를 임의로 부수고, 대피 경로에는 가벽을 설치하는 등 허가 없이 구조를 변경하기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일부터 이틀간 전국에 거센 가을비... 수도권 최대 80㎜↑</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/23/L4T4HSL62JBRPKOLNZSXGMRLXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/23/L4T4HSL62JBRPKOLNZSXGMRLXM/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 05:48:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYB4LYJNBN5CW6DAVRVT3BLQ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울 종로구 광화문네거리에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24~25일 전국에 많은 가을비가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 24일 중국 산둥반도 부근에서 동해상으로 이동하는 저기압의 영향으로 전국에 비가 내리겠다. 저기압 바로 아래 놓인 중부지방엔 이날 오전부터 밤까지 시간당 20~30㎜의 강한 비가 쏟아지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;이후 저기압은 25일 새벽 우리나라를 통과할 것으로 보인다. 이후 북서쪽에서 한랭건조한 공기가 내려오면서 남동쪽에서 불어오는 고온다습한 공기와 강하게 충돌, 정체전선이 형성되며 다시 비가 내리겠다.&lt;br&gt;&lt;br&gt;24~25일 이틀간 예상 강수량은 수도권·강원도 20~80㎜, 충청권 20~60㎜, 호남권 30~80㎜, 부산·울산·경남 20~60㎜, 대구·경북 10~40㎜, 제주도 10~60㎜로 예보됐다.&lt;br&gt;&lt;br&gt;지역별 강수 집중 시간은 수도권과 강원도가 24일 오전부터 밤, 충청권은 24일 오후부터 밤, 전라권은 25일 새벽부터 오전 사이로 예상됐다. 이때 시간당 최대 30㎜ 안팎의 비가 쏟아지겠다. ‘매우 많은 비’의 기준이 시간당 30㎜이며, 운전할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;24일은 남동쪽에서 올라온 고온다습한 공기의 영향으로 비가 내리는 데도 기온은 오히려 소폭 올라가겠다. 24일 아침 최저기온은 17~23도, 낮 최고기온은 22~31도로 예보됐다. 찬 바람이 내려오는 25일에는 최저 17~24도, 최고 26~29도로 기온이 다시 떨어지겠다.&lt;br&gt;&lt;br&gt;26일에는 전국이 대체로 흐린 가운데 수도권과 강원도는 구름이 많겠고, 전라·경상권과 제주도에는 가끔 비가 내리는 곳이 있겠다. 토요일인 27일엔 충남과 전라권에 비가 내리겠고, 일요일인 28일엔 오전에 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 을숙도대교·산성터널 출퇴근 통행료 무료화 된다</title>
