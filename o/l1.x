@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 김건희 재판 출석…법정 영상 공개</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211774.jpg" alt="456444.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=공동취재단》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;br /&gt;</description>
+			<pubDate>Wed, 24 Sep 2025 05:27:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211774</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211774</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211774.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>"분과위, 전법대 전체 대표 안 해"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211772.jpg" alt="546448.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;5월 26일 열린 전국법관대표회의 임시회의 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;전국법관대표회의(이하 전법대) 재판제도 분과위원회가 25일 대법관 증원안에 대한 토론회를 개최한다. 법원 내부에서는 토론회의 성격과 근거 자료를 두고 여러 말이 나오고 있다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;우선 전법대 재판제도 분과위는 법관 대표뿐 아니라 일반 법관까지 참석 대상을 확대한 토론회를 열어, 대법관 증원 등에 대한 자유로운 의견을 교환하겠다고 밝혔다. 이에 대해 법원 내부에서는 분과위 토론회는 향후 전체회의의 공식 안건 논의 및 의결과는 구분된다는 지적이 나온다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;한 부장판사는 “분과위는 정기회의에 앞서 연구하는 역할을 수행하기 때문에 분과위가 진행하는 토론 결과를 전체 전법대의 토론 결과로 볼 수는 없다”며 “전체 법관 대표가 의결하지 않으면 전법대의 의견으로 볼 수 없다”고 말했다. 과거 법관 대표를 지낸 한 판사는 “분과위 토론회일 뿐인데, 전법대 전체가 논의하고 의결하는 것처럼 보이는 것 같다”며 “토론 후 전체 회의를 한다는 것인지 향후 계획에 대해서도 들은 바가 없는 것 같다”고 말했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;전법대 관계자는 토론회 결과를 전체 회의 안건으로 발의할지에 대해 “아직 미정이며, 진행 경과와 상황에 따라 달라질 것 같다”고 법률신문에 말했다. 그는 “토론회 후 토론 결과와 최종 보고서를 작성해 공유하고, 향후에도 필요한 연구와 논의를 이어갈 예정”이라고 했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;토론회에 앞서 분과위가 배포한 보도자료에 대해서도 다소 뒷말이 나오고 있다. 분과위가 공개한 보도자료에는 ‘과거 설문조사에서 법관 과반이 대법관 증원에 찬성했다’는 내용이 포함돼 있고, 다른 설문 내용은 빠져 있다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;법원 내부망에 게시된 전체 보고서에 따르면, 해당 설문(2018년 10월, 898명 응답)에서 상고심 개편 방안으로 대법관 증원안(54% 동의) 외 상고허가제가 74.4%, 상고법원 설치안이 20.7%의 동의를 얻었다.&lt;/p&gt;   &lt;/p&gt;</description>
 			<pubDate>Wed, 24 Sep 2025 03:21:14 -0000</pubDate>
@@ -230,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211760</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211760.jpg</media:thumbnail>
 			<dc:creator>임현경 기자</dc:creator>
-		</item>
-		<item>
-			<title>후견협회, 후견인 사례연구모임···"의사능력 없어져도 재산 보호"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211757.jpg" alt="234252.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;하나은행 CLUB1 PB센터 4층에서 열린 ‘제12회 후견인 사례연구모임’ 발표.《사진=한국후견협회》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;#1. A 씨는 위암말기 판정을 받았다. 암 진단으로 보험금 5억을 받았지만 상속받을 두 자녀는 15살, 10살이었다. A 씨는 자신이 세상을 떠난 후 미성년 자녀에게 상속된 재산이 잘 관리될 수 있을지 걱정이다. &lt;br /&gt;&lt;br /&gt;#2. 80대 후반으로 중증인지장애가 있는 B 씨는 상가를 한 채 가지고 있다. 임차인이 보증금 2억 원 반환을 요청했지만 B 씨의 남편이 대신 일처리를 해주지 못했다. B 씨의 남편 역시 고령으로 법상 후견인으로 지정되지 않았기 때문이다. &lt;br /&gt;&lt;br /&gt;한국후견협회는 9월 22일 ‘제12회 후견인 사례연구모임’ 발표를 열었다. 이날 발표에서는 앞서 나온 사례에 대비할 수 있는 신탁제도들이 소개됐다.&lt;br /&gt;&lt;br /&gt;발표를 맡은 최윤정 하나은행 리빙트러스트컨설팅부 팀장은 “위탁자가 의사능력이 있을 때는 직접 신탁계약을 체결하는 유언대용신탁제도를, 그렇지 않을 경우 후견신탁제도를 활용할 수 있다”고 설명했다. 위탁자가 금융기관과 신탁계약을 맺으면 재산 관리인, 재산 지급 시기와 방법을 정할 수 있다.&lt;br /&gt;&lt;br /&gt;앞선 사례에서 A 씨는 의사능력 있어 직접 유언대용신탁을 체결했다. 은행은 사후 수익자인 미성년 자녀들에게 매월 교육비와 생활비를 지급했다. 생전에는 위탁자가 수익권을 갖고, 사망하면 지정된 수익자가 수익권을 취득한다(신탁법 제59조 1항).&lt;br /&gt;&lt;br /&gt;최윤정 팀장은 “유언대용신탁이 유언의 성격을 가지기는 하지만 계약이기 때문에 임의로 해지할 수 없다”고 말했다. 유언은 언제든 철회할 수 있지만 계약은 상대방 의사를 무시하고 일방적으로 파기하기 어렵기 때문이다.&lt;br /&gt;&lt;br /&gt;의사능력이 없는 B 씨는 후견제도와 신탁제도가 결합된 후견신탁을 활용할 수 있다. 법원에 의해 선임된 후견인이 피후견인을 대리하여 신탁계약을 체결하고 이를 통해 피후견인의 재산을 보호하는 제도다. 미성년 범죄피해자를 대리한 한 사회복지사는 후견신탁 계약을 맺었다. 은행은 매월 생활비를 지급하고, 30살이 되면 피후견인에게 수익권을 이전하는 내용이다. &lt;br /&gt;&lt;br /&gt;후견신탁은 법원과 금융기관이 이중으로 피후견인의 재산을 보호하고 관리하는 데 의의가 있다. 김태진(변호사시험 2회) 하나은행 상속증여센터 전문위원은 “범죄피해보상금처럼 보호 필요성이 큰 재산인 경우 일반 후견제도보다 실효성이 크다”고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="460"&gt;박은수&lt;/span&gt;(사법연수원 12기) 한국후견협회 회장은 “현재 치매머니 규모가 약 154조 정도”라며 “이번 행사가 유언대용신탁 및 후견신탁 제도를 알리고 많은 국민이 이용하게 되길 바란다”고 말했다.&lt;br /&gt;</description>
-			<pubDate>Tue, 23 Sep 2025 11:50:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211757</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211757</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211757.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
