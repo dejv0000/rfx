@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조희대 겨냥한 與 공수처법 개정안에…대법 “설립 취지 반한다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/24/MWTUNGBTRFCI7BECW6AL6A73U4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/MWTUNGBTRFCI7BECW6AL6A73U4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 13:59:22 +0000</pubDate>
+      <content:encoded>고위공직자범죄수사처(공수처)의 수사 범위를 대법원장을 포함한 고위 공직자들의 ‘모든 범죄’로 넓히는 개정안에 대해 대법원이 우려를 표했다. 여권이 조희대 대법원장을 겨냥해 법 개정을 추진한다는 논란이 커지는 가운데 나온 반응이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PTDRDXLYJJQZGELPC46UJIFGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 25일 서울 여의도 국회에서 열린 법제사법위원회 법안심사제1소위원회에 이진수 법무부 차관과 배형원 법원행정처 차장이 출석해 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 법조계에 따르면, 배형원 법원행정처 차장은 전날 국회 법제사법위원회 법안심사1소위원회에서 민주당 김용민 의원이 발의한 공수처법 개정안에 대해 “신중한 검토가 필요하다”고 밝혔다. 배 차장은 “고위 공직자의 직무와 무관한 범죄까지 수사 대상을 확대하면 공수처 설립 취지에 부합하지 않을 수 있다”는 취지로 말한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김 의원이 지난 22일 대표 발의한 공수처법 개정안은 대법원장·대법관·검찰총장·판사·검사 등 고위 공직자에 대한 ‘모든 범죄’를 공수처가 수사할 수 있도록 하는 내용을 담고 있다. 현행법은 뇌물 수수, 직권남용 등 직무 관련 8개 범죄로만 수사를 제한하는데, 이를 대폭 넓히겠다는 것이다. 민주당은 이 개정안을 발의 하루 만에 상정해 처리 여부를 논의했다. &lt;br&gt;&lt;br&gt;정치권과 법조계에서는 이 개정안이 조 대법원장을 직접 겨냥한 것이 아니냐는 해석이 나왔다. 민주당은 최근 조 대법원장에 대해 ‘대선 개입 의혹 긴급 청문회’를 추진하는 등 공격 수위를 높이고 있다. &lt;br&gt;&lt;br&gt;배 차장은 같은 날 민주당이 추진 중인 ‘내란전담재판부 설치법’에 대해서도 위헌적 요소가 있다고 지적한 것으로 알려졌다. 법원행정처는 해당 법안에 대한 심사 자료에서 “사무 분담이나 사건 배당에 관한 법원의 전속적 권한은 사법권 독립의 한 내용인데, 외부에서 판사를 임명하거나 재판부 구성에 관여하는 것은 그 자체로 사법권 독립권을 침해한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부, EU처럼 ‘2035년부터 내연차 판매 제한’ 검토</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/24/LUTBVSJESZEORLNST3SOFTBKTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/24/LUTBVSJESZEORLNST3SOFTBKTQ/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 13:15:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALJ3UHZTGJPNTJWW7P52CIBBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관이 24일 경기 광명시 기아 오토랜드 광명에서 열린 '2035 국가 온실가스 감축목표(NDC) 대국민 공개논의 수송분야 토론회'에 참석해 발언하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수송 부문의 탄소 감축을 위해 유럽연합(EU)처럼 2035년 이후 내연차 판매를 제한하는 방안을 검토하기로 했다. 오는 11월 발표되는 2035년 NDC(국가 온실가스 감축 목표)에 따라 실제 제한 여부가 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;정부는 24일 경기 광명시 기아 오토랜드 사업장에서 관계 부처 합동으로 2035 NDC 수립을 위한 수송 부문 토론회를 열었다. NDC 관련 세번째 대국민 토론회다.&lt;br&gt;&lt;br&gt;이날 정부는 2035 NDC 후보인 ‘48%’, ‘53%’, ‘61%’, ‘65%’ 4개에 따른 수송 부문의 온실가스 배출 감축량을 제시했다. 48% 감축의 경우 온실가스 배출량이 정점에 달했던 2018년 대비 2035년에 48%를 줄이겠다는 뜻이다.&lt;br&gt;&lt;br&gt;‘48%’ 감축안으로 설정할 경우 수송 부문 배출량은 2018년 대비 55.2%(5450만t) 줄어든 2035년 4430만t, ‘53%’는 56.9%(5620만t) 감소한 4260만t으로 산출됐다.&lt;br&gt;&lt;br&gt;문제는 60% 이상으로 목표가 설정될 경우다. ‘61%’ 감축안의 경우 2018년보다 58.9%(5820만t) 감축해 2035년 4060만t이 되고, ‘65%’ 때는 2018년 대비 67.0%(6620만t) 줄어든 3260만t이 된다. 이에 60% 이상으로 NDC가 결정될 경우 내연차를 강제로 줄이는 등의 제한 조처가 필요하다는 것이 정부 입장이다.&lt;br&gt;&lt;br&gt;48%와 53% 감축안에서는 무공해차 보급을 전체 차량의 각각 30%, 34%로 늘리면 된다. 그러나 61%와 65% 감축안에서는 35% 이상 확대해야 해 EU와 같이 2035년 내연차 판매 제한을 검토해야 한다고 정부 관계자는 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEGZSJKQC4DD257JZM5A6G6M7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 쇼핑몰 내 전기자동차 충전 구역 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 이런 강력한 감축안을 검토하는 이유로 국가 온실가스 배출량에서 수송 부문 감축이 가장 더딘 점을 꼽았다. 수송 부문 온실가스 배출량은 2018년 9880만t에서 지난해 9750만t으로 6년 동안 1.3%(130만t) 줄었다. 이는 전기·수소차 보급이 목표치를 크게 밑돌았고, 차량 부착용 CCUS 등 내연차가 뿜어내는 탄소를 잡아낼 기술이 아직 개발되지 않았기 때문이다. 전기차 배터리 화재 등으로 구매 심리가 위축된 영향도 있다.&lt;br&gt;&lt;br&gt;내연차 제한은 제주도가 ‘탈(脫)탄소 섬’을 표방해 2030년까지 무공해차 100%를 달성하겠다고 선언하는 등 지자체 단위에서 목표로 설정한 적은 있다. 그러나 정부 차원에서 내연차 판매를 제한하겠다고 한 것은 처음이다.&lt;br&gt;&lt;br&gt;당초 2035 NDC는 최대 53% 안에서 결정될 것이란 시각이 지배적이었으나, 이재명 정부 들어 NDC가 크게 상향되는 쪽으로 분위기가 흘러가고 있다. 문 정부 때 수립한 ‘2030 NDC’(2018년 대비 40% 감축)도 “무리한 목표 설정”이라는 비판이 나왔고, 실제 실패가 기정사실화됐다. 앞으로 5년 간 총 2억5500만여t, 연평균 전년 대비 3.6%씩 큰 폭으로 탄소를 줄여야 하는데 2024년 감축량이 전년 대비 2% 수준에 그치는 등 더딘 탓이다.&lt;br&gt;&lt;br&gt;김성환 장관은 “환경부가 조만간 기후에너지환경부로 탈바꿈할 텐데 수송 분야의 탈탄소화 전략을 적극 뒷받침하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초등생 성폭행한 20대 태권도 사범...법원, 구속영장 발부</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/24/TCWGQT4YMVHKROUIG7KJLDPNOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/TCWGQT4YMVHKROUIG7KJLDPNOU/</guid>
+      <dc:creator>인천=이현준 기자, 김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 10:21:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66JXKNPDWZR3RZY272S4TIYTP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생을 성폭행한 태권도 학원 사범이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 아동·청소년의 성보호에 관한 법률상 위력에 의한 간음 혐의로 20대 남성 A씨를 구속했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;인천지법 유아람 영장전담 부장판사는 이날 오후 A씨에 대한 구속 전 피의자 심문을 진행하고, “도망의 염려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;태권도 학원 사범인 A씨는 지난 21일 오후 인천의 한 태권도 학원과 차량에서 초등학생인 B양을 강제 추행하고 성폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 22일 오전 B양의 부모는 “딸이 태권도 사범에게 성폭행 당했다”고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 A씨를 상대로 추가 범행 여부 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백승학 서울대 치의학대학원 교수, 세계교정과의사연맹 ‘뛰어난 교육자상’ 수상</title>
+      <link>https://www.chosun.com/national/people/2025/09/24/KPEK7NJQMVAULHSSHKKZ3OIY2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/24/KPEK7NJQMVAULHSSHKKZ3OIY2U/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Sep 2025 12:39:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBJM4VS5YFGMDC3NUI5H3JMFMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;백승학 서울대 치의학대학원 교수. / 서울대학교 치의학대학원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대는 백승학 서울대 치의학대학원 교수가 세계교정과의사연맹(WFO)이 수여하는 ‘뛰어난 교육자상(Outstanding Educator Awards)’을 받았다고 최근 밝혔다. &lt;br&gt;&lt;br&gt;1995년 창립된 치과교정학 분야 세계 최대 학술 단체인 WFO는 올해 처음 이 상을 신설했다. 수상자 중 아시아인은 백 교수가 유일하다. &lt;br&gt;&lt;br&gt;시상식은 오는 10월 22일 브라질 리우데자네이루에서 열리는 제10회 WFO 국제교정학술대회 기간 중 열릴 예정이다. &lt;br&gt;&lt;br&gt;백 교수는 “이번 수상은 개인의 성과를 넘어, 한국 치과교정학 교육 및 연구의 국제적 위상을 보여주는 결과라고 생각한다”며 “앞으로도 후학 양성과 학문 발전에 최선을 다하겠다”고 수상 소감을 밝혔다.&lt;br&gt;&lt;br&gt;백 교수는 대한치과교정학회 회장, 서울대 치과병원 교정과 과장, 진료처장 등을 지냈다. 지난해 7월 SCI 저널에서 발표된 연구에 따르면 백 교수는 2000~2023년 III급 부정교합 관련 연구동향에서 논문 등재 편수와 인용 편수에서 세계 1위를 차지했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>달라진 2040…男 73%‧女 54% “결혼 의향 있다”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/24/OSH2SH33GJFOHH6FWELFOB3XFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/OSH2SH33GJFOHH6FWELFOB3XFQ/</guid>
@@ -899,15 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNSXG43YJZOFNJRITMHZ7BSGVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법선거운동과 뇌물수수 혐의로 기소된 신경호 강원도교육감이 23일 춘천지법에서 열린 선고공판에 참석한 뒤 심경을 밝히고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 선거운동과 뇌물수수 혐의로 재판에 넘겨진 신경호 강원도교육감이 1심에서 당선무효형에 해당하는 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 23일 교육자치법 위반과 사전뇌물수수 혐의로 기소된 신 교육감의 선고공판에서 교육자치법 위반 혐의는 면소로 판단했으나, 사전뇌물수수 혐의 일부를 유죄로 인정해 징역 10개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;공직선거법상 선출직 공무원은 금고 이상 형이 확정되면 직을 잃게 돼 이번 판결이 확정되면 신 교육감은 교육감직을 상실하게 된다.&lt;br&gt;&lt;br&gt;신 교육감은 지난 2022년 6·1 지방선거를 앞두고 불법 사조직을 꾸려 선거운동을 하고 교육감 당선 뒤 교육청 소속 공직 임용이나 관급사업 참여를 약속하며 금품을 받은 혐의로 지난 2023년 6월 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;재판부는 검찰이 핵심 증거로 제시한 A 전 강원도교육청 대변인의 ‘휴대전화 녹음파일’이 위법 수집 증거라는 신 교육감 측 주장을 받아들여 뇌물수수 5건 중 4건에 대해 무죄를 선고했다. 다만 A씨가 공직 임용 대가로 현금 500만원과 리조트 숙박권을 건넨 사실은 자백과 증거로 인정돼 유죄로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 고도의 청렴성이 요구되는 교육감을 선출하기 위한 선거에 출마했음에도 A씨에게 이익제공을 약속했고, A씨로부터 정치자금과 뇌물을 수수해 죄책이 매우 중하다”고 밝혔다.&lt;br&gt;&lt;br&gt;선고 직후 신 교육감은 “강원 교육의 체질 개선을 위해 기회를 준 도민에게 죄송하다는 말씀을 드린다”면서 “오늘 판결에서 유죄 부분에 대해선 항소할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>가을밤 포크 선율 대구서 울린다… 김광석길서 ‘대구포크페스티벌’</title>
-      <link>https://www.chosun.com/national/regional/2025/09/23/ZS4F2GE5N5B5RAQ4XSIXFSOVYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/23/ZS4F2GE5N5B5RAQ4XSIXFSOVYI/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 07:54:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGOV42JNVJH7RK75ICTFJZJGTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025대구포크페스티벌 포스터./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 대구포크페스티벌’이 오는 26일부터 28일까지 대구 김광석길 야외콘서트홀 등에서 열린다. &lt;br&gt;&lt;br&gt;대구시와 ㈔대구포크페스티벌이 마련한 이번 행사는 3일간 다양한 포크 가수들의 공연들로 꾸며진다. 첫날인 26일 오후 5시에는 포크 듀오 유리상자와 싱어송라이터 양하영, 27일에는 자전거 탄 풍경, 여행스케치가, 마지막 날인 28일에는 이치현, 이규석이 관객들을 만난다.&lt;br&gt;&lt;br&gt;개막 하루 전인 25일에는 전국의 신인 포크 아티스트 등 83팀 중 예선을 통과한 20팀이 실력을 겨루는 ‘포크스타 콘테스트’도 펼쳐진다. 우수 팀에게는 축제 기간 무대 출연 기회와 함께 상금 등이 수여된다. &lt;br&gt;&lt;br&gt;대구시 관계자는 “깊어가는 가을 정취 속 김광석길에서 퍼져나가는 포크 선율이 시민들의 일상에 따뜻한 울림이 되길 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>중대재해법 최고 형량... 23명 숨진 ‘아리셀 화재’ 대표 1심 징역 15년</title>
       <link>https://www.chosun.com/national/court_law/2025/09/23/WVX5ISARBZD3LBER4WKTZWBH6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/WVX5ISARBZD3LBER4WKTZWBH6Q/</guid>
@@ -926,24 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYB4LYJNBN5CW6DAVRVT3BLQ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 서울 종로구 광화문네거리에서 우산을 쓴 시민들이 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24~25일 전국에 많은 가을비가 예고됐다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 24일 중국 산둥반도 부근에서 동해상으로 이동하는 저기압의 영향으로 전국에 비가 내리겠다. 저기압 바로 아래 놓인 중부지방엔 이날 오전부터 밤까지 시간당 20~30㎜의 강한 비가 쏟아지는 곳이 있겠다.&lt;br&gt;&lt;br&gt;이후 저기압은 25일 새벽 우리나라를 통과할 것으로 보인다. 이후 북서쪽에서 한랭건조한 공기가 내려오면서 남동쪽에서 불어오는 고온다습한 공기와 강하게 충돌, 정체전선이 형성되며 다시 비가 내리겠다.&lt;br&gt;&lt;br&gt;24~25일 이틀간 예상 강수량은 수도권·강원도 20~80㎜, 충청권 20~60㎜, 호남권 30~80㎜, 부산·울산·경남 20~60㎜, 대구·경북 10~40㎜, 제주도 10~60㎜로 예보됐다.&lt;br&gt;&lt;br&gt;지역별 강수 집중 시간은 수도권과 강원도가 24일 오전부터 밤, 충청권은 24일 오후부터 밤, 전라권은 25일 새벽부터 오전 사이로 예상됐다. 이때 시간당 최대 30㎜ 안팎의 비가 쏟아지겠다. ‘매우 많은 비’의 기준이 시간당 30㎜이며, 운전할 때 와이퍼를 최대로 켜도 앞이 잘 보이지 않는 정도다.&lt;br&gt;&lt;br&gt;24일은 남동쪽에서 올라온 고온다습한 공기의 영향으로 비가 내리는 데도 기온은 오히려 소폭 올라가겠다. 24일 아침 최저기온은 17~23도, 낮 최고기온은 22~31도로 예보됐다. 찬 바람이 내려오는 25일에는 최저 17~24도, 최고 26~29도로 기온이 다시 떨어지겠다.&lt;br&gt;&lt;br&gt;26일에는 전국이 대체로 흐린 가운데 수도권과 강원도는 구름이 많겠고, 전라·경상권과 제주도에는 가끔 비가 내리는 곳이 있겠다. 토요일인 27일엔 충남과 전라권에 비가 내리겠고, 일요일인 28일엔 오전에 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘건진법사’ 전성배 내달 14일부터 격주 재판…‘신속 심리’</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/23/QOR4ZFK24ZGITNKH7QPEBXZT5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/23/QOR4ZFK24ZGITNKH7QPEBXZT5U/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 07:05:45 +0000</pubDate>
-      <content:encoded>통일교로부터 각종 청탁과 금품을 받았다는 혐의를 받는 건진법사 전성배씨의 정식 재판이 내달 14일부터 격주로 열린다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WPMPDTVHKBXWEBJO2VKCB2IEXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건진법사 전성배 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 23일 특정경제범죄가중처벌법상 알선수재·정치자금법 위반 혐의로 구속기소된 전씨의 첫 공판 준비기일을 열었다. 준비기일에는 피고인이 출석할 의무가 없어 전씨는 법정에 나오지 않았다. &lt;br&gt;&lt;br&gt;재판부는 이날로 준비 절차를 마무리하고 다음 달 14일 첫 정식 재판을 열기로 했다. 이후 격주 화요일마다 재판을 진행하기로 했고 10월 28일, 11월 11일, 12월 9일, 12월 23일까지 5차례 기일을 미리 지정했다. 재판부는 “특검법에 여러 신속 재판 조항과 기한 제한 조항이 있다”면서 “첫 공판부터 바로 증인신문을 진행하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;또한 재판부는 신속한 심리를 위해 관련 사건을 병합하지 않겠다는 방침도 밝혔다. 재판부는 “서울남부지법에서 진행 중인 전씨 사건과 병합하지 않을 예정”이라며 “병합하면 재판이 지연될 수 있어서 이 사건만 집중해 진행하려 한다”고 했다. 전씨는 2018년 지방선거를 앞두고 자유한국당 공천을 받게 해주겠다며 기도비 명목 ‘공천 헌금’을 받은 혐의로 서울남부지법에서 별도 재판을 받고 있다.&lt;br&gt;&lt;br&gt;앞서 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 지난 8일 전씨를 구속 기소했다. 전씨는 2022년 4~7월 윤영호 전 통일교 세계본부장으로부터 통일교 지원 관련 청탁을 받고 그라프 다이아몬드 목걸이, 샤넬 백 등 8000만원 상당의 금품을 수수했다는 혐의를 받는다. 통일그룹 고문 자리를 요구하고 윤 전 본부장에게 3000만원을 챙긴 혐의도 있다.&lt;br&gt;&lt;br&gt;이외에도 전씨는 2022년 7월부터 2025년 1월까지 희림건축에 대한 세무조사와 형사고발 사건을 무마해주겠다며 4500만원 상당의 금품을 수수하고, 2022년 9월부터 2023년 10월까지 콘랩컴퍼니의 사업 추진 관련 청탁을 명목으로 1억6000만원을 수수한 혐의도 받는다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연평도 해상 꽃게잡이 어선서 쇠줄 끊어져… 1명 사망·1명 실종</title>
-      <link>https://www.chosun.com/national/incident/2025/09/23/BDPB3D7HEJBM7CSVWQ46ZVZSAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/23/BDPB3D7HEJBM7CSVWQ46ZVZSAM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 06:38:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJC5IC76PGG2T5ZIZCEPMA75DM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수색 작업 중인 해양경찰관들.(기사 내용과 관련 없음)/인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 연평도 해상에서 조업 중이던 꽃게잡이 어선에서 쇠줄이 끊어지면서, 외국인 선원 1명이 숨지고 1명이 실종됐다. 선원 2명도 다쳤다. &lt;br&gt;&lt;br&gt;23일 인천해양경찰서에 따르면 이날 오전 8시 9분쯤 인천 옹진군 연평도 인근 해상에서 조업 중이던 9.77t급 꽃게 어선에서 쇠줄(와이어로프)이 끊어졌다는 신고가 해양수산부 서해어업관리단에 들어왔다. &lt;br&gt;&lt;br&gt;이 사고로 베트남 국적 30대 남성이 심정지 상태로 발견돼 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;또 인도네시아 국적 20대 남성 A씨가 바다로 추락해 실종됐고, 50~60대 우리나라 선원 2명은 허리 등을 다쳐 연평보건지소에서 치료를 받고 있다. 이 배엔 총 9명이 타고 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정 3척과 헬기 1대 등을 투입해 실종된 A씨를 찾고 있다. 실종자 수색엔 해군 함정 2척과 헬기 1대, 행정선 3척 등도 투입됐다. &lt;br&gt;&lt;br&gt;해경 관계자는 “우선 실종자를 찾는 데 주력하고, 선장 등을 상대로 정확한 사고 경위를 조사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산 을숙도대교·산성터널 출퇴근 통행료 무료화 된다</title>
       <link>https://www.chosun.com/national/regional/2025/09/23/QFDTZPZQ7NANBMLEKFZPOXV3X4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/23/QFDTZPZQ7NANBMLEKFZPOXV3X4/</guid>
@@ -951,19 +960,6 @@
       <description/>
       <pubDate>Tue, 23 Sep 2025 05:40:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOQH3P2Q6BFNXPSWPKTLIDOVBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;을숙도대교 신평IC 전경. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 오는 11월 1일부터 을숙도대교와 산성터널의 출퇴근 시간 통행료를 면제하기로 했다. 부산은 유료 도로가 7곳으로 전국에서 가장 많다.&lt;br&gt;&lt;br&gt;토·일요일, 공휴일을 제외한 평일 오전 6∼9시, 오후 5∼8시까지 이곳을 통행하는 차량은 요금을 내지 않아도 된다.&lt;br&gt;&lt;br&gt;부산시는 도시철도 등 대중교통 접근성이 떨어지는 을숙도대교와 산성터널 출퇴근 시간 요금 무료화부터 먼저 시행한 뒤 2년 이내 나머지 5곳도 차례로 적용하는 방안을 검토하고 있다.&lt;br&gt;&lt;br&gt;출퇴근 시간 통행료 면제 대상은 모든 차량이며 사전 등록 등 별도 절차가 필요 없다.&lt;br&gt;&lt;br&gt;현재 을숙도대교와 산성터널 통행료는 소형차 기준 각각 1000원(출퇴근 시간), 1500원이다.&lt;br&gt;&lt;br&gt;부산시는 두 유료도로의 통행료 면제에 따른 손실 보전금을 연간 120억원으로 추산한다.&lt;br&gt;&lt;br&gt;나머지 부산 유료도로의 소형차 기준 통행료는 수정산터널 1천원, 거가대로 1만원, 부산항대교 1천400원, 천마터널 1천400원, 광안대로 500원(출퇴근 시간)이다.&lt;br&gt;&lt;br&gt;이중 부산시가 운영하는 광안대로를 제외하면 6곳(수정산터널, 을숙도대교, 거가대로, 부산항대교, 산성터널, 천마터널)은 민자로 건설됐다.&lt;br&gt;&lt;br&gt;지난 6월 수정산터널은 민자사업자 관리 운영 기간이 끝나는 2027년 4월 18일 이후부터 통행료를 전면 무료화하기로 했다.&lt;br&gt;&lt;br&gt;이와 함께 부산시는 추석 명절 연휴인 다음 달 4일부터 7일까지 유료도로 7곳 통행료를 면제한다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “이번 정책으로 전국에서 유료도로가 가장 많은 도시라는 오명을 벗겠다”며 “유료도로 통행료 무료화 정책이 서민의 부담을 덜고 지역경제 활성화에 기여하길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전서 둔기 들고 도로 난입, 차량 위협한 60대 송치</title>
-      <link>https://www.chosun.com/national/regional/2025/09/23/GYD3CAVFN5HNRCUII56YTVIFAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/23/GYD3CAVFN5HNRCUII56YTVIFAM/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Sep 2025 01:57:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYE2ODVBERBF7ACE3SIO3RNSUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 오전 5시15분쯤 대전시 동구 용전동의 한 도로에서 망치를 들고 지나는 차량을 위협한 혐의를 받는 60대의 모습. /대전경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전동부경찰서는 새벽에 도로 한복판에서 망치를 들고 지나던차량을 위협한 혐의(공공장소 흉기소지)로 60대 A씨를 불구속 송치했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 20일 오전 5시15분쯤 대전 동구 용전동의 왕복 6차선 도로에서 길이 35㎝가량인 망치를 들고 다니며 차량 주행을 방해하고, 운전자들을 위협한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;다수 운전자의 신고를 받고 출동한 경찰은 A씨가 들고 다니던 둔기 등을 빼앗은 뒤 현행범 체포했다.&lt;br&gt;&lt;br&gt;A씨는 당시 둔기를 달라고 설득하는 경찰관에게 “호신용으로 가지고 있는 거라 줄 수 없다, 성질나서 그렇다. 건들지 말라. 누가 날 욕했다”고 말하는 등 횡설수설했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조사 결과 A씨는 당시 홀로 거주 중인 자택에서 인근 도로까지 나와 차량을 위협했으며, 이전에도 이웃 주민에게 위험한 물건을 들이밀며 위협한 전력이 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;지난 4월부터 시행 중인 공공장소 흉기소지죄는 정당한 이유 없이 도로·공원 등 공공장소에서 흉기를 소지하고 이를 드러내 불안감·공포심을 일으키면 3년 이하의 징역 또는 1000만원 이하의 벌금에 처하도록 하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이전엔 흉기를 소지했어도 직접적인 피해자가 없으면 경범죄로 가벼운 처분만 받았지만 이제는 보다 강한 처벌을 받을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4JRWJO5DDZHE3AHMQFQIQMHQQE.jpg?auth=325627cb1ebd2f72517cf39f049ea8ae4c0ba33b5b4a583840948afe642102d7&amp;smart=true&amp;width=397&amp;height=397" type="image/jpeg" height="397" width="397">
-        <media:description type="plain">지난달 20일 오전 5시15분쯤 대전시 동구 용전동의 한 도로에서 망치를 들고 지나는 차량을 위협한 혐의를 받는 60대의 모습. /대전경찰청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
   </channel>
 </rss>
