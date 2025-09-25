@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>군청 예산 받기 위해 공문서 위조한 마을이장과 공무원 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2025/09/25/SFB2TWVETBHLZCEIFSO7BR3ERM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/25/SFB2TWVETBHLZCEIFSO7BR3ERM/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 09:41:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOR6734ZBS2LPCONIOJYD45QAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법 서부지원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군청 예산을 받아내기 위해 허위공문서를 작성해 제출한 공무원과 이장에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 서부지원 형사1부(재판장 도정원)는 허위공문서작성 등의 혐의로 재판에 넘겨진 성주군청 공무원 40대 A씨와 마을 이장 60대 B씨에게 각각 벌금 700만원과 1000만원을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2020년 10월 농업용수 개발 지원 사업 대상지로 선정될 수 있도록 현장 조사 보고서를 허위로 꾸며 군청에 제출한 혐의로 재판에 넘겨졌다. 이들은 사업 대상지 선정 조건인 ‘가뭄으로 모내기가 힘든 곳’ 등의 조건을 충족하기 위해 다른 마을 논에서 찍은 사진을 해당 지역 현장인 것처럼 보고서에 첨부한 것으로 드러났다. 농업용수 현황 조사 업무를 담당했던 A씨는 이장인 B씨로부터 특정 지역이 사업 대상지에 선정되도록 도와달라는 부탁을 받고 범행을 공모한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “범행은 조직 내부 신뢰 관계와 공공의 신용을 저버린 것으로 죄질이 좋지 않지만, 벌금형을 초과하는 범죄 전력이나 형사처벌 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 국제 범죄 소굴 된 캄보디아에 경찰관 1명 추가 파견</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/25/53XWTYNV2ZGRVDGFKBZZJ7JZBE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/53XWTYNV2ZGRVDGFKBZZJ7JZBE/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 09:02:04 +0000</pubDate>
+      <content:encoded>최근 한국인을 겨냥한 납치·감금 등 범죄가 잇따르는 캄보디아에 경찰관이 추가로 파견됐다. 기존에 캄보디아에 파견된 경찰 인력은 주재관(영사) 1명과 협력관 1명이었는데, 협력관이 1명 더 늘어 총 3명이 된 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N52CK5LJU5EC3HWVYP3UVBXYEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 수도 프놈펜 인근의 최대 범죄 단지인 '망고 단지' 전경. /이기우 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 경찰청에 따르면 경찰청 국제협력관실 소속 경찰관 1명이 지난 24일 캄보디아에 파견됐다. 파견된 협력관은 이날부터 주캄보디아 한국 대사관에서 근무를 시작했다. &lt;br&gt;&lt;br&gt;당초 캄보디아에 파견된 국내 경찰관은 주재관 1명이었다. 하지만 지난해부터 캄보디아 현지의 한국인 범죄 피해가 크게 늘어나면서 경찰은 지난해 10월 협력관 1명을 더 파견했고, 이번에 1명을 더 늘린 것이다. 경찰청은 이를 위해 지난 7월부터 인사혁신처·외교부·행정안전부 등 관계 부처와 협의를 해온 것으로 전해졌다. &lt;br&gt;&lt;br&gt;외교부 통계에 따르면 캄보디아에서 한국인을 겨냥한 범죄는 지난해부터 급증하고 있다. 주캄보디아 대사관에 납치·감금 피해를 신고한 우리 국민은 2022~2023년 10~20여명에서 지난해 221명, 올해 상반기에만 212명으로 폭증했다. &lt;br&gt;&lt;br&gt;캄보디아 현지에 파견된 경찰 협력관은 대사관에서 근무하며, 현지에서 범죄 피해를 당한 한국인 지원과 현지 경찰과의 수사 공조 등을 담당하게 된다. 다만 외교부 소속으로 근무하는 경찰 주재관과 달리 경찰 협력관은 시급한 치안 수요를 위해 임시로 파견되는 형태다. 경찰 관계자는 “우선 1년간 임시 파견 형태로 운영한 뒤 관계 부처 협의를 거쳐 정식 정원으로 확대할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 공사장 모델하우스 철거 작업하던 60대, 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/09/25/DQFJIL3WDJAUJMVJ7G7OOUZW6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/25/DQFJIL3WDJAUJMVJ7G7OOUZW6Y/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 09:00:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STWN6UR5IKITGJR35UD5RHEXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 아파트 공사 현장에서 모델하우스 철거 작업을 하던 60대 남성이 추락해 숨졌다. &lt;br&gt;&lt;br&gt;25일 인천 계양경찰서 등에 따르면 이날 오후 2시 56분쯤 인천 계양구 효성동의 한 아파트 신축 공사장 내 모델하우스 철거 현장에서 작업 중이던 60대 A씨가 15m 높이에서 떨어졌다. &lt;br&gt;&lt;br&gt;이 사고로 A씨가 심정지 상태에서 119 구급대에 의해 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨의 정확한 사인 규명을 위해 국립과학수사연구원에 부검을 의뢰할 예정이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “현장 안전 수칙 준수 여부 등을 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘캡틴아메리카 복장 中 대사관 난입’ 尹 지지자 2심도 실형</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/25/4WMK3VIQEJGGXM5M6VXPRBECJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/4WMK3VIQEJGGXM5M6VXPRBECJI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 08:41:50 +0000</pubDate>
+      <content:encoded>미국 영화 ‘캡틴 아메리카’ 복장으로 주한 중국 대사관 난입을 시도하고 경찰서에서 소란을 피운 혐의로 재판에 넘겨진 윤석열 전 대통령 지지자가 2심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XWI7N33QY7ZW2L7ZMTRSKQEQIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 안모씨가 지난 2월14일 캡틴 아메리카 복장을 하고 서울 중구 국가인권위원회 건물 14층 엘리베이터 앞을 막아서고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사9-2부(재판장 류창성)는 25일 건조물 침입 미수·모욕 등 혐의로 구속기소된 안모(42)씨에게 1심과 같이 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행을 저지른 동기 경찰공무원을 방해하면서 직무 집행에 상당한 장애를 초래한 점, 경찰 등에 보인 태도, 공권력에 미친 영향을 감안하면 원심 형의 변경이 어렵다”고 설명했다.&lt;br&gt;&lt;br&gt;안씨는 지난 2월 캡틴 아메리카 옷과 방패를 착용한 채 주한 중국대사관 진입을 시도하며 난동을 부린 혐의로 구속 기소됐다. 그는 경찰 조사 과정에서 웹사이트에서 제작한 가짜 신분증을 내보이며 자신이 미군 대위라고 주장했다.&lt;br&gt;&lt;br&gt;이후 안씨는 남대문경찰서에서 예정보다 빨리 조사해달라고 요구하다 거부당하자, 경찰관에게 욕설을 퍼붓고 “기물 파손하면 긴급 체포될 것 아니냐”며 출입 게이트 유리를 깨트린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심은 “경찰 공무원들의 직무 집행에 상당한 방해를 초래했고 범행 과정에서 경찰 공무원을 극도로 경시하는 태도를 보였다”며 “공권력과 국가 법질서 보호를 위해 엄중한 처벌이 불가피하다”며 안씨에게 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;한편 안씨는 스카이데일리에 ‘비상계엄 당일 경기도 수원시 소재 선거연수원에 있던 중국인 99명이 주일 미군 기지로 압송됐고, 검거된 이들은 미군 측에 인계돼 평택항을 거쳐 일본 오키나와 미군 기지로 이송됐다’는 내용을 전달한 당사자로도 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 SUV 차량 가드레일 뚫고 6m 아래로 추락...2명 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/09/25/RKUAILMHQNCO5BNZLVHUVUTVMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/25/RKUAILMHQNCO5BNZLVHUVUTVMA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 08:28:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWKZFLOSYFB6XAGHJUSYHVATMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추락한 SUV차량. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 도로에서 SUV 차량이 가드레일을 뚫고 6m 아래로 추락해 2명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;25일 오전 3시쯤 부산 기장군 철마면 홍연폭포 입구 인근 도로를 달리던 SUV 차량이 가드레일을 들이받고 6m 아래 하천으로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 운전자인 60대 남성과 동승자인 50대 여성이 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 블랙박스 등 영상 자료를 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>200억대 가짜 명품 밀수 지휘…5년간 해외도피한 中 총책, 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2025/09/25/7SO7RHNBOFHTTBC5KEIXCJJPXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/25/7SO7RHNBOFHTTBC5KEIXCJJPXY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 08:21:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4MORMCANKZHSFAOSCYHPZOYJQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천지방검찰청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국산 가짜 명품 밀수를 지휘하고 5년간 해외로 도피했던 중국인 총책이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지검 국제범죄수사부(부장 이승희)는 특정범죄가중처벌법상 관세와 상표법 위반 혐의로 중국 국적 40대 여성 A씨를 구속 기소했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2018년 9월 국내 조직원들에게 허위 수입신고를 지시하는 등의 방법으로 정품 시가 200억원 상당의 샤넬 가방 등 중국산 가짜 명품을 인천항으로 밀반입한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;공범인 국내 조직원 7명은 2020년 8월부터 2021년 1월까지 차례로 유죄를 선고받았으나, A씨는 중국으로 도피했다. &lt;br&gt;&lt;br&gt;검찰은 관광 등 목적으로 무비자 입국이 가능한 ‘제주도 무사증 제도’를 활용해 최근 국내로 입국한 A씨를 붙잡았다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “해외로 도피한 관세사범에 대해 엄정히 대응할 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조희대, 신임 법관에 “헌법상 재판 독립 따라 재판하라”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/25/RVLU4EK4UNFZHLEVPKWBMELJBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/RVLU4EK4UNFZHLEVPKWBMELJBQ/</guid>
@@ -861,51 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SDSAUSHIZW2ZWKFNH6Q3DPIBOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고등법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주노총 전국금속노조 산하 포스코 지회의 기업별 노조 변경은 적법하다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;대구고법 민사3부(재판장 손병원)는 24일 전국금속노조가 포스코 자주 노조를 상대로 제기한 ‘노조 조직 형태 변경 결의 무효 확인’ 소송에서 원심과 달리 원고 패소 판결을 했다.&lt;br&gt;&lt;br&gt;재판부는 “포스코지회 대의원대회가 한 결의에 대해 원고들이 무효라고 주장하는 사유는 모두 이유 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 포스코지회는 2023년 6월 2일 대의원 대회를 통해 산업별 노조 소속에서 기업별 노조로 조직 형태를 변경하기로 의결했다. 이후 같은 달 9일 고용노동부 포항지청은 이들의 노조 설립 신고를 수리했다. &lt;br&gt;&lt;br&gt;그러자 금속노조 측은 같은 해 12월 무효확인 소송을 제기했고, 1심 재판부는 “포스코지회가 조합원 총회가 아닌 대의원 대회를 통해 의결한 조직 형태 변경 결의는 노동조합 및 노동관계조정법과 포스코지회 규칙에 반하는 절차상 중대한 하자가 존재한다”며 원고의 손을 들어줬다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘KT소액결제’ 중국 조직 개입 정황 …“윗선 지시 받았다” </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/KVFPRUFYDVB3DLUVFXMB6FQUDM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/KVFPRUFYDVB3DLUVFXMB6FQUDM/</guid>
-      <dc:creator>수원=김현수 기자, 수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:44:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/42AQGDY7WBFENNOM3HNMAQE6AA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'KT 소액결제' 사건 피의자인 A(48)씨가 범행에 사용됐던 소형 기지국 장비 설치를 시연하는 모습./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KT 휴대전화 소액결제 피해 사건의 배후에 중국 조직이 개입한 정황이 드러났다.&lt;b&gt; &lt;/b&gt;경찰은 경기 광명 등 수도권에서 214명이 1억3650만원의 피해를 입은 이 사건의 주범 A(48)씨와 공범 B(44)씨 등 총 3명을 조만간 검찰에 넘길 예정이다. &lt;br&gt;&lt;br&gt;경기남부경찰청은 정보통신망법 위반(침해) 및 컴퓨터 등 사용 사기 혐의로 구속된 A씨를 송치할 예정이라고 24일 밝혔다. 경찰은 또 범죄수익 은닉규제법 위반 등 혐의로 구속된 공범 B씨 등 2명을 함께 송치할 계획이다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이번 ‘KT 소액결제’ 사건으로 인한 피해는 지난 8월 5일부터 9월 5일까지 경기 광명·과천·부천과 서울 금천·서초·동작, 인천 부평 등 수도권 전역에서 발생했다. &lt;br&gt;&lt;br&gt;A씨는 중국에 있는 ‘상선’으로부터 지시를 받고 중국에서 만들어진 불법 개조된 소형 기지국 장비(펨토셀)을 자신의 승합차에 싣고 다니며 피해자들의 휴대전화 신호를 가로채 결제를 유도한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 말 중국에서 만들어진 장비를 받았다. 장비는 중국에서 만들어진 것으로, 핵심 프로그램이 있는 노트북을 비롯해 대포폰과 개조된 펨토셀, 전선, 안테나 등이었다. &lt;br&gt;&lt;br&gt;윗선의 지시를 받아 범행을 이어가던 A씨는 지난 5일 윗선으로부터 “장비에 장애가 생겼다”며 “장비를 맡기고 중국으로 들어오라”는 지시를 받았다. 그는 노트북과 대포폰, 펨토셀 등 장비를 두 개의 상자에 나눠 수도권의 한 무역업체에 위탁하고, 지난 9일 중국으로 향했다. 이 중 노트북과 대포폰은 지난 12일 또 다른 보따리상에 의해 중국으로 발송됐고, 나머지 장비는 이 보따리상이 직접 중국으로 가는 배편으로 옮기려다가 경찰에 적발됐다. 두 개의 상자에 담겨진 장비는 총 27개로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 상자에 담겼던 장비의 작동 여부와 해킹 프로그램 유무를 검증하고 있다. &lt;br&gt;&lt;br&gt;경찰은 지난 16일 오후 인천국제공항 입국장에서 A씨를, 서울 영등포구에서 공범 B씨를 각각 붙잡았다. 경찰은 장비를 중국으로 보내려던 보따리상을 조사했으나, 범죄 혐의점은 파악되지 않았다고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 “사람이 많은 곳으로 가라”는 윗선의 지시를 받고 범행을 했다. 그는 광명 쪽에 거주하고 있어 지리를 잘 알았다고 한다. A씨는 장비에 대한 지식이 없었지만 중국에서 만들어진 장비를 10분 만에 연결할 수 있었다. A씨는 범행의 대가로 윗선으로부터 430만원을 받은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;개인정보를 탈취한 A씨가 모바일 상품권 등을 구매하면 B씨가 이를 받아 지류 상품권으로 교환했다. B씨는 지류 상품권을 현금화하는 역할을 했다. B씨는 텔레그램 광고를 보고 범행에 가담한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이 같은 방법으로 얻은 범죄 수익은 총 2억원가량이며 B씨는 자신의 몫 1000만원을 제외한 나머지를 국내 환전소를 통해 중국 계좌로 송금했다. 2억원은 현재까지 확인된 KT 소액결제 사건의 피해금이 모두 포함돼 있다. &lt;br&gt;&lt;br&gt;B씨는 상품권을 현금으로 바꿀 수 있는 환전소를 물색했는데, 이 과정에서 환전소 업주인 60대 C씨를 찾았다. C씨는 수수료를 더 받는 조건으로 상품권을 현금으로 바꿔줬다고 한다.&lt;br&gt;&lt;br&gt;B씨는 C씨의 환전소를 10여 차례 다녀갔다. C씨는 상품권을 현금으로 바꾼 뒤, 다른 손님 등 제3자를 거쳐 중국 계좌로 송금한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨에게 범행을 지시한 ‘윗선’은 검거하지 못한 상태다. &lt;br&gt;&lt;br&gt;A씨와 B씨 등 모두 전산 분야의 전문 지식은 물론, 동종 전과도 없는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 “범행을 지휘한 윗선이 총책인지 여부는 확인되지 않는다”며 “현재까지 다른 공범이 국내외에 있을 것으로 보고 장비 검증 등 수사를 이어가고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주점 업주 흉기 찌른 50대, 산책하던 시민에 붙잡혀</title>
-      <link>https://www.chosun.com/national/incident/2025/09/24/H5RHIKAZJZDFDM3UPKVFLQSSQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/24/H5RHIKAZJZDFDM3UPKVFLQSSQY/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:36:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단골 주점 업주에게 흉기를 휘두르고 달아난 50대 남성이 길을 지나던 시민의 기지로 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 성남수정경찰서는 살인 미수 혐의로 A(50대)씨를 구속해 검찰에 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 17일 오후 11시 25분쯤 경기 성남시 수정구의 단골 주점에서 업주인 60대 여성 B씨에게 공사 현장 작업용 흉기를 휘두른 혐의를 받고 있다. 그는 동료와 술을 마시던 중 B씨가 자신을 무시한다고 느껴 범행한 것으로 조사됐다. B씨는 얼굴과 팔 등을 크게 다쳐 병원 치료를 받았으며 최근 퇴원했다.&lt;br&gt;&lt;br&gt;A씨는 범행 직후 흉기를 버린 채 주점을 빠져나왔으나, 마침 산책 중이던 C씨에게 붙잡혔다. 반려견과 함께 걷던 C씨는 손에 피를 묻힌 채 비틀거리며 나온 A씨를 수상히 여겨 상가 계단에 앉히고 경찰에 신고했다. 경찰은 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “업주 외에 추가 피해는 없었고, 시민의 제보와 협조가 범인 검거에 결정적 역할을 했다”며 “C씨에게 포상금 지급을 검토하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선거법 위반 손현보 목사 구속적부심 기각…구속 유지</title>
-      <link>https://www.chosun.com/national/regional/2025/09/24/DZBAS6UE2JG77IO463MJKCSJQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/24/DZBAS6UE2JG77IO463MJKCSJQI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:32:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYHKDZJXORIDDELN6XNXCHLRCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손현보 부산 세계로교회 목사가 지난 1일 오후 서울 영등포구 여의도 여의대로에서 열린 '세이브코리아 3·1절 국가비상기도회'에서 발언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의를 받는 손현보 부산 세계로교회 목사의 구속이 적법했다고 법원이 판단했다. 손 목사는 올 초 윤석열 전 대통령 탄핵 반대 집회를 열었던 개신교 단체 ‘세이브코리아’의 대표다.&lt;br&gt;&lt;br&gt;부산지법 형사4-3부(재판장 김도균)는 24일 손 목사에 대한 구속적부심사 심문을 진행한 뒤, 손 목사 측 청구를 기각했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 청구는 이유가 없다고 인정되므로 이를 기각한다”고 설명했다. &lt;br&gt;&lt;br&gt;구속적부심사는 피의자에 대한 구속이 적법한지, 구속을 계속할 필요성이 있는지를 법원이 심사해 판단하는 절차다.&lt;br&gt;&lt;br&gt;손 목사는 부산교육감 재선거를 앞둔 지난 3월 교회 예배 자리에서 정승윤 후보와 대담을 하고 그 영상을 유튜브 등 소셜미디어에 올린 혐의를 받고 있다. 정 후보의 선거 사무실에서 ‘승리 기원 예배’를 갖고 “우파 후보를 찍어 정말 하나님 나라를 세워야 한다”고 발언한 혐의도 받고 있다. 대선을 앞둔 지난 5~6월 세계로교회에서 열린 기도회와 예배에서 “김문수 후보를 당선시키고 이재명 후보를 낙선시켜야 한다”고 말한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 4월 부산시선거관리위원회로부터 이 같은 내용의 고발장을 접수받아 수사에 착수, 지난달 28일 손 목사에 대한 구속영장을 신청했다. 검찰은 이달 3일 이를 부산지법에 청구했으며, 8일 법원은 도망의 염려(도주 우려)를 이유로 영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아시아나항공, 법인세 소송 일부 승소…법원 “146억 취소”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/24/LFN5P3QPCNAV7NH4GSPGS3AOGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/LFN5P3QPCNAV7NH4GSPGS3AOGE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:08:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PN2FKJA7XJHIVLOA2K6VUFQYEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아나항공이 2016년 금호터미널 주식 매각과 관련해 납부한 913억원의 법인세 중 146억원을 취소하라는 1심 법원 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울행정법원 행정8부(재판장 양순주)는 24일 아시아나항공이 서울 강서세무서장을 상대로 낸 법인세 취소 소송에서 “법인세 913억원 중 776억원을 넘는 부분을 취소하라”며 원고 일부 승소로 판결했다. &lt;br&gt;&lt;br&gt;아시아나항공은 2016년 4월 보유한 금호터미널 주식 전량을 금호기업에 2700억원에 매각했다. 이후 세무조사에 나선 서울지방국세청은 해당 주식의 가치를 약 5787억원으로 산정하고, 시세보다 낮은 가격에 저가로 넘겼다며 2022년 913억원의 법인세를 부과했다. 법인세법상 법인이 계열사 등 특수관계인과 지나치게 낮은 가격으로 거래한 경우 시가를 기준으로 양도소득세를 과세할 수 있다. 세무당국은 세금을 고의로 축소 신고했다며 가산세도 부과했다.&lt;br&gt;&lt;br&gt;재판부는 아시아나항공이 금호터미널 주식을 시세보다 낮은 가격에 매각한 점은 인정했지만 세금을 일부러 축소 신고했다고 보기는 어렵다며 가산세 부과를 취소해야 한다고 판단했다. 재판부는 “아시아나항공이 법인세 산정 기초 자료를 위조했다는 사정이 없는 점 등을 고려하면 가산세 부과 대상에는 해당하지 않는다”고 했다.&lt;br&gt;&lt;br&gt;한편, 박삼구 전 금호그룹 회장은 저가 매각과 관련해 배임 혐의로 기소됐으나 지난 18일 항소심에서 이 부분 무죄를 선고받았다. 서울고법 재판부는 “매각 가격 결정 과정에 다소 미흡한 부분이 있기는 하지만, 2700억원이 현저하게 낮은 가격은 아니고, 아시아나항공에 손해가 발생했다고 보기도 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>2기 이민정책委 출범...외국인 대상 전문기술학과 지정 추진</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/24/KKCJGO2PMJFEZDYIOKL6JJJ5XM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/KKCJGO2PMJFEZDYIOKL6JJJ5XM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:13:33 +0000</pubDate>
-      <content:encoded>법무부 자문기구인 이민정책위원회가 24일 2기 위촉식을 열고 출범 후 첫 회의를 진행했다. 이날 회의에서는 지방 외국인력 공급과 관련해 전문대를 활용한 기술인력 양성 제도 도입 등이 논의됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZGEXNM7BNKKJKZMXN2UB5QJJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제2기 이민정책위원회 위촉식. /법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 정부과천청사에서 열린 위촉식에서 김동욱 서울대 행정대학원 명예교수를 이민정책위원회 2기 위원장으로 임명했다. 위원회는 이민정책 분야에 학식과 경험이 풍부한 학계, 법조계, 사회단체활동가 등 외부전문가 18명과 내부위원 2명을 포함해 20명으로 구성됐다.&lt;br&gt;&lt;br&gt;위촉식 이후 열린 회의에서 위원들은 지역산업이 필요로 하는 외국인력 공급을 위해 전문대에 육성형 전문기술학과를 지정하는 방안 등을 논의했다. 저학력·저숙련 중심의 외국인력이 국내 산업경쟁력을 약화·저해할 우려가 있어 국내 전문대에서 중간수준(middle-skill)의 기술력을 갖춘 외국인 유학생을 체계적으로 육성하겠다는 것이다. 위원회는 향후 이와 관련해 전문대와 광역지자체 등의 의견을 수렴해 공모절차를 진행할 방침이다.&lt;br&gt;&lt;br&gt;이밖에도 이날 회의에서는 비자 발급규모 사전공표제 향후 운영 방향, 외국인 인권보호 및 권익증진협의회 개선 방안, 결혼이민자 본국 가족의 국내 체류기간 연장 검토 등이 논의됐다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “이민정책은 단순히 인력문제를 해결하는 수단이 아니라, 통합과 인권 존중·지속가능한 경제성장·지역 균형발전을 아우르는 국가전략이 돼야 한다”며 “이주민의 국내 정착을 적극 지원하고 역동적인 이민정책을 수립하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>수용번호 ‘4398′... 법정 선 첫 영부인, 직업 묻자 “무직”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/24/RBHQIIL26VFUXOFVKX2ZCFE554/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/RBHQIIL26VFUXOFVKX2ZCFE554/</guid>
@@ -917,15 +926,6 @@
         <media:description type="plain">도이치모터스 주가조작과 명태균 공천개입, 통일교 청탁·뇌물 수수 의혹 혐의 등으로 구속기소 된 김건희 씨(파면된 전직 대통령 윤석열의 아내)가 24일 오후 서울 서초구 서울중앙지방법원에서 열린 첫 재판에 출석하고 있다. /사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘불법 도박’ 개그맨 이진호, 이번엔 인천~양평 100km 음주운전하다 적발</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/LOA6GVGDUFFQ5KAMCDHTSXKUVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/LOA6GVGDUFFQ5KAMCDHTSXKUVA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 06:33:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FTAQQ4KDJTWPTHZHZSL3WQUNE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박 혐의로 수사를 받고 있는 개그맨 이진호(39)가 이번엔 음주 운전을 하다 적발됐다.&lt;br&gt;&lt;br&gt;24일 경기 양평경찰서 등에 따르면 이진호는 이날 오전 3시쯤 인천에서 경기 양평군까지 음주운전을 한 혐의로 검거돼 경찰 조사를 받고 풀려났다.&lt;br&gt;&lt;br&gt;경찰은 인천에서 음주운전 신고를 접수받고 지역 간 공조 수사 끝에 양평에서 이진호를 검거했다. 이진호는 음주 상태에서 인천에서 양평까지 약 100㎞를 이동한 것으로 추정된다. &lt;br&gt;&lt;br&gt;이진호는 검거 당시 면허취소 수준인 혈중알코올농도 0.11% 상태였다. 경찰은 이진호의 요구에 따라 추가로 채혈 측정을 한 뒤 결과를 기다리고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “검거 당시 이진호가 도주하지 않았고, 동승자는 없었다”며 “공조 요청을 받고 이진호 주거지 근처에서 기다려 검거하게 됐다. 본인이 경찰 조사에서 음주운전 사실을 인정했다”고 설명했다. &lt;br&gt;&lt;br&gt;이진호의 소속사 SM C&amp;amp;C는 이날 입장문을 통해 “먼저 불미스러운 일로 공식 입장을 전달드리게 되어 대단히 송구스럽고, 죄송한 마음”이라며 “이진호 본인에게 확인한 결과 금일 새벽 음주 운전을 했다고 한다. 적발 당시 관할 경찰서에서 요구한 조사를 마쳤으며, 처분을 기다리고 있는 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;소속사는 “이진호는 이번 일에 대해 일말의 변명과 핑계 없이 자신의 잘못이라 생각하며 깊이 반성하고 있다. 소속사 역시 책임을 통감한다”며 “이진호가 처분을 성실히 이행하고 법적 조치를 받을 수 있도록 하겠다. 다시 한번 심려를 끼쳐 드리게 되어 진심으로 사죄드린다”고 했다.&lt;br&gt;&lt;br&gt;이진호는 지난 2005년 SBS ‘웃찾사’를 통해 데뷔했으며 tvN ‘코미디 빅리그’, JTBC ‘아는 형님’ 등을 통해 이름을 알렸다. 하지만 지난해 10월 자신의 공식 소셜미디어를 통해 인터넷 불법 도박으로 경찰 조사를 받게 된 사실을 스스로 알리고 방송 활동을 중단했다. 이진호는 특히 방탄소년단(BTS) 지민 등 주변 유명인에게 돈을 빌린 후 갚지 않은 사실도 알려져 논란이 커졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>흰 에센스 얼굴에 부었다가…이니스프리, 광고 선정성 논란에 사과</title>
