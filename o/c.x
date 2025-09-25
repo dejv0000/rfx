@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전남 순천 한 시장서 상인 흉기로 찌른 20대女 검거</title>
+      <link>https://www.chosun.com/national/incident/2025/09/25/2Z6VJQMHJBG2ZJVFWICW2OLBBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/25/2Z6VJQMHJBG2ZJVFWICW2OLBBI/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 12:38:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 한 시장에서 흉기를 휘둘러 상인을 다치게 한 20대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남 순천경찰서는 25일 살인미수 혐의로 20대 여성 A씨를 붙잡아 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 이날 오후 7시쯤 전남 순천시 중앙시장에서 60대 여성 상인 B씨를 흉기로 찌른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B씨는 인근 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;범행을 목격한 상인들의 신고를 받고 출동한 경찰은 A씨 현장에서 체포했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 범행 동기와 경위 등을 조사하는 한편 구속영장 신청을 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“모든 후배가 존경한 선배”... ‘개그계 대부’ 전유성 별세</title>
+      <link>https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 13:21:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHBAYWWVELHQHVRS7FPBN6AUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘개그계 대부’로 불리는 전유성(76)이 25일 밤 9시분쯤 입원 중이던 전북대학교 병원에서 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한국방송코미디언협회에 따르면 전유성은 폐기흉 증세가 악화하면서 이날 오후 9시 5분쯤 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국방송코미디언협회 관계자는 언론에 “밤 9시 5분쯤 유일한 가족인 딸이 지켜보는 가운데 세상을 떠났다”면서 “이미 마음의 각오는 했지만, 너무나 안타깝고 슬프다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYSKY7CLBHMNB4BNM76TVTEEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 직접 내려가 병문안을 한 한국방송코미디언협회 김학래 회장은 “현재 가족과 장례 문제를 놓고 협회 관계자들이 협의중”이라면서 “이미 코미디협회장이 결정된 상태이기 때문에 절차상의 문제는 없다”고 말했다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원에 마련될 예정이다.&lt;br&gt;&lt;br&gt;전유성은 1969년 TBC 방송작가로 데뷔했다. 이후 코미디언으로 전향해 ‘유머1번지’ ‘쇼 비디오 자키’ 등으로 이름을 알렸다. 희극인의 위상과 전문성을 알리며 한국 코미디 발전에 크게 기여한 인물이다. 희극인이나 코미디언으로 불리던 시대에 ‘개그맨’이라는 단어를 처음 사용한 인물로도 알려져 있다. PC통신 시절 아이디도 ‘개그맨1’일 정도로 희극을 사랑했다고 한다. &lt;br&gt;&lt;br&gt;그는 특히 후배들에게 사랑받는 선배로도 유명하다. 전유성 50주년 기념 공연 간담회에서 김지선은 “결혼할 때 청첩장을 직접 디자인해 주셨다. 모든 후배들에게 아버지 같은 존재”라고 떠올렸다. 엄용수는 “준비가 없어 보이지만 늘 파격과 신선함을 보여주신 분”이라며 그를 기렸고, 김학래는 “코미디 역사의 한 부분을 이룬 대단한 인물”이라고 했다.&lt;br&gt;&lt;br&gt;정선희 역시 최근 유튜브 채널에서 전유성에 대해 “기회를 엄청 많이 주신다”며 “극단, 극장 활동을 통해서 후배들한테도 계속 (기회를 주신다). 내게도 ‘책을 많이 읽으라’고 해주신 분이 전유성 선배님이다. 생활에 쓰이는 단어나 어휘가 다른 사람과는 달라야 한다고 했다. ‘총알을 많이 가지고 있으라, 할 수 있는 말의 범주를 넓히라’고 했다”고 표현했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법원, 與가 제기한 지귀연 판사 의혹 “감사委에 상정”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/25/ROEQPWX4RBEXZGMAEWWQTKO6PY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/ROEQPWX4RBEXZGMAEWWQTKO6PY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 12:43:34 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 내란 혐의 사건을 맡은 지귀연 부장판사에 대한 술 접대 의혹이 법원 감사위원회에서 다뤄지게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7IUCLELJXIIQ5JJZTQJBBA6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난 4월 21일 오전 서울 서초구 서울중앙지법 417호 법정에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 전 언론 공개에 대한 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 관계자는 25일 “지 부장판사 사건을 법원 감사위에 상정할 예정”이라고 밝혔다. 법원 감사위원회는 판사 비위 의혹이나 주요 감사 사안을 심의하는 기구로, 위원 7명 중 6명이 외부 인사로 구성된다.&lt;br&gt;&lt;br&gt;앞서 지난 5월 더불어민주당 김용민 의원은 지 부장판사가 유흥업소에서 술 접대를 받았다고 주장했다. 이후 대법원 윤리감사실이 조사에 착수했지만, 공식 결과가 발표되지는 않았다. 지 부장판사는 당시 “그런 데서 접대를 받는 생각을 해본 적도 없다”며 의혹을 부인했다.&lt;br&gt;&lt;br&gt;대법원은 이달 말 감사위를 열어 조사 결과에 대한 심의를 받을 예정이다. 법원 내 자체 조사만으로는 공정성 시비가 제기될 수 있어 외부 위원의 심의를 거쳐 객관성을 확보하겠다는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;감사위는 조사 결과 공개 여부나 처리 방식 등에 대해 법원행정처장 등에게 권고할 수 있다. 감사위 권고에 따라 지 부장판사 의혹에 대한 대법원 조사 결과가 공개될 가능성도 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고용노동부 장관실 찾아가 인화물질 뿌린 50대 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/09/25/U65LR33K3JBT3HQK4JASWJXQYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/25/U65LR33K3JBT3HQK4JASWJXQYE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 11:01:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGAMSA6XYBPRXDXGIERQV77FCA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 세종남부경찰서와 고용노동부에 따르면 이날 오후 6시 25분쯤 정부세종청사 고용노동부 6층 장관실 일대에서 인화물질을 들고 찾아와 불을 붙이려 한 A(50대)씨를 특수공무집행방해 혐의로 체포해 조사하고 있다. 사진은 장관실 입구에 뿌려진 인화물질을 닦은 휴지가 쌓여 있는 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부세종청사 고용노동부 건물에 무단 침입해 인화물질을 뿌리고 불을 지르려고 한 50대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;25일 세종남부경찰서와 노동부에 따르면, 이날 오후 6시 25분쯤 50대 A씨가 노동부 청사에 몰래 들어가 장관실이 있는 6층에 인화물질을 뿌렸다. 불을 붙이려고 하는 A씨를 노동부 직원들이 제지해 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;정부세종청사에 출입하려면 출입증을 발급받은 뒤 보안 검색대를 통과해야 한다. A씨는 청사 직원들 눈을 피해 보안 검색대 인근 유리문을 뛰어넘어 청사에 진입한 것으로 전해졌다. 가방에 인화물질을 넣은 페트병을 담은 A씨는 별도의 제지 없이 곧장 6층으로 올라갔고, “고용노동부 장관 나오라”며 난동을 부렸다고 한다.&lt;br&gt;&lt;br&gt;A씨는 안전 물품 제조 업체 사업주인 것으로 알려졌다. 인증받지 않은 물품을 제조한 혐의로 처벌을 받았는데, 이에 앙심을 품고 수년간 노동부 측에 민원을 제기해 왔다고 한다. 노동부 관계자는 “정확한 사건 경위를 파악 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘선우은숙 친언니 강제추행’ 유영재, 징역 2년6개월 확정</title>
+      <link>https://www.chosun.com/national/people/2025/09/25/NQYJQ3NPI5DQ3H7BHMAVMH2WFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/NQYJQ3NPI5DQ3H7BHMAVMH2WFA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 10:18:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRCEHKHW2BA7XCWJCJFZ7YBH4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 선우은숙과 아나운서 유영재. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 선우은숙의 친언니를 강제 추행한 혐의로 재판에 넘겨진 아나운서 출신 방송인 유영재가 대법원에서 징역 2년 6개월의 실형을 확정받았다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 25일 성폭력처벌법 위반(친족관계에 의한 강제추행) 혐의로 재판에 넘겨진 유씨에게 징역 2년 6개월을 선고한 원심 판결을 상고 기각 결정으로 확정했다.&lt;br&gt;&lt;br&gt;유영재는 2023년 3월부터 10월까지 5차례에 걸쳐 당시 아내였던 선우은숙의 친언니를 강제 추행한 혐의로 기소됐다. 선우은숙과 유영재는 2022년 10월 결혼했으나 1년 6개월여 만인 지난해 4월 파경을 맞았다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 지난 1월 유영재에게 징역 2년 6월 및 40시간 성폭력 치료 프로그램 이수, 아동·청소년·장애인 관련 기관에 5년간 취업 제한을 선고했다. 유영재는 곧바로 법정 구속됐다.&lt;br&gt;&lt;br&gt;이에 유영재 측은 양형 부당을 주장하며 항소했고 이어진 항소심 재판에서 유영재는 최후 진술을 통해 “제 지나간 시간을 반성한다”며 “제가 가진 친밀감과 성적 잣대에 대한 인식이 부족했다”며 피해자에게 사과하며 선처를 호소했다.&lt;br&gt;&lt;br&gt;하지만 지난 7월 수원고등법원 제2-3 형사부는 유영재의 항소를 기각하고 원심을 유지했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인의 죄질이 나쁘다. 이 사건의 범행으로 피해자가 큰 충격과 고통을 호소하고 있으며, 용서받지 못했다”며 “피해자는 동생의 혼인 생활에 누가 될까, 피해 사실을 감추고 추행을 견디며 중압감과 성적 수치심을 느꼈을 것이다. 또한 피해자가 피고인에 대한 형벌을 호소하고 있다. 이에 원심의 판단은 정당하다고 본다”라고 했다.&lt;br&gt;&lt;br&gt;이에 유영재가 상고했으나 대법원은 상고 이유가 부적법하다고 보고 상고 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천대교서 실종된 30대 운전자, 8시간 만에 해상서 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/25/NZIAKQOK35D7DEMZ7BG6PHQ36U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/NZIAKQOK35D7DEMZ7BG6PHQ36U/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Sep 2025 10:36:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSETH7KN2JY4B6TGVT3WV6PBRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천대교./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대교에 차량을 세우고 실종된 운전자가 8시간여 만에 해상에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;25일 인천해양경찰서에 따르면 이날 오전 3시 33분쯤 인천대교 상황실로부터 “해상으로 사람이 떨어진 것 같다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 대교 주탑 인근 도로에 정차 중인 30대 남성 A씨의 소유 차량을 발견했다. 차 안에는 유서가 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 경비함정을 투입해 주변 해상을 수색했고, 이날 오전 11시 58분쯤 A씨를 발견했다. 당시 A씨는 호흡과 맥박이 없는 상태로, 현장에서 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;해경 관계자는 “A씨가 차량 소유주로 확인됐으며 현재까지 범죄 혐의점은 없는 것으로 조사됐다”고 했다.&lt;br&gt;&lt;br&gt;한편 인천대교에서는 지난 9일과 22일에도 각각 30대 운전자가 차량을 세우고 바다로 추락해 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 자살예방 SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>군청 예산 받기 위해 공문서 위조한 마을이장과 공무원 벌금형</title>
       <link>https://www.chosun.com/national/regional/2025/09/25/SFB2TWVETBHLZCEIFSO7BR3ERM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/25/SFB2TWVETBHLZCEIFSO7BR3ERM/</guid>
@@ -843,24 +897,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALJ3UHZTGJPNTJWW7P52CIBBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관이 24일 경기 광명시 기아 오토랜드 광명에서 열린 '2035 국가 온실가스 감축목표(NDC) 대국민 공개논의 수송분야 토론회'에 참석해 발언하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 수송 부문의 탄소 감축을 위해 유럽연합(EU)처럼 2035년 이후 내연차 판매를 제한하는 방안을 검토하기로 했다. 오는 11월 발표되는 2035년 NDC(국가 온실가스 감축 목표)에 따라 실제 제한 여부가 결정될 것으로 보인다.&lt;br&gt;&lt;br&gt;정부는 24일 경기 광명시 기아 오토랜드 사업장에서 관계 부처 합동으로 2035 NDC 수립을 위한 수송 부문 토론회를 열었다. NDC 관련 세번째 대국민 토론회다.&lt;br&gt;&lt;br&gt;이날 정부는 2035 NDC 후보인 ‘48%’, ‘53%’, ‘61%’, ‘65%’ 4개에 따른 수송 부문의 온실가스 배출 감축량을 제시했다. 48% 감축의 경우 온실가스 배출량이 정점에 달했던 2018년 대비 2035년에 48%를 줄이겠다는 뜻이다.&lt;br&gt;&lt;br&gt;‘48%’ 감축안으로 설정할 경우 수송 부문 배출량은 2018년 대비 55.2%(5450만t) 줄어든 2035년 4430만t, ‘53%’는 56.9%(5620만t) 감소한 4260만t으로 산출됐다.&lt;br&gt;&lt;br&gt;문제는 60% 이상으로 목표가 설정될 경우다. ‘61%’ 감축안의 경우 2018년보다 58.9%(5820만t) 감축해 2035년 4060만t이 되고, ‘65%’ 때는 2018년 대비 67.0%(6620만t) 줄어든 3260만t이 된다. 이에 60% 이상으로 NDC가 결정될 경우 내연차를 강제로 줄이는 등의 제한 조처가 필요하다는 것이 정부 입장이다.&lt;br&gt;&lt;br&gt;48%와 53% 감축안에서는 무공해차 보급을 전체 차량의 각각 30%, 34%로 늘리면 된다. 그러나 61%와 65% 감축안에서는 35% 이상 확대해야 해 EU와 같이 2035년 내연차 판매 제한을 검토해야 한다고 정부 관계자는 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AEGZSJKQC4DD257JZM5A6G6M7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 쇼핑몰 내 전기자동차 충전 구역 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부는 이런 강력한 감축안을 검토하는 이유로 국가 온실가스 배출량에서 수송 부문 감축이 가장 더딘 점을 꼽았다. 수송 부문 온실가스 배출량은 2018년 9880만t에서 지난해 9750만t으로 6년 동안 1.3%(130만t) 줄었다. 이는 전기·수소차 보급이 목표치를 크게 밑돌았고, 차량 부착용 CCUS 등 내연차가 뿜어내는 탄소를 잡아낼 기술이 아직 개발되지 않았기 때문이다. 전기차 배터리 화재 등으로 구매 심리가 위축된 영향도 있다.&lt;br&gt;&lt;br&gt;내연차 제한은 제주도가 ‘탈(脫)탄소 섬’을 표방해 2030년까지 무공해차 100%를 달성하겠다고 선언하는 등 지자체 단위에서 목표로 설정한 적은 있다. 그러나 정부 차원에서 내연차 판매를 제한하겠다고 한 것은 처음이다.&lt;br&gt;&lt;br&gt;당초 2035 NDC는 최대 53% 안에서 결정될 것이란 시각이 지배적이었으나, 이재명 정부 들어 NDC가 크게 상향되는 쪽으로 분위기가 흘러가고 있다. 문 정부 때 수립한 ‘2030 NDC’(2018년 대비 40% 감축)도 “무리한 목표 설정”이라는 비판이 나왔고, 실제 실패가 기정사실화됐다. 앞으로 5년 간 총 2억5500만여t, 연평균 전년 대비 3.6%씩 큰 폭으로 탄소를 줄여야 하는데 2024년 감축량이 전년 대비 2% 수준에 그치는 등 더딘 탓이다.&lt;br&gt;&lt;br&gt;김성환 장관은 “환경부가 조만간 기후에너지환경부로 탈바꿈할 텐데 수송 분야의 탈탄소화 전략을 적극 뒷받침하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>초등생 성폭행한 20대 태권도 사범...법원, 구속영장 발부</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/TCWGQT4YMVHKROUIG7KJLDPNOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/TCWGQT4YMVHKROUIG7KJLDPNOU/</guid>
-      <dc:creator>인천=이현준 기자, 김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 10:21:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/66JXKNPDWZR3RZY272S4TIYTP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생을 성폭행한 태권도 학원 사범이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 아동·청소년의 성보호에 관한 법률상 위력에 의한 간음 혐의로 20대 남성 A씨를 구속했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;인천지법 유아람 영장전담 부장판사는 이날 오후 A씨에 대한 구속 전 피의자 심문을 진행하고, “도망의 염려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;태권도 학원 사범인 A씨는 지난 21일 오후 인천의 한 태권도 학원과 차량에서 초등학생인 B양을 강제 추행하고 성폭행한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 22일 오전 B양의 부모는 “딸이 태권도 사범에게 성폭행 당했다”고 경찰에 신고했다. &lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 A씨를 상대로 추가 범행 여부 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>백승학 서울대 치의학대학원 교수, 세계교정과의사연맹 ‘뛰어난 교육자상’ 수상</title>
-      <link>https://www.chosun.com/national/people/2025/09/24/KPEK7NJQMVAULHSSHKKZ3OIY2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/24/KPEK7NJQMVAULHSSHKKZ3OIY2U/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 12:39:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WBJM4VS5YFGMDC3NUI5H3JMFMA.png"&gt;&lt;figcaption&gt;&lt;small&gt;백승학 서울대 치의학대학원 교수. / 서울대학교 치의학대학원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대는 백승학 서울대 치의학대학원 교수가 세계교정과의사연맹(WFO)이 수여하는 ‘뛰어난 교육자상(Outstanding Educator Awards)’을 받았다고 최근 밝혔다. &lt;br&gt;&lt;br&gt;1995년 창립된 치과교정학 분야 세계 최대 학술 단체인 WFO는 올해 처음 이 상을 신설했다. 수상자 중 아시아인은 백 교수가 유일하다. &lt;br&gt;&lt;br&gt;시상식은 오는 10월 22일 브라질 리우데자네이루에서 열리는 제10회 WFO 국제교정학술대회 기간 중 열릴 예정이다. &lt;br&gt;&lt;br&gt;백 교수는 “이번 수상은 개인의 성과를 넘어, 한국 치과교정학 교육 및 연구의 국제적 위상을 보여주는 결과라고 생각한다”며 “앞으로도 후학 양성과 학문 발전에 최선을 다하겠다”고 수상 소감을 밝혔다.&lt;br&gt;&lt;br&gt;백 교수는 대한치과교정학회 회장, 서울대 치과병원 교정과 과장, 진료처장 등을 지냈다. 지난해 7월 SCI 저널에서 발표된 연구에 따르면 백 교수는 2000~2023년 III급 부정교합 관련 연구동향에서 논문 등재 편수와 인용 편수에서 세계 1위를 차지했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>달라진 2040…男 73%‧女 54% “결혼 의향 있다”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/24/OSH2SH33GJFOHH6FWELFOB3XFQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/OSH2SH33GJFOHH6FWELFOB3XFQ/</guid>
@@ -870,15 +906,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZNF2PUU4B7OOE7JTGWDMXX44PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 여성이 웨딩드레스를 바라보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼과 자녀에 대한 2040 미혼 남녀의 인식이 긍정적으로 변화하고 있는 것으로 나타났다. 최근 1년여간 결혼을 긍정적으로 생각한다는 이들이 꾸준히 늘어 60%대로 올라섰고, 자녀가 필요하다고 보는 이들도 10%포인트 넘게 늘어났다. &lt;br&gt;&lt;br&gt;24일 대통령 직속 저출산고령사회위원회가 발표한 제4차 결혼‧출산‧양육 및 정부 저출생 대책 인식 조사에 따르면, 결혼을 긍정적으로 생각하는 미혼 남녀는 62.6%로 나타났다. &lt;br&gt;&lt;br&gt;위원회는 작년 3월과 9월, 올해 3월과 8월 총 네 차례에 걸쳐 같은 문항을 반복해 물었고, 올해 8월에는 전국 만 25~49세 남녀 2800명을 조사했다. 작년 3월 55.9%에서 1년여 만에 6.7%포인트 늘었다. &lt;br&gt;&lt;br&gt;결혼 의향이 있는 미혼 남녀 역시 같은 기간 61.0%에서 64.5%로 늘었다. 남성은 72.0%에서 72.9%로, 여성은 48.2%에서 54.4%로 증가했다. &lt;br&gt;&lt;br&gt;자녀가 필요하다고 보는 미혼 남녀는 작년 3월 50.0%였으나 올해 8월에는 61.2%로 11.2%포인트나 늘었다. 남성은 같은 기간 66.2%에서 77.3%로, 여성은 34.4%에서 52.0%로 올랐다. &lt;br&gt;&lt;br&gt;출산 의향 역시 늘어났다. 결혼 여부와 상관없이 현재 자녀가 없는 이들의 출산 의향은 작년 3월 32.6%에서 올해 8월 40.2%로 늘었다. 이 가운데 현재 미혼인 남녀의 출산 의향은 29.5%에서 39.5%로 10%포인트나 늘었다. &lt;br&gt;&lt;br&gt;또 현재 자녀가 있는 남녀의 출산 의향은 10.0%에서 11.4%로 상승했다. 특히 현재 자녀가 있는 20대 여성은 20.2%에서 40.0%로 20%포인트 가까이 대폭 늘었다. &lt;br&gt;&lt;br&gt;출산을 위해 필요한 조건으로는 ‘소득이 좀 더 많으면’(34.6%)이 가장 많이 꼽혔다. 남성은 2순위로 ‘육아휴직을 자유롭게 사용할 수 있다면’(26%)을, 여성은 ‘배우자가 육아에 함께 참여한다면’(21.2%)을 두 번째로 많이 꼽았다. &lt;br&gt;&lt;br&gt;본인의 일‧가정 양립이 ‘잘되고 있다’는 인식은 올해 3월 60.4%에서 지난달 62.3%로 올랐고, 배우자의 일‧가정 양립이 ‘잘되고 있다’는 인식도 같은 기간 70.0%에서 70.5%로 상승했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>포스코이앤씨 광명~서울고속도로 ‘감전 사고’...국과수 “양수기 누전 확인”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/WJ4EUEXDSRCPJBR5GRTLQIWIO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/WJ4EUEXDSRCPJBR5GRTLQIWIO4/</guid>
-      <dc:creator>광명=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 09:48:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJ6GM4AVUNBQZAVSHOEY6VRGQY.png"&gt;&lt;figcaption&gt;&lt;small&gt;포스코이앤씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코이앤씨가 시공을 맡은 경기 광명~서울고속도로 연장공사 현장에서 외국인 근로자가 감전 사고를 당한 것과 관련, 양수기에서 누전이 확인된다는 감정 결과가 나왔다.&lt;br&gt;&lt;br&gt;경기남부경찰청 광역수사단 수사전담팀은 최근 국립과학수사연구원으로부터 “공사 현장의 양수기와 그에 연결된 전원선에서 누전이 확인된다”는 감정 결과를 회신했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;국과수는 “전류가 흘러 물을 통해 인체에 감전됐을 가능성이 있다”고 통보한 것으로 알려졌다. 당시 부상당한 근로자가 착용했던 장갑에 대해서도 경찰은 감정을 의뢰했지만 감정 대상이 아니라는 이유로 이에 대한 결과는 전달받지 못했다.&lt;br&gt;&lt;br&gt;경찰은 국과수 감정 결과를 바탕으로 수사를 이어갈 방침이다. &lt;br&gt;&lt;br&gt;사고는 지난달 4일 오후 1시 34분쯤 광명시 옥길동 광명~서울고속도로 연장공사 현장에서 발생했다. 이 사고로 미얀마인 30대 근로자 1명이 심정지 상태를 보였고, 의식불명 상태로 병원으로 이송돼 두 달 가까이 중환자실에서 치료받고 있다. &lt;br&gt;&lt;br&gt;이 근로자는 지하 18m 지점의 양수기 펌프가 고장을 일으키자 이를 점검하기 위해 아래로 내려갔고 이 과정에서 감전 사고를 당했다.&lt;br&gt;&lt;br&gt;사고 지점은 고속도로가 터널을 지나는 구간이다. 공사를 위해 지면을 도로 폭만큼 수십m 너비로 파놓은 상태로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>검찰총장 대행 “‘헌법 규정’ 검찰 지우는 건 검찰 개혁에 오점”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/24/Q6JJR3BZV5ANNMPDOYV4OQPYSI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/24/Q6JJR3BZV5ANNMPDOYV4OQPYSI/</guid>
@@ -886,24 +913,6 @@
       <description/>
       <pubDate>Wed, 24 Sep 2025 09:11:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M36K5DNQGJN5TL344DAIKLOJLM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 서울 여의도 국회에서 열린 행정안전위원회의 '오송 참사 국정조사' 기관 보고에 참석한 노만석 검찰총장 직무대행. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노만석 검찰총장 직무대행이 24일 검찰청을 폐지하는 내용의 정부조직법에 대해 “헌법에 규정된 ‘검찰’을 지우는 것은 도리어 성공적인 검찰 개혁에 오점이 될 수 있다”고 밝혔다. 더불어민주당 주도의 정부조직법 국회 통과를 앞두고 정면으로 반발한 것이다.&lt;br&gt;&lt;br&gt;노 대행은 이날 대검찰청 대변인실을 통해 “마지막 순간까지 올바른 검찰 개혁의 모습을 다듬어 주실 것을 국민 여러분과 국회, 정부에 간곡히 요청드린다”며 검찰청 폐지를 재고해달라고 했다. 정부조직법은 이날 국회 법제사법위원회에서 더불어민주당 주도로 처리됐고, 25일 국회 본회의에 상정될 예정이다.&lt;br&gt;&lt;br&gt;노 대행은 “검찰은 직접 수사와 공소제기뿐 아니라 경찰 수사에 대한 사법 통제, 형 집행, 피해자 지원, 범죄수익환수, 국제사법공조 등 법질서를 확립하는 중추적인 역할을 수행해왔다”며 “제헌 헌법이 명시한 ‘검찰’이라는 용어에는 국민을 범죄로부터 지키기 위해 경찰 수사를 비롯한 법 집행을 두루 살피라는 뜻이 담겨있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “‘공소청’이라는 명칭은 위와 같은 본연의 기능을 담아내지 못하는 것은 물론 국민을 위한 법질서 확립의 중추적 기능을 약화시킬 우려가 있다”며 “검찰 수사 기능의 이관이 또 다른 권력기관의 수사 권한 비대화로 이어지고, 전문적이고 고도화된 범죄에 대응해 온 검찰의 수사역량이 사장된다면 국민들이 원하는 올바른 검찰 개혁의 모습은 아닐 것”이라고 했다.&lt;br&gt;&lt;br&gt;검찰청을 폐지하고 중대범죄수사청(중수청)과 공소청을 신설하는 정부조직법에 반대 의사를 분명히 밝힌 것이다. 법안이 통과되면 검찰의 기소 기능은 법무부 산하의 공소청에, 수사 기능은 행정안전부 산하의 중수청에 이관된다.&lt;br&gt;&lt;br&gt;다만 노 대행은 “이러한 상황에 이르기까지 검찰이 정치적 중립성을 의심받는 수사권 남용 논란에서 벗어나지 못하고 국민으로부터 충분한 신뢰를 얻지 못한 점, 무거운 책임감을 느끼고 엄중히 받아들여 겸허히 성찰하겠다”면서 “국민께서 불안해하지 않는 균형 잡힌 사법 절차 시스템이 설계되고, 위헌성 논란이 없는 성공적인 검찰 개혁이 이루어지기를 바라고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“만성질환으로 인한 사회경제적 비용 15조”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/5VURHYJXPNDPVJKZOAUUNH3LF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/5VURHYJXPNDPVJKZOAUUNH3LF4/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 09:25:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUUEVGPM3ZEKTAI6QLRNBIZ3PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오전 국회 의원회관에서 열린 ‘설탕 과다 사용세 토론회’에서 주제 발표 중인 윤영호 서울대 건강문화사업단장. /한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 건강문화사업단과 정태호 더불어민주당 의원은 24일 오전 서울 여의도 국회 의원회관에서 ‘설탕 과다 사용세 토론회’를 개최했다.&lt;br&gt;&lt;br&gt;이날 윤영호 서울대 건강문화사업단장은 ‘건강권 강화 및 건강불평등 해소를 위한 설탕과당사용세 추진 정책 제언’을 주제로 발표했다. 윤 단장은 “만성질환으로 인한 사회경제적 비용이 2021년 기준 1년에 15조가 넘었다”며 “건강은 개인의 문제로 치부할 것이 아니라 국가적 관리가 필요한 영역”이라고 강조했다. &lt;br&gt;&lt;br&gt;이어 윤 단장은 “건강과 관련한 의사 결정에 국민이 함께 참여하고 책임을 지는 것이 바로 ‘건강 민주화’”라며 그 일환으로 설탕 과다 사용세 도입이 필요하다고 했다. 설탕 과다 사용세란 설탕이 첨가된 음료 등 가공식품에 부과하는 세금을 의미한다. 실제로 미국 일부 주에선 설탕세를 도입해 탄산음료·커피·차·과일 음료 등의 가격을 평균 33% 올렸더니 소비자들의 구매가 33% 감소한 것으로 조사되기도 했다. &lt;br&gt;&lt;br&gt;이날 발표에는 설탕 과다 사용세와 같은 건강세 부과에 대한 시민들의 인식 조사 결과도 거론됐다. 한국리서치가 지난 3월 7~12일 동안 성인 남녀 1000명을 대상으로 한 조사에서 응답자의 58.9%가 설탕세 부과에 찬성한다고 답했다. 또 ‘담뱃갑에 적힌 흡연 위험성 경고 문구처럼 음료에도 설탕의 위험성을 보여주는 경고 문구를 기재해야 한다’는 논점에 대해서도 응답자 82.3%가 찬성했다.&lt;br&gt;&lt;br&gt;한편 토론회에 참석한 강지아 사단법인 온율 변호사는 “소득 수준과 무관하게 동일한 세율이 적용되니 저소득층 부담이 클 수밖에 없다”며 “세금의 역진성 완화를 위한 제도적 장치에 대한 고민도 병행되어야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경기도 177만 가구 … “나 혼자 산다”</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/24/63ADNTHLPRFXJLIDKBCKIKK44E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/24/63ADNTHLPRFXJLIDKBCKIKK44E/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 08:51:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WGOQV3H2NVAURN7PNMOEJ6K3MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 1인 가구 통계. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도에 사는 1인 가구가 177만 가구를 넘어선 것으로 집계됐다. 경기도의 전체 가구 수가 559만 가구인데, 31.7%가 1인 가구다. 사실상 세 집 중 한 집은 혼자 사는 셈이다.&lt;br&gt;&lt;br&gt;경기도가 24일 발표한 ’2025 경기도 1인 가구 통계’에 따르면, 작년 11월 기준 경기도의 1인 가구는 2023년보다 약 6만 가구가 늘어난 177만 가구다. 경기도는 “전국 1인 가구의 22.1%가 경기도에 거주하는 것으로 조사됐다”고 밝혔다. 도내 1인 가구 수는 2020년 서울시를 추월한 후 계속 증가하는 추세다. 2020년부터 매년 전국 최고치를 경신하고 있다.&lt;br&gt;&lt;br&gt;시군별로는 수원(10.4%), 성남(7.6%), 고양(7.3%), 화성(7.0%), 용인(6.2%) 등 인구 100만명이 넘거나 이에 육박하는 5개 시에 1인 가구가 집중돼 있었다.&lt;br&gt;&lt;br&gt;시군별 전체 가구 대비 1인 가구 비율이 높은 곳은 가평(39.4%), 연천(38.9%), 동두천(38.0%) 등 상대적으로 인구가 적은 곳들이었다. 과천(17.4%), 의왕(23.8%), 남양주(25.8%)는 1인 가구 비율이 상대적으로 낮았다.&lt;br&gt;&lt;br&gt;작년 기준 경기도 1인 가구의 월평균 가구 소득은 ▲100만 원 미만 26.0% ▲100만~200만 원 19.7% ▲200만~300만 원 22.3% ▲300만~400만 원 16.6% ▲400만~500만 원 7.0% ▲500만 원 이상 8.6% 등으로 집계됐다.&lt;br&gt;&lt;br&gt;1인 가구의 주거 면적은 40~60㎡ 이하(36.0%), 20~40㎡(25.5%), 60~85㎡(23.9%) 등의 순으로, 1인 가구의 66.7%는 60㎡ 이하 주거 면적에 거주했다.&lt;br&gt;&lt;br&gt;경기도는 통계청에서 발표한 인구주택총조사와 여성가족부의 가족실태조사, 경기도의 사회조사 등 총 6가지의 다양한 통계를 바탕으로 1인 가구 현황을 재분류한 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대구고법 “포스코지회 기업노조 변경 적법”… 1심 뒤집어</title>
@@ -926,15 +935,6 @@
         <media:description type="plain">도이치모터스 주가조작과 명태균 공천개입, 통일교 청탁·뇌물 수수 의혹 혐의 등으로 구속기소 된 김건희 씨(파면된 전직 대통령 윤석열의 아내)가 24일 오후 서울 서초구 서울중앙지방법원에서 열린 첫 재판에 출석하고 있다. /사진공동취재단</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>흰 에센스 얼굴에 부었다가…이니스프리, 광고 선정성 논란에 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/24/IDVK4GPEW5HZ5HV3XYDNYHUA54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/24/IDVK4GPEW5HZ5HV3XYDNYHUA54/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Sep 2025 05:27:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGE5TSGXPJC73E47E7KKQZHBRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;논란이 된 홍보 영상 장면. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아모레퍼시픽 그룹의 이니스프리는 최근 공개한 신제품 영상 광고가 성적 이미지를 연상시킨다는 지적에 대해 사과하고 관련 영상을 삭제했다. &lt;br&gt;&lt;br&gt;이니스프리는 24일 공식 소셜미디어를 통해 “최근 이니스프리 밀크 에센스 제형을 소개하기 위해 인플루언서와 협업한 영상에 대해 일부 고객들께서 불편함을 느꼈다는 의견을 주셨다”며 “브랜드는 이를 경청해 해당 장면을 삭제했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “고객님의 소중한 의견에 감사드린다”며 “앞으로 이니스프리는 콘텐츠 기획부터 최종 검토까지 전 과정을 더욱 세심하게 점검하며, 고객에게 신뢰받는 브랜드가 될 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 이니스프리는 구독자 42만명을 보유한 여성 인플루언서와 협업해 신제품 ‘그린티 세라마이드 밀크 에센스’ 홍보 영상을 제작했다. &lt;br&gt;&lt;br&gt;영상에는 여성 인플루언서가 흰색 에센스를 얼굴에 붓는 장면이 포함됐다. 여성 얼굴에 흰색 액체가 흘러내리는 장면과 함께 ‘피부가 좋아지는 우유?’라는 자막도 삽입됐다.&lt;br&gt;&lt;br&gt;이와 관련 온라인 커뮤니티와 소셜미디어 등에선 “여성이 주 고객이면서 여성을 희롱하다니 불쾌하다” “여성 고객이 다수인데 왜 이따위로 광고를 만드나” “갑자기 에센스를 얼굴에 붓는 것이 이해가 안 된다” “이걸 기획한 사람은 무슨 생각이었나” 등의 비판이 쏟아졌었다. &lt;br&gt;&lt;br&gt;하지만 일각에선 “이걸 이상하게 생각하는 것이 더 이상한 것 아닌가?” “너무 불편한 것이 많은 것 아닌가?” “억지 주장은 들어주면 안 된다” 등의 반응도 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>글로벌 축구 팬 놀라게 한 ‘아이콘 매치’... “게임 속 꿈의 무대 현실로 옮기고 싶었다” </title>
