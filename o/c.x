@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 검찰총장 대행 “국회의결 존중…형사시스템 공백없도록 최선”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/RYGNSZI4QVANNN5IIWRWB4VSDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/RYGNSZI4QVANNN5IIWRWB4VSDU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 10:07:25 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갈 길 먼 내란 재판부, 김용현 측에 “기피 신청 스스로 취하해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/F24N4M23QFDYPJWV3KXFEAMNO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/F24N4M23QFDYPJWV3KXFEAMNO4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 09:59:59 +0000</pubDate>
+      <content:encoded>내란 사건 재판을 맡은 지귀연 부장판사가 김용현 전 국방부 장관 측에 “재판부 기피 신청을 취하해달라”고 권했다. 김 전 장관 측이 “판사를 교체해달라”는 기피 신청을 내면서 재판이 멈춘 상태인데, 신속한 심리를 위해 피고인 스스로 신청을 거둬들이라는 취지다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7IUCLELJXIIQ5JJZTQJBBA6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난 4월 21일 오전 서울 서초구 서울중앙지법 417호 법정에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 전 언론 공개에 대한 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 26일 김 전 장관 측이 낸 재판부 기피 신청에 대한 심문을 진행했다. 지 부장판사는 “기피 신청 취하서를 내서 가급적 빠르게 (재판을 진행하는 게 어떻냐)”고 김 전 장관 측에 제안했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 지난 18일 재판에서 내란 특검팀이 수사 기록에 가명을 썼다고 문제 제기하면서 재판 중단을 요구했다. 재판부가 이를 받아들이지 않자 김 전 장관 측은 재판부 기피를 신청했다.&lt;br&gt;&lt;br&gt;재판부 기피 신청은 판사가 불공정한 재판을 할 우려가 있을 때 검사나 피고인이 판사 배제를 요구할 수 있는 제도다. 소송 지연 목적으로 기피 신청을 낸 게 명백할 경우, 재판부가 곧바로 신청을 기각할 수 있다. &lt;br&gt;&lt;br&gt;하지만 기피 신청에는 횟수 제한이 없어 사실상 무제한 신청이 가능하다. 설령 재판부가 기각 결정을 내려도, 피고인이 반복 신청하면 재판이 계속 늦춰질 수 있는 것이다. 실제로 김 전 장관 측은 지난 7월 내란 특검의 추가 기소 사건을 맡은 형사34부(재판장 한성진)에 여러 차례 기피 신청을 냈다. 모두 기각됐지만, 그 과정에서 심문 기일이 잇따라 잡히며 재판이 다소 지연됐다. &lt;br&gt;&lt;br&gt;지 부장판사가 기각 대신 취하를 권고한 것도 이런 배경에서 나온 것으로 풀이된다. 불필요한 지연을 막고 재판의 속도를 내기 위해 김 전 장관 측에 협조를 구한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAVVN4NWWVOL7MGOATCNZRFHOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단인 유승수, 이하상(왼쪽) 변호사가 지난 1월 10일 오전 서울 서초구 한 공유오피스에서 기자간딤회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 일단 김 전 장관 측이 기피 신청을 철회한다는 전제 하에, 다음 달 16일 재판을 열고 증인신문을 하기로 했다. 김 전 장관 측은 기일 지정에 이의를 제기하지는 않았지만 “취하를 하라 마라 하는 건 적절하지 않다”며 “간첩이나 좌익사범은 기피신청을 하면 다 받아준다. 간이기각은 적절하지 않다”고 반발했다. 만약 김 전 장관이 기피 신청을 취하하지 않으면, 제3의 재판부가 기피 신청의 타당성을 판단할 때까지 재판은 열리지 않는다.&lt;br&gt;&lt;br&gt;한편 같은 날 대법원은 김 전 장관 측이 낸 ‘관할 이전 신청’을 최종 기각했다. 김 전 장관 측은 “불법 구속을 결정한 재판부(형사34부)에서 공정한 재판을 받을 수 없을 것 같다”며 내란 특검 추가 기소 사건을 상급 법원으로 넘겨달라고 요청했지만 결국 받아들여지지 않았다. 이에 따라 지난달 11일 이후 중단됐던 추가 기소 사건 재판은 곧 재개될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법관회의, ‘대법관 증원’ 토론 끝에 결론 없이 추가 논의</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/XWU7TKFRCRHG7BENNA4E2DNE6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/XWU7TKFRCRHG7BENNA4E2DNE6I/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 09:10:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7S2X4OLNRNNBXFRPEXGYSFYT6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국법관대표회의가 대법관 증원을 비롯한 ‘상고심 제도 개선’에 관해 결론을 내리지 않고 추가적인 논의를 이어가겠다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;법관대표회의는 이날 보도자료를 통해 “전날(25일) ‘상고심 제도 개선’ 토론회에서 대법관 증원안과 대법관 추천 방식 개선안에 대해 심도 깊은 논의를 진행했다”며 “토론회의 다양한 논의를 포함한 연구 결과는 법관대표회의에 보고될 예정”이라고 했다. 이어 “정기 회의에서 (상고제 관련) 정식 의안을 발의할지는 미정이지만, 향후 관련 주제에 대한 연구와 논의를 이어갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;법관대표회의 ‘재판 제도 분과위원회’ 주최로 온·오프라인에서 열린 이번 토론회에는 법관과 외부 전문가 50명이 참석했다. 대법관 증원안과 대법관 추천 방식에 대해 지정된 토론자가 의견을 밝히고, 법관들이 자유롭게 발언하는 형식이었다.&lt;br&gt;&lt;br&gt;먼저 토론자로 나선 김주현 대한변호사협회 정책이사는 대법관 증원이 필요하다고 주장했다. 김 변호사는 “지난 수십 년간 경제 규모가 성장하거나 사건이 다양해진데 비해 대법관 수만 큰 차이가 없다”며 “소송 당사자나 일반 국민들은 공정하고 권위 있는 재판을 받는 것이 중요한 문제라 증원을 통한 상고심의 병목 현상이 완화돼야 한다”고 말했다. 김 변호사는 또 “대법관 증원 요구가 특정 후보자에 대한 판결 때문에 촉발되었다는 것은 오해”라며 “대법관 증원이 정치적 문제라는 관점에서 벗어나 상고제도 개선의 필요성에 집중해 논의해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;반면 이헌환 아주대 법학전문대학원 교수는 “대법관 증원보다 사법권이 어떻게 행사되는지가 중요하다”며 “사법권 행사는 국민의 규범적 의지와 의사에 위배되어서는 안 된다”고 강조했다. 이어 “사법부 구성 자체에 민주성이 실현된다면 대법관 증원이나 대법관 임명 방식 등은 부수적인 문제가 될 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;토론회에 참여한 판사들은 “대법관 증원은 장단점을 종합적으로 봐야 한다” “증원해도 대법원의 위상과 권위는 추락하지 않을 것” “일선 법관 처우 개선, 증원이 병행돼야 하급심 약화를 피할 수 있다” 등 의견을 냈다.&lt;br&gt;&lt;br&gt;대법관 임명 방식에 대해서는 대법관 후보 추천위원회가 좀 더 다양하게 구성돼야 한다는 목소리가 나왔다. 유현영 수원지법 여주지원 부장판사는 “대법관 구성을 다양화하기 위해 추천위원들의 인적 구성을 여성, 노동, 환경, 인권, 장애 등 각 분야 대표들로 다양화해야 한다”고 했다. 또 추천위가 논의 과정에 기록한 내용과 검증 자료 등을 적극 공개해 실질적 의견 수렴을 해야 한다고도 주장했다.&lt;br&gt;&lt;br&gt;이에 대해 “후보 추천위에 들어가는 법관 위원이 사명감을 갖고 참여한다면 의미 있는 역할이 가능하다” “법관이 아닌 대법관 후보자에 대해서는 법원 내 정보가 적은 만큼 학계나 대한변협이 적극 의견을 제시해 줘야 한다”는 판사들의 제언이 있었다.&lt;br&gt;&lt;br&gt;재판 제도 분과위원회가 상고심 개선 논의와 연구를 추가 진행한 뒤, 올해 12월로 예정된 정기 회의에 정식 안건으로 발의할 가능성도 있다. 대법관 증원이 안건으로 상정되면 일선 법원 법관 대표들이 찬반 투표를 하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청소년들 난청 위험 심한데, 제대로 된 검사는 안 돼</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/26/QNB7MNHEDZCVJF72RN4NWM76RI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/26/QNB7MNHEDZCVJF72RN4NWM76RI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 09:04:12 +0000</pubDate>
+      <content:encoded>중학생 A군은 학교 쉬는 시간에, 버스·지하철을 탈 때마다 귀에 이어폰을 끼고 있다. 하루 2시간 이상 음악을 듣는다. 지하철에선 소리가 잘 안 들려 볼륨을 더 높인다. 시끄러운 곳에서 이어폰을 장시간 사용하면 ‘난청’ 위험이 커진다. 하지만 A군은 “특별히 문제가 된다고 생각해 본 적은 없다”고 했다.&lt;br&gt;&lt;br&gt;청소년 등 젊은층에서 ‘난청’의 위험이 커지고 있다. 소리를 듣는데 어려움을 겪는 ‘난청’은 노년층에서 주로 나타난다고 생각하기 쉽다. 하지만 게임과 휴대전화 사용 연령이 갈 수록 낮아지면서 젊은층의 청력 손실 위험이 커지고 있다. &lt;br&gt;&lt;br&gt;건강보험심사평가원 자료에 따르면 2018년 돌발성 난청 환자 수는 8만4049명에서 2022년 10만474명으로 약 23% 증가했다. 특히 같은 기간 20대는 8240명에서 1만1557명으로 40%이상 급증했다.&lt;br&gt;&lt;br&gt;전문가들은 시끄러운 곳에서의 이어폰 사용, PC방 이용 등이 귀에 악영향을 준다고 말한다. 한국갤럽이 발표한 ’2024년 스마트폰 사용 현황’에 따르면 현재 국내 무선이어폰 사용률은 59%로 10명 중 6명이 사용 중이다. 20~30대는 80%, 60대는 47%가 사용하고 있다. PC방의 경우 소음 수준이 80~89데시벨(dB)에 달한다. 특히 총소리나 폭발음 등 순간적인 충격음은 최대 119데시벨까지 올라갈 수 있다. 장시간 노출될 경우 청력 손실 위험이 올라간다.&lt;br&gt;&lt;br&gt;특히 청소년들의 경우 제대로 검사도 이뤄지지 않고 있다. 학교에서 건강검진을 할 때 청각 검사를 하긴 하지만, 1000Hz 단일 주파수만 검사해서 소음성 난청의 특징인 ‘고주파수 난청’은 발견할 수 없다. 심지어 청력 검사 결과를 학생건강기록부(나이스)에 기재하지 않는다. &lt;br&gt;&lt;br&gt;고려대 안암병원 이비인후과 장지원 교수는 “과거 연구에서 15% 넘는 청소년이 최소 청력 손실 수준이라는 연구 결과도 있었다”면서 “체계적으로 조사해서 어릴 적부터 귀 관리를 해야 한다”고 말했다. 세계보건기구(WHO)는 전 세계적으로 10억명 이상의 청년층이 난청 위험에 노출된 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5234N3UMRCFGREHPJ2A2I7FDIQ.jpg?auth=896fefac7ce0449e16d42ef180c687108beb6f384253ab3252a0e97c78b645d3&amp;smart=true&amp;width=601&amp;height=400" type="image/jpeg" height="400" width="601">
+        <media:description type="plain">난청 환자 이미지. /조선DB</media:description>
+        <media:credit role="author" scheme="urn:ebu">조선DB</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“분당만 정비 물량 제한, 형평성 어긋나”…성남시, 국토부 방침에 반발</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/26/V5AMQWQGOJAFXPLGUVQBLNU6F4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/V5AMQWQGOJAFXPLGUVQBLNU6F4/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 08:40:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RK46DA7GYG2G3TZLPYLOGSLT4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 분당신도시 아파트 단지. /땅집고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 1기 신도시 정비사업 추진 과정에서 이주 수요를 이유로 분당의 정비사업구역 지정 물량을 제한하기로 하자, 성남시가 “불합리한 조치”라며 강하게 반발하고 나섰다.&lt;br&gt;&lt;br&gt;국토교통부는 26일 ‘1기 신도시 정비사업 후속 추진방안’을 발표하며 생활권 내 이주대책 시나리오를 근거로 5개 신도시 가운데 분당(성남시)에만 연차별 정비사업 물량 및 이월을 제한한다고 밝혔다. 나머지 일산·중동·평촌·산본 등 4곳은 이주 수요를 감당할 여력이 충분하다는 이유에서다.&lt;br&gt;&lt;br&gt;이에 대해 성남시는 “분당만 예외로 제한하는 것은 형평성에 맞지 않는다”며 반발했다. 시에 따르면 올해 정비구역 지정 예정 물량 1만2000가구(2024년 선정된 선도지구)를 연내 지정하지 못하면 내년으로 이월이 불가능해 사업 추진이 차질을 빚게 된다.&lt;br&gt;&lt;br&gt;성남시 관계자는 “이번 발표는 분당 재건축을 위축시키는 결정으로 국토부가 지난 9·7 주택 공급 확대 방안에서 밝힌 취지와도 정면으로 배치된다”고 했다.&lt;br&gt;&lt;br&gt;성남시는 또 국토부가 제시한 ‘이주대책 부족’의 근거가 사실과 다르다고 지적했다. 시는 지난해 5월부터 국토부 장관에게 이주단지 지원을 요청했으며, 같은 해 9월과 12월에도 재차 건의했다. 개발제한구역 중 보전 가치가 낮은 지역을 해제해 이주단지를 조성하자는 대안도 제시했지만, 국토부가 “2029년까지 공급이 어렵다”며 거부했다는 것이다.&lt;br&gt;&lt;br&gt;국토부는 앞서 지난해 12월 분당구 야탑동에 1500가구 규모 공공분양 이주단지를 2029년까지 공급하겠다고 발표했지만, 주민 반발과 성남시의 부정적 입장으로 무산된 바 있다.&lt;br&gt;&lt;br&gt;신상진 성남시장은 “정부의 이주대책 부실이 원인인데 그 부담을 지자체에 떠넘기는 결정”이라며 “결합개발 관련 법령 개정과 이주단지 재검토가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘회삿돈 유용’ 메디콕스 임직원 7명 추가 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/4CXNCNDMP5EL7LMZAHRQLN5I5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/4CXNCNDMP5EL7LMZAHRQLN5I5I/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 08:33:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUWLGOZ7W75TOPO4O6XZHAVU6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;메디콕스 CI./메디콕스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 반부패수사3부(부장 김봉진 직무대리)는 제이앤케이인더스트리(에이아이비트)와 메디콕스 무자본 인수 사건과 관련해 회사 자금 약 8억6000만원을 빼돌린 메디콕스 임직원 7명을 업무상 횡령 등의 혐의로 불구속 기소했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 회사에 허위 직원을 등재하고 급여 명목으로 회삿돈을 챙기고, 법인카드를 임의로 사용한 것으로 조사됐다. 검찰은 지난 7월에도 법인 자금 520억원을 유출한 혐의 등으로 메디콕스 부회장 박모씨와 이모씨를 구속 기소했다. &lt;br&gt;&lt;br&gt;또한 검찰은 도주한 회장 A씨와 B씨는 기소중지하고 구속영장을 발부받아 추적하고 있다. 우선 서울 강남 아파트, 고급 승용차, 임대차보증금반환채권, 회원권 등 약 51억원 상당의 이들 재산을 추징보전했다.&lt;br&gt;&lt;br&gt;A씨와 B씨의 범행으로 제이앤케이인더스트리는 2021년 10월 상장 폐지됐고, 메디콕스는 현재 상장폐지 심사가 진행 중이다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “건실한 기업이 기업 사냥꾼에 의해 부실화해 직원 및 선의의 투자자가 피해를 보지 않도록 관련 범죄에 무관용 원칙으로 대응할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>포항시, 중앙상가 빈 건물에 도심 공유 캠퍼스 만든다</title>
+      <link>https://www.chosun.com/national/regional/2025/09/26/NJCXKUR3HRA33CFSKSFLMXVSJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/26/NJCXKUR3HRA33CFSKSFLMXVSJE/</guid>
+      <dc:creator>포항=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 08:32:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3GDYFKU2MAHDSGUQ3C4N7CPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포항시, 중앙상가 빈 건축물 모집…'POBATT 공유 캠퍼스' 조성./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포항시가 경기 침체로 어려움을 겪는 구도심 빈 상가에 청년들이 모이는 도심 공유 캠퍼스 조성에 나섰다. &lt;br&gt;&lt;br&gt;포항시는 중앙상가(옛 포항역~육거리) 내 빈 건축물을 대상으로 ‘POBATT 도심 공유캠퍼스 조성사업’ 대상지를 모집한다고 26일 밝혔다. 3년 이상 무상 임대가 가능하고, 면적 700㎡ 이상을 갖춰야 한다. &lt;br&gt;&lt;br&gt;신청을 희망하는 건물주는 다음 달 17일까지 포항시 배터리첨단산업과로 신청하면 된다. 신청 관련 서류는 포항시 홈페이지에서 내려받을 수 있다. &lt;br&gt;&lt;br&gt;선정된 건축물은 리모델링을 거쳐 도심 강의실·실습실·커뮤니티 공간 등 배터리 특화 교육 및 교류 공간으로 활용된다. 포항시는 배터리 아카데미 남부권 캠퍼스나 배터리 특성화 대학원 등을 운영하기 위해 지역 대학과 접촉하고 있다.&lt;br&gt;&lt;br&gt;포항시는 이를 통해 구도심에 청년 유동 인구를 늘리고 상권 활력을 불어넣어 지역 경제 회복에도 이바지할 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;이번 사업을 시작으로 포항시는 구도심 유휴 공간을 교육·주거·문화가 결합된 청년 친화형 공간으로 재편해 2030년까지 이차전지 분야 핵심 인재 1만명을 양성할 계획이다. 5000명 이상 청년 유동 인구 유치를 목표로 청년 친화형 프로그램을 지속적으로 확대할 방침이다.&lt;br&gt;&lt;br&gt;포항시 관계자는 “포항의 구도심을 혁신 공간으로 전환하는 이번 사업은 지역 청년들의 미래와 글로벌 배터리 산업의 중심지로 도약하는 중요한 기반이 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원, ‘검단 아파트 철근 누락’ GS건설 “1개월 영업정지 부당”</title>
       <link>https://www.chosun.com/national/court_law/2025/09/26/3JGKKJBLSNH7RBWSGSX4SW2VCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/3JGKKJBLSNH7RBWSGSX4SW2VCI/</guid>
@@ -875,33 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNOPGGEFL5DAZKSKAGDITNP2LU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 대구 달서구의 대구학생문화센터에서 대한민국 교육수도 대구 선포 10주년 기념 행사가 열렸다. 강은희 대구교육감이 축사를 하고 있다. /대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시교육청이 25일 대구학생문화센터에서 ‘대한민국 교육수도 대구’ 선포 10주년 기념식을 개최했다. 대구교육청은 지난 2015년 10월 “대구가 대한민국 교육의 중심지가 되겠다”는 취지로 교육수도를 선포한 바 있다.&lt;br&gt;&lt;br&gt;이날 행사에는 강은희 대구교육감, 김정기 대구시장 권한대행, 우동기 전 지방시대위원회 위원장 등 1300여 명이 참석했다. 기념 공연 이후 이어진 ‘10년의 여정’에선 교육 수도 선포 이후 지난 10년간 대구 교육 정책의 변화를 학생·교사·학부모 등이 경험담으로 풀어냈다. &lt;br&gt;&lt;br&gt;첫 번째 주제인 ‘수업과 평가를 바꾸기 위한 도전’에선 토론 중심 수업인 국제 바칼로레아(IB) 도입과 국내 최초, 최대 규모 IB 월드스쿨 운영 사례 등이 꼽혔다. 대구 지역에선 지난 2018년 IB 도입 이후 올해까지 IB 월드스쿨 32교가 조성됐다. &lt;br&gt;&lt;br&gt;두 번째 주제인 ‘아이 중심, 교실 중심 교육’ 사례로는 전국 최초로 심리·상담 관련 교육인 ‘마음교육’을 도입한 부분과, 학생을 존중하는 ‘다품교육’, ‘체험교육’ 등이 소개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WZD6ON4YJRGFHN3FDWRDIUX37U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 대구 달서구의 대구학생문화센터에서 대한민국 교육수도 대구 선포 10주년 기념 행사가 열렸다. /대구시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 밖에도 전국 최초 교육권보호센터 운영, 늘봄학교 운영 사례 등과 대구형 서·논·구술형 평가시스템 구축, 학생 맞춤형 소프트웨어·인공지능(AI) 교육 정책 등이 소개됐다.&lt;br&gt;&lt;br&gt;대구교육청이 시민 등 5696명을 상대로 실시한 설문 결과에서는 대구 시민으로서 가장 자긍심을 느끼는 분야에 교육이 21.2%로 1위를 차지하기도 했다. &lt;br&gt;&lt;br&gt;강은희 대구시교육감은 “대한민국 교육 수도 대구 선포 10주년을 맞아서 이제는 세계가 주목하는 ‘글로벌 교육 수도 대구’로 나아갈 수 있도록 최선을 다해 교육을 혁신하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“아이가 보는 앞에서...” 전처 살해 이집트인, 항소심도 징역 20년</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/25/TKNOCQHFIVFT7BT63CRZNEKILI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/25/TKNOCQHFIVFT7BT63CRZNEKILI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 06:35:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZX3VZ44ZLHRFBOQR6N4Y7CLWKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주시 흥덕구의 한 아파트에서 말다툼 끝에 이혼한 전처에게 흉기를 휘둘러 숨지게 한 혐의를 받는 이집트인 A(34)씨가  청주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어린 자녀가 있는데도 재결합을 거절했다는 이유로 전처를 무참히 살해한 이집트인이 항소심에서도 징역 20년을 선고받았다. &lt;br&gt;&lt;br&gt;대전고등법원 청주재판부 형사1부(박은영 부장판사)는 25일 살인 혐의로 재판에 넘겨진 A(35)씨의 항소심에서 피고인과 검찰의 항소를 모두 기각하고, 원심과 같은 징역 20년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 10월 26일 오전 6시 53분쯤 전부인 B(36·한국 국적)씨가 거주하는 청주시 흥덕구의 한 아파트에서 흉기를 휘둘러 B씨를 살해한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 남자친구가 생겨 재결합 의사가 없다고 말한 데 격분해 이같이 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;당시 A씨는 어린 자녀 2명의 양육 문제로 수일 전부터 B씨 집에서 지내오고 있었다. 범행 당시 아이들도 집 안에 있었으며, 심지어 자녀 중 한 명은 범행 장면을 목격한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 어린 자녀들이 보는 앞에서 피해자인 전 부인을 잔혹하게 살해했다”며 “여러 사정을 종합해 봤을 때 원심의 형이 무겁다고 볼 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여고생 얼굴에 성행위 도구 합성사진 SNS에 유포...경찰 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/09/25/AUOHYET32ZFPBP4AAU4MM357LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/25/AUOHYET32ZFPBP4AAU4MM357LY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 06:30:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ENHMNXNMNHKHPCT6LHVMPJQRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 현판. /인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여고생들의 얼굴에 성행위 도구를 합성한 사진이 SNS(사회관계망서비스)에 유포돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천경찰청 사이버범죄수사대는 성폭력범죄의 처벌 등에 관한 특례법상 허위 영상물 편집·반포 등 혐의로 고등학생 A군을 수사하고 있다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 앞서 지난달 말 고등학생 B양 등 피해자 4명으로부터 고소장을 접수했다. &lt;br&gt;&lt;br&gt;피해자들을 조사한 경찰은 법률 검토, 관련 증거 수집 등 절차를 거친 뒤 A군을 조사할 예정이다. &lt;br&gt;&lt;br&gt;B양 등은 A군이 딥페이크 기술로 자신들의 얼굴과 성행위 도구를 합성한 사진을 온라인에 유포해 큰 정신적 피해를 봤다고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “증거 확보 등 관련 절차를 진행하고 있다”며 “구체적인 수사 내용은 확인해주기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30일 전 예고 없이 해고해 놓고 수당 안 준 사업주 처벌 받나</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/25/XJJJS5MIIJCPVJS2YBWF5FUJYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/25/XJJJS5MIIJCPVJS2YBWF5FUJYA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 06:25:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIR4LE4YNYHLCU5S7YAW7IDEEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고용노동부 청주지청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해고 예고수당을 지급하지 않은 사업주가 처벌을 받게 될 처지에 놓였다.&lt;br&gt;&lt;br&gt;고용노동부 청주지청은 근로자에게 해고 예고수당을 지급하지 않은 혐의(근로기준법 위반)로 자동차 수리업자 50대 A씨를 불구속 송치했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 자신이 운영하는 자동차 수리점에서 일하던 근로자 B씨를 사전 예고 없이 해고했다. 그러면서 290만원의 해고 예고 수당을 지급하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;근로기준법에는 30일 전 예고 없이 근로자를 해고할 경우 사업주가 근로자에게 30일분의 통상임금을 지급하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;한편 고용노동부청주지청에 따르면 올해 충북의 체불임금 규모는 8월 기준 446억원으로 지난해 같은 기간보다 23％ 증가했다. &lt;br&gt;&lt;br&gt;이에 청주지청은 내달 2일까지 임금 체불 집중 지도 기간을 운영하고 고액·상습 임금 체불 사업장에 대해 엄정하게 수사할 방침이다. &lt;br&gt;&lt;br&gt;청주지청 관계자는 “지난 8월까지 임금 체불이나 소환 불응으로 총 13명의 사업자가 체포됐다”며 “임금 체불은 근로자의 생계를 위협하는 만큼 강제 수사와 경제적 제재를 총동원해 청산을 지도하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산국제록페스티벌에 무장애 구역 2곳 운영...‘2028 세계디자인수도 부산’ 홍보도 </title>
       <link>https://www.chosun.com/national/regional/2025/09/25/B27CAI27TJD6HBK5GDITGFQDYE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/25/B27CAI27TJD6HBK5GDITGFQDYE/</guid>
@@ -911,33 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F36XWYR6SZH5PJO3Q6SXYWQ3F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무장애 구역 내부에 설치한 2028 세계디자인수도(WDC) 부산을 소개하는 입간판 모습. /부산시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 26일부터 3일간 열리는 부산국제록페스티벌에서 무장애 구역(배리어 프리 존) 2곳을 운영한다.&lt;br&gt;&lt;br&gt;무장애 구역은 부산국제록페스티벌 주 무대인 ‘삼락스테이지’와 대중성이 높은 ‘리버스테이지’에 각각 1곳씩 설치된다.&lt;br&gt;&lt;br&gt;장애인과 노약자는 이 곳에서 편하게 공연을 즐길 수 있다.&lt;br&gt;&lt;br&gt;무장애 구역 내부에는 2028 세계디자인수도(WDC) 부산을 소개하는 입간판이 설치된다. QR코드를 관련 자료도 확인할 수 있다. &lt;br&gt;&lt;br&gt;경사로·난간 등 구조물에도 세계디자인수도 메시지를 담아 알린다. 앞서 세계디자인기구(WDO)는 지난 11일(한국 시각) 영국 런던에서 총회를 열고 부산시를 2028년 세계디자인수도로 선정했다.&lt;br&gt;&lt;br&gt;고미진 부산시 미래디자인본부장은 “이번 부산국제록페스티벌 무장애 구역(배리어프리존) 조성은 다양한 행사와 도시 공간에 ‘모두를 위한 디자인’이 확산되는 계기가 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“성공 열쇠는 간판 아닌 ‘실력’… 뚜렷한 가치관 세우세요”</title>
-      <link>https://www.chosun.com/site/data/html_dir/2013/01/06/2013010600835.html</link>
-      <guid isPermaLink="true">https://www.chosun.com/site/data/html_dir/2013/01/06/2013010600835.html</guid>
-      <dc:creator>오선영 맛있는공부 기자</dc:creator>
-      <description>요즘 학교의 주역은 단연 여학생, 일명 '알파걸'이다. 그들은 하나같이 전 세계를 무대로 활약하는 '파워 우먼(power woman)'을 꿈꾼다. 하지만 학교 성적 좀 좋다고 모두가 파워 우먼 자릴…</description>
-      <pubDate>Sun, 06 Jan 2013 18:02:22 +0000</pubDate>
-      <content:encoded>요즘 학교의 주역은 단연 여학생, 일명 ‘알파걸’이다. 그들은 하나같이 전 세계를 무대로 활약하는 ‘파워 우먼(power woman)’을 꿈꾼다. 하지만 학교 성적 좀 좋다고 모두가 파워 우먼 자릴 꿰차는 건 아니다. 갈수록 좁아지는 대학 입시와 취업난의 양대 벽에 부딪혀 꿈은 오히려 좌절되기 십상이다. 이들이 진정한 파워 우먼으로 성장하려면 어떤 노력이 필요할까? 맛있는공부는 지난달 24일 국내 대학 졸업 후 글로벌 기업에 입사해 승승장구하는 파워 우먼 3인과 고교 2년생 ‘알파걸’ 3인의 만남을 주선했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇교환학생·영어 강좌 등 적극 활용해 정면 돌파&lt;/b&gt;&lt;br&gt;&lt;br&gt;알파걸 3인은 ‘국내 대학 졸업 여성이 글로벌 기업에 입성한 비결’을 가장 궁금해했다. 이들에게 글로벌 기업 입사의 발판이 된 건 ‘교환학생 제도’였다. 이지연씨는 “대학 입학 당시부터 교환학생 선발을 염두에 두고 학점·토익 성적을 관리했다”고 설명했다. 그 결과, 대학 2학년 2학기 때 캐나다 요크대 슐릭비즈니스스쿨에서 수학할 수 있었다. “교환학생을 떠나기 전 1년간 영어를 정말 열심히 공부했어요. 하지만 막상 현지 학교 첫 수업 땐 한마디도 제대로 알아듣지 못했죠. 충격이 컸습니다. 이후 듣기 기본부터 시작, 부단한 노력으로 10개월 만에 경영학 수업을 이해하고 팀 프로젝트를 무리 없이 해낼 정도의 영어 실력을 갖췄어요. 그때 얻은 자신감과 성취감은 새로운 일에 도전할 수 있는 원동력이 됐죠.”민유주씨는 “글로벌 기업 입사를 좌우하는 건 국내 명문대 졸업장이 아니라 자신의 실력”이라고 강조했다. “전 대학 때 평균 학점이 4.0이었고 장학금까지 받았어요. 하지만 미국 로펌에 이력서를 냈을 때 면접관은 제 모교를 그리 대단하게 보지 않았죠. 한국 대학에 대해 알지 못했거든요. 해외 기업으로 눈을 돌리면 서울 명문대나 지방대나 별 차이가 없다는 뜻이에요. 어느 대학이든 교환학생 제도도, 영어 강좌도 있죠. 그걸 최대한 활용해 실력을 쌓는다면 누구든 글로벌 기업 입사 관문을 뚫을 수 있습니다.”김성민씨는 과학고 조기 졸업 후 카이스트에 진학할 정도로 성적이 우수했지만 정작 대학에 들어간 후 진로를 정하지 못해 한 차례 휴학까지 하며 갈팡질팡했다. 그는 “고교 시절 ‘공부는 왜 해야 하는 건지’에 대한 고민 한 번 없이 공부만 했던 게 문제”라고 설명했다. 진로 결정이 늦어지는 바람에 그는 4학년 2학기가 돼서야 프랑스 그랑제콜로 교환학생을 떠날 수 있었다. “지금 고교생인 후배들은 학교 공부나 입시 때문에 할 수 있는 게 없다고 생각하겠지만 주위를 둘러보면 고교생 신분으로 참여할 수 있는 프로그램도 꽤 많아요. 여러 가지를 경험하면서 본인이 잘하고 좋아하는 것, 보완해야 할 것 등을 찾고 노력한다면 미래는 달라질 거예요.”&lt;br&gt;&lt;br&gt;&lt;b&gt;◇충실히 공부하면 ‘꿈’ 선택의 폭 넓어져&lt;/b&gt;&lt;br&gt;&lt;br&gt;파워 우먼 3인은 ‘삶의 방향과 가치관만 뚜렷하면 고교 시절 꿈은 다소 두루뭉술해도 상관없다’고 여긴다. 민유주씨는 “자신이 꿈꾸는 삶이 무엇인지부터 생각해야 한다”고 조언했다. “진로를 정할 때 가장 중요한 건 본인의 생각이에요. 누가 시켜서 갖게 된 꿈은 사소한 역경에도 스러지기 쉽거든요. 고교 시절 전 주말마다 서점 구석에 쭈그리고 앉아 온갖 책을 읽으며 제게 맞는 분야를 찾았어요. 동시통역사·외교관·국제변호사처럼 ‘국제적 업무를 해내는 전문가’가 되고 싶었죠. 국제변호사란 구체적 목표를 가진 건 대학 진학 이후였고요.”이지연씨의 생각도 민씨와 비슷하다. “꿈은 대학 진학 이후에도 얼마든지 변할 수 있어요. 고교생인 지금 공부에 집중해야 하는 이유도 바로 거기 있죠. 공부를 충실히 해두면 훗날 새로운 꿈을 갖게 될 때 선택의 폭이 훨씬 넓어지고 실현 가능성도 커지니까요.”&lt;br&gt;&lt;br&gt;&lt;b&gt;◇영어? 발음보다 고급 어휘 구사력이 중요&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 후배들은 외국어, 특히 영어 학습에 대한 걱정을 털어놨다. 하지만 세 명의 선배는 “영어에서 정말 중요한 건 발음이 아니라 고급 어휘 구사력이며 대학에서도 얼마든지 계발할 수 있다”고 입을 모았다.“중학교 3년을 미국에서 보냈지만 당시 배운 영어는 생활 회화 수준에 불과했어요. 그래서 대학 입학 후엔 영어 강의를 일부러 찾아 듣고, 한국어 강의도 영어 원서 교재로 공부했죠. 시험 답안도 교수님에게 양해를 구한 후 영어로 작성했고요. 교내 소규모 영어 토론 모임을 결성, 활동하기도 했습니다.”(민유주) “고 3 때 ‘해외 기업에서 일하겠다’는 꿈을 가진 이후 줄곧 미국 드라마로 영어 회화를 익혔어요. 알아듣지 못해도 네댓 번 이상 돌려 보며 듣기 능력부터 키웠죠. 좋아하는 미국 배우의 억양과 말투를 똑같이 따라 말하는 훈련도 계속했습니다.”(이지연)인터뷰 말미, 세 사람은 후배들에게 “글로벌 기업에서 가장 어려운 점은 ‘영어 실력(혹은 전문 지식) 부족’이 아니라 ‘문화적 차이에서 비롯되는 오해’”란 설명과 함께 ‘열린 마음’을 주문했다. 특히 김성민씨는 “글로벌 기업에서 일하려면 폭넓은 세계관 아래 다양한 문화를 이해하는 유동적 사고를 갖는 게 가장 중요하다”고 귀띔했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘산·자연·인간’ 잇는 아시아 유일 국제 산악영화제</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/25/L2UU727BCVB5XABC33H3NRSMLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/L2UU727BCVB5XABC33H3NRSMLI/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 06:43:07 +0000</pubDate>
-      <content:encoded>제10회 울산울주세계산악영화제(UMFF·집행위원장 엄홍길)가 오는 9월 26일부터 30일까지 울산 울주군 영남알프스 복합웰컴센터 일원에서 열린다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAOKLVI2ZNO5XLO5FQJADABXEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월20일 울산광역시청에서 열린 울산울주세계산악영화제(UMFF) 개·폐막작 발표 기자 회견장에 참석한 김두겸 시장(왼쪽 두 번째), 이순걸 영화제 이사장 겸 울주군수(오른쪽), 엄홍길 집행위원장(맨 왼쪽), 배우 권유리(영화제 홍보대사). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해로 10주년을 맞은 영화제는 ‘산·자연·인간’을 잇는 아시아 유일의 국제 산악영화제로, 지난 10년의 성과를 돌아보고 미래 비전을 제시하는 자리로 꾸려진다.&lt;br&gt;&lt;br&gt;올해는 43개국에서 110편의 작품이 출품됐으며, 개막작으로 ‘걸 클라이머’가 상영된다. ‘걸 클라이머’는 산악 등반이라는 극한의 환경 속에서 생존을 위해 싸우는 여성 등반가의 치열한 여정과 도전 정신을 조명한 영화다. &lt;br&gt;&lt;br&gt;이번 영화제에서는 ‘10년, 10편’의 특별 섹션을 마련, 지난 10년간 영화제가 소개한 작품 중 대표작들을 다시 만날 수 있도록 했다. 또 국제 교류의 장을 마련한다는 취지에서 세계에서 가장 오래된 산악영화제인 이탈리아 트렌토(알프스산맥과 아디제 계곡 사이에 있는 이탈리아 북부 트렌티노알토아디제주의 중심 도시)영화제의 수작들을 엄선해 소개하는 ‘헬로, 트렌토!’ 섹션도 마련했다. &lt;br&gt;&lt;br&gt;그리고 영화 속 메시지를 현실과 연결하는 토크 프로그램 ‘자연에서 이야기하다’ 는 올해 특별히 관심을 끄는 대목이다.&lt;br&gt;&lt;br&gt;영화제의 하이라이트 중 하나는 울산울주세계산악문화상(UMCA) 수상자로 선정된 ‘산악계의 전설’ 라인홀트 메스너의 참가다. 그는 에베레스트 최초 무산소 등정을 비롯해 세계 최초로 히말라야 8000m급 14좌를 완등한 인물이다. &lt;br&gt;&lt;br&gt;산악계의 살아있는 전설인 메스너는 1974년 이래 80여 권의 책을 썼으며, 2003년부터 메스너 산악박물관을 설립·운영하고 있다. 또 고산지대 주민들을 후원하는 라인홀트메스너재단을 운영 중이다.&lt;br&gt;&lt;br&gt;엄홍길 UMFF 집행위원장은 “메스너의 수상은 울산울주세계산악영화제가 세계 산악문화의 중심지로 자리 매김하고 있음을 상징한다”며 “올해 영화제는 “자연과 인간의 공존, 도전과 치유의 메시지”를 주제로, 영화가 단순한 영상예술을 넘어 삶과 사회를 성찰하게 하는 통로임을 다시금 확인시킬 것으로 기대된다”고 했다.&lt;br&gt;&lt;br&gt;또 “올해는 국제경쟁 작품 공모에 71개국 996편이 접수돼 역대 최다 출품을 기록했는데 이는 영화제의 국제적 위상이 더욱 높아지고 있다는 것을 증명한다”고 했다. &lt;br&gt;&lt;br&gt;이번 영화제 기간 울주군 곳곳에서 영화 상영과 함께 체험 행사가 펼쳐져 지역 주민과 관광객들이 함께 어울리는 축제의 장이 될 전망이다. &lt;br&gt;&lt;br&gt;산·자연·인간을 중심으로 한 영화를 통해 도전과 치유의 메시지를 전하는 울산울주세계산악영화제의 상영작 티켓 예매 및 프로그램에 대한 자세한 정보는 영화제 공식 홈페이지(https://www.umff.kr/kor/default.asp)에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기아 한준수, ‘맥심 완판녀’ 前치어리더 김이서와 깜짝 결혼 발표</title>
-      <link>https://www.chosun.com/national/people/2025/09/25/SVT4TEE2B5DQJI3EU2AVTB7IFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/SVT4TEE2B5DQJI3EU2AVTB7IFQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 06:40:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FETBCE27HJADVI5S3G2HWMN2LI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KIA 타이거즈 포수 한준수와 전 LG 트윈스 치어리더 김이서. /한준수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KIA 타이거즈 포수 한준수(26)가 전 LG 트윈스 치어리더 김이서(25)와의 결혼을 깜짝 발표했다. &lt;br&gt;&lt;br&gt;25일 한준수는 자신의 소셜미디어를 통해 “마운드 위 투수에게 든든한 포수가 필요하듯, 제게는 그 어떤 역경과 고난 속에서도 흔들리지 않고 지켜준 든든한 동반자가 있다”며 “이제 그 소중한 사람과 평생의 팀을 꾸리려 한다”고 했다. &lt;br&gt;&lt;br&gt;한준수는 “야구 선수로서 늘 든든한 포수가 되려고 노력했던 것처럼 이제는 한 사람의 남편으로서, 그리고 한 가정의 가장으로서 그녀의 인생을 가장 가까이에서 지켜주는 든든한 사람이 되겠다”며 “저희의 새로운 시작을 따뜻하게 축복해 달라. 남은 시즌 마지막까지 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XJDNJQVUDFGUPIUGHO4M62SZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KIA 타이거즈 포수 한준수와 전 LG 트윈스 치어리더 김이서. /한준수 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한준수는 지난 2018년 KIA 타이거즈에 입단한 후 지난해 115경기에서 타율 0.307, 7홈런, 41타점, OPS 0.807을 기록했다. 올해는 98경기에 출전해 주전 포수로 활약 중이다.&lt;br&gt;&lt;br&gt;김이서는 2016년 프로농구 안양 KGC인삼공사에서 치어리더로 데뷔해 지난 2023년부터 지난 시즌까지 LG 트윈스 치어리더로 활동했다.&lt;br&gt;&lt;br&gt;김이서는 지난 2023년에는 남성 매거진 맥심 표지를 장식했고, 매거진이 완판돼 ‘맥심 완판녀’라는 수식어를 얻었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 26일 윤석열 ‘체포 방해 혐의’ 첫 재판 중계 허용</title>
       <link>https://www.chosun.com/national/court_law/2025/09/25/ORXEGRC245GYNNVVYZMNDFS5A4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/ORXEGRC245GYNNVVYZMNDFS5A4/</guid>
@@ -945,15 +958,6 @@
       <description/>
       <pubDate>Thu, 25 Sep 2025 03:49:51 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRJRC3G7VFP63FDLD3GNVTBP4I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 4월 21일 서초동 서울중앙지법에서 열린 내란 우두머리 혐의에 대한 두 번째 정식 재판에 출석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 오는 26일 열리는 윤석열 전 대통령의 ‘체포 방해’ 등 혐의 첫 재판을 영상 중계하기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 26일 오전 10시 15분부터 진행되는 윤 전 대통령의 특수공무집행방해 등 혐의 첫 재판의 언론사 사진 촬영과 중계를 허가한다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;재판부는 “특검의 중계 신청에 대해 내란 특검법 11조에 따라 재판 개시부터 종료까지 중계를 허가했다”고 했다. 내란 특검법 11조 4항은 ‘재판장은 특검 또는 피고인의 신청이 있는 경우 특별한 사정이 없으면 중계를 허가하여야 한다’고 정한다.&lt;br&gt;&lt;br&gt;법원은 재판 과정을 법원의 영상용 카메라로 촬영한 뒤, 통상 대법원이나 헌법재판소 변론 영상과 같이 개인정보 비식별조치(음성 제거 등)를 거쳐 인터넷 등에 공개할 예정이다. ‘법정 방청·촬영 등에 관한 규칙’에 따라 언론사 사진 촬영은 재판 시작 전까지만 허가했다. &lt;br&gt;&lt;br&gt;재판부는 보석 심문에 대한 특검의 중계 신청은 받아들이지 않았다. 재판부는 “보석 심문은 공재 재판으로 진행된다”며 “법정에서 중계 신청 불허 이유를 밝히고 (보석 심리 결과를) 선고할 것”이라고 했다. &lt;br&gt;&lt;br&gt;내란 우두머리 혐의로 검찰에 구속 기소돼 재판을 받던 윤 전 대통령은 지난 3월 법원의 구속 취소 결정으로 석방됐다가, 7월 내란 특검에 의해 다시 구속 기소됐다. 비상계엄 선포 과정에서 국무회의 심의·의결권을 침해하고 허위 공보를 하도록 했으며, 계엄 선포문을 사후 작성·폐기한 혐의, 체포영장 집행을 저지해 방해한 혐의 등이 적용됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>손님 수건 밟고 넘어져 골절...법원 “사우나가 60% 배상해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/25/M2YNKXF2WBBDDFVWXPTHRIDGLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/25/M2YNKXF2WBBDDFVWXPTHRIDGLA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 01:24:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BFXPBZB4KZPB3K5A6R7J3FX7QQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 목욕탕 탈의실 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사우나 탈의실에서 미끄러져 다친 손님에게 업체가 일부 손해배상해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울남부지법 민사3단독 박희근 판사는 손님 A(79)씨가 사우나 운영업체 B법인을 상대로 제기한 손해배상 청구 소송에서 B법인이 1300만원을 배상해야 한다고 선고했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 7월 사우나 탈의실 바닥에 깔린 수건을 밟고 미끄러져 왼쪽 허벅지와 골반 부위 뼈가 부러져 병원에 20여 일 동안 입원했다. 사고 당시 탈의실 천장 에어컨에서 물이 새어 나와 사우나 측에서 바닥에 수건을 펼쳐놓았는데, A씨가 이를 밟고 미끄러진 것이다.&lt;br&gt;&lt;br&gt;A씨는 사우나 측이 미끄럼이나 위험을 경고하는 표시판을 설치하거나 손님들의 접근을 제한하는 등 조치를 취하지 않았다며 소송을 제기했다. &lt;br&gt;&lt;br&gt;박 판사는 “B법인이 시설물 관리·운영 의무를 다하지 않아 사고가 발생했다고 보고 손해배상 책임이 인정된다”고 판단했다. &lt;br&gt;&lt;br&gt;다만 재판부는 A씨의 책임도 일부 인정했다. A씨가 바닥을 살피면서 이동했다면 사고를 방지할 수 있었다는 것다. 이 점을 고려해 B 법인의 배상 책임은 60%로 제한했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“차례 안 지내고 여행 갑니다”…추석 연휴 인기 여행지 1위는 강원도</title>
