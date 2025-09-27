@@ -13,6 +13,48 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>가을밤의 불꽃, 100만명이 즐겼다...인파 사고 없이 마무리</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/FJ5ANSXPMVAQPFQDDQTQA5LHJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/FJ5ANSXPMVAQPFQDDQTQA5LHJY/</guid>
+      <dc:creator>한영원 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 12:55:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOZ2OXZOVFPJ3FJ7CSCZ74WQDE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 여의도 한강공원 일대에서 열린 '2025 서울세계불꽃축제'에서 시민들이 화려한 불꽃쇼를 보고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 저녁 서울 세계불꽃축제의 화려한 불꽃이 한강 일대의 밤하늘을 수놓았다. 이날 새벽 온라인 커뮤니티에는 “한강에 있는 사람들을 죽이겠다”는 테러 글이 올라와 경찰이 수색에 나서는 일도 발생했지만, 축제는 인명 사고 없이 마무리됐다.&lt;br&gt;&lt;br&gt;이날 오후 7시 20분쯤 첫 불꽃이 터지자 강변 일대의 시민들은 “와 정말 예쁘다” “아름답다” 탄성을 지르며 감탄했다. 거리를 걷다 멈춰 서서 휴대전화 카메라 셔터를 누르는 사람도 많았다. 미국인 유학생 트레조 아미(19)씨는 “한국에서 생활한 2년 중 가장 인상 깊었던 밤”이라며 “이번 학기가 끝나면 미국으로 돌아가는데 불꽃을 보러 꼭 다시 한국을 찾을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBJQREFLYZOKBDQUVAONYRGGLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 서울 여의도 한강공원 일대에서 2025 서울세계불꽃축제가 열리고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11개월 아이를 품에 안고 불꽃을 감상하던 주정옥(35)씨는 “집에만 있다가 밖에 나와 선선한 바람을 맞으며 불꽃이 터지는 걸 보니 마음까지 시원해지는 기분”이라며 “아이도 불꽃이 예쁜 걸 아는지 ‘펑’ 하고 터지는 소리가 큰데도 울지 않고 잘 보고 있다”고 했다. 경기 성남에서 남편과 함께 축제를 찾은 황모(68)씨는 “TV 광고를 보고 올해 축제를 처음 찾았는데, 영상으로 본 것보다 불꽃이 더 화려했다”며 “남편과 오랜만에 하는 데이트라 젊은 시절의 감정이 되살아나는 듯하다”고 했다.&lt;br&gt;&lt;br&gt;이날 새벽 온라인 커뮤니티에는 “한강 가서 다 죽여버릴 것”이라는 내용이 담긴 글이 올라왔지만, 테러 등 인명 피해는 발생하지 않았다. 소방 당국에 따르면 이날 불꽃축제에서 인파 밀집으로 인한 사고는 접수되지 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZFPPRDDCBI6VLTXTE2Q74FERA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 여의도 한강공원 일대에서 열린 '2025 서울세계불꽃축제'에서 시민들이 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 관람객이 몰리며 곳곳에서 혼란이 발생하기도 했다. 여의도 한강공원에서는 시민 3명이 “통로에 앉으면 안 된다”는 주최 측 안전 요원의 안내에 따르지 않아 현장에 파견된 경찰이 나서서 상황을 정리해야 했고, “사람이 이렇게 많은데 통로에 좀 앉으면 안 되냐”며 경찰과 말싸움을 벌이는 남성도 있었다. 일부 시민은 불꽃을 가까이서 보기 위해 안전 통제선을 뚫고 지나가기도 했다.&lt;br&gt;&lt;br&gt;고질적인 쓰레기 문제도 반복됐다. 불꽃축제가 끝난 뒤 여의도 한강공원에는 무단으로 버려진 쓰레기들이 곳곳에 언덕을 이루고 있었다. 시민들이 버리고 간 은박 돗자리와 일회용 플라스틱 컵, 음료수 캔, 치킨 박스 등이 나뒹굴었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VV57O743WFGS3KAZRPDIPKPAQI.gif?auth=81e25dde6026e1147be768b728d8b7ed0f005089ae7b3b9a88064f10ee0760b0&amp;smart=true&amp;width=500&amp;height=333" type="image/jpeg" height="333" width="500">
+        <media:description type="plain">27일 오후 서울 여의도 한강공원 일대에서 열린 '2025 서울세계불꽃축제'에서 화려한 불꽃이 밤하늘을 수놓고 있다</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>중대본 “화재 피해 시스템, 70개 아닌 96개…대전→대구 본원 이전 검토"</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/IFLFMSB3AFHGBCKNWM5BIGJPVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/IFLFMSB3AFHGBCKNWM5BIGJPVE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 12:37:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KIHQHMKWZYVAGVNP36X6BNACI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관이 대전 국가정보자원관리원 전산실 화재 관련 중대본 회의를 주재하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원 화재로 직접적인 피해를 입은 국가 정보 업무 시스템이 70개가 아닌 96개로 확인됐다.&lt;br&gt;&lt;br&gt;정부는 오는 28일까지 네트워크 장비 복구를 마치고, 이들 시스템을 대전 본원에서 대구 분원으로 이전하는 방안도 검토하고 있다.&lt;br&gt;&lt;br&gt;윤호중 행정안전부 장관은 이날 오후 8시 중앙재난안전대책본부(중대본) 회의를 열고 “경제활동에 직접적으로 영향을 미치는 필수적인 시스템부터 우선적으로 정상화할 것”이라며 “우선 대전센터의 시설 장비를 복구하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “전소된 배터리 384대 중 250여대를 반출하고 있고, 오늘까지는 항온항습기를 복구해 28일은 네트워크 장비가 복구될 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;정부는 만약 성공적으로 작업이 끝나면 정보 시스템을 안전하게 보전하기 위해 중단했던 시스템 551개를 단계적으로 재가동할 수 있게 될 것으로 보고 있다. 현재 가동이 중단된 정부 업무 시스템은 총 647개다.&lt;br&gt;&lt;br&gt;647개 중 국민이 직접 이용하는 대국민 서비스는 436개이고, 나머지 211개는 공무원 업무용 행정내부망 서비스인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;화재로 직접 피해를 받은 시스템은 96개로 파악됐다.&lt;br&gt;&lt;br&gt;당초 행안부는 전날 화재로 영향을 받은 시스템이 1등급 12개, 2등급 58개 등 70개라고 밝혔다. 이에 대해 행안부는 “화재로 인한 인력투입이 어려운 상황에서 파악해 착오가 있었다”며 “새로 파악한 결과 96개로 나타났다”고 설명했다.&lt;br&gt;&lt;br&gt;정부는 이들 시스템을 대구센터 내 민관협력형 클라우드 서비스로 이전하는 방안을 검토하기로 했다. 윤 장관은 “전소된 환경에서의 복구보다 이전 재설치가 복구에 유리하다고 판단했기 때문”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L24DCENX662HCH6NIJ7P7DKHTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 대전 유성구 국가정보자원관리원 화재현장에서 소방당국 관계자들이 소실된 리튬이온배터리 반출 작업을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중대본은 현재 과학기술정보통신부, 보건복지부, 교육부 등 장애 시스템을 소관하는 부처와 함께 대응하고 있다.&lt;br&gt;&lt;br&gt;윤 장관은 이날 정부 주요서비스들이 중단된 데 대해 사과의 뜻도 밝혔다.&lt;br&gt;&lt;br&gt;그는 “민원 처리 지연, 증명서 발급 차질 등 국민 여러분께 큰 불편을 끼쳐드리게 되어 사과드린다”며 “화재로 인한 국가 정보시스템 장애 상황을 조속히 파악하고 국민 생활 불편과 피해를 최소화 할 수 있도록 총력을 다하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “지자체는 어떤 서비스에 장애가 있는지, 어떻게 대체 서비스를 제공할 수 있는지구체적이고 신속하게 알려드릴 수 있도록 각별히 신경 써주길 바란다”며 “이번 사고 대응 목표는 단순한 업무 재개가 아니라 국민의 신뢰와 직결된 문제라고 받아들이고, 복구 계획과 지원사항을 충분히 논의해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가 전산망 2년 만에 또 먹통… 국민은 울화통 터진다</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/DEW5LTVIQFFF5CZJHJZXEQRYYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/DEW5LTVIQFFF5CZJHJZXEQRYYQ/</guid>
+      <dc:creator>강지은 기자, 조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 11:18:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAZVIBSKCBMKZHHNAT3DSSQJI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 서울 서대문우체국 출입문에 국가정보자원관리원 화재로 인한 '장애 발생 안내문'이 붙어 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 발생한 국가정보자원관리원 화재로 정부 주요 전산망이 마비되면서 주말인 27일 전국적인 혼란이 일어났다. 온라인 민원 발급 사이트인 ‘정부24′는 물론, 우체국 금융 기능까지 정지됐다. 이에 따라 정부 발급 서류가 필요한 부동산 거래는 상당수 진행되지 못했고, 모바일 신분증도 사용할 수 없어 공항에서 비행기를 타지 못하고 발길을 돌리는 시민들도 있었다.&lt;br&gt;&lt;br&gt;27일 오후 방문한 서울 용산구 이촌동의 한 우체국 출입문에는 “입출금 및 이체, ATM 이용, 보험료 납부 및 지급 등 모든 금융서비스가 중지됐다”는 안내문이 붙었다. 실제로 우체국 안에 있는 ATM 두대 모두 먹통이었다. ATM기 화면에는 “사용 불가”라며 “회선 연결 중으로 빠른 시간 내에 복구 예정이오니 잠시만 기다려주십시오”라는 문구만 떴고, 화면을 손으로 눌러봐도 변하는 것은 없었다.&lt;br&gt;&lt;br&gt;우체국 보험설계사 60대 A씨는 “계좌 입출금이 안 된다는 고객들의 문의가 아침부터 빗발쳤다”며 “요즘 보험 계약은 내부망에 접속해 계약서를 다운받아 이뤄지는데, 내부망 접속이 안 돼 오늘 체결하려던 보험 계약도 어그러졌다. 어떻게 잡은 고객인데 복구되는 동안 마음이 바뀔까 조마조마하다”고 했다. 인천 부평구에 사는 B(15)양은 “우체국 체크카드 하나만 가지고 있는데 사용이 안 된다 해 난처하다”고 했다. 금융 뿐 아니라 택배 기능도 멈추면 추석 연휴를 앞두고 물류 대란이 빚어질 수 있다는 우려의 목소리도 나오는 상황이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HOAUU7JXDJXOD3TCJ5FTXVV45U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 국가정보자원관리원 전산실에서 발생한 화재로 정부 업무 시스템 647개가 가동이 중단되고 있는 가운데 27일 오전 서울 종로구청에 무인민원발급기 이용불가 안내문이 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부 부처 홈페이지 접속과 일부 지자체 온라인 민원 사이트 간편 인증에 차질이 빚어지며 민원을 제기하려던 시민들도 불편을 겪었다. 최근 직장을 그만 둔 C(28)씨는 수십만원 상당의 수당을 정산받지 못해 고용노동부에 임금체불 진정을 제기하려 했지만 사이트접속이 안 돼 포기했다고 한다. 그는 “월요일까지 복구가 안 되면 기다렸다가 가까운 노동청에 직접 방문할 예정인데, 전산망 자체가 셧다운 되면 접수나 제때 될지 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;모바일 신분증을 사용할 수 없게 되자 비행기·여객선 탑승은 물론 병원 진료를 받지 못하고 집으로 돌아가는 시민들도 많았다. 인천항 연안여객터미널에서는 신분증을 지참하지 않은 일부 여객선 탑승객이 무인민원발급기 이용 불가로 주민등록등본을 출력하지 못해 난처한 상황에 놓였다. 인천운항관리센터 관계자는 “탑승객 중 신분증을 깜빡 잊고 챙기지 않은 경우가 있었다”며 “일단 선사 측이 한시적으로 신분증을 찍어둔 사진 등을 인정해 신원을 확인했다”고 했다.&lt;br&gt;&lt;br&gt;이 밖에 공직자 이메일 발송 시스템이 먹통이 되고, 공직자 공인인증서 로그인 접속이 불안정해지는 등 지자체 내부 업무도 차질이 발생하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SSW2ZNQRCJFDJPHKPZOZPLSUYY.gif?auth=32121832cbcbc95853ecb9cfb2eeb0dc5430c68c3d83bb43e05d5914815a0a21&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500">
+        <media:description type="plain">화재후 수습현장 위주</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>국가 전산망 화재로 교통범칙금 납부 차질…경찰 “납부 기한 연장 검토”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/BVWM3GRNBVAXVOXOZDDNP4VB5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/BVWM3GRNBVAXVOXOZDDNP4VB5Y/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 10:11:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VORBBCQAEVZKIQJD2GYZDSR2SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 오전 8시쯤 전북 전주시 완산구 효자동 효천사거리에서 교통 경찰이 '5대 반칙운전' 단속을 실시하고 있다. 기사 내용과는 관련 없음./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가정보자원관리원에서 발생한 화재로 정부의 온라인 업무 시스템이 줄줄이 마비된 가운데, 교통 범칙금 납부가 27일 일시적으로 중단됐다. 경찰 관계자는 “국고금 수납이 이뤄지는 시스템에 장애가 발생해 범칙금 입금이 이뤄지지 않고 있다”며 “납부 기한을 시스템 복구 이후로 연장하는 방안을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;정부 세입·세출과 국고금 수납은 ‘디브레인’으로 불리는 국가 재정 통합 시스템이 담당한다. 그런데 이 시스템이 먹통이 되면서 범칙금을 납부해도 입금이 되지 않는 상황이 벌어지고 있다고 한다. 범칙금은 납부 통지서를 받고 10일 이내에 납부해야 하며, 이 기간이 지나면 가산금이 붙는다. 경찰 관계자는 “이미 발부된 과태료·범칙금에 대한 납부 기간을 유예하는 방향으로 논의 중”이라며 “시스템 복구 시점이 불분명한 만큼, 납부 기한에 대한 연쇄적인 민원을 방지하기 위해 범칙금 부과보다는 계도 위주의 단속을 실시할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면 지난 26일 국가정보자원관리원에서 발생한 화재로 모바일 신분증, 정부24, 국민신문고 등 총 96개 국가 전산 시스템이 차질을 빚고 있다. 정부는 긴급 복구 작업을 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 소방청 “국가정보관리원 화재 발생 22시간 만에 완진”</title>
       <link>https://www.chosun.com/national/national_general/2025/09/27/JPIQQJONPVCOJKICDSMGCQMU6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/JPIQQJONPVCOJKICDSMGCQMU6A/</guid>
@@ -891,24 +933,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5N4COIZIRBHBB5D4MUDKS7OYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로경찰서 민원실을 찾아갔다가 붙잡힌 A씨(왼쪽). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증명서를 떼려 경찰서를 제 발로 찾았다가 도주 16년 만에 체포된 살인미수범에게 1심 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사합의11부(부장판사 김우현)는 살인미수 혐의로 구속 기소된 이모(70)씨에게 징역 10년을 선고했다고 26일 밝혔다. 이씨는 2009년 10월 서울 은평구에서 경쟁 관계인 이웃 노래방 업주를 살해하기 위해 불붙은 시너를 담은 깡통과 둔기를 들고 찾아갔다가, 자신을 제지한 노래방 직원 김모씨 얼굴에 깡통을 던져 온몸에 화상을 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 경찰은 범행 직후 달아난 이씨를 검거하지 못했고 사건은 16년간 미제로 남았다. 그러던 지난 3월 이씨는 운전경력증명서를 떼러 구로경찰서 민원실을 스스로 찾았고, 이때 신원을 확인한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;재판부는 “피해자 김씨는 지금까지도 큰 고통을 안고 살아가고 있다”며 “그럼에도 피고인은 범행 후 도주하고 도피 생활을 지속해 피해자들을 고통과 불안에 시달리게 했다”고 했다. 이어 “김씨와는 뒤늦게 합의했다 하더라도 상당한 중형을 선고하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이씨는 범행 당시 김씨를 보지 못한 채 불붙은 시너 깡통을 노래방에 던졌을 뿐이라 살인의 고의가 없었다고 주장했으나, 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 고용노동부 장관실 ‘방화 시도’ 50대 민원인 구속영장 신청</title>
-      <link>https://www.chosun.com/national/regional/2025/09/26/W25ELHYA3ZB2XHR6WCEDLRQQPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/26/W25ELHYA3ZB2XHR6WCEDLRQQPU/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 06:49:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BMF7EUK7JJUZMWW45Y7Z5YF4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 25일 오후 6시 25분쯤 정부세종청사 고용노동부 6층 장관실 주변에 인화물질을 들고 찾아와 불을 붙이려 한 혐의로 체포된 50대 A씨를 특수공무집행방해 혐의로 체포했다. 사진은 장관실 입구에 뿌려진 인화물질을 닦은 휴지가 쌓여 있는 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 정부세종청사 고용노동부에 침입, 불을 지르려 한 민원인에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;세종남부경찰서는 26일 특수공무집행방해·특수건조물침입·현존건조물방화예비 등 혐의로 A(50)씨에 대한 구속영장을 신청했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 50분쯤 정부세종청사 고용노동부 6층 장관실 인근에 인화물질을 뿌리고 불을 붙이려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 인화물질을 넣은 페트병을 담은 가방을 가지고 고용노동부 청사에 설치된 유리문을 뛰어넘어 청사에 진입한 것으로 파악됐다. 이어 곧장 장관실이 있는 6층으로 올라간 A씨는 “고용노동부 장관 나오라”며 난동을 부렸다.&lt;br&gt;&lt;br&gt;그는 갖고 있던 인화물질을 바닥에 뿌린 뒤 불을 붙이려 했으나, 현장에 있던 고용노동부 청사 직원 등의 제지로 실제 화재가 발생하지는 않았다. 이로 인한 인명 피해도 없었다.&lt;br&gt;&lt;br&gt;A씨는 안전화를 유통하는 사업주로, 사업과 관련한 민원을 고용노동부에 수년간 제기했으나 받아들여지지 않자 이에 불만을 품고 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “구속 전 피의자 심문(영장실질심사)은 오는 27일쯤 이뤄질 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘라임 김봉현 금품수수 의혹’ 기동민 전 민주당 의원, 1심 무죄</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/VL2AYOZFFZGMVBFKR2CMGFAEVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/VL2AYOZFFZGMVBFKR2CMGFAEVY/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 06:33:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6XENYM3JOFKP3FTBXFPYOIUC44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'라임 사태' 핵심인 김봉현 전 스타모빌리티 회장으로부터 금품을 수수한 혐의로 재판에 넘겨진 기동민 전 더불어민주당 의원이 26일 서울 양천구 남부지방법원에서 열린 1심 선고 공판에서 무죄 선고를 받고 취재진 질문에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘라임 사태’ 김봉현 전 스타모빌리티 회장으로부터 불법 정치자금을 받은 혐의로 재판에 넘겨진 기동민 전 더불어민주당 의원과 이수진 의원이 1심에서 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;서울남부지법 형사11단독 정성화 판사는 정치자금법 위반 등의 혐의로 기소된 기 전 의원에게 26일 무죄를 선고했다. 함께 재판에 넘겨진 이수진 민주당 의원, 김영춘 전 해양수산부 장관, 전 국회의원 예비 후보인 김모씨에게도 무죄를 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “검찰이 제시한 김봉현의 진술과 수첩에 신빙성이 있다고 보기 어렵고 불법 선거 자금을 수령해 정치자금으로 사용했다고 볼 자료도 없다“며 “이 같은 상황에서 공소사실을 유죄로 단정할 수 없다”고 판시했다.&lt;br&gt;&lt;br&gt;무죄를 선고받은 기 전 의원은 “정치적 목적으로 검찰 위상을 강화하기 위해 마녀사냥하듯 정치인을 옥죈 무도한 검찰은 역사 속으로 사라질 수밖에 없을 것”이라며 “진실한 판단을 해준 재판부에 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;기 전 의원은 20대 총선이 있었던 2016년 2~4월 김 전 회장 등에게 선거 자금과 서울 양재동 화물 터미널 부지 관련 인허가 알선 등 명목으로 1억원과 200만원 상당 양복을 받은 혐의를 받았다.&lt;br&gt;&lt;br&gt;이 의원과 김 전 장관은 각각 2016년 2월과 3월 김 전 회장 등에게 500만원씩 받은 혐의로, 민주당 전신인 열린우리당 부대변인을 지낸 김씨는 2016년 2월 김 전 회장 등에게 불법 정치자금 5000만원을 받은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 5일 기 전 의원에게 징역 3년과 추징금 1억200만원을, 이 의원과 김 전 장관에게는 벌금 500만원과 추징금 500만원을 각각 구형했다. 김씨에게는 징역 1년 6개월과 추징금 5000만원을 구형했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>우연히 같은 식당에…밥 먹던 손님 쓰러지자 우르르 달려온 이들</title>
       <link>https://www.chosun.com/national/national_general/2025/09/26/KCS42EH3UNCZ5DFDYDLV63K4DI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/KCS42EH3UNCZ5DFDYDLV63K4DI/</guid>
@@ -928,18 +952,6 @@
       <description/>
       <pubDate>Fri, 26 Sep 2025 05:56:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UD26GXTG2ZEWXJSNUHLXNO7KYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 엘시티 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구와 부산도시공사가 333억원 규모의 해운대 ‘엘시티’ 개발 부담금을 두고 벌인 소송전에서 대법원이 해운대구의 손을 들어줬다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 26일 부산도시공사가 해운대구를 상대로 낸 개발 부담금 부과 처분 취소 소송에서 원고 승소 판결을 내린 원심을 깨고 사건을 부산고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2020년 6월 해운대구가 엘시티에서 토지 개발을 맡은 부산도시공사에 개발 부담금 333억 8000만원을 부과한 것이 발단이다. 부산도시공사는 해운대 관광리조트 도시개발사업의 시행자로 관광 시설 용지를 조성하고 주차장 등 기반 시설을 설치하는 사업을 맡았다. 공사는 2014년 3월 관광 시설 용지의 부지 조성 공사를 마쳤고, 2019년 12월 준공 검사를 받았다.&lt;br&gt;&lt;br&gt;그런데 시행자에 대해 개발 이익의 25%를 과세하는 개발 부담금을 언제 부과해야 할지가 문제가 됐다. 개발이익환수법은 ‘사실상 개발이 완료된 토지를 양도하는 때’ 부담금을 부과하라고 규정한다. 해운대구는 이 개발 완료 시점을 준공 검사가 이뤄진 2019년 12월로 보고 부담금을 333억8000만원으로 측정해 부과했다.&lt;br&gt;&lt;br&gt;이에 부산도시공사 측은 “부지 조성 공사가 완료된 2014년 3월을 기준으로 부담금을 부과해야 한다”고 반발했다. 2014년은 전국적으로 부동산 가격이 크게 상승하기 전이라 공사 측이 내야 하는 부담금도 약 54억 3000만원으로 크게 줄어든다.&lt;br&gt;&lt;br&gt;1·2심은 공사 측 주장이 맞는다며 부담금 부과 처분을 취소했다. 그러나 대법원은 “’사실상 개발이 완료된 날’은 관광 시설 용지로서의 사용 목적에 부합하는 데 필요한 정도의 기반 시설 공사까지 완료된 때를 의미한다”며 “이를 부지 조성 공사만 완료된 2014년 3월로 본 원심은 잘못됐다”고 지적했다. &lt;br&gt;&lt;br&gt;대법원은 하급심과 달리 해운대구가 감정 평가를 거쳐 지가를 산정한 잘못이 있다는 부산도시공사 측의 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“직장 해고에 불만”…일면식 없는 상인에 흉기 휘두른 20대 女</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/XQZ3CDQSLRF47IOOGEOGEI3IOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/XQZ3CDQSLRF47IOOGEOGEI3IOY/</guid>
-      <dc:creator>순천=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 05:54:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3A3652LECXME5S6Q7MAI43VSLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 순천경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 순천의 한 전통시장에서 일면식 없는 상인에게 흉기를 휘두렀던 20대 여성이 직장 해고에 불만을 품고 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;전남 순천경찰서는 26일 살인미수 혐의로 20대 여성 A씨를 입건해 조사 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 7시쯤 순천 중앙시장의 한 속옷 매장에 들어가 60대 여성 B씨를 향해 흉기를 휘두른 혐의를 받고 있다. B씨는 A씨를 피해 달아났지만, 허벅지 등에 부상을 입고 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “전 직장에서 근무한 지 3주만에 해고를 당한 것에 불만을 품고 범행했다”고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 사건 발생 30분 전쯤 범행 현장 주변 가게에서 흉기를 구입한 것을 확인했다. 경찰은 A씨가 20~30분 동안 시장을 돌아다니며 범행 대상을 물색하다가 홀로 일하던 B씨를 발견하고 흉기를 휘두른 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 중증 지적장애를 앓고 있는 것으로 파악됐다. 경찰은 A씨에 대해 구속영장을 신청할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3A3652LECXME5S6Q7MAI43VSLY.jpg?auth=513eea534edfee36431332f4dad70265aa75ffbd21c55fb434831b6a6b6f39e6&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
-        <media:description type="plain">전남 순천경찰서. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>[속보] 尹 “주 4~5회 재판 힘들어 사법 절차 협조 위해 보석 신청”…18분간 발언</title>
@@ -970,15 +982,6 @@
       <description/>
       <pubDate>Thu, 25 Sep 2025 23:20:16 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSETH7KN2JY4B6TGVT3WV6PBRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시 연수구 송도동에서 바라본 인천대교./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항이 있는 영종도와 송도국제도시를 잇는 인천대교 주탑 부근 갓길에 차량을 세운 운전자가 실종돼 해경이 수색에 나섰다. &lt;br&gt;&lt;br&gt;26일 인천해양경찰서에 따르면 이날 오전 3시 39분쯤 “차량 정차 후 해상으로 추락한 사람이 있다”는 인천대교 상황실의 신고가 접수됐다. &lt;br&gt;&lt;br&gt;해경은 인천대교 주탑 부근 갓길에서 세워진 차량을 발견했다. 차량 안에 유서가 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;해경은 40대 남성으로 추정되는 운전자가 바다로 추락한 것으로 보고 경비함정 3척을 투입해 수색하고 있다. &lt;br&gt;&lt;br&gt;이달 들어 인천대교에서 투신 사고가 발생한 것은 A씨를 포함해 모두 4건이다. 지난 9일과 22일, 25일에도 발생했다. &lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 자살예방 SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“모든 후배가 존경한 선배”... ‘개그계 대부’ 전유성 별세</title>
-      <link>https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 13:21:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHBAYWWVELHQHVRS7FPBN6AUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘개그계 대부’로 불리는 전유성(76)이 25일 밤 9시분쯤 입원 중이던 전북대학교 병원에서 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한국방송코미디언협회에 따르면 전유성은 폐기흉 증세가 악화하면서 이날 오후 9시 5분쯤 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국방송코미디언협회 관계자는 언론에 “밤 9시 5분쯤 유일한 가족인 딸이 지켜보는 가운데 세상을 떠났다”면서 “이미 마음의 각오는 했지만, 너무나 안타깝고 슬프다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYSKY7CLBHMNB4BNM76TVTEEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 직접 내려가 병문안을 한 한국방송코미디언협회 김학래 회장은 “현재 가족과 장례 문제를 놓고 협회 관계자들이 협의중”이라면서 “이미 코미디협회장이 결정된 상태이기 때문에 절차상의 문제는 없다”고 말했다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원에 마련될 예정이다.&lt;br&gt;&lt;br&gt;전유성은 1969년 TBC 방송작가로 데뷔했다. 이후 코미디언으로 전향해 ‘유머1번지’ ‘쇼 비디오 자키’ 등으로 이름을 알렸다. 희극인의 위상과 전문성을 알리며 한국 코미디 발전에 크게 기여한 인물이다. 희극인이나 코미디언으로 불리던 시대에 ‘개그맨’이라는 단어를 처음 사용한 인물로도 알려져 있다. PC통신 시절 아이디도 ‘개그맨1’일 정도로 희극을 사랑했다고 한다. &lt;br&gt;&lt;br&gt;그는 특히 후배들에게 사랑받는 선배로도 유명하다. 전유성 50주년 기념 공연 간담회에서 김지선은 “결혼할 때 청첩장을 직접 디자인해 주셨다. 모든 후배들에게 아버지 같은 존재”라고 떠올렸다. 엄용수는 “준비가 없어 보이지만 늘 파격과 신선함을 보여주신 분”이라며 그를 기렸고, 김학래는 “코미디 역사의 한 부분을 이룬 대단한 인물”이라고 했다.&lt;br&gt;&lt;br&gt;정선희 역시 최근 유튜브 채널에서 전유성에 대해 “기회를 엄청 많이 주신다”며 “극단, 극장 활동을 통해서 후배들한테도 계속 (기회를 주신다). 내게도 ‘책을 많이 읽으라’고 해주신 분이 전유성 선배님이다. 생활에 쓰이는 단어나 어휘가 다른 사람과는 달라야 한다고 했다. ‘총알을 많이 가지고 있으라, 할 수 있는 말의 범주를 넓히라’고 했다”고 표현했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 26일 윤석열 ‘체포 방해 혐의’ 첫 재판 중계 허용</title>
