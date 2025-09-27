@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국정자원 화재로 법원 전자소송포털·인터넷등기소도 차질 </title>
+      <link>https://www.chosun.com/national/court_law/2025/09/27/BRWBJAZBKVEXJKFX6MA4K3XOOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/27/BRWBJAZBKVEXJKFX6MA4K3XOOE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 07:14:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/737UFIQGEHMSIW7AXZUAZOWYNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 국가정보자원관리원 전산실에서 발생한 화재로 정부 업무 시스템 647개가 가동이 중단되고 있는 가운데 27일 오전 서울 종로구청에 무인민원발급기 이용불가 안내문이 붙어 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원(국정자원) 본원 전산실 화재로 법원 전자소송 포털과 인터넷 등기소 일부 서비스도 먹통이 됐다. 국정자원은 정부와 지방자치단체의 IT(정보·통신) 시스템을 관리·운영하는 기관이다.&lt;br&gt;&lt;br&gt;27일 법원 전자소송 포털과 인터넷 등기소 홈페이지에는 각각 ‘국정자원 화재로 인한 일부 서비스 불가’ 안내문이 올라왔다. 전자소송 포털은 인터넷을 통해 소송 절차를 진행할 수 있는 시스템으로 소송 서류 제출이나 소송 비용 납부 등을 할 수 있다. 이날 현재 포털에서는 내·외국인 실명 확인과 주민등록정보 등·초본 연계, 등록면허세 납부 조회, 전자문서지갑 전자증명서 첨부 등 일부 서비스를 이용할 수 없는 상태다.&lt;br&gt;&lt;br&gt;대법원이 운영하는 인터넷등기소 홈페이지도 부동산 열람·발급 등 서비스가 제한됐다. 토지 이용계획 조회와 전자 신청 시 도로명 주소 검색 연계, 인터넷 발급 시 전자지갑 확인·제출, 주민등록정보·기본증명서 등 행정정보 등 첨부문서 연계 서비스 등이 중단됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2OOF5PL6THSFLJSGREWO2CSJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 대전 유성구 국가정보자원관리원 화재현장에서 경찰 과학수사대 화재감식 관계자들이 건물 내부로 이동하고 있다. 전산 자원을 통합 관리하는 행정안전부 산하 국가정보자원관리원에서 지난 26일 오후 배터리 교체 작업 중 화재가 발생, 정부 온라인 서비스 70개가 마비됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 오후 8시15분쯤 국정자원 5층 전산실에서 화재가 발생해 정부 업무시스템 647개가 중단됐다. 무정전전원장치(UPS) 배터리를 옮기던 중 리튬배터리 팩이 폭발한 것이 원인으로 조사됐다. 소방당국은 화재 발생 약 10시간 만인 이날 오전 6시30분쯤 초진을 완료했으나 내부 열기가 남아 복구 작업은 진행되지 못하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘루게릭 투병기’ 희망 전하던 유튜버 필승쥬, 32세 나이로 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/ECQSBN7Q5VHJ5ALXBDHQ27YTEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/ECQSBN7Q5VHJ5ALXBDHQ27YTEQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 06:00:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFQL63TCJZHCFC4E2TJMMFLBYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;루게릭병 투병기를 공개하던 유튜버 '필승쥬' 강승주씨의 2020년 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;루게릭병 투병기를 전하던 유튜버 ‘필승쥬’ 강승주씨가 32세 이른 나이에 세상을 떠났다.&lt;br&gt;&lt;br&gt;강씨의 가족은 지난 25일 인스타그램을 통해 부고 소식을 전했다. 27일 오전 발인이 진행됐으며 장지는 경남 진주시 안락공원이다. 강씨는 2022년 10월부터 유튜브 영상으로 투병기를 공개해 왔다. 당시 첫 영상을 시작하며 휠체어에 앉은 채 “안녕하세요. 저는 루게릭과 4년째 살고 있는 승주라고 합니다”라고 소개했다. 잘 나오지 않는 목소리였지만, 밝은 미소를 보였다.&lt;br&gt;&lt;br&gt;이어 설명란을 통해 “저는 20대이지만 루게릭 환자다. 오늘이 제일 건강한 제가 든든한 가족들, 친구들과의 일상을 기록하고자 유튜브를 시작했다”며 “제 상황을 모르는 지인들이 놀랄까 봐 조금 걱정되기도 하지만 현재의 제 모습에 많은 응원 부탁드린다”고 했다. 이후 고인은 약 3년간 점점 굳어가는 몸의 변화를 영상에 담았고 7만명이 넘는 구독자와 함께했다.&lt;br&gt;&lt;br&gt;투병 중에도 희망을 잃지 않는 모습으로 많은 이에게 울림을 전했던 강씨의 마지막 영상은 지난 5월이다. 강씨와 딸을 지극정성으로 간호하는 아버지의 일상이 담겼다. 현재 이 영상 댓글 창에는 “항상 반짝이던 승주님 눈빛을 기억하겠다” “좋은 곳으로 가셨을 거다” “가족분들 너무 힘들지 않길 기도하겠다” “하늘에선 훌훌 털어버리고 행복하셔라” 등 구독자들의 추모가 이어지고 있다.&lt;br&gt;&lt;br&gt;루게릭병은 원인이 불명확한 희소 질환으로 대뇌 및 척수 운동신경이 일부 파괴돼 생긴다. 정확한 병명은 근위축성측색경화증이지만, 1939년 이 병을 앓고 은퇴한 미국 유명 야구 선수 루 게릭이 2년 만인 1941년 사망한 이후 그의 이름을 딴 루게릭병으로 더 잘 알려져 있다. 근력 약화와 근육 위축으로 언어장애·체중 감소·사지 무력 등의 증상을 유발하며 결국 호흡 기능 마비로 사망할 확률이 높다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TPRREUHL3RGQVCMHSFDYFORTAY.jpg?auth=40f15f6babefba810b6f8ba270cfe1c97a7a05b2aecc8de6f893dc866cfc3c58&amp;smart=true&amp;width=888&amp;height=499" type="image/jpeg" height="499" width="888">
+        <media:description type="plain">/인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>공항공사 “공항 이용 시 ‘실물 신분증’ 지참 필요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/SUGOMM5G6VDNNJ6MZICIMXPSAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/SUGOMM5G6VDNNJ6MZICIMXPSAI/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 05:27:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE4RFP7MZJF6RJTXH3U4DP56UU.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 김포공항 홈페이지에 "공항 이용 시 실물 신분증을 반드시 지참하거나, 바이오패스를 이용해달라"는 안내문이 올라와 있다. /김포국제공항 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원 화재로 모바일 신분증 등 정부 서비스에 장애가 발생한 가운데, 27일 한국공항공사가 공항 이용 시 반드시 실물 신분증을 지참해달라고 안내했다.&lt;br&gt;&lt;br&gt;이날 한국공항공사는 공사가 운영·관리하는 국내 14개 공항 홈페이지에 “26일 국가정보자원관리원 화재로 인하여 일부 정부 전산서비스(모바일 신분증, 정부 24 등)에 장애가 발생하고 있다”며 “모바일 신분증, 정부 24를 통한 신분 확인이 어려울 수 있으니 공항 이용 시에는 실물 신분증을 반드시 지참하거나, 바이오패스를 이용해달라”는 안내문을 올렸다. &lt;br&gt;&lt;br&gt;공항에서 사용 가능한 실물 신분증은 주민등록증, 운전면허증, 여권 등이 해당한다. 바이오패스를 최초로 이용하는 이들은 실물 신분증을 챙겨야 한다.&lt;br&gt;&lt;br&gt;또 공항공사는 “미성년자의 경우 실물 신분증 또는 필요한 서류를 사전에 인쇄해 지참하거나, 원본 파일을 저장해 준비해달라”고 밝혔다.&lt;br&gt;&lt;br&gt;공항공사는 26일 오후 8시 20분 이후에 입차한 장애인, 국가유공자 차량은 주차장 이용료 자동 할인이 적용되지 않을 수도 있다고 했다. 반면 다자녀와 저공해(전기차, 하이브리드), 경차는 정상 자동 감면된다고 한다. &lt;br&gt;&lt;br&gt;공항공사는 “자동할인 미적용 차량은 정산기의 ‘호출’ 버튼을 눌러 통합주차지원센터의 안내 절차를 따라 달라”며 “이미 출차한 경우 홈페이지 안내에 따라 사후 환불을 신청해달라”고 했다.&lt;br&gt;&lt;br&gt;버스와 철도 승차권 할인 혜택을 신규 신청할 때도 문제가 발생했다. 이날 국토교통부는 국가정보자원관리원 화재로 장애가 발생한 정부 전산망과 연계된 버스와 철도 등의 일부 서비스에 차질이 빚어지고 있다고 밝혔다. 다자녀·국가유공자·장애인의 버스와 철도 승차권 할인 혜택 신규 신청을 위한 인증이 원활히 이뤄지지 않고 있다고 한다.&lt;br&gt;&lt;br&gt;국토부에 따르면, 철도·버스 할인 혜택 신규 신청에 어려움을 겪는 이들은 예매 시 실물 신분증과 증명 서류 등을 제출하면 일단 할인 혜택을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘3분에 물 5리터 못 마시면 폭행’... 다른 수감자 괴롭힌 20대 결국</title>
       <link>https://www.chosun.com/national/regional/2025/09/27/FO5SFKWYRRAM7MUTWL257B5LHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/FO5SFKWYRRAM7MUTWL257B5LHM/</guid>
@@ -911,15 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시 내 대안학교와 고등학교 등 4곳에 유사한 내용의 폭파 협박 메일이 동시에 접수돼 경찰이 수색에 나섰다. 다행히 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;26일 용인서부경찰서에 따르면, 이날 오전 7시 49분쯤 용인시 수지구 한 대안학교 관계자가 “학교 이메일로 폭파 협박 메일이 들어왔다”며 신고했다.&lt;br&gt;&lt;br&gt;비슷한 시각 수지구와 기흥구의 고등학교 3곳에서도 같은 내용의 메일이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 즉시 폭발물 처리반 등을 투입해 학교 3곳에 대해 4시간가량 수색을 벌였지만, 폭발물 등은 발견되지 않았다.&lt;br&gt;&lt;br&gt;수색은 오전 11시 50분쯤 종료됐다. 학생들은 안전을 위해 일시 귀가 조치됐다.&lt;br&gt;&lt;br&gt;기흥구의 한 학교는 다른 학교 수색 과정에서 위협 요소가 없다고 확인된 뒤 신고가 접수돼 현장 확인만 진행됐다.&lt;br&gt;&lt;br&gt;해당 메일은 이날 오전 6시 56분 일시에 발송됐으며, 내용과 발신 주소가 모두 동일했다.&lt;br&gt;&lt;br&gt;지난해 8월부터 국내 학교와 공공기관 등에 무차별 발송된 일본발 허위 협박 메일과 유사한 문구가 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현재 IP 추적 등을 통해 발신지를 확인하고 있으며, 일본발 허위 협박 메일 사건과의 연관성도 함께 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 특정하기는 이르다”며 “여러 가능성을 열어두고 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰대 ‘자랑스러운 동문상’에 고태관 변호사</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/MBIAHLSA5JEPZF7QGZZD27U6BY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/MBIAHLSA5JEPZF7QGZZD27U6BY/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 05:14:00 +0000</pubDate>
-      <content:encoded>경찰대학 총동문회가 올해 ‘자랑스러운 동문상’ 수상자로 고태관 법무법인 민 대표 변호사를 선정했다고 26일 밝혔다. 경찰대 총동문회는 사회 각 분야에서 뚜렷한 업적을 세웠다고 평가받는 동문에게 매년 이 상을 수여하고 있다. 2019년 제정돼 올해로 7회째다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SVMYFCU2FF2FE4HGH56UB2NZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고태관 법무법인 민 대표 변호사. /법무법인 민 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고 변호사는 경찰대 7기 졸업생으로, 대학 재학 중 사법고시에 합격한 후 경기 안양경찰서 경비과장 등을 거쳐 현재는 법조인으로 활동하고 있다. 올해까지 32년간 법조인 경력을 쌓았고, 기업들이 필요로 하는 각종 법률 서비스를 제공하는 주식회사 ‘민 이앤아이’를 창업한 벤처 기업인이기도 하다.&lt;br&gt;&lt;br&gt;민 이앤아이는 기업 내에서 벌어지는 각종 사기, 횡령, 배임, 영업 비밀 침해 등 사건에 대한 사실 조사와 증거 수집을 해준다. 이와 함께 사내 자금 흐름 이상을 탐지하는 서비스 ‘갖추’, 기업 직원들의 내부 신고 채널 ‘휘슬노트’ 등 다양한 서비스를 운영하고 있다. 갖추는 기업·기관의 거래 내역을 모두 확인한 뒤, 이를 3만 건의 실제 횡령·배임 사례를 연구해 만든 알고리즘으로 분석해 자금 사고로 의심되는 거래에 대해 알람을 보내주는 프로그램이다.&lt;br&gt;&lt;br&gt;이상현 경찰대학 총동문회장은 “고태관 동문은 법조계를 넘어 우리 사회 전체에 크게 이바지하고 있다”며 선정 이유를 밝혔다. 시상식은 27일 진행되며 상패와 소정의 상금이 수여된다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 尹 “주 4~5회 재판 힘들어 사법 절차 협조 위해 보석 신청”…18분간 발언</title>
       <link>https://www.chosun.com/national/court_law/2025/09/26/65GDZYDH35FXVGQBQ7KDZZYWUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/65GDZYDH35FXVGQBQ7KDZZYWUY/</guid>
@@ -927,24 +949,6 @@
       <description/>
       <pubDate>Fri, 26 Sep 2025 05:10:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWAWQY2IO4FRGNLEFADUGMT4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘순직 해경’ 사건... 인천해경 서장 등 간부 3명 직위 해제</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/JH4UXBVTKJHYNJGJQX3CBDSHLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/JH4UXBVTKJHYNJGJQX3CBDSHLQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 04:14:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청. / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 순직한 해경 고(故) 이재석 경사 사건과 관련, 부실 대응 논란과 은폐 의혹 등이 제기된 해경 간부들이 직위 해제됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 이광진 전 인천해양경찰서장과 전 인천해경 영흥파출소 소장 A 경감, 전 영흥파출소 당직 팀장 B 경위 등 3명을 직위 해제했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;해경은 이들을 입건한 검찰이 지난 25일 수사개시통보서를 보내와 직위 해제 조치했다고 설명했다. &lt;br&gt;&lt;br&gt;이들은 지난 11일 이 경사 순직 사건과 관련해 부실하게 대응하고, 영흥파출소 직원들에게 이번 사고에 대해 함구하라고 지시해 진상을 은폐하려 한 의혹 등을 받고 있다. &lt;br&gt;&lt;br&gt;검찰은 최근 전담 수사팀을 구성하고 해양경찰청, 인천해양경찰서, 해경 영흥파출소 등에 대한 압수수색을 진행했다. 유족 등을 상대로 참고인 조사를 진행한 검찰은 사건 경위와 대응 적정성, 규정 준수 여부, 은폐 여부 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>늘어나는 청소년 범죄…‘보호처분’ 촉법소년 7294명 역대 최다</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/BOP7EUQ2GRH3TBB7662RWHK73U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/BOP7EUQ2GRH3TBB7662RWHK73U/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 03:06:33 +0000</pubDate>
-      <content:encoded>범죄를 저질러 보호처분을 받은 만 10세 이상 14세 미만 촉법소년이 지난해 7294명으로 역대 최다를 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 정문에 서 있는 조각. 엄태정이 1995년 제작한 ‘법과 정의의 상(象)’이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 대법원이 발표한 ‘사법연감’에 따르면 지난해 접수된 소년보호 사건은 5만848건으로 전년(5만94건)과 비교해 1.5% 늘어났다. 최근 5년간 접수 건수는 2020년 3만8590건에서 꾸준히 증가해 지난해 5만건을 넘어섰다. 이 중 60.7%인 3만989건이 보호처분으로 이어졌다.&lt;br&gt;&lt;br&gt;연령별로는 14세 미만이 7294명(23.5%), 16세 미만 9672명(31.2%), 18세 미만 1만241명(33.1%), 19세 미만 3782명(12.2%)이었다. 특히 촉법소년은 2021년 처음 4000명을 넘어선 뒤 2022년 5245명, 2023년 7175명으로 증가했고, 지난해 처음 7000명을 돌파해 7294명으로 집계됐다.&lt;br&gt;&lt;br&gt;촉법소년은 만 10세 이상 14세 미만으로, 형사처벌 대신 법원이 내리는 보호처분을 받는다. 보호처분은 보호자 감호위탁(1호)부터 장기소년원 송치(10호)까지 단계별로 나뉘며, 소년의 교정·선도를 목적으로 한다.&lt;br&gt;&lt;br&gt;범죄 유형별로는 절도 사건이 1만7843건(35.1%)으로 가장 많았다. 이어 폭력행위 등 처벌법 위반 4134건(8.1%), 사기 3798건(7.5%), 폭행 3770건(7.4%), 도로교통법 위반 2812건(5.5%), 성폭력범죄처벌법 위반 2419건(4.8%) 순으로 나타났다.&lt;br&gt;&lt;br&gt;반면 가정사건은 줄었다. 지난해 1심 이혼사건 접수는 2만6849건으로 전년(2만7501건)보다 2.4% 감소했고, 가정보호사건도 1만8106건으로 전년(2만1637건) 대비 16.4% 줄었다.&lt;br&gt;&lt;br&gt;가정보호사건 중 상해·폭행이 1만2876건(71.1%)으로 가장 많았고, 협박 2678건(14.8%), 재물손괴 2184건(12.1%)이 뒤를 이었다. 보호처분으로 종결된 가정폭력 행위자는 40~50세 미만이 27.5%로 가장 많았으며, 50대 25%, 60세 이상 20.6%, 30~40세 미만 17.8% 순으로 나타났다.&lt;br&gt;&lt;br&gt;가정폭력 원인으로는 ‘우발적 분노’가 22.6%로 가장 많았고, ‘부당한 대우·학대’ 17.9%, ‘현실불만’ 5.4% 순으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>짧은 흰머리에 수척해진 尹… 가슴엔 수용번호 3617</title>
