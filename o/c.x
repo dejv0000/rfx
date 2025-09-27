@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘3분에 물 5리터 못 마시면 폭행’... 다른 수감자 괴롭힌 20대 결국</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/FO5SFKWYRRAM7MUTWL257B5LHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/FO5SFKWYRRAM7MUTWL257B5LHM/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 04:48:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5GOBIZPZ4WJBTDFSTUU25GJPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구치소에 함께 구금된 수용자의 입에 샴푸를 짜 넣거나 등 가혹행위를 하고 수시로 폭행한 20대들이 실형을 선고받아 복역 기간이 늘었다.&lt;br&gt;&lt;br&gt;춘천지법 형사2부(재판장 김성래)는 특정 범죄 가중처벌법상 보복 협박, 공갈, 폭행 등의 혐의로 기소된 A(22)씨에게 징역 1년을 선고했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;또 폭력행위처벌법상 공동강요·공동폭행, 폭행 혐의로 함께 재판에 넘겨진 B(21)씨에게도 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;이들은 지난 2023년 10∼11월 서울구치소에 함께 수용돼 있던 C(23)씨에게 가혹행위를 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;공소장에 따르면 이들은 5.5리터(L) 용기에 수돗물을 채운 뒤 C씨에게 ‘3분 안에 다 못 마시면 또 마시게 하겠다’고 말하고, 물을 마시다 구토하는 C씨를 주먹과 발로 수차례 때렸다.&lt;br&gt;&lt;br&gt;이후 용기에 다시 수돗물을 채워 C씨가 모두 마시게 하고, C씨가 ‘화장실에 가고 싶다’고 하자 ‘화장실 가고 싶은 만큼 몸으로 표현해봐’라고 말하며 춤을 추는 C씨를 여러 차례 폭행했다.&lt;br&gt;&lt;br&gt;또 C씨를 바닥에 눕게 한 뒤 손으로 C씨의 배를 누르며 ‘1분 동안 오줌을 끊지 않고 싸라’고 했으나 C씨가 지시대로 못하자 용기에 다시 물을 채워 C씨가 모두 마시게 하고 주먹으로 배를 때렸다.&lt;br&gt;&lt;br&gt;A씨는 ‘내가 네 형사재판 합의를 도와주려고 쓴 시간, 정신적 스트레스 비용 등이 150만원 정도 되니 150만원을 보내라’며 협박해 C씨로부터 150만원을 뜯어낸 혐의도 받는다.&lt;br&gt;&lt;br&gt;또 C씨 입 안에 클렌징폼, 샴푸 등을 짜 넣고 수도를 틀어 마시게 하고, 신고하면 C씨 가족의 신변에 위협을 주겠다고 협박하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “범행 경위와 방법 등 죄질이 좋지 않고 피해자가 상당한 신체적·정신적 고통을 느꼈을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;이어 “특정범죄가중법 위반죄는 피해자 개인에 대한 법익 침해뿐만 아니라 일반 국민의 사법절차에 대한 신뢰를 훼손하고 피해자 보호를 위한 사법권 행사를 저해해 엄히 처벌할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“다 죽이겠다” 불꽃축제 앞두고 테러 예고글...경찰, 작성자 추적 중</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/TU7STBA735AORCY6D6HYHSVIZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/TU7STBA735AORCY6D6HYHSVIZI/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 04:46:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXY33A53DQX7R62WVHE4RI2DRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 10월 서울 여의도 한강공원에서 열린 세계불꽃축제./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청은 27일 새벽 인터넷 커뮤니티에 한강 테러 예고 글을 올린 작성자를 추적 중이라고 이날 밝혔다. 해당 글에는 “한강 가서 다 죽여버릴 것”이라는 내용이 담겼다. 이날 여의도 한강공원, 이촌 한강공원 등 한강 일대에서는 서울세계불꽃축제가 열려 100만명 규모의 인파가 몰릴 것으로 예상된다. &lt;br&gt;&lt;br&gt;경찰은 “행사 전 특공대와 경찰기동대를 배치해 안전 관리를 위한 수색에 나섰다”며 “대규모 인파가 모이는 만큼 안전사고에 각별한 주의를 기울이고 있다”고 했다.경찰은 이날 인파나 테러 등 인명 사고를 방지하기 위해 한강공원 일대에 3448명의 인력을 배치했다.&lt;br&gt;&lt;br&gt;축제를 주최한 한화에서도 1200여 명의 임직원 봉사단을 포함한 3700여 명의 안전 관리 인력을 투입했으며, 특히 관람 명소로 꼽히는 여의도 한강공원 천상계단, 마포대교 북단 나들목, 거북선나루터, 이촌 한강공원 등에 경찰과 안전 요원이 집중 배치된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생·교사 사용하는 ‘나이스’ 일부 이용 불가... “데이터 유실 문제는 없어”</title>
+      <link>https://www.chosun.com/national/education/2025/09/27/YPXZ6KOAMRF5ZAP7TP3HQTLZUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/27/YPXZ6KOAMRF5ZAP7TP3HQTLZUU/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 04:36:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V4PW4P6ZGVF4ZFCWBPKKNBEPKU.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 나이스 홈페이지에 올라온 안내문. 나이스는 "국가정보자원관리원 화재로 일부 로그인서비스(간편인증 등)가 제한되고 있다"고 밝혔다. /나이스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원에서 발생한 화재로 ‘나이스(NEIS·교육행정정보시스템)' 등 교육 관련 시스템 역시 접속에 차질이 생기고 있다.&lt;br&gt;&lt;br&gt;27일 나이스는 홈페이지에 “국가정보자원관리원 화재로 인해 일부 로그인 서비스(간편인증 등)가 제한되고 있다”며 “신속히 복구될 수 있도록 노력하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;나이스는 17개 시도교육청과 전국 1만2000여개 초·중·고교 학생과 교사 등이 성적과 생활기록부 등을 위해 사용하는 시스템이다. &lt;br&gt;&lt;br&gt;교육부는 “나이스 서버는 물리적으로 시도교육청과 나이스 총괄 센터에서 별도 관리하고 있기 때문에 데이터 유실 등의 문제는 전혀 없다”고 밝혔다. &lt;br&gt;&lt;br&gt;다만 “로그인 인증 과정에서 행안부 인증 시스템과 연계 검증되는 단계가 있어 로그인이 정상적으로 되지 않고 있다”며 “교육부 자체 인증서 검증으로 전환하기 위해 테스트 등 점검을 하고 있다”고 했다. &lt;br&gt;&lt;br&gt;경기도교육청에 따르면, 이날 나이스 외에 ‘K-에듀파인’ 로그인도 제한되고 있다. K-에듀파인은 지방 교육 행·재정 통합시스템이다. 현재 교육부 홈페이지도 접속되지 않고 있다.&lt;br&gt;&lt;br&gt;교육부는 이날 오전 “장관 직속 비상상황반이 가동 중이며, 미복구에 따른 대책을 마련 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘나는 솔로’ 출연자가 또… 시청자와 교제하다 폭행한 30대 男</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/PKRVBRQETVDZ5E6EA4ZYZTE4DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/PKRVBRQETVDZ5E6EA4ZYZTE4DQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 04:37:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHQIKALUARHHTOHRYECC23ZKTI.png"&gt;&lt;figcaption&gt;&lt;small&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 리얼리티 예능 프로그램 ‘나는 솔로’를 통해 얼굴을 알린 남성 출연자가 교제하던 여성을 폭행한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 화성동탄경찰서는 연인이던 여성을 폭행해 다치게 한 혐의(폭행치상 등)로 30대 남성 A씨를 최근 불구속 송치했다고 27일 밝혔다. A씨는 2023년 3월 11일 오후 5시쯤 전남 순천시에 있는 여성 B(30대)씨 가족 자택에서 B씨 목을 조르고 머리채를 움켜잡거나 밀친 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 사건으로 인해 B씨는 염좌 등 전치 2주 진단을 받은 것으로 알려졌다. A씨는 작년 4월 6일 오후 6시쯤 화성시 한 숙박업소에서 B씨 목을 조르는 등 폭행한 혐의도 받는다.&lt;br&gt;&lt;br&gt;과거 ‘나는 솔로’ 프로그램에 출연했던 A씨는 종영 후 오픈 채팅방을 통해 B씨를 알게 됐다. B씨 측에 따르면 A씨는 직접 오픈 채팅방을 개설해 본인의 ‘나는 솔로’ 출연 내용을 방제로 걸고 시청자들과 소통해 왔다고 한다. &lt;br&gt;&lt;br&gt;B씨는 여기에서 A씨와 대화하다 교제를 시작했으나, 이후 폭행 피해가 거듭돼 고소를 결심했다고 주장했다. B씨는 연합뉴스에 “현재까지 우울증과 불안장애 등으로 정신적 고통을 받고 있다”며 “A씨가 처벌받고 반성했으면 좋겠다는 생각에 시일이 지났지만 고소에 나섰다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>질병청 “감염병 신고·보고 시스템 장애... 유선 신고 받아"</title>
       <link>https://www.chosun.com/national/national_general/2025/09/27/RD3YGNBZTZFN7MLZ3DX5YRC3QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/RD3YGNBZTZFN7MLZ3DX5YRC3QM/</guid>
@@ -900,42 +936,6 @@
       <description/>
       <pubDate>Fri, 26 Sep 2025 04:14:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YG5GJL6FIBE3VG2V52OPTQRLW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰청. / 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 순직한 해경 고(故) 이재석 경사 사건과 관련, 부실 대응 논란과 은폐 의혹 등이 제기된 해경 간부들이 직위 해제됐다. &lt;br&gt;&lt;br&gt;해양경찰청은 이광진 전 인천해양경찰서장과 전 인천해경 영흥파출소 소장 A 경감, 전 영흥파출소 당직 팀장 B 경위 등 3명을 직위 해제했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;해경은 이들을 입건한 검찰이 지난 25일 수사개시통보서를 보내와 직위 해제 조치했다고 설명했다. &lt;br&gt;&lt;br&gt;이들은 지난 11일 이 경사 순직 사건과 관련해 부실하게 대응하고, 영흥파출소 직원들에게 이번 사고에 대해 함구하라고 지시해 진상을 은폐하려 한 의혹 등을 받고 있다. &lt;br&gt;&lt;br&gt;검찰은 최근 전담 수사팀을 구성하고 해양경찰청, 인천해양경찰서, 해경 영흥파출소 등에 대한 압수수색을 진행했다. 유족 등을 상대로 참고인 조사를 진행한 검찰은 사건 경위와 대응 적정성, 규정 준수 여부, 은폐 여부 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처 ‘청탁금지법 위반 의혹’ 전주지법 부장판사 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/XK24G7GR5ZHCXBMZBMGHA4UYRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/XK24G7GR5ZHCXBMZBMGHA4UYRY/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 03:35:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CU5SD4VQLB52U66CD6AQNF6VEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처 현판. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)가 26일 지방 로펌 변호사에게 수백만원 상당의 금품을 수수한 의혹을 받는 전주지법 부장판사에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;공수처 수사2부(부장 김수환)는 이날 오전 전주지법 A 부장판사의 주거지와 법원 사무실 등에 검사와 수사관을 보내 압수 수색을 진행 중이다. &lt;br&gt;&lt;br&gt;A 부장판사는 고교 선배인 B 변호사로부터 370만원 상당의 금품을 받은 혐의를 받는다. 또 A 부장판사 아내가 B 변호사 측 로펌의 사무실 일부를 무상으로 사용했다는 의혹도 제기됐다.&lt;br&gt;&lt;br&gt;A 부장판사와 B 변호사는 “사건 청탁을 주고받은 적 없다”며 의혹을 부인하는 것으로 알려졌다. 이 사건은 B 변호사 아내가 이혼 소송 중에 두 사람을 뇌물 수수 및 청탁금지법 위반 혐의로 경찰에 고발하면서 알려졌다. &lt;br&gt;&lt;br&gt;전북경찰청은 수사 대상이 현직 판사라는 이유로 지난 5월 공수처에 이첩했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>작업 거부했다고… 조사방에 격리·생활용품 제한, 인권위 인권침해 판단</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/Y6IUZB4PBFB23ALA6R5WXCQXZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/Y6IUZB4PBFB23ALA6R5WXCQXZU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 03:27:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PZDLYY2ZPACN2MF4YZFQFMEO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 저동 국가인권위원회 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 교도소의 조사 수용 남용과 생활용품 제한 조치가 인권 침해에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;26일 인권위에 따르면 교도소 수감자 A씨는 세탁 작업장 취업을 희망했으나 받아들여지지 않자 교도소 작업을 거부했다. 그는 “다른 교도소로 보내 달라”고 요구했는데, 작업장 분임장들이 친분이 있거나 젊은 수용자만 뽑는다는 주변 이야기를 들었기 때문이라고 했다.&lt;br&gt;&lt;br&gt;이후 A씨는 ‘조사방’에 수용됐다. 조사 수용은 수용자가 규율을 어겼다고 의심될 때 사실관계를 확인하는 동안 일반 거실이 아닌 조사방에 따로 격리하는 절차다. 증거 인멸이나 자해·타해 우려가 있을 때만 허용된다.&lt;br&gt;&lt;br&gt;조사방에는 서신 도구, 속옷 한 벌, 세면도구만 들고 갈 수 있었고 생활용품 대부분은 별도 보관됐다. A씨는 “작업을 거부하고 다른 교도소로 보내 달라고 했다는 것만으로 징벌방에 보내는 것은 인권 침해”라며 인권위에 진정을 냈다.&lt;br&gt;&lt;br&gt;교도소는 “심리적 불안 상태에서 자해·타해 우려가 있다고 판단해 분리 수용하고 개인 물품 사용을 제한했다”고 했다. 형집행법 제107조 제3호에 따라 ‘정당한 사유 없는 작업 거부’ 행위로 보고 금치 10일의 징벌을 의결했고, 조사 수용 기간 전체를 징벌 기간에 산입했다고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 인권위는 관련 기록을 검토한 결과, A씨가 교도관 회유에도 작업을 완강히 거부했거나 자신의 행동을 후회한다는 진술만 있을 뿐, 자·타해 위험이 있었다는 근거는 확인되지 않았다고 지적했다. 결국 작업 거부 행위가 조사 수용의 유일한 원인으로 드러났으며, 적법한 조사 수용으로 보기 어렵다는 것이다.&lt;br&gt;&lt;br&gt;또한 생활용품을 제한한 조치 역시 자해 우려로 볼 만한 사정이 없어 헌법 제10조에서 보장하는 일반적 행동자유권을 침해했다고 판단했다.&lt;br&gt;&lt;br&gt;인권위는 교도소장에게 재발 방지 대책을 마련하고 관련 업무 담당자에게 직무교육을 실시할 것도 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검 “진술 협조하면 형벌 감면해줄 것”… ‘구명 로비’ 길 뚫을까</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/U3PF5NQ32VASPJ572EPNUUTUAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/U3PF5NQ32VASPJ572EPNUUTUAM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 03:14:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EE22WGS3XBFK76BUJCFFHYKDC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특검의 정민영 특별검사보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 26일 개정 특검법에 따라 고(故) 채수근 상병 사망 사건에 관한 수사 기간을 한차례 더 연장하기로 했다. 특검은 개정법에 추가된 ‘수사 협조 시 형을 감경하거나 면제할 수 있다’는 조항을 적극 활용해 구명 로비 및 수사 외압 의혹을 적극 수사하기로 했다.&lt;br&gt;&lt;br&gt;정민영 특검보는 이날 기자단 브리핑에서 “수사 기간을 2차 연장하기로 결정해 오전에 대통령과 국회에 수사 기간 연장 사유를 서면으로 보고했다”며 “그간 채 상병 사건의 수사 외압에 관한 구체적 경위 등을 상당히 확인했고, 수사 중 증거인멸이나 위증 등 추가 혐의 인지한 상황이라 연장하기로 결정했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달 수사 기간을 9월 29일까지로 한차례 연장했다. 이번에 추가로 연장된 수사 기간은 10월 29일까지이며 이후 이재명 대통령의 승인을 받아 30일 더 연장할 수 있다.&lt;br&gt;&lt;br&gt;특검은 향후 개정 특검법의 ‘형벌 등 감면’ 규정을 적극 활용할 방침이다. 개정된 순직 해병 특검법 23조는 특검 수사 대상 사건과 관련해 다른 사람의 범죄를 규명하는 진술을 하거나 증거를 제출하는 경우, 자수하는 경우에 특검이 처벌을 감경하거나 면제할 수 있다고 규정한다.&lt;br&gt;&lt;br&gt;정 특검보는 “구명 로비나 수사 외압 의혹과 관련해서 여전히 협조하지 않는 분들이 많다”며 “채 상병 사망 관련 공직자의 부당한 직무 행사가 있었는지가 주된 수사 대상인 만큼, 범행 입증에 도움이 될 사실을 알고 있거나 증거를 가진 수사 대상자의 적극적인 협조가 필요한 상황”이라고 강조했다.&lt;br&gt;&lt;br&gt;이어 “그런 분들이 (감면 규정에 따라) 입장을 바꾸거나, 적극 진술해 줄 수 있을 것”이라며 “특검이 파악하지 못한 내용을 제보하거나 관련 증거를 제출하는 경우에도 감면 규정을 적극 적용할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;특검이 임성근 전 해병대 1사단장의 구명 로비 의혹과 관련해 뚜렷한 물증을 확보하지 못한 상황에서, 사건 관계자들의 협력을 이끌어내기 위해 처벌 감경·면제 규정을 적극 이용할 것이라는 전망이 나온다. 특검은 이종호 전 블랙펄인베스트 대표와 극동방송 이사장 김장환 목사 등이 구명 로비에 연루됐다고 의심하고 있지만 이를 뒷받침하는 진술 등을 확보하지 못한 것으로 알려졌다. 특검은 소환 조사에 응하지 않는 김 목사에 대해서는 법원을 통해 증인 신문하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재, 미제 사건 수 10년간 2배 증가…업역 간 갈등에 소극적 심리</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/SFBRFFRRGNCR5GPVCKG6IBMB6U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/SFBRFFRRGNCR5GPVCKG6IBMB6U/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 03:11:12 +0000</pubDate>
-      <content:encoded>헌법재판소의 장기 미제 사건이 크게 늘어난 것으로 나타났다. 정치적 민감 사안이나 업역 갈등 사건에서 결정을 미루면서 권리 구제 기능이 사실상 약화되고 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3R5FQ26EVTTH3FBRVZLZZDCQE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 국회 법제사법위원회 송석준 의원실이 헌재에서 제출받은 자료에 따르면, 미제 사건은 2015년 746건에서 2024년 1401건으로 두 배 가까이 증가했다. 이 중 95.1%인 1333건이 헌법소원 사건이었다.&lt;br&gt;&lt;br&gt;장기 미제 사건 상위 10건을 보면, 헌재가 정치적으로 민감한 사안에 대한 심리와 선고를 회피하고 있다는 분석도 나온다. 2020년 ‘패스트트랙 충돌 사건’과 관련해 여야 의원들이 낸 헌법소원은 2000일 넘게 결론이 나지 않고 있다. 1심 재판이 진행 중이라는 게 이유지만, 헌법소원에는 탄핵심판처럼 재판 정지 규정이 없어 사실상 방치하고 있다는 분석이다.&lt;br&gt;&lt;br&gt;업역 갈등을 둘러싼 사건도 장기간 결론이 나지 않고 있다. 2019년 철도노조 파업 당시 군 인력 투입이 단체행동권 침해에 해당하는지 여부는 2100일 넘게 심리가 이어지고 있다. 변호사·변리사 간 업역 분쟁 사건 역시 2020년 1월 접수 후 2088일째 결론이 없다. 환자의 연명의료 중단 결정 이행 의무를 다툰 사건도 2283일째 심리 중이다. 법조계에서는 “업역 갈등이 첨예한 사건의 심리가 늦어지면서 현장의 혼란이 커지고 있다”는 반응이 나온다.&lt;br&gt;&lt;br&gt;헌재의 사건 처리 속도도 늦어지는 추세다. 10년 전에 비해 전체 사건 평균 처리 기간은 205.1일 늘었고, 위헌법률심판은 379.4일, 탄핵심판은 169일 더 길어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>늘어나는 청소년 범죄…‘보호처분’ 촉법소년 7294명 역대 최다</title>
