@@ -13,6 +13,127 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>질병청 “감염병 신고·보고 시스템 장애... 유선 신고 받아"</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/RD3YGNBZTZFN7MLZ3DX5YRC3QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/RD3YGNBZTZFN7MLZ3DX5YRC3QM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 02:44:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZJPWWY5O7RJKDBHTCIP7WBIOBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임승관 질병관리청장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 질병관리청이 국가정보자원관리원 화재로 질병청의 일부 시스템에 문제가 생겼다고 밝혔다.&lt;br&gt;&lt;br&gt;질병청은 이날 오전 “내부 행정시스템과 질병보건통합관리시스템, 방역통합정보시스템 등에 장애가 발생하고 있다”고 했다. 이에 질병청은 종합상황실을 중심으로 비상근무 체제에 돌입했다. &lt;br&gt;&lt;br&gt;또 질병청은 감염병 신고 및 보고가 차질 없이 접수될 수 있도록 유선 신고를 받는다고 밝혔다. &lt;br&gt;&lt;br&gt;질병청에 따르면, 즉시 대응이 필요한 제1급감염병, 원인불명 감염병, 생물테러감염병 사례는 질병관리청 종합상황실(043-719-7979)로 즉시 유선 신고 하면 된다. 감염병 일반에 관한 사항은 1339 콜센터로 문의하면 된다.&lt;br&gt;&lt;br&gt;제2-3급감염병은 집단발생 의심 시 종합상황실로 즉시 신고하고, 개별 사례는 24시간 이내로 보건소로 유선 또는 팩스 신고하면 된다. 감염병 검사 의뢰는 검체의뢰서를 수기로 작성해 의뢰하면 된다.&lt;br&gt;&lt;br&gt;질병청은 “예방접종증명서 출력은 전산 문제로 이용이 안 되지만, 예방접종도우미 홈페이지는 이용 가능하다”며 “예방접종력 조회 및 의료기관 검색 서비스도 차질 없이 제공되고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZJPWWY5O7RJKDBHTCIP7WBIOBY.jpg?auth=49476903939043b0892333e5b7a81cff99697ed6c67a8e5271a31b4c36cfa197&amp;smart=true&amp;width=3208&amp;height=5088" type="image/jpeg" height="5088" width="3208">
+        <media:description type="plain">임승관 질병관리청장. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">ppkjm</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[속보]양주 찜질방서 LPG가스 폭발 사고…19명 중경상</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/5FVVPUT2LNFFDP5OTUWSJOLV64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/5FVVPUT2LNFFDP5OTUWSJOLV64/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 03:00:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 10시 20분쯤 양주시 장흥면의 한 찜질방에서 LPG가스 폭발 사고가 발생했다.&lt;br&gt;&lt;br&gt;경기 양주소방서에 따르면 이 사고로 3명이 중상을 입고, 16명이 경상을 입었다. 피해 인원은 더 늘어날 수 있는 상황이다.&lt;br&gt;&lt;br&gt;소방당국은 차량 14대를 투입해 구조·구급 작업을 벌였으며, 추가 인명 피해 여부와 정확한 폭발 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국정자원 불, 데이터 훼손될까 물 많이 못 뿌려 160도까지 치솟아...배터리 384팩 소실</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/NH3G7QOUFJGJLCIS722LL5HACI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/NH3G7QOUFJGJLCIS722LL5HACI/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 02:09:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLLYUEFZNVLO5NOFUWPQFEQPFE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt; 27일 오전 대전 유성구 국가정보자원관리원 화재현장에서 소방당국 관계자들이 폭발한 리튬배터리를 옮기고 있다. 전산 자원을 통합 관리하는 행정안전부 산하 국가정보자원관리원에서 지난 26일 오후 배터리 교체 작업 중 화재가 발생, 정부 온라인 서비스 70개가 마비됐다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국은 27일 대전 국가정보자원관리원에서 난 배터리 화재 진압이 늦어진 이유에 대해 “많은 양의 물을 뿌리면 국가의 중요한 데이터 정보가 훼손될 수 있어 신속한 진화에 어려움을 겪었다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 김기선 대전 유성소방소장은 브리핑에서 “리튬이온 배터리는 다량의 물로 진화하거나 수중에 담궈 냉각해야 하지만, 국가의 중요한 정보가 담긴 서버가 파괴되면 더 큰 손실이 우려돼 배터리 열폭주를 막기 위한 소량의 물만 지속적으로 뿌리거나 가스 소화설비만 사용했다”고 말했다.&lt;br&gt;&lt;br&gt;이에 불이 난 전산실 내부온도는 160도까지 치솟았다. 김 소장은 “진화 대원의 내부 진입이 어려워 배터리 열폭주 상황을 살피며 전산실 내부 냉각작업을 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;소방 당국은 현재 전산실 내 연기를 빼는 작업에 주력하고 있다. 소방 당국은 “조만간 불을 완전히 진화할 것 같다”고 설명했다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 지난 26일 오후 8시 20분쯤 대전시 유성구 화암동 국가정보자원관리원 5층 전산실에서 리튬이온 배터리가 폭발하며 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 27일 새벽 2시 30분쯤 2~4층 전산실 서버 보호 작업을 실시했으며, 새벽 3시 20분쯤 사다리차를 이용해 구조대원이 외부 유리창과 안쪽 격벽을 파괴해 연기를 빼는 작업을 했다고 밝혔다. 불은 새벽 6시 30분 초진됐으나 2시간 10분만에 재발화 해 진화대원들이 소화전을 이용해 다시 불을 껐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QISF4WK6T47GTTM6R5CT4E4JPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전산 자원을 통합 관리하는 국가정보자원관리원에서 지난 26일 오후 배터리 교체 작업 중 화재가 발생해 정부 온라인 서비스 70개가 마비됐다. 사진은 서울의 한 구청에 설치된 무인민원발급기가 제대로 작동하지 않고 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 불로 리튬이온 배터리팩 384개가 모두 탔다. 무정전·전원 장치(UPS)용인 이들 배터리는 일반적으로 렉(rack) 형태로, 캐비넷 형식으로 꽂혀 있다. 배터리 제조회사는 LG솔루션이라고 소방 당국은 전했다. 전산시스템과 데이터 손상 여부는 아직 확인되지 않았다.&lt;br&gt;&lt;br&gt;화재가 난 국가정보관리원의 건물 시설 관리는 KT가 맡고 있다. &lt;br&gt;&lt;br&gt;불은 배터리를 지하로 이전하기 위해 교체 작업을 하던 도중 발생했다. 이 과정에서 교체 작업을 하던 40대 업체 직원이 얼굴과 팔에 1도 화상을 입었다. 행안부는 국가정보자원관리원 화재로 대전 본원에 입주한 정부 서비스가 중단됐다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;이에 따라 대국민 행정 서비스가 647개 중단됐다. 화재로 영향을 받은 서비스는 모바일 신분증과 국민신문고 등 1등급 12개, 2등급 58개 시스템으로 파악됐다. 행안부와 기획재정부 등 정부 부처 홈페이지와 정부 온라인 민원서비스 정부 24가 장애를 보이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54VW7CV6EJLRFAB7GVTRUBZWEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김기선 대전 유성소방서장이 27일 오전 국가정보자원관리원 입구에서 전날 발생한 화재피해 내용 등을 설명하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공무원들이 사용하는 정부 메일링 시스템도 정상적으로 작동하지 않는 것으로 파악됐다. 국가 전산시스템의 핵심부가 화재로 막대한 피해를 본 만큼 시스템 복구와 정상화에는 시일이 걸릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;행안부는 이번 화재로 다양한 행정서비스 이용이 제한돼 다음과 같은 국민 행동요령을 국민들이 많이 쓰는 네이버 포털 공지(https://m.naver.com/notice)에 안내했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처장 “계엄 재판 역사적 중요성 잘 알아...신속·투명 재판 지원”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/27/ICHJ3XT4KNBGRIRPPW7ITQGFOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/27/ICHJ3XT4KNBGRIRPPW7ITQGFOU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 01:23:07 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4TAO3IOAZ6EVG3RLL5GC264YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 27일 “법원은 비상계엄 관련 사건 재판의 역사적·시대적 중요성을 잘 알고 있다”며 “신속, 투명하고 공정한 재판에 대한 국민들의 요구와 바람에 부응하기 위해 각종 재판 지원 방안을 마련해 실시 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;천 처장은 이날 서울 관악구 서울대에서 열린 제2회 한국법학자대회 축사에서 “어제(26일) 처음으로 12·3 비상계엄 관련 사건의 재판 과정에 대한 중계가 이뤄졌다”며 이같이 말했다. 이어 “앞으로 법원이 국민의 눈높이에 맞는 신속하고 공정한 재판 구현을 통해 신뢰받는 법원으로 거듭날 방안을 국회와 협력하고 논의해 적극 모색해나가겠다”고 했다. 전날 서울중앙지법은 내란 특검이 추가 기소한 윤석열 전 대통령의 체포 방해(특수공무집행 방해) 등 사건 첫 재판을 녹화 중계했다. 1·2심을 통틀어 선고가 아닌 재판 진행 과정이 중계된 건 처음이었다. &lt;br&gt;&lt;br&gt;이날 대회는 한국법학교수회가 ‘법치주의 확립을 위한 법학의 사명’이라는 주제로 개최한 것이다. 1998년 열린 1회 대회에 이어 27년 만이다. 한국법철학회·한국공법학회·한국형사법학회 등 47개 학회에서 300여명이 참석했다. 한국법학교수회는 “12·3 비상계엄 이후 훼손된 법치주의를 재정립하고 법학교육을 정상화하기 위한 해법을 모색하기 위해 마련했다”고 취지를 밝혔다.&lt;br&gt;&lt;br&gt;천 처장은 이날 “최근 여러 사법부 현안과 관련해 법학교수님들의 우려가 크시리라 생각된다”며 “사법부는 법치주의 최후 보루로서 지난 12·3 비상계엄 직후 그 위헌성을 국회에서 분명히 밝혀 국민 다수의 민주·호헌의식과 함께 했음에도 그 후 여러 혼란에 직면했다. 오늘 제시해주실 혜안 가득한 말씀에 기대하는 바가 크다”고 했다.&lt;br&gt;&lt;br&gt;또 “법철학 등 기초법학의 세례를 받은 기존 법조인들과 달리 법률 실무 위주로 교육 받은 법조인들이 법조계로 본격 진입하는 ‘법조일훤화 시대’를 맞이해 법학교육 정상화와 올바른 법조인 양성은 법학계와 법조계 공동의 과제가 됐다”고 했다. &lt;br&gt;&lt;br&gt;천 처장은 “급변하는 정치·사회·경제·문화적 환경 속에서 법학계와 법조계가 직면한 다양한 도전과 위기를 극복하고 법학의 본질적 가치를 재정립하는 것은 시대적 요구이자 공동의 책무”라며 “각자 분야에서 쌓아 온 전문성과 통찰력이 만나 시너지를 창출하고, 법학계와 법학교육 현장의 역량 강화와, 법조 실무의 전문성과 윤리성 강화로 이어지기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가정보자원관리원 화재에 중대본 가동…위기경보 ‘심각’</title>
+      <link>https://www.chosun.com/national/incident/2025/09/27/LNCIFVHY5NBWHMB7PWXY2MZMJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/27/LNCIFVHY5NBWHMB7PWXY2MZMJE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 00:19:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXJ6SA4FPVOI3EHHQFBDOBU6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 26일 국가정보자원관리원 대전 본원에 있는 전산실에서 발생한 화재로 정부 업무시스템 647개가 가동이 중단된 것으로 파악됐다. 27일 서울 시내 한 지하철역에 설치된 무인민원발급기에 시스템 오류 관련 안내문이 표시되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원에서 불이 나 10시간 만에 불길이 잡힌 가운데, 행정안전부는 위기경보수준을 ‘경계’에서 ‘심각’으로, ‘위기상황대응본부’를 ‘중앙재난안전대책본부’로 격상했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;행안부는 이날 정부서울청사에서 브리핑을 열고 “국가정보자원관리원 대전본원 업무시스템 647개가 가동이 중단된 상황”이라고 했다. 화재의 영향으로 항온항습기가 제대로 작동하지 않아 서버의 급격한 가열이 우려돼 정보시스템 보전을 위해 선제적으로 가동을 중단시킨 것이다. 현재는 항온항습기를 복구 중이다. 이후 서버를 재가동해 복구 조치할 예정으로, 우체국 금융과 우편 등 파급효과가 큰 주요 정부서비스 장애부터 복구된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSV4G7C3NHKPH3VFIL4HX2Z4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 27일 대전 유성구 국가정보자원관리원 5층 전산실 창문이 리튬이온 배터리 폭발 화재로 불에 타 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 행안부는 “시스템 정상화 이전에 기한이 도래하는 세금 납부, 서류 제출은 정상화 이후로 연장토록 유관기관에 안내하고 협조를 구했다”며 “민원이나 서비스 신청 시 대체 사이트에 접속하거나 오프라인 창구를 활용하라”고 했다. 전자가족관계등록시스템, 교통민원24 등 일부 서비스는 현재 대체 사이트를 통해 이용이 가능하다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “정부는 이번 사태의 조속한 복구를 위해 모든 역량을 총동원하고 있으며, 국민 불편을 최소화하는데 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QGICLCJQM5OOOGNX6ILF5EXOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 8시20분께 대전 유성구 국가정보자원관리원에서 불이 나 소방당국이 진화 작업을 하고 있다. 불은 5층 전산실 리튬이온 배터리에서 발생한 것으로 추정된다. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재는 지난 26일 오후 8시 15분쯤 국가정보자원관리원 본원 5층 전산실에서 발생했다. UPS(무정전 전원장치) 배터리를 지하로 이전하는 도중 전원이 차단된 배터리 한 개에서 불이 시작된 것으로 조사됐다. UPS 배터리는 전기 공급이 중단되거나 전압 변동, 주파수 변동 등 장애가 발생해도 전기를 안정적으로 사용할 수 있도록 해주는 장치다. 근무 직원은 전원 대피했으나 1명이 얼굴과 팔에 1도 화상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/YTXMMXEMTBAX7M6AWCYIRVQHTU.gif?auth=c1ca901b78cbb34556e23a717d25a374851a3f57b6aa26087ae8704d5eaf381f&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500">
+        <media:description type="plain">짤4</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>임은정 “尹 총장 때 검찰 몰락 예감...유다 같은 시대의 악역"</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/27/KQJVK6HBTNDWRPCNT7L5DIM3WE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/27/KQJVK6HBTNDWRPCNT7L5DIM3WE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 02:38:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XTEACHH4UDUTHPDCLQWZICBVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 29일 서울 여의도 국회에서 '검찰개혁의 쟁점은 무언인가 : 국민이 바라는 검찰개혁의 속도와 방향'을 주제로 열린 검찰개혁 긴급 공청회에 참석해 토론하고 있다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰청 폐지를 담은 정부조직법이 국회 본회의를 통과한 가운데 임은정 서울동부지검장은 27일 “윤석열(전 대통령)이 대검에 근무할 때 그와 함께 우리 검찰이 몰락하겠다고 예감했다”고 했다.&lt;br&gt;&lt;br&gt;그는 페이스북에 “어제(26일) 아침 피고인 윤석열의 법정 모습을 뉴스로 접하고, 저녁 정부조직법 개정안의 국회 본회의 통과 뉴스를 접했다”며 “5년 전 이런 날을 예감했으면서도 20년 넘게 검찰에 몸담은 사람으로서 서글픔이 없을 수 없어 마음에 격랑이 일었다”고 했다.&lt;br&gt;&lt;br&gt;임 지검장은 윤 전 대통령이 검찰총장이던 2020년 11월 자신이 페이스북에 올렸던 글을 인용하면서 “검찰이 감당하지도 못하는 권한을 움켜쥐고 사회 주동 세력인 체하던 시대는 저물어야 한다”고 했다. 이어 “피고인 윤석열이 여전한 것처럼 그를 대통령으로 옹립하고 옹위했던 검찰 역시 통렬한 반성과 변화를 찾기 어려운 게 현실”이라면서 “그러나 그럴수록 민심의 성난 물결에 부서지고 더 쪼개질 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “가룟 유다가 그랬듯 그(윤 전 대통령)가 시대의 악역을 감당한 게 아닐까 싶어, 역사의 순리에 모골이 송연해지고 검찰 구성원이자 후배로 안타까운 마음도 어쩌지 못한다”고 했다. 이어 “때가 이르러 해가 저물고 밤이 찾아들었지만 다시 내일의 태양이 떠오를 것”이라며 “내일이 오늘보다 훨씬 나을 수 있도록 더 궁리하고 분투해보겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가정보자원관리원 화재로 전국 화장시설 예약도 먹통</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/PMPDBES6KVCBVNFRDVYM3SUTA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/PMPDBES6KVCBVNFRDVYM3SUTA4/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 02:11:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCAJCMWYBVCUPIVLY5T2V3WJKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 e하늘 장사정보시스템 접속 화면 캡처. '사이트에 연결할 수 없음'이라는 문구가 떠 있다. /e하늘 장사정보시스템&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원 화재로 전국 화장시설 예약 시스템도 마비됐다.&lt;br&gt;&lt;br&gt;27일 보건복지부 등에 따르면 국가정보자원관리원 화재로 ‘e하늘 장사정보시스템’ 사용이 불가한 상황이다. &lt;br&gt;&lt;br&gt;e하늘 장사정보시스템은 화장시설을 상업적 목적으로 다수 선점 예약하거나 무단 취소하는 이들로 인해 실수요자(유족)가 불편을 겪는 일을 막고자 만들어진 ‘화장 예약 단일화 창구’다. e하늘 장사정보시스템에 접속하면, 원하는 시간과 화장시설을 골라 예약할 수 있다. 해당 시스템은 복지부가 구축했으며 2013년 5월부터 한국장례문화진흥원에서 위탁 운영하고 있다. &lt;br&gt;&lt;br&gt;하지만 현재 e하늘 장사정보시스템에 접속하면 ‘사이트에 연결할 수 없음’이라는 문구만 나오고 있다. 국가정보자원관리원에 화재가 발생하면서, 해당 시스템도 먹통이 된 것이다. 화장 예약 창구를 해당 시스템으로 단일화된 만큼, 전국 화장시설 온라인 예약 불가에 따른 불편이 예상된다.&lt;br&gt;&lt;br&gt;복지부는 이날 오전 11시 e하늘 장사정보시스템 등 국가정보자원관리원 화재로 인한 행정정보시스템 장애 상황 대응 회의를 진행한다. 복지부는 “11시 제1차관 주재 상황점검 회의를 통해 관련 기관과 위기 대응에 필요한 조치를 논의할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RCAJCMWYBVCUPIVLY5T2V3WJKA.png?auth=3737ebc6625eaa040918c7c394f069bd076bca39be54449866559a52effbe20d&amp;smart=true&amp;width=1404&amp;height=989" type="image/png" height="989" width="1404">
+        <media:description type="plain">27일 오전 e하늘 장사정보시스템 접속 화면 캡처. '사이트에 연결할 수 없음'이라는 문구가 떠 있다. /e하늘 장사정보시스템</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>오늘 여의도 불꽃축제...서울 곳곳 교통 통제, 한강공원 자리잡기 전쟁</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/QVXAJMS6YBCGFPJKVIEMF2JESQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/QVXAJMS6YBCGFPJKVIEMF2JESQ/</guid>
+      <dc:creator>강지은 기자, 한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 02:21:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I62PQ4YIZJLMLGTFSAOXWHB6VA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 여의도 한강공원 일대에서 열리는 '서울세계불꽃축제 2025'를 하루 앞둔 26일 행사장 주변에 시민들이 돗자리를 펴두고 자리를 선점하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 오전 9시 서울 여의도한강공원 유람선 승강장 앞 잔디밭에는 3~4인용 돗자리가 발 디딜 틈 없이 펼쳐져 있었다. 오후 7시에 시작되는 서울세계불꽃축제를 보려는 시민들이다. 이들은 텐트를 치거나 우산을 펼쳐 세워 둔 채 햇빛을 피하고 있었다. 한강 바로 앞 명당 자리를 잡은 이예진(13)양은 “압사 사고 걱정 없이 축제를 보고 싶어 일찍 집에서 나왔다”며 “경기 안산에서 오전 5시 30분에 출발해 7시 20분에 도착했는데 전날부터 자리를 잡은 사람들이 있어서 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;서울 여의도 한강공원에서 열리는 ‘서울세계불꽃축제’를 앞두고 시민들의 기대가 커지고 있다. 서울세계불꽃축제는 한강공원에서 화려한 불꽃을 볼 수 있는 서울의 대표 가을 축제다. 올해 축제는 오후 1시부터 10시까지 열리는데 본행사인 불꽃쇼는 오후 7시 20분부터 8시 30분까지 70분 동안 진행된다.&lt;br&gt;&lt;br&gt;이날 축제에는 최대 100만명의 인파가 몰릴 것으로 서울시와 경찰은 예상하고 있다. 이로 인해 오후부터 여의도 일대 극심한 교통 혼잡이 예상된다. 서울경찰청은 작년보다 1000명 늘어난 3448명의 경찰 인력을 배치한다. 축제를 주최한 한화에서도 1200여 명의 임직원 봉사단을 포함한 3700여 명의 안전 관리 인력을 투입했다. 특히 관람 명소로 꼽히는 여의도 한강공원 천상계단, 마포대교 북단 나들목, 거북선나루터, 이촌 한강공원 등에 경찰과 안전 요원이 집중 배치된다.&lt;br&gt;&lt;br&gt;오후 2시부터 10시까지 여의동로(마포대교 남단~63빌딩) 차량 통행은 전면 통제된다. 여의나루로와 국제금융로 등 주변 5개 구역은 상황에 따라 탄력적으로 통제된다. 강변북로와 올림픽대로 등 자동차전용도로에 불법 주정차한 차량은 즉시 견인 조치된다.&lt;br&gt;&lt;br&gt;행사 종료 뒤 귀가 인파가 집중되는 시간대에는 마포대교와 한강대교 하위 1개 차로를 통제해 임시 보행로를 확보하고, 응급차량이 다닐 수 있도록 비상차로도 운영한다. 여의나루역 등 일부 지하철역은 이용객 밀집 상황에 따라 출입이 제한되거나 열차가 무정차 통과할 수 있다. 대신 지하철은 5호선 18회, 9호선 62회 늘려 운행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전원 안정 장치 배터리서 발화, 정부 “우편 등 필수 서비스 우선 복구”</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/QUBRZIIBINGRDK3VGCSFML625I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/QUBRZIIBINGRDK3VGCSFML625I/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 01:10:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUTU4DCGH5MU3AJFQZICCQEAY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 행정안전부 차관이 27일 오전 서울 종로구 정부서울청사에서 국가정보자원관리원 화재 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원 화재로 27일 현재 정부 업무시스템 647개가 가동이 중단되는 초유의 사태가 발생했다. 정부는 우체국 금융, 우편, 정부 24 등 국민들이 많이 쓰는 서비스부터 복구하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김민재 행안부 차관은 이날 정부서울청사 긴급브리핑에서 “이번 화재로 항온항습기가 작동하지 않아 서버의 급격한 가열이 우려됐고, 정보시스템을 안전하게 보전하기 위해 선제적으로 가동을 중단시켰다”며 이같이 설명했다.&lt;br&gt;&lt;br&gt;국가정보자원관리원은 공공기관의 정보기술(IT) 시스템이 집결된 곳이다. &lt;br&gt;&lt;br&gt;장애 발생 시 국민 생활과 직결된다. 정부는 사용자 수, 파급도 등을 합산해 1~4등급으로 분류한다. &lt;br&gt;&lt;br&gt;이번 화재로 모바일 신분증 등 1등급 12개와 2등급 58개 등 총 70개 시스템이 영향을 받아 서비스가 중단됐다. 우체국 금융, 우편, 정부 24와 국민 신문고 등도 서비스가 중단됐다.&lt;br&gt;&lt;br&gt;중앙부처 홈페이지와 정부 e메일 시스템도 접속이 불가한 상태다.&lt;br&gt;&lt;br&gt;김 차관은 “현재 항온항습기를 복구 중이고, 이후 서버를 재가동해 복구 조치를 하려한다”며 “우체국 금융과 우편 등 대국민 파급효과가 큰 주요 정부 서비스 장애부터 신속히 복구하겠다”고 말했다.&lt;br&gt;&lt;br&gt;정부는 국민들의 민원 처리가 지연돼 불이익을 받는 일이 없도록 시스템 정상화 전에 도래하는 세금 납부, 서류 제출은 정상화 이후로 연장토록 유관기관에 안내하고 협조를 구했다. &lt;br&gt;&lt;br&gt;또 언론과 네이버 포털 등을 통해 대체 사이트 안내 등 필요한 조치를 취했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSV4G7C3NHKPH3VFIL4HX2Z4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 대전 유성구 국가정보자원관리원 5층 전산실 창문이 리튬이온 배터리 폭발 화재로 불에 타 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 차관은 “국민께서는 다소 불편하시더라도 민원이나 서비스를 신청할 경우 해당 기관의 안내에 따라 대체사이트에 접속하거나 오프라인 창구를 활용해주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난 26일 오후 8시 15분쯤 중앙 정부와 공공기관의 통신 시스템이 집결된 대전 국가정보자원관리원에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;소방청에 따르면 불은 5층 무정전 전원장치(UPS)실 리튬배터리에서 발생한 것으로 추정된다. UPS는 단전, 주파수 이상 등의 경우에 대비해 안정적인 전원을 기기에 공급하는 장치다. 58V 리튬배터리 12개를 수납한 캐비넷 16개 중 8개가 일부 소실됐다. &lt;br&gt;&lt;br&gt;소방당국은 장비 30여 대와 인력 90여 명을 투입해 진화 작업을 벌였다. 전산실 보호를 위해 대량으로 물을 뿌리지 못해 전산실 내부 온도가 160도까지 높아졌다고 소방당국은 밝혔다. 이 불로 내부에 있던 40대 근로자 1명이 경상을 입어 병원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방은 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임은정 “檢, 감당 못할 권한 쥐고 사회 주동세력인 척 하던 시절 저물어야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/6EC2L7JYBREXBLRA53KCKFCHTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/6EC2L7JYBREXBLRA53KCKFCHTU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 01:59:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2FHRGIJ3MIOTNCKXKFCTYPKOOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 임은정 서울동부지검장이 “검찰이 감당하지도 못하는 권한을 움켜쥐고 사회 주동 세력인 체하던 시대는 저물어야 한다”고 했다. 검찰청 폐지 등을 골자로 한 정부조직법 개정안이 전날 국회를 통과한 것에 대한 입장을 밝힌 것이다.&lt;br&gt;&lt;br&gt;이날 임 검사장은 자신의 소셜미디어에 “검찰이 감당하지 못하는 권한을 흔쾌히 내려놓고 있어야 할 자리로 물러서는 뒷모습이 흉하지는 않았으면 좋겠다는 생각이 간절했다”며 “그럴 리 없다는 것을 잘 알고 있다”고 했다. 그러면서 “파열음이 요란하겠지만 결국 검찰의 시대는 저물 것이고 우리 사회는 나아갈 것”이라고 덧붙였다. 또 “그릇에 넘치는 권한이라 감당치 못하니 넘치기 마련이고, 부끄러움을 알고 현실을 직시하는 지혜가 있었다면 이렇게까지 안 됐을 것”이라며 “검찰 구성원이라 속상하지만 의연하게 일몰을 맞을 것”이라고 했다.&lt;br&gt;&lt;br&gt;지난 26일 정부조직법 개정안이 국회 본회의를 통과하며 검찰청은 사라지게 됐다. 1948년 8월 정부 수립과 함께 개청한 지 78년 만이다. 기소만 담당하는 공소청과 부패·선거·마약 범죄 등 9대 주요 범죄 수사를 하는 중대범죄수사청(중수청)이 검찰청 대신 신설된다. 이번 개정안은 1년의 유예 기간을 거쳐 시행될 예정이다.&lt;br&gt;&lt;br&gt;임 검사장은 이재명 대통령 취임 후 발족한 국정기획위에서 정치·행정 분과 전문위원을 맡아 검찰 개혁 등을 다뤘고, 현 정부 첫 검찰 고위 간부 인사에서 검사장으로 승진했다. 그간 소셜미디어에 검찰을 비판하는 글을 수시로 올렸다. 지난 7월 동부지검장으로 첫 출근하는 날에도 “검찰의 한 시대를 마무리 짓는 ‘장의사’의 역할을 다하겠다”고 취임 소감을 밝혀 논란이 된 적이 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전속계약 어기고 연예활동한 박유천...2심도 “전 소속사에 5억원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/27/ZMWVLHCPKNBIBKP2AIPGJ7HQVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/27/ZMWVLHCPKNBIBKP2AIPGJ7HQVI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 01:39:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTQEALY5JJCWH2KQRXSTITBGBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 박유천. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 배우 박유천(39)이 전속계약을 어기고 해외 공연 등 독자 연예 활동을 한 대가로 전(前) 소속사에 5억원을 배상해야 한다는 2심 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 서울고법 민사8-1부(재판장 김태호)는 라우드펀투게더(구 예스페라)가 박유천과 전 소속사인 리씨엘로를 상대로 낸 손해배상 소송 2심에서 지난 25일 “피고들이 공동해 5억원과 지연이자를 지급하라”고 판결했다.&lt;br&gt;&lt;br&gt;라우드펀투게더는 2020년 1월 당시 박유천 모친이 대주주로 있던 리씨엘로와 계약을 맺고 2024년까지 박유천에 대한 독점적 매니지먼트 권한을 위임받았다. 그런데 박유천은 이듬해 5월 전속계약 해지를 요구했고, 협상에 실패하자 라운드펀투게더 측에 “정산금을 지급하지 않으면 전속계약을 해지할 수 있다”는 공문을 보냈다. &lt;br&gt;&lt;br&gt;라우드펀투게더 측이 대응하지 않자 박유천은 일방적으로 계약 해지를 통보한 후 지인이 운영하는 다른 매니지먼트 업체 A사를 통해 연예활동을 했다. 2021년 8월 법원이 라우드펀투게더가 박유천을 상대로 낸 방송 출연·연예활동 금지 가처분 신청을 인용했지만, 박유천은 법원 결정을 무시하고 해외 공연과 광고 등 활동을 지속했다. 이에 라우드펀투게더는 박유천과 리씨엘로 등이 매니지먼트 권한을 침해했다며 5억원의 손해배상을 냈다. &lt;br&gt;&lt;br&gt;1심 법원은 2023년 12월 “박유천이 전속계약과 가처분 결정을 위반했고 불법행위에 따른 손해배상 책임을 부담한다”며 5억원과 지연손해금을 배상하라고 판결했다. 2심도 “박유천이 라우드펀투게더와 전속계약 기간 중 A사와 별도 계약을 체결한 다음 동의 없이 연예활동을 한 사실을 인정할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 다만 리씨엘로 측의 반소(맞소송) 청구도 일부 받아들여 라우드펀투게더가 리씨엘로에 박유천 관련 굿즈 판매, 유료 팬클럽, 해외 공연·행사 등 정산금 4억9700만원 상당을 지급해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 초등 특수교사, 사망 11개월만에 순직 인정</title>
+      <link>https://www.chosun.com/national/education/2025/09/27/UIQJUWFBYNCUJON7YQCH44H5QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/27/UIQJUWFBYNCUJON7YQCH44H5QM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 00:55:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H65FCC5OVE473YO7HCUPKU23GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 인천장애인부모연대 등 4개 단체가 인천 특수교사 사망에 대한 진상규명 실시를 촉구하는 기자회견을 열었다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정원을 초과한 특수학급을 맡아 격무에 시달리다가 작년 10월 숨진 초등학교 특수교사가 순직을 인정받았다. &lt;br&gt;&lt;br&gt;27일 인천시교육청 등에 따르면 인사혁신처는 최근 인천 모 초등학교 특수교사 30대 A씨의 순직을 인정했다. A씨는 과밀 특수학급을 혼자 책임지며 과중한 업무로 힘들어하다 작년 10월 24일에 숨졌다. 사망한 지 11개월만에 순직이 인정된 것이다.&lt;br&gt;&lt;br&gt;인사혁신처는 구체적인 순직 인정 사유를 밝히지 않았지만, A씨의 사망과 업무 사이에 인과관계가 있다고 판단한 것으로 전해졌다. 이에 따라 A씨 유가족은 유족급여를 받을 수 있게 됐다.&lt;br&gt;&lt;br&gt;인천시교육청 소속 공무원 5명과 교직단체 소속 5명, 유가족 추천 2명 등으로 구성된 ‘진상조사위원회’는 “숨진 특수교사는 과도한 수업과 행정업무 등 과중한 공무수행에 따른 어려움으로 숨졌을 가능성이 크다”는 보고서를 지난달 말 발표했다. &lt;br&gt;&lt;br&gt;교원단체들은 “A씨의 순직이 인정돼 다행”이라면서도 “비극이 반복되지 않도록 대책 마련이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;한국교원단체총연합회는 “고인의 헌신과 희생을 뒤늦게나마 국가가 인정한 마땅한 결정”이라며 “유족의 고통을 덜어주고 교직 사회에 큰 위로가 되는 계기가 되길 바란다”고 했다. 또 “특수학급 과밀 해소, 통합학급 지원 인력 확충, 특수학교 신설 확대 등 근본적인 대책이 마련돼야 한다”고도 지적했다.&lt;br&gt;&lt;br&gt;교사노동조합연맹 역시 “다시는 소중한 동료를 잃는 일이 반복되지 않도록 국가와 교육당국이 특수교육을 비롯한 교육 현장의 목소리에 책임있게 응답해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H65FCC5OVE473YO7HCUPKU23GI.jpg?auth=501db879be9ed77a561a7b375b2f01fa9cf4b7cd218e08c908089d6dfbabf3fa&amp;smart=true&amp;width=1440&amp;height=1081" type="image/jpeg" height="1081" width="1440">
+        <media:description type="plain">작년 11월 인천장애인부모연대 등 4개 단체가 인천 특수교사 사망에 대한 진상규명 실시를 촉구하는 기자회견을 열었다. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>대전 국가정보자원관리원 화재 10시간 만에 초진</title>
       <link>https://www.chosun.com/national/national_general/2025/09/27/FADTAPTOZZCNRCWJZJXUA35SBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/FADTAPTOZZCNRCWJZJXUA35SBM/</guid>
@@ -838,81 +959,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘중대재해법 위반’ 삼강에스앤씨 전 대표 대법서 징역 2년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/VKJN6NTTS5FMVK2H6DDZW7NXDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/VKJN6NTTS5FMVK2H6DDZW7NXDE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 02:33:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QMIF3AQ7FAMFCSULPKWJZDQZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 하청업체 노동자가 숨진 사고로 재판에 넘겨진 원청 업체 대표에게 징역 2년을 선고했다. 중대재해처벌법 시행 후 경영 책임자에게 실형이 확정된 두 번째 사례다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법권)가 26일 중대재해처벌법 위반(산업재해치사) 혐의로 기소된 삼강에스앤씨 전 대표이사 송모씨에게 징역 2년을 선고한 원심을 확정했다. 회사에 함께 책임을 묻는 양벌(兩罰) 규정에 따라 기소된 삼강에스앤씨도 벌금 20억원이 확정됐다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2022년 2월 19일 경남 고성군에 위치한 삼강에스앤씨 사업장에서 55세 노동자 A씨가 안전대 고리를 채우지 않은 상태로 선박 보수 공사를 하다가 8m 높이에서 추락해 숨진 사고가 발단이다. 해당 노동자는 삼강에스앤씨에서 선박 난간 보수 공사를 하청 받은 업체 소속으로 출근한지 닷새 만에 사고를 당했다.&lt;br&gt;&lt;br&gt;대표이사인 A씨는 작업 중 추락 위험을 예방하기 위한 안전 시설을 설치하지 않은 혐의 등으로 기소됐다. 특히 이 사업장에서는 2021년 3월과 4월에도 하청업체 노동자가 작업 도중 사망하는 등 1년도 되지 않은 기간에 A씨 포함 3명이 숨진 것으로 드러났다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 징역 2년을 선고했고, 삼강에스앤씨에 대해서는 벌금 20억원을 선고했다. 1심 재판부는 “A씨는 시간·비용 등의 절약을 최우선 순위에 두고 근로자의 안전 보장은 뒷전으로 하는 입장을 유지했다”며 “근로자의 안전을 위협하는 구조적 문제를 파악해 해결하기 위한 조치와 노력을 소홀히 했다”고 지적했다. 2심도 “중대재해처벌법 제정 이유는 사고를 사전에 방지하기 위한 것임에도 삼강에스앤씨에서는 단기간 계속 사고가 발생했다”며 A씨의 책임을 인정했다.&lt;br&gt;&lt;br&gt;대법원도 “원심 판단에 중대재해처벌법 위반죄의 안전 확보 의무 위반 등에 관한 법리를 오해한 잘못이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;일선 법원에서는 중대재해처벌법 사건을 엄벌하는 경향이 있다. 최근 수원지법은 ‘경기 화성 아리셀 공장 화재 사고’와 관련해 중대재해처벌법 위반 등 혐의로 기소된 박순관 대표에게 징역 15년을 선고했다. 중대재해처벌법 시행 이후 최고 형량이다. 법조계에서는 중대재해처벌법 관련 구체적인 양형 기준을 마련할 필요가 있다는 이야기가 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>디지틀조선일보 창립 30주년... 김영수 대표 “AI 시대, 글로벌 플랫폼으로 도약할 것”</title>
-      <link>https://www.chosun.com/national/people/2025/09/26/I4MHQTEXKJHUBNFTZEZEL76HKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/26/I4MHQTEXKJHUBNFTZEZEL76HKI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 02:20:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EOFWYDRDXVBLHFVVWYIH2K3X74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영수 디지틀조선일보 대표가 25일 서울 중구 한국프레스센터에서 열린 창립 30주년 기념식에서 환영사를 하고 있다./디지털조선일보 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;디지틀조선일보는 25일 서울 중구 한국프레스센터에서 창립 30주년 기념식을 열었다.&lt;br&gt;&lt;br&gt;이날 행사에는 이재명 대통령의 서면 축사가 전달됐고, 정·관계 및 경제·사회계 주요 인사 200여 명이 참석했다. 장동혁 국민의힘 당대표, 조은희 국민의힘 의원, 인보길 뉴데일리 회장이 차례로 축사를 전했다. &lt;br&gt;&lt;br&gt;김영수 디지털조선일보 대표는 환영사에서 “1995년, 디지틀조선일보는 ‘도전, 신뢰, 혁신’이라는 가치를 내걸고 대한민국 최초의 인터넷 신문 조선닷컴을 창간했다”며 “이는 언론의 새로운 시대를 여는 역사적인 출발이었다”고 말했다.&lt;br&gt;&lt;br&gt;김 대표는 앞으로 30년의 핵심 키워드로 AI(인공지능)를 꼽았다. 그는 “지금 세계는 AI라는 거대한 파도 위에 서 있다”며 “AI는 콘텐츠의 생산·전달 방식은 물론 삶의 양식까지 바꾸고 있다”고 강조했다. 디지틀조선일보는 뉴스 편집·배포, 독자 맞춤형 콘텐츠 추천, 광고 솔루션 최적화 등 AI를 다양한 영역에 접목하는 연구를 진행하고 있다. 김 대표는 “보다 빠르고 정밀한 데이터를 기반으로 독자에게 맞춤형 콘텐츠를 제공하겠다”고 했다. &lt;br&gt;&lt;br&gt;김 대표는 “우리는 여기서 멈추지 않을 것”이라며 “AI와 데이터 역량을 결합해 온오프라인에서 글로벌 수준의 플랫폼을 구축해 미래를 선도해 나갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;디지틀조선일보는 지난 30년간 국내 미디어 지형에 여러 ‘최초’ 기록을 남겼다. 인터넷 신문을 기반으로 위성을 활용한 뉴스 전광판 네트워크를 구축해 도심 곳곳에 실시간 뉴스를 전달했고, 업계 최초로 신문 제작 전 과정을 자동화하는 시스템을 도입했다. 인터넷 방송국 개설, 위성 기지국 운영 등 다양한 뉴미디어 실험으로 시장을 개척했으며, 온라인 교육과 문화 콘텐츠 사업으로 영역을 확장해 종합 디지털 미디어 기업으로 성장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대검, 일반 최고위직 사무국장직에 권영준 임용</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/HFLTXHLPRJACVEOMYVAFFZB2SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/HFLTXHLPRJACVEOMYVAFFZB2SA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 02:00:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D5YNNQV3JMTV7KIMU7MQFPATQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권영준 신임 대검찰청 사무국장./법무부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 일반직 최고위직인 대검찰청 사무국장에 권영준(56) 현 서울중앙지검 사무국장이 임명됐다.&lt;br&gt;&lt;br&gt;법무부는 9월 29일자로 대검 사무국장에 윤 국장을 임명했다고 26일 밝혔다. 대검 사무국장은 검찰 일반직 중 가장 높은 직급으로 고위공무원단 가급(1급)이다. 대검 내 행정사무와 보안·회계 등 일반직 업무를 총괄하며 전국 검찰 수사관들의 인사권에 관여하는 핵심보직이다.&lt;br&gt;&lt;br&gt;권 국장은 1996년 검찰직 5급 공채(행정고시 39회)에 합격해 공직에 입문한 이후 2007년 2월 서울서부지검 검사직무대리를 지냈다. 이후 대검찰청 검찰연구관, 서울중앙지검 기록관리과장을 맡았고, 2018년 검찰부이사관으로 승진했다. 그는 의정부지검 고양지청·부산지검 동부지청·서울남부지검·수원고검 사무국장 등을 지내며, 수사와 검찰 행정 등 검찰 내 여러 분야에서 주요 보직을 맡았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘공직선거법 위반’ 박수영 의원...1심서 ‘벌금 90만원’ 선고</title>
-      <link>https://www.chosun.com/national/regional/2025/09/26/XVV6HWPPSNEHTNJNZKF3H2XD4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/26/XVV6HWPPSNEHTNJNZKF3H2XD4Y/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 01:42:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5GAWZIS3WHIJGKQWA2YZPCCHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 박수영 의원. /양수열 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 26일 공직선거법 위반 혐의로 기소된 국민의힘 박수영(부산 남구) 의원에게 벌금 90만원을 선고했다. &lt;br&gt;&lt;br&gt;재판부는 “국회의원이자 부산시당위원장으로서 선거 사무를 엄중하게 처리해야할 책임이 있으나 사실 관계를 대체로 인정하고 1회에 그쳤다”면서 “범죄 전력이 없고 초범인 점을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;박 의원은 국회의원직은 유지하게 됐다. 공직선거법상 벌금 100만원 이상의 형이 확정되면 의원직을 상실하게 된다.&lt;br&gt;&lt;br&gt;박 의원은 지난해 10월 부산 금정구청장 보궐선거 운동 기간 부산시당위원장과 본인 명의로 국민의힘 후보 지지를 호소하는 문자메시지를 대량으로 발송한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 1일 열린 결심 공판에서 박 의원에게 벌금 150만원 구형했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법 “공익 제보를 위한 개인정보 이용은 무죄”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/XYZDYIIJ4ZBYFMLSGXIW2KF5EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/XYZDYIIJ4ZBYFMLSGXIW2KF5EY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 01:52:31 +0000</pubDate>
-      <content:encoded>직장 동료의 부정 행위를 제보하기 위해 개인정보를 몰래 확인해 고발장에 적어도 정당하다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ULMMXFFD6IAUJRKOTMQRWKYSLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 오석준 대법관)는 최근 개인정보보호법 위반 혐의로 기소된 부산환경공단 직원 A씨에게 벌금 100만원을 선고한 원심을 깨고 사건을 부산지법으로 돌려보냈다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2021년 4월 부산환경공단 서부시설사업소에서 근무하던 도중 직장 동료 B씨가 초과근무수당을 부정 수급했다고 고발했다. 이 과정에서 A씨는 B씨 동의 없이 그의 건강검진 문서를 확인해 알아낸 주민등록번호·주소·휴대전화번호 등 개인정보를 고발장에 기재했다. 검찰은 이를 문제 삼아 A씨를 개인정보보호법 위반 혐의로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;1심은 A씨에게 벌금 100만원을 선고했다. 1심은 “건강검진 대상자 확인이라는 당초 목적과 다르게 개인정보를 이용했다”면서 “설사 피고인의 고발행위가 공익적 목적으로 이뤄진 것이라 해도 예외 사유에 해당한다고 할 수 없다”고 판단했다. 2심도 같은 판단을 내렸다.&lt;br&gt;&lt;br&gt;그러나 대법원은 A씨가 정당 행위를 했다고 보고 사건을 파기 환송했다. 대법원은 “고발 대상자를 특정하고 수사를 진행하기 위해 기재된 개인정보는 최소한의 수준으로 보인다”며 “사회상규에 반하지 않는 정당 행위에 해당한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “A씨가 B씨의 개인정보를 고발장에 기재함으로써 B씨에게 사회통념상 용인할 수 없는 피해가 발생했다고 보기 어렵고, 고발장을 제출받은 수사기관이 이를 다른 목적으로 활용할 위험성도 크다고도 할 수 없다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전남 진도서 ‘동료 살해’ 40대 베트남 계절근로자 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/T2DYE7PCU5C7LJKBNNKKWCYOEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/T2DYE7PCU5C7LJKBNNKKWCYOEA/</guid>
-      <dc:creator>진도=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 01:14:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GPS37KD62DWEYDLUG2Q6UB7ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 진도경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도에서 동료 외국인 근로자를 살해한 베트남 국적 계절 근로자가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;전남 진도경찰서는 26일 “같은 국적의 계절 근로자인 동료를 살해한 혐의(살인)로 베트남 국적 40대 A씨를 현행범 체포했다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 전날 오후 10시 30분쯤 전남 진도군 숙소에서 함께 지내던 베트남 국적 30대 B씨를 흉기로 살해한 혐의를 받고 있다. 이들은 같은 농가에서 일하며 같은 숙소에서 숙식을 해왔던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이들이 머물던 숙소에서 함께 생활하던 다른 동료들의 신고를 받고 출동해 A씨를 붙잡았다. 경찰은 A씨를 상대로 정확한 사건 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7GPS37KD62DWEYDLUG2Q6UB7ZE.jpg?auth=9c82a3567315bcfaf47658ce8aa8a8a9566fdf5fc34a98743904533ad7b01734&amp;smart=true&amp;width=6720&amp;height=4480" type="image/jpeg" height="4480" width="6720">
-        <media:description type="plain">전남 진도경찰서. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>김건희 특검, ‘삼부토건 주가조작’ 핵심 인물 이기훈 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/MLULYNN435BXVGZTBFM67GCXF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/MLULYNN435BXVGZTBFM67GCXF4/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 01:40:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGWI7JZHD6XG3DDNJ6ZE3NE2II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 삼부토건 부회장(겸 웰바이오텍 회장)이 경찰에 체포돼 11일 서울 종로구에 마련된 김건희특검 사무실로 들어서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘삼부토건 주가조작 의혹’ 핵심 인물인 이기훈 전 삼부토건 부회장을 26일 구속 기소했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 “이 전 부회장을 삼부토건의 이일준 회장, 이응근 전 대표 등과 공모해 2023년 5~6월 우크라이나 재건사업 관련 허위 보도자료를 배포해 삼부토건 주가를 부양함으로써 약 369억원 상당의 부당 이득을 취득한 혐의(자본시장법 위반)로 구속 기소했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 2023년 5월부터 우크라이나 재건 사업을 추진할 것처럼 투자자들을 속여 시세 조종을 한 것으로 특검 조사 결과 드러났다. 이 의혹은 김건희 여사 측근인 이종호 전 블랙펄인베스트먼트 대표가 2023년 5월 지인 카카오톡 대화방에서 ‘삼부 내일 체크하고’라는 메시지를 올린 사실이 뒤늦게 드러나며 제기됐다.&lt;br&gt;&lt;br&gt;이후 여권의 의혹 제기가 계속되자 금감원이 조사에 나섰고, ‘김 여사 관련 의혹’으로 이번 김건희 특검팀 수사 대상에 올랐다. 다만 아직 이 사건과 김 여사와의 연관성은 드러나지 않은 상황이다.&lt;br&gt;&lt;br&gt;이 전 부회장은 이 회장과 조성옥 전 회장을 연결하고 주가조작을 주도한 인물로 꼽혔다. 지난 7월 17일 구속영장 실질심사에 출석하지 않고 도주했다가 55일 만인 지난 10일 전남 목포에서 검거됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘믿었던 교장 선생님이’... 초등학생 250회 성적학대 혐의 ‘징역 8년’ 선고</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/09/26/NAVOFP33VZCCZM7ZHUBDSRYYIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/09/26/NAVOFP33VZCCZM7ZHUBDSRYYIM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 00:46:46 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보호 의무를 저버리고 학생들에게 성적 학대를 일삼은 초등학교 교장이 징역형을 선고받았다. &lt;br&gt;&lt;br&gt;춘천지법 원주지원 형사1부(이승호 부장판사)는 26일 성폭력처벌법상 13세 미만 미성년자 위계 등 추행과 아동학대처벌법상 아동복지시설 종사자 등의 아동학대 혐의로 기소된 초등학교 교장 A(62)씨에게 징역 8년을 선고했다. 이와 함께 성폭력 치료 프로그램 및 아동학대 치료 프로그램 80시간 이수, 아동·청소년 관련 기관 등에 10년간 취업 제한 명령도 내렸다.&lt;br&gt;&lt;br&gt;A씨는 2023년 4월 초부터 같은 해 12월 말까지 자신이 교장으로 근무하던 초등학교 교장실과 운동장에서 학생 10명을 상대로 250회에 걸쳐 위력으로 추행하고, 성희롱을 일삼는 등 성적 학대를 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이번 사건에서 중요한 증거로 채택된 범행 장면 영상은 피해 학생 친구들이 친구를 돕기 위해 남긴 것이었다. 이들은 범행 장면을 촬영하고 채팅방을 만들어 대책을 논의하는 등 증거를 수집한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;재판부는 “범행 발생 장소와 경위, 피고인과 피해자들의 관계, 피해자들의 나이 등에 비춰 죄질이 매우 무겁다”며 “이 사건 범행이 피해자들의 건강한 성장에 부정적 영향을 미칠 것이 우려된다”고 판시했다. &lt;br&gt;&lt;br&gt;한편 A씨는 지난 2월 12일 교육공무원 징계위원회에 넘겨져 파면 처분을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천대교서 차량 세운 운전자 실종... 해경 수색, 이달 들어 4번째</title>
       <link>https://www.chosun.com/national/incident/2025/09/26/WW2PODVQGFA3PFVGSPFQDEASHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/26/WW2PODVQGFA3PFVGSPFQDEASHM/</guid>
@@ -922,33 +968,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSETH7KN2JY4B6TGVT3WV6PBRI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시 연수구 송도동에서 바라본 인천대교./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항이 있는 영종도와 송도국제도시를 잇는 인천대교 주탑 부근 갓길에 차량을 세운 운전자가 실종돼 해경이 수색에 나섰다. &lt;br&gt;&lt;br&gt;26일 인천해양경찰서에 따르면 이날 오전 3시 39분쯤 “차량 정차 후 해상으로 추락한 사람이 있다”는 인천대교 상황실의 신고가 접수됐다. &lt;br&gt;&lt;br&gt;해경은 인천대교 주탑 부근 갓길에서 세워진 차량을 발견했다. 차량 안에 유서가 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;해경은 40대 남성으로 추정되는 운전자가 바다로 추락한 것으로 보고 경비함정 3척을 투입해 수색하고 있다. &lt;br&gt;&lt;br&gt;이달 들어 인천대교에서 투신 사고가 발생한 것은 A씨를 포함해 모두 4건이다. 지난 9일과 22일, 25일에도 발생했다. &lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족ㆍ지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 자살예방 SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>光州의 실험 “출근 1시간 늦추니 아이가 웃어”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/26/R52WCHW43VETVITOR34JR2E3JI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/R52WCHW43VETVITOR34JR2E3JI/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMZ2MODBMNBD5MTV7WBZO76QI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산구 신가동에 사는  김동춘씨. 10시 출근제로 아침에 여유가 생기면서 두 아들을 등교 시키고 있다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 광산구에 사는 직장인 김동춘(44)씨는 지난 3월부터 4개월간 초등학생 아이들 손을 잡고 아침 등굣길을 걸었다. 회사 출근 시간이 오전 9시에서 10시로 1시간 늦춰진 덕분이었다. 김씨는 “아이들과 인사도 못 하고 출근하는 날이 대부분이었는데 모처럼 출근 걱정 없이 아이들과 함께 등교했다”며 “입학 철이라 더 좋았다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFMPVXOQ5ZAI3AGRFQWLDAZ6EM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초등학생 자녀를 둔 김동춘(44)씨가 지난 23일 오전 8시 30분쯤 광주광역시 광산구 신가동 선창초등학교로 두 자녀를 데려다 주고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세 부자(父子)가 손잡고 등교할 수 있었던 건 광주시가 2022년 도입한 ‘초등 학부모 10시 출근제’ 덕분이다. 출근 시간을 1시간 늦추는 대신 시가 회사에 지원금을 주는 제도다. 대기업과 달리 육아 지원 제도가 부족한 중소기업을 위해 만들었다.&lt;br&gt;&lt;br&gt;초등학생 자녀 1명당 2개월씩 1시간 늦게 출근하거나 1시간 일찍 퇴근할 수 있다. 그러면 시가 회사에 아이 1명당 월 40만원씩 지원금을 준다. 김씨는 아이가 둘이라 4개월 동안 1시간 늦게 출근했다. 김씨가 다니는 회사는 지원금 160만원을 받았다.&lt;br&gt;&lt;br&gt;“처음엔 걱정했는데 오히려 업무 능률이 올랐어요.” &lt;br&gt;&lt;br&gt;김씨가 다니는 컴퓨터 제조 업체 대표 강철원(49)씨 얘기다. 강씨는 “직원들이 여유 있게 출근하면서 아이들 걱정과 출근길 스트레스가 줄었다. 지각하는 직원도 없었다”며 “근무시간이 1시간 줄었는데도 오후 6시 전까지 딱딱 일을 마무리하더라”고 했다.&lt;br&gt;&lt;br&gt;김씨처럼 10시 출근제를 활용한 직원은 51명 중 5명. 강씨는 매주 월요일 오전 9시에 열던 회의를 오전 10시 30분으로 미뤘다. 그는 “직원 가족들한테 ‘너무 고맙다’는 전화도 받았다”며 “출근을 1시간 미뤘을 뿐인데 ‘1시간의 마법’이 따로 없다”고 했다.&lt;br&gt;&lt;br&gt;초등생 학부모 10시 출근제는 임선주 광주시 직장맘지원팀장이 구상했다. 임 팀장은 “광주에는 육아 지원 제도를 운영하기 어려운 열악한 중소기업이 많다”며 “대기업·중소기업 간 격차를 줄여보려고 없는 예산을 짜내 시작했다”고 말했다. &lt;br&gt;&lt;br&gt;임 팀장은 “비슷한 제도로 ‘육아기 근로시간 단축 제도’가 있지만 부모들의 불만이 많았다”고 했다. &lt;br&gt;&lt;br&gt;정부의 육아기 근로시간 단축 제도는 초등학생 자녀를 둔 근로자가 1~3년간 주당 15~35시간씩 근로시간을 줄일 수 있는 제도다. 광주시 관계자는 “필요한 제도지만 현실에선 부모와 회사 모두 사용하길 꺼렸다”며 “특히 중소기업 근로자들은 쓰기 어려운 제도”라고 말했다. &lt;br&gt;&lt;br&gt;부모에게 지원금을 주지만 원래 받던 월급보다 적은 경우가 많고, 회사에 주는 지원금도 1인당 최대 20만원 수준이다.&lt;br&gt;&lt;br&gt;광주시가 회사에 주는 10시 출근제 지원금 40만원은 광주시 생활 임금(시급 1만2760원)에 주휴 수당과 4대 보험료, 퇴직금 등을 더해 계산한 것이다.&lt;br&gt;&lt;br&gt;이 제도를 활용해 1시간 일찍 퇴근하는 부모도 있다. 초등학교 4학년 쌍둥이 자녀를 둔 남주연(46)씨는 “퇴근이 늦어 아이들을 태권도 학원에 보내야 했는데 4개월 동안은 학원비가 안 들어 좋다”고 했다.&lt;br&gt;&lt;br&gt;회사들도 10시 출근제를 선호한다. 광주시가 작년 8월 참여 기업 128곳을 대상으로 조사한 결과 128곳 모두 “내년에도 초등 학부모 10시 출근제를 운영하겠다”고 답했다. 광주시 관계자는 “육아 지원에 회의적이었던 중소기업들이 효과를 체감한 것”이라고 했다. &lt;br&gt;&lt;br&gt;직원 8명이 일하는 중소기업 대표 김영철(46)씨는 “기업 규모가 작을수록 직원의 만족도와 가족적인 분위기가 중요하다”며 “육아 지원이 최고의 복지 제도인 걸 알게 됐다”고 말했다. &lt;br&gt;&lt;br&gt;광주시는 지원 대상을 늘려가고 있다. 2022년 100명으로 시작해 올해는 500명에게 지원했다. 올해 예산은 4억원이다.&lt;br&gt;&lt;br&gt;광주시 관계자는 “광주에서 실험이 효과를 내자 경기 수원시, 경북도 등도 비슷한 제도를 도입했다”고 말했다.&lt;br&gt;&lt;br&gt;정부의 내년도 예산안에도 초등생 자녀를 둔 근로자들의 10시 출근을 지원하는 예산 31억원이 포함됐다. 광주시 관계자는 “내년에 정부 사업으로 확대되면 사용할 수 있는 개월 수를 늘릴 수 있을 것 같다”고 했다. &lt;br&gt;&lt;br&gt;채영란 호남대 유아교육학과 교수는 “초등학생 자녀를 둔 집은 아침 1시간이 삶의 질을 좌우할 정도로 중요하다”며 “기업에도 충분한 인센티브를 주는 등 균형을 맞춰야 제도가 활성화될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘북 간첩 활동’ 前 민노총 간부, 대법서 징역 9년 6개월 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/2RYOYFY4LRCETAJ5FYYK7HJNTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/2RYOYFY4LRCETAJ5FYYK7HJNTU/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 15:46:00 +0000</pubDate>
-      <content:encoded>대법원 2부(주심 오경미 대법관)는 25일 북한의 지령에 따라 간첩 활동을 한 혐의(국가보안법 위반)로 기소된 석모 전 민주노총 조직쟁의국장에게 원심과 같이 징역 9년 6개월과 자격정지 9년 6개월을 확정했다. &lt;br&gt;&lt;br&gt;석씨는 2018년 10월부터 2022년 12월까지 총 102차례에 걸쳐 북한의 지령을 받거나 보고문을 보낸 혐의 등을 받는다. 북한 문화교류국은 석씨가 세운 비밀 지하 조직에 민노총 장악 방법을 하달하고, 보수 정당과 언론을 ‘친일 집단’ ‘토착 왜구’로 몰아가라는 지시를 내린 것으로 조사됐다. 이들은 김정은은 ‘총회장님’, 북한 문화교류국은 ‘본사’, 비밀 조직은 ‘지사’라는 ‘은어’로 사용했다.&lt;br&gt;&lt;br&gt;석씨는 또 2018~2022년 민노총 총파업, 대통령 선거, 이태원 핼러윈 참사 등을 전후해 ‘반미·반일 선동’ ‘촛불 집회 독려’ ‘윤석열 퇴진’ 등 구체적 활동 방향을 담은 지령을 받았고, 민노총 내부 공작 상황을 수시로 북한에 보고했다. 김정은 일가에 대한 충성 맹세문과 평택 미군 기지와 오산 공군 기지를 촬영한 사진도 북한에 보고한 것으로 드러났다.&lt;br&gt;&lt;br&gt;1심은 석씨의 혐의 대부분을 유죄로 보고 징역 15년과 자격정지 15년을 선고했다. 1심은 “지령문과 보고문은 모두 ‘대한민국 자유민주주의 체제의 전복’을 목표로 하고 있어, 국가 안보나 자유민주적 기본 질서에 실질적 해악을 끼칠 위험성이 명백하다”고 지적했다. 다만 2심은 검찰이 제출한 증거만으로는 석씨의 비밀 조직이 실제 민노총을 장악했다고 보기 어렵다며 감형했다. 대법원은 “원심 판단에 법리를 오해하고 판단을 누락한 잘못이 없다”며 석씨와 검찰 측 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 9월 26일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/25/5FMGKSPGCNGZDJIJDQJHELZWHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/25/5FMGKSPGCNGZDJIJDQJHELZWHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 14:30:00 +0000</pubDate>
-      <content:encoded>금-전국 대체로 흐리고 비&lt;br&gt;&lt;br&gt;토~일-일요일 오전까지 계속되는 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4Q42VKEF3RDBXD6NIVPZDHOKWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“모든 후배가 존경한 선배”... ‘개그계 대부’ 전유성 별세</title>
       <link>https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/25/KIBJC7F2QJD7FNJ26R42IO4O5A/</guid>
@@ -956,15 +975,6 @@
       <description/>
       <pubDate>Thu, 25 Sep 2025 13:21:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHBAYWWVELHQHVRS7FPBN6AUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘개그계 대부’로 불리는 전유성(76)이 25일 밤 9시분쯤 입원 중이던 전북대학교 병원에서 사망한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;한국방송코미디언협회에 따르면 전유성은 폐기흉 증세가 악화하면서 이날 오후 9시 5분쯤 세상을 떠났다. &lt;br&gt;&lt;br&gt;한국방송코미디언협회 관계자는 언론에 “밤 9시 5분쯤 유일한 가족인 딸이 지켜보는 가운데 세상을 떠났다”면서 “이미 마음의 각오는 했지만, 너무나 안타깝고 슬프다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ARYSKY7CLBHMNB4BNM76TVTEEM.png"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 전유성./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 직접 내려가 병문안을 한 한국방송코미디언협회 김학래 회장은 “현재 가족과 장례 문제를 놓고 협회 관계자들이 협의중”이라면서 “이미 코미디협회장이 결정된 상태이기 때문에 절차상의 문제는 없다”고 말했다.&lt;br&gt;&lt;br&gt;빈소는 서울아산병원에 마련될 예정이다.&lt;br&gt;&lt;br&gt;전유성은 1969년 TBC 방송작가로 데뷔했다. 이후 코미디언으로 전향해 ‘유머1번지’ ‘쇼 비디오 자키’ 등으로 이름을 알렸다. 희극인의 위상과 전문성을 알리며 한국 코미디 발전에 크게 기여한 인물이다. 희극인이나 코미디언으로 불리던 시대에 ‘개그맨’이라는 단어를 처음 사용한 인물로도 알려져 있다. PC통신 시절 아이디도 ‘개그맨1’일 정도로 희극을 사랑했다고 한다. &lt;br&gt;&lt;br&gt;그는 특히 후배들에게 사랑받는 선배로도 유명하다. 전유성 50주년 기념 공연 간담회에서 김지선은 “결혼할 때 청첩장을 직접 디자인해 주셨다. 모든 후배들에게 아버지 같은 존재”라고 떠올렸다. 엄용수는 “준비가 없어 보이지만 늘 파격과 신선함을 보여주신 분”이라며 그를 기렸고, 김학래는 “코미디 역사의 한 부분을 이룬 대단한 인물”이라고 했다.&lt;br&gt;&lt;br&gt;정선희 역시 최근 유튜브 채널에서 전유성에 대해 “기회를 엄청 많이 주신다”며 “극단, 극장 활동을 통해서 후배들한테도 계속 (기회를 주신다). 내게도 ‘책을 많이 읽으라’고 해주신 분이 전유성 선배님이다. 생활에 쓰이는 단어나 어휘가 다른 사람과는 달라야 한다고 했다. ‘총알을 많이 가지고 있으라, 할 수 있는 말의 범주를 넓히라’고 했다”고 표현했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원, 與가 제기한 지귀연 판사 의혹 “감사委에 상정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/25/ROEQPWX4RBEXZGMAEWWQTKO6PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/25/ROEQPWX4RBEXZGMAEWWQTKO6PY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Sep 2025 12:43:34 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령의 내란 혐의 사건을 맡은 지귀연 부장판사에 대한 술 접대 의혹이 법원 감사위원회에서 다뤄지게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7IUCLELJXIIQ5JJZTQJBBA6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난 4월 21일 오전 서울 서초구 서울중앙지법 417호 법정에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 전 언론 공개에 대한 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 관계자는 25일 “지 부장판사 사건을 법원 감사위에 상정할 예정”이라고 밝혔다. 법원 감사위원회는 판사 비위 의혹이나 주요 감사 사안을 심의하는 기구로, 위원 7명 중 6명이 외부 인사로 구성된다.&lt;br&gt;&lt;br&gt;앞서 지난 5월 더불어민주당 김용민 의원은 지 부장판사가 유흥업소에서 술 접대를 받았다고 주장했다. 이후 대법원 윤리감사실이 조사에 착수했지만, 공식 결과가 발표되지는 않았다. 지 부장판사는 당시 “그런 데서 접대를 받는 생각을 해본 적도 없다”며 의혹을 부인했다.&lt;br&gt;&lt;br&gt;대법원은 이달 말 감사위를 열어 조사 결과에 대한 심의를 받을 예정이다. 법원 내 자체 조사만으로는 공정성 시비가 제기될 수 있어 외부 위원의 심의를 거쳐 객관성을 확보하겠다는 것으로 풀이된다.&lt;br&gt;&lt;br&gt;감사위는 조사 결과 공개 여부나 처리 방식 등에 대해 법원행정처장 등에게 권고할 수 있다. 감사위 권고에 따라 지 부장판사 의혹에 대한 대법원 조사 결과가 공개될 가능성도 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법원, 26일 윤석열 ‘체포 방해 혐의’ 첫 재판 중계 허용</title>
