@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 소방청 “국가정보관리원 화재 발생 22시간 만에 완진”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/27/JPIQQJONPVCOJKICDSMGCQMU6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/JPIQQJONPVCOJKICDSMGCQMU6A/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 09:36:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG3EUKTVSNESFJJYQKCTWUF244.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 대전 유성구 국가정보자원관리원에서 소방대원이 불에 탄 배터리를 소화수조로 옮기고 있다. 전날 무정전 전원장치(UPS)용 리튬이온 배터리 화재로 정부 전산 서비스가 대규모로 마비됐다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원에 발생한 불이 27일 오후 6시쯤 완전히 꺼졌다. 화재 발생 22시간 만이다.&lt;br&gt;&lt;br&gt;소방청은 이날 “불은 오후 6시쯤 완전 진화됐다”며 “중앙긴급구조통제단을 해제하고 상황대책반으로 전환 가동한다”고 밝혔다. 또 “불길이 시작된 리튬이온 배터리를 소화 수조에 담가 혹시 모를 재발화를 방지하고 있다”고 했다.&lt;br&gt;&lt;br&gt;화재는 지난 26일 오후 8시 15분쯤 국가정보자원관리원 본원 5층 전산실에서 발생했다. UPS(무정전 전원장치) 리튬이온 배터리를 지하로 이전하는 도중 전원이 차단된 배터리 한 개에서 불이 시작된 것으로 조사됐다. UPS 배터리는 전기 공급이 중단되거나 전압 변동, 주파수 변동 등 장애가 발생해도 전기를 안정적으로 사용할 수 있도록 해주는 장치다. 근무 직원은 전원 대피했으나 1명이 얼굴과 팔에 1도 화상을 입었다.&lt;br&gt;&lt;br&gt;초진은 이날 오전 6시 30분쯤 완료됐다. 그러나 전산실 내 열을 식혀주는 냉각장치가 정상 작동하지 않자 국가정보자원관리원은 화재의 직접 영향을 받지 않는 서버도 ‘셧다운’했고, 정부 정보 업무 서비스 시스템 647개 가동이 중단됐다. 이로 인해 우체국 업무는 물론 정부 홈페이지 접속이 중단되는 등 국민이 직접 이용하는 대국민 서비스 436개가 멈춰 서 혼란을 빚었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국정자원 진화 새벽까지 이어질듯...“불 탄 배터리 384개 중 133개 반출”</title>
+      <link>https://www.chosun.com/national/regional/2025/09/27/NMWQBY4AG5EWPPCITC2VWJDQYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/NMWQBY4AG5EWPPCITC2VWJDQYE/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Sep 2025 09:24:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZ2VPJYLWFHF7KVY62NZUFKSXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 대전 유성구 국가정보자원관리원에서 소방대원이 불에 탄 배터리를 소화수조로 옮기고 있다. 전날 무정전 전원장치(UPS)용 리튬이온 배터리 화재로 정부 전산 서비스가 대규모로 마비됐다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부 국가정보자원관리원에서 난 배터리 화재로 국가 주요 행정전산망이 먹통이 된 가운데 소방 당국의 진화 작업은 늦어지고 있다. 화재로 중단된 647개 정부 서비스의 서버 복구 작업 역시 더뎌질 전망이다.&lt;br&gt;&lt;br&gt;27일 대전시 소방본부에 따르면 소방대원들은 전날 불이 난 대전 유성구 국가정보자원관리원 내 전산실 연기와 열을 외부로 빼내는 한편 내부 배터리팩을 반출해 이동식 수조에 담그는 작업을 하고 있다.&lt;br&gt;&lt;br&gt;전날 화재로 전산실 내 58V(볼트) 리튬이온 배터리팩 384개가 전소됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오후 4시 기준 3분의 1 정도에 해당하는 133개를 밖으로 옮겼으며, 작업은 다음날까지 이어질 것으로 예상했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R7DTMXN4XNCQ7BPNQPKTT4FNGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 대전 유성구 국가정보자원관리원에서 소방대원이 불에 탄 배터리를 소화수조로 옮기고 있다. 전날 무정전 전원장치(UPS)용 리튬이온 배터리 화재로 정부 전산 서비스가 대규모로 마비됐다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전시 소방본부 관계자는 “배터리를 물에 담궈 냉각시켜야 하는데, 리튬이온 배터리의 열폭주 현상 때문에 쉽지 않다”며 “내일 새벽까지 끝내는 것을 목표로 하고 있지만, 배터리 폭발이 발생하면 반출을 멈췄다가 다시 작업을 이어가고 있어 언제 끝날지 알 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;건물 내부는 송풍기를 이용해 배연 작업을 하고 있지만, 여전히 현장에 그을음과 연기가 가득해 피해 파악에 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;소실된 배터리의 반출작업이 끝나야 완진 여부도 가늠할 수 있을 전망이다.&lt;br&gt;&lt;br&gt;한편 전날 처음 불이 붙은 배터리는 설치된 지 11년이 지나 보증기간(10년)이 지난 노후 배터리였던 것으로 나타났다.&lt;br&gt;&lt;br&gt;중앙재난안전대책본부는 27일 불이 난 배터리에 관해 “2014년 8월 설치돼 (보증기간이) 1년 지났다”고 밝혔다.&lt;br&gt;&lt;br&gt;전날 화재는 관리원 5층 전산실에서 작업자가 리튬이온배터리를 교체하는 작업을 하던 중 배터리 1개에서 불꽃이 튀면서 시작됐다. 노후화 된 배터리를 교체하는 가운데 화재가 시작된 것이다. &lt;br&gt;&lt;br&gt;중대본은 이날 오후 8시 행정안전부 장관 주재로 중대본 회의를 개최할 계획이다.&lt;br&gt;&lt;br&gt;앞서 지난 26일 오후 8시 20분쯤 국가정보자원관리원 대전 본원 5층 전산실에서 리튬이온 배터리 폭발로 불이 나 약 10시간 만인 이날 오전 6시 30분쯤 큰 불길이 잡혔다.&lt;br&gt;&lt;br&gt;불은 배터리 교체 작업을 위해 전원을 차단하던 도중 발생했으며, 이 과정에서 작업하던 업체 직원이 얼굴과 팔에 1도 화상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>국정자원 화재로 법원 전자소송포털·인터넷등기소도 차질 </title>
       <link>https://www.chosun.com/national/court_law/2025/09/27/BRWBJAZBKVEXJKFX6MA4K3XOOE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/27/BRWBJAZBKVEXJKFX6MA4K3XOOE/</guid>
@@ -922,24 +940,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/3A3652LECXME5S6Q7MAI43VSLY.jpg?auth=513eea534edfee36431332f4dad70265aa75ffbd21c55fb434831b6a6b6f39e6&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
         <media:description type="plain">전남 순천경찰서. /뉴스1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>실패했던 가파도 ‘탄소 없는 섬’ 재추진.. 단 2번 회의로 220억 배정</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/26/6GJL67AQVJCVNF3X4D3A3MTH3Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/26/6GJL67AQVJCVNF3X4D3A3MTH3Y/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 05:33:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23FD6UJNIBCBXADGSOVNE6MIEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가파도 풍력발전기/ 조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 실패한 제주 가파도 ‘탄소 중립섬’ 사업을 재추진하면서 단 두 번의 회의만 거치고 220억원 예산을 배정한 것으로 26일 확인됐다. 이재명 대통령의 ‘RE100(재생에너지 100% 사용)’ 코드에 맞춰 제대로 준비하지 않고 무리하게 사업을 진행한다는 비판이 제기된다.&lt;br&gt;&lt;br&gt;최근 산업통상자원부와 제주도는 “지난달 29일 국무회의를 통해 ‘가파도 RE100 마을 조성’ 사업에 220억원의 예산이 배정됐다”고 밝혔다. 이 사업은 2011~2016년 예산 143억원을 들여 진행된 탄소 중립 섬 사업과 거의 동일하다. 풍력과 태양광 등 재생에너지만으로 모든 전력 수요를 충족하는 게 목표다. 이전엔 날씨에 따라 발전량이 들쑥날쑥하는 등 여러 이유로 결국 실패했다. &lt;br&gt;&lt;br&gt;실패한 사업인데도 정부 준비는 부실했다. 국회 산업통상자원중소벤처기업위원회 소속 국민의힘 구자근 의원이 산업통상자원부에서 받은 자료에 따르면, 정부는 예산 편성 전 가파도 관련 회의를 두 차례(7월 23일, 8월 18일) 진행했다. 현장 방문은 7월 10~11일 한 차례였다. 보통 수백억원짜리 사업을 진행할 땐 최소한 수개월전 사업 진행 관련 회의를 시작하는데, 가파도 사업은 7월에야 첫 회의를 연 것이다.&lt;br&gt;&lt;br&gt;주민 의견 수렴도 안한 것으로 나타났다. 과거 사업 추진때 풍력 발전기에서 소음이 크고, 장비가 고장 난 채 수년간 방치돼 흉물이 됐다는 등 주민들의 불만이 컸다. 특히 지난번 사업을 시작한 2011년 가파도 관광객은 연 7만명 수준이었지만, 지금은 25만명으로 늘었다. 한 전력 업계 관계자는 “주민들에겐 안정적으로 전력을 공급받는 게 중요한데 ‘재생에너지 마을’이라는 대의만 내세우면서 주민들에게 희생하라는 꼴”이라고 했다.&lt;br&gt;&lt;br&gt;산업통상자원부 측은 “7월에야 가파도에서 사업을 재추진하기로 확정돼 회의를 그때 시작할 수밖에 없었다”면서 “이번엔 ESS(에너지저장장치)와 국산 풍력 발전 설비 등을 활용할 것이기 때문에 지난번 사업과는 결과가 다를 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용인 학교 4곳에 ‘폭파 협박’…경찰, 수색 후 허위 확인</title>
-      <link>https://www.chosun.com/national/incident/2025/09/26/XCX45SDC4BCILP3HPMEWL3ROGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/26/XCX45SDC4BCILP3HPMEWL3ROGY/</guid>
-      <dc:creator>용인=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 05:20:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시 내 대안학교와 고등학교 등 4곳에 유사한 내용의 폭파 협박 메일이 동시에 접수돼 경찰이 수색에 나섰다. 다행히 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;26일 용인서부경찰서에 따르면, 이날 오전 7시 49분쯤 용인시 수지구 한 대안학교 관계자가 “학교 이메일로 폭파 협박 메일이 들어왔다”며 신고했다.&lt;br&gt;&lt;br&gt;비슷한 시각 수지구와 기흥구의 고등학교 3곳에서도 같은 내용의 메일이 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 즉시 폭발물 처리반 등을 투입해 학교 3곳에 대해 4시간가량 수색을 벌였지만, 폭발물 등은 발견되지 않았다.&lt;br&gt;&lt;br&gt;수색은 오전 11시 50분쯤 종료됐다. 학생들은 안전을 위해 일시 귀가 조치됐다.&lt;br&gt;&lt;br&gt;기흥구의 한 학교는 다른 학교 수색 과정에서 위협 요소가 없다고 확인된 뒤 신고가 접수돼 현장 확인만 진행됐다.&lt;br&gt;&lt;br&gt;해당 메일은 이날 오전 6시 56분 일시에 발송됐으며, 내용과 발신 주소가 모두 동일했다.&lt;br&gt;&lt;br&gt;지난해 8월부터 국내 학교와 공공기관 등에 무차별 발송된 일본발 허위 협박 메일과 유사한 문구가 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 현재 IP 추적 등을 통해 발신지를 확인하고 있으며, 일본발 허위 협박 메일 사건과의 연관성도 함께 수사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 특정하기는 이르다”며 “여러 가능성을 열어두고 수사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 尹 “주 4~5회 재판 힘들어 사법 절차 협조 위해 보석 신청”…18분간 발언</title>
