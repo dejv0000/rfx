@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부 ‘출·입국 관련 사실증명 9종' 한시적 수수료 면제 </title>
+      <link>https://www.chosun.com/national/court_law/2025/09/28/6TL5SYI3VFFKZDG2FBW6MW534I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/28/6TL5SYI3VFFKZDG2FBW6MW534I/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Sep 2025 10:11:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X5EP7LL3R6B6IFGE25ZGKNJF54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 국가정보자원관리원 화재로 ‘정부24′의 온라인 증명발급이 중단됨에 따라 출·입국에 관한 사실증명 등 9종에 대해 발급 수수료를 한시적으로 면제한다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;법무부에 따르면, 출입국에 관한 사실증명 등은 온라인 발급의 경우 수수료가 무료지만, 출입국·외국인관서를 방문할 경우 수수료 2000원을 내야 한다. &lt;br&gt;&lt;br&gt;법무부는 “온라인 증명서 발급 중단으로 인해 출입국·외국인관서를 직접 방문해야 하는 민원인의 경제적 부담을 줄이기 위해 증명발급 수수료를 면제하기로 했다”고 밝혔다. 면제기간은 이달 29일부터 ‘정부24′ 정상화 시점까지다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>韓·日 환경장관 “원전 꼭 필요...안전 관리 한일 공통 숙제”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/28/ASNYMMRB7BH5LPXR2WKEFTHAIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/28/ASNYMMRB7BH5LPXR2WKEFTHAIY/</guid>
+      <dc:creator>옌타이=정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Sep 2025 09:14:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7PQAPBDZJNADGO4R5G5LECAP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 중국 옌타이에서 열린 제26차 한·중·일 환경장관회의(TEMM26) 결과 기자회견에 앞서 3국 공동합의문을 채택한 뒤 김성환 환경부 장관(오른쪽부터), 황룬치우 중국 생태환경부 장관, 아사오 게이이치로 일본 환경성 장관이 기념 촬영하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성환 환경부 장관이 일본 환경부 장관을 만나 “원전은 꼭 필요한 측면이 있는데 사고가 나면 위험하니까 안전을 위해 관리하는 것이 한일 공통 숙제”라고 밝혔다.&lt;br&gt;&lt;br&gt;김 장관은 지난 27일 제26차 한중일 환경장관회의에서 아사오 게이이치로 일본 환경성 장관을 만나 원전 관리에 대해 이같이 논의했다고 환경부 관계자는 전했다. 이 회의는 중국 산둥성 옌타이에서 27~28일 이틀간 열렸다. 1999년부터 한중일 3국은 번갈아가며 회의를 개최하고 있다.&lt;br&gt;&lt;br&gt;3국은 이번 회의에서 내년부터 2030년까지 대기오염, 생물다양성, 기후변화 등 8개 분야에서 우선적으로 협력하기로 합의했다. 특히 각국의 온실가스 감축 목표(NDC) 관련 이야기가 많이 오갔다고 한다. 환경부 관계자는 “세 장관이 이번 회의 동안 언급하는 내용의 절반 정도는 기후 문제나 탈탄소와 관련 있었다”고 말했다.&lt;br&gt;&lt;br&gt;한중일 3국은 온실가스 배출량을 줄이기 위해 재생에너지 확대를 추진하고 있다. 김 장관은 한중 양자 회담에서 황룬치우 중국 생태환경부 장관에게 “온실가스 배출량 세계 1위인 중국이 온실가스 감축에 더 노력해주기를 기대한다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;최근 시진핑 중국 주석은 유엔(UN) 기후변화 정상회의에서 2035년까지 중국의 온실가스 배출량을 정점 대비 7~10% 감축하겠다고 밝혔다. 재생에너지 발전 용량은 2035년까지 2020년의 6배(3600기가와트)로 확대하겠다고 했다. 이에 대해 김 장관은 “3600기가와트는 원전 3600개의 발전 용량에 해당한다”며 “한국도 재생에너지 비율을 빨리 늘려가야겠다고 새삼 다짐했다”고 말했다.&lt;br&gt;&lt;br&gt;김 장관은 한국 환경 정책 발표에서 기후에너지환경부 확대 개편에 대해 “단순한 조직 개편이 아니라 기후 정책을 총괄하며 이행 수단인 에너지 정책을 함께 다뤄서 정책 간 시너지를 극대화하기 위한 근본적 변화”라며 “대한민국 첫 기후에너지환경부 장관으로서 큰 책임감을 느끼며 탈탄소 녹색 문명 실현을 위해 최선의 노력을 다할 계획”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘국정자원’ 화재 원인 수사 본격… 배터리 자체 결함, 작업 과실 등 거론</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/09/28/4ET4H4NOR5GSVFCFZF6542TTKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/28/4ET4H4NOR5GSVFCFZF6542TTKU/</guid>
@@ -956,28 +974,6 @@
       <pubDate>Fri, 26 Sep 2025 14:34:00 +0000</pubDate>
       <content:encoded>지난 25일 오후 서울 염리동에 있는 조숙자(82) 장로회신학대 명예교수의 자택을 찾았다. 신축 아파트 단지가 무성한 동네에 있는 낡은 단독 주택이라 찾기가 쉽지 않았다. 여기서 조 교수와 부부로 50년 넘게 살던 신영오(85) 연세대 생명시스템대학 명예교수는 지난달 별세했다. 그는 죽기 전 이 집과 부지를 연세대에 신탁 형태로 기부했고, 시신도 연세대 의과대학에 기증했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5AQWC6USFFU3GVYES7O5XMV3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 신영오 연세대 생명시스템대학 명예교수. /신애선 서울대 의과대학 교수 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지를 포함해 신 교수의 선행을 보도한 대부분의 매체는 기사 제목에 ‘노블레스 오블리주(높은 지위에 상응하는 도덕적 의무)’란 표현을 썼다. 조선닷컴에서 노블레스 오블리주를 검색하면 지난 1년간 지면에 나온 일곱 건의 기사가 뜨는데, 그중 당사자의 행위로 기사에 등장한 건 신 교수가 유일하다. 돈이 많거나 사회적 지위가 높다고 해서 노블레스 오블리주를 척척 할 수 있는 게 아니라는 얘기다.&lt;br&gt;&lt;br&gt;부부가 살았던 이 집과 부지의 가치는 200억원에 달한다. 신 교수 사후 기증이 바로 이뤄지면서 조 교수는 연세대 교직원 기숙사로 거처를 옮겼다. 결혼 후 세 자녀를 키우며 50년 넘게 살아온 150평짜리 집에서 나와 15평 기숙사에 들어갈 때 그의 심정이 어땠을까. 게다가 기숙사 월세 150만원까지 내야 하는데 억울하지는 않을까. 세상을 떠난 남편은 노블레스 오블리주로 칭송받고 있지만 세상에 남은 아내는 무슨 생각을 하고 있을까. 남편의 기부 때문에 이전과 다른 삶을 살게 된 조 교수의 이야기를 듣고, 노블레스 오블리주의 이면을 들추는 칼럼을 쓰는 게 애초 방문 목적이었다. &lt;br&gt;&lt;br&gt;결론을 미리 밝히자면, 칼럼은 목적을 달성하는 데 실패했다. 신 교수와 조 교수는 미국 유학을 마치고 한국에 돌아온 30대 초·중반에 만나 결혼했다. 아내는 “남편을 보자마자 나와 닮았다고 생각해서 금방 결혼을 결정했다. ‘성격이 대쪽 같은 남편과 힘들어서 어떻게 사냐’고 물어보는 지인도 많았는데, 나도 남편과 성격이 같아서 힘든 줄 몰랐다”고 했다. 기부 역시 누가 먼저 제안한 게 아니었다. 조 교수는 “남편과 내 삶의 목표는 한결같았다. 우리에게 돈에 욕심을 내지 않은 건 자연스러운 일이라 기부도 함께 결정했다”고 했다. &lt;br&gt;&lt;br&gt;자녀와는 일절 상의하지 않았다. 결혼 50주년을 맞은 2023년 부부는 연세대를 찾아 기부 관련 서류를 작성했고, 결혼기념일을 축하하는 가족 식사에서 두 딸과 아들에게 알렸다. 다들 “알았다” “그러실 줄 알았다”며 고개를 끄덕일 뿐 별다른 반응은 없었다. 성격도, 생각도 닮은 남녀가 만나, 부모를 닮은 자녀까지 키워낸 셈이다. “이 동네가 빈촌(貧村)이던 시절, 시아버지가 땅을 싸게 사서 지은 집이고, 운 좋게 남편과 제가 그걸 물려받은 거죠. 애당초 저희 것이 아니라서 애들한테 줄 생각이 없었고, 기부하는 것도 어렵지 않았어요. 둘 다 평생 월급쟁이였던 덕분에 애들은 배우는 데 모자람이 없었고, 원하는 일을 하며 살고 있으니 우리한테 물질적 상속을 바라지 않는 게 당연하고요.”&lt;br&gt;&lt;br&gt;신 교수의 젊은 시절, 그가 노래를 잘한다는 소문을 듣고 음반기획사가 찬송가 음반을 내자고 찾아왔다. 남편의 유언에 따라, 그때 만든 앨범을 장례식장에서 틀었다. 조 교수가 연주하는 파이프 오르간의 선율에 맞춰 신 교수가 부른 노래가 울려 퍼졌다. 말 그대로 부창부수(夫唱婦隨)다. &lt;br&gt;&lt;br&gt;본래의 취재 목적은 달성하지 못했지만, 노블레스 오블리주를 하기 위해선 돈이나 지위 말고 필요한 게 또 있다는 것을 깨달았다. 배우자나 가족이 뜻을 함께하지 않으면 쉽지 않다. 이거야말로 요새 노블레스 오블리주 기사를 찾아보기 어려운 이유가 아닐까. &lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/TU6P5FUMLBGZXBK3LMEXV3O34I.png?auth=0b3993855dbba4612622e36216b817f39ab3a86d986423e1c3520a1afd9d3deb&amp;smart=true&amp;width=500&amp;height=500" type="image/png" height="500" width="500"/>
-    </item>
-    <item>
-      <title>청소년들 난청 위험 심한데, 제대로 된 검사는 안 돼</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/09/26/QNB7MNHEDZCVJF72RN4NWM76RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/26/QNB7MNHEDZCVJF72RN4NWM76RI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 09:04:12 +0000</pubDate>
-      <content:encoded>중학생 A군은 학교 쉬는 시간에, 버스·지하철을 탈 때마다 귀에 이어폰을 끼고 있다. 하루 2시간 이상 음악을 듣는다. 지하철에선 소리가 잘 안 들려 볼륨을 더 높인다. 시끄러운 곳에서 이어폰을 장시간 사용하면 ‘난청’ 위험이 커진다. 하지만 A군은 “특별히 문제가 된다고 생각해 본 적은 없다”고 했다.&lt;br&gt;&lt;br&gt;청소년 등 젊은층에서 ‘난청’의 위험이 커지고 있다. 소리를 듣는데 어려움을 겪는 ‘난청’은 노년층에서 주로 나타난다고 생각하기 쉽다. 하지만 게임과 휴대전화 사용 연령이 갈 수록 낮아지면서 젊은층의 청력 손실 위험이 커지고 있다. &lt;br&gt;&lt;br&gt;건강보험심사평가원 자료에 따르면 2018년 돌발성 난청 환자 수는 8만4049명에서 2022년 10만474명으로 약 23% 증가했다. 특히 같은 기간 20대는 8240명에서 1만1557명으로 40%이상 급증했다.&lt;br&gt;&lt;br&gt;전문가들은 시끄러운 곳에서의 이어폰 사용, PC방 이용 등이 귀에 악영향을 준다고 말한다. 한국갤럽이 발표한 ’2024년 스마트폰 사용 현황’에 따르면 현재 국내 무선이어폰 사용률은 59%로 10명 중 6명이 사용 중이다. 20~30대는 80%, 60대는 47%가 사용하고 있다. PC방의 경우 소음 수준이 80~89데시벨(dB)에 달한다. 특히 총소리나 폭발음 등 순간적인 충격음은 최대 119데시벨까지 올라갈 수 있다. 장시간 노출될 경우 청력 손실 위험이 올라간다.&lt;br&gt;&lt;br&gt;특히 청소년들의 경우 제대로 검사도 이뤄지지 않고 있다. 학교에서 건강검진을 할 때 청각 검사를 하긴 하지만, 1000Hz 단일 주파수만 검사해서 소음성 난청의 특징인 ‘고주파수 난청’은 발견할 수 없다. 심지어 청력 검사 결과를 학생건강기록부(나이스)에 기재하지 않는다. &lt;br&gt;&lt;br&gt;고려대 안암병원 이비인후과 장지원 교수는 “과거 연구에서 15% 넘는 청소년이 최소 청력 손실 수준이라는 연구 결과도 있었다”면서 “체계적으로 조사해서 어릴 적부터 귀 관리를 해야 한다”고 말했다. 세계보건기구(WHO)는 전 세계적으로 10억명 이상의 청년층이 난청 위험에 노출된 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5234N3UMRCFGREHPJ2A2I7FDIQ.jpg?auth=896fefac7ce0449e16d42ef180c687108beb6f384253ab3252a0e97c78b645d3&amp;smart=true&amp;width=601&amp;height=400" type="image/jpeg" height="400" width="601">
-        <media:description type="plain">난청 환자 이미지. /조선DB</media:description>
-        <media:credit role="author" scheme="urn:ebu">조선DB</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>부산도시공사 ‘엘시티 개발부담금’ 늘어난다… 대법 “부과 시점 다시 따져야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/26/YEXYFPJHKVEW5O7VHQ2CPZLRLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/YEXYFPJHKVEW5O7VHQ2CPZLRLE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 05:56:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UD26GXTG2ZEWXJSNUHLXNO7KYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 엘시티 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구와 부산도시공사가 333억원 규모의 해운대 ‘엘시티’ 개발 부담금을 두고 벌인 소송전에서 대법원이 해운대구의 손을 들어줬다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 26일 부산도시공사가 해운대구를 상대로 낸 개발 부담금 부과 처분 취소 소송에서 원고 승소 판결을 내린 원심을 깨고 사건을 부산고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 지난 2020년 6월 해운대구가 엘시티에서 토지 개발을 맡은 부산도시공사에 개발 부담금 333억 8000만원을 부과한 것이 발단이다. 부산도시공사는 해운대 관광리조트 도시개발사업의 시행자로 관광 시설 용지를 조성하고 주차장 등 기반 시설을 설치하는 사업을 맡았다. 공사는 2014년 3월 관광 시설 용지의 부지 조성 공사를 마쳤고, 2019년 12월 준공 검사를 받았다.&lt;br&gt;&lt;br&gt;그런데 시행자에 대해 개발 이익의 25%를 과세하는 개발 부담금을 언제 부과해야 할지가 문제가 됐다. 개발이익환수법은 ‘사실상 개발이 완료된 토지를 양도하는 때’ 부담금을 부과하라고 규정한다. 해운대구는 이 개발 완료 시점을 준공 검사가 이뤄진 2019년 12월로 보고 부담금을 333억8000만원으로 측정해 부과했다.&lt;br&gt;&lt;br&gt;이에 부산도시공사 측은 “부지 조성 공사가 완료된 2014년 3월을 기준으로 부담금을 부과해야 한다”고 반발했다. 2014년은 전국적으로 부동산 가격이 크게 상승하기 전이라 공사 측이 내야 하는 부담금도 약 54억 3000만원으로 크게 줄어든다.&lt;br&gt;&lt;br&gt;1·2심은 공사 측 주장이 맞는다며 부담금 부과 처분을 취소했다. 그러나 대법원은 “’사실상 개발이 완료된 날’은 관광 시설 용지로서의 사용 목적에 부합하는 데 필요한 정도의 기반 시설 공사까지 완료된 때를 의미한다”며 “이를 부지 조성 공사만 완료된 2014년 3월로 본 원심은 잘못됐다”고 지적했다. &lt;br&gt;&lt;br&gt;대법원은 하급심과 달리 해운대구가 감정 평가를 거쳐 지가를 산정한 잘못이 있다는 부산도시공사 측의 주장도 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
