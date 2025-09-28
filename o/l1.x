@@ -6,6 +6,33 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 마약 밀수 돕고 대가 챙긴 60대, 징역 10년 확정</title>
+			<description>해외에서 밀반입된 케타민의 배송과 보관을 돕고 대가를 받은 60대가 중형을 확정받았다. 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 8월 28일 특정범죄 가중처벌 등에 관한 법률 위반(향정) 혐의로 기소된 A 씨 상고심(&lt;b&gt;2025도10904&lt;/b&gt;)에서 상고를 기각하고 징역 10년과 추징금 3억4594만 원을 선고한 원심을 확정했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2024년 3월부터 7월까지 세 차례에 걸쳐 해외 판매상과 공모해 케타민 밀수를 지원했다. A 씨는 판매상으로부터 미리 제공받은 연락처를 활용해 배송업체와 접촉하고, 마약 수거책들을 감시하는 등 배송이 원활히 이뤄지도록 도왔다. 이 과정에서 독일과 스위스에서 발송된 케타민이 사건별로 2~5kg씩 합계 약 11kg이 국내로 반입됐다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;또 A 씨는 같은 해 8월 윗선의 지시에 따라 이천 야산에서 약 5~6kg의 케타민을 수거해 안산의 금고에 보관했고, 또 다른 지시에 따라 수리산 등산로 인근에서 엑스터시 약 700정을 수거해 함께 보관했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 밀수 사건과 보관 사건을 각각 특정범죄 가중처벌법 제11조 제1항 제1호와 제2호를 구분 적용한 다음 징역 10년과 추징금 3억4594만 원을 선고했다. 제1호는 마약 가액이 5000만 원 이상일 경우 무기 또는 10년 이상 징역에 처한다고 규정하고, 제2호는 마약 가액이 500만 원 이상 5000만 원 미만이면 무기 또는 7년 이상 징역에 처한다고 규정한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;1심은 A 씨가 밀수 사건에서 우편물 안에 든 케타민의 양을 사전에 알지 못했고 직접 확인하지도 않았다는 점에서 가액 5000만 원 이상임을 인식했다고 보기는 어렵다고 판단했다. 다만 다섯 차례에 걸쳐 수고비 700만~800만 원을 받은 점, 윗선으로부터 보증금과 월세까지 지원받은 점 등을 고려해 적어도 500만 원 이상임은 알았다고 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;보관 사건과 관련해서는 A 씨가 수거·소분 과정에서 양을 확인한 사실이 인정된다며, 가액 5000만 원 이상임을 인식했다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;A 씨는 양형 부당을 이유로 항소했지만 항소심은 "모든 양형 조건을 종합적으로 고려할 때, 1심이 피고인에게 선고한 형이 지나치게 무거워 부당하다고 보기는 어렵다"며 항소를 기각했다.  &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원도 "피고인의 연령·성행·환경, 이 사건 범행의 동기·수단과 결과, 범행 후의 정황 등 기록에 나타난 양형의 조건이 되는 여러 가지 사정들을 살펴보면 원심이 피고인에 대해 징역 10년을 선고한 1심 판결을 유지한 것이 심히 부당하다고 할 수 없다"며 상고를 기각했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 28 Sep 2025 00:08:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211882</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211882</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] 무면허 지입차주 위장 주류 판매… 출고량 감량 처분 적법</title>
+			<description>무면허 지입차주를 소속 직원으로 위장해 주류를 판매한 도매업체에 대한 국세청의 주류 출고량 감량 통보는 적법하다는 법원 판결이 나왔다. 지입차주는 개인 소유 차량을 회사 명의로 등록하고, 영업용 번호판을 받아 운송 사업을 독립적으로 하는 이들을 뜻한다. 서울행정법원 행정6부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9726"&gt;나진이&amp;nbsp;&lt;/span&gt;부장판사)는 7월 18일 A 주식회사가 역삼세무서장을 상대로 낸 출고량 감량 처분 취소소송(&lt;b&gt;2022구합85249&lt;/b&gt;)에서 원고 패소 판결했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;br /&gt;&lt;/b&gt;A 사는 대형 주류 판매회사로부터 주류를 공급받아 소매상에 판매하는 종합주류도매업 면허를 보유한 업체다.&amp;nbsp;&lt;p&gt;2021년 1~6월 무면허 지입차주 B 씨를 직원으로 위장해 주류를 판매했다는 의혹으로 세무 당국 조사를 받았다. 서울지방국세청은 이를 면허 조건 위반으로 판단해 역삼세무서에 통보했고 세무서는 2022년 9월 면허취소 처분을 내렸다.   &lt;/p&gt;&lt;p&gt;&lt;br /&gt;A 사는 면허취소 처분 취소소송과 함께 집행정지를 신청해 같은 해 10월 법원에서 인용 결정을 받았다. 이에 세무서는 ‘주류 제조자 또는 수입 업자 출고(판매) 감량 기준 고시’ 제3조에 따라 확정판결 시까지 A 사에 대한 출고(공급)량을 50% 감량하라고 매입처(대형 주류 판매회사)들에 통보했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;A 사는 “B 씨는 지입차주가 아니라 회사 직원이며 불법적인 주류 판매 행위가 없으므로 면허취소 및 그에 기초한 출고량 감량 통보는 위법하다”고 주장했지만 재판부는 받아들이지 않았다. 재판부는 A 사가 다른 민사소송에서는 오히려 B 씨를 지입차주로 지칭하며 주류 업계 명의신탁 관행을 인정한 점 등을 볼 때 주장이 상반되고 진술의 신빙성이 떨어진다고 지적했다. 또 세무 당국이 확보한 채권양도양수 약정서와 매출 분석 자료를 근거로 B 씨가 거래처 대금 채권을 직접 보유·관리하면서 매출의 7%만 A 사에 귀속시키는 구조였음을 인정하면서 “이는 전형적인 지입차주 영업의 수익 배분 형태로, B 씨가 A 사에 고용된 직원으로 업무를 수행했다고 보기 어렵다”고 밝혔다. 그러면서 “A 사가 지입차주를 통해 영업을 해 주류판매업 면허 조건을 위반한 사실이 인정된다”며 “이에 기초한 출고량 감량 통보 역시 적법하다”고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 28 Sep 2025 00:08:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211870</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211870</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>【오늘의 국회일정】 2025년 9월 28일</title>
+			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇본회의&lt;br /&gt;&lt;/b&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:40 최민희 의원, [국회 과학기술정보방송통신위원회 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 김장겸 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 김현 의원, [방송미디어통신위원회 설치법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 김영호 의원, [김건희 논문 의혹 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Sat, 27 Sep 2025 22:38:13 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/211917</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211917</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>(금주 법조계 주요일정) 9월 29일~10월 3일</title>
 			<description>&lt;b&gt;△29일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 21차 공판(오전 10시 10분)&lt;br /&gt;-서울남부지법, '특정경제가중처벌 등에 관한 법률 위반(사기) 등 혐의' 주식회사 델리오 사건 관련 정모 씨 공판(오후 2시)&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 22차 공판(오후 2시)&lt;br /&gt;-서울중앙지법, '정보통신망 이용촉진 및 정보보호 등에 관한 법률 위반(명예훼손) 등 혐의' 봉지욱 뉴스타파 기자 외 2명 2차 공판(오후 2시)&lt;br /&gt;-법무법인 세종, '국민주권정부의 공정거래정책 전망' 세미나(오후 3시, 서울 종로구 청진동 법무법인 세종 23층 세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△30일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란우두머리 방조 등 혐의' 한덕수 전 총리 1차 공판(오전 10시)&lt;br /&gt;-서울남부지법, '특정경제범죄가중처벌 등에 관한 법률 위반(배임) 등 혐의' 김성수 전 카카오엔터테인먼트 대표 외 1명 선고(오전 10시)&lt;br /&gt;-서울중앙지법,  '업무상 횡령 등 혐의' 윤영호 전 통일교 세계본부장 2차 공판(오전 11시)&lt;br /&gt;-헌법재판소, 조지호 경찰청장 탄핵심판(2024헌나7) 2차 변론 김봉식 전 서울경창청장, 박현수 서울경찰청장 직무대리 증인신문기일(오후 2시) &lt;br /&gt;-서울남부지법, '위계공무집행방해 등 혐의' 가거도 방파제 비리 사건 관련 고모 씨외 7명 공판(오후 2시)&lt;br /&gt;-서울고법, '정당법 위반' 민주당 돈봉투 의혹 관련 윤관석 전 의원 7차 공판(오후3시)&lt;br /&gt;-법무법인 율촌, '러시아 재진출 및 재투자시 법적 유의사항' 세미나(오후 5시, 서울 강남구 삼성동 법무법인 율촌 39층 Lecture Hall)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△1일(수)&lt;/b&gt;&lt;br /&gt;-법무법인 대륙아주, '미래리더스포럼-금한승 환경부 차관'(오전 7시 30분, 서울 중구 소공동 더플라자호텔 22층 루비홀)&lt;br /&gt;-서울중앙지법, '직권남용권리행사방해 등 혐의' 서훈 전 국가안보실장 외 4명 65차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '특정범죄가중처벌등에관한법률위반(알선수재) 혐의' 이성재(일명 건진법사 측근 브로커) 1차 공판(오후 2시)&lt;br /&gt;-지평법정책연구소, '가상자산과 법질서' 세미나(오후 2시, 서울 중구 회현동 법무법인 지평 3층 오디토리움)&lt;br /&gt;-한국법제연구원·법제처·한국인공지능법학회, '모두를 위한 AI와 미래법제' 국제포럼(오후 1시 30분, 서울 중구 소공동 웨스틴조선서울 오키드룸)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△2일(목)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 23차 공판(오전 10시 10분) &lt;br /&gt;-법무법인 세종, 세종 IP 아카데미-컨텐츠 비즈니스와 저작권·SW 저작권·메타버스 &amp; NFT(오후 2시, 서울 종로구 청진동 법무법인 세종 23층 세미나실)&lt;br /&gt;-서울남부지법, '특정경제범죄가중처벌 등에 관한 법률 위반(배임) 등 혐의' 김우동 조광아이엘아이(ILI) 대표 공판(오후 2시 20분)&lt;br /&gt;-서울중앙지법, '위계 공무집행 방해 등 혐의' 김용현 전 국방부 장관 3차 공판준비기일(오후 2시)&lt;br /&gt;-서울남부지법, 하나은행-라임자산운용 '라임사태 손해배상청구소송' 5차 공판(오후 2시 10분)&lt;br /&gt;&lt;br /&gt;&lt;b&gt;△3일(금) 개천절&lt;/b&gt;</description>
 			<pubDate>Sat, 27 Sep 2025 22:08:18 -0000</pubDate>
@@ -212,35 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211908</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211908.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰총장 대행 "안타깝지만 국회 존중…형사 사법 체계 공백 없도록 최선"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211913.jpg" alt="3633.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;노만석 검찰총장 직무대행이 9월 26일 서울 서초구 대검찰청 앞에서 정부조직법 수정안의 국회 본회의 통과 관련 입장을 밝히고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1493"&gt;노만석&amp;nbsp;&lt;/span&gt;검찰총장 직무대행(사법연수원 29기)이 26일 검찰청을 폐지하는 내용의 정부조직법 개정안이 국회 본회의를 통과하자 "안타깝게 생각한다"면서도 "국회를 존중한다"는 뜻을 밝혔다.&lt;br /&gt;&lt;br /&gt;노 대행은 이날 저녁 대검찰청에서 "향후 형사사법 시스템이 공백 없이 차질 없이 진행되도록 최선의 노력을 다하겠다"는 입장을 내놨다. &lt;br /&gt;&lt;br /&gt;국회 본회의에서는 검찰청을 폐지하고 중대범죄수사청(중수청)과 공소청을 신설해 검찰의 수사·기소 기능을 분리하는 내용을 골자로 하는 정부조직법 개정안이 재석 180인 중 찬성 174인, 반대 1인, 기권 5인으로 통과됐다. &lt;br /&gt;&lt;br /&gt;노 대행은 '검찰 지휘부가 리더십을 발휘하지 못했단 입장에 대해서는 어떻게 생각하느냐', '보완수사권은 유지돼야 한다고 보느냐'는 취재진 질문에는 "다음 기회에 말씀드리겠다"며 말을 아꼈다.&lt;br /&gt;&lt;br /&gt;노 대행은 국회 표결이 있기 전인 지난 24일"헌법에 규정된 '검찰'을 지우는 것은 성공적 검찰개혁에 오점이 될 수 있다"며 "올바른 검찰개혁의 모습을 다듬어달라"고 했다. &lt;br /&gt;&lt;br /&gt;이에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&amp;nbsp;&lt;/span&gt;법무부장관은 "해당 발언은 부적절하다고 느끼고 있다"며 "어떠한 조치가 적절한지는 연구해서 보고드리겠다"고 언급한 바 있다.&lt;br /&gt;</description>
-			<pubDate>Fri, 26 Sep 2025 11:20:39 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211913</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211913</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211913.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>'검찰청 폐지' 정부조직법 개정안, 국회 본회의 통과</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/211912.jpg" alt="4744.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;9월 26일 서울 여의도 국회 본회의에서 정부조직법 일부개정법률안에 대한 수정안이 통과되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;검찰청을 폐지하고 기소·수사 기능을 분리하는 정부조직법 개정안이 9월 26일 국회 본회의에서 통과됐다. 이에 따라 1년의 유예 기간을 거친 뒤 2026년 9월부터 검찰청은 78년 만에 역사 속으로 사라지고, 기소 기능을 전담하는 공소청과 수사를 담당하는 중대범죄수사청(중수청)이 각각 출범한다.&lt;br /&gt;&lt;br /&gt;국회는 이날 본회의에서 재석 의원 180명 가운데 찬성 174명, 반대 1명, 기권 5명으로 정부조직법 개정안을 가결했다. 더불어민주당과 범여권은 오후 6시 58분 국민의힘이 진행하던 필리버스터(무제한 토론)를 종료시키고 표결 절차에 들어갔다. 필리버스터는 개시 후 24시간이 지나면 재적 의원 5분의 3 이상(179명)의 동의를 거쳐 종결시킬 수 있다. 국민의힘은 법안 처리에 반발하며 본회의 투표에 불참했다.&lt;br /&gt;&lt;br /&gt;개정안에 따라 법무부 장관의 사무 범위는 기존 '검찰·행형·인권옹호·출입국관리'에서 '검사 사무·행형·인권옹호·출입국관리'로 조정됐다. 또한 '법무부 장관 소속으로 검찰청을 둔다'는 조항은 '공소청을 둔다'로 변경됐다. &lt;br /&gt;&lt;br /&gt;국민의힘은 전날(25일) 정부조직법 개정안 상정 직후부터 필리버스터에 나섰다. 첫 번째 토론자인 박수민 국민의힘 의원은 약 17시간 12분간 발언을 이어가며 역대 최장 기록을 세웠다. &lt;br /&gt;&lt;br /&gt;한편 정청래 민주당 대표는 검찰청 폐지 법안 처리를 환영하며 향후 사법·언론개혁에도 속도를 내겠다고 밝혔다. 정 대표는 이날 오전 국회에서 열린 확대간부회의에서 "추석 귀향길 라디오 뉴스에 '검찰청은 폐지됐다', '검찰청은 역사 속으로 사라지게 되었다'는 소식을 전해드리겠다고 약속드렸는데, 약속을 지킬 수 있어 제 개인도 기쁘다"고 말했다.</description>
-			<pubDate>Fri, 26 Sep 2025 11:04:48 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211912</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211912</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211912.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 고발장에 개인정보 기재… 정당행위 인정</title>
-			<description>&lt;b&gt;[대법원 판결]&lt;/b&gt;&lt;br /&gt;타인의 개인정보를 고발장에 기재해 제출한 행위가 형법상 정당행위에 해당할 수 있다는 대법원 판단이 이어지고 있다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1759"&gt;오석준&amp;nbsp;&lt;/span&gt;대법관)는 개인정보보호법 위반 혐의로 기소된 A씨 사건 상고심(&lt;b&gt;2025도6239&lt;/b&gt;)에서 벌금 100만 원을 선고한 원심을 파기하고 사건을 부산지법으로 돌려보냈다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원은 고소·고발장에 개인정보가 포함된 서류를 제출한 것은 사회상규에 반하지 않아 정당행위로 볼 수 있다는 기존 판례(&lt;b&gt;2023도17590&lt;/b&gt;)를 재확인했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 씨는 동료 직원 B 씨가 초과근무수당을 부정수급했다고 보고 2021년 1월 경찰서에 고발장을 제출했다. 이 과정에서 A 씨는 공단 공문을 통해 알게 된 B 씨의 주민등록번호, 주소, 휴대전화번호 등을 고발장에 기재했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A 씨가 개인정보보호법을 위반했다고 판단했다. 고발장에 개인정보를 기재한 것은 법이 금지하는 '목적 외 이용'에 해당하며, 형법 제20조의 정당행위에도 해당하지 않는다고 보아 벌금 100만 원을 선고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심 판단도 같았다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 사건을 파기·환송했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 7월 18일 선고된 &lt;b&gt;2023도17590 &lt;/b&gt;판결을 참조해 피고인이 수사기관에 제출한 고발장에 주민등록번호, 주소, 휴대전화번호 등 개인정보를 기재한 행위는 사회상규에 위배되지 않는다고 볼 여지가 충분하다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "재판이나 수사 과정에서 범죄혐의를 소명하기 위해 개인정보가 포함된 자료를 제출하는 경우, 사회상규에 위배되지 않는 행위로서 형법 제20조에 따라 위법성이 조각될 수 있다"며 "고발장은 수사기관이 범죄사실을 특정하고 조사를 개시하기 위해 필요한 기본 자료이므로, 주민등록번호·주소·연락처 기재는 정당한 범위 내 행위일 수 있다"고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;재판부는 △A 씨가 고발 의무 없이도 누구나 할 수 있는 범죄 신고를 한 점 △개인정보는 통상적인 공문 열람을 통해 알게 된 것에 불과한 점 △수사기관이 고발대상자를 특정하기 위해 기본적인 신상정보 확보가 필요한 점 등도 종합적으로 고려했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 26 Sep 2025 10:47:00 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211860</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211860</guid>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
