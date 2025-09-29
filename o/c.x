@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘정보자원관리원 화재’ 발화 추정 배터리 정밀감식...작업자 소환 조사 </title>
+      <link>https://www.chosun.com/national/regional/2025/09/29/3G44ASCJ6JF5ZJN3RPPH542YA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/29/3G44ASCJ6JF5ZJN3RPPH542YA4/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 10:10:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XA5SVR74NPY3ILTCM65I6SQP4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 10시30분부터 대전 국가정보자원관리원에서 화재 3일차 합동감식이 시작된 가운데, 감식반이 화재 현장에서 반출한 리튬이온 배터리를 운반하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 행정서비스 647개를 ‘셧다운’시킨 대전 국가정보자원관리원(정보자원관리원) 화재 원인을 조사 중인 경찰이 현장 관계자를 불러 조사하는 등 수사에 속도를 내고 있다. 정보자원관리원은 작년 6월 정기검사에서 내구 연한(10년)이 지난 노후 배터리의 교체를 권고받았지만 그대로 사용한 것으로 드러났다.&lt;br&gt;&lt;br&gt;29일 대전경찰청 전담수사팀에 따르면, 화재 발생 이틀째인 지난 27일부터 화재 당시 정보자원관리원 5층 전산실에 있었던 작업자 7명을 잇달아 불러 조사했다. 이들은 최초 발화한 것으로 추정되는 ‘무정전·전원 장치(UPS)’ 리튬이온 배터리 이전을 위해 투입된 업체 관계자들이다. 아직 정보자원관리원 관계자를 불러 조사하진 않았고, 형사 입건된 관계자도 없는 상태다.&lt;br&gt;&lt;br&gt;경찰은 불이 난 전산실의 보안카메라(CCTV) 영상도 확보해 분석하고 있다. 경찰은 “CCTV에 불이 나기 전후의 전반적인 영상이 담겨 있으나, 정확히 불이 난 곳을 비추는 화면은 없다”고 했다. 이 때문에 국립과학수사연구원 정밀 감식 결과 등을 통해 정확한 발화 지점과 원인을 규명할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 당시 작업자들을 대상으로 작업 중 안전조치가 제대로 이뤄졌는지 확인 중이다. 당시 전산실에 있던 작업자들은 “전원을 끄고 작업을 했다”고 진술했다. 경찰은 “작업이 배터리 전원을 끄고 이뤄졌는지는 배터리가 불에 녹아내려 육안으론 확인할 수 없어 정밀 감식이 필요한 부분”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 정보자원관리원에서 배터리 등 사업 관련 자료를 임의 제출받아 분석 중이다. 경찰은 이날 오전부터 추가 정밀 감식에 나섰다. 지난 27일 진화 이후 사흘째 이뤄진 감식에선 발화 의심 지점을 집중적으로 살폈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “29일 오후 최초로 발화한 부위로 의심되는 무정전·전원(UPS)용 리튬이온배터리 6개 중 3개를 국립과학수사연구원으로 먼저 보내 정밀 감식을 의뢰했다”고 밝혔다. 앞서 경찰은 발화부로 보이는 배터리 6개를 반출해 수조에 담아 잔류 전류를 빼는 안정화 작업을 진행했다. 잔류 전류가 더 이상 확인되지 않은 3개를 국과수로 보냈고, 나머지도 안정화 작업을 더 한 후 국과수로 보낼 예정이다. 배터리에서 발화한 흔적 있는지 밝히기 위해서다.&lt;br&gt;&lt;br&gt;일각에서는 배터리 노후화가 화재 원인일 수 있다는 분석도 나온다. 불이 난 배터리는 2014년 8월 정보자원관리원 전산실에 설치됐는데, 제조사가 보증하는 내구 연한(10년)을 1년 넘겼다. 배터리는 LG에너지솔루션이 생산했고, 이를 넘겨받은 제조 업체 2곳을 거쳐 납품·설치된 것으로 전해졌다. &lt;br&gt;&lt;br&gt;정보자원관리원은 화재가 발생한 리튬이온 배터리가 지난해 정기검사에서 정상 판정을 받았으나, 사용 연한 10년이 지나 교체 권고를 받았다고 밝혔다. 정보자원관리원 측은 “(발화한) 배터리는 2024년, 2025년 정기검사에서 모두 정상 판정을 받았다”며 “다만 2024년 6월 정상 판정을 받으며 교체 권고를 받았다”고 했다. 그러면서 “내구 연한이 지난 데 따른 교체 권고였다”며 “정기검사 결과 이상이 없어서 (배터리를) 지속해 사용했다”고 했다.&lt;br&gt;&lt;br&gt;최주원 대전경찰청장은 “이런 사고의 재발을 막는 것이 (수사의) 목적”이라며 “전문가 검증을 거쳐 국민이 수긍할 수 있는 결과를 내도록 철저히 수사하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양주 찜질방 폭발 사고’...숯가마에 액화석유가스 유입 추정</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/29/MEGIWAOCI5GVPFN57FKCXSNDYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/MEGIWAOCI5GVPFN57FKCXSNDYE/</guid>
+      <dc:creator>양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 09:53:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FI3KONN5KVCXLMXQRX5Y3JEF3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 경기 양주시 장흥면의 한 숯가마 찜질방에서 LPG가스 폭발 사고가 발생해 3명이 중상을 입고 25명이 경상을 입었다. /경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28명이 다친 경기 양주 찜질방 가스 폭발 사고는 숯가마에 유입된 액화석유가스(LPG)가 폭발하면서 발생한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청 과학수사대와 한국가스안전공사 등은 29일 오전 10시 30분쯤 사고 현장인 양주시 장흥면의 한 숯가마 찜질방에서 합동 감식을 벌였다.&lt;br&gt;&lt;br&gt;감식 결과 폭발한 숯가마와 유사한 조건의 다른 가마 내부 참나무에서는 가연성 가스가 검출되지 않았다. &lt;br&gt;&lt;br&gt;이에 따라 경찰은 사고 당시 숯가마 외부에서 누출된 LPG가 내부로 유입돼 폭발했을 가능성이 큰 것으로 보고 있다. &lt;br&gt;&lt;br&gt;그동안 경찰은 숯가마 내부에서 참나무 메탄가스 발생 가능성도 염두에 두고 수사를 벌여왔다. &lt;br&gt;&lt;br&gt;앞서 지난 27일 오전 10시 27분쯤 양주시 장흥면의 한 숯가마 찜질방 내부에서 가스 폭발 사고가 발생했다. 이 사고로 직원 1명과 이용객 2명이 중상을 입었고 25명이 경상을 입었다.&lt;br&gt;&lt;br&gt;또 주말 아침 찜질방을 이용하던 손님 등 72명이 긴급 대피하기도 했다. &lt;br&gt;&lt;br&gt;당시 숯가마 내부에는 사람이 없었으며 폭발 충격으로 구조물이 무너져 내렸다.&lt;br&gt;&lt;br&gt;경찰은 해당 업체 관계자 등을 조사했으며 과실 여부 등을 수사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관, 임은정 지검장에 “정치적 언행 유의하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/29/ZOLHUK3QXVHHLCIH6IHDWFD4L4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/29/ZOLHUK3QXVHHLCIH6IHDWFD4L4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 09:11:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6RWSFZYUZN4NODFTPFDLVG7OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무장관은 29일 임은정 서울동부지검장에게 “앞으로 정치적 중립성이나 업무의 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실할 것을 당부했다”고 밝혔다. 당정이 추진 중인 검찰개혁안과 관련해 임 지검장이 ‘장의사’를 자처하자, 검찰 내부에서 지속적으로 반발이 나오는 것을 의식한 것으로 보인다.&lt;br&gt;&lt;br&gt;29일 법무부에 따르면, 정 장관은 이날 임 지검장에게 서신을 보내 이 같은 지시를 내렸다. 구체적으로 정 장관은 서신에서 “고위공직자로서 정치적으로 해석될 수 있는 개인적 의견을 SNS에 게시하거나 공개적으로 발언하는 것은 그 자체로 바람직하지 않다”고 지적했다고 한다.&lt;br&gt;&lt;br&gt;정 장관이 서신을 보낸 배경엔 임 지검장의 언행이 있다는 게 법무부 설명이다. 임 지검장은 국회에서 개최된 공청회에서 검사 인사에 대해 ‘인사 참사’라고 언급했었고, 특정 검사들을 ‘검찰개혁 5적’이라고 표현하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EZXWYIRPNJTVNGPLRMVFIUMSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 자신의 서울동부지검장 부임과 관련해선 ‘소위 ‘찐윤’ 검사들을 승진시키며 포장지로 이용된 거 아니냐는 우려의 말을 들었다고 자신의 SNS에 적기도 했다. 이 밖에도 ‘세관 마약수사 외압’ 의혹 수사와 관련해선 “그 수사에 중간 합류한 것인데, 이름만 빌려주고 책임을 뒤집어쓰는 거 아니냐는 등 우려와 걱정을 많이 듣고 있다”는 글을 게시한 적도 있다. 이러한 부적절한 발언을 멈추고 본연의 업무에 충실하라고 정 장관이 지시했다는 것이다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “앞으로도 정치적 중립성이나 업무의 공정성에 대한 오해를 불러올 수 있는 공직자들의 부적절한 언행에 대해서는 엄중하게 조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 수원지검장, ‘검찰청 폐지’에 “대검, 권한쟁의심판 검토해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/29/XP3HLZGYR5DHHALWR6CMAEPYPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/29/XP3HLZGYR5DHHALWR6CMAEPYPU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 08:58:05 +0000</pubDate>
+      <content:encoded>검찰청 폐지를 골자로 한 정부조직법 개정안이 지난 26일 국회 본회의를 통과하자, 일선 지검장이 대검찰청 지휘부를 향해 “권한쟁의심판 등 헌법쟁송을 적극 추진해달라”고 요청한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;29일 본지 취재를 종합하면, 박재억 수원지검장은 이날 오후 검찰 내부망 이프로스에 게시글을 올려 이 같이 요청했다. 박 지검장은 “국회의 입법권은 마땅히 존중돼야 한다”면서도 “‘검찰’은 헌법에서 예정하고 있는 기관의 명칭이다. 이를 법률로 폐지하거나 변경할 수는 없다”고 했다. 대검에서도 이 같은 의견을 내지 않았냐는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OD4TJH5CQZKNPKDHHLNSO3HUAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박재억 수원지검장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 지검장은 “검찰청을 공소청으로 변경하는 정부조직법에 관해 각계각층에서 위헌 가능성을 지적하고 있다”며 “대검에서는 권한쟁의심판 등 헌법쟁송을 적극 검토해주실 것을 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;박 지검장은 2021년 검사장으로 승진한 뒤 수원고검 차장, 창원지검장 등을 지냈다. 2023년 5월 대검 마약·조직범죄부장을 지냈고, 이후 대전지검장, 인천지검장을 지낸 뒤 지난 7월 수원지검장에 임명됐다. &lt;br&gt;&lt;br&gt;이런 가운데 김윤선 대전지검 천안지청장은 노만석 검찰총장 직무대행을 향해 “지금까지 대검에서 보여준 정부조직법 개정 과정에서의 모습과 업무 처리 방식을 보면, 향후 1년간 대행께서 어떻게 국민을 위한 형사사법 절차를 만들어 가실지 믿음이 들지 않는다“며 ”대검을 어떻게 신뢰하고 따라야 할지 의문이 든다”고 했다.&lt;br&gt;&lt;br&gt;김 지청장은 “그동안 저희들은 대검이 현안에 대해 어떻게 대응하고 있는지 알 수 없어 답답했는데, 지난 주말에 대행께서 ‘법무부와는 의견이 일치된다’는 말씀까지 하신 것을 보면서 향후 검찰과 법무부가 입장이 서로 다를 수도 있는 사안에 대해 대행님과 대검이 저희들의 충언을 잘 전달하실지 의구심이 들기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;이어 김 지청장은 대검이 수사검사가 국민참여재판에 참여하도록 한 규정을 개정한 점, 이른바 ‘관봉권 띠지 사건’과 관련해 수사관들을 보호하는 대응을 하지 않은 점, ‘직접 수사 자제’ 기조와 달리 ‘인천 해경 순직’ 사건 수사팀을 구성한 점 등 일선에서 이해하기 어려운 업무를 진행하고 있다고 지적했다. 향후 검찰 조직 개편 작업에서도 일방적으로, 납득하기 어려운 방법으로 대응하지 않겠냐는 것이다.&lt;br&gt;&lt;br&gt;김 지청장은 “개정안이 통과되면, 대행께서 형사사법 제도 개편에 대한 입장과 함께 향후 검찰의 대응 방안을 대내외적으로 소상히 설명하실거라 생각했다”며 “대행께서 그 귀한 순간에 ‘안타깝다’ ‘다음에 말하겠다’고만 하고 퇴근이라니요”라고 했다. 이어 “대검은 과연 오늘의 상황에 최선을 다했느냐”며 “대행께서도 권한에 상응하여, 사태의 결과 책임에 대하여 숙고해 주시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 노 대행은 정부조직법 개정안을 두고 이날 오전 전국 검사들에게 메일로 서신을 보내 “참담한 심정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10년간 외국인 노동자 205명 불법 고용… 70대 영농조합 대표 집유</title>
+      <link>https://www.chosun.com/national/regional/2025/09/29/KACSMZIA6JGPNI2FBCS6N2GSCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/29/KACSMZIA6JGPNI2FBCS6N2GSCA/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 08:49:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7VDPGFJ5G7D5MCCJMYIXFHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;취업 자격이 되지 않는 외국인 근로자를 불법 고용한 영농조합법인 대표에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사8단독 김미경 부장판사는 29일 출입국관리법 위반 혐의로 재판에 넘겨진 영농조합법인 대표 70대 A씨에게 징역 1년 6개월에 집행유예 3년을 선고했다. 같은 혐의로 기소된 해당 영농조합법인에 대해서는 벌금 1500만원을 선고했다.&lt;br&gt;&lt;br&gt;2014년 4월부터 경북 성주군 성주읍에서 영농조합법인 사업장을 운영해온 A씨는 지난해 11월까지 10년 동안 취업 자격을 되지 않는 40대 태국 국적 근로자 B씨 등 외국인 205명을 단순노무자로 고용해 일을 시킨 혐의로 기소됐다. 또 A씨는 2023년 10월 취업 자격이 없는 외국인 36명을 고용한 혐의로 단속돼 범칙금 통고 처분을 받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 부장판사는 “외국인 불법 체류를 조장하는 등 사회적 해악이 적지 않다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“남해안을 미래 중심축으로”... 경남·전남 상생협약 </title>
       <link>https://www.chosun.com/national/2025/09/29/V5HMXAWMBNGHLE3GXMRSNNENUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/09/29/V5HMXAWMBNGHLE3GXMRSNNENUY/</guid>
@@ -788,24 +833,6 @@
       <content:encoded>국민의힘 추경호 의원의 ‘국회 계엄 해제 의결 방해 의혹’과 관련해 국민의힘 김희정 의원에 대한 ‘공판 전 증인신문’이 29일 서울남부지방법원에서 열린다. 오는 30일에는 같은 당 김태호·서범수 의원 증인신문도 예정돼 있다.&lt;br&gt;&lt;br&gt;조은석 내란특검은 지난 11일 김희정·김태호·서범수 의원이 작년 12·3 비상계엄 선포 당시 서울 여의도 국민의힘 당사와 국회 본회의장, 국회 본관 내 국민의힘 현대대표실 상황을 잘 아는 핵심 증인이라며 법원에 공판 전 증인신문을 청구했다. 추 의원은 비상계엄 선포 당시 국민의힘 원내대표였다. 그러나 국민의힘에선 특검이 청구한 공판 전 증인신문에 국민의힘 인사들이 출석하면 국민의힘을 겨냥한 더불어민주당의 ‘내란 몰이’ 프레임을 강화하는 데 이용될 수 있다고 본다.&lt;br&gt;&lt;br&gt;특검은 “추 의원이 계엄 당시 수차례 국민의힘 의원총회 장소를 변경해 소속 의원들에게 혼선을 줬고, 의원들의 계엄 해제 표결 참여를 방해했다”는 혐의를 두고 수사 중이다. 그러나 추 의원은 최근 법원에 제출한 A4 용지 39쪽 분량 의견서에서 “의원총회 장소 변경은 당시 경찰의 국회 봉쇄 등 외부 상황에 따른 불가피한 조치였다”고 했다. 추 의원은 위계에 의한 업무방해 혐의와 관련해서는 “위계의 상대방은 국민의힘 의원들이지만, 업무방해 피해자는 한동훈 당대표라는 구조는 범죄 성립 요건에 맞지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[리빙포인트] 전어 굽기 전 소금물에 담가보세요</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/28/BPMIPM7WKVFGPN2UE56N7DXI5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/28/BPMIPM7WKVFGPN2UE56N7DXI5U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 14:36:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBJCPDOIUNAITATY4753B33Z7I.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전어를 굽기 전에 소금물에 10분쯤 담갔다 헹궈 보자. 비린내가 줄고 살이 단단해져 고소한 맛이 한층 살아난다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨]2025년 9월29일</title>
-      <link>https://www.chosun.com/national/education/2025/09/28/KZVWBQCBNJGPXDZDPSMCFWTC4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/28/KZVWBQCBNJGPXDZDPSMCFWTC4Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 14:35:00 +0000</pubDate>
-      <content:encoded>전국 대체로 구름 많음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUJBL566AFDXHJXJKMLGPAOWNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“산은 영원한 스승, 야생 자체가 삶을 바꿨다” </title>
       <link>https://www.chosun.com/national/people/2025/09/28/ACQDWMHTSRDA7BJIIICGHCMM7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/28/ACQDWMHTSRDA7BJIIICGHCMM7A/</guid>
@@ -813,36 +840,6 @@
       <description/>
       <pubDate>Sun, 28 Sep 2025 08:10:16 +0000</pubDate>
       <content:encoded>“산은 영원한 스승이다.” &lt;br&gt;&lt;br&gt;28일 울산울주세계산악영화제(UMFF)에서 만난 세계적인 산악인 라인홀트 메스너(81·이탈리아)와 엄홍길(61·UMFF집행위원장)은 “야생을 통해 성장했고, 자연과 함께 영원할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3X7OXD7XRF4PNE5FD3EV6DAQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 울산울주세계산악영화제(UMFF)에서 만난 세계적인 산악인 라인홀트 메스너(오른쪽)와 엄홍길 집행위원장. 그들은 "야생을 통해 성장했고, 자연과 함께 영원할 것”이라고 했다./정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 산악인의 만남은 영화제 최대 화제였고, 그들이 영화제를 통해 주위에 미치는 영향력은 상당했다. 메스너는 이번 영화제에서도 단연 주목받는 인물이다. 그가 등장하는 곳이면 사인 행렬이 이어졌고, 그가 감독을 맡은 영화는 일찌감치 매진됐다. &lt;br&gt;&lt;br&gt;하지만 더욱 감동은 준 것은 메스너가 감독한 다큐멘터리 영화 (에베레스트-최후의 한걸음)가 끝난 뒤 관객과의 대화였다. 특히, 히말라야를 중심으로 펼진 그의 인생철학과 나눔은 산악인뿐만 아니라 산을 좋아하는 모두에게 감동을 주고 있다. &lt;br&gt;&lt;br&gt;세계 산악사의 흐름을 바꾼 메스너와, 한국 산악계를 대표하는 엄홍길, 두 사람은 시대와 국적은 다르지만, 산을 향한 태도와 삶에서 독자적인 궤적을 남겼다. 이번 영화제에서는 UMFF 집행위원장(엄홍길)과 울산울주세계산악문화상(UMCA) 수상자(메스너)로 만났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ5Q2R6F6JG5XAEFCKXUPVHUOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산울주세계산악영화제(UMFF)에 참석한 세계적인 산악인 라인홀트 메스너 부부. 관객과의 댜화에 앞서 영남알프스 소개 책자를 보고 있다. /정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메스너는 1978년 세계 최초로 에베레스트 무산소 등정에 성공하며 ‘산악인의 전설’이 됐다. 그는 1986년 인류 최초의 히말라야 8000m 14좌 완등을 이뤄냈고, ‘등반 스타일’을 무엇보다 중시했다. &lt;br&gt;&lt;br&gt;그의 철학은 “정상에 오르는 것보다 어떻게 오르는지가 중요하다”는 말로 집약된다. 야생의 자연에 도전하는 태도를 중시하는 대신 현대화된 기술로 등반하는 것을 터부시한다. 또 “나는 산을 정복하지 않았다. 산은 언제나 그 자리에 있었다. 정복당하는 것은 언제나 우리 자신”이라고 말했다. “산은 정복의 대상이 아니라 인간의 내면을 비추는 거울”이라고 강조했다.&lt;br&gt;&lt;br&gt;엄홍길 역시 메스너와 더불어 산악 영웅의 길을 걸었다. 1988년 에베레스트를 시작으로 2007년 로체사르까지 한국인 최초로 히말라야 16좌(14좌+야룽캉·로체샤르 등 위성봉)를 등정하며, 세계적인 산악인 반열에 올랐다. &lt;br&gt;&lt;br&gt;엄홍길이 더욱 주목받기 시작한 것은 산에서 내려온 이후였다. 히말라야 등정 중 10명의 동료를 잃는 비극을 겪은 뒤 그는 “산은 혼자가 아니라 함께 가야 한다. 정상보다 중요한 건 동료의 생명”이라고 강조하면서 나눔과 봉사에 나섰다. &lt;br&gt;&lt;br&gt;지난 2007년 ‘엄홍길 휴먼재단’을 설립해 네팔 오지에 18개 휴먼스쿨을 지으면서 히말라야 청소년들을 위한 교육사업을 해왔다. “산에서 얻은 건 모두 나눔으로 갚아야 한다”는 그의 철학에서 비롯됐다.&lt;br&gt;&lt;br&gt;메스너와 엄홍길. 두 사람의 길은 닮은 듯 다르다. 메스너가 인간의 한계를 시험하며 등반의 본질을 재정의했다면, 엄홍길은 기록을 넘어 공동체적 의미를 확장했다. 한쪽은 ‘산과 나’의 문제를 집요하게 파고들었고, 다른 한쪽은 ‘산과 우리’로 영역을 넓혀갔다.&lt;br&gt;&lt;br&gt;하지만 공통점도 뚜렷하다. 두 사람 모두 산을 단순한 정복의 대상이 아니라 삶의 철학과 사회적 메시지를 전하는 공간으로 해석했다는 점이다. &lt;br&gt;&lt;br&gt;메스너는 “산은 이해의 대상이지, 정복의 대상이 아니다”라며 기후위기와 자연 보존의 중요성을 설파해왔고, 엄홍길은 “히말라야는 내 인생을 키워준 스승이다. 히말라야 신이 살려준 대가로 이제 내가 빚을 갚을 차례다”라며 교육·복지 활동에 나섰다.&lt;br&gt;&lt;br&gt;두 사람 모두 등정이라는 수직 인생보다 나눔과 봉사라는 철학을 통한 수평 인생이 더 주목받는 이유다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYVOL4EVSVFT5DXUEFA3OEY2U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄홍길 울산울주세계산악영화제 집행위원장이 메스너에게 감사패를 수여하고 있다. /정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래서 에베레스트의 줄 선 상업등반, 지구적 기후위기, 산악 문화의 변화 속에서 두 인물의 여정은 여전히 유효하다. 메스너가 던진 “산은 이해의 대상”이라는 말과, 엄홍길이 보여준 “산은 나눔의 출발점”이라는 실천은 서로 다른 언어지만 결국 같은 질문을 품고 있다. &lt;br&gt;&lt;br&gt;그들에게 “산이 무엇을 의미하느냐”고 하자, 이구동성으로 “산은 영원한 스승이다”고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국가정보자원관리원 화재에 중대본 가동…위기경보 ‘심각’</title>
-      <link>https://www.chosun.com/national/incident/2025/09/27/LNCIFVHY5NBWHMB7PWXY2MZMJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/27/LNCIFVHY5NBWHMB7PWXY2MZMJE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 27 Sep 2025 00:19:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FXJ6SA4FPVOI3EHHQFBDOBU6J4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 26일 국가정보자원관리원 대전 본원에 있는 전산실에서 발생한 화재로 정부 업무시스템 647개가 가동이 중단된 것으로 파악됐다. 27일 서울 시내 한 지하철역에 설치된 무인민원발급기에 시스템 오류 관련 안내문이 표시되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원에서 불이 나 10시간 만에 불길이 잡힌 가운데, 행정안전부는 위기경보수준을 ‘경계’에서 ‘심각’으로, ‘위기상황대응본부’를 ‘중앙재난안전대책본부’로 격상했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;행안부는 이날 정부서울청사에서 브리핑을 열고 “국가정보자원관리원 대전본원 업무시스템 647개가 가동이 중단된 상황”이라고 했다. 화재의 영향으로 항온항습기가 제대로 작동하지 않아 서버의 급격한 가열이 우려돼 정보시스템 보전을 위해 선제적으로 가동을 중단시킨 것이다. 현재는 항온항습기를 복구 중이다. 이후 서버를 재가동해 복구 조치할 예정으로, 우체국 금융과 우편 등 파급효과가 큰 주요 정부서비스 장애부터 복구된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSV4G7C3NHKPH3VFIL4HX2Z4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 27일 대전 유성구 국가정보자원관리원 5층 전산실 창문이 리튬이온 배터리 폭발 화재로 불에 타 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 행안부는 “시스템 정상화 이전에 기한이 도래하는 세금 납부, 서류 제출은 정상화 이후로 연장토록 유관기관에 안내하고 협조를 구했다”며 “민원이나 서비스 신청 시 대체 사이트에 접속하거나 오프라인 창구를 활용하라”고 했다. 전자가족관계등록시스템, 교통민원24 등 일부 서비스는 현재 대체 사이트를 통해 이용이 가능하다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “정부는 이번 사태의 조속한 복구를 위해 모든 역량을 총동원하고 있으며, 국민 불편을 최소화하는데 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QGICLCJQM5OOOGNX6ILF5EXOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 8시20분께 대전 유성구 국가정보자원관리원에서 불이 나 소방당국이 진화 작업을 하고 있다. 불은 5층 전산실 리튬이온 배터리에서 발생한 것으로 추정된다. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재는 지난 26일 오후 8시 15분쯤 국가정보자원관리원 본원 5층 전산실에서 발생했다. UPS(무정전 전원장치) 배터리를 지하로 이전하는 도중 전원이 차단된 배터리 한 개에서 불이 시작된 것으로 조사됐다. UPS 배터리는 전기 공급이 중단되거나 전압 변동, 주파수 변동 등 장애가 발생해도 전기를 안정적으로 사용할 수 있도록 해주는 장치다. 근무 직원은 전원 대피했으나 1명이 얼굴과 팔에 1도 화상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YTXMMXEMTBAX7M6AWCYIRVQHTU.gif?auth=c1ca901b78cbb34556e23a717d25a374851a3f57b6aa26087ae8704d5eaf381f&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500">
-        <media:description type="plain">짤4</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>전원 안정 장치 배터리서 발화, 정부 “우편 등 필수 서비스 우선 복구”</title>
-      <link>https://www.chosun.com/national/regional/2025/09/27/QUBRZIIBINGRDK3VGCSFML625I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/09/27/QUBRZIIBINGRDK3VGCSFML625I/</guid>
-      <dc:creator>김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 27 Sep 2025 01:10:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUTU4DCGH5MU3AJFQZICCQEAY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민재 행정안전부 차관이 27일 오전 서울 종로구 정부서울청사에서 국가정보자원관리원 화재 관련 브리핑을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원 화재로 27일 현재 정부 업무시스템 647개가 가동이 중단되는 초유의 사태가 발생했다. 정부는 우체국 금융, 우편, 정부 24 등 국민들이 많이 쓰는 서비스부터 복구하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;김민재 행안부 차관은 이날 정부서울청사 긴급브리핑에서 “이번 화재로 항온항습기가 작동하지 않아 서버의 급격한 가열이 우려됐고, 정보시스템을 안전하게 보전하기 위해 선제적으로 가동을 중단시켰다”며 이같이 설명했다.&lt;br&gt;&lt;br&gt;국가정보자원관리원은 공공기관의 정보기술(IT) 시스템이 집결된 곳이다. &lt;br&gt;&lt;br&gt;장애 발생 시 국민 생활과 직결된다. 정부는 사용자 수, 파급도 등을 합산해 1~4등급으로 분류한다. &lt;br&gt;&lt;br&gt;이번 화재로 모바일 신분증 등 1등급 12개와 2등급 58개 등 총 70개 시스템이 영향을 받아 서비스가 중단됐다. 우체국 금융, 우편, 정부 24와 국민 신문고 등도 서비스가 중단됐다.&lt;br&gt;&lt;br&gt;중앙부처 홈페이지와 정부 e메일 시스템도 접속이 불가한 상태다.&lt;br&gt;&lt;br&gt;김 차관은 “현재 항온항습기를 복구 중이고, 이후 서버를 재가동해 복구 조치를 하려한다”며 “우체국 금융과 우편 등 대국민 파급효과가 큰 주요 정부 서비스 장애부터 신속히 복구하겠다”고 말했다.&lt;br&gt;&lt;br&gt;정부는 국민들의 민원 처리가 지연돼 불이익을 받는 일이 없도록 시스템 정상화 전에 도래하는 세금 납부, 서류 제출은 정상화 이후로 연장토록 유관기관에 안내하고 협조를 구했다. &lt;br&gt;&lt;br&gt;또 언론과 네이버 포털 등을 통해 대체 사이트 안내 등 필요한 조치를 취했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOSV4G7C3NHKPH3VFIL4HX2Z4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 대전 유성구 국가정보자원관리원 5층 전산실 창문이 리튬이온 배터리 폭발 화재로 불에 타 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 차관은 “국민께서는 다소 불편하시더라도 민원이나 서비스를 신청할 경우 해당 기관의 안내에 따라 대체사이트에 접속하거나 오프라인 창구를 활용해주시길 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 지난 26일 오후 8시 15분쯤 중앙 정부와 공공기관의 통신 시스템이 집결된 대전 국가정보자원관리원에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;소방청에 따르면 불은 5층 무정전 전원장치(UPS)실 리튬배터리에서 발생한 것으로 추정된다. UPS는 단전, 주파수 이상 등의 경우에 대비해 안정적인 전원을 기기에 공급하는 장치다. 58V 리튬배터리 12개를 수납한 캐비넷 16개 중 8개가 일부 소실됐다. &lt;br&gt;&lt;br&gt;소방당국은 장비 30여 대와 인력 90여 명을 투입해 진화 작업을 벌였다. 전산실 보호를 위해 대량으로 물을 뿌리지 못해 전산실 내부 온도가 160도까지 높아졌다고 소방당국은 밝혔다. 이 불로 내부에 있던 40대 근로자 1명이 경상을 입어 병원 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰과 소방은 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전 국가정보자원관리원 화재 10시간 만에 초진</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/27/FADTAPTOZZCNRCWJZJXUA35SBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/27/FADTAPTOZZCNRCWJZJXUA35SBM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Sep 2025 22:24:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNZZFW4DHFOJTBTIC4YJLUJABY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 8시20분쯤 대전 유성구 국가정보자원관리원에서 불이 나 소방당국이 진화 작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 유성구 화암동 국가정보자원관리원에서 발생한 화재가 10시간여 만에 초진됐다.&lt;br&gt;&lt;br&gt;27일 대전소방본부 등에 따르면 소방 당국은 이날 오전 6시 30분쯤 큰 불길을 잡았고 내부 온도를 낮추기 위한 배연 작업을 진행 중이다. 또 건물 내부로 진입해 잔불 여부 등을 최종 확인하고 있다.&lt;br&gt;&lt;br&gt;앞서 화재는 전날 오후 8시 15분쯤 국가정보자원관리원 본원 5층 전산실에서 발생했다. 전기 설비 작업 도중 리튬 배터리가 폭발하며 불이 난 것으로 추정된다. 근무 직원은 전원 대피했으나 1명이 얼굴과 팔에 1도 화상을 입었다.&lt;br&gt;&lt;br&gt;당국은 지금까지 인력 171명과 소방차 63대를 투입했다. 전산실 내부엔 리튬 배터리 약 200개가 층층이 쌓여 있어 불길이 쉽게 잡히지 않으면서 새벽 내내 진화 작업이 이어졌다. 대량의 물을 투입할 경우 국가 자원 데이터가 훼손될 수 있어 이산화탄소 등 가스 소화 설비를 사용했고, 이 때문에 신속한 진화에 한계가 있었다고 한다.&lt;br&gt;&lt;br&gt;국가정보자원관리원은 정부와 지방자치단체의 IT(정보·통신) 시스템을 관리·운영하는 기관이다. 이번 화재로 모바일 신분증과 국민신문고 등 사이트 접속이 끊기고, 정부 부처 홈페이지와 정부 온라인 민원 서비스 정부 24도 먹통이 됐다. 현재 사용이 마비된 시스템은 70여 개로 파악되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“이대로 괜찮을까” 고민하는 젊은이들… K팝 여전사가 구하러 나섰다</title>
