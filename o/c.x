@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 정부 “대시민 서비스 등 62개 정상화...손상된 시스템 재구축엔 1개월쯤 걸릴 듯”</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/29/DET33KPK3VGH7MXOY5DNB6ASZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/DET33KPK3VGH7MXOY5DNB6ASZU/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 05:08:55 +0000</pubDate>
+      <content:encoded>정부는 지난 26일 발생한 대전 유성구 국가정보자원관리원 화재와 관련, 29일 오후 12시 기준으로 647개 시스템 중 62개 시스템이 정상화됐다고 밝혔다. &lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부는 이날 “국민 생활과 밀접한 1등급 업무 16개가 정상화됐다”며 “우체국 우편과 금융 서비스, 주민등록등본 발급 등 국민이 일상적으로 자주 활용하는 정부24 서비스 등을 우선 복구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JE3TXEMFOBPD7D6JQQKJWLIZNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 대전 유성구 국가정보자원관리원(국정자원) 화재 현장에서 경찰과 소방 관계자 등의 화재 정밀 감식이 진행되고 있다. 앞서 지난 26일 정부 전산시스템이 있는 국정자원에서 리튬이온배터리 화재가 발생해 정부 전산 서비스가 대규모로 마비된 바 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재는 대전 본원 7-1 전산실에서 발생했다. 직접 손상된 시스템은 96개다. 정부는 “1~5 전산실은 순차적으로 재가동하고 있고, (7전산실) 서버 등 정보 시스템은 전문업체가 분진 제거 작업 등을 진행 중이라고 밝혔다. 현장 복구에 1~2주 걸릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;정부는 또 96개 시스템은 대구 분원의 민간 협력 클라우드 구역에 이전 설치할 예정이라고 밝혔다. 정보 이전과 시스템 재구축에는 약 1개월쯤 걸릴 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환경장관 “기후위기 대응 위해 한중일 3국 위성 정보 공유 필요”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/09/29/CADJXGSAYBB7FGZS464TJLZEZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/29/CADJXGSAYBB7FGZS464TJLZEZM/</guid>
+      <dc:creator>옌타이=정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 04:30:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKDGJM7O65MERB3XQQIUZYPW4U.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김성환 환경부 장관이 지난 28일 중국 산둥성 옌타이에서 열린 제26차 한·중·일 환경장관회의(TEMM26)를 마친 뒤 기자회견에서 질문에 답하고 있다. /환경부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김성환 환경부 장관이 “한중일 3국이 가지고 있는 위성 정보 등을 공유해 태풍이나 장마, 폭우, 가뭄 등 정보를 정확하게 예측해야 기후 위기에 대응할 수 있다”며 “관련 정보 교류는 다른 어떤 것보다 더 적극적으로 해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;김 장관은 지난 28일 중국 산둥성 옌타이에서 열린 제26차 한중일 환경관계장관회의 현장 취재 기자단 간담회에서 이같이 밝혔다. 그는 “기후 위기 과정에서 생기는 각종 정보를 (한중일 3국이) 공유하면 훨씬 효과적일 것”이라며 “기후 위기 관련 예측력을 높이는 분야만큼은 협력해야 할 요소들이 굉장히 많다”고 말했다.&lt;br&gt;&lt;br&gt;이번 회의에서도 관련 제안이 오간 것으로 전해졌다. 김 장관은 “환경부와 기상청이 노력해서 인공위성을 통한 정보를 공유하는 것은 꼭 필요해보이고 제가 관련 제안을 했다”며 “결과를 내진 않았지만 그렇게 하자는 공감대는 있었다”고 밝혔다.&lt;br&gt;&lt;br&gt;기후 변화로 전례 없는 극한 폭우·폭염이 잦아지는 가운데, 정확하고 빠른 기상 예측의 중요성이 커지고 있다. 극한 기상을 미리 알아차리면 대응할 시간이 생겨 인명 피해를 줄일 수 있다. 환경 장관들이 이번 회의에서 기상 관련 정보 공유의 필요성에 공감한 것이다.&lt;br&gt;&lt;br&gt;김 장관은 재생에너지 확대 정책 관련 3국 협력 방안을 묻는 기자단 질문에는 “스케일(규모)이 다른 측면이 있다”고 말했다. 3국의 인구는 약 16억명으로 전 세계 인구의 5분의 1 수준이다. 그런데 3국의 탄소 배출량은 전 세계의 3분의 1을 차지한다. 이 중 대부분은 중국에서 나온다.&lt;br&gt;&lt;br&gt;최근 시진핑 중국 주석은 유엔(UN) 기후 정상회의에서 2035년까지 풍력·태양광 등 재생에너지 발전 설치 용량을 총 3600기가와트(GW)까지 끌어올리겠다고 밝혔다. 이는 2020년의 6배를 넘는 수치다. 또 2035년까지 중국 전역의 온실가스 배출량을 정점 대비 7~10% 감축할 계획도 발표했다.&lt;br&gt;&lt;br&gt;이에 대해 김 장관은 “(중국이) 2035년까지 온실가스를 7~10% 줄이겠다고 한 것보다 재생에너지를 3600기가와트로 늘리겠다고 한 게 더 중요하다”며 “한국의 재생에너지 발전 총량은 누적 34기가에 그친다”고 말했다. 그러면서 “재생에너지 총량을 늘리는 것보다 어려운 것은 늘어난 재생에너지만큼 전력망을 늘리는 문제”라고 했다.&lt;br&gt;&lt;br&gt;김 장관은 “서방 민주주의 진영은 NDC(국가 온실가스 감축 목표) 목표치를 끌어올려 잡는 경향이 있고 사회주의 진영은 목표치를 낮게 잡고 지도자의 영도력으로 초과 달성한 것을 강조하는 측면이 있다”며 “중국은 이번 NDC 목표치를 초과 달성할 것”이라고 말했다. 중국이 2035년 이전에 7~10% 감축 계획을 이룰 수도 있다는 뜻이다.&lt;br&gt;&lt;br&gt;유엔 기후 정상회의 전날 유엔총회에서 트럼프 미국 대통령이 기후변화에 대해 “전 세계에 저질러진 최대 사기극”이라고 한 데 대해서는 “(한중일 3국은) 예민한 정치 문제로부터 꽤 자유롭게 협력해온 전통이 축적돼있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “한중일은 정치적 성향이 조금씩 다른데 적어도 기후 위기에 대한 대응과 산업 전환에 대해서는 의견이 일치하고 있다”며 “만약 미국이 주춤한다고 해서 ‘우리도 그래도 되는 것 아니냐’고 했다간 세계적 녹색 전환 과정에서 기회를 상실하는 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;김 장관은 “에너지 전환은 보수·진보의 문제가 아니라 세계적인 흐름”이라며 “국민 이해를 구하면서 에너지 전환 속도를 높여야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘선거운동 혐의’ 유정복 인천시장 소환 조사</title>
+      <link>https://www.chosun.com/national/incident/2025/09/29/6GSQO4O42RGJ7O5Q7BK6ZQK5EA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/29/6GSQO4O42RGJ7O5Q7BK6ZQK5EA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 04:51:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JAIT6GBUZH5N5SZ3P5X2LIML64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유정복 인천시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 공직선거법 위반 등 혐의를 받는 유정복 인천시장을 소환 조사했다.&lt;br&gt;&lt;br&gt;인천경찰청 반부패경제범죄수사대는 지난 27일 공직선거법 위반과 직권남용 등 혐의로 유 시장을 불러 조사했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 조사에서 유 시장에게 관련 혐의 인정 여부 등을 확인한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;유 시장은 지난 4월 국민의힘 대선 후보 경선에 출마하면서 인천시 공무원들을 선거운동에 동원한 혐의 등을 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 인천시선거관리위원회 등이 제출한 고발장에 피고발인으로 유 시장이 포함돼 입건했다. &lt;br&gt;&lt;br&gt;이후 지난 9일 인천시청 본관 시장 비서실과 정무수석실, 홍보수석실, 홍보기획관실, 영상편집실 등에 대한 압수수색 당시, 유 시장을 피의자로 압수수색 대상에 포함한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 이번 사건과 관련, 유 시장을 포함해 전‧현직 인천시 공무원 등 17명을 입건해 수사 중인 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 수사를 받는 인천시 전‧현직 공무원들은 지난 4월 공무원 신분을 유지하면서 국민의힘 대선 경선 후보였던 유 시장을 수행하거나 행사 개최 등을 지원한 혐의다.&lt;br&gt;&lt;br&gt;경찰은 유 시장이 지난해 회장직을 맡았던 국민의힘 시도지사협의회 홍보에 공무원을 동원했다는 시민단체 고발에 대해서도 직권남용 혐의로 수사 중이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “유 시장을 불러 조사한 부분은 맞다”면서도 “구체적인 수사 내용에 대해선 확인해 주기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>갈 길 먼 내란 재판부, 김용현 측에 “기피 신청 스스로 취하해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/F24N4M23QFDYPJWV3KXFEAMNO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/F24N4M23QFDYPJWV3KXFEAMNO4/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 09:59:59 +0000</pubDate>
+      <content:encoded>내란 사건 재판을 맡은 지귀연 부장판사가 김용현 전 국방부 장관 측에 “재판부 기피 신청을 취하해달라”고 권했다. 김 전 장관 측이 “판사를 교체해달라”는 기피 신청을 내면서 재판이 멈춘 상태인데, 신속한 심리를 위해 피고인 스스로 신청을 거둬들이라는 취지다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y7IUCLELJXIIQ5JJZTQJBBA6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지귀연 부장판사가 지난 4월 21일 오전 서울 서초구 서울중앙지법 417호 법정에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판을 하기 전 언론 공개에 대한 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 26일 김 전 장관 측이 낸 재판부 기피 신청에 대한 심문을 진행했다. 지 부장판사는 “기피 신청 취하서를 내서 가급적 빠르게 (재판을 진행하는 게 어떻냐)”고 김 전 장관 측에 제안했다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 지난 18일 재판에서 내란 특검팀이 수사 기록에 가명을 썼다고 문제 제기하면서 재판 중단을 요구했다. 재판부가 이를 받아들이지 않자 김 전 장관 측은 재판부 기피를 신청했다.&lt;br&gt;&lt;br&gt;재판부 기피 신청은 판사가 불공정한 재판을 할 우려가 있을 때 검사나 피고인이 판사 배제를 요구할 수 있는 제도다. 소송 지연 목적으로 기피 신청을 낸 게 명백할 경우, 재판부가 곧바로 신청을 기각할 수 있다. &lt;br&gt;&lt;br&gt;하지만 기피 신청에는 횟수 제한이 없어 사실상 무제한 신청이 가능하다. 설령 재판부가 기각 결정을 내려도, 피고인이 반복 신청하면 재판이 계속 늦춰질 수 있는 것이다. 실제로 김 전 장관 측은 지난 7월 내란 특검의 추가 기소 사건을 맡은 형사34부(재판장 한성진)에 여러 차례 기피 신청을 냈다. 모두 기각됐지만, 그 과정에서 심문 기일이 잇따라 잡히며 재판이 다소 지연됐다. &lt;br&gt;&lt;br&gt;지 부장판사가 이날 기각 대신 취하를 권고한 것도 이런 배경에서 나온 것으로 풀이된다. 불필요한 지연을 막고 재판을 재개하기 위해 김 전 장관 측에 협조를 구한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAVVN4NWWVOL7MGOATCNZRFHOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단인 유승수, 이하상(왼쪽) 변호사가 지난 1월 10일 오전 서울 서초구 한 공유오피스에서 기자간딤회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 일단 김 전 장관 측이 기피 신청을 철회한다는 전제 하에, 다음 달 16일 재판을 열고 증인신문을 하기로 했다. 김 전 장관 측은 기일 지정에 이의를 제기하지는 않았지만 “취하를 하라 마라 하는 건 적절하지 않다”며 “간첩이나 좌익사범은 기피신청을 하면 다 받아준다. 간이기각은 적절하지 않다”고 반발했다. 만약 김 전 장관이 기피 신청을 취하하지 않으면, 제3의 재판부가 기피 신청이 타당했는지 여부를 판단할 때까지 재판은 열리지 않는다.&lt;br&gt;&lt;br&gt;한편 같은 날 대법원은 김 전 장관 측이 낸 ‘관할 이전 신청’을 최종 기각했다. 김 전 장관 측은 “불법 구속을 결정한 재판부(형사34부)에서 공정한 재판을 받을 수 없을 것 같다”며 내란 특검 추가 기소 사건을 상급 법원으로 넘겨달라고 요청했지만, 결국 받아들여지지 않았다. 이에 따라 지난달 11일 이후 중단됐던 추가 기소 사건 재판은 곧 재개될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰총장 대행 “국회 의결 존중…형사시스템 공백 없도록 최선”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/RYGNSZI4QVANNN5IIWRWB4VSDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/RYGNSZI4QVANNN5IIWRWB4VSDU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 10:07:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B3YI7GKKTBIMHLIM5ZGTXM62SE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;노만석 검찰총장 직무대행이 26일 서울 서초구 대검찰청에서 퇴근하며 검찰청 폐지를 골자로 하는 정부조직법의 국회 통과에 대한 입장을 밝힌 후 청사를 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노만석 검찰총장 직무대행이 26일 검찰청을 폐지하는 내용의 정부조직법이 국회를 통과하자 “형사 시스템에 공백이 없도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;노 대행은 이날 대검찰청 퇴근길에 취재진과 만나 정부조직법 개정안과 관련해 “안타깝게 생각한다”면서도 “국회의 의결을 존중한다”고 말했다. 이어 “형사사법 시스템이 공백 없이, 차질 없이 진행되도록 최선의 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;그는 “검찰 지휘부가 리더십을 발휘하지 못했다는 지적에 대해 어떻게 생각하느냐” “검찰은 헌법기관이 아니라는 주장에 대해 어떻게 생각하느냐” 등 질문에는 “다음 기회에 말씀드리겠다”고 답했다.&lt;br&gt;&lt;br&gt;국회는 이날 오후 본회의를 열고 검찰청 폐지와 중대범죄수사청 설치 등 내용을 담은 정부조직법을 통과시켰다. 정부조직법은 재석 180명 중 찬성 174명, 반대 1명, 기권 5명으로 가결됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>APEC 한 달 앞 대테러 훈련… 金총리 “기본 준비 마무리 단계”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/09/26/H4GAIIP7LVEOTPHCJECN2FGMOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/09/26/H4GAIIP7LVEOTPHCJECN2FGMOQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 10:24:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RASIRXEPDJOK3NYQZCGIWYQPME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 26일 오후 경북 경주 한국원자력연구원 양성자과학연구단에서 열린 2025 국가 대테러 종합 훈련에서 대테러 장비를 살펴보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 26일 다음 달 경북 경주에서 열리는 APEC(아시아태평양경제협력체) 정상회의에 대비해 대테러 종합 훈련을 실시했다.&lt;br&gt;&lt;br&gt;국무총리실은 이날 오후 경주 건천읍 한국원자력연구원 양성자과학연구단에서 김민석 국무총리 주재로 2025 국가 대테러 종합 훈련을 실시했다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 훈련에는 국무조정실 대테러센터와 국가정보원, 국방부, 경찰청, 해양경찰청, 소방청, 환경부, 질병관리청, 원자력안전위원회, 한국수력원자력 월성원자력본부, 한국원자력연구원 등 11개 기관 300여 명이 참여했다. ‘국민 참관단’과 APEC 참여국 외교관들이 훈련을 지켜봤다.&lt;br&gt;&lt;br&gt;훈련은 정상회의 시설과 인근 국가 중요 시설에서 일어날 수 있는 각종 테러 상황을 상정하고 이뤄졌다. 드론 테러, 사이버 공격, 화생방 테러, 해양 테러, 시설 점거 및 인질 테러, 화재 등의 상황에 대비한 태세가 점검됐다. 특히 신종 1인칭 시점(FPV) 드론과 광섬유 드론을 이용한 테러, 주요 인프라 시스템을 대상으로 한 사이버 공격, 각국 경제인 숙소로 쓰일 크루즈선에 대한 해양 테러 등에 대비하는 훈련이 이뤄졌다.&lt;br&gt;&lt;br&gt;김 총리는 훈련 강평에서 “드론·사이버 공격 같은 첨단 기술을 악용한 테러 위협 사례가 현실화하고 있는 점을 보고, 테러가 먼 일이 아닐 수 있다는 경각심을 가져야 한다”고 강조했다. 이어 “이번 APEC은 우리 공동체의 회복을 전 세계에 보여줄 수 있는 기회로, 가장 안전한 ‘K-APEC’을 만들기 위해 대테러 관계 기관이 소임을 다해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4NHG6UP3VJCHBNUU57VE7ZJM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 26일 오전 경주 화백컨벤션센터(HICO)에 조성 중인 APEC 정상회의 미디어센터를 점검하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 훈련에 앞서 오전에 김 총리는 APEC 정상회의 관련 행사가 열리는 경주 화백컨벤션센터(HICO)와 경주 엑스포공원, 국립경주박물관을 찾아 주요 인프라 준비 현황을 종합 점검했다.&lt;br&gt;&lt;br&gt;김 총리는 정상회의장과 여러 회담장이 마련되는 화백컨벤션센터 내부를 돌아보고, “현재 진행 중인 내부 인테리어 공사를 정상회의의 품격에 맞게 철저하게 마무리하라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRFTMR5F3BIBXGZAKZMJRM7ZVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 26일 오전 경북 경주 엑스포공원에 조성 중인 APEC 정상회의 경제인 전시장을 점검하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제미디어센터와 경제인 전시장은 건축물 완공 후 내부 공사를 앞두고 있는 상태로, 김 총리는 “내외신 기자단과 관람객 등 시설물 이용자들의 불편이 없도록 세심하게 준비하라”고 주문했다.&lt;br&gt;&lt;br&gt;김 총리는 이어 최근 공식 만찬장으로 지정된 라한셀렉트호텔의 대연회장을 찾아 공식 만찬 행사 계획과 만찬 문화 공연 계획을 보고받았다. 외교부 APEC 준비기획단 등은 만찬장을 국립경주박물관에서 라한호텔로 변경한 배경을 설명하고, 우리 문화의 우수성을 보여줄 수 있는 공연을 포함한 만찬 행사를 차질 없이 준비하고 있다고 보고했다.&lt;br&gt;&lt;br&gt;김 총리는 마지막으로 국립경주박물관에 조성 중인 행사장을 찾아, 글로벌 기업 최고경영자들이 참석하는 포럼 등 다양한 행사 계획을 보고받았다. 김 총리는 “경제인 행사에 참석하는 기업인들이 불편하지 않도록, 공간 조성과 안전에 소홀함이 없게 철저히 점검해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;김 총리는 외교부 등 관계 기관에 “이용자의 관점에서 전반적인 준비 상태는 물론 세부적인 부분까지 점검할 수 있도록, 전문가를 중심으로 하는 점검단을 구성해 집중 점검하라”고 지시했다고 총리실은 전했다.&lt;br&gt;&lt;br&gt;김 총리는 현장 점검 뒤 기자들과 만나 “APEC의 기본 인프라는 거의 (준비) 마무리 단계에 온 것 같다”며 “남은 한 달 정도 기간 동안 점검에 점검을 거쳐 국민 모두가 자부심을 느낄 수 있도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검찰청 폐지’ 직후, 현직 부장검사 사의 “결단코 반대”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/NW4223ZHYFGAVCOBTNE7AUBR3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/NW4223ZHYFGAVCOBTNE7AUBR3I/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 11:20:30 +0000</pubDate>
+      <content:encoded>검찰청 폐지를 골자로 하는 정부조직법 개정안이 국회를 통과한 직후 대전지검 서산지청 차호동(사법연수원 38기) 부장검사가 사의를 밝혔다. 법안이 처리된 뒤 나온 첫 사직이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYSKJ3DNIKGDAPPAKFXB4RAUVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지검 청사 검찰 로고 뒤로 펄럭이는 태극기와 검찰 깃발이 비춰 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차 부장검사는 26일 검찰 내부망에 “이번 법안에 결단코 반대하며 사직하고자 한다”며 글을 올렸다. 그는 “독재국가에서나 볼법한 기형적인 제도를 눈 앞에 두고 있는 상황에서 공무원인 제가 택할 수 있는 유일한 반대의 의사표시로 사직을 선택했다”고 했다.&lt;br&gt;&lt;br&gt;차 부장검사는 ‘검찰청 폐지’가 아닌 ‘수사와 기소의 억지 분리’가 법안의 문제점이라고 지적했다. 그는 “미운 검사, 나쁜 검찰이 있고 없고의 문제가 아니다. 사법 기능이었던 범죄 수사가 행정 기능으로 전락하고, 우리 헌법이 정한 형사 사법체계, 그리고 법치주의가 훼손되는 것이 문제의 본질”이라고 강조했다.&lt;br&gt;&lt;br&gt;검찰 지휘부를 향한 비판도 덧붙였다. 그는 “오늘 검찰 간판을 내린다는데 책임질 위치에 있는 분들이 아무도 책임진다는 소리 하지 않고있는 현실을 개탄한다”면서 “잘못된 것은 잘못되었다고, 누가 뭐래도 아닌 건 아니라고 당당하게 말하지 못한 채 이런저런 눈치를 보지는 않았는지 돌아보면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;차 부장검사는 김건희 특검팀에 파견 중인 정광수 서산지청장 대신 지청장 일을 맡아왔다. 올해 초까지는 대검찰청 검찰연구관으로 근무하며 수사 제도 개선을 연구했다. 그는 “서산지청은 6명의 검사들이 한 달 2000건에 가까운 사건을 처리한다”며 “지금 수사와 기소를 융합한 특검은 서산지청의 20개 정도 규모의 조직을 운용하고 있는 바, 산술적으로만 전국 4만 건 가까운 형사 사건이 공중에 붕 떠 있는 지경”이라고 지적했다.&lt;br&gt;&lt;br&gt;끝으로 차 부장검사는 “법안을 추진 중인 정부와 여당에 간곡히 진심으로 요청한다. 검찰의 잘못이 있다면 모두 선배인 제 잘못이고 반성할 게 있다면 제가 철저히 반성하고 책임지겠다”면서 “정치수사 구경 한 번 못해보고, 밀려드는 사건 최선을 다해 수사해서 진실을 밝히려고 노력해온 후배들은 아무런 잘못이 없습니다”라고 글을 맺었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무장관 “검찰, 개혁 대상으로 전락한 스스로 되돌아 봐야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/F3E433F35FHLTKA3RDQCCUDH2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/F3E433F35FHLTKA3RDQCCUDH2Y/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 12:08:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ABUV4X2ABRSTKRXAY2LDGEGIKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 검찰청을 폐지하고 공소청과 중대범죄수사청을 신설하는 정부조직법 개정안이 통과되자, 정성호 법무장관은 “검찰이 개혁의 대상으로 전락한 데에 겸허한 자세로 스스로를 되돌아봐야 한다”라고 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 이날 정부조직법 개정안이 국회 본회의를 통과하자 자신의 페이스북에 이렇게 썼다. 정 장관은 “78년 만에 검찰청이 전면 개편된다. 지금의 검찰은 더 이상 신뢰할 수 없으니, 새 술을 새 부대에 담으라는 국민의 준엄한 요구”라고 썼다.&lt;br&gt;&lt;br&gt;정 장관은 “한때 개혁의 산물이었던 검찰이 개혁의 대상으로 전락한 데에, 검찰은 겸허한 자세로 스스로를 되돌아봐야 한다”며 “국민이 경찰을 불신해 부여했던 검찰권을 남용해 죄 지은 자를 죄 없는 자로 만들고, 죄 없는 자를 죄 지은 자로 만든 적은 없는지 진지한 반성과 성찰이 있어야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 정 장관은 “무엇보다, 법치주의의 수호자가 되어야 함에도 검찰총장 출신 대통령의 정적 제거와 언론 탄압 등 민주주의 말살에 앞상서고 급기야 헌법 파괴를 방조한 과오, 대통령 일가의 부패에는 철저하게 눈감아 버린 과오에 국민 앞에 사죄해야 한다”고 했다. 김건희 여사의 도이치모터스 주가조작 의혹에 대해 무혐의 판단을 내렸던 과거 검찰의 결정을 에둘러 비판한 것이다.&lt;br&gt;&lt;br&gt;정 장관은 “이제 새 술이 새 부대에 담긴다”며 “공포 후 1년 뒤 새로 출범할 수사-공소기관은 과거를 반면교사 삼아, 국민의 인권을 수호하는 정의로운 기관으로 거듭나야 할 의무가 있다”라고 했다. 또 “법무부는 정부가 주도하는 후속 조치에 적극 임하면서 ‘국민을 위한 검찰개혁’이라는 시대의 명령을 완수해 나가겠다”라고 적었다.&lt;br&gt;&lt;br&gt;이번 검찰 개편안에 따라 정부조직법 내 ‘검찰청’은 ‘공소청’으로, ‘검찰’은 ‘검사 사무’로 각각 명칭이 바뀐다. 관할도 기존 법무부 산하 검찰에서, 수사를 맡는 중수청은 행정안전부 소속으로 옮기고 공소청은 그대로 법무부 산하에 둔다. 검사들은 공소청에서 기소 업무를 담당하게 되고, 수사를 하려면 검사복을 벗고 중수청 수사관으로 전직해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 재판에 윤상현·이준석 증인으로.. 판사 “그런데 법정에 나올까?”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/26/DJ4VTEITMNCERFQJN6KCFUPELM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/26/DJ4VTEITMNCERFQJN6KCFUPELM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 12:11:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZOX3QNPECBVCC5JXZSDMWM5NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도이치모터스 주가조작 혐의와 통일교 금품수수 의혹 등으로 구속기소 된 김건희 여사가 지난 24일 서울 서초구 서울중앙지법에서 열린 첫 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 도이치모터스 주가조작 의혹 등을 심리하는 재판부가 다음 달 윤상현 국민의힘 의원과 이준석 개혁신당 대표를 증인으로 부르기로 했다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 26일 김 여사의 자본시장법·정치자금법 위반, 알선수재 혐의 사건의 준비기일을 열었다. 재판부는 지난 24일 첫 공판을 열고 심리를 시작했지만, 증인신문 일정을 정리하기 위해 이날 한 차례 준비 기일을 진행했다. &lt;br&gt;&lt;br&gt;재판부는 다음 달 15일 도이치모터스 주가조작 의혹과 관련해 1차 주가조작 주포로 지목된 이정필씨와 투자자문사 블랙펄인베스트 전 임원 등에 대한 증인신문을 진행하기로 했다. ‘명태균 게이트’의 최초 제보자인 강혜경씨에 대한 신문도 이뤄진다. &lt;br&gt;&lt;br&gt;이어 10월 22일에는 윤 의원과 이 대표, 명태균씨의 증인신문을 진행하고, 이후 기일에는 김영선 전 의원, 건진법사 전성배씨, 통일교 전 세계본부장 윤영호씨 등을 증인으로 불러 증언을 듣기로 했다. &lt;br&gt;&lt;br&gt;다만 재판부는 “윤상현·이준석 의원은 증인 소환한다고 법정에 나올까”라며 현실적으로 출석이 가능할지 의문을 표했다. 이에 특검 측은 “지금 단계로 말씀드리기 쉽지 않지만, 특검 단계에서는 윤 의원 등이 잘 나와서 조사받았다”라며 출석 가능성이 높다는 취지로 말했다. 재판부는 “두 의원을 소환해보겠다”면서도 “출석하지 않더라도 공소 유지에 지장이 없으면 증인 채택을 철회해 달라”고 했다.&lt;br&gt;&lt;br&gt;특검은 이들을 포함해 최소 27명의 주요 증인에 대한 신문이 필요하다는 입장이다. 재판부는 “10월에는 검찰 측 주신문을 진행하고 11월부터 변호인 측 반대신문을 진행하겠다”고 했다. 또한 신속한 재판에 대한 의지를 드러내며 특검 측에 전반적인 증인신문 시간을 줄여달라고 했다. 아울러 재판 시간을 확보하기 위해 “김 여사가 점심 식사를 법원에서 할 수 있도록 남부구치소 측과 협의해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“성적 무단 공개는 인권침해” 인권위, 대학 총장에 재발 방지 대책 권고</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/29/E5IRUFBOHRHW5FNFLZV2W2NEQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/E5IRUFBOHRHW5FNFLZV2W2NEQI/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 04:11:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PZDLYY2ZPACN2MF4YZFQFMEO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대학 교수가 학생의 성적을 무단으로 공개하는 것은 인권 침해라는 국가인권위원회(인권위)의 판단이 나왔다. &lt;br&gt;&lt;br&gt;인권위는 지난 8일 경기도의 한 대학교 총장에게 성적 처리 과정에서 학생들의 개인정보가 유출되는 사례가 재발하지 않도록 대책 마련을 권고했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;진정인 A씨는 해당 학교 재학생이다. A씨가 지난해 시간 강사 B씨에게 성적에 대한 이의신청을 하자, B씨는 A씨를 포함해 이의신청을 한 학생들의 시험점수와 학점 등을 수강생 전체에게 이메일로 보냈다. 이를 두고 A씨는 성적을 무단으로 공개한 인권침해라며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;B씨는 이메일로 급하게 성적 처리하는 과정에서 개인정보를 삭제하지 못한 채 전체 학생들에게 발송하였다고 해명했다. 현재 B씨는 해당 대학교와의 계약기간 만료로 면직 처리된 상태다. &lt;br&gt;&lt;br&gt;그러나 인권위 아동권리위원회는 “성적이 단순한 학업 결과를 넘어 개인의 사회적 평판과 직결되는 개인정보에 해당해 제3자에게 공개될 경우 심각한 인권침해로 이어질 수 있다”고 판단했다. &lt;br&gt;&lt;br&gt;이에 인권위는 해당 대학교 총장에 재발 방지 대책을 마련할 것을 권고했다. 다만 면직된 B씨에 대한 개별 조치는 생략하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>늦은밤 마포대교 가는 손님에게 “댁으로 모실게요”…택시기사에 쏟아진 박수</title>
       <link>https://www.chosun.com/national/national_general/2025/09/29/CYV5JLWPFFA3ZC2WOXJ6AGMQ4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/CYV5JLWPFFA3ZC2WOXJ6AGMQ4Q/</guid>
@@ -456,15 +546,6 @@
       <content:encoded>경기도 고양시에 사는 강모씨(39)는 최근 70대 부친을 모시고 치과를 갔다가 의사로부터 “치아 2개를 뽑아야 할 정도로 아버지의 잇몸이 완전히 무너졌다”는 얘기를 들었다. 강씨의 부친은 불과 1년 전만 해도 4개월에 한 번씩 스케일링(치석 제거)을 할 정도로 치아 관리를 했지만, 그사이 건강 문제로 요양 병원에 들어간 뒤 예전처럼 치아에 신경을 쓰지 못했다고 한다. 강씨는 “간병인이 도와주는 것만으론 부족했던 것 같다”며 “치아 문제가 자칫 폐렴 같은 심각한 다른 질병으로 이어질 수 있다는 의사 선생님의 설명을 듣고 깜짝 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;우리나라가 초고령화 사회로 접어들면서, 고령 치주 질환자가 급격하게 늘고 있다. 치주 질환자는 치아를 둘러싸고 있는 잇몸과 뼈에 염증이 생긴 환자를 뜻한다. 고령층의 구강 노쇠화가 빠르게 진행되고 있는 것이다. 본지가 28일 건강보험심사평가원의 최근 5년 치 자료를 분석한 결과, 지난해 고령(65세 이상) 치주 질환자는 2020년보다 48.4% 증가했다. 같은 기간 고령 인구 수가 21.9% 늘어난 것보다 더욱 빨리 증가한 셈이다. 전체 치주 질환자 중 고령자 비율은 2020년 18.4%에서 2024년 22.9%로, 고령 인구 비율 증가율(15.7%→19.2%)을 앞섰다. 안형준 연세대 치과대학병원장은 “충치만 해도 35세를 넘어가면 주춤하지만 치주 질환은 연령대가 높아질수록 많아진다”며 “단순히 잇몸이 붓는 정도에서 그치지 않고, 심한 염증 때문에 잇몸이 파괴돼 수술을 받아야 할 수도 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35ISFVDY5VH3NEIM4JVLBM72SU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=송윤혜&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치주 질환자 증가의 원인으로 현대인의 식습관 변화에 따른 체질 변화가 꼽힌다. 특히 당뇨병 환자 급증이 영향을 줬다는 분석이다. 염증을 일으키기 쉬운 당뇨병 특성상 면역력이 저하된 고령자들에게 치주 질환이 자주 생긴다는 것이다. 김영택 건강보험공단 일산병원 치주과 교수는 “치주 질환은 세균에 의한 만성 질환인 만큼, 치료가 되더라도 다시 재발하기가 쉽다”며 “특히 염증을 쉽게 유발하는 당뇨병 환자의 경우 면역력이 떨어지면 쉽게 발병한다”고 했다. 또 지난 2013년부터 스케일링이 국내 건강보험 급여 대상에 포함된 뒤 치과를 찾는 사람이 증가하면서 치주 질환 발견율 역시 더 늘어났다는 지적도 있다. 설양조 서울대 치과병원 교수는 “과거엔 잇몸이 붓고 약간 아프면 그냥 참고 지나갔지만, 이제는 병원에 가야 하는 질병이라고 여기게 된 인식 변화가 매우 크다”고 했다.&lt;br&gt;&lt;br&gt;더 큰 문제는 치주 질환 등이 다른 질병으로 이어질 가능성이 높다는 것이다. 암·치매 같은 노인성 질환으로 발전할 수 있다는 연구 결과도 있다. 씹는 힘이 떨어지면 음식물을 제대로 씹지 않고 삼키게 되는데, 이 경우 소화력이 떨어지고 근육량이 줄어 신체의 중요한 면역계 기능이 떨어진다는 것이다. 도쿄대 이지마 가쓰야 교수가 지바현 가시와시에서 고령자 약 2000명을 대상으로 진행한 연구에 따르면, 구강 기능이 떨어진 그룹은 그렇지 않은 그룹보다 신체 노쇠, 근감소증, 사망 위험이 2배나 높았다. 또 치주 질환이 암 발생 위험을 13% 높인다는 연구 결과(2022년·연세암병원)도 있었다.&lt;br&gt;&lt;br&gt;국내 학계에선 “‘구강 노쇠’ 자체를 질병으로 보고 국가 차원에서 대응해야 한다”는 의견이 나온다. 정영수 연세대 치과대 학장은 “구강 노쇠는 음식물이 폐로 잘못 넘어가는 ‘흡인성 폐렴’의 발생 가능성을 높여 직접적인 생명을 위협하는 요인도 된다”고 했다. 설양조 서울대 교수는 “개인 구강 노쇠를 막기 위한 최고의 방법은 올바른 위생 관리와 스케일링 등을 통한 정기적인 잇몸 검진”이라며 “특히 빵이나 초콜릿 등 치석이 생기기 쉬운 음식을 먹은 후에는 양치질을 잘해야 한다”고 조언했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 이순애씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/09/29/WNRMT3Y6NRCOXDC52VI5LWYIBI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/29/WNRMT3Y6NRCOXDC52VI5LWYIBI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:46:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김선경&lt;/b&gt; 별세, &lt;b&gt;이건혁&lt;/b&gt; 김앤장 법률사무소 고문 아내상, &lt;b&gt;이인성&lt;/b&gt; 모친상=27일10시18분 서울성모병원, 발인 30일5시30분, (02)2258-5925&lt;br&gt;&lt;br&gt;▲&lt;b&gt;이순애&lt;/b&gt; 별세, &lt;b&gt;강훈기&lt;/b&gt; 前 ALLCOM 대표 아내상, &lt;b&gt;강동희&lt;/b&gt; 서울디자인고등학교 교사·&lt;b&gt;강용욱&lt;/b&gt; 에스원 수석·&lt;b&gt;강연희&lt;/b&gt; 한국과학기술원 행정원 모친상=28일7시40분 신촌세브란스병원, 발인 30일10시, (02)2227-7500 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;윤춘오&lt;/b&gt; 별세, &lt;b&gt;박화자&lt;/b&gt; 남편상, &lt;b&gt;윤성민&lt;/b&gt; 한국경제신문 수석논설위원·&lt;b&gt;윤성필&lt;/b&gt;·&lt;b&gt;윤성학&lt;/b&gt; 농심 커뮤니케이션실 상무 부친상, &lt;b&gt;이인표 &lt;/b&gt;前 문화일보 기자·&lt;b&gt;유수연&lt;/b&gt;·&lt;b&gt;박미령&lt;/b&gt; 시부상, &lt;b&gt;윤원진&lt;/b&gt;·&lt;b&gt;윤준서&lt;/b&gt;·&lt;b&gt;윤소운&lt;/b&gt;·&lt;b&gt;윤선아&lt;/b&gt; 조부상=28일2시 서울아산병원, 발인 30일7시, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최창희&lt;/b&gt; 前 서울신문 편집국장 별세, &lt;b&gt;최인범&lt;/b&gt; 덴톤스리 고문 부친상=28일9시 서울대학교병원, 발인 30일11시, (02)2072-2018&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[인사] 상명대</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/09/29/B74MC7QAXBFU7M327ABET7SUI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/29/B74MC7QAXBFU7M327ABET7SUI4/</guid>
@@ -472,16 +553,6 @@
       <description/>
       <pubDate>Sun, 28 Sep 2025 15:46:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;상명대&lt;/b&gt;◇서울캠퍼스▷교학부총장·자유전공학부대학장·WIDEEP교육혁신원장·상명소셜임팩트센터장·혁신원장 김영준▷입학처장 이현우▷대학일자리본부장 정동화▷산학연구처장·산학협력단장·연구산학혁신원 부원장 이의철▷대학원장 이광옥▷문화기술대학원장 김지현▷경영경제대학장·경영대학원장 최영근▷계당교양교육원장 김일림▷교무부처장 김민호▷대학일자리플러스센터장·현장실습일경험지원센터장 유재필▷인권센터장 박건숙▷박물관장·계당기념관장 주경임◇천안캠퍼스▷교학부총장·자유전공학부대학장·연구산학혁신원장·상명소셜임팩트센터장 오세원▷계당교양교육원장·자유전공학부지원센터장 김일림▷융합기술대학장 강현경▷공과대학장 이유진▷교무부처장 강문성▷인권센터장 전정옥▷계당교양교육원 부원장 이진영▷신문방송국장·신문방송국 주간 양영하◇서울/천안 통합 보직▷정보통신처장 강상욱▷대학혁신추진단장 김동근▷WIDEEP교육혁신원 부원장 김태한&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“연습한 대로만…” 대입 수시 미술 실기고사 시작</title>
-      <link>https://www.chosun.com/national/education/2025/09/29/QV64FPSYRZDKFMFUQEUHRWHUP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/09/29/QV64FPSYRZDKFMFUQEUHRWHUP4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:46:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRU2PHXH5JA6NAVKI4LRW5R2CM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자 
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;28일 서울 노원구 삼육대 체육관에서 아트앤디자인학과 수시 모집 응시생들이 미술 실기고사를 치르는 모습. 앞서 지난 27일 연세대(인문·자연계열), 서울시립대, 성신여대(자연계열)의 논술 고사가 치러지는 등 2026학년도 대입 수시 전형이 본격 시작된 상태다. 종로학원에 따르면 전국 192개 대학 수시 전형 평균 경쟁률은 9.77대1로 지난해(9.42대1)보다 소폭 상승했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전남대는 AI 교육, 한서대는 항공… 1000억씩 받는 글로컬大 7팀 선정</title>
@@ -518,80 +589,6 @@
       <description/>
       <pubDate>Sun, 28 Sep 2025 15:45:00 +0000</pubDate>
       <content:encoded>국민의힘 추경호 의원의 ‘국회 계엄 해제 의결 방해 의혹’과 관련해 국민의힘 김희정 의원에 대한 ‘공판 전 증인신문’이 29일 서울남부지방법원에서 열린다. 오는 30일에는 같은 당 김태호·서범수 의원 증인신문도 예정돼 있다.&lt;br&gt;&lt;br&gt;조은석 내란특검은 지난 11일 김희정·김태호·서범수 의원이 작년 12·3 비상계엄 선포 당시 서울 여의도 국민의힘 당사와 국회 본회의장, 국회 본관 내 국민의힘 현대대표실 상황을 잘 아는 핵심 증인이라며 법원에 공판 전 증인신문을 청구했다. 추 의원은 비상계엄 선포 당시 국민의힘 원내대표였다. 그러나 국민의힘에선 특검이 청구한 공판 전 증인신문에 국민의힘 인사들이 출석하면 국민의힘을 겨냥한 더불어민주당의 ‘내란 몰이’ 프레임을 강화하는 데 이용될 수 있다고 본다.&lt;br&gt;&lt;br&gt;특검은 “추 의원이 계엄 당시 수차례 국민의힘 의원총회 장소를 변경해 소속 의원들에게 혼선을 줬고, 의원들의 계엄 해제 표결 참여를 방해했다”는 혐의를 두고 수사 중이다. 그러나 추 의원은 최근 법원에 제출한 A4 용지 39쪽 분량 의견서에서 “의원총회 장소 변경은 당시 경찰의 국회 봉쇄 등 외부 상황에 따른 불가피한 조치였다”고 했다. 추 의원은 위계에 의한 업무방해 혐의와 관련해서는 “위계의 상대방은 국민의힘 의원들이지만, 업무방해 피해자는 한동훈 당대표라는 구조는 범죄 성립 요건에 맞지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [뉴스 속 신화] 포세이돈 VS 아테나… 누가 이 도시의 수호신이 됐을까</title>
-      <link>https://www.chosun.com/national/nie/2025/09/29/P543S44ZMZCVJBHZB2XOCFPAI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/29/P543S44ZMZCVJBHZB2XOCFPAI4/</guid>
-      <dc:creator>김헌 서울대 인문학연구원 교수 , 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:39:00 +0000</pubDate>
-      <content:encoded>최근 그리스의 관광부 장관이 한국을 방문해 “한국과의 교류를 늘리기 위해 서울과 아테네를 잇는 직항 노선을 개설하겠다”고 말했습니다. 오늘날 관광지로 유명한 아테네는 그리스의 수도이자, 서양 문명의 뿌리로 불리는 고대 그리스 문명을 대표하는 도시예요. 그래서 그리스 신화에도 아테네와 관련된 이야기가 많이 전해지고 있지요. 오늘은 아테네에 얽힌 몇 가지 흥미로운 신화를 함께 살펴보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;아테나 여신 위해 파르테논 신전 지었죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;페리클레스가 아테네의 민주정을 급속히 발전시키고 제국적인 위세를 떨치던 기원전 5세기 중반을 그리스의 ‘황금기’라고 부릅니다. 이 시대를 대표하는 건축물이 바로 아테네의 중심지인 아크로폴리스 언덕에 세워진 파르테논 신전이에요. ‘파르테논(Parthenon)’은 ‘처녀의 집’이라는 뜻인데, ‘동정녀’인 아테나 여신의 신전을 가리키는 말입니다. 그리스어로 동정녀를 ‘파르테노스(parthenos)’라고 하지요.&lt;br&gt;&lt;br&gt;아테네는 처음에는 ‘케크로피아’라는 이름으로 불렸어요. 이 도시를 세운 케크롭스 왕의 이름에서 따온 것입니다. 케크롭스는 좀 특이한 모습이었어요. 허리 위는 사람 모습이었지만, 허리 아래는 뱀과 같은 모습을 하고 있었다고 해요.&lt;br&gt;&lt;br&gt;케크롭스는 자신의 도시를 지켜 줄 신을 찾고 있었어요. 그때 바다의 신 포세이돈과 지혜의 여신 아테나가 나섰습니다. 두 신은 서로 자신이 아테네의 수호신이 되겠다고 했지요. 그래서 케크롭스는 사람들을 모아 놓고 투표를 하기로 했습니다.&lt;br&gt;&lt;br&gt;포세이돈은 튼튼한 말을 주겠다고 했습니다. 전쟁터에서 크게 힘을 발휘할 수 있었기 때문에 남자들이 환호했지요. 반대로 아테나는 작은 씨앗 하나를 아크로폴리스에 던졌습니다. 곧 싹이 나고 올리브 나무가 자라더니, 맛있는 열매가 주렁주렁 열렸습니다. “이것으로 그대들은 기름도 짤 수 있고, 다양하게 조리해서 먹을 수도 있소.” 아테나의 말에 여성들이 크게 환호했지요.&lt;br&gt;&lt;br&gt;이 모습을 본 포세이돈은 삼지창으로 옆에 있던 바위를 쳐서 샘이 솟구치게 했지요. 사람들은 놀라워했지만, 물맛을 보더니 인상을 찌푸렸어요. 짜디짠 바닷물이었거든요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZSPUAQ3NFDHNINXQSTK23JFUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해 질 무렵 촬영한 파르테논 신전의 모습. 파르테논 신전은 아테네 중심부에 있는 아크로폴리스 언덕 정상에 세워져 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYHXS4KOIVGMTFBDDUOUSOR22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아테네를 두고 포세이돈과 아테나가 대결을 벌이는 모습을 묘사한 그림. 오른손에 삼지창을 들고 있는 인물이 포세이돈, 황금빛 투구를 쓴 채 앉아 있는 인물이 아테나입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZA7JJHSJWBG3JKGLPQS3Y75VT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수니온곶에 세워진 포세이돈 신전의 모습. 아테네는 바다를 통해 세력을 키운 도시였기 때문에, 아테네 사람들에겐 바다의 신 포세이돈 역시 중요한 신이었죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFHT3H4EYZGMJCB7NZ2ZA2AORM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기원전 6세기 그리스에서 제작된 도자기에 그려진 그림. 제우스(가운데)의 머리에서 아테나가 튀어나오는 장면을 그렸습니다.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;아테나 여신의 이름 딴 ‘아테네’&lt;/b&gt;&lt;br&gt;&lt;br&gt;투표 결과는 아테나 여신의 승리였어요. 그래서 도시의 이름도 지금처럼 ‘아테네’가 되었지요. 그러자 투표에서 패배한 포세이돈은 화가 나서 아테네에 홍수를 일으켰습니다. 아테네 사람들은 두려움에 떨며 포세이돈을 달래기 위해 제사를 지내야 했습니다. 다행히 아테나가 나서서 포세이돈을 설득했고, 그제야 재앙이 멈추었지요. &lt;br&gt;&lt;br&gt;그래서 아테네 사람들은 단순히 아테나만 섬긴 게 아니라, 바다의 신 포세이돈도 정중하게 대접했습니다. 게다가 아테네는 바다를 통해 무역과 항해를 하며 세력을 키운 도시였거든요. 바다의 신 포세이돈은 그들에게 또 하나의 중요한 수호신이었던 셈입니다.&lt;br&gt;&lt;br&gt;실제로 페리클레스는 아테네에서 남쪽으로 약 70km 떨어진 땅끝마을 수니온곶에 포세이돈 신전을 멋지게 세웠답니다. 또한 신화에선 아테네의 유명한 영웅 테세우스도 바로 포세이돈의 아들이라고 전해지지요. 미궁 속 괴물 미노타우로스를 무찌른 그 용감한 영웅입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;전쟁과 지략 상징하는 신&lt;/b&gt;&lt;br&gt;&lt;br&gt;아테네의 수호신인 아테나 여신은 독특한 탄생 이야기를 가지고 있어요. 올림포스의 주신 제우스가 젊은 시절에 아버지 크로노스를 상대로 신들의 전쟁을 벌였을 때였습니다. 그때 제우스를 가장 먼저 도와준 신이 있었는데 바로 메티스였어요. ‘지혜’와 ‘지략’을 상징하는 여신이었지요.&lt;br&gt;&lt;br&gt;메티스의 도움 덕분에 전쟁에서 이긴 제우스는 천하의 지배자가 될 수 있었습니다. 그래서 메티스를 첫 아내로 맞이했는데, 곧 이상한 예언을 듣게 되었어요. 대지의 여신 가이아와 하늘의 신 우라노스가 제우스에게 이렇게 말한 거예요. “메티스는 먼저 슬기로운 딸을 낳고, 그다음에는 아들을 낳을 것이다. 그런데 그 아들은 너를 넘어서는 왕이 될 것이다.” 제우스는 이 예언이 두려웠던 나머지 메티스가 아이를 낳지 못하게 하려고 결국 그녀를 꿀꺽 삼켜 버렸습니다.&lt;br&gt;&lt;br&gt;하지만 이미 메티스의 뱃속에 있던 아이는 제우스가 삼켜 버린 뒤에도 제우스의 머릿속에서 무럭무럭 자라나고 있었어요. 시간이 지나 제우스는 심한 두통에 시달리기 시작했습니다. 고통에 몸부림치던 제우스를 보고, 프로메테우스 신이 도끼를 들어 제우스의 머리를 갈라주었지요(대장장이 신 헤파이스토스가 도끼질을 했다고도 전해집니다).&lt;br&gt;&lt;br&gt;그러자 놀라운 일이 일어났습니다. 투구와 갑옷을 입고, 창과 방패를 든 아테나 여신이 튀어나온 거예요. 이런 모습 때문에 아테나는 지혜와 기술의 여신일 뿐 아니라, 전쟁의 신이기도 했습니다. 하지만 무작정 싸우는 전쟁의 신이 아니라, 지략과 전략으로 승리를 이끄는 여신이었지요. 그래서 그녀를 ‘아테나 니케’라고도 부릅니다. ‘니케(Nike)’는 승리라는 뜻으로, 유명한 스포츠 브랜드 이름으로도 쓰이고 있지요.&lt;br&gt;&lt;br&gt;아테나는 결혼하지 않고 순결을 지키는 고결한 여신이지만, 그에게도 아들 같은 존재가 한 명 있었습니다. 바로 훗날 아테네의 왕이 되는 에레크토니오스예요. 신화에선 아테나를 좋아했던 헤파이스토스가 욕망을 주체하지 못하고 아테나를 강제로 껴안으려다 아테나의 허벅지에 정액을 묻혔다고 해요. 몹시 불쾌했던 아테나는 이를 닦아 땅에 던져버렸지요. 그러자 땅에서 꼬물꼬물 아이가 솟아났는데, 모습이 케크롭스와 비슷했대요. 아테나는 그 아이를 아들처럼 키웠답니다. 아크로폴리스 정상에는 파르테논 신전 옆에 에레크토니오스를 기리기 위해 세운 ‘에레크테이온’이라는 신전이 있어요. 마치 엄마와 아들이 함께 서 있는 것 같아요. &lt;br&gt;&lt;br&gt;아크로폴리스 정상에서 북쪽을 내려다보면, 옛날 아테네 사람들이 물건을 사고팔거나 이야기를 나누던 아고라 광장이 보입니다. 또 그 서쪽 언덕에는 작은 신전 하나가 남아 있는데, 바로 헤파이스토스의 신전이에요. 마치 연모하던 아테나와 아들 에레크토니오스를 멀리서 올려다보는 것만 같습니다. 이렇게 아테네는 고대 그리스 문명의 찬란함을 과시하며 다양한 신화적 상상력을 품고 있는 곳입니다. 지그시 눈을 감고 이곳으로 떠나보시면 어떨까요? &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [산 이야기] “사흘을 봐도 발이 떨어지지 않는다”… 원효대사도 반한 산이래요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/29/GOFEZOUECBFIFNXDOEFOONXNYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/29/GOFEZOUECBFIFNXDOEFOONXNYE/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:39:00 +0000</pubDate>
-      <content:encoded>최근 ‘숏폼’ 영상으로 더 유명해진 산이 있습니다. 바로 충남 논산과 금산, 전북 완주에 걸쳐 있는 대둔산(878m)입니다. 이 산에는 ‘국내에서 가장 무서운 계단’으로 꼽히는 삼선계단이 있는데요. 바위 봉우리 3개가 늘어선 모습이 신선 같다 해서 붙은 이름입니다. 경사 약 50도의 가파른 계단이 바위 꼭대기로 이어지는데, 아래는 낭떠러지입니다. 산악회 회원들의 담력 테스트 코스로 손꼽히는데, 최근엔 이 계단을 오르는 모습을 촬영한 숏폼 영상들이 온라인상에서 인기를 끌고 있죠.&lt;br&gt;&lt;br&gt;삼선계단의 고도감이 공포를 자아내지만, 산 자체는 예부터 ‘소금강(小金剛)’이라 불릴 만큼 아름답다고 알려졌습니다. 조선 시대에는 아름다운 바위 명산의 대명사가 금강산이었습니다. 비록 산의 크기를 비교하기에는 무리이지만, 바위의 경치가 탁월한 산을 ‘작은 금강산’이라 하여 ‘소금강’이라 불렀답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBUU5VXIONGWLKGUDJYH7S2ODI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 바위 봉우리 아래에서 촬영한 삼선계단. 마치 사다리를 오르는 것처럼 가파른 삼선계단은 최근 ‘숏폼 영상’ 소재로도 인기를 얻고 있어요.
-/영상미디어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대둔산의 옛 이름은 한듬산입니다. 순우리말로 ‘한’은 크다는 뜻이고, ‘듬’은 더미라는 의미로 ‘큰 바위 더미 산’을 뜻합니다. 이름을 한자로 기록하는 과정에서 ‘한’은 대(大)가 되고, ‘듬’은 비교적 비슷한 발음인 둔(芚) 자를 쓰면서 지금의 이름이 되었다고 합니다.&lt;br&gt;&lt;br&gt;삼선계단 영상을 보면 자칫 위험해 보이지만, 사실 대둔산은 등산 초보자들을 위한 입문용 산행지로 인기 있습니다. 완주군 운주면 대둔산도립공원 입구에서 케이블카를 타면 해발 600m 지점까지 땀 한 방울 흘리지 않고 편히 오를 수 있습니다. 여기서 조금 더 오르면 정상인 마천대에 닿습니다. 대둔산 최고봉인 마천대(摩天臺)는 문지를 마(摩), 하늘 천(天)을 써서 “하늘에 닿을 만큼 높은 곳”이라는 뜻으로, 원효대사가 붙인 이름이라고 전해집니다. &lt;br&gt;&lt;br&gt;마천대에는 대둔산의 또 다른 명물인 개척탑이 있답니다. 우리나라 대부분의 산 정상 표지석은 바위인데, 개척탑은 높이 20m가 넘는 대형 철탑이라 멀리서도 눈에 띕니다. 맑은 날 마천대에 서면 북쪽으로 멀리 계룡산과 대전 시가지가 보이고, 남동쪽으로는 진안군 마이산과 서쪽으로 부안군 변산까지 볼 수 있습니다. &lt;br&gt;&lt;br&gt;이 산의 또 다른 ‘경치 명당’은 낙조대(落照臺)입니다. 이름처럼 이곳에 오르면 멋진 일몰과 일출을 볼 수 있습니다. 삼선계단의 강력한 고도감에 가려졌지만 ‘금강 구름다리’도 빠지지 않는 기념사진 명소입니다. 폭은 1m, 길이는 50m입니다. 케이블카 상부 정류장을 나와 계단을 올라서면 곧장 만날 수 있답니다. 산행이 어려운 노부모님이나 어린 자녀와 동행했다면, 케이블카 상부 정류장에서 금강 구름다리까지 왔다 가는 것을 추천합니다. &lt;br&gt;&lt;br&gt;대둔산은 특히 기묘한 바위들과 어우러지는 가을 단풍으로 유명합니다. 11월 초쯤 대둔산의 단풍이 절정을 이룰 텐데요, 단풍이 들기를 기다렸다가 이곳을 방문한다면 원효대사가 대둔산을 두고 했던 말을 실감하게 될 겁니다. “사흘을 둘러보고도 발이 떨어지지 않는 산이다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 고향 떠나 아프리카에 병원 세운 의사, 지붕도 없는 진료실에서 환자 돌봤죠</title>
-      <link>https://www.chosun.com/national/nie/2025/09/29/7MIAVOS3FFHNXILGHOPS2362QQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/29/7MIAVOS3FFHNXILGHOPS2362QQ/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VODCL3HVN5DR7DB2ZDCAQ5EYWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;알베르트 슈바이처 지음 l 배명자 옮김 l 출판사 21세기북스 l 가격 1만원&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘휴머니즘’의 대명사로 알려진 알베르트 슈바이처는 아주 특별한 사람이었습니다. 그는 학자이자 목사였고, 오르간 연주까지 잘했지요. 그런데 서른 살이 되던 1905년, 안정된 신학 교수직을 내려놓고 새롭게 의학 공부를 시작합니다. 아프리카의 열악한 의료 환경에 대한 소식을 듣고 난 뒤, 그곳으로 가 직접 사람들을 치료하기 위해서였죠.&lt;br&gt;&lt;br&gt;의사가 된 그는 1913년 고향인 독일을 떠나 아내와 함께 아프리카 가봉의 랑바레네로 갔습니다. 그곳에 병원을 세우고, 90세까지 아프리카 사람들을 위해 헌신했지요. 병원 운영비는 슈바이처의 뜻을 지지하는 사람들이 후원해 줬어요. 이 책은 그가 의료 봉사를 막 시작한 초기 몇 년 동안 겪은 일들을 정리해 펴낸 겁니다. &lt;br&gt;&lt;br&gt;처음에는 제대로 된 진료실조차 없었다고 해요. 지붕조차 없는 집 앞 공터에서 진료를 하다가, 이후 닭장으로 쓰이던 곳을 진료실로 꾸몄답니다. 게다가 방문 진료를 하려면 아프리카의 무서운 야생 동물들을 피해 다녀야 했습니다. 금방 갈 수 있는 거리도 몇 시간이나 더 걸리는 우회로를 이용해야 했지요. &lt;br&gt;&lt;br&gt;슈바이처는 매일 평균 30명에서 40명을 진료했습니다. 원주민들은 말라리아, 수면병, 열사병부터 벼룩이 살을 파고들어 생기는 농양을 많이 앓았습니다. 슈바이처와 그의 아내는 늘 감염의 위험에 시달렸습니다. 슈바이처 한 사람이 종합병원의 모든 의사를 합친 것 같았습니다.&lt;br&gt;&lt;br&gt;제1차 세계대전이 일어나면서 유럽에서 식민지로 가던 보급선이 크게 줄었고, 슈바이처 역시 물자 공급에 어려움을 겪었습니다. 그럼에도 슈바이처는 “부족한 물자로 할 수 있는 일이 많았다”고 말했습니다. 그는 책의 인세와 강연과 연주회 등으로 모은 돈으로 1924년 랑바레네에 새 병원을 세웠습니다. 한센병 환자와 정신 장애인을 위한 시설도 만들었지요.&lt;br&gt;&lt;br&gt;슈바이처는 자신이 사방 수백 킬로미터 안에서 환자를 도울 수 있는 유일한 사람이라는 사실에서 말로 표현하기 힘든 감정을 느꼈다고 합니다. 힘든 수술 뒤에는 “너희는 다 형제니라”라는 성경 구절이 떠올랐다고 합니다. 피부색이나 나라를 넘어 인간은 서로 돕고 살아야 한다는 것이지요. &lt;br&gt;&lt;br&gt;어떤 사람들은 슈바이처에게 이렇게 말했습니다. “곳곳에 의사를 한 명씩 보낸다고 세계의 비참한 현실에 얼마나 도움이 될까요?” 슈바이처가 답했습니다. “의사 단 한 명이라도, 보잘것없는 약품이라도 많은 사람을 도울 수 있어요. 나는 용기를 잃지 않습니다. 다른 사람을 위하는 인간성을 믿으니까요.”&lt;br&gt;&lt;br&gt;슈바이처의 모습에 감명을 받은 후원자가 늘어났습니다. 그를 도우려 많은 의사와 간호사가 자원했습니다. 그는 ‘인류애를 발전시키는 데 기여한 공로’로 1952년 노벨평화상을 받았습니다. 환자 한 사람의 병을 고치는 의사에서 인류가 겪는 고통을 고치는 의사가 된 슈바이처는 의사 그 이상의 의사였습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 식별(識別)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/29/JIUSHXJSSVDEHIMWSJLROEH34Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/29/JIUSHXJSSVDEHIMWSJLROEH34Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZJPD5PBKBG5DBOJLUIDZ2Z2VE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2715] 칙칙폭폭 꼬리 잇기 </title>
-      <link>https://www.chosun.com/national/nie/2025/09/29/FQKKHWNHHZFSVCG2UKT7ZNITPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/29/FQKKHWNHHZFSVCG2UKT7ZNITPM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCAIC53OLZFHXBKNDZWTET5NCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] TV만 보고 있다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/09/29/OXBH3YSBONHCXB37W4JJPS7HOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/29/OXBH3YSBONHCXB37W4JJPS7HOI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODD5HGUQTNG3NPXYU4FGQMVYYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] take the wind out of one’s sails</title>
-      <link>https://www.chosun.com/national/nie/english/2025/09/29/LU5F5VBPVREW7GUXN334GJOEAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/29/LU5F5VBPVREW7GUXN334GJOEAQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZNVZYHKKNHEDAE7C55JVHSC3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 전시회를 보다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/09/29/GGA47WPDSFHVPOEJKWJOOBNVZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/29/GGA47WPDSFHVPOEJKWJOOBNVZU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGWSXLLQ2RBI7NB2UEPUIMASZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 전어 굽기 전 소금물에 담가보세요</title>
