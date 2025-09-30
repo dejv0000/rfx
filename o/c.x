@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경기 버스 파업 철회…14시간 밤샘 끝 극적 타결 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/01/I5BKPTVMXVCXRIFMZRRP2TP5TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/I5BKPTVMXVCXRIFMZRRP2TP5TI/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 21:26:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XURDSAUO7VM7LLCLFQECQWCLJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 버스 노사 최종 조정회의가 열린 30일 경기 수원시 영통구 경기지방노동위원회에서 김기성 경기도버스운송사업조합 이사장(왼쪽)과 이순창 경기도중부지역버스노동조합 위원장이 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 전역을 멈춰 세울 뻔한 버스 파업이 극적으로 철회됐다. 경기지역 버스 노조와 사측이 14시간 밤샘 협상 끝에 임금과 근로 조건에 합의하면서 1일 0시를 기해 예고됐던 전면 파업이 막판에 타결됐다.&lt;br&gt;&lt;br&gt;경기도와 경기버스노동조합협의회는 1일 오전 6시 경기지방노동위원회 조정회의에서 최종 합의안을 도출하고 조정신청을 취하했다. 노조는 “도민 불편을 최소화하기 위해 파업을 철회한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이번 합의에서 노사는 오는 2027년 1월 1일부터 민영제 노선에도 준공영제 수준의 임금과 근무형태를 동일하게 적용하기로 합의했다. 올해 임금은 민영제 40만원 인상, 준공영제 8.5% 인상으로 결정됐다. &lt;br&gt;&lt;br&gt;그동안 노조는 공공관리제(준공영제)와 민영제 노선 간 임금 격차 해소, 탄력근로제 폐지, 1일 2교대제 전환 등을 요구해왔다. 사측은 경영난을 이유로 협상에서 난항을 겪었지만, 노조 측의 요구 일부를 수용하면서 극적 타결이 이뤄졌다.&lt;br&gt;&lt;br&gt;이번 협상으로 경기지역 전체 버스 1만여 대, 기사 1만9000여 명이 정상 운행을 이어가기로 했다. 파업이 예정대로 진행됐다면 도내 버스의 80%가 멈춰서는 대규모 교통대란이 불가피했다. 노조는 도내 50개 업체로 구성됐으며, 전체 버스 기사 중 약 90%가 조합원으로 가입돼 있다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “노사 모두의 결단으로 도민 불편을 최소화할 수 있었다”며 “향후 근로환경 개선과 제도 보완 논의도 병행하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>초등학교 앞에서 불법 담배 만들어 유통하던 20대 남성 검거</title>
       <link>https://www.chosun.com/national/national_general/2025/10/01/D5YAEN5Q6NHSLMPOJ76HWJVA4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/D5YAEN5Q6NHSLMPOJ76HWJVA4Q/</guid>
@@ -954,15 +963,6 @@
       <description/>
       <pubDate>Mon, 29 Sep 2025 11:33:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LKQEYGUBTAL3MILUO36W472YAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 26일 오전 6시 50분쯤 전북 군산시 해망동 동백대교 인근 해상에서 10대 남녀가 물에 빠져 해경이 구조 작업을 벌이고 있다. 이날 여성은 구조됐지만, 실종된 남성은 끝내 숨진 채 발견됐다. /군산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친구를 구하려고 바다에 뛰어들었다가 실종된 10대가 사흘 만에 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;전북 군산해양경찰서는 29일 오후 3시 40분쯤 전북 군산시 해망동 동백대교 인근 해안에서 남성 시신 한 구를 발견했다.&lt;br&gt;&lt;br&gt;신원 확인 결과 지난 26일 오전 군산시 해망동 인근 해상에서 실종된 A(19)씨 시신인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;해경에 따르면 A씨는 지난 26일 오전 6시 50분쯤 동백대교 인근에서 친구 B(10대)씨가 바다에 빠지자, 해경에 신고하고 물로 뛰어들었다. B씨는 신고를 받고 출동한 해경에 구조됐지만, A씨는 실종됐다.&lt;br&gt;&lt;br&gt;이후 해경은 연안 구조정 등을 동원해 실종 지역 주변을 수색해왔다. A씨 시신이 발견된 곳은 실종 지점에서 서쪽으로 4㎞가량 떨어진 곳으로 전해졌다. &lt;br&gt;&lt;br&gt;해경 관계자는 “지문 분석 등을 통해 A씨 신원을 확인했다”며 “정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무장관, 임은정 지검장에 “정치적 언행 유의하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/29/ZOLHUK3QXVHHLCIH6IHDWFD4L4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/29/ZOLHUK3QXVHHLCIH6IHDWFD4L4/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 09:11:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6RWSFZYUZN4NODFTPFDLVG7OU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무장관은 29일 임은정 서울동부지검장에게 “앞으로 정치적 중립성이나 업무의 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실할 것을 당부했다”고 밝혔다. 당정이 추진 중인 검찰개혁안과 관련해 임 지검장이 ‘장의사’를 자처하자, 검찰 내부에서 지속적으로 반발이 나오는 것을 의식한 것으로 보인다.&lt;br&gt;&lt;br&gt;29일 법무부에 따르면, 정 장관은 이날 임 지검장에게 서신을 보내 이 같은 지시를 내렸다. 구체적으로 정 장관은 서신에서 “고위공직자로서 정치적으로 해석될 수 있는 개인적 의견을 SNS에 게시하거나 공개적으로 발언하는 것은 그 자체로 바람직하지 않다”고 지적했다고 한다.&lt;br&gt;&lt;br&gt;정 장관이 서신을 보낸 배경엔 임 지검장의 언행이 있다는 게 법무부 설명이다. 임 지검장은 국회에서 개최된 공청회에서 검사 인사에 대해 ‘인사 참사’라고 언급했었고, 특정 검사들을 ‘검찰개혁 5적’이라고 표현하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7EZXWYIRPNJTVNGPLRMVFIUMSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 자신의 서울동부지검장 부임과 관련해선 ‘소위 ‘찐윤’ 검사들을 승진시키며 포장지로 이용된 거 아니냐는 우려의 말을 들었다고 자신의 SNS에 적기도 했다. 이 밖에도 ‘세관 마약수사 외압’ 의혹 수사와 관련해선 “그 수사에 중간 합류한 것인데, 이름만 빌려주고 책임을 뒤집어쓰는 거 아니냐는 등 우려와 걱정을 많이 듣고 있다”는 글을 게시한 적도 있다. 이러한 부적절한 발언을 멈추고 본연의 업무에 충실하라고 정 장관이 지시했다는 것이다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “앞으로도 정치적 중립성이나 업무의 공정성에 대한 오해를 불러올 수 있는 공직자들의 부적절한 언행에 대해서는 엄중하게 조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
