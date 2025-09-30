@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 “내란 특검법 위헌”... 위헌 법률 심판 제청 또 신청</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/EZVXSXNLYJD5VP47VHKKYNWPWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/EZVXSXNLYJD5VP47VHKKYNWPWQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 12:13:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LNEIPRWOOZ5WVYSIRU4WRV7VU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측이 30일 ‘내란 특별검사법’ 조항이 위헌이라며 법원에 위헌 법률 심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 윤 전 대통령 변호인단은 이날 오후 특수공무집행방해·직권남용 등 혐의를 심리하는 서울중앙지법 형사35부(재판장 백대현)에 위헌법률심판 제청을 신청했다. 윤 전 대통령 측은 내란 특검법이 헌법상 적법절차 원칙과 명확성 원칙 등을 위반해 공정한 재판을 받을 권리를 침해한다고 주장했다.&lt;br&gt;&lt;br&gt;위헌 법률 심판은 법률이 헌법에 위반되는지 재판에 영향을 미칠 때 헌법재판소에서 위헌 여부를 심판받는 제도다. 재판부가 직권 또는 소송 당사자 신청을 받아 헌재에 제청할 수 있다. 재판부가 헌재에 제청할 경우 헌재 결정이 나올 때까지 재판은 정지된다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 지난 8일 내란 우두머리 혐의를 심리하는 같은 법원 형사25부(재판장 지귀연)에 위헌 법률 심판 제청을 신청하고 헌법소원도 청구했다. 변호인단은 당시 “특검법은 입법부가 행정부 고유 권한인 수사권에 직접 개입해 특정 정당(국민의힘)을 배제한 채 특검을 임명하고 수사 범위와 대상을 지정함으로써 권력 분립 원칙을 근본적으로 훼손하고 있다”고 주장했다. 헌재는 지난 23일 헌법소원 사건을 전원재판부에 회부해 정식 심리에 착수했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 맨홀 사망사고 이어... 하수처리장서 청소근로자 숨져</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/30/UDNHYJZQ2FGKFFEKHXLAGXILAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/09/30/UDNHYJZQ2FGKFFEKHXLAGXILAY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 10:53:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3FNWRDZMQ5A24J7MQIQ2ISSIPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 하수처리장에서 50대 하청업체 근로자가 청소 작업 중 숨진 채 발견돼 경찰과 노동당국이 조사에 나섰다.&lt;br&gt;&lt;br&gt;30일 인천경찰청 등에 따르면 이날 오후 3시쯤 인천 서구 공촌하수처리장에서 A(50대)씨가 물에 빠져 있는 것을 동료가 발견했다. A씨는 119구급대에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 동료 5~6명과 함께 인천환경공단이 운영하는 하수처리장에서 하청업체 소속으로 청소 작업을 하던 중이었다고 한다.&lt;br&gt;&lt;br&gt;A씨와 2인 1조로 근무하던 한 동료는 “A씨가 사라져서 찾아보니 물에 빠져 있었다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;노동당국은 A씨가 소속된 업체가 상시 근로자 5인 이상 사업장인 사실을 확인하고 중대재해 처벌 등에 관한 법률을 적용해 조사한다는 방침이다. 이와 함께 원청인 인천환경공단에 대해서도 조사할 예정이다.&lt;br&gt;&lt;br&gt;인천환경공단은 2개월여 전인 지난 7월 6일 2명의 사망자가 나온 인천 맨홀 사고의 발주처로도 경찰과 노동 당국의 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “국립과학수사연구원에 A씨 시신 부검을 의뢰하고 현장 관계자들을 상대로 안전 수칙 준수 여부 등을 조사할 계획이다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“10만원 줄게…” 초등생 유인하려 한 60대, 긴급체포</title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/09/30/G6TS2P4NGRBJTAACIIE73OVZMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/30/G6TS2P4NGRBJTAACIIE73OVZMQ/</guid>
@@ -832,15 +850,6 @@
 /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번 역은 시청, 시청역입니다. 내리실 문은 왼쪽입니다.”&lt;br&gt;&lt;br&gt;서울 지하철 안내 방송의 목소리가 29년 만에 바뀐다. 1996년부터 안내 방송을 전담해 온 성우 강희선(65)씨가 건강 문제로 하차한다고 서울교통공사가 29일 밝혔다. 강씨의 빈자리는 인공지능(AI)이 대신한다.&lt;br&gt;&lt;br&gt;강씨는 1979년 성우로 데뷔했다. 47년 차다. 영화 ‘원초적 본능’의 샤론 스톤, 영화 ‘귀여운 여인’의 줄리아 로버츠 목소리 연기를 맡았다. 10·20대 사이에선 애니메이션 ‘짱구는 못말려’의 ‘짱구 엄마’ 봉미선 목소리로 이름이 알려져 있다. 2005년 KBS 성우연기대상, 2018년 대한민국 대중문화예술상 국무총리 표창을 받았다. 앞서 강씨는 2023년 한 유튜브 채널에 출연해 “2021년 대장암 판정을 받았다”고 했다. 강씨는 지난달 ‘짱구는 못말려’도 26년 만에 하차했다. &lt;br&gt;&lt;br&gt;강씨는 그동안 지하철 안내 방송에 애정을 보였다. 2021년 한 라디오 프로그램에 출연해 “한 마디를 녹음할 때도 단순한 서비스가 아니라 친절과 감사의 마음을 담았다”며 “AI의 목소리가 편리하고 효용성이 있을지는 몰라도 따뜻한 감정을 담아 서로를 위로할 수 있는 건 오직 사람뿐”이라고 했다. 지난해 서울교통공사 유튜브에선 “(승객들이) 아침에 출근할 때 즐거운 하루가 되셨으면 좋겠다”며 “고객의 입장에서 최선을 다하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;지하철 안내 방송은 총 26가지로, 그동안 스튜디오에서 녹음해 틀었다. &lt;br&gt;&lt;br&gt;공사는 AI 안내 방송을 도입하면 제작에 걸리는 시간이 2~3주에서 하루 이내로 줄어들 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;공사 관계자는 “강씨가 암 판정을 받았다고 밝힌 후 교체를 검토해 왔다”며 “안정적인 안내 방송을 위해 새로 성우를 뽑지 않고 AI를 활용하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울 지하철 1·3·4호선 일부 구간을 운영하는 코레일은 앞서 2018년 AI 안내 방송을 도입했다. 공사 관계자는 “AI에 강씨 목소리를 최대한 학습시켜 이질감을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제33회 고운문화상 시상식</title>
-      <link>https://www.chosun.com/national/people/2025/09/30/N4L2F2GTXZCABANGHDBWTNHDTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/N4L2F2GTXZCABANGHDBWTNHDTM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4FAWC43RNAXXOLISUIVMKMOCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재단법인 고운문화재단(이사장 이인수·가운데)은 제33회 고운문화상 수상자로 경상북도 119산불특수대응단을 선정하고 지난 25일 시상식을 열었다. 올해 33회째를 맞이한 고운문화상은 수원대·수원과학대 설립자인 고운 이종욱(1921~2009) 박사가 국가 사회 발전에 이바지한 사람들의 공적을 기리기 위해 만든 상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박유하 한국출판공로상 특별공로상</title>
       <link>https://www.chosun.com/national/people/2025/09/30/PTT4WCV3OZELZF2OPB3IM46LCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/PTT4WCV3OZELZF2OPB3IM46LCU/</guid>
@@ -857,15 +866,6 @@
       <description/>
       <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KEUMZUF2NHKVJWWVDRCUQEBWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 언론인교우회(회장 곽영길)는 29일 제31회 ‘장한 고대언론인상’ 수상자를 발표했다. 이하원&amp;lt;사진&amp;gt; 조선일보 외교안보에디터와 김성수 서울신문 사장, 손영신 부산일보 사장, 이재환 KBS 보도시사본부장, 박범수 MBC 뉴스룸국장이 선정됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 배유현 前 스포츠조선 창립위원회 기자 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/09/30/T37ZXHKC6NHFXM3ARRFOAUOYOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/09/30/T37ZXHKC6NHFXM3ARRFOAUOYOU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;배유현&lt;/b&gt; 前 스포츠조선 창립위원회 기자 별세, &lt;b&gt;배정은&lt;/b&gt; 다나허 인사팀 차장·&lt;b&gt;배정미&lt;/b&gt; 공인노무사·&lt;b&gt;배준호&lt;/b&gt; 인하대병원 내과의사 부친상=28일21시51분 인천 인하대병원, 발인 1일9시30분, (032)890-3180&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장석형&lt;/b&gt; 6·25 참전 유공자 별세, &lt;b&gt;박정선&lt;/b&gt; 남편상, &lt;b&gt;장순옥&lt;/b&gt;·&lt;b&gt;장순희&lt;/b&gt;·&lt;b&gt;장병권&lt;/b&gt;·&lt;b&gt;장병구&lt;/b&gt;·&lt;b&gt;장병일&lt;/b&gt; 중도일보 논산 주재기자 부친상=29일8시46분 충남 논산 놀뫼장례식장, 발인 1일8시, (041)733-0404&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조희욱&lt;/b&gt; 前 국회의원 별세, &lt;b&gt;전명희&lt;/b&gt; 남편상, &lt;b&gt;조동호 &lt;/b&gt;MG테크 前 대표·&lt;b&gt;조상균&lt;/b&gt; 부친상, &lt;b&gt;박세은&lt;/b&gt;·&lt;b&gt;한송희&lt;/b&gt; 시부상=28일12시 서울아산병원, 발인 30일10시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최양묵&lt;/b&gt; 前 MBC프로덕션 사장 별세, &lt;b&gt;정상자&lt;/b&gt; 남편상, &lt;b&gt;최승리 &lt;/b&gt;네이버 디자인부 직원·&lt;b&gt;최영리&lt;/b&gt; 울산과학기술원 컴퓨터공학과 교수·&lt;b&gt;최의리&lt;/b&gt; 삼양식품 상무 부친상, &lt;b&gt;허재혁 &lt;/b&gt;카이스트 전산학부 교수 장인상=28일18시30분 삼성서울병원, 발인 1일8시, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 9월 30일</title>
