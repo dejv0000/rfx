@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>회의중 쓰러진 40대 가장, 장기기증으로 3명에 새삶주고 떠났다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/09/30/WLHBE6O7XVCWJCVKPCQIGRI5OM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/30/WLHBE6O7XVCWJCVKPCQIGRI5OM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 05:02:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/233KIU2WJRF4NENCNP72JWXDXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 박성철씨와 아내 김효은씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에서 회의 도중 쓰러져 뇌사 상태에 빠진 40대 가장이 뇌사 장기기증으로 3명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;30일 한국장기조직기증원은 박성철(46)씨가 지난 7월 17일 한림대학교 성심병원에서 간과 양쪽 신장을 총 3명에게 각각 기증하고 세상을 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 지난 7월 11일 회사에서 회의 중 정신을 잃고 쓰러져 병원으로 긴급 이송됐지만, 끝내 의식을 회복하지 못하고 뇌사 판정을 받았다.&lt;br&gt;&lt;br&gt;박씨의 가족들은 그가 어디선가 살아 숨 쉬기를 바라는 마음으로 기증을 결심했다고 한다.&lt;br&gt;&lt;br&gt;유족에 따르면 박씨는 서울에서 2남 1녀 중 장남으로 태어났으며 정이 많고 잘 웃는 성격으로, 주변 사람들에게 늘 자상하고 따뜻한 사람이었다.&lt;br&gt;&lt;br&gt;25년간 자동차 서비스센터에서 도장 일을 했고, 자연을 좋아해서 주말이면 가족과 함께 산책과 등산을 즐겼다고 한다.&lt;br&gt;&lt;br&gt;박씨의 아내 김효은 씨는 아직 어려 죽음을 알지 못하는 네 살 딸에게 “아빠는 별이 됐다”고 얘기해줬다고 한다.&lt;br&gt;&lt;br&gt;김 씨는 “인사 한번 못하고 헤어진 것이 너무 슬프고 아직도 실감이 나지 않아. 다음 세상에서는 다시 만나서 오랜 시간 행복하고 건강하게 지내자. 하늘에서 잘 지내고 건강해. 우리 꼭 다시 만날 것 같아. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 국힘 경남도당 압수수색...‘공천 개입 의혹’ 수사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/N5NRFFDFDFCDZDMENZV4XAOTKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/N5NRFFDFDFCDZDMENZV4XAOTKQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 03:43:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2ARZYKGAVLCXH2LRDTZTUJMNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹들을 수사하는 민중기 특별검사팀이 30일 국민의힘 경남도당에 대한 압수수색을 진행하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사중인 민중기 특별검사팀이 30일 ’공천 개입 의혹’ 관련 국민의힘 경남도당에 대한 압수 수색에 나섰다. &lt;br&gt;&lt;br&gt;법조계에 따르면 특검은 이날 오전 경남 창원시에 위치한 국민의힘 경남도당에 수사관 10여명 정도를 투입해 압수 수색을 진행중이다.&lt;br&gt;&lt;br&gt;공천 개입 의혹은 김 여사가 지난해 4월 총선을 앞두고 창원 의창구에 김상민 전 부장검사를 출마시키기 위해 영향력을 행사했다는 내용을 골자로 한다. &lt;br&gt;&lt;br&gt;특검은 김 전 검사가 김 여사를 통해 김영선 전 의원 지역구인 창원 의창에 국민의힘 공천을 받으려고 시도했다고 보고 있다. 김 여사는 김 전 의원 측에 “김 검사는 조국 수사를 열심히 했다. 그가 창원 의창에 당선되도록 지원해 달라”는 취지의 연락을 한 것으로 알려졌다. 실제로 김 의원은 지역구를 김해갑으로 옮겼다. 특검은 전날 김 전 의원을 피의자 신분으로 소환해 공천 개입 의혹에 대해 조사하기도 했다. &lt;br&gt;&lt;br&gt;김 전 검사는 국민의힘 공천을 받지 못했지만 총선 이후 지난해 8월 국가정보원 법률특보에 임명됐다. 특검은 김 전 검사가 이우환 화백의 그림 ‘점으로부터(From Point) No.800298‘를 김 여사에게 건네고 총선 공천 및 공직 임명을 청탁했다고 보고 있다. 김 전 검사는 지난 18일 청탁금지법 위반 혐의로 구속됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진천 식중독 의심 환자 26명 늘어... 위중증 환자는 없어</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/30/3MDYV3MAJ5HQZGW4A5IB2WDFFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/30/3MDYV3MAJ5HQZGW4A5IB2WDFFI/</guid>
+      <dc:creator>진천=신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 05:01:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 진천 식중독 의심 환자가 26명 늘어 196명이 치료를 받고 있다. &lt;br&gt;&lt;br&gt;30일 진천군에 따르면 식중독 의심 환자가 전날 오전보다 26명 늘어난 196명으로 집계됐다. 또 24명이던 입원 환자는 40명까지 늘어났고, 나머지 환자들은 통원 치료를 받고 있다. &lt;br&gt;&lt;br&gt;진천군 보건소 관계자는 “다행히 현재까지 위중증 환자는 없는 것으로 파악됐다”고 했다. &lt;br&gt;&lt;br&gt;축제장에서는 7개 읍·면이 식당을 운영해 주민들에게 무료로 점심을 대접했는데 식중독 사태가 발생한 곳은 A면에서 마련한 식당이었다. 당시 식당에는 지역 한 급식업체로부터 주문한 한식 뷔페가 차려져 있었던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 식당에서 직원과 지역주민 등 350여명이 식사를 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;군은 식중독 증상을 호소하는 환자들의 가검물을 채취해 충북도보건환경연구원에 정밀 검사를 의뢰했다. 결과가 나오기까지는 2주 정도 소요된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 원민경 여가부 장관 참고인 조사…‘박정훈 긴급구제 기각’ 경위 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/NWZ7AOH5UZGDPMDEWM7D5VKXBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/NWZ7AOH5UZGDPMDEWM7D5VKXBA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 04:22:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YBWB5P6J5IFHLAKCXIJRUOTD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 여성가족부 장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 국가인권위원회(인권위)의 ‘박정훈(대령) 해병대 수사단장 긴급구제 기각’ 사건과 관련해 최근 원민경 여성가족부 장관을 비공개 소환해 조사한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 해병 특검은 지난 27일 원 장관을 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;해병 특검은 인권위가 고(故) 채수근 상병 사망 사건을 초동 조사했던 박 대령에 대한 긴급구제 신청 및 진정을 기각하는 과정에서 위법행위가 있었는지 수사 중이다. 원 장관은 당시 인권위 비상임위원으로, 박 대령의 긴급구제 신청 및 진정 의결 과정에 참여했다.&lt;br&gt;&lt;br&gt;김용원 인권위 상임위원, 한석훈 인권위 비상임위원, 원 장관으로 구성된 인권위 군인권보호위원회는 2023년 8월 29일 박 대령에 대한 긴급구제 신청을 기각했고, 지난해 1월 박 대령에 대한 진정도 기각했다. 이후 김 위원이 2023년 8월 14일 이종섭 전 국방부 장관과 통화한 사실이 드러나며 기각 과정에 외압이 있었다는 의혹이 불거졌다.&lt;br&gt;&lt;br&gt;해병 특검은 지난 17일 한 위원을 불러 조사했다. 김 위원도 조만간 소환 조사를 받을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고혈압·당뇨·고지혈증 환자 증가…40대 남성은 60%가 비만</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/30/ENAM4UNJDBGD3PFIURLAJ3UKB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/30/ENAM4UNJDBGD3PFIURLAJ3UKB4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 04:23:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZBW2APOQ5BPJC22GRAVFXGFOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;복부비만의 주요 원인인 '내장지방'은 혈관을 막고 혈당을 높이며 간을 손상시키는 복합적인 위험 요인이다. 이에 나이가 들수록 포만감을 주고 장 건강을 도와주는 식이섬유를 섭취해 건강한 다이어트를 해야 한다. /GPT&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 국민의 성인병 환자 비율이 지난해보다 높아진 것으로 나타났다. 특히 40대의 비만율이 증가하면서 건강 지표 악화를 주도했다.&lt;br&gt;&lt;br&gt;질병관리청은 30일 이 같은 내용의 ‘2024년 국민건강영양조사’ 결과를 발표했다. 이번 조사는 전국 192개 지역 4800가구, 1세 이상 가구원 약 1만명을 검진·면접·자기기입 등 방식으로 조사한 결과다.&lt;br&gt;&lt;br&gt;이번 조사에서 고혈압·당뇨·고지혈증(고콜레스테롤혈증) 환자 비율은 지난해 보다 모두 높게 나타났다. 고혈압 유병률(질병을 가진 사람 비율)은 지난해 남성 26.3%, 여성 17.7% 였는데 각 성별에서 2.9%포인트, 1.2%포인트 올랐다.&lt;br&gt;&lt;br&gt;당뇨병 유병률은 남성 13.3%, 여성 7.8%로 각각 1.3%포인트, 0.9%포인트 높아졌으며, 고지혈증은 남녀 모두 23.4%를 기록해 남성 3.5%포인트, 여성 2.0%포인트 높아졌다.&lt;br&gt;&lt;br&gt;이 같은 질병의 주요 원인 중 하나로 꼽히는 비만에서는 남성의 비만 유병률이 48.8%로 3.2%포인트 높아졌다. 특히 40대는 50.2%에서 61.7%로 급격히 증가했다. 61.7%는 역대 최고 수치다. 남성 비만율은 40대와 함께 30대·50대에서도 49.1%, 48.1%로 높게 나타났다.&lt;br&gt;&lt;br&gt;여성의 비만율은 26.2%로 전년대비 1.6% 내렸으나 40대 여성의 비만율만은 올랐다. 40대 여성 비만율은 25.7%로 전년대비 1.2% 포인트 증가했다.&lt;br&gt;&lt;br&gt;한편, 전체 흡연률은 큰 폭으로 개선된 모습을 보였다. 담배 제품 현재 사용률은 남성 36%, 여성 6.9%로 전년대비 2.9%포인트, 1.4%포인트씩 내렸다.&lt;br&gt;&lt;br&gt;성인들의 고위험 음주율(최근 1년간 1회 평균 음주량이 남성 7잔·여성 5잔 이상이고 주 2회 이상 음주하는 비율)은 13.6%로 전년(13.8%)과 유사했다. 월간 폭음률도 37.8%로 전년(37.2%)과 비슷했다.&lt;br&gt;&lt;br&gt;다만 20대 남성의 고위험 음주율(9.7%)이 5.7%포인트 내리고, 폭음률(45.8%)도 전년보다 0.4% 포인트 오르는데 그치는 사이 30대 여성의 고위험 음주율(12.6%)과 폭음률(35.9%)은 3.1%포인트, 3.8%포인트 오르며 해당 연령·성별에서의 음주 위험도가 높아졌음이 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>귀가 중인 10대 억지로 끌고가려 한 만취 60대 체포 </title>
+      <link>https://www.chosun.com/national/2025/09/30/DVK3OE2LSFDFDBVMKL2BLVAGGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/30/DVK3OE2LSFDFDBVMKL2BLVAGGM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 03:28:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 술에 취한 60대 남성이 초등학생을 끌고 가려다 미수에 그친 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;경남경찰청은 미성년자 약취 유인 미수 혐의로 A씨를 붙잡아 조사 중이라고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 7시 25분쯤 창원시 성산구 한 거리에서 10대 B군을 끌고 가려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;두 사람은 서로 일면식도 없는 사이였다. 당시 B군은 혼자 집에 가던 중이었다고 한다. 술에 취한 A씨는 갑자기 B군을 뒤에서 껴안고 양팔을 잡으며 무작정 어디론가 끌고 가려 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;B군은 A씨 손을 강하게 뿌리치고 집으로 도망가 아버지에게 피해 사실을 알렸다. 이 사실을 전해 들은 아버지가 경찰에 신고했고, 출동한 경찰이 현장에서 A씨를 현행범으로 체포했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 범행 동기 등을 묻는 경찰관의 질문에 술에 취해 횡설수설했다”며 “A씨가 정신을 차리는 대로 범행 동기를 조사한 뒤 구속영장 신청을 검토할 계획”이라고 했다. &lt;br&gt;&lt;br&gt;한편, 국회 행정안전위원회 소속 위성곤 더불어민주당 의원이 경찰청에서 제출받은 자료에 따르면 올해 1~8월 전국에서 만 18세 이하를 상대로 벌어진 약취·유인 사건은 총 173건으로 집계됐다. 미수에 그친 사건도 75건이나 됐다. &lt;br&gt;&lt;br&gt;유괴·유괴 미수 사건은 증가하고 있지만 피의자가 구속되는 사례는 오히려 줄고 있다. 2020년 5.6%에 불과했던 유괴·유괴 미수 혐의 피의자 구속영장 기각률은 차츰 높아지다 지난해엔 30.0％로 올랐다. 경찰이 도주 우려나 증거 인멸의 우려가 있어 구속이 필요하다고 판단했더라도 10명 중 3명은 구속을 피한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 감사위 “지귀연 판사 ‘접대 의혹’ 징계 사유 안돼” </title>
       <link>https://www.chosun.com/national/court_law/2025/09/30/KK77KYJJ6VCKPDFNXK6Q63ERVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/KK77KYJJ6VCKPDFNXK6Q63ERVI/</guid>
@@ -876,42 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4NGSF2BCD7XATYUCNIW3ES34A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구의 한 약수터에서 70대 남성이 초등학생 2명을 성추행했다는 신고가 접수돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;인천 서부경찰서는 성폭력 처벌 등에 관한 특례법상 13세 미만 미성년자 강제추행 혐의로 70대 A씨를 입건했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 27일 오후 4시 11분쯤 인천시 서구 석남동의 한 약수터에서 초등학생 B양과 C양의 신체 일부를 만지는 등 강제 추행한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;당시 피해자 중 한 명의 어머니가 “모르는 할아버지가 신체 부위를 만졌다”고 경찰에 신고했고, A씨는 출동한 경찰에 “추행하지 않았다”고 부인한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “(A씨를 상대로) 구체적인 사실관계를 추가로 확인할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“악질 범죄, 반드시 법 심판대 세우겠다”... 김동권 경기북부경찰청장 취임</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/29/BOCSSPHTMVHRPF5DBTJI4WURAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/BOCSSPHTMVHRPF5DBTJI4WURAY/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 06:41:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWNQU7LQIJBWXHI7YXCAQHWECE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동권(55) 제11대 경기북부경찰청장./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김동권(55) 제11대 경기북부경찰청장이 29일 취임했다. 김 청장은 이날 취임사를 통해 “선량한 국민에게 피해를 입히는 악질적인 범죄에 대해서 ‘반드시 법의 심판대에 세운다’는 강력한 의지와 행동을 보이겠다”며 “불법과 범죄자에게는 엄정하고 단호하게, 사회적 약자와 주민들에게는 따뜻하고 든든한 경찰이 되겠다”고 강조했다.&lt;br&gt;&lt;br&gt;그는 " 국민들의 생명이 위급한 상황, 범죄 피해를 당해 억울하고 간절한 상황에서 믿고 기댈 수 있는 곳은 경찰밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 김 청장은 시민들과 동료들을 항상 진정성 있게 대해야 한다고 했다. &lt;br&gt;&lt;br&gt;그는 " 신고 현장에서 시민들을 만날 때에도, 경찰서를 찾아오는 민원인들에게는 물론이고 직장 내 동료와의 관계에 있어서도 진정성을 가지고 대할 때 상대방의 마음을 움직일 수 있고 신뢰가 생길 수 있다“며 ”진정성을 가지고 직원을 대하겠다”고 말했다. &lt;br&gt;&lt;br&gt;김 청장은 경남 함안 출신으로 1998년 간부후보 46기로 경찰에 입문했다. 그는 서울 용산경찰서장, 경찰청 홍보담당관, 서울 송파경찰서장, 경찰청 국제협력관 등을 역임했다. 지난해 치안감으로 승진해 경찰청 대변인을 맡는 등 경찰 홍보통으로 꼽힌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>축제장서 한식뷔페 먹었는데... 주민 170명 집단 식중독 증상 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/09/29/CJKSGEJYKJFU5GBX2AYIAPFJAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/09/29/CJKSGEJYKJFU5GBX2AYIAPFJAI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 06:34:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 진천군의 대표 축제인 생거진천문화제 기간 중 한 식당에서 식사한 주민들이 집단 식중독 증세를 보여 당국이 역학조사에 나섰다. &lt;br&gt;&lt;br&gt;29일 진천군에 따르면 축제 첫날인 지난 25일 백곡면의 한 식당에서 점심으로 한식 뷔페를 먹은 군민들이 이날 오후 3시부터 복통과 구토, 설사 증상 등의 식중독 증상을 호소했다.&lt;br&gt;&lt;br&gt;주민들은 소화제를 먹으며 버티다 이틀 뒤인 27일 오전 9시 25분쯤 한 주민이 보건 당국에 신고를 하면서 알려졌다. &lt;br&gt;&lt;br&gt;29일 오후 3시까지 보건 당국이 확인한 결과, 170명이 구토와 설사 증세를 보였다. 이 가운데 24명이 병원에 입원했고, 나머지 환자는 통원 치료를 받고 있는 것으로 집계됐다. &lt;br&gt;&lt;br&gt;다행히 심각한 상태를 보이는 환자는 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;군은 이들의 가검물을 채취해 충북도보건환경연구원에 정밀 검사를 의뢰했다. 정확한 검사 결과는 약 2주 후에 알 수 있을 것으로 보인다. &lt;br&gt;&lt;br&gt;군은 당시 각 면별로 축제에 참여한 주민들에게 무료로 점심을 대접했는데, 이날 메뉴는 한 급식업체에 주문한 뷔페였던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이 식당에서 직원과 지역주민 등 350여 명이 식사를 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;군 관계자는 “축제 때 행사장에 차려진 식당에서 음식을 먹은 이들이 식중독 증세를 보이고 있다”며 “수인성 감염병 대책반을 편성 운영하는 등의 조처를 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;한편 진천군보건소와 한국외식업중앙회 진천군지부는 피해자들의 병원 치료비를 전액 보상하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중학생 혼수상태 빠진 복싱대회 사고... 의료진 없고 구급차도 불량이었다 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/29/SPMOAGRIOZDEXBZ6X547RH7HKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/SPMOAGRIOZDEXBZ6X547RH7HKY/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 06:22:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CCW6NJINL4QL3JUM4ANY6O3KWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령배 전국시도복싱대회의 경기 장면. 기사와 내용과 무관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이달 초 전국 복싱 대회 경기 도중 중학생 선수가 쓰러진 뒤 혼수상태에 빠진 사고에 대해, 경기를 주관한 대한복싱협회가 경기장에 의료진을 배치하지 않았으며 현장에 마련된 구급차도 기능이 불량이었다는 대한체육회 조사 결과가 나왔다. &lt;br&gt;&lt;br&gt;이달 3일 제주도에서 열린 제55회 대통령배 전국시도복싱대회에서 전남 무안의 한 중학교에 다니는 A군이 경기 도중 쓰러져 의식을 잃었고, 현재까지 깨어나지 못하는 상황이다. 대한체육회는 학부모와 복싱협회 관계자, 지도자, 심판 등을 대상으로 사고 원인을 조사했고, 29일 그 결과를 발표했다.&lt;br&gt;&lt;br&gt;조사 결과 복싱협회는 대회 안전관리계획 미수립, 응급체계 구축 미비, 대회 규정 미준수, 사건 보고 및 초기 대응 미흡 등 여러 문제점이 있었다고 대한체육회는 밝혔다. &lt;br&gt;&lt;br&gt;체육회에 따르면, 복싱협회는 2020년 1월 제정한 ‘대회 운영 기본 안전 지침’에 따라 대회를 운영했다고 했으나 해당 지침에 명시된 ‘대회 안전관리부 운영’ ‘사고 발생 시의 대응 기관 등 비상 연락 체계 구축’ 등을 이행하지 않았다. 또, 대회 현장에 구급차 2대를 마련했으나 구급차 내 바이탈 기기와 사이렌이 작동하지 않고 병원 응급실 하차 지점을 착오해 호송이 지연되기도 한 것으로 확인됐다. 이는 복싱협회와 계약을 맺은 응급 호송 업체의 문제이지만, 협회도 이를 사전에 확인했어야 했다고 체육회는 지적했다.&lt;br&gt;&lt;br&gt;복싱협회는 ‘경기 진행 시 의사 또는 (의사 수급 불가 시) 간호사 등 의무진으로 구성하여 진행한다’는 경기 규칙에도 불구하고 사고 당일 의사 또는 간호사를 배치하지 않은 것으로 드러났다. 사고 사흘이 지난 9월 6일부터 대회장에 간호사가 배치됐다. &lt;br&gt;&lt;br&gt;복싱협회의 행정 처리와 사후 조치도 미흡했다. 대회 참가 선수로부터 서명을 받는 ‘사고 책임 각서’는 미성년자의 경우 법적 보호자의 동의를 받아야 하지만, 이를 정확하지 않고 선수가 보호자 서명란에 직접 서명한 것으로 추정되며, 사고 발생 후 대한체육회 등 유관 기관에 즉각적인 보고도 이뤄지지 않았다고 체육회는 밝혔다. 체육회는 사고 5일 후인 9월 8일 사고 선수 아버지의 자해 시도 영상을 본 대회 참가자의 민원으로 사고를 인지했다고 한다. &lt;br&gt;&lt;br&gt;사고 초기 협회가 미숙한 대응으로 선수 아버지의 자해 시도를 유발했고, 그 상황에서도 다른 링에서 경기를 지속하게 했으며, 경찰이 도착하기 전까지 적극적인 대응을 하지 않았다고 체육회는 지적했다.&lt;br&gt;&lt;br&gt;체육회는 “복싱협회에 대한 기관 경고와 함께 부상 선수의 병원비 지원 등 피해 보상 대책을 수립하고, 조속한 시일 내에 종목 특성에 맞는 안전 매뉴얼을 마련하도록 요구할 예정”이라며 “체육회 역시 제도적 미비점을 개선하기 위해 회원종목단체 규정을 개정해 모든 종목 단체가 정관에 종합안전관리계획을 반드시 수립하도록 의무화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 정부 “대시민 서비스 등 62개 정상화...손상된 시스템 재구축엔 1개월쯤 걸릴 듯”</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/29/DET33KPK3VGH7MXOY5DNB6ASZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/DET33KPK3VGH7MXOY5DNB6ASZU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 05:08:55 +0000</pubDate>
-      <content:encoded>정부는 지난 26일 발생한 대전 유성구 국가정보자원관리원 화재와 관련, 29일 오후 12시 기준으로 647개 시스템 중 62개 시스템이 정상화됐다고 밝혔다. &lt;br&gt;&lt;br&gt;행정안전부 중앙재난안전대책본부는 이날 “국민 생활과 밀접한 1등급 업무 16개가 정상화됐다”며 “우체국 우편과 금융 서비스, 주민등록등본 발급 등 국민이 일상적으로 자주 활용하는 정부24 서비스 등을 우선 복구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JE3TXEMFOBPD7D6JQQKJWLIZNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 대전 유성구 국가정보자원관리원(국정자원) 화재 현장에서 경찰과 소방 관계자 등의 화재 정밀 감식이 진행되고 있다. 앞서 지난 26일 정부 전산시스템이 있는 국정자원에서 리튬이온배터리 화재가 발생해 정부 전산 서비스가 대규모로 마비된 바 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화재는 대전 본원 7-1 전산실에서 발생했다. 직접 손상된 시스템은 96개다. 정부는 “1~5 전산실은 순차적으로 재가동하고 있고, (7전산실) 서버 등 정보 시스템은 전문업체가 분진 제거 작업 등을 진행 중이라고 밝혔다. 현장 복구에 1~2주 걸릴 것으로 전망된다.&lt;br&gt;&lt;br&gt;정부는 또 96개 시스템은 대구 분원의 민간 협력 클라우드 구역에 이전 설치할 예정이라고 밝혔다. 정보 이전과 시스템 재구축에는 약 1개월쯤 걸릴 것으로 내다봤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>귀성은 10월 5일, 귀경은 6일 가장 밀린다</title>
       <link>https://www.chosun.com/national/transport-environment/2025/09/29/TGOHP3OB7ZCMLCUIJBUX5JBC4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/29/TGOHP3OB7ZCMLCUIJBUX5JBC4I/</guid>
@@ -937,24 +955,6 @@
       <description/>
       <pubDate>Sun, 28 Sep 2025 15:50:00 +0000</pubDate>
       <content:encoded>대전 국가정보자원관리원 화재로 공공·행정 분야 온라인 서비스가 마비되면서 “한국 정부도 미국처럼 공공 분야에 민간 클라우드(원격 가상 서버) 서비스를 적극 도입해야 한다”는 지적이 나온다. 정부가 관리하는 망과는 별도의 민간 추가 안전망을 구축해야 한다는 것이다.&lt;br&gt;&lt;br&gt;미국은 오바마 행정부 때인 2010년 공공기관에 클라우드 서비스를 도입하는 ‘클라우드 퍼스트(cloud first)’ 정책을 수립했다. 농무부 같은 일반 부처는 물론 CIA(중앙정보국)와 펜타곤(국방부)처럼 보안을 최우선으로 내세우는 기관도 민간의 클라우드를 도입했다. CIA는 2013년부터 세계 최대 민간 클라우드 서비스 기업인 ‘아마존웹서비스(AWS)’와 계약을 맺고 지금까지 이용하고 있다. 펜타곤은 2022년 구글·오러클·AWS·마이크로소프트와 계약을 체결하고 ‘합동 군사작전용 데이터 관리 시스템(JWCC)’에 민간 클라우드를 도입했다.&lt;br&gt;&lt;br&gt;반면 한국 공공 분야에선 민간 클라우드 서비스 이용률이 저조하다. 과학기술정보통신부에 따르면, 2023년 기준 공공 정보 시스템 2300여 개 가운데 민간 클라우드를 사용하는 경우는 11.6%다. 미국 연방 기관들의 민간 클라우드 사용률은 70%가 넘는다. 이성엽 고려대 기술경영전문대학원 교수는 “한국도 민간 클라우드를 ‘이중 안전 장치’로 삼아 공공 서비스를 위탁하는 방안을 고려해야 한다”며 “일부 공공 문서 발급은 이미 네이버·카카오톡 같은 민간 서비스를 통해 가능한데 좀 더 확대할 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;행정안전부는 이번 정보자원관리원 화재로 전산망이 마비되자 민간 서비스인 네이버, 카카오톡 등을 통해 주요 정보를 공지했다. 이미 3년 전 ‘카카오 먹통 사태’를 초래한 경기도 성남 SK C&amp;amp;C 판교 데이터센터 화재 때도 대안 서버 구축 등 대비책을 마련해야 한다는 지적이 나왔던 것을 감안하면 정부가 그동안 뭐 한 것이냐는 비판이 이어지고 있다. 임종인 고려대 정보보호대학원 명예교수는 “민감한 기밀은 정부가 관리하되 다른 정보는 민간이 관리하는 하이브리드 시스템을 도입해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>신규 원전 재검토한다던 김성환, 日 환경장관 만나 “원전 필요하다”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/29/32277UPMFBCDJM6KY54YD2WMNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/29/32277UPMFBCDJM6KY54YD2WMNU/</guid>
-      <dc:creator>옌타이=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 15:46:00 +0000</pubDate>
-      <content:encoded>김성환 환경부 장관이 일본 환경성 장관을 만나 “원전은 필요한 측면이 있는데 사고가 나면 위험하니 안전을 위해 관리하는 것이 한일 공통 숙제”라고 밝혔다.&lt;br&gt;&lt;br&gt;김 장관은 지난 27일 제26차 한중일 환경 장관 회의에서 아사오 게이이치로 일본 환경성 장관과 양자 회담을 갖고 이같이 논의했다고 환경부 관계자가 전했다. 이 회의는 3국 환경 장관들이 기후변화 등 환경 문제를 논의하기 위해 중국 산둥성 옌타이에서 27~28일 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIUJYJKT3VG5LGPADU5OKQJFDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김 장관은 윤석열 정부 당시 확정된 신규 원전 건설 계획을 공론화를 거쳐 재검토하겠다는 입장을 밝힌 바 있다. 그는 지난 9일 기자 간담회에서 “원전을 신규로 지을 것인가에 대해 국민의 공론을 듣고 판단해야 한다는 의견이 있다”며 “그 의견을 12차 전기본(전력수급기본계획)에 담을 것”이라고 했다. 윤 정부 때 확정된 제11차 전기본에는 2038년까지 신규 원전 총 3기를 건설한다는 계획이 포함돼 있는데, 공론화를 거쳐 뒤집을 수 있게 된 것이다. 김 장관의 ‘신규 원전 공론화’ 발언은 문재인 정부의 ‘탈원전 정책’과 같은 혼란을 불러올 수 있다는 우려가 쏟아졌다. 그러나 김 장관이 일본 환경성 장관을 만난 자리에서는 원전의 필요성을 인정하는 발언을 공개적으로 함에 따라, 국내와 국제 무대에서 내놓는 메시지가 서로 상반된 것 아니냐는 평가가 나왔다. &lt;br&gt;&lt;br&gt;한편 이날 김 장관은 황룬치우 중국 생태환경부 장관에게 “온실가스 배출량 세계 1위인 중국이 온실가스 감축에 더 노력해 주기를 기대한다”고 말했다. 최근 시진핑 중국 주석은 유엔(UN) 기후변화 정상 회의에서 2035년까지 중국의 온실가스 배출량을 정점 대비 7~10% 감축하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“산은 영원한 스승, 야생 자체가 삶을 바꿨다” </title>
-      <link>https://www.chosun.com/national/people/2025/09/28/ACQDWMHTSRDA7BJIIICGHCMM7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/28/ACQDWMHTSRDA7BJIIICGHCMM7A/</guid>
-      <dc:creator>정병선 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Sep 2025 08:10:16 +0000</pubDate>
-      <content:encoded>“산은 영원한 스승이다.” &lt;br&gt;&lt;br&gt;28일 울산울주세계산악영화제(UMFF)에서 만난 세계적인 산악인 라인홀트 메스너(81·이탈리아)와 엄홍길(61·UMFF집행위원장)은 “야생을 통해 성장했고, 자연과 함께 영원할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3X7OXD7XRF4PNE5FD3EV6DAQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 울산울주세계산악영화제(UMFF)에서 만난 세계적인 산악인 라인홀트 메스너(오른쪽)와 엄홍길 집행위원장. 그들은 "야생을 통해 성장했고, 자연과 함께 영원할 것”이라고 했다./정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 산악인의 만남은 영화제 최대 화제였고, 그들이 영화제를 통해 주위에 미치는 영향력은 상당했다. 메스너는 이번 영화제에서도 단연 주목받는 인물이다. 그가 등장하는 곳이면 사인 행렬이 이어졌고, 그가 감독을 맡은 영화는 일찌감치 매진됐다. &lt;br&gt;&lt;br&gt;하지만 더욱 감동은 준 것은 메스너가 감독한 다큐멘터리 영화 (에베레스트-최후의 한걸음)가 끝난 뒤 관객과의 대화였다. 특히, 히말라야를 중심으로 펼진 그의 인생철학과 나눔은 산악인뿐만 아니라 산을 좋아하는 모두에게 감동을 주고 있다. &lt;br&gt;&lt;br&gt;세계 산악사의 흐름을 바꾼 메스너와, 한국 산악계를 대표하는 엄홍길, 두 사람은 시대와 국적은 다르지만, 산을 향한 태도와 삶에서 독자적인 궤적을 남겼다. 이번 영화제에서는 UMFF 집행위원장(엄홍길)과 울산울주세계산악문화상(UMCA) 수상자(메스너)로 만났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ5Q2R6F6JG5XAEFCKXUPVHUOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산울주세계산악영화제(UMFF)에 참석한 세계적인 산악인 라인홀트 메스너 부부. 관객과의 댜화에 앞서 영남알프스 소개 책자를 보고 있다. /정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;메스너는 1978년 세계 최초로 에베레스트 무산소 등정에 성공하며 ‘산악인의 전설’이 됐다. 그는 1986년 인류 최초의 히말라야 8000m 14좌 완등을 이뤄냈고, ‘등반 스타일’을 무엇보다 중시했다. &lt;br&gt;&lt;br&gt;그의 철학은 “정상에 오르는 것보다 어떻게 오르는지가 중요하다”는 말로 집약된다. 야생의 자연에 도전하는 태도를 중시하는 대신 현대화된 기술로 등반하는 것을 터부시한다. 또 “나는 산을 정복하지 않았다. 산은 언제나 그 자리에 있었다. 정복당하는 것은 언제나 우리 자신”이라고 말했다. “산은 정복의 대상이 아니라 인간의 내면을 비추는 거울”이라고 강조했다.&lt;br&gt;&lt;br&gt;엄홍길 역시 메스너와 더불어 산악 영웅의 길을 걸었다. 1988년 에베레스트를 시작으로 2007년 로체사르까지 한국인 최초로 히말라야 16좌(14좌+야룽캉·로체샤르 등 위성봉)를 등정하며, 세계적인 산악인 반열에 올랐다. &lt;br&gt;&lt;br&gt;엄홍길이 더욱 주목받기 시작한 것은 산에서 내려온 이후였다. 히말라야 등정 중 10명의 동료를 잃는 비극을 겪은 뒤 그는 “산은 혼자가 아니라 함께 가야 한다. 정상보다 중요한 건 동료의 생명”이라고 강조하면서 나눔과 봉사에 나섰다. &lt;br&gt;&lt;br&gt;지난 2007년 ‘엄홍길 휴먼재단’을 설립해 네팔 오지에 18개 휴먼스쿨을 지으면서 히말라야 청소년들을 위한 교육사업을 해왔다. “산에서 얻은 건 모두 나눔으로 갚아야 한다”는 그의 철학에서 비롯됐다.&lt;br&gt;&lt;br&gt;메스너와 엄홍길. 두 사람의 길은 닮은 듯 다르다. 메스너가 인간의 한계를 시험하며 등반의 본질을 재정의했다면, 엄홍길은 기록을 넘어 공동체적 의미를 확장했다. 한쪽은 ‘산과 나’의 문제를 집요하게 파고들었고, 다른 한쪽은 ‘산과 우리’로 영역을 넓혀갔다.&lt;br&gt;&lt;br&gt;하지만 공통점도 뚜렷하다. 두 사람 모두 산을 단순한 정복의 대상이 아니라 삶의 철학과 사회적 메시지를 전하는 공간으로 해석했다는 점이다. &lt;br&gt;&lt;br&gt;메스너는 “산은 이해의 대상이지, 정복의 대상이 아니다”라며 기후위기와 자연 보존의 중요성을 설파해왔고, 엄홍길은 “히말라야는 내 인생을 키워준 스승이다. 히말라야 신이 살려준 대가로 이제 내가 빚을 갚을 차례다”라며 교육·복지 활동에 나섰다.&lt;br&gt;&lt;br&gt;두 사람 모두 등정이라는 수직 인생보다 나눔과 봉사라는 철학을 통한 수평 인생이 더 주목받는 이유다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DYVOL4EVSVFT5DXUEFA3OEY2U4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄홍길 울산울주세계산악영화제 집행위원장이 메스너에게 감사패를 수여하고 있다. /정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그래서 에베레스트의 줄 선 상업등반, 지구적 기후위기, 산악 문화의 변화 속에서 두 인물의 여정은 여전히 유효하다. 메스너가 던진 “산은 이해의 대상”이라는 말과, 엄홍길이 보여준 “산은 나눔의 출발점”이라는 실천은 서로 다른 언어지만 결국 같은 질문을 품고 있다. &lt;br&gt;&lt;br&gt;그들에게 “산이 무엇을 의미하느냐”고 하자, 이구동성으로 “산은 영원한 스승이다”고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
