@@ -13,6 +13,114 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“10만원 줄게…” 초등생 유인하려 한 60대, 긴급체포</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/09/30/G6TS2P4NGRBJTAACIIE73OVZMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/09/30/G6TS2P4NGRBJTAACIIE73OVZMQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 10:02:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G75BXCLKHPSRAMFLL2D7THXBAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학생에게 돈을 주겠다며 차량으로 유인을 시도한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;부산 강서경찰서는 미성년자 약취 유인 미수 혐의로 A(60대)씨를 붙잡아 조사하고 있다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 29일 오후 6시쯤 부산 강서구 한 학원가 인근 도로에서 초등학생 B양에게 접근해 “차에서 전화를 대신 걸어주면 10만원을 주겠다”면서 유인하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 B양은 거부 의사를 밝히고 현장을 벗어나 귀가한 뒤 부모에게 사실을 알렸다고 한다.&lt;br&gt;&lt;br&gt;경찰은 B양 엄마의 신고를 받고 방범카메라(CCTV) 분석 등을 통해 추적에 나서 사건 발생 당일 오후 11시 30분쯤 경남 창원시 진해구 A씨의 주거지에서 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;A씨가 범행 당시 타고 있던 차량은 A씨 아들의 차량으로, 평소에는 A씨가 타고 다닌 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “좋아하는 여성이 전화를 받지 않아 (B양에게)전화 통화를 부탁하려 한 것”이라고 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨 진술에 신빙성이 있는지 등 구체적인 사건 경위를 조사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 내란 특검, 사초(史草) 제작 ‘기획팀’에 검사 5명 투입... 수사 종료 뒤 백서 형태 보고서 발간</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/EV6DAZSB3ZEPZAEYFMNA3MBIDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/EV6DAZSB3ZEPZAEYFMNA3MBIDI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 09:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KFODJFJPBJTMOF5LXSZXZIM4UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사. 2025.6.13/뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특별검사팀이 수사 종료 뒤 수사 과정을 정리한 백서 형태의 수사 보고서 출간을 추진하고 있다. 최근 박태호 특검보를 팀장으로 하는 이른바 ‘기획팀’을 꾸려 특검 수사 기록 등을 총망라한 보고서를 작성 중인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 기획팀에는 파견검사 5명을 포함해 특별수사관 등 20여 명이 참여하는 것으로 전해졌다. 일부 특별수사관은 대형 로펌 변호사들도 포함됐다고 한다. 사초팀은 수사 일지 등 관련 기록을 토대로 주요 피의자 혐의와 수사 과정 전반의 과정을 정리한 백서를 작성해 수사 종료 뒤 특검 명의로 발간할 계획이다.&lt;br&gt;&lt;br&gt;내란 특검팀을 지휘하고 있는 조은석 특별검사는 지난 6월 13일 입장문을 내고 “사초를 쓰는 자세로 세심하게 살펴가며 오로지 수사 논리에 따라 특별검사의 직을 수행하겠다”고 밝혔다. 이후 특검은 사건별로 기록을 남기는 사초팀을 운영해 왔다.&lt;br&gt;&lt;br&gt;특검팀 내부에서는 “각 수사팀이 바쁘다 보니 옆 팀이 뭘 수사하는지도 잘 모르는데, 사초팀만큼은 특검 전체의 수사 흐름을 모두 꿰고 있다”는 말이 나왔다.&lt;br&gt;&lt;br&gt;사초는 조선 시대 사관이 매일 정치 상황과 인물의 언행 등을 객관적으로 기록해 실록 편찬의 기초로 삼던 원고를 뜻한다. 조 특검이 ‘사초를 쓰는 자세’를 강조한 배경에 이 같은 역사적 의미가 반영된 것으로 풀이된다.&lt;br&gt;&lt;br&gt;앞서 허익범 전 특검은 ‘드루킹 댓글 조작 사건’ 수사 종료를 앞두고 ‘드루킹의 인터넷상 불법 댓글 조작사건 백서’를 남겼다. 박영수 전 특검은 박근혜 정부 때인 이른바 ‘국정 농단 사건’ 수사 과정과 결과를 정리한 백서를 검토했으나, 실제 발간본은 더불어민주당이 제작해 특검에 제출한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민변 ‘배임죄 폐지’에 반발 “기업 사유화, 소액주주 권익 침해 우려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/6IGNEVUCNBARRFA3OHBUNOE5BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/6IGNEVUCNBARRFA3OHBUNOE5BI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 09:40:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIFXQ3WUCKWY77VNCGDG447AUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 정부와 더불어민주당 관계자들이 30일 서울 여의도 국회에서 '경제형벌 민사책임 합리화 당정협의'에서 배임죄 폐지 방침을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주사회를 위한 변호사모임(민변)이 30일 이재명 정부와 더불어민주당이 추진하는 ‘형법상 배임죄 전면 폐지’ 방침에 대해 “무책임한 정치”라며 반대했다.&lt;br&gt;&lt;br&gt;민변 민생경제위원회는 이날 논평을 통해 “배임죄는 기업의 사유화를 막는 핵심적인 장치”라며 “당정은 구체적 대안 논의도 없이 무책임하게 이뤄지고 있는 현재 배임죄 폐지 논의를 철회하라”고 주장했다.&lt;br&gt;&lt;br&gt;위원회는 “소수 총수 일가의 지배권을 강화하기 위한 부당 합병, 2세 경영을 위해 불법적인 부의 이전을 목적으로 한 계열사 내부 거래 등이 배임죄의 주요 적용 대상”이라며 “(배임죄 폐지 시) 기업 사유화 시도를 통제할 형사법적 장치가 사라져 소액주주와 채권자의 권익은 심각하게 침해될 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “배임죄는 건강한 기업 지배구조와 시장경제 질서 유지를 위해 필요한 법적 규제이며, 이를 폐지할 경우 발생할 폐해도 충분히 예상된다”며 “보완 입법 등에 대한 충분한 검토 없이 만연히 배임죄부터 폐지하겠다는 주장은 책임 있는 정치라고 보기 어려우며, 일반 국민의 눈높이에도 맞지 않다”고 지적했다.&lt;br&gt;&lt;br&gt;참여연대도 이날 “배임죄 폐지는 경제 형벌의 합리화나 규제의 개선이 아니라, 지배 주주의 사익 추구를 손쉽게 허용하는 개악”이라며 강하게 비판했다.&lt;br&gt;&lt;br&gt;당정은 배임죄 폐지를 기본 방향으로 정하고 신속하게 대체 입법에 나서겠다고 밝혔다. 배임죄가 없어지면 기업인과 정치인들에 대해 진행되고 있는 각종 배임죄 재판은 ‘면소(免訴·법 조항 폐지로 처벌할 수 없음) 판결’이 날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수원지검, 마약 범죄 집중 단속했더니…“11만명 동시 투약분 압수”</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/MK5XMHKZYNETTP62CH2D3SVS2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/MK5XMHKZYNETTP62CH2D3SVS2Y/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 09:21:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OIR43Q6YCNPED46QL76T3LUHQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;운동화에 숨긴 MDMA(엑스터시). /수원지검&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 약 11만명이 동시 투약할 수 있는 분량의 마약류를 밀수입하거나, 유통하려 한 마약 사범 8명을 구속해 재판에 넘겼다.&lt;br&gt;&lt;br&gt;수원지검 형사3부(부장 허성규)는 지난 8월부터 이달까지 두 달간 마약류 범죄를 집중 단속한 결과, 마약류 밀수 및 유통 사범 8명을 검거해 구속 기소했다고 30일 밝혔다. 국적별로 한국인 4명, 베트남인 4명이다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 이번 단속을 통해 압수한 마약류는 필로폰 2.2㎏, 케타민 1.6㎏, MDMA(엑스터시) 3109정, LSD(리세르그산 디에틸아미드) 1020장 등 15억원 상당에 달했다. 검찰은 “약 11만명이 동시 투약이 가능한 양”이라고 설명했다.&lt;br&gt;&lt;br&gt;구체적으로 40∼60대 한국인 남성 2명은 국내에 유통할 목적으로 수원·인천·성남·의왕·고양 등 경기도 일대에 필로폰 2.2㎏ 등을 은닉한 혐의를 받는다. &lt;br&gt;&lt;br&gt;20대 베트남 국적 남성 A씨는 지난 3월 영국에서 MDMA 197정 등을 비타민으로 위장해 공항 화물로 밀수입하다가 적발됐다.&lt;br&gt;&lt;br&gt;한국인 20대 남성 B씨 등 2명은 지난 5~8월 얇은 종이 형태인 LSD 1020장을 만화책과 편지지 안에 넣어 호주에서 국내로 들여오려다 붙잡혔다. 이들은 텔레그램을 통해 LSD를 국내에 유통할 계획이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;베트남 국적 20대 불법 체류자 3명은 올해 5, 8월 독일에서 케타민 1.6㎏을 보디로션 또는 비타민으로 위장하거나, 운동화 안에 넣어 밀수입했다.&lt;br&gt;&lt;br&gt;검찰은 “축적된 마약 수사 역량을 기반으로 국내에서 은밀하게 활동하던 마약류 밀수·유통책을 검거한 것”이라며 “끈질긴 추적 수사로 상선까지 특정해 검거하고, 다크웹-국제 우편-텔레그램으로 이어지는 신종 마약류 유통망을 정밀 추적했다”고 밝혔다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “투약 가능한 대량의 마약류를 압수하여 국내 유통을 차단함으로써 마약이 일상으로 번져가는 길목을 봉쇄했다”며 “앞으로도 조직적 마약류 범죄에 대하여 유관 기관과의 적극 공조 등으로 엄정 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울중앙지법, 한덕수·건진 재판부에 판사 1명 추가</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/RXOLBFQHMVH45OZ2DDPVPYJPDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/RXOLBFQHMVH45OZ2DDPVPYJPDU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 08:26:46 +0000</pubDate>
+      <content:encoded>서울중앙지법이 한덕수 전 국무총리와 건진법사 전성배씨의 재판을 심리 중인 형사33부에 판사를 한 명 추가하겠다고 30일 밝혔다. 특검 기소 사건을 신속히 심리하기 위한 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3AE52EPBDAKE7BANPDEOIR73I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 30일 서울 서초구 서울중앙지법에서 열린 내란 우두머리 방조 및 위증 등 혐의 재판에 피고인으로 출석해 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원은 민사18부에 있던 임지은 판사를 형사33부로 이동시킨다고 밝혔다. 그러면 형사33부 판사는 3명에서 4명으로 늘어난다.&lt;br&gt;&lt;br&gt;형사33부는 선거·부패 사건을 다루는 재판부다. 한 전 총리의 내란 우두머리 방조 사건, 건진법사 전성배씨의 뇌물 사건 등 특검 기소 사건을 비롯해 여러 일반 형사 사건도 심리하고 있다. 이재명 대통령과 정진상 전 민주당 정무조정실장의 ‘대장동 재판’도 맡고 있다. 이 대통령은 당선과 동시에 재판이 중단돼, 현재는 정 전 실장에 대한 재판만 진행 중이다.&lt;br&gt;&lt;br&gt;형사33부 재판장인 이진관 부장판사는 특검 사건을 포함한 모든 사건 심리에 직접 참여한다. 다만 법정 판사석이 3석인 점을 고려해 배석 판사들은 한 명씩 번갈아 빠진다. 주심을 맡은 사건 재판에는 반드시 들어가되, 주심이 아닌 경우 교대로 빠지는 식이다. 새로 합류하는 임 판사가 특검 사건을 맡을지는 아직 정해지지 않았다. 법원 관계자는 “어떤 사건을 맡을지 구체적인 사건 배당은 재판부 논의를 거쳐 결정할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NFG5A2MUZTTDUCOT6SCCLTW3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진관 부장판사가 30일 서울 서초구 서울중앙지법에서 열린 한덕수 전 국무총리 내란 우두머리 방조 및 위증 등 혐의 사건 첫 재판을 심리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사32부의 재판장(강완수 부장판사)은 변경된다. 법원은 병가로 공석이 된 자리를 채우기 위해 형사10단독의 류경진 부장판사를 형사32부 재판장에 보임했다. 형사32부는 내란 중요 임무 종사 혐의로 기소된 이상민 전 행정안전부 장관 사건을 맡고 있다. 류 부장판사가 떠난 형사10단독에는 다음 달 10일 자로 새로 중앙지법에 보임하는 고지은 판사가 배치된다.&lt;br&gt;&lt;br&gt;법원은 이날 “내란 사건의 신속하고 공정한 재판을 지원하기 위해 법원행정처에서 서울중앙지법에 판사 1명을 증원 배치했다”면서 “특검 사건 재판 지원 방안의 연장 선상으로, 앞으로도 신속·공정한 재판을 위한 방안들을 계속 마련하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난 18일 “특검이 기소한 사건이 다수 접수됨에 따라 신속하고 공정한 재판을 위해 재판 지원 방안을 마련했다”면서 대책을 발표했다. 윤석열 전 대통령 사건을 포함한 내란 사건을 심리 중인 형사25부에 판사를 1명 추가하고, 특검 사건을 맡은 재판부에 사건 배당을 조정하는 등의 조치가 마련됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조지호 탄핵심판, 11월 10일 변론 종결...이르면 같은 달 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/ZGES7RZJURHKRFZJX6LIWG6CVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/ZGES7RZJURHKRFZJX6LIWG6CVU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 09:08:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TJWZYQMVENLPHJHFKMRIYHOU5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 경찰청장이 30일 오후 서울 종로구 헌법재판소 대심판정에서 열린 탄핵심판 사건 2차 변론기일에 출석해 자리하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;헌법재판소는 30일 조지호 경찰청장 탄핵심판 2차 변론 기일을 열고 “오는 11월 10일 변론을 종결하겠다”고 밝혔다. 이르면 같은 달 선고가 내려질 것으로 보인다. 조 청장은 12·3 비상계엄 관련 국회에서 탄핵 소추된 윤석열 정부 고위공직자 가운데 마지막으로 헌재 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;이날 변론에 증인으로 출석한 박현수 경찰청 인재개발원장은 국회에서 계엄 해제 요구 결의안이 가결된 작년 12월 4일 새벽 조 청장과 통화에서 “조 청장이 계엄에 대해 매우 어이없어했고, 푸념과 한탄을 나눈 걸로 기억한다”고 증언했다. 박 원장은 당시 행정안전부 경찰국장으로, 계엄 선포 전후 조 청장과 수차례 통화한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박 원장은 “국회에서 계엄 해제 의결 후 모든 상황이 종결됐다고 생각하고 청장님께 전화드려서 ‘어떻게 된 거냐’고 물어봤다”며 “청장님은 ‘처음에 경찰이 국회를 통제했다가 국회의원과 관계자에 대해 출입을 허용했다가, 포고령에 의해 다시 통제했다’고 말씀하셨다”고 했다. 또 “조 청장이 ‘포고령은 법과 같아서 따르게 됐다’고 하시더라”며 “평소 말씀하시는 톤과 달리 혼란스러워한다는 느낌을 받았다”고 했다. &lt;br&gt;&lt;br&gt;이어 “조 청장은 국회의원 등 월담을 막지 말라고 지시했다고 들었다”며 “적극적으로 계엄을 저지하지는 않았지만 소극적으로나마 계엄을 반대하고 저지했다고 볼 수 있는 대목”이라고 주장했다.&lt;br&gt;&lt;br&gt;박 원장은 4일 새벽 6시 20분쯤 조 청장과 통화에서 윤 전 대통령이 삼청동 안가에서 비상계엄 선포 계획을 설명한 상황도 전해들었다고 했다. 그는 “청장님은 ‘단 1분이나 10초라도 틈이 있었으면 계엄은 안 된다고 했을 텐데, 대통령이 워낙 고압적이고 일방적으로 말해서 반대를 표현할 틈이 없었다’고 말했다”고 했다. &lt;br&gt;&lt;br&gt;박 원장은 이후 조 청장이 ‘대통령 명령을 거부한 셈이니 경찰청장직에서 물러나야겠다’고 하자 이를 만류했다고도 했다. 박 원장은 “경찰이 국회 통제를 일부러 허용한 시간이 있었기에 결국 계엄이 성공할 수 없었다고 생각했다”며 “오히려 청장님이 나라를 구한 것이고, 민주주의를 지킨 것인데 왜 사퇴를 하셔야 하느냐는 말씀을 드렸다”고 했다. &lt;br&gt;&lt;br&gt;다만 12월 5일 국회 행정안전위원회 긴급 현안 질의에서 조 청장이 ‘비상계엄을 TV를 보고 알았다’고 답변한 것에 대해 “사실과 다른 말씀을 하시는구나 생각했다”고 말했다. &lt;br&gt;&lt;br&gt;박 원장은 조 청장 측이 신청한 증인이다. 조 청장 측은 이날 김봉식 전 서울경찰청장도 신청했지만 김 전 청장은 “(내란 혐의로)형사 재판을 받고 있고 이미 대통령 탄핵심판에서 관련 진술을 했다”며 불출석 사유서를 냈다.&lt;br&gt;&lt;br&gt;조 청장은 12·3 비상계엄 관련 윤석열 전 대통령 등의 내란 행위에 가담했다는 이유로 12월 12일 국회에서 탄핵 소추됐다. 헌재는 11월 10일 오후 2시 3차 변론 기일을 열어 김준영 경기남부경찰청장에 대한 증인 신문을 진행하고 그날 변론을 종결할 계획이다. 김 청장은 비상계엄 당시 조 청장 지시를 받고 경기도 과천시 중앙선거관리위원회 청사 등에 경찰을 투입했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘통일교 불법 정치자금 수수’ 권성동 의원, 내달 1일 구속적부심 심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/FGM2PCNDFZCMVKQX3GQ65LQUI4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/FGM2PCNDFZCMVKQX3GQ65LQUI4/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 08:47:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/44CLYWYSCHOEUY7PALBBKBVHB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 16일 서울 서초구 중앙지방법원에서 통일교 불법 정치자금 수수 의혹 관련 구속 전 피의자 심문을 마치고 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교로부터 불법 정치자금을 수수한 혐의로 지난 16일 구속된 권성동 국민의힘 의원이 법원의 구속 결정이 부당하다며 지난 29일 구속적부심을 청구한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 서울중앙지법 형사항소8-3부(재판장 최진숙)는 내달 1일 오후 2시 10분부터 정치자금법 위반 혐의를 받는 권 의원에 대한 구속적부심사를 진행한다. 이 재판부는 같은 날 오후 4시 한학자 통일교 총재에 대한 구속적부심사도 진행한다.&lt;br&gt;&lt;br&gt;권 의원 측은 “구속사유가 없을 뿐만 아니라, 범죄사실을 다투고 있어 불구속 상태에서 수사와 재판을 받으며 충분한 방어권을 행사하는 것이 반드시 필요하다”며 청구 사유를 밝혔다.&lt;br&gt;&lt;br&gt;구속적부심은 구속된 피의자가 구속 결정이 적법한지 다시 법원에 심사해달라고 요청하는 절차다. 법원은 청구서가 접수되면 48시간 이내에 석방 또는 기각 결정을 내려야 한다.&lt;br&gt;&lt;br&gt;권 의원은 대선을 앞둔 2022년 1월 윤영호 전 통일교 세계본부장으로부터 교단 지원 등 청탁을 받고 1억원을 수수한 혐의(정치자금법 위반)를 받는다. 또 2022년 2∼3월엔 한 총재에게 큰절을 한 뒤 금품이 든 쇼핑백을 건네 받았다는 의혹도 받는다. 앞서 김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀은 권 의원에 대한 구속영장을 청구했고, 법원은 “증거를 인멸할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;지난 29일 권 의원은 “반드시 진실을 밝히고 무죄를 받아내겠다”는 옥중서신을 냈다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법인카드 3000여만원 사적으로 쓴 공공기관장 적발</title>
+      <link>https://www.chosun.com/politics/goverment/2025/09/30/N5R5CLQWTRBR7NCVBB3NCENXFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/09/30/N5R5CLQWTRBR7NCVBB3NCENXFM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 09:16:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국토교통부 산하 공공기관인 한국도로공사서비스의 사장이 사적인 목적으로 법인카드를 3000여만원 결제하는 등 공금 6000여 만원을 유용하고, 자격 미달인 사람을 채용하도록 지시한 혐의로 경찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;국민권익위원회는 30일 도로공사서비스 사장 A씨의 혐의를 적발해 사건을 경찰청과 감독 기관인 국토부에 이첩했다고 밝혔다.&lt;br&gt;&lt;br&gt;권익위는 A 사장이 지난해 3급 간부인 홍보팀장 자리를 경력직으로 채용하는 과정에서 공고한 자격·경력 요건에 미달하는 지원자를 채용하도록 지시한 것으로 조사됐다고 밝혔다. 당시 채용 공고에 따르면 도로공사서비스 측은 홍보팀장 자리에 공공기관에서 3급 이상으로 3년 이상 일한 경력을 요구했으나, 채용된 홍보팀장은 단순 지원 업무 경력만 있었는데도 서류 전형에서 만점을 받았다. 도로공사서비스 직원들은 권익위에 “이 지원자가 부적격자임을 알고 있었지만, A 사장이 직접 채용을 지시했다”고 진술했다.&lt;br&gt;&lt;br&gt;권익위는 도로공사서비스가 최근 진행한 다수의 경력직 간부 채용에서도 자격 요건에 미달하는 사람들이 채용된 사실을 확인했다.&lt;br&gt;&lt;br&gt;A사장은 이렇게 채용한 경력직 간부들의 연봉을 올려주기 위해, 올 들어 경력직 팀장의 연봉에 관한 규정을 이사회 의결도 거치지 않은 채 개정한 것으로 드러났다. 또 새 규정을 지난해 채용한 홍보팀장을 비롯한 경력직 팀장 12명에게 소급 적용해, 연봉을 1인당 평균 약 1300만원씩 올려줬다.&lt;br&gt;&lt;br&gt;A사장이 법인카드를 사적인 목적으로 부당하게 사용한 사실도 적발됐다. A사장은 자택 인근 고급 음식점에서 지인과 50여만원짜리 식사를 해놓고, 직원 20여명과 간담회를 한 것처럼 허위로 공문서를 작성하도록 했다. 이런 식으로 A사장이 자택 인근에서 법인카드를 사용한 경우가 52차례에 달했다. 여기에 들어간 식대만 2700여만원이었다.&lt;br&gt;&lt;br&gt;A사장은 법인카드를 근무일이 아닌 주말에 사용하거나, 고향 인근 한우 식당에서 사용하기도 했다. 한우 식당에서 3차례에 걸쳐 총 82만원을 결제하고는 ‘현장 경영 활동’이었다고 기재하기도 했다. A 사장이 자택 근처 꽃집에서 화분 420여 만원어치를 법인 카드로 결제한 사실도 확인됐다. A 사장은 ‘사장실 부속실 환경 미화’를 사유로 기재했지만, 화분이 실제 배송된 내역이 확인되지 않았다. 권익위는 A 사장이 법인 카드 결제 후 이를 현금화했을 수 있다고 의심했다.&lt;br&gt;&lt;br&gt;A 사장은 도로공사서비스 자금 2000여 만원으로 대리운전 업체와 계약하기도 했는데, 이후 A 사장은 이 업체를 이용해 주말에 대리운전 서비스를 받았다. 명목은 ‘수도권 근무 직원의 주말 근무 격려’였다. 그러나 권익위가 확인해 보니, 실제 차량은 수도권 서부 지역 골프장과 근처 식당, 함께 골프를 친 지인들의 자택 등으로 운행됐다.&lt;br&gt;&lt;br&gt;A 사장은 직원에게 특정 와인 제품을 정기적으로 구매하도록 지시했고, 이를 고급 음식점에서 마셔 놓고는 마치 도로공사서비스를 방문하는 고객을 위해 다과를 구입한 것처럼 서류를 꾸미게 한 것으로도 조사됐다. A 사장이 도로공사서비스 자금으로 사들인 와인은 600여 만원어치에 달했다.&lt;br&gt;&lt;br&gt;A 사장은 지방에 근무하는 직원들을 격려하겠다며 도로공사서비스 자금으로 멸치 선물 세트 85상자 400만원어치를 구매했으나, 해당 직원들은 이 선물 세트를 받은 사실이 없었다.&lt;br&gt;&lt;br&gt;A 사장은 본인이 회장으로 활동하고 있는 향우회의 친목 행사 비용을 도로공사서비스 자금으로 지출하기도 했고, 이 행사 진행에 직원을 동원하기도 했다.&lt;br&gt;&lt;br&gt;유철환 국민권익위원장은 “이번 사건은 공공기관을 사유화하고 그 예산과 인력을 부당하게 유용한 심각한 사례”라며 “유사 사례가 재발하지 않도록 철저한 조사와 엄정한 처벌이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 결핵 외국인 환자 절반이 중국인… 무비자 확대에 방역 구멍 어쩌나</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/09/30/FUMAA6AZZRFBVFT7WSLT372E7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/09/30/FUMAA6AZZRFBVFT7WSLT372E7E/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 08:24:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q3BTGAV6E3UKUSCB7PONQZZ2FQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중국인 단체관광객에 대한 무비자 입국 시행 첫날인 29일 인천국제공항 제1터미널 입국장으로 중국인 관광객들이 입국하고 있다. 국회 보건복지위원회 소속 김미애 의원(국민의힘)은 질병관리청에서 제출받은 자료를 바탕으로 "지난 5년간 외국인의 결핵 등 감염병 비중이 늘어나고 있다"며 "입국 단계부터 검진을 강화해야 한다"고 밝혔다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국의 무비자 관광 확대 등 외국인 관광객의 유입이 본격 늘어나는 가운데, 국내 주요 감염병의 외국인 환자 비율이 늘어나고 있는 것으로 나타났다. 외국인을 대상으로 한 검진 강화와 질병별 관리 대책이 필요하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;30일 국회 보건복지위원회 소속 김미애 의원(국민의힘)이 질병관리청으로부터 제출받은 자료에 따르면 국내 결핵 신규환자는 2019년 3만304명에서 지난해 1만7944명으로 40.8% 줄어든 것으로 나타났다. 외국인 환자 역시 같은 기간 1597명에서 1077명으로 줄었지만 전체 환자 중 비중은 5.3%에서 6.0%로 오히려 늘었다.&lt;br&gt;&lt;br&gt;외국인 국적별로는 중국 국적 환자가 가장 많았다. 중국 국적 환자는 2019년 789명(49.4%), 2020년 644명(48.9%), 2021년 584명(47.0%), 2022년 543명(50.7%), 2023년 512명(46.3%), 지난해 501명(46.5%)으로 매년 절반 수준을 유지했다. 올들어서도 8월까지 외국인 환자 721명 중 42.6%(307명)가 중국인이었다. 지난해 기준 중국에 이어 환자가 많은 국가로는 베트남(10%), 태국(7.2%), 인도네시아(6.1%), 네팔(5.0%) 등 순이었다.&lt;br&gt;&lt;br&gt;외국인 환자의 증가세가 큰 감염병은 결핵만이 아니었다. 매독 역시 2019년 5.2%에서 지난해 7.9%로 외국인 환자 비중이 늘었다.&lt;br&gt;&lt;br&gt;매독은 특히 2020년 표본 감시 체계로 전환됐던 것을 국내 확산세가 증가하면서 지난해부터 전수 감시로 바꾼 질병이다. 이 때문에 전수 감시 결과는 2019년과 2024년만 남아있는데 이 기간 사이 국내에서 발생한 환자는 1753명(외국인 92명)에서 2790명(외국인 221명)으로 늘었다.&lt;br&gt;&lt;br&gt;지난해 기준 매독 환자의 국적별 분포는 중국인이 59%로 가장 많았다. 몽골(25%), 태국(19%), 미국(15%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;아울러 인간면역결핍바이러스(HIV)는 내국인 환자의 감소세와 달리 외국인 환자는 늘고 있는 것으로 나타났다. 2019년에서 지난해까지 내국인 환자는 1006명에서 714명으로 29% 줄어들었는데, 같은 기간 외국인 환자는 217명에서 261명으로 20.3% 증가했다. 지난해 기준 HIV 감염 외국인 환자를 국적별로 살펴보면 태국이 37명으로 가장 많았으며, 남아프리카공화국이 27명, 중국이 23명 순이었다. 우즈베키스탄 22명, 러시아 22명, 베트남 18명 등도 뒤를 이었다.&lt;br&gt;&lt;br&gt;김미애 의원은 “결핵의 경우 전체 발생은 줄고 있지만 외국인 환자 비중은 높아지고 있으며, 특히 중국 국적 환자가 절반을 차지하는 심각한 상황”이라며 “입국 단계부터 결핵 검진을 강화하고, 청년층과 수도권 중심의 맞춤형 관리 대책이 시급하다”고 강조했다. 이어 “매독이나 HIV 등도 국적별 맞춤형 대책과 예방 캠페인이 절실하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김태호·서범수도 공판 전 증인신문 불출석… 국민의힘 의원 모두 불응</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/30/7OGZIQW2QNBOZFV3K62ZGHPYBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/7OGZIQW2QNBOZFV3K62ZGHPYBQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 08:24:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EHKWTZ4EAUOZR7QZUOCSM5UBXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울고등검찰청에 마련된 내란 특검팀(특별검사 조은석) 사무실 모습. 2025.9.18/뉴스1 ⓒ News1 김성진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 지도부의 ‘국회 계엄 해제 의결 방해’ 의혹과 관련해 30일 오후 서울남부지법에서 김태호·서범수 의원에 대한 공판 전 증인신문이 예정돼 있었지만, 두 의원 모두 불출석하면서 실제 신문은 진행되지 않았다.&lt;br&gt;&lt;br&gt;이날 오후 2시로 예정됐던 김태호 의원에 대한 증인신문은 김 의원이 불출석 사유서를 제출하면서 기일이 내달 15일 오후 2시로 연기됐다. 같은 날 오후 4시에 진행된 서범수 의원에 대한 증인신문도 서 의원이 출석하지 않으면서 실제 신문이 이뤄지지지 않았다. 재판부는 서 의원의 증인신문 기일을 내달 16일 오후 3시로 다시 지정했다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 두 의원이 12·3 비상계엄 해제 표결 당시 국민의힘 당사와 국회 본회의장 상황을 잘 아는 핵심 참고인이라며 지난 11일 법원에 공판 전 증인신문을 청구한 바 있다. 공판 전 증인신문이란 핵심 참고인이 진술을 거부할 경우 검사가 법원에 요청해 제1회 공판기일 전 증인을 신문하는 절차다.&lt;br&gt;&lt;br&gt;특검은 한동훈 전 국민의힘 대표, 김희정 의원 등에도 공판 전 증인신문을 청구했지만, 증인들이 모두 불출석하면서 진술을 확보하지 못했다. 추 전 원내대표 측은 특검의 증인신문 청구가 부당하다며 재판부에 증인신문 결정 취소를 신청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>글로벌 엔터기업 ‘라이브네이션’, K-컬처밸리 개발 본격 참여</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/30/I5F7QI6HIFEUVNEJKOOQQJBEPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/30/I5F7QI6HIFEUVNEJKOOQQJBEPA/</guid>
+      <dc:creator>고양=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Sep 2025 08:27:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECZMD4MKJNJ2D5K53X6M74TVEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도가 추진 중인 ‘K-컬처밸리 복합개발사업’에 미국 공연 기획사 라이브네이션이 최종 제안서를 제출했다.&lt;br&gt;&lt;br&gt;30일 경기도와 경기주택도시공사(GH)에 따르면, 지난 6월 참가 의향서를 낸 4개 기업 중 라이브네이션 엔터테인먼트와 자회사 라이브네이션코리아로 구성된 컨소시엄만이 최종 제안서를 제출했다. &lt;br&gt;&lt;br&gt;라이브네이션은 콜드플레이·U2·오아시스 등 세계적인 아티스트 투어를 기획해 온 글로벌 공연 기획사로, 국내 자회사는 K팝 아티스트의 해외 투어 매니지먼트 경험을 갖고 있다.&lt;br&gt;&lt;br&gt;GH는 도시·건축·문화 콘텐츠 등 12명으로 평가위원회를 구성해 10월 말 제안서 심사에 들어간다. 평가 항목은 ▲개발 계획(300점) ▲사업 수행 능력(470점) ▲운영 관리 계획(230점)으로, 최고점과 최저점을 제외한 평균점으로 최종 점수를 산정한다. &lt;br&gt;&lt;br&gt;경기도는 평가 결과를 토대로 10월 말 우선협상대상자를 선정하고, 내년 2월까지 기본 협약을 체결할 계획이다. 공사는 내년 5월 재개돼 2029년 말 준공을 목표로 한다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “세계적 공연 기획사인 라이브네이션의 참여는 K컬처밸리의 글로벌 경쟁력 강화에 의미가 크다”며 “GTX-A 개통으로 접근성이 향상된 만큼, K컬처밸리를 세계적인 공연·문화 허브로 키워가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>증명서 떼려다 16년 만에 잡힌 살인미수범… 1심 징역 10년</title>
+      <link>https://www.chosun.com/national/national_general/2025/09/26/LHD7JY6VGVF5LPYCKPQLWGSIYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/26/LHD7JY6VGVF5LPYCKPQLWGSIYA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 26 Sep 2025 07:12:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V5N4COIZIRBHBB5D4MUDKS7OYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 구로경찰서 민원실을 찾아갔다가 붙잡힌 A씨(왼쪽). /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;증명서를 떼려 경찰서를 제 발로 찾았다가 도주 16년 만에 체포된 살인미수범에게 1심 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사합의11부(부장판사 김우현)는 살인미수 혐의로 구속 기소된 이모(70)씨에게 징역 10년을 선고했다고 26일 밝혔다. 이씨는 2009년 10월 서울 은평구에서 경쟁 관계인 이웃 노래방 업주를 살해하기 위해 불붙은 시너를 담은 깡통과 둔기를 들고 찾아갔다가, 자신을 제지한 노래방 직원 김모씨 얼굴에 깡통을 던져 온몸에 화상을 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 경찰은 범행 직후 달아난 이씨를 검거하지 못했고 사건은 16년간 미제로 남았다. 그러던 지난 3월 이씨는 운전경력증명서를 떼러 구로경찰서 민원실을 스스로 찾았고, 이때 신원을 확인한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;재판부는 “피해자 김씨는 지금까지도 큰 고통을 안고 살아가고 있다”며 “그럼에도 피고인은 범행 후 도주하고 도피 생활을 지속해 피해자들을 고통과 불안에 시달리게 했다”고 했다. 이어 “김씨와는 뒤늦게 합의했다 하더라도 상당한 중형을 선고하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이씨는 범행 당시 김씨를 보지 못한 채 불붙은 시너 깡통을 노래방에 던졌을 뿐이라 살인의 고의가 없었다고 주장했으나, 재판부는 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“한국산 물뽕, 미국·호주로 밀수출”…원료 8t 첫 적발</title>
       <link>https://www.chosun.com/national/incident/2025/09/30/G5NFHJRJP5AXFMY5GVVPI7SLAQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/09/30/G5NFHJRJP5AXFMY5GVVPI7SLAQ/</guid>
@@ -733,28 +841,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4FAWC43RNAXXOLISUIVMKMOCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운문화재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재단법인 고운문화재단(이사장 이인수·가운데)은 제33회 고운문화상 수상자로 경상북도 119산불특수대응단을 선정하고 지난 25일 시상식을 열었다. 올해 33회째를 맞이한 고운문화상은 수원대·수원과학대 설립자인 고운 이종욱(1921~2009) 박사가 국가 사회 발전에 이바지한 사람들의 공적을 기리기 위해 만든 상이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경주 찾는 유키 구라모토… “韓 팬들 덕에 한 세대 넘게 공연”</title>
-      <link>https://www.chosun.com/national/people/2025/09/30/CNXKMN7U7VGATHIX7QJMCI67SE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/CNXKMN7U7VGATHIX7QJMCI67SE/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FPY6GGJ2ZGKJBYP7GAA5S4DSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 피아니스트 유키 구라모토(74)가 경주 아시아태평양경제협력체(APEC) 정상 회의를 한 달 앞두고 한국을 찾아 사전 행사 무대에 선다. 한국에서 가장 인기 있는 뉴에이지 연주자인 그는 1999년 첫 내한 공연 이후 매년 한국을 찾고 있다. 서울·지방을 돌며 100회가 넘는 연주회를 했는데 매번 티켓이 동난다. 그는 29일 본지 서면 인터뷰에서 “한일 수교 60주년을 맞아 내 음악이 양국 교류에 작은 힘이 될 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;유키 구라모토는 내달 1일 경북 경주 불국사 청운교·백운교 앞마당에서 열리는 ‘불국사 선(禪)명상 음악회’에 참석한다. 경북문화관광공사는 “이번 음악회에는 APEC 회원국 외교 사절과 국내외 유학생 등이 다양하게 참석할 예정”이라고 했다. 행사 총괄을 맡은 진영우 들숨날숨문화원 감독은 “구라모토에게 한국 방문을 제안했더니 ‘한국에 대한 애정과 감사의 마음이 크다’며 흔쾌히 수락했다”고 했다.&lt;br&gt;&lt;br&gt;유키 구라모토는 이번 행사에서 플루트나 첼로 등 다른 악기와의 협연 없이 솔로로만 연주하기로 했다. 구라모토는 본지 인터뷰에서 “이번 음악회의 주제인 ‘명상·안식’에 맞고 지금껏 많은 사랑을 받아온 곡들로 엄선했다”며 “피아노 한 대로만 연주하는 공연으로 관객들이 조용하고 평온한 시간을 보낼 수 있길 바란다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQPNU3IG7ZBNTFBRHFIFEOVM34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유키 구라모토는 도쿄공업대학에서 응용물리학을 전공했다. 연주자로 데뷔하기 전 작곡가와 편곡가로 더 활발하게 활동했다. 로키산맥에 있는 호수 중 가장 아름답다는 평가를 받는 레이크 루이스를 방문한 뒤 절경에 반해 작곡한 동명의 피아노곡 ‘레이크 루이스’로 큰 인기를 끌었다. 차분한 멜로디, 잔잔한 피아노 선율이 한국인들의 귀까지 사로잡았다. 그가 작곡한 곡들이 한국의 유명 드라마·영화에서 사용됐다. 지난 2021년엔 전북 김제의 한 시골 마을에서 길거리 라이브를 했는데, 이 영상은 유튜브에서 조회 수가 220만이 넘었다. 일본 예능에서도 ‘일본보다 한국에서 더 유명한 음악가’로 소개된다.&lt;br&gt;&lt;br&gt;유키 구라모토는 “잔잔하고 명상적이면서도 마음의 투명함과 청량감을 자아내는 곡들을 연주하기 위해 노력하고 있다”며 “(이번 행사에서도) 명상뿐 아니라 인간의 본질적인 감정인 로맨스, 자연이 가진 아름다움을 표현한 곡도 선보일 예정”이라고 했다. 이어 “한국 팬들에게 ‘아, 그 친근하고 아름다운 피아노곡을 만든 사람’으로 오래 기억되고 싶다”며 “멈추지 않고 새로운 곡을 써나가는 음악가로 남겠다”고 했다. 그는 올해 12월에도 전국 순회 공연을 할 예정이다. &lt;br&gt;&lt;br&gt;유키 구라모토는 한국을 찾으면 꼭 전자 사전과 녹음기를 가지고 다닌다. 전자 사전으로 헷갈리는 한국어 단어를 찾아서 확인한다. 녹음기로도 통역사가 녹음해 준 문장을 반복해서 듣고 따라 하면서 연습한다. 구라모토는 “내 음악의 좋은 부분을 포용해 준 한국 대중 덕분에 한 세대를 넘는 긴 세월 동안 한국에서 공연을 이어올 수 있었다”며 “체력이 닿는 한 계속 무대에 오르고 싶다. 언젠가는 관객들의 응원이 더 간절해질지도 모른다”고 했다.&lt;br&gt;&lt;br&gt;이번 APEC 사전 행사에는 구라모토 외에 명상음악가 홍순지, 기타리스트 박규희, 핸드팬 연주자 주미란과 어스(Earth)밴드, 해금 연주자 강은일, 정가 보컬리스트 하윤주 등도 무대에 오른다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JIDLQAXTILPDTLLAPKCUC2VNGQ.png?auth=e5d0d775e82480d55180269376b05411af5c51838adcc0a2c55a24246668de91&amp;smart=true&amp;width=600&amp;height=400" type="image/png" height="400" width="600">
-        <media:description type="plain">유키 구라모토는 1986년 첫 피아노 솔로 앨범 'Lake Misty Blue’로 데뷔했다. 드라마 '겨울연가'와 '가을동화', 영화 '달콤한 인생' 등의 배경음악으로 널리 알려졌다.</media:description>
-        <media:credit role="author" scheme="urn:ebu">사진=남강호 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>박정보 서울경찰청장 취임</title>
-      <link>https://www.chosun.com/national/people/2025/09/30/XAGAUTD4WJHF5LG4SNGN5BPCC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/XAGAUTD4WJHF5LG4SNGN5BPCC4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTS7T6MHA5DXVEDIMGA4F4PRCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박정보(57) 서울경찰청장이 29일 취임했다. 서울경찰청장은 1000만 서울 시민 안전을 책임지고 3만2000여 명의 서울 경찰을 지휘하는 자리다. 1994년 경위 공채(간부후보 42기)로 경찰 생활을 시작한 박 신임 서울청장은 경찰청 특수수사과장과 서울청 사이버안전과장·수사차장, 전남청장 등을 지냈다. 직전에는 경찰인재개발원장을 역임했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박유하 한국출판공로상 특별공로상</title>
       <link>https://www.chosun.com/national/people/2025/09/30/PTT4WCV3OZELZF2OPB3IM46LCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/PTT4WCV3OZELZF2OPB3IM46LCU/</guid>
@@ -780,69 +866,6 @@
       <description/>
       <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;배유현&lt;/b&gt; 前 스포츠조선 창립위원회 기자 별세, &lt;b&gt;배정은&lt;/b&gt; 다나허 인사팀 차장·&lt;b&gt;배정미&lt;/b&gt; 공인노무사·&lt;b&gt;배준호&lt;/b&gt; 인하대병원 내과의사 부친상=28일21시51분 인천 인하대병원, 발인 1일9시30분, (032)890-3180&lt;br&gt;&lt;br&gt;▲&lt;b&gt;장석형&lt;/b&gt; 6·25 참전 유공자 별세, &lt;b&gt;박정선&lt;/b&gt; 남편상, &lt;b&gt;장순옥&lt;/b&gt;·&lt;b&gt;장순희&lt;/b&gt;·&lt;b&gt;장병권&lt;/b&gt;·&lt;b&gt;장병구&lt;/b&gt;·&lt;b&gt;장병일&lt;/b&gt; 중도일보 논산 주재기자 부친상=29일8시46분 충남 논산 놀뫼장례식장, 발인 1일8시, (041)733-0404&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조희욱&lt;/b&gt; 前 국회의원 별세, &lt;b&gt;전명희&lt;/b&gt; 남편상, &lt;b&gt;조동호 &lt;/b&gt;MG테크 前 대표·&lt;b&gt;조상균&lt;/b&gt; 부친상, &lt;b&gt;박세은&lt;/b&gt;·&lt;b&gt;한송희&lt;/b&gt; 시부상=28일12시 서울아산병원, 발인 30일10시20분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최양묵&lt;/b&gt; 前 MBC프로덕션 사장 별세, &lt;b&gt;정상자&lt;/b&gt; 남편상, &lt;b&gt;최승리 &lt;/b&gt;네이버 디자인부 직원·&lt;b&gt;최영리&lt;/b&gt; 울산과학기술원 컴퓨터공학과 교수·&lt;b&gt;최의리&lt;/b&gt; 삼양식품 상무 부친상, &lt;b&gt;허재혁 &lt;/b&gt;카이스트 전산학부 교수 장인상=28일18시30분 삼성서울병원, 발인 1일8시, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 밤하늘 수놓는 불꽃, 원소 속 전자가 만드는 빛이에요</title>
-      <link>https://www.chosun.com/national/nie/2025/09/30/PAUBSXRB4ZGCXPOLERMDXAO4ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/30/PAUBSXRB4ZGCXPOLERMDXAO4ZM/</guid>
-      <dc:creator>이동훈 작가·'대충 봐도 머리에 남는 어린이 원소 상식' 저자, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:40:00 +0000</pubDate>
-      <content:encoded>가을이 깊어가는 무렵, 서울의 밤하늘은 특별한 무대로 변합니다. 지난 27일, 여의도 한강공원 일대에선 ‘2025 서울세계불꽃축제’가 열렸는데요. 우리나라를 비롯해 이탈리아와 캐나다의 불꽃팀이 참가해 밤하늘을 예쁜 불빛으로 수놓았답니다.&lt;br&gt;&lt;br&gt;까만 하늘 위로 붉은 꽃, 노란 별, 파란 파도처럼 생긴 불꽃들이 차례차례 터져 나오면, 가슴이 두근두근 뛰고 귀를 울리는 “펑!” 소리에 온몸이 짜릿해집니다. 그런데 이렇게 눈부신 쇼 뒤에는 우리가 잘 모르는 원소의 비밀이 숨어 있었다는 사실, 알고 있었나요? 오늘은 불꽃놀이에 담긴 원소 이야기를 알아보도록 하겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;원소와 원자, 그리고 전자&lt;/b&gt;&lt;br&gt;&lt;br&gt;세상에 있는 모든 것은 원소라는 기본 재료로 이루어져 있어요. 물을 만드는 수소(H)와 산소(O), 우리가 숨 쉬는 공기의 질소(N), 자동차를 만드는 철(Fe) 모두 원소입니다. 우리가 매일 만지는 책상, 먹는 음식, 심지어 오늘의 주제인 불꽃놀이도 바로 원소에서 비롯된답니다.&lt;br&gt;&lt;br&gt;원소는 눈에 보이지 않을 만큼 작은 원자라는 알갱이로 이루어져 있어요. 원자를 더 자세히 들여다보면, 가운데에는 무겁고 단단한 원자핵이 있고, 그 주위를 전자라는 아주 가벼운 입자들이 둘러싸고 있지요.&lt;br&gt;&lt;br&gt;이 전자들은 아무렇게나 움직이지 않습니다. 정해진 자리 안에서만 움직일 수 있어요. 마치 학생들이 자기 반 교실에서만 수업을 듣는 것과 같지요. 이 자리를 과학에서는 전자 궤도 또는 ‘오비탈’이라고 설명합니다. 이는 마치 하늘에 떠 있는 구름과도 비슷하답니다. 구름이 뭉게뭉게 모여 있듯, 전자도 원자핵을 중심으로 특정한 자리에서만 머물 수 있는 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UYGATSKTNVCVXGLMU6RFOAVP34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;색을 내는 전자의 비밀&lt;/b&gt;&lt;br&gt;&lt;br&gt;그렇다면 원소들은 어떻게 색을 낼 수 있을까요? 그 비밀은 바로 전자에 숨어 있답니다. 폭죽 속 화약이 터질 때, 폭죽 안에 있는 원소들은 뜨거운 열을 받게 돼요. 그러면 원자 속 전자들이 열 에너지를 얻어 원래 있던 자리보다 바깥쪽, 즉 핵에서 더 멀리 떨어진 자리로 잠시 들떠 올라갑니다.&lt;br&gt;&lt;br&gt;하지만 전자는 계속 높은 자리에 머물지 않고, 곧 다시 원래 자리로 돌아오게 되지요. 이때 남는 열에너지가 바로 빛 형태로 방출돼 우리 눈에 보이게 되는 것입니다. &lt;br&gt;&lt;br&gt;이러한 과정을 이해하기 쉽게 계단에 비유할 수 있어요. 우리가 낮은 계단에 서 있다가 높은 계단으로 잠시 올라갔다가 다시 내려오면 “쿵!” 하고 발자국 소리가 나지요? 전자도 똑같답니다. 계단에 올랐다가 내려오면서 빛이라는 발자국 소리를 남기는 거예요. 우리가 보는 불꽃놀이의 색깔은 전자가 제자리로 돌아오면서 내놓은 ‘빛의 무늬’인 셈이에요. &lt;br&gt;&lt;br&gt;그럼 왜 원소마다 다른 색이 나오는 걸까요? 원소마다 정해진 전자의 자리가 다르기 때문입니다. 어떤 원소는 전자가 오르내리는 자리 간격이 커서 “쿵” 소리를 크게 내고, 어떤 원소는 간격이 좁아 작은 소리를 내지요. 간격이 큰 원소는 푸른빛·보라빛 같은 차가운 빛을, 간격이 작은 원소는 붉은빛·노란빛 같은 따뜻한 빛을 냅니다. &lt;br&gt;&lt;br&gt;이처럼 서로 다른 원소의 성질을 이용해 즐기는 불꽃놀이는 원하는 색을 표현하기 위해 폭죽에 특별한 원소를 넣어요. 예를 들어 빨간 불꽃을 만들고 싶다면 스트론튬(Sr)이나 리튬(Li)을, 노란 불꽃은 나트륨(Na)을, 초록 불꽃은 바륨(Ba)을, 보라색 불꽃은 칼륨(K)을, 그리고 또 하얗게 반짝이는 불꽃은 마그네슘(Mg) 등을 사용하지요.&lt;br&gt;&lt;br&gt;게다가 폭죽은 한 가지 색에 그치지 않고, 마치 화가가 물감을 섞듯 서로 다른 원소들을 조합해 새로운 빛깔을 만들어냅니다. 원소들이 하나하나 섞여 밤하늘에 알록달록한 불꽃을 만들어 내는 것이지요. &lt;br&gt;&lt;br&gt;&lt;b&gt;폭죽의 소리와 모양, 어떻게 만들어질까?&lt;/b&gt;&lt;br&gt;&lt;br&gt;하늘을 가득 메우는 ‘펑!’ 소리와 다양한 불꽃의 모양에도 과학적 원리가 숨어있답니다. 폭죽의 폭발 소리는 화약이 순식간에 타면서 엄청난 양의 가스를 만들어 내고, 이 가스가 주변의 공기를 밀어내며 커다란 압력의 충격파를 일으키기 때문에 나는 거예요. 작은 폭죽은 화약의 양이 적어 발생하는 가스도 적기 때문에, 가볍게 ‘팡팡’ 하며 터져요. 반대로 화약이 많이 들어 있는 큰 폭죽은 ‘쾅’ 하며 크게 울리지요.&lt;br&gt;&lt;br&gt;모양은 더욱 신기합니다. 폭죽 속에는 불꽃이 터질 때 함께 날아가는 작은 알갱이들이 들어 있는데, 이 알갱이들이 어떤 모양으로 배열되느냐에 따라 하늘에 펼쳐지는 불꽃의 모습이 달라집니다. 동그랗게 배열하면 원형 불꽃, 별 모양으로 배열하면 반짝이는 별 불꽃이 터져 나오지요. 하늘을 수놓는 하나하나의 불꽃 뒤에는 원소의 성질, 압력과 소리의 원리, 그리고 세심한 배열 기술이 숨어 있는 것이지요.&lt;br&gt;&lt;br&gt;&lt;b&gt;불꽃놀이도 안전이 우선&lt;/b&gt;&lt;br&gt;&lt;br&gt;불꽃놀이는 안전하게 즐기는 것이 가장 중요해요. 불꽃에 가까이 다가가면 뜨거운 불씨가 튀어 화상을 입을 수 있고, 큰 폭죽은 예상치 못한 방향으로 날아갈 수도 있답니다. 그래서 불꽃놀이는 전문가들이 정한 관람 구역에서 보는 것이 가장 안전하지요.&lt;br&gt;&lt;br&gt;또, 불꽃이 타면서 나오는 연기엔 금속 원소가 연소하면서 만들어지는 미세 먼지도 섞여 있을 수 있답니다. 이 입자들은 호흡기에 좋지 않은 영향을 줄 수 있으니, 가까이에서 오래 흡입하지 않도록 조심하는 게 좋아요. 그래서 요즘에는 환경을 덜 해치는 새로운 폭죽을 연구하거나, 소리를 줄이고 연기도 적게 나는 불꽃놀이를 개발하려는 노력도 계속되고 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [과학과 미래] “인간 지능 뛰어넘는 컴퓨터 등장할 것” 20년 전 미래학자의 예언, 현실 됐죠</title>
-      <link>https://www.chosun.com/national/nie/2025/09/30/TWARFAETUJCURPID7SCVAPO3LU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/30/TWARFAETUJCURPID7SCVAPO3LU/</guid>
-      <dc:creator>안광복 중동고 철학 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:40:00 +0000</pubDate>
-      <content:encoded>‘무어의 법칙’이란 말을 들어봤나요? 미국 반도체 기업 인텔의 공동 설립자 ‘고든 무어’의 이름에서 따온 건데요, 오늘날 컴퓨터의 성능이 약 2년마다 2배씩 좋아지고 있다는 뜻이랍니다. 그래서 10년이면 이전보다 수십 배나 뛰어난 능력을 갖춘 컴퓨터가 나온다는 거죠.&lt;br&gt;&lt;br&gt;이를 바탕으로 미국의 미래학자 레이먼드 커즈와일은 2005년 자신의 책 ‘특이점이 온다’에서 이렇게 예언했어요. 2020년대가 되면 인간을 뛰어넘는 컴퓨터가 등장한다고 말이죠. 지금 ‘챗GPT’ 같은 생성형 AI(인공지능)가 웬만한 전문가만큼 결과물을 내놓는 모습을 보면 그의 말이 들어맞은 듯싶네요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIDJE65KQZGGFCUVA7ACBS3SEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여기서 특이점(singularity)이란 사람보다 더 똑똑한 지능을 가진 존재가 세상에 등장하는 순간을 뜻해요. 그때부터는 기계가 사람을 넘어 스스로 발전하기 시작한다는 거예요. 사실 지금도 인공지능은 스스로 프로그램을 짜고, 오류를 잡아내는 일까지 하고 있답니다. 그렇다면 언젠가 사람의 도움 없이도 알아서 발전하는 날이 올 수 있겠지요.&lt;br&gt;&lt;br&gt;커즈와일은 좀 더 대담한 주장을 내놓는데요. 그에 따르면 우주의 발전 과정은 크게 다섯 단계로 나뉩니다. 첫째는 원자와 분자가 세상을 지배하는 단계로, 물리학과 화학의 세계입니다. 둘째는 DNA 속의 정보가 진화를 이끄는 단계로, 생물학이 여기에 해당합니다. 셋째는 인간의 뇌와 신경이 중심이 되는 단계이고, 넷째에서는 컴퓨터 하드웨어와 소프트웨어가 중심이 되어 정보가 폭발적으로 발전합니다. 마지막 다섯째 단계에서는 특이점이 나타나면서 사람을 훨씬 뛰어넘는 지능을 가진 존재가 등장하지요. 커즈와일은 이때 인공지능이 우주로 뻗어나가 세상 자체를 바꿀 것이라고 내다봤습니다. 원자 구조를 바꾸고 물리 법칙마저 자유자재로 다루는 수준에 이를 수 있다는 것이지요.&lt;br&gt;&lt;br&gt;또 커즈와일은 ‘GNR’이라는 세 가지 분야의 발전을 주목했습니다. G는 유전학(Genetics), N은 나노공학(Nanotechnology), R은 로봇공학(Robotics)과 인공지능(AI)을 뜻합니다. 유전학은 유전자를 바꾸어 생명을 새롭게 만들 수 있고, 나노공학은 원자와 분자를 다시 조립해 새로운 물질을 만들 수 있습니다. 로봇공학과 인공지능은 사람보다 훨씬 빠르고 정확하게 일을 해내지요. 이런 기술이 합쳐지면 병을 고치고, 원하는 물건을 쉽게 만들고, 힘든 일은 로봇이 대신하는 세상이 올 수 있다는 게 그의 주장입니다. 심지어 인간의 정신을 뇌에서 꺼내 컴퓨터로 옮겨, 육체 없이 기계 속에서 영원히 살아갈 수 있다고까지 말했지요.&lt;br&gt;&lt;br&gt;하지만 이런 세상이 과연 바람직할까요? 지금도 유전자를 조작해 인간의 지능이나 신체 능력을 바꾸는 문제를 놓고 논란이 끊이지 않습니다. 또 기계가 모든 일을 대신하는 세상에서, 필요가 없어진 인간은 무엇을 하며 살아야 할까요? 앞으론 이런 문제에 대해 더 많이 고민해야 합니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] I stand corrected.</title>
-      <link>https://www.chosun.com/national/nie/english/2025/09/30/E5CMUNGY25GAXDDBF4UK6WICMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/09/30/E5CMUNGY25GAXDDBF4UK6WICMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X67TLBGSEFG7FLX5KCQVJPAHAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 침수되다, 물에 잠기다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/09/30/2FDQCVJKZ5CB5ACUG5M73T3IJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/09/30/2FDQCVJKZ5CB5ACUG5M73T3IJY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JK6HQQD33JFZTAFQG7QTJTEEKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 육퇴(育退)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/09/30/IEKGNYXMGFFSHEZPDGAVAZODXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/09/30/IEKGNYXMGFFSHEZPDGAVAZODXU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W34V3BO4QBADNNMF5LCNF4DNJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2716] 쿵작쿵작 장단 치기</title>
-      <link>https://www.chosun.com/national/nie/2025/09/30/KWPJV2VNAFBF7IPDRK3Z2CFK6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/09/30/KWPJV2VNAFBF7IPDRK3Z2CFK6A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VPXMGMVX3BCIBNDWURQMOROX3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 유통기한</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/09/30/KVB6ZWOV5JB7XFH4QFAI7GXZGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/09/30/KVB6ZWOV5JB7XFH4QFAI7GXZGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FW7LH7NR3ZFZ7LV73VE36WQURQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 9월 30일</title>
@@ -872,15 +895,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFUNDCLAGPCP6YLR4G37O4EKMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;군산경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산에서 초등학생을 유인해 끌고 가려고 한 혐의를 받는 20대 남성의 구속영장이 법원에서 기각됐다.&lt;br&gt;&lt;br&gt;29일 군산경찰서에 따르면, 이날 오후 전주지법 군산지원은 미성년자 약취·유인 미수 혐의로 경찰이 신청한 A씨 구속영장을 “전과 및 도주 우려가 없다”는 이유로 기각했다. &lt;br&gt;&lt;br&gt;A씨는 지난 29일 오전 3시쯤 군산시 소룡동 주택가에서 초등학생 B(11)양의 어깨를 만지며 “같이 놀자”고 말하는 등 B양을 유인하려 한 혐의를 받는다. A씨는 B양이 강하게 거절하고 주변 편의점에 들어가 경찰에 신고하자 도주했다. &lt;br&gt;&lt;br&gt;경찰은 범행 현장 인근 방범 카메라(CCTV) 등을 분석해 A씨 신원을 파악하고 A씨 거주지에서 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “별다른 의도는 없었다”는 취지로 진술했다고 한다. 경찰은 B양이 새벽에 혼자 거리에 있었던 경위도 조사하고 있는데, 현재까진 가정환경에선 특이 사항이 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한편, 국회 행정안전위원회 소속 위성곤 더불어민주당 의원이 경찰청에서 제출받은 자료에 따르면 올해 1~8월 전국에서 만 18세 이하를 상대로 벌어진 약취·유인 사건은 총 173건으로 집계됐다. 미수에 그친 사건도 75건이나 됐다. 지난 8월까지 일어난 전체 유괴·유괴 미수 사건(318건)에서 피해자가 미성년자인 비율은 77.9%에 달했다. &lt;br&gt;&lt;br&gt;유괴·유괴 미수 사건 증가세에도 피의자가 구속되는 사례는 오히려 줄고 있다. 2020년 5.6%에 불과했던 유괴·유괴 미수 혐의 피의자 구속영장 기각률은 차츰 높아지다 지난해엔 30.0％로 올랐다. 경찰이 도주 우려나 증거 인멸의 우려가 있어 구속이 필요하다고 판단했더라도 10명 중 3명은 구속을 피한 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘정교유착 의혹’ 한학자 통일교 총재, 법원에 구속적부심 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/29/6OQ44L65IBEZBOG4Y74AUOHNB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/29/6OQ44L65IBEZBOG4Y74AUOHNB4/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 13:26:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SI5WH6WWDFXZUHDZBRVPDBXVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재가 22일 서울 서초구 중앙지방법원에서 윤석열 전 대통령 부부에게 통일교 현안을 청탁했다는 의혹과 관련 구속 전 피의자 심문(영장실질심사)을 마친 뒤 대기 장소인 서울구치소로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22일 구속된 한학자 통일교 총재가 구속 결정이 부당하다며 법원에 구속적부심사를 청구한 것으로 29일 알려졌다. 법원은 청구서가 접수되면 48시간 이내에 석방 또는 기각 결정을 해야 한다.&lt;br&gt;&lt;br&gt;법조계에 따르면 한 총재 측은 이날 서울중앙지법에 구속적부심 청구서를 접수한 것으로 전해졌다. 앞서 김건희 여사의 각종 의혹을 조사하는 민중기 특별검사팀은 지난 18일 한 총재에 대한 구속영장을 청구했다. 그로부터 나흘 뒤인 22일, 법원은 영장실질심사를 거쳐 “증거를 인멸할 염려가 있다”며 한 총재에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;한 총재는 2022년 4∼7월 통일교 전 세계본부장 윤영호씨와 ‘건진 법사’ 전성배씨를 통해 김 여사에게 통일교 현안 청탁과 함께 그라프 목걸이와 샤넬백 등 8000만원 상당의 금품을 건넨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;또한 한 총재는 그해 1월 권성동 국민의힘 의원에게 정치자금 1억원을 전달하고, 대선을 앞두고 통일교 자금으로 국민의힘 광역시도당 등에 2억1000만원을 기부한 혐의도 받는다. 자신의 원정 도박 의혹에 대한 경찰 수사에 대비해 윤씨에게 증거 인멸을 지시한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 진행된 영장실질심사에서도 건강상 이유를 들어 불구속 필요성을 주장한 한 총재 측은 구속적부심사에서도 비슷한 주장을 할 것으로 보인다.&lt;br&gt;&lt;br&gt;한편 이날 특검은 한 총재와 권 의원을 각각 소환해 조사했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“화재 신고 3시간 뒤 전원 차단” 소방 보고…껐다던 배터리 켜져 있었나</title>
       <link>https://www.chosun.com/national/national_general/2025/09/29/VAGH5PHHFBC7HDYBLDN33FNXU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/29/VAGH5PHHFBC7HDYBLDN33FNXU4/</guid>
@@ -888,24 +902,6 @@
       <description/>
       <pubDate>Mon, 29 Sep 2025 13:17:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7L74HFADMHWAICPVDH7ZANRAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 대전 국가정보자원관리원 화재 3일차 합동감식이 시작된 가운데, 감식반이 화재 현장에서 반출한 리튬이온 배터리를 운반하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26일 밤 국가정보자원관리원(정보자원관리원) 대전 본원에서 리튬이온 배터리를 옮기던 중 화재가 발생한 가운데, 배터리 전원이 화재 신고 이후에도 3시간가량 켜져 있었을 가능성이 됐다.&lt;br&gt;&lt;br&gt;국회 행정안전위원회 소속 윤건영 민주당 의원이 29일 소방청에서 제출받은 ‘화재 상황 보고서’에 따르면, 배터리 전원은 오후 11시 2분에 차단됐다. 화재 신고가 처음 접수된 지 2시간 42분이 지난 시점이다.&lt;br&gt;&lt;br&gt;이 때문에 배터리 전원이 켜진 상태에서 작업자들이 배터리를 옮기다가 불이 난 것 아니냐는 의혹도 나온다. 앞서 행정안전부와 정보자원관리원이 “작업자가 배터리 전원을 끄고 작업하던 중 알 수 없는 이유로 배터리에서 불꽃이 튀었다”고 설명했었다.&lt;br&gt;&lt;br&gt;이번 화재로 리튬이온 배터리 팩 384개가 전소됐고, 배터리 주변 전산 장비 740대가 손상됐다.&lt;br&gt;&lt;br&gt;화재 원인을 수사 중인 경찰은 “모든 가능성을 열어놓고 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>양산 아파트서 흉기 찔린 아내 위독…남편은 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/2025/08/26/QCG7YLRHWRCRLBKZJC2H2TS4OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/08/26/QCG7YLRHWRCRLBKZJC2H2TS4OY/</guid>
-      <dc:creator>양산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 26 Aug 2025 02:24:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 양산에서 부부 싸움 중 아내를 흉기로 찌른 남편이 아파트 화단에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;26일 양산경찰서 등에 따르면 이날 오전 0시15분쯤 양산시 물금읍 한 아파트 화단에서 남성 A(40대)씨가 숨진 채 발견됐다. 경찰은 2분 전 “집에 와달라. 사건이 있다”라는 A씨의 112신고를 받고 현장에 출동했다.&lt;br&gt;&lt;br&gt;A씨 거주지인 아파트 안에서는 흉기에 찔려 쓰러져 있는 A씨 아내 B(30대)씨가 발견됐다. B씨는 병원으로 옮겨져 치료를 받고 있지만, 생명이 위독한 상태라고 한다.&lt;br&gt;&lt;br&gt;경찰은 자택에서 부부 싸움 중 A씨가 B씨를 흉기로 찌른 것으로 보고, 이웃 등 주변인을 통해 정확한 사건 경위를 조사하고 있다. 현재까지 A·B씨 부부의 가정폭력 신고 등 범죄 이력은 없었던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김신영, 故전유성 곁 지키느라 7일 만에 라디오 복귀 “제자 도리 했다”</title>
-      <link>https://www.chosun.com/national/people/2025/09/29/IVTK66IXHBAPNBEPSWRAMEPVM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/29/IVTK66IXHBAPNBEPSWRAMEPVM4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 12:45:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VSRKIIKUJBWRGC7AY5SVSFEDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 김신영이 스승 고(故) 전유성의 품에 안겨 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 김신영이 스승인 고(故) 전유성의 장례식을 치른 뒤 7일 만에 라디오 DJ로 복귀했다. &lt;br&gt;&lt;br&gt;29일 김신영은 일주일 동안 자리를 비웠던 MBC 라디오 ‘정오의 희망곡 김신영입니다’에서 “딸과 북극성에 관한 책을 읽었는데 참 멋진 별인 것 같다. 북극성은 언제나 같은 자리에서 빛나면서 어두운 곳에서 헤매는 사람들에게 나침반 역할을 해준다. 바다의 등대 같은 것”이라는 청취자 사연을 읽었다.&lt;br&gt;&lt;br&gt;김신영은 “우리 인생에도 길을 잃거나 방황할 때 길잡이가 돼주는 소중한 이를 만나는 게 큰 복이다. 진심으로 감사한 마음 전한다”며 “우리네 인생에서 등불 같은 사람을 만날 확률이 얼마나 될까? 정말 어른은 있는 걸까? 그런 생각을 할 때가 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AFBVVI6V3FIC7D3YV7OVIQV7NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;28일 서울 송파구 서울아산병원 장례식장에서 엄수된 개그맨 전유성의 영결식에서 후배 코미디언 김신영이 추도사를 낭독하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “일주일 전 갑작스럽게 자리를 비웠다. 이유를 말하고 싶지 않았다. 너무 개인적인 일이라. 갑자기 자리를 비워서 죄송하다고 말하고 싶었다”며 제작진과 자신의 자리를 대신한 가수 나비 등에게 고마움을 전했다. &lt;br&gt;&lt;br&gt;특히 전유성이 입원했던 전북대학교의 24병동 3교대 간호사들에게 “굉장히 감사하다”며 “여러분 덕분에 제자로서 할 도리를 했다. 교수님은 떠났지만 교수님이 남겨준 코미디에 대한 철학, 개그에 대한 이야기는 계속 살아 숨 쉴 것”이라고 했다.&lt;br&gt;&lt;br&gt;김신영은 전유성과 사제지간이었다. 전유성은 예원예술대학교 코미디학과 교수로 재직하면서 조세호·김신영 등 수많은 후배를 가르친 바 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AYCA5J2N2MZRHRB5QELNAM6NUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김신영이 장례식장에서 검은 옷을 입은 채 영정 앞에서 하트를 그리고 환히 웃고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김신영은 지난 22일부터 전유성이 입원해 있던 전북대병원에서 마지막까지 곁을 지켰다. 전유성은 기흉으로 인한 건강 악화로 지난 25일 별세했다. &lt;br&gt;&lt;br&gt;김신영은 지난 28일 오전 서울아산병원에서 엄수된 영결식에서 추도사를 직접 낭독하며 눈물을 쏟았다. &lt;br&gt;&lt;br&gt;김신영은 “나의 어른, 전유성 교수님. 아직도 실감이 나지 않는다. 며칠 전까지만 해도 병원에서 얘기를 나누고 사진을 찍었다”며 “전유성 교수님은 병원에서 저에게 ‘나이 차이 많이 나는 친구, 즐거웠다. 고맙다’고 말씀하셨다. 제자를 넘어 친구로 불러주셨다. 그 따뜻한 마음을 평생 간직하겠다”고 했다. &lt;br&gt;&lt;br&gt;김신영은 “제가 가장 힘들 때 ‘한물 두물 세물 가면 보물 된다, 두물이 되라’고 말씀해주셨다”며 “제 코미디를 가장 먼저 인정해주신 분, 모두가 허무맹랑하다고 할 때 제 아이디어를 밤새워 즐거워해주신 분, 아무것도 모르던 저를 사람으로 만들어주신 분, 어린 제자라도 존중해주신 분, 그분이 바로 교수님이다”라고 고인을 기렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>핀잔 준 동료 커피에 몰래 ‘살충제’...50대 간호조무사 ‘실형’ </title>
