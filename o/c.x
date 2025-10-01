@@ -13,6 +13,53 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“죽기 싫으면 마셔, 빨리”… 캄보디아서 마약 강제 투약 당한 한국인 남성 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/01/VGYF5DXDF5HOVPHHITWDGXLJMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/VGYF5DXDF5HOVPHHITWDGXLJMA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 04:58:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYDX3VP2VJHC5ERWP6YVTFOV34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인 남성이 캄보디아에서 범죄 조직으로부터 마약을 강제 투약 당하고 있다. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 범죄단지에서 한국인 피해 사례가 이어지는 가운데, 한 20대 한국인이 중국 국적 범죄 조직원으로부터 마약 투약을 강요받는 영상이 공개됐다. &lt;br&gt;&lt;br&gt;1일 KBS를 통해 공개된 영상을 보면, 고압적으로 명령하는 목소리와 함께 겁에 질린 한국인 무언가 담긴 통을 든 채 하얀 연기를 마시고 뱉기를 반복한다. 남성이 들고 있는 통은 필로폰을 연기로 흡입하는 장치인 ‘프리베이스’다. &lt;br&gt;&lt;br&gt;영상에는 고압적인 목소리로 “빨라고 더 세게! 더빨아!” “죽여버리기 전에 마셔, 빨리 쭉! 더 세게! 세게!” 등 명령하는 음성도 나온다. 머뭇거리던 남성은 결국 흡입을 계속한다. &lt;br&gt;&lt;br&gt;영상 속 한국인 남성 A씨는 지난 8월 캄폿 주 보코 산악지대 범죄단지에서 숨진채 발견됐다. A씨는 지난 7월 ‘현지에 가면 은행 통장을 비싸게 팔 수 있다’는 국내 브로커 소개로 캄보디아에 갔다가 납치 및 감금을 당한 것으로 파악됐다. 조직이 마약을 강제 투약한 건 탈출을 더욱 어렵게 만들기 위해서인 것으로 추정된다. &lt;br&gt;&lt;br&gt;최근 캄보디아 범죄단지 내 우리 국민 취업 사기·감금 피해가 이어지고 있다. 지난달 21일 프놈펜에선 50대 한국인 남성이 중국인 4명과 캄보디아인 1명으로부터 체포돼 납치·고문을 당하는 일이 벌어졌다. 당시 피해자는 흰색 차량을 몰고 카페에 들렀다가 다시 차량으로 돌아가던 순간 검은색 차를 타고 나타난 용의자들에게 붙잡혀 끌려간 것으로 조사됐다. &lt;br&gt;&lt;br&gt;캄보디아에서 한국인을 겨냥한 납치·감금 피해는 2023년 17건에서 지난 8월 기준 330건으로 급증한 것으로 나타났다. &lt;br&gt;&lt;br&gt;우리 정부는 지난달 16일 오후 5시부로 캄보디아 내 일부 지역에 대해 여행 경보 단계를 조정했다. 이에 따라 프놈펜에는 2단계(여행 자제), 시하누크빌·보코산·바벳 등에는 2.5단계에 해당하는 특별 여행 주의보가 각각 내려졌다. 외교부는 이 지역을 방문할 예정인 국민에게 여행 취소·연기를 권고하고, 체류 중인 국민에게는 안전한 지역으로 이동할 것을 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>보증금 못 돌려준 외국인 집주인 증가…최다 국적은 ‘중국’</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/01/5GYJEVJYKZB6BMGLPWSUMKHXZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/5GYJEVJYKZB6BMGLPWSUMKHXZQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 04:22:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDVDKZL4NWFSWRSGX76LFCY5IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강변 아파트 단지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 집주인이 세입자에게 보증금을 돌려주지 못하는 ‘보증 사고’가 급증하고 있는 것으로 나타났다. 특히 중국 국적 임대인이 가장 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 국회 국토교통위원회 소속 김희정 국민의힘 의원(부산 연제구)이 주택도시보증공사(HUG)에서 받은 자료에 따르면, 외국인 임대인의 보증 사고(임대 보증금·전세 보증금)는 지난해 53건, 사고액으로는 140억원에 달했다.&lt;br&gt;&lt;br&gt;연도별 추이를 보면 2021년 3건(5억원), 2022년 4건(7억원), 2023년 30건(68억원)으로 해마다 건수와 금액이 늘었으며, 지난해 들어 급증세를 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEGB3B6YPRCEXBNNZTHESSFOUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보증 사고가 늘면서 HUG가 외국인 임대인을 대신해 세입자에게 보증금을 지급한 ‘대위 변제’ 사례도 증가했다. 대위 변제 건수는 2021년 1건(3억원), 2022년 2건(3억원), 2023년 24건(53억원), 2024년 39건(99억원)에 달했다. 올해는 지난달까지 이미 23건, 53억원을 집행했다.&lt;br&gt;&lt;br&gt;서울 양천구 목동에서 아파트 7채를 보유한 미국 국적 A씨와 금천구에서 오피스텔 7채를 가진 중국 국적 B씨는 2022년부터 지난해까지 각각 20억원이 넘는 보증금 사고를 냈다. HUG가 전액 대위 변제했지만, 지금까지 회수한 금액은 전혀 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;국적별로는 중국 국적 임대인이 39명으로 가장 많았고, 미국 14명, 캐나다 3명, 일본 2명 순이었다.&lt;br&gt;&lt;br&gt;문제는 변제액이 늘어나는 반면, 회수율은 20%대에 머물고 있다는 점이다. HUG는 2021년부터 올해 8월까지 외국인 임대인 대신 변제한 보증금 211억원 중 155억원(임대 보증금 75억원·전세 보증금 80억원)을 회수하지 못했다.&lt;br&gt;&lt;br&gt;김희정 의원은 “일부 악성 외국 임대인의 보증 사고를 국민 세금으로 대신 갚아주고 있다”면서 “보증 사고를 낸 외국인의 출국을 제한하는 등 제도 강화가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한동훈 ‘공판 전 증인신문’ 법원 소환장, ‘폐문부재’로 또 전달 불발</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/01/7EBVFBL5IBCCZOJI6BI5FBWM7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/7EBVFBL5IBCCZOJI6BI5FBWM7M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 04:34:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRGRARQHJAIP4EKJ4HWUTCMFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대선 경선 후보가 3일 경기 고양시 킨텍스에서 열린 제5차 전당대회에서 김문수 후보의 수락 연설을 바라보고 있다. (공동취재) 2025.5.3/뉴스1 ⓒ News1 김민지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 지도부의 ‘계엄 해제 의결 방해 의혹’과 관련해 한동훈 전 국민의힘 대표에게 보낸 증인 소환장이 ‘폐문부재’ 사유로 또다시 송달되지 못한 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울중앙지법 형사31단독은 지난달 23일 한 전 대표에게 증인 소환장을 발송했으나, 같은 달 30일 폐문부재로 송달이 불발됐다. 폐문부재란 송달받을 장소에 문이 닫혀있고 사람이 없는 경우를 말한다.&lt;br&gt;&lt;br&gt;한 전 대표에 대한 증인 소환장이 폐문부재로 송달이 안 된 것은 이번이 세 번째다. 앞서 내란 특검은 ‘계엄 해제 의결 방해 의혹’과 관련해 한 전 대표의 진술이 필요하다며 지난 11일 법원에 공판 전 증인신문을 청구했다. 그러나 증인 소환장은 지난달 18일과 21일에 이어 30일에도 폐문부재로 전달되지 않았다.&lt;br&gt;&lt;br&gt;한 전 대표에 대한 공판 전 증인신문은 지난달 23일 예정돼 있었지만, 한 전 대표가 불출석하면서 재판부는 오는 2일로 기일을 다시 지정했다. 하지만 이번에도 소환장이 전달되지 않아 한 전 대표가 증인신문에 불출석할 가능성이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아내 계좌로 보조금 빼돌린 자유총연맹 전 사무국장 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/10/01/XLBXFQBDURH75FZ2QQN6L5TKXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/XLBXFQBDURH75FZ2QQN6L5TKXM/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>지자체 보조금을 빼돌린 한국자유총연맹 춘천시지회 전 사무국장이 검찰에 넘겨졌다.
+강원 춘천경찰서는 지방보조금법 위반 혐의로 40대 A씨를 불구속 송치했다고 1일 밝혔다.
+</description>
+      <pubDate>Wed, 01 Oct 2025 04:47:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체 보조금을 빼돌린 한국자유총연맹 춘천시지회 전 사무국장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 지방보조금법 위반 혐의로 40대 A씨를 불구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 5월부터 지난해 6월까지 지자체 보조금 9100여 만 원을 아내와 지인 계좌로 이체해 개인적으로 사용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 한국자유총연맹 강원도지부 회장 계정으로 관리 시스템에 접속해 자신을 보조금 신청·수급 권한이 있는 관리자로 무단 등록한 뒤 자금을 빼돌린 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난해 8월 춘천시의 고발로 경찰 수사가 시작되면서 밝혀졌다.&lt;br&gt;&lt;br&gt;한국자유총연맹은 지난해 A씨를 징계위원회에 회부하려 했지만, 절차에 들어가기 전 A씨가 퇴사하면서 징계는 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제주항공 참사’ 공항 인허가·안전검사 담당 전·현직 국토부 공무원 8명 추가 입건</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/01/VM3LW22XLFBIPG5AF45NS5ZVQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/VM3LW22XLFBIPG5AF45NS5ZVQI/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 03:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R76QMALGFGSLR7F7P7OSFJUYXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남경찰청 전경. ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·29 제주항공 여객기 참사’를 수사 중인 경찰이 무안공항 인허가와 안전 검사를 담당한 전·현직 국토교통부 공무원 8명을 추가 입건했다.&lt;br&gt;&lt;br&gt;전남경찰청 제주항공 여객기 사고 수사본부는 1일 업무상 과실치사상 혐의로 국토부 전·현직 공무원 8명을 불구속 입건했다고 밝혔다. 이들은 지난해 12월 29일 전남 무안공항에서 179명이 사망한 여객기 사고와 관련해 공항 개항 당시 운영과 관련한 인허가 업무를 담당했거나 안전 시설 검사 업무를 맡았다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 총 39명을 입건했다. 경찰은 지난 6월 국토교통부 공무원과 한국공항공사 직원, 방위각 시설 시공 업체 관계자 15명을 업무상 과실치사상 혐의로 입건했었다.&lt;br&gt;&lt;br&gt;지난 5월에는 유족들로부터 사고 책임자들을 중대재해처벌법 위반, 업무상 과실치사상 혐의로 처벌해달라는 고소장을 받고 박상우 전 국토부 장관과 김이배 제주항공 대표, 한국공항공사 대표 등 16명을 피고소인 신분으로 입건했다.&lt;br&gt;&lt;br&gt;경찰은 참사를 키운 원인으로 지목된 방위각 시설(로컬라이저)에 대한 국립과학수사연구원 감정과 보강 자료 등을 통해 수사를 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“고향 가려고”…빈 식당서 불우이웃돕기 모금함 훔친 외국인</title>
       <link>https://www.chosun.com/national/national_general/2025/10/01/VNR3GL3ZSZA5PLZOYM3VXUYHWA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/VNR3GL3ZSZA5PLZOYM3VXUYHWA/</guid>
@@ -856,46 +903,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSTQED2MCNIAZFBJPJZW5IEK5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 그룹 방탄소년단(BTS)의 슈가(본명 민윤기)가 신촌 세브란스병원에 기부한 50억원으로 이날 자폐스펙트럼 예술치료센터인 '민윤기치료센터'가 개소했다. 사진은 지난 6월 슈가와 금기창 연세의료원장이 기념 촬영하는 모습./연세의료원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 슈가(본명 민윤기·32)의 50억원 기부로 설립된 신촌세브란스병원의 ‘민윤기치료센터’가 30일 개소했다. 민윤기치료센터는 자폐스펙트럼장애 소아청소년을 대상으로 예술 치료를 운영한다.&lt;br&gt;&lt;br&gt;세브란스병원은 이날 서울 신촌의 병원 제중관 1층에서 윤동섭 연세대 총장, 금기창 연세의료원장, 김용직 한국자폐인사랑협회장 등이 참석한 가운데 개소식을 열었다고 밝혔다. 센터 소장은 천근아 연세대 소아정신과 교수가 맡는다.&lt;br&gt;&lt;br&gt;슈가는 지난 6월 자폐스펙트럼장애 소아청소년의 치료와 사회적 자립을 도울 치료센터 건립을 위해 50억원을 쾌척했다. 이는 연세의료원의 연예인 기부금으론 역대 최고액이었다. &lt;br&gt;&lt;br&gt;이 기부금으로 건립된 민윤기치료센터에는 언어·행동치료를 위한 치료실과 음향·방음시설이 완비된 음악·사회성 집단 치료실이 마련됐다. 보호자 대기 공간엔 자폐스펙트럼장애 미술작가 이규재의 작품도 전시될 예정이다.&lt;br&gt;&lt;br&gt;이곳에서는 슈가와 센터 소장인 천근아 교수가 음악을 치료에 접목해 개발한 사회성 집단 프로그램 ‘마인드’(MIND·Music, Interaction, Network, Diversity)가 진행된다. 슈가는 작년 하반기부터 올해 상반기까지 천 교수와 함께 자폐 아이들을 위한 음악 봉사를 진행해왔다.&lt;br&gt;&lt;br&gt;또 센터에서는 소아정신과 전문의와 음악·언어·행동치료사, 임상심리사 등으로 이뤄진 전문팀의 맞춤형 통합 치료도 제공된다. 센터는 앞으로 음악뿐 아니라 미술, 체육 등 다양한 예술 활동과도 접목해 프로그램을 발전시키고, 관련 전문가도 양성하는 한편, 임상 연구와 학술 발표도 추진할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;천 소장은 “민윤기치료센터에선 아이들에게 음악을 가르치며 치료 효과를 높일 뿐 아니라 사회성을 교육한다”며 “대중들이 사회에서 자립하고자 노력하는 자폐스펙트럼장애 아이들을 보며 장애에 대한 인식도 크게 개선될 것”이라고 기대했다.&lt;br&gt;&lt;br&gt;세브란스병원은 향후 센터 운영 프로그램의 전문화와 수요 증가 등에 맞춰 시설을 확장 이전할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>尹, 내란 특검 2차 소환에도 불출석...특검 “형사소송법 따라 진행”</title>
-      <link>https://www.chosun.com/national/court_law/2025/09/30/PNA6KW6WTJGTLOROHSHYRL6S7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/PNA6KW6WTJGTLOROHSHYRL6S7E/</guid>
-      <dc:creator>유종헌 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 05:55:50 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 ‘평양 무인기 침투 작전’과 관련한 내란 특검의 2차 출석 요구에도 응하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NRRKG3AHUJKQIG23NDQIIJT4CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령에게 30일 오전 10시까지 특검 사무실로 출석을 받으라고 통보했지만, 윤 전 대통령은 별도의 불출석 사유서 없이 불출석했다. 지난 24일 1차 소환 요구에 불응한 데 이어 이날이 두 번째다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 윤 전 대통령에 대해 “소환에 불응하는 일반 피의자와 동일하게 형사소송법 절차에 따라 (관련 절차를) 진행할 것”이라고 했다. 통상 다른 사건으로 구속된 피의자가 계속 조사에 불출석하면 체포영장을 청구하거나, 조사 없이 바로 기소하게 된다.&lt;br&gt;&lt;br&gt;박 특검보는 “윤 전 대통령을 제외한 모든 피의자나 참고인은 조사에 불응하는 사람 없었다”면서 “‘책임을 지겠다’는 윤 전 대통령만 불응하고 있다”고 했다. 다만 이날 바로 추가 소환을 통보하지는 않겠다고 했다.&lt;br&gt;&lt;br&gt;한편 이날 공판 전 증인신문이 예정됐던 김태호 국민의힘 의원은 서울남부지법에 불출석 사유서를 제출했다. 박 특검보는 “법원이 증인신문을 연기할 것으로 보인다”고 했다. 역시 공판 전 증인신문이 예정됐던 서범수 의원의 경우 불출석 사유서를 제출하지는 않았지만, 불출석할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무당 용하다는 소문에, 바다 건너온 외국인들</title>
-      <link>https://www.chosun.com/national/national_general/2025/05/31/53FZY5AFFNHYXAMNJQD6WIQRJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/05/31/53FZY5AFFNHYXAMNJQD6WIQRJU/</guid>
-      <dc:creator>최하연 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 30 May 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QN56G7HJ75CSDFN7I6XPAPYN6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 연말, 프랑스인 방송인 엘로디씨가 서울 서대문구의 신당에서 백마장군에게 점을 보고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“생년월일, 출생 시간 몰라도 당신에 대해 다 압니다(I know all about you).”&lt;br&gt;&lt;br&gt;지난 19일 오후 서울 강남구 대치동의 한 신당에 금발의 60대 캐나다 여성 에일린씨가 조심스럽게 문을 열자 용궁애신이라 불리는 40대 무당 A씨가 유창한 영어로 말했다. 학창 시절 영어권 국가에서 공부했던 A씨가 오방기(무속 도구)를 흔들면서 “얼마 전 남편을 잃지 않았느냐. 당신에게 하지 못한 말들이 많다고 한다”고 하자, 에일린이 주저앉아 눈물을 쏟았다. 한 시간 가까이 상담이 이어지는 동안 무당은 에일린 옆에 무릎을 꿇고 앉아 눈물을 닦아 주고 어깨를 토닥였다.&lt;br&gt;&lt;br&gt;서울 강남과 서대문 일대 점집이 외국인들로 북적이고 있다. ‘파묘’ ‘악귀’ 등 무속(巫俗)을 소재로 한 영화·드라마가 전 세계적으로 인기를 끌면서 점집이 외국인 대표 관광 상품으로 뜨는 것이다. 특정 검색어가 국가·지역별로 얼마나 검색되는지를 알려주는 구글 트렌드에 따르면 ‘moodang’(무당)이라는 단어는 영화 파묘가 개봉한 직후인 작년 6월부터 꾸준히 늘었고, 작년 연말엔 그 전년도보다 20배 가까이 늘었다. 해외 홈페이지에선 ‘K 샤먼’(Korean Shaman) ‘한국 신점’(Korean Sinjeom)이라고 홍보하면서 “영어로 대화가 가능하다”고 홍보하고 있다. 동남아뿐만 아니라 유럽·미국·호주 등에서 온 관광객들이 몰려 적어도 한두 달 전에 예약하는 게 필수가 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GPJLZ2WFMNDAVB6TOOHYVJYXAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월, 서울 마포구의 한 무속 카페에서 러시아인 관광객이 무당에게 점을 보고 있다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지가 강남·서대문구 일대 점집들을 문의해 봤더니 한 달에 한두 건 수준이었던 외국인 관광객 방문이 최근엔 10~20배 증가한 것으로 나타났다. 서울 서대문구의 무당 정모(48)씨는 1년 새 외국인 손님이 10배 넘게 늘었다. 그가 출연한 유튜브 방송을 통해 용하다는 소문이 바다 건너까지 퍼진 것이다. 정씨가 영어를 못한다는 걸 유튜브 방송으로 본 손님들이 직접 통역까지 구해서 온다. 외국인 관광객들이 늘자 전담 통역사를 고용하거나 중국·일본어와 영어 등을 배우기 시작하는 무당도 많다.&lt;br&gt;&lt;br&gt;두바이에서 요가 강사로 일하는 미국인 제시(33)씨는 출장 중인 남편을 따라 강남의 신당을 찾았다. 남편의 사업운이 궁금했다. 그는 “영화 ‘파묘’를 보고 으스스했는데, 실제로는 점집이 따뜻하고 향기도 좋았다”며 “무당이 내가 속으로만 생각하던 생각을 뻔히 읽어서 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;사주 풀이도 인기를 끌고 있다. 지난 23일 서울 마포구의 사주 카페를 찾은 싱가포르인 엘렌(47)에게 역술인 청명(47)이 유창한 말레이어로 “마칸(makan·밥은 먹었어요)?”이라고 했다. 그는 “올해는 작은 산, 내년은 큰 산을 오르는 해이니, 차례대로 해나가면 원하는 걸 이룰 수 있다”고 했다. 엘렌씨는 메모장을 꺼내 고개를 끄덕이며 받아 적었다.&lt;br&gt;&lt;br&gt;점집의 위치와 평가 등을 정리한 ‘점집 사이트’가 늘면서 법적 갈등도 커지고 있다. 무속인들의 신상 정보나 ‘별점 평가’가 올라오면서 무당들이 “누가 감히 (내가 모시는 신령님에게) 점수를 매기느냐”며 반발하는 것이다. 법조계 관계자는 “사전 동의 없는 정보 게시와 후기는 개인정보 보호법 위반 소지가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QN56G7HJ75CSDFN7I6XPAPYN6I.jpg?auth=76df731caacb75e4e51dbb4b17559cba3d795c8d9a726a359967a0c91ee313a5&amp;smart=true&amp;width=648&amp;height=364" type="image/jpeg" height="364" width="648">
-        <media:description type="plain">작년 연말, 프랑스인 방송인 엘로디씨가 서울 서대문구의 한 신당에서 점을 보고 있다. /독자 제공</media:description>
-        <media:credit role="author" scheme="urn:ebu">최하연 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>檢, 류현진 계약금 가로챈 前 에이전트 2심서 징역 5년 구형</title>
-      <link>https://www.chosun.com/national/national_general/2025/09/30/4VANPTM4DFHJDLKK2WKB6LDYQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/30/4VANPTM4DFHJDLKK2WKB6LDYQA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 05:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IHAEQAL77VFXGSBLTECMCISA54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화 이글스 류현진 선수. /박재만 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 야구 선수 류현진(38·한화 이글스)의 라면 광고 계약금 1억8000만원을 가로챈 전직 에이전트에게 실형을 구형했다. &lt;br&gt;&lt;br&gt;30일 서울남부지법 형사항소3-2부(재판장 조규설)는 사기 등의 혐의로 재판에 넘겨진 전모(50)씨에 대한 항소심 결심 공판을 열었다. 이날 검찰은 전씨에게 징역 5년을 선고해 달라고 재판부에 요청했다.&lt;br&gt;&lt;br&gt;전씨는 지난 2013년 오뚜기와 류현진의 광고 모델 계약을 대행하며 계약금으로 85만 달러를 받은 뒤, 70만 달러에 계약했다고 속여 차액을 챙겼다. 전씨가 챙긴 돈은 약 15만 달러로 당시 환율 기준으로 약 1억8000만원이다. 2018년 말 불구속 기소됐으며 올해 1월 1심에서 징역 2년 6개월을 선고받았다. &lt;br&gt;&lt;br&gt;전씨는 2013년 류현진이 미국 프로야구 메이저리그(MLB)에 진출할 때도 깊이 관여한 인물이다. 하지만 오뚜기 광고 모델 계약 체결 후에는 에이전트 역할을 하지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이날 재판에서 전씨 측 변호인은 “전씨가 류현진을 포함한 모든 피해자의 피해를 변상하고 합의해, 피해자들이 처벌 불원서와 탄원서를 제출했다”고 강조했다. &lt;br&gt;&lt;br&gt;항소심 선고는 내달 6일 오전 10시에 열린다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>회의중 쓰러진 40대 가장, 장기기증으로 3명에 새삶주고 떠났다 </title>
-      <link>https://www.chosun.com/national/national_general/2025/09/30/WLHBE6O7XVCWJCVKPCQIGRI5OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/09/30/WLHBE6O7XVCWJCVKPCQIGRI5OM/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 05:02:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/233KIU2WJRF4NENCNP72JWXDXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 박성철씨와 아내 김효은씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회사에서 회의 도중 쓰러져 뇌사 상태에 빠진 40대 가장이 뇌사 장기기증으로 3명에게 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;30일 한국장기조직기증원은 박성철(46)씨가 지난 7월 17일 한림대학교 성심병원에서 간과 양쪽 신장을 총 3명에게 각각 기증하고 세상을 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;박씨는 지난 7월 11일 회사에서 회의 중 정신을 잃고 쓰러져 병원으로 긴급 이송됐지만, 끝내 의식을 회복하지 못하고 뇌사 판정을 받았다.&lt;br&gt;&lt;br&gt;박씨의 가족들은 그가 어디선가 살아 숨 쉬기를 바라는 마음으로 기증을 결심했다고 한다.&lt;br&gt;&lt;br&gt;유족에 따르면 박씨는 서울에서 2남 1녀 중 장남으로 태어났으며 정이 많고 잘 웃는 성격으로, 주변 사람들에게 늘 자상하고 따뜻한 사람이었다.&lt;br&gt;&lt;br&gt;25년간 자동차 서비스센터에서 도장 일을 했고, 자연을 좋아해서 주말이면 가족과 함께 산책과 등산을 즐겼다고 한다.&lt;br&gt;&lt;br&gt;박씨의 아내 김효은 씨는 아직 어려 죽음을 알지 못하는 네 살 딸에게 “아빠는 별이 됐다”고 얘기해줬다고 한다.&lt;br&gt;&lt;br&gt;김 씨는 “인사 한번 못하고 헤어진 것이 너무 슬프고 아직도 실감이 나지 않아. 다음 세상에서는 다시 만나서 오랜 시간 행복하고 건강하게 지내자. 하늘에서 잘 지내고 건강해. 우리 꼭 다시 만날 것 같아. 사랑해”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, 국힘 경남도당 압수수색...‘공천 개입 의혹’ 수사</title>
       <link>https://www.chosun.com/national/court_law/2025/09/30/N5NRFFDFDFCDZDMENZV4XAOTKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/30/N5NRFFDFDFCDZDMENZV4XAOTKQ/</guid>
@@ -930,15 +937,6 @@
       <description/>
       <pubDate>Tue, 30 Sep 2025 03:08:14 +0000</pubDate>
       <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀에 파견된 검사 전원이 30일 파견을 끝내고 검찰청으로 복귀하겠다는 의사를 지휘부에 밝힌 것으로 파악됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 수사팀장(차장·부장)을 포함한 파견 검사들은 이날 오전 특검 파견 검사 일동 명의의 입장문을 지휘부에 제출했다. 검사들은 입장문에서 "특검 파견 검사들은 사명감을 가지고 파견기간 동안 사회적 현안 사건 수사에 매진하여 실체적 진실을 발견하고 사회적 갈등을 해소하겠다는 일념으로 불철주야 노력했다“며 운을 뗐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WFKH6ZYIYBNPNFOVRUKAG4HOIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 김건희 특검팀 사무실 앞에 경찰 질서유지선이 설치되어 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 검사들은 ”최근 수사·기소 분리라는 명분 하에 정부조직법이 개정되어 검찰청이 해체되고, 검사의 중대범죄에 대한 직접 수사 기능이 상실되었으며, 수사검사의 공소유지 원칙적 금지 지침 등이 시행되고 있는 상황“이라며 ”이와 모순되게 파견 검사들이 직접수사·기소·공소유지가 결합된 특검 업무를 계속 담당하는 것이 과연 옳은 것인지 혼란스러운 상황”이라고 했다. 당정이 검찰청 해체와 함께 검사의 수사권을 없애겠다고 주장하는 상황에서, 검사들이 특검 수사에 투입되는 것은 모순적이란 얘기다.&lt;br&gt;&lt;br&gt;검사들은 “특별검사께서 직접 언론 공보 등을 통해 그간의 특검 수사 과정에서 확인된 중대범죄 수사에 있어서 검사들의 역할, 검사의 직접수사·기소·공소유지 필요성에 대한 의견을 공식적으로 표명해 주실 것을 요청드린다”며 “현재 진행 중인 사건들을 조속히 마무리한 후 파견 검사들이 일선으로 복귀하여 폭증하고 있는 민생사건 미제 처리에 동참할 수 있도록 복귀조치를 해주실 것을 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;민중기 특검팀은 지난 7월 2일 수사를 개시한 뒤 김 여사와 ‘건진법사’ 전성배씨 등을 구속 기소하는 성과를 냈다. 그러나 수사의 핵심 축인 검사들이 복귀를 공식적으로 요청하면서, 남은 수사에 차질을 빚을 것이란 분석이 나오고 있다. 특검 지휘부도 파견 검사들의 복귀 여부 및 인력 충원 문제를 놓고 고심 중인 것으로 전해졌다. 한 법조계 관계자는 “특검팀은 이미 수사기간을 다음 달 말까지 한 차례 연장했지만, 이런 분위기에서 추가 연장이 가능할지 의문”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>휴게소 돈가스, 4년새 25% 올라...우동, 커피 가격도 껑충</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/09/30/NJI7LIJ5LJDOFJLYEDJRTFUISA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/09/30/NJI7LIJ5LJDOFJLYEDJRTFUISA/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 02:05:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NURBXUNDHTZOIV4PUPH35722LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 가평군의 한 고속도로 휴게소 내 푸드코트에 설치된 가격표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로 휴게소에서 파는 돈가스, 우동, 커피 등 가격이 지난 4년간 크게 오른 것으로 나타났다.&lt;br&gt;&lt;br&gt;30일 국회 국토교통위원회 소속 더불어민주당 민홍철 의원이 한국도로공사로부터 제출받은 자료에 따르면 지난 6월 기준 고속도로 휴게소에서 파는 돈가스류의 평균 가격은 1만1218원으로 2021년 6월(8916원) 보다 25.1% 오른 것으로 나타났다.&lt;br&gt;&lt;br&gt;우동류가 5890원에서 6539원으로 같은 기간 18.1% 가격이 올랐고, 아메리카노도 4041원에서 4754원으로 17.6% 오른 것으로 나타났다. 이외에 비빔밥이 8390원에서 9778원(16.5%↑)으로 올랐고, 국밥은 8142원에서 9659원(15.4%↑), 호두과자는 4445원에서 5096원(14.6%↑), 라면은 4463원에서 4719원으로 11.7% 가격이 올랐다.&lt;br&gt;&lt;br&gt;매출 상위 10개 식음료 평균 판매가는 6342원으로 2021년과 비교해 12.5% 상승했다. 같은 기간 소비자물가지수(CPI) 변동률인 8.3%와 비교해도 큰 폭의 인상 수치다. 민홍철 의원은 “휴게소에서 밥 한 그릇에 간식 하나만 해도 만원을 훌쩍 넘는다”며 “추석 귀성길에 휴게소를 이용하는 국민의 부담을 덜 수 있도록 가격 인상 요인 점검과 합리적 가격 유도 방안을 마련해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>여친 살해 후 김치냉장고에 1년 숨긴 40대 체포 </title>
