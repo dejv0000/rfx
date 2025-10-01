@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“서장이 인사고과 앞세워 교통단속 실적 강요” 내부서 시끌</title>
+      <link>https://www.chosun.com/national/2025/10/01/FN2RZJMOOFAFJFJJ3H47WJZLEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/01/FN2RZJMOOFAFJFJJ3H47WJZLEA/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 13:33:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VORBBCQAEVZKIQJD2GYZDSR2SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 11일 전북 전주에서 교통 경찰이 '5대 반칙운전' 단속을 실시하고 있는 모습. 기사 내용과는 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원의 한 경찰서장이 인사 고과에 반영하겠다며 지구대·파출소 직원들에게 교통 단속 실적을 강요했다는 주장이 제기됐다. 해당 경찰서장은 “단속 실적을 독려한 것은 사실이나 일부 오해가 있다”고 했다.&lt;br&gt;&lt;br&gt;본지 취재 결과, 창원 한 경찰서는 지난달 초부터 ‘5대 반칙 운전 단속 현황표’를 작성해 지구대·파출소에 배포한 것으로 나타났다. 이는 이 경찰서 A서장(총경) 지시에 따른 것이었다고 한다. 단속 현황표에는 팀장 이름과 단속 건수가 기재됐고, 팀별 단속 실적이 공개됐다.&lt;br&gt;&lt;br&gt;5대 반칙 운전은 ‘새치기·유턴’ ‘지정차로 위반’ ‘꼬리물기’ ‘끼어들기’ ‘비긴급 차량의 구급차 이용’이다. &lt;br&gt;&lt;br&gt;A서장 지시로 팀별 단속 실적이 한 달 가까이 공개되면서 일선 경찰관들의 반발이 터져 나왔다. 지난달 30일 전국 경찰이 볼 수 있는 내부망에 인근 경찰서의 B파출소장(경감)이 A서장을 공개 비판하고 나온 것이다. &lt;br&gt;&lt;br&gt;B소장은 “A서장은 팀별 실적이 차이 나면 감찰 조사를 운운하고, 지구대·파출소 직원 승진 점수에 교통 단속 실적을 반영하겠다고 공언했다”며 “승진을 원하는 직원끼리 단속 건수로 경쟁을 붙인 것인데 너무 끔찍하다”고 했다. &lt;br&gt;&lt;br&gt;B소장은 본지 통화에서 “교통 단속 성과 압박으로 순찰 등 본 업무를 하지 않고 단속만 나가면 국민 치안 서비스에도 문제가 생긴다”며 “과잉 단속은 국민 공감을 얻기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 A서장은 “직원들에게 ‘잘해보자’는 취지로 독려한 것은 사실이나, 실적에 따라 감찰 조사를 언급했다는 것은 오해가 있다”며 “전날 모두에게 사과했다”고 말했다. 해당 경찰서는 실적 현황표 공개를 중지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정성호 법무 “검찰 내부에 큰 동요 있다는 생각은 오해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/01/ICC2XLOC55AXNIUMVDM6MQCBPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/ICC2XLOC55AXNIUMVDM6MQCBPM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 13:39:35 +0000</pubDate>
+      <content:encoded>정성호 법무장관은 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀에 파견된 검사 40명 전원이 검찰청 복귀를 요청한 데 대해 “검찰 내부에 큰 동요가 있는 것처럼 생각하는데 그건 오해고, 사실과 다르다”고 말했다. 여권을 중심으로 파견 검사들을 징계해야 한다는 요구가 거세지자, 진화에 나선 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ND6YSF5GRVNFTAUAFVKK7VTCPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관이 1일 오후 부산 연제구 부산검찰청 청사에 들어서고 있다. 이날 정 장관은 부산 고검과 지검을 찾아 검사들과 간담회를 가졌다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 1일 오후 정책현장 방문 일정의 일환으로 부산고등·지방검찰청을 찾으면서 기자들을 만나 이같이 말했다.정 장관은 “모든 검사가 특검에서 현재 맡겨진 임무에 충실하고 있다”며 “국민들이 걱정하지 않으셔도 되는 상황”이라고 강조했다. &lt;br&gt;&lt;br&gt;정 장관은 또 “마무리 단계인 특검이 종료되고 나면 특검과 협의해 향후 공소 유지에 필요한 최소 인원들은 필요한 것 아니겠느냐”며 “원론적인 얘기들을 한 것 같다”고 말했다. 파견 검사들이 지금 당장 수사를 멈추겠다고 한 건 아니라는 얘기다.&lt;br&gt;&lt;br&gt;이어 정 장관은 “(검사들이) 친정인 검찰과 관련해서 국회에서 정부조직법이 통과되고 나니까 좀 불안한 점들이 있다”면서 “앞으로 1년 정도 시간이 있기 때문에 저희가 충분히 검사들이나 검찰수사관들이 불안하지 않게 잘 정리할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72WXGNZVAWJNW64KXPWWAEOVN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부는 1일 오전 정성호 법무장관이 '2025 경주 아시아태평양경제협력체(APEC) 정상회의'를 앞두고 김해국제공항을 방문해 출입국 전용심사대 설치·운영 계획 등을 점검했다고 밝혔다./법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 2025 경주 아시아태평양경제협력체(APEC) 정상회의 개최를 앞두고 행사의 주 공항인 김해국제공항을 찾았다. 이날 오전 10시 15분쯤 김해국제공항에 도착한 정 장관은 출입국 전용 심사대 설치 및 운영 계획, 전담 인력 배치 계획 등 준비 상황을 점검한 뒤 출입국심사관과 직원들을 만나 격려를 전했다. 법무부는 정상회의 기간 김해국제공항 나래마루와 포항경주공항에 APEC 전용 임시 출입국사무소 및 출입국심사대를 마련하고, 회의 참가자들을 위한 출입국 우대심사대를 운영한다. APEC 참가자에게는 사증 발급 서류 제출 간소화, 신속한 사증 발급, 전자여행허가제(K-ETA) 신청 면제 등 편의도 제공한다.&lt;br&gt;&lt;br&gt;정 장관은 오후에는 부산교도소를 방문해 주요 정책 이행 상황을 점검했다. 시설 내 교도 작업장을 방문해 안전사고 예방 조치의 중요성을 강조하고, 수형자의 안전을 책임지고 있는 현장 근무자를 격려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여성 신체 불법 촬영한 20대 남성 경찰 조사 </title>
+      <link>https://www.chosun.com/national/regional/2025/10/01/UXU5S66PPRFUHGZWC5LEL7FVKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/UXU5S66PPRFUHGZWC5LEL7FVKM/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 13:24:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QISE44CG6J6YVFOHB7LDT3JODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 여성 신체를 불법 촬영한 혐의(성폭력범죄의처벌등에관한특례법위반)로 20대 남성 A씨를 입건해 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 최근 몇 년간 자신의 신분을 속이고 여성들에게 접근해 신체 부위를 불법 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨의 휴대전화에는 연인과의 성관계 장면이나 지인의 신체 사진, 일터에 찾아온 손님을 찍은 촬영물이 다수 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“비켜달라” 하고 후진했는데… 특수폭행 된 ‘주차 빈자리’ 싸움</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/01/OXAEZQ5X7BBTRAQ5FSNTE22VAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/OXAEZQ5X7BBTRAQ5FSNTE22VAI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 12:10:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYKDIRBOYVEXREIS4EKWSAVX7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 한 주차장에서 빈자리를 맡고 있던 여성에게 비켜달라고 한 뒤 주차하다가 특수폭행 혐의로 고소당했다는 사연이 전해졌다. /유튜브 '한문철TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차장에서 자리를 맡고 있던 여성에게 비켜달라고 했다가 경찰 조사를 받게 된 운전자의 사연이 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATFBXLR435G27AY6IWWZH63LCI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 '한문철TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 유튜브 채널 ‘한문철TV’에는 ‘이제 주차 자리 맡는 사람에게 절대 비키라는 소리 하면 안 되겠습니다. 큰일 나겠습니다’라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에 따르면, 제보자 A씨는 지난달 20일 주차장 빈자리를 막고 있던 여성과 마주했다. A씨는 “제가 먼저 왔다. 지키고 있는 게 어딨느냐”고 말한 뒤 천천히 주차를 시작했다. &lt;br&gt;&lt;br&gt;A씨는 “오른쪽 사이드 미러로 아주머니가 내 차량 뒤쪽으로 비키는 것을 보고 후진 주차를 진행했다”며 “주차장 오른쪽에 고가의 차량이 주차되어 있어서 신경이 그쪽에 가 있던 상황에서 후방 센서 소리가 끝나지 않는 것을 조금 뒤늦게 인지하고 바로 브레이크를 밟았다”고 했다. &lt;br&gt;&lt;br&gt;이 과정에서 A씨 차량이 여성과 살짝 부딪힌 것으로 보인다. A씨는 “그제야 아주머니가 완전히 비키는 것을 확인하고 주차를 완료했다”고 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;주차 5분 후, 여성의 남편에게서 “고의로 사람을 쳤다”는 연락을 받았다고 한다. A씨는 “아주머니가 경찰에 저를 특수폭행으로 신고했고, 남편은 입원해야 할 것 같다면서 보험 대인 접수를 요청해왔다”고 했다. A씨는 이후 경찰 조사를 받았는데, 미필적 고의에 의한 특수폭행 혐의로 검찰 송치 가능성이 있다는 이야기를 들었다고 했다. &lt;br&gt;&lt;br&gt;A씨는 “제 실수는 인정한다. 주차를 하기 전 주변 상황을 충분히 확인하지 못한 건 분명 제 부주의”라면서도 “하지만 고의로 누군가를 다치게 하려는 의도는 전혀 없었다”고 했다. 이어 “오히려 제가 후진하는 동안에도 아주머니는 계속 제 차량 뒤에 머물러 있었고, 차가 움직이는 걸 알면서도 그대로 있다가 제가 브레이크를 밟는 순간 앞으로 걸어나오는 모습이 너무 의도적으로 보였다”며 “이 일이 정말 특수폭행으로까지 판단될 수 있는지 너무 억울하다”고 했다. &lt;br&gt;&lt;br&gt;영상을 접한 한문철 변호사는 “이제 주차 자리 막고 있으면 절대 비키라는 소리 하면 안 되겠구나 싶다”며 여성과의 접촉 여부에 대해서는 CCTV를 확인해야 정확히 알 수 있을 것 같다고 조언했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ATFBXLR435G27AY6IWWZH63LCI.gif?auth=247ce30962516ede886317b6a85ba73bbd771024be033712143f9ba860ba79fe&amp;smart=true&amp;width=400&amp;height=205" type="image/jpeg" height="205" width="400">
+        <media:description type="plain">/유튜브 '한문철TV'</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>다부동 전투 영웅이었던 아버지... 75년 만에 참전 증서 받았다</title>
+      <link>https://www.chosun.com/national/people/2025/10/01/H2EBKCCJONDJ7PXGI3OMZC56FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/01/H2EBKCCJONDJ7PXGI3OMZC56FQ/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 11:51:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHJTO56SZRHU7ONNGK64UIRTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 학도병으로 참전했지만, 이 사실을 숨긴 채 세상을 떠난 어르신이 참전 용사로 인정받게 됐다. 지역 내 학도병을 찾는 교육청의 노력이 빛을 본 것이다. &lt;br&gt;&lt;br&gt;경북교육청은 지난 1998년 별세한 故 최영수씨가 국방부로부터 참전 사실을 공식 인정받도록 지원했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 6·25 전쟁이 발발한 1950년 경주공업중에 다니던 학생이었다. 전쟁이 터지자 최씨는 즉시 학도병에 지원했고, 같은 해 8월 대구에서 훈련을 받고 육군 1사단에 배속됐다. &lt;br&gt;&lt;br&gt;그해 최씨는 전우들과 함께 경북 칠곡군에서 벌어진 ‘다부동 전투’에 참전했다. 백선엽 준장이 이끌던 육군 1사단이 악전고투 끝에 북한군에 승리를 거두며 낙동강 전선을 지켜낸 현장에서 최씨도 함께 싸웠다.&lt;br&gt;&lt;br&gt;이후 1951년 3월 내려진 복교령(학교로 복귀하라는 명령)에 따라 최씨는 경주공업중이 개편된 경주공업고로 돌아가 학업을 마쳤다. 하지만 최씨에겐 전쟁의 기억이 평생의 상처로 남았다고 한다. 최씨가 참전용사였다는 사실은 아내와 아들 등 가까운 가족 외엔 아무도 몰랐고, 최씨 또한 주변에 알리지 않은 탓에 생전에 별다른 보훈 혜택도 받지 못했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASF2TT35JRBE5J5X3V2I2DXJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러던 중 최씨의 아들 최일권씨와 사위 이호택씨가 나섰다. 아들 최씨는 “아버지의 명예를 되찾기 위해서”라고 했다. 이들은 경북교육청이 올해 9월 25일부터 시작한 ‘경북 출신 학도병 찾기 프로젝트’ 소식을 접하고 연락을 취했다. 6·25 전쟁 당시 참전한 학도병들과 가족, 유족들을 통해 학도병들의 삶과 전쟁 경험 등 자료를 수집하고, 이들이 예우를 받을 수 있도록 국방부·국가보훈부 등 관계기관에 알리는 사업이었기 때문이다.&lt;br&gt;&lt;br&gt;경북교육청 측은 앞서 지난해 진행한 ‘경주 학도병 기록물 수집·전시 사업’에서 만난 학도병 출신 어르신들에게 최영수씨의 참전 여부를 확인했다. 이 과정에서 학도병 어르신 3명이 “최영수라는 전우가 있었고, 그가 참전해 우리와 함께 싸운 것도 직접 목격했다”고 증언하며 보증을 서줬다. 결국 국방부가 참전 사실 확인 통보서를 발급하면서 다부동 전투 이후 75년 만에 최씨의 참전 사실이 공식적으로 인정됐다.&lt;br&gt;&lt;br&gt;최씨 아들 최일권씨는 “교육청이 학도병의 명예 회복에 이렇게 적극적으로 힘써주실 줄은 몰랐다”며 “하늘에 계신 아버지께서도 크게 기뻐하실 것”이라고 감사를 표했다. 임종식 경북교육감은 “학교에 있어야 할 나이에 전장에 나선 학도병들의 희생을 기리는 것은 국가기관의 책무”라며 “앞으로도 지역민들의 자료와 제보를 받아 더 많은 학도병들의 잃어버린 명예를 되찾을 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MF6SRGFACZANJM4N6SWRBRCZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 기록 수집 프로젝트 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> 가스라이팅 벌이다 강도살인·시신유기까지…檢, 50대 3명 기소 </title>
+      <link>https://www.chosun.com/national/regional/2025/10/01/Z3SFGRNCZZBMRJXQRIAIWOY3UY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/Z3SFGRNCZZBMRJXQRIAIWOY3UY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 01 Oct 2025 10:18:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAI3MT2ILJZDBGSLHDI44LZLBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방검찰청 목포지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가스라이팅(심리적 지배) 피해자로부터 돈을 갈취하다가 살인에 시신까지 유기한 일당 3명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주지검 목포지청 형사2부(황영섭 부장검사)는 1일 강도살인, 시체유기, 감금, 특수상해 등 혐의로 50대 여성 A씨와 50대 남성 2명 등 3명을 구속기소 했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 5월 15일 피해자 B씨를 차량에 태워 전남 목포 시내를 돌아다니며 차 안에서 폭행해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 돈을 마련하라고 윽박지르며 폭행하다가 B씨를 숨지게 했고, 시신을 차량 뒷좌석에 숨겨 3개월가량 공터에 방치했다.&lt;br&gt;&lt;br&gt;B씨는 50만원 또는 150만원 단위로 여러 차례에 걸쳐 A씨에게 돈을 건넨 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 피해자가 더 이상 돈을 마련하지 못하자 폭행을 시작했으며 평소 알고 지내던 남성 2명에게 ‘혼을 내주라’며 범행에 가담시켰다.&lt;br&gt;&lt;br&gt;B씨뿐 아니라 범행에 가담한 남성들도 A씨로부터 심리적 지배 상태에 놓였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 돈을 빼앗는 과정에서 살인이 발생한 것을 확인하고 경찰 송치 단계에서 적용됐던 살인 혐의를 강도살인으로 보완했다.&lt;br&gt;&lt;br&gt;A씨는 도피 생활 중에도 두 남성에게 수시로 돈을 요구하며 폭력을 휘둘렀다. 두 남성 중 한 명이 심적인 부담감을 견디지 못하고 지인에게 털어놓으면서 범행은 드러났다.&lt;br&gt;&lt;br&gt;검찰은 정신적으로 큰 고통을 겪은 피해자 가족에게 장례비와 심리상담 등을 지원했다. 범죄 피해구조금 지급 등 절차도 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>캄보디아 거점 범죄조직 가입해 한국남성들 상대 ‘로맨스 스캠’ 사기...檢, 6명 구속 기소  </title>
       <link>https://www.chosun.com/national/regional/2025/10/01/RXSUX4ZJJBBV7M5BW3BEXXXFDA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/RXSUX4ZJJBBV7M5BW3BEXXXFDA/</guid>
@@ -820,60 +877,6 @@
       <description/>
       <pubDate>Tue, 30 Sep 2025 15:36:00 +0000</pubDate>
       <content:encoded>가을로 들어선 10월, 경북 영천은 다양한 축제로 물든다. 밤하늘을 수놓은 별빛을 감상할 수 있는 보현산별빛축제, 와인과 한우의 풍미를 즐길 수 있는 영천와인페스타와 별빛한우 명품구이축제를 비롯해 한약축제, 문화예술제가 오는 17일부터 19일까지 보현산천문과학관과 영천강변공원 등 지역 곳곳에서 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BY5X33MHTBHGBBTJVCL5RGFBOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영천을 대표하는 축제가 10월 17~19일 보현산천문과학관과 영천강변공원 등 지역 곳곳에서 통합 개최된다. 축제 등 영천의 매력으로 생활인구는 주민등록 인구의 5배를 기록했다. 또 지난해 합계출산율 전국 시부 1위, 전국 시군별 귀농인 수도 1위에 오르는 등 인구증가에 대한 기대감도 높이고 있다. 사진은 지난해 열린 영천보현산별빛축제 개막식 드론쇼의 한 장면. /영천시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇영천, 축제로 물든다&lt;/b&gt;&lt;br&gt;&lt;br&gt;제22회 영천보현산별빛축제는 ‘영천의 별빛 아래, 토성의 고리를 찾아’를 주제로 보현산천문과학관 일원에서 개최된다. ‘별의 도시’ 영천은 청정 자연이 선사하는 밤하늘과 국내 최대 광학 망원경을 갖춘 보현산천문대 등 풍부한 천문과학 인프라를 자랑한다. 축제는 7년 연속 경상북도 우수축제로 선정됐다. 평소 민간 개방이 제한됐던 보현산천문대가 특별 개방돼 색다른 경험을 선물한다. 지난해 큰 호응을 얻은 드론라이트쇼는 올해 500대 규모로 늘렸다. 여기에 축제장 주변에는 누적 방문객 100만명을 돌파한 영천의 대표 명소 ‘보현산댐 출렁다리’와 시속 100㎞로 즐기는 ‘보현산댐 짚와이어’도 함께 운영 중이다. 출렁다리는 축제 기간 오후 9시까지 야간 개장해 환상적인 가을밤 야경을 선사할 것으로 기대된다.&lt;br&gt;&lt;br&gt;맑은 밤하늘을 수놓은 수많은 별로 눈이 행복했다면, 와인과 한우로 입이 즐거운 축제도 준비돼 있다. 같은 기간 제13회 영천와인페스타와 영천별빛한우 명품구이축제가 영천강변공원에서 열린다. 전국 최대 포도 주산지인 영천은 2007년 와인산업 선포식을 시작으로 기술 개발과 브랜드 육성에 힘써왔다. 그간의 노력이 쌓여 2018년 이후에는 매년 독일에서 열리는 베를린 국제와인대회(Berliner Wine Trophy)에서 연이어 수상하며 세계적 위상을 이어가고 있다. 영천 와인과 잘 어울리는 영천별빛한우는 시식 이벤트와 함께 10~30% 할인 판매를 진행한다. 320석 규모의 한우구이 식당을 운영해 강변에서 낭만적인 만찬을 즐길 수 있다.&lt;br&gt;&lt;br&gt;몸에 이로운 축제도 이어진다. 제23회 영천한약축제는 영천강변공원과 영천한의마을 등에서 열린다. 영천시 관계자는 “영천은 약재가 풍부해 ‘영천에 없는 약재는 우리나라에 없다’는 말이 있을 정도로, 한방특구로도 지정돼 있다”고 말했다.&lt;br&gt;&lt;br&gt;영천강변공원, 시민회관, 영천예술창작스튜디오에서 열리는 제51회 영천문화예술제는 전국 풍물·난타 경연 대회, 품바 페스티벌, 읍면동 줄다리기 등 전통과 현대가 어우러진 프로그램들로 꾸며진다. 축제 마지막 날인 19일에는 항일 가요 제1호 ‘황성옛터’를 작사한 왕평 이응호 선생의 업적을 기리는 제29회 왕평가요제가 열린다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇생활인구 급증, 출산율·고용률·귀농인 유입 성과&lt;/b&gt;&lt;br&gt;&lt;br&gt;축제 등 영천의 매력을 경험한 사람들이 꾸준히 늘면서 생활 인구도 큰 폭으로 증가하고 있다. 지방 소멸 위기 등으로 주민등록 인구 감소가 극복하기 어려운 과제로 꼽히지만, 영천은 다양한 축제와 관광 자원 등을 결집해 외지인의 발길을 끌어내고 있다. 생활 인구는 그 지역에 자리 잡고 사는 정주 인구뿐 아니라 일정 시간 이상 체류하는 사람까지 포함하는 개념이다. 그만큼 영천에서 시간을 보낸 이들이 크게 늘어났다는 의미다.&lt;br&gt;&lt;br&gt;영천시와 통계청에 따르면, 지난해 9월 영천시 생활인구는 50만5941명으로, 주민등록 인구의 5배를 기록했다. 여기에 2030년 개통 예정인 대구도시철도 1호선 영천(금호) 연장 사업, 금호에서 영천 도심을 연결하는 추가 연장 사업, 영천경마공원 조성 등이 마무리되면 생활인구는 물론 정주인구까지 크게 늘어날 것으로 기대된다. 현재 공정률 85%로 내년 9월 개장 예정인 영천경마공원은 단순한 경마장을 넘어선 복합 레저 문화 공간으로 조성돼 생활인구 유입의 기폭제가 될 것으로 기대를 모으고 있다.&lt;br&gt;&lt;br&gt;영천시는 생활인구뿐만 아니라 다양한 출산·보육 정책이 효과를 보이면서 지난해 합계출산율 1.25명을 기록, 전국 시부 1위, 경북 지역에서는 6년 연속 시부 1위 자리를 지키고 있다. 주요 정책으로는 산후조리비 지원, 초등학교 입학 축하금 지급, 관내 학생 버스비 무료화, 청소년 안심 귀가 택시비 지원 등을 시행하고 있다. 또 지난해 귀농 인구가 가장 많이 선택한 지역도 ‘영천’이었다. 농림축산식품부·해양수산부·통계청이 공동 발표한 ’2024년 귀농어·귀촌인통계’에 따르면, 시군별 귀농인 규모 1위는 경북 영천시(140명)였다. 2023년 전국 4위를 기록했던 영천은 지난해 1위로 올라섰다.&lt;br&gt;&lt;br&gt;고용률도 높다. 통계청이 발표한 2025년 상반기 지역별 고용 조사에 따르면, 영천시 고용률은 68.3%로 전국 시 단위 4위, 경북 시 단위 1위를 기록했다. 특히 청년층 고용률은 47.2%로 도내 1위다. 시 관계자는 “청년·여성·고령층 등 고용 취약 계층의 일자리까지 폭넓게 개선된 결과”라고 분석했다. 이 같은 성과는 우량 기업 투자 유치와 신성장 산업 육성, 기업 경쟁력 강화 정책이 뒷받침된 결과로 풀이된다.&lt;br&gt;&lt;br&gt;영천시는 하이테크파크지구를 비롯해 고경·대창·금호·도남 등 5개소 110만평의 대규모 산업단지를 조성 중이다. 이를 기반으로 2023년에는 화신, 로젠 등 기업을 유치했으며, 2024년에는 영진, 금창, 한호 등과 3조5521억원 규모의 투자협약을 체결하며 2년 연속 경상북도 투자유치 대상을 받았다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇영천의 매력과 경쟁력은 업그레이드 중&lt;/b&gt;&lt;br&gt;&lt;br&gt;영천시는 생활 인구 유입 확대를 위해 문화·관광·산업 전반에서 경쟁력 확보에 나서고 있다. 보현산댐 출렁다리 주변 관광 활성화를 위해 보현산 자연휴양림 내 목재체험관을 아이 친화형 체험 공간으로 리모델링하고, 숲속 야영장, 워케이션형 숙박 시설, 치유의 숲 등 산림휴양 인프라를 확충해 웰니스 관광 중심지로 발전시킬 계획이다. 올해 말에는 출렁다리 주변에 별빛 프로포즈 탐방로도 조성된다. 화랑설화마을에는 2027년 준공을 목표로 포도·와인 콘셉트의 경북형 이색 숙박 시설이 들어서며, 반려동물 문화센터 조성도 검토 중이다.&lt;br&gt;&lt;br&gt;오는 11월에는 한 시대를 풍미한 영화배우 신성일을 기리는 ‘신성일 기념관’이 개관한다. 내년 개관을 목표로 하는 영천시립박물관과 지난해 본격 용역에 착수한 문화예술회관이 차례로 문을 열 예정이다. 지난 6월 국보로 승격된 ‘영천 청제비’의 세계문화유산 등재도 추진 중이다. 이와 함께 미발굴 고분군과 고인돌 등 선사시대 유적을 체계적으로 조사·정비하는 고대 골벌국 문화유산 복원 사업을 추진해 영천의 고대사적 가치를 재조명할 방침이다.&lt;br&gt;&lt;br&gt;최기문 영천시장은 “상대적으로 덜 알려진 영천의 매력은 새롭게 발굴하고, 이미 전국적으로 인정받은 매력은 더욱 발전시켜 더 많은 사람이 영천을 찾을 수 있도록 온 힘을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“여러 축제 함께 열면 매력 극대화… 대구도시철도 1호선 연장·경마공원으로 미래 바꿀 것”</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/LNUQPHRWY5FRJOWXCTHBXPCU34/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/LNUQPHRWY5FRJOWXCTHBXPCU34/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:36:00 +0000</pubDate>
-      <content:encoded>“각 축제마다 고유한 매력과 탄탄한 콘텐츠를 갖고 있어 개별 개최로도 충분히 경쟁력 있고, 매력적입니다. 하지만 같은 기간에 통합 개최하면 시너지를 극대화할 수 있을 것으로 기대하고 있습니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMAUKNBC7VFYVJT2G3FXBRRFIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최기문 영천시장. /영천시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영천 지역 대표 축제를 같은 기간에 열게 된 배경에 대해 최기문 영천시장은 30일 이렇게 말했다. 최 시장은 “이번 축제를 통해 영천의 진짜 매력을 충분히 느끼고 다시 찾고 싶은 도시로 기억해주면 좋겠다”고 말했다.&lt;br&gt;&lt;br&gt;이런 노력 등으로 영천의 생활 인구는 크게 늘었다. 하지만 전국적인 인구 감소와 지방 소멸의 거친 파도를 피해 갈 수 없는 상황이다. 이에 최 시장은 축제로 찾는 사람을 늘리고, 일자리와 교육 문제 해결에 집중해 터잡고 사는 사람까지 늘리기 위해 노력 중이다.&lt;br&gt;&lt;br&gt;최 시장은 “좋은 일자리는 좋은 기업에서 나온다. 좋은 기업 유치를 위해 현재 5개소 110만평 규모의 산업단지를 조성 중”이라며 “올해 7월에는 ㈜카펙발레오와 1600억원 규모의 투자협약을 체결해 100여 명의 신규 고용이 전망된다”고 말했다. 영천시는 지난해 3조5521억원의 투자 유치로 2년 연속 경북도 투자유치 대상을 받았다.&lt;br&gt;&lt;br&gt;또 영천고등학교가 제2한민고로 불리는 군인자녀 모집형 자율형 공립고로 선정돼 2026년 3월 개교를 앞두고 있어 교육 여건도 개선될 것으로 기대되는 상황이다.&lt;br&gt;&lt;br&gt;여기에 2030년 대구도시철도 1호선 영천(금호) 연장 개통과 2026년 9월 영천경마공원 개장은 영천의 미래를 바꿀 결정적 전환점이 될 것으로 최 시장은 기대하고 있다.&lt;br&gt;&lt;br&gt;끝으로 최 시장은 “영천시민 여러분의 관심과 성원 덕분에 영천이 크고 작은 성과들을 이뤄낼 수 있었다”며 “앞으로도 도시철도 연장, 경마공원 개장, 우량기업 유치 등 역점 과제들을 차질 없이 추진해 ‘시민이 행복한, 위대한 영천’을 만들어 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] stumble over one’s words</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/01/V7H74YIZGFBYDGC5RO6XAP7WQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/01/V7H74YIZGFBYDGC5RO6XAP7WQI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BGTPVC5M4ZCYTBXEWVQGJIZF4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 간곡(懇曲)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/01/YWZYTVDYSVCFRLD3BDNYIRXKCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/01/YWZYTVDYSVCFRLD3BDNYIRXKCA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GBJXMERNZEDBJ75TASB2MEEEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2717] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2025/10/01/EV4TFJXVZ5FLBLIKIVHHG2SP4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/01/EV4TFJXVZ5FLBLIKIVHHG2SP4U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TRHCTXXQ6RCU5GRMZ5J5XBAK5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 열전을 벌이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/01/M6Q7B7GP4ZGCDJSOSCIWAREXQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/01/M6Q7B7GP4ZGCDJSOSCIWAREXQM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3OSEGST25DOZGSTVMDZFHL554.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 황금연휴</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/01/MI2LY2ZY75BVHPNOMBQBWVGZ5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/01/MI2LY2ZY75BVHPNOMBQBWVGZ5U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Sep 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REIXLBD7VFG4LKSEDFOYXMHWMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 10월1일</title>
