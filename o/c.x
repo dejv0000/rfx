@@ -13,6 +13,110 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>압구정 3구역, 최고 70층 5175가구로 탈바꿈… 담장도 없앤다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/02/7AZNNYNQ5ZC47MBGELIBHKEN3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/7AZNNYNQ5ZC47MBGELIBHKEN3U/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 13:01:11 +0000</pubDate>
+      <content:encoded>서울 강남의 대표 재건축 단지인 ‘압구정 3구역’이 최고 70층 5175가구로 탈바꿈한다. 서울시는 이 같은 내용의 ‘압구정3구역 정비계획안’이 도시계획위원회를 통과했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;현재 3934가구 단지를 5175가구 규모로 재건축한다. 이 중 공공 주택이 641가구다. &lt;br&gt;&lt;br&gt;단지 한가운데 두 동은 최고 250m 높이로 짓는다. 층수로는 70층 안팎이다. 나머지 동은 50층 이내로 짓는다.&lt;br&gt;&lt;br&gt;압구정동 일대에는 현대·한양·미성 등 1만 가구가 6구역으로 나뉘어 재건축을 추진하고 있다. 압구정3구역은 압구정 현대 1~7차, 10차 등을 포함한다. 49년 전인 1976년 이후 차례로 입주했다. 넓이는 약 36만㎡로 여의도공원(약 23만㎡)보다 크다. &lt;br&gt;&lt;br&gt;2000년대부터 재건축을 추진했으나 주민 간 이견 등으로 부침이 많았다. 서울시가 2023년 ‘신속 통합 기획’ 대상으로 선정해 사업에 속도가 붙었다. &lt;br&gt;&lt;br&gt;당초 조합은 단지와 성동구 성수동을 잇는 보행교(약 1㎞)를 지어 서울시에 기부 채납한다는 계획이었다. 그러나 4000억원에 달하는 비용이 걸림돌이었고 결국 계획안에서 빠졌다.&lt;br&gt;&lt;br&gt;대신 단지를 남북으로 관통하는 공공 통로를 만들기로 했다. 단지 북쪽에는 걸어서 한강공원을 오갈 수 있는 ‘덮개 공원’도 만든다. 단지와 한강공원을 가르는 올림픽대로 상공에 덮개를 씌워 산책로를 만드는 것이다. 단지를 둘러싸는 담장도 없애 개방형 단지로 만든다. &lt;br&gt;&lt;br&gt;서울시는 이날 ‘목동 1~3단지 재건축 정비계획안’도 도시계획위원회를 통과했다고 밝혔다. 1~3단지는 목동 재건축 14단지 중 가장 사업 속도가 늦었는데 이번에 막차를 탔다. 목동 14단지는 총 4만7438가구 규모로 ‘미니 신도시급’ 대단지로 탈바꿈한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S3VZUV2C5ZZPQPQV5M7N53UWHA.jpg?auth=b76070a28dbdcc3c41457f8c4442fa3891e675e413b8c7cb3eaf52879be3ee7f&amp;smart=true&amp;width=626&amp;height=425" type="image/jpeg" height="425" width="626">
+        <media:description type="plain">압구정3구역 투시도./서울시 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu">서울시 제공</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>조사 마친 이진숙 측 “3일 법원에 체포적부심 청구” </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/02/7AB7SNABHFBPZARUWQXUNTXFCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/7AB7SNABHFBPZARUWQXUNTXFCI/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 12:48:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VS2ZEBEPDRODTBMOVLNHU5IZDU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 2일 오후 서울 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서에서 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선거법 위반 등의 혐의로 체포된 이진숙 전 방송통신위원장 측이 3일 법원에 체포 적부 심사를 청구하겠다고 밝혔다. 경찰은 지난 8~9월 서면으로 여섯 차례 출석 요구를 했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 2일 오후 4시쯤 공직선거법, 국가공무원법 위반 등의 혐의로 이 전 위원장을 체포해 3시간 넘게 조사했다. 조사를 마친 뒤 이 전 위원장은 유치장에 입감됐다.&lt;br&gt;&lt;br&gt;이 전 위원장이 조사를 마친 이날 오후 9시 15분쯤 이 전 위원장의 대리인 임무영 변호사는 “3일 법원에 체포적부심을 청구하겠다”며 “3일 오전 10시부터 경찰 조사 진행 예정”이라고 했다.&lt;br&gt;&lt;br&gt;이날 경찰은 “(이 전 위원장에 대해) 지난 8월 12일부터 9월 19일까지 서면으로 출석 요구서를 발송했다”고 밝혔다. 이어 “그럼에도 이 전 위원장이 출석에 불응해 법원에서 체포 영장을 발부받아 집행했다”고 했다.&lt;br&gt;&lt;br&gt;임 변호사는 이날 “시간이 별로 없어 구체적인 범죄 사실보다는 실질적인 출석 요구가 있었는지 사실관계를 따졌다”며 “출석 협의가 됐음에도 불응했다고 한 체포 영장은 검사와 판사를 기망한 허위 공문서”라고 주장했다. &lt;br&gt;&lt;br&gt;이어 임 변호사는 “경찰이 구속영장을 신청하는 경우, 검찰에서 현명한 판단을 통해 기각해주기를 바라고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장은 공직선거법과 국가공무원법 위반 혐의로 고발돼 경찰 수사를 받아왔다. 이 전 위원장은 유튜브에서 “민주당이나 좌파 집단은 우리가 상상할 수 있는 모든 것을 하는 집단”이라며 “우리가 상상하지 못한 것도 하는 집단”이라고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>낮은 수가, 의료 사고 우려... 전국 산부인과 89%가 분만 0건</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/02/HCBTXDRGNRCSTO7RR7PMSMTY4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/02/HCBTXDRGNRCSTO7RR7PMSMTY4M/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 13:02:54 +0000</pubDate>
+      <content:encoded>전국 산부인과 의원 10곳 중 9곳은 분만을 전혀 하지 않는 것으로 나타났다. 산모들은 응급 상황을 우려해 큰 병원을 선호하고, 산부인과 의원들은 수가가 낮고, 의료사고 우려가 있다는 등의 이유로 분만 자체를 기피하기 때문이다.&lt;br&gt;&lt;br&gt;2일 국회 보건복지위원회 김미애(국민의힘) 의원이 건강보험심사평가원에서 받은 자료를 분석한 결과, 의원급 산부인과는 전국에 1334곳으로, 이 중 89%(1185곳)가 올 들어 8월까지 분만에 대한 건강보험 청구를 전혀 하지 않았다. 이 병원들에서 분만이 전혀 이뤄지지 않았다는 뜻이다. 분만을 하지 않는 산부인과 의원 비율은 2019년 83%에서 꾸준히 늘고 있다.&lt;br&gt;&lt;br&gt;지역 내 모든 산부인과 의원이 분만을 하지 않는 곳도 있었다. 광주광역시는 산부인과 의원 35곳 전부가, 전남은 19곳 전부가 연간 분만이 0건이었다. 의원은 병상 수가 29개 이하인 의료 기관이다. 광주·전남 지역에선 분만이 모두 대형 병원에서 이뤄졌거나, 다른 지역으로 원정 분만을 갔다는 것이다. 대구광역시는 산부인과 의원 76곳 중 분만을 한 의원이 단 1곳에 그쳤다. 대구에서는 99%의 산부인과 의원이 분만을 하지 않는다는 뜻이다. 서울도 산부인과 의원 401곳 중 6%(23곳)만 분만이 이뤄졌다. &lt;br&gt;&lt;br&gt;병원 규모가 클수록 분만이 이뤄지는 비율이 높았다. 산부인과가 있는 전국 상급 종합병원 47곳은 암 치료에 특화된 화순전남대병원 1곳을 제외하고는 모두 분만이 이뤄졌다. 산부인과가 있는 일반 종합병원은 286곳 중 26%(78곳)에서만 분만이 이뤄졌다. &lt;br&gt;&lt;br&gt;의료계에선 산부인과 의원의 분만 기능이 급격히 약화되고 있다는 지적이 나온다. 산부인과 의원들이 응급 상황이 생기거나 의료사고 우려가 있는 분만실 운영 대신 부인과 질환 진료나 시술 중심으로 운영을 바꾼다는 것이다. 산부인과 간판은 달고 있지만 아이를 낳을 수는 없는 곳이 계속 늘고 있는 셈이다. 이 때문에 일부 지역에선 큰 병원이 있는 다른 지역으로 ‘원정 출산’을 가야 하는 경우도 생기고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>면직 다음날 체포된 이진숙 “李가 시켰나, 정청래가 시켰나”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/02/Y75AYMXGQJGYDP3ACCGLJEZDR4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/Y75AYMXGQJGYDP3ACCGLJEZDR4/</guid>
+      <dc:creator>김도연 기자, 한영원 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 12:02:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MLQPZEOBJPUVKSLZDZCZQPYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 경찰에 체포된 이진숙 전 방송통신위원장이 수갑 찬 손을 들어 보이며 발언하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 2일 이진숙 전 방송통신위원장을 자택 인근에서 체포했다. 지난 1일 더불어민주당이 국회에서 강행 처리한 방송미디어통신위원회 설치법이 국무회의에서 공포돼 자동 면직된 지 하루 만이다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오후 4시쯤 서울 강남구 대치동 이 전 위원장의 자택 지하 주차장에서 법원이 발부한 체포 영장을 집행했다. 경찰은 이 전 위원장이 지난달 27일 오후 2시로 예정했던 출석 요구에 응하지 않았다며 체포 영장을 신청한 것으로 알려졌다. 경찰 관계자는 “여섯 번에 걸쳐 서면으로 출석 요구서를 발송했지만 불응해 법원에서 체포 영장을 발부받아 체포했다”고 했다. 경찰은 이 전 위원장을 경찰서로 데려가면서 수갑을 채웠다.&lt;br&gt;&lt;br&gt;이 전 위원장은 공직선거법과 국가공무원법 위반 혐의로 고발돼 경찰 수사를 받아왔다. 그는 작년 7월 31일 방통위원장에 취임한 뒤 이틀 만에 더불어민주당에서 탄핵 소추돼 직무가 정지됐었다. 이후 직무 정지 상태이던 작년 9월 우파 성향 유튜브에 출연해 한 발언이 공무원의 정치 중립 의무를 위반했다며 민주당 등이 경찰에 고발한 것이다. 당시 이 전 위원장은 유튜브에서 “민주당이나 좌파 집단은 우리가 상상할 수 있는 모든 것을 하는 집단”이라며 “우리가 상상하지 못한 것도 하는 집단”이라고 했었다.&lt;br&gt;&lt;br&gt;---&lt;br&gt;&lt;br&gt;이진숙 전 위원장은 이날 체포돼 압송되면서 수갑을 찬 두 손을 들고 기자들에게 “국회에 출석하느라 경찰서에 못 왔다는 이유로 내게 수갑을 채웠다”며 “선출 권력보다 개딸 권력이 더 센 것이냐. 대통령 위에 개딸 권력 있냐”고 했다. 그는 이어 “‘전쟁입니다’란 말을 한 여성이 떠오른다. 이재명(대통령)이 시켰나 정청래가 시켰나”라며 “민주당과 좌파 집단은 우리가 상상하는 모든 일을 하는 집단, 상상하지도 못하는 일을 하는 집단이라고 말한 적 있죠? 이진숙, 여기 수갑 차고 있다”고도 했다.&lt;br&gt;&lt;br&gt;지난 4월 민주당 의원들은 영등포경찰서에 이 전 위원장을 고발했었다. 이후 현 정부 출범 직후인 지난 7월 이 전 위원장은 감사원에서 ‘정치적 중립 의무 위반’으로 주의 조치도 받았다. 당시 대통령실도 이 전 위원장 발언과 관련해 “직권 면직을 검토 중”이라고 했었다.&lt;br&gt;&lt;br&gt;이날 강유정 대통령실 대변인은 브리핑에서 “(이 전 위원장이) 경찰 소환에 불응했다고 들었다. (불응이) 3회 이상이면 체포되고 체포 영장이 발부되는 것으로 알고 있다”고 했다. 경찰도 이 전 위원장이 고발돼 피의자로 입건된 상황에서 수차례 출석 요구에 불응했기 때문에 체포 절차를 밟았다고 했다.&lt;br&gt;&lt;br&gt;그러나 이 전 위원장 측은 경찰이 출석을 요구한 지난달 27일 국회에서 방송미디어통신위 설치 법안과 관련해 진행된 무제한 토론(필리버스터) 일정에 출석하느라 조사에 응하지 못한 것이라고 했다. 불출석 사유서도 경찰에 제출했다고 한다.&lt;br&gt;&lt;br&gt;이 전 위원장 법률 대리인인 임무영 변호사는 “경찰이 국회 상임위 사무실로 전화해 출석을 요구했다는데 이 전 위원장은 부재해 받을 수가 없었다”고 했다. 그는 “지난달 27일에도 국회 필리버스터 일정 때문에 경찰에 불출석 사유서를 내고 구두로 설명했는데도 체포 영장을 집행했다”며 “과잉 체포인 만큼 오후 9시 이후 야간 조사에는 응하지 않을 것”이라고 했다. 경찰은 체포한 피의자에 대해 48시간 이내에 법원에 구속영장을 신청하거나 그렇지 않으면 석방해야 한다.&lt;br&gt;&lt;br&gt;경찰은 이진숙 전 위원장이 민주당을 직접적으로 언급하는 등 이재명 당시 민주당 대표의 대통령 당선을 저지하기 위한 목적(선거법 위반)이 있었을 것으로 의심하는 것으로 알려졌다. 그러나 임 변호사는 “이 전 위원장이 유튜브에 출연한 작년 8월은 (12·3 비상계엄 이전이라) 대선이 있을지 불확실했던 시기인 만큼 말이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;장동혁 국민의힘 대표는 이날 긴급 간담회를 열고 “추석을 앞두고 경찰·검찰·특검 등이 무언가 할 것이라고 예상했는데 결국 이 전 위원장을 체포했다”고 했다. 송언석 국민의힘 원내대표도 페이스북에서 “‘게슈타포식 기습’이다. 여론을 왜곡하려는 전형적인 정치 수사이자, 아첨 수사”라고 했다. &lt;br&gt;&lt;br&gt;법조계 일각에선 경찰의 이 전 위원장 체포 영장 집행이 이례적이라는 반응이 나왔다. 정권에 비판적인 발언을 한 인사에 대한 ‘보복 수사’로 비칠 수 있다는 것이다.&lt;br&gt;&lt;br&gt;국민의힘에선 이 대통령도 과거 검찰의 소환 요구를 수차례 거부했던 것을 언급하고 있다. 이 대통령은 제3자 뇌물 혐의 등으로 기소된 ‘쌍방울 불법 대북 송금’ 사건과 관련, 민주당 대표였던 지난 2023년 8~9월 검찰의 소환 요구에 두 차례 거부했다가 9월 9일 소환에 응했다. 이 대통령은 2022년에도 선거법상 허위사실 공표 혐의 고발 사건을 수사하는 검찰의 소환 조사에 한 차례 응하지 않았다. 성남FC 불법 후원금 의혹 사건 등 4개 사건에서 이 대통령이 2022년 이후 검찰 소환에 불응한 건 총 다섯 번이다. 국민의힘에선 “이런 이 대통령에 대해서도 검찰이 체포영장을 집행하지는 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VS2ZEBEPDRODTBMOVLNHU5IZDU.JPG?auth=6cf10d8eb0fada6bb41c1efded5fb8a4452b43106bd0e492a7163937dfd2fa49&amp;smart=true&amp;width=1671&amp;height=1118" type="image/jpeg" height="1118" width="1671">
+        <media:description type="plain">(서울=뉴스1) 김진환 기자 = 이진숙 전 방송통신위원장이 2일 오후 서울 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서에서 입장을 밝히고 있다. 
+
+경찰은 이날 오후 4시 4분쯤 국가공무원법 및 공직선거법 위반 혐의로 이 전 위원장에 대한 체포영장을 집행했다. 2025.10.2/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김진환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박정희정권 ‘위수령’에 軍 강제징집… 법원 “국가가 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/JTJZ4MQB7VHB7AN5GEMHLFK53U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/JTJZ4MQB7VHB7AN5GEMHLFK53U/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 11:01:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQ2K6RIIFYEFPCRTQD2LSH2KE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가가 1970년대 박정희 정권이 내린 위수령(衛戍令)에 의해 영장 없이 체포·구금돼 고문당하고 군에 강제징집된 대학생들에게 배상해야 한다는 1심 판결이 나왔다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사31부(재판장 남인수)는 2일 김재홍 전 의원 등 15명이 정부를 상대로 30억여 원을 청구한 국가 배상 소송에서 원고 일부 승소 판결을 내렸다. 배상액은 피해자 1인당 수천만원에서 1억여 원가량 인정된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사건은 1971년 박정희 정권이 위수령을 선포해 민주화 운동을 주도한 대학생들을 강제 연행해 구금하고 군대에 일괄 징집한 것이 발단이다. 당시 중앙정보부(현 국가정보원)아 국군보안사령부, 경찰 등이 중심으로 가혹 행위가 이뤄졌다. 김 전 의원은 재판에서 “위수령으로 1800여 명의 대학생이 강제 연행됐고, 학생 간부 167명이 중앙정보부, 보안사, 경찰 등에 영장 없이 불법 구금돼 고문을 받았다”며 “강제징집 피해자들은 보안사의 감시, 사찰을 받으며 군 생활을 했다”고 증언했다.&lt;br&gt;&lt;br&gt;앞서 진실·화해를위한과거사정리위원회(진실화해위)는 이 사건 피해자들에 대한 국가의 사과와 명예 회복 조치 등을 권고했지만, 정부는 공식 사과하지 않고 있다.&lt;br&gt;&lt;br&gt;재판부는 “원고들에 대한 국가의 조치는 위법하며 이에 관여한 공무원의 고의 과실이 인정된다”고 판단했다. 이어 “진실화해위가 국가와 불법 행위에 관여한 각 기관들이 중대한 인권을 침해했으므로 피해자들에게 사과해야 한다고 결정했으나 이 같은 조치가 취해졌는지 확인된 바 없다”며 “국가공무원인 담당 판사로서 국가폭력 피해자들께 진심으로 사과드린다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이진숙측 “불법 구금... 야간 조사 응하지 않겠다” </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/02/BKZLYVPQKJAZRCWRK7QRASGYEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/BKZLYVPQKJAZRCWRK7QRASGYEY/</guid>
+      <dc:creator>한영원 기자, 김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 11:33:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RBO7WWSEOFOQXAA6NFCYNMF2W4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 2일 오후 서울 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서에서 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 경찰이 이진숙 전 방송통신위원장을 체포한 가운데, 이 전 위원장 측은 “불법 구금이다. 야간 조사에 응하지 않겠다”고 했다. &lt;br&gt;&lt;br&gt;서울 영등포경찰서는 이날 오후 4시쯤 이 전 위원장을 공직선거법, 국가공무원법 위반 등의 혐의로 체포했다. 이 전 위원장은 이날 오후 5시 40분쯤 영등포경찰서에 도착해 경찰 조사에 응했다.&lt;br&gt;&lt;br&gt;이날 오후 6시쯤 이 전 위원장 대리인 임무영 변호사는 “오후 9시 이후의 야간 조사에는 응하지 않을 예정”이라며 “이 전 위원장은 어제 자로 위원장직에서 면직됐는데 다음 날 이렇게 체포 영장을 집행한 것은 경찰이 권한을 남용한 것이다. 불법 체포다”라고 말했다.&lt;br&gt;&lt;br&gt;또한 임 변호사는 “경찰에서 소환 일정을 통보했으나 모두 소환 일자를 넘기고서야 소환장이 도착했다”며 “국회 일정으로 출석이 어렵다고 지난달 26일 경찰에 불출석 사유서를 부쳤으나 경찰은 소환장을 보내겠다고 했다. 결국은 체포영장을 위한 사전 포석이었다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;수갑을 찬 채 영등포경찰서에 도착한 이 전 위원장은 “민주당과 좌파 집단은 우리가 상상하는 모든 일을 하는 집단”이라며 “선출 권력보다 개딸 권력이 더 센 것이냐. 대통령 위에 개딸 권력이 있냐”고 말했다.&lt;br&gt;&lt;br&gt;이날 국민의힘 의원들은 영등포경찰서를 방문해 서장을 만나 이 전 위원장의 체포에 대해 항의했다. 조배숙 의원은 “(이 전 위원장을 체포한 것은) 정치 보복이고, ‘이진숙 죽이기’라고 생각한다”며 “국회에서 엄중하게 절차적 정당성을 따져 물을 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 경찰은 체포영장에 이 전 위원장 측이 제출한 불출석 사유서를 첨부한 것으로 알려졌다. 출석 요구서를 보낼 때도 보낸 즉시 방통위 사무실로 팩스를 보낸 것으로 전해졌다. 장동혁 국민의힘 대표는 이날 기자회견을 열고 “구두로 출석할 수 없다는 사실을 통보받았다는 수사 보고서, 그리고 서면으로 제출된 불출석 사유서를 수사 기록에 첨부하지 않고 체포영장을 신청하고 청구했다면 모두 직권남용죄로 처벌받아야 마땅하다”고 주장했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검사 문전박대’ 한 정부 검찰개혁단, 논란 일자 “연휴 끝나면 출근해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/WL3CEDQHUNFWNFHLYLC2P2QY74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/WL3CEDQHUNFWNFHLYLC2P2QY74/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 11:13:09 +0000</pubDate>
+      <content:encoded>검찰청을 폐지한 뒤 신설되는 중대범죄수사청(중수청)과 공소청의 설계를 총괄하는 국무총리실 산하 ‘범정부 검찰제도개혁 추진단’(추진단)에 파견된 검사들이 추석 연휴를 마치는 대로 추진단에 출근해 업무를 시작하는 것으로 2일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVU5R2TH4XM246YXUNKUCHD2ZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이날 추진단은 검사 6명과 수사관 10여 명으로 구성된 법무부의 파견을 받아들이기로 결정했다. 전날 출범해 정식 업무를 시작한 추진단은 검사들을 비롯한 파견 인력이 출근했으나, 이들의 회의 참석을 거부한 사실이 알려져 논란을 빚었다.&lt;br&gt;&lt;br&gt;추진단이 검사 파견을 받아들이지 않은 배경엔 여당을 중심으로 “검찰개혁에 검사가 왜 참여하느냐”는 지적이 나왔기 때문이라는 말이 법조계 안팎에서 나왔다. 총리실도 파견 검사 인원을 줄여야 한다는 입장이었다고 한다. &lt;br&gt;&lt;br&gt;그러나 현직 검사장인 박영진 법무연수원 연구위원이 “판·검사 등 형사사법 전문가들이 참여해도 검찰 개혁 논의에 수년이 걸릴 것”이라고 지적하는 등 검찰 안팎의 반발이 이어졌고, 추진단도 이를 의식한 것으로 보인다. &lt;br&gt;&lt;br&gt;정부와 여당은 지난달 7일 정부조직 개편안을 발표하면서 검찰청을 폐지하겠다고 선언했다. 검찰청에 있던 수사 기능은 행정안전부 산하 중수청으로, 기소 기능은 법무부 산하 공소청이 맡기로 했다. 이러한 내용을 담은 정부조직법 개정안은 지난달 26일 국회 본회의를 통과했고, 정부는 지난달 30일 국무회의에서 정부조직법 개정안의 공포를 의결했다. &lt;br&gt;&lt;br&gt;내년 10월 개정안이 시행되기 전, 추진단은 국회에 제출할 공소청·중수청 설치 법안, 형사소송법 개정안을 작성하는 업무를 맡는다. 검찰청 폐지와 공소청·중수청 설치로 함께 바뀌어야 하는 법률 180여 개, 하위 법령 900여 개의 제·개정안도 정비한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OVU5R2TH4XM246YXUNKUCHD2ZI.jpg?auth=4f21d1ab3a6c8d70366941b534ecfe5ecd365adfaa547d26b99079e4d6e3c997&amp;smart=true&amp;width=5358&amp;height=3036" type="image/jpeg" height="3036" width="5358">
+        <media:description type="plain">서울 서초구 대검찰청 모습. 2025.9.25/뉴스1 ⓒ News1 김성진 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 김성진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“차량 밀고 수백미터 달려”... 달아났던 운전자 ‘자수’</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/10/02/UVQ3TB2ZAJEHNFZFBFABQYHV4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/10/02/UVQ3TB2ZAJEHNFZFBFABQYHV4I/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 11:23:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKLLX6NJDJCBFBU2VCBAU4FLCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피해차량 블랙박스에 담긴 사고 당시 도주하는 트레일러 모습/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고속도로에서 SUV 차량을 들이받고 수백m를 밀고 가다 도주한 트럭 운전자가 경찰에 자수했다. &lt;br&gt;&lt;br&gt;충북경찰청 고속도로순찰대는 특정범죄가중처벌법상 도주치상 혐의로 50대 A씨를 불구속 입건해 조사하고 있다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 17일 오후 6시 45분쯤 중부내륙고속도로 하행선 북충주 IC 인근에서 자신의 20t 트레일러로 SUV를 들이받은 뒤 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 A씨는 자신의 차량으로 SUV 뒷부분을 들이받은 뒤 반쯤 돌아 가로로 놓인 사고 차량을 속력을 줄이지 않은 채 수백m를 밀고 달렸다. &lt;br&gt;&lt;br&gt;사고 당시 피해 차량 블랙박스에는 운전자가 ‘멈춰’라고 소리를 지르면서 경적을 울렸지만, 트레일러는 속도를 줄이지 않고 밀고 달리는 모습이 고스란히 담겨 있었다.&lt;br&gt;&lt;br&gt;수백 미터를 밀려가던 SUV는 갓길로 튕겨 나가서야 멈출 수 있었다. 사고 후 A씨는 갓길에 내려 자신의 차량을 이곳저곳 살피더니 그대로 달아나 버렸다. &lt;br&gt;&lt;br&gt;SUV 운전자 B(40대)씨는 이 사고로 전치 2주의 부상을 입은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 언론 보도에 나온 사고 영상에서 자신의 트레일러를 알아본 동료가 연락하자 이날 경찰에 자수한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서 A씨는 “사고가 난 줄은 몰랐다”며 혐의를 부인한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하는 한편, A씨의 휴대전화 등을 분석해 A씨가 사고를 인지했는지 규명할 방침이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자유대학, 개천절 ‘반중 집회’ 가능… 법원 “경찰 제한 집행정지 인용”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/YDBEXKFWQ5EDXCDKHGNJPYKPIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/YDBEXKFWQ5EDXCDKHGNJPYKPIQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 10:28:24 +0000</pubDate>
+      <content:encoded>보수 단체 ‘자유대학’이 경찰의 집회 제한 조치를 취소해 달라며 낸 가처분 신청을 법원이 일부 받아들였다. 이에 자유대학은 예정대로 개천절인 내일(3일) 반중 집회를 개최할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T76QISTPZ7MME3XR57MTA3R2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 2일 오후 서울 중구 명동 거리에서 자유대학 집회 참가자들이 부정선거 의혹을 제기하며 외국인 관광객들 사이로 행진하고 있다.  /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 2일 자유대학이 서울경찰청장을 상대로 낸 ‘집회 금지 통고 처분 취소’ 집행정지 신청을 일부 인용했다. 다만 종로경찰서가 별도로 한 집회 제한에 대한 신청은 요건을 충족하지 못했다며 각하했다.&lt;br&gt;&lt;br&gt;자유대학은 오는 3일 오전 7시 흥인지문에 모여 광화문 일대로 행진하는 집회를 하겠다고 지난달 17일 신고했다. 그러자 서울경찰청 등은 “특정 인종이나 국적 등에 대한 혐오성 표현 등 공공의 안녕 질서에 위협이 될 수 있는 행위를 금지한다”면서 지난달 26일 집회 제한 통고를 내렸다. 경찰은 자유대학이 과거 반중 시위에서 ‘중국 멸망’ ‘짱개들아 돌아가라’ 등 혐오 표현을 사용해 외국인, 관광객, 상인과의 마찰을 빚었다는 점을 근거로 들었다. &lt;br&gt;&lt;br&gt;그러나 법원은 자유대학 측 손을 들어줬다. 법원은 “집회·시위에 관한 법률은 집회 금지나 제한 통고를 신청 48시간 내 해야 한다고 규정한다”면서 “자유대학이 지난달 17일 집회를 신고했을 때 경찰은 48시간 이내에 제한 통고를 하지 않았고, 10일이 지나서 사후 통고를 했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “사후적 집회 제한 통고는 폭행 등으로 공공 질서에 직접적인 위험을 초래한 경우에만 예외적으로 허용된다”고 밝혔다. 즉, 경찰이 뒤늦게 집회 제한을 통고할 정도로 위법성 있는 시위는 아니라는 취지다.&lt;br&gt;&lt;br&gt;다만 법원은 이번 결정이 자유대학의 집회에서 폭력이나 협박, 혐오 발언까지 허용한다는 뜻은 아니라고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “집시법은 주최자와 참가자 등 모두 폭행·협박·손괴·방화 등으로 질서를 문란하게 하는 행위를 해서는 안 된다고 명시적으로 규정한다”며 “경찰은 질서 유지를 위해 집회 시위 장소에 출입할 수 있고, 집단적 폭행 등으로 직접적 위협을 끼칠 것이 명백한 경우 해산을 명령할 수도 있다”고 강조했다.&lt;br&gt;&lt;br&gt;법원 결정에 따라 자유대학은 예정대로 개천절 집회를 열 수 있게 됐지만, 집회 과정에서 위법 행위가 발생하면 즉각 제재를 받을 수 있다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘유튜버 모욕’ 이근, 징역형 집행유예 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/YKFX4M2U4NHHZDT2FCPX2NFTAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/YKFX4M2U4NHHZDT2FCPX2NFTAE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 10:21:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DM7N3OUKNUWWKQJJE6NOUDF2XE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해군 대위 출신 유튜버 이근/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유튜버 ‘구제역(본명 이준희)’을 모욕하고 허위 사실을 유포한 혐의로 기소된 해군 대위 출신 이근(41)씨에게 징역형 집행유예가 확정됐다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 대법원 2부(주심 박영재 대법관)는 모욕·정보통신망법상 명예훼손 혐의로 기소된 이씨에게 징역 6개월에 집행유예 2년을 선고한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 12월 운영하는 유튜브 채널 게시판에 글을 써 이씨를 ‘입만 터는 방구석 렉카 XX’ ‘비만 루저’ 등으로 표현해 모욕한 혐의로 기소됐다. 이씨가 미성년자 여성 인플루언서를 스토킹했다는 내용의 허위 사실을 올리기도 했다. 앞서 2021년 연예부 기자 출신 유튜버 고(故) 김용호씨를 향해 ‘기생충’ ‘평생 썩어라’ ‘기자로서 실패하고 사업도 말아먹었다’ 등의 글을 게시한 혐의도 있다.&lt;br&gt;&lt;br&gt;1심은 이씨에게 벌금 500만원을 선고했으나 2심은 지난 7월 이 판결을 깨고 징역 6개월에 집행유예 2년으로 형량을 높였다. 2심 재판부는 “이씨가 비방할 목적으로 피해자(구제역) 명예를 훼손한 사실을 넉넉히 인정할 수 있다”며 “법원 경내에서 피해자에 대해 또 다른 범행을 저지르는 등 범죄 후 정황도 나쁘다”고 했다.&lt;br&gt;&lt;br&gt;이씨는 앞서 2023년 3월 서울중앙지법에서 여권법 위반 혐의 재판을 마치고 나오던 중 구제역과 시비를 벌이고 주먹으로 그의 얼굴을 때린 바 있다. 이씨는 당시 “6년째 신용불량자인데 채권자에게 미안하지 않나” 등 질문을 하는 구제역을 폭행했고 이 사건으로 벌금 500만원을 선고받고 형이 확정됐었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>계엄 당일 방첩사 대화방엔...“尹 ‘의원부터 잡으라고 했잖아...계엄 또 선포하면 돼’" </title>
       <link>https://www.chosun.com/national/court_law/2025/10/02/2HNQMNCLGFAYHHIHPOUH37HTU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/2HNQMNCLGFAYHHIHPOUH37HTU4/</guid>
@@ -814,24 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHJTO56SZRHU7ONNGK64UIRTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 학도병으로 참전했지만, 이 사실을 숨긴 채 세상을 떠난 어르신이 참전 용사로 인정받게 됐다. 지역 내 학도병을 찾는 교육청의 노력이 빛을 본 것이다. &lt;br&gt;&lt;br&gt;경북교육청은 지난 1998년 별세한 故 최영수씨가 국방부로부터 참전 사실을 공식 인정받도록 지원했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 6·25 전쟁이 발발한 1950년 경주공업중에 다니던 학생이었다. 전쟁이 터지자 최씨는 즉시 학도병에 지원했고, 같은 해 8월 대구에서 훈련을 받고 육군 1사단에 배속됐다. &lt;br&gt;&lt;br&gt;그해 최씨는 전우들과 함께 경북 칠곡군에서 벌어진 ‘다부동 전투’에 참전했다. 백선엽 준장이 이끌던 육군 1사단이 악전고투 끝에 북한군에 승리를 거두며 낙동강 전선을 지켜낸 현장에서 최씨도 함께 싸웠다.&lt;br&gt;&lt;br&gt;이후 1951년 3월 내려진 복교령(학교로 복귀하라는 명령)에 따라 최씨는 경주공업중이 개편된 경주공업고로 돌아가 학업을 마쳤다. 하지만 최씨에겐 전쟁의 기억이 평생의 상처로 남았다고 한다. 최씨가 참전용사였다는 사실은 아내와 아들 등 가까운 가족 외엔 아무도 몰랐고, 최씨 또한 주변에 알리지 않은 탓에 생전에 별다른 보훈 혜택도 받지 못했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASF2TT35JRBE5J5X3V2I2DXJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러던 중 최씨의 아들 최일권씨와 사위 이호택씨가 나섰다. 아들 최씨는 “아버지의 명예를 되찾기 위해서”라고 했다. 이들은 경북교육청이 올해 9월 25일부터 시작한 ‘경북 출신 학도병 찾기 프로젝트’ 소식을 접하고 연락을 취했다. 6·25 전쟁 당시 참전한 학도병들과 가족, 유족들을 통해 학도병들의 삶과 전쟁 경험 등 자료를 수집하고, 이들이 예우를 받을 수 있도록 국방부·국가보훈부 등 관계기관에 알리는 사업이었기 때문이다.&lt;br&gt;&lt;br&gt;경북교육청 측은 앞서 지난해 진행한 ‘경주 학도병 기록물 수집·전시 사업’에서 만난 학도병 출신 어르신들에게 최영수씨의 참전 여부를 확인했다. 이 과정에서 학도병 어르신 3명이 “최영수라는 전우가 있었고, 그가 참전해 우리와 함께 싸운 것도 직접 목격했다”고 증언하며 보증을 서줬다. 결국 국방부가 참전 사실 확인 통보서를 발급하면서 다부동 전투 이후 75년 만에 최씨의 참전 사실이 공식적으로 인정됐다.&lt;br&gt;&lt;br&gt;최씨 아들 최일권씨는 “교육청이 학도병의 명예 회복에 이렇게 적극적으로 힘써주실 줄은 몰랐다”며 “하늘에 계신 아버지께서도 크게 기뻐하실 것”이라고 감사를 표했다. 임종식 경북교육감은 “학교에 있어야 할 나이에 전장에 나선 학도병들의 희생을 기리는 것은 국가기관의 책무”라며 “앞으로도 지역민들의 자료와 제보를 받아 더 많은 학도병들의 잃어버린 명예를 되찾을 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MF6SRGFACZANJM4N6SWRBRCZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 기록 수집 프로젝트 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title> 가스라이팅 벌이다 강도살인·시신유기까지…檢, 50대 3명 기소 </title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/Z3SFGRNCZZBMRJXQRIAIWOY3UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/Z3SFGRNCZZBMRJXQRIAIWOY3UY/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 10:18:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAI3MT2ILJZDBGSLHDI44LZLBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주지방검찰청 목포지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가스라이팅(심리적 지배) 피해자로부터 돈을 갈취하다가 살인에 시신까지 유기한 일당 3명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주지검 목포지청 형사2부(황영섭 부장검사)는 1일 강도살인, 시체유기, 감금, 특수상해 등 혐의로 50대 여성 A씨와 50대 남성 2명 등 3명을 구속기소 했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 5월 15일 피해자 B씨를 차량에 태워 전남 목포 시내를 돌아다니며 차 안에서 폭행해 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 돈을 마련하라고 윽박지르며 폭행하다가 B씨를 숨지게 했고, 시신을 차량 뒷좌석에 숨겨 3개월가량 공터에 방치했다.&lt;br&gt;&lt;br&gt;B씨는 50만원 또는 150만원 단위로 여러 차례에 걸쳐 A씨에게 돈을 건넨 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 피해자가 더 이상 돈을 마련하지 못하자 폭행을 시작했으며 평소 알고 지내던 남성 2명에게 ‘혼을 내주라’며 범행에 가담시켰다.&lt;br&gt;&lt;br&gt;B씨뿐 아니라 범행에 가담한 남성들도 A씨로부터 심리적 지배 상태에 놓였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 돈을 빼앗는 과정에서 살인이 발생한 것을 확인하고 경찰 송치 단계에서 적용됐던 살인 혐의를 강도살인으로 보완했다.&lt;br&gt;&lt;br&gt;A씨는 도피 생활 중에도 두 남성에게 수시로 돈을 요구하며 폭력을 휘둘렀다. 두 남성 중 한 명이 심적인 부담감을 견디지 못하고 지인에게 털어놓으면서 범행은 드러났다.&lt;br&gt;&lt;br&gt;검찰은 정신적으로 큰 고통을 겪은 피해자 가족에게 장례비와 심리상담 등을 지원했다. 범죄 피해구조금 지급 등 절차도 진행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>캄보디아 거점 범죄조직 가입해 한국남성들 상대 ‘로맨스 스캠’ 사기...檢, 6명 구속 기소  </title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/RXSUX4ZJJBBV7M5BW3BEXXXFDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/RXSUX4ZJJBBV7M5BW3BEXXXFDA/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 10:12:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSZ72WY5IE7M4KDEMO3C67Y3JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고검, 지검 청사 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 거점을 둔 중국계 범죄조직에 가입해 한국 남성들을 상대로 온라인 사기 범죄를 저지른 조직원들이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 강력범죄수사부(이근정 부장검사)는 범죄단체 가입·활동 등 혐의로 A(39)씨 등 한국 국적 조직원 6명을 구속기소 했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;캄보디아 시아누크빌에 마련된 콜센터에서 상담원 등으로 활동한 A씨 등은 지난 2∼3월 현지에서 한국인 남성 2명을 상대로 한 ‘로맨스 스캠’(조건 만남) 사기를 벌여 9200만원과 1억9000만원을 각각 가로챈 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨 등은 SNS에서 여성인 척 활동하며 피해 남성 2명에게 접근해 호감을 산 뒤 주식·코인 투자를 유도해 돈을 받아 챙긴 것으로 나타났다. 범행 성공 후 조직으로부터 피해 금액의 3∼10％가량을 인센티브로 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 검찰은 2022년 3월부터 불법 도박사이트 운영자 등에게 법인 명의 계좌를 유통한 30대 남성 B씨에 대한 수사를 벌여왔으며, 이 과정에서 A씨 등 6명이 가담한 로맨스 스캠 범행 단서를 확보한 것으로 드러났다.&lt;br&gt;&lt;br&gt;검찰은 A씨 등 범죄조직원 6명이 연루된 사건과 별개로 B씨를 대포통장 양도 혐의(전자금융거래법위반 등)로 구속기소 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 2일 尹 내란 우두머리 혐의 재판도 중계 허가</title>
       <link>https://www.chosun.com/national/court_law/2025/10/01/5TBCM7DTCFEQHP55GSG4RWG3WA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/5TBCM7DTCFEQHP55GSG4RWG3WA/</guid>
@@ -841,15 +927,6 @@
       <content:encoded>법원이 오는 2일 열리는 윤석열 전 대통령의 내란 재판도 중계하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPTOQE6WXXEUQTBKM34NWKRXKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. 2025.9.26/뉴스1 ⓒ News1 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 오는 2일 오전 10시 10분 열리는 윤 전 대통령의 내란 우두머리 혐의 등 재판의 촬영과 중계를 허가한다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;다만 촬영과 중계는 재판 시작 시점부터 증인 신문 전까지로 제한된다. 재판부는 “이날 준비 기일에서 특검과 변호인 측의 의견을 듣고 재판 중계의 허가 범위를 정했다”고 설명했다. 실시간 생중계는 이뤄지지 않는다. 법원이 자체 카메라로 재판을 촬영한 뒤, 개인 정보 등을 비식별화한 뒤 재판 영상을 공개할 예정이다. &lt;br&gt;&lt;br&gt;구속 중인 윤 전 대통령은 오는 2일 재판에 출석하지 않을 전망이다. 윤 전 대통령은 지난 7월 10일 다시 구속된 이후, 건강 문제를 이유로 해당 재판에 12회 연속 불출석했다. &lt;br&gt;&lt;br&gt;앞서 법원은 지난달 26일 열린 특수공무집행방해 등 혐의 사건 첫 공판에서도 중계를 허가해, 윤 전 대통령의 법정 모습이 공개된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김치냉장고 ‘딤채’ 위니아 3번째 도전 만에 회생 절차 개시 </title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/74NQPEL3OZEMNDTN46ODOTANXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/74NQPEL3OZEMNDTN46ODOTANXI/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 10:04:20 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ASG53C7G5JJFKGETSAN7AVFV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주 광산구에 있는 위니아 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대유위니아 그룹의 주요 계열사인 위니아(옛 위니아딤채)가 세 번의 시도 끝에 법원으로부터 회생 절차 개시 결정을 받았다.&lt;br&gt;&lt;br&gt;광주지법 파산1부(재판장 유석동)는 1일 위니아에 대한 기업 회생절차(법정관리) 개시를 결정했다.&lt;br&gt;&lt;br&gt;재판부는 “채무자의 자산을 인수하겠다는 인수의향자와의 협상 내용이 구체적이고, 인수의향자가 인수의향금액의 5%를 (예정) 매각 주관사의 계좌에 예치하는 등 협상이 상당히 진척된 것으로 보인다”고 회생 개시 이유를 설명했다.&lt;br&gt;&lt;br&gt;또 “인수의향자가 상당수 근로자들의 고용을 승계하겠다는 내용이 포함됐고, 채권자 중 일부는 회생채권을 전혀 변제받지 못할 것으로 예상하면서도 회생에 동의하는 점 등을 참작했다”고 했다.&lt;br&gt;&lt;br&gt;위니아의 기업회생 절차는 3번째 신청 만에 본사 소재지인 광주 법원에서 받아들여졌다.&lt;br&gt;&lt;br&gt;지난 4월 서울회생법원으로부터 회생 절차 폐지 결정을 받은 뒤 지난 5월 다시 개시 신청을 했으나 기각됐다.&lt;br&gt;&lt;br&gt;지난 7월에도 수원회생법원으로 관할을 옮겨 회생 절차를 재추진했으나 역시 기각됐다.&lt;br&gt;&lt;br&gt;이후 서울 소재 가전제품·부품 도매업체인 한미기술산업이 인수 의사를 밝히면서 지난달 3일 위니아 본사 소재지인 광주지법에 또다시 회생 절차를 신청했다.&lt;br&gt;&lt;br&gt;한미기술산업은 법원에 인수의향서를 넘어 조건부 인수계약서도 제출했다.&lt;br&gt;&lt;br&gt;한미기술산업은 부채나 고용 승계 부담 없이 기계·부동산·영업권·지식재산권 등 필요한 유·무형 자산만 개별 계약을 통해 인수하는 자산 양수도 방식의 인수를 제안했다.&lt;br&gt;&lt;br&gt;현재 재직 중인 노동자 250여명 중 관리직 50명과 기능직 50명 등 최소 100명의 고용을 유지하고 퇴직자에 대한 소정의 위로금 지급하는 방안도 제시했다.&lt;br&gt;&lt;br&gt;위니아의 채권자 수는 550여명, 채무액은 4000억원 규모다.&lt;br&gt;&lt;br&gt;2023년 10월부터 미지급된 노동자들의 임금과 퇴직금 400억원, 협력업체 대금 등이 포함된 액수다.&lt;br&gt;&lt;br&gt;위니아는 대유위니아의 대표 계열사로 김치냉장고 ‘딤채’를 생산해왔다.&lt;br&gt;&lt;br&gt;가전업체 경쟁 심화 등 경영난과 임금 체불이 맞물리면서 2023년 위니아전자(옛 동부대우전자)·위니아전자매뉴팩처링과 함께 기업회생 절차를 신청했으며 지난 4월부터는 생산도 전면 중단했다.&lt;br&gt;&lt;br&gt;위니아는 회생 절차와 함께 김치냉장고 재생산 준비에 착수할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>하남 폐가서 성인 남녀 3명 숨진 채 발견</title>
       <link>https://www.chosun.com/national/regional/2025/10/01/QGHTHI3MBBDLFEGCK4Q4UMRG7U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/QGHTHI3MBBDLFEGCK4Q4UMRG7U/</guid>
@@ -857,51 +934,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 09:38:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QISE44CG6J6YVFOHB7LDT3JODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 2시28분쯤 경기 하남시 천현동의 한 폐가 안에서 성인 남성 2명과 여성 1명 등 3명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;숨진 3명은 각각 30대와 40대 남성 2명과 50대 여성 1명으로, 이들 간의 관계는 현재까지 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 10시 40분쯤 사망자 중 1명의 지인으로부터 “지인이 온라인상에 신변을 비관하는 내용의 게시글을 올렸다”는 내용의 112 신고를 받고 출동했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현장에서 타살 혐의점은 발견되지 않았다. &lt;br&gt;&lt;br&gt;현재까지 사망자 중 1명이 온라인상에 올렸던 게시글 외 유서는 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 자세한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나, 주변에 이같은 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 SNS상담 마들랜에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수도권 의대 경쟁률 하락, 지원자 스펙은 올랐다…내신 평균이 무려</title>
-      <link>https://www.chosun.com/national/education/2025/10/01/X2FUESAO2NFE7PLRNQVEBN7JJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/01/X2FUESAO2NFE7PLRNQVEBN7JJE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 08:48:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LXEPXAE3DY2JH4ONKQ5IIXBHUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 의과대학 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대학 수시 모집에서 의대 지원자들의 내신 성적이 전반적으로 상승한 것으로 나타났다. 특히 수도권 의대 경쟁률은 하락했지만, 교과 전형 지원자 평균이 1.12등급까지 올랐다. 이에 따라 합격선 상승이 예상된다. &lt;br&gt;&lt;br&gt;1일 진학사가 수시 지원 대학을 공개한 수험생 중 의대 학생부 전형 지원자의 내신 성적을 분석한 결과, 올해 지원자들의 내신이 전형별‧지역별 모두 작년보다 높아진 것으로 나타났다. &lt;br&gt;&lt;br&gt;전형별로는 학생부 교과 전형의 내신 평균은 1.33등급으로, 전년도(1.52등급)보다 0.19등급 상승했다. 종합 전형 역시 평균 1.45등급으로, 전년도(1.53등급)보다 높아졌다. &lt;br&gt;&lt;br&gt;지역별로 보면 수도권 대학은 교과 전형에서 의미 있는 상승을 보였다. 지원자 평균 내신이 1.12등급으로, 전년도(1.19등급)보다 우수한 학생들이 더 몰렸다. &lt;br&gt;&lt;br&gt;비수도권 대학은 상승 폭이 더 컸다. 교과전형은 1.33등급(전년도 1.53등급), 종합전형은 1.42등급(전년도 1.56등급)으로, 모두 큰 폭으로 상승했다. 지역인재전형을 제외한 종합전형(일반)에서는 지원자 평균이 1.38등급으로 집계되어 수도권(1.40등급)보다 높게 나타나기도 했다. &lt;br&gt;&lt;br&gt;작년이라면 수도권 의대에 지원했을 등급의 학생들이 올해는 비수도권으로 눈을 돌리고, 최상위권 학생들만 수도권 의대에 지원한 것으로 해석된다. &lt;br&gt;&lt;br&gt;이러한 흐름은 의대 정원 축소와 경쟁 심화 속에서 수험생들이 무리한 상향 지원보다는 합격 가능성을 높이는 안정 지원을 택한 결과로 풀이된다. 실제로 이번 수시에서 수도권 의대의 경쟁률은 하락한 반면, 비수도권 의대 일반전형은 경쟁률이 상승했다. &lt;br&gt;&lt;br&gt;진학사 입시전략연구소 우연철 소장은 “의대 지원자 내신 성적이 전반적으로 상승한 만큼 합격선도 동반 상승할 가능성이 크다”고 설명했다. 다만 “올해 수능 최저 충족이 결코 쉽지 않다는 점에서 최종 커트라인은 당초 예상과 달라질 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>세종시 한국전자파연구원 공사 현장서 60대 근로자 추락사</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/10/01/JECZZYGJ45BIJHMEAJT5BEYEZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/10/01/JECZZYGJ45BIJHMEAJT5BEYEZQ/</guid>
-      <dc:creator>세종=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 08:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOSZT2SKHGRPGKPNANAQF3B3HQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시에 위치한 한국전자파연구원 신축 공사 현장에서 60대 근로자가 추락해 숨졌다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 1일 오후 2시 43분쯤 세종시 전동면 한국전자파연구원 신축 공사 현장에서 A(60대)씨가 추락했다. 이 사고로 A씨가 심정지 상태로 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;하청업체 소속 일용직 근로자인 A씨는 13m 높이의 철골 구조물에서 작업 중 추락한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;대전고용노동청은 해당 공사 현장에 작업 중지 명령을 내리고 구체적인 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰과 노동 당국은 공사 관계자를 대상으로 중대재해 처벌 등에 관한 법률과 산업안전보건법 위반 여부에 대해 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“짜장면 먹자”며 초등생 유괴하려한 60대 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/WPDRSOXYOZBFTKNZSV5SGVY5RU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/WPDRSOXYOZBFTKNZSV5SGVY5RU/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 09:01:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJHJIVVXWVGKDPSSE34D5DPUR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지검 서부지청./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구지검 서부지청 제2형사부는 초등학생을 유괴하려다 미수에 그친 60대 남성을 구속 기소했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 달 10일 오후 1시쯤 대구 서구 평리동 시장 인근 길거리에서 “짜장면을 먹으러 가자”며 초등학생 B양의 팔을 잡아 끄는 등 유괴를 시도했다. 하지만 B양의 저항으로 미수에 그쳤다. &lt;br&gt;&lt;br&gt;B양 어머니의 신고를 받은 경찰은 현장 주변 방범카메라 분석 등을 통해 같은 날 오후 7시 30분쯤 A씨 주거지 인근에서 A씨를 검거했다. &lt;br&gt;&lt;br&gt;검찰은 “A 씨의 행동 분석, 주거지 압수수색, 휴대전화 포렌식 분석 등 보완 수사를 통해 혐의를 규명했다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전 국민 마음 투자 지원사업’ 이용자 여성 70% 넘어..수도권 쏠림 심해</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/01/OLODNC44NBDVDGIGHJBGJ7HCPY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/01/OLODNC44NBDVDGIGHJBGJ7HCPY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 08:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFFSCUHWBZC47BOECJFZAKADTQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우울·불안 등 정서적 어려움이 있는 국민에게 전문 심리 상담 서비스를 지원하는 ‘전 국민 마음 투자 지원사업’ 이용자의 70% 이상이 여성인 것으로 나타났다. 수도권 쏠림 현상도 심했다.&lt;br&gt;&lt;br&gt;1일 국회 보건복지위원회 장종태 의원(더불어민주당)이 보건복지부로부터 받은 자료를 분석한 결과 사업이 시작된 작년 7월부터 올해 7월까지 1년여간 총 23만1689명이 전 국민 마음 투자 지원 사업 서비스를 이용했다. 이용자 중 여성은 71.6%(16만5914명), 남성은 28.4%(6만5775명)였다. 남성 이용자가 여성 이용자의 절반에도 못 미치는 것이다. “우울이나 불안, 정서적 어려움이나 유병률이 여성이 더 높고, 자살 시도자 수가 남성보다 여성이 많은 상황이라 이용자 중 여성 비율이 높게 나오는 것 같다”는 것이 정부 설명이다.&lt;br&gt;&lt;br&gt;이 사업은 심리 상담이 필요한 국민에게 회당 최소 50분 이상의 심리 상담을 받을 수 있는 바우처를 총 8회 지원하는 것이 골자다. 작년 7월 시작됐고, 김건희 여사의 관심 사업으로 알려져 논란이 되기도 했다. 윤석열 정부가 배정한 올해 예산은 당초 433억이었으나 현 정부는 올해 6월 추경 과정에서 이 중 104억8100만원을 삭감했다. 장종태 의원실에 따르면 올해의 경우 7월까지 272억9241만원이 지원됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMRC3MEZMVDWLOVP3342T2LRK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지역 편차도 두드러졌다. 작년 7월~올해 7월 전체 바우처 이용자 23만1689명 중 58.5%(13만5509명)가 수도권(서울·경기·인천)에 있었다. 같은 기간 강원은 이용자 비중이 1.4%(3146명), 충북 2.3%(5363명), 전남 2.3%(5507명) 등에 그쳤다. &lt;br&gt;&lt;br&gt;특히 올해 바우처 이용액 기준 상위 30개 기관 중 80%에 달하는 24곳이 수도권에 집중된 것으로 확인됐다. 정신건강 지원의 사각지대를 해소하겠다는 취지와 달리, 사업 혜택이 수도권에 집중됐다는 지적이 나온다. &lt;br&gt;&lt;br&gt;한편, 이 사업을 위한 관련 예산 실집행률도 크게 떨어졌다. 사업 운영 관리는 16.2.%, 바우처 시스템 보강 등은 18.8%의 실집행률을 기록했다.&lt;br&gt;&lt;br&gt;장종태 의원은 “마음이 아픈 국민에게 가장 필요한 것은 ‘가까운 곳에서 기댈 수 있다’는 믿음”이라며 “보건복지부는 사업의 최우선 순위를 실질적인 접근성 확보에 둬야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김형찬 부산 강서구청장, 공직선거법 위반 항소심도 벌금 80만원</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/OFCYLRPMYBE4ZKSHWT5VYMLK5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/OFCYLRPMYBE4ZKSHWT5VYMLK5U/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 08:56:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ZBKZ54VRZBWIDTW5MMOGMZ72U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 부산지법 서부지원 앞에서 김형찬 강서구청장이 선고에 대한 의견을 말하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 4월 총선을 앞두고 지역구 국회의원 후보의 치적을 홍보한 혐의로 기소된 김형찬 부산 강서구청장이 항소심에서도 벌금 80만원을 선고받았다.&lt;br&gt;&lt;br&gt;부산고법 형사2부(재판장 박운삼)는 1일 김 구청장의 공직선거법 위반 혐의 선고공판에서 검찰의 항소를 기각하고 벌금 80만원을 선고한 원심판결을 유지했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인이 당심에 이르러 범행 공소사실을 모두 인정하고 있다”며 “범행이 제22대 국회의원 선거와 시간적 간격이 있어 실제 선거에 미친 영향은 크지 않은 것으로 보인다”고 판결했다.&lt;br&gt;&lt;br&gt;그러면서 “기초자치단체장은 공천 등을 이유로 해당 지역구 국회의원에게 상당한 영향을 받을 수밖에 없는 점 등을 고려했다”며 “원심의 형이 너무 가볍진 않다고 판단한다”고 했다.&lt;br&gt;&lt;br&gt;김 구청장은 2023년 9월 26일 부산 강서구의 한 그라운드 골프대회에서 22대 국회의원 선거 예비후보가 되려던 김도읍 의원의 예산 확보 업적을 홍보한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 2023년 12월 21일 한 청년 행사에서 ‘그대 없이는 못 살아’라는 노래 가사에 김 의원의 이름을 넣어 부르며 선거에 영향을 미치는 행위를 한 혐의도 있다.&lt;br&gt;&lt;br&gt;선출직 공직자가 타인의 선거와 관련해 선거법 위반으로 벌금 100만원 이상의 형을 선고받고, 확정되면 직위를 상실하게 된다.&lt;br&gt;&lt;br&gt;김 구청장은 대법원에서 항소심과 같은 형이 확정되면 직위를 유지하게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국제여객선으로 밀반입한 향정신성의약품 판매한 외국인 검거</title>
@@ -934,15 +966,6 @@
       <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀에 파견된 검사 40명 전원이 검찰청 복귀를 요청한 데 대한 파장이 이어지고 있다. 한 현직 부장검사는 정성호 법무장관을 향해 “‘악의 축’인 검사들을 일선으로 복귀시키라”며 “임은정 서울동부지검장만이 특검에 파견 가 수사를 할 자격이 있을 것”이라고 했다. 검찰 폐지를 주장하는 임 지검장을 에둘러 비판한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTPTZCTZKNLLJH3SV2ZE3FKXFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면, 보건·소년범죄 등 민생 사건 수사를 전담하는 서울북부지검 형사3부의 장진영 부장검사는 이날 오전 검찰 내부망 이프로스에 게시글을 올려 이 같은 입장을 밝혔다. 장 부장검사는 “현재 특검 수사가 우리나라에서 얼마나 중요하고 의미가 있는 사건이냐”며 “중차대한 특검 수사에 ‘악의 축’인 검찰청 검사들이 파견을 가 특검 수사를 오염시키고 더럽히고 있다”고 했다. 당정이 개혁 대상으로 삼고, 검찰청을 폐지시키는 등 검사를 ‘악마화’하는 상황에서 전 정권 수사에 검사들을 빼다 쓰는 것은 모순이라고 에둘러 지적한 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검찰 구성원들, 특히 검사들은 임 지검장을 제외하고 모두 하나의 인격체로서 연좌제급 무한 연대책임을 지는 악(惡)의 집단”이라며 “현재 특검에 파견 가 수사를 할 자격이 있는 검사는 임 지검장이 유일할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 장 부장검사는 “가장 악취 나는 검사들을 특검 수사에 관여하게 하는 것은 국민들도 용납하지 못하실 것”이라며, “특검 파견 검사들은 수사·기소 분리라는 시대의 절대 진리와도 같은 가치를 거스르며 기소와 공소 유지에도 관여하겠다고 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 장 부장검사는 “이러한 악의 집단인 검사들 때문에 악의 축인 검찰청을 폐지했는데, 이들 때문에 추후 특검 수사의 정당성이 흔들릴까 두렵다”고 했다. 이어 “다행인 것은 이러한 악취 나는 검사들이 스스로 일선 복귀를 요청했다니 양심은 있는 모양”이라고 했다. 이어 정 장관에게 “파견 검사들을 당장 일선으로 내쫓아 민생 사건을 신속히 처리하며 속죄하게 해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>추석 연휴 기간에 아프면? ‘응급똑똑’ 앱에서 문 연 병원 확인하세요</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/01/SUQWVWXGTREFNGQCQJUPG4T7LY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/01/SUQWVWXGTREFNGQCQJUPG4T7LY/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6DQK7U7KDVPACJ5URNEAV2UFUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;응급의료정보 앱 ‘응급똑똑’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간 아플 경우 동네 병·의원을 찾으려면 ‘응급똑똑’앱을 이용하면 된다.&lt;br&gt;&lt;br&gt;1일 보건복지부는 다가오는 추석 연휴를 대비해 연휴 기간 의료기관 이용방법을 안내했다.&lt;br&gt;&lt;br&gt;복지부에 따르면 연휴 기간 몸이 아플 때 문 여는 동네 병·의원이나 지역응급의료기관은 ‘응급똑똑’앱을 통해 확인 가능하다. 해당 앱은 사용자가 입력한 증상정보를 바탕으로 정보를 제공한다. 증상정보를 바탕으로 중증환자에겐 응급실 방문을 안내하고, 경증환자는 가까운 병의원을 안내해주거나 응급 처치 정보를 제공한다. 응급똑똑 앱은 구글 플레이스토어나 애플 앱스토어에서 검색하면 설치·이용할 수 있다.&lt;br&gt;&lt;br&gt;먄약 12세 이하 소아가 갑작스레 아프다면 소아·응급 전문의 등 전문의료인이 24시간 상담을 제공하는 소아전문상담센터 아이안심톡을 이용하면 된다. 아이안심톡은 사용자가 입력한 증상정보를 바탕으로 상담보다는 진료가 필요한 경우엔 119신고나 의료기관 이용을 안내한다. 상담으로 가능한 경우에는 1 대 1 게시판에 문의할 수 있고, 상담 의료진은 입력된 소아환자의 현재 증상이나 과거 병력을 바탕으로 게시판 답글 또는 전화 안내를 해준다.&lt;br&gt;&lt;br&gt;다만, 호흡곤란이나 갑작스러운 팔다리 저림 등 중증질환에 흔히 동반되는 심각한 증상이 나타나면 즉시 119에 신고하는 것이 바람직하다. 특히 증상에 대해 혼자 판단하기 어려운 경우 119로 신고하면 의학적인 상담이 가능하니 이를 적극적으로 활용할 필요가 있다.&lt;br&gt;&lt;br&gt;정부는 연휴 기간에도 국민들이 의료기관을 이용할 수 있도록 문 여는 병·의원을 일평균 약 8800개소 지정해 운영한다는 계획이다. 다만 문 여는 병·의원을 찾았다 하더라도 실제 열었는지 여부를 확인하기 위해 해당 병·의원에 전화해 확인하고 방문할 것이 권고된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>연휴 앞두고 전국 공항 자회사 노조, 총파업 돌입</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/01/34V5GO2UZZFMLKVKBM5XETCEEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/01/34V5GO2UZZFMLKVKBM5XETCEEY/</guid>
@@ -950,15 +973,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 02:39:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AY7XNMDBXNE3JEQ4SVEDZLAWCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10월 1일 인천국제공항 1터미널에서 전국 15개 공항 노동자들이 무기한 전면파업 1일차 출정식을 열고 구호를 외치고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항과 김포국제공항 등 전국 15개 공항 노동자들이 소속된 전국공항노동자연대가 1일 총파업에 돌입했다. 이번 파업에 참여하는 이들은 인천국제공항공사, 한국공항공사가 아닌 자회사에 소속된 노동자들로 주차, 조류퇴치, 소방, 건축 등 업무를 맡는 2000여명이다.&lt;br&gt;&lt;br&gt;노조 측은 “인천공항 등에서 산재사망과 뇌심혈관, 난임·유산 등을 초래하는 현행 3조2교대의 근무를 4조2교대로 개편하는 등 필요 인력 충원이 이뤄져야 한다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;인천공항공사 등은 파업에 따른 혼란은 크지 않을 것이란 입장이다. 공항은 업무 공백 시 일상생활을 위태롭게 할 수 있는 업무에 해당해 필수 유지 인력이 법적으로 정해져 있다. 예컨대 항공기 운항과 직접 관련된 탑승교 운영 업무의 경우 78%가 필수 유지 인력에 해당한다. 보안 검색 인력도 파업에 참여하지 않는다. 인천공항공사는 비상대응체계를 가동해 모니터링을 강화하고 대체 인력도 투입한다는 계획이다.&lt;br&gt;&lt;br&gt;다만, 올 추석 연휴가 개천절과 한글날 등이 겹치며 최대 열흘 가량 연휴가 길어지는 건 변수다. 인천공항의 경우, 10월 2일부터 12일까지 일평균 22만3000명의 여객이 몰릴 것으로 전망된다. 이는 기존 성수기 최다 이용객 수 였던 올 여름(일평균 21만8000명) 보다도 늘어난 것으로 역대 최고치에 해당한다. 인천 공항 외에도 이 기간 281만명이 공항을 이용할 것으로 예측된다. 인천공항 관계자는 “연휴가 길고, 한 달 앞으로 다가온 APEC 정상회의에도 대비해야 하는 만큼, 파업 자제를 당부한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아파트 복도로 나와 “불이야” 소리친 40대, 老母 구하려 집으로 다시 들어갔다가 숨져</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/DN55LJP3RRC2JE7CC4TAGFP2DE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/DN55LJP3RRC2JE7CC4TAGFP2DE/</guid>
-      <dc:creator>구리=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 01:15:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUWXVIP66RB7FOPCN5YFFXREQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오전 4시 23분쯤 구리시 교문동의 15층짜리 아파트 14층에서 화재가 발생했다. 화재 현장 모습./경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 구리의 한 아파트에서 불이 나 40대 아들이 숨지고 80대 노모가 크게 다쳤다.&lt;br&gt;&lt;br&gt;1일 경기도북부소방재난본부에 따르면 이날 오전 4시 23분쯤 구리시 교문동의 15층짜리 아파트 14층에서 화재가 발생했다. &lt;br&gt;&lt;br&gt;이 불로 집안에 있던 A(40)씨가 심정지 상태로 발견돼 병원으로 이송됐다. 또 A씨의 어머니 B(80대)씨가 전신에 2도 화상을 입었다. A씨는 치료 중 결국 숨진 것으로 확인됐다. B씨는 생명에 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;또 아파트 주민 100여명이 대피하는 소동도 벌어졌다. 화재 당시 A씨는 아파트 복도로 나와 ‘불이야’라고 소리치며 같은 층 주민들에게 화재가 일어난 것을 알린 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방당국은 화재 발생 44분 만에 완진했다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 대피 사실을 알린 후 거동이 불편한 B씨를 구하기 위해 다시 집안으로 들어갔다가 베란다에서 발견된 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰과 소방당국은 현장 감식 등을 통해 정확한 화재 원인을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
