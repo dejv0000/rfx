@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천공항 보안검색 요원, 추가근무 거부 철회…업무 정상화</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/RRDPTGXOAZDORJK77I25N5M75M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/RRDPTGXOAZDORJK77I25N5M75M/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 23:06:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DILXUTMU37IUUFLAAZETDBRFDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴를 하루 앞둔 2일 오전 인천국제공항 제1여객터미널이 여행객들로 북적이고 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간 추가 근무를 거부하기로 했던 인천국제공항 보안 검색 요원들이 입장을 바꿔 예정대로 근무하기로 했다. 이용객이 몰리는 연휴 특성상 보안 검색 대기 장기화 등의 혼잡 우려는 다소 누그러지게 됐다.&lt;br&gt;&lt;br&gt;3일 한국노총 공공노련 산하 인천공항보안노조와 보안검색통합노조는 “이날부터 연휴 기간 추가 근무를 예정대로 수행한다”고 밝혔다. 두 노조는 인천국제공항공사 자회사인 인천국제공항보안 소속 보안 검색 요원들로 구성돼 있다. &lt;br&gt;&lt;br&gt;노조 관계자는 닷컴에 “연휴 기간의 혼잡을 막기 위해 이 같은 결정을 했다”며 노조 탄압을 비롯한 현안들은 추후 노사 간 논의해 나가기로 했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 노조는 전날 연휴(3~12일) 동안 예정된 추가 근무를 하지 않겠다고 예고했다. 파업이 법으로 제한된 보안 검색 직종의 특성상, 추가 근무 거부로 사측을 압박하겠다는 취지였다. 노조 측은 그동안 공사 측에 ‘노조 탄압’ 중단과 인력 충원을 요구해왔다. &lt;br&gt;&lt;br&gt;다만 노조가 막판에 거부 방침을 철회하면서 연휴 기간 터미널 보안 검색 업무 차질은 피하게 됐다. &lt;br&gt;&lt;br&gt;한편 인천공항을 포함한 전국 15개 공항에서 환경 미화, 교통 관리, 소방, 기계 시설 관리 등을 담당하는 자회사 노동자들의 파업은 이달 1일부터 이어지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추석 차례상 차리는 가정, 10곳 중 4곳뿐…“전통보다 실용”</title>
+      <link>https://www.chosun.com/national/2025/10/03/HROUQ5CZ2RFBHC4GH3TKYV2UWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/03/HROUQ5CZ2RFBHC4GH3TKYV2UWE/</guid>
+      <dc:creator>김지섭 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 22:55:28 +0000</pubDate>
+      <content:encoded>올해 추석에 차례상을 차리는 가정이 10곳 중 4곳에 불과한 것으로 조사됐다. 명절 의례 간소화와 핵가족화, 가치관 변화가 맞물리면서 전통 차례상 문화가 빠르게 사라지고 있다는 분석이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MTJRTN5X3RCDXNKHI5CSUCVUV4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;조선일보 '아무튼, 주말'이 지난해 추석 때 제안했던 모던 미식가 조상님을 위한 차례상. 성균관유도회가 발표한 간소화 표준안을 따르되 애플망고, 개성주악, 마카롱, 토마호크 스테이크, 레드와인 등 우리 시대에 즐기는 음식들로 교체했다. /이신영 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국농촌경제연구원이 3일 공개한 설문조사 결과에 따르면, 이번 추석에 차례상을 차린다는 응답자는 40.4%에 그쳤다. 전국 17개 시도의 20대 이상 과일 소비자 1000명을 대상으로 지난달 1~5일 온라인으로 진행한 조사다.&lt;br&gt;&lt;br&gt;이는 2016년 조사 때 차례상을 차린다는 응답(74.4%)과 비교하면 34%포인트나 줄어든 수치다. 불과 7년 사이 차례상을 차리는 가구가 절반 가까이 감소한 셈이다.&lt;br&gt;&lt;br&gt;◇추석 연휴, 절반 이상 “친척집 방문”&lt;br&gt;&lt;br&gt;추석 연휴 계획을 묻는 질문에는 ‘본가나 친인척 집 방문’이라는 답변이 54.2%로 가장 많았다. 이어 ‘집에서 휴식 및 여가생활’(34.9%), ‘국내여행’(5.5%), ‘해외여행’(2.7%) 순이었다.&lt;br&gt;&lt;br&gt;차례상을 차리는 가정에서도 상차림 방식이 크게 달라진 것으로 나타났다. ‘전통 예법에 맞춰 간소화한다’는 응답이 58.4%로 가장 높았고, ‘전통 예법에 따라 준비’(21%), ‘가족이 좋아하는 음식 위주’(14.9%), ‘조상이 좋아하던 음식 중심’(5.2%) 순이었다.&lt;br&gt;&lt;br&gt;특히 ‘전통 예법 준수’ 응답은 2016년 47.6%에서 21%로 절반 이상 줄었고, ‘조상 선호 음식’ 답변도 10.3%에서 5.2%로 반토막 났다. 반면 ‘간소화’ 응답은 29.8%에서 58.4%로 두 배 가까이 증가했다.&lt;br&gt;&lt;br&gt;◇차례상에 수입과일도 늘어&lt;br&gt;&lt;br&gt;차례상에 올리는 과일도 변화하고 있다. 국산 과일 선호도는 배(28.9%)와 사과(28.6%)가 비슷한 수준으로 가장 높았고, 단감(17.4%), 포도(13.2%)가 뒤를 이었다.&lt;br&gt;&lt;br&gt;주목할 점은 수입 과일을 차례상에 올린다는 응답이 34.9%로 7년 전보다 11%포인트 늘었다는 것이다. 차례상용 수입 과일로는 바나나(49.5%)가 압도적이었고, 오렌지(22.0%), 키위(9.8%), 파인애플(7.9%) 순으로 집계됐다.&lt;br&gt;&lt;br&gt;연구원 관계자는 “명절 의례에 대한 부담감이 줄어들면서 가족 중심의 실용적인 명절 문화로 빠르게 재편되고 있다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 대법관 늘리겠다는데… 장기 미제 사건, 대법은 줄고 1·2심은 늘었다</title>
       <link>https://www.chosun.com/national/court_law/2025/10/03/7U355K2X6FFW3M4YYR32U3P67Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/7U355K2X6FFW3M4YYR32U3P67Y/</guid>
@@ -793,19 +811,6 @@
       </media:content>
     </item>
     <item>
-      <title>사극 ‘용의 눈물’ 배우 김주영 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/02/FLCORA5PVNCN7PTZ4AQARE3Y7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/02/FLCORA5PVNCN7PTZ4AQARE3Y7U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5CKK2BUXZDBTMOZKB5FAVWQBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사극 ‘용의 눈물’ ‘정도전’ 등에서 조연으로 활동한 배우 김주영(73)이 별세했다. 1일 유족 등에 따르면 고인은 최근 폐렴 증세를 앓다 지난달 30일 오후 세상을 떠났다. 1974년 MBC 공채 탤런트 6기로 배우 생활을 시작한 고인은 이후 동양방송(TBC) 15기 공채로 재데뷔했고, 드라마 ‘수사반장’으로 처음 얼굴을 알렸다. 이 밖에 ‘태조 왕건’ ‘명성왕후’ 등 주로 대하 사극의 대신이나 장군 역으로 사랑받았다. 빈소는 중앙대병원 장례식장, 발인은 2일 오전 7시 30분.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GABX5GPGN5QXDUJSZLRUAMBDIM.jpg?auth=459bf69668a01071eb814990b0a875276f5ef621fe654c414170ce7a3d679034&amp;smart=true&amp;width=400&amp;height=264" type="image/jpeg" height="264" width="400">
-        <media:description type="plain">‘용의 눈물’·’정도전’ 등의 사극에 출연한 배우 김주영. /한국영상자료원 제공</media:description>
-        <media:credit role="author" scheme="urn:ebu">한국영상자료원 제공</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>공무원 업무용 ‘G드라이브’ 전소… 12만명 자료 통째로 날아가</title>
       <link>https://www.chosun.com/national/national_general/2025/10/02/RZVSIUO7R5CHBLZIEKGWYMWKKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/RZVSIUO7R5CHBLZIEKGWYMWKKU/</guid>
@@ -882,15 +887,6 @@
       <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHJHRUDSKJBUVHIGL77BXOL45Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무선 이어폰 케이스처럼 생긴 외관을 열면 안에 전자담배가 들어있다./네이버블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중3 아들을 둔 이모(45)씨는 최근 아들이 교내에서 담배를 피우다 적발됐다는 연락을 받았다. 이어 찾아간 학교에서 아들의 액상형 전자담배를 보고 깜짝 놀랐다. 무선 이어폰 케이스처럼 생겼기 때문이었다. 이씨는 “아들 방에서 봤던 기억이 나는데, 이게 전자담배라고는 생각도 못 했다”고 했다.&lt;br&gt;&lt;br&gt;액상형 전자담배가 다양한 형태로 청소년들을 유혹하고 있다. 온라인에선 키링, 립글로즈, 텀블러 등과 같은 형태는 물론, 스마트워치를 겸한 액상형 전자담배까지 팔린다. 판매 업체들은 “피치 못할 사정으로 티 안 나는 전자담배를 찾는 소비자를 위한 제품”이라고 홍보하지만, 보건의료계에선 “청소년들을 겨냥한 것”이란 반응이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FINB36TEF5FB5B4M3HYTYROIIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;미니 텀블러 모양의 액상형 전자담배./한국건강증진개발원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지가 질병관리청 자료를 분석해보니, 흡연 청소년 중 액상형 전자담배 이용률이 2020년 25.5%에서 지난해 35.5%로 늘어났다. 자칫 일반 담배보다 덜 해롭다고 생각할 수 있지만, 이는 잘못된 것이다. WHO(세계보건기구)는 ‘2025 세계 흡연 실태 보고서’에서 “액상형 전자담배는 중독성이 있고, 유해하다” “아동·청소년의 뇌 발달에 영향을 미칠 수 있다”고 했다. 담배 관련 연구 권위자로 미국 UCSF(샌프란시스코 캘리포니아대) 교수를 지낸 스탠턴 글란츠 박사도 지난해 금연정책포럼에서 “액상형 전자담배는 니코틴 유무에 관계없이 유해한 입자를 만드는데, 이 입자가 폐 독성과 심혈관계 질환을 유발할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 국내에서 유통 중인 액상형 전자담배 제품의 95%는 현행법상 ‘담배’가 아닌 합성니코틴을 사용하기 때문에 규제를 벗어난 상태다. 뒤늦게나마 이를 ‘담배’로 분류해 규제 대상에 넣는 입법 작업이 진행 중이지만, 국회 기재위만 통과했을 뿐 아직도 국회 법사위 심사와 본회의 의결을 더 거쳐야 한다. 보건의료계에선 “변종 담배가 더 확산되기 전에 신속하게 국회가 법안을 처리해야 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/AFIDUY2ATZBB5DHSD5PRTRRFAY.jpg?auth=b29bec9d3bdb581197e272d7b9f97d70fd3aa83bbbb427fa9e06a364e8df1c32&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
-    </item>
-    <item>
-      <title>청계천 복원 20주년 축하 레이저 쇼</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/02/5K64ERSPRZDXBPKD56HARQT6QQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/5K64ERSPRZDXBPKD56HARQT6QQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWPUB3GNOJG3NIH7XWRPGI5JPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 밤 서울 도심 청계광장에서 ‘청계천 복원 20주년’ 기념식이 열렸다. 청계천 위로 레이저 쇼가 펼쳐지고 있다. 기념식에 참석한 이명박 전 대통령은 “청계천이 자동차 중심이었던 서울을 사람 중심으로 바꿨다”며 “청계천을 통해 전국적으로 많은 도시가 개천과 환경을 보존하기 시작했고 세계에도 많은 영향을 끼쳤다”고 했다. 서울시는 이 전 대통령이 서울시장이던 2005년 청계 고가를 뜯어내고 5.84㎞ 물길을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>44년간 기술자격증 103개 ‘산업현장 명장’</title>
