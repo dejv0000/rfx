@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원, 윤석열 보석 기각…구속 상태 유지 </title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/PVIMHF4HYRF27AZ5AJH25QQXOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/PVIMHF4HYRF27AZ5AJH25QQXOM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 04:15:20 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 석방을 요구하며 낸 보석(保釋) 신청을 2일 법원이 기각했다. 윤 전 대통령은 구속 상태를 유지한 채 재판을 이어가게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GUETUJUH3GTQ62MLETKAUO6YE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다. 형사 법정에서 윤 전 대통령의 모습이 공개된 것은 지난 4월 내란 사건 재판 이후 약 5개월 만이다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 이날 특수공무집행방해 등 혐의로 기소된 윤 전 대통령의 보석 청구를 기각했다. 재판부는 “피고인이 증거를 인멸할 염려가 있다는 사유가 인정되고, 보석을 허가할 상당한 이유가 없다”고 설명했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 내란 우두머리 등 혐의로 구속기소됐다가 지난 3월 법원의 구속 취소 결정으로 풀려났다. 이후 내란 특검이 윤 전 대통령을 추가 기소하면서 청구한 구속영장이 발부되면서 지난 7월 10일 다시 구속됐다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 지난달 19일 방어권 보장과 건강 문제 등을 이유로 보석을 신청했다. 지난달 26일 열린 보석 심문에서 윤 전 대통령은 직접 출석해 약 18분간 자신이 석방돼야 할 이유를 설명했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 “구속되고 나서 1.8평짜리 방 안에서 서바이벌(survival·생존) 자체가 힘들다”라며 “재판 나가야 할 거 같은데 이 상태로는 힘들다”고 했다. 또 “체력적으로도 그렇고 집도 가깝고 하니 보석해 주면 운동도 하고 당뇨식도 하면서 사법 절차에 협조하겠다”고 말했다. &lt;br&gt;&lt;br&gt;그러나 법원은 윤 전 대통령의 주장을 받아들이지 않고, 이날 보석 신청을 기각했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>키 205cm 초등생 선수 등장에 한국 배구계 들썩… “슈퍼 유망주 떴다”</title>
+      <link>https://www.chosun.com/national/people/2025/10/02/FK7IGGLK5VF3ZFGITA3YXTEKXE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/02/FK7IGGLK5VF3ZFGITA3YXTEKXE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 04:59:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSIOAZXUU5HX7DVLQG6UZUARI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 초등학교 배구 대회에 출전한 용지훈 선수(15번). /한국초등배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 초등학교 배구 대회에 키 205㎝ 선수가 등장해 배구계가 들썩이고 있다. &lt;br&gt;&lt;br&gt;2일 한국초등배구연맹 등에 따르면, 지난달 25일부터 30일까지 강원도 인제에서 열린 제58회 추계배 전국 초등학교 배구 대회에 강원도 속초 교동초등학교 6학년 미들블로커인 용지훈(12) 선수가 첫 출전했다. &lt;br&gt;&lt;br&gt;키 205㎝의 용 선수는 높이를 이용해 점프를 하지 않고도 상대 공격을 막아내는 블로킹을 보여줘 시선을 끌었다. 국내 성인 프로 배구에서도 키 2m가 넘는 선수는 흔치 않다. &lt;br&gt;&lt;br&gt;배구계 관계자들은 현장에서 용 선수를 보고 차세대 한국 남자 배구를 이끌 슈퍼 유망주가 등장했다며 흥분을 감추지 못했다고 한다. 다만 용 선수가 속한 교동초등학교는 해당 대회에서 예선을 통과하지 못했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHRNBI7M75APBNZNOGGK6S2564.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국 초등학교 배구 대회에 출전한 용지훈 선수(15번). /한국초등배구연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국초등배구연맹 관계자는 조선닷컴과의 통화에서 “용 선수가 배구를 시작한 지 10개월 밖에 되지 않았다”며 “작년에 키가 192㎝ 정도였는데 1년 사이에 205㎝로 컸다고 한다”고 했다. &lt;br&gt;&lt;br&gt;용 선수가 속한 팀이 좋은 성적을 거두지 못한 것에 대해서는 “배구는 팀플레이가 중요한 종목이다 보니 한 선수가 특출나다고 해도 성적이 좋지 못할 수도 있다”고 했다. &lt;br&gt;&lt;br&gt;용 선수는 한국초등배구연맹에 등록됐던 역대 선수 중 가장 키가 크다. 현재도 키가 계속 크는 중이라고 한다. 확정된 것은 아니지만 용 선수는 내년엔 속초에 있는 설악중학교로 진학해 배구를 계속할 가능성이 크다고 한다.&lt;br&gt;&lt;br&gt;한국초등배구연맹은 용 선수가 한국 배구의 중심 선수로 성장할 수 있도록 돕겠다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UAW5ERGHVZFZVIY74YEQDVO5JM.jpg?auth=89cfb079869f8c66c6a86786403646c086b0dadeff38bb7275bfde757f2c6198&amp;smart=true&amp;width=640&amp;height=360" type="image/jpeg" height="360" width="640">
+        <media:description type="plain">전국 초등학교 배구 대회에 출전한 용지훈 선수(15번). /한국초등배구연맹</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>‘지게차 괴롭힘’ 재발 방지… 법무부, ‘1345 외국인센터’ 가동</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/02/SO3FQMI5SZGDVFMIJPOXZ5VI64/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/SO3FQMI5SZGDVFMIJPOXZ5VI64/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 05:01:59 +0000</pubDate>
+      <content:encoded>법무부는 2일 외국인 노동자의 인권 침해 피해 구제와 재발 방지를 위해 ’1345 외국인종합안내센터’를 통해 종합 지원 서비스를 제공한다고 밝혔다. ‘원스톱 솔루션 센터’ 또는 고용노동부 ‘외국 인력 상담센터’와 연계해주는 맞춤식 지원을 제공한다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IHKT64YFKFMNPOJKVJC5RW2TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 법무부 청사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 노동자가 1345로 전화해 외국인종합안내센터에 인권 침해 관련 전화 상담을 하면 피해 유형에 따라 폭행·협박·성폭력 등은 원스톱 솔루션 센터로, 산업재해·임금 체불 등은 근로복지공단과 지방고용노동청으로, 외국인노동법 등 고용관계 상담은 외국 인력 상담센터로 각각 연계해 ‘원스톱’ 지원을 제공할 계획이다.&lt;br&gt;&lt;br&gt;이번 외국인종합안내센터 운영은 지난 2월 전남 나주시 벽돌 제조 공장에서 발생한 ‘지게차 괴롭힘’ 사건이 계기가 됐다고 법무부는 설명했다. 외국인 노동자 인권 침해 발생을 방지하고 신속한 구제를 위해 대책을 마련했다는 것이다.&lt;br&gt;&lt;br&gt;이 밖에도 법무부는 산업 현장의 외국인 노동자 인권 침해를 예방하고 인권 침해 발생시 신속하게 구제받을 수 있도록 외국인 노동자에게 다양한 방식으로 인권 보호 정보를 제공할 계획이라고 밝혔다. 외국인 노동자가 비자 신청부터 입국 심사, 외국인 등록, 체류기간 연장 등의 절차를 거치는 과정에서 최대 20개 언어로 인권 보호와 피해 구제 방안을 안내할 예정이다.&lt;br&gt;&lt;br&gt;사업주에게도 문자 메시지로 인권 보호 절차를 안내하고, 사증발급인정서를 신청할 때는 사업장과 숙소 등에 외국인 노동자 인권 보호 안내문 게시 여부를 확인해 비자 심사에 반영할 계획이다.&lt;br&gt;&lt;br&gt;정성호 법무 장관은 “이번 대책으로 외국인 노동자가 1345 외국인종합안내센터를 통해 실질적인 보호를 받을 수 있게 됐다”며 “외국인 100만명 시대를 맞아 우리나라에서 안전하게 일할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘짱구 엄마’ 서울 지하철 목소리, AI가 잇는다</title>
+      <link>https://www.chosun.com/national/people/2025/09/30/DY5DEUDSDNBDXOYRAOUB5XUIYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/DY5DEUDSDNBDXOYRAOUB5XUIYM/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYUWLB5PIRGXRL4U25ARVCJ5SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 1996년부터 서울 지하철 안내 방송을 담당했던 성우 강희선씨가 암 투병으로 하차한다. 애니메이션 ‘짱구는 못 말려’의 ‘짱구 엄마’로도 유명하다. 그의 자리는 AI가 대신한다.
+/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번 역은 시청, 시청역입니다. 내리실 문은 왼쪽입니다.”&lt;br&gt;&lt;br&gt;서울 지하철 안내 방송의 목소리가 29년 만에 바뀐다. 1996년부터 안내 방송을 전담해 온 성우 강희선(65)씨가 건강 문제로 하차한다고 서울교통공사가 29일 밝혔다. 강씨의 빈자리는 인공지능(AI)이 대신한다.&lt;br&gt;&lt;br&gt;강씨는 1979년 성우로 데뷔했다. 47년 차다. 영화 ‘원초적 본능’의 샤론 스톤, 영화 ‘귀여운 여인’의 줄리아 로버츠 목소리 연기를 맡았다. 10·20대 사이에선 애니메이션 ‘짱구는 못말려’의 ‘짱구 엄마’ 봉미선 목소리로 이름이 알려져 있다. 2005년 KBS 성우연기대상, 2018년 대한민국 대중문화예술상 국무총리 표창을 받았다. 앞서 강씨는 2023년 한 유튜브 채널에 출연해 “2021년 대장암 판정을 받았다”고 했다. 강씨는 지난달 ‘짱구는 못말려’도 26년 만에 하차했다. &lt;br&gt;&lt;br&gt;강씨는 그동안 지하철 안내 방송에 애정을 보였다. 2021년 한 라디오 프로그램에 출연해 “한 마디를 녹음할 때도 단순한 서비스가 아니라 친절과 감사의 마음을 담았다”며 “AI의 목소리가 편리하고 효용성이 있을지는 몰라도 따뜻한 감정을 담아 서로를 위로할 수 있는 건 오직 사람뿐”이라고 했다. 지난해 서울교통공사 유튜브에선 “(승객들이) 아침에 출근할 때 즐거운 하루가 되셨으면 좋겠다”며 “고객의 입장에서 최선을 다하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;지하철 안내 방송은 총 26가지로, 그동안 스튜디오에서 녹음해 틀었다. &lt;br&gt;&lt;br&gt;공사는 AI 안내 방송을 도입하면 제작에 걸리는 시간이 2~3주에서 하루 이내로 줄어들 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;공사 관계자는 “강씨가 암 판정을 받았다고 밝힌 후 교체를 검토해 왔다”며 “안정적인 안내 방송을 위해 새로 성우를 뽑지 않고 AI를 활용하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울 지하철 1·3·4호선 일부 구간을 운영하는 코레일은 앞서 2018년 AI 안내 방송을 도입했다. 공사 관계자는 “AI에 성우 목소리를 최대한 학습시켜 이질감을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 삼성디스플레이 압수수색 “중국 경쟁기업에 기술 유출 정황 포착”</title>
+      <link>https://www.chosun.com/national/incident/2025/10/02/ETMEGCLGPNB4RATDMBNNX4XBA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/02/ETMEGCLGPNB4RATDMBNNX4XBA4/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 04:45:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DNFSQZIPWP447IP7XS2VM2O4AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 용인시 삼성디스플레이리서치(SDR) 신사옥 전경./삼성디스플레이 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 삼성디스플레이의 최신 디스플레이 기술이 중국으로 유출된 정황을 포착하고 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울경찰청 산업기술안보수사대는 지난 1일 충남 삼성디스플레이 아산 캠퍼스를 산업기술보호법 위반 혐의로 압수수색했다고 2일 밝혔다. 삼성디스플레이의 일부 직원이 최신 디스플레이 기술을 중국 기업에 넘겼다는 정황을 포착한 것으로 전해졌다. 경찰 관계자는 “아직 수사 초기 단계”&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘情’ 없는 세상</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/18/VAJLJK37VRGI7J6KDV3SQ2RUQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/VAJLJK37VRGI7J6KDV3SQ2RUQE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 05:36:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4P2ZBTFPZJ4WXAADSVFNK257U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초코파이. 기사와 관련 없음./.뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 완주군의 한 물류회사 협력업체 직원이 냉장고에 있던 초코파이와 커스터드 과자를 먹었다가 절도 혐의로 기소돼 항소심에서 무죄를 주장했다. 금액으로 치면 1000원짜리 사건이 법정으로 올라오자, 재판부와 변호인 모두 헛웃음을 지은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;18일 전주지법 제2형사부(부장 김도형) 심리로 열린 항소심 첫 공판에서 김 부장판사는 기록을 살펴본 뒤 “사실 사건을 따지고 보면 400원짜리 초코파이랑 650원짜리 커스터드를 가져가서 먹었다는 것”이라며 “각박한데 이렇게까지 해야 하나. 어쨌든 항소심에서도 이 사건이 절도 혐의가 성립되는지 살펴보겠다”고 말했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 1월 새벽 회사 사무실 냉장고에서 초코파이와 커스터드 각 1개를 꺼내 먹은 혐의로 기소됐다. 그는 “평소 다른 기사들로부터 냉장고 간식을 먹어도 된다는 말을 들었다”며 절도 고의가 없었다고 주장했지만, 1심 재판부는 이를 받아들이지 않고 벌금 5만원을 선고했다.&lt;br&gt;&lt;br&gt;항소심에서 A씨의 변호인은 의견서를 제출하며 “금액이 적은 사건임에도 항소심까지 가져온 것은 문제의 소지가 있다고 본 것”이라고 말했다. 이어 “사건 장소는 누구나 드나들 수 있는 사무실로, 정수기 옆 냉장고에 과자가 있었다”며 “CCTV를 봐도 피고인이 사무실에 들어갈 땐 망설임이 없다”고 했다. &lt;br&gt;&lt;br&gt;또 “음료수나 과자는 공개된 장소에 있는 물건인데 구태여 이걸 일일이 허락받고 먹으라는 게…”라면서 “진짜 과자를 훔치려고 했다면 (상자를) 통째로 들고 가지 초코파이 한 개, 커스터드 한 개 이렇게 갖고 가겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;변호인은 “사실 이게 뭐라고…배고프면 과자를 먹으라고 해놓고 절도의 고의가 성립한다는 게 이해가 가지 않는다”고도 했다.&lt;br&gt;&lt;br&gt;김 부장판사는 “피고인의 행위가 악의적인 것은 아니지만 법리적으로 문제 될 부분이 있는지 보겠다”며 변호인이 신청한 증인 2명을 모두 채택했다. 항소심 두 번째 재판은 10월 30일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영주 관광 성지 무섬마을서 ‘외나무다리 축제’ 열린다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/02/25UYMLS2FJHQNNGS3E73LPKU3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/25UYMLS2FJHQNNGS3E73LPKU3U/</guid>
+      <dc:creator>영주=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 04:26:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQT3SIQNCHIJ5OMDQMQLLWH7EQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영주 무섬마을의 외나무다리/영주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 영주시 무섬마을에서 오는 3~5일 ‘2025 영주 무섬 외나무다리 축제’가 열린다. 무섬마을은 부석사와 함께 영주 관광지의 양대 산맥으로 불린다. &lt;br&gt;&lt;br&gt;강물이 산을 만나 한 바퀴 돌면서 만들어진 지형으로 ‘물 위에 떠 있는 섬’이라는 뜻에서 이름이 지어졌다. 무섬마을을 휘감는 내성천을 가로지르는 외나무다리는 ‘한국의 아름다운 길 100선’에 선정되기도 했다.&lt;br&gt;&lt;br&gt;이번 축제 첫날에는 외나무다리에서 펼쳐지는 각종 퍼포먼스와 전통 혼례 재연이 펼쳐진다. 캘리그라피 시연, 무섬 놀음 한마당을 비롯한 각종 공연이 열린다.&lt;br&gt;&lt;br&gt;4일에는 어린이 퍼레이드, 전래놀이극, 마당극 등 가족 단위 관람객을 위한 프로그램이 진행된다. 축제 마지막 날에는 백사장과 외나무다리 인근에서 지역 예술인 공연과 전통 상여 행렬이 이어진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZYMYWMSWGV22K7LFUTIGOZODO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영주 무섬외나무다리축제/영주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 밖에 축제 기간 중 체험 프로그램으로는 무섬마을 전통 고기잡이인 ‘겨메기’ 체험, 백사장 맨발 걷기, 운세 뽑기 등을 즐길 수 있다. 어린이 관광객을 위한 자연 놀이터도 운영된다. 야간에는 외나무다리에 조명이 설치돼 무섬마을의 야경을 즐길 수 있다.&lt;br&gt;&lt;br&gt;유정근 영주시장 권한대행은 “영주의 전통과 문화를 무섬마을 축제에 담았다”며 “올 가을 영주의 매력을 듬뿍 느껴달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 국가정보관리원·시공업체 등 압수수색... 업무상 실화 혐의</title>
       <link>https://www.chosun.com/national/regional/2025/10/02/FCIR7SOMIRFYVGSJKQ7KNPIM4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/02/FCIR7SOMIRFYVGSJKQ7KNPIM4A/</guid>
@@ -824,44 +891,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYDX3VP2VJHC5ERWP6YVTFOV34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국인 남성이 캄보디아에서 범죄 조직으로부터 마약을 강제 투약 당하고 있다. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 범죄단지에서 한국인 피해 사례가 이어지는 가운데, 한 20대 한국인이 중국 국적 범죄 조직원으로부터 마약 투약을 강요받는 영상이 공개됐다. &lt;br&gt;&lt;br&gt;1일 KBS를 통해 공개된 영상을 보면, 고압적으로 명령하는 목소리와 함께 겁에 질린 한국인 무언가 담긴 통을 든 채 하얀 연기를 마시고 뱉기를 반복한다. 남성이 들고 있는 통은 필로폰을 연기로 흡입하는 장치인 ‘프리베이스’다. &lt;br&gt;&lt;br&gt;영상에는 고압적인 목소리로 “빨라고 더 세게! 더빨아!” “죽여버리기 전에 마셔, 빨리 쭉! 더 세게! 세게!” 등 명령하는 음성도 나온다. 머뭇거리던 남성은 결국 흡입을 계속한다. &lt;br&gt;&lt;br&gt;영상 속 한국인 남성 A씨는 지난 8월 캄폿 주 보코 산악지대 범죄단지에서 숨진채 발견됐다. A씨는 지난 7월 ‘현지에 가면 은행 통장을 비싸게 팔 수 있다’는 국내 브로커 소개로 캄보디아에 갔다가 납치 및 감금을 당한 것으로 파악됐다. 조직이 마약을 강제 투약한 건 탈출을 더욱 어렵게 만들기 위해서인 것으로 추정된다. &lt;br&gt;&lt;br&gt;최근 캄보디아 범죄단지 내 우리 국민 취업 사기·감금 피해가 이어지고 있다. 지난달 21일 프놈펜에선 50대 한국인 남성이 중국인 4명과 캄보디아인 1명으로부터 체포돼 납치·고문을 당하는 일이 벌어졌다. 당시 피해자는 흰색 차량을 몰고 카페에 들렀다가 다시 차량으로 돌아가던 순간 검은색 차를 타고 나타난 용의자들에게 붙잡혀 끌려간 것으로 조사됐다. &lt;br&gt;&lt;br&gt;캄보디아에서 한국인을 겨냥한 납치·감금 피해는 2023년 17건에서 지난 8월 기준 330건으로 급증한 것으로 나타났다. &lt;br&gt;&lt;br&gt;우리 정부는 지난달 16일 오후 5시부로 캄보디아 내 일부 지역에 대해 여행 경보 단계를 조정했다. 이에 따라 프놈펜에는 2단계(여행 자제), 시하누크빌·보코산·바벳 등에는 2.5단계에 해당하는 특별 여행 주의보가 각각 내려졌다. 외교부는 이 지역을 방문할 예정인 국민에게 여행 취소·연기를 권고하고, 체류 중인 국민에게는 안전한 지역으로 이동할 것을 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>보증금 못 돌려준 외국인 집주인 증가…최다 국적은 ‘중국’</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/5GYJEVJYKZB6BMGLPWSUMKHXZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/5GYJEVJYKZB6BMGLPWSUMKHXZQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 04:22:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDVDKZL4NWFSWRSGX76LFCY5IQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강변 아파트 단지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 집주인이 세입자에게 보증금을 돌려주지 못하는 ‘보증 사고’가 급증하고 있는 것으로 나타났다. 특히 중국 국적 임대인이 가장 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 국회 국토교통위원회 소속 김희정 국민의힘 의원(부산 연제구)이 주택도시보증공사(HUG)에서 받은 자료에 따르면, 외국인 임대인의 보증 사고(임대 보증금·전세 보증금)는 지난해 53건, 사고액으로는 140억원에 달했다.&lt;br&gt;&lt;br&gt;연도별 추이를 보면 2021년 3건(5억원), 2022년 4건(7억원), 2023년 30건(68억원)으로 해마다 건수와 금액이 늘었으며, 지난해 들어 급증세를 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEGB3B6YPRCEXBNNZTHESSFOUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보증 사고가 늘면서 HUG가 외국인 임대인을 대신해 세입자에게 보증금을 지급한 ‘대위 변제’ 사례도 증가했다. 대위 변제 건수는 2021년 1건(3억원), 2022년 2건(3억원), 2023년 24건(53억원), 2024년 39건(99억원)에 달했다. 올해는 지난달까지 이미 23건, 53억원을 집행했다.&lt;br&gt;&lt;br&gt;서울 양천구 목동에서 아파트 7채를 보유한 미국 국적 A씨와 금천구에서 오피스텔 7채를 가진 중국 국적 B씨는 2022년부터 지난해까지 각각 20억원이 넘는 보증금 사고를 냈다. HUG가 전액 대위 변제했지만, 지금까지 회수한 금액은 전혀 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;국적별로는 중국 국적 임대인이 39명으로 가장 많았고, 미국 14명, 캐나다 3명, 일본 2명 순이었다.&lt;br&gt;&lt;br&gt;문제는 변제액이 늘어나는 반면, 회수율은 20%대에 머물고 있다는 점이다. HUG는 2021년부터 올해 8월까지 외국인 임대인 대신 변제한 보증금 211억원 중 155억원(임대 보증금 75억원·전세 보증금 80억원)을 회수하지 못했다.&lt;br&gt;&lt;br&gt;김희정 의원은 “일부 악성 외국 임대인의 보증 사고를 국민 세금으로 대신 갚아주고 있다”면서 “보증 사고를 낸 외국인의 출국을 제한하는 등 제도 강화가 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한동훈 ‘공판 전 증인신문’ 법원 소환장, ‘폐문부재’로 또 전달 불발</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/01/7EBVFBL5IBCCZOJI6BI5FBWM7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/7EBVFBL5IBCCZOJI6BI5FBWM7M/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 04:34:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRGRARQHJAIP4EKJ4HWUTCMFOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 국민의힘 대선 경선 후보가 3일 경기 고양시 킨텍스에서 열린 제5차 전당대회에서 김문수 후보의 수락 연설을 바라보고 있다. (공동취재) 2025.5.3/뉴스1 ⓒ News1 김민지 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 지도부의 ‘계엄 해제 의결 방해 의혹’과 관련해 한동훈 전 국민의힘 대표에게 보낸 증인 소환장이 ‘폐문부재’ 사유로 또다시 송달되지 못한 것으로 나타났다.&lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울중앙지법 형사31단독은 지난달 23일 한 전 대표에게 증인 소환장을 발송했으나, 같은 달 30일 폐문부재로 송달이 불발됐다. 폐문부재란 송달받을 장소에 문이 닫혀있고 사람이 없는 경우를 말한다.&lt;br&gt;&lt;br&gt;한 전 대표에 대한 증인 소환장이 폐문부재로 송달이 안 된 것은 이번이 세 번째다. 앞서 내란 특검은 ‘계엄 해제 의결 방해 의혹’과 관련해 한 전 대표의 진술이 필요하다며 지난 11일 법원에 공판 전 증인신문을 청구했다. 그러나 증인 소환장은 지난달 18일과 21일에 이어 30일에도 폐문부재로 전달되지 않았다.&lt;br&gt;&lt;br&gt;한 전 대표에 대한 공판 전 증인신문은 지난달 23일 예정돼 있었지만, 한 전 대표가 불출석하면서 재판부는 오는 2일로 기일을 다시 지정했다. 하지만 이번에도 소환장이 전달되지 않아 한 전 대표가 증인신문에 불출석할 가능성이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아내 계좌로 보조금 빼돌린 자유총연맹 전 사무국장 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/XLBXFQBDURH75FZ2QQN6L5TKXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/XLBXFQBDURH75FZ2QQN6L5TKXM/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>지자체 보조금을 빼돌린 한국자유총연맹 춘천시지회 전 사무국장이 검찰에 넘겨졌다.
-강원 춘천경찰서는 지방보조금법 위반 혐의로 40대 A씨를 불구속 송치했다고 1일 밝혔다.
-</description>
-      <pubDate>Wed, 01 Oct 2025 04:47:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지자체 보조금을 빼돌린 한국자유총연맹 춘천시지회 전 사무국장이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원 춘천경찰서는 지방보조금법 위반 혐의로 40대 A씨를 불구속 송치했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 5월부터 지난해 6월까지 지자체 보조금 9100여 만 원을 아내와 지인 계좌로 이체해 개인적으로 사용한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 한국자유총연맹 강원도지부 회장 계정으로 관리 시스템에 접속해 자신을 보조금 신청·수급 권한이 있는 관리자로 무단 등록한 뒤 자금을 빼돌린 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨의 범행은 지난해 8월 춘천시의 고발로 경찰 수사가 시작되면서 밝혀졌다.&lt;br&gt;&lt;br&gt;한국자유총연맹은 지난해 A씨를 징계위원회에 회부하려 했지만, 절차에 들어가기 전 A씨가 퇴사하면서 징계는 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘제주항공 참사’ 공항 인허가·안전검사 담당 전·현직 국토부 공무원 8명 추가 입건</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/VM3LW22XLFBIPG5AF45NS5ZVQI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/VM3LW22XLFBIPG5AF45NS5ZVQI/</guid>
-      <dc:creator>무안=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 03:56:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R76QMALGFGSLR7F7P7OSFJUYXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남경찰청 전경. ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘12·29 제주항공 여객기 참사’를 수사 중인 경찰이 무안공항 인허가와 안전 검사를 담당한 전·현직 국토교통부 공무원 8명을 추가 입건했다.&lt;br&gt;&lt;br&gt;전남경찰청 제주항공 여객기 사고 수사본부는 1일 업무상 과실치사상 혐의로 국토부 전·현직 공무원 8명을 불구속 입건했다고 밝혔다. 이들은 지난해 12월 29일 전남 무안공항에서 179명이 사망한 여객기 사고와 관련해 공항 개항 당시 운영과 관련한 인허가 업무를 담당했거나 안전 시설 검사 업무를 맡았다.&lt;br&gt;&lt;br&gt;경찰은 현재까지 총 39명을 입건했다. 경찰은 지난 6월 국토교통부 공무원과 한국공항공사 직원, 방위각 시설 시공 업체 관계자 15명을 업무상 과실치사상 혐의로 입건했었다.&lt;br&gt;&lt;br&gt;지난 5월에는 유족들로부터 사고 책임자들을 중대재해처벌법 위반, 업무상 과실치사상 혐의로 처벌해달라는 고소장을 받고 박상우 전 국토부 장관과 김이배 제주항공 대표, 한국공항공사 대표 등 16명을 피고소인 신분으로 입건했다.&lt;br&gt;&lt;br&gt;경찰은 참사를 키운 원인으로 지목된 방위각 시설(로컬라이저)에 대한 국립과학수사연구원 감정과 보강 자료 등을 통해 수사를 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, 국정자원 관계자·현장 작업자 등 4명 ‘업무상 실화’ 혐의 입건 </title>
       <link>https://www.chosun.com/national/regional/2025/10/01/OGHMA44NYNDODEYXTB2AZX3V7I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/OGHMA44NYNDODEYXTB2AZX3V7I/</guid>
@@ -892,15 +921,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/552Z3JKO6NBCLBCFFAJDFBK2OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰서와 파출소에서 보관 중인 범죄 압수물이 두 차례나 도난당한 사실이 뒤늦게 드러났다. 사건 피의자가 버젓이 청사에 몰래 들어와 압수물을 갖고 가는 데도 경찰은 이를 파악하지 못했다. 압수물이 사라진 것도 사건을 송치하는 과정에서야 확인하는 등 경찰의 총체적인 관리 부실이 드러났다. &lt;br&gt;&lt;br&gt;경남 창원서부경찰서는 오토바이를 훔친 혐의(절도) 등으로 고등학생 A군을 입건해 조사 중이라고 1일 밝혔다. A군은 지난달 3일 오전 2시 10분쯤 창원서부경찰서 대형 압수물 창고 앞에 보관 중이던 압수물인 오토바이를 훔쳐 달아난 혐의를 받는다. &lt;br&gt;&lt;br&gt;본지 취재를 종합하면, A군은 지난 8월 30일 오후 10시쯤 경남 함안의 한 아파트 지하 주차장에 번호판 없이 방치돼 있던 125CC 오토바이를 도구를 이용해 시동을 걸어 훔쳤다. A군은 이 오토바이를 타고 창원 의창구 팔용동 일대를 배회했고, 인근 주민이 “시끄럽다”며 112에 신고했다. &lt;br&gt;&lt;br&gt;출동한 경찰은 A군의 절도 사실을 확인해 8월 31일 오전 5시 30분쯤 이 오토바이를 압수했다. 범죄 압수물인 오토바이는 창원서부경찰서 압수물 보관 창고 앞에 뒀다고 한다. 경찰은 “당시 창고 안에 다른 압수물이 가득 차 바깥에 뒀다”고 설명했다. 경찰 내부 지침상 잠금장치를 해야 했지만, 이 역시 지켜지지 않았다. &lt;br&gt;&lt;br&gt;A군은 지난달 3일 오전 2시 10분쯤 친구와 함께 창원서부경찰서를 찾았다. A군 등은 1.5m 높이 직원 주차장 분리 펜스를 뛰어넘어 압수물 창고에 접근했다. A군은 잠금장치가 돼 있지 않은 오토바이를 다시 도구를 이용해 시동을 걸어 훔쳐 달아났다. 당시 경찰서에는 야간 당직자가 있었지만, 청사 내부에서 근무 중이라 바깥 상황을 전혀 알지 못했던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A군은 대범하게도 경찰서에 있던 오토바이를 훔쳐 달아난 다음날 경찰서에서 조사를 받았다. 그때도 경찰은 압수물인 오토바이가 사라진 사실을 몰랐던 것으로 드러났다.&lt;br&gt;&lt;br&gt;A군이 훔쳤던 이 오토바이는 9월 13일 의창구 북면 한 도로에서 발견됐다. 당시 “누군가 번호판이 없는 오토바이를 타고 다닌다”는 신고가 접수돼 북면 파출소 경찰관들이 출동했다. 경찰이 현장에 도착했을 당시엔 오토바이는 세워져 있는 상태로, A군은 없었다. &lt;br&gt;&lt;br&gt;출동한 경찰관은 이 오토바이가 앞서 창원서부서에서 도난당한 압수물인 것을 전혀 알지 못했다. 오토바이 주변에 있던 10대 학생들은 “자신의 오토바이가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;소유자를 확인하지 못한 출동 경찰관은 이 오토바이를 파출소로 끌고 와 임시 보관했다. 하지만 이 오토바이는 9월 16일 오후 10시쯤 또 사라졌다. 경찰 관계자는 “감시 카메라(CCTV) 화질이 좋지 않아 누가 훔쳐 갔는지는 확인되지 않는다”고 했다. &lt;br&gt;&lt;br&gt;창원서부서는 압수물인 오토바이가 사라진 것을 2주가 흐른 지난달 17일이 돼서야 알아차렸다. 사건을 송치하는 과정에서 오토바이가 없어진 것을 확인한 경찰은 CCTV를 분석해 A군이 훔친 것을 파악한 것.&lt;br&gt;&lt;br&gt;북면파출소에서 사라진 오토바이는 다시 A군에게 있었다. 지난달 18일 오전 4시쯤 창원 진해구 경화동 일대에서 “오토바이 소음이 심하다”는 주민 신고가 접수됐고, 경찰이 출동했다. &lt;br&gt;&lt;br&gt;당시 오토바이를 타고 있던 운전자는 경찰의 정지 신호를 무시하고 약 1.6㎞를 도주하다 과속방지턱에 걸려 넘어지며 사고를 당했다. 이 남성이 A군이었다. 뇌출혈 증세로 수술을 받은 A군은 현재 입원 치료 중으로, 생명에는 지장이 없는 것으로 전해졌다. 경찰은 도난당한 오토바이를 다시 회수했고, A군 등 2명을 불구속 입건해 조사 중이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “압수물에 대한 관리 부실 등 물의를 일으킨 점 송구하다”며 “압수물이 도난당한 과정 전반에 대해 감찰을 진행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, ‘2000억원 부정 거래’ 방시혁 하이브 의장 출국금지</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/DFW4BDEKFFAETDZBFNRZ4JRSLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/DFW4BDEKFFAETDZBFNRZ4JRSLU/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 01:48:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMEXAHMKGRCF3ALCJ3LZ6DAT4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 9월 15일 서울 마포구 서울경찰청 광역수사단 금융범죄수사대에서 방시혁 하이브 의장이 하이브 상장 부정거래 의혹 조사를 받기 위해 출석하기 전 입장을 밝히고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2000억원 규모의 부당거래 의혹을 받는 방시혁 하이브 의장이 출국금지된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면 서울경찰청 금융범죄수사대는 방 의장을 자본시장법 위반 혐의로 출국금지 조치했다. 조치 시점 등 세부 내용은 알려지지 않았다.&lt;br&gt;&lt;br&gt;방 의장은 하이브가 증시에 상장하기 전인 지난 2019년 하이브 상장 계획이 없는 것처럼 투자자들을 속인 뒤 전 하이브 임원들이 출자해 설립한 사모펀드에 지분을 팔게 해 약 2000억 원의 부당 이득을 챙긴 혐의로 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난 9월 15일과 22일 두 차례에 걸쳐 방 의장을 피의자 신분으로 소환 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>현직 부장검사 “특검 수사할 자격 있는 검사, 임은정이 유일... 파견 검사 복귀시켜야”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/01/QNZUJ3JO4BD6LGZ3UPZIJHMBDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/QNZUJ3JO4BD6LGZ3UPZIJHMBDI/</guid>
@@ -910,15 +930,6 @@
       <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀에 파견된 검사 40명 전원이 검찰청 복귀를 요청한 데 대한 파장이 이어지고 있다. 한 현직 부장검사는 정성호 법무장관을 향해 “‘악의 축’인 검사들을 일선으로 복귀시키라”며 “임은정 서울동부지검장만이 특검에 파견 가 수사를 할 자격이 있을 것”이라고 했다. 검찰 폐지를 주장하는 임 지검장을 에둘러 비판한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTPTZCTZKNLLJH3SV2ZE3FKXFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면, 보건·소년범죄 등 민생 사건 수사를 전담하는 서울북부지검 형사3부의 장진영 부장검사는 이날 오전 검찰 내부망 이프로스에 게시글을 올려 이 같은 입장을 밝혔다. 장 부장검사는 “현재 특검 수사가 우리나라에서 얼마나 중요하고 의미가 있는 사건이냐”며 “중차대한 특검 수사에 ‘악의 축’인 검찰청 검사들이 파견을 가 특검 수사를 오염시키고 더럽히고 있다”고 했다. 당정이 개혁 대상으로 삼고, 검찰청을 폐지시키는 등 검사를 ‘악마화’하는 상황에서 전 정권 수사에 검사들을 빼다 쓰는 것은 모순이라고 에둘러 지적한 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검찰 구성원들, 특히 검사들은 임 지검장을 제외하고 모두 하나의 인격체로서 연좌제급 무한 연대책임을 지는 악(惡)의 집단”이라며 “현재 특검에 파견 가 수사를 할 자격이 있는 검사는 임 지검장이 유일할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 장 부장검사는 “가장 악취 나는 검사들을 특검 수사에 관여하게 하는 것은 국민들도 용납하지 못하실 것”이라며, “특검 파견 검사들은 수사·기소 분리라는 시대의 절대 진리와도 같은 가치를 거스르며 기소와 공소 유지에도 관여하겠다고 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 장 부장검사는 “이러한 악의 집단인 검사들 때문에 악의 축인 검찰청을 폐지했는데, 이들 때문에 추후 특검 수사의 정당성이 흔들릴까 두렵다”고 했다. 이어 “다행인 것은 이러한 악취 나는 검사들이 스스로 일선 복귀를 요청했다니 양심은 있는 모양”이라고 했다. 이어 정 장관에게 “파견 검사들을 당장 일선으로 내쫓아 민생 사건을 신속히 처리하며 속죄하게 해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “수사 받는 줄 몰랐다면 성범죄 피해자 신상 공개해도 처벌 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/01/2YLISNJJXBEHTMPWQNLSDVYWMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/2YLISNJJXBEHTMPWQNLSDVYWMY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2W3YYRL2BAJJDSQDIFSNVJQEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성폭력 범죄 피해자가 수사를 받고 있다는 사실을 몰랐다면, 피해자 신상을 다른 사람에게 공개했더라도 처벌할 수 없다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;1일 법조계에 따르면 대법원 2부(주심 권영준 대법관)는 여자친구 신체를 몰래 촬영하고 다른 남성들에게 전송한 혐의로 기소된 A(32)씨에게 징역 6년을 선고한 원심 판결을 최근 확정했다. 피해자 이름과 직업 등 신상을 함께 유포한 부분에 대해선 무죄가 확정됐다. &lt;br&gt;&lt;br&gt;A씨는 여자친구 B씨의 동의 없이 신체가 노출된 사진·영상을 불법 촬영하고, 이를 트위터(현 X)와 텔레그램, 라인 등 메신저를 통해 일면식 없는 다른 남성들에게 전송해 성폭력처벌특례법 위반(카메라 등 이용 촬영·반포) 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;조사 결과 교제 중이던 2020년 5월부터 헤어진 이후 2024년 1월까지 까지 불법 촬영물을 유포했고, 다른 남성에게 B씨 사진 위로 신체 부위를 올려 사진을 찍어달라고 하는 등 2차 편집물을 제작하기도 했다. &lt;br&gt;&lt;br&gt;A씨는 불법 촬영물과 함께 B씨 실명과 나이·직업 등 신상을 적어 보내 성폭력처벌특례법상 비밀 준수 조항을 위반했다는 혐의도 받았다. 이는 성폭력 범죄로 수사·재판을 받은 피해자의 인적사항을 공개할 경우 처벌하는 조항이다.&lt;br&gt;&lt;br&gt;지난 4월 2심 재판부는 A씨에게 징역 6년형을 내리면서 “피해자는 인격적·사회적 존재로서 가치를 크게 훼손당하는 돌이킬 수 없는 피해를 봤다”며 “극심한 성적 수치심과 모욕감은 물론 인격적 살해에 가까운 정신적 고통을 겪었을 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;다만 비밀 준수 위반죄로는 처벌할 수 없다고 판단했다. 재판부는 “A씨가 처음 B씨 불법 촬영물과 인적사항을 다른 사람에게 보냈을 땐 수사 착수 전이었고, 수사가 시작된 이후에도 A씨는 수사 사실을 알지 못하고 인적사항을 유포한 것이기 때문에 비밀 준수 조항을 위반했다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에 성폭력처벌특례법 해석에 관한 법리나 성적인 편집물 제작에 관한 법리를 오해한 잘못이 없다”며 형을 그대로 확정했다. 대법원은 “성폭력처벌특례법의 비밀 준수 조항은 ‘수사·재판을 받았거나 받고 있는 피해자’를 보호하기 위한 조항으로 이를 ‘모든 성폭력 범죄 피해자’로 해석하는 것은 규정의 의미를 피고인에게 불리한 방향으로 지나치게 확장 해석하는 것이어서 죄형법정주의 원칙에 어긋난다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>추석 연휴 기간에 아프면? ‘응급똑똑’ 앱에서 문 연 병원 확인하세요</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/01/SUQWVWXGTREFNGQCQJUPG4T7LY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/01/SUQWVWXGTREFNGQCQJUPG4T7LY/</guid>
@@ -926,15 +937,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 03:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6DQK7U7KDVPACJ5URNEAV2UFUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;응급의료정보 앱 ‘응급똑똑’&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간 아플 경우 동네 병·의원을 찾으려면 ‘응급똑똑’앱을 이용하면 된다.&lt;br&gt;&lt;br&gt;1일 보건복지부는 다가오는 추석 연휴를 대비해 연휴 기간 의료기관 이용방법을 안내했다.&lt;br&gt;&lt;br&gt;복지부에 따르면 연휴 기간 몸이 아플 때 문 여는 동네 병·의원이나 지역응급의료기관은 ‘응급똑똑’앱을 통해 확인 가능하다. 해당 앱은 사용자가 입력한 증상정보를 바탕으로 정보를 제공한다. 증상정보를 바탕으로 중증환자에겐 응급실 방문을 안내하고, 경증환자는 가까운 병의원을 안내해주거나 응급 처치 정보를 제공한다. 응급똑똑 앱은 구글 플레이스토어나 애플 앱스토어에서 검색하면 설치·이용할 수 있다.&lt;br&gt;&lt;br&gt;먄약 12세 이하 소아가 갑작스레 아프다면 소아·응급 전문의 등 전문의료인이 24시간 상담을 제공하는 소아전문상담센터 아이안심톡을 이용하면 된다. 아이안심톡은 사용자가 입력한 증상정보를 바탕으로 상담보다는 진료가 필요한 경우엔 119신고나 의료기관 이용을 안내한다. 상담으로 가능한 경우에는 1 대 1 게시판에 문의할 수 있고, 상담 의료진은 입력된 소아환자의 현재 증상이나 과거 병력을 바탕으로 게시판 답글 또는 전화 안내를 해준다.&lt;br&gt;&lt;br&gt;다만, 호흡곤란이나 갑작스러운 팔다리 저림 등 중증질환에 흔히 동반되는 심각한 증상이 나타나면 즉시 119에 신고하는 것이 바람직하다. 특히 증상에 대해 혼자 판단하기 어려운 경우 119로 신고하면 의학적인 상담이 가능하니 이를 적극적으로 활용할 필요가 있다.&lt;br&gt;&lt;br&gt;정부는 연휴 기간에도 국민들이 의료기관을 이용할 수 있도록 문 여는 병·의원을 일평균 약 8800개소 지정해 운영한다는 계획이다. 다만 문 여는 병·의원을 찾았다 하더라도 실제 열었는지 여부를 확인하기 위해 해당 병·의원에 전화해 확인하고 방문할 것이 권고된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 검찰 등에 13명 추가 인력 요청... “원대 복귀하겠단 검사 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/01/5MLM544ODZEHJKZ4QSQXETWNNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/5MLM544ODZEHJKZ4QSQXETWNNY/</guid>
-      <dc:creator>이세영 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 02:53:29 +0000</pubDate>
-      <content:encoded>‘순직 해병 수사 외압’ 의혹을 수사하는 해병 특검은 최근 개정 특검법에 따라 검찰·경찰·고위공직자범죄수사처(공수처)·국방부 등에 총 13명의 수사 인력 추가 파견을 요청했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYGF6AA7YHFKDUHHUP2SITLZXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순직 해병 특별검사팀의 정민영 특별검사보./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 이날 오전 서울 서초동 특검 사무실에서 열린 언론 브리핑에서 “이르면 2일부터 추가 파견자들이 근무를 시작할 것”이라며 “아직 증원이 마무리된 것은 아니다”고 말했다.&lt;br&gt;&lt;br&gt;해병 특검은 지난달 29일부터 검찰청 4명, 경찰청 4명, 공수처 2명, 국방부 소속 군사경찰 2명, 국가인권위 1명 등 총 13명의 파견을 각각 요청했다.&lt;br&gt;&lt;br&gt;지난달 26일 공포된 개정 특검법에는 특검보와 파견 검사·수사관 등의 정원을 늘리는 조항이 담겼다. 이에 따라 해병 특검의 파견검사 수(정원 기준)는 20명→30명으로, 파견 공무원 수는 40명→60명으로, 특별수사관 수는 40명→50명으로 각각 증원된다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 검찰청 폐지를 골자로 한 정부조직법 개정과 관련해 특검 파견 검사들 사이에서 별다른 기류 변화는 없는 것으로 파악하고 있다고 밝혔다. 정 특검보는 “특별히 검사들이 집단으로 의견을 내는 상황은 없는 걸로 안다”며 “검찰개혁과 관련한 맥락에서 (원래 소속이던 검찰청으로) 돌아가겠다는 사람은 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>연휴 앞두고 전국 공항 자회사 노조, 총파업 돌입</title>
