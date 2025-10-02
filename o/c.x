@@ -13,6 +13,219 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 대법관 늘리겠다는데… 장기 미제 사건, 대법은 줄고 1·2심은 늘었다</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/03/7U355K2X6FFW3M4YYR32U3P67Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/7U355K2X6FFW3M4YYR32U3P67Y/</guid>
+      <dc:creator>방극렬 기자, 김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 20:04:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSAPLWC4CZLRXKT6WSZJ7XGEWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대(오른쪽) 대법원장이 지난달 25일 서울 서초구 대법원에서 열린 신임 법관 임명식에서 신임 법관들의 선서를 받고 있다. 여권이 최근 추진하는 대법관 증원과 재판소원 도입 등과 관련, 법조계에선 “정치적 유불리만 따지다 보니 엇박자가 생긴다”는 비판이 나오고 있다./대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령과 더불어민주당이 추진하는 대법관 증원과 재판소원 도입, 상소(항소·상고) 제한 등 각종 사법 제도 개편에 대해 법조계에서는 “무분별한 상소를 줄여 재판을 적게 하자면서, 대법관을 늘리고 ‘4심제’까지 열어주는 것은 모순”이라는 지적이 나온다. 당정이 사법 제도에 대한 일관된 철학 없이 이 대통령의 선거법 사건을 파기환송한 조희대 대법원장을 압박하기 위해 ‘마구잡이 개혁’을 추진하고 있다는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇상고심 미제 줄었는데, 대법관 증원?&lt;/b&gt;&lt;br&gt;&lt;br&gt;민주당은 신속한 재판과 상고심 사건 적체 해소를 위해 현재 14명인 대법관을 26명으로 늘리는 법안을 추진 중이다. 이에 대해 대법원은 “대법관보다 일반 판사를 늘려 1·2심을 강화하는 게 급선무”라는 입장이다. 실제로 수년씩 선고가 나오지 않는 장기 미제 사건은 상고심보다 하급심에서 더 적체되고 있는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;2일 대법원 법원행정처가 송석준 국민의힘 의원실에 제출한 자료를 보면, 조 대법원장이 2023년 12월 취임한 이후 대법원의 민형사 장기 미제 사건 수는 크게 줄어들었다. &lt;br&gt;&lt;br&gt;대법원에서 2년 넘게 재판을 받은 장기 미제 형사 사건의 경우, 피고인 수가 2023년 175명에서 작년 149명으로 15% 감소했다. 올해 상반기(1~6월)까지 139명으로 더 줄었다. 반면 1심 피고인 수는 2023년 4583명에서 작년 4223명으로 소폭 줄었다가 올해 상반기 4526명으로 다시 늘어났다. 항소심 피고인 수도 같은 기간 442명(2023년), 358명(2024년), 376명(올해 상반기)으로 비슷한 추세였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWFRCPWCYJCDLJUL6HN2PWVLM4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민사 장기 미제 사건도 비슷한 추세를 보였다. 한 사람이 여러 소송을 중복해 낸 사례를 제외하면, 대법원에 계류 중인 사건은 2023년 355건에서 작년 242건, 올 상반기 195건으로 계속 감소했다. 그러나 같은 기간 1심은 7918건에서 8245건으로 늘었고, 항소심 사건도 같은 기간 3146건에서 3323건으로 증가했다. 지방법원 한 부장판사는 “대법관 증원으로 일선 판사들이 대법원으로 빠져나가면 1·2심은 사건이 더 적체될 것”이라고 했다.&lt;br&gt;&lt;br&gt;법원행정처는 대법관을 12명 증원하면 재판연구관이 최소 106명 이상 충원돼야 한다고 보고 있다. 일선 법원의 판사 100여 명이 소속된 대형 지방법원 1개가 없어지는 셈이다. 법조계에선 “상소를 제한하려면 그만큼 하급심에서 충실한 재판이 이뤄져야 하는데, 대법관 증원은 이와 반대된 정책”이라는 지적이 나온다. 송석준 의원은 “일 잘하는 대법원을 흔들기보다 1·2심을 충실화하는 방향으로 사법 정책을 전환해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“재판소원 도입하면 상소 남발될 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;사실상 4심제를 허용하는 ‘재판소원’ 도입도 오히려 상소를 늘려 사회적 비용을 키울 것이라는 전망이 나온다. 재판소원은 대법원 확정 판결을 헌법재판소에서 다시 다툴 수 있도록 하자는 제도인데, 이는 거의 모든 사건이 재판을 4번씩 받게 될 가능성이 높다는 게 법조계의 시각이다. 매년 대법원에 접수되는 3만~4만건의 민형사 사건이 헌재로까지 이어지게 되는 것이다.&lt;br&gt;&lt;br&gt;한 고법 부장판사는 “재판소원이 도입되면 너도나도 4심까지 재판받겠다고 할 텐데 소송에 드는 시간과 비용이 크게 늘어날 수밖에 없다”며 “상소를 제한하고 하급심에서 제대로 재판하자는 것과 모순되는 주장”이라고 했다. 재판소원은 헌재를 사실상 대법원의 상급 기관으로 두는 것으로, ‘사법권은 법원에 속하고, 대법원이 최고법원을 맡는다’고 규정한 헌법에 반한다는 점도 문제로 지적되고 있다.&lt;br&gt;&lt;br&gt;한 전직 대법관은 “대법관 증원이나 재판소원 도입은 모두 상고심의 기능과 역할 등에 대한 깊은 고민과 철학을 바탕으로 추진해야 한다”면서 “당정이 정치적 유불리만 따져 개편을 하려니 엇박자가 생기는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 이재명 대통령은 최근 정성호 법무장관에게 “항소·상고 남발을 제한해 하급심에서 끝내야 한다”는 취지의 대책 마련을 지시했다. 검찰의 상소 제한을 지시한 것이지만 재판소원 도입과는 상충되는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[바로잡습니다] 2일 자 A27면 ‘최장 10일 황금 연휴? 원래는 하루만 쉬었죠’ 기사에서 외</title>
+      <link>https://www.chosun.com/special/announcement/2025/10/03/5VBKYDEKBFGG7H2WTTF44ZUGFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/10/03/5VBKYDEKBFGG7H2WTTF44ZUGFY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;▲&lt;/b&gt;2일 자 A27면 ‘최장 10일 황금 연휴? 원래는 하루만 쉬었죠’ 기사에 나온 ‘제사는 보통 4대조, 즉 증조부모까지 지냈습니다’에서 ‘증조부모’를 ‘고조부모’로 바로잡습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲&lt;/b&gt;9월 25일 자 C3면 ‘쿠스미 망갈씨 가족…네팔 할아버지·할머니와 첫만남‘ 기사에서 ’두 딸‘은 ’두 아이’의 잘못이기에 바로잡습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>佛·獨·日도 한국처럼 검사의 상소 폭넓게 인정</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/03/EGMKXMVB5ZDNHL3PAYEFR54ACY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/EGMKXMVB5ZDNHL3PAYEFR54ACY/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:55:00 +0000</pubDate>
+      <content:encoded>이재명 대통령은 지난달 30일 국무회의에서 “검사들이 되도 않는 것을 기소하고 무죄가 나오면 면책하려 항소·상고해서 국민에게 고통을 준다”면서 “무죄 판결에 상소(上訴)를 못 하게 하는 나라가 많지 않으냐”고 지적했다. 검찰의 기계적인 상소 관행에 개선이 필요하다는 취지로 해석됐다. 그러나 실제로는 미국을 제외한 상당수 국가에서 무죄 판결에 대한 검사의 상소가 가능한 것으로 나타나 향후 입법 논의 과정에서 신중한 접근이 필요하다는 주장이 법조계에서 나온다. &lt;br&gt;&lt;br&gt;한국을 비롯해 프랑스·독일·일본 등 대륙법계 국가들은 검사의 상소권을 폭넓게 인정한다. 1·2심에서 무죄가 선고돼도 검사가 이에 불복해 상소할 수 있게 한 것이다. 한국의 형사소송법도 ‘사형·무기 또는 10년 이상의 징역이나 금고가 선고된 사건’에서는 중대한 사실 오인이 인정될 경우에만 검찰의 상고가 가능하도록 일부 제한할 뿐, 대체로 무죄가 선고된 사건에 대해 검사가 상소하는 것을 제한하지 않는다. &lt;br&gt;&lt;br&gt;반면 영미법계 국가들은 무죄 판결에 대한 검사의 상소를 조건부로 허용하는 경우가 많다. 미국은 피고인이 1심 재판에서 무죄를 선고받으면 검사가 항소할 수 없게 돼 있다. 미국 헌법에 피고인이 같은 사건으로 반복해서 재판을 받으면 안 된다는 ‘이중 위험 금지’ 원칙이 있기 때문이다. 다만 배심원이 유죄 평결을 내렸는데 재판장이 무죄를 선고했을 때나, 법률 해석을 통일하기 위한 경우에 예외적으로 상소를 허용한다. 영국이나 호주는 중대 범죄에서 새로운 증거가 발견된 경우에만 검사가 상소할 수 있다. &lt;br&gt;&lt;br&gt;전문가들은 나라마다 사법 제도가 형성된 과정이 다르기 때문에 특정 국가의 사법 제도를 일률적으로 참고하는 건 무리라고 지적한다. 홍승기 인하대 로스쿨 교수는 “시대적 흐름에 맞지 않는 판결이 나왔는데 관련 입법이나 판례가 없을 경우 검찰이 상소를 통해 대법원의 판단을 받아볼 필요가 있을 때가 있다”며 “검찰의 기계적 상소를 막을 제도적 보완책은 필요하지만 상소권 자체를 없애는 건 불합리하다”고 했다. 이창현 한국외국어대 로스쿨 교수도 “영미법계는 배심원이 사실관계를 판단하지만, 한국은 법관이 사실과 법리를 함께 판단하기 때문에 같은 선상에서 비교할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;다만 한 형사 전문 변호사는 “양승태 전 대법원장, 이재용 삼성 회장 사건처럼 수십 개 혐의가 하급심에서 전부 무죄가 났는데도 검찰이 주요 혐의조차 추리지 않고 상소하는 것은 잘못된 관행”이라며 “검찰의 무리한 상소로 확정 판결이 지연되면 피고인의 신속한 재판을 받을 권리가 침해되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추석 교통사고 환자, 평소보다 1.4배 껑충</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/03/UIOV4HT46BF45MS5EYRZI3XBHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/03/UIOV4HT46BF45MS5EYRZI3XBHE/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>고향을 찾아 ‘민족의 대이동’이 일어나는 추석 연휴에는 교통량 증가와 함께 교통사고 환자 수도 평소 대비 최대 1.4배 늘어나는 것으로 나타났다&lt;br&gt;&lt;br&gt;2일 질병관리청이 2019년부터 지난해까지 6년간 교통사고 응급실 손상 환자 심층 자료를 분석한 결과다. 추석 연휴 하루 평균 교통사고 환자는&lt;b&gt; 96.3명으로 평상시(75.9명)보다 26.8% 더 많았다.&lt;/b&gt; 특히 추석 하루 전날 환자는 108.2명으로 평소보다 42.5% 증가한 것으로 나타났다. &lt;br&gt;&lt;br&gt;추석 연휴 교통사고가 가장 많이 발생하는 시간대는 오후 2~3시와 오후 5~6시였다. 하루 24시간 동안 일어나는 사고를 100건이라고 가정하면, 이 시간대에 일어나는 사고가 각각 7.6건에 달해 비중이 가장 높았다. 새벽 시간대는 사고가 상대적으로 적었고, 오후 5시를 지나 밤이 될수록 사고가 줄어드는 경향이 나타났다.&lt;br&gt;&lt;br&gt;특히 카시트나 안전벨트를 했는지가 중상 여부에 영향을 줬다. 6세 미만이 카시트에 앉지 않았을 때 교통사고 입원율은 5.3%, 사망률은 0.4%를 기록했다. 카시트를 썼을 때 입원율(3.4%)과 사망률(0.3%)보다 높았다. 또 안전벨트 착용자(앞좌석 기준)의 입원율은 20.6%인 반면, 미착용자 입원율은 이보다 높은 24.5%였다. 뒷좌석도 안전벨트 착용자의 입원율(13.7%)과 사망률(0.3%)보다 미착용자의 입원율(17%)과 사망률(0.9%)이 각각 더 높았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“경주는 지붕 없는 박물관… APEC 이후 세계 문화 중심지로 키울 것”</title>
+      <link>https://www.chosun.com/national/regional/2025/10/03/DOMJ6QG7FNH33ALNUJMVXVWSJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/03/DOMJ6QG7FNH33ALNUJMVXVWSJI/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGVLJFIQXJDXREUPC7K7TVLFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 경북 경주 APEC(아시아태평양경제협력체) 현장에서 이철우 경북도지사를 만났다. 이 지사는 지난달 17일 경주엑스포대공원에 ‘APEC 현장 도지사실’을 내고 준비 상황을 직접 챙기고 있다. 정상회의가 열리는 경주화백컨벤션센터까지는 차로 1분 거리다. &lt;br&gt;&lt;br&gt;-이제 한 달 남았다. 어떻게 준비하고 있나.&lt;br&gt;&lt;br&gt;“정상들은 특급 호텔에 머물지만 수행원이나 기업 직원 등은 대부분 인근 모텔에서 숙박한다. 거기서도 특급 호텔과 같은 세탁 서비스를 받을 수 있게 준비했다. 작지만 예상 가능한 모든 상황에 대비하고 있다는 뜻이다. 각국 영부인이나 글로벌 기업 CEO의 배우자 등을 위한 프로그램도 준비하고 있다. 미백 등 피부 관리나 K화장품 체험 등 말이다.” &lt;br&gt;&lt;br&gt;-그동안 우여곡절도 많았다.&lt;br&gt;&lt;br&gt;“정상 만찬장이 아쉽다. 한국 문화를 제대로 보여줄 수 있는 곳을 찾기 위해 고민을 많이 했다. 첨성대 근처나 ‘동궁과 월지’ 등을 검토했다. 그런데 레이더로 탐사해보니 30㎝ 아래 유적이 있다고 하더라. 경주는 땅만 파면 유적이 나온다. 이후 한 달 넘게 발굴 조사를 한 끝에 정한 것이 국립경주박물관 내 한옥 만찬장이다. 하지만 APEC 정상 회의 준비위원회는 지난달 19일 더 많은 인사를 초청하기 위해 라한셀렉트 경주 호텔 대연회장으로 변경했다. 개인적으로는 미·중 정상회담 장소로 활용하면 좋겠다. 박물관 안에 있는 신라 유물과 한옥 등을 자연스럽게 보여줄 수 있기 때문이다.”&lt;br&gt;&lt;br&gt;-경주의 매력은 뭐라고 생각하나.&lt;br&gt;&lt;br&gt;“경주는 신라의 천년 고도(古都)로 ‘지붕 없는 박물관’으로 불린다. 불국사, 석굴암 등 한국적인 아름다움을 느낄 수 있는 곳이 많다. 정상들이 그 아름다움을 최대한 느끼고 가게 하겠다. APEC 기간 월정교에선 ‘한복 패션쇼’를 열 계획이다. 각국 정상의 얼굴이 들어간 ‘달항아리(보름달을 닮은 백자)’도 선물로 준비하고 있다.”&lt;br&gt;&lt;br&gt;-APEC 이후도 중요하다.&lt;br&gt;&lt;br&gt;“경주엑스포대공원에 정상회의장을 그대로 재현한 공간을 만들 계획이다. 정상들이 실제로 사용한 책상과 의자 등을 전시한다. 한류 등 세계 문화 산업을 논의하는 ‘경주포럼’도 출범할 예정이다. 2012년 APEC을 개최한 러시아 블라디보스토크는 ‘동방경제포럼’을 만들어 극동 지역의 경제·관광 중심지로 성장하고 있다. 경주포럼을 동방경제포럼이나 스위스 다보스포럼처럼 활성화해 경주를 한류 등 문화 중심지로 키우겠다.”&lt;br&gt;&lt;br&gt;-APEC이 지역 경제에 미칠 효과가 어느 정도일까&lt;br&gt;&lt;br&gt;“직접적인 경제적 효과 이상으로 큰 건 도시 브랜드 상승과 문화의 전파다. APEC 기간 경주의 역사와 문화가 전 세계에 알려진다. 최근 K콘텐츠가 세계적으로 인기를 끌고 있는데 경주가 그 기원이다. 세계인들에게 K콘텐츠 저변에 흐르는 한국인의 역사와 문화를 보여주겠다.” &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>회담·전시장 완공… 시내 도로까지 새단장</title>
+      <link>https://www.chosun.com/national/regional/2025/10/03/AMZXDYN7RNAI7HILIVWBVCC53E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/03/AMZXDYN7RNAI7HILIVWBVCC53E/</guid>
+      <dc:creator>경주=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WDO6EU2OTVDWDAGM6435XOKKZM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 경북 경주화백컨벤션센터에서 작업자가 외벽에 설치한 대형 전광판을 점검하고 있다. 경주화백컨벤션센터에선 오는 31일부터 이틀간 아시아태평양경제협력체(APEC) 정상회의가 열린다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;APEC(아시아·태평양경제협력체) 정상회의 개최를 한 달 앞둔 1일 오후 경북 경주 화백컨벤션센터(HICO). APEC 정상회의가 열리는 곳이다. 한 달 전 어수선했던 진입로는 새로 낸 길처럼 깔끔하게 바뀌었다. 입구에는 ‘역대 가장 완벽한 APEC, 경상북도 경주시와 함께 합니다’라고 쓴 조형물이 놓였다. 공정률은 100%. VIP 라운지와 양자 회담장, 동시통역실, 수행원 대기실 등이 최근 리모델링을 마쳤다. 엘리베이터와 에스컬레이터도 전부 교체했다. 박장호 APEC 준비지원단 의전홍보과장은 “이제 각국 정상이 걸을 레드카펫을 까는 일만 남았다”고 했다.&lt;br&gt;&lt;br&gt;31일 열리는 APEC 정상회의를 앞두고 경주에선 손님 맞을 준비를 거의 마쳤다. 시설마다 공정률이 99~100%다. &lt;br&gt;&lt;br&gt;정상회의장 바로 옆에 짓는 국제미디어센터는 국내외 기자 1000여 명이 사용한다. 시설 공사를 모두 마쳤고 추석 연휴 때 방송 장비 등을 들여올 예정이다. &lt;br&gt;&lt;br&gt;경주화백컨벤션센터 인근 경주엑스포대공원에는 ‘APEC 경제 전시장’이 완공됐다. 2700㎡ 규모 전시장에선 APEC에 참여하는 다양한 기업이 홍보 부스를 차린다. &lt;br&gt;&lt;br&gt;만찬 행사가 열리는 라한셀렉트 호텔에 들어서자 보문호가 한눈에 들어왔다. &lt;br&gt;&lt;br&gt;만찬은 라한셀렉트 호텔 지하 1층 대연회장에서 열린다. 대연회장은 1500㎡ 규모로 최대 1000∼2000명이 동시에 식사를 할 수 있다고 한다. 호텔 측은 “흰색 벽과 천장, 회청색 카펫이 차분한 분위기를 낼 것”이라며 “2005년 한미 정상회담, 2015년 세계물포럼 장관급회의 등 국제 행사를 치른 경험을 살려 빈틈없이 준비하겠다”고 했다.&lt;br&gt;&lt;br&gt;국립경주박물관 한옥도 완공됐다. APEC 정상회의 준비위원회는 당초 국립경주박물관에 한옥을 지어 만찬장으로 활용할 계획이었으나 지난달 19일 “더 많은 인사를 초청할 필요가 있다”며 라한셀렉트 호텔로 변경했다. 국립경주박물관 한옥은 각국 정상과 기업인 등의 네트워킹(교류) 장소로 활용할 예정이다. &lt;br&gt;&lt;br&gt;APEC 정상회의를 앞두고 경주 보문단지에 있는 호텔과 리조트는 기존 객실을 리모델링했다. ‘소노캄 경주’ 리조트는 1700억원을 들여 4성급에서 5성급으로 등급을 높였다. 객실은 한옥 툇마루와 비슷한 모양으로 만들었다.&lt;br&gt;&lt;br&gt;경주시는 지난 5월부터 4개월간 160억원을 들여 도로 정비를 마쳤다. 지난달 23일에는 ‘APEC 경주 손님맞이 새단장의 날’ 행사를 열고 시민들과 황리단길, 중앙시장 등의 거리를 청소했다.&lt;br&gt;&lt;br&gt;경주 시내 곳곳엔 APEC 성공 개최를 기원하는 현수막이 내걸렸다. &lt;br&gt;&lt;br&gt;시민 김영애(55)씨는 “외국 손님들이 많이 온다고 해서 어른 아이 할 거 없이 들떠 있다”며 “길거리에 떨어진 쓰레기도 먼저 줍는다. 멋진 경주를 보여주고 싶다”고 했다. 경주 성동시장에서 만난 한 상인은 “APEC 정상회의를 앞두고 상인들이 바가지요금을 근절하자고 뜻을 모았다”며 “우리도 국민인데 국가적인 잔치에 힘을 보태야 하지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;경북도와 경주시는 추석 연휴 기간 전국 곳곳에 현수막을 내걸 예정이다. 경북도 관계자는 “행사를 널리 알리고 국민적인 관심을 끌어모을 생각”이라고 했다. 4∼13일 황남동 고분군 일원에서는 ‘APEC KOREA 미래로, 경주로’를 주제로 ‘경주황금정원 나들이’ 행사를 연다. APEC 정상회의 개최를 기념하는 드론 라이트 쇼가 펼쳐진다. &lt;br&gt;&lt;br&gt;주낙영 경주시장은 “미중 정상회담이 성사되면서 경주에 세계인의 이목이 집중되고 있다”며 “경주 APEC 정상회의를 역대 최고 APEC 행사로 치르겠다”고 했다. &lt;br&gt;&lt;br&gt;APEC은 세계 최대 지역·경제 협력체다. 정상회의에는 미국, 중국, 일본, 호주 등 21국 정상이 모인다. 글로벌 기업 CEO들이 모이는 CEO 서밋도 함께 열린다. 경북도는 APEC 정상회의 전후 각국 정상과 기업 CEO 등 약 2만명이 경주를 찾을 것으로 예상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰 폐지에 반발? 내란 특검 검사들, 尹 재판서 검은 정장·넥타이</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/03/RQQKWD42NVG4TKWULD5SR25BZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/RQQKWD42NVG4TKWULD5SR25BZQ/</guid>
+      <dc:creator>유종헌 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KBLAMTPKBHZNKYI5WLPEVNJKA.bmp"&gt;&lt;figcaption&gt;&lt;small&gt;2일 서울 서초동 서울중앙지법에서 열린 윤석열 전 대통령의 내란 우두머리 사건 재판에 특검 파견 검사들이 검은 양복에 검정 넥타이를 매고 출석했다. 이를 두고 법조계 일각에선 “특검 검사들이 검찰청 폐지에 반발한 것”이라는 해석이 나왔지만, 특검 측은 “과도한 해석”이라고 했다. 서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀 검사들이 윤석열 전 대통령의 내란 우두머리 재판에 연이어 검은 양복에 검정 넥타이를 매고 출석했다. 이 때문에 “특검 파견 검사들이 검찰청 폐지에 우회적인 반발의 뜻을 표시한 것 아니냐”는 말이 나왔다. 이에 대해 특검 측은 “논리적이지 않은 이야기”라고 했다.&lt;br&gt;&lt;br&gt;2일 서울중앙지법 형사합의25부(재판장 지귀연) 심리로 열린 윤 전 대통령 내란 사건 재판에서 특검 측에선 박억수 특검보와 파견 검사 등 9명이 출석했다. 이 가운데 박 특검보와 팀장급인 이찬규 부장검사를 제외한 검사 7명은 검은 정장에 검정 넥타이를 맨 차림이었다. 지난달 29일 공판 때도 파견 검사들은 비슷한 검은색 계열 정장에 검은 넥타이를 했었다.&lt;br&gt;&lt;br&gt;방청객과 언론에 공개되는 공판정에 검사들이 상복(喪服)과 비슷한 차림으로 나타나자, 법조계에선 검찰청 폐지와 수사·기소 분리 등을 골자로 한 현 정부의 ‘정부조직법 개정안’에 검사들이 항의의 뜻을 밝힌 것 아니냐는 말이 나왔다. 법정에서 검사들과 마주 앉은 윤 전 대통령 변호인단도 “지난 공판 때도 검사들이 검은 넥타이를 매고 나왔는데, 우연이라고 보기는 어렵지 않으냐”고 말했다.&lt;br&gt;&lt;br&gt;반면 박억수 특검보는 윤 전 대통령 변호인단의 이런 주장에 대해 “정치적 느낌이 나는 이야기는 서로 자제하는 것이 맞지 않나”라고 했다. 내란 특검의 한 파견 검사도 “검사들이 검찰 개혁에 항의하는 뜻으로 검은 넥타이를 매고 갔다는 건 과도한 해석”이라고 했다. 언론 브리핑을 담당하는 박지영 특검보는 이날 “공판 검사들을 상대로 확인해 보지 못했다”며 “검사들의 의사를 추론해서 말하는 건 적절치 않다”고 했다.&lt;br&gt;&lt;br&gt;최근 검찰의 수사·기소 분리 등을 담은 정부조직법이 공포된 가운데, 특검에서 수사·기소·공소 유지를 모두 담당하는 파견 검사 일부는 “검찰로 복귀하겠다”는 뜻을 밝히며 반발하고 있다. 김건희 특검팀 파견 검사 40명 전원은 지난달 30일 민중기 특검에게 원대 복귀를 요청했다. 내란 특검팀에서도 최근 검사 일부가 모여 검찰 개혁 방안에 대한 논의를 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한편 이날 내란 우두머리 사건 재판은 특검 측 요청에 따라 처음으로 중계됐지만 윤 전 대통령은 출석하지 않았다. 서울중앙지법 형사합의35부(재판장 백대현)는 이날 내란 혐의와는 별개로 특수 공무 집행 방해 등 혐의로 구속 기소된 윤 전 대통령의 보석 청구를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배터리 옮길때 ‘제조사 협조 구해야’ 작업 지침 안 지켰다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/DZS3S647JRBUJF2BXMW6Z37ISY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/DZS3S647JRBUJF2BXMW6Z37ISY/</guid>
+      <dc:creator>최연진 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>지난달 26일 국가정보자원관리원(정보자원관리원) 대전 본원에서 리튬이온 배터리 이전 작업을 하다가 화재가 발생한 것과 관련해, 정보자원관리원 측이 ‘이전 작업 때 제조사 협조를 구해야 한다’는 작업 지침을 지키지 않은 것으로 2일 나타났다. 정보자원관리원은 또 배터리를 이전하면서 충전율을 30%대로 낮춰야 한다는 권고를 지키지 않았고, 배터리 납품 업체의 배터리 교체 권고도 받아들이지 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;◇배터리 제조사와 소통 안 해&lt;br&gt;&lt;br&gt;이번에 화재를 일으킨 리튬이온 배터리는 LG에너지솔루션이 제조해 LG CNS가 정보자원관리원에 납품했다. 두 회사는 최근 국회 행정안전위원실에 “정보자원관리원 측과 그동안 배터리 문제로 소통한 적이 한 번도 없다”고 보고했다고 한다. LG에너지솔루션 측은 “정보자원관리원에서 사용 중인 배터리는 우리 회사 제품 중에서도 안전성이 가장 좋다고 평가받는 제품”이라며 “동일 제품의 화재 사고는 이번이 처음”이라고 설명했다. LG CNS 측도 “2014년 배터리를 납품한 후 2년의 보증 기간이 지난 2016년부터는 어떤 연락도 받지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이와 관련, 지난 1월 정보자원관리원은 이번에 화재를 일으킨 ‘대전 본원 UPS(무정전 전원 공급 장치) 및 배터리 재배치 전기공사’와 관련한 시방서(작업 기준을 적은 서류)를 작성했다. 이 시방서에 따르면 ‘배터리 이설 작업은 제조사에 협조를 구해 작업 중 혹은 작업 이후에 장애가 발생하지 않도록 수행한다’는 내용이 명시돼 있다. ‘배터리에 충격이 가해지지 않도록 제조사 측의 안전 가이드에 기반해 이설한다’는 내용도 있다. 앞서 이재용 정보자원관리원장은 “시방서상에 주의할 사항 등이 들어 있었고, 그에 따라 작업을 했다”고 했지만, 실제로는 작업 지침을 어긴 채 작업을 했을 가능성이 있는 것이다.&lt;br&gt;&lt;br&gt;◇배터리 방전 권고도 안 지켜&lt;br&gt;&lt;br&gt;작업자들이 배터리 이전 작업 때 안전을 위해 제조사가 권고하는 방전을 제대로 안 한 것도 사고 원인으로 꼽힌다. 배터리 제조사에선 배터리 잔량을 25% 이하로 떨어뜨린 뒤 이전 작업을 하라고 권고한다. 정보자원관리원은 이번에 충전율이 완충에 가까운 80%인 상태에서 리튬 배터리를 5층 전산실에서 지하 1층으로 옮기려 했다. 이재용 원장은 2일 브리핑에서 “화재 이후 작업 상황을 복기하면서 (충전율이 80% 정도였던 것을) 확인했다”며 “화재와 직접 연결되는지는 말씀드리기 어렵다”고 했다. 박용성 한국ESS산업진흥회 고문은 “2~4시간 정도 방전 작업을 거쳐 배터리 충전율을 30%로 낮춰야 하는데, 정보자원관리원 작업자들은 전원을 내린 지 30분 만에 작업을 시작했다”며 “충분히 방전을 하지 않아 불안정한 상태인 배터리에서 불이 났을 가능성이 있다”고 했다. &lt;br&gt;&lt;br&gt;◇배터리 교체 권고도 수용 안 해&lt;br&gt;&lt;br&gt;배터리 제조·관리 업체들은 사용 연한을 넘긴 배터리를 교체하지 않은 것도 사고에 영향을 미쳤을 가능성을 제기한다. 2024년 UPS 공급 업체와 LG CNS가 진행한 대전 본원 정기 검사에서 LG CNS는 ‘배터리 기능은 정상이지만 사용 연한 10년이 지났으니 교체하라’고 권고했다. 한 업계 관계자는 “기존 배터리를 아예 폐기하고 새 배터리를 지하에 설치했다면 이런 대형 사고가 나지 않았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;화재 원인을 수사 중인 대전경찰청은 이날 정보자원관리원과 관련 업체 3곳 등을 압수 수색했다. 경찰은 배터리 이전 작업이 절차에 맞게 진행됐는지, 배터리 전류 차단이 이뤄졌는지 등을 중점적으로 조사 중이다. 경찰 관계자는 “이번 화재가 작업자 과실로 발생한 것으로 보인다”고 했다. 경찰은 전날 화재 당시 작업자 등 4명을 업무상 실화(失火) 혐의로 입건했다. &lt;br&gt;&lt;br&gt;◇화재 발생 일주일, 복구율 17.8%&lt;br&gt;&lt;br&gt;행정안전부는 화재로 중단된 시스템 647개 중 115개(17.8%)를 이날까지 복구했다고 밝혔다. 복구 속도가 더디다는 지적과 관련해 김민재 행안부 차관은 “화재 영향이 적은 전산실(2~4층)의 시스템도 불이 난 5층 7·8전산실과 연계된 경우가 많은 탓”이라고 했다. 행안부는 국민신문고 시스템이 불에 타 소비 쿠폰 사용 문의 등이 지연되는 것과 관련해선 “과거에 쓰던 지방자치단체의 온라인 상담 창구를 복원해 일시적으로 쓰겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>편의점도, 카페도 없는 곳인데… 낭만 가득 ‘영화 섬’ 된 통영 추도</title>
+      <link>https://www.chosun.com/national/regional/2025/10/03/QOH3A32Z2ZBWFNGSB5YJ2DSSXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/03/QOH3A32Z2ZBWFNGSB5YJ2DSSXM/</guid>
+      <dc:creator>통영=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4YI7NI6NVHPJP4TWMFNOBQ6OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 오후 경남 통영시 추도에서 ‘섬 영화제’가 열렸다. 남해 바다를 배경으로 야외 영화관을 만들었다./권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26~28일 경남 통영시 추도(楸島)에서 ‘제2회 추도 섬 영화제’가 열렸다. 섬마을 공터에 300인치 스크린을 세우고 캠핑 의자 100개를 놨다. 남해의 낙조를 배경으로 사흘간 영화 14편이 상영됐다. 전국에서 온 관객 49명은 팝콘과 콜라 대신 마을 주민들이 내놓은 어묵탕과 가오리무침을 들었다. 광주광역시에서 온 50대 관객 이모씨는 “가을밤 바다 냄새 맡으며 영화를 볼 수 있는 곳은 세상에서 추도뿐일 것”이라고 했다. &lt;br&gt;&lt;br&gt;추도는 통영에서 배를 타고 1시간 10분 거리에 있는 작은 섬이다. 주민 80여 명이 산다. 편의점이나 카페도 없다.&lt;br&gt;&lt;br&gt;추도는 원래 ‘물메기’로 유명했다. 꼼칫과 물고기인 물메기는 겨울에만 잡히는 별미다. 살이 부드럽고 물러 보양탕으로 먹는다. 지구온난화 여파로 수온이 상승하며 2018년 이후 어획량이 급감했다. 젊은이들은 다 떠나고 60·70대만 남았다. &lt;br&gt;&lt;br&gt;5년 전 전수일 영화감독이 추도로 이사 오면서 ‘영화의 섬’을 만들자는 아이디어를 냈다. 여기에 경남도와 통영시가 힘을 보탰다. 전 감독은 낚시를 좋아해 여러 섬을 다니다 추도의 고요한 풍경에 반해 눌러살게 됐다고 한다. &lt;br&gt;&lt;br&gt;작년에 1회 영화제가 열려 영화 마니아들 사이에서 입소문이 퍼졌다. 올해는 관객 49명을 모집하는데 250여 명이 몰렸다. 묵을 수 있는 민박집이 13채밖에 없어 더 받을 수도 없다.&lt;br&gt;&lt;br&gt;관객들은 1인당 10만원을 내고 영화제를 즐긴다. 2박 숙박비와 식비가 포함된 가격이다. &lt;br&gt;&lt;br&gt;2년 연속 영화제에 참여한 김민경 감독은 “지난해 영화제 덕분에 처음 추도를 알게 됐다”며 “몽환적인 분위기에 매료돼 올해도 단편 영화를 출품했다”고 했다.&lt;br&gt;&lt;br&gt;주민들은 “텅 비었던 섬이 관객들로 붐비니 흐뭇하다”며 “물메기 빈자리를 관객들이 채우고 있다”고 했다. 추도를 찾은 방문객은 2019년 7775명에서 지난해 9715명으로 늘어났다. 올해는 1만명을 넘을 것으로 예상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/T4YI7NI6NVHPJP4TWMFNOBQ6OA.jpg?auth=9512f017fd56decb9791ea10675f7af4c321cc3544f58930ac22c1f79bf4cfc1&amp;smart=true&amp;width=1339&amp;height=785" type="image/jpeg" height="785" width="1339">
+        <media:description type="plain">지난달 26일 오후 경남 통영시 추도에서 ‘섬 영화제’가 열렸다. 남해 바다를 배경으로 야외 영화관을 만들었다./권태완 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>인천공항 보안검색팀도 “추석 추가근무 거부”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/03/DYNPONXZ5BCSPMFPJQL7NYYPRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/03/DYNPONXZ5BCSPMFPJQL7NYYPRQ/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXPQYYOSFZHNJBDDNY4P7Y3NHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 인천국제공항 제1터미널을 찾은 여행객들이 출국 절차를 위해 길게 줄을 서서 차례를 기다리는 모습. 이번 추석 연휴 기간 하루 평균 22만명 이상이 인천공항을 이용할 것으로 전망된다. 하지만 공항노동자연대가 전날 파업에 들어간 데 이어, 보안 검색 요원들도 3일부터 추가 근무를 거부하면서 공항이 더욱 혼잡해질 것으로 보인다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 8시 인천국제공항 1여객터미널. 출국장이 있는 3층엔 30m가량 대기 줄이 곳곳에 늘어져 있었다. 최대 열흘간의 추석 황금연휴 기간을 해외에서 보내려는 여행객들이 일찌감치 공항을 찾은 것이다. 여기에 전국공항노동자연대 소속 2000여 명이 전날부터 파업에 돌입했다는 소식도 여행객들의 발걸음을 재촉했다고 한다. 일본으로 출국하는 서민정(31)씨는 “공항 파업 뉴스를 보고 붐빌 것을 예상하고 평소보다 공항에 일찍 도착했다”고 했다. 가족들과 미국으로 여행을 간다는 김형인(42)씨는 “체크인 카운터를 기존보다 한 시간 일찍 열었다고 들었지만, 별 효과는 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;인천국제공항 혼잡도는 3일부터 더 심해질 전망이다. 출국할 때 가장 시간이 많이 걸리고 붐비는 곳이 바로 보안 검색대인데, 해당 업무를 담당하는 보안 검색 요원들이 2일 “추석 연휴 기간(3~12일) 추가 근무를 하지 않겠다”고 밝혔기 때문이다. 성수기나 명절 기간에는 보안 검색 요원들이 급증한 공항 이용객들 때문에 추가 근무를 해왔지만, 이번에는 이를 거부하고 평시 체제로만 근무하겠다는 것이다. 이를 놓고 “이달 1일부터 총파업을 선언한 전국공항노동자연대에 힘을 실어주려는 것”이란 해석이 나온다. 현행법상 ‘필수 유지 인력’으로 분류된 보안 검색 요원들은 파업 참여가 불가능하다. 이에 추가 근무를 하지 않는 ‘우회’ 방식으로 파업에 준하는 효과를 내려 한다는 분석이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QFDORJL7JHSPK5357VYR2NLEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공민천 보안검색통합노조위원장은 이날 본지 통화에서 “매년, 설, 추석 연휴 등에 휴무자가 쉬지 않고 추가 인력으로 투입했지만 정작 인력 충원은 제대로 이뤄지지 않았다”며 “그럼에도 인천국제공항공사 측은 노조 규탄만 하고 있어 행동에 나서는 것”이라고 했다. 당초 보안 검색 요원들이 소속된 인천국제공항보안 측은 하루당 40~50명의 추가 근무자를 투입할 계획이었다. 일일이 승객과 짐을 검색하는 업무 특성상 보안 검색 요원이 많아야 대기 줄이 빨리 줄어들 수 있기 때문이다. 그러나 노조가 반대해 추가 근무 투입은 어려워졌다.&lt;br&gt;&lt;br&gt;인천공항공사는 발등에 불이 떨어졌다. 인천공항에는 이번 연휴 기간 역대 최고인 일평균 22만3000명의 여객이 몰릴 예정인데, 그중에서도 가장 이용객이 많은 날이 3~4일이기 때문이다. 전날부터 무기한 총파업에 들어간 전국공항노동자연대도 이날 이틀째 파업을 이어갔다. 한 항공업계 관계자는 “국토교통부가 최대 10일간 이어지는 이번 연휴의 혼잡도를 줄이기 위해 출국장 오픈 시간을 1시간 앞당겼는데, 보안 검색 요원이 추가 근무를 하지 않겠다는 건 사실상 이를 무력화시키는 조치”라고 했다.&lt;br&gt;&lt;br&gt;보안 검색 요원이 추가 근무를 거부한 건 증원과 관련한 이견 때문이다. 인천공항공사와 보안 검색 노조 측은 인력 증원을 두고 다퉈왔다. 지난해 말 인천공항 4단계 확장 사업이 마무리된 후, 보안 검색 인원은 119명 늘었다. 그러나 노조 측은 250명가량이 더 필요하다는 입장이다. 이에 대해 인천공항공사 측은 “증원 수는 수요를 바탕으로 한 논의를 통해 이뤄진 것으로, 피크 시간대 제외 시 대기가 많지 않다는 것도 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;인천공항공사는 혼잡도 증가는 불가피하지만, 승객들이 공항에 4~5시간 일찍 갈 필요는 없다고 말한다. 공항 측은 “평소대로 3시간가량 전에 공항에 도착해 달라”고 권고하고 있다. 올 설 연휴 기간 신형 보안 검색 장비 도입 등으로 보안 검색이 늦어지며 공항이 북새통을 이뤘는데, 이용객들이 5시간 이상 일찍 와 줄을 서면서 오히려 대기 줄을 더 길게 했다는 분석이 많았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[우리 지역 소식] 경북 예천군 외</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/KVB3HAEPCVENLDWIZHRAENIVME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/KVB3HAEPCVENLDWIZHRAENIVME/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>경북 예천군은 4~6일 삼강문화단지에서 ‘삼강 주막 나루터 축제’를 개최한다. 주모, 보부상, 내기꾼 등으로 분장한 진행 요원들과 함께 대형 윷놀이를 즐기고 전통놀이로 구성된 운동회에도 참여할 수 있다. 예천군과 삼강나루 주막 등을 주제로 퀴즈를 맞히는 ‘삼강 골든벨’도 열린다.&lt;br&gt;&lt;br&gt;인천시는 11일 인천 남동구 인천시청 앞 인천애(愛)뜰에서 ‘한복 사랑 인천시민 놀이마당’을 연다. 전통 한복부터 현대적으로 재해석한 생활한복까지 다양한 형태의 한복을 볼 수 있는 패션쇼가 열린다. 어린이 한복과 반려동물 한복도 구경할 수 있다. 전통 자개 손거울 만들기 등 체험 행사도 즐길 수 있다.&lt;br&gt;&lt;br&gt;경기 포천시는 9~12일 한탄강생태경관단지에서 ‘한탄강 세계 드론 제전’을 연다. 드론 6000여 대가 밤하늘을 수놓는 드론 라이트쇼, 협곡 위에서 진행되는 초고속 드론 레이싱 등이 열린다. 전국 드론 축구 대회, 드론 콘퍼런스, 드론 체험존 등 다양한 프로그램도 마련했다.&lt;br&gt;&lt;br&gt;세종시는 9~11일 세종호수공원에서 ‘세종 한글 축제’를 연다. ‘세종, 한글을 품다’를 주제로 열리는 올해 행사에선 외국어 노래 가사를 한글로 바꿔 부르는 한글 노래 경연 대회, 외국인 한국어 말하기 대회 등 87가지 행사 및 프로그램이 열린다.&lt;br&gt;&lt;br&gt;경남 의령군은 9~12일 의령군민공원과 솥바위 인근에서 부자(富者) 축제인 ‘리치리치페스티벌’을 연다. 무동력 배를 타고 고(故) 이병철 삼성 창업주의 생가와 솥바위 등 명소를 둘러보는 뱃놀이 투어 등을 즐길 수 있다. 올해는 수상 자전거를 타고 솥바위를 가까이에서 구경할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>9월도 이젠 여름, 6월보다 덥다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/03/VVPJZH5IKFHL5E6RV4B22UNH5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/03/VVPJZH5IKFHL5E6RV4B22UNH5A/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>지난달이 역대 둘째로 더운 9월로 기록됐다. 가장 더웠던 9월은 지난해였다. ‘역대급 9월 더위’가 이어지고 있다.&lt;br&gt;&lt;br&gt;2일 기상청이 발표한 ‘2025년 9월 기후 특성’ 자료에 따르면, 올해 9월 전국 평균기온은 23도로 평년보다 2.5도 높았다. 이는 전국에 기상관측망이 갖춰진 1973년 이래 지난해(24.7도)에 이어 역대 둘째로 높은 수치다. 셋째로 더웠던 9월은 2023년(22.6도)이다.&lt;br&gt;&lt;br&gt;더운 9월이 나타난 이유는 여름철 우리나라까지 확장했던 북태평양고기압이 9월에도 물러나지 않았기 때문이다. 고기압 가장자리를 따라 따뜻하고 습한 공기가 유입되면서 기온이 평년보다 높아졌다. 보통 6월부터 8월까지를 여름, 9월부터는 가을이라고 하는데 올해 9월 평균기온은 6월 평균기온(22.9도)보다 더 높았다. 기상학적으로도 올여름(일 평균기온이 20도 이상 올라간 후 다시 떨어지지 않은 첫날부터 마지막 날)은 지난 6월 3일(20.1도)부터 지난달 29일(20도)까지였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/62D6LIJJ6JFUJOJQBF673DOLBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폭염과 열대야도 9월까지 계속됐다. 지난달 상순(1~10일)에는 전국 곳곳에서 폭염과 열대야가 관측됐다. 특히 서울은 9월 5일 폭염과 열대야가 동시에 발생해 폭염은 2년 연속, 열대야는 3년 연속 9월에 기록됐다. 남부 지방은 중순까지도 폭염과 열대야가 이어졌다. 제주도에서는 하순에 폭염특보가 발효되며 9월 25일 역대 가장 늦은 열대야가 나타났다.&lt;br&gt;&lt;br&gt;올 9월은 비도 평년보다 많이 내렸다. 전국 강수량은 228.8㎜로 평년(155.1㎜)의 1.5배 수준이었고, 강수일수도 15.1일로 평년(9.3일)을 웃돌았다. 따뜻하고 습한 북태평양고기압의 영향을 받는 가운데 북쪽의 차고 건조한 상층 기압골이 자주 남하하면서 비가 자주 왔다. 천둥·번개를 동반한 강한 비도 많아 지난달 뇌전 일수(천둥·번개가 관측된 날)는 4.5일로 역대 가장 많았다. 이는 올해 7월(3.2일)과 8월(2.7일)보다도 높은 수치다.&lt;br&gt;&lt;br&gt;지난달 우리나라 주변 해수면 온도는 26도로 최근 10년 가운데 9월 기준 둘째로 높았다. 가장 높았던 해는 작년(27.4도)이었다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년부터 일산대교 전면 무료화 추진</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/03/QP77VHADSRCZFDLJEJC5DTQEWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/03/QP77VHADSRCZFDLJEJC5DTQEWA/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>경기도가 “내년 1월 1일부터 일산대교 통행료를 전면 무료화하겠다”고 2일 밝혔다. 김동연 경기지사는 이날 경기 고양·파주·김포시를 지역구로 둔 더불어민주당 박정·한준호·김주영·박상혁·김영환·이기헌 의원과 만나 이 같은 결정을 전했다.&lt;br&gt;&lt;br&gt;경기도는 “먼저 주민들이 부담해 온 통행료의 절반을 (경기도가) 대납할 것을 선언한다”며 “내년부터 통행료의 절반에 해당하는 금액을 일산대교 소유주인 국민연금공단에 지급하겠다”고 했다. 통행료의 나머지 50%는 고양·파주·김포시와 정부가 부담하도록 협의해 시민들이 무료로 이용하게 하겠다는 게 경기도 계획이다.&lt;br&gt;&lt;br&gt;일산대교는 고양시 법곳동(북단)과 김포시 걸포동(남단)을 잇는 길이 1.8㎞ 왕복 6차로 다리다. 한강 다리 28개 가운데 유일하게 통행료를 받는다. 요금은 소형(1종) 기준 1200원이다. 민간 투자로 2008년 완공된 이 다리는 국민연금공단이 대주주인 일산대교㈜가 2038년까지 유료 운영권을 갖고 있다. 일산대교에는 하루 약 8만대의 차량이 오간다. 경기도가 추산한 연간 통행료의 50%는 약 150억~200억원이다.&lt;br&gt;&lt;br&gt;일산대교 무료화는 2021년 10월 이재명 대통령이 대선 출마를 위해 경기지사직을 사퇴하기 전 마지막으로 결재한 정책이다. 당시 이 대통령은 통행료 무료화를 위해 ‘사업 시행자 지정 취소’ 공익 처분을 내렸다. 공익 처분은 지방자치단체가 공익을 위해 민자 사업자의 관리·운영권을 취소한 뒤 보상해 주는 조치다. 그러나 1·2·3심 법원은 모두 일산대교㈜ 측 손을 들어줘 사업자 지정 취소 처분은 작년 10월 취소됐다. &lt;br&gt;&lt;br&gt;그래도 경기도는 “주민 부담을 줄여야 한다”며 일산대교 매입 방안 등을 놓고 국민연금과 협상을 계속해왔다. 그러나 매입 비용이 최소 5000억원 이상으로 추산되자 통행료 지원을 통한 무료화를 대안으로 추진했다. 일산대교 무료화는 2022년 지방선거 때 국민의힘 후보들도 공약했었다. 이를 두고 “특정 지역 주민들을 위한 포퓰리즘”이란 지적도 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>어제 개장한 창원 빅트리, ’344억 흉물 논란' 여전</title>
+      <link>https://www.chosun.com/national/2025/10/03/NTQ3PESRUZELNLFGEBMKAO37NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/03/NTQ3PESRUZELNLFGEBMKAO37NY/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UC7MP5HGQ5ERBFNSBUO3TWIQVU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경남 창원시 대상공원 정상에 서 있는 ‘빅트리’의 모습./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원시가 2일 전망대 ‘빅트리(Big Tree)’를 시민들에게 공개했다. &lt;br&gt;&lt;br&gt;빅트리는 창원시가 344억원을 들여 대상공원 꼭대기에 지은 나무 모양 전망대다. 높이 40m로 15층짜리 아파트와 비슷하다. 싱가포르의 명소 ‘가든스 바이 더 베이(Gardens by the Bay)’에 있는 ‘수퍼 트리’와 비슷해 지역의 랜드마크로 기대를 모았다.&lt;br&gt;&lt;br&gt;그러나 완공을 앞두고 혹평이 쏟아졌다. ‘조감도와 너무 다르다’ ‘나무가 아니라 굵은 쓰레기통 같다’ ‘흉물이 따로 없다’ 등 말이 나왔다. 창원시가 지난 8월 시민 1868명을 대상으로 설문조사를 해보니 응답자의 85%가 부정적인 평가를 내놨다. 이에 창원시는 내년 상반기에 빅트리를 리모델링하기로 결정했다. 지난달 ‘빅트리 개선 작업을 위한 시민·전문가 협의체’도 만들었다. &lt;br&gt;&lt;br&gt;창원시는 2일부터 리모델링 전까지 빅트리를 무료로 개방한다. 월요일, 화요일을 제외하고 매일 연다. 이번 추석 연휴 때도 운영한다. 창원시 관계자는 “빅트리 꼭대기 전망대에 오르면 창원 시내를 한눈에 조망할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;빅트리는 민간 공원 조성 특례 사업으로 추진됐다. 민간사업자인 현대건설이 대상공원 부지의 12.7%에 아파트를 짓는 대신 빅트리 등을 지어 기부 채납하는 방식이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UC7MP5HGQ5ERBFNSBUO3TWIQVU.JPG?auth=5726692575bd2c7f130d45e2222b1502a19462c4c861d9091137f404a0394082&amp;smart=true&amp;width=3655&amp;height=2401" type="image/jpeg" height="2401" width="3655">
+        <media:description type="plain">경남 창원시 대상공원 정상에 서 있는 ‘빅트리’의 모습./김동환 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>편장완 한예종 총장</title>
+      <link>https://www.chosun.com/national/people/2025/10/03/DKZBNCCG3RABHL2GLIUQIW56SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/03/DKZBNCCG3RABHL2GLIUQIW56SY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>편장완 한국예술종합학교 영상원 교수가 한예종 제10대 총장으로 2일 임명됐다. 임기는 4년.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 유혜경 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/10/03/4JG25UNUSBCEVLGD2CWQPOAU4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/03/4JG25UNUSBCEVLGD2CWQPOAU4I/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;유혜경&lt;/b&gt; 별세, &lt;b&gt;김영범&lt;/b&gt; 부인상, &lt;b&gt;김일겸&lt;/b&gt; 서울삼성썬더스 홍보팀 프로 모친상=2일1시40분 대전 유성선병원, 발인 4일8시, (042)825-9494 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;조용남&lt;/b&gt; 별세, &lt;b&gt;조제현&lt;/b&gt; 미국 A&amp;amp;M대 교수·&lt;b&gt;조제영&lt;/b&gt; 삼성증권 이사 부친상, &lt;b&gt;이시영&lt;/b&gt;·&lt;b&gt;박강숙&lt;/b&gt; 구암중학교 교사 시부상=2일8시20분 삼성서울병원, 발인 4일7시15분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;황미진&lt;/b&gt; 별세, &lt;b&gt;정진호&lt;/b&gt; 前 법무부 차관 아내상=1일21시51분 삼성서울병원, 발인 4일7시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제29회 노인의 날 기념식</title>
+      <link>https://www.chosun.com/national/people/2025/10/03/544JR6X675CF5GKD3JD4EPYMA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/03/544JR6X675CF5GKD3JD4EPYMA4/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ETENZVSYJEGXDZDQ7CMD7TPO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 서울 롯데호텔에서 열린 제29회 노인의 날 기념식에서 이중근(앞줄 오른쪽 10번째부터) 대한노인회장, 정은경 보건복지부 장관, 이종찬 광복회장 등 참석자들이 기념 촬영을 하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박재석 경찰청 국제공조담당관, 인터폴 아시아 위원회 위원에</title>
+      <link>https://www.chosun.com/national/people/2025/10/03/JDXIFMCGTJFXRJIEQKPWW6EKOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/03/JDXIFMCGTJFXRJIEQKPWW6EKOA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VI7CH6PUQJD3TKRAR5M2NSTKGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박재석 경찰청 국제공조담당관(총경)이 인터폴(국제형사경찰기구) 아시아 위원회 위원으로 당선됐다. 임기는 4년. &lt;br&gt;&lt;br&gt;인터폴 아시아 위원회는 아시아 인터폴 회원국 53국의 정책 수립·집행을 논의하는 기관으로 올해 처음 설립됐다. 박 담당관을 비롯해 중국·호주·인도 등 8국에서 초대 위원 8명이 선출됐다. &lt;br&gt;&lt;br&gt;경찰은 “최근 마약·보이스피싱 등 범죄가 국경을 넘어 조직적·초국가적으로 일어나고 있다”며 “박 담당관의 당선을 계기로 조직적 범죄에 대한 인터폴 공조를 강화할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[플라자] 대한불교진흥원 제18대 신임 구상진 이사장 취임식 개최 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/10/03/ED4NEYAIIFFPRGDKI7P45IXMXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/03/ED4NEYAIIFFPRGDKI7P45IXMXQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲대한불교진흥원은 1일 마포 대한불교진흥원 대법당 다보원에서 제18대 신임 구상진 이사장의 취임식을 열었다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;▲기획재정부는 다음 달 충남대학교(10일)와 한국외국어대학교(11∼12일)에서 ‘제17회 국제금융기구 채용 설명회’를 개최한다고 2일 밝혔다. 채용 설명회 홈페이지(http://ificf.com)를 통해 11월 5일까지 사전 등록을 받는다.&lt;br&gt;&lt;br&gt;▲IBK투자증권은 지난 1일 서울 여의도 영산아트홀에서 시각장애인 전문 연주단 ‘한빛예술단’과 함께 하는 ‘나눔음악회 선물 Ⅱ’를 개최했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>독지가 민영인씨, 고려대에 1억원</title>
+      <link>https://www.chosun.com/national/people/2025/10/03/4GB54YILAJDWRERJRN2ULOCASU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/03/4GB54YILAJDWRERJRN2ULOCASU/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JZUBFKJYOVFTVJDDVBHP6EWJBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;독지가 민영인씨(왼쪽)와 김동원(오른쪽) 고려대 총장이 2일 오전 고려대 본관 총장실에서 기부증서를 들고 있다. 민씨는 이날 자연계 중앙광장 건립기금으로 고려대에 1억원을 기부했다./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 독지가 민영인(83·고려대 경영대학원 연구과정 74학번)씨가 자연계 중앙광장 건립 기금으로 1억원을 기부했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;민씨는 지난 2004년부터 국내 1호 노벨생리의학상 수상자가 배출되길 바라는 마음으로 꾸준히 고려대의료원에 기부를 해왔다. 이날 기부로 고려대와 의료원에 기부한 금액이 총 10억2000만원이다.&lt;br&gt;&lt;br&gt;민씨는 기부를 이어오면서도 본인의 세세한 이력이나 기부 배경에 대한 설명을 사양한 채 묵묵하게 선행을 이어왔다. 기부식은 2일 오전 고려대 본관 1층 총장실에서 열렸다. 민씨는 “20년 전 교내에 있는 호랑이 동상을 보고 세계와 동행할 수 있는 인재가 이곳에서 태어난다면 나에게도 영광일 거라는 생각을 했다”며 “인재 양성에 진심인 고려대에 그 가능성을 보고 계속 투자하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 해양수산부 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/10/03/BFKV23CLQFCR7CL7FKFFJL7ZYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/03/BFKV23CLQFCR7CL7FKFFJL7ZYI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:52:00 +0000</pubDate>
+      <content:encoded>▲해양수산부◇부이사관 승진▷감사담당관 최국일▷혁신행정담당관 고송주▷어촌양식정책과장 정기원&lt;br&gt;&lt;br&gt;▲방송미디어통신위원회◇국장급 전입(조직개편)▷대변인 반상권▷기획조정관 성종원▷방송정책국장 박동주▷방송통신이용자정책국장 신영규▷시장조사심의관 신승한▷방송미디어진흥국장 강도성◇과장급 전입(조직개편)▷행정법무담당관 김영주▷국제협력담당관 엄정환▷운영지원과장 이기훈▷방송미디어정책기획과장 김성욱▷지상파방송정책과장 강필구▷방송지원정책과장 권희수▷이용자정책총괄과장 전혜선▷디지털이용자기반과장 최충호▷디지털유해정보대응과장 김우석▷신기술이용자보호혁신과장 김혜숙▷통신분쟁조정팀장 우혜진▷조사기획총괄과장 조주연▷방송시장조사과장 김기석▷통신시장조사과장 김미정▷부가통신조사지원팀장 성재식▷방송미디어진흥기획과장 이항재▷뉴미디어정책과장 강동완▷디지털방송미디어정책과장 어정욱▷방송미디어기반총괄과장 박경주▷방송광고정책과장 이정아▷편성평가정책과장 좌미애▷미디어다양성정책과장 윤웅현▷방송미디어통신사무소장 김용일▷정책홍보팀장 박생▷디지털소통팀장 이은호&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“여보, 차 돌려” 파티하러 야구장 돌아온 LG… 한화 버스엔 침묵만</title>
+      <link>https://www.chosun.com/sports/sports_general/2025/10/03/B73NYCDVSNHIFHNZ7ME2EJ6ORA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/sports/sports_general/2025/10/03/B73NYCDVSNHIFHNZ7ME2EJ6ORA/</guid>
+      <dc:creator>강우석 기자, 양승수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBZBVYZGP5GPRIJY32ALH6WTXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LG 선수들이 1일 서울 잠실야구장에서 프로야구 정규시즌 우승을 기뻐하며 모자를 하늘로 던지고 있다. LG는 이날 최종전에서 NC에 졌지만, 2위 한화가 SSG에 충격적인 역전패를 당한 탓에 우승을 확정했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 LG 주장 박해민(35)은 1일 밤 침울한 표정으로 차를 몰아 집으로 향했다. 오후 10시 끝난 시즌 마지막 경기에서 LG는 NC에 3대7로 패했다. 비 때문에 한 시간 늦게 시작한 인천 경기에서는 2위 한화가 SSG에 3점 차로 앞서 있었다. 한화가 3일 KT를 이긴다면 4일 단판 승부로 1위 결정전을 준비해야 할 상황이었다. 게다가 최근 3연패로 팀 분위기가 가라앉은 탓에 주장으로서 책임감이 박해민의 마음을 더 무겁게 했다. &lt;br&gt;&lt;br&gt;“여보, 빨리 차 돌려!” 오후 10시 56분, 같이 차를 타고 가던 박해민의 아내가 환호성을 질렀다. 9회말 2사까지 5-2로 앞서 있던 한화가 현원회(24)와 이율예(19)에게 연거푸 투런포를 얻어맞으며 5대6으로 패배, LG의 정규 시즌 우승이 확정된 것이다. 박해민을 비롯해 잠실구장으로 돌아온 LG 선수들은 샴페인을 뿌리며 뒤늦게 우승을 자축했다. 휴대폰으로 한화-SSG전을 지켜보며 한 시간가량 야구장에 남아 있던 LG 홈 팬들은 승리의 노래 ‘아파트’를 목이 터져라 불렀다. 박해민은 “야구는 끝날 때까진 끝난 게 아니다란 말을 다시 한번 실감한 하루였다”며 “우주의 기운이 우리에게 오는 것 같으니 한국시리즈도 꼭 우승하겠다”고 말했다. 자력이 아니라 SSG 덕분에 1위를 확정한 LG 팬들은 “우승을 ‘쓱(SSG)’ 당했다”며 웃었다.&lt;br&gt;&lt;br&gt;극적인 홈런포로 LG에 우승을 안긴 SSG 현원회와 이율예는 단숨에 LG 팬들의 영웅이 됐다. 이 장면을 보며 야구 팬들은 2019시즌을 떠올렸다. 당시 삼성 이학주가 SK를 상대로 끝내기 투런 홈런을 터뜨리면서 두산은 SK와 경기 차를 줄여 공동 1위로 올라섰다. 삼성의 승리 소식이 전해지자 두산 팬들이 잠실구장에서 자발적으로 이학주의 응원가를 합창해 화제를 모았다. 두산은 나흘 뒤 정규 리그 1위를 확정했고, 결국 한국시리즈 우승까지 거머쥐면서 이학주는 두산 팬들에게 영원한 ‘은인’으로 남았다. 그런데 올해의 드라마는 6년 전보다 훨씬 더 강렬했다. SSG 승리 확률 0.6%(문자 중계) 상황에서 통산 홈런 0개의 프로 6년 차 무명 타자 현원회와 올해 여덟 번째 타석에 선 루키 이율예가 올 시즌 33세이브의 한화 마무리 김서현을 상대로 투런포 두 방을 쏘아 올리며 정규 시즌 우승의 향방을 바꿔 놓은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5TIDXTRIVBJ3LCH7UZAUKZ5ZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한화 마무리 김서현이 9회 말 2사 후 SSG 이율예에게 끝내기 2점 홈런을 맞고 고개를 떨군 모습. /송정헌 스포츠조선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현원회는 프로 데뷔 후 58타석 만에 첫 아치를 그렸고, 이율예는 올해 안타가 두 개인데 모두 홈런으로 장식했다. 강릉고 출신으로 드래프트 1라운드 8순위로 입단한 포수 이율예는 “삼진을 당하더라도 자신 있게 돌려보자고 생각했다”며 “꿈을 꾸는 것 같다”고 말했다. LG 팬들은 소셜미디어를 통해 “우리에겐 ‘이율예수’다” “이율예가 타석에 등장할 때 영화 ‘관상’의 수양대군을 보는 줄 알았다” 등 호들갑을 떨었다. 몇몇 LG 팬은 이율예가 새겨진 유니폼 인증 사진을 올렸다. 현재 SSG 스토어에서 이율예 유니폼은 일부 품절된 상태다. LG 구본혁은 우승 세리머니 때 선수들을 일일이 붙잡고 “이율예에게 고맙다는 인사를 꼭 해야 한다”고 했고, 문보경은 “이율예에게 밥을 사주고 싶다”고 말했다.&lt;br&gt;&lt;br&gt;반면 한국 프로야구 역사에 길이 남을 패배를 당한 한화 선수단은 경기가 끝나고 별다른 미팅 없이 곧바로 3일 KT전이 열리는 수원으로 향했다. 수원행 버스 안에서는 침묵만 흘렀다고 한다. &lt;br&gt;&lt;br&gt;한순간에 한국시리즈 직행 꿈을 날려버린 한화 팬들은 충격을 감추지 못했다. 한화 팬 황인선씨는 “9회말 2아웃까지 잡아놓고 최정도 아닌 이름도 낯선 유망주 2명에게 홈런을 맞아 역전당해 우승을 놓칠 확률이 얼마나 되겠느냐”며 “박찬호가 LA 다저스에서 한 이닝에 한 타자(페르난도 타티스)에게 만루 홈런 두 방을 허용한 것 이상으로 믿기 어려운 일”이라고 허탈해했다. 20년째 한화를 응원한다는 김상민씨는 “그동안 암흑기도 잘 버텨왔는데 이렇게 잠도 못 이룰 만큼 가슴 아픈 패배는 처음”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 10월 3일</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/ZX7NFPIOUVAIPCQDORBE43E6SU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/ZX7NFPIOUVAIPCQDORBE43E6SU/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Thu, 02 Oct 2025 15:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDBAN33BTBDGRPIOI6NZIHRRLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>압구정 3구역, 최고 70층 5175가구로 탈바꿈… 담장도 없앤다</title>
       <link>https://www.chosun.com/national/national_general/2025/10/02/7AZNNYNQ5ZC47MBGELIBHKEN3U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/7AZNNYNQ5ZC47MBGELIBHKEN3U/</guid>
@@ -634,15 +847,6 @@
 서울 종로구 귀금속 거리가 텅 비었다. 최근 오가는 손님을 찾아보기 어려울 정도다. 상인들은 “금값이 크게 오르면서 돌반지나 예물을 사러 오는 사람이 확 줄었다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전문가들은 “수익률이 급증하면서 투자용 금 수요는 계속해서 늘고 있지만 반대로 예물 등에 쓰이는 소비재로서의 금 수요는 가격 상승의 ‘직격탄’을 맞고 있다”고 분석한다. 사람들이 금을 투자 대상으로 인식하면서 장신구·예물보다는 재판매가 쉬운 골드바 형태로 구매하는 경우가 늘고 있기 때문이다. 귀금속 가게 직원 강모(54)씨는 “예전에는 명절에 부모님께 금 선물을 많이 했지만, 금이 너무 비싸지고 경기까지 안 좋으니 올해는 ‘추석 특수’가 사라졌다”며 “2~3년 전과 비교하면 매출이 40%는 줄었다”고 했다. 예물 반지를 보러 왔던 20대 커플은 “최소 200만원은 생각하셔야 한다”는 직원 말을 듣고 허탈한 웃음을 지으며 건물을 나갔다.&lt;br&gt;&lt;br&gt;결혼 인구가 갈수록 줄어드는 것도 귀금속 수요 감소로 이어지고 있다. 국내 혼인 건수는 1996년 43만5000건으로 정점을 찍은 뒤 꾸준히 감소했다. 2022년 혼인 건수는 19만1700건으로 사상 최저치였다. 월곡주얼리산업연구소의 작년 조사에 따르면 “앞으로 예물은 더 간소화될 것”이라는 응답이 72.2%였다. 비싼 금 대신 명품 시계나 여행·전자기기로 대체하려는 경향이 커지는 것이다.&lt;br&gt;&lt;br&gt;귀금속 온라인 거래가 활발해지는 흐름도 뚜렷하다. 특히 고물가 시대에 금을 소액으로 나눠 사들이는 이른바 ‘소금족(小金族)’이 20·30대에서 늘고 있다. 이들은 종로 등 매장을 직접 찾기보다는 금 ETF(상장지수펀드)나 모바일 앱을 통해 금을 사고파는 방식을 선호한다.&lt;br&gt;&lt;br&gt;종로 귀금속 매장들은 ‘소금족’ 소비자를 겨냥해 ‘1g 짜리 골드바’ 상품을 잇따라 내놓고 있다. 이날 매장 곳곳에는 ‘저중량 1g 하트 골드바’ 등이 적힌 전단이 붙어 있었다. 한 매장 직원은 “젊은 층을 겨냥한 자구책이지만 워낙 손님이 적은 탓에 매출이 거의 늘지 않았다”며 “온라인 사이트와 비교해 가격 경쟁력이나 접근성에서 밀리기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;귀금속 산업이 호황이었던 1990년대 후반까지는 전국 귀금속의 약 80%가 종로를 통해 전국에 유통됐다. 금속 도소매 상점과 세공소 3000여 개가 모여 단일 귀금속 상권으로는 세계 최대 규모였다. 2~3평 정도의 1개 호실마다 수억 원의 권리금까지 붙었지만, 요즘엔 ‘무권리금’ 조건으로 매물이 쏟아져 나오고 있다. 이은희 인하대 소비자학과 교수는 “20·30대 젊은 층 사이에서 예물·돌반지 수요는 급속도로 줄고 있다”며 “소비재로서의 금 수요는 구조적으로 줄고 있어 종로 거리가 예전처럼 활기를 되찾기는 쉽지 않을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>PA 간호사도 골수 채취·피부 봉합</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/02/ZS6Z2SKZ2BAH5HOKLUAIGW72AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/02/ZS6Z2SKZ2BAH5HOKLUAIGW72AY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>앞으로 진료지원(PA) 업무를 담당하는 간호사는 그동안 의사 업무로 여겨졌던 골수 채취와 피부 봉합을 할 수 있게 된다. &lt;br&gt;&lt;br&gt;보건복지부는 1일 이같은 내용의 ‘간호사 진료지원업무 수행 규칙’ 제정안을 입법예고하고, ‘간호사의 진료지원 수행 행위 목록 고시’를 행정예고했다. 내달 10일부터 시행된다. PA 간호사는 의사의 감독 아래 수술 보조나 진단, 처방, 시술 수행 등 의사 업무를 보조하는 간호사로, 현재 1만7582명(작년 기준)이 활동 중이다. 원래 PA간호사는 법적 근거가 없었지만, 지난해 정부의 ‘의대 증원’ 정책에 반발한 전공의들이 집단 사직해 업무 공백이 생기자 정부가 이를 합법화했다. 이에 따른 PA 간호사의 세부적인 업무 범위를 이날 발표한 것이다.&lt;br&gt;&lt;br&gt;PA 간호사의 업무는 총 43개다. 약물 처방 초안 작성, 수술 전후 환자 확인과 문진·예진, 의료용 관이나 관련 기구 세척과 제거, 수술 부위 소독을 위한 드레싱, 동맥혈 채취, 말초동맥관 삽입, 피부 봉합· 매듭, 실 제거, 피하조직 절개 등이 포함됐다. 전문 간호사 자격이 있는 PA 간호사는 뼈에 바늘을 찔러 넣어 골수를 채취하는 것도 할 수 있다.&lt;br&gt;&lt;br&gt;한편, 정부는 추석 연휴 전국 응급의료기관(413곳)과 권역외상센터(17곳)를 24시간 운영한다고 1일 밝혔다. 복지부 측은 “응급의학과 전공의들의 복귀율이 낮은 상황이지만 추석 연휴때 국민들이 병원 이용에 어려움이 없도록 대책을 마련했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>순직 해병 수사 외압 의혹… 이종섭 영장 청구 방침</title>
       <link>https://www.chosun.com/national/court_law/2025/10/02/F6NLGJIHYZHQTIPBFIQX2KNU7Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/F6NLGJIHYZHQTIPBFIQX2KNU7Q/</guid>
@@ -659,15 +863,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀에 파견된 검사 40명 전원과 검찰 수사관 30여 명이 “검찰청으로 복귀하겠다”며 집단 반발하자, 검찰 내부에선 “환영한다”는 반응이 나왔다. 검사들 사이에선 정부·여당의 검찰청 폐지 정부 조직 개편에 불만의 목소리도 이어졌다.&lt;br&gt;&lt;br&gt;장진영 서울북부지검 형사3부장은 1일 오전 검찰 내부망인 이프로스에 글을 올려 정성호 법무장관에게 “수사 경험이 풍부한 파견 검사들을 일선 검찰청으로 복귀시켜 달라”고 했다. 장 부장검사는 이어 “특검 수사에 참여할 자격이 있는 것은 임은정 서울동부지검장이 유일하다”며 임 지검장의 특검 파견도 함께 건의했다. 임 지검장은 현 정부 출범 후인 지난 7월 실시된 첫 고위 간부 인사에서 서울동부지검장으로 승진했다. 그는 이후 “검찰의 장례를 치르는 장의사 역할을 잘 감당해 보겠다”고 말하는 등 잇따른 정치적 발언으로 논란을 빚어 왔다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검사들은 임 지검장을 제외하고 모두 하나의 인격체로서 연좌제급 무한 연대 책임을 지는 악(惡)의 집단이 돼 있다”며 “이들이 참여 중인 특검 수사의 정당성이 흔들리지 않도록 파견 검사들을 복귀시키고, 수사의 공정성과 투명성을 위해 임 지검장을 특검에 파견해 달라”고 말했다.&lt;br&gt;&lt;br&gt;공봉숙 서울고검 검사는 전날 검찰 내부망에 김건희 특검팀 파견 검사들의 입장문을 공유하면서 “복귀 요청을 환영하고 지지한다”고 밝혔다. 이주훈 대전지검 형사3부장도 “파견 검사들의 뛰어난 역량을 민생 사건에 투입해야 할 때”라며 공감을 나타냈다.&lt;br&gt;&lt;br&gt;이런 가운데 검찰을 없어져야 할 조직으로 매도하는 분위기에 억울함을 호소하는 검사들도 나왔다. 광주지검 형사1부 소속 최정훈 검사는 지난달 30일 오후 검찰 내부망에서 “일부 정치적인 사건을 들어 검찰 전체를 ‘악마화’하고 있다”며 “실질적으로 일하는 검사 수가 적은 상황에서 피해는 고스란히 국민에게 돌아가고 있다. 올바른 마음으로 분별해 검찰을 바라봐 달라”고 했다.&lt;br&gt;&lt;br&gt;특검 파견 검사들의 검찰 복귀 요청에 여권 정치인들은 반발했다. 더불어민주당 박지원 의원은 “항명이고 기강을 해치는 범법”이라고 했고, 조국 조국혁신당 비상대책위원장은 “파견 검사들을 모두 징계하고 교체해야 한다”고 했다. 민주당은 이날 특검을 방문해 민중기 특검팀이 수사 중인 ‘웰바이오텍 주가조작’ 의혹을 검찰이 은폐한 정황을 수사하라고 촉구했다.&lt;br&gt;&lt;br&gt;파견 검사들의 반발이 내란 특검과 순직 해병 특검으로 확대될 가능성도 제기되고 있다. 내란 특검 관계자는 “내부적으로 검찰 개혁안에 관한 논의는 있었던 것으로 안다”고 했고, 해병 특검에 파견된 일부 검사들도 무력감을 호소하고 있는 것으로 전해졌다. 다만 정 장관은 이날 부산지검을 방문하면서 “검찰 내부에 큰 동요가 있다는 것은 오해”라고 했다.&lt;br&gt;&lt;br&gt;검찰에선 전날 이재명 대통령이 국무회의에서 정성호 장관에게 검찰의 상소 제도 개선을 지시한 데 대한 반발도 나왔다. 정유미(검사장) 법무연수원 연구위원은 이날 검찰 내부망에서 “현재의 3심 제도는 장기간 진행되는 재판으로 당사자에게 고통을 안겨준다는데, 여당 일각에선 4심 제도 도입을 추진하고 있다”며 “일관성도 없고 원칙도 없다”고 비판했다. 민주당이 3심인 대법원의 확정 판결을 헌법재판소에서 다시 판단하도록 하는 ‘재판소원’ 제도를 도입하려는 것을 거론한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선수용 실탄 3만발 빼돌린 40대 사격 실업팀 감독 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/02/I4QZ3M4MKJBCJH7RV7TSTHBARY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/I4QZ3M4MKJBCJH7RV7TSTHBARY/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사격 경기용 실탄 3만발을 빼돌려 불법 유통한 사격 실업팀 감독이 구속됐다.&lt;br&gt;&lt;br&gt;경기북부경찰청 형사기동대는 총포·화약류 단속법 위반 혐의로 사격 실업팀 감독 A(40대)씨를 구속했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년부터 올해까지 22구경 경기용 실탄 등 3만발을 빼돌려 전 국가대표 사격팀 감독인 B(60대)씨에게 넘긴 혐의를 받는다. B씨는 A씨에게 받은 실탄을 유통업자들에게 넘겼고, 이 실탄은 멧돼지·고라니 등 사냥에 쓰였다고 한다. A씨는 한 지방자치단체의 실업팀 감독으로 활동하며 범행을 저지른 것으로 조사됐다. B씨는 올 7월 지병으로 숨졌다고 한다.&lt;br&gt;&lt;br&gt;경찰은 올해 초 ‘실탄으로 유해 조수를 사냥하는 사람이 있다’는 첩보를 입수해 수사에 나섰다. 지금까지 A씨와 유통업자 등 11명을 검거해 이 중 4명을 구속했다. 경찰은 이들이 가지고 있던 실탄 4만7000여 발과 총기 등 37정을 압수했다고 밝혔다.&lt;br&gt;&lt;br&gt;압수한 총기류는 수렵용 공기총·엽총과 서바이벌 게임용 총기 등이며, 이 중 9정을 22구경 실탄 발사를 위해 개조한 것으로 조사됐다. 22구경 실탄은 총기 금지 국가에서도 사격 경기용으로 사용하는 탄이다. 경찰 관계자는 “검거된 11명은 각자 사냥 등을 위해 실탄을 유통·구매한 것으로 조사됐다”며 “공범이 있는지 수사를 확대하고 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 국가대표 사격 선수 출신인 국민의힘 진종오 의원은 지난달 22일 “사제 총 100여 정과 경기용 실탄 2만발 이상이 시중에 불법 유통된 정황이 포착돼 경찰이 수사 중”이라며 정부에 정보 공개를 요구했다. 당시 진 의원은 “22구경 실탄은 (크기가 작은) 소구경·저반동 탄약이지만 결코 안전하지 않다”며 “가까이서 맞으면 뇌와 심장, 폐를 관통해 사람을 단번에 쓰러뜨릴 수 있는 치명적인 무기”라고 했다.&lt;br&gt;&lt;br&gt;진 의원은 “경찰이 지난 대선 당시 제기됐던 이재명 대통령 암살 및 저격설과 관련해 기획 수사를 벌이던 중 불법 총기 제작에 가담한 이들과 구매자들이 검거됐다”고 주장했으나, 경찰은 “‘이재명 대통령 암살·저격설 관련 기획 수사’와는 관련이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>정책 감사 안 한다더니… 尹정부 탈탈 턴다</title>
@@ -698,15 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWPUB3GNOJG3NIH7XWRPGI5JPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 밤 서울 도심 청계광장에서 ‘청계천 복원 20주년’ 기념식이 열렸다. 청계천 위로 레이저 쇼가 펼쳐지고 있다. 기념식에 참석한 이명박 전 대통령은 “청계천이 자동차 중심이었던 서울을 사람 중심으로 바꿨다”며 “청계천을 통해 전국적으로 많은 도시가 개천과 환경을 보존하기 시작했고 세계에도 많은 영향을 끼쳤다”고 했다. 서울시는 이 전 대통령이 서울시장이던 2005년 청계 고가를 뜯어내고 5.84㎞ 물길을 냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>출협, 박유하 출판공로상 취소… 정의연 반발에</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/02/ISDNBQKVOFC7HADSZCLVRMOINE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/02/ISDNBQKVOFC7HADSZCLVRMOINE/</guid>
-      <dc:creator>곽아람 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQGNFJE6JNCPZEVR2EEYTU3BT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제39회 책의 날(10월 11일)을 기념해 ‘제국의 위안부’ 저자 박유하 세종대 명예교수와 출판사 뿌리와이파리 정종주 대표에게 수여하기로 했던 한국출판공로상 특별공로상이 취소됐다.&lt;br&gt;&lt;br&gt;주관 단체인 대한출판문화협회(이하 출협)는 1일 “박 교수와 정 대표의 특별공로상 수상 소식이 알려진 후 부적절하다는 비판이 제기됐다”며 “긴급회의를 소집해 두 사람에 대한 특별공로상을 취소하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;위안부 관련 단체인 정의기억연대는 지난 30일 박 교수의 수상자 선정에 대해 입장문을 내고 “역사 부정 세력의 명예훼손과 모욕 행위가 극에 달하고 있는 이때 피해자들이 직접 고소해 재판까지 진행한 책의 저자를 버젓이 수상자로 정했다는 사실을 도저히 믿을 수가 없다”고 비난했다.&lt;br&gt;&lt;br&gt;박 교수는 ‘제국의 위안부’에서 일본군 위안부 피해자들 명예를 훼손한 혐의로 2015년 기소됐으나 2023년 대법원에서 무죄 취지 판결을 받았고, 출판·배포를 제한했던 기존 가처분 결정도 지난 7월 취소됐다. 출협은 박 교수가 소송에 휘말려 11년 넘는 시간 동안 법적 투쟁을 벌였고, 이를 통해 학문의 자유와 언론 출판의 자유를 지켜냈다는 취지에서 수상자로 선정했으나, 이날 취소 결정으로 다시 논란에 휘말리게 된 셈이다.&lt;br&gt;&lt;br&gt;윤철호 출협 회장은 본지 통화에서 “박 교수와 정종주 뿌리와이파리 대표가 수상 취소 요청을 하기도 했고, 협회 내에서도 정의연 등의 의견에 귀 기울이는 것이 옳은 처신이라는 이야기가 나와 결정을 번복했다”고 말했다.&lt;br&gt;&lt;br&gt;박 교수는 1일 자신의 페이스북에 “뒤늦게 페북에서 어이없는 비난들을 봤다”며 “내가 취소해 달라 했으니 엉뚱한 곳에 가서 힘 빼지 마시기 바란다. 나는 수상 결정만으로 충분히 보상받았다. 그들에 대한 평가는 후대가 해 줄 것으로 믿는다”고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>44년간 기술자격증 103개 ‘산업현장 명장’</title>
       <link>https://www.chosun.com/national/people/2025/10/02/BPS7KLBKCNELBGFD5QTCTIJPJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/02/BPS7KLBKCNELBGFD5QTCTIJPJQ/</guid>
@@ -714,24 +900,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLC3NSJMGNGRHMCJ5ASKMEH3MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김영진씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;44년간 산업 현장에서 전기 기술자로 일하며 틈틈이 공부해 국가기술자격증 103개를 따낸 김영진(61)씨가 1일 교육부의 ‘제22회 대한민국 평생학습대상’ 개인 부문 대상을 받았다.&lt;br&gt;&lt;br&gt;교육부는 “김씨는 평생 노력해 전기 분야 대한민국명장에 올랐고, 울산폴리텍대학 산학겸임교수 등으로 일하며 후진 양성에 기여했다”고 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 경북 의성에서 가난한 농사꾼의 아들로 태어났다. 4남매의 장남이었다. 중학교를 졸업한 뒤 대구 영남공고 전기과 야간반에 입학했다. 주경야독하며 첫 자격증인 전기기능사를 땄다. 1982년 공고를 졸업한 뒤 곧바로 HD현대중공업에 입사했다. 자격증 덕이었다. 김씨는 “뿌연 용접 가스와 먼지를 뒤집어쓰면서 매일 14시간씩 일했다”며 “죽도록 힘들었는데 나만 바라보는 가족들을 생각해 버텼다”고 했다. 월급 14만원 중 10만원을 가족에게 보냈다고 한다. &lt;br&gt;&lt;br&gt;그에게 자격증은 삶을 지탱하는 버팀목이었다고 했다. 조선업 불황에도 자격증 덕에 계속 일할 수 있었다. 매일 3시간씩 꾸준히 공부해 전기산업기사에 이어 전기 분야 최고 자격증인 전기기능장까지 따냈다. 2001년 그는 현장 기술자에서 현대중공업 기술교육원 직업훈련 교사로 변신했다. 2002년 학점은행제를 통해 전기공학 학사를 받았고 2011년에는 동탑산업훈장도 수상했다. 지난해에는 대한민국명장에 올랐다. 명장은 산업 현장에서 15년 이상 근무하며 최고의 기술을 보유한 장인에게 정부가 수여한다.&lt;br&gt;&lt;br&gt;“저도 사람이니까 그냥 쉬고 싶을 때도 있어요. 하지만 어려울 때마다 저와 가족을 구해준 게 자격증입니다. 아내는 맨날 틀어박혀서 공부만 한다고 불만이지만요.” &lt;br&gt;&lt;br&gt;김씨는 2020년 현대중공업에서 명예퇴직한 뒤 배터리 분야 중소기업에서 기술이사로 일하고 있다. 울산폴리텍대학에서 산학겸임교수로도 활동한다. 김씨는 “최근 공장에도 자동화 바람이 불고 있다”며 “단순 기술직은 일자리가 사라져도 고숙련 기술자들은 계속 살아남을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;‘자격증 왕’도 더 딸 자격증이 있을까. 그는 “이제는 자격증 대신 책 쓰기에 도전했다”며 “전기기술 전문 서적만 19권을 냈다”고 했다.&lt;br&gt;&lt;br&gt;그의 ‘도전 DNA’는 아들도 물려받았다. 아들 김종민(37)씨는 울산대 전기공학부를 중퇴한 뒤 현장 기술자로 일하고 있다. 그도 전기기사, 가스기능장 등 자격증 7개를 땄다고 한다.&lt;br&gt;&lt;br&gt;“요즘 학생들은 일단 좋은 대학에 들어가서 높은 스펙을 쌓은 뒤 취업 현장에 나오려고 해요. 저는 정반대로 살았죠. 그런데 이런 삶도 꽤 괜찮지 않나요?”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤도영 제13대 광운대 총장</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/02/Z4CPDHWVHVHV5E4NOAJANEK5LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/02/Z4CPDHWVHVHV5E4NOAJANEK5LM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWEXSHRE6BF6HCAHAC3FULLSQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤도영 제13대 광운대 총장이 지난달 30일 오전 광운대 새빛관 컨퍼런스홀에서 열린 취임식에서 취임사를 하고 있다./광운대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광운대 제13대 윤도영(62) 총장이 지난달 30일 취임식을 가졌다. 윤 신임 총장은 1993년 광운대 화학공학과 교수로 부임해 교무처장과 공과대학장, 환경대학원장 등을 지냈다. 임기는 지난 7월 18일부터 2년이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 송선희 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/02/YP4BAEOFBNGIBKIHNJVD77FEWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/02/YP4BAEOFBNGIBKIHNJVD77FEWE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;송선희 &lt;/b&gt;별세,&lt;b&gt;김태영&lt;/b&gt;·&lt;b&gt;김태원&lt;/b&gt;·&lt;b&gt;김태성&lt;/b&gt;·&lt;b&gt;김미정&lt;/b&gt; 부친상, &lt;b&gt;배병권&lt;/b&gt; 장모상, &lt;b&gt;이효순&lt;/b&gt;·&lt;b&gt;안근자&lt;/b&gt;·&lt;b&gt;이숙자&lt;/b&gt; 시모상, &lt;b&gt;김유나&lt;/b&gt; 국민일보 기자 조모상, &lt;b&gt;박순봉&lt;/b&gt; 경향신문 기자 처조모상=30일14시 인천 청기와장례식장 송림점, 발인 2일8시20분, (02)583-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;함수동&lt;/b&gt; 별세, &lt;b&gt;최현남&lt;/b&gt; 남편상, &lt;b&gt;함주영&lt;/b&gt;·&lt;b&gt;함한주&lt;/b&gt; 부친상, &lt;b&gt;최동훈&lt;/b&gt; 시사저널이코노미 기자 장인상=1일4시39분 교원예움 강원장례식장, 발인 3일6시30분, (033)261-4441&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“데이터의 바다에 미래 있어… 세상 바꿀 AI인재 나오길”</title>
@@ -742,15 +910,6 @@
       <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
       <content:encoded>“낡은 중고 어선 한 척으로 태평양·인도양·대서양을 누빈 끝에 최고의 수산 기업을 일궜습니다. 여러분도 모르는 분야, 남들이 가지 않는 분야에 도전하는 인재가 되길 바랍니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSX2D6DTGBGVRFUK7TW4WCC7JM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 동원그룹
 동원그룹 창업주 김재철 명예회장이 1일 오전 서울 관악구 서울대 행정관 1층에서 기부자들 이름이 적힌 ‘명예의 벽’을 둘러보고 있다. 김 명예회장은 이날 인공지능(AI) 인재 양성을 위해 서울대에 250억원을 기부했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 서울 관악구 서울대 미술관에서 김재철 동원그룹 명예회장의 기부 약정식이 열렸다. 김 명예회장은 첨단 AI 인재 양성을 해달라며 서울대에 사재 250억원을 동원육영재단을 통해 내놨다. 앞으로 10년간 계획에 따라 나눠 기부하는 방식이다. 김 명예회장은 “나는 젊은 시절엔 바다에서 대한민국의 미래를 찾았지만 다가올 AI 시대에는 데이터의 바다에 새로운 미래가 있을 것”이라며 “서울대에서 세계 최고 수준의 AI 인재를 양성해 달라”고 했다. 이어 “환경에 굴하지 않고 위기를 감수하는 태도로 꿈을 꾸면 젊은이들의 길이 더 넓어질 것”이라며 “여러분의 잠재력을 십분 발휘해 세계적 영향력을 가진 인재가 되어 달라”고 했다. &lt;br&gt;&lt;br&gt;‘참치왕’ 김 명예회장은 빈손으로 지금의 회사를 일궈냈다. “바다가 대한민국의 미래”라는 담임선생님의 말에 부산수산대(현 부경대)로 진학했다. 대학을 졸업한 뒤 1958년 실습 항해사로 우리나라 최초의 원양어선을 탔다. 3년 만에 국내 최연소 선장이 됐다. 그가 항해한 거리가 지구 200바퀴다. 1969년 자본금 1000만원, 직원 3명, 배 두 척으로 시작한 회사는 현대의 동원그룹이 됐다.&lt;br&gt;&lt;br&gt;1982년 한국 최초로 참치 통조림을 만들었고 현재는 참치 어획량과 참치 가공 부문에서 세계 1위 기업에 올랐다. 2019년 50년간 이끌어온 회사에서 물러난 뒤 인재 양성에 집중하고 있다. 그는 항해사 시절에도 고향 학생들의 학비를 지원했고, 1979년 장학 재단 ‘동원육영재단’을 설립해 지속적으로 장학 사업을 이어왔다.&lt;br&gt;&lt;br&gt;김 명예회장이 ‘AI 인재’에 주목하기 시작한 건 2016년부터다. 그해 이세돌 바둑 9단을 제압한 구글의 알파고가 전 인류에게 던진 ‘알파고 쇼크’를 보면서 AI 연구의 중요성을 깨달았다. 해외 AI 관련 서적을 직접 번역해 임원들과 공유했다. 2019년 한양대에 ‘한양 AI 솔루션센터’ 설립을 위해 30억원을 기부했다. 2020년부터 카이스트에 총 544억원을 기부했다. 이 돈으로 카이스트는 ‘김재철 AI 대학원’을 설립, 운영하고 있다.&lt;br&gt;&lt;br&gt;서울대는 이르면 내년 1학년 학부생 중 30명을 선발해 ‘김재철 AI 클래스’를 운영한다. 30명 중 70%는 공대에서, 30%는 그 외 단과대학에서 선발할 것으로 전해졌다. 김 회장은 “AI를 공부한 학생들이 신속하게 현장으로 나가 첨단 기술을 개발해 세상을 바꾸길 바란다”는 뜻을 서울대에 전달했다. 이에 서울대는 학생들이 졸업한 뒤 곧바로 산업 현장에 투입될 수 있도록 커리큘럼을 대학원생이 아닌 학부생 대상으로 운영하기로 했다. 김재철 AI 클래스에 선발된 학부생들은 대학원 수준의 공학 과목을 조기 이수해야 한다.&lt;br&gt;&lt;br&gt;서울대는 ‘창업 학기제’를 도입해 창업 활동에도 학점을 부여한다. 또 미국 MIT(매사추세츠공대), 스탠퍼드대, 카네기멜런대 등 해외 대학과의 교환학생 프로그램과 함께 실리콘밸리 기업에서 6개월간 유급으로 인턴십을 할 수 있도록 한다. 학생들이 주도하는 연구 프로젝트에 팀당 1000만원도 지급한다. 교수 1명당 학생 5명이 배정돼 밀착 지도를 받고 교수와 학생이 공동 논문도 작성하게 된다. 서울대는 김 회장 기금 약정이 끝난 후에도 자체 예산을 마련해 AI 클래스를 계속 운영할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 과학기술정보통신부 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/02/3PB4W6RHQBDDVPJ2D3KQUUYRLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/02/3PB4W6RHQBDDVPJ2D3KQUUYRLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>▲과학기술정보통신부◇국장급 전보▷인공지능인프라정책관 김민표 ▷과학기술·인공지능정책협력관 최동원&lt;br&gt;&lt;br&gt;▲국가데이터처◇고위공무원 전보▷통계서비스국장 김보경▷국가데이터허브정책관 서운주◇과장급 전보▷통계서비스기획과장 채관병▷조사시스템관리과장 황의태▷지능정보화팀장 신우람▷국가데이터기획협력과장 노형준▷국가데이터허브정책과장 이지연&lt;br&gt;&lt;br&gt;▲공정거래위원회◇과장급 전보▷홍보담당관 박진석▷내부거래감시과장 정신기◇과장급 승진▷가맹거래조사팀장 남형우&lt;br&gt;&lt;br&gt;▲경향신문◇편집국▷인물팀장 김윤숙▷인물팀 선임기자 백승찬&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 10월 2일</title>
@@ -771,15 +930,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQEGKKUQD5BYTMPX3BL2SKPURM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1972년 추석, 고향으로 가는 열차를 타려고 밤늦게까지 옛 서울역 앞에 줄을 선 귀성객들의 모습이에요. /서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘민족의 대명절’인 추석이 다가왔어요. 오랜만에 가족을 만날 생각에 마음이 설레는 날이지요. 특히 이번 추석은 최장 10일간 쉴 수 있는 ‘황금 연휴’라 여행을 계획하는 분들도 많을 겁니다. 그런데 추석은 언제부터 시작됐을까요? 오늘은 추석의 역사에 대해 함께 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;신라 시대부터 이어져 온 추석&lt;/b&gt;&lt;br&gt;&lt;br&gt;추석은 아주 오래된 명절입니다. 그 시작은 신라의 잔치인 ‘가배’였다고 해요. 당시에는 여인들이 두 편으로 나뉘어 천을 짜는 길쌈 대회를 하고, 모두 함께 술과 음식을 나누며 즐겼습니다. 이 가배가 변해서 ‘한가위’의 ‘가위’라는 말로 이어졌다고 합니다. 이런 풍습은 고려와 조선 시대에도 이어져 조선 사람들은 “추석은 신라 때부터 있었다”고 여겨왔습니다.&lt;br&gt;&lt;br&gt;흥미롭게도 중국, 베트남, 말레이시아, 태국에도 추석과 비슷한 명절이 있습니다. 특히 중국에서는 ‘중추(中秋)’라고 부르는데, 가을의 한가운데라는 뜻을 갖고 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXJMAUGW4JHPBIG3WPMKH7SDCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1977년 추석 대목을 맞은 남대문시장. 당시 전통시장은 차례용품을 마련하는 시민들로 붐볐습니다. /국가기록원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;왜 여러 나라에서 비슷한 시기에 명절을 즐겼을까요? 이유는 간단합니다. 가을은 1년 농사의 결실을 거두는 계절이기 때문이에요. 옛날 농경 사회에서는 가난한 집이라도 이 시기만큼은 먹을 것이 넉넉해 떡과 술을 빚어 나누며 풍요를 즐길 수 있었습니다.&lt;br&gt;&lt;br&gt;하지만 우리나라의 추석은 중국의 중추와 달랐습니다. 우리 추석에서 가장 중요한 행사는 바로 성묘, 즉 조상의 무덤을 찾아가는 일이었죠. 고려 말의 학자 이색은 추석이 되면 성묘를 가야 한다는 글을 남겼습니다. 이를 보면 적어도 고려 말부터는 추석 성묘 풍습이 있었고, 이것이 조선 시대 내내 이어져 내려온 것을 알 수 있죠.&lt;br&gt;&lt;br&gt;재미있는 점은, 조선의 유학자들 중에는 추석 제사를 제대로 된 풍습이 아니라고 본 사람들이 있었다는 겁니다. 율곡 이이는 “추석은 바른 명절이 아니라 속절(속된 명절)”이라고 말했습니다. 그는 “잘못된 명절은 사치로 흐를 수 있다”며 비판도 했어요. 유학자들은 ‘예기’ 같은 유교 경전에 나와 있어야 명절이라고 생각했습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRFLT22HXFGHHO2RFJ2KFUAGGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1977년 추석을 맞아 망우리 묘지를 찾은 성묘객이 절을 하고 있어요. 당시엔 도시 인근 공동묘지에 인파가 몰리며 극심한 교통 혼잡이 빚어졌습니다. /서울역사박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 조선 사람들은 추석이 되면 신분의 높고 낮음을 따지지 않고 모두 조상의 묘를 찾았습니다. 유학자들이 뭐라고 비판해도, 실제로는 전통과 관습의 힘이 더 강했던 거죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;피란 중에도 제사를 지냈대요&lt;/b&gt;&lt;br&gt;&lt;br&gt;요즘은 명절에 제사를 지내는 집이 많지 않아요. 지내더라도 약식 제사인 차례를 지내거나, 아니면 이마저도 아예 지내지 않는 가족이 늘어나고 있습니다. &lt;br&gt;&lt;br&gt;조선 시대엔 조상이 돌아가신 기일 외에도 제사를 올리는 네 가지 큰 날이 있었습니다. 바로 설날, 단오, 추석, 동지예요. 이렇게 하면 1년에 네 번 제사를 지내는 셈인데, 요즘 기준으로 보면 꽤 많다고 느껴질 겁니다. 게다가 제사는 보통 4대조, 즉 증조부모까지 지냈습니다. 집안에 특별한 예절이 더해지면, 한 집에서 1년에 십수 번 이상 제사를 지내기도 했지요. 이런 원칙은 조선 후기로 갈수록 점점 더 지켜지지 않게 됩니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYS5ZPITRZEMDELRZAWFDRJWVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2003년 추석 연휴를 하루 앞두고, 서울을 빠져나가는 귀향 차량들이 고속도로에 길게 늘어서 있는 모습. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러나 중요한 것은 제사 횟수가 아닙니다. 조선 사람들에게 제사는 그렇게까지 괴로운 행사가 아니었어요. 사랑하는 사람을 위해 차린다는 마음이 강했거든요. 곽주의 아내 하씨 무덤에서 발견된 편지 중에는 아버지의 제사에 참석 못 하자 “제사를 못 지내다니 내가 전생에 무슨 죄라도 지은 거야?”라는 딸의 하소연이 담긴 것도 있지요.&lt;br&gt;&lt;br&gt;심지어 사람들은 전쟁 때문에 피란을 다니는 와중에도 제사를 거르지 않으려 애썼습니다. 세상을 떠난 가족들에게 음식을 차려주는 것이 제사의 본질이기 때문이지요. 그래서 가족이 직접 제사를 지내는 게 가장 좋았지만, 그러지 못하는 사정이 벌어지면 다른 사람에게 대신 제사를 지내달라고 부탁하는 일도 있었습니다. 제사 비용으로 자신의 재산을 떼어주기도 했죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;연휴가 길어지며 귀성객도 늘어났죠&lt;/b&gt;&lt;br&gt;&lt;br&gt;그러나 시간이 흐르면서 근대화·도시화가 진행되자, 추석 풍습도 크게 달라집니다. 1920년 무렵부터 도시 근교에 공동묘지가 만들어지기 시작했지요. 서울에서는 이태원, 청량리 근처 망우리, 미아리 등이 대표적인 공동묘지였습니다.&lt;br&gt;&lt;br&gt;이때 사람들은 처음 경험하는 공동묘지 문화에 적응하지 못해 여러 사건이 벌어졌답니다. 추석이 되면 사람들은 저마다 성묘를 와서 제물을 차려놓고 제사를 지냈습니다. 그런데 여러 가족들이 한데 모이다보니 공동묘지로 가는 길은 극심한 교통체증을 겪었고, 다른 집 무덤과 헷갈리거나 서로 시끄럽다고 싸움이 나기도 했습니다. &lt;br&gt;&lt;br&gt;현대에 새로 나타난 추석의 풍습은 귀성입니다. 6·25전쟁 이후 우리나라가 급격히 도시화되면서, 많은 사람이 고향을 떠나 서울이나 큰 도시로 모여들었지요. 그래서 추석이 되면 시골에 남아 있는 가족을 만나기 위해 대부분 고향으로 내려가곤 했습니다.&lt;br&gt;&lt;br&gt;이미 1960년대 초반부터는 추석 기차표를 구하려는 사람들로 서울역이 북새통을 이뤘습니다. “고향에 꼭 가야 한다!”는 마음으로 수많은 사람이 역으로 몰려든 것이지요. 특히 1968년 추석에는 기차에 사람이 너무 많이 몰려서 좌석은 물론이고 객실 선반에까지 사람들을 태우고 달리는 일도 벌어졌습니다.&lt;br&gt;&lt;br&gt;추석은 1949년 처음 국가 공휴일로 지정됐습니다. 이때는 추석 당일만 휴일이었지만 1986년에 2일로, 그리고 1989년에 3일 연휴로 늘어나게 됩니다. 이렇듯 쉬는 날이 늘어나고, 이 시기 자가용도 보급되면서 자연스레 귀성객도 늘어나게 됐지요. 고속도로 정체도 일상이 됐습니다. 고향으로 내려가는 사람이 많아지면서 1990년대에는 고향에 살고 있는 부모가 도시에 사는 자식들을 만나러 가는 ‘역귀성’ 현상도 본격적으로 나타나게 됐답니다. 소득 수준이 높아지며 2000년대부터는 추석 연휴에 해외로 여행을 가는 사람도 많아졌지요.&lt;br&gt;&lt;br&gt;현대 사회에 이르러 추석, 그리고 제사의 의미를 다시 생각하게 됩니다. 지금까지 추석 풍습은 몇 번이나 변했고 앞으로도 그럴 테지만, 가족을 사랑하고 그리워하는 마음만큼은 영원히 사라지지 않을 것입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] 모든 고통 사라지고 쾌락만 남은 세상… 불행할 자유도 없는 이곳이 낙원일까</title>
-      <link>https://www.chosun.com/national/nie/2025/10/02/UOGFTPGGWBA37CK6MVR4PHZWFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/02/UOGFTPGGWBA37CK6MVR4PHZWFY/</guid>
-      <dc:creator>이진혁 출판 평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLRG2HMDHRBCRF75OE7RMHSNIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;멋진 신세계&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;올더스 헉슬리 지음｜안정효 옮김｜소담출판사｜가격 1만3800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;여러분에게 슬픔, 고통, 불안 같은 모든 부정적인 감정을 단숨에 없애주는 ‘행복 약’이 있다면 어떨까요? 모두가 언제나 웃고, 행복하게 살아가는 세상. 하지만 그곳은 과연 우리가 꿈꾸는 낙원일까요? 1932년 출간된 ‘멋진 신세계’는 바로 이런 ‘완벽한 행복’이 지배하는 미래 사회를 그린 고전입니다. 조지 오웰의 ‘1984’와 함께 20세기를 대표하는 디스토피아 소설로 꼽히는 작품이지요.&lt;br&gt;&lt;br&gt;소설 속 무대는 약 26세기의 미래입니다. 이곳에서는 더 이상 사람이 어머니의 몸에서 태어나지 않습니다. 아기들은 유리병 속 배양기로 ‘생산’되며, 태어날 때부터 계급과 역할이 정해집니다. 이렇게 자란 사람들은 자신의 삶을 의심하지 않고, 주어진 역할에 만족하며 살아갑니다.&lt;br&gt;&lt;br&gt;이 사회에는 더 이상 가족도, 사랑도 없습니다. 인간관계는 모두 짧고 가벼운 쾌락으로만 채워집니다. 혹시라도 불안이나 슬픔이 몰려오면 ‘소마’라는 알약을 먹습니다. 부작용도 없고 곧바로 행복감을 느낄 수 있지요. 철학과 종교처럼 사람들을 깊이 고민하게 만드는 것들은 모두 금지됐고, 대신 쾌락을 위한 오락만이 남아 있습니다. 겉보기엔 모든 사람이 행복한 이상 사회 같지만, 사실은 자유롭게 생각하고 느낄 권리가 사라진 무서운 세계이지요.&lt;br&gt;&lt;br&gt;이 완벽해 보이는 사회에 균열을 내는 인물이 있습니다. 바로 ‘야만인’ 존입니다. 그는 어머니의 몸에서 자연스럽게 태어난, 이 세계 기준으로는 낯선 존재였습니다. 존은 사람들의 생활을 보고 충격을 받지요. 모두가 웃으며 살아가지만, 그 웃음 속에는 진정성도 자유도 없었기 때문입니다.&lt;br&gt;&lt;br&gt;존은 이 세계의 지도자 ‘무스타파 몬드’와 대화를 나눕니다. 존이 “나는 안락함을 원하지 않는다”고 말하자, 몬드가 답합니다. “당신은 결국 불행해질 권리를 요구하는 셈이군요.” 존은 단호히 말합니다. “그렇다면 좋습니다. 나는 불행해질 권리를 요구하겠습니다.”&lt;br&gt;&lt;br&gt;존의 이 외침은 이 소설 전체를 관통하는 핵심입니다. ‘멋진 신세계’는 스스로 선택할 자유를 잃은 사회지요. 헉슬리가 그려낸 이 세계는 이미 우리 일상에서도 찾아볼 수 있습니다. 하루 종일 스마트폰을 보며 쏟아지는 콘텐츠를 무의식적으로 시청하는 우리 모습을 떠올려 보세요. 사회 비평가 닐 포스트먼은 이렇게 말했습니다. “오웰은 우리가 증오하는 것이 우리를 파멸시킬까 두려워했지만, 헉슬리는 우리가 사랑하는 것이 우리를 파멸시킬까 두려워했다.” &lt;br&gt;&lt;br&gt;존은 결국 스스로 목숨을 끊으며 이야기는 비극으로 끝납니다. 그렇다면 우리는 이 책에서 무엇을 배워야 할까요? 오늘날 우리는 하루에도 수십 번씩 선택의 기로에 섭니다. 무엇을 볼지, 무엇을 먹을지, 무엇을 말할지를요. 그 순간마다 스스로 물어야 합니다. 이것이 내가 진짜로 원하는 것인지, 아니면 나도 모르게 길들여진 것인지 말입니다. 이 작은 질문이야말로 존이 끝내 지키고자 했던 ‘인간다움’의 출발점일지 모릅니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 욕실 거울 청소엔 린스</title>
       <link>https://www.chosun.com/culture-life/living/2025/10/02/PDH4IQFS3BEF7JBMILGFIKK4CQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/culture-life/living/2025/10/02/PDH4IQFS3BEF7JBMILGFIKK4CQ/</guid>
@@ -787,60 +937,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJX23GHZ3FD6XK57CUMEVYHVJU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;욕실 거울에 물때가 꼈을 땐 마른 걸레에 린스를 묻혀 닦아보자. 린스의 계면활성제 성분이 알칼리성 물때를 제거해주고 코팅 효과도 낸다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [기후와 날씨] “비행기 멱살 잡고 흔드는 듯한 바람”… 국내에선 제주공항이 가장 심하대요</title>
-      <link>https://www.chosun.com/national/nie/2025/10/02/KHLYQNNA7RBIRBU73SCWSG655A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/02/KHLYQNNA7RBIRBU73SCWSG655A/</guid>
-      <dc:creator>이미선 기상청장</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>비행 중 기내에서 뜨거운 차나 컵라면을 제공하는 서비스를 이전보다 제한하는 항공사가 늘고 있어요. 국토교통부 역시 항공사들에 기내 컵라면 제공 중단을 권고했지요. 비행기에서 라면을 즐기기 어려워진 것은 증가하고 있는 ‘난기류’ 때문인데요. 난기류는 비행기가 나는 도중 갑자기 만나는 불규칙한 공기의 흐름을 말해요. 마치 비포장도로처럼, 울퉁불퉁한 공기를 날아간다고 생각하면 쉽지요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCDC4UASDFAXHMSBEHQKQR6BJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;바람 부는 날 한 항공기가 제주국제공항에 착륙하기 위해 활주로로 접근하고 있어요. 제주공항은 국내 공항 중 급변풍이 가장 많이 발생하는 곳이지요. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;난기류와 비슷하지만 더 위험한 바람이 있는데, 바로 오늘 소개할 급변풍입니다. 영어로는 ‘윈드 시어(Wind Shear)’라고 하지요. 난기류와 급변풍 모두 불규칙한 공기의 흐름이지만, 급변풍은 짧은 구간에서 바람의 방향과 속도가 급격하게 변한다는 차이가 있어요. 도로를 잘 달리다가, 옆에서 자동차가 끼어들어 갑자기 핸들을 꺾어야 하는 상황과 같아요. 그래서 급변풍은 이착륙 중인 항공기에 특히 위험한 바람이에요. 실제로 해외에서는 급변풍 때문에 비행기가 추락한 적이 있었고, 국내에서도 강한 바람 때문에 비행기가 이착륙하지 못하는 경우가 많이 생기지요.&lt;br&gt;&lt;br&gt;그렇다면 급변풍은 왜 생기는 걸까요? 여기엔 여러 가지 이유가 있지만, 가장 핵심적인 요인은 바로 ‘지형’입니다. 우리나라 공항 중 급변풍이 가장 많이 발생하는 곳은 바로 제주공항이에요. 작년 기준, 전국 공항에서 발표한 급변풍 경보 중 절반 정도가 제주공항에서 발표됐지요. 제주공항은 한라산 북쪽에 있는데, 남쪽에서 불어오는 강한 바람이 한라산을 넘어 내려와요. 이 과정에서 제주공항 주변에 불규칙한 소용돌이 바람을 만들어 낸답니다. 댐에서 쏟아진 물줄기가 바닥에 부딪힌 뒤 사방으로 튀는 현상과 비슷하지요. 특히 남풍이 강하게 부는 여름철에는 한라산 지형의 영향을 크게 받아 급변풍이 더 자주 발생합니다.&lt;br&gt;&lt;br&gt;한라산 옆으로 들어오는 바람도 문제입니다. 이 바람은 동쪽과 서쪽으로 갈라져 공항 활주로 양쪽으로 돌아 들어오지요. 이때 활주로 한쪽에는 동풍이, 반대쪽에는 서풍이 불게 됩니다. 이렇게 반대 방향의 바람이 동시에 불면, 비행기는 마치 바람 사이에 끼인 것처럼 흔들려 운항이 어려워집니다. &lt;br&gt;&lt;br&gt;급변풍이 불면 최악의 경우 이착륙하는 비행기가 양력을 잃어 추락하는 사태가 생길 수도 있어요. 국내 항공사의 한 기장은 제주공항에서 부는 급변풍에 대해 “마치 비행기의 멱살을 잡고 흔드는 것 같다”고 표현했는데, 그만큼 급변풍은 조종사들이 가장 경계하는 현상이기도 합니다.&lt;br&gt;&lt;br&gt;급변풍을 미리 알 수는 없을까요? 기상청은 급변풍을 탐지하기 위해 공항기상레이더뿐 아니라 다양한 관측 장비를 운영하고 있습니다. 특히 급변풍이 가장 많이 발생하는 제주공항에는 지난 6월부터 레이저 빔으로 바람의 움직임을 입체적으로 분석하는 ‘공항기상라이다’를 도입했지요. 항공기의 이착륙 경로를 따라 풍향과 풍속, 급변풍의 위치도 실시간으로 탐지합니다. 이처럼 급변풍은 위험한 바람이지만, 잘 대비한다면 안전한 하늘길을 유지할 수 있답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 많은 사람이 몰려들다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/02/LACLDSAJ6FF2PKIFC5ARDP4IFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/02/LACLDSAJ6FF2PKIFC5ARDP4IFM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3IVOPH5PJENBHSAOEJJWTIDKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 전경, 전체 배경, 파노라마</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/02/BSXB27OK2RHY3FW7IA3YY2TPI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/02/BSXB27OK2RHY3FW7IA3YY2TPI4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUEAGX25SJBCBFD5764JMXZ6RI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 탈삼진(奪三振)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/02/GPL6WR5LFZCHVGR7MX3IYI5CUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/02/GPL6WR5LFZCHVGR7MX3IYI5CUE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F6YL7XBKPBBXTAZEDDVNV6DWQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2718] 따르릉 글자교환소</title>
-      <link>https://www.chosun.com/national/nie/2025/10/02/B7Y4ZLIGUZAI5LPVBQA2XRWMYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/02/B7Y4ZLIGUZAI5LPVBQA2XRWMYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RWGURFOZNCF5EHUPGBIQHOBNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] green with envy</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/02/XY2JLK4YYRCSZJDDSZEIJLYWTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/02/XY2JLK4YYRCSZJDDSZEIJLYWTI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5747BVNSBVB5NGMZVAY6UOBQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“산업용 전기 요금 인상 억제”</title>
@@ -861,24 +957,6 @@
       <content:encoded>권성동 국민의힘 의원과 한학자 통일교 총재가 구속을 취소해 달라며 낸 구속적부심을 1일 법원이 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSZFQ2LDMAVRKLHSXWXPT2YORY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난달 16일 오후 서울 서초구 중앙지방법원에서 '통일교 불법 정치자금 수수' 의혹(정치자금법 위반 혐의) 관련 구속 전 피의자 심문(영장실질심사)를 마치고 법원을 나서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사8-3부(재판장 최진숙)는 이날 오후 권 의원과 한 총재에 대한 구속적부심 심문을 진행한 뒤 “심문 결과와 사건 기록에 의하면 사건 청구는 이유가 없다고 인정된다”며 기각 결정을 내렸다. 이에 두 사람은 계속 구치소에 수감된 상태로 지내게 됐다. &lt;br&gt;&lt;br&gt;이날 권 의원의 심문은 오후 2시 10분부터 3시 50분까지 약 1시간 40분간, 한 총재는 같은 법정에서 오후 4시부터 7시 30분까지 3시간 40분가량 진행됐다. 두 사람 모두 “혐의를 뒷받침하는 통일교 전 세계본부장 윤영호씨의 진술에 신빙성이 낮아 혐의가 충분히 소명되지 않았다”며 풀려나야 한다고 주장했지만, 법원은 받아들이지 않았다.&lt;br&gt;&lt;br&gt;권 의원은 2022년 1월 윤씨로부터 윤석열 정부의 통일교 지원 청탁과 함께 정치자금 1억원을 받은 혐의(정치자금법 위반)로 지난달 16일 구속됐다. 한 총재는 윤씨와 공모해 권 의원에게 1억원을 건넨 혐의와 함께, 2022년 4∼7월 건진법사 전성배씨를 통해 김건희 여사에게 고가의 샤넬백 등 명품을 건네며 교단 현안을 청탁한 혐의(청탁금지법 위반)로 지난달 23일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIASOJ7AOF3PRCY5FSQ2RDGS4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원 등에게 금품을 전달하고 이권을 청탁한 혐의를 받는 한학자 통일교 총재가 지난달 22일 오후 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;심문에 앞서 권 의원 측은 50여 쪽의 의견서를, 한 총재 측은 200쪽이 넘는 의견서를 법원에 제출했다. 이날 두 사람 모두 최후 진술에서 직접 자신의 심경을 밝힌 것으로 전해졌다. 권 의원은 최후 진술에서 5분간 “차명폰으로 윤씨와 전씨 등과 통화한 건 맞지만, 정치자금과 전혀 관련이 없었다. 차명폰 사용에 오해의 소지가 있지만 증거 인멸과는 무관하다”며 구속 취소를 호소한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;한 총재도 약 3분간 최후 진술에 나서 “평생을 세계 평화를 위해 평화의 어머니로 일해왔다. 그런 나에게 어떻게 이 나라가, 나를 이렇게 대우하냐. 참담하고 답답하다”면서 “정치에 관심이 없다”고 말했다고 한다.&lt;br&gt;&lt;br&gt;반면 김건희 특검팀의 검사 4명은 이날 구속적부심에서 “이미 특검 수사 전부터 증거를 인멸한 정황이 확인됐고, 소환 조사에도 제대로 응하지 않아 도주 우려가 크다”며 두 사람의 구속 필요성을 강조한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현주엽, 갑질 의혹 벗나…MBC ‘실화탐사대’ 상대 일부 승소</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/CF27AKVXQBCMHMZOUDF4L4RWBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/CF27AKVXQBCMHMZOUDF4L4RWBE/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 14:36:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QREGMD73ZBGOBE5ER4OA3H56NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;농구선수 출신 방송인 현주엽은 지난달 유튜브 채널을 통해 각종 의혹이 제기된 이후 30㎏이 빠졌다고 밝혔다. /유튜브 '현주엽의 푸드코트'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농구 선수 출신 방송인 현주엽이 자신의 갑질 및 근무 태만 의혹을 제기한 MBC ‘실화탐사대’를 상대로 일부 승소했다. &lt;br&gt;&lt;br&gt;1일 법조계에 따르면 서울서부지법 민사12부(재판장 김진영)는 현주엽이 MBC를 상대로 낸 정정보도와 손해배상 청구 소송에서 원고 일부 승소 판결을 내렸다. &lt;br&gt;&lt;br&gt;재판부는 판결 확정 후 처음 방송되는 ‘실화탐사대’ 프로그램 첫 화면에 정정보도문을 내는 동시에 진행자가 낭독하라고 명령했다. 또 현주엽에게 1500만원을 지급하라고 판시했다. &lt;br&gt;&lt;br&gt;MBC는 항소 여부를 검토 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;작년 4월 ‘실화탐사대’는 현주엽이 모교인 휘문고 농구부 감독으로 부임한 후 불거진 갑질 및 근무 태만 의혹을 다뤘다. 또 현주엽 자녀들의 휘문중 농구부 입단 배경에 의혹을 제기했다. &lt;br&gt;&lt;br&gt;이후 현주엽 측은 “여러 의혹이 허위 사실임을 증명할 수 있는 관계자 증언, 메신저 대화 캡처본 등 증거를 제공하며 성심성의껏 답변했다”며 “그러나 ‘실화탐사대’ 측이 소속사 입장을 제대로 반영하지 않은 채 방송을 송출했다”고 유감을 표했다. 같은 해 7월 MBC를 상대로 4억5000만원의 정정보도 및 손해배상 청구 소송을 제기했다. &lt;br&gt;&lt;br&gt;‘실화탐사대’ 제작진은 해당 방영분에 대한 다시 보기 서비스를 중단한 상태다. &lt;br&gt;&lt;br&gt;현주엽은 지난달 유튜브 채널을 통해 자신을 둘러싼 각종 의혹이 제기된 이후 온 가족이 정신과 치료를 받고 있다며 눈물을 흘리기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서장이 인사고과 앞세워 교통단속 실적 강요” 내부서 시끌</title>
-      <link>https://www.chosun.com/national/2025/10/01/FN2RZJMOOFAFJFJJ3H47WJZLEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/01/FN2RZJMOOFAFJFJJ3H47WJZLEA/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 13:33:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VORBBCQAEVZKIQJD2GYZDSR2SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 11일 전북 전주에서 교통 경찰이 '5대 반칙운전' 단속을 실시하고 있는 모습. 기사 내용과는 무관함. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원의 한 경찰서장이 인사 고과에 반영하겠다며 지구대·파출소 직원들에게 교통 단속 실적을 강요했다는 주장이 제기됐다. 해당 경찰서장은 “단속 실적을 독려한 것은 사실이나 일부 오해가 있다”고 했다.&lt;br&gt;&lt;br&gt;본지 취재 결과, 창원 한 경찰서는 지난달 초부터 ‘5대 반칙 운전 단속 현황표’를 작성해 지구대·파출소에 배포한 것으로 나타났다. 이는 이 경찰서 A서장(총경) 지시에 따른 것이었다고 한다. 단속 현황표에는 팀장 이름과 단속 건수가 기재됐고, 팀별 단속 실적이 공개됐다.&lt;br&gt;&lt;br&gt;5대 반칙 운전은 ‘새치기·유턴’ ‘지정차로 위반’ ‘꼬리물기’ ‘끼어들기’ ‘비긴급 차량의 구급차 이용’이다. &lt;br&gt;&lt;br&gt;A서장 지시로 팀별 단속 실적이 한 달 가까이 공개되면서 일선 경찰관들의 반발이 터져 나왔다. 지난달 30일 전국 경찰이 볼 수 있는 내부망에 인근 경찰서의 B파출소장(경감)이 A서장을 공개 비판하고 나온 것이다. &lt;br&gt;&lt;br&gt;B소장은 “A서장은 팀별 실적이 차이 나면 감찰 조사를 운운하고, 지구대·파출소 직원 승진 점수에 교통 단속 실적을 반영하겠다고 공언했다”며 “승진을 원하는 직원끼리 단속 건수로 경쟁을 붙인 것인데 너무 끔찍하다”고 했다. &lt;br&gt;&lt;br&gt;B소장은 본지 통화에서 “교통 단속 성과 압박으로 순찰 등 본 업무를 하지 않고 단속만 나가면 국민 치안 서비스에도 문제가 생긴다”며 “과잉 단속은 국민 공감을 얻기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 A서장은 “직원들에게 ‘잘해보자’는 취지로 독려한 것은 사실이나, 실적에 따라 감찰 조사를 언급했다는 것은 오해가 있다”며 “전날 모두에게 사과했다”고 말했다. 해당 경찰서는 실적 현황표 공개를 중지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정성호 법무 “검찰 내부에 큰 동요 있다는 생각은 오해”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/01/ICC2XLOC55AXNIUMVDM6MQCBPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/ICC2XLOC55AXNIUMVDM6MQCBPM/</guid>
@@ -888,36 +966,6 @@
       <content:encoded>정성호 법무장관은 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀에 파견된 검사 40명 전원이 검찰청 복귀를 요청한 데 대해 “검찰 내부에 큰 동요가 있는 것처럼 생각하는데 그건 오해고, 사실과 다르다”고 말했다. 여권을 중심으로 파견 검사들을 징계해야 한다는 요구가 거세지자, 진화에 나선 모양새다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ND6YSF5GRVNFTAUAFVKK7VTCPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관이 1일 오후 부산 연제구 부산검찰청 청사에 들어서고 있다. 이날 정 장관은 부산 고검과 지검을 찾아 검사들과 간담회를 가졌다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 1일 오후 정책현장 방문 일정의 일환으로 부산고등·지방검찰청을 찾으면서 기자들을 만나 이같이 말했다.정 장관은 “모든 검사가 특검에서 현재 맡겨진 임무에 충실하고 있다”며 “국민들이 걱정하지 않으셔도 되는 상황”이라고 강조했다. &lt;br&gt;&lt;br&gt;정 장관은 또 “마무리 단계인 특검이 종료되고 나면 특검과 협의해 향후 공소 유지에 필요한 최소 인원들은 필요한 것 아니겠느냐”며 “원론적인 얘기들을 한 것 같다”고 말했다. 파견 검사들이 지금 당장 수사를 멈추겠다고 한 건 아니라는 얘기다.&lt;br&gt;&lt;br&gt;이어 정 장관은 “(검사들이) 친정인 검찰과 관련해서 국회에서 정부조직법이 통과되고 나니까 좀 불안한 점들이 있다”면서 “앞으로 1년 정도 시간이 있기 때문에 저희가 충분히 검사들이나 검찰수사관들이 불안하지 않게 잘 정리할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72WXGNZVAWJNW64KXPWWAEOVN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부는 1일 오전 정성호 법무장관이 '2025 경주 아시아태평양경제협력체(APEC) 정상회의'를 앞두고 김해국제공항을 방문해 출입국 전용심사대 설치·운영 계획 등을 점검했다고 밝혔다./법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 2025 경주 아시아태평양경제협력체(APEC) 정상회의 개최를 앞두고 행사의 주 공항인 김해국제공항을 찾았다. 이날 오전 10시 15분쯤 김해국제공항에 도착한 정 장관은 출입국 전용 심사대 설치 및 운영 계획, 전담 인력 배치 계획 등 준비 상황을 점검한 뒤 출입국심사관과 직원들을 만나 격려를 전했다. 법무부는 정상회의 기간 김해국제공항 나래마루와 포항경주공항에 APEC 전용 임시 출입국사무소 및 출입국심사대를 마련하고, 회의 참가자들을 위한 출입국 우대심사대를 운영한다. APEC 참가자에게는 사증 발급 서류 제출 간소화, 신속한 사증 발급, 전자여행허가제(K-ETA) 신청 면제 등 편의도 제공한다.&lt;br&gt;&lt;br&gt;정 장관은 오후에는 부산교도소를 방문해 주요 정책 이행 상황을 점검했다. 시설 내 교도 작업장을 방문해 안전사고 예방 조치의 중요성을 강조하고, 수형자의 안전을 책임지고 있는 현장 근무자를 격려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>여성 신체 불법 촬영한 20대 남성 경찰 조사 </title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/UXU5S66PPRFUHGZWC5LEL7FVKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/UXU5S66PPRFUHGZWC5LEL7FVKM/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 13:24:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QISE44CG6J6YVFOHB7LDT3JODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 부산진경찰서는 여성 신체를 불법 촬영한 혐의(성폭력범죄의처벌등에관한특례법위반)로 20대 남성 A씨를 입건해 조사 중이라고 1일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 최근 몇 년간 자신의 신분을 속이고 여성들에게 접근해 신체 부위를 불법 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨의 휴대전화에는 연인과의 성관계 장면이나 지인의 신체 사진, 일터에 찾아온 손님을 찍은 촬영물이 다수 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비켜달라” 하고 후진했는데… 특수폭행 된 ‘주차 빈자리’ 싸움</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/01/OXAEZQ5X7BBTRAQ5FSNTE22VAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/01/OXAEZQ5X7BBTRAQ5FSNTE22VAI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 12:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYKDIRBOYVEXREIS4EKWSAVX7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 20일 한 주차장에서 빈자리를 맡고 있던 여성에게 비켜달라고 한 뒤 주차하다가 특수폭행 혐의로 고소당했다는 사연이 전해졌다. /유튜브 '한문철TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주차장에서 자리를 맡고 있던 여성에게 비켜달라고 했다가 경찰 조사를 받게 된 운전자의 사연이 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATFBXLR435G27AY6IWWZH63LCI.gif"&gt;&lt;figcaption&gt;&lt;small&gt;/유튜브 '한문철TV'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 유튜브 채널 ‘한문철TV’에는 ‘이제 주차 자리 맡는 사람에게 절대 비키라는 소리 하면 안 되겠습니다. 큰일 나겠습니다’라는 제목의 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상에 따르면, 제보자 A씨는 지난달 20일 주차장 빈자리를 막고 있던 여성과 마주했다. A씨는 “제가 먼저 왔다. 지키고 있는 게 어딨느냐”고 말한 뒤 천천히 주차를 시작했다. &lt;br&gt;&lt;br&gt;A씨는 “오른쪽 사이드 미러로 아주머니가 내 차량 뒤쪽으로 비키는 것을 보고 후진 주차를 진행했다”며 “주차장 오른쪽에 고가의 차량이 주차되어 있어서 신경이 그쪽에 가 있던 상황에서 후방 센서 소리가 끝나지 않는 것을 조금 뒤늦게 인지하고 바로 브레이크를 밟았다”고 했다. &lt;br&gt;&lt;br&gt;이 과정에서 A씨 차량이 여성과 살짝 부딪힌 것으로 보인다. A씨는 “그제야 아주머니가 완전히 비키는 것을 확인하고 주차를 완료했다”고 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;주차 5분 후, 여성의 남편에게서 “고의로 사람을 쳤다”는 연락을 받았다고 한다. A씨는 “아주머니가 경찰에 저를 특수폭행으로 신고했고, 남편은 입원해야 할 것 같다면서 보험 대인 접수를 요청해왔다”고 했다. A씨는 이후 경찰 조사를 받았는데, 미필적 고의에 의한 특수폭행 혐의로 검찰 송치 가능성이 있다는 이야기를 들었다고 했다. &lt;br&gt;&lt;br&gt;A씨는 “제 실수는 인정한다. 주차를 하기 전 주변 상황을 충분히 확인하지 못한 건 분명 제 부주의”라면서도 “하지만 고의로 누군가를 다치게 하려는 의도는 전혀 없었다”고 했다. 이어 “오히려 제가 후진하는 동안에도 아주머니는 계속 제 차량 뒤에 머물러 있었고, 차가 움직이는 걸 알면서도 그대로 있다가 제가 브레이크를 밟는 순간 앞으로 걸어나오는 모습이 너무 의도적으로 보였다”며 “이 일이 정말 특수폭행으로까지 판단될 수 있는지 너무 억울하다”고 했다. &lt;br&gt;&lt;br&gt;영상을 접한 한문철 변호사는 “이제 주차 자리 막고 있으면 절대 비키라는 소리 하면 안 되겠구나 싶다”며 여성과의 접촉 여부에 대해서는 CCTV를 확인해야 정확히 알 수 있을 것 같다고 조언했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/ATFBXLR435G27AY6IWWZH63LCI.gif?auth=247ce30962516ede886317b6a85ba73bbd771024be033712143f9ba860ba79fe&amp;smart=true&amp;width=400&amp;height=205" type="image/jpeg" height="205" width="400">
-        <media:description type="plain">/유튜브 '한문철TV'</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>다부동 전투 영웅이었던 아버지... 75년 만에 참전 증서 받았다</title>
-      <link>https://www.chosun.com/national/people/2025/10/01/H2EBKCCJONDJ7PXGI3OMZC56FQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/01/H2EBKCCJONDJ7PXGI3OMZC56FQ/</guid>
-      <dc:creator>이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 11:51:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KHJTO56SZRHU7ONNGK64UIRTXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6·25 전쟁 당시 학도병으로 참전했지만, 이 사실을 숨긴 채 세상을 떠난 어르신이 참전 용사로 인정받게 됐다. 지역 내 학도병을 찾는 교육청의 노력이 빛을 본 것이다. &lt;br&gt;&lt;br&gt;경북교육청은 지난 1998년 별세한 故 최영수씨가 국방부로부터 참전 사실을 공식 인정받도록 지원했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;최씨는 6·25 전쟁이 발발한 1950년 경주공업중에 다니던 학생이었다. 전쟁이 터지자 최씨는 즉시 학도병에 지원했고, 같은 해 8월 대구에서 훈련을 받고 육군 1사단에 배속됐다. &lt;br&gt;&lt;br&gt;그해 최씨는 전우들과 함께 경북 칠곡군에서 벌어진 ‘다부동 전투’에 참전했다. 백선엽 준장이 이끌던 육군 1사단이 악전고투 끝에 북한군에 승리를 거두며 낙동강 전선을 지켜낸 현장에서 최씨도 함께 싸웠다.&lt;br&gt;&lt;br&gt;이후 1951년 3월 내려진 복교령(학교로 복귀하라는 명령)에 따라 최씨는 경주공업중이 개편된 경주공업고로 돌아가 학업을 마쳤다. 하지만 최씨에겐 전쟁의 기억이 평생의 상처로 남았다고 한다. 최씨가 참전용사였다는 사실은 아내와 아들 등 가까운 가족 외엔 아무도 몰랐고, 최씨 또한 주변에 알리지 않은 탓에 생전에 별다른 보훈 혜택도 받지 못했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ASF2TT35JRBE5J5X3V2I2DXJXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 찾기 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러던 중 최씨의 아들 최일권씨와 사위 이호택씨가 나섰다. 아들 최씨는 “아버지의 명예를 되찾기 위해서”라고 했다. 이들은 경북교육청이 올해 9월 25일부터 시작한 ‘경북 출신 학도병 찾기 프로젝트’ 소식을 접하고 연락을 취했다. 6·25 전쟁 당시 참전한 학도병들과 가족, 유족들을 통해 학도병들의 삶과 전쟁 경험 등 자료를 수집하고, 이들이 예우를 받을 수 있도록 국방부·국가보훈부 등 관계기관에 알리는 사업이었기 때문이다.&lt;br&gt;&lt;br&gt;경북교육청 측은 앞서 지난해 진행한 ‘경주 학도병 기록물 수집·전시 사업’에서 만난 학도병 출신 어르신들에게 최영수씨의 참전 여부를 확인했다. 이 과정에서 학도병 어르신 3명이 “최영수라는 전우가 있었고, 그가 참전해 우리와 함께 싸운 것도 직접 목격했다”고 증언하며 보증을 서줬다. 결국 국방부가 참전 사실 확인 통보서를 발급하면서 다부동 전투 이후 75년 만에 최씨의 참전 사실이 공식적으로 인정됐다.&lt;br&gt;&lt;br&gt;최씨 아들 최일권씨는 “교육청이 학도병의 명예 회복에 이렇게 적극적으로 힘써주실 줄은 몰랐다”며 “하늘에 계신 아버지께서도 크게 기뻐하실 것”이라고 감사를 표했다. 임종식 경북교육감은 “학교에 있어야 할 나이에 전장에 나선 학도병들의 희생을 기리는 것은 국가기관의 책무”라며 “앞으로도 지역민들의 자료와 제보를 받아 더 많은 학도병들의 잃어버린 명예를 되찾을 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MF6SRGFACZANJM4N6SWRBRCZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 출신 학도병 기록 수집 프로젝트 포스터/경북교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법원, 2일 尹 내란 우두머리 혐의 재판도 중계 허가</title>
       <link>https://www.chosun.com/national/court_law/2025/10/01/5TBCM7DTCFEQHP55GSG4RWG3WA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/5TBCM7DTCFEQHP55GSG4RWG3WA/</guid>
@@ -925,54 +973,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 09:06:41 +0000</pubDate>
       <content:encoded>법원이 오는 2일 열리는 윤석열 전 대통령의 내란 재판도 중계하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPTOQE6WXXEUQTBKM34NWKRXKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. 2025.9.26/뉴스1 ⓒ News1 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 오는 2일 오전 10시 10분 열리는 윤 전 대통령의 내란 우두머리 혐의 등 재판의 촬영과 중계를 허가한다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;다만 촬영과 중계는 재판 시작 시점부터 증인 신문 전까지로 제한된다. 재판부는 “이날 준비 기일에서 특검과 변호인 측의 의견을 듣고 재판 중계의 허가 범위를 정했다”고 설명했다. 실시간 생중계는 이뤄지지 않는다. 법원이 자체 카메라로 재판을 촬영한 뒤, 개인 정보 등을 비식별화한 뒤 재판 영상을 공개할 예정이다. &lt;br&gt;&lt;br&gt;구속 중인 윤 전 대통령은 오는 2일 재판에 출석하지 않을 전망이다. 윤 전 대통령은 지난 7월 10일 다시 구속된 이후, 건강 문제를 이유로 해당 재판에 12회 연속 불출석했다. &lt;br&gt;&lt;br&gt;앞서 법원은 지난달 26일 열린 특수공무집행방해 등 혐의 사건 첫 공판에서도 중계를 허가해, 윤 전 대통령의 법정 모습이 공개된 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하남 폐가서 성인 남녀 3명 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/QGHTHI3MBBDLFEGCK4Q4UMRG7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/QGHTHI3MBBDLFEGCK4Q4UMRG7U/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 09:38:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QISE44CG6J6YVFOHB7LDT3JODY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 2시28분쯤 경기 하남시 천현동의 한 폐가 안에서 성인 남성 2명과 여성 1명 등 3명이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;숨진 3명은 각각 30대와 40대 남성 2명과 50대 여성 1명으로, 이들 간의 관계는 현재까지 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이날 오전 10시 40분쯤 사망자 중 1명의 지인으로부터 “지인이 온라인상에 신변을 비관하는 내용의 게시글을 올렸다”는 내용의 112 신고를 받고 출동했던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현장에서 타살 혐의점은 발견되지 않았다. &lt;br&gt;&lt;br&gt;현재까지 사망자 중 1명이 온라인상에 올렸던 게시글 외 유서는 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 자세한 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※ 우울감 등 말하기 어려운 고민이 있거나, 주변에 이같은 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 SNS상담 마들랜에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국제여객선으로 밀반입한 향정신성의약품 판매한 외국인 검거</title>
-      <link>https://www.chosun.com/national/regional/2025/10/01/HQEYFKY7YFHWFNZPXXTSNCR2FA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/01/HQEYFKY7YFHWFNZPXXTSNCR2FA/</guid>
-      <dc:creator>포항=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 08:51:54 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V2XTGXEIZVCVBNALLISBLPKXOQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국제여객선 등을 통해 외국에서 밀반입한 의약품./포항해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국제 여객선 등을 통해 향정신성의약품과 전문의약품을 밀반입해 판매한 외국인 등이 해경에 적발됐다. &lt;br&gt;&lt;br&gt;포항해양경찰서는 마약류 관리법 및 약사법 위반 혐의로 30대 외국인 여성 A씨를 구속하고, A씨에게 의약품 등을 사들여 판매한 또 다른 외국인 B씨 등 2명을 불구속 입건했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;포항해경은 “러시아 국적의 불법 체류자가 국제 여객선 등으로 밀반입한 의약품을 SNS를 통해 불법으로 판매한다”는 첩보를 입수하고 수사에 착수해 이들을 검거했다. &lt;br&gt;&lt;br&gt;포항해경에 따르면, 불법 체류자인 A씨는 약 3년 전부터 국제 배송이나 여행객을 통해 향정신성의약품과 전문의약품을 밀반입한 뒤 인터넷 등을 이용해 판매·유통한 혐의를 받고 있다. 40대 외국인 남성 B씨와 아내인 한국인 여성 C씨는 경주에서 러시아 식품점을 운영하면서 A씨에게 공급받은 향정신성의약품과 전문의약품을 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAFRJOTUHVDWTMKUBFJWHDRGS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;밀반입 외국 의약품 국내 유통 판매 개요./포항해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들이 밀반입한 향정신성의약품 등을 판매해 얻은 수익은 1억3000만원이 넘는 것으로 조사됐다. 해경은 이들이 판매를 위해 보관하고 있던 향정신성의약품 성분이 포함된 ‘코르바롤’ 등 776종 3만7000여 점을 압수했다. 의약품 구입자는 주로 국내에 체류 중인 중앙아시아계 외국인들이었던 것으로 해경은 파악했다.&lt;br&gt;&lt;br&gt;포항 해경 관계자는 “해외에서 불법으로 밀반입된 의약품 판매자와 공급자를 동시에 검거해 유통망 전체를 끊어낸 사례”라고 말했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김옥빈, 11월 비연예인 연인과 결혼한다...웨딩 사진 공개</title>
-      <link>https://www.chosun.com/national/people/2025/10/01/2S5GP7SPXRDCZOHZDYWQTKAYNM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/01/2S5GP7SPXRDCZOHZDYWQTKAYNM/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 00:18:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JMHMASQ5VLG5CYIAIAXGWUX2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김옥빈./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 김옥빈(38)이 오는 11월 비연예인 연인과 백년가약을 맺는다. &lt;br&gt;&lt;br&gt;1일 소속사 고스트 스튜디오는 “김옥빈이 11월 16일 소중한 인연을 만나 백년가약을 맺는다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EVELPNPT5NAMDCMO6IJJ6MHDEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김옥빈이 다음 달 비연예인 연인과 결혼한다./고스트 스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “예비 신랑은 비연예인으로 결혼식은 양가 친인척 및 가까운 지인들과 함께한 자리에서 비공개로 치러질 예정”이라며 “비연예인인 예비 신랑과 양가 가족을 배려하여 구체적인 장소 및 시간 등 결혼식과 관련된 세부 사항에 대해 공개하기 어려운 점 너른 양해 부탁드린다”고 알렸다.&lt;br&gt;&lt;br&gt;소속사는 “새로운 인생의 출발을 앞둔 김옥빈의 앞날에 따뜻한 축복 부탁드리며, 앞으로도 김옥빈 배우는 변함없이 배우로서 좋은 모습 보여드릴 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이와 함께 공개된 웨딩 화보에서 김옥빈은 예비 신랑과 손하트를 만들며 환한 미소를 지었다. 또 우아한 웨딩드레스를 입은 모습으로 우아한 자태를 드러내며 눈길을 끌었다. &lt;br&gt;&lt;br&gt;김옥빈은 2005년 영화 ‘여고괴담 死-목소리’로 데뷔해 드라마 ‘칼과 꽃’ ‘유나의 거리’ ‘아스달 연대기’ ‘연애대전’, 영화 ‘다세포 소녀’ ‘박쥐’ ‘악녀’ 등 다수의 작품에서 활약했다. 최근에는 SBS 예능 ‘정글밥2 - 페루밥, 카리브밥’에 출연해 친근한 매력을 보였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/3M373JDI5ZEJTP3ASLW6HTGJGY.jpg?auth=f9fd384b26e46d65fe7ae644bc142582d4c2401fceda06300cd747a5623be5e0&amp;smart=true&amp;width=640&amp;height=360" type="image/jpeg" height="360" width="640">
-        <media:description type="plain">배우 김옥빈이 다음 달 비연예인 연인과 결혼한다./고스트 스튜디오</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>현직 부장검사 “특검 수사할 자격 있는 검사, 임은정이 유일... 파견 검사 복귀시켜야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/01/QNZUJ3JO4BD6LGZ3UPZIJHMBDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/01/QNZUJ3JO4BD6LGZ3UPZIJHMBDI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 02:45:00 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀에 파견된 검사 40명 전원이 검찰청 복귀를 요청한 데 대한 파장이 이어지고 있다. 한 현직 부장검사는 정성호 법무장관을 향해 “‘악의 축’인 검사들을 일선으로 복귀시키라”며 “임은정 서울동부지검장만이 특검에 파견 가 수사를 할 자격이 있을 것”이라고 했다. 검찰 폐지를 주장하는 임 지검장을 에둘러 비판한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RTPTZCTZKNLLJH3SV2ZE3FKXFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 본지 취재를 종합하면, 보건·소년범죄 등 민생 사건 수사를 전담하는 서울북부지검 형사3부의 장진영 부장검사는 이날 오전 검찰 내부망 이프로스에 게시글을 올려 이 같은 입장을 밝혔다. 장 부장검사는 “현재 특검 수사가 우리나라에서 얼마나 중요하고 의미가 있는 사건이냐”며 “중차대한 특검 수사에 ‘악의 축’인 검찰청 검사들이 파견을 가 특검 수사를 오염시키고 더럽히고 있다”고 했다. 당정이 개혁 대상으로 삼고, 검찰청을 폐지시키는 등 검사를 ‘악마화’하는 상황에서 전 정권 수사에 검사들을 빼다 쓰는 것은 모순이라고 에둘러 지적한 것이다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검찰 구성원들, 특히 검사들은 임 지검장을 제외하고 모두 하나의 인격체로서 연좌제급 무한 연대책임을 지는 악(惡)의 집단”이라며 “현재 특검에 파견 가 수사를 할 자격이 있는 검사는 임 지검장이 유일할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 장 부장검사는 “가장 악취 나는 검사들을 특검 수사에 관여하게 하는 것은 국민들도 용납하지 못하실 것”이라며, “특검 파견 검사들은 수사·기소 분리라는 시대의 절대 진리와도 같은 가치를 거스르며 기소와 공소 유지에도 관여하겠다고 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 장 부장검사는 “이러한 악의 집단인 검사들 때문에 악의 축인 검찰청을 폐지했는데, 이들 때문에 추후 특검 수사의 정당성이 흔들릴까 두렵다”고 했다. 이어 “다행인 것은 이러한 악취 나는 검사들이 스스로 일선 복귀를 요청했다니 양심은 있는 모양”이라고 했다. 이어 정 장관에게 “파견 검사들을 당장 일선으로 내쫓아 민생 사건을 신속히 처리하며 속죄하게 해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연휴 앞두고 전국 공항 자회사 노조, 총파업 돌입</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/01/34V5GO2UZZFMLKVKBM5XETCEEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/01/34V5GO2UZZFMLKVKBM5XETCEEY/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 02:39:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AY7XNMDBXNE3JEQ4SVEDZLAWCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10월 1일 인천국제공항 1터미널에서 전국 15개 공항 노동자들이 무기한 전면파업 1일차 출정식을 열고 구호를 외치고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항과 김포국제공항 등 전국 15개 공항 노동자들이 소속된 전국공항노동자연대가 1일 총파업에 돌입했다. 이번 파업에 참여하는 이들은 인천국제공항공사, 한국공항공사가 아닌 자회사에 소속된 노동자들로 주차, 조류퇴치, 소방, 건축 등 업무를 맡는 2000여명이다.&lt;br&gt;&lt;br&gt;노조 측은 “인천공항 등에서 산재사망과 뇌심혈관, 난임·유산 등을 초래하는 현행 3조2교대의 근무를 4조2교대로 개편하는 등 필요 인력 충원이 이뤄져야 한다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;인천공항공사 등은 파업에 따른 혼란은 크지 않을 것이란 입장이다. 공항은 업무 공백 시 일상생활을 위태롭게 할 수 있는 업무에 해당해 필수 유지 인력이 법적으로 정해져 있다. 예컨대 항공기 운항과 직접 관련된 탑승교 운영 업무의 경우 78%가 필수 유지 인력에 해당한다. 보안 검색 인력도 파업에 참여하지 않는다. 인천공항공사는 비상대응체계를 가동해 모니터링을 강화하고 대체 인력도 투입한다는 계획이다.&lt;br&gt;&lt;br&gt;다만, 올 추석 연휴가 개천절과 한글날 등이 겹치며 최대 열흘 가량 연휴가 길어지는 건 변수다. 인천공항의 경우, 10월 2일부터 12일까지 일평균 22만3000명의 여객이 몰릴 것으로 전망된다. 이는 기존 성수기 최다 이용객 수 였던 올 여름(일평균 21만8000명) 보다도 늘어난 것으로 역대 최고치에 해당한다. 인천 공항 외에도 이 기간 281만명이 공항을 이용할 것으로 예측된다. 인천공항 관계자는 “연휴가 길고, 한 달 앞으로 다가온 APEC 정상회의에도 대비해야 하는 만큼, 파업 자제를 당부한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
