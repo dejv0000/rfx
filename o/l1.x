@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 법원, 윤석열 보석 불허…구속 상태로 재판</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212046.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Thu, 02 Oct 2025 04:33:57 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212046</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212046</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212046.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 10월 2일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 오기나 산업재해 이주노동자(몽골 출신) 면담(충청북도 청주)&lt;br /&gt;&lt;br /&gt;14:00 추석맞이 망우역사문화공원 유관순열사 묘역 참배 및 헌화(망우역사문화공원)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 송옥주 의원실, [2025 국회 토론회] 전통 장(醬), 문화에서 新산업으로 : '식품공전 장류' 개편 방향과 한국 장류의 발전 방안(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;09:30 정태호 의원실 등, 반려동물 유기·학대 예방과 생명존중 문화 확산 정책토론회 : 10.4 동물보호의날 제1회 법정기념일 기념(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 최기상 의원실, 검찰, 역사와 국민의 심판대에 서다 : 세계 각국 검찰 개혁의 역사와 교훈(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 김영배 의원실, 보편적 복지와 아동·청소년 친화도시의 미래 : 서울시 최초 친환경 무상급식 15주년 기념 토론회(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 민병덕 의원실 등, 이순신포럼 발족식 및 황현필 특별강연(국회도서관 소강당)&lt;br /&gt;&lt;br /&gt;13:30 김예지 의원실, 학대피해 아동·노인·중증장애인의 권리구제 문제 진단을 위한 간담회(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 민병덕 의원실 등, 디지털 혁신 금융 지원 취지에 부합하는 스테이블코인 거버넌스 모색(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 김재원 의원실, 패션산업 진흥법 국회 토론회(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통실 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 차규근 의원, [혐중 시위 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 민병덕 의원, [임금체불 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 조배숙 의원, [손현보 목사 구속과 종교탄압 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 김준형 의원, [이스라엘의 가자지구 집단학살 중단 촉구 결의안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 신장식 의원, [떴다방 방지를 위한 방문판매법 개정안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 우재준 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 전현희 의원, [서울시 정책 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 서영교 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:00 김현 의원, [더불어민주당 국민소통위원회 민주파출소 정례브리핑]&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
 			<pubDate>Wed, 01 Oct 2025 22:35:39 -0000</pubDate>
@@ -224,16 +234,6 @@
 			<link>https://www.lawtimes.co.kr/news/211933</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211933</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211933.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>"소속 어쏘 대학원 학비 전액 지원"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211932.jpg" alt="4574.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;법무법인 도시와사람 이승태 대표변호사(사진 오른쪽)와 어소시에이트 업 프로그램 첫 번째 수혜자 이규호 변호사. 《사진=도시와사람 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“어쏘 변호사의 역량이 곧 로펌의 경쟁력입니다.”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;환경·부동산 전문 중소 로펌 ‘법무법인 도시와사람’이 소속 어쏘(저연차) 변호사의 국내 대학원 학자금을 전액 지원하고 강의 시간까지 업무 시간으로 인정해 주는, 대형 로펌에서도 보기 드문 ‘통 큰’ 인재 투자 프로그램을 시작했다. 인공지능(AI)이 빠르게 법률 시장에도 침투하면서 어쏘 변호사들의 입지가 좁아지는 상황에서 인재 육성을 통해 미래 경쟁력을 확보하려는 이례적인 시도로 주목받고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;도시와사람이 최근 신설한 ‘어소시에이트 업(UP, Urban Professional) 프로그램’은 소속 변호사의 전문 역량 강화를 목표로 법인이 파격적으로 지원하는 제도다. 도시와사람은 선발된 인재에게 대학원 학자금을 전액 지원하고, 강의 시간을 공식 업무 시간으로 인정한다. 학업과 업무의 충실한 병행을 돕기 위해 담당 사건 수 경감하는 등으로 업무량도 조절해 준다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;도시와사람은 변호사 실무 수습 기간을 제외하고 3년 이상 근무한 소속 변호사에게 해당 프로그램에 선발될 수 있는 자격을 부여한다. 업무 태도와 능력, 기여도 등을 종합 평가해 선발한다. 이 프로그램의 수혜를 받은 변호사는 학업을 마친 후 2년을 법인에서 의무적으로 근무해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;프로그램의 첫 번째 수혜자로는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="41259"&gt;이규호&lt;/span&gt;(변호사시험 11회) 변호사가 뽑혔다. 이 변호사는 3년 이상 근무하며 역량을 인정받아 2026년 1학기부터 환경 관련 대학원 석사과정을 진학해 전문성에 깊이를 더할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이러한 파격적인 제도를 도입한 배경에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="230"&gt;이승태&amp;nbsp;&lt;/span&gt;도시와사람 대표변호사(사법연수원 30기)의 경영 철학이 담겨있다. 이 대표는 “어쏘 변호사들의 지속적인 성장과 전문성 향상이 곧 법인의 경쟁력”이라고 말했다. 이 대표변호사는 “어려운 여건 속에서 미래를 위한 가장 확실한 포석은 인재 육성이라고 생각했다”며 특히 “가장 많이 방황하는 3년차 변호사에게 새로운 진로를 열어주는 길이라고 판단해 시행하게 됐다”고 했다.&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Tue, 30 Sep 2025 20:09:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211932</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211932</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211932.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
 		</item>
 	</channel>
