@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>항공 261편 지연 운항... 연휴 첫날 제주 강타한 강풍·폭우 </title>
+      <link>https://www.chosun.com/national/regional/jeju/2025/10/03/4N6MUFVKMBDLRE6XCO7GTAOWZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/jeju/2025/10/03/4N6MUFVKMBDLRE6XCO7GTAOWZA/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 10:45:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LCFE4WLTH4DN6DQ6MZVHT24ICQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 강풍이 분 제주의 한 도로 중앙분리대가 쓰러졌다. /제주소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날이자 개천절인 3일 제주에 100㎜ 이상의 세찬 비와 초속 20m 이상의 강풍이 불면서 피해가 잇따랐다. &lt;br&gt;&lt;br&gt;제주소방안전본부 등에 따르면 이날 오후 4시 47분쯤 제주시 조천읍 함덕리와 오후 3시 52분쯤 제주시 월평동에서 폭우로 물이 치솟으며 맨홀 뚜껑이 열렸다는 신고가 접수됐다. 현장에 출동한 소방 당국이 안전 조치를 하면서 다친 사람은 없었다. 오후 3시 25분쯤에는 제주시 조천읍 선흘리에서 차량 1대가 진흙에 고립되는 사고가 났다. 다행히 출동한 소방대원이 운전자를 구조해 귀가 조치했다. 다행히 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;이날 오전 0시부터 오후 6시까지 한라산 진달래밭에 최고 118.5㎜의 폭우가, 성판악 114㎜, 백록담 남벽 104.5㎜ 등의 비가 내렸다. 해안 지역인 성산수산에 가장 많은 89.5㎜가 쏟아졌고, 마라도 69.5㎜, 김녕 68㎜, 우도 63.5㎜ 순으로 많은 비가 내렸다. &lt;br&gt;&lt;br&gt;강풍 피해도 잇따랐다. 오전 10시 30분과 오전 9시 42분 제주시 이도이동에서 중앙 분리대가 쓰러지고, 제주시 노형동에서 가로수 2그루가 넘어졌다. 이날 한라산 삼각봉에서는 초속 25.5m의 강한 바람이 불었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TJRSFZCNNK5HNVRX47HOPXCAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 첫날인 3일 오후 제주국제공항 1층 도착장이 입도객들로 붐비고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강한 비바람에 이날 오후 6시까지 제주공항에 운항 예정이던 항공기 349편 중 261편이 지연 운항했다. 또 해상의 풍랑주의보로 일부 여객선이 결항하기도 했다.&lt;br&gt;&lt;br&gt;제주지방기상청은 이날 오후 5시를 기해 제주도 산지와 동부, 서부, 남부 및 남부 중산간, 북부 중산간에 발효했던 호우주의보를 해제했다. 또 제주도 산지와 동부, 북부 및 북부 중산간, 추자도에 발효했던 강풍주의보는 오후 6시에 해제하고, 제주도 앞바다의 풍랑주의보도 해제했다.&lt;br&gt;&lt;br&gt;기상청은 “4일 새벽까지 바람이 급변하고 순간풍속 최대 20m 이상의 바람이 불겠다”며 “안전사고 등에 유의해달라”고 당부했다. &lt;br&gt;&lt;br&gt;제주도는 재난 안전 문자를 통해 물이 갑자기 불어날 수 있는 계곡과 하천, 한라산 둘레길, 오름, 올레길 등지의 출입을 자제하고, 너울성 파도에 의한 피해가 예상되는 해안가나 방파제에 접근하지 말라고 요청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3TJRSFZCNNK5HNVRX47HOPXCAU.jpg?auth=9223c75035ffdcc73c9cb90dd0b6e3e7fd05185ab66747800d03518fcd53dfa6&amp;smart=true&amp;width=5330&amp;height=3554" type="image/jpeg" height="3554" width="5330">
+        <media:description type="plain">추석 연휴 첫날인 3일 오후 제주국제공항 1층 도착장이 입도객들로 붐비고 있다. /뉴시스</media:description>
+        <media:credit role="author" scheme="urn:ebu">YANG</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>국가정보관리원 복구율 17%... 인터넷 우체국 한때 또 먹통 </title>
       <link>https://www.chosun.com/national/national_general/2025/10/03/MDJ6OKAYXJFHVI4MS74HJXWCZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/MDJ6OKAYXJFHVI4MS74HJXWCZQ/</guid>
@@ -969,16 +982,6 @@
       <description/>
       <pubDate>Thu, 02 Oct 2025 05:01:59 +0000</pubDate>
       <content:encoded>법무부는 2일 외국인 노동자의 인권 침해 피해 구제와 재발 방지를 위해 ’1345 외국인종합안내센터’를 통해 종합 지원 서비스를 제공한다고 밝혔다. ‘원스톱 솔루션 센터’ 또는 고용노동부 ‘외국 인력 상담센터’와 연계해주는 맞춤식 지원을 제공한다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IHKT64YFKFMNPOJKVJC5RW2TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 과천 법무부 청사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외국인 노동자가 1345로 전화해 외국인종합안내센터에 인권 침해 관련 전화 상담을 하면 피해 유형에 따라 폭행·협박·성폭력 등은 원스톱 솔루션 센터로, 산업재해·임금 체불 등은 근로복지공단과 지방고용노동청으로, 외국인노동법 등 고용관계 상담은 외국 인력 상담센터로 각각 연계해 ‘원스톱’ 지원을 제공할 계획이다.&lt;br&gt;&lt;br&gt;이번 외국인종합안내센터 운영은 지난 2월 전남 나주시 벽돌 제조 공장에서 발생한 ‘지게차 괴롭힘’ 사건이 계기가 됐다고 법무부는 설명했다. 외국인 노동자 인권 침해 발생을 방지하고 신속한 구제를 위해 대책을 마련했다는 것이다.&lt;br&gt;&lt;br&gt;이 밖에도 법무부는 산업 현장의 외국인 노동자 인권 침해를 예방하고 인권 침해 발생시 신속하게 구제받을 수 있도록 외국인 노동자에게 다양한 방식으로 인권 보호 정보를 제공할 계획이라고 밝혔다. 외국인 노동자가 비자 신청부터 입국 심사, 외국인 등록, 체류기간 연장 등의 절차를 거치는 과정에서 최대 20개 언어로 인권 보호와 피해 구제 방안을 안내할 예정이다.&lt;br&gt;&lt;br&gt;사업주에게도 문자 메시지로 인권 보호 절차를 안내하고, 사증발급인정서를 신청할 때는 사업장과 숙소 등에 외국인 노동자 인권 보호 안내문 게시 여부를 확인해 비자 심사에 반영할 계획이다.&lt;br&gt;&lt;br&gt;정성호 법무 장관은 “이번 대책으로 외국인 노동자가 1345 외국인종합안내센터를 통해 실질적인 보호를 받을 수 있게 됐다”며 “외국인 100만명 시대를 맞아 우리나라에서 안전하게 일할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘짱구 엄마’ 서울 지하철 목소리, AI가 잇는다</title>
-      <link>https://www.chosun.com/national/people/2025/09/30/DY5DEUDSDNBDXOYRAOUB5XUIYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/09/30/DY5DEUDSDNBDXOYRAOUB5XUIYM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Sep 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYUWLB5PIRGXRL4U25ARVCJ5SU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 1996년부터 서울 지하철 안내 방송을 담당했던 성우 강희선씨가 암 투병으로 하차한다. 애니메이션 ‘짱구는 못 말려’의 ‘짱구 엄마’로도 유명하다. 그의 자리는 AI가 대신한다.
-/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이번 역은 시청, 시청역입니다. 내리실 문은 왼쪽입니다.”&lt;br&gt;&lt;br&gt;서울 지하철 안내 방송의 목소리가 29년 만에 바뀐다. 1996년부터 안내 방송을 전담해 온 성우 강희선(65)씨가 건강 문제로 하차한다고 서울교통공사가 29일 밝혔다. 강씨의 빈자리는 인공지능(AI)이 대신한다.&lt;br&gt;&lt;br&gt;강씨는 1979년 성우로 데뷔했다. 47년 차다. 영화 ‘원초적 본능’의 샤론 스톤, 영화 ‘귀여운 여인’의 줄리아 로버츠 목소리 연기를 맡았다. 10·20대 사이에선 애니메이션 ‘짱구는 못말려’의 ‘짱구 엄마’ 봉미선 목소리로 이름이 알려져 있다. 2005년 KBS 성우연기대상, 2018년 대한민국 대중문화예술상 국무총리 표창을 받았다. 앞서 강씨는 2023년 한 유튜브 채널에 출연해 “2021년 대장암 판정을 받았다”고 했다. 강씨는 지난달 ‘짱구는 못말려’도 26년 만에 하차했다. &lt;br&gt;&lt;br&gt;강씨는 그동안 지하철 안내 방송에 애정을 보였다. 2021년 한 라디오 프로그램에 출연해 “한 마디를 녹음할 때도 단순한 서비스가 아니라 친절과 감사의 마음을 담았다”며 “AI의 목소리가 편리하고 효용성이 있을지는 몰라도 따뜻한 감정을 담아 서로를 위로할 수 있는 건 오직 사람뿐”이라고 했다. 지난해 서울교통공사 유튜브에선 “(승객들이) 아침에 출근할 때 즐거운 하루가 되셨으면 좋겠다”며 “고객의 입장에서 최선을 다하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;지하철 안내 방송은 총 26가지로, 그동안 스튜디오에서 녹음해 틀었다. &lt;br&gt;&lt;br&gt;공사는 AI 안내 방송을 도입하면 제작에 걸리는 시간이 2~3주에서 하루 이내로 줄어들 것이라고 밝혔다.&lt;br&gt;&lt;br&gt;공사 관계자는 “강씨가 암 판정을 받았다고 밝힌 후 교체를 검토해 왔다”며 “안정적인 안내 방송을 위해 새로 성우를 뽑지 않고 AI를 활용하기로 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울 지하철 1·3·4호선 일부 구간을 운영하는 코레일은 앞서 2018년 AI 안내 방송을 도입했다. 공사 관계자는 “AI에 성우 목소리를 최대한 학습시켜 이질감을 최소화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 삼성디스플레이 압수수색 “중국 경쟁기업에 기술 유출 정황 포착”</title>
