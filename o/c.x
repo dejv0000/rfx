@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충북 지역 군부대 식중독 의심 신고... 장병 140여명 치료 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/AFJPA2HRTJGE7APLSBV3WQB6DY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/AFJPA2HRTJGE7APLSBV3WQB6DY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 05:05:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYZU2I3J3ZGD3EWLKU63ISPM4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 임종득 의원이 자신의 SNS에 충북 지역 군부대에서 식중독 의심 장병이 확산되고 있다며 철저한 원인 규명과 재발 방지에 힘써야 한다고 글을 올렸다./페이스북 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 지역의 여러 군부대에서 식중독 의심 환자가 발생해 보건당국이 역학 조사에 나섰다. &lt;br&gt;&lt;br&gt;3일 충북도 등에 따르면 이날 새벽 보은군 장안면의 한 육군부대 소속 장병 3명이 설사 등 증세를 보인 것을 시작으로 청주와 괴산, 증평 등 도내 9개 시군 13개 군부대에서 식중독 의심 신고가 잇따라 접수됐다.&lt;br&gt;&lt;br&gt;이날 오후 2시 기준 140명이 설사와 복통 등 식중독 의심 증상을 호소해 병원 치료를 받은 것으로 집계됐다. &lt;br&gt;&lt;br&gt;보건당국은 전날 저녁을 먹고 난 이후 식중독 의심 환자가 발생한 점을 토대로 1~2일 전 부대에 보급된 음식에서 문제가 발생한 것으로 의심하고 원인을 추적하고 있다.&lt;br&gt;&lt;br&gt;도 관계자는 “군부대 특성상 접근이 제한되는 부분이 있어 다소 시간이 걸리고 있다”며 “현재 일선 시군 보건소가 군부대와 접촉해 역학조사를 진행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;앞서 국회 국방위원회 소속 임종득 국민의힘 국회의원은 이날 오전 자신의 SNS를 통해 “3일 충청 지역 여러 부대에서 수십여명의 장병이 원인 불상 설사와 복통 증상을 호소해 군 병원과 민간 병원에서 진료를 받았다”면서 “피해 인원이 더 늘어날 수 있는 상황”이라고 밝혔다. &lt;br&gt;&lt;br&gt;그러면서 그는 “국가안보를 책임지는 장병들의 급식 안전에 이런 일이 반복되는 것은 결코 용납될 수 없다”며 “철저한 역학조사와 신속한 원인 규명, 재발 방지를 위한 식자재 관리와 급식체계 점검이 필요하다”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한가위, 귀성길은 비오고 귀경길은 흐려...달은 구름 속에</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/03/6DP7WZDNOFERVE6RAOVR6XU6WU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/03/6DP7WZDNOFERVE6RAOVR6XU6WU/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 05:01:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4EN7YA4JIBQUMN6KSE6Y3V3FNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비 내리는 제주. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연휴 첫날인 3일 비구름대를 동반한 저기압의 영향으로 호남과 제주를 중심으로 많은 비가 내렸이다. 이번 연휴는 추석 당일(6일)까지는 오락가락 가을비가 내리다가, 귀경길(7~9일)에는 대체로 흐릴 것으로 예상됐다. 보름달은 구름 속에 숨어 있는 날이 많겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 3일 전남 여수(일 78.5㎜)·화순(77.5㎜), 제주 서귀포(77㎜) 등에 70㎜ 넘는 비가 내렸다. 비구름대는 4일까지 서서히 우리나라를 통과하면서 비를 뿌리겠다. 3~4일 예상 강수량은 수도권 5㎜, 강원도 5~20㎜, 충청권 5~40㎜, 호남권 10~60㎜, 부산 30~80㎜, 울산·경남 20~60㎜, 대구·경북 10~30㎜, 제주도 30~120㎜ 등으로 예보됐다. 5일에는 제주·호남을 제외한 전국에 5㎜ 미만의 강수가 예상된다.&lt;br&gt;&lt;br&gt;추석 당일인 6일에는 강원영동에 비가 내리겠고, 오후부터 저녁 사이에는 수도권과 강원영서에도 빗방울이 떨어지겠다. 수도권과 강원도는 비로 인해 보름달을 보기 어렵겠으나, 충청권과 남부지방에서는 구름 사이로 보름달을 볼 수 있는 곳이 있겠다. 한국천문연구원은 주요 도시의 이날 월출 시각을 서울 오후 5시 32분, 강릉 오후 5시 24분, 대전 오후 5시 30분, 부산 오후 5시 24분, 광주 오후 5시 33분, 제주 오후 5시 35분 등으로 예상했다.&lt;br&gt;&lt;br&gt;귀경길은 날이 대체로 흐릴 것으로 보인다. 7일은 우리나라가 고기압 가장자리에 들면서 전국에 구름이 많겠으나, 중부지방은 기압골의 영향으로 흐리고 약한 비가 내리겠다. 8일과 9일에는 전국에 구름이 많을 것으로 전망된다.&lt;br&gt;&lt;br&gt;연휴 기간 기온은 선선할 것으로 보인다. 4일 아침 최저기온은 18~22도, 낮 최고기온은 23~28도로 예보됐다. 5일부터 9일까지는 최저 14~22도, 최고 20~27도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최근 5년간 검찰 입건 마약 사범 39.6% 증가…“검찰청 폐지로 수사 공백 우려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/WGADY24Y6ZAWVNBTA4JD4DXYKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/WGADY24Y6ZAWVNBTA4JD4DXYKY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 04:32:56 +0000</pubDate>
+      <content:encoded>최근 5년간 검찰이 입건한 마약 사범 수가 39.6% 늘어난 것으로 3일 파악됐다. 전체 마약 사범의 수가 증가 추세에 있는 가운데, 검찰청 폐지로 마약 수사에 공백이 생길 수 있다는 우려가 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OVJSL7DIVE3ZART2GCVRARMOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지방검찰청 마약범죄특별수사팀이 지난 8월 6일 부산 연제구 검찰청 회의실에서 진행된 브리핑에 앞서 부산본부세관과 공조해 적발한 코카인 600kg을 공개하고 있다. /김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 국회 행정안전위원회 소속 국민의힘 이성권 의원이 대검찰청으로부터 제출받은 자료에 따르면, 최근 5년간 검찰이 입건한 마약 사범은 3만4773명이었다. 경찰 등 다른 국내 수사기관이 입건한 마약 사범의 33.7% 수준이다.&lt;br&gt;&lt;br&gt;검찰이 입건한 마약 사범의 수는 증가하는 추세다. 2020년 5974명이었던 검찰 입건 마약 사범 수는 2023년 8342명으로 39.6% 늘었다. 검찰 입건 비율 역시 2020년 33.1%에서 지난해 36.2%로 3.1%p 늘었다.&lt;br&gt;&lt;br&gt;전체 마약류 사범 수 역시 증가 추세에 있는 가운데, 내년으로 예정된 검찰청 폐지로 수사 기관의 마약 수사 공백이 우려된다는 지적이 나온다.&lt;br&gt;&lt;br&gt;이성권 의원은 “관세청을 비롯해 검사의 수사 지휘와 감독을 받는 특사경의 역할을 어떻게 할 것이냐”며 “검찰의 마약 범죄 수사 기능이 멈추면 다양한 마약 범죄가 활개를 칠 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘국가 전산망 장애’ 담당 공무원 1명 사망…극단적 선택</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/03/NV2WUDZRDNEF5HKXI724DONVQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/NV2WUDZRDNEF5HKXI724DONVQQ/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 03:32:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALEWHZEGYYLD5S2QGFSTTL3HRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 중앙동 전경. /행정안전부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 26일 국가정보자원관리원 화재 사태가 발생한 지 8일째를 맞는 가운데, 국가 전산망 관련 업무를 담당하던 공무원 1명이 사망한 것으로 3일 확인됐다.&lt;br&gt;&lt;br&gt;행정안전부에 따르면, 이날 오전 10시 50분쯤 국가정보자원관리원 화재 관련 업무를 담당해 온 공무원 A씨가 정부세종청사에서 극단적 선택을 했다. 쓰러진 채 발견된 A씨는 발견 당시 심정지 상태였고, 결국 사망했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “현재 경찰 조사가 진행 중”이라며 “세부적인 조사 결과가 나오면 추가로 알려드리겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울남부지법, 내일 3시 이진숙 체포적부심사 </title>
       <link>https://www.chosun.com/national/national_general/2025/10/03/5JLVBV4PJVHL7NXDHXAZGQUYNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/5JLVBV4PJVHL7NXDHXAZGQUYNY/</guid>
@@ -844,33 +880,6 @@
       <content:encoded>12·3 비상계엄 관련 내란·외환 사건을 수사하는 조은석 특별검사가 모친상을 치른 사실이 뒤늦게 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 조 특검의 모친인 이방자(87) 여사가 지난달 29일 별세했다. 발인은 전날 오전 8시 30분 광주 서구의 한 장례식장에서 치러졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRWWBCIQIAZ52GCE65BIMAKOEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조은석 내란 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 특검은 모친상을 당한 사실을 외부는 물론 특검 내부에도 알리지 않은 것으로 전해졌다. 대다수 특검팀 구성원들은 조 특검이 상을 당했다는 사실을 뒤늦게야 알았다고 한다. 조 특검은 자신의 개인사가 수사에 직·간접적인 영향을 미칠 수 있다는 우려에 조용히 상을 치른 것으로 전해졌다. &lt;br&gt;&lt;br&gt;조 특검은 지난 6월 12일 윤석열 전 대통령의 12·3 비상계엄 선포와 관련한 내란·외환 의혹을 수사할 특별검사로 지명됐다. 조 특검은 수사 개시 직후 윤 전 대통령의 특수공무집행방해 등 혐의를 수사해 윤 전 대통령을 재구속했다. &lt;br&gt;&lt;br&gt;이어 이상민 전 행정안전부 장관을 내란 중요 임무 종사 등 혐의로 구속 기소하고, 한덕수 전 국무총리를 내란 방조 혐의로 불구속 기소했다. &lt;br&gt;&lt;br&gt;조 특검은 검찰 재직 시절 특수통 검사로 분류됐다. 2019년 사법연수원 네 기수 후배인 윤 전 대통령이 검찰총장에 지명되자 법무연수원장을 끝으로 검찰을 떠났다. 이후 문재인 정부에서 감사원 감사위원에 임명됐다. 이재명 정부 출범 직후 더불어민주당이 내란 특검 후보자로 추천했고, 이 대통령 임명으로 특별검사 임기를 시작했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>추석에 문 여는 병원, 교통 정체 상황, 정부 콜센터 110에서 안내</title>
-      <link>https://www.chosun.com/politics/goverment/2025/10/02/LMDLKLNXJRERPKQQSRLIUYHB5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/10/02/LMDLKLNXJRERPKQQSRLIUYHB5M/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Oct 2025 00:25:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민권익위원회. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간인 3~9일에도 정부 통합 민원 콜센터인 ‘국민콜110’이 정상 운영된다고 국민권익위원회가 2일 밝혔다.&lt;br&gt;&lt;br&gt;권익위에 따르면, 국민콜110은 전국 어디서나 국번 없이 110번에 전화해 연결할 수 있다.&lt;br&gt;&lt;br&gt;국민콜110을 통해 이번 연휴에 운영하는 병·의원 및 약국 정보, 대중교통 연장 운행 시간, 도로별 정체 구간과 소요 시간 정보를 안내받을 수 있다. 불법 주·정차와 통행 불편 사항, 생활 소음 및 쓰레기 불법 소각, 학교 폭력, 유기·유실 동물을 신고할 수 있다. 민생 회복 소비 쿠폰 신청 관련 문의와 행정기관 업무 관련 일반 상담도 가능하다.&lt;br&gt;&lt;br&gt;국민콜110은 전화뿐 아니라 카카오톡 플러스 친구 ‘국민톡110’을 통해 이용할 수 있다. 모바일 웹사이트 m.110.go.kr에 접속해 문자 메시지로 상담할 수도 있고, 청각·언어 장애인인 경우 웹사이트 www.110.go.kr에서 영상을 통해 수어로 상담할 수 있다. 트위터 @110callcenter, 페이스북 110call을 통한 상담도 가능하다.&lt;br&gt;&lt;br&gt;권익위 임진홍 정부합동민원센터장은 “국민콜110은 매년 약 244만명이 이용하는 정부 민원 대표 상담 서비스로, 추석 연휴에도 24시간 정상 운영되는 만큼 궁금하신 사항이 있다면 언제든지 국민콜110을 이용하시기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>순직 해병 수사 외압 의혹… 이종섭 영장 청구 방침</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/02/F6NLGJIHYZHQTIPBFIQX2KNU7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/F6NLGJIHYZHQTIPBFIQX2KNU7Q/</guid>
-      <dc:creator>방극렬 기자, 양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBESAD2SOVADPJXAUXMBVWSYA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종섭 전 국방부 장관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 고(故) 채수근 상병 사망 사건 수사 외압 의혹의 핵심 피의자인 이종섭 전 국방부 장관에 대해 구속영장 청구 방침을 세운 것으로 1일 알려졌다. 이 전 장관은 최근 5차례 피의자 조사에서 직권남용 등 혐의에 대해 “아니다” “기억나지 않는다”며 부인했다고 한다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관이 지난 2023년 7월 31일 이른바 ‘VIP 격노’ 이후 윤석열 전 대통령에게 전화로 질책을 받고 해병대 수사단의 채 상병 사건 초동 조사 결과를 뒤집었다고 보고 있다. 재조사를 맡은 국방부 조사본부나 해병대에 부당한 지시와 압력을 넣어 임성근 전 해병대 1사단장을 업무상 과실치사 혐의 대상에서 제외했다는 것이다. 군검찰이 박정훈(대령) 해병대 수사단장을 항명 혐의로 수사하고 체포·구속영장을 청구한 것도 이 전 장관의 지시라고 특검은 보고 있다.&lt;br&gt;&lt;br&gt;이 전 장관은 특검 조사에서 혐의를 부인하면서도 구체적 질문에는 답변을 회피했다고 한다. 특검은 이 전 장관의 죄책이 중하고 VIP 격노가 없었다고 거짓 진술을 한 만큼 구속 수사가 필요하다고 보고 있다. 이 전 장관에 대한 신병 처리를 한 뒤 윤 전 대통령에 대한 직접 조사에 나설 전망이다. 이 전 장관은 그러나 해병대 수사단에 대한 이첩 보류 지시와, 이를 듣지 않은 박 대령 등에 대한 수사 등은 국방장관으로서 정당한 명령이었다는 입장이다. 이 전 장관은 또 이 과정에서 윤 전 대통령의 외압도 받지 않았다고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 해병 특검은 이날 이 전 장관의 주(駐)호주 대사 임명 과정에 관여한 이원모 전 대통령실 인사비서관을 범인 도피와 직권남용 혐의 피의자로 불러 조사했다. 내란 특검은 같은 날 내란 가담 등 혐의를 받는 신용해 전 법무부 교정본부장을 피의자로 소환했다. 신 전 본부장은 12·3 비상계엄 당일 박성재 전 법무부 장관의 지시를 받고 포고령 위반자들을 수감할 구치소 수용 공간을 확보하려고 했다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 파견 검사 복귀 요청하자… 검찰 내부 “임은정을 보내라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/02/JIF667IINVDZXEY6BMEOTAKOIM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/02/JIF667IINVDZXEY6BMEOTAKOIM/</guid>
-      <dc:creator>이민준 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀에 파견된 검사 40명 전원과 검찰 수사관 30여 명이 “검찰청으로 복귀하겠다”며 집단 반발하자, 검찰 내부에선 “환영한다”는 반응이 나왔다. 검사들 사이에선 정부·여당의 검찰청 폐지 정부 조직 개편에 불만의 목소리도 이어졌다.&lt;br&gt;&lt;br&gt;장진영 서울북부지검 형사3부장은 1일 오전 검찰 내부망인 이프로스에 글을 올려 정성호 법무장관에게 “수사 경험이 풍부한 파견 검사들을 일선 검찰청으로 복귀시켜 달라”고 했다. 장 부장검사는 이어 “특검 수사에 참여할 자격이 있는 것은 임은정 서울동부지검장이 유일하다”며 임 지검장의 특검 파견도 함께 건의했다. 임 지검장은 현 정부 출범 후인 지난 7월 실시된 첫 고위 간부 인사에서 서울동부지검장으로 승진했다. 그는 이후 “검찰의 장례를 치르는 장의사 역할을 잘 감당해 보겠다”고 말하는 등 잇따른 정치적 발언으로 논란을 빚어 왔다.&lt;br&gt;&lt;br&gt;장 부장검사는 “검사들은 임 지검장을 제외하고 모두 하나의 인격체로서 연좌제급 무한 연대 책임을 지는 악(惡)의 집단이 돼 있다”며 “이들이 참여 중인 특검 수사의 정당성이 흔들리지 않도록 파견 검사들을 복귀시키고, 수사의 공정성과 투명성을 위해 임 지검장을 특검에 파견해 달라”고 말했다.&lt;br&gt;&lt;br&gt;공봉숙 서울고검 검사는 전날 검찰 내부망에 김건희 특검팀 파견 검사들의 입장문을 공유하면서 “복귀 요청을 환영하고 지지한다”고 밝혔다. 이주훈 대전지검 형사3부장도 “파견 검사들의 뛰어난 역량을 민생 사건에 투입해야 할 때”라며 공감을 나타냈다.&lt;br&gt;&lt;br&gt;이런 가운데 검찰을 없어져야 할 조직으로 매도하는 분위기에 억울함을 호소하는 검사들도 나왔다. 광주지검 형사1부 소속 최정훈 검사는 지난달 30일 오후 검찰 내부망에서 “일부 정치적인 사건을 들어 검찰 전체를 ‘악마화’하고 있다”며 “실질적으로 일하는 검사 수가 적은 상황에서 피해는 고스란히 국민에게 돌아가고 있다. 올바른 마음으로 분별해 검찰을 바라봐 달라”고 했다.&lt;br&gt;&lt;br&gt;특검 파견 검사들의 검찰 복귀 요청에 여권 정치인들은 반발했다. 더불어민주당 박지원 의원은 “항명이고 기강을 해치는 범법”이라고 했고, 조국 조국혁신당 비상대책위원장은 “파견 검사들을 모두 징계하고 교체해야 한다”고 했다. 민주당은 이날 특검을 방문해 민중기 특검팀이 수사 중인 ‘웰바이오텍 주가조작’ 의혹을 검찰이 은폐한 정황을 수사하라고 촉구했다.&lt;br&gt;&lt;br&gt;파견 검사들의 반발이 내란 특검과 순직 해병 특검으로 확대될 가능성도 제기되고 있다. 내란 특검 관계자는 “내부적으로 검찰 개혁안에 관한 논의는 있었던 것으로 안다”고 했고, 해병 특검에 파견된 일부 검사들도 무력감을 호소하고 있는 것으로 전해졌다. 다만 정 장관은 이날 부산지검을 방문하면서 “검찰 내부에 큰 동요가 있다는 것은 오해”라고 했다.&lt;br&gt;&lt;br&gt;검찰에선 전날 이재명 대통령이 국무회의에서 정성호 장관에게 검찰의 상소 제도 개선을 지시한 데 대한 반발도 나왔다. 정유미(검사장) 법무연수원 연구위원은 이날 검찰 내부망에서 “현재의 3심 제도는 장기간 진행되는 재판으로 당사자에게 고통을 안겨준다는데, 여당 일각에선 4심 제도 도입을 추진하고 있다”며 “일관성도 없고 원칙도 없다”고 비판했다. 민주당이 3심인 대법원의 확정 판결을 헌법재판소에서 다시 판단하도록 하는 ‘재판소원’ 제도를 도입하려는 것을 거론한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>정책 감사 안 한다더니… 尹정부 탈탈 턴다</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/02/CMRQJYLBL5DOBEH656OJJLIIKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/02/CMRQJYLBL5DOBEH656OJJLIIKE/</guid>
@@ -878,16 +887,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>기후에너지환경부가 윤석열 정부가 추진한 ‘기후 대응 댐’ 계획을 대폭 축소하면서 정책 감사를 예고했다. 이재명 대통령이 공무원을 겨냥한 정책 감사를 폐지하라고 지시했으나, 신규 댐을 비롯해 ‘디지털 교과서’ ‘의대 정원 확대’ 등 전임 정부 정책을 향해서는 칼을 빼든 것이다.&lt;br&gt;&lt;br&gt;1일 기후부에 따르면, ‘기후 대응 댐’ 추진 중단에 대해 감사 등 후속 조처가 이뤄질 예정이다. 김성환 기후부 장관은 최근 신규 댐 축소 관련 브리핑에서 “전 정부의 댐 신설 결정이 무리하게 이뤄졌다”며 “감사원 감사 등을 통해 내부적으로 되돌아볼 수 있게 조처하겠다”고 밝힌 바 있다. 정책 감사 가능성을 시사한 것이다.&lt;br&gt;&lt;br&gt;정책 감사는 노무현 정부 시절인 2003년 ‘정책의 품질을 높인다’는 취지로 시작됐으나, 전임 정부의 잘못을 끄집어내 공격하는 정치 보복의 수단으로 변질됐다는 평가를 받고 있다. 대표적 사례가 이명박, 박근혜, 문재인 정부에 걸쳐 5차례 감사가 이뤄진 ‘4대강 사업’으로, 감사원은 정권이 바뀔 때마다 다른 감사 결과를 내놓은 바 있다. 신규 댐도 ‘4대강 사업’과 같은 고강도 감사의 전철을 밟을 가능성이 커졌다.&lt;br&gt;&lt;br&gt;정책 감사가 진행될 경우 감사 대상은 기후 대응 댐 정책을 설계·마련한 기후부(전 환경부) 물관리정책실과 댐을 관리하는 한국수자원공사 등이 될 것으로 보인다. 기후부 관계자는 “감사원 감사 의뢰, 국회를 통한 감사 요구안 등 구체적으로 정해진 것은 없다”면서도 “(장관의) 감사 발언은 댐 추진 과정에 문제가 있었던 만큼 그냥 넘어갈 수는 없다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;문제는 김 장관의 발언이 이재명 대통령의 ‘정책 감사 폐지’ 지시와 정면 충돌한다는 것이다. 이 대통령은 지난 7월 “정책 감사를 명목으로 열심히 일하는 공직자를 괴롭히고, 의욕을 꺾는 일은 절대로 없도록 해달라”며 폐지를 주문했고, 감사원은 22년 만에 제도를 손보기로 했다. 사익 추구, 특혜 제공 등 중대한 잘못이 없으면 공적 정책·사업 추진 과정에서 생긴 문제는 징계하지 않는 원칙을 모든 감사에 일관되게 적용하겠다는 것이다. 감사원은 제도 정비를 마치고 올 하반기부터 이를 적용하기로 했다. &lt;br&gt;&lt;br&gt;현재도 전임 정부 정책에 대한 감사원 감사는 이미 폭넓게 이뤄지고 있다. 교육부는 지난 6월부터 ‘인공지능(AI) 디지털 교과서’ 정책에 대한 강도 높은 감사원 감사를 받고 있다. 이재명 정부의 ‘1호 감사’였다. 지난 2월 국회에서 당시 야당인 민주당 주도로 AI 교과서 도입 과정에 대한 감사 요구안이 통과됐고, 정권이 바뀌자마자 바로 감사에 착수한 것이다. 교육부의 AI 디지털 교과서 추진 과정에 대한 논란, 검정 절차의 투명성과 공정성에 대해 감사를 벌이고 있다. 교육부와 보건복지부를 대상으로 한 의대 증원 감사도 현재 진행 중이다. 지난해 이뤄진 ‘2000명 의대 증원 결정 과정에 문제없는지 감사해달라’는 요구안이 지난 2월 당시 야당인 민주당 주도로 통과되면서 시작됐다. 증원 과정과 지역별, 대학별 정원 배정 과정에서 공정성, 형평성 문제가 있었는지 알아본다는 게 감사의 목적이다. 정부 관계자는 “공무원들은 정부 시책에 맞춰 정책을 입안, 추진했을 뿐인데 정치 논리로 하루아침에 죄인 취급을 받게 된 꼴”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이어폰·텀블러인 줄 알았는데… 청소년 파고드는 ‘액상 전자담배’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/02/36PNLOIVAZEIREZUDPZVUGTJ2I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/02/36PNLOIVAZEIREZUDPZVUGTJ2I/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHJHRUDSKJBUVHIGL77BXOL45Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;무선 이어폰 케이스처럼 생긴 외관을 열면 안에 전자담배가 들어있다./네이버블로그&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중3 아들을 둔 이모(45)씨는 최근 아들이 교내에서 담배를 피우다 적발됐다는 연락을 받았다. 이어 찾아간 학교에서 아들의 액상형 전자담배를 보고 깜짝 놀랐다. 무선 이어폰 케이스처럼 생겼기 때문이었다. 이씨는 “아들 방에서 봤던 기억이 나는데, 이게 전자담배라고는 생각도 못 했다”고 했다.&lt;br&gt;&lt;br&gt;액상형 전자담배가 다양한 형태로 청소년들을 유혹하고 있다. 온라인에선 키링, 립글로즈, 텀블러 등과 같은 형태는 물론, 스마트워치를 겸한 액상형 전자담배까지 팔린다. 판매 업체들은 “피치 못할 사정으로 티 안 나는 전자담배를 찾는 소비자를 위한 제품”이라고 홍보하지만, 보건의료계에선 “청소년들을 겨냥한 것”이란 반응이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FINB36TEF5FB5B4M3HYTYROIIQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;미니 텀블러 모양의 액상형 전자담배./한국건강증진개발원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지가 질병관리청 자료를 분석해보니, 흡연 청소년 중 액상형 전자담배 이용률이 2020년 25.5%에서 지난해 35.5%로 늘어났다. 자칫 일반 담배보다 덜 해롭다고 생각할 수 있지만, 이는 잘못된 것이다. WHO(세계보건기구)는 ‘2025 세계 흡연 실태 보고서’에서 “액상형 전자담배는 중독성이 있고, 유해하다” “아동·청소년의 뇌 발달에 영향을 미칠 수 있다”고 했다. 담배 관련 연구 권위자로 미국 UCSF(샌프란시스코 캘리포니아대) 교수를 지낸 스탠턴 글란츠 박사도 지난해 금연정책포럼에서 “액상형 전자담배는 니코틴 유무에 관계없이 유해한 입자를 만드는데, 이 입자가 폐 독성과 심혈관계 질환을 유발할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;현재 국내에서 유통 중인 액상형 전자담배 제품의 95%는 현행법상 ‘담배’가 아닌 합성니코틴을 사용하기 때문에 규제를 벗어난 상태다. 뒤늦게나마 이를 ‘담배’로 분류해 규제 대상에 넣는 입법 작업이 진행 중이지만, 국회 기재위만 통과했을 뿐 아직도 국회 법사위 심사와 본회의 의결을 더 거쳐야 한다. 보건의료계에선 “변종 담배가 더 확산되기 전에 신속하게 국회가 법안을 처리해야 한다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/AFIDUY2ATZBB5DHSD5PRTRRFAY.jpg?auth=b29bec9d3bdb581197e272d7b9f97d70fd3aa83bbbb427fa9e06a364e8df1c32&amp;smart=true&amp;width=1600&amp;height=900" type="image/jpeg" height="900" width="1600"/>
     </item>
     <item>
       <title>“데이터의 바다에 미래 있어… 세상 바꿀 AI인재 나오길”</title>
