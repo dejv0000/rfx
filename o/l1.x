@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 연립주택 출입구 경사로 미설치, 설계상 하자라도 시공사 책임</title>
+			<description>공동주택 출입구에 장애인용 경사로를 설치하지 않은 것이 설계상 하자라 하더라도 시공사에게 하자담보책임이 있다는 법원 판단이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4338"&gt;고은설&amp;nbsp;&lt;/span&gt;부장판사)는 7월 24일 GS 건설이 국토교통부 하자심사·분쟁조정위원회를 상대로 제기한 하자판정처분 취소 소송에서 원고 패소 판결했다(&lt;b&gt;2024구합53482&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;GS 건설은 공동주택 신축공사를 도급받아 20개 동 178세대 규모의 도시형 생활주택 A단지를 시공했다.&lt;p&gt;   &lt;br /&gt;입주자대표회의는 2022년 8월 A단지 내 B동의 주출입구가 주차장 및 6m 도로와 계단으로만 연결돼 있고 경사로가 설치되지 않았다며 하자심사를 신청했다. 국토교통부 하자심사·분쟁조정위원회는 이를 하자로 판정했고 GS 건설은 이에 불복해 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 GS 건설의 청구를 받아들이지 않았다. 재판부는 △ 주택이 장애인등편의법에 따른 편의시설 설치대상시설인지 여부 △ 주택에 장애인등편의법에서 설치하도록 규정한 시설물을 설치하지 않은 하자 여부 △ 설계상의 하자로서 하자담보책임 부담 여부를 기준으로 판단했다.&lt;br /&gt;&lt;br /&gt;세대수가 10세대 이상인 연립주택은 구 장애인등편의법령상 편의시설을 설치할 의무가 있다. 재판부는 이를 바탕으로 ‘10세대 이상 여부는 전세대 수 합산이 아니라 1동 세대수를 기준으로 해야 한다며, A단지의 세대수는 8세대로 설치 대상이 아니다’는 GS 건설 측의 주장을 받아들이지 않았다. 재판부는 "A단지는 20개 동 178세대로 하나의 대지에 건설된 단지형 연립주택"이라며 “전체 세대를 기준으로 봐야 하며, 따라서 편의시설 설치 의무 대상에 해당한다”고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 재판부는 ‘A단지의 주출입구는 지하 주차장과 연결돼 단차가 없다’는 GS 건설의 주장도 반박했다. 재판부는 “주출입구는 지상 1층 출입구로 보아야 하고, 외부에서 해당 출입구까지 경사로가 없어 장애인등편의법 기준에 미달한다”고 덧붙였다. 장애인등편의법에 따르면 출입구와 접근로 사이에 단차가 있는 경우 경사로를 설치해야 한다.&lt;br /&gt;&lt;br /&gt;’경사로 미설치는 설계상 문제일 뿐 시공사 하자가 아니므로 담보책임을 부담할 수 없다’는 GS 건설 측의 주장도 받아들이지 않았다. 재판부는 “시공사가 설계도면대로 시공했더라도 법령 위반이 명백한 설계를 고지하지 않은 이상 담보책임을 면할 수 없다”며,  GS 건설은 국내 대표 건설사로서 이를 검토·보완할 의무가 있었음에도 이를 이행하지 않았다고 판단했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 03 Oct 2025 03:26:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212057</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212057</guid>
+			<dc:creator>송주희 기자</dc:creator>
+		</item>
+		<item>
+			<title>김우현 대한행정사회 부회장, '자랑스러운 인물 대상' 수상</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212059.jpg" alt="436.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김우현 대한행정사회 부회장.《사진=대한행정사회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김우현 대한행정사회 부회장이 행정사 제도의 발전과 국민 편익 증진에 기여한 공로로 '2025 자랑스러운 인물 대상'을 수상했다. &lt;br /&gt;&lt;br /&gt;자랑스러운 인물 대상 조직위원회와 한국기자협회가 주최하고 월간 선데이뉴스가 주관한 이번 시상식은 9월 5일 서울 중구 한국프레스센터에서 열렸다. &lt;br /&gt;&lt;br /&gt;김 부회장은 '지역사회발전부문' 대상을 수상했다. 대한행정사회 고양시특례시지회 지회장으로 활동한 그는 아동학대 예방교육과 무료 법률 강의 및 고양시 마을행정사 조례 제정 등을 통해 지역사회 발전에 기여한 공로를 인정받았다. &lt;br /&gt;&lt;br /&gt;김 부회장은 "앞으로도 행정사회 회원들과 함께 제도의 발전과 직역의 위상 제고를 위해 최선을 다하겠다"고 소감을 전했다.&lt;br /&gt;&lt;br /&gt;'대한민국을 빛낸 자랑스러운 인물 발굴 프로젝트'인 '자랑스러운 인물대상 시상식’은 정치·경제·사회·문화 등 각 분야에서 국가와 사회 발전에 기여한 인물을 선정해 시상한다. 올해로 11회를 맞았다. &lt;br /&gt;</description>
+			<pubDate>Fri, 03 Oct 2025 03:23:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212059</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212059</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212059.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>[속보] 이진숙 4일 서울남부지법서 체포적부심</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212061.jpg" alt="2627.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;국가공무원법 및 공직선거법 위반 등의 혐의로 체포된 이진숙 전 방송통신위원장이 10월 2일 서울 영등포경찰서로 압송되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Fri, 03 Oct 2025 03:07:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212061</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212061</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212061.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 행정기관 깜깜이 행정 여전…비공개 행정규칙 204건</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211988.jpg" alt="363.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=AI 생성 이미지》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;비공개 행정규칙을 통한 행정기관들의 '깜깜이 행정'이 여전한 것으로 나타났다. 국민 생활과 직결된 행정규칙마저 수사·재판이나 내부 검토를 이유로 비공개 처리하는 상황이다. 국민의 알권리는 물론 행정의 예측 가능성이 침해된다는 지적이 나온다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;박준태 국민의힘 의원실에 따르면 올해 8월 기준 비공개 행정규칙은 총 204건으로 집계됐다. 기관별로는 국방부가 57건으로 가장 많았고 대검찰청(52건), 우정사업본부(28건) 뒤따랐다. 관세청·법무부도 각각 13건으로 다수의 비공개 규칙을 운영 중인 것으로 드러났다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;문제는 국민 생활과 밀접한 규칙마저 공개되지 않고 있다는 점이다. 대표적으로 수사·재판(제4호) 관련 비공개 규칙에는 대검찰청의 '가정폭력사건 처리 및 피해자 지원 지침', '아동 학대 사건 처리 및 피해자 지원 지침' 등이 포함된다. 가정폭력 피해자나 아동 학대 피해자들은 어떤 방법으로 지원받을 수 있을지 사전적으로 알 수 없는 상황에 내몰리는 셈이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정규칙은 각급 행정기관이 법령 시행 및 행정사무 처리와 관련해 발령하는 훈령, 예규, 고시, 규정, 규칙, 지시, 지침, 통첩 등을 포괄하는 개념이다. 원칙적으로 공개 대상이지만, 공공기관의 정보공개에 관한 법률 제9조 제1항에 해당하는 경우에는 비공개도 가능하다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;비공개 사유는 △비밀·대외비(제1호) △국가안전보장 등(제2호) △국민 생명·재산 보호(제3호) △진행 중 재판·수사 등(제4호) △내부 검토 과정(제5호) △개인정보(제6호) △영업상 비밀(제7호) △투기 우려(제8호) 등 8가지로 나뉘며, 이 중 수사·재판(제4호)과 내부 검토(제5호)가 대다수를 차지했다. 실제로 전체 204건 중 60건이 수사·재판 관련, 23건이 내부 검토 관련 사유로 비공개 처리돼 전체의 41%를 차지했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법제처는 각 부처에 비공개 규칙 제출과 공개를 지속적으로 요청해 왔지만, 최근 5년간 공개 전환율은 평균 5%에 불과했다. 회신율은 평균 66% 수준이었으나 실제 공개 전환은 극히 저조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법제처는 "행정규칙의 속성상 그 발령과 공개에 관한 1차적 판단권은 소관 부처에 있고 이를 강제할 수 없어 비공개 행정규칙 관리에 다소 어려움이 있으나, 지속적으로 모니터링하며 공개가 필요한 규칙은 공개될 수 있도록 독려하겠다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;박준태 의원은 "국민의 삶과 직접 관련된 행정규칙들이 행정 관리상의 어려움을 이유로 공개되지 않는 것은 문제가 있다고 생각한다"며 "각 부처는 공개 가능한 규칙 목록을 신속히 작성하고, 이를 바탕으로 공개 절차에 즉시 착수해야 한다"고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Thu, 02 Oct 2025 20:07:43 -0000</pubDate>
@@ -207,35 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/212023</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212023</guid>
 			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 셀트리온, '불법파견 소송' 최종 승소</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212022.jpg" alt="212022.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;법무법인 화우 양시훈∙홍성∙이충언 변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;셀트리온이 방역 하청업체 직원들이 제기한 불법파견 소송에서 최종 승소했다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="455"&gt;엄상필&amp;nbsp;&lt;/span&gt;대법관)는 9월 25일 셀트리온의 사내협력업체 프리죤 소속 직원들이 "직접 고용해달라"며 제기한 근로자지위 확인 소송 상고심에서 원고 측 상고를 심리불속행 기각했다(&lt;b&gt;2025다213424&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;셀트리온은 자사 공장에서 근무하는 정규직 직원들이 퇴근한 이후 야간 시간대에 바이오의약품 생산공장 내 청정실을 청소·소독하는 업무를 프리죤에 도급을 줬다. 2009년과 2011년부터 해당 업무를 담당한 프리죤 소속 근로자 A 씨와 B 씨는 2019년 셀트리온을 상대로 소송을 제기했다. 파견근로자가 동일 사업장에서 2년 이상 근무하면 원청이 직접 고용해야 한다는 규정을 근거로, 셀트리온이 도급 형식을 빌려 사실상 파견을 운영했다고 주장했다. 이들은 셀트리온 직원들이 작업 일정·범위를 지시하고 수시로 참관·감독했다고 강조했다. 반면 셀트리온 측은 "프리죤이 독자적으로 지휘·관리한 업무"라고 반박했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 셀트리온의 표준작업지침서(SOP)에 따라 근로자들이 업무를 수행했고, 구체적 지시와 장비 제공 등이 있었다는 점을 들어 불법파견을 인정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그러나 항소심은 SOP만으로 지휘·명령 관계를 인정하기 어렵다고 보았다. SOP는 의약품 제조·품질관리기준(GMP)에 따른 필수 규정이므로 이를 따랐다고 해서 곧바로 원청의 지휘·명령이 있었다고 볼 수 없다는 것이다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;또 400여 개 청정실의 구조와 장비가 달라 SOP가 모든 세부 절차를 정할 수는 없으며, 현장에서 상당한 재량이 발휘될 수 있다고 지적했다. 셀트리온 직원들의 참관·지적 역시 도급인이 결과물을 확인하고 하자 보수를 요구하는 수준으로, 사용사업주의 지휘·명령으로 보기 어렵다고 판단했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 원심에 법리 오해가 없다고 보고 원고의 상고를 심리불속행 기각했다. 심리불속행 기각은 원심 판결에 법리적 잘못이 없을 때 대법원이 별도의 심리 없이 상고를 기각하는 절차다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대리인 의견]&lt;/b&gt;&lt;br /&gt;항소심부터 소송대리를 맡은 &lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt; 노동그룹&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9398"&gt;양시훈&amp;nbsp;&lt;/span&gt;변호사(사법연수원 32기)는 "불법파견을 인정한 1심 판결을 뒤집는 것도 쉽지 않았는데, 대법원에서까지 심리불속행 기각으로 주장이 최종 인용돼 의미가 크다"며 "원청이 최종 승소한 드문 불법파견 사례로 기록될 것이고, 유사 분쟁을 겪는 기업들에도 중요한 선례가 될 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Wed, 01 Oct 2025 07:07:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212022</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212022</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212022.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>'삼부토건 주가조작' 이응근 전 대표, 보석 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212019.jpg" alt="212019.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김건희 특검팀(특별검사 민중기)이 2025년 7월 3일 서울 종로구 삼부토건이 입주한 빌딩에서 압수수색을 마친 뒤 압수품을 들고 이동하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;br /&gt;삼부토건 주가조작 의혹으로 구속기소된 이응근 전 대표가 불구속 재판을 받게 해달라고 법원에 요청했다. &lt;br /&gt;&lt;br /&gt;자본시장과 금융투자업에 관한 법률 위반 등 혐의를 받는 이 전 대표는 9월 30일 서울중앙지법 형사34부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5008"&gt;한성진&amp;nbsp;&lt;/span&gt;부장판사)에 보석을 청구했다(&lt;b&gt;2025초보396&lt;/b&gt;). 보석 심문 기일은 아직 지정되지 않았다. &lt;br /&gt;&lt;br /&gt;8월 26일 열린 공판 준비 기일에서 이 전 대표 측 변호인은 “단순히 심부름 역할을 한 이 전 대표를 369억 원 규모 범행의 공범으로 볼 수 없다”고 주장했다. 특검에 기록 열람·등사를 신청했으나 선별적으로만 허용하고 있다며 “피고인(이 전 대표)이 구속 상태인데 (증거) 열람을 못 하면 어떻게 재판을 준비해야 하냐”고도 덧붙였다.&lt;br /&gt;&lt;br /&gt;2025년 7월 14일 김건희 특검팀(특별검사 민중기)은 삼부토건 이응근 전 대표와 함께 이일준 회장, 조성옥 전 회장, 이기훈 부회장 (겸 웰바이오텍 회장) 등 4명의 구속영장을 청구했다. 7월 18일 서울중앙지법은 이 회장과 이 전 대표에게 “도망할 염려, 증거를 인멸할 염려”가 있다며 구속영장을 발부했다. 다만 조 전 회장의 경우 소명 부족과 방어권 보장을 이유로 기각했다.&lt;br /&gt;&lt;br /&gt;삼부토건 주가조작 의혹은 2023년 5~6월 삼부토건 관계자들이 우크라이나 재건 사업에 착수한 것처럼 조작해 주가를 끌어올려 수백억 원의 부당 이득을 취했다는 의혹이다.</description>
-			<pubDate>Wed, 01 Oct 2025 07:04:07 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212019</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212019</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212019.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 연인 신체 노출 사진 유포 징역 6년</title>
-			<description>연인의 신체가 노출된 사진을 다른 사람에게 보내고, 남성 성기가 나오는 합성 사진을 받은 30대 A 씨가 징역형을 확정받았다. 대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3751"&gt;권영준&amp;nbsp;&lt;/span&gt;대법관)는 9월 4일 성폭력범죄의 처벌 등에 관한 특례법 위반(카메라 이용 촬영·반포 등) 혐의로 기소된 A 씨의 상고심(&lt;b&gt;2025도7058&lt;/b&gt;)에서 검찰과 A 씨의 상고를 기각하고, 징역 6년을 선고한 원심을 확정했다.  &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2019년 9월부터 연인의 신체 노출 사진을 라인 메신저, 트위터, 텔레그램으로 성명 불상자 B 씨 등에게 전송했다. 교제 당시는 물론 헤어진 이후에도 A 씨는 연인의 사진을 유포했다. B 씨로부터 남성 성기가 나오는 합성 사진을 받아 저장하기까지 했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심과 항소심은 A 씨의 허위영상물편집·반포죄를 인정해 징역 6년을 선고했다. 하급심 재판부는 “연인의 신체 노출 사진과 합성 사진의 반포(頒布, 세상에 널리 퍼뜨려 모두 알게 함) 가능성을 인식하고 있었다”며 “성적 편집물 유포를 통제할 수 없는 상태였던 데다 반포 금지 또는 사진 삭제 등을 약속받지도 않았기에 미필적으로나마 반포 목적이 있었다”고 판시했다.&lt;p&gt;   &lt;br /&gt;다만 1심과 항소심은 A 씨의 연인을 성폭력처벌법 제24조 제2항의 피해자로 볼 순 없다고 판결했다. 제24조 제2항의 피해자는 ‘수사 또는 재판이 진행 중인 사건’의 피해자인데, A 씨가 수사 또는 재판이 진행 중임을 알고 범행을 한 것으로 보긴 어렵다는 게 1심과 항소심 판단이다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 검찰과 A 씨 상고를 모두 기각하고 A 씨의 허위영상물편집·반포죄에 대한 원심 판단을 받아들였다. 재판부는 “형벌 법규의 해석은 엄격하여야 하고, 명문 규정의 의미를 피고인에게 불리한 방향으로 지나치게 확장해석하거나 유추해석하는 건 죄형법정주의 원칙에 어긋난다”며 “성폭력처벌법 제24조 제2항의 보호 대상인 피해자는 성폭력 범죄의 수사 또는 재판 절차가 진행 중이거나 진행되었던 피해자로 해석하는 것이 타당하다”고 했다.&lt;/p&gt;</description>
-			<pubDate>Wed, 01 Oct 2025 03:09:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/211969</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211969</guid>
-			<dc:creator>이상우 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
