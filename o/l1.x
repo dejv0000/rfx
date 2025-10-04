@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이진숙 전 방송통신위원장 석방 ... 법원, 체포적부심 인용</title>
+			<description>&lt;div class="cheditor-caption-wrapper"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212065.jpg" alt="2627.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;국가공무원법 및 공직선거법 위반 등의 혐의로 체포된 이진숙 전 방송통신위원장이 10월 2일 서울 영등포경찰서로 압송되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공직선거법 등 위반 혐의로 경찰에 체포됐던 이진숙 전 방송통신위원장에 대해 법원이 4일 석방 명령을 내렸다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;span style="font-weight: bold;" serial="3327"&gt;김동현&lt;/span&gt;&amp;nbsp;서울남부지법 영장당직 부장판사는 이날 이 전 위원장이 청구한 체포적부심사 심문을 마친 뒤 이를 인용했다. 김 부장판사는 "현 단계에서 체포 필요성이 유지되지 않는다"고 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;석방 명령에 따라 이 전 위원장은 이날 오후 6시45분 영등포경찰서 유치장에서 나왔다. 그는 "경찰의 폭력적 행태를 접하고 보니 일반 시민들은 과연 어떨까 생각이 들었다"고 말했다. 이어 "경찰, 검찰이 씌운 수갑을 사법부가 풀어줬다"며 "민주주의가 조금이라도 남아 있는 것 같아 희망을 느낀다"고 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;경찰은 "법원의 결정을 존중한다"고 밝혔다. 경찰 관계자는 "수사 필요성과 체포 적법성은 인정되지만, 체포의 필요성 유지가 인정되지 않아 석방 결정한 것"이라고 했다.&lt;/p&gt;</description>
+			<pubDate>Sat, 04 Oct 2025 09:57:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212065</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212065</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212065.jpg</media:thumbnail>
+			<dc:creator>정준휘 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 연립주택 출입구 경사로 미설치, 설계상 하자라도 시공사 책임</title>
 			<description>공동주택 출입구에 장애인용 경사로를 설치하지 않은 것이 설계상 하자라 하더라도 시공사에게 하자담보책임이 있다는 법원 판단이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4338"&gt;고은설&amp;nbsp;&lt;/span&gt;부장판사)는 7월 24일 GS 건설이 국토교통부 하자심사·분쟁조정위원회를 상대로 제기한 하자판정처분 취소 소송에서 원고 패소 판결했다(&lt;b&gt;2024구합53482&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;GS 건설은 공동주택 신축공사를 도급받아 20개 동 178세대 규모의 도시형 생활주택 A단지를 시공했다.&lt;p&gt;   &lt;br /&gt;입주자대표회의는 2022년 8월 A단지 내 B동의 주출입구가 주차장 및 6m 도로와 계단으로만 연결돼 있고 경사로가 설치되지 않았다며 하자심사를 신청했다. 국토교통부 하자심사·분쟁조정위원회는 이를 하자로 판정했고 GS 건설은 이에 불복해 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 GS 건설의 청구를 받아들이지 않았다. 재판부는 △ 주택이 장애인등편의법에 따른 편의시설 설치대상시설인지 여부 △ 주택에 장애인등편의법에서 설치하도록 규정한 시설물을 설치하지 않은 하자 여부 △ 설계상의 하자로서 하자담보책임 부담 여부를 기준으로 판단했다.&lt;br /&gt;&lt;br /&gt;세대수가 10세대 이상인 연립주택은 구 장애인등편의법령상 편의시설을 설치할 의무가 있다. 재판부는 이를 바탕으로 ‘10세대 이상 여부는 전세대 수 합산이 아니라 1동 세대수를 기준으로 해야 한다며, A단지의 세대수는 8세대로 설치 대상이 아니다’는 GS 건설 측의 주장을 받아들이지 않았다. 재판부는 "A단지는 20개 동 178세대로 하나의 대지에 건설된 단지형 연립주택"이라며 “전체 세대를 기준으로 봐야 하며, 따라서 편의시설 설치 의무 대상에 해당한다”고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 재판부는 ‘A단지의 주출입구는 지하 주차장과 연결돼 단차가 없다’는 GS 건설의 주장도 반박했다. 재판부는 “주출입구는 지상 1층 출입구로 보아야 하고, 외부에서 해당 출입구까지 경사로가 없어 장애인등편의법 기준에 미달한다”고 덧붙였다. 장애인등편의법에 따르면 출입구와 접근로 사이에 단차가 있는 경우 경사로를 설치해야 한다.&lt;br /&gt;&lt;br /&gt;’경사로 미설치는 설계상 문제일 뿐 시공사 하자가 아니므로 담보책임을 부담할 수 없다’는 GS 건설 측의 주장도 받아들이지 않았다. 재판부는 “시공사가 설계도면대로 시공했더라도 법령 위반이 명백한 설계를 고지하지 않은 이상 담보책임을 면할 수 없다”며,  GS 건설은 국내 대표 건설사로서 이를 검토·보완할 의무가 있었음에도 이를 이행하지 않았다고 판단했다.&lt;/p&gt;</description>
 			<pubDate>Fri, 03 Oct 2025 03:26:28 -0000</pubDate>
@@ -227,15 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212024</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212024.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>사법 AI 시스템 기본 모듈 개발 논의</title>
-			<description>사법부 인공지능위원회(위원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 법원 인공지능(AI) 도입과 관련해 절차적·실체적·이용자 접근성 관점에서 '기본 모듈' 중심으로 개발을 추진해야 한다는 방향성을 법원행정처장에게 건의했다.&lt;br /&gt;&lt;br /&gt;대법원 법원행정처장 자문 기구인 사법부 인공지능위원회는 9월 26일 오후 4시부터 6시까지 제5차 회의를 열고 '사법 AI 시스템의 기본 모듈 중심 개발'에 관해 건의했다고 10월 1일 밝혔다.&lt;br /&gt;&lt;br /&gt;위원회는 건의문에서 법원이 재판과 사법행정 시스템에 인공지능기술을 도입하는데 △변론 자동 기록화, 온라인 분쟁 해결(ODR) 등 절차적 관점과 △분쟁 예측 AI 등 실체적 관점 △챗봇 등을 활용하는 이용자 접근성 관점을 구분해 각 관점에서 핵심 기능을 수행하는 기본 모듈을 중심으로 추진하자고 제언했다. &lt;br /&gt;&lt;br /&gt;법원은 예산과 인력, 인공지능 기술의 발전 현황 등을 고려해 도입할 수 있는 기술을 먼저 추진하고, 각 기본 모듈 간 지속 가능하게끔 종합적 설계를 진행할 필요가 있다는 것이 위원회 입장이다. &lt;br /&gt;&lt;br /&gt;위원회는 "사법부가 △재판 지연 해소 △신속·공정한 재판을 통한 국민의 기본권 보장 △사회적 약자와 소수자의 사법 접근성 제고 등을 위해 인공지능기술을 적극 활용할 필요가 있다"며 이 같이 밝혔다. &lt;br /&gt;&lt;br /&gt;이어 "인공지능은 사법제도의 신뢰성, 투명성, 신속성, 공정성, 책임성이라는 가치와 기능을 구현하고, 재판과 민원 업무, 등기·신청 등과 같은 일상적 대국민 사법 서비스 편의성의 획기적 개선을 위해 필수 불가결인 방안임을 확인했다"고 전했다.&lt;br /&gt;&lt;br /&gt;위원회는 10월 24일 오후 4시에 '사법부 AI 사업 관련 법령 및 지속가능성'에 대해 6차 회의를 개최할 예정이다.</description>
-			<pubDate>Wed, 01 Oct 2025 07:08:01 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212023</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212023</guid>
-			<dc:creator>김지수 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
