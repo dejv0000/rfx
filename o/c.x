@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[이별전쟁] 강아지가 시발점 된 이혼 소송... 결과는</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/05/CVQZTX2MXJE45HBTUFQFG6VSGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/CVQZTX2MXJE45HBTUFQFG6VSGQ/</guid>
+      <dc:creator>법무법인 시작</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Oct 2025 20:30:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;편집자주: 이 기사는 이혼 소송 과정에서 필요한 법률 지식을 제공할 목적으로 제작됐습니다. 기사 내용은 실제 사례를 각색했습니다. 기사 내 언급되는 이름과 지명 등이 실제와 같은 경우가 있더라도 이는 우연에 의한 것임을 밝힙니다.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;격주 토요일·일요일 연재.&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SX2GALAEJBJNGW4MIEOFZXMNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FLPWXZXYNNH4BC7EM4SAAWVVXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/677PGURPFJDSJOXB5DZSGRFWAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[이별전쟁] 씨 없는 수박 끝&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;다른 회차 보기&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;오리발①&lt;br&gt;&lt;br&gt;https://m.site.naver.com/1QdOc&lt;br&gt;&lt;br&gt;오리발②&lt;br&gt;&lt;br&gt;https://m.site.naver.com/1QdOt &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;이별전쟁 시즌1 끝&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;&amp;lt;더 좋은 콘텐츠로 찾아뵙겠습니다&amp;gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JHQXPJXSSVHNNCLFO4W2HMMF54.png?auth=1fa63491a5c6c399c33f8935f8ca480ca78e85b5bccba49c0db991ff8b9a0561&amp;smart=true&amp;width=1800&amp;height=1012" type="image/png" height="1012" width="1800">
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>길거리 마로니에 열매, 밤인줄 알고 먹었다간 ‘호흡곤란’… 헷갈리지 마세요</title>
       <link>https://www.chosun.com/national/national_general/2025/10/04/X6SMTAMPLJF75K4IG4MPCSXKWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/X6SMTAMPLJF75K4IG4MPCSXKWU/</guid>
@@ -1006,15 +1018,6 @@
       <description/>
       <pubDate>Wed, 01 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>기후에너지환경부가 윤석열 정부가 추진한 ‘기후 대응 댐’ 계획을 대폭 축소하면서 정책 감사를 예고했다. 이재명 대통령이 공무원을 겨냥한 정책 감사를 폐지하라고 지시했으나, 신규 댐을 비롯해 ‘디지털 교과서’ ‘의대 정원 확대’ 등 전임 정부 정책을 향해서는 칼을 빼든 것이다.&lt;br&gt;&lt;br&gt;1일 기후부에 따르면, ‘기후 대응 댐’ 추진 중단에 대해 감사 등 후속 조처가 이뤄질 예정이다. 김성환 기후부 장관은 최근 신규 댐 축소 관련 브리핑에서 “전 정부의 댐 신설 결정이 무리하게 이뤄졌다”며 “감사원 감사 등을 통해 내부적으로 되돌아볼 수 있게 조처하겠다”고 밝힌 바 있다. 정책 감사 가능성을 시사한 것이다.&lt;br&gt;&lt;br&gt;정책 감사는 노무현 정부 시절인 2003년 ‘정책의 품질을 높인다’는 취지로 시작됐으나, 전임 정부의 잘못을 끄집어내 공격하는 정치 보복의 수단으로 변질됐다는 평가를 받고 있다. 대표적 사례가 이명박, 박근혜, 문재인 정부에 걸쳐 5차례 감사가 이뤄진 ‘4대강 사업’으로, 감사원은 정권이 바뀔 때마다 다른 감사 결과를 내놓은 바 있다. 신규 댐도 ‘4대강 사업’과 같은 고강도 감사의 전철을 밟을 가능성이 커졌다.&lt;br&gt;&lt;br&gt;정책 감사가 진행될 경우 감사 대상은 기후 대응 댐 정책을 설계·마련한 기후부(전 환경부) 물관리정책실과 댐을 관리하는 한국수자원공사 등이 될 것으로 보인다. 기후부 관계자는 “감사원 감사 의뢰, 국회를 통한 감사 요구안 등 구체적으로 정해진 것은 없다”면서도 “(장관의) 감사 발언은 댐 추진 과정에 문제가 있었던 만큼 그냥 넘어갈 수는 없다는 취지”라고 했다.&lt;br&gt;&lt;br&gt;문제는 김 장관의 발언이 이재명 대통령의 ‘정책 감사 폐지’ 지시와 정면 충돌한다는 것이다. 이 대통령은 지난 7월 “정책 감사를 명목으로 열심히 일하는 공직자를 괴롭히고, 의욕을 꺾는 일은 절대로 없도록 해달라”며 폐지를 주문했고, 감사원은 22년 만에 제도를 손보기로 했다. 사익 추구, 특혜 제공 등 중대한 잘못이 없으면 공적 정책·사업 추진 과정에서 생긴 문제는 징계하지 않는 원칙을 모든 감사에 일관되게 적용하겠다는 것이다. 감사원은 제도 정비를 마치고 올 하반기부터 이를 적용하기로 했다. &lt;br&gt;&lt;br&gt;현재도 전임 정부 정책에 대한 감사원 감사는 이미 폭넓게 이뤄지고 있다. 교육부는 지난 6월부터 ‘인공지능(AI) 디지털 교과서’ 정책에 대한 강도 높은 감사원 감사를 받고 있다. 이재명 정부의 ‘1호 감사’였다. 지난 2월 국회에서 당시 야당인 민주당 주도로 AI 교과서 도입 과정에 대한 감사 요구안이 통과됐고, 정권이 바뀌자마자 바로 감사에 착수한 것이다. 교육부의 AI 디지털 교과서 추진 과정에 대한 논란, 검정 절차의 투명성과 공정성에 대해 감사를 벌이고 있다. 교육부와 보건복지부를 대상으로 한 의대 증원 감사도 현재 진행 중이다. 지난해 이뤄진 ‘2000명 의대 증원 결정 과정에 문제없는지 감사해달라’는 요구안이 지난 2월 당시 야당인 민주당 주도로 통과되면서 시작됐다. 증원 과정과 지역별, 대학별 정원 배정 과정에서 공정성, 형평성 문제가 있었는지 알아본다는 게 감사의 목적이다. 정부 관계자는 “공무원들은 정부 시책에 맞춰 정책을 입안, 추진했을 뿐인데 정치 논리로 하루아침에 죄인 취급을 받게 된 꼴”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“산업용 전기 요금 인상 억제”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/02/TSQYWR3XTVENTBM2O5D4H5X2SA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/02/TSQYWR3XTVENTBM2O5D4H5X2SA/</guid>
-      <dc:creator>박상현 기자, 전준범 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 01 Oct 2025 15:32:00 +0000</pubDate>
-      <content:encoded>김성환 기후에너지환경부 장관이 1일 “산업용 전기 요금 추가 인상을 최대한 억제할 것”이라고 밝혔다. 이재명 정부에서 공식적으로 산업용 전기 요금 인상을 자제하겠다는 발언이 나온 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;김 장관은 이날 서울 중구 상의회관에서 열린 CEO 조찬 간담회에서 “(윤석열 정부가) 가정용 전기 요금은 한 푼도 올리지 않고 산업용 전기 요금만 왕창 올렸다”며 “산업계의 전기 요금 부담이 큰 게 사실”이라고 했다. 그러면서 “어떻게든 전기 요금을 추가로 인상하는 것은 최대한 억제하려고 한다”며 “더 이상 산업계가 전기 요금 때문에 고통을 받지 않도록 해야 한다는 게 대통령의 생각이기도 하다”고 했다. &lt;br&gt;&lt;br&gt;김 장관은 “(전임 정부에서) 산업계와 가정용 전기 요금을 절반씩 부담해 올렸어야 했다”며 “전 정부가 가정용 요금을 한 푼도 올리지 않았다”고도 했다. 하지만 실제 윤석열 정부에서 가정용 전기 요금을 5회 인상했다. 반면 산업용 요금은 총 7회 올렸다. 문재인 정부 때는 임기 5년 동안 산업용과 가정용 전기 요금을 딱 한 차례만 올렸다.&lt;br&gt;&lt;br&gt;기업의 전기 요금 부담을 더는 키우지 않겠다는 김 장관 발언에 재계에선 다행이란 반응이 나왔다. 다만 일각에선 “결국 가정용 전기 요금을 올릴 수밖에 없는 것 아니냐”는 반응도 나왔다. 재생에너지는 생산 비용이 더 높기 때문에 비중이 늘어날수록 전기 요금 인상이 불가피하다. 결국 산업계 전기 요금을 올리지 않으면 가정용 전기 요금이 인상될 수밖에 없는 상황이란 것이다. 김 장관은 2035년 NDC(국가 온실가스 감축 목표) 상향과 재생에너지 확대를 공언한 상황이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
