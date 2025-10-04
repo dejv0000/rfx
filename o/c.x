@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 법원, 이진숙 체포적부심 인용… 곧 석방</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Oct 2025 09:26:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKUC63TKJBONJEXHBLBFEFKXYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 공직선거법·국가공무원법 위반 혐의로 경찰에 체포된 이진숙 전 방송통신위원장에 대해 4일 석방 명령을 내렸다. 이에 따라 이 전 위원장은 즉시 석방 수순을 밟는다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시 진행된 체포적부심사 결과 “현 단계에서는 체포의 필요성이 유지되지 않는다”며 이 전 위원장의 청구를 인용했다.&lt;br&gt;&lt;br&gt;재판부는 “기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다“며 ”이미 상당한 정도로 피의자에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 필요성도 크지 않았으며, 심문 과정에서 피의자가 성실한 출석을 약속하고 있다”고 인용 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피의사실의 범죄 성립 여부에 관해 다툼의 여지가 상당하기는 하나 수사의 필요성이 전면 부정된다고까지 보기는 어렵다”며 “피의사실 중 공직선거법 위반의 점에 대한 공소시효가 다가오고 있어 수사기관으로서는 피의자를 신속히 소환 조사할 필요가 있음은 일응 인정할 수 있고, 피의자가 수사기관의 출석 요구에 응하지 않은 것도 사실”이라고도 했다.&lt;br&gt;&lt;br&gt;또 “단기 공소시효로 인한 사안의 시급성에 비추어 피의자로서도 자신의 출석 가능한 일정을 적극적으로 밝히고 최대한 신속히 출석 요구에 응할 필요가 있었음에도 피의자의 회신 노력이 부족했음을 지적하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이어 “피의자가 사전에 스스로 약속한 마지막 출석 예정 일자에 결국 불출석하게 된 이유로 들고 있는 국회 출석이 과연 불가피한 것이었는지 의문이 남는 점 등을 고려할 때, 변호인이 제기하는 일부 의문점에 충분한 경청의 필요성이 있음에도 불구하고 체포의 적법성 자체를 부정하기는 어렵다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이 전 위원장의 청구가 인용되자 “법원의 결정을 존중한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;법원이 체포적부심사 인용 결정을 내리면서, 서울 영등포경찰서 유치장에 수감돼 있던 이 전 위원장은 곧 석방될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이진숙 체포적부심 종료… “결과 나올 때까지 봅시다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/04/HBVM35O6CJG77N2REYI7LUUFKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/HBVM35O6CJG77N2REYI7LUUFKQ/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Oct 2025 08:13:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUL5RXTYNRKBDDXDGIK5IEFULE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 전 방송통신위원장의 석방 여부를 가리는 체포적부심사가 약 1시간 30분 만에 종료됐다. 법원은 이르면 오늘(4일) 늦은 오후 결론을 낼 전망이다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시부터 공직선거법·국가공무원법 위반 혐의로 체포된 이 전 위원장의 체포적부심사를 비공개로 진행했다. 심사는 오후 4시 28분쯤 종료됐다. 이 전 위원장은 결과가 나올 때까지 서울 영등포경찰서 유치장에서 대기할 예정이다.&lt;br&gt;&lt;br&gt;이날 심문에선 경찰이 앞서 두 차례 체포 영장을 신청했지만 검찰이 반려했던 것으로 나타났다. 경찰은 이 전 위원장이 불출석 사유로 든 국회 무제한 토론(필리버스터)은 대리인이 참석할 수 있기 때문에 정당한 사유로 볼 수 없다고 주장한 것으로 전해졌다. 반면 이 전 위원장 측은 경찰이 출석 날짜를 협의해놓고도 무의미한 출석 요구를 남발해 체포 명분을 쌓았다며 반박했다고 한다.&lt;br&gt;&lt;br&gt;이날 오후 4시 37분쯤 법정에서 나온 이 전 위원장은 “이 자리에선 따로 말씀드리지 않겠다”며 “변호인이 잘 말씀드렸으리라 생각하고 결과 나올 때까지 보자”고 말한 뒤 호송차에 탑승했다. &lt;br&gt;&lt;br&gt;이 전 위원장의 변호인인 임무영 변호사는 심문을 마친 뒤 “검찰과 법원은 저희의 불출석 사유서를 보고도 체포 영장을 청구·발부했다고 한다”며 “검찰과 법원의 이런 판단에 실망스러움을 금할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;체포적부심사는 수사기관의 체포 적법성 여부를 법원이 심사하는 제도다. 법원은 청구서가 접수된 뒤부터 48시간 이내에 피의자를 심문한 뒤, 24시간 이내에 석방 여부를 결정해야 한다. 법원이 이 전 위원장의 손을 들어줄 경우 이 전 위원장은 즉시 석방된다. 반대로 체포가 정당했다고 판단하면 이 전 위원장의 체포 상태는 20시간가량 더 유지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>연휴 먹거리 자전거에 싣고 가던 70대, 화물차 추돌 사고로 숨져</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/04/SKCJQAMDZVBU3NVOARAXYGUDBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/04/SKCJQAMDZVBU3NVOARAXYGUDBM/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 04 Oct 2025 08:38:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNSQDZMY5JB3RSOGZXEAARHQYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 부산 북구 만덕동에서 전기자전거를 화물차가 들이받아 70대 자전거 운전자가 숨졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 추석 연휴 먹거리를 싣고 달리던 전기자전거를 화물차가 들이받아 70대 자전거 운전자가 숨졌다.&lt;br&gt;&lt;br&gt;4일 오전 11시 13분쯤 부산 북구 만덕동 한 교차로에서 2차로로 달리던 2.5t 화물차가 전기자전거를 들이받았다. 이 사고로 전기자전거를 타고 가던 A(70대)씨가 다쳐 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 추석 연휴 가족들이 먹을 식품을 마트에서 사서 귀가하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;화물차 기사는 “진로 변경하는 자전거를 보지 못해 사고가 났다”고 경찰에 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스 영상을 분석하는 등 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이진숙, 체포적부심 출석… “이게 李 대통령의 국민주권국가냐”</title>
       <link>https://www.chosun.com/national/national_general/2025/10/04/5YMDKAZVLFC7RA6A7ENCX3WYMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/5YMDKAZVLFC7RA6A7ENCX3WYMU/</guid>
@@ -938,15 +965,6 @@
       <content:encoded>&lt;b&gt;▲&lt;/b&gt;2일 자 A27면 ‘최장 10일 황금 연휴? 원래는 하루만 쉬었죠’ 기사에 나온 ‘제사는 보통 4대조, 즉 증조부모까지 지냈습니다’에서 ‘증조부모’를 ‘고조부모’로 바로잡습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;▲&lt;/b&gt;9월 25일 자 C3면 ‘쿠스미 망갈씨 가족…네팔 할아버지·할머니와 첫만남‘ 기사에서 ’두 딸‘은 ’두 아이’의 잘못이기에 바로잡습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>佛·獨·日도 한국처럼 검사의 상소 폭넓게 인정</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/03/EGMKXMVB5ZDNHL3PAYEFR54ACY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/EGMKXMVB5ZDNHL3PAYEFR54ACY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Oct 2025 15:55:00 +0000</pubDate>
-      <content:encoded>이재명 대통령은 지난달 30일 국무회의에서 “검사들이 되도 않는 것을 기소하고 무죄가 나오면 면책하려 항소·상고해서 국민에게 고통을 준다”면서 “무죄 판결에 상소(上訴)를 못 하게 하는 나라가 많지 않으냐”고 지적했다. 검찰의 기계적인 상소 관행에 개선이 필요하다는 취지로 해석됐다. 그러나 실제로는 미국을 제외한 상당수 국가에서 무죄 판결에 대한 검사의 상소가 가능한 것으로 나타나 향후 입법 논의 과정에서 신중한 접근이 필요하다는 주장이 법조계에서 나온다. &lt;br&gt;&lt;br&gt;한국을 비롯해 프랑스·독일·일본 등 대륙법계 국가들은 검사의 상소권을 폭넓게 인정한다. 1·2심에서 무죄가 선고돼도 검사가 이에 불복해 상소할 수 있게 한 것이다. 한국의 형사소송법도 ‘사형·무기 또는 10년 이상의 징역이나 금고가 선고된 사건’에서는 중대한 사실 오인이 인정될 경우에만 검찰의 상고가 가능하도록 일부 제한할 뿐, 대체로 무죄가 선고된 사건에 대해 검사가 상소하는 것을 제한하지 않는다. &lt;br&gt;&lt;br&gt;반면 영미법계 국가들은 무죄 판결에 대한 검사의 상소를 조건부로 허용하는 경우가 많다. 미국은 피고인이 1심 재판에서 무죄를 선고받으면 검사가 항소할 수 없게 돼 있다. 미국 헌법에 피고인이 같은 사건으로 반복해서 재판을 받으면 안 된다는 ‘이중 위험 금지’ 원칙이 있기 때문이다. 다만 배심원이 유죄 평결을 내렸는데 재판장이 무죄를 선고했을 때나, 법률 해석을 통일하기 위한 경우에 예외적으로 상소를 허용한다. 영국이나 호주는 중대 범죄에서 새로운 증거가 발견된 경우에만 검사가 상소할 수 있다. &lt;br&gt;&lt;br&gt;전문가들은 나라마다 사법 제도가 형성된 과정이 다르기 때문에 특정 국가의 사법 제도를 일률적으로 참고하는 건 무리라고 지적한다. 홍승기 인하대 로스쿨 교수는 “시대적 흐름에 맞지 않는 판결이 나왔는데 관련 입법이나 판례가 없을 경우 검찰이 상소를 통해 대법원의 판단을 받아볼 필요가 있을 때가 있다”며 “검찰의 기계적 상소를 막을 제도적 보완책은 필요하지만 상소권 자체를 없애는 건 불합리하다”고 했다. 이창현 한국외국어대 로스쿨 교수도 “영미법계는 배심원이 사실관계를 판단하지만, 한국은 법관이 사실과 법리를 함께 판단하기 때문에 같은 선상에서 비교할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;다만 한 형사 전문 변호사는 “양승태 전 대법원장, 이재용 삼성 회장 사건처럼 수십 개 혐의가 하급심에서 전부 무죄가 났는데도 검찰이 주요 혐의조차 추리지 않고 상소하는 것은 잘못된 관행”이라며 “검찰의 무리한 상소로 확정 판결이 지연되면 피고인의 신속한 재판을 받을 권리가 침해되는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>배터리 옮길때 ‘제조사 협조 구해야’ 작업 지침 안 지켰다</title>
       <link>https://www.chosun.com/national/national_general/2025/10/03/DZS3S647JRBUJF2BXMW6Z37ISY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/DZS3S647JRBUJF2BXMW6Z37ISY/</guid>
@@ -954,27 +972,6 @@
       <description/>
       <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
       <content:encoded>지난달 26일 국가정보자원관리원(정보자원관리원) 대전 본원에서 리튬이온 배터리 이전 작업을 하다가 화재가 발생한 것과 관련해, 정보자원관리원 측이 ‘이전 작업 때 제조사 협조를 구해야 한다’는 작업 지침을 지키지 않은 것으로 2일 나타났다. 정보자원관리원은 또 배터리를 이전하면서 충전율을 30%대로 낮춰야 한다는 권고를 지키지 않았고, 배터리 납품 업체의 배터리 교체 권고도 받아들이지 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;◇배터리 제조사와 소통 안 해&lt;br&gt;&lt;br&gt;이번에 화재를 일으킨 리튬이온 배터리는 LG에너지솔루션이 제조해 LG CNS가 정보자원관리원에 납품했다. 두 회사는 최근 국회 행정안전위원실에 “정보자원관리원 측과 그동안 배터리 문제로 소통한 적이 한 번도 없다”고 보고했다고 한다. LG에너지솔루션 측은 “정보자원관리원에서 사용 중인 배터리는 우리 회사 제품 중에서도 안전성이 가장 좋다고 평가받는 제품”이라며 “동일 제품의 화재 사고는 이번이 처음”이라고 설명했다. LG CNS 측도 “2014년 배터리를 납품한 후 2년의 보증 기간이 지난 2016년부터는 어떤 연락도 받지 못했다”고 했다. &lt;br&gt;&lt;br&gt;이와 관련, 지난 1월 정보자원관리원은 이번에 화재를 일으킨 ‘대전 본원 UPS(무정전 전원 공급 장치) 및 배터리 재배치 전기공사’와 관련한 시방서(작업 기준을 적은 서류)를 작성했다. 이 시방서에 따르면 ‘배터리 이설 작업은 제조사에 협조를 구해 작업 중 혹은 작업 이후에 장애가 발생하지 않도록 수행한다’는 내용이 명시돼 있다. ‘배터리에 충격이 가해지지 않도록 제조사 측의 안전 가이드에 기반해 이설한다’는 내용도 있다. 앞서 이재용 정보자원관리원장은 “시방서상에 주의할 사항 등이 들어 있었고, 그에 따라 작업을 했다”고 했지만, 실제로는 작업 지침을 어긴 채 작업을 했을 가능성이 있는 것이다.&lt;br&gt;&lt;br&gt;◇배터리 방전 권고도 안 지켜&lt;br&gt;&lt;br&gt;작업자들이 배터리 이전 작업 때 안전을 위해 제조사가 권고하는 방전을 제대로 안 한 것도 사고 원인으로 꼽힌다. 배터리 제조사에선 배터리 잔량을 25% 이하로 떨어뜨린 뒤 이전 작업을 하라고 권고한다. 정보자원관리원은 이번에 충전율이 완충에 가까운 80%인 상태에서 리튬 배터리를 5층 전산실에서 지하 1층으로 옮기려 했다. 이재용 원장은 2일 브리핑에서 “화재 이후 작업 상황을 복기하면서 (충전율이 80% 정도였던 것을) 확인했다”며 “화재와 직접 연결되는지는 말씀드리기 어렵다”고 했다. 박용성 한국ESS산업진흥회 고문은 “2~4시간 정도 방전 작업을 거쳐 배터리 충전율을 30%로 낮춰야 하는데, 정보자원관리원 작업자들은 전원을 내린 지 30분 만에 작업을 시작했다”며 “충분히 방전을 하지 않아 불안정한 상태인 배터리에서 불이 났을 가능성이 있다”고 했다. &lt;br&gt;&lt;br&gt;◇배터리 교체 권고도 수용 안 해&lt;br&gt;&lt;br&gt;배터리 제조·관리 업체들은 사용 연한을 넘긴 배터리를 교체하지 않은 것도 사고에 영향을 미쳤을 가능성을 제기한다. 2024년 UPS 공급 업체와 LG CNS가 진행한 대전 본원 정기 검사에서 LG CNS는 ‘배터리 기능은 정상이지만 사용 연한 10년이 지났으니 교체하라’고 권고했다. 한 업계 관계자는 “기존 배터리를 아예 폐기하고 새 배터리를 지하에 설치했다면 이런 대형 사고가 나지 않았을 것”이라고 했다. &lt;br&gt;&lt;br&gt;화재 원인을 수사 중인 대전경찰청은 이날 정보자원관리원과 관련 업체 3곳 등을 압수 수색했다. 경찰은 배터리 이전 작업이 절차에 맞게 진행됐는지, 배터리 전류 차단이 이뤄졌는지 등을 중점적으로 조사 중이다. 경찰 관계자는 “이번 화재가 작업자 과실로 발생한 것으로 보인다”고 했다. 경찰은 전날 화재 당시 작업자 등 4명을 업무상 실화(失火) 혐의로 입건했다. &lt;br&gt;&lt;br&gt;◇화재 발생 일주일, 복구율 17.8%&lt;br&gt;&lt;br&gt;행정안전부는 화재로 중단된 시스템 647개 중 115개(17.8%)를 이날까지 복구했다고 밝혔다. 복구 속도가 더디다는 지적과 관련해 김민재 행안부 차관은 “화재 영향이 적은 전산실(2~4층)의 시스템도 불이 난 5층 7·8전산실과 연계된 경우가 많은 탓”이라고 했다. 행안부는 국민신문고 시스템이 불에 타 소비 쿠폰 사용 문의 등이 지연되는 것과 관련해선 “과거에 쓰던 지방자치단체의 온라인 상담 창구를 복원해 일시적으로 쓰겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>편의점도, 카페도 없는 곳인데… 낭만 가득 ‘영화 섬’ 된 통영 추도</title>
-      <link>https://www.chosun.com/national/regional/2025/10/03/QOH3A32Z2ZBWFNGSB5YJ2DSSXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/03/QOH3A32Z2ZBWFNGSB5YJ2DSSXM/</guid>
-      <dc:creator>통영=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4YI7NI6NVHPJP4TWMFNOBQ6OA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 오후 경남 통영시 추도에서 ‘섬 영화제’가 열렸다. 남해 바다를 배경으로 야외 영화관을 만들었다./권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 26~28일 경남 통영시 추도(楸島)에서 ‘제2회 추도 섬 영화제’가 열렸다. 섬마을 공터에 300인치 스크린을 세우고 캠핑 의자 100개를 놨다. 남해의 낙조를 배경으로 사흘간 영화 14편이 상영됐다. 전국에서 온 관객 49명은 팝콘과 콜라 대신 마을 주민들이 내놓은 어묵탕과 가오리무침을 들었다. 광주광역시에서 온 50대 관객 이모씨는 “가을밤 바다 냄새 맡으며 영화를 볼 수 있는 곳은 세상에서 추도뿐일 것”이라고 했다. &lt;br&gt;&lt;br&gt;추도는 통영에서 배를 타고 1시간 10분 거리에 있는 작은 섬이다. 주민 80여 명이 산다. 편의점이나 카페도 없다.&lt;br&gt;&lt;br&gt;추도는 원래 ‘물메기’로 유명했다. 꼼칫과 물고기인 물메기는 겨울에만 잡히는 별미다. 살이 부드럽고 물러 보양탕으로 먹는다. 지구온난화 여파로 수온이 상승하며 2018년 이후 어획량이 급감했다. 젊은이들은 다 떠나고 60·70대만 남았다. &lt;br&gt;&lt;br&gt;5년 전 전수일 영화감독이 추도로 이사 오면서 ‘영화의 섬’을 만들자는 아이디어를 냈다. 여기에 경남도와 통영시가 힘을 보탰다. 전 감독은 낚시를 좋아해 여러 섬을 다니다 추도의 고요한 풍경에 반해 눌러살게 됐다고 한다. &lt;br&gt;&lt;br&gt;작년에 1회 영화제가 열려 영화 마니아들 사이에서 입소문이 퍼졌다. 올해는 관객 49명을 모집하는데 250여 명이 몰렸다. 묵을 수 있는 민박집이 13채밖에 없어 더 받을 수도 없다.&lt;br&gt;&lt;br&gt;관객들은 1인당 10만원을 내고 영화제를 즐긴다. 2박 숙박비와 식비가 포함된 가격이다. &lt;br&gt;&lt;br&gt;2년 연속 영화제에 참여한 김민경 감독은 “지난해 영화제 덕분에 처음 추도를 알게 됐다”며 “몽환적인 분위기에 매료돼 올해도 단편 영화를 출품했다”고 했다.&lt;br&gt;&lt;br&gt;주민들은 “텅 비었던 섬이 관객들로 붐비니 흐뭇하다”며 “물메기 빈자리를 관객들이 채우고 있다”고 했다. 추도를 찾은 방문객은 2019년 7775명에서 지난해 9715명으로 늘어났다. 올해는 1만명을 넘을 것으로 예상한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T4YI7NI6NVHPJP4TWMFNOBQ6OA.jpg?auth=9512f017fd56decb9791ea10675f7af4c321cc3544f58930ac22c1f79bf4cfc1&amp;smart=true&amp;width=1339&amp;height=785" type="image/jpeg" height="785" width="1339">
-        <media:description type="plain">지난달 26일 오후 경남 통영시 추도에서 ‘섬 영화제’가 열렸다. 남해 바다를 배경으로 야외 영화관을 만들었다./권태완 기자</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>인천공항 보안검색팀도 “추석 추가근무 거부”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/03/DYNPONXZ5BCSPMFPJQL7NYYPRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/03/DYNPONXZ5BCSPMFPJQL7NYYPRQ/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 02 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXPQYYOSFZHNJBDDNY4P7Y3NHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 인천국제공항 제1터미널을 찾은 여행객들이 출국 절차를 위해 길게 줄을 서서 차례를 기다리는 모습. 이번 추석 연휴 기간 하루 평균 22만명 이상이 인천공항을 이용할 것으로 전망된다. 하지만 공항노동자연대가 전날 파업에 들어간 데 이어, 보안 검색 요원들도 3일부터 추가 근무를 거부하면서 공항이 더욱 혼잡해질 것으로 보인다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 오전 8시 인천국제공항 1여객터미널. 출국장이 있는 3층엔 30m가량 대기 줄이 곳곳에 늘어져 있었다. 최대 열흘간의 추석 황금연휴 기간을 해외에서 보내려는 여행객들이 일찌감치 공항을 찾은 것이다. 여기에 전국공항노동자연대 소속 2000여 명이 전날부터 파업에 돌입했다는 소식도 여행객들의 발걸음을 재촉했다고 한다. 일본으로 출국하는 서민정(31)씨는 “공항 파업 뉴스를 보고 붐빌 것을 예상하고 평소보다 공항에 일찍 도착했다”고 했다. 가족들과 미국으로 여행을 간다는 김형인(42)씨는 “체크인 카운터를 기존보다 한 시간 일찍 열었다고 들었지만, 별 효과는 없어 보인다”고 했다.&lt;br&gt;&lt;br&gt;인천국제공항 혼잡도는 3일부터 더 심해질 전망이다. 출국할 때 가장 시간이 많이 걸리고 붐비는 곳이 바로 보안 검색대인데, 해당 업무를 담당하는 보안 검색 요원들이 2일 “추석 연휴 기간(3~12일) 추가 근무를 하지 않겠다”고 밝혔기 때문이다. 성수기나 명절 기간에는 보안 검색 요원들이 급증한 공항 이용객들 때문에 추가 근무를 해왔지만, 이번에는 이를 거부하고 평시 체제로만 근무하겠다는 것이다. 이를 놓고 “이달 1일부터 총파업을 선언한 전국공항노동자연대에 힘을 실어주려는 것”이란 해석이 나온다. 현행법상 ‘필수 유지 인력’으로 분류된 보안 검색 요원들은 파업 참여가 불가능하다. 이에 추가 근무를 하지 않는 ‘우회’ 방식으로 파업에 준하는 효과를 내려 한다는 분석이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QFDORJL7JHSPK5357VYR2NLEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공민천 보안검색통합노조위원장은 이날 본지 통화에서 “매년, 설, 추석 연휴 등에 휴무자가 쉬지 않고 추가 인력으로 투입했지만 정작 인력 충원은 제대로 이뤄지지 않았다”며 “그럼에도 인천국제공항공사 측은 노조 규탄만 하고 있어 행동에 나서는 것”이라고 했다. 당초 보안 검색 요원들이 소속된 인천국제공항보안 측은 하루당 40~50명의 추가 근무자를 투입할 계획이었다. 일일이 승객과 짐을 검색하는 업무 특성상 보안 검색 요원이 많아야 대기 줄이 빨리 줄어들 수 있기 때문이다. 그러나 노조가 반대해 추가 근무 투입은 어려워졌다.&lt;br&gt;&lt;br&gt;인천공항공사는 발등에 불이 떨어졌다. 인천공항에는 이번 연휴 기간 역대 최고인 일평균 22만3000명의 여객이 몰릴 예정인데, 그중에서도 가장 이용객이 많은 날이 3~4일이기 때문이다. 전날부터 무기한 총파업에 들어간 전국공항노동자연대도 이날 이틀째 파업을 이어갔다. 한 항공업계 관계자는 “국토교통부가 최대 10일간 이어지는 이번 연휴의 혼잡도를 줄이기 위해 출국장 오픈 시간을 1시간 앞당겼는데, 보안 검색 요원이 추가 근무를 하지 않겠다는 건 사실상 이를 무력화시키는 조치”라고 했다.&lt;br&gt;&lt;br&gt;보안 검색 요원이 추가 근무를 거부한 건 증원과 관련한 이견 때문이다. 인천공항공사와 보안 검색 노조 측은 인력 증원을 두고 다퉈왔다. 지난해 말 인천공항 4단계 확장 사업이 마무리된 후, 보안 검색 인원은 119명 늘었다. 그러나 노조 측은 250명가량이 더 필요하다는 입장이다. 이에 대해 인천공항공사 측은 “증원 수는 수요를 바탕으로 한 논의를 통해 이뤄진 것으로, 피크 시간대 제외 시 대기가 많지 않다는 것도 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;인천공항공사는 혼잡도 증가는 불가피하지만, 승객들이 공항에 4~5시간 일찍 갈 필요는 없다고 말한다. 공항 측은 “평소대로 3시간가량 전에 공항에 도착해 달라”고 권고하고 있다. 올 설 연휴 기간 신형 보안 검색 장비 도입 등으로 보안 검색이 늦어지며 공항이 북새통을 이뤘는데, 이용객들이 5시간 이상 일찍 와 줄을 서면서 오히려 대기 줄을 더 길게 했다는 분석이 많았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>어제 개장한 창원 빅트리, ’344억 흉물 논란' 여전</title>
