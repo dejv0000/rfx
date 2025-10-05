@@ -13,6 +13,67 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title> 이진숙 긴급 체포 이유가 공소시효? 李측 “9년 넘게 남았다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/05/4BN6WOJ2TVFHRGZTUTV7KB6ZYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/4BN6WOJ2TVFHRGZTUTV7KB6ZYE/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 05:44:48 +0000</pubDate>
+      <content:encoded>경찰이 이진숙 전 방송통신위원장을 체포한 것에 대해 “공직선거법상 공소시효가 얼마 남지 않았기 때문”이라는 이유를 댄 것으로 전해졌다. 이 전 위원장 측은 “법리에 따르면 이 전 위원장의 공소시효는 10년”이라며 “기본적인 법률 관계도 확인하지 않은 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMGUOLOENXTFFYOCJF26BENG3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 위원장의 법률 대리인을 맡고 있는 임무영 변호사는 5일 소셜미디어에 글을 올려 “4일 체포적부심사청구 심문 과정에서 경찰, 검찰은 공직선거법 공소시효가 12월 3일까지이기 때문에, 시기가 촉박해 체포의 필요성이 있다고 주장했다”고 밝혔다. &lt;br&gt;&lt;br&gt;일반적으로 공직선거법의 공소시효는 6개월이다. 경찰은 이 위원장의 발언이 지난 6월 대통령 선거에 영향을 미치려 했다는 혐의를 적용하고 있다. 이에 따라 대통령 선거가 치러진 지난 6월 3일에서 6개월 후인 12월 3일이 되면 공소시효가 지나 기소가 불가능해지기 때문에, 신속한 조사를 위해 체포가 불가피했다는 것이다. 경찰 관계자는 “이 전 위원장 체포 당시 공소시효도 고려한 것은 사실”이라고 했다. &lt;br&gt;&lt;br&gt;임 변호사는 이 같은 주장에 대해 “엉터리”라고 했다. 공직선거법상 공소시효가 6개월인 것은 맞지만, 공무원이 직무와 관련해 선거법을 위반했을 경우 이에 대한 공소시효는 10년까지 늘어난다는 것이다.&lt;br&gt;&lt;br&gt;그는 “경찰과 검찰은 이 전 위원장이 직무를 이용해 선거에 영향을 끼쳤다고 보고 있기 때문에 남은 공소시효는 적어도 9년 6개월 이상”이라며 “기본적인 법률 관계도 확인하지 않고 체포영장을 신청한 경찰이나, 그걸 청구하는 검찰을 신뢰할 수 있을지 의문”이라고 했다. 이에 대해 경찰 관계자는 “공소시효를 어떻게 보느냐는 법리 판단에 따라 달라질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장 체포에 앞서 경찰의 출석 요구서가 수차례 발송된 것도 공소시효가 촉박했기 때문으로 전해졌다. 임 변호사는 앞서 “이 전 위원장이 9월 27일에 경찰에 출석하기로 9월 9일 오전에 합의를 했다”며 “하지만 합의 이후인 9월 9일 오후와 12일에 출석요구서가 또 발송됐고, 이 전 위원장이 이에 불응했다는 것이 경찰 주장”이라고 했었다. &lt;br&gt;&lt;br&gt;임 변호사는 이에 대해서도 소셜미디어에 다시 글을 올렸다. 그는 “체포적부심을 받으며 해명을 요청했더니, 검찰 측으로부터 ‘공소시효가 촉박했기 때문에 이 전 위원장이 약속을 지키지 않을 것에 대비해 경찰이 예비적으로 출석을 요구한 것’이라는 해명이 나왔다”며 “터무니없고 상식에 반하는 주장”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QA73YKVJQJDM7C5TSDVBKXERV4.JPG?auth=543a91e9cdbe3e590d53072e251920abab0a86b60fbb26c7b97f6e1260f12e08&amp;smart=true&amp;width=3251&amp;height=1829" type="image/jpeg" height="1829" width="3251">
+        <media:description type="plain">이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. 2025.10.4/뉴스1 ⓒ News1 신윤하 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 신윤하 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>추석 연휴 내내 전국 가을비... “중부지방 보름달 보기 어려워요”</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/05/XKV2TVGM3VFSLGP3CU4EAJHOOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/05/XKV2TVGM3VFSLGP3CU4EAJHOOE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 07:07:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FENF62K45RIIHIBVOV4ION5AFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추석 명절을 하루 앞둔 5일 오전 서울 광화문 앞에서 외국인 관광객과 시민들이 우산을 들고 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석인 6일 전국에 비가 내리겠다. 중부지방은 보름달을 볼 수 없겠고, 남부지방과 제주에선 구름 사이로 옅은 달빛을 볼 수 있을 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 산둥반도 부근에서 서해상으로 이동하는 기압골의 영향으로 6~7일 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6~7일 예상 강수량은 서울·경기 10~40㎜, 인천 20~60㎜, 강원·충청 10~40㎜, 전북 5~30㎜, 광주·전남 5~10㎜, 대구·경북 5~10㎜, 부산·울산·경남과 제주 5㎜로 예보됐다.&lt;br&gt;&lt;br&gt;6일에는 오락가락 비가 내리는 가운데 전국이 대체로 흐리겠다. 남부지방과 제주는 비가 소강 상태를 보이는 곳이 있겠다. 이에 보름달은 남부와 제주에서만 관측이 가능할 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 주요 도시 월출 시각은 서울 오후 5시 32분, 강릉 오후 5시 24분, 대전 오후 5시 30분, 대구 오후 5시 26분, 부산 오후 5시 24분, 광주 오후 5시 33분, 제주 오후 5시 35분으로 예상된다.&lt;br&gt;&lt;br&gt;8일에는 전국이 고기압 가장자리에 들며 대체로 흐리겠다. 9일에도 대체로 흐린 가운데 강원영동에 비가 내리겠다.&lt;br&gt;&lt;br&gt;이후 10일에는 강원영동, 11일에는 수도권과 강원도에 비 소식이 있다. 일요일인 12일부터 15일까지는 비 소식 없이 전국에 구름이 많을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 태안 갯벌에서 해루질 중 실종 70대 여성 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/05/KEBCQMTTFFEC5PWI5B767DB4AY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/KEBCQMTTFFEC5PWI5B767DB4AY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 06:15:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MC65PG4M6WAZTHUHQKDETKJEZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 5일 태안 남면 진산리 갯벌에서 해루질 중 실종된 70대 여성을 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;충남 태안의 한 갯벌에서 해루질 중 실종된 70대 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;태안해양경찰서는 5일 낮 12시 45분쯤 충남 태안군 남면 진산리의 한 갯벌에서 70대 여성 A씨가 숨진 채 발견됐다고 밝혔다. 해경은 전날 오후 8시 40분쯤 “A씨가 해루질을 하다가 연락이 끊겼다”는 가족의 신고를 받고 연안 구조대와 함정 등을 투입해 수색에 나섰다.&lt;br&gt;&lt;br&gt;A씨는 이날 낮 12시 35분쯤 해경과 함께 수색에 투입된 소방당국의 드론에 발견됐다. A씨는 구조 당시 숨진 상태였던 것으로 전해졌다. 해경은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MC65PG4M6WAZTHUHQKDETKJEZA.jpg?auth=7895211522cd1359f46fa3c6361018e79acc51b7bf204bb47d1fa07402e7175e&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
+        <media:description type="plain">5일 태안 남면 진산리 갯벌에서 해경이 해루질 중 숨진 70대 여성을 발견한 뒤 인양하고 있는 모습. (태안해경 제공, 재판매 및 DB금지) / 뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“살기 어려워서 술김에…” 자신 집에 불 지른 50대 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/05/GKHKCUDAWVAYJOOGCBNXANTMSY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/GKHKCUDAWVAYJOOGCBNXANTMSY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 05:30:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE7LZDJKTDCFSAABBJ7IIZDI7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 11시 6분쯤 경기 평택시 안중읍의 한 주택에서 불이 나 소방대원이 화재를 진압하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 자신의 집에 불을 지른 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 5일 “현주건조물 방화 혐의로 50대 A씨를 현행범으로 체포해 조사 중이다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 11시 6분쯤 경기 평택시 안중읍 자신의 단독주택에 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 “불이 났다”는 이웃의 신고를 받고 출동해 이날 오후 11시 46분쯤 화재를 진압했다. A씨는 집에 혼자 머무르고 있었고, 불이 난 뒤 대피했다. 인명 피해는 일어나지 않았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “살기 어려워 술김에 불을 질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨를 상대로 자세한 범행 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LE7LZDJKTDCFSAABBJ7IIZDI7Q.jpg?auth=d4e7059ec4800795a2c39412f2e3dcc1dd5fce8f546799594ebf615666a65d4e&amp;smart=true&amp;width=1280&amp;height=960" type="image/jpeg" height="960" width="1280">
+        <media:description type="plain">지난 4일 오후 11시 6분쯤 경기 평택시 안중읍의 한 주택에서 불이 나 소방대원이 화재를 진압하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>테이프로 옷 속에 마약 묶어 밀반입 20대 2명 항소심도 중형</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/05/ACCVFF6DKNDV7LESHOIGCNF5L4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/ACCVFF6DKNDV7LESHOIGCNF5L4/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 05:12:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDBR42C5LFC67T2PILJ2QJKSLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옷 속에 마약을 숨겨 태국에서 국내로 밀반입한 20대 2명이 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 수원고법 형사2-3부(재판장 박광서)는 최근 특정범죄 가중처벌 등에 관한 법률 위반·마약류 관리에 관한 법률 위반 등 혐의로 기소된 20대 A씨 등 2명에 대한 항소심에서 징역 10년과 징역 8년을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 작년 9월 태국에서 필로폰 825g, 케타민 405g, 액상 대마 1000㎖ 등 마약류를 아랫배 등 부위에 테이프로 묶어 국내에 밀반입한 혐의로 재판에 넘겨졌다. 이들은 앞서 1심에서 징역 10년과 징역 8년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;이들은 마약류 판매상에게 이른바 ‘지게꾼’으로 불리는 배달책 역할을 제안받고 범행에 가담한 것으로 조사됐다. A씨 측은 재판 과정에서 “경계선 지능 장애로 사물을 변별할 능력이나 의사를 결정할 능력이 미약한 상태에 있었다”는 취지의 주장을 했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “피고인들이 수입한 마약류 종류가 다양하고 양도 상당히 많다”며 “A 피고인은 상선의 협박에 못 이겨 범행에 이르게 됐다고 주장하나 범행 대가로 돈을 받거나 돈을 받기로 한 점에 비춰 보면 자신의 경제적 이익을 위해 자발적으로 이 사건 범행을 저지른 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IDBR42C5LFC67T2PILJ2QJKSLY.jpg?auth=8a73977381874d516fdf8a335c2db9113ae9946c1b4f4ac4dce77ec7b981dd93&amp;smart=true&amp;width=6468&amp;height=4312" type="image/jpeg" height="4312" width="6468">
+        <media:description type="plain">수원법원종합청사. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>‘3500억대 태양광 사기’ 마이더스 전 대표 대법서 징역 16년 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</guid>
@@ -937,15 +998,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HD5ZSTF4XUVWNRMKBABJAQVBFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 ‘장애인 의무 고용’을 지키지 않아 5년간 장애인 고용부담금으로 100억원 이상 낸 것으로 나타났다. 장애인고용촉진법에 따라 국가나 공공기관은 전체 국가공무원 중 일정 비율(3.8%) 이상을 장애인으로 고용해야 한다.&lt;br&gt;&lt;br&gt;3일 법원행정처가 더불어민주당 박지원 의원에게 제출한 자료를 보면 대법원은 장애인 고용 의무 제도가 도입된 2020년부터 매년 의무 고용 비율을 채우지 못해 지금까지 104억4084만원의 고용부담금을 납부했다. 올 6월 기준 전국 법원 전체 공무원 정원은 1만7748명인데 이 가운데 장애인은 463명(2.6%)에 그쳤다. &lt;br&gt;&lt;br&gt;법이 정한 장애인 의무고용비율을 채우지 못하면, 모자란 고용 인원에 비례해 이듬해 한국장애인고용공단에 ‘장애인 고용부담금’을 내야 한다. 대법원의 의무고용인원 대비 고용률은 2020년 80.7%에서 매년 낮아져 올 상반기 68.5%까지 떨어졌다. 이에 △2021년 13억7438만원 △2022년 14억5427만원 △2023년 20억5407만원 △2024년 24억5725만원 △2025년 31억85만원 등 부담금은 매년 높아졌다. &lt;br&gt;&lt;br&gt;박지원 의원은 “장애인 등 사회적 약자를 보호하고 지원해야 할 사법부의 장애인 의무 고용률이 매년 하락하는 것은 시대 흐름에 역행하는 것으로 사법부의 진지한 성찰이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>허위 발언으로 고발당한 김석준 부산교육감... 검찰 ‘무혐의’ </title>
-      <link>https://www.chosun.com/national/incident/2025/10/03/Q5CUR42GNRG7DIKXSX6D3YOE4A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/03/Q5CUR42GNRG7DIKXSX6D3YOE4A/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 07:56:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NE5TVZ35MFDN5OXIMTBCK2HYOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4·2 재선거에서 당선된 김석준 부산시 교육감이 3일 오전 취임식을 하고 있다./부산시교육청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김석준 부산시 교육감이 지난 4·2 교육감 재선거 과정에서 한 발언으로 고발된 사건이 무혐의로 종결됐다. &lt;br&gt;&lt;br&gt;3일 부산시교육청에 따르면, 지난 1일 부산지검 공공·국제범죄수사부(부장 하용만)는 김 교육감의 지방교육자치에 관한 법률 위반 혐의에 대해 무혐의로 종결 처분을 내렸다.&lt;br&gt;&lt;br&gt;김 교육감은 지난 4월 2일 치러진 부산시교육감 재선거를 앞두고 진행한 여러 언론 인터뷰에서 허위 사실을 공표한 혐의를 받았다.&lt;br&gt;&lt;br&gt;김 교육감은 앞서 교육감으로 재직 중이던 2018년 국가보안법 위반 혐의로 유죄를 받아 해직된 교사 4명을 비정상적인 방법으로 채용한 혐의로 불구속 기소돼 재판을 받고 있었다.&lt;br&gt;&lt;br&gt;김 교육감은 부산시교육감 재선거 과정에서 이러한 혐의에 대해 “표적 감사와 짜 맞추기 수사, 정치적 기소”라면서 “사법 리스크는 없다”는 취지로 말했다. &lt;br&gt;&lt;br&gt;이에 부산 지역 한 시민단체가 “김 교육감의 발언은 허위 사실”이라며 수사기관에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 부부 구치소서 첫 명절... 특식도 변호인 접견도 없다</title>
       <link>https://www.chosun.com/national/court_law/2025/10/03/AAVRIWTRUBFZ5LK3VNENBCAI4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/AAVRIWTRUBFZ5LK3VNENBCAI4I/</guid>
@@ -953,33 +1005,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 07:19:37 +0000</pubDate>
       <content:encoded>특검 수사로 구속된 윤석열 전 대통령 부부가 구치소 안에서 첫 명절을 맞게 됐다. 이번 추석엔 통상적으로 지급되던 특식은 없다고 한다. 변호인 접견도 할 수 없다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WGZDHSE3LNYZPFLZYL42M5UTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 본지 취재를 종합하면, 교정본부는 이번 추석 연휴 때는 특식을 지급하지 않기로 했다. 교정본부 예산이 넉넉하지 않아 특식을 준비하긴 어렵다는 것이다. 다만 매 명절마다 각계에서 기부하는 과일 등 간식이 있어, 이를 대신 나눠줄 예정이다. 김건희 여사가 수감돼 있는 서울남부구치소는 송편과 사과, 바나나 등을 수용자들에게 지급할 계획이다. 그러나 윤 전 대통령이 수감된 서울구치소는 별도의 간식을 지급할 계획이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이 외에 식사는 모두 주 단위로 계획된 구치소 식단에 맞춰 지급된다. 교정본부는 각 수용 시설별로 1주 단위 식단표를 매달 준비한다. 윤 전 대통령은 추석 당일 아침 식사로 미니 치즈빵·삶은 달걀, 종합 견과와 두유를 받는다. 점심에는 돼지갈비찜과 유부우동국, 양념고추지를 받고, 저녁엔 꽁치김치조림과 소고기무국으로 식사를 하게 된다. 같은 날 김 여사는 아침 식사로 두부김칫국과 오복지무침, 김자반볶음, 총각김치를 받는다. 점심엔 청국장과 달걀 프라이, 무생채, 비빔나물이 나오고, 저녁엔 소고기매운국과 잡채, 열무된장조림, 배추김치가 제공된다. 한 끼당 단가는 1733원이다.&lt;br&gt;&lt;br&gt;한편 교정본부는 이번 연휴 기간이 7일로 긴 점을 고려해 오는 4일에도 가족을 만날 수 있는 일반 접견을 1회 허용하기로 했다. 다만 연휴 기간에는 변호인 접견은 가질 수 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>84세 강부자, 오랜만에 방송서 근황 공개… “나는 아직도 청춘”</title>
-      <link>https://www.chosun.com/national/people/2025/10/03/BAOCCJENEZDOJNCUS4C6HNIT6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/03/BAOCCJENEZDOJNCUS4C6HNIT6M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 05:43:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QEJTYXFGVBEZDQQZJFICXICEE.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 강부자./KBS 1TV '아침마당'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘국민 배우’ 강부자(84)가 오랜만에 방송에 출연해 근황을 공개했다.&lt;br&gt;&lt;br&gt;3일 방송된 KBS 1TV ‘아침마당–1만 회 기획 시청자와 만날 아침마당’에는 강부자를 비롯해 배우 김성환, 가수 김연자, 밴드 몽니 김신의, 리베란테(김지훈·진원·노현우), 청소년 가수 박성온·빈예서·황민호가 출연했다. 강부자는 김성환·김연자의 부축을 받으며 무대에 올라 관객을 향해 따뜻한 인사를 건넸다.&lt;br&gt;&lt;br&gt;강부자는 “세계적으로도 1만 회 방송은 없을 것이다. 저는 그렇게 생각한다. 모두 시청자와 국민 여러분 덕분이다. 제작진 여러분도 수고가 많으시다”라며 “‛아침마당’은 문화유산으로 등재되어야 한다. 1만 회를 지나서 2만 회, 3만 회 영원히 오래오래 이어지길 바란다. 축하드린다”고 말했다.&lt;br&gt;&lt;br&gt;이어 11세 황민호가 ‘청춘을 돌려다오’를 부르자 강부자는 “그 노래는 내가 해야지, 네가 하면 되겠니”라며“세 친구가 나와서 노래하는데, 이 아이들이 성인이 되어 날아다닐 즈음 우리는 이 세상에 없을 것 같아 기특하고, 고맙고, 그래서 울컥했다”며 눈시울을 붉혔다.&lt;br&gt;&lt;br&gt;강부자는 “나는 아직도 청춘이다. 청춘을 돌려달라고 하고 싶지 않다”고 말한 뒤, ‘봄날은 간다’를 앉은 채로 열창했다. &lt;br&gt;&lt;br&gt;1941년생인 강부자는 1962년 KBS 2기 공채 탤런트로 데뷔한 뒤 수많은 작품에서 활약하며 ‘국민 배우’로 자리매김했다. 현재는 KBS 1TV ‘동네 한 바퀴’ 내레이션을 맡아 활동을 이어가고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구의료원, 5~7일 소아청소년·내과 전문의 외래 진료</title>
-      <link>https://www.chosun.com/national/regional/2025/10/03/3LGEP2KO3BB2BGZL53QQHKUATE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/03/3LGEP2KO3BB2BGZL53QQHKUATE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 07:11:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4DBAFLN3IZIMOI55GOMETKLT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구의료원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의료원은 추석 연휴인 5~7일 소아청소년과, 내과 전문의 외래 진료를 진행한다고 3일 밝혔다. 응급실은 이 기간 24시간 운영한다. &lt;br&gt;&lt;br&gt;내과 진료는 이 기간 오전 8시 30분부터 오후 5시 30분까지 전문가가 맡아서 진행한다. 소아청소년과는 5일과 7일에는 오전 8시 30분부터 오후 12시 30분까지, 6일에는 오후 1시 30분부터 오후 5시 30분까지 이뤄진다. 이 기간은 오후 12시 30분부터 1시간은 점심시간으로 운영한다. &lt;br&gt;&lt;br&gt;대구의료원 관계자는 “진료가 필요한 환자는 대구의료원 본관 1층으로 오면 된다”고 말했다. &lt;br&gt;&lt;br&gt;또 대구의료원 인근 약국 3곳과 협력해 추석 연휴 기간 외래 진료 후에도 약을 처방받을 수 있도록 대비했다. 응급실 운영도 강화했다. 응급 상황 및 각종 사고에 대응하기 위해 비상 진료 계획을 수립하고 응급실 의료 인력과 필요 장비를 확충했다고 대구의료원은 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산서 유압 기계에 깔린 50대 공장 직원 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/10/03/2OVIBHHVGJARZFQFMWZSGTJYPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/03/2OVIBHHVGJARZFQFMWZSGTJYPE/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 06:34:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43EXQZRQVZH2XON67ELA5OB2EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 현장. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날 부산의 한 공장에서 일하던 50대 직원이 기계에 깔려 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;3일 부산 사상경찰서에 따르면, 이날 오전 8시 54분쯤 부산 사상구 한 선박 부품 제조 공장에서 A씨가 유압 기계를 옮기다 깔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;의식이 없는 상태로 병원으로 이송된 A씨는 사고 발생 약 20분 만인 오전 9시 4분쯤 숨졌다. A씨가 일하던 공장은 이날 오전까지 가동한 뒤 오후부터 추석 연휴에 들어갈 예정이었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 현장 관계자 등을 상대로 정확한 사고 경위를 조사하는 한편 중대재해 처벌 등에 관한 법률 위반 여부도 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한가위, 귀성길은 비오고 귀경길은 흐려...달은 구름 속에</title>
@@ -1007,15 +1032,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 02:13:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3E7Y5BPZJ2X6I6OCHLS7UPEEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 수사를 맡은 조은석 특별검사(왼쪽부터)와 윤석열 전 대통령의 부인 김건희 여사 의혹 수사를 맡은 민중기 특별검사, 해병대원 순직사건 관련 의혹 수사를 맡은 이명현 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3대 특검(내란·김건희·해병)이 출범 이후 3개월간 1만9000여 건의 통신조회를 한 것으로 확인됐다. 순직해병특검의 통신조회 건수는 1만 209건으로, 3대 특검 중 가장 많았다.&lt;br&gt;&lt;br&gt;3일 신성범 국민의힘 의원실이 이동통신 3사(SK텔레콤·KT·LG유플러스)에서 제출받은 자료에 따르면 3대 특검은 지난 6월부터 9월 22일까지 총 1만8982건의 통신조회를 했다.&lt;br&gt;&lt;br&gt;3대 특검 중에선 순직 해병 특검이 1만209건으로 가장 많았다. 이어 내란 특검(7815건), 김건희 특검(958건) 순이었다. &lt;br&gt;&lt;br&gt;통신사별로는 SK텔레콤이 내란 특검에 4031건, 해병 특검과 김건희 특검에 각각 5284건과 459건을 보냈다. KT는 내란 특검 2287건, 해병 특검 3362건, 김건희 특검 316건을 각각 제공했다. LG유플러스는 내란 특검 1497건, 해병 특검 1563건, 김건희 특검 183건을 보냈다.&lt;br&gt;&lt;br&gt;통신조회를 통해 수사기관은 기본 인적정보인 통신이용자 정보를 확인할 수 있다. 이용자의 이름, 주소, 주민등록번호, 가입일 또는 해지일 등이 포함된다. 전기통신사업법에 따르면 통신이용자 정보는 법원 허가 없이 수사기관의 요청에 통신사가 응하는 방식으로 제공할 수 있다. 반면 구체적인 통화 일시·내역, 위치 등을 살펴볼 수 있는 통신사실 확인자료는 법원의 영장이 필요하다.&lt;br&gt;&lt;br&gt;수사기관은 통신조회를 할 경우 전기통신사업법에 따라 통신자료 조회 사실을 30일 내에 당사자들에게 알려야 한다. 하지만 통신조회 사실 통보는 3개월씩 두 차례 유예할 수 있어 수사기관이 최대 7개월 뒤 이를 당사자에게 통지할 수 있다. 최근 검찰에서는 1년 뒤에야 통지가 된 경우도 있었다.&lt;br&gt;&lt;br&gt;신성범 의원은 “개인정보가 담긴 통신 조회는 수사나 방첩 목적으로 필요할 경우 최소한에 그쳐야한다”며 “특검 역시 성역일 수 없다. 수사기관의 무분별한 통신조회 관행을 개선할 합리적인 통제장치가 반드시 필요하다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 세계라면축제 대표 사기 혐의로 불구속 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/10/03/AOUHRTI4VNEJTB7RKA7F5W5APQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/03/AOUHRTI4VNEJTB7RKA7F5W5APQ/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 02:39:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 부산에서 열린 세계라면축제 운영 업체 관계자들이 투자자와 협력업체에 투자금과 공사 대금을 주지 않은 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 기장경찰서는 사기 등 혐의로 축제 운영사 대표 50대 남성 A씨 등 2명을 검찰에 불구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨 등은 지난 5월 부산 기장군 오시리아 관광단지에서 열린 세계라면축제 관련 투자자와 협력업체 등 14곳에 8억원 상당의 투자금과 공사 대금을 주지 않은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;아울러 A씨 등은 군청으로부터 영업 허가받지 않고 축제에서 식음료 판매 시설 4곳을 운영한 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;한편 부산 기장군에서 열린 세계라면축제는 축제 기간 내내 부실한 행사 준비와 운영으로 방문객들의 수많은 혹평을 받다가 행사 기간도 채우지 못하고 끝났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>어제 개장한 창원 빅트리, ’344억 흉물 논란' 여전</title>
