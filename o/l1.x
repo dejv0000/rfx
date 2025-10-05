@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] '3500억대 태양광 사기' 마이더스 전 대표 징역 16년</title>
+			<description>태양광 사업 투자를 내세워 3500억 원대 사기 행각을 벌인 서석현 마이더스파트너스(이하 마이더스) 전 대표가 중형을 확정받았다. 대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1658"&gt;오경미&amp;nbsp;&lt;/span&gt;대법관)는 9월 4일 특정경제범죄 가중처벌법(사기)·유사수신행위의 규제에 관한 법률 위반 혐의로 기소된 서 전 대표 상고심(&lt;b&gt;2025도8099&lt;/b&gt;)에서 서 전 대표의 상고를 기각하고, 징역 16년과 추징금 984억여 원을 선고한 원심을 확정했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;2018년 9월~2021년 6월 서 전 대표는 금융 컨설팅 업체 마이더스의 지역 법인과 지점을 통해 피해자 5213명으로부터 차용금 형식으로 자금을 모아 3500억 원대 부당이득을 편취했다. 서 전 대표는 매출 실적이 없는 태양광 중소기업을 유망 회사로 포장하고, 투자금을 내면 원금 상환과 함께 매월 2%의 수익을 보장해주겠다며 피해자들을 기망했다. &lt;b&gt;&lt;br /&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심과 항소심은 특정경제범죄 가중처벌법(사기)·유사수신행위의 규제에 관한 법률 위반 혐의를 인정해 서 전 대표에게 징역 16년과 추징금 984억여 원을 선고했다. 하급심 재판부는 "서 전 대표가 수익 창출의 가능성이 있다고 주장하는 중소기업들은 아무런 수익을 내지 못하고 있거나, 사실상 서 전 대표가 지분을 인수해 소위 '돌려막기'나 자금 은닉에 이용하고 있던 회사였다"고 했다.  &lt;br /&gt;&lt;br /&gt;이어 "서 전 대표는 원금 반환이 보장되고, 확정적인 이자 수익도 얻을 수 있다는 식으로 사업 내용을 홍보하면서 자금을 모았다"며 "차용증서가 마이더스 각 지점에 비치돼 있어 누구든지 원하면 금전소비대차계약을 체결하고 금원을 대여할 수 있었던 점, 마이더스의 차용금 수신 행위를 유사수신행위로 볼 수 있다고 금융감독원이 판단한 점 등을 고려할 때 이 사건 자금 모집은 금전소비대차계약의 형식을 갖추었는지와 무관하게 유사수신행위의 규제에 관한 법률 제2조 제2호가 규정한 유사수신행위에 해당한다"고 판시했다. &lt;br /&gt;&lt;br /&gt;유사수신행위는 다른 법령에 따른 인가·허가를 받지 아니하거나 등록·신고를 하지 않은 채 불특정 다수인으로부터 자금을 조달하는 행위다. 유사수신행위의 규제에 관한 법률 제2조 제2호는 장래에 원금의 전액 또는 이를 초과하는 금액을 지급할 것을 약정하고, 예금·적금·부금·예탁금 등의 명목으로 금전을 받는 행위를 유사수신행위로 규정한다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 서 전 대표의 상고를 기각하고, 원심 판결을 확정했다. 대법원 재판부는 "서 전 대표의 특정경제범죄 가중처벌법(사기) 위반죄와 유사수신행위의 규제에 관한 법률 위반죄의 성립, 추징액 산정에 대한 원심 판단에 잘못이 없다"며 "범행 동기와 결과, 범행 후 정황을 포함한 양형 조건을 살펴보면 원심이 서 전 대표에게 징역 16년 등을 선고한 것을 심히 부당하다고 할 수 없다"고 했다.</description>
+			<pubDate>Sun, 05 Oct 2025 11:19:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212051</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212051</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 풍랑특보 속 안전점검 나갔다 사고… 법원 "직무상 사망"</title>
 			<description>&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;어선 갑판장이 풍랑특보가 발효된 날 안전 점검을 위해 선박에 출근했다가 인접 선박의 크레인 전도 사고로 숨진 경우, 직무상 사망에 해당하므로 유족급여와 장례비를 지급해야 한다는 판결이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5411"&gt;최수진&amp;nbsp;&lt;/span&gt;부장판사)는 망인 A 씨의 배우자와 자녀들이 수산업협동조합중앙회를 상대로 낸 유족급여 및 장례비 부지급 처분 취소소송(&lt;b&gt;2024구합57088&lt;/b&gt;)에서 7월 25일 원고 승소 판결을 내렸다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;2019년 11월 17일 E호의 갑판장이었던 A 씨는 풍랑예비특보가 발효된 날 선주 B 씨의 전화를 받고 E호가 있는 선박장에 방문했다. A 씨는 당시 E호와 인접한 F호의 선원 C 씨가 운전 중이던 카고 크레인에 의해 사고를 당해, 심정지로 사망했다.&lt;br /&gt;&lt;br /&gt;C 씨가 제한 하중을 초과한 안강망 그물을 카고 크레인을 인양하던 중 차체가 하중을 버티지 못하고 넘어가, 앞바퀴 부분 부근에 있던 A 씨를 덮쳤다.&lt;br /&gt;&lt;br /&gt;2020년 3월 19일 C 씨와 크레인의 소유주 D 씨는 업무상과실치사 등의 혐의로 기소돼, 2020년 6월 9일 공소사실 모두에 대해 유죄 판결 받았다. &lt;br /&gt;&lt;br /&gt;2020년 2월경 A 씨의 유족들은 피고에게 어선원 및 어선 재해보상보험법 제27조, 제28조에 따라 유족급여 및 장례비 지급을 청구했다. 2024년 1월 22일 피고는 ‘직무상 사고인지 입증이 부족하다’는 이유로 지급하지 않았다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 해당 사고를 ‘직무상 사고’로 인정해, 피고의 부지급 처분을 취소했다. &lt;br /&gt;&lt;br /&gt;재판부는 △A 씨가 선주 B씨의 전화를 받은 후 E호가 있던 선착장에 도착한 점 △갑판장인 A 씨에게 풍랑을 대비한 E호의 안전 점검을 지시했을 개연성이 높은 점 △카고 트레인의 작업으로 E호에도 피해가 갈 수 있는 상황에 A 씨에게 현장 감독 등을 지시했을 가능성도 충분한 점 △사고 발생 직후 A 씨에게 전화를 통화를 시도한 것은 출근을 지시한 사실이 있기 때문으로 보이는 점 등을 이유로 들었다.&lt;br /&gt;&lt;br /&gt;재판부는 "A 씨는 조업과는 무관한 안전 점검 및 현장 감독 등의 업무를 위하여 출근한 것으로 보이고, 더욱이 선주 B 씨는 보험가입자 의견서의 '출항이 없는 날 출근 여부' 항목에 '출근함'이라고 기재했으며, 이 법정에서도 'A 씨는 갑판장이기 때문에 혼자 가끔 출근한다'라고 진술하기도 하였는 바, 이 사건 사고 발생 당일 E호가 출항 예정이 없었다고 하더라도 A 씨가 다른 이유로 출근하였을 개연성은 충분해 보인다"고 판시했다.&lt;br /&gt;&lt;br /&gt;또 A 씨가 도박을 위해 방문했다는 진술은 신빙성 없는 추정에 불과할 뿐 구체적인 근거가 없다고 판단했다.</description>
 			<pubDate>Sun, 05 Oct 2025 00:07:04 -0000</pubDate>
@@ -226,16 +235,6 @@
 			<link>https://www.lawtimes.co.kr/news/212026</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212026</guid>
 			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 율촌 김선희 변호사, '개인정보보호 유공' 국무총리 표창</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212025.jpg" alt="474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김선희 변호사.《사진=법무법인 율촌》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14351"&gt;김선희&lt;/span&gt;(사법연수원 36기) &lt;b&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;법무법인 율촌&lt;/a&gt;&lt;/b&gt; 변호사는 9월 30일 개인정보보호위원회(위원장 고학수)가 개최한 ‘제5회 개인정보보호의 날 기념식’에서 ‘개인정보보호 유공’ 국무총리 표창을 수상했다. &lt;br /&gt;&lt;br /&gt;김 변호사는 개인정보보호위원회 고문변호사, 금융보안원 데이터전문기관 가명·익명처리 적정성 평가위원, 분당서울대학교병원 데이터 심의위원회 위원, 개인정보 미래포럼 위원으로 활동하며 개인정보 보호체계 확립에 기여한 공로를 인정받았다. &lt;br /&gt;&lt;br /&gt;그는 현재 법무법인 율촌의 데이터 앤 테크(Data &amp; Tech) 팀장으로서 개인정보 보호와 인공지능 분야의 자문을 이끌고 있다. &lt;br /&gt;&lt;br /&gt;김 변호사는 “더 큰 책임감을 가지고 AI 시대에 안전한 데이터 활용을 위한 법제도 발전에 기여하기 위해 최선을 다하겠다”고 소감을 전했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 01 Oct 2025 07:13:04 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212025</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212025</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212025.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
