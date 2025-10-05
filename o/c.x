@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘3500억대 태양광 사기’ 마이더스 전 대표 대법서 징역 16년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 04:55:21 +0000</pubDate>
+      <content:encoded>태양광 사업에 투자하면 매달 수익률을 보장한다며 다단계 방식으로 3500억대 사기를 저지른 마이더스파트너스 전 대표 서모씨에게 중형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 정문에 서 있는 조각. 엄태정이 1995년 제작한 ‘법과 정의의 상(象)’이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 최근 특정경제범죄 가중처벌법상 사기, 유사수신행위법 위반 등 혐의로 재판에 넘겨진 서씨에게 징역 16년을 선고한 원심 판결을 확정했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;서씨는 컨설팅 업체 명목으로 마이더스파트너스라는 법인을 설립해 2018년부터 2021년까지 피해자 5287명으로부터 약 3500억원을 받아 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;서씨는 전국 각지에서 매월 수차례 투자 설명회를 열며 자신을 ‘투자에 성공한 사업가’라고 소개한 뒤 “태양광 업체를 비롯한 유망 중소기업에 투자하면 원금이 보장되고 매월 2%의 이자가 지급된다”고 속여 투자자를 끌어모았다. &lt;br&gt;&lt;br&gt;그러나 이들이 투자한 기업들은 사실상 매출 실적이 없는 깡통 회사였고, 후순위로 돈을 빌려준 사람들의 자금으로 선순위 입금자들에게 원리금을 지급하는 이른바 ‘돌려막기’ 수법으로 사기 행각을 벌인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;서씨는 이렇게 가로챈 돈으로 서울 송파구 아파트에 살며 주거 비용으로만 수천 만원을 썼고, 고급 수입차를 10여 대 몰고 다니며 골프와 레이싱을 즐긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1심은 지난해 11월 서씨에게 징역 16년을 선고하고 984억원의 추징을 명령했다. 1심은 “서씨는 범행의 가장 큰 책임자이자 동시에 수익자”라며 “건강 악화를 호소하면서도 레이싱 대회에 거듭 참가하는 등 반성하는 모습이 없다”고 지적했다. 2심과 대법원도 같은 형을 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임은정, 법무장관 경고에도 또 페북 “檢, 뿌린 대로 거둬”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 05 Oct 2025 04:43:20 +0000</pubDate>
+      <content:encoded>임은정 서울동부지검장이 검찰청 폐지를 골자로 한 정부조직법 개정안이 국회에서 통과한 것에 대해 “검찰이 뿌린 대로 거뒀다”고 5일 밝혔다. 정성호 법무부 장관이 고위 공직자로서 언행에 유의하라고 경고한 지 일주일도 안 됐는데, 또 다시 검찰을 겨냥한 비판적인 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP3UEQY5IU7N5DPKBNNDLQJPAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지방검찰청 검사장이 지난 8월 29일 서울 여의도 국회의원회관에서 열린 검찰개혁 긴급 공청회 '검찰개혁의 쟁점은 무엇인가? - 국민이 바라는 검찰개혁의 속도와 방향'에서 토론하고 있다. 왼쪽부터 황운하 조국혁신당 의원, 임 검사장, 한동수 전 대검찰청 감찰부장, 박은정 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 이날 자신의 페이스북에 “명절 연휴 직전의 개정 정부조직법 공포를 지켜보며 검찰 역시도 뿌린 대로 거두는 수확의 시기를 결국 맞았구나 싶었다”면서 “좀 더 말려보지 못한 게 후회스럽고 이래저래 안타깝고 서글픈 마음”이라고 적었다.&lt;br&gt;&lt;br&gt;이어 “동료들에게 추석 인사를 하며 수확물에 망연자실 실망하지 말고 알차게 내년을 준비하여 올해 같지 않은 내년은 맞자고 했다”면서 “알찬 내년을 위한 준비가 기득권을 지키기 위한 분투가 아니라, 잃어버린 시민들의 신뢰를 되찾기 위한 검찰의 허물과 과오를 고치고 바로잡기 위한 분투가 되어야 할 것”이라고 했다. 또 “저 역시 다음에 또 후회하지 않도록 더욱 분투해 볼 각오”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 정 법무 장관은 지난달 29일 임 지검장에게 “앞으로 정치적 중립성이나 업무 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실하라”고 당부한 바 있다. 임 지검장이 국회 공청회에서 검사 인사에 대해 ‘인사 참사’라고 표현하고, 특정 검사들을 ‘검찰개혁 5적’이라 지칭한 것을 두고 검찰 안팎에서 부적절하다는 지적이 이어졌기 때문이다. &lt;br&gt;&lt;br&gt;국회는 지난달 26일 검찰청 폐지와 기획재정부 분리 등을 내용으로 하는 정부조직법 개정안을 재석 180명 중 174명 찬성으로 통과시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>추석 연휴 기간 ‘1분 만에 매진’… 덕적·무의·석모도 등 인천 국공립 자연휴양림 ‘인기’</title>
       <link>https://www.chosun.com/national/regional/2025/10/05/TK3N6AO3IRCXPH5XJBJCWCTGQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/05/TK3N6AO3IRCXPH5XJBJCWCTGQY/</guid>
@@ -962,24 +980,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 06:34:10 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43EXQZRQVZH2XON67ELA5OB2EY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 현장. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날 부산의 한 공장에서 일하던 50대 직원이 기계에 깔려 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;3일 부산 사상경찰서에 따르면, 이날 오전 8시 54분쯤 부산 사상구 한 선박 부품 제조 공장에서 A씨가 유압 기계를 옮기다 깔리는 사고가 발생했다.&lt;br&gt;&lt;br&gt;의식이 없는 상태로 병원으로 이송된 A씨는 사고 발생 약 20분 만인 오전 9시 4분쯤 숨졌다. A씨가 일하던 공장은 이날 오전까지 가동한 뒤 오후부터 추석 연휴에 들어갈 예정이었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 현장 관계자 등을 상대로 정확한 사고 경위를 조사하는 한편 중대재해 처벌 등에 관한 법률 위반 여부도 수사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“네 새끼 잘 지켜”... 언니에게 협박 문자 보낸 동생, 2심도 징역형 집유</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/03/UMUI2O6DRFAZRG4JXRBHQUIZIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/UMUI2O6DRFAZRG4JXRBHQUIZIU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 05:27:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ICZUKDUTFHIDL26KWVE7WXT6LY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 언니에게 보복성 협박 문자메시지를 보내고 스토킹한 혐의 등으로 재판에 넘겨진 40대 여성이 항소심에서도 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 수원고법 형사3부(재판장 김종기)는 협박, 특정범죄 가중처벌 등에 관한 법률 위반(보복 협박), 스토킹 범죄의 처벌 등에 관한 법률 위반 혐의를 받는 A씨의 항소를 기각하고, 원심 판결을 유지했다. 그는 앞서 1심에서 징역 1년에 집행유예 2년을 선고받았다.&lt;br&gt;&lt;br&gt;판결에 따르면, A씨는 자신의 형사 사건과 관련해 언니 B씨가 수사기관에 자신에게 불리한 내용의 의견서를 제출했다는 이유로 협박 문자메시지를 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 작년 9월 B씨에게 “벌금 200만원이 나왔다. 나 잘못 건드렸다”며 가만두지 않겠다는 취지로 23차례에 걸쳐 휴대전화 문자메시지를 보냈다. 검찰은 A씨가 보복할 목적으로 B씨를 협박한 것으로 보고 그를 기소했다.&lt;br&gt;&lt;br&gt;A씨는 또 같은 해 8월 B씨에게 ‘전화와 문자메시지를 보내지 말라’고 연락받았음에도 여러 차례 전화하고 “네 새끼 잘 지켜라”는 등의 휴대전화 문자메시지를 40회에 걸쳐 보내는 등 스토킹한 혐의도 받는다.&lt;br&gt;&lt;br&gt;그는 같은 달 자신의 주거지에서 B씨가 어머니에게 패륜적인 말을 했다는 사실을 알게 되자, “내가 돌면 어떻게 하는지 알 거다. 네 가게에 불 지르겠다. 내 목숨 걸고 말하는데 너희 가족은 없어질 거다. 나 죽어도 혼자 안 죽는다” 등의 내용이 담긴 문자메시지를 보내 협박하기도 했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피해자는 이 사건 범행으로 인해 큰 정신적 고통을 받았을 것으로 보이고 피고인은 피해자로부터 용서받지 못했다”며 “다만 피고인이 범행을 모두 인정하면서 반성하는 태도를 보이는 점, 피고인에게 범죄 전력이 없는 점 등을 유리한 정상으로 고려한다”고 했다.&lt;br&gt;&lt;br&gt;2심 재판부는 “원심판결 이후 양형에 유리하게 반영할 만한 새로운 정상이나 특별한 사정 변화는 보이지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충북 지역 군부대 식중독 의심 신고... 장병 140여명 치료 </title>
-      <link>https://www.chosun.com/national/national_general/2025/10/03/AFJPA2HRTJGE7APLSBV3WQB6DY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/03/AFJPA2HRTJGE7APLSBV3WQB6DY/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 05:05:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYZU2I3J3ZGD3EWLKU63ISPM4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 임종득 의원이 자신의 SNS에 충북 지역 군부대에서 식중독 의심 장병이 확산되고 있다며 철저한 원인 규명과 재발 방지에 힘써야 한다고 글을 올렸다./페이스북 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 지역의 여러 군부대에서 식중독 의심 환자가 발생해 보건당국이 역학 조사에 나섰다. &lt;br&gt;&lt;br&gt;3일 충북도 등에 따르면 이날 새벽 보은군 장안면의 한 육군부대 소속 장병 3명이 설사 등 증세를 보인 것을 시작으로 청주와 괴산, 증평 등 도내 9개 시군 13개 군부대에서 식중독 의심 신고가 잇따라 접수됐다.&lt;br&gt;&lt;br&gt;이날 오후 2시 기준 140명이 설사와 복통 등 식중독 의심 증상을 호소해 병원 치료를 받은 것으로 집계됐다. &lt;br&gt;&lt;br&gt;보건당국은 전날 저녁을 먹고 난 이후 식중독 의심 환자가 발생한 점을 토대로 1~2일 전 부대에 보급된 음식에서 문제가 발생한 것으로 의심하고 원인을 추적하고 있다.&lt;br&gt;&lt;br&gt;도 관계자는 “군부대 특성상 접근이 제한되는 부분이 있어 다소 시간이 걸리고 있다”며 “현재 일선 시군 보건소가 군부대와 접촉해 역학조사를 진행하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;앞서 국회 국방위원회 소속 임종득 국민의힘 국회의원은 이날 오전 자신의 SNS를 통해 “3일 충청 지역 여러 부대에서 수십여명의 장병이 원인 불상 설사와 복통 증상을 호소해 군 병원과 민간 병원에서 진료를 받았다”면서 “피해 인원이 더 늘어날 수 있는 상황”이라고 밝혔다. &lt;br&gt;&lt;br&gt;그러면서 그는 “국가안보를 책임지는 장병들의 급식 안전에 이런 일이 반복되는 것은 결코 용납될 수 없다”며 “철저한 역학조사와 신속한 원인 규명, 재발 방지를 위한 식자재 관리와 급식체계 점검이 필요하다”고 강조했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한가위, 귀성길은 비오고 귀경길은 흐려...달은 구름 속에</title>
