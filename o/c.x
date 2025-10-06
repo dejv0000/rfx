@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“김현지, 나이·학력 등 비공개는 직권남용”... 시민단체서 경찰 고발</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/06/OQOH4NUSEBH7XJTGM4IE4DPUMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/OQOH4NUSEBH7XJTGM4IE4DPUMU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 05:39:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72UJ2ZFAQP6XTH3UJUX2IJAQEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현지 대통령실 제1부속실장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령 최측근인 김현지 대통령실 제1부속실장이 경찰에 고발당했다. &lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 이날 오전 김 실장을 직권남용·강요·업무방해·업무상 횡령과 배임 등 혐의로 서울경찰청에 고발했다고 밝혔다. &lt;br&gt;&lt;br&gt;서민위는 고발장에서 “1급 공무원으로서 대통령실의 예산과 시설 관리, 인사 행정 등을 총괄하는 총무비서관이 개인정보 보호를 이유로 나이·학력·경력·고향 같은 기본 사항조차 알리지 않는 것은 국민을 기만한 ‘직권남용’ 행위”라고 주장했다. &lt;br&gt;&lt;br&gt;또 서민위는 “총무비서관 시절 강선우 여성가족부 장관 후보에게 직접 전화해 ‘후보자를 사퇴해야 할 것 같다’는 이재명 대통령의 뜻을 전달하는 등 인사에 개입한 것 역시 ‘직권남용’과 ‘강요’에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “대통령실 총무비서관으로서 국회 운영위 국정감사에 출석해 설명하는 것이 당연함에도 거부하다 못해 제1부속실로 자리를 옮긴 것은 국회를 비롯해 국민을 모독하는 기만”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김 실장은 이 대통령의 오래된 측근으로 나이, 학력 등을 공개한 적이 없다. 정부 출범 후엔 대통령실 요직인 총무비서관을 맡아 인사와 재정 등의 권한을 쥐었으나 지난달 29일 국감을 앞두고 야당의 출석 요구가 거세지자 부속실장으로 자리를 옮겼다. 부속실장은 국감에 나온 전례가 없다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부마항쟁 해직 교수 중 첫 국가배상... 김민남 前 동아대 부총장 별세 </title>
+      <link>https://www.chosun.com/national/people/2025/10/06/6PWW26VHHRAIRFVE3PSCFOTNUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/06/6PWW26VHHRAIRFVE3PSCFOTNUQ/</guid>
+      <dc:creator>곽아람 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 06:00:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADIKK3DVUVAF3M5K7AY3I2W22Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민남 전 동아대 부총장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;언론학자 김민남(85) 전 동아대 부총장이 지난 5일 별세했다. &lt;br&gt;&lt;br&gt;경북 청도에서 태어난 고인은 1966년 동아대 법학과를 졸업했다. 1967년 동아일보사에 입사했으나 1074년 10월 24일의 자유언론실천에 가담했다는 이유로 1975년 해직됐다. 1978년부터 모교인 동아대 강단에 섰지만 1980년 정부의 요구로 사직서를 제출했다. 부마민주항쟁 때 학생들을 배후에서 사주·선동했다는 혐의였다. 1984년 9월 복직했고, 언론광고학과장, 언론홍보대학원장, 부총장을 역임했다. &lt;br&gt;&lt;br&gt; 2020년 부마민주항쟁 관련자로 인정됐으며, 2022년 법원으로부터 국가가 불법 구금과 해고 책임을 지고 5000만원을 배상해야 한다는 판결을 받았다. 1980년 강제 해직됐던 교수 88명 중 국가배상책임이 인용된 건 고인이 처음이다. 유족으로 부인 이의자씨, 아들 김상협·김상천씨 등이 있다. 빈소는 부산 좋은강안병원, 발인 8일 오전 7시. (051) 610-9009&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>2년간 촉법소년 27% 늘어 2만명 넘어…강간·추행 59% 증가</title>
       <link>https://www.chosun.com/national/national_general/2025/10/06/XNH36FMRFVBGLHSJJEXEA5WW6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/XNH36FMRFVBGLHSJJEXEA5WW6M/</guid>
@@ -839,24 +857,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
       <content:encoded>고려대가 최근 2년간 2400억원이 넘는 기부금을 약정받아 화제다. 같은 기간 서울 주요 타 사립대의 기부금 약정액보다 1000억~2200억원 많은 액수다. 올해 9월까지의 기부금 약정액을 더하면 3000억원이 넘는다.&lt;br&gt;&lt;br&gt;23 본지 취재를 종합하면, 고려대는 현 김동원 총장이 취임한 2023년 3월부터 지난달까지 2년 7개월간 약 3030억원의 기부금을 약정받았다. 고려대의 연간 기부금 약정액은 400억~500억원 수준이었는데 2023년엔 1540억원으로 급증했다. 지난해에도 873억원, 올해도 지난달까지 617억원을 약정받았다. &lt;br&gt;&lt;br&gt;서울 주요 사립대들 중 기부금 약정액을 공개하고 있는 연세대와 서강대는 재작년과 작년 총 2년간 각각 1411억원, 168억원을 약정받았다. 같은 기간 고려대는 2413억원이었다. 약정액은 기부자가 기부를 약속한 금액이다. 기부금을 몇 년에 나눠 기부할 수 있기 때문에 기부금 약정액과 실제 기부액은 다소 차이가 있다. &lt;br&gt;&lt;br&gt;기부금 납입액도 고려대가 제일 많았다. 대학알리미에 공시된 ‘기부금 현황’(교비회계 기준)에 따르면, 지난해 서울 주요 대학 중 기부금 납입액 1위는 855억원의 고려대였다. 2위는 연세대(668억원), 3위는 서울대(653억원)였다. &lt;br&gt;&lt;br&gt;고려대의 기부금 약정액이 최근 크게 늘어난 데에는 인재 양성, 특히 이공계 부활 필요성에 공감하는 기부자가 많았기 때문으로 분석된다. 기부금은 기부자가 지정한 용처에만 쓸 수 있는데, 약정액 3030억원의 약 42%가 ‘연구 우수 기금교수 임용’과 ‘자연계 건물 신축 공사’ 사업에 기부됐다. &lt;br&gt;&lt;br&gt;기부자들과 맞춤형 소통을 늘린 것도 큰 역할을 한 것으로 보인다. 김 총장은 해외 출장 등이 아니면 하루에 최소 한 번은 기부자들과 만나는 자리를 가졌다. 또 기부자의 관심 사안을 사전에 파악해, 이와 관련된 학교 사업을 설명하는 전략을 세웠다. 예컨대 고려대 출신 스타트업 대표를 만날 때는 학생들이 창업에 얼마나 적극적인지 설명하고, 이런 학생들을 위한 창업 공간 마련부터 생활비 지원, 선배 창업가와의 만남 등을 알려주며 기부를 제안하는 식이다.&lt;br&gt;&lt;br&gt;고려대의 기부금은 국내에서는 최대 규모이지만, 해외에는 명함도 못 내미는 수준이다. 미국 하버드대의 2024년(회계연도 기준) 보유 기부금은 532억달러(약 75조원)에 달한다. 이런 기부금 덕분에 미국 사립대의 등록금 의존율은 30% 안팎이지만, 국내 사립대는 수입 절반 이상을 등록금에 의존하고 있다. 기부금이 차지하는 비율은 2.6%에 불과했다. 전문가들은 국내 대학의 기부 문화를 활성화하려면 다양한 세제 혜택 등이 필요하다고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김동석 코메디닷컴 미디어본부장 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/04/ML6F4QQHKZH57GSF4366XFVIIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/04/ML6F4QQHKZH57GSF4366XFVIIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김동석&lt;/b&gt; 코메디닷컴 미디어본부장 별세, &lt;b&gt;홍희원&lt;/b&gt; 남편상, &lt;b&gt;김승재&lt;/b&gt;·&lt;b&gt;김승우&lt;/b&gt;·&lt;b&gt;김효은&lt;/b&gt; 부친상=3일1시30분, 서울 뉴타운장례식장, 발인 5일8시, (02)909-4444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박온섭&lt;/b&gt; 前 충북도의원 별세, &lt;b&gt;최옥순&lt;/b&gt; 남편상, &lt;b&gt;박준철 &lt;/b&gt;MG신용정보 대표·&lt;b&gt;박준상&lt;/b&gt; 신당123동새마을금고 과장 부친상, &lt;b&gt;최용수&lt;/b&gt; 최용수법률사무소 변호사·&lt;b&gt;강원용&lt;/b&gt; 서울월산교회 부목사 장인상=2일13시55분 충북대병원, 발인 5일8시, (043)269-6969&lt;br&gt;&lt;br&gt;▲&lt;b&gt;유고운&lt;/b&gt; 前 대교어린이TV PD 별세, &lt;b&gt;정재호&lt;/b&gt; 아시아투데이 문화부 차장 아내상, &lt;b&gt;정세휘&lt;/b&gt;·&lt;b&gt;정세흔&lt;/b&gt;·&lt;b&gt;정세향 &lt;/b&gt;모친상=3일1시20분 서울성모병원, 발인 5일7시30분, (02)2258-5965&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 10월 4일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/04/U6XR5OGDBNB4VPOKSVWPDKGHM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/04/U6XR5OGDBNB4VPOKSVWPDKGHM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>일부 지역에 때때로 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B2WLVADRDJAW7AYJHZ6MQGL4C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>BTS RM 소장품 공개한다</title>
