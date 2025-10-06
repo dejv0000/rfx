@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>3대 특검, 3개월간 통신 조회만 1만9000여 건</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/04/2JEF4S3PJFCXPFJFEYKCNIU45U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/2JEF4S3PJFCXPFJFEYKCNIU45U/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 15:48:00 +0000</pubDate>
+      <content:encoded>윤석열 정부의 각종 의혹을 수사하는 3대 특별검사팀(내란·김건희·해병)이 출범 이후 3개월 동안 통신 자료를 1만9000여 건 조회한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 국민의힘 신성범 의원이 이동통신 3사(SK텔레콤·KT·LG유플러스)에서 받은 자료에 따르면, 3대 특검은 지난 6월부터 9월 22일까지 통신을 총 1만8982건 조회했다. 이 중 해병 특검이 1만209건으로 가장 많았고, 내란 특검 7815건, 김건희 특검 958건이었다. &lt;br&gt;&lt;br&gt;통신 조회는 통상 피의자와 연락한 기록이 있을 때 상대가 누구인지 확인할 목적 등으로 활용된다. 이용자의 이름과 주소, 주민등록번호, 가입일 또는 해지일 등 간단한 정보를 확인할 수 있는데, 수사기관은 법원 허가 없이 통신사에 요청해 자료를 받을 수 있다. 자료를 받은 뒤 30일 안에 당사자에게 알려야 하지만, 수사 상황에 따라 3개월씩 2차례 유예할 수 있게 돼 있다. 이와 달리 구체적 통화 일시·내용, 위치 등을 보는 통신 사실 확인 자료는 법원 영장이 필요하다.&lt;br&gt;&lt;br&gt;통신 조회는 정치적 사건을 수사할 때마다 논란이 됐다. 주로 야당이 문제 삼았다. 더불어민주당은 윤석열 정부 때인 2024년 8월 당시 당대표였던 이재명 대통령과 국회의원, 보좌관 등에 대한 통신 조회 결과를 통보받고 “정치 사찰”이라고 주장했다. 검찰의 ‘대선 개입 여론 조작’ 사건 수사를 문제 삼은 것이다. &lt;br&gt;&lt;br&gt;문재인 정부인 2021년에는 국민의힘이 고위공직자범죄수사처(공수처)의 이성윤 당시 서울고검장에 대한 ‘황제 조사’ 관련 수사 때 기자와 그 가족 등 170여 명에 대한 통신 조회를 한 사실을 문제 삼았다. 다만 법원은 당사자들이 불법 사찰이라며 국가를 상대로 제기한 손해배상 소송은 인정하지 않고 있다.&lt;br&gt;&lt;br&gt;신성범 의원은 “개인 정보가 담긴 통신 조회는 수사나 방첩 목적으로 필요할 경우 최소한에 그쳐야 한다”며 “특검 역시 성역일 수 없다. 수사기관의 무분별한 통신 조회 관행을 개선할 합리적 통제 장치가 반드시 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>여순사건을 ‘항쟁’으로 쓴다… 일부 지자체 미화 논란</title>
       <link>https://www.chosun.com/national/2025/10/07/3EIZSW6MIXMD3ORURTI3LJZ4S4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/10/07/3EIZSW6MIXMD3ORURTI3LJZ4S4/</guid>
@@ -852,15 +861,6 @@
         <media:description type="plain">공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 2일 서울 영등포경찰서로 압송돼 입장을 밝히고 있다./뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>투자금 등 수억 받아 잠적… 부산라면축제 대표 붙잡아</title>
-      <link>https://www.chosun.com/national/incident/2025/10/04/KMVVVSG4MZA47HIF3TNOVG4AZ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/04/KMVVVSG4MZA47HIF3TNOVG4AZ4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:48:00 +0000</pubDate>
-      <content:encoded>‘라면 대신 방문객 화만 끓게 했다’는 혹평을 받았던 부산 세계라면축제의 기획·운영자들이 잠적 4개월 만에 경찰에 붙잡혔다. 이들이 투자금 등 수억 원을 가로채 도주한 탓에 축제가 ‘엉터리’로 전락했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산 기장경찰서는 사기 등 혐의로 축제 운영사 대표 A(50대)씨와 회장 B(50대)씨 등 2명을 검찰에 불구속 송치했다고 3일 밝혔다. A씨 등은 지난 5월 부산 기장군 오시리아 관광 단지에서 열린 세계라면축제에서 투자자와 협력 업체에 수익금과 공사 대금 등을 주지 않은 혐의를 받고 있다. 또 기장군 허가 없이 축제에서 몰래 식음료 판매 시설 4곳을 운영한 혐의도 받는다. &lt;br&gt;&lt;br&gt;세계라면축제는 지난 5월 2일부터 11일까지 열흘 일정으로 계획됐다. 당시 주최 측은 ‘한국을 비롯해 일본, 태국, 베트남, 미국 등 15국 2200여 종의 라면 브랜드가 참여한다’고 홍보했다. 입장료로 1인당 1만원을 받았다. &lt;br&gt;&lt;br&gt;하지만 개막 후 소셜미디어에 불만 글이 쏟아졌다. ‘축제 현장에 한국 라면 2종밖에 없다’ ‘뜨거운 물이 안 나와서 라면을 먹지도 못했다’ ‘제대로 된 그늘막 하나 없는 축제는 처음 본다’ 등 내용이었다. 초대 가수 공연이 돌연 취소되는 일도 있었다. 주최 측에서 돈을 받지 못한 푸드트럭들이 하나둘 철수하면서 축제는 예정된 기간보다 사흘 앞선 5월 8일쯤 흐지부지 끝나 버렸다.&lt;br&gt;&lt;br&gt;부실한 행사 운영으로 방문객 불만이 폭주하고 대금을 못 받은 협력 업체들이 반발하자 A씨 등은 행사 도중 잠적했다. 추적에 나선 경찰은 지난달 초 A씨를 전남 여수에서 검거하고, 이어 부산에서 B씨를 검거했다. 이들은 경찰 조사에서 “빼돌린 돈으로 빚을 갚고 생활비로도 썼다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>고속도로 꽉 채운 귀성 행렬</title>
