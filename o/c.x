@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 당정 “검찰청 해체” 다음날, 임은정은 플래시게임 배포</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/06/F5IOEW4GH5ACTLYZMPFWJTDKKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/06/F5IOEW4GH5ACTLYZMPFWJTDKKY/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 09:00:00 +0000</pubDate>
+      <content:encoded>임은정 서울동부지검장이 지난달 중순 검찰청 내 청렴 강조 활동의 일환으로 플래시 게임을 제작해 배포한 것으로 6일 확인됐다. 이 게임을 배포한 날은 정부·여당이 검찰청 폐지를 중심으로 한 정부 조직 개편안을 발표한 다음 날이었다. 검찰 내부에선 “일선 형사부는 무너지기 직전인데, 한가하게 게임을 할 시간이 있겠느냐”는 강도 높은 반발이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCWPT2MBJRFR3HWRNCPDKU6JY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장이 지난달 8~12일 사이 배포한 플래시게임 '청렴용사게임'을 직접 하는 모습./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울동부지검 총무과는 지난달 8일 오전 9시 44분 내부 쪽지를 통해 &amp;lt;청렴용사 vs 부패드래곤&amp;gt; 게임 실행 파일과 안내 사항을 배포했다. 총무과 측은 “2025년 하반기 기관장 청렴 실천과 관련해 기관장님께서 선정하신 문제로 이뤄졌다”고 게임 내용을 소개했다. 문제는 총 10개로, 해당 문제를 모두 맞춘 뒤 그 결과를 총무과에 사진으로 찍어 보내면, 3명을 추첨해 소정의 선물과 ‘용사 임명장’을 수여할 계획이라고 총무과는 밝혔다. 추첨은 기관장(임 지검장)이 직접 한다고 밝혔다.&lt;br&gt;&lt;br&gt;총무과가 작성한 소개 자료를 살펴보면, 임 지검장은 이해충돌방지법을 비롯해 청탁금지법, 공무원 행동 강령을 바탕으로 직접 게임 속 문제를 출제했다고 한다. 임 지검장이 서울동부지검에 있는 본인 집무실에서 게임을 직접 하는 모습이 담긴 사진도 함께 배포했다.&lt;br&gt;&lt;br&gt;임 지검장이 플래시 게임을 서울동부지검 직원들에게 배포한 날은 검찰청 폐지 계획을 당정이 발표한 다음 날이었다. 당정은 지난달 7일 고위 당정협의회를 가진 뒤 검찰청을 창설 78년 만인 내년 9월 폐지한다고 밝혔다. 검찰청의 수사 기능은 행정안전부 산하에 설치될 중대범죄수사청이, 기소 기능은 법무부 산하 공소청이 맡게 된다는 게 핵심이다.&lt;br&gt;&lt;br&gt;이러한 소식은 대검찰청이 지난 1일 ‘Monthly 청렴 2025년 10월호’를 게시하면서 검찰 내부에 퍼졌다. 대검 감찰부에서 매달 발행하는 소식지에 이 플래시게임이 소개된 것이다. 이를 본 검사들은 크게 반발했다. 일선 지청 형사부를 지휘하고 있는 한 부장검사는 “각 검찰청의 형사부들은 쌓여 있는 미제 사건을 해결하느라 정신이 없고, 동부지검 형사부도 마찬가지일 것”이라며 “장의사를 맡겠다고 하기 전에 일선 후배들의 애로사항을 듣고 조치를 취하는 것이 우선 아니냐”고 지적했다. 형사부 소속 한 평검사도 “임 지검장이 주는 임명장보다 눈 앞의 사건이 더 중요하다”며 “전국 검사나 검찰수사관 중 게임을 할 시간이 있는 사람은 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQYNTU27GSBPEB56ND6ZJZSRLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지검장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 가운데 임 지검장은 지난 5일 검찰청 폐지를 골자로 한 정부조직법 개정안이 국회에서 통과된 데 대해 “검찰이 뿌린 대로 거뒀다”고 했다. 정성호 법무장관이 고위 공직자로서 언행에 유의하라고 경고한 지 일주일도 안 됐는데, 또다시 검찰을 겨냥한 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;임 지검장은 자신의 페이스북에 “친정 어머니 팔순 잔치를 맞아 연휴 시작하자마자 부산으로 달려 내려왔다”며 “명절 연휴 직전의 개정 정부조직법 공포를 지켜보며 검찰 역시도 뿌린 대로 거두는 수확의 시기를 결국 맞았구나 싶었다”고 했다. 이어 “좀 더 말려보지 못한 게 후회스럽고 이래저래 안타깝고 서글픈 마음”이라며 “동료들에게 추석 인사를 하며 수확물에 망연자실 실망하지 말고 알차게 내년을 준비하여 올해 같지 않은 내년을 맞자고 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부천서 “백화점 부탄가스로 터뜨린다” 테러 예고…650여명 대피</title>
+      <link>https://www.chosun.com/national/incident/2025/10/06/YIMRWG5N7JE4ZHARN5CZAGIDHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/06/YIMRWG5N7JE4ZHARN5CZAGIDHA/</guid>
+      <dc:creator>부천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 10:03:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AATIQTULHDJQ4STSUDFUQAU4CI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천원미경찰서 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 당일인 6일 온라인 커뮤니티에 경기 부천의 한 백화점을 폭파시키겠다는 테러 예고 글이 올라와 건물 이용객들이 대피하는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오후 1시 10분쯤 “한 온라인 커뮤니티에 ‘오후 3시에 현대백화점 중동점을 부탄가스로 터뜨린다’는 글이 게시됐다”는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;공동 대응에 나선 경기도소방재난본부와 경찰은 현장 수색을 진행했다.&lt;br&gt;&lt;br&gt;해당 백화점은 추석을 맞아 휴무 중이었지만, 건물 내 영화관에서 영화를 관람하던 650여명이 대피하는 소동이 벌어졌다.&lt;br&gt;&lt;br&gt;관계 당국 수색 결과, 현장에는 특이사항이 없었던 것으로 확인됐다. 이날 오후 3시 15분쯤 상황이 종료됐고, 영화관은 운영을 재개했다.&lt;br&gt;&lt;br&gt;경찰은 해당 글을 올린 게시자를 찾기 위해 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추석 당일 강변북로 역방향 배회... 경찰, 치매노인 구조해 가족 품으로</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/06/Z5JJUCHGVFF5XG76QHQKCGHOZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/Z5JJUCHGVFF5XG76QHQKCGHOZU/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 08:49:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NJAU5ADAFBKLOHWRASDQ46PVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;치매를 앓던 70대 남성 권모씨가 이날 오전 강변북로를 거꾸로 걷는 모습./마포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비 오는 추석에 길을 잃고 강변북로를 배회하는 치매 노인을 경찰이 구조해 무사히 가족에게 넘겼다.&lt;br&gt;&lt;br&gt;6일 서울 마포경찰서는 산하 홍익지구대 소속 경찰 2명이 치매 노인을 구조해 가족에 인계했다고 밝혔다. 추석 연휴를 맞아 강변북로를 순찰하던 이들은 이날 오전 9시 5분쯤 강변북로를 거꾸로 걷고 있는 70대 남성 권모씨를 발견했다. 경찰은 곧장 다가가 어떤 상황인지 물었지만, 권씨는 “합정역에서부터 내려왔다”는 말과 본인의 생년월일과 이름만 반복해 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSGFUN44MNAIVNYED7QLVL3FDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이날 길을 잃고 강변북로를 배회하던 70대 노인 권모씨를 경찰이 가족에게 무사히 인계하고 있다./마포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 권씨가 치매 질환을 앓고 있다고 판단해, 주소지를 조회했다. 권씨와 함께 집에 귀가한 경찰은 가족에게 안전하게 그를 인계했다. 추석 연휴를 맞아 권씨의 집에 모였던 가족들은, 사라진 권씨를 인근에서 찾아다니고 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“성묘 나섰다가”...후진하던 1t트럭 추락, 3명 중경상</title>
+      <link>https://www.chosun.com/national/incident/2025/10/06/JLP75K4GZFD6JAYCA3WGQWOWH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/06/JLP75K4GZFD6JAYCA3WGQWOWH4/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 06 Oct 2025 08:47:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGJOFOXAV7HX6YQQIADRVLST34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6일 강원 양양 손양면 성묘 차량 추락 현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 오전 강원 양양군의 한 임도(林道)에서 1t트럭이 추락하는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 이날 오전 10시 44분쯤 손양면의 한 임도에서 80대 A씨가 몰던 트럭이 30m아래 비탈길로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 크게 다치고, 함께 타고 있던 50대·70대 동승자 2명이 가벼운 상처를 입고 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이들은 성묘를 위해 길을 나섰다가, 후진하던 중 갑자기 사고가 난 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“김현지, 나이·학력 등 비공개는 직권남용”... 시민단체서 경찰 고발</title>
       <link>https://www.chosun.com/national/national_general/2025/10/06/OQOH4NUSEBH7XJTGM4IE4DPUMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/OQOH4NUSEBH7XJTGM4IE4DPUMU/</guid>
@@ -822,24 +858,6 @@
       <content:encoded>윤석열 정부의 각종 의혹을 수사하는 3대 특별검사팀(내란·김건희·해병)이 출범 이후 3개월 동안 통신 자료를 1만9000여 건 조회한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 국민의힘 신성범 의원이 이동통신 3사(SK텔레콤·KT·LG유플러스)에서 받은 자료에 따르면, 3대 특검은 지난 6월부터 9월 22일까지 통신을 총 1만8982건 조회했다. 이 중 해병 특검이 1만209건으로 가장 많았고, 내란 특검 7815건, 김건희 특검 958건이었다. &lt;br&gt;&lt;br&gt;통신 조회는 통상 피의자와 연락한 기록이 있을 때 상대가 누구인지 확인할 목적 등으로 활용된다. 이용자의 이름과 주소, 주민등록번호, 가입일 또는 해지일 등 간단한 정보를 확인할 수 있는데, 수사기관은 법원 허가 없이 통신사에 요청해 자료를 받을 수 있다. 자료를 받은 뒤 30일 안에 당사자에게 알려야 하지만, 수사 상황에 따라 3개월씩 2차례 유예할 수 있게 돼 있다. 이와 달리 구체적 통화 일시·내용, 위치 등을 보는 통신 사실 확인 자료는 법원 영장이 필요하다.&lt;br&gt;&lt;br&gt;통신 조회는 정치적 사건을 수사할 때마다 논란이 됐다. 주로 야당이 문제 삼았다. 더불어민주당은 윤석열 정부 때인 2024년 8월 당시 당대표였던 이재명 대통령과 국회의원, 보좌관 등에 대한 통신 조회 결과를 통보받고 “정치 사찰”이라고 주장했다. 검찰의 ‘대선 개입 여론 조작’ 사건 수사를 문제 삼은 것이다. &lt;br&gt;&lt;br&gt;문재인 정부인 2021년에는 국민의힘이 고위공직자범죄수사처(공수처)의 이성윤 당시 서울고검장에 대한 ‘황제 조사’ 관련 수사 때 기자와 그 가족 등 170여 명에 대한 통신 조회를 한 사실을 문제 삼았다. 다만 법원은 당사자들이 불법 사찰이라며 국가를 상대로 제기한 손해배상 소송은 인정하지 않고 있다.&lt;br&gt;&lt;br&gt;신성범 의원은 “개인 정보가 담긴 통신 조회는 수사나 방첩 목적으로 필요할 경우 최소한에 그쳐야 한다”며 “특검 역시 성역일 수 없다. 수사기관의 무분별한 통신 조회 관행을 개선할 합리적 통제 장치가 반드시 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부모와 따로 사는 자녀, 안부 전화 3~4일에 한 번꼴</title>
-      <link>https://www.chosun.com/national/education/2025/10/04/LXX45KD65NFPZEYFW6C5MTOX5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/04/LXX45KD65NFPZEYFW6C5MTOX5A/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
-      <content:encoded>부모와 함께 살지 않는 자녀는 3~4일에 한 번씩 부모에게 전화하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;3일 한국보건사회연구원에 따르면, 전국 7499가구를 대상으로 실시한 ‘제19차 한국복지패널 조사’에서 전체 가구의 44.4%가 부모와 따로 사는 것으로 집계됐다. 이들이 최근 1년 동안 부모와 통화를 한 횟수는 평균 106회였다. 1년이 365일인 점을 감안하면 대략 사나흘 간격으로 연락을 한 셈이다.&lt;br&gt;&lt;br&gt;부모에게 연락하는 횟수는 가구의 소득수준에 따라 차이를 보였다. 1인 가구 기준 월 소득이 134만원 이상인 경우는 부모에게 전화하는 횟수가 연평균 106회였지만, 그 미만인 경우는 평균 95회였다. 하지만 부모를 직접 만나는 횟수는 반대로 나타났다. 월 소득 134만원 이상은 연평균 42회인 반면, 그 미만은 연평균 46회로 더 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민사소송 평균 7개월인데… 의료 분쟁은 2년</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/04/AANOZXCBWBEWRPDEZEI5MAJXLE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/04/AANOZXCBWBEWRPDEZEI5MAJXLE/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
-      <content:encoded>비뇨기과 병원장인 전문의 A씨는 지난 2023년 의료 분쟁 조정 신청이 들어왔다는 연락을 받았다. 하지만 조정을 신청한 환자 B씨는 2016년 이 병원을 A씨가 아니라 다른 의사가 운영할 때 시술을 받았다. 결과는 ‘조정 불성립’. 그럼에도 B씨는 같은 내용으로 다시 8000만원의 손해배상 소송을 청구했다. 최근 법원에서 모두 기각했지만, 이 같은 결론이 나오기까지 A씨는 약 2년간 극심한 스트레스로 불면증 등을 호소했다.&lt;br&gt;&lt;br&gt;산부인과 의사 C씨는 5년간 민사소송에 시달렸다. 제왕절개 수술을 받은 산모가 급성 폐색전증(피떡이 폐혈관을 막는 질병)으로 뇌 손상을 입었는데, 환자 가족이 C씨를 상대로 20억원이 넘는 손해배상 소송을 제기했던 것이다. 1·2심 모두 ‘제왕절개 수술뿐 아니라 경과 관찰과 응급 조치 모두 적절하게 이뤄졌다’며 C씨의 손을 들어줬다. 그러나 C씨는 심한 스트레스로 더 이상 분만을 맡지 않겠다고 선언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHJ3RTJGMNFR3IC55DWYBHJCPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨와 C씨 사례처럼 의사들이 의료 분쟁 소송에 걸리는 경우, 1심 판결을 받기까지 걸리는 기간은 일반 민사소송의 3배를 넘는 것으로 나타났다. 3일 국회 보건복지위 한지아 의원(국민의힘)이 대법원에서 받은 자료에 따르면 민사소송 1심 소장 접수부터 판결까지 평균 7.4개월(올해 상반기 기준)이 걸렸다. 이 중 의료 사건만 따로 떼어내 계산해보니, 의료 분쟁 민사소송 1심은 24.6개월이 걸리는 것으로 나타났다. 3.3배나 더 긴 셈이다. 내용이 전문적인 의료 소송 특성을 감안해도 오랜 기간 법적 부담감에 시달리기 때문에 소송 당사자들에게는 큰 부담이다. 의료계에선 “이를 악용해 의사를 괴롭히거나 합의금을 더 받기 위해 다짜고짜 소송부터 거는 경우도 적지 않다”는 지적도 나오고 있다. &lt;br&gt;&lt;br&gt;실제로 법원에선 소를 제기한 환자 측(원고)보다는 의사 손을 들어주는 경우가 상대적으로 더 많다. 2015년부터 올해 상반기까지 법원에 접수된 의료 분쟁 소송(1만1577건) 가운데 환자 측이 이긴 ‘원고 승’ 비율은 1.8%(213건)에 불과했고 ‘원고 일부 승’ 비율도 27.2%(3148건)에 그쳤다. 같은 기간 민사소송 전체(933만2314건)의 ‘원고 승’ 비율은 49.9%에 달하는 것과는 대조적이다. 반면 ‘원고(환자) 패’ 비율은 28.6%(3310건)로, 일반 민사소송의 ‘원고 패’ 비율(5%)보다 월등히 높았다. 법무법인 세승의 한진 변호사(의료 전문)는 “의료 민사소송의 경우 전문적인 내용이 많아 일반 소송보다 시간이 오래 걸리고, 과실을 입증해야 하는 환자 측 승소율이 떨어질 수밖에 없다”면서도 “소송이 장기화되면 환자뿐 아니라 의료진에게도 고통이 될 수밖에 없다”고 했다. 의료 소송에선 원고 측이 민사소송 승기를 잡기 위해 형사 고소를 병행하는 경우도 많은데, 의사들은 “경찰서와 법원을 몇 년씩 드나들다 보면 일을 그만두고 싶은 생각이 들 수밖에 없다”고 하소연한다. 정부는 의사들의 민사소송 리스크를 완화해주기 위해 의료기관 개설자가 의료 사고에 대한 책임보험 가입을 의무화하는 등의 방안을 추진하겠다고 지난해 밝혔지만, 아직까지 구체적인 내용은 정해지지 않았다. &lt;br&gt;&lt;br&gt;의료 분쟁이 반드시 소송을 통해서만 해결되는 것은 아니다. 정부는 빠르고, 쉽게 의료 분쟁을 해결할 수 있도록 2012년 ‘의료 분쟁 조정 제도’를 도입했다. 소송 대신 한국의료분쟁조정중재원의 조정 절차를 거치는 것이다. 한지아 의원실이 중재원에서 받은 자료에 따르면 2020~2025년 8월까지 5년 8개월 동안 1만2352건의 신청이 들어올 정도로 활성화돼 있다. 여기서도 과별 편차가 심했다. 정형외과의 경우 이 기간 총 2250건으로 가장 많은 신청이 들어왔다. 가정의학과(145건)의 15배 수치다. 필수과인 내과(1674건·2위), 외과(791건·5위), 산부인과(625건·7위), 응급의학과(388·10위)가 신청 건수 상위 10위에 들었다. &lt;br&gt;&lt;br&gt;한지아 의원은 “환자들이 민사와 함께 형사 고소를 병행하는 경우가 많아 불가항력적인 의료사고까지 과잉 범죄화 되고 있어 국민에게 꼭 필요한 필수 의료가 위축되고 있다”며 “정부가 의료 분쟁 조정 기능과 역량을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“다음 색은 뭘까?” 한강 빛섬축제 찾은 시민들</title>
       <link>https://www.chosun.com/national/national_general/2025/10/04/7ZBJTGZHVJHGLERV5YYBLTURZY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/7ZBJTGZHVJHGLERV5YYBLTURZY/</guid>
@@ -848,24 +866,6 @@
       <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R23WGFPQEFC5PEOJ2ZN6GQOMNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 서울 광진구 뚝섬한강공원에서 열린 ‘2025 서울라이트 한강 빛섬축제’에서 시민들이 레이저로 붉게 물든 분수를 바라보고 있다. 올해로 3회째를 맞는 이 축제는 이날부터 12일까지 열흘간 열린다. 오후 6시부터 10시 30분까지 다양한 레이저 쇼를 무료로 감상할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고려대, 기부금 약정액 3000억원… 인재 양성·이공계 부활 호소 통해</title>
-      <link>https://www.chosun.com/national/education/2025/10/04/37TUAEYIXBBGZEJCLGCJQPEGLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/04/37TUAEYIXBBGZEJCLGCJQPEGLU/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
-      <content:encoded>고려대가 최근 2년간 2400억원이 넘는 기부금을 약정받아 화제다. 같은 기간 서울 주요 타 사립대의 기부금 약정액보다 1000억~2200억원 많은 액수다. 올해 9월까지의 기부금 약정액을 더하면 3000억원이 넘는다.&lt;br&gt;&lt;br&gt;23 본지 취재를 종합하면, 고려대는 현 김동원 총장이 취임한 2023년 3월부터 지난달까지 2년 7개월간 약 3030억원의 기부금을 약정받았다. 고려대의 연간 기부금 약정액은 400억~500억원 수준이었는데 2023년엔 1540억원으로 급증했다. 지난해에도 873억원, 올해도 지난달까지 617억원을 약정받았다. &lt;br&gt;&lt;br&gt;서울 주요 사립대들 중 기부금 약정액을 공개하고 있는 연세대와 서강대는 재작년과 작년 총 2년간 각각 1411억원, 168억원을 약정받았다. 같은 기간 고려대는 2413억원이었다. 약정액은 기부자가 기부를 약속한 금액이다. 기부금을 몇 년에 나눠 기부할 수 있기 때문에 기부금 약정액과 실제 기부액은 다소 차이가 있다. &lt;br&gt;&lt;br&gt;기부금 납입액도 고려대가 제일 많았다. 대학알리미에 공시된 ‘기부금 현황’(교비회계 기준)에 따르면, 지난해 서울 주요 대학 중 기부금 납입액 1위는 855억원의 고려대였다. 2위는 연세대(668억원), 3위는 서울대(653억원)였다. &lt;br&gt;&lt;br&gt;고려대의 기부금 약정액이 최근 크게 늘어난 데에는 인재 양성, 특히 이공계 부활 필요성에 공감하는 기부자가 많았기 때문으로 분석된다. 기부금은 기부자가 지정한 용처에만 쓸 수 있는데, 약정액 3030억원의 약 42%가 ‘연구 우수 기금교수 임용’과 ‘자연계 건물 신축 공사’ 사업에 기부됐다. &lt;br&gt;&lt;br&gt;기부자들과 맞춤형 소통을 늘린 것도 큰 역할을 한 것으로 보인다. 김 총장은 해외 출장 등이 아니면 하루에 최소 한 번은 기부자들과 만나는 자리를 가졌다. 또 기부자의 관심 사안을 사전에 파악해, 이와 관련된 학교 사업을 설명하는 전략을 세웠다. 예컨대 고려대 출신 스타트업 대표를 만날 때는 학생들이 창업에 얼마나 적극적인지 설명하고, 이런 학생들을 위한 창업 공간 마련부터 생활비 지원, 선배 창업가와의 만남 등을 알려주며 기부를 제안하는 식이다.&lt;br&gt;&lt;br&gt;고려대의 기부금은 국내에서는 최대 규모이지만, 해외에는 명함도 못 내미는 수준이다. 미국 하버드대의 2024년(회계연도 기준) 보유 기부금은 532억달러(약 75조원)에 달한다. 이런 기부금 덕분에 미국 사립대의 등록금 의존율은 30% 안팎이지만, 국내 사립대는 수입 절반 이상을 등록금에 의존하고 있다. 기부금이 차지하는 비율은 2.6%에 불과했다. 전문가들은 국내 대학의 기부 문화를 활성화하려면 다양한 세제 혜택 등이 필요하다고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>BTS RM 소장품 공개한다</title>
-      <link>https://www.chosun.com/national/people/2025/10/04/GPP5WWWYBJFZFPDXETHIYZGGVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/04/GPP5WWWYBJFZFPDXETHIYZGGVE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2NT7BOVJBDVPL2V3NGFW2XALA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방탄소년단(BTS)의 멤버 RM(본명 김남준·31)이 미국 샌프란시스코 현대미술관(SFMOMA)과 협업해 특별 전시회 ‘RMxSFMOMA’를 연다. 전시는 2026년 10월부터 2027년 2월까지 열리며 RM의 개인 소장품과 미술관이 보유한 작품 등 200여 점을 선보인다. RM은 직접 큐레이터로 전시에 참여할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한집서 투명인간 취급이 ‘익숙하다’? 공황 수준의 고통 겪는 겁니다</title>
