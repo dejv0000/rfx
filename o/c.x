@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>부모와 따로 사는 자녀, 안부 전화 3~4일에 한 번꼴</title>
+      <link>https://www.chosun.com/national/education/2025/10/04/LXX45KD65NFPZEYFW6C5MTOX5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/04/LXX45KD65NFPZEYFW6C5MTOX5A/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
+      <content:encoded>부모와 함께 살지 않는 자녀는 3~4일에 한 번씩 부모에게 전화하는 것으로 나타났다. &lt;br&gt;&lt;br&gt;3일 한국보건사회연구원에 따르면, 전국 7499가구를 대상으로 실시한 ‘제19차 한국복지패널 조사’에서 전체 가구의 44.4%가 부모와 따로 사는 것으로 집계됐다. 이들이 최근 1년 동안 부모와 통화를 한 횟수는 평균 106회였다. 1년이 365일인 점을 감안하면 대략 사나흘 간격으로 연락을 한 셈이다.&lt;br&gt;&lt;br&gt;부모에게 연락하는 횟수는 가구의 소득수준에 따라 차이를 보였다. 1인 가구 기준 월 소득이 134만원 이상인 경우는 부모에게 전화하는 횟수가 연평균 106회였지만, 그 미만인 경우는 평균 95회였다. 하지만 부모를 직접 만나는 횟수는 반대로 나타났다. 월 소득 134만원 이상은 연평균 42회인 반면, 그 미만은 연평균 46회로 더 많았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 당정 “검찰청 해체” 다음날, 임은정은 플래시게임 배포</title>
       <link>https://www.chosun.com/national/court_law/2025/10/06/F5IOEW4GH5ACTLYZMPFWJTDKKY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/06/F5IOEW4GH5ACTLYZMPFWJTDKKY/</guid>
@@ -856,16 +865,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 15:48:00 +0000</pubDate>
       <content:encoded>윤석열 정부의 각종 의혹을 수사하는 3대 특별검사팀(내란·김건희·해병)이 출범 이후 3개월 동안 통신 자료를 1만9000여 건 조회한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 국민의힘 신성범 의원이 이동통신 3사(SK텔레콤·KT·LG유플러스)에서 받은 자료에 따르면, 3대 특검은 지난 6월부터 9월 22일까지 통신을 총 1만8982건 조회했다. 이 중 해병 특검이 1만209건으로 가장 많았고, 내란 특검 7815건, 김건희 특검 958건이었다. &lt;br&gt;&lt;br&gt;통신 조회는 통상 피의자와 연락한 기록이 있을 때 상대가 누구인지 확인할 목적 등으로 활용된다. 이용자의 이름과 주소, 주민등록번호, 가입일 또는 해지일 등 간단한 정보를 확인할 수 있는데, 수사기관은 법원 허가 없이 통신사에 요청해 자료를 받을 수 있다. 자료를 받은 뒤 30일 안에 당사자에게 알려야 하지만, 수사 상황에 따라 3개월씩 2차례 유예할 수 있게 돼 있다. 이와 달리 구체적 통화 일시·내용, 위치 등을 보는 통신 사실 확인 자료는 법원 영장이 필요하다.&lt;br&gt;&lt;br&gt;통신 조회는 정치적 사건을 수사할 때마다 논란이 됐다. 주로 야당이 문제 삼았다. 더불어민주당은 윤석열 정부 때인 2024년 8월 당시 당대표였던 이재명 대통령과 국회의원, 보좌관 등에 대한 통신 조회 결과를 통보받고 “정치 사찰”이라고 주장했다. 검찰의 ‘대선 개입 여론 조작’ 사건 수사를 문제 삼은 것이다. &lt;br&gt;&lt;br&gt;문재인 정부인 2021년에는 국민의힘이 고위공직자범죄수사처(공수처)의 이성윤 당시 서울고검장에 대한 ‘황제 조사’ 관련 수사 때 기자와 그 가족 등 170여 명에 대한 통신 조회를 한 사실을 문제 삼았다. 다만 법원은 당사자들이 불법 사찰이라며 국가를 상대로 제기한 손해배상 소송은 인정하지 않고 있다.&lt;br&gt;&lt;br&gt;신성범 의원은 “개인 정보가 담긴 통신 조회는 수사나 방첩 목적으로 필요할 경우 최소한에 그쳐야 한다”며 “특검 역시 성역일 수 없다. 수사기관의 무분별한 통신 조회 관행을 개선할 합리적 통제 장치가 반드시 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“다음 색은 뭘까?” 한강 빛섬축제 찾은 시민들</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/7ZBJTGZHVJHGLERV5YYBLTURZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/7ZBJTGZHVJHGLERV5YYBLTURZY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R23WGFPQEFC5PEOJ2ZN6GQOMNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 서울 광진구 뚝섬한강공원에서 열린 ‘2025 서울라이트 한강 빛섬축제’에서 시민들이 레이저로 붉게 물든 분수를 바라보고 있다. 올해로 3회째를 맞는 이 축제는 이날부터 12일까지 열흘간 열린다. 오후 6시부터 10시 30분까지 다양한 레이저 쇼를 무료로 감상할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한집서 투명인간 취급이 ‘익숙하다’? 공황 수준의 고통 겪는 겁니다</title>
