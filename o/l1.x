@@ -80,16 +80,6 @@
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 		<item>
-			<title>[속보] 이진숙 4일 서울남부지법서 체포적부심</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212061.jpg" alt="2627.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;국가공무원법 및 공직선거법 위반 등의 혐의로 체포된 이진숙 전 방송통신위원장이 10월 2일 서울 영등포경찰서로 압송되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 03 Oct 2025 03:07:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212061</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212061</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212061.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
 			<title>[단독] 행정기관 깜깜이 행정 여전…비공개 행정규칙 204건</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/211988.jpg" alt="363.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=AI 생성 이미지》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;비공개 행정규칙을 통한 행정기관들의 '깜깜이 행정'이 여전한 것으로 나타났다. 국민 생활과 직결된 행정규칙마저 수사·재판이나 내부 검토를 이유로 비공개 처리하는 상황이다. 국민의 알권리는 물론 행정의 예측 가능성이 침해된다는 지적이 나온다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;박준태 국민의힘 의원실에 따르면 올해 8월 기준 비공개 행정규칙은 총 204건으로 집계됐다. 기관별로는 국방부가 57건으로 가장 많았고 대검찰청(52건), 우정사업본부(28건) 뒤따랐다. 관세청·법무부도 각각 13건으로 다수의 비공개 규칙을 운영 중인 것으로 드러났다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;문제는 국민 생활과 밀접한 규칙마저 공개되지 않고 있다는 점이다. 대표적으로 수사·재판(제4호) 관련 비공개 규칙에는 대검찰청의 '가정폭력사건 처리 및 피해자 지원 지침', '아동 학대 사건 처리 및 피해자 지원 지침' 등이 포함된다. 가정폭력 피해자나 아동 학대 피해자들은 어떤 방법으로 지원받을 수 있을지 사전적으로 알 수 없는 상황에 내몰리는 셈이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;행정규칙은 각급 행정기관이 법령 시행 및 행정사무 처리와 관련해 발령하는 훈령, 예규, 고시, 규정, 규칙, 지시, 지침, 통첩 등을 포괄하는 개념이다. 원칙적으로 공개 대상이지만, 공공기관의 정보공개에 관한 법률 제9조 제1항에 해당하는 경우에는 비공개도 가능하다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;비공개 사유는 △비밀·대외비(제1호) △국가안전보장 등(제2호) △국민 생명·재산 보호(제3호) △진행 중 재판·수사 등(제4호) △내부 검토 과정(제5호) △개인정보(제6호) △영업상 비밀(제7호) △투기 우려(제8호) 등 8가지로 나뉘며, 이 중 수사·재판(제4호)과 내부 검토(제5호)가 대다수를 차지했다. 실제로 전체 204건 중 60건이 수사·재판 관련, 23건이 내부 검토 관련 사유로 비공개 처리돼 전체의 41%를 차지했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법제처는 각 부처에 비공개 규칙 제출과 공개를 지속적으로 요청해 왔지만, 최근 5년간 공개 전환율은 평균 5%에 불과했다. 회신율은 평균 66% 수준이었으나 실제 공개 전환은 극히 저조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;법제처는 "행정규칙의 속성상 그 발령과 공개에 관한 1차적 판단권은 소관 부처에 있고 이를 강제할 수 없어 비공개 행정규칙 관리에 다소 어려움이 있으나, 지속적으로 모니터링하며 공개가 필요한 규칙은 공개될 수 있도록 독려하겠다"고 설명했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;박준태 의원은 "국민의 삶과 직접 관련된 행정규칙들이 행정 관리상의 어려움을 이유로 공개되지 않는 것은 문제가 있다고 생각한다"며 "각 부처는 공개 가능한 규칙 목록을 신속히 작성하고, 이를 바탕으로 공개 절차에 즉시 착수해야 한다"고 밝혔다.&lt;/p&gt;</description>
 			<pubDate>Thu, 02 Oct 2025 20:07:43 -0000</pubDate>
@@ -187,16 +177,6 @@
 			<dc:creator>김지현 기자</dc:creator>
 		</item>
 		<item>
-			<title>[속보] 법원, 권성동 의원·한학자 총재 구속적부심 기각</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212040.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
-			<pubDate>Wed, 01 Oct 2025 14:52:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212040</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212040</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212040.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
 			<title>한국형사·법무정책연구원, 한국재산법학회와 업무협약</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212034.jpg" alt="6373.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정웅석 원장, 김상중 회장 등 업무협약식에 참석한 관계자들. 《사진=KICJ 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사·법무정책연구원(원장 정웅석, 이하 KICJ)은 9월 29일 서울 서초구 우면동 KICJ 회의실에서 한국재산법학회(회장 김상중)와 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;이번 협약은 재산법과 형사·법무정책을 연계한 연구를 강화하고, 민법 개정 논의와 디지털 전환에 따른 사법적 대응을 위한 협력 기반을 다지기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;양 기관은 이번 협약을 통해 △공동 연구 및 학술 대회 공동 개최 △연구 목적의 조사 활동에 대한 편의 및 정보 제공 △연구 자료 및 간행물 교류 △전문 인력 및 발표자 상호 지원 △기타 상호 발전을 위한 협력 사항 등에서 협력을 강화하기로 했다.&lt;br /&gt;&lt;br /&gt;KICJ는 이번 협약을 계기로 공동학술대회 개최, 정책 제안 도출, 후속 연구 수행 등 실질적 협력 사업을 추진하며, 학계·정책·실무가 연결되는 지속 가능한 협력 체계를 정례화해 나갈 계획이다.&lt;br /&gt;&lt;br /&gt;정웅석 KICJ 원장은 "재산법과 관련한 새로운 사법적 과제들에 효과적으로 대응하고, 실질적 연구 성과와 정책 대안을 제시하는 데 노력하겠다"고 밝혔다.</description>
 			<pubDate>Wed, 01 Oct 2025 11:46:42 -0000</pubDate>
@@ -235,6 +215,24 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212030</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212030.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>'건진법사' 서브 브로커 이성재 무죄 주장, 핵심 증인은 불출석</title>
+			<description>건진법사 전성배 씨의 측근이자 법조 브로커로 알려진 이성재 씨 측은 혐의를 모두 부인하며 무죄를 주장했다. &lt;br /&gt;&lt;br /&gt;서울중앙지법 형사21부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7739"&gt;이현복&amp;nbsp;&lt;/span&gt;부장판사)는 10월 1일 브로커 이 씨에 대한 1차 공판기일을 열고 증거조사를 진행했다(&lt;b&gt;2025고합1168&lt;/b&gt;). 이날 수형복 차림으로 법정에 들어선 이 씨는 수사 무마·재판 편의 등을 요청하는 사람들을 전 씨와 연결해 준 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;이 씨는 김 씨로부터 5억 원을 요구해 4억 원을 받고, 전 씨에게 재판 편의 청탁을 전달한 혐의를 받고 있다. 이날 특검 측은 “피고인 이 씨는 일명 건진법사 전성배 씨의 서브 브로커로 윤 대통령 당선 이후 대통령 부부와 유력 정치인들과의 친분을 과시해 각종 재판 청탁을 받아온 사람” 라고 공소사실을 설명했다. 이어 “김 씨가 무죄 선고를 받기 위한 작업을 해줄 사람을 찾고 있다고 하자, 장 씨를 통해 김 씨에게 대통령 부부나 정치인들, 고위 법관과 친한 건진법사 전 씨가 있고, 부탁해서 무죄를 받을 수 있다”며 “현금 5억을 요구했다”고 설명했다. 이에 이 씨는 장 씨를 통해 현금 합계 4억을 수수했다는 것이 특검 측의 설명이다.&lt;br /&gt;&lt;br /&gt;이에 이 씨 측은 “특가법(특정범죄 가중처벌 등에 관한 법률)상 알선수재의 객관적 구속 요건 요소에 해당하는 알선청탁 등 특정한 사실에 대한 직접적인 증거가 없다”며 “무엇보다도 피고인에게는 알선수재 고의와 목적이 없어 무죄를 주장한다”고 말했다. 김 씨와 장 씨의 진술은 신빙성을 인정할 수 없고, 사건 청탁 교부 원인으로 언급된 검찰 쪽 증거도 부족한 상태라는 취지다. 앞서 이씨 측은 청탁 목적이 아닌 투자 계약금 명목으로 김 씨로부터 4억원이 아닌 3억3천만원을 받았다고 주장한 바 있다.&lt;br /&gt;&lt;br /&gt;김 씨와 장 씨는 증인신문이 예정돼 있었지만 법정에 나오지 않았다. 재판부에 따르면 장 씨는 9월 30일, 김 씨는 수감된 상태에서 10월 1일 불출석 사유서를 냈다. 재판부는 두 증인의 불출석 사유에 대해 “합리적이고 상당한 이유를 찾을 수 없다”며 각각 500만 원의 과태료를 부과했다. &lt;br /&gt;&lt;br /&gt;이날 서증조사도 진행됐다. 특검 측은 증거로 이 사건과 유사한 이 씨의 범죄 전력, 압수 절차가 적법하게 진행됐다는 보고 서류, 증인 김 씨가 이 씨에게 보낸 편지와 면회 접견 내역, 이 씨의 갤럭시 워치에 전 씨로부터 전화가 걸려 오는 사진, 증인 장 씨의 진술과 메모, 이 씨와 장 씨의 접견 대화 내용, 전 씨의 변호사와 이 씨가 나눈 대화 내용, 전 씨와 이 씨의 계좌 거래 내역, 이 씨와 챗지피티의 고민 상담 내용 등이 포함됐다.&lt;br /&gt;&lt;br /&gt;재판부는 “오늘 진행된 서증조사를 통해 법정에서 이 사건 범행 무렵 관련자들인 피고인 이 씨와 증인 김 씨와 장 씨, 그리고 건진법사 전 씨가 접촉했다는 점과 그 내용, 금융거래 등을 확인했다”며 “이 사건의 청탁 대상인 김 씨가 언급되며 이 씨와 장 씨 사이의 수많은 대화와 편지가 이루어졌다는 정황도 확인했다”고 전했다. 그러면서도 “김 씨와 장 씨의 증인신문을 통해서 추가 증거조사를 하겠다”고 설명했다.&lt;br /&gt;&lt;br /&gt;특검 측이 제시한 서증에 따르면, 김 씨가 이 씨에게 보낸 편지에는 “내가 부모님(전성배 씨) 통해서 일한 건 모르지만, 주변에서다 형님(이 씨)을 통해 일한 건 아는데, 주변에 말이 많다”는 내용이 담겨있다. 또 이 씨가 김 씨의 폭로에 대비하기 위해 관련 서류를 만들기 위해 챗지피티의 도움을 받은 것으로도 조사됐다. &lt;br /&gt;&lt;br /&gt;다음 기일은 11월 14일 오전 10시부터 진행된다. 재판부는 이날 “특검에서 분리 기소한 여러 사건이 진행 중이라 일정이 빼곡하다”며 “다음 기일에는 증인 김 씨와 장 씨가 꼭 나올 수 있게 적극적으로 조치해달라”고 했다.</description>
+			<pubDate>Wed, 01 Oct 2025 11:28:49 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212029</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212029</guid>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>검찰, '불법 유출 기술' 사용해 中서 D램 개발한 삼성전자 전 임직원 구속기소</title>
+			<description>검찰이 불법 유출된 삼성전자 기술을 부정사용해 중국에서 D램 생산을 주도한 전직 삼성전자 임원 등 3명을 구속 기소했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 정보기술범죄수사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13492"&gt;김윤용&lt;/span&gt;)는 1일 불법 유출된 삼성전자의 18나노 D램 공정 국가핵심기술을 중국 반도체 회사 CXMT(청신메모리반도체)에서 부정사용한 혐의로 양모씨 등 3명을 구속 상태로 재판에 넘겼다고 밝혔다.&lt;br /&gt;&lt;br /&gt;양 씨는 삼성전자 전 임원 출신으로 CXMT 2기 개발실장을 맡은 인물이다. 함께 기소된 신모씨와 권모씨는 삼성전자 연구원 출신으로 각각 CXMT의 팀장과 수석으로 일했다. 이들은 모두 CXMT의 2기 개발팀 핵심 인력으로, 삼성전자 내부 기술을 활용해 중국에서 D램을 개발했다는 혐의를 받고 있다.&lt;br /&gt;&lt;br /&gt;CXMT는 중국 지방정부가 2조6000억원을 투자해 설립한 중국 최초의 D램 반도체회사다. 검찰에 따르면 CXMT는 설립 직후부터 삼성전자 핵기술을 확보하기 위해 삼성전자 출신 인력을 영입하는 등 D램 개발 계획을 수립했다. 유출된 기술은 삼성전자가 1조6000원을 투자해 세계 최초로 개발한 10나노대 D램의 최신 공정기술이다.&lt;br /&gt;&lt;br /&gt;앞서 검찰은 삼성전자의 국가핵심기술 유출 정황을 포착하고 직접 수사에 나섰다. 검찰은 지난해 1월 삼성전자 부장 출신으로 CXMT 1기 개발실장을 맡은 김모씨를, 올해 5월에는 삼성전자 연구원 출신 전모씨를 국가핵심기술 부정취득 혐의로 각각 구속 기소했다. 김 씨는 1심에서 징역 7년을 선고받았다.&lt;br /&gt;&lt;br /&gt;CXMT의 1기 개발실장인 김 씨 등은 삼성전자 퇴직자 박모씨(인터폴 적색수배 중)를 통해 D램 공정 국가핵심기술 유출 자료를 부정 취득했다. 박 씨는 수백 단계의 공정정보를 노트에 베껴 적어 유출한 것으로 조사됐다. &lt;br /&gt;&lt;br /&gt;이후 2기 개발팀 3명은 1기 개발팀으로부터 삼성전자의 국가핵심기술 유출 자료를 전달 받았다. 이들은 삼성전자의 실제 제품을 분해해 유출 자료를 검증하고, 이를 토대로 제조 테스트를 진행한 것으로 조사됐다. 그 결과 CXMT는 2023년 중국 최초이자 세계 네 번째로 18나노 D램 양산에 성공했다.&lt;br /&gt;&lt;br /&gt;양 씨 등 2기 개발팀 3명은 CXMT로부터 4~6년간 삼성전자 연봉의 3~5배에 달하는 15~30억 원의 금액을 받고 기술 유출과 개발에 가담한 것으로 조사됐다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면 이번 사건으로 인한 삼성전자의 손해가 2024년 추정 매출 감소액만 5조원에 이르며 향후 피해액도 최소 수십조원에 달할 것으로 예상된다. &lt;br /&gt;&lt;br /&gt;검찰 관계자는 "앞으로도 피해 기업과 국가 경제를 위협하는 기술유출 범죄에 엄정 대응하겠다"고 했다.&lt;br /&gt;</description>
+			<pubDate>Wed, 01 Oct 2025 09:09:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212028</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212028</guid>
+			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
