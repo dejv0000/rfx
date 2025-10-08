@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>추석 연휴 귀경길 일부 구간 정체…부산→서울 5시간10분</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/08/WRHCH4M5V5CTZMXFLJOHOQHEMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/08/WRHCH4M5V5CTZMXFLJOHOQHEMI/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 08:41:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSHOXG4FNZJGJIVEDDAHDIEPNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추석연휴 엿새째인 8일 오후 서울 서초구 잠원IC 인근 경부고속도로에서 하행선(오른쪽) 차량들이 서행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 엿새째인 8일 귀경길 일부 구간에서 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면, 이날 오후 6시 기준 전국 주요 도시 요금소에서 서울까지 걸리는 시간은 부산 5시간 10분, 울산 4시간 50분, 목포 4시간 40분, 광주 4시간 20분, 대구 4시간 10분, 강릉 3시간 50분, 양양 3시간 30분, 대전 2시간 50분 등으로 예상된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNVKTRTBDFGNVFE2O6WPZS7AUA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울에서 각 도시까지 걸리는 시간은 부산 4시간 30분, 울산 4시간 10분, 목포 3시간 40분, 대구 3시간 30분, 광주 3시간 20분, 강릉 2시간 40분, 대전 1시간 36분 등이다.&lt;br&gt;&lt;br&gt;경부고속도로 서울 방향은 달래내 부근∼반포 7㎞, 안성분기점 2㎞, 천안삼거리∼천안 5㎞, 신탄진∼남청주 10㎞ 등 구간에서 차량 행렬이 정체하고 있다. &lt;br&gt;&lt;br&gt;부산 방향에서는 경주∼활천 부근 2㎞, 통도사 부근∼석계 부근 6㎞ 등에서 차량이 일부 서행하고 있다.&lt;br&gt;&lt;br&gt;이밖에 대다수 고속도로에서는 전반적으로 흐름이 원활한 편이다.&lt;br&gt;&lt;br&gt;공사가 예상한 이날 전국 교통량은 546만대다. 수도권에서 지방으로 33만대, 지방에서 수도권으로 32만대가 이동할 것으로 전망됐다.&lt;br&gt;&lt;br&gt;공사는 귀경, 행락 차량 등으로 서울 방향에 정체가 집중될 것으로 보고 있다. 귀경 방향 정체는 오후 5∼6시쯤 가장 심하겠고, 오후 11시∼이튿날 0시쯤 해소될 것으로 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  10월 9일 목요일 (음력 8월 18일 辛亥)</title>
       <link>https://www.chosun.com/national/national_general/2025/10/08/4UML45TBJ5DF7AXTI5MTOCQ4DM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/4UML45TBJ5DF7AXTI5MTOCQ4DM/</guid>
@@ -872,15 +881,6 @@
       <description/>
       <pubDate>Sat, 04 Oct 2025 09:26:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKUC63TKJBONJEXHBLBFEFKXYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 공직선거법·국가공무원법 위반 혐의로 경찰에 체포된 이진숙 전 방송통신위원장에 대해 4일 석방 명령을 내렸다. 이에 따라 이 전 위원장은 즉시 석방 수순을 밟는다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시 진행된 체포적부심사 결과 “현 단계에서는 체포의 필요성이 유지되지 않는다”며 이 전 위원장의 청구를 인용했다.&lt;br&gt;&lt;br&gt;재판부는 “기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다“며 ”이미 상당한 정도로 피의자에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 필요성도 크지 않았으며, 심문 과정에서 피의자가 성실한 출석을 약속하고 있다”고 인용 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피의사실의 범죄 성립 여부에 관해 다툼의 여지가 상당하기는 하나 수사의 필요성이 전면 부정된다고까지 보기는 어렵다”며 “피의사실 중 공직선거법 위반의 점에 대한 공소시효가 다가오고 있어 수사기관으로서는 피의자를 신속히 소환 조사할 필요가 있음은 일응 인정할 수 있고, 피의자가 수사기관의 출석 요구에 응하지 않은 것도 사실”이라고도 했다.&lt;br&gt;&lt;br&gt;또 “단기 공소시효로 인한 사안의 시급성에 비추어 피의자로서도 자신의 출석 가능한 일정을 적극적으로 밝히고 최대한 신속히 출석 요구에 응할 필요가 있었음에도 피의자의 회신 노력이 부족했음을 지적하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이어 “피의자가 사전에 스스로 약속한 마지막 출석 예정 일자에 결국 불출석하게 된 이유로 들고 있는 국회 출석이 과연 불가피한 것이었는지 의문이 남는 점 등을 고려할 때, 변호인이 제기하는 일부 의문점에 충분한 경청의 필요성이 있음에도 불구하고 체포의 적법성 자체를 부정하기는 어렵다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이 전 위원장의 청구가 인용되자 “법원의 결정을 존중한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;법원이 체포적부심사 인용 결정을 내리면서, 서울 영등포경찰서 유치장에 수감돼 있던 이 전 위원장은 곧 석방될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배우자 반대에도 장남에 재산 몰아준 노인… 대법 “이혼 사유”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/04/MEHWHUVIH5BPXAJ2Q6UDNZ2UOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/MEHWHUVIH5BPXAJ2Q6UDNZ2UOA/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 04:20:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2G57UF4EZEQRESBPX5U2FU3VU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60년 넘게 결혼 생활을 하면서 함께 이룬 재산을 배우자의 반대에도 일방적으로 장남에게 몰아주는 것은 이혼 사유가 된다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 지난달 80대 A씨가 배우자인 90대 B씨를 상대로 낸 이혼 소송에서 ‘이혼 사유가 안 된다’고 본 원심 판결을 깨고 사건을 대전고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 1961년 결혼해 3남 3녀를 뒀다. 함께 농사를 지어 벌어들인 수입으로 생계를 유지했고, A씨는 식당 등에서 종업원으로 일하기도 했다. 다만 부부가 혼인 기간 매입한 주택과 농지 등은 대부분 B씨의 단독 명의로 돼 있었다.&lt;br&gt;&lt;br&gt;두 사람이 재산 문제로 갈등하기 시작한 건 2022년 살던 주택이 산업단지 조성 사업에 편입·수용되면서부터였다. B씨는 A씨의 반대에도 불구하고 약 3억원의 보상금을 장남에게 증여했고, A씨는 집을 나와 별거를 시작했다. 이후 B씨는 배우자와 상의 없이 가지고 있던 15억원 상당의 농지도 장남에게 물려줬다. &lt;br&gt;&lt;br&gt;이에 A씨는 “B씨에게 부당한 대우를 받았고, 부부 관계가 회복할 수 없을 정도로 파탄됐다”면서 이혼 소송을 제기했다. 특히 B씨의 일방적인 재산 처분 과정이 가장 큰 문제라고 주장했다. B씨는 “해당 부동산은 결혼 전부터 갖고 있었거나 혼인 중 상속·증여받은 ‘특유 재산’”이라며 “이를 장남에게 물려준 것이 이혼 사유가 될 수 없다”고 반박했다.&lt;br&gt;&lt;br&gt;1·2심은 “부부 관계가 회복할 수 없을 정도로 파탄되고 혼인 생활을 강제하는 것이 A씨에게 참을 수 없는 고통이 되는 경우에 해당한다고 인정하기 어렵다”면서 A씨의 이혼 청구를 받아들이지 않았다. 재산을 장남에게 증여한 것만으로는 결혼이 파탄된 책임이 B씨에게 있다고 보기 어렵다는 것이다. &lt;br&gt;&lt;br&gt;그러나 대법원은 A씨 손을 들어주며 원심을 파기환송했다. 대법원은 “B씨가 일방적으로 장남에게 증여한 재산은 부부 생활의 기초를 이루는 자택이나 농경지 거의 전부에 해당하고, 그 가치는 총 18억원 이상”이라며 “이는 혼인 중 공동으로 이룩한 재산의 주요 부분을 정당한 이유 없이 배우자의 협의나 동의 없이 일방적으로 처분해 부부 생활의 경제적 기반을 형해화하거나 위태롭게 한 행위에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “노령이 된 B씨는 A씨와 함께 평생 이룬 재산을 일방적으로 처분하고, A씨에게 남은 생애의 도모를 위한 합당한 대안을 제시하지 않았다”며 “A씨의 경제적 자립과 안정에 대한 기대와 신뢰를 심각하게 해쳤다”고 했다. 그러면서 “두 사람의 갈등 내용과 정도, 별거 경위와 기간 등을 고려하면 이들 혼인 관계는 부부 상호 간 애정과 신뢰가 회복할 수 없을 정도로 훼손되고 혼인 생활을 강제하는 것이 A씨에게 참을 수 없는 고통이 된다고 보기에 충분하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>택시기사 폭행한 취객에 ‘초크’ 걸어 제압한 청년…아이돌 연습생이었다</title>
