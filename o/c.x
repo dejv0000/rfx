@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>농지 불법 사실 숨기고 허위 증언한 공인중개사, 벌금형</title>
+      <link>https://www.chosun.com/national/2025/10/08/K7UE5CNJPVH6FOHPYFJS4HQDFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/08/K7UE5CNJPVH6FOHPYFJS4HQDFA/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 04:54:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO2PNAXEGANSXXZVDEDDP2JWFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 매매를 중개하면서 토지 일부가 불법 전용되고 있는 사실을 알려주지 않고, 법정에서 허위 증언까지 한 공인중개사가 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;울산지법 형사5단독 조국인 부장판사는 위증 혐의로 재판에 넘겨진 50대 공인중개사 A씨에게 벌금 600만원을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 3월 말 울산 울주군 일대 토지와 건물 부지 등 약 1100㎡에 대한 매매 계약을 중개했다.&lt;br&gt;&lt;br&gt;그는 중개를 하면서 이 부지에 있는 동물장례시설(동물수목장지)이 불법이라는 사실을 B씨에게 알려주지 않았다.&lt;br&gt;&lt;br&gt;B씨는 매매계약 후 소유권을 이전받기 위해 관청에 농지원부를 신청했다가 거부당하자 그때 서야 해당 시설이 불법이라는 걸 알게 됐다. 이후 해당 협동조합을 상대로 계약금 반환청구 소송을 냈다.&lt;br&gt;&lt;br&gt;재판이 시작되자 A씨는 증인으로 법정에 출석해 “계약 전 B씨에게 동물수목장지가 편법, 불법이라는 사실을 알려줬다”는 취지로 증언했다.&lt;br&gt;&lt;br&gt;법원은 그러나 이 진술이 거짓이라고 판단했다.&lt;br&gt;&lt;br&gt;불법 시설물 유무는 매매에서 중요한 사항인데도 매매계약서에 관련 내용이 전혀 없다는 것이다.&lt;br&gt;&lt;br&gt;계약 전 A씨가 B씨에게 전화로 “동물 사체를 매장하면 불법”이라고 하면서도 “앞으로는 허가가 잘 안 난다”고 말해 현재 시설은 합법인 것처럼 강조하며 매수를 권유한 점도 반영했다.&lt;br&gt;&lt;br&gt;조 부장판사는 “A씨의 범행은 법원의 실체적 진실 발견을 위한 심리를 방해하고 국가의 사법기능을 침해하는 범죄로 엄히 처벌할 필요가 있다”며 “A씨는 범행을 부인하면서 잘못을 반성하는 태도도 보이지 않고 있다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “다만 동종 범행으로 처벌받은 전력이 없는 점, A씨의 증언이 관련 재판 결과에 영향을 미치지는 않은 점 등을 참작했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>돈 받고 자국민 제주도 이탈 도와...30대 베트남 선원, 징역 1년</title>
+      <link>https://www.chosun.com/national/regional/2025/10/08/AGGMPYKO3FADXMPQWMNQ4YIOCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/08/AGGMPYKO3FADXMPQWMNQ4YIOCI/</guid>
+      <dc:creator>부산-김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 04:51:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPOLJHN2VYOGRPHDOF4VMLUS5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산고등·지방법원 전경. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도로 지정된 체류 지역을 벗어나려는 베트남 동포들을 제주도 밖으로 이동시켜주는 대가로 돈을 받은 베트남 국적 선원이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 제주특별자치도 설치 및 국제자유도시 조성을 위한 특별법 위반 혐의로 기소된 30대 남성 A씨에게 징역 1년을 선고했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2013년 ‘선원취업’(E-10) 체류 자격으로 국내에 입국해 선원으로 일해왔다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월부터 같은 해 12월까지 5차례에 걸쳐 법무부 장관의 체류 지역 확대 허가를 받지 않은 베트남 국적 외국인 16명을 제주도 성산항에서 부산 남항으로 이동시켜 준 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 자신이 일하던 오징어잡이 배의 한국인 선장 등과 공모해 이런 일을 벌였다. A씨 일당은 1인당 250만원에서 300만원을 받고 해당 어선의 어창에 베트남인들을 숨겨 제주에서 부산으로 향했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 대가를 지급받고 법무부 장관의 허가를 받지 않은 베트남인들을 제주도 이외 지역으로 이동시키는 등 죄질이 좋지 않다”며 “출입국 관리에 관한 대한민국 공무에 혼란을 초래했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울대 의사과학자, 절반은 연구소 아닌 병원으로</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/HDCRFXQGGJB5NDTGMWDIDUVGDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/HDCRFXQGGJB5NDTGMWDIDUVGDY/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 04:04:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XASN2ZLYH7UE33TEGJ272YPPF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 의과대학의 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임상에서 직면하는 문제를 연구실에서 해결하고 의료 발전을 위한 연구를 주도하는 의사과학자 절반이 연구소가 아닌 병원에서 근무하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;김용태 국민의힘 의원실이 서울대 등으로부터 제출받은 자료에 따르면 2018년부터 올해까지 의사과학자 양성사업에 참여한 서울대 의과대학 재학생은 148명이다.&lt;br&gt;&lt;br&gt;이 중 교육과정을 마친 48명이다. 48명 중 절반 수준인 23명(47.9%)은 연구학술기관으로, 22명(45.8%)은 의료보건기관으로 진출한 것으로 나타났다.&lt;br&gt;&lt;br&gt;다른 대학도 상황은 크게 다르지 않다. 지난달 기준 보건복지부 의사과학자 양성사업을 수료한 77명 중 36명(46.8%)은 임상·연구에 종사하고 있다. 순수 연구 분야에 종사하는 것은 34명(44.2%)다.&lt;br&gt;&lt;br&gt;김 의원은 “지금의 의대 기반 과정으로는 의사과학자 양성에 한계가 있다”며 “의사와 비교해 연구직의 소득이 매우 적고 연구 환경이나 진로가 어렵다 보니 우수인력 확보도 어려운 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 복지부는 2019년부터 사업을 통해 의사과학자의 박사학위 취득까지 전주기 양성 과정을 지원하고 있다.&lt;br&gt;&lt;br&gt;배출된 의사과학자들이 연구를 이어갈 수 있도록 최대 11년간 경력 단계별로 지원하는 ‘글로벌 의사과학자 양성 사업’도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정보자원관리원 화재 피해 시스템 647개 中 165개 복구...복구율 25.5%</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/ATRYS3QPAVDLBOWNFGGTQ4QALM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/ATRYS3QPAVDLBOWNFGGTQ4QALM/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 04:23:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOJAKSNWY6LEFFQBGFOVUFYFZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오전 화재가 발생했던 대전 유성구 국가정보자원관리원 화재현장의 모습. 전산 자원을 통합 관리하는 행정안전부 산하 국가정보자원관리원에서 지난 26일 오후 배터리 교체 작업 중 화재가 발생, 정부 온라인 서비스 70개가 마비됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 국가정보자원관리원(정보자원관리원) 화재로 주요 공공기관 시스템 마비가 13일째 이어지는 가운데, 행정안전부가 8일 낮 12시 기준으로 셧다운된 시스템 647개 가운데 165개를 복구했다고 밝혔다. 복구율은 25.5%다.&lt;br&gt;&lt;br&gt;행안부에 따르면, 전날 과학기술정보통신부 인터넷우체국 택배, 방송미디어통신위원회 내부 메일 시스템, 중소기업벤처부 기업지원플러스, 행정안전부 하모니 시스템 등이 복구된 데 이어 문화체육관광부 내부 업무 포털(나루)과 관세청 업무 지원 시스템이 이날 오전 추가 복구됐다.&lt;br&gt;&lt;br&gt;국민 생활과 밀접한 1등급 핵심 시스템은 22개가 복구됐다. 전날과 같다. 정부는 서비스 중요도에 따라 시스템을 1~4등급으로 구분하는데, 1등급은 업무 영향도, 사용자 수, 파급도 등이 높은 시스템이다. 화재로 피해를 본 1등급 시스템은 36개로, 현재 복구율은 61.1%다.&lt;br&gt;&lt;br&gt;정부는 연휴 기간 민간 전문가와 연구 기관, 공무원 등을 투입해 화재로 피해를 본 시스템을 복구하고 있다. 공무원 220명과 관련 사업자 상주 인원 570명, 기술 지원·분진 제거 전문 인력 30명 등 약 800명을 투입해 복구 중이다.&lt;br&gt;&lt;br&gt;추석 연휴(3일) 첫날 오전 6시 기준 시스템 복구율은 17.7%(115개)였는데, 50개 시스템을 더 복구하면서 복구율은 엿새 동안 7.8%포인트 올랐다. 행안부 관계자는 “국민 불편을 빠른 시일 내에 해소할 수 있도록 민간 클라우드 기업과 협업하여 시스템 복구에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3년간 ‘음주운전·성비위’ 징계 1·2위, 교육부·경찰청</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/KK6ZR7EFDZCMJBI32OS2723JJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/KK6ZR7EFDZCMJBI32OS2723JJM/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 03:27:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3QVXHPTZ5AVVQJY3AZBGJPV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 3년간 성폭력·성희롱 등 성 비위와 음주운전으로 징계를 받은 국가공무원이 2000명을 넘은 것으로 나타났다. 징계자가 가장 많은 기관은 교육부였고, 그 다음은 경찰청이었다.&lt;br&gt;&lt;br&gt;8일 국회 행정안전위원회 소속 박정현 더불어민주당 의원이 인사혁신처에서 제출받은 ‘최근 3년간 국가공무원 성비위·음주운전 징계 현황’에 따르면, 2022년부터 올해까지 중앙행정기관 소속 공무원 2356명이 성비위나 음주운전으로 징계를 받았다. 이 중 성비위가 921명, 음주운전이 1435명이었다.&lt;br&gt;&lt;br&gt;연도별로는 성비위 징계자가 2022년 313명, 2023년 316명, 2024년 292명으로 집계됐다. 음주운전은 2022년 479명에서 2023년 497명으로 늘었다가 올해 459명으로 소폭 줄었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNGXIP22CVBFLFASRKQBTIPLAY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기관별로는 교육부(교원 포함)가 851명으로 전체의 36.1%를 차지해 가장 많았다. 이어 경찰청이 419명(17.8%), 소방청 335명(14.2%), 과학기술정보통신부 199명(8.4%), 법무부 81명(3.4%) 순이었다.&lt;br&gt;&lt;br&gt;교육부와 경찰청의 징계자가 많은 것은 소속 인원이 워낙 많기 때문으로 풀이된다. 교육부는 교원을 포함해 약 24만 명에 달하는 대규모 조직이며, 경찰청 역시 현직 경찰관 약 13만 명을 포함한 인력 규모가 크다.&lt;br&gt;&lt;br&gt;징계 수위별로 보면, 성비위의 경우 정직(35.9%)이 가장 많았고 해임(21.1%), 견책(16.9%), 파면(10.5%) 순이었다. 음주운전은 정직(61.2%)이 절반 이상을 차지했으며 감봉(17.3%), 견책(11.5%), 해임(8.0%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;특히 최근 3년간 음주운전으로 ‘파면’ 처분을 받은 공무원은 해양수산부 소속 1명뿐이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“시장님, 무등산에 차별은 없어야 합니다” 외국인 출입 제한에 인권위 진정 제기</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/26SBS5EDIZBDLA5PDEJWVY2WRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/26SBS5EDIZBDLA5PDEJWVY2WRU/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 03:58:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SL4CYQTBLMRCMPX7ZCFWB3RTWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주시장이 지난 2023년 9월 무등산 서석대 일원에서 열린 '무등산 정상 상시개방 개통식'에 참석해 시민들과 인왕봉을 오르고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주시가 무등산 정상부 개방 행사에서 외국인 출입을 제한한 것과 관련해 국가인권위원회(인권위)에 진정이 제기됐다. &lt;br&gt;&lt;br&gt;외국인 노동·인권 활동을 하는 시민 문길주 씨는 오는 9일 열리는 무등산 정상부 개방 행사에서 외국인 출입을 막는 것은 차별이라는 진정서를 인권위에 제출했다고 지난 5일 밝혔다. &lt;br&gt;&lt;br&gt;광주시는 지난달 30일 “10월 9일, 올해 처음으로 무등산 정상부를 개최한다”며 “국가인공지능(AI)컴퓨팅센터 광주 유치와 내년 무등산권 유네스코 세계지질공원 두 번째 재인증을 기원하는 의미”라고 했다. &lt;br&gt;&lt;br&gt;개방 지역은 서석대 주상절리에서 군부대 후문을 통과해 지왕봉 등을 관람하고 부대 정문으로 나오는 구간이다. &lt;br&gt;&lt;br&gt;그러나 외국인들은 군부대 보안규정에 따라 출입이 제한된다고 광주시는 밝혔다. 무등산 정상은 지난 1966년 군부대가 주둔한 이후 민간인 출입이 통제돼 왔다. 이를 두고 문씨는 “인권 차별적 상황이 발생했다”며 “외국인도 무등산 정상에 출입할 수 있도록 인권위가 조치해 달라”고 촉구했다. &lt;br&gt;&lt;br&gt;광주시는 앞서 지난 2023년 3월 무등산 개방행사를 추진할 때도 외국인 출입을 제한한 바 있다. 당시에도 문씨가 인권위에 진정을 제기하면서 같은 해 9월부터는 국적에 관계없이 누구나 출입 가능하도록 무등산을 개방하기로 결정됐다. &lt;br&gt;&lt;br&gt;문씨는 지난 1일 자신의 SNS를 통해 “지난 2023년에 이어 다시 한 번 국가인권위원회에 진정서를 제출할 예정”이라며 “외국인 출입을 제한하는 것은 명백한 차별”이라고 했다. 이어 “강기정 (광주광역시) 시장님, 무등산 정상에는 차별이 없어야 합니다”라며 “빠르게 시정될 수 있도록 조치해주십시오”라고 했다. &lt;br&gt;&lt;br&gt;이에 광주시 무등산생태팀 관계자는 “갑작스럽게 정상 개방 행사가 결정되면서 군부대 출입 승인 사전 절차에 한 달 이상 걸리는 외국인은 부득이하게 제한했다”고 해명한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민원·징계 시달리다 극단적 선택한 집배원…법원 “업무상 재해는 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/08/ZKIECVLZYBC27PZQ7L7L2Z7DDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/08/ZKIECVLZYBC27PZQ7L7L2Z7DDM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 03:35:09 +0000</pubDate>
+      <content:encoded>우편물 배달 과정에서 발생한 과오로 민원인의 항의와 고소에 따른 수사와 징계를 받다가 스스로 생을 마감한 집배원에 대해 법원이 업무상 재해를 인정하지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정13부(재판장 진현섭)는 집배원 A씨의 아내가 인사혁신처를 상대로 낸 순직유족급여 불승인 처분 취소 소송에서 지난달 18일 원고 패소로 판결했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;2002년 집배원으로 임용돼 광주의 한 우체국에서 근무하던 A씨는 2022년 8월 차 안에서 숨진 채 발견됐다. 그는 2021년 4월 수취인이 부재중인데도 임의로 대리서명해 등기우편물을 배송했다는 이유로 여러 번 민원을 받고 고소도 당했다. 이후 8개월간 수사를 받은 끝에 공전자기록위작 혐의는 기소유예, 우편법 위반 혐의는 혐의없음 처분을 받았다. 이듬해 2월 전남지방우정청은 A씨에게 견책 징계 처분을 내렸다.&lt;br&gt;&lt;br&gt;A씨의 아내는 남편의 사망이 업무상 재해에 해당한다며 유족 급여를 청구했지만, 인사혁신처는 “A씨가 민원의 원인을 제공했고 일상적·통상적 범위를 벗어나는 과로를 했다고 보기 어렵다”며 이를 거부했다. &lt;br&gt;&lt;br&gt;A씨 아내는 남편이 사망 두 달 전 최하위 근무 평정을 받아 모욕감을 느꼈고, 민원인이 추가로 법적 절차를 밟을지 모른다는 불안 속에 극심한 정신적 스트레스를 받아 우울증이 발병·악화됐다고 주장하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;그러나 법원은 이를 받아들이지 않았다. 재판부는 “A씨가 사망 전 심리적으로 위축돼 적잖은 스트레스를 받았을 것으로 보이기는 한다”면서도 “사회 평균인으로서 도저히 감수하거나 극복할 수 없을 정도의 업무상 스트레스를 받았다고 인정할 만한 뚜렷한 정황은 보이지 않는다”고 판단했다. &lt;br&gt;&lt;br&gt;또 “사망 전 정신의학과 진료를 받았다는 근거도 없고, 끝내 스스로 생을 마감했다는 사실만으로 공무로 인한 우울증 때문이라고 단정할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>코인 손해에 앙심 품고 흉기 휘두른 40대 男, 징역 17년 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/10/08/M5HH5UDIYZBWBICIMEZS5UGX5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/08/M5HH5UDIYZBWBICIMEZS5UGX5I/</guid>
@@ -797,24 +860,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USCUOY56O3PS6RZKF23RFSQXLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장과 이명박 전 대통령 청계천 복원 20주년 기념 특별대담 영상이 4일 서울시장 공식 누리집(mayor.seoul.go.kr) 등에 공개됐다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장과 이명박 전 대통령이 청계천 복원 20주년을 기념해 마주 앉은 자리에서 서울의 미래를 논의했다. 오 시장과 이 전 대통령은 도시브랜드 향상을 통한 경제 활성화에 뜻을 같이했다.&lt;br&gt;&lt;br&gt;서울시는 지난달 28일 청계재단에서 진행한 ‘청계천 복원 20주년 기념 특별대담’ 영상을 4일 공개했다. 대담은 조수빈 아나운서의 사회로 40여분간 진행됐다.&lt;br&gt;&lt;br&gt;청계천 복원 완료 다음 해인 2006년 서울시장에 취임한 오 시장은 “전 세계 도시 관계자들이 서울을 찾을 때 꼭 방문하는 곳이 이 전 대통령이 시장 시절 만든 청계천과 서울시교통정보시스템 토피스(TOPIS)”라며 “이러한 콘텐츠들이 세계인들이 서울을 평가할 때 긍정적인 영향을 미치고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “청계천 복원은 도심 속 생태계를 살린 전 세계 도시 역사상 보기 힘든 사업이자 서울 도시 변화의 시작점”이라며 “전임자의 하드웨어에 소프트웨어로 부가가치를 더하는 것이 후임자의 역할”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 “활용을 잘하는 것이 무엇보다 중요하다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 도시브랜드 철학을 묻는 질문에 “전 세계인들이 투자하고, 살고, 공부하고, 관광하기 위해 서울을 찾고, 이로 인해 경제가 활성화하도록 도시브랜드를 끌어올리는 데 집중해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대통령도 “도시브랜드가 높아지면 관광객이 모이고 투자도 이어지면서 양질의 일자리도 창출할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;정부의 민생회복 소비쿠폰 발행을 비판한 것으로 보이는 발언도 나왔다. 이 전 대통령은 “어려운 사람에게 금전적으로 직접 지원하는 것은 통치하긴 좋을지 몰라도 진정한 국민에 대한 사랑, 국가를 사랑하는 마음은 아니다”라고 했다. &lt;br&gt;&lt;br&gt;도시브랜드 가치를 높일 수 있는 소프트웨어로는 청계천뿐만 아니라 동대문디자인플라자(DDP), 한강버스 등을 제안했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 한강버스를 두고 “한강처럼 폭이 넓은 강에 배는 절대적으로 필요하다. 재운항을 시작하면 꼭 한번 탑승할 것”이라며 “한강도 잘 활용하고, 배 만드는 기술도 좋아져 종합적으로 수준이 올라갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “청계천 없는 서울을 상상하기 어렵듯, 2~3년만 지나면 한강버스 없는 한강은 상상하기 어려울 것이다”고 했다. 일시 운항 중단에 대해선 “시행착오를 바로잡기 위해 시민들께 솔직하게 말씀드리고 해결하고자 했다”고 했다.&lt;br&gt;&lt;br&gt;서울 전역 334km 지천 공간을 시민 여가 공간으로 만드는 ‘지천 르네상스’ 사업을 소개한 오 시장은 “서울의 모든 물길을 시민들이 일상에서 쉽게 즐길 수 있는 공간으로 조성해 서울을 수변감성도시로 변화시키고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 “지천은 서울 곳곳에 흐르고 있어 이를 활성화하면 강북과 강남이 균등하게 발전할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;서울의 미래를 묻는 질문에 오 시장은 “도시는 소프트웨어와 콘텐츠 같은 무형의 가치로 승부할 때다”면서 “경쟁력 있는 창조산업 발전으로 콘텐츠 도시, 문화예술 도시 이미지를 세계에 각인시켜 아시아 문화 중심으로 만드는 것이 서울의 미래를 위한 길”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 대통령은 “격동하는 시대에 큰 변화가 오더라도 인류에겐 늘 새로운 길이 있었다”면서 “서울시민은 물론 대한민국 국민 모두 희망을 가지고 함께 나아가자”고 말했다.&lt;br&gt;&lt;br&gt;전체 대담 영상은 서울시장 공식 누리집(mayor.seoul.go.kr)과 라이브서울(tv.seoul.go.kr)에서 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“여기 분식집 아니에요”…진도 횟집 ‘메뉴 통일 압박’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/YACIDAWPYZBZPHCLR4CRBXIOF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/YACIDAWPYZBZPHCLR4CRBXIOF4/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 05:23:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DUXPSWBC5JGBRIURFSG5B34HH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진도의 한 횟집에서 '메뉴 통일'을 요구하는 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 진도의 한 식당이 다양한 메뉴를 주문한 손님에게 메뉴를 통일해서 주문할 것을 요구해 논란을 빚었다. 비판이 커지자 식당 측은 종업원의 불친절한 응대로 피해를 본 손님들에게 사과한다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;4일 여러 온라인 커뮤니티에는 지난달 30일 유튜버 창현의 개인 채널에 올라온 ‘일본인 여자 친구에게 맛집이라 소개시켜줬는데 5초 만에 나왔습니다’라는 제목의 영상 내용이 공유됐다.&lt;br&gt;&lt;br&gt;영상에는 지난달 19~25일 진도 울돌목 일원에서 열린 명량대첩 축제에서 노래자랑 MC를 맡은 창현이 일정 후 여자 친구 등 일행과 식사를 하기 위해 인근 횟집을 찾은 모습이 담겼다.&lt;br&gt;&lt;br&gt;식당에 자리 잡은 창현 일행은 메뉴판을 보면서 전어구이, 물회, 전복죽 등을 주문했다. &lt;br&gt;&lt;br&gt;그러자 종업원은 “그렇게는 안 된다”며 “(메뉴를) 통일해야 한다. 분식집이 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;이유를 묻는 창현에게 종업원은 “전복죽은 식당에서 하나만 끓일 수 없다. 작은 그릇을 쓰는 게 아니라 큰 솥에 끓인다”고 설명했다.&lt;br&gt;&lt;br&gt;결국 창현은 “그러면 그냥 나가겠다. 죄송하다”며 자리에서 일어났고, 종업원도 “그러라”며 돌아섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WEVODXTNQVA23COF64EFLMB2PU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진도의 한 횟집에서 '메뉴 통일'을 요구하는 모습./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 온라인상에서는 “저런 불친절한 식당은 가면 안 된다” “안 팔아주고 그냥 나간 거 정말 잘했다” “손님에게 면박 줄 게 아니라 메뉴를 다양하게 써놓지 말아야 하는 것 아니냐” 등 비판의 목소리가 나왔다.&lt;br&gt;&lt;br&gt;논란이 커지자 이 영상에는 식당 주인의 딸이라고 밝힌 네티즌 A씨의 댓글이 올라왔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 댓글을 통해 “영상 속 불친절한 응대를 보고 저와 엄마가 많이 놀랐다”며 “영상 속 여성분은 해당 가게 사장은 아니고 서빙을 도와주고 있는 종업원”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “엄마는 주로 주방에서 음식 만드는 일을 해서 이 영상을 보고 많이 놀라셨다. (직원) 관리를 제대로 못해 불편함을 드리고 진도에 대해 안 좋은 인상을 드린 데 대해 죄송해한다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “어찌 됐든 식당에 온 손님에게 무례하게 대한 점은 무조건 저희 잘못”이라며 “영상 속 직원도 직접 사과드리고 싶어 한다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “엄마가 한자리에서 지금 30년 가까이 횟집 운영을 해오셨다. 연세가 많으셔서 딸인 제가 먼저 급하게 댓글을 남기는 점 양해 부탁드린다”며 “후속 조치도 가족들과 상의해서 바로 진행하도록 하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이후 A씨는 추가 댓글을 통해 “영상 속 종업원은 금일까지만 근무하게 됐다”며 “종업원 교육에 더욱 주의를 기울이겠다. 다시 한번 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소방공무원 수험생 5만명 개인정보 유출… ‘119고시’ 해킹에 뚫렸나</title>
-      <link>https://www.chosun.com/national/incident/2025/10/04/7RBEWGNGKJFDPP626KS7NQBERY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/04/7RBEWGNGKJFDPP626KS7NQBERY/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 05:35:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEL34XE3QEQGTNEY3J7LV2YJ54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119고시 웹사이트가 개인정보 유출 사건으로 인해 폐쇄됐다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방공무원 채용 사이트인 ‘119고시’에 저장된 수험생 5만명의 개인정보가 유출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방청은 해당 사이트 관리 위탁업체를 대상으로 사고 경위를 조사하는 한편, 재발 방지를 위해 향후 인사혁신처 통합채용시스템을 활용한다는 방침이다.&lt;br&gt;&lt;br&gt;소방청은 지난 2일 오후 7시쯤 119고시에서 개인정보 유출 사고가 발생한 사실을 확인하고 피해 수험생들에게 유출 사실을 통지했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;119고시는 소방공무원 채용에 관한 업무 전반을 담당하는 웹사이트로 원서접수, 시험 공고, 합격자 발표, 시험 관련 통계, 문제 및 정답, 이의 제기 등 서비스를 제공한다.&lt;br&gt;&lt;br&gt;유출된 개인정보는 2024년 10월 3일까지 119고시 사이트에 가입한 회원 5만93명의 아이디와 성명, 생년월일, 휴대전화 번호, 이메일 등이다.&lt;br&gt;&lt;br&gt;소방청은 개인정보 유출 사실을 확인한 후 지난 2일 오후 10시 30분쯤부터 119고시 사이트를 폐쇄하고, 관련 서비스를 이용할 수 있는 대체 방법을 안내했다. 향후 정보 보안 강화를 위해 채용 관련 서비스는 인사혁신처 통합 채용 시스템을 활용할 계획이다.&lt;br&gt;&lt;br&gt;소방청은 관계 기관과 합동으로 사이트를 관리하는 위탁업체의 정보 유출 경위 등을 조사하고 있다. 또 개인정보보호위원회에도 개인정보 유출 사실을 신고했다.&lt;br&gt;&lt;br&gt;소방청은 사이트가 해킹된 것으로 의심하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>배우자 반대에도 장남에 재산 몰아준 노인… 대법 “이혼 사유”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/04/MEHWHUVIH5BPXAJ2Q6UDNZ2UOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/MEHWHUVIH5BPXAJ2Q6UDNZ2UOA/</guid>
@@ -822,24 +867,6 @@
       <description/>
       <pubDate>Sat, 04 Oct 2025 04:20:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2G57UF4EZEQRESBPX5U2FU3VU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60년 넘게 결혼 생활을 하면서 함께 이룬 재산을 배우자의 반대에도 일방적으로 장남에게 몰아주는 것은 이혼 사유가 된다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 지난달 80대 A씨가 배우자인 90대 B씨를 상대로 낸 이혼 소송에서 ‘이혼 사유가 안 된다’고 본 원심 판결을 깨고 사건을 대전고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 1961년 결혼해 3남 3녀를 뒀다. 함께 농사를 지어 벌어들인 수입으로 생계를 유지했고, A씨는 식당 등에서 종업원으로 일하기도 했다. 다만 부부가 혼인 기간 매입한 주택과 농지 등은 대부분 B씨의 단독 명의로 돼 있었다.&lt;br&gt;&lt;br&gt;두 사람이 재산 문제로 갈등하기 시작한 건 2022년 살던 주택이 산업단지 조성 사업에 편입·수용되면서부터였다. B씨는 A씨의 반대에도 불구하고 약 3억원의 보상금을 장남에게 증여했고, A씨는 집을 나와 별거를 시작했다. 이후 B씨는 배우자와 상의 없이 가지고 있던 15억원 상당의 농지도 장남에게 물려줬다. &lt;br&gt;&lt;br&gt;이에 A씨는 “B씨에게 부당한 대우를 받았고, 부부 관계가 회복할 수 없을 정도로 파탄됐다”면서 이혼 소송을 제기했다. 특히 B씨의 일방적인 재산 처분 과정이 가장 큰 문제라고 주장했다. B씨는 “해당 부동산은 결혼 전부터 갖고 있었거나 혼인 중 상속·증여받은 ‘특유 재산’”이라며 “이를 장남에게 물려준 것이 이혼 사유가 될 수 없다”고 반박했다.&lt;br&gt;&lt;br&gt;1·2심은 “부부 관계가 회복할 수 없을 정도로 파탄되고 혼인 생활을 강제하는 것이 A씨에게 참을 수 없는 고통이 되는 경우에 해당한다고 인정하기 어렵다”면서 A씨의 이혼 청구를 받아들이지 않았다. 재산을 장남에게 증여한 것만으로는 결혼이 파탄된 책임이 B씨에게 있다고 보기 어렵다는 것이다. &lt;br&gt;&lt;br&gt;그러나 대법원은 A씨 손을 들어주며 원심을 파기환송했다. 대법원은 “B씨가 일방적으로 장남에게 증여한 재산은 부부 생활의 기초를 이루는 자택이나 농경지 거의 전부에 해당하고, 그 가치는 총 18억원 이상”이라며 “이는 혼인 중 공동으로 이룩한 재산의 주요 부분을 정당한 이유 없이 배우자의 협의나 동의 없이 일방적으로 처분해 부부 생활의 경제적 기반을 형해화하거나 위태롭게 한 행위에 해당한다”고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “노령이 된 B씨는 A씨와 함께 평생 이룬 재산을 일방적으로 처분하고, A씨에게 남은 생애의 도모를 위한 합당한 대안을 제시하지 않았다”며 “A씨의 경제적 자립과 안정에 대한 기대와 신뢰를 심각하게 해쳤다”고 했다. 그러면서 “두 사람의 갈등 내용과 정도, 별거 경위와 기간 등을 고려하면 이들 혼인 관계는 부부 상호 간 애정과 신뢰가 회복할 수 없을 정도로 훼손되고 혼인 생활을 강제하는 것이 A씨에게 참을 수 없는 고통이 된다고 보기에 충분하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무면허 쑥뜸 시술로 화상 입히고는 ‘명현 현상’ 주장한 60대 벌금형</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/04/3NOJYWPROFGCLNTP6J7KMWV3WU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/04/3NOJYWPROFGCLNTP6J7KMWV3WU/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 04:15:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산법원청사. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허로 쑥뜸 시술을 진행하다 환자 다리에 화상을 입힌 60대 여성이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사3단독 심재남 부장판사는 업무상과실치상 혐의로 기소된 60대 여성 A씨에게 벌금 300만원을 선고했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;한의사 면허가 없는 A씨는 지난해 8월부터 한 달여 동안 부산의 한 시술원에서 16차례에 걸쳐 다리에 수건을 깔고 쑥뜸기를 올리는 시술을 하다 환자 B씨의 정강이 부위에 3도 화상을 입힌 혐의를 받는다.&lt;br&gt;&lt;br&gt;3도 화상은 피부 속 깊은 곳까지 화상을 입은 상태를 의미한다. B씨는 화상으로 인해 피부 이식 수술까지 받았다고 한다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 B씨는 화상을 입은 게 아니라 몸의 염증과 독소가 몸 밖으로 배출되는 정상적인 과정에서 발생하는 명현현상(치유 과정에서 오는 이상 반응)을 겪은 것이라고 주장했다.&lt;br&gt;&lt;br&gt;심 부장판사는 “피해자의 진술과 적법하게 채택해 조사한 증거들에 의하면 공소사실을 넉넉히 인정할 수 있다”면서 A씨의 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘3차 조사 취소’ 이진숙, 오후 법원서 체포적부심</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/7KE5EP4R2RBJDMPDT4GS24YENI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/7KE5EP4R2RBJDMPDT4GS24YENI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 01:46:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q76HRTJEPW2TQOPA5GNG4FV7JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 2일 오후 서울 강남구 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서에서 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법·국가공무원법 위반 혐의로 서울 영등포경찰서가 체포영장을 집행한 이진숙 전 방송통신위원장의 석방 여부가 이르면 4일 오후 결정된다.&lt;br&gt;&lt;br&gt;이날 오후 3시 서울남부지법은 이 전 위원장에 대한 체포적부심사를 진행한다. 체포적부심사는 수사기관의 체포 적법성 여부를 법원이 심사하는 제도다. 법원은 청구서가 접수된 뒤부터 48시간 이내에 피의자를 심문한 뒤, 24시간 이내에 석방 여부를 결정해야 한다. 이 전 위원장에 대한 체포적부심사 결과는 이르면 이날 오후 늦게 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;법원이 이 전 위원장의 손을 들어줄 경우 즉시 석방된다. 반대로 경찰의 체포가 정당하다고 판단할 경우 경찰은 이 전 위원장에 대한 구속 영장 신청을 검토할 전망이다.&lt;br&gt;&lt;br&gt;영등포경찰서는 이날 오전 10시 이 전 위원장에 대한 3차 조사를 진행하려 했으나 취소한 것으로 알려졌다. 이 전 위원장의 변호인인 임무영 변호사는 소셜미디어를 통해 “(경찰이) 저와 연락이 되지 않아 조사 일정을 취소했다는 답변을 들었다”고 말했다.&lt;br&gt;&lt;br&gt;이 전 위워장은 지난 2일 오후 서울 강남구 자택 인근에서 경찰에 체포됐다. 경찰은 이 전 위원장이 지난 8월 12일부터 9월 19일까지 총 여섯 차례 출석 요구에 응하지 않았다며 법원에서 체포 영장을 발부받아 집행했다고 밝혔다. 이 전 위원장은 국회 필리버스터(무제한 토론) 일정으로 조사를 받을 수 없다는 이유로 불출석 사유서를 제출했는데도 부당하게 체포당했다며 적부심을 청구했다.&lt;br&gt;&lt;br&gt;한편 경찰은 이 전 위원장이 민주당을 직접 언급하며 제21대 대통령 선거에 영향을 미치는 발언을 했다고 보고 있다. 이 전 위원장이 정무직 공무원 신분에 있음에도 정치적 중립을 위반하는 발언을 했다는 것이다. 이 전 위원장 측은 사실관계 자체는 인정하면서도 2인 체제라 운영이 불가능했던 방통위를 정상화하기 위한 호소였을 뿐, 정치적 중립을 어기거나 선거운동을 한 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>택시기사 폭행한 취객에 ‘초크’ 걸어 제압한 청년…아이돌 연습생이었다</title>
@@ -853,24 +880,6 @@
         <media:description type="plain">택시 기사 폭행범을 제압하는 청년./엑스(X·옉 트위터)</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>현대차 전주공장서 철거 작업 중 50대 근로자 추락해 숨져</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/10/04/YPU7MFJBLFHLBFQEAFSMZZ3PBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/10/04/YPU7MFJBLFHLBFQEAFSMZZ3PBE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 01:32:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U72GMH6XL5LUNEOCHM5GFNLO5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 오후 9시 28분쯤 전북 완주군 봉동읍 현대차 전주공장 도장공장에서 철거작업을 하던 재하청업체 소속 A(54)씨가 추락해 숨졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 전주공장에서 철거 작업 중이던 근로자가 추락해 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;4일 전북경찰청에 따르면 지난 3일 오후 9시 28분쯤 전북 완주군 봉동읍 현대차 전주공장 도장공장에서 철거 작업을 하던 재하청 업체 소속 A(54)씨가 5.6m 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 구멍이 뚫린 2층 바닥을 철거하기 위해 작업 중 추락한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 노동당국은 중대재해처벌법 및 산업안전보건법 위반 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;현대차 측은 “불의의 사고가 발생한 데 대해 매우 안타깝게 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “유명을 달리하신 고인의 명복을 빌며, 유가족분들께도 깊은 위로의 말씀을 드린다”면서 “이번 사고 원인 조사에 성실히 임하고 필요한 조처에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;현대차 전주공장은 이달부터 내년 1월까지 기존 1공장의 트럭 생산 설비를 2~3공장으로 옮기기 위한 대규모 설비 전환 공사를 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>결혼 앞둔 30대 남녀 숨진 채 발견… 경찰 “경위 파악 중”</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/04/ZTODE6TLJJDETP4JK4KFR65CWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/04/ZTODE6TLJJDETP4JK4KFR65CWA/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 00:21:35 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIBFPNQK45T6XG44XYMTSW6W3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날 부산의 한 아파트에서 결혼을 앞둔 30대 남녀가 숨진 채 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;4일 부산 사하경찰서에 따르면 지난 3일 오후 7시 42분쯤 부산 사하구 한 아파트 안방에서 A(여·30대)씨가 피를 흘리며 쓰러진 상태로 발견됐다. 또 해당 아파트 화단에는 B(30대)씨가 쓰러져 있었다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 결혼을 앞두고 이 아파트에서 함께 지내온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 A씨의 어머니는 “도와달라”는 딸의 다급한 전화를 받고 집을 찾았다가 쓰러져 있는 A씨를 발견한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 119구급대는 A씨와 B씨를 병원으로 옮겼지만, 이들은 치료를 받던 중 모두 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 현장 감식을 통해 A씨의 몸에서 흉기에 찔린 상처와 목이 졸린 흔적을 발견했다. B씨는 추락해 숨진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 집안에서 발견된 흉기와 현장 상황을 분석한 결과, B씨가 A씨를 살해한 후 스스로 아파트에서 뛰어내린 것으로 보고 있다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사건 관계자가 모두 숨을 거둬 구체적인 사건 경위는 현재까지 확인되지 않았다”면서 “시신에 대해 부검을 의뢰하고, 유족과 지인들에 대한 조사를 통해 정확한 경위를 파악할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바그너에 의한, 바그너를 위한 바그너의 축제를 가다</title>
@@ -962,15 +971,6 @@
       <description/>
       <pubDate>Fri, 03 Oct 2025 15:33:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHIBYJVZTNFY7B2A4R3JLTSMII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경복궁 바로 앞 대한민국역사박물관 옥상에서 내려다본 경복궁 전경./권재륜 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경복궁(景福宮) 앞을 자주 지나면서도 정작 이름의 유래를 모르고 있다는 생각에 찾아봤다. 경복궁이 처음 지어진 태조 4년(1395) 10월 7일 자 ‘태조실록’에 이런 기록이 나온다. 정도전이 임금 앞에서 ‘이미 술에 취하고 이미 덕에 배부르니 군자는 영원토록 그대의 크나큰 복(景福)을 모시리라’라는 시경(詩經) 주아(周雅)의 구절을 외우고, 새 궁궐의 이름을 경복궁으로 지을 것을 청했다는 것이다. ‘큰 복을 누려 번영하라’는 뜻이다.&lt;br&gt;&lt;br&gt;경복궁은 이후 임진왜란 등 크고 작은 전란과 일제강점기를 거치면서 소실과 중건(重建)을 반복했다. 현재 경복궁은 1990년부터 시작된 대대적인 복원 사업을 통해 옛 모습을 상당 부분 되찾은 것이다.&lt;br&gt;&lt;br&gt;이번 추석 연휴 기간(10월 3~9일) 경복궁·창덕궁·덕수궁·창경궁 등 4대 궁궐과 종묘, 조선 왕릉이 무료로 개방된다. 특히 평소 예약제로 운영하는 종묘도 자유롭게 둘러볼 수 있는 기회다. 사진은 경복궁 바로 앞 대한민국역사박물관 옥상에서 내려다본 경복궁 전경.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원, 장애인 고용 의무 안 지켜 5년간 부담금 100억원</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/03/IBUMMZGOO5GHZGRCUWCHYBTNCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/03/IBUMMZGOO5GHZGRCUWCHYBTNCE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 06:25:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HD5ZSTF4XUVWNRMKBABJAQVBFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 ‘장애인 의무 고용’을 지키지 않아 5년간 장애인 고용부담금으로 100억원 이상 낸 것으로 나타났다. 장애인고용촉진법에 따라 국가나 공공기관은 전체 국가공무원 중 일정 비율(3.8%) 이상을 장애인으로 고용해야 한다.&lt;br&gt;&lt;br&gt;3일 법원행정처가 더불어민주당 박지원 의원에게 제출한 자료를 보면 대법원은 장애인 고용 의무 제도가 도입된 2020년부터 매년 의무 고용 비율을 채우지 못해 지금까지 104억4084만원의 고용부담금을 납부했다. 올 6월 기준 전국 법원 전체 공무원 정원은 1만7748명인데 이 가운데 장애인은 463명(2.6%)에 그쳤다. &lt;br&gt;&lt;br&gt;법이 정한 장애인 의무고용비율을 채우지 못하면, 모자란 고용 인원에 비례해 이듬해 한국장애인고용공단에 ‘장애인 고용부담금’을 내야 한다. 대법원의 의무고용인원 대비 고용률은 2020년 80.7%에서 매년 낮아져 올 상반기 68.5%까지 떨어졌다. 이에 △2021년 13억7438만원 △2022년 14억5427만원 △2023년 20억5407만원 △2024년 24억5725만원 △2025년 31억85만원 등 부담금은 매년 높아졌다. &lt;br&gt;&lt;br&gt;박지원 의원은 “장애인 등 사회적 약자를 보호하고 지원해야 할 사법부의 장애인 의무 고용률이 매년 하락하는 것은 시대 흐름에 역행하는 것으로 사법부의 진지한 성찰이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
