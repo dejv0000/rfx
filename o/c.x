@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“제주 용머리해안서 아이 용변을...” 중국인 관광객 민폐 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/6K5QQ5JXQRCSBKSIC5IUST2SFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/6K5QQ5JXQRCSBKSIC5IUST2SFM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 13:57:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3D5QPKBBBA4TB4CDVJ4KAGHEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 용머리해안에서 아이의 용변을 뉘이고 있는 외국인 여성을 봤다는 네티즌의 글이 6일 올라왔다. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천연기념물로 지정된 제주 용머리해안에서 한 외국인 관광객이 어린 자녀의 용변을 보게 하고, 처리 과정에서 현장을 오염시키는 장면이 포착됐다. &lt;br&gt;&lt;br&gt;6일 한 온라인 커뮤니티에는 ‘어제 제주 용머리해안에서 조선족’이라는 제목의 글이 올라왔다. &lt;br&gt;&lt;br&gt;연휴를 맞아 가족들과 제주 용머리해안을 찾았다는 글쓴이 A씨는 “연휴라 그런지 기다리는 줄도 길고, 사람들이 많았다”고 당시 상황을 설명했다. &lt;br&gt;&lt;br&gt;A씨는 “그런데 한 여자분이 아기 용변을 뉘이고 있었다”며 “그러다 사람들이 너무 많으니 약간 아래로 이동해서 마저 다 뉘였다”고 했다. 이어 “닦은 물티슈도 그대로 버리고 당연히 용변도 그냥 바닥에 (있었다)”라며 “정말 어이가 없었다”고 했다. &lt;br&gt;&lt;br&gt;그는 “옆쪽에 인솔하는 가이드로 보이는 분이 있어 조용히 물으니 조선족이라고 하더라”며 “중국인 여행객에게 선입견을 안 가지려 하는데 쉽지 않다”고 했다. &lt;br&gt;&lt;br&gt;A씨가 올린 사진에는 해안에서 한 여성이 쪼그리고 앉아 아이를 안고 있는 모습이 담겼다. 다른 각도에서 찍은 사진에는 여성 옆에 물티슈가 놓여 있다. &lt;br&gt;&lt;br&gt;이 게시물은 하루 만에 조회 수 6만건을 넘기며 관광 질서 공백 논란을 불러왔다. 용머리해안은 파도와 해식 절벽이 맞닿은 천연기념물 지역으로, 출입로가 좁고 밀물이 빠르게 차올라 관리 인력의 통제가 쉽지 않다고 한다. 무비자 입국이 재개된 이후 중국 단체 관광객이 급증하면서 현장 가이드 1명이 수십 명을 인솔하는 구조가 대부분이다. &lt;br&gt;&lt;br&gt;앞서 제주에서는 관광지 인근 대로변에서 용변을 보거나, 화단과 공공장소에서 어린 자녀의 볼일을 보게 하는 사례가 여러 차례 목격돼 공분을 샀다. 제주경찰청에 따르면 올해 1~5월까지 제주도에서 적발한 무질서 사건 4136건 중 3522건을 외국인이 저지른 것으로, 85% 이상을 차지했다. 특히 지난해 같은 기간 무질서 적발 건수(451건)와 비교하면, 올해 적발 건수는 817%나 증가했다. 외국인 적발 건수는 지난해 같은 기간(148건)보다 28배가량 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>여권도 이진숙 체포 비판... “경찰의 아드레날린 과다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/6N2QLHT3GNFF7CUTNPCW33I4K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/6N2QLHT3GNFF7CUTNPCW33I4K4/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 12:43:39 +0000</pubDate>
+      <content:encoded>이진숙 전 방송통신위원장이 정치 중립 의무 위반 혐의로 경찰에 체포된 지 이틀 만인 지난 4일 석방됐다. 이 전 위원장의 체포 적부심을 맡은 서울남부지법 김동현 부장판사는 이날 “헌법상 핵심 기본권인 표현의 자유에 대한 제한을 이유로 하는 인신 구금은 신중히 할 필요가 있다”며 석방을 명령했다. &lt;br&gt;&lt;br&gt;법원의 석방 결정으로 경찰의 체포영장 집행이 과도했다는 논란은 다시 불거졌다. 이 전 위원장을 체포한 서울 영등포경찰서는 “이 전 위원장에게 지난 8월 12일부터 9월 19일까지 여섯 차례 출석 요구서를 보냈지만 불응했다”며 체포 배경을 밝혔다. 하지만 이 전 위원장 측은 “조사 일정을 잡은 뒤에도 경찰이 소환장을 두 차례나 더 보냈다. ‘조사 불응’을 구실 삼아 체포 요건을 만들려는 ‘꼼수’”라고 반발했다. 경찰과 출석일(9월 27일)을 합의한 이후인 12일과 19일에도 재차 출석 요구서를 보냈다는 것이다. 이 전 위원장은 석방 후 “장관급 기관장에 대해 체포영장을 신청했다면 법무부는 물론 대통령실에까지 보고가 이루어졌을 것”이라며 “이번 체포는 대통령실과 민주당, 검·경의 합작품”이라고 주장했다.&lt;br&gt;&lt;br&gt;이 전 위원장 측은 경찰이 보낸 출석 요구서도 제대로 받은 경우가 드물었다고 했다. 경찰은 출석 요구서를 등기 우편으로 두 번, 일반 우편으로 네 번 보냈다. 이 전 위원장 측 임무영 변호사는 “이 전 위원장 남편이 매일 우편함을 확인하는데 자택에서 등기우편을 수령한 적이 없다”며 “나머지 우편 네 통도 출석 일자가 지난 뒤에야 받았다”고 했다. 경찰은 이에 대해 “등기 외 팩스, 전화 등 여러 경로로 출석 요청을 했다”고 했다.&lt;br&gt;&lt;br&gt;이번 체포를 두고 여권에서도 경찰의 과잉 수사를 지적하는 발언이 나온다. 법무 장관을 지낸 박범계 더불어민주당 의원은 지난 7일 소셜미디어에서 “이진숙과 그의 동료들, 국민의힘이 어찌 반응할 것인지 조금도 예상하지 못했다면 이것은 (경찰의) 순진함 혹은 아드레날린 과다 분비에 따른 과잉이 아닐 수 없다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장은 직무 정지 상태였던 작년 9월 유튜브에 출연해 “민주당이나 좌파 집단은 우리가 상상할 수 있는 모든 것을 하는 집단”이라고 했다. 이를 두고 민주당은 공직선거법·국가공무원법 위반 혐의로 고발했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QA73YKVJQJDM7C5TSDVBKXERV4.JPG?auth=543a91e9cdbe3e590d53072e251920abab0a86b60fbb26c7b97f6e1260f12e08&amp;smart=true&amp;width=3251&amp;height=1829" type="image/jpeg" height="1829" width="3251">
+        <media:description type="plain">이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. 2025.10.4/뉴스1 ⓒ News1 신윤하 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 신윤하 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>서울대 교수도 연봉 낮으면 그만... 채용 합격하고도 4년간 14명 포기</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/08/725GM6QRLNGDXE4BCFJM47NSKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/08/725GM6QRLNGDXE4BCFJM47NSKE/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 11:53:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCKNXVINL7P5DSM5EEYWDJCKPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 교수 채용에 합격하고도 스스로 포기한 인원이 최근 3년 8개월 동안 14명인 것으로 나타났다. &lt;br&gt;&lt;br&gt;서울대가 국민의힘 서지영 의원실에 제출한 ‘연도별 신입 채용 교수 임용 포기 현황’을 보면, 지난 2022년부터 올해까지 신교 임용 후보자 중 임용을 포기한 인원은 14명이었다. 이 중 9명은 자연과학대학, 공과대학, 데이터사이언스대학원 등 이공계였다.&lt;br&gt;&lt;br&gt;학과별로는 공과대학 산업공학과, 컴퓨터공학부, 사회과학대학 경제학부에서는 각 2명이, 사회과학대학 사회복지학과, 자연과학대학 물리천문학부, 지구환경과학부, 화학부, 생활과학대학 소비자학과에서는 각 1명이 임용을 포기했다. &lt;br&gt;&lt;br&gt;법학전문대학원 법학과, 데이터사이언스대학원 데이터사이언스학과 등 대학원에서도 임용을 포기한 교수가 각 1명씩 있었던 것으로 확인됐다. &lt;br&gt;&lt;br&gt;서울대 교수 임용을 포기하는 학자가 생겨난 것은 서울대의 낮은 처우 때문이란 지적이 나온다. 2021년 기준 서울대 조교수의 평균 연봉은 8848만원이었다. 서울대 교수협의회는 “서울대 정교수 연봉은 평균 최상위 5개 대학의 73% 수준”이라며 “부교수와 조교수도 각각 89%, 93% 수준에 머물러 있다”고 했다.&lt;br&gt;&lt;br&gt;이에 서울대는 교수 유출을 막기 위한 방편으로 지난달 성과연봉제를 도입했다. 정년을 보장받는 교수들(정교수 및 일부 부교수 등 1400여 명)을 대상으로 연구·강의 성과에 따라 네 등급으로 나눠 성과급을 지급하는 방안이다. 서울대는 정년 보장 교수들의 기본급도 연 300만원 가까이 올릴 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 취업 노린 중국인 8명, 태안 밀입국하다 전원 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/10/08/BJPPH6LCOFBABCCXQZ3YOQ4GDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/08/BJPPH6LCOFBABCCXQZ3YOQ4GDE/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 12:28:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRNJHERNAJUDUBJYEVUFFYT6AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안해경이 지난 6일 충남 충남 태안해역 가의도 북방 2해리 인근 해상에서 밀입국 의심 선박(레저보트, 승선원 남성 8명, 중국 국적)을 검거한 뒤 배에 타고 있던 중국인 8명을 압송 중인 모습./태안해경 제공.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안 해역으로 밀입국을 시도하다 붙잡힌 중국인 8명이 모두 구속됐다.&lt;br&gt;&lt;br&gt;8일 태안해양경찰서에 따르면 대전지법 서산지원은 이날 40대 A씨 등 중국인 8명에 대해 출입국관리법 위반 혐의로 청구된 구속영장을 전원 발부했다.&lt;br&gt;&lt;br&gt;이들은 지난 5일 오전 10시쯤 중국 산둥성 웨이하이에서 전장 7m, 폭 3m 크기의 115마력 소형 레저보트를 타고 출항했다. 이후 이튿날 오전 1시 43분쯤 태안군 근흥면 가의도 북서방 22해리(약 40㎞) 해상에서 해경에 검거됐다.&lt;br&gt;&lt;br&gt;당시 검거 과정에서 1명이 구명조끼를 입고 바다로 뛰어내렸으나 해경이 20여 분 만에 구조했다.&lt;br&gt;&lt;br&gt;조사 결과, 이들은 모두 국내 불법 취업을 목적으로 입국을 시도한 것으로 드러났다. 일부는 과거에도 불법체류로 적발돼 강제 출국된 전력이 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>에어컨 실외기 타고 前연인 집 들어가 성폭행...일본인 20대男 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/10/08/IIOWUTUFMJD75B4WZ52K6I3PLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/08/IIOWUTUFMJD75B4WZ52K6I3PLE/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 08 Oct 2025 12:01:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX7RBIZDWNCA5H5HYKCHC3S7N4.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 수서경찰서는 일본인 20대 남성 A씨를 주거 침입 및 성폭력처벌법 위반 등 혐의로 구속 수사 중이라고 8일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오전 2시쯤 서울 강남구의 한 아파트에서 에어컨 실외기를 타고 한국인 40대 여성 B씨의 집에 들어가 B씨를 성폭행한 것으로 조사됐다. A씨와 B씨는 과거 연인 사이였다고 전해진다. A씨는 같은 날 오후 B씨의 집 현관문 도어록을 부수다가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;법원은 지난 7일 A씨에 대한 구속 영장을 발부했다. 경찰은 A씨를 상대로 구체적인 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>추석 연휴 귀경길 일부 구간 정체…부산→서울 5시간10분</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/08/WRHCH4M5V5CTZMXFLJOHOQHEMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/08/WRHCH4M5V5CTZMXFLJOHOQHEMI/</guid>
@@ -834,37 +883,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SXQ5CLRETGYA72UESKLQISLMFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;로또  추첨기계. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 동행복권에 따르면 1192회 로또 1등 당첨 번호는 ‘10·16·23·36·39·40’이다. 2등 보너스 번호는 ‘11’이다.&lt;br&gt;&lt;br&gt;이날 당첨 번호 6개를 모두 맞힌 1등은 29명으로 나타났다. 이들은 각각 10억 7954만6587원을 받게 됐다.&lt;br&gt;&lt;br&gt;1등 배출점은 자동 선택 19곳, 수동 선택 6곳, 반자동 2곳이다. 특히 부산 사상구의 한 복권 판매점에서 수동으로 1등 당첨 복권이 3건 나와 눈길을 끌고 있다. 3게임 당첨자가 동일인일 경우 32억3863만원을 거머쥔다.&lt;br&gt;&lt;br&gt;당첨 번호 5개와 보너스 번호를 맞힌 2등은 95명으로 각각 5492만4300원을 수령한다. 5개 번호에 적중한 3등은 3476명으로 150만1096원을 받는다.&lt;br&gt;&lt;br&gt;당첨 번호 4개를 맞힌 4등(고정 당첨금 5만원)은 17만1551명이다. 당첨 번호 3개가 일치한 5등(고정 당첨금 5000원)은 284만1016명이다.&lt;br&gt;&lt;br&gt;당첨금은 지급 개시일로부터 1년 이내에 수령해야 한다. 당첨금 지급 마지막 날이 휴일이면 다음 영업일까지 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>석방된 이진숙 “이재명의 검·경이 채운 수갑, 법원이 풀어줘”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/XKUKBONCHZCDPEQ54T5JDETLYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/XKUKBONCHZCDPEQ54T5JDETLYI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 10:24:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSMTDVYXLFNZHF4ZYWHAEOY5SY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법원의 체포적부심사 인용으로 석방된 이진숙 전 방송통신위원장이 “경찰의 폭력적 행태를 접하고 보니 일반 시민들은 과연 어떨까 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원 명령 약 20분 후인 오후 6시 45분쯤 서울 영등포경찰서에서 수갑이 풀린 채 나온 이 전 위원장은 “이재명 검·경이 씌운 수갑을 그래도 사법부가 풀어줬다”며 “대한민국 어느 한구석에는 민주주의가 조금이라도 남아 있는 것 같아 희망을 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “이재명 대통령 일정과 함께 많이 보이는 것이 법정, 구치소, 유치장 장면”이라며 “대통령 비위를 거스르면 당신들도 유치장에 갈 수 있다는 함의가 여러분이 보시는 화면에 담겼다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이런 일을 막은 것은 시민 여러분의 힘”이라며 “곳곳에서 응원을 보내주신 분들께 감사드린다”고 인사한 뒤 준비된 차를 타고 빠져나갔다.&lt;br&gt;&lt;br&gt;앞서 이날 오후 서울남부지법 김동현 영장당직 부장판사는 체포적부심사를 진행한 뒤 이 전 위원장의 청구를 인용했다. 재판부는 “헌법상 핵심 기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다”고 밝혔다. 또 이미 상당한 정도로 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 가능성이 크지 않다는 점, 심문 과정에서 이 전 위원장이 성실한 출석을 약속하고 있는 점 등을 인용 이유로 거론했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BVMZM6IDQNLKLOLLTGNOSNBENI.JPG?auth=306236fdcac9b2b24536828bd557d98f9265dff251ed90e081a82632fc15a2e0&amp;smart=true&amp;width=3560&amp;height=2528" type="image/jpeg" height="2528" width="3560">
-        <media:description type="plain">(서울=뉴스1) 신윤하 기자 = 이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. 2025.10.4/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신윤하 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘회삿돈 42억여원 횡령’ 황정음 항소 포기…징역 2년 집유 4년 확정 </title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/X7HVKJQOPBDFRJWEWBPHPY64HI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/X7HVKJQOPBDFRJWEWBPHPY64HI/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 11:16:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLW5B3V5R2TVH4OHC7NSWYPIRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 황정음이 25일 제주시 이도2동 제주지방법원에서 취재진 질문에 대답하고 있다. 제주지법 제2형사부는 이날 열린 선고공판에서 특정경제범죄 가중 처벌 등에 관한 법률 위반(횡령) 혐의를 받은 황 씨에게 징역 2년에 집행유예 4년을 선고했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;회삿돈 42억여 원을 횡령한 혐의를 받는 배우 황정음이 1심에서 징역형 집행유예를 선고받았으나 항소를 포기하면서 형이 확정됐다. &lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 특정경제범죄 가중처벌 등에 관한 법률 위반(횡령) 혐의로 지난달 25일 1심에서 징역 2년에 집행유예 4년을 선고받은 황정음과 사건을 맡은 검찰 모두 제주지법 재판부에 항소장을 제출하지 않았다. &lt;br&gt;&lt;br&gt;형사 사건은 판결에 불복할 경우 선고일로부터 7일 이내에 상소해야 한다.&lt;br&gt;&lt;br&gt;황정음은 2022년 자신이 100% 지분을 소유한 가족 법인 기획사 훈민정음엔터테인먼트에서 자금 42억여 원을 횡령한 혐의를 받는다. 이 회사 소속 연예인은 황정음 1명뿐이었다.&lt;br&gt;&lt;br&gt;그는 기획사 명의로 대출받은 돈을 가지급금 명목으로 자기 개인 계좌에 13차례에 걸쳐 이체한 것으로 파악됐다. 이 중 42억원을 가상 화폐에 투자한 것으로 나타났다. 또 자신에게 재산세와 지방세를 내기 위한 카드 값 등에 쓴 것으로 조사됐다. &lt;br&gt;&lt;br&gt;황씨 측은 재판 과정에서 공소 사실을 모두 인정했다. 훈민정음엔터테인먼트에서 가지급금 형태로 꺼내 쓴 금액을 지난 5월 30일과 6월 5일 두 차례에 걸쳐 모두 변제했다고 밝혔다.&lt;br&gt;&lt;br&gt;1심 재판부는 “피고인이 투기적 투자와 고가 개인용품을 구입하는 데 쓴 피해액이 커 죄책이 가볍지 않다”면서도 “피해 회사는 피고인 1인 회사로 손해가 발생하더라도 피고인에게 한정되는 점, 횡령한 금액을 전액 변제하고 초범인 점 등을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;황정음은 1심 선고 직후 제주지법을 나서며 “심려를 끼쳐 죄송하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “법원, 이진숙 적법 체포 인정… 석방 결정은 존중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/04/ABPWVHWOARF6RF7J66LGQP5L7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/ABPWVHWOARF6RF7J66LGQP5L7E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 10:26:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSI4JOJHEC4RWRWNVQU4DYTH3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 법원은 이날 이 전 위원장이 청구한 체포 적부심을 인용했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 4일 이진숙 전 방송통신위원장의 석방에 대해 “법원도 수사의 필요성과 체포의 적법성은 인정했다”면서도 “법원의 (석방) 결정을 존중한다”고 했다.&lt;br&gt;&lt;br&gt;서울지방경찰청은 이날 법원이 이 전 위원장이 청구한 체포 적부심을 인용하는 결정을 내린 직후 이 같은 입장을 밝혔다. 서울청은 필요성과 체포의 적법성은 인정되지만, 체포의 필요성 유지, 계속성이 인정되지 않아 법원이 석방 결정한 것으로 알고 있다”고 부연했다.&lt;br&gt;&lt;br&gt;이 전 위원장 체포로 ‘과잉 수사’ 논란이 불거지고, 법원이 이틀 만에 석방 결정을 내리자 “체포 자체는 문제가 없었다”는 것을 강조한 것이다. 경찰은 지난 2일 이 전 위원장이 소환 조사에 불응했다는 이유로 자택 인근에서 체포했다.&lt;br&gt;&lt;br&gt;김동현 서울남부지법 영장당직 부장판사는 이날 이 전 위원장의 체포 적부심을 진행한 후 “체포의 적법성 자체를 부정하기는 어렵다고 판단된다”면서도 “이미 상당한 정도로 이 전 위원장에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없으며, 심문 과정에서 성실한 출석을 약속하고 있어 체포의 필요성이 유지되지 않는다”고 밝혔다. 헌법상 핵심 기본권인 표현의 자유에 대한 제한을 근거로 한 인신 구금은 신중해야 한다는 점도 고려됐다.&lt;br&gt;&lt;br&gt;그러나 정치권과 법조계에서는 경찰이 신청한 체포 영장을 승인해 청구한 검찰과 이를 그대로 발부했던 법원을 향해 “경찰의 과잉 수사를 통제하지 않았다”는 비판이 계속 나오고 있다. 판사 출신 장동혁 국민의힘 당대표는 이날 페이스북에 “불법적인 영장 발부와 불법적인 체포·감금에 이은 위법 수사에 대해 끝까지 법적 책임을 물을 것”이라고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이리 와, 한번 안아보자” 남경필, 출소한 ‘마약 투약’ 장남 끌어안았다 </title>
       <link>https://www.chosun.com/national/national_general/2025/10/04/C52TT7KD7ZEM3M3RE7LJJMCUVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/C52TT7KD7ZEM3M3RE7LJJMCUVY/</guid>
@@ -872,28 +890,6 @@
       <description/>
       <pubDate>Sat, 04 Oct 2025 10:15:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2YH4DC6JNRHARLYFIG7OOW4NHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남경필 전 경기도지사가 지난 1일 충남 공주시에 위치한 국립법무병원에서 출소한 장남을 안고 있는 모습./ 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남경필 전 경기도지사가 마약 투약으로 징역 2년 6개월의 형기를 마치고 출소한 장남을 끌어안았다. &lt;br&gt;&lt;br&gt;남 전 지사는 지난 3일 유튜브 ‘남경필 이노마’에 아내, 차남 등 가족과 장남의 출소를 마중 나간 3분짜리 영상을 공개했다. 지난 1일 마약 사범을 격리·치료하는 시설인 국립법무병원(옛 치료감호소) 앞에서 촬영됐다.&lt;br&gt;&lt;br&gt;영상을 보면 남 전 지사는 아내와 함께 국립법무병원 정문 앞에서 장남을 기다렸다. 남 전 지사는 뒷짐을 지고 초조한 모습을 보이며 “그래도 이런 날이 오네. 이따가 이제 식사하면서 앞으로 계획을 잡아야지”라고 말했다. &lt;br&gt;&lt;br&gt;이어 장남이 나오자 남 전 지사는 “이리 와봐, 안아보자”라며 아들을 안았고 얼굴을 가볍게 두드리기도 했다. 남 전 지사 가족은 다 함께 포옹한 뒤 “하나님 아버지 다시 만나게 해주셔서 감사합니다”라고 기도했다. &lt;br&gt;&lt;br&gt;그의 장남은 새로운 삶을 만들어준 국립법무병원 직원에게 다가가 감사 인사를 전하기도 했다. &lt;br&gt;&lt;br&gt;남 전 지사는 “너무 오랫동안 안아보지 못해서 그랬는데 꼭 안아 보니 실감이 난다”며 “큰아들의 새로운 걸음을 많은 응원 부탁드린다”고 말했다.&lt;br&gt;&lt;br&gt;남 전 지사는 5선 국회의원(15~19대)과 제34대 경기도지사를 지냈다. 2018년 정계 은퇴한 뒤 마약 치유 운동에 전념하고 있다. 현재 마약 예방과 치유 활동에 집중하는 마약 예방 치유 단체 ‘은구’를 이끌고 있다. 은구는 ‘절대 포기하지 않는다(Never Give Up)’는 뜻과 ‘은혜를 구한다’는 의미다.&lt;br&gt;&lt;br&gt;남 전 지사는 마약에 빠진 장남을 직접 경찰에 신고하기도 했다. 그의 장남은 2022년 7월 대마를 흡입하고 8월부터 2023년 3월 30일까지 성남시 분당구 소재 아파트 등에서 16차례에 걸쳐 필로폰을 투약한 혐의로 재판에서 징역 2년 6개월을 선고받고 복역했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 법원, 이진숙 체포적부심 인용… 곧 석방</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 09:26:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKUC63TKJBONJEXHBLBFEFKXYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 공직선거법·국가공무원법 위반 혐의로 경찰에 체포된 이진숙 전 방송통신위원장에 대해 4일 석방 명령을 내렸다. 이에 따라 이 전 위원장은 즉시 석방 수순을 밟는다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시 진행된 체포적부심사 결과 “현 단계에서는 체포의 필요성이 유지되지 않는다”며 이 전 위원장의 청구를 인용했다.&lt;br&gt;&lt;br&gt;재판부는 “기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다“며 ”이미 상당한 정도로 피의자에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 필요성도 크지 않았으며, 심문 과정에서 피의자가 성실한 출석을 약속하고 있다”고 인용 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피의사실의 범죄 성립 여부에 관해 다툼의 여지가 상당하기는 하나 수사의 필요성이 전면 부정된다고까지 보기는 어렵다”며 “피의사실 중 공직선거법 위반의 점에 대한 공소시효가 다가오고 있어 수사기관으로서는 피의자를 신속히 소환 조사할 필요가 있음은 일응 인정할 수 있고, 피의자가 수사기관의 출석 요구에 응하지 않은 것도 사실”이라고도 했다.&lt;br&gt;&lt;br&gt;또 “단기 공소시효로 인한 사안의 시급성에 비추어 피의자로서도 자신의 출석 가능한 일정을 적극적으로 밝히고 최대한 신속히 출석 요구에 응할 필요가 있었음에도 피의자의 회신 노력이 부족했음을 지적하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이어 “피의자가 사전에 스스로 약속한 마지막 출석 예정 일자에 결국 불출석하게 된 이유로 들고 있는 국회 출석이 과연 불가피한 것이었는지 의문이 남는 점 등을 고려할 때, 변호인이 제기하는 일부 의문점에 충분한 경청의 필요성이 있음에도 불구하고 체포의 적법성 자체를 부정하기는 어렵다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이 전 위원장의 청구가 인용되자 “법원의 결정을 존중한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;법원이 체포적부심사 인용 결정을 내리면서, 서울 영등포경찰서 유치장에 수감돼 있던 이 전 위원장은 곧 석방될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>택시기사 폭행한 취객에 ‘초크’ 걸어 제압한 청년…아이돌 연습생이었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/J4ATFT4MEBG7ZBBFUX7STCZFCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/J4ATFT4MEBG7ZBBFUX7STCZFCE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 00:07:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKHJV2GEURHURAD7O3ENKNDZPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;택시 기사 폭행범을 제압하는 청년./엑스(X·옉 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 아이돌 오디션 프로그램에 출연했던 중국인 연습생이 취객에게 폭행당하는 택시 기사를 돕는 영상이 공개됐다.&lt;br&gt;&lt;br&gt;4일 여러 온라인 커뮤니티와 소셜미디어(SNS) 등에는 국내 한 길거리에서 폭행당하는 택시 기사를 돕는 청년의 모습이 담긴 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상을 보면 길가에 세워진 택시 앞에서 검은색 외투를 입은 젊은 남성이 택시 기사로 추정되는 남성을 눕힌 채 폭행하고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KR6XOTITBJGJZJAFZE4TRQJVT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 남성이 택시기사를 폭행하는 모습./엑스(X·옉 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 장소에서 촬영된 또 다른 영상에는 여러 명의 남성이 나서서 상황을 정리하는 모습이 담겼다. 이 중 한 청년은 폭행하던 남성의 목을 조르는 일명 ‘초크’ 기술을 걸어 그를 제압했다.&lt;br&gt;&lt;br&gt;이 영상이 공개되자 네티즌들 사이에서는 폭행하던 남성을 제압한 청년이 최근 엠넷 ‘보이즈2플래닛’에 출연했던 아이돌 연습생 쑨헝위(24)라는 추측이 제기됐다. 한 네티즌은 이 영상을 올리며 “술 먹고 택시 기사 폭행하는 거 쑨헝위가 도와줬다”고 설명하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFIF7GWTEJFH5DN7QFKW3K3EP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'보이즈2플래닛' 출신 연습생 쑨헝위./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 팬들은 쑨헝위 인스타그램 등 SNS에 “용기 내서 피해자 도와줘서 고맙다” “다친 곳은 없냐” 등의 댓글을 남기며 그의 안위를 걱정했다.&lt;br&gt;&lt;br&gt;이에 쑨헝위는 “저 괜찮다. 다친 곳 없다. 걱정 말라”고 글을 남겼다. 택시 기사에게 도움을 준 영상 속 인물이 자신임을 간접적으로 인정한 셈이다.&lt;br&gt;&lt;br&gt;중국 출신 쑨헝위는 2022년 5월 그룹 블랭키로 데뷔한 이후 2023년 10월 다른 소속사로 이적해 그룹 DV.OL로 재데뷔했으나, 2024년 사실상 팀 해체를 맞았다. 지난달 25일 종영한 ‘보이즈2플래닛’에 참가한 그는 3차 생존자 발표식에서 20위를 기록하며 탈락했다.&lt;br&gt;&lt;br&gt;쑨헝위는 탈락 후 한국어로 쓴 자필 편지를 공개했다. 편지에는 “데뷔라는 꿈을 이루지 못했지만 1년 전에는 없던 희망이 생겼다”며 “더 이상 나약하게 머물지 않고, 다가올 미래를 위해 준비할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LKN5LG22UJECDFB6GCNBQOR2RE.jpg?auth=514737512fdb01b1400ff3651c74b6a101a358d77dbbfca0e7df12ce7f4b255d&amp;smart=true&amp;width=505&amp;height=284" type="image/jpeg" height="284" width="505">
-        <media:description type="plain">택시 기사 폭행범을 제압하는 청년./엑스(X·옉 트위터)</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>바그너에 의한, 바그너를 위한 바그너의 축제를 가다</title>
