@@ -13,6 +13,27 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“이스라엘 사막 교도소 수감된 한국인 활동가...가혹한 환경”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/3AMVGORN2NAODJBYFUNHJDDN5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/3AMVGORN2NAODJBYFUNHJDDN5E/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 09:58:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EE2O6BOBR5CJFAKGH727RXFEXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이스라엘군에 나포된 선박에 탑승 중이던 한국 국적 활동가 김아현씨./강정친구들 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;엘 남부 케치오트교도소로 이송·수감된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;9일 팔레스타인과 연대하는 한국 시민사회 긴급행동·강정친구들·개척자들 등 시민단체 관계자는 연합뉴스에 “해초 활동가(김아현)가 이스라엘 남부 사막에 있는 케치오트교도소로 옮겨졌다고 한다”고 전했다. 이어 “항해 참여자들을 테러리스트로 취급하는 것”이라고 했다.&lt;br&gt;&lt;br&gt;나포된 탑승자들의 법률 자문을 맡고 있는 팔레스타인 지원 인권 단체 아달라도 “이스라엘 해군이 8일 새벽 가자지구로 향하던 ‘천 개의 매들린 함대’ 소속 선박들을 나포한 뒤 대부분의 참가자들이 케치오트교도소로 이송됐다”고 밝혔다. 아달라는 이 교도소에 대해 “가혹하고 학대적인 환경으로 악명이 높다”고 설명했다.&lt;br&gt;&lt;br&gt;케치오트교도소는 이스라엘 남부 네게브 사막의 이집트 접경지에 위치한 대규모 수용 시설로, 통상 팔레스타인 출신 테러리스트 등을 수감하는 곳으로 알려져 있다. 최근 글로벌수무드함대(GSF) 구호선단을 타고 가자지구 접근을 시도했다가 지난 6일 추방된 스웨덴 환경운동가 그레타 툰베리 등도 이곳에 머물렀던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 극우 성향 이타마르 벤그비르 이스라엘 국가안보장관은 가자지구로 향하는 활동가들을 향해 “그들은 케치오트교도소의 상황을 제대로 알고 이스라엘로 오기 전에 다시 생각해봐야 할 것”이라고 경고한 바 있다.&lt;br&gt;&lt;br&gt;김진아 외교부 2차관은 이날 바락 샤인 주한 이스라엘대사대리와 면담을 갖고, 나포 선박 탑승 한국인의 안전 확보와 조속한 석방을 위한 협조를 요청했다. 이에 샤인 대사대리는 관련 절차를 거쳐 “한국 국민이 최대한 신속하게 석방될 수 있도록 협조하겠으며, 그의 안전 확보를 위해 모든 노력을 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/URXFRZDAWBGATFPARFDEBKWT6E.jpg?auth=19d7b32e5acedbf426fbd5ae1de4445016cf3b2b7aa3050ebbf02cb6a9c72106&amp;smart=true&amp;width=1080&amp;height=608" type="image/jpeg" height="608" width="1080">
+        <media:description type="plain">이스라엘군에 나포된 선박에 탑승 중이던 한국 국적 활동가 김아현씨./강정친구들 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>풍년 맞은 귀하신 몸… 송이, 올해는 나도 맛 좀 보려나 </title>
+      <link>https://www.chosun.com/national/2025/10/09/AO5XEDVXABGUJCCOL3EY37E2ZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/09/AO5XEDVXABGUJCCOL3EY37E2ZY/</guid>
+      <dc:creator>봉화=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 08:37:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C4KZCAAOCZHBNIPZEPJEGU3XAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;"요것이 1등품이죠." 9일 오전 경북 봉화산림조합공판장에서 물야면 주민 강신호씨가 1등급으로 선별된 송이를 소개하며 활짝 웃고 있다. /봉화산림조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“갓은 피지 않고 몸통은 휘지 않은 것이 향내 진한 1등품이죠. ”&lt;br&gt;&lt;br&gt;9일 오전 경북 봉화군 봉화읍 내성리 봉화산림조합공판장. 산에서 갓 채취한 송이버섯이 잇따라 모습을 드러내자 송이 선별 담당자의 손길도 분주해졌다. 이날 공판물량은 120㎏. 1등품은 kg당 38만7000원, 2등품은 28만7000원, 3등품은 22만1600원, 등외는 13만1000원에 낙찰됐다. 추석 전 kg당 80만원을 웃돌던 1등급 송이 가격이 채취량 증가로 절반 이상 떨어진 것이다. &lt;br&gt;&lt;br&gt;송이 주산지인 경북 봉화에선 지난 7일 첫 공판이 시작된 이후 8일 기준 공판량은 총 220kg이다. 지난해 첫 공판 당시 봉화의 출하량이 1.62㎏에 불과했던 것과 비교하면 올해는 시작부터 풍년 분위기다. &lt;br&gt;&lt;br&gt;산림조합에 따르면 역대급 가뭄과 폭염으로 송이 출하 시기는 예년보다 20여 일 늦었다. 추석 대목이 끝난 뒤라서 송이 가격은 큰 폭으로 떨어지고 있다. 연휴 기간 택배업체의 휴무도 송이 가격 하락에 영향을 끼쳤다고 한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4KFH2CELWZENPBUS64CXE5NFUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 경북 봉화군 내성리 봉화산림조합공판장에서 소천면 주민 황명익씨가 1등급으로 선별된 송이를 소개하고 있다. /봉화산림조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송이 가격이 떨어져도 출하 농민들의 얼굴엔 웃음꽃이 가득하다. 유통 상인들도 기대감을 감추지 못하고 있다. 물야면 주민 강신호(61)씨는 “송이 가격이 내려가면 소고기 등 육류 소비도 늘어나 되레 지역경제가 살아난다”고 했다. 소천면 주민 황명익(80)씨는 “해발 900m 산속에서 고생 끝에 채취한 3kg 송이로 50만원을 낙찰받았다”며 “가격이 싸더라도 많이 났으면 좋겠다”고 말했다. &lt;br&gt;&lt;br&gt;산림조합 측은 올해 봉화 송이 생산량이 크게 늘어날 것으로 보고 있다. 여름철 폭염이 일찍 잦아들고 최근 적당한 강수량에 밤낮 기온차도 뚜렷해 송이 생육에 최적의 조건이 형성됐기 때문이다. 정영기 봉화군산림조합장은 “일조량과 습도가 적절히 맞아 송이 균사가 고르게 퍼지고 있다”며 “이대로면 60~70% 채취량이 더 증가할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLWY7RBYOREKTI5CWZRIV3SRPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 오전 경북 봉화군 봉화산림조합공판장에서 선별 관계자가 농민이 채취한 송이를 살펴보고 있다. /봉화산림조합.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 직전까지만 해도 ‘금송이’라 불릴 정도로 송이는 품귀현상을 빚었다. 지난 3일 강원도 양양 송이가 1등품에 161만1000원으로 사상 최고가를 기록했다. 연휴 전 문경 송이도 1등급에 86만5000원선에 거래되기도 했다. &lt;br&gt;&lt;br&gt;산림조합중앙회 공판 자료에 따르면 8일 기준 전국에서 송이 3만 7247kg이 공판됐다. 송이는 주로 강원과 경북지역에서 채취된다. 산림조합 관계자는 “공식 입찰을 통한 송이 공판량보다 실제 시중에 거래되는 송이 양은 3배 정도 될 것으로 보면 된다”고 말했다. &lt;br&gt;&lt;br&gt;때아닌 송이 풍년에 봉화군도 기대감을 나타내고 있다. 봉화 송이축제는 16일부터 19일까지 내성천 일원에서 진행된다. 봉화군 관계자는 “지난해 송이버섯이 거의 나지 않아 구경조차 어려웠지만 올해는 늦게나마 송이 향을 느낄 수 있게 됐다”며 “송이 작황이 좋으면 봉화 송이축제도 성대하게 할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>만차 주차장서 ‘3칸 점유’...해수욕장 앞 캠핑족에 ‘시끌’</title>
       <link>https://www.chosun.com/national/national_general/2025/10/09/4EWX4GHNIBAAFGRKRVUSOWE7PY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/4EWX4GHNIBAAFGRKRVUSOWE7PY/</guid>
@@ -916,24 +937,6 @@
       <description/>
       <pubDate>Mon, 06 Oct 2025 00:57:42 +0000</pubDate>
       <content:encoded>변호사가 자신이 맡은 재판에 다른 사람의 개인정보가 포함된 증거를 낸 것에 대해 정당 행위라 위법성이 인정되지 않는다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면, 대법원 2부(주심 엄상필 대법관)는 개인정보를 누설했다며 전모씨가 변호사 이모씨를 상대로 낸 손해배상 청구 소송에서 전씨 승소로 판단한 원심 판결을 깨고 사건을 인천지법에 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/477ET3EFMLSR6DDSVHBNXCBBAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨는 2022년 6월 자신이 대리하는 민사 재판에서 “소송 상대방의 주장은 전씨에 의해 왜곡된 일방적 주장”이라며 “전씨가 변호사 자격이 없음에도 투자 관련 분쟁 사건에서 다수 투자자로부터 사건을 수임해 고소장 작성 등을 하고 있다”고 주장했다. 그러면서 전씨가 투자 관련 분쟁 사건에서 다른 투자자와 맺은 계약서를 증거로 제출했다. 계약서에는 전씨의 주민등록번호와 주소, 전화번호 등 개인정보가 적혀 있었다.&lt;br&gt;&lt;br&gt;전씨는 이에 대해 개인정보보호법에서 금지하는 ‘개인정보 누설’에 해당한다며 정신적 손해에 대한 배상을 청구했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이씨의 행위가 정당하다고 보고, 30만원의 배상책임을 인정한 원심 판결을 파기했다. 대법원은 “재판과정에서 소송상 필요한 주장의 증명을 위해 개인정보가 포함된 소송서류나 증거를 법원에 제출하는 등 경우에는 사회상규에 위배되지 않는 행위로서 정당행위에 해당해 위법성이 조각될 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이때 정당행위에 해당하는지 여부는 개인정보 제출 경위와 목적, 제출 상대방, 제출 행위 목적 달성에 필요한 최소한의 정보 제출인지 등 사안을 종합적으로 고려해 객관적이고 합리적으로 판단해야 한다고 설명했다. 이씨가 낸 계약서는 소송 상대방 주장의 신빙성을 다투기 위한 자료로, 이를 제출한 행위 역시 소송행위의 일환으로 평가할 수 있다는 게 대법원 판단이다.&lt;br&gt;&lt;br&gt;대법원은 계약서 취득 과정에서 다른 법익을 침해했다는 사정을 찾기 어렵고, 포함된 개인정보 내용 역시 당사자 특정에 필요한 정보의 범위를 넘지 않으며, 해당 개인정보가 소송과 무관한 제3자에게 제공될 위험성도 크지 않다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 귀경길 고속도로 정체 시작…부산→서울 6시간 50분</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/06/2BL7PUHDZNDZTK64KI3MHZM2AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/2BL7PUHDZNDZTK64KI3MHZM2AU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Oct 2025 00:31:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGVLJBSMCVRGRLNFATP6MBUMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 첫날인 3일 오후 서울 서초구 잠원IC 부근 경부고속도로 하행선이 귀성 차량으로 정체를 빚고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 당일인 6일 오전 전국 주요 고속도로에서 귀성·귀경 행렬이 몰리면서 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면 이날 오전 8시 기준 서울 요금소에서 전국 주요 도시까지 걸리는 시간은 부산 6시간 50분, 울산 6시간 30분, 목포 6시간, 대구 5시간 50분, 광주 5시간 40분, 강릉 3시간, 대전 2시간 20분이다.&lt;br&gt;&lt;br&gt;반대로 각 도시에서 서울까지 소요 시간은 부산 6시간 50분, 울산 6시간 30분, 대구 5시간 50분, 목포 5시간 10분, 광주 4시간 30분, 강릉 3시간 10분, 대전 1시간 30분이다.&lt;br&gt;&lt;br&gt;경부고속도로 서울 방향은 양재 부근부터 반포까지 7㎞, 칠곡분기점부터 칠곡분기점까지 2㎞ 구간에서 차량 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;부산 방향은 대전 터널부터 비룡분기점까지 2㎞, 옥산분기점 부근부터 옥산까지 5㎞, 천안분기점부터 천안호두휴게소까지 11㎞, 북천안 부근부터 천안까지 8㎞ 등에서 차량 운행이 지체되고 있다.&lt;br&gt;&lt;br&gt;서해안고속도로 목포 방향에서는 서평택분기점부터 서해대교까지 12㎞, 비봉부터 발안까지 16㎞, 서서울요금소부터 순산터널까지 5㎞ 등 구간에서 서행 중이다.&lt;br&gt;&lt;br&gt;중부고속도로 남이 방향은 호법분기점부터 모가까지 2㎞, 마장분기점부터 호법분기점까지 2㎞에서 가다 서다가 이어지고 있다.&lt;br&gt;&lt;br&gt;영동고속도로 강릉 방향은 용인부터 양지터널까지 6㎞, 마성터널부터 용인까지 4㎞ 구간에서 정체를 보인다.&lt;br&gt;&lt;br&gt;공사는 귀성 방향의 경우 오전 6~7시 정체가 시작돼 오후 3∼4시 정점을 찍고 오후 11시∼7일 오전 0시께 해소될 것으로 내다봤다.&lt;br&gt;&lt;br&gt;귀경 방향은 오전 7∼8시 막히기 시작해 오후 4∼5시 최대에 달한 뒤 7일 오전 1∼2시 풀릴 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 전국 교통량은 667만대 정도로 예상된다. 이 중 수도권에서 지방으로 49만대, 지방에서 수도권으로 48만대가 이동할 것으로 공사는 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 당일, 전국 대체로 흐리고 비 </title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/06/FA7LQWJH3JDQXFQZH35RXP7KAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/06/FA7LQWJH3JDQXFQZH35RXP7KAI/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 23:49:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THSQLRREC66CIPICYRA5KWGMJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석을 하루 앞둔 5일 서울 광화문에 비가 내리는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석인 6일 전국이 대체로 흐리고 곳곳에 비가 내리겠다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 7일까지 비가 내리다 소강상태를 보일 전망이다. 6~7일 예상 강수량은 인천·경기 남서부, 강원 산지·동해안, 대전·세종·충남, 부산 등 20~60㎜이다. 서울·경기와 강원 내륙, 충북엔 10~40㎜의 비가 내리겠다. 제주는 5㎜ 안팎의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에 비가 내리면서 보름달을 보기 어렵겠다. 일부 남해안과 제주도에선 구름 사이로 보름달을 볼 수 있겠다.&lt;br&gt;&lt;br&gt;기온은 평년과 비슷하다. 추석 당일 아침 최저기온은 16~22도, 낮 최고기온은 17~26도로 예보됐다. 7일은 아침 최저 15~22도, 낮 최고 19~26도로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“낮엔 병원, 밤엔 집” 노인 주간 돌봄에 의료 더한 독일 ‘주간 병원’ 가보니</title>
