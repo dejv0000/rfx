@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법원 “김건희 의혹 다룬 ‘김현정의 뉴스쇼’ 방통위 제재는 위법”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 03:11:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VSP4YVPHKRESW5MJDSPMNZ6KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 정부과천청사 방송통신위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 국회의원 선거를 앞두고 윤석열 전 대통령 부인 김건희 여사 관련 의혹을 언급한 CBS 라디오 방송에 방송통신위원회(방통위)가 내린 법정 제재는 위법이라는 법원 판단이 나왔다. 서울행정법원 행정6부(재판장 나진이)는 CBS가 방통위를 상대로 제기한 제재조치 처분 취소 소송에서 최근 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;CBS 라디오 방송 프로그램 ‘김현정의 뉴스쇼’는 작년 2월 2일 방송에서 윤석열 전 대통령의 신년 메시지 등 정치 현안을 다루면서 김 여사의 ‘명품 가방 수수 의혹’과 ‘도이치모터스 주가조작 연루 의혹’을 언급했다. 프로그램에 출연한 이언주 현 더불어민주당 최고위원은 “국민들은 수사가 필요하다는 쪽으로 가고 있고요” “특검에 대한 거부권 행사하면 안 된다는 견해가 굉장히 많지 않습니까?” “처가가 영부인 포함해서 22억인가 23억인가 이득을 봤다. 이게 재판과정에서 드러났잖아요” 등 발언을 했다.&lt;br&gt;&lt;br&gt;방통위의 총선 선거방송심의위원회(선방위)는 같은 해 4월 ‘김건희 특검법 등 전 국민 관심사가 되는 사안에 대해 특정 정당 소속 국회의원의 일방적 주장을 방송하면서 이에 대한 반론·반박을 다루지 않은 것은 선거방송에서 공평한 관심과 처우를 제공하지 않은 것’이라며 법정 제재인 ‘경고’를 의결했고 방통위는 5월 제재 처분을 내렸다. CBS 측이 재심을 청구했으나 방통위는 ‘주의’로 한 단계만 낮췄고, CBS는 제재를 취소해 달라며 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 이 프로그램이 방심위 심의·제재 대상인 ‘선거방송’이 아니기 때문에 제재 처분이 위법하다며 CBS 손을 들어줬다. 재판부는 “문제의 발언은 당시 사회적·정치적으로 화제가 되는 사안을 다룬 것일 뿐 정당의 정강·정책이나 후보자의 정견에 관한 것이 아니다”라며 “이 발언이 대통령에 대한 비판 취지로 볼 수 있다고 하더라도, 이런 비판이 선거에 영향을 미칠 수 있다는 사정만으로 선거와 직접적으로 관련된 사항을 주제로 했다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;방통위는 선방위 설치·운영 기간 특정 정당이나 후보자, 각종 정치 현안을 언급해 여론 형성에 영향을 미치는 프로그램은 모두 심의 대상이라고 주장했으나 법원은 “방통위 주장대로면 어떤 방송이 심의·제재 대상이 되는 선거방송인지 알 수 없게 돼 법적 안정성을 확보할 수 없고, 헌법상 보호받는 표현에 대한 위축 효과를 초래하게 된다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>임기 끝나고 인감도장 안 돌려준 아파트 입주자대표…대법 “업무방해 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/09/NKSYYKBXVFE2PPNIVSDAPZBO6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/NKSYYKBXVFE2PPNIVSDAPZBO6Q/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 02:59:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 입주자대표 회장이 임기가 끝난 뒤 인감도장과 사업자등록증을 돌려놓지 않은 것을 업무방해죄로 처벌할 수 없다는 대법원 판단이 나왔다. 해야 할 일을 하지 않은 ‘부작위’를 적극적인 위력 행사와 똑같이 볼 수는 없다는 취지다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 업무방해 혐의로 기소된 A씨에게 벌금 200만원을 선고한 원심 판결을 깨고 지난달 사건을 의정부지법으로 돌려보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경기도 남양주시 한 아파트 입주자대표회의 회장이었던 A씨는 2021년 4월 후임 회장이 새로 뽑혀 임기가 시작됐는데도, 후임 선출 과정에 문제를 제기하면서 은행 거래용 인감도장과 사업자등록증을 넘겨주지 않아 업무방해 혐의로 기소됐다. 형법은 허위 사실을 유포하거나 위력으로 업무를 방해한 경우 5년 이하의 징역 또는 1500만원 이하 벌금에 처한다고 규정한다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 인감도장과 사업자등록증을 돌려주지 않은 행위가 형법에서 규정하는 ‘위력’에 해당하는지였다. 대법원 판례는 위력을 폭력·협박뿐 아니라 사회적 지위·권세에 의한 압박도 포함한다고 하고 있다. 1·2심은 “A씨가 인감 등의 반환 의무를 거부해 후임 회장의 업무를 방해했고 A씨에게 업무 방해의 고의도 있었다”며 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 무죄 취지로 파기 환송했다. 대법원은 “해야 할 일을 하지 않은 ‘부작위’가 업무방해죄의 ‘위력’에 해당하려면 피해자 업무에 대한 적극적인 방해 행위와 동등한 형법적 가치를 가져야 한다”며 “A씨는 단순히 인도를 거절한 것이지, 인감을 사용해 자신이 회장 행세를 하는 등 적극적으로 후임 회장 업무를 방해했다는 사정을 보이지 않는다”고 했다. 또 후임 회장이 임기를 시작한 후 무리 없이 입주자대표회의를 개최한 점 등을 들어 “업무가 실제로 불가능하거나 현저하게 곤란하게 됐다고 보기도 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘집회서 경찰관 폭행’ 권영국 정의당 대표, 10년 만에 1심 집유</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/AVUUJJR3MVCXLNUBGKFGLLKFS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/AVUUJJR3MVCXLNUBGKFGLLKFS4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 02:13:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6RCF2WGXC4OPWW7DCEOOLB3OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권영국 정의당 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2015년 박근혜 정부 시절 집회를 하는 과정에서 차량 운행을 방해하고 경찰관을 폭행한 혐의 등으로 재판을 받아온 권영국 정의당 대표가 약 10년 만에 1심에서 징역형 집행유예를 선고받았다. &lt;br&gt;&lt;br&gt;9일 법조계에 따르면 서울중앙지법 형사9단독 최지연 판사는 지난달 9일 집회 및 시위에 관한 법률(집시법) 위반과 공무집행방해, 일반교통방해 등 혐의로 재판을 받아온 권 대표에게 징역 6개월에 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;권 대표는 2015년 9월 23일 서울 중구 청계천 일대에서 열린 ‘노동개악저지 결의대회’ 집회에서 신고한 집회 인원을 초과해 미신고 행진을 하고, 경찰의 해산 명령을 무시한 혐의(집시법 위반)로 기소됐다. 권 대표는 이 집회 과정에서 질서유지 업무를 수행하는 경찰의 머리를 손으로 2회 때렸다.&lt;br&gt;&lt;br&gt;권 대표는 같은 해 9월 19일에는 서울 중구 청계천 일대에서 열린 ‘노동시장 구조 개악 저지 결의대회’에서 집회 참가자 3000여 명과 함께 종로3가 교차로 양방향 전 차로를 점거한 혐의(일반교통방해)도 있다.&lt;br&gt;&lt;br&gt;검찰은 2018년 권 대표를 공무집행방해, 집회·시위에 관한 법률 위반, 일반교통방해 혐의로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;권 대표는 재판 과정에서 경찰관 폭행 혐의를 부인하며 부당한 시위 진압에 항의하던 중 최루액을 막으려 팔을 흔들다가 발생한 일이라고 주장했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 경찰관 진술과 채증 동영상을 근거로 권 대표가 경찰관을 폭행한 사실이 인정된다고 봤다. 집시법 위반 혐의도 유죄로 인정했다. 다만 일반교통방해 혐의는 권 대표가 단순 가담자에 불과하다며 무죄로 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “민주주의 사회에서 집회·시위의 자유가 폭넓게 허용돼야 하고, 사회적 약자를 보호해야 할 필요성에는 공감한다”면서도 “헌법과 법률에서 보장하는 집회·시위는 국가의 법질서와 일반 시민의 자유를 침해하고 위협하면서까지 누릴 수 있는 절대 권리가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 6000억원대 다단계 사기 ‘제이디더글로벌’ 운영진 구속기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/09/XU6WRQD3VRHALHKSNOV4UUDATY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/XU6WRQD3VRHALHKSNOV4UUDATY/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 01:27:28 +0000</pubDate>
+      <content:encoded>검찰이 고수익을 미끼로 투자자 2만2000여 명에게 약 6000억원의 피해를 끼친 불법 다단계 조직 ‘제이디더글로벌’ 운영진을 구속기소 했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사4부(부장 이정화)는 지난 8월부터 이달 2일까지 특정경제범죄 가중처벌 등에 관한 법률 위반(사기), 형법상 사기, 유사수신행위법 위반, 방문판매법 위반 혐의를 받는 제이디더글로벌 운영진 총 15명을 구속기소 했다.&lt;br&gt;&lt;br&gt;제이디더글로벌 관계자들은 약 1년 5개월 동안 ‘라이브커머스’(실시간 온라인 판매방송)를 통한 화장품 판매로 수익을 내 투자금의 200%의 수익을 보장하겠다고 투자자들을 속여 피해자 약 2만2000명에게 합계 총액 6000억여 원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;검찰은 “제이디더글로벌이 짧은 범행기간 동안 전국적으로 대규모 피해자를 양산해 서민의 가정경제와 금융질서를 어지럽혔다”며 “검찰은 범죄수익을 추적해 피해자들에게 돌아갈 수 있도록 필요한 조치를 이어가고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러면서 “서울중앙지검은 대검찰청에서 파견 나온 ‘다중피해범죄 집중수사팀’과 함께 다수 피해자·다액 피해 사건을 집중 수사 중이며, 범죄피해재산 환부 등 실질적 피해 회복에 최선을 다할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“술 마셨지만 운전 가능했다”…10대 숨지게 한 운전자 결국 중형 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/UBNDNAIM2VDQNAZYQYIHDZXKFQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/UBNDNAIM2VDQNAZYQYIHDZXKFQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 00:58:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDZIEJTKE63QO375J37JOA3HAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전을 하다 사망 사고를 낸 운전자가 항소심에서도 중형을 선고받았다. &lt;br&gt;&lt;br&gt;9일 법조계에 따르면 의정부지법 형사2부(이태영 부장판사)는 특가법상 위험운전치사 혐의로 재판을 받아온 A씨에 대해 항소를 기각하고 원심과 같은 징역 6년형을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난해 9월 친구 3명과 소주 10병을 나눠 마시고 의정부 망월사역→회룡역 구간을 시속 118㎞로 운전하다 전동 킥보드를 타던 10대 남성을 차로 쳐 결국 숨지게 했다. 사고 당시 A씨의 혈중알코올농도는 면허 취소 수치를 상회하는 0.155%였다.&lt;br&gt;&lt;br&gt;사고 차량에 동승했던 친구 B씨는 “너를 믿는다” 등 A씨의 음주운전을 부추기는 듯한 발언을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 ‘술을 마신 것은 인정하지만, 운전이 가능한 상태였다’는 취지로 주장했다. &lt;br&gt;&lt;br&gt;1심 재판부는 A씨가 사망 사고 전에도 신호 위반, 제한속도 위반, 안전거리 미확보 등 난폭 운전을 했고, 혈중알코올농도 수치가 상당히 높은 점 등을 근거로 징역 6년형을 선고했다. &lt;br&gt;&lt;br&gt;A씨는 항소심에서도 음주로 운전이 어려운 상태는 아니었다고 주장했지만, 받아들여지지 않았다. &lt;br&gt;&lt;br&gt;항소심 재판부는 음주운전을 방조한 친구 B씨에 대해서는 “차량에 동승하는 것을 넘어, 피고인의 과속을 부추기는 것으로 보이는 말을 했다”며 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국인 1명 탄 가자 구호선박, 이스라엘군에 나포</title>
       <link>https://www.chosun.com/national/national_general/2025/10/09/DO5JOHUEZRAIDORSLYVRRCXUEI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/DO5JOHUEZRAIDORSLYVRRCXUEI/</guid>
@@ -894,15 +939,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘3500억대 태양광 사기’ 마이더스 전 대표 대법서 징역 16년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/FUWXVJEXFVDFZBAMH7N5BX3MBU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 04:55:21 +0000</pubDate>
-      <content:encoded>태양광 사업에 투자하면 매달 수익률을 보장한다며 다단계 방식으로 3500억대 사기를 저지른 마이더스파트너스 전 대표 서모씨에게 중형이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXH326AVUNDDZMB4JFNVONINYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 정문에 서 있는 조각. 엄태정이 1995년 제작한 ‘법과 정의의 상(象)’이다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 최근 특정경제범죄 가중처벌법상 사기, 유사수신행위법 위반 등 혐의로 재판에 넘겨진 서씨에게 징역 16년을 선고한 원심 판결을 확정했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;서씨는 컨설팅 업체 명목으로 마이더스파트너스라는 법인을 설립해 2018년부터 2021년까지 피해자 5287명으로부터 약 3500억원을 받아 가로챈 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;서씨는 전국 각지에서 매월 수차례 투자 설명회를 열며 자신을 ‘투자에 성공한 사업가’라고 소개한 뒤 “태양광 업체를 비롯한 유망 중소기업에 투자하면 원금이 보장되고 매월 2%의 이자가 지급된다”고 속여 투자자를 끌어모았다. &lt;br&gt;&lt;br&gt;그러나 이들이 투자한 기업들은 사실상 매출 실적이 없는 깡통 회사였고, 후순위로 돈을 빌려준 사람들의 자금으로 선순위 입금자들에게 원리금을 지급하는 이른바 ‘돌려막기’ 수법으로 사기 행각을 벌인 것으로 조사됐다. &lt;br&gt;&lt;br&gt;서씨는 이렇게 가로챈 돈으로 서울 송파구 아파트에 살며 주거 비용으로만 수천 만원을 썼고, 고급 수입차를 10여 대 몰고 다니며 골프와 레이싱을 즐긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1심은 지난해 11월 서씨에게 징역 16년을 선고하고 984억원의 추징을 명령했다. 1심은 “서씨는 범행의 가장 큰 책임자이자 동시에 수익자”라며 “건강 악화를 호소하면서도 레이싱 대회에 거듭 참가하는 등 반성하는 모습이 없다”고 지적했다. 2심과 대법원도 같은 형을 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>임은정, 법무장관 경고에도 또 페북 “檢, 뿌린 대로 거둬”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</guid>
@@ -912,27 +948,6 @@
       <content:encoded>임은정 서울동부지검장이 검찰청 폐지를 골자로 한 정부조직법 개정안이 국회에서 통과한 것에 대해 “검찰이 뿌린 대로 거뒀다”고 5일 밝혔다. 정성호 법무부 장관이 고위 공직자로서 언행에 유의하라고 경고한 지 일주일도 안 됐는데, 또 다시 검찰을 겨냥한 비판적인 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP3UEQY5IU7N5DPKBNNDLQJPAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지방검찰청 검사장이 지난 8월 29일 서울 여의도 국회의원회관에서 열린 검찰개혁 긴급 공청회 '검찰개혁의 쟁점은 무엇인가? - 국민이 바라는 검찰개혁의 속도와 방향'에서 토론하고 있다. 왼쪽부터 황운하 조국혁신당 의원, 임 검사장, 한동수 전 대검찰청 감찰부장, 박은정 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 이날 자신의 페이스북에 “명절 연휴 직전의 개정 정부조직법 공포를 지켜보며 검찰 역시도 뿌린 대로 거두는 수확의 시기를 결국 맞았구나 싶었다”면서 “좀 더 말려보지 못한 게 후회스럽고 이래저래 안타깝고 서글픈 마음”이라고 적었다.&lt;br&gt;&lt;br&gt;이어 “동료들에게 추석 인사를 하며 수확물에 망연자실 실망하지 말고 알차게 내년을 준비하여 올해 같지 않은 내년은 맞자고 했다”면서 “알찬 내년을 위한 준비가 기득권을 지키기 위한 분투가 아니라, 잃어버린 시민들의 신뢰를 되찾기 위한 검찰의 허물과 과오를 고치고 바로잡기 위한 분투가 되어야 할 것”이라고 했다. 또 “저 역시 다음에 또 후회하지 않도록 더욱 분투해 볼 각오”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 정 법무 장관은 지난달 29일 임 지검장에게 “앞으로 정치적 중립성이나 업무 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실하라”고 당부한 바 있다. 임 지검장이 국회 공청회에서 검사 인사에 대해 ‘인사 참사’라고 표현하고, 특정 검사들을 ‘검찰개혁 5적’이라 지칭한 것을 두고 검찰 안팎에서 부적절하다는 지적이 이어졌기 때문이다. &lt;br&gt;&lt;br&gt;국회는 지난달 26일 검찰청 폐지와 기획재정부 분리 등을 내용으로 하는 정부조직법 개정안을 재석 180명 중 174명 찬성으로 통과시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>추석 연휴 기간 ‘1분 만에 매진’… 덕적·무의·석모도 등 인천 국공립 자연휴양림 ‘인기’</title>
-      <link>https://www.chosun.com/national/regional/2025/10/05/TK3N6AO3IRCXPH5XJBJCWCTGQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/05/TK3N6AO3IRCXPH5XJBJCWCTGQY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ64QLYJHNELHMA5DEQGQSU5FE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 옹진군 덕적면에 있는 덕적도 자연휴양림/ 옹진군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;덕적도와 무의도, 석모도 등 인천에 들어선 국공립 자연휴양림들이 이번 추석 연휴 기간 100% 예약을 기록하는 등 수도권 시민들의 쉼터로 인기를 끌고 있다. &lt;br&gt;&lt;br&gt;인천 옹진군과 강화군, 산림청 등에 따르면 인천 옹진군 ‘덕적도 자연휴양림’은 지난 3일부터 오는 9일까지 추석 연휴 기간 숙박 공간 9개실이 모두 예약이 완료됐다. &lt;br&gt;&lt;br&gt;39㎡ 면적의 4인실 4개와 52㎡ 면적의 5인실 3개, 93㎡ 면적의 8인실 2개 등이 모두 예약된 것이다. 20㎡ 면적의 4명이 함께 이용할 수 있는 야영데크 4개도 모두 예약됐다. &lt;br&gt;&lt;br&gt;휴양림의 한 관계자는 “전달 1일 오전 9시 정부의 ‘숲나들e’ 홈페이지를 통해 예약을 받았는데, 1분 안에 예매가 모두 완료됐다”며 “우리 가족도 예약을 시도했는데, 너무 빨리 마감돼 실패했다”고 했다. &lt;br&gt;&lt;br&gt;덕적도 자연휴양림은 12만㎡ 터에 숲속 야영장과 편의시설 등을 갖추고 있다. 주민 휴양 공간 제공과 관광객 유입을 통한 지역 경제 활성화 등을 목적으로 옹진군이 60억원의 사업비를 투입해 지난 3월 문을 열었다. &lt;br&gt;&lt;br&gt;덕적도 자연휴양림에선 도심을 벗어나 바다와 산 등 섬의 자연을 온전히 느끼며 쉴 수 있다는 게 가장 큰 장점이다. 개장 이후 지난 8월까지 벌써 1만330명이 이곳을 찾았다. 8월 시설 가동률은 86.7%에 달했다. &lt;br&gt;&lt;br&gt;휴양림 관계자는 “인천은 물론, 서울, 경기 등 수도권 지역 주민들이 이용객들의 80%를 차지하고, 강원도나 전라도, 심지어 부산에서도 이곳을 찾는다”며 “휴양림 이용객들이 서포리 해수욕장 등 덕적도 주요 관광지를 찾아 구경하면서 지역 경제 활성화에 보탬이 되고 있다”고 했다. 이어 “배를 타야 하고, 마트 등 인프라도 상대적으로 적어 60~70% 수준의 가동률을 기록할 것으로 예상했는데, 기대 이상”이라며 “연말 이용 현황 등을 분석해 시설 확장 여부를 검토할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KV7NF7UDI5BTJDAQTZBKWXWNPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 중구 무의동에 있는 국립 무의도 자연휴양림. /산림청 국립자연휴양림관리소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 첫 국립 자연휴양림인 ‘무의도 자연휴양림’도 덕적도 자연휴양림과 비슷한 상황이다. 29~31㎡ 면적의 5인실 18개, 44㎡ 면적의 6인실 2개 등 20개 숙박 공간이 연휴 기간은 물론 10월 말까지 모두 예약됐다.&lt;br&gt;&lt;br&gt;134억원의 사업비가 투입돼 2022년 문을 연 인천 중구 무의도 자연휴양림은 137만㎡ 터에 20개 객실을 비롯해 산책로와 목공예 체험장 등을 갖췄다. &lt;br&gt;&lt;br&gt;영종도와 연결된 무의대교가 2020년 개통돼 배를 타지 않고 갈 수 있는 섬이 돼 접근성이 좋고, 호룡곡산뿐만 아니라 하나개 해수욕장, 큰무리 해수욕장 등이 있어 산과 바다를 동시에 즐길 수 있다. 개장 이후 올 상반기까지 누적 24만3000명이 다녀갔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRH4HT2WDNBGPN7I746TFGW67Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군 삼산면 석모도 자연휴양림. /강화군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2011년 조성된 인천 강화군 석모도 자연휴양림도 인기다. 4~22인실 등 총 28개 숙박 공간이 추석 연휴 기간 모두 예약이 끝난 상태다. 휴양림 관계자는 “지난달 1일 10월 예약을 오픈했는데, 1300여 명이 동시에 접속해 2~3분 만에 모두 예약됐다”고 했다. &lt;br&gt;&lt;br&gt;석모도 자연휴양림은 128만3000여㎡ 규모로, 162억원의 사업비가 투입됐다. 연간 7만5000명 정도가 다녀가는 이곳은 상봉산, 낙가산 등 등산 코스와 연결되고, 보문사, 민머루해변 등 관광지와도 가깝다. 해 질 녘 서해 낙조도 장관이다. &lt;br&gt;&lt;br&gt;휴양림 관계자는 “일부 노후화된 객실을 리모델링하고, 휴게 시설도 확충할 계획”이라며 “주변 등산로 데크길도 확충하는 방안을 검토하는 등 이용객 편의를 높이기 위해 노력하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/KV7NF7UDI5BTJDAQTZBKWXWNPY.jpg?auth=36b58fb46303a14b53662f9abb464ab6baef9464c8994cfbaf32a3b5c20f651e&amp;smart=true&amp;width=4000&amp;height=2250" type="image/jpeg" height="2250" width="4000">
-        <media:description type="plain">인천 중구 무의동에 있는 국립 무의도 자연휴양림. /산림청 국립자연휴양림관리소</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>사업장 클수록 잦은 ‘직장 내 괴롭힘’... 10명 중 3명 당하거나 목격</title>
-      <link>https://www.chosun.com/national/labor/2025/10/05/725RPCHZDVCODMI5C66CFGZYFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/10/05/725RPCHZDVCODMI5C66CFGZYFY/</guid>
-      <dc:creator>정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 03:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SZK5NUQSZVDX7AIRGO3GORKNZQ.png"&gt;&lt;br&gt;&lt;br&gt;우리나라 직장인 10명 중 3명은 직장 내 괴롭힘을 경험하거나 목격한 적이 있는 것으로 조사됐다. 괴롭힘이 가장 자주 발생한 업종은 보건업·사회복지 서비스업이었다.&lt;br&gt;&lt;br&gt;고용노동부가 김위상 국민의힘 의원실에 제출한 연구용역 보고서 ‘2024년 직장 내 괴롭힘 금지 제도 실태조사’ 자료에 따르면, 전체 응답자 1000명 중 16.7%는 ‘지난 1년간 직장 내 괴롭힘을 경험했다’고 답했다. 근로자 25%는 ’지난 1년간 직장 내 괴롭힘을 목격했다’고 응답했다. 경험하거나 목격한 비율은 41.7%였다.&lt;br&gt;&lt;br&gt;업종별로는 보건업·사회복지 서비스업의 경험률이 25%로 가장 높았다. 이어 ‘공공행정·국방·사회보장 행정’ 24.6%, ‘금융·보험업’ 23.7% 등 순이었다. 목격률은 ‘금융·보험업’(36.8%), ‘보건업·사회복지 서비스업’(35.7%), ‘교육 서비스업’(35.5%) 등 순으로 높았다.&lt;br&gt;&lt;br&gt;사업장 규모가 클수록 직장 내 괴롭힘이 잦았다. 지난 1년간 직장 내 괴롭힘을 경험한 비율은 100~299인 사업장 24.7%, 10~29인 사업장 22.9%로 나타났다. 반면 1~4인 소규모 사업장은 8.5%, 5~9인 사업장은 11.5%였다. 목격률도 100~299인 사업장 45.4%, 300인 이상 사업장 34.5%, 10~29인 사업장 29.1% 등 순이었다. 1~4인 사업장은 10.8%, 5~9인 사업장은 17%였다.&lt;br&gt;&lt;br&gt;성별 경험률은 여성(20.3%)이 남성(13.7%)보다 높았다. 목격률도 여성(26.6%)이 남성(24%)보다 소폭 높게 나타났다. 연령별로는 경험과 목격 모두 30대에서 가장 높았고, 20대와 50대 이상에서 낮은 것으로 파악됐다. 직위별로는 경험의 경우 대리급이 21.1%로 가장 많았고, 이어 사원급 17.6%, 과장·차장급 17.4%, 부장급 이상 9.7% 순이었다. 목격은 대리급 36.1%, 과장·차장급 29.1%, 사원급 23.1%, 부장급 이상 13.8% 등 순이었다.&lt;br&gt;&lt;br&gt;직장 내 괴롭힘을 경험하거나 목격했다고 응답한 288명의 응답자가 ‘가해자’가 누구인지 응답한 결과, 상사(임원 제외)가 54.5%로 가장 많았다. 이어(복수 응답) 동료 38.2%, 임원 16%, 사업주 14.6%, 부하 직원 8%, 사용자의 친인척 근로자 1% 등 순이었다. 특히 상사가 가해자였다는 응답은 ‘예술·스포츠·여가 관련 서비스업’(77.8%)에서 가장 많았고, 동료가 가해자였다는 응답은 ‘운수 및 창고업’에서 가장 많았다. &lt;br&gt;&lt;br&gt;또 직장 내 괴롭힘 행위 유형 중 폭언이 52.1%로 가장 많았고, 따돌림·험담 45.1%, 강요 31.6%, 차별 26.4%, 부당 인사 13.9%, 업무 미부여 10.1%, 감시 10.1%, 사적 용무 지시 10.1%, 폭행 3.8% 등 순이었다. 괴롭힘 피해자들은 동료와 상담을 가장 많이 했고(45.5%), 이어 무대응(31.3%), 사내 고충 제기 및 신고(20.8%), 사직(17%) 등으로 대응한 것으로 나타났다.&lt;br&gt;&lt;br&gt;직장 내 괴롭힘 금지법이 시행 5년째인 가운데, 이 법 시행 이후 응답자의 37.8%는 “특별한 변화가 없다”고 응답했다. 또 절반(48.4%)은 직장 내 괴롭힘에 대한 법적 정의가 모호하다고 여기고 있는 것으로 나타나, 이를 개선할 필요가 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“낮엔 병원, 밤엔 집” 노인 주간 돌봄에 의료 더한 독일 ‘주간 병원’ 가보니</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/05/W66KFSXS3FESDPIXJKIHKWWRPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/05/W66KFSXS3FESDPIXJKIHKWWRPA/</guid>
@@ -940,15 +955,6 @@
       <description/>
       <pubDate>Sun, 05 Oct 2025 03:00:00 +0000</pubDate>
       <content:encoded>우리나라는 지난해 65세 이상이 인구의 20% 이상을 차지하는 ‘초고령 사회’에 진입했다. 건강보험연구원에 따르면, 2028년까지 요양보호사 11만6734명이 부족해질 것으로 전망됐다. 정부는 외국인 요양보호사를 양성하는 전문 연수 과정을 신설하고, 지역 우수 대학을 외국인 요양보호사 양성 대학으로 지정해 관리할 방침이다. 현재 전체 요양보호사 중 외국인 비율은 1%에도 못 미친다. 본지는 일찍이 외국인에게 취업 문턱을 낮춰 간병 인력 6명 중 1명은 외국인인 독일의 간병 현장과, 장기요양보험의 ‘재가 우선 원칙’을 뒷받침하는 독일의 주간 병원 등 재가 요양 제도를 살펴봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KM6XWW2URCXHAJ77ZJEGCLUWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 22일(현지 시각) 독일 노르트라인베스트팔렌주 뒤셀도르프의 성 마르티누스 종합병원이 운영하는 '주간 병원'에서 노인들이 치료 차례를 기다리고 있다. /정해민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 5월 22일 오후(현지 시각) 독일 뒤셀도르프의 성 마르티누스 종합병원. 병원 한편에서는 노인을 위한 ‘주간 병원(Tagesklinik)’이 운영 중이었다. 노인 3명은 대기실에서 자신의 치료 차례를 기다리고 있었다. 주간 병원 안쪽에는 물리·작업 치료를 받던 노인들이 쉴 수 있는 휴게 공간도 마련돼 있었다. 알버트 루카스 노인의학과장은 “몸을 움직이는 게 불편한 어르신들이 치료를 받기 위해 넓은 병원을 오가지 않도록, 재활의학과·신경과 등 전문의들이 병동에서 이곳으로 이동해 치료를 진행한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S24HJTINMJFEFI3MRWPIHLZ7RA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알버트 루카스 성 마르티누스 종합병원 노인의학과장. /정해민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독일은 주간 병원 등 시설을 통해 장기요양보험의 재가(在家) 우선 원칙을 실현하고 있다. 환자는 오전부터 오후 5시쯤까지만 주간 병원에 머물며 치료를 받고, 저녁에는 집으로 돌아간다. 우리나라의 ‘노인용 어린이집’으로 불리는 주야간 보호 서비스에 의료 기능을 더한 형태다. 현재 독일에는 이런 주간 병원이 총 209곳 운영되고 있으며, 하루 이용 요금은 약 200유로(약 30만원) 수준이다. 건강보험 지원을 받을 수 있다.&lt;br&gt;&lt;br&gt;독일 연방보건부에 따르면, 2023년 말 기준 독일 장기요양보험 수급자 약 560만명 중 84%(470만명)가 집에서 돌봄 혜택을 받고 있는 것으로 나타났다. 나머지 16%만 요양 시설에 입소해 있다.&lt;br&gt;&lt;br&gt;우리나라도 노인장기요양보험법에 재가 우선 원칙을 명시하고 있다. 주야간 보호 등 재가 서비스 이용 비율은 독일과 비슷한 80% 이상이다. 노인들이 가능한 한 자신이 살던 집에서 돌봄을 받을 수 있도록 하자는 취지다. 다&lt;br&gt;&lt;br&gt;주야간 보호 서비스는 장기요양보험의 재가급여 중 하나로 일부 기관은 야간에도 운영하지만 대부분 주간 중심으로 운영되고 있다. 노인이 낮 동안에만 요양 기관에서 식사, 목욕, 다양한 활동 등 돌봄을 제공받는 구조다. 가족의 돌봄 부담을 줄여주지만, 의료 서비스가 포함되지 않는다는 한계가 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AHLKGP2PCNFZRMAHL2MOBW5ZPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;성 마르티누스 종합병원의 주간병원에서 근무하는 한 간호사가 노인별 치료 일정을 소개하고 있다. /정해민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반면 독일은 주간 병원과 주간 보호 서비스를 구분해 운영한다. 주간 병원은 건강보험, 주간 보호는 장기요양보험 재정의 지원을 받아 각각 의료와 돌봄 기능을 담당한다. 병원 소속 기관으로서 치료가 필요하지만 24시간 입원까지는 필요하지 않은 노인에게 맞춤형 의료 서비스를 제공하는 것이 특징이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선박 점검 나갔다 숨진 갑판장… 법원 “‘직무상 사고’ 인정”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/05/QSDLRA334JDC7INI6VWGDJZPGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/QSDLRA334JDC7INI6VWGDJZPGI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 02:58:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJKK5CIP3F354CYPZ4XY23OXGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정·가정법원. /뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강풍이 불던 날 선박 점검을 나갔다가 다른 선박의 크레인에 깔려 숨진 것은 ‘직무상 사고’에 해당한다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 최근 한 어선 갑판장 A씨의 유족이 수협중앙회를 상대로 낸 ‘유족급여 및 장례비 부지급 처분 취소’ 소송에서 원고 승소로 판결했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;충남 보령의 한 어선에서 갑판장으로 일했던 A씨는 2019년 11월 선주의 전화를 받고 선박을 둘러보고 나왔다가 사고를 당했다. 당시 인근에 정박 중이던 다른 선박의 선원이 카고 크레인 트럭으로 제한 하중을 초과하는 그물을 들어 올리던 중, 크레인이 무게를 버티지 못하고 넘어지면서 A씨가 깔려 숨진 것이다.&lt;br&gt;&lt;br&gt;A씨 유족은 어선원재해보험법에 따라 수협중앙회에 유족급여와 장례비 지급을 청구했다. 그러나 수협은 “직무상 사고임을 입증할 자료가 부족하다”며 거부했다. 수협은 A씨가 선주의 지시로 선박에 간 것이 아니라, 평소 도박을 즐기던 A씨가 선착장 인근에 도박을 하러 갔다가 사고를 당했을 가능성도 있다고 주장했다. &lt;br&gt;&lt;br&gt;그러나 법원은 A씨가 직무상 사고로 사망했다고 판단했다. 재판부는 “인정되는 사실을 종합하면 A씨는 선주의 지시를 받고 선박의 운항 및 안전 관련 업무를 위해 출근했다가 사고를 당해 사망했다고 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;특히 사고 당일에는 풍랑예비특보가 발효된 상태였는데, A씨가 선주와 통화한 직후 곧바로 선박으로 향한 점 등을 근거로 “선주가 풍랑에 대비해 선박 안전 점검을 지시했을 개연성이 높다”고 했다.&lt;br&gt;&lt;br&gt;또한 재판부는 “선주가 사고 소식을 듣자마자 A씨에게 여러 차례 전화를 걸어 통화를 시도한 점도, 평소 지시를 내린 선원에게 사고가 발생했을 가능성을 염두에 둔 행동으로 볼 수 있다”며 “이는 A씨가 실제로 선주의 지시를 받고 출근한 정황으로 해석된다”고 했다.&lt;br&gt;&lt;br&gt;선주는 사고 당일 A씨에게 업무나 출근 지시를 한 적 없다는 취지로 진술했으나, 재판부는 “사용자 입장에서 보상 책임을 회피하려는 의도가 있을 수 있어 진술의 신빙성이 낮다”고 봤다. 아울러 A씨가 도박을 위해 선박 근처를 찾았을 가능성이 있다는 수협 측 주장에 대해서는 “근거 없는 추정에 불과하며 신빙성 있는 진술로 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;한편 사고를 낸 인근 선박의 선원은 과부하 방지장치가 작동되지 않은 상태에서 제한 하중을 초과한 그물을 인양하다 사고를 낸 것으로 조사됐다. 해당 선원과 선주는 업무상 과실치사 등 혐의로 기소돼 각각 징역형 또는 금고형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>사망사고 낸 트럭 운전자, 무죄… 블랙박스보다 시야가 우선이었다</title>
@@ -962,15 +968,6 @@
         <media:description type="plain">의정부지법 남양주지원./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 변지은 인턴기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>추석 하루 앞두고 귀성길 정체…서울→부산 7시간30분</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/R3QZJAHHVFBKRG2LEX5KQOQIT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/R3QZJAHHVFBKRG2LEX5KQOQIT4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 23:50:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ABHXS75KNJINIUVNMBNVPWG24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 둘째 날이자 전국 고속도로 통행료 면제가 실시된 4일 경기도 성남시 궁내동 경부고속도로 서울요금소 전광판에 통행료 면제 안내문이 나오고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석을 하루 앞둔 5일 오전 전국 주요 고속도로의 귀성 방향에서 정체가 이어지고 있다. &lt;br&gt;&lt;br&gt;한국도로공사에 따르면 이날 오전 승용차로 서울 요금소를 출발해 전국 주요 도시까지 걸리는 시간은 부산 7시간 30분, 울산 7시간 10분, 광주 6시간 30분, 대구 6시간 20분, 강릉 3시간 50분, 대전 3시간 20분이다. &lt;br&gt;&lt;br&gt;귀경길은 비교적 한산한 편이다. 각 도시에서 서울까지 예상 소요시간은 부산 5시간 40분, 울산 5시간 10분, 광주 3시간 40분, 대구 3시간 24분, 강릉 2시간 40분, 대전 1시간 50분이다. &lt;br&gt;&lt;br&gt;공사는 귀성 방향의 경우 이날 오전 5~6시 정체가 시작돼 정오~오후 1시에 정점을 찍고, 오후 8~9시쯤 해소될 것으로 내다봤다. 귀경 방향은 오전 8~9시에 막히기 시작해 오전 11시~정오에 최대에 달한 뒤 오후 8~9시쯤에는 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;이날 전국 교통량은 575만대가량으로 전망된다. 이 중 수도권에서 지방으로 47만대, 지방에서 수도권으로 46만대가 이동할 것으로 공사는 예상했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>바그너에 의한, 바그너를 위한 바그너의 축제를 가다</title>
