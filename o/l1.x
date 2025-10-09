@@ -6,14 +6,14 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 내란특검, 박성재 전 법무부 장관 구속영장 청구</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212099.jpg" alt="435363738.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 전 법무부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 09 Oct 2025 10:54:16 -0000</pubDate>
+			<title>내란 특검, 박성재 전 법무부장관 구속영장…내란 중요임무 등 혐의</title>
+			<description>&lt;p&gt;   &lt;span style="text-align: center; background-color: #f0f0f0;"&gt;&lt;/span&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212100.jpg" alt="435363738.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 전 법무부 장관 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(사법연수원 17기) 전 법무부장관에 대해 내란 중요임무 종사 및 직권남용 권리행사 방해 등 혐의로 구속영장을 청구했다&lt;br /&gt;&lt;br /&gt;특검팀은 9일 박 전 장관에 대해 내란 중요임무 종사 및 직권남용 권리행사 방해 등 혐의로 구속영장을 청구했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 전 장관은 인권 보호와 법질서 수호를 핵심 업무로 하는 법무부 장관으로서 인권 침해적 요소가 다분한 불법 계엄 선포를 막아야 할 책무를 다하지 않은 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;계엄 당일 밤 법무부 간부회의를 소집해 합동 수사본부 검사 파견 검토 및 교정시설 수용 여력 점검을 지시하고, 정치인 등 주요 체포 대상자들의 출국금지를 위해 담당 직원 출근 등을 지시한 혐의도 있다. &lt;br /&gt;&lt;br /&gt;특검팀은 지난달 24일 박 전 장관을 피의자 신분으로 불러 조사했다. &lt;br /&gt;&lt;br /&gt;박 전 장관은 혐의 전반을 부인한 것으로 전해졌다. 박 전 장관은 당시 관계 부서에 내린 검토 지시도 계엄 상황에서 법무부의 통상 업무에 해당하며, 체포·출국 금지 대상도 전달받은 적 없다는 입장이다. &lt;br /&gt;</description>
+			<pubDate>Thu, 09 Oct 2025 11:59:37 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212099</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212099</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212099.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/212100</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212100</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212100.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
 		</item>
 		<item>
 			<title>법무부, '여수 순천 10·19 사건' 국가배상소송 2건 항소 포기</title>
