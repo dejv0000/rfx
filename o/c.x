@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>피해 시스템은? 대구 이전은? 오락가락 행안부</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/UOZIFRE765GBLDYBANRFUI6CS4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/UOZIFRE765GBLDYBANRFUI6CS4/</guid>
+      <dc:creator>최연진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 04:28:15 +0000</pubDate>
+      <content:encoded>윤호중 행정안전부 장관은 국가정보자원관리원 화재 사태와 관련, 9일 중앙재난안전대책본부 회의에서 전체 장애 시스템 수를 647개에서 709개로 정정했다. 앞서 정부는 지난달 26일 정보자원관리원 대전 본원에서 불이 나 전체 시스템 647개가 셧다운 됐다고 밝혔는데, 화재 발생 2주만에 전체 시스템 수를 다시 파악했다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X66CSHNTBTBIONDP7S5ILVYAVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보자원관리원 본원 복구 현장을 점검하는 윤호중 행정안전부 장관./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 대해 행안부는 “정보자원관리원 내부 관리 시스템인 ‘엔탑스(nTOPS)’를 복구하면서 전체 시스템 현황을 정확하게 파악할 수 있게 됐다”고 설명했다. 앞서 정부는 화재 당일인 9월26일 화재 피해 시스템을 70개라고 발표했다가 이튿날 96개로 정정했었다.&lt;br&gt;&lt;br&gt;정부는 또 화재로 불탄 정보자원관리원 5층 7-1 전산실을 대전 본원 내 공간을 활용해 복구하는 방안을 검토 중이라고 밝혔다. 윤호중 장관은 “대전센터 내 공간을 활용해 신속한 복구가 가능할 경우에는 대전센터에서 복구하는 방식으로 전환하는 등 시스템별로 최적의 이전 및 복구 방안을 유연적으로 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 화재 사흘 뒤인 9월29일 정부는 정보자원관리원 5층을 복구하는 데 시간이 많이 걸려 대구 분원으로 불탄 시스템 96개를 이전 설치하겠다고 밝혔었다. 당시 김민재 행안부 차관은 “화재에 직접 영향받은 96개 시스템은 대구 민관협력 클라우드 구역에 설치할 예정”이라며 “정보자원 준비에 2주, 시스템 구축에 2주 정도 소요될 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;그러나 지난 1일 이전 작업을 할 업체를 선정한 이후 실제 이전 작업은 이뤄지지 않은 것으로 전해졌다. &lt;br&gt;&lt;br&gt;행안부 관계자는 “대구는 다른 기관, 민간 업체들도 입주해있어 조율에 시간이 걸리고 있다”며 “대구 이전과 대전 활용 중에 더 빠른 방식을 택하겠다”고 했다.&lt;br&gt;&lt;br&gt;윤호중 장관은 이날 “오늘 오전 6시 기준 전체 709개 중 193개 시스템이 복구됐다”고 밝혔다. 이에 따라 전체 장애 시스템 복구율은 27.2%가 됐다. 행안부에 따르면 연휴 기간 중 54개 시스템이 추가로 정상화됐고, 온나라문서시스템·1365기부포털 등이 복구됐다. &lt;br&gt;&lt;br&gt;화재가 났던 정보자원관리원 5층의 8 전산실은 분진 제거가 완료돼 11일부터 전산실 재가동이 가능한 상황이다. 다만 5층 전산실과 연계된 시스템이 많아 전체 시스템 재가동엔 시일이 걸릴 것이란 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈, 연이틀 민주당 저격글 “청년들, ‘쿠폰 주도 경제’ 공포스럽다 해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/R522BCUB7ZHWBM6LGOZ6BW3Q2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/R522BCUB7ZHWBM6LGOZ6BW3Q2E/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 04:35:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSMJKC27JTPMDNLXXYQOKX4HWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 9일 페이스북을 통해 이재명 정부와 여당이 시행한 민생회복 소비쿠폰을 비판하며 “나라 전체가 빚을 내 현금을 퍼주는 통치가 반복되면 미래 세대는 앞선 세대의 풍요를 누릴 수 없다. 몰염치이자 미래 세대 약탈이라 말해도 과장이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 ‘청년의 어깨에 얹을 것은 쿠폰이 아니라 경쟁력이어야 한다’는 제목의 글을 올리고 “정부·여당은 청년들의 절박한 불안을 아는지 모르는지 일회성 현금살포를 ‘민생회복 소비쿠폰’이라 포장하며 13조원의 재정을 쏟아부었다”며 “폭증한 빚은 고스란히 청년의 어깨 위로 떨어진다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “그러니 청년들은 ‘소득 주도 성장보다 쿠폰 주도 경제가 더 공포스럽다’고 말한다. 소주성(소득 주도 성장)의 악성 변종이라는 뜻”이라며 “정치인으로서, 행정책임자로서 청년들이 느끼는 공포를 차마 외면할 수 없다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울의 문화와 디자인이 세계의 시선을 끌 때 비로소 부(富)가 창출된다. 그러면 사람이 모이고, 투자와 일자리가 따라온다”며 자신의 재임 기간 치적으로 거론되는 동대문디자인플라자(DDP), 한강 세빛섬, 용산국제업무지구 등 사례를 언급했다.&lt;br&gt;&lt;br&gt;오 시장은 “하지만 그 어떤 브랜드도 생산해본 일 없는 운동권 진영은 변화의 순간마다 늘 같은 태도였다. 청계천 복원도, 한강 르네상스도 무조건 반대했을 뿐”이라며 “그들의 논리대로 했다면 오늘의 서울은 ‘케이팝 데몬 헌터스의 도시’가 아니라 ‘멈춘 도시’가 됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 전날도 페이스북을 통해 그간 서울 강북 지역의 정비 사업 추진이 부진했던 원인으로 ‘강북 정치인’을 꼽으면서 “강북 유권자의 선택을 받았던 많은 정치인이 통렬히 반성해야 한다”며 “더 적극적으로 관심을 가지고 노력했다면 강북 개발의 속도와 성과는 달라졌을 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공사장 찾아가 조합원 채용 협박에 돈까지 뜯은 노조 간부들</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/09/VAWUQJPFKFF33PX4VUSTEPEZUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/VAWUQJPFKFF33PX4VUSTEPEZUI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 04:33:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7JQJOE2RADWDRUK3J4RBB6EWD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 부산법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공사 현장을 찾아가 조합원 채용을 요구하며 협박한 뒤 돈을 뜯은 혐의로 재판에 넘겨진 노동조합 간부들이 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사4단독(재판장 변성환)은 폭력행위 등 처벌에 관한 법률상 공동공갈 혐의로 기소된 한 건설노조 위원장인 50대 남성 A씨에게 징역 6개월에 집행유예 2년을 선고했다고 9일 밝혔다. 또 같은 혐의로 기소된 해당 노조 부산울산경남본부장인 30대 남성 B씨와 조직국장인 40대 남성 C씨에겐 각각 징역 4개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;A씨 일당은 2022년 6월 경남 남해군 한 리조트 신축 공사 현장을 찾아가 현장 관계자에게 단체협약서에 도장을 찍게 하고, 같은 해 12월 노조 전임비와 복지비 명목으로 200여 만원을 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨의 지시를 받고 현장에 찾아갔던 B씨와 C씨는 현장 관계자가 ‘일자리가 없다’고 하자 채용이 이뤄지지 않으면 현장 앞에서 집회를 벌이거나 각종 민원을 제기하겠다고 협박했다. 공정이 늦어질 것을 두려워한 현장 관계자들은 이들에게 돈을 보낼 수밖에 없었다고 한다.&lt;br&gt;&lt;br&gt;재판부는 “아무런 이유 없이 공사 관련 민원을 제기하겠다거나 시위하겠다고 협박해 건설회사로부터 돈을 갈취해 그 죄책이 가볍지 않다”면서 “다만 피해 금액이 비교적 크지 않고, 여러 양형 조건을 고려해 형을 정했다“고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부 ‘여순사건’ 국가배상소송 2건 항소 포기</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/09/RUADBYUDAJGTBPINJ7EJEJQKB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/RUADBYUDAJGTBPINJ7EJEJQKB4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 09 Oct 2025 04:30:04 +0000</pubDate>
+      <content:encoded>법무부는 여수·순천 10·19사건(여순사건) 피해자들에 대한 국가배상책임을 인정한 1심 판결 2건의 항소를 포기하기로 결정했다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부에 따르면, 최근 광주지법 순천지원은 피해자 126명이 국가를 상대로 제기한 손해배상청구 소송에서 원고 일부 승소 판결했고, 서울중앙지법도 피해자 24명에 대한 승소 판결을 했다.&lt;br&gt;&lt;br&gt;여순사건은 대한민국 정부 수립 초기 전남 여수에 주둔하던 국군 제14연대 일부 군인들이 정부의 제주 4·3사건 진압 명령을 거부하면서 발생했다. 이승만 정부는 1948년 10월 19일부터 지리산 입산을 금지한 이후 1955년 4월 1일까지 전남 여수와 순천을 비롯해 전북특별자치도, 경상남도 일부 지역에서 발생한 혼란과 무력충돌을 진압했다. 이 과정에서 다수의 민간인이 군경 등에 의해 희생됐다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “여순 사건은 한국전쟁 전후 사회·정치적 혼란기에 국가 권력에 의해 발생한 집단·조직적 인권침해 사건”이라며 “오랜 기간 사회적 편견의 대상이 돼 고통받아 온 피해자들의 신속한 피해 회복을 위해 국가 항소 포기를 결정했다”고 말했다.&lt;br&gt;&lt;br&gt;법무부는 최근 형제복지원, 선감학원, 삼청교육대, 대한청소년개척단 국가배상소송 상소포기를 결정한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원 “김건희 의혹 다룬 ‘김현정의 뉴스쇼’ 방통위 제재는 위법”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</guid>
@@ -898,54 +934,6 @@
       <description/>
       <pubDate>Sun, 05 Oct 2025 07:07:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FENF62K45RIIHIBVOV4ION5AFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추석 명절을 하루 앞둔 5일 오전 서울 광화문 앞에서 외국인 관광객과 시민들이 우산을 들고 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석인 6일 전국에 비가 내리겠다. 중부지방은 보름달을 볼 수 없겠고, 남부지방과 제주에선 구름 사이로 옅은 달빛을 볼 수 있을 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 산둥반도 부근에서 서해상으로 이동하는 기압골의 영향으로 6~7일 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6~7일 예상 강수량은 서울·경기 10~40㎜, 인천 20~60㎜, 강원·충청 10~40㎜, 전북 5~30㎜, 광주·전남 5~10㎜, 대구·경북 5~10㎜, 부산·울산·경남과 제주 5㎜로 예보됐다.&lt;br&gt;&lt;br&gt;6일에는 오락가락 비가 내리는 가운데 전국이 대체로 흐리겠다. 남부지방과 제주는 비가 소강 상태를 보이는 곳이 있겠다. 이에 보름달은 남부와 제주에서만 관측이 가능할 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 주요 도시 월출 시각은 서울 오후 5시 32분, 강릉 오후 5시 24분, 대전 오후 5시 30분, 대구 오후 5시 26분, 부산 오후 5시 24분, 광주 오후 5시 33분, 제주 오후 5시 35분으로 예상된다.&lt;br&gt;&lt;br&gt;8일에는 전국이 고기압 가장자리에 들며 대체로 흐리겠다. 9일에도 대체로 흐린 가운데 강원영동에 비가 내리겠다.&lt;br&gt;&lt;br&gt;이후 10일에는 강원영동, 11일에는 수도권과 강원도에 비 소식이 있다. 일요일인 12일부터 15일까지는 비 소식 없이 전국에 구름이 많을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충남 태안 갯벌에서 해루질 중 실종 70대 여성 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/KEBCQMTTFFEC5PWI5B767DB4AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/KEBCQMTTFFEC5PWI5B767DB4AY/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 06:15:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MC65PG4M6WAZTHUHQKDETKJEZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 5일 태안 남면 진산리 갯벌에서 해루질 중 실종된 70대 여성을 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;충남 태안의 한 갯벌에서 해루질 중 실종된 70대 여성이 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;태안해양경찰서는 5일 낮 12시 45분쯤 충남 태안군 남면 진산리의 한 갯벌에서 70대 여성 A씨가 숨진 채 발견됐다고 밝혔다. 해경은 전날 오후 8시 40분쯤 “A씨가 해루질을 하다가 연락이 끊겼다”는 가족의 신고를 받고 연안 구조대와 함정 등을 투입해 수색에 나섰다.&lt;br&gt;&lt;br&gt;A씨는 이날 낮 12시 35분쯤 해경과 함께 수색에 투입된 소방당국의 드론에 발견됐다. A씨는 구조 당시 숨진 상태였던 것으로 전해졌다. 해경은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MC65PG4M6WAZTHUHQKDETKJEZA.jpg?auth=7895211522cd1359f46fa3c6361018e79acc51b7bf204bb47d1fa07402e7175e&amp;smart=true&amp;width=4032&amp;height=3024" type="image/jpeg" height="3024" width="4032">
-        <media:description type="plain">5일 태안 남면 진산리 갯벌에서 해경이 해루질 중 숨진 70대 여성을 발견한 뒤 인양하고 있는 모습. (태안해경 제공, 재판매 및 DB금지) / 뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“살기 어려워서 술김에…” 자신 집에 불 지른 50대 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/GKHKCUDAWVAYJOOGCBNXANTMSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/GKHKCUDAWVAYJOOGCBNXANTMSY/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 05:30:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LE7LZDJKTDCFSAABBJ7IIZDI7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4일 오후 11시 6분쯤 경기 평택시 안중읍의 한 주택에서 불이 나 소방대원이 화재를 진압하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 자신의 집에 불을 지른 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 평택경찰서는 5일 “현주건조물 방화 혐의로 50대 A씨를 현행범으로 체포해 조사 중이다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4일 오후 11시 6분쯤 경기 평택시 안중읍 자신의 단독주택에 불을 지른 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 “불이 났다”는 이웃의 신고를 받고 출동해 이날 오후 11시 46분쯤 화재를 진압했다. A씨는 집에 혼자 머무르고 있었고, 불이 난 뒤 대피했다. 인명 피해는 일어나지 않았다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “살기 어려워 술김에 불을 질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨를 상대로 자세한 범행 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LE7LZDJKTDCFSAABBJ7IIZDI7Q.jpg?auth=d4e7059ec4800795a2c39412f2e3dcc1dd5fce8f546799594ebf615666a65d4e&amp;smart=true&amp;width=1280&amp;height=960" type="image/jpeg" height="960" width="1280">
-        <media:description type="plain">지난 4일 오후 11시 6분쯤 경기 평택시 안중읍의 한 주택에서 불이 나 소방대원이 화재를 진압하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>테이프로 옷 속에 마약 묶어 밀반입 20대 2명 항소심도 중형</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/ACCVFF6DKNDV7LESHOIGCNF5L4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/ACCVFF6DKNDV7LESHOIGCNF5L4/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 05:12:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IDBR42C5LFC67T2PILJ2QJKSLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옷 속에 마약을 숨겨 태국에서 국내로 밀반입한 20대 2명이 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;5일 법조계에 따르면 수원고법 형사2-3부(재판장 박광서)는 최근 특정범죄 가중처벌 등에 관한 법률 위반·마약류 관리에 관한 법률 위반 등 혐의로 기소된 20대 A씨 등 2명에 대한 항소심에서 징역 10년과 징역 8년을 각각 선고했다.&lt;br&gt;&lt;br&gt;A씨 등은 작년 9월 태국에서 필로폰 825g, 케타민 405g, 액상 대마 1000㎖ 등 마약류를 아랫배 등 부위에 테이프로 묶어 국내에 밀반입한 혐의로 재판에 넘겨졌다. 이들은 앞서 1심에서 징역 10년과 징역 8년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;이들은 마약류 판매상에게 이른바 ‘지게꾼’으로 불리는 배달책 역할을 제안받고 범행에 가담한 것으로 조사됐다. A씨 측은 재판 과정에서 “경계선 지능 장애로 사물을 변별할 능력이나 의사를 결정할 능력이 미약한 상태에 있었다”는 취지의 주장을 했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “피고인들이 수입한 마약류 종류가 다양하고 양도 상당히 많다”며 “A 피고인은 상선의 협박에 못 이겨 범행에 이르게 됐다고 주장하나 범행 대가로 돈을 받거나 돈을 받기로 한 점에 비춰 보면 자신의 경제적 이익을 위해 자발적으로 이 사건 범행을 저지른 것으로 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/IDBR42C5LFC67T2PILJ2QJKSLY.jpg?auth=8a73977381874d516fdf8a335c2db9113ae9946c1b4f4ac4dce77ec7b981dd93&amp;smart=true&amp;width=6468&amp;height=4312" type="image/jpeg" height="4312" width="6468">
-        <media:description type="plain">수원법원종합청사. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>임은정, 법무장관 경고에도 또 페북 “檢, 뿌린 대로 거둬”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 04:43:20 +0000</pubDate>
-      <content:encoded>임은정 서울동부지검장이 검찰청 폐지를 골자로 한 정부조직법 개정안이 국회에서 통과한 것에 대해 “검찰이 뿌린 대로 거뒀다”고 5일 밝혔다. 정성호 법무부 장관이 고위 공직자로서 언행에 유의하라고 경고한 지 일주일도 안 됐는데, 또 다시 검찰을 겨냥한 비판적인 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP3UEQY5IU7N5DPKBNNDLQJPAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지방검찰청 검사장이 지난 8월 29일 서울 여의도 국회의원회관에서 열린 검찰개혁 긴급 공청회 '검찰개혁의 쟁점은 무엇인가? - 국민이 바라는 검찰개혁의 속도와 방향'에서 토론하고 있다. 왼쪽부터 황운하 조국혁신당 의원, 임 검사장, 한동수 전 대검찰청 감찰부장, 박은정 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 이날 자신의 페이스북에 “명절 연휴 직전의 개정 정부조직법 공포를 지켜보며 검찰 역시도 뿌린 대로 거두는 수확의 시기를 결국 맞았구나 싶었다”면서 “좀 더 말려보지 못한 게 후회스럽고 이래저래 안타깝고 서글픈 마음”이라고 적었다.&lt;br&gt;&lt;br&gt;이어 “동료들에게 추석 인사를 하며 수확물에 망연자실 실망하지 말고 알차게 내년을 준비하여 올해 같지 않은 내년은 맞자고 했다”면서 “알찬 내년을 위한 준비가 기득권을 지키기 위한 분투가 아니라, 잃어버린 시민들의 신뢰를 되찾기 위한 검찰의 허물과 과오를 고치고 바로잡기 위한 분투가 되어야 할 것”이라고 했다. 또 “저 역시 다음에 또 후회하지 않도록 더욱 분투해 볼 각오”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 정 법무 장관은 지난달 29일 임 지검장에게 “앞으로 정치적 중립성이나 업무 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실하라”고 당부한 바 있다. 임 지검장이 국회 공청회에서 검사 인사에 대해 ‘인사 참사’라고 표현하고, 특정 검사들을 ‘검찰개혁 5적’이라 지칭한 것을 두고 검찰 안팎에서 부적절하다는 지적이 이어졌기 때문이다. &lt;br&gt;&lt;br&gt;국회는 지난달 26일 검찰청 폐지와 기획재정부 분리 등을 내용으로 하는 정부조직법 개정안을 재석 180명 중 174명 찬성으로 통과시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“낮엔 병원, 밤엔 집” 노인 주간 돌봄에 의료 더한 독일 ‘주간 병원’ 가보니</title>
