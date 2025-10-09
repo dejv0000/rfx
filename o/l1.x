@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 내란특검, 박성재 전 법무부 장관 구속영장 청구</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212099.jpg" alt="435363738.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박성재 전 법무부 장관 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Thu, 09 Oct 2025 10:54:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212099</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212099</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212099.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>법무부, '여수 순천 10·19 사건' 국가배상소송 2건 항소 포기</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212093.jpg" alt="47484.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정성호 법무부장관 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부가 '여수 순천 10·19 사건(여순사건)' 피해자 150명에 대해 국가배상 책임을 인정한 1심 판결 항소를 포기했다.&lt;br /&gt;&lt;br /&gt;법무부는 9일 여순사건 피해자 126명에 대한 광주지법 순천지원 판결과 피해자 24명에 대한 서울중앙지법 판결 등 1심 판결 2건에 대해 항소하지 않기로 결정했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;여순사건은 대한민국 정부 수립 초기 여수에 주둔하던 국군 제14연대 일부 군인이 이승만 정부의 제주 4·3사건 진압 명령을 거부하면서 발생한 사건이다. &lt;br /&gt;&lt;br /&gt;이승만 정부는 1948년 10월 19일부터 지리산 입산을 금지한 이후 1955년 4월 1일까지 전남 여수와 순천을 비롯해 전북특별자치도, 경상남도 일부 지역에서 발생한 혼란과 무력충돌을 진압했다. 이 과정에서 다수의 민간인이 군경 등에 의해 희생됐다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&lt;/span&gt;(사법연수원 18기) 법무부장관은 "여순사건은 한국전쟁 전후 사회적·정치적 혼란기에 국가 권력에 의해 발생한 집단적·조직적 인권침해 사건으로 오랜 기간 고통받은 피해자들의 신속한 피해 회복을 위해 국가 항소 포기를 결정했다"고 말했다.&lt;br /&gt;&lt;br /&gt;법무부는 최근 형제복지원, 선감학원, 삼청교육대 피해자들이 낸 국가배상 소송에 대해서도 상소를 포기했다.&lt;br /&gt;&lt;br /&gt;법무부는 국가배상 소송에서 관행적인 상소를 자제해 피해자들의 신속한 권리 구제를 지원할 방침이다.</description>
 			<pubDate>Thu, 09 Oct 2025 05:34:08 -0000</pubDate>
@@ -221,16 +231,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/211970</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/211970.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국형사·법무정책연구원, 한국재산법학회와 업무협약</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212034.jpg" alt="6373.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;정웅석 원장, 김상중 회장 등 업무협약식에 참석한 관계자들. 《사진=KICJ 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국형사·법무정책연구원(원장 정웅석, 이하 KICJ)은 9월 29일 서울 서초구 우면동 KICJ 회의실에서 한국재산법학회(회장 김상중)와 업무협약을 체결했다. &lt;br /&gt;&lt;br /&gt;이번 협약은 재산법과 형사·법무정책을 연계한 연구를 강화하고, 민법 개정 논의와 디지털 전환에 따른 사법적 대응을 위한 협력 기반을 다지기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;양 기관은 이번 협약을 통해 △공동 연구 및 학술 대회 공동 개최 △연구 목적의 조사 활동에 대한 편의 및 정보 제공 △연구 자료 및 간행물 교류 △전문 인력 및 발표자 상호 지원 △기타 상호 발전을 위한 협력 사항 등에서 협력을 강화하기로 했다.&lt;br /&gt;&lt;br /&gt;KICJ는 이번 협약을 계기로 공동학술대회 개최, 정책 제안 도출, 후속 연구 수행 등 실질적 협력 사업을 추진하며, 학계·정책·실무가 연결되는 지속 가능한 협력 체계를 정례화해 나갈 계획이다.&lt;br /&gt;&lt;br /&gt;정웅석 KICJ 원장은 "재산법과 관련한 새로운 사법적 과제들에 효과적으로 대응하고, 실질적 연구 성과와 정책 대안을 제시하는 데 노력하겠다"고 밝혔다.</description>
-			<pubDate>Wed, 01 Oct 2025 11:46:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212034</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212034</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212034.jpg</media:thumbnail>
-			<dc:creator>신나영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
