@@ -13,6 +13,155 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조폭·부패 경찰·독재 얽힌 캄보디아… 올해 한국인 330명 납치 신고</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/LQ6LXYF7T5DYNDAKQBNUKTNDNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/LQ6LXYF7T5DYNDAKQBNUKTNDNY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLYYVJNV2ZDHTFPODKNJGXTKYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 프놈펜에서 50대 한국인 남성을 납치한 중국인 4명과 캄보디아인 1명이 경찰에 붙잡혔다. /캄보디아 경찰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 취업 준비생 김모씨는 이번 추석 연휴에 캄보디아를 여행하려고 현지 숙소를 예약했다가 결국 취소했다. 최근 캄보디아에서 한국인을 노린 납치·감금·살인 등 강력 범죄가 잇따른다는 소식에 여행 계획을 접은 것이다. 김씨는 “한국인들이 많이 찾는 앙코르와트를 가보려 했는데 최근 캄보디아 사건 소식이 흉흉해 포기했다”고 말했다.&lt;br&gt;&lt;br&gt;앙코르와트 같은 문화유산 탐방과 해변 휴양지로 각광받던 캄보디아가 ‘여행 가기 무서운 나라’로 변했다. 특히 최근 들어 한국인을 상대로 한 흉악 범죄가 잇따르면서 김씨처럼 캄보디아 여행을 취소하는 사례가 늘고 있다. 10일 오후 조현 외교부 장관은 쿠언 폰러타낙 주한 캄보디아 대사를 초치해 대책 마련을 촉구했다.&lt;br&gt;&lt;br&gt;한국관광공사에 따르면, 올 들어 지난 7월까지 캄보디아를 찾은 한국인 관광객은 10만6686명으로 지난해 같은 기간의 11만7223명과 비교해 약 9% 줄었다. 코로나 사태가 끝난 2022년부터 작년까지 캄보디아를 방문한 한국인 관광객 수는 꾸준히 증가하다가 올 들어 상황이 반전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GKL2QWUFNDLDEAYKMYIMFJFT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 캄보디아 관광객이 줄어든 주요 원인으로는 현지 강력 범죄가 꼽힌다. 외교부가 더불어민주당 박찬대 의원실에 제출한 자료를 보면, 지난 2021년 4건, 2022년 1건, 2023년 17건이었던 캄보디아 납치 신고 건수가 지난해 220건으로 급증했고 올 들어선 지난 8월까지 330건으로 작년 건수를 넘어섰다. 캄보디아를 찾았다가 납치됐다는 신고가 2~3년 사이 수십 배가 늘어난 것이다.&lt;br&gt;&lt;br&gt;지난 7월 “캄보디아에서 열리는 박람회에 다녀오겠다”며 집을 떠난 20대 대학생 A씨가 8월 8일 현지에서 숨진 채 발견됐다. 캄보디아로 떠난 지 일주일쯤 됐을 무렵 A씨 가족들은 조선족 말투를 쓰는 한 남성에게서 “A씨가 캄보디아에서 사고를 쳐 감금됐다. 5000만원을 보내주면 풀어주겠다”는 협박 전화를 받았다. 하지만 나흘 후 이 남성과 연락이 끊겼다고 한다. 결국 A씨는 캄보디아 캄포트주 보코산 인근에서 숨진 채 발견됐다. 고문에 따른 심장마비가 사인이었다. A씨 시신이 발견된 곳은 일명 ‘범죄 단지’라 불리는 곳 근처로 한국인 대상 취업 사기나 감금 피해가 자주 발생하는 곳으로 알려져 있다.&lt;br&gt;&lt;br&gt;지난달 21일에도 캄보디아 수도 프놈펜에서 한 카페를 나서던 50대 한국인이 중국인 4명, 캄보디아인 1명에게 납치돼 고문당한 사실이 알려졌다. 이 무렵 5박 6일 일정으로 프놈펜을 찾은 40대 직장인도 가족과 연락이 두절됐다가 최근 혼수상태로 발견됐다.&lt;br&gt;&lt;br&gt;주로 한국에서 취업을 위해 캄보디아를 찾은 20·30대가 현지 강력 범죄의 표적이 되고 있다고 한다. 경찰 관계자는 “보이스피싱, 로맨스스캠 등 국제 사기 범죄 조직이 캄보디아로 몰려들면서 흉악 범죄가 늘고 있다”며 “‘별다른 기술 없이도 큰돈을 벌 수 있다’는 취업 광고를 보고 건너간 한국 젊은이들이 범죄의 대상이 되고 있다”고 말했다. 취업 면접차 캄보디아를 찾았다가 폭력 조직에 여권을 빼앗기고 감금당한 채 강제로 보이스피싱 조직원 일을 하게 되고, 자칫하면 목숨까지 잃게 된다는 것이다.&lt;br&gt;&lt;br&gt;상황이 심각해지자 외교부는 지난달 프놈펜에 대해 여행 경보 2단계(여행 자제)를, 시아누크빌 등지에 대해 특별 여행 주의보를 발령했다.&lt;br&gt;&lt;br&gt;캄보디아 교민들은 “알려지지 않은 한국인 대상 범죄도 많다”고 말한다. 프놈펜에서 20년 넘게 거주 중인 한 교민은 “몇 달 전까지 시아누크빌에서 한국인이 최소 한 달에 한 명 이상 약물 과다로 사망했는데도 잘 알려지지 않았다”며 “보이스피싱 조직에서 활동하던 한국인이 중국인 총책과 사이가 틀어지거나 채무 관계가 생기면 이런 일이 발생하곤 한다”고 했다. 또 다른 교민은 “교민 사회 내에서도 현지 범죄가 알려지면 관광 수입이 줄어드니까 입을 다물자는 쪽과 한국 관광객 안전을 위해 보이스피싱 조직을 적극적으로 막아야 한다는 의견이 분분하다”고 말했다.&lt;br&gt;&lt;br&gt;캄보디아가 최근 들어 강력 범죄의 온상이 된 것은 중국과 라오스, 미얀마 등에서 주로 활동해온 강력 범죄 조직원들이 해당국 정부의 단속이 강화되자 캄보디아로 몰려들고 있기 때문이란 분석이 나온다. 캄보디아는 오랜 기간 지속된 독재 체제, 경찰 내부 부패, 부족한 경찰 인력 등으로 강력 범죄 예방이나 수사에 취약한 것으로 알려졌다. 현지에선 “캄보디아 공무원들이 중국 현지 조직원들의 범죄에 소극적으로 대처한다”는 말이 공공연하게 돈다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 파견 인력 3명으로 늘렸지만… 수사 권한 없어 범죄 대처에 역부족</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/CCMAC3GNZBCSTMFIH4AG3WQGJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/CCMAC3GNZBCSTMFIH4AG3WQGJA/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RJHCUUTUEJHSDM5IJUF5UWHXPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 16일 캄보디아 프놈펜에서 현지 경찰에 붙잡힌 다국적 사이버 범죄 조직원들이 두 손이 묶인 채 고개를 숙이고 있는 모습. 프놈펜에는 ‘망고 단지’라고 불리는 보이스피싱 범죄 조직의 본거지가 있다. 최근 취업을 위해 캄보디아에 간 한국인들이 이 조직들에 납치돼 보이스피싱 범죄에 강제로 동원되는 사례가 잇따랐다. 또 일부는 살인∙감금∙납치 등 강력 범죄 피해를 당하면서 캄보디아가 ‘기피 관광지’로 인식되고 있다./EPA 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 한국인 대상 살인·납치·감금이 급증하자 외교부는 지난달 16일 캄보디아 일대에 여행 취소 또는 연기를 권고하는 ‘특별 여행 주의보’를 발령했다. 앞서 우크라이나를 침공해 전쟁 중인 러시아, 반(反)정부 시위로 70명 넘게 사망한 네팔 등에 내려진 조치가 캄보디아에도 내려진 건 그만큼 현지 상황이 심각하다는 뜻이다. 외교부는 “상황에 따라 여행 경보 추가 조정 필요성 등을 검토할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰청도 지난달 24일 국제협력관실 소속 경찰관 1명을 캄보디아로 추가 파견해 현지에서 근무하는 한국 경찰관은 3명으로 늘었다. 애초 캄보디아에 파견된 한국 경찰관은 주재관 1명이었으나 한국인 대상 범죄가 늘자 경찰청은 작년 10월 협력관 1명을 추가 파견했고, 이번에 1명을 더 증원한 것이다.&lt;br&gt;&lt;br&gt;다만 경찰의 이런 대응만으로는 캄보디아에서 벌어지는 한국인 대상 범죄에 대처하기엔 역부족이란 지적이 많다. 캄보디아에 파견된 한국 경찰관들은 협력관 업무를 담당하기에 한인 대상 범죄를 전담하는 ‘코리안 데스크’와는 차이가 있다. 한국 경찰관 3명은 현지에서 수사 권한이 없어 실시간 범죄에 대응하는 데도 한계가 있다.&lt;br&gt;&lt;br&gt;외교부는 지난해 캄보디아 범죄 조직에 납치된 국민의 구조 요청에 소극적으로 대응했다는 논란이 일었다. 작년 6월 캄보디아에서 납치된 40대 남성은 숨겨둔 휴대전화로 주캄보디아 한국 대사관에 구조를 요청했다. 그러나 대사관 직원은 “현지 경찰에 직접 신고하라”고 안내했고, 이 남성은 건물 6층에서 뛰어내렸다. 이후 이 남성은 대사관을 찾아가 피신하려 했지만 새벽이란 이유로 한동안 대사관 내부로 들어가지 못했다고 한다. 외교부는 이런 내용이 알려지자 “초동 대응이 사안의 긴급성에 비추어 충분치 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;정치권에선 정부가 특단의 대책을 강구해야 한다는 목소리가 나온다. 국민의힘 나경원 의원은 10일 “외교부·경찰청·법무부·검찰·국정원 등 관련 기관이 합동으로 긴급 협의체(TF)를 즉각 구성해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RJHCUUTUEJHSDM5IJUF5UWHXPU.jpg?auth=99e7315e04330b75b634e9da27c54d94f41c23be75c6810036078a752c6795a5&amp;smart=true&amp;width=870&amp;height=489" type="image/jpeg" height="489" width="870">
+        <media:description type="plain">지난 7월 16일 캄보디아 프놈펜에서 현지 경찰에 붙잡힌 다국적 사이버 범죄 조직원들이 두 손이 묶인 채 고개를 숙이고 있는 모습. 프놈펜에는 ‘망고 단지’라고 불리는 보이스피싱 범죄 조직의 본거지가 있다. 최근 취업을 위해 캄보디아에 간 한국인들이 이 조직들에 납치돼 보이스피싱 범죄에 강제로 동원되는 사례가 잇따랐다. 또 일부는 살인∙감금∙납치 등 강력 범죄 피해를 당하면서 캄보디아가 ‘기피 관광지’로 인식되고 있다./EPA 연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">TRA / AKP / POOL</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘범죄 도시’ 필리핀은 한국 전담 창구 신설</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/LG6M7KMUY5FRXDPDKE2KH4PC54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/LG6M7KMUY5FRXDPDKE2KH4PC54/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:55:00 +0000</pubDate>
+      <content:encoded>최근 캄보디아에서 급증한 한국인 대상 납치·감금 범죄는 원래 필리핀에서 많이 발생했다. 필리핀은 여전히 아시아에서 한국인 대상 범죄가 가장 자주 발생하는 나라다. 최근 5년간 필리핀에서 강력 범죄를 당한 한국인 피해자는 3000명이 넘는다.&lt;br&gt;&lt;br&gt;필리핀에선 요즘도 한국인 범죄 피해가 속출하고 있다. 지난 5월 수도 마닐라에서 남서쪽으로 90㎞쯤 떨어져 있는 나숙부 지역에 낚시하러 가던 한국인 1명이 무장 괴한들에게 납치됐다가 풀려났다. 지난 3월엔 마닐라 거리에서 한국인 남성이 강도들이 쏜 총에 맞아 숨졌다. 2015년부터 지난해 상반기까지 필리핀에서 피살된 한인은 38명으로 이 기간 필리핀에서 피살된 아시아·태평양권 사람 86명의 44%다. 필리핀에서 강도를 당한 한인도 102명으로, 중국인(19명)·일본인(3명)보다 훨씬 많았다.&lt;br&gt;&lt;br&gt;한국관광공사에 따르면, 지난 8월 기준 필리핀을 방문한 외국인 관광객 중 한국인은 22.14%로 1위였다. 필리핀에 사는 교민도 3만4000여 명. 현지 전문가들은 “필리핀을 찾는 한국인 중 돈 많은 사업가나 은퇴 뒤 필리핀으로 이민 온 사람이 많다는 이미지가 강해 한국인이 범죄의 ‘집중 타깃’이 되고 있다”고 했다. &lt;br&gt;&lt;br&gt;한국 경찰은 2012년 처음으로 필리핀 경찰과 함께 한국인 사건 수사를 담당하는 ‘코리안 데스크(한인 범죄 전담 경찰)’를 필리핀에 보냈다. 지금은 코리안 데스크 경찰이 3명까지 늘었다. 한국인 대상 범죄가 늘자 필리핀 정부도 지난 8월 마닐라, 앙헬레스 등 8개 한인 밀집 지역 경찰서에 한국인 범죄 전담 사건 접수 창구를 개설했다. 필리핀 경찰이 특정 국가 국민 관련 범죄 전담 조직을 운영하기는 처음이었다. 필리핀 경찰은 지난 5월에는 한국 교민과 관광객 보호 목적으로 한국어가 가능한 경찰관이 상주하는 ‘관광 보안 데스크’도 설치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“전원 안 끄고 배터리 옮겼다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/JNCE3XKEFZERFJCSTTAXKDZX6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/JNCE3XKEFZERFJCSTTAXKDZX6M/</guid>
+      <dc:creator>최연진 기자, 대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>지난달 26일 발생한 대전 국가정보자원관리원(정보자원관리원) 화재 사태와 관련, 경찰이 “리튬이온 배터리 이전 작업 당시 배터리의 부속 전원을 차단하지 않았다”는 공사 업체 관계자 진술을 확보했다. 그간 전문가들은 “배터리 전원이 제대로 차단되지 않았을 가능성이 있다”고 지적해 왔다.&lt;br&gt;&lt;br&gt;대전경찰청 전담 수사팀은 10일 ‘업무상 실화’ 혐의로 공사 업체 관계자 1명을 추가 입건했다고 밝혔다. 앞서 경찰은 화재 현장에 있었던 책임자와 작업자 등 26명을 조사하고, 이 중 4명을 입건했다.&lt;br&gt;&lt;br&gt;경찰 조사 과정에서 ‘작업 당시 무정전 전력 장치(UPS)의 주 전원은 차단했지만, 배터리 묶음과 연결된 부속 전원은 차단하지 않았다’는 업체 관계자 진술이 나왔다. 리튬 배터리는 전원이 완전히 차단되지 않은 상태에서 충격을 받으면 화재나 폭발이 일어나기 쉽다. 국립과학수사연구원은 실제로 전원이 차단되지 않았는지를 확인하기 위해 배터리를 감정 중이다.&lt;br&gt;&lt;br&gt;배터리 충전율이 80% 이상이었다는 점도 경찰 조사에서 확인됐다. 경찰이 로그 기록을 확보해 분석한 결과, 맨 처음 불이 난 것으로 추정되는 배터리의 충전율은 사실상 완충 상태인 90%로 조사됐다. 경찰은 ‘보정률을 감안하면 실제 충전율은 80% 수준이었을 것’이라는 전문가 자문도 거쳤다. 배터리 업계 관계자는 “리튬 배터리는 방전 작업을 통해 충전율을 25~30% 수준으로 낮춰서 작업해야 한다”고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “부속 전원을 제대로 차단하지 않았다는 진술이 나온 만큼, 정밀 감정을 통해 정확한 경위를 파악할 계획”이라며 “배터리는 분해 검사와 동일 기종 실험 등을 거칠 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난달 26일 정보자원관리원 5층 전산실에서 불이 나 공공기관 온라인 시스템 709개가 셧다운됐다. 행정안전부에 따르면 10일 오후 6시 기준 231개 시스템이 복구됐다. 복구율은 32.5%다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>자영업자 “안 그래도 수입 적은데…” 정부는 산재보험 의무 가입 추진</title>
+      <link>https://www.chosun.com/national/labor/2025/10/11/2KUL7EWO2ZG5HLFIK5B5HBVZCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/10/11/2KUL7EWO2ZG5HLFIK5B5HBVZCE/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>정부가 재해 발생 위험이 높은 일을 하는 자영업자를 산재보험에 의무적으로 가입시키는 방안을 추진한다. &lt;br&gt;&lt;br&gt;고용노동부는 이 같은 내용의 연구 용역에 착수했다고 10일 밝혔다. 산재보험은 근로자가 일하다가 다치거나 질병에 걸리는 등 산업재해를 당했을 때 국가가 산재 기금에서 치료비 등을 지급하는 제도다. 근로자의 보험료는 전액 사업주가 부담한다. 1964년 도입 당시에는 근로자 500명 이상인 광업·제조업 사업장에만 적용했지만, 점차 적용 범위가 확대돼 지금은 근로자를 1명 이상 고용한 모든 사업장이 산재보험에 의무적으로 가입해야 한다.&lt;br&gt;&lt;br&gt;하지만 여전히 사각지대가 있다. 산재보험은 근로자 보호가 목적이기 때문에 사업주(자영업자)는 원칙적으로 적용 대상이 아니다. 예외적으로 300명 미만 근로자를 고용한 사업주는 본인이 원하면 산재보험에 가입할 수 있도록 했다. 영세 사업장일수록 산재 위험이 높아 사업주도 보호받을 필요가 있기 때문이다. 현재 근로자 5인 미만 사업장의 산재 발생률은 1.11%로 전체 업종 산재 발생률(0.66%)의 배 가까운 수준이다. &lt;br&gt;&lt;br&gt;상황이 이렇지만 자영업자들의 산재보험 가입률은 극히 미미하다. 작년 7월 기준 0.52%에 그쳤다. 보험료를 모두 본인이 부담해야 하기 때문에 가입을 꺼리는 것으로 분석된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CV6KGUMSXBHCXE4H5KOPDUEXCA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노동부는 앞으로 자영업자들의 보험 가입률을 높이겠다는 계획이다. 우선 최근 1년간 산업재해가 많이 발생하는 업종을 선별하고, 산재보험 현장 수요 등 실태 조사를 하기로 했다. 이를 통해 재해 발생 위험이 높은 직종에 종사하는 자영업자부터 보험에 가입시키겠다는 것이다. 추후 자영업자뿐 아니라 플랫폼 종사자, 프리랜서 등 모든 일하는 사람이 산재보험에 가입할 수 있도록 하는 ‘전 국민 산재보험’도 추진한다. 단계적으로 전 국민에게 산재보험을 적용하는 것은 이재명 정부의 국정 과제다. &lt;br&gt;&lt;br&gt;그러나 자영업자들 사이에서는 산재보험 의무 가입이 부담이라는 우려 목소리가 적지 않다. 소상공인연합회 관계자는 “경기도 좋지 않은데 산재보험료까지 내라고 하면 자영업자들이 더 힘들어진다”면서 “정부가 보험료의 절반 정도를 지원해줘야 한다”고 말했다. 현재 근로기준법상 근로자의 범위에 들어가지 않는 퀵서비스 기사 등 노무제공자들은 산재보험에 의무적으로 가입해야 하는데, 이때 플랫폼 사업주와 보험료를 절반씩 부담하고 있다. &lt;br&gt;&lt;br&gt;정부도 자영업자 부담을 덜어줄 수 있는 방안을 검토하고 있다. 현재 중소벤처기업부가 고용보험에 가입하는 자영업자들에게 보험료 일부를 돌려주는 사업을 하고 있는데, 이와 비슷한 사업을 진행할 수 있다는 것이다. 노동부 관계자는 “영세 사업자의 현실을 고려해 산재보험도 지원이 필요하다고 본다”고 했다. &lt;br&gt;&lt;br&gt;산재보험 적용 대상자가 확대되면 산재보험 재정에 빨간불이 켜질 것이란 우려도 나온다. 문재인 정부 시절 산재보험 적용 대상을 플랫폼 노동자 등으로까지 확대하면서 전체 보험 가입자는 2020년 1897만명에서 2023년 2211만명으로 늘었다. 백석대 산학협력단의 ‘산재 기금 중기 재정 전망 연구 보고서’에 따르면, 산재보험의 수입·지출 구조를 현행대로 유지하면 현재 흑자인 보험 수지가 2030년 적자로 돌아서고 기금 이자 수입 등을 제외한 순수입을 적용해 추산한 경우에는 보험금 지출 대비 적립금 비율이 2033년 70%대로 떨어질 것으로 전망됐다. 이런 상황에서 ‘전 국민 산재 가입’이 실현되면 재정 악화가 심해질 것이란 지적이 나온다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞산재보험&lt;/b&gt;&lt;br&gt;&lt;br&gt;근로자가 업무상 재해·질병으로 피해를 입었을 때 국가가 산재보험 기금에서 치료비 등을 지급하는 제도. 보험료는 근로자 월급에 업종별 보험료율(올해 평균 1.47%)을 곱해 산정함.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한가위에 확 찐 살, 확 빼야죠</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/74TWLI3UGVAH3PRXYKHXM6OERM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/74TWLI3UGVAH3PRXYKHXM6OERM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KI64YV43FH5PAHIMZICREZGFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 10시 30분 서울 중구 동대문디자인플라자(DDP)에서 서울 시민들이 밝은 표정으로 높이 30.5cm짜리 ‘스텝 박스’를 오르내리고 있다. 서울시는 이날부터 ‘한가위 확∙찐∙살 확 빼기 챌린지’를 시작했다. 추석 연휴 과식으로 살이 찐 시민들이 건강을 회복할 수 있게 돕는 프로그램이다. 이날 100명의 참가자가 윗몸일으키기, 앉아 윗몸 앞으로 굽히기 등으로 체력을 측정했다. 이들은 전문 운동 관리사의 도움을 받아 각자 체중을 감량하고, 내달 10일 체력을 재측정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국인 범죄 늘자, 경찰·법원 때아닌 통역 전쟁</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/QC6FV3XJGFFGLMAG7WOGROAXRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/QC6FV3XJGFFGLMAG7WOGROAXRU/</guid>
+      <dc:creator>장윤 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>“영어 못해요. 프랑스어로 말해주세요.(Je ne parle pas anglais. Parlez en français.)”&lt;br&gt;&lt;br&gt;지난 7월 어느 날 밤 11시. 서울 마포구에 있는 서울경찰청 광역수사단 광역유치장에서 프랑스인 A씨는 프랑스어 통역을 불러달라고 요청했다. A씨는 며칠간 영어로 조사받아 왔는데 돌연 태도를 바꿨다고 한다. 구속영장을 발부받은 경찰이 영어로 영장 집행 절차를 설명하려 하자, 갑자기 영어를 못한다고 주장하고 나온 것이었다. &lt;br&gt;&lt;br&gt;다급한 경찰이 민간 통역사를 구해 전화로 통역을 시도했다. 그러나 A씨는 “무슨 말인지 모르겠다”며 버텼다. 결국 이튿날 아침 프랑스어 통역사를 경찰서로 불러 통역을 맡긴 뒤에야 영장을 집행할 수 있었다. 경찰 관계자는 “외국인이 피의자인 사건에선 수사가 통역사 일정에 달려 있을 정도”라고 했다.&lt;br&gt;&lt;br&gt;국내 체류 외국인 250만명 시대, 범죄를 저지른 외국인을 수사·재판하기 위한 ‘통역 전쟁’이 전국 경찰서와 법원에서 벌어지고 있다. 경찰청에 따르면 지난해 외국인 피의자는 3만5296명으로 3년 새 8.7% 증가했다. 이들이 ‘모국어로 말하겠다’고 요구하면서 경찰이나 법원이 통역사 구하는 데 애를 먹는 것이다.&lt;br&gt;&lt;br&gt;현재 경찰청에 등록된 통역 요원은 4375명이다. 하지만 일선에선 “통역 인력이 부족한 데다 주로 주간에만 근무하기 때문에 야간엔 민간 통역 업체에 ‘SOS’를 칠 수밖에 없다”고 했다. 최근 급증한 보이스피싱 범죄 피의자 중에는 중국·캄보디아·라오스 출신이 많은데, 통역 인력이 부족해 수사가 지연되는 경우도 많다고 한다. 경찰 관계자는 “보이스피싱 범죄 수익금이 해외로 빠져나가기 전 빨리 신병 확보를 해야 하는데 압수수색·구속 영장 신청이 지연되기 일쑤”라고 했다.&lt;br&gt;&lt;br&gt;서울 홍익대 일대를 관할하는 마포경찰서는 지난 8월 유치장에 입감된 80여 명 중 외국인 피의자가 30명을 넘었다. 마포경찰서는 통역 구하기에 어려움을 겪다가 지난달부터 144개 언어를 지원하는 인공지능(AI) 통번역기를 유치장과 민원실, 현관에 한 대씩 설치했다. 서울경찰청은 산하 21개 광역유치장에 순차적으로 이 기기를 도입할 계획이다.&lt;br&gt;&lt;br&gt;법원도 사정은 비슷하다. 외국인이 당사자인 형사재판은 2014년 3751건에서 지난해 6382건으로 10년 만에 70% 증가했다. 그러나 전국 58개 법원에 등록된 통역인은 총 5198명(작년 11월 기준)이다. 재판은 한 건당 시간이 오래 걸리고 내용도 복잡한 탓에, 통역까지 해야 하면 하루 종일 이어지는 경우도 많다고 한다. &lt;br&gt;&lt;br&gt;법원은 작년 7월 실시간 통역 시스템인 ‘법정 통역 센터’를 도입했다. 법정 한쪽에 TV 모니터를 설치하고, 서울에 있는 통역사가 외국인 말을 실시간으로 들은 뒤 통역하는 방식이다. 지난 8월 전주지법은 노래방에 불법 취업한 러시아인 B씨 재판을 ‘법정 통역 센터’로 해결했다. 재판부는 처음엔 전북 전주 지역에서 활동하는 러시아어 통역사를 백방으로 구했지만, 사정이 여의치 않아 이 시스템을 활용했다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>실습 앞둔 해양대 학생들… “미래의 항해사는 나”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/642ZLCYKDBH3NJFTKAJJLZKUMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/642ZLCYKDBH3NJFTKAJJLZKUMQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H76HZFSR5VGBPCPURBNE6V6WYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 부산 영도구 국립한국해양대학교 교내 실습선 부두에서 열린 2학기 실습선 원양항해 출항식에서 학생들이 기념 촬영을 하고 있다. 한국해양대 학생 314명은 앞으로 22일(한바다호), 29일(한나라호) 동안 운항 실습을 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법, 최태원·노소영 이혼소송 16일 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/11/NUUIAOV5LFBBXGT4M5JBUVPGWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/NUUIAOV5LFBBXGT4M5JBUVPGWM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>대법원 1부(주심 서경환 대법관)는 16일 오전 10시 최태원 SK 회장과 노소영 아트센터 나비 관장의 이혼소송 상고심 판결을 선고한다고 밝혔다. 작년 5월 2심 재판부가 “최 회장이 노 관장에게 재산 분할금 1조3808억원과 위자료 20억원을 지급하라”고 판결한 지 1년 5개월 만이다.&lt;br&gt;&lt;br&gt;이 사건은 사회적 관심이 높아 대법관 전원이 사건의 쟁점을 검토하고 지난달 18일 전원 합의체 기일에 관련 절차를 논의한 것으로 알려졌다. 사건이 전합에 정식 회부될 가능성도 거론됐지만 대법관 4명으로 구성된 소부(1부)에서 선고하는 쪽으로 결정됐다.&lt;br&gt;&lt;br&gt;상고심 쟁점은 최 회장이 보유한 SK㈜ 주식이 재산 분할 대상인지, 노 관장의 부친인 노태우 전 대통령의 ‘비자금 300억원’이 SK그룹에 유입돼 회사 성장의 바탕이 됐는지 등이다. 최 회장 측은 선친인 최종현 SK 선대 회장에게 증여받은 재산으로 취득한 SK㈜ 주식은 분할 대상이 아니라고 주장한다. 반면 노 관장 측은 노 전 대통령 비자금 등이 주식 가치를 높이는 데 기여했기 때문에 부부 공동재산이라는 입장이다.&lt;br&gt;&lt;br&gt;1심은 최 회장의 SK㈜ 주식은 분할 대상이 아니라고 보고 재산 분할금 665억원과 위자료 1억원을 노 관장에게 지급하라고 판결했다. 그러나 2심은 “노 관장 측이 SK 성장에 유·무형적으로 기여했다”며 재산 분할금과 위자료를 20배로 높였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“교사 된 걸 후회하고 있어요”… OECD 1위</title>
+      <link>https://www.chosun.com/national/education/2025/10/11/B6JQXICDIZEBROP5F2EPDFLSRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/11/B6JQXICDIZEBROP5F2EPDFLSRI/</guid>
+      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>초등학교 교사 A씨는 최근 우울증 진단을 받았다. 지난 1학기 수업 중에 욕을 하고 갑자기 교실을 뛰쳐나간 학생에게 주의를 준 게 발단이었다. 학부모는 “왜 우리 애한테 뭐라고 하느냐” “아동 학대로 신고하겠다”고 항의했다. A씨는 민원이 계속되자 일에 흥미를 잃고, 마음도 불안해져 병원에 갔다가 우울증 판정을 받은 것이다. A씨는 “앞으로 교사 생활을 제대로 할 수 있을지 모르겠다”고 말했다. &lt;br&gt;&lt;br&gt;한국 교사들이 학부모 민원과 학생들의 언어 폭력 때문에 받는 스트레스가 세계적으로 가장 높은 수준인 것으로 나타났다. 교사가 된 걸 후회한다는 교사 비율은 OECD(경제협력개발기구) 1위였다. &lt;br&gt;&lt;br&gt;지난 7일 OECD가 발표한 ‘교원·교직 환경 국제 비교 조사(TALIS) 2024’ 결과에 따르면, 한국 교사 56.9%가 ‘학부모 민원 대응’이 주요 스트레스 요인이라고 답했다. 조사 대상국 가운데 포르투갈(60.6%)에 이어 2위였다. OECD 평균(41.6%)보다 15.3%포인트나 높았고, 2018년 조사(40.4%)보다 16.5%포인트 증가했다. &lt;br&gt;&lt;br&gt;OECD는 2008년부터 5~6년마다 회원국의 유치원, 초·중·고교 교사들의 업무 환경을 폭넓게 조사한 TALIS를 발표한다. 이번 조사는 54국(비회원 22국 포함)의 중학교 교사 12만명, 교장 1만1000명이 참여했다. 한국은 교사 3477명, 교장 173명이 참여했다. &lt;br&gt;&lt;br&gt;한국 교사들은 다른 국가에 비해 교사 업무의 본질인 ‘수업’ 외에 다른 부분에서 스트레스를 많이 받는 특징이 있었다. 예컨대, ‘학생의 위협과 언어 폭력’이 스트레스 요인이라는 교사는 30.7%로 OECD 평균(17.6%)의 2배에 달했다. 전체 조사 대상국 중 4위였다. 반면 ‘수업 준비를 너무 많이 해야 한다’(18.1%) 등 교육 관련 스트레스를 겪은 교사들은 OECD 평균보다 낮았다. 한국 교사는 행정 업무에 들이는 시간도 1주일 평균 8시간으로 OECD 평균(4.7시간)보다 3.3시간 많은 전체 3위였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2CDX6VIQ5FLVGBW45JYPPG63U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제 현장에선 학생에게 위협을 당했다는 교사들이 적지 않다. 경북의 중학교 교사 B씨도 수업 시간에 화장하는 학생을 지적했다가 큰 모욕을 당했다. 학생은 B씨 뒤통수에 대고 욕을 하고, 친구에게 “B선생 죽여버리고 싶다”고 말하기도 했다. 교권보호위원회가 열렸지만 학생은 ‘출석 정지 10일’ 조치를 받는 데 그쳤다. &lt;br&gt;&lt;br&gt;교직이 단점보다 장점이 많은 직업이라고 생각하는 한국 교사들은 76.9%로 OECD 평균(73.9%)보다 높았다. 하지만 교사가 된 것을 후회한다는 비율은 21%로, 조사 대상국 가운데 1위였다. 교직이 사회적으로 인정받는다고 생각하는 교사는 35.2%로 OECD 평균(21.7%)보다 높았지만, 6년 전보다 32%포인트 급락했다. &lt;br&gt;&lt;br&gt;교사들은 “서이초 사건 이후에도 변한 게 없다”고 입을 모은다. 2023년 서이초 교사 사망 사건이 논란이 되자 교육부는 모든 민원을 학교가 대응하도록 하겠다고 발표했다. 하지만 현실에선 이런 시스템이 잘 작동하지 않는다. 경남의 한 중학교 교사는 “민원 대응팀이 1차로 전화는 받지만, 결국 내용을 알고 있는 담임 교사에게 민원 해결을 맡기는 경우가 태반”이라고 말했다. &lt;br&gt;&lt;br&gt;교사 단체들은 교사들이 수업에 집중하도록 민원과 행정 업무를 대폭 줄여줘야 한다고 요구하고 있다. 장승혁 한국교총 대변인은 “‘악성 민원’은 한 건이라도 교권 침해로 보고 강력 처벌할 방안이 필요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한덕수·박성재 尹과 계엄 공모 수사</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/11/XIFPB5UWWFGSDPNBXEAC73526Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/XIFPB5UWWFGSDPNBXEAC73526Q/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJ6DKOVSTBBMNHIHAZGOMKCLCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 前 총리, 박성재 前 장관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조은석 내란 특별검사팀이 한덕수 전 국무총리와 박성재 전 법무부 장관이 윤석열 전 대통령과 사전에 비상계엄을 공모했을 가능성에 무게를 두고 수사 중인 것으로 10일 알려졌다.&lt;br&gt;&lt;br&gt;특검은 최근 윤석열 정부 대통령실 고위 관계자를 불러 한 전 총리가 윤 전 대통령 탄핵 직후 이완규 전 법제처장과 함상훈 서울고법 부장판사를 헌법재판관 후보자로 지명한 경위를 조사했다. 특검은 윤 전 대통령 파면으로 대통령 권한대행을 맡은 한 전 총리가 대통령의 고유 권한인 헌법재판관 지명 권한을 행사하면서 대통령실 공무원들에게 인사 검증을 지시하는 등 직권을 남용했는지 수사 중이다. 이와 관련해 윤 전 대통령이 한 전 총리에게 특정 인사를 헌법재판관으로 지명해 달라는 뜻을 전달했을 가능성도 조사 중인 것으로 전해졌다. 다만 한 전 총리 측 인사는 “한 전 총리는 대통령 권한대행으로서 독자적으로 후보자를 지명했다는 입장”이라고 했다.&lt;br&gt;&lt;br&gt;특검은 박 전 장관과 관련해서는 지난 8월 그의 자택과 법무부 등을 압수 수색해 ‘더불어민주당의 입법·탄핵 폭주’ 등 문구가 적힌 수첩을 확보했다고 한다. 윤 전 대통령은 지난해 12월 3일 비상계엄을 선포하며 민주당의 “탄핵” “입법 독재” “예산 폭거” 등을 그 배경으로 언급했다. 이 때문에 특검은 박 전 장관 수첩 메모가 윤 전 대통령과 계엄을 사전 공모했을 가능성을 뒷받침하는 정황이라 의심하는 것으로 알려졌다. 특검은 박 전 장관에 대해 내란 중요 임무 종사 및 직권 남용 권리 행사 방해 혐의로 지난 9일 구속영장을 청구했다. 박 전 장관의 구속영장 실질심사는 14일 서울중앙지법에서 열린다.&lt;br&gt;&lt;br&gt;그러나 박 전 장관 측은 “수첩에 적힌 내용은 계엄 이튿날인 지난해 12월 4일 국민의힘과 정부, 대통령실 고위 인사 회의 직후 작성된 것”이라고 했다. 당일 대통령실에서 열린 회의 후 국민의힘 관계자들의 발언을 적어 놓은 메모일 뿐이란 주장이다. 당시 회의에는 윤 전 대통령, 한 전 총리, 한동훈 전 국민의힘 대표, 추경호 전 국민의힘 원내대표 등이 참석했다. 이와 관련해 법조계 일각에선 “특검이 메모 작성 시점과 맥락을 정밀하게 입증하지 못하면 공소 유지에 한계가 있을 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;이런 가운데 내란 특검은 구치소별 추가 수용 인원을 점검한 내용을 담은 교정본부 내부 문건이 계엄 당시 작성됐다가 삭제된 정황을 포착하고, 이를 복구한 것으로 알려졌다. 특검은 이 문건이 박 전 장관의 지시에 따라 정치인 구금 등을 염두에 두고 작성된 것으로 의심한다. 박 전 장관 측은 “구치소 수용 인원이 과밀화된 상황에서 수용 여력을 점검하기 위한 통상적인 조치였다”는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2025년 10월 11일</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/SW7QQ2FSZ5DDJMNF2IOXSVHW7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/SW7QQ2FSZ5DDJMNF2IOXSVHW7U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4QJWBE2FPFAPXAF4LJR7Q2LFO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문자로 잇는 세계인의 꿈… 뉴욕 달군 ‘한글 트럭’</title>
+      <link>https://www.chosun.com/national/people/2025/10/11/R42R3Q7IJNFEHGODTU72NXEZJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/11/R42R3Q7IJNFEHGODTU72NXEZJU/</guid>
+      <dc:creator>뉴욕=윤주헌 특파원</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EXVSXLWMABGKTCN4H7CWRZTEFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 미국 뉴욕 타임스 스퀘어 광장에 설치미술가 강익중 작가와 뉴욕한국문화원이 기획하고 삼성전자가 후원한 글로벌 공공미술 프로젝트 '한글 트럭'이 서 있다. 천여명에 달하는 전 세계 관람객이 이날 이곳을 찾아 메시지를 남겼다./뉴욕한국문화원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“저 글자는 어떻게 읽으면 되나요?”&lt;br&gt;&lt;br&gt;한글날인 9일 오후 5시(현지 시각) 미국 뉴욕 타임스스퀘어에서 만난 제이디 멀린씨가 호기심 어린 표정으로 광장에 세워진 트럭을 가리키며 말했다. 트럭에 달린 화면엔 ‘미래를 잇다 한글에 담다’라고 한글로 적혀 있었다. 쌀쌀한 날씨에도 트럭 앞에는 한글을 체험해 보려는 전 세계 관광객이 길게 늘어섰다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPKMBJAS2VBT3NYTK4OKLG2E6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설치미술가 강익중&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 트럭은 한글날을 기념해 설치미술가 강익중과 뉴욕 한국문화원이 공동 기획하고 삼성전자가 후원한 글로벌 공공미술 프로젝트다. 강익중은 지난해 5월 맨해튼에 개관한 문화원 새 청사에 한글이 담긴 타일 2만개를 모은 높이 22m짜리 ‘한글 벽’을 설치했다. 50여 국에서 7000여 명이 제출한 ‘나누고픈 한글 문구’ 응모작 중에서 선정한 문구를 담은 작품이었다. &lt;br&gt;&lt;br&gt;한글 트럭은 이를 확대해 미국 대학을 순회하며 학생들의 꿈과 희망을 한글로 표현해 주는 프로젝트다. 강익중의 트레이드마크와도 같은 한글 타일로 장식된 트럭에는 세계 30여 종 언어를 인식할 수 있는 삼성 갤럭시 스마트폰이 설치됐다. 여기에 각국 언어로 말을 하면 한글로 자동 변환되고, 한글로 변환된 메시지를 사진으로 인화하거나 트럭의 화면에 띄울 수 있다. &lt;br&gt;&lt;br&gt;이날 한글 트럭이 당도한 타임스스퀘어는 1300㎞가 넘는 여정의 종착역이었다. 한글 트럭은 지난달 26일 매사추세츠주 하버드대를 시작으로 브라운대, 예일대, 펜실베이니아대, 프린스턴대, 코넬대 등을 거쳤다. 교정에 트럭을 설치하기 위해 필요한 학교의 허가는 각 대학의 한인 학생회에서 앞장서서 받아 줬다. 한 학교에서 1000~1500명씩 총 8000여 명이 ‘미래의 나에게 보내는 메시지’를 이야기했다. 한글과 한국 IT의 우수성에 감탄하는 학생도 많았다. 예일대 학생 서맨사 문은 “한글은 음성을 정교하게 표현할 수 있고 믿을 수 없을 정도로 아름다운 문자라고 느꼈다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/247CMH7NQVAXHKHC5LQMMB4HMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴욕한국문화원 
+지난달 26일부터 미국 동부 명문대를 순회한 ‘한글 트럭’에서 미국 대학생들이 스스로에게 보내는 한글 메시지를 들고 기념 사진을 찍고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한글 트럭은 다음 달 미국 서부로 진출한다. 원래 동부 대학에서만 운행할 계획이었는데, 입소문이 나면서 스탠퍼드대나 UC버클리 같은 서부 명문대에서도 “우리도 한글을 접해볼 수 있도록 서부에도 와 달라”는 요청이 이어졌다. 강익중은 “한글 트럭은 이동하는 공공 예술”이라면서 “전시장에 머무르지 않고 도시와 캠퍼스를 달리며 누구나 자유롭게 만날 수 있는 열린 예술을 실현할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최훈·조복래 서울대 언론인 대상</title>
+      <link>https://www.chosun.com/national/people/2025/10/11/ZL5JFP5EPVFAVGCOFP37VNZPIQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/11/ZL5JFP5EPVFAVGCOFP37VNZPIQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KM6R7Z2RPNDBBKJHXGN4CG33NM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최훈, 조복래&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대 출신 언론인 모임 관악언론인회(회장 박민)는 최훈 중앙일보 대기자(외교 81)와 조복래 연합뉴스 전 상무(정치 81)를 서울대 언론인 대상 수상자로 선정했다. 시상식은 10월 16일 오후 6시 30분 서울 중구 프레스센터에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 조석준 前 서울대 행정대학원장 별세 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2025/10/11/AQGVIGHBFVD5DLEPDL4IAX3R34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/11/AQGVIGHBFVD5DLEPDL4IAX3R34/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;조석준&lt;/b&gt; 前 서울대 행정대학원장 별세, &lt;b&gt;송성자&lt;/b&gt; 남편상, &lt;b&gt;조상현&lt;/b&gt;·&lt;b&gt;조에스더&lt;/b&gt; 부친상, &lt;b&gt;최미옥 &lt;/b&gt;시부상=8일22시 경기 용인세브란스병원, 발인 11일8시30분, (031)678-7600&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최수명&lt;/b&gt; 前 대한항공 임원 별세, &lt;b&gt;박연주&lt;/b&gt; 남편상, &lt;b&gt;최지영&lt;/b&gt; 코리아중앙데일리 편집인·&lt;b&gt;최윤정&lt;/b&gt; 변호사 부친상, &lt;b&gt;조경환&lt;/b&gt;·&lt;b&gt;니콜라스 람&lt;/b&gt; 변호사 장인상=10일0시 삼성서울병원, 발인 12일6시30분, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;최정순&lt;/b&gt; 별세, &lt;b&gt;장숙경&lt;/b&gt;·&lt;b&gt;장병식&lt;/b&gt; 前 사이버레인 대표·&lt;b&gt;장범식&lt;/b&gt; 아시아경제 대표·&lt;b&gt;장은경&lt;/b&gt;·&lt;b&gt;장정숙&lt;/b&gt; 모친상, &lt;b&gt;고영재&lt;/b&gt; 前 경향신문 대표·&lt;b&gt;이종환&lt;/b&gt;·&lt;b&gt;이차배&lt;/b&gt; 장모상, &lt;b&gt;이선이&lt;/b&gt;·&lt;b&gt;김혜령&lt;/b&gt; 시모상, &lt;b&gt;장준혁&lt;/b&gt;·&lt;b&gt;장철우&lt;/b&gt;·&lt;b&gt;장석우&lt;/b&gt; 조모상, &lt;b&gt;고다미&lt;/b&gt;·&lt;b&gt;고은이&lt;/b&gt;·&lt;b&gt;이지혜&lt;/b&gt;·&lt;b&gt;이지현&lt;/b&gt; 외조모상=9일14시57분 서울성모병원, 발인 12일5시, (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세계대학총장협회 60주년 세미나</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/MTBT2HYOIVFZHAMIEDSSBVF4YE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/MTBT2HYOIVFZHAMIEDSSBVF4YE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 10 Oct 2025 15:51:00 +0000</pubDate>
+      <content:encoded>세계대학총장협회(IAUP)가 창립 60주년을 맞아 13일부터 사흘간 서울 중구 웨스틴조선호텔과 서울 강북구 서울사이버대학교 캠퍼스에서 국제 세미나를 연다. 1964년 설립된 IAUP는 전 세계 대학 총장 등 고등 교육기관의 최고 책임자들이 참여하는 비영리 국제기구다. 현재 21국 600여 명이 회원으로 활동하며 국제 고등교육 분야 협력을 위한 활동을 이어오고 있다. IAUP는 이번 행사에서 인공지능 시대의 대학 리더십과 고등교육의 미래 방향성을 논의한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>외국인 미성년 성추행 의혹 안동시의원 “문화 차이” 황당 해명</title>
       <link>https://www.chosun.com/national/national_general/2025/10/10/G42L65APXZGKHILRUN2QSCUSU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/G42L65APXZGKHILRUN2QSCUSU4/</guid>
@@ -741,145 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTVQGPYPBZK2ZBO2MVDVABVTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 당국이 세금을 징수하는 과정에서 잘못이 있었더라도, 과세 처분의 근거가 된 법 해석에 다툼의 여지가 있는 등 ‘중대하고 명백한 잘못’이 아니라면 곧바로 무효로 간주해 돌려받을 수는 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 신한은행이 국가를 상대로 제기한 부당이득금 반환 청구 소송에서 원고 승소로 판결한 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;신한은행은 고객들 계좌 자산에서 나온 이자·배당 소득에 대해 소득세법상 일반세율(14%)을 적용한 원천징수세를 납부해왔다. 그런데 2019년 서울 남대문세무서는 ‘신한은행 계좌 일부가 차명계좌로 확인됐다’며 2014~2017년 차명계좌 이자·배당 소득세에 원천징수세율 90%를 적용한 뒤, 이미 납부한 소득세를 제외한 차액 5026만원을 추가로 내라고 고지했다.&lt;br&gt;&lt;br&gt;남대문세무서의 이 같은 추가 징수 고지는 ‘차명계좌 자산은 비실명 자산’이라는 금융위원회의 유권해석에서 비롯됐다. 금융실명법상 ‘실명에 의하지 않고 거래한 금융자산’에서 발생하는 이자·배당 소득에 대해선 소득세 원천징수세율을 90%로 적용하게 돼 있다. 금융위는 고(故) 이건희 전 삼성전자 회장의 차명계좌 문제가 불거진 2017년 11월 ‘검찰 수사나 세무 조사 과정에서 뒤늦게 차명계좌로 드러난 경우 그 안에 든 자산을 금융실명법상 비실명 자산으로 보고 이자소득 등에 차등세율(90%)의 세금을 물려야 한다’는 법 해석을 내놨다.&lt;br&gt;&lt;br&gt;이후로 세무서들은 차명계좌가 발견된 금융기관에 90% 세율을 적용해 소득세를 징수했고, 금융기관들은 이에 반발해 잇따라 소득세 징수 처분 취소 행정소송을 냈다. 대법원은 이와 관련 2022년 “실명확인 절차를 거쳐 만들어졌다면 차명계좌여도 비실명 자산으로 볼 수 없고, 따라서 이자·배당 소득에 차등세율을 적용하는 건 위법하다”고 판결했다.&lt;br&gt;&lt;br&gt;신한은행은 일단 세금을 납부한 뒤 국가가 ‘부당이득’을 취했다며 돌려달라는 민사소송을 냈다. 이번 재판의 쟁점은 신한은행이 추가로 낸 ‘차명계좌 소득세’가 반환 청구가 가능한 부당이득에 해당하는지 여부였다. 과세 대상이 아닌데 세금을 매긴 경우 과세·징수에 ‘중대하고 명백한 하자’가 있다면 법률상 당연무효가 되고 납부한 세금은 부당이득이 된다.&lt;br&gt;&lt;br&gt;1·2심은 신한은행 손을 들어줬다. 1심 재판부는 “실명확인 절차를 거친 계좌의 금융자산은 무기명·가명거래 등에 의한 비실명 자산과 달리 차등세율 적용 대상이 아니다”라며 “신한은행은 정당한 세액을 초과해 납부했으므로 국가는 법률상 원인 없이 부당이익을 얻은 것”이라고 했다. 2심도 1심과 마찬가지로 초과해서 세금을 돌려줘야 한다고 판단했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “차명계좌에 예치된 자산을 비실명 자산으로 볼 수 없다는 원심 판단은 정당하다”면서도 “세무서의 위법한 징수가 곧바로 무효로 부당이득이 되는 것 아니다”라며 판결을 뒤집었다. 이미 낸 세금을 부당이득으로 돌려받으려면 과세나 처분의 하자가 단순한 위법을 넘어 중대하고 명백해야 하는데, 이번 사건처럼 법 해석에 다툼의 여지가 있는 경우에는 곧바로 무효로 할 수는 없다는 취지다. 대법원은 “이런 경우 부당이득 반환을 구하는 민사소송이 아니라 징수 처분에 대해 행정소송을 제기해 처분의 취소를 구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘3차 조사 취소’ 이진숙, 오후 법원서 체포적부심</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/7KE5EP4R2RBJDMPDT4GS24YENI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/7KE5EP4R2RBJDMPDT4GS24YENI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 01:46:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q76HRTJEPW2TQOPA5GNG4FV7JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 2일 오후 서울 강남구 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서에서 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법·국가공무원법 위반 혐의로 서울 영등포경찰서가 체포 영장을 집행한 이진숙 전 방송통신위원장의 석방 여부가 이르면 4일 오후 결정된다.&lt;br&gt;&lt;br&gt;이날 오후 3시 서울남부지법은 이 전 위원장에 대한 체포적부심사를 진행한다. 체포적부심사는 수사기관의 체포 적법성 여부를 법원이 심사하는 제도다. 법원은 청구서가 접수된 뒤부터 48시간 이내에 피의자를 심문한 뒤, 24시간 이내에 석방 여부를 결정해야 한다. 이 전 위원장에 대한 체포적부심사 결과는 이르면 이날 오후 늦게 나올 것으로 보인다.&lt;br&gt;&lt;br&gt;법원이 이 전 위원장의 손을 들어줄 경우 즉시 석방된다. 반대로 경찰의 체포가 정당하다고 판단할 경우 경찰은 이 전 위원장에 대한 구속 영장 신청을 검토할 전망이다.&lt;br&gt;&lt;br&gt;영등포경찰서는 이날 오전 10시 이 전 위원장에 대한 3차 조사를 진행하려 했으나 취소한 것으로 알려졌다. 이 전 위원장의 변호인인 임무영 변호사는 소셜미디어를 통해 “(경찰이) 저와 연락이 되지 않아 조사 일정을 취소했다는 답변을 들었다”고 말했다.&lt;br&gt;&lt;br&gt;이 전 위워장은 지난 2일 오후 서울 강남구 자택 인근에서 경찰에 체포됐다. 경찰은 이 전 위원장이 지난 8월 12일부터 9월 19일까지 총 여섯 차례 출석 요구에 응하지 않았다며 법원에서 체포 영장을 발부받아 집행했다고 밝혔다. 이 전 위원장은 국회 필리버스터(무제한 토론) 일정으로 조사를 받을 수 없다는 이유로 불출석 사유서를 제출했는데도 부당하게 체포당했다며 적부심을 청구했다.&lt;br&gt;&lt;br&gt;한편 경찰은 이 전 위원장이 민주당을 직접 언급하며 제21대 대통령 선거에 영향을 미치는 발언을 했다고 보고 있다. 이 전 위원장이 정무직 공무원 신분에 있음에도 정치적 중립을 위반하는 발언을 했다는 것이다. 이 전 위원장 측은 사실관계 자체는 인정하면서도 2인 체제라 운영이 불가능했던 방통위를 정상화하기 위한 호소였을 뿐, 정치적 중립을 어기거나 선거운동을 한 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>셧다운 시스템 복구율 30.6%...1등급은 40개 중 30개 복구</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/10/3V7L6RO4RBGR3GCW5N2NF25RHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/3V7L6RO4RBGR3GCW5N2NF25RHE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 04:57:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ODBOK2MGOJLFFOTTSGYNUNF6NE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤호중 행정안전부 장관이 8일 오후 국가정보자원관리원 대전본원 화재 현장 점검을 마치고 건물 밖으로 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙재난안전대책본부는 10일 낮 12시를 기준 국가정보자원관리원 화재로 셧다운된 시스템 709개 중 217개를 복구했다고 밝혔다. 시스템 복구율은 전날보다 2.8p(퍼센트포인트) 오른 30.6%다.&lt;br&gt;&lt;br&gt;행정안전부 비영리지원사업관리시스템(NPAS), 금융위원회 내부업무포털 및 국회업무관리 시스템까지 3개 시스템이 이날 추가 복구됐다. 국민 다수가 이용하는 등 중요도가 높은 1등급 시스템은 전체 40개 가운데 30개가 정상화했다. 복구율 75%다.&lt;br&gt;&lt;br&gt;지난 3일부터 9일까지 추석 연휴 일주일간 모두 47개 시스템이 복구됐다. 연휴 마지막날인 9일 하루에만 22개 시스템의 서비스가 재개됐다. 재가동된 서비스 217개 중 약 22%가 연휴 때 정상화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현대차 전주공장서 근로자 추락사... 현대차 “필요한 조처 다 할것”</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/10/04/YPU7MFJBLFHLBFQEAFSMZZ3PBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/10/04/YPU7MFJBLFHLBFQEAFSMZZ3PBE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 01:32:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U72GMH6XL5LUNEOCHM5GFNLO5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3일 오후 9시 28분쯤 전북 완주군 봉동읍 현대차 전주공장 도장공장에서 철거작업을 하던 재하청업체 소속 A(54)씨가 추락해 숨졌다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차 전주공장에서 철거 작업 중이던 근로자가 추락해 숨져 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;4일 전북경찰청에 따르면 지난 3일 오후 9시 28분쯤 전북 완주군 봉동읍 현대차 전주공장 도장공장에서 철거 작업을 하던 재하청 업체 소속 A(54)씨가 5.6m 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대에 의해 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;사고 당시 A씨는 구멍이 뚫린 2층 바닥을 철거하기 위해 작업 중 추락한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 노동당국은 중대재해처벌법 및 산업안전보건법 위반 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;현대차 측은 “불의의 사고가 발생한 데 대해 매우 안타깝게 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “유명을 달리하신 고인의 명복을 빌며, 유가족분들께도 깊은 위로의 말씀을 드린다”면서 “이번 사고 원인 조사에 성실히 임하고 필요한 조처에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;현대차 전주공장은 이달부터 내년 1월까지 기존 1공장의 트럭 생산 설비를 2~3공장으로 옮기기 위한 대규모 설비 전환 공사를 진행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군산 김 양식장에서 조업 중 외국인 선원 1명 실종</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/10/4TWDRICVS5FGDMBVKFWT2P5QGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/4TWDRICVS5FGDMBVKFWT2P5QGM/</guid>
-      <dc:creator>군산=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 04:55:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZANC6XMLD2E52ALAWUEFB6J67U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 9시 13분께 군산시 옥도면 개야도 남쪽 약 500m 해상에서 2.8t급 김 양식장 관리선을 타고 작업을 하던 선원이 실종돼 해경이 수색 작업을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 군산의 한 김 양식장에서 조업 중 바다에 빠진 외국인 선원이 실종돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;군산해양경찰서는 10일 “이날 오전 9시 13분쯤 군산시 옥도면 개야도 남쪽 약 500m 해상에서 2.8t급 김 양식장 관리선에 타고 있던 외국인 선원 A(32)씨가 바다에 빠진 뒤 실종돼 수색 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨와 함께 바다에 빠졌던 내국인 선원 B(56)씨는 인근 어선에 구조돼 병원으로 긴급 이송됐다.&lt;br&gt;&lt;br&gt;해경은 경비함 3척과 헬기, 수중 수색 구조대 등을 사고 해역에 투입해 실종자를 찾고 있다. 해경은 선장 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>택시기사 폭행한 취객에 ‘초크’ 걸어 제압한 청년…아이돌 연습생이었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/J4ATFT4MEBG7ZBBFUX7STCZFCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/J4ATFT4MEBG7ZBBFUX7STCZFCE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 00:07:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKHJV2GEURHURAD7O3ENKNDZPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;택시 기사 폭행범을 제압하는 청년./엑스(X·옉 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 아이돌 오디션 프로그램에 출연했던 중국인 연습생이 취객에게 폭행당하는 택시 기사를 돕는 영상이 공개됐다.&lt;br&gt;&lt;br&gt;4일 여러 온라인 커뮤니티와 소셜미디어(SNS) 등에는 국내 한 길거리에서 폭행당하는 택시 기사를 돕는 청년의 모습이 담긴 영상이 올라왔다.&lt;br&gt;&lt;br&gt;영상을 보면 길가에 세워진 택시 앞에서 검은색 외투를 입은 젊은 남성이 택시 기사로 추정되는 남성을 눕힌 채 폭행하고 있다. &lt;br&gt;&lt;br&gt;같은 장소에서 촬영된 또 다른 영상에는 여러 명의 남성이 나서서 상황을 정리하는 모습이 담겼다. 이 중 한 청년은 폭행하던 남성의 목을 조르는 일명 ‘초크’ 기술을 걸어 그를 제압했다.&lt;br&gt;&lt;br&gt;이 영상이 공개되자 네티즌들 사이에서는 폭행하던 남성을 제압한 청년이 최근 엠넷 ‘보이즈2플래닛’에 출연했던 아이돌 연습생 쑨헝위(24)라는 추측이 제기됐다. 한 네티즌은 이 영상을 올리며 “술 먹고 택시 기사 폭행하는 거 쑨헝위가 도와줬다”고 설명하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFIF7GWTEJFH5DN7QFKW3K3EP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'보이즈2플래닛' 출신 연습생 쑨헝위./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이후 팬들은 쑨헝위 인스타그램 등 SNS에 “용기 내서 피해자 도와줘서 고맙다” “다친 곳은 없냐” 등의 댓글을 남겼다.&lt;br&gt;&lt;br&gt;이에 쑨헝위는 “저 괜찮다. 다친 곳 없다. 걱정 말라”는 글을 남겼다. 택시 기사에게 도움을 준 영상 속 인물이 자신임을 간접적으로 인정한 셈이다.&lt;br&gt;&lt;br&gt;중국 출신 쑨헝위는 2022년 5월 그룹 블랭키로 데뷔한 이후 2023년 10월 다른 소속사로 이적해 그룹 DV.OL로 재데뷔했으나, 2024년 사실상 팀 해체를 맞았다. 지난달 25일 종영한 ‘보이즈2플래닛’에 참가한 그는 3차 생존자 발표식에서 20위를 기록하며 탈락했다.&lt;br&gt;&lt;br&gt;쑨헝위는 탈락 후 한국어로 쓴 자필 편지를 공개했다. 편지에는 “데뷔라는 꿈을 이루지 못했지만 1년 전에는 없던 희망이 생겼다”며 “더 이상 나약하게 머물지 않고, 다가올 미래를 위해 준비할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LKN5LG22UJECDFB6GCNBQOR2RE.jpg?auth=514737512fdb01b1400ff3651c74b6a101a358d77dbbfca0e7df12ce7f4b255d&amp;smart=true&amp;width=505&amp;height=284" type="image/jpeg" height="284" width="505">
-        <media:description type="plain">택시 기사 폭행범을 제압하는 청년./엑스(X·옉 트위터)</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>귀성길 곳곳 비,  추석까지 흐리고 빗줄기 이어져 </title>
-      <link>https://www.chosun.com/national/education/2025/10/04/UVSA24ZT3VDEJBRWHBIGMDG5AA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/04/UVSA24ZT3VDEJBRWHBIGMDG5AA/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 00:00:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TDO22HNKFDRD7LCI7PFEKOLSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 첫날인 3일 오후 흐린 날씨 속에 귀성 차량으로 가득한 서울 서초구 잠원IC 부근 경부고속도로 하행선. 추석까지 흐린 날씨가 계속 이어지겠다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 둘째날인 4일 전국 대부분이 흐린 가운데 일부 지역에서 비가 내릴 전망이다. 긴 연휴 기간 동안 비 소식은 계속 이어진다. &lt;br&gt;&lt;br&gt;기상청에 따르면 이날 수도권과 강원 영서, 제주도를 제외한 대부분 지역에 가끔 비가 오겠다. 다만 소강 상태를 보이는 곳이 많아 비의 양은 많지 않을 것으로 보인다. 예상 강수량은 경상권이 5∼10㎜, 대전·세종·충남, 광주·전남, 전북 5㎜ 안팎, 강원 영동, 충북 5㎜ 미만이다.&lt;br&gt;&lt;br&gt;연휴 셋째 날인 5일에도 비가 이어질 전망이다. 소강상태를 보이는 곳이 많아 5일 예상 강수량은 전국 5㎜ 안팎이다.&lt;br&gt;&lt;br&gt;기상청은 추석 당일인 6일까지 전국이 대체로 흐리고 곳곳에 비가 내릴 것으로 전망했다. 일부 남부지방과 제주도에서는 구름 사이로 보름달을 볼 수 있는 곳이 있을 것이라고 전망했다. 중부 지방을 중심으로는 구름이 많아 보름달을 보기 어렵겠다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>파크골프에 빠진 한국… 대회만 500개, 대학에 학과까지</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/09/NE26HIZOTBC3FJ6AR4MKXQLBJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/NE26HIZOTBC3FJ6AR4MKXQLBJ4/</guid>
-      <dc:creator>고령=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Oct 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2T4MTLMCDRF7JGYKZVPEQEO4TU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 8일 경북 고령군 대가야파크골프장에서 ‘제6회 영진전문대 파크골프 대회’가 열렸다. 2022년 국내 최초로 파크골프 경영과를 개설한 영진전문대가 개최했다. 파크골프 경영과 재학생과 졸업생 500여 명이 실력을 겨뤘다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 8일 오전 경북 고령군 대가야파크골프장. ‘영진전문대 파크골프 대회’가 열렸다. 골프채를 든 사람은 영진전문대 파크골프 경영과 재학생과 졸업생. 30대부터 80대까지 500여 명이 필드를 돌며 실력을 겨뤘다.&lt;br&gt;&lt;br&gt;이 대회는 2022년 국내 대학 최초로 파크골프 경영과를 개설한 대구 영진전문대가 개최했다. 올해 6회째다. 첫해 32명이었던 파크골프 경영과 신입생은 올해 383명이 돼 3년 만에 12배로 늘어났다. 자체 대회를 치르고도 남을 정도로 과 규모가 불어난 것이다.&lt;br&gt;&lt;br&gt;조진석 학과장은 “요즘 학생 수가 줄어 학교마다 신입생 모집에 애를 먹는데 파크골프 경영과는 예외”라며 “이제 파크골프를 노인들이 즐기는 취미 생활 정도로 생각하면 안 된다. 위상이 달라졌다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HXP7VOS65HO5GGT7G2YM7UN7U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김의균&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇전국 대회 500여 개&lt;/b&gt;&lt;br&gt;&lt;br&gt;대한파크골프협회에 따르면, 국내 파크골프 인구는 22만1000명으로 2020년(4만5000명)에 비해 5배로 늘어났다. 파크골프장은 같은 기간 254곳에서 490곳으로 증가했다. 협회 관계자는 “협회에 등록해 회비를 내는 회원만 그 정도”라며 “실제 파크골프 인구는 60만명이 넘을 것”이라고 했다. &lt;br&gt;&lt;br&gt;전국에서 열리는 크고 작은 파크골프 대회는 500개가 넘는다. 대통령기, 문화체육관광부장관기 대회도 있다. &lt;br&gt;&lt;br&gt;3~4년 전만 해도 500만원 안팎이던 우승 상금은 최근 3000만원까지 뛰었다. 강원 화천군이 매년 8~9월 산천어파크골프장에서 여는 ‘산천어 전국 파크골프 페스티벌’은 남녀 MVP 상금이 각 3000만원이다. 총상금은 1억9120만원이다. 협회 관계자는 “요즘에는 전국 대회를 돌면서 상금을 노리는 ‘상금 사냥꾼’도 생겼다”고 했다.&lt;br&gt;&lt;br&gt;화천군은 작년 7월 전국 최초로 파크골프 실업팀을 창단했다. 선수 6명을 모집하는 데 600여 명이 지원해 경쟁률 100대1을 기록했다. 남녀 각 3명으로 나이는 40~60대다. 매달 220만원씩 훈련 지원금을 받으며 화천군 유니폼을 입고 전국 대회에 출전한다. 화천군 관계자는 “적은 예산으로 ‘파크골프 성지(聖地)’ 화천군을 전국에 알릴 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇지역 경제에도 훈풍&lt;/b&gt;&lt;br&gt;&lt;br&gt;대회를 주도하는 건 지방자치단체들이다. 침체한 지역 경제에도 도움이 되기 때문이다.&lt;br&gt;&lt;br&gt;화천 산천어파크골프장 이용객은 2021년 7월 개장 후 4년간 180만명에 달한다. 이 중 절반(90만명)이 수도권, 경북 등에서 왔다. 화천 군민(2만2500명)의 40배에 달하는 사람이 파크골프를 치러 화천군을 찾은 것이다. 화천군 관계자는 “그동안 겨울에 하는 산천어 축제밖에 없었는데 사계절 동네가 북적이게 됐다”고 했다.&lt;br&gt;&lt;br&gt;경북 고령군은 13일부터 4주간 제2회 대가야배 전국 파크골프 대회를 연다. 총상금 5700만원 규모다. 전국에서 파크골프 마니아 2200여 명이 참가한다. 고령군은 참가비 3만원 중 1만원을 고령 지역 식당 등에서 쓸 수 있는 고령사랑상품권으로 돌려준다. 이남철 고령군수는 “지역 경제 활성화 효과 등을 고려하면 상금 5700만원이 아깝지 않다”고 했다.&lt;br&gt;&lt;br&gt;파크골프 산업이 성장하면서 스크린 파크골프장이나 파크골프 용품점을 창업하는 사람도 많다. 경남 통영에서 어린이집을 운영했던 이형노(65)씨는 작년 2월 어린이집을 개조해 파크골프 연습장과 스크린 파크골프장을 지었다. 이씨는 “어린이는 갈수록 주는데 파크골프 마니아는 계속 늘어 업종을 바꿨다”고 했다. &lt;br&gt;&lt;br&gt;파크골프 여행 상품을 파는 여행사도 호황이다. 국내와 일본의 유명 파크골프장과 주변 관광지를 묶어서 상품을 만든다. 여행사 대표 최모씨는 “파크골프장 예약만 잡으면 상품 판매는 신경을 안 써도 될 정도로 문의하는 손님이 많다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대학에는 파크골프과 개설 붐&lt;/b&gt;&lt;br&gt;&lt;br&gt;영진전문대에 학생이 몰리면서 대학가에 ‘파크골프과’ 개설 붐이 일고 있다. 대구보건대는 올해 스포츠재활학과에 파크골프 전공을 신설했다. 파크골프 부상 전문 재활 프로그램을 강조한다. 부산과학기술대, 경북 경산 호산대, 경북전문대는 내년도 신입생 모집을 준비하고 있다. 4년제 대학인 대구사이버대도 내년에 ‘파크골프복지학과’를 연다. 대구사이버대 관계자는 “이미 비슷한 학과가 많지만 그래도 여전히 수요가 많다고 본다”고 했다.&lt;br&gt;&lt;br&gt;2년제 대학들은 현장 실습과 온라인 수업을 함께 진행한다. 심판 자격증 취득, 파크골프장 경영 등 수업도 있다. 졸업하면 전문학사 학위를 받을 수 있다. 영진전문대의 경우 30~40대 신입생이 늘면서 2022년 개설 첫해 68세였던 재학생 평균 연령이 올해 59.6세로 떨어졌다.&lt;br&gt;&lt;br&gt;&lt;b&gt;☞파크골프&lt;/b&gt;&lt;br&gt;&lt;br&gt;1983년 일본에서 시작된 일종의 ‘미니 골프’다. 골프와 비슷하지만 더 짧은 코스를 돈다. 골프채는 한 가지로, 주먹만 한 플라스틱 공을 친다. 멀리 골프장까지 갈 필요가 없고 배우기도 쉬워 인기가 많다. 최근 20~40대까지 몰리며 파크골프 인구가 빠르게 늘어나고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2T4MTLMCDRF7JGYKZVPEQEO4TU.JPG?auth=53bbfefd30bb2c914ae9bd3de161f52e055431ad4076fc759a5e04142dcc8291&amp;smart=true&amp;width=5427&amp;height=3624" type="image/jpeg" height="3624" width="5427">
-        <media:description type="plain">지난 달 8일 경북 고령군 대가야파크골프장에서 ‘제6회 영진전문대 파크골프 대회’가 열렸다. 2022년 국내 최초로 파크골프 경영과를 개설한 영진전문대가 개최했다. 파크골프 경영과 재학생과 졸업생 500여 명이 실력을 겨뤘다./ 김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>특검 파견 검사 반발 봉합했지만… 법조계선 “언제 다시 터질지 몰라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/09/LZAAUDHNOZAFLL2QXOU65DPRJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/LZAAUDHNOZAFLL2QXOU65DPRJM/</guid>
-      <dc:creator>표태준 기자, 김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Oct 2025 15:44:00 +0000</pubDate>
-      <content:encoded>검찰청 폐지를 담은 정부조직법 개정안의 국회 통과 후 파견 검사들이 반발하면서 빚어졌던 3대(내란·김건희·해병) 특검의 내홍이 봉합되는 모양새다. 3대 특검 파견 검사와 수사관 대부분은 추석 연휴 때도 출근해 수사를 이어갔다. 다만 법조계에선 윤석열 전 대통령과 김건희 여사 등 주요 인물을 구속 기소한 3특검이 ‘더 센 특검법’에 따라 수사 인력·기간·범위를 확대하는 과정에서 내부 갈등이 재발할 수 있다는 목소리가 나온다.&lt;br&gt;&lt;br&gt;김건희 특검팀 소속 파견 검사들은 지난달 30일 민중기 특검에게 검찰청 복귀를 요청하는 입장문을 전달하면서 논란이 불거졌다. 민주당이 수사·기소 분리를 내걸고 검찰청 폐지 법안을 통과시킨 상황에서 검사들이 특검에서 수사와 공소 유지까지 모두 맡는 것은 맞지 않다는 명분을 내걸고 반발한 것이다. 특검에 파견된 검찰 수사관들도 이에 동참하면서 법조계에선 “특검 수사에 지장이 있을 것”이란 말이 나왔다.&lt;br&gt;&lt;br&gt;이에 민 특검은 파견 부장 검사들과 면담에 나선 것으로 알려졌다. 복귀를 요청한 파견 검사들에 대한 징계를 요구하던 민주당 의원들도 추석 연휴 접어들어 한발 물러서면서 분위기가 가라앉는 상황인 것으로 전해졌다. 파견 검사들도 맡은 사건 수사는 마무리하자는 데 뜻을 모았다는 것이다. &lt;br&gt;&lt;br&gt;내란 특검도 지난달 말 일부 파견 검사들 사이에서 검찰청 폐지 관련 입장 표명 논의가 있었다. 다만 부장급 이상 검사들이 “신중하게 처신하자”며 진화에 나서 집단 행동으로 이어지지는 않았다. 해병 특검 파견 검사들도 연휴 기간 출근했다고 한다.&lt;br&gt;&lt;br&gt;하지만 법조계에선 “언제 터질지 모르는 휴화산 상태”라는 얘기가 나왔다. 한 법조인은 “수사가 끝난 뒤 공소 유지는 맡지 못한다는 검사들과, 이들을 붙잡아두려는 특검 사이에 갈등이 재현할 수 있다”고 했다. 3특검이 추가 파견 인력을 모집하면서 검사들 사이에서 다시 불만이 터져나올 가능성도 거론된다. 한 현직 부장검사는 “특검이 파견 인력을 물색하고 있지만 지원자가 거의 없는 것으로 안다”며 “검찰청마다 민생 사건 적체가 심각한데 특검이 인력을 더 데려간다고 나서면 불만이 터져 나올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“성과 따라 보수… 美교수들, 프로 스포츠팀처럼 경쟁한다”</title>
-      <link>https://www.chosun.com/national/education/2025/10/09/YUACVRF77JB3ZDMV6SKT7HTYPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/09/YUACVRF77JB3ZDMV6SKT7HTYPU/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 08 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WN4WJND6TVEAZHSGLIBJG26MXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘대학 혁신 전문가’로 통하는 마이클 크로(70)교수는 행정학과 교수 출신으로, 미 컬럼비아대 부총장을 거쳐 2002년 미국 애리조나주립대(ASU) 16대 총장에 취임했다. 총장 부임 후 각종 혁신을 단행, 연구비는 1억2300만달러에서 올해 10억달러로, 학생은 5만명에서 20만명으로 늘렸다. 지난해 미국 최고 권위 혁신 분야 상인 ‘에디슨 어워드’를 수상했다./이태경기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국 애리조나주립대(ASU)는 지난달 미국 시사 주간지 ‘US뉴스&amp;amp;월드리포트’가 발표한 ‘최고 혁신 대학’ 평가에서 11년 연속 1위에 올랐다. 교수진, 교육과정, 학교 생활 등 항목으로 미국 내 1700개 대학 순위를 매기는 평가에서 MIT(2위), 스탠퍼드대(6위)를 제친 &lt;b&gt; &lt;/b&gt; 성과 뒤엔 마이클 크로(Michael Crow) 총장의 리더십이 있었다. 2002년 총장 취임 후 23년간 대학을 이끌어온 그는 여러 혁신적 시도를 성공시키며 ASU를 글로벌 수준 대학으로 끌어올렸다. 컴퓨터공학·인류학·경제학 등 전통 학과 69개를 폐지하고, 30개 융합 학과와 단과대를 신설했다. 온라인 과정을 확대해 2002년 5만명이었던 학생 규모를 20만명으로 늘렸다. 2023년엔 전 세계 대학 최초로 생성형 AI(인공지능)를 강의·행정에 도입했다. &lt;br&gt;&lt;br&gt;최근 국내 기업들과 협력 방안을 논의하기 위해 방한한 크로 총장은 본지 인터뷰에서 “AI 등장 이후 혁신은 선택이 아닌 필수가 됐다. 한국 대학들도 과감한 변화에 나서야 한다”고 말했다. 다음은 크로 총장과의 일문일답.&lt;br&gt;&lt;br&gt;-11년 연속 대학 혁신 1위를 차지했다. 비결은.&lt;br&gt;&lt;br&gt;“한국과 달리, 미국은 대학 총장 임기가 긴 편이다. 나는 20년 넘게 총장을 하면서 학과를 혁신적으로 설계할 수 있었다. 인류학과를 다른 전공과 합쳐 ‘인간 진화와 사회 변화’라는 새로운 단과대를 설립하는 식이다. 최근에도 종(種) 다양성 보존을 연구하는 새 단과대를 설립했고, 여기에 들어갈 1억1500만달러(약 1600억원)의 기부금을 모금했다. 이 시도가 통할지 아직 모른다. 하지만 오랫동안 통했던 대학 운영 모델이 당장 내일 폐기될 수도 있는 시대다. 총장은 남들과 다른 새로운 사고방식을 갖춰야 한다.”&lt;br&gt;&lt;br&gt;-수업 방식도 많이 바꿨는데. &lt;br&gt;&lt;br&gt;“모든 과목에서 새로운 방법으로 학생들을 가르쳐야 한다. ASU는 2022년 가상공간에서 생물 실험을 할 수 있는 VR(가상현실) 학습 기술을 도입했다. 가상공간에서 실습하면서 대학교 2학년 수준 과정을 배울 수 있다. 온라인에서도 가능하다. 현재 학생 5만명이 이 방법으로 배우고 있다.”&lt;br&gt;&lt;br&gt;-학과 수십 개를 통폐합하는 큰 수술을 했다. 학내 반발은 어떻게 극복했나. &lt;br&gt;&lt;br&gt;“무조건 밀어붙이지 않았다. 우선 수없이 토론을 했다. 학과를 없애고 새 단과대를 만들 때 교수들에게 새 학부를 어떻게 구성할지 정하는 권한을 줬다. 변화가 교수 권한 축소나 예산 삭감이 아닌 ‘학생을 위한 변화’라는 점도 숱하게 강조했다. 이전에 시도했던 정책의 성과 데이터 등 실증적 근거도 제시했다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAFREH6HQFACRGON36DCHMKQZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 미 애리조나주립대 학생이 VR(가상현실) 기기를 쓰고 생물학 수업을 듣고 있다.
-/애리조나주립대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;-40개 넘는 한국 대학이 혁신 비결을 배우러 ASU를 찾았다. &lt;br&gt;&lt;br&gt;“한국 총장들은 나에게 ‘반대하는 교수들을 어떻게 설득하고, 새로운 학과는 어떻게 만들었느냐’고 많이 묻더라. 한국 대학도 변화, 혁신에 대한 갈증이 큰 것이다. 대학에서 혁신은 이제 필수가 됐다. AI 등 변화에 적응하지 않으면 모두 쓸려 나갈 것이다.”&lt;br&gt;&lt;br&gt;-한국 대학들이 경쟁력을 높이려면 무엇이 가장 중요할까. &lt;br&gt;&lt;br&gt;“이재명 정부 출범 이후 ‘서울대 10개 만들기’ 사업이 시작됐다는 소식을 들었다. 현재의 한국 대학 시스템에서는 이런 시도들이 효과가 있을지 장담하기 어렵다. 가장 시급한 것은 한국 대학에는 더 많은 경쟁이 필요하다는 점이다.”&lt;br&gt;&lt;br&gt;-경쟁이 필요하다는 건 구체적으로 무슨 의미인가.&lt;br&gt;&lt;br&gt;“한국 대학은 많은 규모의 정부 보조금을 받는다. ASU를 포함해 미국 대학은 정부 보조금에 덜 의존한다. 미국 대학은 정해진 교수 급여 체계도 없다. 교수는 연구 성과에 따라 시장에서의 가치만큼 보수를 받는다. 미국 대학들은 프로 스포츠 팀처럼 치열하다. 오로지 경쟁만을 기반으로 하기 때문이다.&lt;br&gt;&lt;br&gt;미국의 주립대도 주 정부의 지원을 받지만, 규모가 크지 않다. 올해 ASU 총수입 48억달러(약 6조8000억원) 가운데 주 정부 지원은 9%다. 한국 국립대는 정부 지원 예산 비율이 40~50%에 이른다.&lt;br&gt;&lt;br&gt;-한국 대학은 인재 유출 문제가 심각하다. &lt;br&gt;&lt;br&gt;“많은 미국 대학도 고민하는 문제다. 중요한 건 뛰어난 인재들이 활약할 매력적인 기업을 만드는 것이다. 대학을 비롯해 한국 사회 전체가 더 경쟁력을 갖춰야 한다.”&lt;br&gt;&lt;br&gt;-기업들과 어떻게 협력하고 있나. &lt;br&gt;&lt;br&gt;“세계 1위 반도체 파운드리(위탁 생산) 기업인 대만 TSMC가 애리조나주에 새 공장을 짓고 있는데, 그곳에서 일할 인력을 육성하는 사업을 함께 진행하고 있다. 이번에 한국에서 LG에너지솔루션, 네이버, 크래프톤 등을 방문했다. LG에너지솔루션은 애리조나주에 수십억 달러 규모 생산 시설을 짓고 있는데, ASU와 인력 양성에서 좋은 파트너가 될 것이다. 네이버와는 AI 분야에서, 게임 업체인 크래프톤과는 온라인 분야에서 학습 효과를 높이는 연구를 할 계획이다.”&lt;br&gt;&lt;br&gt;&lt;b&gt;☞마이클 크로&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘대학 혁신 전문가’로 통한다. 행정학과 교수 출신으로, 미 컬럼비아대 부총장을 거쳐 2002년 미국 애리조나주립대(ASU) 16대 총장에 취임했다. 총장 부임 후 각종 혁신을 단행, 연구비는 1억2300만달러에서 올해 10억달러로, 학생은 5만명에서 20만명으로 늘렸다. 지난해 미국 최고 권위 혁신 분야 상인 ‘에디슨 어워드’를 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JGAKRXU6FJAITGPIFLPIL66NXI.jpg?auth=3941ea43ce3449046be07ab1cd86c585d68aeac88b8767d21691456cbb8724c7&amp;smart=true&amp;width=5100&amp;height=2869" type="image/jpeg" height="2869" width="5100">
-        <media:description type="plain">30일 오전 서울 중구 조선일보사를 찾은 미국 애리조나주립대의 마이클 크로 총장이 대학 혁신에 대해 얘기하고 있다./이태경기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">이태경 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>고향 가는 가벼운 발걸음</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/PUJMS6BBRFBIDFCEPUMCR5XBCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/PUJMS6BBRFBIDFCEPUMCR5XBCM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNH2NV7R5NA7PDTMN4KWIXFEIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날인 3일, 서울 중구 서울역에서 귀성길에 오른 가족이 밝은 미소를 띠며 플랫폼을 걷고 있다. 이번 연휴는 개천절, 한글날, 주말과 맞물려 최장 10일간 이어진다. 국토교통부는 ‘추석 연휴 특별 교통 대책 기간’인 2~12일 전국에서 약 3218만명이 이동할 것으로 내다봤다. 귀성객은 5일, 귀경객은 추석 당일인 6일에 가장 많이 몰릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법조계 “영장 청구한 검찰, 못 걸러낸 법원도 문제”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/05/GJPJTXTKJVEDZEZT46QQGBOP6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/GJPJTXTKJVEDZEZT46QQGBOP6M/</guid>
-      <dc:creator>방극렬 기자, 김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJX46VOTVBO33PE4JM5NDYBD44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 2일 서울 영등포경찰서로 압송돼 입장을 밝히고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 경찰이 이진숙 전 방송통신위원장을 체포한 데 대해 법조계에서는 “경찰의 명백한 과잉 수사를 허용한 검찰과 법원이 더 문제”라는 지적이 나온다. 경찰의 출석 요구가 제대로 이뤄졌는지, 영장 청구와 발부의 요건은 갖췄는지 검찰과 법원이 제대로 판단하지 않았다는 것이다. 체포 영장 발부율은 연간 97%에 달해 “법원이 영장 자판기가 됐다”는 말도 나온다.&lt;br&gt;&lt;br&gt;차장검사 출신 김종민 변호사는 3일 “이 전 위원장을 체포한 경찰도 문제지만 이를 중간에서 걸러야 할 검찰과 법원이 체포 영장을 승인해준 것이 더 문제”라며 “경찰에 대한 사법적 통제가 정상적으로 작동하지 않는다는 의미”라고 말했다. 경찰이 신청하는 영장은 검찰이 청구하고, 법원이 발부 여부를 결정하도록 돼 있다. 법적 요건을 충족하고 피의자의 기본권을 보호하기 위한 이중 통제 장치다. 김 변호사는 “체포 영장은 정당한 사유 없이 출석에 불응하고 범죄 혐의가 중대·명백한 경우에 예외적으로 발부된다”며 “불출석 사유서를 내고 경찰과 사전에 출석 일정을 조율한 이 전 위원장에 대해 체포 영장이 청구·발부된 것은 납득하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;한 형사 전문 변호사는 “경찰과 검찰이야 정권 눈치를 봐서 영장을 신청, 청구했다고 하더라도 법원에서 이를 걸러내지 못한 것은 의아하다”고 말했다. 판사 출신 한 변호사는 “인신 구속에 무감각한 법원이 ‘영장 자판기’가 돼 기계적으로 체포를 허용한 것 같다”며 “이 전 위원장 사건은 정치적인 사건이어서 더 신중하게 판단했어야 한다”고 했다.&lt;br&gt;&lt;br&gt;우리나라 법원은 매년 3만여 건씩 접수되는 체포 영장의 97~98%를 발부하고 있다. 외국과 비교해 보면 한국 법원은 인신 구속에 관대한 편이다. 세계 교정 관련 통계 데이터를 다루는 ‘월드 프리즌 브리프(WPB)’의 2020년 보고서에 따르면, 한국은 죄가 확정되지 않은 상태에서 체포되거나 구속되는 미결 수용자가 인구 10만명당 38명으로 나타났다. 아시아 평균(30명)이나 유럽 평균(27명)보다 많다. 일본(5명), 대만(11명), 독일(16명) 등 주요국과 비교해 높은 수준이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/JJX46VOTVBO33PE4JM5NDYBD44.jpg?auth=85aadfc85c2b9e5771e03a716529d52d6c6ab2c86b03ce9cef3b0200276feb8b&amp;smart=true&amp;width=2084&amp;height=1498" type="image/jpeg" height="1498" width="2084">
-        <media:description type="plain">공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 2일 서울 영등포경찰서로 압송돼 입장을 밝히고 있다./뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>불출석 사유서 내고 날짜 잡았는데… 이진숙 체포 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/IP4YLIJAZFFTRG57XYNHR55IPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/IP4YLIJAZFFTRG57XYNHR55IPU/</guid>
-      <dc:creator>한영원 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQRBDDKRBFP75HETHAE3WHC2B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 2일 서울 영등포경찰서로 압송되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 전 방송통신위원장을 경찰이 체포한 일이 ‘과잉 수사’라는 논란이 커지고 있다. 경찰은 이 전 위원장이 고발당해 피의자로 입건된 상황에서 수차례 출석 요구에 불응했기 때문에 체포했다고 밝혔다. 그러나 이 전 위원장 측은 “조사 일정이 잡힌 뒤에도 경찰이 소환장을 세 차례나 더 보냈다. ‘조사 불응’을 구실 삼아 체포 요건을 만들려는 ‘꼼수’”라고 반발하고 있다.&lt;br&gt;&lt;br&gt;이 전 위원장 측이 소환 불출석 사유서를 내고 “조사 일정을 다시 잡아달라”고 요청했음에도 경찰이 체포 영장을 집행한 사실이 드러나자, 정권을 비판한 인사에 대한 ‘보복 수사’ 아니냐는 지적도 이어지고 있다. 이 전 위원장은 체포 적법성을 가려 달라며 3일 법원에 체포 적부심을 청구했다. 이 전 위원장 체포 적부심은 4일 오후 서울남부지법에서 열린다.&lt;br&gt;&lt;br&gt;&lt;b&gt;①“‘불응’ 외관 만들어 체포 꼼수”&lt;/b&gt;&lt;br&gt;&lt;br&gt;경찰은 이 전 위원장에게 지난 8월 12일부터 9월 19일까지 여섯 차례 출석 요구서를 보냈다고 밝혔다. 그러나 이 전 위원장 법률 대리인인 임무영 변호사는 “경찰이 변호인과 출석 일정을 조율하지 않고 일방적으로 출석 요구서를 보냈다”며 “현행 형사소송법은 피의자의 변호인 조력권을 보장하는 만큼 변호인과 출석 일정을 조율하는 것이 관행”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 출석 일정을 협의한 뒤에도 출석 요구서를 세 번 더 발송했다고 한다. 이 전 위원장은 지난달 9일 오전 10시쯤 서울 영등포경찰서 수사2과장과 그달 27일 출석해 조사받기로 합의했다. 그런데 경찰이 이날 출석 요구서를 보냈고, 12·19일에도 출석 요구서를 발송했다. 임 변호사는 “출석 일정이 확정된 상황에서 ‘소환 불응’이라는 거짓 외관을 만들기 위해 세 번이나 허위 소환을 한 것”이라고 했다. 이에 대해 영등포서 관계자는 “수사 중인 사안에 대해 입장을 밝히기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 출석 요구서를 등기 우편으로 두 번, 일반 우편으로 네 번 보냈다고 했다. 그러나 임 변호사는 “이 전 위원장 남편이 매일 우편함을 확인하는 데 자택에서 등기 우편을 수령한 적이 없다”며 “나머지 우편 네 통도 출석 일자가 지난 뒤에야 받았다”고 했다. 이에 대해 경찰 관계자는 “등기 외에도 팩스, 전화 등 여러 경로로 출석 요청을 했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;②“불출석 사유서 숨겼으면 심각한 조작”&lt;/b&gt;&lt;br&gt;&lt;br&gt;장동혁 국민의힘 대표는 3일 오전 국민의힘 의원들과 영등포서를 항의 방문한 뒤 “영장을 신청하면서 불출석 사유서를 받았다는 사실을 숨기고 기록에 첨부하지 않았다면 용납할 수 없는 중대한 범죄, 조작 사건”이라고 했다. &lt;br&gt;&lt;br&gt;이 전 위원장 측은 경찰이 출석을 요구한 지난달 27일 국회에서 방송미디어통신위 설치 법안과 관련해 진행한 무제한 토론(필리버스터) 일정에 출석하느라 조사에 응하지 못했다. 그러면서 불출석 사유서를 경찰에 제출했다. 임 변호사가 3일 페이스북에 공개한 불출석 사유서에 따르면 “피의자는 방통위원장으로서 방통위와 관련된 법안에 대해 국회의원들이 의견을 개진하는 내용을 들을 임무가 있다”며 “조사에 불출석할 수밖에 없으니 조사 일정을 다시 잡아주시기 바란다”고 했다. 장 대표는 기자들과 만나 “영등포서장이 ‘수사 사안이라 말씀드릴 수 없다’는 대답만 했다”고 했다. 국민의힘은 이날 영등포서 담당 수사관·서울남부지검 영장 청구 검사·서울남부지법 영장 발부 판사 등 3명을 직권남용 혐의로 남부지검에 고발했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;③감사원도 “선거 개입했다 보기 어려워”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법조계에선 이 전 위원장이 유튜브·페이스북 등에서 정권을 비판한 데 대해 경찰이 공직선거법과 국가공무원법 위반 혐의를 적용해 체포한 건 무리라는 지적도 이어지고 있다. 이 전 위원장은 직무 정지 상태였던 작년 9월 우파 성향 유튜브에 출연해 “민주당이나 좌파 집단은 우리가 상상할 수 있는 모든 것을 하는 집단” “우리가 상상하지 못한 것도 하는 집단”이라고 했다. 이를 두고 민주당은 이 전 위원장을 공직선거법·국가공무원법 위반 혐의로 고발했다.&lt;br&gt;&lt;br&gt;그런데 이 전 위원장에 대한 국회의 감사 요구에 따라 감사를 벌인 감사원은 현 정부 출범 이후인 지난 7월 결과 보고서에서 “(이 전 위원장이) 관련 법 조항(국가공무원법 중 선거 관여 금지)을 위반했다고 보기 어렵다”고 했다. 이 전 위원장 본인의 인사 청문회나 탄핵 과정에 대한 발언이 대부분인 만큼, 예정돼 있던 작년 재·보궐선거와는 관련이 없었다는 이유였다.&lt;br&gt;&lt;br&gt;부장검사 출신 김웅 전 국민의힘 의원은 이날 “공직선거법이 규정하는 선거운동 금지 조항은 직무상 지휘·감독권을 이용하는 것을 말하는데, 소셜미디어 등에 글을 올리는 건 지위를 이용한 것과 무관하다”고 했다. 임 변호사는 이날 기자들과 만나 “민주당 잘못을 지적하는 것을 민주당에 반대하는 목적이라고 해석하면, 민주당은 누구도 비판할 수 없는 성역이라는 것”이라고 했다. 그러나 경찰은 대선·보궐선거를 앞둔 지난 3∼4월 이 전 위원장이 페이스북 등에서 “민주당 의원들과 이재명 대표 직무유기 현행범”이라고 해 선거법 위반 혐의가 있다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TQRBDDKRBFP75HETHAE3WHC2B4.jpg?auth=e619b62a1e6905f13b66ecc3f27407abfef92e79b7b7f5547cc91a3d900e04f3&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
-        <media:description type="plain">공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 2일 서울 영등포경찰서로 압송되고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>3대 특검, 3개월간 통신 조회만 1만9000여 건</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/04/2JEF4S3PJFCXPFJFEYKCNIU45U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/2JEF4S3PJFCXPFJFEYKCNIU45U/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:48:00 +0000</pubDate>
-      <content:encoded>윤석열 정부의 각종 의혹을 수사하는 3대 특별검사팀(내란·김건희·해병)이 출범 이후 3개월 동안 통신 자료를 1만9000여 건 조회한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;3일 국민의힘 신성범 의원이 이동통신 3사(SK텔레콤·KT·LG유플러스)에서 받은 자료에 따르면, 3대 특검은 지난 6월부터 9월 22일까지 통신을 총 1만8982건 조회했다. 이 중 해병 특검이 1만209건으로 가장 많았고, 내란 특검 7815건, 김건희 특검 958건이었다. &lt;br&gt;&lt;br&gt;통신 조회는 통상 피의자와 연락한 기록이 있을 때 상대가 누구인지 확인할 목적 등으로 활용된다. 이용자의 이름과 주소, 주민등록번호, 가입일 또는 해지일 등 간단한 정보를 확인할 수 있는데, 수사기관은 법원 허가 없이 통신사에 요청해 자료를 받을 수 있다. 자료를 받은 뒤 30일 안에 당사자에게 알려야 하지만, 수사 상황에 따라 3개월씩 2차례 유예할 수 있게 돼 있다. 이와 달리 구체적 통화 일시·내용, 위치 등을 보는 통신 사실 확인 자료는 법원 영장이 필요하다.&lt;br&gt;&lt;br&gt;통신 조회는 정치적 사건을 수사할 때마다 논란이 됐다. 주로 야당이 문제 삼았다. 더불어민주당은 윤석열 정부 때인 2024년 8월 당시 당대표였던 이재명 대통령과 국회의원, 보좌관 등에 대한 통신 조회 결과를 통보받고 “정치 사찰”이라고 주장했다. 검찰의 ‘대선 개입 여론 조작’ 사건 수사를 문제 삼은 것이다. &lt;br&gt;&lt;br&gt;문재인 정부인 2021년에는 국민의힘이 고위공직자범죄수사처(공수처)의 이성윤 당시 서울고검장에 대한 ‘황제 조사’ 관련 수사 때 기자와 그 가족 등 170여 명에 대한 통신 조회를 한 사실을 문제 삼았다. 다만 법원은 당사자들이 불법 사찰이라며 국가를 상대로 제기한 손해배상 소송은 인정하지 않고 있다.&lt;br&gt;&lt;br&gt;신성범 의원은 “개인 정보가 담긴 통신 조회는 수사나 방첩 목적으로 필요할 경우 최소한에 그쳐야 한다”며 “특검 역시 성역일 수 없다. 수사기관의 무분별한 통신 조회 관행을 개선할 합리적 통제 장치가 반드시 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘음주 운전 적발’ 개그맨 이진호 여자 친구, 자택서 숨진 채 발견</title>
       <link>https://www.chosun.com/national/national_general/2025/10/10/TRE3EB2UDJDTJLKWAT2PGPTYXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/TRE3EB2UDJDTJLKWAT2PGPTYXI/</guid>
@@ -887,34 +897,6 @@
       <description/>
       <pubDate>Fri, 10 Oct 2025 04:28:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JBZAE7YO7XOYHDOGYVLB6ZWYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 음주 운전을 하다 적발된 개그맨 이진호(39)의 여자친구가 자택에서 숨진 채 발견된 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;10일 인천 부평경찰서 등에 따르면, 지난 5일 오전 8시 30분쯤 이진호의 여자친구 A씨가 인천 부평구의 한 아파트에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;앞서 이진호는 지난달 24일 오전 3시쯤 인천에서 경기 양평군까지 음주 운전을 한 혐의로 검거돼 경찰 조사를 받고 풀려났다.&lt;br&gt;&lt;br&gt;당시 한 매체는 이진호의 음주 운전을 신고한 사람이 여자친구인 A씨로 확인됐다고 보도했다. A씨는 이후 주변에 심적 부담감을 호소한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “현재까지 범죄 혐의점은 발견되지 않았다”며 “사망 원인에 대해서는 수사 중이지만 관련 내용은 밝힐 수가 없다. A씨가 이진호를 신고했다는 보도와 사망이 연관이 있는지 등도 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이진호는 지난 2005년 SBS ‘웃찾사’를 통해 데뷔했으며, tvN ‘코미디 빅리그’, JTBC ‘아는 형님’ 등을 통해 이름을 알렸다. 하지만 지난해 10월 자신의 공식 소셜미디어를 통해 인터넷 불법 도박으로 경찰 조사를 받게 된 사실을 스스로 알리고 방송 활동을 중단했다. 이진호는 특히 방탄소년단(BTS) 지민 등 주변 유명인에게 돈을 빌린 후 갚지 않은 사실도 알려져 논란이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고속도로 꽉 채운 귀성 행렬</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/LDSSXCZ5LBFPVKDL6VMVOHLLDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/LDSSXCZ5LBFPVKDL6VMVOHLLDQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 03 Oct 2025 15:48:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RPOUBH2XWVGXVCTBUQRSFGEZUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경식 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 첫날인 3일 오전, 서울 서초구 경부고속도로 잠원IC 인근 부산 방향이 귀성길에 나선 차량으로 붐비고 있다. 한국도로공사에 따르면 이날 오전 8시 기준 승용차로 서울에서 부산까지 가는 데 걸리는 시간은 6시간 30분으로, 평소의 1.5배 이상이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1000만원 상당 금은방 귀금속 털어 해외 도주한 30대, 2달 만에 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/10/10/O7NQOVRUZZG2RMDMNC2YZBF3WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/10/O7NQOVRUZZG2RMDMNC2YZBF3WY/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 02:53:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 계룡의 한 금은방에 침입해 1000만원 상당의 귀금속을 훔친 뒤 해외로 도주했던 30대가 범행 두 달 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 논산경찰서는 특수절도 혐의로 40대 A씨를 지난 1일 인천공항에서 체포한 뒤 구속했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 29일 오전 4시 27분쯤 오토바이를 타고 충남 계룡시 금암동의 한 금은방에 와 미리 준비한 망치로 출입문을 부순 뒤 1000여 만원 상당의 금반지, 금목걸이 등을 훔쳐 달아난 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 타고 온 오토바이를 이용해 차량을 숨겨 놓은 논산까지 이동한 뒤 이 차로 갈아타고 천안으로 도주했다. 이후 천안의 모처에 차를 버려둔 뒤 대중교통 등을 이용해 인천공항으로 이동, 범행 당일 오후 5시쯤 태국으로 출국한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 신원을 특정한 뒤 입국 정보를 입수해 기다리다 지난 1일 인천공항에서 A씨를 붙잡았다.&lt;br&gt;&lt;br&gt;조사 결과, A씨는 사람이 없는 범죄 취약 시간대를 노려 대상을 물색했고, 범행 전 미리 항공권을 예약하고 방범 카메라(CCTV)가 없는 도주 경로를 파악하는 등 범행을 사전에 치밀하게 계획했다.&lt;br&gt;&lt;br&gt;A씨가 훔친 귀금속은 다수가 차 안에서 발견됐는데, 경찰은 A씨가 항공기 탑승 시각이 임박해지자 미처 귀금속을 처분하지 못하고 출국한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “도박 빚 등 채무를 갚으려고 범행을 했다”며 “태국에는 애인을 만나러 나갔다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 특이하다고 할 만한 범죄 전력은 없지만 경찰 추적을 피하려고 도주 계획을 치밀하게 세웠다”며 “조만간 A씨를 검찰에 송치할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“뽀뽀해봤니”... 초등생에 추근댄 80대 경찰에 붙잡혀</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/10/10/XC3O7JQHCNEWTCATJFCIKE4KQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/10/10/XC3O7JQHCNEWTCATJFCIKE4KQU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 02:52:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 여자 초등생들에게 떡볶이를 사주겠다며 접근한 80대가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;청주 상당경찰서는 미성년자 약취유인 미수 혐의로 80대 A씨를 불구속 입건해 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 5시 20분쯤 청주시 상당구 남주동의 한 거리에서 12세 여아 2명에게 “떡볶이 먹을래”라며 유인한 혐의를 받는다. &lt;br&gt;&lt;br&gt;또 A씨는 “남자 친구는 있니, 뽀뽀는 해봤냐”라며 계속 아이들을 따라다니며 말을 건 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨를 피해 달아난 아이들은 경찰에 신고했고, 그는 인근에서 곧바로 검거됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “떡볶이를 사주고 싶어서 함께 걸었던 것”이라며 “그 외 다른 말을 한 기억은 없다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>추석 날 치매 남편 살해한 50대 아내... 아파트서 사망</title>
