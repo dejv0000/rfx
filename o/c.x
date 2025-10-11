@@ -13,6 +13,47 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>셧다운 시스템 복구율 34.1%…1등급은 40개 중 30개 복구</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/S7G5GUQODVHVVNB7D6QKMDG324/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/S7G5GUQODVHVVNB7D6QKMDG324/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 09:49:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OI75UFJNBA7ZCX7EGJNSY4HLKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 유성구 국가정보자원관리원 화재현장. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙재난안전대책본부는 11일 오후 6시 기준 국가정보자원관리원 화재로 셧다운된 시스템 709개 중 242개를 복구했다고 밝혔다. 이에 따라 시스템 복구율은 34.1%가 됐다.&lt;br&gt;&lt;br&gt;이날 새롭게 복구된 시스템은 3등급 행정정보 시스템인 교육부 도메인네임시스템(DNS), 국가데이터처 차세대 센서스(Census), 보건분류시스템 3개, 4등급인 감사원 감사자료분석시스템 1개 등 총 4개다.&lt;br&gt;&lt;br&gt;국민 다수가 이용하는 등 중요도가 높은 1등급 시스템은 전체 40개 중 30개가 정상화돼 복구율은 75.0%다.&lt;br&gt;&lt;br&gt;2등급 68개 중 32개(47.1%), 3등급 261개 중 104개(39.8%), 4등급 340개 중 76개(22.4%)가 이날까지 정상화됐다.&lt;br&gt;&lt;br&gt;정부는 중요도와 영향력에 따라 정보시스템을 1∼4등급으로 분류한다. 이번 피해 복구는 1·2등급 신속 복구에 우선순위를 두고 있다.&lt;br&gt;&lt;br&gt;앞서 지난달 26일 대전 유성구 국가정보자원관리원 5층 전산실에서 리튬이온배터리 폭발로 화재가 발생해 정부 서비스들이 일제히 먹통이 되는 사태가 빚어졌다.&lt;br&gt;&lt;br&gt;행정안전부는 960여 명이 복구 작업을 진행하고 있지만, 화재로 생긴 잿가루 등을 제거하기 위해 전산 장비를 하나씩 분해해 특수 용제로 세척하는 작업을 하고 있어 속도를 내기 어렵다고 설명했다. 상당수 장비는 전소해 복구가 불가능한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>취업 위해 간 캄보디아는 지옥이었다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/JKZW2Q53KVGZTGNCXKPRTFYX2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/JKZW2Q53KVGZTGNCXKPRTFYX2Y/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 08:50:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAUP7XZULFF4DOUKFVNECMFIDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 말 캄보디아 프놈펜에서 50대 한국인을 납치∙고문한 중국인 4명과 캄보디아인 1명이 현지 경찰에 붙잡혀 앉아있다. 이들 앞에는 경찰이 압수한 권총과 무전기 등이 놓여있다./캄보디아 경찰&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 현지 범죄조직에 의해 고문당해 숨진 20대 한국인 대학생 사건과 관련해 중국인 3명이 재판에 넘겨졌다는 현지 언론의 보도가 나왔다.&lt;br&gt;&lt;br&gt;프놈펜포스트 등 외신에 따르면, 캄보디아 캄포트주 지방검찰청은 20대 한국인 대학생 박모씨를 살해한 혐의 등로 중국인 남성 3명을 기소했다. 박씨의 사인은 고문에 따른 심장마비로 드러난 바 있다.&lt;br&gt;&lt;br&gt;박씨는 지난 8월 8일 캄포트주 보코산 인근의 한 차량에서 숨진 채 발견됐다. 당시 경찰은 이 차에 타고 있던 30대 중국인 남성 A씨와 같은 국적의 40대 B씨를 검거했다. 박씨 시신이 발견된 곳은 일명 ‘범죄 단지’라 불리는 곳 근처로 한국인 대상 취업 사기나 감금 피해가 자주 발생하는 곳으로 알려져 있다.&lt;br&gt;&lt;br&gt;이후 수사 당국은 인근의 범죄 단지를 추가로 수색했고, 이 과정에서 중국인 피의자 한 명을 추가로 검거하는 한편, 사기 사건의 증거도 발견한 것으로 전해졌다. 캄보디아 당국은 현재 이 사건과 관련된 다른 피의자 2명의 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;한편, 캄보디아 현지에서 고문과 감금을 당하며 범죄에 가담했던 한국인 2명이 더불어민주당 박찬대 의원의 도움으로 지난 2일 구조된 일이 11일 알려졌다.&lt;br&gt;&lt;br&gt;감금 피해자 중 하나였던 20대 남성 A씨는 IT 관련 업무를 하면 월 800만~1500만원의 수익을 보장한다는 온라인 구인 글을 보고 캄보디아로 향했으나 막상 도착한 곳은 공무원을 사칭한 보이스피싱을 시키는 범죄단지였다.&lt;br&gt;&lt;br&gt;범죄에 가담하지 않으면 온종일 고문을 하겠다는 협박이 이어졌고, 이후 A씨는 포이펫의 다른 범죄 단지로 옮겨졌다고 한다. 그는 이곳에 도착하자마자 짐을 빼앗겼고, 100여일간 파이프와 전기충격기 등으로 폭행을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그러던 중 A씨와 같이 방을 쓰던 30대 B씨가 텔레그램으로 구조 요청을 보내 현지 경찰이 찾아왔지만, 신고 사실이 발각돼 머리에 봉지가 씌워진 채로 차 트렁크에 실려 시아누크빌로 보내졌다.&lt;br&gt;&lt;br&gt;시아누크빌에서도 일할 때는 발목에, 일하지 않는 시간에는 침대에 수갑으로 묶여 감금됐다고 한다. “한 번 더 신고하면 파묻어 버리겠다” “현지 경찰에 작업이 돼 있으니 (신고하면) 죽이겠다”는 위협도 받았다. 이곳에는 A씨와 B씨 이외에 다른 한국인들도 다수 감금된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;하지만, A씨가 구조 요청을 하면서 현지 경찰이 두 사람이 머물던 호텔에 찾아왔고, 마침내 약 160여간의 감금 생활이 끝났다. A씨와 B씨는 현지에서 캄보디아 경찰의 조사를 받으며 귀국을 준비 중이다.&lt;br&gt;&lt;br&gt;이들이 무사히 구출된 데에는 박찬대 의원실의 도움이 컸다고 한다. 박 의원실은 지난달 초 B씨의 모친으로부터 “우리 아들을 꼭 살려달라”는 요청을 받은 뒤 외교부, 영사관 등과 소통해 두 사람을 구해냈다.&lt;br&gt;&lt;br&gt;박 의원실 관계자는 “캄보디아에서 일어나는 피해 사례에 비해 재외공관의 인력과 예산이 부족하다”며 “영사조력법 개정으로 재외국민 보호 체계를 강화해야 한다”고 말했다. 박 의원이 지난달 30일 대표 발의한 영사조력법 개정안은 재외국민 사건 사고에 대한 사전 모니터링 및 평가를 진행하고 실종 신고에 적극 대응하는 등의 내용을 담고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RJHCUUTUEJHSDM5IJUF5UWHXPU.jpg?auth=99e7315e04330b75b634e9da27c54d94f41c23be75c6810036078a752c6795a5&amp;smart=true&amp;width=870&amp;height=489" type="image/jpeg" height="489" width="870">
+        <media:description type="plain">&lt;YONHAP PHOTO-5202&gt; epa12241013 Suspects are seen with their hands zip-tied after being detained during a police raid on a scam center in Phnom Penh, Cambodia, 16 July 2025. The operation was part of a nationwide crackdown on cybercrime networks, following Prime Minister Hun Manet?s order to shut down online scam operations often run like sweatshops.  EPA/TRA / AKP / POOL/2025-07-16 22:22:02/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">TRA / AKP / POOL</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>인천국제공항 자회사 파업 중단...전국 공항 파업 마무리 수순</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/11/6PM6TGMVEVA7HHMIRDN67XFAZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/11/6PM6TGMVEVA7HHMIRDN67XFAZU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 08:33:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FS4SLYIOCBKHJH37QZ47OHQICI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10일 인천국제공항 제1여객터미널에서 민주노총 공공운수노조 인천공항지역지부 조합원들이 파업 10일차 결의대회를 열고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간을 포함해 열흘 넘게 이어진 인천국제공항 자회사 노조의 파업이 일단락됐다. 인천국제공항을 제외한 다른 14개 공항에선 이미 지난 4일 파업이 중단돼, 전국 모든 공항의 파업이 마무리되는 모양새다.&lt;br&gt;&lt;br&gt;민주노총 공공운수노조 인천공항지역지부는 11일 인천국제공항 제1터미널에서 결의대회를 열고 조합원의 현장 복귀 및 간부 파업 전환 방침을 밝혔다. 일반 조합원들은 파업을 중단하고 업무에 복귀하되, 일부 간부들만 파업을 이어간다는 뜻이다. &lt;br&gt;&lt;br&gt;전날 인천국제공항공사와의 면담에서 사태 해결을 위해 양 측의 노력이 필요하다는 데 의견을 모았기 때문으로 해석된다. 노조는 오는 13일부터 사측과 집중 교섭에 들어갈 예정이다.&lt;br&gt;&lt;br&gt;지부는 “간부 파업을 이어가면서 교섭 투쟁을 하겠다”며 “집중 교섭에도 불구하고 요구안이 수용되지 않을 경우 25일 무기한 재파업에 돌입할 것”이라고 했다.&lt;br&gt;&lt;br&gt;노조는 현재 3조 2교대인 근무 체계를 4조 2교대 전환과 인력 충원, 처우 개선 등을 요구하고 있다. 인천국제공항 자회사 파업에는 환경미화원 등 800명이 참여했다. 공항 운영에 심각한 차질이 빚어지진 않았다. 별도 노조를 가지고 있고, 보안검색대를 운영하는 보안검색원들이 파업에 참여하지 않았기 때문이다. &lt;br&gt;&lt;br&gt;인천국제공항을 포함한 전국 15개 공항에선 지난 1일부터 자회사 노동자들이 파업을 벌였다. 주로 주차, 환경 미화, 소방, 기계 시설 등의 업무를 맡고 있는 직원들이다. 인천국제공항을 제외한 다른 14개 공항의 경우 지난 4일 파업을 중단하고 업무에 복귀했다. 이들은 정부와 한국공항공사 등의 적절한 대처가 없으면 오는 15일부터 다시 총파업에 돌입하겠다는 입장이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 경찰병원장, 추석 연휴에 음주운전 사고 내 입건</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/RKZLUMYIA5HTRCGDBILEDSKK3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/RKZLUMYIA5HTRCGDBILEDSKK3U/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 09:12:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4A43ZXXJGKUNHC52SWYLY2UUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰병원장이 추석 연휴에 음주운전 사고를 내 경찰 수사를 받고 있다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 도로교통법상 사고 후 미조치·음주운전 혐의로 경찰병원장 김모씨를 입건했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 추석 연휴 기간이던 지난 5일 서울 서초구에서 음주운전을 하다가 다른 차를 들이받고도 별다른 조치를 하지 않은 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 조만간 김씨를 불러 자세한 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘기안84 네팔 인연’ 타망, 공식 후원받는다…“한국어 교육‧생활비 지원”</title>
       <link>https://www.chosun.com/national/national_general/2025/10/11/YXTQA5NM7ZF6XIIY2ZRIRQAIVI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/YXTQA5NM7ZF6XIIY2ZRIRQAIVI/</guid>
@@ -827,45 +868,6 @@
       <description/>
       <pubDate>Thu, 09 Oct 2025 14:39:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGKNB5E3DXQEU3WPFVSGDWJRZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석연휴 엿새째인 8일 오후 서울 서초구 강남고속버스터미널에서 귀경객들이 버스에서 내려 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 한글날을 마지막으로 ‘황금 연휴’가 막을 내리면서, 일상 복귀를 앞둔 직장인들 사이에서는 다음 연휴 일정에 대한 관심이 쏠리고 있다. &lt;br&gt;&lt;br&gt;연말부터 살펴보면, 올해 12월 25일(목) 크리스마스에 26일(금) 하루 연차를 더하면 주말까지 이어져 나흘을 쉴 수 있다. 이어 12월 31일(수), 내년 1월 2일(금)에 휴가를 사용하면 1월 1일 신정과 주말을 끼워 최장 5일 연휴가 가능하다. &lt;br&gt;&lt;br&gt;내년 설 연휴는 2월 16~18일(월~수) 사흘이다. 여기에 19일(목)·20일(금) 연차를 붙이면 전주 주말부터 다음 주말까지 최장 9일 ‘황금 연휴’가 된다. 3월은 삼일절(일)이 주말과 겹쳐 대체공휴일 하루만 발생한다.&lt;br&gt;&lt;br&gt;5월에는 근로자의 날(1일·금), 어린이날(5일·화)에 더해 부처님 오신 날(24일·일)은 25일(월) 대체휴일이 적용돼 주말 포함 사흘을 쉴 수 있다.&lt;br&gt;&lt;br&gt;내년 추석은 9월 24~27일(목~일) 나흘 일정이다. 올해처럼 최장 10일에 달했던 초장기 추석 연휴는 2044년에나 다시 기대할 수 있다는 전망이다. 당시에는 10월 7일(금) 하루만 쉬면 최장 9일 연휴가 가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>식당서 담배, 침, 변기 파손... 中손님들 행태에 네티즌 격앙</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/09/2GMJ6HVAQNEI3LE76WFLDYXJ2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/2GMJ6HVAQNEI3LE76WFLDYXJ2M/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 13:30:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUVYAPF24NHXZLXXYWE3FKZTM4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;한 고깃집에서 중국 손님들이 매장 안에서 담배를 피우고 있다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도의 한 고깃집에서 단체 중국인 손님들이 매장 안에서 담배를 피우는 등 비상식적 행동을 보이는 모습이 포착됐다. 이 중 한 손님은 화장실 양변기를 실수로 부서뜨린 뒤 바닥에 소변을 보기까지 했다. &lt;br&gt;&lt;br&gt;지난 7일 해당 식당 점주의 딸인 A씨는 인스타그램을 통해 당시 상황이 담긴 방범 카메라(CCTV) 영상을 올렸다. 영상에는 한 여성 손님이 매장 안에서 담배를 피우며 테이블에 담배를 비비고, 담뱃재를 바닥에 털어내는 모습이 포착됐다. 다른 여성은 담배를 든 채 매장 안을 돌아다니는 장면도 담겼다. 이 영상은 9일 오후 기준 조회 수 181만회를 기록했다. &lt;br&gt;&lt;br&gt;A씨는 “어제(6일) 중국 손님 5명이 엄마 가게에 왔다”며 “설거지를 하던 엄마가 담배 냄새를 맡고 홀로 나가 보니 이들이 매장에서 담배를 피우고 바닥에 침을 뱉고 있었다”고 했다.&lt;br&gt;&lt;br&gt;그는 “담배를 피우지 말라고 엄마가 계속 말했지만 알겠다고만 하고, 일행은 담배를 끊지 않았다”며 “이들이 나간 뒤 정리할 때 보니 남자 화장실 바닥은 소변으로 흥건했고, 변기까지 박살 냈다고 한다. 진짜 뉴스에서만 보던 일이 실제로 일어나니까 너무 황당하다“고 적었다. &lt;br&gt;&lt;br&gt;6년째 식당을 운영하고 있다는 점주는 닷컴에 당시 상황을 설명했다. A씨는 “그간 영업을 해왔지만 이런 분들은 처음”이라며 “중국 손님들이 담배를 피우는 것을 보고는 제지했지만, 소용이 없었다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “일부러는 아닌 것 같지만, 중국 남성 손님이 화장실의 양변기를 실수로 부서뜨린 뒤 소변을 바닥에 봐 소변이 복도로까지 흘러나오기도 했다”며 “손님들은 이미 술에 만취한 상황이었다. 영업 시간이 종료됐다고도 여러 번 안내했으나, 20~30분 뒤에 매장을 나갔다”고 했다.&lt;br&gt;&lt;br&gt;이 소식을 접한 네티즌들은 “어떻게 이런 매너를 가질 수 있냐” “진짜 답이 없다” “상식 이하의 행동이다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무장관 언행 경고에도… 임은정 또 “검찰 뿌린대로 거뒀다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/05/EHM6GDPJERD3ZJC2MTGCPYD7LM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 04:43:20 +0000</pubDate>
-      <content:encoded>임은정 서울동부지검장이 검찰청 폐지를 골자로 한 정부조직법 개정안이 국회에서 통과한 것에 대해 “검찰이 뿌린 대로 거뒀다”고 5일 밝혔다. 정성호 법무부 장관이 고위 공직자로서 언행에 유의하라고 경고한 지 일주일도 안 됐는데, 또 다시 검찰을 겨냥한 메시지를 낸 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DP3UEQY5IU7N5DPKBNNDLQJPAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정 서울동부지방검찰청 검사장이 지난 8월 29일 서울 여의도 국회의원회관에서 열린 검찰개혁 긴급 공청회 '검찰개혁의 쟁점은 무엇인가? - 국민이 바라는 검찰개혁의 속도와 방향'에서 토론하고 있다. 왼쪽부터 황운하 조국혁신당 의원, 임 검사장, 한동수 전 대검찰청 감찰부장, 박은정 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임 지검장은 이날 자신의 페이스북에 “명절 연휴 직전의 개정 정부조직법 공포를 지켜보며 검찰 역시도 뿌린 대로 거두는 수확의 시기를 결국 맞았구나 싶었다”면서 “좀 더 말려보지 못한 게 후회스럽고 이래저래 안타깝고 서글픈 마음”이라고 적었다.&lt;br&gt;&lt;br&gt;이어 “동료들에게 추석 인사를 하며 수확물에 망연자실 실망하지 말고 알차게 내년을 준비하여 올해 같지 않은 내년은 맞자고 했다”면서 “알찬 내년을 위한 준비가 기득권을 지키기 위한 분투가 아니라, 잃어버린 시민들의 신뢰를 되찾기 위한 검찰의 허물과 과오를 고치고 바로잡기 위한 분투가 되어야 할 것”이라고 했다. 또 “저 역시 다음에 또 후회하지 않도록 더욱 분투해 볼 각오”라고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 정 법무 장관은 지난달 29일 임 지검장에게 “앞으로 정치적 중립성이나 업무 공정성에 의심을 불러올 수 있는 언행에 유의하고, 일선 검찰청 검사장으로서 모범을 보이고 본연의 임무에 충실하라”고 당부한 바 있다. 임 지검장이 국회 공청회에서 검사 인사에 대해 ‘인사 참사’라고 표현하고, 특정 검사들을 ‘검찰개혁 5적’이라 지칭한 것을 두고 검찰 안팎에서 부적절하다는 지적이 이어졌기 때문이다. &lt;br&gt;&lt;br&gt;국회는 지난달 26일 검찰청 폐지와 기획재정부 분리 등을 내용으로 하는 정부조직법 개정안을 재석 180명 중 174명 찬성으로 통과시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검 ‘내란중요임무 종사’ 박성재 전 장관 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/09/KJPL2GFED5BQ5CNGQ7ELSPKGSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/KJPL2GFED5BQ5CNGQ7ELSPKGSQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 10:45:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GHULDGPKTJWSCEQ2T4XMMLRPN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 박성재 전 법무부 장관에 대해 내란 중요임무 종사, 직권남용 권리행사 방해 혐의로 9일 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 “박성재 전 법무부 장관을 내란 중요임무 종사 및 직권남용 권리행사 방해 혐의로 구속영장을 청구했다”고 이날 밝혔다.&lt;br&gt;&lt;br&gt;특검은 박 전 장관이 지난해 12월 3일 윤석열 전 대통령의 위법한 비상계엄 계획을 인지하고도 이를 제지하지 않고 계엄 실행에 가담했다고 봤다.&lt;br&gt;&lt;br&gt;박 전 장관은 계엄 당일 대통령 집무실에서 계엄 선포 계획을 가장 먼저 들었던 국무위원들 중 한 명이다. 당시 박 전 장관이 계엄 선포 직후 법무부로 돌아와 실·국장 회의를 소집해 검찰국에 ‘합동수사본부 검사 파견 검토’를 지시했다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;박 전 장관은 법무부 출입국본부장을 통해 주요 체포 대상자에 대한 출국금지 조치를 지시한 의혹도 받는다. 포고령 위반자에 대한 수용 공간 확보를 위해 교정본부에 서울구치소 등의 수용 여력을 알아본 의혹도 있다.&lt;br&gt;&lt;br&gt;박 전 장관은 “통상 업무를 했을 뿐. 부당한 지시를 한 적이 없다”며 제기된 의혹 전반을 부인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수원 아파트 지하주차장에서 전기차 화재…인명피해 없어</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/ODSYYQ7KFVCVZKG37R7HXVGW6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/ODSYYQ7KFVCVZKG37R7HXVGW6M/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 00:41:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNKUK3SHNMBSXPSO2Y66Y6GX7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 8시4분께 경기 수원시 권선구 15층짜리 아파트 지하주차장에 있던 전기차에 불이 나 소방대원들이 화재를 진압하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시의 한 아파트 지하 주차장에 주차된 전기차에서 불이 나 경찰과 소방대원이 화재 원인 조사에 착수했다.&lt;br&gt;&lt;br&gt;5일 소방당국 등에 따르면 이날 오전 8시 4분쯤 경기 수원시 권선구의 한 아파트 지하 주차장 1층에 주차된 전기차에서 불이 났다. 이 화재로 주변에 주차돼 있던 차량 3대도 함께 불에 탔다. 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 19대와 소방관 57명을 투입해 이날 오전 8시 43분쯤 큰불을 잡았다. 119 대원들은 불이 난 전기차를 지상으로 이동시킨 뒤 안전 조치를 할 계획이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 “전기차에서 연기가 난다”는 아파트 관리사무소 직원의 신고 등을 토대로 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/WNKUK3SHNMBSXPSO2Y66Y6GX7E.jpg?auth=02000f5b3630b52132152b9d9432d2a7b6369b2826e8558fbb28f5274e665680&amp;smart=true&amp;width=712&amp;height=535" type="image/jpeg" height="535" width="712">
-        <media:description type="plain">5일 오전 8시4분께 경기 수원시 권선구 15층짜리 아파트 지하주차장에 있던 전기차에 불이 나 소방대원들이 화재를 진압하고 있다. /뉴시스</media:description>
-      </media:content>
     </item>
     <item>
       <title>제주 우도서 판치는 전동카트 불법영업, 차량 몰수한다</title>
