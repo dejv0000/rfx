@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘기안84 네팔 인연’ 타망, 공식 후원받는다…“한국어 교육‧생활비 지원”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/YXTQA5NM7ZF6XIIY2ZRIRQAIVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/YXTQA5NM7ZF6XIIY2ZRIRQAIVI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 08:08:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NLZQH6C3FDDTMSOV3SSNOYKWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;네팔 소년 타망. /월드쉐어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;웹툰 작가 기안84(본명 김희민)와 방송에서 인연을 맺은 네팔 셰르파 소년 타망이 구호 단체의 지원을 받게 됐다. &lt;br&gt;&lt;br&gt;11일 국제 구호 개발 NGO 월드쉐어는 MBC ‘태어난 김에 세계일주’ 시즌4에서 기안84와 인연을 맺은 타망에게 한국어 교육과 생활비 지원 등을 할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;월드쉐어는 방송 이후 지난 6월부터 네이버 해피빈과 홈페이지를 통해 타망을 비롯한 네팔 고산 지역 아동 지원을 위한 캠페인을 진행해 왔다. 오는 11월에는 타망에게 한국어 교육비와 생활비를 전달할 계획이다.&lt;br&gt;&lt;br&gt;월드쉐어에 따르면 타망은 아픈 아버지를 대신해 포터(짐꾼)로 일하며 가족의 생계를 책임져 왔다. 최근에는 카트만두의 식당에서 일하며 생활했다고 한다. &lt;br&gt;&lt;br&gt;타망은 “저를 도와주신 월드쉐어 후원자님들께 정말 감사드린다”며 “한국에 계신 분들의 많은 응원과 지원이 제게 큰 힘이 되고, 정말 행복하다”고 했다. &lt;br&gt;&lt;br&gt;타망은 “Gen Z의 (반정부) 시위가 있을 때는 카트만두에 있었다. 그런데 상황이 안 좋아져서 부모님도 만날 겸 지금은 남체 위치의 고향집으로 와서 부모님을 도와드리고 있다”며 “당장은 할 일이 많지 않아서 가족들과 다사인 축제(네팔 최대의 축제)를 보내려고 왔다”고 근황을 알렸다.&lt;br&gt;&lt;br&gt;월드쉐어는 “타망이 낯선 타지에서 건강하게 생활하고, 안정적으로 학업을 지속할 수 있도록 한국어 학원 등록과 통장 개설 등 정착 지원과 지속적인 소통을 이어갈 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;한편 타망은 최근 MBC 에브리원 ‘어서와 한국은 처음이지?’를 통해 한국을 방문하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김선교 의원, 양평 공무원 사망에 “명예 회복할 수 있도록 끝까지 최선 다하겠다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/11/36CINRPEDNAEDCJZY5XCYUXDVI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/36CINRPEDNAEDCJZY5XCYUXDVI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 08:07:50 +0000</pubDate>
+      <content:encoded>이른바 ‘양평 공흥지구 개발 특혜’ 의혹으로 김건희 특검팀 조사를 받은 뒤 숨진 채 발견된 양평군청 공무원 A(57)씨에 대해, 김선교 국민의힘 의원이 “고인의 명예가 회복될 수 있도록 끝까지 최선을 다하겠다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIOBKZL5N7A6QPDRKKFCK64WBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김선교 국민의힘 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원은 이날 오후 4시 34분쯤 경기 양평군 모처에 마련된 A씨 빈소를 찾아 조문한 뒤, 기자들과 만나 이 같이 말했다. 김 의원은 “우선 고인의 명복을 빈다”며 “(고인의) 형님과 누님이 지쳐 있는 상태”라고 했다.&lt;br&gt;&lt;br&gt;김 의원은 특검을 향해선 “살인 특검이고 조작 특검이 아닌가 생각이 든다”고 했다. 자신의 관여를 밝히겠다며 특검이 강압 수사를 한 결과 아니냐는 것이다. 김 의원은 “고인은 정말 법 없이 사는 사람이고, 공직 생활을 잘했던 사람”이라며, “13년, 14년 전의 일을 어떻게 기억하겠느냐”고 했다. &lt;br&gt;&lt;br&gt;A씨가 조사 받은 공흥지구 특혜 의혹은 김건희 여사 가족 기업인 이에스아이앤디(ESI&amp;amp;D)가 2011~2016년 양평군 공흥리 일대 개발 사업을 하면서 양평군으로부터 개발 부담금 면제 등 특혜를 받았다는 내용이다. A씨는 2016년 당시 양평군청 주민지원과 지가관리팀장으로, 개발 부담금 관련 업무를 맡았었고, 당시 군수는 김 의원이었다.&lt;br&gt;&lt;br&gt;김 의원은 전날 자신의 페이스북에 A씨가 남긴 메모를 공개한 데 대해선 고민을 하지 않았다고 밝혔다. 김 의원은 “(A씨의) 변호사를 통해서 메모를 받아보고 어이가 없었다”며 “이거 (A씨가) 너무 억울하지 않냐 이런 생각에서 당 대표에게 보고한 것”이라고 했다. 다만 특검 항의 방문 등에 대해선 “더 논의를 해봐야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 A씨 빈소에는 조문객들의 발길이 이어지고 있다. 전진선 양평군수는 오전 이른 시각부터 빈소를 지키고 있다. 양평군청 소속 공무원들을 비롯해 지역 인사들도 빈소를 찾아 유족을 위로하고 있다. 한 양평군 주민은 A씨에 대해 “같은 공무원 동료들은 물론, 양평군민들도 살뜰히 챙기던 훌륭한 분이었다”며 애도를 표했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>金여사 변호인 “특검서 많은 위법 수사 있었던 건 사실... 변호인 이의제기 묵살”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/11/CEJV6SEXQNA6RERX5WF47QHYHM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/CEJV6SEXQNA6RERX5WF47QHYHM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 05:19:36 +0000</pubDate>
+      <content:encoded>김건희 특검의 조사를 받은 양평군청 공무원이 숨진 것을 두고 파장이 이어지고 있다. 김건희 여사의 변호인은 11일 “직접 특검 수사를 경험해 본 바로는, 특검에서 많은 위법 수사가 있었던 것은 사실”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VI7GGLF7ITYI3RAWD2VAKXTSUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난달 24일 서울 서초동 서울중앙지법에서 열린 재판에 출석해 최지우 변호사(오른쪽)와 대화하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최지우 변호사는 이날 오후 자신의 페이스북에 게시글을 올려 “특검 일부 검사는 변호인이 피의자(김 여사)와 옆에 나란히 앉지 못하게 했다”고 밝혔다. 최 변호사는 “이미 헌법재판소에서 변호인이 피의자와 나란히 앉지 못하게 하는 행위는 위헌으로 판단한 바 있는 데도, 특검은 어떻게든 피의자가 변호인의 조력을 받지 못하도록 했다”고 했다. 수차례 항의한 끝에 개선됐지만, 특검의 낮은 인권 의식 수준을 가늠할 수 있었다는 것이다.&lt;br&gt;&lt;br&gt;최 변호사는 이어 “특검 검사에게 질의 방식에 문제가 있다는 점에 대해서 이의를 제기한 적이 있다”며 “그러나 특검 검사는 이의를 제기하자마자 ‘변호인은 가만히 계세요’라고 크게 소리를 질러 이의제기 자체를 제지했다”고 했다. 수사기관의 질의 방식에 대해 이의를 제기할 수 있는데, 특검이 이를 받아들이지 않고, 조서에 기재하지도 않았다는 게 최 변호사 주장이다.&lt;br&gt;&lt;br&gt;최 변호사는 특검이 지난 8월 김 여사의 구속영장 실질심사 당시 구속영장 청구서에 포함되지 않은 혐의에 대한 증거를 제출하는 만행을 저질렀다고도 주장했다. 당시 특검은 김 여사가 서희건설 이봉관 회장에게 6000만원대 ‘반클리프 앤 아펠’ 목걸이 등 귀금속을 받았다는 내용이 담긴 이 회장의 자수서를 증거로 냈다. 그러나 이와 관련한 혐의는 구속영장에 담기지 않았고, 특검은 지금도 수사 중인 상태다. 최 변호사는 “법원은 변호인의 이의제기에도 위법에 눈을 감고 구속영장을 발부했다”며 “대한민국 사법시스템이 광기에 사로잡혀 제대로 작동하지 않는다고 생각했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 밖에도 최 변호사는 압수 수색 과정에서 특검이 위법을 저질렀다고 지적했다. 최 변호사는 “특검은 김 여사 자택을 압수 수색할 당시 20년 된 수첩을 압수했다”며 “특검 검사에게 이 사건과 관련성이 있는 부분을 특정해서 밝혀 달라고 요청하였으나, 특검은 ‘관련성 여부는 수사기관이 임의로 판단하는 것이다’ ‘관련성 여부는 일단 가지고 가서 판단하겠다’ ‘이의 있으면 준항고해라’고 말했다”고 했다.&lt;br&gt;&lt;br&gt;최 변호사는 “특검법 자체의 위헌성 및 소환 과정에서 위법성, 하나 하나 언급하다 보면 특검의 위법성은 나열할 수 없을 정도로 많다”고 했다. 이어 “특검에서 (해당 공무원을) 실제로 강압수사를 했는지는 알지 못한다”면서도 “특검의 위와 같은 행태를 보면 충분히 강압수사의 가능성을 의심해볼 수는 있을 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 최 변호사는 “지금이라도 특검이 수사 성과에 미쳐서 위법수사를 자행하는 것을 중단하고 헌법, 형사소송법 및 관련 법령이 규정한 수사의 절차를 준수하길 바란다”며 “삼가 고인의 명복을 빈다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대진연, 美 대사관 앞에서 트럼프 방한 반대 집회...경찰 “미신고 불법 집회”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/11/ATS6QPOUWZCZ7E6GVV3B2CQGQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/ATS6QPOUWZCZ7E6GVV3B2CQGQA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 05:30:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2CJWH563NIGHCVDDUSCFUOGFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국대학생진보연합(대진연) 회원들이 11일 서울 종로구 주한 미국 대사관 앞에서 도널드 트럼프 미국 대통령의 방한을 반대한다는 내용의 집회를 열고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국대학생진보연합(대진연) 회원들이 11일 오후 서울 종로구 주한 미국 대사관 앞에서 도널드 트럼프 미국 대통령의 방한을 반대한다는 내용의 집회를 열었다. 경찰은 이 집회가 신고되지 않은 불법 집회라는 입장이다.&lt;br&gt;&lt;br&gt;대진연 회원 40명(경찰 비공식 추산)은 이날 오후 1시쯤부터 주한 미국 대사관 앞에서 트럼프 대통령의 방한을 반대하는 집회를 열고 있다. 트럼프 대통령은 이달 말 경주에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 방한이 예정돼 있다.&lt;br&gt;&lt;br&gt;‘노 아메리카(NO AMERICA)’ ‘노 트럼프(NO TRUMP)’라고 쓰인 피켓을 들고 집회에 참가한 이들은 “트럼프 방한 받대한다” “투자 강요 규탄한다”고 외쳤다. 한 집회 참가자는 “트럼프가 우리나라에 대해 3500억달러 대규모 대미 투자를 선불로 요구하고 있다”며 “날강도가 따로 없지 않느냐”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 이 집회가 사전에 신고되지 않은 불법 집회라고 했다. 종로경찰서 관계자는 “미신고 집회라 경고 방송을 하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산서 교통사고...트럭 운전자 1명 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/10/11/RAGZXOAKCFCEFA5WFWGMUCQ7DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/11/RAGZXOAKCFCEFA5WFWGMUCQ7DU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 05:45:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 덤프트럭과 트레일러가 충돌해 1명이 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;11일 오전 11시 18분쯤 울산 남구 용연사거리에서 덤프트럭과 트레일러가 충돌해 덤프트럭 운전자가 숨졌다. 트레일러 운전자도 다쳐 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;사고 직후 이들 차량에 불이 붙어 모두 탔고, 차량에서 흘러나온 경유가 도로를 덮어 관계 당국이 방제 작업을 하고 있다.&lt;br&gt;&lt;br&gt;경찰은 이들 차량 가운데 한 차량이 중앙선을 넘으면서 정면으로 충돌한 것으로 보고 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>WHO “전 세계 성인 5명 중 1명이 흡연”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/11/UN4D3SWQ4RFF5O75JAV3XXHVCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/11/UN4D3SWQ4RFF5O75JAV3XXHVCQ/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 07:23:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRQ2A36WDJOFRL4RHHHOIASXWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 서울 시내의 한 흡연구역에 담배꽁초들들이 버려져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흡연 인구가 세계적으로 감소 추세에 있지만, 여전히 전 세계 성인 5명 중 1명은 담배를 피우는 것으로 나타났다. &lt;br&gt;&lt;br&gt;11일 세계보건기구(WHO)가 최근 발표한 보고서에 따르면, 전 세계 흡연 인구는 2000년 13억8000만명에서 2024년 12억명으로 줄었다. WHO는 “2010년 이후 흡연 인구가 1억2000만명 넘게 줄었다”면서 “여전히 성인 5명 중 1명이 담배를 피고 있고, 매년 예방 가능한 수백만건의 사망으로 이어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;WHO는 전 세계에서 1억명 이상이 전자 담배를 사용하고 있다고 추정했다. WHO가 전 세계 전자 담배 사용 현황을 추정한 것은 이번이 처음이다. 성인은 8600만명이 전자 담배를 사용하고 있고, 대부분 고소득 국가에 거주한다. 청소년은 만 13~15세에서만 1500만명이 전자 담배를 사용하고 있는 것으로 추정된다.&lt;br&gt;&lt;br&gt;여성들의 금연 추세가 두드러졌다. 남성은 흡연율이 2010년 41.4%에서 2024년 32.5%로 5분의 1 가량 줄었다. 반면 여성은 2010년 11.1%에서 6.6%로 흡연율이 절반 가까이 줄었다. &lt;br&gt;&lt;br&gt;다만, 동남아시아의 경우 남성 흡연율이 2000년 70%였지만, 2024년 37%로 절반 가까이 줄었다. WHO는 보고서에서 “동남아시아는 한 때 흡연율이 가장 높았던 지역이지만, 전 세계 흡연 감소의 대부분이 동남아시아에서 발생했다”고 했다. 전 세계에서 흡연율이 가장 높은 지역은 유럽(성인 24.1%)이었다. 특히 유럽의 여성 흡연율은 17.4%로 세계 최고 수준이었다.&lt;br&gt;&lt;br&gt;테워드로스 아드하놈 거브러여수스 드로스 아드하놈 거브러여수스 WHO 사무총장은 “담배 기업들이 새로운 니코틴 제품으로 젊은 세대를 공격적으로 겨냥하고 있다”며 “각국 정부들은 담배 규제 정책을 더 빠르고 강력하게 시행해야 한다”고 말했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>그룹 파이브 장해영, 암투병 중 사망…“하늘나라에서 다시 노래하자”</title>
+      <link>https://www.chosun.com/national/people/2025/10/11/QSN5BJ53KJH3LAIF2CRNIOHTDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/11/QSN5BJ53KJH3LAIF2CRNIOHTDQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 06:48:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7GKVF3KDJCU3OAMKQAQP2FZJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 파이브 장해영. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 파이브의 멤버 장해영(44)이 암 투병 중 사망한 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;11일 파이브 멤버 김현수 등에 따르면 장해영은 지난 6일 암 투병 중 사망했다.&lt;br&gt;&lt;br&gt;김현수는 전날 자신의 소셜미디어에 장해영의 프로필 사진을 올린 뒤 “잘 가라 하늘나라에서 다시 만나면 다시 노래하자”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZO72E7XR3ZGXHD36WMGPYT2KSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 파이브의 김현수가 올린 게시물. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1981년생인 장해영은 한국예술종합학교에서 한국무용을 전공했다. 장해영은 1997년 그룹 키드로 데뷔했다가 탈퇴한 후 2002년 서지원, 우정태, 김현수 등과 그룹 파이브로 재데뷔했다. &lt;br&gt;&lt;br&gt;고인은 파이브로 활동하며 ‘걸’(Girl), ‘아임 쏘리’(I’m Sorry), ‘메리 크리스마스’(Merry Christmas) 등의 대표곡을 남겼다. &lt;br&gt;&lt;br&gt;2016년에는 파이브 멤버들과 JTBC 예능 ‘슈가맨’에 출연해 근황을 공개하기도 했다. 당시 장해영은 ‘슈가맨’에 출연해 “투자 관련 프리랜서 일을 하고 있다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>응급실 찾은 자해·자살 시도자 10년간 9만명 육박</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/11/GJCJXG72MJHMJJ3O6ETYHO3RWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/11/GJCJXG72MJHMJJ3O6ETYHO3RWU/</guid>
@@ -802,77 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNKUK3SHNMBSXPSO2Y66Y6GX7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 8시4분께 경기 수원시 권선구 15층짜리 아파트 지하주차장에 있던 전기차에 불이 나 소방대원들이 화재를 진압하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시의 한 아파트 지하 주차장에 주차된 전기차에서 불이 나 경찰과 소방대원이 화재 원인 조사에 착수했다.&lt;br&gt;&lt;br&gt;5일 소방당국 등에 따르면 이날 오전 8시 4분쯤 경기 수원시 권선구의 한 아파트 지하 주차장 1층에 주차된 전기차에서 불이 났다. 이 화재로 주변에 주차돼 있던 차량 3대도 함께 불에 탔다. 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;소방 당국은 장비 19대와 소방관 57명을 투입해 이날 오전 8시 43분쯤 큰불을 잡았다. 119 대원들은 불이 난 전기차를 지상으로 이동시킨 뒤 안전 조치를 할 계획이다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 “전기차에서 연기가 난다”는 아파트 관리사무소 직원의 신고 등을 토대로 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/WNKUK3SHNMBSXPSO2Y66Y6GX7E.jpg?auth=02000f5b3630b52132152b9d9432d2a7b6369b2826e8558fbb28f5274e665680&amp;smart=true&amp;width=712&amp;height=535" type="image/jpeg" height="535" width="712">
         <media:description type="plain">5일 오전 8시4분께 경기 수원시 권선구 15층짜리 아파트 지하주차장에 있던 전기차에 불이 나 소방대원들이 화재를 진압하고 있다. /뉴시스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>해병 특검, 오늘 ‘임성근 구명 로비 의혹’ 이종호 첫 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/09/NN7QFBE2BNBCVBQXWFSPH3PPYA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/NN7QFBE2BNBCVBQXWFSPH3PPYA/</guid>
-      <dc:creator>이세영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 06:57:27 +0000</pubDate>
-      <content:encoded>순직 해병 특검은 오는 10일 이종호 전 블랙펄인베스트 대표를 소환 조사한다. 이 전 대표는 고(故) 채수근 상병의 부대장이던 임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹과 관련한 참고인 신분이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTIWR6HMWPJWYCVRMRY7CUM27E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 오는 10일 오전 10시 이 전 대표를 참고인 신분으로 불러 조사할 예정이라고 9일 밝혔다. 해병 특검이 이 전 대표를 소환 조사하는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;해병 특검은 이 전 대표가 임 전 사단장을 과실치사 혐의자에서 빼기 위해 과거 친분이 있던 김건희 여사를 통해 로비를 벌였다는 의혹 등을 수사하고 있다. 이와 관련 해병 특검은 지난 7월 이 전 대표 자택을 압수 수색했고, 8월에는 이 전 대표가 한강변 쓰레기통에 휴대전화를 파손해 폐기한 정황 등을 포착하기도 했다.&lt;br&gt;&lt;br&gt;앞서 이 전 대표는 ‘김건희 특검’에 의해 변호사법 위반 등 혐의로 구속 기소된 상황이다. 이 전 대표는 도이치모터스 주가 조작 사건과 관련해 2022년 6월~2023년 2월 총 23차례에 걸쳐 공범 이정필씨에게 “형사재판에서 집행유예가 나오도록 해주겠다”며 7590만원을 받은 혐의를 받는다. 그는 서울구치소에 수용돼 있다.&lt;br&gt;&lt;br&gt;한편, 해병 특검은 오는 10일 오후 ‘순직 해병 수사 외압’ 의혹과 관련해 김동혁 전 국방부 검찰단장을 피의자로 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올 추석 연휴 112 신고 전년 대비 4.4% 감소, 대형 교통사고도 0건</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/09/I27RW7IVX5BS3GQJ6WVSXXIMTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/I27RW7IVX5BS3GQJ6WVSXXIMTQ/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 06:32:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PY3ZGMN3F26YUPUEUFNGR2LLE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 청사 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 추석 연휴 기간 112 신고는 줄고 대형 교통사고 역시 없던 것으로 집계됐다.&lt;br&gt;&lt;br&gt;경찰청은 올 추석 연휴 기간 운영한 종합 치안 대책 성과를 9일 발표했다. 경찰이 올 추석 집계한 112 신고는 전년 추석 대비 4.4% 감소한 것으로 나타났다. 경찰청은 “범죄 신고와 교통 신고는 다소 늘었으나, 출동 신고나 질서 유지, 재해·재난 신고가 줄었다”고 설명했다. 올 연휴 기간 고속도로 교통량은 일평균 572만5000대로 전년(555만대) 대비 3.2% 늘었다. 그러나 대형 교통사고는 0건으로 집계됐다. 서울 지역 일평균 교통사고도 33건으로 전년 대비 49.7% 감소한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이번 치안 대책 기간 동안 연인원 29만4773명(일평균 2만6798명)을 투입했다. 명절 연휴 증가하는 경향을 보이는 가정폭력, 스토킹 등 관계성 범죄에 선제 대응하기 위해 피해자 2만1199명을 전수 모니터링하고, 이 중 고위험군 4776명을 선정해 경찰력을 집중했다. 야간 형사 인력도 평소 대비 36.6% 늘려(2만458명→2만7955명) 대응력을 높였다. 그 결과 폭력 및 강절도 사건 피의자 7234명을 검거했으며, 이 중 178명을 구속했다.&lt;br&gt;&lt;br&gt;이번 추석은 중국 국경절 연휴와 겹치면서 외국인 관련 신고가 늘었다. 112 외국인 통역센터의 중국어 통역 접수는 일 평균 37.2건으로 전년(20.4건) 대비 대폭 늘었다. 경찰은 외국인 관광객 대상 치안 서비스 확대를 위해 중국 관광객 밀집 지역 등 421개소에 기동순찰대 3137명을 배치했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 하루 앞두고 귀성길 정체…서울→부산 7시간30분</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/R3QZJAHHVFBKRG2LEX5KQOQIT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/R3QZJAHHVFBKRG2LEX5KQOQIT4/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 23:50:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BKUXJDCMNPEXNLCIGNZRSPN2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석을 하루 앞둔 5일 경부고속도로 잠원IC 하행선에 귀성길 차량 행렬이 꼬리에 꼬리를 물며 서행하고 있다./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석을 하루 앞둔 5일 오전 전국 주요 고속도로의 귀성 방향에서 정체가 이어지고 있다. &lt;br&gt;&lt;br&gt;한국도로공사에 따르면 이날 오전 승용차로 서울 요금소를 출발해 전국 주요 도시까지 걸리는 시간은 부산 7시간 30분, 울산 7시간 10분, 광주 6시간 30분, 대구 6시간 20분, 강릉 3시간 50분, 대전 3시간 20분이다. &lt;br&gt;&lt;br&gt;귀경길은 비교적 한산한 편이다. 각 도시에서 서울까지 예상 소요시간은 부산 5시간 40분, 울산 5시간 10분, 광주 3시간 40분, 대구 3시간 24분, 강릉 2시간 40분, 대전 1시간 50분이다. &lt;br&gt;&lt;br&gt;공사는 귀성 방향의 경우 이날 오전 5~6시 정체가 시작돼 정오~오후 1시에 정점을 찍고, 오후 8~9시쯤 해소될 것으로 내다봤다. 귀경 방향은 오전 8~9시에 막히기 시작해 오전 11시~정오에 최대에 달한 뒤 오후 8~9시쯤에는 풀릴 것으로 보인다. &lt;br&gt;&lt;br&gt;이날 전국 교통량은 575만대가량으로 전망된다. 이 중 수도권에서 지방으로 47만대, 지방에서 수도권으로 46만대가 이동할 것으로 공사는 예상했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈, 연이틀 민주당 저격글 “청년들, ‘쿠폰 주도 경제’ 공포스럽다 해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/09/R522BCUB7ZHWBM6LGOZ6BW3Q2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/R522BCUB7ZHWBM6LGOZ6BW3Q2E/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 04:35:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSMJKC27JTPMDNLXXYQOKX4HWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 9일 페이스북을 통해 이재명 정부와 여당이 시행한 민생회복 소비쿠폰을 비판하며 “나라 전체가 빚을 내 현금을 퍼주는 통치가 반복되면 미래 세대는 앞선 세대의 풍요를 누릴 수 없다. 몰염치이자 미래 세대 약탈이라 말해도 과장이 아니다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 ‘청년의 어깨에 얹을 것은 쿠폰이 아니라 경쟁력이어야 한다’는 제목의 글을 올리고 “정부·여당은 청년들의 절박한 불안을 아는지 모르는지 일회성 현금살포를 ‘민생회복 소비쿠폰’이라 포장하며 13조원의 재정을 쏟아부었다”며 “폭증한 빚은 고스란히 청년의 어깨 위로 떨어진다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “그러니 청년들은 ‘소득 주도 성장보다 쿠폰 주도 경제가 더 공포스럽다’고 말한다. 소주성(소득 주도 성장)의 악성 변종이라는 뜻”이라며 “정치인으로서, 행정책임자로서 청년들이 느끼는 공포를 차마 외면할 수 없다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “서울의 문화와 디자인이 세계의 시선을 끌 때 비로소 부(富)가 창출된다. 그러면 사람이 모이고, 투자와 일자리가 따라온다”며 자신의 재임 기간 치적으로 거론되는 동대문디자인플라자(DDP), 한강 세빛섬, 용산국제업무지구 등 사례를 언급했다.&lt;br&gt;&lt;br&gt;오 시장은 “하지만 그 어떤 브랜드도 생산해본 일 없는 운동권 진영은 변화의 순간마다 늘 같은 태도였다. 청계천 복원도, 한강 르네상스도 무조건 반대했을 뿐”이라며 “그들의 논리대로 했다면 오늘의 서울은 ‘케이팝 데몬 헌터스의 도시’가 아니라 ‘멈춘 도시’가 됐을 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 전날도 페이스북을 통해 그간 서울 강북 지역의 정비 사업 추진이 부진했던 원인으로 ‘강북 정치인’을 꼽으면서 “강북 유권자의 선택을 받았던 많은 정치인이 통렬히 반성해야 한다”며 “더 적극적으로 관심을 가지고 노력했다면 강북 개발의 속도와 성과는 달라졌을 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰 “법원, 이진숙 적법 체포 인정… 석방 결정은 존중”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/04/ABPWVHWOARF6RF7J66LGQP5L7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/04/ABPWVHWOARF6RF7J66LGQP5L7E/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 10:26:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSI4JOJHEC4RWRWNVQU4DYTH3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 법원은 이날 이 전 위원장이 청구한 체포 적부심을 인용했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 4일 이진숙 전 방송통신위원장의 석방에 대해 “법원도 수사의 필요성과 체포의 적법성은 인정했다”면서도 “법원의 (석방) 결정을 존중한다”고 했다.&lt;br&gt;&lt;br&gt;서울지방경찰청은 이날 법원이 이 전 위원장이 청구한 체포 적부심을 인용하는 결정을 내린 직후 이 같은 입장을 밝혔다. 서울청은 필요성과 체포의 적법성은 인정되지만, 체포의 필요성 유지, 계속성이 인정되지 않아 법원이 석방 결정한 것으로 알고 있다”고 부연했다.&lt;br&gt;&lt;br&gt;이 전 위원장 체포로 ‘과잉 수사’ 논란이 불거지고, 법원이 이틀 만에 석방 결정을 내리자 “체포 자체는 문제가 없었다”는 것을 강조한 것이다. 경찰은 지난 2일 이 전 위원장이 소환 조사에 불응했다는 이유로 자택 인근에서 체포했다.&lt;br&gt;&lt;br&gt;김동현 서울남부지법 영장당직 부장판사는 이날 이 전 위원장의 체포 적부심을 진행한 후 “체포의 적법성 자체를 부정하기는 어렵다고 판단된다”면서도 “이미 상당한 정도로 이 전 위원장에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없으며, 심문 과정에서 성실한 출석을 약속하고 있어 체포의 필요성이 유지되지 않는다”고 밝혔다. 헌법상 핵심 기본권인 표현의 자유에 대한 제한을 근거로 한 인신 구금은 신중해야 한다는 점도 고려됐다.&lt;br&gt;&lt;br&gt;그러나 정치권과 법조계에서는 경찰이 신청한 체포 영장을 승인해 청구한 검찰과 이를 그대로 발부했던 법원을 향해 “경찰의 과잉 수사를 통제하지 않았다”는 비판이 계속 나오고 있다. 판사 출신 장동혁 국민의힘 당대표는 이날 페이스북에 “불법적인 영장 발부와 불법적인 체포·감금에 이은 위법 수사에 대해 끝까지 법적 책임을 물을 것”이라고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>석방된 이진숙 “이재명의 검·경이 채운 수갑, 법원이 풀어줘”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/XKUKBONCHZCDPEQ54T5JDETLYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/XKUKBONCHZCDPEQ54T5JDETLYI/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 10:24:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HSMTDVYXLFNZHF4ZYWHAEOY5SY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 법원의 체포적부심사 인용으로 석방된 이진숙 전 방송통신위원장이 “경찰의 폭력적 행태를 접하고 보니 일반 시민들은 과연 어떨까 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원 명령 약 20분 후인 오후 6시 45분쯤 서울 영등포경찰서에서 수갑이 풀린 채 나온 이 전 위원장은 “이재명 검·경이 씌운 수갑을 그래도 사법부가 풀어줬다”며 “대한민국 어느 한구석에는 민주주의가 조금이라도 남아 있는 것 같아 희망을 느낀다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “이재명 대통령 일정과 함께 많이 보이는 것이 법정, 구치소, 유치장 장면”이라며 “대통령 비위를 거스르면 당신들도 유치장에 갈 수 있다는 함의가 여러분이 보시는 화면에 담겼다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이런 일을 막은 것은 시민 여러분의 힘”이라며 “곳곳에서 응원을 보내주신 분들께 감사드린다”고 인사한 뒤 준비된 차를 타고 빠져나갔다.&lt;br&gt;&lt;br&gt;앞서 이날 오후 서울남부지법 김동현 영장당직 부장판사는 체포적부심사를 진행한 뒤 이 전 위원장의 청구를 인용했다. 재판부는 “헌법상 핵심 기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다”고 밝혔다. 또 이미 상당한 정도로 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 가능성이 크지 않다는 점, 심문 과정에서 이 전 위원장이 성실한 출석을 약속하고 있는 점 등을 인용 이유로 거론했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BVMZM6IDQNLKLOLLTGNOSNBENI.JPG?auth=306236fdcac9b2b24536828bd557d98f9265dff251ed90e081a82632fc15a2e0&amp;smart=true&amp;width=3560&amp;height=2528" type="image/jpeg" height="2528" width="3560">
-        <media:description type="plain">(서울=뉴스1) 신윤하 기자 = 이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. 2025.10.4/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 신윤하 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>법원, 이진숙 체포적부심 인용… 즉시 석방</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/F6ZTFF2BWJDN7OGFNDE4PLYHJY/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 09:26:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVMZM6IDQNLKLOLLTGNOSNBENI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 공직선거법·국가공무원법 위반 혐의로 경찰에 체포된 이진숙 전 방송통신위원장에 대해 4일 석방 명령을 내렸다. 이에 따라 이 전 위원장은 즉시 석방 수순을 밟는다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시 진행된 체포적부심사 결과 “현 단계에서는 체포의 필요성이 유지되지 않는다”며 이 전 위원장의 청구를 인용했다.&lt;br&gt;&lt;br&gt;재판부는 “기본권인 표현의 자유에 대한 제한을 이유로 하는 인신구금은 신중히 할 필요가 있다”며 ”이미 상당한 정도로 피의자에 대한 조사가 진행됐고, 사실관계에 대한 다툼이 없어 추가 조사 필요성도 크지 않았으며, 심문 과정에서 피의자가 성실한 출석을 약속하고 있다”고 인용 이유를 밝혔다.&lt;br&gt;&lt;br&gt;다만 재판부는 “피의사실의 범죄 성립 여부에 관해 다툼의 여지가 상당하기는 하나 수사의 필요성이 전면 부정된다고까지 보기는 어렵다”며 “피의사실 중 공직선거법 위반의 점에 대한 공소시효가 다가오고 있어 수사기관으로서는 피의자를 신속히 소환 조사할 필요가 있음은 일응 인정할 수 있고, 피의자가 수사기관의 출석 요구에 응하지 않은 것도 사실”이라고도 했다.&lt;br&gt;&lt;br&gt;또 “단기 공소시효로 인한 사안의 시급성에 비추어 피의자로서도 자신의 출석 가능한 일정을 적극적으로 밝히고 최대한 신속히 출석 요구에 응할 필요가 있었음에도 피의자의 회신 노력이 부족했음을 지적하지 않을 수 없다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이어 “피의자가 사전에 스스로 약속한 마지막 출석 예정 일자에 결국 불출석하게 된 이유로 들고 있는 국회 출석이 과연 불가피한 것이었는지 의문이 남는 점 등을 고려할 때, 변호인이 제기하는 일부 의문점에 충분한 경청의 필요성이 있음에도 불구하고 체포의 적법성 자체를 부정하기는 어렵다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKUC63TKJBONJEXHBLBFEFKXYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이 전 위원장의 청구가 인용되자 “법원의 결정을 존중한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;법원이 체포적부심사 인용 결정을 내리면서, 서울 영등포경찰서 유치장에 수감돼 있던 이 전 위원장은 석방됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MGKPQJLSXE4MG5WTSJOPC55C3Q.jpg?auth=d39043644f572ed94776a2e90cbafa70dc89d2e39a11b2dd88ca79b8b98c1827&amp;smart=true&amp;width=4664&amp;height=3109" type="image/jpeg" height="3109" width="4664">
-        <media:description type="plain">공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 4일 오후 서울 양천구 서울남부지방법원에서 열린 체포적부심사에 출석하고 있다. 2025.10.4/뉴스1 ⓒ News1 이광호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이광호 기자</media:credit>
       </media:content>
     </item>
     <item>
