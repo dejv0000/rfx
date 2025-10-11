@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>응급실 찾은 자해·자살 시도자 10년간 9만명 육박</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/11/GJCJXG72MJHMJJ3O6ETYHO3RWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/11/GJCJXG72MJHMJJ3O6ETYHO3RWU/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 04:38:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3HOKWWGORCOJGOZAKLYNJ7JWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 9월 대전에 위치한 한 병원 응급실 입구에 구급차가 서 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 10년 간 응급실을 찾은 자해·자살 시도자가 9만명에 가까운 것으로 집계됐다.&lt;br&gt;&lt;br&gt;국회 보건복지위원회 소병훈 의원(더불어민주당)이 11일 질병관리청에서 제출받은 자료에 따르면 2015년부터 2024년까지 10년간 응급실을 찾은 자해·자살 시도자는 총 8만9175명으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVVUZYFMVJBAZDIEMI7C7OYAWA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여성이 58.1%로 남성(41.9%)보다 많았다. 연령별로 보면 20대 24.6%, 10대 13.7%로 청소년과 청년층이 전체의 38.3%를 차지했다.&lt;br&gt;&lt;br&gt;자해·자살 시도 이유 상당수는 정신건강 문제 때문이었다. 우울증 25.5%, 기타 정신과적 증상 11.1%, 약물 중독 0.7% 등이다. 가족이나 친구와의 갈등도 24.1%를 차지헀다.&lt;br&gt;&lt;br&gt;응급실로 온 자해·자살 시도의 83.3%는 ‘가정 안’에서 발생했다. 상업시설(4.9%), 도로(2.9%), 야외ㆍ바다(2.8%) 등 외부공간보다 압도적으로 높았다.&lt;br&gt;&lt;br&gt;소병훈 의원은 “청년층의 SNS 자극, 학업·취업 스트레스 완화 등 사회적 방어막 강화가 시급하다”며 “가정 내 의약품 보관·관리 강화, 판매약 접근 제한, 고층 주거지 추락 방지장치 의무화 등의 대책이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살예방 상담전화 ☎ 109 또는 자살예방 SNS상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양평 공무원 유족 측 “부검 안했으면 좋겠다... 유서 못 봐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/11/NPMOKUH3GRHDTA5AFUYAAF3XCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/NPMOKUH3GRHDTA5AFUYAAF3XCE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 04:24:07 +0000</pubDate>
+      <content:encoded>이른바 ‘양평 공흥지구 개발 특혜’ 의혹으로 김건희 특검의 조사를 받은 뒤 숨진 채 발견된 양평군청 공무원 A씨의 유족 측이 경찰의 부검 계획에 대해 “안 했으면 좋겠다”는 입장인 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZZ7ZAKL2BLSZE3IY4MOTLKXDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양평군청./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨를 대리했던 박경호 변호사는 11일 오후 1시 9분쯤 기자들과 만난 자리에서 경찰의 부검 계획에 대해 “유족들께서 부검은 안 했으면 좋겠다고 말씀하셨다”며 “부탁을 받아 경찰 측에 전화했는데, 전화를 안 받으시더라”고 했다. 경찰은 오는 13일 A씨 부검을 진행할 계획인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박 변호사와 유족은 아직까지 A씨 유서를 확인하지 못했다고 한다. 박 변호사는 “경찰이 (유서를) 가지고 있다는데 공개를 안 한다고 한다”며 “유족도 못 봤다고 하신다”고 했다.&lt;br&gt;&lt;br&gt;박 변호사는 특검 측이 “강압 수사는 없었다”는 입장을 밝힌 데 대해선 “조서 열람을 먼저 신청한 뒤, 그거(조서)를 보고 제가 어떤 방식으로 할 것인지 판단해서 진행하겠다”고 했다. 강압 수사가 없었다는 게 사실이라면 특검이 조서 내용을 공개하면 된다는 것이다. 또 “제3자인 검찰이나 경찰에게 맡겨서 (진상 파악을) 진행하도록 하는 게 정상”이라며 “본인(특검) 스스로가 (강압·회유 등을) 안 했다고 해서 안 한 건 아니지 않느냐”고 했다.&lt;br&gt;&lt;br&gt;지난 10일 자택에서 숨진 채 발견된 A씨는 앞서 2일 오전 10시 피의자 신분으로 김건희 특검에 출석했다. 첫 특검 조사였다. 그는 야간 조사를 받고 3일 새벽 1시 15분 귀가했고, 새벽 3시 20분쯤 집에서 자필로 당시 “세상을 등지고 싶다”는 등 괴로운 심경이 담긴 메모를 작성했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“평소 알고 지냈는데”... 미성년 성매매 시킨 일당 구속</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/11/EXNCYJWV6VFN7LZSH4OSE4TMYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/11/EXNCYJWV6VFN7LZSH4OSE4TMYU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 11 Oct 2025 03:58:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경계선 지능인 10대 미성년자에게 성매매를 강요한 일당이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면 경찰은 최근 아동·청소년의 성 보호에 관한 법률 위반 혐의로 A씨 등 20대 남성 8명을 구속해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해부터 올해 초까지 경계선 지능인 미성년자 B(10대)양에게 성매매를 강요한 혐의를 받고 있다. 이들은 동네 선후배 사이로 평소 알고 지내던 사이다. &lt;br&gt;&lt;br&gt;경계선 지능인은 지적 장애는 아니지만 인지·학습 능력 부족으로 사회 적응에 어려움을 겪는 사람을 가리킨다&lt;br&gt;&lt;br&gt;경찰은 A씨 일당이 B양의 이런 점을 노려 성매매를 강요한 것으로 파악했다. 이들은 애플리케이션으로 성 매수 남성을 찾고, 이들에게서 현금을 받아 성매매를 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>교정시설 범죄, 3년 전보다 54% 늘어... 마약 등 금지물품도 적발</title>
       <link>https://www.chosun.com/national/court_law/2025/10/11/6HTHB3J7SVDYZBJEK6ZKBQ3NII/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/6HTHB3J7SVDYZBJEK6ZKBQ3NII/</guid>
@@ -847,33 +874,6 @@
         <media:description type="plain">공직선거법·국가공무원법 위반 등 혐의로 체포된 이진숙 전 방송통신위원장이 4일 오후 서울 양천구 서울남부지방법원에서 열린 체포적부심사에 출석하고 있다. 2025.10.4/뉴스1 ⓒ News1 이광호 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이광호 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>법원 “김건희 의혹 다룬 ‘김현정의 뉴스쇼’ 방통위 제재는 위법”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/34H5X5VYFBBPFPYACHKUEO6K2M/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 03:11:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VSP4YVPHKRESW5MJDSPMNZ6KE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 정부과천청사 방송통신위원회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 국회의원 선거를 앞두고 윤석열 전 대통령 부인 김건희 여사 관련 의혹을 언급한 CBS 라디오 방송에 방송통신위원회(방통위)가 내린 법정 제재는 위법이라는 법원 판단이 나왔다. 서울행정법원 행정6부(재판장 나진이)는 CBS가 방통위를 상대로 제기한 제재조치 처분 취소 소송에서 최근 원고 일부 승소로 판결했다.&lt;br&gt;&lt;br&gt;CBS 라디오 방송 프로그램 ‘김현정의 뉴스쇼’는 작년 2월 2일 방송에서 윤석열 전 대통령의 신년 메시지 등 정치 현안을 다루면서 김 여사의 ‘명품 가방 수수 의혹’과 ‘도이치모터스 주가조작 연루 의혹’을 언급했다. 프로그램에 출연한 이언주 현 더불어민주당 최고위원은 “국민들은 수사가 필요하다는 쪽으로 가고 있고요” “특검에 대한 거부권 행사하면 안 된다는 견해가 굉장히 많지 않습니까?” “처가가 영부인 포함해서 22억인가 23억인가 이득을 봤다. 이게 재판과정에서 드러났잖아요” 등 발언을 했다.&lt;br&gt;&lt;br&gt;방통위의 총선 선거방송심의위원회(선방위)는 같은 해 4월 ‘김건희 특검법 등 전 국민 관심사가 되는 사안에 대해 특정 정당 소속 국회의원의 일방적 주장을 방송하면서 이에 대한 반론·반박을 다루지 않은 것은 선거방송에서 공평한 관심과 처우를 제공하지 않은 것’이라며 법정 제재인 ‘경고’를 의결했고 방통위는 5월 제재 처분을 내렸다. CBS 측이 재심을 청구했으나 방통위는 ‘주의’로 한 단계만 낮췄고, CBS는 제재를 취소해 달라며 소송을 냈다.&lt;br&gt;&lt;br&gt;법원은 이 프로그램이 방심위 심의·제재 대상인 ‘선거방송’이 아니기 때문에 제재 처분이 위법하다며 CBS 손을 들어줬다. 재판부는 “문제의 발언은 당시 사회적·정치적으로 화제가 되는 사안을 다룬 것일 뿐 정당의 정강·정책이나 후보자의 정견에 관한 것이 아니다”라며 “이 발언이 대통령에 대한 비판 취지로 볼 수 있다고 하더라도, 이런 비판이 선거에 영향을 미칠 수 있다는 사정만으로 선거와 직접적으로 관련된 사항을 주제로 했다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;방통위는 선방위 설치·운영 기간 특정 정당이나 후보자, 각종 정치 현안을 언급해 여론 형성에 영향을 미치는 프로그램은 모두 심의 대상이라고 주장했으나 법원은 “방통위 주장대로면 어떤 방송이 심의·제재 대상이 되는 선거방송인지 알 수 없게 돼 법적 안정성을 확보할 수 없고, 헌법상 보호받는 표현에 대한 위축 효과를 초래하게 된다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>임기 끝나고 인감도장 안 돌려준 아파트 입주자대표…대법 “업무방해 아냐”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/09/NKSYYKBXVFE2PPNIVSDAPZBO6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/09/NKSYYKBXVFE2PPNIVSDAPZBO6Q/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 02:59:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아파트 입주자대표 회장이 임기가 끝난 뒤 인감도장과 사업자등록증을 돌려놓지 않은 것을 업무방해죄로 처벌할 수 없다는 대법원 판단이 나왔다. 해야 할 일을 하지 않은 ‘부작위’를 적극적인 위력 행사와 똑같이 볼 수는 없다는 취지다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 업무방해 혐의로 기소된 A씨에게 벌금 200만원을 선고한 원심 판결을 깨고 지난달 사건을 의정부지법으로 돌려보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;경기도 남양주시 한 아파트 입주자대표회의 회장이었던 A씨는 2021년 4월 후임 회장이 새로 뽑혀 임기가 시작됐는데도, 후임 선출 과정에 문제를 제기하면서 은행 거래용 인감도장과 사업자등록증을 넘겨주지 않아 업무방해 혐의로 기소됐다. 형법은 허위 사실을 유포하거나 위력으로 업무를 방해한 경우 5년 이하의 징역 또는 1500만원 이하 벌금에 처한다고 규정한다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 A씨가 인감도장과 사업자등록증을 돌려주지 않은 행위가 형법에서 규정하는 ‘위력’에 해당하는지였다. 대법원 판례는 위력을 폭력·협박뿐 아니라 사회적 지위·권세에 의한 압박도 포함한다고 하고 있다. 1·2심은 “A씨가 인감 등의 반환 의무를 거부해 후임 회장의 업무를 방해했고 A씨에게 업무 방해의 고의도 있었다”며 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 무죄 취지로 파기 환송했다. 대법원은 “해야 할 일을 하지 않은 ‘부작위’가 업무방해죄의 ‘위력’에 해당하려면 피해자 업무에 대한 적극적인 방해 행위와 동등한 형법적 가치를 가져야 한다”며 “A씨는 단순히 인도를 거절한 것이지, 인감을 사용해 자신이 회장 행세를 하는 등 적극적으로 후임 회장 업무를 방해했다는 사정을 보이지 않는다”고 했다. 또 후임 회장이 임기를 시작한 후 무리 없이 입주자대표회의를 개최한 점 등을 들어 “업무가 실제로 불가능하거나 현저하게 곤란하게 됐다고 보기도 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이진숙 체포적부심 종료… “결과 나올 때까지 봅시다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/04/HBVM35O6CJG77N2REYI7LUUFKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/04/HBVM35O6CJG77N2REYI7LUUFKQ/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 04 Oct 2025 08:13:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUL5RXTYNRKBDDXDGIK5IEFULE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 체포적부심사를 받기 위해 서울남부지법으로 들어서며 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이진숙 전 방송통신위원장의 석방 여부를 가리는 체포적부심사가 약 1시간 30분 만에 종료됐다. 법원은 이르면 오늘(4일) 늦은 오후 결론을 낼 전망이다.&lt;br&gt;&lt;br&gt;서울남부지법 김동현 영장당직 부장판사는 이날 오후 3시부터 공직선거법·국가공무원법 위반 혐의로 체포된 이 전 위원장의 체포적부심사를 비공개로 진행했다. 심사는 오후 4시 28분쯤 종료됐다. 이 전 위원장은 결과가 나올 때까지 서울 영등포경찰서 유치장에서 대기할 예정이다.&lt;br&gt;&lt;br&gt;이날 심문에선 경찰이 앞서 두 차례 체포 영장을 신청했지만 검찰이 반려했던 것으로 나타났다. 경찰은 이 전 위원장이 불출석 사유로 든 국회 무제한 토론(필리버스터)은 대리인이 참석할 수 있기 때문에 정당한 사유로 볼 수 없다고 주장한 것으로 전해졌다. 반면 이 전 위원장 측은 경찰이 출석 날짜를 협의해놓고도 무의미한 출석 요구를 남발해 체포 명분을 쌓았다며 반박했다고 한다.&lt;br&gt;&lt;br&gt;이날 오후 4시 37분쯤 법정에서 나온 이 전 위원장은 “이 자리에선 따로 말씀드리지 않겠다”며 “변호인이 잘 말씀드렸으리라 생각하고 결과 나올 때까지 보자”고 말한 뒤 호송차에 탑승했다. &lt;br&gt;&lt;br&gt;이 전 위원장의 변호인인 임무영 변호사는 심문을 마친 뒤 “검찰과 법원은 저희의 불출석 사유서를 보고도 체포 영장을 청구·발부했다고 한다”며 “검찰과 법원의 이런 판단에 실망스러움을 금할 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;체포적부심사는 수사기관의 체포 적법성 여부를 법원이 심사하는 제도다. 법원은 청구서가 접수된 뒤부터 48시간 이내에 피의자를 심문한 뒤, 24시간 이내에 석방 여부를 결정해야 한다. 법원이 이 전 위원장의 손을 들어줄 경우 이 전 위원장은 즉시 석방된다. 반대로 체포가 정당했다고 판단하면 이 전 위원장의 체포 상태는 20시간가량 더 유지된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주 우도서 판치는 전동카트 불법영업, 차량 몰수한다</title>
