@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대구시, FIX 2025 혁신상 수상 기업 30사 선정</title>
+      <link>https://www.chosun.com/national/regional/2025/10/12/5U22VESTXRCYPITNVWNR3CMKHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/12/5U22VESTXRCYPITNVWNR3CMKHY/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 05:01:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXCEX6YM5IPBE4MVWLUTNC6GKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시는 오는 22일 개막하는 미래혁신기술박람회(Future Innovation tech eXpo 2025)를 앞두고 혁신상 수상기업 30개사를 선정, 발표했다. 사진은 지난해 대구 엑스코에서 열린 FIX 2024 행사장을 찾은 관람객들이 테슬라 사이버트럭을 살펴보고 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 미래혁신기술박람회(Future Innovation tech eXpo 2025) 혁신상 수상 기업 30사를 선정했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;대구시는 FIX 2025를 앞두고, FIX가 표방하는 미래 혁신 기술의 대표 모델이 될 ‘혁신상(Innovation Awards)’ 선정을 위한 심사를 진행했다. 혁신상의 공신력과 전문성을 높이기 위해 CES 혁신상 심사위원, 글로벌 투자자 등 총 26명으로 전문 평가단을 구성했다. 이들의 심사를 통해 ‘최고 혁신 기술상’ 9사와 ‘혁신상’ 21사를 선정했다. 특히 올해는 스타트업부터 중견과 대기업까지 참여 폭이 확대됐으며, 수상 기업 중 약 22%가 ‘CES 혁신상’ 등 해외 수상 경력을 보유해 참여 기업들의 기술력 수준도 한층 높아졌다고 대구시는 설명했다. &lt;br&gt;&lt;br&gt;대구시에 따르면, ‘HL로보틱스’는 자율주행 주차 로봇 솔루션 ‘파키’를 출품해 최고 혁신상을 받았다. ‘파키’는 세계 최초의 실내 자율 주행 주차 로봇으로, 레벨 4 수준의 자율 주행 기술이 탑재된 자율 이동 로봇(AMR)이 운전자 개입 없이 장애물·주행로·번호판 등을 인식해 스스로 차량을 주차한다. 대구시 관계자는 “FIX 2025 현장에서 시연을 통해 주차 로봇 상용화를 위한 규제 개선의 필요성을 알릴 예정”이라고 말했다. 또 ‘㈜티머니’는 스마트폰 앱이 저전력 블루투스 신호를 지속적으로 송출해 버스나 지하철 탑승 시 별도의 단말기 태그 동작 없이도 자동으로 요금을 결제하는 기술로 혁신상을 받았다. &lt;br&gt;&lt;br&gt;지역 기업들의 수상도 적지 않았다. ‘THN’은 기존의 돌출형 안테나와 달리 차 유리창이나 건물 외벽에 내장·부착할 수 있는 필름형 안테나로 최고 혁신상을, ‘베이리스’는 자율 주행 밴·드론·로봇을 통합한 순찰 시스템으로, ‘신라시스템’은 AI 기반 근골격계 질환 진단 및 진행 예측 솔루션으로 혁신상을 각각 수상했다. &lt;br&gt;&lt;br&gt;김정기 대구시장 권한대행(행정부시장)은 “올해 FIX는 CES 혁신상 수상 기업이 대거 참여해 미래 혁신 기술 발굴 플랫폼으로서의 권위가 입증됐다고 생각한다”며 “많은 관람객이 수상 기업들의 미래 기술 혁신을 현장에서 직접 경험하는 기회가 되길 바란다”고 말했다. &lt;br&gt;&lt;br&gt;FIX 2025는 22일부터 25일까지 나흘간 대구 엑스코에서 열리고, 혁신상 시상식은 23일 진행된다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 뺑소니로 환경미화원 생명을 앗아간 20대 男, 대법서 징역 12년 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/FDV46B3EZVE7FIMA5VQLUOPJUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/FDV46B3EZVE7FIMA5VQLUOPJUM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 03:34:56 +0000</pubDate>
+      <content:encoded>소주 4병을 마신 만취 상태에서 교통사고를 낸 뒤 달아나다 환경미화원을 치어 숨지게 한 20대 남성에게 징역 12년이 확정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/COMP3MJF3NGBPFP4SN2PQGZOMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 특정범죄가중처벌법상 도주치사·위험운전치사 등 혐의로 기소된 김모(26)씨에게 징역 12년을 선고한 원심을 지난달 4일 확정했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난해 8월 7일 새벽 1시쯤 충남 천안의 한 도로에 차량을 세워둔 채 술에 취해 잠들어 있었다. 출동한 경찰관이 창문을 두드리자 김씨는 그대로 차량을 몰고 달아났다. 이 과정에서 쓰레기 수거 차량 뒤편에서 작업 중이던 환경미화원 2명과 수거 차량을 잇따라 들이받았다. 김씨는 사고를 내고도 이를 방치한 채 도주했다가 경찰에 붙잡혔다. 조사 결과 김씨는 소주 4병을 마신 만취 상태였다.&lt;br&gt;&lt;br&gt;이 사고로 환경미화원 한 명이 크게 다쳐 병원으로 옮겨졌지만 끝내 숨졌다. 숨진 피해자는 결혼을 앞둔 30대 청년으로, 사고 당일은 부친의 생일이었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;1심은 김씨에게 징역 12년을 선고하며 “살인 행위라고까지 비난받는 음주 운전과 그에 뒤따르는 교통사고에 대해 경종을 울리고 이런 범행을 영원히 근절하기 위해서는 무겁게 처벌할 수밖에 없다”고 지적했다. 또 “엄하게 처벌하지 않으면 야간에 힘든 쓰레기 수거 작업을 하면서도 자신과 가족들의 더 나은 미래를 위해 희망을 잃지 않고 성실히 자신의 직분을 수행하다 한순간에 스러져 간 순수한 30대 청년인 피해자의 원혼을 달랠 수 없다”라고도 했다. &lt;br&gt;&lt;br&gt;김씨는 항소심에서 유족에게 7000만원을 공탁했지만, 재판부는 “유족이 공탁금 수령을 거절해 유리한 사정으로 참작하기 어렵다”며 검찰과 피고인 측 항소를 모두 기각했다. 대법원도 “피고인의 연령과 성행, 범행 경위, 사고 후 정황 등을 종합해 보면 원심의 형이 부당하다고 볼 수 없다”며 상고를 기각해 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, APEC 기간 경주 시내 주요 도로 일반 차량 통행 제한</title>
+      <link>https://www.chosun.com/national/regional/2025/10/12/TK2F3NDZTVBZBBZXUROFZCU7E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/12/TK2F3NDZTVBZBBZXUROFZCU7E4/</guid>
+      <dc:creator>안동=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 04:23:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMSI3JPH3BAETDGETCNAFHBJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;APEC 기간 경주 지역 일반 차량 통행 제한 구간 위치도./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주 아시아태평양경제협력체(APEC) 정상회의와 관련해 오는 29일 0시부터 11월 1일 오후 2시까지 경주 보문단지 등 시내 주요 도로 구간에 일반 차량의 통행이 제한된다. &lt;br&gt;&lt;br&gt; 12일 경북경찰청에 따르면, 이 기간 참가국 정상 차량 이동 등을 이유로 경주TG∼배반네거리∼구황교네거리∼보문교삼거리∼보문단지로 연결되는 서라벌대로·산업로·경감로·보문로 등 주요 도로 구간의 일반 차량 통행이 제한된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXMNBNQZS5A6XMLNAGC2HPWUXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;APEC 기간 화물 차량 통행 제한 구간 위치도./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 포항 방면(북경주IC~용강네거리), 울산 방면(남경주IC~배반네거리), (내남교차로~나정교사거리) 등 경주를 남북으로 관통하는 주요 도로에서는 2.5t 이상 화물차와 건설기계(덤프트럭, 도로보수트럭 등) 등 총중량 10t 이상 특수 차량 통행이 전면 금지된다. &lt;br&gt;&lt;br&gt;경찰은 교통 혼잡을 막기 위해 이 기간 보문삼거리 등 주요 교차로와 단일로 등 222곳에 경력을 배치해 차량 통제와 우회 조치 등에 나설 계획이다. &lt;br&gt;&lt;br&gt;경북경찰청 관계자는 “성공적인 APEC 행사를 위해 다소 불편하더라도 행사장 이용 시에는 경북도에서 제공하는 셔틀버스 등 대중교통을 이용하고, 차량을 격일로 운행하는 자율 2부제 등에 적극 동참해달라”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 친일파 이해승 후손에 매각대금 78억원 반환 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/2CUY4XWJU5DLNFJDZB2J3SMXAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/2CUY4XWJU5DLNFJDZB2J3SMXAI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 03:48:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3WETNWOCTO7ZYNP7LEHEGFAJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과천정부청사 법무부 건물에 한 직원이 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 친일파 이해승의 후손이 토지를 매각해 얻은 부당이득금 약 78억원을 국가로 귀속하는 작업에 착수했다.&lt;br&gt;&lt;br&gt;법무부는 “이해승이 취득했던 경기 의정부시 호원동 토지 31필지를 매각하고 얻은 부당이득금 약 78억원에 대해 서울중앙지방법원에 부당이득반환 청구의 소를 지난 10일 제기했다”고 밝혔다. &lt;br&gt;&lt;br&gt;이해승은 일본 정부로부터 후작 작위를 받은 인물로, 친일반민족규명위원회는 2009년 5월 이해승이 일제로부터 후작의 작위를 받은 행위 등을 친일반민족행위로 결정했다. 친일반민족행위자 재산의 국가귀속에 관한 특별법은 친일반민족행위자가 러·일전쟁 개전 시인 1904년 2월부터부터 1945년 8월 15일까지 일제에 협력한 대가로 취득한 재산은 국가에 귀속하도록 돼 있다.&lt;br&gt;&lt;br&gt;앞서 법무부는 2020년 6월 이해승의 후손을 상대로 대상 토지 인접에 있는 토지 13필지에 대한 환수 소송을 제기했고, 대법원은 지난 6월 국가 전부 승소 판결을 내렸다. 당시 법무부는 31필지 매각대금 환수도 함께 검토했지만 소멸시효 등을 고려해 소 제기를 유보했다.&lt;br&gt;&lt;br&gt;이후 대법원이 작년 12월 “친일반민족행위자 후손의 소멸시효 주장은 권리남용으로서 허용될 수 없다”는 취지의 판결을 선고하자, 법무부는 소 제기를 보류했던 토지 31필지에 대해서도 환수 소송을 제기했다. 법무부는 “토지 31필지는 이해승이 친일행위의 대가로 취득한 것으로 그 후손이 보유하고 있다가 1999년에서 2006년 사이 및 2013년에서 2014년 사이에 제3자에게 순차 매각된 것으로 확인됐다”며 “법리적으로 환수가 가능하다고 판단했다”라고 설명했다.&lt;br&gt;&lt;br&gt;정성호 법무부장관은 “앞으로도 친일반민족행위자가 친일반민족행위로 모은 재산을 국가에 귀속시켜 정의를 바로 세우고, 일제에 저항한 3·1 운동의 헌법이념을 구현하기 위하여 최선의 노력을 다해 나가겠다”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>7년간 19일 미국 살고 “한국 국적 버리겠다” 소송 냈지만 패소</title>
       <link>https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</guid>
@@ -833,46 +869,6 @@
       <pubDate>Thu, 09 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>지난달 26일 발생한 대전 국가정보자원관리원(정보자원관리원) 본원 화재로 셧다운된 공공기관 온라인 시스템이 총 709개로 파악됐다고 행정안전부가 9일 밝혔다. 행안부는 애초 정보자원관리원 대전 본원 화재로 시스템 총 647개가 셧다운됐다고 밝혔는데 2주 만에 정정한 것이다. 정부의 시스템 관리 체계가 허술했던 탓에 현황 파악을 제대로 못 한 것 아니냐는 지적이 나온다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 이날 중앙재난안전대책본부 회의를 주재하면서 “정보자원관리원 내부 관리 시스템인 ‘엔탑스(nTOPS)’를 복구해 전체 장애 시스템 수를 확인할 수 있었다”며 “709개 시스템 목록을 정정 공개할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QKQ736KEENA7NAM5F4PGE3QNQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
 중대본 회의 앞서 묵념  지난달 26일 발생한 국가정보자원관리원 대전 본원 화재 사태와 관련해 9일 오전 정부서울청사에서 열린 중앙재난안전대책본부 10차 회의에 앞서 윤호중(오른쪽) 행정안전부 장관과 참석자들이 전산망 복구 작업을 하다 숨진 행안부 직원을 위해 묵념하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정보자원관리원 화재는 지난달 26일 오후 리튬이온 배터리 이설 작업 중 발생했다. 본원 5층 7-1 전산실 시스템이 모두 타버렸고 그 여파로 다른 시스템까지 셧다운됐다. 모바일 신분증, 우체국 우편·금융 등 서비스가 멈춰 국민 불편이 잇따랐다. 당시 행안부는 “대국민 행정 서비스 647개가 대전에서 가동되고 있었다”고 발표했다. 그러나 2주 만인 이날, 애초 셧다운된 시스템이 62개 늘어난 709개라고 정정했다.&lt;br&gt;&lt;br&gt;이에 따라 화재의 직접적인 영향을 받아 사실상 전소된 시스템 개수도 바뀌게 됐다. 정부는 화재 발생 당시 전소된 시스템은 70개라고 발표했다가 하루 뒤 96개로 정정했다. 그런데 대전 본원이 관리해 온 전체 시스템 개수를 647개에서 709개로 정정하면서 전소된 시스템 수도 변동 가능성이 있다는 게 행안부 설명이다.&lt;br&gt;&lt;br&gt;정부는 지난달 말 중단된 공공 온라인 시스템 중에서 국민 생활과 직결된 1등급 시스템이 36개인지 38개인지를 두고도 혼선을 빚었다. 이날 행안부가 발표한 기준을 따르면 1등급 시스템은 총 40개다. 김민재 행안부 차관은 “화재 피해 때문에 그동안 관제 웹사이트나 기존 자료, (관련 공무원) 기억에 의존해 설명할 수밖에 없었다”며 “연휴 초 엔탑스가 복구돼 (시스템 개수를 수정해) 발표하게 됐다. 혼선을 드려 송구하다”고 했다.&lt;br&gt;&lt;br&gt;정부는 화재로 불탄 본원 5층 7-1 전산실 시스템을 대구 분원으로 이설하겠다는 계획도 이날 수정했다. 김 차관은 “본원 5층 전산실 시스템은 세부 검토를 거쳐 대구 센터로 이전하거나, 대전 본원 내 전산실로 이전해 복구하기로 했다”고 했다. 지난달 29일 대구 이전 계획을 발표한 지 11일 만이다. 이재용 정보자원관리원장은 “(일부 시스템은) 대구로 이전해서 복구하는 것보다 대전에서 복구하는 게 빠르다고 판단했다”고 했다. 행안부 관계자는 “대구 센터(분원)에는 민간 기업도 입주해 있어 이전 협의가 지연되고 있다”고 했다. 이성엽 고려대 기술경영전문대학원 교수는 “정부가 기본적인 시스템 현황 파악에서 허둥지둥하는 것은 재해에 대비하기 위한 마스터플랜을 짜 놓지 않았음을 여실히 보여주는 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;행안부는 이날 오후 6시 기준 시스템 총 197개를 복구했다고 밝혔다. 복구율은 27.8%다. &lt;/b&gt;행안부는 완전히 불에 탄 본원 5층 7-1 전산실 시스템을 4층으로 이설하고 일부는 대구로 옮기기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘SNS로 미성년자에게 접근’... 성 착취물 받아낸 경찰관 등 9명, 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/10/4ZHQM2BBZNA2VBZSQRZINEGEG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/4ZHQM2BBZNA2VBZSQRZINEGEG4/</guid>
-      <dc:creator>부천=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 06:00:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPVQM2DLGJBMRNYX5U7ZGKQN3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부천오정경찰서 전경./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SNS로 미성년자에게 접근한 뒤 성 착취물을 받아낸 현직 경찰관 등 9명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 부천오정경찰서는 아동·청소년의 성보호에 관한 법률상 성 착취물 제작과 아동복지법 위반 등 혐의로 경북경찰청 소속 20대 A 순경 등 남성 6명을 구속해 검찰에 송치했다고 10일 밝혔다. 또 경찰은 30대 남성 등 3명을 같은 혐의로 불구속 입건, 송치했다. &lt;br&gt;&lt;br&gt;이들은 지난 1월부터 7월까지 10대 B양으로부터 신체 부위를 촬영한 사진과 영상 등 1회에서 최대 40여 차례 받아내 소지한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;지난 4월 B양의 부모는 피해 사실을 인지해 신고했고 경찰은 수사에 나섰다. &lt;br&gt;&lt;br&gt;이들은 서로 모르는 사이로 각자 SNS로 B양에게 접근했다. 이 중에는 현직 경찰관을 비롯해 군 장병, 미국 영주권자 등도 포함된 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “SNS로 직접 연락해 피의자들을 붙잡았고, 순차적으로 검찰에 송치했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 귀경길 고속도로 정체 시작…부산→서울 6시간 50분 </title>
-      <link>https://www.chosun.com/national/national_general/2025/10/06/2BL7PUHDZNDZTK64KI3MHZM2AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/06/2BL7PUHDZNDZTK64KI3MHZM2AU/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 06 Oct 2025 00:31:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGVLJBSMCVRGRLNFATP6MBUMOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석 연휴 첫날인 3일 오후 서울 서초구 잠원IC 부근 경부고속도로 하행선이 귀성 차량으로 정체를 빚고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 당일인 6일 오전 전국 주요 고속도로에서 귀성·귀경 행렬이 몰리면서 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;한국도로공사에 따르면 이날 오전 8시 기준 서울 요금소에서 전국 주요 도시까지 걸리는 시간은 부산 6시간 50분, 울산 6시간 30분, 목포 6시간, 대구 5시간 50분, 광주 5시간 40분, 강릉 3시간, 대전 2시간 20분이다.&lt;br&gt;&lt;br&gt;반대로 각 도시에서 서울까지 소요 시간은 부산 6시간 50분, 울산 6시간 30분, 대구 5시간 50분, 목포 5시간 10분, 광주 4시간 30분, 강릉 3시간 10분, 대전 1시간 30분이다.&lt;br&gt;&lt;br&gt;경부고속도로 서울 방향은 양재 부근부터 반포까지 7㎞, 칠곡분기점부터 칠곡분기점까지 2㎞ 구간에서 차량 정체가 이어지고 있다.&lt;br&gt;&lt;br&gt;부산 방향은 대전 터널부터 비룡분기점까지 2㎞, 옥산분기점 부근부터 옥산까지 5㎞, 천안분기점부터 천안호두휴게소까지 11㎞, 북천안 부근부터 천안까지 8㎞ 등에서 차량 운행이 지체되고 있다.&lt;br&gt;&lt;br&gt;서해안고속도로 목포 방향에서는 서평택분기점부터 서해대교까지 12㎞, 비봉부터 발안까지 16㎞, 서서울요금소부터 순산터널까지 5㎞ 등 구간에서 서행 중이다.&lt;br&gt;&lt;br&gt;중부고속도로 남이 방향은 호법분기점부터 모가까지 2㎞, 마장분기점부터 호법분기점까지 2㎞에서 가다 서다가 이어지고 있다.&lt;br&gt;&lt;br&gt;영동고속도로 강릉 방향은 용인부터 양지터널까지 6㎞, 마성터널부터 용인까지 4㎞ 구간에서 정체를 보인다.&lt;br&gt;&lt;br&gt;공사는 귀성 방향의 경우 오전 6~7시 정체가 시작돼 오후 3∼4시 정점을 찍고 오후 11시∼7일 오전 0시께 해소될 것으로 내다봤다. &lt;br&gt;&lt;br&gt;귀경 방향은 오전 7∼8시 막히기 시작해 오후 4∼5시 최대에 달한 뒤 7일 오전 1∼2시 풀릴 것으로 보인다.&lt;br&gt;&lt;br&gt;이날 전국 교통량은 667만대 정도로 예상된다. 이 중 수도권에서 지방으로 49만대, 지방에서 수도권으로 48만대가 이동할 것으로 공사는 예상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 당일, 전국 대체로 흐리고 비 </title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/06/FA7LQWJH3JDQXFQZH35RXP7KAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/06/FA7LQWJH3JDQXFQZH35RXP7KAI/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 23:49:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/THSQLRREC66CIPICYRA5KWGMJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석을 하루 앞둔 5일 서울 광화문에 비가 내리는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석인 6일 전국이 대체로 흐리고 곳곳에 비가 내리겠다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에서 7일까지 비가 내리다 소강상태를 보일 전망이다. 6~7일 예상 강수량은 인천·경기 남서부, 강원 산지·동해안, 대전·세종·충남, 부산 등 20~60㎜이다. 서울·경기와 강원 내륙, 충북엔 10~40㎜의 비가 내리겠다. 제주는 5㎜ 안팎의 비가 내릴 전망이다.&lt;br&gt;&lt;br&gt;전국 대부분 지역에 비가 내리면서 보름달을 보기 어렵겠다. 일부 남해안과 제주도에선 구름 사이로 보름달을 볼 수 있겠다.&lt;br&gt;&lt;br&gt;기온은 평년과 비슷하다. 추석 당일 아침 최저기온은 16~22도, 낮 최고기온은 17~26도로 예보됐다. 7일은 아침 최저 15~22도, 낮 최고 19~26도로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제니, 한글날 맞아 신규 글꼴 ‘젠 세리프’ 공개</title>
-      <link>https://www.chosun.com/national/people/2025/10/10/IIJI5KNWABHLPKC4RTEJUGV6QE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/10/IIJI5KNWABHLPKC4RTEJUGV6QE/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 15:51:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLACA2G7AFBLXHGIIHDLRT6G3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 블랙핑크의 제니(본명 김제니)가 한글날을 맞아 신규 한글 글꼴을 공개했다. &lt;br&gt;&lt;br&gt;9일 제니의 소속사 OA엔터테인먼트는 한글날인 이날부터 한글 글꼴 ‘젠 세리프(ZEN SERIF)’를 무료로 배포한다고 밝혔다. 젠 세리프는 서양의 전통 서체인 블랙 레터를 한글과 결합한 글꼴이다. 장식을 최소화해 본질을 살리고 딱딱한 인상을 덜어내면서 유연한 곡선을 더한 것이 특징이다. 글꼴은 OA엔터테인먼트 공식 홈페이지에서 무료로 내려받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UPIFPJU65FHHKGMN6YBMMVM2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; OA엔터테인먼트
-그룹 ‘블랙핑크’의 제니가 선보인 신규 한글 글꼴 ‘젠 세리프’.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 프로젝트는 메타와의 협업으로 진행돼 인스타그램의 숏폼(짧은 형태) 영상 편집 애플리케이션(앱) ‘에디트’에서도 젠 세리프를 사용할 수 있다. 에디트에 한글 글꼴이 등록된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;OA엔터테인먼트는 “제니는 전통의 미감과 현대적 감각을 담아낸 한글 폰트를 통해, 더 많은 사람들이 한글을 편리하고 아름답게 사용할 수 있기를 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VP3B26PPJZE6JDHJBWKOJUM4BE.jpg?auth=5aecefac41fe742db865cf7ff5c0b80509a61738992e9bbc1255fffd0e6071a6&amp;smart=true&amp;width=1920&amp;height=1080" type="image/jpeg" height="1080" width="1920">
-        <media:description type="plain">블랙핑크 제니(왼쪽)와 제니 글꼴(오른쪽)/사진 출처: 빌보드</media:description>
-      </media:content>
     </item>
     <item>
       <title>제주 우도서 판치는 전동카트 불법영업, 차량 몰수한다</title>
