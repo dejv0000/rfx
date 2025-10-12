@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>7년간 19일 미국 살고 “한국 국적 버리겠다” 소송 냈지만 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 03:27:49 +0000</pubDate>
+      <content:encoded>7년 동안 미국에 단 19일 머물렀던 미국·한국 복수국적자가 한국 국적을 포기하게 해달라며 소송을 냈지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 복수국적자 A씨가 법무부를 상대로 낸 국적이탈신고 반려처분 취소 소송에서 원고 패소로 판결했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;2005년 미국에서 태어난 A씨는 한국인 어머니와 미국인 아버지 사이에서 태어나 두 나라의 국적을 갖게 됐다. A씨는 쭉 미국에서 살다가 2015년 8월 한국에 들어온 뒤 인천의 한 국제학교에 다니며 약 7년간 국내에서 거주했다.&lt;br&gt;&lt;br&gt;2022년 6월 A씨는 미국으로 출국해 “한국 국적을 포기하겠다”며 법무부에 국적이탈 신고를 접수했지만, 약 3주 뒤 다시 한국으로 돌아왔다. 법무부는 이듬해 9월 “외국 주소 요건을 충족하지 못했고 실질적으로 국내에 거주하고 있다”며 신고를 반려했다. 이에 불복한 A씨는 법무부를 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;A씨는 자신이 미국에 주소를 두고 있어 국적 포기가 가능하다고 주장했다. 국적법 14조는 복수 국적자가 ‘외국에 주소가 있는 경우’에만 대한민국 국적을 이탈하고 외국 국적을 선택할 수 있다고 규정하고 있다.&lt;br&gt;&lt;br&gt;그는 “국적 이탈 신고서에 기재한 미국 주소는, 아버지가 직장을 다니면서 거주하는 곳이자 내가 미국 대학을 다니면서 방학 중에 머무는 곳이므로 생활 근거지에 해당한다”는 입장이었다. 또 국적 이탈이 허용되지 않으면 미국 연방 공무원으로 근무할 수 없어 직업 선택의 자유가 침해된다고도 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 받아들이지 않았다. 재판부는 국적 이탈의 요건인 ‘외국에 주소가 있는 경우’를 판단할 때는 실제 생활 근거가 어디인지, 국내 체류가 일시적·우연적 계기로 인한 것인지 등을 종합적으로 고려해야 한다며 “A씨가 국적 이탈 신고 당시 미국에 생활 근거를 두고 있었다고 보기 부족하다”고 판단했다. &lt;br&gt;&lt;br&gt;특히 재판부는 “A씨가 2015년 8월 입국 이후 2022년 6월 출국 전까지 미국에 머문 기간이 19일에 불과하다”며 “대부분의 기간 부모와 함께 국내에 거주했으므로 실제 생활 근거지는 한국으로 봐야 한다”고 밝혔다. 아울러 “외국 주소 보유 요건이 충족되지 않으면 법무부는 재량권을 행사할 여지 없이 국적 이탈 신고를 수리할 수 없으므로, 반려 처분은 적법하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“레슨비 횡령했다” 동아리 운영진 허위 소문 퍼트린 40대 男 벌금형</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/12/7EROCJF3VBEX5MXSEAZJBUCP2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/7EROCJF3VBEX5MXSEAZJBUCP2U/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 03:22:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKRLRU4HK37Y6NYBHUVILLTO7E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남부지방법원 남부지법 로고 현판&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부인이 테니스 동아리에서 탈퇴당하자 동아리 운영진을 상대로 허위 소문을 낸 40대 남편이 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;서울남부지법 형사13단독 김성은 판사가 정보통신망이용촉진 및 정보보호등에관한법률 위반 등 혐의로 재판에 넘겨진 회사원 최모(42)씨에게 벌금 100만원을 선고했다. &lt;br&gt;&lt;br&gt;최씨는 본인의 부인이 A테니스 동아리에서 탈퇴당하자, 동아리 운영진인 김모씨에 대한 불만을 갖게 됐다. 이에 최씨는 지난 2023년 5월 10일 B테니스 아카데미 회원 55명이 모인 단체 대화방에서 김씨에 대한 허위 소문을 퍼뜨렸다. “어느 시점부터 가입비 5만원과 정모(정기 모임) 레슨비가 김씨 개인 통장으로 입금됐다” “A동아리 재물을 보관하는 위치에 있는 김씨가 2023년 4월 30일 본인이나 제3자의 이익을 위해 재물을 처분했다는 제보가 있었다” 등의 내용이었다. 최씨는 김씨가 동아리 회원들로부터 받은 레슨비를 강사에게 지급하지 않았다는 의혹도 제기했다. &lt;br&gt;&lt;br&gt;하지만 동아리 운영진 김씨가 강사에게 돈을 지급하지 않거나, 동아리 회비를 횡령한 사실은 없었다. 김씨는 경찰 조사에서 “레슨비로 받은 돈은 코트 대여료·음료비·테니스공 구입에 썼고 1년에 1~2회씩 단체 대화방에 해당 내용을 공지했다”고 했다. 동아리 회원들도 “정모 레슨비가 어떻게 사용되고 있는지 알고 있었다”고 진술했다. 최씨가 제보를 받았다는 C, D씨 또한 “별 생각 없이 가볍게 이야기한 것”이라며 “이렇게 사건화될 줄 몰랐다”고 했다. &lt;br&gt;&lt;br&gt;김 판사는 “피고인의 배우자가 동아리에서 회원 간의 갈등 유발이라는 사유로 탈회됐을 뿐인데, 피고인은 그 과정에 불만을 품고 공소사실과 같은 글을 게시하게 된 것으로 보여 비방의 목적이 인정된다”며 “공익적 목적이 있다고 보기도 어려운 점 등을 종합하면 피고인이 피해자의 명예를 훼손하였다고 봄이 타당하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피고인의 범행으로 피해자가 상당한 정신적 고통을 겪었을 것으로 보이고, 현재까지 피해자로부터 용서받지 못한 점, 이 사건으로 동아리 운영이 종료된 점 등을 종합하면 약식 명령의 벌금액은 적정하다고 판단된다”며 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검 ‘구명 로비’ 이종호, ‘범인 도피’ 이원모 재소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/HJCR2UHSF5EJJCZXMTXNWSNVP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/HJCR2UHSF5EJJCZXMTXNWSNVP4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 02:55:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VRJY4PPIUVMLLFEG3DKHDRYETI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 12일 임성근 전 해병대 1사단장 구명 로비 의혹과 관련해 조사 받기 위해 서울 서초구 순직 해병 특검에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 12일 이종호 전 블랙펄인베스트 대표와 이원모 전 대통령실 인사비서관을 재소환해 각각 조사를 진행하고 있다. 특검은 13일 윤석열 전 대통령에 대해 소환 통보를 하고 조사에 나설 계획이다.&lt;br&gt;&lt;br&gt;이 전 대표는 이날 오전 9시 40분 법무부 호송 차량을 타고 서울 서초구 특검 사무실에 출석했다. 그는 “김건희 여사에게 임성근 전 해병대 1사단장의 구명을 부탁한 적 있느냐” 등 취재진의 질문에 답하지 않고 조사실로 올라갔다. 이 전 대표는 김 여사와의 친분을 이용해 고(故) 채수근 상병의 부대장인 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 10일 특검 첫 조사에서 “임 전 사단장과 아는 사이가 아니다”는 기존 입장을 고수한 것으로 전해졌다. 특검은 이 전 대표 등 해병대 출신으로 구성된 ‘멋쟁해병’ 멤버들이 임 전 사단장을 과실치사 혐의자에서 제외하기 위해 로비한 것으로 의심하고 있다. 이 전 대표는 지난 8월 변호사법 위반 등 혐의로 김건희 특검에 의해 구속 기소돼 서울구치소에 수용 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZZPOZHYFWVJ3TAA27YAAESQS2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이원모 전 대통령실 인사비서관이 12일 서울 서초구 순직 해병 특검 사무실에 피의자 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 55분쯤 특검 사무실에 출석한 이원모 전 비서관은 “이종섭 전 국방장관의 호주 대사 내정이 윤 전 대통령의 지시였느냐” 등 취재진 질의에 답변하지 않았다. 윤석열 정부 출범 이후 작년 1월까지 대통령실에서 인사 업무를 총괄한 이 전 비서관은 이 전 장관의 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’과 관련해 범인 도피 등 혐의를 받는다. 특검은 지난 1일에도 이 전 비서관을 피의자로 불러 조사했다.&lt;br&gt;&lt;br&gt;한편, 특검은 13일 윤 전 대통령에게 출석요구서를 보내 다음 주 중 조사를 받으라고 통보할 예정이다. 다만 윤 전 대통령이 해병 특검의 출석 요구에 응할지는 미지수다. 앞서 김건희·내란 특검도 윤 전 대통령을 상대로 수차례 출석요구서를 보냈지만 소환에 불응해 조사는 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>병원비 28만원 내주고 매수한 신생아 학대 30대女, 2심서도 ‘징역형 집유’</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/PDSMQVXGQVGPRP4DOJMG5RKCAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/PDSMQVXGQVGPRP4DOJMG5RKCAE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 01:49:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JFHVTU7ZXKOZ4JD3PYNTD4B3B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원비를 내주고 매수한 신생아를 키우는 과정에서 학대한 혐의로 기소된 30대 여성에게 1심에 이어 항소심에서도 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사항소 5-3부(재판장 이연경)는 아동복지법상 아동매매와 아동학대 혐의로 기소된 A(여·36)씨에게 1심과 같은 징역 1년에 집행유예 2년을 선고했다고 12일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 2018년 1월 25일 부산시 서구의 한 병원에서 병원비 28만8000원을 대신 결제해주고 신생아 B양을 매수한 혐의 등으로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 불임으로, 입양을 하려 했으나 조건 미달 등으로 어려움을 겪던 중 인터넷에서 ‘신생아를 데려가 키우실 분을 구한다’는 글을 보고 B양 부모에게 연락한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 이후 4년여 만인 2022년 9월 2일, 인천 강화군 주거지에서 파리채와 리모컨으로 B양의 왼쪽 허벅지와 왼쪽 어깨 부위를 여러 차례 때리는 등 신체적 학대를 하기도 했다. &lt;br&gt;&lt;br&gt;A씨 부부는 출생 신고 없이 B양을 키운 것으로 파악됐다. 때문에 B양은 예방접종 등 필수 보건·의료 서비스를 제대로 받지 못한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 A씨 부부가 B양의 기본적인 보호·양육과 치료·교육을 소홀히 하는 방임 행위를 했다고 보고 A씨와 A씨의 남편 C(42)씨에게 아동복지법상 아동 유기·방임 혐의도 적용해 재판에 넘겼다. &lt;br&gt;&lt;br&gt;그러나 1심과 항소심 재판부는 A씨의 아동매매와 아동학대 혐의는 인정하면서도 A씨와 C씨의 아동유기·방임 혐의는 무죄로 판단했다. &lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인들은 B양의 생후 15일일 때부터 이 사건으로 인해 아동보호전문기관으로 가게 된 2023년 6월(B양 나이 만 5세 5개월)까지 출생신고를 하지 않았다”며 “B양은 수십 개의 표준 예방접종을 받지 못했으며 체구가 매우 왜소하고 영양 공급 부족 등 증상을 보이는 등 피고인들이 기본적인 보호·양육을 소홀히 한 게 아닌지 의심이 든다”고 했다. &lt;br&gt;&lt;br&gt;그러나 “피고인들은 피해 아동에게 일부 예방접종과 병원 치료를 받게 하기도 했다”며 “양육 수준이 사회 평균보다 부족하더라도 아동복지법상 아동 유기·방임에 해당한다고 단정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 해운대 방파제 테트라포드에서 50대 男 떨어져 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/10/12/4GFWYPZU6JHXLI7RIF3C66O33M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/12/4GFWYPZU6JHXLI7RIF3C66O33M/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 01:20:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D4NLVTGGKJA5FJS5Y7TFZMNNMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 마린시티 앞 바다에 빠진 50대 남성을 소방당국과 해양경찰이 구조하고 있다.  /부산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대의 한 방파제에서 50대 남성이 테트라포드 아래 바다로 빠져 숨졌다.&lt;br&gt;&lt;br&gt;12일 부산해양경찰서와 부산소방재난본부에 따르면, 지난 10일 오후 11시쯤 부산 해운대구 마린시티 앞 방파제 테트라포드에서 50대 남성 A씨가 바다로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 해경과 소방당국이 수색에 나선 지 2시간여 만에 심정지 상태로 발견돼 병원으로 옮겼으나 숨졌다.&lt;br&gt;&lt;br&gt;해경은 A씨가 바다를 구경하려고 방파제 쪽 난간에 올라갔다가 발을 헛디뎌 테트라포드 사이로 빠졌다는 목격자 진술을 바탕으로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평 청평면 식당에서 화재... 잠자던 일가족 4명 참변</title>
+      <link>https://www.chosun.com/national/incident/2025/10/12/X54BZN6RE5AKFJCVCGFK6PCS2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/12/X54BZN6RE5AKFJCVCGFK6PCS2I/</guid>
+      <dc:creator>가평=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 01:11:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6UZZ6ITMJD37ISTBG4QE224BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가평 청평면 식당서 화재. /경기북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 가평군 청평면의 한 식당에서 불이 나 일가족 4명이 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 지난 11일 오후 11시 19분쯤 경기 가평군 청평면 청평리의 한 횟집에서 불이 났다. 출동한 소방대가 3시간 25분 만인 12일 오전 2시 45분쯤 불길을 완전히 잡았으나, 이미 1층 식당은 모두 불에 탄 상태였다.&lt;br&gt;&lt;br&gt;이 불로 식당 주인인 40대 부부와 10대 남매 등 가족 4명이 숨졌다. 이들은 모두 화재 당시 건물 안에 있다가 미처 대피하지 못한 것으로 전해졌다. 구조대가 현장에 도착했을 때 이들은 심정지 상태로 발견돼 인근 병원으로 이송됐으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;소방 당국은 소방관 72명과 경찰 17명 등 총 91명의 인력과 펌프차 7대, 구조차 9대 등 장비 35대를 투입했다. 불은 건물 1동(171㎡)과 집기류를 태워 약 5900만원의 재산 피해를 냈다.&lt;br&gt;&lt;br&gt;경찰과 소방은 정확한 발화 원인을 조사 중이다. 소방 관계자는 “현장 도착 당시 이미 불길이 건물 전체로 번져 인명 구조가 쉽지 않았다”며 “전기적 요인 등 여러 가능성을 열어두고 화재 원인을 분석 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>셧다운 시스템 복구율 34.1%…1등급은 40개 중 30개 복구</title>
       <link>https://www.chosun.com/national/national_general/2025/10/11/S7G5GUQODVHVVNB7D6QKMDG324/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/11/S7G5GUQODVHVVNB7D6QKMDG324/</guid>
@@ -821,55 +875,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 10월 10일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/10/4J3642MCNRADBPCZPOZARM3MOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/10/4J3642MCNRADBPCZPOZARM3MOU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DIQRTGI5FATTOQ4FZZBYQKOCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이진숙 체포한 警 “직무 관련성 따지려면 체포 불가피… 법원도 인정”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/HW4XRQOBIBBCDDWELR6WA3NQ4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/HW4XRQOBIBBCDDWELR6WA3NQ4U/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 09:29:50 +0000</pubDate>
-      <content:encoded>이진숙 전 방송통신위원장을 체포했던 경찰 측이 “공소시효 6개월 내에 반드시 이 전 위원장을 조사해야 했다”는 입장을 내놨다. 공소시효가 아직 10년 가까이 남았는데, 경찰이 공소시효가 3개월밖에 안 남았다는 이유로 이 전 위원장을 무리하게 체포했다는 변호인 측 주장을 반박한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M2W3ED6IHAX5NUTPWDZL2HEVBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 지난 2일 오후 서울 대치동 자택에서 경찰에게 체포된 뒤 영등포경찰서로 압송되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2일 이 전 위원장을 체포했던 서울 영등포경찰서는 5일 “공직선거법 위반 여부를 판단하기 위해 이 전 위원장에 대한 혐의 유무를 6개월 내에 반드시 조사할 필요가 있었다”고 밝혔다. 이날 이 전 위원장의 법률 대리인인 임무영 변호사는 소셜미디어를 통해 “경찰은 공소시효가 6개월밖에 안 남았다고 주장했지만, 공무원이 정치적 지위를 이용해 선거법을 위반했을 경우 공소시효는 10년이 된다”며 “경찰이 기본적인 법률 관계조차 따지지 않은 것”이라고 했었다.&lt;br&gt;&lt;br&gt;실제로 현행 공직선거법에선 공무원의 선거법 위반을 두 가지로 구분하고 있다. 공무원이 직무나 지위를 이용해 선거법을 위반했을 경우 공소시효는 10년이다. 하지만 공무원이 직무·지위와는 관계 없이 선거법만 위반했을 경우 공소시효는 6개월이다. 경찰은 이 전 위원장이 방송통신위원장이라는 지위를 통해 선거법을 위반했다고 보고 있기 때문에, 이 경우 공소시효는 10년이라는 것이 이 전 위원장 측 입장이다. &lt;br&gt;&lt;br&gt;경찰은 이에 대해 “공직선거법은 같은 행위를 했더라도 범행의 주체, 목적, 행위 등에 따라 적용 조항이 달라지기 때문에 반드시 6개월 안에 피의자를 조사해 직무 관련성 여부를 판단해야 한다”고 했다. 선거법 위반 행위의 직무 관련성을 따지기 위해 수사하다 6개월이 지난 후 직무 관련성이 인정되지 않는다면, 직무 관련성이 없는 일반적인 선거법 위반 혐의로도 기소할 수 없게 된다는 이유다. 경찰은 “법원에서도 이를 감안해 수사의 필요성과 체포의 적법성을 인정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 이 전 위원장 측은 지난달 27일 국회 출석이 불가피했다는 입장을 밝혔다. 이날은 당초 이 전 위원장이 경찰 조사를 받기로 한 날이지만, 이 전 위원장은 국회에 출석해 경찰서에 가지 못했다. 임 변호사는 5일 소셜미디어에 올린 글에서 “기관장이 자신의 기관이 사라지는 법률이 통과되는 현장에 있어야 하는 것은 상식 차원에서 당연한 의무”라고 했다. 또 “국회 역시 이날 이 전 위원장이 본회의장에서 자리를 비우지 말 것을 요구했다”고도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추석 연휴 내내 전국 가을비... “중부지방 보름달 보기 어려워요”</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/05/XKV2TVGM3VFSLGP3CU4EAJHOOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/05/XKV2TVGM3VFSLGP3CU4EAJHOOE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 07:07:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FENF62K45RIIHIBVOV4ION5AFQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;추석 명절을 하루 앞둔 5일 오전 서울 광화문 앞에서 외국인 관광객과 시민들이 우산을 들고 발걸음을 옮기고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석인 6일 전국에 비가 내리겠다. 중부지방은 보름달을 볼 수 없겠고, 남부지방과 제주에선 구름 사이로 옅은 달빛을 볼 수 있을 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 산둥반도 부근에서 서해상으로 이동하는 기압골의 영향으로 6~7일 전국에 비가 내리겠다.&lt;br&gt;&lt;br&gt;6~7일 예상 강수량은 서울·경기 10~40㎜, 인천 20~60㎜, 강원·충청 10~40㎜, 전북 5~30㎜, 광주·전남 5~10㎜, 대구·경북 5~10㎜, 부산·울산·경남과 제주 5㎜로 예보됐다.&lt;br&gt;&lt;br&gt;6일에는 오락가락 비가 내리는 가운데 전국이 대체로 흐리겠다. 남부지방과 제주는 비가 소강 상태를 보이는 곳이 있겠다. 이에 보름달은 남부와 제주에서만 관측이 가능할 것으로 보인다.&lt;br&gt;&lt;br&gt;6일 주요 도시 월출 시각은 서울 오후 5시 32분, 강릉 오후 5시 24분, 대전 오후 5시 30분, 대구 오후 5시 26분, 부산 오후 5시 24분, 광주 오후 5시 33분, 제주 오후 5시 35분으로 예상된다.&lt;br&gt;&lt;br&gt;8일에는 전국이 고기압 가장자리에 들며 대체로 흐리겠다. 9일에도 대체로 흐린 가운데 강원영동에 비가 내리겠다.&lt;br&gt;&lt;br&gt;이후 10일에는 강원영동, 11일에는 수도권과 강원도에 비 소식이 있다. 일요일인 12일부터 15일까지는 비 소식 없이 전국에 구름이 많을 것으로 예상됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title> 이진숙 긴급 체포 이유가 공소시효? 李측 “9년 넘게 남았다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/05/4BN6WOJ2TVFHRGZTUTV7KB6ZYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/05/4BN6WOJ2TVFHRGZTUTV7KB6ZYE/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 05 Oct 2025 05:44:48 +0000</pubDate>
-      <content:encoded>경찰이 이진숙 전 방송통신위원장을 체포한 것에 대해 “공직선거법상 공소시효가 얼마 남지 않았기 때문”이라는 이유를 댄 것으로 전해졌다. 이 전 위원장 측은 “법리에 따르면 이 전 위원장의 공소시효는 10년”이라며 “기본적인 법률 관계도 확인하지 않은 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMGUOLOENXTFFYOCJF26BENG3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 위원장의 법률 대리인을 맡고 있는 임무영 변호사는 5일 소셜미디어에 글을 올려 “4일 체포적부심사청구 심문 과정에서 경찰, 검찰은 공직선거법 공소시효가 12월 3일까지이기 때문에, 시기가 촉박해 체포의 필요성이 있다고 주장했다”고 밝혔다. &lt;br&gt;&lt;br&gt;일반적으로 공직선거법의 공소시효는 6개월이다. 경찰은 이 위원장의 발언이 지난 6월 대통령 선거에 영향을 미치려 했다는 혐의를 적용하고 있다. 이에 따라 대통령 선거가 치러진 지난 6월 3일에서 6개월 후인 12월 3일이 되면 공소시효가 지나 기소가 불가능해지기 때문에, 신속한 조사를 위해 체포가 불가피했다는 것이다. 경찰 관계자는 “이 전 위원장 체포 당시 공소시효도 고려한 것은 사실”이라고 했다. &lt;br&gt;&lt;br&gt;임 변호사는 이 같은 주장에 대해 “엉터리”라고 했다. 공직선거법상 공소시효가 6개월인 것은 맞지만, 공무원이 직무와 관련해 선거법을 위반했을 경우 이에 대한 공소시효는 10년까지 늘어난다는 것이다.&lt;br&gt;&lt;br&gt;그는 “경찰과 검찰은 이 전 위원장이 직무를 이용해 선거에 영향을 끼쳤다고 보고 있기 때문에 남은 공소시효는 적어도 9년 6개월 이상”이라며 “기본적인 법률 관계도 확인하지 않고 체포영장을 신청한 경찰이나, 그걸 청구하는 검찰을 신뢰할 수 있을지 의문”이라고 했다. 이에 대해 경찰 관계자는 “공소시효를 어떻게 보느냐는 법리 판단에 따라 달라질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장 체포에 앞서 경찰의 출석 요구서가 수차례 발송된 것도 공소시효가 촉박했기 때문으로 전해졌다. 임 변호사는 앞서 “이 전 위원장이 9월 27일에 경찰에 출석하기로 9월 9일 오전에 합의를 했다”며 “하지만 합의 이후인 9월 9일 오후와 12일에 출석요구서가 또 발송됐고, 이 전 위원장이 이에 불응했다는 것이 경찰 주장”이라고 했었다. &lt;br&gt;&lt;br&gt;임 변호사는 이에 대해서도 소셜미디어에 다시 글을 올렸다. 그는 “체포적부심을 받으며 해명을 요청했더니, 검찰 측으로부터 ‘공소시효가 촉박했기 때문에 이 전 위원장이 약속을 지키지 않을 것에 대비해 경찰이 예비적으로 출석을 요구한 것’이라는 해명이 나왔다”며 “터무니없고 상식에 반하는 주장”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QA73YKVJQJDM7C5TSDVBKXERV4.JPG?auth=543a91e9cdbe3e590d53072e251920abab0a86b60fbb26c7b97f6e1260f12e08&amp;smart=true&amp;width=3251&amp;height=1829" type="image/jpeg" height="1829" width="3251">
-        <media:description type="plain">이진숙 전 방송통신위원장이 4일 오후 서울 영등포경찰서에서 석방돼 귀가하고 있다. 이날 체포적부심사 심문을 진행한 법원은 이 전 위원장의 청구를 인용했다. 2025.10.4/뉴스1 ⓒ News1 신윤하 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 신윤하 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title> “역대급 최장 10일 연휴 끝나간다”… 다음 황금연휴는 언제?</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/09/SSYNRMANBFCXDBJQ7ZIUF2JVO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/09/SSYNRMANBFCXDBJQ7ZIUF2JVO4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 09 Oct 2025 14:39:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XGKNB5E3DXQEU3WPFVSGDWJRZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;추석연휴 엿새째인 8일 오후 서울 서초구 강남고속버스터미널에서 귀경객들이 버스에서 내려 이동하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;9일 한글날을 마지막으로 ‘황금 연휴’가 막을 내리면서, 일상 복귀를 앞둔 직장인들 사이에서는 다음 연휴 일정에 대한 관심이 쏠리고 있다. &lt;br&gt;&lt;br&gt;연말부터 살펴보면, 올해 12월 25일(목) 크리스마스에 26일(금) 하루 연차를 더하면 주말까지 이어져 나흘을 쉴 수 있다. 이어 12월 31일(수), 내년 1월 2일(금)에 휴가를 사용하면 1월 1일 신정과 주말을 끼워 최장 5일 연휴가 가능하다. &lt;br&gt;&lt;br&gt;내년 설 연휴는 2월 16~18일(월~수) 사흘이다. 여기에 19일(목)·20일(금) 연차를 붙이면 전주 주말부터 다음 주말까지 최장 9일 ‘황금 연휴’가 된다. 3월은 삼일절(일)이 주말과 겹쳐 대체공휴일 하루만 발생한다.&lt;br&gt;&lt;br&gt;5월에는 근로자의 날(1일·금), 어린이날(5일·화)에 더해 부처님 오신 날(24일·일)은 25일(월) 대체휴일이 적용돼 주말 포함 사흘을 쉴 수 있다.&lt;br&gt;&lt;br&gt;내년 추석은 9월 24~27일(목~일) 나흘 일정이다. 올해처럼 최장 10일에 달했던 초장기 추석 연휴는 2044년에나 다시 기대할 수 있다는 전망이다. 당시에는 10월 7일(금) 하루만 쉬면 최장 9일 연휴가 가능하다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제주 우도서 판치는 전동카트 불법영업, 차량 몰수한다</title>
       <link>https://www.chosun.com/national/regional/2025/10/10/44SLYMK7MBDNDJ2YV6EDWJ3TSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/10/44SLYMK7MBDNDJ2YV6EDWJ3TSY/</guid>
@@ -886,15 +891,6 @@
       <description/>
       <pubDate>Fri, 10 Oct 2025 03:59:42 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YTVQGPYPBZK2ZBO2MVDVABVTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세무 당국이 세금을 징수하는 과정에서 잘못이 있었더라도, 과세 처분의 근거가 된 법 해석에 다툼의 여지가 있는 등 ‘중대하고 명백한 잘못’이 아니라면 곧바로 무효로 간주해 돌려받을 수는 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 오경미 대법관)는 신한은행이 국가를 상대로 제기한 부당이득금 반환 청구 소송에서 원고 승소로 판결한 원심을 깨고 사건을 서울중앙지법으로 돌려보냈다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;신한은행은 고객들 계좌 자산에서 나온 이자·배당 소득에 대해 소득세법상 일반세율(14%)을 적용한 원천징수세를 납부해왔다. 그런데 2019년 서울 남대문세무서는 ‘신한은행 계좌 일부가 차명계좌로 확인됐다’며 2014~2017년 차명계좌 이자·배당 소득세에 원천징수세율 90%를 적용한 뒤, 이미 납부한 소득세를 제외한 차액 5026만원을 추가로 내라고 고지했다.&lt;br&gt;&lt;br&gt;남대문세무서의 이 같은 추가 징수 고지는 ‘차명계좌 자산은 비실명 자산’이라는 금융위원회의 유권해석에서 비롯됐다. 금융실명법상 ‘실명에 의하지 않고 거래한 금융자산’에서 발생하는 이자·배당 소득에 대해선 소득세 원천징수세율을 90%로 적용하게 돼 있다. 금융위는 고(故) 이건희 전 삼성전자 회장의 차명계좌 문제가 불거진 2017년 11월 ‘검찰 수사나 세무 조사 과정에서 뒤늦게 차명계좌로 드러난 경우 그 안에 든 자산을 금융실명법상 비실명 자산으로 보고 이자소득 등에 차등세율(90%)의 세금을 물려야 한다’는 법 해석을 내놨다.&lt;br&gt;&lt;br&gt;이후로 세무서들은 차명계좌가 발견된 금융기관에 90% 세율을 적용해 소득세를 징수했고, 금융기관들은 이에 반발해 잇따라 소득세 징수 처분 취소 행정소송을 냈다. 대법원은 이와 관련 2022년 “실명확인 절차를 거쳐 만들어졌다면 차명계좌여도 비실명 자산으로 볼 수 없고, 따라서 이자·배당 소득에 차등세율을 적용하는 건 위법하다”고 판결했다.&lt;br&gt;&lt;br&gt;신한은행은 일단 세금을 납부한 뒤 국가가 ‘부당이득’을 취했다며 돌려달라는 민사소송을 냈다. 이번 재판의 쟁점은 신한은행이 추가로 낸 ‘차명계좌 소득세’가 반환 청구가 가능한 부당이득에 해당하는지 여부였다. 과세 대상이 아닌데 세금을 매긴 경우 과세·징수에 ‘중대하고 명백한 하자’가 있다면 법률상 당연무효가 되고 납부한 세금은 부당이득이 된다.&lt;br&gt;&lt;br&gt;1·2심은 신한은행 손을 들어줬다. 1심 재판부는 “실명확인 절차를 거친 계좌의 금융자산은 무기명·가명거래 등에 의한 비실명 자산과 달리 차등세율 적용 대상이 아니다”라며 “신한은행은 정당한 세액을 초과해 납부했으므로 국가는 법률상 원인 없이 부당이익을 얻은 것”이라고 했다. 2심도 1심과 마찬가지로 초과해서 세금을 돌려줘야 한다고 판단했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 “차명계좌에 예치된 자산을 비실명 자산으로 볼 수 없다는 원심 판단은 정당하다”면서도 “세무서의 위법한 징수가 곧바로 무효로 부당이득이 되는 것 아니다”라며 판결을 뒤집었다. 이미 낸 세금을 부당이득으로 돌려받으려면 과세나 처분의 하자가 단순한 위법을 넘어 중대하고 명백해야 하는데, 이번 사건처럼 법 해석에 다툼의 여지가 있는 경우에는 곧바로 무효로 할 수는 없다는 취지다. 대법원은 “이런 경우 부당이득 반환을 구하는 민사소송이 아니라 징수 처분에 대해 행정소송을 제기해 처분의 취소를 구해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘음주 운전 적발’ 개그맨 이진호 여자 친구, 자택서 숨진 채 발견</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/10/TRE3EB2UDJDTJLKWAT2PGPTYXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/TRE3EB2UDJDTJLKWAT2PGPTYXI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 04:28:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JBZAE7YO7XOYHDOGYVLB6ZWYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 음주 운전을 하다 적발된 개그맨 이진호(39)의 여자친구가 자택에서 숨진 채 발견된 사실이 뒤늦게 알려졌다. &lt;br&gt;&lt;br&gt;10일 인천 부평경찰서 등에 따르면, 지난 5일 오전 8시 30분쯤 이진호의 여자친구 A씨가 인천 부평구의 한 아파트에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;앞서 이진호는 지난달 24일 오전 3시쯤 인천에서 경기 양평군까지 음주 운전을 한 혐의로 검거돼 경찰 조사를 받고 풀려났다.&lt;br&gt;&lt;br&gt;당시 한 매체는 이진호의 음주 운전을 신고한 사람이 여자친구인 A씨로 확인됐다고 보도했다. A씨는 이후 주변에 심적 부담감을 호소한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “현재까지 범죄 혐의점은 발견되지 않았다”며 “사망 원인에 대해서는 수사 중이지만 관련 내용은 밝힐 수가 없다. A씨가 이진호를 신고했다는 보도와 사망이 연관이 있는지 등도 밝힐 수 없다”고 했다. &lt;br&gt;&lt;br&gt;이진호는 지난 2005년 SBS ‘웃찾사’를 통해 데뷔했으며, tvN ‘코미디 빅리그’, JTBC ‘아는 형님’ 등을 통해 이름을 알렸다. 하지만 지난해 10월 자신의 공식 소셜미디어를 통해 인터넷 불법 도박으로 경찰 조사를 받게 된 사실을 스스로 알리고 방송 활동을 중단했다. 이진호는 특히 방탄소년단(BTS) 지민 등 주변 유명인에게 돈을 빌린 후 갚지 않은 사실도 알려져 논란이 커졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>추석 날 치매 남편 살해한 50대 아내... 아파트서 사망</title>
