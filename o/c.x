@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전기차 주차·충전 민원 月 1000건... 정부 “주민이 결정” 뒷짐</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 08:51:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQZPFI7L7FDW7JPBBENVNLZ7SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 대구 아파트 지하 주차장에서 충전 중 불이난 전기차./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 16일 서울 강서구 A아파트의 전기차 차주들은 전기차의 지하 주차를 제한하는 아파트 입주자대표회의 의결에 대해, 서울시에 문제를 해결해달라는 취지의 민원을 제기했다. 지난 6월 강서구 B아파트에서도 비슷한 내용의 민원이 시로 전달됐다. 비슷한 시기 경기도 수원, 고양, 성남, 부천, 파주 등에서도 전기차 주차, 충전 관련 주민 간 분쟁이 발생해 경기도로 민원이 제기됐다.&lt;br&gt;&lt;br&gt;전기차 화재 우려에 따른 주차, 충전기 설치 문제 등을 두고 서울·경기 지역에서만 매달 1000건가량 민원이 발생하는 것으로 나타났다. 그러나 정부는 현행법상 아파트 주차장 문제 등은 입주자대표회의 의결로 정하게 돼 있다는 이유로 이를 방치하고 있다는 지적이 나온다. 보조금까지 줘가며 전기차 도입을 늘리자고 주장하지만, 전기차 확산에 가장 중요한 인프라·주차 문제 등 갈등엔 손을 놓고 있다는 것이다.&lt;br&gt;&lt;br&gt;12일 국회 국토교통위원회 소속 더불어민주당 윤종군 의원실에 따르면 올해(1~8월) 서울, 경기 지역에서만 약 7900건의 민원이 제기된 것으로 나타났다. 이대로라면 지난해 전체 민원 수치(1만400건)를 넘을 가능성이 크다. &lt;br&gt;&lt;br&gt;현행 법규정상 전기차 충전기는 지하 3층 이상이면 어느 곳에나 설치할 수 있다. 그동안 지하 주차장이 있는 아파트들은 대부분 지하에 설치했다. 주차를 하면서 충전을 하는 것이 자연스럽고, 겨울철에 전기차를 야외에 두면 배터리 방전으로 성능이 떨어질 수 있기 때문이다.&lt;br&gt;&lt;br&gt;그러나 지난해 8월 인천 청라에서 대규모 전기차 화재가 발생하자, 전기차 화재 우려 공포가 커지며 여론이 바뀌었다. 지하 주차장은 화재가 발생하면 열기가 머물고 가스가 잘 빠져나가지 않는 데다, 소방차 진입도 힘들다는 것이다. 이에 전기차를 지하에 들어오지 못하게 하거나, 전기차 충전기를 지상으로 꺼내는 작업이 이뤄지고 있는데 이 과정에서 전기차 차주들과 입주민들과의 갈등이 발생하는 것이다.&lt;br&gt;&lt;br&gt;문제는 정부나 지자체 등이 나서 이를 해결하기 어렵단 것이다. 현행 공동주택관리법은 단지 안 주차장 등의 유지·운영 기준은 입주자대표회의의 의결 사항이라고 규정하고 있기 때문이다. 지난해 청라 사고 후 서울시가 “지하주차장에 90% 이하로 충전을 제한한 전기차만 주차할 수 있도록 권고할 것”이라고 발표했다가 반발이 일자 이를 철회했는데, 실제 현장에선 다툼과 민원이 증가하는 등 혼란이 지속되는 모습이다.&lt;br&gt;&lt;br&gt;전문가들은 갈등을 무작정 방치할 게 아니라 국토부가 안전이나 권리와 관련한 최소 기준은 명확히 하고, 관련 가이드 라인을 마련하는 식으로 나서야 한다고 말한다. 실제 전기차의 지하 주차장 금지를 규정하는 현행 법령이 없는 상황에서 입대의가 이를 의결한 것을 두고 소송이 진행될 경우, 문제가 될 가능성이 크다는 게 법조계의 공통된 견해다. 윤종군 의원은 “전기차 보조금과 충전 인프라는 국가가 의무화해놓고 정작 주차, 운영 갈등은 각자 해결하라는 건 정책의 불일치”라며 “정부가 나서 불필요한 분쟁을 줄여야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 사립대 80%, 교육부 해킹 대응 훈련 불참</title>
+      <link>https://www.chosun.com/national/education/2025/10/12/NSR64PHUAVHUROSVE2RNRM7OKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/12/NSR64PHUAVHUROSVE2RNRM7OKM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 09:06:13 +0000</pubDate>
+      <content:encoded>지난해 이화여대는 캄보디아와 홍콩에서의 해킹 공격으로 16만여 명의 개인 정보가 유출됐다고 교육부에 신고했다. 홍익대는 2022년부터 지난해까지 직원 실수 등으로 여섯 차례에 걸쳐 총 1만3750명의 개인정보가 유출됐다.&lt;br&gt;&lt;br&gt;최근 5년간 국내 대학에서 250만여 명의 개인 정보가 유출됐는데도, 상당수 대학들이 교육부 실시 ‘해킹 대비’ 모의 훈련에 불참한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 진선미 더불어민주당 의원실이 교육부에서 받은 자료에 따르면, 지난해 전국 대학 389곳 중 73%(283곳)가 사이버 위기 대응 훈련에 참가하지 않았다. 사립대가 더 심했는데, 사립대 342곳 중 지난해 이 훈련에 참가하지 않은 곳은 80%(275곳)에 달했다. 사이버 위기 대응 훈련은 대학 전산망이 해킹되거나 해킹메일을 수신한 경우, 디도스(DDoS) 공격을 인지한 경우 등을 가정한 대응 모의 훈련이다. &lt;br&gt;&lt;br&gt;이에 대해 사립대들은 대학 자체 모의 훈련을 실시해 정부 훈련에 참가하지 않았다는 입장이다. 실제로 사립대의 경우, 이들 훈련 참여가 의무는 아니다. 하지만 사립대에선 해킹이나 직원의 실수 등으로 매년 개인 정보 유출 사고가 다수 발생하고 있고, 피해 규모도 작지 않다. 지난해 대학에서 발생한 개인 정보 유출 사고 34건 중 65%(22건)가 사립대에서 발생했고, 피해자는 총 25만명이 넘었다. &lt;br&gt;&lt;br&gt;진선미 의원은 “해킹 등에 따른 개인 정보 유출 피해를 줄이기 위해선 대학에 대한 교육부의 정보 보안 관리 및 감독 강화와 더불어 사립대들이 사이버 위기 대응 훈련에 의무적으로 참여하도록 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검 ‘이종섭 도피 의혹’ 한동훈 소환 검토… 韓 “전혀 무관”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/12/4CHGSBVGSBGYTAMWTGDVU7RJPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/4CHGSBVGSBGYTAMWTGDVU7RJPA/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 12 Oct 2025 08:25:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPIDMK7MT63C52BKXGGIJOUVAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방장관의 주(駐)호주 대사 임명 및 도피성 출국 의혹과 관련해 고발된 한동훈·박성재 전 법무장관에 대한 소환 조사를 검토하는 것으로 12일 전해졌다. 한 전 장관은 “(범인 도피 의혹은) 저와 전혀 무관한 일”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;특검은 고(故) 채수근 상병 사건으로 입건돼 출국 금지돼 있던 이 전 장관이 호주 대사로 임명되고 출국하는 과정에 대통령실과 법무부, 외교부 관계자들이 관여한 정황을 포착해 수사 중이다. 이 전 장관은 지난 2023년 12월 호주 대사로 내정된 직후 법무부에 의해 출국 금지됐는데, 당시 법무장관이 한 전 장관이었다. 박 전 장관은 출국 금지가 해제돼 호주로 출국하던 작년 3월 재직 중이었다. 두 사람은 모두 범인 도피 및 직권남용 피의자로 입건돼 있다.&lt;br&gt;&lt;br&gt;특검은 호주 대사 의혹과 관련한 피의자들은 원칙적으로 소환 조사한다는 방침이다. 특검은 이날 “한 전 장관에 대한 조사는 구체적으로 일정이 정해지지 않았고, 박 전 장관에 대한 조사 일정은 조율 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 한 전 장관은 자신의 페이스북을 통해 “(작년 3월) 저는 국민의힘 비상대책위원장으로서 이 전 장관의 귀국을 공개적으로 강력히 촉구해서 대통령실과 충돌했고, 이후 국민의힘 당대표로서 채 상병 특검을 수용하자고 주장했다”며 “특검이 저보고 채 상병 사건의 피의자라니 황당한 소리”라고 적었다.&lt;br&gt;&lt;br&gt;한 전 장관은 “저는 이 전 장관의 출국 금지 당시 법무장관이었고, 해제 당시에는 국민의힘 비대위원장이었으므로 (이 사건과) 아예 무관하다”며 “장관 퇴임 후 이뤄진 출국 금지 해제에 책임이 있어 피의자로 입건했다는 코미디 같은 소리를 하고 있다”고 했다. 이어 “실력으로 수사 성과를 못 내니 저를 또다시 걸고넘어지며 지저분하게 언론 플레이하고 있다”며 “정치 특검에게 ‘뭐든 할 테면 하라’고 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세]  10월 13일 월요일 (음력 8월 22일 乙卯)</title>
       <link>https://www.chosun.com/national/national_general/2025/10/12/6E4Y7LWXJVHXRCWSHCT64G2GHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/6E4Y7LWXJVHXRCWSHCT64G2GHM/</guid>
@@ -871,24 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKP4QS753RGGL3EZHDR6ND7QLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양평군청 전경ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 부인 김건희 여사 관련 의혹으로 특별검사팀에서 조사받은 경기 양평군 공무원이 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;10일 양평경찰서에 따르면 양평군청 소속 50대 사무관급(5급) 공무원 A씨가 양평군 양평읍 소재 자신의 아파트 화장실에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;A씨의 동료들은 혼자 사는 A씨가 출근하지 않고 연락도 받지 않자 집으로 직접 찾아갔고, 숨진 A씨를 발견해 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;현재까지 타살 혐의점은 발견되지 않았으며 현장에서 A씨의 유서가 발견됐다.&lt;br&gt;&lt;br&gt;A씨의 유족들은 A씨가 생전 김 여사 관련 의혹을 수사하는 특검에 출석해 조사받은 적이 있다는 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 시신의 상태, 유족 진술, 현장 상황을 고려할 때 A씨가 스스로 목숨을 끊은 것으로 보고 자세한 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘동탄미시룩’에 댓글 단 이준석…“추근댄 적 없다” 법적 대응</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/10/VJZTQ3VRSJC2JMSBJTX74TT3CQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/10/VJZTQ3VRSJC2JMSBJTX74TT3CQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 00:08:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7R5U4XX7NZYROM6BLH7CBXXEWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표/뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이준석 개혁신당 대표(경기 화성을)가 최근 인스타그램에서 동탄신도시의 여성을 대상화한 ‘동탄 미시룩’ 관련 게시물에 댓글을 작성한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;이와 관련, 일부 네티즌 사이에서 ‘불순한 의도로 댓글을 달았다가 삭제했다’는 식의 주장이 나오자, 이 대표는 법적 조치를 예고하며 대응에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBNRK7SBZRGTDPWEYEFGRT6DIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 '동탄미시룩' 관련 게시물에 댓글을 달았다가 삭제했다고 주장하는 온라인 게시물./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 지난 9일 자신의 페이스북에 “마치 내가 여성에게 추근댄 것처럼 허위 사실을 유포하는 일부 무리들이 있다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이와 함께 자신이 댓글을 달았던 인스타그램 게시물을 공개했다. 여기엔 몸매가 드러나는 원피스를 입은 여성의 사진이 ‘동탄룩’ ‘동탄 미시룩’ 등의 설명과 함께 게시돼 있다. &lt;br&gt;&lt;br&gt;이 대표는 이 같은 게시물에 “동탄에 이런 복장 하시는 분 없다” “동탄에서 안 보이는 유형” 등의 댓글을 남겼다. &lt;br&gt;&lt;br&gt;그러나 이를 두고 일부 네티즌은 “(이 대표는) 영포티 그 자체다. 나중에 댓글 삭제까지 완벽하다”고 주장하며, 이 대표가 관련 게시물에 관심을 보인 뒤 댓글을 삭제한 것처럼 해석될 수 있는 글을 온라인상에 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KLOU3H3OAREQZBXSIHTBDXWG54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 '동탄미시룩' 관련 게시물에 단 댓글. 사진은 가수 선미./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 “동탄신도시에 사는 분들은 ‘동탄룩’ 같은 말로 도시 이미지가 왜곡되는 것을 싫어한다”며 “멀쩡히 아이를 키우며 어느 동네보다도 부지런히 살아가는 동탄맘들을 비하하는 밈이 있다면, 지역구 국회의원으로서 정정하는 것이 당연하다”고 해명했다. &lt;br&gt;&lt;br&gt;아울러 “어쭙잖게 공작할 생각은 하지 마시라. 당연히 아무 문제가 없는 댓글이기에 삭제하지도 않았다”며 “요즘 들어 기승을 부리니 이 유형도 법적 조치 취해두겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>현직 경찰관, 채팅 앱서 만난 여성 불법 촬영 혐의로 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/10/10/6ZUJBOE3ERCYPIO5QLEOBN2ERQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/10/6ZUJBOE3ERCYPIO5QLEOBN2ERQ/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 05:58:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰관이 채팅 앱을 통해 만난 여성의 신체를 불법 촬영한 혐의로 입건됐다.&lt;br&gt;&lt;br&gt;부산 중부경찰서는 성폭력처벌특례법 위반(카메라 등 이용 촬영) 혐의로 30대 현직 경찰관 A씨를 입건해 조사 중이라고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 최근 채팅 앱에서 만난 여성들의 신체를 불법 촬영한 혐의를 받고 있다. 그의 휴대전화에서는 여러 여성에 대한 불법 촬영물이 발견된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;부산 지역 지구대 소속인 A씨는 현재 직위 해제된 상태다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “수사 중인 사안으로 구체적인 내용은 알려줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제주 우도서 판치는 전동카트 불법영업, 차량 몰수한다</title>
       <link>https://www.chosun.com/national/regional/2025/10/10/44SLYMK7MBDNDJ2YV6EDWJ3TSY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/10/44SLYMK7MBDNDJ2YV6EDWJ3TSY/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Fri, 10 Oct 2025 01:26:25 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJD3W7Y3Z2GIHEFXDSOJ5ADLTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 내란 특검이 기소한 체포방해 사건 재판에 건강 문제를 들어 불출석했다. 재판부는 불출석 사유가 정당하지 않다고 보고 피고인 없이 증인 신문을 하는 ‘기일 외 증거조사’ 방식으로 재판을 진행하기로 했다.&lt;br&gt;&lt;br&gt;10일 서울중앙지법 형사35부(재판장 백대현)는 윤 전 대통령의 특수공무집행방해·직권남용 등 사건의 두 번째 재판을 열었다. 이 재판에선 윤 전 대통령의 체포 영장 집행 저지, ‘계엄 국무회의’ 불참 국무위원에 대한 심의권 침해, 허위 계엄 선포문 사후 작성, 비화폰 기록 삭제, 계엄 관련 허위 공보 등 5가지 혐의를 심리한다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 건강 등 사유로 출석이 어렵다는 취지를 기재한 불출석 사유서를 제출했다”며 “정당한 사유가 없는 것으로 보인다”고 했다. 이어 “교도관의 인치를 거부하고 있는지 등 조사를 한 뒤 다음 기일부터는 피고인 없이 궐석 재판을 진행할지 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이날 재판이 공전되는 것을 막기 위해 ‘기일 외 증거조사’ 방식으로 진행하기로 했다. 일단 피고인 없이 증인 신문이나 증거 조사 등을 한 뒤, 나중에 정식 재판에서 증거 채택에 관해 피고인 의사를 확인하는 방식이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 7월 10일 특검에 의해 구속된 이후 내란 우두머리 혐의 재판에 13차례 연속 불출석했다. 그러다가 체포방해 사건 첫 재판과 보석 심문이 진행된 지난달 26일에는 법정에 출석하고 직접 석방 필요성을 주장했다. 이후 두 차례 내란 재판에는 또 다시 나오지 않았다. 윤 전 대통령의 보석 청구는 지난 2일 기각됐다.&lt;br&gt;&lt;br&gt;특검 측은 “지난 재판과 보석 심문에 출석했던 피고인이 보석 청구가 기각되자 다시 불출석했다”며 “본인의 임의적 판단에 따라 선택적 출석을 하는 데 대한 우려가 있다”고 했다. 그러면서 “피고인 태도를 볼 때 앞으로도 불출석하며 재판 진행을 방해할 것으로 예상되므로 구인 영장 발부 등 단호한 조치를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 재판부는 윤 전 대통령 측이 내란 특검법의 위헌성을 주장하며 낸 위헌 법률 심판 제청 신청을 검토하겠다고 밝혔다. 재판부는 “변호인의 제청 신청에 대해 검토가 필요한 것으로 보인다”고 했다. 다만 “이 사건은 신속한 절차 진행이 필요하다고 판단되므로 검토와 별개로 공판 절차는 계속 진행하겠다”고 했다. &lt;br&gt;&lt;br&gt;위헌 법률 심판은 법률이 위헌 소지가 있어 재판에 영향을 미칠 때 헌법재판소에서 위헌 여부를 심판받는 제도다. 재판부가 직권 또는 소송 당사자 신청을 받아 헌재에 제청할 수 있다. 재판부가 헌재에 제청할 경우 헌재 결정이 나올 때까지 재판은 정지된다. 윤 전 대통령 변호인단은 내란 특검법이 헌법상 적법절차 원칙과 명확성 원칙 등을 위반해 공정한 재판을 받을 권리를 침해한다며 지난 1일 재판부에 위헌 심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 변호인은 “특정 정당(국민의힘)을 배제한 특검 임명 과정은 정치적 중립을 위반한 것”이라며 “대통령 기록물 열람 조건 완화 등 특검에 이례적인 수사 특권을 부여하는 내용 등도 위헌”이라고 주장했다. 또 12·3 비상계엄과 관련해 자수하거나 범죄를 저지른 타인을 고발한 때 형을 감경·면제할 수 있도록 규정한 내란 특검법 25조를 두고 “증인들에게 피고인에게 불리한 진술을 강요하게 한다”며 “자백 증거 법칙(자백이 유일한 증거일 경우 보강 증거가 필요하다는 원칙)을 위반할 소지가 있는 이례적인 플리바게닝(유죄협상제) 도입”이라며 “특검의 임명 절차 하자에서 비롯된 문제로 공정한 재판을 받을 권리를 침해한다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 이에 대해 “문제 삼는 개별 조항은 국회의 입법권 행사 범위 내에서 입법이 가능한 것으로 보인다”며 “해당 조항의 위헌 여부가 본 재판에 영향을 미친다고 볼 수 없다”고 했다&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘구명 로비 의혹’ 이종호, 해병 특검 첫 참고인 조사 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/10/CK5T5I56LZB5ZHEGWIS6IDT4WQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/10/CK5T5I56LZB5ZHEGWIS6IDT4WQ/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 01:14:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXRMKCH2SJMNHJ4SMZ4I4FRKOM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스 대표가 10일 오전 서울 서초구 해병 특검 사무실에 참고인 신분으로 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이종호 전 블랙펄인베스트 대표가 10일 순직 해병 특검에 첫 조사를 받기 위해 출석했다. 이 전 대표는 고(故) 채수근 상병의 부대장이던 임성근 전 해병대 1사단장에 대한 ‘구명 로비’ 의혹의 참고인 신분이다.&lt;br&gt;&lt;br&gt;이 전 대표는 이날 오전 9시 14분쯤 호송 차량을 타고 서울 서초구 해병 특검 사무실에 도착했다. 그는 “임 전 사단장과 언제부터 알고 지냈나” “김건희 여사에게 임 전 사단장의 구명을 부탁한 적 있나” 등 취재진 질문에 아무런 답을 하지 않았다.&lt;br&gt;&lt;br&gt;해병 특검은 이 전 대표가 채 상병 사망 사건과 관련해 임 전 사단장을 과실치사 혐의자에서 빼기 위해 과거 친분이 있던 김건희 여사를 통해 구명을 청탁했다는 의혹을 수사 중이다. 이와 관련 특검은 지난 7월 이 전 대표를 압수수색했다. 지난 8월에는 이 전 대표가 휴대전화를 파손해 한강변 쓰레기통에 폐기한 정황을 포착하기도 했다.&lt;br&gt;&lt;br&gt;이 전 대표는 지난 8월 변호사법 위반 등 혐의로 김건희 특검에 의해 구속 기소돼 서울구치소에 수용됐다. 이 전 대표는 도이치모터스 주가 조작 사건 공범인 이정필씨를 “윤석열 전 대통령 부부에게 말해 집행유예가 나오도록 해주겠다”는 취지로 회유해 20여 차례에 걸쳐 8000여 만원을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;해병 특검의 정민영 특검보는 10일 언론 브리핑에서 “(이 전 대표를 상대로) 임 전 사단장과의 관계 및 구명 로비 의혹에 대한 조사를 진행할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘어금니 아빠’ 사형 선고 판사, 윤유선 남편이었다…‘이혼숙려캠프’ 합류</title>
