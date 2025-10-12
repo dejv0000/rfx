@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북도 6급 공무원 숨진 채 발견… 유서엔 직장 어려움 호소</title>
+      <link>https://www.chosun.com/national/incident/2025/10/12/RQZVTYBRRJFZHJ67BF4PIR5UB4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/12/RQZVTYBRRJFZHJ67BF4PIR5UB4/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>12일 오후 1시 40분쯤 경북 예천군 호명읍 한 도로에 세워진 차량에서 경북도청 소속 6급 공무원 40대 A씨가 숨진 채 발견됐다.</description>
+      <pubDate>Sun, 12 Oct 2025 11:06:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTOVNMDDNN3PYIIA77NPJHEIBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오후 1시 40분쯤 경북 예천군 호명읍 한 도로에 세워진 차량에서 경북도청 소속 6급 공무원 40대 A씨가 숨진 채 발견됐다. A씨는 유서에 직장에서 겪은 어려움을 호소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 올 상반기 추가 근무 수당 부당 수령과 관련해 징계를 받았으며, 최근 같은 부서 여직원과의 부적절한 소문이 퍼지자 심리적 부담을 느껴온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 등은 관계자 등을 대상으로 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살 예방 SNS 상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전기차 주차·충전 민원 月 1000건... 정부 “주민이 결정” 뒷짐</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</guid>
@@ -941,15 +950,6 @@
       <description/>
       <pubDate>Fri, 10 Oct 2025 02:19:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5CYCV46LLYFUZTLR364NG3JE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 괴산군보건소에서 한 어르신이 대상포진 예방접종을 하고 있다. /괴산군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;어르신을 대상으로 한 대상포진 예방접종 지원 사업이 지역별로 편차가 심한 것으로 나타났다. 시·군·구 10곳 중 3곳은 지원 자체를 하지 않았고, 지원하는 지방자치단체들도 지원 금액의 차이가 컸다.&lt;br&gt;&lt;br&gt;10일 국회 보건복지위원회 소병훈 의원이 질병관리청에서 제출받은 ‘지자체별 어르신 대상포진 예방접종 자율사업 현황’을 전수 분석한 결과, 229개 지방자치단체 중 62곳(27.1%)은 어르신 대상포진 예방접종 지원 사업을 하지 않고 있는 것으로 나타났다. 대상포진은 본인이 전액 비용을 부담해야 하는 ‘선택예방접종’이다.&lt;br&gt;&lt;br&gt;전국 17개 광역자치단체 중 광주·울산·전북·전남·제주를 제외한 나머지 지역에서는 시·군·구 단위별로 지원 유무가 제각각이었다. 부산은 16개 자치구·군 중 강서구와 기장군을 제외한 14곳에서 지원 사업이 없었다. 대구는 9곳 중 군위군 1곳만 시행했다. 경기도는 31곳 중 17곳만 지원이 있었다.&lt;br&gt;&lt;br&gt;지원사업을 시행 중인 167곳도 지자체 사정에 따라 지원 금액과 연령·소득 기준이 제각각이었다. 충남 서산시는 18만5000원, 전북 임실군은 18만원을 지원하지만 경북 구미시는 1만2580원, 충남 계룡시는 4만4450원 지원에 그쳤다. 같은 예방접종임에도 지원액이 최대 14배까지 차이가 나는 것이다. 대상자 연령 기준도 60세 이상, 65세 이상, 70세 이상 등 지자체마다 상이했다. &lt;br&gt;&lt;br&gt;소병훈 의원은 “대상포진은 면역이 약한 고령층에게 흔한 질환인데, 사는 지역에 따라 지원이 달라지는 것은 명백한 건강 불평등”이라며 “국가가 전국민 단위 예방접종 기준을 세워야 한다”고.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤석열, 체포방해 혐의 재판에도 불출석...재판부 “정당한 사유 없어”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/10/KBTQ6IZLPNE3BL2JLMSELT7J2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/10/KBTQ6IZLPNE3BL2JLMSELT7J2Y/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 01:26:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OJD3W7Y3Z2GIHEFXDSOJ5ADLTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 내란 특검이 기소한 체포방해 사건 재판에 건강 문제를 들어 불출석했다. 재판부는 불출석 사유가 정당하지 않다고 보고 피고인 없이 증인 신문을 하는 ‘기일 외 증거조사’ 방식으로 재판을 진행하기로 했다.&lt;br&gt;&lt;br&gt;10일 서울중앙지법 형사35부(재판장 백대현)는 윤 전 대통령의 특수공무집행방해·직권남용 등 사건의 두 번째 재판을 열었다. 이 재판에선 윤 전 대통령의 체포 영장 집행 저지, ‘계엄 국무회의’ 불참 국무위원에 대한 심의권 침해, 허위 계엄 선포문 사후 작성, 비화폰 기록 삭제, 계엄 관련 허위 공보 등 5가지 혐의를 심리한다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 건강 등 사유로 출석이 어렵다는 취지를 기재한 불출석 사유서를 제출했다”며 “정당한 사유가 없는 것으로 보인다”고 했다. 이어 “교도관의 인치를 거부하고 있는지 등 조사를 한 뒤 다음 기일부터는 피고인 없이 궐석 재판을 진행할지 결정하겠다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 이날 재판이 공전되는 것을 막기 위해 ‘기일 외 증거조사’ 방식으로 진행하기로 했다. 일단 피고인 없이 증인 신문이나 증거 조사 등을 한 뒤, 나중에 정식 재판에서 증거 채택에 관해 피고인 의사를 확인하는 방식이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 7월 10일 특검에 의해 구속된 이후 내란 우두머리 혐의 재판에 13차례 연속 불출석했다. 그러다가 체포방해 사건 첫 재판과 보석 심문이 진행된 지난달 26일에는 법정에 출석하고 직접 석방 필요성을 주장했다. 이후 두 차례 내란 재판에는 또 다시 나오지 않았다. 윤 전 대통령의 보석 청구는 지난 2일 기각됐다.&lt;br&gt;&lt;br&gt;특검 측은 “지난 재판과 보석 심문에 출석했던 피고인이 보석 청구가 기각되자 다시 불출석했다”며 “본인의 임의적 판단에 따라 선택적 출석을 하는 데 대한 우려가 있다”고 했다. 그러면서 “피고인 태도를 볼 때 앞으로도 불출석하며 재판 진행을 방해할 것으로 예상되므로 구인 영장 발부 등 단호한 조치를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 재판부는 윤 전 대통령 측이 내란 특검법의 위헌성을 주장하며 낸 위헌 법률 심판 제청 신청을 검토하겠다고 밝혔다. 재판부는 “변호인의 제청 신청에 대해 검토가 필요한 것으로 보인다”고 했다. 다만 “이 사건은 신속한 절차 진행이 필요하다고 판단되므로 검토와 별개로 공판 절차는 계속 진행하겠다”고 했다. &lt;br&gt;&lt;br&gt;위헌 법률 심판은 법률이 위헌 소지가 있어 재판에 영향을 미칠 때 헌법재판소에서 위헌 여부를 심판받는 제도다. 재판부가 직권 또는 소송 당사자 신청을 받아 헌재에 제청할 수 있다. 재판부가 헌재에 제청할 경우 헌재 결정이 나올 때까지 재판은 정지된다. 윤 전 대통령 변호인단은 내란 특검법이 헌법상 적법절차 원칙과 명확성 원칙 등을 위반해 공정한 재판을 받을 권리를 침해한다며 지난 1일 재판부에 위헌 심판 제청을 신청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 변호인은 “특정 정당(국민의힘)을 배제한 특검 임명 과정은 정치적 중립을 위반한 것”이라며 “대통령 기록물 열람 조건 완화 등 특검에 이례적인 수사 특권을 부여하는 내용 등도 위헌”이라고 주장했다. 또 12·3 비상계엄과 관련해 자수하거나 범죄를 저지른 타인을 고발한 때 형을 감경·면제할 수 있도록 규정한 내란 특검법 25조를 두고 “증인들에게 피고인에게 불리한 진술을 강요하게 한다”며 “자백 증거 법칙(자백이 유일한 증거일 경우 보강 증거가 필요하다는 원칙)을 위반할 소지가 있는 이례적인 플리바게닝(유죄협상제) 도입”이라며 “특검의 임명 절차 하자에서 비롯된 문제로 공정한 재판을 받을 권리를 침해한다”고 했다.&lt;br&gt;&lt;br&gt;특검 측은 이에 대해 “문제 삼는 개별 조항은 국회의 입법권 행사 범위 내에서 입법이 가능한 것으로 보인다”며 “해당 조항의 위헌 여부가 본 재판에 영향을 미친다고 볼 수 없다”고 했다&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘어금니 아빠’ 사형 선고 판사, 윤유선 남편이었다…‘이혼숙려캠프’ 합류</title>
