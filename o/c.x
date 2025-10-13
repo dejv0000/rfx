@@ -13,6 +13,97 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“늘 굿샷만 칠 수 없어, 개선하려는 의지 더 중요”</title>
+      <link>https://www.chosun.com/national/people/2025/10/13/XOXQHWVIJBDNDLRYBQ2AQKWCQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/13/XOXQHWVIJBDNDLRYBQ2AQKWCQA/</guid>
+      <dc:creator>김동현 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 10:00:00 +0000</pubDate>
+      <content:encoded>“긴장은 나쁜 게 아니에요. 내가 하고 있는 일에 진심이라는 증거죠.”&lt;br&gt;&lt;br&gt;한국 테니스 유소년 선수 문성민(14)군이 “시합 중 심장이 쿵쾅거릴 정도로 긴장될 땐 어떡하나요”라고 묻자, 스위스의 ‘테니스 황제’ 로저 페더러(44)가 이렇게 답했다. 그는 “상대도 나처럼 긴장한다는 걸 잊지 말고, 5분만 기다리면 페이스를 되찾을 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6KNPJVOWVFWDFY7S4FW4MCCPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'테니스 황제' 로저 페더러가 13일 서울 신라호텔에서 한국 유소년 테니스 선수들과 기념 촬영을 하고 있다./유니클로&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;페더러는 현역 시절 메이저 통산 20승에 누적 획득 상금은 1억3000만달러(약 1860억원)를 웃도는 ‘레전드’. 2022년 은퇴 전까지 라파엘 나달(39·스페인), 노바크 조코비치(38·세르비아)와 함께 세계 남자 테니스계의 황금기를 이끌었다. 그런 페더러가 13일 자신이 홍보대사로 일하는 글로벌 패션 업체 유니클로 초청으로 서울 신라호텔을 찾아 국내 유소년 선수 20명을 만났다. ‘미래 세대 육성 캠페인’이란 주제로 열린 이날 행사에서 페더러는 선수 한 명 한 명과 직접 공을 주고받은 뒤 질의응답 시간까지 가졌다. 현역 때 보여준 카리스마 있는 눈빛은 온데간데없이, 시종일관 웃으며 학생들과 하이파이브를 하거나 “코트가 빠른 편이니 좀 더 네트에 접근해서 쳐라” 같은 조언을 했다. ‘기초적인 실수가 반복되면 어떡하냐’는 물음엔 “늘 ‘굿샷’만 날릴 수 없다”며 “실수도 게임의 일부로, 이를 인정하고 개선하려는 태도가 훨씬 중요하다”는 진심 어린 충고도 건넸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGA52MGBIBAULNVHEZMFTKGYQM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 신라호텔을 찾은 '테니스 황제' 로저 페더러가 한국 유소년 선수들 앞에서 공을 치는 시범을 보이고 있다./유니클로&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행사를 마친 페더러는 “한국 유소년들이 얼마나 테니스를 사랑하는지 느껴져 즐거웠다”며 “앞으로 테니스를 하면서 마음이 아픈 순간도 있겠지만 그것도 스포츠의 묘미라고 생각하고 나아가길 바란다”고 했다. 한편 이날 페더러가 유소년 선수들과 팀을 이뤄 치른 2대2 복식 매치에선 관중석에 있던 이형택 오리온 테니스단 감독이 코트에 ‘깜짝’ 등장하기도 했다. 이 감독은 현역 시절 국내 선수 중 유일하게 페더러와 맞붙었던 선수로, 2007년 몬테카를로 마스터스 16강에서 0대2로 패했다. 두 선수의 18년 만의 재회에 관중석에서 박수가 쏟아졌고, 페더러와 이 감독도 게임을 마친 뒤 관중들의 함성에 포옹으로 화답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 옥중서 “1.8평 독방, 감옥 아닌 기도의 장소… 국민께 감사”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/A4ANDOMIXVEIHHKPYNLAVTWEJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/A4ANDOMIXVEIHHKPYNLAVTWEJM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:53:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5YQEUZEFYH4H6MJ6IXTUQ4NEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. 2025.9.26/뉴스1 ⓒ News1 사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울구치소에 구속 수감 중인 윤석열 전 대통령이 추석 연휴 뒤 소셜미디어를 통해 옥중 인사를 전했다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 변호인인 배의철 변호사는 13일 오후 페이스북에 ‘윤석열 대통령의 추석 연휴 말씀을 전합니다’ 제목의 글을 올리고 윤 전 대통령이 쓴 글을 공개했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “긴 추석 연휴, 운동도 1회밖에 허락되지 않은 1.8평의 독방. 하지만 감옥이라는 생각보다 기도의 장소를 허락하심에 감사하다”며 “연휴 내내 여러분이 보내주신 편지와 성경을 읽고 묵상하며 기도했다”고 적었다. 이어 “눈물로 써주신 편지들, 이름 모를 중보의 기도들, 그 모든 것이 제 힘이요 방패가 된다. 국민 여러분께 깊이 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 또 “’주의 말씀이 내 길에 빛이니이다’라는 시편의 말씀이 어둠을 밝혔다. 특히 미래세대인 청년들이 꿈과 희망을 놓지 않도록 역사의 주관자이신 하나님과 주 예수 그리스도께 간절히 기도했다”며 “진실과 공의, 그리고 믿음으로 이 땅이 다시 일어서기를, 국민 여러분을 위해, 자유대한민국을 위해 기도한다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 앞서 지난달 26일 열린 보석 심문에서 “주 4~5회 재판해야 하고 특검에서 부르면 가야 하는데, 구속 상태에서는 제가 못한다”며 발언한 바 있다. 윤 전 대통령은 “일단 구속이 되고 나서 1.8평짜리 방 안에서 ‘서바이브’하는 것 자체가 힘들었다”며 “방 밖으로 못 나가게 하는데, 강력범 이런 게 아니면 약간의 위헌성이 있다”고도 했다. 당시 윤 전 대통령 측은 당뇨병 합병증으로 인한 실명 위험성이 있다는 점을 언급했다.&lt;br&gt;&lt;br&gt;이런 가운데 윤 전 대통령은 이날 내란 우두머리 혐의 재판에도 불출석했다. 재판부가 “오늘도 피고인(윤 전 대통령)이 불출석했다”며 “계속해서 말하지만 (불출석에 대한) 불이익은 피고인이 부담하게 된다”며 “피고인을 설득해 재판에 출석하게 하는 것이 좋겠다”고 했다.이에 윤 전 대통령 측은 “건강상 여건, 다른 수사 여건 등을 고려하면 감당하기 어렵다”며 “재판 거부라기보다는, 윤 전 대통령이 처해있는 여건 속에서 ‘방어권 행사’로 봐 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아에서 통장 빌려준 30대 男, 검찰 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/10/13/OQPJCVRLQRF25LV5FI3NHBIG3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/13/OQPJCVRLQRF25LV5FI3NHBIG3A/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:48:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSKVTIT3D3ZYYOYI2TMZ3EQ7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 범죄 조직에 자신의 통장을 빌려준 뒤 거래가 중지되자 국내로 들어와 은행을 찾았다가 붙잡힌 30대 남성이 검찰에 넘겨졌다. 이 남성은 캄보디아에서 자신이 감금됐었다고 주장한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;인천 계양경찰서는 전자금융거래법 위반 혐의로 30대 남성 A씨를 검찰에 송치했다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 8월 19일부터 20일까지 220차례에 걸쳐 약 10억원이 입출금되도록 자신의 통장을 제3자에게 제공한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “캄보디아로 돈을 벌러 갔다가 불법 도박 사이트 운영 조직에 연루돼 자신의 계좌를 빌려줬다”고 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 범죄 정황 등으로 입출금 거래가 정지된 계좌를 풀기 위해 같은 달 25일 국내로 들어와 은행을 찾았다가 계좌 내역 등을 수상히 여긴 경찰에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;A씨는 정지된 계좌를 풀면 이체 금액의 2~3%를 수수료로 주고 중간책으로 등급을 높여준다는 제안을 받아들여 국내로 들어왔다고 경찰에 진술했다. &lt;br&gt;&lt;br&gt;A씨는 “(캄보디아에서) 밥을 안 주고 생수병 10병만 줘서 죽다 살았다”며 “다른 한국인 1~2명이 같이 있었다”고 진술한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 법원으로부터 압수수색 영장을 받아 계좌 내역을 분석한 뒤, A씨의 계좌로 자금이 오간 사실을 확인했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 계좌를 불법 양도한 것을 확인해 검찰에 넘겼다”며 “최근 캄보디아에서 발생한 한국인 대학생 사망 사건과 직접적인 연관성은 확인되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> 천대엽 “李 선거법 사건, ‘지연된 정의는 정의 아니다’가 다수의견... 재판 연기는 개별 재판부 판단”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/B4TVCORIMNB6JB7UDALAUFJYTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/B4TVCORIMNB6JB7UDALAUFJYTM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:46:06 +0000</pubDate>
+      <content:encoded>천대엽 법원행정처장(대법관)은 13일 대법원 전원합의체(전합)가 이재명 대통령의 공직선거법 사건을 유죄 취지로 파기환송한 데 대해 “대법관 다수의견은 ‘지연된 정의는 정의가 아니다’는 것이었다”며 이례적으로 빠른 판결로 대선에 개입했다는 더불어민주당 의원들의 주장에 반박했다. 다만 파기환송심 재판부를 비롯해 이 대통령의 재판 5개가 모두 멈춘 것이 “바람 불기 전 누운 것이 아니냐”는 국민의힘 측 주장엔 “재판장들이 결정하신 거라고 믿고 존중돼야 한다”며 동의하기 어렵다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FQVHDEOXBP5LGFKR5XHSIF6A4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 13일 서울 여의도 국회에서 열린 법제사법위원회의 대법원 등에 대한 국정감사에서 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천 처장은 이날 국회에서 열린 대법원 국정감사에 출석해 “(공직선거법 사건) 판결문을 두 번 세 번 보시면 어떻게 전합 판결이 이뤄졌고 어떤 디베이트(토론)가 이뤄졌는지 일목요연하게 나타난다”며 상고심 판결문 내용을 들어 파기환송 과정을 설명했다. 천 처장은 특히 ‘소부(대법관 4명으로 구성된 소재판부)에 배당된 사건을 대법원장이 대선에 개입하고자 전합에 회부했다’는 민주당 의원들의 주장과 관련해, 판결문에 기록된 소수의견을 들어 반박했다. 소수의견에서조차 이 사건은 전합에서 하는 게 원칙이라는 입장을 밝히면서 소부의 심리 권한 침해 부분은 전혀 문제 삼고 있지 않다는 것이다.&lt;br&gt;&lt;br&gt;천 처장은 대법원 전합이 이 대통령 사건을 빠르게 선고한 경위도 설명했다. 천 처장은 “소수의견 2명은 ‘선고에 이르기까지 숙성이 덜 된 상태 아니냐’라는 이야기를 한다”며 “상세하게 그와 같이 볼 수밖에 없는 사정을 담고, 분명히 존중할 부분이 있다고 생각한다”고 말했다. 이어 “판결문을 보면 반대로 다수의견 대법관 10명은 ‘지연된 정의는 정의가 아니고, 우리 헌법과 법률에 신속한 재판을 받을 권리가 있다’(고 한다)”며 “특히 이 사건은 공소 제기로부터 1심에서 2년 2개월이나 지체됐고, 2심에서도 4개월이 지나 판결했다(고 한다)”고 했다.&lt;br&gt;&lt;br&gt;국민의힘 조배숙 의원은 이 대통령 선거법 사건의 파기환송심을 맡은 재판부를 시작으로, 5개 재판이 모두 멈춘 것을 지적했다. 바람이 불기 전에 누운 격이라는 게 조 의원 이야기다. 조 의원은 “선제적 복종을 하자 돌아온 것은 대법원장 사퇴, ‘대선개입 국감 증인 나와라’ 등 수모 아니냐”며 “재판을 속행(재개)하는 것에 대해 어떻게 생각하느냐”고 천 처장에게 물었다.&lt;br&gt;&lt;br&gt;이에 천 처장은 “송구하지만 동의하기 어렵다”며 “재판은 여론에 좌우되지 않고 법과 원칙에 따라 하는 것”이라며 “재판장들이 결정하신 거라고 믿고 존중돼야 한다고 본다”고 했다. “개별 재판부의 의사에 맡기겠다는 것이냐”는 조 의원의 질문에 천 처장은 “네”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오토바이 2대 미끄러져 관중석에 ‘쾅’… 용인 F1 쇼런 아수라장</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/13/5QHACEUBQZCJJJCRJRJK7USDVU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/13/5QHACEUBQZCJJJCRJRJK7USDVU/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 08:29:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZHWA3IGKKBG35KDFXSLLAH23JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 용인 F1 쇼런 행사에서 오토바이 2대가 연속으로 미끄러져 관중석을 덮치는 사고가 발생했다. /디시인사이드 F1(포뮬러 원) 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인 스피드웨이에서 열린 F1 쇼런 행사 중 오토바이 2대가 미끄러져 관람객들이 다치는 사고가 발생했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3QUJQAIQNHJNMLOPBOLN523TU.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 용인 F1 쇼런 행사에서 오토바이 2대가 연속으로 미끄러져 관중석을 덮치는 사고가 발생했다. /디시인사이드 F1(포뮬러 원) 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 12일 오후 경기 용인시 에버랜드 스피드웨이에서 ‘메르세데스-AMG 페트로나스 F1’ 팀의 시범 주행 행사가 열렸다. 국내에서 13년 만에 진행되는 F1 주행 이벤트를 보기 위해 3만여 명의 관람객이 몰린 가운데 피날레 퍼레이드 중 오토바이 2대가 미끄러지면서 관중석 펜스와 충돌하는 사고가 발생했다. &lt;br&gt;&lt;br&gt;온라인 커뮤니티에 올라온 영상을 보면, 한 라이더는 오토바이를 타고 몸을 기울이며 커브를 돌던 중 중심을 잃고 트랙 위로 나뒹굴었다. 오토바이는 미끄러지면서 안전 펜스를 들이받았고 이 충격으로 일부 관객이 쓰러지기도 했다.&lt;br&gt;&lt;br&gt;불과 20초 뒤에 다른 오토바이가 같은 구간에서 미끄러지면서 사고가 발생한 곳의 펜스와 재차 충돌했고 현장은 아수라장이 됐다. 사고가 난 구역은 스탠딩존으로 운영돼 약 100명의 관람객이 가까운 거리에서 경기를 지켜보고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RC2HQ5ZTU5GTLJJ52MB7M5KBN4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 용인 F1 쇼런 행사에서 오토바이 2대가 연속으로 미끄러져 관중석을 덮치는 사고가 발생했다. /디시인사이드 F1(포뮬러 원) 갤러리&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고로 안전 설치물 뒤에 있던 관객 6명이 다친 것으로 알려졌다. 오토바이 운전자 2명은 다치지 않았다.&lt;br&gt;&lt;br&gt;일부 관람객은 펜스 주변에 설치된 워터 배리어(방어막)에 물이 충분히 채워지지 않아 충격 흡수가 제대로 되지 않았다며 주최 측의 안전 관리가 미흡했다고 지적했다. &lt;br&gt;&lt;br&gt;주최 측인 피치스 런 유니버스는 이와 관련해 “바이크 2대가 습기 찬 노면에서 미끄러지며 펜스와 충돌했다. 당시 미세한 강우로 경주로에 운전자가 인식하지 못했던 습기가 형성돼 있었다”고 설명했다. &lt;br&gt;&lt;br&gt;이어 “이중 안전 설치물 뒤에서 관람 중이던 일부 관객에게 충격이 전달돼 부상이 발생했다”며 “4명은 현장 처치 후 귀가했으며 1명은 본인 희망에 따라 보호자 차량으로 귀가했다. 또 다른 1명은 용인 세브란스 병원으로 이송돼 검사를 진행한 결과 통원 치료를 권고받고 귀가했다”고 했다.&lt;br&gt;&lt;br&gt;주최 측은 “현재 모든 부상자의 상태를 지속적으로 확인 중이며 필요시 추가 지원을 제공할 예정”이라며 “사고 경위를 면밀히 검토하고 재발 방지 대책을 마련해 더욱 안전한 관람 환경을 제공하기 위해 최선을 다할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/D3QUJQAIQNHJNMLOPBOLN523TU.gif?auth=77d17f0d391fd772827ca4d05801e87fb14c2fd412db4360e8414d95d02f55fe&amp;smart=true&amp;width=839&amp;height=396" type="image/jpeg" height="396" width="839">
+        <media:description type="plain">지난 12일 용인 F1 쇼런 행사에서 오토바이 2대가 연속으로 미끄러져 관중석을 덮치는 사고가 발생했다. /디시인사이드 F1(포뮬러 원) 갤러리</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김용현 ‘내란특검 기소’ 재판 또 공전... 20일 5차 준비기일 열어 재논의</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/CXQXJ5ZOZ5DTZJLMOA5LZR32JE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/CXQXJ5ZOZ5DTZJLMOA5LZR32JE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:14:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTNG73SZFBW6XZSCLDYXBJZ6PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. (헌법재판소 제공) 2025.1.23/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 기소한 김용현 전 국방부 장관의 4차 공판준비기일도 변호인 측의 불법 구속 기소 주장과 병합 신청 문제로 또다시 공전했다.&lt;br&gt;&lt;br&gt;13일 서울중앙지법 형사합의34부(재판장 한성진)는 위계에 의한 공무집행 방해, 증거인멸 교사 혐의로 구속 기소된 김 전 장관 사건의 4차 공판준비기일을 열었다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 지난 공판준비기일에서 사건 병합 및 이송신청서를 제출한 것을 두고 “신청 결과가 나올 때까지 증거 의견을 밝힐 수 없다”고 했다. 김 전 장관 측은 앞서 지난달 11일 열린 3차 준비기일에서 내란 사건을 심리 중인 재판부(형사합의25부)에 병합해달라며 사건 병합 및 이송 신청서를 제출한 바 있다.&lt;br&gt;&lt;br&gt;재판부가 “제출한 신청서는 검토 중이고, 협조를 부탁한다”고 하자, 변호인단은 “불공정한 절차에는 협조할 수 없다”며 반발했다. 변호인단은 특검 측에 “수사 검사들이 나와서 공소 유지를 한다면 수사 과정에서의 불법을 은폐하거나 조작할 수 있다”며 특검 파견 검사가 법정에 들어온 것을 문제 삼기도 했다.&lt;br&gt;&lt;br&gt;이에 재판은 1시간여 만에 종료됐다. 재판부는 오는 20일 준비기일을 다시 열기로 했다.&lt;br&gt;&lt;br&gt;김 전 장관은 지난해 12월 내란 중요임무 종사 등 혐의로 구속 기소됐다. 이후 올해 6월 비상계엄 선포 전 대통령경호처를 속여 비화폰을 받아 민간인 신분이던 노상원 전 정보사령관에게 이를 전달한 혐의 등으로 내란 특검에 의해 추가 기소됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>20대 여성 틱토커 살해하고 시신 유기한 50대 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/NRCSRZCVTVDDZGWUFN3TIJO3TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/NRCSRZCVTVDDZGWUFN3TIJO3TM/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:10:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QETK76TC76BCUHN5FLCXKDWWVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 16일 오후 경기 용인시 처인구 용인동부경찰서에서 살인 및 사체유기 혐의를 받고 있는 A 씨가 구속 전 피의자 심문(영장실질심사)를 받기 위해 나오고 있다. A 씨는 지난 11일 인천시 모처에서 틱토커 B 씨(20대·여)를 목 졸라 살해한 후 시신을 전북 무주군 한 야산에 유기한 혐의를 받고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20대 여성 ‘틱토커’(TikToker·틱톡 영상을 게시하는 사람)를 살해하고 시신을 야산에 유기한 혐의를 받는 50대 남성이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 형사3부(부장 허성규)는 살인 및 사체유기 등 혐의로 A씨를 구속기소했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 11일 오후 인천 영종도에서 틱토커인 20대 여성 B씨를 폭행하고, 목 졸라 살해한 혐의를 받는다. A씨는 또 B씨의 시신을 전북 무주군의 한 야산에 유기한 혐의도 받는다. 그는 B씨를 살해한 뒤 시신을 차에 싣고 서해안을 따라 이동하다가 풀숲에 시신을 유기한 것으로 조사됐다. 앞서 B씨의 부모는 같은달 12일 오후 4시쯤 “딸과 연락이 닿지 않는다”며 경기 용인동부경찰서에 실종 신고를 했다.&lt;br&gt;&lt;br&gt;수사에 착수한 경찰은 B씨의 차량이 인천에서 무주 방면으로 이동한 사실을 확인하고 그를 쫒다가, 무주군의 한 야산에서 A씨를 발견해 체포했다. 이후 야산 일대를 수색한 경찰은 A씨를 체포한 장소에서 50~100m 떨어진 곳에서 B씨의 시신을 발견했다.&lt;br&gt;&lt;br&gt;용인동부경찰서로 압송된 A씨는 한동안 진술을 거부하다 범행 사실을 인정했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 B씨에게 접근해 “틱톡 시장에 대해 잘 알고 있다. 구독자를 늘리는 걸 도와주겠다”고 동업과 투자를 제안한 것으로 조사됐다. 이전에는 서로 모르는 사이였다고 한다. 틱톡은 15초~1시간 길이의 비디오 영상을 제작·공유할 수 있는 중국의 짧은 동영상 플랫폼이다.&lt;br&gt;&lt;br&gt;하지만 A씨는 B씨와 채널 운영 관련 갈등이 생겼고, 지난달 11일 오후 함께 인천에서 영상을 촬영하다, 말다툼 끝에 이 같은 범행을 저지른 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘뇌물수수 의혹’...경찰, 하은호 군포시장 구속영장 신청 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/13/D4ARWFVYKVERRGHLSMFLQU6IRE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/13/D4ARWFVYKVERRGHLSMFLQU6IRE/</guid>
+      <dc:creator>군포=김은진 기자, 군포=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 09:03:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GORM4ESNLVG3DF2OMU3RDHWN7A.jpg"&gt;&lt;br&gt;&lt;br&gt;하은호 경기 군포시장이 복합문화공간 위탁업체 선정 과정에서 비리를 저질렀다는 의혹과 관련, 경찰이 하 시장에 대해 사전구속영장을 신청했다. &lt;br&gt;&lt;br&gt;경기남부경찰청 반부패·경제범죄수사대는 특정범죄 가중처벌 등에 관한 법률 위반(뇌물수수) 혐의로 하 시장에 대해 사전구속영장을 신청했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;이와 함께 건설업자 A씨에 대해서도 뇌물공여 혐의로 사전구속영장을 신청했다. &lt;br&gt;&lt;br&gt;하 시장은 군포시 복합문화공간의 운영 업체 선정 과정에서 A씨를 통해 뇌물을 받아 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;하 시장과 A씨는 오랫동안 알고 지내온 사이로, 민간 위탁을 위한 입찰부터 상호 논의하며 이 같은 범행을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 더불어민주당 군포시의회 의원들은 작년 7월 경기남부경찰청에 하 시장을 자신이 소유한 상가건물의 관리비를 다른 사람에게 대납하도록 한 혐의(청탁금지법 위반)로 고발한 바 있다. &lt;br&gt;&lt;br&gt;해당 혐의로 하 시장을 입건한 경찰은 수사 중 복합문화공간 운영과 관련, 문제가 있다는 사실을 추가로 인지하고 올해 1~2월 하 시장을 압수수색했다.&lt;br&gt;&lt;br&gt;이와 별개로 경찰은 하 시장에게 뇌물을 제공한 또 다른 건설업자 B씨에 대해서도 뇌물공여 혐의를 적용해 사전구속영장을 신청했다. B씨는 아예 다른 목적으로 하 시장에게 뇌물을 건넨 것으로 전해졌는데, 구체적인 혐의 내용은 밝혀진 바 없다. &lt;br&gt;&lt;br&gt;경찰은 하 시장과 A씨, B씨 이외에도 사건에 직간접적으로 얽힌 민간업체 관계자 등 8명을 불구속 입건해 조사 중인 것으로 알려졌다. 경찰 관계자는 “수사 중인 사안으로 정확한 내용은 확인해 줄 수 없다”고 했다. &lt;br&gt;&lt;br&gt;하 시장 등에 대한 구속 전 피의자 심문(영장실질심사)은 15일 수원지법 안양지원에서 열릴 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제106회 부산 전국체전, 13일 성화 봉송 시작</title>
+      <link>https://www.chosun.com/national/regional/2025/10/13/NCLWLXEOWVEFBGXUPM7K7FQSGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/13/NCLWLXEOWVEFBGXUPM7K7FQSGU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 08:46:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L2LRLK7TJZLURHNUD3LJELA6GI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 부산 연제구 부산시청 광장에서 열린 제106회 전국체육대회·제45회 전국장애인체육대회 성화 합화·출발식에서 성화 봉송 첫 주자들이 출발하고 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;오는 17일부터 부산에서 열리는 제106회 전국체육대회와 제45회 전국장애인체육대회를 앞두고 성화봉송이 시작됐다. &lt;br&gt;&lt;br&gt;부산시는 13일 오전 10시 시청 시민광장에서 성화 합화 및 출발식을 개최했다. 이날 행사에서는 지난달 25일부터 이달 3일까지 금정산 고당봉(희망의 불), 유엔평화공원(평화의 불), 가덕도 연대봉(비상의 불), 강화도 마니산(화합의 불) 등 4곳에서 채화된 불꽃을 하나로 모은 뒤 성화 봉송을 시작했다. &lt;br&gt;&lt;br&gt;이날 합화된 성화는 부산시청을 출발해 나흘 간 부산지역 16개 구·군을 돈 뒤 오는 17일 체전 개막식이 열리는 아시아드 주경기장 성화대에 점화돼 체전 기간 타오를 예정이다. 사하구 감천마을, 수영구 광안리해수욕장 등 관광명소와 이색장소에서 성화 봉송이 이뤄진다. 성화 봉송에는 1200여 명의 주자가 참여한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/H3MMIPJ7GRNWBNESGHZEEZ5K4Q.JPG?auth=ce8c975ed0ec33505b13689a86aa6e5b8dcc740ae40de8c5b0eaf19ba2d84f59&amp;smart=true&amp;width=2740&amp;height=1836" type="image/jpeg" height="1836" width="2740">
+        <media:description type="plain">(부산=뉴스1) 윤일지 기자 = 13일 부산 연제구 부산시청 광장에서 열린 제106회 전국체육대회·제45회 전국장애인체육대회 성화 합화·출발식에서 성화 봉송 첫 주자들이 출발하고 있다. 
+
+이번 성화는 부산시청을 출발해 4일간 1200여 명의 주자와 16개 구·군을 달리게 된다. 제106회 전국체육대회는 오는 17일부터 23일, 제45회 전국장애인체육대회는 31일~ 내달 5일까지 각각 개최된다.   2025.10.13/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(부산=뉴스1) 윤일지 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>가야고분군 세계유산관리재단, ‘금관가야’ 중심 김해서 출범 </title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/10/13/DPKAAEPWK5HNFFIXAZE5EJLKEY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/13/DPKAAEPWK5HNFFIXAZE5EJLKEY/</guid>
@@ -667,42 +758,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>제대 앞둔 육군 병장 사망…군경, 부대 내 가혹 행위 수사</title>
-      <link>https://www.chosun.com/national/incident/2025/10/12/J4QLEZHUCNFUFHPXUT2RZBQ76I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/12/J4QLEZHUCNFUFHPXUT2RZBQ76I/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 07:46:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMSA2OD5A75DORV7W7QP3HB4D4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제대를 앞두고 사망한 육군 병장의 유족이 부대에서 가혹 행위가 있었다는 취지의 고소장을 접수해 군경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;12일 전북경찰청에 따르면 숨진 A(21) 병장의 유족이 최근 부대 관계자를 직권남용 및 협박 혐의로 육군수사단에 고소했다. 현재 경찰은 군과 사건 이송 여부를 논의 중이며, 사건을 넘겨받으면 부대 내 집단 따돌림이나 가혹 행위가 있었는지 여부를 조사할 계획이다. &lt;br&gt;&lt;br&gt;전북 임실군의 한 육군 부대 소속인 A 병장은 지난달 18일 오전 5시 30분쯤 전북 진안군 진안읍의 한 아파트 단지 내에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;A 병장은 부대에서 자전거를 타고 해당 아파트로 이동한 후 15층에서 추락해 숨진 것으로 확인됐다. A 병장은 발견 당시 군복을 입고 있었으며 해당 아파트에 거주하고 있지는 않았다. A 병장은 사망 직전 군 생활이 힘들다는 취지의 문자메시지를 주변에 보낸 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 “나눔의집, 후원금 돌려줘야”… 윤미향 재판에도 파장</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/12/ZXV43J2FIFEE7J7DFTQDTOZN5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/ZXV43J2FIFEE7J7DFTQDTOZN5Y/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 06:45:03 +0000</pubDate>
-      <content:encoded>위안부 피해자 지원 시설인 ‘나눔의집’이 후원자들에게 후원금을 돌려줘야 한다는 법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVMACH4JQVBN4VPZ4TNCRJXMNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤미향 전 의원/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사9-2부(재판장 변지영)는 지난달 24일 후원자 이모씨가 나눔의집을 상대로 낸 후원금 반환 청구 소송 파기환송심에서 “나눔의집은 이씨에게 155만원과 지연손해금을 지급하라”고 판결했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 “이씨는 자신의 후원금 대부분이 위안부 피해자들의 생활·복지·증언 활동 등에 사용될 것이라고 믿고 후원했다”면서 “원고가 인식한 후원 계약의 목적과 실제 사용 현황 사이에는 착오로 평가할 만한 정도의 불일치가 존재한다”고 밝혔다.&lt;br&gt;&lt;br&gt;나눔의집은 위안부 피해자 쉼터로, 피해자 생활 지원과 역사관 운영, 인권센터 건립 등을 명목으로 후원금을 받아왔다. 이씨는 2017년 8월부터 2020년 4월까지 2년 8개월 동안 월 5만원씩 총 155만원을 위안부 피해자 생활 지원을 위해 후원했다.&lt;br&gt;&lt;br&gt;그런데 2020년 나눔의집이 후원금을 유용했다는 논란이 불거졌다. 위안부 피해자 이용수 할머니가 윤미향 전 의원이 한국정신대문제대책협의회(정대협·정의기억연대의 전신) 대표 시절 후원금을 횡령했다는 의혹을 제기하자, 나눔의집 일부 직원도 “나눔의집이 위안부 피해자들을 내세워 후원금을 모집하고 이를 법인 자산과 부동산으로 쌓았다”고 폭로했다. 그러자 나눔의집에 후원했던 이씨를 포함한 23명은 후원금 반환 소송을 냈다.&lt;br&gt;&lt;br&gt;1·2심은 “후원금이 후원 목적과 다른 용도로 사용됐다고 보기 어렵다”며 원고 패소로 판결했다. 그러나 대법원은 “나눔의집이 명시한 후원 목적과 실제 사용 사이의 불일치가 존재하고, 이를 알았다면 후원자는 후원 계약을 체결하지 않았을 것”이라며 원심을 깨고 사건을 내려보냈고, 이번에 서울중앙지법 민사9-2부가 원고 승소 판결을 내렸다. &lt;br&gt;&lt;br&gt;법조계에서는 이번 판결이 정대협 후원자들이 윤미향 전 의원을 상대로 낸 후원금 반환 소송에도 영향을 미칠 수 있다는 평가가 나왔다. 서울서부지법은 지난 1월 후원자들이 윤 전 의원을 상대로 낸 소송과 관련해 “후원금을 돌려주라”는 취지의 화해 권고 결정을 내렸지만, 윤 전 의원이 불복해 재판이 계속되고 있다.&lt;br&gt;&lt;br&gt;윤 전 의원은 정대협 후원금 8000만원을 횡령한 혐의 등으로 기소돼 작년 11월 법원에서 징역 1년 6개월에 집행유예 3년형이 확정됐지만, 현 정부 출범 후인 지난 8월 특별사면됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘알쓸신잡’ 김상욱 교수 “심근경색 직전, 목숨 구해준 의료진 감사”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/12/PMOV5RJSTNDHFMUIKJFMKG2RRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/PMOV5RJSTNDHFMUIKJFMKG2RRI/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 06:44:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A34JS6N34JBW7CZVEVGYC32Q3E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;물리학자 김상욱 교수. /유튜브 채널 tvN D ENT 영상&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여러 교양·지식 방송에 출연한 김상욱(55) 경희대 물리학과 교수가 건강 악화로 위험할 뻔했던 근황을 전했다.&lt;br&gt;&lt;br&gt;김 교수는 11일 페이스북에 글을 써 “추석 연휴 기간 중 몸이 좋지 않아 한밤중에 응급실에 갔다”며 “심근경색 직전 상황이라면서 곧바로 중환자실에 입원시키더라”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “긴급 심혈관 스텐트 시술을 받았다. 혈관에 와이어를 넣어서 혈관 내부에 지지대(스텐트)를 설치하는 놀라운 시술”이라며 “담당 의사 선생님 말로는 심근경색이 일어났어도 할 말 없는 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “시술은 잘 끝났고 지금은 빠르게 회복 중”이라며 “중환자실·병동 생활을 하며 병원에서 정말 많은 분이 고생하면서 애쓰고 있다는 것을 새삼 느낄 수 있었다. 제 목숨을 구해주신 의료진 여러분께 진심으로 감사드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;물리학자이자 양자역학 전문가로 유명한 김 교수는 tvN 예능 프로그램 ‘알아두면 쓸데없는 신비한 잡학사전 3’에 출연하며 대중과 가까워졌다. 이후 ‘알아두면 쓸데있는 범죄 잡학사전’ ‘알아두면 쓸데없는 신비한 인간 잡학사전’ ‘알아두면 쓸데없는 지구별 잡학사전’ 등에서도 활약했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국가정보자원관리원 복구율 35.1%…이음장터 등 일부는 등급도 바뀌어</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/12/FLQTOHD35NHKNGGPXIE3BCI7TI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/FLQTOHD35NHKNGGPXIE3BCI7TI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 06:06:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZL627UCRWKSYP3YXXLJ46TRCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 유성구 국가정보자원관리원 앞에 경찰 차량이 서 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 26일 대전 국가정보자원관리원(정보자원관리원)에 화재가 발생해 주요 공공기관 시스템이 마비된 지 17일째를 맞은 가운데, 행정안전부는 12일 낮 12시 기준 셧다운된 시스템 709개 중 249개를 복구했다고 밝혔다. 복구율은 35.1%다.&lt;br&gt;&lt;br&gt;정부는 지난 추석 연휴 동안 기획재정부 홈페이지, 온나라시스템 등 47개 시스템을 복구한 데 이어, 주말인 전날과 이날 감사원 감사 자료 분석 시스템, 조달청 이음장터 등 11개 시스템을 추가로 복구했다.&lt;br&gt;&lt;br&gt;이 과정에서 행안부가 이전에 발표했던 시스템 등급이 바뀌는 일도 발생했다.&lt;br&gt;&lt;br&gt;앞서 행안부는 지난달 30일 화재로 먹통이 된 647개 시스템 목록을 공개하면서 조달청 이음장터를 1등급 시스템으로 발표했다. 행안부는 시스템을 중요도에 따라 1~4등급으로 분류하는데, 1등급은 가장 중요한 시스템이라는 뜻이다.&lt;br&gt;&lt;br&gt;그러나 지난 9일 먹통이 된 시스템을 709개로 정정하면서 발표한 목록에선 이음장터를 4등급으로 분류했다. 이 외에 지난달 30일 1등급으로 발표했던 조달청 하도급지킴이와 모바일 공무원증도 모두 2등급으로 정정했다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “화재 직후 시스템 등급 등을 취합하는 과정에서 일부 오류가 발생해 정정한 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 정부는 공무원 200여 명과 민간 인력 760여 명을 투입해 복구 작업을 진행 중이다. 특히 불이 시작된 5층은 분진 제거 작업을 위해 해외 업체에서 급파한 전문 인력 10여 명도 투입한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;정부는 지난 추석 연휴 기간 5층 8전산실 분진 제거를 마쳤고 순차적으로 시스템을 재가동하고 있다.&lt;br&gt;&lt;br&gt;행안부 관계자는 “신규 장비 설치를 마치는 15일부터는 복구 시스템이 빠르게 늘어날 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 동대문구·서대문구에도 ‘자율주행 마을버스’ 달린다</title>
       <link>https://www.chosun.com/national/national_general/2025/10/12/QYFPUG4MMZBBHPCDXZWJ3B4HBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/QYFPUG4MMZBBHPCDXZWJ3B4HBU/</guid>
@@ -710,42 +765,6 @@
       <description/>
       <pubDate>Sun, 12 Oct 2025 05:41:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJVPU76GEFUA23ULYBU5R654N4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;자율주행 마을버스 '동대문A01'의 모습. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이달부터 서울 동대문구와 서대문구에 ‘자율주행 마을버스’가 운행을 시작한다. 지난 6월 서울 처음으로 자율주행 마을버스를 도입한 동작구에 이어 각각 2, 3번째다.&lt;br&gt;&lt;br&gt;서울시는 자율주행 마을버스 노선 ‘동대문A01’과 ‘서대문A01’이 각각 14일과 15일 운행을 시작한다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;14일 운행을 시작하는 동대문A01 노선은 서울 지하철 5호선 장한평역부터 경희대의료원까지 왕복 15㎞ 구간을 달린다. 청량리역, 서울바이오허브 등 23개 정류소에 정차한다. 운행 간격은 1시간 15분이다. 하루 6번 운행한다. 평일에만 다닌다. 15명이 탈 수 있다.&lt;br&gt;&lt;br&gt;서대문A01 노선은 15일 운행을 시작한다. 경의중앙선 가좌역부터 서대문구청까지 5.9㎞ 구간을 순환한다. 평일 오전 9시 20분부터 30분마다 한 대씩 하루에 총 14번 운행한다. 승객 12명까지만 탈 수 있다.&lt;br&gt;&lt;br&gt;요금은 두 노선 모두 우선은 무료다. 내년 하반기부터 요금을 받을 예정이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “일반 노선버스와 마찬가지로 버스를 타고 내릴 때 교통카드를 찍어야 한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 동작A01 노선은 지난 7~8월 실시한 만족도 조사 결과 90%가 “만족한다”고 답한 것으로 집계됐다. 동작A01 노선은 지난 6월 동작구에서 운행을 시작한 서울 첫 자율주행 마을버스 노선이다. 숭실대와 중앙대 사이를 오간다.&lt;br&gt;&lt;br&gt;서울시는 심야 자율주행 택시, 새벽동행 자율주행버스 등 자율주행 차량을 지속적으로 투입한다는 계획이다.&lt;br&gt;&lt;br&gt;여장권 서울시 교통실장은 “더 편리하고 촘촘한 대중교통 체계를 확립하기 위해 앞으로도 첨단 미래 교통 수단을 활용하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 앞바다 낚시 어선 고장…승선원 22명 모두 구조</title>
-      <link>https://www.chosun.com/national/regional/2025/10/12/ALAL6BOQYFFVDA546X7K2EI2JI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/12/ALAL6BOQYFFVDA546X7K2EI2JI/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 05:41:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXJKWYTRHBEENA3ULOEGDZ3KUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 앞바다에서 고장으로 표류하다 해경에 구조된 낚시 어선. /부산해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 앞바다에서 낚시 어선이 고장으로 표류하다가 구조됐다. &lt;br&gt;&lt;br&gt;12일 부산해양경찰서에 따르면, 이날 오전 11시 3분쯤 부산시 영도구 조도 인근 해상에서 9.77t급 낚시어선 A호가 기관 고장을 일으켜 표류 중이라는 신고가 접수됐다. 배에는 선원 2명, 승객 20명이 타고 있었다. &lt;br&gt;&lt;br&gt;부산해경에 따르면, 이날 오전 5시쯤 부산시 수영구 민락항을 출발한 A호는 오전 10시 40분쯤 조도 동쪽 약 1㎞ 해상에서 낚시를 하다가 원인을 알 수 없는 변속기 고장으로 전·후진을 할 수 없다며 해경에 신고했다. &lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경은 오전 11시 44분쯤 A호를 영도구 하리항까지 예인했다. 이후 A호는 예인선을 섭외해 오후 1시 17분쯤 민락항에 도착할 수 있었다.&lt;br&gt;&lt;br&gt;해경은 A호 선장을 상대로 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, APEC 기간 경주 시내 주요 도로 일반 차량 통행 제한</title>
-      <link>https://www.chosun.com/national/regional/2025/10/12/TK2F3NDZTVBZBBZXUROFZCU7E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/12/TK2F3NDZTVBZBBZXUROFZCU7E4/</guid>
-      <dc:creator>안동=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 04:23:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMSI3JPH3BAETDGETCNAFHBJPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;APEC 기간 경주 지역 일반 차량 통행 제한 구간 위치도./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주 아시아태평양경제협력체(APEC) 정상회의와 관련해 오는 29일 0시부터 11월 1일 오후 2시까지 경주 보문단지 등 시내 주요 도로 구간에 일반 차량의 통행이 제한된다. &lt;br&gt;&lt;br&gt; 12일 경북경찰청에 따르면, 이 기간 참가국 정상 차량 이동 등을 이유로 경주TG∼배반네거리∼구황교네거리∼보문교삼거리∼보문단지로 연결되는 서라벌대로·산업로·경감로·보문로 등 주요 도로 구간의 일반 차량 통행이 제한된다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXMNBNQZS5A6XMLNAGC2HPWUXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;APEC 기간 화물 차량 통행 제한 구간 위치도./경북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또 포항 방면(북경주IC~용강네거리), 울산 방면(남경주IC~배반네거리), (내남교차로~나정교사거리) 등 경주를 남북으로 관통하는 주요 도로에서는 2.5t 이상 화물차와 건설기계(덤프트럭, 도로보수트럭 등) 등 총중량 10t 이상 특수 차량 통행이 전면 금지된다. &lt;br&gt;&lt;br&gt;경찰은 교통 혼잡을 막기 위해 이 기간 보문삼거리 등 주요 교차로와 단일로 등 222곳에 경력을 배치해 차량 통제와 우회 조치 등에 나설 계획이다. &lt;br&gt;&lt;br&gt;경북경찰청 관계자는 “성공적인 APEC 행사를 위해 다소 불편하더라도 행사장 이용 시에는 경북도에서 제공하는 셔틀버스 등 대중교통을 이용하고, 차량을 격일로 운행하는 자율 2부제 등에 적극 동참해달라”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법무부, 친일파 이해승 후손에 매각대금 78억원 반환 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/12/2CUY4XWJU5DLNFJDZB2J3SMXAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/2CUY4XWJU5DLNFJDZB2J3SMXAI/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 03:48:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3WETNWOCTO7ZYNP7LEHEGFAJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;과천정부청사 법무부 건물에 한 직원이 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부가 친일파 이해승의 후손이 토지를 매각해 얻은 부당이득금 약 78억원을 국가로 귀속하는 작업에 착수했다.&lt;br&gt;&lt;br&gt;법무부는 “이해승이 취득했던 경기 의정부시 호원동 토지 31필지를 매각하고 얻은 부당이득금 약 78억원에 대해 서울중앙지방법원에 부당이득반환 청구의 소를 지난 10일 제기했다”고 밝혔다. &lt;br&gt;&lt;br&gt;이해승은 일본 정부로부터 후작 작위를 받은 인물로, 친일반민족규명위원회는 2009년 5월 이해승이 일제로부터 후작의 작위를 받은 행위 등을 친일반민족행위로 결정했다. 친일반민족행위자 재산의 국가귀속에 관한 특별법은 친일반민족행위자가 러·일전쟁 개전 시인 1904년 2월부터부터 1945년 8월 15일까지 일제에 협력한 대가로 취득한 재산은 국가에 귀속하도록 돼 있다.&lt;br&gt;&lt;br&gt;앞서 법무부는 2020년 6월 이해승의 후손을 상대로 대상 토지 인접에 있는 토지 13필지에 대한 환수 소송을 제기했고, 대법원은 지난 6월 국가 전부 승소 판결을 내렸다. 당시 법무부는 31필지 매각대금 환수도 함께 검토했지만 소멸시효 등을 고려해 소 제기를 유보했다.&lt;br&gt;&lt;br&gt;이후 대법원이 작년 12월 “친일반민족행위자 후손의 소멸시효 주장은 권리남용으로서 허용될 수 없다”는 취지의 판결을 선고하자, 법무부는 소 제기를 보류했던 토지 31필지에 대해서도 환수 소송을 제기했다. 법무부는 “토지 31필지는 이해승이 친일행위의 대가로 취득한 것으로 그 후손이 보유하고 있다가 1999년에서 2006년 사이 및 2013년에서 2014년 사이에 제3자에게 순차 매각된 것으로 확인됐다”며 “법리적으로 환수가 가능하다고 판단했다”라고 설명했다.&lt;br&gt;&lt;br&gt;정성호 법무부장관은 “앞으로도 친일반민족행위자가 친일반민족행위로 모은 재산을 국가에 귀속시켜 정의를 바로 세우고, 일제에 저항한 3·1 운동의 헌법이념을 구현하기 위하여 최선의 노력을 다해 나가겠다”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>7년간 19일 미국 살고 “한국 국적 버리겠다” 소송 냈지만 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/IIPHVFJ5H5D57FHA7XJ7OUM5UI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 03:27:49 +0000</pubDate>
-      <content:encoded>7년 동안 미국에 단 19일 머물렀던 미국·한국 복수국적자가 한국 국적을 포기하게 해달라며 소송을 냈지만 법원이 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PE2VMJJFXBB2XLYS7JBO2XRGZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울가정법원·서울행정법원 청사. /전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 복수국적자 A씨가 법무부를 상대로 낸 국적이탈신고 반려처분 취소 소송에서 원고 패소로 판결했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;2005년 미국에서 태어난 A씨는 한국인 어머니와 미국인 아버지 사이에서 태어나 두 나라의 국적을 갖게 됐다. A씨는 쭉 미국에서 살다가 2015년 8월 한국에 들어온 뒤 인천의 한 국제학교에 다니며 약 7년간 국내에서 거주했다.&lt;br&gt;&lt;br&gt;2022년 6월 A씨는 미국으로 출국해 “한국 국적을 포기하겠다”며 법무부에 국적이탈 신고를 접수했지만, 약 3주 뒤 다시 한국으로 돌아왔다. 법무부는 이듬해 9월 “외국 주소 요건을 충족하지 못했고 실질적으로 국내에 거주하고 있다”며 신고를 반려했다. 이에 불복한 A씨는 법무부를 상대로 소송을 냈다.&lt;br&gt;&lt;br&gt;A씨는 자신이 미국에 주소를 두고 있어 국적 포기가 가능하다고 주장했다. 국적법 14조는 복수 국적자가 ‘외국에 주소가 있는 경우’에만 대한민국 국적을 이탈하고 외국 국적을 선택할 수 있다고 규정하고 있다.&lt;br&gt;&lt;br&gt;그는 “국적 이탈 신고서에 기재한 미국 주소는, 아버지가 직장을 다니면서 거주하는 곳이자 내가 미국 대학을 다니면서 방학 중에 머무는 곳이므로 생활 근거지에 해당한다”는 입장이었다. 또 국적 이탈이 허용되지 않으면 미국 연방 공무원으로 근무할 수 없어 직업 선택의 자유가 침해된다고도 주장했다.&lt;br&gt;&lt;br&gt;그러나 법원은 A씨의 주장을 받아들이지 않았다. 재판부는 국적 이탈의 요건인 ‘외국에 주소가 있는 경우’를 판단할 때는 실제 생활 근거가 어디인지, 국내 체류가 일시적·우연적 계기로 인한 것인지 등을 종합적으로 고려해야 한다며 “A씨가 국적 이탈 신고 당시 미국에 생활 근거를 두고 있었다고 보기 부족하다”고 판단했다. &lt;br&gt;&lt;br&gt;특히 재판부는 “A씨가 2015년 8월 입국 이후 2022년 6월 출국 전까지 미국에 머문 기간이 19일에 불과하다”며 “대부분의 기간 부모와 함께 국내에 거주했으므로 실제 생활 근거지는 한국으로 봐야 한다”고 밝혔다. 아울러 “외국 주소 보유 요건이 충족되지 않으면 법무부는 재량권을 행사할 여지 없이 국적 이탈 신고를 수리할 수 없으므로, 반려 처분은 적법하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>해병 특검 ‘구명 로비’ 이종호, ‘범인 도피’ 이원모 재소환</title>
@@ -800,15 +819,6 @@
       <description/>
       <pubDate>Sat, 11 Oct 2025 05:30:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2CJWH563NIGHCVDDUSCFUOGFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국대학생진보연합(대진연) 회원들이 11일 서울 종로구 주한 미국 대사관 앞에서 도널드 트럼프 미국 대통령의 방한을 반대한다는 내용의 집회를 열고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국대학생진보연합(대진연) 회원들이 11일 오후 서울 종로구 주한 미국 대사관 앞에서 도널드 트럼프 미국 대통령의 방한을 반대한다는 내용의 집회를 열었다. 경찰은 이 집회가 신고되지 않은 불법 집회라는 입장이다.&lt;br&gt;&lt;br&gt;대진연 회원 40명(경찰 비공식 추산)은 이날 오후 1시쯤부터 주한 미국 대사관 앞에서 트럼프 대통령의 방한을 반대하는 집회를 열고 있다. 트럼프 대통령은 이달 말 경주에서 열리는 아시아태평양경제협력체(APEC) 정상회의를 계기로 방한이 예정돼 있다.&lt;br&gt;&lt;br&gt;‘노 아메리카(NO AMERICA)’ ‘노 트럼프(NO TRUMP)’라고 쓰인 피켓을 들고 집회에 참가한 이들은 “트럼프 방한 받대한다” “투자 강요 규탄한다”고 외쳤다. 한 집회 참가자는 “트럼프가 우리나라에 대해 3500억달러 대규모 대미 투자를 선불로 요구하고 있다”며 “날강도가 따로 없지 않느냐”고 주장했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 이 집회가 사전에 신고되지 않은 불법 집회라고 했다. 종로경찰서 관계자는 “미신고 집회라 경고 방송을 하고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>WHO “전 세계 성인 5명 중 1명이 흡연”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/11/UN4D3SWQ4RFF5O75JAV3XXHVCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/11/UN4D3SWQ4RFF5O75JAV3XXHVCQ/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Oct 2025 07:23:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRQ2A36WDJOFRL4RHHHOIASXWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 서울 시내의 한 흡연구역에 담배꽁초들들이 버려져 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흡연 인구가 세계적으로 감소 추세에 있지만, 여전히 전 세계 성인 5명 중 1명은 담배를 피우는 것으로 나타났다. &lt;br&gt;&lt;br&gt;11일 세계보건기구(WHO)가 최근 발표한 보고서에 따르면, 전 세계 흡연 인구는 2000년 13억8000만명에서 2024년 12억명으로 줄었다. WHO는 “2010년 이후 흡연 인구가 1억2000만명 넘게 줄었다”면서 “여전히 성인 5명 중 1명이 담배를 피고 있고, 매년 예방 가능한 수백만건의 사망으로 이어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;WHO는 전 세계에서 1억명 이상이 전자 담배를 사용하고 있다고 추정했다. WHO가 전 세계 전자 담배 사용 현황을 추정한 것은 이번이 처음이다. 성인은 8600만명이 전자 담배를 사용하고 있고, 대부분 고소득 국가에 거주한다. 청소년은 만 13~15세에서만 1500만명이 전자 담배를 사용하고 있는 것으로 추정된다.&lt;br&gt;&lt;br&gt;여성들의 금연 추세가 두드러졌다. 남성은 흡연율이 2010년 41.4%에서 2024년 32.5%로 5분의 1 가량 줄었다. 반면 여성은 2010년 11.1%에서 6.6%로 흡연율이 절반 가까이 줄었다. &lt;br&gt;&lt;br&gt;다만, 동남아시아의 경우 남성 흡연율이 2000년 70%였지만, 2024년 37%로 절반 가까이 줄었다. WHO는 보고서에서 “동남아시아는 한 때 흡연율이 가장 높았던 지역이지만, 전 세계 흡연 감소의 대부분이 동남아시아에서 발생했다”고 했다. 전 세계에서 흡연율이 가장 높은 지역은 유럽(성인 24.1%)이었다. 특히 유럽의 여성 흡연율은 17.4%로 세계 최고 수준이었다.&lt;br&gt;&lt;br&gt;테워드로스 아드하놈 거브러여수스 드로스 아드하놈 거브러여수스 WHO 사무총장은 “담배 기업들이 새로운 니코틴 제품으로 젊은 세대를 공격적으로 겨냥하고 있다”며 “각국 정부들은 담배 규제 정책을 더 빠르고 강력하게 시행해야 한다”고 말했다.&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>양평 공무원 유족 측 “부검 안했으면 좋겠다... 유서 못 봐”</title>
