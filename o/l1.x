@@ -6,14 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 조희대 대법원장, 법사위 국감 출석</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212160.jpg" alt="544.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;이재명 정부 첫 국정감사가 시작된 10월 13일 서울 여의도 국회에서 열린 법제사법위원회 국정감사에 조희대 대법원장이 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Mon, 13 Oct 2025 01:36:11 -0000</pubDate>
+			<title>법무법인 바른, 최원우 전 금감원 국장 영입</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212157.jpg" alt="4562222.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;최원우 법무법인 바른 고문. 《사진=법무법인 바른》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.barunlaw.com/" target="_blank"&gt;법무법인 바른&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8758"&gt;이동훈&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="266"&gt;이영희&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="11691"&gt;김도형&lt;/span&gt;)은 최원우 전 금융감독원 국장을 13일 금융규제대응팀 고문으로 영입했다.&lt;br /&gt;&lt;br /&gt;미국 오클라호마시티대학교 경영학과를 졸업한 최원우 고문은 1996년부터 금융감독원에서 29년 동안 근무했다. 특히 자산운용검사국, 금융투자검사국 국장을 맡아 자산운용사, 증권사, 신탁사, 신용평가사 등 금융투자업권 전반에 대한 감독업무를 했다. 동양 사태, 라임·옵티머스 펀드 사건 등 중요 금융사건의 책임자로 감독 실무를 주도했다. 2013년에는 한양대에서 법학 석·박사학위를 취득했다.&lt;br /&gt;&lt;br /&gt;바른 금융규제대응팀에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11691"&gt;김도형&lt;/span&gt;(사법연수원 34기) 대표변호사를 비롯해 금융·증권 관련 송무 경력을 갖춘 판·검사 출신과 금융위원회 자본시장조사단, 금융감독원, 한국거래소 등에 재직한 변호사, 고문 등이 소속돼 있다. 김 대표변호사는 "최 고문은 새정부 들어 강화되는 금융규제 추세에 대응책을 고심하고 있는 고객들에게 실질적 해결책을 제시할 것"이라고 말했다.</description>
+			<pubDate>Mon, 13 Oct 2025 04:47:00 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212160</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212160</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212160.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/212157</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212157</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212157.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>조희대 "취임 후 정의와 양심 벗어난 적 없어…법관 증언대 세운 사례 없어"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212164.jpg" alt="54644.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;이재명 정부 첫 국정감사가 시작된 10월 13일 서울 여의도 국회에서 열린 법제사법위원회 국정감사에서 조희대 대법원장이 발언하고 있다.  《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(사법연수원 13기) 대법원장이 10월 13일 "저는 대법원장으로 취임한 이래 오늘에 이르기까지 오직 헌법과 법률에 따라 직무를 수행해 왔으며 정의와 양심에서 벗어난 적이 없음을 분명히 말씀드린다"며 "그럼에도 불구하고, 사법부를 둘러싼 작금의 여러 상황에 대해서는 깊은 책임감과 함께 무겁고 안타까운 마음을 금할 수 없다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;조 대법원장은 이날(13일) 국회에서 열린 법제사법위원회 대법원 국정감사에 출석해 인사말을 통해 "사법부는 신속하고 공정한 재판을 통해 국민의 권리를 보호하는 헌법적 사명을 완수하고자 끊임없는 노력을 기울여 왔다"며 이같이 말했다. 인사말 후 착석한 조 대법원장은 법사위에 증인으로 출석하지 않겠다는 의견서를 제출했다.&lt;br /&gt;&lt;br /&gt;그는 이어 "어떠한 재판을 하였다는 이유로 재판 사항에 대해 법관을 증언대에 세우는 상황이 생긴다면, 법관들이 헌법과 법률과 양심에 따라 재판을 하는 것이 위축되고 심지어 외부의 눈치를 보는 결과에 이를 수 있다"고 우려했다. 그러면서 "삼권분립 체제를 가지고 있는 법치국가에서는 재판사항에 대해 법관을 감사나 청문의 대상으로 삼아 증언대에 세운 예를 찾아보기 어렵다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;조 대법원장은 국회의 반복된 출석 요구에 대해 비판적인 입장을 드러냈다. 그는 "국정감사는 지난 1년간 사법부가 수행해 온 업무 전반을 되돌아보고, 국민의 목소리를 경청하는 중요한 자리"라며 "제가 오늘 이 자리에 나온 것은 대법원장으로서 국정감사의 시작과 종료 시에 출석하여 인사말씀과 마무리 말씀을 하였던 종전의 관례에 따른 것"이라고 당부했다. 이어 "저에 대한 이번 국정감사의 증인 출석요구는 현재 계속 중인 재판에 대한 합의과정의 해명을 요구하는 내용을 담고 있다"고 말했다. &lt;br /&gt;&lt;br /&gt;또 "사법부에 대한 국민 여러분의 지적을 겸허히 받아들이는 한편, 최근 국회에서 진행되는 사법제도 개선 논의에도 적극적으로 참여하여 국민에게 신뢰받는 사법부로 거듭나기 위해 최선을 다하겠다"며 "아울러 사법부가 국회와의 긴밀한 소통을 바탕으로 국민의 관점에서 바람직한 사법제도 개선 방안을 마련해 나갈 수 있도록 위원장님과 위원님들의 각별한 관심과 협력을 부탁드린다"고 당부했다.&lt;br /&gt;&lt;br /&gt;조 대법원장은 "앞으로 국회를 비롯한 각계각층의 다양한 의견에 귀 기울이며 국민에 대한 봉사와 책임을 더욱 충실히 다해 나가겠다"고 했다. &lt;br /&gt;&lt;br /&gt;한편 조 대법원장은 현재(오전 11시 10분)까지 증인 선서를 하지 않은 채 국감장 자리를 지키고 있다. 증인 선서를 하지 않았지만 더불어민주당 소속&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&amp;nbsp;&lt;/span&gt;법사위원장은 "참고인 자격으로 의원들의 질의를 (받아야 한다)"며 국감을 강행했다.</description>
+			<pubDate>Mon, 13 Oct 2025 04:38:01 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212164</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212164</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212164.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
 		</item>
 		<item>
 			<title>제9회 천고법치문화상 수상</title>
@@ -226,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212130</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212130.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212144.jpg" alt="474.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left; "&gt;가을비 우산 속에. 경기도 의왕 왕송호수 인근에서 10일 시민들이 비에 젖은 코스모스와 핑크뮬리 길을 걷고 있다.&lt;/p&gt;&lt;p style="text-align: right; "&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: right; "&gt;&lt;b&gt;연합뉴스&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 10 Oct 2025 20:06:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212144</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212144</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212144.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
