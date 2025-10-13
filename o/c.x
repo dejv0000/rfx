@@ -13,6 +13,59 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>캄보디아서 30대 경북 남성 또 납치 신고… 가족에 2000만원 요구</title>
+      <link>https://www.chosun.com/national/2025/10/13/TCB3MB5NNJH7HOGIIOBP7GQVLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/13/TCB3MB5NNJH7HOGIIOBP7GQVLA/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 04:15:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5L2GFK6UBBPTCQWWYD6GLCVWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 청사. /경북청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 경북 예천 출신 대학생이 납치·살해된데 이어 상주에서도 캄보디아로 출국한 30대 남성이 범죄조직에 납치됐다는 신고가 접수돼 경찰이 수사 중이다. &lt;br&gt;&lt;br&gt;13일 경북경찰청 등에 따르면 “캄보디아로 출국한 30대 A씨와 연락이 끊겼다”는 가족 신고가 지난 8월22일 접수됐다. A씨는 지난 8월19일 캄보디아로 출국한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;출국 이후 연락이 끊겼던 A씨는 닷새 뒤인 24일 텔레그램 영상 통화로 가족에게 “2000만원을 보내주면 풀려날 수 있다”고 말한 뒤 다시 연락이 끊겼다.&lt;br&gt;&lt;br&gt;최근 A씨 사회관계망서비스(SNS)에는 그가 차용증 내용을 적은 노트를 들고 있는 사진도 게시됐다. A씨는 현재 여권과 휴대전화 등을 범죄조직에 빼앗긴 것으로 알려졌다. A씨의 가족은 발신 번호가 확인되지 않는 협박성 문자메시지를 여러 차례 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 해외 범죄 조직이 A씨를 감금한 채 협박·갈취하고 있는 것으로 보고 지난 8월23일 캄보디아 한국대사관, 경찰청 국제협력관실과 외교부 영사 콜센터로 사건을 통보했다.&lt;br&gt;&lt;br&gt;올해 경북지역에서 캄보디아로 출국했다가 실종됐다는 신고는 이번 사건을 포함해 총 7건이다. 이 중 5건은 실종자 등이 확인돼 종결됐다. 미해결은 경주에서 “캄보디아로 간 가족이 연락되지 않는다”고 신고가 접수된 건이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XSLWERZVRZGMHPYXMXBK24UG5Y.jpg?auth=6711558924752cb88c2a3a0ea6380616dc76d526e810721f08814583e700c87e&amp;smart=true&amp;width=654&amp;height=368" type="image/jpeg" height="368" width="654">
+        <media:description type="plain">&lt;YONHAP PHOTO-5720&gt; 캄보디아 검찰에 기소된 한국인 대학생 살해 혐의 중국인 3명 
+    (서울=연합뉴스) '온라인 스캠' 범죄조직과 전쟁에 나선 캄보디아 당국 합동단속반이 지난 8월 캄폿주에서 펼친 단속 작전에서 체포한 중국인들을 캄보디아 국영 AKP통신이 보도했다. 이들 중국인 3명은 지난 8월 한국인 대학생이 캄보디아에서 고문당한 뒤 숨진 사건을 수사한 현지 검찰에 의해 살인 혐의로 재판에 넘겨졌다. 
+    11일(현지시간) 캄보디아 국영 AKP 통신에 따르면 전날 캄보디아 깜폿지방검찰청은 살인과 사기 혐의로 A(35)씨 등 30∼40대 중국인 3명을 구속기소 했다. 이들은 지난 8월 캄보디아 깜폿주 보꼬산 인근에서 20대 한국인 대학생 B씨를 살해한 혐의를 받고 있다.  2025.10.12  [AKP통신 홈페이지 캡처. 재판매 및 DB 금지]
+    photo@yna.co.kr/2025-10-12 23:04:50/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“공채 출신만 뽑는 건 차별” 감사원, 인권위 권고 불수용</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/13/UYX2YWZN7ZG73OM4PVSIFRP5YY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/13/UYX2YWZN7ZG73OM4PVSIFRP5YY/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 05:04:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3E3IV6RYEUFGWXUV3PBMJNR2UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 감사원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회는 감사원이 국가공무원 5급 전입대상자 모집 때 ‘공개 채용’(공채) 출신만 전입 받는 차별적 행태를 개선하지 않고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;인권위는 지난해 11월 감사원장에게 5급 전입대상자 채용에 있어 승진임용자를 배제한 것은 차별이라며 개선 권고했으나 감사원이 권고 이행 계획을 제출하지 않았다고 13일 밝혔다. &lt;br&gt;&lt;br&gt;진정인은 행정 5급 국가공무원이다. 그는 감사원이 승진을 통해 5급이 된 공무원을 배제하고 공채 출신만 임용하는 것은 차별이라며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;이에 감사원은 “임용은 인사권자의 재량”이라며 “우수인력 확보를 위한 입직 경로 다양화 등을 위해 예외적으로 전입 대상을 5급 공채자로 한정한 것”이라고 했다. &lt;br&gt;&lt;br&gt;그러나 인권위 차별시정위원회는 5급 승진자와 5급 공채자는 업무 수행 능력이 같거나 유사하다고 보는 것이 타당하다고 보고, 평등권 침해의 차별행위에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;감사원이 이에 대한 권고 이행계획을 지난 8월까지도 내지 않아 인권위는 공식적으로 권고를 불수용했다고 판단, 국가인권위원회법 제49조의2에 따라 관련 내용을 공표하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주거환경 개선사업 수도시설 분담금 부과 정당”…인천시, 대법원서 LH에 승소</title>
+      <link>https://www.chosun.com/national/regional/2025/10/13/UIFAUAKRQ5GLDNKWAPE6AMHQGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/13/UIFAUAKRQ5GLDNKWAPE6AMHQGQ/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 05:03:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PMH4ETHWDGIR32BT7B3ZQJJA7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천광역시청./인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 주거환경 개선사업구역 내 수도시설분담금 부과 문제를 놓고 한국토지주택공사(LH)와 벌인 법정 다툼에서 승소했다. &lt;br&gt;&lt;br&gt;인천시는 LH가 제기한 ‘수도시설분담금 부과처분 취소소송’ 상고심에서 승소했다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;LH는 지난 2018년 7월 인천시가 미추홀구 용마루주거환경 개선사업 시행자인 LH에 수도시설분담금 8억7300여만원을 부과한 건 부당하다며 같은 해 10월 이번 소송을 제기했다.&lt;br&gt;&lt;br&gt;수도시설분담금은 사업자가 신규 건축물의 급수공사가 필요할 때 인천시에 신청하면 급수공사비와 함께 부과된다. 수도시설 건설로 이익을 얻는 사업자가 공공 기반시설 비용을 분담하는 ‘수익자부담 원칙’에 따른 조치라는 게 인천시 설명이다. &lt;br&gt;&lt;br&gt;LH는 용마루주거환경 개선사업을 추진하는 과정에서 배수관 신·증설 공사를 위해 공사비로 2억900여만원을 지출한 만큼, 인천시의 수도시설분담금 부과는 ‘이중 부과’라고 주장했다. &lt;br&gt;&lt;br&gt;2021년 1심에선 시가 승소했으나, 지난해 2심에선 패소했다. 2심 재판부는 “사업자가 정비 구역 내 수도 시설을 직접 설치한 것은 수도법 71조에 따른 원인자 부담금을 납부한 것과 같으므로, 별도의 시설 분담금 부과는 이중 부과에 해당한다”는 LH 주장을 받아들였다. &lt;br&gt;&lt;br&gt;그러나 대법원은 최근 원심판결을 파기하고 사건을 서울고법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;대법원은 “재개발 등 정비 구역 내 수도 시설 설치는 도시정비법에 규정된 사업 시행자의 고유 의무를 이행하는 것으로, 이를 원인자 부담금 납부로 볼 수 없다”고 판단했다. &lt;br&gt;&lt;br&gt;원인자 부담금을 납부한 게 없는 만큼, 인천시의 수도 시설 분담금 부과는 이중 부과가 아니라는 판단이라고 인천시는 설명했다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “이번 판결은 이익을 얻는 사업자가 공공 기반 시설 비용을 분담하는 ‘수익자 부담 원칙’을 재확인한 것”이라며 “전국 지방자치단체의 유사 소송에 중요한 법적 기준이 될 것으로 본다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “‘분양권=1주택’ 간주 규칙, 개정 전 입주자에는 적용 못해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/ZPTGSVXV75A7NL7VA62NP55VRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/ZPTGSVXV75A7NL7VA62NP55VRU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 04:01:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OT6IUVPNVAMDGEV4RIARZKRHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습 /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;분앙권 소유자를 유주택자로 간주하는 규칙이 시행된 2018년 이전 공공임대주택에 입주한 임차인이 아파트 분양권을 얻었더라도 임대인이 퇴거 요구를 할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 한국토지주택공사(LH)가 A씨를 상대로 낸 건물 인도 소송에서 LH 승소로 판결한 원심을 깨고 사건을 창원지법으로 돌려보냈다고 13일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2006년 11월부터 국민임대주택에 살며 임대차 계약을 2년 단위로 갱신해왔다. 그런데 임대차 계약 기간 중인 2021년 4월 경남 거창군의 한 아파트 분양권을 취득했다가 두 달 뒤에 이를 팔았다.&lt;br&gt;&lt;br&gt;그러자 LH는 ‘임차인이 계약 기간 다른 주택을 소유할 경우 LH가 계약을 해지할 수 있다’고 한 임대차 계약을 들어 A씨에게 퇴거를 명령하고 건물 인도 소송을 냈다. LH는 “임대차 계약 기간 중 분양권을 취득한 것은 계약 해지 사유”라고 주장했다. 반면 A씨는 “계약 해지 통보를 받기 전 분양권을 처분했기 때문에 계약 해지 사유가 없다”고 맞섰다.&lt;br&gt;&lt;br&gt;쟁점은 A씨가 분양권을 갖고 있던 것이 주택을 소유했던 것과 똑같이 볼 수 있는지였다. 국토교통부령인 ‘주택공급에 관한 규칙’은 2018년 개정되면서 ‘분양권을 갖고 있는 경우 주택을 소유하는 것으로 본다’는 내용이 추가됐다. 2심은 “주택공급에 관한 규칙 개정으로 분양권도 주택 소유로 간주된다”며 LH 손을 들어줬다.&lt;br&gt;&lt;br&gt;그러나 대법원은 ‘개정 규칙은 시행 이후 입주자 모집 승인을 신청하는 경우 적용한다’고 한 부칙을 들어 판단을 뒤집었다. 대법원은 “규칙 시행 전 입주자모집 승인 신청을 통해 입주한 임차인에게는 규칙을 적용할 수 없다”며 “비록 규칙 시행 이후에 다른 주택 분양권을 취득했더라도 이를 이유로 계약을 해지하거나 갱신을 거절할 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 고교에 폭발물 설치 협박… 학교 측 임시 휴업 조치</title>
+      <link>https://www.chosun.com/national/incident/2025/10/13/44BTAMCKR5A5FENHJ4KQHZ5GYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/13/44BTAMCKR5A5FENHJ4KQHZ5GYU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 04:01:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVVE6P376C5SBHUCG7AOGLBTME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 서부경찰서. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 서구의 한 고등학교에 폭발물을 설치하겠다는 협박 글이 접수돼 경찰이 대응에 나섰다. &lt;br&gt;&lt;br&gt;13일 인천 서부경찰서 등에 따르면 이날 오전 7시 49분쯤 인천 서구 대인고등학교에 폭발물을 설치하겠다는 글이 소방청 119안전신고센터 홈페이지에 게시됐다. &lt;br&gt;&lt;br&gt;글쓴이는 “오전 11시에 학교에 찾아가서 칼부림한 뒤 폭발물을 설치해 폭파하겠다”고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;소방 당국으로부터 공동 대응 요청을 받은 경찰은 현장에 출동해 수색에 나서는 등 현장 상황을 관리하고 있다. &lt;br&gt;&lt;br&gt;학교 측은 안전을 확보하기 위해 임시 휴업을 결정하고 학생들을 집으로 돌려보냈다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “폭발물이 발견되는 등 특이 사항은 현재까지 없는 상황”이라며 “만일의 사태에 대비해 현장 상황을 관리하고 있고, 글쓴이가 누군지 수사하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>해병특검, 윤석열 23일 오전 10시 피의자 소환 예정 </title>
       <link>https://www.chosun.com/national/court_law/2025/10/13/LGK6DYNB6FDZPIZDDENZEO2AKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/LGK6DYNB6FDZPIZDDENZEO2AKM/</guid>
@@ -732,24 +785,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경계선 지능인 10대 미성년자에게 성매매를 강요한 일당이 경찰에 구속됐다. &lt;br&gt;&lt;br&gt;11일 법조계에 따르면 경찰은 최근 아동·청소년의 성 보호에 관한 법률 위반 혐의로 A씨 등 20대 남성 8명을 구속해 검찰에 송치했다.&lt;br&gt;&lt;br&gt;A씨 등은 지난해부터 올해 초까지 경계선 지능인 미성년자 B(10대)양에게 성매매를 강요한 혐의를 받고 있다. 이들은 동네 선후배 사이로 평소 알고 지내던 사이다. &lt;br&gt;&lt;br&gt;경계선 지능인은 지적 장애는 아니지만 인지·학습 능력 부족으로 사회 적응에 어려움을 겪는 사람을 가리킨다&lt;br&gt;&lt;br&gt;경찰은 A씨 일당이 B양의 이런 점을 노려 성매매를 강요한 것으로 파악했다. 이들은 애플리케이션으로 성 매수 남성을 찾고, 이들에게서 현금을 받아 성매매를 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>교정시설 범죄, 3년 전보다 54% 늘어... 마약 등 금지물품도 적발</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/11/6HTHB3J7SVDYZBJEK6ZKBQ3NII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/6HTHB3J7SVDYZBJEK6ZKBQ3NII/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Oct 2025 02:56:01 +0000</pubDate>
-      <content:encoded>전국 교정시설에서 수용자들이 저지른 범죄가 3년 사이 50% 넘게 급증한 것으로 나타났다. 금지물품 적발 건수도 매년 늘고 있어 교정시설 내 질서 확립이 필요하다는 지적이 나온다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5IYJQFQUNNRNS2R72OH47PPTGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박준태 국민의힘 의원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회 법제사법위원회 소속 국민의힘 박준태 의원이 11일 법무부에서 제출받은 ‘교정시설 내 범죄유형별 형사입건 송치 현황’에 따르면, 지난 한 해 교정시설 내 범죄로 인한 송치 건수는 총 1595건으로 나타났다. 2021년 1034건과 비교하면 3년 사이 561건(54%)이 늘었다. 올해 1∼7월 송치 건수도 이미 842건을 기록했다.&lt;br&gt;&lt;br&gt;지난해 송치 사례 중에는 폭력행위가 635건(39.8%)으로 가장 많았고, 상해 223건(14%), 공무방해 137건(8.6%)이 뒤를 이었다. &lt;br&gt;&lt;br&gt;교정시설 내 금지물품 적발 사례도 2021년 16건에서 지난해 26건, 올해 1∼7월 28건으로 증가세에 있다. 2021년부터 올해 7월까지 총 적발건수는 108건이다. 특히 향정신성 의약품 등 마약류가 29건으로, 담배(39건) 다음으로 많았다. 지난 2023년에는 마약류관리법 위반으로 입소한 수용자가 빈 주사기를 속옷에 숨겨 들어와 보관하다가 적발된 사례도 있다고 한다.&lt;br&gt;&lt;br&gt;교정시설에서 정해진 노역인 ‘정역’에 참여하지 않는 수형자도 매년 1200명 선을 기록하고 있다. 교정시설 수용 정원을 초과했거나 작업장 부족, 작업 의지 결여 등이 불참 이유라고 한다.&lt;br&gt;&lt;br&gt;지난 2021년부터 올해 7월까지 환자나 이송대기자 등 작업이 불가능한 인원을 제외하고, 작업이 가능한데도 참여하지 않은 수형자는 총 6441명으로 나타났다. 작업 가능 인원 중 작업에 참여한 인원 비율인 ‘정역 집행률’은 올해 1∼7월 기준 94.3%을 기록했다. &lt;br&gt;&lt;br&gt;같은 기간 흉악범 전담 시설로 지정된 경북북부제2교도소의 정역 집행률은 42.9%로 절반에도 못미쳤다. 2명 중 1명은 작업에 참여하지 않은 셈이다.&lt;br&gt;&lt;br&gt;박 의원은 “교정시설은 사회로 복귀하기 전 마지막 교정의 장임에도 내부 범죄가 급증하는 것은 심각한 경고 신호”라며 “교정 인력 확충과 시설 개선 없이는 재범 방지도, 질서 확립도 어렵다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>평택제천고속도로 2차 사고...운전자 심정지</title>
-      <link>https://www.chosun.com/national/incident/2025/10/11/QEXVFDNVBBEOBAJRBRZV5MD4NE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/11/QEXVFDNVBBEOBAJRBRZV5MD4NE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Oct 2025 01:17:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67MIUAIJ4SOBXOKJUZ7ALRDQ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평택제천고속도로 사고 현장. (경기도소방재난본부 제공)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평택제천고속도로에서 1차 사고 차량을 트럭이 또다시 들이받는 사고가 발생했다. &lt;br&gt;&lt;br&gt;11일 오전 2시 36분쯤 경기 안성시 평택제천고속도로 남안성IC 부근에서 1차로를 달리던 덤프트럭이 2차로를 지나는 SM7 승용차를 추돌했다.&lt;br&gt;&lt;br&gt;이후 사고 처리가 진행 중인 상황에서 뒤따르던 2.5t 화물차가 도로상에 정차된 차들을 들이받으면서 2차 사고로 이어졌다.&lt;br&gt;&lt;br&gt;이 사고로 2.5t 화물차 운전자 A(30대)씨가 심정지 상태로 병원에 옮겨졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨 차량이 앞선 사고 상황을 인지하지 못해 사고가 난 것으로 보고 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“특검의 폭주, 정의의 이름을 빌린 폭력”... 전직 고법부장 비판</title>
       <link>https://www.chosun.com/national/court_law/2025/10/11/OPGEAK53DBCXXMTTRSXL73FY2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/11/OPGEAK53DBCXXMTTRSXL73FY2I/</guid>
@@ -772,15 +807,6 @@
       <content:encoded>휴대전화 판매점을 운영하며 알게 된 가입자의 개인정보를 빼내 집 주소를 알아낸 뒤 가족들을 죽이겠다고 협박해 돈을 뜯으려 한 40대 남성에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7Q76LIDABR46UNPG325UF2RZKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 법조계에 따르면, 서울중앙지법 형사24부(재판장 이영선)는 공갈미수·스토킹처벌법 위반·개인정보보호법 위반 등 혐의로 구속기소된 A씨에게 최근 징역 1년 6개월을 선고하고 40시간의 스토킹 치료 프로그램, 3년간의 보호관찰을 명령했다. &lt;br&gt;&lt;br&gt;2015년부터 2018년까지 서울 종로구에서 휴대전화 판매점을 운영했던 A씨는 2016년쯤 자신의 매장을 방문한 B씨에게 휴대전화를 개통해주며 이름, 연락처, 가족의 인적 사항 등을 받았고, 이를 이동식 저장디스크에 보관해둔 것으로 조사됐다. 그는 지난해 4월 택배기사인 척하며 B씨 주거지로 가 현관문 앞에 “노후를 교도소에서 보내기 위해 가족 몰살을 계획하고 있다”는 등의 내용이 적힌 10장 분량의 편지를 두고 1억5000만원을 요구한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;편지에는 B씨의 미성년자 자녀를 언급하며 성인이 되면 범죄를 저지르겠다는 내용도 있었다. B씨가 입금 대신 경찰에 신고하자 A씨는 “준비하면 찾아가겠다” “꼭 볼 생각에 더 빡친다” 등의 내용이 포함된 문자메시지를 보내기도 했다. &lt;br&gt;&lt;br&gt;A씨는 공갈미수와 스토킹 혐의 등으로 재판에 넘겨졌으나, 과거 휴대전화 매장을 운영하면서 확보한 가입자 정보를 이용했다는 점이 추후 밝혀져 개인정보 보호법 위반 혐의가 추가됐다. &lt;br&gt;&lt;br&gt;재판부는 A씨가 형 종료 이후 피해자 자녀에 대한 범죄를 예고한 점, 재범위험성 평가척도 결과가 ‘중간’ 수준으로 나온 점 등을 고려해 재범 가능성이 높다고 봤다. 그러면서 “죄질이 매우 불량하다”며 “B씨와 그 가족들은 범행으로 극심한 불안감과 정신적 고통을 느꼈을 것으로 보이나, A씨는 피해 회복을 위해 노력하거나 피해자로부터 용서받지도 못했다”고 질타했다. &lt;br&gt;&lt;br&gt;다만 재판부는 A씨가 반성하는 모습을 보이는 점, 징역형의 집행유예를 초과하는 형사처벌 전력이 없는 점 등을 고려해 형을 정했다고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캄보디아서  韓 대학생 ‘납치·살해’  국내 대포통장 모집책 붙잡아</title>
-      <link>https://www.chosun.com/national/incident/2025/10/11/O7PFDUBOSRA4ZDTEJB3D4I2TTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/11/O7PFDUBOSRA4ZDTEJB3D4I2TTM/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Oct 2025 00:47:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 한국인 대학생이 현지에서 납치·살해된 사건과 관련, 이 조직 국내 대포통장 모집책 일부가 경찰에 붙잡힌 것으로 확인됐다.&lt;br&gt;&lt;br&gt;11일 경북경찰청에 따르면 예천 출신 대학생 A씨(20대)를 유인해 캄보디아로 출국하게 한 대포통장 모집책 일부를 전자통신금융거래법 위반 혐의로 지난달 국내에서 붙잡았다. 이들은 모두 한국인으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이들이 A씨에게 “캄보디아에 가면 돈 많이 쳐준다”며 유인한 것으로 보고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이들은 캄보디아 현지 조직 같은 조직원으로 보기 어렵고 일종의 프리랜서 개념”이라며 “A씨가 캄보디아로 출국하게 된 경위에 대해서 수사를 진행하고 있다”고 말했다. &amp;nbsp;&lt;br&gt;&lt;br&gt;A씨는 지난 7월 17일 가족에게 “현지 박람회에 다녀오겠다”며 캄보디아로 출국했다가 3주 뒤인 8월 8일 캄보디아 깜폿 보코산 인근에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;캄보디아 현지 경찰은 사망 원인을 ‘심장마비(고문으로 인한 극심한 통증)’로 적었다.&lt;br&gt;&lt;br&gt;A씨 사건은 유족이 이 조직에 협박 전화를 받으면서 알려졌다.&lt;br&gt;&lt;br&gt;당시 한국계 중국인(조선족) 말투를 쓰는 남성은 유족에게 전화를 걸어 “A씨가 사고를 쳤으니 해결해야 한다”며 5000만원이 넘는 돈을 요구하자 경찰과 외교부에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨 시신은 캄보디아 정부의 협조 문제로 두 달째 한국으로 돌아오지 못하고 있다.&lt;br&gt;&lt;br&gt;경찰은 외교부와 함께 A씨 시신의 빠른 송환을 위해 노력하고 있다. 또 이들 조직에 대한 수사를 확대해 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>계속 이어지는 비...일요일도, 다음주도 곳곳에 비</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/11/LCDRQWSWKRC3FDR6LWFAGM3IVQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/11/LCDRQWSWKRC3FDR6LWFAGM3IVQ/</guid>
@@ -797,15 +823,6 @@
       <description/>
       <pubDate>Sat, 11 Oct 2025 02:08:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63WIJDKIUNFNRFXHNT7GCGWCKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 한국인 여성이 미국 맥도날드에서 70분을 기다렸지만 음식을 받지 못했다며 인종차별을 당했다고 주장했다./'인스타그램 'istp_girlfriend'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미국의 한 맥도날드 매장에서 한국인 여성이 주문 후 70분 동안 음식을 받지 못하고 직원들에게 조롱 섞인 반응까지 들었다며 인종차별을 주장했다.&lt;br&gt;&lt;br&gt;10일 한 유튜버는 자신의 소셜미디어(SNS)에 ‘미국 식당의 신박한 인종차별 방법’이라는 제목의 영상을 공개했다. 영상에서 그는 “미국의 한 맥도날드 매장에서 교묘한 인종차별을 당했다”고 했다.&lt;br&gt;&lt;br&gt;그의 설명에 따르면 주문한 지 40분이 지나도 음식은 나오지 않았고, 뒤에 주문한 다른 손님들에게는 차례대로 음식이 전달됐다. 그는 “다섯 번이나 ‘언제 나오느냐’고 물었지만 직원들은 ‘곧 나온다’며 미소만 지었다”고 했다.&lt;br&gt;&lt;br&gt;끝내 70분이 지나도록 음식이 나오지 않자 빈손으로 매장을 떠났다고 한다. 그는 “주방 쪽에서 ‘쟤들은 다시는 맥도날드 안 올 듯’이라며 비웃는 소리가 들렸다”며 “생각할수록 황당해서 눈물이 났다”고 했다.&lt;br&gt;&lt;br&gt;이 유튜버는 시애틀에서 뉴욕주의 한 소도시로 이주한 뒤 “벌써 두 번째로 교묘한 인종차별을 겪었다”고 밝혔다. 그는 “마음 같아선 끝까지 버티고 싶었지만, 집에 강아지가 기다리고 있어 더 머무를 수 없었다”며 “이런 미묘한 차별이 사라지길 바란다. 이번 일은 맥도날드 본사에 정식으로 항의하겠다”고 했다.&lt;br&gt;&lt;br&gt;영상이 퍼지자 그는 댓글로 “당시 경황이 없어 촬영을 하지 못했지만, 40분째 기다린 상황에서 ‘이게 말이 되냐’고 항의했다”며 “피해자에게 ‘왜 더 강하게 항의하지 않았냐’고 묻는 건 본질을 흐리는 일”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이를 접한 네티즌들은 “고소해야 한다” “이런 노골적인 차별 영상은 처음 본다” “본사에 공식 항의하라” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헬스장 운영하고 시민 폭행해 해임된 경찰 “억울해”...법원은 “정당”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/10/11/6U5A6TE66FCIJBM4TCZ6YQFGDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/10/11/6U5A6TE66FCIJBM4TCZ6YQFGDE/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 11 Oct 2025 01:35:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;몰래 헬스장을 운영하고 시민까지 폭행해 해임당한 경찰관이 소송을 제기했지만 패소했다. &lt;br&gt;&lt;br&gt;청주지법 행정1부(김성률 부장판사)는 11일 전직 경찰관 A씨가 충북경찰청장을 상대로 낸 해임 처분 취소 소송에서 원고 패소 판결했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 충북도경찰청 소속 경찰관으로 근무하면서 2023년 5월부터 약 6개월간 지인과 공동 명의로 헬스장 등 체육 시설 3곳을 몰래 운영했다. 그는 5개월이 지날 무렵 자신이 운영하는 헬스장에서 회원을 폭행했다가 경찰 조사를 받게 되면서 이 같은 비위 사실이 드러났다.&lt;br&gt;&lt;br&gt;국가공무원법에는 공무원은 영리를 목적으로 하는 업무에 종사할 수 없으며 기관장 허가 없이 다른 직무를 겸할 수 없다고 규정하고 있다. &lt;br&gt;&lt;br&gt;이후 A씨는 헬스장 운영을 중단하겠다며 감찰팀에 매매 계약서를 제출했다. 하지만 이마저도 위조한 계약서였고, 실제 그는 계속해서 헬스장을 운영한 것으로 조사됐다. 그는 직위 해제됐다.&lt;br&gt;&lt;br&gt;하지만 A씨는 이듬해 4월 요금 문제로 시비가 붙은 택시 기사를 폭행해 결국 해임됐다.&lt;br&gt;&lt;br&gt;A씨는 “징계 처분이 무겁다”며 소송을 제기했다. 하지만 재판부는 그의 손을 들어주지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “원고의 비위 행위는 경찰공무원 직무의 공정성·준법성에 대한 국민의 신뢰를 해칠 우려가 높고, 의무 위반 행위의 정도가 심하다”며 “원고는 2022년에도 펜션에서 지인을 폭행해 불문경고를 받고도 또다시 비위 행위를 일으켰다”고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 “향후 유사 사례가 재발하는 것을 막고 경찰 조직의 질서를 바로 세우기 위해서 엄정한 징계 처분을 할 필요가 있다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“악, 물이 아니잖아”...파라핀오일 마신 캠퍼들 병원 이송</title>
@@ -842,15 +859,6 @@
       <description/>
       <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
       <content:encoded>대법원 1부(주심 서경환 대법관)는 16일 오전 10시 최태원 SK 회장과 노소영 아트센터 나비 관장의 이혼소송 상고심 판결을 선고한다고 밝혔다. 작년 5월 2심 재판부가 “최 회장이 노 관장에게 재산 분할금 1조3808억원과 위자료 20억원을 지급하라”고 판결한 지 1년 5개월 만이다.&lt;br&gt;&lt;br&gt;이 사건은 사회적 관심이 높아 대법관 전원이 사건의 쟁점을 검토하고 지난달 18일 전원 합의체 기일에 관련 절차를 논의한 것으로 알려졌다. 사건이 전합에 정식 회부될 가능성도 거론됐지만 대법관 4명으로 구성된 소부(1부)에서 선고하는 쪽으로 결정됐다.&lt;br&gt;&lt;br&gt;상고심 쟁점은 최 회장이 보유한 SK㈜ 주식이 재산 분할 대상인지, 노 관장의 부친인 노태우 전 대통령의 ‘비자금 300억원’이 SK그룹에 유입돼 회사 성장의 바탕이 됐는지 등이다. 최 회장 측은 선친인 최종현 SK 선대 회장에게 증여받은 재산으로 취득한 SK㈜ 주식은 분할 대상이 아니라고 주장한다. 반면 노 관장 측은 노 전 대통령 비자금 등이 주식 가치를 높이는 데 기여했기 때문에 부부 공동재산이라는 입장이다.&lt;br&gt;&lt;br&gt;1심은 최 회장의 SK㈜ 주식은 분할 대상이 아니라고 보고 재산 분할금 665억원과 위자료 1억원을 노 관장에게 지급하라고 판결했다. 그러나 2심은 “노 관장 측이 SK 성장에 유·무형적으로 기여했다”며 재산 분할금과 위자료를 20배로 높였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“교사 된 걸 후회하고 있어요”… OECD 1위</title>
-      <link>https://www.chosun.com/national/education/2025/10/11/B6JQXICDIZEBROP5F2EPDFLSRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/11/B6JQXICDIZEBROP5F2EPDFLSRI/</guid>
-      <dc:creator>김민기 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 10 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>초등학교 교사 A씨는 최근 우울증 진단을 받았다. 지난 1학기 수업 중에 욕을 하고 갑자기 교실을 뛰쳐나간 학생에게 주의를 준 게 발단이었다. 학부모는 “왜 우리 애한테 뭐라고 하느냐” “아동 학대로 신고하겠다”고 항의했다. A씨는 민원이 계속되자 일에 흥미를 잃고, 마음도 불안해져 병원에 갔다가 우울증 판정을 받은 것이다. A씨는 “앞으로 교사 생활을 제대로 할 수 있을지 모르겠다”고 말했다. &lt;br&gt;&lt;br&gt;한국 교사들이 학부모 민원과 학생들의 언어 폭력 때문에 받는 스트레스가 세계적으로 가장 높은 수준인 것으로 나타났다. 교사가 된 걸 후회한다는 교사 비율은 OECD(경제협력개발기구) 1위였다. &lt;br&gt;&lt;br&gt;지난 7일 OECD가 발표한 ‘교원·교직 환경 국제 비교 조사(TALIS) 2024’ 결과에 따르면, 한국 교사 56.9%가 ‘학부모 민원 대응’이 주요 스트레스 요인이라고 답했다. 조사 대상국 가운데 포르투갈(60.6%)에 이어 2위였다. OECD 평균(41.6%)보다 15.3%포인트나 높았고, 2018년 조사(40.4%)보다 16.5%포인트 증가했다. &lt;br&gt;&lt;br&gt;OECD는 2008년부터 5~6년마다 회원국의 유치원, 초·중·고교 교사들의 업무 환경을 폭넓게 조사한 TALIS를 발표한다. 이번 조사는 54국(비회원 22국 포함)의 중학교 교사 12만명, 교장 1만1000명이 참여했다. 한국은 교사 3477명, 교장 173명이 참여했다. &lt;br&gt;&lt;br&gt;한국 교사들은 다른 국가에 비해 교사 업무의 본질인 ‘수업’ 외에 다른 부분에서 스트레스를 많이 받는 특징이 있었다. 예컨대, ‘학생의 위협과 언어 폭력’이 스트레스 요인이라는 교사는 30.7%로 OECD 평균(17.6%)의 2배에 달했다. 전체 조사 대상국 중 4위였다. 반면 ‘수업 준비를 너무 많이 해야 한다’(18.1%) 등 교육 관련 스트레스를 겪은 교사들은 OECD 평균보다 낮았다. 한국 교사는 행정 업무에 들이는 시간도 1주일 평균 8시간으로 OECD 평균(4.7시간)보다 3.3시간 많은 전체 3위였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z2CDX6VIQ5FLVGBW45JYPPG63U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;실제 현장에선 학생에게 위협을 당했다는 교사들이 적지 않다. 경북의 중학교 교사 B씨도 수업 시간에 화장하는 학생을 지적했다가 큰 모욕을 당했다. 학생은 B씨 뒤통수에 대고 욕을 하고, 친구에게 “B선생 죽여버리고 싶다”고 말하기도 했다. 교권보호위원회가 열렸지만 학생은 ‘출석 정지 10일’ 조치를 받는 데 그쳤다. &lt;br&gt;&lt;br&gt;교직이 단점보다 장점이 많은 직업이라고 생각하는 한국 교사들은 76.9%로 OECD 평균(73.9%)보다 높았다. 하지만 교사가 된 것을 후회한다는 비율은 21%로, 조사 대상국 가운데 1위였다. 교직이 사회적으로 인정받는다고 생각하는 교사는 35.2%로 OECD 평균(21.7%)보다 높았지만, 6년 전보다 32%포인트 급락했다. &lt;br&gt;&lt;br&gt;교사들은 “서이초 사건 이후에도 변한 게 없다”고 입을 모은다. 2023년 서이초 교사 사망 사건이 논란이 되자 교육부는 모든 민원을 학교가 대응하도록 하겠다고 발표했다. 하지만 현실에선 이런 시스템이 잘 작동하지 않는다. 경남의 한 중학교 교사는 “민원 대응팀이 1차로 전화는 받지만, 결국 내용을 알고 있는 담임 교사에게 민원 해결을 맡기는 경우가 태반”이라고 말했다. &lt;br&gt;&lt;br&gt;교사 단체들은 교사들이 수업에 집중하도록 민원과 행정 업무를 대폭 줄여줘야 한다고 요구하고 있다. 장승혁 한국교총 대변인은 “‘악성 민원’은 한 건이라도 교권 침해로 보고 강력 처벌할 방안이 필요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>한덕수·박성재 尹과 계엄 공모 수사</title>
