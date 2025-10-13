@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대법 윤리감사관 “지귀연 10여 차례 접대받았다는 증빙, 전혀 안 나와” </title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/LV7SN3GEXJE55IDQW7OWDDZK2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/LV7SN3GEXJE55IDQW7OWDDZK2M/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 14:03:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZGHCQY5ZERMDVB22ALMZPXTZUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 여의도 국회에서 열린 법제사법위원회의 대법원 등에 대한 국정감사에서 추미애 위원장이 정회를 선포하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란 사건을 담당하는 지귀연 서울중앙지법 부장판사의 ‘접대 의혹’과 관련 대법원 윤리감사관은 “10여 차례 접대를 받았다는 증빙은 전혀 없었다”고 밝혔다. &lt;br&gt;&lt;br&gt;최진수 대법원 윤리감사관은 13일 국회 법제사법위원회 국정감사에 출석해 “동석 의혹이 제기된 두 변호사와 지 부장판사 등 세 사람의 진술이 모순되는 점 없이 일치했고 심의관과 직원이 현장도 확인했다”고 말했다.&lt;br&gt;&lt;br&gt;최 감사관은 “세 사람이 저녁 식사를 한 뒤 이모 변호사가 ‘그냥 헤어지기 섭섭하니까 2차로 술 한 잔이라도 하자’며 자기가 아는 곳으로 가자고 해서 (해당 주점에) 갔다고 한다”며 “그런데 지 부장판사는 양주 1병이 나온 상태에서 한두 잔 정도 마시고 재판 준비 때문에 일찍 나갔다는 이야기였다”고 했다. 이어 “이 부분에서 세 사람 진술이 전부 일치했다”며 “그 상태에서는 강제 수사권을 갖고 있지 않는 한…”이라고 했다.&lt;br&gt;&lt;br&gt;장경태 더불어민주당 의원이 “제보에 따르면 (지 부장판사가) 10여 차례 이상 접대를 받았다고 하는데 양주 한두 잔 먹었다고 확인하고 덮어야겠다고 생각한 것이냐”며 “이러니까 제 식구 감싸기라는 비판이 나오는 것”이라고 하자 최 감사관은 “10여 차례(접대)에 대한 증빙은 전혀 나오지 않았다”고 했다.&lt;br&gt;&lt;br&gt;추미애 법제사법위원장이 “세 사람이 입을 맞출 수도 있는데 진위 여부를 확인하기 위해 어떤 노력을 했느냐”며 “CCTV를 확인했느냐”고 묻자 최 감사관은 “(술자리는)의혹 제기로부터 2년 전인 2023년 8월에 있었던 일이기 때문에 시점이 상당히 멀어서 CCTV를 확인할 방법은 없었다”고 답했다.&lt;br&gt;&lt;br&gt;대법원 윤리감사관실은 앞서 이 의혹을 조사하고 “지 부장판사와 동석자들 간 직무 관련성이 인정되기 어렵다”는 결론을 내렸다. 이런 조사 내용을 심의한 법원 감사위원회는 “현재 확인된 사실관계만으로는 지 부장판사에게 징계 사유가 있다고 판단하기 어렵다”면서 “향후 고위공직자범죄수사처 조사 결과에 따라 비위 행위가 드러날 경우 엄정하게 처리하라”고 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원행정처장 “헌법상 사법부의 민주적 정당성, 국회·대통령과 같아”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/YYQQSKJJ5BDGXLSPLJDHLSS7QE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/YYQQSKJJ5BDGXLSPLJDHLSS7QE/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 14:00:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIM2EY2GEZIS7HFDFCO37O2BGQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 13일 서울 여의도 국회에서 열린 법제사법위원회의 대법원 국정감사에서 의원 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장이 13일 국회 법제사법위원회 국정감사에서 “사법부의 민주적 정당성은 헌법이 규정한 삼권분립과 사법부 독립에서 나오고, 그 가치는 국회·대통령의 민주적 정당성과 동일하다”고 말했다. ‘직접 선출 권력’인 입법부가 ‘간접 선출 권력’인 사법부보다 우위에 있다는 취지의 이재명 대통령 발언과는 배치되는 것이다.&lt;br&gt;&lt;br&gt;천 처장은 이날 송석준 국민의힘 의원이 “특정 정당이 입법부 다수를 점한다 하더라도 사법부가 선출되지 않은 권력이라며 함부로 폄훼해서는 안 되는 것 아니냐”고 묻자 이같이 답변했다. 천 처장은 “현재 시점에서의 민주적 정당성은 국회와 대통령에게 있다고 볼 수 있겠지만, 사법부의 민주적 정당성은 일반 국민이 헌법을 만들면서 규정한 삼권분립과 사법부 독립에서 나온다”고도 말했다. &lt;br&gt;&lt;br&gt;천 처장은 또 “올해 8월 15일(광복절) 이 대통령의 ‘국민 임명식’ 때 국민 대표 중 한 분이 ‘삼권분립이 존중되는 나라였으면 좋겠다’는 말씀을 하셨고, 제게 굉장히 큰 울림이 있었다”면서 “국민주권이 제대로 실현되려면 삼권분립이 반드시 제대로 서야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난달 취임 100일 기자회견에서 “대한민국에는 권력의 서열이 분명히 있다. 최고 권력은 국민·국민주권, 그리고 직접 선출 권력, 간접 선출 권력”이라고 말했다. 대통령과 국회가 사법부보다 우위에 있다는 것으로 분석됐다. 반면 천 처장의 발언은 세 기관의 민주적 정당성 간 우열을 가릴 수 없다는 취지였다.&lt;br&gt;&lt;br&gt;천 처장은 이날 대법원의 이 대통령 공직선거법 사건 판결을 이유로 이어지는 여권의 사법부 공경에 대해서도 우려를 나타냈다. 천 처장은 “모든 판사는 판결을 피할 수 없는데, 판결 하나의 결과에 대해 절차적·실체적으로 국회에 나와 조사를 받는 상황이 생긴다면 많은 법관들이 직을 수행하는 것에 대해 회의를 느낄 것”이라며 “이 부분이 우리 사법에 큰 지장이 될 수도 있다는 걱정을 한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 민주당은 이날 국정감사에서 조희대 대법원장을 상대로 이른바 ‘대선 개입 의혹’에 대해 묻겠다며 증인으로 채택했다. 조 대법원장은 국정감사에 출석해 관례대로 인사말을 하고 자리를 뜨려 했지만, 민주당 소속 추미애 국회 법제사법위원장은 이석을 막고 증인 선서 없이 질의응답을 90여 분간 강행했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 외국인 간염 환자 사망자까지 발생… “A·B형 간염, 외국인 중 중국인 최다”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/13/YEE6PEDBBJCE3D4B72LEASUWVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/13/YEE6PEDBBJCE3D4B72LEASUWVE/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 13:55:58 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFWYDML5DFNXDK3IFZEVD27IXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 인천 연수구 인천항 국제여객터미널을 통해 중국인 무비자 단체관광객들이 입국하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 국내에서 발생한 외국인 결핵 환자의 절반이 중국인인 것으로 확인된 가운데, A형·B형 간염 환자 역시 중국인이 가장 많은 것으로 나타났다. 우리나라를 찾는 외국인 중 중국인이 가장 많기 때문이란 분석이지만, 최근 중국의 무비자 관광이 확대되는 등 중국인 유입이 더 늘어나는 상황에서 이들에 대한 적극적인 관리가 필요하다는 주장이 나온다.&lt;br&gt;&lt;br&gt;13일 국회 보건복지위원회 김미애 의원(국민의힘)이 질병관리청으로부터 제출받은 ‘감염병 발생 및 사망 현황’ 자료를 분석한 결과 A형·B형 간염에서 외국인 감염자와 사망 사례가 지속적으로 발생하고 있는 것으로 나타났다. 특히 외국인 감염자 중에선 중국 국적자의 비중이 가장 높았다.&lt;br&gt;&lt;br&gt;먼저 국내 A형 간염 환자는 2019년 대유행 당시 1만7598명을 기록한 뒤 2020년 3989년, 2022년 1890명으로 줄어드는 추세를 보였다. 지난해 역시 1168명이었으며, 올해도 8월까지 774명의 환자가 나왔다. 2019년부터 올해 8월까지 A형 간염으로 인한 사망자는 총 21명이 발생했다.&lt;br&gt;&lt;br&gt;A형 간염으로 인한 사망자 중 두 명은 외국인이었다. 같은 기간 전체 외국인 환자는 505명으로 전체의 1.5% 수준이었다. 외국인의 국적별로는 중국인이 113명(22.4%)이 가장 많았고, 태국(37명), 미국(27명), 베트남·러시아·우즈베키스탄·카자흐스탄(이상 각 26명), 일본(17명) 순이었다.&lt;br&gt;&lt;br&gt;급성 B형 간염은 A형 간염에 비해 외국인 환자 비중이 비교적 높았다. 전체 환자를 살펴보면 2019년 389명에서 올해 8월까지 173명으로 약 55% 감소했으나, 이 기간 외국인 감염자 비중은 9.9% 수준인 것으로 나타났다. 특히 올해만 따지면 전체 환자 173명 중 28명이 외국인으로 16.2%나 됐다.&lt;br&gt;&lt;br&gt;2019년부터 올해 8월까지 전체 외국인 B형 간염 환자 226명을 국적별로 나누면 중국인이 역시 53명(23.5%)으로 가장 많았다. 이후 베트남(30명), 태국(27명), 우즈베키스탄(17명), 러시아(9명) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;최근 국내에서 가장 빠르게 늘고 있는 외국발 감염병인 홍역은 베트남 출신 환자가 가장 많은 비율을 차지했다. 국내 홍역 환자 중 외국인 환자는 2019년 45명, 2020년 2명, 2021~2022년 0명으로 줄었다가, 2023년 4명, 2024년 32명으로 늘어나는 추세다. 올해도 8월까지 14명의 외국인 환자가 발생했다. 해당 기간 외국인 환자의 총 수는 98명으로 국내 전체 환자 326명의 30.1%에 달했다. 베트남 출신이 28명(28.5%)로 가장 많았으며, 우즈베키스탄(27명·27.5%) 출신도 비슷한 수를 보였다.&lt;br&gt;&lt;br&gt;김미애 의원은 “외국인 감염병으로 인한 문제는 국민 건강안보의 문제”라며 “특히 중국인 단체관광 무비자 확대 이후 외국인 유입이 급증했지만, 입국 후 건강검진과 체류자 관리는 제대로 작동하지 않고 있다”고 지적했다. 그는 “특히 A형 간염은 음식이나 물을 통해 감염되므로 외국인 유입과 식품위생 관리가 반드시 필요하다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아 범죄단지 탈출해도 공항서 다시 잡혀… “주 10건씩 SOS”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/13/4NV4JBBFJFCQHM2E4NRBPVDJKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/13/4NV4JBBFJFCQHM2E4NRBPVDJKQ/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 11:08:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5D2MEI6KEJAYFOT4INHNZONIP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 15일 캄보디아 프놈펜 남서부 시하누크빌 주 한 건물에서 당국에 체포된 보이스피싱 사기범들. /APK&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 한국인을 대상으로 한 납치‧감금 범죄가 잇따르는 가운데, 현지 한인회도 팔을 걷어붙이고 피해자들의 탈출을 돕고 있지만 신고가 쏟아져 구조가 쉽지 않다는 증언이 나왔다. &lt;br&gt;&lt;br&gt;정명규 캄보디아 한인회장은 13일 CBS라디오 ‘김현정의 뉴스쇼’를 통해 “일주일에 5~10명이 한인회에 ‘탈출을 도와 달라’는 연락을 해 온다”며 “혼자 탈출하는 경우도 있고 두세 명씩 무리져서 도망 나와서 함께 있다가 연락하는 경우도 있다. 도와주려고 노력하고 있지만 너무 많다보니 어려움이 있다”고 했다. &lt;br&gt;&lt;br&gt;정 회장은 “대부분이 감금, 폭행을 당하고 불법적인 일에 동원됐다가 경비병을 피해 도망을 나오면 여권이라든지 아무것도 없기 때문에 대사관이나 한인회로 무작정 택시를 타고 오게 된다”며 “이에 경찰서에 정상적으로 여권 분실 신고하고 긴급 여권 만들어서 돌려보낸 경우도 있다”고 했다. &lt;br&gt;&lt;br&gt;그는 피해자들이 공항에서 붙잡혀 다시 범죄 조직에 끌려가는 경우도 상당하다며 “그런 경우는 폭행이 더 심해진다”고 했다. 이어 “한인회뿐 아니라 대사관에서 올해만 해도 벌써 400~500건 정도의 신고 건수가 있다”며 “교도소, 유치장, 경찰서에 잡혀 있는 청년들도 있다”고 했다.&lt;br&gt;&lt;br&gt;현지 범죄 조직은 고수익 아르바이트를 미끼로 한국인을 유인하는 것으로 알려졌다. 정 회장은 “처음에는 통·번역 아르바이트를 구한다고 광고를 냈다”며 “최근에는 ‘캄보디아에 가서 서류를 전달해 주면 이렇게 수익을 주겠다’ ‘여행 동행해 주면 비행기 값을 대주겠다’ 이런 광고들이 올라온다. 실제로 이 광고에 댓글을 달고 좋아요 누르는 모습도 많이 보인다”고 했다. &lt;br&gt;&lt;br&gt;이미 감금된 이들이 지인을 데려오는 사례도 있다고 했다. 정 회장은 “감금된 이들에게 ‘새로운 사람들을 유인해 오면 너는 보내줄게’ ‘유인해서 데리고 오면 돈을 지급해 주겠다’라는 경우도 봤다”며 “보이스피싱, 마약 운반, 로맨스 스캠, 주식 리딩방, 온라인 카지노 등 다양한 범죄와 관련이 있다”고 했다.&lt;br&gt;&lt;br&gt;지난달 25일 캄보디아 수도 프놈펜에 온 한국 청년 2명이 시하누크빌에 있는 중국인 범죄 단지로 팔려 가던 중 고속도로 휴게소에서 극적으로 탈출했다는 증언도 나왔다.&lt;br&gt;&lt;br&gt;오창수 시하누크빌 한인회장에 따르면, 이 한국인들은 한 달에 1000만원을 벌 수 있다는 지인 말에 속아 캄보디아에 왔다가 납치됐다. 이들은 중국인이 운영하는 범죄 단지에 끌려가던 중 승합차가 휴게소에 잠시 멈춘 틈을 타 탈출한 뒤 대사관에 신고했다. 당시 건장한 중국 남성들이 한국인들을 뒤쫓는 모습을 이상하게 여긴 휴게소 직원이 신고하면서 경찰이 출동했다고 한다. &lt;br&gt;&lt;br&gt;대사관으로부터 도움 요청을 받은 오 회장은 현지 경찰에 가 “이 한국인들은 취업 사기를 당해서 여기에 왔다”며 “범죄 단지에 넘어가기 전이어서 아무런 일을 하지 않았으니 풀어달라”고 호소했다. 이후 한국인 2명은 닷새가량 경찰서에 붙잡혀 있다가 석방됐고 오 회장의 도움을 받아 한국으로 귀국했다.&lt;br&gt;&lt;br&gt;오 회장은 지난달 중순에도 한국인 2명이 범죄 단지 합숙 시설 3층에서 뛰어내려 탈출했지만 이 중 한 명은 중국인들에게 잡혀 한국으로 돌아가지 못하기도 했다고 전했다.&lt;br&gt;&lt;br&gt;오 회장은 “3년 전부터 캄보디아에서 구조한 한국인이 200명이 넘는다”고 했다. 이어 “고수익 유혹에서 빠져 캄보디아에 오는 20∼30대 한국인이 많다”며 “캄보디아에서 월급으로 1000만원은 절대 받을 수 없다”며 고수익 알바 미끼를 조심하라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>스토킹 범죄, 6명 중 1명만 1심 실형...전자발찌 잠정조치 인용률은 30%대 그쳐</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/MWQVUMTBJNGSPBKUETIPF3QO74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/MWQVUMTBJNGSPBKUETIPF3QO74/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 13:25:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6U7TKIJWBEUDP3OXNNF7GA6CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 스토킹 범죄자에게 1심에서 실형을 선고하는 비율이 매년 줄어드는 것으로 13일 나타났다. &lt;br&gt;&lt;br&gt;대법원이 더불어민주당 박지원 의원에게 제출한 자료를 보면, 스토킹 처벌법이 시행된 2021년 10월부터 올해 6월까지 스토킹 범죄로 기소돼 1심이 선고된 사람은 8097명이었다. 이 가운데 실형을 받은 사람은 1448명(17.8%)이었다. 경범죄로 처리해 오던 스토킹을 최대 징역 3년형(흉기 휴대 시 최대 5년)으로 처벌할 수 있도록 국회가 별도의 법(스토킹 처벌법)을 만들었지만, 대부분 벌금형이나 집행유예로 풀려나고 있다는 것이다.&lt;br&gt;&lt;br&gt;스토킹 범죄의 1심 실형 비율은 2022년 22.7%에서 2023년 17.3%, 작년 17.5%, 올해 상반기 16.7% 등으로 갈수록 줄고 있다. 지난해 전체 형사사건 1심 실형 선고율이 33.6%인 것과 비교하면 스토킹 범죄는 절반 수준밖에 안 된다. 스토킹 범죄를 저지르고도 집행유예로 풀려나는 사람은 매년 30% 안팎이었고, 벌금형을 받은 사람은 2022년 22.5%에서 계속 늘어 올 상반기 기준 41.2%까지 증가했다. &lt;br&gt;&lt;br&gt;스토킹에 대한 가벼운 처벌이 더 심각한 범죄로 이어질 수 있다는 지적이 나온다. A씨는 서울 강남의 연기 학원에서 알게 된 여성을 스토킹한 혐의로 작년 1월 벌금 70만원형을 받았는데, 6개월 만에 학원에 다니는 다른 여성에게 82차례 메시지를 보내 또 기소됐다. A씨는 두 번째 피해자 얼굴에 나체 사진을 합성해 유포하겠다고 협박하고 ‘오빠야가 스토킹 전과가 있어요. 벌금형 감인데 오빠가 집에 돈이 좀 있어’라는 메시지도 보냈다. 지난 1월 서울중앙지법은 “피고인이 동일한 유형의 범행을 반복하고 있고 그 정도가 심해지고 있어 엄벌이 불가피하다”며 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;B씨는 작년 11월 헤어진 여자친구에게 한 달간 255차례 전화를 거는 등 스토킹해 올해 3월 벌금 300만원의 약식명령을 받자, 이에 화가 나 피해자를 폭행해 뇌진탕 상해를 입힌 혐의(스토킹·보복상해 등)로 재판에 넘겨졌다. B씨는 피해자 집 계단에서 5시간 기다리다가, 귀가하는 피해자 머리를 돌로 내려치고 ”죽이겠다”고 말하며 주먹과 발로 수차례 폭행한 것으로 조사됐다. B씨는 지난 6월 부산지법 동부지원 1심에서 2년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;이런 가운데 법원은 작년 스토킹 피해자를 보호하는 ‘잠정 조치’의 하나인 ‘위치추적 전자장치 부착’에 대해 검찰이 청구한 272건 중 106건(38.9%)만 인용했다. 접근 금지(94.4%), 전화·문자 등 금지(94.6%) 등에 비해 가해자와 피해자를 실질적으로 분리할 수 있는 조치에 법원이 미온적인 것 아니냐는 지적이 나온다. 박 의원은 “스토킹은 그 자체로도 범죄이지만 다른 범죄로 가는 통로이기도 하다”며 “잠정 조치부터 재판까지 전 과정에서 피해자 보호와 가해자 엄벌 기조가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>前 707특임단장 “케이블타이는 ‘테러범 진압용’일 뿐, 체포용 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/56X4NIID3BCK7ODMYB4PFNVGCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/56X4NIID3BCK7ODMYB4PFNVGCI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 10:59:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NFX7NSHN4QAAHAXAI4TTTVOVJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김현태 육군 707특수임무단장이 17일 오후 서울 여의도 국회에서 열린 국방위원회 제422회국회(임시회) 제2차 전체회의에 출석해 현안 질의에 답하고 있다. 2024.2.17/뉴스1 ⓒ News1 안은나 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당일 밤 국회로 출동했던 김현태 전 707특수임무단장(대령)이 계엄 당시 소지했던 케이블 타이는 테러범 진압용일 뿐, 국회의원 체포용이 아니었다고 법정에서 증언했다.&lt;br&gt;&lt;br&gt;김 전 단장은 13일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤석열 전 대통령의 내란 우두머리 등 혐의 속행 공판에 증인으로 출석해 이같이 증언했다.&lt;br&gt;&lt;br&gt;김 전 단장은 특수임무단이 계엄 당일 국회에 출동했을 당시 케이블 타이를 소지한 목적이 무엇이냐는 질문에 “군인이 총을 드는 것과 같이 (707특수임무단은) 테러범 진압을 위해 항상 케이블 타이를 소지한다”며 “용도는 테러범 진압용이지 민간인이나 국회의원 체포용이 아니다”라고 했다. 이어 “(당일) 테러범이 있었다면 사용했겠지만, 테러범이 없어서 그날 사용할 목적이 없었다”고 했다.&lt;br&gt;&lt;br&gt;김 전 단장은 곽종근 전 특수전사령관에게 테이저건과 공포탄 사용을 건의했느냐는 질문에는 “건의할 이유가 없다”며 부인했다. 김 전 단장은 “(곽 전 사령관에게) 전화가 와 ‘테이저건을 사용하면 어떻겠느냐’고 했고, 명확히 불가능하다고 말했다”며 “먼저 전화해 (테이저건 등 사용을) 건의했다는 건 말도 안 된다”고 했다.&lt;br&gt;&lt;br&gt;곽 전 사령관에게 ‘국회 내에 의결 정족수가 안 채워진 것 같으니 빨리 들어가 의사당 안에 사람들을 데리고 나오라’는 지시를 받은 적 있냐는 질문에는 “그런 사실이 없다”고 답했다. 김 전 단장은 “’150명 넘으면 안 된다는데 못 들어가겠냐’고 해서 ‘못 들어간다, 들어가려면 총이나 폭력을 써야 하는데 못 들어간다’고 설명했다”고 말했다. 또 “150명이 (계엄 해제) 가결을 막기 위한 숫자라는 건 당시엔 몰랐다”고 했다.&lt;br&gt;&lt;br&gt;김 전 단장은 “(곽 전 사령관이) ‘150명 넘으면 안 된다, 못 들어가나’라고 했고, 그 숫자는 명확히 기억난다”면서도 ‘막아라’거나 ‘국회 안으로 들어갈 수 없겠느냐’는 식의 구체적 지시는 “기억나지 않는다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“李대통령 유죄 판결, 왜 빨리 했나” 與 압박에... 대법원 “근거 없는 공격 지양해달라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/PSY2K62V7FGXDKDCXSS4AGSM4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/PSY2K62V7FGXDKDCXSS4AGSM4A/</guid>
+      <dc:creator>이민준 기자, 김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 12:07:16 +0000</pubDate>
+      <content:encoded>대법원이 지난 5월 이재명 대통령의 공직선거법 사건 상고심을 유죄 취지로 파기환송한 것을 두고 여권이 ‘대선 개입’이라며 압박 수위를 높이자 대법원이 국회 법제사법위원회에 “사법권 독립이 훼손되지 않도록 근거 없는 공격을 지양해달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WYLMQOSPYYGKWGTG74JCNRSYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 13일 서울 여의도 국회에서 열린 법제사법위원회의 대법원 등에 대한 국정감사에 출석해 눈을 감고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 전날 법사위에 제출한 88쪽 분량의 ‘대법원 현안 관련 긴급 서면질의에 대한 답변’에서 “대법원장이 외부 세력과 공모해 대통령 선거에 개입하기 위한 정치적 의도로 심리와 판결을 했다는 주장은 아무런 합리적 근거가 없는 정치적 공격에 불과하다”며 이렇게 밝혔다.&lt;br&gt;&lt;br&gt;이 대통령 사건을 이례적으로 신속하게 결론 낸 것에 대해 대법원은 “사건의 특수성과 집중심리주의 원칙, 선거범죄 재판의 신속한 처리를 요구하는 공직선거법 취지에 따라 대법관 대다수 공감대 아래 신속하고 충실한 심리를 거쳐 결론에 이른 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법 “전합 심리가 원칙... 李 사건, 대법관 전원이 검토”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이는 국민의힘을 제외한 여권 법사위원들이 사전에 보낸 총 87개의 질의에 대한 답변이다. 첫 질문은 ‘해당 사건(이 대통령 선거법 위반)의 전원합의체 회부는 언제, 어떤 사유와 절차에 따라 이뤄졌느냐’였다. 대법원은 “상고 사건 접수 직후부터 대법원장 및 대법관들이 논의를 거쳐 곧바로 전합에서 심리를 했다”며 “대법원은 전원합의가 원칙적 심리 방식”이라고 강조했다. ‘대법원에 부(部)를 둘 수 있다’는 헌법 규정에 따라 소부를 운영할 수 있도록 한 것이지, 소부를 거쳐 전합에 올려보내는 것이 정해진 순서는 아니라는 얘기다.&lt;br&gt;&lt;br&gt;‘법원조직법과 대법원 전합 심리 절차 내규에서 이번 전합 회부 요건은 어떤 조항인지 밝혀달라’는 질의에도 대법원은 “전합 회부 요건이나 절차는 따로 존재하지 않는다”고 했다. 다만 “이 대통령 사건은 ‘대법원 전합 심리절차에 관한 내규’상 ‘중대한 공공의 이해관계와 관련되거나 국민적 관심도가 매우 높은 사건’에 해당한다”며 “국정원 댓글 사건이나 국정 농단 사건 등 신속처리가 필요한 주요 사건이나 사회적 중요도가 큰 사건에서 소부 심리를 거치지 않고 전합 심리를 진행한 사례가 다수 있다”고 했다.&lt;br&gt;&lt;br&gt;3월 28일 사건이 접수됐을 때부터 바로 모든 대법관들이 기록을 보기 시작했다는 것에 대해 여권 법사위원들은 ‘권한 없는 법관들이 검토하는 것으로 불법적인 사전심리가 아니냐’고 하기도 했다. 대법원은 이에 “소부에 사건 배당이 되기 전에 다른 대법관이 기록을 열람하고 검토하는 것은 위법하다고 볼 수 없고 오히려 대법원의 원칙적인 심리방식이 구현되는 모습을 보여주는 것”이라고 답했다.&lt;br&gt;&lt;br&gt;실제 모든 대법관은 주심 대법관 배정이나 소부 배당 전후를 불문하고 모든 사건의 기록에 접근할 수 있는 권한이 있고 “소부에서 심리 중인 사건이라도 다른 소부 소속 대법관과도 사건에 관해 논의하고 의견을 교환하는 경우가 있다”는 것이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇판결 왜 빨랐나... “중립적이고 신속한 진행에 공감대”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이 대통령 사건은 다른 공직선거법 사건에 비해서도 선고까지 짧은 시간이 걸린 것으로 나타났다. 대법원이 지난해부터 올해 6월까지 공직선거법 상고심을 접수한 뒤 선고까지 걸린 기간은 평균 3.1개월이었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RADHBKBYRJO67KMA6RH73BHIF4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 13일 서울 용산 대통령실 청사에서 열린 수석보좌관회의에서 발언하고 있다./대통령실 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대통령 사건 선고까지 35일이 걸려 3분의1 수준이었다. 여권 법사위원들은 판결 속도가 이례적이라며 조 대법원장이 대선 전 이 대통령에게 유죄 판결을 내려 대선에 개입하려 했다는 의혹을 제기하고 있다. &lt;br&gt;&lt;br&gt;‘많은 장기미제 사건은 아랑곳하지 않고 이 사건만을 유독 신속히 선고할 이유가 있었느냐’는 질의에 대법원은 “심리가 이례적으로 신속하게 이뤄졌다는 점에서 배경에 관해 오해가 있는 것 같아 안타깝다”면서도 “사건의 주요 쟁점은 크게 복잡하지 않다. 집중심리주의의 이념, 선거범 재판의 우선적인 신속 처리를 명한 공직선거법의 취지에 따라 신속하고 충실하게 이 사건을 심리하여 결론에 이르렀다”고 답했다.&lt;br&gt;&lt;br&gt;또 강행 규정인 공직선거법 270조의 이른바 ‘6·3·3 원칙’을 들어 “대다수 대법관 사이에 신속한 절차 진행이 필요하다는 공감대가 형성됐다”는 점도 대법원은 강조했다. 선거법 위반 사건의 1심은 기소 후 6개월 안에, 2·3심은 상소 제기 후 각 3개월 이내에 선고하도록 공직선거법에 규정돼 있다. 대법원은 “판결 선고 시점은 심리에 참여한 대법관들의 치열한 검토에 의해 정해진 것으로 사료된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7FAGAPKZ7ZKPBPHSKBWHM4ZZAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령 공직선거법 사건 파기환송 판결 질문 듣는 천대엽 법원행정처장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 전합 선고가 소수의견을 낸 이흥구·오경미 대법관의 숙의할 권한을 침해한 것이라는 위원들 주장에 대해선 “다수결에 따라 적법하게 절차가 진행된 이상 반대의견 대법관의 심판권한을 침해했다고 보기는 어렵다”고 반박했다. ‘다수의견(38쪽)보다 소수의견(49쪽)이 더 방대해 논리적 밀도가 더 높다’는 질의에는 “판결문에서 특정 의견이 차지하는 분량의 많고 적음으로 개별 의견의 가치를 판단할 수 없다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇與“ 사퇴 검토했느냐” 질문엔 “최선 다하겠다”&lt;/b&gt;&lt;br&gt;&lt;br&gt;여권 법사위원들은 “대법원장의 통화내역, 휴대전화 교체 기록, 공식·비공식 일정, 차량일지 또는 블랙박스 등 국민의 의구심을 해소하기 위한 자료를 제출할 의향이 있느냐”고 묻기도 했다. 이른바 ‘한덕수·조희대 회동설’ 의혹을 확인하겠다는 것이다. 대법원은 이에 “판결을 담당한 법관 개인에 대한 근거 없는 정치적 비난이나 공격으로 이어지는 것은 정당화될 수 없다”고 했다. &lt;br&gt;&lt;br&gt;대법원은 국정감사가 개인의 사생활을 침해하거나 재판에 영향을 미칠 목적으로 실시돼선 안 된다고 정한 국정감사법을 들어 “사생활을 심각하게 침해할 우려가 있고 계속 중인 재판의 공정성에도 영향을 미칠 우려가 크다”고 했다. 이어 “합리적이고 구체적인 근거에 기초한 의혹 제기 없이 재판 결과에 당사자나 제3자가 불복한다는 이유만으로 법관의 사생활과 개인정보를 공개한다면, 오로지 법과 양심에 따라 독립해 재판을 수행하는 환경을 저해하는 선례가 될 수 있다”고도 했다.&lt;br&gt;&lt;br&gt;대법원은 ‘최근 여론조사 결과 국민의 약 절반(48%)이 조 대법원장의 사퇴를 요구하고 있다. 사퇴를 검토한 적이 있느냐’는 질의에 “대법원장은 사법부에 대한 국민들의 지적을 더욱 경청하면서, 사법제도 개선 논의 등에도 적극적으로 참여함으로써 국민에게 신뢰받는 사법부로 거듭날 수 있도록 노력하겠다”고 했다. 또 “헌법과 법률에 따라 신속하고 공정한 재판을 통한 국민의 권리 보호라는 헌법적 임무를 완수하기 위하여 최선을 다하겠다”고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 권성동 공소장에 “김건희로부터 통일교 당원 가입 요청받아”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/13/DXOM4X3J35H5XNHP63UW5HPJYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/13/DXOM4X3J35H5XNHP63UW5HPJYI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 12:15:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LVZNQRJ55MRK4CWHLJL3IZY6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 19일 권성동 국민의힘 의원이 서울중앙지법에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교인의 국민의힘 집단 당원 가입 의혹을 수사 중인 민중기 특별검사팀이 집단 가입의 배경에 김건희 여사의 요청이 있었다고 보고 있다.&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 특검은 권성동 국민의힘 의원의 공소장에 이같은 내용을 적시한 것으로 전해졌다. 특검은 윤영호 전 통일교 세계본부장이 2022년 11월 초 ‘건진법사’ 전성배씨를 통해 “김 여사가 2023년 3월 8월로 예정된 국힘 당대표 선거에서 권 의원의 당선을 톱기 위해 통일교 교인을 정당원으로 가입시달라”는 부탁을 받았다고 보고 있다. 이후 한학자 총재가 당대표 선거 지원 요청을 승인했고, 이에 따라 통일교의 조직적 지원이 이뤄졌다는 것이다.&lt;br&gt;&lt;br&gt;해당 의혹과 관련해 특검은 지난달 19일 국민의힘 당원 명부가 든 서버를 압수 수색해 통일교 신자일 가능성이 있는 11만~12만명가량의 명단을 추출한 것으로 알려졌다. 특검은 또 지난달 30일엔 국민의힘 경남도당을 압수 수색해 통일교 신도의 가입 신청서 묶음을 발견하기도 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 윤영호씨 공소장에도 2023년 3월 국민의힘 전당대회를 앞두고 신도들을 동원해 특정 후보를 지지해 달라는 요청을 한 주체를 김건희 여사로 지목했다.&lt;br&gt;&lt;br&gt;이밖에도 권 의원은 윤씨로부터 불법 정치자금 1억원을 제공받은 혐의 등을 받는다. 현재 권 의원은 구속 상태로 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘순직 해경’ 파출소 당직팀장…檢, 사전 구속영장 청구</title>
+      <link>https://www.chosun.com/national/incident/2025/10/13/2BE3RDY365FOXEXHV2QPZWJINI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/13/2BE3RDY365FOXEXHV2QPZWJINI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 12:48:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACJ4EQIVEZL5VIT6YIUUKJM4UM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 해양경찰서에 대한 압수수색을 진행한 검찰. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;갯벌 구조 활동 중 순직한 해경 이재석(34) 경사와 관련한 수사를 진행 중인 검찰이 사고 당시 파출소 당직 팀장에 대한 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;13일 법조계에 따르면 인천지검 해경 순직 사건 전담 수사팀은 이날 업무상 과실치사와 직무 유기, 허위 공문서 작성·행사 등 혐의로 인천해양경찰서 영흥파출소 전 팀장 A경위에 대한 사전 구속영장을 법원에 청구했다.&lt;br&gt;&lt;br&gt;사전 구속영장은 신병을 확보하지 않은 상태의 피의자에 대해 청구한다. 긴급 체포나 체포 영장에 의해 피의자 신병을 확보한 뒤 48시간 안에 청구하는 통상적인 구속영장과는 차이가 있다. &lt;br&gt;&lt;br&gt;A경위의 구속 전 피의자심문(영장실질심사)은 이르면 오는 15일 인천지법에서 진행될 예정인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A경위는 지난달 11일 2인 1조 출동 규정 등을 지키지 않고 이 경사가 혼자 출동하게 해 숨지게 한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;A경위는 근무 일지에 팀원들의 휴게 시간을 실제보다 적게 기재한 의혹 등도 받는다. &lt;br&gt;&lt;br&gt;검찰은 직무 유기 등 혐의를 받는 이광진 전 인천해양경찰서장과 전 영흥파출소장 등 다른 피의자들에 대한 수사도 이어갈 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의정부 중랑천에서 중학생 1명 급류 휩쓸려 실종</title>
+      <link>https://www.chosun.com/national/incident/2025/10/13/GQ5KY6XKPJDFXOX5RTIWZRH7TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/13/GQ5KY6XKPJDFXOX5RTIWZRH7TM/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 13 Oct 2025 10:45:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNKZ2SG76RVS6R4X6GO7VC4ABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭우가 내린 지난 8월 13일 서울 노원구 월계1교 인근 중랑천 인근 동부간선도로가 물에 잠겨있다. 해당 기사와 관련 없는 사진./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 오후 경기 의정부시 중랑천에서 징검다리를 건너던 중학생 1명이 불어난 물에 휩쓸려 실종돼 경찰과 소방 당국이 수색에 나섰다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국에 따르면 이날 오후 5시 35분쯤 의정부시 의정부동 중랑천 징검다리 위에 중학생 3명이 고립돼 있다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 소방 당국이 2명을 구조했지만, 나머지 1명은 거센 물살에 휩쓸려 떠내려간 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당국은 인력과 장비를 투입해 실종된 학생을 찾기 위한 수색 작업을 벌이고 있으나, 계속된 비로 하천 수위가 높아지고 유속이 빨라져 난항을 겪고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 구조된 학생들을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“늘 굿샷만 칠 수 없어, 개선하려는 의지 더 중요”</title>
       <link>https://www.chosun.com/national/people/2025/10/13/XOXQHWVIJBDNDLRYBQ2AQKWCQA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/13/XOXQHWVIJBDNDLRYBQ2AQKWCQA/</guid>
@@ -599,15 +689,6 @@
       <content:encoded>지난해 이화여대는 캄보디아와 홍콩에서의 해킹 공격으로 16만여 명의 개인 정보가 유출됐다고 교육부에 신고했다. 홍익대는 2022년부터 지난해까지 직원 실수와 해킹 등으로 여섯 차례에 걸쳐 모두 1만여 명의 개인 정보가 유출됐다.&lt;br&gt;&lt;br&gt;최근 5년간 국내 대학에서 250만여 명의 개인 정보가 유출됐는데도, 상당수 대학이 교육부 실시 ‘해킹 대비’ 모의 훈련에 불참한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 진선미 더불어민주당 의원실이 교육부에서 받은 자료에 따르면, 전국 대학 389곳 중 73%(283곳)가 지난해 사이버 위기 대응 훈련에 참가하지 않았다. 사립대가 더 심했는데, 지난해 사립대 342곳 중 불참이 80%(275곳)에 달했다. 사립대들은 이 훈련 참여가 의무가 아니라며 대학 자체 모의 훈련을 했다는 입장이다. 하지만 사립대에선 매년 유출 사고가 발생할 뿐 아니라 피해 규모도 작지 않다. 지난해 대학에서 발생한 개인 정보 유출 사고 중 사립대 피해자만 25만명이 넘는다. &lt;br&gt;&lt;br&gt;진 의원은 “사립대도 사이버 위기 대응 훈련 참여를 의무화하는 등 교육부의 정보 보안 관리 및 감독을 강화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책!] 강아지와 고양이, 왜 성격이 다를까? 반려동물의 본성 이해해 주세요</title>
-      <link>https://www.chosun.com/national/nie/2025/10/13/O2AJW2QL3VBEHGK262LKVZ7ZRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/13/O2AJW2QL3VBEHGK262LKVZ7ZRU/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUSBDQOLTJC7LN3TJ2JZMGOKCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;이원영 지음 l 출판사 문학과지성사 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;얼마 전까진 집에서 기르는 동물을 애완동물이라고 했지만, 지금은 ‘반려동물’이라는 말을 더 많이 씁니다. 애완은 어떤 동물이나 물건을 좋아하여 가까이 두고 아끼며 즐긴다는 뜻입니다. 반려동물은 감정을 주고받으면서 함께 사는 짝꿍을 의미하지요. 애완동물이 장난감 같다면 반려동물은 친구 같습니다. 장난감은 내 마음대로 다룰 수 있지만 친구는 그럴 수도 없고 그래서도 안 되지요.&lt;br&gt;&lt;br&gt;이 책을 쓴 저자는 아픈 동물을 돌보는 수의사입니다. 그런데 반려동물을 돌보는 방법보다는 대하는 자세를 더 많이 얘기합니다. 어떤 자세일까요? 첫째, 존중입니다. 내가 먹여주고 보살핀다고 해서 반려동물을 함부로 할 수 있는 자격을 가진 것은 아닙니다. 인간의 존엄성이나 자유, 평등 같은 가치를 동물에게 똑같이 적용할 수 있을지에 대해선 명쾌하게 결론을 내리기 힘듭니다. 하지만 저자는 다만 동물의 본성을 존중해 주는 것을 강조하지요.&lt;br&gt;&lt;br&gt;우리가 꼭 갖춰야 할 자세 중 하나는 배려입니다. 반려동물이 편하게 살아갈 수 있도록 무엇을 어떻게 해주어야 하는지 잘 알고 제공해 주어야 합니다. 그러면서 인간의 입장을 강요하지 말아야 합니다. 인간끼리도 서로를 배려하기 어려운데, 인간 아닌 다른 종은 오죽 어려울까요? 나의 배려를 반려동물이 받아들일 때까지 시간을 갖는 ‘기다리는 배려’도 중요하지요.&lt;br&gt;&lt;br&gt;그다음은 이해심입니다. 개는 부르면 곧바로 달려옵니다. 고양이는 자기가 오고 싶을 때 어슬렁어슬렁 다가옵니다. 무리 지어 사는 개는 우두머리에게 복종하고 무리의 규칙을 지켜야 살아갈 수 있습니다. 고양이는 자기 영역을 지키면서 독립적으로 살아가려 합니다. 인간은 무리 지어 사는 동물이기 때문에 개의 행동에 더 친숙합니다. 이처럼 반려동물의 본성을 잘 알면 다른 행동들도 이해할 수 있게 되는 것이지요.&lt;br&gt;&lt;br&gt;마지막으로, 책임입니다. 함께 살던 반려동물을 버리는 사람이 드물지 않습니다. 나만 좋으면 그만이고 상대는 생각하지 않는 무책임한 자세입니다. “인간이 아닌 것에 대하여 인간은 왜, 그리고 어떻게 책임져야 하는가?” 반려동물과 함께 살면 이런 질문을 던지는 철학자가 됩니다. 나 자신만을 향해 있던 시선이 내 반려동물로 옮겨 가고, 이로써 나 아닌 다른 존재, 나보다 약한 존재, 생명을 새로운 각도에서 바라보게 만든다는 것이지요.&lt;br&gt;&lt;br&gt;저자가 만난 반려동물의 이름은 호두, 딸기, 로또, 샤넬, 꽁치, 순자, 춘식이 등 다양합니다. 처음 만난 지역이나 보호자가 살던 동네를 따른 단양이(충북 단양군), 흑석이(서울 동작구 흑석동), 브루클린(미국 뉴욕의 자치구)도 있었지요. 가볍게 지어준 이름일지 몰라도, 내가 이름을 지어준 대상에 대한 책임은 크고 무겁습니다. 모든 사랑에는 책임이 따릅니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [식물 이야기] 윷 만들 때 자주 사용해 ‘윷놀이나무’라고 불렸대요</title>
       <link>https://www.chosun.com/national/nie/2025/10/13/5ZPAV2LCH5GORNALRH7FGS3VZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/13/5ZPAV2LCH5GORNALRH7FGS3VZI/</guid>
@@ -628,60 +709,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가을 파종은 내년 봄을 위한 준비입니다. 겨울에 땅이 얼기 전에 씨를 뿌려야 씨앗이 겨울 동안 땅속에서 숨 쉬며 생명을 이어갈 수 있거든요. 농부에게 가을은 한 해의 일을 끝내는 것뿐 아니라 다음 해를 준비하는 시작이기도 했던 거죠. 이렇듯 랭부르 형제의 달력 그림은 매달 조금씩 달라지는 하늘의 별들과 땅을 나란히 대비시켜 보여주고, 그에 따른 사람들의 일과를 세밀하게 묘사했죠. 농경과 천문을 연결 짓고 인간과 자연의 조화를 표현한 그림이랍니다.&lt;br&gt;&lt;br&gt;16세기 네덜란드의 화가 피터르 브뤼헐도 달력 그림을 남겼는데, 두 달씩 묶어 총 6점을 완성했습니다. &amp;lt;작품 2&amp;gt;는 ‘가축의 귀환’이라는 작품이에요. 10월과 11월에 해당하는 풍경으로, 산비탈을 따라 소 떼를 몰고 마을로 돌아가는 농부들의 모습을 보여줍니다. 다양한 색깔의 소들이 보이네요. 초원에서 풀을 뜯다가 이제 우리로 돌아가는 모습으로 보입니다. 하늘은 무겁게 내려앉은 먹구름으로 덮여 있고, 나뭇가지는 잎을 거의 다 떨어뜨렸어요. 황량한 갈색조의 분위기는 겨울이 곧 닥치리라는 것을 예감하게 해요. 자유롭게 활동하던 때는 지나고 다음 해 시작을 위한 쉼을 준비해야 하는 계절이 가을인 거죠. &lt;br&gt;&lt;br&gt;&lt;b&gt;쓸쓸함, 그리고 낙엽&lt;/b&gt;&lt;br&gt;&lt;br&gt;노랗게 물든 마로니에 잎과 낙엽으로 가득한 배경 속에, 한 여인이 살짝 몸을 돌린 채 서 있습니다. &amp;lt;작품 3&amp;gt;의 제목 역시 ‘10월’입니다. 이 그림은 19세기 프랑스의 화가, 제임스 티소가 그렸지요. 검은 모자에 어두운 드레스를 차려입은 여인은 마치 어디론가 떠나기 전에 마지막으로 누군가에게 눈길을 주는 것처럼 보이기도 하고, 혹은 지나간 날들을 돌아보는 것처럼 보이기도 해요. 그만큼 아련한 눈빛을 하고 있습니다. 겨드랑이에 낀 작고 낡은 책이 보이는데, 마치 여인의 사연이나 추억을 말해주는 듯합니다. &lt;br&gt;&lt;br&gt;그림 ‘10월’의 실제 모델이 된 사람은 화가가 깊이 사랑했던 캐슬린 뉴턴이라는 여인입니다. 그는 안타깝게도 결핵에 걸려 이 그림이 완성된 지 몇 해 후 스물여덟의 젊은 나이로 세상을 떠났습니다. 이 그림에서 여인은 풍성한 치맛자락을 날리며 건강하고 아름다운 모습으로 등장하지만, 이후 티소의 그림에서 뉴턴은 기운 없이 늘어져 있고 창백한 병색이 두드러집니다. 실제로 화가가 겪었던 사랑과 이별 때문일까요. 작품 ’10월’도 어쩐지 쓸쓸한 분위기를 불러일으킵니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBCO3UAL4FGANLHBFVU3B6357I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;프랑스 화가 제임스 티소의 작품 '10월'. 작가의 연인이었던 뉴턴 부인을 모델로 그렸습니다. /몬트리올 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRRVKNK4KNAKHFHAWDF3JFPYS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영국 화가 존 밀레이의 '낙엽'이에요. 그림에서 낙엽은 죽음과 쇠락을 상징하는데, 황금빛 낙엽 더미 주위에 있는 소녀들의 시선이 대비를 이룹니다. /맨체스터 시립 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;작품 4&amp;gt;는 19세기 영국의 화가, 존 밀레이가 그린 ‘가을 낙엽’이에요. 노을이 깔린 저녁 하늘 아래, 네 소녀가 생각에 잠긴 표정으로 낙엽을 모아 태우고 있습니다. 화면 왼편의 두 소녀는 커다란 바구니에서 낙엽을 쏟아내고, 오른쪽의 두 소녀는 조용히 지켜봅니다. 타오르는 불꽃은 화면에 보이지 않지만, 소녀들의 발그레한 얼굴을 보면 불이 있다는 걸 알 수 있지요. &lt;br&gt;&lt;br&gt;화염이 삼킨 낙엽은 세상에서 사라지는 것처럼 보이지만, 사실 낙엽은 재가 되어 흙으로 돌아갑니다. 그리고 봄이 되면 그 흙에서 다시 새순이 돋아나죠. 밀레이의 ‘가을 낙엽’은 당시 처음 소개되었을 때 ‘매우 시적인 그림’이라는 평을 받았습니다. 단순한 계절 풍경을 넘어 죽음과 삶의 순환에 대한 메시지를 주기 때문이죠. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[매일매일 중국어 한마디] 번역하다, 통역하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/13/2TSC6CT3VJE3RCWHAUOWRDV6XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/13/2TSC6CT3VJE3RCWHAUOWRDV6XY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZFYZ3CYVTJBMZLKQSBYCQNLE3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 자원봉사자가 집결하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/13/DZZJVCEBP5HQVGAOOG7723WZHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/13/DZZJVCEBP5HQVGAOOG7723WZHQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBLBKGY5QRAKXFYK5LIH4R7Y6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2720] 초성 이어가기</title>
-      <link>https://www.chosun.com/national/nie/2025/10/13/LLGDRX4DZVDQDCITML2Y6MHOTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/13/LLGDRX4DZVDQDCITML2Y6MHOTU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3P6SMBZJOZAENJN2XPGTDWZDHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] on the sidelines</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/13/2UXM2KGWFJE7FC6NYHP3Z6RX5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/13/2UXM2KGWFJE7FC6NYHP3Z6RX5A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QTNVIMJ5MNBHPBR2RPD4ICVKQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 택배(宅配)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/13/4QQU4PO3QZCALNIKLRKMLFUU3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/13/4QQU4PO3QZCALNIKLRKMLFUU3U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3NVKCFWL5CZTLOKRPISNIXXO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>목적지 물었다고 ‘퍽퍽’ 주먹질… 택시기사 폭행한 60대 집유</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/12/AHEHQE26EJBCRICPLZHEXGT43M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/AHEHQE26EJBCRICPLZHEXGT43M/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 14:38:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2RDCURGH2ZA6NPNBKFXSQVUVBE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 서울역 인근에서 택시가 승객을 태우기 위해 이동하고 있다. 기사 내용과는 무관한 사진. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시 기사를 폭행한 혐의 등으로 재판에 넘겨진 60대 남성에게 법원이 징역형의 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;부산지법 서부지원 형사1부(부장판사 김주관)는 특정범죄 가중처벌 등에 관한 법률 위반(운전자 폭행 등) 등 혐의로 기소된 60대 남성 A씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월 24일 부산 강서구에서 택시에 탄 뒤 운전 중인 기사가 정확한 목적지를 알려달라고 하자, 욕설을 퍼부으며 주먹으로 여러 차례 때린 혐의를 받는다. 당시 기사는 전치 3주의 상해를 입었다.&lt;br&gt;&lt;br&gt;재판부는 “운행 중인 운전자를 폭행하는 행위는 자칫 대형 사고로 이어질 수 있는 위험한 범행”이라고 지적했다. 다만 “피고인이 범행을 인정하고 반성하는 점과 피해자와 합의한 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 10월 1일에도 택시를 타고 요금을 내지 않고 내려, 자신을 막아서는 기사를 폭행한 사실이 확인됐다. 이 사건은 피해자와 합의해 공소 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[리빙포인트] 남은 송편은 참기름 발라 냉동실에</title>
       <link>https://www.chosun.com/national/national_general/2025/10/12/KXWBB6CRVFAK7EFQB7IGYBK374/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/KXWBB6CRVFAK7EFQB7IGYBK374/</guid>
@@ -700,15 +727,6 @@
       <content:encoded>전국 대체로 흐려... 강원 영동에는 강한 비&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3RYRIMJIVHJ5OWIGIIAJOWV3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경북도 6급 공무원 숨진 채 발견… 유서엔 직장 어려움 호소</title>
-      <link>https://www.chosun.com/national/incident/2025/10/12/RQZVTYBRRJFZHJ67BF4PIR5UB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/12/RQZVTYBRRJFZHJ67BF4PIR5UB4/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>12일 오후 1시 40분쯤 경북 예천군 호명읍 한 도로에 세워진 차량에서 경북도청 소속 6급 공무원 40대 A씨가 숨진 채 발견됐다.</description>
-      <pubDate>Sun, 12 Oct 2025 11:06:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTOVNMDDNN3PYIIA77NPJHEIBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북도청 전경/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 오후 1시 40분쯤 경북 예천군 호명읍 한 도로에 세워진 차량에서 경북도청 소속 6급 공무원 40대 A씨가 숨진 채 발견됐다. A씨는 유서에 직장에서 겪은 어려움을 호소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 올 상반기 추가 근무 수당 부당 수령과 관련해 징계를 받았으며, 최근 같은 부서 여직원과의 부적절한 소문이 퍼지자 심리적 부담을 느껴온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 등은 관계자 등을 대상으로 사건 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;※우울감 등 말하기 어려운 고민이 있거나 주변에 이런 어려움을 겪는 가족·지인이 있을 경우 자살 예방 상담 전화 ☎109 또는 자살 예방 SNS 상담 ‘마들랜’에서 24시간 전문가의 상담을 받을 수 있습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전기차 주차·충전 민원 月 1000건... 정부 “주민이 결정” 뒷짐</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/12/JREITKPLSFALTOIKQDVDHUCASM/</guid>
@@ -718,15 +736,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SQZPFI7L7FDW7JPBBENVNLZ7SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 대구 아파트 지하 주차장에서 충전 중 불이난 전기차./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 16일 서울 강서구 A아파트의 전기차 차주들은 전기차의 지하 주차를 제한하는 아파트 입주자대표회의 의결에 대해, 서울시에 문제를 해결해달라는 취지의 민원을 제기했다. 지난 6월 강서구 B아파트에서도 비슷한 내용의 민원이 시로 전달됐다. 비슷한 시기 경기도 수원, 고양, 성남, 부천, 파주 등에서도 전기차 주차, 충전 관련 주민 간 분쟁이 발생해 경기도로 민원이 제기됐다.&lt;br&gt;&lt;br&gt;전기차 화재 우려에 따른 주차, 충전기 설치 문제 등을 두고 서울·경기 지역에서만 매달 1000건가량 민원이 발생하는 것으로 나타났다. 그러나 정부는 현행법상 아파트 주차장 문제 등은 입주자대표회의 의결로 정하게 돼 있다는 이유로 이를 방치하고 있다는 지적이 나온다. 보조금까지 줘가며 전기차 도입을 늘리자고 주장하지만, 전기차 확산에 가장 중요한 인프라·주차 문제 등 갈등엔 손을 놓고 있다는 것이다.&lt;br&gt;&lt;br&gt;12일 국회 국토교통위원회 소속 더불어민주당 윤종군 의원실에 따르면 올해(1~8월) 서울, 경기 지역에서만 약 7900건의 민원이 제기된 것으로 나타났다. 이대로라면 지난해 전체 민원 수치(1만400건)를 넘을 가능성이 크다. &lt;br&gt;&lt;br&gt;현행 법규정상 전기차 충전기는 지하 3층 이상이면 어느 곳에나 설치할 수 있다. 그동안 지하 주차장이 있는 아파트들은 대부분 지하에 설치했다. 주차를 하면서 충전을 하는 것이 자연스럽고, 겨울철에 전기차를 야외에 두면 배터리 방전으로 성능이 떨어질 수 있기 때문이다.&lt;br&gt;&lt;br&gt;그러나 지난해 8월 인천 청라에서 대규모 전기차 화재가 발생하자, 전기차 화재 우려 공포가 커지며 여론이 바뀌었다. 지하 주차장은 화재가 발생하면 열기가 머물고 가스가 잘 빠져나가지 않는 데다, 소방차 진입도 힘들다는 것이다. 이에 전기차를 지하에 들어오지 못하게 하거나, 전기차 충전기를 지상으로 꺼내는 작업이 이뤄지고 있는데 이 과정에서 전기차 차주들과 입주민들과의 갈등이 발생하는 것이다.&lt;br&gt;&lt;br&gt;문제는 정부나 지자체 등이 나서 이를 해결하기 어렵단 것이다. 현행 공동주택관리법은 단지 안 주차장 등의 유지·운영 기준은 입주자대표회의의 의결 사항이라고 규정하고 있기 때문이다. 지난해 청라 사고 후 서울시가 “지하주차장에 90% 이하로 충전을 제한한 전기차만 주차할 수 있도록 권고할 것”이라고 발표했다가 반발이 일자 이를 철회했는데, 실제 현장에선 다툼과 민원이 증가하는 등 혼란이 지속되는 모습이다.&lt;br&gt;&lt;br&gt;전문가들은 갈등을 무작정 방치할 게 아니라 국토부가 안전이나 권리와 관련한 최소 기준은 명확히 하고, 관련 가이드 라인을 마련하는 식으로 나서야 한다고 말한다. 실제 전기차의 지하 주차장 금지를 규정하는 현행 법령이 없는 상황에서 입대의가 이를 의결한 것을 두고 소송이 진행될 경우, 문제가 될 가능성이 크다는 게 법조계의 공통된 견해다. 윤종군 의원은 “전기차 보조금과 충전 인프라는 국가가 의무화해놓고 정작 주차, 운영 갈등은 각자 해결하라는 건 정책의 불일치”라며 “정부가 나서 불필요한 분쟁을 줄여야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 사립대 80%, 교육부 해킹 대응 훈련 불참</title>
-      <link>https://www.chosun.com/national/education/2025/10/12/NSR64PHUAVHUROSVE2RNRM7OKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/12/NSR64PHUAVHUROSVE2RNRM7OKM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 09:06:13 +0000</pubDate>
-      <content:encoded>지난해 이화여대는 캄보디아와 홍콩에서의 해킹 공격으로 16만여 명의 개인 정보가 유출됐다고 교육부에 신고했다. 홍익대는 2022년부터 지난해까지 직원 실수 등으로 여섯 차례에 걸쳐 총 1만3750명의 개인정보가 유출됐다.&lt;br&gt;&lt;br&gt;최근 5년간 국내 대학에서 250만여 명의 개인 정보가 유출됐는데도, 상당수 대학들이 교육부 실시 ‘해킹 대비’ 모의 훈련에 불참한 것으로 나타났다. &lt;br&gt;&lt;br&gt;12일 진선미 더불어민주당 의원실이 교육부에서 받은 자료에 따르면, 지난해 전국 대학 389곳 중 73%(283곳)가 사이버 위기 대응 훈련에 참가하지 않았다. 사립대가 더 심했는데, 사립대 342곳 중 지난해 이 훈련에 참가하지 않은 곳은 80%(275곳)에 달했다. 사이버 위기 대응 훈련은 대학 전산망이 해킹되거나 해킹메일을 수신한 경우, 디도스(DDoS) 공격을 인지한 경우 등을 가정한 대응 모의 훈련이다. &lt;br&gt;&lt;br&gt;이에 대해 사립대들은 대학 자체 모의 훈련을 실시해 정부 훈련에 참가하지 않았다는 입장이다. 실제로 사립대의 경우, 이들 훈련 참여가 의무는 아니다. 하지만 사립대에선 해킹이나 직원의 실수 등으로 매년 개인 정보 유출 사고가 다수 발생하고 있고, 피해 규모도 작지 않다. 지난해 대학에서 발생한 개인 정보 유출 사고 34건 중 65%(22건)가 사립대에서 발생했고, 피해자는 총 25만명이 넘었다. &lt;br&gt;&lt;br&gt;진선미 의원은 “해킹 등에 따른 개인 정보 유출 피해를 줄이기 위해선 대학에 대한 교육부의 정보 보안 관리 및 감독 강화와 더불어 사립대들이 사이버 위기 대응 훈련에 의무적으로 참여하도록 할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>해병 특검 ‘이종섭 도피 의혹’ 한동훈 소환 검토… 韓 “전혀 무관”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/12/4CHGSBVGSBGYTAMWTGDVU7RJPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/12/4CHGSBVGSBGYTAMWTGDVU7RJPA/</guid>
@@ -734,28 +743,6 @@
       <description/>
       <pubDate>Sun, 12 Oct 2025 08:25:44 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LPIDMK7MT63C52BKXGGIJOUVAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 이종섭 전 국방장관의 주(駐)호주 대사 임명 및 도피성 출국 의혹과 관련해 고발된 한동훈·박성재 전 법무장관에 대한 소환 조사를 검토하는 것으로 12일 전해졌다. 한 전 장관은 “(범인 도피 의혹은) 저와 전혀 무관한 일”이라며 강하게 반발했다.&lt;br&gt;&lt;br&gt;특검은 고(故) 채수근 상병 사건으로 입건돼 출국 금지돼 있던 이 전 장관이 호주 대사로 임명되고 출국하는 과정에 대통령실과 법무부, 외교부 관계자들이 관여한 정황을 포착해 수사 중이다. 이 전 장관은 지난 2023년 12월 호주 대사로 내정된 직후 법무부에 의해 출국 금지됐는데, 당시 법무장관이 한 전 장관이었다. 박 전 장관은 출국 금지가 해제돼 호주로 출국하던 작년 3월 재직 중이었다. 두 사람은 모두 범인 도피 및 직권남용 피의자로 입건돼 있다.&lt;br&gt;&lt;br&gt;특검은 호주 대사 의혹과 관련한 피의자들은 원칙적으로 소환 조사한다는 방침이다. 특검은 이날 “한 전 장관에 대한 조사는 구체적으로 일정이 정해지지 않았고, 박 전 장관에 대한 조사 일정은 조율 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 한 전 장관은 자신의 페이스북을 통해 “(작년 3월) 저는 국민의힘 비상대책위원장으로서 이 전 장관의 귀국을 공개적으로 강력히 촉구해서 대통령실과 충돌했고, 이후 국민의힘 당대표로서 채 상병 특검을 수용하자고 주장했다”며 “특검이 저보고 채 상병 사건의 피의자라니 황당한 소리”라고 적었다.&lt;br&gt;&lt;br&gt;한 전 장관은 “저는 이 전 장관의 출국 금지 당시 법무장관이었고, 해제 당시에는 국민의힘 비대위원장이었으므로 (이 사건과) 아예 무관하다”며 “장관 퇴임 후 이뤄진 출국 금지 해제에 책임이 있어 피의자로 입건했다는 코미디 같은 소리를 하고 있다”고 했다. 이어 “실력으로 수사 성과를 못 내니 저를 또다시 걸고넘어지며 지저분하게 언론 플레이하고 있다”며 “정치 특검에게 ‘뭐든 할 테면 하라’고 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  10월 13일 월요일 (음력 8월 22일 乙卯)</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/12/6E4Y7LWXJVHXRCWSHCT64G2GHM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/12/6E4Y7LWXJVHXRCWSHCT64G2GHM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 12 Oct 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;  	&amp;nbsp;	36년생 열매 없는 나무 심지 마라. 48년생 도장과 서명을 주의. 60년생 어떤 상황에도 흔들리지 말고 초심을 굳건히. 72년생 자선은 물질로만 하는 것이 아니다. 84년생 일을 겪어봐야 현명해지는 법. 96년생 물질적 소득은 아니어도 정서적 안정은 기대.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt;  &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani02.gif"&gt;	&amp;nbsp;	37년생 시끄러워도 꾹 참는 인내 필요. 49년생 확신이 섰다면 주저할 것 있나. 61년생 눈과 귀에 거슬려도 무조건 참아라. 73년생 남 일이라면 눈감고 모른 체하라. 85년생 내 말은 남이 하고 남의 말은 내가 한다. 97년생 불가능을 가능케 하는 것이 ‘희망’.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani03.gif"&gt;	&amp;nbsp;	38년생 응달에도 해 드는 날 있다. 50년생 강물 거세도 바위는 휩쓸리지 않는 법. 62년생 수동적인 자세는 사회생활에 마이너스. 74년생 궁색한 처지에선 신의 저버리기 쉽다. 86년생 상대방이 바라면 청하기 전에 응하라. 98년생 과한 목표는 삶 힘들게 한다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani04.gif"&gt;	&amp;nbsp;	27년생 드러내지 말고 감추면서 가라. 39년생 두 번째로 떠오른 생각이 상책. 51년생 각인각색이 따로 없네. 63년생 예상보다 수월하게 마무리될 듯. 75년생 무엇보다 마음의 평정이 제일. 87년생 장점 단점 모두 자산. 99년생 유연성을 기르도록 노력해야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani05.gif"&gt;	&amp;nbsp;	28년생 음식으로 인한 탈 염려. 40년생 뜻밖의 소식에 가슴 철렁. 52년생 투자보다 정보 수집 먼저. 64년생 남 비위 맞추는 것도 하루이틀. 76년생 누구의 말도 절대 신뢰는 절대 금물. 88년생 좋은 일에 금전 지출은 다다익선. 00년생 베푸는 마음이 필요.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani06.gif"&gt;	&amp;nbsp;	29년생 반가운 벗과 회포를 풀기에 적기. 41년생 느긋하게 천천히 추진하라. 53년생 창업이라면 한 번 더 심사숙고하라. 65년생 명예욕만큼 공허한 것 없다. 77년생 가난이 싸움 붙인다. 89년생 득실은 가족 간에도 있는 법. 01년생 세상에 가치 없는 삶은 없다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani07.gif"&gt;	&amp;nbsp;	30년생 주도권은 말로 갖는 것. 42년생 감정 조절에 익숙해져야. 54년생 술집 개가 사나우면 술이 시다. 66년생 실수는 자만 방심에서 발생. 78년생 덤은 덤, 계산은 계산. 90년생 투자 관련이라면 보류가 상책. 02년생 쓸데없는 근심이니 마음을 비우도록.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani08.gif"&gt;	&amp;nbsp;	31년생 호랑이 없는 골짜기에 토끼가 왕 노릇. 43년생 활동 반경이 넓어지는 시기. 55년생 속 타 봐야 무슨 소용. 67년생 교만과 방심을 경계. 79년생 열릴 때까지 두들겨라. 91년생 동료나 친구의 도움이 기대. 03년생 주변의 고충도 헤아리며 가야.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani09.gif"&gt;	&amp;nbsp;	32년생 용띠와의 동업이 이익 증대. 44년생 속단 말고 동태를 살펴라. 56년생 받기보다 주기가 더 행복. 68년생 가족과 함께하면 즐겁다. 80년생 어려움이 점차 해결되는 시기. 92년생 조급하게 서두르면 될 일도 안 된다. 04년생 자손의 경사에 웃음꽃 만발.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani10.gif"&gt;	&amp;nbsp;	33년생 남 흉이 하나면 내 흉은 열 가지. 45년생 누런색과 숫자 5, 10 행운 부른다. 57년생 긴급 상황 대비한 비상금 준비. 69년생 지금 눈앞에 있는 사람이 가장 중요. 81년생 업무를 바꿀 수 없다면 자세를 바꿔라. 93년생 잔가지 휘면 큰 나무도 구부러진다.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani11.gif"&gt;	&amp;nbsp;	34년생 긍정적인 생각이 행복 부른다. 46년생 흰 이슬 내리면 여름 가고 가을 오는 줄 알라. 58년생 적당한 욕심은 늙지 않는 열정. 70년생 궁하면 변해야 통한다. 82년생 적게 먹고 적게 말하면 손해도 적다. 94년생 인상을 가꿔라. 첫인상이 성패 좌우.	&lt;br&gt;&lt;br&gt;&lt;br&gt;
-&lt;img width="100%" height="6" class="unse_line" src="http://image.chosun.com/se/200610/main/line_dot520.gif"&gt; &lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani12.gif"&gt;	&amp;nbsp;	35년생 아랫사람과의 불화는 서둘러 해결하도록. 47년생 뒤로 자빠져도 코 깨질 수 있다. 59년생 가까운 지인들과의 돈 거래 절대 피해야. 71년생 고난 당하니 참 벗을 알겠구나. 83년생 무슨 일에도 믿을 것은 자신뿐. 95년생 끝까지 승부를 보려 하지 마라.	&lt;br&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한소평 금오산방 강주  &lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;			&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>서울 동대문구·서대문구에도 ‘자율주행 마을버스’ 달린다</title>
