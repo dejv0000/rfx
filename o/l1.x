@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>이찬희 한국스카우트연맹 총재, 대만스카우트연맹 '최고의 국제 교류장' 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212236.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;대만스카우트연맹으로부터 녹옥장성장을 수여받은 이찬희 총재 《한국스카우트연맹》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;2025년 10월 14일 한국스카우트연맹 이찬희 총재가  대만 카오슝에서 개최된 제28차 아시아-태평양지역스카우트총회에서 대만스카우트연맹(The General Association of the Scout of China, TGASC)으로부터 외국인에게 수여하는 최고의 훈장인 녹옥장성장 (中華民國童軍 國際友誼章 綠玉長城獎章 -China’s International Friendship Award – Green Jade GreatWall Award)을 수상했다.&lt;/p&gt;&lt;br /&gt;대만스카우트연맹은 스카우트가 없는 중국을 대신하여 중화권을 대표하고 있는데, “이번 수여는 한국스카우트연맹이 그동안 꾸준히 펼쳐온 국제 교류 활동, 특히 한·중·일 동북아시아 지역 청소년 간의 활발한 교류를 통해 스카우트운동의 국제적 위상을 높이고, 청소년들이 글로벌 시민으로 성장할 수 있도록 기여한 공로를 인정한 것”이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212236.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;br /&gt;이찬희 총재는 “이번 수상을 계기로 더욱 폭넓은 국제 협력과 청소년 역량 강화에 힘써, 스카우트운동의 가치가 새롭게 확산 될 수 있도록 최선을 다하겠다”며, “새만금세계잼버리 이후 위축되었던 한국스카우트연맹의 활동에 대한 국제적 신뢰를 회복하는 한편, 2026년 8월로 예정되어있는 제16회 한국잼버리 는 환경, 평화를 주제로 아시아 태평양지역 스카우트 회원국 스카우트 지도자와 대원들이 참가하여 한국스카우트연맹 대한 전폭적인 지지와 응원이 담긴 것이라 더욱 의미가 있다”고 수상 소감을 말했다.&lt;br /&gt;&lt;br /&gt;한국스카우트연맹은 1922년에 설립된 국내 최대의 청소년단체로서, 전국 18개 지방연맹과 4개의 특수연맹(가톨릭, 원불교, 불교, 기독교)이 조직되어 있으며, 글로벌 교류 청소년 월크숍. 디지털 교육 플랫폼, UN-SDGs(지속가능발전목표)의 하나인 양질의 교육 등을 위해 적극적으로 활동하고 있다.</description>
+			<pubDate>Tue, 14 Oct 2025 07:25:46 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212236</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212236</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212236.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>정성호 법무부장관 "국민을 섬기는 법무부로 도약하겠다"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212205.jpg" alt="346373.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;정성호 법무부장관이 14일 서울 여의도 국회에서 열린 법무부 등에 대한 법제사법위원회 국정감사에서 인사말하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&lt;/span&gt;&amp;nbsp;법무부장관은 10월 14일 "국감을 통해 그동안 위원들이 다소 미흡하게 느꼈던 부분이나 법무행정 개혁에 필요한 여러 말을 주면 업무에 충실히 반영해 국민을 섬기는 법무부로 도약하는 계기로 삼겠다"고 말했다. &lt;br /&gt;&lt;br /&gt;정 장관은 이날 국회에서 열린 법제사법위원회 법무부 국정감사에 출석해 인사말을 통해 "올해 7월 장관으로 취임한 이래 '국민이 안전한 나라, 인권의 가치를 존중하는 혁신 법무행정'을 비전으로 삼고 법무부의 변화와 혁신을 위해 부단히 노력했다"며 이같이 말했다. &lt;br /&gt;&lt;br /&gt;그러면서 "국민주권정부는 지난 네 달간 당면한 과제인 내란 종식과 경제 회복을 위해 뛰었고 무너진 법무행정을 재건하기 위해 힘썼다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;정 장관은 "법무부는 국가배상금 지급 확대, 1대1 전자감독, 소년범 보호관찰 강화, 교정시설 조성 사업 등 국민에 대한 여러 정책을 추진하고 있다"며 "예산과 인력 확보가 필수적인 만큼 신속하고 원활하게 사업이 진행될 수 있도록 위원들의 깊은 관심과 지원을 간곡히 부탁드린다"고 요청했다.&lt;br /&gt;&lt;br /&gt;이날 법무부 국정감사에서는 검찰청 폐지 확정에 따라 검찰의 보완수사권 유지 여부와 전건 송치 제도 부활 등을 둘러싼 공방이 이어질 전망이다. 또&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;전 대통령의 서울구치소 수감 특혜 의혹과 이화영 전 경기도 평화부지사 회유 의혹 등도 주요 질의 대상으로 오를 것으로 보인다.&lt;br /&gt;</description>
 			<pubDate>Tue, 14 Oct 2025 02:31:18 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/212123</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212123</guid>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>[단독] 구승모 전 대검 반부패부장, 법무법인 서이헌 대표변호사로 합류</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212135.jpg" alt="4747.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;구승모 전 대검 반부패부장&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4039"&gt;구승모&lt;/span&gt;(사법연수원 31기) 전 대검찰청 반부패부장(검사장)이 법무법인 서이헌에 대표변호사로 합류한다. &lt;br /&gt;&lt;br /&gt;구 대표변호사는 서이헌에서 기업·공정거래·국제 형사 분야 전문성을 바탕으로 형사 사건 등의 업무를 담당할 예정이다. &lt;br /&gt;&lt;br /&gt;20년 동안 검찰에서 재직한 구 대표변호사는 기업 관련 사건과 국제 형사 사건을 두루 경험한 인물이다. 그는 대검 반부패 연구관, 서울중앙지검 공정거래조사부 부장 등으로 근무하며 공정거래, 금융, 조세 사건 등을 처리했다. 2011년 법무부 상사법무과에서 근무하면서 기업지배구조 관련 회사법 개정을 주도하고, 해설서를 출간하기도 했다. &lt;br /&gt;&lt;br /&gt;구 대표변호사는 법무부, 대검찰청에서 국제 형사사건 업무 등을 담당한 ‘국제통’이기도 하다. 그는 검찰 재직 시절 2022년 국제 형사 분야에서 ‘블루벨트’로 불리는 대검 2급 공인전문검사 인증을 받았다.&lt;br /&gt;&lt;br /&gt;휘문고와 서울대 법대를 나온 구 대표변호사는 1999년 제41회 사법시험에 합격했다. 2002년 사법연수원을 제31기로 수료하고 2005년 서울중앙지검 검사로 임관했다. 수원지검 평택지청, 법무부 상사법무과, 서울서부지검 검사, 대검 반부패부 연구관 등을 거쳤다. 2016년~2018년 미국 LA 총영사관 법무협력관으로 파견 근무를 하기도 했다. 법무부 국제형사과장, 서울중앙지검 공정거래조사부장, 대검 국제협력담당관, 초대 의정부지검 남양주지청장, 광주고검 차장검사(검사장)를 지냈다. 2025년 7월 대검 반부패부장을 끝으로 검찰을 떠났다.</description>
-			<pubDate>Sun, 12 Oct 2025 21:09:33 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212135</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212135</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212135.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
