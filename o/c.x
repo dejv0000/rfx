@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“삶의 끝에는 다 나누고 싶다”던 춤꾼… 5명 살리고 떠났다  </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/15/JPHUMU6PCRF4FJ62PHS5F3ZGQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/15/JPHUMU6PCRF4FJ62PHS5F3ZGQ4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 14:00:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7IFO7EKZRNYZD65YERXGON4PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기증자 박현덕씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘자연에 순응하는 삶을 살겠다’며 장기 기증 희망 등록을 신청했던 60대 춤꾼 겸 연극인이 뇌사 상태에서 장기를 기증해 5명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;15일 한국장기조직기증원에 따르면, 춤꾼 겸 연극인으로 활동하던 박현덕(60)씨는 부산 동아대병원에서 심장·폐·간·양측 신장과 인체 조직을 기증했다. &lt;br&gt;&lt;br&gt;박씨는 지난 8월 1일 수영 강습을 받던 도중 뇌출혈로 의식을 잃고 쓰러져 병원으로 이송돼 응급 수술을 받았지만, 끝내 의식을 회복하지 못해 뇌사 판정을 받았다. 앞서 박씨는 2002년 기증원을 통해 장기 기증 희망 등록을 신청했고, 유족들은 그의 희망대로 기증에 동의했다. 심장, 폐장, 간장, 신장(양측)을 기증해 5명의 생명을 살렸으며, 인체 조직도 함께 기증했다.&lt;br&gt;&lt;br&gt;유족들은 그가 긍정적이고 밝은 성격으로 하고 싶은 일을 열정적으로 하면서도 함께하는 이를 배려하는 따뜻한 사람이었다고 추억했다. 그는 평소 가족들에게 “삶의 끝에는 자신이 가진 재산과 몸을 어려운 사람에게 나누고 떠나고 싶다”고 이야기했다고 한다. &lt;br&gt;&lt;br&gt;경남 남해군 상주면에서 2남 2녀 중 막내로 태어나 어릴 때부터 부산에서 자란 박씨는 동아대에서 풍물패로 활동했다. 대학 졸업 후에는 극단 ‘자갈치’에서 연기와 탈춤, 마당놀이를 했다. 극단을 나온 뒤엔 객원 배우와 예술 강사로 활동하며 마당극과 풍물패 등 다양한 공연에 참여했다. 최근엔 탈춤 등 민속 예술 계승 및 확산에 힘쓰고, 장애인과 비장애인이 함께하는 연극에 배우와 스태프로 참여했다. &lt;br&gt;&lt;br&gt;10년 넘게 헌혈을 40번 이상 꾸준히 해왔고, 쉬는 날이면 농사를 지어 어려운 이웃에게 먹을 것을 나눠 주기도 했다고 유족은 말했다. &lt;br&gt;&lt;br&gt;고인의 아내 김혜라씨는 “공연할 때 살아 있음을 느끼는 사람이었는데, 이제는 5명에게 새 생명을 주고 100여 명에게 희망을 나눴다”며 “자연에 순응하며 살고 싶다던 바람대로 떠나게 됐다. 사랑하고 고맙다”고 마지막 인사를 건넸다. &lt;br&gt;&lt;br&gt;이삼열 한국장기조직기증원 원장은 “삶의 끝에서 다른 생명을 살리기 위해 모든 걸 내주신 기증자 박현덕씨와 유가족분들의 따뜻한 사랑에 감사드린다”며 “기증자와 유가족의 사랑이 다른 생명을 살리는 희망으로 잘 전달될 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>與 의원들, 마무리 발언하러 온 조희대 대법원장 30분 세워놓고 추궁에 또 추궁 </title>
+      <link>https://www.chosun.com/national/court_law/2025/10/15/4AL3R6335RGV3OD6KLA5GW5A24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/4AL3R6335RGV3OD6KLA5GW5A24/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 11:38:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEBZ67GSRJDENPU6444DHUUJYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 대법원에서 열린 국회 법제사법위원회 국정감사에 조희대 대법원장이 출석해 마무리 발언을 하고 있다. /국회방송 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 15일 열린 대법원 2차 국정감사에 마무리 발언을 하기 위해 나왔지만, 국회 법제사법위원회 소속 더불어민주당 의원들은 조 대법원장을 향한 추궁을 이어갔다. 조 대법원장은 마무리 발언을 포함해 약 30분간 자리에 서서 민주당 의원들의 발언을 들었다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 오후 8시 30분쯤 마무리 발언을 하기 위해 국정감사장에 모습을 드러냈다. 조 대법원장은 “오늘도 위원님들의 말씀을 진지하고 무겁게 경청했다”며 “오늘 국정감사 과정에서 해소되지 않은 부분 중 답변이 가능한 부분들은 추후 파악해 법원행정처장을 통해 답변드리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;박지원 민주당 의원은 “대법원장이 하신 말씀이 오늘 질의와 지난 월요일(13일) 질의를 종합해 답변한 것이냐”고 따져 물었다. 이에 조 대법원장은 “미진한 부분을 살펴 법원행정처장을 통해 답변하겠다”고 했다.&lt;br&gt;&lt;br&gt;그러자 박 의원은 “지금 한 번 해보라”고 요구했다. 조 대법원장이 “재판 관련 사항이라 말씀드리기가 어렵다”고 하자, 박 의원은 “왜 대법원장이 우사인볼트보다 빨리 재판하고, 전원합의체가 기록을 보도록 허락했느냐”고 되물었다. 조 대법원장은 이에 답하지 않았다.&lt;br&gt;&lt;br&gt;이어 김용민 민주당 의원은 조 대법원장을 향해 “국감을 제대로 할 수 있도록 소속 공무원들에게 분명한 입장을 보이고, 국감에 적극 협조하며 관련 법령을 제대로 증언하도록 지휘해달라”고 했다. 조 대법원장은 “국감 협조는 당연한 일”이라고 답했다.&lt;br&gt;&lt;br&gt;서영교 민주당 의원은 “내란이 있던 그날 조 대법원장은 비상계엄이 합법이라면 그다음 해야 될 조치가 필요하다며 법원을 소집했다”며 “이와 관련해 답변하고 책임도 져야 한다”고 했다. 같은 당 김기표 의원은 “국감 준비가 너무 안 돼 있다”며 “구체적인 사실관계를 알아보고 한 번 더 국감을 해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘항공료 부풀리기 의혹’ 부천시청 공무원 등 6명, 검찰 송치</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/15/ASBE6RB7CNCEDBSEPQTJDWBAGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/15/ASBE6RB7CNCEDBSEPQTJDWBAGQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 13:21:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCTMXNK3FBFXXIURTLHPRVMQZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 부천원미경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방의회 의원들의 국외 출장 항공료가 부풀려 책정됐다는 의혹과 관련해 경기 부천시청 공무원 등이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 업무상 배임 혐의로 부천시청 공무원 A씨와 여행사 관계자 등 6명을 최근 불구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 시의원들의 국외 출장 항공료를 부풀리는 방식으로 출장비를 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “혐의 사실과 관련해 구체적인 내용에 대해서는 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 국민권익위원회는 2022년 1월부터 지난해 5월까지 3년간 전국의 지방의회가 주관한 지방의원 국외 출장 915건을 점검한 결과 항공권을 위·변조해 실제 경비보다 부풀린 사례가 405건(44.2%)에 달했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘뇌물수수 의혹’ 하은호 군포시장, 구속영장 기각... 법원 “법리적 다툼 여지 있어”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/15/JKXPQHRFCBDRHH27KITTS7GOH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/15/JKXPQHRFCBDRHH27KITTS7GOH4/</guid>
+      <dc:creator>군포=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 11:53:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X2UZ3HKHMFOLRLAHHJJETUFQG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;복합문화공간 위탁운영 업체 선정 과정에서 뇌물을 받은 혐의를 받고 있는 하은호 군포시장이 15일 오전 경기 안양시 동안구 수원지방법원 안양지원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;복합문화공간 위탁업체 선정 과정에서 비리를 저질렀다는 의혹을 받고 있는 하은호 경기 군포시장의 구속영장이 기각됐다.&lt;br&gt;&lt;br&gt;수원지법 안양지원은 15일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물수수) 혐의를 받는 하 시장에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “범죄 성립 여부에 대해 법리적 다툼 여지가 있고 피의자에 대한 방어권 보장 필요성이 있다”며 구속영장을 기각했다. &lt;br&gt;&lt;br&gt;이와 함께 법원은 뇌물공여 혐의를 받는 건설업자 A씨에 대해서도 구속영장을 기각했다. &lt;br&gt;&lt;br&gt;법원은 “현재까지 확보된 증거 자료에 비춰 증거인멸 우려가 있다고 보기 어렵다”며 “도주 우려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;하 시장은 군포시 복합문화공간의 운영 업체 선정 과정에서 A씨를 통해 뇌물을 받아 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;앞서 경기남부경찰청 반부패·경제범죄수사대는 하 시장과 A씨에 대한 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;하 시장과 A씨는 오랫동안 알고 지내온 사이로, 민간 위탁을 위한 입찰부터 상호 논의하며 이 같은 범행을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;더불어민주당 군포시의회 의원들은 작년 7월 경기남부경찰청에 하 시장을 자신이 소유한 상가건물의 관리비를 다른 사람에게 대납하도록 한 혐의(청탁금지법 위반)로 고발한 바 있다.&lt;br&gt;&lt;br&gt;해당 혐의로 하 시장을 입건한 경찰은 수사 중 복합문화공간 운영과 관련, 문제가 있다는 사실을 추가로 인지하고 올해 1~2월 하 시장을 압수수색했다.&lt;br&gt;&lt;br&gt;이와 별개로 경찰은 하 시장에게 뇌물을 제공한 또 다른 건설업자 B씨에 대해서도 뇌물공여 혐의를 적용해 사전구속영장을 신청했다.&lt;br&gt;&lt;br&gt;이날 법원은 B씨에 대해서도 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;B씨는 아예 다른 목적으로 하 시장에게 뇌물을 건넨 것으로 전해졌는데, 구체적인 혐의 내용은 밝혀진 바 없다.&lt;br&gt;&lt;br&gt;경찰은 하 시장과 A씨, B씨 이외에도 사건에 직간접적으로 얽힌 민간업체 관계자 등 8명을 불구속 입건해 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전기차 충전소서 텐트 치고 캠핑… “항의하자 되레 큰 소리” </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/15/KAN7M7ZB5ZCFFPBIU66ZZVAG44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/15/KAN7M7ZB5ZCFFPBIU66ZZVAG44/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 11:00:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7X5UYGQMKJE5NDHD2DNY3GOPBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 네티즌이 전기차 충전소에서 반려견을 풀어둔 채 텐트를 쳐 둔 여성으로 인해 불편을 겪었다며 공유한 사진. /보배드림 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 여성이 전기차 충전소에 텐트를 치고 캠핑을 해 다른 이용자가 불편을 겪었다는 사연이 전해졌다. &lt;br&gt;&lt;br&gt;제보자 A씨는 15일 온라인 커뮤니티를 통해 ‘양양 하조대 전기차 충전소서 텐트 치고 캠핑’이라는 제목의 글과 함께 당시 상황을 상세히 전했다. &lt;br&gt;&lt;br&gt;A씨가 올린 사진을 보면, 전기차 충전소 바로 앞에 텐트가 설치된 모습이다. 옆엔 빨간색 차량 한 대가 주차돼 있으며, 이 근처를 반려견 2마리가 목줄 없이 돌아다니고 있다. 텐트와 개 주인으로 추정되는 여성은 텐트 앞에서 팔짱을 낀 채 서 있다.&lt;br&gt;&lt;br&gt;A씨는 “가족여행 중 양양 하조대 해수욕장 주차장 전기차 충전소에 충전하러 갔는데, 한 여성이 개 2마리와 텐트 치고 캠핑을 하고 있었다”며 “여성분이 텐트에서 나오시길래 ‘여기가 캠핑하는 곳이냐’고 말했더니 ‘옆에서 충전하면 되지 않느냐’고 되레 큰소리 쳤다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “개 2마리도 목줄 없이 풀어놓아서 네 살짜리 아이가 피해를 입었다”며 여성을 경찰에 신고했다고 밝혔다. &lt;br&gt;&lt;br&gt;실제로 경찰은 지난 9일 오후 8시 10분쯤 이런 내용을 신고받고, 여성을 전기차 충전 시설이 아닌 다른 곳에서 캠핑하도록 이동 조처한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이런 사연에 네티즌 사이에서는 여성을 향한 지적이 이어졌다. “캠핑을 왜 충전소에서 하는 거냐” “강아지들 차량에 치이면 어쩌려고 풀어두는 거냐” 등이다. 다만 “차량 충전하는 동안 텐트 치고 쉬고 있는 것일 수 있지 않냐”는 의견도 있었다. &lt;br&gt;&lt;br&gt;한편 환경친화적 자동차의 개발 및 보급 촉진에 관한 법률은 전기차 충전 시설이나 충전 구역에 물건을 쌓거나 통행로를 가로막아선 안 된다고 명시하고 있다. 다만 충전 방해 행위에 대한 과태료 부과는 지자체 권한으로, 경찰이 과태료를 직접 매기진 않는 것으로 알려져 있다. 이번 사례에서도 경찰은 A씨에게 이를 안내하며 행정안전부에서 운영하는 안전신문고를 통해 신고하도록 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘낮 기온 27도’ 마라톤 대회서 쓰러진 30대…나흘 만에 숨져</title>
+      <link>https://www.chosun.com/national/2025/10/15/TXMVKWNAJNDD3J5XCWD2WRI2CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/15/TXMVKWNAJNDD3J5XCWD2WRI2CU/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 15 Oct 2025 10:45:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7NPV6VMNEWG5IV23JJD3WQUUC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 열린 제8회 거제시장배 섬꽃 전국마라톤대회 포스터. /거제시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;낮 최고 기온이 27도까지 치솟은 늦더위 속에 치러진 마라톤 대회에 참가했다가 쓰러진 30대 남성이 치료 중 숨졌다.&lt;br&gt;&lt;br&gt;15일 경남 거제시 등에 따르면, 지난 12일 거제에서 열린 ‘제8회 거제시장배 섬꽃 전국 마라톤 대회’에 참가해 쓰러졌던 A씨가 이날 사망했다. 쓰러진 지 나흘 만이다.&lt;br&gt;&lt;br&gt;A씨는 대회 당일 하프 코스를 뛰던 중 의식을 잃고 쓰러진 뒤 인근 병원으로 이송됐다. 당시 병원 측은 A씨가 열사병으로 쓰러진 것으로 보고 경남 내 대학 병원으로 옮겼다. &lt;br&gt;&lt;br&gt;대회 당일 거제는 낮 최고 기온이 27도까지 오르며 늦더위가 이어졌고, 대회 참가자 9명이 탈진·고열 증세를 보였다. &lt;br&gt;&lt;br&gt;A씨와 함께 대회 당일 쓰러진 또 다른 참가자인 30대 남성 B씨도 아직 의식을 회복하지 못한 채 대학 병원 중환자실에서 치료받는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 이번 대회는 5㎞·10㎞·하프 등 3개 코스로 치러졌으며 약 6800명이 참가했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘순직 해경’ 당직 팀장, 구속 심사…취재진 질문엔 ‘침묵’</title>
       <link>https://www.chosun.com/national/court_law/2025/10/15/NXOFJVWXZJAKRFDE6XJBIYTAXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/NXOFJVWXZJAKRFDE6XJBIYTAXU/</guid>
@@ -767,24 +821,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW5RJ2QOQZCAPN2WL34S3IGSKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 열리는 남자 월드컵 축구 대회 마스코트가 얼마 전 공개됐어요. 공동 개최국인 미국과 캐나다, 멕시코를 상징하는 야생동물을 한데 모았지요. 미국의 흰머리수리, 캐나다의 말코손바닥사슴과 함께 멕시코의 상징 동물로 재규어가 들어갔죠. 민첩한 몸놀림과 강력한 공격력을 가진 재규어는 축구의 최전방 스트라이커를 떠올리게 합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUAZDDXNZ5DITPEBESELRP5C6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/FIFA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재규어는 퓨마와 함께 아메리카 대륙을 호령하는 고양잇과 맹수로 유명하죠. 다 자란 몸길이는 최장 1.8m, 꼬리 길이는 최장 0.9m로 고양잇과 맹수 중에서 호랑이, 사자에 이어 셋째로 몸집이 크답니다. 재규어라는 이름은 남아메리카 원주민들의 옛 언어의 ‘야구아라’라는 단어에서 유래된 것으로 보이는데, 맹수를 뜻한다고 해요. 재규어는 아프리카·아시아의 맹수인 표범과 빼닮았지만, 자세히 들여다보면 차이점이 있답니다. 우선 재규어의 몸통 부분 털 색깔을 보면 꽃을 연상시키는 모양의 테두리에 가운데는 점이 촘촘히 그려진 무늬로 돼 있어요. 이 아름다운 무늬는 표범이나 치타에게선 찾아볼 수 없죠. 또한 재규어는 몸통에 비해 머리는 큰 반면, 네 다리 길이는 상대적으로 짧지요.&lt;br&gt;&lt;br&gt;재규어는 300만 년쯤부터 아시아에 살던 고양이의 조상 동물이 아메리카 대륙으로 건너오며 곳곳으로 퍼져나갔다고 해요. 당시엔 시베리아와 알래스카가 땅으로 연결돼 있었거든요. 멕시코뿐 아니라 미국 남부부터 아르헨티나까지 재규어가 살고 있는 나라는 열아홉 곳이나 된대요. &lt;br&gt;&lt;br&gt;재규어는 사자·호랑이보다 덩치는 작지만 사냥 솜씨는 오히려 이들을 능가한다는 평가도 받아요. 짧지만 탄탄한 네 다리를 이용해 나무 위로 올라가거나, 물속에서도 사냥을 하거든요. 과학자들이 재규어가 사냥하는 동물의 종류를 조사해 봤더니 포유동물·새·파충류·물고기를 비롯해 여든다섯 가지나 됐대요. 평소 재규어는 카피바라나 페커리 같은 포유동물의 뒤를 재빨리 쫓아가 덮치기도 하고, 물속에서 카이만 악어나 커다란 물고기를 잡아끌고 나오기도 하죠. &lt;br&gt;&lt;br&gt;현란한 털가죽 무늬는 사냥감의 눈에 띄지 않게끔 위장 효과를 발휘하죠. 재규어는 고양잇과 맹수 중에서 턱힘이 가장 강력해요. 그래서 사냥감의 목덜미를 물어 질식시킬 수도 있고, 악어나 거북 등 파충류들의 딱딱한 비늘도 뚫을 수 있답니다. 재규어는 무서운 포식자이지만, 특정 동물이 지나치게 번식해 생태계 균형이 무너지는 걸 막아주는 자연의 수호자 역할도 하고 있어요. &lt;br&gt;&lt;br&gt;재규어는 주로 아마존 같은 정글에만 살고 있는 것 같지만, 사실 건조한 초원이나 험준한 산악 지대, 바닷가에서도 살아간답니다. 주로 밤에 활동하는 야행성이라는 점, 자신의 세력권을 두고 단독 생활을 한다는 점, 새끼를 기르는 건 암컷이 도맡는다는 점은 호랑이·표범과 비슷하죠. 다른 맹수와 마찬가지로 재규어의 최대 위협은 사람이랍니다. 털가죽 등을 노리거나 기르던 가축을 잃은 데 대한 앙심을 품고 사람이 재규어를 사살하는 경우가 끊이지 않고 있대요. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [숨어있는 세계사] 해부학부터 항생제까지, 인류를 구한 의학 발견들</title>
-      <link>https://www.chosun.com/national/nie/2025/10/15/AURUHGJFU5DFVGINSPS3ATN4OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/15/AURUHGJFU5DFVGINSPS3ATN4OM/</guid>
-      <dc:creator>정세정 옥길새길중학교 역사 교사, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>최근 영국에서 유전성 뇌 질환인 헌팅턴병 환자를 대상으로 진행한 유전자 치료가 처음으로 성공했다는 소식이 전해졌어요. 헌팅턴병은 뇌에 비정상적인 단백질이 쌓여 뇌와 몸이 망가지는 병이랍니다. 그동안 마땅한 치료법이 없었어요. 그런데 이번에 유전자 치료를 통해 완치까지는 아니어도 병의 진행을 크게 늦추는 데 성공했답니다. 발병 원인이 비슷한 파킨슨병과 알츠하이머병도 같은 방법으로 치료할 수 있을 것이란 기대까지 나온다고 하네요.&lt;br&gt;&lt;br&gt;그동안 인류는 수천 년 동안 질병을 이해하고 극복하기 위한 도전을 멈추지 않았어요. 의학의 발전은 곧 인류 생존의 역사이자, 세계사의 흐름을 바꾼 힘이죠. 오늘은 역사적인 의학 발전의 순간들에 대해 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;인체 해부와 세계관의 변화 &lt;/b&gt;&lt;br&gt;&lt;br&gt;인체 해부는 동서양을 막론하고 오랫동안 금기였어요. 동양의 유교는 부모에게서 받은 몸을 소중히 하는 것을 효도의 시작이라고 가르쳤고, 서양에서도 인체를 해부하는 것을 꺼려 동물의 몸을 해부해 인체 구조를 짐작하는 정도였죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRIUK5MA3FDWZEX5EUUA36FQW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;베살리우스가 쓴 ‘인체의 구조에 대하여’라는 책에 실린 삽화예요. 베살리우스는 실제 사람 몸을 해부하고 근육 구조를 연구해 이 책을 펴냈습니다. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그런데 르네상스 시대(14~16세기)를 맞아 의학에도 새로운 바람이 불기 시작해요. 르네상스에 들어서 사람들이 ‘신 중심의 세계’에서 ‘인간 중심의 세계’로 시선을 돌렸기 때문이에요. 이런 변화 속에서 15세기에 인체 해부를 허용하는 교황 식스토 4세의 칙령이 나오게 됩니다. 사형수의 시신에 한해 해부를 허용한 건데, 이는 당시로선 매우 혁명적인 일이었죠.&lt;br&gt;&lt;br&gt;이 같은 영향으로 베네치아 공화국에서 활동했던 베살리우스(1514~1564)는 실제 사람의 몸을 해부하며 그 구조를 하나하나 기록했어요. 그리고 1543년, 자신의 연구를 모은 책 ‘인체의 구조에 대하여’를 출간했지요. 이 책은 당시 최고의 화가들과 협력해 정밀하게 그려진 인체 삽화로 유명했어요. 그래서 과학적 정확성과 예술적 아름다움을 동시에 갖춘 명작으로 평가받습니다. 시신을 해부해 뼈와 근육, 장기의 모습을 정확히 기록했는데, 의학이 종교의 권위에서 벗어나 과학의 길로 나아가는 전환점이 된 것이죠.&lt;br&gt;&lt;br&gt;&lt;b&gt;예방 백신과 위생 관념의 등장&lt;/b&gt;&lt;br&gt;&lt;br&gt;2020년 코로나 팬데믹이 전 세계를 덮치며 인류의 삶을 한동안 바꿔 놓았죠. 하지만 인류 역사에는 이보다 훨씬 오랜 세월 동안 사람들을 괴롭혀 온 병이 있어요. 바로 천연두랍니다. 특히 대항해 시대였던 16~17세기에는 유럽인들이 들여온 천연두로 아메리카 대륙 원주민들이 수백만 명 이상 사망하는 등 큰 피해를 입었어요. 살아남았다 하더라도, 천연두는 얼굴에 깊은 흉터 자국을 남겼죠. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QBOF5GE3VHQBNQVKHMWWLPQH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;에드워드 제너가 한 소년에게 천연두 백신을 주사하는 모습을 그린 그림. 제너의 발견은 오늘날 예방의학의 출발점이 됐지요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국의 의사 에드워드 제너(1749~1823)는 이 천연두를 예방하기 위해 인류 최초로 백신을 만들어 낸 사람이에요. 당시 사람들은 소젖을 짜는 사람들이 천연두에 잘 걸리지 않는다는 사실을 알고 있었어요. 소에 생기는 전염병인 ‘우두(牛痘)’에 한 번 걸리면 천연두에도 면역이 생겼던 것이죠.&lt;br&gt;&lt;br&gt;제너는 이 현상을 실험으로 확인해 봤습니다. 1796년, 그는 우두에 걸린 여성의 고름을 여덟 살 소년에게 접종했어요. 소년은 가벼운 증상만 보인 뒤 회복했답니다. 몇 주 뒤 같은 소년에게 실제 천연두 바이러스를 주사했지만 병에 걸리지 않았어요. 우두에 한 번 걸리면 천연두에도 끄떡없다는 믿음 때문에 가능했던 실험이었죠. 이렇게 해서 천연두를 막는 첫 백신(vaccine)이 탄생했죠. 참고로 ‘백신’이라는 말은 라틴어로 ‘암소’를 뜻하는 바카(vacca)에서 비롯된 단어랍니다.&lt;br&gt;&lt;br&gt;백신 발명 후 천연두 발생률과 사망률이 극적으로 감소했어요. 제너의 발견은 치료만큼이나 예방 접종이 중요하다는 것을 일깨우는 사례입니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5SBN6UO4PFFERH45VYN4DEEBAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;실험실에서 연구를 하고 있는 루이 파스퇴르를 그린 그림이에요. 파스퇴르가 세균이 질병을 일으킨다는 사실을 증명한 덕분에 인류의 위생 관념이 크게 바뀌었지요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19세기 프랑스의 화학자 루이 파스퇴르(1822~1895)는 사람들의 병에 대한 생각을 완전히 바꿔 놓았어요. 그가 태어났던 1800년대 초까지만 해도 사람들은 저주나 악취 때문에 병이 생긴다고 믿었죠. 당시만 해도 눈에 보이지 않는 미생물의 존재는 상상도 못 했습니다.&lt;br&gt;&lt;br&gt;파스퇴르는 포도주가 쉽게 상하는 이유를 연구하다가 현미경으로 세균을 관찰했어요. 그는 세균이 음식과 술을 상하게 하고, 때로는 병도 일으킨다고 밝혔죠. 그리고 섭씨 60~65도 정도의 낮은 온도에서 잠시 끓이면 세균이 죽는다는 사실도 알아냈어요. 이 방법이 바로 오늘날 우리가 우유나 음료에 사용하는 ‘저온 살균법’이랍니다.&lt;br&gt;&lt;br&gt;파스퇴르의 발견으로 사람들은 처음으로 병의 원인이 세균이라는 사실을 알게 됐습니다. 이제 질병은 ‘나쁜 냄새’가 아니라 눈에 보이지 않는 미생물 때문이라는 게 밝혀진 거예요. &lt;br&gt;&lt;br&gt;이후 사람들의 생활 습관도 달라졌어요. 우리가 손 씻기의 중요성을 알게 된 것도 이때부터죠. 파스퇴르의 연구 덕분에 인류는 ‘위생의 시대’를 맞이한 셈입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;인류 수명을 늘린 페니실린&lt;/b&gt;&lt;br&gt;&lt;br&gt;영국의 미생물학자이자 세균학자인 알렉산더 플레밍(1881∼1955)은 제1차 세계대전 때 군의관으로 참전했다가, 전쟁터에서 부상보다 감염으로 사망하는 병사가 더 많다는 사실을 알게 됐어요. 이에 그는 전쟁이 끝나자 감염병 치료에 필요한 세균학과 면역학 연구에 매진하게 됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HYUF5R52C5DJFKSHA76TA5HAJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제2차 세계대전 당시 포스터로, 페니실린 사용을 찬양하는 내용이에요. ‘페니실린이 군인들의 생명을 구한다’라고 적혀 있어요. /위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1928년 휴가를 마치고 실험실로 돌아온 플레밍은 놀라운 장면을 목격해요. 세균을 배양하던 접시 위에 곰팡이가 피어 있었는데, 그 곰팡이 주변의 세균들이 모두 사라진 겁니다. 플레밍은 이 곰팡이가 세균의 성장을 막는 물질을 내뿜는다는 사실을 알아냈고, 그 물질을 ‘페니실린(penicillin)’이라 이름 붙였죠. 이것이 바로 인류 최초의 항생제였답니다.&lt;br&gt;&lt;br&gt;이후 페니실린이 대량 생산된 덕분에 제2차 세계대전에서 수많은 병사들이 감염으로부터 목숨을 구할 수 있었습니다. 페니실린이 나오기 전까지만 해도 사람들은 단순한 상처나 감염으로 목숨을 잃곤 했지요. 하지만 항생제의 등장으로 인류의 평균 수명은 크게 늘었어요. 인류의 운명 자체를 바꿔놓은 것이지요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [415] ‘이슈’와 ‘팸플릿’</title>
-      <link>https://www.chosun.com/national/nie/2025/10/15/AXUN5BN45RGMZL3G3ISDMS2XAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/15/AXUN5BN45RGMZL3G3ISDMS2XAM/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>*“‘여행잇슈’는 세계를 누비는 독자들에게 여행 소식을 소개하는 코너입니다.”&lt;br&gt;&lt;br&gt;*입시 박람회에선 각 대학별로 팜플렛과 기념품을 제공했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJ4YAUOTDJAF5PWTDBVJAO6CZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9일은 제579돌 한글날이었습니다. 오늘은 외래어 가운데 특히 자주 틀리는 표현을 함께 살펴볼게요. 위 문장의 ‘잇슈’와 ‘팜플렛’은 각각 ‘이슈(issue)’와 ‘팸플릿(pamphlet)’으로 고쳐 써야 맞습니다.&lt;br&gt;&lt;br&gt;‘이슈’는 ‘논의나 논쟁의 중심이 되는 문제점’을 뜻합니다. 다듬은 말로는 ‘쟁점’ ‘논점’ 등이 있지요. ‘잇슈’는 잘못된 표기인데, TV 프로그램의 코너 이름이나 간판 등에 ‘잇슈 머니’ ‘잇슈 키워드’라고 쓰는 경우가 많아요. 모두 ‘이슈’로 고쳐야 해요.&lt;br&gt;&lt;br&gt;‘팸플릿’은 ‘설명이나 광고, 선전 등을 위해 얇게 묶은 작은 책자’를 말합니다. 실생활에서 ‘팜플렛’ ‘팜플릿’ 등으로 사용하는 경우가 많은데, 모두 틀린 표기예요. 다듬은 말로는 ‘소책자’ 등이 있지요. 참고로 팸플릿보다 더 간략한 형태로, 광고 문구 등이 인쇄된 종이를 ‘리플릿(leaflet)’이라고 합니다. ‘리플렛’ ‘리프렛’은 틀린 표기예요. &lt;br&gt;&lt;br&gt;[예문]&lt;br&gt;&lt;br&gt;-이슈별 해법을 마련해 우리 입장이 충분히 반영되도록 해야 한다.&lt;br&gt;&lt;br&gt;-홍보 영상과 포스터, 팸플릿을 적극 활용하여 행사를 잘 진행했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [알립니다] 하루 10분, 신문 필사해보세요</title>
       <link>https://www.chosun.com/special/announcement/2025/10/15/FBBPGRPWR5HM5K4GT6O4VHGHUU/</link>
       <guid isPermaLink="true">https://www.chosun.com/special/announcement/2025/10/15/FBBPGRPWR5HM5K4GT6O4VHGHUU/</guid>
@@ -792,33 +828,6 @@
       <description/>
       <pubDate>Tue, 14 Oct 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA5R3UAEF5GPLFODKRHOATI3GI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조선일보가 출간한 ‘하루 10분 신문 필사’가 절찬리에 판매되고 있습니다. 경제·건강·역사 분야 등 본지의 흥미로운 기사 75편을 따라 쓸 수 있도록 만든 책입니다. 논술을 대비하는 중·고교생, 기업 입사를 준비하는 취업 준비생, 보고서를 잘 쓰고 싶은 신입 사원, 두뇌 훈련이 필요한 은퇴자까지, 이 책 한 권이면 충분합니다.&lt;br&gt;&lt;br&gt;교보문고와 예스24, 알라딘 등 온·오프라인 대형 서점에서 책을 판매하고 있습니다. 본지 독자는 조선리더스 홈페이지(&lt;a href="https://members.chosun.com" target="_self" rel="" title="https://members.chosun.com"&gt;members.chosun.com&lt;/a&gt;)에서 정가 2만원인 책을 20% 할인된 가격에 구매할 수 있습니다.&lt;br&gt;&lt;br&gt;▲문의: 1577-8585(독자서비스센터)&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 안배(按排)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/15/2I3FVL4B3ZEPZCS3HUDI7GN43Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/15/2I3FVL4B3ZEPZCS3HUDI7GN43Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PLNMIC3WMBFKHEI2F5SY65BJ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2722] 오늘은 뭘 볼까</title>
-      <link>https://www.chosun.com/national/nie/2025/10/15/GXIFN7MFBVHZ3KCBANY472RYJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/15/GXIFN7MFBVHZ3KCBANY472RYJA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VXH7ZSUSRAIBKMLHCRRLCVXUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 책상다리하다, 양반다리하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/15/7Y6ATX6TVNFA7C3ZNZORTNP7OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/15/7Y6ATX6TVNFA7C3ZNZORTNP7OM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7BUKCLLM5HUJOWJELSW7ETZUE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“일본은 브라질 이겼는데…” 파라과이전 승리에도 축구팬들 ‘와글와글’</title>
@@ -937,15 +946,6 @@
       <description/>
       <pubDate>Tue, 14 Oct 2025 09:29:52 +0000</pubDate>
       <content:encoded>정성호 법무부 장관은 12·3 비상계엄 사태와 관련한 특검 수사 결과에 따라 국민의힘에 대한 위헌 정당 해산 심판 청구를 검토할 수 있다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWN5MLWXQYXTANNCHCDFWZZGZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 14일 서울 여의도 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에서 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관은 14일 국회 법제사법위원회 법무부 국정감사에서 민주당 전현희 의원이 “특검 수사를 통해 국민의힘의 내란죄 동조 행위가 드러난다면 위헌 정당 해산 심판을 청구할 것이냐”고 묻자 “결과가 나오면 검토하겠다”고 답했다.&lt;br&gt;&lt;br&gt;정 장관은 “제가 이 판단을 말씀드릴 수는 없다. 다만 (국민의힘이) 계엄 해제에 참여하지 않은 것에 계엄에 부화수행하기 위한 고의가 있었다는 점이 특검 수사로 드러난다면 그에 따른 처분이 있어야 한다고 본다”고 했다. 국민의힘에 대한 해산 청구 가능성을 열어둔 발언으로 풀이된다. &lt;br&gt;&lt;br&gt;정 장관이 국민의힘의 위헌 정당 해산 가능성을 공식적으로 언급한 것은 취임 이후 처음이다. 우리 헌정사에서 헌법재판소가 위헌 정당 해산을 선고한 사례는 2014년 통합진보당 해산이 유일하다.&lt;br&gt;&lt;br&gt;이날 민주당 이성윤 의원도 정 장관에게 “(국민의힘 위헌 정당 해산 관련) 태스크포스를 만들어서 해주시기를 간곡히 부탁한다. 국민의 요구 사항이다”라며 “국민의힘 의원들의 의원직을 박탈하고 남은 재산도 국고에 귀속시켜 달라”고 말했다.&lt;br&gt;&lt;br&gt;그러자 정 장관은 “위헌 정당 해산 청구는 헌법상 규정대로 신중히 해야 하는 방어적 민주주의”라며 “특검에서 사실이 확정된다면 잘 검토하겠다”고 재차 밝혔다.&lt;br&gt;&lt;br&gt;아울러 정 장관은 이재명 대통령의 지시에 따라 ‘세관 마약 수사 외압 의혹’을 폭로한 백해룡 경정을 동부지검 합동수사팀에 파견하는 것에 대해 “백 경정은 사건을 최초에 수사했던 당사자이기 때문에 (파견하는 것에) 큰 문제가 없다고 생각한다”는 입장을 밝혔다. 정 장관은 이 대통령의 백 경정 파견 지시를 지난 12일 봉욱 대통령실 민정수석을 통해 전달받았고, 이를 대검찰청에 서면으로 전달했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“한국 생활 고통...지옥 같았다” 피아니스트 임윤찬 인터뷰 재조명</title>
-      <link>https://www.chosun.com/national/people/2025/10/14/TUVP5XNMQNHBTHVDZ32WUNQJC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/14/TUVP5XNMQNHBTHVDZ32WUNQJC4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 04:39:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M6Z6JF6FSDAXZIU4R2TKZY6JDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피아니스트 임윤찬/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 피아니스트 임윤찬(21)이 과거 해외 인터뷰에서 한국 생활을 부정적으로 언급한 발언이 뒤늦게 주목받고 있다.&lt;br&gt;&lt;br&gt;지난 8월 이탈리아 유력 일간지 ‘라레푸블리카’와 한 인터뷰에서 임윤찬은 “한국이 그립지 않냐”는 질문에 “아니다”라고 답했다. 그는 “한국에서 보낸 마지막 학업 시절은 너무 고통스러웠다”며 “지옥에 있는 것 같았고, 죽고 싶다는 생각도 했다”고 했다. 이어 “지금은 오직 공연이 있을 때만 한국에 돌아간다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 한국 사회의 경쟁 문화를 고통의 이유로 꼽았다. 임윤찬은 “한국은 좁고 인구가 많아서 경쟁이 치열하다. 모두가 앞서 나가고 싶어 하고, 때로는 그 때문에 다른 사람을 해치기도 한다”고 했다. 임윤찬은 “제가 17세쯤 피아노에서 두각을 나타내기 시작했을 때, 정치인과 사업가들까지 불필요한 압력을 가했다”며 “그로 인해 큰 슬픔에 빠졌다”고 털어놨다.&lt;br&gt;&lt;br&gt;이 발언은 인터뷰 직후 큰 주목을 받지 못했으나, 최근 국내 온라인 커뮤니티를 통해 알려지며 공감을 얻고 있다. 네티즌들은 “입시 지독하지” “한국은 서로의 목을 조르고 절대 안 놓아주는 분위기” “예체능 쪽은 질투와 견제가 장난 아니었을 것” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;임윤찬은 현재 미국 보스턴의 뉴잉글랜드음악원에서 유학 중이다. 2023년 그의 스승인 손민수(49) 피아니스트가 한국예술종합학교를 떠나 뉴잉글랜드음악원 교수로 부임하자, 함께 현지로 유학을 떠나 사제 관계를 이어가고 있다.&lt;br&gt;&lt;br&gt;임윤찬은 일곱 살에 피아노를 시작해 예원학교를 수석 졸업했고, 한국예술종합학교 음악원에 입학했다. 2019년 윤이상 국제 피아노 콩쿠르에서 1위를 차지했고, 2022년 반 클라이번 국제 피아노 콩쿠르에서는 만 18세로 역대 최연소 우승을 거뒀다.&lt;br&gt;&lt;br&gt;그가 지난해 내놓은 ‘쇼팽: 에튀드’ 음반은 올해 4월 영국 BBC 뮤직매거진 시상식에서 ‘올해의 음반상’ ‘기악상’ ‘신인상’을 동시에 받았다. 단일 음반으로 세 부문을 석권한 것은 해당 시상식 사상 처음이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
