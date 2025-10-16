@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>민중기 특검, 김건희 여사 ‘주가조작’ 조사했던 태양광 테마주로 1억6000만원 수익</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/16/2DCRHWYBYRGBPBAGYL6WGTL3OE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/16/2DCRHWYBYRGBPBAGYL6WGTL3OE/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 14:07:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWNBBJKG3VBVJCK3A4K77XZAIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 2025년 7월 2일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막식을 가졌다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 특별검사팀의 민중기 특검이 태양광 소재업체 네오세미테크의 비상장주에 투자한 후 상장 폐지 직전 팔아 차익을 본 것으로 확인됐다. 해당 업체는 2010년 상장폐지된 태양광 소재업체로, 7000여명의 소액투자자에게 피해를 안긴 희대의 분식회계로 알려진 회사다. 특검은 김 여사를 소환 조사하며 네오세미테크 투자 계기 등을 추궁한 바 있다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 민 특검은 2010년 서울고법 부장판사 당시 네오세미테크 비상장 주식을 팔아 1억6000만원의 차익을 거뒀다. 해당 주식은 민 특검이 부산고법 부장판사였던 2009년 공직자 재산공개 당시 알려졌다.&lt;br&gt;&lt;br&gt;네오세미테크는 분식회계로 7000여명의 소액투자자에게 2000억원 이상의 손실을 보게 한 회사다. 네오세미테크의 오명환 전 대표는 2015년 법원에서 상장 직전 미공개 정보를 이용해 자신의 주식을 처분한 혐의로 유죄를 받았다. 오 전 대표는 민 특검과 대전고, 서울대 동기다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 여사를 조사하며 네오세미테크 주식을 거론한 바 있다. 김 여사는 2009년 한 증권사 직원과의 통화에서 네오세미테크 주식을 거론하며 “일단 오늘 공매도 하는 걸로 (나만) 먼저 받았다”고 말한 것으로 알려졌다. 특검은 김 여사에 상장 예정일 하루 전에 공매도를 할 수 있는 특혜를 혼자 받은 게 아니냐며 위법 행위에 가담한 게 아닌지 물었다. 특검은 네오세미테크 주식 거래가 초보 투자자가 접근하기 어려운 주식임을 고려했을 때 김 여사가 주식시장에 대한 이해가 높았다고 보기도 했다.&lt;br&gt;&lt;br&gt;다만 김 여사를 기소하며 해당 내용을 피의사실로 적시하지 않았다. 특검은 해당 의혹을 묻는 본지 질문에 답변을 내놓지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>캄보디아 경찰 “사기 가담 한국인 59명 17일 추방”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/UU2V5DOHHNH7BF6CA5JVJYXCXU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/UU2V5DOHHNH7BF6CA5JVJYXCXU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 12:09:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DAG7ULEDKBILNCVBVQFNIUKDFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김진아 외교부2차관, 박성주 경찰청 국가수사본부장을 비롯한 정부 합동대응팀 구성원들이 16일(현지시간) 캄보디아 프놈펜 인근 범죄단지를 돌아보고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 프놈펜 인근 ‘태자단지’ 등에서 온라인 사기(스캠) 범죄에 연루돼 구금 중이던 한국인들의 본국 송환이 본격화되고 있다. &lt;br&gt;&lt;br&gt;캄보디아 경찰은 17일(현지시간) 한국인 59명을 추방할 계획이라고 밝혔다고 AFP 통신이 16일 보도했다. 한국 경찰은 총 송환 대상 63명 가운데 2명이 이미 귀국했으며 나머지 61명에 대해 신속 송환을 추진 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;캄보디아 국가경찰은 이날 성명을 통해 “캄보디아 당국에 의해 구조되거나 다른 범죄로 구금된 한국인 59명을 주캄보디아 한국대사관과 협력해 본국으로 추방할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;한국 경찰에 따르면, 캄보디아 이민청에 구금됐던 한국인 송환 대상은 63명이다. 이 가운데 2명은 14일 국적기를 통해 먼저 출발해 16일 한국에 도착했다. 경찰은 “남은 61명에 대해 캄보디아 측과 협의해 신속히 송환이 이뤄지도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아파트 화단에 수류탄 있어요” 신고… 살상력 없는 80년대 훈련용</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/ECQ3P44NVRBGTAOFZ2EOVRREJ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/ECQ3P44NVRBGTAOFZ2EOVRREJ4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 13:50:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LQOQF54TBBJVG7P454WKMMFYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기사와는 무관한 수류탄 자료 이미지. /픽사베이&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 전주시의 한 아파트 화단에서 수류탄이 발견됐다.&lt;br&gt;&lt;br&gt;전주완산경찰서에 따르면 16일 오후 3시 40분쯤 전주시 완산구 평화동 한 아파트 화단에서 수류탄으로 의심되는 물건이 발견됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;현장에 출동한 경찰과 군 폭발물 처리반(EOD)이 확인한 결과, 1980년대 훈련용으로 사용되던 살상력 없는 수류탄으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 “폭발로 인한 피해는 없었다”며 “수류탄은 안전을 확인한 후 군 당국이 수거해 갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>최태원·노소영, 결혼 생활 갈등 10년 만에 이혼 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/16/IHE4L5LALZCONHX4GIZDIOUKAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/16/IHE4L5LALZCONHX4GIZDIOUKAY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 13:00:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5J56PZMCYMPNPUGSWV3C7345NU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최태원 SK그룹 회장과 노소영 아트센터 나비 관장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태원 SK 회장과 노소영 아트센터 나비 관장이 혼인 유지 여부를 두고 공개적으로 갈등한 지 10년 만에 이혼을 확정했다. 최 회장이 가진 2조원대 SK㈜ 주식 등에 대한 재산 분할 소송은 계속된다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 16일 최 회장과 노 관장의 이혼 소송 상고심에서 원심 판결 중 노 관장의 재산 분할 청구 부분을 제외한 나머지 부분을 확정했다. 이에 따라 두 사람의 갈등이 2015년 불거진 지 10년 만에 이혼이 확정됐다.&lt;br&gt;&lt;br&gt;최 회장은 2015년 12월 한 언론을 통해 동거인 김희영 티앤씨재단 이사와의 사이에 혼외자(婚外子)가 있다는 사실을 공개하며 이혼하겠다는 의사를 밝혔다. 최 회장은 당시 “(노 관장과) 10년 넘게 깊은 골을 사이에 두고 지내왔고 관계 회복을 위한 노력을 많이 해 보았지만 그때마다 더 이상 동행이 불가능하다는 사실만 재확인했다”며 “마음을 빨리 정리하고자 한다”고 했다. 최 회장은 그에 앞선 2013년 1월 노 관장에게 혼인 관계 파탄 책임이 있다고 주장하는 이혼 소장을 작성하기도 했지만, 법원에 제출하진 못했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;노 관장 측은 “가정을 꿋꿋이 지키겠다”는 입장을 고수했다. 이에 최 회장은 2017년 7월 협의 이혼을 시도했으나 조정이 결렬되자 이듬해 2월 정식 소송을 제기했다. 이혼을 거부하던 노 관장도 2019년 말 이혼하겠다며 “SK 주식 등 재산을 분할해달라”고 맞소송을 냈다.&lt;br&gt;&lt;br&gt;지난 2022년 12월 1심은 노 관장 측의 이혼 청구를 받아들이면서 “최 회장이 노 관장에게 위자료 1억원과 재산 분할로 현금 665억원을 지급하라”고 판결했다. 다만 1심은 SK㈜ 주식에 대해서는 재산 분할 대상으로 인정하지 않았다.&lt;br&gt;&lt;br&gt;작년 5월 2심은 최 회장이 노 관장과 이혼하면서 재산 분할로 1조3808억원을, 위자료로 20억원을 지급하라고 판결했다. SK㈜ 주식을 비롯해 최 회장이 친척에게 증여한 주식, 최 회장 명의 부동산, 예금, 미술품 등이 분할 대상이 됐다.&lt;br&gt;&lt;br&gt;그러나 대법원은 이날 두 사람의 이혼을 확정하면서 “노 관장의 기여도를 다시 따져 재산 분할 비율을 정하라”고 판결했다. 2심에서 노 관장의 기여분으로 인정한 ‘노태우 비자금’ 300억원에 대해 대법원은 “법적 보호 가치가 없어 재산 분할에서 노 관장 기여로 고려하면 안 된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“캄보디아 출국 목적이 무엇이냐” 대답 못한 20대 男…경찰 내사 착수 </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/IHMWU2TXZFAWJJ76NB42UALBZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/IHMWU2TXZFAWJJ76NB42UALBZ4/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 13:06:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQVLFVNH4T32RHU2DYVA6KURC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 한국인 납치·구금 사태가 발생해 논란을 빚고 있는 가운데 지난 15일 인천국제공항 제2여객터미널 탑승구에서 인천국제공항 경찰단 대테러기동대 대원들과 안보팀 관계자들이 캄보디아행 항공편 한국인 승객들을 대상으로 위험방지를 위해 질의응답 등 안전활동을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항에서 캄보디아행 항공기에 탑승하려던 20대 남성이 출국 목적도 제대로 답변하지 못하자 경찰이 입건 전 조사(내사)에 착수했다.&lt;br&gt;&lt;br&gt;16일 인천공항경찰단에 따르면 경찰은 이날 오후 6시 30분쯤 인천공항 제2여객터미널 탑승 게이트 앞에서 캄보디아행 항공기에 탑승하려고 한 20대 A씨의 출국을 제지했다.&lt;br&gt;&lt;br&gt;경찰은 당시 불심 검문을 하면서 “출국 목적이 무엇이냐”는 등 질문을 했으나 A씨는 “왜 막느냐 나가야 한다”면서 제대로 답변하지 않은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 “캄보디아 현지는 위험할 수 있다”고 설득하면서 A씨의 출국을 제지했다. &lt;br&gt;&lt;br&gt;텔레그램에서 운영된 이른바 ‘대포통장’ 모집 대화방에 이날 오후 7시 35분쯤 “출국 실패 내일 2명 일요일 1명 다 취소해야 하네 일단”이라는 글이 올라오면서 A씨가 범죄 조직의 일원이라는 추정도 나왔다. 이에 대해 경찰은 “아직 범죄 혐의점이 확인되지 않은 상태”라고 했다.&lt;br&gt;&lt;br&gt;A씨는 경찰관의 계속된 질문에도 별다른 답변을 하지 않고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 글 작성자와 A씨가 동일인인지 아직 확인되지 않은 상태”라며 “계속해서 추궁하면서 수사로 전환할지 여부를 검토할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;한편 경찰은 전날 오후 7시쯤 인천공항에서 캄보디아행 항공기에 탑승하려고 한 30대 남성의 출국을 제지했다.&lt;br&gt;&lt;br&gt;그는 경찰관과 면담 과정에서 “본업을 그만두고 쉬고 있었는데 과거 텔레그램을 통해 알게 된 동생이 항공기 탑승권을 보내줬다”는 취지로 설명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“하남 스타필드에 폭발물 설치했다” 신고…이용객 대피  </title>
+      <link>https://www.chosun.com/national/regional/2025/10/16/DDGNVQYVLBH7BIDXMYQ7PPBECY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/16/DDGNVQYVLBH7BIDXMYQ7PPBECY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 13:00:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TKHKIEXJUJEJBQ3NE2JXM2HSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 하남시의 대형 쇼핑몰인 스타필드에 폭발물을 설치했다는 신고가 접수돼 경찰이 수색 중이다.&lt;br&gt;&lt;br&gt;경기 하남경찰서에 따르면 이날 오후 6시 57분께 “하남 스타필드에 폭발물을 설치했다”는 취지의 신고가 소방에 접수됐다.&lt;br&gt;&lt;br&gt;신고는 전화가 아닌 온라인 홈페이지 ’119안전신고센터’에 접수된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 당국의 공동 대응을 요청받은 경찰은 경력을 투입해 현장을 통제하고 쇼핑몰 내 있던 시민들을 모두 대피시켰다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>CCTV는 다 알고 있었다… 차로 지인 들이받아 살해한 60대</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/3ABJ522IWVFTFK3DYE5Q6FSLTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/3ABJ522IWVFTFK3DYE5Q6FSLTQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 12:28:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RD7ROPP5UJBWBHPBSTVP62CFJ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사업 관계로 만난 지인을 차로 들이받아 살해한 60대에게 법원이 중형을 선고했다.&lt;br&gt;&lt;br&gt;전주지법 군산지원 제1형사부(부장판사 백상빈)는 살인 혐의로 기소된 A(62)씨에게 징역 12년을 선고했다고 16일 밝혔다. 재판부는 “살인은 가장 존엄한 가치인 사람의 생명을 빼앗는 범죄로 어떠한 이유로도 정당화할 수 없다”며 “범행 수법, 경위, 동기 등에 비춰 죄질 역시 불량하다”고 했다. 다만 “피고인과 합의한 피해자 유족이 처벌을 바라지 않는 점을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 9일 오전 11시 5분쯤 전북 군산시 옥서면 한 도로에서 승합차로 50대 지인 B씨를 들이받아 숨지게 한 혐의를 받는다. 이 사건은 수사 초반만 해도 운전자 부주의로 인한 단순 교통 사망사고로 알려져 있었다. 사고 장소에 B씨의 시신과 승합차만 남아 있었기 때문이다.&lt;br&gt;&lt;br&gt;당시 경찰은 B씨가 홀로 승합차를 몰다가 보호난간과 전신주를 차례로 들이받고 그 충격으로 인해 수풀까지 튕겨 나가 숨진 것으로 판단했다. 그러나 현장을 비추던 CCTV 속 진실로 A씨의 범행을 밝힐 수 있었다. 영상에는 승합차를 몰던 B씨가 다급히 차에서 내리자, 조수석에 있던 A씨가 운전석으로 옮겨탄 뒤 가속 페달을 밟는 모습이 담겼던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 이를 토대로 교통사고를 살인사건 수사로 전환하고 범행 9시간여 만에 군산의 한 도로에서 A씨를 체포했다. A씨는 “B씨와 동업하려고 했는데 갑자기 사업에서 나를 배제했다”며 “차 안에서 B씨와 다투다가 둔기를 휘둘렀는데, 그가 밖으로 몸을 피하길래 홧김에 차로 들이받았다”고 범행을 인정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가을 즐길 여유가 없네... 내일 또 비, 일요일 최저 5도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/16/YJNBYF7YONCH5JPIAHZDUGR43Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/16/YJNBYF7YONCH5JPIAHZDUGR43Y/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 12:19:39 +0000</pubDate>
+      <content:encoded>17일 밤부터 서해상으로 비구름대가 들어오며 다시 가을비가 예고됐다. 주말부터는 북쪽에서 찬 바람이 내려오며 중부 내륙을 중심으로 기온이 최저 5도까지 곤두박질칠 것으로 예상된다. 강원 산지엔 ‘첫눈’도 예고됐다.&lt;br&gt;&lt;br&gt;16일 기상청에 따르면, 우리나라 북서쪽과 남동쪽에 각각 고기압이 자리하고 그 사이로 비구름대를 동반한 기압골이 통과하면서 지난 15일 밤부터 16일 새벽 사이 많은 가을비가 쏟아졌다. 두 고기압 사이로 뜨겁고 축축한 남서풍이 강하게 불어 많은 수증기를 공급했기 때문이다. &lt;br&gt;&lt;br&gt;이례적인 10월 집중호우로 ‘가을장마’도 절정에 달했다. 이 비구름대는 17일 오전 강원 영동에 비를 뿌린 후 우리나라를 빠져나가지만, 이날 밤부터 서해안에서 새로운 저기압의 발달로 다시 비가 내릴 전망이다. 17~18일 예상 강수량은 10~40㎜다. &lt;br&gt;&lt;br&gt;호남권 곳곳에선 10월 1시간 최다 강수량 기록이 경신됐다. 이날 새벽 1시간 동안 34.5㎜가 쏟아진 전북 고창을 비롯해 영광(31.4㎜), 전주(31㎜), 정읍(28.8㎜) 등에서 역대 가장 강한 10월 비를 맞았다. 제주 제주시 구좌읍, 서귀포시 성산읍도 각각 44.5㎜, 42.5㎜로 한여름 수준 강한 비가 내렸다. ‘강한 비’의 기준은 시간당 15㎜ 이상, ‘매우 강한 비’는 시간당 30㎜ 이상이다. 2022년부터 시간당 100㎜ 이상의 극한 기상이 나타나기 전에는 시간당 30㎜ 이상부터 집중호우라는 표현을 썼는데, 통상 여름철에 보던 강한 비가 가을 중순에 내린 셈이다. &lt;br&gt;&lt;br&gt;주말인 19일부턴 북쪽에서 찬 공기가 남하하며 계절이 갑자기 가을에서 겨울로 바뀐 듯 아침 기온이 크게 떨어지겠다. 강하고 차가운 바람에 의해 체감온도가 급격히 떨어질 것으로 보인다. 19~20일 기온은 최저 5~18도, 최고 15~23도 분포를 보이겠다. 20~21일엔 강원도에 예고된 비가 눈으로 바뀔 가능성이 있다. 이 경우 올해 첫눈이 된다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“캄보디아 가서 연락 끊겼다”…여수서 실종 의심 신고 30대, 가족에 “안전해”</title>
+      <link>https://www.chosun.com/national/regional/2025/10/16/DEAB64TBQVCI3KEW26TZTQ3RUQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/16/DEAB64TBQVCI3KEW26TZTQ3RUQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 10:39:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JMFUVRHSRZMJXWUQRKUWOE2HYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남경찰청 전경. /뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아로 떠난 뒤 연락이 끊겼다는 30대 남성의 행적이 확인됐다.&lt;br&gt;&lt;br&gt;16일 전남경찰청에 따르면 작년 12월 태국으로 출국한 A(38) 씨는 올해 5월 ‘아는 형을 만나 캄보디아에 일하러 간다’고 가족에게 알렸다. 이후 A씨와 1달여간 연락이 끊겼다. 걱정된 A씨의 가족들은 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 최근 캄보디아에 있는 A씨의 지인을 통해 A씨의 텔레그램 아이디를 확인해 A씨와 연락이 닿았다.&lt;br&gt;&lt;br&gt;가족이 걱정하고 있다는 경찰의 메시지에 A씨는 가족에게 영상통화를 걸어 안전상 문제가 없다고 알려온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;다만 A씨는 캄보디아에서 무엇을 하며 지내고 있는지는 밝히지 않은 채 조만간 귀국하겠다는 계획이라고 밝혔다고 가족은 전했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 직접 한국 대사관을 방문해 신변 안전이 확인되면 수사를 종결한다는 계획이다.&lt;br&gt;&lt;br&gt;전남경찰청은 A씨 사례를 포함해 모두 3건의 캄보디아 실종 의심 신고를 받아 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“터무니 없는 고수익, 사기입니다”… 대구권 대학들, 해외취업 사기 안전 관리 비상 </title>
       <link>https://www.chosun.com/national/regional/2025/10/16/UP6TP5QEIVHQRMB3BS7ONT6Z2Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/16/UP6TP5QEIVHQRMB3BS7ONT6Z2Y/</guid>
@@ -777,24 +858,6 @@
 지난 1일 오전 충북 청주시 청주랜드동물원에서 만난 김정호 진료사육팀장과 암사자 ‘구름’. 구름은 ‘갈비 사자’라고 불리던 수사자 ‘바람’의 딸이다. 갈비 사자는 밥을 먹지 못해 갈비뼈가 드러날 정도로 말라 붙은 별명이다. 청주랜드동물원이 구조해 건강을 되찾았다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주시 상당구 명암로 산자락엔 ‘불친절한 동물원’이 있다. 12만6900㎡(약 3만8387평) 규모의 대형 동물원인데 먹이 주기 체험도, 동물 쇼도 없다. 관람객보다는 동물의 안정을 우선시하기 때문이다. 유리창에 부딪히고 전깃줄에 걸려 다시는 날지 못하는 독수리와 참매, 노령이거나 장애로 거동이 어려운 호랑이·사자·말, 웅담 채취용으로 사육되던 반달가슴곰 등 300여 마리가 ‘청주랜드동물원’(청주동물원)의 자연과 가까운 환경 속에서 회복하고 있다.&lt;br&gt;&lt;br&gt;지난 1일 이 동물원을 찾았다. 방사장엔 수풀과 바위만 보이고, 동물은 좀처럼 눈에 띄지 않았다. 청주동물원의 김정호(51) 진료사육팀장은 “여기선 관람객들이 유리창 바로 맞은편에서 원할 때 동물을 보기는 어렵다”며 “동물이 나오고 싶어야 나오고, 그제야 볼 수 있다”고 했다. 동물원 한쪽에는 국내 최초의 ‘동물 추모관’도 있다. 아이들이 크레파스로 쓴 “하늘나라에서도 자유롭게 뛰놀아”라는 문장과 손편지가 벽에 붙어 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCRN27734BFJJOI5HQBSG5WUW4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;청주동물원 한켠에는 국내 최초로 조성된 ‘동물 추모관’이 있다. 안내문엔 “우리는 동물들에게 늘 빚진 마음을 갖고 있습니다”라는 문구가 새겨져 있다. 추모관에는 동물원에서 생을 마감한 동물들의 이름과 아이들이 남긴 그림, 손편지가 붙어 있다. 김정호 팀장은 “이곳은 떠난 동물들에게 미안함을 전하고, 살아 있는 동물에게 다시는 같은 일을 반복하지 않겠다는 다짐의 공간”이라고 했다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 팀장은 야생동물 구조·치료 전문 수의사다. 그는 20년 넘게 이 동물원에서 야생동물을 돌보고 연구해 동료들에게 ‘수의사계의 이국종’이라고 불린다. 청주동물원은 2014년 환경부 서식지 외 보전 기관으로 지정됐고, 지난해엔 국내 첫 거점 동물원으로 선정됐다. 충청·강원권 구조 동물의 진료와 멸종 위기종 보전을 맡고 있다.&lt;br&gt;&lt;br&gt;이곳에는 ‘갈비 사자’라고 불리던 수사자 바람(21)이 산다. 갈비 사자는 밥을 먹지 못해 갈비뼈가 드러날 정도로 말라붙은 별명이었다. 바람은 2004년 서울어린이대공원에서 태어나 2016년 경남 김해의 부경동물원으로 옮겨졌다. 새 보금자리는 82㎡(약 25평)의 콘크리트 우리였다. 초원을 달리며 무리지어 살아야 하는 사자에게 그곳은 ‘감옥’이었다. 바람은 흙을 밟아본 적도, 나무 그늘에 누워본 적도 없었다. 그렇게 7년을 보내는 사이 바람은 점점 야위었고 갈비뼈가 앙상하게 드러났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFYJXBSCJNFPFJX3TMON6DJAUU.png"&gt;&lt;figcaption&gt;&lt;small&gt;수사자 '바람이'이가 경남 김해시 부경동물원에서 지낼 당시 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 이 사연이 알려지자 청주동물원이 구조에 나섰다. 바람은 처음 청주에 도착했을 때는 낯선 흙 냄새와 바람·햇빛에 움츠러들었다. 사육장 구석에 몸을 웅크린 채 하루 종일 움직이지도 않았다. 2년이 지난 지금 바람은 완전히 달라졌다. 1000㎡(약 300평) 규모의 대형 방사장에서 햇살을 쬐거나 나무 그늘 아래 누워 졸고, 때로는 암사자 도도(14)와 함께 천천히 언덕을 거닌다. 사람 나이로 치면 백 살이 넘는 사자지만 청주동물원에서 건강을 회복해 여유를 되찾았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7UIC3NYVIFFXNEGHXQA2G5YH5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 10월 오전 충북 청주시 청주동물원 사육장 안에서 '갈비사자'로 불린 수사자 '바람'(왼쪽)과 암사자 '도도'(오른쪽)가 햇볕을 쬐고 있다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이곳에는 2m×2m 철창 안에서 웅담 채취용 ‘생체 기계’로 살던 반달가슴곰 반이·달이·들이(9·수컷)도 있다. 처음에는 나무를 오르지 못했지만, 사육사들이 며칠 동안 먹이를 나무 위에 올려주자 2주 만에 발톱을 걸고 타기 시작했다. 가을이 되자 낙엽을 모아 해먹 위에 보금자리를 만들기도 했다. 보행 장애가 있는 미니 말 ‘사라’, 부리 기형으로 스스로 먹이를 사냥해 야생 생존이 불가능한 독수리 ‘하나’도 청주에서 새 삶을 이어가고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMKK72IZSZCXTN3BMQJGF5YYOA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 웅담 채취 농장에서 구조된 반달가슴곰. 죽어서만 나올 수 있던 철창을 살아서 벗어난 국내 첫 곰들로, 지금은 나무를 타고 해먹을 엮으며 잃었던 본능을 되찾고 있다./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애를 지닌 동물만큼 관람객도 다양하다. 어느 날 한 장애인 관람객은 김정호 수의사에게 전화를 걸어 “예쁘지 않고, 늙고, 아프고, 장애가 있어도 살아가는 동물을 보여줘서 고맙습니다”라고 했다. &lt;br&gt;&lt;br&gt;김 팀장은 자기를 ‘동물원 반대론자’라고 소개했다. 그는 “관람객 위주의 동물원이 사라지길 바란다”며 “대신 위험에서 구출된 동물을 잘 보호해 야생으로 다시 돌려보내는 동물원이 더 늘어났으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZA27N4SN2NAOBAO6W2UPMGBBUU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;방문객들이 추모관에 남긴 편지./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QCGBUK5HR5G6HDEGVGIPGXVYQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;청주동물원 추모관./구아모 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [재밌다, 이 책] 논리적 사고보다 직관을 믿는 이유… 우리 뇌는 ‘생각의 지름길’ 택한대요</title>
-      <link>https://www.chosun.com/national/nie/2025/10/16/XF45JUS6A5HPHBQP6BSBU7RD6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/16/XF45JUS6A5HPHBQP6BSBU7RD6Q/</guid>
-      <dc:creator>이진혁 출판 평론가</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YI4X44MRWZFKFBQ3UBCGQWYBSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;생각에 관한 생각&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;대니얼 카너먼 지음｜이창신 옮김｜김영사｜가격 2만9800원&lt;/b&gt;&lt;br&gt;&lt;br&gt;하버드나 MIT 같은 세계적인 명문대 학생들도 숱하게 속아 넘어간 유명한 퀴즈가 있습니다. “야구 방망이와 야구공의 가격을 합치면 1100원이다. 방망이는 공보다 1000원 더 비싸다. 공의 가격은 100원이다. 이 문장은 참일까, 거짓일까?” &lt;br&gt;&lt;br&gt;많은 분이 ‘참’이라고 생각하겠지만 정답은 ‘거짓’입니다. 공이 100원이면 방망이는 1100원, 합은 1200원이 됩니다. 참이 되려면 공의 가격은 50원이어야 하죠. 이렇게 간단한 문제에 쉽게 속는 것은 결코 수학 실력이 부족해서가 아닙니다. 바로 우리 뇌가 생각의 ‘지름길’을 택하도록 설계되었기 때문입니다.&lt;br&gt;&lt;br&gt;오늘 소개할 책은 우리 생각의 비밀을 파헤치는 책입니다. 저자는 우리 머릿속에 두 가지 생각 방식이 공존한다고 말합니다. 하나는 ‘빠르게 생각하기(fast thinking)’로, 거의 힘들이지 않고 즉시 작동하는 우리의 ‘직관’입니다. ‘1+1’ 같은 간단한 수학적 답을 떠올리거나, 친구의 일그러진 표정을 보고 화가 났음을 알아보는 것처럼 말이죠. 다른 하나는 ‘느리게 생각하기(slow thinking)’로, 긴 글을 요약하거나 여러 상품의 장단점을 비교하는 것처럼 집중과 노력이 필요한 이성적 사고입니다.&lt;br&gt;&lt;br&gt;문제는 우리의 뇌가 에너지를 아끼기 위해 대부분의 판단을 직관적인 ‘빠른 생각’에 맡겨버린다는 데 있습니다. 앞서 푼 방망이와 공 문제처럼, 우리의 뇌는 힘든 길보다 쉬운 길을 선호하기에 직관의 답을 그대로 믿어버리는 실수를 저지릅니다.&lt;br&gt;&lt;br&gt;우리의 직관은 종종 ‘편향’이라는 함정에 빠집니다. 책 속에는 흥미로운 심리 실험이 가득합니다. 예를 들어 ‘수술 성공률이 90%입니다’라는 말과 ‘수술 실패율이 10%입니다’라는 말은 사실 같은 뜻이지만, 우리는 전자에 훨씬 더 안심합니다. 똑같은 내용이라도 어떤 틀에 담아 보여주느냐에 따라 우리의 판단이 달라지는 ‘틀짜기 효과’ 때문입니다.&lt;br&gt;&lt;br&gt;‘기준점 효과’라는 함정도 있습니다. 가게에서 10만원짜리 옷을 7만원에 판다고 하면 우리는 큰 이득을 보는 것 같아 쉽게 지갑을 엽니다. 처음 제시된 10만원이라는 숫자가 꽂히며 7만원이라는 가격을 더 매력적으로 느끼는 것이지요. 또 다른 재미있는 함정은 ‘후광 효과’입니다. 어떤 연예인이 기부를 하면 우리는 그 사람이 다른 모든 면에서도 훌륭할 것이라고 생각합니다. 하나의 선행이 그 사람을 평가하는 데 후광처럼 작용하는 것이지요.&lt;br&gt;&lt;br&gt;우리는 스스로 매우 논리적으로 생각한다고 믿지만, 사실 우리 선택의 대부분은 직관적인 ‘빠른 생각’의 지배를 받고 있습니다. 이 책은 인간이 합리적이고 이성적인 존재라는 수백 년간의 믿음을 완전히 뒤집었습니다. 이러한 인간의 비합리성을 과학적으로 증명한 공로로 저자는 2002년 노벨 경제학상을 받았답니다.&lt;br&gt;&lt;br&gt;이 책은 우리 손에 생각의 ‘일시 정지’ 버튼을 쥐여줍니다. 성급한 직관에 끌려다니는 대신 한번 더 생각할 수 있는 방법을 알게 된 것이니까요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [생활 속 경제] 수도권 신도시에 짓는 대단지 아파트… 집값 상승세 잡을 수 있을까?</title>
-      <link>https://www.chosun.com/national/nie/2025/10/16/SWRMJFPRIRC5ZAUJDB7ORQRNRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/16/SWRMJFPRIRC5ZAUJDB7ORQRNRI/</guid>
-      <dc:creator>연유진 '꼬리에 꼬리를 무는 경제이야기' 저자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNXY534QJFF6HGPUH2CA3HPGFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;Q. 요즘 수도권 집값이 엄청나게 올랐어요. 정부에서 부동산 시장을 안정시키기 위해 3기 신도시 착공을 서두른다는 뉴스를 봤는데요. 신도시가 부동산 시장에 어떤 영향을 미치나요?&lt;/b&gt;&lt;br&gt;&lt;br&gt;집은 안정적인 삶을 꾸리기 위해 꼭 필요해요. 당장 살 집이 없거나 더 좋은 집으로 이사하고 싶은데 집값이 들썩거리면, 누구나 불안함을 느끼죠. 이런 이유로 역대 정부는 부동산 시장을 안정시키는 데 많은 힘을 쏟았어요.&lt;br&gt;&lt;br&gt;집값은 다른 재화와 마찬가지로 수요와 공급의 힘겨루기로 인해 움직입니다. 부동산 시장에서 집을 사려는 수요에 비해 살 수 있는 집이 부족하면 가격이 오르죠. 그래서 보통 정부는 집을 소유하고 있는 사람들에게 세금을 더 내게 하거나, 대출 한도를 낮추는 식으로 단기적으로 수요를 조절해요. 그리고 장기적으론 신규 주택 공급을 늘리는 방향으로 정책을 설계합니다.&lt;br&gt;&lt;br&gt;그런데 서울처럼 오래된 도시에서는 새집을 공급하는 게 무척 어려워요. 우선 주택을 지을 만한 빈 땅이 부족해요. 낡은 주택을 허문 뒤 새집을 짓는 정비 사업을 진행하는 일도 쉽지 않습니다. 재개발·재건축 같은 정비 사업을 진행하려면 땅에 얽힌 복잡한 이해관계를 풀어야 하고, 또 사업을 했을 때 손해를 보지 않도록 해야 하거든요. 그래서 정부와 지방자치단체에서도 정비 사업을 무척 신중하게 검토합니다. 게다가 낡은 주택을 부수고 새집을 짓는 동안에는 오히려 주택 수가 줄어들기 때문에, 집값과 전셋값을 자극할 가능성이 있지요.&lt;br&gt;&lt;br&gt;이런 사정으로 역대 정부는 신도시를 개발하는 방안을 추진해왔어요. 대도시 인근에 대규모 토지를 확보해 신도시를 만들면 한 번에 수만 호씩 새집을 지을 수 있죠. 실제 1990년대 수도권에 건설한 분당·일산·평촌 등 1기 신도시는 부동산 시장 안정에 큰 역할을 했어요. 약 30만 호에 이르는 대규모 주택이 공급되자 끝 모르고 오르던 서울 집값이 주춤했거든요.&lt;br&gt;&lt;br&gt;다만 최근엔 수도권 집값 상승세가 신도시 건설로만은 잡기 어렵다는 회의론이 커요. 지난달 정부가 1기 신도시를 정비하고 3기 신도시 착공을 서두르겠다고 발표했지만, 시장에 별다른 영향을 미치지 못했어요. 왜 그런 걸까요?&lt;br&gt;&lt;br&gt;먼저 주택은 다른 재화와 달리 만드는 데 시간이 굉장히 오래 걸립니다. 아무리 신도시라고 해도 착공부터 완공까지 최소 몇 년이 걸리죠. 이런 이유로 신도시는 당장 살 집이 필요한 사람들의 수요를 충족할 수 없기 때문에, 계획만으로 당장 집값이 잡히진 않는 거예요.&lt;br&gt;&lt;br&gt;그리고 사람들은 직장과 가깝고 교통, 문화 시설 등 인프라를 갖춘 지역에 살고 싶어 해요. 갓 지어진 신도시가 이런 인프라를 갖추려면 오랜 시간이 필요하죠. 그래서 신도시로 인해 전체 주택 수가 늘어나더라도, 한강 인근 지역과 같이 선호 지역 집값은 떨어지지 않는 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [뉴스 속의 한국사] 몽골 피해 수도 섬으로 옮겨… 팔만대장경도 이때 만들어</title>
       <link>https://www.chosun.com/national/nie/2025/10/16/YQIQ5Z7TWNHJLDMYE56CDB2Q7A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/16/YQIQ5Z7TWNHJLDMYE56CDB2Q7A/</guid>
@@ -813,51 +876,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QDDEXQLPZCYXIDQD7ORB3ME7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[입에 착착 붙는 일본어] 초심으로 돌아가다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/16/NDRCPU5AWNHBDNK2OFNSHVHD7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/16/NDRCPU5AWNHBDNK2OFNSHVHD7Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TTZUNB3BLRFPLFM43WV33XUVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 돌아서 가다, 우회하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/16/GBRLMWECMVCZXF3YFLRRMWB2RA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/16/GBRLMWECMVCZXF3YFLRRMWB2RA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4YKOWZHWU5EURIXDBZF53CIVOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] kill ~ with kindness</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/16/ZNIFR5QVRRG6VNRJMUWLEZXYXU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/16/ZNIFR5QVRRG6VNRJMUWLEZXYXU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJ7YWSIAVRGNBNJLXYT77QEYRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 냉엄(冷嚴)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/16/F7GNTPWD6FEB3EIOWROXAC3XKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/16/F7GNTPWD6FEB3EIOWROXAC3XKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FTE2VNZ7HFAPXFFSL25ZI3CHZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2723] 제목 외우기</title>
-      <link>https://www.chosun.com/national/nie/2025/10/16/53OMHQ45BVGW5L7EMIZ4KZIKKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/16/53OMHQ45BVGW5L7EMIZ4KZIKKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4QP4JNWEVEGPAZTH6JCKEXTYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이게 2줄 8000원이라니”… 제주, 축제장 김밥 바가지 논란에 사과 </title>
       <link>https://www.chosun.com/national/national_general/2025/10/16/6C2G2BNJF5GVDKAYD3WYDLAQ3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/6C2G2BNJF5GVDKAYD3WYDLAQ3Y/</guid>
@@ -867,15 +885,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P362STEYDMNZ3HDNT6CZYEKNNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주 탐라문화제 4000원짜리 김밥. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도가 제64회 탐라문화제에서 불거진 김밥 바가지 논란에 사과했다. &lt;br&gt;&lt;br&gt;류일순 제주도 문화체육교육국장은 15일 제주도의회 임시회 문화관광체육위원회 행정사무감사에서 “제주도 입장에서 사과드린다”며 “앞으로 축제 등이 있을 때 더 관심을 갖고 모니터링해서 이런 일이 없게 하겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 12일 한 온라인 커뮤니티에선 탐라문화제 ‘부실 김밥’ 논란이 불거졌다. 한 네티즌이 ‘이게 2줄에 8000원이라니’라는 제목으로 탐라문화제에서 구매했다는 김밥 사진을 올렸는데, 속 재료로 단무지 한 줄과 얇은 지단, 당근 몇 조각만이 담긴 모습이었기 때문이다. 이에 온라인에선 “저렇게 팔면 다시 사 먹으러 가겠냐” “저게 말이 되는 거냐” 등의 반응이 나왔다. &lt;br&gt;&lt;br&gt;이에 이번 회의에서 바가지 논란이 언급됐고, 제주도 측이 사과에 나선 것이다. 류 국장 사과에 앞서 회의에 참석한 김대진 더불어민주당 의원은 “문화가 관광이고 관광이 문화인데, 제주도 최고 축제에서 줘도 먹을까 말까 한 김밥을 한 줄당 4000원에 팔았다”며 “비계 삼겹살, 순대 논란 등 계속 바가지요금 얘기가 나온다”고 지적했다. &lt;br&gt;&lt;br&gt;이날 회의에선 탐라문화제 퍼레이드 시간이 지나치게 길고, 진행이 지연되면서 참가자들이 늦은 시간까지 식사도 못하고 기다리는 상황이 발생하는 등 운영 미숙에 대한 지적도 나왔다. 이에 류 국장은 “12월에 평가 보고회를 할 예정”이라며 “오늘 지적된 문제들을 검토해서 내년에는 문제없는 축제로 거듭날 수 있도록 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;한편 제주도는 제주 관광의 부정적 이미지를 개선하기 위해 작년 6월 ‘제주관광 혁신 비상대책위원회’를 출범시켰다. 같은 해 7월 제주관광협회 내에 제주관광 불편 신고 센터를 설치했다. 비대위는 제주도관광협회에 ‘제주 관광 서비스 센터’를 설치해 운영, 바가지요금 등 관광객의 불만 사항을 즉각 해결하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“삶의 끝에는 다 나누고 싶다”던 춤꾼… 5명 살리고 떠났다  </title>
-      <link>https://www.chosun.com/national/national_general/2025/10/15/JPHUMU6PCRF4FJ62PHS5F3ZGQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/15/JPHUMU6PCRF4FJ62PHS5F3ZGQ4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 14:00:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T7IFO7EKZRNYZD65YERXGON4PI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기증자 박현덕씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘자연에 순응하는 삶을 살겠다’며 장기 기증 희망 등록을 신청했던 60대 춤꾼 겸 연극인이 뇌사 상태에서 장기를 기증해 5명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;15일 한국장기조직기증원에 따르면, 춤꾼 겸 연극인으로 활동하던 박현덕(60)씨는 부산 동아대병원에서 심장·폐·간·양측 신장과 인체 조직을 기증했다. &lt;br&gt;&lt;br&gt;박씨는 지난 8월 1일 수영 강습을 받던 도중 뇌출혈로 의식을 잃고 쓰러져 병원으로 이송돼 응급 수술을 받았지만, 끝내 의식을 회복하지 못해 뇌사 판정을 받았다. 앞서 박씨는 2002년 기증원을 통해 장기 기증 희망 등록을 신청했고, 유족들은 그의 희망대로 기증에 동의했다. 심장, 폐장, 간장, 신장(양측)을 기증해 5명의 생명을 살렸으며, 인체 조직도 함께 기증했다.&lt;br&gt;&lt;br&gt;유족들은 그가 긍정적이고 밝은 성격으로 하고 싶은 일을 열정적으로 하면서도 함께하는 이를 배려하는 따뜻한 사람이었다고 추억했다. 그는 평소 가족들에게 “삶의 끝에는 자신이 가진 재산과 몸을 어려운 사람에게 나누고 떠나고 싶다”고 이야기했다고 한다. &lt;br&gt;&lt;br&gt;경남 남해군 상주면에서 2남 2녀 중 막내로 태어나 어릴 때부터 부산에서 자란 박씨는 동아대에서 풍물패로 활동했다. 대학 졸업 후에는 극단 ‘자갈치’에서 연기와 탈춤, 마당놀이를 했다. 극단을 나온 뒤엔 객원 배우와 예술 강사로 활동하며 마당극과 풍물패 등 다양한 공연에 참여했다. 최근엔 탈춤 등 민속 예술 계승 및 확산에 힘쓰고, 장애인과 비장애인이 함께하는 연극에 배우와 스태프로 참여했다. &lt;br&gt;&lt;br&gt;10년 넘게 헌혈을 40번 이상 꾸준히 해왔고, 쉬는 날이면 농사를 지어 어려운 이웃에게 먹을 것을 나눠 주기도 했다고 유족은 말했다. &lt;br&gt;&lt;br&gt;고인의 아내 김혜라씨는 “공연할 때 살아 있음을 느끼는 사람이었는데, 이제는 5명에게 새 생명을 주고 100여 명에게 희망을 나눴다”며 “자연에 순응하며 살고 싶다던 바람대로 떠나게 됐다. 사랑하고 고맙다”고 마지막 인사를 건넸다. &lt;br&gt;&lt;br&gt;이삼열 한국장기조직기증원 원장은 “삶의 끝에서 다른 생명을 살리기 위해 모든 걸 내주신 기증자 박현덕씨와 유가족분들의 따뜻한 사랑에 감사드린다”며 “기증자와 유가족의 사랑이 다른 생명을 살리는 희망으로 잘 전달될 수 있도록 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>與 의원들, 마무리 발언하러 온 조희대 대법원장 30분 세워놓고 추궁에 또 추궁 </title>
       <link>https://www.chosun.com/national/court_law/2025/10/15/4AL3R6335RGV3OD6KLA5GW5A24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/4AL3R6335RGV3OD6KLA5GW5A24/</guid>
@@ -883,15 +892,6 @@
       <description/>
       <pubDate>Wed, 15 Oct 2025 11:38:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FEBZ67GSRJDENPU6444DHUUJYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;15일 대법원에서 열린 국회 법제사법위원회 국정감사에 조희대 대법원장이 출석해 마무리 발언을 하고 있다. /국회방송 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장이 15일 열린 대법원 2차 국정감사에 마무리 발언을 하기 위해 나왔지만, 국회 법제사법위원회 소속 더불어민주당 의원들은 조 대법원장을 향한 추궁을 이어갔다. 조 대법원장은 마무리 발언을 포함해 약 30분간 자리에 서서 민주당 의원들의 발언을 들었다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 오후 8시 30분쯤 마무리 발언을 하기 위해 국정감사장에 모습을 드러냈다. 조 대법원장은 “오늘도 위원님들의 말씀을 진지하고 무겁게 경청했다”며 “오늘 국정감사 과정에서 해소되지 않은 부분 중 답변이 가능한 부분들은 추후 파악해 법원행정처장을 통해 답변드리겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;박지원 민주당 의원은 “대법원장이 하신 말씀이 오늘 질의와 지난 월요일(13일) 질의를 종합해 답변한 것이냐”고 따져 물었다. 이에 조 대법원장은 “미진한 부분을 살펴 법원행정처장을 통해 답변하겠다”고 했다.&lt;br&gt;&lt;br&gt;그러자 박 의원은 “지금 한 번 해보라”고 요구했다. 조 대법원장이 “재판 관련 사항이라 말씀드리기가 어렵다”고 하자, 박 의원은 “왜 대법원장이 우사인볼트보다 빨리 재판하고, 전원합의체가 기록을 보도록 허락했느냐”고 되물었다. 조 대법원장은 이에 답하지 않았다.&lt;br&gt;&lt;br&gt;이어 김용민 민주당 의원은 조 대법원장을 향해 “국감을 제대로 할 수 있도록 소속 공무원들에게 분명한 입장을 보이고, 국감에 적극 협조하며 관련 법령을 제대로 증언하도록 지휘해달라”고 했다. 조 대법원장은 “국감 협조는 당연한 일”이라고 답했다.&lt;br&gt;&lt;br&gt;서영교 민주당 의원은 “내란이 있던 그날 조 대법원장은 비상계엄이 합법이라면 그다음 해야 될 조치가 필요하다며 법원을 소집했다”며 “이와 관련해 답변하고 책임도 져야 한다”고 했다. 같은 당 김기표 의원은 “국감 준비가 너무 안 돼 있다”며 “구체적인 사실관계를 알아보고 한 번 더 국감을 해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘항공료 부풀리기 의혹’ 부천시청 공무원 등 6명, 검찰 송치</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/15/ASBE6RB7CNCEDBSEPQTJDWBAGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/15/ASBE6RB7CNCEDBSEPQTJDWBAGQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 13:21:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MCTMXNK3FBFXXIURTLHPRVMQZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 부천원미경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방의회 의원들의 국외 출장 항공료가 부풀려 책정됐다는 의혹과 관련해 경기 부천시청 공무원 등이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 부천원미경찰서는 업무상 배임 혐의로 부천시청 공무원 A씨와 여행사 관계자 등 6명을 최근 불구속 송치했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이들은 시의원들의 국외 출장 항공료를 부풀리는 방식으로 출장비를 빼돌린 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “혐의 사실과 관련해 구체적인 내용에 대해서는 확인해줄 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 국민권익위원회는 2022년 1월부터 지난해 5월까지 3년간 전국의 지방의회가 주관한 지방의원 국외 출장 915건을 점검한 결과 항공권을 위·변조해 실제 경비보다 부풀린 사례가 405건(44.2%)에 달했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전기차 충전소서 텐트 치고 캠핑… “항의하자 되레 큰 소리” </title>
