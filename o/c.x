@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>폐광 후 소멸 위기 처한 태백 유흥가, 중국 여성이 장악했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/17/BBKOSRR24ZDHTFVD3V3SJHCQFI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/17/BBKOSRR24ZDHTFVD3V3SJHCQFI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 22:15:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NGRHCGZ7WJAWRLNCDPKALGL6GQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;폐광 이후 인구가 급격히 줄어든 강원 태백의 유흥가에 중국인 여성들이 몰려들고 있다. 불법 체류와 성매매 등 여러 문제가 복합적으로 나타나며 지역사회를 위협하고 있다는 우려가 나온다. &lt;br&gt;&lt;br&gt;16일 뉴시스에 따르면 태백 시내 중심권에 있는 룸살롱, 단란주점, 노래주점 등 상당수 유흥업소에 출근하는 도우미들은 대부분 중국인 여성들로 파악됐다. 일부 업소는 중국인 업주가 직접 인수했고, 종사자 수는 최소 수백 명이 넘는 것으로 추정된다. 주민들 사이에서 사실상 중국인 여성들이 장악했다는 이야기가 나오는 이유다. &lt;br&gt;&lt;br&gt;지난해 장성광업소에 이어 올해 도계광업소마저 문을 닫으면서 외국인 여성 유입 속도가 더욱 빨라졌다고 한다. 외국인 여성들은 주로 관광비자(C-3)나 단기 취업 비자(C-4)로 입국한 뒤 체류 기간을 초과한 뒤에도 업소를 옮겨 다니며 불법 취업을 이어가는 것으로 알려졌다. 조선족의 경우에는 방문취업 비자(H-2)나 재외동포 비자(H-4)를 이용하기도 한다. &lt;br&gt;&lt;br&gt;중국 길림성 출신의 40대 여성은 “태백이 돈이 된다는 말을 듣고 왔다”며 “현재 다방에서 도우미로 일하면서 시간당 4만원, 두 시간에 7만원을 받는다”고 했다. 산둥성 출신의 30대 여성은 “결혼비자로 6개월 전 입국했으나 태백으로 와 3개월째 다방과 단란주점 도우미로 일하고 있다”고 했다. &lt;br&gt;&lt;br&gt;문제는 행정‧치안당국조차 사실상 불법체류와 성매개질환 및 감염병 관리가 불가능하다는 점이다. 태백시 측은 “행정적으로 유흥업소 외국인 여성의 체류자격 검증이나 건강검진 관리는 어렵다”며 경찰 및 출입국관리사무소와 합동 점검만 가능하다는 입장이다. 태백경찰서는 “대부분 등록조차 안 된 불법체류자들이 많아 실태파악이 어렵다”며 보건‧행정지도를 시의 몫으로 돌렸다. &lt;br&gt;&lt;br&gt;태백시민행동 관계자는 “태백 유흥가의 외국인 여성 종사자 증가는 도시의 공공질서를 뒤흔들 수 있는 구조적 위기”라며 “행정의 손길이 모호한 제도 때문에 방치되면서 도시는 점점 위험한 방향으로 기울고 있다”고 했다. &lt;br&gt;&lt;br&gt;태백만의 문제가 아니라는 지적도 있다. 지난 6월 강원 철원군에서는 노인층을 상대로 한 외국인 여성 불법 성매매 의혹이 불거졌다. 경찰은 단기 비자를 이용해 지방 유흥업소로 흩어지는 외국인 여성들의 ‘이동형 영업 구조’가 이미 형성된 것으로 보고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법원장 후보 vs 전직 감사원장… 최태원·노소영 변호인단도 거물급 </title>
       <link>https://www.chosun.com/national/court_law/2025/10/17/KAGYJKYHGFHQ5GZOFHZCWGZMBA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/KAGYJKYHGFHQ5GZOFHZCWGZMBA/</guid>
@@ -941,15 +950,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/QU4V4YK6XJNE3COAA6I42ZY5BE.jpg?auth=da7be6379c102cf0e43dfdb15fa9247767cddbb9564a9557ca5f95456228b405&amp;smart=true&amp;width=3780&amp;height=2531" type="image/jpeg" height="2531" width="3780">
         <media:description type="plain">[서울=뉴시스] 국회사진기자단 = 추미애 국회 법제사법위원회 위원장을 비롯한 더불어민주당 의원들이 15일 오전 서울 서초구 대법원에서 열린 대법원 법원행정처에 대한 국정감사에서 이재명 대통령의 공직선거법위반 사건 파기환송 과정 현장 검증을 하기 위해 이동하고 있다. 2025.10.15. photo@newsis.com</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>성인 16%, 용변 후 손 안씻어… 男이 女의 2배</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/16/2QSGYFFWKZEQPIS7AGMIIIMZXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/16/2QSGYFFWKZEQPIS7AGMIIIMZXA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTYWE7ZHQ2PQCAOSM4OPTZ6FOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 손을 씻기 위해 물을 틀고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성인 16%는 화장실을 다녀온 후 손을 안 씻는 것으로 나타났다. 손을 안 씻는 사람은 남성이 여성의 두 배였다. &lt;br&gt;&lt;br&gt;질병관리청은 15일 ‘세계 손 씻기의 날’을 맞아 이런 조사 결과를 발표했다. 이번 조사는 질병청과 국립중앙의료원이 지난 6월 10일부터 한 달간 공중화장실을 이용하는 19세 이상 성인 4893명을 관찰 조사한 결과다.&lt;br&gt;&lt;br&gt;조사 결과 화장실 이용 후 손을 씻은 사람은 84.1%였다. 2021년 66.3%보다 17.8%포인트 증가한 수치다. 코로나 사태를 겪으면서 손 씻는 습관이 늘어난 것으로 분석된다. 하지만 여전히 15.9%는 손을 아예 안 씻는 것으로 나타났다. 손을 안 씻은 남성은 21.4%로 여성(10.6%)의 두 배 수준이었다. &lt;br&gt;&lt;br&gt;비누를 이용해 손을 씻은 사람(화장실 이용자의 45%)이 그냥 물로 씻은 사람(39.1%)보다 많았다. 비누를 이용한 사람은 2021년(30.6%)보다 14.4%포인트나 늘었다. &lt;br&gt;&lt;br&gt;‘올바른 손 씻기’를 실천하는 사람도 2021년 4.7%에서 올해 10.3%로 높아졌다. 올바른 손 씻기란 흐르는 물에 비누로 손의 모든 표면을 문질러 30초 이상 씻는 것을 뜻한다. 질병청 측은 “손 씻기 실천율은 매년 점진적으로 상승하는 추세이지만 ‘올바른 손 씻기’ 실천율은 여전히 낮다”면서 “동절기 호흡기 감염병 유행 등에 대비해 손 씻기를 포함해 예방 수칙을 준수해달라”고 당부했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>부산 글로컬大 선정된 5곳, 본격적 협력에 맞손  </title>
