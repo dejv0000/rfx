@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수용자 24시간 감시한 교도소… 인권위 “인권 침해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/PPZYTOQYEVFCHLHPT46FGDVLY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/PPZYTOQYEVFCHLHPT46FGDVLY4/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 04:23:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWSDOK6B3QNPJO2LTSOLJFTNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교도소 수용자를 합리적 이유 없이 장시간 감시하는 것은 인권 침해라는 국가인권위원회(인권위)의 판단이 나왔다. &lt;br&gt;&lt;br&gt;지난해 10월 교도소에 수용된 진정인 A씨는 교도소 측이 자해 등 위험성에 대한 심의 없이 과하게 감시해 사생활의 비밀과 자유를 침해했다며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;교도소 측은 A씨가 금지물품인 스테이플러 심을 소지해 여러 차례 징벌 처분을 받았고, 조사 당시 급격한 심적 동요를 보였다는 점을 들며 A씨의 행동을 관찰할 필요가 있다고 했다. &lt;br&gt;&lt;br&gt;그러나 인권위 침해구제제2위원회는 교도소가 수용자의 사생활 비밀 및 자유를 제한하지 않도록 감시∙녹화는 최소한으로 실시돼야 한다고 판단했다. &lt;br&gt;&lt;br&gt;또한 A씨의 상담기록을 토대로 그가 심리적으로 안정돼있다고 보고 감시 지속의 타당성 심사가 충분히 이뤄지지 않았다고 지적했다. &lt;br&gt;&lt;br&gt;인권위는 해당 교도소에 개별 수용자의 심리상담 결과 등을 체계적으로 반영하고, 소속 직원 직무교육을 시행할 것을 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘이 와중에…’ 텔레그램 지인 믿고 캄보디아 가려던 30대 남성</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/16/LZHZYB73P5FJJLWXEME3RG6LYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/16/LZHZYB73P5FJJLWXEME3RG6LYQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 04:43:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GXA3WWPK4JPE2PPQAGHPA7EOWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일(현지 시각) 캄보디아 프놈펜 주요 범죄 단지로 알려진 원구 단지. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램을 통해 알게 된 지인의 초청으로 캄보디아에 가려고 한 30대 남성이 공항에서 경찰의 제지로 귀가 조치됐다. 최근 캄보디아에서는 한국인 대상 납치·감금 피해가 크게 늘고 있다. &lt;br&gt;&lt;br&gt;16일 인천국제공항경찰단에 따르면 경찰은 전날 오후 7시쯤 인천공항 제1여객터미널 탑승 게이트 앞에서 캄보디아행 항공기에 탑승하려고 한 30대 남성 A씨에 대해 불심검문을 한 후 출국을 제지했다.&lt;br&gt;&lt;br&gt;인천국제공항경찰단은 최근 캄보디아 납치·감금 피해가 속출하자 전날부터 인천공항 캄보디아행 항공기 탑승 게이트에 경찰관을 배치해 범죄에 연루된 것으로 의심되는 탑승자에 대해 불심검문을 하고 있다. &lt;br&gt;&lt;br&gt;검문 당시 A씨는 ‘본업을 그만두고 쉬고 있었는데 과거 텔레그램을 통해 알게 된 동생이 항공기 탑승권을 보내줬다’는 취지로 캄보디아로 가는 이유를 설명했다.&lt;br&gt;&lt;br&gt;A씨는 항공권을 제공한 지인과 실제로 만난 적도 없었으며, 모든 대화가 텔레그램을 통해 이뤄진 것으로 조사됐다. A씨는 텔레그램 대화 내용을 공개하길 거부했고, 행선지 등도 구체적으로 설명하지 못했다.&lt;br&gt;&lt;br&gt;이에 경찰은 “캄보디아에서 한인 대상 범죄가 크게 늘고 있고 현재 상황은 범죄 연관성이 의심된다”고 설득해 A씨의 출국을 제지했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 추가 조사를 벌여 텔레그램 지인과의 연락 경위 등 실제로 범죄 연관성이 있는지 수사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “A씨가 캄보디아와 관련한 최근의 상황을 알고도 출국하려고 했는지는 알 수 없다”며 “텔레그램으로만 소통하는 지인의 연락을 받고 캄보디아로 간다고 하는 것은 범죄 연관성이 의심돼 제지한 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“치료 끝났다는 전화 받고 울컥”...조혜련이 전한 박미선 근황</title>
+      <link>https://www.chosun.com/national/people/2025/10/16/TJPPYR575ZH2JIDKGMUYLLS7VI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/16/TJPPYR575ZH2JIDKGMUYLLS7VI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 04:33:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LL4NPCA3FFDRDVVJU6GLJKQRM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 조혜련(왼쪽)과 박미선./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 조혜련이 활동을 중단한 동료 개그우먼 박미선의 근황을 전했다.&lt;br&gt;&lt;br&gt;조혜련은 지난 15일 방송된 tvN ‘유 퀴즈 온 더 블럭’에 개그우먼 이경실과 함께 출연했다. &lt;br&gt;&lt;br&gt;이날 조혜련은 박미선에 대해 언급했다. 조혜련은 “지금 미선 언니가 방송을 쉬고 있지 않냐. 어느 날 라디오에서 언니 얘기를 하게 됐다. 그런 의도로 이야기한 건 아니었는데 기사가 너무 나서 미안했다”라고 말했다.&lt;br&gt;&lt;br&gt;박미선은 올해 초 건강상의 이유로 활동을 중단했다. 이후 지난 8월 박미선이 올해 초 유방암 초기 진단을 받았다는 언론 보도가 나오자, 소속사는 당시 “개인 의료 정보로 정확한 확인은 어려우나 건강상의 이유로 휴식기를 갖고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 조혜련은 박미선이 활동을 중단한 이후 MBC FM4U ‘두시의 데이트 안영미입니다’에 출연해 “사람들이 미선 언니의 근황을 궁금해하는데, 하루도 빠짐없이 우리 언니 잘 지내라고 기도한다”며 “바람이 있다면 언니랑 연극 무대에 한 번 서보고 싶다”고 말하며 눈물을 보였다. 곧이어 박미선의 투병 소식이 전해졌다.&lt;br&gt;&lt;br&gt;조혜련은 “어느 날 미선 언니한테 전화가 온 거다. 혼날 것 같아 무서워하면서 전화를 받았다. 그런데 박미선이 ‘혼자야?’라고 묻더니 ‘나 완전 치료 끝났고, 네가 날 위해 기도해준 거 너무 고마워’라고 하더라”라며 울컥했다. 그러면서 “걱정했던 마음과는 너무 달랐다. 그 언니는 정말 대인배였다. 그렇게 좋아졌다는 소식을 제일 먼저 나한테 전해준 게 고마웠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HLX7RBV5FZEFVEVNSTRQV2TW6Q.JPG?auth=d3a4fe27467085bc2e67cb75040d00ac9da766ee80004c3808e3c485b1d4c414&amp;smart=true&amp;width=274&amp;height=205" type="image/jpeg" height="205" width="274">
+        <media:description type="plain">조혜련 박미선/인스타그램 캡처</media:description>
+        <media:credit role="author" scheme="urn:ebu">인스타그램 캡처</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“범죄 연루 우려” 경찰 제지에 캄보디아 가려던 30대 男, 공항서 귀가</title>
+      <link>https://www.chosun.com/national/incident/2025/10/16/TZRWJXDAFBAFTD5OZCNH2ZSLJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/16/TZRWJXDAFBAFTD5OZCNH2ZSLJU/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 16 Oct 2025 04:44:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KE7MBEAR2ZHSPF5UM6CPUCYM2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 인천공항 캄보디아행 항공기 탑승 게이트 앞에서 검문 검색을 하고 있다. /인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국인 대상 범죄가 잇따르고 있는 캄보디아로 가려던 30대 남성이 항공기 탑승 직전 경찰의 권유로 집에 돌아갔다. &lt;br&gt;&lt;br&gt;16일 인천경찰청에 따르면 인천국제공항경찰단은 전날 오후 7시쯤 인천공항 제1여객터미널 탑승 게이트 앞에서 캄보디아행 항공기에 타려던 30대 남성 A씨의 출국을 제지했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 검문에서 “본업을 그만두고 쉬던 중, 과거 텔레그램을 통해 알게 된 동생이 항공기 탑승권을 보내줬다”는 취지로 설명했다. &lt;br&gt;&lt;br&gt;그는 텔레그램 대화 내용 공개를 꺼리고 행선지나 머무를 장소 등도 구체적으로 경찰에 설명하지 못한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 “캄보디아에서 한인 대상 범죄가 많다”며 범죄 연루 가능성을 설명하고, 설득해 A씨의 출국을 막았다. &lt;br&gt;&lt;br&gt;공항경찰단은 전날부터 인천공항 캄보디아행 항공기 탑승 게이트에 경찰관 4명을 배치해 범죄에 연루된 탑승자가 있는지 검문하고 있다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 실제 범죄 연관성이 있는지 수사할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “캄보디아행 탑승 게이트에서 적극적으로 검문 검색을 실시해 범죄를 예방하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 해상서 ‘길이 10m’ 참고래, 그물에 걸렸다</title>
       <link>https://www.chosun.com/national/regional/2025/10/16/EBNXD6PCLBH6LMKT4BEQUWFGII/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/16/EBNXD6PCLBH6LMKT4BEQUWFGII/</guid>
@@ -878,15 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A232IWEDMRDABFSY3S5EIQ57QM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;불법 도박 혐의로 수사받던 중 음주운전까지 적발된 개그맨 이진호(39)씨가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 양평경찰서는 도로교통법 위반(음주운전) 혐의로 불구속 입건된 이씨를 검찰에 송치했다고 15일 밝혔다. 이씨는 지난달 24일 새벽 술을 마신 상태로 인천시에서 주거지인 경기 양평군까지 100㎞가량 차를 몬 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 이씨의 혈중알코올농도는 면허 취소에 해당하는 0.11%로 측정됐다. 이후 이씨는 채혈 측정을 요구했고 국립과학수사연구원이 분석한 혈중알코올농도는 0.12%로 확인됐다. 이씨는 경찰 조사 과정에서 혐의를 인정했다.&lt;br&gt;&lt;br&gt;음주운전과 별개로 현재 이씨는 불법 도박 혐의로 수사받고 있다. 그는 작년 10월 인스타그램에 장문의 글을 써 2020년부터 인터넷 불법 도박 사이트를 이용해 감당하기 힘든 빚을 떠안게 됐다고 털어놨다. 그러면서 “제게 남겨진 채무는 무슨 일이 있어도 변제해 나갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;과거 이씨는 도박 자금을 충당하기 위해 개그맨 이수근, 그룹 방탄소년단(BTS) 멤버 지민, 가수 영탁 등 연예계 동료들에게 10억 원대 돈을 빌린 것으로 드러났다. 이 외에 방송국 임원·PD·작가들과 대부업체에서도 수억 원을 빌려 썼다고 한다.&lt;br&gt;&lt;br&gt;최근엔 이씨의 여자친구가 지난 5일 자택에서 숨진 채 발견된 사실이 알려지며 파장이 일기도 했다. 앞서 한 연예 매체는 이씨의 음주운전 사건을 전하며 신고자가 여자친구 A씨였다고 보도한 바 있고, 이후 A씨는 주변에 심적 부담감을 호소한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“위해∙도주 우려 없는데도 뒷수갑 착용”… 인권위, 경찰 대상 교육 권고</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/15/CQPKGE2SB5A5LFQSTK54JJCNXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/15/CQPKGE2SB5A5LFQSTK54JJCNXM/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 04:47:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PEWSDOK6B3QNPJO2LTSOLJFTNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;위해∙도주 우려가 없는 피의자에게 뒷수갑을 채운 것은 인권침해라는 국가인권위원회(인권위)의 판단이 나왔다. &lt;br&gt;&lt;br&gt;인권위는 지난 8월 22일 서울 소재 한 경찰서에 뒷수갑 사용 기준 관련 전 직원 대상 직무교육을 실시할 것을 권고했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 술자리에서 지인과 말다툼하다 출동한 경찰에 신분증을 제시하지 않아 뒷수갑을 채운 채 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;A씨는 경찰관에게 위해를 가하거나 도주·자해를 시도한 적이 없음에도 뒷수갑이 채워진 것은 부당하다며 인권위에 진정을 제기했다. &lt;br&gt;&lt;br&gt;이에 경찰 측은 체포 당시 폭행 등 가능성이 있다고 판단해 수갑을 채웠다고 했다. &lt;br&gt;&lt;br&gt;그러나 인권위는 경찰 측이 제출한 영상을 통해 A씨는 의자에 앉아있었고 위협을 가하려는 행동을 보이지 않았다고 판단했다. &lt;br&gt;&lt;br&gt;이어 경찰이 경찰청의 ‘수갑 등 사용 지침’에서 정한 최소한의 물리력 원칙을 넘어 신체의 자유를 과도하게 침해했다며 관련 직무 교육을 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내란 특검, 안성식 전 해경 기획조정관 첫 피의자 조사…내란 부화수행 혐의</title>
       <link>https://www.chosun.com/national/court_law/2025/10/15/WWI6WAN77JB6RP3GDPDBMQJERQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/WWI6WAN77JB6RP3GDPDBMQJERQ/</guid>
@@ -905,24 +936,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQC6X5YF2IFNTOIW5RUF6H3TUU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양평 공흥지구 개발 특혜 의혹으로 김건희 특검 수사를 받다가 숨진 경기 양평군 공무원 측 박경호 변호사가 14일 오전 서울 종로구 김건희 특검 사무실 앞에 마련된 분향소에서 기자회견을 열고 숨진 공무원의 변호인 선임 신고서를 공개하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양평 공흥지구 개발 특혜 의혹과 관련해 김건희 특검의 조사를 받다 숨진 양평군 공무원 A씨의 부검과 유서 공개 등 사후 처리 과정을 두고 논란이 커지고 있다. 검찰 내부에서는 “유족의 감정을 존중하는 수사실무 추세에도 맞지 않고 매우 이례적”이라는 평가가 나온다. A씨의&lt;br&gt;&lt;br&gt;사망 이후 제기된 각종 논란을 관련 규정과 실무관행을 중심으로 살펴본다. &lt;br&gt;&lt;br&gt;앞서 12일 A씨 유족 측은 경찰의 부검 계획에 대해 반대 의사를 전달했다. 그러나 경찰은 다음날 A씨의 시신을 부검했다. A씨가 스스로 목숨을 끊은 것은 맞지만 보다 정확한 사인 확인을 위해 압수수색 영장을 발부받았다는 것이다. 경찰은 “사회적 관심이 큰 사건인 만큼 명확한 사인 규명이 필요하다”며 설명한 후 유족의 동의를 받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;그러나 이는 검찰의 내부 사건처리 지침과도 맞지 않는다. ‘변사에 관한 업무지침’은 살인 추정 변사사건이나 범죄로 인해 사망한 사건, 유족이 사인을 다투는 사건 등을 부검지휘 사건으로 정하고 있다. &lt;br&gt;&lt;br&gt;이 지침은 문재인 정부 시기인 2021년 11월 개정 과정에서 ‘사회의 이목을 끄는 변사사건’ 부분이 삭제됐다. 언론의 주목을 받는다는 이유로 불필요한 부검이 이뤄지면 안된다는 고려에서다. 대신 “담당 검사는 부검 필요성을 판단함에 있어 유족의 의사를 충분히 고려해야 한다”는 규정이 신설됐다.&lt;br&gt;&lt;br&gt;경찰에도 비슷한 취지의 규정이 있다. 경찰청 훈령인 ‘변사사건 처리규칙’에 따르면 부검을 위한 영장 신청을 고려해야 하는 사유로 ‘구금 조사 등 법 집행 과정에서 사망한 경우’가 있기는 하다. 그러나 그 경우에도 유족에게 부검의 필요성을 설명하고, 유족의 의사가 있으면 경청하고 존중하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;한 검찰 관계자는 “불필요한 부검을 줄이고 유족의 의사를 고려하는 개정 취지로 볼 때도 이번 부검은 통상적이지 않다”고 지적했다. &lt;br&gt;&lt;br&gt;경찰은 13일 기자간담회에서 “유서를 확보해 필적 감정을 의뢰할 계획”이라고 밝혔다. &lt;br&gt;&lt;br&gt;필적감정은 자살사건에서 자살교사자나 방조자가 있는지, 유서가 타살을 은폐하기 위해 가짜로 만들어진 게 아닌지 의심스러월 때 행해지는 절차이다. &lt;br&gt;&lt;br&gt;한 검찰 관계자는 “수사 중 자살 사건에서도 필적 감정을 하는 경우는 거의 없다”고 했다. 특히 이 사건과 같이 고인이 이미 메모를 통해 수사가 강압적이었다며 괴로움을 호소한 사건에서 같은 취지로 작성된 유서의 필적 감정이 필요하냐는 지적이 나온다. &lt;br&gt;&lt;br&gt;경찰은 14일 브리핑에서 필적감정 결과가 나오는 대로 유서 원본을 유족에게 돌려줄 계획이라고 밝혔다. 고인이 특검 수사 후 작성한 21장의 유서 원본을 유족이 갖고 있지 않다는 것이다. 통상 유족이 유서를 갖고 있으면서 필요에 따라 언론에 공개하는데 이 사건은 유족이 유서 전문조차 확보하지 못했던 것이다. &lt;br&gt;&lt;br&gt;상당수 검찰 관계자들은 유서 원본을 가져간 경찰의 조치에 의문을 표했다. 통상은 변사사건에서 유서를 증거로서 확보하려면 사진을 찍어 기록에 편철하고 원본은 유족에게 돌려준다는 것이다.&lt;br&gt;&lt;br&gt;물론 경찰이 수사상 필요로 영장을 발부받았거나, 유족에게 필요성을 설명하고 임의제출 받았을 수는 있다. 그러나 자살임이 분명한 사건에서 유서 조작이라든지 자살로 위장한 타살의 가능성이 있는 사건에서나 취할 법한 조치를 하는 것은 매우 이례적이라는 평가다. &lt;br&gt;&lt;br&gt;김건희특검은 15일 A씨 변호인의 열람등사신청을 거부했다고 밝혔다. “공개될 경우 진행중인 수사에 영향을 미칠 우려가 있고 당사자의 사망으로 변호인과의 위임관계가 종료됐다”는 것이다. 전날 특검 관계자가 “위임계약이 유효한 것인가에 대한 검토가 필요하다”고 한 후 하루만에 취해진 조치다. &lt;br&gt;&lt;br&gt;민법 690조는 ‘위임은 당사자 한쪽의 사망이나 파산으로 종료된다’고 돼 있어 A씨 사망으로 위임관계가 종료되는 것은 맞는다. 그러나 특검 수사 중 대상자가 강압수사를 호소하며 사망한 사안에서 강압수사 여부를 확인할 수 있는 조서의 열람등사를 거부하는 게 맞느냐는 지적이 나온다. &lt;br&gt;&lt;br&gt;복수의 검찰 관계자들은 “유족의 억울함과 의구심을 풀어주는 게 우선”이라고 했다. 과거 뇌물을 받은 혐의로 검찰 수사를 받다 사망한 한 경찰관의 사건에서 담당 검사는 유족을 검사실로 오게 해 기록 전체를 보여줬다고 한다. 당시 유족은 강압수사를 주장하며 검찰청사 앞에서 시위를 벌이고 있었는데, 고인이 돈을 받은 계좌 내역을 비롯해 돈 받은 사실을 인정한 피신조서 등도 보여주자 진정하고 돌아갔다는 것이다.&lt;br&gt;&lt;br&gt; 한 검찰 관계자는 “수사 중 사망한 사건에서 위임관계 종료를 거론하며 열람복사조차 거부한 조치는 유족과 고인에게 지나치게 가혹하다”고 했다. &lt;br&gt;&lt;br&gt;김건희특검은 13일 “고인에게 조의를 표하며 수사 방식을 재점검하겠다” 며 “감찰에 준하는 진상 조사를 하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;수사 중인 사건에서 피의자가 사망하면 검찰의 경우 각 지검별로 설치된 인권보호관실에 ‘인권침해 사건 발생보고’가 접수된다. 이후 인권보호관이 수사과정의 문제점을 모두 점검한다. 만일 해당 검찰청에서 소환하기 전 단계이거나 접촉이 없었으면 사건을 종결한다. &lt;br&gt;&lt;br&gt;그러나 이번 사건처럼 생전에 강압수사를 호소하는 문서를 남기거나, 변호인이 심야조사 동의서가 없었다며 문제를 제기하는 경우 감찰로 전환될 수 있다. 감찰 결과 강압수사 정황이나 수사 규정 위반이 확인되면 징계절차가 진행된다. 한 검찰 관계자는 “이번 사건처럼 변호인이 묻지도 않은 질문과 대답이 적혔다며 조서 조작 의혹까지 제기하는 경우 사실로 확인되면 감찰 대신 바로 수사로 전환될 수도 있다”고 했다. &lt;br&gt;&lt;br&gt;검찰의 경우 인권보호관 제도와 함께 법무부와 대검에 별도의 감찰 관련 조직을 두고 있다. 반면 수사를 위한 임시조직인 특검의 경우 인권보호관이나 감찰 조직을 별도로 두고 있지 않다. 한 일선 검사장은 “자칫 특검의 잘못을 특검이 감찰하는 이해충돌적인 상황이 발생할 수 있다”며 “필요하면 국가인권위원회 등도 개입해 최대한 고인에게 억울한 상황이 없도록 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 내란 특검 “법원의 박성재 구속 영장 기각, 납득 어려워” 영장 재청구 시사</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/15/PVTQHZ2DOFBJ5JMKXW2OZOHHWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/PVTQHZ2DOFBJ5JMKXW2OZOHHWM/</guid>
-      <dc:creator>김희래 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 02:17:34 +0000</pubDate>
-      <content:encoded>내란 특검이 청구한 박성재 전 법무부 장관의 구속 영장이 15일 법원에서 기각된 것에 대해 “법원 결정을 존중하지만 받아들일 수 없다”고 했다. 특검은 빠른 시일 안에 법원에 영장을 다시 청구할 방침을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRT6RFZ5WJUIGT55UQ7IP7VJWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 비상 계엄 선포에 가담한 혐의를 받는 박성재 전 법무부장관이 14일 오후 서울 서초구 서울중앙지방법원에서 구속 전 피의자심문(영장실질심사)을 마치고 이동하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 언론 브리핑을 통해 “법원의 결정을 존중돼야 한다고 생각한다. 그러나 박 전 장관에 대한 구속영장 기각은 법무부 장관의 지위나 헌법적 책무, 사안의 중대성 등을 고려할 때 납득이 어렵다”고 했다. &lt;br&gt;&lt;br&gt;이날 새벽 서울중앙지법 박정호 영장전담 판사는 박 전 장관에 대한 구속 영장을 기각하면서 “피의자가 위법성을 인식하게 된 경위나 인식한 위법성의 구체적 내용, 객관적으로 취한 조치의 위법성 존부나 정도에 대해 다툴 여지가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이에 대해 특검은 “법원의 기각 사유는 객관적으로 인정되는 사실과 너무나 동떨어져 있어 받아들일 수 없다”면서 “신속히 법원의 판단을 다시 받는 조치를 위할 예정”이라고 밝혔다. 조만간 박 전 장관에 대한 구속 영장을 법원에 다시 청구하겠다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 尹 전 대통령, ‘외환 혐의’ 내란 특검 조사에서 진술 거부</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/15/KGSHWYV62RDXFJVUZ7W2CWKRLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/15/KGSHWYV62RDXFJVUZ7W2CWKRLY/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 15 Oct 2025 02:26:48 +0000</pubDate>
-      <content:encoded>윤석열 전 대통령이 15일 내란 특검에 자진 출석했지만, 진술을 거부하고 있는 것으로 알려졌다. 12·3 비상계엄 관련 내란·외환 사건을 수사 중인 조은석 특검은 이날 오전부터 윤 전 대통령의 외환 혐의를 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OVAHG3MLUPEPQORZRS6XXZ2S4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 “윤 전 대통령이 진술 거부권을 행사하겠다는 입장”이라며 “인적 사항 부터 일체 진술을 거부하고 있고, 영상 녹화 조사도 거부하고 있다”고 했다. 특검은 윤 전 대통령에게 준비한 질문을 하고 있지만, 윤 전 대통령은 이에 답변하지 않고 있다는 것이다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령이 진술을 거부하더라도 조사와 기소 여부 결정에는 무리가 없다는 입장이다. 특검은 “조사를 하지 않는 것과 조사를 했지만 진술을 거부하는 것은 다르다. 충분히 조사의 실익은 있다”고 했다. 이어 “외환 혐의 관련 기소는 이미 기소된 내란 혐의 사실과 밀접하게 관련돼 있다”면서 “오늘 조사에서 진술을 거부하더라도 여러 반응을 고려해 추가 조사 여부를 결정할 것이며, 사실 관계를 최대한 수집하겠다”이라고 밝혔다.&lt;br&gt;&lt;br&gt;이날 오전 10시 14분쯤 윤 전 대통령의 변호인들이 특검 사무실에 도착하면서 조사가 시작됐다. 약 한시간 조사가 진행된 뒤 윤 전 대통령의 요청으로 오전 11시 14분쯤 휴식에 들어갔고, 휴식이 끝나면 윤 전 대통령이 점심 식사를 하기로 했다고 특검은 전했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[플라자] 니어재단 세미나 개최 외</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/10/15/J4D67MKFTNBLDCSEPSXMYOGJSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/15/J4D67MKFTNBLDCSEPSXMYOGJSU/</guid>
@@ -930,15 +943,6 @@
       <description/>
       <pubDate>Tue, 14 Oct 2025 15:51:00 +0000</pubDate>
       <content:encoded>▲니어재단(이사장 정덕구)은 20일 오전 10시 서울 중구 대한상공회의소 국제회의장에서 ‘복합 전환기, 한국의 자강지계’를 주제로 세미나를 개최한다. 김성한 고려대 교수, 이춘근 한국과학기술기획평가원 초빙전문위원, 여현덕 카이스트 교수 등이 발표하고, 윤병세 전 외교부 장관과 김정관 산업통상자원부 장관이 기조연설을 한다.&lt;br&gt;&lt;br&gt;▲서울시여성가족재단(대표이사 박정숙)은 성동경찰서, 광진경찰서와 함께 초등학생을 대상으로 ‘우리 학교 전담 경찰관이 알려주는 디지털 성범죄 예방 및 대응 교육’을 한다고 14일 밝혔다. 전문 강사가 딥페이크 성범죄 특징을 소개하고 학교 전담 경찰관(SPO)이 구체적인 피해 사례와 신고 절차를 교육한다.&lt;br&gt;&lt;br&gt;▲조달청은 국립세종수목원, 정부조달문화상품협회와 함께 14일부터 26일까지 국립세종수목원 분재문화관에서 정부조달 문화 상품을 소개하는 ‘우리 문화의 숨결’ 특별 전시를 진행한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>질병청장 “코로나19 같은 팬데믹 다시 올 것”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/10/14/CZJHL5MQUVGGDKR3N3H5OEIRPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/14/CZJHL5MQUVGGDKR3N3H5OEIRPE/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 13:02:17 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKGCIQSPDZPDNPCKGSRLWAT4ZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임승관 질병관리청장이 14일 오전 서울 여의도 국회에서 열린 보건복지위원회 국정감사에서 업무 보고를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임승관 질병관리청장이 코로나19 팬데믹 같은 전염병의 세계적 재유행에 대해 “언제든 분명히 올 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;임 청장은 14일 국회 보건복지위원회 국정감사에서 “코로나19 같은 대규모 팬데믹이 또 한 번 올 것 같지 않느냐”는 더불어민주당 장종태 의원의 질문에 이같이 답했다. &lt;br&gt;&lt;br&gt;장 의원이 “넥스트 팬데믹 대비를 더욱더 철저히 해야 한다고 생각하는데 동의하느냐”고 묻자, 임 청장은 “중요한 말씀”이라고 했다.&lt;br&gt;&lt;br&gt;하지만 팬데믹에 대한 대비는 아직 미흡한 것으로 나타났다. 장 의원에 따르면 정부는 2023년 대규모 팬데믹 상황, 일일 확진자 100만명에도 가능한 의료 체계 구축을 위해 ‘신종 감염병 대유행 대비 중장기 계획’을 수립했다. 2027년까지 감염병 전문병원 병상 1041개, 국가지정 입원치료병상 370개, 긴급치료병상 2136개 등 총 3547개의 병상을 확보한다는 계획이다. 하지만 올해 8월까지 확보된 병상은 1210개로 목표치의 34% 수준에 그쳤다.&lt;br&gt;&lt;br&gt;정부는 역학조사에 필요한 전문 인력을 410명까지 확보하겠다고 발표했지만, 현재까지 확보된 인원은 280명에 그쳤다. &lt;br&gt;&lt;br&gt;임 청장은 “병상 자원, 인력, 치료제와 백신 등에 대한 종합적인 계획을 갖고 있다”며 “청장 부임 이후 새롭게 감염병 위기 대비 대응을 위한 추진단도 발족했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>화장실 이름이 왜 이리 많아… 모든 상황에 써도 되는 표현은</title>
