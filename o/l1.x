@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] "김은희 작가 가치 고려하면 고가 아냐"</title>
+			<description>김성수 전 카카오엔터테인먼트(이하 카카오엔터) 대표의 ‘바람픽쳐스 고가 인수’ 사건 1심 무죄 판결은, 검찰의 ‘입증 실패’ 때문으로 분석됐다. 법률신문이 확보한 판결문에 따르면, 서울남부지법 형사합의15부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2130"&gt;양환승&amp;nbsp;&lt;/span&gt;부장판사)는 배임죄의 핵심 요건인 ‘회사에 발생한 손해’를 검찰이 구체적인 근거로 증명해 내지 못했다고 지적했다. 업무 위배 행위가 있었더라도 손해 발생을 단정할 수 없다면 배임죄가 성립하지 않는다는 취지다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;카카오엔터는 2020년 드라마제작사 바람픽쳐스를 400억 원에 인수했다. 바람픽쳐스는 실적이 없었지만 스타 작가로 꼽히는 김은희 작가를 보유하고 있었다. 2024년 8월 검찰은 김 전 대표와 이 전 부문장을 재판에 넘겼다. 검찰은 두 사람이 카카오엔터가 바람픽쳐스를 고가 인수하도록 공모해 회사에 319억 원의 손해를 끼쳤다고 봤다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 김 전 대표와 이 전 부문장이 바람픽쳐스 인수 과정에서 가격 결정의 공정성을 확보하기 위한 절차를 일부 생략하는 등 업무 위배가 있었던 점은 인정하면서도, 카카오엔터에 손해가 발생했다고 보긴 어렵다며 배임 혐의를 무죄로 판단했다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;재판부는 먼저 “바람픽쳐스는 시그널 등의 작품을 성공시킨 김은희 작가와 집필 계약을 체결했고, 제작사 스튜디오드래곤과도 드라마 기획개발계약을 맺어 거액의 대금을 받은 상태였다”며 “카카오엔터가 바람픽쳐스를 유상으로 인수한 행위 그 자체로 손해가 발생했다고 할 순 없다”고 했다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp;&lt;/p&gt;   &lt;p&gt;그러면서 “손해 발생 여부는 단순히 인수 가격과 실제 가치를 비교하는 것만으로 판단될 수 없다”며 “가격엔 거래 당사자들의 지위와 관계, 거래 성사 의지, 협상력, 시장 상황 등이 종합적으로 반영되기에 객관적 교환 가치보다 높거나 낮은 가격에 거래가 이뤄질 수 있다”고 했다.&lt;/p&gt;   &lt;p&gt;      &lt;br /&gt;이어 “카카오엔터는 2018년경부터 영상 콘텐츠 사업을 강화하고자 드라마 제작사를 사들이려 했기에, 김은희 작가를 보유한 바람픽쳐스를 인수할 필요성이 컸다”며 “그런 측면에서 수치로 확인되는 바람픽쳐스의 객관적 가치가 인수 가격에 미치지 못하더라도 이를 손해로 단정하긴 힘들다”고 판시했다.   &lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Fri, 17 Oct 2025 05:55:06 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212222</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212222</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
+			<title>법무법인 세종·영국 슬로터 앤 메이 '글로벌 기업결합 심사' 세미나</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212335.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212335.jpg" alt="2.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1285"&gt;오종한&lt;/span&gt;)이 10월 30일 서울 종로구 청진동 세종 세미나실에서 영국 로펌 ‘슬로터 앤 메이(Slaughter and May)’와 공동으로 ‘2025년 글로벌 기업결합 심사 및 관련 규제 동향’ 세미나를 개최한다.&lt;br /&gt;&lt;br /&gt;슬로터 앤 메이 소속 윌리엄 터틀 변호사가 유럽연합·영국의 기업결합 심사, 외국인 투자 심사, 역외보조금 규정(FSR) 관련 주요 동향을 소개한다. 이어 나탈리 응 변호사는 중국의 기업결합 심사 동향 및 최근 주요 사례를 다룬다.&lt;br /&gt;&lt;br /&gt;최중혁 세종 외국변호사는 “글로벌 규제 환경이 빠르게 변화하면서 다국적 기업의 M&amp;A 및 투자 전략에도 중대한 영향을 미치고 있다”며 “이번 세미나가 기업들이 직면할 수 있는 리스크를 선제적으로 파악하고, 효과적인 글로벌 비즈니스 전략을 수립하는 데 실질적인 도움이 되길 바란다”고 전했다.</description>
+			<pubDate>Fri, 17 Oct 2025 05:40:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212335</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212335</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212335.jpg</media:thumbnail>
+			<dc:creator>신나영 기자</dc:creator>
+		</item>
+		<item>
+			<title>김상환 헌법재판소장 "재판의 독립은 국민이 부여한 헌법재판 권한 행사의 전제"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212331.jpg" alt="345.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;김상환 헌법재판소장이 10월 17일 서울 종로구 헌법재판소에서 열린 헌법재판소 등에 대한 법제사법위원회 국정감사에 참석해 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;헌법재판소장(사법연수원 20기)은 10월 17일 "재판의 독립은 국민이 부여한 헌법재판 권한 행사의 전제"라고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3286"&gt;김상환&amp;nbsp;&lt;/span&gt;소장은 서울 종로구 헌법재판소에서 열린 국회 법제사법위원회의 헌법재판소(사무처)와 헌법재판연구원에 대한 국정감사에 출석해 인사말을 통해 "헌법재판소에 주어진 본질적인 과제인 '믿고 승복하는 헌법재판, 헌법의 뜻을 국민과 공유하는 재판'을 보다 성실하게 실천하겠다고 다짐했다"며 "어떤 선입견 없이 균형 잡힌 시선으로 모든 사건을 바라보고 진지하게 논의해 결론을 내는 데 성심을 다하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;그러면서 "국정감사는 헌법재판소가 헌법과 법률에 의해 부여받은 역할과 소임을 제대로 다 하고 있는지 주권자인 국민의 관점과 시선을 점검하고 확인하는 매우 귀중한 기회로 인식하고 있다"며 "혹여나 심판하는 위치에 익숙해 소홀히 했거나 무심했던 일은 없었는지 뒤돌아볼 계기로 삼아 헌법재판소 발전의 소중한 동력으로 삼도록 노력하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;그는 "최근 헌재는 온 국민이 예민한 관심이 집중된 여러 사건을 판단했는데, 그 과정에서 헌재에 대한 국민의 기대와 요구가 무엇인지 생생하게 느낄 수 있었다"고 전했다.&lt;br /&gt;&lt;br /&gt;이날 헌법재판소 국정감사에서는 4심제 논란을 불러온 재판소원 제도 도입과 국민의힘 위헌 정당 해산 심판 청구 등이 중점적으로 다뤄질 전망이다.</description>
+			<pubDate>Fri, 17 Oct 2025 05:38:17 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212331</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212331</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212331.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 10월 17일</title>
 			<description>&lt;b&gt;◇국정감사&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 법제사법위원회 국정감사(헌법재판소)&lt;br /&gt;&lt;br /&gt;10:00 국방위원회 국정감사(본관 419호)&lt;br /&gt;&lt;br /&gt;10:00 행정안전위원회 국정감사(경찰청)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 국정감사(농촌진흥청)&lt;br /&gt;&lt;br /&gt;10:00 기후에너지환경노동위원회 국정감사(본관 622호)&lt;br /&gt;&lt;br /&gt;10:00 보건복지위원회 국정감사(본관 601호)&lt;br /&gt;&lt;br /&gt;15:00 법제사법위원회 국정감사(본관 406호)&lt;br /&gt;&lt;br /&gt;현지시각 10:00 외교통일위원회 국정감사(주유엔대표부)&lt;br /&gt;&lt;br /&gt;현지시각 10:00 외교통일위원회 국정감사(주네덜란드대사관겸 주헤이그국제기구대표부)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30 박주민 의원실, 제약바이오 글로벌 진출 가속화 전략 토크 콘서트: 제약바이오 비전 2030 실현 제3차 혁신포럼(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 이용우 의원실, 집배원 안전사고 실태와 우편집배관 보건안전 및 복지 증진을 위한 법률 제정 필요성 국회토론회(의원회관 제5간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:40 이미선 대변인, [국회 국정감사를 빌미로 노조 탄압하는 제주신화월드카지노 회사측 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 한준호 의원, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 박주민 의원, [긴급조치 재심 특별법 통과 촉구 기자회견]&lt;br /&gt;&lt;br /&gt;14:40 서영교 의원, [주요 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 16 Oct 2025 22:35:45 -0000</pubDate>
@@ -207,35 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212274</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212274.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '한전 입찰 담합' 효성중공업·LS·HD현대 등 압수수색</title>
-			<description>검찰이 한국전력공사가 발주한 설비 장치 입찰에서 8년간 담합한 혐의를 받는 업체들에 대한 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="15790"&gt;나희석&amp;nbsp;&lt;/span&gt;부장검사)는 15일 오전 효성중공업·LS일렉트릭·HD현대일렉트릭·일진전기 등 전력기기 제조·생산 업체 6곳과 1개 조합 사무실, 사건 관련자들에 대한 압수수색을 진행 중이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;이들 업체는 2015∼2022년 한전이 가스절연개폐장치 구매를 위해 실시한 총 5600억 원 규모의 일반경쟁 및 지역제한 입찰에서 사전에 물량을 배분하기로 합의하고, 이를 차례로 낙찰받은 혐의를 받고 있다.&lt;br /&gt;&lt;br /&gt;검찰은 이러한 담합 행위로 가스절연개폐장치의 낙찰가가 상승하고, 이로 인해 전기요금 인상 등 소비자 피해로 이어졌다고 보고 있다.&lt;br /&gt;&lt;br /&gt;가스절연개폐장치는 발전소나 변전소에 설치돼 과도한 전류를 신속히 차단해 전력 설비를 보호하는 장치다.&lt;br /&gt;&lt;br /&gt;앞서 사건을 조사한 공정거래위원회는 이들 사업자에 시정명령 과징금 총 391억 원을 부과하고, 효성중공업 등 6곳을 검찰에 고발했다.&lt;br /&gt;</description>
-			<pubDate>Wed, 15 Oct 2025 07:07:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212266</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212266</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>내란 특검 "윤 전 대통령, 인적사항부터 진술거부권 행사"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212263.jpg" alt="122.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤석열 전 대통령 《사진=공동취재단》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(사법연수원 23기) 전 대통령이 12·3 비상계엄 관련 내란·외환 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)조사에 진술을 거부하고 있다. &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&lt;/span&gt;(29기) 특검보는 15일 오전 "윤 전 대통령은 조사가 시작된 오전 10시 14분부터 진술 거부 중"이라며 "진술거부권을 행사하겠다는 입장이고, 인적사항부터 일제 진술을 거부하고 있다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;박 특검보는 "영상녹화조사도 거부해서 현재 일반 조사중이고, 11시 14분쯤 휴식을 요구해서 휴식 중"이라며 "휴식 후 점심식사를 바로 하겠다는 말씀도 한 걸로 안다"고 했다. &lt;br /&gt;&lt;br /&gt;내란 특검은 이날 오전 윤 전 대통령에 대한 체포영장 집행을 시도했지만, 윤 전 대통령이 임의 출석 의사를 표명했다. &lt;br /&gt;&lt;br /&gt;박 특검보는 "윤 전 대통령이 진술을 거부해도 질문은 계속 진행되고 있다. 질문을 하고 거부하는 내용이지만, 어떤 질문에 대해서는 반응을 할수도 있고 답변을 할 수 있기 때문에 질문은 계속 이어질 예정"이라고 설명했다. &lt;br /&gt;&lt;br /&gt;이어 "조사를 하지 않는 것과 조사를 했는데 신문을 거부하는 것은 내용이 다르다. (진술을) 거부하더라도 조사 실익은 있다"면서 "저희가 사실관계를 제시해서 방어권을 충분히 보장했는데 진술을 거부하는 것은 사실상 포기하는 것과 동일하다. 양형과도 관련이 있다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "조사 과정에서 나오는 여러 모습을 고려해 추가 조사 여부가 결정될 것 같다"며 "가급적 이달 중 기소를 목표로 하지만 확정적으로 말하기는 곤란하다"고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "한 번 외환에 대한 기소가 이뤄지게 되면 공소장 변경에 대한 어려움이 예상돼 저희가 수집할 수 있는 범위 내에서 최대한 사실관계를 수집을 해 외환 범죄사실이나 공소장 변경에도 활용하고자 한다"고 덧붙였다. &lt;br /&gt;&lt;br /&gt;윤 전 대통령의 변호인단은 "윤 전 대통령은 이미 1·2차 조사 당시 특검의 주요 질문에 대해 충분히 입장을 밝힌 바 있어 이후 모든 질문에 대해 진술을 거부하고 있다"고 말했다.</description>
-			<pubDate>Wed, 15 Oct 2025 04:22:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212263</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212263</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212263.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>순직해병 특검, 오동운 공수처장 등 입건·공수처 압수수색</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212262.jpg" alt="43534.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;오동운 고위공직자범죄수사처장이 6월 17일 정부과천청사 공수처에서 열린 기자간담회에서 발언하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;채 상병 수사 외압 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="115"&gt;이명현&amp;nbsp;&lt;/span&gt;특별검사팀(순직해병 특검)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2045"&gt;오동운&lt;/span&gt;(사법연수원 27기) 고위공직자범죄수사처장 등을 직무유기 혐의로 입건하고 공수처에 대한 압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25396"&gt;정민영&lt;/span&gt;(변호사시험 2회) 특검보는 15일 브리핑에서 "국회 법제사법위원들이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10696"&gt;송창진&amp;nbsp;&lt;/span&gt;전 공수처 부장검사를 위증으로 고발한 사건을 공수처가 접수한 이후 특검에 이첩하기 전까지 사건 처리와 관련해 사건 담당 주임검사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9219"&gt;이재승&lt;/span&gt;(30기) 공수처 차장, 오 처장을 직무유기로 입건했다"고 밝혔다. 주임검사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11811"&gt;박석일&lt;/span&gt;(34기) 전 수사3부장검사다.&lt;br /&gt;&lt;br /&gt;송 전 부장검사는 2024년 7월 국회 법사위에 출석해 이종호 전 블랙펄인베스트 대표가 임성근 전 해병대 1사단장의 구명로비 의혹에 연루된 사실을 몰랐다고 증언했다. 송 전 부장검사는 공수처에 들어가기 전인 2021년 이 전 대표의 변호인이었는데 법사위는 이 때문에 이 전 대표의 의혹을 몰랐다는 진술을 위증으로 판단하고 고발했다.&lt;br /&gt;&lt;br /&gt;특검은 공수처가 송 전 부장검사 고발사건을 수사팀에 배당하고 대검찰청에는 비위 정황을 통보하지 않아 직무를 유기했다고 보고 있다. 공수처법은 공수처장이 공수처 검사의 범죄 혐의를 발견할 경우 관련 자료와 함께 대검에 통보해야 한다고 명시하고 있다(제25조).&lt;br /&gt;&lt;br /&gt;특검팀은 직무유기 혐의와 관련해 이날 오전 10시부터 경기도 과천 공수처 청사를 압수수색하고 있다. 앞서 특검은 8월에도 공수처를 압수수색했다. 이후 혐의를 새로 포착해 오 처장을 포함한 3명을 추가 입건한 것이라고 특검은 설명했다.</description>
-			<pubDate>Wed, 15 Oct 2025 04:20:53 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212262</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212262</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212262.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
