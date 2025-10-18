@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산 SK에너지 수소공장 폭발사고 부상자 1명 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/75S3CEFOENEQBDAUX6MN7DFBKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/75S3CEFOENEQBDAUX6MN7DFBKQ/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 02:40:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAP7OJTMTNDU7F3RG43G2T3AMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;WLSKS 17일 오전 10시 42분쯤 울산시 남구 용연동 SK에너지 중질유 분해시설(FCC)공장 내 수소 제조 공장에서 불이 나 소방 당국이 불이 난 배관에 물을 뿌려 2차 화재를 막는 작업을 하고 있다. 이 불로 4명이 중상을 입고, 1명이 경상을 입었다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 SK에너지 공장에서 발생한 폭발 사고 부상자 중 1명이 치료 중 사망했다,&lt;br&gt;&lt;br&gt;18일 울산경찰청 등에 따르면 이날 오전 전신 화상으로 부산의 한 병원에서 치료를 받던 50대 A씨가 숨졌다. 전날 오전 10시 42분쯤 울산시 남구 용연동 SK에너지 중질유 분해 시설(FCC) 공장 내 수소 제조 공장에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 4명이 화상을 입어 크게 다치고 1명이 경상을 입었다. 중상을 입은 4명은 인근 화상 전문 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;화재가 난 곳은 공장 수소 제조 공정(HP) 배관이었다. SK에너지 측은 이 공장 배관 내에 남아 있던 수소 가스가 배관을 여는 과정에서 폭발을 일으켜 화재로 이어진 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관은 울산 SK에너지 공장에서 발생한 폭발 사고와 관련해 “사고 수습에 만전을 기하라”고 긴급 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EAP7OJTMTNDU7F3RG43G2T3AMU.jpg?auth=0a9b9b3d4e0c7b78f046d15573343ef93af236a597fa348439f3975e2e2950ad&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">WLSKS 17일 오전 10시 42분쯤 울산시 남구 용연동 SK에너지 중질유 분해시설(FCC)공장 내 수소 제조 공장에서 불이 나 소방 당국이 불이 난 배관에 물을 뿌려 2차 화재를 막는 작업을 하고 있다. 이 불로 4명이 중상을 입고, 1명이 경상을 입었다. /울산소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>전국에 가을비, 내일 기온 뚝... 20일 강원 산지엔 눈 소식도</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/18/XRZRTBPMANGVPCYFSQZIJXJ4JQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/18/XRZRTBPMANGVPCYFSQZIJXJ4JQ/</guid>
+      <dc:creator>정해민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 00:28:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCD6CQ3OS2P5CDRF27SO5G4FR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난10일 시민들이 우산을 쓴 채 발걸음을 옮기고 있다. 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 18일 오전까지 전국 대부분 지역에 비가 내리겠다. 이날부터 대부분 바다에서 바람이 매우 강하게 불고, 물결도 매우 높게 일겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 이날 오전까지 전국에 비가 내리는 가운데 남해안과 경북권 내륙, 제주도는 오후까지 비가 이어질 전망이다. 경북 동해안·북동 산지는 19일 새벽까지, 강원 영동은 19일 오전까지 비가 올 것으로 보인다.&lt;br&gt;&lt;br&gt;18~19일 예상 강수량은 수도권 5~20㎜, 강원도 5~40㎜, 충청권 5~20㎜, 호남권 5~10㎜, 영남권 5~20㎜, 제주도 5~10㎜ 등이다.&lt;br&gt;&lt;br&gt;일요일인 19일 오후부터는 북쪽의 찬 공기가 유입되면서 기온이 크게 낮아지겠다. 18일 낮 최고기온은 16~26도, 19일 낮 최고기온은 18~24도로 예고됐다.&lt;br&gt;&lt;br&gt;전날 충남 서해안에 강풍 특보가 발효된 가운데, 이날 오전부터 호남 서해안에도 바람이 순간 풍속 70km/h 이상으로 강하게 불면서 강풍 특보가 발표됐다. 동해안 일부와 서해안에는 풍랑 주의보가 발효된 상태다.&lt;br&gt;&lt;br&gt;한편 20일에는 강원 영동에 10~40㎜가량의 비가 내리면서, 강원 북부 지역의 고도 1200m 이상 높은 산지에는 눈이 내릴 가능성이 예보됐다.&lt;br&gt;&lt;br&gt;기상청은 “최근 잦은 비로 전국 대부분 지역의 지반이 약해졌다”며 “당분간 이어지는 비로 산사태 및 토사 유출 피해가 발생할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마스크 쓰고 입국장 들어선 ‘캄보디아 송환’ 64명…수갑 찬 채 연행</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/CB24LD4SXFGIHCQMPO4GGJPUFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/CB24LD4SXFGIHCQMPO4GGJPUFU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 01:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZICX7SXXJRJM7FKZRDKLBMSGF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 온라인 사기에 가담해 구금된 한국인들이 18일 오전 인천국제공항 제2터미널을 통해 송환되고 있다. 이날 송환에는 경찰 호송조 190여명이 투입됐다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 오전 9시 54분 인천국제공항 1층 입국장. 캄보디아에서 보이스피싱 등 범죄에 가담했다가 이민 당국에 구금돼 이날 송환된 한국인 64명이 모습을 드러냈다. 모자와 마스크를 쓴 채 고개를 푹 숙인 이들은 수갑을 차고 있었고, 송환자들 옆에는 호송관 두 명씩 붙어 이들이 도망가지 못하도록 붙들고 있었다.&lt;br&gt;&lt;br&gt;이날 입국장에서는 유튜버로 추정되는 인물이 호송되는 인원들을 향해 “나와봐”라고 소리를 지르며 따라가는 등 소란이 빚어지기도 했다. 경찰에 연행돼 공항을 빠져나간 송환자들은 호송 차량 23대에 나눠 타고 각 경찰서로 출발했다.&lt;br&gt;&lt;br&gt;이번 송환자들은 이른바 ‘웬치’로 불리는 캄보디아 범죄 단지에서 보이스피싱이나 로맨스 스캠 등 범죄에 가담한 혐의를 받는다. 대부분은 한국에서 체포영장이 발부된 피의자 신분이다.&lt;br&gt;&lt;br&gt;이들은 이날 오전 3시 15분쯤 캄보디아 수도 프놈펜 인근 테초 국제공항에서 대한항공 전세기를 타고 한국으로 출발해 오전 8시 37분쯤 도착했다. 송환자들은 전세기에서 ‘미란다 원칙’을 듣고 곧바로 기내에서 체포된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 송환된 이들은 충남경찰청 45명, 경기북부청 15명 등 64명 전원이 각 경찰 관서로 이동해 조사를 받을 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U5FHREV3FD23JH5AWW6SXYYOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 범죄에 가담했다가 이민 당국에 구금됐던 한국인 64명이 18일 오전 한국 정부가 마련한 전세기를 타고 인천국제공항을 통해 송환되고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연행 직후 진행된 브리핑에서 김진아 외교부 2차관은 “구금된 국민 64명의 신속한 송환을 완료했다”며 “캄보디아 총리와 외교부 등을 비롯해 많은 기관의 지원에 감사한다”고 말했다.&lt;br&gt;&lt;br&gt;박성주 국가수사본부장은 “앞으로 구금되는 혐의자가 늘어나면 송환이 계속될 수 있느냐”는 기자 질문에 “캄보디아에서 범죄자를 체포하면 우리 측에 신속하게 통보해 주기로 당국과 협의했다”며 “(국민이 체포되면) 송환해 조사하고 보이스피싱 규모 등을 밝히는 데 주력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 경찰청은 이번에 송환된 64명 전원을 대상으로 마약 검사를 실시한다는 방침이다. 박 본부장은 “캄보디아 내 마약이나 약물 투약과 관련해 의혹 제기가 많은 만큼 마약 검사를 실시할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EFSY74SGVVDPBFQDT2H5LCGNY4.gif?auth=876d0f2b70e6254fa2152b8de260d00dbe64bfaddbe27c3540b812ec4cbfc47c&amp;smart=true&amp;width=1024&amp;height=576" type="image/jpeg" height="576" width="1024">
+        <media:description type="plain">캄보디아 송환 롤링</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>범죄자이자 피해자 ‘캄보디아 64人’ 수갑찬 채 귀국... 경찰서 바로 압송</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/5QTENHKIQ5BWFO72HO72U7FYNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/5QTENHKIQ5BWFO72HO72U7FYNA/</guid>
+      <dc:creator>이가영 기자, 김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 17 Oct 2025 23:39:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/II3G3SZBZKRDFWVCKUH5FKEROQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다. 이번 송환 대상자들은 이른바 '웬치'로 불리는 캄보디아 범죄단지에서 보이스피싱이나 로맨스 스캠(사기) 등 범죄에 가담한 혐의를 받고 있다. 이들은 호송 차량 23대 등을 타고 충남경찰청 등 6개 관할 경찰관서로 압송된다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 보이스피싱 등 범죄에 가담했다가 현지 경찰 조사를 받고 이민 당국에 구금된 한국인 64명이 18일 송환됐다. &lt;br&gt;&lt;br&gt;이날 오전 8시 36분쯤 캄보디아에서 구금된 한국인 64명을 태운 전세기가 인천국제공항에 착륙했다. 이들은 수속 절차를 마친 뒤 공항 도착 출구를 지나 공항 바깥에 대기한 호송 차량 23대에 나눠 타고 각 경찰서로 이동해 조사받을 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFSY74SGVVDPBFQDT2H5LCGNY4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 이들이 충남청(45명), 경기북부청(15명), 대전청(1명), 서울서대문경찰서(1명), 경기 김포경찰서(1명), 강원원주경찰서(1명)로 나눠 호송된다고 설명했다. &lt;br&gt;&lt;br&gt;이들은 한국 시각으로 이날 오전 3시 15분쯤 캄보디아 수도 프놈펜 인근 테초 국제공항에서 대한항공 전세기를 타고 한국으로 출발했다. &lt;br&gt;&lt;br&gt;이번 송환자들은 이른바 ‘웬치’로 불리는 캄보디아 범죄 단지에서 보이스피싱이나 로맨스 스캠 등 범죄에 가담한 혐의를 받는다. 대부분은 한국에서 체포영장이 발부된 피의자 신분으로, 인터폴 적색 수배자도 포함됐다.&lt;br&gt;&lt;br&gt;이들은 테초 국제공항에 도착한 뒤 입국장이 아닌 보안 시설로 곧바로 들어가 전세기에 탔다. 이후 전세기에서 ‘미란다 원칙’을 들은 뒤 곧바로 기내에서 체포된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한국 범죄자들을 해외에서 전세기로 집단 송환한 사례는 이번이 세 번째다. 한 국가에서 한 번에 송환하는 기준으로는 국내에서 역대 최대 규모다.&lt;br&gt;&lt;br&gt;당초 캄보디아 정부는 구금 인원을 59명으로 밝혔지만, 현지에서 자발적으로 범죄에 가담했다고 신고한 5명을 더해 총 64명을 이날 송환했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OGGM6JPQLNJ4VEIVO5GJBTBFB4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다./장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들을 호송하기 위해 경찰관 200여 명이 전세기에 동승했고, 경찰청은 경찰 기동대 등 공항현장대응단 인력 215명도 인천공항에 배치했다.&lt;br&gt;&lt;br&gt;한편, 최근 고수익 해외 일자리를 찾는 한국인들이 캄보디아에서 감금되거나 살해되는 사건이 잇따랐다. 캄보디아에서 발생한 한국인 납치‧감금 신고는 2021년 4건, 2022년 1건이었으나 2023년 17건을 기록한 뒤 지난해에는 220건으로 급증했다. 올해에는 8월까지 330건으로 더 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EFSY74SGVVDPBFQDT2H5LCGNY4.gif?auth=876d0f2b70e6254fa2152b8de260d00dbe64bfaddbe27c3540b812ec4cbfc47c&amp;smart=true&amp;width=1024&amp;height=576" type="image/jpeg" height="576" width="1024">
+        <media:description type="plain">캄보디아 송환 롤링</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>光州 중학교에 폭발물 설치 협박 의심 신고에 학생 대피 소동</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/L66CFYV2EJFWXC7PXJ2XTJ6YYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/L66CFYV2EJFWXC7PXJ2XTJ6YYY/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 00:39:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54BAWPR46X4RXK5EJYBXCCITC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 광주광역시 서구 한 백화점에서 경찰특공대 탐지견이 폭발물 탐색을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 중학교에 “폭발물을 설치했다”는 협박 의심 신고가 들어와 학생들이 긴급 대피했다.&lt;br&gt;&lt;br&gt;18일 광주시소방안전본부에 따르면 전날 낮 12시 9분쯤 광주 남구의 한 중학교 학생과 교직원 수백 명이 폭발물 설치 신고를 받고 긴급 대피했다. 경찰과 소방 당국은 학교에서 수색을 벌였지만, 폭발물은 발견되지 않았다.&lt;br&gt;&lt;br&gt;지난 13일에는 광주 북구와 남구 중·고교 4곳에 “학교에 폭발물을 설치했다”는 내용의 협박 메일 신고가 들어왔다.&lt;br&gt;&lt;br&gt;경찰은 당시 학교 내외부를 수색했지만, 폭발물은 발견되지 않았다. 경찰은 최근 국내로 발송된 일본발 폭발물 협박 메일과 연관성 등을 염두에 두고 수사할 방침이다.&lt;br&gt;&lt;br&gt;인천에서는 지난 16일까지 나흘 연속 고등학교에 폭발물 설치 협박 글이 119안전신고센터에 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;이 글엔 “수사력 체크해서 최종 계획을 마무리했다” “오늘 실제 테러에서 뵙겠다” “담장 넘어서 들어가는데 CCTV 없고 좋았다”라는 내용이 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/54BAWPR46X4RXK5EJYBXCCITC4.jpg?auth=1ee921c5e9600155421eacb03681dfb700c2b860766ad8dcb7e67b0bc37ed3c4&amp;smart=true&amp;width=4432&amp;height=3448" type="image/jpeg" height="3448" width="4432">
+        <media:description type="plain">지난 9월 광주광역시 서구 한 백화점에서 경찰특공대 탐지견이 폭발물 탐색을 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>70대 이웃 폭행해 숨지게 한 10대, ‘징역 2년’… 유족 “통탄스럽다”</title>
       <link>https://www.chosun.com/national/national_general/2025/10/18/VZ4EI7WMMJCALPWG5AGMJR7KTU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/VZ4EI7WMMJCALPWG5AGMJR7KTU/</guid>
@@ -836,42 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFP2IE72DJHN5DCPCCEJHRVW5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 2일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막식을 가졌다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사가 비상장주에 투자한 후 상장 폐지 직전 팔아 억대 차익을 본 주식은 김 여사도 한때 투자했던 종목인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 민 특검이 보유했던 네오세미테크 주식은 김 여사도 한때 거래했던 종목으로 알려졌다. 해당 업체는 2010년 상장폐지된 태양광 소재업체로, 7000여 명의 소액투자자에게 피해를 안겨 ‘희대의 분식회계’로 이름을 알린 회사다. &lt;br&gt;&lt;br&gt;도이치모터스 주가조작 의혹을 수사한 특검은 김 여사를 상대로 해당 주식의 거래 경위에 대해서도 추궁한 바 있다. 특검은 여사가 2009년 네오세미테크 주식을 언급하며 “일단 오늘 공매도 하는 걸로 (나만) 먼저 받았다”고 말한 김 여사와 증권사 직원의 통화 녹취를 제시했던 것으로 알려졌다. 네오세미테크 주식 거래가 수사 대상은 아니지만, 과거 주식거래 사실을 근거로 “주식을 잘 모른다”는 김 여사 측 주장을 뒤집을 수 있다고 판단한 것이다.&lt;br&gt;&lt;br&gt;민 특검은 2010년 서울고법 부장판사로 재임할 당시 네오세미테크 비상장 주식을 상장 폐지 직전에 팔아 차익을 거뒀다. 지난 2011년 3월 민 특검이 신고한 공직자 재산 공개 내역에 따르면, 그는 2009년부터 태양광 소재 업체 네오세미테크 비상장 주식을 사들이기 시작해 이듬해 총 1만2036주를 팔아 1억5874만원의 수익을 올렸다.&lt;br&gt;&lt;br&gt;오명환 전 네오세미테크 대표는 가짜 세금계산서 발행과 분식회계를 한 혐의로 기소돼 2016년 6월 징역 11년형이 확정됐다. 오 전 대표가 민 특검과 대전고, 서울대 동기라는 사실이 알려지며 그가 미공개 정보를 이용해 막대한 수익을 거둔 것이 아니냐는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;특검은 이날 “민 특검은 2000년초 회사 관계자가 아닌 지인의 소개로 해당 회사에 3000~4000만원 가량 투자했다가 2010년쯤 증권사 직원의 권유로 이를 1억3000여만원에 매도했다”라고 해명했다. 오 전 대표가 아닌 다른 사람의 소개를 받아 해당 종목을 투자했다는 것이다. 또 매도액 규모에 대해서도 특검 관계자는 “1억5800여만원은 다른 보유주식 시가 변동분이 반영된 것으로, 매도액 자체는 1억3000여만원”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰대학, 인터폴과 지식재산·기술유출 대응 교육·훈련</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/17/K4PAYRZZ6VHWVHIIZTBKH4W7VU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/17/K4PAYRZZ6VHWVHIIZTBKH4W7VU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 01:43:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H273IRBGIY4FEDX7T7WZXDYHAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰대학 전경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰대학이 인터폴(국제형사기구)과 지식재산권 침해와 국가 핵심 기술 유출에 대응하는 국제 교육 과정을 진행했다고 17일 밝혔다. 경찰대학은 13~17일 인터폴과 공동으로 ‘지식재산권 및 기술 유출 범죄 대응 국제 교육 과정’을 실시했다.&lt;br&gt;&lt;br&gt;이번 과정에는 경찰청·지식재산처(구 특허청) 소속 수사관 10명이 참여했고, 인터폴 지식재산권 범죄 대응 전문가 3명이 강의를 맡았다. 교육은 국제 지식재산 범죄 동향, 국제 공조 사례, 공조 수사 협력 전략 등을 다뤘다.&lt;br&gt;&lt;br&gt;경찰대학은 이번 교육 추진 배경으로 K-콘텐츠 불법 유통과 국가기술 유출의 심각성을 들었다. 지난해 필리핀 ‘365TV’, 인도네시아 ‘TVDOL’ 사건 등 K-콘텐츠 불법 스트리밍 조직은 경찰청·문화체육관광부·인터폴의 합동 단속과 공동 조사, 총책 신속송환으로 적발됐지만, 유사 사이트가 전 세계 어디서든 재가동될 수 있는 점이 과제로 꼽힌다.&lt;br&gt;&lt;br&gt;기술 유출의 경우 경찰청 집계에서 해외 유출 적발이 2022년 12건, 2023년 22건, 2024년 27건으로 증가했고, 2024년 적발의 37%가 반도체·OLED 등 핵심기술이었다. 2017~2023년 추정 피해 규모는 33조원 이상이다.&lt;br&gt;&lt;br&gt;김성희 경찰대학장은 “불법 스트리밍 조직 검거처럼 성과를 낸 국제 공조는 국내 부처와 인터폴, 현지 수사기관의 긴밀한 소통과 역량 공유 덕분”이라며 “K-콘텐츠와 산업기술을 지키기 위한 역량을 강화하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘채 상병 수색 작전 직무 유기’ 前 육군 50사단장 특검 첫 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/QKNEBLSKYJGHXNG24TILLQ7GT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/QKNEBLSKYJGHXNG24TILLQ7GT4/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 01:54:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2LCKQTQFFISNJKNSAAXCSCLAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;문병삼 전 육군 50사단장이 17일 오전 서울 서초구 순직해병 특별검사팀(특별검사 이명현)에 피의자 조사를 받기 위해 출석하고 있다. / 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 17일 오전 문병삼 전 육군 50사단장(소장)을 피의자 신분으로 불러 조사 중이다. 문 전 사단장의 해병 특검 출석은 이번이 처음이다.&lt;br&gt;&lt;br&gt;문 전 사단장은 이날 오전 9시 8분 특검에 출석하면서 ‘수색 작전 당시 해병대는 육군과 별개로 작전을 진행했나’ ‘육군은 해병대에 실질적으로 지휘권을 행사할 수 없었나’ ‘해병대가 육군의 통제를 받지 않으려고 했나’ 등 취재진의 질문에 답하지 않고 곧장 조사실로 발걸음을 옮겼다.&lt;br&gt;&lt;br&gt;50사단은 대구·경북 지역을 관할하는 부대다. 문 전 사단장은 지난 2023년 7월 경북 예천에서 이뤄진 호우 피해 복구 작전 당시 채 상병이 숨진 보문교 일대 수중 수색 과정에서 작전통제권자로서 소임을 다하지 않은 혐의(직무 유기)로 고위공직자범죄수사처에 고발됐다.&lt;br&gt;&lt;br&gt;앞서 임성근 전 해병대 1사단장은 지난 8월 특검에 출석하며 “당시 사단장으로서 책임을 통감하지만 작전통제권이 없었기 때문에 법적으로는 책임질 게 없다고 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 문 전 사단장을 상대로 문 전 사단장이 실질적으로 수색 작전을 지휘한 것이 맞는지, 현장에 작전 지도를 나갔던 임 전 사단장과 지휘 체계에 혼선이 있었는지 등을 집중적으로 물을 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이진숙 ‘방미통위법 평등권 침해’ 헌법소원... 헌재, 정식 심판 회부</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/V6SHRNGL5NAPRMZK3UJ35UGRUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/V6SHRNGL5NAPRMZK3UJ35UGRUY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 01:56:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7V4EVEXMUL7K2BR46HKOXLSOGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장. 2025.10.14/뉴스1 ⓒ News1 이승배 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이달부터 시행된 방송미디어통신위원회(방미통위)법에 따라 직을 잃은 이진숙 전 방송통신위원장이 방미통위법이 평등권 등을 침해했다며 낸 헌법소원을 헌법재판소가 지난 15일 정식 심판에 회부한 것으로 17일 나타났다.&lt;br&gt;&lt;br&gt;헌재는 헌법소원이 접수되면 재판관 3명으로 구성된 지정재판부가 먼저 법적 요건을 갖췄는지 먼저 심사한다. 이후 청구가 적법하다고 판단되면 재판관 8명이 모두 참여하는 전원재판부로 넘겨 정식으로 심리한다.&lt;br&gt;&lt;br&gt;더불어민주당이 주도한 방미통위법이 지난달 27일 국회 본회의를 통과하면서 기존 방송통신위원회(방통위)가 폐지됐다. 특히 ‘방통위 소속 공무원(정무직은 제외한다)은 방미통위 소속 공무원으로 본다’는 조항이 문제 됐다. 이에 따라 내년 8월까지 임기가 남아 있던 이진숙 당시 방통위원장은 법 시행과 동시에 자동 면직됐다.&lt;br&gt;&lt;br&gt;이 전 위원장은 이 조항이 평등권과 행복추구권, 공무담임권을 침해했다며, 방미통위법 시행 첫날인 이달 1일 헌법소원과 효력 정지 가처분 신청을 냈다.&lt;br&gt;&lt;br&gt;이 전 위원장은 앞서 지난달 28일 국회에서 기자회견을 열고 “방미통위법은 치즈 법령이자 나에 대한 표적 법령”이라며 “너무 구멍이 많고, 정무직인 나를 사실상 면직 해임하는 것인데 왜 정무직이 면직돼야 하는지 설명이 없다”고 한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 ‘체포방해’ 혐의 재판 3회 연속 불출석... 궐석 재판</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/JC63TNZ3NJCODIBXT6JABGC74A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/JC63TNZ3NJCODIBXT6JABGC74A/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 01:56:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZZUQJOR6RIWLDFZEMYUXNZT5I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 윤석열 전 대통령이 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석해 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 대통령이 17일 지병을 이유로 체포방해 혐의 재판에 두 차례 연속 불출석했다. 재판부는 정당한 사유 없이 출석을 거부한 것으로 보고 피고인 없이 심리를 진행하는 궐석 재판을 개시했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 특수공무집행방해·직권남용 등 혐의로 기소된 윤 전 대통령 재판을 열었다. 재판부는 “피고인이 지병을 이유로 불출석 사유서를 제출하고 출석하지 않았다”며 “정당한 사유 없이 출석을 거부했고 구치소 측 보고서에 따르면 교도관 인치가 현저히 곤란한 상황으로 형사소송법 규칙에 따라 피고인 출석 없이 심리를 개시하겠다”고 했다. &lt;br&gt;&lt;br&gt;형사소송법에 따르면 구속된 피고인이 정당한 사유 없이 출석을 거부하고, 교도관에 의한 인치가 불가능하거나 현저히 곤란하다고 인정될 때는 피고인 출석 없이 공판 절차를 진행할 수 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난달 26일 이 사건 첫 재판과 보석 심문에 출석했으나 이달 10일 두 번째 재판에는 나오지 않았다. 당시 재판부는 재판이 공전되는 것을 막기 위해 ‘기일 외 증거조사’ 방식으로 증인 신문을 진행했고 이날은 윤 전 대통령 없이 정식 재판을 하는 궐석 재판을 개시했다. &lt;br&gt;&lt;br&gt;이날 재판에는 대통령경호처 이진하 경비안전본부장과 김신 전 가족부장 등이 증인으로 나와 윤 전 대통령의 고위공직자범죄수사처(공수처) 체포영장 집행 방해 혐의와 비화폰 기록 삭제 지시 등에 대해 증언할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>3년 동안 길렀는데… 주인 문 맹견, 80대 견주 숨져</title>
       <link>https://www.chosun.com/national/regional/2025/10/17/S6HL5BSWKFHF5JMYZ2RAMRN7E4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/17/S6HL5BSWKFHF5JMYZ2RAMRN7E4/</guid>
@@ -879,15 +901,6 @@
       <description/>
       <pubDate>Fri, 17 Oct 2025 02:18:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DBMRVRDONABDUQCXW67DGANXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양시에서 80대 견주가 3년 간 기르던 맹견에게 물려 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;17일 밀양경찰서에 따르면 전날 오전 7시 30분쯤 밀양시 내일동 한 주택 마당에서 80대 여성 A씨가 평소 기르던 개에게 목과 팔 등에 10여차례 물렸다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 크게 다쳐 병원으로 이송되던 중 숨졌다.&lt;br&gt;&lt;br&gt;평소 아들과 함께 살던 A씨는 핏불테리어 3마리를 기르고 있었으며, 사고 당시 이 중 2마리가 싸우는 것을 말리다가 변을 당한 것으로 조사됐다. A씨는 핏불테리어를 2022년쯤 길렀던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A를 숨지게 한 핏불테리어는 사고 직후 안락사 됐다. 나머지 2마리는 A씨 아들이 다른 곳으로 처분한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;동물보호법상 핏불테리어는 맹견으로 분류돼 지자체장 허가가 있어야 사육할 수 있지만, A씨 등은 별도 허가를 받지 않은 것으로 파악됐다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “개들이 싸움을 하면서 흥분해 주인까지 물게 된 것으로 추정된다”며 “정확한 사고 경위 등은 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;핏불테리어는 가족에 대한 애정이 깊고 인내심이 강한 순종적인 개이지만, 싸움을 좋아하는 호전적인 성향이 강한 것으로 알려졌다. 주로 투견으로 길들여진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구시, 소상공인·중소기업에 공유재산 임대료 최대 50% 인하</title>
-      <link>https://www.chosun.com/national/regional/2025/10/17/TNTPOOO7UNFT3MUPD44Q3WJE5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/17/TNTPOOO7UNFT3MUPD44Q3WJE5I/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 02:24:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5SNFILT6ANFSSJDEVSXX5HMEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시 산격청사 전경./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 경기 침체로 어려움을 겪는 소상공인과 중소기업을 위해 시 소유 공유재산 임대료를 최대 50% 인하한다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;대구시는 최근 공유재산심의회 심의를 거쳐 공유재산 임대료 부과 요율을 기존 5%에서 소상공인은 2.5%, 중소기업은 3%로 낮췄다. 대상 기간은 2025년 1월부터 12월까지다. 올해 이미 납부한 임대료도 소급 감면받을 수 있다. &lt;br&gt;&lt;br&gt;또 시 공유재산 임대료 납부 기한을 최대 1년까지 연장하고, 임대료 연체료도 50% 감경해주기로 했다. &lt;br&gt;&lt;br&gt;임대료 감면 신청은 20일부터 각 공유재산 임대 부서에서 접수한다. 대상자는 중소기업(소상공인) 확인서와 신청서를 작성해 11월 말까지 제출하면 감면과 환급을 받을 수 있다.&lt;br&gt;&lt;br&gt;대구시 관계자는 “대구시뿐만 아니라 9개 구·군에서도 소상공인 등 임차인의 임대료 부담 완화를 위해 각 기관별 공유재산심의회를 거쳐 세부 기준을 마련하고 감면 정책을 시행할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘죽고 싶지만 떡볶이는 먹고 싶어’ 작가 백세희 별세... 장기기증으로 5명에 새 삶</title>
