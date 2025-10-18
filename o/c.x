@@ -13,6 +13,39 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>피싱 범죄자이자 감금 피해자... ‘캄보디아 64인’ 수사 본격화</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/GTNYVJH265FU3H3SCD62GNLJ5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/GTNYVJH265FU3H3SCD62GNLJ5E/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 04:32:12 +0000</pubDate>
+      <content:encoded>18일 오전 한국 땅을 밟은 캄보디아 송환자 64명이 전국 각지의 경찰관서로 연행되면서, 이들에 대한 수사도 본격화할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2YPA6MVJJBS3ITXUJ6GSREF64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 캄보디아에서 국내로 송환된 64명은 캄보디아 범죄 단지에 감금됐던 피해자면서 한국인을 대상으로 로맨스 스캠이나 노쇼 사기 등 범죄를 벌여온 혐의를 받는 피의자 신분이기도 하다.&lt;br&gt;&lt;br&gt;경찰은 이들을 충남경찰청(45명)과 경기북부청(15명), 대전경찰청(1명), 서울 서대문경찰서(1명), 경기남부청 김포경찰서(1명), 강원 원주경찰서(1명) 등으로 분산해 조사에 나설 계획이다. &lt;br&gt;&lt;br&gt;박성주 경찰청 국가수사본부장은 이날 오전 인천공항에서 열린 브리핑에서 “(송환자들은) 보이스피싱과 관련된 여러 가지 범죄에 연루돼 있는 사람들”이라며 “한국 당국에서 아직 조사를 받지 않았기 때문에, 피해 사실과 추가 범죄 사실을 확인하고 있다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 이들이 납치·감금을 당한 뒤 협박을 받아 강제로 범죄에 가담했는지, 범죄에 가담하는 것을 알고도 적극적으로 활동했는지 등을 조사할 예정이다. 이를 통해 보이스피싱 조직의 규모와 실체 등도 규명한다는 계획이다.&lt;br&gt;&lt;br&gt;한편 경찰은 추가적인 한국인 범죄자와 납치 피해자를 찾기 위해 앞으로도 캄보디아 당국과 협력한다는 방침이다.&lt;br&gt;&lt;br&gt;박 본부장은 “캄보디아 당국이 범죄 단지를 수시로 단속해, 한국인 범죄자를 체포하면 우리 측에 통보해 주기로 협의했다”며 “통보가 오면 우리 법 절차에 따라 송환해 법의 심판을 받게 할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EFSY74SGVVDPBFQDT2H5LCGNY4.gif?auth=876d0f2b70e6254fa2152b8de260d00dbe64bfaddbe27c3540b812ec4cbfc47c&amp;smart=true&amp;width=1024&amp;height=576" type="image/jpeg" height="576" width="1024">
+        <media:description type="plain">캄보디아 송환 롤링</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경북 울진에서 경비행기 불시착…2명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/SXSRH6JPNVFENOCULKIJJMK2NA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/SXSRH6JPNVFENOCULKIJJMK2NA/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 04:28:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2T2IGZ6677CE2BNWLDFP6VXUR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오전 10시 59분쯤 경북 울진군에 있는 울진공항출장소 외부 담벼락에 경비행기가 불시착해 소방당국이 현장을 조사하고 있다. /경북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 울진에서 경비행기가 불시착해 2명이 다쳤다.&lt;br&gt;&lt;br&gt;경북소방본부는 18일 “이날 오전 10시 59분쯤 경북 울진군 기성면 구산리 울진공항 출장소 인근에 경비행기가 불시착해 조종 교관과 조종 훈련생 등 탑승자 2명이 부상을 입었다”고 밝혔다. 경비행기 탑승자들은 불시착 뒤 스스로 대피했다.&lt;br&gt;&lt;br&gt;부상을 제외한 민간 피해는 없는 것으로 조사됐다. 경비행기는 불시착 당시 울진공항 출장소 외부 담벼락에 충돌해 파손됐다.&lt;br&gt;&lt;br&gt;소방 당국은 안전 조치 뒤 현장을 통제하고 있다. 경찰과 소방 당국 등은 정확한 사고 원인을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2T2IGZ6677CE2BNWLDFP6VXUR4.jpg?auth=4cce1f83616c008bc710e22b8102a6c848e5a62c4cc64274573d25636a34f0df&amp;smart=true&amp;width=4080&amp;height=3060" type="image/jpeg" height="3060" width="4080">
+        <media:description type="plain">18일 오전 10시 59분쯤 경북 울진군에 있는 울진공항출장소 외부 담벼락에 경비행기가 불시착해 소방당국이 현장을 조사하고 있다. /경북소방본부</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>수갑 차고 들어온 캄보디아 송환자들…기내식은 ‘포크 필요 없는’ 샌드위치</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/XOVY3XXTINDQZCDT73IBPFOJHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/XOVY3XXTINDQZCDT73IBPFOJHE/</guid>
+      <dc:creator>인천=김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 03:34:14 +0000</pubDate>
+      <content:encoded>캄보디아에서 보이스피싱 등 범죄에 가담했다가 이민 당국에 구금됐던 한국인 64명이 18일 한국 땅을 밟았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GODFDME32RCQFMT3ED5WDJHJC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 2025년 10월 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 송환된 이들은 모두 천으로 가려진 수갑을 차고 있었다. 송환자 한 명당 경찰관 2명이 붙어 이들의 팔을 붙잡고 연행했다. 보이스피싱, 로맨스 스캠 등 범죄에 가담한 혐의를 받는 피의자 신분이었기 때문이다.&lt;br&gt;&lt;br&gt;이들은 모자나 마스크를 쓰고 고개를 푹 숙여 얼굴을 가린 채 경찰에 연행됐다. 송환자 대부분이 남성이었지만, 여성으로 보이는 몇 명도 눈에 들어왔다. 한 남성은 A4 크기 종이로 얼굴을 가리고 있었고, 고령자로 추정되는 백발 남성은 휠체어에 탄 채 호송되고 있었다.&lt;br&gt;&lt;br&gt;송환자들은 전세기에서 ‘미란다 원칙’을 듣고 곧바로 기내에서 체포됐다. 국적법상 국적기 내부도 대한민국 영토여서다. 형사들 역시 이들에게 수갑을 채운 뒤 양 옆자리에 앉았다.&lt;br&gt;&lt;br&gt;전세기 기내식으로는 샌드위치가 나온 것으로 전해졌다. 포크나 나이프 등 날카로운 식기를 흉기로 사용할 수 있어, 아예 식기가 필요 없는 간단한 음식을 제공한 것이다.&lt;br&gt;&lt;br&gt;이들은 이날 오전 3시 15분쯤 캄보디아 수도 프놈펜 인근 테초 국제공항에서 대한항공 전세기를 타고 한국으로 출발해 오전 8시 37분쯤 도착했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESLJEDL2GBGWBADSZGQVYJ6MS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 온라인 사기에 가담해 구금된 한국인들이 2025년 10월 18일 오전 인천국제공항을 통해 송환되고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 인천국제공항에서는 만일의 사태에 대비해 삼엄한 경비가 펼쳐졌다. 소총을 든 경찰 특공대원들이 송환자들을 호송하는 행렬 앞에 서 있었고, 이들이 입국장 게이트를 빠져나와 승합차에 탈 때까지 동선에 맞춰 경찰 기동대원들이 배치돼 있었다.&lt;br&gt;&lt;br&gt;보이스피싱 피해자로 추정되는 남성이 호송 행렬로 소리를 지르며 달려드는 일도 있었지만, 경찰이 제지하면서 별도의 충돌은 없었다.&lt;br&gt;&lt;br&gt;송환자들은 새벽부터 공항 출구 앞에 대기하던 승합차 23대에 나눠 타 차례로 경찰서로 출발했다. 호송차 탑승은 35분 만에 완료됐다.&lt;br&gt;&lt;br&gt;경찰은 이들 전원을 충남경찰청(45명), 경기북부경찰청(15명) 등으로 분산해 범죄 혐의점을 수사할 예정이다. 납치·감금을 당한 뒤 범죄에 가담했는지 등을 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;이날 한국으로 송환된 64명은 이른바 ‘웬치’로 불리는 캄보디아 범죄 단지에서 보이스피싱이나 로맨스 스캠 등 범죄에 가담한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>울산 SK에너지 수소공장 폭발사고 부상자 1명 사망</title>
       <link>https://www.chosun.com/national/national_general/2025/10/18/75S3CEFOENEQBDAUX6MN7DFBKQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/75S3CEFOENEQBDAUX6MN7DFBKQ/</guid>
@@ -840,15 +873,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AC4YII5PCBHLNPF6QD6M5V5QI4.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 서울대가 특임 석좌교수로 선정한 황윤재(왼쪽) 경제학부 교수와 현택환 화학생물공학부 교수./서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인재 유출 위기를 겪는 서울대가 성과가 뛰어난 교수 2명을 ‘특임 석좌교수’로 선정하며 첫 정년 연장에 나섰다. 서울대는 재직 중인 석좌교수 일부를 선정해 65세 정년 이후 최대 10년간 재임용이 가능한 제도를 지난 8월 신설했다.&lt;br&gt;&lt;br&gt;서울대는 지난 1일부터 황윤재 경제학부 교수와 현택환 화학생물공학부 교수를 특임 석좌교수로 선정·임명했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;서울대는 정년으로 인한 유수 인재 유출을 막으려는 취지에서 지난 8월 평의원회에서 특임석좌교수 제도를 심의해 도입했다. &lt;br&gt;&lt;br&gt;서울대는 ‘서울대학교 석좌 교수 등에 관한 규정’에 “재직 중인 석좌 교수 중 학문적 업적이 탁월하고 해당 분야 교육 및 연구에 기여할 수 있는 사람을 정년 이후에 특임 석좌 교수로 임용할 수 있다”는 내용을 신설했다.&lt;br&gt;&lt;br&gt;특임 석좌 교수는 전임 교원 정년퇴직일 이후부터 5년간 임용된다. 이후 성과 평가를 거쳐 75세까지 한 번 재임용될 수도 있다. 선정된 교수들은 연구 공간, 학술 연구 활동 수당 등 정년 후 연구를 위한 혜택을 제공받는다.&lt;br&gt;&lt;br&gt;이 제도에 따라 전임교원 정년퇴직일까지의 잔여 기간이 5년 이하인 석좌교수부터 특임석좌교수에 선정될 수 있다. &lt;br&gt;&lt;br&gt;이번에 특임 석좌 교수로 선정된 황 교수는 계량경제학 분야 세계적인 석학으로, 특히 비모수 추론법 분야에서 탁월한 연구 성과를 이뤄왔다. 대표 연구 업적인 ‘확률적 지배 관계 검정법’은 정책 평가, 인공지능(AI), 빅데이터 분석 등 다양한 영역에서 활용되고 있다. 5년마다 개최되는 세계 경제학계의 최대 학술 행사인 2025 세계경제학자대회(ESWC) 조직위원장을 맡기도 했다. &lt;br&gt;&lt;br&gt;나노 과학기술 분야의 세계적인 석학인 현 교수는 균일한 나노 입자를 대량으로 생산할 수 있는 ‘승온법’을 개발했다. 국내 과학자 중 나노 분야 피인용 횟수 상위 0.1% 논문을 가장 많이 발표한 연구자로서 지금까지 출판한 500편 이상의 논문이 12만5000회 이상 인용됐다. 2023년 스웨덴왕립공학한림원 외국 회원으로 선출됐으며 매년 노벨화학상 후보로 거론돼 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산 SK에너지 수소공장서 불... 중상 4명·경상 1명, 화상 전문병원 이송</title>
-      <link>https://www.chosun.com/national/regional/2025/10/17/CP5WSQLY6JEV5IKLJDCXPRVXP4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/17/CP5WSQLY6JEV5IKLJDCXPRVXP4/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 03:09:29 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EAP7OJTMTNDU7F3RG43G2T3AMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 10시 42분쯤 울산시 남구 용연동 SK에너지 중질유 분해시설(FCC)공장 내 수소 제조 공장에서 불이 나 소방 당국이 불이 난 배관에 물을 뿌려 2차 화재를 막는 작업을 하고 있다. 이 불로 4명이 중상을 입고, 1명이 경상을 입었다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오전 10시 42분쯤 울산시 남구 용연동 SK에너지 중질유 분해시설(FCC)공장 내 수소 제조 공장에서 불이 나 5명이 부상을 입었다.&lt;br&gt;&lt;br&gt;울산경찰청과 울산소방본부에 따르면 이 불로 4명이 크게 다치고 1명이 경상을 입었다. 중상을 입은 4명은 인근 화상 전문 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;소방 당국은 25명과 장비 23대를 동원해 진화 작업을 해 20여분쯤 뒤에 불을 껐다. 추가 피해 방지를 위해 불이 난 배관으로 연결되는 밸브를 잠그고, 진화 작업을 버렸다. 완전 진압 후에도 2차 사고 방지를 위해 배관을 향해 물을 뿌리며 안정화 작업을 진행하고 있다.&lt;br&gt;&lt;br&gt;화재가 난 곳은 공장 수소 제조 공정(HP) 배관이었다.&lt;br&gt;&lt;br&gt;SK에너지 측은 이 공장 배관 내에 남아있던 수소 가스가 배관을 여는 과정에서 불이 붙어 화재로 이어진 것으로 추정하고 있다. &lt;br&gt;&lt;br&gt;수소를 제조하는 이 공장은 지난 15일부터 정기보수 공사에 들어갔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>與 “내란 국힘 해산해야”… 헌재 측 “정당해산, 신중히 쓸 최후 수단”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/17/6YBVNV4AIFHPJODFHSOWIKEQJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/6YBVNV4AIFHPJODFHSOWIKEQJU/</guid>
@@ -894,15 +918,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFP2IE72DJHN5DCPCCEJHRVW5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 2일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막식을 가졌다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사가 비상장주에 투자한 후 상장 폐지 직전 팔아 억대 차익을 본 주식은 김 여사도 한때 투자했던 종목인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 민 특검이 보유했던 네오세미테크 주식은 김 여사도 한때 거래했던 종목으로 알려졌다. 해당 업체는 2010년 상장폐지된 태양광 소재업체로, 7000여 명의 소액투자자에게 피해를 안겨 ‘희대의 분식회계’로 이름을 알린 회사다. &lt;br&gt;&lt;br&gt;도이치모터스 주가조작 의혹을 수사한 특검은 김 여사를 상대로 해당 주식의 거래 경위에 대해서도 추궁한 바 있다. 특검은 여사가 2009년 네오세미테크 주식을 언급하며 “일단 오늘 공매도 하는 걸로 (나만) 먼저 받았다”고 말한 김 여사와 증권사 직원의 통화 녹취를 제시했던 것으로 알려졌다. 네오세미테크 주식 거래가 수사 대상은 아니지만, 과거 주식거래 사실을 근거로 “주식을 잘 모른다”는 김 여사 측 주장을 뒤집을 수 있다고 판단한 것이다.&lt;br&gt;&lt;br&gt;민 특검은 2010년 서울고법 부장판사로 재임할 당시 네오세미테크 비상장 주식을 상장 폐지 직전에 팔아 차익을 거뒀다. 지난 2011년 3월 민 특검이 신고한 공직자 재산 공개 내역에 따르면, 그는 2009년부터 태양광 소재 업체 네오세미테크 비상장 주식을 사들이기 시작해 이듬해 총 1만2036주를 팔아 1억5874만원의 수익을 올렸다.&lt;br&gt;&lt;br&gt;오명환 전 네오세미테크 대표는 가짜 세금계산서 발행과 분식회계를 한 혐의로 기소돼 2016년 6월 징역 11년형이 확정됐다. 오 전 대표가 민 특검과 대전고, 서울대 동기라는 사실이 알려지며 그가 미공개 정보를 이용해 막대한 수익을 거둔 것이 아니냐는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;특검은 이날 “민 특검은 2000년초 회사 관계자가 아닌 지인의 소개로 해당 회사에 3000~4000만원 가량 투자했다가 2010년쯤 증권사 직원의 권유로 이를 1억3000여만원에 매도했다”라고 해명했다. 오 전 대표가 아닌 다른 사람의 소개를 받아 해당 종목을 투자했다는 것이다. 또 매도액 규모에 대해서도 특검 관계자는 “1억5800여만원은 다른 보유주식 시가 변동분이 반영된 것으로, 매도액 자체는 1억3000여만원”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>3년 동안 길렀는데… 주인 문 맹견, 80대 견주 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/10/17/S6HL5BSWKFHF5JMYZ2RAMRN7E4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/17/S6HL5BSWKFHF5JMYZ2RAMRN7E4/</guid>
-      <dc:creator>밀양=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 02:18:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DBMRVRDONABDUQCXW67DGANXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 밀양시에서 80대 견주가 3년 간 기르던 맹견에게 물려 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;17일 밀양경찰서에 따르면 전날 오전 7시 30분쯤 밀양시 내일동 한 주택 마당에서 80대 여성 A씨가 평소 기르던 개에게 목과 팔 등에 10여차례 물렸다.&lt;br&gt;&lt;br&gt;이 사고로 A씨는 크게 다쳐 병원으로 이송되던 중 숨졌다.&lt;br&gt;&lt;br&gt;평소 아들과 함께 살던 A씨는 핏불테리어 3마리를 기르고 있었으며, 사고 당시 이 중 2마리가 싸우는 것을 말리다가 변을 당한 것으로 조사됐다. A씨는 핏불테리어를 2022년쯤 길렀던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A를 숨지게 한 핏불테리어는 사고 직후 안락사 됐다. 나머지 2마리는 A씨 아들이 다른 곳으로 처분한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;동물보호법상 핏불테리어는 맹견으로 분류돼 지자체장 허가가 있어야 사육할 수 있지만, A씨 등은 별도 허가를 받지 않은 것으로 파악됐다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “개들이 싸움을 하면서 흥분해 주인까지 물게 된 것으로 추정된다”며 “정확한 사고 경위 등은 조사 중”이라고 말했다. &lt;br&gt;&lt;br&gt;핏불테리어는 가족에 대한 애정이 깊고 인내심이 강한 순종적인 개이지만, 싸움을 좋아하는 호전적인 성향이 강한 것으로 알려졌다. 주로 투견으로 길들여진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘죽고 싶지만 떡볶이는 먹고 싶어’ 작가 백세희 별세... 장기기증으로 5명에 새 삶</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/17/546KPP7LXRDWVA7NTGODZJLPL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/17/546KPP7LXRDWVA7NTGODZJLPL4/</guid>
@@ -941,15 +956,6 @@
         <media:description type="plain">지난 12일 부산 연제구 연제만화도서관의 모습. 시민들이 만화책을 읽고 있다. 연제만화도서관은 지난 6월 문을 연 전국 1호 공공 만화 도서관이다. 개관 4개월 만에 방문객 8만명을 넘겼다. 지하 2층, 지상 4층 규모로 국내외 만화책 3만여 권을 볼 수 있다./김동환 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>민중기 특검, 김건희 여사 ‘주가조작’ 조사했던 태양광 테마주로 1억6000만원 수익</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/16/2DCRHWYBYRGBPBAGYL6WGTL3OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/16/2DCRHWYBYRGBPBAGYL6WGTL3OE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Oct 2025 14:07:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWNBBJKG3VBVJCK3A4K77XZAIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 2025년 7월 2일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막식을 가졌다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 특별검사팀의 민중기 특검이 태양광 소재업체 네오세미테크의 비상장주에 투자한 후 상장 폐지 직전 팔아 차익을 본 것으로 확인됐다. 해당 업체는 2010년 상장폐지된 태양광 소재업체로, 7000여명의 소액투자자에게 피해를 안긴 희대의 분식회계로 알려진 회사다. 특검은 김 여사를 소환 조사하며 네오세미테크 투자 계기 등을 추궁한 바 있다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 민 특검은 2010년 서울고법 부장판사 당시 네오세미테크 비상장 주식을 팔아 1억6000만원의 차익을 거뒀다. 해당 주식은 민 특검이 부산고법 부장판사였던 2009년 공직자 재산공개 당시 알려졌다.&lt;br&gt;&lt;br&gt;네오세미테크는 분식회계로 7000여명의 소액투자자에게 2000억원 이상의 손실을 보게 한 회사다. 네오세미테크의 오명환 전 대표는 2015년 법원에서 상장 직전 미공개 정보를 이용해 자신의 주식을 처분한 혐의로 유죄를 받았다. 오 전 대표는 민 특검과 대전고, 서울대 동기다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 여사를 조사하며 네오세미테크 주식을 거론한 바 있다. 김 여사는 2009년 한 증권사 직원과의 통화에서 네오세미테크 주식을 거론하며 “일단 오늘 공매도 하는 걸로 (나만) 먼저 받았다”고 말한 것으로 알려졌다. 특검은 김 여사에 상장 예정일 하루 전에 공매도를 할 수 있는 특혜를 혼자 받은 게 아니냐며 위법 행위에 가담한 게 아닌지 물었다. 특검은 네오세미테크 주식 거래가 초보 투자자가 접근하기 어려운 주식임을 고려했을 때 김 여사가 주식시장에 대한 이해가 높았다고 보기도 했다.&lt;br&gt;&lt;br&gt;다만 김 여사를 기소하며 해당 내용을 피의사실로 적시하지 않았다. 특검은 해당 의혹을 묻는 본지 질문에 답변을 내놓지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“유방암 행사라며 연예인들 불러 술 먹고 파티하나”… W코리아 행사 논란</title>
