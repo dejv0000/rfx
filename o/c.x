@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국가정보자원관리원 시스템 367개 복구 완료…복구율 51.8%</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/7L5P3BRILBBBRLSGHF4JTUNZWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/7L5P3BRILBBBRLSGHF4JTUNZWY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 10:03:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RZMJIS43DDZ4C5AU3EDM44T37E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가정보자원관리원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 18일 오후 6시 기준 지난달 국가정보자원관리원(정보자원관리원) 대전 본원 화재로 셧다운된 시스템 709개 중 367개를 복구했다고 밝혔다. 복구율은 51.8%다.&lt;br&gt;&lt;br&gt;정부가 이날 새롭게 복구한 시스템에는 1365자원봉사포털, 정부OTP발급시스템 등 10개가 포함됐다.&lt;br&gt;&lt;br&gt;앞서 정부는 전날 오후 9시 기준 시스템 357개를 복구해, 지난달 26일 화재 발생 이후 21일 만에 처음 복구율 50%를 넘겼다. 이날 10개 시스템을 추가로 복구해 복구율을 1.4%포인트 끌어올렸다.&lt;br&gt;&lt;br&gt;정부는 이달 말까지 1·2등급 시스템 복구를 완료하고, 다음 달 20일까지는 나머지 미복구 시스템을 재가동한다는 방침이다. 다만 대구센터로 이전한다고 발표한 20개 시스템은 정확한 복구 시점이 정해지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검 “통일교 자금으로 한학자 5억대 명품·귀금속 구입” 적시</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/18/OR7CBCUKPVGIZF2HCZ5VNX6GBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/18/OR7CBCUKPVGIZF2HCZ5VNX6GBA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 08:52:03 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 한학자 통일교 총재가 개인적인 목적으로 명품과 보석을 구입하기 위해 교단 자금 5억원 상당을 횡령한 정황을 포착했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAKE43UZ375R2SCIIOJK3KUIDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치 자금 제공 혐의를 받는 한학자 통일교 총재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 본지가 입수한 한 총재의 공소장에 따르면, 특검은 한 총재를 업무상 횡령, 정치자금법 위반 등 혐의로 기소하면서 이 같은 내용을 적시했다.&lt;br&gt;&lt;br&gt;특검에 따르면, 정원주 전 총재 비서실장은 2022년 5월 윤영호 전 통일교 세계본부장의 배우자 이모씨에게 “한 총재에게 줄 브로치·귀걸이 비용 4억2000만원을 S보석에 지급하라”고 지시했다. &lt;br&gt;&lt;br&gt;통일교 재정관리국장을 맡고 있었던 이씨는 이를 일단 개인 돈으로 결제한 뒤, 통일교 행사비인 것처럼 증빙 자료를 제출해 교단 자금으로 비용을 돌려받았다. 이씨는 2022년 8월~2023년 5월 개인 식비나 의료비 영수증 등을 통일교 관련 비용으로 꾸며 처리하는 방식으로, 통일교 자금 약 5억3400만원을 챙긴 것으로 나타났다.&lt;br&gt;&lt;br&gt;한편 특검은 통일교가 윤석열 당시 국민의힘 대선 후보를 지원하기 위해 2022년 3~4월 국민의힘의 17개 광역시도당에 이른바 ‘쪼개기 후원금’을 지급하기로 협의했다고 봤다. 특히 윤 전 본부장이 산하 지구장들에게 윤 전 대통령에 대한 후원을 지시한 뒤, 총 2억1000만원을 선교 지원비 명목으로 내려보냈다고 판단했다. 이에 지구장들은 국민의힘 의원들을 만나 지지 의사를 드러내고 후원금을 쪼개 약 1억4400만원을 전달했다는 것이다.&lt;br&gt;&lt;br&gt;특검은 2022년 11월 ‘건진법사’ 전성배씨로부터 이듬해 국민의힘 당대표 선거에서 특정 후보를 돕기 위해 교인들을 입당시켜달라는 요청이 들어오자, 통일교가 조직·재정을 이용해 윤 전 대통령 등을 지원하기로 결정했다고 봤다.&lt;br&gt;&lt;br&gt;또한 특검은 한 총재 등이 1271만원 상당의 샤넬 가방과 6220만원 상당의 그라프 목걸이 등 총 8293만원을 교단 자금으로 구입해 김 여사 선물용으로 사용했다고 봤다. 이 밖에 김 여사에게 전달된 것으로 추정되는 802만원 상당의 샤넬 가방과 천수삼 농축차 1개도 통일교 자금으로 마련된 것으로 파악했다. 특검은 통일교가 한 총재의 종교적 영향력을 확대하고 각종 지원을 요청하기 위해 이같이 고가의 물품을 건넨 것으로 판단했다.&lt;br&gt;&lt;br&gt;아울러 통일교가 신도 헌금을 조성한 ‘천승기금’ 일부를 회계에 잡지 않고 현금으로 인출해 한 총재에게 상납했다는 게 특검의 시각이다. 해외 신도들이 천정궁 등 건축 자금을 위해 보낸 헌금 일부도 한 총재에게 전달되거나 정 전 실장의 개인 용도로 쓰였으며, 이 과정에서 약 5억원이 횡령된 것으로 파악됐다. 이씨가 허위 해외 목회자 명단을 만들어 ‘선교 활동비’ 결의서를 꾸미고, 이 명목으로 69만달러(약 9억원)를 조성해 정 전 실장에게 전달한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“음악 시끄러워” 흉기 들고 초등학교 들어가려 한 30대 남성 체포</title>
       <link>https://www.chosun.com/national/national_general/2025/10/18/TJA6URFFS5HPHFWP4RVZFQCKEA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/TJA6URFFS5HPHFWP4RVZFQCKEA/</guid>
@@ -891,15 +909,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMWYMZNFCRP2DLC7VN6D4WNDPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 언론사 단전·단수를 지시한 혐의로 구속기소된 이상민 전 행정안전부 장관이 17일 오전 서울 서초구 서울중앙지방법원에서 열린 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 당시 언론사 단전·단수 지시를 내린 혐의 등으로 구속 기소된 이상민 전 행정안전부 장관 측이 17일 첫 재판에서 혐의를 전부 부인했다. 17일 서울중앙지법 형사32부(재판장 류경진)는 이 전 장관의 내란 중요임무 종사·직권남용·위증 혐의 재판을 열었다. 재판부가 내란 특검의 중계 신청을 허가하면서 이날 재판은 녹화 중계됐다. &lt;br&gt;&lt;br&gt;이 전 장관은 흰 와이셔츠에 짙은 남색 양복 차림으로 법정에 출석했다. 살이 빠져 수척해진 모습으로 왼쪽 가슴엔 수영번호 ‘52’가 적힌 명찰을 달았다. 재판부가 생년월일과 직업을 묻자 “1965년 5월 25일, 바로 직전까지 변호사였다”고 답했다. &lt;br&gt;&lt;br&gt;피고인 인적 사항을 확인하는 인정신문이 끝난 뒤 특검은 언론사 단전·단수 지시와 헌법재판소 위증 등 공소 사실을 설명했다. 특검은 “이 전 장관은 12·3 비상계엄 당시 시간대별 봉쇄계획에 따라 특정 언론사에 대한 단전·단수를 지시함으로써 내란 중요임무에 종사했고, 행정안전부 장관이라는 직권을 남용해 소방청 직원들에 대한 언론사 단전·단수를 준비하게 해 의무 없는 일을 하게 했다”고 했다. 또 “이를 은폐하기 위해 헌재의 윤 전 대통령 탄핵심판에서 거짓 증언을 했다”며 “그 결과 상당 기간 국민들 앞에 진상이 제대로 규명되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관 변호인은 “윤석열 전 대통령과 비상계엄을 모의한 적 없고 사전에 알지도 못했다”고 반박했다. 작년 12월 3일 오후 대통령 집무실에서 처음 비상계엄 선포 계획을 들은 뒤 다른 국무위원들이 있는 자리에서 “정무적으로 부담이 되고 국민들의 동의를 받을 수 없다”며 반대 의견을 명확히 피력했다는 것이다. &lt;br&gt;&lt;br&gt;이후 허석곤 당시 소방청장에게 전화한 것에 대해선 “대통령 집무실에서 소방청 관련 문건을 봤는데, 거기 기재된 일이 곧 벌어질 수 있다고 생각해 내용을 전달한 것”이라고 했다. 이어 “문건에 기재된 상황이 벌어졌을 때 누군가의 지시가 있더라도 안전에 유의하고, 필요하면 경찰과 협력하라고 한 것”이라며 “이 전 장관은 ‘이태원 참사’를 경험한 적 있어 시민 안전과 관련된 상황에 걱정이 앞섰다”고 했다. 소방청장에게 단전·단수 관련 내용을 전달한 것은 사실이지만 윤 전 대통령의 계엄에 동조하고 국헌을 문란하게 하기 위해 단전·단전 지시를 한 것은 아니라는 것이다. &lt;br&gt;&lt;br&gt;직권남용 혐의에 대해선 “행안부 장관은 경찰청과 소방청을 소속청으로 두고 있을 뿐 구체적인 지시·지휘를 하지 않는다”고 했다. 일반적 직무권한이 없기 때문에 ‘직권남용’ 구성요건이 성립하지 않는다는 취지다. &lt;br&gt;&lt;br&gt;재판부는 오는 24일 다음 재판을 열고 이 전 장관의 운전비서관 등 증인 4명을 부르기로 했다. 이 전 장관의 비상계엄 선포 당일 행적을 확인한 뒤 소방청장 등에 대한 지시 내용을 살펴볼 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캄보디아 다녀온 50대, 죄책감에 자수... “사람 태우는 소각장 있어”</title>
-      <link>https://www.chosun.com/national/incident/2025/10/17/MFOCNGVZINFLBK5QTMQKCWDR4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/17/MFOCNGVZINFLBK5QTMQKCWDR4I/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 02:33:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 현지 범죄 조직에 돈을 받고 통장을 빌려준 50대 남성이 경찰에 자수했다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 사기 방조 등 혐의로 50대 남성 A씨를 입건했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 15일 해운대경찰서를 찾아 “최근 3차례 캄보디아를 다녀왔고, 범죄 조직에 통장을 빌려줬다”고 자수했다.&lt;br&gt;&lt;br&gt;신용 불량자이자 기초 생활 수급자였던 A씨는 대포통장 모집책에게서 텔레그램을 통해 통장을 며칠 빌려주면 대가로 1200만원을 벌 수 있다는 제안을 받았다. 이후 그는 지난 7~9월 세 차례에 걸쳐 ‘웬치’라고 불리는 캄보디아 범죄 조직을 방문했다고 한다.&lt;br&gt;&lt;br&gt;A씨는 통장과 여권, 온라인 자산 안전 장치인 OTP를 조직원인 조선족에게 건넸다. 당시 그의 통장에는 범죄 자금 3500만원이 입금됐지만 중간에 지급 정지가 되면서 1200만원이 출금되지 못했고, A씨가 조직원들에게 보수를 강력히 요구하자 돌려보내 줬다. &lt;br&gt;&lt;br&gt;한국에 온 A씨는 약속했던 보수를 달라고 조직원에게 계속 압박했고 돈을 주겠다는 말에 캄보디아로 가서 300~400달러만을 받고 나왔다. 이후 통장을 한 번 더 개설해 주면 추가 보수를 준다는 연락을 받고 한 번 더 캄보디아에 갔지만, 결국 돈은 받지 못하고 돌아왔다고 한다.&lt;br&gt;&lt;br&gt;A씨는 언론에서 “대부분의 사람들은 장집에게 속아 캄보디아에 가게 된 것”이라며 “2명이 죽었다고 보도됐는데 실제로는 50명, 100명이 넘을 것이라고 생각한다. (범죄 단지에) 사람 태우는 소각장이 있다”고도 했다.&lt;br&gt;&lt;br&gt;해운대경찰서 관계자는 “A씨가 추가 범죄 피해를 막고자 자수했다고 진술했다. 현재 그의 통장 거래 내역과 출입국 기록은 확인된 상태”라면서 “전담 부서인 부산경찰청 반부패경제범죄수사대로 사건을 이관했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>의정부 중랑천서 실종 중학생 추정 시신 발견... 신원 확인 중 </title>
       <link>https://www.chosun.com/national/incident/2025/10/17/OQUF5FW4DVARVLJVMF6BEJHK7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/17/OQUF5FW4DVARVLJVMF6BEJHK7M/</guid>
@@ -934,15 +943,6 @@
       <description/>
       <pubDate>Fri, 17 Oct 2025 01:01:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6MEXJUYKFFPRCFN6KUXRJNRXQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;백세희 작가/한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;책 ‘죽고 싶지만 떡볶이는 먹고 싶어’를 쓴 백세희(35) 작가가 별세했다. 백씨는 장기기증으로 5명의 생명을 살리고 세상을 떠났다.&lt;br&gt;&lt;br&gt;17일 한국장기조직기증원은 백씨가 지난 16일 뇌사 장기기증으로 심장, 폐장, 간장, 신장(양측)을 기증하고 숨졌다고 밝혔다.&lt;br&gt;&lt;br&gt;백씨는 우울증을 진단받고 담당의와 진행한 상담 이야기를 녹여낸 ‘죽고 싶지만 떡볶이는 먹고 싶어’라는 책으로 큰 사랑을 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원장 후보 vs 전직 감사원장… 최태원·노소영 변호인단도 거물급 </title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/KAGYJKYHGFHQ5GZOFHZCWGZMBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/KAGYJKYHGFHQ5GZOFHZCWGZMBA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 16 Oct 2025 15:55:00 +0000</pubDate>
-      <content:encoded>최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼소송은 ‘세기의 이혼’이라고 불렸던 만큼, 엘리트 판사 출신 변호사들의 맞대결로도 관심을 모았다. 두 사람 이혼소송에는 대법원 선임·수석 재판연구관을 모두 거친 거물급 변호사 4명이 참여했다. 판사 시절 대법관감으로 거론됐던 이들이 법정에서 치열한 법리 싸움을 벌인 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCQYIZYL55CULADIFHLJK4YXMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍승면, 최재형&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1심에서 사실상 패소한 분위기였던 노 관장 측은 기존 변호인단을 사임시키고, 서울고법 부장판사와 전주지법원장을 지낸 한승 변호사를 항소심 새 변호인으로 선임했다. 한 변호사는 사법연수원을 수석으로 수료하고, 법리에 뛰어난 판사들이 맡는다는 대법원 선임·수석 재판연구관을 모두 지냈다. 대법원에 올라온 사건의 쟁점 등을 정리한 보고서를 대법관들에게 올리는 재판연구관들을 총괄 지휘하는 사람이 수석 재판연구관이다. 이에 최 회장 측도 선임·수석 재판연구관을 모두 지낸 김현석·유해용 변호사를 선임해 맞섰다. 두 사람 모두 서울고법 부장판사 등을 &lt;b&gt; 지냈다.&lt;/b&gt; 재판부는 최 회장이 노 관장에게 위자료 20억원과 재산 분할금으로 1조3808억원을 지급해야 한다고 판결했다. 법조계에선 사실상 노 관장 측의 승리였다는 평가가 나왔다. &lt;br&gt;&lt;br&gt;대법원 상고심에선 또 다른 거물급 변호사들의 한판 승부가 펼쳐졌다. 최 회장 측은 한때 대법원장 후보로 꼽히던 홍승면 변호사를 새로 선임했다. 대입 학력고사 전국 수석을 한 홍 변호사는 사법연수원을 수석으로 수료했고, 대법원 선임·수석 재판연구관, 서울고법 부장판사 등을 지냈다. 이에 노 관장 측은 서울가정법원장과 사법연수원장, 감사원장 등을 지낸 최재형 변호사를 선임해 맞대응했다. &lt;br&gt;&lt;br&gt;16일 대법원이 원심을 일부 파기하고 사건을 서울고법으로 돌려보내면서, 법조계에선 두 사람의 파기환송심 대응을 누가 하게 될지 관심이 집중되고 있다. 한 법조인은 “파기환송심에서도 쟁쟁한 변호사들을 내세워 다시 한번 치열한 법리 싸움을 벌일 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;최·노 두 사람의 이혼소송 변호인단을 두고, 과거 현대산업개발과 한국중공업이 8년간 벌였던 한중 사옥·부지 소유권 소송이 떠오른다는 말도 나왔다. 당시 현대산업개발 측은 대법원장을 지낸 고 김덕주 변호사를, 한중 측은 대법관 출신 이회창 변호사를 내세워 맞붙었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 한판 붙은 IT 기업들… 토스 “카카오가 업무 방해해 고소”</title>
