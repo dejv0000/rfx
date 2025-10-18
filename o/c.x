@@ -13,6 +13,50 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독]양팔에 문신, 무릎 꿇은 채... “캄보디아 한인 청년 3명 구출” </title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/E2UHQPEGH5GUJA5474KGDJ4D5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/E2UHQPEGH5GUJA5474KGDJ4D5Y/</guid>
+      <dc:creator>프놈펜=이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 10:35:03 +0000</pubDate>
+      <content:encoded>김병주 더불어민주당 의원이 캄보디아 수도 프놈펜 시내의 한 범죄 단지에서 한국인 3명을 구출했다고 18일 밝혔다. 김 의원은 이들에 대해 “일용직으로 일했던 젊은이들로, 구인 공고나 지인의 소개 등을 믿고 캄보디아에 온 것으로 파악된다”고 했다. 하지만 이들은 범죄 단지에서 하루 11시간씩 로맨스 스캠 범죄에 가담한 것으로 전해져, “범죄자를 구해온 것 아니냐”는 지적도 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/INWM37EFWNCARNFTDPAV3PKKXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 김병주 더불어민주당 의원이 캄보디아 프놈펜 주캄보디아 한국대사관 앞에서 캄보디아에 감금됐던 한국 청년 3명 구출 경위에 대한 기자회견을 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원은 이날 프놈펜의 주캄보디아 한국 대사관 앞에서 기자회견을 열어 이같이 밝혔다. 김 의원은 지역구인 경기 남양주시 주민에게 “아들 정모씨가 실종됐다”는 연락을 받고 프놈펜을 직접 찾았다. 이후 프놈펜 시내의 범죄 단지에 갇혀 있던 정씨와 연락을 주고받아 위치를 특정했고, 현지 경찰에 긴급 출동을 요청해 정씨를 비롯한 20대 한국인 남성 3명을 구출했다고 한다.&lt;br&gt;&lt;br&gt;김 의원에 따르면 이들은 20여 명이 있는 사무실에서 로맨스 스캠 범죄에 가담했고, 오전 5시부터 오후 3시까지 피해자들과의 채팅 등 초기 접촉을 맡은 것으로 전해졌다. 이들은 이날 새벽 캄보디아에서 한국으로 추방된 한국인 64명처럼 추후 절차를 거쳐 한국으로 추방될 전망이다. &lt;br&gt;&lt;br&gt;경찰에 따르면 앞서 추방된 64명은 대부분 범죄 혐의가 파악된 피의자 신분이다. 김 의원이 구출했다는 3명 역시 로맨스 스캠 범죄 혐의가 적용될 것으로 보인다. “정씨 등이 결국 범죄에 몸담은 것 아니냐”는 질문에 대해 김 의원은 “일단 국민의 생명을 보호하고, 법적 책임은 추후에 묻는 것이 맞다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GOJWKLO55NBNJG4BDRJAWZBDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병주 더불어민주당 의원은 18일 캄보디아 수도 프놈펜에 감금됐던 정모씨 등 한국 청년 3명을 구출했다고 밝혔다. 본지는 캄보디아 경찰이 정씨를 구출하던 당시 사진을 입수했다. 무릎을 꿇고 있는 인물이 정씨. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지는 캄보디아 경찰의 현장 단속 당시 정씨가 체포되는 사진을 단독으로 입수했다. 당시 무릎을 꿇고 있던 정씨의 양팔에는 문신이 가득했다. &lt;br&gt;&lt;br&gt;김 의원에 따르면 정씨를 비롯, 이번에 구출된 이들의 캄보디아 입국 경로는 다양하다. 한 명은 “촬영 장비를 정비하면 한 달에 500만원의 월급을 받을 수 있다”는 구인 공고를 보고 왔고, 다른 한 명은 지난 3~6월 캄보디아 여행 당시 만나 알게 된 한국인의 소개를 통해 두 달 전쯤 캄보디아를 찾았다고 한다. &lt;br&gt;&lt;br&gt;김 의원은 이들에 대해 “한국에선 주로 일용직으로 일해온 것으로 알고 있다”고 했다. 그는 “사실 한국에 좋은 일자리가 많았다면, 한국 청년들이 캄보디아까지 오지 않았을 것이라는 생각도 들어 정치인으로서 미안한 마음이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JAGEZ55M7VGCRE53TOLARAZ3HA.jpg?auth=a0c0b873df7af6bc7638ea5e24167c7855b26e3bc7546251cd2a7f7c7c35c8d7&amp;smart=true&amp;width=1034&amp;height=582" type="image/jpeg" height="582" width="1034">
+        <media:description type="plain">18일 오후 캄보디아 프놈펜 주캄보디아 한국대사관 앞에서 김병주 더불어민주당 의원이 캄보디아에 감금됐던 한국 청년 3명 구출 등과 관련해 기자회견을 했다. 사진은 한국 청년 3명 중 1명. 2025.10.18 /독자제공</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>“비트코인·테더로 동문회비 받아요”… 가상 자산 납부 첫 도입한 대학</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/VRFO7QLVSVHFBCDAF6P6HZCIKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/VRFO7QLVSVHFBCDAF6P6HZCIKA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 12:59:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJSMTVO43USC4LWW6CAIVLLEBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 전경. /연세대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 총동문회가 가상 자산으로도 동문회비를 납부하는 시스템을 마련했다. &lt;br&gt;&lt;br&gt;14일 연세대 총동문회에 따르면, 동문회원은 동문회비와 특별회비를 기존의 신용카드, 지로 납부, 무통장 입금이나 계좌 이체 외에도 비트코인(BTC)과 테더(USDT), 유에스디코인(USDC)으로 납부할 수 있다. 국내 주요 대학 동문회 가운데 암호화폐로 회비를 받는 건 연세대 총동문회가 처음인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;총동문회는 가상 자산 납부 활성화를 위해 평생 회비를 비트코인 등으로 납부할 경우 회비의 10%를 할인해 주는 혜택을 제공한다. 가상 자산의 가격 기준은 국내 최대 거래소인 업비트의 전일 종가(UTC 기준)를 적용한다. &lt;br&gt;&lt;br&gt;외화 송금이 불편하다는 해외 동문 등 여러 의견을 수렴한 총동문회는 핀테크(금융 기술) 기업 웨이브릿지와 협업해 이 같은 납부 방식을 도입했다고 한다. 웨이브릿지로부터 회비로 받은 가상 자산의 원화 환전 및 회계 처리에 대한 전문적인 자문을 받아 시스템을 운영할 방침이다.&lt;br&gt;&lt;br&gt;총동문회는 지난 1일 동문들에게 새로운 납부 제도를 알렸고, 현재까지 5명 정도가 가상 자산으로 회비를 납부한 것으로 알려졌다. 총동문회 관계자는 “디지털 금융 환경 변화에 발맞춰 국내 동문회 최초(주요 10개 대학 자체 조사)로 가상 화폐 납부 방식을 도입하게 됐다”며 “국내외 동문이 좀 더 편리하게 회비를 납부할 수 있기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“인증샷 따라하다 추락사”… 설악산 1275봉, 사고 속출에 ‘출입 금지’</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/RBR7CMQCSVEXZKDRHZ552YD7O4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/RBR7CMQCSVEXZKDRHZ552YD7O4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 11:44:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7FPZB37KJEF5GOMMLZLDHAJEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;석양이 질 무렵 설악산 공룡능선의 모습. /설악산국립공원사무소 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설악산국립공원사무소가 비법정 탐방로인 ‘1275봉’에 대한 출입 자제를 당부하며 온라인상에서 관련 게시물 삭제까지 요청했다.&lt;br&gt;&lt;br&gt;18일 설악산국립공원사무소에 따르면, 최근 유튜브와 블로그 등 소셜미디어에 설악산 1275봉을 배경으로 한 사진과 등반 영상이 잇따라 게시되고 있다. 1275봉은 설악산 내에서도 지형이 험준한 공룡 능선 한가운데 우뚝 솟은 바위 봉우리로, 설악산 절경이 한눈에 보여 등산 애호가 사이 숨은 명소로 입소문이 났다. &lt;br&gt;&lt;br&gt;하지만 공단이나 지자체가 공식적으로 지정·고시하지 않은 비공식 코스다. 등반 시 자연공원법에 따라 최대 50만원의 과태료를 물 수 있다. &lt;br&gt;&lt;br&gt;실제 단속에는 어려움이 있어 일부 등산객이 사고 위험이 큰 1275봉을 등반하는 사례가 꾸준히 발생한 것으로 알려졌다. 실제 사건·사고도 이어진 바 있다. 작년 6월엔 30대 등산객이 낙상으로 무릎과 얼굴을 다쳐 병원으로 이송됐으며, 2010년 8월엔 절벽 아래로 추락해 숨지는 일이 벌어지기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EUXK5BIO3ZFTVPZY7LJ4EUVETU.png"&gt;&lt;figcaption&gt;&lt;small&gt;설악산 공식 소셜미디어 계정에 올라온 1275봉 출입 금지 공지. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;반복된 주의 요청에도 크고 작은 사고가 반복되자, 설악산국립공원사무소는 소셜미디어를 통해 설악산 1275봉 ‘출입 금지’를 공지했다. “설악산 1275봉은 ‘좋아요’의 무대가 아닌, 출입 통제 구역이다. 인증샷이 아닌, 보호가 필요한 곳”이라고 했다. 아울러 “최근 1275봉에서 소셜미디어 인증샷을 따라 하다 추락해 숨지는 사고가 발생했다”며 “해당 지점은 출입이 통제된 구간으로, 사진 촬영을 위한 접근은 매우 위험하다”고 했다. &lt;br&gt;&lt;br&gt;온라인상에서 관련 게시물 삭제를 요청하기도 했다. 모방 접근을 예방하기 위해서다. 사무소 측은 “더 이상의 모방 접근과 2차 사고를 예방하기 위해 1275봉 관련 게시물(사진·영상 등)을 모두 삭제해 달라”고 했다. 또 “1275봉은 자연 생태계와 지형 보호를 위해 출입이 금지된 구역”이라며 “바위가 미끄럽고 급경사로 추락과 낙석 등 안전사고 위험이 매우 높다”고 했다. &lt;br&gt;&lt;br&gt;사무소 측은 사고를 방지하기 위해 인근에 비법정 탐방로임을 안내하는 표지판을 확대 설치할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평 골프장에서 작업용 카트 추락해 근로자 2명 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/18/WQMUBGXTVJDYTOJRDGJW3PM4CA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/WQMUBGXTVJDYTOJRDGJW3PM4CA/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 18 Oct 2025 10:47:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 가평군의 한 골프장 도로에서 작업용 카트가 추락해 근로자 2명이 숨졌다.&lt;br&gt;&lt;br&gt;18일 소방 당국에 따르면 이날 오후 1시쯤 경기 가평군 상면 대보리의 한 골프장 도로를 달리던 작업용 카트가 약 5m 아래 굴다리로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 카트 운전자 70대 남성 A씨와 동승자 70대 남성 B씨가 심정지 상태로 병원에 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;이들이 카트를 타고 언덕길을 오르던 중 사고가 난 것으로 전해졌다. 경찰은 이들을 골프장 외주업체 소속 근로자로 파악했다. 경찰은 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
+        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>국가정보자원관리원 시스템 367개 복구 완료…복구율 51.8%</title>
       <link>https://www.chosun.com/national/national_general/2025/10/18/7L5P3BRILBBBRLSGHF4JTUNZWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/7L5P3BRILBBBRLSGHF4JTUNZWY/</guid>
@@ -873,33 +917,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRW2J7JIDRNTPNQLNIOXANBMD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한복상가를 찾은 시민들이 한복을 살펴보고 있다. 기사와 관련 없음./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추석 연휴 기간 어린이 한복을 구매했다가 연휴가 끝나자마자 반품하는 사례가 잇따랐다. 쿠팡 ‘와우’ 회원의 30일 이내 무료 반품·교환 정책을 사실상 대여처럼 악용한다는 지적이 나온다.&lt;br&gt;&lt;br&gt;쿠팡 직원이라고 밝힌 작성자 A씨는 15일 소셜미디어 ‘스레드’에 “쿠팡 반품센터는 아이들 한복 대여숍이다. 반품 검수하면서 한복만 100번 넘게 접었다”고 적었다. 이 글은 각종 온라인 커뮤니티로 널리 퍼지며 논란이 됐다.&lt;br&gt;&lt;br&gt;실제 17일 기준 쿠팡 반품 마켓의 ‘패션 잡화 인기 브랜드 할인’ 페이지를 보면, 총 183개 상품 중 26개가 한복·한복 액세서리였다. 일부 중복을 감안해도 카테고리 내 비중이 적지 않다. &lt;br&gt;&lt;br&gt;이처럼 매년 명절 뒤 시즌성 상품의 ‘고의 반품’ 사례는 반복돼 오고 있다. 연휴 직전 한복을 구입해 아이에게 입힌 뒤, 명절이 지나면 무료 반품으로 사실상 무상 대여를 하는 것이다.&lt;br&gt;&lt;br&gt;지난해 추석 직후에도 비슷한 글이 공유됐다. 쿠팡 배송 업무를 했다는 B씨는 SNS에 “인간들 정말 양아치다. 쿠팡은 연휴에도 배송하니까 전날 주문해 추석 당일 아이들 한복 하루 입히고 다시 포장해서 오후에 반품 요청한다”고 했다. 한복 외에도 연주회·행사용 아동 드레스·액세서리 등이 잦은 반품 대상으로 꼽힌다.&lt;br&gt;&lt;br&gt;일부 블랙 컨슈머의 제도 악용이 결국 일반 소비자에게 부담으로 전가될 수 있다는 지적도 나온다. 무료 반품 남용이 멤버십 요금 인상이나 서비스 제한으로 이어질 가능성도 배제하기 어렵기 때문이다.&lt;br&gt;&lt;br&gt;이커머스 기업들은 반품 검수 강화와 악성 소비자 관리에 나서고 있다. 쿠팡은 반품 서비스를 반복적으로 악용하는 고객에 대해서는 판매자가 판매를 거부해도 불이익을 주지 않는 정책을 시행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>당신이 말기 암 환자라면?… 10명 중 9명 “연명 치료 안 한다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/17/UUVBU3IBCBCCPJJWOSS6IGYVJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/17/UUVBU3IBCBCCPJJWOSS6IGYVJA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 06:24:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I3ZXUYQUZ5H6RBYRMJTI657EVQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;기사 내용과는 무관한 사진. /게티이미지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당신이 더 이상의 치료가 무의미한 말기 암 환자라면 어떤 선택을 할까. 이 같은 질문에 성인 8%만이 연명 의료를 지속하겠다고 답했다. 나머지는 연명 의료 중단, 안락사, 의사 조력 자살을 원했다.&lt;br&gt;&lt;br&gt;17일 한국호스피스·완화의료학회에 따르면 성누가병원 김수정·신명섭 연구팀과 허대석 서울대 명예교수는 이런 내용의 설문조사를 토대로 한 논문을 대한의학회지(JKMS) 최신 호에 발표했다. 설문은 전국 성인 1000명을 대상으로 진행했다.&lt;br&gt;&lt;br&gt;‘본인이 말기 암 환자라면 어떤 결정을 하겠는가’라는 질문에 응답자 중 41.3%가 ‘연명 의료 중단 등 결정’을 택했다. 무의미한 생명 연장을 목적으로 하는 의료 행위를 시작하지 않거나 중단하는 결정을 뜻한다. 인위적으로 생명을 단축·연장하지 않고 자연스럽게 죽음을 맞겠다는 것이다.&lt;br&gt;&lt;br&gt;‘안락사’라고 답한 응답자는 35.5%였고 ‘의사 조력 자살’은 15.4%의 응답률을 보였다. 두 경우 모두 의사가 환자 요청에 따라 죽음을 유도하는 약물을 처방하는 방식이다. 다만 안락사는 의사가 직접 약물을 투여하고, 의사 조력 자살은 환자 스스로 처방받은 약물을 복용한다는 차이가 있다.&lt;br&gt;&lt;br&gt;연명 의료를 지속하겠다는 응답은 7.8%에 그쳤다. 연구팀은 “국민 다수는 삶을 인위적으로 단축하는 것을 원하지 않았다”며 “무의미한 연명 치료로 인한 고통의 연장을 거부하는 것으로 나타났다”고 설명했다.&lt;br&gt;&lt;br&gt;한편 연구팀은 한국 사회가 여전히 ‘연명 의료 중단 등 결정’ ‘안락사’ ‘의사 조력 자살’ 등 용어 개념을 혼동하고 있다고 짚었다. 특히 ‘존엄사’(death with dignity)라는 주관적 용어가 다양한 의료 행위를 구분하지 못해 혼란을 야기한다고 지적했다.&lt;br&gt;&lt;br&gt;연구팀은 “존엄사라는 표현이 따뜻하게 들리지만 실제 의료 행위의 법적·윤리적 구분을 흐리게 한다”며 “기존 여론조사 결과를 왜곡할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>금값 폭등에 소비자경보 발령…“국내 금값이 13% 더 비싸”</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/17/YG55EPJWFFAN7NJHEMR7QWPDQQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/17/YG55EPJWFFAN7NJHEMR7QWPDQQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 05:29:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMUMIRR56VJLXIF5MVX6EYRAM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 서울 종로구 한국금거래소 종로본점에 놓인 전시용 골드바. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;금 가격이 천정부지로 치솟고 있는 가운데 국내 금 가격과 국제 금 가격의 괴리율이 커지자 금융감독원이 17일 소비자 경보를 발령했다. &lt;br&gt;&lt;br&gt;17일 금감원에 따르면 전날 기준 국내 금 가격은 국제 금 가격을 13.2%(괴리율) 상회했다. 연초 대비 국내 금 현물 가격은 그램당 21만8000원으로 69.3% 상승했지만 국제 금 현물 가격은 원화 환산 19만3000원으로 53.4% 상승하는데 그쳤다.&lt;br&gt;&lt;br&gt;국내 금 가격은 제한적 수급 요인, 정보 불완전성 등 다양한 요인에 의해 일시적으로 국제 금 가격과 괴리가 발생할 수 있다.&lt;br&gt;&lt;br&gt;하지만 금감원은 일물일가(동일한 상품이 완전경쟁 시장에서 하나의 고정된 가격으로 거래된다는 이론)의 법칙에 의해 국내 금 가격과 국제 금 가격은 결국 수렴할 수밖에 없는 구조라고 설명했다. &lt;br&gt;&lt;br&gt;올 2월에도 국내 금 가격과 국제 금 가격의 괴리율이 22.6%까지 치솟았으나 이후 18영업일 동안 하락 조정을 통해 평균 괴리율인 0.7%로 회귀했다. 최근 5년간 괴리율이 10%를 초과한 기간은 단 두 차례밖에 없었다. &lt;br&gt;&lt;br&gt;금감원은 “금 투자 상품의 기초 자산이 국내 금 가격을 추종하는지, 국제 금 가격을 추종하는지 확인해야 한다”며 “국내 금 가격은 평균적으로 국제 금 가격에 수렴하게 된다는 것을 명심해야 한다”고 했다. &lt;br&gt;&lt;br&gt;금 가격은 한국거래소 정보데이터시스템과 각 증권사의 모바일 트레이딩 시스템(MTS) 등을 통해 조회할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘붓으로 일으킨 한글 혁명’… 푸른돌 송하진 작가 서예 전시</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/10/17/OYY4VCYCCNBXNOALX36GXOVTL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/10/17/OYY4VCYCCNBXNOALX36GXOVTL4/</guid>
-      <dc:creator>김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 05:07:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6DTWEDPHW4TJOQEOABCE6RP2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송하진 전 전북지사./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국 서예의 주인은 한글이 되어야 한다.”&lt;br&gt;&lt;br&gt;전북도지사를 역임하고 서예가로 변신한 푸른돌(翠石·취석) 송하진(73) 작가는 한글의 멋을 담은 조형 서예를 통해 다양한 실험을 하고 있다. 그는 “어순대로 왼쪽에서 오른쪽으로 써야 한다. 과거 필법에 얽매이지 말고 거침없이 써야 한다”며 한국 서예계에 묵직한 화두를 던졌다. &lt;br&gt;&lt;br&gt;세종특별자치시가 정부 지정 ‘한글문화도시’의 의미를 되새기는 특별 기획전으로 그의 작품 60여 점을 초청했다. ‘한글의 멋을 담은 K-서예’를 주제로 22일부터 다음 달 2일까지 정부세종청사 박연문화관 1층에서 전시가 열린다. 전통의 뿌리 위에서 K-서예의 미래를 모색하는 그의 파격적인 작품들이 한글의 도시 세종에서 어떤 울림을 줄지 주목된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JOJRPG5ANFEBND7NQHNOV4PKLQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;송하진 작가 한글 서예 작품./세종시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송하진 작가는 한말의 대유학자 유재 송기면 선생을 조부로, 현대 서예의 대가 강암 송성용 선생을 부친으로 둔 서예 명문가 출신이다. 어려서부터 한학과 서예를 자연스럽게 익힐 수 있는 가정환경에서 자랐다. 생활처럼 작품을 해 와 5000여 점의 현판, 비석, 액자, 족자, 제호 등을 남겼다. ‘눈에 젖고 귀에 물들 듯’ 자연스럽게 붓을 익힌 ‘목유이염(目濡耳染)’의 작가로 불린다.&lt;br&gt;&lt;br&gt;그는 대중과 멀어지는 서예의 현실을 안타까워하며 ‘변혁’을 강조한다. 그는 “우리 국민 모두가 즐겨 쓰는 자랑스러운 모국어(한글)가 있는데, 어디에서 한국 서예의 정체성을 찾을 것인가”라고 반문하며, 한자 중심의 서예계에 근본적인 질문을 던진다. 전통적인 세로쓰기 대신 한글 어순에 맞는 가로쓰기를 주장하고, 옛 필법에 얽매이기보다 작가의 사유를 자유롭게 펼치는 조형 예술로서의 서예를 역설한다.&lt;br&gt;&lt;br&gt;이런 그의 서예 철학은 지난해 서울과 전주에서 두 달간 열린 ‘거침없이 쓴다-푸른돌 송하진 초대전’에서 잘 드러났다. 당시 인문학적 소양을 바탕으로 자유분방한 필세와 활기찬 필력의 조형 작품으로 크게 주목받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHZEKC52ZJGI3N6BIZ4NXRP4FE.png"&gt;&lt;figcaption&gt;&lt;small&gt;송하진 작가 한글 서예 작품./세종시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그의 한글 사랑과 서예 대중화에 대한 신념은 행정가 시절에도 빛을 발했다. 전주시장 재임 시 한옥마을에 한글 간판을 도입해 세계적 명소로 키웠고, 전북도지사 시절에는 세계서예전북비엔날레를 최고의 서예 축제로 성장시키고 비엔날레 전용 서예관을 건립했다. 최근 한글 서예가 국가무형유산에 등재되는 데 기여했으며, 현재는 유네스코 인류무형유산 등재 추진위원장을 맡아 K-서예의 세계화에 앞장서고 있다.&lt;br&gt;&lt;br&gt;장준석 미술 평론가는 그의 작품 세계에 대해 “한글 서예를 현대적 시각 예술로 변모시키려 노력하며, 붓의 운용과 먹의 성향을 깊이 이해해 맑음, 거침, 오묘함 등을 현대 조형적으로 조화롭게 표현한다”고 평했다. 특히 작품 ‘돌’에 대해서는 “글자이면서 그림이 되고 시가 되는, 시서화(詩書畵)가 공존하는 놀라운 현상”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AVJSZINLJZHO7NCCAYVRYKYHBA.png"&gt;&lt;figcaption&gt;&lt;small&gt;송하진 작가 한글 서예 작품./세종시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이상민 측 “尹에 계엄 반대… 소방청장에 ‘안전’ 당부”</title>
       <link>https://www.chosun.com/national/court_law/2025/10/17/GN23RM7TZRAF5EJ53TLZOGWDVU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/GN23RM7TZRAF5EJ53TLZOGWDVU/</guid>
@@ -925,15 +942,6 @@
       <description/>
       <pubDate>Fri, 17 Oct 2025 01:26:33 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PVV4K5ME5FN2FDOP5BF3LQ7P5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 오전 서울 종로구 정부서울청사 중앙재난안전실 서울상황센터에서 열린 '의사 집단행동 중앙재난안전대책본부 회의'에서 정은경 보건복지부 장관(중앙재난안전대책본부 제1차장)이 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작년 2월 전공의 집단 사직 이후 ‘심각’ 단계로 올라갔던 보건의료 위기 단계가 20일 0시부로 해제된다. 이에 따라 비상 진료 체계 역시 함께 해제된다. 의정 갈등으로 촉발된 ‘의료 대란’이 1년 8개월 만에 공식 종료되는 것이다.&lt;br&gt;&lt;br&gt;정은경 보건복지부 장관은 17일 오전 정부서울청사에서 의사 집단행동 중앙재난안전대책본부 회의를 열고 이같이 밝혔다. 정 장관은 “상급종합병원과 종합병원의 진료량이 비상 진료 이전인 평시 대비 95% 수준이고, 응급 의료 상황도 평시 수용능력을 거의 회복했다”며 “의료체계가 비교적 안정적으로 운영되고 있는 것으로 확인됐다”고 했다. &lt;br&gt;&lt;br&gt;위기 경보 해제에 따라 비상 진료 명목으로 이뤄졌던 조치들은 종료된다. 정부는 비상 진료 체계를 가동하며 응급실 진료 수가를 인상하고, 수련 병원에는 건강보험 급여를 선지급했다. 모든 의료기고나에서 초진, 재진 구분 없이 비대면 진료를 할 수 있도록 한시 허용하기도 했다. 정 장관은 “한시적으로 유지되던 수가는 종료하되 응급의료체계 유지 등의 효과가 있었던 일부 항목은 본 수가로 전환하도록 하겠다”며 “자원의 효율적 운영에 도움이 되는 것으로 평가된 진료지원 간호사, 비대면 진료, 입원 전담 전문의 등의 조치 제도화를 추진해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 회의에서 “지난 1년 8개월 동안 의정 갈등으로 인해 의료현장에서 불편 겪은 환자, 가족에게 위로와 사과를 드린다”며 “어려운 여건 속에서 환자 곁에서 생명 지켜주는 의료진, 119 구급대 등 공무원께 감사드린다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민중기 특검 수익 본 비상장주식, 김건희도 투자했던 종목이었다</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/G4RJVNXQWFDE5PTFSMEI4YGHPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/G4RJVNXQWFDE5PTFSMEI4YGHPA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 01:31:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LFP2IE72DJHN5DCPCCEJHRVW5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 2일 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막식을 가졌다./김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사가 비상장주에 투자한 후 상장 폐지 직전 팔아 억대 차익을 본 주식은 김 여사도 한때 투자했던 종목인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 민 특검이 보유했던 네오세미테크 주식은 김 여사도 한때 거래했던 종목으로 알려졌다. 해당 업체는 2010년 상장폐지된 태양광 소재업체로, 7000여 명의 소액투자자에게 피해를 안겨 ‘희대의 분식회계’로 이름을 알린 회사다. &lt;br&gt;&lt;br&gt;도이치모터스 주가조작 의혹을 수사한 특검은 김 여사를 상대로 해당 주식의 거래 경위에 대해서도 추궁한 바 있다. 특검은 여사가 2009년 네오세미테크 주식을 언급하며 “일단 오늘 공매도 하는 걸로 (나만) 먼저 받았다”고 말한 김 여사와 증권사 직원의 통화 녹취를 제시했던 것으로 알려졌다. 네오세미테크 주식 거래가 수사 대상은 아니지만, 과거 주식거래 사실을 근거로 “주식을 잘 모른다”는 김 여사 측 주장을 뒤집을 수 있다고 판단한 것이다.&lt;br&gt;&lt;br&gt;민 특검은 2010년 서울고법 부장판사로 재임할 당시 네오세미테크 비상장 주식을 상장 폐지 직전에 팔아 차익을 거뒀다. 지난 2011년 3월 민 특검이 신고한 공직자 재산 공개 내역에 따르면, 그는 2009년부터 태양광 소재 업체 네오세미테크 비상장 주식을 사들이기 시작해 이듬해 총 1만2036주를 팔아 1억5874만원의 수익을 올렸다.&lt;br&gt;&lt;br&gt;오명환 전 네오세미테크 대표는 가짜 세금계산서 발행과 분식회계를 한 혐의로 기소돼 2016년 6월 징역 11년형이 확정됐다. 오 전 대표가 민 특검과 대전고, 서울대 동기라는 사실이 알려지며 그가 미공개 정보를 이용해 막대한 수익을 거둔 것이 아니냐는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;특검은 이날 “민 특검은 2000년초 회사 관계자가 아닌 지인의 소개로 해당 회사에 3000~4000만원 가량 투자했다가 2010년쯤 증권사 직원의 권유로 이를 1억3000여만원에 매도했다”라고 해명했다. 오 전 대표가 아닌 다른 사람의 소개를 받아 해당 종목을 투자했다는 것이다. 또 매도액 규모에 대해서도 특검 관계자는 “1억5800여만원은 다른 보유주식 시가 변동분이 반영된 것으로, 매도액 자체는 1억3000여만원”이라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘죽고 싶지만 떡볶이는 먹고 싶어’ 작가 백세희 별세... 장기기증으로 5명에 새 삶</title>
