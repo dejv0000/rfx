@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“촌스럽다” 논란 지우고 개편… 경찰, 10년 만에 새 근무복 공개한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/ZN3GB4HFE5ERTPASCUC6CXLHRI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/ZN3GB4HFE5ERTPASCUC6CXLHRI/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Oct 2025 22:49:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDGJTN5OB5DHPIQZJP6TTPQUVY.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 외근점퍼 시제품 디자인/경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 창경 80주년을 맞이해 10년 만에 경찰복 디자인을 바꾼다. 새롭게 제작된 근무복 최종안은 오는 22일 공개된다. &lt;br&gt;&lt;br&gt;앞서 지난 8월 경찰은 경찰복제개선 품평회를 열어 디자인에 대한 현직 경찰관과 시민의 의견을 수렴했다. 지난 7월 온라인커뮤니티에 공개된 옅은 보라색∙회색 근무복 시제품을 두고 “권위가 느껴지지 않고 촌스럽다”고 논란이 불거진 데 따른 조치다. 품평회를 통해 색상∙디자인에 대한 평가를 받아 적극 반영했다. &lt;br&gt;&lt;br&gt;가장 크게 개편되는 건 외근용 점퍼다. 기존 회색에서 ‘폴리스네이비(police navy)’로 바뀐다. 폴리스네이비는 경찰이 현직 디자이너와 함께 제작한 일명 ‘경찰만의 색’으로 경찰의 상징성을 담아냈다. 남색보다 짙고 검은색보다는 밝아 무게감을 더했다고 경찰은 설명했다. &lt;br&gt;&lt;br&gt;이번 경찰복제 개선은 ‘밸런스’에 초점을 맞췄다. 외근용 점퍼가 남색으로 바뀐 이유도 여기에 있다. 경찰 근무복인 남색 바지와 회색 점퍼가 이질적이라는 의견이 많았기 때문이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5V4TGDGSCMQCCWWVS5FK645ZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 온라인커뮤니티에 공개된 신형 근무복 시제품 사진. 보라색 외근 점퍼를 두고 "권위가 전혀 느껴지지 않는다"는 반응이 오갔다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰모 디자인도 크게 바뀐다. 그간 경찰모에 대해서는 “모자 깊이가 낮고 흐물흐물하다”는 불만이 많았다고 한다. 이를 반영해 이번 경찰모는 깊이를 키우고 바닥에 둬도 꼿꼿하게 세워지게끔 만들어졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 변화는 복장이 단순한 근무복을 넘어 국민에게 신뢰와 권위를 전달하는 상징이 되길 바라는 취지에서 추진된 것”이라며 “새 디자인이 현장 경찰관들의 자부심을 높이고, 시민들로부터 보다 신뢰 있는 이미지를 얻는 계기가 되길 기대한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>너는 내 운명 “You’re the one”</title>
       <link>https://www.chosun.com/national/education/2025/10/21/FSATRT5BWZDKHDGHUFY6G44QVY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/21/FSATRT5BWZDKHDGHUFY6G44QVY/</guid>
@@ -1008,19 +1017,6 @@
       <description/>
       <pubDate>Sat, 18 Oct 2025 12:59:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WJSMTVO43USC4LWW6CAIVLLEBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대 전경. /연세대 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대 총동문회가 가상 자산으로도 동문회비를 납부하는 시스템을 마련했다. &lt;br&gt;&lt;br&gt;14일 연세대 총동문회에 따르면, 동문회원은 동문회비와 특별회비를 기존의 신용카드, 지로 납부, 무통장 입금이나 계좌 이체 외에도 비트코인(BTC)과 테더(USDT), 유에스디코인(USDC)으로 납부할 수 있다. 국내 주요 대학 동문회 가운데 암호화폐로 회비를 받는 건 연세대 총동문회가 처음인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;총동문회는 가상 자산 납부 활성화를 위해 평생 회비를 비트코인 등으로 납부할 경우 회비의 10%를 할인해 주는 혜택을 제공한다. 가상 자산의 가격 기준은 국내 최대 거래소인 업비트의 전일 종가(UTC 기준)를 적용한다. &lt;br&gt;&lt;br&gt;외화 송금이 불편하다는 해외 동문 등 여러 의견을 수렴한 총동문회는 핀테크(금융 기술) 기업 웨이브릿지와 협업해 이 같은 납부 방식을 도입했다고 한다. 웨이브릿지로부터 회비로 받은 가상 자산의 원화 환전 및 회계 처리에 대한 전문적인 자문을 받아 시스템을 운영할 방침이다.&lt;br&gt;&lt;br&gt;총동문회는 지난 1일 동문들에게 새로운 납부 제도를 알렸고, 현재까지 5명 정도가 가상 자산으로 회비를 납부한 것으로 알려졌다. 총동문회 관계자는 “디지털 금융 환경 변화에 발맞춰 국내 동문회 최초(주요 10개 대학 자체 조사)로 가상 화폐 납부 방식을 도입하게 됐다”며 “국내외 동문이 좀 더 편리하게 회비를 납부할 수 있기를 기대한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가평 골프장에서 작업용 카트 추락해 근로자 2명 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/18/WQMUBGXTVJDYTOJRDGJW3PM4CA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/18/WQMUBGXTVJDYTOJRDGJW3PM4CA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 18 Oct 2025 10:47:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 가평군의 한 골프장 도로에서 작업용 카트가 추락해 근로자 2명이 숨졌다.&lt;br&gt;&lt;br&gt;18일 소방 당국에 따르면 이날 오후 1시쯤 경기 가평군 상면 대보리의 한 골프장 도로를 달리던 작업용 카트가 약 5m 아래 굴다리로 추락했다.&lt;br&gt;&lt;br&gt;이 사고로 카트 운전자 70대 남성 A씨와 동승자 70대 남성 B씨가 심정지 상태로 병원에 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;이들이 카트를 타고 언덕길을 오르던 중 사고가 난 것으로 전해졌다. 경찰은 이들을 골프장 외주업체 소속 근로자로 파악했다. 경찰은 정확한 사고 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg?auth=19c6cdaf8b845e0d2bef2704881178da16df0bfcc9a62ad7e0ec99cfd4e0976c&amp;smart=true&amp;width=860&amp;height=484" type="image/jpeg" height="484" width="860">
-        <media:description type="plain">119 소방 로고. /연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
