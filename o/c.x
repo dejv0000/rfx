@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘SK오션플랜트 매각 추진’에 경남도·고성군 반대 목소리</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/20/GH65WV6NSRAJ5C433OLEWRMYZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/20/GH65WV6NSRAJ5C433OLEWRMYZ4/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Oct 2025 05:10:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AUNB7QDTYAZN7NECOQY3Z6GCOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 이상근 고성군수(가운데)가 경남도청에서 SK오션플랜트 지분 매각 추진에 반대하는 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 고성군에 있는 SK오션플랜트(옛 삼강엠앤티) 매각 추진 소식에 지역사회가 촉각을 곤두세우고 있다. 고성 지역 경제의 버팀목인 데다, 경남 제1호 기회발전특구 사업이 표류할 수 있다는 우려 때문이다. &lt;br&gt;&lt;br&gt;이상근 고성군수는 21일 경남도청에서 기자회견을 열고 “SK오션플랜트가 지역 경제에 미치는 영향을 면밀히 검토해 매각 결정을 전면 재고하거나 중단해 달라”고 촉구했다. &lt;br&gt;&lt;br&gt;경남도와 고성군에 따르면, SK오션플랜트는 지난달 1일 최대 주주인 SK에코플랜트 지분 매각 관련 우선협상대상자로 신생 사모펀드(PEF) 운용사 ‘디오션자산운용 컨소시엄’을 선정했다고 공시했다. 디오션자산운용은 STX그룹 강덕수 전 회장 등이 설립한 것으로 알려졌다. 모회사인 SK에코플랜트는 지난 2022년 9월 삼강엠앤티를 인수해 SK오션플랜트로 이름을 바꾼 지 1년 3개월 만에 다시 매각을 추진하는 것이다. &lt;br&gt;&lt;br&gt;이 군수는 “SK오션플랜트는 단순한 기업이 아니라 지역의 희망, 청년 일자리, 고성 미래를 상징하는 동반자”라며 “지역민 신뢰, 기대를 저버리는 졸속 매각은 절대 용납할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IMVWUAURW4W2ZQXME36WEP4H4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남 고성군 SK오션플랜트 야드에서 제작 중인 해상풍력 재킷. /SK오션플랜트&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고성군 동해면에 있는 SK오션플랜트는 720여 명을 직고용하는 고성군 내 가장 큰 사업장이다. 협력업체 직원 수도 30여 업체에 2000여 명에 이른다. 특히 양촌·용정일반산업단지 일원에 1조1530억원을 투자해 세계 최대 규모의 해상 풍력 하부 구조물 생산 기지를 구축 중인 앵커기업(선도기업)이다. &lt;br&gt;&lt;br&gt;해당 부지는 지난 6월 경남 제1호 기회발전특구로 지정돼 경남도와 고성군, 지역사회가 함께 산업 생태계 조성을 추진 중이다. 기회발전특구에 오는 기업에는 설비 투자와 고용 조건을 계획대로 충족할 경우 설비 투자액의 최대 30%까지 세제 혜택과 보조금이 제공된다. &lt;br&gt;&lt;br&gt;고성군은 SK오션플랜트 매각이 5000억원 이상 추가 투자가 필요한 기회발전특구 사업에 차질을 불러오면서 주민 불안, 고용 안정성 저하 등 지역 경제 침체를 우려하고 있다. 특구 해제 가능성도 배제할 수 없다.&lt;br&gt;&lt;br&gt;경남도도 이날 자료를 내고 “이번 매각이 현실화하면 현재 60% 공정률로 진행 중인 해상 풍력 기회발전특구 조성 사업에 차질을 빚을 뿐 아니라 지역 경제까지 위축될 우려가 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “고성 해상 풍력 산업은 경남의 미래 신성장 전략 산업의 핵심으로, 기업 경영상 판단이 지역 산업의 근간을 흔드는 결과를 초래해선 안 된다”며 “고성군, 관계 기관과 긴밀히 협의해 기회발전특구 사업을 계획대로 추진하고 지역 일자리, 산업 생태계가 보호되도록 적극 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, SK오션플랜트는 해상 풍력 하부 구조물, 해양 플랜트, 후육 강관, 조선, 선박 수리·개조를 영위하는 해상 풍력·조선·해양 전문 기업이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] ‘주식 거래 논란’에 입 연 민중기 특검 “죄송… 미공개정보 이용 등 위법 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/20/QJZCJLPVRJCN3FMESB4JHMYQ3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/20/QJZCJLPVRJCN3FMESB4JHMYQ3Q/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Oct 2025 04:40:06 +0000</pubDate>
+      <content:encoded>김건희 여사의 각종 의혹을 수사하는 민중기 특별검사가 과거 비상장 주식에 투자했다가 거래 정지 직전 매각해 1억여원의 차익을 거둔 것에 대해 “위법 사항이 없었다”며 20일 입장을 밝혔다. 해당 의혹과 관련해 민 특검이 직접 목소리를 낸 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5JQKOKTYL4IU6MX5L42GNTE4JY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 민중기 특별검사가 서울 서초구 사무실로 들어서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 언론 공지를 통해 민 특검의 개인 입장문을 배포했다. 입장문에서 민 특검은 “최근 특검과 관련한 사회적 논란에 대하여 말씀드리고자 한다. 먼저, (특검의 강압 수사를 주장한 뒤 목숨을 끊은) 고인의 명복을 빌고, 유족들께 깊은 애도의 말씀을 다시 한번 드린다”고 말문을 열었다. &lt;br&gt;&lt;br&gt;이어 자신의 주식 거래 의혹에 대해 결백하다는 입장을 밝혔다. 민 특검은 “저의 개인적인 주식 거래와 관련한 논란이 일게 되어 죄송하다”면서도 “다만 주식 취득과 매도 과정에서 미공개정보 이용 등 위법사항이 없었다는 점을 분명히 말씀드린다”고 적었다.&lt;br&gt;&lt;br&gt;민 특검은 이번 논란으로 특검 수사가 흔들려선 안 된다고도 덧붙였다. 그는 “15년 전 저의 개인적인 일로 인해 현재 진행 중인 특검 수사가 영향을 받아서는 안된다고 생각한다”며 “묵묵히 특별검사로서의 소임을 다 하겠다”라고 했다.&lt;br&gt;&lt;br&gt;민 특검은 2000년 태양광 소재업체 네오세미테크 주식을 1만주 매입했다가, 2010년 초순 네오세미테크가 상장 폐지되기 직전 당시 보유한 주식 전량(1만2036주)을 매각했다. 네오세미테크는 그해 3월 거래가 정지됐고, 회사 대표였던 오모씨는 분식회계 등 혐의로 징역형을 받았다. 민 특검이 결정적인 타이밍에 주식을 처분한 사실이 알려지면서 “내부 관계자가 민 특검에게 미공개정보를 귀띔해준 것 아니냐”는 의혹이 불거졌다. 오씨는 민 특검과 대전고·서울대 동기다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>평택시흥고속도로서 차량 5대 사고 발생...전차로 차단</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/20/7ZDSOJLR2ZHHZOJKCJA2ENP5MU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/20/7ZDSOJLR2ZHHZOJKCJA2ENP5MU/</guid>
+      <dc:creator>평택=김현수 기자, 평택=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 20 Oct 2025 05:04:19 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3DBMRVRDONABDUQCXW67DGANXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 낮 12시 22분쯤 경기 안산시 단원구 신길동 평택시흥고속도로 하행선 남안산IC 인근에서 차량 5대가 잇따라 부딪히는 사고가 났다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 피해 차량은 승용차 1대와 3.3t 화물차 1대, 2.5t 화물차 2대, 트레일러 1대 등이다.&lt;br&gt;&lt;br&gt;이 사고로 40대 여성 승용차 운전자와 60대 남성 2.5t 트럭 운전자 등 2명이 다쳐 병원으로 옮겨졌다. 구조 중인 1명을 포함해 인명피해는 추가 확인 중이다.&lt;br&gt;&lt;br&gt;소방당국은 이날 오후 12시 55분부터 순차적으로 부상자를 병원으로 이송했다. 이 과정에서 도로 통행에 차질이 빚어졌다. 경찰과 소방은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법원장들 “내란 전담 재판부, 위헌 소지… 대법관 증원, 신중 접근해야” </title>
       <link>https://www.chosun.com/national/court_law/2025/10/20/CK5EF6WGSZCNTHYF3RUQT46YYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/20/CK5EF6WGSZCNTHYF3RUQT46YYY/</guid>
@@ -555,33 +582,6 @@
       <description/>
       <pubDate>Sun, 19 Oct 2025 15:34:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TVELVRM7FHJJMDGMQP3U27TOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] point taken</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/20/VDXBJMIQJZGDDLZ4C7KVPKTMFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/20/VDXBJMIQJZGDDLZ4C7KVPKTMFE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 19 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RCSDKOZY5GH3AAK66HGXKZQ6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 무역풍(貿易風)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/20/MGJSUJA7FRAWNDCGOYTNLOLBM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/20/MGJSUJA7FRAWNDCGOYTNLOLBM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 19 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXG2UEWGOBD2TGFYXRRBUASPOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 인지도를 높이다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/20/OV3P72Q74RHJ7ERAXQUHQ3OXXY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/20/OV3P72Q74RHJ7ERAXQUHQ3OXXY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 19 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DDGSZYKI4JFJPPJQC4PSP6BDTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 2025년 10월 20일</title>
