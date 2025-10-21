@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>착한법 "민주당 대법관 증원안, 사법부 독립 침해 위헌 행위"</title>
+			<description>더불어민주당이 발표한 사법제도 개편안과 관련, 사단법인 착한법만드는사람들(이하 착한법)은 10월 21일 성명을 내고 “헌법상 권력분립의 원칙을 근본적으로 침해하는 행위”라고 지적했다. 착한법은 “본 법안은 현 대통령이 임기 중 대법관의 절대 다수를 임명할 수 있도록 함으로써 행정부와 입법부에 이어 사법부까지 장악하려는 의도를 드러내고 있다”고 주장했다.&lt;p&gt;&lt;br /&gt;10월 20일, 민주당 사법개혁 특별위원회가 발표한 사법제도 개편안에는 현재 14명인 대법관 수를 향후 3년간 매년 4명씩 증원해 총 26명으로 확대하고, 대법관추천위원회 구성을 10명에서 12명으로 늘리는 방안이 포함됐다. 이에 대해 착한법은 “이재명 대통령은 임기 중 최대 22명의 대법관(기존 대법관 10명 교체 + 신규 증원 12명)을 임명할 수 있게 된다”며 “이는 헌법에 위반되며 반드시 철회돼야 한다”고 했다. 그러면서 “사법부의 구성이 정치적 이해관계에 따라 급격히 변동될 경우, 사법부의 본질적 독립성이 심각하게 훼손된다”고도 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;착한법은 “대법관 12명 증원은 현행 제도상 약 100명의 중견 판사를 재판연구관으로 추가 파견해야 함을 의미한다”며 “이로 인해 하급심 재판의 지연과 부실 심리가 불가피해져, 국민이 신속하고 공정한 재판을 받을 권리가 침해될 우려가 크다”고 밝혔다. 끝으로 “사법개혁은 특정 정파의 이해관계를 위한 수단이 아니라, 국민의 권익과 정의 실현을 위한 방향으로 추진돼야 한다”고 했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 21 Oct 2025 07:47:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212435</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212435</guid>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>서울변회 "공정위 변호사단체 사무 개입 중단하라"</title>
+			<description>서울지방변호사회(이하 서울변회)가 공정거래위원회가 대한변호사협회(이하 변협)와 서울변회에 대해 공정거래법 위반 관련 사건 심사에 착수한 것에 대해 “변호사단체의 사무에 대한 개입을 중단하라”고 했다. 서울변회는 10월 21일 성명을 내고 “공정거래위원회는 대한변협과 서울변회에 대해 ‘사업자단체 금지 행위’ 위반 여부에 관한 사건 심사에 착수했음을 통지하고 소명 자료 제출을 요구했다”며 “일부 법무법인의 부적절한 행태에 대한 변호사단체의 징계, 변호사법 제76조에 따라 이들의 문제를 소비자에게 알리려는 행위가 공정거래법 적용 대상으로 판단됐다는 취지”라고 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;공정위의 이번 조치는 서울변회가 추진 중인 가칭 ‘사건 의뢰 시 주의해야 할 법무법인 지정 제도(이하 불량 로펌 지정제)’에 대해 문제를 제기한 것으로 해석된다. 서울변회는 9월 말 공정위로부터 관련 내용을 통지받았고, 변협도 네트워크·광고 주도형 로펌 관련 사안으로 공정위로부터 사건 심사 착수를 통지받은 것으로 알려졌다.&lt;/p&gt;   &lt;p&gt;&amp;nbsp; &lt;br /&gt;이에 대해 서울변회는 “현재 문제되고 있는 일부 법무법인의 부적절한 사무처리 관행은 ‘공정하고 자유로운 경쟁’이나 ‘소비자 보호’의 취지에 정면으로 배치된다”며 “공정거래법의 목적에 따라 소비자를 보호하기 위해서는 변호사법 제76조에 따른 변호사단체의 의무가 적극적으로 이행되어야 한다”고 반박했다. 이어 “공정거래위원회가 본연의 책무를 저버리고, 사회적 논란을 빚고 있는 일부 법무법인의 부적절한 영업행위를 감싸며 소비자의 피해를 외면한 본건 사건심사에 대해 규탄한다”며 “공정위는 직무범위를 넘어 변호사단체의 사무에 개입하는 행태에서 즉시 손을 뗄 것을 강력히 촉구한다”고 했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;서울변회는 헌법재판소 결정(&lt;b&gt;2021헌마169&lt;/b&gt;)과 서울고등법원 판결(&lt;b&gt;2023누43763&lt;/b&gt;)을 근거로 “변협과 서울변회는 변호사법에서 위임받은 업무를 수행하는 데 있어 공법인으로서 공권력 행사의 주체가 된다”며 “변호사단체의 징계와 정보제공의무 이행은 처음부터 공정거래위원회의 규제 대상이 될 수 없다”고 했다.&lt;/p&gt;   &lt;/p&gt;</description>
+			<pubDate>Tue, 21 Oct 2025 07:46:03 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212433</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212433</guid>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>조희대, 민주당 사법제도 개편안에 "공론화 과정에서 의견 내겠다"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212428.jpg" alt="435333.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;조희대 대법원장 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(사법연수원 13기) 대법원장이 더불어민주당의 ‘사법개혁안’에 대해 “공론화 과정에서 사법부 의견을 충분히 내도록 하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;조 대법원장은 10월 21일 출근길에 전날 발표된 민주당 사법개혁특별위원회(이하 사개특위) 사법제도 개편안에 대한 입장을 묻는 취재진의 질의에 이같이 답했다.&lt;br /&gt;&lt;br /&gt;‘민주당의 안에 따르면 재판부 간 옥상옥이 될 수 있다는 우려’에 대해서는 조 대법원장은 “내부적으로 충분히 더 논의해 보고 이야기해 드리겠다”고 말한 뒤 청사로 들어섰다. &lt;br /&gt;&lt;br /&gt;민주당 사개특위는 20일 대법관 증원과 하급심 판결문 공개 확대 등을 골자로 하는 5대 ‘사법개혁안’을 최종 확정해 발표했다. 확정판결에 대한 헌법소원도 별도로 추진하기로 했다. &lt;br /&gt;&lt;br /&gt;민주당 사개특위의 사법제도 개편안에는 현행 14명인 대법관 수를 26명으로 늘리는 방안을 담았다.&lt;br /&gt;&lt;br /&gt;대법관후보추천위원회 구성도 바뀌어 위원 수는 기존 10명에서 12명으로 늘어난다. 법원행정처장은 위원에서 제외되고, 헌법재판소 사무처장과 지방변호사회장 과반수가 추천하는 변호사 1명이 새로 포함되며, 기존 ‘대법관이 아닌 법관 1명’ 몫은 전국법관대표회의가 추천하는 법관 2명(여성 1명 포함)으로 변경된다. &lt;br /&gt;&lt;br /&gt;법관 근무 성적 평가 중 ‘자질 평정’ 부분에 대한변호사협회(지방변회 포함)의 법관 평가 결과를 반영하도록 한다.&lt;br /&gt;&lt;br /&gt;국민의 알 권리 확대를 위해 형사사건 1·2심 판결문을 확정 전이라도 전면적으로 열람하고 복사할 수 있도록 허용하고, 인권 보호 강화를 위해 판사가 압수수색 영장 발부 전 필요하다고 판단할 경우 관련자를 불러 대면 심문할 수 있는 절차도 함께 도입한다.&lt;br /&gt;&lt;br /&gt;법원 재판에 대해 헌법소원을 허용해 헌법재판소가 사법부 판결을 검토하는 ‘재판소원’ 도입에 대해서는 정청래 민주당 대표가 “당론 추진 절차를 밟아 본회의에 통과될 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;앞서 9월 3일 법원행정처는 사개특위에 낸 의견서에서 “대법관 수를 과다하게 증가시키는 개정안은 재판연구관 인력 등 대규모 사법 자원의 대법원 집중 투입으로 인해 사실심 약화의 큰 우려가 있다”며 사실상 반대하는 의견을 개진한 바 있다.</description>
 			<pubDate>Tue, 21 Oct 2025 04:44:36 -0000</pubDate>
@@ -215,26 +233,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212330</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212330.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] 전자담배 원료 액상 니코틴, 연초잎서 추출한 것만 '담배'</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212302.jpg" alt="1415.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;b&gt;[법원 판결]&lt;/b&gt;&lt;br /&gt;보건복지부가 물품 가액의 20배에 달하는 부담금을 부과한 처분이 일부 부당하다는 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;서울행정법원 행정12부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4333"&gt;강재원&amp;nbsp;&lt;/span&gt;부장판사)는 9월 11일, 액상 니코틴 원액으로 만든 전자담배용액에 부과된 국민건강증진부담금이 일부 부당하다고 판단해 원고 일부 승소 판결했다(&lt;b&gt;2022구합86143&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A사는 2018년 8월부터 2019년 6월까지 중국과 말레이시아 소재 거래처들로부터 액상 니코틴 원액을 사용해 제조한 전자담배용액을 수입했다. A사는 원액이 '연초 대줄기'에서 추출한 것이므로 '담배'가 아니라는 취지로 수입신고를 했는데, 서울세관장은 이를 '담배'로 봐 부가가치세 등을 부과했다. 보건복지부에 해당 부과 사실과 A사의 국민건강증진부담금 부과 누락 사실이 통보됐고, 이에 보건복지부는 A사에 5억 원 상당의 국민건강증진부담금을 부과했다. A사는 액상 니코틴 원액이 '연초 잎'이 아닌 '대줄기'에서 추출한 것이므로 담배에 해당하지 않고, 부과된 금액이 물품 가액의 20배에 이르러 지나치게 과도하다고 주장했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;A사가 사용한 니코틴 원액은 담배에 해당하는지&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 중국 수입품들에 사용된 액상 니코틴 원액은 “연초의 잎을 원료의 전부 또는 일부로 해 제조됐다고 봄이 타당하다”며 A사의 주장을 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재판부는 중국 거래처의 감사보고서에 “주로 담뱃잎, 연경 등 담배 폐기물을 이용해 니코틴을 추출한다”고 기재된 점을 인정했다. 또 연초 대줄기에서 니코틴을 추출하는 것이 기술적으로 가능하더라도 생산 수율이 매우 낮아 상용화하기 어렵다는 점을 지적하며 “실제로 상업적인 생산에 적용했는지 여부는 별개의 문제”라고 설명했다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;단 말레이시아 수입품에 사용된 니코틴은 “담뱃잎에서 추출되었다는 직접적인 증거가 없다”며 보건복지부의 처분 사유가 인정되지 않는다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이에 따라 재판부는 보건복지부의 처분 중 중국 수입품에 부과된 부담금 2억 9856만 7500원 상당만 인정하고, 말레이시아 수입품 등 나머지 부분에 대한 부담금은 위법하다고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;보건복지부의 처분 금액이 과도하다는 주장에 대해서는 “구 건강증진법에서 정한 형식과 내용을 그대로 따라 부과한 것이므로 재량권 일탈로 볼 수 없다”고 판단했다.&lt;/p&gt;</description>
-			<pubDate>Sun, 19 Oct 2025 00:09:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212302</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212302</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212302.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] '재직 중' 조건 붙어도 통상임금</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212308.jpg" alt="2326.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;광주광역시 동구 학동 전남대병원 본관 앞. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;특정 시점에 재직 중인 근로자에게만 지급되는 정기 상여금이나 각종 수당도 통상임금에 해당할 수 있다는 대법원 판결이 나왔다. 대법원은 ‘재직 조건’이 붙어있다는 사정만으로 통상임금의 고정성이 부정되지는 않는다고 밝혔다. 대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관)는 9월 11일, 근로자 1090여 명이 전남대학교병원을 상대로 낸 임금 청구 소송 상고심(&lt;b&gt;2021다206974&lt;/b&gt;)에서 원고 패소 부분을 일부 파기하고 사건을 광주고등법원으로 돌려보냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;전남대병원은 근로자들에게 단체 협약 및 보수 규정 등에 따라 정근 수당·정기 상여금·대민 업무 보조비 등을 지급해 왔다. 이 중 정근 수당과 정기 상여금은 ‘지급일 현재 재직 중인 임직원’에게 지급한다고 명시돼 있었다. 근로자들은 이 수당들 역시 통상임금에 포함해 연장 근로 수당 등을 재산정해 지급해야 한다며 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심은 대부분의 수당을 통상임금으로 인정해 원고 승소로 판결했다. 하지만 항소심은 “해당 수당들에 ‘재직 조건’이 부가돼 있으므로, 근로자가 지급일 이전에 퇴직하면 이를 받지 못하는 불확실성이 발생한다”며 “이는 소정 근로의 대가로 확정적으로 지급되는 ‘고정적 임금’으로 볼 수 없어 통상임금에 해당하지 않는다”고 판단했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;‘지급일 현재 재직 중’일 것을 지급 조건으로 하는 이른바 ‘재직조건’이 부가된 임금이, 통상임금의 요건인 ‘고정성’을 결여한 것으로 보아 통상임금에서 제외해야 하는지 여부가 쟁점이 됐다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 ‘재직 조건’에 대한 항소심의 판단이 법리를 오해한 것이라고 봤다. 재판부는 “근로자가 재직하는 것은 근로계약에 따라 소정 근로를 제공하기 위한 당연한 전제”라며 “어떠한 임금을 지급받기 위해 특정 시점에 재직 중이어야 한다는 조건이 부가되어 있다는 사정만으로 그 임금의 통상임금성이 부정되지 않는다”고 밝혔다.&lt;p&gt;&amp;nbsp;   &lt;p&gt;또 “통상임금은 계속적인 소정 근로 제공이 전제된 근로관계를 기초로 산정해야 한다”면서 “재직 조건은 소정 근로를 온전하게 제공하는 근로자라면 충족할 조건에 불과하므로, 그러한 조건이 부가됐다는 이유만으로 통상임금성을 부정할 수 없다”고 설명했다.&lt;/p&gt;   &lt;p&gt;&lt;br /&gt;그러면서 “원심은 재직조건이 부가되어 있다는 사정만을 들어 정근수당 등의 통상임금성을 부정했다”며 “이는 통상임금에 관한 법리를 오해한 잘못이 있다”고 지적했다.&lt;br /&gt;&lt;/p&gt;   &lt;/p&gt;</description>
-			<pubDate>Sun, 19 Oct 2025 00:09:19 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212308</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212308</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212308.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
