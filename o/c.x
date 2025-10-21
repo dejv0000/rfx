@@ -13,6 +13,128 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고속도로 사고 수습하다가 차량 2대에 잇따라 치인 30대 숨져 </title>
+      <link>https://www.chosun.com/national/incident/2025/10/21/4CMVHHFYXFDCHDWLMPEM4OO4AE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/21/4CMVHHFYXFDCHDWLMPEM4OO4AE/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 14:12:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWADAMII3D3T77MWUM2S7YSXHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 영동군서 교통사고를 수습하던 30대 남성이 뒤에서 달려오던 차량 2대에 잇따라 치여 숨지는 사고가 났다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 21일 오후 6시 37분쯤 영동군 황간면 노근리 인근 경부고속도로 서울방향 황간나들목 부근에서 교통사고를 수습하고 있던 A씨가 차량 2대에 잇따라 치여 크게 다쳤다. A씨는 심정지 상태로 병원에 옮겨졌으나 끝내 숨졌다.&lt;br&gt;&lt;br&gt;당시 A씨의 차량은 앞서 가던 화물차를 추돌한 뒤, 차량서 내려 사고를 수습하던 중 2차 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양평 사망 공무원’ 측 변호사, 조서 열람 행정심판 청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/21/UYEZDLPGTZHTRN7PQOOPEBEWAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/21/UYEZDLPGTZHTRN7PQOOPEBEWAM/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 13:49:06 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀의 특검 조사를 받고 숨진 양평군 공무원 A씨의 변호인이 특검을 상대로 피의자 심문 조서 열람 불허가 결정을 취소해달라는 행정심판을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF2FALAF5ZHIZJBCKEVALUCS74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장경식 기자
+숨진 공무원 메모 들고서…  ‘김건희 특검’의 조사를 받은 뒤 숨진 채 발견된 경기 양평군 공무원 측이 14일 오전 서울 종로구 특검 사무실 앞에서 기자회견을 하고 있다. 박경호(오른쪽) 변호사가 숨진 공무원이 남긴 자필 메모를 들어 보이고 있다. 박 변호사는 “특검이 강압 수사한 정황이 있다”며 “고인의 피의자 신문 조서에 묻지도 않은 질문과 대답이 적혀 있었다”고 주장했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨를 변호하는 박경호 변호사는 21일 “A씨의 피신 조서에 대하여 열람·등사를 거부하는 민중기 특검에 행정심판 청구서를 발송했다”고 밝혔다. 행정심판은 행정기관의 위법·부당한 처분으로 권익이 침해 당했을 때 국민의 권리 및 이익을 구제하기 사용되는 제도다.&lt;br&gt;&lt;br&gt;A씨는 지난 2일 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 피의자 신분으로 특검 조사를 받은 뒤 지난 10일 숨진 채 발견됐다. A씨가 특검 수사관들이 거짓 진술을 강요했다는 등의 메모를 남기고 스스로 목숨을 끊은 것이 알려지며 특검이 강압 수사를 벌인 게 아니냐는 논란이 일었다. &lt;br&gt;&lt;br&gt;이에 박 변호사는 강압 수사 정황을 확인하겠다며 지난 13일 A씨의 신문 조서 열람·복사를 신청했다. 하지만 특검은 지난 14일 "조서가 공개될 경우 진행 중인 수사에 영향을 미칠 우려가 있고, A씨가 사망해 A씨와 A씨 변호인간 위임 관계가 종료해 관계법령에 따라 부득이 거부했다“며 신청을 불허했다.&lt;br&gt;&lt;br&gt;박 변호사는 청구서에 특검의 불허 이유에 대해 “근거가 없는 추상적인 주장”이라고 반박했다. 박 변호사는 “A씨는 이미 사망해 피청구인(특검)은 망인에 대하여 ‘공소권 없음’ 처분을 할 수밖에 없다”며 “망인에 대한 수사 및 공소제기는 더 이상 진행될 수 없으므로, 조서 공개로 인한 망인에 대한 수사나 공소제기 업무가 현저하게 곤란해 질 위험은 원천적으로 존재하지 않는다”고 했다. &lt;br&gt;&lt;br&gt;국민의 알 권리 및 A씨의 권리구제를 위해서도 조서 열람이 필요하다고 했다. 박 변호사는 “특검의 수사권력 남용에 의한 억울한 사망에 대해 원인을 밝히고 망인의 명예회복이라는 공익적 목적 달성을 위해 망인에 대한 조서 열람 등사는 반드시 필요하다”며 “망인에 대한 불법행위 유무를 확인하고 관련자들에 대한 형사고소 등 정당한 권리 구제 절차를 밟기 위해선 조서의 확보가 절대적으로 필요하다”고 했다. 그러면서 “피의자가 조사를 받고 사망에 이른 중차대한 사안에서 수사기관은 강압수사 의혹에 대해 해명하고 투명성을 입증하기는 커녕 오히려 수사의 밀행성을 이유로 핵심 자료를 은폐하려는 듯한 태도를 보이고 있다”며 “명백한 재량권 남용에 해당한다”고 지적했다.&lt;br&gt;&lt;br&gt;청구서에는 A씨가 특검의 강압 수사를 처음으로 털어놓은 지인 B씨와의 통화 내역도 포함됐다. A씨는 특검 수사 이후 B씨에게 “하루 종일 조사 받고 그러다보니 멍한 상태에서 말이 나왔다”며 “사실이 아닌데 그냥 멍한 상태에서 얘기를 했다. 사실은 아닌데 그게 조서에 들어가 있다”고 했다. 또 “특검 애들이 아주 그냥 혈안이 돼 있더라”며 “멍한 상태에서 쪼고 밥도 세끼도 못 먹고 그러니 나도 모르게 얘기가 갑자기 나왔다”고 했다. &lt;br&gt;&lt;br&gt;박 변호사는 “향후 특검 수사에서 더 이상 국가권력에 의한 희생자가 나오지 않도록 밀행적인 수사 상황을 공개하고, 피의자의 방어권과 변호인의 조력권을 보장하는 차원에서 조서 열람등사를 승인해달라”며 “불법적으로 피의자신문을 하고 허위 조서를 작성한 수사관들에 대해 특별 감찰을 통해 책임을 엄중하게 물어달라”고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 이날 강압 수사 의혹에 대해 정식 감찰을 진행중이라고 밝혔다. 특검 관계자는 “감찰을 담당하는 부서가 있다”며 “감찰로 사실관계를 규명하는 절차를 진행하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘187만 유튜버’ 미미미누, 출연자에 명예훼손 고소당해</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/TZR767Z3NRETNDEEL6Z2CYOE2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/TZR767Z3NRETNDEEL6Z2CYOE2E/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 13:29:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDHOYYOIAJBPJG7JGUNCEEPXOQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;미미미누. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신의 유튜브 채널 출연자에게 명예훼손 등 혐의로 고소당한 입시 콘텐츠 크리에이터 미미미누(30·본명 김민우)가 법적 대응을 준비 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;미미미누는 21일 자신의 팬카페를 통해 “제 채널 콘텐츠에 참가했던 출연자가 저를 고소했다”며 “현재 이에 대한 법적 대응을 준비 중”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “현재 수사가 진행 중인 사안인 만큼, 절차가 마무리되고 명확한 결과가 나온 후 입장을 공유드리겠다”며 “그때까지 조금만 기다려주시면 감사하겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 이날 경찰에 따르면, 서울 서초경찰서는 이달 초 20대 A씨로부터 미미미누를 명예훼손과 모욕 혐의로 처벌해 달라는 취지의 고소장을 접수해 수사에 착수했다.&lt;br&gt;&lt;br&gt;A씨는 작년 2월 미미미누 유튜브 채널에 출연했다가, 온라인 커뮤니티를 중심으로 ‘고등학생 때 친구들의 노트북을 훔쳤다’는 의혹이 불거지며 방송에서 하차했다. 미미미누는 생방송을 진행하면서 의혹이 사실이라며 A씨를 향한 악성 댓글들을 읽은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 고소장에서 이로 인해 양극성 정동장애(조울증) 진단을 받아 극단적 시도까지 했다고 주장한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;미미미누는 5수 끝에 고려대 행정학과에 입학한 경험을 토대로 수험생들에게 입시 관련 콘텐츠를 제공하는 유튜브 채널을 운영하고 있다. 실제 수험생들을 모아 숙소에 입주시킨 뒤 수시·정시 지원 컨설팅을 제공하는 콘텐츠가 인기를 끈다. 현재 구독자 수는 약 187만명이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동행명령장에 국감 나온 부장판사 “근무시간 술 먹고 노래방 소란 반성”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/21/SUNJWLQWO5DD5KQTZSOT7RMUYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/21/SUNJWLQWO5DD5KQTZSOT7RMUYA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 13:28:36 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGOVXYMXKH7LDBCR6JTHK3Z3L4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이원범 대전고등법원장(왼쪽에서 세 번째) 등이 21일 서울 여의도 국회에서 열린 법제사법위원회 대전고법 등에 대한 국정감사에 출석한 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 부장판사가 근무시간 술을 마신 뒤 노래방에서 소란을 피운 사실을 인정하고 “신중하지 못한 처신으로 반성하고 있다”고 했다.&lt;br&gt;&lt;br&gt;여경은 수원지법 평택지원 부장판사는 21일 국회 법제사법위원회 국정감사에 출석해 지난해 제주지법 근무 당시 “직원 한 명을 환송하는 점심 식사 자리에서 술이 과해졌다”며 “휴가를 미처 내지 못하고 근무 시간에 술을 마시게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;여 부장판사는 애초 이날 국감 증인 소환에 불출석 사유서를 내고 나오지 않았다가 법사위 동행명령장을 받고 국감장에 출석했다. 술자리에 동석했던 오창훈·강란주 제주지법 부장판사는 동행명령에 응하지 않았다. 작년 6월 제주지법 소속이던 세 부장판사는 근무시간 중 행정관 한 명과 함께 술을 마신 뒤 노래방에서 소란을 피운 사실이 알려지며 논란이 됐다.&lt;br&gt;&lt;br&gt;여 부장판사는 자신이 심리하는 사건을 수임한 변호사와 5차례 정도 사적 만남을 가진 사실도 인정했다. 그는 제주지법 형사 단독을 맡았던 작년 11월 “해당 변호사 사건 공판 기일을 한 차례 진행했다”고 했다. 여 부장판사는 다만 “그 사건은 제가 최종 판단하지 않고 다음 재판부에 넘기고 끝났다”며 “신중하지 못한 처신을 한 것에 대해 깊이 반성하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;법관들이 근무 시간 술을 마신 것에 대해 이흥권 제주지법원장은 “지휘감독권 일환으로 엄히 훈계했다”며 “추후 인사 평가에서 불이익이 있을 것으로 생각한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 여사 일가서 ‘경찰 인사 문건’ 발견...경기북부청장 “자체 조사할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/PYXSBVGTMRD63F5ZKKBQY6BOOA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/PYXSBVGTMRD63F5ZKKBQY6BOOA/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 12:58:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6C2JSSVQZNK5BJLR7SCJA4VEQY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;동권 경기북부경찰청장이 21일 경기 수원시 장안구 경기남부경찰청에서 열린 국회 행정안전위원회의 경기남북부경찰에 대한 국정감사에서 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 의혹과 관련, 특검 수사 과정에서 나온 ‘현직 경찰 문건’에 대해 경기북부경찰이 자체 조사를 한다고 밝혔다.&lt;br&gt;&lt;br&gt;21일 국회 행정안전위원회의 경기남·북부경찰청 국정감사에서 더불어민주당 윤건영 의원은 “최근 특검팀이 김건희씨 모친 최은순씨의 금고에서 경찰 4명의 이력 등이 담긴 문건을 발견했다”며 “이 4명은 권력의 줄에 대서 자신의 출세를 동호했던 사람들이다. 경기북부경찰청에서 자체적으로 수사를 해야 하는 것 아니냐”라고 지적했다. &lt;br&gt;&lt;br&gt;그러면서 “최은순씨가 어떻게 경찰 프로필을 가지고 있겠느냐”며 “(4명에 대한)인사가 실패했더라도 시도 자체가 경찰의 기강을 무너뜨리는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이에 김동권 경기북부경찰청장은 “(해당 건에 대해) 사실관계 조사를 하지 않았다”며 “자체 조사를 해보겠다”고 답했다.&lt;br&gt;&lt;br&gt;앞서 김건희 특별검사팀은 지난 7월 김 여사 일가가 운영하는 남양주의 요양원을 압수수색하는 과정에서 사무실 금고에 있던 금거북이와 이배용 전 국가교육위원장이 남긴 편지, 현직 경찰 간부 4명의 이력이 적힌 ‘인사 리스트’를 발견했다. &lt;br&gt;&lt;br&gt;해당 문건에는 총경 2명과 경정 2명의 이력, “경기북부지방경찰청 요직을 맡으면 잘 수행할 것”이라는 내용 등이 담겼던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“살려달라 외쳤는데”…동탄 납치 피해자 방치 논란, 국감서 경찰 질타 쏟아져</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/JA7CXX54DJGRHB3MTM7UCND73Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/JA7CXX54DJGRHB3MTM7UCND73Y/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 13:16:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJTO3YRSYVNRJHI37CDD53PODI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황창선 경기남부경찰청장이 21일 경기 수원시 경기남부경찰청에서 열린 국회 행정안전위원회 경기남·북부 경찰청에 대한 국정감사에서 땀을 닦고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 국회 행정안전위원회의 경기남부경찰청 국정감사에서는 ‘화성 동탄 납치살인’ 사건을 둘러싼 경찰의 부실 대응과 솜방망이 징계에 대한 비판이 쏟아졌다. 같은 자리에서는 김건희 여사 특검 조사 뒤 숨진 양평군 공무원 사망 사건의 수사 공정성 논란도 제기됐다.&lt;br&gt;&lt;br&gt;화성 동탄 납치살인 사건에 대한 경찰의 부실 대응을 두고 국감장에서는 관련 질타가 이어졌다. 피해자가 반복 신고했음에도 보호받지 못한 채 숨졌다는 사실이 공개되면서, 경찰의 피해자 보호 시스템 전반이 도마 위에 올랐다.&lt;br&gt;&lt;br&gt;기본소득당 용혜인 의원은 “A씨는 살려달라 외쳤지만 국가는 끝내 지켜주지 못했다”며 “피해자를 보호할 법적·도덕적 책무를 방기한 결과”라고 비판했다. 그는 이어 “관련 경찰관들이 정직 1개월과 경고 처분에 그친 뒤 현장에 복귀했다”며 “유가족에게 징계 결과조차 통보되지 않아 의원실이 직접 알려드려야 했다”고 했다.&lt;br&gt;&lt;br&gt;이날 참고인으로 출석한 피해자 지인은 “A씨가 2월 23일과 3월 3일 두 차례 신고했지만 경찰은 접근 차단이나 긴급 보호조치를 하지 않았다”며 “사건을 단순한 연인 간 다툼으로 취급했다”고 증언했다. 피해자의 어머니는 “딸은 여러 번 ‘살려달라’고 호소했지만 아무도 도와주지 않았다”며 “정직 1개월로 끝낼 일인가, 직무유기로 처벌받아야 한다”고 말했다. 이에 황창선 경기남부경찰청장은 “유가족 말씀을 듣고 마음이 무겁다”며 “직접 찾아뵙고 사과드리겠다. 형사처벌 가능성도 다시 검토하겠다”고 했다.&lt;br&gt;&lt;br&gt;경기남부경찰청은 화성 동탄 납치살인 사건 당시 피해자의 반복 신고를 제대로 처리하지 않은 담당 경찰관 2명에 대해 각각 정직 1개월과 경고 처분을 내렸다. 피해자가 여러 차례 폭행 피해를 호소하며 구속 수사를 요청했지만, 경찰은 접근 차단이나 긴급 보호조치 등 기본적인 대응을 하지 않았다.&lt;br&gt;&lt;br&gt;김건희 여사 특검팀 조사 후 숨진 양평군 공무원 사망 사건의 수사 공정성을 놓고도 공방이 벌어졌다. 국민의힘 이성권 의원은 “양평 공무원 변사 사건을 양평경찰서가 수사 중인데, 특검 수사팀장이 양평경찰서장 출신”이라며 “이해 충돌을 막기 위해 수사팀을 교체해야 한다”고 주장했다. 이 의원은 또 “타살 혐의가 없는데도 부검을 실시했고, 유족에게 유서 원본이 아닌 촬영본만 열람케 했다”며 절차적 문제를 지적했다.&lt;br&gt;&lt;br&gt;이에 황 청장은 “유족이 감정이 격해져 유서 열람을 중단했지만, 이후 장례 절차 후 21쪽짜리 유서를 열람토록 하고 사본도 제공했다”고 해명했다. 유서 공개 요구에는 “사생활 관련 내용이 있어 경찰이 공개한 전례가 없다”며 선을 그었다.&lt;br&gt;&lt;br&gt;같은 당 서범수 의원은 “고인은 이미 2021년부터 1년 5개월간 수사를 받아 불송치 처분된 상태에서 다시 특검 조사를 받았다”고 비판했다. &lt;br&gt;&lt;br&gt;황 청장은 이에 대해 “공흥지구 특혜 의혹 사건은 경기남부청 반부패수사대가 맡았고, 특검 관련 고발은 서울경찰청에서 수사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“하녀 복장 입고 유흥 접객”... 국감서 ‘메이드 카페’ 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/JATJDBNREJE3BNPEELNRLVYVCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/JATJDBNREJE3BNPEELNRLVYVCQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 10:45:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KKHEWK5LYGYLUVJVTKLXJG4FLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본 도쿄 아키하바라에 있는 한 메이드카페 내부. /지요다구 관광 협회 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;식품의약품안전처가 최근 늘고 있는 메이드 카페에 대한 점검에 나선다. 21일 열린 국정감사에서 메이드 카페가 청소년 유해 환경을 조성하고 성 상품화를 부추긴다는 지적이 나왔기 때문이다. 메이드 카페는 직원들이 하녀 복장을 입고 음료와 식사 등을 서빙하는 이색 콘셉트 카페로, 일반 음식점에선 금지된 유흥 접객 행위가 이뤄진다는 지적이 제기된 바 있다. &lt;br&gt;&lt;br&gt;이날 국회에서 열린 보건복지위원회 국정감사에서 김남희 더불어민주당 의원은 오유경 식품의약품안전처 처장에게 “최근 우리나라에서도 늘어나고 청소년, 젊은 층 등에게 인기를 끌고 있다”며 메이드 카페 문제를 언급했다. &lt;br&gt;&lt;br&gt;메이드 카페는 점원이 메이드 복장을 하고 손님을 ‘주인님’ 등으로 호칭하며 응대하는 테마형 카페다. 일본 아키하바라에서 2000년대 초 확산했으며, 최근엔 국내에도 생기기 시작했다. 다만 국내에선 일반 음식점으로 분류된 메이드 카페에서 실질적으로 유흥 접객 행위에 해당하는 서비스가 이뤄진다는 지적이 제기된 바 있다. 식품위생법은 일반 음식점에서 손님과 동석하거나 신체 접촉을 하는 등 유흥을 돋우는 접객을 해선 안 된다고 명시하고 있다. &lt;br&gt;&lt;br&gt;먼저 김 의원은 메이드 카페 운영 방식을 지적했다. 김 의원은 “손님이 돈을 지불하면 메이드가 무대에서 노래를 부르거나 춤을 추며 분위기를 끌어올린다”며 “메뉴판에는 칵테일, 샴페인 등 술도 판매하고 있다”고 했다. 이어 “노래뿐만 아니라 ‘사랑의 뺨 맞기’ ‘사랑의 회초리’ 같은 가학적 행위들도 가격이 책정돼 판매되고 있다”며 “보좌진이 실제로 방문해 확인해 봤다. 메이드들이 테이블을 돌며 손님들에게 대화를 유도하거나 손님 옆에 앉는 식으로 운영되고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QGSA3WMSEZF3FMZO2CJC4H4FIM.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 메이드 카페 메뉴판. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 의원은 일부 업장에서 고용주가 직원들에게 노출을 강요한다고도 주장했다. 김 의원은 “일부 종사자들의 증언에 의하면, 사장이 노출을 요구하거나 선정적인 복장을 강요한다”며 “소셜미디어에 올라온 후기를 보면 메이드가 손님들에게 스킨십을 강요하기도 한다”고 했다. &lt;br&gt;&lt;br&gt;김 의원은 “마포구에서 자료를 받아 홍대 일대를 살펴보니 19곳이 운영 중”이라며 “14곳에서 라이브쇼를 운영하고 있었다”고 했다. 그러면서 “등록 현황을 보니 17곳이 일반 음식점, 2곳이 휴게 음식점으로 등록됐다”고 했다. &lt;br&gt;&lt;br&gt;김 의원은 메이드 카페가 유흥주점이 아닌 일반 음식점으로 등록돼 발생하는 문제를 짚기도 했다. 김 의원은 “일반 음식점으로 등록돼 청소년 출입이 가능하다. 주류와 유해 환경에 노출된다”며 “민생 회복 소비 쿠폰 사용도 가능하다”고 했다. 그러면서 “라이브 쇼가 있는 메이드 카페 14곳 중 4곳은 초등학교·중학교 경계로부터 200m 내에 위치해 있었다”며 “교육환경법에 따르면, 단란주점이나 유흥주점은 학교 기준 200m 이내 입점을 위해선 사전 심의를 받아야 한다. 하지만 메이드 카페는 일반 음식점이기 때문에 심의를 받지 않는다”고 했다. &lt;br&gt;&lt;br&gt;메이드 카페 홍보 방식을 지적하기도 했다. “소셜미디어에 선정적인 사진을 올려 홍보하고 있다”며 “메이드 카페에서 성 상품화가 이뤄지고 있는 것”이라고 했다. &lt;br&gt;&lt;br&gt;김 의원은 “이제라도 식약처가 중심이 돼서 메이드 카페의 실태를 파악하고, 특히 학교 근처 시설들은 지자체와 협력해 긴급 점검 및 시정 조치가 필요하다”고 했다. &lt;br&gt;&lt;br&gt;이에 오 처장은 “식약처가 확실히 점검을 해야 할 것으로 보여진다”며 “지자체와 협력해 추가적으로 현장 조사하겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NSJ34B22RVBFDIHT2CTVUMSXQU.jpg?auth=538f564148bd7d4f93b987f11b7bf0556c7da384f1ec548e7d52b882c2274c7c&amp;smart=true&amp;width=221&amp;height=166" type="image/jpeg" height="166" width="221">
+        <media:description type="plain">일본 도쿄 아키하바라에 있는 한 메이드카페 내부. /지요다구 관광협회 홈페이지 캡처</media:description>
+        <media:credit role="author" scheme="urn:ebu">지요다구 관광협회 홈페이지 캡처</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>김건희 특검, 부장판사와 이종호 술자리 확인...재판 청탁 정황 수사</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/21/TWNG2MEVLRBNLO2YZ3D5T6SDGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/21/TWNG2MEVLRBNLO2YZ3D5T6SDGY/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 12:02:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDIJLTZNQFCRNBPFS45UY6AO3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표가 지난 12일 참고인 신분으로 조사받기 위해 서울 서초구 순직해병 특별검사팀에 출석하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 계좌 관리인으로 알려진 이종호 전 블랙펄인베스트 대표가 도이치모터스 재판 과정에서 당시 현직 부장판사와 술자리를 가진 정황이 드러났다.&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 김건희 특검팀은 이 전 대표가 부장판사를 상대로 재판을 청탁했을 가능성을 의심하고 있는 것으로 전해졌다. 특검은 지난 8월 22일 이 전 대표를 재판에 넘기면서 그가 도이치모터스 주가조작 사건 1차 주포인 이정필씨에게 “너 사건 판사 접대하는 데 돈이 필요하다”며 접대비 명목으로 350만원을 요구해 이씨가 돈을 보냈다고 적었다. 특검은 이 전 대표와 박모 부장판사가 식사 자리를 가진 것으로 파악한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 특검은 이 전 대표가 이씨에게 “걱정하지 마라. 김건희나 VIP(윤석열 전 대통령)에게 이야기해 집행유예가 나오도록 해주겠다”, “재판부와 이야기를 다 해놓았다”라고 말하며 진행 중인 재판에 영향력을 미칠 수 있을 것처럼 말하며 25차례에 걸쳐 총 8390만원을 받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 8월 이 전 대표를 변호사법 위반 혐의로 구속 기소했다. 이 전 대표 측은 “해당 부장판사와 사적으로 만난 것은 맞지만 이씨에게 접대받은 것은 아니다”라는 입장인 것으로 알려졌다. 해당 부장판사도 본지와의 통화에서 “이 전 대표와 만난 것은 맞다”면서도 “이 전 대표가 도이치모터스 재판에 관해 얘기를 꺼낸 후부턴 ‘다신 보지 말자’하고 안 봤다”며 재판 청탁 의혹을 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>코레일, 100억 손해 봤는데도... 열차 부실 제작 업체와 또 계약</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/21/B5LUZ5JU2NC5TLF5Q3YJHH2GCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/21/B5LUZ5JU2NC5TLF5Q3YJHH2GCA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 11:48:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHYK5FBU2FMVDJKTIRJSFVJ5E4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박선순 다원시스 대표가 21일 한국철도공사(코레일) 대전본사에서 열린 국회 국토교통위원회의 국정감사에서 위원 질의에 답변을 마치고 인사하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;한국철도공사(코레일)가 열차 납품을 지연한 업체와 또다시 계약을 체결해 논란이 되고 있다. 일부 납품한 열차 역시 무게 초과 등 부실하게 제작된 탓에 코레일은 100억원 이상 손해가 불가피한 상황이다.&lt;br&gt;&lt;br&gt;21일 대전 코레일 사옥에서 열린 국회 국토교통위원회 국정감사에서는 코레일에 열차납품을 지연했음에도 또 열차 수주에 성공한 열차 제작업체 ‘다원시스’를 두고 질타가 이어졌다.&lt;br&gt;&lt;br&gt;코레일은 지난 2018년 12월 다원시스와 2716억 원에 ITX-마음 150칸을 공급받는 계약을 체결했고, 이듬해 11월엔 ITX-마음 208칸 계약을 4004억원에 맺었다. 그러나 다원시스는 1차 계약분 중 30칸, 2차 계약분 중 188칸을 공급하지 못했다. 다원시스는 ITX-마음 제작 과정에서 기본설계·상세설계 제출 지연, 도면·기술자료 불일치, 용접 기술력 부족, 부품 수급 지연, 시운전 일정 지연 등 문제로 납품 관련 일정을 8차례나 수정했다. 코레일은 다원시스가 계약 납기를 지키지 않아 노후 차량의 정밀안전 진단비와 유지보수비로 내년까지 53억원을 추가로 물어야 할 처지가 됐다.&lt;br&gt;&lt;br&gt;납품한 차량도 부실하게 제작됐다. 코레일은 다원시스에 ITX-마음을 공차 기준 190t으로 제작하도록 요청했으나, 중량 실측 결과 기준치를 초과한 205t으로 확인됐다. 무게가 무거운 탓에 입석 승객을 제한해야 해 일평균 121만원, 앞으로 25년 동안 110억6014만원의 입석 승객 운임 손실이 발생할 것으로 예상된다.&lt;br&gt;&lt;br&gt;그런데도 코레일은 2024년 2429억원에 116칸 추가 계약을 맺었다. 박용갑 더불어민주당 의원은 “다원시스가 ITX-마음 납품 지연과 부실 제작 등 여러 문제가 있음에도, 코레일이 다원시스와 추가 계약을 체결한 것은 국민 눈높이에 맞지 않는 계약”이라며 “국토교통부가 코레일과 다원시스 간 ITX-마음 추가 계약 과정에 대한 감사를 추진해야 한다”고 주장했다. 김은혜 국민의힘 의원은 “다원시스에는 코레일 전관 출신들도 제가 파악한 것으로만 8명”이라며 “감사를 넘어서 고발조치가 즉시 이뤄져야 한다고 생각한다”고 했다. 코레일은 지난달 다원시스에 손해배상 청구 소송을 제기한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중학생들 탄 전동킥보드에 치인 30대 여성 중태...“딸 지키려 몸으로 막아”</title>
+      <link>https://www.chosun.com/national/incident/2025/10/21/5VSYXMPEFFFLNL33VIIBMZ45ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/21/5VSYXMPEFFFLNL33VIIBMZ45ZQ/</guid>
+      <dc:creator>김수언 기자, 인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 11:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y3M3VIKUAZCZ5JNU3HF462ZMKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 홍대입구역 인도에서 전동킥보드를 탄 시민들이 보행자 사이를 지나고 있다. 기사와 관련 없음./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생 2명이 타고 있던 전동킥보드에 치인 30대 여성이 중태에 빠지는 사고가 났다.&lt;br&gt;&lt;br&gt;21일 인천 연수경찰서에 따르면 이 사고는 지난 18일 오후 4시 37분쯤 연수구 송도동의 한 인도에서 발생했다. 당시 A양 등 중학생 2명이 함께 타고 있던 전동킥보드가 길을 지나던 30대 여성 B씨와 부딪힌 것이다. 이 사고로 B씨가 넘어지며 머리 부위 등을 크게 다쳐 119 구급대에 의해 병원으로 옮겨져 치료받고 있다. B씨는 현재까지 의식을 되찾지 못하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;B씨는 사고 당시 편의점에서 딸의 솜사탕을 사서 나오다가 변을 당한 것으로 알려졌다. 그는 전동킥보드가 딸을 향하는 것을 보고 몸으로 막아섰다가 뒤로 넘어진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서 전경./인천 연수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 따르면, A양은 원동기 면허를 소지하지 않은 상태였다. ‘1인 탑승’ 원칙도 지키지 않았다.&lt;br&gt;&lt;br&gt;도로교통법상 개인형 이동장치(PM)인 전동킥보드는 16세 이상이면서 원동기 면허나 자동차 면허를 소지한 사람만 이용할 수 있다. 원동기 면허는 16세 이상, 2종 소형과 1·2종 보통면허는 18세 이상부터 소지할 수 있어, 16세 미만은 전동킥보드를 탈 수 없다.&lt;br&gt;&lt;br&gt;경찰은 교통사고처리특례법상 치상과 도로교통법상 무면허운전 등 혐의를 적용해 수사할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “아직 입건 전 단계로, 앞으로 구체적인 사고 경위를 조사할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>APEC 위해 10억 들였는데... 첨성대 미디어아트 첫날부터 먹통</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/21/UWLYEESWIRDH7AQIS2233LHD3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/UWLYEESWIRDH7AQIS2233LHD3A/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 11:27:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZS6ZQW6A5PX3PRMOIFMUMKUSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 오후 경북 경주시 인왕동 첨성대에서 2025 아시아태평양경제협력체(APEC) 정상회의 개최를 기념하는 미디어아트가 진행되고 있다. 이후 재상영 과정에서 오류가 발생했다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가유산청과 경북 경주시가 아시아태평양경제협력체(APEC) 정상회의를 앞두고 약 10억원을 들여 만든 경주 첨성대 야간 미디어 아트 영상물이 첫날부터 제대로 작동하지 않았다. &lt;br&gt;&lt;br&gt;21일 경주시에 따르면, 전날 저녁 개막 상영 이후 재상영을 시작한 첨성대 미디어 아트 영상에서 오류가 발생했다. 외벽 화면에 미디어 아트 영상 대신 ‘종료 중’ ‘디스플레이 모드’ 등의 문구가 반복해서 뜬 것이다. &lt;br&gt;&lt;br&gt;이 때문에 상영을 기다리던 경주 시민과 관광객은 발길을 돌린 것으로 알려졌다. 한 네티즌은 첨성대에 색 조명만 입혀진 사진과 함께 “다른 일정 제쳐두고 첨성대 미디어 아트 보러 왔는데 아직도 안 고쳐져 있다”며 “다들 확인해 보고 가시라”는 글을 공유하기도 했다. &lt;br&gt;&lt;br&gt;국가유산청과 경주시는 프로젝터 1대가 고장 나면서 이 같은 문제가 발생했다고 밝혔다. 국가유산청과 경주시는 장비를 교체해 상영에 문제가 없도록 할 방침이다. &lt;br&gt;&lt;br&gt;첨성대 미디어아트는 ‘프로젝션 매핑’ 기술을 활용해 국가유산인 첨성대 외벽 전체를 화면으로 삼아 다양한 영상을 투사하는 작품이다. 첨성대의 역사적 의미와 신라의 문화유산을 내외국인에게 알기 쉽게 알린다는 취지로 제작됐으며, 총 10억원 가까운 예산이 투입된 것으로 알려졌다. APEC이 끝나는 11월 1일까지 매일 5회 상영될 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘캄보디아 송환’ 피의자 10명도 구속... 현지 범죄 가담 58명 전원 수감</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/21/QBLAXC44XJGFZIEXK5D3PFN6PA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/21/QBLAXC44XJGFZIEXK5D3PFN6PA/</guid>
+      <dc:creator>의정부=김수언 기자, 의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 11:23:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2D2BYWWSVOJ3OCDFK7NHNWQSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아에서 송환된 피의자가 21일 오전 의정부지방법원에서 구속 전 피의자 심문을 위해 법정으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 범죄에 가담한 혐의로 국내 송환된 10명이 21일 구속됐다. 구속영장이 청구된 피의자 58명 중 48명이 이미 구속된 가운데, 나머지도 줄구속된 것이다.&lt;br&gt;&lt;br&gt;의정부지법은 이날 캄보디아 송환 피의자 10명에 대해 구속영장이 발부됐다고 밝혔다. 법원은 “도망할 염려가 있다”고 구속 사유를 설명했다.&lt;br&gt;&lt;br&gt;앞서 의정부지법은 이날 오전 10시 30분부터 통신사기피해환급법 위반 등 혐의로 구속영장이 청구된 피의자 10명에 대한 구속 전 피의자 심문(영장실질심사)을 진행했다.&lt;br&gt;&lt;br&gt;이들은 이날 오전 9시 45분쯤 경기북부 각 경찰서 유치장에서 호송차를 타고 법원에 출석했다. 이들은 “캄보디아에 왜 갔느냐”, “알고 갔느냐”, “로맨스 스캠 범행에 가담했느냐” 등 취재진의 질문에는 답을 하지 않았다. 일부 피의자는 반바지와 슬리퍼 차림에 외투를 걸치거나 모자와 마스크로 얼굴을 가린 채 법정에 들어섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VB3HXQPSBFJIVNKDU2M3FDSONQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전기통신사업법 위반 등 혐의로 수사를 받고 있는 캄보디아 송환 피의자들이 21일 오전 경기도 의정부시 가능동 의정부지방법원에서 구속 전 피의자 심문을 위해 법정으로 이동하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 지난 3월부터 4월까지 ‘로맨스 스캠’(연애를 빙자해 사기를 치는 것) 범행에 가담한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;이번 사건을 수사 중인 경기북부경찰청은 충남경찰청과 함께 집중 수사 관서로 지정돼 송환된 피의자 15명 중 11명에 대해 구속영장을 신청했다. 경찰은 범행 가담 정도가 낮은 3명은 석방했다.&lt;br&gt;&lt;br&gt;1명은 부산지검 동부지청에 별도 범죄로 이미 구속영장이 발부돼 신병을 넘겼다. 또 전날 별건 사건으로 의정부지법 남양주지원에서 영장실질심사를 받은 30대 남성 1명은 도주 우려가 인정돼 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경호처 前간부 “尹, ‘체포 영장 집행 불법이라 기각될 것’이라 말해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/21/F4UYQVLSWRGKNEUD4JTXDQWU2E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/21/F4UYQVLSWRGKNEUD4JTXDQWU2E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 21 Oct 2025 10:37:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5M4S56ZEWBRZPXG2HDBCYE7G4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처와 경찰로 구성된 공조수사본부가 윤석열 대통령에 대한 2차 체포영장 집행에 나선 지난 1월 15일 서울 용산구 한남동 대통령 관저에서 공수처 수사관들과 경찰 인력이 3차 저지선을 뚫고 관저로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 지난 1월 고위공직자범죄수사처(공수처)의 첫 체포 영장 집행 시도가 있고 나서 대통령경호처 간부들에게 “나에 대한 체포영장 집행은 불법이니 기각될 것”이라고 말했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;이광우 전 대통령경호처 경호본부장은 21일 서울중앙지법 형사35부(재판장 백대현) 심리로 열린 윤 전 대통령의 특수공무집행방해 혐의 사건에 증인으로 출석해 이같이 말했다. 이 전 본부장에 따르면 윤 전 대통령은 1월 12일 오찬에서 ‘나에 대한 체포영장 집행은 기각될 것’이라고 말했다고 한다. &lt;br&gt;&lt;br&gt;이 전 본부장은 또 “윤 전 대통령이 ‘경찰관은 1인 1총이 아니고 경호관은 1인1총이니 경찰관보다 잘 쏘지 않느냐’며 ‘자네들이 총을 갖고 있는 것만 봐도 그들(경찰)이 두려워하고 위화감을 느끼지 않겠냐’는 말씀을 하셨다”고 했다. 다만 ‘체포를 막으라’거나 ‘총을 보여주라’는 지시는 듣지 못했다고 했다.&lt;br&gt;&lt;br&gt;이 전 본부장은 ‘윤 전 대통령이 공수처 영장은 불법이라 모두 기각될 것이라고 한 게 맞느냐’고 확인하는 변호인 질문에는 “위법성이 있다는 식으로 말씀하셨고 ‘위법하다’고 단정적으로 말한 것은 아닌 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이 전 본부장은 체포 시도가 있던 1월 3일 당시 “공수처 인원들이 경호구역에 무단으로 들어왔기 때문에 경호 매뉴얼대로 막은 것일 뿐”이라고도 증언했다. 대통령 관저 내 국가보안시설 등 경호구역을 촬영하려면 신청서를 내고 기관장 승인을 받아야 하는데, 공수처가 이런 절차를 거치지 않고 법원 허가나 경호처장 허락 없이 사진과 동영상을 촬영하기에 막았다는 것이다. 그는 ‘영장 집행을 막았다는 것은 특검의 일방적 주장 아니냐’는 변호인 질문에 고개를 끄덕이며 “양쪽 기관 간 임무 상 충돌인 것 같다”고 답했다.&lt;br&gt;&lt;br&gt;당시 공수처 검사들이 경호처에 배속된 수도방위사령부 55경비단 대원들에게 ‘불법적 명령을 수행하는 너희들이 불쌍하다’고 말했다는 정황도 나왔다. 이 전 본부장은 “공수처 검사들이 55경비단 인원들에게 ‘불법적 명령을 수행하는 너희들이 불쌍하다’ ‘군에 온 병사들이 불쌍하다’고 한 것을 들었느냐”는 변호인 질문에 “그분들(공수처 검사들)이 계속 달랬던 것 같다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>심기 불편한 경북도, “캄보디아 모든 공적 개발 원조 중단” </title>
       <link>https://www.chosun.com/national/2025/10/21/OYMUY6VVYNESJFASW5JVG6O5TM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/10/21/OYMUY6VVYNESJFASW5JVG6O5TM/</guid>
@@ -715,118 +837,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENHGXI3W5BCC3IRUYPMDIMXL5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박찬욱 감독이 영화 ‘어쩔수가없다’로 지난 19일 폐막한 58회 시제스 영화제에서 감독상을 받았다.&lt;br&gt;&lt;br&gt;시제스 영화제는 스페인에서 매년 열리는 세계 최대 규모 장르 영화제다. 수상작 ‘어쩔수가없다’는 삶이 만족스러웠던 회사원 만수(이병헌)가 덜컥 해고된 후, 아내(손예진)와 두 자식을 지키기 위해 재취업을 준비하며 벌어지는 이야기를 담는다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>광복 80주년 ‘흥사단 대회’ 상하이서 열린다</title>
-      <link>https://www.chosun.com/national/people/2025/10/21/HULH6Q5NAJFVPAUTTHOYCW52UY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/21/HULH6Q5NAJFVPAUTTHOYCW52UY/</guid>
-      <dc:creator>안태민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWZEJTFP3FHYXOA7XFX3EVYXVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;흥사단 창립자 도산 안창호 선생. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;흥사단이 오는 23~26일 4일간 중국 상하이 일대에서 제112차 흥사단 대회를 개최한다.&lt;br&gt;&lt;br&gt;이번 대회에서는 광복 80주년과 임시정부 수립 106주년을 기념해 국내외 흥사단원 200여 명이 임시정부 설립지 상하이에 모인다. 흥사단은 1913년 도산 안창호&amp;lt;&lt;b&gt;사진&lt;/b&gt;&amp;gt; 선생이 민족 번영을 위해 설립한 단체다. 현재 국내외 35개 지부를 두고 시민·청소년 교육 및 평화 통일, 독립운동가 후손 돕기 운동을 하고 있다. &lt;br&gt;&lt;br&gt;올해 모범 단우 표창을 받는 흥사단 민족통일운동본부 양영두 상임대표는 “안창호 선생이 구국 결의를 다진 장소에서 대회를 진행해 영광”이라며 “흥사단의 ‘무실역행 충의용감’ 정신을 되새기는 계기가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DWZEJTFP3FHYXOA7XFX3EVYXVU.jpg?auth=2ef32b9c02ed220a750f39fd2f4e014927e34489dc95d9473197aa772b341c48&amp;smart=true&amp;width=550&amp;height=696" type="image/jpeg" height="696" width="550">
-        <media:description type="plain">흥사단 창립자 도산 안창호 선생. /조선일보 DB</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>최창규 前 독립기념관장 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/21/GBVVMLMV5BH7JIOTVB5PWZPSQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/21/GBVVMLMV5BH7JIOTVB5PWZPSQM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2UAUAGIY5HYJKSR5ZZDGIQ22A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최창규 전 독립기념관장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;독립기념관과 성균관장을 지낸 최창규(88) 전 국회의원이 20일 별세했다. 충남 청양 출신으로 면암 최익현 선생의 현손이다. 서울대 정치학과 교수로 재직하던 중 1981년 민주정의당 소속으로 국회의원에 당선됐고 1985년 재선됐다. 1992년 제3대 독립기념관장, 1998년 제25대 성균관장을 지냈다. 유족은 아내 이현구씨와 자녀 최진홍·최진백·최익진·최여진씨 등이 있다. 빈소는 서울대병원, 발인은 23일 오전 7시, (02)2072-2010&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 김석규 별세 외 </title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/10/21/FJE6VI5JDVDTZMLZWDEITM2GJQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/10/21/FJE6VI5JDVDTZMLZWDEITM2GJQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;김석규&lt;/b&gt; 별세, &lt;b&gt;김우찬&lt;/b&gt; 고려대 경영대학 교수 부친상=19일19시 고려대 안암병원, 발인 23일9시30분, (02)923-4442&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송금봉&lt;/b&gt; 별세, &lt;b&gt;강동한&lt;/b&gt; 중소기업중앙회 부회장 장모상=20일4시10분 동국대경주병원, 발인 22일7시30분, (054)770-8334&lt;br&gt;&lt;br&gt;▲&lt;b&gt;송영대&lt;/b&gt; 별세, &lt;b&gt;이동림&lt;/b&gt; 뉴스캔 편집국장 장인상=19일21시55분 원자력병원, 발인 22일8시, (02)970-1541&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 공정위원회</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/21/UCYEWNDIS5DFVLYJOFHFLG2IAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/21/UCYEWNDIS5DFVLYJOFHFLG2IAI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:43:00 +0000</pubDate>
-      <content:encoded>▲공정거래위원회◇부이사관 승진▷운영지원과장 신용희&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [사소한 역사] 백신 맞으러 가는 보건소, 언제 생겼을까?</title>
-      <link>https://www.chosun.com/national/nie/2025/10/21/2S4GVJP76FAWRCE64PTV3MLEWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/21/2S4GVJP76FAWRCE64PTV3MLEWU/</guid>
-      <dc:creator>김현철 서울 영동고 역사 교사</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:42:00 +0000</pubDate>
-      <content:encoded>요즘 독감 예방접종 시즌이 오면서 병원뿐 아니라 보건소를 찾는 사람도 많아졌어요. 그런데 문득 이런 궁금증이 생길 수도 있어요. “병원이 있는데, 보건소는 또 왜 있을까?” 사실 보건소는 단순히 아픈 사람을 치료하는 곳이 아니라, 지역 주민 전체의 건강을 지키는 공공의료 기관이랍니다. 오늘은 우리가 백신 등을 맞으러 흔히 가는 보건소는 언제부터 생겼는지 알아보도록 하겠습니다.&lt;br&gt;&lt;br&gt;아주 오래전에는 지금 같은 공중보건 제도가 없었어요. 나라가 깨끗한 환경을 유지할 수 있도록 수도 시설을 만들고, 전염병이 퍼질 때 환자를 격리하는 정도에 그쳤죠.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5QVFCZFYEFEXHI6T2RU6KNJS7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 충북 괴산군보건소에서 대상포진 예방접종을 하고 있는 모습.
-/괴산군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사람들이 질병을 미리 예방해야 한다는 생각을 갖게 된 것은 의학과 생물학이 발전하면서부터예요. 또한 산업혁명이 일어나면서 많은 사람이 도시로 몰려들자, 전염병이 빠르게 번지는 일이 자주 생겼어요. 이때부터 나라와 지역이 함께 질병을 막는 공중보건 제도의 필요성이 커졌답니다. &lt;br&gt;&lt;br&gt;그래서 19세기 말부터 20세기 초까지 유럽과 미국을 중심으로 보건소 형태의 기관이 자리 잡기 시작했어요. 제2차 세계대전이 끝난 뒤엔 ‘세계보건기구(WHO)’가 만들어졌고, 이때부터 여러 나라가 협력해 전염병을 막는 제도를 마련하면서 많은 전염병을 예방할 수 있게 되었답니다.&lt;br&gt;&lt;br&gt;우리나라에선 삼국 시대, 고려, 조선 시대를 거치며 여러 의료 시설이 세워졌지만, 병을 예방하는 보건소 개념이 등장한 것은 조선 후기부터였답니다. 일부 지역에서 종두법(천연두 예방 백신)이 실시되었고, 갑오개혁 시기에는 정부에 위생 담당 부서를 두어 전염병을 예방하고 백신 관련 일을 맡겼어요. 이런 변화는 오늘날 우리나라 공중보건 제도의 첫걸음이었지요.&lt;br&gt;&lt;br&gt;광복 후 미군정이 들어서면서 서울엔 ‘모범 보건소’가 설치되고 여러 보건 사업이 시작됩니다. 1956년에는 보건소법이 국회에서 통과되면서 전국의 시·군 보건소가 설치되어 지방에도 의료 체계가 조금씩 자리를 잡기 시작했죠. &lt;br&gt;&lt;br&gt;하지만 시골의 보건소나 보건지소에는 의사가 너무 부족하다는 문제가 있었어요. 그래서 ‘공의’를 배치해 시골 지역 보건소에서 진료를 하도록 하거나, 의사 국가고시에 통과하지 못한 의대생들에게 조건부 의사 면허를 주며 일정 기간 공공의료시설에서 근무하게 하기도 했어요. 하지만 이 역시 단기적이었고, 의사들이 오래 근무하지 않아 보건소 의료 서비스가 불안정했어요.&lt;br&gt;&lt;br&gt;그래서 정부는 새로운 방법을 마련했어요. 그게 바로 공중보건의사 제도예요. 이 제도는 의사들이 보건소에서 일정 기간 근무하면 군 복무를 대신할 수 있도록 한 제도랍니다. 이 제도가 생기면서 시골이나 섬처럼 의사가 부족한 지역에서도 치료를 받을 수 있게 된 것이죠.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [위인과 정신건강] 영국의 전쟁 영웅… 그를 강하게 만든 건 마음 속 ‘검은 개’였대요</title>
-      <link>https://www.chosun.com/national/nie/2025/10/21/IHAEDAMGEVDNRHYLX3KTETOFNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/21/IHAEDAMGEVDNRHYLX3KTETOFNU/</guid>
-      <dc:creator>이헌정 고대 안암병원 정신건강의학과 교수</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:42:00 +0000</pubDate>
-      <content:encoded>윈스턴 처칠(1874~1965)은 영국 옥스퍼드 근교의 블렌하임 궁전에서 태어났어요. 귀족 집안에서 자랐지만, 그는 어릴 때부터 마음속에 늘 불안과 외로움을 안고 살았어요. 훗날 그는 이 마음의 어둠을 “블랙 도그(Black Dog)”라고 불렀어요. 커다란 검은 개가 그림자처럼 자신을 따라다니는 것 같았기 때문이에요.&lt;br&gt;&lt;br&gt;성인이 된 후에도 처칠은 깊은 우울과 불면에 시달렸어요. 밤에는 좀처럼 잠을 이루지 못했고, 대신 낮에 1~2시간씩 짧은 잠을 자며 “낮잠은 하루를 두 번 살게 한다”고 낮잠을 예찬했어요. 하지만 오늘날 의학적으로 보면, 이런 긴 낮잠은 오히려 생체 리듬을 깨뜨려 불면증을 더 심하게 만들 수도 있어요. 낮잠이 힘이 되기도 하지만, 때로는 마음의 균형을 흐트러뜨릴 수도 있었던 거예요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQDKM2ORG5CZPPFZML3AUEQBGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 자신의 고통을 숨기지 않았어요. 그는 “오늘도 블랙 도그가 나를 따라다닌다”고 말하며, 내면의 어둠을 솔직히 인정했습니다. 그의 정직함은 단순한 자기 고백이 아니라, 자신의 한계를 직시하려는 용기였지요.&lt;br&gt;&lt;br&gt;정신과 의사 나시르 가에미는 저서 ‘광기의 리더십’에서 이렇게 말합니다. “평범한 시기에는 안정된 리더가 필요하지만, 위기 상황에서는 오히려 마음의 고통을 겪어본 사람이 더 훌륭한 리더가 될 수 있다.” 우울증을 경험한 사람은 근거 없는 낙관에 빠지지 않고, 현실을 냉정하게 보는 통찰력을 가지며, 스스로 고통을 겪어봤기에 타인의 두려움과 고통에 공감할 수 있는 리더십을 발휘할 수 있다는 것이지요. 처칠이 바로 그랬어요. 그는 평생 블랙 도그와 싸우면서도, 전쟁 중에는 누구보다 명확하게 상황을 파악하고 단호한 결정을 내렸지요. 그의 연설은 단순한 정치적 언어가 아니라, 진짜 고통 속에서 길어 올린 인간적인 이야기였어요. 그래서 국민은 그를 신뢰했고, 그 신뢰가 영국을 지탱했지요.&lt;br&gt;&lt;br&gt;1930년대, 처칠은 독일의 히틀러가 전쟁을 일으킬 위험을 누구보다 먼저 깨닫고 경고했어요. 그때는 대부분의 사람이 그의 말을 듣지 않았지만, 나중에 사람들은 “그 말이 예언 같았다”고 평가하게 되지요. &lt;br&gt;&lt;br&gt;1939년, 독일이 폴란드를 침공하며 제2차 세계대전이 발발하자 영국은 강한 리더십을 필요로 했어요. 이후 처칠은 해군부 장관으로 임명됐고, 1940년엔 총리로 선출되지요.&lt;br&gt;&lt;br&gt;그는 전쟁 속에서도 결코 흔들리지 않았어요. “우리는 해변에서도 싸울 것이며, 결코 항복하지 않을 것이다.” 그의 단호함은 영국을 나치 독일의 공포 속에서 지켜냈어요. 블랙 도그와 싸우며 얻은 내면의 강인함을 리더십으로 승화시킨 거예요.&lt;br&gt;&lt;br&gt;은퇴 후 처칠은 그림과 글쓰기에 몰두했어요. 그리고 1965년 뇌졸중으로 세상을 떠나자 영국은 국장(國葬)으로 그를 배웅했지요. 사람들은 그를 전쟁 영웅이자 자기 마음의 어둠을 이겨낸 진짜 용기 있는 사람으로 기억했어요. 그의 삶은 지금도 우리에게 말해요. “두려움이 있어도, 끝까지 싸워야 합니다. 그리고 결코 포기하지 마십시오.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [재미있는 과학] 레고처럼 조립하는 원전… 배관 없애 방사능 유출 위험 줄였죠</title>
-      <link>https://www.chosun.com/national/nie/2025/10/21/P2HJ7COPF5HZ3JA53XY7UZKEYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/21/P2HJ7COPF5HZ3JA53XY7UZKEYU/</guid>
-      <dc:creator>김형자 과학칼럼니스트, 기획·구성=윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:42:00 +0000</pubDate>
-      <content:encoded>1979년 미국 스리마일섬, 1986년 소련 체르노빌, 2011년 일본 후쿠시마 등에서 발생한 원자력 발전(이하 원전) 사고는 “원전이 위험하다”는 불안감을 일으켰지요. 하지만 요즘은 상황이 많이 달라졌어요. 지구온난화를 막기 위해 ‘탄소 중립’을 실현하는 게 전 세계의 과제가 되었거든요. 그래서 최근엔 원전을 줄이던 나라들도 다시 원전에 관심을 보이는 현상까지 나타나고 있지요.&lt;br&gt;&lt;br&gt;세계 각국은 더 안전하고 효율적인 원전 기술을 찾고 있어요. 그중 주목받는 것이 ‘소형 모듈 원자로(SMR·Small Modular Reactor)’예요. 이름처럼 크기가 작고 조립식으로 만들 수 있는 새로운 원전이지요. 그렇다면 왜 굳이 작게 만들려는 걸까요? 오늘은 SMR이 무엇이고, 어떤 장점이 있는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HS64QRD7NVFWZL4RGEHM2VOAMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;원전의 기본 원리는 핵분열&lt;/b&gt;&lt;br&gt;&lt;br&gt;SMR은 말 그대로 ‘작은 원전’이에요. 우리가 흔히 떠올리는 대형 원전은 아파트 단지 규모의 거대한 시설이지만, SMR은 대형 원전의 10분의 1 정도 사이즈라고 해요. 체육관 정도의 건물인 거죠.&lt;br&gt;&lt;br&gt;그래서 만들어내는 전기도 대형 원전의 20~30% 정도예요. SMR 하나가 만들어내는 전기는 보통 300메가와트(㎿) 이하인데요, 이는 30만 가구에 전력을 공급할 수 있는 수준이라고 해요. SMR은 레고 블록처럼 모듈을 이어 붙이면 발전량을 늘릴 수 있어요. 예를 들어, 100㎿짜리 SMR을 3개 연결하면 300㎿급 원전이 되는 거예요. &lt;br&gt;&lt;br&gt;그럼 SMR은 어떻게 작동할까요? SMR이든 대형 원전이든 전기를 만드는 기본 원리는 같아요. ‘핵분열’로 생긴 열에너지를 이용하죠. 우리 주변의 모든 물질은 아주 작은 알갱이인 원자로 이뤄져 있는데요. 원자 속에는 양성자와 중성자가 모여 있는 ‘원자핵’이 가운데 있고, 그 주위를 전자가 돌고 있어요. 태양계를 떠올리면 이해하기 쉬워요. 원자핵은 태양처럼 가운데 있고, 전자는 지구처럼 그 둘레를 돌고 있는 거예요.&lt;br&gt;&lt;br&gt;원자핵 속에서 양성자와 중성자는 아주 단단히 붙어 있어요. 그런데 우라늄처럼 무거운 원소의 원자핵에 중성자가 부딪히면, 원자핵이 두 개로 쪼개지며 엄청난 열에너지가 나옵니다. 이런 과정을 ‘핵분열’이라고 해요. &lt;br&gt;&lt;br&gt;이렇게 생긴 열을 천천히, 안전하게 조절하면서 이용하는 장치가 바로 원자력 발전소예요. 원전에서는 핵분열이 이어지며 생긴 뜨거운 열로 물을 끓이고, 그때 생긴 증기의 힘으로 터빈을 돌려 전기를 만들어요. 쉽게 말해, 끓는 물의 김으로 거대한 발전기를 돌리는 셈이죠.&lt;br&gt;&lt;br&gt;원전의 연료로는 주로 우라늄-235라는 물질을 써요. 이 우라늄 단 1g이 만들어내는 에너지는 석탄 3톤이나 석유 1800리터를 태웠을 때와 비슷하다고 하니, 정말 놀라운 에너지예요. 하지만 이런 핵분열 과정에서 유해한 방사성 폐기물이 생기는 것이 단점이지요. &lt;br&gt;&lt;br&gt;&lt;b&gt;대형 원전보다 안전한 SMR&lt;/b&gt;&lt;br&gt;&lt;br&gt;SMR의 가장 큰 목표 중 하나는 ‘안전성’이에요. 기존 대형 원전은 여러 장치가 따로 떨어져 있어요. 예를 들어, 물을 데우는 ‘증기 발생기’, 압력을 조절하는 ‘가압기’, 열을 식히는 ‘냉각 펌프’가 각각 따로 있고, 이들을 굵은 배관이 연결하고 있지요. 평소에는 안전하지만, 큰 사고가 나면 이 배관이 끊어지거나 터질 위험이 있어요. 그럼 방사성 물질이 새어 나올 수도 있는 거지요.&lt;br&gt;&lt;br&gt;그래서 SMR은 이런 위험을 줄이기 위해 모든 장치를 하나의 큰 통 안에 넣는 구조로 만들었어요. 이 통을 ‘압력 용기’라고 해요. 배관이 외부로 드러나지 않기 때문에, 혹시 사고가 나더라도 방사능이 밖으로 새어 나올 가능성이 줄어드는 거예요.&lt;br&gt;&lt;br&gt;SMR은 혹시 모를 사고에도 스스로 식을 수 있도록 특별한 안전장치를 갖추고 있어요. 이 장치를 ‘수동 안전 시스템’이라고 부릅니다. 보통 원전이 멈추더라도 안에 있던 연료는 바로 차가워지지 않아요. 핵분열이 멈춘 뒤에도 남은 물질들이 계속 열을 내기 때문이지요. 그래서 전기가 끊기면 냉각 시스템도 멈춰서, 열이 쌓여 연료가 녹아버릴 수도 있어요.&lt;br&gt;&lt;br&gt;SMR은 이런 위험을 줄이기 위해 전기가 없어도 자동으로 식는 구조로 되어 있어요. 원자로가 지하의 물탱크(수조) 안에 들어 있고, 안의 물이 뜨거워지면 자연스럽게 물이 순환하며 열이 식는 장치를 갖추고 있어요. 그래서 지진이나 쓰나미 같은 큰 사고가 나더라도 폭발 위험이 낮고, 혹시 사고가 나더라도 주요 장치들이 용기 하나에 담겨 있기 때문에 방사능이 밖으로 새어나갈 가능성이 작아요.&lt;br&gt;&lt;br&gt;&lt;b&gt;‘전기 먹는 하마’ 데이터센터의 구원투수&lt;/b&gt;&lt;br&gt;&lt;br&gt;SMR의 또 다른 장점은 조립식으로 만들 수 있다는 거예요. 대형 원전은 현장에서 모든 부품을 설치해야 하지만, SMR은 공장에서 미리 만들어진 모듈을 옮겨 와 블록처럼 조립하면 완성돼요. 그래서 공사 기간이 짧고 비용도 대형 원전의 5분의 1 수준으로 예측된다고 해요.&lt;br&gt;&lt;br&gt;SMR은 전기가 많이 필요한 산업 현장에 알맞은 발전 방식이기도 해요. 특히 수많은 데이터를 처리하는 데이터센터는 하루 24시간, 1년 365일 안정적으로 전기를 공급받아야 하는데요. 대형 원전도 전기를 계속 생산할 수 있지만, 한번 멈추면 전체가 정비될 때까지 가동이 중단되고, 전기 사용량이 변해도 세밀하게 출력을 조절하기 어렵다는 단점이 있어요. 반면 SMR은 작은 발전소 여러 개가 묶인 구조라서 전기가 덜 필요할 땐 일부만 돌릴 수도 있고, 산업 현장 근처에 세워 송전 과정에서의 전력 손실도 줄일 수 있지요.&lt;br&gt;&lt;br&gt;SMR은 아직 현실화된 건 아니에요. 국제원자력기구(IAEA)에 따르면, 2022년 기준 세계 18국에서 SMR 모델 80여 종을 개발 중이래요. 전문가들은 2030년대에야 SMR이 보급될 것이라고 전망하고 있지요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] (몹시) 허둥지둥하다, 당황하다, 허둥대다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/21/YGETK2PILZAK5EFPYKRTODAL64/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/21/YGETK2PILZAK5EFPYKRTODAL64/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3YIP5IVKJA65ETQE36SPIGWYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2726] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2025/10/21/6PQKPVIKZVGCHC7WDOFS4BKGOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/21/6PQKPVIKZVGCHC7WDOFS4BKGOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z26QTKNROFCV5KUXI5ITM4TWSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] hustle and bustle </title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/21/SLAYYFHLTBENNDMSL3QRU2HOMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/21/SLAYYFHLTBENNDMSL3QRU2HOMQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADRCDRXQVJE73H5RBX4LHGCWJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 업그레이드하다, 품질을 향상시키다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/21/IA7MMLY6HZANTEIKV2QUQYB4QY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/21/IA7MMLY6HZANTEIKV2QUQYB4QY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6JSH6IES5BUHEUQRK467HQ42A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 복명복창(復命復唱)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/21/TWBYIJ5LRNHANG2ABEEDZ7CCSA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/21/TWBYIJ5LRNHANG2ABEEDZ7CCSA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYDOIB6C7FDCVACSWRXVAG4TFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 10월 21일</title>
       <link>https://www.chosun.com/national/transport-environment/2025/10/20/NKEDWQVZQNHWFHY7BIL6YPNBPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/20/NKEDWQVZQNHWFHY7BIL6YPNBPY/</guid>
@@ -843,15 +853,6 @@
       <description/>
       <pubDate>Mon, 20 Oct 2025 13:54:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRGVAXEM3FJW7M3VOHHOQ63STQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최진수 대법원 윤리감사관이 20일 국회 법사위에서 열린 2025년도 서울고법과 수원고법, 서울중앙지법 등 수도권, 강원 지역 법원에 대한 국정감사에 증인으로 출석해 인사하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 등의 내란 혐의 재판을 담당하는 지귀연 서울중앙지법 부장판사의 ‘술 접대 의혹’을 감사한 대법원 윤리감사관이 논란의 술자리에서 동석자가 170만원을 결제한 사실을 확인했다고 밝혔다. 다만 “이는 지 부장판사가 술자리를 떠난 이후 상황으로 청탁금지법 위반 의혹과 관련이 없고, 지 부장판사를 포함하더라도 ‘1인당 100만원’ 이하로 징계 사유가 되지 않는다”고 했다. &lt;br&gt;&lt;br&gt;20일 국회 법제사법위원회의 서울중앙지법 국정감사에 출석한 최진수 대법원 윤리감사관은 당시 술자리 결제 금액이 얼마였는지 추궁하는 김용민 더불어민주당 의원에게 “170만원이었다”고 답했다. 앞서 대법원 감사 결과 지 부장판사는 2023년 8월 후배 변호사 2명에게 저녁 식사를 사준 뒤, 해당 주점으로 자리를 옮겨 술을 한두 잔 마시고 다음 날 재판 준비를 위해 일찍 자리를 뜬 것으로 조사됐다.&lt;br&gt;&lt;br&gt;최 감사관은 “그 주점에서 술 한병이 얼마였는지 파악할 수는 없었지만 170만원을 아무리 넓게 인정한다고 해도 ‘1인당 100만원 이하’에 포섭되기 때문에 징계 사유를 인정하기 어렵다”고 했다. 청탁금지법은 공직자가 직무와 관련 없이 1회 100만원을 넘는 금품을 받으면 형사 처벌하게 돼 있다.&lt;br&gt;&lt;br&gt; 직무 관련성이 있다면 액수와 상관없이 금품을 받아선 안 된다. 최 감사관은 “지 부장판사와 동석자들 간 10년간 사건 연계성이 전혀 없었다”며 “직무 관련성이 인정되지 않으면 비위 사실을 인정하기 어렵다는 판단”이라고 했다. 그러면서 “술자리에 동석한 당사자 3명의 진술이 지금은 일치하고 있다”며 “진술이 진짜 맞는지는 강제적 수사권을 가진 수사기관에서 판단해야 할 문제라고 잠정적 결론을 내린 상태”라고 덧붙였다.&lt;br&gt;&lt;br&gt;대법원은 지난달 지 부장판사의 술 접대 의혹 감사 결과를 발표하고 지 부장판사와 동석자들 간 직무 관련성이 인정되기 어렵다”는 결론을 내렸다. 이런 조사 내용을 심의한 법원 감사위원회도 “현재 확인된 사실관계만으로는 지 부장판사에게 징계 사유가 있다고 판단하기 어렵다”면서 “향후 고위공직자범죄수사처 조사 결과에 따라 비위 행위가 드러날 경우 엄정하게 처리하라”고 권고했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대전경찰, 캄보디아서 송환된 보이스피싱 피의자 구속...“도주 우려”</title>
-      <link>https://www.chosun.com/national/incident/2025/10/20/FY2AYIILCRAFRAPKU7Y7N3CFHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/20/FY2AYIILCRAFRAPKU7Y7N3CFHU/</guid>
-      <dc:creator>김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 20 Oct 2025 12:56:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AZ5GDZJO5G2BPKI5LUUQZPZRWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 당국의 범죄단지 단속으로 적발돼 구금됐던 한국인들이 18일 오전 인천국제공항 2터미널을 통해 송환되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 송환돼 대전경찰청 수사를 받아온 피의자 1명이 구속됐다.&lt;br&gt;&lt;br&gt;대전지법 송선양 영장전담 부장판사는 20일 “도주 우려가 있다”며 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 3월 보이스피싱 범죄에 가담한 혐의(사기방조 등)로 경찰 수사를 받아왔다. 캄보디아 현지에서 불법 금융 범죄조직과 함께 활동하다 현지 당국에 붙잡힌 뒤 지난 18일 국내로 송환된 64명 중 한 명이다&lt;br&gt;&lt;br&gt;경찰은 A씨가 국내 피해자들로부터 돈을 송금받는 역할을 맡은 것으로 보고 공범 여부와 자금 흐름을 추적 중이다.&lt;br&gt;&lt;br&gt;앞서 경찰은 캄보디아에서 범죄에 가담했다가 국내로 송환된 한국인 64명 중 59명에 대해 구속영장을 신청했다. 이들은 불법 도박 및 보이스피싱 조직에 가담한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대검 ‘쿠팡 일용직 퇴직금 무혐의 의혹’ 부천지청 현장조사 착수</title>
