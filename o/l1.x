@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>현직 부장검사 개인 비위로 송치···법무부, 직무정지</title>
+			<description>법무부가 개인 비위로 검찰 수사를 받고 있는 부장검사의 직무집행을 정지했다.&lt;br /&gt;&lt;br /&gt;법무부는 22일 정성호 장관이 수원지검 성남지청 소속 A 부장검사가 직무를 수행하는 것이 현저히 부적절하다고 판단해 직무집행 정지를 결정했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;A 부장검사는 기소 의견으로 검찰에 송치돼 수사받고 있다. 해당 부장검사는 여성의 신체를 접촉하는 등 강제추행한 혐의를 받고 있는 것으로 알려졌다.&lt;br /&gt;&lt;br /&gt;앞서 이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1493"&gt;노만석&amp;nbsp;&lt;/span&gt;검찰총장 직무대행은 검사징계법에 따라 정 장관에게 A 부장검사의 직무집행 정지를 요청했다.&lt;br /&gt;&lt;br /&gt;대검찰정은 수사와 별도로 A 부장검사에 대해 감찰도 진행하고 있다. 법무부는 "감찰 결과에 따라 엄중하게 조치할 예정"이라고 말했다.</description>
+			<pubDate>Wed, 22 Oct 2025 12:36:05 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212476</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212476</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>특검 "통일교에서 받은 김건희 목걸이·구두 확보"</title>
 			<description>김건희 여사의 각종 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 김 여사가 통일교로부터 청탁과 함께 받은 물품을 확보했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="847"&gt;박상진&lt;/span&gt;(사법연수원 29기) 특검보는 22일 브리핑에서 "건진법사 전성배 측 변호인을 통해 6220만원 상당 그라프 목걸이 1개와 김건희가 수수한 뒤 교환한 샤넬 구두 1개, 샤넬 가방 3개를 임의 제출받아 압수했다"고 발표했다. 특검팀은 2022년 통일교가 교단 현안을 청탁하며 김 여사에게 건넸다는 물품의 실물을 찾지 못하고 있었다.&lt;br /&gt;&lt;br /&gt;특검팀에 따르면 20일 전 씨는 김 여사에게 준 물품을 2024년 돌려받아 가지고 있다는 의견서를 재판부에 냈다. 이에 따라 특검이 전 씨에게 요구해 이튿날 오후 늦게 물품을 제출받았다는 것이다. 전 씨는 알선수재 혐의로 재판을 받고 있다.&lt;br /&gt;&lt;br /&gt;통일교에서 물품을 받은 뒤 잃어버려 김 여사에게 주지 못했다던 전 씨가 왜 태도를 협조적으로 바꿨는지는 명확하지 않다. 박 특검보는 "공판에서 추가 증인신청 및 수사를 통해 물품이 전달, 반환, 보관된 경위를 명확히 할 예정"이라고 했다.&lt;br /&gt;&lt;br /&gt;김 여사 측은 해당 물품을 김 여사가 직접 받았는지 확인되지 않았다며 반발했다. 변호인단은 이날 입장문을 내고 "공범으로 지목된 전성배 측의 제출 과정에서 위법 또는 회유·유도 가능성, 동일성 유지 여부를 면밀히 살필 필요가 있다"고 주장했다.&lt;br /&gt;&lt;br /&gt;박 특검보는 물품이 김 여사에게까지 전달됐다고 전 씨가 주장하고, 김 여사 측근 유경옥 전 대통령실 행정관이 물품 일부를 교환할 때 현장에 있던 샤넬 매장 직원의 증언도 있다며 맞섰다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "구두의 밑창과 끈, 가방을 보면 사용감이 보인다"며 물품에서 지문을 채취해 누가 사용했는지 확인하는 방안도 검토 중이라고 했다.</description>
 			<pubDate>Wed, 22 Oct 2025 09:16:00 -0000</pubDate>
@@ -229,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212452</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212452.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>서울중앙지방법무사회, '2025 생명사랑 밤길걷기' 행사 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212448.jpg" alt="212448.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;10월 17일 열린 '2025 생명사랑 밤길걷기' 행사 참가자들이 단체사진을 촬영하고 있다.《사진=서울중앙지방법무사회》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;서울중앙지방법무사회(회장 류선재)는 10월 17일 서울 서초구 반포동 한강공원 세빛섬에서 영등포구 여의도동 63빌딩까지 약 6.3km를 걸어가는 '2025 생명사랑 밤길걷기' 행사를 개최했다.&lt;br /&gt;&lt;br /&gt;'2025 생명사랑 밤길걷기'는 사회복지법인 생명의전화(이사장 임혜숙)가 주관하는 자살예방캠페인이다.&lt;br /&gt;&lt;br /&gt;서울중앙지방법무사회는 2008년부터 캠페인 공식후원단체로 참여해, 지난해에 이어 올해도 700만 원을 후원했다. 이날 행사에는 집행부, 상임이사, 봉사단원, 지부장, 지부회원 등 회원 70여 명이 참여했다.&lt;br /&gt;&lt;br /&gt;류선재 회장은 "생명존중 의식과 자살예방 인식개선은 법무사의 직역 및 시민의 권리보호와 법률지원과도 밀접한 연관이 있다"며 "앞으로도 생명존중 문화 확산과 이웃을 위한 나눔 활동에 서울중앙지방법무사회가 앞장서겠다"고 말했다.</description>
-			<pubDate>Tue, 21 Oct 2025 12:59:43 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212448</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212448</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212448.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
