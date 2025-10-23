@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>공기업 구내매점, 노조에 상납하고 9년간 임대료 면제받았다</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/24/Y2HWL5HI3FFTHLSOVAEUIKGIDE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/24/Y2HWL5HI3FFTHLSOVAEUIKGIDE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 22:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5BZL63VGHWKEPBAQHXVKKB3MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회의사당 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공기업인 정보통신기획평가원(이하 평가원) 구내매점이 매달 노조 측에 60만원을 상납하는 대가로 지난 9년간 임대료를 면제받아온 사실이 드러났다. 평가원은 이 같은 사실을 확인하고도 관련자 중 1명만 불문경고 처리했다. &lt;br&gt;&lt;br&gt;23일 최수진 국민의힘 의원실이 평가원으로부터 제출받아 공개한 2024년 종합감사처분요구서 등에 따르면 평가원은 본관 1층 일부 공간(47.6㎡)에서 운영되고 있는 구내매점으로부터 2016년부터 2024년까지 약 9년 동안 임대료를 받지 않았다. &lt;br&gt;&lt;br&gt;평가원은 ‘국가계약법’에 따라 공공기관(위탁집행형 준정부기관)으로서 구내매점 운영업체를 공고 및 일반경쟁 절차를 통해 선정해야 한다.&lt;br&gt;&lt;br&gt;하지만 평가원은 수년간 동일 업체에 매달 공공요금 20만원만을 받으며 특혜성 임대를 해왔다. 가장 최근 계약은 2022년 5월에 체결되었으나, 계약 만료일인 2023년 5월 이후에는 사용계약조차 갱신되지 않은 상태에서 매점이 계속 운영됐다.&lt;br&gt;&lt;br&gt;이처럼 구내 매점이 임대료 없이 영업을 지속할 수 있었던 배경에는 노조와의 불법적 유착이 있었던 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;평가원 감사실은 2024년 실시한 종합 감사를 통해, 매점 측이 노조 간부의 개인 계좌로 매월 60만원을 상납해 온 사실을 확인했다.&lt;br&gt;&lt;br&gt;노조는 매점에서 받은 돈으로 백화점 상품권을 구입해 보직자와 노조원들에게 지급한 것으로 드러났다. &lt;br&gt;&lt;br&gt;노조가 특정인에게 무상 임대라는 특혜를 제공하고 금전적 이득을 챙긴 것은 임직원 행동 강령 및 청탁금지법 위반에 해당한다. 또한 기관 시설을 무상으로 임대해 손실을 초래한 행위는 배임죄에 해당할 수 있다.&lt;br&gt;&lt;br&gt;그럼에도 평가원 감사실은 2024년 ‘구내매점 계약 부적정’ 감사에서, 매점의 불법 상납 사실은 문제 삼지 않고 사용 계약의 부적정만 문제 삼아 계약 당사자 등 12명에 대한 징계와 처분을 요구하는 데 그쳤다.&lt;br&gt;&lt;br&gt;또 인사위원회는 최종적으로 담당자 1명에게만 가장 낮은 징계 수위인 ‘불문 경고’를 내렸고, 나머지 관련자들은 전원 ‘미징계’ 처리했다.&lt;br&gt;&lt;br&gt;최수진 의원은 “과학기술정보통신부 산하 정보통신기획평가원 노조가 불법적으로 뒷돈을 받고 특정 업체에 무상으로 특혜를 제공했다”며 “노조 및 관련 직원은 청탁금지법 위반과 더불어 배임죄에 해당하는 불법을 저지른 만큼, 상위기관 감사를 통한 진상조사와 책임자 처벌이 반드시 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 백해룡의 수사 근거 된 밀수범, “세관 직원이 도운 적 없다” 말바꿔</title>
       <link>https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</guid>
@@ -827,15 +836,6 @@
       <description/>
       <pubDate>Thu, 23 Oct 2025 04:46:11 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YLU3XCV4BOG7OXPUF3RDK6THI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 서울 여의도 국회에서 열린 법제사법위원회 '검찰 개혁 청문회'에서 관봉권 띠지가 화면에 띄워져 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울남부지검이 ‘건진 법사’ 전성배씨의 관봉권 띠지를 유실한 의혹에 대해 대검찰청이 “지검장과 담당 검사 등 윗선의 고의나 지시는 없었다”고 결론 내린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면, 대검 감찰부는 이번 주 초 법무부에 이 같은 감찰 결과를 보고했다. 관봉권 관리 과정에서 실무적인 과실은 있지만 고의적인 ‘증거 은폐·인멸’ 정황을 확인하지 못했다는 취지다.&lt;br&gt;&lt;br&gt;법무부는 감찰 결과를 검토해 징계 대상자와 징계 수위 등을 최종 결정할 전망이다.&lt;br&gt;&lt;br&gt;관봉권 띠지 분실 의혹은 검찰이 작년 12월 전씨 자택에 대한 압수 수색 과정에서 발견한 1억6500만원의 현금 다발 가운데 5000만원에 둘러져 있던 관봉권 띠지와 스티커를 잃어버렸다는 것이다. 통상 수사기관은 띠지에 기록된 정보를 바탕으로 자금을 역추적하기 때문에, 띠지 분실 사실이 알려지자 정치권에서 ‘부실 수사’ ‘증거 인멸’ 의혹이 제기됐다. 남부지검 지휘부는 검사가 ‘원형 보존’을 지시했지만, 경력이 짧은 수사관이 현금만 보관하면 되는 줄 알고 스티커와 띠지를 버렸다고 해명했다.&lt;br&gt;&lt;br&gt;법무부는 이와 관련해 지난 8월 “진상 파악과 책임 소재 규명을 위한 감찰 등 필요한 모든 조치를 하라”고 감찰을 지시했고 대검 감찰부가 조사에 나섰다. 수사관 등 관계자를 조사해 사실관계를 확인한 결과, 고의로 띠지를 없앤 것은 아니라는 결론이 나온 것이다.&lt;br&gt;&lt;br&gt;법무부는 감찰 결과를 검토해 대검 차원의 조사가 부족했다고 판단하면 추가 조사를 지시할 수 있다. 상설 특검을 통한 재조사가 이뤄질 가능성도 있다. 앞서 이재명 대통령은 법무부에 “상설 특검 등을 포함해 진상을 규명할 수 있는 방안을 검토하라”고 지시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>취업 준비생 개인정보 유출당한 인크루트…개인정보위, 4억원대 과징금 부과</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/23/2YI45RGQBRGLDPOWW4D4RIGJMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/23/2YI45RGQBRGLDPOWW4D4RIGJMA/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 04:22:37 +0000</pubDate>
-      <content:encoded>개인정보보호위원회는 지난 22일 전체 회의를 열고 회원 727만여 명의 개인정보 유출 사고가 발생한 온라인 취업 포털 사이트 ‘인크루트’에 과징금 4억6300만원을 부과했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J75TQ5T33MZNLMDP2P54EIEEFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경희 개인정보보호위원회 위원장이 지난 22일 서울 종로구 정부서울청사에서 열린 제22회 전체회의에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 지난 2월 인크루트에서는 해킹 사고로 전체 회원 727만여 명의 개인정보가 유출되는 사고가 발생했다.&lt;br&gt;&lt;br&gt;개인정보위 조사 결과, 해커가 지난 1월 인크루트 직원의 PC를 감염시켜 개인정보 등을 저장해두는 데이터베이스 서버 접속 계정을 탈취한 것으로 밝혀졌다. 해커는 이를 통해 인크루트 회원 727만5843명의 개인정보를 비롯해 이력서·자기소개서 등 438기가바이트(GB) 분량의 파일 5만4475건을 유출했다.&lt;br&gt;&lt;br&gt;인크루트는 개인정보 유출 사실을 두 달이 지나서야 해커의 협박 메일을 통해 알게 된 사실도 조사 결과 드러났다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “업무 시간 외에 해커가 데이터베이스에 접속하는 등 평소와는 다른 기록이 있었음에도 대응을 소홀히 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;개인정보위는 구직 사이트 특성상 구직자들이 기본적인 개인정보뿐 아니라 학력, 경력, 장애 여부 등 내밀한 개인정보를 입력해야 함에도 인크루트가 안전 조치 의무를 소홀히 했다는 점에서 사안을 중대하다고 판단했다.&lt;br&gt;&lt;br&gt;2023년 7월 인크루트에서 개인정보 3만5076건이 유출되는 사고가 발생했는데 또다시 개인정보 유출 사고가 발생한 점도 지적했다.&lt;br&gt;&lt;br&gt;이에 개인정보위는 인크루트에 과징금 4억6300만원을 부과하고, 홈페이지에도 이 같은 사실을 공표하도록 명령했다. 60일 이내에 개인정보위에 재발 방지 계획을 보고하도록 시정 명령도 내렸다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “인크루트처럼 유출 사고가 반복되는 기업에 징벌적 과징금을 부과하는 등 앞으로는 제재 수위를 더 높이겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>법사위, 與 주도 임성근·박성재·이완규 고발 의결 </title>
