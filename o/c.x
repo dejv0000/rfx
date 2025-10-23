@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>국감 출석 검사장 7명에 묻자... 임은정·김태훈 “수사권 폐지 동의”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/23/WL4V6IMKBNBMVN7TSG7J7BA2EY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/23/WL4V6IMKBNBMVN7TSG7J7BA2EY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 09:17:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HWXO5LA7SHP3WDBXNJ33RC2ADU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;임은정(맨 오른쪽) 서울동부지방검찰청장을 비롯한 증인들이 23일 서울 여의도 국회에서 열린 법제사법위원회의 서울고등검찰청 등에 대한 국정감사에서 증인 선서를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 국회 법제사법위원회 국정감사에 출석한 검사장들이 ‘검찰 수사권 폐지’에 대한 입장을 묻는 질의에 상반된 답변을 내놓았다. 검찰 수사권 폐지는 현재 정부와 여당이 추진하는 검찰 개혁의 핵심 사안이다.&lt;br&gt;&lt;br&gt;나경원 국민의힘 의원은 이날 국정감사에 증인으로 출석한 수도권 지역 검사장들에게 “저는 검찰 수사권을 완전 박탈하는 건 국민의 기본권을 보호하는 측면에서 합당하지 않다고 본다”며 “검찰 수사권 폐지에 동의하는지 아닌지 답변해달라”고 했다.&lt;br&gt;&lt;br&gt;이에 김태훈 서울남부지검장은 “수사·기소 분리 취지에 동의한다”며 찬성 입장을 냈다. 임은정 서울동부지검장 역시 “(검찰 개혁은 이재명 대통령의) 대선 공약이고, (이 대통령을 선출한) 국민의 선택해 대해 검찰은 유구무언이다. 겸허하게 받아들여야 한다”고 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;반면 나머지 5명의 검사장은 우려를 표명했다. 정진우 서울중앙지검장은 “입법권을 존중한다”면서도 “(검찰) 구성원으로서 동의하기 어렵다”고 했고, 구자현 서울고검장도 “향후 1년 동안 설계가 중요하다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;박재억 수원지검장도 “기소 결정 권한과 불가결한 보완수사가 필요하다”며 “국민에게 필요한 제도를 설계해줄 것을 믿는다”고 했다. 이준범 수원고검장 직무대리는 “수사·기소 분리 취지에 대해서는 이해하고 있습니다, 민생 침해 사건은 설계를 잘 해야 한다”고 했다. 박현준 서울북부지검장도 “동의하지 않는다”고 짧게 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>60대 경비원 모욕 주고 폭행… 아파트 입주자 대표 송치 </title>
+      <link>https://www.chosun.com/national/regional/2025/10/23/4Y7VG64ENVFLPMBUZJK5SQBJ3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/23/4Y7VG64ENVFLPMBUZJK5SQBJ3I/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 08:43:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3DU4BHOZPSH6IABHLBZKZFZ4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 아파트에서 경비원이 청소를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;60대 아파트 경비원을 폭행하고, 괴롭힌 혐의로 50대 아파트 입주자대표회의 회장이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;고용노동부 대구서부지청은 대구 한 아파트 입주자대표회의 회장을 경비원 폭행 혐의로 검찰에 송치했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;이날 대구서부지청에 따르면, 대구 달성군 한 아파트 입주자대표회의 회장인 A씨는 지난 7월 아파트 경비실을 찾아 경비원 B씨와 말싸움을 벌이다 B씨의 가슴을 밀쳐 넘어뜨려 전치 2주의 상처를 입힌 혐의를 받는다. 당시 A씨는 술에 취한 상태였다고 한다. A씨는 또 지난 5월부터 B씨에게 경비원 업무가 아닌 풀 베기, 가지치기, 도색, 지하 계단 청소 등 부당한 업무 지시를 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 또 이 아파트 관리소장에게 “B씨가 스스로 그만두게 할 것”과 “명예훼손 및 모욕감을 준 점에 대해 반성하고 아파트의 위계질서를 존중하겠다”는 내용의 각서에 B씨의 서명을 받아오라고 지시하기도 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;B씨의 진정을 접수한 대구서부지청은 ‘직장 내 괴롭힘 판단 전문위원회’ 등을 거쳐 사용자인 A씨의 행위가 ‘직장 내 괴롭힘’에 해당한다고 보고 과태료 500만원을 부과했으며, 폭행 부분에 대해서는 기소의견으로 검찰에 송치했다. &lt;br&gt;&lt;br&gt;대구서부지청 관계자는 “경비원들에 대한 입주자 대표의 부당한 업무 지시, 폭언 등 직장 내 괴롭힘 행위가 근절될 수 있도록 법 위반 사항에 대해 엄정히 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘연어 술파티 의혹’ 감찰, 일부 수사로 전환</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/23/3UH5LFPXMJBFLKF2HXRBNDAZHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/23/3UH5LFPXMJBFLKF2HXRBNDAZHE/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 09:11:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DCEPKKQMUZLSVCCON27MV3RPLU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 서울고검장이 23일 서울 여의도 국회 법제사법위원회에서 열린 서울고검·수원고검 등에 대한 국정감사에 출석해 의원 질의에 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대북 송금 사건 수사 과정에서 연어 술 파티가 있었다는 의혹을 감찰 중인 구자현 서울고검장이 23일 “일부 수사로 전환된 부분이 있다”고 했다.&lt;br&gt;&lt;br&gt;구 고검장은 이날 국회 법제사법위원회의 서울고검·수원고검 등에 대한 국정감사에 출석해 ‘(감찰과 관련해) 수사권을 부여받았냐’는 박균택 더불어민주당 의원의 질의에 이같이 답했다.&lt;br&gt;&lt;br&gt;서울고검은 정용환 감찰부장을 팀장으로 하는 ‘인권침해 점검 태스크포스(TF)’에서 이화영 전 경기도 평화부지사가 주장하는 연어 술 파티 의혹을 감찰하고 있다. 앞서 법무부는 지난달 17일 “2023년 5월 17일 이 전 부지사 등 불법 대북 송금 사건 피의자들과 검사가 검사실에서 연어회 덮밥과 초밥을 술과 함께 먹은 정황이 있다”며 검찰에 감찰을 지시했다. &lt;br&gt;&lt;br&gt;반면 사건을 수사한 박상용 검사는 관련 의혹을 부인하고 있다. 박 검사는 이날 국회에 증인으로 출석해 ‘검사실에서 술을 먹은 사실이 있냐’는 김기표 민주당 의원의 질문에 “없었다고 수차례 말했다”고 했다.&lt;br&gt;&lt;br&gt;한편 정진우 서울중앙지검장은 강압 수사와 미공개 정보 이용 주식 매매 의혹이 제기된 민중기 특별검사와 관련해 “어제 고발장을 접수해 배당을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘3대1 원칙’ 어긴 공직선거법… 헌재 “투표가치 평등 침해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/23/UMECUIPQ5NDOTAKBVZVZGKF774/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/23/UMECUIPQ5NDOTAKBVZVZGKF774/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 09:00:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNUOTEA3EJCIU2EHBDFGEOV3YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소 ⓒ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 지방선거에서 전북도의회 선거구가 ‘투표 가치의 평등’ 원칙을 어겼다며 제기된 헌법소원에 대해 헌법재판소가 23일 유권자의 손을 들어줬다.&lt;br&gt;&lt;br&gt;현행 시·도의원 지역 선거구를 정할 때 인구 편차 상하 50% 기준을 따라야 한다. 이를 계산해 보면 가장 인구가 많은 선거구와 가장 적은 선거구의 인구 차이가 3배(3대1)를 넘지 말아야 한다. 구역별로 의원을 1명씩 뽑는 만큼, 이 기준이 무너지면 한 표의 가치가 달라져 투표의 평등이 깨지기 때문이다.&lt;br&gt;&lt;br&gt;2022년 치러진 제8회 전국 동시지방선거는 직전 해 10월 말 인구를 기준으로 선거구를 나눴다. 당시 전북도의회 1인당 평균 인구는 4만9765명이었지만, 장수군 선거구는 2만1756명에 불과했다. 법에서 정한 인구 편차 상하 50% 기준의 하한(2만4883명)보다 적었던 것이다. 이에 장수군 선거구 유권자였던 김모씨는 “선거권과 평등권이 침해됐다”며 헌법소원을 냈다.&lt;br&gt;&lt;br&gt;헌재는 김씨의 주장을 받아들였다. 헌재는 이날 재판관 전원 일치 의견으로 “공직선거법 제26조 제1항이 인구 편차 상하 50% 기준을 벗어나 청구인의 기본권을 침해한다”며 헌법불합치 결정을 내렸다. 헌재는 “인구 비례 원칙에 의한 투표 가치의 평등은 헌법적 요청으로서 기본적이고 일차적인 기준”이라며 “장수군 선거구가 인구 편차 상하 50%를 벗어난 것을 정당화할 합리적 이유가 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;다만 헌재는 2026년 2월 19일 시한으로, 법이 개정될 때까지 해당 규정을 계속 적용하도록 했다. 헌재는 “이미 시·도 의원 선거가 실시된 상황에서 단순 위헌 결정을 하게 되면, 정치 세력 간의 이해관계가 첨예하게 대립하고, 법의 공백이 생길 우려가 크다”고 설명했다.&lt;br&gt;&lt;br&gt;한편, 헌법소원을 함께 낸 전주시 주민 박모씨의 청구는 각하됐다. 장수군 선거구 유권자가 아니어서 직접적인 영향을 받는 당사자가 아니란 이유다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>감사원 “이태원 등 참사 반복, 지자체의 재난 대응 인력·전문성 부족 때문”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/10/23/KLVUIZ6ER5C6NICAJ3KMJLUQIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/10/23/KLVUIZ6ER5C6NICAJ3KMJLUQIE/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 23 Oct 2025 09:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XQQFQQQPJRM23BMJZDAJIJW35E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2022년 11월 1일 서울 용산구 이태원역 1번 출구에 마련된 이태원 참사 임시 추모 공간에서 한 시민이 사망자들을 추모하는 기도를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감사원은 23일 오후 “이태원 참사는 예견된 인파 밀집에 대해 사전 대비와 초동 대응이 미흡해 발생한 인재(人災)”라는 결론을 내린 감사 결과를 공개했다. 그러면서도 “유사 재난의 재발을 막기 위해서는 제도·인프라의 외형적 확충보다 국가 재난 관리 체계가 현장에서 실효적으로 가동되도록 하는 것이 중요하다”고 지적했다.&lt;br&gt;&lt;br&gt;이날 오전 이재명 정부의 ‘이태원 참사 합동 감사 태스크포스(TF)’는 감사원과 별개로 진행한 감사 결과를 발표하면서 “대통령실 용산 이전이 인근 집회 관리를 위한 경비 수요 증가를 가져왔고, 이로 인해 이태원 일대에는 참사 당일 경비 인력이 전혀 배치되지 않는 결과를 초래했다”며, 참사 원인을 윤석열 정부의 대통령실 용산 이전에 돌렸다. 그러나 감사원은 이태원 참사 발생에 대통령실 용산 이전이 영향을 미쳤다고 지적하지 않았다.&lt;br&gt;&lt;br&gt;감사원은 이날 오후 ‘재난 및 안전 관리 체계 점검’ 감사 보고서를 공개했다. 2022년 10월 29일 이태원 참사를 계기로, 국가의 재난 대응 체계 전반에 문제점이 없는지를 살펴본 것이었다. 감사원은 감사 보고서에서 이태원 참사와 2018년 경남 밀양 세종병원 화재, 2022년 경북·강원 동해안 산불에 대한 중앙정부와 지방자치단체의 대응을 평가하면서, 이태원 참사와 관련해서는 용산구청과 용산경찰서, 서울경찰청, 이태원파출소, 용산구보건소, 행정안전부의 “부적정한 업무 처리”가 있었다고 지적했다.&lt;br&gt;&lt;br&gt;감사원은 용산구에 대해 “예년보다 더 많은 인파가 이태원에 집중될 것을 예상하고도 재난 대비를 부실하게 했고, 사고 직전 인파 밀집 상황을 목격하고도 현장 출동, 비상 대응 등의 조치를 하지 않았으며, 사고 발생 이후에도 상황을 제대로 인지하지 못해 내부 보고도 하지 못했고 긴급 재난 문자 송출도 뒤늦게 했다”고 지적했다. 경찰에 대해서는 “많은 인파가 몰릴 것을 예상하였음에도 혼잡 경비를 담당하는 경찰관기동대를 사전 배치하지 않았고, 사고 직전까지 11건의 압사 관련 112 신고를 받고도 현장 출동을 하지 않거나, 현장에서 혼잡 해소를 위한 적정 조치를 하지 않았다”고 했다. “사고 발생 직후에도 ‘특별한 상황이 아니다’라고 내부 보고하고, 경찰관기동대도 뒤늦게 투입했다”고도 지적했다.&lt;br&gt;&lt;br&gt;용산구보건소에 대해서는 “출동 요청을 받고 76분이 지나서야 현장에 도착했고, 도착 후에도 중등도 분류와 사상자 이송 등에 대한 현장 지휘를 부실하게 했다”고 지적했다. 행안부에 대해서는 “우리나라 재난 관리 체계를 총괄하는 장관이 참사 현장에 늦게 도착했고, 수습 단계에서 사고 원인 및 책임과 관련한 부적절한 발언을 해 사회적 논란을 초래했다”고 이상민 당시 장관을 비판했다.&lt;br&gt;&lt;br&gt;그러나 감사원이 주목한 것은 이태원 참사와 관련한 공직자 개개인의 책임보다는 왜 이런 참사가 반복되는가 하는 것이었고, 감사원은 “기초자치단체의 재난 대응 역량이 전반적으로 부족하기 때문”이라고 지적했다.&lt;br&gt;&lt;br&gt;감사원에 따르면, 행정안전부는 2014년 세월호 참사와 2022년 이태원 참사 등의 초대형 재난을 겪으면서 ‘재난에는 신속한 초동 대응과 적절한 현장 대응이 필수적’이라는 것을 인식하게 됐다. 이에 따라 행안부는 재난 대응의 최일선에 있는 지방자치단체의 권한과 책임을 강화하는 방향으로 관련 제도를 개편했다. 2015년부터 시·군·구 등의 기초지자체들은 재난 신고를 접수하고, 재난 상황을 행안부와 재난 관리 기관, 상위 광역자치단체에 지체 없이 통보하고, 재난 현장에서 소방청과 함께 응급조치를 하고, 주민들을 대피시키는 등 재난 대응을 주도하는 역할을 할 것을 요구받았다.&lt;br&gt;&lt;br&gt;그러나 감사원이 확인해 보니, 기초지자체들은 재난 대응의 첫 단계인 재난이 발생했다는 것을 알아차리는 역할조차 제대로 하지 못하고 있었다. 기초지자체 228곳 가운데 130곳(57.0%)만 24시간 상황실을 운영하고 있었고, 이마저도 67곳(51.5%)은 전담 인력을 확보하지 못하고 있었다. 이런 기초지자체에서는 평일 주간에는 재난 대응 총괄 부서 직원들이 사무실에서 각자 일하면서 형식상으로만 상황실 근무를 하고 있었고, 평일 야간이나 공휴일에는 일반 직원들이 돌아가면서 맡는 당직 근무자가 곧 상황실 근무자였다. 상황실에 앉아서 재난이 일어나는지를 감시하는 ‘진짜 상황실 근무자’는 없는 것이다.&lt;br&gt;&lt;br&gt;이러다 보니 자기 관내에서 재난이 발생했다는 사실을 초기에 감지하고 중앙정부와 광역지자체 에 알려야 할 기초지자체들이 오히려 중앙정부와 광역지자체 로부터 재난 발생 사실을 뒤늦게 전달받는 경우가 잦았다. 2021~2023년에 발생한 대형 재난 67건 가운데 35건(52.2%)은 행안부가 먼저 재난 발생 사실을 파악하고 기초지자체들에 상황을 보고하라고 지시하면서 기초지자체들이 뒤늦게 재난 발생을 인지한 것으로 드러났다. 기초지자체들이 재난이 발생했다는 것을 상급 기관에 처음으로 보고하기까지 평균 1시간 3분이 걸렸다.&lt;br&gt;&lt;br&gt;일반 직원들이 돌아가면서 상황실 근무를 하다 보니, 대다수는 실제 재난이 발생했을 때 무슨 일을 해야 하는지를 교육받지 못한 상태였다. 그래서 재난 대응을 주도하기는커녕 아무 역할도 하지 못하는 경우가 많았다. 재난 대응 기관들 사이에 정보를 공유하기 위해 만들어진 ‘국가 재난 관리 정보 시스템(NDMS)’을 사용할 줄 모르는 근무자가 대부분이고, 재난 통신망을 사용하는 방법, 긴급 재난 문자를 발송하는 방법도 모르는 경우가 많았다. 실제로 이태원 참사 때는 서울시 상황실에서 용산구 상황실에 주민들에게 긴급 재난 문자를 보내라고 여러 차례 요청했으나 당시 상황실 근무자들은 2시간 가까이 문자를 보내지 못했다. 2021~2023년 발생한 대형 재난 67건 가운데 기초지자체 상황실이 긴급 재난 문자를 발송한 경우는 39건(58.2%)에 불과했고, 이마저도 평균 54분~1시간 39분이 걸린 것으로 나타나 ‘긴급’ 문자로 보기 어려웠다.&lt;br&gt;&lt;br&gt;재난 대응 방법을 정리해 둔 매뉴얼도 도움이 안 됐다. 이태원 참사처럼 전례 없는 재난이 일어나고 나면 정부는 이런 새로운 유형의 재난에 대처하기 위한 매뉴얼을 만들게 했고, 그러다 보니 매뉴얼이 점점 늘어났다. 2008년에 이미 2399개였던 지자체별 ‘행동 매뉴얼’은 2023년에는 8837개로 늘었다. 예를 들어, 2023년에 경기 화성시가 갖고 있는 행동 매뉴얼은 28종이었고 총 분량은 9566쪽에 달했다. 그러다 보니 담당자조차 매뉴얼을 한 번도 읽어보지 못한 경우가 많았고, 실제 재난이 발생했을 때는 읽어볼 시간이 없어 쓰이지 못했다. 그러면서도 평소에는 관련 부서 실무자 한 사람 연락처만 바뀌어도 매뉴얼 수십 개를 수정해야 하는 업무 소요가 생겼고, 담당자들이 매뉴얼 업데이트 업무에 짓눌리다 못해 업데이트를 포기해버리는 경우가 속출했다.&lt;br&gt;&lt;br&gt;감사원은 중앙정부가 재난 대비를 강화한다며 기초지자체에 점점 더 많은 업무를 요구해온 것이 문제를 악화시켰다고 봤다. 지자체 재난 총괄 부서의 업무량은 2014년부터 2023년까지 10년간 69.3% 늘었고, 현재는 매년 10월부터 이듬해 5월까지 8개월간 191개 지표에 대한 평가를 받는다. 그런데 이 10년간 재난 총괄 부서의 정원은 13.5% 늘어나는 데 그쳤다.&lt;br&gt;&lt;br&gt;재난 대응 총괄 부서들은 기피 부서가 됐다. 상황실 근무와 재난 발생 시 출동 업무로 교대 근무, 주말 근무를 하는데 ‘중요 직무’라며 추가로 지급되는 직무급은 월 최대 20만원이고, 이마저도 172곳(75.4%)은 아예 주지 않고 있었다. 비상 근무 수당은 월 최대 12만원이고, 승진에 도움이 되는 인사 가점은 아예 없거나 무의미한 정도인 경우가 많았다. 서울시는 재난 총괄 부서에 발령받고 1년이 지난 뒤부터 인사 가점으로 월 0.005점을 줬는데, 외국어 성적을 일정 점수 이상 올리면 받을 수 있는 가점이 그 24배인 0.12점이었다. 강원도는 재난 총괄 부서 근무에 월 0.1점을 줬는데, 도지사 관심 사업에 공을 세우면 ‘도정 주요 업무 및 시책 추진 우수’로 3점을 받을 수 있었다. 기초지자체 간부들은 감사원에 ‘재난 대응 부서에 배치된 직원들은 전문성을 쌓기보다는 하루라도 빨리 다른 부서로 탈출하기만을 바란다’고 진술했다.&lt;br&gt;&lt;br&gt;기초지자체 들은 재난 대응 부서의 인력을 늘려 직원 각각의 업무 부담을 줄여주고, 기피 부서에서 벗어나게 하며, 이들만으로 상황실 전담 근무를 할 수 있게 해서 재난 대응 역량을 갖추게 하는 것이 답이라는 점은 알고 있었다. 그러나 대다수가 인력 증원은 현실적으로 불가능하다고 보고 있었는데, 행안부가 각 지자체가 둘 수 있는 공무원 정원을 강하게 제한하는 상황에서 다른 부서 정원을 줄이지 않고 재난 대응 부서의 정원을 늘리면 페널티를 받기 때문이다.&lt;br&gt;&lt;br&gt;감사원은 행안부에 지자체 직원들이 재난 대응 업무를 장기적으로 맡아 전문성을 키울 수 있도록 “혁신적 인사 제도를 도입하고 장기 근속을 유도하라”고 주문했다. 구체적으로는 “재난 현장 대응 실무 책임자이자 초동 대응의 성패를 좌우하는 (지자체의) 재난 총괄 부서장에게 동일 직급 대비 2배 이상의 파격적인 보수를 지급하는 등의 방법으로, 내·외부 전문가가 충원될 유인을 제공하고, 실무자에게는 성장의 청사진을 제시해 근속을 유도하고, 실무자 채용도 확대할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;감사원은 또 “재난 유형별로 매뉴얼을 만들어두는 현 체계에서는 신종·복합 재난 발생 시 적용할 매뉴얼을 선택하기 곤란하고, 부서·담당자별 행동 요령이 수십 개 매뉴얼에 산재돼 있어 담당자들이 행동 요령을 숙지하기 어렵다”며 “재난 유형과 무관하게, 재난 상황에서 각 부서가 어떻게 대응해야 하는지, ‘기능’ 중심으로 매뉴얼을 단권화해 분량을 축소하라”고 주문했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독]의료비 많이 썼단 이유로 건보 283억원 환급받은 외국인… 역대 최고치</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/23/72HXG7M5IJDSHK7VYUGV3CRGMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/23/72HXG7M5IJDSHK7VYUGV3CRGMM/</guid>
@@ -831,51 +876,6 @@
       <description/>
       <pubDate>Wed, 22 Oct 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U5IRHSMTVRB5TASJDD3KV435RU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a lost cause</title>
-      <link>https://www.chosun.com/national/nie/english/2025/10/23/2OQK65WRAZBWBCYZEY4ZPOFTAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/10/23/2OQK65WRAZBWBCYZEY4ZPOFTAE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YE4N3RCTVC6BJGQV35PHGAUUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2728] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2025/10/23/CZ6OWCGREZCK3MNGW3VLPJUEKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/10/23/CZ6OWCGREZCK3MNGW3VLPJUEKE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBW3Q546XBDZVERSM3GOC4DUAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 성묘(省墓)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/10/23/LYO7Y4F3JVBCDAZ46NGWMYKH2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/10/23/LYO7Y4F3JVBCDAZ46NGWMYKH2Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPKPAONKZRFVLONWSOXVNW4EVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 뒤로 미루다[연기하다]</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/10/23/VCVIPO4QXZFT5DISQT6MTHG3Y4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/10/23/VCVIPO4QXZFT5DISQT6MTHG3Y4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5J44T2QI4BB3LAFBU4G47GIGZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 제 발이 저리다, 켕기다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/10/23/XMZ4V2J7DVGOBEWRYJZ4TUMCPA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/10/23/XMZ4V2J7DVGOBEWRYJZ4TUMCPA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 22 Oct 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVW66JF6VBFKXHJINN3VO2TDJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수능보다 아빠가 먼저” 간 이식해준 고3 아들</title>
