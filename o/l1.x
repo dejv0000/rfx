@@ -6,6 +6,44 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>광장, 아시아로(Asialaw) 로펌 평가 전 부문 최우수 로펌 선정</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212540.jpg" alt="346.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=법무법인 광장 로고》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 '아시아로 프로파일스 2025(Asialaw Profiles 2025)'에서 진행한 로펌 평가의 24개 모든 부문에서 5년 연속 최우수 로펌으로 선정됐다.&lt;br /&gt;&lt;br /&gt;광장이 최우수 로펌으로 선정된 부문은 산업 분야에서 △항공 및 해상 △소비재 및 서비스 △산업 및 제조 등 11개 부문, 자문 분야에서 △금융 △공정거래 △기업자문 및 M&amp;A 등 13개 부문이다. &lt;br /&gt;&lt;br /&gt;아시아로는 금융전문지 유로머니(Euromoney)의 계열 매체다. 매년 로펌 제출 자료, 변호사·고객 인터뷰, 자체 리서치 등을 통해 아시아·태평양 지역의 로펌과 전문가 순위를 선정해 발표하고 있다.</description>
+			<pubDate>Fri, 24 Oct 2025 05:36:31 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212540</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212540</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212540.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>"판결문 공개, 알 권리와 사생활 보호 모두 고려"…독일 사법아카데미 원장 초청 강연</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212534.jpg" alt="463.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사법연수원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3075"&gt;김시철&lt;/span&gt;)은 10월 21일 올리버 제르바스 독일 사법아카데미 원장 초청 강연을 열었다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이번 강연은 사법연수원과 독일 사법아카데미 간 양해각서에 따른 학술 교류 일환으로 마련됐다. '독일 판결문 공개의 법적 근거 및 현황'을 주제로 진행됐다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이날 제르바스 원장은 "독일은 판결문을 공개하는 과정에서 충돌할 수 있는 가치인 국민의 알 권리와 사건 당사자의 개인정보 및 사생활보호를 모두 고려한다"며 "실제적 조화나 이익형량을 통해 보호한다"고 설명했다. 또 "이 과정에서 공익을 고려한 판결의 내용, 침해되는 개인정보 보호권, 보도의 성격, 사건당사자의 의사, 판결 선고 후 경과한 기간 등을 참작한다"고 했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;제르바스 원장의 강연 후에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="21415"&gt;김재남&lt;/span&gt;(사법연수원 41기) 법원행정처 사법지원실 민사지원제1심의관이 한국의 판결문 공개의 방식과 쟁점을 설명했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 24 Oct 2025 05:34:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212534</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212534</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212534.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>한국부패방지법학회, '국가안보와 규제개혁에서의 부패방지 방안' 추계 학술대회 개최</title>
+			<description>한국부패방지법학회(회장 최용전)는 10월 24일 오후 3시 30분 서울 서대문구 남가좌동 명지대 인문캠퍼스 행정동 5층 대강당에서 명지대 법무행정학과와 공동으로 2025년 추계 정기학술대회를 개최한다. &lt;br /&gt;&lt;br /&gt;이번 학술대회는 ‘국가안보와 규제개혁에서의 부패방지 방안’을 주제로 열린다. &lt;br /&gt;&lt;br /&gt;급변하는 국내외 안보환경 속에서 국가 정책과 법제, 산업 규제 전반에 걸친 부패방지의 실질적 방안을 모색하기 위해서다.&lt;br /&gt;&lt;br /&gt;첫 번째 세션에서는 박승일 국가안보전략연구원 박사가 ‘국가안보를 위한 북한 법제 변화 검토 연구 – 북한의 헌법과 부패 관련 법제 변화를 중심으로’를 주제로 발표한다. 박 박사는 북한 법제의 변화가 남북한의 안보적 이해관계에 어떤 영향을 미치는지를 분석한다. 부패방지의 관점에서 제도적 개선 방향을 함께 제시할 예정이다. 이어 양은영 성균관대 박사가 토론하며, 김남욱 송원대 교수가 좌장으로 참여한다.&lt;br /&gt;&lt;br /&gt;두 번째 세션에서는 정영석 연세대 박사가 ‘양곡관리법 개정 논의에서 제기된 헌법적 쟁점과 부패방지 방안’에 대해 발표를 진행한다. 정 박사는 식량안보와 농업산업구조 개선과 관련한 법적 논의에 대해 규제개혁과 부패방지의 균형적 접근을 강조할 예정이다. 토론은 석호영 명지대 교수가, 좌장은 엄주희 건국대 교수가 맡는다.&lt;br /&gt;&lt;br /&gt;한편 이날 개회식은 양은영 총무이사의 사회로 진행되며, 최용전 대진대 회장, 석호영 명지대 법무행정학과장, 선정원 명지대 부총장이 인사말을 전한다. 폐회식 이후에는 참석자들간의 네트워킹을 위한 만찬이 이어진다.&lt;br /&gt;&lt;br /&gt;최용전 회장은 “부패방지는 단순한 청렴의 문제가 아니라 국가안보와 규제개혁의 핵심 과제”라며 “이번 학술대회를 통해 실질적인 제도개선과 정책 대안을 모색하는 논의가 활발히 이루어지길 기대한다”고 말했다.</description>
+			<pubDate>Fri, 24 Oct 2025 04:41:52 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212533</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212533</guid>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>착한법, 11월 1일 '존엄사법률 입법 촉구 걷기대회' 개최</title>
+			<description>사단법인 착한법만드는사람들(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1825"&gt;김현&lt;/span&gt;)이 11월 1일 오전 10시 한국존엄사협회(대표 최다혜), 순례길학교(대표&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5923"&gt;조용주&lt;/span&gt;)와 '존엄사법률 입법 촉구 걷기대회'를 개최한다.&lt;br /&gt;&lt;br /&gt;이번 행사는 환자의 자기결정권과 존엄하게 삶을 마감할 권리를 사회적으로 알리고, 조력존엄사 법률의 입법을 촉구하기 위해 마련됐다. 시민·법조·의료 단체 등 30여개의 단체가 참여한다.&lt;br /&gt;&lt;br /&gt;참가자들은 서울 영등포구 여의도동 국회의사당에서 출발해 헌법재판소 등을 거쳐 약 7.5km를 걷는다.&lt;br /&gt;&lt;br /&gt;최다혜 한국존엄사협회대표는 "조력존엄사는 생명을 포기하는 것이 아니라, 고통 속에서도 인간답게 살고자 하는 선택"이라며 "2025년 1월  한국보건사회연구원 조사에 따르면 이미 국민 82%가 제도화에 찬성하고 있으며, 국가가 그 목소리에 응답해야 할 때"라고 말했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5923"&gt;조용주&lt;/span&gt;(사법연수원 26기) 순례길학교 대표는 "이 걷기대회는 삶의 마지막까지 존엄하게 살고자 하는 시민의 외침을 전하는 행사"라며 "생명과 죽음 사이의 경계에서 인간다운 선택을 제도적으로 보장하기 위하여 국회와 헌법재판소의 결단을 요구하는 의미를 담고 있다"고 전했다.</description>
+			<pubDate>Fri, 24 Oct 2025 04:41:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212531</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212531</guid>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>특검, 법무부에 압색 시도…박성재 구속영장 곧 재청구</title>
 			<description>12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(사법연수원 17기) 전 법무부 장관에 대한 구속영장 재청구를 위해 법무부 압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;특검은 24일 오전 경기 과천시 법무부에 압수수색을 위해 수사관들을 보냈다. 대상은 교정본부 분류심사과 등으로, 구치소 수용여력 확보와 관련해 박 전 장관이 계엄 당일 보고 받은 문건의 원본을 찾으려는 목적이다. 법무부는 압수수색 개시 전 임의제출 방식 등을 특검과 협의하고 있다.&lt;br /&gt;&lt;br /&gt;특검은 최근 법무부 보안과 직원을 조사하던 중 국가비상사태 때 경미한 범죄자를 가석방하는 업무를 담당하는 분류심사과에서도 문건을 만들어 박 전 장관에게 보고한 것으로 안다는 진술을 확보했다.&lt;br /&gt;&lt;br /&gt;한편 박 전 장관은 23일 10시간에 걸쳐 특검 조사를 받고 24일 새벽 귀가했다. 조사를 받고 나온 박 전 장관은 "필요한 부분을 충분히 설명했다"고 말했다. 특검이 보강수사를 마치면 조만간 구속영장을 재청구할 것으로 보인다.</description>
 			<pubDate>Fri, 24 Oct 2025 02:33:48 -0000</pubDate>
@@ -198,46 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/212490</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212490</guid>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>광장, 27일 '국제분쟁 발생 직후의 100일' 세미나 개최</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212483.jpg" alt="212483_1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212483.jpg" alt="212483_2.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 10월 27일 오후 4시 서울 중구 소공동 광장 신관 1층 아카데미아실에서 ‘국제분쟁 발생 직후의 100일: 화해, 증거, 포럼과 전략(The First 100 Days After A Dispute Arises: Settlement, Evidence, Forums, and Strategy)’을 주제로 세미나를 개최한다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;이번 세미나는 ‘서울 ADR 페스티벌(SAF) 2025’의 일환으로 열린다. 세계 각국의 국제분쟁 해결 전문가들이 모여 국제분쟁 발생 직후 100일간 핵심적으로 다뤄지는 실무 대응 전략을 집중 논의할 예정이다. △중재판정부 및 법원을 통한 임시 조치 △증거 확보와 보전 △중재인 선정 절차 △조기 화해 전략 등을 살핀다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;세미나는 2개의 세션으로 진행한다. &lt;br /&gt;&lt;br /&gt;첫 번째 세션은 '초기 레버리지: 긴급 구제조치와 화해 전략(Early Leverage: Emergency Relief and Settlement Strategies)'을 주제로 열린다. 광장의 잭 샤프(Zac Sharpe) 외국변호사가 좌장을 맡고,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="25842"&gt;구현양&lt;/span&gt;(사법연수원 43기) 광장 변호사, 존스데이(Jones Day)의 줄리안 베일리(Julian Bailey) 외국변호사, 트웬티 에섹스(Twenty Essex)의 나쿨 데완 KC(Nakul Dewan KC) 외국변호사, 대한상사중재원(KCAB)의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="24884"&gt;엄영신&lt;/span&gt;(변호사시험 1회) 변호사가 토론한다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;두 번째 세션은 '준비단계: 증거, 전략 및 중재판정부 구성(Laying the Groundwork: Evidence, Strategy, and Tribunal Formation)'을 주제로 진행한다. 광장 국제분쟁그룹장인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="543"&gt;박은영&lt;/span&gt;(20기) 변호사가 좌장을 맡는다. 패널로는 광장의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27375"&gt;유바믜&lt;/span&gt;(44기) 변호사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="36285"&gt;우한얼&lt;/span&gt;(변시 6회) 변호사를 비롯해 모건 루이스 앤 보키우스(Morgan, Lewis &amp; Bockius)의 사라 아란조(Sara K. Aranjo) 외국변호사, 39 에섹스 체임버스(39 Essex Chambers)의 피터 터너 KC(Peter Turner KC) 외국변호사가 토론한다. &lt;br /&gt;&lt;br /&gt;이날 세미나 전체 사회는 광장의 신정아 외국변호사가 맡는다.</description>
-			<pubDate>Thu, 23 Oct 2025 05:36:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212483</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212483</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212483.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>콜마 경영권 분쟁 2라운드…父子 주식 반환 소송 본격화</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212488.jpg" alt="212488.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤동한 콜마그룹 회장.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;콜마그룹의 경영권 분쟁이 2라운드에 돌입했다. 10월 23일, 아버지 윤동한 콜마그룹 회장이 아들 윤상현 콜마홀딩스 부회장을 상대로 낸 주식 반환 청구 소송 첫 재판에서 윤 회장 측은 ‘경영 합의 위반’을, 윤 부회장 측은 ‘정당한 경영 쇄신’을 주장하며 맞섰다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;‘3인 각자대표’ 체제와 소송전&lt;/b&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 소송은 지난 4월, 윤 부회장이 실적 부진을 이유로 그의 여동생 윤여원 대표가 이끄는 자회사 콜마비앤에이치의 이사 선임을 요구하면서 시작된 가족 간 분쟁의 연장선이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;윤 회장은 딸인 윤 대표의 편에 섰으나 법적 다툼과 주주총회 결과 윤 부회장의 의도대로 이사 선임이 이뤄지면서 10월 14일 콜마비앤에이치는 3인의 각자대표 체제로 전환됐다. 이후 윤 회장은 여타 가처분 신청은 취하했으나 2019년 윤 부회장에게 증여했던 콜마홀딩스 주식 230만주(현재는 무상증자로 460만 주)를 돌려 달라는 이번 소송은 계속하고 있다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;‘경영 합의’ 위반인가&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 소송의 쟁점은 ‘경영 합의 위반’ 여부다. 윤 회장 측은 “주식 증여는 경영 합의가 있었기 때문”이라며 “윤 부회장이 합의를 어기고 윤 대표의 사업 경영권을 배제했으므로 주식을 반환해야 한다”고 주장했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;윤 부회장 측은 “윤 부회장은 콜마홀딩스의 대표로서 실적이 부진한 콜마비앤에이치의 경영 쇄신을 꾀했을 뿐”이라며 경영권 배제가 아니라 정당한 대표이사 업무라는 입장의 주장을 폈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;경영 분쟁인가 민사소송인가&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;소송의 성격을 두고도 양측의 신경전이 있었다. 윤 부회장 측은 “윤 회장 측이 소송을 경영권 분쟁 수단으로 활용하려 하는데, 민사 법리에 집중해 줬으면 한다”며 경영권 분쟁이 아니라는 입장을 취했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;그러나 윤 회장 측은 “콜마비앤에이치 경영에 문제가 있다고 윤 대표의 사업 경영권을 박탈한 건 윤 부회장 아닌가”라며 “필요한 한도 내에서 분쟁 배경을 설명하지 않고 어떻게 민사 쟁점을 해소할 수 있나”라고 경영권 분쟁이 촉발시킨 소송이라는 점을 강조했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;재판부는 12월 11일, 변론을 속행하기로 했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 23 Oct 2025 04:11:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212488</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212488</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212488.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>SPC 노조 탈퇴 종용 사건 재판 올해 넘길 전망</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212470.jpg" alt="4647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;SPC그룹 본사.《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;허영인 SPC그룹 회장 등이 연루된 민주노총 화섬노조 파리바게뜨지회(이하 파리바게뜨지회) 탈퇴 종용 사건의 1심 선고가 해를 넘길 전망이다. 서울중앙지법 형사32부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1025"&gt;류경진&amp;nbsp;&lt;/span&gt;부장판사)는 10월 22일 허 회장을 비롯한 피고인 19명의 노동조합법 위반 혐의를 심리하는 재판에서(&lt;b&gt;2024고합405&lt;/b&gt;) "오는 12월까지 증인 신문을 한 다음 내년 1~2월에 증거 인부(인정·불인정)를 논의하는 기일을 잡으려 한다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;파리바게뜨지회 탈퇴 종용 사건은 70회 가까이 공판 절차가 진행됐지만 증인 신문이 마무리되지 않았다. SPC 전현직 임직원은 물론 피비파트너즈 지역 사업부장, 제조장, 현장 관리자를 포괄하는 증인의 규모가 방대하기 때문이다. 제출된 증거도 많아 정리에 시간이 걸릴 전망이다. 피비파트너즈는 SPC그룹이 파리바게뜨 제빵·카페기사들을 직고용하기 위해 설립한 계열사다.   &lt;br /&gt;&lt;br /&gt;이날 재판부는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10736"&gt;강완수&amp;nbsp;&lt;/span&gt;부장판사의 병가로 류 부장판사가 재판장에 보임된 점을 고려해 공판 절차를 갱신했다. 검찰은 피고인들이 조직적으로 파리바게뜨지회 탈퇴 작업을 했다고 주장했다. 피고인 측은 피비파트너즈노조와 파리바게뜨지회가 서로 조합원을 뺏는 경쟁을 벌였으며, 회사가 부당하게 개입하거나 파리바게뜨지회 탈퇴를 기획하진 않았다고 반박했다. 피비파트너즈노조는 파리바게뜨지회와 달리 한국노총 식품산업노련 소속이다. &lt;br /&gt;&lt;br /&gt;증인으로는 2018년 4월부터 2021년 6월까지 피비파트너즈 서울서부사업부장을 지낸 김 모 씨가 출석했다. 검찰은 김 전 부장을 상대로 파리바게뜨지회 탈퇴 작업 시행 여부를 추궁했지만, 김 전 부장은 "제조장과 현장 관리자들에게 '사람을 많이 만나라' 정도로만 말했다"고 했다.&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Oct 2025 02:42:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212470</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212470</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212470.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>[판결] "김범수 평화적으로 가져와라 발언, 시세 조종 근거 아냐"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212462.jpg" alt="4565444.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;SM엔터테인먼트 시세 조종 공모 의혹을 받는 카카오 창업자 김범수 경영쇄신위원장이 10월 21일 양천구 서울남부지방법원에서 열린 1심 선고공판에서 무죄가 선고된 뒤 법원을 떠나며 입장을 밝히고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;SM엔터테인먼트(이하 SM엔터) 시세 조종 사건 1심에서 거론된 김범수 카카오 창업자의 "평화적으로 가져와라" 발언이 범행의 근거가 될 수 없다는 재판부 판단이 나왔다. 법률신문이 확보한 판결문에 따르면, 서울남부지법 형사15부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2130"&gt;양환승&lt;/span&gt;&amp;nbsp;부장판사)는 자본시장법 위반 혐의를 받는 김 창업자에게 무죄를 선고하면서 "검찰 주장처럼 김 창업자가 은밀하게 SM엔터 경영권을 인수하라는 지시를 했다고 보기 어렵다"고 했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;검찰은 카카오가 SM엔터 주가를 하이브의 공개매수 가격인 12만 원보다 높게 고정하고자 시세 조종을 했다고 판단해 김 창업자 등을 재판에 넘겼다. 검찰에 따르면 2023년 2월 16~17일과 27~28일, 카카오는 하이브의 SM엔터 주식 공개매수를 방해할 목적으로 2400억 원을 들여 553회에 걸쳐 SM엔터 주식을 사들였다. &lt;br /&gt;&lt;br /&gt;재판에서 검찰은 배재현 전 카카오 투자총괄대표와 강호중 카카오 CA협의체 재무총괄 소속 리더의 통화 녹취록을 제시했다. 두 사람은 2023년 2월 15일 카카오 투자심의위원회(이하 투자테이블)가 열린 날 대화했다. 해당 녹취록엔 김 창업자가 "평화적으로 이제 가져와라"고 말했다고 배 전 대표가 언급하는 내용이 나온다. 이를 근거로 검찰은 투자테이블에서 김 창업자가 배 전 대표에게 카카오나 카카오엔터가 전면에 나서지 않는 은밀한 SM엔터 경영권 인수를 지시했다고 주장했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 김 창업자가 실제로 "평화적으로 가져와라"는 언급을 했는지 의심스럽고, 설령 발언이 있었더라도 취지를 달리 볼 수 있다고 판단했다. &lt;br /&gt;&lt;br /&gt;재판부는 먼저 "배 전 대표를 포함한 투자테이블 참석자 모두가 김 창업자의 '평화적으로 가져와라' 발언이나 SM엔터 인수 지시를 들은 사실이 없다고 진술하는 측면을 고려할 때, 김 창업자가 그런 언급을 실제로 했는지 의문이 든다"고 했다. &lt;br /&gt;&lt;br /&gt;그러면서 "김 창업자가 2023년 2월 24일 열린 투자테이블에서 SM엔터 경영권 인수에 소극적이고 신중한 입장을 취한 점, 하이브의 SM엔터 주식 공개매수 실패 이후인 2023년 3월 4일 진행된 투자테이블에선 김 창업자가 하이브와 협상하라고 지시한 점, 배 전 대표와 강 리더가 은밀한 SM엔터 경영권 인수와 배치되는 논의를 한 점 등을 종합하면 김 창업자의 '평화적으로 가져와라' 발언 취지는 '하이브와 평화적으로 분쟁을 해결할 방안을 가져오라'였다고 볼 여지가 상당하다"고 했다. &lt;br /&gt;&lt;br /&gt;이어 "검찰은 카카오 투자전략실 직원들 대화 내용이나 메모를 들어 투자테이블에서 SM엔터 경영권 인수 방침이 정해졌다고 주장한다"면서도 "투자전략실 직원들은 투자테이블 결정과 무관하게 배 전 대표 지시에 따라 다양한 방안을 준비했을 뿐이며, 특히 배 전 대표가 검토하라고 한 대항 공개매수 방안은 은밀한 SM엔터 경영권 인수와 배치된다"고 판시했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[배재현 대표 변호인 의견]&lt;/b&gt;&lt;br /&gt;배재현 전 카카오 투자총괄 대표를 변호한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9111"&gt;이완수&lt;/span&gt;(사법연수원 28기) 법무법인 리우 대표변호사는 "자본시장법상 시세조정(고정)은 입법취지상 시장외적 요인으로 시세에 인위적 조작을 한 경우인데, 이 사안은 SM 경영권에 대한 경쟁상황에서 정당한 경제적 목적에 기하여 SM주식을 반영구적으로 취득한 것으로, 정상적 시장 수급에 따른 매매였다"고 말했다. 이어 "시세조정(고정) 운운할 여지가 아예 없다는 점을 금감원과 검찰 등 수사 단계부터 법원 재판 단계까지 일관되게 주장했고, 법원이 면밀한 검토 끝에 그 주장을 받아들여주었다고 생각한다"고 덧붙였다.&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Oct 2025 02:40:33 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212462</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212462</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212462.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
