@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>특검, 법무부에 압색 시도…박성재 구속영장 곧 재청구</title>
+			<description>12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1239"&gt;박성재&lt;/span&gt;(사법연수원 17기) 전 법무부 장관에 대한 구속영장 재청구를 위해 법무부 압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;특검은 24일 오전 경기 과천시 법무부에 압수수색을 위해 수사관들을 보냈다. 대상은 교정본부 분류심사과 등으로, 구치소 수용여력 확보와 관련해 박 전 장관이 계엄 당일 보고 받은 문건의 원본을 찾으려는 목적이다. 법무부는 압수수색 개시 전 임의제출 방식 등을 특검과 협의하고 있다.&lt;br /&gt;&lt;br /&gt;특검은 최근 법무부 보안과 직원을 조사하던 중 국가비상사태 때 경미한 범죄자를 가석방하는 업무를 담당하는 분류심사과에서도 문건을 만들어 박 전 장관에게 보고한 것으로 안다는 진술을 확보했다.&lt;br /&gt;&lt;br /&gt;한편 박 전 장관은 23일 10시간에 걸쳐 특검 조사를 받고 24일 새벽 귀가했다. 조사를 받고 나온 박 전 장관은 "필요한 부분을 충분히 설명했다"고 말했다. 특검이 보강수사를 마치면 조만간 구속영장을 재청구할 것으로 보인다.</description>
+			<pubDate>Fri, 24 Oct 2025 02:33:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212535</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212535</guid>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>태평양, 수출입규제대응센터 출범</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212528.jpg" alt="346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;태평양 수출입규제대응센터. (앞줄 왼쪽부터 반시계 방향으로) 최병일 고문, 권소담·최다미·김소담 변호사, 황호성 센터장(전문위원), 김지이나 변호사, 김보찬 외국변호사, 이경근 고문, 김종윤 전문위원, 정경화·설재영·유재규 변호사, 이종현 전문위원, 제레미 에버렛 외국회계사, 설광윤 변호사, 오창현 고문, 임대승 전문위원, 주성준 변호사, 조민경·박윤정 외국변호사. 《사진=법무법인 태평양》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.bkl.co.kr/law?lang=ko" target="_blank"&gt;법무법인 태평양&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8313"&gt;이준기&lt;/span&gt;)이 수출입규제대응센터를 출범했다.&lt;br /&gt;&lt;br /&gt;기술패권 경쟁 심화로 강화되는 무역안보·규제 환경 속에서 기업의 전략적 대응을 지원하기 위해서다.&lt;br /&gt;&lt;br /&gt;센터장은 지난 9월 합류한 수출통제 전문가인 황호성 전문위원이 맡는다. 황 센터장은 무역안보관리원(전 전략물자관리원)에서 전략물자 판정 및 국제수출통제체제 대응 등에 대한 실무경험을 갖췄으며, 산업통상자원부장관 표창·부총리상·외교부장관상을 수상한 바 있다.&lt;br /&gt;&lt;br /&gt;센터는 △전략물자 관리 및 국제 수출 통제 △국가핵심기술·국가첨단전략기술 △국가안보심의 및 투자심사 △관세청 수사 및 조사 대응 △외환거래 및 대외투자 관리 △국제 분쟁 및 조사 대응 등에 대해 맞춤형 법률 자문을 제공할 예정이다.&lt;br /&gt;&lt;br /&gt;센터는 60여 명 규모로 구성됐다. 전략물자·수출통제, 국가핵심기술(NCT), 국가첨단전략기술(NHT), 방산, 관세, 국제조세, 국제분쟁, 형사 등 분야 전문가가 협력한다. &lt;br /&gt;&lt;br /&gt;제재 및 수출통제 분야의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13843"&gt;김지이나&lt;/span&gt;(사법연수원 35기) 변호사, IP 분야의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17867"&gt;이재엽&lt;/span&gt;(39기) 변호사, 인수합병(M&amp;A) 및 안보 심의 분야 실무 경험을 갖춘&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11507"&gt;이오령&lt;/span&gt;(34기) 변호사, 관세 조사 및 수사 대응 분야의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11274"&gt;주성준&lt;/span&gt;(34기) 변호사, 기획재정부 국가계약분쟁조정위원과 방위사업청 방산수출심의위원을 맡고 있는 방산 분야의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="12143"&gt;최다미&lt;/span&gt;(군법무관 15회) 변호사가 각 분야를 이끈다.&lt;br /&gt;&lt;br /&gt;황 센터장은 "급변하는 국제정세 속에서 우리 기업은 전략적 대응과 철저한 리스크 관리를 요구받고 있다"며 "센터는 기업들이 직면한 수출입 관련 각종 규제를 진단하는 수준을 넘어서, 이에 대응하기 위한 성공적인 전략을 고민하는 종합 솔루션을 제공할 것"이라고 말했다. &lt;br /&gt;&lt;br /&gt;한편 태평양은 10월 29일 수출입규제대응센터 출범을 맞아 '국내외 수출통제 동향'을 주제로 고객초청 세미나를 연다.</description>
 			<pubDate>Fri, 24 Oct 2025 01:33:07 -0000</pubDate>
@@ -17,7 +26,7 @@
 		</item>
 		<item>
 			<title>[속보] 박성재 전 법무장관, 채상병 특검 피의자 첫 출석</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212529.jpg" alt="346.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;박성재 전 법무부 장관이 10월 23일 서울 서초구 서울고검에 마련된 조은석 내란특별검사팀 사무실로 소환되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;</description>
+			<description>&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212529.jpg" alt="lawtimes.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;br style="text-align: start;" /&gt;&lt;/p&gt;</description>
 			<pubDate>Fri, 24 Oct 2025 01:13:45 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/212529</link>
@@ -229,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212462</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212462.jpg</media:thumbnail>
 			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>올리버 제르바스 독일 사법아카데미 원장 법률신문사 방문</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212475.jpg" alt="456.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;올리버 제르바스(Oliver Servas) 독일 사법아카데미 원장이 10월 22일 서울 서초구 법률신문사를 방문했다. &lt;br /&gt;&lt;br /&gt;제르바스 원장은 2023년 6월부터 현재까지 한국의 사법연수원에 해당하는 독일 사법아카데미에서 원장을 지내고 있다. 그는 "독일에도 법률신문과 마찬가지로 법조인들이 많이 찾는 법조전문지가 있는데 한국에 방문해 법조 전문 언론사를 방문할 수 있는 것은 색다른 기회고 새로운 경험"이라고 말했다. 이날 환담에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14199"&gt;강동원&lt;/span&gt;(36기) 사법연수원 교수와 황선영 국제업무전문관이 함께했다. &lt;br /&gt;&lt;br /&gt;제르바스 원장은 1995년 루르대학교 보훔 법학과를 졸업하고 같은 해 제1차 국가시험(First State Examination in Law)에 합격했다. 1997년 7월에 제2차 국가시험을 합격하고나서부터는 판사로 근무했다. 에센지방법원 판사를 거쳐, 함 고등법원에서 파견근무했고, 이후 공증전문가연수원 강사(Lecturer at the Academy for Notary Specialists)를 지냈다. &lt;br /&gt;&lt;br /&gt;앞서 사법연수원(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3075"&gt;김시철&lt;/span&gt;)은 8월 27일부터 9월 5일까지 독일과 튀르키예 사법아카데미를 방문하고 향후 양 기관 간 교류와 협력을 위한 양해각서(MOU)를 체결했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3075"&gt;김시철&lt;/span&gt;(사법연수원 19기) 원장을 단장으로 한 사법연수원 방문단은 강동원 사법연수원 교수, 서영민 초빙교수로 구성됐다.&lt;br /&gt;</description>
-			<pubDate>Thu, 23 Oct 2025 01:10:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212475</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212475</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212475.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
