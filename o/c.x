@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>신분 확인 안 하고, 실탄 검색 실패…항공보안법 위반 3년간 51건</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/25/Q6BO3XC4IVDJ3OPLMLONBWEGNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/25/Q6BO3XC4IVDJ3OPLMLONBWEGNY/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 04:30:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BAMFMLVBC4FTO27W3RJJMOVCEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천국제공항 제1터미널 출국장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공항이나 항공사가 탑승객의 신원을 제대로 확인하지 않거나, 물품 검색을 제대로 하지 않는 등 항공보안법을 위반한 사례가 최근 3년간 50건이 넘는 것으로 나타났다.&lt;br&gt;&lt;br&gt;25일 국회 국토교통위원회 소속 더불어민주당 문진석 의원이 국토교통부로부터 제출받은 자료를 보면, 2023년부터 올해 8월까지 한국공항공사·인천국제공항공사·국적사·외항사의 항공보안법 위반에 따른 과태료 부과 건수는 총 51건으로 집계됐다. 부과된 과태료 액수는 총 4억500만원이다.&lt;br&gt;&lt;br&gt;전체 적발 건수의 절반이 넘는 28건을 한국공항공사가 차지했다. 한국공항공사의 위반 사항은 신분확인 실패 10건,위해물품 적발 실패 8건, 보호구역 출입 통제 실패 4건, 보안검색 미실시 2건 등이었다. 지난해 6월 청주공항에서는 승객 휴대물품 보안 검색에서 공포탄이 있음에도 적발되지 않은 사례가 있었고, 같은해 9월 김포공항에서는 실탄을 적발하지 못한 경우가 있었다. 각각 과태료 1000만원이 부과됐다.&lt;br&gt;&lt;br&gt;인천국제공항공사에서는 신분확인 실패 2건, 위해물품 적발 실패 2건, 보호구역 출입통제 실패 1건 등 5건이 적발됐다. 항공사에서는 대한항공 4건, 이스타항공 3건, 아시아나항공 2건 등 항공보안법 위반으로 과태료가 부과됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘라임 사태’ 이종필 전 부사장, 과징금 7000만원 취소 소송 2심도 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/25/7Z57QRHINZHN3LNHLZJMJNYCKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/25/7Z57QRHINZHN3LNHLZJMJNYCKQ/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 03:30:57 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QFDQ2JRGLDONGJS54B5AX3DYWM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;이종필 전 라임자산운용 부사장이 2019년 10월 4일 서울 영등포구 서울국제금융센터에서 라임자산운용 펀드 환매 중단 사태와 관련 기자간담회를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조6700억원대 펀드 환매 중단 사태의 핵심인 이종필 전 라임자산운용 전 부사장이 과징금 7000만원을 취소해 달라고 낸 소송 2심에서도 패소했다. &lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울고법 행정1-3부(재판장 박형준)는 이 전 부사장이 금융위원회를 상대로 낸 과징금 부과 처분 취소 소송에서 이 전 부사장의 항소를 지난 17일 기각하고 원고 패소 판결한 1심을 유지했다.&lt;br&gt;&lt;br&gt;재판부는 “이 전 부사장은 라임자산운용의 부사장 및 최고운용책임자(CIO)로서 각 펀드의 설정·운용을 모두 총괄했고, 이전부터 다수의 증권회사에서 근무하면서 애널리스트로 활동하는 등 해당 분야의 전문가였다”며 고의 또는 중과실이 없었다는 이 전 부사장의 주장을 받아들이지 않았다. “과징금 액수가 많다”는 이 전 부사장 주장에 대해서도 “위반 행위의 내용, 공익 침해 정도 등을 고려하면 이 사건 처분에 재량권의 일탈이나 남용의 위법이 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;라임자산운용은 2018년 11월부터 2019년 7월까지 총 36개 펀드를 출시해 투자자 1269명으로부터 4930억원을 모집했다. 이후 코스닥 기업들의 전환사채(CB) 등을 편법 거래하며 부정하게 수익률을 관리하고 있다는 의혹이 불거지면서 라임자산운용의 펀드에 편입돼 있던 주식 가격이 폭락해 환매가 중단됐다. 라임 사태로 투자자 4000여 명이 1조6700억원대 피해를 입었다.&lt;br&gt;&lt;br&gt;금융위는 라임자산운용이 자본시장법에 따른 증권신고서 제출 의무를 7차례 위반했다며 2023년 10월 이 전 부사장에게 과징금 7000만원을 부과했다. 이 전 부사장은 이에 불복해 행정소송을 냈지만 지난 1월 1심에 이어 2심도 이 전 부사장의 청구를 기각했다.&lt;br&gt;&lt;br&gt;이 전 부사장은 라임 사태와 관련해 특정경제범죄가중처벌법상 수재·배임 등의 혐의로 기소돼 2022년 11월 징역 20년형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“李대통령이 부모님 방문” 꿈 꿨다... 연금복권 1·2등 당첨돼 21억 대박</title>
       <link>https://www.chosun.com/national/national_general/2025/10/25/MW5637ADHJCF7DCPR6LCJFL2IU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/25/MW5637ADHJCF7DCPR6LCJFL2IU/</guid>
@@ -826,15 +844,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35AVZSZZONPOHM2DFTOAZABBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 24일 서울 서초구 이명현 순직해병 특별검사팀에 피의자 신분으로 출석하고 있다. 박 전 장관은 채 상병 사망사건 수사 외압 의혹의 핵심 피의자인 이종섭 전 국방부 장관의 호주 도피를 도운 혐의를 받는다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 24일 오전 박성재 전 법무부 장관을 피의자 신분으로 불러 조사 중이다. 박 전 장관의 해병 특검 출석은 이번이 처음으로, 전날부터 이날 새벽 1시쯤까지 이어진 내란 특검 조사 이후 약 9시간 만에 다시 특검의 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;박 전 장관은 이날 오전 9시 59분 특검에 출석하면서 ‘이종섭 전 장관이 피의자인 사실을 모르고 있었나’ ‘이종섭 전 장관의 출국금지 해제하는 것이 법적으로 문제 될 거란 생각 안 했나’ 등 취재진의 질문에 답하지 않았다. 다만 ‘검사 출신으로서 피의자의 출국금지를 해제하는 것이 적절하다고 보는지’에 대해선 “정상적으로 업무를 처리했다. 조사에서 충분히 설명하겠다”고, ‘(윤석열 당시) 대통령이 이종섭 전 장관 출국금지 해제하라고 지시한 게 맞는지’에 대해선 “그런 사실 없다”고 했다.&lt;br&gt;&lt;br&gt;박 전 장관은 이종섭 전 국방부 장관의 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’과 관련한 범인도피 등 혐의를 받는다. 특검은 이날 박 전 장관을 상대로 이 전 장관이 호주대사에 임명되기 직전 법무부의 출국 금지 해제 조치 등에서 위법 행위가 없었는지 등을 물을 예정이다.&lt;br&gt;&lt;br&gt;이 전 장관은 고(故) 채수근 상병 사망 사건의 피의자로 고위공직자범죄수사처 수사를 받던 작년 3월 4일 호주대사로 임명됐는데, 임명 직후 공수처가 이 전 장관을 출국 금지해 놓은 사실이 알려졌다. 이에 이 전 장관은 작년 3월 6일 출국 금지를 해제해 달라고 법무부에 이의 신청을 제기했고, 법무부가 그해 3월 8일 출국금지심의위원회를 거쳐 출국 금지를 해제한 뒤 출국할 수 있었다.&lt;br&gt;&lt;br&gt;특검은 최근 법무부 실무진을 조사하는 과정에서 “박 전 장관과 심우정 전 검찰총장 등이 ‘이 전 장관이 대사로 임명됐으니 출국 금지를 해제하는 쪽으로 하라’며 사실상 지침을 줬다”는 취지의 진술을 확보한 것으로 알려졌다. 이후 정치권을 중심으로 ‘도피성 출국’ 논란이 커지자 이 전 장관은 중도 귀국했고, 대사로 임명된 지 25일 만에 자진 사퇴했다. 이와 관련해 특검은 지난달 30일 심 전 총장을 먼저 소환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>이상민 측 “尹에 계엄 반대… 소방청장에 ‘안전’ 당부”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/17/GN23RM7TZRAF5EJ53TLZOGWDVU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/17/GN23RM7TZRAF5EJ53TLZOGWDVU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 17 Oct 2025 04:15:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YMWYMZNFCRP2DLC7VN6D4WNDPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 관련 언론사 단전·단수를 지시한 혐의로 구속기소된 이상민 전 행정안전부 장관이 17일 오전 서울 서초구 서울중앙지방법원에서 열린 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 당시 언론사 단전·단수 지시를 내린 혐의 등으로 구속 기소된 이상민 전 행정안전부 장관 측이 17일 첫 재판에서 혐의를 전부 부인했다. 17일 서울중앙지법 형사32부(재판장 류경진)는 이 전 장관의 내란 중요임무 종사·직권남용·위증 혐의 재판을 열었다. 재판부가 내란 특검의 중계 신청을 허가하면서 이날 재판은 녹화 중계됐다. &lt;br&gt;&lt;br&gt;이 전 장관은 흰 와이셔츠에 짙은 남색 양복 차림으로 법정에 출석했다. 살이 빠져 수척해진 모습으로 왼쪽 가슴엔 수용번호 ‘52’가 적힌 명찰을 달았다. 재판부가 생년월일과 직업을 묻자 “1965년 5월 15일, 바로 직전에 변호사였다”고 답했다. &lt;br&gt;&lt;br&gt;피고인 인적 사항을 확인하는 인정신문이 끝난 뒤 특검은 언론사 단전·단수 지시와 헌법재판소 위증 등 공소 사실을 설명했다. 특검은 “이 전 장관은 12·3 비상계엄 당시 시간대별 봉쇄계획에 따라 특정 언론사에 대한 단전·단수를 지시함으로써 내란 중요임무에 종사했고, 행정안전부 장관이라는 직권을 남용해 소방청 직원들에 대한 언론사 단전·단수를 준비하게 해 의무 없는 일을 하게 했다”고 했다. 또 “이를 은폐하기 위해 헌재의 윤 전 대통령 탄핵심판에서 거짓 증언을 했다”며 “그 결과 상당 기간 국민들 앞에 진상이 제대로 규명되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;이 전 장관 변호인은 “윤석열 전 대통령과 비상계엄을 모의한 적 없고 사전에 알지도 못했다”고 반박했다. 작년 12월 3일 오후 대통령 집무실에서 처음 비상계엄 선포 계획을 들은 뒤 다른 국무위원들이 있는 자리에서 “정무적으로 부담이 되고 국민들의 동의를 받을 수 없다”며 반대 의견을 명확히 피력했다는 것이다. &lt;br&gt;&lt;br&gt;이후 허석곤 당시 소방청장에게 전화한 것에 대해선 “대통령 집무실에서 소방청 관련 문건을 봤는데, 거기 기재된 일이 곧 벌어질 수 있다고 생각해 내용을 전달한 것”이라고 했다. 이어 “문건에 기재된 상황이 벌어졌을 때 누군가의 지시가 있더라도 안전에 유의하고, 필요하면 경찰과 협력하라고 한 것”이라며 “이 전 장관은 ‘이태원 참사’를 경험한 적 있어 시민 안전과 관련된 상황에 걱정이 앞섰다”고 했다. 소방청장에게 단전·단수 관련 내용을 전달한 것은 사실이지만 윤 전 대통령의 계엄에 동조하고 국헌을 문란하게 하기 위해 단전·단전 지시를 한 것은 아니라는 것이다. &lt;br&gt;&lt;br&gt;직권남용 혐의에 대해선 “행안부 장관은 경찰청과 소방청을 소속청으로 두고 있을 뿐 구체적인 지시·지휘를 하지 않는다”고 했다. 일반적 직무권한이 없기 때문에 ‘직권남용’ 구성요건이 성립하지 않는다는 취지다. &lt;br&gt;&lt;br&gt;재판부는 오는 24일 다음 재판을 열고 이 전 장관의 운전비서관 등 증인 4명을 부르기로 했다. 이 전 장관의 비상계엄 선포 당일 행적을 확인한 뒤 소방청장 등에 대한 지시 내용을 살펴볼 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 백해룡의 수사 근거 된 밀수범, “세관 직원이 도운 적 없다” 말바꿔</title>
       <link>https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</guid>
@@ -903,15 +912,6 @@
       <description/>
       <pubDate>Thu, 23 Oct 2025 15:53:00 +0000</pubDate>
       <content:encoded>다음 주 첫 한파가 예고됐다. &lt;br&gt;&lt;br&gt;23일 기상청에 따르면, 중국 북부에서 대륙고기압이 확장하며 일요일인 26일 밤부터 차가운 북풍이 우리나라로 유입, 27~29일 강풍과 함께 초겨울 수준의 추위가 오겠다. 지난 19~21일 한 차례 불어온 때아닌 ‘겨울바람’에 이어, 또다시 살을 에는 찬 바람이 오는 것이다.&lt;br&gt;&lt;br&gt;27일쯤 강원 산지엔 한파주의보가 내려질 것으로 보인다. 한파주의보는 10월부터 이듬해 4월까지 아침 최저기온이 전날보다 10도 이상 떨어져 영상 3도 이하를 보이고, 평년 기온보다 3도 이상 낮을 것으로 예상될 때 내려진다. 갑자기 추워진 날씨는 다음 주 후반으로 가면서 다시 평년 수준을 되찾을 전망이다.&lt;br&gt;&lt;br&gt;다만 그 전인 24일과 주말인 25~26일에는 선선한 가을 날씨가 이어지겠다. 24~25일 기온은 최저 8~16도, 최고 14~23도 수준을 보이겠고, 26일에는 소폭 떨어져 최저 6~15도, 최고 15~21도로 예상된다. 24일 강원 영동과 부산·울산 곳곳엔 비가 내리겠다.&lt;br&gt;&lt;br&gt;한파가 예상되는 27일~다음 달 2일에는 아침 최저기온이 0~11도, 낮 최고기온은 10~19도까지 뚝 떨어질 것으로 예보됐다. 중부 내륙과 남부 지방 높은 산지에선 체감 기온이 영하로 떨어지겠고, 서리가 내리고 얼음이 어는 곳이 있겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 10월 24일</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/24/2KBJEBW44VCZXI6MDN4N5QCV24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/24/2KBJEBW44VCZXI6MDN4N5QCV24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46VQJ5MHVFDVDFEFLT2EJ43GSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하남, K팝의 새로운 무대…전 세계 댄스 인플루언서가 달궜다</title>
