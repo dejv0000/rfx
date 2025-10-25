@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>의협 “성분명 처방·한의사 X레이 등 총력 저지할 것”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/25/DSILYXA7TZEQTD2VUYE3NPGVP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/25/DSILYXA7TZEQTD2VUYE3NPGVP4/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 11:07:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P6BP6NWTLVMZDODTVJ36O2VHKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 용산구 대한의사협회에서 열린 대한의사협회 2025년도 긴급 임시대의원총회에서 참석자들이 국민의례를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한의사협회는 25일 성분명 처방과 한의사의 X레이 허용 등을 저지하기 위해 총력을 다하겠다고 선언했다.&lt;br&gt;&lt;br&gt;의협은 이날 서울 용산구 의협회관에서 임시대의원총회를 열고 “국민 건강권을 파괴하는 모든 시도를 전면 거부한다”며 이들 법안의 폐기와 백지화를 촉구했다.&lt;br&gt;&lt;br&gt;성분명 처방은 약을 처방할 때 처방전에 의약품의 이름 대신 성분명을 기재하도록 하는 것이다. 보건복지부는 수급이 불안정한 필수의약품에 한해 성분명 처방 도입을 검토하고 있다. 의협은 “성분명 처방 강제화는 환자의 생명을 담보로 한 무책임한 실험”이라고 했다.&lt;br&gt;&lt;br&gt;한의사 X레이 사용의 경우 최근 여당 의원들이 이를 허용하는 의료법 개정안을 발의하면서 논의에 불이 붙었다. 의협은 이에 대해 “한의사는 한방 의료행위만 할 수 있으며, 한의사의 엑스레이 사용은 명백히 무면허 의료행위에 해당한다”며 “국민의 생명과 안전을 심각하게 위협하고, 이원적 면허체계를 무너뜨리는 행위”라고 했다.&lt;br&gt;&lt;br&gt;정부는 검체검사 위탁기관(병의원)에 지급해온 위탁관리료를 폐지하고, 위탁기관과 수탁기관(검사센터)이 검사 비용을 각각 청구하도록 제도 개편을 추진하고 있다. 의협은 이들 정책을 “의료 붕괴를 초래하는 3대 악법·악행”이라고 지칭하며 “모든 가용한 수단과 방법을 총동원해 저지에 총력을 다하고, 성공적인 저지 없이는 물러서지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;이날 임시대의원총회에서는 투쟁을 위한 ‘비상대책위원회’를 설치하는 안건도 논의됐으나, 투표에서 부결됐다. 집행부 중심의 투쟁을 이어가기로 한 것이다.&lt;br&gt;&lt;br&gt;김택우 의협 회장은 “정부와 국회가 의료계와의 협력과 상생을 포기한 채 의료의 본질을 왜곡하고, 면허의 영역을 훼손하고, 의약분업의 원칙을 무너뜨리는 입법과 정책을 강행한다면 주저 없이 강경 투쟁에 나설 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>시민단체, 이상경 전 차관 고발 “사의 표명으로 될 문제 아니다”</title>
       <link>https://www.chosun.com/national/national_general/2025/10/25/QQRSDWXOQJFRTNF75VEV65JJBM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/25/QQRSDWXOQJFRTNF75VEV65JJBM/</guid>
@@ -869,15 +878,6 @@
       <description/>
       <pubDate>Fri, 24 Oct 2025 02:01:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZEISA4YCKNBS7N754GWHHQQ3K4.png"&gt;&lt;figcaption&gt;&lt;small&gt;성매매 오피스텔 내부 모습./인천경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수도권 오피스텔에서 성매매를 알선한 일당과 성 매수자가 경찰에 무더기로 적발됐다. &lt;br&gt;&lt;br&gt;인천경찰청 범죄예방질서계는 성매매 알선 등 행위의 처벌에 관한 법률 위반 혐의로 성매매 업주 30대 남성 A씨를 구속해 송치했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 또 같은 법 위반 혐의로 성매매 업소 실장 30대 남성 B씨 등 3명과 20~30대 성매매 여성 67명을 불구속 입건해 함께 송치했다. &lt;br&gt;&lt;br&gt;경찰은 성 매수자 20~60대 남성 590명도 불구속 입건해 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 10월부터 지난 2월까지 수도권 소재 오피스텔 20여 곳을 빌려, 성매매를 알선한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;이들은 성매매 알선 사이트에 올린 광고를 보고 연락해 온 성 매수자들에게 문자나 텔레그램 등 SNS로 성매매 시간과 장소 등을 안내한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨 등은 수사기관의 단속을 피하기 위해 수시로 사무실을 옮겨 다니고, 대포폰과 감시 카메라(CCTV) 등도 활용한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;또 성 매수자의 나이, 직업, 인상착의, 신체 특징, 성격 등 정보를 체계적으로 관리하고, 성매매 대금은 현금으로 받았다. &lt;br&gt;&lt;br&gt;경찰은 A씨 등이 40억원의 범죄 수익을 챙긴 것으로 파악하고, 이 중 12억원은 기소 전 추징 보전으로 동결했다. &lt;br&gt;&lt;br&gt;경찰은 적발된 성 매수자 590명 중 17명은 공무원이나 공공기관 직원 등 공직자로 확인돼 각 기관에 비위 사실을 통보했다. 적발된 공직자 중 경찰이나 검찰 등 사정기관 공무원은 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “전국적으로 성행하고 있는 오피스텔 성매매를 근절할 때까지 단속을 이어 나갈 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 법무부 압수수색…박성재 ‘구치소 수용’ 문건 관련</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/24/J4QA4Z4DZFH4NMJ5LVIBR6XLNU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/24/J4QA4Z4DZFH4NMJ5LVIBR6XLNU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Oct 2025 01:40:12 +0000</pubDate>
-      <content:encoded>조은석 내란 특검팀이 박성재 전 법무부 장관 수사와 관련해 법무부에 대한 추가 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPFAIHY2T5OYDO6NMDKJC4DKO4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 24일 서울 서초구 순직해병 특검 사무실에 피의자 신분으로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 24일 오전부터 법무부 분류심사과 등을 대상으로 압수수색을 진행하고 있다. 박 전 장관이 비상계엄 선포 직후 지시한 ‘구치소 수용 여력 확보’ 관련 문건을 확보하기 위한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 계엄 선포 당시 교정본부 내부에서 구치소별 추가 수용 인원을 점검한 문건이 작성됐다가 삭제된 정황을 포착해 수사 중이다. 특검은 이 문건이 정치인 구금 등을 염두에 두고 박 전 장관의 지시에 따라 작성된 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;또 특검은 최근 법무부 보안과 직원을 조사하는 과정에서, 가석방 업무를 담당하는 분류심사과에서 또 다른 문건이 작성됐다는 진술을 확보하고 이를 확인 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 신용해 전 교정본부장은 계엄 선포 직후 박 전 장관에게 국가 비상사태 시 경미한 범죄자를 일시적으로 풀어주는 ‘전시 가석방 제도’를 언급한 것으로 알려졌다. 이후 법무부 보안과를 통해 ‘약 3600명 수용 가능’이라는 문건이 박 전 장관에게 보고됐다가 삭제된 것으로 드러났다.&lt;br&gt;&lt;br&gt;특검은 법무부가 전시 상황도 아닌데 수용 여력을 확보하기 위해 가석방을 추진하려 했다고 보고 추가 수사를 이어가고 있다. 특검은 조만간 박 전 장관에 대한 구속영장을 다시 청구할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 백해룡의 수사 근거 된 밀수범, “세관 직원이 도운 적 없다” 말바꿔</title>
