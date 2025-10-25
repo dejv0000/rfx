@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>머리 좋은 아이로 키우려면? “아이의 말을 끝까지 집중해서 들어주세요” </title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/25/TRBK4ZBFYJDS3BIWGUW5RMAR5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/25/TRBK4ZBFYJDS3BIWGUW5RMAR5A/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 06:10:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LOQQGTNJFCDNHEUGGKRCKSJYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 부산 해운대구 영화의전당 하늘연극장에서 두뇌 개발 전문의 노규식 원장의 ‘내 아이를 바꾸는 두뇌 교육법’ 특강이 열렸다. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 부산 해운대구 영화의전당 하늘연극장. ‘제2회 아이가 행복입니다 부산’ 행사 마지막날 두뇌 개발 전문의 노규식 원장의 ‘내 아이를 바꾸는 두뇌 교육법’ 특강이 열렸다. 이날 강연장은 어린 자녀의 손을 잡고 온 열정적인 부모들로 가득했다. 노 원장의 강의를 놓치지 않으려고 공책에 꼼꼼하게 메모하는 부모들도 눈에 띄었다. &lt;br&gt;&lt;br&gt;먼저, 노 원장은 ‘알파세대(2010~2024년)’의 특징을 설명했다. 그는 “지난해 출생아 수가 전 세계적으로 20억명에 달하는데, 우리나라는 저출생을 고민하고 있다”며 “알파세대는 태어나면서부터 모니터와 스크린 유리로 연결된 세상에 살고 있다”고 했다. 그러면서 “많은 정보를 접하다 보니 조숙한 세대”라면서 “온라인에서 자신의 정체성을 찾으려는 모습을 보인다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCN7CQ7FHZDWBCTLKFWJKKUXNM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 부산 해운대구 영화의전당 하늘연극장에서 두뇌 개발 전문의 노규식 원장의 ‘내 아이를 바꾸는 두뇌 교육법’ 특강이 열렸다. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;머리가 좋은 아이의 모습은 무엇일까? 노 원장은 “기억력이 우수하고, 어휘력이 뛰어나고 숫자, 단어, 그림으로 된 퍼즐을 좋아한다는 특징이 있다”며 “어떤 사물이나 사물의 특징을 따라할 수 있는 것은 머리가 좋다는 방증”이라고 설명했다. &lt;br&gt;&lt;br&gt;그는 “영재들은 일반인보다 전두엽을 활발하게 쓴다”며 “계획하기, 조직화하기, 우선순위 정하기, 점검하기, 기억하기, 유연하게 생각하기 총 6가지를 잘하는 아이들이 공부를 잘하는데 이런 역할을 하는 게 전두엽”이라고 했다. 머리가 좋은 아이로 키우기 위해서는 전두엽을 활성화하는 활동이 중요하다. 노 원장은 “집에서 좋은 생활 습관을 기르는 것으로 가능하다”고 했다. &lt;br&gt;&lt;br&gt;그는 자녀를 머리가 좋은 아이로 키우기 위해서는 “아이가 하는 말은 주의를 집중해서 끝까지 잘 듣고, 생각이나 느낌을 이야기로 표현할 기회를 자꾸 만들어야 한다”고 했다. 이어 “음악, 춤, 요리 등 다양한 문화를 부모와 자녀가 공유할 수 있으면 좋다”며 “실수에서 배움을 찾도록 이끌고, 실패했을 때 처음부터 다시 시작하는 모범을 부모가 보여줘야 한다”고 했다. 실패나 실수를 했을 때 툴툴 털고 일어나는 회복 탄력성을 키우려면 감정 조절이 뒷받침돼야 한다. 주변에 도움을 주는 경험을 갖게 하는 것도 좋은 팁이다. &lt;br&gt;&lt;br&gt;한편 ‘아이가 행복입니다’는 조선일보가 2018년 시작한 저출생 극복 캠페인이다. 아이 키우는 가족을 초청해 격려하고 출산·보육 정책을 공유하는 행사를 연다. 2022년부터 서울뿐 아니라 전국 곳곳에서 행사를 열고 있다. 부산 행사는 작년에 이어 두 번째다. 조선일보와 부산시가 공동 주최하고, 교육부와 보건복지부, 성평등가족부, 저출산고령사회위원회가 후원했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경주 아연가공업체 정화조 안에서 작업하던 4명 질식… 2명 사망</title>
+      <link>https://www.chosun.com/national/regional/2025/10/25/P5UABHYKMZGVHDYNCSFDXIN7CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/25/P5UABHYKMZGVHDYNCSFDXIN7CU/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 06:41:44 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKSOANCWZBZXCRTTBJJ44BM77Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오전 11시31분쯤 경북 경주시 안강읍 두류공업지역 아연가공업체 정화조 안에서 작업하던 4명이 질식으로 쓰러지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰에 따르면 병원에 이송된 작업자 중 40∼50대 2명은 숨졌으며 나머지 2명도 중태에 빠진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;외부에 있던 다른 작업자가 정화조 내 깊이 2ｍ 부근에서 쓰러져 있는 이들을 발견하고 당국에 신고한 것으로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 이들이 경기도 소재의 실린더 교체·정비 외부 업체 소속 직원인 것으로 파악했다.&lt;br&gt;&lt;br&gt;소방 당국은 현장에서 유해가스 측정기를 통해 정화조 내부 상태를 파악하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산해경, 선박 오염물질 불법 배출한 어선 적발</title>
+      <link>https://www.chosun.com/national/regional/2025/10/25/XEJMELHWZNHMZKVETMINXOKJTA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/25/XEJMELHWZNHMZKVETMINXOKJTA/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 06:41:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSKWUFELVJHMBKWCWAYXQQ6VIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방어진항 계류 선박 탐문조사하는 해경. /울산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산해양경찰서는 선박 오염물질을 해상에 불법 배출한 어선 A호(11ｔ급)를 적발했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;해경은 지난 23일 울산 방어진항 앞 해상에 “무지갯빛 유막이 보인다”는 신고를 접수했다. 이 항구를 통행했거나 계류 중인 어선 23척을 대상으로 CCTV 분석과 탐문조사를 벌여왔다.&lt;br&gt;&lt;br&gt;조사 결과 A호 선원이 기관실 바닥에 고인 선저폐수 180리터를 배수펌프로 바다에 버린 사실이 드러났다.&lt;br&gt;&lt;br&gt;해경은 해양 방제 작업을 마무리하고 선박 관계자들을 상대로 자세한 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “기름 등 오염물질을 해상에 불법으로 배출하면 최대 5년 이하의 징역 또는 5천만원 이하의 벌금형을 받을 수 있다”며 “앞으로도 오염물질 무단 배출 행위를 끝까지 추적해 반드시 적발하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“백미러 보다가 신호 못봐” 횡단보도 건너던 20대 임신부 숨지게 한 트럭기사 구속송치 </title>
+      <link>https://www.chosun.com/national/regional/2025/10/25/KYNDTSYTR5HDRJKQGCSZKWG6SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/25/KYNDTSYTR5HDRJKQGCSZKWG6SE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 05:15:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XBRGHJ5LVZBWHMX7IXGZBEFYEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부경찰서 전경./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부시에서 보행신호중 횡단보도를 건너던 신혼부부를 치어 20대 임신부를 숨지게 한 트럭 운전자가 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;의정부경찰서는 교통사고특례법상 치사·치상 혐의로 50대 남성 A씨를 지난 22일 구속 송치했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 10일 오후10시3분쯤 의정부시 신곡동의 한 사거리에서 7.5t 화물트럭을 몰고 횡단보도를 건너던 20대 여성 B씨와 30대 남편 C씨를 들이받은 혐의를 받는다.&lt;br&gt;&lt;br&gt;이 사고로 임신 17주 차였던 B씨는 심정지 상태로 병원으로 옮겨졌으나 치료 17일 만에 숨졌고, 태아 역시 사고 당시 숨졌다.&lt;br&gt;&lt;br&gt;남편 C씨도 갈비뼈 골절 등 중상을 입고 병원에서 치료받았다.&lt;br&gt;&lt;br&gt;경찰은 트럭 운전자인 A씨가 사고 당시 적색 신호에 정지선을 넘은 뒤 그대로 직진해 사고를 낸 것으로 파악했다.&lt;br&gt;&lt;br&gt;블랙박스 영상에서도 A씨가 속도를 줄이지 않은 채 신호를 무시하고 가다가 피해자 부부를 들이받는 장면도 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 음주나 무면허 상태는 아닌 것으로 조사됐으며, 경찰 조사에서 “옆 차로에 다른 차가 있어 백미러 쪽을 보다가 앞 신호를 보지 못했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 사안이 중대하다고 판단해 피해자 조사 등을 끝낸 뒤 구속영장을 신청했고 신병을 확보한 뒤 송치했다고 전했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “남편의 상해 정도를 판단했는데 중상해 혐의는 적용하기 어려워 교통사고특례법상 치사·치상 혐의로 검찰에 넘겼다”고 했다.&lt;br&gt;&lt;br&gt;유가족에 따르면 숨진 A씨는 대학병원 중환자실 간호사로, 사고 당시 근무를 마치고 남편과 함께 귀가하던 중이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>신분 확인 안 하고, 실탄 검색 실패…항공보안법 위반 3년간 51건</title>
       <link>https://www.chosun.com/national/national_general/2025/10/25/Q6BO3XC4IVDJ3OPLMLONBWEGNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/25/Q6BO3XC4IVDJ3OPLMLONBWEGNY/</guid>
@@ -835,15 +871,6 @@
       <content:encoded>조은석 내란 특검팀이 박성재 전 법무부 장관 수사와 관련해 법무부에 대한 추가 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPFAIHY2T5OYDO6NMDKJC4DKO4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 24일 서울 서초구 순직해병 특검 사무실에 피의자 신분으로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 24일 오전부터 법무부 분류심사과 등을 대상으로 압수수색을 진행하고 있다. 박 전 장관이 비상계엄 선포 직후 지시한 ‘구치소 수용 여력 확보’ 관련 문건을 확보하기 위한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 계엄 선포 당시 교정본부 내부에서 구치소별 추가 수용 인원을 점검한 문건이 작성됐다가 삭제된 정황을 포착해 수사 중이다. 특검은 이 문건이 정치인 구금 등을 염두에 두고 박 전 장관의 지시에 따라 작성된 것으로 의심하고 있다.&lt;br&gt;&lt;br&gt;또 특검은 최근 법무부 보안과 직원을 조사하는 과정에서, 가석방 업무를 담당하는 분류심사과에서 또 다른 문건이 작성됐다는 진술을 확보하고 이를 확인 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;앞서 신용해 전 교정본부장은 계엄 선포 직후 박 전 장관에게 국가 비상사태 시 경미한 범죄자를 일시적으로 풀어주는 ‘전시 가석방 제도’를 언급한 것으로 알려졌다. 이후 법무부 보안과를 통해 ‘약 3600명 수용 가능’이라는 문건이 박 전 장관에게 보고됐다가 삭제된 것으로 드러났다.&lt;br&gt;&lt;br&gt;특검은 법무부가 전시 상황도 아닌데 수용 여력을 확보하기 위해 가석방을 추진하려 했다고 보고 추가 수사를 이어가고 있다. 특검은 조만간 박 전 장관에 대한 구속영장을 다시 청구할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘이종섭 도피 의혹’ 박성재 前 장관, 해병 특검 첫 출석…내란 특검 조사 마치고 9시간 만</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/24/XYHTDEH3MNEELORQVKWADDCQRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/24/XYHTDEH3MNEELORQVKWADDCQRQ/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Oct 2025 01:01:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/35AVZSZZONPOHM2DFTOAZABBY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관이 24일 서울 서초구 이명현 순직해병 특별검사팀에 피의자 신분으로 출석하고 있다. 박 전 장관은 채 상병 사망사건 수사 외압 의혹의 핵심 피의자인 이종섭 전 국방부 장관의 호주 도피를 도운 혐의를 받는다. / 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 24일 오전 박성재 전 법무부 장관을 피의자 신분으로 불러 조사 중이다. 박 전 장관의 해병 특검 출석은 이번이 처음으로, 전날부터 이날 새벽 1시쯤까지 이어진 내란 특검 조사 이후 약 9시간 만에 다시 특검의 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;박 전 장관은 이날 오전 9시 59분 특검에 출석하면서 ‘이종섭 전 장관이 피의자인 사실을 모르고 있었나’ ‘이종섭 전 장관의 출국금지 해제하는 것이 법적으로 문제 될 거란 생각 안 했나’ 등 취재진의 질문에 답하지 않았다. 다만 ‘검사 출신으로서 피의자의 출국금지를 해제하는 것이 적절하다고 보는지’에 대해선 “정상적으로 업무를 처리했다. 조사에서 충분히 설명하겠다”고, ‘(윤석열 당시) 대통령이 이종섭 전 장관 출국금지 해제하라고 지시한 게 맞는지’에 대해선 “그런 사실 없다”고 했다.&lt;br&gt;&lt;br&gt;박 전 장관은 이종섭 전 국방부 장관의 ‘주(駐)호주 대사 임명 및 도피성 출국 의혹’과 관련한 범인도피 등 혐의를 받는다. 특검은 이날 박 전 장관을 상대로 이 전 장관이 호주대사에 임명되기 직전 법무부의 출국 금지 해제 조치 등에서 위법 행위가 없었는지 등을 물을 예정이다.&lt;br&gt;&lt;br&gt;이 전 장관은 고(故) 채수근 상병 사망 사건의 피의자로 고위공직자범죄수사처 수사를 받던 작년 3월 4일 호주대사로 임명됐는데, 임명 직후 공수처가 이 전 장관을 출국 금지해 놓은 사실이 알려졌다. 이에 이 전 장관은 작년 3월 6일 출국 금지를 해제해 달라고 법무부에 이의 신청을 제기했고, 법무부가 그해 3월 8일 출국금지심의위원회를 거쳐 출국 금지를 해제한 뒤 출국할 수 있었다.&lt;br&gt;&lt;br&gt;특검은 최근 법무부 실무진을 조사하는 과정에서 “박 전 장관과 심우정 전 검찰총장 등이 ‘이 전 장관이 대사로 임명됐으니 출국 금지를 해제하는 쪽으로 하라’며 사실상 지침을 줬다”는 취지의 진술을 확보한 것으로 알려졌다. 이후 정치권을 중심으로 ‘도피성 출국’ 논란이 커지자 이 전 장관은 중도 귀국했고, 대사로 임명된 지 25일 만에 자진 사퇴했다. 이와 관련해 특검은 지난달 30일 심 전 총장을 먼저 소환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 백해룡의 수사 근거 된 밀수범, “세관 직원이 도운 적 없다” 말바꿔</title>
       <link>https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/24/44FZBDPAKJFTDE433TWVQQOKWY/</guid>
@@ -875,34 +902,6 @@
       <pubDate>Thu, 23 Oct 2025 18:00:00 +0000</pubDate>
       <content:encoded>사랑의 궁극적인 표현은 청혼이지요. 아시다시피 가장 전통적인 프로포즈 관용구는 “Will you marry me?”입니다. “나와 결혼해 줄래?”라는 직설적인 질문이지요.&lt;br&gt;&lt;br&gt;“I love you more than words can say. Will you marry me?”&lt;br&gt;&lt;br&gt;그런데 청혼이라고는 하지만 결혼이라는 단어를 직접 언급하기에는 로맨틱한 뉘앙스가 느껴지지 않지요. 그래서 영어로도 “내 아내/남편이 되어줄래?”라는 뜻으로 “Will you be my wife/husband?”라고 말하며 청혼 프로포즈를 하기도 합니다.&lt;br&gt;&lt;br&gt;같은 맥락이지만 좀 더 적극적인 표현으로 “너를 내 아내/남편으로 만들고 싶어. 너와 한평생 함께하고 싶어”라며 “I want to make you my wife and build a life together.”라고 직관적 의지를 나타내기도 합니다.&lt;br&gt;&lt;br&gt;또는 “네 인생을 평생 나와 함께해 줄래?” “평생 함께 해로하다”라는 의미로 “Will you spend the rest of your life with me?” “Will you be my wife/husband and stay with me forever?” “Will you grow old together with me?”라는 서정적 표현을 하기도 합니다.&lt;br&gt;&lt;br&gt;영원한 사랑을 약속하는 뜻으로 하는 청혼 표현에는 이런 것들도 있습니다.&lt;br&gt;&lt;br&gt;“I want to spend eternity with you.”&lt;br&gt;&lt;br&gt;“I want you by my side for the rest of my life.”&lt;br&gt;&lt;br&gt;또 다른 낭만적인 표현으로 “영원히 내 사람이 되어줄래?”라며 감성에 호소하는 청혼 멘트도 있습니다.&lt;br&gt;&lt;br&gt;“Will you be mine forever?”&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/UKZXJO6NYFA7XGN3XO4VFRY2LM.gif?auth=07c28c61dd96fa3d35f4f3fffb31bfeac1dbfc7767d2301ed61733a635859572&amp;smart=true&amp;width=508&amp;height=286" type="image/jpeg" height="286" width="508"/>
-    </item>
-    <item>
-      <title>대검 “관봉권 띠지 분실, 윗선 지시 없었다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/24/JROQ7FNFYRA55CTAJ2YRATW464/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/24/JROQ7FNFYRA55CTAJ2YRATW464/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>대검찰청이 최근 서울남부지검의 ‘관봉권 띠지 분실’ 의혹과 관련해 “실무상 과실은 있지만, 검찰 지휘부가 고의로 증거를 인멸·은폐한 것으로 볼 수 없다”는 내용의 감찰 결과를 법무부에 보고한 것으로 23일 전해졌다.&lt;br&gt;&lt;br&gt;남부지검은 작년 12월 ‘건진 법사’ 전성배씨 자택을 압수 수색하면서 1억6500만원의 현금 다발을 확보했는데, 이 중 5000만원에 둘러져 있던 한국은행 관봉권 띠지와 스티커를 분실해 논란이 됐다. 띠지와 스티커엔 현금을 검수한 날짜, 담당자 이름, 기계 식별 번호 같은 정보가 찍혀 있는데, 담당 수사관이 스티커 사진만 찍은 채 나머지를 실수로 버렸다는 것이다. &lt;br&gt;&lt;br&gt;띠지 분실 사실이 알려지자 더불어민주당은 “검찰이 전씨와 윤석열 전 대통령 부부의 연관성을 감추려고 고의로 폐기한 것”이라고 했다. 작년 3월 임용돼 띠지 보관을 담당했던 김정민 수사관 등을 국회 ‘검찰 개혁 입법청문회’에 불러 분실 경위를 추궁했다.&lt;br&gt;&lt;br&gt;그러나 국회 청문회와 대검 감찰로도 증거 인멸 정황은 드러나지 않았다. 대검 감찰부는 지난 8월 남부지검을 압수 수색해 관련 자료를 확보하고, 김 수사관 등에 대한 조사를 진행했지만 뚜렷한 혐의점을 찾지 못한 것으로 전해졌다. 애초에 관봉권의 띠지와 스티커에 담긴 정보는 사실상 동일해 스티커 사진만 있어도 수사에 차질이 생기지 않는다고 한다.&lt;br&gt;&lt;br&gt;한 검찰 관계자는 “민주당의 근거 없는 의혹 제기로 검찰만 난장판이 됐다”고 말했다. 김 수사관은 최근 검찰에 사직 의사를 밝혔지만 이 사건으로 경찰에 입건돼 사표는 아직 수리되지 않았다고 한다.&lt;br&gt;&lt;br&gt;법무부는 감찰 결과를 검토해 최종 징계 여부를 결정한다. 다만 대검 차원의 조사가 부족했다고 판단하면 추가 조사를 지시할 수 있다. 앞서 이재명 대통령이 법무부에 관봉권 분실 의혹 관련 ‘상설 특검’의 필요성을 거론한 만큼, 특검을 통한 재수사가 이뤄질 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘채상병 사건’ 이종섭 등 7명 줄줄이 영장심사</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/24/CSY24IDMPNDZRNYZUB44KR4XZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/24/CSY24IDMPNDZRNYZUB44KR4XZM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>이종섭 전 국방장관과 임성근 전 해병대 1사단장 등 채수근 상병 사망 사건 관련 핵심 피의자 7명에 대한 구속영장 실질심사가 23일 서울중앙지법에서 차례로 열렸다. 특검 수사를 받는 피의자 7명이 같은 날 구속 기로에 놓인 것은 이례적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3WBALEJIFAKVNVZNKHMNHMX6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김지호 기자
-23일 구속영장 실질심사를 받기 위해 서울중앙지법에 도착한 이종섭 전 국방장관.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영장 심사는 크게 두 갈래로 나눠 진행됐다. 이 전 장관과 유재은 전 법무관리관, 김동혁 전 검찰단장, 박진희 전 군사보좌관, 김계환 전 해병대 사령관 등 국방부와 군 관계자 5명은 정재욱 서울중앙지법 영장전담 부장판사가 심사를 진행했다. 이 전 장관 등은 지난 2023년 7월 윤석열 전 대통령의 이른바 ‘VIP 격노’ 이후, 임 전 사단장에게 과실치사 혐의를 적용한 해병대 수사단의 초동 조사 결과를 뒤집기 위해 조직적으로 개입한 혐의(직권남용) 등을 받고 있다.&lt;br&gt;&lt;br&gt;영장 심사에서 특검은 “이 전 장관 등의 혐의는 충분히 소명됐고, 증거를 인멸한 정황도 있다”며 구속 수사의 필요성을 강조했다. 반면 이 전 장관 측은 “채 상병 사건의 재조사 지시 등은 국방장관으로서 내린 정당한 명령이었다”며 혐의를 전면 부인했다. 유 전 관리관과 김 전 단장 등도 “수사 외압은 없었다”는 입장을 고수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;채 상병 사망에 대한 업무상 과실치사 등 혐의로 구속영장이 청구된 임 전 사단장과 최진규 전 11포병대대장은 이날 이정재 서울중앙지법 영장전담 부장판사의 심사를 받았다. 특검은 이들이 2023년 7월 경북 예천군에서 실시된 수해 실종자 수색 과정에서 ‘수중 수색’ 등 무리한 지시를 내려 채 상병이 급류에 휩쓸려 사망하게 한 책임이 있다고 주장했다. 임 전 사단장 등은 “수중이 아닌 수변(水邊)에서 수색하라는 지시였다”고 반박했다.&lt;br&gt;&lt;br&gt;한편, 특검은 최근 채 상병 사건을 수사했던 송창진 전 고위공직자범죄수사처 부장검사가 윤 전 대통령 등의 휴대전화 통신영장 청구에 강하게 반발했다는 진술을 확보했다. 당시 수사를 맡은 공수처 관계자들이 “송 전 부장검사가 작년 6월 내부 회의에서 ‘수사 기록에 소설 같은 이야기를 썼다’ ‘통신영장을 청구하면 사표 쓰겠다’며 결재를 거부했다”고 진술한 것이다. 송 전 부장검사는 이후 국회에서 “보완이 필요해 영장 청구에 반대한 것”이라고 증언했다. 이와 관련해 추미애 더불어민주당 법제사법위원장은 최근 송 전 부장검사를 국회 위증 혐의로 특검에 고발했고, 특검은 이 사건과 함께 수사를 지연시킨 오동운 공수처장 등 공수처 검사들을 직무유기 혐의로 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 내달 8일 오세훈·명태균 대질 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/24/JSHXLJ5BONHFTJCMNCAGULA6WE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/24/JSHXLJ5BONHFTJCMNCAGULA6WE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 내달 8일 오전 9시에 오세훈 서울시장과 ‘정치 브로커’ 명태균씨를 각각 불러 대질 조사를 진행할 예정이라고 23일 밝혔다. 이와 관련해 오 시장 측은 “지난 22일 특검에 명씨와 대질 조사를 하게 해 달라고 요청했다”고 했다.&lt;br&gt;&lt;br&gt;특검은 오 시장이 2021년 4월 서울시장 보궐선거를 앞두고 명씨에게서 미공표 여론조사 13건을 제공받고, 그 대가로 3300만원을 자기 후원자로 알려진 김한정씨에게 대납시킨 혐의를 수사 중이다. 오 시장은 김씨가 명씨에게 돈을 준 사실을 몰랐고, 명씨에게 여론조사를 의뢰한 적은 물론 그에게서 조사 결과를 받아보지도 않았다는 입장이다. 오 시장 측 관계자는 “명씨의 일방적인 허위 주장에 기초해 피의자란 굴레를 씌우는데, 결백이 밝혀질 것”이라고 했다. &lt;br&gt;&lt;br&gt;오 시장은 이날 국회 행정안전위원회의 증인으로 출석한 명씨가 “오 시장을 일곱 번 만났다”고 주장한 데 대해 “김영선 전 의원을 대동하고 불쑥불쑥 나타났다. 대부분이 스토킹한 것”이라고 했다. 명씨가 “당선되면 아파트를 사준다고 했다”고 한 데 대해선 “상식적으로 판단해 달라”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 민중기 특검팀은 ‘양평 공흥지구 특혜 의혹’ 사건과 관련해 다음 달 4일 김건희 여사 모친인 최은순씨와 오빠 김진우씨를 피의자로 불러 조사할 예정이다. 특검은 김 여사 가족 기업인 이에스아이앤디(ESI&amp;amp;D)가 2011~2016년 경기 양평군 공흥리 일대 개발 사업을 하면서 양평군에서 개발 부담금을 면제받는 등 특혜를 받았는지 수사 중이다. &lt;br&gt;&lt;br&gt;특검은 최씨와 김씨를 상대로 김 여사가 인사 청탁 대가로 받은 물건들을 빼돌린 혐의도 조사할 예정이다. 두 사람은 이배용 전 국가교육위원장이 2022년 김 여사에게 5돈짜리 금거북이와 함께 건넨 윤석열 전 대통령 당선 축하 카드 등을 특검 수사에 대비해 숨겼다는 의혹을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>패딩 꺼내야 하나, 주말 지나면 한파</title>
