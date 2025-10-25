@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>2살 딸 지키려다 중학생 몰던 전동킥보드에 치인 엄마…“1주일째 중태”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/26/AMGXZCXBGZEZPHWWXDSBD6KHOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/26/AMGXZCXBGZEZPHWWXDSBD6KHOE/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 22:03:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RVJSMYX5YJDJDPIWXLFLGOXZUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고가 발생하기 직전 전동킥보드가 달려오는 장면. /KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 걷던 2살 딸을 지키려다 중학생이 몰던 전동킥보드에 치인 30대 여성이 일주일째 의식을 찾지 못하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;26일 인천 연수경찰서에 따르면 이 사고는 지난 18일 오후 4시 37분쯤 연수구 송도동의 한 인도에서 발생했다. 당시 A양 등 중학생 2명이 함께 타고 있던 전동킥보드가 길을 지나던 30대 여성 B씨를 쳤다. 이 사고로 B씨가 넘어지며 머리 부위 등을 크게 다쳐 현재까지 의식을 되찾지 못하고 있다.&lt;br&gt;&lt;br&gt;당시 B씨는 2살인 둘째 딸과 인도를 걷고 있었는데 전동킥보드가 속도를 줄이지 않고 달려오자 딸을 감싸다 사고를 당했다. &lt;br&gt;&lt;br&gt;B씨의 남편은 25일 연합뉴스와의 인터뷰에서 “2살과 4살 딸들이 엄마를 애타게 찾는다”며 “아이들이 나이는 어려도 엄마가 다친 사실을 알고 있다. 특히 사고 현장에 있던 둘째 딸은 트라우마 증세도 보인다”고 했다.&lt;br&gt;&lt;br&gt;B씨의 남편은 병원 중환자실에 입원한 아내를 챙기면서 어린 딸들까지 돌보느라 생업에서는 완전히 손을 놓은 상태라면서도 “당장 처벌을 언급하고 싶지는 않다. 지금은 온전히 기적이 일어나 아내가 의식을 회복하기만을 기도하고 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 경찰에 따르면, A양은 원동기 면허를 소지하지 않은 상태였다. ‘1인 탑승’ 원칙도 지키지 않았다.&lt;br&gt;&lt;br&gt;경찰은 교통사고처리특례법상 치상과 도로교통법상 무면허운전 등 혐의를 적용해 A양 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>의협 “성분명 처방·한의사 X레이 등 총력 저지할 것”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/25/DSILYXA7TZEQTD2VUYE3NPGVP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/25/DSILYXA7TZEQTD2VUYE3NPGVP4/</guid>
@@ -860,15 +869,6 @@
       <description/>
       <pubDate>Fri, 24 Oct 2025 02:49:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PJVTB7CZ5FXRNHRWF4JNXDJ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서동주./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 서동주가 브랜드 VIP 행사장에 경차를 타고 갔다가 홀대당한 경험을 털어놨다.&lt;br&gt;&lt;br&gt;서동주는 지난 23일 자신의 유튜브 채널을 통해 최근 브랜드 VIP 행사에 참석했다가 겪은 일화를 공개했다.&lt;br&gt;&lt;br&gt;그는 “큰 브랜드 행사에 갔는데 내가 경차를 탄다. 엄청 좋은 검은색 차들이 줄줄이 있는데 그 사이에 내가 꼈다. 그랬더니 일하는 분들이 (차가) 잘못 들어온 줄 알고 ‘여기 행사 중이니까 돌려 나가라’고 하더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;이어 “그런 상황에서 (밖으로) 나갔는데, 브랜드 행사장이 통유리로 된 곳이라 안에서 너무 많은 직원이 쳐다보고 있더라”며 “평소엔 그런 거 신경 안 쓰는데, (사람들이) 보고 있는데 내리려니 약간 민망하더라”고 말했다.&lt;br&gt;&lt;br&gt;서동주는 “내려서 들어가면서 ‘내가 더 당당해야지’ 싶었다. 경차를 너무 좋아하고, 진짜 편하다. 이것만큼 좋은 차가 없다. 이거 없으면 큰일 날 뻔한 경우도 많다. 더욱 당당해야겠다는 마인드 컨트롤을 하면서 갔다”면서도 “태어나서 처음으로 민망했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHJPM7VQGJAYZCKBODG6W4QBKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서동주./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서동주의 차는 기아의 소형차 레이다. 그는 “차를 바꿀 생각이 있느냐”는 질문에 “다음 레이가 나온다길래 신청해놨다. 운전을 막 하는 스타일이라 너무 편하다. 주차 대란인 곳을 가도 잘 들어간다. 너무 좋은데 그날만 좀 민망했다”고 말했다.&lt;br&gt;&lt;br&gt;서동주는 개그맨 고(故) 서세원과 방송인 서정희의 딸이다. 샌프란시스코 대학교 로스쿨을 졸업한 뒤 미국에서 변호사 생활을 했으며, 현재 한국에서 방송 활동을 겸하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정청래 “판·검사 처벌 ‘법 왜곡죄’ 도입 법안 처리해야”</title>
-      <link>https://www.chosun.com/politics/assembly/2025/10/24/MHR5HLSACFGPVDWQHKRHWOJEAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/10/24/MHR5HLSACFGPVDWQHKRHWOJEAQ/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Oct 2025 00:45:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOIMJC2FJ5DGPEOAXR2YI42YE4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 정청래 대표가 24일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정청래 더불어민주당 대표가 ‘법령을 부당하게 적용한 것으로 생각되는’ 판·검사를 형사처벌하기 위한 ‘법 왜곡죄’ 도입 법안(형법 개정안)을 신속하게 처리해야 한다고 24일 주장했다.&lt;br&gt;&lt;br&gt;정 대표는 이날 오전 국회에서 열린 당 최고위원회의에서 “어제(23일) 이재명 대통령께서 공적 권한으로 명백한 불법을 덮고 없는 사건을 조작한 사정기관을 단죄하라고 했다”며 이 대통령이 전날 대통령실 수석보좌관 회의에서 한 말을 거론했다. 이 대통령은 어느 사정기관이 무슨 문란 행위를 했는지에 대해서는 구체적으로 언급하지 않았으나, 대통령실 안팎에서는 감사원의 표적 감사 의혹과 박상용 검사(법무연수원 교수)가 ‘쌍방울 대북 송금’ 사건에서 이화영 전 경기 부지사를 회유했다는 의혹, 엄희준 광주고검 검사가 쿠팡풀필먼트서비스 퇴직금 미지급 사건 수사 지휘 선상에 있었던 문지석 검사에게 무혐의 처분 압력을 넣었다는 의혹 등을 겨냥한 것이라는 해석이 나왔었다.&lt;br&gt;&lt;br&gt;정 대표는 이와 관련해 “대표적 사건이 쿠팡의 일용직 퇴직금 미지급 사건”이라며 “어제 법사위 국감에서 문 검사의 새로운 증언이 폭로됐다. 검찰 지휘부가 해당 사건을 무혐의 처리하도록 종용한 것도 모자라, 문 검사에게 온갖 폭언과 욕설을 쏟아부으며 ‘대검의 감찰 지시를 하겠다’ ‘사건 재배당을 하겠다’ 등의 협박까지 일삼았다”고 주장했다.&lt;br&gt;&lt;br&gt;정 대표는 그러면서 “엄 검사를 엄히 처벌해야 한다”며 “이러니 법사위에 계류돼 있는 법 왜곡죄(도입 법안)를 시급히 처리해야 하는 것”이라고 했다. “있는 것을 없는 것으로 덮고, 없는 것을 있는 것으로 조작해낸 검사가 있다면 모조리 찾아내 법 왜곡죄로 처벌해야 한다”고도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M26NQRWRSJAZ7F7CWHDJX3LSR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 정청래 대표가 24일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 대표는 이어서 “판사들도 마찬가지”라며 “적용할 법을 잘못 적용해 없는 죄를 있는 죄로, 있는 죄를 없는 죄로 판결한 사례가 있다면 이 또한 판사들의 법 왜곡죄로 처벌해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;정 대표는 조희대 대법원장도 재차 공격했다. 그는 “조 대법원장은 전가의 보도처럼 사법부 독립을 외치고 있는데, 그 위대한 사법부 독립을 12·3 비상계엄 내란 때는 왜 외치지 않았느냐”며 “일제 치하 때는 눈치 보고 무서워서 침묵하다가 8·15 해방이 되니까 8월 16일부터 독립운동한다며 만세 부르고 다녔던 기회주의자들이 생각난다”고 했다. 이어서 “진짜 사법부 독립이 위기에 닥친 12·3 비상계엄 때 침묵하고, 내란이 진압되자 사법부 독립운동하는 걸 보니 참 비겁한 기회주의자 같다”며 “이러니 사법 개혁하자는 것”이라고 했다. 정 대표는 “그러니 ‘조 대법원장은 자격이 없다. 스스로 거취를 결단하라’고 법원 내 판사들이 주장한다”며 조 대법원장에게 “알아서 처신하기 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수도권 오피스텔 성매매 알선 일당 적발, 성 매수자 590명도 입건…공직자 17명 포함</title>
