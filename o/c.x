@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>시민단체, 이상경 전 차관 고발 “사의 표명으로 될 문제 아니다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/25/QQRSDWXOQJFRTNF75VEV65JJBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/25/QQRSDWXOQJFRTNF75VEV65JJBM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 25 Oct 2025 09:02:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZSN6JWWC4R33N6BXFVKHGXXLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상경 전 국토교통부  차관이 23일 오전 유튜브 생중계를 통해 “부동산 정책을 담당하는 국토교통부 고위 공직자로서 국민 여러분의 마음에 상처를 드린 점 진심으로 사과드린다”고 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민단체가 갭투자(전세 낀 주택 구입)를 통해 고가 아파트를 구입했다는 논란을 불러일으킨 이상경 전 국토교통부 1차관을 고발했다.&lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 지난 24일 서울경찰청에 이 전 차관을 직권남용, 명예훼손, 국가공무원법 및 이해충돌방지법 위반으로 고발했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;서민위는 고발장에서 “(이 전 차관이) 지난 19일 한 유튜브 채널에서 ‘집값이 떨어지면 그때 사면 된다’고 발언한 건 국민을 기만하고 능멸하는 행위”라며 국가공무원법 위반과 명예훼손이라고 주장했다.&lt;br&gt;&lt;br&gt;또 “(이 전 차관의) 배우자가 지난해 7월 경기 성남시 분당구의 30억원 대 아파트를 갭투자 방식으로 매입한 건 직권남용과 이해충돌방지법 위반”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 차관은 전날 오후 8시쯤 김윤덕 국토부 장관에게 차관직을 내려놓겠다는 의사를 밝힌 것으로 알려졌다. 이재명 대통령은 이날 이 전 차관의 면직안을 재가했다. 서민위는 “사의 표명으로 해결될 문제가 아니다”며 “논란이 불거진 지 일주일이 되도록 책임감 있는 조치 없이 버텨온 건 국민을 무시하는 행태”라고 비판했다. 서민위는 “고위 공직자의 부도덕한 언행이 반복되지 않도록 철저한 수사와 엄중한 처벌이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>머리 좋은 아이로 키우려면? “아이의 말을 끝까지 집중해서 들어주세요” </title>
       <link>https://www.chosun.com/national/regional/yeongnam/2025/10/25/TRBK4ZBFYJDS3BIWGUW5RMAR5A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/25/TRBK4ZBFYJDS3BIWGUW5RMAR5A/</guid>
@@ -902,15 +911,6 @@
       <pubDate>Thu, 23 Oct 2025 18:00:00 +0000</pubDate>
       <content:encoded>사랑의 궁극적인 표현은 청혼이지요. 아시다시피 가장 전통적인 프로포즈 관용구는 “Will you marry me?”입니다. “나와 결혼해 줄래?”라는 직설적인 질문이지요.&lt;br&gt;&lt;br&gt;“I love you more than words can say. Will you marry me?”&lt;br&gt;&lt;br&gt;그런데 청혼이라고는 하지만 결혼이라는 단어를 직접 언급하기에는 로맨틱한 뉘앙스가 느껴지지 않지요. 그래서 영어로도 “내 아내/남편이 되어줄래?”라는 뜻으로 “Will you be my wife/husband?”라고 말하며 청혼 프로포즈를 하기도 합니다.&lt;br&gt;&lt;br&gt;같은 맥락이지만 좀 더 적극적인 표현으로 “너를 내 아내/남편으로 만들고 싶어. 너와 한평생 함께하고 싶어”라며 “I want to make you my wife and build a life together.”라고 직관적 의지를 나타내기도 합니다.&lt;br&gt;&lt;br&gt;또는 “네 인생을 평생 나와 함께해 줄래?” “평생 함께 해로하다”라는 의미로 “Will you spend the rest of your life with me?” “Will you be my wife/husband and stay with me forever?” “Will you grow old together with me?”라는 서정적 표현을 하기도 합니다.&lt;br&gt;&lt;br&gt;영원한 사랑을 약속하는 뜻으로 하는 청혼 표현에는 이런 것들도 있습니다.&lt;br&gt;&lt;br&gt;“I want to spend eternity with you.”&lt;br&gt;&lt;br&gt;“I want you by my side for the rest of my life.”&lt;br&gt;&lt;br&gt;또 다른 낭만적인 표현으로 “영원히 내 사람이 되어줄래?”라며 감성에 호소하는 청혼 멘트도 있습니다.&lt;br&gt;&lt;br&gt;“Will you be mine forever?”&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/UKZXJO6NYFA7XGN3XO4VFRY2LM.gif?auth=07c28c61dd96fa3d35f4f3fffb31bfeac1dbfc7767d2301ed61733a635859572&amp;smart=true&amp;width=508&amp;height=286" type="image/jpeg" height="286" width="508"/>
-    </item>
-    <item>
-      <title>패딩 꺼내야 하나, 주말 지나면 한파</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/10/24/N4J4YVU2T5GHFG3QKQXJBTS2AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/24/N4J4YVU2T5GHFG3QKQXJBTS2AI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 15:53:00 +0000</pubDate>
-      <content:encoded>다음 주 첫 한파가 예고됐다. &lt;br&gt;&lt;br&gt;23일 기상청에 따르면, 중국 북부에서 대륙고기압이 확장하며 일요일인 26일 밤부터 차가운 북풍이 우리나라로 유입, 27~29일 강풍과 함께 초겨울 수준의 추위가 오겠다. 지난 19~21일 한 차례 불어온 때아닌 ‘겨울바람’에 이어, 또다시 살을 에는 찬 바람이 오는 것이다.&lt;br&gt;&lt;br&gt;27일쯤 강원 산지엔 한파주의보가 내려질 것으로 보인다. 한파주의보는 10월부터 이듬해 4월까지 아침 최저기온이 전날보다 10도 이상 떨어져 영상 3도 이하를 보이고, 평년 기온보다 3도 이상 낮을 것으로 예상될 때 내려진다. 갑자기 추워진 날씨는 다음 주 후반으로 가면서 다시 평년 수준을 되찾을 전망이다.&lt;br&gt;&lt;br&gt;다만 그 전인 24일과 주말인 25~26일에는 선선한 가을 날씨가 이어지겠다. 24~25일 기온은 최저 8~16도, 최고 14~23도 수준을 보이겠고, 26일에는 소폭 떨어져 최저 6~15도, 최고 15~21도로 예상된다. 24일 강원 영동과 부산·울산 곳곳엔 비가 내리겠다.&lt;br&gt;&lt;br&gt;한파가 예상되는 27일~다음 달 2일에는 아침 최저기온이 0~11도, 낮 최고기온은 10~19도까지 뚝 떨어질 것으로 예보됐다. 중부 내륙과 남부 지방 높은 산지에선 체감 기온이 영하로 떨어지겠고, 서리가 내리고 얼음이 어는 곳이 있겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하남, K팝의 새로운 무대…전 세계 댄스 인플루언서가 달궜다</title>
