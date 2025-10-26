@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>다시 이공계 바람? 4대 과기원 수시 지원 5년 내 최대 </title>
+      <link>https://www.chosun.com/national/education/2025/10/26/G2GRVU6IS5G2JKHMBWABNXKBAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/10/26/G2GRVU6IS5G2JKHMBWABNXKBAI/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Oct 2025 11:30:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKGFU5SWRJLD224J5W5OYCR4BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국과학기술원(KAIST) 정문./KAIST&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카이스트 등 4대 과학기술원 수시 모집 응시자가 최근 5년 중 가장 많은 것으로 나타났다. 상대적으로 안정적인 취업이 가능한 이공계 학과에 대한 선호가 높아진 영향으로 보인다. &lt;br&gt;&lt;br&gt;26일 종로학원에 따르면 2026학년도 4대 과기원의 수시 지원자 수는 2만4423명으로 전년 대비 16.1%(3394명) 늘었다. 최근 5년 중 최고 수준이다. 대구경북과학기술원(DGIST)이 전년도보다 23.4%(1172명) 늘었고, 울산과학기술원(UNIST)은 20.6%(1354명), 광주과학기술원(GIST)은 12.8%(377명), 카이스트는 7.6%(491명) 증가했다. 교육계 관계자는 “과기원 등 과학 특성화 대학은 수시 모집 6회 지원 제한에 해당하지 않아 추가로 지원할 수 있다는 점을 감안해도 최근의 이공계 선호 현상의 영향이 크다고 볼 수 있다”고 했다. &lt;br&gt;&lt;br&gt;4대 과기원 수시 지원자 수는 최근 5년 동안 꾸준히 증가했다. 2022학년도 입시에서 1만3315명이던 지원자는 이듬해인 2023학년도 1만5443명, 2024학년도 1만8630명을 기록했다. &lt;br&gt;&lt;br&gt;경쟁률도 상승하고 있다. 2025학년도에 12.30대 1이던 4대 과기원의 수시 경쟁률은 2026학년도 모집에서 평균 14.14대 1까지 올랐다. 내년도 경쟁률이 가장 높은 곳은 DGIST(27.85대 1)였다.&lt;br&gt;&lt;br&gt;반면 2026학년도 의·약학 계열 수시 전형 지원자 수는 11만2364명으로 최근 5년 중 가장 적었다. 이는 전년 대비 21.9%(3만1571명) 감소한 수준이다. 의대 정원이 다시 1500명 줄면서 경쟁률이 커질 것을 우려한 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “최근 정부의 이공계 집중 육성 정책, 반도체, AI 등의 경기 상황에서 수험생들이 민감하게 반응할 수 있다”며 “의·약학 계열에 집중됐던 최근 양상이 이공계 쪽으로의 이동으로 일부 나타나고 있는 상황”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>백해룡 “수감자 불러 진술 비틀기는 검찰 고질병”</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/26/HBCVWGSO6VGFBG4R6HUDCN2MGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/26/HBCVWGSO6VGFBG4R6HUDCN2MGI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Oct 2025 10:17:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7JAZVJ5UFJXRLRHK2VVYRFHR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해룡 전 영등포경찰서 형사과장(경정)이  임은정 동부지검장과 비공개 면담을 위해 지난 7월 17일 서울 송파구 서울동부지방검찰청으로 들어가며 취재진 질의에 답하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약’ 사건에 가담한 말레이시아 운반책 중 한 명이 조현병(정신분열증)을 앓고 있어 진술의 신빙성이 떨어진다는 비판에 대해 백해룡 경정이 26일 반박 입장을 냈다.&lt;br&gt;&lt;br&gt;백 경정은 이날 “해당 조직원의 진술은 검찰이 수사 단서 및 유죄 인정의 근거로 이미 사용했다”며 “조증도 앓고 있어 (오히려) 거짓말을 지어내지 못하고, 특정 인물과 사물을 짚어내는 데 지장이 없을 뿐더러 뛰어나다”고 했다. 또한 “조직의 부두목이 범죄 혐의를 부인하자 해당 조직원의 진술로 반박해 유죄를 입증한 적도 있었다”며 “수감자를 불러내 진술 비트는 것은 검찰의 고질병”이라고 했다. 다만 검찰의 ‘진술 비틀기’가 무엇을 의미하는지는 구체적으로 밝히지 않았다.&lt;br&gt;&lt;br&gt;본지는 ‘세관 마약 수사 외압’ 의혹과 관련해 “세관 직원들이 필로폰 반입을 도왔다”고 진술한 말레이시아 운반책 중 한 명이 조현병(정신분열증)을 앓고 있었다고 보도했었다(25일 자 A10면). 백 경정은 서울 영등포경찰서 형사과장으로 있던 지난 2023년 9월 한국을 수차례 드나들며 필로폰을 밀수한 말레이시아인 운반책들을 검거해 그해 1월 27일 인천공항으로 필로폰을 반입할 때 인천 세관 공무원이 도와줬다는 진술을 확보했다. 2월 27일 김해공항을 통해 마약을 반입하다 검찰에 검거된 말레이시아인 A(48)씨는 백 경정 팀에 이런 진술을 한 3명 중 한 명이다. &lt;br&gt;&lt;br&gt;그런데 A씨는 백 경정이 주도한 인천공항 현장 검증 도중 정신 분열 증세를 호소한 것으로 나타났다. 백 경정은 그간 “(운반책들 증언이) 구체적이고 확실하다”고 해왔다. 그러나 세관 직원 연루 의혹을 제기했던 운반책 중 일부가 최근 “세관 직원들이 마약 반입을 도운 적 없다”며 진술을 바꾼 데 이어 핵심 증인이 정신 질환을 앓고 있는 것으로 나타나면서 검경 합동 수사단은 이 진술들의 신빙성을 다시 따져보는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;백 경정은 “경찰청에서 킥스(형사사법포털)를 사용하면 안 된다고 서면 통지를 했다”며 “과거 취급했던 사건 수사 자료도 볼 수 없는 상황”이라고 했다. 동부지검은 청사 10층에 마련된 백 경정 사무실에 경찰 내부망을 설치하고, 백 경정의 독자적 판단에 따라 결재권을 갖고 팀장의 권한을 행사하면서 경찰 업무를 수행할 수 있도록 했다. 그런데 백 경정은 지난 16일 첫 출근 이후 이날까지 경찰 수사 업무를 처리하는 포털인 ‘킥스’를 사용하지 못해 수사 착수에 어려움을 겪고 있다고 주장 중이다.&lt;br&gt;&lt;br&gt;백 경정은 검찰의 지원 부족에 대한 불만도 드러냈다. 그는 “수사 전결권을 줬다고 하는데, 이는 원래 경찰서 과장이면 가지고 있는 권한”이라며 “검찰에서 간이침대 지원도 거부해 1개당 16만원의 침대 5개를 사비로 구매했다”며 “휴게 공간도 없어서 사무실에 비치했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>9월 복귀 전공의 특혜 논란..수련 기간 모자라도 레지던트 지원, 전문의 시험 허용</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/26/P7K5HKBUKNG2XAWLL5MKSI5454/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/26/P7K5HKBUKNG2XAWLL5MKSI5454/</guid>
@@ -958,19 +976,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BU3GZY3XSZDGNPEKC423YPMRII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장진욱 경찰청 과학수사운영계장(오른쪽)이 지난 21일 인천국제공항을 통해 캄보디아 범죄 단지에서 고문 후 살해된 대학생 박모씨의 유해를 송환한 뒤 안중만 경북경찰청 형사기동대장에게 인수하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에서 중국계 폭력 조직에 고문당해 살해당한 한국인 대학생 박모(22)씨 사건과 관련된 국내 대포 통장 모집책이자 박씨의 대학 선배가 국민참여재판을 받게 됐다. &lt;br&gt;&lt;br&gt;대구지법 안동지원은 숨진 박씨로부터 대포 통장을 받은 혐의(전기통신금융사기 피해 방지 및 피해금 환급에 관한 특별법 위반 등)로 구속 기소된 홍모(20대)씨에 대해 국민참여재판을 결정했다고 24일 밝혔다. 재판부는 “사회적 이목이 쏠린 사건으로 쟁점들에 대해 배심원들의 의견을 들어보기로 했다”고 설명했다. 앞서 홍씨 측 변호인은 배심원들의 판단을 먼저 받겠다며 지난 22일 국민참여재판을 신청했다.&lt;br&gt;&lt;br&gt;국민참여재판은 대구지법 본원에서 열리며 공판기일은 추후 지정될 예정이다.&lt;br&gt;&lt;br&gt;홍씨와 공모해 숨진 대학생을 캄보디아로 보내는 데 결정적 역할을 한 20대 이모씨에 대한 경찰 수사도 진행 중이다. &lt;br&gt;&lt;br&gt;홍씨에게 박씨를 소개받은 이씨는 박씨 명의로 통장을 개설하게 한 후 캄보디아로 출국하게 만든 혐의(전기통신 금융 사기 피해 방지 및 피해금 환급에 관한 특별법 위반 등)로 구속돼 수사를 받고 있다. &lt;br&gt;&lt;br&gt;충남 지역 한 전문대를 다닌 박씨는 같은 학교 선배인 홍씨의 권유로 지난 7월 17일 가족에게 “박람회에 다녀오겠다”고 말한 뒤 캄보디아에 입국했다. 이후 중국계 폭력 조직이 운영하는 범죄 단지에 감금돼 고문당한 그는 8월 8일 깜폿주 보코산 일대 차량 안에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>2028년 전국체전 개최지 光州 확정...2007년 이후 21년 만</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/24/WRWYOVAS4ZCVFCV5P54N4AEO2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/24/WRWYOVAS4ZCVFCV5P54N4AEO2A/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Oct 2025 06:45:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWZNXBW4J2WWQPTOA2XEGUNRBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시청. /광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시가 2028년 열리는 전국체육대회 개최지로 확정됐다.&lt;br&gt;&lt;br&gt;광주시는 24일 “대한체육회 이사회가 2028년 열리는 제109회 전국체육대회 개최지로 광주시를 선정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주시는 지난 7월부터 이번 전국체전 유치 활동에 나섰다. 광주시는 1951년 제32회 전국체육대회를 시작으로 2007년까지 총 6차례 전국체전을 열었다. 이번 개최는 21년 만이다.&lt;br&gt;&lt;br&gt;광주시는 이번 전국체전을 시민 모두가 참여하는 도시 축제로 만들 계획이다. 4대 목표로 인공지능(AI) 스마트 체전, 문화·예술 융합 체전, 시민 참여형 체전, 장애인과 비장애인이 함께하는 어울림 체전 등을 내걸었다.&lt;br&gt;&lt;br&gt;시는 이번 체전을 계기로 3년 동안 약 15만명이 유입될 것으로 내다봤다. 이에 따른 직접 경제 효과는 1111억원, 생산 유발 효과 2172억원, 취업 유발 효과 2614명 등으로 추산했다. 전국체전 개최에 따른 시설 개보수와 운영비는 약 595억원이 들 것으로 예상했다.&lt;br&gt;&lt;br&gt;광주시는 기존 체육 시설을 최대한 활용해 저비용·고효율 대회를 열 계획이다. 시는 이번 체전 유치를 계기로 2029년 소년체전, 2030년 생활체육대축전 등 전국 대회도 함께 유치하겠다는 구상이다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 “장애인 접근성 개선, 지역 상권과 연계 등을 통해 시민들이 ‘정말 잘 치른 체전’이라고 평가받을 수 있도록 준비하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RWZNXBW4J2WWQPTOA2XEGUNRBE.jpg?auth=4809ef23305bc7861295769f28cc668b5a50bb225b387e80cc21e73749ee1fb8&amp;smart=true&amp;width=2820&amp;height=1800" type="image/jpeg" height="1800" width="2820">
-        <media:description type="plain">광주광역시청. /광주광역시</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>최근 5년 반 동안 안 받아간 국민연금 미수령액 8700억원 육박</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/10/24/KT7NXMYYFZEP3JQB5YNJKSXF24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/24/KT7NXMYYFZEP3JQB5YNJKSXF24/</guid>
@@ -987,16 +992,6 @@
       <description/>
       <pubDate>Fri, 24 Oct 2025 02:49:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PJVTB7CZ5FXRNHRWF4JNXDJ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서동주./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 서동주가 브랜드 VIP 행사장에 경차를 타고 갔다가 홀대당한 경험을 털어놨다.&lt;br&gt;&lt;br&gt;서동주는 지난 23일 자신의 유튜브 채널을 통해 최근 브랜드 VIP 행사에 참석했다가 겪은 일화를 공개했다.&lt;br&gt;&lt;br&gt;그는 “큰 브랜드 행사에 갔는데 내가 경차를 탄다. 엄청 좋은 검은색 차들이 줄줄이 있는데 그 사이에 내가 꼈다. 그랬더니 일하는 분들이 (차가) 잘못 들어온 줄 알고 ‘여기 행사 중이니까 돌려 나가라’고 하더라”고 떠올렸다.&lt;br&gt;&lt;br&gt;이어 “그런 상황에서 (밖으로) 나갔는데, 브랜드 행사장이 통유리로 된 곳이라 안에서 너무 많은 직원이 쳐다보고 있더라”며 “평소엔 그런 거 신경 안 쓰는데, (사람들이) 보고 있는데 내리려니 약간 민망하더라”고 말했다.&lt;br&gt;&lt;br&gt;서동주는 “내려서 들어가면서 ‘내가 더 당당해야지’ 싶었다. 경차를 너무 좋아하고, 진짜 편하다. 이것만큼 좋은 차가 없다. 이거 없으면 큰일 날 뻔한 경우도 많다. 더욱 당당해야겠다는 마인드 컨트롤을 하면서 갔다”면서도 “태어나서 처음으로 민망했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SHJPM7VQGJAYZCKBODG6W4QBKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 서동주./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서동주의 차는 기아의 소형차 레이다. 그는 “차를 바꿀 생각이 있느냐”는 질문에 “다음 레이가 나온다길래 신청해놨다. 운전을 막 하는 스타일이라 너무 편하다. 주차 대란인 곳을 가도 잘 들어간다. 너무 좋은데 그날만 좀 민망했다”고 말했다.&lt;br&gt;&lt;br&gt;서동주는 개그맨 고(故) 서세원과 방송인 서정희의 딸이다. 샌프란시스코 대학교 로스쿨을 졸업한 뒤 미국에서 변호사 생활을 했으며, 현재 한국에서 방송 활동을 겸하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>하남, K팝의 새로운 무대…전 세계 댄스 인플루언서가 달궜다</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/23/JAXLS5CT2BHD7FAIX2GNR5TJ5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/23/JAXLS5CT2BHD7FAIX2GNR5TJ5I/</guid>
-      <dc:creator>하남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 23 Oct 2025 13:48:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6HK6S3NNVFIZANQRSC6FAFULI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 하남문화예술회관 대극장에서 열린 ‘댄스 퍼포먼스 콘서트’에서 이현재 하남시장이  ‘커버 댄스’ 부문 대상을 차지한 올레기(미국)에게 상을 수여한 뒤 함께 기념촬영을 하고 있다. /하남시
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 글로벌 K-POP 댄스 챌린지 in Hanam’이 사흘간의 열기를 뒤로하고 23일 막을 내렸다. 전 세계에서 모인 K-POP 댄스 인플루언서 20개 팀이 참여한 이번 축제는 소셜네트워크 팔로워 7000만명 규모의 글로벌 팬덤을 끌어모으며, 하남을 ‘K-컬처 도시’로 각인시켰다.&lt;br&gt;&lt;br&gt;행사는 도시 전역을 하나의 무대로 삼았다. 첫날인 21일 ‘댄스 필름 챌린지’에서는 참가자들이 유니온타워, 미사호수공원, 미사경정공원, 미사문화거리 등 하남의 주요 공간에서 영상을 촬영했다. &lt;br&gt;&lt;br&gt;핑크뮬리로 물든 공원, 도심 풍경이 내려다보이는 전망대, 호수공원의 수면 위 반사광 등이 K-팝의 역동적인 안무와 어우러졌다. 참가자들이 소셜네트워크에 올린 영상은 사흘 만에 조회수 1000만회를 넘어섰고, 해외 팬들은 “하남을 여행 버킷리스트에 추가했다”고 반응했다.&lt;br&gt;&lt;br&gt;루마니아 출신 도라 록시는 “도시가 음악과 사람으로 살아 있었다”며 “하남의 낭만적 풍경이 무대를 완성시켰다”고 말했다.&lt;br&gt;&lt;br&gt;행사 마지막 날인 23일 하남문화예술회관에서 열린 본 공연은 예매 시작과 동시에 매진됐다. 현장 관람이 어려운 팬들을 위해 유튜브와 청소년 시설, 도서관 등에서도 생중계돼 도시 전체가 축제장으로 변했다.&lt;br&gt;&lt;br&gt;무대에는 팔로워 2316만명의 텐 유진(우크라이나), 1836만명의 한나 케이(호주)를 비롯해 20개 팀이 참여했다. 참가자들은 ITZY의 ‘LOCO’, 리사의 ‘Money’, 엔하이픈의 ‘모 아니면 도’ 등 K-팝 대표곡을 각자의 스타일로 재해석했다.&lt;br&gt;&lt;br&gt;이찬재·안경자 부부의 시니어 무대와 어린이 팀 ‘웃는아이’의 공연은 세대를 아우르며 관객의 기립 박수를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRSYUVU2EFGZNJVMWNF4US4LXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 '댄스 퍼포먼스 콘서트'가 열린 하남문화예술회관 대극장. '랜덤 댄스 배틀'이 시작되자 참가자들과 관객들이 한데 어우러져 댄스를 추며 축제를 즐기고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시상식에서는 소셜네트워크 조회 수를 기준으로 한 숏폼 챌린지와 현장 심사로 결정되는 커버댄스 두 부문 수상이 이뤄졌다. 미국의 올레기가 두 부문 모두 대상을 차지하며 2관왕의 영예를 안았다. &lt;br&gt;&lt;br&gt;카자흐스탄의 카미, 러시아의 아빌리나, 튀르키예의 외즈게 찰타코을루 등이 뒤를 이었다. 현장을 찾은 시민들은 “세계 정상급 댄서들을 하남에서 직접 본 게 믿기지 않는다”며 “도시가 진짜 ‘축제’로 변했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7OH22PPZZEGPJCV6UMXOCVGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘2025 글로벌 K-POP 댄스 챌린지 in Hanam’을 성공적으로 마친 전 세계 인플루언서들이 23일 대미를 장식한 피날레 공연 후 이현재 하남시장과 함께 기념촬영을 하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하남시는 이번 행사를 ‘K-스타월드’ 조성사업의 신호탄으로 평가했다. 이현재 시장은 “하남이 전 세계 젊은 세대가 모이는 무대가 됐다”며 “이번 행사를 시작으로 글로벌 공연문화 중심도시로 도약하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
