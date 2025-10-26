@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>9월 복귀 전공의 특혜 논란..수련 기간 모자라도 레지던트 지원, 전문의 시험 허용</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/10/26/P7K5HKBUKNG2XAWLL5MKSI5454/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/10/26/P7K5HKBUKNG2XAWLL5MKSI5454/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Oct 2025 09:57:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJCADFQAYFBSTJKIZYUFM5ZSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 9월 1일 대전의 한 대학병원에서 하반기 전공의 오리엔테이션이 열리고 있다. 의정 갈등 당시 집단 사직했던 전공의 중 상당수는 지난 9월에 복귀했다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;집단 사직한 뒤 지난 9월 복귀한 전공의들에게 정부가 또다시 예외를 허용하기로 했다. 뒤늦게 복귀해 수련 기간이 부족한 인턴들에 대해 내년 상반기 레지던트 지원 원서를 낼 수 있도록 해 논란이 일고 있다. 이들보다 앞서 복귀한 인턴은 “정부가 원칙 없이 계속 예외를 허용해 일찍 복귀한 인턴만 바보가 되고 있다”고 반발했다. &lt;br&gt;&lt;br&gt;26일 본지 취재를 종합하면 보건복지부는 조만간 이 같은 방안을 최종 확정해 발표할 예정이다. 앞서 전공의 교육을 총괄하는 대한의학회가 지난 23일 회의를 열어 이 같은 방침을 정했고, 정부가 이를 수용해 발표하는 것이다. 대한전공의협의회 비상대책위원회는 이미 관련 내용을 내부 공지로 띄운 상태다.&lt;br&gt;&lt;br&gt;전공의는 1년 인턴 과정을 거친 뒤 특정 과를 정해 레지던트 1년 차에 지원한다. 이 과정에서 어떤 과 의사가 되는지 정해지기 때문에 전공의 입장에선 가장 중요한 갈림길 중 하나다. 지난해 2월 의대 증원 2000명 발표 이후 병원을 떠난 전공의 중 일부는 올 3·6월에 복귀했고, 대부분은 9월에 복귀했다. &lt;br&gt;&lt;br&gt;3월 복귀 인턴은 내년 상반기 레지던트 지원에 아무 문제가 없다. 6월 복귀 인턴도 정부가 인턴 수련 기간을 12개월에서 9개월로 이미 줄여줬기 때문에 내년 상반기 지원이 가능하다. 문제는 9월 복귀 인턴이다. 이들은 수련 기간이 부족하기 때문에 내년 상반기가 아니라 내년 하반기에나 지원할 수 있다. 그러나 인기 과는 상반기에 정원이 조기 마감되는 경우가 많아, 이에 대한 불만이 커지자 9월 복귀자에게도 상반기 지원을 열어준 것이다. &lt;br&gt;&lt;br&gt;내년 2월에 시행되는 전문의 시험에서도 또 예외를 허용하기로 했다. 전문의 시험은 매년 2월 한 차례 이뤄지는데, 9월 레지던트 복귀자는 수련 기간 부족으로 내후년(2027년) 2월에야 시험을 칠 수 있다. 이들에게도 예외를 인정해 내년 2월에 시험을 칠 수 있도록 해주겠다는 것이다. &lt;br&gt;&lt;br&gt;복지부 관계자는 “원칙을 고수하면 필수과 레지던트 지원이 더 적어지고, 전문의 배출도 줄어들어 어쩔 수 없는 측면이 있다”며 “이들은 레지던트 지원·전문의 시험 뒤에도 부족한 수련 시간을 계속 채우게 될 것”이라고 했다. &lt;br&gt;&lt;br&gt;이에 먼저 복귀한 전공의들은 “특혜이자 역차별”이라며 강하게 반발하고 있다. 3월에 복귀한 한 인턴은 본지에 “수련 공백을 최소화하기 위해 먼저 복귀해 병원 정상화에 기여했는데, 정부가 공정한 조정자 역할을 못 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;의사들만 볼 수 있는 온라인 커뮤니티에는 일찍 복귀한 전공의들을 조롱하는 글도 올라오고 있다. 한 전공의는 “친구, 동료 다 버리고 (먼저) 들어갔지만, 결국 선지원 허용해주고 평판 바닥, 평생 낙수과(필수의료과를 비하하는 표현)행이네”라고, 또 다른 전공의는 “복귀 인턴들아 3,6감귤(3월, 6월 복귀 인턴을 비하하는 표현)‘은 내가 (인턴 평가에서) 최하점 줄 거야”라고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대검, ‘이종호 술자리’ 김건희 특검 파견 검사 감찰 착수</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/26/XIDACG4RPVGNRLE3GSHI3VXNUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/26/XIDACG4RPVGNRLE3GSHI3VXNUU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Oct 2025 08:34:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65LQJY3G3ZDKLCWIGAW4JYVGPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윗 줄 왼쪽이 이종호 전 블랙펄인베스트 대표, 아랫 줄 가운데가 한문혁 부장검사. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 김건희 여사의 주가조작 공범인 이종호 전 블랙펄인베스트 대표와 과거 술자리를 가진 의혹이 제기된 한문혁 부장검사에 대한 감찰에 착수했다. 김건희 특검에 파견 근무 중이던 한 부장검사는 27일 자로 검찰에 복귀한다.&lt;br&gt;&lt;br&gt;대검은 26일 언론 공지를 통해 “한 부장검사에 대해 김건희 특검으로부터 최근 (이종호 술자리) 관련 내용을 제공받아 곧바로 감찰에 착수했다”고 밝혔다. 이어 “구체적인 사실관계에 대해서는 추가 확인이 필요하지만, 현재 보직인 서울중앙지검 반부패3부장으로 복귀하는 것이 적절하지 않아, 법무부와 협의해 27일 자로 수원고검 직무대리로 발령했다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 한 부장검사가 서울중앙지검 소속이던 2021년 이 전 대표와 술자리에서 함께 찍은 사진을 제보받고 지난 23일 검찰에 파견 해제 요청을 했다. 당시 도이치모터스 주가 조작 사건을 수사하던 한 부장검사가 이 전 대표와 사적으로 만난 것, 특검에서 이 전 대표 수사를 계속하는 것이 부적절하다고 판단한 것이다.&lt;br&gt;&lt;br&gt;이 전 대표는 도이치모터스 주가 조작 사건으로 유죄가 인정돼 지난 4월 징역 2년에 집행유예 3년이 확정됐다. 최근 별도의 변호사법 위반 혐의로 김건희 특검에 의해 구속 기소됐다.&lt;br&gt;&lt;br&gt;이날 언론에 공개된 술자리 사진엔 한 부장검사와 이 전 대표를 포함해 총 5명의 모습이 담겼다. 한 부장검사가 가운데 앉아 있고, 바로 뒤로 이 전 대표가 서서 엄지손가락을 치켜세운 채 웃고 있다. 이날 동석자는 의사 최모씨와 정치권 인사, 연예인 지망생 등 최소 5명인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이에 대해 한 부장검사는 “2021년 7월 지인과의 식사 자리에 (이 전 대표가) 우연하게 합석해 함께 식사를 하게 됐다”며 “당시 이 전 대표는 피의자가 아니었고, 명함이나 연락처도 교환하지 않아 도이치모터스 관련자라는 사실을 몰랐다”고 해명했다. 이후 개인적으로 이 전 대표와 만난 적도 없다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 김대기 전 대통령비서실장 27일 참고인 소환 </title>
+      <link>https://www.chosun.com/national/court_law/2025/10/26/UAMAGAIQUND2BKJBQ74ASNN7UM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/26/UAMAGAIQUND2BKJBQ74ASNN7UM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 26 Oct 2025 08:46:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NB2QZ5OHUZPUXECHTAQ34FXDHI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 정부의 김대기 전 대통령 비서실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 27일 윤석열 정부의 김대기 전 대통령 비서실장을 참고인으로 불러 조사한다. 김 전 실장이 해병 특검 조사를 받는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;특검은 김 전 실장을 이종섭 전 국방장관의 주(駐)호주 대사 임명 및 도피성 출국 의혹과 관련한 참고인으로 소환 조사할 예정이라고 26일 밝혔다. 김 전 실장은 지난 2023년 12월 윤석열 전 대통령이 이 전 장관을 호주 대사로 내정할 당시 비서실장으로 대통령을 보좌했다.&lt;br&gt;&lt;br&gt;이 전 장관은 지난 2023년 9월 고(故) 채수근 상병 사망 사건 수사 외압 의혹으로 고위공직자범죄수사처에 고발된 상황에서 호주 대사로 내정됐다. 이듬해 3월 호주 대사로 정식 임명돼 출국했는데, 이 과정에서 공수처에 의해 출국 금지된 사실이 뒤늦게 알려져 논란이 됐다.&lt;br&gt;&lt;br&gt;특검은 김 전 실장을 상대로 이 전 장관의 대사 내정 경위, 윤 전 대통령의 지시 내용 등을 조사할 전망이다. 윤 전 대통령은 공수처 수사를 방해하기 위해 범인 도피, 직권남용을 저지른 혐의를 받는다.&lt;br&gt;&lt;br&gt;한편 특검은 같은 날 채 상병 수사 외압 의혹을 수사했던 공수처의 이재승 차장과 박석일 전 부장검사를 직무유기 혐의 피의자로 소환해 조사한다. 특검은 이들이 채 상병 사건을 수사했던 송창진 전 공수처 부장검사가 국회에서 위증해 고발됐는데도 대검찰청에 넘기지 않고, 수사를 지연시킨 정황을 포착해 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 또 임성근 전 해병대 1사단장도 같은 날 불러 조사할 계획이다. 지난 24일 구속된 후 첫 조사다. 임 전 사단장은 2023년 7월 ‘수중 수색’ 등 무리한 지시를 내려 채 상병을 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>스텐트 심고 달렸다...“춘마로 심장 에너지 충전”</title>
       <link>https://www.chosun.com/national/2025/10/26/HUYRR3SDJRBXXDRMGDVLPRMWDE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/10/26/HUYRR3SDJRBXXDRMGDVLPRMWDE/</guid>
@@ -970,36 +997,6 @@
       <pubDate>Thu, 23 Oct 2025 13:48:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6HK6S3NNVFIZANQRSC6FAFULI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 하남문화예술회관 대극장에서 열린 ‘댄스 퍼포먼스 콘서트’에서 이현재 하남시장이  ‘커버 댄스’ 부문 대상을 차지한 올레기(미국)에게 상을 수여한 뒤 함께 기념촬영을 하고 있다. /하남시
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 글로벌 K-POP 댄스 챌린지 in Hanam’이 사흘간의 열기를 뒤로하고 23일 막을 내렸다. 전 세계에서 모인 K-POP 댄스 인플루언서 20개 팀이 참여한 이번 축제는 소셜네트워크 팔로워 7000만명 규모의 글로벌 팬덤을 끌어모으며, 하남을 ‘K-컬처 도시’로 각인시켰다.&lt;br&gt;&lt;br&gt;행사는 도시 전역을 하나의 무대로 삼았다. 첫날인 21일 ‘댄스 필름 챌린지’에서는 참가자들이 유니온타워, 미사호수공원, 미사경정공원, 미사문화거리 등 하남의 주요 공간에서 영상을 촬영했다. &lt;br&gt;&lt;br&gt;핑크뮬리로 물든 공원, 도심 풍경이 내려다보이는 전망대, 호수공원의 수면 위 반사광 등이 K-팝의 역동적인 안무와 어우러졌다. 참가자들이 소셜네트워크에 올린 영상은 사흘 만에 조회수 1000만회를 넘어섰고, 해외 팬들은 “하남을 여행 버킷리스트에 추가했다”고 반응했다.&lt;br&gt;&lt;br&gt;루마니아 출신 도라 록시는 “도시가 음악과 사람으로 살아 있었다”며 “하남의 낭만적 풍경이 무대를 완성시켰다”고 말했다.&lt;br&gt;&lt;br&gt;행사 마지막 날인 23일 하남문화예술회관에서 열린 본 공연은 예매 시작과 동시에 매진됐다. 현장 관람이 어려운 팬들을 위해 유튜브와 청소년 시설, 도서관 등에서도 생중계돼 도시 전체가 축제장으로 변했다.&lt;br&gt;&lt;br&gt;무대에는 팔로워 2316만명의 텐 유진(우크라이나), 1836만명의 한나 케이(호주)를 비롯해 20개 팀이 참여했다. 참가자들은 ITZY의 ‘LOCO’, 리사의 ‘Money’, 엔하이픈의 ‘모 아니면 도’ 등 K-팝 대표곡을 각자의 스타일로 재해석했다.&lt;br&gt;&lt;br&gt;이찬재·안경자 부부의 시니어 무대와 어린이 팀 ‘웃는아이’의 공연은 세대를 아우르며 관객의 기립 박수를 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CRSYUVU2EFGZNJVMWNF4US4LXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 '댄스 퍼포먼스 콘서트'가 열린 하남문화예술회관 대극장. '랜덤 댄스 배틀'이 시작되자 참가자들과 관객들이 한데 어우러져 댄스를 추며 축제를 즐기고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시상식에서는 소셜네트워크 조회 수를 기준으로 한 숏폼 챌린지와 현장 심사로 결정되는 커버댄스 두 부문 수상이 이뤄졌다. 미국의 올레기가 두 부문 모두 대상을 차지하며 2관왕의 영예를 안았다. &lt;br&gt;&lt;br&gt;카자흐스탄의 카미, 러시아의 아빌리나, 튀르키예의 외즈게 찰타코을루 등이 뒤를 이었다. 현장을 찾은 시민들은 “세계 정상급 댄서들을 하남에서 직접 본 게 믿기지 않는다”며 “도시가 진짜 ‘축제’로 변했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7OH22PPZZEGPJCV6UMXOCVGLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘2025 글로벌 K-POP 댄스 챌린지 in Hanam’을 성공적으로 마친 전 세계 인플루언서들이 23일 대미를 장식한 피날레 공연 후 이현재 하남시장과 함께 기념촬영을 하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하남시는 이번 행사를 ‘K-스타월드’ 조성사업의 신호탄으로 평가했다. 이현재 시장은 “하남이 전 세계 젊은 세대가 모이는 무대가 됐다”며 “이번 행사를 시작으로 글로벌 공연문화 중심도시로 도약하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화장실 이름이 왜 이리 많아… 모든 상황에 써도 되는 표현은</title>
-      <link>https://www.chosun.com/national/2025/10/14/CXVMVQQ3XJBENEJDJEUFL2ZMSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/14/CXVMVQQ3XJBENEJDJEUFL2ZMSU/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-      <content:encoded>화장실을 일컫는 영어 단어로 restroom, bathroom, toilet, lavatory, washroom, W.C. 등 여럿이 있지요. 차이는 무엇일까요. 어떤 경우에 어느 것을 사용할까요.&lt;br&gt;&lt;br&gt;restroom은 레스토랑, 쇼핑몰, 사무실, 호텔 등 공공장소 화장실을 지칭하는 가장 중립적이고 정중한 표현입니다. 언제 어디서나 사용해도 안전한 용어입니다. “저희 레스토랑의 화장실은 뒷문 옆에 있습니다.” “Our restaurant’s restroom is located next to the back door.”&lt;br&gt;&lt;br&gt;bathroom은 주로 가정이나 호텔 객실 등 개인적 공간의 욕조·샤워 시설·세면대가 함께 있는 화장실을 말할 때 쓰입니다. 친구집에 놀러 가서 “화장실은 어디야?” 는 이렇게 말하지요. “Where is the bathroom?”&lt;br&gt;&lt;br&gt;bathroom은 레스토랑이나 카페 등 공공장소 화장실을 가벼운 표현으로 나타낼 때 쓰이기도 합니다. washroom은 세면대가 있는 화장실을 강조하는 용어로, 주로 캐나다에서 정중한 표현으로 사용됩니다.&lt;br&gt;&lt;br&gt;그런가 하면 toilet은 영국과 영연방 국가들에서 화장실 또는 변기를 의미하며, 미국에선 변기만 뜻하는 용도로 쓰이는 경우가 많습니다.&lt;br&gt;&lt;br&gt;미국에서 “The toilet is clogged.” 라고 하면 “변기가 막혔다”는 말입니다.&lt;br&gt;&lt;br&gt;공식적인 자리에서 화장실을 toilet이라고 언급하는 경우는 드뭅니다. 실용적이기는 하지만 너무 직설적이어서 듣는 이에게 거북한 느낌을 줄 수 있습니다.&lt;br&gt;&lt;br&gt;W.C.는 Water Closet의 약자로, 원래는 변기와 물탱크가 있는 작은 방을 뜻하는 기술적 용어였는데, 점차 화장실을 완곡히 지칭하게 된 구식 표현입니다. 일상 대화에선 잘 쓰이지 않습니다. 주로 표지판이나 문서·지도에 사용되며, 영연방 국가와 유럽 및 아시아 일부에서 통용됩니다.&lt;br&gt;&lt;br&gt;lavatory는 비행기, 열차 등에서 공공 화장실을 뜻하는 용어입니다. W.C.와 유사한 어감을 주는 용어인데 약간 더 공식적인 어감으로 쓰입니다.&lt;br&gt;&lt;br&gt;영국이나 호주 등 영연방 국가들에선 비격식의 친근한 표현으로 loo가 광범위하게 사용됩니다. 어원은 불확실하지만, 장소를 뜻하는 프랑스어 ‘lieu’ 또는 물을 의미하는 ‘l’eau’에서 유래했다는 설이 있습니다.&lt;br&gt;&lt;br&gt;영국에서 “화장실 좀 써도 될까요”는 이렇게 말하지요. “Can I use your loo, please?”&lt;br&gt;&lt;br&gt;loo는 미국이나 캐나다에선 거의 사용하지 않습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NKSWZE22QVHKXEZVNYBW6SATKM.gif?auth=66753337b24900a7dcd4a5f0e35bb3630d06de452dace8966c3f6b35fd122923&amp;smart=true&amp;width=508&amp;height=286" type="image/jpeg" height="286" width="508"/>
-    </item>
-    <item>
-      <title>영어유치원 보낸 우리 아이, ‘큰 일’ 급하다고 말하려면</title>
-      <link>https://www.chosun.com/premium/2025/10/14/7IYOR6CPKVB5DOTY6GSUMZMV5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/premium/2025/10/14/7IYOR6CPKVB5DOTY6GSUMZMV5E/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-      <content:encoded>화장실 언급하는 것도 겸연쩍은데, 소변·대변 입 밖에 내어 운운하는 건 낯 뜨겁습니다. 그래서 “작은일” “큰일”이라고 에둘러 말하지요.&lt;br&gt;&lt;br&gt;영어에서는 작은 일, 큰 일로 나누지 않고 number one, number two로 구분합니다. ‘소변보고 오겠다’는 이렇게 말합니다. “I need to go number one.”&lt;br&gt;&lt;br&gt;그리고 “‘큰 것’ 보러 간다”는 요렇게 말하지요. “I have to go number two.”&lt;br&gt;&lt;br&gt;이처럼 number one, number two로 표현하게 된 기원은 명확하지 않습니다. 한 가지 설은 미국의 유아 교육 과정에서 어린이들이 손가락으로 의사 표현을 하던 데서 유래했다는 것입니다. 소변은 한 손가락, 대변은 두 손가락을 들어 표시하던 관행이 언어 표현으로 이어졌다는 설입니다.&lt;br&gt;&lt;br&gt;또 다른 설로는 변기의 물을 내릴 때 소변용은 1번 단추, 대변용은 2번 단추를 누르도록 돼 있는 것에서 유래했다는 의견도 있습니다. &lt;br&gt;&lt;br&gt;number two에서 two가 대변을 뜻하는 poo와 발음이 비슷해서 그리 정해졌다는 설도 있습니다.&lt;br&gt;&lt;br&gt;어린아이들에게 또는 가족·친구 등 친근한 사이에선 ‘큰 것’은 poo(poop), ‘작은 것’은 pee라고 하기도 합니다. &lt;br&gt;&lt;br&gt;“오줌 마려워” = “I need to pee.”&lt;br&gt;&lt;br&gt;“똥을 싸야 해.” = “I need to poo.” &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/O3DOY4EIO5HRTMMVDBQKKOYSEI.gif?auth=a2e2d861e4ee350162474706dc3fa5bc41b62e3e4ebaf408ae59b0feaf391234&amp;smart=true&amp;width=508&amp;height=286" type="image/jpeg" height="286" width="508"/>
-    </item>
-    <item>
-      <title>우리 교양인들은 “화장실 간다”고 말하지 않습니다</title>
-      <link>https://www.chosun.com/national/2025/10/14/USJSLKJUOVAZ7GT2HVHTN3TSYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/10/14/USJSLKJUOVAZ7GT2HVHTN3TSYI/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 14 Oct 2025 12:00:00 +0000</pubDate>
-      <content:encoded>아무리 친한 사이라도 “화장실 다녀오겠다”고 하려면 왠지 무안하지요. 그래서 저는 “화장 좀 고치고 오겠다”고 말하곤 합니다. 상대방은 남자가 화장 고치고 오겠다고 하니까 잠시 어안이 벙벙해진 표정을 짓다가 이내 무슨 뜻인지 알아듣고는 웃습니다.&lt;br&gt;&lt;br&gt;영어로도 직설적으로는 “I want(need) to go to the restroom(bathroom)”이라고 합니다. go to 대신 use를 쓰는 경우가 더 많은데요, ‘화장실’이라는 단어를 ‘편의시설’로 바꿔 “I need to use the facilities”라고 돌려 말하기도 합니다.&lt;br&gt;&lt;br&gt;조금 더 에두르는 표현으로는 “I need to take a break”가 있습니다. “잠시 휴식 취하고 오겠다”는 말인데, ‘break’를 좀 더 부연해서 ‘comfort break’ 또는 생체적 휴식이라는 뜻에서 ‘bio(biological) break’로 표현하기도 합니다. “I need a comfort break.” “I need to take a bio break.” &lt;br&gt;&lt;br&gt;“화장을 고치고 오겠다”와 비슷한 표현으로는 주로 여성들이 사용하는 “I need to visit the powder room”이 있습니다. powder room은 예로부터 여성들이 화장을 하거나 고치는 공간으로 마련된 작은 방을 일컬었습니다.&lt;br&gt;&lt;br&gt;남녀 모두 사용할 수 있는 표현으로는 “I need to freshen up”이 있습니다. freshen up은 ‘새롭게 하다’라는 뜻으로, 말하자면 몸차림이나 옷매무새를 다시 다듬기 위해 화장실에 다녀와야겠다는 정중한 변입니다.&lt;br&gt;&lt;br&gt;화장실이라는 말을 아예 빼고 생리 현상 해결하러 가야 한다는 은유적 표현도 있습니다. “자연이 나를 부른다” “자연이 나를 부르고 있다”입니다. “Nature calls me” “Nature is calling me”라며 화장실 가면서 음유 시인인 양 읊는 말입니다. me를 빼고 말하기도 합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/NT2XSK2TLBB4TECZRZHSECP6HY.gif?auth=9c5808753906d3c7cfd258cb3d2e19fd7b8091284482132828d3ca33840079a5&amp;smart=true&amp;width=508&amp;height=286" type="image/jpeg" height="286" width="508"/>
     </item>
   </channel>
 </rss>
