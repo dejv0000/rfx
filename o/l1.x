@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>특검, 한덕수 전 총리 혐의에 '내란중요임무' 추가</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212577.jpg" alt="246.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;내란 우두머리 방조 혐의를 받는 한덕수 전 국무총리가 10월 20일 서초구 서울중앙지방법원에서 열린 내란 우두머리 방조 및 위증 등 혐의 사건 재판에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 한덕수 전 국무총리 혐의에 내란중요임무종사를 추가했다. &lt;br /&gt;&lt;br /&gt;특검은 24일 서울중앙지방법원 형사33부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9645"&gt;이진관&amp;nbsp;&lt;/span&gt;부장판사)에 공소장변경허가신청서를 제출했다. 이에 따라 한 전 총리의 내란우두머리방조 혐의에 내란중요임무종사 혐의가 선택적으로 추가됐다. 앞서 재판부는 10월 20일 한 전 총리의 3차 공판(&lt;b&gt;2025고합1219&lt;/b&gt;)에서 특검에 공소장 변경을 주문했다. &lt;br /&gt;&lt;br /&gt;특검이 한 전 총리에게 내란우두머리 방조 혐의를 적용한 이유는 최저 법정형이 비교적 높기 때문이었다. 내란우두머리는 사형 또는 무기징역·금고에 처하기 때문에 형사소송법상 그 방조범은 징역 10년 이상 50년 이하 선고가 가능하다. 반면 내란중요임무종사는 사형, 무기 또는 5년 이상 징역·금고에 처할 수 있다.&lt;br /&gt;&lt;br /&gt;한 전 총리에 대한 4차 공판은 27일 열린다.</description>
+			<pubDate>Sun, 26 Oct 2025 08:05:43 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212577</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212577</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212577.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>김건희 특검, 수사팀 재편...새 특검보에 판사 출신 박노수·김경호 변호사</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212576.jpg" alt="435.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;박노수·김경호 변호사&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사 관련 의혹을 수사 중인 민중기 특별검사팀에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="945"&gt;박노수&lt;/span&gt;(사법연수원 31기) 변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3682"&gt;김경호&lt;/span&gt;(22기) 변호사가 신임 특별검사보로 임명됐다.&lt;br /&gt;&lt;br /&gt;김건희 특검은 26일 오후 언론 공지를 통해 “&lt;span style="font-weight: bold;" class="lawmanlink" serial="945"&gt;박노수&amp;nbsp;&lt;/span&gt;변호사와&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3682"&gt;김경호&amp;nbsp;&lt;/span&gt;변호사를 특별검사보로 임명했다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;박 특검보와 김 특검보는 모두 판사 출신이다. 김 특검보는 2013년 서울가정법원 부장판사를 끝으로 법원을 떠나 변호사로 개업했으며, 현재 법무법인 혜윰 대표 변호사로 있다. 박 특검보는 2021년까지 서울중앙지법 부장판사로 근무한 뒤 법무법인 동인에 합류했다.&lt;br /&gt;&lt;br /&gt;특검은 또&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11625"&gt;김일권&lt;/span&gt;(34기) 부장검사와 평검사 1명을 검찰로부터 새로 파견받을 예정이라고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 부장검사는 수원지검 안산지청 형사4부장, 의정부지검 형사1부장, 울산지검 형사2부장을 거쳐 현재 제주지검 인권보호관으로 근무 중이다.&lt;br /&gt;&lt;br /&gt;특검은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14451"&gt;한문혁&lt;/span&gt;(36기) 부장검사에 대해 “수사를 계속하기 어렵다고 판단할 만한 사실관계가 확인됐다”며 검찰 복귀를 결정했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16117"&gt;김효진&lt;/span&gt;(38기) 부부장검사는 검찰 인사 사유로 지난 23일 파견 해제를 요청해 27일 검찰로 복귀할 예정이다.</description>
 			<pubDate>Sun, 26 Oct 2025 05:24:25 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212542</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212542.jpg</media:thumbnail>
 			<dc:creator>송주희 기자</dc:creator>
-		</item>
-		<item>
-			<title>법제처장 "재판소원은 3심제 부정 아닌 예외적 구제수단"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212546.jpg" alt="363738.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조원철 법제처장이 10월 24일 서울 여의도 국회 법제사법위원회에서 열린 법제처에 대한 국정감사에서 위원 질의에 답하고 있다.  《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5919"&gt;조원철&amp;nbsp;&lt;/span&gt;법제처장(사법연수원 18기)은 더불어민주당이 추진 중인 이른바 '재판소원' 제도에 대해 "도입이 필요하다고 생각한다"며 "이는 3심제를 부정하는 제도가 아니라 예외적인 구제 절차"라고 밝혔다.&lt;br /&gt;&lt;br /&gt;조 처장은 10월 24일 국회 법제사법위원회 법제처 국정감사에서 재판소원 도입 법안을 발의한 김기표 민주당 의원의 질의에 이같이 답했다.&lt;br /&gt;&lt;br /&gt;조 처장은 "재판소원이 3심제를 부정하고 4심제를 도입하는 것처럼 얘기하는 분들이 계시지만 (저는) 반대 견해를 갖고 있다"며 "국민 기본권 침해 문제가 생길 수가 있는 부분을 헌법재판소에서 바로잡고자 하는 어떻게 보면 예외적인 심판 절차"라고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "(대한민국) 헌법재판소 도입을 한 게 독일 헌법재판소가 많이 참고 됐는데, 독일에서는 재판에 대한 헌법소원이 인정되고 있다"며 "우리나라에서 재판에 대한 헌법소원이 도입되지 않은 것은 사실 대법원과 헌법재판소의 위상 경쟁 문제 때문이 아닌가 생각한다"고 말했다.&lt;br /&gt;&lt;br /&gt;한편 조 처장은 이날 개헌을 통해 대통령 4년 연임제가 도입되더라도 현직인 이재명 대통령은 헌법상 적용 대상이 아니라고 밝히면서도 "결국 국민이 결단할 문제"라고 밝혔다. &lt;br /&gt;&lt;br /&gt;곽규택 국민의힘 의원이 '정부가 4년 연임제 개헌안을 내더라도 이 대통령은 연임할 수 없는 것 아닌가'라고 묻자, 조 처장은 "헌법에 의하면 그렇다"고 답했다.&lt;br /&gt;&lt;br /&gt;이에 곽 의원은 '여권 인사들이 연임 적용 여부에 대해 애매모호하게 말하고 있다'며 법제처의 명확한 입장을 요구하자, 조 처장은 "입장을 밝히는 것이 적절한 것인지 모르겠다"면서도 "위원님께서 말씀하신 그 점에 대해서는 결국 국민이 결단해야 할 문제가 아닌가 싶다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;곽 의원은 이에 "그런 말씀 자체가 애매한 것"이라면서 "헌법 규정상 (미적용이) 명백하다"고 말했다.&lt;br /&gt;&lt;br /&gt;질의가 끝난 뒤 민주당 소속 추미애 법사위원장은 조 처장을 향해 "애매하게 해석의 여지를 남겨 새로운 논란을 제공할 필요는 없다"며 "야당 위원님들이 이리저리 의도를 잡기 위해서 묻는 질문에 대해선 소신껏 분명하고 간결하게 답변하면 되겠다"고 당부했다.&lt;br /&gt;&lt;br /&gt;또 "'국민 의사에 달려 있다' 이렇게 하시지 말라"며 "현행 헌법에 대해서 누구도 의문을 제기한 바가 없기에 그것을 굳이 검토할 필요도 없다, 이것이 맞지 않겠느냐"고 말했다.</description>
-			<pubDate>Fri, 24 Oct 2025 07:26:51 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212546</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212546</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212546.jpg</media:thumbnail>
-			<dc:creator>김지현 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
