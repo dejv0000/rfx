@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[결정] 'n번방 방지법'은 합헌</title>
+			<description>일정 규모 이상의 인터넷 사업자에게 불법 촬영물 등의 유통을 막기 위한 기술적·관리적 조치를 의무화한 이른바 ‘n번방 방지’ 조항은 헌법에 어긋나지 않는다는 헌법재판소의 첫 판단이 나왔다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;헌재는 10월 23일, 인터넷 사업자 및 이용자 A 씨 등이 제기한 전기통신사업법상 사전 조치 의무 조항(제22조의5 제2항 및 시행령 제30조의6 제1항·제2항)에 대한 헌법소원 사건에서 재판관 전원일치 의견으로 합헌 결정했다(&lt;b&gt;2021헌마290, 1521 &lt;/b&gt;병합).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요]&lt;/b&gt;&lt;br /&gt;2020년 6월 개정된 전기통신사업법 제22조의5 제2항은 대통령령으로 정하는 일정 규모(시행령상 매출액 10억 원 이상 또는 일평균 이용자 10만 명 이상)의 부가 통신 사업자에게 불법 촬영물 등의 유통을 방지하기 위한 기술적·관리적 조치를 하도록 규정하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;시행령은 구체적인 조치로 △상시 신고 기능 △검색 결과 제한 △필터링을 통한 게재 제한 △사전 고지 등을 명시했다. 청구인들은 이 조항들이 이용자가 정보를 게재하거나 검색할 때 제한을 가하고 사업자가 이용자의 통신 내용을 파악할 여지를 준다며 표현의 자유와 통신의 자유를 침해한다고 2021년 헌법소원을 청구했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[헌법재판소 판단]&lt;/b&gt;&lt;br /&gt;헌재는 심판 대상인 사전 조치 의무 조항이 “청구인들의 표현의 자유와 통신의 자유를 침해하지 않는다”고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 “사전 조치 의무 조항은 불법 촬영물 등의 유포로 인한 피해자의 인격권, 사생활의 비밀과 자유의 훼손을 방지하고, 건전한 성 인식을 확립하며, 성범죄 발생을 억제하고자 하는 것으로 입법 목적이 정당하다”고 밝혔다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;이어 “기술적·관리적 조치 없이 사후적인 조치만으로는 불법 촬영물 등의 유통을 방지하고자 하는 목적을 달성하기에 충분하다고 보기 어렵다”며 “대상 사업자의 범위를 (매출액, 이용자 수 기준으로) 한정하고, 조치 내용을 신고, 식별 및 검색 제한, 게재 제한, 사전 경고 등으로 규정한 것은 침해 최소성에 어긋나지 않는다”고 판단했다. 그러면서 “불법 촬영물 등 유포로 인한 폐해가 크고, 이용자의 불이익(표현의 자유 제한)이 더 크다고 할 수 없으므로 법익 균형성도 충족된다”고 밝혔다.&lt;/p&gt;</description>
+			<pubDate>Mon, 27 Oct 2025 03:05:59 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212537</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212537</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title> [단독] 경찰, 국립전통예고 채용·입시 비리 사건 압수수색 나서</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212583.jpg" alt="1234.jpg" style="width: 320px; height: 215px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진 출처=국립전통예술고등학교 홈페이지》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;국립전통예술고등학교(국립전통예고)의 교사 채용 및 입시 비리 의혹을 수사 중인 경찰이 강제 수사에 착수했다.&lt;br /&gt;&lt;br /&gt;법률신문 취재에 따르면 서울경찰청 반부패수사대는 10월 27일 오전부터 국립전통예고에 대한 압수수색을 진행 중이다.&lt;br /&gt;&lt;br /&gt;경찰은 최근 이 학교에서 실시된 정교사 채용 실기시험과 신입생 입학시험을 중심으로 부정 청탁이 있었는지 여부를 집중적으로 수사하고 있다. &lt;br /&gt;&lt;br /&gt;특히 국악계 인사이자 학교 전 동문회장이 교사 채용 실기시험 심사위원으로 참여해, 다른 심사위원들에게 졸업생인 특정 지원자의 점수를 높게 주도록 종용한 것으로 의심하고 있다. 또한 교사 일부가 신입생 선발 과정에서 외부로부터 청탁받아 합격자와 불합격자를 사전에 조율했다는 혐의도 들여다보고 있다. &lt;br /&gt;&lt;br /&gt;서울경찰청 반부패수사대는 지난 8월 금천경찰서로부터 사건을 이관받아 수사를 이어오고 있다.&lt;br /&gt;</description>
+			<pubDate>Mon, 27 Oct 2025 02:31:25 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212583</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212583</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212583.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>내란 특검, 황교안 전 총리 압수수색…'내란 선전선동' 의혹</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212586.jpg" alt="4564.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;황교안 전 국무총리 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4841"&gt;황교안&lt;/span&gt;(사법연수원 13기) 전 국무총리에 대한  압수수색에 나섰다.&lt;br /&gt;&lt;br /&gt;특검팀은 27일 오전 황 전 총리 주거지에 대한 압수수색영장을 집행 중이다.&lt;br /&gt;&lt;br /&gt;이번 압수수색은 시민단체가 황 전 총리를 내란 선전선동 혐의로 고발한 사건과 관련해 이뤄진 것이다.&lt;br /&gt;&lt;br /&gt;앞서 시민단체 촛불승리전환행동(촛불행동)은 지난 3월 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;&amp;nbsp;전 대통령 탄핵심판 선고를 앞두고 내란 세력들의 헌법재판소 협박과 폭동 사주, 선동이 심각한 수준으로 치닫고 있다"며 황 전 총리를 내란 선전 혐의로 경찰에 고발했다. 특검은 경찰로부터 해당 사건을 이첩받았다.</description>
+			<pubDate>Mon, 27 Oct 2025 02:27:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212586</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212586</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212586.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 10월 27일</title>
 			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 국회의장 주재 기관장 업무보고(국회접견실/비공개)&lt;br /&gt;&lt;br /&gt;14:00 2025 국제청년포럼 IFWY 개막식(한양대학교 백남학술정보관 국제회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇국정감사&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 법제사법위원회 국정감사(본관 406호)&lt;br /&gt;&lt;br /&gt;10:00 정무위원회 국정감사(본관 604호)&lt;br /&gt;&lt;br /&gt;10:00 기획재정위원회 국정감사(본관 430호)&lt;br /&gt;&lt;br /&gt;10:00 행정안전위원회 국정감사(충청남도청)&lt;br /&gt;&lt;br /&gt;10:00 행정안전위원회 국정감사(대구시청)&lt;br /&gt;&lt;br /&gt;10:00 문화체육관광위원회 국정감사(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 국정감사(본관 501호)&lt;br /&gt;&lt;br /&gt;10:00 기후에너지환경노동위원회 국정감사(본관 622호)&lt;br /&gt;&lt;br /&gt;10:00 국토교통위원회 국정감사(인천국제공항공사)&lt;br /&gt;&lt;br /&gt;충청남도청감사 종료 후 행정안전위원회 국정감사(충청남도경찰청)&lt;br /&gt;&lt;br /&gt;대구시청감사 종료 후 행정안전위원회 국정감사(대구경찰청)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;11:00 김용태 의원실 등, (수도권 균형발전을 위한)GTX-G 도입 방안 국회토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 한병도 의원실 등, AI×푸드 테크 융합 및 발전방안(의원회관 제1소회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 김영호 의원, [연구윤리 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 윤동준 공보기획관, [10월 5주차 국회 정례브리핑]&lt;br /&gt;&lt;br /&gt;13:40 박주민 의원, [정책 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;14:20 윤상현 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Sun, 26 Oct 2025 22:36:22 -0000</pubDate>
@@ -207,36 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/212571</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212571</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212571.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>포항지청·포항범방, 다문화가정과 '행복영화관'</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212569.jpg" alt="5647.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;10월 22일 경북 포항시 남구 상도동 메가박스 포항점에서 열린 '행복영화관' 행사 참석자들이 단체사진을 촬영하고 있다. 《사진=포항범방 제공》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대구지검 포항지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13256"&gt;최나영&lt;/span&gt;)과 범죄예방위원 포항지역협의회 동행나눔위원회(위원장 박승민, 이하 나눔위)가 10월 22일 경북 포항시 남구 상도동 메가박스 포항점에서 다문화가족 150여 명과 함께 가족 영화 '달려라 하니'를 관람했다.&lt;br /&gt;&lt;br /&gt;이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13256"&gt;최나영&lt;/span&gt;(사법연수원 35기) 대구지검 포항지청장,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16233"&gt;이주용&lt;/span&gt;(38기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="17262"&gt;유시동&lt;/span&gt;(39기) 부장검사,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="40867"&gt;송민정&lt;/span&gt;(변호사시험 11회) 검사, 이호종 사무과장 등이 참석했다. 포항범방에서는 나주영 회장과 이복우 수석부회장, 박승민 나눔위원장과 김윤수 나눔위 부회장 등이 참여했다. 포항시가족센터 관계자들도 함께했다.&lt;br /&gt;&lt;br /&gt;최 지청장은 "우리는 서로 다른 배경과 문화를 가졌지만, 오늘 영화 주인공 달려라 하니처럼 기분 좋게 씩씩하게 함께 살아가길 바란다"며 "모두가 안전하고 따뜻하게 살아갈 수 있는 사회를 만들기 위해 앞으로도 최선을 다하겠다"고 말했다.</description>
-			<pubDate>Fri, 24 Oct 2025 13:03:10 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212569</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212569</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212569.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>법무법인 호민, 김성곤 전 부장판사 대표변호사로 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212567.jpg" alt="555.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김성곤 법무법인 호민 대표변호사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무법인 호민(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4362"&gt;강영호&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="8176"&gt;이진규&lt;/span&gt;)은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3115"&gt;김성곤&lt;/span&gt;(사법연수원 19기) 전 서울중앙지법 부장판사를 대표변호사로 영입했다.&lt;br /&gt;&lt;br /&gt;김 변호사는 전주고와 중앙대를 졸업하고 제29회 사법시험에 합격했다.&lt;br /&gt;&lt;br /&gt;전주지법 판사로 공직 첫 발을 내디딘 뒤, 서울지법 북부지원 판사, 서울가정법원 판사, 서울고법 판사, 서울중앙지법 판사, 의정부지법 부장판사, 서울남부지법 부장판사, 서울서부지법 부장판사, 서울동부지법 부장판사 등을 지냈다. 2025년 7월 서울중앙지법 부장판사를 끝으로 정년퇴직하고 변호사로 개업했다.</description>
-			<pubDate>Fri, 24 Oct 2025 13:01:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212567</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212567</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212567.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국 법무부-홍콩 법무부 공동 법률세미나 개최</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212566.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;10월 24일 서울 강남구 삼성동 코엑스 컨퍼런스룸에서 열린 '제2회 한국·홍콩 법무부 공동 법률세미나' 참석자들이 단체사진을 촬영하고 있다. 《사진=법무부》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부(장관&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&lt;/span&gt;)와 홍콩 법무부(장관 폴 람)가 한국무역협회(회장 윤진식), 대한변호사협회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="32148"&gt;김정욱&lt;/span&gt;), 한국사내변호사회(회장 이재환), 대한상사중재원(회장 신현윤), 홍콩국제중재센터(사무총장 조앤 라우)와 '제2회 한국·홍콩 법무부 공동 법률세미나'를 개최했다. &lt;br /&gt;&lt;br /&gt;10월 24일 서울 강남구 삼성동 코엑스 컨퍼런스룸에서 열린 이번 세미나는 한국과 홍콩 간의 법률 교류 및 협력을 강화하고, 양국 기업이 겪을 수 있는 법률문제 및 분쟁 해결 절차를 논의하기 위해 마련됐다.&lt;br /&gt;&lt;br /&gt;총 2개의 세션 중 첫 번째 세션에서는 '한국-홍콩 간 비즈니스 교류 등 기회 탐색'을 주제로, 아시아 금융허브로서 홍콩 시장의 중요성과 한국-홍콩 간 투자 확대 방안을 논의했다.&lt;br /&gt;&lt;br /&gt;두 번째 세션인 '홍콩 진출기업을 위한 분쟁 해결 가이드'에서는 국제중재 및 대체적 분쟁해결(ADR, Alternative Dispute Resolution) 제도를 소개하고 제도 활용방안 및 분쟁 예방방안을 다뤘다. &lt;br /&gt;&lt;br /&gt;정홍식 법무부 국제법무국장은 환영사에서 "한국과 홍콩은 아시아 법률서비스의 중심지로서 상호 협력이 필요하다"며 "법무부는 앞으로 우리 기업의 안정적인 해외 진출을 위해 지원하겠다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;폴 람(Paul Lam) 홍콩 법무부 장관은 개회사에서 "이번 세미나가 상호 간 협력 관계를 강화하는 계기가 되기를 바라며, 홍콩도 아시아 내 법률시장 발전과 기업활동 지원을 위해 힘쓰겠다"고 말헀다.</description>
-			<pubDate>Fri, 24 Oct 2025 12:59:22 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212566</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212566</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212566.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
