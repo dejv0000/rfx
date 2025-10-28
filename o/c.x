@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>외국인 마약 반입 1위 국가는, 중국</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/10/28/JZ3226DS6ZFCLP2VENVCKGB6SE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/10/28/JZ3226DS6ZFCLP2VENVCKGB6SE/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Oct 2025 05:05:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GMJ2ENKTNA73I42RDEH3URYRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 16일 오전 인천 중구 인천공항세관 특송물류센터 집중검사장에서 관세청 직원들이 마약의심 물품을 검사하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공편을 이용한 외국인 여행객의 국내 마약 반입이 급증하고 있는 것으로 나타났다. &lt;br&gt;&lt;br&gt;28일 국회 국토교통위원회 소속 김은혜 국민의힘 의원이 인천국제공항공사, 관세청으로부터 받은 자료에 따르면 올해 9월 기준 적발된 마약 사범은 303명으로 이들이 반입한 마약은 16만8356g, 184억원 어치에 달했다. 지난해 한 해 동안 102명이 8만212g(78억원)를 반입한 것과 비교하면, 2배 넘게 증가한 것이다.&lt;br&gt;&lt;br&gt;국가별로 보면 중국인이 가장 많은 마약을 반입한 것으로 나타났다. 2022년에 중국인 마약 적발은 9명에 그쳤지만 올해는 9월까지 97명이 적발됐다. 반입량도 2022년 5626g에서 올해는 3만9207g으로 늘었다. 중국에 이어 미국(2만9387g), 독일(1만5386g), 스페인(1만5300g), 말레이시아(1만3382g) 순으로 마약 반입이 많았다.&lt;br&gt;&lt;br&gt;현재 국내에서 해외로 출국할 때는 공항공사의 자체 보안 검색으로 마약 적발이 가능하지만 해외에서 국내로 입국할 땐 휴대 수하물이나 신체에 대한 전수조사 절차가 없다. 이 때문에 마약을 손쉽게 들여오고 있다는 지적이 나온다. 김은혜 의원은 “중국인 마약사범 등은 제3국을 경유하며 휴대수하물 혹은 몸에 지니는 방법을 사용해 국내에 입국하고 있다”며 “공항 입국 시스템 개선을 검토해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘값싼 옥두어’를 옥돔으로 속여 판매한 제주 식당 주인</title>
+      <link>https://www.chosun.com/national/regional/2025/10/28/XZPJTJCS7JHNZFFFVEY4A7GAMU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/28/XZPJTJCS7JHNZFFFVEY4A7GAMU/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Oct 2025 04:02:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIPQI6JNPNHYRL4O64PXK6HJ6Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옥두어를 옥돔으로 속인 제주시 한 유명음식점 업주가 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 제주지법 형사2단독(배구민 부장)은 식품위생법 위반 혐의로 기소된 음식점 대표 40대 A씨에게 징역 6개월에 집행유예 1년을 선고했다. A씨의 운영 법인에 대해서는 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 11월부터 지난해 9월까지 제주시 소재 식당을 운영하면서 옥두어를 ‘제주산 옥돔’으로 둔갑시켜 판매한 혐의를 받는다. A씨는 옥두어 4000만원어치를 구매한 뒤 1마리당 3만6000원짜리 옥돔구이로 속여 2500개를 팔아 약 9000만원을 벌어들인 것으로 조사됐다. 당시 식당에 설치된 메뉴판에는 옥두어를 사용하면서도 ‘옥돔’구이로 표시돼 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인이 금고형 이상 처벌 전력이 없는 점과 뒤늦게 잘못을 인정하고 반성하는 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;옥돔과 옥두어는 ‘농어목 옥돔과’의 어류로, 외형적 특징이 다르다. 하지만 굽거나 국거리 재료로 사용하면 외형적 주요 특징이 사라져 구분하기 어렵다. 가격은 옥돔이 옥두어보다 4배 가까이 비싸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, ‘양평 공흥지구’ 양평군 국장 첫 참고인 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/28/PYLO6UKG4VBUZOYSVNKWWO3LYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/28/PYLO6UKG4VBUZOYSVNKWWO3LYU/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Oct 2025 03:42:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAJCLMGVJWLEQNIUFZX3UIMGXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'양평 공흥지구 개발 특혜' 의혹을 수사 중인 김건희 특검이 28일 오전 10시부터 양평군청 소속 국장을 소환조사하고 있다. 사진은 경기도 양평군청 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 양평군청 국장급 직원을 28일 소환했다.&lt;br&gt;&lt;br&gt;28일 법조계에 따르면 특검은 이날 오전 10시부터 양평군 안모 도시건설국장을 참고인 신분으로 불러 조사하고 있다. 안 국장은 앞서 공흥지구 개발 과정에서 허위공문서를 작성한 혐의로 기소된 바 있다. 작년 8월 1심에서 그는 무죄를 선고받았지만, 항소심 절차는 특검 출범 이후 중단됐다.&lt;br&gt;&lt;br&gt;공흥지구 개발 의혹은 김 여사 가족 기업인 이에스아이앤디(ESI&amp;amp;D)가 2011~2016년 양평군 공흥리 일대 개발 사업을 하면서 양평군으로부터 개발 부담금을 면제받는 등 특혜를 받았다는 내용이다. 당시 검찰은 안 국장 등이 ESI&amp;amp;D가 2014년 11월까지 마무리했어야 할 사업을 끝내지 못하고 시한을 1년 8개월 넘겼는데도, 관련 문서를 허위로 꾸며 사업 시한을 임의로 연장해줬다고 봤다.&lt;br&gt;&lt;br&gt;안 국장은 특검이 수사 중인 양평고속도로 종점 변경 의혹에도 관여한 인물로 알려졌다. 2022년 7월 양평군청이 강상면 종점안을 비롯한 양평고속도로의 3개 노선안에 대한 검토 의견을 국토부로 보냈는데, 안 국장은 군청 내부 의사결정 과정에 관여한 것으로 전해졌다. 다만 이날 종점 변경 의혹도 함께 조사하는지 여부는 알려지지 않았다.&lt;br&gt;&lt;br&gt;한편 이와 관련해 특검은 다음 달 4일 김 여사 모친인 최은순씨와 오빠 김진우씨를 소환 조사한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한라산 서식 ‘외래종 꽃사슴’ 포획되나</title>
+      <link>https://www.chosun.com/national/regional/2025/10/28/KBYL2HCG4JEHJKMRJYWDLWPAYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/28/KBYL2HCG4JEHJKMRJYWDLWPAYM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 28 Oct 2025 04:18:06 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NGFW4GMIREMBIO7BY6G2X4UG4.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 한라산에 서식하면서 생태계를 위협하고 있는 외래종 꽃사슴을 퇴치할 근거가 마련된다.&lt;br&gt;&lt;br&gt;제주도는 꽃사슴을 유해야생동물로 새로 지정하는 내용 등을 담은 ‘제주도 야생생물 보호 및 관리 조례 일부개정 조례안’을 올해안으로 도의회에 제출할 예정이라고 28일 밝혔다.&lt;br&gt;&lt;br&gt;이는 기후에너지환경부가 올 연말부터 꽃사슴을 유해야생동물로 지정하는 내용의 ‘야생생물 보호 및 관리에 관한 법률’ 시행규칙을 신설하는 것을 반영한 것이다.&lt;br&gt;&lt;br&gt;제주도 세계유산본부의 지난해 3월 보고서에 따르면 꽃사슴 등 사슴류는 겨울철 국립공원 인근 마방목지에서 190여 마리 서식이 확인됐고 그 외 중산간 목장 지역을 중심으로 10∼20여 마리씩 집단서식해 약 200∼250마리가 파악됐다.&lt;br&gt;&lt;br&gt;보고서는 사슴류가 노루에 비해 2∼5배가량 몸이 크고. 뿔도 훨씬 크기 때문에 노루에 위협이 되며 오소리나 족제비, 도롱뇽 등 고유한 생태계에도 영향을 줄 것이라고 평가했다.&lt;br&gt;&lt;br&gt;조례 개정되면 포획 등 꽃사슴 개체수를 조절할 수 있는 방안이 추진될 것으로 예상된다.&lt;br&gt;&lt;br&gt;제주도는 또 ‘야생생물 보호 및 관리에 관한 법률’에 따른 유해야생동물 먹이 주기 행위 금지에 관한 위임사항을 근거로 집비둘기를 유해야생동물로 지정하고 먹이를 주는 행위를 금지하는 방안도 이번 조례 개정안에 포함했다.&lt;br&gt;&lt;br&gt;이에 따라 집비둘기에게 먹이를 주면 100만원 이하의 과태료를 부과할 수 있다.&lt;br&gt;&lt;br&gt;제주도 관계자는 “최근 주택가 등에서 일부 주민이 야생동물에게 먹이를 주면서 위생 문제, 문화유산·건물 훼손, 감염병 발생이 우려되고 있다”고 했다. 이에 따라 도시공원, 광장, 공공·문화체육시설, 시장, 문화유산 보호구역, 민원 발생 지역 등을 유해야생동물 먹이 주기 금지구역으로 지정·고시할 예정이다.&lt;br&gt;&lt;br&gt;강애숙 제주도 기후환경국장은 “유해야생동물 먹이 주기 행위 금지와 유해야생동물 신규 지정은 인간과 야생동물이 공존하는 건강한 서식환경을 조성하고, 생태계 균형을 유지하기 위한 조치”라며 “연내 조례 개정을 완료해 현장 중심의 야생동물 관리체계를 강화하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/V2DSXA4HRZATRKWNAPDNIMOU24.JPG?auth=79287c35a895a0904cb360591d10888130d7b95d8efbe4ec5a17de2d77643142&amp;smart=true&amp;width=560&amp;height=315" type="image/jpeg" height="315" width="560">
+        <media:description type="plain">제주에서 서식하는 꽃사슴(제주도 제공. 재판매 및 DB금지)/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>93억원 사기 범죄 저지른 캄보디아 원정 조직원 45명 구속 송치</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/10/28/ZTSSAKL5NJANTCAIGGZDELHKT4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/10/28/ZTSSAKL5NJANTCAIGGZDELHKT4/</guid>
@@ -858,15 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DRSS53GQES754MQGH5BPTQFE7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이배용 전 국가교육위원회 위원장. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 ‘매관매직’ 의혹을 받는 이배용 전 국가교육위원장의 전 근무지인 한지살리기재단을 27일 압수 수색했다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면 특검은 오전부터 서울 중구에 있는 한지살리기재단 사무실에 수사관 등을 보내 문서 자료 및 PC 파일 등을 확보 중이다.&lt;br&gt;&lt;br&gt;특검은 2022년 9월 이 전 위원장이 국가교육위원장으로 임명되기 전 한지살리기재단 이사장으로 재직하며 재단 측이 윤석열 전 대통령 부부에게 전통 공예품을 전달하는 데 관여했다고 의심하고 있다. 특검은 이 전 위원장의 매관매직 의혹을 수사하는 과정에서 이러한 정황을 포착한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이 전 위원장은 2022년 3월 윤 전 대통령 당선 직후 5돈짜리 금거북이 등을 김 여사 측에 건네고 인사를 청탁했다는 의혹을 받고 있다. 이 전 위원장은 금품을 건넨 후 그해 9월 처음 출범한 국가교육위원회 초대 위원장에 임명됐는데, 특검은 이 과정에서 김 여사가 영향력을 행사했을 가능성을 들여다보고 있다. 금거북이 등은 지난 7월 특검이 김 여사 일가가 운영하는 요양병원과 자택 등을 압수 수색하던 중 발견됐다. &lt;br&gt;&lt;br&gt;특검은 지난 13일과 20일 이 전 위원장을 참고인 신분으로 소환했으나 이 전 위원장 측은 건강상 이유로 불출석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>강대희 아시아원격의료학회 초대 회장</title>
-      <link>https://www.chosun.com/national/people/2025/10/27/PABFXREAXFFHVOQXR2EAR5PFDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/27/PABFXREAXFFHVOQXR2EAR5PFDE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Oct 2025 05:01:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X6GFRZWLCZA53H6CXICSIHA7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강대희 아시아원격의료학회 초대 회장. /한국원격의료학회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아 각국의 원격의료 전문가들이 참여하는 ‘아시아 원격의료학회(ATS·Asian Telemedicine Society)’가 공식 출범했다. ATS는 지난 24일 서울 종로구 서울대 의대 의학도서관 우봉홀에서 창립 기념 컨퍼런스를 열고 초대 학회장으로 강대희 서울대 의대 예방의학교실 교수를 선임했다. &lt;br&gt;&lt;br&gt;ATS는 한국을 비롯해 일본·베트남·인도네시아·대만 등 아시아 10여국 원격의료 및 디지털헬스 전문가들이 참여하는 학술단체다. 향후 서울을 중심으로 한 원격의료 협력 네트워크를 구축해 정기 학술교류, 공동 연구, 정책 협력, 의료데이터 표준화 등의 사업을 펼칠 예정이다. &lt;br&gt;&lt;br&gt;강대희 회장은 “한국은 임상 중심의 빠른 기술 적용과 제도적 실증을 통해 원격의료의 현실적 가능성을 보여줬고 이제는 아시아가 함께 표준을 만들어갈 시점”이라며 “각국의 경험과 데이터를 공유하며 함께 발전하는 디지털 헬스 협력체로 성장할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이진숙 前방통위원장 3차 조사... “경찰, 권력의 도구로 사용”</title>
       <link>https://www.chosun.com/national/national_general/2025/10/27/KLHUMAHXJJBCLDO7VUFMDFJ5G4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/27/KLHUMAHXJJBCLDO7VUFMDFJ5G4/</guid>
@@ -892,15 +923,6 @@
       <description/>
       <pubDate>Mon, 27 Oct 2025 04:27:08 +0000</pubDate>
       <content:encoded>앞으로는 서울 시내버스 36개 노선에서 교통카드를 찍지 않고도 승·하차를 할 수 있게 된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYKULWVPHRKNJOMYBSZSESHLSM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 9월 11일 오후 서울 중구 서울역 버스종합환승센터에서 한 시민이 시내버스를 이용하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;티머니는 지난 25일부터 서울 시내버스에서 ‘태그리스’ 시범 서비스를 시작했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;태그리스는 교통카드를 단말기에 찍지 않고 스마트폰만으로 요금을 자동 결제할 수 있는 시스템이다. 블루투스 기술을 활용해 스마트폰이 주머니나 가방 안에 있어도 자동 인식한다. 2023년 서울 경전철 우이신설선을 시작으로 인천 도시철도 1·2호선 등에서 운영 중이다.&lt;br&gt;&lt;br&gt;이번에 태그리스가 도입되는 서울 시내버스 노선은 111번, 501번, 1132번 등 36개다. 안드로이드 스마트폰에 ‘모바일티머니’ 앱을 설치하고 ‘태그리스 결제 사용하기’ 항목을 활성화하면 이용할 수 있다.&lt;br&gt;&lt;br&gt;티머니는 시내버스 태그리스 결제 도입을 위해 이중 결제나 무임 승차 등 시민 불편 상황을 테스트해 왔다. 시범 서비스 기간 동안 기술을 개선해 안정적인 서비스를 제공한다는 방침이다.&lt;br&gt;&lt;br&gt;김태극 티머니 대표는 “서울 시민들이 더 편리하게 시내버스를 이용할 수 있도록 불편을 최소화하기 위해 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아이 두고 떠난 ‘코피노’ 아빠 얼굴 공개...“평양 산다” 속이기도</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/27/A64SMUHFBBE7DHWUTG2XLJXHJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/27/A64SMUHFBBE7DHWUTG2XLJXHJI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Oct 2025 02:42:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFBIKEECSBFEPNZXSAYEXMDBAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'양육비 해결하는 사람들'의 구본창씨가 공개한 코피노 아동./엑스(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 남성과 필리핀 현지 여성 사이에서 태어난 이른바 ‘코피노(Kopino)’ 아동들의 얼굴과 이들의 친부로 지목된 한국인 남성들의 얼굴 사진이 온라인에 공개됐다.&lt;br&gt;&lt;br&gt;양육비를 내지 않는 부모의 신상을 공개해 온 ‘양육비 해결하는 사람들(양해들·구 배드파더스)’의 구본창(62)씨는 최근 자신의 엑스(옛 트위터)에 코피노 아동과 한국인 아버지의 얼굴 사진을 잇따라 올렸다. &lt;br&gt;&lt;br&gt;구씨는 한국인 남성 A씨, B씨, C씨의 얼굴 사진을 공개하며 이들의 사례를 소개했다. 이에 따르면 이 남성들은 각각 2010년, 2014년, 2018년에 필리핀 현지 여성과 사이에서 자녀를 뒀지만 이후 한국으로 돌아간 뒤 연락이 닿지 않고 있다고 한다. 이 가운데 2018년생 A씨의 딸은 “병원비가 없어 아픈데도 제대로 치료를 받지 못하고 있는 상황”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMENHUOYDZBYBLGETM4LRELHHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'양육비 해결하는 사람들'의 구본창씨가  필리핀 여성에게서 받은 도움 요청 메시지를 공개했다./엑스(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구씨는 사진을 공개한 이유에 대해 “수년간 연락마저 차단한 아빠를 찾으려면 아빠의 여권 번호 혹은 한국 휴대전화 번호가 있어야 한다. 그런데 동거 시 의도적으로 그것들을 감춘 아빠들이 많기에 소셜미디어(SNS)에 사진을 올려 찾는 것이 최후의 방법”이라고 말했다. 그는 필리핀 현지 어머니가 보낸 메시지도 함께 공개했다. 메시지에는 한 한국인 남성이 자신의 주소를 “평양”이라고 적은 내용이 담겼다. &lt;br&gt;&lt;br&gt;구씨는 “아이 아빠를 찾으려고 사진을 올렸더니 명예훼손으로 고소한다고 한다”며 “변호사에게 물으니 ‘사실 적시 명예훼손’은 전적으로 판사의 주관에 좌우되니 유죄가 될 수도 있다고 한다”고 했다. 그러면서 “진퇴양난이라 고민했으나 명예훼손이 되더라도 물러나지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;구씨는 필리핀에서 ‘코피노 엄마’들의 양육비 청구 소송을 지원해온 인물이다. 2018년부터는 ‘배드 파더스’라는 인터넷 사이트를 통해 양육비 지급을 하지 않는 부모의 신상 정보를 공개해 왔다.&lt;br&gt;&lt;br&gt;이 활동으로 구씨는 정보통신망법상 명예훼손 혐의로 기소됐고, 지난해 1월 대법원은 벌금 100만원의 선고를 유예한 원심 판결을 확정했다. 당시 재판부는 “구씨가 양육비 미지급 문제라는 공적 사안에 대한 여론 형성에 기여한 면이 있다”면서도 “사적 제재의 하나로 피해자의 권리를 침해하는 정도가 크다”고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>가을에 찾아온 한파...내일은 더 춥다</title>
@@ -930,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUQ4VLTUVWOUUD7IX3W2HXG62U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 내란·외환 의혹을 수사하는 조은석 내란특검팀이 27일 황교안 전 국무총리에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 특검팀은 이날 오전 황 전 총리 주거지에 대한 압수수색 영장을 집행 중이다.&lt;br&gt;&lt;br&gt;이번 압수수색은 시민단체가 황 전 총리를 내란 선전선동 혐의로 경찰에 고발해 특검으로 이첩된 사건과 관련해 이뤄진 것으로 파악됐다.&lt;br&gt;&lt;br&gt;앞서 시민단체 촛불승리전환행동(촛불행동)은 지난 3월 “윤석열 전 대통령 탄핵심판 선고를 앞두고 내란 세력들의 헌법재판소 협박과 폭동 사주, 선동이 심각한 수준으로 치닫고 있다”며 황 전 총리를 내란 선전 혐의로 경찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대법 “현대차, 남양연구소 주행시험 협력사 근로자 직접 고용해야” </title>
-      <link>https://www.chosun.com/national/court_law/2025/10/27/BUN2IA75VFDQDMXW6ND6GFERTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/27/BUN2IA75VFDQDMXW6ND6GFERTE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 27 Oct 2025 01:08:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTHCXXWEUBJ6ROMUNSTETBPDRY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현대자동차가 자사 남양연구소에서 시제차 내구 주행시험을 담당하는 협력업체 근로자들을 직접 고용해야 한다는 대법원 판단이 나왔다. 대법원 2부(주심 엄상필 대법관)는 현대차 협력업체 3곳의 직원 A씨 등 16명이 현대차를 상대로 낸 근로자 지위 확인 소송 상고심에서 원고 일부 승소 판결한 원심을 지난달 확정했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 현대차 남양연구소에서 트럭·버스 등 상용차 시제차량의 내구성을 평가하기 위해 정해진 주행로를 일정 조건에 따라 운행해보는 내구 주행시험 업무를 맡았다. 현대차가 시험 운행 차량을 정하고 발주하면, 협럭업체 소속 팀장이 주행할 근로자와 일일 주행거리 등을 정하는 방식으로 업무가 이뤄졌다. 근로자들이 주행시험 일지를 제출하면, 팀장은 이를 매일 현대차에 보고했다. &lt;br&gt;&lt;br&gt;A씨 등은 2003~2015년 각 협력업체에 입사했고, 현대차 도급 업체가 바뀌는 경우 고용 승계되면서 계속 같은 업무를 담당해왔다. 2017년 이들은 현대차가 파견법을 위반해 불법 파견을 했다고 주장하면서 소송을 냈다. 파견법상 제조업 생산 공정에는 파견 근로자를 사용할 수 없도록 돼 있다. 현대차 측은 협력업체가 자체적으로 인력을 선발·배치하고 관리했기 때문에 파견에 해당하지 않는다고 맞섰다. &lt;br&gt;&lt;br&gt;1, 2심은 A씨 등이 현대차로부터 사실상 지휘·명령을 받아 업무를 했다고 판단했다. 1심은 “협력업체가 근로자의 수나 일일 작업량·시간 등을 조절할 재량이 거의 없었다”며 “근로자 선발 권한을 갖고 있긴 했지만, 기존 협력업체 고용을 대부분 그대로 승계했던 점을 비춰보면 협력업체의 작업배치권은 큰 의미가 있다고 할 수 없다”고 했다. 또 “상용차 시제차량이나 시험로 등도 현대차 소유이고 협력업체는 독립적인 기업조직이나 설비도 갖추지 않아 독자적인 이윤을 창출할 여지가 없다”고 했다. &lt;br&gt;&lt;br&gt;2심도 현대차가 근로자들에 대해 업무 수행 자체에 관한 상당한 지휘·명령을 했다고 보인다며 일부 원고들에 대해 “고용의 의사표시를 하라”고 판결했다. 대법원 역시 “원심 판단에 파견법 적용을 받는 근로자 파견 등에 관한 법리를 오해해 판결에 영향을 미친 잘못이 없다”며 현대차 상고를 기각하고 판결을 확정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>시민단체, 조원철 법제처장 고발 “법제처장이 대통령 개인 변호하는 자리인가” </title>
       <link>https://www.chosun.com/national/national_general/2025/10/27/2K5ZMQHFKVE4NEKXGV2GRJIW3Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/27/2K5ZMQHFKVE4NEKXGV2GRJIW3Y/</guid>
@@ -946,15 +959,6 @@
       <description/>
       <pubDate>Sun, 26 Oct 2025 23:46:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NG5D5OF35LO2K5BGURFPHKJNAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조원철 법제처장이 지난 24일 서울 여의도 국회에서 열린 법제사법위원회의 법제처에 대한 국정감사에서 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시민단체가 국회 국정감사에 출석해 이재명 대통령의 5개 재판, 12개 혐의에 대해 “대통령이 범죄를 저질렀다는 건 전혀 동의하지 않는다”며 “다 무죄”라고 말한 조원철 법제처장을 고발했다. &lt;br&gt;&lt;br&gt;시민단체 서민민생대책위원회(서민위)는 27일 서울경찰청에 조 처장을 직권남용과 명예훼손 혐의로 고발했다고 이날 밝혔다.&lt;br&gt;&lt;br&gt;서민위는 고발장에서 “조 처장이 ‘대장동 사건 같은 경우에는 제가 변호인단을 했기 때문에 잘 안다’라고 하는 등 매우 부적절한 표현을 써 가며 이 대통령 관련사건이 ‘모두 무죄’라고 한 것은 국정감사라는 공적 자리에서 공무원으로서 할 언행이 아니다”라고 밝혔다. 서민위는 “국정감사에서 대통령의 무죄 뿐만 아니라 검찰 수사 비난을 암시한 사실은 사건 결과가 나오지 않은 상태에서 사법부를 상대로 재판 지휘를 하는 직권남용”이라고도 했다.&lt;br&gt;&lt;br&gt;또 서민위는 “조 처장이 ‘대통령 4년 연임제’ 개헌 시 이 대통령 적용에 대해 ‘헌법 제128조 2항 대통령의 임기 연장 또는 중임 변경을 위한 헌법 개정은 그 제안 당시의 대통령에게 효력이 없다’라는 사실을 무시하고 ‘국민이 결단할 문제’라 운운한 점은 헌법 명문 규정을 정권 이해에 맞게 흔든 직권남용에 해당한다”고 주장했다.&lt;br&gt;&lt;br&gt;조 처장은 지난 24일 법제사법위원회의 법제처에 대한 국정감사에서 이 대통령의 5개 재판, 12개 혐의에 대해 “모두 무죄라고 생각한다”고 밝혔다. 판사 출신인 조 처장은 이 대통령과 사법연수원 18기 동기로 이 대통령의 대장동·백현동·위례 개발 비리 의혹 및 성남FC 의혹 사건 재판에서 변호인을 맡았고, 이 대통령이 취임 후 법제처장에 임명됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“이러면 누가 아기 낳나”…‘쌍둥이 출산’ 임라라, 응급실 뺑뺑이 폭로</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/27/JDQAT7L2MRAA5D7JH2TQVAJTSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/27/JDQAT7L2MRAA5D7JH2TQVAJTSQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 26 Oct 2025 22:23:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IEHNNDSLMRG2HEMIZTE7OOJVBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 출신 유튜버 손민수, 임라라 부부./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍둥이 남매를 출산한 개그우먼 임라라가 산후 출혈로 위급한 상황에서 이른바 ‘응급실 뺑뺑이’를 경험했다고 폭로했다.&lt;br&gt;&lt;br&gt;임라라와 남편 손민수는 지난 26일 부부의 유튜브 채널 ‘엔조이커플’을 통해 “많은 분께 걱정을 끼쳐 미안한 마음과 감사의 마음을 글로 표현하기 부족해 인사드린다”며 영상을 올렸다.&lt;br&gt;&lt;br&gt;앞서 임라라는 지난 14일 쌍둥이를 출산한 뒤 9일 만에 갑작스러운 출혈로 응급실을 거쳐 중환자실에 입원했다.&lt;br&gt;&lt;br&gt;손민수는 “라라가 응급실에 실려 간 걸 보고 많이 놀라셨을 것 같다. 지금은 회복 중”이라며 “쌍둥이를 임신하면 자궁이 워낙 많이 늘어나 있어서 수축하다 그럴 수 있다고 한다”고 했다.&lt;br&gt;&lt;br&gt;임라라는 “산후 출혈이었다”며 “제왕절개 수술을 하다 잘못된 건 아니다. 14일에 아기를 낳고 잘 회복했다. 산과 마지막 진료까지 마치고 ‘많이 걸어라’는 이야기까지 들은 날 갑작스러운 하혈로 응급실에 갔다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZLL2SRDA5ZBKZHIKIHTPQRZMYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코미디언 출신 유튜버 손민수, 임라라 부부./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 영상을 찍어 올린 이유에 대해서는 “보는 분들이 ‘그런 상태에서 영상을 찍느냐’며 욕하실 수 있을 것 같다. 겪어 보니 ‘이런 일이 반복되면 안 되겠다’는 생각이 들어서 카메라를 켰다. 진짜 바뀌었으면 좋겠고, 개선됐으면 좋겠다는 생각에 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;이어 임라라는 산후 출혈 당시 긴박했던 당시 상황을 떠올리며 “산후 출혈이 굉장히 심각한 상황에 있는 산모를 받아주는 병원이 없었다”며 “받아주는 응급실이 아예 없어서 결국 출산했던 병원으로 30~40분 걸려 이동했다. 가는 동안 기절만 한 10번 한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “‘산모가 응급차에서 뺑뺑이 돌다가 죽었다’는 뉴스를 보고 안타까워한 기억이 있는데 바뀐 게 없지 않나. 직접 겪으니 말이 안 되더라”며 “요즘 저출산이다 뭐다 말이 많은데, 아기와 산모의 생명이 보장되지 않으면 저출산이 무슨 의미가 있느냐”라고 지적했다.&lt;br&gt;&lt;br&gt;당시 임라라는 수차례 의식을 잃었고, “정신을 차리라”는 구급대원과 손민수의 외침에 겨우 눈을 뜨길 반복했다고 한다.&lt;br&gt;&lt;br&gt;임라라는 “의식을 차릴 수 없는데 차리라고 하는 그 긴 시간이 너무 힘들었다”며 “(집 근처에) 병원이 이렇게 많은데 왜 안 받아주지, 이렇게 하면 누가 아기를 낳겠나 하는 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;끝으로 “구급대원 아니었으면 지금 저는 죽었을 거다. 다른 거 바라는 거 없고 나 같은 상황이 또 안 생겼으면 좋겠다”며 “출산하는 과정이 목숨을 걸고 낳는 거고 굉장히 심각한 상황이 많이 발생할 수 있는데, 그럴 때 조치를 빠르게 받을 수 있는 환경이 됐으면 좋겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;국회는 이날 구급차를 탄 응급 환자가 받아주는 병원을 찾지 못해 이곳저곳을 전전하는 ‘응급실 뺑뺑이’를 개선하기 위한 응급의료법 개정안을 재석 261명 중 찬성 260명, 기권 1명으로 가결했다. 개정안은 응급 환자를 이송하는 구급대원 등이 응급실에 신속하게 연락해 환자 수용 가능 여부를 확인할 수 있도록 ‘핫라인(전용 회선)’을 설치하는 등 내용을 담았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“별 이유도 없이…” 술상 뒤엎어 女동료에 화상 입힌 20대, 징역 3년</title>
