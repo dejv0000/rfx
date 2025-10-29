@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>'와인병 아내 폭행' 우진호 신원종합개발 회장, 항소심도 징역형 집유</title>
+			<description>와인병으로 아내를 폭행한 혐의로 기소된 우진호 신원종합개발 회장이 항소심에서도 1심과 같은 징역 1년에 집행유예 2년을 선고 받았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사5-3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10013"&gt;김지선&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="5470"&gt;소병진&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="9623"&gt;김용중&amp;nbsp;&lt;/span&gt;부장판사)는 10월 29일 상해 등 혐의로 기소된 우 회장에게 징역 1년에 집행유예 2년을 선고한 원심 판단을 유지했다(&lt;b&gt;2025노553&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;재판부는 "사건 내용이 가볍지 않다"면서도 "1심 판단을 존중하는 의미에서 형을 유지하겠다"고 밝혔다. 이어 "우 회장은 앞으로 주의하고, 다른 사건도 잘 마무리하라"고 말했다. &lt;br /&gt;&lt;br /&gt;우 회장은 2025년 2월 1심에서 징역 1년에 집행유예 2년을 선고 받았다. 1심은 "우 회장의 범행 횟수와 정도, 피해자의 피해 상태를 고려하면 죄책이 상당히 무거운 데다 피해자가 공포 속에서 엄벌을 탄원하고 있다"라면서도 "우 회장이 피해자의 부양 의무를 이행하는 점, 3억 원을 공탁해 피해 회복에 일정 부분 노력한 점을 양형에 고려했다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;검찰은 2024년 10월 우 회장을 기소했다. 우 회장은 같은 해 5월 서울 강남구 자택에서 아내의 외도를 의심해 와인병 밑부분으로 머리를 가격, 전치 6주의 상해를 입힌 혐의를 받고 있다.</description>
+			<pubDate>Wed, 29 Oct 2025 08:23:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212661</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212661</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>장진영 여주지원장, '후견제도 이해' 특별강연</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212659.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;장진영 여주지원장이 10월 15일 경기도 여주시 상동 여주시노인복지관에서 후견제도에 관해 강연하고 있다. 《사진=여주지원 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수원지법·수원가정법원 여주지원(지원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10660"&gt;장진영&lt;/span&gt;)은 지난 10월 15일 경기도 여주시 상동 여주시노인복지관 강당에서 지역 어르신들을 대상으로 '후견제도의 이해 강좌'를 개최했다고 29일 밝혔다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;여주지원 관계자는 "이번 행사는 법원이 직접 지역사회와 소통하며 후견제도의 취지와 절차를 알리고, 지역의 후견감독 기능을 강화하기 위한 '국민과의 소통사업' 일환으로 진행됐다"고 전했다.&lt;br /&gt;&amp;nbsp;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212659.jpg" alt="2.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;10월 15일 장진영 지원장의 강의를 듣고 있는 여주시민들. 《사진=여주지원 제공》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이날 강연에는 지역 어르신들과 보호자, 복지기관 관계자 등 100여 명이 참석했다. 1부에서는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10660"&gt;장진영&lt;/span&gt;(사법연수원 33기) 여주지원장이 직접 '후견제도의 이해'를 주제로 강연했고, 2부에서는 이영미 여주지원 가사조사관이 '여주지원의 후견감독 실제 운영사례'를 소개했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;여주지원은 지역의 후견제도 운영과 감독 기능을 강화하기 위해 꾸준히 노력하고 있다고 밝혔다. △ 후견감독업무 전담 재판부 신설 △사건관리 기준·감독보고 체계 △전문가 후견인·심층후견감독위원 양성 △정기적인 간담회·사례회의 개최 △복지기관·지자체 등 지역사회와의 연계 확대 등이다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;여주지원은 "이번 강좌는 지역에서 상대적으로 접근이 어려운 후견 및 감독 절차를 주민 가까이에서 활성화하려는 여주지원의 의지를 보여준 것"이라며 "지역사회와 함께 만들어가는 ‘현장 중심형 후견감독체계’와 '열린 사법행정'의 선례"라고 전했다.&lt;/p&gt;</description>
 			<pubDate>Wed, 29 Oct 2025 02:10:48 -0000</pubDate>
@@ -231,16 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212623</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212623.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>[신간소식] 강희원 경희대 로스쿨 명예교수, '왜 국가를 위해 죽어야 하나' 출간</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212622.jpg" alt="212622.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3983"&gt;강희원&lt;/span&gt;(사법연수원 15기) 경희대 로스쿨 명예교수가 최근 &lt;b&gt;《왜 국가를 위해 죽어야 하나》&lt;/b&gt;(경희대 출판문화원 펴냄)를 출간했다. 저자는 국가와 민족의 이름으로 강요되는 ‘순국(殉國)’ 개념을 비판적으로 고찰하며, 평화를 위해 필요한 것은 전쟁이 아니라 비폭력을 선택할 용기라고 강조한다.&lt;br /&gt;&lt;br /&gt;러시아-우크라이나, 이스라엘-팔레스타인 등 세계 곳곳에서는 군사적 충돌이 벌어지고 있다. 우리나라 역시 반백년 넘게 대치를 이어가고 있다. 책은 이런 현실을 바탕으로, ‘국가를 위해 죽으라’는 명제가 정당한가를 묻는다.&lt;br /&gt;&lt;br /&gt;강 명예교수는 전쟁이 인간의 본성도, 의무도, 운명도 아니라는 의문을 토대로 국가·민족·전쟁·순국 등의 개념이 형성된 과정을 추적한다. 그는 국가가 국민의 생명을 ‘정의’와 ‘애국’의 이름으로 소모시키는 구조를 전하며, 순국을 미화하는 것은 국가폭력을 정당화하는 이데올로기라고 지적한다.&lt;br /&gt;&lt;br /&gt;특히 그는 중세 크리스트교가 ‘조국을 위한 전쟁’을 ‘성스러운 전쟁’으로 승화시키며 순국을 종교적 행위로 변질시킨 역사적 맥락을 짚는다. 또 근대 이후 내셔널리즘이 살육과 파괴를 정당화하는 이데올로기로 기능해 왔다고 분석한다. 전쟁을 옹호한 그로티우스, 클라우제비츠, 헤겔 등 사상가들의 논리를 비판하면서 “좋은 전쟁도, 나쁜 평화도 없다. 전쟁은 최대 최고의 악”이라고 단언한다.&lt;br /&gt;&lt;br /&gt;강 명예교수는 책을 통해 전쟁을 거부하는 용기야말로 진정한 평화의 출발점이라며 “국가를 위해 죽으라 강요하는 것은 살인 교사이자 행위 자체”라고 경고한다. 평화를 위해 필요한 것은 총이 아니라 ‘아니오’라고 말할 수 있는 자유라는 것이다.&lt;br /&gt;&lt;br /&gt;강 명예교수는 안동고와 경희대 법대를 졸업하고 제24회 사법시험에 합격했다. 독일 프라이부르크대에서 법학박사 학위를 취득했다. 변호사로 활동하다 30여 년간 경희대 법대와 로스쿨에서 법철학, 법사회학 등을 가르치며 후학을 양성했다. 현재 법무법인 이현의 고문변호사로 있다. 저서로는 &lt;b&gt;《노동법의 새로운 모색》&lt;/b&gt; 등이 있고, 루만의&lt;b&gt; 《법사회학》 &lt;/b&gt;등을 번역했다.</description>
-			<pubDate>Tue, 28 Oct 2025 13:33:11 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212622</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212622</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212622.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
