@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>와인바에서 장난감 칼과 수갑 휘두른 50대 男 체포...손님들 한밤 대피 소동</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/30/ZLTCJIPVPJEXVDAVQBV4BAENQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/30/ZLTCJIPVPJEXVDAVQBV4BAENQY/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Oct 2025 12:27:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TSNR2344PR35FSNGUFY6K46ETQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;와인바에서 장난감 칼과 수갑을 휘둘르며 다른 손님들을 위협한 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 종로경찰서는 지난 29일 오후 9시 40분쯤 서울 종로구의 한 와인바에서 플라스틱으로 된 수갑과 15cm 길이의 장난감 칼을 휘둘러 손님들을 위협한 혐의(공중협박)로 A씨를 현행범 체포했다고 30일 밝혔다. 현재 이 피의자는 조사 후 석방된 상태다.&lt;br&gt;&lt;br&gt;이로 인해 다친 사람은 없었지만, 손님들이 대피하며 영업이 중단되고 혼란이 빚어졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “모형 칼이 장난감인 사실이 분명해 신병확보는 하지 않았다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>문가비, 훌쩍 큰 아들 공개…정우성 친자 인정 후 첫 근황</title>
+      <link>https://www.chosun.com/national/people/2025/10/30/EKWPLCRJJJFZJIPK5VULT5L2JA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/10/30/EKWPLCRJJJFZJIPK5VULT5L2JA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Oct 2025 10:54:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOLWJWZIFZCCZF26KIOGJDONJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;문가비가 자신의 소셜미디어에 아들과 함께 찍은 사진을 올렸다./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;모델 출신 방송인 문가비가 아들과 함께한 일상을 공개해 눈길을 끌고 있다. &lt;br&gt;&lt;br&gt;30일 문가비는 자신의 인스타그램에 아들과 함께 찍은 사진을 여러 장 올렸다. 공개된 사진에는 문가비가 아들과 커플룩을 맞춰 입고 환한 미소를 짓는 모습, 손을 잡고 함께 걷는 모습, 장난을 치며 웃는 모습 등이 담겼다.&lt;br&gt;&lt;br&gt;문가비는 지난해 11월 인스타그램을 통해 아들 출산 소식을 전했다. 며칠 뒤 문가비 아들의 친부가 배우 정우성이라는 사실이 알려졌다. &lt;br&gt;&lt;br&gt;두 사람의 관계를 둘러싼 논란이 이어지자 문가비는 “2022년 한 모임에서 만난 이래 서로를 더 깊이 알아가며 좋은 만남을 이어왔고, 2023년의 마지막 날까지도 만남은 이어졌다”며 “2024년 1월 어느 날을 마지막으로 지금까지 아이 아버지라는 사람과 단 한 차례도 대면한 적이 없으며, 임신을 이유로 결혼이나 그 밖의 어떤 것도 요구한 적이 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;당시 정우성의 소속사는 “문가비씨가 소셜미디어(SNS)를 통해 공개한 아이는 정우성 배우의 친자가 맞다”며 “아이의 양육 방식에 대해 최선의 방향으로 논의 중에 있으며 아버지로서 아이에게 최선을 다할 것”이라고 했다. &lt;br&gt;&lt;br&gt;정우성도 이후 청룡영화상 시상식 무대에서 “사랑과 기대를 보내주신 모든 분들께 염려와 실망을 드린 점 진심으로 죄송하다. 모든 질책은 제가 받고 안고 가겠다. 아버지로서 아들에 대한 책임은 끝까지 다할 것”이라고 공개 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MRKSZF7IIFDWDPNKWJ2WKJWR54.png?auth=5970e61bb502dce67b5c8c3fa77a33164292a4429cde213704968cf0181f0574&amp;smart=true&amp;width=1795&amp;height=1010" type="image/png" height="1010" width="1795">
+        <media:description type="plain">문가비가 자신의 소셜미디어에 아들과 함께 찍은 사진을 올렸다./인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>尹 “국회 확보는 질서 유지 위한 것” vs 곽종근 “수긍할 수 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/30/MX73TDCR45AE5FCKLB4ONKYN3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/30/MX73TDCR45AE5FCKLB4ONKYN3Y/</guid>
+      <dc:creator>김은경 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Oct 2025 10:25:26 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 4개월 만에 자신의 내란 혐의 재판에 출석해 “국회 확보 작전은 질서 유지를 위한 것”이라는 취지로 주장했다. 곽종근 전 육군특수전사령관은 “김용현 전 국방 장관으로부터 ‘질서 유지’나 ‘시민 보호’ 같은 말을 들어본 적 없다”며 정면으로 반박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILSHUTOE7VNTJAHAYC6Z63CW74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석해 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 30일 윤 전 대통령의 내란 우두머리·직권남용 혐의 재판을 열었다. 경기 의왕 서울구치소에 수감 중인 윤 전 대통령은 이날 흰머리가 늘고 살이 빠져 수척해진 모습으로, 서류 봉투를 들고 법정에 들어왔다. 윤 전 대통령은 지난 7월 특검에 재구속된 후 건강 악화를 이유로 16차례 연속 재판에 불출석했었다.&lt;br&gt;&lt;br&gt;곽 전 사령관은 이날 특전복 차림으로 법정에 출석했다. 그는 “작년 12월 4일 오전 0시 31분쯤 윤 전 대통령으로부터 비화폰 통화로 ‘아직 의결정족수가 채워지지 않은 것 같으니 국회 문을 부수고서라도 들어가서 다 끄집어내라’는 지시를 받았다”고 증언했다. 그는 앞서 국회와 헌법재판소의 윤 전 대통령 탄핵 심판에서도 같은 취지로 진술한 바 있다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 직접 발언권을 얻어 증인 신문에 나섰고, 곽 전 사령관과 설전을 벌였다. 윤 전 대통령은 “김 전 장관이 장병들에게 실탄을 휴대하지 말고, 민간인과 가급적 충돌하지 말라고 지시하지 않았느냐”고 했다. 이어 “이 때문에 국회 현장에서 김현태 707특수임무단장을 비롯해 15~16명 요원이 다 도망 다니는 것을 (영상으로) 보지 않았나”라며 “엄청난 인원이 특전사 요원들에게 달려들어 총을 빼앗으려고 하고 폭행한 것을 지휘통제실에서 보고받지 않았느냐”고 하기도 했다. 무력을 사용해 국회를 점거하려 한 것이 아니라, 질서 유지 차원에서 병력 출동을 지시했다는 얘기다.&lt;br&gt;&lt;br&gt;이에 곽 전 사령관은 “장관에게 실무장 금지 지시를 받은 적 없다”며 “저 스스로 무장을 안 시킨 것”이라고 답했다. 그러자 윤 전 대통령은 “질서 유지를 위해 들어갔다는 게 머릿속에 있었다는 건데 국회 확보도 같은 맥락 아니냐”고 했다. 이에 곽 전 사령관은 “(국회 확보 작전의 목적이) 질서 유지라는 것은 수긍할 수 없다”며 “김 전 장관에게 ‘질서 유지’나 ‘시민 보호’라는 말을 들어본 적 없다”고 했다. 곽 전 사령관은 윤 전 대통령을 향해 “솔직히 제가 (왜 비상계엄을 선포했는지) 되묻고 싶다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ASR6R5AAGHB4IJK74ID5I3O7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곽종근 전 육군 특수전사령관이 지난 2월 6일 서울 종로구 헌법재판소에서 열린 탄핵 심판 6차 변론기일에서 질문에 답하고 있다./헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;피고인석 뒷줄에 앉은 윤 전 대통령은 곽 전 사령관에게 질문할 때 양팔을 크게 써가며 적극적으로 임했다. 발언 시간이 2분 넘게 이어지면서 얼굴이 붉게 달아오르기도 했다. 이에 곽 전 사령관은 증인석 의자를 윤 전 대통령이 있는 방향으로 돌려 앉은 뒤, 윤 전 대통령 얼굴을 응시하면서 답변을 이어갔다. 윤 전 대통령이 곽 전 사령관 말을 끊고 질문하려 하자, 지 부장판사가 “증인 말을 끝까지 들어보자”며 윤 전 대통령을 제지하는 일도 있었다.&lt;br&gt;&lt;br&gt;이날 특검과 윤 전 대통령 측 변호인은 ‘재판 중계’를 놓고도 공방을 벌였다. 개정 특검법이 시행되면서 지난 27일부터 내란 특검이 기소했거나 공소 유지를 하는 사건의 1심 재판 중계가 의무화됐다. 이날 재판도 녹화 중계가 이뤄졌다. 윤 전 대통령 측 변호인은 “재판 중계는 자극적인 가십거리를 제공하는 것 이상의 역할을 하지 못한다”며 해당 조항에 대해 위헌법률심판 제청을 신청했다고 밝혔다. 특검 측은 “본 재판은 역사적 사건으로, 국가 중대사에 대한 국민의 알 권리를 보장하는 차원에서 중계 조항이 들어간 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 윤 전 대통령은 재판 말미에 재판부에 “향후 재판에 출석하겠다”는 뜻을 밝혔다. 윤 전 대통령은 “체력이 닿는 데까지 최대한 (법정에) 나오겠다”며 “도저히 못 나올 상황이라면 말씀을 드리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>평택준법지원센터에서 캡사이신 뿌린 10대… 10여명 경상</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/30/P5FIIKJUSJDYPGN7752IUOL3IY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/10/30/P5FIIKJUSJDYPGN7752IUOL3IY/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Oct 2025 10:42:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MQNVIVAJ4PJI3WXB4MXL7ZKVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 평택경찰서는 30일 평택준법지원센터에서 교육받던 10대 10여 명에게 캡사이신을 뿌린 혐의(특수폭행)로 A(10대)군을 붙잡아 조사하고 있다.&lt;br&gt;&lt;br&gt;A군은 이날 오후 5시쯤 평택시 동삭동 평택준법지원센터 2층 교육장에서 스프레이통에 담긴 캡사이신을 뿌렸다. 고추에 포함돼 매운맛을 내는 캡사이신은 호신용 분사기 등에도 쓰인다.&lt;br&gt;&lt;br&gt;A군이 뿌린 캡사이신으로 인해 교육장에 있던 소년범과 보호관찰소 직원 등 10여 명이 경상을 입고 병원에서 치료를 받았다.&lt;br&gt;&lt;br&gt;범행 직후 달아났던 A군은 이후 보호자와 함께 경찰에 자진 출석한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A군이 다른 학생들과 다툼을 벌이다 범행한 것으로 보이는데 정확한 경위는 파악 중”이라며 “구체적인 경위를 확인한 후 신병 처리 여부를 결정할 방침이다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘강화섬쌀’ 수출시장 넓어진다…캐나다 이어 호주 진출 </title>
       <link>https://www.chosun.com/national/regional/2025/10/30/V4CJE2XAJRGMRH6T2FSOTV2EN4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/30/V4CJE2XAJRGMRH6T2FSOTV2EN4/</guid>
@@ -908,15 +948,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2R7XLH5L2VGIHB2BYF2X5ZR3OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 오후 서울 서초구 대법원 전경. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 법원행정처가 여당이 추진하고 있는 ‘법 왜곡죄’에 대해 “법관을 위축시키고 사법부 독립을 약화시켜 권력이 사법부를 장악하기 위한 수단으로 악용될 수 있다”는 의견을 국회에 밝혔다. 더불어민주당 정청래 대표가 “법 왜곡죄를 신속 처리하라”고 주문하며 입법 드라이브를 걸자, 반대 입장을 분명히 한 것이다. 이재명 대통령 공직선거법 사건 파기환송 판결 이후 이어지는 민주당의 ‘사법부 길들이기’ 시도에 대법원이 정면으로 반발하는 모양새다.&lt;br&gt;&lt;br&gt;29일 본지가 국회 법제사법위원회 송석준 의원실을 통해 입수한 의견서에 따르면, 대법원은 “법 왜곡죄는 법관을 처벌 대상으로 삼아 정치적으로 악용될 여지가 있다”고 했다. 이어 “특히 정치적 이슈가 되는 사안일 경우 법관의 소신 있는 재판에 대해 법 왜곡죄 혐의를 씌울 위험성이 있다”며 “법관의 독립적인 사법권 행사를 저해할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;민주당이 발의한 형법 개정안은 판사나 검사가 특정인에게 유리하거나 불리하게 하려고 사실관계를 조작하거나 법을 왜곡해 적용하면 10년 이하의 징역 등에 처하는 내용이다. 여권에서는 이 대통령 선거법 사건의 재판장이었던 조희대 대법원장, 윤석열 전 대통령에게 구속 취소 결정을 내린 지귀연 서울중앙지법 부장판사 등이 법 왜곡죄 처벌 대상이라고 주장한다.&lt;br&gt;&lt;br&gt;대법원 법원행정처가 국회를 상대로 ‘권력의 사법부 장악’ 위험성을 경고한 것은 이례적이다. 민주당이 ‘사법 개혁’을 명분으로 대법관 증원과 재판소원 도입에 이어 법 왜곡죄까지 추진하자 예상되는 부작용을 강도 높게 비판하며 제동에 나선 것으로 풀이된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLY44UQ6ZWGSQ5RN2LTW7H6DLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 더불어민주당 대표가 29일 서울 여의도 국회에서 열린 최고위원회의에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원은 우선 ‘사법 신뢰 제고’ ‘국민 기본권 보호’라는 입법의 취지에는 공감하면서도 “법 왜곡죄는 역사적으로 신권과 왕권 등을 수호하기 위한 수단으로 활용돼 왔다”고 지적했다. 과거 독재자나 전제 군주들이 자신에게 유리한 법을 제정한 뒤 판사가 이에 따라 재판하도록 통제하기 위해 법 왜곡죄를 도입했었다는 취지다. 실제로 주요 선진국 가운데 법 왜곡죄를 시행하는 나라는 많지 않다.&lt;br&gt;&lt;br&gt;또한 법 왜곡죄를 선의로 도입했던 독일 등 일부 국가들에서도 독재 권력이 집권하면 판사들이 이에 부역해 법을 적극 왜곡하는 행태가 불거졌다는 점도 강조했다. 대법원은 “법 왜곡죄가 존재했던 독일이나 러시아의 경우에도 히틀러나 스탈린의 독재하에 제도가 무력할 뿐이었다”고 했다. 집권 세력이 법 왜곡죄를 악용하면 입법 취지가 퇴색될 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 “헌법은 법관에게 재판상·직무상 독립을 인정해 법 해석과 적용에 폭넓은 재량을 인정하고 있다. 이러한 법관의 재량과 ‘법 왜곡’을 어떻게 구분할 것인지도 어렵다”고 우려했다. 법 왜곡의 개념 자체가 추상적이어서 자의적으로 적용될 위험이 있다는 것이다. 특히 특정인에게 ‘유리하거나 불리하게’ 법을 왜곡한 판사를 처벌한다는 데 대해선 “재판에서의 유불리는 상대적·주관적이라, 한쪽이 유리하면 상대방은 불리할 수밖에 없다. 법의 적용 범위를 제한하기 어려울 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “법 왜곡죄로 법관의 단순한 판단상의 과오나 소수 견해까지도 수사나 형사처벌 대상이 될 소지가 있어 자칫 법관의 직무 수행을 지나치게 위축시킬 것”이라며 “새로운 시대상을 반영한 전향적 판결, 소수자에 대한 인권 보호 등에 걸림돌이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;판사가 사실관계를 조작하거나 판결을 고의로 뒤집는 경우, 굳이 처벌 규정을 신설하지 않더라도 기존의 법관 탄핵 제도 등으로 충분히 제재할 수 있다고도 했다. 대법원은 “판사의 심각한 법 왜곡 행위는 헌법상 법관 탄핵을 통해서도 제재가 가능하다”며 “법관의 공정성에 의심이 있는 경우에도 제척이나 기피, 회피 등 제도적 시정 절차가 마련돼 있다”고 했다.&lt;br&gt;&lt;br&gt;대법원이 법 왜곡죄 법안에 대해 유독 우려하는 것은 민주당이 특정 판결에 대한 보복성으로 입법을 추진하고 있기 때문이다. 민주당은 작년에 법 왜곡죄의 적용 대상을 검사로 제한해 발의했다가, 지난 5월 대법원의 이 대통령 사건 파기환송 판결 이후 판사까지 넓혔다. 김용민 의원 등은 판사를 겨냥한 법 왜곡죄 법안 3건을 앞다퉈 발의했고, 현재 국회 법제사법위원회에서 계류 중이다. 정청래 대표는 최근 조 대법원장의 사퇴를 압박하며 “적용할 법을 잘못 적용해 없는 죄를 있는 죄로, 있는 죄를 없는 죄로 판결한 판사들은 법 왜곡죄로 처벌해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 국민의힘은 이 대통령 한 사람을 위한 위헌적이고 반민주적 입법이라며 강하게 반발하고 있다. 송석준 국민의힘 의원은 “이 대통령에게 유죄 내린 판사를 처벌하고, 관련 사건을 무죄로 만들기 위한 ‘위인설법(爲人設法)’”이라며 “독재 정권에서나 가능한 발상”이라고 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>檢, ‘설탕 가격 담합’ CJ제일제당 임원 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/29/55YU2M4HOFEQVOQO5G2HMJRZKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/29/55YU2M4HOFEQVOQO5G2HMJRZKA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Oct 2025 07:58:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 주요 제당 업체의 설탕 가격 담합 의혹을 수사 중인 검찰이 CJ제일제당 임원의 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;29일 법조계에 따르면 서울중앙지검 공정거래조사부(부장 나희석)는 공정거래법 위반 혐의로 CJ제일제당 본부장 박모씨(58)의 사전구속영장을 청구했다. 구속 전 피의자 심문은 서울중앙지법 남세진 영장전담 부장판사 심리로 오는 30일 열린다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회는 CJ제일제당, 삼양사, 대한제당 등 국내 대표 제당 업체 3곳의 설탕 가격 담합 의혹을 조사했고, 검찰도 지난 9월 해당 업체를 압수 수색했다. 검찰은 국내 설탕 시장의 90% 이상을 과점하는 세 곳의 담합 규모를 조 단위로 추정하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;CJ제일제당 등은 과거에도 담합 행위가 적발돼 행정 제재를 받았다. 1990년 말 설탕의 원료인 원당 수입 자유화를 앞두고 1991년부터 15년간 내수 시장의 설탕 반출량 규모를 정하고 가격 기준을 합의해 과당 경쟁을 막는 방식이었다. 공정위는 2007년 CJ제일제당에 227억원, 삼양사와 대한제당에 각각 180억원과 103억원의 과징금을 부과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>운반 알바생 ‘폭발물’ 의심 신고했더니, 중국인이 몰래 들여온 ‘마약’이었다</title>
       <link>https://www.chosun.com/national/regional/2025/10/29/ISXETFGRJFBSNLOPX3CYF2JSKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/29/ISXETFGRJFBSNLOPX3CYF2JSKA/</guid>
@@ -926,24 +957,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IN3HAWIOAA2EKIHTOPZIZQXMDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;차 봉지로 위장한 마약류./제주경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;필로폰을 제주로 몰래 들여와 국내 유통하려 한 30대 중국인이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;제주경찰청은 마약류관리법 위반 혐의로 30대 중국인 A씨를 붙잡아 조사하고 있다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 24일 제주국제공항을 통해 차(茶) 봉지 등으로 위장한 필로폰 1.2㎏을 여행가방에 넣어 몰래 들여와 국내 유통하려 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 제주에 입국한 뒤 사회관계망(SNS)에 고액 아르바이트 광고글을 올려 서울까지 물건을 옮겨줄 한국인 전달자를 통해 국내 운반책에게 전달하려 했다.&lt;br&gt;&lt;br&gt;하지만 일당 30만원을 받고 A씨로부터 물건을 받은 20대 한국인은 폭발물이 든 것으로 의심해 27일 오후 3시쯤 인근 함덕파출소에 신고하면서 범행이 발각됐다.&lt;br&gt;&lt;br&gt;경찰은 주변 방범카메라(CCTV) 영상 등을 분석해 27일 오후 6시 14분쯤 A씨를 인근 호텔에서 긴급체포됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 23일 태국에서 출발해 싱가포르를 거쳐 이튿날 제주에 입도한 것으로 알려졌다. 이번에 압수된 마약은 필로폰으로 알려진 메스암페타민 1.2㎏이다. 1회 투약분인 0.03ｇ을 기준으로 4만명이 투약할 수 있는 시가 8억4000만원 상당에 달한다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 구속영장 신청해 공범 등 수사를 확대할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>건진 처남 “2022년 건진 심부름으로 아크로비스타 방문… 작년 한남동서 물건 돌려받아"</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/29/UOT5FD63PFC4TGTWLWB3USWBLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/29/UOT5FD63PFC4TGTWLWB3USWBLA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Oct 2025 07:19:40 +0000</pubDate>
-      <content:encoded>김건희 여사에게 통일교가 선물한 그라프 다이아몬드 목걸이와 샤넬 가방 2개를 전달했다고 지목된 ‘건진 법사’ 전성배씨의 처남 김모씨가 “전씨의 지시로 물건을 전달하라고 해서 아크로비스타에 간 적이 있다”고 법정에서 증언했다. 앞서 전씨는 김씨를 시켜 명품 목걸이와 가방을 유경옥 전 대통령실 행정관에게 줬고, 김 여사에게 ‘잘 받았다’는 취지의 전화를 받았다고 증언했다. 전씨 말을 뒷받침하는 법정 증언이 나온 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2D3VIBCNAHJTHBRUZSF5U3WWYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사(왼쪽)와 '건진 법사' 전성배씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 29일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 김 여사의 알선수재 등 혐의 재판에 증인으로 나와 이 같이 말했다. 김씨는 “유 전 행정관을 개인적으로 알지 못한다”면서도 “매형(전성배) 지시로 누구한테 전달하라고 한 적이 있어서 (물건을) 전달한 적은 있다”고 했다. 재판부는 “상대방이 유 전 행정관인 건 알았느냐”고 묻자 김씨는 “그 당시에는 몰랐고, 사건이 벌어진 뒤 알았다”고 말했다.&lt;br&gt;&lt;br&gt;특검은 김씨가 타던 제네시스 GV80 렌트카의 2022년 7월 아크로비스타 입출차 기록을 법정에서 제시했다. 이 차는 2022년 7월 7일과 30일 두 차례에 걸쳐 김 여사 자택이 있는 아크로비스타 주차장에 다녀간 것으로 조사됐는데, 두 날은 윤영호 전 통일교 세계본부장이 전씨에게 각각 1271만원짜리 샤넬 가방과 6220만원짜리 그라프 목걸이를 건넨 직후다. 김씨는 “정확히 기억은 안 난다”면서도 “매형이 시켰다고 한다면 제가 다 전달했을 것”이라고 했다. 그러나 김씨는 “내용물에 대해서는 전혀 알지 못한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MV6ZO7EEWOLSOWT26VOPGV62MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령 부부의 사저가 있는 서울 서초구 아크로비스타 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김씨는 전씨가 정확히 기억하지 못한다던 명품들의 반환 시기도 2024년 하순이라는 취지로 증언했다. 지난해 비상계엄이 선포되기 전 날씨가 쌀쌀할 때, 전씨의 지시를 받아 서울 용산구 한남동 옛 단국대학교 인근으로 갔고, 그 곳에서 물건을 받아와 서울 강남구 역삼동에 있는 전씨의 법당에 뒀다는 것이다. 김씨는 “매형이 가방과 목걸이를 받아오라고 지시한 것은 아니다”면서도 “어떤 여자를 만나 물건을 받았다”고 말했다. 다만 물건을 건네준 상대방이 유 전 행정관이냐는 재판부 질문엔 “잠깐 본 거라 기억이 안 난다”고 했다. 김씨가 증언한 반환 시기는 윤석열 전 대통령 부부가 한남동 관저에 살 때다.&lt;br&gt;&lt;br&gt;한편, 이날 오후 증인신문이 예정됐던 유 전 행정관과 정지원 전 대통령실 행정관은 법정에 출석하지 않았다. 특검 측은 “두 사람이 전씨와 진술을 맞춘 것으로 보이는 정황이 있다”며 증인신문을 해야 한다는 입장이다. 재판부는 내달 14일 오후 두 사람을 다시 불러 증인신문을 진행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 ‘임성근 구명로비 의혹’ 한기붕, 내달 13일 증인신문</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/29/6I2JWRU7CFH2FMSDXIHRGBQNHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/29/6I2JWRU7CFH2FMSDXIHRGBQNHE/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Oct 2025 07:18:54 +0000</pubDate>
-      <content:encoded>임성근 전 해병대1사단장 관련 개신교계 구명로비 의혹에 연루된 한기붕 전 극동방송 사장에 대한 공판 전 증인신문이 다음 달 13일 열린다. 이 의혹을 수사 중인 순직 해병 특검의 수사기한은 다음 달 28일까지인데, 약 보름 앞둔 시점이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZMUFSVQSQAYFUICNNTAT6P5GLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 다음 달 13일 오후 2시 서울중앙지법 형사32단독 우민제 판사 심리로 한 전 사장에 대한 공판 전 증인신문이 열린다. 앞서 순직 해병 특검은 지난 14일 한 전 사장에 대한 공판 전 증인신문을 청구했다.&lt;br&gt;&lt;br&gt;형사소송법 제221조의 2는 ‘범죄 수사에 없어서는 아니 될 사실을 안다고 명백히 인정되는 자가 출석 또는 진술을 거부한 경우에는 검사는 1회 공판기일 전에 한하여 판사에게 증인신문을 청구할 수 있다’고 규정하고 있다. 법원에서 열린 증인신문 서류는 검사에게 송부돼 조서 능력을 가진다.&lt;br&gt;&lt;br&gt;다만 한 전 사장이 증인신문에 출석할지 여부는 불투명하다. 앞서 특검 측은 수 차례 출석 요구를 했지만, 한 전 사장은 불응했다.&lt;br&gt;&lt;br&gt;한편 특검은 한 전 사장 휴대전화에 1만9000여 개 통화녹음 파일이 있지만, 고(故) 채수근 상병 순직사건 이후 지난해 8월까지 불과 13개의 통화녹음만 남아있는 점 등에 대해 증거인멸을 의심하고 있다. 또 한 전 사장은 임 전 사단장과의 문자 메시지를 자동 삭제하도록 설정해 두고, 임 전 사단장 배우자에게 보낸 문자 일부를 삭제한 사실도 특검에 포착됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>출생 14개월, 혼인 17개월 연속 증가... 2차 에코붐 세대 효과 언제까지</title>
       <link>https://www.chosun.com/national/national_general/2025/10/29/7DKFAO2FJJDRNPKGSM7OLLX4VY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/29/7DKFAO2FJJDRNPKGSM7OLLX4VY/</guid>
@@ -951,18 +964,6 @@
       <description/>
       <pubDate>Wed, 29 Oct 2025 03:00:00 +0000</pubDate>
       <content:encoded>지난 8월 출생아가 1년새 4% 가까이 늘어나 14개월 연속 증가했다. 결혼도 10% 넘게 증가해 17개월 연속 증가세를 보였다. 2차 베이비 붐 세대(1964~1974년생)의 자녀인 ‘2차 에코 붐 세대(1991~1995년생)’이 본격적으로 아이를 낳는 30대 초반에 진입한 가운데 정부와 지자체의 각종 혼인, 출산 장려책이 효과를 봤다는 분석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6HOMKGHQONI6HGTQJ7TLS5D3PQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 25일 경기 고양시 CHA의과학대학교 일산차병원 신생아실에서 간호사가 신생아들을 돌보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 국가데이터처가 발표한 ‘8월 인구동향’에 따르면, 지난 8월 출생아는 2만867명으로 전년 동월 대비 3.8% 늘어났다. 작년 7월부터 14개월 연속 출생아가 늘어, 출생아가 18개월 연속 증가한 2010년 3월~2011년 8월 이후 14년 만에 최장 기간 증가세를 이어가고 있다.&lt;br&gt;&lt;br&gt;8월 혼인 건수도 1만9449건으로 전년 대비 11% 늘었다. 지난해 4월 이후 17개월째 늘어, 관련 통계가 집계되기 시작한 1981년 이후 최장 기간 증가세를 이어가고 있다. &lt;br&gt;&lt;br&gt;혼인과 출산 건수가 모두 14개월 연속 불어난 것은 연간 출생아 수가 70만명대로 늘어난 2차 에코붐 세대가 결혼 적령기인 30대 초·중반에 진입한 영향이 컸다. 2차 에코붐 세대는 매년 70만명 넘게 태어났다. 1980년대 후반생(연간 60만명대)이나 2000년대생(연간 40만~60만명대)보다 인구가 많은 세대다. &lt;br&gt;&lt;br&gt;2023년 0.72명까지 떨어졌던 합계 출산율(여성 1명당 낳을 것으로 예상되는 아이 수)이 2차 에코붐 세대 효과로 작년 0.75명으로 반등한 데 이어 올해는 0.8명에 육박할 수 있을 것으로 정부는 보고 있다. &lt;br&gt;&lt;br&gt;다만 2차 에코붐 세대 효과가 걷히면 출생아 수는 다시 내리막길을 걸을 수 있다. ‘에코 붐 세대 엄마·아빠’ 효과는 70만명대 출생아 수가 유지된 1990년대 초반생 남성이 아이를 낳는 나이인 30대 중반이 되는 2030년 전후까지만 이어지기 때문이다. 출생아 수는 1995년생(69만1226명)부터 60만명대로 내려앉고, 2001년생은 50만명대(55만9934명), 2002년생(49만6911명)부터는 40만명대로 줄어든다. 2017년생(35만7771명)부터는 30만명대, 2020년생(27만2337명)부터는 20만명대가 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] ‘배우 한지민 협박’ 30대 여성 불구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/29/6CS3RAID45CJZBZMZTHNBKQFEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/29/6CS3RAID45CJZBZMZTHNBKQFEE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 29 Oct 2025 02:28:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY5Z7MXGXXSPXSPFWKAXEGZR6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 한지민/ 한지민 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 한지민(43)씨를 상대로 악성 게시물을 여러 차례 올린 30대 여성이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;29일 본지 취재를 종합하면 서울중앙지검 형사5부(부장 김지영)는 이모씨를 협박과 모욕 혐의로 지난 20일 불구속 기소했다.&lt;br&gt;&lt;br&gt;이씨는 작년 9~10월 자신의 SNS에 “한지민이 출연하는 영화에 훼방을 놓겠다” “입 닫아라” 등의 글 19건을 게재한 혐의를 받고 있다. 이씨는 해당 글에 한씨와 한씨의 지인도 태그한 것으로 전해졌다. 소속사인 BH엔터테인먼트는 작년 11월 이씨를 경찰에 고소했고, 한씨도 고소인 조사를 받았다. 서울 강남경찰서는 지난 3월 이씨를 기소 의견으로 송치했다.&lt;br&gt;&lt;br&gt;검찰도 한씨와 이씨 등을 추가 조사한 후 7개월 만에 이씨를 재판에 넘겼다.&lt;br&gt;&lt;br&gt;이씨는 작년 8월쯤 한씨와 밴드 잔나비의 보컬 최정훈(33)씨의 열애 소식이 알려진 후 범행을 저지른 것으로 전해졌다. 한씨는 이씨의 범행으로 입은 정신적 피해가 크다는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨의 첫 재판 기일은 아직 정해지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/YGVOGDO6MJDMRK7YYRGVWVOXGA.JPG?auth=67b783a06913bac9a9d609b9f10a0189727f0f930a578bc94b81d4a5a746bfd1&amp;smart=true&amp;width=582&amp;height=437" type="image/jpeg" height="437" width="582">
-        <media:description type="plain">한지민 인스타그램</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
