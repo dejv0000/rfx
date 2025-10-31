@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“IMF 총재에 칭찬 받아”…APEC서 포착된 ‘고등래퍼’ 하선호</title>
+      <link>https://www.chosun.com/national/national_general/2025/10/31/2ESPOXI5MFGELIREPF6QL5Y3FI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/31/2ESPOXI5MFGELIREPF6QL5Y3FI/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 Oct 2025 05:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLMMT25PSBHWVEFMMAHKDSFHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약한 래퍼 출신 하선호./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;래퍼 출신 하선호가 ‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약했다.&lt;br&gt;&lt;br&gt;하선호는 지난 30일 자신의 인스타그램에 APEC 정상회의가 열리는 경주에서 영어 도슨트를 맡아 마이크를 잡고 진행하는 모습이 담긴 사진을 공개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMYQZHA4Q5ETLH7TZHWDUJU6OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 출신 하선호와 크리스탈리나 게오르기에바 IMF 총재./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하선호는 “IMF(국제통화기금) 총재님, 경상북도 도지사님, 경주시장님 앞에서”라는 설명과 함께 ‘한영아나운서’ ‘영어도슨트’ 등의 해시태그를 덧붙였다.&lt;br&gt;&lt;br&gt;또 그는 “IMF 총재님이 일 잘한다고 칭찬해주셨다”며 크리스탈리나 게오르기에바 총재와 나란히 선 모습이 담긴 사진도 공개했다.&lt;br&gt;&lt;br&gt;서울 외국어고 출신인 하선호는 엠넷 힙합 서바이벌 프로그램 ‘쇼 미 더 머니’와 ‘고등래퍼2’ 등을 통해 얼굴을 알렸다. 2019년 싱글 앨범 ‘돌멩이’를 내며 래퍼로 데뷔했지만 이후 방송 활동을 중단했다.&lt;br&gt;&lt;br&gt;올해 초 영어회화 강사가 됐다는 근황을 알린 하선호는 유창한 영어 실력과 국제 행사 경험을 바탕으로 최근 통역사로도 활동 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용역 사업 업체 850만원 상품권 받은 해수부 공무원 ‘집유’</title>
+      <link>https://www.chosun.com/national/regional/2025/10/31/DY4BTCDMYNBTFIAWTIMIKPFYUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/31/DY4BTCDMYNBTFIAWTIMIKPFYUI/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 31 Oct 2025 03:42:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 맡은 용역 사업에 참여한 민간업체 관계자들로부터 금품을 받은 혐의로 기소된 해양수산부 공무원에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사6단독 김지영 부장판사는 뇌물수수 혐의로 기소된 공무원 A씨에게 징역 8개월과 벌금 2000만원을 선고하고, 징역형의 집행을 2년 유예했다고 31일 밝혔다. 또 사회봉사 80시간과 850만원 추징 등을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2020∼2022년 해양수산부 소속 기관이 발주한 용역 사업에 참여한 민간 업체 관계자 4명으로부터 상품권 총 850만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 용역 사업 낙찰자 선정에 실질적으로 관여하는 위치에 있었다고 한다. 업체 관계자들은 ‘사업 과정에서 각종 편의를 봐달라’는 취지로 A씨에게 상품권을 건넨 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 부장판사는 “뇌물수수죄는 공무 집행의 공정성을 해치는 중대 범죄로 죄질이 좋지 않다”며 “다만 피고인이 약 20년간 공무원으로 성실히 근무해온 점, 수뢰 후 부정행위로 나아가지 않은 점, 수뢰액 규모 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘ITS 사업’ 뇌물 수수 의혹... 이민근 안산시장·도의원 등 추가 송치</title>
       <link>https://www.chosun.com/national/national_general/2025/10/31/NPY6JWVD5RFVPLKYCN2NFQYYUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/31/NPY6JWVD5RFVPLKYCN2NFQYYUY/</guid>
@@ -847,15 +865,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAV6PQSUZVRKIXU6IXQCNEWMWQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 걸그룹 뉴진스(왼쪽부터 하니, 민지, 혜인, 해린, 다니엘)가 서울 서초구 서울중앙지법에서 어도어 측이 멤버들을 상대로 제기한 ‘기획사 지위보전 및 광고계약 체결 등 금지’ 가처분 첫 심문기일을 마친 후 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연예기획사 어도어와 걸그룹 뉴진스 간 전속 계약 분쟁에서 법원은 어도어 손을 들어줬다. 뉴진스 측은 즉각 항소하겠다는 입장이다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사41부(재판장 정회일)는 어도어가 뉴진스 멤버 5명을 상대로 제기한 전속 계약 유효 확인 소송에서 “어도어가 전속 계약의 해지 사유로 정한 중요한 의무를 위반했다고 인정하기 어렵다”며 “2022년 4월 21일 체결된 전속 계약이 유효함을 확인한다”고 30일 밝혔다. 소송 비용은 뉴진스가 부담하도록 했다.&lt;br&gt;&lt;br&gt;뉴진스는 지난해 8월 하이브가 산하 레이블(기획사) 어도어의 대표였던 민희진씨를 해임하자 그해 11월 어도어 측에 전속 계약 해지를 통보했다. 어도어가 전속 계약상 의무를 위반해 신뢰 관계가 파탄났다는 이유였다. 이후 멤버들이 팀명을 뉴진스에서 NJZ로 바꾸는 등 독자 활동에 나서자, 어도어는 전속 계약 유효 확인 소송을 냈다.&lt;br&gt;&lt;br&gt;하지만 재판부는 “민희진이 어도어의 대표이사직에서 해임됐다는 사정만으로는 뉴진스 멤버들을 위한 매니지먼트 업무에 공백이 발생했다거나, 어도어가 그 업무를 수행할 계획·능력이 없다고 보기는 어렵다”고 판단했다.&lt;br&gt;&lt;br&gt;재판부는 “어도어가 반드시 민희진에게 뉴진스를 위한 매니지먼트 업무를 맡겨야 한다는 내용이 전속 계약 어디에도 기재돼 있지 않다”며 “뉴진스가 민희진에 대해 개인적으로 높은 신뢰를 가지고 있다는 사정만으로 민희진에게 어도어 대표이사직을 보장하는 것이 전속 계약상 중대한 의무라고 볼 수 없다”고 설명했다.&lt;br&gt;&lt;br&gt;재판부는 또 “어도어는 뉴진스가 협조하고 있지 않은 상태에서도 앨범 발매, 팬 미팅 준비, 월드 투어 계획 수립, 행사·광고 촬영 기회 제공 등을 했던 점을 종합하면 어도어가 뉴진스에게 매니지먼트 서비스의 이행을 기대할 수 없다고 보기는 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이날 뉴진스 측 법률대리인단은 “멤버들은 법원의 판단을 존중하나, 이미 어도어와의 신뢰 관계가 완전히 파탄된 현 상황에서 어도어로 복귀해 정상적인 연예 활동을 이어가는 것은 불가능하다”며 즉각 항소하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;앞서 어도어는 전속 계약 유효 확인 소송 기간 중 멤버들이 연예 활동을 하지 못하도록 해달라는 가처분 신청도 함께 낸 바 있다. 법원은 지난 3월 이를 받아들여 어도어 손을 들어줬다. 뉴진스는 이에 불복해 항고했지만 기각됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>생후 한 달 신생아 트렁크 방치돼 사망...40대 친부, 대법서 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/30/B7NOAKXNFZFIDJQALW32MQ6CMI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/30/B7NOAKXNFZFIDJQALW32MQ6CMI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Oct 2025 02:51:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;생후 한 달도 안 된 신생아를 자동차 트렁크에 방치해 숨지게 하고 풀숲에 시신을 버린 혐의로 기소된 40대 친부에게 무죄가 확정됐다. 대법원 3부(주심 이숙연 대법관)는 이날 살인·시체유기 혐의를 받는 A씨에게 무죄를 선고한 원심 판결을 확정했다. &lt;br&gt;&lt;br&gt;A씨는 내연 관계에 있던 직장동료 B씨가 낳은 자신의 아들을 차량 트렁크에 방치해 숨지게 한 혐의로 기소됐다. 수사에 따르면 B씨는 2023년 12월 29일 병원에서 아기를 낳고 열흘 뒤인 1월 8일 아기를 퇴원시켰다. 퇴원날 A씨가 병원 밖에 차를 세워두고 기다리는 동안 B씨는 아기를 종이가방에 담은 뒤 병원을 나왔다. 이후 트렁크에 종이가방을 두고 차량에 탔고, 아기는 이후 일주일가량 그대로 방치돼 저체온 등으로 숨진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;B씨는 아기가 사망한 뒤 1월 21일 주차된 차량에서 종이가방을 꺼내 경기 화성의 한 해변 수풀에 유기했는데, A씨는 이에 공모했다는 혐의도 받았다. A씨는 재판 과정에서 “친모인 B씨가 퇴원하면서 아기를 바로 입양 보낸 것으로 알고 있었고 살해를 공모한 사실이 없다”고 주장했다.&lt;br&gt;&lt;br&gt;1심은 A씨가 친부로서 입양을 위한 출생신고 절차를 이행하지 않았다는 점을 근거로 “A씨가 명시적으로 살인죄를 모의한 것은 아니라고 해도 사망이라는 결과가 발생할 수 있다는 사실을 인식하고도 이를 용인했다고 봐야 한다”면서 징역 8년을 선고했다. A씨와 B씨 모두 부모로서 각자 보호의무를 이행하지 않아 아기를 사망에 이르게 했기 때문에 “부작위에 의한 살인행위에 순차적·암묵적으로 공모·가담했다고 봐야 한다”고 했다.&lt;br&gt;&lt;br&gt;그러나 항소심은 “검사가 제출한 증거들만으로는 A씨가 친모인 B씨와 공모해 범행했다는 점이 합리적 의심을 할 여지가 없을 정도로 증명됐다고 보기 어렵다”며 무죄로 뒤집었다. 항소심 재판부는 “아기가 병원에서 퇴원할 당시 이미 사망했거나 사망 직전에 이르렀을 가능성을 배제할 수 없다”며 아기가 우는 등 소리를 내지 않았다면, A씨는 차량 트렁크 내 쇼핑백 속에 아기가 있었다는 사실을 인식하지 못했을 수 있다고 판단했다. &lt;br&gt;&lt;br&gt;대법원도 이 같은 원심 판단에 “공모관계나 진술의 신빙성 판단 등에 관한 법리를 오해한 잘못이 없다”며 검찰 상고를 기각했다. 한편, A씨와 따로 재판을 받은 B씨는 지난 1월 대법원에서 징역 6년형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘1050원 초코파이 재판’, 시민위 “선처”…검찰, ‘선고유예’ 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/10/30/3O3UVSYNIBBJ3CAORJZ4KCI4JA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/30/3O3UVSYNIBBJ3CAORJZ4KCI4JA/</guid>
@@ -939,15 +948,6 @@
         <media:description type="plain">원민경 성평등가족부 장관이 29일 오후 KT&amp;G 상상플래닛에서 제1차 성평등 토크콘서트 '소다팝'을 개최하고 성별 인식격차 진단 및 해소 방안에 대해 청년 참가자들과 토론하고 있다. /성평등부</media:description>
         <media:credit role="author" scheme="urn:ebu">CHOI RAGCHUL</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>추경호, 내란 특검 첫 피의자 조사 출석…“무도한 정치 탄압 맞서겠다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/30/VGWUJD5XRFE4ZKBZYX72B4H43Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/30/VGWUJD5XRFE4ZKBZYX72B4H43Y/</guid>
-      <dc:creator>김희래 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 30 Oct 2025 00:56:28 +0000</pubDate>
-      <content:encoded>추경호 국민의힘 전 원내대표가 30일 조은석 내란 특검팀의 첫 피의자 조사에 출석했다. 내란 중요 임무 종사 및 직권남용 등 혐의를 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7PK2V5XL5JZDDI2EDKYFADQCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 추경호 전 원내대표가 30일 서울 서초구 서울고검에 마련된 조은석 내란특별검사팀 사무실에 피의자 신분으로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 53분쯤 서울고검 청사에 모습을 드러낸 추 전 원내대표는 “무도한 정치 탄압에 굴하지 않고 당당히 맞서겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “계엄 당일 총리, 대통령과 통화 후 의원총회 장소를 당사에서 국회로 바꾸고 의원들과 함께 국회로 이동했다”면서 “만약 대통령과 공모하여 표결을 방해하려 했다면 계속 당사에서 머물지 왜 국회로 장소를 바꾸고 국회로 이동했겠나. 오늘 당당하게 특검에 임하겠다”고 말했다.&lt;br&gt;&lt;br&gt;“국회 봉쇄 상황을 목격하고도 의원총회 장소를 변경한 이유가 무엇이냐” “계엄 선포 직후 윤석열 전 대통령과 통화해 무슨 이야기를 나누었나” “당시 원내대표실에 머물면서 표결에 참여하지 않은 이유가 무엇이냐” 등을 묻는 기자의 질문에는 답을 하지 않았다.&lt;br&gt;&lt;br&gt;특검은 추 전 원내대표가 지난해 12·3 비상계엄 선포 당일 윤 전 대통령 측 요청을 받고 국민의힘 의원총회 장소를 여러 차례 바꿔 의원들의 계엄 해제 표결 참여를 방해했다고 보고 있다. 추 전 원내대표가 장소를 바꾸는 바람에 국민의힘 의원 다수가 국회 본회의장에 진입하지 못했고, 결국 계엄 해제 요구 결의안 표결에는 국민의힘 의원 108명 중 18명만 참여하게 됐다는 것이다.&lt;br&gt;&lt;br&gt;추 전 원내대표는 본인을 포함한 국민의힘 의원들 모두 계엄을 사전에 몰랐다는 입장이다. 의원총회 장소를 수차례 바꾼 이유에 대해서는 국회 출입 통제 때문에 불가피했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달 2일 서울 강남구에 있는 추 전 원내대표의 자택과 여의도 국회 의원실, 대구 달성군 지역구 사무실 등을 압수수색했다. 추 전 원내대표에 대한 출국 금지 조치를 내리고, 당직자들과 일부 의원들을 상대로 참고인 조사도 진행했다.&lt;br&gt;&lt;br&gt;특검은 추 전 원내대표 측에 소환 조사를 통보한 뒤 날짜를 조율해 왔는데, 추 전 원내대표가 국정감사 일정 등을 고려해 이날 조사에 응하기로 한 것으로 알려졌다. 조사는 이날 늦은 저녁쯤 끝날 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWFWUHW55NJDLO5KM6ZELWYERM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장동혁 국민의힘 대표가 30일 서울 서초구 조은석 특검사무실이 위치한 서울고등검찰청 인근에서 열린 국민의힘 긴급 현장 의원총회에서 규탄 발언을 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 같은 날 국민의힘은 내란 특검 사무실이 있는 서울 서초구 서울고검 인근에서 특검에 항의하는 긴급 의원 총회를 열었다. 장동혁 국민의힘 대표는 “특검은 손잡이 없는 칼날을 휘두르며 자신이 죽는 줄도 모르고 무도한 수사를 계속하고 있다”면서 “국민이 바라는 것은 특검에 대한 특검이다. 해산돼야 할 정당은 더불어민주당이다”라고 했다.&lt;br&gt;&lt;br&gt;주진우 의원은 “온 국민이 지켜본 비상계엄을 막기 위해 국무회의를 열어가며 막았는데 반대로 뒤집어씌운다”라며 “조은석 특검은 무리하고도 편향적인 수사에 책임지고 물러나야 한다고 생각한다”고 했다. &lt;br&gt;&lt;br&gt;이날 의원 총회에 참석한 50여명의 국민의힘 의원들은 “사법정의 파괴집단 불법특검 해체하라” “정의파괴 정치보복 조은석을 수사하라” 등의 구호를 같이 외쳤다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘탤런트 윤정희 남편 배임’ 별건 수사, ’카카오 김범수‘ 무죄 만들어줬다</title>
