@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조병규 학폭 의혹 진실은… 폭로자 상대 40억 손배소 패소</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/02/JVEGSHEVUFBJFFF6FRWJK3FCXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/JVEGSHEVUFBJFFF6FRWJK3FCXA/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 01 Nov 2025 22:09:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3B3PXIHONEA5CMSSAOXWCBXLA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조병규. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조병규(29)씨가 학교폭력 의혹을 제기한 폭로자를 상대로 거액의 손해배상 소송을 냈으나 1심에서 패소했다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울중앙지법 민사37부(부장판사 이상원)는 조씨와 전 소속사 HB엔터테인먼트가 A씨를 상대로 제기한 40억여 원대 손해배상 청구 소송에서 원고 패소 판결을 내렸다. 법원은 조씨 측 청구를 모두 기각하고 소송 비용도 원고가 부담하라고 결정했다.&lt;br&gt;&lt;br&gt;앞서 조씨 측은 “A씨가 허위 글을 적시함으로써 명예를 훼손했다”며 “광고·드라마·영화·예능 출연 취소 등으로 총 40억여 원의 손해를 입었다. 여기에 위자료 2억 원을 합한 금액을 A씨가 배상해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “조씨 측이 제출한 증거만으로는 A씨의 게시글이 허위라고 단정하기 어렵다”며 “A씨가 조씨 측 지인과 6개월간 주고받은 대화에도 허위 사실임을 인정한 내용은 없었다”고 했다.&lt;br&gt;&lt;br&gt;또 ‘A씨가 게시글을 삭제한 것 자체가 허위임을 인정한 것’이라는 조씨 측 주장에 대해서도 “허위임을 인정해서가 아니라 고소와 거액의 손해배상 청구 소송에 대한 두려움 때문에 의한 것”이라고 판단했다.&lt;br&gt;&lt;br&gt;조씨 측이 제출한 지인 20여 명의 학교폭력 부인 진술서도 증거로 인정되지 않았다. 재판부는 “이들은 모두 조씨가 국내에서 관계 맺은 사람들”이라며 “뉴질랜드에서 발생한 사건의 사실관계를 이들을 통해 확인하긴 어렵다”고 지적했다. 이 지인 중엔 조씨와 뉴질랜드 유학 시절을 함께한 사람들도 있었으나, 재판부는 “조씨와 상당한 친분이 있다고 인정되는 이들”이라며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;조씨 측은 이번 판결에 불복해 항소한 상태다. 2심은 서울고등법원에서 열린다.&lt;br&gt;&lt;br&gt;조씨의 학교폭력 논란은 2021년 2월 온라인 커뮤니티와 소셜미디어에 폭로 글이 게재되며 불거졌다. 뉴질랜드 유학 시절 조씨에게 구타당하고 간식비와 노래방 비용을 대신 내야 했다는 내용이었다. 조씨 측은 이를 부인하며 법적 대응에 나섰고, 두 명의 폭로자가 허위임을 인정하고 사과했다. 다만 A씨는 글 쓴 계정을 삭제하고 잠적해 소송이 이어졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>방화 막은 ‘5호선의 기적’... 지어낸 영웅담이라는데 </title>
       <link>https://www.chosun.com/national/2025/11/02/ZQEOK5M2OVEO7OMTOI6OPKMKLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/11/02/ZQEOK5M2OVEO7OMTOI6OPKMKLA/</guid>
@@ -810,15 +819,6 @@
       <description/>
       <pubDate>Fri, 31 Oct 2025 05:05:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLMMT25PSBHWVEFMMAHKDSFHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약한 래퍼 출신 하선호./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;래퍼 출신 하선호가 ‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약했다.&lt;br&gt;&lt;br&gt;하선호는 지난 30일 자신의 인스타그램에 APEC 정상회의가 열리는 경주에서 영어 도슨트를 맡아 마이크를 잡고 진행하는 모습이 담긴 사진을 공개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMYQZHA4Q5ETLH7TZHWDUJU6OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 출신 하선호와 크리스탈리나 게오르기에바 IMF 총재./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하선호는 “IMF(국제통화기금) 총재님, 경상북도 도지사님, 경주시장님 앞에서”라는 설명과 함께 ‘한영아나운서’ ‘영어도슨트’ 등의 해시태그를 덧붙였다.&lt;br&gt;&lt;br&gt;또 그는 “IMF 총재님이 일 잘한다고 칭찬해주셨다”며 크리스탈리나 게오르기에바 총재와 나란히 선 모습이 담긴 사진도 공개했다.&lt;br&gt;&lt;br&gt;서울 외국어고 출신인 하선호는 엠넷 힙합 서바이벌 프로그램 ‘쇼 미 더 머니’와 ‘고등래퍼2’ 등을 통해 얼굴을 알렸다. 2019년 싱글 앨범 ‘돌멩이’를 내며 래퍼로 데뷔했지만 이후 방송 활동을 중단했다.&lt;br&gt;&lt;br&gt;올해 초 영어회화 강사가 됐다는 근황을 알린 하선호는 유창한 영어 실력과 국제 행사 경험을 바탕으로 최근 통역사로도 활동 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>용역 사업 업체 850만원 상품권 받은 해수부 공무원 ‘집유’</title>
-      <link>https://www.chosun.com/national/regional/2025/10/31/DY4BTCDMYNBTFIAWTIMIKPFYUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/31/DY4BTCDMYNBTFIAWTIMIKPFYUI/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 03:42:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 맡은 용역 사업에 참여한 민간업체 관계자들로부터 금품을 받은 혐의로 기소된 해양수산부 공무원에게 징역형의 집행유예가 선고됐다.&lt;br&gt;&lt;br&gt;대전지법 형사6단독 김지영 부장판사는 뇌물수수 혐의로 기소된 공무원 A씨에게 징역 8개월과 벌금 2000만원을 선고하고, 징역형의 집행을 2년 유예했다고 31일 밝혔다. 또 사회봉사 80시간과 850만원 추징 등을 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2020∼2022년 해양수산부 소속 기관이 발주한 용역 사업에 참여한 민간 업체 관계자 4명으로부터 상품권 총 850만원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 용역 사업 낙찰자 선정에 실질적으로 관여하는 위치에 있었다고 한다. 업체 관계자들은 ‘사업 과정에서 각종 편의를 봐달라’는 취지로 A씨에게 상품권을 건넨 것으로 조사됐다. &lt;br&gt;&lt;br&gt;김 부장판사는 “뇌물수수죄는 공무 집행의 공정성을 해치는 중대 범죄로 죄질이 좋지 않다”며 “다만 피고인이 약 20년간 공무원으로 성실히 근무해온 점, 수뢰 후 부정행위로 나아가지 않은 점, 수뢰액 규모 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘ITS 사업’ 뇌물 수수 의혹... 이민근 안산시장·도의원 등 추가 송치</title>
