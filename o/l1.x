@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>【오늘의 국회일정】 2025년 11월 1일</title>
+			<description>&lt;b&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 최우영 의원실 등, 도심공공주택 복합산업 신속추진 및 제도개선 촉구 결의대회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
+			<pubDate>Fri, 31 Oct 2025 22:38:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212770</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212770</guid>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[기억과 추모] "늘 웃는 얼굴, 따뜻했던 사람"</title>
 			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212762.jpg" alt="234.jpg" /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;방송 패널로 활발히 활동하며 생활 속 법률 지식 등을 알려왔던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="17723"&gt;백성문&lt;/span&gt;&amp;nbsp;법무법인 지해 변호사(사진)가 암 투병 끝에 별세했다. 향년 52세.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;서울 출신인 고인은 경기고와 고려대 법대를 졸업하고 2007년 제49회 사법시험에 합격했다. 2010년 39기로 사법연수원을 수료한 뒤 변호사로 개업했고, 법무법인 준경과 법무법인 정향 등에서 활동했다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;백 변호사는 사건·시사 프로그램의 법률 자문과 토론 패널로 대중에게 널리 알려졌다. JTBC ‘사건반장’, MBN ‘뉴스파이터’, TV조선 ‘사건파일 24’, 채널A ‘강력한 4팀’ 등 주요 종편 프로그램에 출연하며 차분한 해설로 신뢰를 얻었다. 정치 토크 유튜브 ‘정치왓수다’도 직접 진행하며 사회 현안을 해설했다. 2025년 2월, 유튜브 게시판을 통해 재수술을 앞두고 “외모와 목소리가 완벽하지 않더라도 재활이 되면 꼭 돌아오겠다”며 “시청자의 입장에서 함께하겠다”고 남겼다. 채널 구독자들은 그의 건강 회복을 기원했지만 끝내 약속은 이뤄지지 못했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;백 변호사의 따뜻한 성품은 동료들에게도 깊은 인상을 남겼다. 함께 방송했던 이호선 교수는 페이스북을 통해 “늘 만면에 미소가 가득했고 누구와도 격 없이 지냈다”라며 “젊고 유능하며 아름다웠던 그 삶을 기억한다”고 추모했다. 고인이 몸담았던 법무법인 정향의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="19506"&gt;강호석&lt;/span&gt;(사법연수원 40기) 변호사 역시 법률신문과의 통화에서 “방송에서 보던 그대로 실제로도 따뜻하고 배려 깊은 분이었다”고 회고했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;백 변호사의 유족으로는 2019년 결혼한 부인 김선영(YTN 아나운서) 씨가 있다. 장지는 용인공원이다.&amp;nbsp;&lt;/p&gt;</description>
 			<pubDate>Fri, 31 Oct 2025 20:09:04 -0000</pubDate>
@@ -232,15 +241,6 @@
 			<link>https://www.lawtimes.co.kr/news/212744</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212744</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212744.jpg</media:thumbnail>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>검찰, '尹 찍어내기 감찰' 박은정·이성윤 재수사도 무혐의</title>
-			<description>&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&lt;/span&gt;(사법연수원 23기) 전 대통령이 검찰총장이던 시절, 이른바 '찍어내기식' 감찰과 징계를 주도한 의혹을 받는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9001"&gt;이성윤&lt;/span&gt;(23기) 더불어민주당 의원과&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="375"&gt;박은정&lt;/span&gt;(29기) 조국혁신당 의원에 대해 검찰이 재수사에서도 무혐의 처분을 내렸다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 형사5부(&lt;span style="font-weight: bold;" class="lawmanlink" serial="14312"&gt;김지영&amp;nbsp;&lt;/span&gt;부장검사)는 이 의원과 박 의원의 통신비밀보호법·개인정보보호법 위반 및 공무상비밀누설 혐의에 대해 "관련 수사·감찰 기록, 행정소송 등을 토대로 법무부 감찰규정 및 관련 법리를 검토한 결과 혐의없음 처분했다"고 31일 밝혔다.&lt;br /&gt;&lt;br /&gt;앞서 '한반도 인권과 통일을 위한 변호사 모임'(한변)은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5135"&gt;추미애&lt;/span&gt;(14기) 전 법무부 장관 시절인 2020년 12월, 법무부가 부적법한 절차로 윤 당시 검찰총장 감찰을 벌였다며 이 의원과 박 의원 등을 검찰에 고발했다.&lt;br /&gt;&lt;br /&gt;고발의 주된 이유는 이들이 '채널A 사건'에 연루된&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5077"&gt;한동훈&lt;/span&gt;(27기) 당시 검사장 감찰을 명분으로 입수한 자료를 윤 총장 감찰을 진행한 법무부 감찰위원회에 제공했다는 것이었다.&lt;br /&gt;&lt;br /&gt;사건을 접수한 서울중앙지검은 한 차례 고발인 조사를 진행한 뒤 2021년 6월 이 의원과 박 의원 등을 불기소 처분했다. 당시 검찰은 공공기관이 법령에 따라 소관 업무 수행을 위해 감찰자료를 제출받았고, 이를 감찰위원회 위원들에게 제공한 것이 외부 공개·누설로 볼 수 없다는 이유를 들었다.&lt;br /&gt;&lt;br /&gt;이에 한변은 검찰 처분이 부당하다며 항고했고, 항고장을 검토한 서울고검은 약 1년 뒤인 2022년 6월 혐의 유무 판단을 위해 관련 자료를 다시 확보하라는 취지로 재기수사를 명령했다.&lt;br /&gt;&lt;br /&gt;사건을 다시 넘겨받은 검찰은 재수사 명령 3년 4개월여 만에 종전과 같은 결론을 내렸다. &lt;br /&gt;&lt;br /&gt;다만 고발 혐의 중 직권남용권리행사방해 부분은 수사 권한이 있는 고위공직자범죄수사처로 이첩했다.</description>
-			<pubDate>Fri, 31 Oct 2025 08:52:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212743</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212743</guid>
 			<dc:creator>우빈 기자</dc:creator>
 		</item>
 	</channel>
