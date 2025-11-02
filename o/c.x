@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이진숙 측, 경찰 피의자 조서 공개…“체포까지 할 일이었나”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/02/P5IQA5KAAZHO7DWSH6I7KMVN3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/P5IQA5KAAZHO7DWSH6I7KMVN3E/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 09:34:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46SXSMPSEZMV3DR6DEZVT7B6VQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 등의 혐의로 체포됐다 풀려난 이진숙 전 방송통신위원장 측이 2일 경찰 피의자 조서를 공개했다.&lt;br&gt;&lt;br&gt;이 전 위원장의 법률 대리인인 임무영 변호사는 이날 소셜미디어를 통해 이 전 위원장의 진술이 담긴 피의자신문조서 3건을 공개했다.&lt;br&gt;&lt;br&gt;조서에 따르면, 경찰은 이 전 위원장이 지난해부터 우파 성향 유튜브에 출연해 한 발언과 SNS에 올린 글의 의도를 집중적으로 캐물었다. 이에 이 전 위원장은 “절박한 심정에서 (방통위) 2인 체제를 해소할 능력이 있는 이재명 당시 더불어민주당 대표에게 호소한 것”이라며 “정치적 목적이 전혀 없었다”고 답했다.&lt;br&gt;&lt;br&gt;임 변호사는 “(조서) 내용이 매우 빈약하고 기존 질문의 반복”이라며 “경찰의 3차례 조사가 과연 체포까지 해가면서 할 일이었는가에 대한 판단을 구하기 위해 조서를 공개한다”고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장 측은 경찰 수사 담당자를 직권남용 혐의로 고발하는 방안도 검토 중이다.&lt;br&gt;&lt;br&gt;이 전 위원장은 직무 정지 상태였던 작년 9월 우파 성향 유튜브에 출연해 “민주당이나 좌파 집단은 우리가 상상할 수 있는 모든 것을 하는 집단” 등의 발언을 했다. 이를 두고 민주당 등은 이 전 위원장을 공직선거법·국가공무원법 위반 혐의로 고발했고, 이 전 위원장은 경찰 수사를 받아왔다.&lt;br&gt;&lt;br&gt;그러던 지난달 2일 경찰은 이 전 위원장을 체포했다. 이틀 후 법원이 체포적부심사를 인용해 이 전 위원장은 석방됐다. 체포된 동안 이 전 위원장은 두 차례 경찰 조사를, 석방 후인 지난달 27일 세 번째 경찰 조사를 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울 동북권·서남권 15區, 올 가을 첫 한파주의보</title>
       <link>https://www.chosun.com/national/national_general/2025/11/02/LWZWWH3D5RDI3AMV5AMOXM56UE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/LWZWWH3D5RDI3AMV5AMOXM56UE/</guid>
@@ -936,15 +945,6 @@
       <description/>
       <pubDate>Fri, 31 Oct 2025 06:30:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLRKY6PMWM334MW2Y3YVJ6RXOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현관문 앞에 붙은 'CCTV 촬영 중' 스티커. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 고소장을 내면서 피고소인의 모습이 담긴 CCTV 영상을 증거로 제출한 행위는 개인정보보호법 위반으로 처벌할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 수사기관에 피고인의 모습이 찍힌 CCTV 영상을 제출했다가 개인정보보호법 위반 혐의로 기소된 A씨 부부에게 유죄를 선고한 원심을 파기하고 사건을 전주지법으로 돌려보냈다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전북 고창의 한 도시형 생활주택 입주자대표회의 회장으로, A씨 부부는 입주민 B씨가 입주자대표회의 동의 없이 출입문 게시판에 공고문을 붙인 것을 문제 삼아 2022년 3월 그를 업무방해 혐의 등으로 고소했다. 이 과정에서 B씨가 공고문을 붙이는 장면이 담긴 CCTV 영상을 그의 동의 없이 경찰에 제출해 개인정보보호법 위반 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 부부에게 무죄를 선고했지만, 2심은 “비상시에 해당하지 않는 일반 범죄 혐의에 대한 형사 고소 과정에서 피고소인의 인적사항이나 행위를 특정하기 위해 수사기관에 피해자가 촬영된 CCTV 영상을 제출하는 것은 피해자가 동의한 개인정보 수집·이용 및 제공 범위를 벗어난다”며 이들에게 각각 벌금 50만원과 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;대법원은 2심 판결을 다시 뒤집었다. 재판부는 “해당 CCTV 영상은 B씨가 게시판에 공고문을 게시하는 모습을 촬영한 것에 불과할 뿐 사생활을 침해할 우려가 있는 민감 정보 등을 포함하고 있지 않다”며 “수사기관이 CCTV 영상을 수사 이외의 목적으로 사용하거나 제3자에게 제공하는 등의 행위를 할 위험성이 크다고 할 수도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>젊은이들 노리는 미용업체 ‘강매’... 웨딩박람회 돌고 대기업 기숙사 원정까지</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/01/LPFDSYXU4BB5DPGJL66KPSO2YA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/01/LPFDSYXU4BB5DPGJL66KPSO2YA/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 06:28:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3O2R54W5ZRHL3DIZDQB3MUFIII.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구의 한 피부관리 업체의 무료 체험 홍보 문자. 방문 시 추가 서비스 영업이 1시간 가까이 이뤄진다는 후기가 줄을 이었다./x(옛 트위터) 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼을 앞둔 윤모(30)씨는 지난 6월 경기 화성에서 열린 웨딩 박람회를 찾았다가 12회에 151만원 하는 피부 관리 서비스를 결제했다. “한 번뿐인 결혼식인데, 피부 관리를 받아야 한다”며 집요하게 따라붙는 피부 관리 업체의 설득에 넘어갔다. 며칠 뒤 서울 강남에 있는 업체를 찾자 이번에는 160만원을 더 내면 20회 추가 시술해 주겠다고 했다. 업체 측은 1시간 넘게 설득을 이어갔고 결국 윤씨는 추가 결제를 했다. &lt;br&gt;&lt;br&gt;그런데 그 뒤 업체 측이 돌연 말을 바꿨다. 160만원을 추가로 결제하면서 약속한 20회 시술이 웨딩 박람회 때 결제한 151만원짜리 12회 시술과 별개가 아니라, 8회 추가 시술 비용이라는 얘기였다. 윤씨는 환불을 요구했지만, 업체는 이를 거절했고 사기 혐의로 고소도 가능하다는 변호사 상담 결과를 들이민 뒤에야 돈을 돌려받을 수 있었다.&lt;br&gt;&lt;br&gt;젊은이들을 겨냥한 피부 관리 업체들의 영업에 넘어가 낭패를 봤다는 사례가 늘고 있다. 전에는 피부 관리 업체들이 유동 인구가 많은 서울 지하철 강남역 일대에서 행인에게 무료 시술 쿠폰을 뿌리며 ‘한 명만 걸려라’는 식으로 고객을 유인했다. 하지만 최근에는 예비 신부·대기업 직장인 등을 겨냥해 세일즈에 나서는 양상이다. &lt;br&gt;&lt;br&gt;피부 관리 업체들이 구매력이 있는 고객을 집중 공략하면서 피해 구제 민원도 늘고 있다. 한국소비자원에 따르면, 피부·체형 관리 서비스 관련 피해 구제 접수 건수는 2020년 197건에서 2024년 404건으로 4년 새 2배 넘게 늘었다. 올해 1~8월 접수된 피해 구제 건수도 307건이다. 이런 추세가 이어지면 작년 규모를 넘어설 것으로 보인다.&lt;br&gt;&lt;br&gt;피부 관리 업체들은 고객 유치를 위해 대기업 기숙사까지 원정도 나간다. 직장인 김모(35)씨는 지난해 10월쯤 경기 이천의 한 대기업 기숙사 인근에서 강남역 인근 피부 관리 업체에서 진행하는 무료 시술 체험 쿠폰을 받았다. 업체를 찾자 상담 실장은 1회당 30만원짜리 ‘경락 마사지’ 묶음 상품을 권했다. 김씨는 “무료 시술 체험을 하기 전에 계속 결제를 설득하는 바람에 600만원을 썼다”며 “당시 한창 기업별 상여금 액수가 인터넷에 알려지던 시점이라 회사원이 밀집한 장소를 골라 접근한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;‘강매’ 행위는 단속이나 처벌이 쉽지 않다. 입증이 어렵기 때문이다. 경찰 관계자는 “감금이나 폭행·협박 등이 없다면 공갈이나 강요죄로 처벌하기 어렵고, 무료라고 속인 뒤 돈을 받는 게 아니라면 사기죄도 성립하기 어렵다”며 “소비자들이 현명한 소비를 하는 수밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하남교육지원청 분리 신설 추진… 임시청사 확보로 첫발</title>
