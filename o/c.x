@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘구치소 청탁’ 넣은 범죄자, 캄보디아 도박 조직 총책으로 밝혀져</title>
+      <link>https://www.chosun.com/national/incident/2025/11/02/O3KEXTMHZNAQ7PWFXJRYCW6ERA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/02/O3KEXTMHZNAQ7PWFXJRYCW6ERA/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 13:03:04 +0000</pubDate>
+      <content:encoded>서울구치소 교도관에게 수천만원의 뒷돈을 주며 편의를 봐 달라는 청탁을 한 구치소 수용자가 수천억원대 불법 도박 사이트를 운영한 범죄 조직의 국내 총책으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6C6A6HTLQIT6N5OO5CR4V5VJ4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 의왕시 서울구치소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 지난달 30일 서울구치소에서 수감자 독거실 배정 등 청탁을 받고 1억 원 넘는 뒷돈을 챙긴 교도관 정모씨를 검찰에 구속 송치했고, 정씨에게 청탁을 한 변호사 조모씨는 불구속 송치했다. 조씨는 현재 수감 중인 의뢰인 A씨가 구치소에서 서신과 의약품을 주고받을 수 있게 해달라며 A씨에게 받은 2000만원을 정씨에게 전달한 혐의를 받는다.&lt;br&gt;&lt;br&gt;그런데 경찰 등에 따르면 조씨에게 청탁을 넣은 A씨는 대규모 불법 도박 사이트를 운영한 국내 범죄 조직의 총책이었다. A씨 조직은 회원 8000여명을 상대로 판돈 규모 8600억원대의 불법 도박 사이트를 운영하다가 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;A씨 조직에 관여했던 인물로는 2023년 8월 서울 강남에서 약물에 취한 채 롤스로이스 차량을 몰다가 20대 여성을 치어 숨지게 한 신모(30)씨, 같은 해 9월 마찬가지로 강남에서 약에 취해 람보르기니 차량을 몰다가 주차 시비가 붙자 흉기로 행인을 위협한 홍모(31)씨 등이 있다. &lt;br&gt;&lt;br&gt;경찰은 무직인 이들이 어떻게 고급 차량을 몰 수 있었는지 수입원을 추적하다가 이들 조직의 꼬리를 잡고, 도박 사이트 운영자 등 14명과 실제 도박에 참여한 47명 등 총 61명을 지난해 6월 검거했다. 경찰에 따르면 이들은 2020년 6월부터 2021년 3월까지 캄보디아에 도박사이트 충·환전 사무실을 마련한 뒤 불법 도박 사이트를 운영한 혐의를 받는다. &lt;br&gt;&lt;br&gt;이 중 총책 등 2명은 경찰에 의해 구속됐는데, 이때 구속된 총책이 바로 A씨였던 것이다. 신씨는 이 도박 조직의 국내 총판이었고, 홍씨는 A씨에게 자신의 계좌를 제공해 범죄 수익 은닉을 도왔다.&lt;br&gt;&lt;br&gt;이렇게 서울구치소에 수감된 A씨가 자신의 변호사 조씨를 통해 구치소 내에서 편의를 봐 달라고 교도관에게 청탁을 넣은 것이다. 경찰은 계좌 추적 과정에서 조 변호사가 교도관에게 전달한 돈과는 별도로 A씨로부터 1억원 넘는 돈을 받은 정황도 파악한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영화 ‘친구’ 속 칠성파·신20세기파, 30년 넘게 부산서 ‘전쟁’ 중</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/02/RNGCJY324JCC5HCFZUHWVLVMFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/RNGCJY324JCC5HCFZUHWVLVMFU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 11:02:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILHVG7FIERC5XCLYVM7D2FJQA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 신20세기파 두목의 결혼식장 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘친구’에 등장했던 부산의 양대 폭력조직 사이에 여전히 보복 폭행이 이어지고 있는 것으로 나타났다. &lt;br&gt;&lt;br&gt;부산지법 형사11단독 정순열 판사는 ‘신20세기파’ 조직원인 20대 A씨와 B씨에게 각각 징역 2년과 2년2개월의 형을 선고했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 라이벌 폭력조직인 ‘칠성파’ 조직원 C씨와 지난 4월 7일 오전 2시쯤 부산 수영구 한 도로에서 마주치자 흉기를 꺼내 들고 대치한 혐의를 받는다. B씨는 이후 A씨를 비롯한 조직원들과 함께 C씨를 찾아다니다가 마주지차 얼굴과 몸통을 수회 때리고 걷어차 늑골 뼈를 여러 개 부러뜨렸다. &lt;br&gt;&lt;br&gt;두 사람은 지난 4월 22일 두목을 따라간 부산 북구의 한 장례식장에 대기하면서 칠성파 조직원의 보복에 대비한다며 길이 32㎝짜리 흉기를 상의 안주머니에 소지한 혐의도 받는다. &lt;br&gt;&lt;br&gt;두 조직폭력배 간의 보복 폭행은 지난해 말부터 이어져왔다. 작년 11월 칠성파 한 조직원이 부산진구 노래방 안에서 신20세기파 조직원을 뇌출혈이 발생할 정도로 폭행하면서 두 조직간 감정이 나빠졌다고 한다. &lt;br&gt;&lt;br&gt;이후 두 폭력조직 간 보복이 이어지다가 올해 4월 칠성파 조직원이 신20세기파 조직원이 거주하는 곳을 찾아가 흉기로 수회 찌르는 사건까지 발생했다. 이 사건으로 인해 20세기파 조직원인 A‧B씨가 칠성파 조직원을 찾아다니며 폭행한 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;이들은 법정에서 자신들은 조직폭력배가 아니며 C씨와 우연히 다툼을 벌였다고 주장했다. 그러나 이들이 주고받은 휴대전화 메시지에는 “큰 형님이 도피자금 내려준다고 짐 싸란다” “식구 위상을 위해 맞서 싸우는 거다” 등 폭력 단체에 가담한 흔적이 고스란히 담겨있었다. &lt;br&gt;&lt;br&gt;정 판사는 “폭력 범죄단체 조직원들 사이의 보복 폭력 범죄의 고리를 끊고, 재범을 방지하기 위해 피고인들에 대한 엄중한 처벌이 불가피하다”며 “범행 동기와 경위, 범행 수법과 상해의 정도에 비춰 죄질이 매우 불량하다”고 판시했다. &lt;br&gt;&lt;br&gt;1970년대 부산의 유흥업소와 오락실 등을 기반으로 자리잡은 칠성파와 신20세기파는 지속해서 세력 다툼을 벌이고 있다. 1993년 칠성파의 한 간부가 후배 조직원을 동원해 신20세기파 조직원을 살해한 사건은 영화 ‘친구’의 배경이 되기도 했다. 최근에는 세력이 약화하기는 했으나, 2006년에도 조직원 60명이 가담한 집단 폭력 사건이 발생했고, 2021년 5월에는 부산의 한 장례식장에서 집단 난투극이 벌어지기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>숙제 안 했다고 딸에게 ‘앉았다 일어나기 3000번’ 시킨 50대 체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/02/VKLEC4R5PZCNTNV65IC25X3W54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/VKLEC4R5PZCNTNV65IC25X3W54/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 11:35:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학생 딸을 학대한 혐의로 50대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 도봉경찰서는 아동복지법 위반 혐의를 받는 50대 남성을 1일 밤 체포했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이 남성은 1일 밤 도봉구 자택에서 딸이 영어 숙제를 하지 않았다는 이유로 ‘앉았다 일어나기’를 3000번 시키는 등 학대한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;딸은 ‘앉았다 일어나기’를 약 800번을 반복한 뒤 통증을 호소했고, 이를 보다 못한 가족이 아동보호전문기관에 도움을 요청하면서 경찰에 신고가 접수된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 남성의 행위가 훈육의 범위를 벗어난 것으로 보고 현장에서 체포했다. 해당 남성은 과거에도 아동학대 관련 신고 전력이 있었다고 한다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “피해 아동 보호를 위해 남성에게 접근·연락 금지 등 긴급임시조치를 내렸다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>트럼프는 5성급 힐튼, 시진핑은 4성급 코오롱 머문 이유는 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/02/6WBQJ2SI6REXXM5VUHB76Q6PRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/6WBQJ2SI6REXXM5VUHB76Q6PRU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 11:56:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DT7UF6UWA36YLY2DNKK4BQKJXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프(왼쪽) 미국 대통령과 시진핑 중국 국가주석. /로이터 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아시아태평양경제협력체(APEC) 정상회의 기간 트럼프 미국 대통령은 5성급 힐튼호텔 경주에 머물렀고, 시진핑 중국 국가주석은 4성급 코오롱호텔에서 숙박했다. 이에 대해 경북도는 정상급 경호와 의전이 결합된 ‘투트랙 숙영체계’를 운영했다고 설명했다. &lt;br&gt;&lt;br&gt;트럼프는 경주 힐튼호텔에서 1박 2일 일정을 소화하고 지난달 30일 떠났다. 이 호텔은 보문관광단지 중심에 위치했으며 회의장, 주요 행사장과 가까워 접근성이 뛰어나다. 공항에서 숙소까지의 이동 동선도 짧아 경호 동선이 단순하다는 장점도 있다. 호텔 외곽에는 차량 진입 통제선과 드론 탐지 시스템이 구축돼 24시간 경비가 이어졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AFT2HNMNY4JEWZDHKHW74RGX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프 미국 대통령이 지난달 29일 경주 힐튼호텔 만찬장에 있는 호텔 직원들과 기념 사진을 찍었다. /경주힐튼호텔 SNS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시진핑이 숙박한 코오롱호텔은 토함산 자락에 있다. 이곳은 도심과 일정 거리를 둔 산기슭에 있어 외부 노출이 적고 보안 유지에 유리하다는 평가를 받는다. 호텔 진입로에는 이동식 차단벽과 대형 스크린이 설치돼 외부 시야를 차단했고, 차량‧보행로에는 이중 검문소가 운영됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OY5MJXQFFZHTPDH444SUTFLWRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아시아태평양경제협력체(APEC) 참석을 위해 방한하는 시진핑 중국 국가 주석이 머물 예정인 경주 코오롱 호텔 주변에 경찰특공대 차량이 세워져 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도는 힐튼호텔 경주가 5성급으로 APEC 주요 회의장과 가까운 접근성을 갖춘 반면, 코오롱호텔은 4성급이지만 산중 지형을 활용한 보안성 강화에 중점을 맞췄다고 설명했다. 힐튼호텔이 ‘행사 중심축’ 역할을, 코오롱호텔은 ‘보안형 숙소’로 기능을 분담했다는 것이다. &lt;br&gt;&lt;br&gt;경북도 관계자는 “미국과 중국 정상의 숙소 배치는 동선 분리와 경호 균형을 최우선으로 설계됐다”며 “경주 전역이 사실상 하나의 ‘APEC 경호구역’으로 운영됐다”고 했다. &lt;br&gt;&lt;br&gt;경북도는 주요국 정상 간 경호 동선 충돌을 막는 숙소 운영 경험을 바탕으로 향후 대규모 국제회의 유치 시 숙박‧경호‧의전이 결합된 ‘경북형 숙박모델’을 표준화해 적용할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이진숙 측, 경찰 피의자 조서 공개…“체포까지 할 일이었나”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/02/P5IQA5KAAZHO7DWSH6I7KMVN3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/02/P5IQA5KAAZHO7DWSH6I7KMVN3E/</guid>
@@ -902,33 +938,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IIHQW3TQ4ZC3FHGC7UYF22H2P4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연세대가 미 엔비디아를 비롯해 삼성전자, SK텔레콤, KT, LG유플러스, 한국전자통신연구원 등 국내 6대 기관과 함께 6G 시대의 핵심 인프라인 AI-RAN 공동 연구를 위한 양해각서를 31일 APEC 정상회담에서 체결했다./연세대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연세대가 미 엔비디아를 비롯해 삼성전자, SK텔레콤, KT, LG유플러스, 한국전자통신연구원 등 국내 6대 기관과 함께 6G 시대의 핵심 인프라인 AI-RAN 공동 연구를 위한 양해각서를 31일 APEC 정상회담에서 체결했다.&lt;br&gt;&lt;br&gt;AI-RAN은 ‘AI를 위한 네트워크’로, 무선 기지국에 인공지능 연산 기능을 통합하여 AI 서비스를 보다 효율적이고 지능적으로 지원하는 차세대 네트워크 기술이다. 로봇, 드론 등 피지컬 AI의 일부 연산을 네트워크가 분담함으로써 성능 향상과 배터리 효율 극대화가 가능하며, 6G 시대 핵심 인프라로 주목받고 있다.&lt;br&gt;&lt;br&gt;이번 협약에는 젠슨 황 엔비디아 CEO, 노태문 삼성전자 대표, 류영상 SK텔레콤 대표, 김영섭 KT 대표, 홍범식 LG유플러스 대표, 방승찬 한국전자통신연구원 원장, 윤동섭 연세대 총장이 직접 서명에 참여했다. 협약에 따라 참여 기관들은 ▲저전력·지능형 AI-RAN 네트워크 구조 개발 ▲6G 인프라의 효율적 구현 ▲자율적 네트워크 지능화 기술 연구 등을 공동으로 수행할 예정이다.&lt;br&gt;&lt;br&gt;연세대는 이번 협력의 핵심 연구 허브로서 교내에 AI-RAN 공동 연구 거점을 구축하고, 차세대 네트워크 및 AI 융합 인재 양성을 위한 교육·연구 플랫폼을 운영할 계획이다. 윤 총장은 “이번 협약은 6G 시대를 대비한 인공지능 네트워크 혁신의 새로운 이정표가 될 것”이라며, “연세대는 이러한 글로벌 협력 네트워크를 바탕으로 AI-RAN 및 6G 인프라 기술 분야에서 세계를 선도하는 연구·교육 허브로 도약해 나가겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>조직 개편 마친 김건희특검...‘金여사 봐주기 의혹’ 수사 가동</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/KIQT3ZILYVBT7IQACSE7UBN7JM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/KIQT3ZILYVBT7IQACSE7UBN7JM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 06:53:30 +0000</pubDate>
-      <content:encoded>김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 검찰의 김 여사 ‘봐주기 수사’ 의혹을 살펴보기 위한 팀 재편 작업을 마쳤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JSBMIRJMCFMMNEO5KW3ZNQLKUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 관련 의혹을 수사 중인 민중기 특별검사팀의 박상진 특검보가 지난 2일 서울 종로구 특검 사무실에서 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상진 특검보는 31일 브리핑에서 “특검법 제14·15호 규정 사건을 수사하기 위해 최근 특별수사관과 파견 경찰관으로 구성된 2개의 수사팀을 편성했다”고 밝혔다. 해당 수사팀을 지휘할 특검보도 검찰 출신이 아니라고 특검 관계자는 설명했다. 특검법 제14·15호는 공무원 등이 김 여사 사건과 관련해 고의적으로 수사를 지연·은폐·비호한 범죄와, 윤석열 전 대통령 또는 대통령실의 수사 방해 의혹을 수사할 수 있도록 정하고 있다. &lt;br&gt;&lt;br&gt;수사 하반기 동력을 높이기 위한 인력 충원도 진행 중이다. 박 특검보는 “이번 주 특검보 2명과 팀장급 2명을 포함한 검사 3명, 특별수사관 3명을 충원했다”고 밝혔다. 새로 파견된 팀장급 검사는 김일권, 신건호 부장검사다. 이밖에도 특검은 검찰 수사관 등 특별공무원 파견도 검토 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 오전부터 특검에서 피의자 조사를 받고 있는 김충식씨는 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 특정범죄 가중처벌법상 국고손실 혐의를 받고 있는 것으로 알려졌다. 특검은 다음 달 4일에는 김 여사 모친 최은순씨와 오빠 김진우씨를 소환한다. 이들은 아직까지 불출석하겠다는 입장을 전해오지 않았다고 한다.&lt;br&gt;&lt;br&gt;또한 특검은 ‘매관매직’ 의혹을 받는 이배용 전 국가교육위원장과 관련해 한지살리기재단의 이사 최모씨도 참고인 신분으로 조사했다. 한지살리기재단은 이 전 위원장이 국가교육위원장으로 임명되기 전 이사장으로 재직했던 재단이다. 특검은 재단 측이 윤석열 전 대통령 부부에게 전통 공예품을 전달하는 데 이 전 위원장이 관여했다고 보고 있다.&lt;br&gt;&lt;br&gt;특검은 김 여사 일가에 대한 조사를 마친 후 김 여사를 다시 소환할 계획이다. 특검 관계자는 “연장된 기간 안에 김건희씨를 소환조사할 예정이며, 이어서 윤 전 대통령에 대해서도 소환할 생각”이라고 설명했다. &lt;br&gt;&lt;br&gt;한편 지난 29일 ‘건진 법사’ 전성배씨 재판에서 전씨가 김 여사에게 건넨 인사청탁 명단과 관련, 특검은 명단에 적힌 8명을 수사 대상으로 삼고 있지 않다고 했다. 특검 관계자는 “전씨가 그런 명단을 김건희씨한테 건넬 만큼 (가까운) 관계라는 걸 나타내기 위해 제시한 것”이라며 “특별히 8명에 대한 범법 행위가 있었다고 보고 있진 않다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘尹 찍어내기 감찰 의혹’ 이성윤·박은정 무혐의 처분 </title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/V2NGAZADGZDUJHK7EWQPA3KASA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/V2NGAZADGZDUJHK7EWQPA3KASA/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 06:45:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/455GOAIDG5I4PAJSM3HW62WPTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국회 법제사법위원회 이성윤(왼쪽) 더불어민주당 의원과 박은정 조국혁신당 의원이 지난 9월 3일 서울 서초구 이명현 순직해병 특별검사팀 사무실에서 고발장 접수를 위해 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추미애 전 법무부 장관 시절 윤석열 당시 검찰총장을 사퇴시키기 위해 이른바 ‘찍어내기’ 감찰을 했다는 의혹을 받은 이성윤 더불어민주당 의원과 박은정 조국혁신당 의원이 검찰에서 무혐의 처분을 받았다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사5부(부장 김지영)는 이 의원과 박 의원의 통신비밀보호법·개인정보보호법 위반 및 공무상비밀누설 혐의에 대해 수사·감찰 기록, 행정소송 등에서 확인된 사실관계, 법무부 감찰 규정 및 관련 법리 등에 따라 혐의없음 처분했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;2020년 서울중앙지검장과 법무부 감찰담당관이었던 두 사람은 ‘채널A 사건’과 관련해 당시 한동훈 검사장을 감찰한다며 법무부와 대검찰청 자료를 윤석열 검찰총장을 감찰하고 있던 법무부 감찰위원회에 무단으로 제공한 혐의를 받았다.&lt;br&gt;&lt;br&gt;박 의원은 2020년 10월 채널A 사건을 수사 중이던 서울중앙지검 형사1부에 ‘추미애 법무부 장관의 감찰 지시로 한동훈 검사장 수사 기록을 복사하겠다’는 내용의 공문을 보냈다. 형사1부는 “한 검사장과 이동재 전 채널A 기자 사이 통화 기록만 주겠다”고 했지만, 박 의원은 윤석열 검찰총장 부부와 한 검사장 사이의 통화 내역 등을 받아갔다. 이후 그해 12월 윤 총장 징계를 위해 열린 법무부 감찰위원회에서 해당 자료를 공개하며 “제 식구 감싸기” “윤 총장이 채널A 사건과 관련해 한 검사장 감찰을 방해했기 때문에 징계 사유가 된다”고 말한 것으로 전해졌다. 수사 자료를 당초 밝힌 목적과 달리 사용한 것이다.&lt;br&gt;&lt;br&gt;이에 한반도 인권과 통일을 위한 변호사모임(한변)은 2020년 12월 14일 이 의원과 박 의원을 검찰에 고발했다. 처음 사건을 수사한 서울중앙지검 형사3부(부장 허인석)는 고발인 조사 일주일 만인 2021년 6월 29일 각하 처분했다. 감찰위원회에 해당 자료를 제공한 게 외부 공개나 누설이라고 보기 어렵다는 것이었다. 한변은 항고했고, 서울고검은 “혐의 유무를 판단하기 위한 자료를 확보하라”면서 2022년 6월 16일 서울중앙지검에 재기 수사를 명령했다. 서울중앙지검은 3년 4개월 만에 다시 같은 결론을 내렸다.&lt;br&gt;&lt;br&gt;한편 이와 관련한 이 의원과 박 의원의 직권남용 혐의는 고위공직자범죄수사처 수사1부(부장 나창수)가 2023년 2월 3일 검찰 사건을 이첩받아 계속 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1800차례 아동 학대·성희롱...부산 언어발달센터 치료사들 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/10/31/4JYJRLEMZVENHIU324W4EIYHEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/10/31/4JYJRLEMZVENHIU324W4EIYHEI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 06:45:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 언어발달센터에서 수십 명의 아동을 상습적으로 학대한 20대 치료사들에게 법원이 징역형을 선고했다.&lt;br&gt;&lt;br&gt;부산지법 형사3단독(재판장 심재남)은 31일 아동복지법상 상습 아동 학대 혐의로 기소된 20대 여성 감각 통합 치료사 A씨에게 징역 4년을 선고하고, 각 40시간의 아동 학대와 성폭력 치료 프로그램 이수 명령을 내렸다. 또 아동과 청소년, 장애인 관련 기관에 10년간 취업 제한도 명했다.&lt;br&gt;&lt;br&gt;같은 혐의로 기소된 20대 여성 언어치료사 B씨에게는 징역 1년 6개월에 40시간의 아동 학대 치료 프로그램 이수 명령과 7년간의 아동 관련 기관 취업 제한 명령을 내렸다.&lt;br&gt;&lt;br&gt;검찰 공소 사실에 따르면, A씨 등은 2023년 8월부터 지난해 11월까지 언어 발달 등의 치료를 위해 센터에 다니는 아동 20여 명을 대상으로 상습적으로 신체적·정서적 학대를 가한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;특히 A씨는 지난해 8월부터 11월까지 아동들을 상대로 총 1674차례에 걸쳐 학대를 저질렀으며, 156차례의 성희롱 등을 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 같은 범행은 센터 내에 있는 방범카메라(CCTV)를 통해 드러났다. 하지만 이들의 범행 장면은 영상 보관 기간 등 문제로 전체 범행 기간 중 49일 상당의 CCTV 기록만 남은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;재판부는 “습관적으로 학대를 저지르는 등 죄질이 불량하고, 피해 아동들은 신체·정신적으로 고통을 호소 중”이라면서 “다만 일부 피해자와 합의한 점, 합의하지 못한 피해자를 위해 형사 공탁한 점 등을 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘청담동 술자리 의혹’ 첼리스트, ‘더탐사’ 강진구 고소</title>
       <link>https://www.chosun.com/national/incident/2025/10/31/5OCATSSETRGTXPSCWETFUEJ5QY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/31/5OCATSSETRGTXPSCWETFUEJ5QY/</guid>
@@ -936,15 +945,6 @@
       <description/>
       <pubDate>Fri, 31 Oct 2025 06:34:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MBVHAPBS2AYXVN2EOI62YF7GP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강진구 전 더탐사 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘청담동 술자리 의혹’의 발단이 됐던 첼리스트가 31일 강진구 전 더탐사 대표와 유튜버 등 3명을 허위 사실 적시 명예훼손, 강요 미수 등 혐의로 경찰에 고소했다. &lt;br&gt;&lt;br&gt;이 의혹은 지난 2022년 7월 19일 서울 청담동의 한 술집에 윤석열 대통령, 한동훈 법무부 장관, 김앤장 변호사 30여 명과 이세창 전 자유총연맹 총재 권한대행 등이 한자리에 모여 자정 넘은 시각까지 술을 마셨다는 내용이다. 2022년 10월 김의겸 전 민주당 의원과 더탐사가 처음 제기했다. 당시 김 전 의원은 첼리스트 A씨가 전 남자 친구와 통화하며 “내가 술자리에서 윤석열과 한동훈을 봤다”고 말한 것을 근거로 들었다.&lt;br&gt;&lt;br&gt;그러나 이 의혹은 사실이 아닌 것으로 드러났다. 이후 A씨는 “귀가가 늦은 이유를 남자 친구에게 둘러대려 거짓말한 것”이라고 해명했다. A씨의 남자 친구와 강 전 대표가 공모해 A씨에게 청담동 술자리 의혹이 사실인 것처럼 인터뷰하도록 강요했다고 조사됐다. 이에 강 전 대표는 지난해 9월 강요 미수, 명예훼손 등 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;이날 서울 서초경찰서에 고소장을 제출한 A씨 측은 강 전 대표가 이미 강요 미수 등 혐의로 재판에 넘겨졌음에도 지난 26일부터 유튜브 방송에서 “A씨가 수사와 재판에 사용될 증거를 조작했다”고 말하는 등 허위 사실을 유포하고 있다고 주장했다. 또 이러한 방송을 내보내 A씨가 증거 조작을 했다고 우회적으로 협박함으로써 또 한 번의 허위 진술을 강요하고 있다는 것이 A씨 측 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰에 증거로 제출한 CCTV로 유죄?... 대법 “사생활 침해 우려 작다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/LSTET2EIXBEMTDJNPCJ3MGFEOA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/LSTET2EIXBEMTDJNPCJ3MGFEOA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 06:30:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLRKY6PMWM334MW2Y3YVJ6RXOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현관문 앞에 붙은 'CCTV 촬영 중' 스티커. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰에 고소장을 내면서 피고소인의 모습이 담긴 CCTV 영상을 증거로 제출한 행위는 개인정보보호법 위반으로 처벌할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 수사기관에 피고인의 모습이 찍힌 CCTV 영상을 제출했다가 개인정보보호법 위반 혐의로 기소된 A씨 부부에게 유죄를 선고한 원심을 파기하고 사건을 전주지법으로 돌려보냈다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전북 고창의 한 도시형 생활주택 입주자대표회의 회장으로, A씨 부부는 입주민 B씨가 입주자대표회의 동의 없이 출입문 게시판에 공고문을 붙인 것을 문제 삼아 2022년 3월 그를 업무방해 혐의 등으로 고소했다. 이 과정에서 B씨가 공고문을 붙이는 장면이 담긴 CCTV 영상을 그의 동의 없이 경찰에 제출해 개인정보보호법 위반 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;1심은 부부에게 무죄를 선고했지만, 2심은 “비상시에 해당하지 않는 일반 범죄 혐의에 대한 형사 고소 과정에서 피고소인의 인적사항이나 행위를 특정하기 위해 수사기관에 피해자가 촬영된 CCTV 영상을 제출하는 것은 피해자가 동의한 개인정보 수집·이용 및 제공 범위를 벗어난다”며 이들에게 각각 벌금 50만원과 집행유예 1년을 선고했다.&lt;br&gt;&lt;br&gt;대법원은 2심 판결을 다시 뒤집었다. 재판부는 “해당 CCTV 영상은 B씨가 게시판에 공고문을 게시하는 모습을 촬영한 것에 불과할 뿐 사생활을 침해할 우려가 있는 민감 정보 등을 포함하고 있지 않다”며 “수사기관이 CCTV 영상을 수사 이외의 목적으로 사용하거나 제3자에게 제공하는 등의 행위를 할 위험성이 크다고 할 수도 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>하남교육지원청 분리 신설 추진… 임시청사 확보로 첫발</title>
