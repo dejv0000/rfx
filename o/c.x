@@ -13,6 +13,62 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경북대 22명, 부산대 8명, 서울대 2명... 지난해 학폭 가해로 탈락해</title>
+      <link>https://www.chosun.com/national/education/2025/11/02/CHAJGFQ7WRCXDLDLINSCNBWYIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/02/CHAJGFQ7WRCXDLDLINSCNBWYIE/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 05:09:48 +0000</pubDate>
+      <content:encoded>지난해 거점 국립대 6곳이 학교폭력 가해 기록이 있는 지원자 45명을 불합격시킨 것으로 나타났다.&lt;br&gt;&lt;br&gt;2일 강경숙 조국혁신당 의원실이 거점 국립대 10곳에서 받은 자료에 따르면, 지난해 거점 국립대 6곳은 수시 모집에서 37명, 정시 모집에서 8명의 지원자에게 학폭 기록에 대한 감점 조치를 진행했고, 최종적으로 불합격시켰다.&lt;br&gt;&lt;br&gt;학폭으로 탈락한 지원자가 가장 많은 거점 국립대는 경북대였다. 경북대는 수시 19명, 정시 3명에게 학폭에 따른 감점을 줬고, 모두 탈락시켰다. &lt;br&gt;&lt;br&gt;그 다음으로는 부산대(수시 6명·정시 2명), 강원대(수시 5명), 전북대(수시 4명·정시 1명), 경상대(수시 3명), 서울대(정시 2명) 순으로 학폭 기록으로 감점을 받고 탈락한 지원자가 많았다. &lt;br&gt;&lt;br&gt;전남대와 제주대, 충남대, 충북대 등 나머지 국립대 4곳은 지난해 대입에서 학폭 감점을 따로 반영하지 않아 불합격자가 나오지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYOXEPXK3TU3AC7J2JFUVGR7EU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 학교폭력 실태조사 결과/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고3이 치르는 올해 대학 입시부턴 모든 대학이 학폭 기록을 평가에서 감점 요인으로 의무 반영해야 한다. 이에 따라 학폭으로 대학에 가지 못하는 수험생이 더 늘어날 전망이다.&lt;br&gt;&lt;br&gt;학폭 가해에 따른 조치 사항에는 1호 서면사과, 2호 접촉·보복 금지, 3호 교내봉사, 4호 사회봉사, 5호 특별교육·심리치료, 6호 출석 정지, 7호 학급 교체, 8호 전학, 9호 퇴학이 있다. 각 조치 사항에 따라 감점을 얼마큼 줄지는 대학마다 다르게 정할 수 있다.&lt;br&gt;&lt;br&gt;부산대는 학생부 교과와 논술 전형에서 전형 총점 100점 중 1~3호는 30점, 4~5호는 60점, 6~9호는 80점을 감점했다. 학생부 종합은 정성평가 했으며, 정시 모집에선 총점 1000점 중 1~3호 300점, 4~5호 600점, 6~9호 800점을 감점했다. 경북대는 전형 총점에서 1~3호는 10점, 4~7호는 50점, 8~9호는 150점을 감점했다. 전북대는 1~3호 5점, 4~5호 10점, 6~7호는 15점, 8~9호는 50점 감점했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>학생회비 빼돌려 쓴 인하대 학생자치기구 전 간부…징역형 ‘집유’</title>
+      <link>https://www.chosun.com/national/court_law/2025/10/30/O5SUXMPCJFBA3JFIWSJSFC2HEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/30/O5SUXMPCJFBA3JFIWSJSFC2HEI/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 30 Oct 2025 09:08:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인하대 학생자치기구 전 간부가 학생회비를 빼돌려 쓴 혐의로 유죄를 선고받았다. &lt;br&gt;&lt;br&gt;인천지법 형사6단독 신흥호 판사는 30일 업무상 횡령 혐의로 기소된 전 인하대 총대의원회 간부 A씨에 대해 징역 6개월에 집행유예 1년을 선고했다. 또 80시간의 사회봉사를 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2023년 인하대 학생들이 낸 학생회비 등으로 조성된 자치비 7640여만원 중 5430여만원 가량을 빼돌려 쓴 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 총대의원회 전 간부로, 자신의 계좌로 받은 자치비를 각 단과대 학생 자치 기구에 지급하지 않고 100차례 넘게 출금한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 간부 자리에서 물러난 뒤에도 자치비를 반환하지 않다가 횡령 논란이 교내에서 불거지자 뒤늦게 금액을 돌려준 것으로 전해졌다. &lt;br&gt;&lt;br&gt;인하대 총학생회는 당시 입장문에서 “A씨는 본인이 보관하던 자치비를 차명 계좌로 유출했고 반환 요구에도 응하지 않았다”며 그를 형사 고소했다.&lt;br&gt;&lt;br&gt;총대의원회는 총학생회의 예산안을 인준하는 등 총학생회를 견제하는 학생자치기구다.&lt;br&gt;&lt;br&gt;신 판사는 “피해액이 상당하고 합의되지 않았다”며 “피해가 회복된 것으로 보이는 점, 형사처벌을 받은 전력이 없는 점, 범행을 인정하고 반성하는 점 등을 고려했다”고 양형 이유를 설명했다.&lt;b&gt; &lt;/b&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“챙겨주고 싶어서”… 같은 부대 여군 4명 추행한 준위 ‘집유 3년’</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/02/JK7JRXGE2BFMTKBCUVOPVJSCWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/02/JK7JRXGE2BFMTKBCUVOPVJSCWE/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>같은 부대에 근무하던 여군들을 추행한 준사관이 항소심에서도 집행유예를 선고받았다.
+2일 법조계에 따르면 서울고법 춘천재판부 형사1부(재판장 이은혜)는 주거침입 등 혐의로 기소된 A(47)씨에게 원심과 같은 징역 1년 6개월에 집행유예 3년을 선고했다.
+</description>
+      <pubDate>Sun, 02 Nov 2025 05:01:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PTI2DMP3IXRGCD4DBDRHTNNMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법 / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;같은 부대에 근무하던 여군들을 추행한 준사관이 항소심에서도 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 서울고법 춘천재판부 형사1부(재판장 이은혜)는 주거침입 등 혐의로 기소된 A(47)씨에게 원심과 같은 징역 1년 6개월에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;강원도 한 부대에서 준위로 근무했던 A씨는 2019년 동료 여군 B씨에게 “여군을 보면 안쓰럽고 챙겨주고 싶다”며 손깍지를 끼는 등 추행한 혐의를 받고 있다. 2021년엔 술자리에서 B씨의 허벅지 안쪽으로 손을 넣기도 했다.&lt;br&gt;&lt;br&gt;A씨는 또 다른 부사관 C씨의 집을 찾아가 출입문을 두드리고 집에 강제로 침입해 C씨의 종아리와 허벅지를 만지기도 했으며, 같은 대대 소속 소령에게도 손깍지를 끼는 등 여군 4명을 상대로 추행을 저질렀다.&lt;br&gt;&lt;br&gt;1심 재판부는 “건전한 병영문화를 훼손하고 군 기강 확립에 중대한 악영향을 미치는 범죄”라며 A씨에게 집행유예를 선고했으나, A씨는 형이 무겁다며 곧바로 항소했다.&lt;br&gt;&lt;br&gt;항소심에서 A씨는 군인연금법상 금고 이상의 형이 확정되면 연금에 불이익이 발생한다는 이유로 선고유예를 요청했으나 재판부는 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “선고유예는 정말 죄질이 가벼울 때 내리는 판결”이라며 “원심의 형이 너무 무거워서 부당하다고 보이지 않는다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가평군청 공무원 4명, 인허가 대가 1억 수수 혐의로 검찰 송치… 필리핀 골프 접대 정황</title>
+      <link>https://www.chosun.com/national/incident/2025/11/02/LEAXHXYYEBAIBJW2576O2QBLVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/02/LEAXHXYYEBAIBJW2576O2QBLVA/</guid>
+      <dc:creator>가평=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 05:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 가평군청 공무원들이 건축물 준공 인허가를 빨리 처리해 주겠다며 민원인들에게 금품을 받은 혐의로 검찰에 넘겨졌다. 경찰은 내부 첩보를 토대로 장기간 수사한 끝에 일부 공무원들이 조직적으로 인허가 청탁을 받아온 정황을 포착했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 반부패경제범죄수사1대는 뇌물수수 혐의로 가평군청 소속 40대 공무원 A씨를 구속 송치하고, 다른 공무원 3명을 불구속 송치했다고 2일 밝혔다. 이들에게 금품을 건넨 토지주와 측량업자 등 27명도 뇌물공여 혐의로 함께 송치됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 6급과 7급 공무원인 A씨 등은 2018년 11월부터 지난해 12월까지 건축물 준공 인허가와 사용 승인 민원을 신속히 처리해 주는 대가로 1억원 상당의 금품과 향응을 받은 혐의를 받는다. 이들은 인허가 담당 부서에서 근무하며 차용을 가장해 금품을 요구했고, 법적 기준에 미달한 건축물도 사용 승인을 내준 것으로 조사됐다. 또 인사 이동 이후에도 후임 직원들에게 부탁해 청탁을 이어온 것으로 드러났다.&lt;br&gt;&lt;br&gt;뇌물 액수는 건당 80만원에서 많게는 2400만원에 달했으며, 일부는 제주도와 필리핀 등지에서 골프 접대를 받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 올해 2월과 9월 두 차례에 걸쳐 가평군청을 압수수색해 관련 자료를 확보했으며, A씨가 본인과 가족 명의 계좌를 이용해 금품을 수수한 사실도 밝혀냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오늘 밤 서울 첫 한파주의보...내일 올가을 들어 가장 추워</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/11/02/64DKESADCVF47EJ3GHRBJEXXRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/02/64DKESADCVF47EJ3GHRBJEXXRM/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 04:23:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEA24NTWKZIZNFBRUN6GORJ2QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;찬 공기 남하로 '초겨울 추위'를 보인 2일 서울 종로구 경복궁에서 관광객들이 겨울 복장의 옷을 밉고 공연을 지켜보고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;북쪽에서 찬 바람이 내려오며 2일 밤 서울을 비롯한 전국 곳곳에 한파주의보가 발효된다고 기상청이 밝혔다. 3일 출근길은 올가을 들어 가장 추울 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청은 2일 오후 9시를 기해 서울·경기·강원·충청·경상·전북·인천·대전·세종시 등에 한파주의보를 발효한다고 발표했다. 서울은 올가을 들어 처음으로 발효되는 한파특보다. &lt;br&gt;&lt;br&gt;3일 아침 서울의 최저기온이 1도, 체감기온은 0도에 머무는 등 전국 기온은 전날보다 5~10도 가량 떨어질 것으로 보인다. 중부내륙을 중심으로 얼음이 얼고, 서리가 내리는 곳이 있겠다.&lt;br&gt;&lt;br&gt;3일 아침기온은 영하 4도에서 영상 5도, 낮 최고기온은 11~18도로 예보됐다. 한파는 4일에도 이어지면서 최저 영하 1도에서 영상 11도, 최고 13~20도의 기온 분포를 보이겠다.&lt;br&gt;&lt;br&gt;5일에는 최저기온이 영상권을 회복하겠고, 6일부터는 다시 기온이 오를 것으로 보인다. 이어 주말까지는 완연한 가을 날씨를 보이겠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “금호타이어 구내식당 협력업체 근로자들, 불법 파견 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/02/T2L7PURL5BFFPJFHW5QRKZYSCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/02/T2L7PURL5BFFPJFHW5QRKZYSCA/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 02 Nov 2025 04:24:48 +0000</pubDate>
+      <content:encoded>금호타이어 곡성공장 구내식당에서 조리 및 배식 업무를 수행한 협력업체 근로자들이 불법 파견 근로자에 해당하지 않는다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7TTY7G5WBVUTE67DGCNSNP56OM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 2일 협력업체 직원 A씨 등 5명이 근로자 지위를 확인해 달라며 금호타이어를 상대로 낸 소송에서 원고 일부 승소 판결을 선고한 원심을 파기하고 사건을 광주고법으로 돌려보냈다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 1992~2010년 금호타이어 협력업체에 입사해 곡성공장 구내식당에서 조식과 중식, 석식, 야식의 조리 및 배식 업무를 맡았다. 이들은 금호타이어와 협력 업체 사이에 체결된 계약이 근로자 파견 계약에 해당하고, 파견근로자법에서 정한 2년이 지나서도 해당 업무를 수행했다며 2015년 금호타이어가 자신들을 직접 고용해야 한다고 소송을 냈다. 파견근로자법은 파견 근로자 고용 기간이 2년을 넘을 경우 원청이 파견 근로자를 고용해야 한다고 규정하고 있다.&lt;br&gt;&lt;br&gt;1심은 원고의 업무가 타이어 제조 및 판매 등 금호타이어 본래 업무와 내용 및 성격이 명백히 구별되고, 음식의 조리 및 배식 업무 수행에 있어 금호타이어가 구속력 있는 지시를 했다고 보기 어렵다며 불법 파견을 인정하지 않았다. 하지만 항소심은 이와 달리 금호타이어가 소속 영양사들을 통해 원고에게 직·간접적으로 업무수행에 대한 구속력 있는 지시를 하는 등 상당한 지휘·명령을 했다고 봤다.&lt;br&gt;&lt;br&gt;반면 대법원은 원고와 금호타이어 사이에 근로자 파견 관계가 존재한다고 단정하기 어렵다며 사건을 다시 심리해야 한다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 “금호타이어 소속 영양사 등이 식단을 결정하고 작업지시서 등을 작성·제공하였으나, 작업지시서 등의 주된 내용은 재료 종류, 비율, 간단한 조리 방법에 관한 것일 뿐 구체적인 작업 방식이나 요령, 순서 등에 관한 것이 아니었다”며 “업무 수행 자체에 관하여 구속력 있는 지시를 하는 등 상당한 지휘·명령을 했다고 단정하기 어렵다”고 봤다. &lt;br&gt;&lt;br&gt;이들의 업무가 금호타이어의 주된 업무와 명백히 구별된다는 점도 언급됐다. 대법원은 “구내식당 업무를 중심으로 봐도 금호타이어 소속 영양사 등은 식단 선정과 식대료 조달·검수 업무를, 원고들은 조리·배식 업무를 수행했다”며 “원고들이 금호타이어의 사업에 실질적으로 편입돼 있었다고 인정하기 부족하다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 “제출된 증거만으로는 원고들이 금호타이어로부터 지휘·명령을 받는 근로자 파견 관계에 있었다고 단정하기 어렵다”며 “원심이 금호타이어 소속 영양사 등과 원고들이 어떤 방식으로 작업했는지, 금호타이어가 업무수행에 대한 구속력 있는 지시·명령을 했는지, 작업 배치권이나 근로조건에 대한 결정 권한을 행사했는지 등을 구체적으로 심리해 근로자 파견 관계 여부를 판단했어야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>캄보디아 ‘로맨스 스캠’ 유인책 한국인 2명 징역형</title>
       <link>https://www.chosun.com/national/regional/2025/11/02/L7YBDB76DJAJPLMTULCAOKPZQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/02/L7YBDB76DJAJPLMTULCAOKPZQU/</guid>
@@ -870,33 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJQQSODMPJHTZGR6QCBSL6KPXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 이현재 하남시장이 임태희 경기도교육감을 만나 광주하남교육지원청 신설 촉구 건의서를 전달하고 있다. /하남시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;경기 하남시가 전국 첫 통합형 교육지원청 분리 신설에 나선다. 광주하남교육지원청 체계로는 폭발적으로 늘어난 학령인구와 지역별 수요를 감당하기 어렵다고 보고 독립 행정체계를 꾸리기로 했다.&lt;br&gt;&lt;br&gt;하남시는 지난 26일 국회를 통과한 지방교육자치법 개정안에 따라 ‘하남교육지원청’ 신설 절차에 착수했다고 31일 밝혔다. 하남시는 오는 12월 입주가 가능한 종합청사를 확보했으며, 조직 구성을 지원하기 위한 법적 기반도 마련했다.&lt;br&gt;&lt;br&gt;하남은 미사·위례·감일 등 신도시 개발로 교육 수요가 급증했지만 광주와 통합된 행정 구조 탓에 지역 맞춤형 대응이 어려웠던 상황이다. 하남시 관계자는 “이번 신설이 단순한 행정 분리가 아니라 과밀학급 해소와 교육격차 완화를 위한 출발점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;하남시는 그간 과밀학급 문제 해결을 위해 시·교육청·경기도교육청이 참여하는 TF를 꾸려왔으며, 학교용지를 시민에게 무상 제공하는 등 협력 체계를 유지해왔다. 교육부와 경기도교육청은 내년 3월 미사 5중학교(가칭) 개교를 목표로 신설 부지를 확정한 상태다.&lt;br&gt;&lt;br&gt;이현재 시장은 “하남은 인구 유입 속도가 전국에서 가장 빠른 지역 중 하나”라며 “통합 행정체계로는 더 이상 대응이 불가능하다고 판단했다. 신설 교육지원청이 지역 교육행정의 전환점이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘쌀·영화 USB’ 대북전단 강화도서 살포...경찰 “선교 목적으로 확인”</title>
-      <link>https://www.chosun.com/national/incident/2025/10/31/YP53ZR2GDREPHCLSZJLG75P65I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/10/31/YP53ZR2GDREPHCLSZJLG75P65I/</guid>
-      <dc:creator>인천=김수언 기자, 인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 05:21:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GGIVJCAIPWMGIANQDDNAEM4PH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 강화군 전 지역이 대북전단 살포 금지 구역으로 설정됐다는 내용이 담긴 현수막이 걸려 있다. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6월 인천 강화도에서 풍선과 페트병 등을 이용한 대북 전단 살포 시도가 잇따른 가운데 경찰은 모두 ‘선교 목적’으로 결론지었다. 북한 체제 비판 의사가 없었다는 것이다.&lt;br&gt;&lt;br&gt;31일 인천경찰청 반부패경제범죄수사대에 따르면 이 사건을 수사한 경찰은 교회 목사인 40대 남성 A씨와 신도 및 지인 등 20~50대 남녀 8명을 불구속 입건해 검찰에 송치했다. A씨 등은 지난 6월 13일 오후 10시 30분쯤 인천 강화도에서 대북 전단 등이 달린 대형 풍선 10개를 북한을 향해 살포한 혐의를 받는다. 경찰이 적용한 혐의는 항공안전법과 재난 및 안전관리 기본법 위반이다. 경찰은 또 이들 9명 중 1명이 풍선에 주입할 고압가스를 운반하면서 위험물 표시를 하지 않았다고 보고 고압가스 안전관리법 위반 혐의도 추가로 적용했다.&lt;br&gt;&lt;br&gt;당시 이들이 날린 대형 풍선 10개 중 3개의 잔해는 다음 날인 14일 오전 강화군 하점면·양사면과 김포시 하성면에서 잇따라 발견됐다. 이 풍선들에는 선교 목적의 전단지와 한국 영화와 드라마 등이 담긴 USB(이동식 저장 장치), 과자류 등의 물품이 달려있었다.&lt;br&gt;&lt;br&gt;A씨 등은 경찰에 “선교 목적이었다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 수사 결과, 이들은 북한 체제 비판을 목적으로 하는 탈북민 단체 소속이 아니었고, 살포를 지시한 단체나 인물도 따로 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYMERNDI6BFKTNKAIOVKTYDWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2018년 5월 북한자유연합 등 북한 인권단체들이 인천 강화도에서 띄워 보낸 '대북 페트병'. 쌀과 USB 등이 들어 있다. /고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 또 비슷한 시기에 강화도에서 있었던 ‘대북 페트병 살포’ 역시 선교 목적인 것으로 파악했다.&lt;br&gt;&lt;br&gt;경찰은 지난 6월 27일 오전 1시 6분쯤 강화군 하점면 망월돈대에서 20~50대 미국인 남성 6명을 체포했다. 이들은 북한 쪽으로 페트병 1300개를 띄워 보내려다 출동한 경찰에 붙잡혔다. 2L짜리 페트병 안에는 쌀과 1달러 지폐, 한국 영화가 저장된 USB, 돌돌 말린 성경 등이 담겨 있었다. 당시에도 북한 체제를 비판하는 전단이 들어 있지는 않았다.&lt;br&gt;&lt;br&gt;기독교 신자였던 이들은 경찰 조사에서 “선교 목적으로 바다를 통해 성경을 북한에 보내려고 했다”는 취지로 진술했다고 한다.&lt;br&gt;&lt;br&gt;경찰은 이들에게 재난안전법 위반 혐의를 적용해 검찰에 넘겼다.. 당시 이재명 대통령은 대북 전단 살포에 엄정 대응하라고 지시하면서 항공안전법과 재난안전법, 고압가스안전법 등에 따라 처벌하라고 했다.&lt;br&gt;&lt;br&gt;강화군은 작년 11월 강화도 전역을 재난안전법상 ‘위험 구역’으로 지정하고 대북 전단 살포를 금지했다. 북한이 대북 전단을 이유로 ‘오물 풍선’을 살포하고 ‘대남 방송’을 틀던 시점이었다. 이 법 41조에 따르면, 지방자치단체장은 재난이 발생하거나 발생할 우려가 있는 경우 위험 구역을 지정해 출입을 제한하거나 특정한 행위를 금지할 수 있다. 이를 어기면 1년 이하의 징역이나 1000만원 이하의 벌금을 받을 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김용원 인권위원, 해병 특검 출석… “특검, 터무니없는 헛소리”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/G6KCRIGA4ZBOXFCQM23VQEBPLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/G6KCRIGA4ZBOXFCQM23VQEBPLQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 05:30:50 +0000</pubDate>
-      <content:encoded>김용원 국가인권위원회 상임위원 겸 군인권보호관이 31일 오후 순직 해병 특검팀에 피의자 신분으로 출석했다. &lt;br&gt;&lt;br&gt;김 위원은 순직 해병 사건을 초동 수사하다가 항명 의혹에 휘말린 박정훈 해병대 수사단장(대령)의 긴급 구제 조치 신청 등을 기각한 혐의(직권남용 등)를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBLDLKXNI5N77FI7W2CV6MBVNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용원 국가인권위원회 상임위원이 31일 오후 서울 서초구 순직해병 특검팀(이명현 특별검사) 사무실에서 진행되는 피의자 소환조사에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김 위원은 이날 오후 1시 52분쯤 특검 사무실에 출석하면서 “본인을 직권남용죄로 수사하는 것은 법관의 판결을 이유로 법관을 직권남용죄로 수사하는 것과 같은 것”이라며 “대한민국 헌법이 정한 자유민주적 기본 질서를 심각하게 훼손하고 인권위의 존립 근거인 독립성을 근본적으로 부정하는 처사”라고 했다.&lt;br&gt;&lt;br&gt;김 위원은 2023년 8월 9일 순직 해병 사건과 관련해 국방부의 조사 외압을 비판하는 성명을 냈다가, 닷새 뒤인 14일 이종섭 전 국방장관과 통화한 뒤 입장을 바꿨다는 의혹을 받고 있다. 김 위원이 위원장을 맡았던 군인권소위는 같은 해 8월 박 대령의 긴급 구제 조치 신청을 기각했고, 군인권센터가 제기한 인권 침해 관련 진정도 지난해 1월 기각했다. 특검은 김 위원이 이 전 장관과 통화한 것을 계기로 이 같은 결정을 내렸다고 의심 중이다.&lt;br&gt;&lt;br&gt;이에 김 위원은 “박 대령의 인권 침해 진정 사건에 대해 의결 정족수 미충족을 이유로 기각 결정을 내린 것은 인권위법상 규정에 따른 적법한 행위”라며 “그 누구의 어떤 권리 행사도 방해받지 않았다”고 반박했다.&lt;br&gt;&lt;br&gt;또 ‘윤석열 대통령과 박 대령 구제 신청에 관해 논의한 적 있느냐’는 질문에는 “대통령과 그런 걸 왜 논의합니까”라고 반문했다. 이 전 장관과 통화 후 입장을 바꾼 것이 아니냐는 물음에는 “터무니없는 헛소리”라고 일축했다. 이어 “당연히 있는 사실을 그대로 진술할 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;김 위원은 자신을 고발한 군인권센터를 향해 “군 인권이라는 탈을 쓴 활동가들과 일부 정치 세력 등이 군 인권 보호라는 구실로 군 지휘통솔 체계를 무력화하고 있다”면서 “그들이 감추고 있는 목표는 우리나라 국군을 당나라 군대와 같은 오합지졸로 전락시키는 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;아울러 김 위원은 “군인권보호관의 책무는 군 인권을 빈틈없이 보호하는 한편, 국군 붕괴를 획책하는 세력을 철저히 경계하는 것”이라며 “주어진 임기 마지막 날까지 책무를 충실히 다할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“IMF 총재에 칭찬 받아”…APEC서 포착된 ‘고등래퍼’ 하선호</title>
-      <link>https://www.chosun.com/national/national_general/2025/10/31/2ESPOXI5MFGELIREPF6QL5Y3FI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/31/2ESPOXI5MFGELIREPF6QL5Y3FI/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 05:05:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLMMT25PSBHWVEFMMAHKDSFHQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약한 래퍼 출신 하선호./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;래퍼 출신 하선호가 ‘2025 아시아태평양경제협력체(APEC)’ 정상회의 행사에서 도슨트로 활약했다.&lt;br&gt;&lt;br&gt;하선호는 지난 30일 자신의 인스타그램에 APEC 정상회의가 열리는 경주에서 영어 도슨트를 맡아 마이크를 잡고 진행하는 모습이 담긴 사진을 공개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMYQZHA4Q5ETLH7TZHWDUJU6OE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 출신 하선호와 크리스탈리나 게오르기에바 IMF 총재./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하선호는 “IMF(국제통화기금) 총재님, 경상북도 도지사님, 경주시장님 앞에서”라는 설명과 함께 ‘한영아나운서’ ‘영어도슨트’ 등의 해시태그를 덧붙였다.&lt;br&gt;&lt;br&gt;또 그는 “IMF 총재님이 일 잘한다고 칭찬해주셨다”며 크리스탈리나 게오르기에바 총재와 나란히 선 모습이 담긴 사진도 공개했다.&lt;br&gt;&lt;br&gt;서울 외국어고 출신인 하선호는 엠넷 힙합 서바이벌 프로그램 ‘쇼 미 더 머니’와 ‘고등래퍼2’ 등을 통해 얼굴을 알렸다. 2019년 싱글 앨범 ‘돌멩이’를 내며 래퍼로 데뷔했지만 이후 방송 활동을 중단했다.&lt;br&gt;&lt;br&gt;올해 초 영어회화 강사가 됐다는 근황을 알린 하선호는 유창한 영어 실력과 국제 행사 경험을 바탕으로 최근 통역사로도 활동 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘ITS 사업’ 뇌물 수수 의혹... 이민근 안산시장·도의원 등 추가 송치</title>
       <link>https://www.chosun.com/national/national_general/2025/10/31/NPY6JWVD5RFVPLKYCN2NFQYYUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/10/31/NPY6JWVD5RFVPLKYCN2NFQYYUY/</guid>
@@ -904,33 +933,6 @@
       <description/>
       <pubDate>Fri, 31 Oct 2025 03:38:57 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKSOANCWZBZXCRTTBJJ44BM77Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰로고 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시 등의 ITS(Intelligent Transport Systems·지능형 교통 체계) 사업과 관련, 경찰이 뇌물을 챙기거나 향응을 받은 혐의로 이민근 안산시장과 경기도의원들을 추가로 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;안산상록경찰서는 뇌물수수 등 혐의로 이 시장과 현직 경기도의원 5명을 전날 불구속 송치했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;송치된 도의원은 김미숙(민주당·군포3), 김시용(국민의힘·김포3), 서현옥(민주당·평택3), 유종상(민주당·광명3), 황세주(민주당·비례) 의원이다. &lt;br&gt;&lt;br&gt;이 시장은 지난 4월 ITS 관련 사업체를 운영하는 김모씨가 이기환 전 도의원을 통해 건넨 현금 1000만원을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;김씨는 경기도내 여러 지역에서 ITS 구축 사업을 추진하기 위해 전현직 공무원과 경기도의원들에게 뇌물을 건넨 혐의로 지난 8월 구속기소됐다.&lt;br&gt;&lt;br&gt;김씨는 여러 지역에서 ITS 구축 사업을 추진하기 위해 도의원 등에게 “경기도에 관련 특별조정교부금을 배정받을 수 있도록 요청해달라”는 취지의 청탁을 한 것으로 파악됐다. 특조금은 시군의 재정 격차 해소 등을 위해 도지사 재량으로 시군에 지원할 수 있는 예산이다.&lt;br&gt;&lt;br&gt;배정이 확정되면 다른 ITS 관련 업체들과 대리점 계약을 맺은 뒤 업체들이 사업에 선정되면 일정 금액의 수수료를 챙겼던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;함께 송치된 도의원 5명은 지난 2023년 8월부터 작년 7월까지 이 전 도의원으로부터 김씨를 소개받아 골프장 이용료 등 수십만원 상당의 골프 향응 또는 후원금 명목의 금품을 챙긴 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;해당 도의원들은 이에 대한 대가로 특조금이 지자체 ITS 사업에 배정될 수 있도록 직간접적인 영향을 미친 것으로 전해졌다.&lt;br&gt;&lt;br&gt;도의원들 중 2명은 해당 해당 사업과 관련한 특조금 신청서 등 비공개 공문서를 김씨에게 전달한 혐의(전자정부법 위반 및 공무상 비밀누설)도 있다.&lt;br&gt;&lt;br&gt;경찰은 전직 김포시 6급 공무원 A씨도 알선수재 혐의로 함께 불구속 송치했는데 A씨는 퇴직 이후 지자체 공무원을 소개해주는 대가로 김씨로부터 수백만원 상당의 금품을 받은 혐의다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 “비화폰 이틀만에 삭제 안돼...실제 통화내역 남아있다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/6L45IXEZYBHLPO45V6PWW6OSHU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/6L45IXEZYBHLPO45V6PWW6OSHU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 03:30:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PUPR5PIOBBPDKRJHI56I4PLDA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 비상계엄 이후 대통령경호처에 비화폰 서버 삭제를 지시했다는 혐의에 대해 법정에서 직접 부인했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 이날 윤 전 대통령의 특수공무집행방해 등 혐의 재판을 열었다. 이날 재판에 김성훈 전 경호처 차장이 증인으로 출석했다.&lt;br&gt;&lt;br&gt;특검 측이 “김대경 전 경호처 지원본부장이 지난해 12월 7일 비화폰 전자 정보 삭제 지시를 받았다고 했다”고 하자, 김 전 차장은 “삭제 지시를 할 이유가 없고, 수사 과정에서도 그렇고 지금도 상대방 휴대전화에 찍힌 번호를 지울 수 있는 기능이 있을까 의심한다”며 “(비화폰 전자 정보를) 삭제할 수 없다”고 답했다.&lt;br&gt;&lt;br&gt;하지만 이후에도 특검이 김 전 차장에게 ‘지난해 12월 8~9일 김 전 본부장에게 비화폰 통화내역 삭제를 반복적으로 지시했냐’, ‘12월 10일 윤 전 대통령과 통화하며 비화폰 관련 얘기를 했냐’고 재차 물었다. 그러자 윤 전 대통령은 재판장을 향해 “신문과 관련해 도움이 될 것 같다”며 발언을 신청했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “(비화폰은) 이틀 만에 삭제되지 않고 실제 통화 내역이 남아 있었다”며 “비상계엄 이후가 아니라 그전에도 통화 내역이 남아있었다”고 말했다. 또 “경호 목적 때문에 상당 기간 (통화 내역을) 갖고 있다”며 “삭제 이런 건 이뤄지지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 이종섭 등 ‘수사 외압’ 관련자 불구속 기소 전망</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/IUQ2OZVXNJAPTIPJJSF4ABXAKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/IUQ2OZVXNJAPTIPJJSF4ABXAKU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 02:56:31 +0000</pubDate>
-      <content:encoded>순직 해병 특검팀이 ‘수사 외압’ 의혹과 관련된 이종섭 전 국방장관 등에 대해 구속 영장을 다시 청구하지 않고 기소 여부를 판단할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4AHIVTOJUZOKXP72D23ZEQ46FA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;채상병 순직 및 수사 외압·은폐 의혹의 핵심 피의자인 이종섭 전 국방부 장관이 23일 오전 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 31일 오전 언론 브리핑에서 “수사 외압 의혹 관련자들에 대한 구속영장을 재청구하지 않을 것 같다”면서 “당사자와 참고인에 대한 추가 조사를 다음 주 중에 진행한 뒤 정리하려 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관 등이 2023년 7월 윤석열 전 대통령의 이른바 ‘VIP 격노’ 이후, 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 해병대 수사단의 초동 조사 결과를 뒤집기 위해 조직적으로 개입했다고 보고 있다. &lt;br&gt;&lt;br&gt;특검은 이 전 장관과 국방부의 박진희 전 장관 군사보좌관, 김동혁 전 검찰단장, 유재은 전 법무관리관, 김계환 전 해병대 사령관 등 5명에 대한 구속영장을 청구했다. 그러나 법원은 지난 24일 “주요 혐의와 관련해 법리적인 면에서 다툴 여지가 있다”며 모두 기각했다. 그러자 특검은 영장을 다시 청구하기보다는 불구속 상태로 이들을 재판에 넘기는 방안을 검토 중인 것이다.&lt;br&gt;&lt;br&gt;한편 임 전 단장의 구속 기한은 다음 달 11일까지 연장됐다. 특검 관계자는 “법원이 임 전 사단장의 구속 기간 연장을 허가해 다음 달 11일까지로 기한이 연장됐다”면서 “이 기간 안에 기소가 이뤄질 것”이라고 했다. &lt;br&gt;&lt;br&gt;특검은 이날 오후 2시 임 전 사단장을 불러 ‘구명 로비’ 의혹에 대해 조사한다. 임 전 사단장은 지난 24일 증거 인멸 우려를 이유로 구속된 이후, 지난 27일과 30일 두 차례 조사를 받았다. 구속된 이후 이완규 전 법제처장을 변호인으로 선임하면서, 일체 진술을 거부하고 있는 것으로 알려졌다. 특검 관계자는 “임 전 사단장이 진술을 거부하는 구체적인 이유를 밝히지는 않았지만, 법정에 가서 본인 입장을 진술하겠다는 상황”이라고 설명했다. &lt;br&gt;&lt;br&gt;이날 같은 시간에 김용원 국가인권위원회 상임위원 겸 군인권보호관도 피의자로 불러 조사한다. 김 위원은 순직 해병 사건을 초동 수사하다가 항명 의혹에 휘말린 박정훈 해병대 수사단장(대령)에 대한 긴급 구제 조치 신청 등을 기각한 혐의(직권남용 등)를 받는다. 특검은 김 위원이 이종섭 전 국방장관과 통화한 뒤 박 대령의 긴급 구제 조치 신청 등을 기각했다고 보고 있다.&lt;br&gt;&lt;br&gt;특검 관계자는 “김 위원에 대한 조사 양이 많을 것 같아 상황을 봐야 할 것 같다. 필요하면 오늘 이후로도 한 번 정도 더 불러 조사할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백현동 개발 특혜’ 민간업자, 2심 마무리... “법인 피해액 전부 변제, 선처해달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/10/31/OOSKA26W3ZFSRLYLFFPIRKEMKY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/10/31/OOSKA26W3ZFSRLYLFFPIRKEMKY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 31 Oct 2025 02:45:59 +0000</pubDate>
-      <content:encoded>백현동 개발 사업 당시 특혜를 받았다는 의혹이 제기된 민간업자 정바울(아시아디벨로퍼 대표)씨의 항소심 변론이 마무리됐다. 정씨는 “피해를 본 법인들에게 전액을 변제했고, 처벌불원서의견도 받았다”며 원심보다 낮은 형을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRBUQG7YWDRAF7OZ662H5LE7EE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'백현동 개발 특혜 의혹' 사건의 핵심 인물인 정바울 아시아디벨로퍼 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 이날 정씨의 횡령·배임 등 혐의 항소심 재판을 열고 결심 공판을 진행했다. 검찰 측은 “피고인의 항소를 기각해달라”며 1심과 같은 징역 5년을 구형했다. 백현동 개발은 성남시 분당구 백현동 옛 한국식품연구원 부지에 아파트를 세운 사업이다. 정씨가 이재명 대통령의 과거 성남시장 후보 선대위원장 출신인 김인섭씨를 영입한 뒤 성남시가 부지 용도를 4단계 높여주면서 아파트 건설이 가능해졌다. 이후 정씨가 운영하던 아시아디벨로퍼가 3000억원대 분양 수익을 거두면서 특혜 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;정씨 측 변호인은 “피고인이 사업을 추진하는 과정에서 다소 미숙한 방식으로 관계회사를 운영한 사실이 있고, 깊이 반성하고 있다”고 했다. 그러면서 “이 사업은 공공기관 지방 이전의 일환으로 추진된 한국식품연구원 이전과 관련해 정씨가 식품연과 협력해 자금을 조달하고, 분양을 성공적으로 마무리한 사업이라는 점을 평가해달라”고 했다.&lt;br&gt;&lt;br&gt;정씨는 ‘백현동 로비스트’ 김인섭씨에게 사업 관련 부지 용도를 높여달라는 청탁을 한 뒤 74억5000만원을 제공했다는 부분에 대해선 “사업 초기에 매끄러운 의사소통을 위해서 김씨에게 도움을 요청한 것은 맞는다”면서도 “불법 인허가를 받아달라고 청탁한 것은 맹세코 아니다”고 했다. 또 “사업 진행 과정에서 김씨의 기여를 인정할 수 없었지만, 법원의 화해 권고 결정에 따라 돈을 지급할 수밖에 없었다”고도 했다.&lt;br&gt;&lt;br&gt;재판부는 내달 28일 선고를 진행하기로 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[핫코너] 떨이로 전락한 ‘귀족 과일’ 샤인머스캣</title>
