@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘세계 최고 IQ 276’ 김영훈 “한국서 살 수 없어, 미국 망명 신청”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/04/VC3272QE3BF6LIKTISQ2WFTFKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/04/VC3272QE3BF6LIKTISQ2WFTFKA/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 03 Nov 2025 22:28:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC5CPYCQDZAFTHQ5G7VA62ASBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계에서 가장 높은 IQ를 가진 것으로 알려진 김영훈씨가 지난달 30일 자신의 소셜미디어에 미국 망명을 신청한다는 영상을 올렸다. /X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계에서 가장 높은 IQ를 가진 것으로 알려진 김영훈씨가 미국 망명을 신청한다고 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 지난달 30일 자신의 X(옛 트위터)에 1분 35초 분량의 영상을 올렸다. 영상에서 김씨는 영어로 “기독교인이며 세계 최고 IQ 기록 보유자로서 저는 미국에 망명을 신청한다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “성경적 진리를 억압하고 선조들이 지켜내려 싸운 자유를 배반하는 친북 좌파 정부가 지배하는 한국에 더 이상 머무를 수 없다”며 “오늘날 한국 정부는 애국자를 처벌하고, 공산주의자들을 찬양한다”고 했다. 이어 “진리는 범죄가 되었고, 신앙은 표적이 되었다”며 “저는 악에 굴복하지 않겠다. 신앙이 박해받지 않고 보호받는 미국에 피난처를 구한다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 다른 게시물에서는 “더 이상 한국은 존재하지 않는다. 오직 북한만이 존재한다. 한국 정부는 친북 정부가 되었기 때문”이라며 “저는 정치적·종교적 박해를 이유로 도널드 트럼프 대통령 정부에 망명을 신청한 최초의 한국인”이라고 영어로 적었다. &lt;br&gt;&lt;br&gt;김씨는 현재 미국 신학교협회(ATS)의 인가를 받은 미국 신학교의 신학석사 과정에 재학 중인 것으로 알려졌다. 그가 언급한 ‘종교적 박해’는 부산 세계로교회 손현보 담임목사가 지난 9월 구속 기소된 사건을 가리킨 것으로 추정된다. 손 목사는 대선을 앞둔 올해 5월을 전수로 세계로교회 기도회와 주일 예배 등에서 신도들을 대상으로 특정 후보 지지 발언을 하는 등 불법 선거운동을 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;한편, 김씨는 한국기록원과 세계마인드스포츠위원회(WMSC) 등에서 IQ 최고 기록 보유자로 인증받았다고 국내 언론에 여러 차례 보도된 인물이다. WMSC는 홈페이지를 통해 “한국인 김영훈(YoungHoonKim)이 지난 7월 세계기억력대회(WorldMemoryChampionships)에서 IQ 276을 기록했다”고 밝혔다. 한국기록원에 따르면 김씨는 2018년 12월 웩슬러 지능검사 만점(160점), 2022년 2월 웩슬러 표준편차 고지능 검사 만점(204점)을 취득했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>민노총 “새벽 택배 금지”… 기사 93%가 “반대”</title>
       <link>https://www.chosun.com/national/labor/2025/11/04/ZY77WHEL5RA5JF6FOJ6EKEBPBE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/11/04/ZY77WHEL5RA5JF6FOJ6EKEBPBE/</guid>
@@ -792,15 +801,6 @@
       <description/>
       <pubDate>Mon, 03 Nov 2025 02:22:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFEGMNF6KQOAKG232KVIRDXSCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;열대집모기. /AP연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;열대 지방에 주로 서식하며 웨스트나일열 등 감염병을 매개하는 모기인 ‘열대집모기’가 국내에서도 발견됐다.&lt;br&gt;&lt;br&gt;3일 질병관리청에 따르면, 감염병 매개체 감시를 위해 지난 8월 제주 지역에서 채집한 모기 가운데 이전에 국내에서 확인되지 않았던 열대집모기가 새롭게 발견됐다.&lt;br&gt;&lt;br&gt;열대집모기는 집모기류의 하나이다. 우리나라에 서식하는 대표적 모기인 빨간집모기와 형태적으로 매우 유사하지만, 보다 따뜻한 열대 및 아열대 기후 지역에서 서식한다. 보건학자 주인호 박사의 1956년 논문 ‘한국산 모기의 분류’에는 이 모기가 한국 모기 중 하나로 기록돼 있다. 다만 표본이 남아있지 않고, 70년 가까이 한 차례도 발견되지 않았다.&lt;br&gt;&lt;br&gt;유전자 분석 등을 통해 국내에서 열대집모기의 존재가 명확히 확인된 것은 이번이 처음이다. 제주 내 여러 지점에서 발견된 것으로 미뤄 이미 제주에 서식하고 있는 것으로 추정된다.&lt;br&gt;&lt;br&gt;열대집모기가 옮기는 웨스트나일열은 발열과 뇌염, 뇌수막염을 유발할 수 있다. 다만 질병청은 열대집모기가 국내에서 발견됐다고 해서 웨스트나일열 발생 위험이 증가한 것은 아니라고 설명했다. 국내에서는 2012년 아프리카 기니에서 감염돼 입국이 확인된 사례 1건을 제외하고는, 아직 웨스트나일열 환자가 보고되지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘해발 184.2m’ 인천 제3연륙교 전망대… ‘세계 최고 높이’ 인증</title>
-      <link>https://www.chosun.com/national/regional/2025/11/03/AKACQO2YDVCYNDGZSQW4VFU5TA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/03/AKACQO2YDVCYNDGZSQW4VFU5TA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Nov 2025 02:22:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LTAHZ5YY2BGWXNZ473GCH2WDNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공사 중인 인천 제3연륙교./ 인천경제청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해발 184.2m의 인천 제3연륙교 전망대가 세계에서 가장 높은 해상 교량 전망대로 인정받았다. &lt;br&gt;&lt;br&gt;인천경제자유구역청은 미국 세계기록위원회(WRC)가 제3연륙교 주탑 전망대를 ‘세계 최고 높이 해상 교량 전망대’로 인증했다고 3일 밝혔다. &lt;br&gt;&lt;br&gt;이번 인증은 한국기록원(KRI)의 최고 기록 검증과 인증, WRC의 추가 확인 절차 등을 거쳐 확정됐다고 인천경제청은 설명했다. &lt;br&gt;&lt;br&gt;제3연륙교 전망대는 184.2m의 교량 주탑 190㎡ 면적의 공간에 조성된다. &lt;br&gt;&lt;br&gt;인천경제청은 제3연륙교 전망대를 영국 기네스 세계기록(GWR)에 올리는 절차도 밟고 있다. 인천경제청은 연내 기네스 인증이 마무리될 것으로 예상하고 있다. &lt;br&gt;&lt;br&gt;제3연륙교는 인천 영종도와 서구 청라국제도시를 연결하는 해상 교량으로, 길이 4.68㎞, 폭 30m(왕복 6차로) 규모로 건립 중이다. 현재 공정률은 94%로 다음 달 개통이 목표다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “제3연륙교는 인천의 우수한 도시 경관을 전 세계에 알릴 대표적 상징물이 될 것”이라며 “세계가 주목하는 명소로 자리매김하도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>캄보디아 콜센터 두고 대통령실·군 사칭… 노쇼 사기 조직 114명 검거</title>
