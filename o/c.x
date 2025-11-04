@@ -13,6 +13,40 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 “비화폰 서버 삭제 지시 없었죠”...전 경호처 차장 “네”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/04/5IWSO23BKFFNTHJXNTHRLB2VWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/04/5IWSO23BKFFNTHJXNTHRLB2VWE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Nov 2025 11:15:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67OJTMUJA2JDOUKQJ4CVGKPUPU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;비상계엄 해제 이후 윤석열 전 대통령의 ‘비화폰 데이터 삭제’ 지시를 대통령경호처에 하달한 것으로 알려진 김성훈 전 경호처 차장이 “비화폰 통화 기록을 유지하는 것이 목적이었다”고 법정에서 증언했다. &lt;br&gt;&lt;br&gt;김 전 차장은 4일 서울중앙지법 형사35부(재판장 백대현) 심리로 열린 윤 전 대통령의 특수공무집행방해·직권남용 등 혐의 재판에 증인으로 출석해 이같이 말했다. 김 전 차장은 김대경 전 경호처 지원본부장 등에게 이진우·여인형·곽종근 등 군 사령관의 비화폰 통화기록을 삭제하는 지시를 했다는 의혹을 받는다. 김 전 차장은 이와 관련해 “통화 기록을 유지하고 이를 제3자가 보지 못하도록 하는 것이 제 노력이었다”고 말했다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령은 직접 김 전 차장 신문에 나서 “서버를 삭제하라고 한 적 없지 않느냐”고 묻기도 했다. 김 전 차장은 “네”라고 답하고 “(당시 지시는) 비화폰 데이터를 삭제하는 게 아니라 접속을 차단해 비인가자가 비화폰을 보지 못하도록 하는 것”이라고 했다. 수사 방해를 위해 비화폰 통화 내역 등 증거를 삭제하려고 한 게 아니라 접근 권한이 없는 사람이 보지 못하도록 ‘보안 조치’를 했다는 취지다. &lt;br&gt;&lt;br&gt;김 전 차장은 “제가 정보 통신 업무를 18년 넘게 했다”며 “통화기록을 삭제할 수 있을 거라고 생각하지 않는다”고도 했다. 이어 “비화폰이 제3자 손에 들어가 국정 마비가 될 수도 있다고 생각해 상식적 차원에서 지시한 것”이라며 “흔히 카카오톡이나 텔레그램 등 메신저를 로그아웃 하는 것(과 같은 차원)”이라고 했다.&lt;br&gt;&lt;br&gt;이날 재판에는 박종준 전 경호처장도 증인으로 출석했다. 박 전 처장은 올초 고위공직자범죄수사처(공수처)의 윤 전 대통령 체포영장 집행을 저지했다는 의혹에 대해 “현직 대통령에 대해 경호처장이 수사기관에 문을 열어주고 ‘그냥 수갑 차고 가시라’고 할 수는 없었다”고 했다.&lt;br&gt;&lt;br&gt;박 전 처장은 “당시 대통령께서 수사 전반에 굉장히 불만이 많으셨다”며 “탄핵 절차가 시작되기 전 수사를 개시하고 아직 현직 대통령인데 일반 범죄자처럼 소환해 수사한다며 수사 절차에 맞지 않는다고 말씀하셨다”고 했다. 이어 “경호처가 체포 영장 집행을 막을 수 있는 법적 근거는 없다”면서도 “윤 전 대통령 뜻에 따라 대응 방안을 고심했고, 체포 사전 단계에서 필요한 수색 영장에 대해선 공관촌이 군사기밀지역이라는 이유로 불허할 수 있다고 판단했다”고 진술했다. 형사소송법상 군사상 비밀을 요하는 장소는 책임자 승낙 없이 압수·수색할 수 없게 돼 있다. &lt;br&gt;&lt;br&gt;공수처 영장 집행 당시 차벽이 설치된 이유에 대해 박 전 처장은 “관저 주변에 시위대가 많고 어지러운 상황이어서 충돌이 있을 수 있으니 차벽 활용 방안을 검토하라고 12월 초부터 이미 오래 전에 지시했던 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 유승민 전 의원 딸 임용 ‘인천대 교수 채용 특혜’ 고발장 수사</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/04/R7KJV7FGSVHMHIKK747V5CQ4H4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/04/R7KJV7FGSVHMHIKK747V5CQ4H4/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Nov 2025 11:23:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSHZ4BPPI5LTQ5XP4G2ND67BTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2017년 7월 유승민 바른정당 대선후보가 후보 운동을 할 당시 딸 유담(오른쪽)씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유승민 전 의원의 딸 유담씨가 교수로 임용된 인천대학교 채용 절차에 대한 특혜 의혹을 수사해달라는 고발장이 경찰에 접수됐다.&lt;br&gt;&lt;br&gt;인천 연수경찰서는 4일 “이날 공공기록물 관리에 관한 법률 위반 혐의로 인천대 이인재 총장과 교무처 인사팀, 채용 심사 위원, 담당자 등을 수사해 달라는 고발장을 접수했다”고 밝혔다. 유씨는 올해 2학기 인천대 전임 교원 신규 채용에 합격해 글로벌 정경대학 무역학부 교수로 임용됐다.&lt;br&gt;&lt;br&gt;고발장에는 유 교수가 임용된 인천대 채용 과정이 불공정했고, 인천대는 ‘전임 교원 신규 임용 지침’에 따라 영구 보존해야 하는 채용 관련 문서도 보관하지 않고 있다는 내용이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;더불어민주당 진선미 의원은 지난달 28일 열린 인천대 국정감사에서 “31살의 유담 교수가 인천대 무역학부 교수가 된 것에 이의 제기가 많다”며 “(유 교수는) 논문의 질적 심사에서 18.6점으로 16위 정도의 하위권인데 학력, 경력, 논문 양적 심사에서 만점을 받아 1차 심사를 전체 2위로 통과했다”고 주장했다.&lt;br&gt;&lt;br&gt;인천대는 국감 당시 채용 특혜 의혹과 관련해 “내부 지침과 가이드라인에 따라 공정하게 심사가 진행됐다”고 해명했다. 경찰 관계자는 “고발장에 대한 수사를 할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/X7YCTN4JUBCUJLUH3GOJTAP2PI.JPG?auth=d05eb366197610d6bbe3c54d131598e3a66621f0b6076fd9d6145d9c78eec63e&amp;smart=true&amp;width=1755&amp;height=1316" type="image/jpeg" height="1316" width="1755">
+        <media:description type="plain">2017년 7월 유승민 바른정당 대선후보가 후보 운동을 할 당시 딸 유담 씨. 2017.5.7/뉴스1 ⓒ News1 최창호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 최창호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>세종시, ‘세종보 철거’ 불법 농성한 환경단체 경찰에 고발</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/04/AIRF5LAFFJGMPPH5Z3KRRAWZ3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/04/AIRF5LAFFJGMPPH5Z3KRRAWZ3U/</guid>
+      <dc:creator>세종=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 04 Nov 2025 11:51:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFO4CZRPNNBQHPMZULRFALYLEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 세종시 한두리대교 아래에서 노숙 농성중인 환경단체. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세종시가 세종보 철거를 주장하며 1년 넘게 금강변을 불법 점용한 환경단체를 경찰에 고발했다.&lt;br&gt;&lt;br&gt;세종시는 세종보 인근 금강에서 국가 하천을 불법 점용한 환경단체를 경찰에 고발했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;대전 등 전국 환경단체 회원들로 구성된 ‘보 철거를 위한 금강 낙동강 영산강 시민행동’은 세종보 재가동을 앞둔 지난해 4월부터 현재까지 500일 넘게 세종시 금강 한두리대교 밑 세종보 인근 하천에서 세종보 철거를 요구하는 천막 농성을 벌이고 있다.&lt;br&gt;&lt;br&gt;세종시는 지난 9월 16일 이 환경단체에 ‘국가 하천을 무단으로 점유한 행위를 멈추고 불법 시설물을 철거·원상 복구하라’는 내용이 담긴 계고장을 전달했다. &lt;br&gt;&lt;br&gt;이후 최근까지 두 차례 더 원상 복구·천막 철거 명령을 통지하고 공무원들이 수시로 방문해 천막 철거를 요청했지만, 환경단체가 불응하면서 경찰 고발로 이어졌다.&lt;br&gt;&lt;br&gt;환경부는 지난 9월 김성환 환경부 장관과 면담한 환경단체가 세종보 농성을 중단한다고 밝혔지만, 환경단체 측은 불과 몇 시간 뒤 세종보 해체를 요구하며 정부 발표를 뒤집고 농성을 계속 이어가겠다고 발표했다.&lt;br&gt;&lt;br&gt;세종시 관계자는 “국가 하천을 불법 점용한 행위에 대한 법적 제재를 통해 사회 질서를 유지하고 공공 이익을 도모하기 위해 경찰에 고발했다”면서 “하천 시설을 보호하고 안전사고를 예방하기 위한 적법한 절차에 따른 조치”라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TFO4CZRPNNBQHPMZULRFALYLEY.jpg?auth=da2ba9525b52a0586cd3a6ff2d49f99cd8cce9ceee8a0e0809d841144fe3e7d3&amp;smart=true&amp;width=5306&amp;height=3532" type="image/jpeg" height="3532" width="5306">
+        <media:description type="plain">지난 9월 세종시 한두리대교 아래에서 노숙 농성중인 환경단체. /조선일보DB</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>日대학 ‘아시아 톱20′ 2년 연속 이름 못 올려</title>
       <link>https://www.chosun.com/national/education/2025/11/04/MYESKHV7MZGJBJKAIVJBXB7CNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/04/MYESKHV7MZGJBJKAIVJBXB7CNM/</guid>
@@ -828,15 +862,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5VTA2VFPRFA3I3YEG655VOTRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 31일 대구 달성군 국립대구과학관 1층 로비에서 800만번째 관람객인 장현석(오른쪽 두번째)씨와 가족들이 이난희 국립대구과학관장(왼쪽 두번째)에게 축하 기념품을 받고 기념 촬영을 하고 있다./국립대구과학관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 지역 대표 과학 전시·교육 기관인 국립대구과학관(대구과학관)이 관람객 800만명을 돌파했다. 지난 2013년 국내 최초 산업 과학기술관으로 개관한 지 12년 만이다.&lt;br&gt;&lt;br&gt;대구과학관은 지난달 31일 누적 관람객 800만명을 돌파했다고 3일 밝혔다. 지난해 10월 700만명을 돌파했는데 1년 만에 과학관이 위치한 달성군 인구 수(26만명)의 4배에 달하는 관람객이 이곳을 다녀간 셈이다.&lt;br&gt;&lt;br&gt;800만 번째 관람객은 대구시 북구에 거주하는 장현석(40)씨 가족이었다. 과학관 측은 장씨 가족에게 과학관 1년 무료입장권, 축하 꽃다발과 장씨의 아들을 위해 아폴로 우주선의 달 탐사 차량을 장난감 형태로 만든 레고를 기념품으로 선물했다. 장씨는 “아이에게 과학과 관련된 경험을 쌓아주고 싶어 과학관을 찾았는데 가족에게 뜻하지 않은 추억이 됐다”며 “앞으로도 가족, 친구들과 함께 대구과학관을 자주 찾고 주변에도 널리 알리겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VO6EUEOSVRFOBJUEEOVH6ZPT4M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/국립대구과학관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가을을 맞아 대구과학관에선 특별 전시와 천문 관측 등 다양한 행사를 준비 중이다. 상설 2관 앞 사이언트리 갤러리에선 1990년대에 띄운 인공위성의 과학기술을 볼 수 있는 산업 과학기술사 특별전인 ‘인공위성: 우리별, 무궁화, 아리랑’ 전시가 열린다. 당시 프로젝트에 참여했던 원로 과학기술인의 구술 인터뷰와 과학기술 자료를 볼 수 있다. &lt;br&gt;&lt;br&gt;대구 지역 기업이자 국내 100대 자동차 부품 회사인 경창산업이 주관하는 ‘대구뿌리산업’ 전시도 열린다. 과거 내연기관 시대에서 현대의 전기차에 탑재되는 자동차 부품의 변화를 볼 수 있다. 올해 8월부터 진행했던 우주 특별전인 ‘보이지 않는 우주’ 프로그램은 관람객의 호응이 높아 내년 3월 2일까지 전시를 연장했다.&lt;br&gt;&lt;br&gt;오는 5일 오후 6시에는 천체투영관 앞에서 슈퍼문(super moon)을 관측·촬영하고 LED 우주선을 활용한 쥐불놀이를 즐길 수 있는 ‘슈퍼문이 돌아왔다’ 프로그램도 진행된다. 지구와 달의 거리가 가까워지면 달이 크게 보이는데 이를 슈퍼문이라고 한다. 이번 슈퍼문은 지난 2019년 이후 지구와 가장 가깝고 올해 보름달 중 가장 클 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2ZW34ET7R433GQKAWFIM5WCP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 스페인 그란 카나리아섬의 아르기네긴에서 한 가족이 슈퍼문(달이 지구에 가장 가까이 접근할 때(90% 이내) 발생하는 보름달)을 구경하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;상설전시 1관에선 자연에서 발견할 수 있는 과학 원리를 체험할 수 있는 ‘자연 속 과학 현상 존’을 선보이며, 꿈나무과학교육센터에선 인공지능(AI)·로봇 등을 활용한 체험형 교육을 제공한다.&lt;br&gt;&lt;br&gt;이난희 국립대구과학관장은 “지역 주민과 관람객의 꾸준한 사랑과 관심 덕분에 800만명 돌파라는 성과를 이룰 수 있었다”며 “앞으로도 최신 과학 기술을 반영한 다채로운 프로그램을 통해 일상 속 과학 문화 확산에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>조태열 “계엄 국무회의 하자 지적에 이상민 반박… 최상목, 李에 ‘예스맨이니 ‘노’ 못해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/03/5POIS7FDCRAQFKSXTFTSNVI3XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/03/5POIS7FDCRAQFKSXTFTSNVI3XY/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Nov 2025 10:58:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3E5H6HSNHBOTXJI7ACIKRHSAGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 한덕수 전 국무총리가 서울중앙지법에서 열린 내란 우두머리 방조 등 혐의 재판에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조태열 전 외교부 장관은 3일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리의 내란 방조 등 혐의 재판에 증인으로 출석해 계엄 선포 직전 열린 국무회의에서 하자가 있었는지를 두고 국무위원들 간 의견 충돌이 있었다고 증언했다.&lt;br&gt;&lt;br&gt;조 전 장관은 계엄 당일 사전 국무회의 후 윤석열 전 대통령이 계엄을 선포하러 갔을 때, 최상목 당시 경제부총리 겸 기획재정부 장관이 한 전 총리에게 ‘왜 반대 안 하셨습니까. 50년 공직 생활을 마무리하려고 했습니까’라고 강하게 따졌다고 증언했다. 또 최 전 부총리가 이상민 당시 행정안전부 장관에게 ‘너는 원래 예스(YES)맨이니까 노(NO)라고 못했겠지’라고 말한 것으로 기억한다고도 했다.&lt;br&gt;&lt;br&gt;계엄 이튿날 새벽 국회에서 계엄 해제 요구안이 통과된 뒤, 한 전 총리는 국무위원들을 다시 불러 모았다. 당시 한 전 총리가 조 전 장관에게 ‘국무회의 심의가 있었다고 볼 수 있느냐’고 물었고, 이에 조 전 장관은 “‘국무회의가 없었다고 본다. 회의가 있었다고 하면 절차상 문제가 있다’고 말했다”고 증언했다.&lt;br&gt;&lt;br&gt;이어 조 전 장관은 “이 전 장관이 저를 돌아보더니 ‘외교부 장관의 말에 어폐가 있다’며 반박성으로 얘기했다. 그래서 ‘무슨 어폐냐’고 반박했고, ‘요건이 맞춰지지 않아서 심의가 됐다는 건 말이 안 된다’고 했다”고 증언했다.&lt;br&gt;&lt;br&gt;재판부는 오는 5일 이 전 장관과 최 전 부총리, 박상우 전 국토교통부 장관에 대한 증인신문을 진행할 예정이다. 10일에는 김용현 전 국방부 장관과 송미령 농림축산식품부 장관을 증인으로 소환하고, 12일에는 윤석열 전 대통령과 추경호 전 국민의힘 원내대표에 대한 증인신문을 진행할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“소방청장, 이상민과 통화 후 ‘언론사 단전·단수 협조 오면 도우라’ 지시"</title>
       <link>https://www.chosun.com/national/court_law/2025/11/03/WJK7YTLUVFEP3HKJJEZPAT7HH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/03/WJK7YTLUVFEP3HKJJEZPAT7HH4/</guid>
@@ -844,24 +869,6 @@
       <description/>
       <pubDate>Mon, 03 Nov 2025 10:58:50 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JXIWXHPGYA5NWMSJLSVM5645HA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이상민 전 행정안전부 장관이 지난달 17일 서울 서초구 서울중앙지법에서 열린 내란 중요임무 종사 등 혐의 첫 공판기일에 출석해 피고인석에 앉아 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;허석곤 전 소방청장이 12·3 비상계엄 당일 소방청 간부 회의 도중 이상민 전 행정안전부 장관으로부터 “경찰 협조가 오면 언론사 단전·단수를 하라”는 지시를 받고 하달했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;배덕곤 전 소방청 기획조정관은 3일 서울중앙지법 형사32부(재판장 류경진)가 진행한 이 전 장관의 내란 중요임무 종사 혐의 재판에 증인으로 나와 이같이 진술했다. &lt;br&gt;&lt;br&gt;배 전 조정관은 작년 12월 3일 계엄사령관 명의로 포고령 1호가 발효된 후 밤 11시 20~30분쯤 &amp;nbsp;소방청에서 열린 상황판단회의에 참석했다. 당시 회의에는 허석곤 전 소방청장과 이영팔 전 소방청 차장 등 간부 10여명이 있었다고 한다. 배 전 조정관은 “비상계엄이 굉장히 이례적인 일이라 소방당국이 어떻게 해야 하는지 논의하는 자리였다”고 했다.&lt;br&gt;&lt;br&gt;배 전 조정관에 따르면 회의 도중 전화가 울렸고 허 전 청장은 “장관님”이라며 전화를 받았다. 특검 측이 ‘허 전 청장이 장관과 통화하며 특정 언론사 명칭을 언급했는지’ 묻자 배 전 조정관은 “몇 군데를 되뇌이셨다”며 “정확하진 않지만 MBC와 JTBC 등을 말씀하셨던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;허 전 청장은 전화를 끊은 뒤 언론사 몇 군데를 언급하며 “경찰에서 협조 요청이 오면 단전·단수를 하라”고 말했다고 한다. ‘언론사 기능을 마비시키기 위해 단전·단수를 한다고 이해했는지’ 묻는 특검팀 질문에 배 전 조정관은 “그렇게 이해했다”고 답했다.&lt;br&gt;&lt;br&gt;배 전 조정관은 “이후 허석곤 청장님과 이영팔 차장님 두 분이 단전·단수를 상의하면서 ‘언론사 소재가 서울이니까 서울소방재난본부에 연락을 해야 할 것 같다’는 대화를 나눴다”고 했다.&lt;br&gt;&lt;br&gt;‘소방청이 단전·단수를 해선 안 된다’는 등 부정적인 반응을 보였는지 묻자 “그랬던 것 같지는 않다”고 했다. 그는 “회의에서 배석자들에게 의견을 묻지는 않았지만 저는 그 상황에서 소방청이 건축물 단전·단수를 하는 것이 적절한지 신중하게 검토해야 한다는 의견을 피력했다”고 밝혔다. &lt;br&gt;&lt;br&gt;한편, 이 전 차장이 당시 상황판단회의 참석자들에게 회의 내용을 외부에 발설하지 말라고 지시했다는 정황도 나왔다. 특검 측이 “이 전 차장이 참석자들에게 입단속을 지시했다는 내용을 알고 있느냐”고 묻자 배 전 조정관은 “네”라고 했다. 이어 “당시 보안을 지켜야 하는 논의는 없었지만 상황판단회의 내용을 외부에 이야기하는 것은 내용을 떠나 적절하지 않은 것 같다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 전 장관은 비상계엄 당시 시간대별 봉쇄 계획에 따라 특정 언론사에 대한 단전·단수를 지시했다는 혐의 등으로 기소됐다. 이 전 장관 측은 &amp;nbsp;대통령집무실에서 단전·단수 내용이 담긴 소방청 관련 문건을 보고 “문건에 적힌 일이 곧 벌어질 수 있다고 생각해 내용을 전달했고 안전에 유의하라는 당부를 한 것”이라며 혐의를 부인하는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>롯데, 울산역복합환승센터 사업 포기... 합의금 210억 낸다 </title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/11/03/7JRCOKOUP5DWVHGKCIABX7YESE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/11/03/7JRCOKOUP5DWVHGKCIABX7YESE/</guid>
-      <dc:creator>김준호 기자, 김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Nov 2025 11:07:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V6FQVATZQOLSGKEQMXWFNV4FBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산역 복합환승센터 조감도. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;롯데울산개발이 ‘울산역복합환승센터’ 개발에 완전히 손을 떼면서 울산시에 합의금으로 210억원을 낸다.&lt;br&gt;&lt;br&gt;울산도시공사는 롯데울산개발이 추진 중이던 울산역 복합환승센터 개발 사업의 협약 해지에 합의하고, 합의금으로 210억원을 받기로 했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;롯데울산개발은 지난 9월 오프라인 유통시장 침체, 건설 경기 둔화와 금리 인상 등 대내외 여건 악화로 사업 추진이 불가능하다고 판단해 울산도시공사에 먼저 사업 협약 해지와 부지 매수를 요청했다. &lt;br&gt;&lt;br&gt;양측 합의에 따라 롯데 측은 울산도시공사에 합의금 210억원을 지급한다. 이와 별개로 울산도시공사는 지난 2016년 매입했던 사업 부지(7만 5304㎡)와 임시 주차장 등 시설물을 561억원에 재매입하기로 했다. 용지 매매 계약은 올해 말까지 체결한다.&lt;br&gt;&lt;br&gt;‘울산역복합환승센터’ 사업은 2820억원을 들여 울주군 삼남읍 신화리 7만5304㎡ 부지에 연면적 16만7360㎡, 지하 2층~지상 6층 복합 환승 시설을 조성하는 대형 프로젝트다.&lt;br&gt;&lt;br&gt;당초 계획대로라면 2027년까지 이곳에 쇼핑몰, 스포츠 및 키즈, 푸드테마 등 상업시설이 들어설 예정이었다. &lt;br&gt;&lt;br&gt;롯데 측은 2015년 우선협상대상자로 선정됐고, 두 차례 사업 변경을 거쳐 2021년 7월 공사에 착수했다. 2024년 본격적인 개발에 앞서 임시주차장 조성도 완료한 상황에서 사업을 중단하게 됐다. &lt;br&gt;&lt;br&gt;울산도시공사 관계자는 “롯데의 사업 지연으로 울산역세권 활성화가 장기간 미뤄졌지만, 최근 경제자유구역·복합특화단지·도심융합특구 등 주변 개발사업이 본격화되고 있다”며 “새로운 사업 모델을 개발하고 적극적인 투자 유치를 통해 새로운 사업자를 선정하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘한국 온 첫날인데…’ 음주운전 차량이 日모녀 덮쳐 1명 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/03/E3COKYAQHBFQ3D55RPPQBIN5XU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/03/E3COKYAQHBFQ3D55RPPQBIN5XU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 03 Nov 2025 10:59:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TWDI6Q3CRBL7BRQBGNYHVOLDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 사고 현장 모습. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본인 관광객 모녀가 한국에 온 첫날 음주운전 차량에 치이는 사고를 당해 50대 어머니가 숨졌다.&lt;br&gt;&lt;br&gt;3일 서울 혜화경찰서 등에 따르면 30대 남성 A씨는 전날 오후 10시쯤 서울 종로구 동대문역 사거리에서 음주운전을 하다 인도로 돌진해 일본인 관광객 모녀를 들이받았다. 당시 A씨의 혈중알코올농도는 면허 취소 수준이었다. &lt;br&gt;&lt;br&gt;이 사고로 50대 어머니는 심정지 상태로 병원에 옮겨졌으나 끝내 숨졌고, 30대 딸은 무릎 등을 다쳐 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰에 따르면 모녀는 사고 당일 한국에 입국했으며 동대문디자인플라자(DDP)에서 쇼핑을 마친 뒤 낙산 성곽길을 보러 가던 중 변을 당했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 사고 당시 소주 3병을 마셨다고 인정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장을 신청한 뒤 사고 경위를 추가 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 여순사건 희생자 첫 특별재심 청구 … 정성호 법무 “사각지대 구제”</title>
