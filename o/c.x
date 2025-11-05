@@ -13,6 +13,54 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“한국, 하반신만 있는 시체 37구”… 日에 허위정보 퍼뜨린 유튜버 수사</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/05/DXRDS62MC5DPVCYW5ABRWPKB2U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/DXRDS62MC5DPVCYW5ABRWPKB2U/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 13:17:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVU5KMLZZFAOJFWLGQUBYIS6O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘한국에서 훼손된 시신이 많이 발견된다’는 허위 정보를 다룬 대보짱 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 일본에서 활동하는 한국인 유튜버 대보짱에 대한 수사에 착수했다. 96만여 명의 구독자를 지닌 대보짱은 최근 ‘한국에서 훼손된 시신이 많이 발견된다’는 허위 정보를 퍼뜨려 논란을 사고 있다.&lt;br&gt;&lt;br&gt;경찰청은 5일 “최근 일본 온라인을 중심으로 허위 조작 정보를 퍼뜨린 유튜버에 대해 서울경찰청 사이버수사대가 수사에 착수, 엄정하게 대응할 예정”이라며 “이 행위를 중대 범죄로 인식하고 있다. 사실관계를 정확하게 파악한 뒤 관련 법령에 따라 조처할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 유튜브 측에 협조를 요청해 대보짱의 국적과 거주지 등을 확인하고 전기통신기본법 위반 혐의 적용을 검토할 방침이다. 경찰은 대보짱의 행위가 국민 불안감을 조성하고 사회 혼란을 초래하며 국가 이미지를 훼손한다고 판단했다. 또 외국인의 한국 방문 및 투자에도 부정적 영향을 미치는 국익 저해 행위로 보고 있다.&lt;br&gt;&lt;br&gt;앞서 대보짱은 지난달 22일 ‘최근 무비자로 한국에 입국한 중국인 범죄자들의 살인과 장기 매매 문제가 심각하다’는 제목의 영상을 올리고 “한국에서 하반신만 있는 시체가 37구 발견됐고, 비공개 수사 중인 사건만 150건”이라고 주장했다. 근거로 든 건 신원을 알 수 없는 네티즌이 한글로 남긴 같은 내용의 댓글뿐이었다.&lt;br&gt;&lt;br&gt;이 허위 정보는 일본 내 온라인 커뮤니티 등을 중심으로 퍼져나갔고, 한국 내 치안이 붕괴됐다며 공포감을 조성하는 글들도 잇따라 올라왔다. 여러 소셜미디어에선 “한국 여행 가기 무섭다”는 글이 이어지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 측정 거부 후 도주… 침묵하던 161만 유튜버, 40일 만에 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/05/ZYTELZVG3NG55A5NBLJ7EEYUOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/ZYTELZVG3NG55A5NBLJ7EEYUOQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 11:57:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NPOMYQBNBCNXASMPEZBI5EZ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 상해기. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 161만명을 보유한 유명 유튜버 상해기(34·본명 권상혁)가 음주 운전 의혹 약 40일 만에 사과했다.&lt;br&gt;&lt;br&gt;상해기는 최근 유튜브 채널 커뮤니티에 글을 써 “오랜 시간 아무 말씀 드리지 못해 정말 죄송하다”며 “그동안 죄책감과 두려움, 저를 믿어주셨던 분들에게 실망을 드렸다는 생각에 어떤 말을 꺼내야 할지 쉽게 결정하지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “많은 시간을 혼자 보내면서 자신을 깊이 돌아봤다”며 “제 행동이 얼마나 잘못된 것이었는지, 그리고 그로 인해 얼마나 많은 분께 상처를 드렸는지 하루하루 반성하며 지내고 있다”고 했다. 그러면서 “저를 아껴주셨던 분들, 기다려주신 분들 모두에게 진심으로 사과드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;상해기는 지난 9월 21일 오전 3시 40분쯤 서울 강남구에서 송파구까지 이동하던 중, 음주 운전 의심 신고를 받고 출동한 경찰의 음주 측정 여러 차례 요구를 거부하고 도주한 혐의를 받는다. 애초 사건은 ‘구독자 160만명 이상의 유명 유튜버 A씨’로 언론에 알려졌으나, 온라인상에선 구독자 수와 먹방 콘텐츠를 다뤄왔다는 점 등을 근거로 A씨가 상해기라는 추측이 이어졌다.&lt;br&gt;&lt;br&gt;유튜브 영상엔 입장 표명을 요구하는 구독자 댓글도 쏟아졌다. 이후 A씨가 과거 2020년과 2022년에도 음주 운전으로 처벌받은 전력이 있다는 보도가 나오면서 비난 여론은 더 거세졌다. 그러나 상해기는 장기간 침묵을 유지했고 인스타그램 계정도 비공개로 전환했다. 유튜브 영상은 사건 발생 당일 올라온 먹방이 마지막이며, 그 사이 구독자 약 4만명이 이탈한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6NPOMYQBNBCNXASMPEZBI5EZ4I.jpg?auth=8fb04c39bb2c7601d0968d7c178268a2805c5f0882e57a7f6619bdb76a04bfc5&amp;smart=true&amp;width=645&amp;height=503" type="image/jpeg" height="503" width="645">
+        <media:description type="plain">유튜버 상해기. /유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>종묘 앞 141.9m 건물 논란에... 오세훈 “그늘 안 생긴다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/05/H3VSB7ZRCZFC3D5PKQCIX73YHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/H3VSB7ZRCZFC3D5PKQCIX73YHQ/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 11:29:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4SV3G6GOERDU5HGTJ4H5R6XCLA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오후 서울 세운상가와 종묘 일대의 모습. 서울시는 종묘 맞은편 세운4구역에 최고 높이 142m의 고층 빌딩을 세울 수 있게 계획을 변경한다고 시보에 고시했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장은 5일 서울시가 종로구 종묘(宗廟) 앞 재개발 지구에 최고 높이 141.9m 건물들이 들어설 수 있도록 규제를 완화한 것을 두고 논란이 이는 데 대해 “시뮬레이션을 해보니 (종묘에는) 그늘이 생기지 않는다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 오전 서소문 빌딩 재개발 착공식에서 “서울시가 개발에 눈이 멀어 빌딩 높이를 높여 문화유산인 종묘를 그늘지게 한다는 일각의 오해가 있다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 세운4구역 재개발 사업에 대해 “종묘를 돋보이게 하기 위한 목적에서 만들어진 건 아니다”라면서도 “세운상가를 쭉 허물어가면서 그 옆에 민간의 자본을 활용해서 빌딩들이 지어지고 재개발이 되는데, 거기에 빌딩 높이를 좀 높여주는 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 민간 자본으로 재개발을 추진하면서 빌딩 높이를 높여주는 대신, 그 과정에서 나온 잉여 자금으로 세운상가를 허물고 녹지 면적을 확보하는 게 서울시 계획이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “(사업이 완료되면) 종묘 앞 폭 100ｍ 정도의 녹지가 저쪽 남산까지 쭉 뻗어나가게 된다”며 “그것이 진정으로 종묘를 돋보이게 하고 문화유산을 더 상징적으로 가꿔내고 보존하면서도 도심을 재창조하고, 녹지 생태 도시를 이루는 사업”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “관공서나 문화유산이 있는 곳 주변의 건축물에 대해 높이 제한을 둬 권위를 이어가겠다는 것은 고정관념”이라며 “가치 체계에 대한 새로운 토론이 필요한 시점”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 서울시는 종묘 앞에 있는 재개발 지구인 세운4구역의 높이 계획을 변경하는 안을 지난달 30일 고시했다. 종묘 쪽은 55m에서 98.7m로, 청계천 쪽은 71.9m에서 141.9m로 완화했다. 이렇게 되면 세운4구역에 25~35층 빌딩을 지을 수 있는 요건이 된다. 세운4구역은 북쪽으로 종묘, 남쪽으로는 청계천과 연접해 있다.&lt;br&gt;&lt;br&gt;이에 대해 국가유산청은 3일 “서울시가 유네스코에서 권고하는 절차를 이행하지 않은 채 종묘 인근에 있는 세운 4구역 재정비 촉진 계획을 변경 고시한 것에 대해 깊은 유감”이라며 “앞으로 문화유산위원회, 유네스코 등과 국내외적으로 필요한 조치를 검토할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘日 모녀 참변’ 음주 운전자 구속... 법원 “도망 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/05/AD257N33DFFGTKTR7WOMRG5744/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/05/AD257N33DFFGTKTR7WOMRG5744/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 11:43:27 +0000</pubDate>
+      <content:encoded>서울 도심에서 음주 운전을 하다 일본인 관광객 모녀를 치어 어머니인 50대 여성을 숨지게 한 30대 남성이 5일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7X5EQCXCJNPP7ABCCE2TYX7Q6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;도로교통법상 음주운전과 특정범죄가중처벌법상 위험운전치사상 혐의를 받는 서 모씨가 5일 서울 서초구 서울중앙지방법원에서 열린 영장실질심사에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장 전담 부장판사는 이날 도로교통법상 음주운전 및 특정범죄가중처벌법상 위험운전치사상 혐의를 받는 30대 남성 서모씨의 구속영장 실질심사를 진행한 뒤 “도망할 염려가 있다”며 서씨를 구속했다.&lt;br&gt;&lt;br&gt;서씨는 지난 2일 오후 10시쯤 만취한 상태로 전기차를 몰다 동대문역 인근에서 횡단보도를 건너던 일본인 모녀를 친 혐의를 받는다. 오후 1시 16분 포승줄에 묶인 채 법원에 도착한 서씨는 ‘유족에게 할 말 있느냐’는 질문에 작은 목소리로 “죄송합니다”라고 답한 뒤 법원으로 들어섰다.&lt;br&gt;&lt;br&gt;모녀는 2박 3일 일정으로 한국을 찾은 첫날 낙산 성곽길을 보러 가다가 참변을 당했다고 한다. 피해자 유족들은 이날 우리나라를 찾아 서씨의 변호인과 면담을 가질 예정인 것으로 전해졌다. 서씨는 경찰에 “피해자 측에 시신 운구와 장례 비용을 지급하겠다”는 의사를 전달한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOO2SSDMJBP2ZNSXR5E7C3IIOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;음주운전 차량이 인도로 돌진해 일본인 모녀 중 어머니가 숨진 가운데 3일 서울 종로구 동대문역 사거리의 차도와 인도 사이에 세워진 볼라드가 충격으로 휘어져 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“업자에 카드 받아 사용”...용인시 간부공무원, 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/05/UTCT5WA4AZG4RL4F3KQ3MLDHTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/UTCT5WA4AZG4RL4F3KQ3MLDHTE/</guid>
+      <dc:creator>용인=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 10:33:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DQNLGMQYDAZLCGU4WKMLCGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인동부경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인시의 한 간부 공무원이 관련 업자로부터 카드를 제공받아 사적으로 사용한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;5일 경찰 등에 따르면 이 사건을 수사한 경기 용인동부경찰서는 지난달 말 뇌물 수수 혐의로 용인시 4급 공무원 A씨를 검찰에 송치했다. 경찰은 A씨에게 뇌물을 준 것으로 알려진 업자 B씨도 뇌물공여 혐의로 함께 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 B씨로부터 신용카드를 받은 것으로 알려졌다. A씨는 이 카드를 사적으로 쓰면서 수백만 원을 결제한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 지난 5월 관련 첩보를 입수해 수사에 착수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천항 ‘화물 절도’ 혐의 수사 받던 前부두운영사 직원 숨진 채 발견</title>
       <link>https://www.chosun.com/national/incident/2025/11/05/P3JV7XZ4EJBEHHPX54SQYY56HE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/05/P3JV7XZ4EJBEHHPX54SQYY56HE/</guid>
@@ -891,42 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월세방에서 출산한 신생아를 보육원 앞에 유기한 외국인 유학생이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대전경찰청 여성청소년과는 아동복지법 위반(아동 유기 등) 혐의로 20대 베트남 국적 A씨와 연인관계에 있는 B씨를 불구속 입건해 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 23일 오후 7시 20분쯤 대전 유성구의 한 월세방에서 남아를 출산한 뒤 6시간 만인 24일 오전 1시 20분쯤 서구의 한 보육원 앞에 아기를 유기한 혐의를 받고 있다. 같은 베트남 국적인 B씨는 A씨의 신생아 유기를 도운 혐의를 받는다.&lt;br&gt;&lt;br&gt;같은 날 오전 7시 50분쯤 환경미화원이 보육원 앞에서 쓰레기를 수거하다가 옷가지에 쌓여있는 아기를 발견해 보육원 관계자에게 신고했다.&lt;br&gt;&lt;br&gt;출동한 경찰은 아기를 병원으로 옮긴 뒤 방범카메라(CCTV) 영상을 분석하는 등 수사에 착수해 이틀만인 지난달 26일 주거지에서 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;A씨는 유학생 신분으로 학생비자를 받아 한국에 입국했고, 임신했을 때는 비자가 갱신되지 않아 불법체류자 신분이었던 것으로 파악됐다. 그는 “베트남에 있는 부모의 허락 없이 출산해서 무서웠다”며 “키울 수 없을 것 같아 스마트폰으로 보육원을 검색한 뒤 아기를 가져다 놓았다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 출산 후유증을 겪자 진료를 받을 수 있게 돕는 한편 법무부에 출국 금지를 요청한 후 신생아 유기 경위를 파악 중이다.&lt;br&gt;&lt;br&gt;경찰은 이번 주 중 이들에 대한 수사를 마무리하고 불구속 송치할 방침이다.&lt;br&gt;&lt;br&gt;열흘 정도 병원에 입원했던 아기는 건강한 상태로 퇴원해서 현재 아동보호센터에 인계돼 보호를 받고 있다. A씨는 “아이를 자신이 키우겠다”는 뜻을 밝힌 것으로 알려졌다. &lt;br&gt;&lt;br&gt;대전 서구는 신생아를 임시 보호하면서 이들 모자에 대한 행정적 지원 방안을 강구하고 있다. &lt;br&gt;&lt;br&gt;서구 관계자는 “산모의 병원 진료 기록이 없고, 의료인도 없이 출산해서 신생아 출생 증명이 어려운 상황”이라며 “주한 베트남 대사관 측에 출생신고와 국적 부여 등을 요청했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 한학자 구속집행 정지 허가... 7일 오후 4시까지 일시 석방</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/04/YDO4RFQOKBHKHGK2SPNBBNZY7A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/04/YDO4RFQOKBHKHGK2SPNBBNZY7A/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Nov 2025 08:59:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMQOXTVWXYA62KJ36YHKZ2Y3JI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치자금법 위반 등 혐의로 구속기소된 한학자 세계평화통일가정연합(통일교) 총재가 일시적으로 풀려난다. 4일 서울중앙지법 형사27부(재판장 우인성)는 한 총재가 신청한 구속집행 정지 신청을 받아들여 오는 7일 오후 4시까지 석방한다고 밝혔다. &lt;br&gt;&lt;br&gt;구속집행 정지는 법원이 직권으로 구속된 피고인을 일시적으로 석방하는 결정이다. 보통 직계가족 장례나 심각한 지병 등 긴급한 사유가 있을 때 인정된다. 결정 즉시 효력이 발생하고 보석과는 달리 보증금 조건이 붙지 않는다.&lt;br&gt;&lt;br&gt;앞서 한 총재 측은 건강 문제를 이유로 지난 1일 법원에 구속집행 정지를 신청했다. 한 총재 측 변호인은 “녹내장 말기로 안과 수술이 예정돼있다”며 “수술하고 회복하는 데 필요한 일정을 최소한으로 계산해 신청한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 재판부는 일시 석방 기간 한 총재의 주거를 병원 구내로 제한하고 의료인과 신분증을 패용한 변호인 외 다른 사람과 접촉하거나, 사건과 관련해 연락해선 안 된다는 조건을 걸어 구속집행 정지를 허가했다. 도망하거나 증거를 인멸해선 안 되고, 구속집행 정지 기간 중에도 소환을 받은 때는 출석해야 한다는 조건도 붙었다. &lt;br&gt;&lt;br&gt;한 총재는 윤영호 전 통일교 세계본부장과 공모해 2022년 1월 권성동 국민의힘 의원에게 정치자금 1억원을 교부하고 20대 대선 전 통일교 자금으로 국민의힘 광역시도당 등에 1억4400만원을 쪼개기 후원한 혐의(정치자금법 위반) 등으로 지난달 구속기소됐다. &lt;br&gt;&lt;br&gt;한 총재는 윤 전 본부장과 2022년 7월 두 차례에 걸쳐 김건희 여사에게 그라프 목걸이 등 명품을 건넨 혐의(청탁금지법 위반), 이를 마련하기 위해 통일교 자금을 빼돌린 혐의(업무상 횡령)도 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고성 화진포서 승합차에 불... 내부서 시신 1구 발견</title>
-      <link>https://www.chosun.com/national/regional/2025/11/04/TGJHEJIKDRCDZOM2C7PCNGU46U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/04/TGJHEJIKDRCDZOM2C7PCNGU46U/</guid>
-      <dc:creator>고성=정성원 기자</dc:creator>
-      <description>강원 고성군 화진포 둘레길 인근 공터에 세워진 차량에서 불에 탄 시신이 발견돼 경찰이 수사에 나섰다.</description>
-      <pubDate>Tue, 04 Nov 2025 09:15:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QVDJIS4GOZC3JNVUKURMQSMUWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 강원 고성군 거진읍 화진포 한 공터에 세워진 차량에서 불이 나 소방대원들이 진화 작업을 벌이고 있다. 차량 내부에선 불에 탄 시신 1구가 발견됐다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 고성군 화진포 둘레길 인근 공터에 세워진 차량에서 불에 탄 시신이 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;4일 오전 10시 12분쯤 강원 고성군 거진읍 화진포 둘레길 인근 공터에 세워져 있던 쉐보레 승합차에서 불이 났다는 신고가 소방 당국에 접수됐다.&lt;br&gt;&lt;br&gt;불은 출동한 소방대원에 의해 30여 분 만에 꺼졌지만, 차량 뒷좌석에서 불에 탄 시신 1구가 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 부검을 의뢰해 사망자의 신원과 정확한 사인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천 영흥도 갯벌서 어패류 잡던 40대 女, 바닷물 휩쓸려 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/11/04/ZZJXEFEYS5EWXJHIBU5B62W2JI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/04/ZZJXEFEYS5EWXJHIBU5B62W2JI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Nov 2025 09:14:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5CNDNZNJT5HRLMTNNQYNGRROTU.png"&gt;&lt;figcaption&gt;&lt;small&gt;해양경찰 로고. /해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 영흥도 농어바위 인근 갯벌에서 어패류를 잡던 40대 여성이 바닷물에 휩쓸려 숨졌다. &lt;br&gt;&lt;br&gt;4일 인천해양경찰서 등에 따르면 이날 낮 12시 24분쯤 인천 옹진군 영흥면 농어바위 인근 해상에서 “아내가 떠내려가고 있다”는 남편의 신고가 접수됐다. &lt;br&gt;&lt;br&gt;당시 인근 해상에 있던 어선이 10여 분 뒤인 낮 12시 43분쯤 바닷물에 떠내려가던 40대 여성 A씨를 구조했고, 신고를 받고 출동한 해경은 심정지 상태의 A씨를 경비함정에 태워 진두항으로 이동했다. A씨는 119구급대에 의해 인근 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;해경은 A씨가 남편과 함께 갯벌에서 어패류를 잡다가 갑자기 불어난 바닷물에 휩쓸려 사고를 당한 것으로 보고 구체적인 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;남편은 아내를 구하기 위해 물에 들어갔다가 갯바위에 고립됐으나 구조돼 건강에는 이상이 없는 상태인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>회삿돈 6억 빼돌려 생활비 탕진 40대 경리 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/11/04/NFWIFC2FW5EKTNHENTIL6UZ2VY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/04/NFWIFC2FW5EKTNHENTIL6UZ2VY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Nov 2025 09:06:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXA2CCYHRNPEQN25CECPSYBADM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지법 서부지원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수년간 6억원이 넘는 회삿돈을 빼돌려 생활비로 탕진한 경리에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;4일 법조계에 따르면, 부산지법 서부지원 형사1부(재판장 김주관)는 특정경제범죄 가중처벌법상 횡령 혐의로 기소된 40대 여성 A씨에게 징역 3년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;부산 사하구 한 회사의 경리였던 A씨는 2017년 7월 6일부터 2022년 4월 4일까지 자신의 계좌로 회삿돈 약 6억6995만원을 빼돌린 뒤 개인 빚을 갚거나 생활비로 사용한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 회사 계좌에서 인터넷뱅킹 대량 이체 방식으로 이체할 경우 송금받는 상대방의 계좌번호, 예금주, 은행 등이 거래 내역서에 표시되지 않는 점을 악용해 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “A씨의 범행으로 피해 회사는 큰 경제적 타격을 받았다. 하지만 A씨는 100만원만 변제하는 등 피해 회복이 제대로 이뤄지지 않아 회사가 엄벌을 탄원하고 있다”면서 “다만 A씨가 이전에 형사처벌을 받은 전력이 없는 점 등을 종합적으로 고려해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘경영권 승계용 일감 몰아주기’ 정도원 삼표 회장 불구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/11/04/CDCB3OJPE5FXNK7XFVBW6QFVIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/04/CDCB3OJPE5FXNK7XFVBW6QFVIE/</guid>
@@ -943,15 +955,6 @@
       <description/>
       <pubDate>Tue, 04 Nov 2025 04:54:41 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH3RVS2HTBEVBHMOKF6HQCL2HA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 성시경/ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 성시경이 오랜 시간 함께한 매니저에게 금전적 피해를 본 사실이 알려진 가운데, 유튜브 활동을 한 주 쉬어가겠다고 밝혔다. &lt;br&gt;&lt;br&gt;성시경은 4일 자신의 유튜브 채널을 통해 “이번 주 한 주만 쉬겠다. 미안하다”고 공지했다.&lt;br&gt;&lt;br&gt;전날 성시경과 10년 넘게 호흡을 맞춘 매니저가 업무상 문제를 일으켜 성시경과 그와 관련된 외주업체, 관계자들에게 금전적 피해를 입힌 사실이 알려졌다. 해당 매니저는 현재 퇴사한 상태다.&lt;br&gt;&lt;br&gt;소속사 에스케이재원은 공식 입장을 통해 “성시경 전 매니저는 재직 중 업무 수행 과정에서 회사의 신뢰를 저버리는 행위를 한 것으로 확인됐다”며 “당사는 내부 조사 결과 사안의 심각성을 인지했고, 정확한 피해 범위를 확인 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;이후 성시경은 인스타그램을 통해 직접 심경을 털어놨다. 그는 “최근 몇 개월이 참으로 괴롭고 견디기 힘든 시간의 연속이었다. 믿고 아끼고 가족처럼 생각했던 사람에게 믿음이 깨지는 일을 경험하는 건 데뷔 25년 동안 처음 있는 일도 아니지만, 이 나이 먹고도 쉬운 일이 아니더라”고 했다. &lt;br&gt;&lt;br&gt;이어 “유튜브나 예정된 공연 스케줄을 소화하면서 몸도 마음도 목소리도 많이 상했다는 걸 느끼게 됐다”며 “솔직히 이 상황 속에서 정말 무대에 설 수 있을지, 서야 하는지를 계속해서 자문하고 있었다”고 했다.&lt;br&gt;&lt;br&gt;성시경은 “정신적으로나 육체적으로나 자신 있게 괜찮다고 말할 수 있는 상태가 되고 싶다”면서 연말 공연과 관련해 “늦어도 이번 주 내에 결정해서 공지하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이천수, 억대 사기 혐의 피소…“돈 빌려 간 후 연락 두절”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/04/EM363DM2EFHERLC6UNJLTNHGZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/04/EM363DM2EFHERLC6UNJLTNHGZQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 04 Nov 2025 01:52:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWK53FYEORWYAGPUGCEQSQU5K4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 축구 국가대표 이천수. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 국가대표 축구 선수 이천수(44)가 수억 원대 사기 혐의로 피소된 사실이 알려졌다. &lt;br&gt;&lt;br&gt;4일 제주경찰청 등에 따르면 최근 제주경찰청은 이천수를 특정경제범죄가중처벌등에 관한 법률 위반(사기) 혐의로 입건했다. 지난달 제주 서귀포경찰서에 이천수에 대한 고소장이 접수됐고, 이후 제주경찰청으로 사건이 이관됐다. &lt;br&gt;&lt;br&gt;고소인 A씨는 평소 친하게 지내던 이천수에게 2018년 11월부터 2021년 4월까지 생활비 명목으로 수차례에 걸쳐 총 1억3000여 만원을 빌려줬다고 주장하고 있다. 하지만 이천수는 이후 A씨와 연락을 끊었고, 돈을 갚겠다고 약속했던 2023년 말까지도 빌린 돈을 변제하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 A씨는 이천수가 2021년 외환 선물 거래 사이트에 5억원을 투자하면 매달 수익금을 배분하고 원금도 반환하겠다며 투자를 권유해 이천수 지인에게 5억원을 송금했지만 일부인 1억6000만원만 돌려받았다는 주장도 하고 있다. &lt;br&gt;&lt;br&gt;이천수 측은 돈을 받은 사실은 인정하면서도 A씨가 그냥 쓰라고 준 돈이라며 혐의를 부인하고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;외환 선물 거래 사이트 투자 권유 건에 대해선 소개를 해주거나 투자하라고 권유한 사실이 없다는 입장이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 조선닷컴과의 통화에서 “해당 건으로 고소장이 접수된 것은 사실”이라며 “자세한 내용은 알려줄 수 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
