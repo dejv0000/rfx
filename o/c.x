@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>위급 산모 태운 구급차, 경찰차에 가로 막혔다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/RIXE2DX3GNESLB3LR2D7FRNVLE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/RIXE2DX3GNESLB3LR2D7FRNVLE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 22:46:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIA2RBVXOZCOFBLIPXUMZBTCIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구급차 앞에 정차 중인 순찰차와 길을 터주는 버스./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 사고를 당해 위급한 산모를 이송하던 구급차가 경찰차에 가로막혀 교차로에서 정차한 일이 알려져 논란이 일고 있다.&lt;br&gt;&lt;br&gt;6일 경찰 등에 따르면 지난달 30일 오후 9시쯤 부산 서구 구덕운동장 인근 구덕사거리에서 사설 구급차가 부산대병원으로 산모를 이송 중이었다.&lt;br&gt;&lt;br&gt;당시 산모는 SUV 차량에 배가 깔리는 교통사고를 당해 위중한 상태였던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;도로 위 차량들의 양보를 받아 이동하던 구급차는 신호가 빨간불로 바뀌면서 1차로에 정차해 있던 순찰차 뒤에 멈춰 섰다.&lt;br&gt;&lt;br&gt;구급차는 사이렌을 울리며 “응급 환자 이송 중이다. 양보해 달라”고 방송했지만, 순찰차는 움직이지 않았다.&lt;br&gt;&lt;br&gt;이후 2차로에 있던 관광버스가 길을 비켜주면서 산모는 병원으로 옮겨졌으나, 끝내 산모와 태아 모두 숨진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KANKLXNITJGYBCNRK65SKWFZWM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;구급차 앞 정차 중인 순찰차와 길을 터주는 버스./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고 전문 한문철 변호사 유튜브 채널에는 당시 상황이 담긴 영상이 올라왔다. &lt;br&gt;&lt;br&gt;영상을 보면 구급차가 1차로에서 신호 대기 중이던 순찰차에 가로막히자, 2차로에 정차 중이던 관광버스는 신호 위반을 무릅쓰고 길을 터준 뒤 정상 신호를 받고 진입하는 차량들을 막아준다. &lt;br&gt;&lt;br&gt;영상을 제보한 구급차 운전자는 “경찰차는 단 0.1초도 비켜주지 않았고 브레이크에서 발 한 번 떼지 않았다”며 “병원 인계 후 몇 초도 안 지나 심정지가 온 환자 모습을 보니 이전 상황이 떠올라 화가 났다. 긴급 자동차 양보 의무라는 법이 있는데 그걸 잘 아는 경찰관들이 왜 그랬는지 알고 싶다”고 했다.&lt;br&gt;&lt;br&gt;한 변호사도 “골든타임이라는 게 있지 않나”라며 “순찰차가 앞으로 나가 차들을 막아줬으면 10~15초는 빨리 갈 수 있었을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SWNDGN7LUVHKREKMOQPZTS47CM.gif"&gt;&lt;figcaption&gt;&lt;small&gt;구급차가 지나가던 당시 순찰차 블랙박스 영상./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 당시 순찰차를 운전하는 경찰관이 뒤에서 접근하는 구급차를 인지하기엔 시간이 너무 짧았다는 입장이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “주행하던 구급차가 2∼3차로를 주행하다가 1차로에 서 있던 순찰차 뒤로 왔다”며 “구급차의 존재를 인지했을 때는 이미 버스가 자리를 비켜 구급차가 2차로로 빠져나가던 중이었는데 이 모든 것이 2∼3초 찰나에 발생했다”고 해명했다.&lt;br&gt;&lt;br&gt;이어 “순찰차 좌측에 중앙 분리대, 우측에 대형 버스가 있었고, 앞쪽은 좌회전하는 차량이 이동하고 있어 순찰차가 이동했다면 오히려 구급차가 통과하기 어려웠던 상황”이라며 “구급차가 있었다는 것을 알았다면 경찰은 오히려 에스코트하거나, 상황실에 보고해 신호를 통제하는 등 지원했을 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TLKZN5KM7NDDDMYOZCWI4RP23Q.gif?auth=f645dee56d83fb2c99df9ec60c916704b509b57344f375cfb456e30316ba5edf&amp;smart=true&amp;width=400&amp;height=225" type="image/jpeg" height="225" width="400">
+        <media:description type="plain">구급차 앞 정차 중인 순찰차와 길을 터주는 버스./유튜브</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>삼국사기 판본 기부한 서울대 동문 부부 “역사에 보탬 됐으면”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/KTP6TKUID5CGRIY76VQ2E6AP6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/KTP6TKUID5CGRIY76VQ2E6AP6Q/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 05 Nov 2025 22:37:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PSXIW2EYQJBTFNWH4FKGX2IMPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오후 서울대 관악캠퍼스 규장각에서 삼국사기 판본 기증식이 열렸다. 왼쪽부터 판본을 서울대에 기증한 이도영·이윤경씨 부부, 정긍식 서울대 규장각 한국학연구원장./서울대 발전재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이렇게 낡은 책도 기부가 될까요?”&lt;br&gt;&lt;br&gt;지난 8월 한 서울대 동문 부부가 서울대 발전 재단을 찾았다. 수십 년 전부터 소장해온 고서(古書) 2책을 기부하기 위함이었다. 서울대 발전 재단은 규장각에 감정을 의뢰했고 기증된 고서는 16세기 인출(印出·인쇄)된 ‘삼국사기’ 판본인 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;감정에 참여한 옥영정 한국학중앙연구원 교수는 본지 통화에서 “기증받은 판본은 옥산서원본과 같은 책판에서 인쇄한 것으로, 국보로 지정된 옥산서원본보다 더 이른 시기에 찍은 것으로 보인다”고 했다. 규장각 관계자는 “한국 고대사 연구는 물론 조선 전기부터 중기까지 판본학 연구에 매우 귀중한 자료”라고 했다.&lt;br&gt;&lt;br&gt;삼국사기 판본을 기증한 것은 서울대 의과대학 63학번 동문 이도영(81)씨와 간호학과 65학번 이윤경(79)씨다. 지난 3일 본지와 만난 이씨 부부는 이도영씨의 어머니인 고(故) 민영의씨와 함께 1970년대 서울 종로구 인사동의 고서점에서 이 판본을 구매했던 순간을 잊지 못한다고 했다.&lt;br&gt;&lt;br&gt;기증본은 이씨 부부의 가족이 다 같이 지켜온 책이기도 하다. 이윤경씨는 “당시는 사회가 워낙 혼란스러울 때였다”며 “우리 시어머니는 와중에도 인사동이나 장안동에 쌓인 고서적을 보면 ‘너무 귀중한 자료가 이렇게 날아가 버리는 건 아닐까’ 하고 아까워하셨다”고 회상했다.&lt;br&gt;&lt;br&gt;당시 고서를 구매할 것을 권한 것은 이도영씨의 외삼촌이던 고(故) 민영규 연세대 명예교수였다. 양명학의 대가인 그는 이씨 부부에게 “지금은 가치를 알지 못한다고 세상에서 사라지게 내버려둘 수는 없지 않으냐”고 자주 말했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXZIYFFICFGJBBTCNDTNVXNTMA.PNG"&gt;&lt;figcaption&gt;&lt;small&gt;이도영·이윤경씨 부부가 서울대 기증한 삼국사기 판본./서울대 발전재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨 부부는 이 삼국사기 판본을 한지로 겹겹이 싸서 관리해 왔다고 한다. 규장각은 “판본의 보존 상태가 매우 훌륭하다”고 했다. 이씨 부부가 50년 넘게 소장한 판본을 기증한 것은 역사를 지키기 위함이었다고 했다. &lt;br&gt;&lt;br&gt;이도영씨는 “요즘은 소셜미디어에 떠도는 유언비어로 잘못된 역사가 알려지는 일이 너무 많다”며 “결국 역사의 뿌리를 지키는 것은 정확한 기록과 객관적인 자료” “이 기증본이 우리나라 역사에 보탬이 되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;이씨 부부는 앞으로 “지금도 어느 집에는 국보만큼 귀중한 고서가 잠들어 있을지 모른다”고 했다. 이윤경씨는 “‘별것 아니겠지’ 하는 마음에 이 책을 세상에 꺼내보지도 못했다면 평생 이렇게 소중한지 몰랐을 것”이라며 “다른 분들도 오래된 책들을 세상에 다시금 꺼내보는 기회가 있길 바란다”고 했다.&lt;br&gt;&lt;br&gt;이도영씨는 “요즘엔 모든 것을 돈으로 가치를 따지는데 그런 눈으로는 귀중한 자료를 알아보지 못할 수도 있다”며 “중요한 것은 역사다. 후세대가 역사를 배우고 깨닫는 게 있다면 그 무엇보다 가치 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이씨 부부는 지금까지 서울대 장학기금과 시설기금 등에 수억 원 기부하는 등 나눔을 이어오기도 했다. 이도영씨는 자신의 모교이면서도 아들인 이상훈(51)씨의 모교이기도 한 의과대학에 장학기금을 출연했으며 이윤경씨는 간호대학 관악캠퍼스 건립을 위한 기금을 기부했다.&lt;br&gt;&lt;br&gt;한편 판본을 기증받은 서울대 발전재단은 조선왕조실록, 승정원 일기 등을 소장하고 있는 규장각으로 넘겨 보정·관리할 예정이라고 밝혔다. 규장각은 판본의 디지털 이미지를 촬영해 온라인에 공개할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MMNUWGA6TJAUHOYTF2AM5UEWWE.PNG?auth=17518e209b641e9fc27a5868d2604eb10fd70d34b5e78c5ca773fc2716309f06&amp;smart=true&amp;width=504&amp;height=378" type="image/png" height="378" width="504"/>
+    </item>
+    <item>
       <title>41억원대 사기꾼, 2년간 도피 생활 끝에 핼러윈 순찰 중이던 경찰에 뜻밖의 검거</title>
       <link>https://www.chosun.com/national/national_general/2025/11/06/KEVRTQ7EKVGELLXAZXHXMPJIGI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/KEVRTQ7EKVGELLXAZXHXMPJIGI/</guid>
@@ -878,24 +900,6 @@
       <description/>
       <pubDate>Tue, 23 Sep 2025 00:16:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시하는 이유로 전 동거녀의 아들을 흉기로 찌른 80대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 진주경찰서는 지난 22일 오후 6시 35분쯤 진주시 상대동 한 주택에서 옛 동거녀의 아들인 50대 B씨를 흉기로 찌른 혐의(살인미수)로 A씨를 체포했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 전화 통화 중 말다툼을 벌이다 흉기를 챙겨 B씨 집으로 찾아가 흉기로 B씨를 살해하려 한 혐의를 받는다. 당시 현장에는 B씨의 아내도 있었다고 한다. &lt;br&gt;&lt;br&gt;B씨는 인근 병원에서 치료받고 있으며, 의식이 없는 상태인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 전 동거녀의 아들이 평상시 자신을 무시했고, 범행 당일에도 전화통화 중 반말과 함께 자신을 무시하는 것 같아 화가 나 범행했다는 취지로 진술했다”고 했다. &lt;br&gt;&lt;br&gt;경찰은 정확한 경위를 조사한 후 구속영장을 신청할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이별 통보한 연인 거가대교서 살해하려 한 20대 구속 송치</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/10/24/5PQJATWNRNCUBFRDGIIUJ7FU5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/10/24/5PQJATWNRNCUBFRDGIIUJ7FU5Q/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 24 Oct 2025 07:56:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이별을 통보한 여자 친구를 거가대교 위에서 흉기로 찔러 살해하려 한 20대 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경남 거제경찰서는 살인 미수 혐의로 A씨를 구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 15일 오전 5시 50분쯤 거제시 장목면 부산 방향 거가대교 위에서 정차한 차량 안에서 여자 친구 20대 B씨의 얼굴과 목 등을 미리 준비한 흉기로 찔러 살해하려 한 혐의를 받는다. A씨는 B씨가 차에서 탈출해 도주하려 하자 뒤따라가 “같이 죽자”며 다리 난간 밖으로 밀어 바다에 빠뜨리려고 했다. &lt;br&gt;&lt;br&gt;B씨는 뒤에 오던 차량에 도움을 요청했고, 차량 운전자가 B씨를 태워줘 목숨을 건졌다. 병원으로 이송된 B씨는 다행히 생명에는 지장이 없는 것으로 전해졌다. &lt;br&gt;&lt;br&gt;A씨는 이 차량 운전자의 신고로 출동한 경찰에 현행범으로 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 두 사람은 3년 가량 교제한 사이로, 사건 전날 거제에 1박 2일 여행을 왔다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 귀가하는 과정에서 B씨에게 이별을 통보받자 다투는 과정에서 범행을 저지른 것으로 보고, 구속해 조사한 뒤 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대낮 거제 골프장서 캐디 흉기에 찔려 숨져</title>
-      <link>https://www.chosun.com/national/2025/09/05/B22KO7CG3BEJ3FAQWFJ7YNDIS4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/09/05/B22KO7CG3BEJ3FAQWFJ7YNDIS4/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Sep 2025 05:10:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제의 한 골프장에서 근무 중인 캐디가 과거 사실혼 관계의 남성이 휘두른 흉기에 찔려 숨지는 사건이 발생했다. 피의자는 자해 후 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;5일 경남경찰청에 따르면 이날 오전 10시 35분쯤 거제시 한 골프장에서 A(50대)씨가 이 골프장 캐디(경기보조원)인 B(여·50대)씨를 흉기로 찔렀다.&lt;br&gt;&lt;br&gt;목 등을 크게 다친 B씨는 인근 병원으로 이송됐지만 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 범행 직후 자신의 배를 찌르는 등 자해한 후 병원으로 옮겨져 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 두 사람이 과거 사실혼 관계였다가 최근 헤어져 따로 지내왔던 것으로 파악했다. &lt;br&gt;&lt;br&gt;A씨는 이날 흉기를 미리 준비하고, B씨가 일하는 골프장을 찾아갔다. A씨는 골프장 작업자인 것처럼 옷을 입는 등 신분을 숨긴 채 이날 캐디로 홀 주변에서 근무 중이던 B씨에게 다가가 이 같은 범행을 저지른 것으로 경찰은 보고 있다. 당시 경기가 진행 중이라 현장 목격자가 많았던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 범행 직후 자해해 병원으로 이송되면서 정확한 범행 동기 파악은 이뤄지지 않은 상태”라며 “A씨가 회복하는 대로 정확한 사건 경위를 조사하고 구속영장을 신청할 방침”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김구는 왜 안중근 외아들을 “교수형 시키라” 했나 </title>
