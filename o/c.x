@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>소방당국 “울산 발전소 매몰자 1명 사망”...다른 1명 사망 추정</title>
+      <link>https://www.chosun.com/national/2025/11/07/MM3N336QJNBBHHAPEPFAVQIYJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/07/MM3N336QJNBBHHAPEPFAVQIYJE/</guid>
+      <dc:creator>김준호 기자, 울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 21:50:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3LMIT2YKJLRBPYIEULEFEXZUQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 새벽 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 붕괴 사고로 인한 매몰자 중 구조를 기다리던 1명이 숨졌다.&lt;br&gt;&lt;br&gt;울산소방본부는 7일 “오전 4시 53분쯤 구조 대상자가 구조 중 심정지로 의사의 사망 판정을 받았다”고 밝혔다.&lt;br&gt;&lt;br&gt;숨진 김모(44)씨는 전날 오후 3시 45분쯤 발견돼 소방 당국이 중점적으로 구조 작업을 벌이던 매몰자 중 1명이다.&lt;br&gt;&lt;br&gt;구조대원들은 전날부터 이날 새벽까지 김씨를 구조하려고 1~2명씩 교대로 좁은 틈을 뒤집고 들어가 바닥을 파내고 철근 등을 잘라내면서 그에게 접근했다. 의료진과 영상 통화를 하며 지도를 받아 진통제를 투여하고, 담요 등도 전달하며 구조 작업을 이어갔으나 김씨에게 심정지가 발생했다.&lt;br&gt;&lt;br&gt;사고 현장에서 의료 지도를 한 김선휴 울산대학교병원 권역응급의료센터장은 “구조 과정에서 요구조자의 심정지가 발생했고 심폐소생술을 했지만 사망했다”며 “사고 충격으로 혈전이 발생했거나 장기 손상, 내부 출혈 등으로 사망했을 가능성이 있다고 판단한다”고 말했다.&lt;br&gt;&lt;br&gt;이번 사고로 첫 사망자가 나온 가운데 소방당국은 또 다른 매몰자 1명도 사망했을 가능성이 높은 것으로 보고 있다.&lt;br&gt;&lt;br&gt;전날 오후 2시 2분쯤 한국동서발전 울산발전본부 울산화력발전소에서 60ｍ 높이 보일러 타워가 무너져 9명이 매몰됐다. 이중 2명은 구조됐고, 사망자를 제외한 6명이 매몰된 상태다.&lt;br&gt;&lt;br&gt;소방 당국은 가용 인력과 장비를 모두 동원해 수색 및 구조 작업에 총력을 기울이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KFDXAVZPHVCELAAWQGE4PP663Q.gif?auth=6bcdbd5291845a144e00f6d1c0372d844bc246c8e8976c1f8610af680021d572&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500">
+        <media:description type="plain">울산 구조작업- 7일 새벽/ 짤1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>앞뒤 안맞는 백해룡 “마약 밀수범 진술 바뀌는 건 당연한 일”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/07/53LAUTQOGVH37NWKQVPLJUCXYA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/53LAUTQOGVH37NWKQVPLJUCXYA/</guid>
@@ -910,15 +922,6 @@
       <description/>
       <pubDate>Wed, 05 Nov 2025 15:47:00 +0000</pubDate>
       <content:encoded>김건희 여사가 ‘건진법사’ 전성배씨에게 두 차례 샤넬 가방을 받은 사실을 처음으로 인정하며 “부적절한 처신으로 국민 여러분께 실망을 안겨 드린 데 대해 깊이 반성하고 있다”고 5일 밝혔다. 김 여사 측은 앞서 지난 3일 이 같은 내용의 의견서를 재판부에 제출했다고 한다.&lt;br&gt;&lt;br&gt;김 여사 변호인단은 이날 김 여사 입장이 담긴 보도자료를 내고 “김 여사는 공소사실 중 전성배씨에게 두 차례 가방 선물을 받은 사실을 인정하고 있다”며 “다만 그 과정에서 통일교와의 공모나 어떠한 형태의 청탁·대가 관계도 존재하지 않았다”고 했다. 이어 “처음에는 가방을 거절했으나 전씨의 설득에 이를 거절하지 못한 잘못을 통감하고 있다”며 “해당 선물들은 사용한 바 없이 이미 과거에 전씨에게 모두 반환했다”고 주장했다. 다만 김 여사는 전씨와 윤영호 전 통일교 본부장이 전달했다고 인정한 그라프 목걸이 수수에 대해선 “명백히 부인한다”고 했다. 그동안 김 여사는 어떤 선물도 받은 바 없다고 혐의를 전면 부인했었다.&lt;br&gt;&lt;br&gt;특검은 지난 8월 김 여사가 전씨를 통해 윤 전 본부장에게서 ‘통일교 현안’ 청탁과 함께 2022년 4월 800만원 상당의 가방 1개, 7월 6220만원짜리 그라프 목걸이 1개와 1200만원 상당 샤넬 가방 1개를 받았다며 특가법상 알선수재 혐의를 적용해 기소했다. 가방 두 개는 김 여사 측근인 유경옥 전 대통령실 행정관이 샤넬 매장을 방문해 가방 3개와 신발 1켤레로 교환한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 여사가 뒤늦게 금품 수수 사실을 인정하자 법조계에선 “거짓말을 반복하며 스스로 신뢰를 무너뜨리고 있다”는 평가가 나왔다. 지난 4월 처음 의혹이 불거졌을 때는 “유씨가 (김 여사 모르게) 전씨의 심부름을 한 것으로 김 여사는 가방을 받은 적이 없다”고 했고, 지난 8월 특검 조사 때는 금품 수수 혐의를 일체 부인했다. 김 여사는 또 2022년 나토 순방 때 착용한 시가 6000만원 상당의 ‘반 클리프 아펠’ 목걸이에 대해 “10여 년 전 홍콩에서 어머니 선물로 산 모조품”이라고 주장했으나, 특검 수사 과정에서 이봉관 서희건설 회장이 직접 매장에서 구매해 김 여사에게 선물했다는 내용의 자수서를 냈다.&lt;br&gt;&lt;br&gt;김 여사의 입장 변화는 최근 전씨가 재판에서 김 여사 측에 금품을 전달했고, “잘 받았다”는 전화도 받았다며 기존 진술을 번복한 것이 영향을 미친 것으로 보인다. 그러나 통일교의 청탁과 관련성이 없다고 주장하는 것은 재판에서 알선수재죄가 안 된다고 주장하기 위한 방어 전략으로 풀이된다. 김건희 특검팀 관계자는 이날 “그간 특검 수사와 공판에서 한 진술이 모두 거짓이었다는 점을 바탕에 두고, 그라프 목걸이 수수 등 혐의도 입증하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 이 사건 재판부는 “26일 최종 의견 진술을 들은 뒤 심리를 끝내면 될 것 같다”며 이달 안에 1심 재판을 마무리하겠다는 계획을 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카톡으로 날아온 ‘스트레스 해소법’</title>
-      <link>https://www.chosun.com/national/incident/2025/11/06/UGZPHEYX5ZGGXOZ3KKRXGOENRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/06/UGZPHEYX5ZGGXOZ3KKRXGOENRM/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 15:47:00 +0000</pubDate>
-      <content:encoded>북한 해킹 조직이 북한 인권 운동가 김은주씨의 컴퓨터를 해킹해 김씨의 지인들에게 악성 코드를 유포한 정황이 확인됐다. 2006년 탈북한 김씨는 북한 내부의 인권 문제를 꾸준히 제기해 왔다. 지난 5월 미국 뉴욕에서 열린 유엔총회 북한 인권 고위급 회의에 참석해 북한 인권의 실상을 증언하고 우크라이나 파병을 비판하기도 했다.&lt;br&gt;&lt;br&gt;경기남부경찰청 안보사이버수사대는 지난 9월 김씨의 신고를 받고 수사에 나서 이 같은 정황을 확인했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면, 누군가 김씨의 카카오톡 계정에 무단 접속해 김씨의 지인 36명에게 ‘스트레스를 해소하는 프로그램이니 다운받아 보라’는 메시지를 보냈다. 김씨인 것처럼 지인의 이름을 부르고 “마음을 정리하고 기분을 전환하는 데 많은 도움이 된다”고 추천하기도 했다.&lt;br&gt;&lt;br&gt;그러나 메시지를 보낸 건 해커였고 메시지에는 악성 코드가 담긴 파일이 첨부돼 있었다. 카카오톡 PC 버전에서 이 파일을 클릭하면 컴퓨터 내부의 정보가 유출되는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김씨가 곧바로 지인들에게 해킹 사실을 알려 추가 피해는 발생하지 않았다고 한다.&lt;br&gt;&lt;br&gt;경찰은 악성 코드의 구조가 과거 북한 해킹 조직이 사용했던 것과 유사하다고 밝혔다. 경찰은 해킹 조직이 김씨의 컴퓨터를 장악한 뒤 내부에 설치된 카카오톡 계정으로 악성 코드가 담긴 파일을 유포한 것으로 보고 있다. 경찰 관계자는 “김씨와 김씨 주변에 있는 북한 관련 인물들의 정보를 빼내려고 한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“양자컴 국내 첫 도입… 첨단 연구 맨앞 설 것”</title>
