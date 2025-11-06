@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>개업자금 2000억원 사기 대출한 의사·약사 278명 檢 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/11/06/NRZ2WFRWGFAMTPHBLUAFPW5W4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/06/NRZ2WFRWGFAMTPHBLUAFPW5W4Y/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 13:59:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX7RBIZDWNCA5H5HYKCHC3S7N4.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 수서경찰서는 의사 249명과 약사 29명, 브로커 2명을 지난 9~10월 사기 혐의로 검찰에 넘겼다고 6일 밝혔다. 이들은 2022년부터 2년여간 병원·약국 개업을 위해 허위로 예금 잔고를 부풀려 2000억원가량 사기 대출을 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;신용보증재단은 창업을 준비하는 사람들에게 그 유망성을 평가해 최대 10억원까지 대출해 주는 ‘예비 창업 보증 제도’를 운영한다. 자기 자본의 최대 100%까지만 대출 보증서를 발급받을 수 있다. 이에 자금이 부족한 개원의들이 더 많은 금액을 대출받기 위해 브로커에게 수수료를 주고 돈을 잠깐 빌려 신용보증기금에 잔고를 증명한 뒤, 다시 돈을 돌려주는 방식으로 잔고를 늘려 대출을 받아왔다고 조사됐다. 돈이 없는 창업자들을 위해 만든 제도를 악용한 것이다.&lt;br&gt;&lt;br&gt;송치된 브로커 중 1명은 불법 대출을 받았던 의사들에게서 대출금을 돌려받고 잠적하는 등 2차 사기를 벌인 것으로 드러났다. 피해자는 80명, 피해 금액은 총 568억원이라고 한다.&lt;br&gt;&lt;br&gt;경찰은 불법 대출에 연루된 신용보증재단 직원 1명과 중간에 돈을 댔던 이들에 대해서도 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 운전하다 경찰차·화물차 들이받은 30대 여성 입건</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/UHOWTBLKONDI3I3KVZFNG6L43Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/UHOWTBLKONDI3I3KVZFNG6L43Q/</guid>
+      <dc:creator>이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 13:59:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XOOTEFTJBH4DLR4FZUCMQRA5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전을 하다 경찰차와 화물차를 연달아 들이받은 30대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 과천경찰서는 도로교통법 위반(음주 운전) 혐의로 A씨를 입건했다고 6일 밝혔다. A씨는 이날 오전 10시쯤 과천시 중앙동의 한 도로에서 음주 상태로 스포츠유틸리티차량(SUV)을 몰다 중앙선을 침범했다. 이 과정에서 A씨는 마주 오던 경찰차를 들이받은 뒤, 1t 화물 트럭과도 충돌했다. &lt;br&gt;&lt;br&gt;이 사고로 경찰관 2명과 트럭 운전자, A씨 등 4명이 경상을 입고 인근 병원으로 이송돼 치료를 받았다. A씨의 혈중알코올농도는 면허 취소 수준이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 병원에서 치료를 끝내는 대로 정확한 음주 및 사고 경위에 대해 조사할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘두산밥캣 입찰담합’ 전직 임직원 등 16명 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/B7PILNI6ERCA7MOO4376SUAYX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/B7PILNI6ERCA7MOO4376SUAYX4/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 12:04:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQOZDVUEJEXRHQAG47Y7NTF7Q.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 광역수사단. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;100억원대 입찰 담합 의혹과 관련해 두산그룹의 핵심 계열사인 두산밥캣 자회사 두산밥캣코리아의 전직 임직원 등이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;서울경찰청 반부패수사대는 지난달 말 두산밥캣코리아 전직 임직원 1명과 협력업체 임직원 15명 등 16명을 금품수수 혐의 등으로 검찰에 불구속 송치했다고 6일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 두산밥캣은 지난해 7월 두산밥캣코리아에 대한 경영 진단 및 내부 감사에서 전현직 임원들의 배임 정황을 적발했다고 공시하고 경찰에 수사를 의뢰했다.&lt;br&gt;&lt;br&gt;회사 측은 내부 감사를 통해 전직 고위 임원 A씨가 개인 소유 건물을 짓는 과정에서 협력업체에 조경 공사와 정원 관리 등을 맡기고 그 대가로 입찰 담합 등을 벌인 정황을 포착한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 수차례 두산밥캣 본사 등에 대한 압수수색을 벌여 100억원대 입찰 담합 및 금품수수 정황을 파악한 것으로 전해졌다. 경찰은 배임 관련 혐의에 대해서도 계속 수사 중이다.&lt;br&gt;&lt;br&gt;경찰은 의혹의 정점에 있는 A씨에 대해서는 수사를 계속할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>드론 수질 측정, 석촌호수 수질 정화...韓 ‘물 테크’ 스타트업, CES 혁신상</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/11/06/XEUSVSOY2JH7LHXIXS3I2OKCZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/06/XEUSVSOY2JH7LHXIXS3I2OKCZE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 13:08:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTVO4P7BHNJU5DPTUXE4GURB64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 석촌호수 물 위로 붉고 노랗게 물든 단풍나무와 은행나무가 비추고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동호(東湖)와 서호(西湖) 두 곳으로 이뤄진 서울 석촌호수는 한 달에 한 번 수질 정화 작업을 한다. 석촌호수는 한강 물을 끌어와 채우기 때문에 물을 그대로 방치하면 녹조가 껴왔다. 그런데 2021년부터 국내 스타트업이 개발한 친환경 약품을 통해 수년째 1~2급수의 수질을 유지하고 있다.&lt;br&gt;&lt;br&gt;이 기술을 개발한 ‘젠스’를 비롯해 한국수자원공사(수공)과 물산업 분야에서 협력하고 있는 스타트업 7곳이 세계 최대 IT 전시회 ‘CES 2026’에서 혁신상을 수상했다고 수공이 6일 밝혔다. 수공은 전문가 기술 자문 및 컨설팅 등을 통해 국내 물 관련 스타트업을 지원하고 있다.&lt;br&gt;&lt;br&gt;드론을 활용한 수질 측정 기술을 개발한 ‘둠둠’이 국내 물 테크 기업으로는 처음으로 최고혁신상을 받았다고 수공은 전했다. &lt;br&gt;&lt;br&gt;광학 기반 스마트 수질 측정기를 만든 ‘리바이오’, 정수장 등 시설물 점검을 위한 인공지능(AI) 자율주행 로봇을 선보인 ‘모빌리오’, 인공위성 누수 탐지 시스템의 ‘스텔라비전’, 광촉매·고분자 전해질 기반 수생태 복원 기술의 ‘젠스’, 태양광 기반 그린수소 생산 기술의 ‘하이랩’, 미세 물방울을 활용한 소독부산물 제거 기술의 ‘화우나노텍’은 혁신상을 받았다.&lt;br&gt;&lt;br&gt;수공은 2023년부터 국내 물 기업들과 CES에 참가하고 있다. 물 관련 산업은 신기술이 개발돼도 이를 실증할 공간이 없다는 문제가 있었다. 수공은 정수장을 비롯해 하천, 저수지 등에서 기술 실증이 가능하도록 돕는 한편, 전문가 자문 등도 지원하고 있다. 내년 열리는 CES 2026에는 기업 20곳이 함께 할 예정이다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “이번 성과는 AI 등을 활용한 물 분야의 혁신 기술을 한국이 주도하고 있다는 것을 보여주는 것”이라며 “물 부족, 수질 악화, 노후 물 인프라 점검 등 물과 관련된 문제들이 국내 기업의 기술로 해결되는 시대가 올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>노소영 “엄마아빠 사진 붙인 아이들 선물에 가슴이 아려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/JLDDBB6DFFHXDA3SCD6W634GJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/JLDDBB6DFFHXDA3SCD6W634GJY/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 11:34:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7VYY4377JBLLIXINKJVBUIJWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;노소영 아트센터 나비 관장이 6일 인스타그램을 통해 공개한 사진. 과거 자녀들에게 받은 도화지 선물로, 최 회장과 노 관장의 얼굴 사진 위에 종이로 만든 턱시도와 드레스가 꾸며져 있다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노소영 아트센터 나비 관장이 최태원 SK그룹 회장과의 이혼이 확정된 데 대한 소회를 밝혔다.&lt;br&gt;&lt;br&gt;노 관장은 6일 자신의 인스타그램에 추억이 담긴 물건들을 찍은 사진을 올리고 “짐을 싸며(Packing up). 이혼이 확정되어 37년 전 시집 온 집에서 떠나게 되었다”고 적었다.&lt;br&gt;&lt;br&gt;이어 “그땐 시부모님과 함께였고, 지난 10년은 혼자 살면서 두 딸을 시집보내고, 남은 막내와 같이 살아왔다. 아들과도 이제 이별”이라고 했다.&lt;br&gt;&lt;br&gt;노 관장이 공개한 사진에는 1988년 결혼식 때 입은 것으로 보이는 웨딩드레스와 한복, 옷가지와 가방 등 소지품이 담겼다. 또 과거 자녀들에게 받은 도화지 사진도 공개했다. 이 도화지에는 최 회장과 노 관장의 얼굴 사진 위에 종이로 만든 턱시도와 드레스가 붙어 있고, 여러 장의 메시지 카드가 장식돼 있다.&lt;br&gt;&lt;br&gt;그는 “60이 넘으니 모든 것이 소중하다”면서 “옷가지며 가방, 신발 어느 곳에도 그만큼의 웃음과 눈물, 노력과 좌절, 그리고 희망이 묻어 있다. 하나하나 곱게 접어 넣는다”고 썼다. 그러면서 “무엇보다 감사하단 생각이 든다”며 “따뜻한 쉐타도 몸을 덮어줄 오버코트도 포근한 목도리도, 그것을 만들어 내게까지 오게 한 사람들의 노고가 느껴진다. 하나하나 곱게 접어 넣는다”고 했다.&lt;br&gt;&lt;br&gt;노 관장은 “가슴이 좀 아렸던 대목은 언젠가 내 생일에 아이들 셋이 고사리 손으로 엄마 아빠 사진을 오려서 붙이고, Happy Forever!!의 메시지로 가득 채운 도화지를 발견했을 때”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “엄마 아빠가 서로 사랑하며 행복하기를 간절히 바랐던 그 어린 마음들은 어디서 위로를 받을꼬. 이것 역시 곱게 접어 넣었다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 16일 대법원은 최 회장과 노 관장의 이혼 소송에서 재산 분할 비율에 대한 항소심 판결을 파기 환송했다. 2심이 인정한 노태우 전 대통령의 300억원 금전 지원은 재산 분할에 있어 노 관장의 기여로 참작할 수 없다고 판단한 것이다. 다만 이와 별개로 위자료와 이혼 자체를 확정했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 상고심 선고에서 “원심이 인정한 바와 같이 피고(노 관장)의 부친 노태우가 원고(최 회장)의 부친 최종현에게 300억 원 정도의 금전을 지원했다고 보더라도, 이 돈의 출처는 노태우가 대통령으로 재직하는 동안 수령한 뇌물로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “노태우가 뇌물의 일부로서 거액의 돈을 사돈 혹은 자녀 부부에게 지원하고 이에 관해 함구함으로써 국가의 자금 추적과 추징을 불가능하게 한 행위는 선량한 풍속 그 밖의 사회 질서에 반하고 반사회성·반윤리성·반도덕성이 현저해 법의 보호 영역 밖에 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>천호동 재개발 사무실 칼부림 피의자 구속...“도망 염려”</title>
+      <link>https://www.chosun.com/national/incident/2025/11/06/IUCZRMFWL5ENRBVDHMN3A2PLLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/06/IUCZRMFWL5ENRBVDHMN3A2PLLA/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 11:46:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JTHVG7NZDVI3RB2FEN4FTIINF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 오전 서울 강동구 천호동 재개발조합 사무실에서 흉기 난동 사건이 발생해 1명이 사망하고 2명이 중상을 입었다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3명의 사상자를 낳은 천호동 재개발 사무소 흉기 난동 사건의 피의자가 구속됐다.&lt;br&gt;&lt;br&gt;서울동부지법은 6일 오후 8시 30분쯤 “도망 염려와 증거 인멸의 우려가 있다”며 60대 남성 조모씨의 구속영장을 발부했다. 이날 조씨가 영장 심사 참여를 포기하며 법원은 판사가 피의자를 대면하는 통상의 심문 과정 없이 서면 심리로 구속 여부를 결정했다.&lt;br&gt;&lt;br&gt;조씨는 지난 4일 오전 10시 20분쯤 서울 강동구 천호동의 한 재개발 조합 사무실에서 조합 관계자 3명에게 흉기를 휘둘렀다. 이로 인해 1명이 사망하고 2명이 중상을 입었다. 직전 조합장이었던 조씨는 지난 7월 부상자 중 한 명을 추행한 혐의로 입건됐고 조합장에서 해임됐다. 검찰은 범행 나흘 전인 지난달 31일 조씨를 강제추행 혐의로 약식 기소했다.&lt;br&gt;&lt;br&gt;경찰은 조씨가 조합장 해임 등에 앙심을 품고 범행했을 가능성 등 범행 동기를 규명하는 데 집중하고 있다. 특정범죄가중처벌법상 보복 살인 혐의를 적용하는 방안도 검토 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이철우 경북지사 “APEC으로 싸우지 말고 국격 높이라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/06/GISA7CMYBJESJK6I2USB73Z5TY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/GISA7CMYBJESJK6I2USB73Z5TY/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 10:20:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3GCM3CMIYTKNJRGBRTKNRWGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북지사는 5일 경주국립박물관 천년미소관에서 APEC 정상회의에 대한 성과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 경주시에서 열린 아시아태평양경제협력체(APEC) 정상회의에 대한 경북도의 기여도를 두고 여·야에서 논쟁이 벌어지면서 이철우 경북지사가 “국가적 경사에 대해 정쟁을 벌이는 것은 부끄러운 일”이라는 취지의 입장문을 냈다.&lt;br&gt;&lt;br&gt;6일 이 지사는 자신의 페이스북에서 “역대 가장 성공적인 경주 APEC을 두고 정치 논쟁이 벌어지는 것은 국격이 걱정될 정도로 유감스럽다”며 “이번 APEC의 성공은 전·현 정부와 여야 국회의원, 대한상공회의소, 경북도민과 경주시민 등이 모두 한마음으로 협력한 결과”라고 했다.&lt;br&gt;&lt;br&gt;이 지사가 이 같은 입장을 밝힌 이유는 지난 3~5일 사이 여야 당대표 간에 벌어진 논쟁 때문이다. 지난 3일 경북도청에서 열린 대구·경북 예산정책협의회에서 장동혁 국민의힘 대표가 이 지사에게 “(지사님이) 경주 APEC의 성공을 이끄는데 수고가 많았다”고 하자 이틀 뒤 정청래 더불어민주당 대표가 자신의 페이스북에 “정상회담장에 들어가지도 않은 경북지사 덕분에 APEC이 성공했다니 실소를 자아낸다”고 글을 올렸다.&lt;br&gt;&lt;br&gt;이 지사는 “이번 경주 APEC은 한미·한중정상회담을 통해 국익을 증진시켰고 경제회의인 CEO 서밋 참가 인원 모두 역대 최고를 기록하는 등, 지방이 세계의 중심이 될 수 있음을 증명한 국가적 경사”라며 “정치권 모두가 국격을 높이는데 힘을 모아달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>모친상으로 가석방됐다 도주한 사기 조직 간부, 실형 확정</title>
       <link>https://www.chosun.com/national/regional/2025/11/06/EMDR6IWNWNBARGR42AST53ZPXU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/06/EMDR6IWNWNBARGR42AST53ZPXU/</guid>
@@ -808,24 +871,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VC5KLDQRA5CPXGJ4EQKQTXNUYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[리빙포인트] 정전기 줄이려면 금속 클립을</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/05/G74GR5OQDFBQZB2FIAC6DHXY5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/G74GR5OQDFBQZB2FIAC6DHXY5A/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 14:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWJGTVOUQRFFNDN6SXZT3ZZ2FA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 정전기가 많이 생긴다면 소매 끝에 금속 클립을 끼워보자. 옷감에 축적된 전하가 공기 등으로 서서히 빠져나가 정전기를 줄일 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 11월 6일</title>
-      <link>https://www.chosun.com/national/nie/2025/11/05/RUCGP77XDZB4HJMBUZHC352UKQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/05/RUCGP77XDZB4HJMBUZHC352UKQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 14:32:00 +0000</pubDate>
-      <content:encoded>일교차 큰 늦가을 날씨… 전국 맑음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H3PB5NKJSVF3PBBTNIQRHQA45M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“한국, 하반신만 있는 시체 37구”… 日에 허위정보 퍼뜨린 유튜버 수사</title>
       <link>https://www.chosun.com/national/national_general/2025/11/05/DXRDS62MC5DPVCYW5ABRWPKB2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/DXRDS62MC5DPVCYW5ABRWPKB2U/</guid>
@@ -833,18 +878,6 @@
       <description/>
       <pubDate>Wed, 05 Nov 2025 13:17:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IVU5KMLZZFAOJFWLGQUBYIS6O4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘한국에서 훼손된 시신이 많이 발견된다’는 허위 정보를 다룬 대보짱 영상. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 일본에서 활동하는 한국인 유튜버 대보짱에 대한 수사에 착수했다. 96만여 명의 구독자를 지닌 대보짱은 최근 ‘한국에서 훼손된 시신이 많이 발견된다’는 허위 정보를 퍼뜨려 논란을 사고 있다.&lt;br&gt;&lt;br&gt;경찰청은 5일 “최근 일본 온라인을 중심으로 허위 조작 정보를 퍼뜨린 유튜버에 대해 서울경찰청 사이버수사대가 수사에 착수, 엄정하게 대응할 예정”이라며 “이 행위를 중대 범죄로 인식하고 있다. 사실관계를 정확하게 파악한 뒤 관련 법령에 따라 조처할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 유튜브 측에 협조를 요청해 대보짱의 국적과 거주지 등을 확인하고 전기통신기본법 위반 혐의 적용을 검토할 방침이다. 경찰은 대보짱의 행위가 국민 불안감을 조성하고 사회 혼란을 초래하며 국가 이미지를 훼손한다고 판단했다. 또 외국인의 한국 방문 및 투자에도 부정적 영향을 미치는 국익 저해 행위로 보고 있다.&lt;br&gt;&lt;br&gt;앞서 대보짱은 지난달 22일 ‘최근 무비자로 한국에 입국한 중국인 범죄자들의 살인과 장기 매매 문제가 심각하다’는 제목의 영상을 올리고 “한국에서 하반신만 있는 시체가 37구 발견됐고, 비공개 수사 중인 사건만 150건”이라고 주장했다. 근거로 든 건 신원을 알 수 없는 네티즌이 한글로 남긴 같은 내용의 댓글뿐이었다.&lt;br&gt;&lt;br&gt;이 허위 정보는 일본 내 온라인 커뮤니티 등을 중심으로 퍼져나갔고, 한국 내 치안이 붕괴됐다며 공포감을 조성하는 글들도 잇따라 올라왔다. 여러 소셜미디어에선 “한국 여행 가기 무섭다”는 글이 이어지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 측정 거부 후 도주… 침묵하던 161만 유튜버, 40일 만에 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/05/ZYTELZVG3NG55A5NBLJ7EEYUOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/ZYTELZVG3NG55A5NBLJ7EEYUOQ/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 11:57:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6NPOMYQBNBCNXASMPEZBI5EZ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유튜버 상해기. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구독자 161만명을 보유한 유명 유튜버 상해기(34·본명 권상혁)가 음주 운전 의혹 약 40일 만에 사과했다.&lt;br&gt;&lt;br&gt;상해기는 최근 유튜브 채널 커뮤니티에 글을 써 “오랜 시간 아무 말씀 드리지 못해 정말 죄송하다”며 “그동안 죄책감과 두려움, 저를 믿어주셨던 분들에게 실망을 드렸다는 생각에 어떤 말을 꺼내야 할지 쉽게 결정하지 못했다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “많은 시간을 혼자 보내면서 자신을 깊이 돌아봤다”며 “제 행동이 얼마나 잘못된 것이었는지, 그리고 그로 인해 얼마나 많은 분께 상처를 드렸는지 하루하루 반성하며 지내고 있다”고 했다. 그러면서 “저를 아껴주셨던 분들, 기다려주신 분들 모두에게 진심으로 사과드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;상해기는 지난 9월 21일 오전 3시 40분쯤 서울 강남구에서 송파구까지 이동하던 중, 음주 운전 의심 신고를 받고 출동한 경찰의 음주 측정 여러 차례 요구를 거부하고 도주한 혐의를 받는다. 애초 사건은 ‘구독자 160만명 이상의 유명 유튜버 A씨’로 언론에 알려졌으나, 온라인상에선 구독자 수와 먹방 콘텐츠를 다뤄왔다는 점 등을 근거로 A씨가 상해기라는 추측이 이어졌다.&lt;br&gt;&lt;br&gt;유튜브 영상엔 입장 표명을 요구하는 구독자 댓글도 쏟아졌다. 이후 A씨가 과거 2020년과 2022년에도 음주 운전으로 처벌받은 전력이 있다는 보도가 나오면서 비난 여론은 더 거세졌다. 그러나 상해기는 장기간 침묵을 유지했고 인스타그램 계정도 비공개로 전환했다. 유튜브 영상은 사건 발생 당일 올라온 먹방이 마지막이며, 그 사이 구독자 약 4만명이 이탈한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6NPOMYQBNBCNXASMPEZBI5EZ4I.jpg?auth=8fb04c39bb2c7601d0968d7c178268a2805c5f0882e57a7f6619bdb76a04bfc5&amp;smart=true&amp;width=645&amp;height=503" type="image/jpeg" height="503" width="645">
-        <media:description type="plain">유튜버 상해기. /유튜브</media:description>
-      </media:content>
     </item>
     <item>
       <title>종묘 앞 141.9m 건물 논란에... 오세훈 “그늘 안 생긴다”</title>
@@ -902,24 +935,6 @@
       <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 김 여사에게 ‘건진 법사’ 전성배씨를 소개한 남성 이모씨를 도이치모터스 주가조작 추가 피의자로 입건해 수사한다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJ3J7XOY7RZM4QBCJS3XHMYSII.gif"&gt;&lt;figcaption&gt;&lt;small&gt;도이치모터스 주가조작 연루 의혹 등을 받는 김건희 여사가 지난 8월 6일 서울 종로구 김건희 특검 사무실에 피의자 신분으로 소환되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 관계자는 5일 “(이씨를) 도이치모터스 주가조작 사건과 관련해 의미 있는 피의자로 보고 있다”고 했다. 그러면서 “혐의 입증을 위해 사실관계를 확인하려는 단계”라고 설명했다.&lt;br&gt;&lt;br&gt;이씨는 도이치모터스 주가조작 당시 김 여사의 계좌를 관리한 인물 중 한 명으로 알려졌다. 2020년 4월부터 이 사건을 수사한 서울중앙지검은 2021년 권오수 전 도이치모터스 회장과 전주(錢主) 손모씨 등을 2021년 기소했으나 이씨는 포함되지 않았다. 검찰은 그해 10월 전주로 가담한 김 여사에 대해서도 증거 불충분으로 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;이씨는 김 여사에게 전씨를 소개해준 인물이기도 하다. 도이치모터스 주가조작 사건을 검찰로부터 넘겨받은 특검은 지난 7월 전씨의 자택을 압수 수색하던 중 김 여사가 과거에 사용한 휴대폰을 추가 확보했다. 휴대폰에는 이씨가 김 여사에게 “(전씨는) 무당이라기보다는 로비스트야”라고 소개하는 내용의 메시지가 담긴 것으로 전해졌다. 전씨 또한 지난달 24일 김 여사 4차 공판기일 증인으로 출석해 2013년 3월쯤 이씨 소개로 김 여사를 처음 만났다고 했다.&lt;br&gt;&lt;br&gt;김 여사는 지난 9월 자본시장법 위반 등 혐의로 구속 기소됐다. 특검은 김 여사가 2010년 10월부터 2012년 12월까지 권 전 회장, 이종호 전 블랙펄인베스트 대표 등과 공모해 도이치모터스 주가를 조작, 8억1000여 만원의 수익을 거뒀다고 보고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 초6, 10명 중 1명 국제중 지원</title>
-      <link>https://www.chosun.com/national/education/2025/11/05/HMEDGIL2EBEYVC6ODLLCFLVGD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/05/HMEDGIL2EBEYVC6ODLLCFLVGD4/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 08:18:31 +0000</pubDate>
-      <content:encoded>서울 지역 초등학교 6학년 학생 수는 크게 줄었는데 국제중학교 지원자는 역대 최다를 기록한 것으로 나타났다. &lt;br&gt;&lt;br&gt;5일 종로학원이 서울의 대원국제중과 영훈국제중(각 160명 모집)의 2026학년도 지원 현황을 분석한 결과, 총 5474명(대원 3768명·영훈 1706명)으로 집계됐다. 이는 두 학교가 지난 2009년 국제중으로 전환한 이래 가장 많은 수치다. &lt;br&gt;&lt;br&gt;해외 유학 수요를 흡수하기 위해 설립된 국제중은 학비가 연간 1000만~1500만원으로 높지만 대부분 과목을 영어로 가르치고 다양한 커리큘럼을 운영해 설립 후 큰 인기를 끌었다. 하지만 ‘사교육 유발 학교’로 지목되면서 입학 전형이 추첨제로 바뀌고 졸업자들이 주로 진학하는 외고 인기도 줄면서 경쟁률이 주춤했다. 그러다 지난해 갑자기 서울 지원자가 800명 이상 급증하며 역대 최대(5439명)를 기록한 뒤 올해 다시 정점을 찍었다. 올해 서울 지역 초6 학생은 전년(6만8604명) 대비 10.2% 줄어 6만1619명이었다. 전체 초6 학생의 10명 중 1명꼴(9%)로 국제중에 지원했다. &lt;br&gt;&lt;br&gt;이렇게 국제중 인기가 높아진 건 올해 고1부터 내신 등급이 9등급제에서 5등급제로 바뀌었고, 고교 학점제가 도입된 영향으로 풀이된다. 1등급 비율이 상위 4%에서 10%로 늘어나자 특목고·자사고 진학 부담이 줄었다고 판단한 학부모가 많다는 분석이다. 국제중은 많게는 70%가 특목·자사고에 가기 때문에 국제중 인기가 덩달아 올라갔다는 것이다. 특목·자사고는 일반고보다 다양한 과목을 개설하고 있어 고교 학점제에도 유리하다는 평이 많다. &lt;br&gt;&lt;br&gt;전국적으로 국제중은 서울 2곳을 포함해 5곳 있다. 올해 부산국제중은 54명 모집에 1209명이 몰렸고, 경기 청심국제중도 100명 모집에 1577명이 몰렸다. 경남 선인국제중은 지원 현황을 공개하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘이스타 승무원 채용 비리’ 이상직 전 의원, 2심서 무죄</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/05/YT366U7D5BCJ3OQ3AMGGX3ZH6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/05/YT366U7D5BCJ3OQ3AMGGX3ZH6E/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 08:15:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EYB553YCI4RI7ZSAMUEFI3ZSZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이스타항공 부정 채용 의혹을 받는 이상직 전 국회의원이 지난 2022년 10월 14일 전북 전주시 전주지법에서 구속 전 피의자 심문(영장실질심사) 출석을 위해 법정으로 향하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘이스타항공 승무원 채용 비리’ 혐의로 1심에서 실형을 선고받은 이스타항공 창업주 이상직 전 의원이 항소심에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;전주지법 형사1부(재판장 김상곤)는 5일 업무방해 등의 혐의로 기소된 이상직 전 의원에게 무죄를 선고했다. 앞서 1심 재판부는 이 전 의원에게 징역 1년 6개월을 선고했다.&lt;br&gt;&lt;br&gt;이 전 의원은 지난 2015~2019년 승무원 채용 당시 특정 지원자를 인사팀에 추천하는 등 이스타항공 인사 업무를 방해한 혐의로 기소됐다. 자격 미달 지원자를 합격시키거나, 불합격 점수를 받은 지원자를 합격시키는 등 위력으로 공정한 채용 업무를 방해했다는 것이다. 검찰은 이 전 의원이 점수가 미달한 지원자 147명(최종 합격 76명)을 채용하도록 인사 담당자에게 외압을 넣었다고 판단했다. &lt;br&gt;&lt;br&gt;하지만 이 전 의원 측은 “검찰은 기업 채용 제도에 명시된 지원자 추천을 위력으로 판단한 잘못이 있다”며 “청탁으로 보기에는 인과관계가 입증되지 않았다”고 무죄를 주장했다. 이 전 의원도 “지역의 인재 유출을 막고 장기간 근무할 직원을 우선 채용하기 위한 결정이었다는 점을 살펴봐 달라”고 했다.&lt;br&gt;&lt;br&gt;1심 재판부는 “경영진의 지시가 인사 담당자들의 자유의사를 제압하는 ‘위력’에 해당한다”며 이 전 의원의 주장을 받아들이지 않고 징역 1년 6개월을 선고했다. &lt;br&gt;&lt;br&gt;하지만 2심 재판부는 1심 판단을 뒤집었다. 재판부는 업무방해 혐의에 대해 “피고인들이 인사 담당자에게 채용 지시를 따르지 않을 경우 인사상 불이익을 줄 것이라는 말이나 행동을 했다고 볼 정황이 확인되지 않는다”고 밝혔다. 이어 “인사 담당자들이 압박감을 가졌다거나 불이익을 받을 것이 염려된다는 불안감을 느꼈다는 사정만으로 (자유의사를 제압하는) 위력 행사가 있었다고 단정할 수 없다”고 판시했다. &lt;br&gt;&lt;br&gt;재판부는 “신규 직원 채용과 관련한 합격자 결정은 대표이사의 권한으로, 인사 담당자들의 업무는 각 전형 단계별 및 최종 합격자 명단을 보고하는 것으로 종료된다”며 “피고인들이 인사 담당자들의 업무가 끝나기 전 평가 점수를 조작하거나 순위 변경을 강요한 사실이 없는 등 인사 담당자 고유의 업무를 방해했다고 보기 어렵다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박상우, 韓 내란 재판서 “국무위원들도 피해자”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/05/NL2AFOPKFBHLNA6SUJ7C6VYV2U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/05/NL2AFOPKFBHLNA6SUJ7C6VYV2U/</guid>
@@ -927,24 +942,6 @@
       <description/>
       <pubDate>Wed, 05 Nov 2025 07:13:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFHA2ET63PJPCCRF24UAFXITCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6월 박상우 전 국토교통부 장관이 국회 국토교통위원회 전체회의에서 전세사기 유형 및 피해 규모 등에 관해 보고하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박상우 전 국토교통부 장관은 5일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리의 내란 우두머리 방조 등 혐의 재판에 증인으로 출석해 “국무위원들도 피해자”라고 주장했다.&lt;br&gt;&lt;br&gt;재판부가 “계엄을 해야 할 상황이었느냐”고 묻자, 박 전 장관은 “전혀 상상도 못했다. 계엄을 국민 누가 생각했겠느냐”고 답했다. 이어 재판부가 “생각할 수 없는 계엄인데 왜 아무 말도 하지 않고 나오느냐”고 하자, 그는 “상황이 끝나 있었다. 토론을 하고 선택할 여지가 있는 상황이 아니었다”고 말했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “법적 책임을 떠나 (당시 국무위원으로서) 그렇게 말하는 것이 적절한가”라고 반문했다. 박 전 장관은 “저희 국무위원들도 피해자”라며 “국무위원으로 역할을 할 수 없는 상황에서 일이 벌어졌다”고 했다. 그는 “국무위원으로서 책임이 없다고 말하는 건 아니다”라면서도 “아쉽고 안타깝다”고 했다.&lt;br&gt;&lt;br&gt;한편 이날 증인으로 소환된 최상목 전 경제부총리는 증인소환장이 송달되지 않아 불출석했다. 재판부는 최 전 부총리는 오는 17일 다시 부를 계획이다. 증인으로 채택된 이상민 전 행정안전부 장관은 불출석 사유서를 제출했다.&lt;br&gt;&lt;br&gt;재판부는 다른 증인들에 대한 신문 일정도 변경했다. 재판부는 김용현 전 국방부 장관의 증인신문을 12일, 추경호 전 국민의힘 원내대표의 증인신문을 17일 진행할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>7조 4000억 효과... 경북도, ‘포스트 경주 APEC’ 준비한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/05/ICMZ7BPZ6RCTZOCDDM5UWADAHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/05/ICMZ7BPZ6RCTZOCDDM5UWADAHA/</guid>
-      <dc:creator>경주=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 04:32:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CHT5B5IKF5FJ5J4RXHLDBGVWMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 오전 10시 30분 경북 경주시 인왕동 국립경주박물관은 관광객 1000여 명으로 가득했다. 이곳에서 전시 중인 신라 금관을 보기 위해 몰려든 인파였다. 아시아태평양경제협력체(APEC) 정상회의 기간 중 열린 한미 정상회담에서 이재명 대통령이 트럼프 미 대통령에게 신라 금관을 선물하면서 경주박물관에서 열리는 신라 금관 전시도 함께 유명해져 관람객들이 몰려든 것이다. &lt;br&gt;&lt;br&gt;신라 금관이 전시된 경주박물관 출입문부터 바깥까지는 관람객들의 대기 줄이 10m가량 늘어서 있었다. 경주박물관 관계자는 “안전사고 예방을 위해 오전 9시 30분부터 오후 5시 30분까지 30분 간격으로 150명씩 2550명만 받고 있다”며 “낮 12시쯤이면 모든 회차가 매진돼 오전에 대기표를 받지 않으면 금관 구경도 못 할 수준”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F4DRQA3UY5GOJH4N7XPOAS3HUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 10시 30분쯤 경북 경주시 인왕동의 국립경주박물관에서 열린 신라 금관 전시를 보기 위해 시민들이 줄을 서 있다./이승규 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 3만명 방문, 7조4000억원 경제 효과&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 경주박물관에서 약 100m 떨어진 천년미소관에선 경북도가 주최한 ‘2025년 APEC 정상회의 성과 보고회’가 열렸다. 천년미소관은 APEC 정상회의를 위해 경북도가 만든 건물로, APEC 기간 중 한미 정상회담과 한중 정상회담이 모두 이곳에서 열렸다. 경북도가 APEC을 통한 성과와 행사 운영에 기여한 도민들에게 감사를 전하고자 보고회를 연 것이다.&lt;br&gt;&lt;br&gt;경북도는 지난달 27일부터 이달 1일까지 열린 APEC 정상회의를 통해 7조4000억원의 경제 효과가 발생했고, 각국 정상들을 비롯해 APEC 관계자, 관광객 등 3만여 명이 방문한 것으로 추산했다. 3박 4일간 열린 CEO 서밋(기업인 회의)에는 젠슨 황 엔비디아 CEO, 맷 가먼 아마존 웹서비스(AWS) CEO 등 1700명이 참석해 역대 APEC 기업인 회의 중 최대 규모로 꾸려졌다. AWS와 프랑스 자동차 회사 르노 등 글로벌 기업 7곳이 5년간 한국에 90억달러(약 12조8000억원)를 투자하기로 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BXQ4X64HWW2RMFBY5YQVJM46LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;캐럴라인 레빗(왼쪽) 백악관 대변인과 마고 마틴 커뮤니케이션 담당 특별보좌관이 29일 저녁 경주 황리단길에서 목격됐다. /유튜브 채널 '일롱 머스크' 영상 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 레빗의 황리단길, 시진핑의 황남빵... 경주 곳곳이 ‘핫플’&lt;/b&gt;&lt;br&gt;&lt;br&gt;행사 기간 경주 시내 곳곳의 명소와 관광 상품들도 인기를 끌었다. 캐럴라인 레빗 미국 백악관 대변인은 황리단길의 올리브영 경주황남점을 들러 마스크팩과 선크림 등을 산 뒤 자신의 소셜미디어에 기념사진을 올리면서 매장에 해당 제품들에 대한 외국인 관광객들의 문의가 늘었다고 한다. 레빗 대변인과 마고 마틴 커뮤니케이션 특별담당보좌관이 들른 디저트 가게 ‘프로즌 브라이드’에선 이들이 먹었던 초코·바닐라·경주딸기맛 3종 아이스크림을 찾는 관광객들이 줄을 섰다. 시진핑 중국 국가주석이 경주의 관광 상품인 황남빵을 사 간 이후로 황남빵 매장은 대기 시간이 3시간 이상 걸리는 등 관광객들이 줄을 이었다.&lt;br&gt;&lt;br&gt;경주시민을 비롯해 경북 지역 외국인 유학생 등 자원봉사자들에 대한 감사 인사도 이어졌다. 경주시민들은 행사 기간 자발적으로 차량 2부제에 동참하고 집 앞 마당과 주요 번화가 및 관광 명소 인근 도로 등을 청소했다. 상인들은 관광객들이 화장실을 자유롭게 이용할 수 있도록 개방했고 자원봉사자들은 첨성대와 대릉원 인근에서 통·번역과 관광지 안내 등 서비스를 제공했다. 주낙영 경주시장은 “25만 경주시민과 봉사자들이 하나가 되어 전 세계에 한국의 멋과 모범을 보였다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5UMTBGUTUBBGTMXGAEKVAOAZFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 30일 오후 경북 경주 일대에서 아시아태평양경제협력체(APEC) 정상회의가 열리고 있는 가운데 경주 황리단길에 내, 외국인 관광객들로 붐비고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 경북도, “APEC 이후 준비할 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;향후 경북도는 APEC 정상회의 당시 활용된 건물과 관광지 등을 재정비해 세계적 관광 상품으로 만들 계획이다. 정상회의장이었던 화백컨벤션센터와 4000여 명의 국내외 기자가 머문 국제미디어센터는 하나로 연결해 1만6000㎡(4840평) 크기의 통합 컨벤션 공간으로 조성해 마이스(MICE, 회의·포상 관광·컨벤션·전시) 관련 국제 행사 공간으로 활용할 전망이다. &lt;br&gt;&lt;br&gt;한미·한중 정상회담이 개최된 경주박물관 내 천년미소관도 철거하지 않고 보존한다. 신라 금관이 전시된 경주박물관과 함께 각국 정상회담이 열린 장소로서 역사적 의미가 더해졌기 때문이다. 박장호 APEC 준비지원단 의전홍보과장은 “천년미소관은 서까래와 석조 계단 등 한옥 형태로 설계된 데다 이제는 역사적 상징까지 더해졌다”며 “국내외에서 경주를 찾는 수많은 관광객에게 경주박물관의 유산과 천년미소관의 역사가 한류의 상징이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HPNTZ5GXSMC5XGF3QRROBPR4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 27일 경주 국립경주박물관 신라역사관에서 열린 ‘신라 금관, 권력과 위신’ 특별전 미디어데이에서 참석자들이 신라시대 황남대총 금관을 둘러보고 있다. 이 특별전은 신라 금관이 세상에 처음 알려진 지 104년 만에 6점의 금관이 한자리에 모여 전시되는 사상 최초의 자리다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도는 향후 경제·문화·평화 등 3개 주제로 10개 분야의 ‘포스트 APEC’ 사업을 추진할 방침이다. 경제 분야에선 경주 CEO 서밋 개최, APEC 퓨처스퀘어 건립 등을, 문화 분야에선 ‘세계 경주포럼’을 비롯한 문화 분야의 국제 행사를 열고, 보문단지 재정비를, 평화 분야에선 APEC 글로벌 인구협력위원회 창설, 신라통일평화정원 등을 조성할 방침이다. 이철우 경북도지사는 “260만 경북도민이 APEC 참가국의 30억 세계인에게 감동을 주었다”며 “포스트 경주 APEC 사업을 통해 경주를 세계 도시로 키워나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘연어·술자리 회유 의혹' 쌍방울 계열사 압수수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/05/AJW3TFOHDBCMFDKC4FINSSCHPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/05/AJW3TFOHDBCMFDKC4FINSSCHPM/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 02:40:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYISS3MEGAYP3CKS2G6WXETR4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산구 쌍방울 그룹 본사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 대북 송금 사건’ 수사 과정에서 검찰이 술과 외부 음식을 반입해 이화영 전 경기 평화부지사 등을 회유했다는 의혹을 감찰 중인 서울고검이 쌍방울그룹에 대한 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;서울고검 인권침해 점검TF는 5일 오전 9시 30분쯤부터 서울 용산구 서빙고동에 있는 쌍방울 그룹 계열사 비비인 본사를 압수수색하고 있다.&lt;br&gt;&lt;br&gt;검찰은 2023년 5월 수원지검이 쌍방울 대북 송금 사건을 수사하는 과정에서 조사실에 술과 연어회를 반입해 이 전 부지사와 김 전 회장 등에게 제공하고, 이재명 대통령에게 불리한 진술을 하도록 회유한 의혹을 감찰하고 있다. &lt;br&gt;&lt;br&gt;이날 압수수색은 서울고검이 최근 김성태 전 쌍방울 회장과 쌍방울 직원 2명을 배임 혐의로 입건해 수사 중인 사안의 연장선에 있다. 김 전 회장은 접견 온 직원들을 시켜 검찰청에 들여올 외부 음식과 술을 쌍방울 법인카드로 결제하게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김구는 왜 안중근 외아들을 “교수형 시키라” 했나 </title>
