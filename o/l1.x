@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 가상자산 회사 대표 법정 습격 50대, 징역 5년 확정</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212905.jpg" alt="456474.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;가상자산 서비스업체 대표를 법정에서 흉기로 찌른 50대 A 씨가 2024년 8월 서울남부지법에서 열린 영장실질심사에 출석하는 모습. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;디지털 자산 서비스 업체 하루인베스트 대표의 목을 법정에서 흉기로 찌른 50대 A 씨가 징역 5년 형을 확정받았다. 대법원 형사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&amp;nbsp;&lt;/span&gt;대법관)는 10월 16일 살인미수·법정소동 혐의로 기소된 A 씨의 상고심에서 A 씨의 상고를 기각하고, 징역 5년을 선고한 원심 판결을 확정했다(&lt;b&gt;2025도13235&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨는 2021년경 ‘무위험 운용으로 원금을 보장하면서 업계 최고 수익까지 지급한다’는 하루인베스트 광고를 보고, 보유하던 디지털 자산을 예치했다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;하루인베스트 대표 B 씨는 2023년 6월 하루인베스트에 예치된 디지털 자산의 출금을 정지하고, 사무실을 폐쇄했다. B 씨는 1만6000여 명의 피해자로부터 1조4000억 원 상당의 디지털 자산을 편취해 특정경제범죄가중처벌법 위반(사기) 혐의로 2024년 2월 구속 기소됐다. A 씨는 63억 원 상당의 손실을 봤다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 씨는 B 씨 공판을 방청하다가 2024년 8월 범행에 이르렀다. 같은 해 9월부터 재판을 받은 A 씨는 살인의 고의가 없었고, B 씨로부터 상당한 경제적 손실을 입어 심신미약 상태였다고 주장했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 A 씨의 주장을 배척하고, 징역 5년을 선고했다. 1심 재판부는 “A 씨가 범행에 사용할 과도와 면장갑을 미리 준비한 점, 과도와 면장갑을 가방에 넣은 상태로 법정에 진입하여 B 씨와 가장 가까운 방청석 맨 앞줄에 앉은 점, 급소인 목을 과도로 찌른 점 등을 고려해 살인의 고의가 있다고 판단된다”며 “A 씨에 대한 국립법무병원의 정신감정 결과 심신미약에 이르는 정신과적 진단도 없었다”고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;항소심은 “A 씨의 경제적 손실에 대한 B 씨의 형사책임이 인정된다고 해도, 사적 제재는 결코 정당화될 수 없다”며 A 씨 항소를 기각하고, 1심 판결을 유지했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 “원심 판단에 법리 오해가 없고, 형사소송법상 사형·무기·징역 10년 형 이상이 선고된 사건에서만 양형부당을 사유로 한 상고가 허용된다”며 A 씨 상고를 기각하고, 원심 판결을 확정했다.&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Nov 2025 03:07:53 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212905</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212905</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212905.jpg</media:thumbnail>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원행정처·법률신문 '국민을 위한 사법제도 개편' 공청회 개최</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212945.jpg" alt="2342527.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;법원행정처(처장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="5602"&gt;천대엽&lt;/span&gt;&amp;nbsp;대법관)는 법률신문과 공동으로 12월 9일부터 11일까지 3일간 서울 서초동 서울법원종합청사 청심홀에서 '국민을 위한 사법제도 개편 - 방향과 과제'를 주제로 공청회를 개최한다.&lt;p&gt;&amp;nbsp;   &lt;/p&gt;&lt;p&gt;최근 국회에서 사법제도 개편 논의가 활발하게 진행되고 있는 가운데, 사법부가 주도적으로 사법제도 개편 관련 공론의 장을 마련하는 것은 처음이다. 사법부는 이번 공청회를 통해 주권자인 국민의 입장에서 필요하고 바람직한 사법제도 개편 방향에 대해 법조계는 물론, 학계와 언론계, 시민사회단체 등 다양한 분야 전문가들의 의견을 청취할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공청회에서는 최근 논의되는 사법제도 개편 관련 주요 주제뿐 아니라 현시점에서 국민을 위해 개선이 필요한 중요 사법제도 전반에 대해 폭넓고 깊이 있게 논의할 예정이다. 이에 따라 다양한 관점을 지닌 사회 각계의 의견을 청취하는 열린 공청회로 마련할 방침이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;행정처는 공청회 준비 과정에서도 사법부 내·외부의 의견을 널리 수렴할 계획이다. 과거 사법제도개혁추진위원회에서 사법개혁을 성공적으로 이끈&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;(사법연수원 17기) 전 대법관과 하태훈 전 한국형사·정책법무연구원장이 공동자문위원으로 참여한다. 공청회 준비 과정에서 사법부 외부의 시각도 적극적으로 반영하기 위해서다.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;사법제도 관련 이슈의 각계 권위자들이 참석해 진행할 100분 토론이 예정된 공청회 마지막날 종합토론은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&amp;nbsp;&lt;/span&gt;전 대법관이 좌장을 맡아 진행할 예정이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;공청회 주제(가안)은 △우리 재판의 현황과 문제점 △사법의 공정성과 투명성 강화 방안(증거수집제도 개선, 판결공개 확대, 중요재판 중계 등) △노동법원 설치 및 국민의 사법참여 확대(국민참여재판 확대, 민사배심 도입 가능성 모색 등) △국민의 인권 보장을 위한 형사사법제도 개선(압수수색, 인신구속제도, 재정신청제도 개선 등) △상고제도 개편 방안(대법관 증원안 포함) △종합토론(사법부가 나아갈 길)이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법원행정처 관계자는 "사법부는 이번 열린 공청회를 통해 국민을 위한 사법제도 개편의 주요 과제와 방향을 점검하고, 사회 각계의 다양한 의견을 경청하고 수렴할 예정"이라며 "이를 토대로 심도 깊은 연구·검토를 이어가 사법제도 개편에 관한 사법부의 입장을 국회에 제출하는 등 국민을 위한 더 나은 사법부로 거듭나기 위해 최선을 다할 것"이라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Fri, 07 Nov 2025 02:55:38 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212945</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212945</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212945.jpg</media:thumbnail>
+			<dc:creator>박수연 기자</dc:creator>
+		</item>
+		<item>
 			<title>이재명 대통령, 내란특검 수사기간 마지막 연장 승인…12월 14일까지</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212938.jpg" alt="54747.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이재명 대통령 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령이 12·3 비상계엄 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)의 마지막 수사 기한 연장 을 재가했다.&lt;br /&gt;&lt;br /&gt;대통령실은 7일 "&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령은 6일 특검 수사를 통해 내란청산과 국민 통합이 이루어질 수 있도록 내란특검법상 허용된 마지막 수사기간 연장을 승인했다"고 밝혔다. 이어 "이재명 정부는 앞으로도 헌법과 민주주의를 수호하고 국민주권을 실현하기 위하여 최선의 노력을 다하겠다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;내란 특검의 수사기간은 11월 14일 만료 예정이었다. 6월 18일 수사를 시작한 내란 특검은 앞서 두 차례 30일씩 수사기간을 연장해 이번이 마지막 연장이다. 수사기간은 12월 14일까지다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&amp;nbsp;&lt;/span&gt;특검보는 6일 브리핑에서 "추경호 국민의힘 의원에 대한 체포동의요구서가 국회로 송부됐고 표결이 27일"일며 "수사기간 연장이 불가피하다"고 말했다.</description>
 			<pubDate>Fri, 07 Nov 2025 01:09:36 -0000</pubDate>
@@ -219,26 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212883</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212883.jpg</media:thumbnail>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>화우, 윤지훈 전 청와대 인사비서관·이수영 전 EMK대표 영입</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/212872.jpg" alt="43533.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;윤지훈 전 청와대 인사비서관·이수영 전 EMK대표&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;   &lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)가 윤지훈 전 청와대 인사비서관과 이수영 전 에코매니지먼트 코리아(EMK) 대표이사를 고문으로 영입했다.&lt;br /&gt;&lt;br /&gt;윤 고문은 연세대 신학과를 졸업하고 성공회대 대학원에서 사회학을 전공했다. 그는 2013년 박남춘 더불어민주당 의원실 수석보좌관으로 공직에 입문해, 2017년 문재인 정부의 청와대 국정상황실과 인사비서관실 선임행정관을 거쳐, 2020년 인사수석비서관실 인사비서관을 지냈다.&lt;br /&gt;&lt;br /&gt;이 고문은 미국 노스웨스턴대 켈로그 경영대학원(Northwestern University, Kellogg School of Management) MBA 출신의 AI 인프라 및 에너지 산업 전략 전문가다. 국내외 기업의 신사업 개발·투자·M&amp;A를 주도해 왔다. 현재 LG 사외이사 겸 ESG위원회 위원장, 국가 녹색인증심의위원회 위원장으로 활동 중이며 기업의 지속가능한 에너지 인프라 전략과 정부 정책 자문을 맡고 있다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;(사법연수원 29기) 화우 대표변호사는 “윤지훈 고문과 이수영 고문은 각각 정책·입법 대응, 그리고 AI 인프라 및 에너지 분야에서 탁월한 전문성을 지닌 전문가”라며 “이번 영입으로 화우는 정부 정책 변화와 산업 전환기에 필요한 실질적 해법을 제시하는 로펌으로서의 위상을 더욱 공고히 할 것”이라고 말했다.</description>
-			<pubDate>Wed, 05 Nov 2025 06:14:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212872</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212872</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212872.jpg</media:thumbnail>
-			<dc:creator>신나영 기자</dc:creator>
-		</item>
-		<item>
-			<title>율촌, 고용노동부 '장애인고용 우수사업주' 선정</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212871.jpg" alt="4564.jpg" style="width: 320px; height: 213px;" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;법무법인&amp;nbsp;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;율촌&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)이 고용노동부와 한국장애인고용공단이 공동 주관하는 2025년 ‘장애인고용 우수사업주’로 선정됐다.&lt;br /&gt;&lt;br /&gt;장애인고용우수사업주는 장애인고용촉진 및 직업재활법에 근거해 장애인고용에 모범이 되는 기업을 인증하는 제도다.&lt;br /&gt;&lt;br /&gt;율촌은 2014년, 2017년, 2021년에 이어 4회째 우수사업주로 선정됐다. 올해 선정된 총 12개 기관 중 유일한 법무법인이다.&lt;br /&gt;&lt;br /&gt;율촌은 11월 초 한국코치협회가 주관한 ‘2025 코칭문화 확산 우수기관상’을 수상했다. 장애인 직원의 업무 지도와 면담 과정에 ‘코칭(Coaching)’ 기법을 도입해, 개인의 강점과 관심사를 바탕으로 직무 확장과 성장을 지원하는 맞춤형 체계를 구축한 점을 인정받았다.&lt;br /&gt;&lt;br /&gt;율촌 관계자는 “장애인 고용에서 중요한 것은 단순한 수치가 아니라 상호 존중과 소통을 바탕으로 한 근무환경”이라며 “앞으로도 좋은 일자리를 창출하고 기업의 사회적 책임을 다하는 로펌으로서 최선을 다하겠다”고 말했다.</description>
-			<pubDate>Wed, 05 Nov 2025 06:12:13 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212871</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212871</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212871.jpg</media:thumbnail>
-			<dc:creator>신나영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
