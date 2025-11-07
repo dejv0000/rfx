@@ -13,6 +13,50 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>찬 바닷바람에 저체온증... 울산화력 구조 골든타임은 72시간</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/07/RUU7B3ZSZ5FIZBOE6PQFPIR32Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/RUU7B3ZSZ5FIZBOE6PQFPIR32Q/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Nov 2025 11:24:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB5TJMP5U5MVNKLB2UNOK5DBHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 7일 오전 울산 화력발전소 붕괴 사고 현장에서 119구조대원들이 붕괴된 구조물 안에서 구조장비를 이용해 구조작업을 하고 있다./소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 오후 2시쯤 울산 남구 한국동서발전 울산화력발전소에서 발생한 ‘보일러 타워 붕괴 사고’의 구조 골든 타임이 다가오고 있다. 학계 등 전문가들이 말하는 ‘골든 타임’은 72시간. 오는 9일 오후 2시까지다. 전문가들은 “밤엔 기온이 낮고 부상 정도도 심해 매몰된 사람들의 생존 가능 시간은 더 줄어들 수 있다”고 말했다.&lt;br&gt;&lt;br&gt;소방방재 학계 등에서 붕괴 사고 현장에서 매몰된 사람을 구할 수 있는 골든 타임을 72시간으로 보는 이유는 사람이 물을 비롯해 아무것도 먹지 못하고 버틸 수 있는 생존 시간을 최대 3일로 보기 때문이다. 72시간이 지나면 탈수 현상이 나타나면서 생존율이 급격히 줄어들고, 부상 등 개개인의 상황에 따라 생존 가능 시간은 유동적이라고 한다. 특히 이번 사고는 일교차가 큰 11월에 발생해 골든 타임이 72시간보다 줄어들 수 있다고 한다.&lt;br&gt;&lt;br&gt;이영주 경일대 소방방재학부 교수는 “밤낮으로 기온 변화가 심하면 신체의 피로도가 높아지고 체력 부담도 커지기 때문에 생존자들이 버틸 수 있는 시간은 줄어든다”면서 “이번 사고 실종자들은 철제 구조물 등이 붕괴되면서 심한 부상을 입었을 가능성이 높아 더 위험할 것으로 보인다”고 말했다. 실제 전날 최고 20.1도까지 올랐던 울산의 기온은 이날 오전 9.5도까지 떨어졌다. 사고가 발생한 화력발전소는 바로 옆에 울산만이 있는 만큼, 바닷바람까지 불어 체감 기온은 이보다 낮았을 것으로 보인다.&lt;br&gt;&lt;br&gt;전문가들은 “골든 타임이 지난 후 구조된 사례는 거의 없기 때문에 매몰자를 최대한 빠르게 구출해야 한다”고 말한다. 앞서 1995년 삼풍백화점 붕괴 사고 당시 매몰됐다 구조된 사람은 40명. 그러나 이 중 72시간을 넘겨 구조된 사람은 단 3명뿐이었다. 지난 4월 경기 광명 신안산선 붕괴 사고 때도 매몰된 작업자 2명 중 1명은 13시간 만에 구출됐지만, 다른 1명은 사고 발생 5일 만에 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;정부는 이날 중앙사고수습본부 회의를 열고 소방청을 중심으로 실종자 구조에 총력을 기울이기로 했다. 김성환 기후에너지환경부 장관은 “골든 타임이 지나기 전 자원을 총동원해 신속히 구조해 달라”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/Q3FAKTYKERCQJJ6UKGXJMOBNW4.JPG?auth=b48c6957a40a4c33fdcb21c7ba5cbff7f0f5e81d596fea3f560291649c3e5245&amp;smart=true&amp;width=3526&amp;height=1983" type="image/jpeg" height="1983" width="3526">
+        <media:description type="plain">(울산=뉴스1) 황기선 기자 = 7일 오전 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 심정지 상태(추정)로 구조대상자를 이송하고 있다.  (울산소방본부 제공. 재판매 및 DB 금지) 2025.11.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(울산=뉴스1) 황기선 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>박선영 진화위원장 “사북 사건, 광부도 경찰도 모두 피해자”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/07/2RZZBVVBLBAKZAZUQ74TIOMWLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/2RZZBVVBLBAKZAZUQ74TIOMWLM/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Nov 2025 12:53:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JJ3HOHA6AJFABBCZSKDENGMVDQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박선영 진실·화해를위한과거사정리위원회 위원장이 7일 저녁 다큐멘터리 영화 ‘1980 사북’가 상영되는 서울 이화여대 아트하우스 모모를 찾았다./장윤 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“광부도, 경찰도 모두가 피해자입니다. 모두의 상처가 아물길 바랍니다.”&lt;br&gt;&lt;br&gt;7일 오후 7시, 박선영 진실·화해를위한과거사정리위원회 위원장은 다큐멘터리 영화 ‘1980 사북’가 상영되는 서울 이화여대 아트하우스 모모를 찾았다. 기자였던 그는 사북 사건이 일어난 지 1년 뒤인 1981년 사북 탄광촌을 취재하며 광부들의 열악한 생활 환경에 눈물을 흘렸다고 했다. 박 위원장은 “광부 남편을 둔 내 또래 젊은 부인들의 얼굴은 다 터 있었고, 그들이 살던 7~8평짜리 집은 제대로 된 지붕도 없이 얇은 양철 슬레이트로 덮여 있었다”고 떠올렸다. &lt;br&gt;&lt;br&gt;사북 사건은 1980년 4월 21일부터 나흘간 회사 측의 임금 소폭 인상과 열악한 노동 환경 등에 반발한 동원탄좌 광부들이 정선군 사북읍 일대에서 일으킨 총파업 사건이다. 광부들은 경찰과 대치하는 과정에서 사북지서와 회사 사무실을 부쉈고, 진압 경찰들에게 돌을 던졌다. 유혈 사태로 번지면서 경찰 1명이 사망하고 70명 가까이 다쳤다. 당시 계엄사령부는 81명을 계엄포고령 위반 등 혐의로 구속했다. &lt;br&gt;&lt;br&gt;박 위원장은 “‘사북 1980’은 그간 국가폭력의 피해자로 주목받던 동원탄좌 광부들뿐 아니라, 진압에 나섰던 경찰들까지 피해자로 조명했다는 점에서 의미가 크다”고 말했다. 이 다큐멘터리는 현장에 투입됐다가 광부들이 던지는 돌에 맞아 두개골이 골절됐던 진문규(72)·광부들이 던진 돌이 헬멧을 뚫고 머리를 때려 뇌진탕을 일으켰던 최병주(85)·광부들에게 얻어맞아 목뼈가 부러지고 팔이 빠졌던 이종환(75) 전 영월경찰서 순경들의 인터뷰를 담고 있다. &lt;br&gt;&lt;br&gt;박 위원장에 따르면 진실화해위는 피해자나 유족이 직접 진실규명을 신청한 사건을 중심으로 조사를 진행하기 때문에, 경찰 등 공무원들의 피해는 신청이 없어 드러나지 못하는 경우가 많다. 그는 “그동안 ‘진압 경찰’이라는 틀에 갇혀 자신의 상처를 털어놓지 못했던 이들이 이번 인터뷰를 통해 조금이나마 치유받았길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HQFBZ23EIVGIHAYYJBT5GYLN2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1980년 4월 강원도 정선군 사북 탄광 광부들이 열악한 근로 환경과 임금 등에 반발해 총파업을 벌였다. 사진은 ‘사북 사건’ 당시 광부들과 주민들이 몰려다니고 있는 모습./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 “작년 12월 위원장으로 취임해 처음 진실규명한 사건이 사북 사건이라 더 애틋하다”고 했다. 2기 진실화해위는 작년 제 93차 위원회에서 사북 사건을 중대한 인권침해 사건으로 판단하고, 국가에 유족 사과와 명예 회복·재심 지원·기념사업 추진 등을 권고했다. 1기 진실화해위도 2008년 고문과 가혹행위 사실을 인정했지만, 개별 피해자의 인권침해를 공식적으로 인정한 것은 작년 12월이 처음이다.&lt;br&gt;&lt;br&gt;지난달 29일 전국 영화관 30여 곳에 개봉한 ‘1980 사북’은 균형 잡힌 시각과 철저한 취재가 돋보이는 작품이다. 올해 EBS국제다큐영화제 심사위원특별상, 지난해 DMZ국제다큐멘터리영화제 한국경쟁 장편 대상 등을 받았다. 박봉남 감독은 지난 5년 반 동안 광부들과 당시 부상 경찰, 피해자 가족들을 일일이 접촉해 당시 사건의 이면을 파헤쳤다. 박 감독은 “(광부·경찰들의) 편을 들지 않고 각자의 입장과 이야기를 있는 그대로 들려주고, 이 사건이 남긴 상처를 객관적으로 들여다보려 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사기 혐의 고소당한 이천수 “오해에서 비롯된 해프닝, 원만히 마무리”</title>
+      <link>https://www.chosun.com/national/people/2025/11/07/WBX27KK2ORDBDIJWXBNVH3HTCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/07/WBX27KK2ORDBDIJWXBNVH3HTCY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Nov 2025 12:06:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3COMOCEKE2W4FCVZNGCR3CJ5RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 축구 국가대표 이천수. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사기 혐의로 고소당한 전 축구 국가대표 이천수 측이 고소인과 원만히 합의했다고 밝혔다. &lt;br&gt;&lt;br&gt;이천수 소속사 DH엔터테인먼트는 7일 “본 사건은 고소인 A씨의 오해에서 비롯된 것으로, 이날 이천수와 A씨는 원만히 합의했다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “사실관계를 재확인한 결과 고소인은 일부 내용을 잘못 인식했음을 확인했고, 이천수에게 사기나 기망의 고의가 없음을 인정했다”며 “이에 A씨는 더 이상 수사나 처벌을 원하지 않으며 고소를 공식적으로 취하하기로 했다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 “이천수와 A씨는 이번 일을 오해에서 비롯된 해프닝으로 서로 이해하고 원만히 마무리했다”며 “당사는 이번 사건이 잘 정리된 만큼 더 이상의 추측성 언급이나 확산이 없기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;앞서 제주경찰청은 지난달 이천수에 대한 고소장이 접수돼 특정경제범죄가중처벌등에 관한 법률 위반(사기) 혐의로 입건했다고 밝혔다. 고소장에는 이천수가 2018년 11월 지인 A씨에게 생활비를 빌려달라고 요청해 9차례에 걸쳐 1억3000만원을 받았으나 변제하지 않았다는 내용이 담겼다. A씨는 이천수가 2023년까지 빌린 돈을 갚겠다고 했지만 2021년 가을부터 연락이 끊겼다고 주장한 것으로 알려졌다. 이천수 측은 돈을 받은 것은 인정하면서도 사기 주장에 대해서는 부인했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IUIMIR4HXNCJDDG4ZEBDH4VQUE.JPG?auth=616114617518d1896ff68ee2fc7161c239944d9c0fd651b77b53b6717a090075&amp;smart=true&amp;width=1455&amp;height=1091" type="image/jpeg" height="1091" width="1455">
+        <media:description type="plain">전 축구 국가대표 이천수. 2023.12.23/뉴스1  ⓒ News1 권현진 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1  ⓒ News1 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>아이 셋 서울대 보낸 양소영 변호사의 조언 “결국에는 국어”</title>
+      <link>https://www.chosun.com/national/people/2025/11/07/KQYHFWROEVDBNIYEP24ON2TPY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/07/KQYHFWROEVDBNIYEP24ON2TPY4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Nov 2025 10:54:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRTWC325DRDKTDYJXOYW6P74II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양소영 변호사. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세 자녀를 모두 서울대에 보낸 양소영(53) 변호사가 “국어로 대학 보냈다”며 책읽기의 중요성을 역설했다. &lt;br&gt;&lt;br&gt;양 변호사는 6일 유튜브 채널 ‘밉지 않은 관종언니’에서 ‘자녀 사교육을 어떻게 했느냐’는 물음에 “우리 아이들은 국어를 많이 했다. 독서와 논술 쓰기 과외를 시켰다”고 답했다. &lt;br&gt;&lt;br&gt;양 변호사는 “과장하면 아이들을 국어로 서울대 보냈다고 생각한다”며 “독해력이 되어야 과학책도 읽고, 사회 문제도 풀 수 있다”고 했다. 이어 “막내 중학교 때 수학 선생님이 저에게 ‘어머니, 책을 많이 읽혀주세요’라고 했었다”며 “갈수록 수학 문제와 지문이 길어지고 개념도 어려워지는데 독해력이 안 되면 수학에 발전이 없다는 뜻이었다”고 했다. 그러면서 “마지막에 수학을 잘할 수 있는 애들은 독해력 있는 아이들”이라며 “결국에는 국어, 책읽기”가 가장 중요하다고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3Z4DZCYTNVACVHRGLKTJYSWYKA.png"&gt;&lt;figcaption&gt;&lt;small&gt;양소영 변호사와 서울대에 입학한 세 자녀. /유튜브 '밉지않은 관종언니'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 변호사는 아이를 서울대 보내기 위해 가장 중요한 것으로 “엄마가 책을 읽어야 한다”고 했다. 그는 “책은 내가 경험해보지 못한 세상을 간접 경험하게 해준다”며 “엄마가 세상에 대해서 공부를 많이 해서 시각을 넓혔으면 좋겠다. 엄마와 아이가 같이 책을 읽었으면 좋겠다”고 조언했다. &lt;br&gt;&lt;br&gt;양 변호사는 조기 유학이나 영어 유치원에 대해서는 회의적이었다. 그는 “첫째가 여섯 살부터 영어 유치원을 1년 다니다가 힘들다고 그만뒀다”며 “그래서 둘째는 다섯 살부터 보냈는데도 여섯 살 넘어가니까 못 다니겠다고 하더라”고 했다. 이어 “막내는 성공하고 싶어서 ‘영어 유치원에 안 가면 엉덩이 7대 때리겠다’고도 해봤다”며 “막내가 7대를 맞더니 누나들에게 ‘이제 영어 유치원 안 가도 된다’면서 자랑하더라. 그때 이건 정말 아니구나 싶어서 때려치웠다”고 했다. &lt;br&gt;&lt;br&gt;양 변호사는 “조기 유학을 보낸다는 목표가 명확하면 힘들더라도 영어 유치원을 보내야 한다고 생각한다”며 “부모와 함께 외국에 나갈 수 없다면 조기 유학을 반대하고, 영어 유치원도 꼭 필요하지 않다”고 했다. &lt;br&gt;&lt;br&gt;양 변호사는 한국여성변호사회 부회장, 대한변협 공보이사 등으로 활동해왔다. 양 변호사의 첫째와 둘째 딸은 서울대 경영학과에, 막내 아들은 전기정보공학부에 입학한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>재판서 ‘도이치 피의자’ 카톡 나오자, 金여사 건강 이상 호소… 12월 3일 변론 종결</title>
       <link>https://www.chosun.com/national/court_law/2025/11/07/TYL54MS75VD7NNYKPRF7BLMXPY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/TYL54MS75VD7NNYKPRF7BLMXPY/</guid>
@@ -893,15 +937,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/YRI4NCKSYBHP5K7DNIUVCMSKVY.gif?auth=f984f23b895c5d2d679a1724bb3886170b91f70104f14272043c95a63c0417f6&amp;smart=true&amp;width=1024&amp;height=576" type="image/jpeg" height="576" width="1024"/>
     </item>
     <item>
-      <title>정성호 법무, 민주당 김병기·추미애 만나 “간첩죄 등 10대 민생 법안 통과 요청”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/06/CUCNCRGRGJCT5GAH7HHCHXBJ4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/06/CUCNCRGRGJCT5GAH7HHCHXBJ4I/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Nov 2025 07:52:01 +0000</pubDate>
-      <content:encoded>정성호 법무부 장관이 6일 김병기 더불어민주당 원내대표와 추미애 국회 법제사법위원회 위원장을 만나, 법무부가 추진하는 ‘민생·안전을 위한 10대 법안’의 정기국회 내 통과를 요청했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4TGYZQGEZTINDBGUZDKZJQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 장관, 김병기 원내대표 예방/법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 정 장관은 외국을 위한 간첩 행위를 처벌할 수 있도록 간첩죄 적용 대상을 확대하는 형법 개정안과, 친일 재산 환수를 위한 친일재산귀속법 제정안의 필요성을 강조했다.&lt;br&gt;&lt;br&gt;또 최근 캄보디아 범죄 단체 사태로 국민적 관심이 커진 독립 몰수제 도입, 디지털 성범죄·사이버 범죄 등 초국가적 범죄의 전자 증거 보전을 위한 형사소송법 개정안의 조속한 처리를 요청했다. 전세 사기 등 사기죄의 법정형 상향, 서민 다중 피해 범죄 수익의 필요적 몰수·추징, 불법 사금융을 피해자 환부 대상 범죄에 추가하는 부패재산몰수법 개정안 등 민생 법안의 필요성도 전했다.&lt;br&gt;&lt;br&gt;아울러 강력 범죄 피해자에 대한 국선 변호사 지원(특정강력범죄법 개정), 스토킹 범죄 피해자에게 가해자 위치를 제공하는 전자장치 부착법 개정 등 피해자 보호 강화를 위한 입법도 법무부가 추진 중이다. 정 장관은 교정 시설·소년원 확충과 전자 감독 강화 등 범죄 예방 인프라 구축 사업에도 국회의 지원이 필요하다고 전했다.&lt;br&gt;&lt;br&gt;김 원내대표는 “범죄 양상이 지능화‧조직화되고 있는 만큼, 국민을 보호하기 위한 제도적 장치가 시급하다”며 “정기국회 내 실질적 성과를 내도록 최선을 다하겠다”고 했다. 추 위원장은 “법무부와 협력해 아동·청소년 보호, 스토킹·사기 대응, 법률구조 강화 등 민생 안전과 인권 관련 핵심 법안을 최우선으로 챙기겠다”고 말했다.&lt;br&gt;&lt;br&gt;정 장관은 “10대 법안은 국민이 범죄로부터 안전한 나라를 만들고 민생을 지키기 위한 중요한 법안”이라며 “여야가 합의해 이번 정기국회에서 반드시 통과되길 바란다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>5·18묘역 찾은 장동혁, 시민단체 반발에 참배 못해</title>
       <link>https://www.chosun.com/national/national_general/2025/11/06/POGFLU7AANAU3FST62NFSPCQOQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/POGFLU7AANAU3FST62NFSPCQOQ/</guid>
@@ -913,24 +948,6 @@
         <media:description type="plain">(광주=뉴스1) 김태성 기자 = 장동혁 국민의힘 대표가 6일 광주를 찾아 국립 5·18민주묘지를 참배하기 위해 들어서자 광주전남촛불행동 회원들이 몸싸움을 하며 막아서고 있다. 2025.11.6/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(광주=뉴스1) 김태성 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>강남 한복판서 음주운전하다 캐나다인 숨지게 한 30대 구속 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/06/VXJSC5AJJ5FXNAOWGXWOF2VNEA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/VXJSC5AJJ5FXNAOWGXWOF2VNEA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Nov 2025 07:22:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X4WX55AXSBGOJAEPHUXGIU3CIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 관련 이미지. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남에서 만취 상태로 운전하다 캐나다 국적의 남성을 치어 숨지게 한 30대 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;6일 서울 강남경찰서는 음주운전 및 특정범죄가중처벌법상 위험운전치사 혐의로 30대 남성 A씨를 지난 3일 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 25일 밤 9시 40분쯤 서울 강남구 논현동에서 음주운전을 하다 보행신호에 횡단보도를 건너던 보행자 2명을 들이받은 혐의다.&lt;br&gt;&lt;br&gt;이 사고로 한국계 캐나다인 30대 남성이 사망했고, 또 다른 보행자인 20대 여성은 중상을 입어 치료받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨의 운전을 말리지 않은 30대 남성 동승자에게는 음주운전 방조 혐의를 적용해 불구속 송치할 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 2일에는 일본인 관광객 모녀가 한국에 온 첫날 서울 종로구에서 음주운전 차량에 치이는 사고를 당해 50대 어머니가 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>종묘 앞 142m 빌딩 건축 가능 대법 “규제 완화 조례개정 적법”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/06/ROWOX2NU6ZEN3MKIM47DAMRJ5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/06/ROWOX2NU6ZEN3MKIM47DAMRJ5Y/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Nov 2025 01:28:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2M7VDFBHL5C7LHLFSRICVYPTXY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 11월 3일 오후 서울 세운상가와 종묘 일대의 모습. 서울시는 종묘 맞은편 세운4구역에 최고 높이 142m의 고층 빌딩을 세울 수 있게 계획을 변경한다고 시보에 고시했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 국가유산청(옛 문화재청)과 협의하지 않고 조례에서 문화유산 보호를 위한 개발 규제 조항을 삭제한 것은 위법하지 않다는 대법원 판단이 나왔다. &lt;br&gt;&lt;br&gt;서울시가 조례에서 문화유산 인근 건설공사를 규제하는 조항을 삭제한 것이 위법하지 않다는 대법원 판단이 나왔다. 대법원 1부(주심 신숙희 대법관)는 6일 문화체육관광부 장관이 서울시의회를 상대로 낸 ‘서울시 문화재 보호 조례’ 개정안 의결 무효 확인 소송에서 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;소송은 서울시의회가 2023년 10월 ‘서울시 문화재보호 조례’에서 19조 5항을 삭제하면서 시작됐다. 이 조항은 역사문화환경 보존 지역(국가지정유산 100m 이내) 밖이더라도 건설공사가 문화유산에 영향을 미칠 것이 확실하다고 인정되면 영향을 검토해야 한다는 내용을 담고 있었다.&lt;br&gt;&lt;br&gt;서울시의회는 이 조항이 상위법인 문화유산법(당시 문화재보호법)이 위임하지 않은 ‘보존 구역 바깥에 대한 포괄적·추상적 규제’를 담고 있다는 이유로 삭제하는 개정안을 의결했다. 그러자 국가유산청장(당시 문화재청장)은 “국가유산 보호 관련 조례를 개정하면서 국가유산청과 협의를 하지 않은 것은 위법하다”며 재의 요구를 요청했다. 그러나 서울시가 이를 받아들이지 않고 개정 조례가 그대로 공포되자 문체부는 소송을 냈다. &lt;br&gt;&lt;br&gt;지방자치단체 조례가 법령을 위반했는지 여부는 1·2심 없이 대법원 단심 재판으로 이뤄진다. 쟁점은 해당 조항을 삭제한 것이 ‘법이 조례보다 우위에 있다’는 법령우위원칙을 위반했는지 여부였다. &lt;br&gt;&lt;br&gt;대법원은 “서울시의회가 조항을 삭제하면서 당시 문화재청과 협의를 거치지 않았다고 해도 법령우위원칙에 위반된다고 할 수 없다”며 서울시 손을 들어줬다. 대법원은 또 “대법원은 상위 법령을 벗어나 규정된 조례 조항을 삭제하는 것은 적법한 조례 제·개정 권한 행사”라며 “특별한 사정이 없는 한 유효하다”고 판시했다. 이어 “문화유산법이 조례를 개정하기 전 국가유산청장과 협의를 거치도록 규정하거나, 이 조항의 내용(보존 지역 밖 개발 규제)을 반드시 두도록 규정하고 있지도 않다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 소송은 종로구 세운4구역 재정비 사업과 맞물려 주목을 받았다. 서울시는 지난달 세운4구역 건물 높이 기준을 종묘 쪽은 55m에서 98.7m로, 청계천 쪽은 71.9m에서 141.9m로 완화하는 재정비촉진계획 변경 고시를 했다. &lt;br&gt;&lt;br&gt;세운4구역은 종묘와 173~199m 떨어져 있어 보존 지역에 해당하지 않지만, 국가유산청은 인근에 초고층 건물이 들어서면 종묘 경관을 훼손할 수 있다며 서울시 조례 개정 등 절차상의 문제를 제기해왔다. 그러나 이날 대법원이 “문제가 없다”고 판단하면서 세운4구역 재개발 사업이 탄력을 받게 됐다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘서해 피격 공무원’ 유족 측 “재판부, 검찰 구형보다 높은 중형 선고해야”</title>
@@ -959,15 +976,6 @@
       <pubDate>Wed, 05 Nov 2025 15:52:00 +0000</pubDate>
       <content:encoded>“정부는 적재적소에 지원하고, 대학이 기술 발전에 맞춰 교육 과정을 혁신했으며, 기업은 성장했다. 이를 통해 대만의 ‘인재 유출’ 문제는 많이 해소됐다.”&lt;br&gt;&lt;br&gt;최근 방한한 존 카오 대만 국립칭화대 총장은 5일 본지 인터뷰에서 “대만 대학도 과거 우수 연구자들이 처우 부족으로 싱가포르나 미국으로 빠져나가는 문제가 심각했다”며 “하지만 이후 정부, 기업이 발 벗고 나서고 대학도 혁신을 멈추지 않은 덕분에 이젠 거꾸로 글로벌 테크 기업들이 대만에 들어와 연구 센터를 짓고 대만 학생들을 대거 채용하고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW4C5QZ3ENAJTJYGYBU43XQOEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;존 카오 대만 국립칭화대 총장 
 /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;칭화대는 세계 1위 파운드리(반도체 위탁 생산) 기업 TSMC를 비롯해 미디어텍, UMC 등 대만 반도체 기업에 생산·연구 인력을 공급하고 있다. 카오 총장은 “졸업생 취업률은 99%에 육박하고, 학교 자체 여론조사에서도 학생 10명 중 7명이 해외에 나가기보다 대만 기업, 대학에서 일하겠다고 응답할 정도로 국내 활동을 선호하는 경향이 강하다”고 말했다. 다음은 카오 총장과 일문일답.&lt;br&gt;&lt;br&gt;-대만은 ‘인재 유출’ 문제를 어떻게 극복하고 있나.&lt;br&gt;&lt;br&gt;“첨단 연구 인프라, 협력할 기업은 갖췄고, 이젠 교수 연봉을 높이는 데 집중하고 있다. 작년 칭화대 동문과 기업의 기부, 정부 보조를 모아 11억대만달러(약 500억원) 규모의 ‘우수 인재 개발 기금’을 조성했다. 이 기금으로 교수 수백 명에게 성과급을 지급하기 시작했다. 1인당 많게는 연 500만대만달러(약 2억3000만원)까지 더 받을 수 있다.”&lt;br&gt;&lt;br&gt;-한국 대학 교수들은 성과가 좋아도 높은 보상을 받기 어렵다. &lt;br&gt;&lt;br&gt;“대만 대학도 호봉제를 운영하기 때문에 교수 연봉을 갑자기 확 높이기가 쉽지 않다. 그래서 성과급을 지급하기로 한 것이다. 성과급을 못 받은 교수들의 불만을 잠재우기 위해 전공별로 객관적인 평가 지표를 마련하는 데 가장 신경을 많이 썼다.”&lt;br&gt;&lt;br&gt;-인재 유출을 막기 위해 기업은 어떤 역할을 했나.&lt;br&gt;&lt;br&gt;“2022년 칭화대를 포함, 5개 주요 대학에 반도체 대학원을 설립했는데 이 과정에서 TSMC가 40억대만달러(약 1870억원)를 기부했다. 칭화대의 경우 TSMC에서 핵심 기술을 개발한 고위 임원이 학장을 맡고 있다. 여기서 배운 학생들이 대만 기업에서 활약하고, 나중에 다시 대학에 돌아와 후배를 양성해 기술 기반을 탄탄하게 만드는 ‘선순환’ 체제를 만들어 가고 있다.”&lt;br&gt;&lt;br&gt;-인재를 붙잡기 위한 다른 노력은.&lt;br&gt;&lt;br&gt;“교수나 연구자에겐 고액 연봉 못지않게 각종 여건도 중요하다. 칭화대는 최근 젊은 해외 교수를 영입하기 위해 캠퍼스 안에 어린이집을 개설했다. 인재를 잡기 위해선 일단 뭐든 시도해야 한다.”&lt;br&gt;&lt;br&gt;-기업 취직이 잘되다 보니 박사 과정에 진학하는 대만 학생이 줄었다는데. &lt;br&gt;&lt;br&gt;“가장 우려하는 부분이다. 박사급 인력을 키워야 고급 기술이 나오고 기업도 발전할 수 있기 때문이다. 5~10년 뒤 기업이 인재를 채용하는 데 위기가 닥칠 수 있어 대책 마련에 신경 쓰고 있다.”&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[인사] 문화체육관광부</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/11/06/BNJOQV5UGRC3HGOOK3DOFT6ZOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/11/06/BNJOQV5UGRC3HGOOK3DOFT6ZOY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 05 Nov 2025 15:41:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;문화체육관광부&lt;/b&gt;◇실장급▷기획조정실장 김정훈▷국제문화홍보정책실장 김재현▷국민소통실장 공형식◇국장급▷대변인 송윤석▷문화예술정책실 예술정책관 이용신▷〃 지역문화정책관 김용섭▷콘텐츠정책국장 최성희▷체육국장 이선영 &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
