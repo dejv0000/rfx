@@ -13,6 +13,18 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>檢 대장동 수사팀 “지휘부가 항소금지 지시” 반발</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/EDV6FNUKLZEXHE33VBHWKDVKZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/EDV6FNUKLZEXHE33VBHWKDVKZE/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 07 Nov 2025 23:01:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDMMTFHAZDSMZTGI3WCYJXMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서울중앙지방검찰청 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검이 ‘대장동 개발 비리’ 민간 업자 사건에 대해 항소하지 않은 것에 대해 “지휘부가 항소금지를 지시했다”며 반발했다.&lt;br&gt;&lt;br&gt;8일 새벽 3시 22분쯤 중앙지검 수사팀은 “대장동 수사 및 공판팀은 항소기한 내인 지난 7일 항소장을 제출하고자 했으나 자정에 이르기까지 제출하지 못했다”며 항소하지 않기로 결정한 내부 의사결정 과정을 설명했다.&lt;br&gt;&lt;br&gt;담당 팀은 “1심 재판부조차도 ‘사안에 부합하는 대법원 판례가 없다’고 한 법률적 쟁점들은 물론 일부 사실오인, 양형부당에 대한 상급심의 추가적 판단이 필요하다고 판단해 중앙지검 및 대검 지휘부에 내부 결재 절차를 이행했다”며 “지난 6일 대검 지휘부 보고가 끝날 때까지도 이견없이 절차가 마무리되어 항소장 제출만 남겨둔 상황이었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “하지만 모든 내부 결재 절차가 마무리된 이후인 7일 오후 무렵 갑자기 대검과 중앙지검 지휘부에서 알 수 없는 이유로 항소장 제출을 보류하도록 지시했다”며 “급기야 항소장 제출시한이 임박하도록 그 어떠한 설명이나 서면 등을 통한 공식 지시없이 그저 기다려보라고만 하다가 자정이 임박한 시점에 ‘항소 금지’라는 부당하고, 전례없는 지시를 했다”고 했다.&lt;br&gt;&lt;br&gt;이들은 “마지막 순간까지 대검과 중앙지검의 지휘부가 적법타당한 대응을 할 것이라 믿고, 내부절차를 이행하며 기다렸다”면서 “결국 대검과 중앙지검 지휘부는 부당한 지시와 지휘를 통하여 검사들로 하여금 항소장을 제출하지 못하게 한 것”이라고 했다. &lt;br&gt;&lt;br&gt;앞서 서울중앙지법 형사22부(재판장 조형우)는 지난달 31일 대장동 개발 사업을 주도한 화천대유 대주주 김만배씨와 유동규 전 성남도시개발공사 본부장에게 징역 8년을 선고했다. 남욱 변호사와 정영학 회계사에게는 징역 4년과 징역 5년을, 정민용 변호사에게는 징역 6년을 선고했다. 이들은 모두 법정 구속됐다.&lt;br&gt;&lt;br&gt;다만 이같은 형량은 당초 검찰이 구형한 형량보다 적었다. 검찰은 지난 6월 결심 공판에서 김만배씨에게 징역 12년에 추징금 6112억원을 구형했다. 정영학 변호사에게는 징역 10년, 남욱 변호사와 유동규 전 본부장에게는 징역 7년, 정민용 변호사에게는 징역 5년을 각각 구형했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 손해액을 정확하게 산정할 수 없다며 검찰이 기소한 특정경제범죄 가중처벌법상 배임죄가 아닌 업무상 배임죄와 형법상 배임죄로 양형을 정했다. 일부 부분에 대해선 무죄를 선고하기도 했다. &lt;br&gt;&lt;br&gt;검찰이 항소를 포기함에 따라 2심에서는 피고인들이 억울하다고 주장하는 부분만 다뤄지게 될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XKBHR77QNVAEJGFFMLUIUDMHDE.jpg?auth=866663628665197996991ccf657d9d06cc6b1967fa7cb34ddf87c1a45f194155&amp;smart=true&amp;width=900&amp;height=600" type="image/jpeg" height="600" width="900">
+        <media:description type="plain">김만배 , 유동규, 남욱 /뉴시스 ·뉴스1.</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[아무튼, 주말]#APEC만찬총괄에드워드리#인구주택총조사100년</title>
       <link>https://www.chosun.com/national/weekend/2025/11/08/BOXH346JN5FLBDKC3WYW5QHCRE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/11/08/BOXH346JN5FLBDKC3WYW5QHCRE/</guid>
@@ -956,15 +968,6 @@
       <description/>
       <pubDate>Thu, 06 Nov 2025 13:08:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTVO4P7BHNJU5DPTUXE4GURB64.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 석촌호수 물 위로 붉고 노랗게 물든 단풍나무와 은행나무가 비추고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동호(東湖)와 서호(西湖) 두 곳으로 이뤄진 서울 석촌호수는 한 달에 한 번 수질 정화 작업을 한다. 석촌호수는 한강 물을 끌어와 채우기 때문에 물을 그대로 방치하면 녹조가 껴왔다. 그런데 2021년부터 국내 스타트업이 개발한 친환경 약품을 통해 수년째 1~2급수의 수질을 유지하고 있다.&lt;br&gt;&lt;br&gt;이 기술을 개발한 ‘젠스’를 비롯해 한국수자원공사(수공)과 물산업 분야에서 협력하고 있는 스타트업 7곳이 세계 최대 IT 전시회 ‘CES 2026’에서 혁신상을 수상했다고 수공이 6일 밝혔다. 수공은 전문가 기술 자문 및 컨설팅 등을 통해 국내 물 관련 스타트업을 지원하고 있다.&lt;br&gt;&lt;br&gt;드론을 활용한 수질 측정 기술을 개발한 ‘둠둠’이 국내 물 테크 기업으로는 처음으로 최고혁신상을 받았다고 수공은 전했다. &lt;br&gt;&lt;br&gt;광학 기반 스마트 수질 측정기를 만든 ‘리바이오’, 정수장 등 시설물 점검을 위한 인공지능(AI) 자율주행 로봇을 선보인 ‘모빌리오’, 인공위성 누수 탐지 시스템의 ‘스텔라비전’, 광촉매·고분자 전해질 기반 수생태 복원 기술의 ‘젠스’, 태양광 기반 그린수소 생산 기술의 ‘하이랩’, 미세 물방울을 활용한 소독부산물 제거 기술의 ‘화우나노텍’은 혁신상을 받았다.&lt;br&gt;&lt;br&gt;수공은 2023년부터 국내 물 기업들과 CES에 참가하고 있다. 물 관련 산업은 신기술이 개발돼도 이를 실증할 공간이 없다는 문제가 있었다. 수공은 정수장을 비롯해 하천, 저수지 등에서 기술 실증이 가능하도록 돕는 한편, 전문가 자문 등도 지원하고 있다. 내년 열리는 CES 2026에는 기업 20곳이 함께 할 예정이다.&lt;br&gt;&lt;br&gt;윤석대 수공 사장은 “이번 성과는 AI 등을 활용한 물 분야의 혁신 기술을 한국이 주도하고 있다는 것을 보여주는 것”이라며 “물 부족, 수질 악화, 노후 물 인프라 점검 등 물과 관련된 문제들이 국내 기업의 기술로 해결되는 시대가 올 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노소영 “엄마아빠 사진 붙인 아이들 선물에 가슴이 아려”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/06/JLDDBB6DFFHXDA3SCD6W634GJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/06/JLDDBB6DFFHXDA3SCD6W634GJY/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Nov 2025 11:34:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7VYY4377JBLLIXINKJVBUIJWY.png"&gt;&lt;figcaption&gt;&lt;small&gt;노소영 아트센터 나비 관장이 6일 인스타그램을 통해 공개한 사진. 과거 자녀들에게 받은 도화지 선물로, 최 회장과 노 관장의 얼굴 사진 위에 종이로 만든 턱시도와 드레스가 꾸며져 있다. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노소영 아트센터 나비 관장이 최태원 SK그룹 회장과의 이혼이 확정된 데 대한 소회를 밝혔다.&lt;br&gt;&lt;br&gt;노 관장은 6일 자신의 인스타그램에 추억이 담긴 물건들을 찍은 사진을 올리고 “짐을 싸며(Packing up). 이혼이 확정되어 37년 전 시집 온 집에서 떠나게 되었다”고 적었다.&lt;br&gt;&lt;br&gt;이어 “그땐 시부모님과 함께였고, 지난 10년은 혼자 살면서 두 딸을 시집보내고, 남은 막내와 같이 살아왔다. 아들과도 이제 이별”이라고 했다.&lt;br&gt;&lt;br&gt;노 관장이 공개한 사진에는 1988년 결혼식 때 입은 것으로 보이는 웨딩드레스와 한복, 옷가지와 가방 등 소지품이 담겼다. 또 과거 자녀들에게 받은 도화지 사진도 공개했다. 이 도화지에는 최 회장과 노 관장의 얼굴 사진 위에 종이로 만든 턱시도와 드레스가 붙어 있고, 여러 장의 메시지 카드가 장식돼 있다.&lt;br&gt;&lt;br&gt;그는 “60이 넘으니 모든 것이 소중하다”면서 “옷가지며 가방, 신발 어느 곳에도 그만큼의 웃음과 눈물, 노력과 좌절, 그리고 희망이 묻어 있다. 하나하나 곱게 접어 넣는다”고 썼다. 그러면서 “무엇보다 감사하단 생각이 든다”며 “따뜻한 쉐타도 몸을 덮어줄 오버코트도 포근한 목도리도, 그것을 만들어 내게까지 오게 한 사람들의 노고가 느껴진다. 하나하나 곱게 접어 넣는다”고 했다.&lt;br&gt;&lt;br&gt;노 관장은 “가슴이 좀 아렸던 대목은 언젠가 내 생일에 아이들 셋이 고사리 손으로 엄마 아빠 사진을 오려서 붙이고, Happy Forever!!의 메시지로 가득 채운 도화지를 발견했을 때”라고 말했다.&lt;br&gt;&lt;br&gt;그는 “엄마 아빠가 서로 사랑하며 행복하기를 간절히 바랐던 그 어린 마음들은 어디서 위로를 받을꼬. 이것 역시 곱게 접어 넣었다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 16일 대법원은 최 회장과 노 관장의 이혼 소송에서 재산 분할 비율에 대한 항소심 판결을 파기 환송했다. 2심이 인정한 노태우 전 대통령의 300억원 금전 지원은 재산 분할에 있어 노 관장의 기여로 참작할 수 없다고 판단한 것이다. 다만 이와 별개로 위자료와 이혼 자체를 확정했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 서경환 대법관)는 상고심 선고에서 “원심이 인정한 바와 같이 피고(노 관장)의 부친 노태우가 원고(최 회장)의 부친 최종현에게 300억 원 정도의 금전을 지원했다고 보더라도, 이 돈의 출처는 노태우가 대통령으로 재직하는 동안 수령한 뇌물로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “노태우가 뇌물의 일부로서 거액의 돈을 사돈 혹은 자녀 부부에게 지원하고 이에 관해 함구함으로써 국가의 자금 추적과 추징을 불가능하게 한 행위는 선량한 풍속 그 밖의 사회 질서에 반하고 반사회성·반윤리성·반도덕성이 현저해 법의 보호 영역 밖에 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
