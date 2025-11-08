@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 해병 특검 “尹 전 대통령 오는 11일 출석 재통보”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 04:04:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TANDEMU4WIYRTMI3DGZRZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 재판에 윤석열 전 대통령이 출석해 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 8일 소환 조사에 불응한 윤석열 전 대통령을 오는 11일 재소환했다. 특검은 앞서 두 차례 윤 전 대통령에 대해 소환 통보를 했으나, 윤 전 대통령 측은 모두 출석하지 않았다.&lt;br&gt;&lt;br&gt;특검은 이날 “오는 11일 오전 10시에 다시 출석하라는 출석요구서를 (윤 전 대통령이 수감 중인) 서울구치소에 팩스 발송 완료했다”고 밝혔다. 특검은 출석요구서를 윤 전 대통령 측 대리인인 송진호, 채명성 변호사에게도 통지했다고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 이번 소환에도 응하지 않을 경우 특검이 강제 구인에 나설 수 있다는 전망도 나온다. 앞서 특검은 “윤 전 대통령이 8일에도 나오지 않으면 체포 영장 청구도 검토하고 있다”고 경고한 바 있다. 통상 수사기관은 피의자가 3차례 출석에 응하지 않을 경우 체포영장 등을 발부받아 강제 구인에 나선다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 2023년 7월 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 초동 조사 결과를 보고받고 격노해 임 전 사단장을 혐의자에서 제외하라고 외압을 행사한 혐의를 받는다. 또 채 상병 사건으로 고위공직자범죄수사처에 입건된 이종섭 전 국방장관을 주 호주 대사로 임명, 출국시켜 수사를 방해한 혐의도 받는다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난달 20일 임 전 사단장과 이종섭 전 국방 장관 등 피의자 6명에 대해 구속영장을 청구했지만, 그달 24일 법원을 임 전 사단장을 제외한 피의자들에 대한 구속영장을 기각한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘대장동 비리 항소 포기’ 논란 정진우 중앙지검장 사의 </title>
       <link>https://www.chosun.com/national/court_law/2025/11/08/5ZFUESBJ7VFDJJG6CSZJ7IWZWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/5ZFUESBJ7VFDJJG6CSZJ7IWZWE/</guid>
@@ -905,16 +914,6 @@
       <description/>
       <pubDate>Fri, 07 Nov 2025 04:49:12 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM55UGOT5FIUXHGNB3YXONDSDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조원대 코인 사기 혐의로 재판을 받던 코인 예치업체 대표를 법정에서 흉기로 살해하려다 미수에 그친 사기 피해자에게 실형이 확정됐다. 대법원 2부(주심 박영재 대법관)는 살인미수 및 법정소동 혐의로 기소된 강모(51)씨에게 징역 5년을 선고한 원심 판결을 지난달 확정했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;강씨는 작년 8월 28일 하루인베스트먼트 대표 이모(41)씨의 사기 혐의 재판이 열린 서울남부지법 법정에서 피고인석에 앉아 있던 이씨 목을 흉기로 여러 차례 찌른 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이씨는 2020년 3월~2023년 6월 코인 예치금을 운용해 원금을 보장하고 업계 최고 수익을 지급할 것처럼 고객을 모은 뒤 지난해 갑자기 투자자들의 출금을 중단하고 사무실을 폐쇄해 1조4000억원을 가로챈 혐의로 재판을 받고 있었는데, 강씨는 업체를 믿고 코인을 예치했다가 손실을 본 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강씨는 이씨가 기소된 뒤로 재판에 매번 참석하면서, 이씨가 변호인과 웃으면서 인사하는 모습이나 피해 회복은 전혀 하지 않으면서 고액의 변호인단을 선임하고 범행을 부인하는 모습 등을 보고 살해하기로 마음 먹은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;앞서 1, 2심은 강씨에게 징역 5년을 선고했다. 1심 재판부는 “이씨가 운영하는 사업에 투자했다가 큰 경제적 손실을 입은 점을 참작하더라도 우리 법질서에서 사적 제재는 어떠한 경우에도 허용될 수 없다”고 지적했다. 2심 재판부도 “법원 재판 기능을 저해하고 공적 공간에 대한 사회적 불신을 야기하는 행위로 죄책이 무겁다”고 했다. &lt;br&gt;&lt;br&gt;강씨가 형량이 무겁다며 상고했으나 대법원은 “형사소송법상 10년 이상의 징역이나 금고가 선고된 사건에서만 양형 부당을 사유로 한 상고가 허용된다”며 기각했다.&lt;br&gt;&lt;br&gt;한편 사기 혐의를 받는 이씨는 1심 재판 중 혐의 액수가 애초 1조4000억원대에서 8805억원으로 조정됐고, 지난 6월 무죄를 선고받았다. 검찰이 항소하면서 서울고법에서 2심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서천 ‘묻지마 살인’ 34세 이지현 신상공개</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/03/13/NJZRI2JL7NEVBJNZRHC5YGC2NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/03/13/NJZRI2JL7NEVBJNZRHC5YGC2NU/</guid>
-      <dc:creator>서천=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Mar 2025 01:00:41 +0000</pubDate>
-      <content:encoded>야간에 산책 중이던 40대 여성을 별다른 이유 없이 살해한 이지현(34)의 신상 정보가 13일 공개됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57TOWYJJ5RDL7OQGJQWLM6LJGM.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 충남경찰청은 지난 7일 신상정보공개심의위원회를 열고 이지현의 이름, 나이, 사진 등을 충남경찰청 누리집에 30일간 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;심의위에는 경찰과 법조계·학계·의료계 등 외부 위원을 포함해 7명으로 구성됐다. 이들은 범죄의 잔인성, 피해의 중대성, 국민의 알권리, 재범방지 등 특정중대범죄 피의자 등 신상정보 공개에 관한 법률이 규정한 요건에 충족한다고 판단해 신상 공개를 결정했다.&lt;br&gt;&lt;br&gt;이지현은 지난2일 오후 9시45분쯤 충남 서천군 서천읍 사곡리 한 도로변에서 산책을 나온 A(여·40대)씨를 흉기로 찔러 살해하고 달아났다. 이튿날 자택에서 검거된 이지현은 경찰 조사에서 “최근에 사기를 당해서 돈을 많이 잃었고 세상이 도와주지 않아 힘들게 느껴졌다”면서 “흉기를 들고 나갔는데 A씨를 발견하고 충동적으로 범행을 저질렀다”고 말했다.&lt;br&gt;&lt;br&gt;하지만 경찰은 이지현이 계획적으로 범행을 저지른 것으로 판단했다. 경찰 조사결과 이지현은 사전에 흉기를 준비했고, 범행 현장 인근을 1시간 넘게 돌아다니며 범행대상을 찾아다닌 것으로 드러났다. 이지현의 휴대전화에선 세상에 대한 원망과 함께 ‘사람을 죽이겠다’는 메모글도 확인됐다.&lt;br&gt;&lt;br&gt;이지현은 살인 혐의로 지난 5일 구속됐고, 경찰은 보강 수사를 거쳐 지난 11일 검찰에 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BQOCEQHDOBD7HKXEXCS7JYE5QM.jpg?auth=4bb346a02cbd35ac57e8de344f8fa47332665539657743bd59f0400135173e82&amp;smart=true&amp;width=388&amp;height=291" type="image/jpeg" height="291" width="388"/>
     </item>
     <item>
       <title>9초 만에 9명 덮쳐… 매몰된 아빠의 청춘</title>
