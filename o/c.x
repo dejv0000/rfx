@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>전주서 빌라 2층 발코니가 와르르...작업 중이던 50대 사망 </title>
+      <link>https://www.chosun.com/national/incident/2025/11/08/MJ4FBIZNFVCQTM3BYQ5VYWMBXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/MJ4FBIZNFVCQTM3BYQ5VYWMBXM/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 09:57:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56WHARGPSNOGDCWJZKJQQKZ6RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 8일 낮 12시 49분께 전북 전주시 덕진구의 한 빌라에서 발코니가 무너져 리모델링 공사를 돕던 50대가 사망했다. 사진은 무너진 발코니. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 12시 49분쯤 전북 전주 덕진구의 한 빌라 2층에서 발코니가 무너지면서 건물 밖에서 작업 중이던 50대 A씨를 덮치는 사고가 났다.&lt;br&gt;&lt;br&gt;건물 잔해에 머리를 맞아 크게 다친 A씨가 심정지 상태로 병원에 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;그는 당시 리모델링 공사 작업 중이었던 것으로 알려졌다. 사다리를 타고 새시를 철거하다가 변을 당했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전 도심 한복판서 10중 추돌 사고...1명 숨지고 15명 다쳐</title>
+      <link>https://www.chosun.com/national/incident/2025/11/08/3CTN4WBFBBFRZDV7S6YLVFFXZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/3CTN4WBFBBFRZDV7S6YLVFFXZ4/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 08:31:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WEBHEYFS5MS7DDL6HO65M2ZCM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 대전 유성구 도룡동 신세계백화점 앞 도로에서 10중 추돌 사고가 발생해 차량들이 크게 파손돼 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 대전 도심 한가운데서 차량과 오토바이 등 10대가 잇따라 얽힌 추돌 사고가 났다. 이 사고로 1명이 숨지고 15명이 다쳤다.&lt;br&gt;&lt;br&gt;소방과 경찰 등에 따르면 이날 오후 1시 50분쯤 대선 유성구 도룡동 신세계백화점 인근 한 도로에서 40대 A씨가 몰던 테슬라 승용차가 앞서 멈춰있던 오토바이 1대와 차량 8대를 잇따라 들이받았다.&lt;br&gt;&lt;br&gt;사고 당시 오토바이와 나머지 차량들은 신호등이 정지 신호로 바뀌면서 서행하거나 멈춘 상태였던 것으로 파악됐다. 가장 뒤에 오던 테슬라 승용차가 정지하지 않고 그대로 추돌한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DQMDEGA2DSYTGGJRGIZJXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오후 대전 유성구 도룡동 신세계백화점 앞 도로에서 6중 추돌 사고가 발생한 가운데 차량이 크게 파손돼 있다. /대전소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사고로 오토바이 운전자 40대 B씨가 심정지 상태로 병원으로 옮겨졌지만 결국 숨졌다. 다른 차량에 타고 있던 15명도 각각 다쳐 병원에서 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 음주 상태는 아니었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 블랙박스 영상 등을 분석하는 등 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천서 20대 손자 투신, 같이 살던 70대 할머니는 숨진 채 발견</title>
       <link>https://www.chosun.com/national/incident/2025/11/08/FRESTQEK7RGXDB54PYJUDM2E6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/FRESTQEK7RGXDB54PYJUDM2E6E/</guid>
@@ -911,24 +929,6 @@
       <description/>
       <pubDate>Fri, 07 Nov 2025 06:21:08 +0000</pubDate>
       <content:encoded>법무부와 대검찰청이 추진하는 마약범죄 합동수사본부(합수본) 인선이 마무리된 것으로 알려졌다. 정부는 이르면 이달 중순 합수본을 정식 출범한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSI5GOPHWOI4QG5KRCNPAGITCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 검찰에서는 검사 6명을 포함해 40여명의 수사 인력을 합수본에 투입한다. 신준호 전 대검 마약·조직범죄기획관(현 부산지검 1차장검사)와 김희연 창원지검 마산지청 형사2부장검사 등이 명단에 이름을 올렸다. &lt;br&gt;&lt;br&gt;합수단을 이끌 본부장으로는 박재억(54·사법연수원 29기) 수원지검장이 유력하게 거론되고 있다. 박 지검장은 대검 마약조직범죄부장, 서울중앙지검 강력부장 등을 지낸 마약 수사 전문가다. 대검 마약부장 시절에는 범정부 마약범죄특별수사본부 공동본부장을 맡기도 했다. 합수본부는 수원지검에 설치된다.&lt;br&gt;&lt;br&gt;이밖에도 합수본에는 경찰·해양경찰청·관세청·국가정보원 등 총 80여명이 합류하는 것으로 전해졌다. 정부는 최근 몇 년간 마약 범죄가 급증하고 있는 만큼, 흩어져 있는 마약 범죄 수사기관의 컨트롤타워를 만들어 마약 범죄 근절에 나설 방침이다. 앞서 윤석열 정부는 마약 범죄 전담 수사 조직을 지난해 12월 출범시키려 했지만, 12·3 비상계엄 사태로 관련 논의가 중단됐다.&lt;br&gt;&lt;br&gt;법조계에서는 이번 합수본 운영이 내년 10월 설치되는 중대범죄수사청(중수청)의 토대가 될 수 있다는 전망도 나온다. 행정안전부 소속 중수청은 마약을 포함해 9대 범죄에 대한 수사를 전담하게 된다. 현재 국무총리실 산하 범정부 검찰개혁추진단에서 중수청 운영에 대한 세부안을 마련하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘울산화력 보일러 타워 붕괴’...울산경찰청,  수사 전담팀 구성</title>
-      <link>https://www.chosun.com/national/regional/2025/11/07/6AGPQ5UPNFFDNBHP4KYHM2KAFA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/07/6AGPQ5UPNFFDNBHP4KYHM2KAFA/</guid>
-      <dc:creator>김미희 기자 , 김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 06:28:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4W53NXXA3JHDFFO5X3VRMCUWN4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산경찰청은 울산화력발전소 보일러 타워 붕괴 사고와 관련해 수사 전담팀을 구성했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;전담팀은 울산경찰청 형사기동대장을 팀장으로 과학수사계, 디지털포렌식계 등 경찰관 70여 명으로 꾸려졌다.&lt;br&gt;&lt;br&gt;전담팀은 업무상 과실치사 혐의 등을 염두에 두고, 보일러 타워 철거 작업을 맡은 원하청 계약 관계와 구체적인 작업 내용 등을 확인할 것으로 보인다. 이를 위해 고용노동부, 검찰 등 유관기관과 협업한다.&lt;br&gt;&lt;br&gt;전날 오후 2시 2분쯤 울산 남구 용잠동 울산화력발전소에선 높이 60m 대형 보일러 타워가 무너져 작업자 7명이 매몰됐다.&lt;br&gt;&lt;br&gt;이날 오후 3시 현재까지 사망자는 3명이다. 2명은 사망 추정, 2명은 실종 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘금거북이 청탁 의혹’ 이배용 13일 재소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/07/OTEELDC27BHQXAHTLPABYE6HVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/OTEELDC27BHQXAHTLPABYE6HVM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 05:42:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZDMNDCGU2DCYRTGE2DSNTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이배용 전 국가교육위원장이 6일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검(특별검사 민중기) 사무실에 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘금거북이 청탁’ 의혹을 받는 이배용 전 국가교육위원회 위원장을 13일 재소환한다.&lt;br&gt;&lt;br&gt;특검은 이날 오후 언론 브리핑을 열고 이 전 위원장에게 13일 오전 10시 출석해 조사받으라 통보했다고 밝혔다. 전날 첫 번째 소환 조사를 받은 이 전 위원장은 오후 9시까지 조사를 받은 뒤, 오후 10시 30분부터 조서 열람에 들어갔고, 이날 0시 15분쯤 퇴실했다. &lt;br&gt;&lt;br&gt;조사 종료 후 이 전 위원장은 ‘금거북이를 왜 건네셨는지’,‘김 여사와 2022년 코바나컨텐츠에서 왜 만나셨냐’는 취재진 질문에 답하지 않았다. 다만 ‘인사 청탁을 한 적 없다는 입장인지’ 묻자 고개를 끄덕인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 여사 모친 최은순씨가 운영하는 요양원 등을 압수 수색하면서 이 전 위원장이 보낸 금거북이와 윤석열 전 대통령 당선 축하 카드를 발견했다. 이에 특검은 이 전 위원장이 윤 전 대통령 당선 후 공직 청탁을 목적으로 이를 선물했고 김 여사가 영향력을 발휘해 국가교육위원장에 임명된 것은 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;한편 특검은 전날 ‘웰바이오텍 주가조작’ 의혹 관련 구세현(구속) 전 대표를 소환 조사하고 구속 기간 연장 신청을 했다고 밝혔다. &lt;br&gt;&lt;br&gt;구속 기소됐다가 일시 석방된 한학자 총재는 이날 법원에 구속집행정지 기간을 연장해달라고 요청했지만, 특검은 “구속집행정지 사유였던 안과 시술이 이미 완료돼 연장 필요성이 설명되지 않는다는 기각 의견을 법원에 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>9초 만에 9명 덮쳐… 매몰된 아빠의 청춘</title>
