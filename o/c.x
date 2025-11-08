@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘여론조사 대납’ 오세훈, 12시간여 조사...“대질 신문서 명태균과 평행선 그려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 12:33:45 +0000</pubDate>
+      <content:encoded>‘여론조사 대납 의혹’과 관련해 서로 상반된 주장을 했던 오세훈 서울시장과 ‘정치 브로커’ 명태균씨의 대질 신문이 약 8시간 만에 종료됐다. 두 사람은 대질 신문에서 각자 종전의 입장을 고수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TEMLGHAZTSOBWGY4DSNRQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장과 '정치 브로커' 명태균씨가 8일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검 사무실에 조사받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀은 이날 오전 9시 40분부터 오후 6시쯤까지 두 사람의 대질 신문을 진행했다. 오 시장은 피의자, 명씨는 참고인 신분으로 조사가 이뤄졌다.&lt;br&gt;&lt;br&gt;오후 9시 17분쯤 조사를 마치고 나온 오 시장은 “대납한 사실이 없다는 점을 중점적으로 얘기했다”고 기자들에게 밝혔다.&lt;br&gt;&lt;br&gt;명씨와 대질신문에 대해선 “양쪽 주장이 평행선을 그리긴 했지만, 말하는 정황 같은 걸 보면서 공정한 특검의 판단이 있을 수 있다고 기대한다”고 했다. 앞서 오후 8시쯤 조사를 마친 명씨는 오 시장에 대해선 “기억이 안 나신다고 한 부분이 너무 많았다”고 했다. 이에 대해 오 시장은 “5년 전의 일을 소상하게 기억하는 게 오히려 어색한 일”이라며 “기억이 안 나는 부분은 솔직하게 기억나지 않는다고 말씀드렸다”고 했다.&lt;br&gt;&lt;br&gt;특검은 오 시장이 2021년 4월 서울시장 보궐선거를 앞두고 명씨로부터 미공표 여론조사 13건을 제공받고, 그 대가로 3300만원을 자기 후원자로 알려진 사업가 김한정씨에게 대납시킨 혐의를 수사하고 있다. &lt;br&gt;&lt;br&gt;이에 대해 오 시장은 김씨가 명씨에게 돈을 준 사실을 몰랐고, 명씨에게 여론조사를 의뢰한 적은 물론 그에게서 조사 결과를 받아보지도 않았다는 입장이다. 반면 명씨는 오 시장과 여러 차례 만났고, 그가 자신에게 선거에서 이기게 해달라고 부탁했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성시경, 본인 사칭 피해 사비로 보상…매니저 배신 충격 속 알려진 선행</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/34FTJJ4RAVDOPDE5F4XICCOFHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/34FTJJ4RAVDOPDE5F4XICCOFHU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 12:23:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TH3RVS2HTBEVBHMOKF6HQCL2HA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가수 성시경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 성시경이 자신의 이름을 사칭한 노쇼 사기 피해 업주에게 사비로 대신 보상한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;지난 7일 성시경의 유튜브 채널 게시판에는 과거 성시경이 진행하는 유튜브 프로그램 ‘먹을텐데’를 사칭한 노쇼 사기 피해를 당했다는 업주 A씨의 사연이 올라왔다. &lt;br&gt;&lt;br&gt;A씨는 “저는 ‘먹을텐데’를 찍었던 업주”라며 “지난 5월 ‘먹을텐데 맛집 재촬영’이란 전화를 받았고 고가의 위스키를 준비해달라며 돈을 요구한 사기꾼에게 650만원의 금전적 피해를 입었다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “뒤늦게 성시경 측에 확인해 사기인 것을 알았고 경찰에 신고한 후 망연자실하며 넋을 놓고 있었을 때 성시경에게 전화가 왔다”며 “성시경은 자신의 이름을 사칭한 사기를 당한 건 자신의 책임도 있다며 피해금을 입금해주겠다고 저희를 설득했고, 저희는 그 돈을 받고 말았다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 “‘입금했어요. 마음 쓰지 말고 힘내시길’이라는 메시지는 평생 내 가슴속에 남아 있을 것”이라며 “성시경 덕분에 빨리 정신 차리고 일상으로 돌아갈 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “항상 성시경은 식사나 포장할 때도 음료수 하나 빼지 말고 다 받으라고 꼭 말한다”며 “이번에 안 좋은 일이 언론에 나오기 시작해 조금이나마 도움이 되고자 노쇼 사기 보상받은 일을 언론에 내고 싶다고 했지만 마다하셨다. 내가 경험한 성시경은 정직하고 생색낼 줄 모르며 그 철저한 정직함으로 떳떳한 분”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “그런 분이 지금 얼마나 아프고 힘드실까 너무 안타까울 뿐이다. 좋은 소식이 널리 전파 되길 바란다”며 “이 시련 잘 이겨내고 건강한 모습으로 더 많은 분들에게 위로와 감동을 주길 간절히 바란다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 성시경은 10년 넘게 호흡을 맞춘 매니저에게 금전적 피해를 당한 사실이 알려졌다. 해당 매니저는 그간 성시경과 관련된 공연과 방송은 물론이고 광고, 행사 등의 실무를 담당한 것으로 전해졌다. 해당 매니저는 이미 퇴사한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산화력 보일러 타워 붕괴 현장서 ‘경보음’...실종자 수색 중단</title>
+      <link>https://www.chosun.com/national/incident/2025/11/08/VZCHY67YXBBT5ENQ7GHYHX52TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/VZCHY67YXBBT5ENQ7GHYHX52TA/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 10:43:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TGMRQMU2GGMDGGI2DKMTBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오후 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원이 매몰자 수색 및 구조작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 현장서 갑자기 경보음이 울리면서 실종자 수색 작업이 중단됐다.&lt;br&gt;&lt;br&gt;소방 당국 등에 따르면 이날 오후 5시 25분쯤 현장서 붕괴 위험 감지 센서가 작동하면서 현장 스피커에서 대피 안내 방송이 나왔다.&lt;br&gt;&lt;br&gt;실종자를 수색 중이던 119구조 인력 등을 비롯한 수색대원과 장비 등은 곧바로 안전지대로 철수했다.&lt;br&gt;&lt;br&gt;경보음은 이미 사고가 나 붕괴된 5호기에서 울린 것으로 파악됐다. 이 센서는 기울기를 감지해 울리는 것으로, 센서 설치 업체가 원인을 찾고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZTEYRSMM2DSMDBGJTDMY3BGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오전 보일러타워 붕괴 사고가 난 울산 남구 남화동 소재 한국동서발전 울산발전본부 울산화력발전소에서 소방대원들이 매몰자를 구조하고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 내린 비나, 구조 작업의 영향으로 센서가 작동했을 가능성이 제기되지만, 아직까지 구체적인 원인은 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;현장에선 정확한 원인을 확인한 후 구조 및 수색 작업을 착수할 방침이다. 당국은 혹시 모를 상황에 대비해 단순 오작동인지 실제 위험이 있는지 등을 파악 중이다.&lt;br&gt;&lt;br&gt;한편, 지난 6일 발생한 울산화력발전소 보일러 타워 붕괴 사고로 매몰된 실종자들을 찾기 위한 수색 작업이 8일 사흘째 이어지고 있다. 매몰자 9명 중 2명은 살아서 구조됐고, 현재까지 3명이 사망했다. 나머지 2명은 사망 추정, 2명은 실종된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDQZTFGQ2WKMDGHFSTEYJUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘만 16세 때 무면허운전’ 정동원, 검찰 기소유예로 재판 면해</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 10:45:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4OAD2VABAZY22F5EMRH2XOENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교생 트로트 가수 정동원(18)이 무면허 운전 혐의에 대해 기소유예 처분을 받았다. &lt;br&gt;&lt;br&gt;8일 서울서부지검은 도로교통법 위반(무면허운전) 혐의로 조사를 받아온 정동원에 대해 지난 6일 기소유예 처분을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;기소유예는 불기소 처분의 하나로 피의 사실은 인정되지만 검사가 범행 경위와 결과 등을 고려해 재판에 넘기지 않기로 하는 결정이다.&lt;br&gt;&lt;br&gt;정동원은 2023년 고향인 경남 하동에서 면허 없이 자동차를 운전한 혐의를 받는다. 당시 정동원은 만 16세로, 운전면허를 취득할 수 없는 나이였다.&lt;br&gt;&lt;br&gt;정동원의 무면허 운전 혐의는 협박범 검거 과정에서 드러났다. 소속사는 정동원의 지인이 정동원이 운전하는 영상을 확보했다면서 거액을 요구한 사실이 있다고 주장했다. 그러면서 “정동원은 법적 처벌을 받을 각오로 공갈범 일당을 경찰에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 올해 초 서울중앙지검으로 정동원을 송치했고, 이후 정동원의 주소지 등이 고려돼 사건은 서울서부지검으로 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 정동원은 2023년 3월 자동차전용도로인 서울 동부간선도로에서 오토바이를 몰아 경찰에 적발되기도 했다. 당시 검찰은 정동원이 미성년자인 점과 초범인 점 등을 고려해 기소유예 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>전주서 빌라 2층 발코니가 와르르...작업 중이던 50대 사망 </title>
       <link>https://www.chosun.com/national/incident/2025/11/08/MJ4FBIZNFVCQTM3BYQ5VYWMBXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/MJ4FBIZNFVCQTM3BYQ5VYWMBXM/</guid>
@@ -893,42 +929,6 @@
       <description/>
       <pubDate>Fri, 07 Nov 2025 06:02:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ADSJF7RJBFJM3J6QMOZCC334.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 보일러 타워 붕괴 원인과 관련, 해체 계획을 제대로 지키지 않았을 가능성이 제기되고 있다. &lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면, 사고가 난 보일러 타워는 일반 건축물이 아닌 ‘공작물’로 분류돼 지자체의 해체 신고·허가대상이 아니다보니 관할 지자체인 울산 남구에 안전성 확보를 위해 필요한 철거계획서도 내지 않은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;울산 남구 관계자는 “발전기의 경우 건축물이 아니라 공작물에 해당돼 발파나 해체, 철거 등 전 과정을 관할 지자체에서는 알 수가 없다”고 했다. &lt;br&gt;&lt;br&gt;현행 건축물관리법은 건물을 철거할 경우 공사 개요, 조직도, 작업 순서, 해체 공법, 구조안전계획 등 방안이 포함된 해체계획서를 작성해 지방자치단체에 신고하거나 허가를 받도록 하고 있다. 일반적으로 발파 작업을 할 경우 이 검토를 받지만, 이번에 붕괴된 건물은 건축물관리법상 일반 건축물이 아닌 공작물로 분류돼 울산 남구에 해체 신고 또는 허가 신청이 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;시공업체인 HJ중공업이 자체적으로 구조 안전성 검토와 철거계획을 마련했을 수도 있지만, 이를 제대로 시행하지 않고 작업을 했을 가능성도 배제할 수 없다는 게 전문가 등의 지적이다. &lt;br&gt;&lt;br&gt;사고를 수사 중인 경찰은 “시공업체로부터 철거계획을 마련하고 안전성 검토를 했다는 진술을 들었으나, 아직 구체적인 서류 확인은 되지 않은 상태”라며 “수사를 해봐야 정확한 내용을 확인할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>선교사로 활동하며 어려운 이웃 돕던 50대, 생명 나누고 하늘로</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/7UHIFDVHTJAWNKCHAN5VY73XWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/7UHIFDVHTJAWNKCHAN5VY73XWY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 06:48:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VZL3LSFHVBV3J6PAO7AZH4FUM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 김축복 씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선교사로 활동하며 어려운 이웃을 도와왔던 50대 여성이 뇌사 장기기증으로 생명을 나눠주고 하늘로 떠났다. &lt;br&gt;&lt;br&gt;7일 한국장기조직기증원은 지난달 3일 중앙보훈병원에서 김축복(59)씨가 간, 양쪽 신장, 양쪽 안구를 5명에게 각각 기증하고 세상을 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난 9월 19일 식사 중에 의식을 잃고 쓰러져 병원으로 긴급 이송됐으나 의료진의 적극적인 치료에도 불구하고 의식을 회복하지 못하고 뇌사 상태에 빠졌다.&lt;br&gt;&lt;br&gt;가족들은 김씨를 이대로 떠나보내기보다는 삶의 끝에서 다른 생명을 살리는 좋은 일을 하고 떠나길 바라는 마음에서 장기기증을 결심했다.&lt;br&gt;&lt;br&gt;서울에서 태어난 김씨는 1남 2녀를 키우며 분식집을 운영했고, 다니던 교회 목사의 권유로 10년 전부터는 선교사로도 활동해 왔다. 김씨는 식사를 잘 챙기지 못하는 노인들에게 음식을 만들어 가져다 드리거나, 어려운 가정이나 보육원에 금액과 물품을 전달하는 선행을 베풀어왔다.&lt;br&gt;&lt;br&gt;김씨의 딸 한은혜 씨는 “엄마, 9월 초에 얼굴 보자고 했는데, 바쁜 일정에 계속 다음으로 미루고 결국 보지 못한 게 마음에 걸려”라며 “엄마는 마지막 인사를 하려고 했던 건지 모르겠지만, 나는 살아가는 동안 계속 아쉬움이 남을 것 같아. 하늘에서 우리 항상 내려봐 주고, 행복하게 잘 지내. 사랑해”라고 마지막 인사를 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>문 따고 수색했다가 수리비 800만원 청구…“참 고마웠다” 소방관 사연</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/72LNT23NTBHPNE4HW5UIMZDCUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/72LNT23NTBHPNE4HW5UIMZDCUQ/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 05:48:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MWY3CMDWZLR7OZASUEN7F3LVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울 광진구청에서 열린 ‘안전 한국 훈련 긴급종합훈련‘에서 실제 화재현장을 가정하여 소방관들이 구조작전을 펼치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주시장이 소방의 날을 이틀 앞두고 화재 진화 과정 중 발생한 주민 피해 보상 해결에 힘쓴 일로 소방관의 감사 인사를 받았다는 일화를 소개했다.&lt;br&gt;&lt;br&gt;강 시장은 7일 자신의 페이스북을 통해 “엊그제 퇴근 후 늦은 저녁을 먹으러 동네 식당에서 소방대원 7명을 만났다”며 “(소방대원들이) 나를 보자 대뜸 ‘그땐, 참 고마웠다’며 술잔을 내밀었다. 술을 끊었다고 했더니 음료를 가져다주며 ‘그때’를 말했다”고 운을 뗐다.&lt;br&gt;&lt;br&gt;소방관들이 말한 ‘그때’란 지난 1월 북구 한 빌라의 화재 현장에서 소방대원들이 인명 수색을 위해 강제로 문을 여느라 파손된 현관문 수리비 배상 문제로 곤란해졌을 때였다고 한다.&lt;br&gt;&lt;br&gt;강 시장은 “그때 현장에 나갔던 출동 담당자는 한 달 넘게 수리비 민원에 시달리고 있었다”며 “소식을 듣고 ‘불길에 뛰어드는 소방관이 보상 걱정까지 해서는 안 된다. 행정에서 책임지겠다’고 소셜미디어(SNS)에 짧게 글을 남겼고, 손실보상심의위원회 심의를 거쳐 행정에서 부서진 현관문 교체 비용을 보상토록 했다”고 떠올렸다.&lt;br&gt;&lt;br&gt;그러면서 “다시 생각해도 당연히 해야 했던 일이었다. 나와 광주시민은 시민 안전의 최일선에 계신 소방대원 여러분을 늘 응원한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLF6D2B55VHZRI5IMOJKOHMRL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주시장 페이스북 글./페이스북&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 광주시는 올해 ​ 불이 난 빌라 건물 내 인명 수색 도중 소방관이 강제 개방하다 파손한 현관문 배상을 손실 보상 제도를 통해 지원했다.&lt;br&gt;&lt;br&gt;광주소방본부 등에 따르면 지난 1월 11일 오전 광주 북구 신안동 빌라 화재 현장에서 작업 도중 소방관들이 응답이 없는 6세대의 현관문을 강제 개방했다. 이 과정에서 각 세대의 도어록과 현관문이 파손됐고 총 800만원의 물질적 피해가 발생했다.&lt;br&gt;&lt;br&gt;화재 현장에서 소방 활동 도중 발생한 물질적 피해는 1차적으로 불이 난 세대주가 가입한 민간 화재 보험으로 보상하지만, 이번 화재에서 불이 처음 난 집의 세대주가 숨지면서 배상이 어렵게 됐다.&lt;br&gt;&lt;br&gt;지방재정공제회가 가입한 행정배상 책임보험을 통한 배상도 ‘소방관의 현장 활동 도중 고의나 과실이 있을 경우’에 한해 지급할 수 있는 것으로 드러났다. 보험사 측은 “적법 절차에 따른 인명 수색 도중 손상한 재산상 보상 책임은 지기 어렵다”고 소방 당국에 회신하면서 한때 논란이 됐다.&lt;br&gt;&lt;br&gt;이에 소방청은 올해 8월 ‘손실 보상 제도 지침서’를 마련했다. 이번 지침서는 전국 시도 소방본부 운영 사례 검토와 전문가 자문을 거쳐 명확한 보상 기준과 절차를 담았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>옛 거제대교 아래서 40대 男 변사체 발견...낚시객이 신고 </title>
-      <link>https://www.chosun.com/national/regional/2025/11/07/ZSOUCQWT2NCFRK2WOSMRLAZGRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/07/ZSOUCQWT2NCFRK2WOSMRLAZGRM/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 06:35:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TCMBQHE3TINBYGFRDAMDDHA.png"&gt;&lt;figcaption&gt;&lt;small&gt;통영해양경찰서 전경./통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제와 통영을 연결하는 옛 거제대교 아래에서 낚시객이 변사체를 발견했다는 신고가 접수돼 해양경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;7일 통영해양경찰서에 따르면 이날 오전 0시 7분쯤 거제시 사등면 옛 거제대교 아래 해안가에서 ‘낚싯바늘에 시신이 걸려 올라왔다’는 낚시객의 신고가 들어왔다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 해경이 변사체 신원을 확인한 결과, 경기도에 거주하던 40대 남성으로 파악됐다.&lt;br&gt;&lt;br&gt;통영해경은 이 남성이 숨진 시간과 실종 신고 이력 유무 등 정확한 사망 경위와 범죄 혐의점이 있는지 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘마약범죄 합동수사본부’에 신준호 차장검사 합류</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/07/LMAVN7K2ANH3FLQZAP2KLDJRZE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/LMAVN7K2ANH3FLQZAP2KLDJRZE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 06:21:08 +0000</pubDate>
-      <content:encoded>법무부와 대검찰청이 추진하는 마약범죄 합동수사본부(합수본) 인선이 마무리된 것으로 알려졌다. 정부는 이르면 이달 중순 합수본을 정식 출범한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSI5GOPHWOI4QG5KRCNPAGITCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면 검찰에서는 검사 6명을 포함해 40여명의 수사 인력을 합수본에 투입한다. 신준호 전 대검 마약·조직범죄기획관(현 부산지검 1차장검사)와 김희연 창원지검 마산지청 형사2부장검사 등이 명단에 이름을 올렸다. &lt;br&gt;&lt;br&gt;합수단을 이끌 본부장으로는 박재억(54·사법연수원 29기) 수원지검장이 유력하게 거론되고 있다. 박 지검장은 대검 마약조직범죄부장, 서울중앙지검 강력부장 등을 지낸 마약 수사 전문가다. 대검 마약부장 시절에는 범정부 마약범죄특별수사본부 공동본부장을 맡기도 했다. 합수본부는 수원지검에 설치된다.&lt;br&gt;&lt;br&gt;이밖에도 합수본에는 경찰·해양경찰청·관세청·국가정보원 등 총 80여명이 합류하는 것으로 전해졌다. 정부는 최근 몇 년간 마약 범죄가 급증하고 있는 만큼, 흩어져 있는 마약 범죄 수사기관의 컨트롤타워를 만들어 마약 범죄 근절에 나설 방침이다. 앞서 윤석열 정부는 마약 범죄 전담 수사 조직을 지난해 12월 출범시키려 했지만, 12·3 비상계엄 사태로 관련 논의가 중단됐다.&lt;br&gt;&lt;br&gt;법조계에서는 이번 합수본 운영이 내년 10월 설치되는 중대범죄수사청(중수청)의 토대가 될 수 있다는 전망도 나온다. 행정안전부 소속 중수청은 마약을 포함해 9대 범죄에 대한 수사를 전담하게 된다. 현재 국무총리실 산하 범정부 검찰개혁추진단에서 중수청 운영에 대한 세부안을 마련하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>9초 만에 9명 덮쳐… 매몰된 아빠의 청춘</title>
