@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천서 20대 손자 투신, 같이 살던 70대 할머니는 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/incident/2025/11/08/FRESTQEK7RGXDB54PYJUDM2E6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/FRESTQEK7RGXDB54PYJUDM2E6E/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 08:12:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUREZ33YUZCDKJYGNXX4WINC5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 다세대 주택서 함께 살던 할머니와 손자가 각각 이틀새 숨지는 사건이 발생했다. 손자는 지난 7일 투신해 숨졌고, 할머니는 8일 자택에서 숨진 채 발견됐다.&lt;br&gt;&lt;br&gt;8일 인천 부평경찰서에 따르면 전날 오후 11시 40분쯤 부평구 부평동의 한 고층 건물에서 20대 남성 A씨가 투신했다. 당시 인근 건물에 거주하던 시민이 “옥상에서 큰 소리가 났다”고 신고했다. A씨는 결국 숨졌다.&lt;br&gt;&lt;br&gt;이 사건을 수사하던 경찰은 이날 오전 9시 40분쯤 A씨의 거주지인 부평구의 한 다세대 주택을 찾았다가, A씨의 할머니인 70대 여성 B씨가 숨져 있는 것을 발견했다. 당시 B씨는 외상을 입은 채 집 안에 쓰러져 있었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;두 사람은 평소 이 집에서 함께 지냈던 것으로 파악됐다. B씨의 부모는 따로 거주 중이었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원에 이들 시신의 부검을 의뢰할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “손자와 할머니 모두가 사망해 아직까지 구체적인 경위가 파악되진 않았다”며 “생활고 등이 있었는지 자세한 원인을 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>고1 학생·학부모 72% “고교학점제 폐지 원해”</title>
+      <link>https://www.chosun.com/national/education/2025/11/08/M4SLZGP6LJCGTNTDJJBR4PPW54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/08/M4SLZGP6LJCGTNTDJJBR4PPW54/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 08:04:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWDJ6EKHDBCWPLUXWCUTZ2YZ24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 고등학생 대표 19명이 지난 7월 부산시의회 브리핑룸에서 기자회견을 열고 고교학점제 재검토를 촉구했다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교학점제를 경험한 고등학교 1학년 학생과 학부모 대다수가 고교학점제에 부정적인 것으로 나타났다.&lt;br&gt;&lt;br&gt;종로학원이 지난달 21~23일 사흘간 고1 학생과 학부모 총 470명을 대상으로 진행한 설문조사에 따르면, 응답자의 72.3%는 ‘고교학점제가 바뀐다면, 어떻게 바뀌었으면 좋겠는가’라는 질문에 ‘폐지’라고 답했다. 고교학점제 만족도를 묻는 질문에선 75.5%가 ‘좋지 않다’고 했고, ‘보통’은 20.2%, ‘좋다’는 4.3%에 불과했다. &lt;br&gt;&lt;br&gt;응답자의 67%는 과목 선택권이 충분히 주어지지 않았다고 응답했다. 또 ‘대학별 대입 유불리’(68.1%)가 고교학점제 과목을 선택할 때 가장 영향을 많이 미치는 요소라고 답했다. 원하는 과목이 있어도, 수강생이 적어 내신 성적을 받기 힘들어 보이면 이를 선택해 듣기 어렵다는 것이다. &lt;br&gt;&lt;br&gt;향후 진로를 결정하는 것에도 고교학점제가 도움이 되지 않는다(76.6%)고 했다. 올해 고1부터 전면 시행된 고교학점제의 취지는 학생들이 각자의 진로와 흥미에 맞는 수업을 듣고 꿈을 구체화할 수 있게 한다는 것이었는데, 현장에선 제도 취지가 제대로 실현되지 못하고 있다고 느끼는 것이다.&lt;br&gt;&lt;br&gt;고교학점제 때문에 학원이나 컨설팅 업체를 찾는 학생과 학부모도 적지 않았다. 응답자의 56.4%는 고교학점제 관련 상담을 받은 적이 있다고 했는데, 이들 중 60.4%는 학원 또는 컨설팅 업체의 도움을 받았다고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 공석이던 교정·출입국본부장 인사…이홍연·차용호 발탁</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/5TIGQZJOVJBQ3OYPOAWZDBA7FQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/5TIGQZJOVJBQ3OYPOAWZDBA7FQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 07:12:29 +0000</pubDate>
+      <content:encoded>법무부가 8일 신임 교정본부장에 이홍연(59) 교정정책단장을, 출입국·외국인정책본부장에는 차용호(53) 국적·통합정책단장을 보임했다고 밝혔다. 한동안 공석이었던 고위직 자리를 채운 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2WCMBVGEZDEYZYMVRGIZRRHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이홍연 신임 교정본부장(왼쪽)과 차용호 신임 출입국·외국인정책본부장. /법무부 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이홍연 신임 교정본부장은 서울시립대에서 경제학을 전공하고 1992년 7급 공채로 공직에 입문했다. 이후 법무부 복지과장, 부산교도소장, 수원구치소장 등을 거쳐 교정정책단장을 지낸 교정행정 전문가다.&lt;br&gt;&lt;br&gt;차용호 신임 출입국·외국인정책본부장은 전북대를 졸업하고 2001년 행정고시에 합격했다. 서울대 정책학 석·박사 학위를 받았고, 미국 데이턴대 로스쿨에서 법학석사 과정을 마쳤다. 유엔난민기구 본부 선임정책관, 제주출입국·외국인청장 등을 거쳐 국적·통합정책단장을 역임한 이민행정 전문가다.&lt;br&gt;&lt;br&gt;두 자리는 한동안 공석이었다. 앞서 신용해 전 교정본부장은 2022년 9월부터 2년 9개월간 재임한 뒤 지난 5월 퇴직했다. 신 전 본부장은 비상계엄 당시 박성재 전 장관의 지시를 받아 구치소 수용 여력을 점검·보고한 혐의(내란 중요임무 종사) 등으로 내란 특검의 수사를 받고 있다. 배상업 전 출입국·외국인정책본부장은 지난 4월 박 전 장관이 헌법재판소의 탄핵 기각 결정으로 직무에 복귀한 직후 사직했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘日모녀 참변’ 얼마나 됐다고…음주운전 집중 단속에 무더기 적발</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/SKKC2CRPI5C7RDPO2CL3JQBY3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/SKKC2CRPI5C7RDPO2CL3JQBY3U/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 07:06:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2WMYJWGNTGGNLGGMYDOM3EG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오후 서울 종로구 동대문역 인근에서 경찰이 음주운전 단속을 실시하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 음주운전으로 일본인 관광객이 참변을 당하는 등 사고가 잇따르자 경찰이 집중단속에 나서 총 11건의 음주운전이 적발됐다.&lt;br&gt;&lt;br&gt;8일 서울경찰청은 전날(7일) 밤 서울 시내 주요 도로에서 약 2시간 동안 음주운전 집중 단속을 벌여 면허 취소 2건과 면허 정지 9건 등 총 11건의 음주운전을 적발했다고 밝혔다. &lt;br&gt;&lt;br&gt;이번 단속에는 교통경찰과 기동순찰대원 116명, 순찰차와 오토바이 35대 등이 동원됐다.&lt;br&gt;&lt;br&gt;음주운전 단속은 음주 사고 다발 지역인 강남역, 교대역, 양재역 일대와 종로구 흥인지문 인근에서 이뤄졌으며, 강남사거리역에서는 면허 취소 1건과 면허정지 4건 등 가장 많은 음주운전이 적발됐다.&lt;br&gt;&lt;br&gt;특히 지난 2일 일본인 관광객 모녀가 한국에 온 첫날 음주운전 차량에 치이는 사고를 당해 50대 어머니가 숨진 흥인지문 일대에서도 음주운전자 2명이 적발됐다. &lt;br&gt;&lt;br&gt;흥인지문 사거리 인근에서 적발된 40대 남성은 음주 수치는 면허정지에 해당했지만 과거에도 음주운전을 한 전력이 있어 면허취소 처분을 받았다.&lt;br&gt;&lt;br&gt;경찰은 앞으로도 음주 사고 다발 지점에서 불시 단속을 한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“운동이 암을 이긴다!” 연세대 캠퍼스 달군 희망의 발걸음</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/4D5FS3YAOVBGLNXRQMWAIE5NFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/4D5FS3YAOVBGLNXRQMWAIE5NFE/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 06:35:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EMGIM2H45F4JJYJS5MK7Z6QFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“운동이 암을 이긴다!”&lt;br&gt;&lt;br&gt;8일 오전 서울 서대문구 연세대 신촌캠퍼스 대운동장은 700여 명의 참가자들의 힘찬 구호로 가득 찼다. 이들은 ‘제1회 온코런(OncoRun)’ 참가자들이다. 이들은 파란 티셔츠를 맞춰 입고 달리기 준비에 한창이었다. 항암치료로 모자를 쓴 환자들도 곳곳에서 눈에 띄었다. 가족 단위 참가자부터 20·30대 러닝 크루, 60대 참가자까지 연령층도 다양했다.&lt;br&gt;&lt;br&gt;온코런은 암 예방과 생존자 건강 증진을 위해 마련된 마라톤 행사다. 연세암병원과 연세대, 서대문구청이 공동 개최했다. 이날 행사는 5㎞ 달리기와 3㎞ 걷기 코스로 진행됐다. 암 환자와 생존자, 가족, 의료진, 지역 주민 등 700여 명이 참여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATKTIG4NIFD2ZIXREN7ZDTO6OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울 상암동 주민 장명화(47)씨는 딸 유예서(11)양과 함께 5㎞를 달렸다. 2017년 갑상선암 수술을 받은 그는 “암 진단 당시 충격이 컸지만 운동에 매달리며 오히려 더 건강해졌다”며 “한 달 넘게 준비해 완주하니 뿌듯하다. 100세 시대엔 누가 뭐래도 건강이 가장 중요하다”고 했다.&lt;br&gt;&lt;br&gt;최근 폐암 4기 판정을 받은 조모(54)씨는 이날 걷기 코스에 참여했다. 그는 “암 환자가 함께 운동할 기회가 거의 없어 임산부 프로그램에 참여하기도 했지만 쉽지 않았다”며 “비슷한 상황의 사람들과 정보를 나누고 소속감도 느낄 수 있어 너무 좋았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYQZNI7LSNAS3AP27PBAZVMEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 유방암 수술을 받은 김현정(55)씨는 이날 남편 류두목(59)씨와 함께 5㎞ 달리기를 완주했다. 그는 “4주 전부터 매일 뛰며 준비한 보람이 있다”고 했다.&lt;br&gt;&lt;br&gt;세종에서 온 안도경(53)씨는 지난해 6월 유방암 4기 진단을 받고 항암치료를 받고 있다. 안씨는 “대회를 준비하려고 2주 넘게 매일 오전 30분씩 뛰고 저녁엔 스트레칭을 했다”며 “(이번 대회를 계기로) 운동을 꾸준히 해야겠다는 마음을 다잡게 됐다”고 했다.&lt;br&gt;&lt;br&gt;현장에서 본지와 만난 경기 남양주 주민 조윤성(59)씨는 지난 9월 방광암 진단을 받았다고 했다. 이미 한 차례 수술을 받았고 다음 달 재수술을 앞두고 있다. 그는 “원전에서 30년 일하고 제2의 인생을 시작하려던 때 암 진단을 받아 하늘이 캄캄했다”며 “아버지도 같은 나이에 폐암으로 돌아가셔서 더 절실하다. 지금은 매일 1시간 이상 달린다”고 했다.&lt;br&gt;&lt;br&gt;일반 시민들도 함께했다. 서울 은평구 주민 금문식(34)·이주화(39)씨 부부는 “(이날 대회 참가를 위해) 한 달 넘게 주 3회 이상 꾸준히 뛰었고 주말엔 남산을 달렸다”며 “남녀노소가 자연스럽게 어우러져 뛰는 모습이 좋았고, 가을 캠퍼스 풍경도 인상적이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLTYMZX4QNENTJEALFQA54QITI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;달리기에 앞서 건강 강좌도 열렸다. 정세희(서울대 재활의학과), 홍정기(차의과대), 박지수·김희만(연세암병원 암예방센터), 김기현(달리는 한의원), 전용관(연세대 스포츠응용산업학과) 교수가 강연에 나섰다.&lt;br&gt;&lt;br&gt;전용관 연세대 교수(연세암병원·암예방센터 겸직)는 이날 강좌에서 “운동은 암 생존자의 삶의 질을 높이는 것을 넘어 생존 자체를 좌우할 수 있는 새로운 치료제”라며 “주 150분 걷기 같은 중등도 유산소 운동과 맨몸 근력 운동만으로도 생존율을 높이는 데 충분하다”고 강조했다.&lt;br&gt;&lt;br&gt;이날 행사에는 장혜선 롯데장학재단 이사장, 이성헌 서대문구청장, 피터 언더우드 연세대 이사도 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“법무부 장·차관이 항소 반대” 대장동 담당 검사가 폭로</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/2FEPKBJZLVF2TKFA4GQ4ZI3LPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/2FEPKBJZLVF2TKFA4GQ4ZI3LPI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 05:56:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZGGOBYGE3DKZBYGIYGKMBXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서초동에 있는 대검찰청에서 검찰 깃발이 휘날리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘대장동 개발 비리’ 민간업자 사건을 항소하지 않은 결정에 대해 공판을 담당했던 검사가 8일 항소장을 제출하지 못한 경위를 검찰 내부망에 자세하게 밝혔다.&lt;br&gt;&lt;br&gt;강백신 대전고검 검사는 이날 새벽 4시쯤 검찰 내부망 이프로스에 ‘대장동 개발 비리 관련자 5명에 대한 항소장을 제출하지 못한 경위’라는 제목의 글을 올렸다. 강 검사는 “최근 형사사법 시스템의 대내외적 환경의 급격한 변화로 국민과 검찰 구성원들의 심려가 큰 상황에서 특정 사건의 공판 대응과 관련해 심려를 끼치는 글을 올리게 돼 대단히 송구스럽다”면서도 “사안의 중대성과 그 성격에 비추어 구체적 경위를 공유할 필요가 있다는 판단이 있었다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;강 검사에 따르면 지난달 31일 서울중앙지법의 1심 판결 후 사흘 뒤인 지난 3일, 대장동 수사팀과 공판팀은 만장일치로 항소제기 의견을 모았다고 한다. 이들은 1심 재판부가 무죄를 선고한 부분에 대해 상급심의 추가적 판단이 필요하다고 봤다.&lt;br&gt;&lt;br&gt;5일 이들은 항소제기 보고서 등 관련 문서를 중앙지검 내부에 보고했고, 중앙지검 차원에서 항소 제기 방침을 결정한 뒤 대검 반부패부에 승인을 요청했다. 이튿날 대검은 1심 판결과 관련해 검찰의 별건수사 지적과 관련한 적법성 등을 검토해달라고 했다. 대검 요청을 정리해 회신한 담당팀은 7일 항소장을 부장, 4차장, 검사장 결재를 받았다. &lt;br&gt;&lt;br&gt;대검의 승인이 떨어지지 않은 상황에서 항소장 제출은 계속해서 미뤄졌다. 강 검사는 “대검 반부패부장이 재검토해보라고 하면서 불허하자, 4차장이 반부패부장에게 전화해 설득하겠다며 기다려달라고 했다”고 전했다.&lt;br&gt;&lt;br&gt;항소장 접수 시한이 2시간 남은 오후 10시가 됐을 쯤엔 대검 담당 연구관에게 중앙지검장의 판단 하에 처리하면 되는지 확인을 요청하는 메신저를 보냈다고 한다. 직원들은 항소장 접수를 위해 법원에서 대기하고 있었다. 그러나 강 검사는 12시가 가까워질 때까지 중앙지검 지휘부에선 항소장 접수 여부에 아무런 지시를 하지 않았다고 주장했다. 강 검사는 “공판 담당 검사 2명이 4차장실로 가서 ‘항소를 해야 하니 결단을 내려달라’는 취지로 건의하자 4차장은 ‘대검에서 불허했고, 검사장께서도 불허해 어쩔 수 없다”고 답변했다”고 했다.&lt;br&gt;&lt;br&gt;대검은 1심에서 민간업자들의 배임 혐의가 유죄로 인정됐고, 유동규 전 성남도시개발공사 본부장은 구형(징역 7년)보다 중형(징역 8년)이 선고돼 항소의 실익이 없다는 취지로 항소를 승인하지 않았다고 한다. 이에 동의하지 않은 담당 검사들은 끝까지 지휘부를 설득했지만, 자정까지 결정을 뒤집지는 못했다.&lt;br&gt;&lt;br&gt;강 검사는 법무부와 대검이 이같은 결정을 내린 경위를 공개해야 한다고 촉구했다. 그는 “수사팀 및 공판팀은 대검에서 내부적으로도 항소할 사안으로 판단한 후 법무부에 항소 여부를 승인받기 위해 보고했지만 장관과 차관이 이를 반대했다는 이야기를 전해 들었다”며 “대검에서 법무부에 승인 요청을 한 경위와 그 적법성 여부를 설명해주실 것을 요청드린다”고 적었다.&lt;br&gt;&lt;br&gt;끝으로 강 검사는 “2021년 대장동 개발비리가 문제됐을 때 사건의 명확한 실체를 밝혀달라는 국민적 요구가 높았던 본건의 공판을 담당하는 검사로서 전례 없던 부당한 결과가 초래돼 국민과 검찰 구성원들에게 큰 심려를 끼치게 됐다”며 “책임을 통감한다”고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뮤지컬 배우 김준영, 유흥업소 출입 논란에 자필 사과문… “자숙할 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/MP4PCYFBQJD4RBO4PJLEOAGIUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/MP4PCYFBQJD4RBO4PJLEOAGIUI/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 05:14:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PR273ZGCGZHPFINZIA7DQU7PZU.png"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 김준영. /김준영 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유흥업소 출입 등 사생활 논란에 휩싸인 뮤지컬 배우 김준영이 자필 사과문을 통해 “자숙하고 반성하며 살겠다”고 했다. &lt;br&gt;&lt;br&gt;김준영은 7일 인스타그램에 “최근 저의 과거 개인적 일로 인해 많은 분들께 실망과 상처를 드린 점 사과드린다”며 “위법 여부와 관계없이 저의 인식 부족으로 인한 부적절한 행동을 했다”고 적었다. 그러면서 “그 어떤 변명도 할 수 없는 제 잘못이고 모든 책임은 저에게 있다”고 했다. &lt;br&gt;&lt;br&gt;이어 “소속사와의 관계가 종료되고 하고 있던 모든 작품에서 하차하게 됐다”며 “그러나 그것만으로 제가 드린 상처와 실망이 지워질 수 없다는 것을 잘 알고 있다”고 했다. 이어 “이것이 끝이 아니라 책임의 시작이라 생각하며 평생 잊지 않고 자숙하고 반성하며 살겠다”며 “사과가 늦어진 점 또한 깊이 사과드린다”고 했다. &lt;br&gt;&lt;br&gt;김준영은 “저로 인해 피해를 본 제작사, 소속사, 관계자분들, 배우분들, 스태프분들께도 고개 숙여 사과드린다”며 “관객분들과 늘 부족한 저를 응원해 주셨던 팬분들께 상처와 실망감을 드려 너무 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;끝으로 “이번 일을 계기로 제가 얼마나 안일했는지, 어떤 태도로 지내왔는지 뼈아프게 돌아보고 있다”며 “이 부끄러움을 잊지 않고 스스로 더 엄격히 성찰하며 살겠다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSDMMJXGY4WCOJSHE2TSOLFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/김준영 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김준영의 사생활 논란은 지난 2일 온라인 게시글로 불거졌다. 작성자는 가격과 계좌 이체 번호 등이 손글씨로 적힌 영수증 사진과 함께 “여자친구 추정 인스타그램에 뮤지컬 배우가 유흥업소에 다녔다는 폭로성 사진이 올라왔는데, 아직 사실 여부가 확인되지 않았다”며 “소속사는 사실 확인 후 즉각적인 입장문을 내달라”고 했다. &lt;br&gt;&lt;br&gt;논란이 커지자, 소속사는 이튿날 “온라인상 제기되고 있는 의혹들과 관련하여 배우에게 그 어떠한 불법 행위도 없었음을 명백히 밝힌다”고 했다가, 입장을 바꿔 “김준영 배우와 관련해 발생한 사안으로 관객 및 관계자 여러분께 심려를 끼쳐드린 점 깊이 사과드린다”며 “출연 중인 모든 작품에서 하차한다”고 했다. &lt;br&gt;&lt;br&gt;소속사는 김준영과 전속 계약도 종료한 것으로 알려졌다. 소속사는 7일 “김준영 배우와의 전속 계약은 작품 하차 결정과 동시에 종료됐다”며 “이번 일을 통해 저희가 지켜야 할 최우선의 기준이 언제나 관객 여러분임을 다시 한번 마음에 새겼다”고 했다. ”더욱 책임감 있는 운영으로 신뢰를 회복할 수 있도록 최선을 다하겠다”고도 했다. &lt;br&gt;&lt;br&gt;김준영은 2018년 뮤지컬 ‘사랑은 비를 타고’로 데뷔했다. 최근에는 뮤지컬 ‘라흐마니노프’와 연극 ‘아마데우스’에 출연 중이었고, 뮤지컬 ‘이터니티’와 ‘존도우’ 출연을 앞두고 있었다. 하지만 이번 논란으로 모두 하차하게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 해병 특검 “尹 전 대통령 오는 11일 출석 재통보”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</guid>
@@ -868,54 +931,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZDMNDCGU2DCYRTGE2DSNTBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이배용 전 국가교육위원장이 6일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검(특별검사 민중기) 사무실에 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 ‘금거북이 청탁’ 의혹을 받는 이배용 전 국가교육위원회 위원장을 13일 재소환한다.&lt;br&gt;&lt;br&gt;특검은 이날 오후 언론 브리핑을 열고 이 전 위원장에게 13일 오전 10시 출석해 조사받으라 통보했다고 밝혔다. 전날 첫 번째 소환 조사를 받은 이 전 위원장은 오후 9시까지 조사를 받은 뒤, 오후 10시 30분부터 조서 열람에 들어갔고, 이날 0시 15분쯤 퇴실했다. &lt;br&gt;&lt;br&gt;조사 종료 후 이 전 위원장은 ‘금거북이를 왜 건네셨는지’,‘김 여사와 2022년 코바나컨텐츠에서 왜 만나셨냐’는 취재진 질문에 답하지 않았다. 다만 ‘인사 청탁을 한 적 없다는 입장인지’ 묻자 고개를 끄덕인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;앞서 특검은 김 여사 모친 최은순씨가 운영하는 요양원 등을 압수 수색하면서 이 전 위원장이 보낸 금거북이와 윤석열 전 대통령 당선 축하 카드를 발견했다. 이에 특검은 이 전 위원장이 윤 전 대통령 당선 후 공직 청탁을 목적으로 이를 선물했고 김 여사가 영향력을 발휘해 국가교육위원장에 임명된 것은 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;한편 특검은 전날 ‘웰바이오텍 주가조작’ 의혹 관련 구세현(구속) 전 대표를 소환 조사하고 구속 기간 연장 신청을 했다고 밝혔다. &lt;br&gt;&lt;br&gt;구속 기소됐다가 일시 석방된 한학자 총재는 이날 법원에 구속집행정지 기간을 연장해달라고 요청했지만, 특검은 “구속집행정지 사유였던 안과 시술이 이미 완료돼 연장 필요성이 설명되지 않는다는 기각 의견을 법원에 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>한학자 통일교 총재, 구속집행정지 연장 신청... 안과 수술 받아</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/07/A3IBBK3BBVA55FA3EOWMVTRHNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/A3IBBK3BBVA55FA3EOWMVTRHNI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 05:38:56 +0000</pubDate>
-      <content:encoded>정치자금법 위반 등 혐의로 구속 기소됐다가 구속 집행정지로 잠시 풀려난 한학자 세계평화통일가정연합(통일교) 총재가 구속 집행정지 기간을 연장해 달라는 신청을 법원에 냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2GCNLEGJSGGNDEGI4TIYZVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 법조계에 따르면, 한 총재 측은 지난 6일 서울중앙지법 형사27부(재판장 우인성)에 ‘구속 집행정지 기간 연장 신청’을 제출했다. 구속 집행정지는 법원이 직권으로 구속된 피고인을 일시적으로 석방하는 결정이다. 보통 직계 가족 장례나 심각한 지병 등 긴급한 사유가 있을 때 인정된다. 결정 즉시 효력이 발생하고 보석과는 달리 보증금 조건이 붙지 않는다. &lt;br&gt;&lt;br&gt;한 총재 측은 지난 1일 구속 집행정지를 처음 신청하면서 “녹내장 말기로 안과 수술이 예정돼 있다“며 “수술하고 회복하는 데 필요한 일정을 최소한으로 계산해 신청한 것”이라고 했다.&lt;br&gt;&lt;br&gt;재판부는 일시 석방 기간 한 총재의 주거를 병원 구내로 제한하고, 의료인과 신분증을 패용한 변호인 외 다른 사람과 접촉하거나 사건과 관련해 연락해선 안 된다는 조건을 걸어 구속 집행정지를 허가했다. 도망하거나 증거를 인멸해선 안 되고, 구속 집행정지 기간 중에도 소환을 받은 때는 출석해야 한다는 조건도 붙었다. 재판부가 정한 시한은 이날 오후 4시까지다.&lt;br&gt;&lt;br&gt;한 총재는 윤영호 전 통일교 세계본부장과 공모해 2022년 1월 권성동 국민의힘 의원에게 정치자금 1억원을 교부하고 20대 대선 전 통일교 자금으로 국민의힘 광역시도당 등에 1억4400만원을 쪼개기 후원한 혐의(정치자금법 위반) 등으로 지난달 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;한 총재는 윤 전 본부장과 2022년 7월 두 차례에 걸쳐 김건희 여사에게 그라프 목걸이 등 명품을 건넨 혐의(청탁금지법 위반), 이를 마련하기 위해 통일교 자금을 빼돌린 혐의(업무상 횡령)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘무릎꿇고 빌어라’ 강요?…박수홍, 식품업체 협박 의혹 무혐의 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/WAS7VMS4NVAHXM2YIZSJY4LA44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/WAS7VMS4NVAHXM2YIZSJY4LA44/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 05:02:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZTEODGGU2DCZTEGE2DANZQMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍이 법적 다툼을 벌이고 있는 식품업체 대표로부터 협박 혐의로 고소를 당했으나 무혐의 처분을 받았다. &lt;br&gt;&lt;br&gt;7일 경찰과 박수홍 측 법률대리인 등에 따르면 강남경찰서는 지난달 20일 박수홍의 협박 혐의에 대해 ‘혐의없음’으로 결정해 검찰에 불송치했다.&lt;br&gt;&lt;br&gt;앞서 모 식품업체 대표이사 A씨는 박수홍 측으로부터 협박을 당했다며 지난 7월 박수홍을 고소했다.&lt;br&gt;&lt;br&gt;박수홍의 소속사는 2023년 9월 ‘A씨 업체가 박수홍의 얼굴을 광고에 무단 사용했다’며 5억원 상당의 약정금 청구 소송을 낸 바 있다. &lt;br&gt;&lt;br&gt;이후 A씨는 박수홍 측 변호사가 해당 소송 제기 직전 “죄송하고 죽을죄를 지었다고 싹싹 빌라”, “무릎 꿇고 ‘살려주십시오’ 수준이어야 할 것”과 같은 발언을 하며 자신을 협박했다고 주장했다.&lt;br&gt;&lt;br&gt;박수홍 측은 이날 입장문을 통해 “(A씨의 고소는) 유명 연예인인 박수홍의 이미지를 실추시키고, 압박하기 위한 행위로 볼 수밖에 없으며, 명백한 무고에 해당한다”며 “A씨의 주장이 근거 없는 허위임이 경찰 조사를 통해 명백하게 밝혀진 만큼, 향후 이같이 명예를 훼손하는 행위에 대하여 단호하게 법적 대응을 검토할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>허위 납품계약으로 서울보증보험 상대 80억원 보험사기</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/G7PTVUJSMNF7VLNYFOUUG4KB5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/G7PTVUJSMNF7VLNYFOUUG4KB5E/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 04:58:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/REWNMOB5GJGWTMXMDIYG7MPEYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;차입회사가 허위납품계약서를 통해 가입한 이행보증보험증권 사본./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;SGI서울보증보험을 상대로 보험 사기를 벌여 수십억원을 낚아챈 혐의를 받는 피의자 38명이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;7일 서울경찰청 광역수사단 형사기동대는 허위 납품 계약으로 서울보증보험(SGI)의 반환보증 보험 상품에 가입해 약 80억원을 가로챈 혐의(보험사기방지특별법 위반)를 받는 38명을 검거했다고 밝혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 회사 대표인 A씨와 B씨를 비롯한 업자와 브로커 등 38명을 보험사기방지특별법 위반 등 혐의로 검찰에 송치했으며 이중 A씨는 구속 송치했다고 7일 밝혔다. 이들은 2020년 2월부터 2023년 7월까지 회사 간 자금 대출 계약을 납품 계약으로 꾸며 SGI의 보험상품에 가입하는 방식으로 SGI로부터 총 80억원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;종합보증회사인 SGI는 보험 계약자가 다른 회사와 납품 계약을 맺고 나서 물품을 제때 공급하지 못하거나 미리 받은 물품 대금을 돌려주지 못하는 경우 금액 반환을 보장하는 ‘이행보증보험’ 상품을 운용하고 있다. 이행보증보험은 보험계약자가 주계약에서 정한 채무를 이행하지 않을 경우 피보험자가 입게 될 손해를 보장한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EQMSGDWWCZEY5B5UPEJX7EAD3U.png"&gt;&lt;figcaption&gt;&lt;small&gt;SGI가 차입회사로부터 받은 허위 납품계약 체결서./서울경찰청 광역수사단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 2021년 12월부터 2022년 12월까지 대출회사들로부터 67회에 걸쳐 110억원을 빌리면서 물품 계약을 한 것처럼 가장해 이 보험상품에 가입했다. 그는 45억 상당의 대출 원금을 변제하지 못하자 이 금액을 보험금으로 받게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 제3의 회사를 동원한 사례도 적발했다. 또 다른 회사 대표 B씨는 2020년 2월부터 2023년 7월까지 업체 15곳을 섭외해 대출회사로부터 25회에 걸쳐 40억원에 달하는 돈을 빌렸다. 그는 대출회사가 이 과정에서 갚지 못한 대출원금 35억원을 보험금으로 받게 한 혐의를 받는다. 이 업체는 낮은 신용 탓에 직접 보험 가입이 어려워 업체를 섭외해 허위 납품 계약을 체결하고 보증보험을 대신 가입하는 대가로 수수료를 지급한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이같은 과정에서 서울보증보험은 납품 계약 과정에서 물품대금이 반환되지 못한 것으로 속아 총 80억원의 보험금을 지급한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 “보험심사 시 계약자가 제출하는 계약서 검토에 그쳐선 안 되고 실제 계약을 명확히 확인할 수 있는 시스템이 필요하다”고 SGI에 제도개선을 제안하는 한편 “보험대상의 실질적인 내용이 다르고 보험 가입 시 실제 내용을 보험사에 고지하지 않은 경우 보험사기가 성립된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사람이 사는 곳 맞냐”...퇴거한 세입자 원룸방 상태 ‘충격’</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/2HENHG7X5NBZPFJJN633XUC24A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/2HENHG7X5NBZPFJJN633XUC24A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 04:52:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BTYWLUPSZA7JFZJXXBDKO7KMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 세입자가 퇴거한 뒤 쓰레기로 뒤덮인 원룸 내부. /보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보증금 없이 월세만 내고 살던 세입자가 집을 쓰레기장처럼 만들어 놓은 채 퇴거했다는 사연이 전해지며 논란이 일고 있다.&lt;br&gt;&lt;br&gt;7일 한 온라인 커뮤니티에는 “원룸 운영 중인데 쓰레기방 만들고 도주했는데 조언 구합니다. 도와주세요”라는 제목의 글과 함께 사진 여러 장이 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “아버지께서 원룸을 운영 중이신데, 좋은 게 좋은 거라는 마음으로 세입자들을 대하셨다”며 “보증금도 없고 방세도 미루어 주고 그랬던 것 같다”고 밝혔다. 그는 “세입자가 퇴거한다고 연락이 왔고, 쓰레기가 조금 있다고 하길래 오래 계셨으니 그 정도는 제가 직접 처리하겠다고 생각했다. 그런데 막상 가보니 방은 쓰레기로 가득 차 있었고 청소비 지급도 거부하고 나가버렸다”고 했다.&lt;br&gt;&lt;br&gt;A씨가 공개한 사진에는 각종 생활쓰레기와 정체불명의 자루들이 바닥을 가릴 정도로 쌓여 있었고, 발을 디딜 공간도 보이지 않았다. 화장실 역시 바닥과 벽, 변기까지 곰팡이와 때가 뒤덮여 있어 사람이 거주하던 공간이라 보기 어려운 수준이었다.&lt;br&gt;&lt;br&gt;A씨는 “세입자에게 ‘이건 너무한 거 아니냐. 청소업체를 알아봐 줄 테니 비용을 직접 입금하고 쓰레기만 처리해 달라’고 요청했지만, ‘돈도 많으면서 그 정도는 알아서 하라’며 거절했다”고 전했다.&lt;br&gt;&lt;br&gt;A씨는 “업체를 통해 청소하면 그걸로 끝내겠다. 하지만 거절한다면 민사로든 형사로든 소송을 걸어 사용 못 하게 된 집기 전부를 보상받도록 하겠다”고 경고했지만, 세입자의 태도는 바뀌지 않았다.&lt;br&gt;&lt;br&gt;결국 A씨는 세입자를 재물손괴 혐의로 형사 고소했으나, 법원은 ‘혐의 없음’ 처분을 내렸다. 그는 “쓰레기 처리비용으로만 105만 원을 지급했고, 방을 복구하려면 얼마나 더 들어갈지 막막하다”며 “보통 이런 경우 어떻게 보상받을 수 있는지 조언이 필요하다”고 호소했다.&lt;br&gt;&lt;br&gt;네티즌들은 “사람이 저렇게도 살 수 있나” “그래서 보증금을 받는 거다. 집주인들이 나빠서 받는 게 아니다” “보증금 최소 1000만 원은 받고 사람을 들이라” “정신적으로 문제가 있어 보인다” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/T2SSM7QCBRDAVDX553HWMDNZ3Y.jpg?auth=f4d0962515297966f90e79974c811a74701dc81bced88b5330b8f544f9e8b5e9&amp;smart=true&amp;width=1200&amp;height=813" type="image/jpeg" height="813" width="1200">
-        <media:description type="plain">한 세입자가 퇴거한 뒤 쓰레기로 뒤덮인 원룸 내부./보배드림</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>‘법정 칼부림’ 코인 투자 피해자, 대법서 징역 5년 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/07/WY5AB22NSRCSPNQFBR4NQRSQNI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/WY5AB22NSRCSPNQFBR4NQRSQNI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 04:49:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM55UGOT5FIUXHGNB3YXONDSDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1조원대 코인 사기 혐의로 재판을 받던 코인 예치업체 대표를 법정에서 흉기로 살해하려다 미수에 그친 사기 피해자에게 실형이 확정됐다. 대법원 2부(주심 박영재 대법관)는 살인미수 및 법정소동 혐의로 기소된 강모(51)씨에게 징역 5년을 선고한 원심 판결을 지난달 확정했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;강씨는 작년 8월 28일 하루인베스트먼트 대표 이모(41)씨의 사기 혐의 재판이 열린 서울남부지법 법정에서 피고인석에 앉아 있던 이씨 목을 흉기로 여러 차례 찌른 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;이씨는 2020년 3월~2023년 6월 코인 예치금을 운용해 원금을 보장하고 업계 최고 수익을 지급할 것처럼 고객을 모은 뒤 지난해 갑자기 투자자들의 출금을 중단하고 사무실을 폐쇄해 1조4000억원을 가로챈 혐의로 재판을 받고 있었는데, 강씨는 업체를 믿고 코인을 예치했다가 손실을 본 것으로 조사됐다.&lt;br&gt;&lt;br&gt;강씨는 이씨가 기소된 뒤로 재판에 매번 참석하면서, 이씨가 변호인과 웃으면서 인사하는 모습이나 피해 회복은 전혀 하지 않으면서 고액의 변호인단을 선임하고 범행을 부인하는 모습 등을 보고 살해하기로 마음 먹은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;앞서 1, 2심은 강씨에게 징역 5년을 선고했다. 1심 재판부는 “이씨가 운영하는 사업에 투자했다가 큰 경제적 손실을 입은 점을 참작하더라도 우리 법질서에서 사적 제재는 어떠한 경우에도 허용될 수 없다”고 지적했다. 2심 재판부도 “법원 재판 기능을 저해하고 공적 공간에 대한 사회적 불신을 야기하는 행위로 죄책이 무겁다”고 했다. &lt;br&gt;&lt;br&gt;강씨가 형량이 무겁다며 상고했으나 대법원은 “형사소송법상 10년 이상의 징역이나 금고가 선고된 사건에서만 양형 부당을 사유로 한 상고가 허용된다”며 기각했다.&lt;br&gt;&lt;br&gt;한편 사기 혐의를 받는 이씨는 1심 재판 중 혐의 액수가 애초 1조4000억원대에서 8805억원으로 조정됐고, 지난 6월 무죄를 선고받았다. 검찰이 항소하면서 서울고법에서 2심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>9초 만에 9명 덮쳐… 매몰된 아빠의 청춘</title>
       <link>https://www.chosun.com/national/regional/2025/11/07/O2XX4C4CDBHWHP4J4HT36LJSXI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/07/O2XX4C4CDBHWHP4J4HT36LJSXI/</guid>
@@ -926,24 +941,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/EM7WH3FEINBGXELHLEGSS2NRGQ.gif?auth=919537d4be6d23ae0925df6e86aa7c7b473e65330e78bc2d8aabc17d6bb7b328&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
         <media:description type="plain">울산 발전소 붕괴 짤 수정3 480</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘서천 묻지마 살인’ 이지현... 2심도 무기징역</title>
-      <link>https://www.chosun.com/national/regional/2025/11/07/SOZWKV2L7NFCVOKBTZWOR3ISLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/07/SOZWKV2L7NFCVOKBTZWOR3ISLI/</guid>
-      <dc:creator>우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 02:49:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XLP57E3HCBFSFGPRXBG6N2A3V4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가상화폐 투자 실패에 대한 분노로 일면식 없는 40대 여성을 흉기로 살해한 이지현(34)씨가 항소심에서도 1심과 같은 무기징역을 선고받았다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 7일 이씨의 살인 혐의 사건 항소심 선고공판에서 “전자장치 부착 명령을 내려달라”는 검사의 항소를 기각하고 1심 형량과 같은 무기징역을 유지했다.&lt;br&gt;&lt;br&gt;이씨는 지난 3월 2일 오후 9시 45분쯤 충남 서천군 사곡리 한 인도에서 처음 본 40대 여성을 흉기로 수십 차례 찔러 살해한 혐의로 재판에 넘겨졌다. 그는 피해 여성과 모르는 사이였다.&lt;br&gt;&lt;br&gt;이씨는 가상화폐에 투자했다 실패해 수천만원의 손실을 보고, 이후 대출이 거부되자 극심한 불안과 분노에 빠진 것으로 조사됐다.&lt;br&gt;&lt;br&gt;그는 사건 발생 한 달 전부터 ‘다 죽여버리겠다’는 등의 메모를 남기고, 흉기를 미리 준비해 사건 장소를 여러 차례 배회하며 대상을 물색한 것으로 확인됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 이씨에게 무기징역을 선고하고 5년간 보호관찰을 받으라고 명령했다. &lt;br&gt;&lt;br&gt;1심 재판부는 “사기 피해에 대한 분노가 다른 사람에게 향하면서 일면식도 없는 피해자를 살해한 잔혹한 범행”이라며 “불특정인을 대상으로 구체적 목적이나 동기 없이 이뤄지는 이른바 ‘묻지마 범죄’로 다수에게 큰 공포감을 야기하는 만큼 죄책에 상응하는 엄벌이 불가피하다”고 밝혔다. &lt;br&gt;&lt;br&gt;2심 재판부 판단도 1심과 같았다.&lt;br&gt;&lt;br&gt;2심 재판부는 “피고인은 초범으로 성인 재범위험성 평가 결과 중간 수준으로 나타났고, 무기징역 선고와 보호관찰 명령·준수사항 부과로 상당 부분 재범 방지 효과를 거둘 수 있을 것으로 보인다”며 “검사의 항소는 받아들이지 않는다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] 해병 특검 “尹, 8일 조사 불출석하면 체포영장도 검토”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/07/IEZW7VBJVRHOVA33ATLVVTVLJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/07/IEZW7VBJVRHOVA33ATLVVTVLJE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 02:15:47 +0000</pubDate>
-      <content:encoded>순직 해병 특검팀이 윤석열 전 대통령이 오는 8일 예정된 소환 조사에 불응할 경우 체포영장 청구를 검토하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3TENTGGE4GMYZUGA2DQMRRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 7일 언론 브리핑에서 “윤 전 대통령 측은 8일 특검에 나와 피의자로 조사받으라는 요구에 대해 ‘변호인 사정으로 출석이 어렵다’는 사유서를 전날 제출했다”고 밝혔다. 이어 “특검은 변호인 측 요청을 받아들여 충분한 시간 여유를 줬고, 재판 일정이 없는 토요일로 조사 일정을 정한 만큼 윤 전 대통령의 조사는 예정대로 진행하겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달에도 윤 전 대통령에게 한 차례 출석을 요구했지만, 당시에도 윤 전 대통령 측은 “변호인단 재판 일정이 있어 어렵다”며 응하지 않았다. 이에 특검이 다시 날짜를 8일로 잡아 통지했는데도 윤 전 대통령 측은 “8일이 아닌 15일에 출석하겠다”고 언론에 밝히는 등, 특검의 출석 요구를 재차 거부했다. &lt;br&gt;&lt;br&gt;특검은 “윤 전 대통령이 8일에도 나오지 않으면 체포 영장 청구도 검토하고 있다”며 “아직 결정한 것은 없고, 당일 상황을 보고 입장을 정하겠다”고 했다. 다만 체포 영장을 발부받으려면 법적 절차가 필요해 시간이 다소 걸릴 수 있다고 했다. 특검은 윤 전 대통령이 불출석할 경우 다시 소환 날짜를 지정해 통보하거나 강제 구인에 나서는 등 여러 방법을 논의 중이라고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 순직 해병 사건의 수사 외압 의혹의 ‘정점’이다. 윤 전 대통령은 지난 2023년 7월 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 초동 조사 결과를 보고받고 격노해 임 전 사단장을 혐의자에서 제외하라고 외압을 행사한 혐의를 받는다. 또 채 상병 사건으로 고위공직자범죄수사처에 입건된 이종섭 전 국방장관을 주 호주 대사로 임명, 출국시켜 수사를 방해한 혐의도 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>일찍 찾아온 독감, 유행 속도 빨라져…일주일새 환자 68% 증가</title>
