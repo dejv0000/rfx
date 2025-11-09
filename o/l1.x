@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰총장 대행 "대장동 항소 포기, 법무부 의견 참고 해 협의로 결정"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/212979.jpg" alt="3637.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;노만석 검찰총장 직무대행이 10월 27일 서울 여의도 국회 법제사법위원회에서 열린 2025년 국정감사에서 기관 업무 보고를 하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1493"&gt;노만석&lt;/span&gt;(사법연수원 29기)검찰총장 직무대행이 9일 '대장동 항소 포기'사태와 관련해 "검찰총장 대행인 제 책임하에 서울중앙지검장과 협의를 거쳐 숙고 끝에 내린 결정"이라고 밝혔다. 항소 포기 배경을 둘러싸고 일선과의 갈등이 공개적으로 드러나면서 직접 입장을 낸 것이다.&lt;br /&gt;&lt;br /&gt;노 대행은 이날 배포한 입장문에서 "대장동 사건은 일선청 보고를 받고, 중요 사건과 마찬가지로 법무부 의견도 참고했다"며 "판결 취지와 내용, 항소 기준, 사건 경과 등을 종합적으로 고려한 결과 항소를 제기하지 않는 것이 타당하다고 판단했다"고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "다양한 의견과 우려가 있음을 잘 알고 있으나, 조직구성원 여러분은 이런 점을 헤아려주시기를 바란다"며 "장기간 공소 유지 업무를 수행하고 있는 일선 검사들의 노고에 감사드리며 늦은 시간까지 쉽지 않은 고민을 함께해 준&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6437"&gt;정진우&lt;/span&gt;&amp;nbsp;서울중앙지검장께 미안함과 감사의 마음을 전한다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;정 지검장은 대장동 사건 항소 포기 결정 직후 사의를 표명했다. 검찰 안팎에서는 지휘부 판단이 적절했는지를 둘러싸고 비판이 이어졌고, 노 대행이 이례적으로 입장문을 낸 것도 이 같은 혼란을 수습하기 위한 차원으로 해석된다.&lt;br /&gt;&lt;br /&gt;수사팀과 공판팀, 검찰 지휘부는 당초 항소 필요성을 제기했지만, 법무부는 검찰 구형의 절반을 넘는 중형이 선고됐고 법리 적용에 문제가 없다는 판단을 내린 것으로 전해졌다.&lt;br /&gt;&lt;br /&gt;이에 대장동 수사팀과 공판팀은 "항소 금지라는 부당하고 전례 없는 지시"라며 반발했다.&lt;br /&gt;</description>
+			<pubDate>Sun, 09 Nov 2025 06:34:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/212979</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212979</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212979.jpg</media:thumbnail>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 4일 교육 뒤 구두로 채용 거부 통보 … "부당해고"</title>
 			<description>4일간 4시간씩 교육·근무한 시용(수습) 근로자를 전화 통화로 해고한 것은 부당하다는 법원의 판결이 나왔다. 서울행정법원 행정1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9396"&gt;양상윤&amp;nbsp;&lt;/span&gt;부장판사)는 9월 5일 A 사가 중앙노동위원회 위원장을 상대로 제기한 부당 해고 구제 재심 판정 취소 소송에서 원고 패소 판결했다(&lt;b&gt;2024구합82817&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 사는 의료기, 의료소품, 위생용품 도소매업을 영위하는 법인으로 울산 울주군 소재 본점과 울산 동구 소재 울산대학교병원점, 울산 남구 소재 중앙병원점 등 2개 지점을 운영하고 있다.&lt;p&gt;   &lt;br /&gt;B 씨는 울산 동구 소재 울산대학교병원점에서 2023년 10월 23일부터 2023년 10월 30일까지 근무 및 교육을 받았다. 이후 A 사는 2023년 10월 31일 B 씨에게 전화통화를 통해 구두로 본 근로계약 체결 거부 의사표시를 했다.&lt;br /&gt;B 씨는 울산지방노동위원회에 부당 해고 구제 신청을 했고, 인용됐다. 울산지방노동위원회는 해당 사업장이 상시근로자 5명 이상인 사업장에 해당하고, 사회통념상 해고할 만한 정당한 사유가 있다고 보기 어렵다고 밝혔다. 회사가 해고 절차도 지키지 않아 부당 해고에 해당한다고 했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 사는 이 판정에 불복해 중노위에 재심을 신청했지만, 중노위 역시 울산지방노동위원회와 동일한 이유로 재심 신청을 기각했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;A 사는 “이 사건 지점은 상시근로자 5인 미만 사업장에 해당해 근로기준법이 적용되지 않고, 이 사건 근로자는 시용근로자에 해당하지도 않는다”며, 본채용 거부에 정당한 사유가 있다는 이유로 중노위의 재심판정을 취소해달라는 소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;서울행정법원은 A 사의 청구를 기각했다. 상시근로자 수와 관련 A 사는 ‘5인 미만의 사업장’이라고 주장했지만 재판부는 “본점과 이 사건의 지점은 하나의 법인에 의해 운영됐다”며 “본점과 지점이 하나의 정관을 보유하고, 의사결정이 독자적으로 이뤄진다고 보기 어렵다”고 판단했다. 재판부는 “A 사 본점의 대표이사와 이 사건 지점 대표자가 동일인”이라며 “B 씨 역시 해당 대표자가 직접 면접을 보고 협의를 했다”고 했다. 본점과 지점이 경영상 일체를 이룬다는 이유로 유기적으로 운영되는 사업장으로 해석한 것이다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;‘B 씨가 시용근로자가 아니다’는 주장에 대해서는 묵시적으로 시용 근로계약이 체결됐다고 봤다. 재판부는 “B 씨는 4일간 4시간씩 매장상품 용도, 위치 파악, 고객 응대 방법 등 교육을 받았다”며 “교육 내용은 회사 측이 채용공고에 기재한 근로 내용과 동일했다”고 했다. 그러면서 “원고는 2023년 11월 1일 B 씨에게 4일분의 일당을 급여로 지급했다”며 “B 씨의 교육기간이 평가 단계에 불과한 것이 아니라 근로 대가를 지불하고 업무 수행 교육 훈련을 하는 근로기간으로 보는 것이 타당하다”고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;마지막으로 채용거부에 정당한 사유가 있는지 여부에 대해서는 “4일간 4시간씩 교육기간만을 거쳐 채용 거부를 했다”며 “이는 B 씨의 신뢰에 반할 뿐만 아니라, 근로자의 직업적 능력, 자질 등 업무 적격성을 판단하기에 충분한 평가나 교육을 한 것으로 보기 어렵다”고 판시했다. 이어 “근무 기간이 총 4일간 16시간밖에 되지 않아 충분히 개선의 기회가 부여될 수 있었다”며 “업무 역량 미달의 이유라는 원고 주장은 쉽게 납득하기 어렵다”고 판단했다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;B 씨의 학력 사항에 허위 기재에 대해서도 재판부는 “C 고등학교는 2007년 3월 1일에 일반계 고등학교로 전환하며 D 고등학교로 그 명칭을 변경했다”며 “B 씨는 현재의 학교 명칭을 기재한 것에 불과하다”고 허위로 볼 수 없다고 판단했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 09 Nov 2025 00:29:48 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212942</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212942.jpg</media:thumbnail>
 			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>[속보] 검찰, '대장동 일당' 1심 항소 포기</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/212972.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 07 Nov 2025 15:03:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/212972</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/212972</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/212972.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
