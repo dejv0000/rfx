@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>66승 ‘골프 여제’ 신지애, 유소연 결혼식서 축가 부른다</title>
+      <link>https://www.chosun.com/national/people/2025/11/10/5IAEUG4GGVHBDH7QPXDMJQL6PM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/10/5IAEUG4GGVHBDH7QPXDMJQL6PM/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 23:00:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIHY6R2OWFFPTHSXUGWE7FZT6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신지애 프로./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘골프채 대신 마이크를.’&lt;br&gt;&lt;br&gt;통산 66승의 ‘골프 여제’ 신지애(38)가 다음 달 유소연의 결혼식에서 축가를 부른다. &lt;br&gt;&lt;br&gt;일본 시가현 오쓰시 세타 골프클럽(파72)에서 열린 LPGA 투어 토토 재팬 클래식에 출전한 신지애는 최근 “다음 달 유소연의 결혼식에서 축가를 해주기로 했다”며 “대회 참가와 트레이닝으로 바쁘지만 노래 연습을 해야 한다”고 말했다. &lt;br&gt;&lt;br&gt;신지애는 과거 두 차례 음반을 낸 이력이 있다. 신지애는 2009년 가수 이승철의 ‘안녕이라고 말하지 마’를 리메이크한 곡을 발매했다. 당시 “돌아가신 어머니가 좋아하던 곡”이라고 했다. &lt;br&gt;&lt;br&gt;다음 해엔 기독교 음악인 CCM 음반을 발매해 판매 수익을 불우이웃 돕기 성금으로 기부했다. 이에 취재진이 “새 앨범은 안 내느냐”는 농담 섞인 질문을 했고, 신지애가 “다음 달 노래 부를 일이 있다”며 축가 얘기를 꺼낸 것이다. &lt;br&gt;&lt;br&gt;지난 5월 일본 투어 메이저 대회인 살롱파스컵에서 우승하는 등 여전한 기량을 과시하는 그는 이번 대회 3라운드 합계 10언더파로 공동 6위에 올랐다. 하타오카 나사(일본)가 15언더파를 기록한 뒤 연장전에서 아라키 유나(일본)를 꺾고 우승했다. &lt;br&gt;&lt;br&gt;한국 선수 중엔 윤이나가 7언더파 공동 10위로 시즌 첫 톱10에 성공했다. 이번 대회는 폭우 때문에 4라운드가 취소돼 54홀 일정으로 마무리됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/LIHY6R2OWFFPTHSXUGWE7FZT6I.jpg?auth=01f140eac084262c3803b162f28f343a4959c98461c53e41fdec149e7e4c8d7e&amp;smart=true&amp;width=650&amp;height=366" type="image/jpeg" height="366" width="650">
+        <media:description type="plain">신지애 프로./조선DB</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>연구 족쇄 푸니… 테슬라·구글·IBM 인재들 돌아와</title>
       <link>https://www.chosun.com/national/education/2025/11/10/WT45BZBCB5CSJHC2C2Q262SX3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/10/WT45BZBCB5CSJHC2C2Q262SX3Q/</guid>
@@ -878,15 +891,6 @@
         <media:description type="plain"> 소방청
 철골 구조물 헤치며 수색  7일 오전 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 현장에서 소방대원이 무너진 철골 구조물 잔해를 헤치며 매몰된 근로자들을 찾고 있다. 전날 발생한 사고로 근로자 총 9명이 매몰됐다가 2명이 구조됐다. 7일 오후 11시 기준, 3명이 사망했고 2명이 사망한 것으로 추정된다. 다른 2명은 수색 중이다.</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘세계 50대 빵’ 계란빵… 고향은 인천</title>
-      <link>https://www.chosun.com/national/weekend/2025/11/08/7O545LY2TVBPDP6GTQ7ZFHOTWY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/11/08/7O545LY2TVBPDP6GTQ7ZFHOTWY/</guid>
-      <dc:creator>남정미 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 15:39:00 +0000</pubDate>
-      <content:encoded>붕어빵도 국화빵도 아니었다. 미국 CNN은 지난달 18일(현지 시각) ‘세계 50대 빵’을 선정해 발표하면서 한국 대표 빵으로 ‘계란빵’을 꼽았다. 영문명으로는 계란빵을 소리 나는 대로 적은 ‘Gyeran-ppang’을 썼다. 50국 대표 빵을 뽑으며 알파벳 순(나라 이름)으로 정렬했을 뿐, 순위를 따로 두진 않았다. CNN은 “계란빵은 1인분 크기의 빵에 계란 한 알을 통째로 넣어, 빵 속에 숨겨진 보물이 들어 있는 것과 같다”면서 “서울 길거리의 인기 메뉴이며, (사람들은) 아침 식사 또는 하루 중 언제든지 따뜻하게 이를 즐겨 먹는다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GTV2CVEUANDA7DV4A5MOP4NAA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;CNN이 ‘세계 50대 빵’으로 선정한 계란빵. /CNN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;목록 선정을 맡은 페이스트리 셰프(디저트·빵 등을 전문으로 만드는 셰프) 출신 작가 젠 로즈 스미스는 “나라별 다양성을 반영하면서도 기억에 남는 맛, 독특한 재료, 상징적인 의미, 먹을 때의 소박하고 따뜻한 즐거움을 기준으로 선정했다”고 했다. 프랑스 바게트, 이탈리아 치아바타, 일본 카레빵 등이 함께 이름을 올렸다. &lt;br&gt;&lt;br&gt;실제 계란빵은 붕어빵과 함께 노점에서 만날 수 있는 겨울철 대표 간식이다. 학창 시절부터 계란빵을 즐겨 먹었다는 직장인 김모(38)씨는 “20년 전 고등학생 때 하나에 500원이었는데, 하나만 먹어도 든든해 야간 자율 학습이 끝나면 친구들과 줄 서서 사 먹곤 했다”며 “해마다 겨울이면 그 기억이 나 꼭 먹는다”고 했다. &lt;br&gt;&lt;br&gt;CNN은 계란빵을 “서울의 인기 메뉴”라고 설명했지만, 계란빵을 처음 판매한 곳은 인천 미추홀구로 알려져 있다. 미추홀구향토문화백과는 “인하대 후문(인천 미추홀구)의 계란빵은 배고픈 학생들을 위해 또 다른 형태의 식사 대용품으로 탄생했다”며 “1984년 11월 처음 문을 열어 100원부터 시작했다”고 소개하고 있다. &lt;br&gt;&lt;br&gt;인하대 학부 출신인 50대 공대 교수는 “30여년 전 학생 시절에는 물론 모교 교수로 돌아와서도 후문 앞 계란빵을 자주 먹었다”며 “학생들에게도 많이 사주고, 가족들에게도 사다 줄 만큼 인기 간식이었다”고 했다. &lt;br&gt;&lt;br&gt;다만 노부부가 하는 해당 가게는 지난해부터 간헐적으로 영업하다, 올해는 문을 닫는 날이 더 많아졌다. 지난 3일 찾은 가게는 간판은 그대로 유지한 채 셔터가 내려져 있었다. 인하대 교직원 김모(50)씨는 “다른 계란빵은 흉내도 못 낼 정도로 맛있고 값도 싸 학생들과 종종 먹곤 했는데 문이 자주 닫혀 아쉽다”고 했다.&lt;br&gt;&lt;br&gt;CNN 보도 이후 국내 최대 자영업자 커뮤니티에선 계란빵 판매의 어려움을 토로하는 글이 올라오기도 했다. 굽는 시간이 오래 걸리는 반면 보관 가능 시간이 짧은 데다, 재료 값이 올라도 길거리 음식 특성상 쉬이 가격을 올리기 어려워 마진이 많이 남지 않는다는 것이다. 한 자영업자는 “최근엔 밀키트 형태의 계란빵도 나와 더 어렵다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 대장동 1심 항소 포기... 한동훈 “대한민국 검찰 자살”</title>
