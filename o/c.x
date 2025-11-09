@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>통영 앞바다서 70대 남성 숨진 채 발견… “입원 환자, 새벽 실종”</title>
+      <link>https://www.chosun.com/national/regional/2025/11/09/B4DONPCOC5DG3BCIV3W6GTYAOE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/09/B4DONPCOC5DG3BCIV3W6GTYAOE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 04:59:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRQTCZRQGYZDIOJYGJSWKOBSGY.png"&gt;&lt;figcaption&gt;&lt;small&gt;통영해양경찰서 전경./통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 통영 앞바다에서 70대 남성이 숨진 채 발견돼 해양경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;9일 통영해양경찰서에 따르면 이날 오전 9시 8분쯤 경남 통영시 무전동 앞바다에 “사람 형체가 물에 떠 있다”는 내용의 신고가 접수됐다.&lt;br&gt;&lt;br&gt;통영해경 등은 물에 떠 있던 70대 남성 A씨를 물 위로 구조했으나 이미 숨진 상태였다.&lt;br&gt;&lt;br&gt;A씨는 통영 한 병원 입원 환자로, 이날 오전 1시쯤 병원에서 나온 것이 확인됐다. 이후 가족이 실종 신고를 한 상태였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;통영해경은 CCTV 영상 등을 토대로 정확한 사고 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>즉시연금 분쟁, 대법은 보험사 쪽으로… “설명 부족했어도 계약 무효 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/09/KYTVKLBETVFZ3GQQNKABOLYLBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/09/KYTVKLBETVFZ3GQQNKABOLYLBQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 04:32:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XY55PYOI7OZ5XETY4BZDSL7EOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;생명보험사 3개가 즉시연금 가입자가 미지급금을 달라고 제기한 소송에서 최근 승소했다. /조선비즈DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;즉시연금 가입자들이 “보험사가 연금 산정 구조를 제대로 설명하지 않았다”며 제기한 소송에서 대법원이 보험사의 설명 부족은 인정하되 계약 자체는 유지된다고 판단했다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 노태악 대법관)는 상속만기형 즉시연금 가입자들이 미래에셋생명을 상대로 낸 미지급 보험금 청구 소송에서 항소 기각한 원심을 파기하고 사건을 서울고법으로 돌려보냈다고 9일 밝혔다.&lt;br&gt;&lt;br&gt;가입자들은 상속만기형 즉시연금 상품에 가입하면서 목돈을 한 번에 넣고, 이후 매달 보험금을 받았다. 그런데 실제로 지금된 연금액은 가입 당시 예상했던 금액보다 적었다.&lt;br&gt;&lt;br&gt;가입자들은 “보험사가 공시이율에 따라 적립된 이익을 전부 연금으로 돌려줘야 하는데, 만기보험금으로 돌려줄 재원을 먼저 떼고 남은 금액만 연금으로 지급했다”며 차액 지급을 요구하며 소송을 제기했다.&lt;br&gt;&lt;br&gt;실제로 연금액을 계산할 때 만기보험금 재원을 미리 떼어두는 구조는 약관에는 명확히 기재돼 있지 않았다. 해당 방식은 별도의 문서에 복잡한 수식 형태로만 제시돼 있어, 가입자들이 이를 확인하거나 이해하기는 사실상 어려웠다.&lt;br&gt;&lt;br&gt;1심과 2심은 보험사가 연금 산출 방식의 핵심 요소를 가입자에게 충분히 설명하지 않았다며 가입자들의 손을 들어줬다. 그러나 대법원 판단은 달랐다.&lt;br&gt;&lt;br&gt;대법원은 보험사가 연금 산정 방식에 대해 설명의무를 다하지 않은 점은 인정하면서도, “설명의무 위반이 곧 보험계약 전체의 무효를 의미하는 것은 아니다”라고 했다. 그러면서 “이 사건의 경우 생존연금액은 여전히 산출방법서에 따른 방식으로 산정될 수 있다”며 원심을 파기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“보험금 달라”며 심평원서 방화 위협한 60대 병원장 구속… “도망 염려”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/09/5NZVANAWJVH2JJ2RSRKJJTOELU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/09/5NZVANAWJVH2JJ2RSRKJJTOELU/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 04:16:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTGHELTWN5WTGBTFQL4OCDJKW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;건강보험심사평가원(심평원)에서 보험금 지급을 요구하며 불을 내겠다 위협한 60대 병원장이 구속됐다.&lt;br&gt;&lt;br&gt;9일 법조계에 따르면, 서울동부지법은 현주건조물방화예비 혐의를 받는 60대 병원장 유모씨에 대해 “도망할 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;유씨는 지난 6일 오후 1시쯤 병원 직원인 40대 여성 A씨와 함께 서울 송파구 심평원 서울본부에서 휘발유와 라이터를 내보이며 난동을 부린 혐의를 받는다. 다행히 이들의 범행이 실제 방화로 이어지지는 않았다.&lt;br&gt;&lt;br&gt;이들은 심평원이 보험금 청구를 받아들이지 않은 데 불만을 품고 범행을 저지른 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 경찰은 범행을 주도한 유씨에 대해서만 구속영장을 신청해 A씨는 불구속 상태에서 수사를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>울산화력 매몰 현장서 사망자 40대 남성 시신 1구 수습</title>
       <link>https://www.chosun.com/national/regional/2025/11/09/3O52F33SN5CFDCZ63KR5AZLQLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/09/3O52F33SN5CFDCZ63KR5AZLQLI/</guid>
@@ -899,15 +926,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N42TWAP7KNGX5MAJFEACWIQDFQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 27일 서울 여의도 민주연구원에서 이한주 민주연구원장이 조선일보와 인터뷰하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이한주 전 국정기획위원회 위원장이 7일 경제·인문사회 분야 국책 연구 기관 26곳을 총괄하는 경제·인문사회연구회 이사장에 임명됐다.&lt;br&gt;&lt;br&gt;국무총리실은 김민석 총리가 이날 이 전 위원장을 경인사연 이사장으로 선임했다고 밝혔다. 이 전 위원장은 오는 10일 임기를 시작해 2028년 11월 9일까지 3년간 경인사연을 이끌게 된다.&lt;br&gt;&lt;br&gt;정부는 윤석열 정부 때인 지난해 3월 임명된 신동천 이사장이 지난 9월 1년 6개월 만에 사퇴하자, 신임 이사장 선임 절차를 진행해 왔다. 지난 9월 24일 이사장 추천위원회가 이 전 위원장을 비롯한 후보 3인을 김 총리에게 추천했고, 김 총리가 이 가운데 이재명 대통령의 대표적인 ‘정책 멘토’로 꼽히는 이 전 위원장을 선택한 것이다.&lt;br&gt;&lt;br&gt;총리실은 “이한주 이사장은 한국 경제의 구조적 분석, 지속 가능한 성장, 복지 등을 연구한 거시 경제학자이자 정책 전문가로, 국정기획위원회 위원장, 민주연구원장 등을 역임하면서 풍부한 국정 및 정책 경험을 갖췄고, 이재명 정부의 국정 철학에 대한 이해도가 매우 높은 인사로 평가받는다”고 했다.&lt;br&gt;&lt;br&gt;1956년 서울에서 태어난 이 이사장은 경복고와 서울대 식물학과를 졸업한 뒤 서울대 경제학과 대학원에서 석·박사 학위를 받았다. 1986년 성남의 한 시민단체 토론회에서 사법시험을 준비하던 이 대통령을 만나 40년간 인연을 이어 왔다. 2022년 대선을 앞두고 이재명 캠프 정책본부장을 맡았고, 이 대통령이 민주당 대표였던 시절에 민주연구원장에 임명됐다. 지난 대선에서는 민주당 선거대책위원회 정책본부장을 맡았고, 이재명 정부 출범 뒤에는 인수위원회 역할을 한 국정기획위 위원장을 맡았다. 이후 다시 민주연구원장직을 수행하다 지난달 말 사의를 표명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“새벽·주 7일 배송 금지 땐 54조 손실… 소상공인 매출 18조 줄 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/NFQ6YDJIOBFZBDDL42NDFDGETY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/NFQ6YDJIOBFZBDDL42NDFDGETY/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 07:44:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34H7DNMX5T4CEY2VPW7M4TRTQU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;택배 없는 날을 하루 앞둔 지난 8월 13일 경기 부천시의 한 택배 물류센터의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새벽 배송과 주 7일 배송 서비스가 금지되면 e커머스 업체, 택배 업계 등이 보는 경제적 손실이 약 54조원에 달할 것이라는 추산이 나왔다.&lt;br&gt;&lt;br&gt;국내 최대 물류 산업 학회 한국로지스틱스학회는 6일 공개한 ‘새벽 배송과 주 7일 배송의 파급효과 관련 연구’ 보고서에서 “새벽 배송과 주 7일 배송이 중단돼 택배 주문량이 약 40% 감소하면 연간 54조3000억원의 손실이 발생할 것”이라고 했다. 구체적으로 쿠팡 등 e커머스 업체 매출이 33조2000억원, 소상공인 매출은 18조3000억원 줄어들 것으로 추산됐다. 일자리 감소 등으로 택배 업계도 2조8000억원대 손실을 볼 것으로 예상했다. &lt;br&gt;&lt;br&gt;연구진은 새벽 배송과 주 7일 배송 서비스의 국가 경제 파급 효과도 분석했다. 그 결과 최종 수요 1조5400억원, 생산 유발액 2조7200억원, 부가가치 유발액 1조2500억원, 수입 유발액 3000억원 등 총 5조8000억원 규모의 경제적 파급 효과가 나타났다. 또 1만2000명의 취업 유발과 7000명의 고용 유발 효과가 발생했다.&lt;br&gt;&lt;br&gt;보고서는 “새벽 배송 시장은 2015년 4000억원에서 2024년 11조8000억원 규모로 성장하여 뚜렷한 고용 창출 효과를 거뒀고, 도시 교통 혼잡 완화 및 대기질 및 도시 환경 개선에도 긍정적인 영향을 미쳤다”며 “소상공인들의 판로를 확대하고 빠른 배송이 이뤄지지 않으면 판매가 어려운 제품도 판매를 가능하게 했다”고 했다. 또 “새벽·주 7일 배송을 활용한 온라인 판매 비율이 높아질수록 지역 산업 매출 및 고용이 긍정적인 영향을 받는 것으로 나타났다”며 “소상공인들에게 다양하면서도 고빈도 소량의 판매를 가능하게 해 판매 경로를 확보함과 동시에 빠른 배송이 이뤄지지 않으면 판매가 어려운 제품까지 판매가 가능하게 했다”고 했다. &lt;br&gt;&lt;br&gt;학회는 “새벽·주 7일 배송 규제 시 서비스·효율·경쟁력 모두 하락할 것”이라며 “노동 보상·휴식일 보장·근무 안전 조건을 충족하도록 하는 관리된 허용이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;앞서 전국민주노동조합총연맹 산하 전국택배노조는 지난달 22일 더불어민주당 주도로 출범한 ‘택배 사회적 대화 기구’ 회의에서 과로 방지를 이유로 새벽 배송 서비스를 자정에서 새벽 5시까지 금지하자고 주장했다. &lt;br&gt;&lt;br&gt;하지만 당사자인 일부 택배 기사는 되레 반대 입장을 냈다. 업무를 방해하고 고용 안정만 해친다는 것이다. &lt;br&gt;&lt;br&gt;새벽 배송 업계 1위인 쿠팡의 위탁 택배 기사 1만명이 소속된 쿠팡파트너스연합회는 지난 3일 “노동자의 해고는 살인인데, 심야 배송 택배 기사들을 사실상 해고하려 한다”며 “수많은 기사들의 생계를 위협하는 결정”이라고 했다. 이들은 새벽 배송을 하는 기사 2045명을 대상으로 한 설문조사 결과도 발표했는데, 응답자 93%가 새벽 배송 제한에 반대한다고 밝혔다.&lt;br&gt;&lt;br&gt;또 쿠팡노조는 7일 성명에서 민노총의 새벽 배송 금지 추진에 대해 “민노총 탈퇴에 대한 보복으로 보인다”고 했다. 쿠팡노조는 “민노총은 노동자를 위해 새벽 배송 금지가 꼭 필요한 것처럼 말하지만, 쿠팡노조가 민노총 소속일 때는 단 한 번도 이런 주장을 한 적이 없다”며 “조합원의 일자리를 빼앗는 주장을 노동조합이 한다는 자체가 말이 되지 않기 때문”이라고 했다. 쿠팡노조는 2023년 11월 조합원 93%의 찬성을 얻어 민노총을 탈퇴한 바 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김혜성 “저분 가면 할게요” ‘김선생’ 오자 인터뷰 중단</title>
       <link>https://www.chosun.com/national/national_general/2025/11/07/WNKRY5CK6VEYRDFUQ32EAGCGYM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/WNKRY5CK6VEYRDFUQ32EAGCGYM/</guid>
@@ -926,18 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ADSJF7RJBFJM3J6QMOZCC334.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 보일러 타워 붕괴 원인과 관련, 해체 계획을 제대로 지키지 않았을 가능성이 제기되고 있다. &lt;br&gt;&lt;br&gt;7일 본지 취재를 종합하면, 사고가 난 보일러 타워는 일반 건축물이 아닌 ‘공작물’로 분류돼 지자체의 해체 신고·허가대상이 아니다보니 관할 지자체인 울산 남구에 안전성 확보를 위해 필요한 철거계획서도 내지 않은 것으로 확인됐다. &lt;br&gt;&lt;br&gt;울산 남구 관계자는 “발전기의 경우 건축물이 아니라 공작물에 해당돼 발파나 해체, 철거 등 전 과정을 관할 지자체에서는 알 수가 없다”고 했다. &lt;br&gt;&lt;br&gt;현행 건축물관리법은 건물을 철거할 경우 공사 개요, 조직도, 작업 순서, 해체 공법, 구조안전계획 등 방안이 포함된 해체계획서를 작성해 지방자치단체에 신고하거나 허가를 받도록 하고 있다. 일반적으로 발파 작업을 할 경우 이 검토를 받지만, 이번에 붕괴된 건물은 건축물관리법상 일반 건축물이 아닌 공작물로 분류돼 울산 남구에 해체 신고 또는 허가 신청이 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;시공업체인 HJ중공업이 자체적으로 구조 안전성 검토와 철거계획을 마련했을 수도 있지만, 이를 제대로 시행하지 않고 작업을 했을 가능성도 배제할 수 없다는 게 전문가 등의 지적이다. &lt;br&gt;&lt;br&gt;사고를 수사 중인 경찰은 “시공업체로부터 철거계획을 마련하고 안전성 검토를 했다는 진술을 들었으나, 아직 구체적인 서류 확인은 되지 않은 상태”라며 “수사를 해봐야 정확한 내용을 확인할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>9초 만에 9명 덮쳐… 매몰된 아빠의 청춘</title>
-      <link>https://www.chosun.com/national/regional/2025/11/07/O2XX4C4CDBHWHP4J4HT36LJSXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/07/O2XX4C4CDBHWHP4J4HT36LJSXI/</guid>
-      <dc:creator>김미희 기자 , 김준호 기자, 김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 00:13:45 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTEZDFG4ZDIYZRG44DGZTFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 붕괴 사고로 매몰돼 있던 7명 가운데 사망자가 3명으로 늘었다. 2명은 숨진 것으로 추정된다고 소방 당국이 7일 밝혔다.&lt;br&gt;&lt;br&gt;소방 당국은 현장 브리핑에서 매몰됐다가 이날 오전 구조된 2명이 모두 숨졌다고 밝혔다.&lt;br&gt;&lt;br&gt;오전 9시 6분쯤 구조된 60대 남성은 병원으로 이송돼 사망 판정을 받았고, 11시 15분에 구조된 50대 남성은 현장에 설치된 응급의료소에서 의료진으로부터 사망 판정을 받은 뒤 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;또 전날 붕괴 사고로 구조물에 낀 채 발견된 김모(44)씨는 밤샘 구조작업이 진행됐으나, 이날 오전 4시 53분쯤 끝내 사망 판정을 받았다. &lt;br&gt;&lt;br&gt;이에 따라 사고 당시 작업자 9명 가운데 사망자는 3명으로 늘었다.&lt;br&gt;&lt;br&gt;소방 당국의 설명을 종합하면 이번 사고로 매몰된 것으로 추정되는 인원은 7명이다. 이중 현재 사망하거나, 사망이 추정되는 사람은 총 5명이다. &lt;br&gt;&lt;br&gt;사고 당일인 전날 매몰 지점을 발견했던 2명은 D구역, 구조 이튿날인 이날 추가로 발견된 3명은 B구역에서 발견됐다. &lt;br&gt;&lt;br&gt;매몰자 중 남은 2명은 현재까지 생사나 매몰 지점이 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;전날 오후 2시 2분쯤 한국동서발전 울산발전본부 울산화력발전소에서 60ｍ 높이 보일러 타워가 무너져 9명이 매몰됐다. &lt;br&gt;&lt;br&gt;소방 당국은 가용 인력과 장비를 모두 동원해 수색 및 구조 작업에 총력을 기울이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/EM7WH3FEINBGXELHLEGSS2NRGQ.gif?auth=919537d4be6d23ae0925df6e86aa7c7b473e65330e78bc2d8aabc17d6bb7b328&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
-        <media:description type="plain">울산 발전소 붕괴 짤 수정3 480</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>일찍 찾아온 독감, 유행 속도 빨라져…일주일새 환자 68% 증가</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/11/07/E42RXGVK4RA55FJPWOWCXZRDFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/07/E42RXGVK4RA55FJPWOWCXZRDFE/</guid>
@@ -945,16 +951,6 @@
       <description/>
       <pubDate>Fri, 07 Nov 2025 01:28:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SGNOVNRBHRJUTDPNA5CX6FQNVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 15일 대구의 한 병원에서 어르신들이 독감 무료 예방 접종을 받기 위해 대기하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예년보다 독감(인플루엔자)이 일찍 유행하는 가운데, 특히 어린이들을 중심으로 빠르게 확산하고 있다.&lt;br&gt;&lt;br&gt;7일 질병관리청의 의원급 인플루엔자 환자 표본감시 결과에 따르면, 올해 44주차인 지난 일주일간(10월 26일~11월 1일) 전국 300개 표본감시 의원을 찾은 독감 증상 환자는 외래환자 1000명당 22.8명이었다. 1주 전 13.6명에서 67.6% 급증한 것으로, 이번 절기 독감 유행 기준인 9.1명의 2.5배 수준이다. 올해는 지난해보다 독감 유행이 두 달가량 빨리 찾아온 것으로, 작년 같은 기간(2024년 44주차)의 독감 증상 환자 수(1000명당 3.9명)와 비교하면 올해가 5.8배가량 많다.&lt;br&gt;&lt;br&gt;최근 독감 발생은 어린이·청소년에 집중됐다. 지난주 7~12세 독감 증상 환자는 외래환자 1000명당 68.4명으로, 유행 기준의 7.5배에 달했다. 1~6세는 1000명당 40.6명, 13~18세는 34.4명이었다. &lt;br&gt;&lt;br&gt;병원급 221곳의 입원환자 표본감시에서도 독감 입원환자가 증가세를 보였다. 지난 일주일간 175명이 입원해 1주 전 대비 78.6% 올랐다. 4주 연속 증가세다.&lt;br&gt;&lt;br&gt;올 겨울 독감 유행은 지난 10년 사이 최대 규모가 될 수 있다는 게 보건당국의 전망이다. 질병청은 본격적인 겨울철을 앞둔 지금이 호흡기 감염병을 막기 위한 예방접종 적기라고 강조하고 있다. 65세 이상과 임신부, 생후 6개월~13세 어린이는 독감 무료 접종 대상이다. 65세 이상은 코로나 백신과 동시에 접종할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>온실가스 감축 목표 ’53~60%' 유력</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/07/KOSUKR6QOBB77HICMETKLDDJJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/07/KOSUKR6QOBB77HICMETKLDDJJ4/</guid>
-      <dc:creator>박상현 기자, 한예나 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 06 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>정부가 2035년까지 탄소 배출량을 2018년 대비 최소 50% 또는 53%, 최대 60%까지 줄이는 ‘국가 온실가스 감축 목표’(2035년 NDC) 안(案)을 6일 공개했다. 이를 놓고 “종전에 내놨던 2030년 NDC(40% 감축) 달성도 사실상 불가능한데, 산업계 파장은 고려하지 않고 또다시 무리한 목표를 세웠다”는 비판이 나온다. 산업계도 “이를 실현하기엔 기술적 한계가 있을 뿐 아니라 막대한 비용 부담까지 안게 돼 고용 감소, 산업 경쟁력 약화 등으로 이어질 수 있다”며 반발하고 있다. &lt;br&gt;&lt;br&gt;이날 정부는 서울 영등포구 국회의원회관에서 대국민 공청회를 열고 ‘50~60% 감축’ 또는 ‘53~60% 감축’ 안 중 하나를 유엔(UN)에 제출하겠다고 밝혔다. 이 최종안은 오는 10일 탄소중립녹색성장위원회 심의를 거쳐 11일 국무회의에서 결정될 전망이다. 정부가 목표치를 단일 수치 대신 이처럼 ‘범위’로 제시한 것은 처음이다. 본지 취재 결과, 최종안으로 53~60%안 채택이 유력한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/476UDWSNVVAMXMWQI5YUADHEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 6일 서울 국회 의원회관에서 열린 ‘2035 국가 온실가스 감축 목표 대국민 공개 논의 공청회’에서 환경 단체 소속 참석자들이 항의 피켓을 들고 있는 모습. 이날 정부는 2035년까지 탄소 배출량을 2018년 대비 최소 50% 또는 53%에서, 최대 60%까지 줄이는 안을 발표했다.
-/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“온실가스 50% 감축, 원전 60기 지어야 가능”&lt;/b&gt;&lt;br&gt;&lt;br&gt;현재 유엔은 ‘탄소 중립’(순배출량 0) 달성 시점을 오는 2050년으로 정해놨지만, 구체적인 감축 목표·방법 등에 대해선 회원국마다 자국 사정에 맞게 설계토록 했다. 국가별로 산업 구조, 기술 역량, 경제력 등이 다른 상황임을 감안한 것이다. 제조업 강국인 한국처럼 전력 소비가 많은 국가에선 NDC를 설정할 때 ‘탈(脫)탄소 기술‘ 개발을 전제로 감축 목표를 세운다. 당장 산업 구조를 바꿀 수는 없는 만큼 화석연료를 저탄소나 무탄소로 바꾸는 데 필요한 신기술 개발이 선행돼야 하는 것이다.&lt;br&gt;&lt;br&gt;하지만 이날 정부가 발표한 NDC 달성 전략을 살펴보면, 재생에너지나 전기·수소차를 크게 확대하겠다는 계획을 제외하곤 당장 산업계가 시행할 수 있는 기술이 거의 없다. 철강 업계의 경우 ‘수소 환원 제철’ 기술 상용화가 늦어지고 있다. 수소 환원 제철은 철광석에서 철을 만들 때 석탄 대신 수소를 사용하는 공법으로, 이산화탄소가 아닌 물만 배출하는 기술이다. 업계 관계자는 “경제성 문제 때문에 2037년 이후에야 단계적 상용화가 가능할 것”이라며 “목표를 과도하게 높이면 인위적인 생산 감축 외엔 다른 대안이 없다”고 했다. 자동차 업계도 전기·수소차의 충전 인프라 부족 등으로 보급이 더딘 상태다. 전기차는 14년 동안 보조금을 지급해왔는데, 점유율은 겨우 10%를 넘겼다. 수소차 판매는 작년 3688대로 오히려 전년 대비 20.4% 감소했다. 그런데도 정부가 기술에 대한 보증 없이 지나치게 숫자에만 집착하는 모습을 보이는 것이다.&lt;br&gt;&lt;br&gt;원전 언급도 빠졌다. 이재명 정부는 ‘에너지 고속도로’ 등 전력망 확충을 통해 재생에너지 전환을 빠르게 가져간다는 계획이지만, 문재인 정부 때도 비슷한 실패 사례를 겪었다. 정범진 경희대 원자력공학과 교수는 “온실가스 50% 감축은 총량을 원전으로만 감축할 경우 60기를 새로 지어야 달성할 수 있는 수준”이라며 “산업·수송·건물 부문은 탈탄소화가 더디게 진행되고 있는 데다 전력 부문까지 원전을 배제하면 목표 달성은 사실상 불가능하다”고 했다.&lt;br&gt;&lt;br&gt;당초 정부는 ▲48% ▲53% ▲61% ▲65% 등 4가지 감축안을 2035년 NDC 후보로 검토해 왔다. 그동안 산업계는 “48%도 도전적 목표”라면서 이를 넘은 나머지 3개 안에 대해 난색을 표해 왔고, 환경 단체들은 ‘60% 이상’ 방안의 채택을 요구하던 상황이었다.&lt;br&gt;&lt;br&gt;이날 정부는 NDC 하한을 산업계에서 그나마 받아들일 수 있었던 48%가 아닌 ‘50% 이상’으로 제시했다. 정부 관계자는 “앞자리를 ‘4’보다는 ‘5’로 바꿔야 한다는 생각이 반영된 것”이라고 했다. 현재 하한을 둘러싸고 기후부는 53%를, 산업통상자원부·중소벤처기업부·기획재정부 등은 50%를 주장하는 상황이라고 한다. 또 다른 정부 인사는 “NDC 하한과 상한 차이가 한 자릿수 차이인 53~60%안이 유엔에 제출하는 데 더 적합하다는 쪽으로 분위기가 흐르고 있다”고 했다. NDC 상한이 60%로 정해진 데 대해선 “그동안 현 정부의 지지층인 환경 단체 등이 요구해온 ‘60% 이상’을 상징적으로 끼워 넣어준 것”이라고 했다. 목표치를 ‘실현 가능성’보다는 정치적 입장에 따라 정한 것으로 보인다. &lt;br&gt;&lt;br&gt;정권이 바뀌면서 이전에 진행돼 온 논의와 검토 사안이 묵살됐다는 주장도 제기되고 있다. 실제로 기후부 온실가스종합정보센터가 선정한 전문가들로 구성된 ‘NDC 기술작업반’에선 지난 1년간 분석을 토대로 올 초 ‘48% 감축안’을 ‘가장 도전적인 시나리오’로 제시한 상태였다. &lt;br&gt;&lt;br&gt;일각에선 “2030 NDC(40% 감축)도 달성이 어려운 상황에서 목표치만 높이는 게 과연 탄소 중립에 도움이 되느냐”는 비판도 나온다. NDC상 2030년 배출량 목표치는 4억3660만t이다. 총배출량 기준 2억200만t, 연평균 전년 대비 3.6%씩 배출량을 줄여야 한다. 2035 NDC가 이대로 결정되면 앞으로 10년간 최소 3억2040만t, 최대 3억9470만t의 온실가스 배출량을 줄여야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
