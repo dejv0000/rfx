@@ -13,6 +13,28 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“감방도 칸막이는 있을 것”…박스 덮고 쪽잠 잔 APEC 동원 경찰관들</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/L5RDRZZXHRFCXGQJW6JD77W46I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/L5RDRZZXHRFCXGQJW6JD77W46I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Nov 2025 22:26:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5A2NZ7SM5BE47G5Q7YZBJSE6SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박스 덮고 쪽잠 자는 경찰관의 모습. /전국경찰직장협의회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경주에서 열린 아시아태평양경제협력체(APEC) 정상회의에 대규모로 동원된 경찰관들 사이에서 제대로 된 숙소나 식사를 제공받지 못했다는 원성이 이어지고 있다.&lt;br&gt;&lt;br&gt;전국경찰직장협의회(경찰직협)는 11일 서울 서대문구 경찰청 앞에서 ‘경찰을 노숙자로 만든 APEC 행사 사진전’을 열겠다고 예고했다.&lt;br&gt;&lt;br&gt;전날(10일) 공개한 관련 사진에는 지난 1일 막을 내린 APEC 정상회의 당시 현장 경찰관들의 열악한 환경이 담겼다.&lt;br&gt;&lt;br&gt;근무복을 입은 경찰관이 대기 장소에서 박스를 이불 삼아 쪽잠을 자는 모습이 대표적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FQY36X5A5NDJ7M6T6IWXURMP5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화관 복도에서 잠을 청하는 경찰관들. /전국경찰직장협의회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화관의 대형 스크린 앞에서 단체로 자거나 복도에서 모포 하나만을 깔고 잠을 청하는 사진들도 공개됐다. 일부 모포조차 지급받지 못한 경찰관들은 폐지를 줍는 이들에게 직접 상자 등을 구해 오기도 한 것으로 전해졌다. 낡은 모텔이나 산속 여관에 묵었다는 증언도 있다.&lt;br&gt;&lt;br&gt;직장인 익명 게시판 ‘블라인드’에서도 관련 증언이 나왔다.&lt;br&gt;&lt;br&gt;한 경찰관은 “모텔 화장실이 문이 없고 통유리로 돼 있었다”며 “룸메이트한테 못 보여주겠다. 감방도 칸막이는 있을 것”이라고 토로했다.&lt;br&gt;&lt;br&gt;또 도시락을 받지 못해 사비로 밥을 사 먹거나 추운 날씨에 ‘찬밥’을 먹었다는 주장이 나오기도 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UKPHUS6PD5BU7E5T4BZKLFSR5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;영화관에서 대기하는 APEC 동원 경찰관들. /전국경찰직장협의회 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰직협은 이날 경찰청 앞 사진전에 이어 오는 12일과 14일에는 국회 앞에서 사진전을 연다.&lt;br&gt;&lt;br&gt;경찰직협은 “경찰청, 경북경찰청, APEC 기획단이 1년간 준비한 세계적 행사에 동원된 경찰관들의 열악한 환경과 복지를 알리겠다”며 경찰 지휘부 대상 직무 감사를 통한 전수조사, 사과, 재발 방지 대책 마련 등을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PVSW7KWNKRHKBKMBSZBAH5WV2M.jpg?auth=a003c01c681feb24d3c898744bb8f1224ac0604593f37e4ac5e4693d9418ee57&amp;smart=true&amp;width=517&amp;height=388" type="image/jpeg" height="388" width="517">
+        <media:description type="plain">박스 덮고 쪽잠 자는 경찰관의 모습. /전국경찰직장협의회 제공</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘원산지 허위 표시 의혹’ 백종원 무혐의… 가맹점주들은 시위 예고 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/G2BNMOSYIJCBLER2OWKIYZZDKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/G2BNMOSYIJCBLER2OWKIYZZDKE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Nov 2025 22:18:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKBVFRNIG3B7QRO2ONJGJUTAF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘덮죽’과 ‘쫀득 고구마빵’ 제품의 재료 원산지를 허위로 표시한 의혹을 받은 백종원 더본코리아 대표가 경찰에서 무혐의 처분을 받았다. &lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난달 말 백 대표에 대해 식품표시광고법 위반 혐의를 인정하기 어렵다고 판단해 검찰 불송치 결정을 내렸다고 10일 밝혔다. 다만, 더본코리아 법인과 실무자 2명은 혐의를 인정해 검찰에 불구속 송치됐다. &lt;br&gt;&lt;br&gt;또한 산업용 금속 조리기구를 사용하거나 바비큐 축제에서 사과주스를 농약통 분무기에 담아 고기에 살포하는 등 식품위생법 위반 혐의로 진정이 접수된 4건에 대해서는 무혐의로 입건 전 조사(내사) 종결 처분했다. &lt;br&gt;&lt;br&gt;앞서 경찰은 더본코리아가 ‘덮죽’과 ‘쫀득 고구마빵’ 제품을 홍보하며 재료 원산지를 국내산으로 오인하게 했다는 의혹이 담긴 고발과 진정을 접수하고 수사에 착수했다. 백 대표는 지난 9월 5시간여 동안 조사를 받았다. &lt;br&gt;&lt;br&gt;더본코리아 관계자는 “이번 조사 대상이 된 사안을 포함해 회사 전반을 재점검하고 필요한 개선 조처를 마쳤다”며 “재발 방지를 위해 최선을 다하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇가맹점주들, ‘백종원 방송 복귀’ 편성 철회 기자회견 예고 &lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBB7O6NH2NADNNLLZ5FQ3TP4E4.png"&gt;&lt;figcaption&gt;&lt;small&gt;남극의 셰프 출연진. (오른쪽부터) 백종원, 배우 임수향, 가수 수호, 배우 채종협. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 백 대표가 여러 논란으로 방송 중단을 선언한 지 6개월 만에 지상파 예능 프로그램을 통해 방송 복귀에 나서자 ‘연돈 볼카츠’ 가맹점주들과 시민단체 등이 이에 반발하며 시위를 예고했다. &lt;br&gt;&lt;br&gt;연돈 볼카츠 가맹점주협의회와 대한가맹거래사협회, 전국가맹점주협의회, 참여연대는 11일 오후 1시 서울 마포구 MBC 신사옥 앞에서 ‘가맹사업 구조적 문제 해결 없는 백종원 대표 MBC 방송 복귀 편성 철회 촉구 기자회견’을 개최할 예정이다. MBC는 오는 17일 백 대표가 출연하는 ‘기후환경 프로젝트-남극의 셰프’ 편성을 확정했다. &lt;br&gt;&lt;br&gt;단체들은 백 대표가 방송을 통해 쌓은 이미지를 활용해 가맹 사업을 영위하는 과정에서 가맹점주들이 피해를 봤고, 점주들이 폐업과 손실로 생계를 위협받고 있음에도 더본코리아가 이를 외면하고 있다는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>평검사부터 검사장까지… ‘검란’ 불붙었다</title>
       <link>https://www.chosun.com/national/court_law/2025/11/11/AO3GXBOMJFEY3LKYYDYUG4EODU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/11/AO3GXBOMJFEY3LKYYDYUG4EODU/</guid>
@@ -765,24 +787,6 @@
       <description/>
       <pubDate>Thu, 06 Nov 2025 15:43:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MD6PXSJYFDNHHRVLQY3YECE64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국의 경제 규모가 세계 10위권에 오른 것은 괄목할 만한 성과지요. 그러나 지금 한국을 ‘동방예의지국’이라 답할 사람은 몇이나 될까요? 이제 우리는 돈이 아니라 도덕, 예의와 같은 고유의 가치를 고민해야 할 때입니다.”&lt;br&gt;&lt;br&gt;’21세기 인문가치포럼’을 주최하는 이희범(76) 한국정신문화재단 이사장은 4일 본지 인터뷰에서 “국민의 삶이 행복해지려면 고도성장 속에서 잊혔던 인문 가치를 다시 정립해야 한다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;서울대 공대를 졸업한 이 이사장은 행정고시 12회 출신으로 산업자원부 장관을 지냈다. 이후 한국무역협회 회장과 한국경영자총협회 회장, 평창동계올림픽 조직위원장 등을 거쳐 현재 부영그룹 회장을 맡고 있다. 정신문화재단 이사장으로 6년째 인문가치포럼을 주관하고 있다.&lt;br&gt;&lt;br&gt;이 이사장은 특히 “한국 고유의 도덕과 예의를 올해의 인문 가치로 꼽고 싶다”고 했다. 그는 “동방예의지국이었던 한국이 압축적 산업화를 겪으면서 잃어버린 가치가 많다”며 “도덕과 예의를 서로 지키면 행복한 삶을 살 수 있게 된다. 이런 가치를 되살리기 위한 탐구를 해보자는 것”이라고 했다. 이 이사장은 이번 포럼의 기조 강연을 김용 전 세계은행 총재에게 맡긴 이유도 “미국에서 자라면서도 가장 한국적인 가치로 성장해 온 인물이기 때문”이라고 했다. 김 전 총재는 공식 석상에서 늘 “어머니의 가정교육이 오늘의 나를 만들었다”고 해왔다. 그의 어머니 전옥숙 박사는 국제퇴계학회장을 지낸 유교 철학 권위자다.&lt;br&gt;&lt;br&gt;이 이사장은 ‘젊은 세대는 전통을 고리타분하게 느껴 거부감을 느낄 수 있지 않느냐’는 질문에 “한국적 인문 가치를 다시 세우자는 것이 악습까지 물려받자는 얘기는 아니다”라고 했다. 그는 “핵가족 시대에 무조건 ‘부자유친(父子有親)’하라고만 외치면 시대와 동떨어진 엉뚱한 소리가 되지 않겠느냐”며 “다만 서로 분별 있게, 믿음과 예의를 지키는 방법을 모색하자는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이번 포럼엔 특히 한국 연사가 많다. 이 이사장은 “올해는 한국 현실과 맞는 우리만의 이야기를 나눠보자는 취지”라며 “요즘은 가장 한국적인 것이 세계에서도 제일 잘 팔리지 않느냐”고 했다. 그는 “높아진 국가 소득에 걸맞게 우리의 인문 가치도 더욱 확장되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※이 기사는 한국정신문화재단 후원으로 제작되었습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘여론조사 대납’ 오세훈, 12시간여 조사...“대질 신문서 명태균과 평행선 그려”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Nov 2025 12:33:45 +0000</pubDate>
-      <content:encoded>‘여론조사 대납 의혹’과 관련해 서로 상반된 주장을 했던 오세훈 서울시장과 ‘정치 브로커’ 명태균씨의 대질 신문이 약 8시간 만에 종료됐다. 두 사람은 대질 신문에서 각자 종전의 입장을 고수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TEMLGHAZTSOBWGY4DSNRQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장과 '정치 브로커' 명태균씨가 8일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검 사무실에 조사받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀은 이날 오전 9시 40분부터 오후 6시쯤까지 두 사람의 대질 신문을 진행했다. 오 시장은 피의자, 명씨는 참고인 신분으로 조사가 이뤄졌다.&lt;br&gt;&lt;br&gt;오후 9시 17분쯤 조사를 마치고 나온 오 시장은 “대납한 사실이 없다는 점을 중점적으로 얘기했다”고 기자들에게 밝혔다.&lt;br&gt;&lt;br&gt;명씨와 대질신문에 대해선 “양쪽 주장이 평행선을 그리긴 했지만, 말하는 정황 같은 걸 보면서 공정한 특검의 판단이 있을 수 있다고 기대한다”고 했다. 앞서 오후 8시쯤 조사를 마친 명씨는 오 시장에 대해선 “기억이 안 나신다고 한 부분이 너무 많았다”고 했다. 이에 대해 오 시장은 “5년 전의 일을 소상하게 기억하는 게 오히려 어색한 일”이라며 “기억이 안 나는 부분은 솔직하게 기억나지 않는다고 말씀드렸다”고 했다.&lt;br&gt;&lt;br&gt;특검은 오 시장이 2021년 4월 서울시장 보궐선거를 앞두고 명씨로부터 미공표 여론조사 13건을 제공받고, 그 대가로 3300만원을 자기 후원자로 알려진 사업가 김한정씨에게 대납시킨 혐의를 수사하고 있다. &lt;br&gt;&lt;br&gt;이에 대해 오 시장은 김씨가 명씨에게 돈을 준 사실을 몰랐고, 명씨에게 여론조사를 의뢰한 적은 물론 그에게서 조사 결과를 받아보지도 않았다는 입장이다. 반면 명씨는 오 시장과 여러 차례 만났고, 그가 자신에게 선거에서 이기게 해달라고 부탁했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘만 16세 때 무면허 운전’ 정동원, 검찰 기소유예로 재판 면해</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Nov 2025 10:45:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4OAD2VABAZY22F5EMRH2XOENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교생 트로트 가수 정동원(18)이 무면허 운전 혐의에 대해 기소유예 처분을 받았다. &lt;br&gt;&lt;br&gt;8일 서울서부지검은 도로교통법 위반(무면허 운전) 혐의로 조사를 받아온 정동원에 대해 지난 6일 기소유예 처분을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;기소유예는 불기소 처분의 하나로 피의 사실은 인정되지만 검사가 범행 경위와 결과 등을 고려해 재판에 넘기지 않기로 하는 결정이다.&lt;br&gt;&lt;br&gt;정동원은 2023년 고향인 경남 하동에서 면허 없이 자동차를 운전한 혐의를 받는다. 당시 정동원은 만 16세로, 운전면허를 취득할 수 없는 나이였다.&lt;br&gt;&lt;br&gt;정동원의 무면허 운전 혐의는 협박범 검거 과정에서 드러났다. 소속사는 정동원의 지인이 정동원이 운전하는 영상을 확보했다면서 거액을 요구한 사실이 있다고 주장했다. 그러면서 “정동원은 법적 처벌을 받을 각오로 공갈범 일당을 경찰에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 올해 초 서울중앙지검으로 정동원을 송치했고, 이후 정동원의 주소지 등이 고려돼 사건은 서울서부지검으로 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 정동원은 2023년 3월 자동차 전용 도로인 서울 동부간선도로에서 오토바이를 몰아 경찰에 적발되기도 했다. 당시 검찰은 정동원이 미성년자인 점과 초범인 점 등을 고려해 기소유예 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 이종호에 “중앙지검 한문혁입니다”… 대검 감찰부, 李 서면 조사</title>
