@@ -13,6 +13,113 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 尹, 11일 해병 특검 출석… ‘수사 외압’ ‘격노설’ 조사받는다</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/10/QLXX3ETKQVHQVJJU475CWEDOH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/QLXX3ETKQVHQVJJU475CWEDOH4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Nov 2025 05:09:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3DQYTGHE2TMZTGMNRTSOJSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해 혐의 등 1심 재판에 출석해있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“韓, 돈 아닌 도덕·예의 같은 고유 가치 고민해야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/07/7RKO6CYVQZALNGOHUAXQA7EMUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/7RKO6CYVQZALNGOHUAXQA7EMUE/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 06 Nov 2025 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2MD6PXSJYFDNHHRVLQY3YECE64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한국의 경제 규모가 세계 10위권에 오른 것은 괄목할 만한 성과지요. 그러나 지금 한국을 ‘동방예의지국’이라 답할 사람은 몇이나 될까요? 이제 우리는 돈이 아니라 도덕, 예의와 같은 고유의 가치를 고민해야 할 때입니다.”&lt;br&gt;&lt;br&gt;’21세기 인문가치포럼’을 주최하는 이희범(76) 한국정신문화재단 이사장은 4일 본지 인터뷰에서 “국민의 삶이 행복해지려면 고도성장 속에서 잊혔던 인문 가치를 다시 정립해야 한다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;서울대 공대를 졸업한 이 이사장은 행정고시 12회 출신으로 산업자원부 장관을 지냈다. 이후 한국무역협회 회장과 한국경영자총협회 회장, 평창동계올림픽 조직위원장 등을 거쳐 현재 부영그룹 회장을 맡고 있다. 정신문화재단 이사장으로 6년째 인문가치포럼을 주관하고 있다.&lt;br&gt;&lt;br&gt;이 이사장은 특히 “한국 고유의 도덕과 예의를 올해의 인문 가치로 꼽고 싶다”고 했다. 그는 “동방예의지국이었던 한국이 압축적 산업화를 겪으면서 잃어버린 가치가 많다”며 “도덕과 예의를 서로 지키면 행복한 삶을 살 수 있게 된다. 이런 가치를 되살리기 위한 탐구를 해보자는 것”이라고 했다. 이 이사장은 이번 포럼의 기조 강연을 김용 전 세계은행 총재에게 맡긴 이유도 “미국에서 자라면서도 가장 한국적인 가치로 성장해 온 인물이기 때문”이라고 했다. 김 전 총재는 공식 석상에서 늘 “어머니의 가정교육이 오늘의 나를 만들었다”고 해왔다. 그의 어머니 전옥숙 박사는 국제퇴계학회장을 지낸 유교 철학 권위자다.&lt;br&gt;&lt;br&gt;이 이사장은 ‘젊은 세대는 전통을 고리타분하게 느껴 거부감을 느낄 수 있지 않느냐’는 질문에 “한국적 인문 가치를 다시 세우자는 것이 악습까지 물려받자는 얘기는 아니다”라고 했다. 그는 “핵가족 시대에 무조건 ‘부자유친(父子有親)’하라고만 외치면 시대와 동떨어진 엉뚱한 소리가 되지 않겠느냐”며 “다만 서로 분별 있게, 믿음과 예의를 지키는 방법을 모색하자는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이번 포럼엔 특히 한국 연사가 많다. 이 이사장은 “올해는 한국 현실과 맞는 우리만의 이야기를 나눠보자는 취지”라며 “요즘은 가장 한국적인 것이 세계에서도 제일 잘 팔리지 않느냐”고 했다. 그는 “높아진 국가 소득에 걸맞게 우리의 인문 가치도 더욱 확장되길 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;※이 기사는 한국정신문화재단 후원으로 제작되었습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘여론조사 대납’ 오세훈, 12시간여 조사...“대질 신문서 명태균과 평행선 그려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/NMAJZ43DIJFF5B3VAPXF4G6VBM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 12:33:45 +0000</pubDate>
+      <content:encoded>‘여론조사 대납 의혹’과 관련해 서로 상반된 주장을 했던 오세훈 서울시장과 ‘정치 브로커’ 명태균씨의 대질 신문이 약 8시간 만에 종료됐다. 두 사람은 대질 신문에서 각자 종전의 입장을 고수한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TEMLGHAZTSOBWGY4DSNRQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈(왼쪽) 서울시장과 '정치 브로커' 명태균씨가 8일 서울 종로구 KT광화문빌딩에 마련된 김건희 특검 사무실에 조사받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀은 이날 오전 9시 40분부터 오후 6시쯤까지 두 사람의 대질 신문을 진행했다. 오 시장은 피의자, 명씨는 참고인 신분으로 조사가 이뤄졌다.&lt;br&gt;&lt;br&gt;오후 9시 17분쯤 조사를 마치고 나온 오 시장은 “대납한 사실이 없다는 점을 중점적으로 얘기했다”고 기자들에게 밝혔다.&lt;br&gt;&lt;br&gt;명씨와 대질신문에 대해선 “양쪽 주장이 평행선을 그리긴 했지만, 말하는 정황 같은 걸 보면서 공정한 특검의 판단이 있을 수 있다고 기대한다”고 했다. 앞서 오후 8시쯤 조사를 마친 명씨는 오 시장에 대해선 “기억이 안 나신다고 한 부분이 너무 많았다”고 했다. 이에 대해 오 시장은 “5년 전의 일을 소상하게 기억하는 게 오히려 어색한 일”이라며 “기억이 안 나는 부분은 솔직하게 기억나지 않는다고 말씀드렸다”고 했다.&lt;br&gt;&lt;br&gt;특검은 오 시장이 2021년 4월 서울시장 보궐선거를 앞두고 명씨로부터 미공표 여론조사 13건을 제공받고, 그 대가로 3300만원을 자기 후원자로 알려진 사업가 김한정씨에게 대납시킨 혐의를 수사하고 있다. &lt;br&gt;&lt;br&gt;이에 대해 오 시장은 김씨가 명씨에게 돈을 준 사실을 몰랐고, 명씨에게 여론조사를 의뢰한 적은 물론 그에게서 조사 결과를 받아보지도 않았다는 입장이다. 반면 명씨는 오 시장과 여러 차례 만났고, 그가 자신에게 선거에서 이기게 해달라고 부탁했다고 주장하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘만 16세 때 무면허 운전’ 정동원, 검찰 기소유예로 재판 면해</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/F3Y6PCICWJHFJG4TPOXN55KJOI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 10:45:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4OAD2VABAZY22F5EMRH2XOENM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교생 트로트 가수 정동원(18)이 무면허 운전 혐의에 대해 기소유예 처분을 받았다. &lt;br&gt;&lt;br&gt;8일 서울서부지검은 도로교통법 위반(무면허 운전) 혐의로 조사를 받아온 정동원에 대해 지난 6일 기소유예 처분을 내렸다고 밝혔다.&lt;br&gt;&lt;br&gt;기소유예는 불기소 처분의 하나로 피의 사실은 인정되지만 검사가 범행 경위와 결과 등을 고려해 재판에 넘기지 않기로 하는 결정이다.&lt;br&gt;&lt;br&gt;정동원은 2023년 고향인 경남 하동에서 면허 없이 자동차를 운전한 혐의를 받는다. 당시 정동원은 만 16세로, 운전면허를 취득할 수 없는 나이였다.&lt;br&gt;&lt;br&gt;정동원의 무면허 운전 혐의는 협박범 검거 과정에서 드러났다. 소속사는 정동원의 지인이 정동원이 운전하는 영상을 확보했다면서 거액을 요구한 사실이 있다고 주장했다. 그러면서 “정동원은 법적 처벌을 받을 각오로 공갈범 일당을 경찰에 신고했다”고 했다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 올해 초 서울중앙지검으로 정동원을 송치했고, 이후 정동원의 주소지 등이 고려돼 사건은 서울서부지검으로 넘겨졌다.&lt;br&gt;&lt;br&gt;앞서 정동원은 2023년 3월 자동차 전용 도로인 서울 동부간선도로에서 오토바이를 몰아 경찰에 적발되기도 했다. 당시 검찰은 정동원이 미성년자인 점과 초범인 점 등을 고려해 기소유예 처분을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산화력 보일러 타워 붕괴 현장서 ‘경보음’...실종자 수색 중단</title>
+      <link>https://www.chosun.com/national/incident/2025/11/08/VZCHY67YXBBT5ENQ7GHYHX52TA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/08/VZCHY67YXBBT5ENQ7GHYHX52TA/</guid>
+      <dc:creator>김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 10:43:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI4TGMRQMU2GGMDGGI2DKMTBGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오후 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원이 매몰자 수색 및 구조작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;8일 오후 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 현장서 갑자기 경보음이 울리면서 실종자 수색 작업이 중단됐다.&lt;br&gt;&lt;br&gt;소방 당국 등에 따르면 이날 오후 5시 25분쯤 현장서 붕괴 위험 감지 센서가 작동하면서 현장 스피커에서 대피 안내 방송이 나왔다.&lt;br&gt;&lt;br&gt;실종자를 수색 중이던 119구조 인력 등을 비롯한 수색대원과 장비 등은 곧바로 안전지대로 철수했다.&lt;br&gt;&lt;br&gt;경보음은 이미 사고가 나 붕괴된 5호기에서 울린 것으로 파악됐다. 이 센서는 기울기를 감지해 울리는 것으로, 센서 설치 업체가 원인을 찾고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZTEYRSMM2DSMDBGJTDMY3BGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 오전 보일러타워 붕괴 사고가 난 울산 남구 남화동 소재 한국동서발전 울산발전본부 울산화력발전소에서 소방대원들이 매몰자를 구조하고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 내린 비나, 구조 작업의 영향으로 센서가 작동했을 가능성이 제기되지만, 아직까지 구체적인 원인은 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;현장에선 정확한 원인을 확인한 후 구조 및 수색 작업을 착수할 방침이다. 당국은 혹시 모를 상황에 대비해 단순 오작동인지 실제 위험이 있는지 등을 파악 중이다.&lt;br&gt;&lt;br&gt;한편, 지난 6일 발생한 울산화력발전소 보일러 타워 붕괴 사고로 매몰된 실종자들을 찾기 위한 수색 작업이 8일 사흘째 이어지고 있다. 매몰자 9명 중 2명은 살아서 구조됐고, 현재까지 3명이 사망했다. 나머지 2명은 사망 추정, 2명은 실종된 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRDQZTFGQ2WKMDGHFSTEYJUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SJGD6LXZVBGC5MX2DUO3JS5VGE.JPG?auth=bfb265d20a2f69ac5e7acbf546d23b9ef483677e8ba5af746222b72f3f0a34d8&amp;smart=true&amp;width=2047&amp;height=1240" type="image/jpeg" height="1240" width="2047">
+        <media:description type="plain">(울산=뉴스1) 황기선 기자 = 7일 오후 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 유가족들이 발전소 관계자들에게 항의하고 있다.  2025.11.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(울산=뉴스1) 황기선 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“운동이 암을 이긴다!” 연세대 캠퍼스 달군 희망의 발걸음</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/4D5FS3YAOVBGLNXRQMWAIE5NFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/4D5FS3YAOVBGLNXRQMWAIE5NFE/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 06:35:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2EMGIM2H45F4JJYJS5MK7Z6QFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“운동이 암을 이긴다!”&lt;br&gt;&lt;br&gt;8일 오전 서울 서대문구 연세대 신촌캠퍼스 대운동장은 700여 명의 참가자들의 힘찬 구호로 가득 찼다. 이들은 ‘제1회 온코런(OncoRun)’ 참가자들이다. 이들은 파란 티셔츠를 맞춰 입고 달리기 준비에 한창이었다. 항암치료로 모자를 쓴 환자들도 곳곳에서 눈에 띄었다. 가족 단위 참가자부터 20·30대 러닝 크루, 60대 참가자까지 연령층도 다양했다.&lt;br&gt;&lt;br&gt;온코런은 암 예방과 생존자 건강 증진을 위해 마련된 마라톤 행사다. 연세암병원과 연세대, 서대문구청이 공동 개최했다. 이날 행사는 5㎞ 달리기와 3㎞ 걷기 코스로 진행됐다. 암 환자와 생존자, 가족, 의료진, 지역 주민 등 700여 명이 참여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ATKTIG4NIFD2ZIXREN7ZDTO6OQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울 상암동 주민 장명화(47)씨는 딸 유예서(11)양과 함께 5㎞를 달렸다. 2017년 갑상선암 수술을 받은 그는 “암 진단 당시 충격이 컸지만 운동에 매달리며 오히려 더 건강해졌다”며 “한 달 넘게 준비해 완주하니 뿌듯하다. 100세 시대엔 누가 뭐래도 건강이 가장 중요하다”고 했다.&lt;br&gt;&lt;br&gt;최근 폐암 4기 판정을 받은 조모(54)씨는 이날 걷기 코스에 참여했다. 그는 “암 환자가 함께 운동할 기회가 거의 없어 임산부 프로그램에 참여하기도 했지만 쉽지 않았다”며 “비슷한 상황의 사람들과 정보를 나누고 소속감도 느낄 수 있어 너무 좋았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VYQZNI7LSNAS3AP27PBAZVMEGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2021년 유방암 수술을 받은 김현정(55)씨는 이날 남편 류두목(59)씨와 함께 5㎞ 달리기를 완주했다. 그는 “4주 전부터 매일 뛰며 준비한 보람이 있다”고 했다.&lt;br&gt;&lt;br&gt;세종에서 온 안도경(53)씨는 지난해 6월 유방암 4기 진단을 받고 항암치료를 받고 있다. 안씨는 “대회를 준비하려고 2주 넘게 매일 오전 30분씩 뛰고 저녁엔 스트레칭을 했다”며 “(이번 대회를 계기로) 운동을 꾸준히 해야겠다는 마음을 다잡게 됐다”고 했다.&lt;br&gt;&lt;br&gt;현장에서 본지와 만난 경기 남양주 주민 조윤성(59)씨는 지난 9월 방광암 진단을 받았다고 했다. 이미 한 차례 수술을 받았고 다음 달 재수술을 앞두고 있다. 그는 “원전에서 30년 일하고 제2의 인생을 시작하려던 때 암 진단을 받아 하늘이 캄캄했다”며 “아버지도 같은 나이에 폐암으로 돌아가셔서 더 절실하다. 지금은 매일 1시간 이상 달린다”고 했다.&lt;br&gt;&lt;br&gt;일반 시민들도 함께했다. 서울 은평구 주민 금문식(34)·이주화(39)씨 부부는 “(이날 대회 참가를 위해) 한 달 넘게 주 3회 이상 꾸준히 뛰었고 주말엔 남산을 달렸다”며 “남녀노소가 자연스럽게 어우러져 뛰는 모습이 좋았고, 가을 캠퍼스 풍경도 인상적이었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLTYMZX4QNENTJEALFQA54QITI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;8일 오전 서울 연세대 신촌캠퍼스 열린 '제1회 온코런' 대회에서 참가자들이 출발 신호에 맞춰 힘차게 달려 나가고 있다. /장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;달리기에 앞서 건강 강좌도 열렸다. 정세희(서울대 재활의학과), 홍정기(차의과대), 박지수·김희만(연세암병원 암예방센터), 김기현(달리는 한의원), 전용관(연세대 스포츠응용산업학과) 교수가 강연에 나섰다.&lt;br&gt;&lt;br&gt;전용관 연세대 교수(연세암병원·암예방센터 겸직)는 이날 강좌에서 “운동은 암 생존자의 삶의 질을 높이는 것을 넘어 생존 자체를 좌우할 수 있는 새로운 치료제”라며 “주 150분 걷기 같은 중등도 유산소 운동과 맨몸 근력 운동만으로도 생존율을 높이는 데 충분하다”고 강조했다.&lt;br&gt;&lt;br&gt;이날 행사에는 장혜선 롯데장학재단 이사장, 이성헌 서대문구청장, 피터 언더우드 연세대 이사도 참석했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 이종호에 “중앙지검 한문혁입니다”… 대검 감찰부, 李 서면 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/10/TYMK7KST7JAC7OUXKSHCWONJPY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/TYMK7KST7JAC7OUXKSHCWONJPY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Nov 2025 04:27:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65LQJY3G3ZDKLCWIGAW4JYVGPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한문혁(앞 줄 가운데) 부장검사가 2021년 이종호(뒷 줄 왼쪽) 전 블랙펄인베스트 대표와 술자리에서 함께 찍은 사진./ 독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청 감찰부가 ‘도이치모터스 주가 조작 사건’ 수사를 맡아온 한문혁 부장검사와 이 사건 주범 이종호 전 블랙펄인베스트 대표가 과거 술자리를 한 경위, 술값 결제 방식 등을 조사하고 있는 것으로 10일 알려졌다. 김건희 여사의 계좌 관리인 역할을 맡았던 이 전 대표가 한 부장을 통해 사건 관련 청탁을 했는지, 수사에 영향을 끼쳤는지 확인하려는 것이다. 한 부장은 도이치모터스 사건의 검찰 수사와 재수사, 김건희 특검 수사에 모두 참여하다가 술자리 논란이 불거진 후 특검 파견이 해제돼 감찰을 받고 있다.&lt;br&gt;&lt;br&gt;대검 감찰부는 지난주 별도의 변호사법 위반 혐의로 구치소에 수감 중인 이 전 대표를 상대로 서면 조사를 진행해 21쪽 분량의 진술서를 제출받았다. 진술서에는 이 전 대표가 지난 2021년 7~8월 당시 서울중앙지검 반부패수사2부 부부장검사로 도이치모터스 주가 조작 사건을 수사하던 한 부장과 만나 술자리를 갖게 된 구체적인 경위 등이 담겨 있다.&lt;br&gt;&lt;br&gt;진술서 등에 따르면, 두 사람을 연결한 인물은 지방에서 안과 병원을 운영 중인 의사 최모씨였다. 이 전 대표는 “지인인 최씨가 주말에 점심을 먹자고 불러 서울 논현동의 한 소고깃집에 갔더니 한 부장이 있었다”고 기억한다. 최씨는 이 전 대표를 “친형님 같은 분”으로, 한 부장은 “친동생 같은 사람”이라고 서로 소개했다고 한다. 한 부장은 “서울중앙지검 한문혁입니다”라고 신분을 밝혔고 이 전 대표는 “이종호입니다”라고만 했다. 그러자 한 부장이 ‘블랙펄인베스트?’라고 되물어 ‘예’라고 답하자 별다른 말 없이 넘어갔다는 것이다. 명함이나 연락처를 주고받진 않았다고 한다.&lt;br&gt;&lt;br&gt;이날 점심 자리에는 이 전 대표와 한 부장, 최씨, 최씨 지인 네 명이 있었다고 한다. 이 전 대표는 “식사비가 약 30만원 정도 나와 내가 현금으로 결제했다. 한 부장이 옆에서 결제하는 것을 봤다”고 진술했다. 한 부장은 최근 언론에 “내 밥값으로 10만원을 최씨에게 건넸다”고 해명했지만, 이 전 대표는 “식사비를 받은 적 없고, 최씨에게 줬는지 모른다”고 밝혔다.&lt;br&gt;&lt;br&gt;2차 술자리는 최씨의 제안으로 그가 거주하는 서울 성동구의 고급 주택에서 이뤄졌다. 최씨는 이 자리에 남자 배우와 여자 연예인 지망생, 정치권 인사 등을 추가로 초대했다고 한다. 배달 음식과 집에 있던 소주, 맥주로 식사를 이어갔다. 언론에 공개된 한 부장과 찍힌 사진에 대해 이 전 대표는 “최씨가 사진을 찍자고 했고, 한 부장도 거부하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;다만 이 전 대표는 술자리 이후 한 부장과 연락하지 않았다고 주장한다. 이 전 대표는 “2021년 10월 도이치모터스 사건으로 구속되기 전에는 한 부장이 이 사건을 수사한다는 사실을 몰랐다”며 “술자리 후 한 부장과 만나거나 연락을 시도한 적 없고, 수사 관련 요구를 한 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;한 부장은 “이 전 대표와 술을 마신 건 맞지만 당시엔 도이치모터스 사건 관련자라는 사실을 몰랐다”는 입장이다. 대검은 다른 술자리 참석자 등에 대한 추가 조사를 통해 사실관계를 확인할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“법무부 장·차관이 항소 반대” 대장동 담당 검사가 폭로</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/2FEPKBJZLVF2TKFA4GQ4ZI3LPI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/2FEPKBJZLVF2TKFA4GQ4ZI3LPI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 05:56:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZGGOBYGE3DKZBYGIYGKMBXMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서초동에 있는 대검찰청에서 검찰 깃발이 휘날리고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 ‘대장동 개발 비리’ 민간업자 사건을 항소하지 않은 결정에 대해 공판을 담당했던 검사가 8일 항소장을 제출하지 못한 경위를 검찰 내부망에 자세하게 밝혔다.&lt;br&gt;&lt;br&gt;강백신 대구고검 검사는 이날 새벽 4시쯤 검찰 내부망 이프로스에 ‘대장동 개발 비리 관련자 5명에 대한 항소장을 제출하지 못한 경위’라는 제목의 글을 올렸다. 강 검사는 “최근 형사사법 시스템의 대내외적 환경의 급격한 변화로 국민과 검찰 구성원들의 심려가 큰 상황에서 특정 사건의 공판 대응과 관련해 심려를 끼치는 글을 올리게 돼 대단히 송구스럽다”면서도 “사안의 중대성과 그 성격에 비추어 구체적 경위를 공유할 필요가 있다는 판단이 있었다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;강 검사에 따르면 지난달 31일 서울중앙지법의 1심 판결 후 사흘 뒤인 지난 3일, 대장동 수사팀과 공판팀은 만장일치로 항소제기 의견을 모았다고 한다. 이들은 1심 재판부가 무죄를 선고한 부분에 대해 상급심의 추가적 판단이 필요하다고 봤다.&lt;br&gt;&lt;br&gt;5일 이들은 항소제기 보고서 등 관련 문서를 중앙지검 내부에 보고했고, 중앙지검 차원에서 항소 제기 방침을 결정한 뒤 대검 반부패부에 승인을 요청했다. 이튿날 대검은 1심 판결과 관련해 검찰의 별건수사 지적과 관련한 적법성 등을 검토해달라고 했다. 대검 요청을 정리해 회신한 담당팀은 7일 항소장을 부장, 4차장, 검사장 결재를 받았다. &lt;br&gt;&lt;br&gt;대검의 승인이 떨어지지 않은 상황에서 항소장 제출은 계속해서 미뤄졌다. 강 검사는 “대검 반부패부장이 재검토해보라고 하면서 불허하자, 4차장이 반부패부장에게 전화해 설득하겠다며 기다려달라고 했다”고 전했다.&lt;br&gt;&lt;br&gt;항소장 접수 시한이 2시간 남은 오후 10시가 됐을 쯤엔 대검 담당 연구관에게 중앙지검장의 판단 하에 처리하면 되는지 확인을 요청하는 메신저를 보냈다고 한다. 직원들은 항소장 접수를 위해 법원에서 대기하고 있었다. 그러나 강 검사는 12시가 가까워질 때까지 중앙지검 지휘부에선 항소장 접수 여부에 아무런 지시를 하지 않았다고 주장했다. 강 검사는 “공판 담당 검사 2명이 4차장실로 가서 ‘항소를 해야 하니 결단을 내려달라’는 취지로 건의하자 4차장은 ‘대검에서 불허했고, 검사장께서도 불허해 어쩔 수 없다”고 답변했다”고 했다.&lt;br&gt;&lt;br&gt;대검은 1심에서 민간업자들의 배임 혐의가 유죄로 인정됐고, 유동규 전 성남도시개발공사 본부장은 구형(징역 7년)보다 중형(징역 8년)이 선고돼 항소의 실익이 없다는 취지로 항소를 승인하지 않았다고 한다. 이에 동의하지 않은 담당 검사들은 끝까지 지휘부를 설득했지만, 자정까지 결정을 뒤집지는 못했다.&lt;br&gt;&lt;br&gt;강 검사는 법무부와 대검이 이같은 결정을 내린 경위를 공개해야 한다고 촉구했다. 그는 “수사팀 및 공판팀은 대검에서 내부적으로도 항소할 사안으로 판단한 후 법무부에 항소 여부를 승인받기 위해 보고했지만 장관과 차관이 이를 반대했다는 이야기를 전해 들었다”며 “대검에서 법무부에 승인 요청을 한 경위와 그 적법성 여부를 설명해주실 것을 요청드린다”고 적었다.&lt;br&gt;&lt;br&gt;끝으로 강 검사는 “2021년 대장동 개발비리가 문제됐을 때 사건의 명확한 실체를 밝혀달라는 국민적 요구가 높았던 본건의 공판을 담당하는 검사로서 전례 없던 부당한 결과가 초래돼 국민과 검찰 구성원들에게 큰 심려를 끼치게 됐다”며 “책임을 통감한다”고 썼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OTPYIWKW4ZEQBIGFY2DMXFO3HU.jpg?auth=7b775f34e3862f03ba2e90590b351a7b05260278a1c526a9b8c3125fd0c3c9ca&amp;smart=true&amp;width=654&amp;height=368" type="image/jpeg" height="368" width="654">
+        <media:description type="plain">취임식 참석하는 정진우 서울중앙지검장</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>KT 소액결제 해킹 일당 3명 추가 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/11/10/UFOJCLXH6JA3XDNI7PBUGD2O2A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/10/UFOJCLXH6JA3XDNI7PBUGD2O2A/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 10 Nov 2025 04:33:20 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPNOKXWCFJL5ZFRCQIHHABOAQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KT 무단 소액결제 사건 피의자 A씨가 지난 9월 25일 경기도 수원시 영통구 수원영통경찰서 유치장에서 검찰로 송치되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;KT 이용자들을 대상으로 한 ‘무단 소액결제’ 범행에 사용된 불법 통신장비를 전달하거나 범죄수익을 세탁한 일당 3명이 추가로 구속됐다. 해당 사건으로 구속된 인원은 총 5명으로 늘었다.&lt;br&gt;&lt;br&gt;경기남부경찰청 사이버수사과는 10일 정례 기자간담회에서 “지난 9월 구속 송치된 중국 국적 동포 A(48)씨에게 불법 통신장비 부품을 전달한 B씨와 C씨 등을 정보통신망법 위반 및 컴퓨터등사용사기 혐의로 구속해 지난달 2일과 24일 송치했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한국인 50대 B씨는 텔레그램 등을 통해 알게 된 상선의 지시를 받고 지난 6월 범행에 사용된 통신장비 부품을 조달해 30대 중국동포 C씨에게 전달한 혐의를 받고 있다. B씨는 대가로 500만원을 받은 것으로 조사됐다. C씨는 같은 해 7월 19일 A씨를 직접 만나 부품을 건넸으며, 이 과정에서 다른 경로로 확보한 부품도 함께 전달한 것으로 확인됐다. 두 사람은 서로 모르는 사이로, 상선을 통해 따로 지시받은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 이 장비를 지난 9월 16일 평택항 인근에서 중국으로 반출되기 직전 압수했다. 해당 장비는 총 27개의 네트워크 장비 부품으로 구성된 세트로 알려졌다.&lt;br&gt;&lt;br&gt;또한 40대 한국인 D씨도 소셜네트워크를 통해 상선과 접촉해 하루 10만~15만원의 대가를 받고 소액결제로 취득한 모바일 상품권을 자신의 계정으로 받아 다른 사람에게 넘기는 방식으로 범죄수익을 세탁한 혐의(범죄수익은닉규제법 위반 등)로 구속 송치됐다.&lt;br&gt;&lt;br&gt;앞서 구속된 A씨 등 2명은 이른 새벽 불법 소형 기지국 장비를 차량에 싣고 광명·과천·부천·서울 금천 등 대규모 아파트 단지를 돌며 KT 이용자들의 인증 정보를 탈취해 소액결제를 유도한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;경찰이 파악한 피해는 220명, 1억4000여만원 규모다. 경찰 관계자는 “범행에 사용된 통신장비의 조달 경로와 상선의 신원을 추적 중”이라며 “유심 개통을 도운 6명도 불구속 입건해 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강원 화천 간동면 야산서 불… 헬기 6대 투입 진화 중</title>
+      <link>https://www.chosun.com/national/regional/2025/11/10/UED5MGRPCZAHDJJBXYEPNYK4Q4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/10/UED5MGRPCZAHDJJBXYEPNYK4Q4/</guid>
+      <dc:creator>화천=정성원 기자</dc:creator>
+      <description>10일 오전 11시 36분쯤 강원 화천군 간동면 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 6대와 30여명의 인력을 투입해 진화 작업을 벌이고 있다.</description>
+      <pubDate>Mon, 10 Nov 2025 04:29:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2SFAVEQLNFAT3FUKDD5RHFI2JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;10일 오전 강원 화천군 간동면 한 야산에서 불이 나 산림 당국이 진화 작업을 벌이고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오전 11시 36분쯤 강원 화천군 간동면 한 야산에서 불이 났다. 불이 나자 산림 당국은 헬기 6대와 인력 30여 명을 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;산불 발생 지역은 지상 인력 접근이 불가해 항공 진화 위주로 불길을 잡고 있으며, 저수지가 인접해 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;산림 당국 관계자는 “현장엔 초속 2m의 바람이 불고 있다”면서 “진화 작업을 마치는 대로 정확한 화재 원인 등을 조사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검 “尹 전 대통령 오는 11일 출석 재통보”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/08/ZH3GYEFU3VDVJLNDPSIUF3SS3Q/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 04:04:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TANDEMU4WIYRTMI3DGZRZMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 재판에 윤석열 전 대통령이 출석해 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 8일 소환 조사에 불응한 윤석열 전 대통령을 오는 11일 재소환했다. 특검은 앞서 두 차례 윤 전 대통령에 대해 소환 통보를 했으나, 윤 전 대통령 측은 모두 출석하지 않았다.&lt;br&gt;&lt;br&gt;특검은 이날 “오는 11일 오전 10시에 다시 출석하라는 출석요구서를 (윤 전 대통령이 수감 중인) 서울구치소에 팩스 발송 완료했다”고 밝혔다. 특검은 출석요구서를 윤 전 대통령 측 대리인인 송진호, 채명성 변호사에게도 통지했다고 덧붙였다.&lt;br&gt;&lt;br&gt;윤 전 대통령이 이번 소환에도 응하지 않을 경우 특검이 강제 구인에 나설 수 있다는 전망도 나온다. 앞서 특검은 “윤 전 대통령이 8일에도 나오지 않으면 체포 영장 청구도 검토하고 있다”고 경고한 바 있다. 통상 수사기관은 피의자가 3차례 출석에 응하지 않을 경우 체포영장 등을 발부받아 강제 구인에 나선다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 2023년 7월 임성근 전 해병대 1사단장에게 과실치사 혐의를 적용한 초동 조사 결과를 보고받고 격노해 임 전 사단장을 혐의자에서 제외하라고 외압을 행사한 혐의를 받는다. 또 채 상병 사건으로 고위공직자범죄수사처에 입건된 이종섭 전 국방장관을 주 호주 대사로 임명, 출국시켜 수사를 방해한 혐의도 받는다.&lt;br&gt;&lt;br&gt;이와 관련해 특검은 지난달 20일 임 전 사단장과 이종섭 전 국방 장관 등 피의자 6명에 대해 구속영장을 청구했지만, 그달 24일 법원을 임 전 사단장을 제외한 피의자들에 대한 구속영장을 기각한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주시, 광주공항 국제선 임시 취항 재신청</title>
       <link>https://www.chosun.com/national/national_general/2025/11/10/QOXZD3JGMVGBJAFJY4JGTPXFNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/QOXZD3JGMVGBJAFJY4JGTPXFNM/</guid>
@@ -510,16 +617,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4B4GL5DUERGG3EWSECBGWXMWFE.gif?auth=1e1801868a2f4481a53373e04afd5c3a0dac734aa549a4da8eafb5c06dfdb92e&amp;smart=true&amp;width=1800&amp;height=1012" type="image/jpeg" height="1012" width="1800"/>
     </item>
     <item>
-      <title>행복해지는 단어 ‘클라우드 나인’ </title>
-      <link>https://www.chosun.com/national/education/2025/11/10/4TJAVOOO3BFBNLHA4CRTEBCHAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/10/4TJAVOOO3BFBNLHA4CRTEBCHAE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 18:00:00 +0000</pubDate>
-      <content:encoded>이번 편에서는 기쁨과 행복감에 관련된 표현들을 둘러보겠습니다.&lt;br&gt;&lt;br&gt;우리말이 그렇듯이 영어에도 강도와 뉘앙스에 따라 다채로운 표현이 있습니다.&lt;br&gt;&lt;br&gt;기쁨을 나타내는 가장 흔한 표현으로는 ‘be pleased’와 ‘be glad’가 있지요. pleased는 뭔가 만족스러운 결과에 대한 기쁨을 표현할 때 쓰이고, glad는 좀 더 가볍고 일상적인 기쁨을 나타냅니다. &lt;br&gt;&lt;br&gt;예를 들어 “시험 결과가 잘 나와서 기쁘다”는 “I’m pleased with the results of my exam.”&lt;br&gt;&lt;br&gt;서로 혼용할 수는 있습니다만, 단순히 가볍게 “다시 만나서 반갑다”고 할 때는 이렇게 말하지요. “I’m glad to see you again.”&lt;br&gt;&lt;br&gt;좀 더 강한 기쁨을 표현하고 싶다면 ‘be delighted’를 사용하면 되겠습니다. ‘매우 기뻐하는’ 상태를 뜻하며, 격식 있는 자리에서 자주 쓰입니다.&lt;br&gt;&lt;br&gt;“I’m delighted to announce the winner.” (제가 수상자를 발표하게 돼 매우 기쁩니다)&lt;br&gt;&lt;br&gt;젊은 친구들 사이에선 ‘be stoked’나 ‘be pumped’를 씁니다. 둘 다 ‘엄청 신난다’ ‘들떠 있다’는 의미의 비격식 표현입니다.&lt;br&gt;&lt;br&gt;가령 격의 없는 친한 사람에게 “오늘 밤 콘서트 때문에 완전 신난다”라고 말할 때는 “I’m so stoked about the concert tonight”라고 표현할 수 있겠습니다.&lt;br&gt;&lt;br&gt;또 스포츠 이벤트를 기다리며 “나는 그 경기를 앞두고 완전 들떠 있어”라고 한다면 “I’m pumped for the game”라고 말할 수 있겠지요.&lt;br&gt;&lt;br&gt;구어체 표현으로는 over the moon이라는 관용구가 있습니다. 직역하면 ‘달 위에 있다’인데, 너무 기뻐서 하늘을 나는 듯한 기분이라는 표현입니다.&lt;br&gt;&lt;br&gt;“She’s over the moon about her promotion.” (승진해서 그녀는 하늘을 날 듯 기뻐하고 있다)&lt;br&gt;&lt;br&gt;비슷한 표현으로 on cloud nine도 있습니다. 직역하면 ‘구름 아홉 위에 있다’는 건데, 1950년대 미국 기상청에서 구름을 9단계로 분류했는데, 9번이 가장 높고 푹신한 구름을 지칭한 데서 유래했다고 합니다. &lt;br&gt;&lt;br&gt;“They’ve been on cloud nine since they got engaged.” (그들은 약혼한 이후 구름 위를 걷는 듯 행복해한다)&lt;br&gt;&lt;br&gt;의미가 좋고 외우기도 쉬워 상호로 인기입니다. 과거 종로2가 고층 레스토랑의 이름이었고, 지금도 이 상호를 쓰는 점포는 물론 오피스텔까지 있습니다. &lt;br&gt;&lt;br&gt;‘walk on air’도 같은 맥락의 관용구입니다. ‘공중을 걷는’ 듯한 기분이라는 뜻이지요. &lt;br&gt;&lt;br&gt;“I was walking on air after getting the job offer.” (일자리 제안을 받고 나는 공중을 걷는 듯 마냥 들떴다)&lt;br&gt;&lt;br&gt;종교적 뉘앙스가 있지만 ‘더없이 행복한’ ‘환희에 가득한’의 의미로 ‘be in the seventh heaven’이라는 것도 있습니다.&lt;br&gt;&lt;br&gt;“We were in seventh heaven on our honeymoon.” (우리는 신혼여행에서 그지없는 행복을 느꼈다)&lt;br&gt;&lt;br&gt;‘짜릿할 정도로 흥분된’ 기쁨을 나타내고 싶으면 말 그대로 ‘be thrilled’로 표현하면 됩니다. 흔히 뭔가 기대하던 일이 이루어졌을 때 자주 씁니다.&lt;br&gt;&lt;br&gt;“I’m thrilled to be here!” (여기 오게 되어 정말 기쁩니다)&lt;br&gt;&lt;br&gt;뭔가를 몹시 기대하며 흥분된 상태는 ‘대대적으로 부풀리다’라는 어감을 가진 hype의 과거분사형으로 나타내기도 합니다. &lt;br&gt;&lt;br&gt;예를 들어 “새 영화 개봉이 너무 기대돼”라고 말하고 싶으면 이렇게 말할 수 있겠습니다. “I’m so hyped for the new movie release.”&lt;br&gt;&lt;br&gt;다음 편에서는 화가 나거나 짜증스러울 때 쓰는 표현들을 알아보겠습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TTJPWASTGRBANK3BKOLSRC2YQU.gif?auth=5664f648ad36f6cf0d4919f446105e2da48cea31f6559e95da2f81736b4c9b3b&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
-    </item>
-    <item>
       <title>4명은 아직 잔해 속에… “크레인 투입 위해 양쪽 타워도 해체”</title>
       <link>https://www.chosun.com/national/regional/2025/11/10/BKNGBUWCLNBWVPIL33P4RXQT6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/10/BKNGBUWCLNBWVPIL33P4RXQT6M/</guid>
@@ -546,16 +643,6 @@
       <description/>
       <pubDate>Sun, 09 Nov 2025 15:55:00 +0000</pubDate>
       <content:encoded>당정(黨政)이 2035년까지 국가 탄소 배출량을 2018년 대비 최소 53%, 최대 61%까지 줄이기로 합의했다. 앞서 주무 부처인 기후에너지환경부는 지난 6일 대국민 공청회에서 ‘50~60% 감축’안과 ‘53~60% 감축’안을 제시했는데, 3일 만에 오히려 더 강화된 방안으로 결정된 것이다. 산업계에선 “당정이 환경 단체 눈치를 보며 막대한 비용 부담, 고용 감소가 뒤따르는 실현 불가능한 안을 선택한 것”이란 비판이 나왔다. &lt;br&gt;&lt;br&gt;더불어민주당과 정부는 9일 서울 삼청동 국무총리 공관에서 고위 당정 협의회를 가진 뒤 ‘2035년 온실가스 감축 목표(NDC)’를 이같이 결정했다고 밝혔다. 정부는 11일 국무회의에서 NDC를 확정해 오는 21일까지 브라질에서 열리는 유엔 기후변화협약 당사국총회에서 발표할 계획이다. 앞으로 정부가 전력, 산업, 수송 분야 관련 정책을 NDC에 맞춰 설계하는 만큼, 국내 산업에 미치는 여파는 상당할 전망이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇산업계 “사실상 내연車 퇴출”&lt;/b&gt;&lt;br&gt;&lt;br&gt;당정이 2035년 NDC를 53~61%로 정하자, 산업계에선 거센 반발이 나오고 있다. 실제 이날 당정에선 부족한 신재생에너지 인프라, 기업들의 비용 부담 등이 언급되면서 50~60% 안을 주장한 목소리도 있었다. 그러나 “강한 감축 의지를 국제사회에 표명해야 한다”는 논리가 거세지며 오히려 상한이 1%포인트 더 오른 53~61% 안으로 합의가 이뤄졌다. &lt;br&gt;&lt;br&gt;가장 많은 탄소 감축이 이뤄져야 할 곳은 2018년 대비 배출량이 최소 68.8% 줄어야 하는 전력 부문이다. 정부는 지난해 기준 34GW(기가와트)인 재생에너지 설비 용량을 2035년 최대 150GW 이상으로 대폭 올리겠다는 입장이다. 이를 위해 태양광 이격 거리 규제를 완화 혹은 폐지하고, 풍력발전 등의 인허가 속도도 높일 계획이다. 그러나 재생에너지 확대의 전제 조건인 송·배전망 확충이 제대로 이뤄지지 않고 있는 데다, 태양광과 풍력의 불안한 수급과 비용 문제 등은 여전한 문제로 지적된다. 이는 전기료 인상 압력으로 작용할 가능성이 크다.&lt;br&gt;&lt;br&gt;2018년 대비 탄소 배출량을 최소 60.2% 줄여야 하는 수송 부문의 충격도 상당할 전망이다. 김성환 기후부 장관은 “2035년 신차 판매의 70%를 전기·수소차로 전환하겠다”고 밝혔지만, 산업 현장에서는 “현실과 괴리된 목표”라는 비판이 나온다. 올해 1~9월 전기·수소차의 신차 판매 비율은 약 14%. 현재 내연기관 중심의 자동차 산업을 전기차 중심으로 전환하려면 엔진 등 핵심 부품이 모터, 배터리, 변속기 등으로 교체되는 공급망 전체의 재설계가 필요하다. 규모가 큰 업체는 수익을 내며 전기차 전환에 속도를 낼 수 있지만 국내 부품사 1만여 곳 대부분은 이를 감내하지 못할 가능성이 크다. 업계에선 국내 중견·중소기업 50~60%가량은 전기차 전환에 대비가 되지 않았다고 본다. 한국자동차모빌리티산업협회, 한국자동차산업협동조합, 금속노조는 “정부가 밝힌 목표치는 사실상 내연기관차 퇴출을 의미하고, 이는 부품 산업의 대규모 구조 조정과 고용 감소로 이어질 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“못 구해 죄송합니다” 안타까운 경례</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/10/6Z2KLB6FAJEOPFTZMMBJKFE2S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/6Z2KLB6FAJEOPFTZMMBJKFE2S4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PNZVQ6NQSNHTDGCWXIZXIXHCEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산소방본부
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국동서발전 울산화력발전소 ‘보일러 타워’ 붕괴 사고 나흘째인 9일 구조대원들이 매몰된 작업자의 시신을 수습한 뒤 거수 경례를 하고 있다. 이번 사고로 매몰된 작업자 9명 중 2명은 구조됐으나 3명은 숨졌다. 나머지 4명은 아직 잔해 속에 있다. 이 중 2명은 무게 수천t의 H빔이 가로막고 있어 구조대가 손을 쓰지 못하고 있다. 2명은 실종된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“대검서 항소 불허는 이례적… 민정수석실·법무부서 지시했을 것”</title>
@@ -586,15 +673,6 @@
       <content:encoded>검찰 지휘부가 ‘대장동 일당’의 사건을 항소하지 않기로 결정하자 검찰 내부에서 반발이 거세게 일고 있다. 검사들 사이에선 노만석 검찰총장 권한대행과 정진우 서울중앙지검장을 겨냥해 “외압에 굴복한 것이냐. 스스로 엎드린 것이냐” “사표를 내더라도 항소를 제기하고 나서 냈어야 한다”는 비판까지 나온다. 이 사건을 수사하고 공판을 담당한 검사들을 향해서도 “직을 걸고 항소를 관철한 검사가 한 명도 없었다는 게 안타깝다”는 목소리가 나왔다.&lt;br&gt;&lt;br&gt;박영진(검사장) 법무연수원 연구위원은 이번 항소 포기가 알려지자 검찰 지휘부에 문자 메시지를 보내 사퇴를 촉구한 것으로 9일 알려졌다. 노 대행과 정 지검장, 이진수 법무부 차관 등에게 “법치주의 정신을 허물고 정권에 부역해 오욕의 역사를 만든 책임을 지고 당장 사퇴하라. 더 이상 당신을 검찰 선배, 일선 검사들에 대한 지휘권자로 인정하지 않겠다”는 내용의 문자 메시지를 보냈다는 것이다. 박 위원은 윤석열 정부 때인 2024년부터 전주지검장으로 있으면서 문재인 전 대통령의 뇌물 사건 수사를 지휘했다가 정권이 바뀐 뒤 법무연수원으로 좌천됐다. 정유미(검사장) 법무연수원 연구위원도 이날 노 대행에게 “원칙도, 조직도, 후배들도 지키지 못하면서 그저 정권에서 시키는 대로 문고리를 잡고 있다가 문 닫고 나가는 게 목표이시냐”며 “이 사태에 책임을 지시기 바란다”고 문자를 보낸 것으로 전해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K3E63X7PF5AKJDFQMDJJP5ZDBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동 수사를 맡은 김영석 대검 감찰1과 검사는 이날 검찰 내부망에 글을 올려 “대검 차장(노 대행)께서 그토록 심도 있게 종합적으로 고려하신 기준이 무엇인지, 중앙 검사장께서는 수사·공판팀이 작성한 항소 취지 문서에 결재까지 하셔 놓고 번복하신 이유가 도대체 이해되지 않는다”면서 “검찰 역사상 일부 무죄가 선고되고 엄청난 금액의 추징이 선고되지 않은 사건에서 항소 포기를 한 전례가 있었느냐”라고 적었다.&lt;br&gt;&lt;br&gt;한 현직 검사장은 “검찰청을 폐지한다고 했을 때보다 더 절망적으로 느껴졌다”며 “고칠 건 고치자는 생각으로 현 정부가 내건 ‘검찰 개혁’은 버틸 수 있었는데, 이번 사안은 지휘부가 알아서 엎드린 격이니 견디기가 힘들다”고 했다.&lt;br&gt;&lt;br&gt;“항소 의견을 관철시키지 못했다”며 사의를 표명한 정 지검장에게도 비판이 쏟아졌다. 안미현 중앙지검 검사는 페이스북에 “검사는 단독 관청이라 엄밀히 말하면 결재는 내부 절차에 불과하다. 결재 없이 법원에 접수시킨다고 효력이 인정되지 않는 게 아니다”라며 대검 승인 여부와 관계없이 독립적으로 판단했어야 한다고 했다. 정 지검장이 전결로 항소를 승인할 수 있는데도 윗선의 부당한 지시를 따랐다는 것이다.&lt;br&gt;&lt;br&gt;이 사건 수사·공판 검사들에 대한 비판 목소리도 있었다. 차장검사 출신 변호사는 “항소 기한을 넘기고 나서 반발할 게 아니라, 본인들의 직을 걸고서라도 항소해야 했던 게 아닐까 싶다”고 했다. 검사장 출신 변호사는 “결기 있는 검사가 한 명도 없다는 게 더 안타깝다. 징계를 감수하고라도 항소장을 접수하는 검사가 한 명쯤은 있어야 하는 것 아닌가”라고 했다.&lt;br&gt;&lt;br&gt;과거에도 정치적 사건 등에서 검찰 지휘부와 수사팀 견해가 충돌하는 경우는 종종 있었다. 하지만 격론 끝에 수사팀 의견이 관철된 사례가 적지 않다. 대표적인 게 2020년 ‘울산시장 선거 개입’ 사건이다. 당시 수사팀은 송철호 전 울산시장과 황운하 전 울산경찰청장, 백원우 전 민정비서관 등을 기소해야 한다고 세 차례 보고했다. 그러나 당시 이성윤 서울중앙지검장(현 더불어민주당 의원)이 결재를 보류하며 사실상 기소를 막았던 것으로 알려졌다. 이에 당시 윤석열 검찰총장이 대검 지휘부와 중앙지검 수사팀을 불러 회의한 뒤 기소를 결정했고, 사건 관련자 13명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;문재인 정부 초기인 2017년 한국e스포츠협회가 롯데홈쇼핑 등에서 수억 원을 지원받는 과정에 전병헌 당시 청와대 정무수석 측근이 개입한 의혹 사건 수사 때는 대검 지휘부와 서울중앙지검 수사팀이 구윤철 당시 기획재정부 실장(현 경제부총리) 소환 조사를 놓고 충돌했다. 대검이 소환 통보를 취소하라고 지시했으나 수사팀 검사들이 “직을 걸겠다”며 버텼다. 당시 검찰은 구 실장에게 “전 수석의 전화를 받고 압력을 느껴 예산을 증액했다”는 진술을 받아냈고, 전 전 수석을 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>정년 지나도 교수 직함 유지, 연구실 지원… 인재 이탈 막기 위해 관행 깨</title>
-      <link>https://www.chosun.com/national/education/2025/11/10/NGR4T3TEHBCFBKOCDVP5VSZQ6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/10/NGR4T3TEHBCFBKOCDVP5VSZQ6Y/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:48:00 +0000</pubDate>
-      <content:encoded>국내 대학들은 글로벌 인재 영입뿐 아니라 기존 우수 연구진의 해외 이탈을 막기 위해 관행을 깨고 새로운 제도를 도입하고 있다. &lt;br&gt;&lt;br&gt;지난달 서울대는 ‘특임석좌교수’로 황윤재(65) 경제학부 교수와 현택환(61) 화학생물공학부 교수를 선정한다고 밝혔다. 특임석좌교수는 서울대가 올해 신설한 제도인데, 선정된 교수에게는 정년 65세를 넘어 70세까지 연구실과 학술 활동비를 지원한다. 재임용이 되면 75세까지도 근무할 수 있다. 기존에 확보해 놓은 특급 연구 인력들이 정년 후에도 이탈 없이 학교에 남을 수 있도록 한 것이다. 서울대는 올해를 시작으로 앞으로 특임석좌교수 제도를 더욱 활성화한다는 방침이다. &lt;br&gt;&lt;br&gt;포스텍도 우수 교원을 대상으로 정년을 ‘70세’로 늘리는 ‘정년 연장 조기 결정 제도’를 올해 도입했다. 50세 안팎의 우수 교원을 대상으로 미리 정년을 기존보다 5년 연장해줘 안정적으로 연구를 계속할 수 있도록 할 뿐 아니라 특급 교수들의 이탈을 막는 효과적인 방안이라는 평가다. 물리학과 이현우(55), 신소재공학과 정운룡(53) 교수 등 4명이 올해 정년 연장 대상자로 선정됐다.&lt;br&gt;&lt;br&gt;이보다 앞서 카이스트는 65세 정년을 넘어서도 교수 직함을 유지하고, 계속 연구 활동을 이어갈 수 있는 ‘정년 후 교수’ 제도를 2022년 도입했다. 교수가 정부 등 외부에서 연구비를 조달해 오면 정년 이후에도 학교에 남아 연구를 계속하면서 대학원생도 둘 수 있다. 이들에게 기존 연구실과 학교 연구 시설을 제공하며 연구를 이어갈 수 있는 기회를 제도화한 것이다. 현재까지 이 제도를 통해 교원 17명이 정년 이후에도 카이스트에서 연구 활동을 하고 있다. 카이스트는 또 새로 임용된 교원이더라도 연구 성과가 우수하다면 바로 ‘석좌교수’로 임명한다. 선정이 되면 추가 연구비 등 혜택을 받는다. 현재 전임 교원 중 70여 명이 석좌교수로 임명됐다. &lt;br&gt;&lt;br&gt;울산과학기술원(UNIST)은 교수를 채용하는 과정에서 기존 틀을 깼다. 전에는 학과 안에서 정년 퇴임 등으로 빈자리가 생겨야 후임 교수 1~2명을 뽑는 방식으로 충원을 해왔는데, 올 3월 학과 구분 없이 학교 전체에서 교원 33명 채용 공고를 냈다. 2009년 개교 이래 최대 규모 교원 채용이었다. 이를 통해 전 세계에서 500명 넘는 지원자가 몰렸고, 일본 도쿄대에서 의사 과학자를 데려올 수도 있었다고 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>최소 8번… 김건희, 까도까도 나오는 뇌물 수수 의혹</title>
       <link>https://www.chosun.com/national/court_law/2025/11/10/LXMWPIQO5RHHTJDFZPTBFQJIBU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/LXMWPIQO5RHHTJDFZPTBFQJIBU/</guid>
@@ -623,34 +701,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 유엔 참전 용사 국제 추모의 날을 맞아 6·25전쟁에 참전한 용사와 유가족 등 80여 명이 방한했다. 9일 서울 용산구 전쟁기념관을 찾은 유가족이 전사자 명비에서 고인의 이름을 탁본하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[인사] 법무부 외</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/10/DYFEDVBNUZCPPPFAEKRLVOTNMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/DYFEDVBNUZCPPPFAEKRLVOTNMM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;법무부&lt;/b&gt;▷교정본부장 이홍연▷출입국·외국인정책본부장 차용호&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조선비즈&lt;/b&gt;▷과학에디터 이영완▷정치경제부장 금원섭 ▷금융부장 전재호▷증권부장 김참▷건설부동산부장 이창환▷자본시장부장 안재만▷산업부장 이재원▷사회부장 박성우▷사회부 전국취재TF팀장 윤희훈&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“살기 위해 매일 달립니다” 삶 의지 다잡는 암 환자들</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/10/CKLJUJPG2REAZJYGWTRSE4RWQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/CKLJUJPG2REAZJYGWTRSE4RWQU/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>“운동이 암을 이긴다!” 8일 오전 서울 서대문구 연세대 신촌캠퍼스 대운동장에 모인 700여 명이 이렇게 외친 뒤 달리기 시작했다. 파란 티셔츠를 맞춰 입은 이들은 대부분 암 환자와 가족이다. 이날 연세대 스포츠응용산업학과와 연세암병원 암예방센터는 제1회 암 환자 마라톤 대회 ‘온코런(OncoRun)’을 개최했다. ‘온코런’은 ‘Oncology(종양학)’와 ‘Run(달리기)’을 결합한 표현이다. 운동이 암 예방·재활·생존율에 긍정적인 영향을 미칠 수 있다는 것을 알리는 게 대회 취지다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZDH5FV5ARZHRXC5XIR6TEPJZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;“완주를 목표로” 8일 서울 서대문구 연세대 대운동장에서 암 환자 마라톤 대회인 ‘제1회 온코런(OncoRun)’이 열렸다. 대회 참가자들이 힘차게 달리고 있다. 이날 대회엔 암 환자와 가족, 지역 주민 등 700여 명이 참가했다.
-/ 장경식 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“매일 한 시간, 살기 위해 달립니다.” 조윤성(59)씨는 두 달 전 방광암 진단을 받았다. 한 차례 수술을 받았고 내달 재수술을 앞두고 있다. 그는 “원전에서 30년간 일하고 은퇴한 뒤 ‘제2의 인생’을 시작하려는데 암 진단을 받고 하늘이 캄캄했다. 아버지도 같은 나이에 폐암으로 돌아가셨다”고 했다. 이어 “같은 암 환자들끼리 달리니 마음이 든든하다”고 했다.&lt;br&gt;&lt;br&gt;참가자들은 자신의 건강 상태에 따라 5㎞ 달리기 또는 3㎞ 걷기 코스 중 하나를 선택해 연세대 신촌캠퍼스에서 안산둘레길까지 완주했다. 결승선 앞에서는 완주자들이 서로의 등을 가볍게 두드리며 숨을 골랐다. 땀에 젖은 참가자들이 “생각보다 할 만했다”며 물병을 받아 들었다. 일부 환자들은 가족과 포옹하면서 눈물을 흘렸다.&lt;br&gt;&lt;br&gt;세종에서 온 안도경(53)씨는 지난해 유방암 4기 판정을 받고 항암 치료를 받고 있다. 그는 “대회가 동기부여가 돼 매일 아침 30분씩 뛰고 저녁엔 스트레칭을 했다”고 했다. 달리기에 앞서 연세대 스포츠응용산업학과 교수는 참가자들을 대상으로 한 강연에서 “주 150분 걷기 같은 중등도 유산소 운동과 맨몸 근력 운동만으로도 생존율을 상당히 높일 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 고남순씨 별세 외</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/11/10/OPPIBMZNSFESTC5RQTEDGYSBDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/11/10/OPPIBMZNSFESTC5RQTEDGYSBDY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;고남순&lt;/b&gt; 별세, &lt;b&gt;이강현&lt;/b&gt; 아내상, &lt;b&gt;이희재&lt;/b&gt;·&lt;b&gt;이소재&lt;/b&gt;·&lt;b&gt;이희남&lt;/b&gt;·&lt;b&gt;이희경&lt;/b&gt; 모친상, &lt;b&gt;유제문&lt;/b&gt;·&lt;b&gt;유영석&lt;/b&gt; 장모상, &lt;b&gt;박혜경&lt;/b&gt;·&lt;b&gt;현영자&lt;/b&gt; 시모상, &lt;b&gt;유규상&lt;/b&gt; 서울신문 기자 외조모상=9일4시 고대안암병원, 발인 11일7시40분, (02)923-4442&lt;br&gt;&lt;br&gt;▲&lt;b&gt;박영순&lt;/b&gt; 별세, &lt;b&gt;안병용&lt;/b&gt; SR타임스 산업팀 차장·&lt;b&gt;안민정&lt;/b&gt; 모친상=8일14시 부산 빌리브세웅병원, 발인 11일13시, (051)521-3740&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서정식&lt;/b&gt; 별세, &lt;b&gt;서영배&lt;/b&gt; 수원지검 형사1부장·&lt;b&gt;서미영&lt;/b&gt; 대구 수성중 행정실장·&lt;b&gt;서은경&lt;/b&gt; 부친상, &lt;b&gt;전준호&lt;/b&gt; 한국일보 대구경북취재본부장·&lt;b&gt;박동성&lt;/b&gt; 중앙감정평가법인 경남지사 이사 장인상, &lt;b&gt;박연실&lt;/b&gt; 시부상, &lt;b&gt;전지담&lt;/b&gt; 부산 장안고 교사·&lt;b&gt;전예원&lt;/b&gt; 서울아산병원 간호사 외조부상=9일3시55분 대구 파티마병원, 발인 11일6시30분, (053)940-8197&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한인수&lt;/b&gt; 별세, &lt;b&gt;한승혁&lt;/b&gt; 부친상, &lt;b&gt;김종택&lt;/b&gt; 뉴시스 경기남부취재본부 부국장 장인상=8일21시55분 경기 수원 연화장장례식장, 발인11일7시, (031)218-6560&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재밌다, 이 책!] “시도할 용기 없다면 삶이 무슨 의미 있나” 가난한 화가 빈센트 반 고흐의 편지</title>
       <link>https://www.chosun.com/national/nie/2025/11/10/EIIE3V32EBHBFCYUOJRJNIGFHQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/10/EIIE3V32EBHBFCYUOJRJNIGFHQ/</guid>
@@ -658,52 +708,6 @@
       <description/>
       <pubDate>Sun, 09 Nov 2025 15:39:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IQTRYXFBAZELFGYKFD2CSOOU24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;빈센트 반 고흐 지음 l 신성림 옮김 l 출판사 위즈덤하우스 l 가격 2만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;빈센트 반 고흐(1853~1890)는 우리나라에서 가장 인기 있는 화가로 꼽힙니다. 미술을 잘 몰라도 그의 이름이나 작품 ‘해바라기’ ‘별이 빛나는 밤’ 등을 적어도 한 번쯤 접해봤을 거예요. 반 고흐는 2000점 넘는 그림을 그렸지만 생전에는 단 한 점만 판매한 것으로 알려졌습니다. 가난과 정신 질환에 시달리기도 했어요. 반 고흐는 19세기에 활동했지만, 그의 인기는 세상을 떠난 뒤인 20세기에 들어서야 시작됐답니다. 1987년 한 경매에선 ‘해바라기’가 당시 약 300억원에 팔리기도 했어요.&lt;br&gt;&lt;br&gt;그런 반 고흐가 생전에 주고받은 편지 가운데 900여 통이 현재 남아 있습니다. 그중 미술상이었던 네 살 어린 동생 테오 반 고흐에게 보낸 편지가 650통이 넘어요. 반 고흐는 동생에게 자신의 고민을 솔직히 털어놓고 자연과 인간, 예술에 관한 생각을 밝혔어요. 오늘 소개할 책은 반 고흐가 남긴 편지들을 엮어 만든 것입니다.&lt;br&gt;&lt;br&gt;사람들은 아무도 알아주지 않는 가난한 화가인 자신을 어떻게 바라볼까? 반 고흐는 이런 질문을 스스로에게 던지고 답합니다. “보잘것없는 사람. 사회적 지위도 없고 앞으로도 어떤 사회적 지위를 갖지도 못할, 한마디로 최하 중의 최하급 사람.” 하지만 곧 굳게 결심합니다. “좋다! 설령 그 말이 옳다 해도 언젠가는 내 작품을 통해 그런 보잘것없는 사람의 마음속에 무엇이 들어 있는지 보여줄 것이다.”&lt;br&gt;&lt;br&gt;미술뿐 아니라 음악이나 문학 등 예술 분야에는 반 고흐처럼 당장은 앞날이 잘 보이지 않는 사람이 많습니다. 영상을 만들어 온라인에 선보이는 창작자, 새로운 기술로 회사를 세운 스타트업 창업자도 마찬가지입니다. 성공을 꿈꾸며 애쓰는 이들에게, 반 고흐는 자신이 선택한 길을 끝까지 믿고 나아가라고 위로와 격려를 전합니다.&lt;br&gt;&lt;br&gt;“우리에게 뭔가 시도할 용기가 없다면 삶이 도대체 무슨 의미가 있겠니? 실패를 거듭한다 해도, 퇴보하는 것처럼 느껴질 때가 있다 해도, 일이 애초에 의도한 것과는 다르게 돌아간다 해도, 다시 기운을 내고 용기를 내야 한다.” 반 고흐가 동생에게 쓴 편지 대부분은 반 고흐 자기 자신에게 쓴 편지나 마찬가지인 것 같습니다. &lt;br&gt;&lt;br&gt;반 고흐가 절망할 땐 동생 테오가 편지를 보내왔습니다. “뭔가 훌륭한 것을 창조하는 것이 형의 강렬한 소망 아니었어? 이미 그런 그림들을 그려낼 수 있었던 형이 도대체 왜 절망하는 거야? 이제 곧 더 훌륭한 작품을 만들 때가 다시 올 텐데 말이야. 우리 희망을 갖기로 해. 형의 불행은 분명 끝날 거야.”&lt;br&gt;&lt;br&gt;화가의 그림을 통해 우리는 화가의 삶을 봅니다. 반 고흐는 자신의 그림을 본 사람들이 그가 그리면서 겪은 고뇌를 알아주길 바랐습니다. 이제 그는 우리 모두에게 편지를 써서 묻는 듯합니다. “여러분은 어떤 기대를 갖고 살며, 공부하고 일합니까?”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [식물 이야기] ‘토토로’가 살던 그 나무… 우리나라에선 제주도에 있어요</title>
-      <link>https://www.chosun.com/national/nie/2025/11/10/EWKXKWFAR5BUTIIXX6VBK7DBE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/10/EWKXKWFAR5BUTIIXX6VBK7DBE4/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWALRNBYRVFJJD4PK6KVP6DCX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 만화영화 ‘이웃집 토토로’는 세계적 애니메이션 ‘거장’ 미야자키 하야오 감독이 지난 1988년 선보인 뒤 40년 가까이 애니메이션 팬들의 사랑을 받는 작품입니다. 우리나라에서도 인기를 끌었지요. 이 애니메이션을 보면, 일본 시골 마을로 이사 온 주인공 메이가 숲의 요정인 토토로를 처음 만나는 곳이 집 근처 거대한 나무가 있는 숲이에요. &lt;br&gt;&lt;br&gt;혹시 이 장면을 보면서 이 거대한 나무가 어떤 나무인지 궁금하지 않았나요? 바로 상록활엽수인 녹나무랍니다. 이 나무는 우리나라 제주도와 남해안 일부 섬에서도 자라요. 특히 제주도 내 제주시와 서귀포시에선 가로수 일부가 녹나무로 심어져 있고 공원이나 관광지에도 꽤 많이 볼 수 있죠. &lt;br&gt;&lt;br&gt;이처럼 녹나무는 제주도 등 남부 지방에 가면 자주 볼 수 있는 나무에 속합니다. 다만 서울처럼 수도권에 사는 사람들은 평소 자주 볼 수 없는 나무여서 구분이 어렵대요. 생달나무, 참식나무, 후박나무 등과 언뜻 보면 비슷비슷하게 생겨서 구분하는 것이 쉽지 않죠.&lt;br&gt;&lt;br&gt;그런데 녹나무는 뚜렷한 구분 포인트가 있대요. 제주도 가로수 중에서 회갈색 나무껍질이 세로로 갈라지는 나무가 있으면 녹나무라고 봐도 무방하답니다. 또 녹나무는 잎에 뚜렷한 3주맥(한 개의 주맥과 두 개의 측맥)을 갖고 있고, 잎 아래 주맥(굵은 잎맥)과 측맥(양쪽으로 뻗은 잔잎맥)이 만나는 곳에 샘점이 있는 것으로 구분할 수 있습니다. 비슷한 나무 중 녹나무를 구분하는 가장 확실한 방법이 이 샘점이 있는지 보는 겁니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WWK5GOJPBDF5J4ACT4SOAT5AM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;녹나무라는 이름은 어린나무의 줄기가 녹색을 띠는 데서 유래했어요. 그러니까 나무껍질이 세로로 갈라지고, 어린 가지가 녹색이고, 잎이 뚜렷한 3주맥에 샘점이 있으면 녹나무라고 할 수 있겠습니다. 녹나무는 4~6월 연한 녹색 꽃이 피어서 가을에 지름 1㎝ 정도인 둥글고 까만 열매가 달립니다. 나무 전체에서 독특한 향기가 나는데, 사람의 마음을 진정시키는 효과가 있다고 합니다.&lt;br&gt;&lt;br&gt;녹나무 가지나 잎, 뿌리에서 추출한 기름을 ‘장뇌(camphor)’라고 하는데, 이것이 살충제, 방부제, 인조 향료의 원료, 비누 향료, 구충제 등으로 널리 쓰인다고 합니다. 그래서 녹나무 영어 이름이 ‘Camphor tree’입니다.&lt;br&gt;&lt;br&gt;우리나라에서도 베스트셀러에 오른 일본 히가시노 게이고의 추리소설 ‘녹나무의 파수꾼’은 나무 기둥 안에 빈 공간이 있는 거대한 녹나무에서 하는 ‘기념’의 비밀을 파헤치는 줄거리입니다. 일본 가고시마현 한 신사에는 수령 1500년의 녹나무 거목이 있는데, 나무 기둥 안에는 소설에 나오는 것처럼 넓이 약 13㎡의 빈 공간이 있다고 합니다. 이처럼 녹나무는 생장은 느리지만 천 년을 넘게 살며 수십 미터 높이의 거목으로 성장합니다. 그래서 일본에서는 빠르게 가지 않더라도 착실히 성장해 큰 성취를 이루는 경우를 비유하는 나무로도 쓴답니다. 우리나라에서도 녹나무가 더 알려져 녹나무를 배경으로 한 소설·영화 등이 많이 나왔으면 합니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [명화 돋보기] 모나리자·절규 같은 세계적 그림들… 도난 후 더 유명해졌죠</title>
-      <link>https://www.chosun.com/national/nie/2025/11/10/4MJC5VI6WBGH3DYLQWFYKLN3RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/10/4MJC5VI6WBGH3DYLQWFYKLN3RI/</guid>
-      <dc:creator>이주은 건국대 문화콘텐츠학과 교수, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:39:00 +0000</pubDate>
-      <content:encoded>최근 프랑스 파리 루브르 박물관에서 전시품 도난 사건이 벌어졌습니다. 박물관에 침입한 도둑들이 나폴레옹 1세가 황후에게 선물한 에메랄드·다이아몬드 목걸이 등 옛 왕실 보석 8점을 훔쳐 달아났죠. 도난당한 이 보석들의 가치가 약 8800만유로(약 1484억원) 수준이라고 해요. 문화유산 차원의 손실까지 합친다면, 금액으로 따지기 어려울 겁니다. 프랑스 정부도 ‘값을 매길 수 없는 문화유산적 가치’라고 표현했죠.&lt;br&gt;&lt;br&gt;루브르 박물관에서 발생한 도난 사건은 이번이 처음은 아닙니다. 이탈리아의 거장 레오나르도 다 빈치(1452~1519)의 ‘모나리자’도 루브르 박물관에서 도난당했다가 되찾은 적이 있어요. 오늘은 지난 100여 년 동안 전 세계에서 어떤 작품들이 사라졌고 이후 어떻게 됐는지 알아보겠습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6PAS2PR6I5BFFHBWERW3PHOUN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;❶1913년 이탈리아 우피치 미술관에서 미술관장 등이 '모나리자'를 바라보고 있는 모습. '모나리자'는 이후 원래 있던 곳인 프랑스 루브르 박물관으로 돌아갔습니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MX64LJQLWVF45JZ3ZPYZ3ZOGU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;❷도난당한 모나리자가 이탈리아에서 발견되자, 프랑스의 한 신문에 '모나리자의 귀환'이라는 제목의 기사가 실렸어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;도난 이후 더 널리 알려진 그림&lt;/b&gt;&lt;br&gt;&lt;br&gt;‘모나리자’는 세상에서 가장 유명한 그림일 겁니다. 그러나 1911년 루브르 박물관에서 모나리자가 도난당할 당시만 해도 모나리자는 지금처럼 유명하지 않았다고 해요. 이탈리아 청년인 모나리자 도둑은 루브르 박물관에서 잠시 일한 경험을 살려 혼자 그림을 훔칠 계획을 세웠어요. 도둑은 낮 동안 박물관 창고에 숨어 있다가 밤이 되자 작품을 외투 안에 숨긴 채 갖고 나왔습니다. ‘프랑스 나폴레옹의 군대가 이탈리아에서 가져간 그림이고, 이탈리아로 돌려놓아야 맞는다’는 생각이 범행의 동기가 됐다고 해요. 다만 모나리자는 다빈치가 프랑스 왕의 초청을 받아 프랑스에 머무는 동안 가지고 있다가 세상을 떠나면서 프랑스 왕실에 넘긴 것으로 알려져 있답니다.&lt;br&gt;&lt;br&gt;범인은 모나리자를 2년 동안 자신의 집에 보관하다가, 이탈리아 피렌체 우피치 미술관에 그림을 팔려다 붙잡혔습니다. &amp;lt;사진 1&amp;gt;은 1913년 우피치 미술관에 도착한 모나리자를 미술관장과 전문가들이 바라보는 모습이에요. &amp;lt;사진 2&amp;gt;는 모나리자를 되찾았다는 소식이 커다랗게 실린 당시 프랑스의 한 신문 지면입니다. 도난부터 회수에 이르기까지 모나리자는 큰 관심을 받았고, 모나리자를 보기 위해 루브르 박물관에 가는 사람들도 점점 늘어났지요. 원래 모나리자는 전시장 벽에 걸어 두기만 했는데, 점차 보호를 강화해 지금은 방탄 유리로 둘러싸인 공간에 전시돼 있답니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FD47WURPRNGNZETEUFCJKVMWMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;❸노르웨이 화가 에드바르 뭉크의 작품 '절규'. 뭉크는 절규를 여러 장 그렸는데, 오슬로 뭉크 미술관에 있는 이 작품은 2004년 복면 강도에게 도난당했다가 2년 뒤 되찾았지요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;사진 3&amp;gt;은 노르웨이 화가 에드바르 뭉크(1863~1944)의 ‘절규’입니다. 이 그림도 모르는 사람이 거의 없을 정도로 잘 알려져 있어요. 혼자서 길을 가다가 갑자기 멈춰 선 채 손으로 얼굴을 감싼 그림 속 사람은 현대인이 겪는 불안과 두려움을 보여줍니다. 뭉크는 십수 년에 걸쳐 ‘절규’를 각기 다른 버전으로 4개 그렸어요. 그중 달걀 노른자와 물을 섞은 템페라(Tempera)와 유화 물감으로 1910년에 그린 버전은 노르웨이 오슬로 뭉크 미술관에 있습니다. 그런데 2004년 복면 강도들이 대낮에 총을 들고 뭉크 미술관에 들어와 이 그림을 가져갔어요. 당시 미술관에 있던 사람들은 절규 그림 속 공포를 경험했죠. 도난 사건을 계기로 절규는 더욱 널리 알려졌습니다. 작품 속 불안의 의미가 실제 사건과 겹치면서 그림이 한층 생생해졌기 때문이에요. 그림은 2년 만에 되찾아 복원을 거쳤지만, 약간의 손상 흔적이 여전히 남아 있습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/36OXMFL4U5EFFF2U55QIF2PJWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;❹1767년 혜잠 스님이 그린 '신중도'. 경북 예천군 보문사에 보관되던 중 1989년 도난당했어요. 도난 사실을 모르고 그림을 입수한 미국 시카고대 스마트 미술관이 신중도를 가지고 있었고, 35년 만인 지난해 우리나라로 돌아왔답니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;되찾은 예술품이 알려주는 진품의 가치&lt;/b&gt;&lt;br&gt;&lt;br&gt;도난 이후 약 35년 만에 원래 자리로 돌아온 작품도 있습니다. &amp;lt;사진 4&amp;gt;는 경북 예천군 보문사에 보관돼 있다가 도난당한 불화(불교 그림) ‘신중도’예요. 1767년에 혜잠 스님이 그렸습니다. 1989년 6월 문화재를 집중적으로 노리던 도둑들이 보문사 문을 부수고 신중도 등 불화를 훔쳐 갔고, 우리나라를 샅샅이 뒤졌지만 찾지 못했습니다. 그러다 2023년 우리나라 정부가 미국에 있는 한국 문화유산을 조사하는 과정에서 시카고대 스마트 미술관이 신중도를 소장하고 있다는 사실을 알게 됐어요. 미술관 측은 도난 사실을 모르고 그림을 입수한 것이었고, 작년 말 조건 없이 돌려줬습니다. 올해 6월에는 예천 보문사에서 신중도가 제자리를 찾은 것을 기념하는 의식을 가졌어요. 불화는 사찰을 대표하는 역할을 하기 때문에, 신중도가 돌아온 건 보문사의 정체성을 되찾은 일이라고 평가됩니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2QHE66VWXRGBZCGSC537XTHLKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;❺프랑스 화가 클로드 모네의 '푸르빌의 해변'이에요. 이 작품을 매우 좋아하던 도둑이 폴란드 포즈난 국립 미술관에서 2000년에 훔쳐 10년 동안 개인적으로 보관했다고 합니다.
-/위키피디아·오슬로 뭉크 미술관·대한불교조계종·포즈난 국립 미술관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&amp;lt;사진 5&amp;gt;는 프랑스의 클로드 모네(1840~1926)가 프랑스 북서부 노르망디 해안을 방문하고 1882년에 그린 ‘푸르빌의 해변’입니다. 2000년 어느 날 폴란드 포즈난 국립미술관의 한 학예사는 전시실 벽에 걸린 이 푸르빌의 해변 그림이 뭔가 이상하다는 걸 알아차렸어요. 1882년쯤 모네가 그린 다른 작품들과 비교했을 때 미묘하게 붓질이 달랐던 것이지요. 조사 끝에 미술관은 충격에 빠졌습니다. 진품이 사라졌기 때문이에요. 도둑은 밤에 벽을 타고 몰래 미술관에 들어와 진품을 가짜로 바꿔치기했어요. 미술관 감시 카메라에는 범인이 푸르빌의 해변 그림 앞에서 한참을 머무는 모습이 찍혀 있기도 했어요. 범인은 그 그림을 몹시 좋아한 나머지 꼭 자기 곁에 두고 싶었나 봅니다. 진품의 아름다움이 범죄를 저질러서라도 소장하고 싶은 욕심을 들게 만든 것이지요. 약 10년 뒤 범인은 붙잡혔고, 푸르빌의 해변은 제자리로 돌아왔습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2740] 쿵작쿵작 장단 치기</title>
-      <link>https://www.chosun.com/national/nie/2025/11/10/JHTISM45YFC3LKHN7LRYVWOMYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/10/JHTISM45YFC3LKHN7LRYVWOMYM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFX6VK6BRBEE5IFKNDBPTV5USE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] wear many hats</title>
-      <link>https://www.chosun.com/national/nie/english/2025/11/10/Z7CQSY22B5D4LLUZNPSR3W53TI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/11/10/Z7CQSY22B5D4LLUZNPSR3W53TI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIP7LY5MUVAFXLNZU3UFW2KEYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 시설, 설비</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/11/10/F4IBRY23PBDNRD2CE4UNRZW2QI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/11/10/F4IBRY23PBDNRD2CE4UNRZW2QI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LGKLC5VTNADTKWYKDQPO5C7S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 숨 죽은 패딩 되살리려면</title>
