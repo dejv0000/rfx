@@ -13,6 +13,89 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>현직 부장검사 “지휘부가 쿠팡 불기소 지시” 감찰·수사 의뢰</title>
+      <link>https://www.chosun.com/national/court_law/2025/09/18/4V3SRDTQWNBA7LTGYBW3SX3T3A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/09/18/4V3SRDTQWNBA7LTGYBW3SX3T3A/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Sep 2025 11:13:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IERUAUKKRVH2JXNDEY65CD6N7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구의 한 주차장에 주차된 쿠팡 배달 차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡풀필먼트서비스의 일용직 노동자 퇴직금 미지급 의혹과 관련해 담당 부장검사가 당시 지휘부인 지청장과 차장검사를 상대로 “핵심 증거를 의도적으로 누락하고 불기소를 지시했다”며 대검찰청에 감찰과 수사 의뢰를 요청한 것으로 18일 전해졌다.&lt;br&gt;&lt;br&gt;국회 환경노동위원회 소속 김주영 더불어민주당 의원실에 따르면, 인천지검 부천지청에서 근무하던 A 부장검사는 지난 5월 대검에 엄희준 전 부천지청장과 김동희 차장검사에 대한 감찰 및 수사를 의뢰했다. A 부장검사는 진정서에서 “엄 전 지청장과 김 차장검사가 쿠팡 사건 관련 주요 쟁점과 증거를 누락해 대검용 보고서를 작성했고, 이를 토대로 검찰총장 승인을 받아 ‘혐의 없음’ 처분을 내렸다”고 주장했다.&lt;br&gt;&lt;br&gt;A 부장검사는 작년 6월부터 쿠팡풀필먼트서비스가 취업규칙을 변경해 부당하게 일용직 노동자들의 퇴직금을 체불했다는 의혹을 수사 지휘해왔다. 작년 9월 고용노동청 부천지청은 A 부장검사의 승인 아래 쿠팡풀필먼트서비스 사무실과 대표 집무실 등을 압수 수색해 관련 증거를 확보했고, 지난 1월 ‘기소 의견’으로 사건을 검찰에 송치했다. 그러나 부천지청은 지난 4월 불기소 처분을 내렸는데, 이 과정에서 지청장과 차장검사의 강압적 지시와 은폐 시도가 있었다는 게 A 부장검사 주장이다.&lt;br&gt;&lt;br&gt;A 부장검사는 진정서에서 “엄 전 지청장은 지난 2월 주임검사를 따로 불러 쿠팡 사건을 ‘혐의 없음’ 의견으로 정리하라는 취지로 지시했고, 대검 보고용 보고서에도 ‘고용노동청의 압수 수색 결과를 일체 포함하지 말라’는 취지로 지시했다”며 “이후 보고서를 보고 핵심 쟁점이 누락됐다는 의견을 제시했지만 김 차장검사가 이를 묵살했다”고 주장했다. 그러면서 “엄 전 지청장과 김 차장검사가 대검에 ‘혐의 없음’ 취지의 보고서를 승인받기 위해 공모해 직권남용과 허위 공문서 작성 등 범행을 저질렀다”고 했다.&lt;br&gt;&lt;br&gt;A 부장검사는 이 밖에 엄 전 지청장이 상습적으로 폭언과 협박을 했다고도 주장했다. 자신이 대검 측에 쿠팡풀필먼트서비스 사건과 관련해 누락된 내용이 있다고 전달하자, 이를 알게 된 엄 전 지청장이 “청장 승인 없이 대검에 의견을 전달한 게 맞느냐”며 폭언과 함께 감찰을 하겠다고 말했다는 것이다. 실제로 A 부장검사는 지난 5월 대검 감찰과에 소환돼 조사를 받았다고 한다.&lt;br&gt;&lt;br&gt;이에 대해 엄 전 지청장과 김 차장검사는 관련 의혹을 모두 부인하는 것으로 전해졌다. 세 사람은 지난 8월 검찰 인사에서 모두 부천지청을 떠나 지방으로 발령 난 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>불법 시술하고 라이터로 체모 태운 요양원장·요양보호사…징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/11/Q6UVCTNLSVGV3DIVJWSVUVM65I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/11/Q6UVCTNLSVGV3DIVJWSVUVM65I/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 05:01:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4KDX2Z4LFCVZOJB4XMML4RV3Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;요양원에 입원한 노인에게 불법 시술을 하고, 라이터로 체모를 태우는 등 학대한 요양원 관계자들에게 징역형의 집행유예, 벌금형 등이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사5단독 홍준서 판사는 마약류 관리에 관한 법률 위반, 의료법 위반 등 혐의로 기소된 요양원 원장 A(58)씨에 대해 징역 1년에 집행유예 2년을 선고했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;홍 판사는 또 A씨에게 160시간의 사회봉사를 명령했다. &lt;br&gt;&lt;br&gt;홍 판사는 A씨와 함께 노인복지법 위반 혐의로 기소된 요양보호사 B(63)씨에겐 징역 1년에 집행유예 2년을, 증거인멸 혐의로 기소된 시설장 C(39)씨에겐 벌금 500만원을 각각 선고했다. &lt;br&gt;&lt;br&gt;요양원 원장이자 간호사인 A씨는 2023년 8월부터 2024년 3월까지 인천 남동구의 요양원에서 의사가 시술하거나 지도·감독해야 하는 비위관 삽입술 등을 4차례에 걸쳐 직접 진행한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 2024년 3월 향정신성의약품을 다른 약과 함께 복용하도록 하기도 했다. &lt;br&gt;&lt;br&gt;요양보호사 B씨는 2024년 5월 이 요양원에서 자신이 돌보는 70대 환자 2명의 체모를 주방용 라이터로 태우거나 등을 때리는 등 13차례 학대한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;시설장인 C씨는 해당 내용을 제보받은 남동구청과 노인보호전문기관 관계자들이 조사를 위해 요양원을 찾자, 몰래 CCTV 영상 저장 기간을 60일에서 30일로 바꿔 학대 당시 영상이 지워지도록 한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;홍 판사는 A씨에 대해 “초범인 점, 피해자들의 보호자와 모두 합의된 것으로 보이는 점 등을 고려했다”고 양형 이유를 설명했다. B씨와 C씨에 대해선 “B씨의 경우 도로교통법 위반죄로 벌금 2만원 처벌을 받은 것 외에 다른 전과가 없다”며 “C씨는 초범인 점 등을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이젠 LPGA서 뛸 황유민, 국내 최종전 우승 피날레</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/09/VTOVEV7V2VHERI4KR6WJZKNOYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/09/VTOVEV7V2VHERI4KR6WJZKNOYE/</guid>
+      <dc:creator>파주=이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 08:52:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HJGYX22DFZDY7CDP4IZELAVN2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황유민이 9일 대보하우스디 챔피언십 우승컵에 입을 맞추고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVJELFLLJZGYHME3AIAJU4KO6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대보하우스디 챔피언십 우승컵을 들고 웃는 황유민. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황유민(22)이 미국 진출을 앞두고 치른 마지막 KLPGA(한국 여자 프로골프) 투어 대회에서 극적으로 우승을 차지했다. &lt;br&gt;&lt;br&gt;황유민은 9일 경기도 파주시 서원힐스CC(파72)에서 끝난 KLPGA 투어 대보하우스디 챔피언십에서 연장전을 네 번 치른 끝에 이동은을 꺾고 우승했다. 이들과 함께 연장전을 시작해 3차 연장에서 탈락한 임희정이 이동은과 함께 공동 2위를 기록했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T2GMZYG5PRC6HCLRKAQEIBHJMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대보하우스디 챔피언십 우승을 확정짓고 기뻐하는 황유민./ KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황유민과 이동은, 임희정은 11언더파로 동률을 이뤄 연장으로 향했다. 18번홀에서 치러진 연장 1, 2차전에서 선수들은 좀처럼 공을 가까이 붙이지 못했다. 급격히 떨어진 기온 때문에 컨디션에 문제를 겪는 듯했다. &lt;br&gt;&lt;br&gt;연장 세 번째 경기부터는 홀컵 위치가 10m가량 앞으로 당겨졌고, 티샷도 더 앞에서 치게 됐다. &lt;br&gt;&lt;br&gt;황유민은 연장 네 번째 홀에서 3번 우드로 티샷해 페어웨이를 잘 지켰고, 웨지로 6.4m 거리에 붙인 뒤 버디 퍼트에 성공했다. 이동은도 티샷까진 문제가 없었으나 세컨드샷이 크게 짧아 황유민의 퍼트를 먼저 지켜봤고 아쉬움을 삼켜야 했다. 앞서 3차 연장에서 우승을 가져올 수 있는 1.2m 버디 퍼트를 놓친 장면도 뼈아팠다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BPOHZS4E7JIXHFQC4XCEKQ2XXE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;9일 황유민이 대보하우스디 챔피언십 우승 후 동료들의 '생수 축하'를 받고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대회는 황유민의 마지막 대회이면서 올 시즌 KLPGA 투어 정규 시즌 마지막 대회이기도 했다. 황유민은 지난 10월 스폰서 초청으로 참가한 LPGA(미국 여자 프로골프) 투어 롯데 챔피언십에서 우승하면서 2027년까지 LPGA 투어 출전권을 확보했고, 내년 진출을 선언했다. &lt;br&gt;&lt;br&gt;황유민은 “한국 투어 우승을 안고 미국에 가고 싶다”고 밝혀왔는데, 극적으로 소망을 이뤄냈다. 그는 “마지막 기회를 우승으로 마무리해 너무나 행복하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/473OL62HLJC3RFEOSFERDPG45A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 대보하우스디 챔피언십에서 우승한 황유민이 팬들과 하이파이브 인사를 하는 모습. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 또 “팬분들이 현장에 많이 오셨다. 연장이 길어져 힘들다는 생각이 들 때도 있었는데, 파이팅을 열심히 외쳐주셔서 ‘계속 해보자’고 마음을 다잡았다. 진심으로 감사드린다”고 말했다. &lt;br&gt;&lt;br&gt;시즌 최종전 결과, 지난 대회서 이미 대상을 확정한 유현조는 최저타수상까지 2관왕에 올랐다. 신인왕은 서교림이 거머쥐었다. 다승왕은 각각 3승을 한 방신실, 이예원, 홍정민이 공동으로 차지했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OUA7XXXFUVD5TNXDREZCJQEDZY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황유민(오른쪽)이 9일 대보하우스디 챔피언십 우승 트로피를 들자 최등규 대보그룹 회장이 축하의 박수를 보내고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6QHO64ZMYFJAJFRTMNLAH2SQ3I.jpg?auth=b92aa91e06437fa25c38493d7815fad000a992899d22f813ef5cfd53ae65acab&amp;smart=true&amp;width=4297&amp;height=2920" type="image/jpeg" height="2920" width="4297">
+        <media:description type="plain">&lt;YONHAP PHOTO-3694&gt; 대보 하우스디 챔피언십 우승컵 든 황유민
+    (서울=연합뉴스) 황유민이 9일 경기도 파주 서원힐스 컨트리클럽(파72·6천556야드)에서 열린 KLPGA 투어 대보 하우스디 챔피언십(총상금 10억원) 대회 시상식에서 우승컵을 들어올리고 있다. 2025.11.9 [KLPGA 제공. 재판매 및 DB 금지]
+    photo@yna.co.kr/2025-11-09 18:57:43/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>美 진출 황유민, 국내 최종전 우승 “세계 1위, 올림픽 金 목표”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/09/JTDD6QP25VB53FFMWJIXFKI3E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/09/JTDD6QP25VB53FFMWJIXFKI3E4/</guid>
+      <dc:creator>파주=이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 09 Nov 2025 09:57:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6QHO64ZMYFJAJFRTMNLAH2SQ3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황유민이 9일 대보하우스디 챔피언십 우승 트로피에 입을 맞추는 모습. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5S7OQBXFFBBZFOBOKDILGKTFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대보하우스디/ KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 시즌 KLPGA 투어 최종전에서 우승한 황유민(22)이 기자회견에서 롯데 신동빈 회장을 소환했다. “회장님 응원에 힘을 받아 우승할 수 있었다”면서 “진심으로 감사드린다”고 했다. 황유민은 롯데 후원을 받고 프로 활동을 하고 있다.&lt;br&gt;&lt;br&gt;황유민은 9일 서원힐스CC에서 열린 대보하우스디 챔피언십에서 4차 연장 끝에 이동은을 꺾고 우승했다. 통산 세 번째 우승이자 시즌 첫 우승이다. 한국에서의 마지막 대회서 극적으로 정상에 올랐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZGMZBZGYYTSZTFG42TMMJRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황유민이 9일 열린 KLPGA 대보하우스디 챔피언십 우승 기자회견에서 손가락으로 V자를 만들며 웃고 있다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황유민은 지난달 LPGA 투어 롯데 챔피언십에서 우승해 LPGA 투어 2년 시드를 확보했고, 내년 곧바로 미국에 진출한다. &lt;br&gt;&lt;br&gt;황유민은 이와 관련해 에피소드 하나를 소개했다. “LPGA 투어 롯데 챔피언십에서 우승한 뒤 신동빈 회장께서 나를 집무실로 불러서 직접 우승 축하를 해주셨다”고 말했다. &lt;br&gt;&lt;br&gt;그는 “회장님이 ‘앞으로도 좋은 성적 내길 응원한다’고 말씀해주셔서 나도 ‘좋은 모습 보여드리고 우승으로 보답하겠다. 열심히 하겠다’고 답했다”며 “그 응원의 힘을 받아 우승할 수 있었다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KIF6YQ6PUBFRXEYJODV6R7C3Z4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;9일 서원힐스CC 18번홀에서 치러진 연장 4차전에서 6.4m 버디 퍼트에 성공한 황유민이 두 팔을 번쩍 들었다. /KLPGA&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황유민은 미국에선 ‘돌격대장’이란 별명에 연연하지 않겠다는 각오도 밝혔다. 그는 “미국에서 메이저 대회에 출전해보니 무조건 공격적인 건 공격적인 게 아니라 무모하다는 걸 알았다”며 “상황에 맞게 돌아갈 땐 돌아가는 식으로 코스 매니지먼트를 잘하겠다”고 말했다. &lt;br&gt;&lt;br&gt;최근 영어 공부에 매진하고 있다는 그는 “LPGA 투어에서도 포기하지 않고 끝까지 열심히 하겠다”며 “세계 1위라는 목표를 갖고 많이 우승하겠다. 올림픽에서 한국 대표로 나가 금메달을 따는 꿈도 이룰 수 있도록 계속 도전할 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5ICTCEF33RCIHAZGW2RKMZQE3Q.jpg?auth=4769ccd0c8894efda85933949e320e0bc71bfe617d0a382b0fcda368b2b97042&amp;smart=true&amp;width=2935&amp;height=2201" type="image/jpeg" height="2201" width="2935">
+        <media:description type="plain">대보하우스디/ KLPGA</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘대통령실에 폭발물 설치’ 협박 글… 경찰, 작성자 추적</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/EUKSTEK72FDXNEC7IPUA2WK7RE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/EUKSTEK72FDXNEC7IPUA2WK7RE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 04:48:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R5TTBNYSBYKFRPKTBBDQDSYKPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용산 대통령실 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령을 살해하고 대통령실에 폭발물을 설치했다는 협박 글이 경찰청 113신고센터 게시판에 올라와 경찰이 수사에 착수했다.&lt;br&gt;&lt;br&gt;11일 경찰에 따르면, 전날 낮 12시 10분쯤 경찰청 113신고센터 게시판에 “대통령 살해합니다. 대통령실에 폭발물 설치했습니다”라는 내용의 글이 게시됐다.&lt;br&gt;&lt;br&gt;113신고센터는 간첩, 기술 유출, 테러·방첩 관련 위협 등 국가 안보 관련 신고를 접수하는 온라인 신고 창구다.&lt;br&gt;&lt;br&gt;신고를 접수한 경찰은 해당 게시글을 관할에 이첩했고, 부산중부경찰서는 작성자의 IP(인터넷 프로토콜) 등 접속 기록을 확보해 협박 경위와 신원 파악에 나섰다. 대통령실이 위치한 서울 용산경찰서는 관저와 주변 일대를 대상으로 순찰을 강화했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “대통령실 경비는 평소에도 최고 수준으로 유지되고 있으며, 이번 협박 글과 관련해 주변 순찰을 강화하는 등 안전 조치를 병행하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>’탄핵 반대’ 글만 23만건… ‘매크로‘ 일당 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/V52TFVYZDJAR7N6GYLMLKVBOCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/V52TFVYZDJAR7N6GYLMLKVBOCQ/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 04:52:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A2RUZHA2BWLKCSGEHIBKSRE4CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매크로(자동 반복 프로그램)를 이용해 헌법재판소 홈페이지에 대량의 게시글을 올려 서버에 장애를 일으킨 일당이 경찰에 무더기로 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 헌법재판소 게시판에 매크로를 악용해 탄핵 반대 게시글을 23만건 게시한 매크로 유포자 A씨 등 총 58명을 입건해 불구속 송치했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3월 온라인 커뮤니티 ‘디씨인사이드’에 ‘헌법재판소 자유게시판 탄핵 반대 딸깍으로 끝내기’라는 글과 함께 매크로 링크를 게시했다. 동시에 그는 매크로를 통해 게시판에 직접 4만4000여건의 글을 올렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3ZV6GKZU3BELJMWM3XKERUDCAA.png"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 10일 헌법재판소 게시판에 올라온 탄핵 반대 글./독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 링크를 따라 들어간 57명도 약 19만건의 글을 반복 게시했다. 이로 인해 헌법재판소 홈페이지 접속이 한때 중단됐다. &lt;br&gt;&lt;br&gt;경찰은 이들에게 정보통신망법 위반 혐의를 적용하고 58명 전원을 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;최근 스포츠 경기 입장권을 매크로 프로그램으로 대량 예매한 뒤 웃돈을 얹어 암표로 되파는 수법도 기승을 부리고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이번 사건 역시 매크로를 악용해 사회적 기능을 왜곡한 사례”라며 “엄정하게 대응할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한국 운전면허, 美 캔자스에서도 통한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/TBSUQIJJ5FGKRA5KS2AFFVELUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/TBSUQIJJ5FGKRA5KS2AFFVELUI/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 04:05:46 +0000</pubDate>
+      <content:encoded>앞으로 한국에서 운전면허를 발급받은 우리 국민은 미 캔자스주에서도 별도 시험 없이 운전면허를 발급받을 수 있다. 경찰청은 10일 오전 11시(현지 시각) 캔자스주와 이 같은 내용의 상호 약정을 체결했다고 11일 밝혔다. 이로써 우리나라 운전면허를 인정해주는 미국 주는 총 29곳으로 늘어났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYDGNZZMNSTEOBSGFSGGODCGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 강남운전면허시험장에서 한 응시생이 운전면허 기능시험을 보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이달 18일부터 한국 운전면허증을 소지한 현지 거주자는 별도 시험 없이 캔자스주의 ‘클래스 C 스탠더드’ 운전면허를 발급받을 수 있다. 이 면허는 우리나라의 2종 보통 면허와 유사하다. 이 면허를 소지한 외국인 역시 한국에서 필기·기능 시험 없이 적성검사만 받고 2종 보통 면허를 발급받을 수 있다. &lt;br&gt;&lt;br&gt;유재성 경찰청장 직무대행은 “이번 약정 체결이 미국 캔자스주에 진출한 우리 기업 관계자들의 편익 증대 및 양국 간 우호 증진에 이바지할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제주 땅 값 올리려고’… 토지 나누고 나무 1200그루 ‘싹둑’, 부동산개발업자 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/11/11/3T7U5GGZQBC5JABGC2L6DBIFFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/11/3T7U5GGZQBC5JABGC2L6DBIFFY/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 04:11:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V442F52H6FBGLANJZNGNHFFQ3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 개발이 이뤄진 제주시 토지./제주도자치경찰단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 지정문화유산 인근 나무 1200그루를 무단 벌채하는 등 각종 불법을 저지른 공인중개사가 구속됐다. 이 업자는 땅값을 올리기 위해 이 같은 범행을 저질렀고 벌채를 수월하게 하기 위해 임업후계자로 등록하기도 했다.&lt;br&gt;&lt;br&gt;제주도 자치경찰단은 제주 지정문화유산인 A연대 인근 산림 6000㎡를 훼손하고, 역사문화환경보존지역 내 토지 1만여㎡의 형질을 불법 변경한 부동산개발업자 B(60대)씨를 구속했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;수사 내용에 따르면 B씨는 2023년 제주시 구좌읍 소재 임야 1필지와 농지 3필지 등 총 4필지(1만3953㎡)를 10억2500만원에 매입했다. 이후 개발이 제한된 문화유산보호구역과 공익용 산지, 보전산지 구역에서 제외되도록 임야를 분할했다.&lt;br&gt;&lt;br&gt;또 토지 가치를 높이기 위해 팽나무와 소나무 등 자생 수목 1200그루를 무단 벌채하고, 굴삭기 등 중장비를 동원해 농지와 임야 1만여㎡의 형질을 변경했다.&lt;br&gt;&lt;br&gt;B씨는 벌채를 원활히 진행하기 위해 임업 후계자로 등록하고, 지인에게 농사를 짓게 하는 방법으로 농업 경영체 등록까지 마쳤다. 약초를 재배할 것처럼 토지에 종자를 뿌렸지만 실제 재배는 이뤄지지 않았다.&lt;br&gt;&lt;br&gt;B씨는 또 자신 소유의 임야를 자신이 대표로 있는 법인에 매도하고, 그중 일부 평수(20여 ㎡)를 배우자에게 ㎡당 330만원이라는 고가에 판매해 거래 기록을 인위적으로 부풀린 정황도 확인됐다.&lt;br&gt;&lt;br&gt;실제 B씨는 2년 전 10억2500만원에 매입한 토지(1만3953㎡) 중 약 60%에 해당하는 8264㎡를 50억원에 판매하려 한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;수사 과정에서 B씨는 굴삭기 기사에게 허위 진술을 하도록 강요하고, 수사기관에 허위 자료를 제출하는 등 수사에 혼선을 주려 한 사실도 드러났다.&lt;br&gt;&lt;br&gt;자치경찰은 B씨가 훼손한 산림 면적이 5000㎡를 초과함에 따라 B씨를 특정범죄 가중처벌 등에 관한 법률 위반(산림) 혐의를 적용했다. 문화유산법, 산지관리법, 제주특별법 위반 혐의도 적용됐다.&lt;br&gt;&lt;br&gt;형청도 제주도 자치경찰단 수사과장은 “훼손된 산림은 원상 회복이 불가능하거나 복구에 상당한 시일이 걸린다”며 “산림 훼손 및 환경 훼손 사범에 대해서는 구속 수사를 원칙으로 엄중 대응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;한편 특정범죄 가중처벌 등에 관한 법률에 따르면 산림 훼손 면적이 5000㎡ 이상인 경우 2년 이상 20년 이하의 징역에 처해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 내란 특검, 박성재 전 법무장관 구속영장 재청구</title>
       <link>https://www.chosun.com/national/court_law/2025/11/11/CHV5U7AM2FHMBFI2AZMQI3EKQU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/11/CHV5U7AM2FHMBFI2AZMQI3EKQU/</guid>
@@ -874,61 +957,6 @@
       </media:content>
     </item>
     <item>
-      <title>인도 벵골만 공해서 항해 중 화물선 한국인 선장 실종 </title>
-      <link>https://www.chosun.com/national/regional/2025/11/10/5HCPKZHK6JBQ7BCJ6JLLJJLTM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/10/5HCPKZHK6JBQ7BCJ6JLLJJLTM4/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 07:08:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TAMZXGY4DCOJYGEYGKZRUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산해양경찰서 전경./부산해양경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인도 벵골만 공해를 항해하던 선박에서 한국인 선장 1명이 실종돼 해경이 수사에 나섰다.&lt;br&gt;&lt;br&gt;10일 부산해양경찰서에 따르면, 지난 6일 인도 벵골만 해상에서 파나마 국적 2만333t급 석유화학 제품 운반선에 탑승해 있던 40대 선장이 실종됐다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;해당 선박에는 한국인 선원 4명, 필리핀 국적 선원 20명 등 24명이 타고 있었다. 선원을 관리하는 회사는 부산 동구에 있으며, 선사는 일본 기업이다.&lt;br&gt;&lt;br&gt;이 선박은 지난달 31일 인도에서 출항해 아랍에미리트로 향하던 중이었다.&lt;br&gt;&lt;br&gt;선사는 모든 선원이 선내를 수색했으나 선장을 발견하지 못해 해경에 신고한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 선장이 실종된 것으로 추정되는 해역이 공해인 만큼 해당 선박을 부산으로 불러 본격적인 수사를 진행할 계획이다.&lt;br&gt;&lt;br&gt;공해는 특정 국가의 주권이 미치지 않는 해역으로, 모든 나라가 항해·조업·과학조사 등을 자유롭게 할 수 있다.&lt;br&gt;&lt;br&gt;해경은 선내 CCTV를 확보한 뒤 선원들을 상대로 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>벌레 잡으려다... 남양주 주택서 부탄가스 토치로 폭발 사고 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/10/6F3Q6SXWDBH27LP3A7F7DYRZ7Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/6F3Q6SXWDBH27LP3A7F7DYRZ7Y/</guid>
-      <dc:creator>남양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 05:36:13 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3BFUXTX6E5AAFGGMIDBWGMZM4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 현장 모습./경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주의 한 주택에서 벌레를 잡으려 부탄가스 토치를 사용하다가 폭발 사고가 발생했다.&lt;br&gt;&lt;br&gt;10일 경기도북부소방재난본부에 따르면 이날 오후 12시 19분쯤 남양주시 화도읍 묵현리의 한 주택에서 폭발 사고가 났다.&lt;br&gt;&lt;br&gt;“폭발음 소리가 들렸다”는 옆집 신고를 받고 출동한 소방당국은 장비 8대와 인력 21명을 동원해 현장 조치를 했다. &lt;br&gt;&lt;br&gt;이 사고는 해당 주택 거주자인 A(66)씨가 집 안 보일러실에 곰팡이 방지제를 도포한 상태로 벌레를 잡기 위해 토치를 켜면서 발생했다.&lt;br&gt;&lt;br&gt;폭발 후 화재가 번지지는 않은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 폭발로 인해 몸통과 팔, 어깨 등에 화상을 입고 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“엄마가 몰랐으면 좋겠어요”… 미성년 범죄 피해자 요청 반영된다</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/10/4YOLJJWMJZGMDC55ESJB34PVWU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/4YOLJJWMJZGMDC55ESJB34PVWU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 06:32:48 +0000</pubDate>
-      <content:encoded>경찰이 13세 이상의 미성년자가 범죄 피해를 입어도 사건 정보를 반드시 부모에게 알리지 않도록 관련 규정을 개정하기로 했다. 부모에게 범죄 피해를 당했다는 사실을 알리고 싶지 않아 미성년자가 사건 신고를 거부하는 부작용을 해소하기 위해서다. 경찰청은 이런 내용을 담은 범죄수사규칙 개정안을 지난달 31일부터 적용했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KXFAOMPGOZFIHGAO5RN7Q2JVFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현행 범죄수사규칙에 따르면 경찰은 미성년 피해자의 수사 진행 상황을 부모 등 법정대리인에게 통지해야 한다. 기존에는 사건 가해자나 피의자가 법정대리인 본인일 경우를 제외하고는 이 규정을 반드시 준수해야 했다. &lt;br&gt;&lt;br&gt;하지만 이 때문에 성범죄 등 피해를 당한 미성년자가 부모에게 이 사실이 알려질 것을 두려워해 신고를 거부하는 경우가 적지 않았다. 이 때문에 미성년자 본인이 거부할 경우 부모에게 사건 진행 상황을 반드시 알리지 않아도 되도록 규정을 바꾼 것이다. &lt;br&gt;&lt;br&gt;경찰은 피해 진술 거부 등 수사에 지장을 줄 우려가 있을 경우에도 수사 진행 상황을 법정 대리인에게 통지하지 않아도 되도록 현행 규정에 예외 사유를 추가했다. 이외 사건 관련자의 명예나 권리를 부당하게 침해하는 경우, 보복 범죄나 2차 피해가 우려되는 경우에도 수사 진행 상황을 부모 등에게 알리지 않을 수 있다. &lt;br&gt;&lt;br&gt;이렇게 사건 수사 진행 상황을 알리지 않을 경우, 경찰은 부모를 대신해 피해자를 도울 수 있는 지원 기관이나 변호사에게 사건 상황을 대신 알리게 된다. 성폭력이나 아동 학대 사건의 피해자는 관련 법에 따라 지원 기관이나 변호사와 연결돼 도움을 받을 수 있다. &lt;br&gt;&lt;br&gt;경찰은 수사 진행 상황을 법정 대리인에게 통지했는지 여부를 추후 사건 기록에 포함시켜, 검찰·법원에서도 이를 알 수 있도록 하겠다는 계획이다. 경찰 관계자는 “범죄 피해 미성년자들의 의사를 존중하기 위한 조치”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산화력 매몰자 수색, 드론 투입 재개… 보일러 타워 4·6호기 해체 사전작업 속도 </title>
-      <link>https://www.chosun.com/national/regional/2025/11/09/V2WXRYKRXFD45BODHAR4AOLXCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/09/V2WXRYKRXFD45BODHAR4AOLXCM/</guid>
-      <dc:creator>울산=김미희 기자 , 울산=김주영 기자, 울산=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 02:03:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIYDMMZSMY3WGYLBGRQWMY3GGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 새벽 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전날 위험 징후 감지로 밤사이 수색·구조 작업이 중단된 울산화력발전소 보일러 타워 붕괴 현장에서 9일 오전 실종 매몰자 수색이 재개됐다.&lt;br&gt;&lt;br&gt;다만 무너진 보일러 타워 5호기의 2차 붕괴 가능성과 양옆에 서 있는 4·6호기의 붕괴 위험성 때문에 무인기(드론)를 이용한 수색만 이뤄지고 있다.&lt;br&gt;&lt;br&gt;앞서 소방 당국은 전날 오후 5시 25분쯤부터 매몰자 구조·수색을 위한 작업을 전면 중단했다.&lt;br&gt;&lt;br&gt;붕괴한 타워에 부착해 둔 기울기 센서가 반응하면서 경보음이 울렸기 때문이다. 소방 당국은 무너진 타워 잔해에서 추가 붕괴 위험이 있을 수 있다고 판단, 구조·수색 인력과 장비 등을 즉시 현장 주변에서 철수시켰다.&lt;br&gt;&lt;br&gt;소방 당국은 9일 오전 7시 구조 안전 전문가 등이 참여한 상황 판단 회의를 열어 현재 내부 수색 작업은 위험하다는 데 의견을 모았다. 야간에 내린 비, 현재 불고 있는 바람, 사고 발생 전 4·6호기에 이미 상당히 진행된 취약화 작업(철거 시 한 번에 쉽게 무너질 수 있도록 기둥과 철골 구조물 등을 미리 잘라놓는 것) 등을 고려했을 때 추가 붕괴 위험성이 높다는 판단에서다.&lt;br&gt;&lt;br&gt;대신 소방 당국은 이날 오전 8시 10분부터 드론을 투입한 수색 활동을 재개했다. 소방 당국 관계자는 “향후 취약화 작업이 시작돼도 드론 수색은 계속 진행할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6FJYJU47JEC7KPKXK3VIX6LII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4·6호기를 발파하기 위한 사전 작업도 이날부터 본격적으로 이뤄질 것으로 보인다. 이 타워들을 발파하려면 현재 75% 수준인 6호기의 취약화 작업을 마무리해야 한다. 현장에선 이 작업을 통해 발파 때 5호기나 대형 굴뚝이 있는 쪽으로 넘어지지 않도록 유도할 예정이다. 작업 인력은 이르면 9일 중에 투입될 수 있다.&lt;br&gt;&lt;br&gt;현장 인근을 지나는 LNG 배관에 질소를 주입해 배관을 비우는 ‘퍼징(purging) 작업’도 병행한다. 타워 발파 영향으로 배관이 폭발하는 등 2차 사고를 방지하기 위해서다.&lt;br&gt;&lt;br&gt;지난 6일 발생한 이 사고로 작업자 7명이 매몰돼 3명 사망, 2명 사망 추정, 2명 실종 상태다. 붕괴 현장에는 현재 실종자 2명을 포함해 5명이 아직 매몰돼 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“소화포, 에어매트, 도시락 100개” 사기전화 기승… 울산 참사마저 악용</title>
-      <link>https://www.chosun.com/national/regional/2025/11/09/J3ZIR7773FAHBNR5ZXWQAV2P5Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/09/J3ZIR7773FAHBNR5ZXWQAV2P5Y/</guid>
-      <dc:creator>울산=김미희 기자 , 울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 09 Nov 2025 01:48:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7OHDHW3K5FGYDN3XRMOPZOP7LM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 발생한 울산화력발전소 보일러 타워 붕괴 사고로 매몰된 실종자들을 찾기 위한 수색 작업이 9일 나흘째 진행 중인 가운데 이를 악용한 ‘노쇼’(예약 부도) 사기 시도가 잇따라 발생, 경찰이 각별한 주의를 당부했다.&lt;br&gt;&lt;br&gt;9일 울산경찰청에 따르면, 지난 7일 공공기관 직원을 사칭한 사기범이 울산 한 안전용품 판매점에 전화해 “소화포가 급히 필요하다. 업체를 알려줄 테니 구매해 주면 나중에 결재해 주겠다”고 요청하며 입금을 요청했다.&lt;br&gt;&lt;br&gt;또 음식점에 전화해 도시락 100개를 주문하면서 “에어매트를 대신 구매해 달라”고 요구한 사례도 있었다.&lt;br&gt;&lt;br&gt;경찰은 입금 계좌와 휴대전화 사용 내역 등을 바탕으로 용의자들의 행방을 추적하고 있다.&lt;br&gt;&lt;br&gt;지구대와 파출소 소속 경찰관들이 소상공인 업체나 상인연합회 등을 방문해 주의를 당부하는 홍보 활동도 병행하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “대량 주문이 들어오면 해당 기관의 공식 전화번호로 직접 확인하고, 일정 금액을 예약금으로 요구할 필요가 있다”면서 “대리 결제 명목으로 계좌 이체를 요구하면 절대 입금해서는 안 된다”고 했다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 울산화력발전소에서는 가로 25ｍ, 세로 15.5ｍ, 높이 63ｍ 규모의 보일러 타워 5호기가 순식간에 붕괴해 현장에 있던 작업자 9명 중 7명이 매몰됐다.&lt;br&gt;&lt;br&gt;매몰된 7명 중 3명이 사망했다. 2명은 숨진 것으로 추정되며, 나머지 2명은 실종된 상태다. 붕괴 현장에는 현재 실종자 2명을 포함해 5명이 아직 매몰돼 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>팔 낀 매몰자에 진통제·담요… 보고도 살릴 수 없었다</title>
-      <link>https://www.chosun.com/national/regional/2025/11/08/OEG7LQT2DVDNVIYTREB5THGZQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/08/OEG7LQT2DVDNVIYTREB5THGZQU/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 16:00:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V652PCJEGBE5HARSNPJD53PZ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;철골 구조물 헤치며 수색  7일 오전 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 현장에서 소방대원이 무너진 철골 구조물 잔해를 헤치며 매몰된 근로자들을 찾고 있다. 전날 발생한 사고로 근로자 총 9명이 매몰됐다가 2명이 구조됐다. 7일 오후 11시 기준, 3명이 사망했고 2명이 사망한 것으로 추정된다. 다른 2명은 수색 중이다.
-/소방청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;6일 발생한 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고로 매몰된 근로자 9명 중 3명이 숨졌다. 매몰된 9명 중 2명은 전날 사고 직후 구조돼 생존했고, 나머지 7명 가운데 김모(44)씨 등 3명이 7일 사망했다고 소방 당국이 밝혔다. 소방 당국은 나머지 4명 중 2명의 위치를 파악해 구조 중이나 숨졌을 가능성이 큰 것으로 보고 있다. 다른 2명은 7일 오후 11시 현재 실종 상태다. &lt;br&gt;&lt;br&gt;소방 당국은 “전날 오후 구조물에 깔린 김씨를 발견한 뒤 밤을 새우며 구조 작업을 벌였으나 김씨는 이날 오전 4시 53분 구조 도중 숨졌다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 전날 오후 3시 14분쯤 발견됐다. 당시 의식이 있었다. 그러나 몸 대부분이 구조물에 깔려 구조대원들이 잔해를 하나씩 잘라내는 작업을 했다. 잔해 밖에 있는 의료진과 영상 통화를 하며 김씨에게 진통제를 놓고 담요를 덮어 체온을 유지했다. 13시간에 걸친 구조 작업 끝에 한쪽 팔을 짓누른 잔해만 제거하면 됐지만 김씨는 의식을 잃었다. 구조대가 심폐 소생술을 했으나 숨졌다. 소방 당국은 “잔해에 깔린 팔을 절단하면 과다 출혈이 우려되는 상황이라 절단술을 시도하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;소방 당국은 전날 김씨 외에 신원이 확인되지 않은 남성 1명을 발견한 데 이어 이날 오전에는 이모(61)씨, 전모(49)씨, 신원이 확인되지 않은 남성 등 3명을 추가로 발견했다. 이씨와 전씨는 구조됐으나 결국 숨졌다. 신원이 확인되지 않은 2명도 구조 중이나 소방 당국은 숨졌을 가능성이 큰 것으로 추정했다.&lt;br&gt;&lt;br&gt;구조대는 철근 등을 하나씩 잘라내며 매몰자를 찾고 있지만 추가 붕괴 우려 때문에 구조 작업에 시간이 걸리고 있다. 통로를 확보하기 위해 손으로 자갈과 흙을 파내고 내시경 카메라 등도 동원하고 있다. 정부는 기후에너지환경부 장관을 본부장으로 중앙사고수습본부를 꾸렸고 사고 발생 원인을 규명할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>제주 해안 ‘茶’ 봉지로 위장한 ‘케타민’ 8번째 발견</title>
       <link>https://www.chosun.com/national/regional/2025/11/10/LIQN5HPRBJCIFIJDC6NDYUCKMI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/10/LIQN5HPRBJCIFIJDC6NDYUCKMI/</guid>
@@ -948,31 +976,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/ZYPTMOGYYFARPP6BCBM56ERADY.JPG?auth=1bf696c48957784a4060e2bb79720af0665b3f2a03920883b96d0aefd8a839e7&amp;smart=true&amp;width=1734&amp;height=975" type="image/jpeg" height="975" width="1734">
         <media:description type="plain">(과천=뉴스1) 장수영 기자 = 정성호 법무부 장관이 10일 오전 경기 정부과천청사 법무부 출입구에서 최근 검찰이 대장동 개발비리 의혹 사건 1심 선고에 대한 항소를 포기한 것과 관련한 입장을 밝히던 중 목을 축이고 있다. 2025.11.10/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(과천=뉴스1) 장수영 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 지검장 이어 일선 지청장도 “대장동 항소 포기, 납득할 만한 설명 필요... 지위에 걸맞는 자세 촉구”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/10/FS7Z2DPR7FDPZPE5URF2CNFOMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/FS7Z2DPR7FDPZPE5URF2CNFOMY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 03:05:12 +0000</pubDate>
-      <content:encoded>검찰이 ‘대장동 개발 비리’ 사건의 항소를 포기한 데 대해, 일선 지검장에 이어 일선 지청장들도 공동 입장문을 내고 “납득할 만한 설명이 필요하다”고 대검·법무부 지휘부에 요청한 것으로 10일 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DCNZXGQ3WIMRQHA3DGNBVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노만석 검찰총장 직무대행이 10일 오전 서울 서초구 대검찰청으로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 각 지방검찰청 산하에 설치된 지청을 지휘하는 지청장 8명은 이날 오전 검찰 내부망 이프로스에 ‘검찰총장 권한대행께 요청드립니다’라는 제목의 글을 올리면서 “이번 대장동 사건 항소 포기 지시는 그 결정에 이른 경위가 충분히 설명되지 않는다면 검찰이 지켜야 할 가치, 검찰의 존재 이유에 돌이킬 수 없는 치명적인 상처를 남기게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;이어 지청장들은 “그간 (정진우) 서울중앙지검장과 (노만석) 검찰총장 권한대행의 입장문, 그리고 (정성호) 법무장관의 설명만으로는 이와 같은 중대 사안에 있어 수사·공판팀과 중앙지검의 확고했던 의견을 갑자기 뒤집고, 이례적으로 항소를 포기하게 된 구체적 경위가 설명되지 않는다”고 지적했다.&lt;br&gt;&lt;br&gt;지청장들은 “수년에 걸쳐 국민적 관심 속에 진행되어온 중대 부패범죄 사건에서 직접 공소유지를 담당해 온 수사·공판팀의 만장일치 항소 의견이 합리적 설명 없이 전혀 반영되지 않은 것으로 보인다”며 “그 경위에 대해 책임 있는 자리에 있는 분들의 납득할 만한 설명과 지위에 걸맞는 자세를 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;입장문에는 차치지청 10곳을 이끄는 지청장들 중 하담미 안양지청장, 임일수 성남지청장, 이동균 안산지청장, 김윤선 천안지청장, 신동원 대구서부지청장, 최행관 부산동부지청장, 손찬오 부산서부지청장, 용성진 순천지청장 8명이 이름을 올렸다. 차장검사급이 지휘하는 부천지청은 특검 파견으로 지청장이 공석인 상태다. 정지영 고양지청장은 성명에 참여하지 않았다. &lt;br&gt;&lt;br&gt;이런 가운데 박재억 수원지검장은 이날 일선 지검장 등 18명 명의로 검찰 내부망(이프로스)에 ‘검찰총장 권한대행께 설명 요청’이라는 제목의 글을 올리고 노만석 총장 대행에게 “경위와 법리적 이유에 대한 상세한 설명을 하라”고 요구했다. 대검 연구관들도 이날 중 노 대행의 사퇴를 요구하는 입장문을 전달할 것으로 알려졌다. 법조계에선 대검 수뇌부가 현 정권에 유리하도록 관련 사건에 대한 검찰 항소를 막자, 내년 10월 검찰청 폐지를 앞둔 검찰에서 사실상 마지막 검란(檢亂)이 벌어진 게 아니냐는 해석이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불붙은 검란... 지검장들 “총장 대행, 항소 포기 이유 밝혀야” 반발</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/10/OKG3TQS4IBHHJN5XOMTRPPG6KI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/OKG3TQS4IBHHJN5XOMTRPPG6KI/</guid>
-      <dc:creator>유희곤 기자, 이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 01:31:34 +0000</pubDate>
-      <content:encoded>일선 지검장들이 대장동 개발 비리 민간업자 사건의 검찰 항소를 하지 말라고 지시한 노만석 검찰총장 권한대행에게 “경위와 법리적 이유에 대한 상세한 설명을 하라”고 10일 요청했다.&lt;br&gt;&lt;br&gt;대검 수뇌부가 현 정권에 유리하도록 관련 사건에 대한 검찰 항소를 막자, 내년 10월 검찰청 폐지를 앞둔 검찰에서 사실상 마지막 검란(檢亂)이 벌어진 게 아니냐는 해석이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZW523HD4NHSZKO5XCDZGQMGAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 대장동 사건 항소 불허 지시를 한 노만석 검찰총장 직무대행이 10일 오전 서울 서초구 대검찰청에 출근하고 있다. 노 대행은 이날 취재진의 질의에 답하지 않았다. /박성원 기자 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박재억 수원지검장은 이날 일선 지검장 등 18명 명의로 검찰 내부망(이프로스)에 ‘검찰총장 권한대행께 설명 요청’이라는 제목의 글을 올리고 이같이 밝혔다.&lt;br&gt;&lt;br&gt;박 지검장은 “성남시 대장동 개발 비리 의혹 사건의 1심 일부 무죄 판결에 대한 검찰총장 권한대행의 항소포기 지시를 두고 검찰 내부뿐만 아니라 온 나라가 큰 논란에 휩싸다”면서 “사의를 표명한 서울중앙지검장은 명백히 항소 의견이었으나, 검찰총장 권한대행의 지시를 존중해 최종적으로 수사팀에 항소포기를 지시했고 항소 의견을 관철하지 못한 책임을 지고 사직한다는 입장을 밝혔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “반면 권한대행이 어제 배포한 입장문에 따르면 서울중앙지검의 항소 의견을 보고받고 법무부의 의견도 참고한 후 해당 판결의 취지 및 내용, 항소기준, 사건의 경과 등을 종합적으로 고려해 항소를 제기하지 않는 것이 타당하다고 권한대행 책임 하에 서울중앙지검장과 협의를 거쳐 숙고 끝에 항소포기를 지시했다는 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 대해 박 지검장은 “권한대행이 밝힌 입장은 항소포기의 구체적인 경위와 법리적 이유가 전혀 포함되지 않아 납득이 되지 않다”면서 “일선 검찰청의 공소유지 업무를 책임지고 있는 검사장들은 권한대행께 항소포기 지시에 이른 경위와 법리적 근거에 대한 상세한 설명을 다시 한번 요청한다”고 했다.&lt;br&gt;&lt;br&gt;해당 글에는 박 지검장, 박현준 서울북부지검장, 박영민 인천지검장, 박현철 광주지검장, 임승철 서울서부지검장, 김창진 부산지검장, 서정민 대전지검장, 이만흠 의정부지검장, 유도윤 울산지검장, 김향연 청주지검장, 문현철 창원지검장, 신대경 전주지검장, 박혁수 대구지검장, 이응철 춘천지검장, 정수진 제주지검장, 민경호 대전고검 차장(검사장), 이준범 수원고검 차장(검사장), 박규형 대구고검 차장(검사장)이 이름을 올렸다.&lt;br&gt;&lt;br&gt;김태훈 서울남부지검장, 임은정 서울동부지검장은 성명에서 빠졌다.&lt;br&gt;&lt;br&gt;이런 가운데 대검찰청 소속 연구관들은 노 대행에게 사퇴를 건의하기로 한 것으로 전해졌다. 대장동 항소 포기에 대한 책임을 물어야 한다는 것이다. 연구관들은 이날 입장문을 작성해 노 대행에게 전달할 예정인데, 입장문에는 “이번 항소 포기 결정은 검찰의 가장 핵심적인 기능인 공소 유지 의무를 스스로 포기한 결과를 초래했다” “거취 표명을 포함한 합당한 책임을 다해달라” 등 내용이 담겼다.&lt;br&gt;&lt;br&gt;또 “수사팀의 항소 의견을 승인하지 않은 이유, 서울중앙지검과 법무부 사이에 이뤄진 의사결정 과정에 대한 구체적인 사실관계를 국민과 검찰 구성원이 납득할 수 있도록 설명해 달라”는 요구도 포함됐다. 대검 연구관들이 검찰 수장인 총장 대행에게 사퇴를 요구하는 것은 이례적이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CETUZCIXHNBRZCYE5BVHPJJYWM.jpg?auth=68275855acea4dca4098c7ffde57a1a342926c04db20b80ede2e0b0639c9b9ab&amp;smart=true&amp;width=5469&amp;height=3077" type="image/jpeg" height="3077" width="5469">
-        <media:description type="plain"> 출근하는 노만석 검찰총장 대행
-    (서울=연합뉴스) 윤동진 기자 = 노만석 검찰총장 직무대행이 10일 서울 대검찰청으로 출근하고 있다. 2025.11.10
-    mon@yna.co.kr/2025-11-10 09:03:18/
-&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">윤동진</media:credit>
       </media:content>
     </item>
     <item>
