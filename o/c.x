@@ -13,6 +13,101 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 측 “임성근 처벌 언급 안 해… ‘구명 로비’ 사실 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/11/BKMJWIQ5CZBXJHZQDP5L42ZDOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/11/BKMJWIQ5CZBXJHZQDP5L42ZDOM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 14:00:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437FMCZODP3VF3PMDPJDZKYZXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 11일 순직 해병 특검의 첫 피의자 조사에서 고(故) 채수근 상병 사망 사건 ‘수사 외압’ 의혹과 ‘구명 로비’ 의혹을 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령에 대한 조사는 이날 오전 10시 20분부터 오후 7시 30분까지 약 9시간 동안 진행됐다. 윤 전 대통령은 진술 거부권을 사용하지 않고 직권남용 등 혐의를 적극 부인했다고 한다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측 변호인단은 조사를 마치고 취재진과 만나 이른바 ‘VIP 격노’에 대해 “사단장 처벌과 관련한 말씀은 없었고, 구체적으로 어떤 처벌이나 수사가 잘못됐다고 지시한 것이 아니다”라고 주장했다. 윤 전 대통령이 임성근 전 해병대 1사단장을 업무상 과실치사 혐의자에서 빼려 했다는 ‘수사 외압’ 의혹을 전면 부인한 것이다. 윤 전 대통령은 지난 2023년 7월 31일 임 전 사단장에게 과실치사 혐의를 적용한 초동 조사 결과를 보고받고 격노해 “이런 일로 사단장을 처벌하면 누가 사단장을 할 수 있겠느냐”며 이종섭 전 국방장관을 질책하고 외압을 행사한 혐의를 받는다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “아들·딸을 군에 보낸 부모님들을 봐서, ‘재발 방지’를 위해 사건의 진상과 경위를 조사해 필요하면 책임자를 문책하라는 취지였다”고 해명했다. 이어 “(임기훈 전) 국방비서관이 보고를 하는데 설명을 잘 못 해서 이 전 장관에게 전화해 말한 것”이라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 ‘구명 로비’ 의혹에 대한 질문에는 “사실 무근”이라고 답했다고 한다. 특검은 이종호 전 블랙펄인베스트 대표가 김건희 여사와의 친분을 이용해 임 전 사단장에 대한 구명 로비를 펼쳤다는 의혹 등을 수사 중이다. 윤 전 대통령 측은 “김 여사를 통해 (청탁을) 전달받은 것이 전혀 없다. 김 여사에 대한 질문도 없었다”고 했다.&lt;br&gt;&lt;br&gt;특검은 이날 준비한 100여 쪽의 질문지를 모두 소화해 ‘수사 외압’ 의혹 조사를 마쳤다. 다만 윤 전 대통령이 고위공직자범죄수사처에 입건돼 있던 이 전 장관을 주(駐)호주 대사로 임명해 도피시키려 했다는 의혹에 대해서는 시간 관계상 조사하지 못했다. 특검은 조만간 윤 전 대통령을 다시 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산화력발전소 60대 매몰자 시신 1구 수습.. 밤샘 수색 이어가</title>
+      <link>https://www.chosun.com/national/regional/2025/11/11/LQJKTEDC2ZCZJMRS2GLLEVPP7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/11/LQJKTEDC2ZCZJMRS2GLLEVPP7U/</guid>
+      <dc:creator>울산=김주영 기자, 울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 13:56:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HL7BHYIW5ZMWHPKCZS3MKGQ55I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동서발전 울산화력발전소 보일러 타워 붕괴 사고 엿새째인 11일 오후 소방 당국의 수색이 재개되면서 소방 대원들이 현장에 진입하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 발생한 동서발전 울산화력발전소 붕괴 사고로 매몰됐으나 실종됐던 근로자 김모(63)씨가 11일 구조됐으나 숨진 상태였다. 사고 발생 후 소방 당국이 구조에 나선 지 128시간여만이다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오후 3시 40분부터 매몰자 4명에 대한 수색·구조 활동을 재개해 실종됐던 김씨를 찾았으나 이날 오후 10시 18분 사망 판정을 받았다. 당국은 김씨의 시신을 수습했다.&lt;br&gt;&lt;br&gt;중앙사고수습본부는 이날 낮 12시 사고가 난 보일러 타워 5호기 양 옆에 있는 4·6호기 등 2기를 발파한 뒤 수색·구조 작업에 속도를 냈다. 그동안 소방 당국은 두 타워가 추가로 붕괴할 위험이 있어 수색과 구조 작업에 어려움을 겪었다.&lt;br&gt;&lt;br&gt;매몰자 가족들은 이날 발파 지점에서 300m 이상 떨어진 발전소 정문 근처에서 구조 소식을 애타게 기다린 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 수색·구조 전문가로 구성된 8개 팀 70여 명과 민간 해체전문가 등을 투입해 구조 작업을 이어가고 있다. 대형 크레인 등 중장비로 5호기 잔해를 들어올리는 작업에 들어갔으며, 매몰자 위치가 확인된 구역에는 빔커터기 2대를 투입해 구조에 나섰다.&lt;br&gt;&lt;br&gt;지난 6일 발생한 사고로 2명은 살아서 구조됐으나 4명은 숨졌다. 매몰 위치가 확인된 다른 1명은 사망한 것으로 추정된다. 나머지 2명은 실종 상태다. 소방당국은 밤샘 수색을 더 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“미국 드라마 보고”…차량 개조해 마약 제조한 2명 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/RRG6ARUAUZDF5MZZIO5PARQBYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/RRG6ARUAUZDF5MZZIO5PARQBYY/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 13:52:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUREZ33YUZCDKJYGNXX4WINC5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개조한 차량으로 인적 드문 곳을 돌아다니며 마약을 제조한 남성 2명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 11일 마약류 관리에 관한 법률상 향정 혐의로 20대 A씨와 30대 B씨 등 2명을 검찰에 구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2월부터 5개월간 개조한 차량을 타고 인적이 드문 캠핑장과 비닐하우스 등에서 필로폰 10g을 제조한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 경찰 조사에서 “미국 드라마를 보고 차량을 개조해 마약을 만들었다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 A씨 등이 마약을 판매하려고 운영한 광고 채널을 확인하고 수사에 착수해 이들을 검거했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MUREZ33YUZCDKJYGNXX4WINC5U.jpg?auth=f555c96b590a6e4527fd0683e395170f5510d03671051777df99fc760f4e2388&amp;smart=true&amp;width=911&amp;height=506" type="image/jpeg" height="506" width="911">
+        <media:description type="plain">인천경찰청. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>의사가 ‘150만원 사채’ 썼다가… 하루 이자 240만원에 병원 폐업</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/XPSFNRU25REYZBH6CEF2DNY4P4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/XPSFNRU25REYZBH6CEF2DNY4P4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 13:40:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJWNTKDCMZCG5CTANSHDOYYOVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대부업체의 협박문자./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“이젠 죽는 일밖에는 남지 않았습니다. 하루 240만원의 연체 이자에 시달리고 있어요.”&lt;br&gt;&lt;br&gt;지방의 한 병원을 운영하던 의사 A씨가 경기남부경찰청 형사기동대 수사관에게 보낸 문자메시지 내용이다. 그는 고금리 불법 대부업체의 협박과 추심에 시달리다 극단적 선택을 시도한 끝에 병원 문을 닫았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6SFW7QL5W5BGVORR3KB5SBIL3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;피해자의 편지./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 불행은 지난해 9월, 카카오톡 오픈 채팅방에서 우연히 본 ‘소액 대출’ 광고에서 비롯됐다. 당시 병원 장비 구입 등으로 자금 사정이 빠듯했던 그는 20만~30만원의 소액도 빌릴 수 있다는 문구에 혹해 대화방에 접속했다. 자신들을 ‘정상적인 대부업체’라 소개한 이들은 “신용 기록에 아무런 문제가 생기지 않는다”며 A씨를 안심시켰다.&lt;br&gt;&lt;br&gt;대출 절차는 간단했다. 신분증과 통장 거래 내역, 연락처, 지인을 담보로 한 대출 인증용 셀카 영상 등을 전달하면 곧바로 비대면 대출이 진행됐다. 하지만 원금의 100%를 매주 상환해야 했고, 연체 시 하루마다 원금의 40%를 ‘연체 이자’로 내야 하는 게 조건이었다. 법정 최고 금리(연 20%)를 훨씬 웃도는 고리였다.&lt;br&gt;&lt;br&gt;A씨는 “의사인 내가 설마 제때 갚지 못하겠나” 하는 생각으로 처음 150만원을 빌렸다. 하지만 상환 기일을 놓친 순간부터 대부업체 직원들은 그의 신상 정보를 무기 삼아 협박을 이어갔다. 이들은 “당신 동영상이 포털사이트에 올라와 있던데”라며 의사 가운을 입은 사진을 첨부하기도 했다. 나중에는 흉기로 해를 가할 듯 위협하거나 병원 앞에 플래카드를 걸겠다고 겁박했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI3UDE7DIZBOVPEGAOSINORIBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;SNS에 올라간 피해자의 사진./경기남부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두려움에 휩싸인 A씨는 이자와 연체금을 막기 위해 또 다른 대출을 받았다. 그렇게 아홉 차례에 걸쳐 총 2150만원을 빌렸지만, 남은 것은 산더미 같은 빚뿐이었다. 그는 결국 두 차례 자살을 시도했고, 결국 병원 문을 닫았다. &lt;br&gt;&lt;br&gt;경기남부경찰청 형사기동대는 대부업법 및 채권추심법 위반 등 혐의로 총책 배모씨 등 13명을 검거(4명 구속)해 검찰에 송치했다고 11일 밝혔다. 이들에게 대포 통장을 제공해 자금 세탁을 도운 16명도 전자금융거래법 위반 혐의로 입건해 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;배씨 일당은 작년 6월부터 용인 일대에 사무실을 차려놓고 사회 초년생·주부·회사원·유흥업소 종사자 등 553명을 상대로 소액 대출을 가장해 연 238%에서 최대 7만3000%의 고금리 이자를 받아 18억원가량의 이자를 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;피해자들은 상환이 지연될 경우 A씨처럼 협박성 문자와 폭로 위협에 시달렸다. 한 30대 남성은 채무 사실이 예비 신부 측에 알려져 파혼을 당하고, 직장 동료들에게 추심 문자가 퍼지면서 해고됐다. 그는 세 차례 극단적 선택을 시도했고, 최근에는 가족 신고로 가까스로 구조됐다고 한다. &lt;br&gt;&lt;br&gt;경기남부경찰청 형사기동대는 “법정 이자율을 초과하거나 가족·지인 연락처를 요구하는 비대면 대부업체는 대부분 미등록 불법 업체일 가능성이 높다”며 “불법 추심으로 피해를 본 경우 금융감독원의 ‘채무자 대리인 제도’를 통해 대부 계약 무효 소송 지원 등 구제를 받을 수 있으니 적극적으로 신고해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘응팔 진주’ 폭풍 성장... 영재원 수료식서 교복 차림</title>
+      <link>https://www.chosun.com/national/people/2025/11/11/HCBBCLMQDZCPNBSMGRGWRUYVUE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/11/HCBBCLMQDZCPNBSMGRGWRUYVUE/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 10:30:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2DEN3CG5RWEY3BMNSGGNZTMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;드라마 ‘응답하라 1988’에서 ‘진주’ 역을 맡았던 아역배우 김설./tvN '응답하라 1988', 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;tvN 인기 드라마 ‘응답하라 1988’에서 ‘진주’ 역으로 사랑받았던 아역 배우 김설의 근황이 공개됐다.&lt;br&gt;&lt;br&gt;지난 10일 김설 어머니가 운영하는 인스타그램에는 ‘2025. 11. 04 영재원 수료식’이라는 글과 함께 김설의 최근 모습이 담긴 사진 한 장이 올라왔다. 사진 속 김설은 교복 차림으로 수료증을 들고 환하게 웃고 있다. 어린 시절의 동그란 얼굴과 눈망울은 그대로지만 훌쩍 자란 키와 성숙해진 분위기가 눈길을 끌었다. &lt;br&gt;&lt;br&gt;2011년생인 김설은 2016년 1월 종영한 tvN 히트작 ‘응답하라 1988’에서 선영네 늦둥이 막내딸이자 선우(고경표 분)의 여동생 ‘진주’ 역을 맡아 큰 인기를 얻었다. 당시 네 살이라는 어린 나이에 자연스러운 연기와 사랑스러운 모습으로 시청자들의 사랑을 받았다.&lt;br&gt;&lt;br&gt;김설은 이후 ‘영재’로 성장한 근황으로도 화제를 모았다. 모친은 2021년 2월 교육청 발명 영재 과정 수료 사진을 공개하며 영재원 활동 소식을 전한 바 있다. 당시 그는 “올 한 해 수고 많았다. 3월에 시험 보고 합격해서 꼬박 7개월 동안 결석 없이 수료하게 돼서 대견하고 기특하다”고 적어 딸에 대한 애정을 드러냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“외로움은 팔지 않는다”... 혼밥 손님 거부한 식당</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/LUQX7QNLR5GM5ITZMQMDFKKBTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/LUQX7QNLR5GM5ITZMQMDFKKBTU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 11:54:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JVBJ5GW7YFEVBHBE27B4OKND3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'혼밥' 손님을 거부하는 식당 안내문./스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 식당이 “외로움은 팔지 않는다”며 ‘혼밥’ 손님을 사실상 거부하는 안내문을 내걸어 논란이 일고 있다.&lt;br&gt;&lt;br&gt;지난 10일 한 네티즌은 소셜미디어 스레드에 “들어가려다 이거 보고 발길을 돌렸다”는 글과 함께 한 자장면집 출입문에 붙어 있던 안내문 사진을 올렸다.&lt;br&gt;&lt;br&gt;안내문에는 “혼자서 드실 때 ▲2인분 값을 쓴다 ▲2인분을 다 먹는다 ▲친구를 부른다 ▲다음에 아내와 온다”는 문구가 쓰여 있다. 마지막에는 “외로움은 팔지 않습니다. 혼자 오지 마세요”라는 문장도 적혀 있다.&lt;br&gt;&lt;br&gt;해당 게시물은 올라온 지 하루 만에 조회 수 30만회를 넘겼다. 이를 본 네티즌들은 “왜 자기 멋대로 혼자 먹으러 가는 사람을 외로운 사람으로 치부하는 거냐” “요즘 세상에 이런 생각을 하다니” “혼밥족이 얼마나 많은데” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;‘혼밥’을 둘러싼 갈등은 이번만이 아니다. 지난 7월 전남 여수의 한 유명 맛집에서는 혼자 식사하던 여행 유튜버가 2인분을 주문했음에도 업주에게 “빨리 먹고 나가라”는 말을 들었다고 폭로해 논란이 됐다. 여수시는 논란이 커지자 “정기적인 친절 교육에도 불친절 사례가 발생해 죄송하다”고 사과하며, 1인 손님 응대 매뉴얼 마련과 친절 교육 강화를 약속했다.&lt;br&gt;&lt;br&gt;1인 가구 비율이 많이 늘어난 현실과 일부 음식점의 영업 관행이 어긋나고 있다는 지적도 제기된다. 통계청에 따르면 지난해 기준 국내 1인 가구 비율은 35.5%에 달한다. 그럼에도 일부 음식점은 여전히 ‘2인분 이상 주문 가능’과 같은 규정을 내걸고 있다. 다만, 업주들은 조리 효율과 인건비, 좌석 회전율 등을 감안하면 1인 손님을 받는 것이 쉽지 않다는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/IC2JNLEZQNDKROMHALA44HK73Q.jpg?auth=f4c0d79c31d1d66fdebef9491c11d53edfd3f5d7b67c6e137d2b216a1c7099d2&amp;smart=true&amp;width=389&amp;height=292" type="image/jpeg" height="292" width="389">
+        <media:description type="plain">'혼밥' 손님을 거부하는 식당 안내문./스레드</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>몰수 보전된 대장동 일당 재산... 성남시, 2070억원 가압류 추진</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/MSD4YTPRTNF2VNJA37JLOGA5J4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/MSD4YTPRTNF2VNJA37JLOGA5J4/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 12:42:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTGGNLBMJSTOOJUGJRTMMTBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시가 검찰의 대장동 사건 항소 포기로 부당이득 환수에 차질이 생겼다고 보고 검찰이 수사 당시 대장동 일당으로부터 몰수보전해 놓은 2070억원에 대해 가압류를 추진한다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;몰수 보전은 범죄로 얻은 불법 재산을 형 확정 전에 빼돌릴 가능성에 대비해 임의로 처분하지 못하도록 동결하는 조치다.&lt;br&gt;&lt;br&gt;주요 피고인별로는 김만배 1250억원, 남욱 514억원, 정영학 256억원으로 알려졌다. &lt;br&gt;&lt;br&gt;또 성남시는 성남도시개발공사와 함께 검찰의 항소 포기와 관련, 직무 유기, 직권남용 혐의로 고위공직자범죄수사처에 고소 및 고발도 추진하기로 했다. &lt;br&gt;&lt;br&gt;앞서 신상진 성남시장은 지난 10일 검찰이 대장동 사건 1심 선고와 관련, 항소를 포기하자 “검찰 본연의 책무를 포기한 직무 유기”라며 “면죄부를 주는 부당한 결정”이라고 했다.&lt;br&gt;&lt;br&gt;신 시장은 “1심 재판에서 검찰은 성남시 수뇌부 등이 민간업자들과 결탁해 성남시와 성남도시개발공사에 4895억원에 달하는 손해를 끼쳤다고 주장했고, 재판부는 배임액에 대한 특정 없이 사실관계를 인정했으나, 검찰이 성남시민의 재산상 손해를 확정 지을 기회인 항소를 돌연 포기했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GZTGGNLBMJSTOOJUGJRTMMTBMI.jpg?auth=e3b1fab6f6be635500ba415ef1076b6a778e2e5db07658e82000bf0e0875f2de&amp;smart=true&amp;width=2268&amp;height=1510" type="image/jpeg" height="1510" width="2268">
+        <media:description type="plain">성남시청 전경.(성남시 제공. 재판매 및 DB금지)/뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>日 모녀 비극에 이어 또… 택시 충돌로 일본인 아기 중태</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/DEQHLKNS3BBTPJP2B64BZJ4WQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/DEQHLKNS3BBTPJP2B64BZJ4WQM/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 12:26:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S3T4HQY5BQBRYELTMITXUV3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령 운전자가 몰던 택시가 중앙선을 넘어 마주 오던 차를 들이받으면서 일본인 부부와 아기가 크게 다친 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 페달 오조작으로 교통사고를 낸 혐의(교통사고처리특례법상 치상)로 70대 택시 기사 A씨를 입건해 조사 중이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 21일 저녁 용산구의 한 도로에서 중앙선을 넘어가 반대 방향에서 달려오던 승용차와 부딪친 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 사고로 택시에 타고 있던 일본인 20대 부부가 골절상을 입었다. 이들의 생후 9개월 된 딸은 의식을 잃은 상태로 병원으로 옮겨졌고 현재까지 중태인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;사고 직후 A씨는 급발진이라고 주장했지만 조사 과정에서 페달을 잘못 밟았다는 취지로 진술을 바꾼 것으로 전해졌다. A씨에게서 마약이나 음주 정황은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 파악하고 있다”며 “구속영장 신청 여부는 추가로 검토해봐야 한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 서울 종로구 동대문역 인근에서 일본인 관광객 모녀가 음주 운전 차량에 치여 50대 어머니가 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중국에 군사기밀 넘기고 1800만원 받은 병사 징역 5년</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/11/43FMKMKY5FFOHMH5T4LXRKU3MA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/43FMKMKY5FFOHMH5T4LXRKU3MA/</guid>
+      <dc:creator>진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 11:10:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3P7MKBOAFOFDPWKG3HWJPWSTY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'을지 자유의 방패(UFS) 2025년 훈련'을 실시한 지난 8월 18일 경기 평택시 주한미군 오산공군기지에서 F-16 전투기가 착륙하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 정보조직에게 군사 기밀을 넘기고 돈을 받은 병사가 징역 5년형을 선고받았다.&lt;br&gt;&lt;br&gt;제3지역군사법원은 11일 일반 이적과 군기 누설, 부정처사 후 수뢰, 정보통신망법 위반, 성매매처벌법 위반 등 혐의로 기소된 병장 A씨에게 징역 5년과 1800여 만원 추징명령을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 휴가 기간 중국 베이징에서 만난 중국 정보조직 조직원에게 군사 기밀을 넘기기로 약속하고 부대로 돌아와 한미 연합 훈련 ‘을지 자유의 방패(UFS)’ 관련 군사 기밀을 유출한 혐의로 재판에 넘겨졌다. A씨는 군사 기밀 유출 대가로 7차례에 걸쳐 1800여 만원을 받았다.&lt;br&gt;&lt;br&gt;A씨가 유출한 문건은 주한 미군 주둔지 명칭과 병력 증원 계획, 유사시 적 정밀 타격 대상이 될 수 있는 표적 위치 등이 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 한미 연합 훈련 업무 담당자들의 소속과 계급, 성명, 연락처 등 개인 정보와 한미 연합사령부 교범 목록 등도 유출한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 혐의를 부인했지만 법원은 받아들이지 않았다. 재판부는 “국방의 의무를 수행하는 현역 군인이 오히려 대한민국의 안전을 위협하는 세력에 동의했다는 점에서 그에 합당한 처벌이 반드시 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “특히 중국으로 건너가 조직원과 세 차례 접촉하고 이적 대가로 상당한 금액을 수수한 점, 범행을 쉽게 하기 위해 장비를 무단으로 영내에 반입하는 등 조직적으로 치밀하게 범행했다는 점에서 죄질이 매우 좋지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/A3P7MKBOAFOFDPWKG3HWJPWSTY.JPG?auth=40cba10133a5d0b8af002ff7dd08117bf1811733b8860023eb71413cb9529d61&amp;smart=true&amp;width=4615&amp;height=2610" type="image/jpeg" height="2610" width="4615">
+        <media:description type="plain">'을지 자유의 방패(UFS·을지프리덤실드) 2025년 훈련'을 실시한 지난 8월 18일 경기 평택시 주한미군 오산공군기지에서 F-16 전투기가 착륙하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(평택=뉴스1) 김영운 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>70대 투자자, 서울대병원에 비트코인 1개 기부… 가격 1억5700만원</title>
       <link>https://www.chosun.com/national/national_general/2025/11/11/HDZBUZD3YFBXVGHZAOUZLDUGH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/HDZBUZD3YFBXVGHZAOUZLDUGH4/</guid>
@@ -786,60 +881,6 @@
       <content:encoded>오는 27일 한국형 발사체 ‘누리호’가 전남 고흥 나로우주센터에서 4차 발사를 할 예정이에요. 누리호는 인공위성을 지구 궤도로 올려주는 로켓입니다. 한국천문연구원은 여기에 오로라 전용 카메라인 ‘로키츠(ROKITS·Republic Of Korea Imaging Test System)‘를 실어 우주로 보내요. 로키츠는 우리 기술로 만든 오로라 관측 전문 장비예요. 앞으로 로키츠가 우주를 돌면서 우리에게 전해 줄 오로라의 모습이 기대됩니다. 오늘은 이 오로라가 어떻게 만들어지는지, 우리나라에서도 오로라를 볼 수 있는지 알아보겠습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;오로라 원리, 네온사인과 같아&lt;/b&gt;&lt;br&gt;&lt;br&gt;인터넷에 ‘오로라(aurora)’를 검색하면 밤하늘에 일렁이는 빛을 담은 사진을 많이 볼 수 있어요. 초록색이나 붉은색, 오묘한 보라색을 보여주기도 하지요. 어떻게 공중에 알록달록한 빛이 떠 있는 걸까요? 오로라는 지구 밖에서 들어오는 많은 양의 에너지(고에너지) 입자가 우리 지구를 둘러싼 공기층인 대기와 부딪혀 빛을 내는 현상입니다. 대기가 빛을 내는 원리는 우리 주변 간판에서 자주 볼 수 있는 ‘네온사인’이 불을 밝히는 방식과 같아요.&lt;br&gt;&lt;br&gt;네온사인은 유리관으로 이뤄져 있죠. 유리관에 기체를 채우고 양쪽에 전극을 달아서 전류를 흐르게 하면 전극에서 전자가 튀어나와 유리관 속 기체와 부딪힙니다. 이때 전자에 에너지를 받은 기체는 ‘들뜬 상태(에너지가 높아진 상태)’가 되고, 일정 시간이 지나면 다시 ‘바닥 상태(에너지가 낮고 안정된 상태)’로 가라앉습니다. 들뜬 상태에서 바닥 상태로 돌아오면서 전자에 받은 에너지를 빛의 형태로 다시 내보내게 되는데, 이게 바로 오로라가 생기는 원리랍니다. 기체 종류에 따라 내보내는 빛 색깔이 달라져요. 네온사인을 대표하는 붉은색은 바로 ‘네온(Ne)’ 기체가 내는 색이에요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2NTNWTHWX5CJHHIQOFBAM72LWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=진봉기&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;오로라 색깔 다양한 까닭은 &lt;/b&gt;&lt;br&gt;&lt;br&gt;오로라의 색도 지구 대기를 구성하는 입자 종류에 따라 달라져요. 지구 대기는 산소, 질소, 이산화탄소 등 여러 기체로 이루어져 있습니다. 오로라가 나타나는 고도 약 100㎞ 이상 높은 하늘에는 주로 산소 원자(O)가 존재하는데, 오로라의 대표적인 색인 초록색과 붉은색이 바로 이 산소 원자에서 나온답니다. 오로라는 보통 고도 100~200㎞ 사이 하늘에서는 초록색으로, 그보다 높은 곳에서는 붉은색으로 나타나요. 산소 원자는 에너지를 상대적으로 많이 받으면 초록빛을, 적게 받으면 붉은빛을 내보냅니다. 같은 산소 원자에서 나오는 빛이지만, 색깔이 달라지는 것이죠. 그리고 대기를 구성하는 입자들이 빽빽한 낮은 고도에서는 산소 원자가 빛을 내기도 전에 근처에 있는 다른 입자와 부딪히면서 에너지를 잃어버리기도 해요. 붉은색 오로라가 그렇습니다. 대기 밀도가 낮아 충돌이 뜸한 높은 고도에서만 보여요. &lt;br&gt;&lt;br&gt;고도 100㎞ 아래로 내려오면 대기 속에는 산소 원자보다 질소 분자(N₂)가 더 많아집니다. 에너지를 받은 질소 분자가 들뜬 상태에서 바닥 상태로 돌아올 때 보랏빛을 내기 때문에, 낮은 하늘에서는 오로라가 보랏빛으로 보이는 거예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;오로라를 만드는 고에너지 입자는 어디서 올까&lt;/b&gt;&lt;br&gt;&lt;br&gt;산소 원자, 질소 분자 같은 지구 대기 속 입자에 에너지를 전해주는 것은 바로 태양에서 온 입자들입니다. 태양은 이온과 전자로 이루어진 ‘플라스마’를 끊임없이 내보내는데, 이를 태양풍이라고 부릅니다. 지구는 거대한 자석과 같아서 지구 자기장이 태양풍으로부터 지구를 보호하는 역할을 하지만, 때때로 태양풍에 실린 일부 입자가 이 자기장 속으로 들어오기도 해요. 이렇게 들어온 입자가 자기력선(자기장의 크기와 방향을 나타내는 선)을 따라 지구 대기로 들어와 산소 원자나 질소 분자 같은 대기 입자를 만나 오로라를 만드는 거죠.&lt;br&gt;&lt;br&gt;지구 자기력선은 북극과 남극을 중심으로 모여 있어요. 그래서 오로라가 나타나는 지역은 지구를 둘러싼 고리 모양으로 생겼고 이를 ‘오로라 타원체’라고 부릅니다. 캐나다 옐로나이프나 아이슬란드처럼 오로라 관광지로 유명한 지역이 바로 이 오로라 타원체에 속해 있어요. &lt;br&gt;&lt;br&gt;&lt;b&gt;우리나라에선 오로라 보기 어렵다고?&lt;/b&gt;&lt;br&gt;&lt;br&gt;우리나라에선 왜 오로라를 보기 힘들까요? 오로라 타원체의 중심은 지구 자기장(지자기)의 남북극입니다. 현재 지자기 북극은 캐나다 북부에 있습니다. 오로라 타원체가 아무리 커진다고 해도 대한민국까지 닿기는 쉽지 않은 것이죠.&lt;br&gt;&lt;br&gt;그러나 과거 ‘삼국사기’나 ‘고려사’ 등에는 오로라를 목격한 것으로 추정되는 기록들이 있습니다. 지자기 남북극은 지구 자전축을 기준으로 하는 지리적 남북극과 달리, 시간이 지나면서 조금씩 이동하기 때문에 과거에는 오로라 타원체의 위치가 지금과 달랐을 가능성이 있어요. 당시 지자기 북극이 시베리아 북쪽에 있었다면 우리나라에서도 지금보다는 자주 오로라를 볼 수 있었을 거예요.&lt;br&gt;&lt;br&gt;또 태양이 재채기하듯 에너지를 한꺼번에 뿜어내는 현상인 ‘태양 폭발’이 일어나면 상황이 달라집니다. 많은 양의 입자가 지구로 쏟아져 들어오면서 오로라 타원체의 크기가 커지고, 극지방을 넘어 미국이나 유럽 등 중위도 지역에서도 오로라가 관측될 수 있어요. 요즘처럼 태양 활동이 활발한 시기에는 태양 폭발도 자주 일어나기 때문에 오로라를 볼 기회가 더 많아질 거예요. 그래서 우리나라에서도 작년 5월 오로라가 관측됐답니다. 강원도 화천군에서 아마추어 천문학자가 관측했죠. 무려 21년 만이었어요. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 진원(震源)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/11/11/U2BFGQC3YFEFJIUE4JNYBYZAM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/11/11/U2BFGQC3YFEFJIUE4JNYBYZAM4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OTZJWIYU2FHFZM3ZAEXUB6RPFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 돈을 되돌려주다, 환불하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/11/11/6LFYPTCHUBF3TG5GOUUNUITJTY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/11/11/6LFYPTCHUBF3TG5GOUUNUITJTY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNS2O6VD7VBC3KVQDXEANRN3C4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] happy-go-lucky</title>
-      <link>https://www.chosun.com/national/nie/english/2025/11/11/YU6JW4PIMNE3XJHAUVC6SS6UGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/11/11/YU6JW4PIMNE3XJHAUVC6SS6UGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SODIT77CNVDZJOMGGA7VIRUX44.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] (기운이 빠져) 어깨가 처지다, 낙담하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/11/11/WF3MYCITOVER5FK5MEPXDTSO5Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/11/11/WF3MYCITOVER5FK5MEPXDTSO5Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IZ5TRB4STFHLHIE3DTVWC6TL3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2741] 알록달록 단어 팔레트</title>
-      <link>https://www.chosun.com/national/nie/2025/11/11/MGQ4KOBFRBECLM3LWFIT6B5XI4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/11/MGQ4KOBFRBECLM3LWFIT6B5XI4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ILOTHSN3UZCIBE7BKOTP6SGT7A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 코트 목깃 때엔 샴푸를 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/10/4YLEF3UR3BBRVE5WTNK422DWB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/4YLEF3UR3BBRVE5WTNK422DWB4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 14:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYQPJBIK4VG4TP3ZRIIUPG2G4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코트의 목 부분이 때로 얼룩졌을 땐 샴푸를 칫솔에 묻혀 살살 문질러보자. 샴푸 속 지방 분해 성분이 묵은때를 녹여 깨끗해진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 날씨] 2025년 11월 11일</title>
       <link>https://www.chosun.com/national/transport-environment/2025/11/10/XRJF3UTGYZEO3BKM2LGYNHOFHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/10/XRJF3UTGYZEO3BKM2LGYNHOFHM/</guid>
@@ -910,15 +951,6 @@
       </media:content>
     </item>
     <item>
-      <title>울산 화력 현장서 가족 지키는 심리 상담사들</title>
-      <link>https://www.chosun.com/national/regional/2025/11/10/VKKJYY56A5GO5IS5PZ7J52BYAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/10/VKKJYY56A5GO5IS5PZ7J52BYAU/</guid>
-      <dc:creator>울산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 10:57:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N6OI2AKCVFHU3DSF3TIYPK4BL4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;7일 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 소방대원들이 매몰자 수색 및 구조작업을 벌이고 있다./20251107 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“한 숟가락이라도 뜨시죠. 기다리려면 힘이 있어야 하잖아요.” 지난 6일 발생한 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 현장. 하염없이 철제 구조물만 바라보는 가족들 곁엔 손과 발이 되어 주는 심리 상담가들이 있었다.&lt;br&gt;&lt;br&gt;10일 대한적십자사 울산지부에 따르면, 울산화력발전소 사고 현장에 재난심리회복지원센터 소속 심리 상담 전문가 75명이 투입됐다. 이들은 6~9명씩 돌아가며 피해 가족과 생존자, 구조대원 등에게 심리 상담 등 지원을 이어가고 있다.&lt;br&gt;&lt;br&gt;현재 잔해 속에는 4명이 남아 있는 상태다. 가족들은 그 곁을 지키고 있다. 일부 가족은 너무 큰 상실감에 오열하다 쓰러지거나 경련을 일으키기도 한 것으로 알려졌다. 심리 상담가들은 이들 곁에 머물며 ‘심리적 응급처치(PFA)’를 하고 있다. 마음 심폐 소생술(CPR) 같은 것이다.&lt;br&gt;&lt;br&gt;이번 현장에서 심리 상담가로 활동한 이은정 대구대 청소년 심리학과 교수는 “너무 큰 사고를 겪으면 지금 있는 곳이 어딘지, 안전한 곳에서도 공포감을 느끼는 등 상황 인지 능력이 떨어질 수도 있다. 또 과호흡을 일으키기도 한다”면서 “상담가들이 가족 곁을 지키며 얘기를 들어주고 필요한 것을 가져다주는 것이 심리적 응급처치”라고 했다. &lt;br&gt;&lt;br&gt;상담가들은 피해 가족들이 울음을 터뜨리면 곁에서 안아주거나 손을 주물러줬다. 또 가족들이 경찰이나 소방에 요구할 사안이 있으면 대신 전달해 주고 곁에 머물며 그들의 손발이 되어줬다.&lt;br&gt;&lt;br&gt;이 처치를 통해 심리 골든타임인 72시간 안에 조금이나마 마음을 안정시켜 주고, 외상 후 스트레스 장애(PTSD)를 줄여주는 것이다. &lt;br&gt;&lt;br&gt;아울러 이들은 심리 재난 2차 피해자인 소방관이나 경찰에게도 심리 상담을 지원해 준다. 전날도 소방관 7명이 심리 상담을 받았다고 한다.&lt;br&gt;&lt;br&gt;적십자사도 잔해 앞을 지키는 가족들을 위해 사고 현장 근처에 실내용 소형 텐트인 ‘쉘터’ 5곳을 설치했다.&lt;br&gt;&lt;br&gt;전문가들은 사고 당사자나 목격자 등 직접 경험한 사람이 아니더라도 PTSD 등을 겪을 수 있다고 한다. 또 PTSD는 완전한 회복이 없기 때문에 심리 상태를 지속적으로 추적·관찰하는 것이 중요하다고 강조했다.&lt;br&gt;&lt;br&gt;곽금주 서울대 심리학과 명예교수는 “TV를 통해 재난 현장을 목격하는 사람들도 트라우마를 겪을 수 있다. 그럴 경우 심리 상담을 받아야 한다”면서 “특히 직접 현장에 투입된 구조대원들은 트라우마를 겪을 가능성이 높다. 당장 발생하지 않더라도 특정 기억을 떠올릴 수 있는 트리거(방아쇠)가 있다면 언제든 PTSD를 겪을 수 있다. 미국처럼 사건 당사자와 가족뿐만 아니라 구조대원 등의 심리 상태를 장기간에 걸쳐 지속적으로 추적·관찰하는 제도가 마련돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>진중권 “김만배는 좋겠다, 몇 년만 살고 나오면 재벌돼 있을테니”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/10/T7NRY475VRBUJNAWMXYFUVAOHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/10/T7NRY475VRBUJNAWMXYFUVAOHA/</guid>
@@ -935,24 +967,6 @@
       <description/>
       <pubDate>Mon, 10 Nov 2025 10:00:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZKBGCR6L45EVPJQXVGSHGOEGAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신상진 경기 성남시장. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신상진 경기 성남시장은 10일 검찰이 대장동 사건 1심 선고와 관련해 항소를 포기하자, “검찰 본연의 책무를 포기한 직무유기”라며 “면죄부를 주는 부당한 결정”이라고 했다.&lt;br&gt;&lt;br&gt;국민의힘 소속인 신 시장은 이날 자신 명의의 입장문을 내고, “검찰이 대장동 개발 비리 사건 1심 판결 항소를 포기한 것에 대해 깊은 유감과 분노를 표한다”고 밝혔다.&lt;br&gt;&lt;br&gt;신 시장은 “1심 재판에서 검찰은 성남시 수뇌부 등이 민간업자들과 결탁해 성남시와 성남도시개발공사에 4895억 원에 달하는 손해를 끼쳤다고 주장했고, 재판부는 배임액에 대한 특정 없이 사실 관계를 인정했으나, 검찰이 성남시민의 재산상 손해를 확정지을 기회인 항소를 돌연 포기했다”고 했다.&lt;br&gt;&lt;br&gt;신 시장은 “검찰의 항소 포기는 결국 수천억 원대 부당이익이 단군 이래 최대 부패 범죄자인 김만배 등 민간업자의 수중에 남도록 방치하는 면죄부를 준 것으로 도저히 이해할 수 없는 부당한 처사”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTMMRWME2WGNDGGQ3TEMLGGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 서초동 서울중앙지방검찰청 앞에 설치된 게양대에 걸린 태극기와 검찰기가 바람에 나부끼고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 신 시장은 민사소송을 통해 대응하겠다는 입장이다. 신 시장은 “성남시는 애초 형사재판 1심 판결을 토대로 손해액을 구체적으로 산정해 민사소송에 활용하려 했으나, 검찰의 항소 포기로 구체적인 손해액 인정 범위가 터무니없이 축소될 우려가 발생했다”며 “현재 진행 중인 관련자들에 대한 손해배상청구(민사) 소송을 통해 검찰이 기소한 4895억 원의 배임 손해액을 포함해 소송가액을 확대하는 등 시민의 모든 피해를 끝까지 환수하도록 모든 역량을 집중하겠다”고 했다.&lt;br&gt;&lt;br&gt;신 시장은 또 “검찰의 항소 포기 결정이 직권을 남용해 이뤄진 것인지, 이 과정에 법무부와 대통령실이 부당하게 개입해 외압을 행사한 사실은 없는지 명명백백하게 밝혀 사법 정의가 바로 설 수 있도록 모든 후속 조처를 하겠다”며 “성남 시민의 재산을 지키기 위해 모든 행정적·법률적 역량을 총동원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한동훈 “악의적 허위 사실 유포한 정성호 장관, 고소할 것”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/10/ILRKJYSSJVDVFNEUCTGVFRDM5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/ILRKJYSSJVDVFNEUCTGVFRDM5I/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 08:36:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DPHJFFHAWQ4244LFXZ4EJNCDBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한동훈 전 국민의힘 대표가 정성호 법무부 장관이 자신에 대한 악의적 허위 사실을 유포하고 사과를 거부했다며 “명예훼손 혐의로 형사고소하고 민사상 손해배상도 청구하겠다”고 10일 밝혔다.&lt;br&gt;&lt;br&gt;한 전 대표는 이날 페이스북을 통해 “오늘 오전 정성호 법무부 장관이 불법 항소 포기 사건을 물타기 하려고 ‘한동훈 당시 법무부 장관이 윤석열 전 대통령 징계 소송을 상고 포기했다’고 전 국민 상대로 악의적인 허위 사실을 유포했다”며 “저는 그 징계 소송에 관여하지 않았고, 상고 포기는 제가 법무부 장관을 그만둔 뒤에 있었던 일”이라고 말했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 오전 정부과천청사에서 한 전 대표의 발언을 비판한 바 있다. 한 전 대표는 검찰이 ‘대장동 개발 비리’ 사건 항소를 포기한 것을 두고 “11월 8일 0시 대한민국 검찰은 자살했습니다”라는 글을 올렸다. 정 장관은 이에 대해 “본인은 윤석열 전 대통령 징계 사건과 관련해 1심에서 승소했는데, 본인이 장관에 취임하자마자 변호인을 바꿔서 사실상 항소심을 침대 축구하듯 했다”고 지적했다. 그러면서 “재판장의 ‘왜 증인 신청조차 하지 않느냐’는 핀잔을 듣고 결국 패소했고, 상고도 포기했다”고 했다.&lt;br&gt;&lt;br&gt;한 전 대표는 이에 대해 “어제 복수의 민주당 측 인사가 같은 허위 사실 발언을 했다 사실이 아님을 공개적으로 인정하고 사과했음에도 정성호 장관이 똑같은 허위 사실을 유포한 것”이라며 “악의성, 고의성이 크고 명백하다”고 했다. 그러면서 “악의적 허위 사실을 유포하고도 사과를 거부한 정성호 법무부 장관을 명예훼손 혐의로 형사고소하고, 민사상 손해배상도 청구하겠다”고 했다. 앞서 한 전 장관은 글을 올리기 약 4시간 전 정 장관의 발언에 대한 공개 사과를 요구하며 “공개 사과 여부에 따라 허위 사실 유포에 대한 민형사상 책임을 묻겠다”고 했다.&lt;br&gt;&lt;br&gt;한 전 대표는 더불어민주당 소속 추미애 법제사법위원장 또한 법조조치하겠다고 밝혔다. 추 의원은 자신의 페이스북에 “(한 전 대표는) 법무부가 이긴 판결도 항소심에서 느슨하게 대응해 일부러 지게 만들고 상고 포기를 한 자”라고 비판한 바 있다. 이에 대해 한 전 대표는 “허위 사실 유포에 대해 법적조치하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울회생법원, 위메프 파산 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/10/AIPYOQGFEBF4PGCVT3HKRHRQL4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/10/AIPYOQGFEBF4PGCVT3HKRHRQL4/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 10 Nov 2025 08:28:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFTXF4Q4EQ6OWGM62YJEM5NHTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월 12일 서울 강남구 위메프 본사 건물이 폐쇄돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이커머스 업체 위메프가 파산 선고를 받았다. 지난해 7월 대규모 미정산 사태를 일으키고 기업회생 절차를 신청한 지 1년 4개월 만이다. &lt;br&gt;&lt;br&gt;서울회생법원 회생3부(재판장 정준영 법원장)는 10일 위메프의 회생 절차 폐지 결정을 확정하고 파산을 선고했다. 법인 파산이 선고되면 법원이 지정한 파산관재인이 회사의 남은 재산을 현금화해 채권자들에게 우선 순위에 따라 분배해준다. 채권 신고 기간은 내년 1월 6일까지다. 채권자집회와 채권 조사 기일은 같은 달 27일로 예정됐다. &lt;br&gt;&lt;br&gt;다만 위메프에 남은 재산이 없어 미정산 피해자들이 배상을 받기는 어려울 것으로 보인다. 작년 티몬과 위메프 미정산 사태로 구매자 47만명과 판매자 5만6000명 등 52만명이 피해를 봤고 피해 규모는 1조5000억원 정도로 추산된다. &lt;br&gt;&lt;br&gt;위메프는 앞서 법원의 회생 절차가 개시된 후 회생계획안을 제출하고 인수합병(M&amp;amp;A)을 시도했지만 새 주인을 찾지 못했다. 법원은 지난 9월 위메프의 회생 절차를 계속하는 것보다 기업을 청산하는 것이 더 가치가 높다고 보고 회생 절차 폐지 결정을 내렸고, 이날 파산을 선고했다. 한편, 티메프의 다른 한 축인 티몬은 최근 신선 식품 새벽 배송 전문 기업 오아시스에 인수돼 영업 재개를 준비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>국립대병원들 “교육부→복지부 이관 반대…교육·연구기능 저하 우려”</title>
