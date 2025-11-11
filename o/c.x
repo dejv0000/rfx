@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>내란특검 ‘내란선동 혐의’ 황교안 전 총리 체포영장 집행</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/12/46HJPN5PUFB67PWK7D7XQ7JNGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/46HJPN5PUFB67PWK7D7XQ7JNGQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 22:55:41 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNS2HYJBSBWC2Y653GVRKKN5TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태 관련 내란·외환 의혹을 수사 중인 조은석 내란특검팀이 12일 황교안 전 국무총리에 대한 체포영장을 집행하고 있다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 황 전 총리에 대해 내란선전선동 혐의로 압수수색을 시도했으나, 황 전 총리가 불응하자 최근 법원으로부터 체포영장을 발부받았다.&lt;br&gt;&lt;br&gt;황 전 총리는 지난해 12월 3일 자신의 페이스북에 윤석열 전 대통령의 비상계엄 선포를 지지하는 내용의 글을 게시해 내란 선전·선동 혐의로 고발된 바 있다.&lt;br&gt;&lt;br&gt;황 전 총리는 당시 “비상계엄령이 선포됐다. 지금은 나라의 혼란을 막는 것이 최우선”이라며 “나라를 망가뜨린 종북주사파 세력과 부정선거 세력을 이번에 반드시 척결해야 한다”고 적었다. 그는 “우원식 국회의장을 체포하라. 대통령 조치를 정면으로 방해하는 한동훈 국민의힘 대표도 체포하라”고 주장하기도 했다.&lt;br&gt;&lt;br&gt;특검팀은 지난달 27일과 31일 황 전 총리 주거지에 대한 압수수색영장 집행을 시도했으나, 황 전 총리가 문을 열어주지 않고 지지자들이 몰리면서 두 차례 모두 불발됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 화력 사고 시신 1구 추가 수습...공식 사망자 5명으로 늘어  </title>
+      <link>https://www.chosun.com/national/regional/2025/11/12/RINTQFZXSJAXJPUBK5OZLQ7AGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/12/RINTQFZXSJAXJPUBK5OZLQ7AGQ/</guid>
+      <dc:creator>김미희 기자 , 울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 22:47:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDAMJXG42TSYZUHA4WGMJTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오전울산화력발전소 붕괴 현장에서 수습된 매몰자를 병원으로 이송하기에 앞서 구조대원들이 도열해 거수경례를 하고 있다. /소방청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 붕괴 사고 일주일째인 12일 매몰자 시신 1구가 추가로 수습됐다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 5시 19분쯤 보일러 타워 5호기 잔해 속에서 60대 남성 매몰자 시신 1구를 수습했다고 밝혔다. &lt;br&gt;&lt;br&gt;이 매몰자는 실종 상태였다가 전날 오후 10시 14분쯤 위치가 파악됐다. 소방 당국은 밤새 절단기로 철근을 잘라가며 공간을 확보해 이 매몰자 시신을 수습했다.&lt;br&gt;&lt;br&gt;이에 따라 이번 사고 매몰자 7명 중 공식 사망자는 5명으로 늘었다.&lt;br&gt;&lt;br&gt;나머지 2명은 여전히 매몰 상태이다. 이 중 1명은 위치가 파악됐고, 나머지 1명은 위치를 알 수 없는 상태다.&lt;br&gt;&lt;br&gt;소방 당국은 이들을 수색·구조하기 위한 작업을 이어간다.&lt;br&gt;&lt;br&gt;앞서 지난 6일 울산 남구 동서발전 울산화력본부에선 가로 25ｍ, 세로 15.5ｍ, 높이 63ｍ 규모 보일러 타워 5호기가 순식간에 붕괴했다.&lt;br&gt;&lt;br&gt;이 사고로 당시 현장에서 보일러 타워 해체 작업 중이던 9명 중 7명이 매몰됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OJ4SAWP6GFKPRI3X7CAIUOBMBQ.JPG?auth=25dbe11662afd091c630740f7f3d467e612b9abe0d9d11b873bc5f3ce1335c48&amp;smart=true&amp;width=1120&amp;height=687" type="image/jpeg" height="687" width="1120">
+        <media:description type="plain">(서울=뉴스1) 김명섭 기자 = 12일 오전울산화력발전소 붕괴 현장에서 수습된 매몰자를 병원으로 이송하기에 앞서 구조대원들이 도열해 거수경례와 묵념을 하고 있다. ( 소방청 제공. 재판매 및 DB 금지) 2025.11.12/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 김명섭 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>“싸이, 돌아와줘요” 관람 수입 더 걷으려다 후회하는 원주시</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/12/64UXDBYM5NEADG5AFSDOUNMYJQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/64UXDBYM5NEADG5AFSDOUNMYJQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 22:33:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCYMNGIXW6NJS6P7K4X4I3K5ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'싸이 흠뻑쇼 SUMMER SWAG 2025 - 인천'에서 가수 싸이와 블랙핑크 로제가 무대를 펼치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 싸이는 2023년과 2024년 여름 강원도 원주에서 콘서트 ‘흠뻑쇼’를 열었다. 하지만 올해는 속초에서 콘서트가 열렸는데, 원주시가 1년 전 공연 관람 수입의 10%를 추가 징수하도록 한 조례를 만들었기 때문이라는 이야기가 나온다. 조례 개정 후 대형 공연들이 자취를 감췄다는 지적이 제기되자 원주시는 1년 만에 해당 조례를 폐기했다. &lt;br&gt;&lt;br&gt;원주시의회는 지난달 28일 ‘원주시 체육시설 설치 및 운영 조례 일부 개정 조례안’을 원안 가결했다. 이에 따라 운동장이나 체육 시설에서 하는 대형 공연에 관람 수입의 10%를 추가 납부하도록 하는 원주시 조례가 1년 1개월 만에 폐기됐다. &lt;br&gt;&lt;br&gt;폐기된 조례는 원주종합운동장‧체육관, 치악체육관 등의 대관료와는 별도로 공연 수익이 나지 않더라도 무조건 관람 수입의 10%를 추가 징수하도록 했다. 시는 시설물 파손 문제를 해결하고, 세수 증대를 목표로 한다고 설명했지만, 공연 업계에서는 과도한 비용으로 지역 내 문화 저변을 축소시켰다는 지적이 나왔다. &lt;br&gt;&lt;br&gt;실제로 싸이 흠뻑쇼를 비롯해 원주에서 열렸던 나훈아, 심수봉, 장윤정 등 유명 가수들의 공연 역시 조례 개정 후 한 번도 열리지 않았다. &lt;br&gt;&lt;br&gt;조례 개정안을 대표 발의한 손준기 원주시의원은 “많은 예술인이 공연이나 콘서트를 준비하는 과정에서 비용 때문에 많이 부담스러워해서 원주시가 문화 예술의 기피 도시가 된 것 아닌가 싶었다”며 “이번 개정을 통해 시민의 문화 향유와 지역 경제가 활성화되길 기대한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘직무유기·국정원법 위반' 조태용 前국정원장 구속</title>
       <link>https://www.chosun.com/national/court_law/2025/11/12/7C3L5G2KRBAN5HO43RCFWJFOAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/7C3L5G2KRBAN5HO43RCFWJFOAA/</guid>
@@ -921,33 +952,6 @@
       <description/>
       <pubDate>Tue, 11 Nov 2025 01:19:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CW52HCJVZHKDIGEWHCWI4JU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오전 김영훈(사진 오른쪽에서 2번째) 고용노동부 장관이 현장 브리핑에서 발언하고 있다. /김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 낮 12시 울산화력발전소 붕괴 사고로 매몰된 작업자를 구조하기 위해 주변 보일러동(타워) 2기에 대한 발파가 이뤄진다. 정상적으로 발파 작업이 이뤄지면 현장 안정화 등을 거쳐 오후 2~3시쯤 구조 활동이 시작될 전망이다. &lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관(중앙사고수습본부장)은 이날 오전 9시 30분 현장 브리핑을 열어 이같이 밝혔다. 김 장관은 “보일러동(타워) 4·6호기 발파에 필요한 안전 진단을 실시했고, 발파 장소 인근 반경 1㎞ 내에 위치한 기관에 통보했다”고 말했다. 경찰은 주변 300m를 사람과 차량이 접근하지 못하도록 이른바 ‘진공’ 상태로 만들었다. 발파 1시간 전에는 울산 시민에게 재난 안전 문자도 발송할 예정이다. &lt;br&gt;&lt;br&gt;김 장관은 “발파 과정에서 폭발음과 진동이 발생할 수 있다”며 “울산 시민께 너른 양해를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VKNOXM7MIZCCFAWGF3GMPPUJVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 울산 남구 용잠동 한국동서발전 울산화력발전소 사고 현장 인근. 발파 1시간여를 앞두고 경찰이 인근 도로를 통제하고 있다. /김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발파 대상은 사고로 무너진 보일러동 5호기 옆에 30m 간격으로 떨어진 4호기와 6호기다. 당국은 전날까지 발파 작업 전 구조물을 원하는 방향으로 한 번에 넘어뜨리기 쉽도록 철골 구조물 등을 미리 잘라 놓는 취약화 작업을 벌였다. 현재 4·6호기 기둥 등에는 폭약도 설치된 상태다. &lt;br&gt;&lt;br&gt;발파 성공의 관건은 4·6호기가 바다와 반대쪽으로 넘어지면서 5호기 잔해 쪽을 피하는 것이다. 4·6호기 발파가 성공적으로 이뤄지면, 분진과 5호기 구조물 안정 상태 등을 살펴본 후 구조 작업이 이뤄질 전망이다. 당국은 발파 후 2~3시간이 흐른 뒤에 구조 작업이 이뤄질 것으로 예상했다. &lt;br&gt;&lt;br&gt;현재 무너진 5호기에 매몰된 작업자는 4명이다. 이 중 2명은 위치가 확인됐고, 2명은 아직 확인되지 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACBVIZMUCVE7ZAMA45HZ24UQWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 울산 남구 용잠동 한국동서발전 울산화력발전소 사고 현장 인근. 발파 1시간여를 앞두고 현장에 긴장감이 흐르고 있다. /김준호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방청 김승룡 중앙통제단장은 이날 구조 방법에 대해서도 설명했다. 먼저 4호기 방향 쪽에서 확인된 1명은 입구에서 4~5m 떨어진 곳에 위치한 것으로 확인했다. 이곳에는 고중량 철골 구조물 때문에 하중이 집중돼 있어 접근이 쉽지 않았던 것으로 전해졌다. 구조대는 이곳에 철골 구조물을 절단하고 해체해 접근한다는 계획이다. 다른 1명은 6호기 방향 쪽에서 확인됐다. 입구에서 3~4m 지점에 있다고 한다. H빔 절단기로 철근과 구조물을 해체해 진입로를 확보한다는 계획을 세웠다. &lt;br&gt;&lt;br&gt;위치가 확인되지 않은 나머지 2명에 대해서는 구조견과 매몰 탐지기 등을 활용해 앞서 발견된 작업자들의 위치를 중심으로 점차 수색 범위를 넓혀 나간다는 방침이다. 김 단장은 “소방에서는 24시간 구조 체계로 최대한 빠르게 요구조자를 구조하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“함께 만든 50년, 함께 여는 50년” 오는 15일 서울대 경영대학 50주년 기념 행사 개최</title>
-      <link>https://www.chosun.com/national/people/2025/11/11/JGQEOLAULRGRXCIJ4SPIQJGY4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/11/JGQEOLAULRGRXCIJ4SPIQJGY4Y/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 01:38:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNCROAT3FB5P5HMCCRSCQXUC6I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1946년 서울 성북구 종암동에서 출발해 지난 1975년 관악구 관악캠퍼스에 자리 잡은 서울대 경영대학이 오는 15일 50주년 기념 행사를 연다. ‘함께 만든 50년, 함께 여는 다음 50년’이라는 슬로건과 함께 경영대학의 미래를 위한 비전 선포의 장이 될 예정이다. &lt;br&gt;&lt;br&gt;서울대 경영대학이 오는 15일 오후 5시 서울대 관악캠퍼스 58동 수펙스홀에서 50주년 기념 행사를 연다. 채준 경영대 학장의 환영사를 시작으로, 유홍림 서울대 총장의 기념사, 김종섭 서울대 총동창회장의 축사가 이어질 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NBYNQS6QOVAYVJIH6E7I363C7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 경영대학 50주년 기념행사 식순. /서울대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 경영대학 50주년 기념 홍보 영상 상영과 공로패 수여, IAB(Industry Advisory Board·산학 협력 자문위원회) 소개와 채준 학장의 경영대 비전 소개가 진행된다. &lt;br&gt;&lt;br&gt;공로패는 서울대 경영대학 윤계섭 명예교수와 윤훈수 서울대 경영대학원 동창회장에게 수여될 예정이다. 윤계섭 명예교수는 서울대 경영대학이 관악캠퍼스에서 출발한 1975년부터 현재까지의 역사를 담은 책 ‘경영대학 50년사’를 집필했다. 그는 근로 장학생 2명과 함께 서울대 기록관 등에 보관됐던 자료, 경영대 교수 회의록 등을 직접 찾아 책 발간에 참고했다. 윤 교수는 ‘경영대학 50년사’ 자료 수집과 집필에 각각 2년과 6년, 총 8년을 썼다. 책은 행사 당일 참석자 전원에게 배포될 예정이다. &lt;br&gt;&lt;br&gt;윤훈수 회장은 경영대학원 동창회장으로 동문 사회의 발전과 화합에 기여한 점을 인정받아 공로패를 받는다. 삼일회계법인 대표이사인 윤 회장은 서울대 경영학과 83학번으로 1987년 삼일회계법인에서 회계사 생활을 시작했다. 지난 2021년부터 경영대학원 동창회장을 맡고 있다. &lt;br&gt;&lt;br&gt;이날 행사에선 채준 경영대 학장이 직접 ‘경영대학의 비전’ 소개에도 나선다. 채 학장은 다가올 50년을 이끌 5가지 핵심 가치로 ‘창조’ ‘도전’ ‘책임’ ‘세계’ ‘리더십’을 제시하며 글로벌 리더를 키우기 위한 방안을 이야기할 예정이다. 특히 서울대 경영대학은 글로벌 리더 육성을 위해 내년부터 ‘눈꽃이음장학생’ 5명을 선발해 한 번도 해외 경험이 없는 학생들에게 500만원을 지원할 계획인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“공동묘지인 줄, 낮에 봐도 무섭다” 부산 예술공원 사업에 주민 반발</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/11/DORKGC4JKZEALF2AYZL54DXNSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/DORKGC4JKZEALF2AYZL54DXNSQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 01:23:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSSTFGORAFAKPLRRRDROOZZIB4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;논란이 된 석조 유물들. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시가 기괴한 모습의 석조 유물 60여 점을 해안 산책로에 설치해 일부 주민이 반발하고 있다. &lt;br&gt;&lt;br&gt;11일 부산시 등에 따르면 부산시는 남구 이기대 일대를 세계적인 예술 공원으로 바꾸기 위한 ‘이기대 예술 공원’ 사업을 올해 초부터 추진하고 있다. &lt;br&gt;&lt;br&gt;이 과정에서 ‘옛돌스트리트’를 조성하겠다며 우리옛돌문화재단이 일본에서 환수해 기증한 석조 유물 60여 점을 용호동에 있는 ‘오륙도 해맞이 공원’ 해안 산책로 주변에 설치했다. &lt;br&gt;&lt;br&gt;설치된 석조 유물은 사대부 무덤 앞에 수호적 의미로 배치되는 ‘문인석’과 무덤 봉분 앞에 설치되는 석등인 ‘장명등’, 마을을 지키는 ‘석장승’, 관청이나 사찰에 불을 밝히는 용도인 ‘관솔등’ 등이었다.&lt;br&gt;&lt;br&gt;이들 유물 중 일부는 조선 초기와 중기의 것으로 일제강점기에 약탈당하거나 팔려나간 것을 2001년 옛돌문화재단 이사장이 환수해 최근 부산시에 기부했다.&lt;br&gt;&lt;br&gt;하지만 인근 아파트 일부 주민은 지역 커뮤니티를 통해 “공원이 공동묘지처럼 변했다” “낮에 봐도 으스스하다” “공원과 전혀 어울리지 않는다” 등의 반응을 보이고 있다. &lt;br&gt;&lt;br&gt;부산시 관계자는 조선닷컴과의 통화에서 “해당 유물들은 일본에서 환수한 것이고, 어디에 설치해야 할지 고민하다가 장소를 결정한 것”이라며 “장소가 과거 일본군이 주둔했던 곳이라 역사적 의미가 있다”고 설명했다. &lt;br&gt;&lt;br&gt;이 관계자는 “일부 주민이 부정적인 반응을 보이는 사실을 알고 있지만 긍정적인 반응을 보이는 분도 있다”며 “일단 더 홍보를 하고 그래도 시민들의 반대가 이어진다면 설치물 이전 등을 검토해보겠다. 현재는 이전 계획이 없다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>울산화력 4·6호기 오늘 낮 12시 발파...이후 매몰자 수색</title>
-      <link>https://www.chosun.com/national/labor/2025/11/11/H6CAT7PHEBCYRF4XTLSJHISX2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/11/11/H6CAT7PHEBCYRF4XTLSJHISX2M/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 01:24:59 +0000</pubDate>
-      <content:encoded>울산화력발전소 붕괴 사고 실종자 수색을 위해 오늘 낮 12시에 붕괴된 보일러 타워 양옆에 있는 타워 2기를 발파한다. 그동안 소방 당국은 두 타워가 추가로 붕괴할 위험이 있어 수색과 구조 작업에 난항을 겪었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCKHUETZ5VAP3AB5BOPA6ERQAE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7일 드론으로 촬영한 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장 모습. 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관(중앙사고수습본부장)은 이날 오전 브리핑에서 “4·6호기 발파에 필요한 안전 진단을 실시했고 발파 장소 인근 반경 1㎞ 내에 위치한 기관에 통보했다”고 말했다. 경찰은 안전을 위해 인근 도로를 통제하고 있는 상태다.&lt;br&gt;&lt;br&gt;발파 대상은 무너진 보일러 타워(5호기) 양옆에 있는 4호기와 6호기다. 두 타워는 발파 시 한 번에 쉽게 무너질 수 있도록 하는 취약화 작업이 진행됐다. 현장에는 약 130㎏의 폭약이 반입된 상태로, 발파는 특정 방향으로 붕괴를 유도하는 ‘지향성 발파’ 방식으로 진행된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K2EEOEJQXBILBNCRMJUEXSOSSQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김영훈 고용노동부 장관이 붕괴 사고 엿새째인 11일 오전 한국동서발전 울산화력발전소 앞에서 보일러 타워 4호기·6호기의 발파 시점 관련 중수본 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발파 후 소방 당국은 본격적인 구조 작업에 나설 예정이다. 대형 크레인 등 중장비를 이용해 5호기 잔해를 들어올린 뒤 수색을 진행한다. 지난 6일 발생한 붕괴 사고로 총 7명이 매몰됐고, 이 중 3명의 시신이 수습됐다. 현장에는 사망 추정 2명과 실종자 2명이 매몰되어 있는 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>조태용 前 국정원장, 영장실질심사 출석... 국정원법 위반 혐의</title>
