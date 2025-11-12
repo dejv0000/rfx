@@ -13,6 +13,58 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정성호 “노만석, 사퇴 뜻 있었다면 진작 장관의 지휘 정식 요구했어야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/12/6GHOFUDRWBC5TK3NHW3NBUJFOI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/6GHOFUDRWBC5TK3NHW3NBUJFOI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 13:34:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TUMSBC625GVBGZEZF6PHRJKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 12일 서울 여의도 국회에서 열린 법제사법위원회 전체회의에서 의원 질의에 답변하고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 12일 ‘대장동 항소 포기’ 사태 이후 사의를 표명한 노만석 검찰총장 직무대행에 대해 “사실 이해할 수가 없다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 이날 국회 법제사법위원회 전체회의에서 “(대행직에서 물러날) 그런 정도 의지가 있었다면 장관의 지휘를 서면으로 요구하든지 그래야 하는 것 아니겠나”라며 말했다. 수사지휘로 받아들였다면 정식 절차를 요구했어야 한다는 취지다.&lt;br&gt;&lt;br&gt;주진우 국민의힘 의원은 노 대행이 이진수 법무부 차관으로부터 사실상 항소 포기를 지시하는 전화를 받았다는 의혹을 언급하며 “없는 말을 지어낸 건가”라고 했다. 정 장관은 “노 대행이 어떤 얘기를 어떤 상황에서 했는지 잘 모르겠다”고 답했다.&lt;br&gt;&lt;br&gt;정 장관은 대장동 사건을 수사한 검사들과 항소 포기를 비판한 일선 검사들에 대한 조치 가능성도 시사했다. 정 장관은 “(대장동) 수사는 어떤 면에서는 성공한 수사였지만, 인권 침해라든가 위법·부당한 행위가 있었다는 주장도 있다”며 “별도로 저희가 조사해야 한다고 보고 있다”고 말했다. 또 “경위야 어쨌든 간에 일선 검사장들이 집단적으로 의견을 표명하는 것은 적절치 않다고 본다”라며 “사안을 엄중히 보고 있다”고도 했다.&lt;br&gt;&lt;br&gt;앞서 서울중앙지검은 ‘대장동 개발 비리’ 사건의 유동규 전 성남도시개발공사 기획본부장과 김만배씨, 남욱 변호사와 정영학 회계사 등 민간업자들의 1심 판결에 대해 항소하지 않았다. 이 과정에서 일선 수사·공판팀은 항소해야 한다는 의견을 냈지만, 법무부와 대검 등 지휘부가 부정적인 의견을 낸 것으로 알려지면서 외압 의혹으로 번졌다.&lt;br&gt;&lt;br&gt;노 대행은 항소 포기 닷새만인 이날 오후 사의를 표명했다. 대검은 “노 대행은 자세한 입장은 퇴임식 때 밝힐 예정”이라고 알렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박수홍 친형 “부모 보살필 형제 없다” 울먹… 檢, 항소심서 징역 7년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/12/QU3V2DBJIJB4RCQS7JDMDL3SFM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/QU3V2DBJIJB4RCQS7JDMDL3SFM/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 12:32:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FB45OMZH2JPNPO23IOQSJ6WTVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍의 친형 박 모 씨가 2023년 4월 19일 오후 서울 마포구 서부지방법원에서 열린 동생 박수홍 출연료 횡령 등 혐의 관련 5차 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 회삿돈 횡령 혐의를 받는 방송인 박수홍 친형의 항소심에서 징역 7년을 구형했다. &lt;br&gt;&lt;br&gt;서울고법 형사7부(부장판사 이재권)는 12일 특정경제범죄가중처벌법상 횡령 등 혐의로 재판에 넘겨진 박수홍 친형 박모(57)씨와 그의 배우자 이모(54)씨에 대한 항소심 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;검찰은 박씨에게 징역 7년을, 이씨에게는 징역 3년을 선고해 달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;검찰은 박씨에 대해 “장기간 다량의 돈을 반복해서 횡령했음에도 박수홍을 위해 사용했다는 허위 주장을 하며 용처를 은폐했고, 피해 회복도 이뤄지지 않았다”고 했다. 이어 “피고인의 양태로 연예인 박수홍의 이미지가 손상될 수 있음에도 피고인은 피해자를 탓하는 등 태도가 불량했으나, 초범인 점을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;이씨에 대해선 “남편과 장기간 다량의 돈을 횡령했음에도 자신은 명예 사원일 뿐이고 가정주부라고 하는 등 모순된 주장을 하고 있으며, 악성 댓글도 게시했다”고 했다. 다만 “이전에 형사처벌 전력이 없고, 남편 박씨가 주범인 점을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;박씨 부부 변호인은 “박씨의 업무상 횡령 혐의는 부정할 수 없지만 대부분의 금원이 고소인(박수홍)에게 전달된 점, 고소인이 가압류를 걸어서 변제가 늦어지는 점 등을 고려해달라”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;박씨는 최후 진술에서 “모든 책임은 제가 져야 하는 걸 알지만, 연로하신 부모님을 보살필 형제도 없다. 이 사건으로 모든 가족들이 감당하기 힘든 일을 겪고 있다. 선처를 부탁드린다”고 말하며 울먹였다.&lt;br&gt;&lt;br&gt;이씨는 “4년이 넘는 긴 시간 동안 저희 가족은 일상생활이 멈춘 삶을 살아왔다. 뉴스를 보는 것도 두려운 현실이었다”며 “무엇보다 아파도 겉으로 내색 못 하는 자녀를 볼 때마다 가슴이 찢어지지만, 저희는 사랑하는 가족이니 서로 힘이 되어주려 노력하며 버티고 있다. 남은 인생 엄마로서 아이들을 잘 돌보게 해달라”고 했다.&lt;br&gt;&lt;br&gt;이날 법정에 참석한 박수홍 측 대리인은 “박수홍은 피고인들의 범죄 행위로 피땀 흘려 가꾼 30년 청춘이 부정당하고 부모, 형제와의 연이 끊겼다. 사랑하는 사람과 결혼하고 아이를 낳는 평범한 행복을 50세가 넘어서야 할 수 있었다”며 “피고인들이 잘못을 모두 인정하고 박수홍에게 진심으로 사과하지 않는 이상 엄벌에 처해 달라”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 다음 달 19일 항소심 선고공판을 열 예정이다.&lt;br&gt;&lt;br&gt;박씨는 2011년부터 2021년까지 동생 박수홍의 매니지먼트를 맡으며 회삿돈과 개인 자금 등 약 62억 원을 빼돌린 혐의로 2022년 10월 재판에 넘겨졌다. 이씨도 일부 횡령 가담 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 작년 2월 법인카드를 통한 회사 자금 21억원 횡령 혐의만 인정하고 박씨에게 징역 2년을 선고했다. 다만 박수홍의 개인 계좌 4개를 관리하면서 16억원 상당의 개인 자금을 사적으로 유용한 부분은 무죄라고 판단했다. &lt;br&gt;&lt;br&gt;박수홍 형수 이씨에 대해선 회사 운영에 적극 가담하지 않은 것으로 보여 공범의 증명이 어렵다며 무죄를 선고했다. &lt;br&gt;&lt;br&gt;박씨 부부와 검찰이 1심 판결에 불복해 쌍방 항소하며 2심이 열리게 됐다．&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘8조 재산’ 스마일게이트 권혁빈, 이혼 소송 본격 시작... 첫 변론기일, 12분 만에 끝나</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/12/5ZYKEPTA25GCDJAMDFBNJD5GKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/5ZYKEPTA25GCDJAMDFBNJD5GKA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 12:44:42 +0000</pubDate>
+      <content:encoded>서울가정법원 가사3부(재판장 정동혁)는 12일 스마일게이트 그룹 창업자인 권혁빈(51) 희망스튜디오 이사장의 배우자 이모씨가 낸 이혼소송의 첫 변론기일을 열었다. 2022년 11월 이씨가 소송을 낸 지 3년 만이다. 이날 재판은 비공개로 진행됐고, 오후 5시 3분쯤 시작해 12분 만에 종료됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTIOLGMFTGGZJWGI3TKMBZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스마일게이트 그룹 창업자인 권혁빈 희망스튜디오 이사장이 지난 2019년 7월 중국 시안시 취장신구 국제 컨벤션센터에서 열린 'WCG 2019' 폐막식에 참가한 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이씨 측은 재판 후 기자들과 만나 “구체적인 논의는 없었고, 앞으로 어떻게 진행할지 쟁점을 정리했다”고 답했다. 이어 “유책 사유에 대해선 공개가 불가능하다”며 “권 이사장 측에서는 이혼의 기각을 구하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;권 이사장 측이 이씨가 경영에 실질적으로 참여하지 않았다고 주장한 데 대해서는 “(대표이사 자리에 있었던 건) 등기부에도 다 나오는 것”이라며 “지분도 다 갖고 있고, 그건 다 확인이 가능하다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 법원은 비상장사인 스마일게이트홀딩스의 기업 가치를 평가하기 위해 재산 감정 절차를 밟았고, 권 이사장의 재산은 8조원 수준 평가를 받는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이씨는 자신이 스마일게이트의 공동 창업자라고 주장하며 권 이사장이 보유한 스마일게이트홀딩스 지분의 절반을 요구하는 것으로 알려졌다. 이씨는 이혼소송을 내면서 권 이사장이 주식을 처분하지 못하도록 주식처분금지 가처분도 신청했고, 법원은 이를 받아들인 바 있다. 다만 이씨 측은 기여도에 대해선 “아직 법원에서 본격적인 공방이 벌어진 건 아니다”라고 했다.&lt;br&gt;&lt;br&gt;1974년생인 권 이사장은 1999년 서강대 전자공학과를 졸업하고 2002년 스마일게이트를 창업했다. 지주회사인 스마일게이트홀딩스 대표이사 등을 거쳐 2017년 공익사업 재단인 희망스튜디오 이사장으로 취임했다. 2020년에는 스마일게이트 비전제시최고책임자(CVO)로도 취임했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“신라 금관 6점 모두 본향(本鄕)인 경주에 있어야”… 서명 등 시민운동 점화</title>
+      <link>https://www.chosun.com/national/regional/2025/11/12/UZJAJ7BGDNBI5H4E3TOP5RYR74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/12/UZJAJ7BGDNBI5H4E3TOP5RYR74/</guid>
+      <dc:creator>경주=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 11:56:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCKZFDTW7NG4HHINWQ4JNDIR4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 도널프 트럼프 미국 대통령에게 선물한 ‘천마총 금관 모형’의 실물을 볼 수 있는 ‘신라 금관, 권력과 위신’ 특별전의 일반공개가 시작된 첫날인 2일 오전 국립경주박물관 입구가 관람객들로 넘쳐나고 있다./국립경주박물관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“신라 금관 6점 모두 본향(本鄕)인 경주에 있어야 합니다.”&lt;br&gt;&lt;br&gt;아시아태평양경제협력체(APEC) 정상회의에 맞춰 국립경주박물관에 특별전 형태로 전시되고 있는 신라 금관 6점을 계속해서 경주에 전시하도록 하자는 움직임이 지역에서 생겨나고 있다. &lt;br&gt;&lt;br&gt;지금까지 발굴된 신라 금관 6점이 최초로 한자리에 모인 이번 특별전은 지난달 28일부터 APEC에 참석한 각국 정상 등을 대상으로 먼저 시작했고, 지난 2일부터 일반인에게 공개됐다. 이 특별전은 다음 달 14일까지 진행된다. &lt;br&gt;&lt;br&gt;특별전에 모인 금관 6점 중 금관총·교동·천마총에서 발견된 금관은 국립경주박물관에 있지만, 금령총·황남대총에서 발견된 금관은 국립중앙박물관, 서봉총 금관은 국립청주박물관에서 평소 전시되고 있다. 이에 특별전 이후에도 나머지 3개 금관을 평소 전시되던 곳이 아닌 경주박물관에 그대로 전시하도록 하자는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QUKIBDWGE5GOHHPYF4RZISBKCA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;지난 달 27일 오전 경북 경주시 국립경주박물관 신라역사관에서 열린 ‘신라 금관, 권력과 위신’ 특별전 미디어데이에서 참석자들이 전시된 신라시대 금관을 둘러보고 있다. 이번 특별전은 신라 금관이 세상에 처음 알려진 지 104년 만에 6점의 금관이 한자리에 모여 전시되는 사상 최초의 자리다./김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 경북 경주시 등에 따르면, A씨는 지역 온라인 커뮤니티에 ‘신라 금관은 경주에 있어야 합니다’란 청원 글을 올렸다. A씨는 청원을 통해 “신라 금관 6점이 100여 년 만에 원래 있어야 할 경주에 모였다. 경주는 신라의 수도이자 금관 출토지로 ‘발굴지-전시장 일체형 보존 원칙’을 실현할 수 있는 유일한 도시인 만큼 특별전 종료 이후에도 신라 금관이 경주에 머물 수 있도록 경주시와 관계 기관의 적극적인 협의를 요청한다”고 밝혔다. A씨는 청원과 함께 온라인 서명에 나섰으며 이날 오후 5시 기준 460명이 참여했다고 한다. &lt;br&gt;&lt;br&gt;A씨는 “이 금관들은 모두 경주에서 출토된 유물로, 그 본향에서 상설 전시되는 것이 가장 합당하다”며 “투쟁이 아니라 문화 도시에 의식 있는 시민들의 뜻이 모이고 있다”고 말했다. &lt;br&gt;&lt;br&gt;이경희 경주시의회 행정복지위원장도 “신라 금관 특별전을 계기로 금관을 경주에 두고 전시할 필요가 있다고 말하는 시민이 적지 않다”면서 “시의회 차원의 입장 발표도 추진 중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;경주 지역 청년 단체나 문화 단체도 신라 금관 상설 전시를 위한 운동에 나서기로 하고 구체적인 논의를 진행 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/QUKIBDWGE5GOHHPYF4RZISBKCA.JPG?auth=af2227a72a4e7e01dab435a58a67b7c12deb5d93544bf4b4a33d49ba60a8eb6f&amp;smart=true&amp;width=4101&amp;height=2294" type="image/jpeg" height="2294" width="4101">
+        <media:description type="plain">지난 달 27일 오전 경북 경주시 국립경주박물관 신라역사관에서 열린 ‘신라 금관, 권력과 위신’ 특별전 미디어데이에서 참석자들이 전시된 신라시대 금관을 둘러보고 있다. 이번 특별전은 신라 금관이 세상에 처음 알려진 지 104년 만에 6점의 금관이 한자리에 모여 전시되는 사상 최초의 자리다./김동환 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>아시아 킥복싱·무에타이 챔피언, 울산서 맞붙는다</title>
+      <link>https://www.chosun.com/national/regional/2025/11/12/OKSDDSDDLNCCHN36XM4TAH4T4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/12/OKSDDSDDLNCCHN36XM4TAH4T4U/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 10:52:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPF5AWPNHNBSDNO4SAR4IZKRAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;K-COMBAT 세계프로킥복싱·무에타이총연맹이 오는 29일 오후 2시 울산 문수실내체육관 특설링에서 2025 K-COMBAT 아시아 챔피언십 울산대회를 연다. /세계프로킥복싱무에타이총연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 세계프로킥복싱·무에타이 아시아 챔피언십 대회가 울산에서 열린다.&lt;br&gt;&lt;br&gt;K-COMBAT(케이콤바트) 세계프로킥복싱·무에타이총연맹은 오는 29일 오후 2시 울산 문수실내체육관 특설링에서 ‘2025 K-COMBAT 아시아 챔피언십 울산대회’를 개최한다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;대회는 K-COMBAT와 울산광역시킥복싱협회가 주최·주관하며, 울산시와 남구, 울산시체육회, 대한킥복싱협회 등이 후원한다.&lt;br&gt;&lt;br&gt;태권도, 킥복싱, 무에타이 등 다양한 종목에서 실력을 쌓은 선수들이 참가하며, 한국, 일본, 태국, 중국의 챔피언들이 출전해 아시아 최강을 가린다. 특히 태국과 일본, 한국의 챔피언들이 참여해 수준 높은 경기가 예상된다.&lt;br&gt;&lt;br&gt;올해 대회의 백미는 4명의 챔피언이 맞붙는 빅매치 ‘파이널 킹4 오브 챔피언스’다.&lt;br&gt;&lt;br&gt;K-COMBAT 주니어 웰터급·GKMC 챔피언 여성민(25·김해 소룡체육관), K-COMBAT·KTK 챔피언 장덕준(30·부산 싸이코 핏불스), 세계프로킥복싱·무에타이총연맹 주니어 웰터급 챔피언 허건모(21·경북 팀에이스), IKMF·TOS 챔피언 강범준(28·인천 야크짐)이 출전한다.&lt;br&gt;&lt;br&gt;한국의 김동수(울산팀프레셔)와 중국 시에보(무림 컨퍼린스)가 한·중 국제전을 벌이며, &lt;br&gt;&lt;br&gt;권용철 안동체육관 선수와 태국의 좀피치는 한·태 국제전에서 맞붙는다. &lt;br&gt;&lt;br&gt;한·일 여성 챔피언전에서는 서울 강남펀짐 김지선과 일본의 타니오카 나호코가 맞붙는다. 울산 출신 선수로는 청호체육관 이민석과 울산킹콩짐 이국희 등이 참가한다. 대회 기간 지역 모범 청소년에게 장학금도 전달된다.&lt;br&gt;&lt;br&gt;송상근 세계프로킥복싱·무에타이총연맹 중앙회장은 “세계적인 선수들의 박진감 넘치는 경기를 직접 보고 즐길 수 있는 기회가 될 것”이라며, “이번 대회를 통해 국내를 넘어 아시아를 대표하는 국제 챔피언십으로 도약하겠다”고 말했다.&lt;br&gt;&lt;br&gt;송 회장은 킥복싱 9단이자 무에타이 자격을 갖춘 격투기 전문가다. 경찰 재직 시절 1999년 울산 최대 폭력조직 신목공파 60여명을 소탕하고 200여명을 검거해 대통령 표창을 받았다. 현재 울산시 자치경찰위원회 위원으로 활동하며, 8년째 이 대회를 개최하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNOC7PYR75G6ZFQCYHCNNEDAGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송상근 중앙회장. /세계프로킥복싱무에타이총연맹&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NPF5AWPNHNBSDNO4SAR4IZKRAU.jpg?auth=2d72294222e81ccdd8f8e2c693fb7876dbb3fcfefbefd0bc340c511974380e50&amp;smart=true&amp;width=1200&amp;height=1702" type="image/jpeg" height="1702" width="1200">
+        <media:description type="plain">K-COMBAT 세계프로킥복싱·무에타이총연맹이 오는 29일 오후 2시 울산 문수실내체육관 특설링에서 2025 K-COMBAT 아시아 챔피언십 울산대회를 연다. /세계프로킥복싱무에타이총연맹</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>[속보] 내란 특검, 황교안 전 총리 구속영장 청구</title>
       <link>https://www.chosun.com/national/court_law/2025/11/12/X7S4VRDRKVE2JEPLZYO3VON47U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/X7S4VRDRKVE2JEPLZYO3VON47U/</guid>
@@ -841,33 +893,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AM26NI4UPJHW3O4NQAZOR3XH7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] be drawn to ~</title>
-      <link>https://www.chosun.com/national/nie/english/2025/11/12/MQSIXZRIL5FKTL4AVVHTOZLTG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/11/12/MQSIXZRIL5FKTL4AVVHTOZLTG4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W7LEXBX5SNEJDJTIEJNAO7ABIQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 마늘 다질 땐 소금을 살짝</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/11/NZWOKFOMIVAKLHB5FMWP5GO4NI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/NZWOKFOMIVAKLHB5FMWP5GO4NI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 14:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XZ5MIYQSIBDVJKJJOA5IZ2H4LM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마늘을 다질 때 소금을 한 꼬집 넣어보자. 소금 결정이 마늘 향을 더 살려주고, 세균 증식을 막아 오래 보관할 수 있게 해준다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의날씨] 2025년 11월12일</title>
-      <link>https://www.chosun.com/national/education/2025/11/11/IQ2B4FNFGZGNJHDDB7EDN53RVQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/11/IQ2B4FNFGZGNJHDDB7EDN53RVQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 14:32:00 +0000</pubDate>
-      <content:encoded>전국 대체로 맑음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6GV72BPJYBGNHFOVEFHCRNBDZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>尹 측 “임성근 처벌 언급 안 해… ‘구명 로비’ 사실 아냐”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/11/BKMJWIQ5CZBXJHZQDP5L42ZDOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/11/BKMJWIQ5CZBXJHZQDP5L42ZDOM/</guid>
@@ -938,28 +963,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTGGNLBMJSTOOJUGJRTMMTBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;성남시청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시가 검찰의 대장동 사건 항소 포기로 부당이득 환수에 차질이 생겼다고 보고 검찰이 수사 당시 대장동 일당으로부터 몰수보전해 놓은 2070억원에 대해 가압류를 추진한다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;몰수 보전은 범죄로 얻은 불법 재산을 형 확정 전에 빼돌릴 가능성에 대비해 임의로 처분하지 못하도록 동결하는 조치다.&lt;br&gt;&lt;br&gt;주요 피고인별로는 김만배 1250억원, 남욱 514억원, 정영학 256억원으로 알려졌다. &lt;br&gt;&lt;br&gt;또 성남시는 성남도시개발공사와 함께 검찰의 항소 포기와 관련, 직무 유기, 직권남용 혐의로 고위공직자범죄수사처에 고소 및 고발도 추진하기로 했다. &lt;br&gt;&lt;br&gt;앞서 신상진 성남시장은 지난 10일 검찰이 대장동 사건 1심 선고와 관련, 항소를 포기하자 “검찰 본연의 책무를 포기한 직무 유기”라며 “면죄부를 주는 부당한 결정”이라고 했다.&lt;br&gt;&lt;br&gt;신 시장은 “1심 재판에서 검찰은 성남시 수뇌부 등이 민간업자들과 결탁해 성남시와 성남도시개발공사에 4895억원에 달하는 손해를 끼쳤다고 주장했고, 재판부는 배임액에 대한 특정 없이 사실관계를 인정했으나, 검찰이 성남시민의 재산상 손해를 확정 지을 기회인 항소를 돌연 포기했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/GZTGGNLBMJSTOOJUGJRTMMTBMI.jpg?auth=e3b1fab6f6be635500ba415ef1076b6a778e2e5db07658e82000bf0e0875f2de&amp;smart=true&amp;width=2268&amp;height=1510" type="image/jpeg" height="1510" width="2268">
         <media:description type="plain">성남시청 전경.(성남시 제공. 재판매 및 DB금지)/뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>日 모녀 비극에 이어 또… 택시 충돌로 일본인 아기 중태</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/11/DEQHLKNS3BBTPJP2B64BZJ4WQM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/DEQHLKNS3BBTPJP2B64BZJ4WQM/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 12:26:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3S3T4HQY5BQBRYELTMITXUV3PY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 용산경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령 운전자가 몰던 택시가 중앙선을 넘어 마주 오던 차를 들이받으면서 일본인 부부와 아기가 크게 다친 것으로 전해졌다. &lt;br&gt;&lt;br&gt;서울 용산경찰서는 페달 오조작으로 교통사고를 낸 혐의(교통사고처리특례법상 치상)로 70대 택시 기사 A씨를 입건해 조사 중이라고 11일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난달 21일 저녁 용산구의 한 도로에서 중앙선을 넘어가 반대 방향에서 달려오던 승용차와 부딪친 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 사고로 택시에 타고 있던 일본인 20대 부부가 골절상을 입었다. 이들의 생후 9개월 된 딸은 의식을 잃은 상태로 병원으로 옮겨졌고 현재까지 중태인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;사고 직후 A씨는 급발진이라고 주장했지만 조사 과정에서 페달을 잘못 밟았다는 취지로 진술을 바꾼 것으로 전해졌다. A씨에게서 마약이나 음주 정황은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “정확한 사고 경위를 파악하고 있다”며 “구속영장 신청 여부는 추가로 검토해봐야 한다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 지난 2일 서울 종로구 동대문역 인근에서 일본인 관광객 모녀가 음주 운전 차량에 치여 50대 어머니가 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국에 군사기밀 넘기고 1800만원 받은 병사 징역 5년</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/11/43FMKMKY5FFOHMH5T4LXRKU3MA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/11/43FMKMKY5FFOHMH5T4LXRKU3MA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 11:10:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A3P7MKBOAFOFDPWKG3HWJPWSTY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;'을지 자유의 방패(UFS) 2025년 훈련'을 실시한 지난 8월 18일 경기 평택시 주한미군 오산공군기지에서 F-16 전투기가 착륙하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중국 정보조직에게 군사 기밀을 넘기고 돈을 받은 병사가 징역 5년형을 선고받았다.&lt;br&gt;&lt;br&gt;제3지역군사법원은 11일 일반 이적과 군기 누설, 부정처사 후 수뢰, 정보통신망법 위반, 성매매처벌법 위반 등 혐의로 기소된 병장 A씨에게 징역 5년과 1800여 만원 추징명령을 내렸다.&lt;br&gt;&lt;br&gt;A씨는 지난해 8월 휴가 기간 중국 베이징에서 만난 중국 정보조직 조직원에게 군사 기밀을 넘기기로 약속하고 부대로 돌아와 한미 연합 훈련 ‘을지 자유의 방패(UFS)’ 관련 군사 기밀을 유출한 혐의로 재판에 넘겨졌다. A씨는 군사 기밀 유출 대가로 7차례에 걸쳐 1800여 만원을 받았다.&lt;br&gt;&lt;br&gt;A씨가 유출한 문건은 주한 미군 주둔지 명칭과 병력 증원 계획, 유사시 적 정밀 타격 대상이 될 수 있는 표적 위치 등이 포함된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 한미 연합 훈련 업무 담당자들의 소속과 계급, 성명, 연락처 등 개인 정보와 한미 연합사령부 교범 목록 등도 유출한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 혐의를 부인했지만 법원은 받아들이지 않았다. 재판부는 “국방의 의무를 수행하는 현역 군인이 오히려 대한민국의 안전을 위협하는 세력에 동의했다는 점에서 그에 합당한 처벌이 반드시 필요하다”고 지적했다.&lt;br&gt;&lt;br&gt;이어 “특히 중국으로 건너가 조직원과 세 차례 접촉하고 이적 대가로 상당한 금액을 수수한 점, 범행을 쉽게 하기 위해 장비를 무단으로 영내에 반입하는 등 조직적으로 치밀하게 범행했다는 점에서 죄질이 매우 좋지 않다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/A3P7MKBOAFOFDPWKG3HWJPWSTY.JPG?auth=40cba10133a5d0b8af002ff7dd08117bf1811733b8860023eb71413cb9529d61&amp;smart=true&amp;width=4615&amp;height=2610" type="image/jpeg" height="2610" width="4615">
-        <media:description type="plain">'을지 자유의 방패(UFS·을지프리덤실드) 2025년 훈련'을 실시한 지난 8월 18일 경기 평택시 주한미군 오산공군기지에서 F-16 전투기가 착륙하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(평택=뉴스1) 김영운 기자</media:credit>
       </media:content>
     </item>
     <item>
