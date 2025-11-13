@@ -13,6 +13,85 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마라톤 연습 중 교통사고 당한 60대...장기기증으로 5명에 새 생명</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/13/7J7CPE5HPRBQLAB6AYFAKLS33I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/7J7CPE5HPRBQLAB6AYFAKLS33I/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 05:14:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HIYJMBNKMJEMBFABN2J6O2MNYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뇌사장기기증으로 5명 살린 김남연씨./한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마라톤 연습을 하다 교통사고를 당해 뇌사 상태에 빠진 60대 남성이 장기 기증으로 5명에게 새 생명을 선물하고 세상을 떠났다.&lt;br&gt;&lt;br&gt;13일 한국장기조직기증원에 따르면 지난 9월 19일 대구가톨릭대병원에서 김남연(62)씨가 폐, 간, 좌우 신장, 안구를 5명에게 기증하고 숨졌다. &lt;br&gt;&lt;br&gt;김씨는 지난 9월 14일 새벽 마라톤 연습을 마치고 집으로 돌아가던 길에 교통사고를 당해 의식을 잃었다. 곧바로 병원으로 옮겨져 집중 치료를 받았지만 끝내 의식을 회복하지 못했고, 뇌사 상태에 이르렀다.&lt;br&gt;&lt;br&gt;고인은 이미 2009년 장기 기증 희망 등록을 마친 상태였다. 생전 가족과 지인들에게도 “생명 나눔을 통해 다른 생명을 살릴 수 있다면 생애 가장 큰 행복일 것”이라고 자주 말해 왔기 때문에 유족은 이러한 뜻을 존중해 장기 기증을 받아들이기로 했다.&lt;br&gt;&lt;br&gt;경북 성주군에서 태어난 김씨는 넉넉지 않은 형편 탓에 어린 나이부터 생업에 뛰어들었다. 최근까지도 산불 지킴이, 건설 현장 근로자 등으로 일하며 줄곧 현장을 지킨 ‘성실한 가장’이었다고 한다. 주변을 잘 챙기는 성격이었던 그는 수화 자격증을 취득해 인근 청각 장애인들을 돕는 데에도 힘써 왔다고 유족은 전했다. &lt;br&gt;&lt;br&gt;60대에 접어든 나이에도 건강 관리를 게을리하지 않았다. 마라톤 풀코스를 3시간 45분 안에 완주하는 것을 목표로 세운 뒤, 매일 새벽 4시면 집을 나서 17㎞를 약 2시간 동안 달리는 고강도 훈련을 이어왔다고 한다. &lt;br&gt;&lt;br&gt;고인의 형 김홍연씨는 “삶의 끝에서 다른 생명을 살린다는 멋진 생각을 한 동생이 자랑스럽다”며 “모든 것을 주고 갔지만 모든 걸 가진” 동생이 하늘에서 편히 쉬길 기원했다. 가족들은 고인의 뜻에 함께하기 위해 자신들처럼 갑작스럽게 가족을 잃고 힘들어하는 다른 기증자의 자녀들에게 장학금을 후원하고 싶다는 뜻을 전했다고 기증원은 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산화력 붕괴 사고 일주일 만에, 동서발전·HJ중공업 뒤늦은 사과</title>
+      <link>https://www.chosun.com/national/regional/2025/11/13/NKYHLRH2XBCABK3EWOLGJKBCSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/13/NKYHLRH2XBCABK3EWOLGJKBCSE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:41:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IBNJOILUZFLSNAA5L2UTQOYI6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;동서발전 울산화력발전소 보일러 타워 붕괴 사고 8일째인 13일 오전 한국동서발전 권명호 사장(오른쪽 세번째)과 임원진이 발전소 후문 앞에서 고개 숙여 사과하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국동서발전과 HJ중공업이 울산화력발전소 붕괴 사고와 관련해 13일 국민과 유가족에게 공식 사과했다. 사고가 발생한 지 일주일만이다.&lt;br&gt;&lt;br&gt;동서발전은 이번에 붕괴사고가 난 보일러 타워 해체 공사의 발주처다.&lt;br&gt;&lt;br&gt;권명호 동서발전 사장은 이날 오전 사고 현장 앞에서 기자회견을 갖고 “국민께 심려를 끼쳐드려 매우 송구스럽다”며 사과했다. 이어 “유명을 달리하신 고인분들에 대해 명복을 빌며, 유가족 여러분께 깊은 애도의 뜻을 전한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ3HXEX5AFJEHHJX3TXQTYNHOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;권명호 한국동서발전 권명호 사장(가운데)과 임원진이 발전소 후문 앞에서 사고 후 처음으로 입장을 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;권 사장은 “모든 임직원은 유가족·피해자 지원과 현장 수습이 신속하게 이뤄지도록, 시공 관계자와 협력해 전사 차원의 모든 지원을 다 하고 있다”며 “사고 원인을 명확히 하고, 그 결과를 토대로 실효성 있는 대책을 마련하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “노후 발전설비 폐지와 해체는 불가피한 과제”라며 “이번 사고의 아픔이 되풀이되지 않도록 폐지 과정의 모든 절차를 재점검하고, 안전 최우선을 확립해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;법적 책임 여부를 묻는 취재진에겐 “관계 기관에서 조사 중인데 수사 결과에 따라 감당할 부분은 감당하겠다”고 답했다.&lt;br&gt;&lt;br&gt;시공사인 HJ중공업도 이날 사고 현장에서 사과 입장을 밝혔다.&lt;br&gt;&lt;br&gt;김완석 HJ중공업 대표이사는 “평생 씻을 수 없는 상처를 안게 되신 유가족 여러분께 뼈를 깎는 심정으로 사죄드린다”며 “마지막 실종자분을 가족의 품으로 돌려보내 드리기 위해 모든 역량을 쏟아붓고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY2TOODCGU3WGNBRGVRTAMLBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김완석 HJ중공업 대표이사가 13일 울산화력본부 보일러 타워 붕괴사고 현장 앞에서 유가족에게 사과하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “하루빨리 구조 작업을 마무리하고 다시 입장을 말씀드리겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 동서발전 울산화력발전소에선 높이 63m, 가로 25ｍ, 세로 15.5ｍ 규모 보일러 타워 5호기가 붕괴해 당시 현장에 있던 작업자 9명 중 2명은 살아서 구조됐으나 7명이 매몰됐다. 매몰된 7명 중 6명의 시신은 수습됐으나, 1명은 실종 상태다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XOEYBURFDBO25KKTWZ76BXBV7I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김완석 HJ중공업 대표이사가 13일 울산화력본부 보일러 타워 붕괴사고 현장 앞에서 대국민 사과를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘구독료 중도 환불’ 숨긴 카카오, 공정위 시정명령 대법서 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/13/H6SIWNNTMFC2PFYAMKZCAOGD5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/13/H6SIWNNTMFC2PFYAMKZCAOGD5E/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:31:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMTUYXMY3RFQJKDRUDHJV74WME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 정기 구독 서비스의 중도해지와 환불을 어렵게 만든 카카오에 대한 공정거래위원회의 시정명령을 확정했다. 다만 과징금 부과는 요건을 갖추지 못해 위법하다고 판단했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 13일 카카오가 공정위의 제재를 취소해달라며 낸 소송 상고심에서 시정명령과 과징금 모두 적합하다고 판단한 원심 판결 중 과징금 부분을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;카카오는 2016년 음원 스트리밍 업체 ‘멜론’을 인수한 뒤 2017년 5월~2021년 5월 카카오톡 앱과 멜론 앱·웹 등을 통해 정기 결제형 음원 서비스를 판매했다. 그런데 앱으로 서비스 해지를 신청하는 경우 곧바로 해지·환불을 해주는 게 아니라 다음 달부터 자동 결제가 끊어지게 했다. 즉시 해지하고 남은 기간 구독료를 환불해주는 ‘중도해지’는 PC웹과 고객센터에서만 가능했고, 앱에서는 중도해지가 가능하다는 안내도 하지 않았다. &lt;br&gt;&lt;br&gt;공정위는 이를 ‘기만적 방법으로 소비자의 계약해지를 방해한 행위’로 판단하고 시정명령과 함께 과징금 9800만원을 부과했다. 전자상거래법상 위반 행위가 반복된 경우 영업정지 명령을 할 수 있고, 영업정지가 소비자에게 심각하게 불편을 주는 경우 과징금으로 대체할 수 있게 돼 있다.&lt;br&gt;&lt;br&gt;카카오 측은 제재 처분에 불복해 서울고법에 행정소송을 냈다. 소송에서 “중도해지 방법을 고객센터나 FAQ 게시판에 공지했고 소비자를 속이려는 의도가 없었다”고 주장했다. 그러나 서울고법은 지난 1월 “실제로 소비자가 해지를 못하게 됐는지 여부와 무관하게 소비자를 오인시킬 우려가 있으면 전자상거래법 위반”이라고 했다. 대법원도 이 같은 판단에 법리 오해가 없다고 봤다.&lt;br&gt;&lt;br&gt;다만 대법원은 공정위가 영업정지 대신 과징금을 물린 것은 위법하다고 판단했다. 카카오는 공정위 처분이 있기 전인 2021년 3월 음원 사업 부문을 ‘멜론컴퍼니’로 분할했고, 공정위는 영업정지의 실효성이 없다고 보고 대신 과징금을 물렸는데 대법원은 이런 처분에 법적 근거가 없다고 봤다.&lt;br&gt;&lt;br&gt;대법원은 “법령상 영업정지가 소비자에게 심한 불편을 줄 우려가 있는 경우에만 영업정지 대신 과징금을 부과할 수 있도록 한정적으로 규정하고 있다”면서 “회사 분할로 영업정지 처분이 실효성을 잃은 경우까지로 확대 해석해선 안 된다”고 했다. 그러면서 “과징금은 침익적(侵益的) 행정처분이기 때문에 상대방에 불리하게 확대 해석할 수 없다”며 “공정위의 이번 과징금 처분은 요건을 갖추지 못해 위법하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 광안대교, 더 화려한 조명으로 가을 밤하늘 수놓는다 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/13/QR6GI4J5IFEM3O3VZBBPGGAQSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/13/QR6GI4J5IFEM3O3VZBBPGGAQSU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:46:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTMZLBHAYWENZUGNRTEMJYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 광안대교. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 랜드마크인 광안대교가 12년 만에 새 단장했다.&lt;br&gt;&lt;br&gt;부산시는 광안대교 엘이디(LED) 개선 사업을 마치고 이달부터 운영에 들어갔다고 13일 밝혔다. 기존 경관조명은 2013년 12월에 설치됐다. 이번 개선 사업은 12년 만이다. 총 사업비는 107억원이다. &lt;br&gt;&lt;br&gt;부산시는 광안대교 등기구를 기존 7011등에서 1만3465등으로 2배 가량 늘렸다. 조명 간격도 기존 1ｍ에서 0.5ｍ로 좁혀 촘촘하게 배치했다. &lt;br&gt;&lt;br&gt;부산시 관계자는 “색감과 해상도를 한층 높였다”고 했다. &lt;br&gt;&lt;br&gt;이를 통해 15일 열리는 부산 불꽃축제에서 광안대교의 조명 연출과 어우러져 시각적 완성도를 높일 것이라고 시는 기대했다. &lt;br&gt;&lt;br&gt;부산시 김현재 관광마이스국장은 “부산 밤바다를 배경으로 세계적 수준의 야관 경관이 펼쳐질 것”이라며 “더 많은 외국인 관광객을 유치하고, 광안대교를 다시 찾고 싶은 부산의 특별한 명소로 도약시키겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 필적확인 문구는 ‘초록 물결이 톡톡 튀는 젊음처럼’</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/13/2M5Q7LH33VDS3DMPAPHWG4EBDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/2M5Q7LH33VDS3DMPAPHWG4EBDQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:12:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIGODON6E5FZLIOKT77KCEFR4Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험 필적 확인 문구. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 시행된 2026학년도 대학수학능력시험(수능)의 수험생 필적 확인 문구는 ‘초록 물결이 톡톡 튀는 젊음처럼’이었다. 안규례 시인의 ‘아침 산책’에 나오는 구절이다.&lt;br&gt;&lt;br&gt;작년 수능 필적 확인 문구는 곽의영 시인의 ‘하나뿐인 예쁜 딸아’에서 인용한 ‘저 넓은 세상에서 큰 꿈을 펼쳐라’였다.&lt;br&gt;&lt;br&gt;필적 확인 문구는 수험생들이 답안지의 필적 확인란에 직접 써야 하는 글귀로, 대리시험 등 부정행위를 막고자 2006학년도부터 시행됐다. 주로 수험생을 향한 응원을 담은 메시지가 선정돼 매해 어떤 문구가 등장할지 관심을 모은다. 우리말의 아름다움을 살리면서 수험생들에게 감동과 격려, 위로를 전하는 표현들로 주로 구성된다. 응시생 본인 필적을 식별할 수 있는 기술적 요소가 포함돼야 하기 때문에 문구 길이는 12~19자여야 하고, 사람마다 쓰는 방법이 달라 필체가 드러나는 자음 ‘ㄹ’ ‘ㅁ’ ‘ㅂ’ 중 두 개 이상이 들어가야 한다.&lt;br&gt;&lt;br&gt;지금까지 가장 많이 인용된 시는 정지용의 ‘향수’로 3차례 나왔다. 2006학년도와 2017학년도엔 ‘향수’에 나오는 ‘흙에서 자란 내 마음 파란 하늘빛’이, 2007학년도엔 같은 시에 나오는 문구 ‘넓은 벌 동쪽 끝으로’가 필적 확인 문구로 나왔다. &lt;br&gt;&lt;br&gt;2022학년도에는 ‘넓은 하늘로의 비상을 꿈꾸며’(이해인 ‘작은 노래’), 2023학년도에는 ‘나의 꿈은 맑은 바람이 되어서’(한용운 ‘나의 꿈’), 2024학년도엔 ‘가장 넓은 길은 언제나 내 마음속에’(양광모 ‘가장 넓은 길’)였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TVAZAO5DU5F35GGTUUO26RHXRI.png?auth=75d613f248b45ad3e31830f2d9d5c2e1686de34472686a716437484254bdddf1&amp;smart=true&amp;width=767&amp;height=431" type="image/png" height="431" width="767">
+        <media:description type="plain">2026학년도 대학수학능력시험 필적 확인 문구. //연합뉴스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 러시아인 인플루언서, 마약 투약 혐의로 현행범 체포돼 檢 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/13/K2B67LC43JHU3DROWXSGPKYC5A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/K2B67LC43JHU3DROWXSGPKYC5A/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:14:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI6BTVSSBUYOTDU5ASK6HSYZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지검. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검이 러시아 출신 인플루언서 A(23)씨를 마약류 관리에 관한 법률 위반 혐의로 수사 중인 것으로 13일 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 국내에서 마약을 구매해 투약하다 지난 7월 13일 경찰에 현행범 체포됐다. 서울마포경찰서는 마약 검사 결과 양성 반응을 확인하고, 지난 9월 1일 A씨를 검찰에 불구속 송치했다.&lt;br&gt;&lt;br&gt;최근 외국인 마약 범죄자는 계속 증가하는 추세다. 지난 2021년 1673명에서 지난해 2065명까지 늘었고, 올해는 7월까지 1045명으로 집계됐다.&lt;br&gt;&lt;br&gt;한편 A씨는 검찰에 송치된 뒤에도 계속 B 브랜드 광고 모델로 일하고 있는 것으로 전해졌다. 서울중앙지검 강력부장 출신인 김희준 변호사(법무법인 LKB)는 “공무원을 제외하고는 마약 범죄 사실이 소속 기관이나 단체·회사에 통보되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>외국 학생 공짜로 기술 가르쳐 돌려보내는 한국… 권익위 “비자 제도 정비해 국내 취업 허용하라”</title>
+      <link>https://www.chosun.com/politics/goverment/2025/11/13/6XDBXOPJNBG5VJBZ5IUC5OFSTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/11/13/6XDBXOPJNBG5VJBZ5IUC5OFSTM/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 13 Nov 2025 04:33:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국의 직업계 고등학교가 외국인을 초청해 1인당 수천만원을 들여 산업 기술을 교육하고 있으나, 이들이 국내 산업에서 일하게 할 비자 제도가 없어 출신국으로 돌아가게 만들고 있는 것으로 나타났다. 국민권익위원회는 법무부에 이들이 국내 산업에 활용될 수 있도록 전용 비자를 신설하자고 제안했다.&lt;br&gt;&lt;br&gt;13일 권익위에 따르면, 학령 인구 감소로 직업계고들이 존폐 위기에 처한 가운데 일부 시도 교육청 주도로 직업계고들이 2023년부터 외국인을 직업계고 학생으로 유치하기 시작했다. 2023년 서울 소재 특성화고에 16명이 입학한 것을 시작으로, 직업계고 외국인 입학자는 지난해 서울·경북에서 54명, 올해 서울·경북·전남에서 155명으로 늘었다. 내년에는 서울·부산·강원·충남·경북·전남·전북 등 7개 시도 교육청이 283명을 각 관내 직업계고에 입학시킬 예정이다.&lt;br&gt;&lt;br&gt;권익위는 직업계고에 입학한 외국인 유학생들에게는 3년간 무상 교육이 제공되고, 이에 따라 이들을 교육하는 데 1인당 국비로 약 6000만원이 투입되는 것으로 추산했다.&lt;br&gt;&lt;br&gt;그런데도 정부는 직업계고 외국인 입학생 선발과 관련해 어떠한 공통 기준도 만들어 두지 않았고, 시도 교육청은 유학생을 유치하는 데만 급급하다고 권익위는 지적했다. 내년에 직업계고 유학생을 뽑는 7개 시도 교육청 가운데 한국어와 산업 기술 자격증 취득 등을 졸업 요건으로 정해둔 곳은 경북뿐이었다. 나머지 교육청은 한국 정부 지원으로 3년을 학교 다니고는 어떠한 자격도 갖추지 않은 상태로 졸업해도 상관이 없도록 해놓았다. 권익위는 “(외국인 대상 장학 제도가) 우수 인재 양성 의지 없이, 단순 관내 직업계고 학령 인구 부족분을 외국인 유학생으로 채우기 위한 수단으로 전락할 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;외국인 유학생들이 산업 기술을 익힌다 해도, 이들을 국내에 붙잡아두고 국내 산업에 종사하게 할 비자 제도도 없는 것으로 나타났다. 권익위는 “국내 직업계고에서 전문 기능 인력으로 양성된 유학생의 경우, 기술·기능 분야 비자인 ‘E-7(특정 활동)’ 비자 요건이 최소 전문학사 이상의 자격을 요구함에 따라, E-7 비자를 발급받는 것 자체가 불가능한 구조”라고 지적했다. 이어 “E-8(계절 근로)·E-9(비전문 취업) 등 단순 노무 분야 비자조차 외국 정부·지방자치단체의 추천을 통해야 해서, 개인이 국내에서 E-9 비자 신청을 하는 것은 불가능하다”고 지적했다.&lt;br&gt;&lt;br&gt;이에 대해 권익위는 “국내 산업은 다양한 분야에서 직업계고를 졸업한 기능 인력을 필요로 하는 환경인데, 취업 비자 발급 문턱이 높다 보니 국내 취업을 적극 희망하는 직업계고 외국인 졸업생마저 본국으로 돌아가야 하는 상황”이라고 했다. 권익위는 그러면서 “경직된 비자 정책으로 인해, 대규모 공교육 예산을 투자하고도 지역 산업 현장과 외국인 유학생을 연계할 수 없는 구조적인 문제가 발생하고 있다”고 했다.&lt;br&gt;&lt;br&gt;권익위는 교육부에 ‘정부 초청 외국인 장학(유학) 제도 표준 업무 규정’을 만들어, 직업계고 외국인 장학생 선발 절차와 학업 관리·지원에 관한 기본적인 사항을 규정하라고 권고했다. 권익위는 또 외국인 학생의 인권 보호와 생활 안전, 학업 관리를 위해 관련 사항도 이 표준 업무 규정에 넣으라고 권고했다.&lt;br&gt;&lt;br&gt;권익위는 비자 정책을 담당하는 법무부에는 국내 직업계고를 졸업하고 시도 교육청이 추천한 외국인에 대해 E-7 비자를 줄 수 있는 특례 제도를 도입하라고 제안했다. 중장기적으로는 직업계고를 졸업한 외국인을 대상으로 해당 지역 기업에 취업할 수 있는 ‘지역형 기능 인재’ 비자 제도를 도입하거나, E-7 비자 발급 요건을 전문대학 졸업 이상에서 직업계고 졸업 이상으로 완화하는 방안을 검토할 것을 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“고생만 하다 떠나... 억울함 풀어주이소” 총리 만나 울부짖은 울산 사고 유족들</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/08/D5HTRQGLLZDFPCN54D6QUZQZ3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/D5HTRQGLLZDFPCN54D6QUZQZ3U/</guid>
+      <dc:creator>양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 08 Nov 2025 00:53:23 +0000</pubDate>
+      <content:encoded>“(고인의) 아버지 쓰러졌습니다. 일어나지도 못 합니다. 이야기 좀 잘해가꼬… 우리 아이 억울함 좀 풀어주이소. 엄마 없이 커서 저리 고생하다… 와 그리 어설프게 일을 시킵니까. 가믄 (대통령에게) 말을 좀 잘 해주이소. 부탁합니다. 좀 잘해주이소.”&lt;br&gt;&lt;br&gt;8일 한국동서발전 울산화력발전소 붕괴 사고로 숨진 전모(49)씨 빈소에 조문객들의 발길이 이어지는 가운데, 국무총리가 방문했다. 여당 국회의원들도 동행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIF56LSPF5BBDBR4ALV3EUIMK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산화력발전소 붕괴 사고로 숨진 근로자의 빈소를 찾은 김민석(가운데) 국무총리와 김상욱(왼쪽)·김태선(오른쪽) 더불어민주당 의원./ 양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 20분 김민석 총리와 더불어민주당 소속 김상욱(울산 남구갑) 의원, 김태선(울산 동구) 의원 등 3명이 전씨의 빈소가 마련된 울산 남구 울산병원 장례식장을 찾았다. 노란 외투에 어두운 색의 바지 차림으로 온 김 총리와 김상욱·김태선 의원은 약 8분간 이곳에 머무르다 자리를 떴다.&lt;br&gt;&lt;br&gt;전씨의 유족들은 이들을 향해 “대통령님께서 사고가 생기면 분명히 원청에 책임 묻겠다고 했다. 맞죠?”라며 “잘 좀 해주십쇼. 이까지 왔을 땐 뭔가 해주려고 왔을 거 아닙니까”라고 했다. 한 유족은 “일어나선 안 될 일이 (일어났다). 젊은 사람인데”라며 흐느끼기도 했다.&lt;br&gt;&lt;br&gt;김 총리는 유족들을 한명씩 악수하고 고개 숙이길 반복하다가, 빈소를 나가면서 한마디 짧은 한숨을 내뱉었다.&lt;br&gt;&lt;br&gt;김 총리는 “현재는 인명 구조와 피해자 지원이 최우선이지만, 향후 제도 보완과 현장 중심의 관리체계를 신중히 마련해 이번과 같은 사고가 다시는 발생하지 않도록 하겠다”고 했다. 그러면서 “정부가 끝까지 책임지고 피해자와 유가족의 아픔을 함께하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/SJGD6LXZVBGC5MX2DUO3JS5VGE.JPG?auth=bfb265d20a2f69ac5e7acbf546d23b9ef483677e8ba5af746222b72f3f0a34d8&amp;smart=true&amp;width=2047&amp;height=1240" type="image/jpeg" height="1240" width="2047">
+        <media:description type="plain">(울산=뉴스1) 황기선 기자 = 7일 오후 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 유가족들이 발전소 관계자들에게 항의하고 있다.  2025.11.7/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(울산=뉴스1) 황기선 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>부천 제일시장에 1t 트럭 돌진…3명 심정지, 16명 부상</title>
       <link>https://www.chosun.com/national/incident/2025/11/13/MO53TCEPMRCVJOX7V3YTDE2KU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/13/MO53TCEPMRCVJOX7V3YTDE2KU4/</guid>
@@ -848,33 +927,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DTUJVUVQAU2K43NU2B6IB2FTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 연세대에서 AI(인공지능)를 이용한 대규모 부정행위 의혹이 불거진 가운데, 서울대에서도 유사한 부정행위 정황이 적발됐다.&lt;br&gt;&lt;br&gt;12일 서울대 등에 따르면, 지난달 치러진 서울대 교양 과목 ‘통계학실험’ 중간고사에서 다수의 학생이 AI를 이용해 문제를 푼 정황이 드러났다.&lt;br&gt;&lt;br&gt;해당 강의는 주로 서울대 경영대 학생들이 수강하는 대면 강의로, 수강 인원은 약 30명이다. 중간고사도 강의실에 비치된 컴퓨터를 이용해 대면 방식으로 치러졌다.&lt;br&gt;&lt;br&gt;학교 측은 시험에 앞서 문제 풀이 과정에서 AI를 이용하면 안 된다고 공지했지만, 일부 학생이 AI를 이용해 부정행위를 저지른 정황이 확인된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울대 관계자는 “해당 과목 조교가 채점 중 AI를 사용한 정황을 발견해 학생들에게 자진 신고를 받았고, 학생 1~2명이 부정행위를 했다고 자진 신고했다”고 전했다.&lt;br&gt;&lt;br&gt;서울대는 해당 과목 중간고사 성적을 무효화하고 조만간 재시험을 치를 예정이다.&lt;br&gt;&lt;br&gt;앞서 연세대의 한 대형 강의에서도 학생들이 AI를 이용해 부정행위를 한 정황이 포착돼 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>北 공작원 지령 받고 진보 진영 동향 보고... 법원, 1심서 징역 5년</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/12/42TM6YLHTVEMROEYIPCLDFIEOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/42TM6YLHTVEMROEYIPCLDFIEOE/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 05:32:28 +0000</pubDate>
-      <content:encoded>서울중앙지법 형사18단독 윤영수 판사는 국내에 잠입한 북한 공작원과 접촉해 국내 진보 진영 동향 등 각종 정보를 넘겨준 혐의(국가보안법 위반)로 기소된 4·27시대연구원 연구위원 이정훈씨에게 12일 징역 5년을 선고한 뒤 법정 구속했다. 검찰이 이씨를 구속 기소한 지 4년 5개월 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKZ5YFARFBBD5NVHJ6WFXBIWTE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면 이씨는 2017년 4월 일본계 페루인으로 위장한 북한 공작원 ‘고니시(Konishi) 미나미 헬리오 마사오’와 국내에서 4회 접촉해 자신의 활동 상황과 국내 진보 진영 동향 등을 보고하고, 그로부터 암호화된 지령문·보고문을 주고받는 방법을 교육받았다. 2018년부터 2019년까지 북한 대남 공작 기구에서 해외 웹하드를 통해 암호화된 지령문을 수신하고, 보고문 14개를 5회에 걸쳐 발송한 것으로 조사됐다. 그는 북한 주체 사상, 세습 독재, 선군정치, 핵무기 보유 등을 옹호한 책 두 권을 출간하기도 했다.&lt;br&gt;&lt;br&gt;이씨는 재판에서 고니시의 존재가 불분명하고, 실제 북한 공작원인지 여부도 불확실하다며 혐의를 모두 부인했다. 그러나 윤 판사는 “페루 현지인과 공작원 출신 탈북자 등의 증언을 종합해보면 고니시는 실존했던 인물로 볼 수 있다”며 “피고인이 고니시로부터 북한 문화교류국의 지령을 전달받고, 대북 보고를 결의한 다음에 꾸준히 보고를 해온 것으로 볼 수 있다”고 했다. 이어 “우리나라 안보에 실제로 미친 영향이 아주 크다고 보기는 어렵지만, 자유민주적 기본 질서에 실질적인 해악을 끼친 것으로 볼 수 있다”며 “위험성이 명백하고, 그대로 방치할 경우 사회적 혼란이 상당할 것”이라고 했다. 또 이씨의 저서 2권에 대해서도 “북한에 동조하는 출판물”이라며 유죄를 인정했다.&lt;br&gt;&lt;br&gt;앞서 이씨는 2006년 이른바 ‘일심회 사건’으로 구속돼 징역 3년을 선고받고 복역한 적이 있다. 일심회 사건은 이씨 등 당시 민주노동당 인사 5명이 북한 공작원에게 우리나라 내부 동향을 보고한 사실이 국정원에 적발된 사건인데, 같은 활동을 다시 해 또 재판을 받은 것이다.&lt;br&gt;&lt;br&gt;이씨는 이날 선고를 마친 직후 윤 판사를 향해 “국가보안법을 폐지해야 한다”며 “법원은 제발 각성해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한덕수 재판부, 증인 불출석 尹에 과태료 500만원·구인영장</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/12/2YJA4BM2RVDMJJYN7IHUYIGKRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/2YJA4BM2RVDMJJYN7IHUYIGKRA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 05:27:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJQTQZLGGY2GKMJYGU2DOZTDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령(왼쪽)과 김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리의 내란 방조 사건을 심리 중인 재판부가 증인으로 소환된 윤석열 전 대통령에게도 구인영장을 발부하고 과태료 500만원을 부과했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 12일 한 전 총리의 내란 우두머리 방조 등 사건 공판을 열었다. 이날 오전에는 김용현 전 국방부 장관, 오후에는 윤 전 대통령에 대한 증인신문이 예정돼 있었으나 두 사람 모두 불출석 사유서를 제출하고 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “윤 전 대통령이 불출석 사유서를 제출했으나, 정당화할 만한 사유가 아니라고 판단된다”며 “제재 조치로 과태료 500만원과 구인영장을 발부한다”고 밝혔다. 재판부는 앞서 김 전 장관에게도 같은 조치를 내렸다. 재판부는 오는 19일 오후 윤 전 대통령을 구인할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한덕수 재판부 “내년 1월 선고 예정”… ‘증인 불출석’ 김용현 구인영장 발부</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/12/QPLB7KWM2RGMLPPSO6LDEDBKYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/QPLB7KWM2RGMLPPSO6LDEDBKYU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 01:55:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTOZRSMFQWMNDBMVTGIN3EGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 서울 종로구 헌법재판소에서 김용현 전 국방부 장관이 윤석열 전 대통령 탄핵심판 4차 변론에 증인으로 출석해 발언하고 있다. /헌법재판소 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리의 내란 방조 사건을 심리 중인 재판부가 증인으로 소환된 김용현 전 국방부 장관이 불출석하자 구인영장을 발부하고 과태료 500만원을 부과했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 12일 한 전 총리의 내란 우두머리 방조 등 사건 공판을 열었다. 김 전 장관은 이날 증인으로 채택됐지만 불출석 사유서를 제출하고 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;김 전 장관 측은 불출석 사유서에 ‘현재 진행 중인 형사 재판으로 인한 물리적 불가능’을 이유로 들었다. 재판부에 따르면 김 전 장관 측은 사유서에 “현재 진행 중인 재판만으로도 부담이 극심해 다른 재판의 증인 출석은 물리적으로 불가능하다”며 “장기 구속과 연이은 공판 출석으로 피로 누적이 지속되고 있다”고 적었다. 또 “피고인 재판이 확정되지 않은 상황에서 타 재판에서 증언을 강요받는 것은 헌법상 기본권 침해에 해당돼 형사소송법상 ‘증언 거부 사유’에 해당된다”고 했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 이를 불출석의 정당한 사유로 받아들이지 않았다. 재판부는 “증인 출석과 증언 거부는 별개의 문제이고, 증언 거부 사유가 있어도 출석이 원칙”이라며 “증인이 여러가지 상황에 개입돼 재판을 받는 것이지 이를 재판부의 책임으로 돌릴 게 아니다”고 했다. 이어 “법률상 증언 거부권이 보장돼 있어서 출석을 거부한다는 부분도 말이 안 되고 방어권 침해라고 볼 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;그러면서 “김 전 장관에 대해 과태료 500만원을 처분하고 구인영장을 발부한다”고 밝혔다. 재판부는 오는 19일 오후 김 전 장관을 다시 부르기로 했다. 김 전 장관의 구인영장이 집행되지 않을 경우 구치소 책임자를 불러 구체적인 사정을 확인하고, 감치 가능 여부도 검토 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;이런 가운데 재판부는 한 전 총리 사건의 선고 기일을 내년 1월 말로 예정한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“항문 속에 마약 숨겨”… 유럽 거점 45억대 마약 사범 48명 검거</title>
       <link>https://www.chosun.com/national/regional/2025/11/12/URL5P7QEDNEUNI5QWZMEZ6XMJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/12/URL5P7QEDNEUNI5QWZMEZ6XMJA/</guid>
@@ -902,24 +954,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7VJMCA4M5EM3KQND6YQJX3FIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰의 ‘대장동 비리 사건’ 항소 포기로 범죄 수익을 환수가 어렵게 됐다는 논란이 계속되는 가운데, 배임 범죄 피해자인 성남도시개발공사가 지금까지 확보한 대장동 일당의 재산은 62억원에 그친 것으로 나타났다.&lt;br&gt;&lt;br&gt;성남도개공은 지난 2022년 6월 수원지방법원 성남지원에 천화동인 1호 소유인 62억원 상당의 타운하우스에 대한 ‘부동산 처분 금지’ 가처분 신청을 내 받아냈다. 천화동인 1호는 대장동 사업을 시행한 화천대유자산관리의 자회사로, 개발이익 1213억원을 가져간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;처분 금지 가처분은, 빚을 갚아야 하는 채무자가 소송 중 재산을 임의로 팔거나 타인에게 넘기지 못하도록 묶어두는 조치다. 성남도개공은 김만배씨를 상대로 사해 행위 취소 소송을 제기하기 위한 사전 단계로 가처분 신청을 내 받아냈고 소송은 현재 진행 중이다.&lt;br&gt;&lt;br&gt;성남도개공은 천화동인 4호 실소유주인 남욱 변호사의 서울 강남구 빌딩과 강원도 소재 사업장에 대해서도 가처분 신청을 냈지만 기각됐다고 한다. 성남도개공 관계자는 “가처분 신청을 구할 피보전 권리에 대한 소명 부족으로 받아들여지지 않았다”고 했다. &lt;br&gt;&lt;br&gt;검찰의 항소 포기로 범죄 수익 환수가 막혔다는 우려에 대해 정성호 법무부 장관과 여권은 “민사 소송을 통해 환수가 가능하다”고 주장하고 있지만 실제 성남도개공이 묶어 놓은 재산은 검찰이 범죄 수익으로 파악한 7800억원대에 비해 턱없이 부족하다는 지적이 나온다. 부장판사 출신 변호사는 “설령 성남도개공이 민사 소송을 제기해 승소하더라도, 미리 재산을 처분하거나 옮겨놓을 수 있기 때문에 실제로 돈을 돌려받는 것은 또 다른 문제”라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난달 31일 대장동 일당의 업무상 배임죄를 유죄로 인정하면서 김만배씨와 유동규씨가 배임 범죄 수익을 나누기로 약정한 428억원과 뇌물 수뢰액 등 473억원을 추징금으로 결정했다. 검찰은 이들에게 이해충돌방지법을 적용해 총 7814억원 추징을 구형했었지만, 재판부가 이 부분을 무죄 선고하고 검찰이 항소를 포기하며 나머지 7341억원은 환수가 어렵게 됐다.&lt;br&gt;&lt;br&gt;검찰은 앞서 대장동 일당 재산 중 2070억원가량을 몰수·추징 보전해둔 상태다. 김만배씨 재산 1250억원, 남욱씨 514억원, 정영학씨 256억원 등이다. 이는 형사 재판 결과 몰수·추징 명령이 내려질 때를 대비해 재산을 묶어두는 조치다. 그러나 검찰이 항소를 포기해 2심에서 1심에서 서473억원 이상의 추징금이 선고될 가능성이 거의 없어지면서 보전 조치마저 해제될 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캄보디아에 ‘대포통장’ 유통 조직 적발... 48명 검거, 26명 구속  </title>
-      <link>https://www.chosun.com/national/regional/2025/11/12/QVIIOEIRFBFCXBMYBJROVPCRZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/12/QVIIOEIRFBFCXBMYBJROVPCRZU/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 02:33:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XN5MNYKEVFEFMAV4XYXT5YMYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청이 범죄 조직으로부터 압수한 대포통장 등 범행 도구. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYY6VSXUY5F57POXNXDVHACNXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청이 범죄 조직으로부터 압수한 대포통장 등 범행 도구. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 범죄조직에 대포통장을 유통한 일당이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;부산경찰청 형사기동대는 전기통신 금융사기 피해방지 및 피해금 환급에 관한 특별법 위반 등 혐의로 대포통장 유통조직 총책 A씨와 다른 조직의 총책 B씨 등 48명을 검거했다고 12일 밝혔다. 이 중 26명은 구속됐고, 22명은 불구속 송치해 모두 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;A씨 일당은 텔레그램 등 SNS로 대포통장 명의자를 모집한 뒤 캄보디아 내 사기 범죄조직에 대포통장 20개를 유통한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 올해 2월부터 넉 달간 역할을 분담한 뒤 텔레그램 등을 통해 개인 계좌 1000만원, 코인 계좌 2000만원, 법인 계좌 2500만원 등을 제시하며 명의자를 모집했다.&lt;br&gt;&lt;br&gt;모집책들은 통장 명의자를 만나 계좌 이체용 앱을 휴대폰에 설치한 뒤 긴급여권으로 캄보디아로 출국시켰다.&lt;br&gt;&lt;br&gt;캄보디아 현지의 범죄 조직원은 프놈펜 공항에서 통장 명의자를 숙소로 안내하면서 해당 휴대폰과 OTP카드 등을 인수해 사기 범행에 이용했다.&lt;br&gt;&lt;br&gt;현지 범죄 조직은 수사기관의 추적을 피하려고 통장 명의자들에게 현금이 아닌 테더코인(USDT)을 개인 코인 지갑으로 송금했다.&lt;br&gt;&lt;br&gt;사기 피해 수사로 해당 계좌가 지급 정지되면 명의자들은 귀국길에 올랐다. 이들 중 일부는 자진해서 출국하고 범행에 가담했으면서도 처벌을 면하려고 “취업 사기를 당해 납치와 감금은 물론 휴대폰을 빼앗겨 자신의 계좌가 범행에 이용됐다”며 허위 신고를 하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 현지 범죄 조직원의 지시에 따라 허위로 신고한 정황을 확인하고 위계에 의한 공무집행방해 혐의도 추가로 적용했다.&lt;br&gt;&lt;br&gt;다른 대포통장 유통 조직인 B씨 일당은 지난해 4월부터 파인애플 유통회사를 가장해 SNS에서 “공장에서 6개월 일하면 1억원을 지급한다”며 통장 명의자를 모집했다.&lt;br&gt;&lt;br&gt;우선 급전이 필요한 20대 사회 초년생들이 몰려들었다. 이들은 더 많은 수수료를 받으려고 추가로 계좌 모집에 직접 나서기도 하고 캄보디아 범죄조직에 가입하는 등 적극적으로 범행에 가담한 것으로 드러났다. B씨 일당은 서울, 부산, 대전, 충남 등 전국 각지에 조직원을 두고 15개의 유령법인을 설립했다.&lt;br&gt;&lt;br&gt;이후 법인통장을 개설한 뒤 그 일부인 4개를 캄보디아 프놈펜과 시아누크빌에서 활동하는 범죄조직에 수천만원을 받고 유통했다.&lt;br&gt;&lt;br&gt;총책 B씨는 조직원들에게 신체 문신을 강요하거나 손가락을 자르라고 협박하는가 하면 폭력조직처럼 ’90도 인사’와 같은 행동강령을 만들었다. 이를 어기면 상급자가 하급자를 야구방망이 등으로 폭행하기도 했다.&lt;br&gt;&lt;br&gt;이들 2개 조직의 대포통장 유통에 따른 피해액은 모두 70억원이 넘는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내가 뭘 했다고 실형? 죽어라”…판사에 1분간 욕한 보이스피싱 수거책</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/12/ECIHZAWUQFF5DCWHBLHJ4LO7K4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/ECIHZAWUQFF5DCWHBLHJ4LO7K4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 02:03:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 조직의 ‘현금 수거책’ 역할을 한 혐의로 재판에 넘겨진 20대가 실형 판결 뒤 욕설을 내뱉었다가 항소심에서 법정 모욕 혐의가 추가됐다. &lt;br&gt;&lt;br&gt;12일 광주고법 전주재판부 형사1부(양진수 부장판사)에 따르면, 전기통신 금융 사기 피해 방지 및 피해금 환급에 관한 특별법 위반과 법정 모욕 혐의로 기소된 A(23)씨는 항소심에서 징역 1년 10개월을 선고받았다. &lt;br&gt;&lt;br&gt;A씨는 보이스피싱 조직의 현금 수거책으로 일하면서 2024년 7∼8월 피해자 5명에게서 7900만원 상당을 가로챈 혐의를 받는다. &lt;br&gt;&lt;br&gt;당초 A씨는 금융 사기 혐의로만 기소됐으나, 지난 5월 1일 1심 판결 도중 법정에서 욕을 해 항소심에서는 이 둘을 합쳐 재판받았다. 당시 A씨는 실형을 선고받고 법정 구속되자 재판부를 향해 “내가 뭘 했다고 징역 1년 8개월인데… 그따위로 살지 말라”며 심한 욕설을 내뱉고, 법정 경위의 제지에도 “죽어라”라고 하는 등 1분 넘게 욕설을 이어간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이에 항소심 재판부는 “피고인은 1심에서 법정 구속되자 큰 소리로 욕설하는 행위를 반복했으므로 죄질이 매우 나쁘다”며 “이러한 범죄는 법원의 공정한 재판 기능을 해치기 때문에 엄히 처벌할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “금융 사기 범죄는 불특정 다수의 피해자를 상대로 방대한 피해를 지속해서 양산한다”며 “피고인이 이 범행을 주도하지는 않았지만, 범죄의 완성에 필수적인 역할을 담당했으므로 그 책임이 가볍지 않다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“운동하면 갑상선암 발병 위험성 낮아진다”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/11/12/O6RZI5CS6BBSHDQZIMJIL6KC4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/12/O6RZI5CS6BBSHDQZIMJIL6KC4M/</guid>
@@ -927,15 +961,6 @@
       <description/>
       <pubDate>Wed, 12 Nov 2025 01:31:24 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RC25DNQKD5V5S5KA3VX3ABSAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의료진이 갑상선암 수술을 받은 환자의 초음파 검사를 하고 있다. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운동이 갑상선암 발병 위험을 낮출 수 있다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;국립암센터는 명승권 국제암대학원대학교 보건AI학과 교수 연구팀이 2010~2024년 국제 학술지에 발표된 코호트 연구 논문 9편을 메타분석해 이 같은 결과를 확인하고, ‘국제임상종양학저널’ 최신호에 게재했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;연구팀은 주요 의학데이터베이스인 펍메드(PubMed)와 엠베이스(EMBASE)에서 문헌 검색을 통해 선정한 9편의 코호트 연구 논문을 종합해 분석했다. 여기서는 운동과 갑상선암 사이에 뚜렷한 연관성이 없었으나, 아시아에서 시행된 연구와 2015년 발표된 논문 등을 따로 분석했더니 운동이 갑상선암 발생을 19~25% 낮추는 것으로 나타났다.&lt;br&gt;&lt;br&gt;갑상선암은 2022년 기준 한국인이 가장 많인 걸린 암이다. 그해에만 3만4000여명이 갑상선암에 걸렸다. 방사선에 노출되면 위험이 높아지는 것으로 알려져 있고, 그 밖에 다른 원인은 거의 밝혀지지 않았다.&lt;br&gt;&lt;br&gt;명 교수는 “운동의 경우 2013년 유럽역학저널에 발표된 메타분석에서 갑상선암과 관련성이 없다는 결론이 내려졌는데, 이후 10여년간 추가 코호트 연구들이 발표돼 이번에 새롭게 메타분석을 하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;운동이 갑상선 세포의 증식을 자극하는 갑상선자극호르몬, 에스트로젠, 인슐린 등의 농도를 낮추거나 만성 염증을 줄여 갑상선암의 발병 위험을 낮추는 것으로 보인다는 게 연구팀 설명이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검 ‘내란선동 혐의’ 황교안 전 총리 체포영장 집행</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/12/46HJPN5PUFB67PWK7D7XQ7JNGQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/46HJPN5PUFB67PWK7D7XQ7JNGQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 22:55:41 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JNS2HYJBSBWC2Y653GVRKKN5TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 사태 관련 내란·외환 의혹을 수사 중인 조은석 내란특검팀이 12일 황교안 전 국무총리에 대한 체포영장을 집행하고 있다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 황 전 총리에 대해 내란선전선동 혐의로 압수수색을 시도했으나, 황 전 총리가 불응하자 최근 법원으로부터 체포영장을 발부받았다.&lt;br&gt;&lt;br&gt;황 전 총리는 지난해 12월 3일 자신의 페이스북에 윤석열 전 대통령의 비상계엄 선포를 지지하는 내용의 글을 게시해 내란 선전·선동 혐의로 고발된 바 있다.&lt;br&gt;&lt;br&gt;황 전 총리는 당시 “비상계엄령이 선포됐다. 지금은 나라의 혼란을 막는 것이 최우선”이라며 “나라를 망가뜨린 종북주사파 세력과 부정선거 세력을 이번에 반드시 척결해야 한다”고 적었다. 그는 “우원식 국회의장을 체포하라. 대통령 조치를 정면으로 방해하는 한동훈 국민의힘 대표도 체포하라”고 주장하기도 했다.&lt;br&gt;&lt;br&gt;특검팀은 지난달 27일과 31일 황 전 총리 주거지에 대한 압수수색영장 집행을 시도했으나, 황 전 총리가 문을 열어주지 않고 지지자들이 몰리면서 두 차례 모두 불발됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>울산 화력 사고 시신 1구 추가 수습...공식 사망자 5명으로 늘어  </title>
@@ -951,15 +976,6 @@
       </media:content>
     </item>
     <item>
-      <title>[속보] ‘직무유기·국정원법 위반' 조태용 前국정원장 구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/12/7C3L5G2KRBAN5HO43RCFWJFOAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/12/7C3L5G2KRBAN5HO43RCFWJFOAA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 20:59:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6BGQC2NZK5EEHOPRQGDC7IKK6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 사태에 연루된 조태용 전 국가정보원장이 11일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다./ 고운호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 계획을 알고도 국회에 보고하지 않은 혐의 등을 받는 조태용 전 국가정보원장이 12일 내란 특검에 구속됐다. 서울중앙지법 박정호 영장 전담 부장판사는 전날 조 전 국정원장의 구속영장 실질 심사를 진행한 뒤 이날 오전 5시 30분쯤 “증거를 인멸할 염려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;조 전 원장은 작년 12월 3일 윤석열 전 대통령에게 불려가 대국민 담화 전 계엄 선포 계획을 먼저 듣고도 국회 정보위원회에 알리지 않았다는 직무유기 혐의를 받는다. 국정원법은 국정원장이 국가 안전보장에 중대한 영향을 미치는 상황이 발생할 경우 지체 없이 대통령과 국회 정보위원회에 보고해야 한다고 정한다.&lt;br&gt;&lt;br&gt;또 국민의힘이 요청한 계엄 당일 홍장원 전 국정원 1차장의 행적이 담긴 CCTV 영상은 제공하면서, 더불어민주당이 요청한 조 전 원장 본인의 동선 영상은 제출하지 않는 등 CCTV 영상을 선별 제공해 국정원법상 정치 관여 금지 조항을 위반한 혐의도 받는다. &lt;br&gt;&lt;br&gt;조 전 원장에겐 헌법재판소와 국회에 증인으로 나와 윤 전 대통령으로부터 ‘비상대권’ 관련 발언을 들은 적 없다는 취지로 답해 위증한 혐의, 대통령경호처와 공모해 윤 전 대통령과 홍 전 차장의 비화폰 정보 삭제에 관여했다는 혐의도 적용됐다. 내란 특검은 지난달부터 세 차례 조 전 원장을 불러 조사했고 지난 7일 구속영장을 청구했다. &lt;br&gt;&lt;br&gt;특검은 전날 구속 심사에서 482쪽 분량의 의견서를 제출하고 151쪽 분량의 프레젠테이션(PPT) 자료를 활용해 구속 필요성을 주장했고, 조 전 원장 측은 “직무를 충실히 수행했을 뿐”이라며 혐의를 부인한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>진성여왕은 정말 문란한 ‘팜므 파탈’이었나</title>
       <link>https://www.chosun.com/national/national_general/2025/11/12/ZUV3NUSKCJGN7KQ6ZVEQVNX6GE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/ZUV3NUSKCJGN7KQ6ZVEQVNX6GE/</guid>
@@ -971,15 +987,6 @@
         <media:description type="plain">그래픽=조선디자인랩 권혜인</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>한술 더 뜬 백해룡 “수사 인원 늘려달라”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/12/CATIVZYO5FCWPFITGZEZKDOXFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/CATIVZYO5FCWPFITGZEZKDOXFE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 11 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>‘세관 마약 수사 외압’ 의혹을 수사하는 서울동부지검 합동 수사단에 파견된 백해룡 경정이 동부지검과 경찰청에 “파견 기간을 2개월 연장하고 수사팀 인원도 배로 증원해 달라”고 요청한 것으로 11일 전해졌다. 지난달 15일 합동 수사단에 파견된 백 경정 수사팀은 본인을 포함해 5명이고 이들 모두 오는 14일 파견 근무가 종료된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DTEWQB6C5FBZZPESWODRSE2BNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백 경정은 서울 영등포경찰서 형사과장으로 재직하던 2023년 말레이시아인 필로폰 밀수 사건을 수사하는 과정에서 인천세관 공무원이 연루됐다는 진술을 확보하자, 이를 안 윤석열 정부 대통령실·검찰·경찰·국정원 등이 사건을 은폐하려고 외압을 행사했다는 의혹을 제기했다. 지난달 이재명 대통령이 수사 책임자인 임은정 동부지검장에게 합동 수사팀(현재 합동 수사단으로 격상)에 백 경정을 합류시키라고 지시해 경찰은 백 경정에 대해 파견 인사 명령을 냈다.&lt;br&gt;&lt;br&gt;그러나 백 경정은 “합동 수사팀은 불법 단체” “수사 의지가 없다”고 했다. 그는 “기존 수사팀을 해체하고 새로운 수사팀을 만들어 달라”고도 했다. 이에 동부지검은 합동 수사팀을 해체하지 않는 대신 백 경정이 참여하는 5명 규모의 별도 수사팀을 새로 만들었다. 그런데 이후로도 백 경정은 “수사하려는 사람을 선발할 권한과 최소한의 인원 25명이 필요하다”고 해왔다.&lt;br&gt;&lt;br&gt;법조계에선 “(백 경정이 파견된 지) 한 달 가까이 되도록 수사에 진척이 없는데 파견을 연장하고 수사팀 규모를 늘린다고 새로운 게 나올 가능성이 낮아 보인다”는 이야기가 나오고 있다. 백 경정이 제기했던 세관 직원들의 마약 반입 연루 의혹과 관련해 애초 경찰 조사 때 인천세관 공무원들이 필로폰 반입을 도왔다고 진술했던 말레이시아인 마약 운반책 3명 모두 최근 검경 합동 수사단 조사 등에선 기존 진술을 뒤집은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 대해 백 경정은 “‘킥스’ 사용 권한을 부여받지 못해 제대로 수사할 수 없었다”는 입장이다. 킥스는 경찰과 검찰 등이 수사·기소·재판·집행 등 사건 관련 정보를 열람·활용할 수 있도록 한 전자 정보 시스템이다. 검찰과 경찰은 별도의 킥스 시스템을 쓰고 있는데, 백 경정에게 어느 쪽 시스템을 사용하게 할지 검경은 아직 합의하지 못한 상황이다. 경찰 관계자들은 “킥스가 없어도 수사가 불가능한 건 아니다”라며 “의혹 자체와는 상관없는 행정적인 문제”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
