@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“머리에서 노랫말 맴돌아 혼났다”… 수험생 당황시킨 국어 지문 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/14/H6Y5C6VHDBFB5KYW2KQEOC6W5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/H6Y5C6VHDBFB5KYW2KQEOC6W5U/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 05:09:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITYZ5DNRPNCT5CFS67F5CARTQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험(수능) 국어 영역 18∼21번 지문 일부. /한국교육과정평가원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“범 내려온다/범이 내려온다/송림 깊은 골로/한 짐승이 내려온다.” &lt;br&gt;&lt;br&gt;13일 치러진 2026학년도 대학수학능력시험(수능) 국어 영역 18∼21번 지문 속 한 문장이 일부 수험생을 당혹스럽게 만들었다는 반응이 일부 나왔다. 판소리 ‘수궁가’ 가사 일부가 나왔는데, 이 가사가 밴드 이날치의 히트곡 ‘범 내려온다’ 노랫말과 같아 시험에 집중해야 하는데도 머릿속에 멜로디가 맴돌았다는 것이다. &lt;br&gt;&lt;br&gt;이날 수험생 커뮤니티에는 “(문제를 푸는 동안) 머리에서 ‘범 내려온다’ 노래가 계속 들려 혼났다” “나도 모르게 콧노래를 흥얼거렸다” 등의 글이 잇달아 올라왔다. &lt;br&gt;&lt;br&gt;‘수궁가’ 가사 일부인 이 문장은 2020년 한국관광공사의 해외 홍보 유튜브 채널(이매진 유어 코리아·Imagine Your Korea)의 한국 홍보 게시물에서 배경음악으로 등장한 밴드 이날치 노래의 가사이기도 하다. 판소리를 현대 팝으로 재해석한 댄스뮤직으로, 중독성 강한 멜로디와 반복되는 후렴구가 특징이다. &lt;br&gt;&lt;br&gt;당시 이 노래는 ‘열풍’을 일으켰다. 현재 이 노래가 배경음악으로 쓰인 한국관광공사 유튜브 영상은 조회 수가 5300만회가 넘는다. 이날치는 이 노래를 앞세워 2021년 제18회 한국대중음악상 ‘올해의 음악인’ 등 3관왕에 올랐다. &lt;br&gt;&lt;br&gt;이번에 수능 지문에 해당 가사가 등장하면서, 한국관광공사 영상이 재소환되기도 했다. 현재 한국관광공사의 5년 전 영상엔 “국어 시험 보는데 이 노래가 머리에서 자동 재생됐다” “국어 리듬 타면서 문제 푼 수험생은 공감할 것” “수능 보고 생각나서 왔다. 문제 푸는데 노래에 맞춘 안무도 계속 머리에서 맴돌았다” 등의 최근 댓글이 이어지고 있다. &lt;br&gt;&lt;br&gt;한편 이날 국어 시험에선 ‘이리 보아도 둥굴둥굴 저리 보아도 둥굴’ ‘맛진 진미를 먹어 보자 으르르르앙’ 등 익살스러운 가사도 있어 웃음을 참기 힘들었다는 사람도 있었다.&lt;br&gt;&lt;br&gt;사회탐구 영역 선택 과목인 사회문화에선 전 세계적 인기를 얻은 애니메이션 영화 ‘케이팝 데몬 헌터스’를 떠올리게 하는 문항이 나와 화제를 모으기도 했다. 문화 전파에 관해 묻는 7번 문항으로 ‘최근 주목받고 있는 애니메이션 ○○는 갑국의 일부 젊은이들이 즐겨온 을국의 아이돌 음악에 갑국 대중음악의 색깔을 입혀 갑국에서 창작된 작품이다. 갑국은 온라인 동영상 플랫폼을 통해 ○○를 수출하였고, ○○는 갑국뿐만 아니라 을국에서 선풍적인 인기를 얻은 후 병국을 포함하여 세계적인 흥행을 일으키고 있다’는 지문이 제시됐는데, 여기서 ○○이 케데헌을 연상케 했다는 반응이다. &lt;br&gt;&lt;br&gt;이외에도 독일 철학자 임마누엘 칸트를 소재로 한 문항이 국어와 영어, 사회탐구 등 세 과목에서 나온 점도 눈길을 끌었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산화력 붕괴 9일째... 60대 마지막 매몰자 1명 수색 난항</title>
+      <link>https://www.chosun.com/national/regional/2025/11/14/QR6SENPLWBHFDKCXOYTBRYSPRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/14/QR6SENPLWBHFDKCXOYTBRYSPRQ/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 04:40:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSUKJGTFBNLR5C4RM4SD4BXUWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산화력발전소 보일러 타워 붕괴 사고 9일째인 14일 오전 발전소 현장에서 중장비를 동원한 수색 작업이 밤낮없이 이어지고 있는 가운데 소방당국이 수색 계획에 대해 논의하고 있다. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 9일째인 14일 소방 당국이 마지막으로 남은 60대 실종자를 찾는 데 총력을 쏟고 있으나 수색에 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 전날에도 밤새 수색 활동을 벌였지만, 아직 실종자인 김모(62)씨를 발견하지 못했다. &lt;br&gt;&lt;br&gt;소방 관계자는 “철제 구조물 잔해가 샌드위치처럼 층층이 쌓여 있어 수색 작업이 쉽지 않은 상황”이라고 밝혔다.&lt;br&gt;&lt;br&gt;소방 당국은 마지막 실종자가 있을 것으로 예상되는 보일러 타워 5호기에서 6호기 방면 잔해와 철골을 제거하는 작업에 주력하고 있다. 5호기 붕괴 전 작업허가서를 토대로 실종자가 이 방향 잔해 속에 있을 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 구조대원들이 진입할 수 있는 공간 확보를 위해 빔 절단기 4대 등 중장비를 이용해 구조물 상단부의 일부를 절단·제거했으나, 큰 철제 구조물 등으로 막혀 있어 내부 진입에 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;이 방면 구조물을 더 절단할 경우 2차 붕괴 우려도 있어 소방 당국은 우회 경로를 통해 접근하는 방안도 검토하고 있다.&lt;br&gt;&lt;br&gt;소방 관계자는 “해체 전문가와 구조 기술자 등을 포함한 관계 기관 회의를 통해 최대한 빠르고 안전한 진입 방법을 강구할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 동서발전 울산화력발전소에선 높이 63m, 가로 25ｍ, 세로 15.5ｍ 규모 보일러 타워 5호기가 붕괴하는 사고가 났다. 사고 이후 2명은 살아서 구조됐으나 6명이 숨졌으며, 1명은 실종 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“IMF 금 모으기 운동 때 보여준 단결, 지금 필요”</title>
+      <link>https://www.chosun.com/national/people/2025/11/13/NSMDHUVYJFFY5PD5JNCU4NSWHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/13/NSMDHUVYJFFY5PD5JNCU4NSWHQ/</guid>
+      <dc:creator>변희원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 12 Nov 2025 15:51:00 +0000</pubDate>
+      <content:encoded>“한국의 발전이 전례 없는 것이었듯이, 지금 한국이 마주한 도전들도 전례 없는 수준입니다. 하지만 한국은 다른 어떤 나라보다도 불행한 사건들을 계기로 국민적 결속을 보여주기도 했습니다. 그런 단합력이나 연대(solidarity)가 필요한 때입니다.”&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C7RGNC6AHFFDLFJ6TWFUPUFTEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운호 기자
+최근 방한한 김용 전 세계은행 총재는 “지금 한국은 정신건강 분야에 투입하는 자원을 획기적으로 늘려야 한다”며 “예산만의 문제가 아니라, 사회적 구조와 인식 자체를 재정비할 필요가 있다”고 했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8일 서울 중구에서 만난 김용 전 세계은행 총재는 “세계은행 총재 시절, 아프리카의 국가 지도자를 만나면 ‘어떻게 하면 한국처럼 성장할 수 있을까’ ‘새마을 운동에 대해서 아느냐’는 질문을 들을 때마다 자부심을 느꼈다. 하지만 지금 한국은 경제협력개발기구(OECD) 국가 중 가장 낮은 출산율, 가장 높은 자살률과 노인 빈곤율을 기록하고 있다”며 이렇게 말했다. 그는 지난 7일 경북 안동에서 열린 ‘제12회 21세기 인문가치포럼’에서 기조 연설을 하기 위해 한국을 찾았다. &lt;br&gt;&lt;br&gt;김 전 총재는 의사 출신이지만 하버드대에서 인류학 박사 학위를 받았고, 인문학에 관심이 많은 것으로 알려졌다. 이날 기조 강연 후에는 전헌 전 성균관대 유학동양학부 교수와 대담을 나눴다. 전 교수는 김 전 총재의 외삼촌으로, 국제퇴계학회장을 지냈다. 김 전 총재는 2019년부터 미국 사모펀드 글로벌 인프라스트럭처 파트너스의 부회장으로 재직 중이다. &lt;br&gt;&lt;br&gt;김 전 총재는 한국이 직면한 여러 과제 중에서도 높은 자살률과 정신 건강 문제를 강조했다. 그는 “다른 국가에선 10~20대 주요 사망 원인이 대부분 사고이지만 한국은 자살”이라며 “이런 상황인데도 사회 전체가 걱정하거나 행동으로 나서는 흐름을 아직 보이지 않는다”고 지적했다. 김 전 총재에 따르면 과감하고 혁신적인 해법이 필요한 저출산 문제와 달리 자살, 정신 건강 문제는 점진적인 사회 변화만으로도 개선이 가능하다. 그는 “미국 국립의학한림원((National Academy of Medicine)을 설득해 지금 한국 사회에서 무엇이, 어떻게 달라지고 있는지 연구하고 있다”며 “한국의 자살률, 출산율, 정신 건강 문제를 중심으로 아시아 전반의 사회적 해법을 찾기 위한 국제 연구 프로젝트를 시작하려는 것”이라고 했다. 한국 정부와 연구기관과의 공동 연구도 추진 중이다. &lt;br&gt;&lt;br&gt;김 전 총재는 “한국이 겪는 문제에 대한 해법을 제시할 순 없다”면서도 “지금은&lt;b&gt; &lt;/b&gt;연대가 느슨해진 시기, 즉 한국 사회 내부의 결속이 예전보다 약화된 시기라고 본다. 그런 의미에서, 연대의 정신을 회복해야 할 때”라고 했다. 그가 ‘한국의 힘’으로 연대를 발견한 건 2013년 그리스가 경제 위기를 겪고 있을 때였다. 당시 김 전 총재는 세계은행 동료들에게 “이런 어려운 상황에서 놀라운 일을 해낸 국가의 사례가 있을까”라고 질문을 던졌다. 동료들이 그의 앞에 내놓은 자료는 한국의 IMF 외환 위기 당시 금 모으기 운동 관련 기록이었다. &lt;br&gt;&lt;br&gt;“금 모으기 운동은 세계 금융사에서 유례없는 국민적 헌신의 사례로 기록됐습니다. 한국인들이 얼마나 강한 책임감과 공동체적 연대 의식을 지닌 민족인지를 보여줬습니다. 그런 힘을 떠올리면 희망을 갖게 됩니다.” &lt;br&gt;&lt;br&gt;올해 포럼의 주제는 ‘균형과 조화, 행복한 삶을 위한 조건’이었다. 김 전 총재의 인생은 얼마나 조화롭고 균형이 잡혔을까. &lt;br&gt;&lt;br&gt;“어제 포럼에서 행복에 대해 얘기를 나누면서 깨달은 게 있어요. 제게 진정한 행복의 순간은, 오히려 모든 것이 완벽하게 균형 잡히지 않았던, 혼란과 도전 속에서 무언가를 해야 했던 때입니다.” &lt;br&gt;&lt;br&gt;※이 기사는 한국정신문화재단 후원으로 제작되었습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이재용 회장, 장남 이지호씨 해군 장교 임관식 참석한다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/14/IEONCSJ6S5C33OWSWZ5JNHQ6LY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/IEONCSJ6S5C33OWSWZ5JNHQ6LY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 04:46:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5KDNAOQBJZIG2LONXIWGWADZ6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재용 삼성전자 회장의 장남 이지호씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재용 삼성전자 회장이 장남 이지호(25)씨의 해군 장교 임관식에 참석할 예정이다.&lt;br&gt;&lt;br&gt;14일 재계에 따르면 이 회장은 오는 28일 경남 창원시 진해 해군사관학교에서 해군참모총장 주관으로 열리는 139기 해군 사관(장교) 후보생 수료·임관식에 참석한다.&lt;br&gt;&lt;br&gt;이 회장은 앞서 지난 9월 15일 열린 지호씨의 사관후보생 입영식에는 참석하지 않았다.&lt;br&gt;&lt;br&gt;당시 입영식에는 모친인 임세령 대상홀딩스 부회장과 여동생 이원주씨가 동행한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 지호씨는 139기 해군 학사사관 후보생으로 입영해 11주간 장교 교육 훈련을 마치고 오는 12월 1일 자로 해군 소위로 임관하게 된다. 지호씨의 보직은 통역 장교다.&lt;br&gt;&lt;br&gt;훈련 기간과 임관 후 의무 복무 기간 36개월을 포함한 군 생활 기간은 총 39개월이다.&lt;br&gt;&lt;br&gt;2000년생인 지호씨는 미국에서 태어나 한국과 미국 복수 국적을 가지고 있었지만 미국 시민권을 포기하고 해군 장교로 입대했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현장체험 사망사고 교사, 항소심서 선고유예… “전적 책임 아니다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/14/4RY56UDYIZEJHEVM25WM5TEIAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/4RY56UDYIZEJHEVM25WM5TEIAY/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>초등학교 현장 체험 학습 중 발생한 사망 사고와 관련해 1심에서 금고형의 집행유예를 선고받은 교사가 항소심에서 감형 판결을 받았다.
+춘천지법 형사1부(재판장 심현근)는 업무상 과실치사 혐의로 기소된 초등 교사 A(35)씨의 항소심에서 금고 6개월에 집행유예 2년을 선고한 원심을 파기하고 금고 6개월에 선고유예를 선고했다고 14일 밝혔다.</description>
+      <pubDate>Fri, 14 Nov 2025 04:24:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRTKOBZGY4DSNRVMYYGGMRTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초등학교 현장 체험 학습 중 발생한 사망 사고와 관련해 1심에서 금고형의 집행유예를 선고받은 교사가 항소심에서 감형 판결을 받았다.&lt;br&gt;&lt;br&gt;춘천지법 형사1부(재판장 심현근)는 업무상 과실치사 혐의로 기소된 초등 교사 A(35)씨의 항소심에서 금고 6개월에 집행유예 2년을 선고한 원심을 파기하고 금고 6개월의 선고를 유예했다고 14일 밝혔다. 전적으로 책임을 묻기엔 과도한 측면이 있고, 피해 학생 유가족과 합의한 사정이 참작됐다. 선고유예로 A씨는 교단에 계속 설 수 있게 됐다.&lt;br&gt;&lt;br&gt;지난 2022년 11월 강원 노학동 한 테마파크 주차장에서 현장 체험 학습에 참여한 초등학생 B(13)양이 주차하던 버스에 치여 숨졌다. 당시 A씨는 버스 주차가 끝나지 않은 상황에서 학생들을 하차시킨 뒤 차량 이동이 예상되는 상황에서도 학생들의 이동 동선을 제대로 확인하지 않은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이 사건은 교사의 주의의무 위반 과실 여부를 놓고 치열한 법정 공방이 펼쳐졌고, 1심 재판부는 “일부 학생의 대열 이탈이 충분히 예상되는 상황이었다”며 A씨의 주의의무 위반 과실을 인정해 집행유예를 선고했다. 하지만 A씨는 이에 불복해 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “주의의무를 기울이지 않아 피해 학생이 사망이라는 중대한 결과가 발생했다”면서 “다만, 당심에 이르러 피해자의 유가족과 합의한 점 등을 참작하며 원심의 형은 다소 무거워서 부당하다고 판단된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>뉴진스 전원 항소 포기… ‘전속계약 유효’ 1심 판결 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/14/BOBCA4GWRJGKBKFP4ZKYEXP24M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/BOBCA4GWRJGKBKFP4ZKYEXP24M/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 04:30:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4TSMZQMRTDGZJTMYYWCMTCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 뉴진스(왼쪽부터 하니, 민지, 혜인, 해린, 다니엘). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;아이돌그룹 뉴진스 멤버 전원이 어도어를 상대로 낸 소송에서 전원 항소를 포기하면서 1심 판결이 확정됐다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 뉴진스 멤버들은 항소 기한이었던 이날 0시까지 재판부에 항소장을 제출하지 않았다. 이에 뉴진스 멤버들과 어도어 간의 전속계약이 유효하다는 1심 판결이 확정됐다.&lt;br&gt;&lt;br&gt;뉴진스 멤버 해린과 혜인은 지난 12일 어도어를 통해 소속사 복귀를 공식화했다. 나머지 멤버인 민지, 다니엘, 하니도 같은 날 순차적으로 복귀하겠다고 했다. 어도어는 “멤버분들과 개별 면담을 조율 중으로, 원활한 논의가 될 수 있도록 최선을 다할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 뉴진스는 지난해 11월 어도어를 상대로 “신뢰관계가 파탄났다”며 전속계약을 해지를 통보했다. 이에 어도어는 그해 12월 전속계약 유효 확인 소송을 냈다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난달 30일 양측 간의 전속계약이 유효하다며 어도어 손을 들어줬다. 재판부는 뉴진스 측이 민희진 전 어도어 대표의 해임으로 소속사가 중대한 의무를 위반했으며 신뢰관계가 파탄났다는 주장을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수사 시작될 줄 모르고 피해자에 사건 무마 요구…대법 “처벌 못해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/14/NTOVTEPJAZAVDJYYNSNK2454NM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/NTOVTEPJAZAVDJYYNSNK2454NM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 04:03:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신에 대한 수사가 시작될 거란 예상을 못한 채로 피해자에게 사건 무마를 요구했다면 면담강요죄로 처벌할 수 없다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 특정범죄가중처벌법 위반(면담강요) 혐의로 기소된 A씨에게 무죄를 선고한 원심 판결을 지난달 확정했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 공군 정비병으로 근무하던 2022년 5월 16~26일 후임병들을 네 차례 강제집합시켰는데, 이 일로 징계를 받을 것을 우려해 피해자에게 연락해 사건 무마를 시도한 혐의로 재판에 넘겨졌다. 특가법은 자신이나 타인의 형사사건 수사·재판와 관련해 필요한 사실을 알고 있는 사람에게 정당한 사유 없이 만나자고 하거나 위력을 행사하면 3년 이하 징역 또는 300만원 이하 벌금에 처하도록 규정한다.&lt;br&gt;&lt;br&gt;A씨는 피해 후임병 중 한 명이 강제집합 사실을 제보해 주임원사가 알게 되자 5월 31일 제보자에게 전화해 “그걸 왜 주임원사님에게 찌른 거야?” “’제가 너무 예민하게 받아들인 것 같다’고 말하는 게 좋지 않을까?”라며 추궁하고 무마를 시도한 것으로 조사됐다. 이후 피해자의 아버지가 군사경찰에 신고하면서 그해 7월 본격적인 수사가 시작됐다.&lt;br&gt;&lt;br&gt;재판의 쟁점은 수사·재판 절차가 개시되기 전 피해자에게 위력을 행사한 경우라도 면담강요죄를 적용할 수 있는지 여부였다. 1심은 “수사 개시 전이라도 신고 무마 목적의 위력 행사는 처벌 대상”이라며 A씨에게 벌금 100만원을 선고했다. 그러나 2심은 통화 당시 피해자는 상관에게 제보했을 뿐 군사경찰에 신고한 적은 없고, A씨도 징계 가능성은 우려했지만 정식 형사 수사가 개시될 것을 인식했다고 보기는 어렵다며 무죄로 뒤집었다.&lt;br&gt;&lt;br&gt;대법원도 원심 판단이 맞는다고 보고 무죄를 확정했다. 대법원은 먼저 “면담강요 행위 당시 수사·재판이 실제 개시돼있어야 한다고 제한할 수 없다”면서 수사 전 위력 행사도 처벌 대상이 될 수 있다고 판시했다. 다만 “수사·재판이 충분히 예상되는 상황이어야 하고 위력 행사의 고의도 있어야 한다”며 “이는 범죄 혐의사실의 구체성과 경중, 피해 상황 등 여러 사정을 종합적으로 고려해 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>노만석 “검사 징계 중단해달라” 항소 포기 경위에는 묵묵부답</title>
       <link>https://www.chosun.com/national/court_law/2025/11/14/DCXTJCSQL5DEJF3NW5PEHWBT74/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/DCXTJCSQL5DEJF3NW5PEHWBT74/</guid>
@@ -833,58 +898,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMTUYXMY3RFQJKDRUDHJV74WME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원의 모습. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 정기 구독 서비스의 중도해지와 환불을 어렵게 만든 카카오에 대한 공정거래위원회의 시정명령을 확정했다. 다만 과징금 부과는 요건을 갖추지 못해 위법하다고 판단했다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 13일 카카오가 공정위의 제재를 취소해달라며 낸 소송 상고심에서 시정명령과 과징금 모두 적합하다고 판단한 원심 판결 중 과징금 부분을 깨고 사건을 서울고법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;카카오는 2016년 음원 스트리밍 업체 ‘멜론’을 인수한 뒤 2017년 5월~2021년 5월 카카오톡 앱과 멜론 앱·웹 등을 통해 정기 결제형 음원 서비스를 판매했다. 그런데 앱으로 서비스 해지를 신청하는 경우 곧바로 해지·환불을 해주는 게 아니라 다음 달부터 자동 결제가 끊어지게 했다. 즉시 해지하고 남은 기간 구독료를 환불해주는 ‘중도해지’는 PC웹과 고객센터에서만 가능했고, 앱에서는 중도해지가 가능하다는 안내도 하지 않았다. &lt;br&gt;&lt;br&gt;공정위는 이를 ‘기만적 방법으로 소비자의 계약해지를 방해한 행위’로 판단하고 시정명령과 함께 과징금 9800만원을 부과했다. 전자상거래법상 위반 행위가 반복된 경우 영업정지 명령을 할 수 있고, 영업정지가 소비자에게 심각하게 불편을 주는 경우 과징금으로 대체할 수 있게 돼 있다.&lt;br&gt;&lt;br&gt;카카오 측은 제재 처분에 불복해 서울고법에 행정소송을 냈다. 소송에서 “중도해지 방법을 고객센터나 FAQ 게시판에 공지했고 소비자를 속이려는 의도가 없었다”고 주장했다. 그러나 서울고법은 지난 1월 “실제로 소비자가 해지를 못하게 됐는지 여부와 무관하게 소비자를 오인시킬 우려가 있으면 전자상거래법 위반”이라고 했다. 대법원도 이 같은 판단에 법리 오해가 없다고 봤다.&lt;br&gt;&lt;br&gt;다만 대법원은 공정위가 영업정지 대신 과징금을 물린 것은 위법하다고 판단했다. 카카오는 공정위 처분이 있기 전인 2021년 3월 음원 사업 부문을 ‘멜론컴퍼니’로 분할했고, 공정위는 영업정지의 실효성이 없다고 보고 대신 과징금을 물렸는데 대법원은 이런 처분에 법적 근거가 없다고 봤다.&lt;br&gt;&lt;br&gt;대법원은 “법령상 영업정지가 소비자에게 심한 불편을 줄 우려가 있는 경우에만 영업정지 대신 과징금을 부과할 수 있도록 한정적으로 규정하고 있다”면서 “회사 분할로 영업정지 처분이 실효성을 잃은 경우까지로 확대 해석해선 안 된다”고 했다. 그러면서 “과징금은 침익적(侵益的) 행정처분이기 때문에 상대방에 불리하게 확대 해석할 수 없다”며 “공정위의 이번 과징금 처분은 요건을 갖추지 못해 위법하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산 광안대교, 더 화려한 조명으로 가을 밤하늘 수놓는다 </title>
-      <link>https://www.chosun.com/national/regional/2025/11/13/QR6GI4J5IFEM3O3VZBBPGGAQSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/13/QR6GI4J5IFEM3O3VZBBPGGAQSU/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 04:46:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZTMZLBHAYWENZUGNRTEMJYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 광안대교. /부산시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 랜드마크인 광안대교가 12년 만에 새 단장했다.&lt;br&gt;&lt;br&gt;부산시는 광안대교 엘이디(LED) 개선 사업을 마치고 이달부터 운영에 들어갔다고 13일 밝혔다. 기존 경관조명은 2013년 12월에 설치됐다. 이번 개선 사업은 12년 만이다. 총 사업비는 107억원이다. &lt;br&gt;&lt;br&gt;부산시는 광안대교 등기구를 기존 7011등에서 1만3465등으로 2배 가량 늘렸다. 조명 간격도 기존 1ｍ에서 0.5ｍ로 좁혀 촘촘하게 배치했다. &lt;br&gt;&lt;br&gt;부산시 관계자는 “색감과 해상도를 한층 높였다”고 했다. &lt;br&gt;&lt;br&gt;이를 통해 15일 열리는 부산 불꽃축제에서 광안대교의 조명 연출과 어우러져 시각적 완성도를 높일 것이라고 시는 기대했다. &lt;br&gt;&lt;br&gt;부산시 김현재 관광마이스국장은 “부산 밤바다를 배경으로 세계적 수준의 야관 경관이 펼쳐질 것”이라며 “더 많은 외국인 관광객을 유치하고, 광안대교를 다시 찾고 싶은 부산의 특별한 명소로 도약시키겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올해 필적확인 문구는 ‘초록 물결이 톡톡 튀는 젊음처럼’</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/13/2M5Q7LH33VDS3DMPAPHWG4EBDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/2M5Q7LH33VDS3DMPAPHWG4EBDQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 04:12:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIGODON6E5FZLIOKT77KCEFR4Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험 필적 확인 문구. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 시행된 2026학년도 대학수학능력시험(수능)의 수험생 필적 확인 문구는 ‘초록 물결이 톡톡 튀는 젊음처럼’이었다. 안규례 시인의 ‘아침 산책’에 나오는 구절이다.&lt;br&gt;&lt;br&gt;작년 수능 필적 확인 문구는 곽의영 시인의 ‘하나뿐인 예쁜 딸아’에서 인용한 ‘저 넓은 세상에서 큰 꿈을 펼쳐라’였다.&lt;br&gt;&lt;br&gt;필적 확인 문구는 수험생들이 답안지의 필적 확인란에 직접 써야 하는 글귀로, 대리시험 등 부정행위를 막고자 2006학년도부터 시행됐다. 주로 수험생을 향한 응원을 담은 메시지가 선정돼 매해 어떤 문구가 등장할지 관심을 모은다. 우리말의 아름다움을 살리면서 수험생들에게 감동과 격려, 위로를 전하는 표현들로 주로 구성된다. 응시생 본인 필적을 식별할 수 있는 기술적 요소가 포함돼야 하기 때문에 문구 길이는 12~19자여야 하고, 사람마다 쓰는 방법이 달라 필체가 드러나는 자음 ‘ㄹ’ ‘ㅁ’ ‘ㅂ’ 중 두 개 이상이 들어가야 한다.&lt;br&gt;&lt;br&gt;지금까지 가장 많이 인용된 시는 정지용의 ‘향수’로 3차례 나왔다. 2006학년도와 2017학년도엔 ‘향수’에 나오는 ‘흙에서 자란 내 마음 파란 하늘빛’이, 2007학년도엔 같은 시에 나오는 문구 ‘넓은 벌 동쪽 끝으로’가 필적 확인 문구로 나왔다. &lt;br&gt;&lt;br&gt;2022학년도에는 ‘넓은 하늘로의 비상을 꿈꾸며’(이해인 ‘작은 노래’), 2023학년도에는 ‘나의 꿈은 맑은 바람이 되어서’(한용운 ‘나의 꿈’), 2024학년도엔 ‘가장 넓은 길은 언제나 내 마음속에’(양광모 ‘가장 넓은 길’)였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TVAZAO5DU5F35GGTUUO26RHXRI.png?auth=75d613f248b45ad3e31830f2d9d5c2e1686de34472686a716437484254bdddf1&amp;smart=true&amp;width=767&amp;height=431" type="image/png" height="431" width="767">
-        <media:description type="plain">2026학년도 대학수학능력시험 필적 확인 문구. //연합뉴스</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] 러시아인 인플루언서, 마약 투약 혐의로 현행범 체포돼 檢 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/13/K2B67LC43JHU3DROWXSGPKYC5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/K2B67LC43JHU3DROWXSGPKYC5A/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 04:14:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WI6BTVSSBUYOTDU5ASK6HSYZPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지검. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지검이 러시아 출신 인플루언서 A(23)씨를 마약류 관리에 관한 법률 위반 혐의로 수사 중인 것으로 13일 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 국내에서 마약을 구매해 투약하다 지난 7월 13일 경찰에 현행범 체포됐다. 서울마포경찰서는 마약 검사 결과 양성 반응을 확인하고, 지난 9월 1일 A씨를 검찰에 불구속 송치했다.&lt;br&gt;&lt;br&gt;최근 외국인 마약 범죄자는 계속 증가하는 추세다. 지난 2021년 1673명에서 지난해 2065명까지 늘었고, 올해는 7월까지 1045명으로 집계됐다.&lt;br&gt;&lt;br&gt;한편 A씨는 검찰에 송치된 뒤에도 계속 B 브랜드 광고 모델로 일하고 있는 것으로 전해졌다. 서울중앙지검 강력부장 출신인 김희준 변호사(법무법인 LKB)는 “공무원을 제외하고는 마약 범죄 사실이 소속 기관이나 단체·회사에 통보되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국 학생 공짜로 기술 가르쳐 돌려보내는 한국… 권익위 “비자 제도 정비해 국내 취업 허용하라”</title>
-      <link>https://www.chosun.com/politics/goverment/2025/11/13/6XDBXOPJNBG5VJBZ5IUC5OFSTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/11/13/6XDBXOPJNBG5VJBZ5IUC5OFSTM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 04:33:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국의 직업계 고등학교가 외국인을 초청해 1인당 수천만원을 들여 산업 기술을 교육하고 있으나, 이들이 국내 산업에서 일하게 할 비자 제도가 없어 출신국으로 돌아가게 만들고 있는 것으로 나타났다. 국민권익위원회는 법무부에 이들이 국내 산업에 활용될 수 있도록 전용 비자를 신설하자고 제안했다.&lt;br&gt;&lt;br&gt;13일 권익위에 따르면, 학령 인구 감소로 직업계고들이 존폐 위기에 처한 가운데 일부 시도 교육청 주도로 직업계고들이 2023년부터 외국인을 직업계고 학생으로 유치하기 시작했다. 2023년 서울 소재 특성화고에 16명이 입학한 것을 시작으로, 직업계고 외국인 입학자는 지난해 서울·경북에서 54명, 올해 서울·경북·전남에서 155명으로 늘었다. 내년에는 서울·부산·강원·충남·경북·전남·전북 등 7개 시도 교육청이 283명을 각 관내 직업계고에 입학시킬 예정이다.&lt;br&gt;&lt;br&gt;권익위는 직업계고에 입학한 외국인 유학생들에게는 3년간 무상 교육이 제공되고, 이에 따라 이들을 교육하는 데 1인당 국비로 약 6000만원이 투입되는 것으로 추산했다.&lt;br&gt;&lt;br&gt;그런데도 정부는 직업계고 외국인 입학생 선발과 관련해 어떠한 공통 기준도 만들어 두지 않았고, 시도 교육청은 유학생을 유치하는 데만 급급하다고 권익위는 지적했다. 내년에 직업계고 유학생을 뽑는 7개 시도 교육청 가운데 한국어와 산업 기술 자격증 취득 등을 졸업 요건으로 정해둔 곳은 경북뿐이었다. 나머지 교육청은 한국 정부 지원으로 3년을 학교 다니고는 어떠한 자격도 갖추지 않은 상태로 졸업해도 상관이 없도록 해놓았다. 권익위는 “(외국인 대상 장학 제도가) 우수 인재 양성 의지 없이, 단순 관내 직업계고 학령 인구 부족분을 외국인 유학생으로 채우기 위한 수단으로 전락할 우려가 있다”고 했다.&lt;br&gt;&lt;br&gt;외국인 유학생들이 산업 기술을 익힌다 해도, 이들을 국내에 붙잡아두고 국내 산업에 종사하게 할 비자 제도도 없는 것으로 나타났다. 권익위는 “국내 직업계고에서 전문 기능 인력으로 양성된 유학생의 경우, 기술·기능 분야 비자인 ‘E-7(특정 활동)’ 비자 요건이 최소 전문학사 이상의 자격을 요구함에 따라, E-7 비자를 발급받는 것 자체가 불가능한 구조”라고 지적했다. 이어 “E-8(계절 근로)·E-9(비전문 취업) 등 단순 노무 분야 비자조차 외국 정부·지방자치단체의 추천을 통해야 해서, 개인이 국내에서 E-9 비자 신청을 하는 것은 불가능하다”고 지적했다.&lt;br&gt;&lt;br&gt;이에 대해 권익위는 “국내 산업은 다양한 분야에서 직업계고를 졸업한 기능 인력을 필요로 하는 환경인데, 취업 비자 발급 문턱이 높다 보니 국내 취업을 적극 희망하는 직업계고 외국인 졸업생마저 본국으로 돌아가야 하는 상황”이라고 했다. 권익위는 그러면서 “경직된 비자 정책으로 인해, 대규모 공교육 예산을 투자하고도 지역 산업 현장과 외국인 유학생을 연계할 수 없는 구조적인 문제가 발생하고 있다”고 했다.&lt;br&gt;&lt;br&gt;권익위는 교육부에 ‘정부 초청 외국인 장학(유학) 제도 표준 업무 규정’을 만들어, 직업계고 외국인 장학생 선발 절차와 학업 관리·지원에 관한 기본적인 사항을 규정하라고 권고했다. 권익위는 또 외국인 학생의 인권 보호와 생활 안전, 학업 관리를 위해 관련 사항도 이 표준 업무 규정에 넣으라고 권고했다.&lt;br&gt;&lt;br&gt;권익위는 비자 정책을 담당하는 법무부에는 국내 직업계고를 졸업하고 시도 교육청이 추천한 외국인에 대해 E-7 비자를 줄 수 있는 특례 제도를 도입하라고 제안했다. 중장기적으로는 직업계고를 졸업한 외국인을 대상으로 해당 지역 기업에 취업할 수 있는 ‘지역형 기능 인재’ 비자 제도를 도입하거나, E-7 비자 발급 요건을 전문대학 졸업 이상에서 직업계고 졸업 이상으로 완화하는 방안을 검토할 것을 제안했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“고생만 하다 떠나... 억울함 풀어주이소” 총리 만나 울부짖은 울산 사고 유족들</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/08/D5HTRQGLLZDFPCN54D6QUZQZ3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/08/D5HTRQGLLZDFPCN54D6QUZQZ3U/</guid>
-      <dc:creator>양인성 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 08 Nov 2025 00:53:23 +0000</pubDate>
-      <content:encoded>“(고인의) 아버지 쓰러졌습니다. 일어나지도 못 합니다. 이야기 좀 잘해가꼬… 우리 아이 억울함 좀 풀어주이소. 엄마 없이 커서 저리 고생하다… 와 그리 어설프게 일을 시킵니까. 가믄 (대통령에게) 말을 좀 잘 해주이소. 부탁합니다. 좀 잘해주이소.”&lt;br&gt;&lt;br&gt;8일 한국동서발전 울산화력발전소 붕괴 사고로 숨진 전모(49)씨 빈소에 조문객들의 발길이 이어지는 가운데, 국무총리가 방문했다. 여당 국회의원들도 동행했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YIF56LSPF5BBDBR4ALV3EUIMK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산화력발전소 붕괴 사고로 숨진 근로자의 빈소를 찾은 김민석(가운데) 국무총리와 김상욱(왼쪽)·김태선(오른쪽) 더불어민주당 의원./ 양인성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 9시 20분 김민석 총리와 더불어민주당 소속 김상욱(울산 남구갑) 의원, 김태선(울산 동구) 의원 등 3명이 전씨의 빈소가 마련된 울산 남구 울산병원 장례식장을 찾았다. 노란 외투에 어두운 색의 바지 차림으로 온 김 총리와 김상욱·김태선 의원은 약 8분간 이곳에 머무르다 자리를 떴다.&lt;br&gt;&lt;br&gt;전씨의 유족들은 이들을 향해 “대통령님께서 사고가 생기면 분명히 원청에 책임 묻겠다고 했다. 맞죠?”라며 “잘 좀 해주십쇼. 이까지 왔을 땐 뭔가 해주려고 왔을 거 아닙니까”라고 했다. 한 유족은 “일어나선 안 될 일이 (일어났다). 젊은 사람인데”라며 흐느끼기도 했다.&lt;br&gt;&lt;br&gt;김 총리는 유족들을 한명씩 악수하고 고개 숙이길 반복하다가, 빈소를 나가면서 한마디 짧은 한숨을 내뱉었다.&lt;br&gt;&lt;br&gt;김 총리는 “현재는 인명 구조와 피해자 지원이 최우선이지만, 향후 제도 보완과 현장 중심의 관리체계를 신중히 마련해 이번과 같은 사고가 다시는 발생하지 않도록 하겠다”고 했다. 그러면서 “정부가 끝까지 책임지고 피해자와 유가족의 아픔을 함께하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/SJGD6LXZVBGC5MX2DUO3JS5VGE.JPG?auth=bfb265d20a2f69ac5e7acbf546d23b9ef483677e8ba5af746222b72f3f0a34d8&amp;smart=true&amp;width=2047&amp;height=1240" type="image/jpeg" height="1240" width="2047">
-        <media:description type="plain">(울산=뉴스1) 황기선 기자 = 7일 오후 울산 남구 동서발전 울산화력발전소 보일러 타워 붕괴현장에서 유가족들이 발전소 관계자들에게 항의하고 있다.  2025.11.7/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(울산=뉴스1) 황기선 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>부천 제일시장에 1t 트럭 돌진…3명 심정지, 16명 부상</title>
       <link>https://www.chosun.com/national/incident/2025/11/13/MO53TCEPMRCVJOX7V3YTDE2KU4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/13/MO53TCEPMRCVJOX7V3YTDE2KU4/</guid>
@@ -901,24 +914,6 @@
       <description/>
       <pubDate>Thu, 13 Nov 2025 01:18:11 +0000</pubDate>
       <content:encoded>내란중요임무종사 등 혐의를 받는 박성재 전 법무 장관이 13일 구속영장 실질심사를 받기 위해 다시 법원에 출석했다. 특검이 지난달 청구한 첫 번째 구속영장이 법원에서 기각된 지 한 달 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ON7KLXYEGRKT3E7CIJO3BSS7DU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법정 향하는 박성재 전 법무 장관./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오전 10시 2분쯤 서울중앙지법에 도착한 박 전 장관은 ‘두 번째 구속영장도 무리한 청구라고 보시느냐’는 기자 질문에 “저의 입장은 변화가 없습니다”라고 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 남세진 영장 전담 부장판사는 이날 오전 10시 10분부터 박 전 장관의 영장 심사를 진행한다. 특검은 박 전 장관이 12·3 비상계엄 선포 이후 법무부 실·국장 회의를 소집하고 합동수사본부 검사 파견 검토, 교정 시설 수용 여력 점검, 출국 금지 담당 직원 출근 지시 등을 내리는 등 윤석열 전 대통령의 내란 범죄에 순차적으로 가담했다고 보고 있다.&lt;br&gt;&lt;br&gt;특검은 이날 영장 심사에 이윤제 특별검사보를 필두로 파견 검사와 파견 군검사 4명을 투입한다. 235쪽 분량의 의견서와 163쪽 분량 PPT도 제출했다.&lt;br&gt;&lt;br&gt;앞서 특검이 청구한 박 전 장관의 구속영장은 지난달 15일 법원에서 기각됐다. 심리를 맡았던 서울중앙지법 박정호 영장 전담 부장판사는 “구속의 상당성이나 도주·증거인멸의 염려에 대해 소명이 부족하다”고 했다. 그러면서 “박 전 장관이 (비상계엄의) 위법성을 인식하게 된 경위나 인식한 위법성의 구체적 내용, 박 전 장관이 취한 조치의 위법성 존부나 정도에 대해 다툴 여지가 있다”고 했다.&lt;br&gt;&lt;br&gt;특검은 보강 수사에 착수했다. 지난달 22일 박 전 장관의 휴대전화를 다시 압수 수색했고, 이튿날엔 10시간 넘게 박 전 장관을 소환 조사했다. 또 교정본부 등 법무부 관련 사무실을 압수 수색해 수용시설 점검 지시 등과 관련된 증거를 추가 확보했다.&lt;br&gt;&lt;br&gt;박 전 장관의 구속 여부는 이날 오후 늦게 결정될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰청, 백해룡에 ‘킥스’ 사용 권한 부여</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/13/QNU422H2INC7BCHKXFK7W42IW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/QNU422H2INC7BCHKXFK7W42IW4/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 02:55:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPTT5TETHVIL3JQXW7ZQXTNVUA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지검 '세관 마약 수사 외압' 의혹 합동수사단에 파견된 백해룡 경정. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘세관 마약 수사 외압’ 의혹을 수사 중인 서울동부지검 합동수사단에 파견된 백해룡 경정에게 형사사법정보시스템(KICS·킥스) 사용 권한을 부여하기로 했다. 백 경정이 합수단에 합류한 지 한 달 만이다.&lt;br&gt;&lt;br&gt;13일 동부지검에 따르면 경찰은 이날부터 킥스에 백 경정 수사팀을 위한 별도의 직제를 신설해 수사 업무 처리가 가능하도록 조치할 예정이다. 킥스는 검찰·경찰 등이 수사·기소·재판·집행 등 사건 관련 정보를 열람·활용할 수 있도록 한 전산 시스템이다.&lt;br&gt;&lt;br&gt;백 경정은 이재명 대통령의 지시로 지난달 15일 동부지검 합수단에 파견된 이후 “킥스 사용 권한을 부여받지 못해 제대로 수사할 수 없었다”고 주장해 왔다. 그간 검경은 백 경정이 어느 쪽 킥스를 사용할지를 두고 협의해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 백 경정의 동부지검 합수단 파견 기한은 내일까지다. 동부지검은 백 경정의 요구로 파견 기간 2개월 연장을 대검찰청에 요청한 상황이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>EBS “수능 국어 작년 수준... 킬러문항은 없어” </title>
-      <link>https://www.chosun.com/national/education/2025/11/13/SPUNCXVSINCVHOT4UFTOFVTAB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/13/SPUNCXVSINCVHOT4UFTOFVTAB4/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 02:46:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHROFP3S2ZJBPCMJGUEC545TEI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험일인 13일 오전 서울 종로구 경복고에 마련된 고사장에서 수험생이 시험을 보는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 치러진 2026학년도 대학수학능력시험(수능) 1교시인 국어 영역 난도가 작년 수능과 비슷하다는 분석이 나왔다. &lt;br&gt;&lt;br&gt;EBS 현장 교사단은 이날 정부세종청사에서 “이번 수능 국어는 지난 9월 모의평가나 작년 수능의 출제 경향을 유지했다”며 “다양한 난이도의 문항을 고루 출제해 변별력을 높이려고 한 것으로 분석된다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “과도한 추론 없이 지문에 명시된 정보만으로도 선지를 판단할 수 있었다”며 “학교 교육과정과 교과서를 통해 학습한 독해력과 사고력만으로도 충분히 대비할 수 있는 수준이었다. 킬러 문항은 배제됐다”고 했다. &lt;br&gt;&lt;br&gt;전체적인 난도는 작년 수능, 올해 9월 모의평가와 비슷하다고 분석했다. 현장 교사단은 “지난 수능은 모든 영역에서 난도가 고르게 배치됐다는 평가였고, 올해 9월 모의평가는 독서의 난도가 낮아졌지만 문학과 선택 과목의 난도가 올라가 균형을 유지했다”면서 “이번 수능의 경우 독서의 난도가 올라간 반면 다른 과목의 난도가 낮아져 역시 적정 수준을 유지한 것으로 본다”고 했다.&lt;br&gt;&lt;br&gt;이번 수능 국어의 EBS 연계율은 53.3%였다. 독서는 4개 지문 모두, 문학은 8개 작품 중 3개가 EBS 수능 연계 교재에서 출제됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이이경 루머 폭로자 또 말바꿨다...“AI 조작 아냐, 인증샷 공개할까” </title>
