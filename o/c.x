@@ -13,6 +13,75 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산화력 붕괴사고 마지막 희생자 수습...매몰자 7명 모두 주검으로</title>
+      <link>https://www.chosun.com/national/regional/2025/11/14/NOU33CR2GFBX3OAGOOXO7FH4QE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/14/NOU33CR2GFBX3OAGOOXO7FH4QE/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 14:02:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNZIDCWZ6FI2BET6J2EPTEFG3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 울산화력발전소 붕괴 현장에서 마지막 매몰자를 수습하고 병원으로 이송하기 앞서 모든 현장 관계자들이 도열해 고인에 대한 예를 갖추고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국동서발전 울산화력발전소 보일러 타워 붕괴 사고 9일째인 14일 매몰됐던 마지막 60대 근로자의 시신이 수습됐다. 사고 발생 이후 약 200시간 만이다. 가족과 시민들의 생환 기대에도 매몰자 7명 모두 주검으로 돌아왔다.&lt;br&gt;&lt;br&gt;소방 당국은 “이날 오후 9시 57분쯤 보일러 타워 5호기 잔해에서 김모씨(62)의 시신을 발견했으나 숨진 상태였다”고 밝혔다. 현장 인부였던 김씨는 지난 6일 63m 높이 5호기 타워에서 근로자 8명과 건물 철거를 쉽게 하기 위한 취약화 작업을 하던 중 사고를 당했다. 이 철거 공사의 시공사는 HJ중공업, 하도급업체는 코리아카코다. 김씨와 다른 근로자들은 모두 코리아카코 소속 근로자다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오후 8시 49분에야 그를 발견해 시신을 수습했다.&lt;br&gt;&lt;br&gt;사고 직후 매몰자 9명 중 2명은 살아서 구조됐으나, 나머지 7명은 타워 잔해 더미에 깔려 구조가 늦어졌다. 수천t의 철골 구조물 잔해가 이들을 덮고 있어 제거가 쉽지 않았다. 사고가 난 5호기 양옆으로 4·6호기가 위태롭게 서 있어 붕괴 우려도 있었다. 중앙사고수습본부는 4·6호기를 지난 11일 발파해 쓰러뜨린 뒤에야 크레인 등 중장비를 투입해 구조 작업에 속도를 낼 수 있었다.&lt;br&gt;&lt;br&gt;그러나 이후에도 철재 빔이 겹겹이 쌓여있고, 구조물도 엉겨있어 내부 진입은 어려운 상황이었다. 이에 소방당국은 우회 경로를 통해 접근해 이날 김씨의 시신을 수습했다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 울산화력발전소에서는 가로 25ｍ, 세로 15.5ｍ, 높이 63ｍ 규모 보일러 타워 5호기가 붕괴했다. 당시 현장에 있던 작업자 9명 중 2명은 살아서 구조됐으나 7명은 매몰돼 모두 숨졌다. 구조된 2명은 중상을 입어 현재 치료 중이다.&lt;br&gt;&lt;br&gt;구조가 마무리되면서 경찰 수사에도 속도가 날 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ME2GIZLFMEZTEY3FHE3DAOJZHE.jpg?auth=aa5d5794ade92974560e4447c6c248942a4161697882c1d6161311e20a8aed7b&amp;smart=true&amp;width=2560&amp;height=1920" type="image/jpeg" height="1920" width="2560">
+        <media:description type="plain">14일 오후 울산화력발전소 붕괴 현장에서 마지막 매몰자를 수습하고 병원으로 이송하기 앞서 모든 현장 관계자들이 도열해 고인에 대한 예를 갖추고 있다. (독자 제공. 재판매 및 DB금지) 2025.11.14/뉴스1 ⓒ News1 박정현 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>울산화력 마지막 매몰자 1명도 끝내 주검으로… 매몰자 7명 모두 사망</title>
+      <link>https://www.chosun.com/national/regional/yeongnam/2025/11/14/OC56PX2LA5FAFGZQF755DWFJQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/11/14/OC56PX2LA5FAFGZQF755DWFJQI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 12:13:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYGIMZRGM3DSYRVMVSDENJWMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 오후 울산화력발전소 붕괴 현장에서 구조대원들이 마지막 매몰자를 찾기 위해 수색구조작업을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산화력발전소 붕괴 사고 매몰자 중 마지막 실종자도 14일 끝내 숨진 채 발견됐다. 사고 발생 8일 만으로, 매몰자 7명 모두 사망했다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오후 9시 57분쯤 사고 현장인 보일러 타워 5호기 잔해 속에서 김모(62)씨의 시신을 수습했다고 밝혔다. 구조대는 1시간 전쯤인 오후 8시 49분쯤 김씨를 발견했다.&lt;br&gt;&lt;br&gt;구조대는 이후 김씨 주변에 얽혀 있는 철근 구조물 등을 잘라가며 접근해 시신을 외부로 옮겼다.&lt;br&gt;&lt;br&gt;김씨는 이번 사고 매몰자 7명 중 가장 늦은 200시간 만에 시신으로 돌아왔다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 울산화력발전소에서는 가로 25ｍ, 세로 15.5ｍ, 높이 63ｍ 규모 보일러 타워 5호기가 붕괴됐다. 이 사고로 당시 현장에 있던 작업자 9명 중 7명이 매몰됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ME2GIZLFMEZTEY3FHE3DAOJZHE.jpg?auth=aa5d5794ade92974560e4447c6c248942a4161697882c1d6161311e20a8aed7b&amp;smart=true&amp;width=2560&amp;height=1920" type="image/jpeg" height="1920" width="2560">
+        <media:description type="plain">14일 오후 울산화력발전소 붕괴 현장에서 마지막 매몰자를 수습하고 병원으로 이송하기 앞서 모든 현장 관계자들이 도열해 고인에 대한 예를 갖추고 있다. (독자 제공. 재판매 및 DB금지) 2025.11.14/뉴스1 ⓒ News1 박정현 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>김건희 최측근 “김 여사, ‘건희2’ 휴대폰 한두 번 빌려 써”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 12:18:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WGY3DGMZTMMRUMU2WMZJYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 이른바 '문고리 3인방' 중 한 명인 정지원 전 대통령실 행정관. 정 전 행정관은 건진법사 전성배 씨의 휴대전화에 '건희2'로 저장된 연락처의 실제 사용자로 알려졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 차명 휴대전화로 지목된 이른바 ‘건희2′에 대해 김 여사 측근 정지원 전 청와대 행정관이 “제가 사용하던 휴대전화고 김 여사가 한두 번 정도 빌려 사용했다”고 법정에서 증언했다. 건희2는 건진법사 전성배씨 등이 김 여사에게 통일교 현안 등 각종 청탁을 전달하는 메시지를 보낸 연락처다.&lt;br&gt;&lt;br&gt;정 전 행정관은 14일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 김 여사의 알선수재 등 사건 재판에 증인으로 나와 이같이 말했다. 정 전 비서관은 김 여사가 운영한 코바나컨텐츠 직원 출신으로 김 여사를 최측근에서 보좌한 인물이다. &lt;br&gt;&lt;br&gt;정 전 행정관은 ‘건희2’ 휴대전화는 본인이 사용하던 연락처로 이용 요금도 자신의 신용카드로 자동 결제해왔다고 증언했다. 건진법사 전씨는 “건희2로 연락하면 김 여사가 받았다”고 했으나 김 여사는 이 연락처의 실사용자가 정 전 행정관이라고 주장해왔다. &lt;br&gt;&lt;br&gt;이날 법정에서는 전씨가 건희2 휴대전화로 보낸 문자 내용이 공개됐다. 전씨는 8명의 이름과 대통령실 부서가 적힌 인사 청탁 목록을 첨부하고 ‘대통령 취임식 초청 부탁드립니다. 사모님한테 말씀드려서 꼭 해주시라고 당부한 겁니다’라고 보냈다. 전씨는 이 메시지에 ‘전부 이력서 부탁합니다’라는 답변을 받았고 ‘이력서 파일을 내가 못 보내서 처남한테 시켜서 비서한테 보낼게’라고 다시 답변을 보냈다. 정 전 행정관은 이를 김 여사에게 전달하지 않았다고 했다.&lt;br&gt;&lt;br&gt;김 여사가 건희2 휴대전화로 2022년 3월 대선 직후 윤영호 전 통일교 세계본부장과 통화한 녹취록도 공개됐다. 이에 따르면 윤 전 본부장이 “너무 축하드린다”고 하자 김 여사는 “이번에 애 많이 써줘서 감사하다”며 “이 번호는 좀 비밀리에 하는 번호”라고 답했다.&lt;br&gt;&lt;br&gt;특검 측은 “김 여사는 조사 당시 ‘증인과 자신이 공유하며 사용하기 위해 개통했고 중요한 내용이 있으면 당연히 보고했을 것’이라고 했는데 김 여사가 거짓 진술을 한 것이냐”고 추궁했다. 정 전 행정관은 “김 여사가 왜 그렇게 진술했는지 모르겠다”고 했다. &lt;br&gt;&lt;br&gt;한편, 정 전 행정관은 이날 김 여사가 통일교 층으로부터 받은 샤넬 구두 사진을 본 뒤 “(김 여사가) 한두 번 신은 것을 본 것 같다”고 하기도 했다. 샤넬 가방과 그라프 목걸이에 대해선 “착용한 것을 본 적 없다”고 했다. 김 여사에게 통일교 측의 명품 선물을 전달하고, 샤넬 매장에서 일부 상품을 직접 교환한 것으로 알려진 또 다른 측근 유경옥 전 행정관도 이날 증인으로 소환됐으나 불출석 사유서를 내고 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검 “국힘 전당대회에 통일교 신도 2400명 당원 가입”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/14/RYHXQTHGKRBXTEA2SEJGE6JSNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/RYHXQTHGKRBXTEA2SEJGE6JSNY/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 12:21:07 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 2023년 3월 전당대회를 앞두고 2400명이 넘는 통일교인이 국민의힘에 입당했다고 판단했다. 특검은 지난 7일 김 여사와 ‘건진 법사’ 전성배씨, 한학자 통일교 총재, 전 통일교 세계본부장 윤영호씨, 전 총재 비서실장 정모씨를 정당법 위반 혐의로 추가 기소한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRTKYZUGQYTOOJVGJSWENJTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 9월 24일 서울 서초동 서울중앙지법에서 열린 김 여사의 특정범죄가중처벌법상 알선수재 및 자본시장법·정치자금법 위반 등 사건 첫 재판에 출석해 눈을 감고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;15일 본지가 입수한 공소장에 따르면 특검은 2022년 11월~2023년 1월 말까지 통일교 측이 교단 자금으로 당비를 대납하는 방식으로 당원을 모았다고 봤다. 특검은 통일교 5개 지구 중 경기·강원권에서 350여명, 경남권에서 279명의 당원을 모집했다고 공소장에 적시했으며, 나머지 3개 권역의 당원 규모는 특정하지 않았다.&lt;br&gt;&lt;br&gt;특검은 이 과정에서 전씨와 김 여사가 공모했다고 보고 있다. 전씨는 이 당시 국민의힘 책임당원 30만명 신규 가입을 목표로 하는 ‘윤석열 서포터즈 운동’을 추진하면서 전당대회 권리 행사, 총선 승리를 목표로 세웠다. 이 과정에서 전씨와 김 여사가 교인 입당 대가로 통일교 측에 정부 차원의 지원과 비례대표 후보자 추천 과정에 교단 인사를 포함해주기로 약속했다는 게 특검의 판단이다.&lt;br&gt;&lt;br&gt;공소장에 따르면 전씨는 본래 권성동 의원을 당 대표 후보로 밀어줄 계획이었다. 하지만 2023년 1월 5일 권 의원이 불출마하자 김기현 의원으로 지원 대상이 바뀌었다. 이에 윤씨가 당혹감을 드러내자 전씨는 “김 여사가 어차피 대통령을 위한 것이니 도와달라고 한다”고 말한 것으로 파악됐다. 이에 윤씨는 2023년 2월 전씨로부터 김 의원을 밀어달라는 부탁을 받고 이를 교단 내부에 전파해 교인들이 김 의원을 지지하는 선거운동을 펼치도록 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;한편 특검은 전씨의 변호인 A씨를 기업으로부터 청탁 대가로 금품을 받는 데 관여했다며 특정범죄가중처벌법상 알선수재, 변호사법 위반 혐의로 불구속기소했다. A씨는 전씨가 콘텐츠 기업 콘랩컴퍼니의 각종 청탁을 들어주는 대가로 총 1억6700여만원을 받는 과정에 개입한 혐의를 받는다. &lt;br&gt;&lt;br&gt;콘랩컴퍼니 대표 B씨는 2022년 7월 자사 행사에 고위 공무원 등을 초대해 달라고 전씨에게 부탁했는데, 전씨는 문체부 고위 공무원, 부산시 부시장 등이 참석하도록 하고 권 의원과 국민의힘 윤한홍 의원이 축사를 보내도록 한 것으로 파악됐다. 전씨는 같은 해 8~11월 B씨에게 의왕시에 백운호수를 바꾸는 프로젝트를 권유하며 김성제 의왕시장을 소개해주기도 했다. 의왕시는 실제로 2023년 4월 백운호수에 콘랩컴퍼니가 지적재산권을 소유한 핀란드 캐릭터 ‘무민’을 이용한 ‘의왕무민밸리’를 조성하겠다고 발표하기도 했다.&lt;br&gt;&lt;br&gt;전씨는 이 같은 청탁 대가로 B씨에게 자신의 딸에게 월 400만원, 자신의 차량과 운전기사 비용으로 월 800만원을 요구했다. B씨는 이를 승낙하고 A씨 등과 허위 계약을 맺어 매월 용역 대금을 주고 A씨 등이 이 돈을 다시 전씨 측에 전달했다. &lt;br&gt;&lt;br&gt;A씨는 자신이 수임한 형사 사건의 다른 피고인에게 지인 변호사를 소개하고 2500만원을 받은 혐의(변호사법 위반)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의식 없는 여성 성폭행 장면 생중계한 BJ, 2심서 감형 받았다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/14/77SBFQNLOFFRLHBGZTXOHCC5TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/77SBFQNLOFFRLHBGZTXOHCC5TQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 12:30:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JHWE22LGVBCVHJU35XWRGTUTZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 중앙지방법원 로비에 법원 마크가 밝게 빛나고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의식 없는 여성을 성폭행하고 그 모습을 인터넷 방송으로 생중계한 30대 남성 BJ가 2심에서 감형받았다. 범행 당시 송출된 방송이 영리 목적이었다고 보기 어렵다는 법원 판단에 의해서다.&lt;br&gt;&lt;br&gt;서울고법 형사11-3부(부장판사 박영주·박재우·정문경)는 14일 준강제추행 등 혐의로 기소된 김모씨에게 징역 8년을 선고한 원심을 깨고 징역 5년을 선고했다. 아동·청소년·장애인 관련 기관 취업 제한 7년과 형 종료 이후 보호관찰 3년 명령도 함께 내렸다.&lt;br&gt;&lt;br&gt;앞서 김씨는 작년 9월 수면제를 먹어 저항하지 못하는 여성을 성폭행한 혐의로 재판에 넘겨졌다. 당시 이 모습은 김씨가 켜둔 인터넷 라이브 방송을 통해 생중계됐고 200명 이상이 시청했다. 이후 경찰은 수사 과정에서 김씨가 다른 여성 한 명을 상대로 저지른 성범죄를 추가 포착하기도 했다.&lt;br&gt;&lt;br&gt;1심은 “생방송 송출 이유를 ‘자극적인 성관계 영상을 송출해 더 많은 시청자 접속을 유도하고 더 많은 수익을 창출하려는 것’으로 보는 게 합리적”이라며 방송의 영리 목적을 인정하고, 징역 8년과 취업 제한 10년을 선고했다. 그러나 2심은 이를 인정하지 않았다.&lt;br&gt;&lt;br&gt;2심 재판부는 “이 사건으로 방송 수익이 창출된다고 하더라도 그 수익이 곧바로 피고인에게 가지 않는다”며 “피고인이 방송으로 직접적인 이득을 얻었다고 볼 수 없다”고 했다. 아울러 피해자 중 한 명이 김씨의 처벌을 원하지 않은 점도 양형에 고려했다고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태안 한 아파트서 방화 추정 불 3건 발생… 경찰 수사</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/14/OMCZ6QRK45BFNPA7A3A5ASJBYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/14/OMCZ6QRK45BFNPA7A3A5ASJBYI/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 11:34:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BQYHYLASPJDCFIHEANI24XH37Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남 태안경찰서. /태안경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안군의 한 아파트에서 사흘 새 방화로 추정되는 불이 잇따라 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;14일 소방당국 등에 따르면 지난 10일 오후 12시 40분쯤 태안군 태안읍 한 14층짜리 아파트 복도에 있는 유수검지장치실 2곳에서 불이 났다.&lt;br&gt;&lt;br&gt;이틀 뒤인 지난 12일 오후 5시 25분에도 이 아파트 6층 복도 유수검지장치실에서 불이 났다. 세 건의 화재는 모두 아파트 관계자 등에 의해 자체 진화돼 불길이 번지거나 인명 피해로 이어지지 않았다.&lt;br&gt;&lt;br&gt;불이 난 현장에선 종이와 비닐 등을 태운 흔적이 발견됐다.&lt;br&gt;&lt;br&gt;경찰은 누군가 유수검지장치실에서 종이와 비닐 등에 고의로 불을 붙인 것으로 보고 있다. 경찰 관계자는 “현장에서 채취한 지문과 증거물 등을 통해 3건 모두 동일인이 불을 붙인 것으로 보고 수사를 벌이고 있다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김수현에 20억 소송 건 쿠쿠전자… 재판부 “청구원인 특정하라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/14/BKCGKBORPVF5TKBUJ6WRPPZ2EQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/BKCGKBORPVF5TKBUJ6WRPPZ2EQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 14 Nov 2025 11:11:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S4PGKB6HQRCDXHAG3KNCW3ZWQ4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 김수현. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사생활 논란에 휩싸인 배우 김수현(37)을 상대로 쿠쿠전자 등 광고주들이 제기한 손해배상 소송이 본격화했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사25부(부장판사 권기만)는 14일 쿠쿠전자, 쿠쿠홈시스, 쿠쿠인터내셔널 버하드(쿠쿠홈시스 말레이시아 법인)가 김수현과 소속사 골드메달리스트를 상대로 제기한 20억원대 손해배상 소송 첫 변론기일을 진행했다. 앞서 김수현은 10년 전부터 쿠쿠전자 전속 모델로 활동해 왔다. 그러나 배우 고(故) 김새론과 얽힌 사생활 의혹이 제기돼 여론이 악화하자, 쿠쿠전자는 김수현의 광고를 내리고 민사소송을 제기했다.&lt;br&gt;&lt;br&gt;이날 재판부는 원고 측에 계약 해지 사유를 특정해 달라고 요청했다. 재판부는 “원고는 계약 해지 사유와 관련해 신뢰 관계 파탄을 이유로 들고 있다”며 “단순히 신뢰 관계가 파탄되면 해지할 수 있다는 건지, 상대방의 귀책 사유 때문에 신뢰 관계가 파탄됐다는 건지 명확히 해달라”고 했다. 이어 “김새론 배우가 미성년자일 때 사귄 것인지 아닌지를 두고 다투고 있고 수사도 진행 중”이라며 “현 단계에서 김수현의 귀책 사유 부분이 어떤 약정 해지 사항에 해당하는지 특정해 달라”고도 했다.&lt;br&gt;&lt;br&gt;손해배상 범위에 관해서도 “신뢰 관계 파탄으로 해지하는 건지, 귀책 사유로 해지한다는 건지에 따라 달라진다”며 구체적인 입장을 요구했다. 그러면서 “‘논란이 일어났으니 회사 입장에서 광고하는 게 불가능하다’는 입장만으로는 계약을 해지할 수 없다”며 “해지 사유에 맞춰서 주장을 정리해달라”고 주문했다. 진실 공방 중인 의혹을 두고도 “사실이어야 (계약 해지 요건이 되는지) 판단된다”며 관련 수사 결과를 지켜본 뒤 소송을 이어가겠냐고 원고 측에 물었다.&lt;br&gt;&lt;br&gt;쿠쿠전자 측은 “김수현이라는 배우의 이미지가 추락해서 모든 광고주가 광고를 해지하는 사태가 단순히 가로세로연구소의 의혹 제기로 발생한 건 아니다”라며 “신뢰 관계 훼손 관련 부분도 계약 해지 사유로 주장하는 것이기 때문에, 관련 형사 사건이 끝나야만 민사소송이 진행될 수 있는 건 아니라고 본다”고 했다.&lt;br&gt;&lt;br&gt;김수현 측은 “구체적으로 어떤 행위가 쿠쿠전자와의 계약 의무를 위반했다는 건지(명확하지 않다)”라며 “의혹이 제기된 후 김수현 측이 부실하게 대응했다는 것도 계약 위반으로 특정하는 것 같은데, 어떤 부분이 부실한 대응이었는지 특정해 달라”고 했다. 이에 재판부는 내년 1월 16일을 2차 변론 기일로 잡고 양측 주장을 마저 듣기로 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한글 배우러 왔다가 쓰러진 태국인…배우 이영애 도움으로 귀국길</title>
       <link>https://www.chosun.com/national/national_general/2025/11/14/CMENLPWWRZFY5ESQI3BAN6MFBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/CMENLPWWRZFY5ESQI3BAN6MFBQ/</guid>
@@ -846,15 +915,6 @@
       <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 2023년 전당대회를 앞두고 국민의힘에 입당한 통일교 교인 규모를 2000명대로 특정한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AO5FURHNJBNQXHYKQS6FIDYOCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀이 통일교 압수수색에 들어간 지난 7월 18일 오후 경기 가평군 통일교 천원궁 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 법조계에 따르면 특검은 지난 7일 김 여사, ‘건진 법사’ 전성배씨, 한학자 통일교 총재 등 5명을 정당법 위반 혐의로 추가 기소하면서 공소장에 이같이 적시한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;특검은 김 여사와 전씨가 공모해 당 대표 선거에 자신들이 원하는 후보를 2023년 3월 8일 열린 국민의힘 전당대회에서 당 대표로 뽑히게 하려 통일교에 신도들의 당원 가입을 요청했다고 봤다. 그러면서 그 대가로 통일교 측에 정부 차원의 지원과 교단 인사의 총선 비례대표 공천을 약속했다고 판단했다.&lt;br&gt;&lt;br&gt;정당법 50조 1항은 당 대표 경선에서 특정 후보를 선출되게 하려 선거운동 관계자 등에게 재산상 이익 등을 제공·약속하거나 이를 받아선 안 된다고 규정한다. &lt;br&gt;&lt;br&gt;김 여사와 전씨, 통일교 전 세계본부장 윤영호씨 등이 당 대표 후보로 밀자며 거론한 인물은 국민의힘 권성동 의원으로 알려졌다. 2022년 11월쯤 윤씨는 전씨에게 문자를 보내 “윤심은 정확히 무엇입니까” “전당대회에 어느 정도 규모로 필요한가요”라고 물었고, 전씨는 “윤심은 변함없이 권”이라고 답했다. 특검은 권 의원이 당 대표 선거에 불출마하자 이들이 지원 대상을 김기현 의원으로 바꾸고 통일교 신도들의 가입을 유도했다고 의심 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대검, 14일 노만석 검찰총장 직무대행 퇴임식...‘항소 포기’ 심정 밝힌다</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/13/IYV6A5MWDFB5NNFVRY5SNRVOGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/13/IYV6A5MWDFB5NNFVRY5SNRVOGU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 08:32:34 +0000</pubDate>
-      <content:encoded>지난 12일 ‘대장동 항소 포기’ 사태로 사의를 표명한 노만석 검찰총장 직무대행의 퇴임식이 14일 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZTQYRTGMZDANZSMQ4GGNLCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'대장동 항소 포기' 사태로 사의를 표명한 노만석 검찰총장 직무대행이 지난 12일 서울 서초구 대검찰청으로 출근하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청은 13일 “내일(14일) 오전 10시 30분 대검 본관 15층 대회의실에서 노 직무대행의 퇴임식이 열릴 예정”이라고 했다. 퇴임식은 전례에 따라 비공개로 진행될 예정이다.&lt;br&gt;&lt;br&gt;전날 사의를 표명하면서 별다른 입장을 내지 않은 노 대행은 퇴임사를 통해 항소 포기 사태에 대한 소회를 밝힐 것으로 보인다. 앞서 노 대행은 지난 7일 ‘대장동 개발 비리’ 민간업자 사건에 대한 항소를 불허하면서 검찰 내 반발을 불렀다. 일선 검사들이 ‘항소 포기 경위를 밝히라’며 공개적으로 반발하고, 정진우 서울중앙지검장이 사의를 표명하자 노 대행은 지난 9일 “대장동 사건은 법무부 의견도 참고해 종합적으로 고려했다”는 입장을 냈다.&lt;br&gt;&lt;br&gt;그러나 정성호 법무부 장관이 검찰이 낸 항소 의견에 대해 “신중히 판단해라”라고 세 차례 말하고, 이진수 법무부 차관이 노 대행과 한 차례 전화하며 사실상 항소 포기를 지시한 것으로 알려지면서 ‘법무부 외압’ 논란이 일었다.&lt;br&gt;&lt;br&gt;이에 “노 대행이 법무부의 외압으로부터 검찰 조직을 지키지 못했다”는 일선 검사들의 비판이 빗발치자 노 대행은 결국 항소 포기 결정 닷새 만인 지난 12일 사의를 표명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘구명 로비 의혹’ 한기붕, 소환 불응에 법원 신문도 불출석 </title>
       <link>https://www.chosun.com/national/court_law/2025/11/13/U57EIOSDANC6LE5O32MVE7OJKU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/13/U57EIOSDANC6LE5O32MVE7OJKU/</guid>
@@ -891,42 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OEP23TEMYVH2ZDUPWL7E4R6IAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;국내 온라인 동영상 서비스(OTT) 콘텐츠를 불법 스트리밍하던 ‘누누티비’ 운영자가 항소심에서 형량이 늘었다.&lt;br&gt;&lt;br&gt;대전지법 형사 3-3부(재판장 박은진)는 13일 저작권법 위반 혐의로 기소된 A(31)씨의 항소심에서 징역 3년을 선고한 원심을 파기하고, 징역 4년 6개월을 선고했다. 다만 추징금은 7억원에서 3억7470만원으로 줄였다.&lt;br&gt;&lt;br&gt;A씨는 2021년 7월부터 2023년 4월까지 누누티비를 개설하고, 국내외 유료 OTT 신작 콘텐츠를 불법으로 스트리밍한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 관련 수사가 시작되자 사이트를 폐쇄하고 지난해 11월까지 ‘티비위키’와 불법 웹툰 게시 사이트 ‘오케이툰’도 운영했다. 각 사이트에서 유통된 불법 콘텐츠는 수십만건에 달한다. 사이트마다 불법 도박사이트 배너광고를 달아서 수익금을 얻는 대신 무료로 각종 신작 콘텐츠를 제공했다.&lt;br&gt;&lt;br&gt;누누티비는 불법 스트리밍 사이트의 시초격으로 알려져 있다. 업계에서는 누누티비에서만 약 5조원의 저작권 피해가 발생한 것으로 추정한다.&lt;br&gt;&lt;br&gt;A씨는 도미니카공화국과 파라과이 등 해외에 서버를 두고 정부 단속을 피해 도메인 변경 등의 수법으로 운영을 지속하다가 문화체육관광부 저작권범죄과학수사대와 검찰, 국제형사경찰기구 등의 공조 수사로 지난해 11월 검거됐다.&lt;br&gt;&lt;br&gt;수사기관의 추적을 피하려고 서버에 접속 시 다중 가상 사설망(VPN)과 해외 신용카드, 해외 가상자산 거래소를 이용한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “저작권자의 수익 창출 침해 뿐만 아니라 창작 의욕을 저하해 문화 발전을 저해하는 범죄로 죄질이 좋지 않다”며 A씨에게 징역 3년을 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 추징금을 일부 줄였지만, 형량은 더 높였다.&lt;br&gt;&lt;br&gt;2심 재판부는 원심에서 추산한 범죄수익 중 공범의 별도 사이트 수익까지 혼재됐을 가능성이 있다는 A씨 주장을 받아들이는 한편 몰수한 자산을 공제해 추징금을 3억7470만원으로 정했다.&lt;br&gt;&lt;br&gt;그러면서도 “앞서 스포츠 도박사이트 관련 범죄, 음란물 유포 방조죄 등으로 실형을 선고받았고도 이번 사건 범행을 저질렀고, 수사가 시작되자 사이트를 폐쇄하고 다른 사이트를 개설하는 등 수단과 방법·범행 기간이 점점 심화하고 있다”며 “단호한 처벌을 통한 재범 예방과 피해 방송사가 엄벌을 탄원하는 점 등을 고려하면 원심 형은 지나치게 가벼워 부당하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“어흥~ 막내 왔어요”... 백두산호랑이 ‘미령’ 봉화에 정착</title>
-      <link>https://www.chosun.com/national/people/2025/11/13/BTPHKX3YXJHP5NC3I5OWRTPZ6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/13/BTPHKX3YXJHP5NC3I5OWRTPZ6A/</guid>
-      <dc:creator>봉화=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 08:46:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/33GZ3OYA35DG5OX642EF2TMUR4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 22일 대전오월드에서 경북 봉화군의 국립백두대간수목원 호랑이숲으로 온 백두산호랑이 '미령'. 2021년생 암컷으로 올해 4세며 호랑이숲 막내다./한국수목원정원관리원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 6일 경북 봉화군의 국립백두대간수목원에서 국내 최고령 백두산호랑이 한청(암컷)이 20살로 세상을 떠난 뒤, 또 다른 암컷 막내 호랑이 1마리가 수목원의 새 식구가 됐다.&lt;br&gt;&lt;br&gt;산림청 산하 한국수목원정원관리원(한수정)은 대전 오월드에서 지내던 백두산호랑이 ‘미령(4·암컷)’이 국립백두대간수목원 호랑이숲으로 이주했다고 13일 밝혔다. 2021년 5월생인 미령의 이름은 ‘아름답고 영리한 호랑이’라는 의미다. 백두대간수목원의 호랑이들 중 가장 어리다.&lt;br&gt;&lt;br&gt;앞서 지난 9월 한수정 측은 ‘백두산호랑이를 보다 좋은 환경에서 보호·관리한다’는 취지로 대전 오월드와 업무 협약을 맺었다. 이 협약에 따라 지난달 22일 대전에서 봉화까지 수의사·사육사가 동행해 무진동 항온·항습 차량에 미령을 태워 데려왔다.&lt;br&gt;&lt;br&gt;미령은 백두대간수목원에서 기초 건강검진을 마쳤고 현재 내부 대기실에서 주변 환경에 적응 중이다. 수목원 측은 미령의 적응 수준과 내부 상황 등을 평가한 다음 미령을 관광객들에게 공개할 예정이다.&lt;br&gt;&lt;br&gt;미령이 들어오면서 백두대간수목원 호랑이숲에서 거주하는 호랑이는 총 6마리가 됐다. 현재 2011년생인 우리(14·수컷)가 맏형이며, 한(12·수컷)과 도(12·암컷) 남매, 2021년 에버랜드에서 온 태범(5·수컷)과 무궁(5·암컷) 남매가 함께 지내고 있다.&lt;br&gt;&lt;br&gt;이곳 호랑이숲은 축구장 5.4개 크기인 3.8ha(약 1만1500평) 규모로 국내 최대 호랑이 사육장이다. 백두산호랑이가 살던 서식지와 가장 가까운 형태로 조성됐다.&lt;br&gt;&lt;br&gt;이규명 국립백두대간수목원장은 “멸종위기종인 백두산호랑이를 식구로 맞이할 수 있도록 협력해 준 대전 오월드 측에 감사를 전한다”며 “수목원 내 모든 백두산호랑이가 건강하고 즐겁게 생활할 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“고사장에 폭발물” 글에 발칵...붙잡힌 중학생 “장난” </title>
-      <link>https://www.chosun.com/national/2025/11/13/WEBT4AFM5BDNROVMALKAZ323NY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/13/WEBT4AFM5BDNROVMALKAZ323NY/</guid>
-      <dc:creator>창원=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 08:24:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROERTPIG3FCAVNLNPINKY7SPJM.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수능을 하루 앞두고 고사장에 폭발물을 설치했다는 허위 글을 인터넷에 올려 경찰이 출동하는 소동을 일으킨 중학생이 경찰에 붙잡혔다. 이 학생은 스스로 경찰에 신고했다가 덜미를 잡혔는데, “장난삼아 했다”고 진술했다. &lt;br&gt;&lt;br&gt;경남경찰청은 공중 협박 혐의로 중학생 10대 A군을 조사 중이라고 13일 밝혔다. A군은 전날 오후 10시 34분쯤 한 인터넷 커뮤니티에 ‘경남의 한 고등학교 수능 시험장에 폭발물을 설치했다’는 취지의 글을 게시한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A군은 이같은 글을 게시하고 18분 만인 오후 10시 52분쯤 112에 전화해 “폭발물을 설치했다는 게시글이 있다”고 신고했다. 신고를 받은 경찰관 10여명이 해당 학교를 찾아 현장을 확인했지만, 폭발물은 없었다. &lt;br&gt;&lt;br&gt;경찰은 야간 시간대 신고라는 점에서 신고자인 A군을 찾아가 신고 경위를 확인하던 중 “본인이 글을 게시한 후 신고했다”는 자백을 받았다. &lt;br&gt;&lt;br&gt;A군은 경찰 조사에서 “장난으로 글을 올렸다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 A군을 상대로 정확한 범행 동기를 조사하고, A군 입건 여부를 결정할 방침이다. A군이 폭발물을 설치했다고 글을 게시한 수능 시험장에서는 이날 수능 시험이 정상적으로 치러졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>윤석열 ‘일반이적’ 재판, 다음 달 1일 시작</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/13/ETSIM3YGBFBPPGTMFUVTR3I5EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/13/ETSIM3YGBFBPPGTMFUVTR3I5EM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 08:17:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2TKMRSGQ4TAZJUGIYGMMRSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 ‘일반이적’ 혐의 재판 절차가 다음 달 시작된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사 36부(재판장 이정엽)는 13일 일반이적·직권남용 혐의로 기소된 윤 전 대통령과 김용현 전 국방부 장관, 여인형 전 국군 방첩사령관 재판의 첫 공판 준비기일을 오는 12월 1일 오후 2시 10분으로 지정했다. 준비기일은 정식 재판 전에 범죄 혐의에 관한 피고인 측 입장을 확인하고, 사건의 쟁점과 심리 계획을 정리하는 절차다. &lt;br&gt;&lt;br&gt;윤 전 대통령 등은 비상계엄 선포의 구실을 만들려는 목적으로 남북 간 무력 충돌 위험을 증대시키는 등 군사상 이익을 저해했다는 일반이적 혐의로 지난 10일 내란 특검에 기소됐다. 세 사람은 모두 구속돼 각자 내란 혐의 등으로 재판을 받고 있는데 추가로 기소된 것이다. 특검은 이들이 공모해 지난해 10~11월 단순 군사작전 목적을 넘어 비상계엄 선포 여건을 조성하기 위해 평양 무인기 침투를 지시했고 평양에 무인기가 추락해 군사적으로도 해를 끼쳤다고 보고 있다. &lt;br&gt;&lt;br&gt;특검은 애초 윤 전 대통령 등에 대해 형법상 외환유치 혐의를 적용하려고 했지만 이들이 북한과 ‘통모(通謨)’한 증거를 찾지 못해 일반이적 혐의를 적용했다. 일반이적죄는 통모와 관계 없이 대한민국의 군사상 이익을 해치거나 적국에 군사상 이익을 공여한 경우 성립한다. 유죄가 인정되면 무기징역 또는 3년 이상의 징역에 처해진다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘지인능욕’ 미끼로 알몸각서 강요… 342명 성착취한 텔레그램 ‘참교육단’ 총책 경찰에 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/07/JNUG5X7KGJHDDLZ2GBFKSSXK24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/07/JNUG5X7KGJHDDLZ2GBFKSSXK24/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 07 Nov 2025 00:52:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2Q6627SJD5BABF4HGUH2DUMJYA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청 사이버범죄수사대가 확보한 ‘참교육단’ 내부 대화방 일부. 조직원들이 피해자를 통제하며 ‘반성문 작성’, ‘일상 보고’ 등을 강요하는 내용이 담겨 있다./서울경찰청 사이버범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;텔레그램 기반 성 착취 범죄 단체 ‘참교육단’이 합성사진을 미끼로 피해자들을 유인한 뒤 알몸 각서 제출과 일상 보고·반성문 작성을 강요하며 성 착취물을 제작·유포해 온 사실이 드러났다. &lt;br&gt;&lt;br&gt;서울경찰청 사이버범죄수사3대는 총책 A(21)씨를 지난달 19일 검거해 구속 송치했다고 7일 밝혔다. 확인된 피해자만 342명에 이른다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A(21)는 공범 B, C(35)와 함께 2020년 7월~2021년 3월 SNS·텔레그램에 “지인 능욕 사진을 합성해주겠다”는 광고를 띄워 의뢰자를 끌어들였다. 이후 “의뢰 사실을 지인들에게 알리겠다”고 협박해 금품과 신체 촬영물, 알몸 각서 등을 갈취했고 일부 피해자를 조직에 포섭했다. &lt;br&gt;&lt;br&gt;단체는 총괄국장을 두고 교육대장·관리자·훈육 체계를 갖춘 뒤 하부에 ‘수사국·정보국·사무국’을 편성해 피해자 물색, 신상 수집·협박, 성 착취물 제작·배포를 분담했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSYQKURJCVAHLNRYOP37X6LTMQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;텔레그램 기반 성착취 조직 ‘참교육단’의 내부 구조도. 상부에 ‘교육대장’(B), ‘관리자’(A), ‘훈육관’(C)을 두고, 하부에 ‘총괄국장’ 아래 ‘사무국·수사국·정보국’을 편성해 피해자 유인·협박·영상제작·유포 역할을 분담한 것으로 드러났다./서울경찰청 사이버범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 ‘박사방·N번방’ 사건 이후 텔레그램 ‘주홍글씨’ 등 성 착취 채널에서 중간 관리자로 활동하며 축적한 방식을 모방·개량해 조직을 꾸린 것으로 조사됐다. 같은 수법을 답습한 파생 텔레그램방도 다수 생겨나 범행이 연쇄 확산됐다. &lt;br&gt;&lt;br&gt;조직은 2021년 8월 충남경찰청이 조직원 63명을 검거하면서 와해됐고, C는 2023년 2월 징역 13년 6개월이 확정됐다. 서울경찰은 2023년 11월부터 관련 사건 수사 과정에서 A의 소재를 특정해 체포했으며, B에 대한 추적 수사를 이어가고 있다.&lt;br&gt;&lt;br&gt;이번 검거는 경찰청 국가수사본부가 2024년 11월 1일부터 2025년 10월 31일까지 실시한 ‘사이버 성폭력 집중 단속’의 성과다. 경찰은 아동·청소년 20명을 상대로 성 착취물 1439개를 제작·판매하고 협박한 피의자 1명 등 성 착취물, 불법 촬영물, 허위 영상물을 제작한 사이버 성폭력 사범들도 대거 검거했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QMHDRIJGIFBE5A43N4I2LYVB6M.png"&gt;&lt;figcaption&gt;&lt;small&gt;/서울경찰청 사이버범죄수사대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 1년간 성착취물·불법 촬영물·허위(딥페이크) 영상물 제작·유포 사범 등 418명을 검거하고 28명을 구속했다. 유형별로는 아동·청소년 성착취물 148명(35.4%), 불법 촬영물 107명(25.6%), 허위 영상물 99명(23.7%), 기타 64명(15.3%) 순으로 집계됐다. 경찰은 “스토킹과 연계된 범행과 AI 봇을 이용한 허위 영상 제작이 계속 늘고 있다”며 무관용 원칙으로 대응하겠다고 했다.&lt;br&gt;&lt;br&gt;디지털 성범죄 피해가 발생하면 즉시 112로 신고하거나 서울디지털성범죄안심지원센터(02-815-0382), 중앙디지털성범죄지원센터(1366)에 연락해 삭제·법률·심리 지원을 받을 수 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 특검 “추경호, 고려대생이던 1980년 비상계엄 경험해…尹 계엄 위법하다 생각했을 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/13/R234O2ZZ35CYHK25QVWYG6TVCE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/13/R234O2ZZ35CYHK25QVWYG6TVCE/</guid>
@@ -934,18 +958,6 @@
       <description/>
       <pubDate>Thu, 13 Nov 2025 07:54:40 +0000</pubDate>
       <content:encoded>내란 특별검사팀이 추경호 국민의힘 의원이 윤석열 전 대통령의 비상계엄의 위법성을 인식했을 것이라고 판단한 근거로, 추 의원이 45년 전 대학 시절 전두환 신군부의 비상계엄을 경험했던 것을 적시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N274TQ5TAVHAXNGGEAM2P6MEFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 중요임무 종사 혐의로 구속 영장이 청구된 국민의힘 추경호 의원이 13일 서울 여의도 국회 본회의에 참석해 있다. 2025.11.13 /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 특검은 추 의원에게 내란 중요임무 종사 혐의를 적용해 구속영장을 청구하면서 추 의원이 지난해 12월 3일 비상계엄 선포 당시 그 위법성을 인식했을 것이라는 정황을 기술했다.&lt;br&gt;&lt;br&gt;특검은 “1980년 5월 17일 추 의원은 고려대 2학년 재학생으로서, 포고령에 따라 모든 대학이 휴교 조치되고 계엄군이 고려대 교내에 주둔하며 학생 시위를 탄압했던 사실 등을 경험했다”고 기재했다.&lt;br&gt;&lt;br&gt;이어 “이 같은 역사적 경험과 인터넷 검색, 문자 송수신, TV 시청 등을 통해 확인하고 있던 내용 등을 통해 비상계엄 선포와 이후 벌어지고 있던 군경의 국회 통제 등 일련의 조치들에 대한 위헌·위법성과 그것이 내란에 해당할 가능성을 알 수 있었다”고 했다. 전두환 신군부가 비상계엄을 선포했을 당시 대학생으로서 이를 경험했다는 것은 근거로, 윤 전 대통령이 선포한 비상계엄도 위법하다는 점을 충분히 알 수 있었다는 해석이다.&lt;br&gt;&lt;br&gt;한편 특검은 윤 전 대통령이 비상계엄 선포 수개월 전부터 이를 모의한 정황을 영장에 상세히 기술했다. 특검에 따르면 윤 전 대통령은 2024년 7월 하와이 순방 중 김용현 당시 경호처장, 강호필 합참 차장과 동행한 자리에서 “한동훈은 빨갱이다”라고 말했다.&lt;br&gt;&lt;br&gt;이어 당시 야당이던 민주당을 비난하며 “군이 참여해야 하는 것 아니냐”는 취지로 말했고, 김용현도 이에 동조했다고 명시했다. 이 대화를 들은 강 차장은 귀국 후 신원식 당시 국방부 장관에게 “분위기가 위험하다. 장관님이 막아야 한다”고 보고했다고 특검은 밝혔다. 윤 전 대통령이 계엄 선포 훨씬 전부터 비상계엄 필요성을 거론하며 한 전 대표에 대한 적대감을 드러냈다는 것이다.&lt;br&gt;&lt;br&gt;특검은 당초 추 의원이 비상계엄 선포 직후 국민의힘 의원 총회 장소를 여러 차례 바꿔 의원들의 계엄 해제 표결 참여를 방해했다며 ‘직권남용’ 등 혐의를 적용하려 했지만, 피해를 당한 의원을 특정하지 못해 ‘내란 중요임무 종사’ 혐의로 포섭해 적용했다.&lt;br&gt;&lt;br&gt;이에 특검은 “대통령이 2차 비상계엄을 선포할 가능성이 있었음에도 추 의원은 대비 없이 국회 원내대표실에 있던 의원들을 데리고 당사로 이동했다”고 적시했다. 다만 법조계에서는 “2차 계엄을 모의했다는 명확한 증거 없이 ‘가능성이 있었다’는 이유만으로 혐의를 포섭한 것은 과도하다”는 비판이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여성 간부공무원과 전국노래자랑 오른 光州 북구청장, ‘백댄서 출장’ 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/13/FK57DYTX3RDANE2F44NLLFFZCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/13/FK57DYTX3RDANE2F44NLLFFZCA/</guid>
-      <dc:creator>광주광역시=진창일 기자, 김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 07:09:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZTSMJXGFTDGODEHBRGEMBRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 6일 광주광역시 북구 동강대에서 진행된 KBS 전국노래자랑 광주 북구편 녹화 당시 문인 북구청장과 여성 간부 공무원들이 퍼포먼스를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시의 한 구청장이 여성 간부 공무원들과 전국노래자랑 무대에 올랐다가 ‘백댄서 출장’ 논란에 휩싸였다. 이 공무원들은 구청장과 함께한 노래자랑 무대가 공무 수행이라며 ‘출장 신청’도 냈다.&lt;br&gt;&lt;br&gt;민주노총 광주본부는 13일 “주민들이 진정 필요로 하는 것은 구청장의 무대를 빛내 줄 백댄서가 아니라, 민원 현장에서 주민을 지원하는 공무원”이라며 “구청장 무대의 백댄서 역할을 ‘공무 수행’으로 출장 처리한 것은 명백한 직권 남용이자 세금 낭비”라고 밝혔다.&lt;br&gt;&lt;br&gt;지난 6일 광주 북구의 한 대학교 운동장에서 KBS 전국노래자랑 ‘광주 북구 편’ 녹화가 진행됐다. 문인 광주 북구청장이 직접 무대에 올라 가수 윤수일의 ‘아파트’를 불렀다.&lt;br&gt;&lt;br&gt;광주 북구청 소속 자치행정국장·가족복지국장·보건소장·주민자치과장·체육관광과장·오치1동장·동림동장·중흥동장 등 8명 간부 공무원은 문 구청장이 노래를 부르는 동안 무대 뒤편에서 음악에 맞춰 춤을 췄다. 이들은 모두 여성이다.&lt;br&gt;&lt;br&gt;민주노총 광주본부는 “북구청 조직이 공공의 이익이 아닌 구청장 개인을 위해 사유화되고 있다”며 “백댄서로 동원된 공무원 전원이 여성이라는 사실은 성인지 감수성이 얼마나 빈약한지 적나라하게 드러냈다”고 지적했다.&lt;br&gt;&lt;br&gt;공무원노동조합 광주본부도 성명을 통해 “공무원들을 들러리 삼아 다른 공무원들의 자존감을 무너뜨렸다”며 “자발적 참여라고 해도 이를 용인한 구청장의 책임이 크다”고 했다.&lt;br&gt;&lt;br&gt;무대에서 춤을 춘 간부 공무원은 모두 전국노래자랑 녹화 당일 공무 수행 출장 신청을 하고 무대에 선 것으로 파악됐다. 자치행정국장과 주민자치과장은 행사 전날에도 1시간 30분에서 2시간가량 출장을 내고 녹화 사전 준비를 했다.&lt;br&gt;&lt;br&gt;공무원들의 출장은 상위 직급자가 결재한다. 국장급 공무원의 출장 결재는 부구청장 혹은 안전총괄과장 등이 한다.&lt;br&gt;&lt;br&gt;출장 지역이 북구 관내여도 4시간 이내 출장은 1만원, 4시간 이상은 2만원의 출장비가 지급된다. 다만 광주 북구청 관계자는 “이번 노래자랑 녹화와 관련해 별도의 출장비를 지급하진 않았다”고 했다.&lt;br&gt;&lt;br&gt;문 구청장은 입장문을 내고 “무대에 함께 선 간부 공무원들은 누구의 지시나 요청에 따른 것이 아니라 자발적으로 참여했다”며 “여성 간부들만 참여하게 된 점에 대해 제기된 우려의 목소리는 겸허하게 받아들이며 앞으로 더욱 세심히 살피겠다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQZTSMJXGFTDGODEHBRGEMBRGE.jpg?auth=417ef763e2e9049053bb6e9998017560e0cfba125a768b7d51f543e353986123&amp;smart=true&amp;width=3680&amp;height=2338" type="image/jpeg" height="2338" width="3680">
-        <media:description type="plain">지난 6일 광주광역시 북구 동강대에서 진행된 KBS 전국노래자랑 광주 북구편 녹화 당시 문인 북구청장과 여성 간부 공무원들이 퍼포먼스를 하고 있다. /뉴스1</media:description>
-      </media:content>
     </item>
     <item>
       <title>울산화력 붕괴 사고 일주일 만에, 동서발전·HJ중공업 뒤늦은 사과</title>
@@ -964,18 +976,6 @@
       <description/>
       <pubDate>Thu, 13 Nov 2025 02:58:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4DEZJUGE2GKMBWGI4TGOJYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고현장/ 경기 부천소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 부천시 제일시장 안으로 트럭이 돌진해 19명이 다쳤다. &lt;br&gt;&lt;br&gt;13일 경기소방본부 등에 따르면 이날 오전 10시 55분쯤 경기 부천시 오정구 원종동 제일시장에서 1t 화물트럭이 시장 안으로 돌진했다. &lt;br&gt;&lt;br&gt;이 사고로 시장 안에 있던 70대 여성 1명과 80대 여성 2명이 심정지 상태로 발견됐다. 또 16명이 다쳐 119 구급대에 의해 인근 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;“트럭이 시장 상가로 돌진했다”는 신고를 받고 출동한 소방 당국은 장비 21대와 대원 60명을 투입해 현장 조치 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미국 한국 공동 연구, 척추전방전위증에 한방 근육신경재활치료 효과 입증</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/11/13/YDO7XRJQF5FAVGSMLKOHZSAVQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/13/YDO7XRJQF5FAVGSMLKOHZSAVQY/</guid>
-      <dc:creator>김철중 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 12 Nov 2025 21:03:41 +0000</pubDate>
-      <content:encoded>척추전방전위증으로 허리와 다리에 통증이 있을 경우, 추나와 침 등 한방 치료가 신경주사 치료보다 효과가 좋다는 연구 결과가 미국과 한국의 공동 연구로 나왔다.&lt;br&gt;&lt;br&gt;척추전방전위증은 척추뼈가 그 아래 척추뼈보다 앞으로 어긋나 있는 상태를 말한다. 척추뼈가 밀려 나가면서 척추신경이 지나는 공간이 좁아져서 협착증 증상을 일으킨다. 신경이 눌려 허리, 다리, 엉덩이 부위에 심한 통증이 발생하고 걷다가 쉬기를 반복하며 오래 걷지 못 하는 증상을 보인다. &lt;br&gt;&lt;br&gt;미국 메이요클리닉 재활의학과 웬춘 쿠(Wenchun Qu) 박사와 국내 모커리한방병원 김기옥 원장 공동 연구팀은 미국과 한국에서 다리 증상이 있는 척추전방전위증 환자 115명을 모집하여, 이들을 대상으로 한방치료와 신경주사 치료 효과를 비교 검증한 논문을 국제학술지 메이요 클리닉 프로시딩스(Mayo Clinic Proceedings, 논문발표집) 11월호에 발표했다&lt;br&gt;&lt;br&gt;임상연구는 115명의 환자가 무작위로 배정되어 한방 근육신경재활치료군은 58명, 신경주사 치료군은 57명으로 이뤄졌다. 2017년 6월부터 2022년 12월까지 진행된 다국적 무작위 대조시험으로, 치료가 끝난 후 약 2년간 후속 평가도 시행됐다. 임상연구 대상 환자들은 전방전위증으로 기립이나 보행 시 신경성파행증상이나 다리방사통이 최소 1년 이상 지속된 상태였다.&lt;br&gt;&lt;br&gt;연구팀은 환자들을 ▲한방 근육신경재활치료군(이완추나,침치료) ▲신경주사, 진통제 치료군으로 나눠 치료를 주 2회, 5주 연속 진행한 후 96주간 후속 평가를 했다. &lt;br&gt;&lt;br&gt;이번 임상연구에 진행된 모커리 근육신경재활치료는 이완추나와 침치료, 생활관리법 교육으로 이뤄졌다. 이완추나는 틀어진 뼈를 맞추는 교정치료가 아니고 척추 주변 연부조직, 뭉치고 뒤틀린 근육들을 풀어서 척추의 좌우 밸런스를 잡아 척추 기능을 회복시키는 치료다.&lt;br&gt;&lt;br&gt; 연구 결과, 한방치료군, 신경주사 치료군 모두 허리 통증, 다리 통증이 호전되는 반응을 보였으나, 한방치료군에서 허리 통증 개선 점수가 10.27점 높았고, 다리 통증 개선 점수도 11.91점 높았다고 연구팀은 전했다. 또한 96주간의 후속 평가 기간을 통해, 한방 근육신경재활치료군이 허리 통증 및 다리 통증 완화에 더 지속적인 효과가 있음을 보여줬다고 연구 논문은 전했다.&lt;br&gt;&lt;br&gt;김기옥 병원장은 “미국의 저명한 의료기관인 메이요클리닉과의 공동연구를 통해 척추전방전위증 환자에 대한 한방 근육신경재활치료의 효과가 입증되고, 장기적인 안전성과 유효성도 인정받았다는 데 의의가 크다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/P272NPHSJBF3BFBJOE4AH5HIVE.jpg?auth=dcb9f2ccbeba2dfa5a0ee7c974b4baadf4e84931adb37f86265db7b0abe423ee&amp;smart=true&amp;width=1080&amp;height=1592" type="image/jpeg" height="1592" width="1080">
-        <media:description type="plain">척추전방전위증 환자에게 이완추나치료를 하고 있는 모습</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
