@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>통영 철인경기 출전 40대 동호인, 수영 연습하다 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/11/15/ZCFHMNTINVHTFNG7L2U3BUS2BY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/15/ZCFHMNTINVHTFNG7L2U3BUS2BY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Nov 2025 08:56:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWKMJQMNRTGMBRME4WENTGGI.png"&gt;&lt;figcaption&gt;&lt;small&gt;통영해양경찰서 전경. /통영해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘2025 통영 월드 트라이애슬론컵 대회’ 경기 첫날인 15일 대회에 출전한 40대 남성이 수영 연습을 하다가 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;통영시 등에 따르면 이날 오후 2시 35분쯤 이번 대회 동호인 참가자인 40대 남성 A씨가 경남 통영시 도남동 트라이애슬론 광장 앞 해상에서 수영을 하던 중 몸에 이상 징후가 발생했다. &lt;br&gt;&lt;br&gt;구조대가 A씨를 물 밖으로 데리고 나와 심폐 소생술을 하며 사설 구급차로 인근 병원으로 옮겼지만, 사망 판정을 받았다.&lt;br&gt;&lt;br&gt;A씨는 다음 날 있을 경기에 앞서 수영 테스트를 하던 중 사고를 당한 것으로 알려졌다. 통영해경은 정확한 사고 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;대한철인3종협회와 통영시가 주최하는 이번 대회는 월드트라이애슬론연맹(WT)이 승인한 공식 국제 대회로, 세계 각국 엘리트 선수와 국내 동호인 선수들이 출전해 육상·수영·사이클을 잇는 철인 3종 경기를 펼친다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>나나 측 “자택 강도 침입으로 母 의식 잃어…나나도 부상, 안정 필요”</title>
       <link>https://www.chosun.com/national/people/2025/11/15/PCQA4XY7BFCBTI25Q7SCAJEIJ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/15/PCQA4XY7BFCBTI25Q7SCAJEIJ4/</guid>
@@ -954,15 +963,6 @@
 &lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
         <media:credit role="author" scheme="urn:ebu">임채두</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>특검이 한 달 만에 재청구한 박성재 구속영장 또 기각</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/CX6K7R4E35CGDJ67XLAX7VQRVE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/CX6K7R4E35CGDJ67XLAX7VQRVE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 16:34:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRC5JUPXDVIOPM66EXO3PWF46Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란 중요임무 종사, 직권남용 권리행사방해 혐의를 받고 있는 박성재 전 법무부 장관이 13일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄이 위헌·위법한 줄 알면서도 가담했다는 혐의를 받는 박성재 전 법무부 장관의 구속영장이 법원에서 또 기각됐다. 남세진 서울중앙지법 영장 전담 부장판사는 13일 박 전 장관의 영장 실질 심사를 진행한 뒤 특검의 영장 청구를 기각했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;남 부장판사는 “종전 구속영장 기각 결정 이후 추가된 범죄 혐의와 추가로 수집된 자료를 종합해 봐도 여전히 혐의에 대한 다툼의 여지가 있어 불구속 상태에서 충분한 방어 기회를 부여받을 필요가 있다고 판단된다”고 기각 사유를 밝혔다. 또 “현재까지 확보된 증거 및 수사 진행 경과, 일정한 주거와 가족관계, 경력 등을 고려하면 향후 증거를 인멸하거나 도망할 염려가 있다고 보기도 어렵다”고 했다.&lt;br&gt;&lt;br&gt;특검은 지난달 9일 박 전 장관에 대한 구속영장을 한 차례 청구했으나 당시 법원은 “박 전 장관이 (비상계엄의) 위법성을 인식하게 된 경위나 인식한 위법성의 구체적 내용, 박 전 장관이 취한 조치의 위법성 존부나 정도에 대해 다툴 여지가 있다”며 기각했었다. 이후 특검은 보강수사를 한 뒤 다시 영장을 청구했다.&lt;br&gt;&lt;br&gt;박 전 장관에 대한 두 번째 영장 실질 심사는 전날 오전 10시10분부터 오후 2시 53분까지 약 4시간 43분간 진행됐다. 특검팀은 235쪽 분량 의견서와 163장의 파워포인트(PPT) 자료로 박 전 장관의 구속 필요성을 주장했다. &lt;br&gt;&lt;br&gt;특검팀은 특히 ‘계엄 사후 문건 작성 지시’의 위법성을 강조했다고 한다. 계엄이 해제된 작년 12월 4일 박 전 장관은 윤 전 대통령이 계엄 선포 사유로 내세웠던 더불어민주당의 잇단 탄핵소추와 예산 삭감에 관한 구체적인 내용을 문건으로 작성해 보고하도록 법무부 실무진에 지시했는데, 특검은 이 지시가 계엄을 정당화할 목적으로 부하 직원들에게 의무 없는 일을 시킨 직권남용에 해당한다고 주장했다. 이는 지난달 첫 영장 심사 때 포함하지 않았던 내용이다. &lt;br&gt;&lt;br&gt;반면 박 전 장관 측은 “비상계엄을 막지 못해 송구하다”면서도 “계엄 사후 문건 작성은 법무부가 해야 할 업무에 대비하라는 지시였을 뿐”이라고 혐의를 부인한 것으로 전해졌다. 박 전 장관의 구속영장이 또 다시 기각되면서 신용해 전 법무부 교정본부장 등 남은 내란 사건 수사에도 차질이 불가피하다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수능, 킬러 없었지만 작년보다 어려워</title>
