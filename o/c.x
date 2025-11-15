@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산화력 붕괴 사고 9일 만에...발파 업체 코리아카코 공식 사과</title>
+      <link>https://www.chosun.com/national/regional/2025/11/15/V5QH7JH2PJFKXGKNA6QWIVRXYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/15/V5QH7JH2PJFKXGKNA6QWIVRXYA/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Nov 2025 04:38:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MUOYR6EOZNF5EYA7J7AT5OAHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산화력발전 보일러 타워 해체 공사를 하도급 받아 진행한 코리아카코 석철기 공동대표 등이 15일 사고 현장 앞에서 사과 입장을 밝히고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7명이 숨진 울산화력발전소 붕괴 사고 관련 발파 해체 작업을 맡았던 코리아카코가 15일 유가족에게 공식 사과했다. 사고가 발생한 지 9일 만이다. 또 사고 원인에 대해서는 “원인을 추정하기 어려워 답답하다”고 밝혔다.&lt;br&gt;&lt;br&gt;코리아카코 석철기 대표는 이날 오전 사고 현장 앞에서 기자회견을 갖고 “사고로 유명을 달리하신 희생자들의 명복을 빌며, 예상치 못한 비극을 겪는 유가족께 무거운 마음으로 사과와 위로를 전한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “유가족 지원에 최선을 다하고, 수사기관 요청을 포함해 원인 규명에 필요한 절차에 성실히 협조하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;코리아카코 측은 취재진 질의에 대해 “수사 중이어서 답변이 곤란하다”며 답변을 피했다. 다만 일부 질문에 대해서는 부연하는 등 목소리를 내기도 했다.&lt;br&gt;&lt;br&gt;회사 측은 ‘추정하는 사고 원인이 있느냐’는 질문에 “추정할 수 없어 우리도 답답하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSRZBIIVMJMWNDGPSXKYFPFQQI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;석철기 코리아카코 대표이사가 15일 한국동서발전 울산화력발전소 후문 앞에서 보일러 타워 붕괴사고와 관련해 사과를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘위험한 작업에 왜 정직원 1명에 나머지 계약직이 투입됐느냐’는 물음에는 “평소 우리 직원들과 지속해서 일했던 기능공들이고, 일부 일용직은 화재 감시나 신호 등 업무를 맡았다”고 답했다.&lt;br&gt;&lt;br&gt;또 “사고 당시 타워 25m 지점에서 일부 취약화 작업(구조물이 넘어지기 쉽도록 단단한 기둥이나 지지대를 잘라 놓는 작업)과 함께 방호 작업이 진행 중이었다”며 “시공은 구조 검토서대로 이뤄졌다”고 주장했다.&lt;br&gt;&lt;br&gt;’와이어를 연결한 전도 공법이 안전 측면에서 낫다는 의견이 있다‘는 지적에는 “와이어는 사람이 설치하기 위해 대상물에 직접 올라가고 다가가야 해서 발파 해체 공법이 훨씬 안전하다고 판단했다”고 답했다.&lt;br&gt;&lt;br&gt;다만 ‘왜 25m 지점에서 취약화 작업이 이뤄졌는지’ ‘현장에 감리가 있었는지’ ‘외부에서도 취약화가 가능한데 왜 내부로 인력을 투입했는지’ 등의 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;한편 이날 처음으로 시신이 수습된 전모(49)씨의 발인이 진행됐다. 전씨는 보일러 타워 해체 공사 현장에 투입된 지 불과 사흘 만에 사고를 당한 것으로 알려져 안타까움을 더했다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 울산화력발전소에서는 가로 25ｍ, 세로 15.5ｍ, 높이 63ｍ 규모 보일러 타워 5호기가 붕괴했다. 당시 현장에 있던 작업자 9명 중 2명은 살아서 구조됐으나 7명은 매몰돼 모두 숨졌다. 구조된 2명은 중상을 입어 현재 치료 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>혈액 보유량 ‘빨간불’...전국 3.7일분 밖에</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/11/15/4DMZCSTZYJCF7PPY6KKRGA35S4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/15/4DMZCSTZYJCF7PPY6KKRGA35S4/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Nov 2025 04:46:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5JAP6GP25NWDAEGIFC2AVML2E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 한 고등학교에서 학생들이 헌혈을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 혈액 보유량이 적정 기준인 ‘5일분 이상’보다 한참 아래인 ‘3.7일분’까지 떨어진 것으로 나타났다. 혈액 수급에 빨간불이 켜지면서 대책 마련이 필요하다는 목소리가 나온다. &lt;br&gt;&lt;br&gt;대한적십자사 혈액관리본부에 따르면 지난 14일 기준 전국 혈액 보유량은 3.7일분(1만8411유닛, 혈액 1유닛은 약 320∼400cc)이다. 통상 적정 혈액 보유량이 ‘5일분 이상’인데 이를 밑도는 것이다.&lt;br&gt;&lt;br&gt;혈액 보유량 5일분 미만은 혈액수급위기단계 중 ‘관심’ 단계로, 혈액수급 부족 징후가 있다고 판단된다. 혈액 보유량 3일분 미만은 혈액수급이 부분적으로 부족한 ‘주의’ 단계, 2일분 미만은 혈액수급 부족이 지속되는 ‘경계’ 단계, 1일분 미만은 혈액수급 부족 규모가 확대되는 ‘심각’ 단계로 분류한다. &lt;br&gt;&lt;br&gt;혈액형별로 A형이 2.9일, B형 5.6일, O형 2.9일, AB형 3.6일 등 B형을 제외하면 모두 적정 수준 아래였다. A형과 O형의 보유량이 적은 편이었다.&lt;br&gt;&lt;br&gt;계절적으로 추운 겨울에 헌혈자 수가 줄어들면서 혈액 보유량이 줄어드는 것을 감안해도 혈액이 적은 편이다. 지난해 11월 초·중순 혈액 보유량은 2만5000~3만 유닛 수준이었다.&amp;nbsp;&lt;br&gt;&lt;br&gt;올 초 혈액 보유량이 2만대로 떨어지는 등 부족 상황이 반복되고 있다. 코로나가 발생한 2020년에는 혈액 보유량이 3일 미만으로 떨어지자 적십자사에서는 헌혈을 독려하는 재난 문자를 발송하기도 했다. &lt;br&gt;&lt;br&gt;보건복지부 측은 “의료기관 공급량이 많아졌거나 하는 특이 사항이 발생한 것은 아니다”라며 “혈액 보유 상황을 봐가면서 헌혈 증진 방안을 고민하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배우 나나 자택에 흉기 든 강도… 몸싸움 끝 제압해 신고</title>
+      <link>https://www.chosun.com/national/incident/2025/11/15/KE5RXXRFMJB33PHVODSADXQR7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/15/KE5RXXRFMJB33PHVODSADXQR7E/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 15 Nov 2025 04:18:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘애프터스쿨’ 출신 배우 나나의 자택에 침입해 강도 행각을 벌인 30대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 구리경찰서는 특수강도미수 혐의로 30대 남성 A씨를 붙잡아 조사하고 있다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 6시쯤 경기 구리시 아천동의 한 빌라에 흉기를 들고 침입해 거주자를 위협하며 돈을 요구한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 집에는 나나와 어머니가 함께 있었으며, 두 사람은 침입한 A씨를 몸싸움 끝에 제압한 뒤 곧바로 경찰에 신고한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;현재 A씨는 병원으로 이송돼 치료를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 A씨와 피해자 등을 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/ZDE452ZTNYQ7E6DE542ELETTFA.jpg?auth=f2c594d8fb46cfe6eacf0963add7ff13b2de13b41a83df5f04ba58f1b6bfa09f&amp;smart=true&amp;width=2857&amp;height=4081" type="image/jpeg" height="4081" width="2857">
+        <media:description type="plain">배우 나나 2023.816/뉴스1 ⓒ News1 권현진 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 권현진 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
       <title>“펜 번져 수능 망쳐” 수험생 불만 쏟아진 ‘컴퓨터용 사인펜’</title>
       <link>https://www.chosun.com/national/education/2025/11/15/XPYOPCLDCVBUHCA62SC7MAG6RA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/15/XPYOPCLDCVBUHCA62SC7MAG6RA/</guid>
@@ -816,15 +847,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q7OKEKN6KRHY7AEWAUD2KRYJEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공로상 받는 김광태(오른쪽 두 번째) 대림성모병원 회장/대림성모병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김광태 대림성모병원 회장(대한병원협회 명예회장)이 스위스 제네바에서 열린 제 48차 국제병원연맹(IHF) 세계병원대회에서 공로상을 받았다.&lt;br&gt;&lt;br&gt;이번 세계병원대회는 IHF 제네바대학병원(HUG)이 10~13일 주최 및 주관한 행사로 90여 국의 보건의료전문가 및 병원종사자 1500여 명이 참석했다. 김 회장이 수상한 공로상 시상식은 지난 12일 열렸다.&lt;br&gt;&lt;br&gt;김 회장은 대한병원협회와 국제병원연맹 회장을 역임하며 세계 병원 간 교류와 협력 증진에 기여했다는 평가를 받는다. 그는 국제병원연맹 회장 재임 시절에는 세계 우수 병원과 혁신 사례를 시상하는 ‘IHF 어워드’를 제정하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘경영 개입 안한다’ 계약 위반한 사모펀드...法 “위약벌 90억 내라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/2ITNKAZWMFGTJFUY4MRVVDSKZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/2ITNKAZWMFGTJFUY4MRVVDSKZQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 02:28:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KMAKD2NLVK6ZLY6OGDAAAUK43I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법·서울고법이 있는 서울법원종합청사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경영 개입을 하지 않겠다는 계약을 어긴 사모펀드 운영사에 법원이 거액의 위약벌을 명령했다. 사모펀드의 경영 개입을 둘러싼 논란이 반복되는 가운데 위약벌 조항의 실효성을 분명히 한 판결이라는 평가가 나왔다.&lt;br&gt;&lt;br&gt;서울고법 민사16부(재판장 김인겸)는 지난달 전자다트 개발 회사인 피닉스다트 창업주 측이 사모펀드사 오케스트라PE의 특수목적법인(SPC)을 상대로 낸 위약벌 청구 소송 항소심에서 1심과 같이 “위약벌 90억원을 지급하라”며 원고 승소로 판결했다. 위약벌은 계약을 어겼을 때 내기로 하는 일종의 벌금으로, 실제 손해 여부나 규모와는 상관없이 약속을 어겼다는 자체만으로 내야한다. 위약금과 달리 원칙적으로 법원에서 감액할 수 없게 돼 있다.&lt;br&gt;&lt;br&gt;경영참여형 사모펀드 운용사인 오케스트라PE는 2019년 자사 펀드를 통해 피닉스다트 주식 86.3%를 인수했다. 이후 나머지 약 14% 지분을 가진 창업주와 서로 경영에 어떻게 관여할지를 정한 ‘주주 간 계약’을 체결했다. 경영진 선임·해임 시 상대방에게 사전 서면 동의를 받기로 하는 등 내용이 담겼다. 그런데 인수 직후 오케스트라PE 측이 파견한 대표이사 A씨가 회사 돈을 빼돌렸다는 의혹이 제기됐다. 자신이 관여한 다른 펀드의 투자 회사에 50억원을 투자하게 하고, 피닉스다트의 일본 자회사 차입금을 대환하는 과정에서 피닉스다트의 유보자금을 담보로 제공한 사실이 드러나 배임 논란이 일었다.&lt;br&gt;&lt;br&gt;이 같은 사실이 알려지자 투자자(LP)들과 창업주가 강하게 반발했고, 오케스트라PE 측은 A씨를 대표이사직에서 물러나게 하고 독립 경영을 보장한다는 내용을 주주 간 계약에 추가했다. 또 A씨가 직·간접적으로 경영에 관여하는 등 계약을 어기면 위약벌을 부담한다는 조항도 넣었다.&lt;br&gt;&lt;br&gt;그런데 2023년 오케스트라PE 측은 돌연 기존 펀드 핵심운용인력을 해임하고 B씨로 변경했다. 대표이사로 취임한 B씨는 2023년 일방적으로 법원에 기존 이사들과 감사를 해임하기 위한 임시주주총회 소집 신청을 했다. 이에 피닉스다트와 창업주는 2023년 주주 간 계약 위반이라며 위약벌 소송을 제기했다. &lt;br&gt;&lt;br&gt;법원은 오케스트라PE 측이 실제로 경영에 개입해 주주 간 계약을 위반했다며 위약벌을 전액 지급해야 한다고 판단했다. 1심 재판부는 지난해 “피닉스다트 측 사전 동의 없이 기존 감사를 해임하고 신규 이사로 선임하고, 법원에 이사·감사 해임과 선임을 위한 임시주주총회 소집 허가 신청을 하면서도 이를 피닉스다트 측에 통지하지 않는 등 주주 간 계약을 위반했다”고 했다. &lt;br&gt;&lt;br&gt;항소심 재판부도 “1심의 사실 인정과 판단은 정당한 것으로 인정된다”며 양측 항소를 기각했다. 특히 위약벌 액수가 지나치게 많다는 오케스트라PE 측 주장에 대해 재판부는 “위약벌 액수가 과다하다는 이유로 법원이 계악의 구체적 내용에 개입해 약정을 무효로 하는 것은 사적 자치 원칙에 중대한 제약이 될 수 있고 스스로 한 약정을 이행하지 않으려는 당사자를 보호하는 결과가 될 수 있으므로 가급적 자제해야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“올 수능 국어·수학 1등급 컷, 작년보다 낮을 것... 영어 1등급도 줄어들 전망″</title>
       <link>https://www.chosun.com/national/education/2025/11/14/VZWIBJQMYNCQRHNNXY4M73YYFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/14/VZWIBJQMYNCQRHNNXY4M73YYFU/</guid>
@@ -926,15 +948,6 @@
       </media:content>
     </item>
     <item>
-      <title>[단독] 인천 수도권매립지에 신규 공공소각장 추진</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/14/ZNVGHLI2Q5B67BANPG3FQVGZF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/14/ZNVGHLI2Q5B67BANPG3FQVGZF4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 20:02:00 +0000</pubDate>
-      <content:encoded>인천시가 서구에 있는 수도권 매립지에 신규 공공 소각장 설립을 추진 중인 것으로 13일 확인됐다. 내년부터 수도권(서울·인천·경기) 지자체는 쓰레기를 태운 후 소각재만 묻어야 해 새 소각장이 필요했다. 서울이 신규 소각장 부지로 마포구를 택한 데 이어, 인천은 서구를 고른 것이다.&lt;br&gt;&lt;br&gt;13일 본지 취재를 종합하면, 인천 서구는 지난 5~6일 신규 공공 소각장 입지 후보지로 수도권 매립지를 현지 답사한 것으로 알려졌다. 인천시는 현재 서구에 있는 청라광역소각장이 노후화로 곧 문을 닫게 되면서 하루 240t의 쓰레기를 태울 수 있는 새 소각장 건설을 추진해 왔다. 소각 시설과 함께 음식물 쓰레기 처리 시설(일 120t), 재활용 시설(일 220t)도 함께 들어설 예정이다. 신규 공공 소각장 1차 후보지로는 서구 안에서 총 45곳이 검토됐고, 최종적으로 수도권 매립지, 오류동 뷰티풀파크, 경서동 폐기물 적환장 등 세 곳으로 압축됐다. 이 중 수도권 매립지가 유력한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정부는 2021년 폐기물관리법 시행규칙을 손봐 내년부터 수도권의 쓰레기 직매립을 금지했다. 매립지 낭비를 줄이고, 발생지 처리 원칙에 따라 지자체가 신규 공공 소각장을 지어 처리하자는 취지였다. 그러나 기피 시설이다 보니 지난 4년간 수도권에 새로 지어진 공공 소각장은 한 곳도 없는 상황이다. 서울시가 추진 중인 신규 마포소각장도 이를 취소해 달라는 행정소송이 걸려 있다.&lt;br&gt;&lt;br&gt;수도권 매립지는 1992년 쓰레기 매립이 시작됐을 때부터 “매립이 끝나면 기피 시설인 매립장을 주민 편의 시설로 탈바꿈하겠다”는 약속을 한 바 있어 주민들의 강한 반발이 일 것으로 보인다. 수도권 지자체들은 2015년 6월 수도권 매립지를 3-1 매립장이 다 찰 때까지만 연장 사용하기로 합의했다. 1매립장은 2000년 10월 매립이 끝나 현재 골프장으로 이용 중이고, 2매립장은 2018년 매립 종료 후 현재 상부 토지를 어떻게 사용할지 검토 중이다. 3-1 매립장의 매립률은 13일 기준 65.9%다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>특검이 한 달 만에 재청구한 박성재 구속영장 또 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/11/14/CX6K7R4E35CGDJ67XLAX7VQRVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/CX6K7R4E35CGDJ67XLAX7VQRVE/</guid>
@@ -951,15 +964,6 @@
       <description/>
       <pubDate>Thu, 13 Nov 2025 15:55:00 +0000</pubDate>
       <content:encoded>13일 대학수학능력시험에는 최근 한국 사회에서 주목도가 높았던 각종 이슈, 화제를 다룬 문항이 다수 출제됐다. &lt;br&gt;&lt;br&gt;사회탐구 영역의 ‘정치와 법’에는 아파트 단지에서 길고양이에게 먹이를 주는 행위를 둘러싼 갈등이 소재로 나왔다. 이와 관련해 아파트 규약을 만드는 과정을 ‘정치’로 볼 수 있는지에 대한 두 사람의 의견을 읽고 푸는 문제였다. &lt;br&gt;&lt;br&gt;‘사회문화’에는 글로벌 인기를 끈 넷플릭스 애니메이션 ‘케이팝 데몬 헌터스(케데헌)’를 연상케 하는 소재를 사용한 문제가 출제됐다. ‘케데헌’이 높은 인기를 모은 한국과 미국 간 문화 전파에 대해 묻는 문항이었다. 7번 문항은 ‘최근 주목받고 있는 애니메이션 ○○는 갑국의 일부 젊은이들이 즐겨온 을국의 아이돌 음악에 갑국 대중음악의 색깔을 입혀 갑국에서 창작된 작품이다. 갑국은 온라인 동영상 플랫폼을 통해 ○○를 수출하였고, ○○는 갑국뿐만 아니라 을국에서 선풍적인 인기를 얻은 후 병국을 포함하여 세계적인 흥행을 일으키고 있다’라는 지문을 제시했다. 미국에서 제작한 ‘케데헌’이 온라인 동영상 서비스(OTT)를 통해 세계적 인기를 끈 현상이 떠오르는 내용이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YUNMJELIRZGQDCI3HBG6QT75WI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 한국교육과정평가원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최신 첨단 기술을 소재로 한 문항도 출제됐다. ‘경제’ 과목에는 사람들이 많이 이용하는 ‘동영상 공유 서비스’에 대한 문제가 등장했다. 월 이용료와 사은품, 콘텐츠 이용을 놓고 기회 비용과 편익을 고려해 옳게 추론한 답을 고르는 문제였다. ‘사회문화’에는 정보화의 부작용을 묻는 문항에 인공지능(AI)이 소재로 나왔다. AI 로봇이 출력한 각종 보고서를 본 사람들이 ‘AI라면 믿지’ ‘읽어볼 필요도 없어’라고 말하는 만평을 보여주면서 이에 대한 적절한 설명을 고르는 문제였다. &lt;br&gt;&lt;br&gt;국어 영역 18~21번 문항의 지문도 화제가 됐다. 고전 소설 ‘수궁가’ 가운데 ‘범 내려온다 범이 내려온다’ 등 구절이 실렸다. 수험생 커뮤니티에는 “밴드 이날치의 노래 ‘범 내려온다’가 계속 떠올랐다”는 글이 올라왔다. &lt;br&gt;&lt;br&gt;독일 철학자 임마누엘 칸트가 국어·영어·사회탐구(생활과윤리) 세 과목에 모두 등장하기도 했다. 이를 두고 수험생 커뮤니티에선 ‘출제진에 칸트 덕후(애호가)가 있나’ ‘칸트의 수능 3관왕’이라는 반응이 올라왔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰 ‘빅3’ 공석… 총장 임명 안 하고 ‘대행의 대행’으로</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/6Z5MGOJSXFHMLHEQTPQLKC2THM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/6Z5MGOJSXFHMLHEQTPQLKC2THM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>‘대장동 사건’ 항소 포기 사태로 검찰의 수장인 검찰총장, 2인자 대검 차장검사, 전국 최대 검찰청의 서울중앙지검장이 동시에 공석이 됐다. 검찰의 ‘빅3’가 모두 자리를 비운 것은 2009년 이후 16년 만이다.&lt;br&gt;&lt;br&gt;올해 7월 심우정 전 검찰총장이 사퇴한 후 직무대행을 맡아 온 노만석 대검 차장은 대장동 항소 포기 결정에 대한 책임을 지고 지난 12일 사의를 표명했다. 노 대행의 퇴임식은 14일 열린다. 대행이 운영하던 검찰이 ‘대행의 대행’ 체제가 되는 것이다. 노 차장의 사표가 수리되면, 대검 직책상 선임 검사장인 차순길 기획조정부장이 검찰총장 직무대행을 맡게 된다. 이미 검찰청 폐지 법안이 통과된 상황이어서 이재명 대통령이 법이 시행되는 내년 10월 초까지 후임 총장을 임명하지 않을 것이라는 전망이 우세하다.&lt;br&gt;&lt;br&gt;이에 대해 법조계에서는 “검찰청이 폐지되기까지 10개월이 남았는데, 법적으로 권한과 역할이 있는 정부기관을 ‘식물기관’으로 만드는 게 말이 되느냐”는 비판이 나온다. 최근 일선 검사들은 오후 6시면 ‘칼퇴(정시 퇴근)’를 하고, 초임 검사 중에선 일찌감치 사표를 내는 이들도 있다고 한다. 이렇다 보니 6개월 넘게 처리하지 못한 장기 미제 사건은 작년 한 해 9123건에서 올해는 8월까지 1만818건에 이른다. 검찰 한 관계자는 “정권의 정치적 목적 때문에 결국 국민들만 피해 보고 있는 셈”이라고 말했다.&lt;br&gt;&lt;br&gt;법무부는 우선 총장 대행을 맡을 대검 차장을 임명할 것으로 보인다. 후보로 구자현(52·사법연수원 29기) 서울고검장과 이정현(57·27기) 법무연수원 연구위원 등이 거론된다. 앞서 항소 포기 사태의 책임을 지고 사표를 낸 정진우 서울중앙지검장 후임에는 최근 검찰 내부 반발에 동참하지 않은 김태훈(54·30기) 서울남부지검장과 임은정(51·30기) 서울동부지검장 등이 거론되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수능, 킬러 없었지만 작년보다 어려워</title>
