@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>남욱, 尹 파면되자 “청담동 건물 추징보전 풀어달라” 항고... 법원이 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/16/OTBIY6V5Y5CMJFQA2W7GRTZMWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/16/OTBIY6V5Y5CMJFQA2W7GRTZMWE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 13:19:34 +0000</pubDate>
+      <content:encoded>이른바 ‘대장동 개발 비리’ 사건으로 법정 구속된 민간 업자 남욱(천화동인 4호 소유주)씨가 지난 4월 윤석열 전 대통령 파면 직후 검찰이 추징 보전한 청담동 건물을 풀어달라고 법원에 요청했던 사실이 뒤늦게 드러났다. 법조계에선 “윤 전 대통령 파면으로 정권 교체가 현실화되자 재산을 되찾으려 움직였던 것 아니냐”는 말이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DAMBRMMYWCMBRGA2GEODFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남욱(천화동인 4호 소유주)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 남씨 측 법률 대리인은 지난 4월 25일 서울중앙지법 형사31단독 전은진 판사에게 ‘추징보전 청구’ 인용 결정에 대한 항고를 냈다. 앞서 법원은 검찰이 낸 남씨의 재산에 대한 추징보전 청구를 2022년 11월 일부 인용했고, 서울 강남구 청담동에 있는 5층 건물 등 500억여 원 어치의 재산을 확보해뒀다. 그런데 2년 5개월이 지난 시점에서야 동결된 재산들을 풀어달라고 요청한 것이다. 그러나 법원은 한 주 뒤인 5월 2일 남씨 측 항고를 기각했고, 추징보전 효력은 계속 유지돼 왔다.&lt;br&gt;&lt;br&gt;그러나 법원은 지난달 31일 남씨에게 징역 4년을 선고하고 법정 구속하면서도, 검찰이 구형한 추징금 1010억원은 받아들이지 않았다. 검찰이 기한 내 항소하지 않으면서 남씨의 추징금은 항소심 결과와 상관없이 0원으로 사실상 확정됐다. 이에 남씨 측은 최근 검찰에 추징 보전 해제 절차를 문의하면서, “국가배상 청구도 검토하겠다”고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;법조계에선 남씨가 추징 보전을 풀어달라고 요구한 시점이 공교롭다는 반응이 나왔다. 윤 전 대통령이 탄핵되면서 조기 대선이 확정된 시점과 맞물리기 때문이다. 한 법조계 관계자는 “남씨는 최근 이재명 대통령과 정진상(전 민주당 대표실 정무조정실장)씨가 기소된 재판에서 증언을 번복하며 논란을 빚었는데, 추징 보전을 풀어달라는 요구도 증언 번복처럼 정권 교체를 의식한 행동이었을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 남씨가 대표를 지낸 법인이 2021년 4월 300억원에 매입한 서울 강남구 역삼동 땅을 500억원에 시장에 내놓은 것으로 알려져 논란을 빚었다. 이 땅 주소는 ‘서울 강남구 역삼동 734-15’로, 과거 주유소로 운영되다 남씨가 대표를 지낸 법인 ‘(주)엔에스제이피엠’이 2021년 4월 26일 매입했다. 이 시기는 대장동 개발 비리가 수면 위로 떠오르기 전이다. 현재는 40대를 한 번에 댈 수 있는 유료 주차장으로 운영되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주사 맞고 20분만에 심장마비 사망… 약물 잘못 넣은 간호조무사</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/16/CK6XZYZL5FDBHGO3E4J3SSTADY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/16/CK6XZYZL5FDBHGO3E4J3SSTADY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 12:45:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;간경화 환자에게 투여할 주사 약물을 잘못 준비해 사망에 이르게 한 간호조무사가 금고형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 창원지법 통영지원 형사3단독 박병민 판사는 업무상 과실치사 혐의로 기소된 간호조무사 A씨에게 금고 8개월에 집행유예 2년을 선고했다. 사회봉사 80시간도 함께 명령했다. 금고형은 징역형과 같이 교도소에 수감하되 노역을 부과하진 않는다.&lt;br&gt;&lt;br&gt;A씨는 작년 7월 통영의 한 병원에서 입원 중인 간경화 환자에게 투여할 주사를 잘못 준비해 투약 후 환자가 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 의사는 간질환 보조제를 정맥에 주사하라는 처방 지시를 내렸고, A씨는 혼자 조제실에서 주사를 준비했다. 조제실에는 비슷한 크기와 색의 약품이 혼재돼 있어 약품병에 붙은 라벨을 확인해야 했지만 A씨는 이를 소홀히 했다.&lt;br&gt;&lt;br&gt;A씨는 간질환 보조제가 아닌 혈압을 급격히 올리는 약물을 주사기에 담았고, 담당 간호사가 이 약물을 환자에게 투여했다.&lt;br&gt;&lt;br&gt;약물이 투여된 환자는 20여 분 만에 급성 심장마비로 숨진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;박 판사는 “간호조무사인 피고인이 주사 약물을 착오해 간호사로 하여금 처방과 다른 약물을 주사하게 해 피해자가 사망에 이르게 돼 책임이 무겁다”며 “피해자의 유족과 합의했고, 사건 초기부터 잘못을 인정하고 반성한 점, 범죄 전력이 없는 점 등을 고려해 형을 정한다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“송창진, 이종섭 출금 해제 지시” 진술 확보한 해병 특검</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/16/76GJZBKA7FHKTDVBMRYNK4DH7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/16/76GJZBKA7FHKTDVBMRYNK4DH7Y/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 12:58:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZGCMRTGEZGIMTGGNRWGMTGGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송창진 전 고위공직자범죄수사처 부장검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송창진 전 고위공직자범죄수사처 부장검사가 작년 3월 이종섭 전 국방장관이 주(駐)호주 대사로 임명된 상황에서 공수처의 출국 금지 사실이 알려지자 “이 전 장관에 대한 출국 금지를 해제하라”고 수사팀에 지시한 것으로 전해졌다. 순직 해병 특검은 송 전 부장검사가 이 전 장관의 ‘도피성 출국’을 도우려 했던 건 아닌지 의심하고 있다.&lt;br&gt;&lt;br&gt;16일 법조계에 따르면, 특검은 공수처 관계자들로부터 “작년 3월 6일 송 전 부장검사가 수사팀에 이 전 장관의 출국 금지 해제를 지시했다”는 취지의 진술을 확보했다. 당시는 김진욱 공수처장·여운국 공수처 차장이 퇴임하고 선임인 김선규 공수처 부장검사가 사의를 표명해, 송 전 부장검사가 공수처장 직무대행을 맡고 있을 때였다.&lt;br&gt;&lt;br&gt;앞서 공수처는 지난 2023년 12월 초 이 전 장관에 대해 출국 금지를 한 뒤 이를 연장하고 있었다. 하지만 대통령실은 작년 3월 4일 공수처 수사를 받던 이 전 장관을 호주 대사로 전격 임명했다. 임명 이틀 후인 3월 6일 공수처의 출금 사실이 언론 보도로 알려졌고, 같은 날 공수처장 대행인 송 전 부장검사도 돌연 출금 해제를 지시한 것이다. 특검은 송 전 부장검사의 출금 해제 지시가 공수처의 ‘수사 방해’ 의혹을 뒷받침하는 정황으로 보고 있다. &lt;br&gt;&lt;br&gt;다만 송 전 부장검사의 지시와는 반대로, 공수처는 수사팀의 의견에 따라 당시 법무부에 “이 전 장관의 출국 금지를 유지해야 한다”는 의견을 제출했다. 하지만 법무부는 작년 3월 8일 출국금지 심의위원회를 열어 이 전 장관 출국금지를 해제했고, 이 전 장관은 이틀 뒤인 3월 10일 호주로 출국했다.&lt;br&gt;&lt;br&gt;특검은 17일 서울중앙지법에서 열리는 송 전 부장검사에 대한 구속영장 실질심사에서 이 같은 출금 해제 지시 등 수사 방해 정황을 강조할 방침이다. 특검은 공수처 수사팀이 고(故) 채수근 상병 사망 사건 수사 외압 의혹을 수사하는 것을 방해한 혐의로 송창진·김선규 전 부장검사에 대해 구속영장을 청구했다. 특검은 “피의자들이 죄를 범했다고 의심할 만하고, 범죄가 중대하며, 증거를 인멸할 가능성이 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사이버 성범죄 피의자 80%가 1020… 딥페이크 기술 악용</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/16/RU3ALWGABFEU5PVZ5ILL36EFL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/16/RU3ALWGABFEU5PVZ5ILL36EFL4/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 11:21:01 +0000</pubDate>
+      <content:encoded>최근 1년간 사이버 성폭력 범죄 피의자 절반이 10대로 나타났다. 20대 피의자 역시 30%가 넘었다. 경찰은 디지털에 익숙한 10·20대가 ‘딥페이크’(deep fake) 등 인공지능(AI) 기술을 이용해 성범죄를 저지르는 일이 급증하고 있기 때문이라고 분석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZTBBXTE3RBFCZN2SYG2KHE47LE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 지난해 11월부터 지난달까지 1년간 실시한 단속으로 사이버 성폭력 3411건을 적발해 3557명을 검거했다고 16일 밝혔다. 이 중 221명은 구속됐다. 발생 건수는 전년 동기 3270건에서 4413건으로 35% 증가했고, 검거 인원도 2406명에서 3557명으로 47.8% 늘었다. 딥페이크 등 허위 영상물 범죄가 1553건(35.2%)으로 가장 많았다. 아동·청소년 성 착취물(1513건·34.3%), 불법 촬영물(857건·19.4%) 등이 뒤를 이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26LLL3EGMJFBVIRY7SXVBLBWHM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사이버 성범죄 피의자 중 10대 비율은 47.6%, 20대가 33.2%로 10~20대가 80.8%였다. 기존 사진과 음성·영상을 재료로 인공지능(AI)을 이용해 실제처럼 만드는 딥페이크 기술을 이용한 범죄로 좁히면 10대(895명·61.8%), 20대(438명·30.2%)가 90%가 넘었다. ‘딥페이크 영상 유포자를 알려주겠다’며 또래 여학생 19명에게 인스타그램 등으로 접근해 성 착취물을 만든 17세 남학생, 여성 연예인 얼굴에 나체 사진 등을 합성한 딥페이크물 590개를 제작한 15세 남학생 등이 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;국수본은 2차 피해를 막기 위해 단속 기간 방송통신심의위원회에 피해 영상물 3만6135건에 대한 삭제·차단 조치를 요청했다고 밝혔다. 딥페이크 영상 구매자로 가장한 위장 수사, 딥페이크 탐지 프로그램 도입 등을 통해 검거 인원과 검거율을 전년 동기 대비 각각 47.8%, 7.8% 끌어올렸다. 국수본은 17일부터 내년 10월까지 다시 사이버 성범죄 집중 단속을 실시한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>현직 경찰 정보관 중국 영사관에 외사 정보 유출 의혹 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/16/ZCCAXVS24VDONJFYATNGVA2SDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/16/ZCCAXVS24VDONJFYATNGVA2SDU/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 12:09:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2TMZJQHEYTAZRUME2GGZLDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현직 경찰 정보관이 외사 관련 정보와 문서를 주한 중국 영사관에 유출했다는 혐의로 수사를 받고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;부산경찰청 안보수사대는 이달 초 경북경찰청 광역정보팀 소속 정보관 A씨의 휴대전화 등에 대한 압수수색을 진행했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 업무 과정에서 얻은 정보를 주한 중국 영사관에 유출했다는 혐의를 받고 있다. 경북청은 압수수색 직후 A씨를 일선 경찰서 비 정보 부서로 전보하는 인사 조처를 했다.&lt;br&gt;&lt;br&gt;부산경찰청 관계자는 “압수한 휴대전화에 대해 디지털 포렌식을 진행했다”며 “구체적인 수사 사항에 대해서는 알려줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“소망교도소 온 건 내 덕”... 김호중에 3000만원 요구, 진상 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/16/ACNB7HESNNDLNLPXWMA6FVJJAI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/16/ACNB7HESNNDLNLPXWMA6FVJJAI/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 12:07:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EEF6WRNJURFUDBS4DXGSFFIZHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 5월 24일 음주운전 혐의를 받는 가수 김호중씨가 서울 서초구 중앙지방법원에 출석하고 있다. /박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고를 내고 도주한 혐의 등으로 실형이 확정돼 수감 중인 트로트 가수 김호중(34)씨가 교도관으로부터 수천만원대 뇌물을 요구받았다는 의혹이 제기돼 법무부가 진상 조사에 나섰다.&lt;br&gt;&lt;br&gt;16일 법무부에 따르면 서울지방교정청은 소망교도소 소속 교도관 A씨를 직무에서 배제하고 김씨에게 3000만원을 요구한 정황에 대해 조사하고 있다. &lt;br&gt;&lt;br&gt;김씨는 지난 4월 항소심에서 징역 2년 6개월의 형을 선고받은 후 상고를 포기해 실형이 확정됐다. 재판을 받는 동안 서울구치소에 수감됐던 김씨는 지난 8월 소망교도소로 이감됐는데, A씨는 김씨에게 “소망교도소에 들어올 수 있도록 뽑아줬으니 그 대가를 달라”고 요구한 것으로 알려졌다. 김씨는 A씨의 요구를 들어주지 않으면 수감 생활이 어려워질 수 있다고 생각해 다른 교도관에게 이 사실을 털어놓았다고 한다. &lt;br&gt;&lt;br&gt;법무부는 두 사람 간 실제 금전 거래 내역은 없었던 것으로 파악하고 있다. 또 김씨 선발에 관여했다는 A씨 주장도 사실이 아닌 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소망교도소는 2010년 12월 기독교 재단이 설립해 운영하고 있는 국내 최초·유일 민영 교도소다. 정원 400명 가운데 결원이 발생하면 다른 교정 시설 수감자를 대상으로 서류·면접을 거쳐 입소자를 선발한다. 일반 교정 시설에 비해 시설과 처우가 좋고, 교도관 업무도 공무원이 아닌 민간인이 수행하는 것으로 알려져 있다.&lt;br&gt;&lt;br&gt;김씨는 작년 5월 서울 강남구 압구정동에서 술을 마신 상태로 차량을 몰다가 반대편 도로의 택시를 들이받고 달아났다. 이후 소속사 직원이 운전한 것처럼 허위 자수를 시킨 정황도 드러났다. 다만 사고 당시 음주 수치를 확정하기 어려워 음주운전 혐의는 적용받지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EEF6WRNJURFUDBS4DXGSFFIZHM.jpg?auth=62ae97c2a79c278c0419fce91744d439f64fe5b1f287e8fb2cbe17c972e68701&amp;smart=true&amp;width=697&amp;height=470" type="image/jpeg" height="470" width="697">
+        <media:description type="plain">지난해 5월 24일 음주운전 혐의를 받는 가수 김호중씨가 서울 서초구 중앙지방법원에 출석하고 있다. /박상훈 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경북 칠곡군 물류창고서 불 12시간 만에 완진…인명피해 없어</title>
+      <link>https://www.chosun.com/national/regional/2025/11/16/K2UXARUWJVCEHBO6WKVBLXMW34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/16/K2UXARUWJVCEHBO6WKVBLXMW34/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 11:21:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZPJGR5TPMJIIPCCRRJPCNQPQBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오전 7시10분께 칠곡군 지천면 금호리의 한 육류, 가공식품, 야채 등 보관 저온저장 창고에서 화재가 발생해 소방당국이 진화하고 있다. /경북소방본부 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오전 7시 10분쯤 경북 칠곡군 지천면 한 저온 물류창고에서 원인이 밝혀지지 않은 불이 났다.&lt;br&gt;&lt;br&gt;소방 당국은 이날 오전 7시 33분쯤 대응 1단계를 발령하고 장비 24대와 인력 49명을 투입해 약 12시간 만인 오후 7시 5분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;이 불로 인명피해는 발생하지 않았으나, 물류창고 1개 동과 인접 건물 일부 등이 불에 탔다.&lt;br&gt;&lt;br&gt;칠곡군은 한때 차량 우회와 함께 인근 주민은 안전에 유의하라는 안전안내문자를 발송하기도 했다.&lt;br&gt;&lt;br&gt;소방 당국은 재산 피해와 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>벌목 작업 중 전기톱에… 함양서 60대 숨져 </title>
       <link>https://www.chosun.com/national/2025/11/16/JUW6ITO2QZDSZJOJNTGE4CVQL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/11/16/JUW6ITO2QZDSZJOJNTGE4CVQL4/</guid>
@@ -855,33 +921,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4B4GL5DUERGG3EWSECBGWXMWFE.gif?auth=1e1801868a2f4481a53373e04afd5c3a0dac734aa549a4da8eafb5c06dfdb92e&amp;smart=true&amp;width=1800&amp;height=1012" type="image/jpeg" height="1012" width="1800"/>
     </item>
     <item>
-      <title>특검, ‘양평 특혜’ 의혹 김건희 오빠 김진우 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/K46GGYCNYBDGJLFPUZVIVAFZIA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/K46GGYCNYBDGJLFPUZVIVAFZIA/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 08:38:04 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특검이 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 김 여사 오빠 김진우씨에 대한 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;특검은 14일 “김진우씨에 대해 특정범죄가중처벌법상 국고손실, 업무상 횡령, 업무상 배임, 증거인멸 혐의로 구속영장을 청구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 어머니 최은순씨와 지난 4일과 7일 특검 사무실에 출석해 해당 의혹과 관련해 조사를 받았다. 특검은 “최은순씨와 김진우씨가 모자관계인 점, 피의자들의 범행 가담정도, 증거인멸 우려 등을 참작해 김진우씨에 대하여만 구속영장을 청구했다”고 설명했다.&lt;br&gt;&lt;br&gt;양평 공흥지구 개발 특혜 의혹은 김 여사 일가 기업인 이에스아이앤디(ESI&amp;amp;D)가 2011~2016년 양평군 공흥리 일대 개발 사업을 하며 양평군으로부터 개발 부담금을 면제받는 등 특혜를 받았다는 내용이다. 김씨와 최씨는 해당 대체로 혐의를 부인하거나 시간이 오래돼 기억나지 않는다는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 김씨가 김 여사가 인사 청탁 등을 대가로 받은 각종 물품을 숨겼다고 의심하고 있기도 하다.&lt;br&gt;&lt;br&gt;특검은 김씨의 장모 집에서 김상민(구속) 전 검사가 구입한 이우환 화백의 그림 ‘점으로부터(From Point) No.800298′가 발견된 전후 경위를 수사해 왔는데, 김 여사가 수수한 금품들을 김씨 집에 맡겨뒀고, 김씨가 특검 수사를 앞두고 이를 장모 집으로 옮겼을 가능성이 있다고 보고 있다. 최씨가 운영하는 경기 양평군 소재 요양원과 김씨 사무실 등에서 이배용 전 국가교육위원장이 건넨 당선 축하 카드, 현직 경찰 간부 명단 등이 사라진 것 역시 김 여사 일가가 증거를 일부러 인멸했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박정희 대통령 탄생 108주년 행사... 14일 경북 구미서 열려</title>
-      <link>https://www.chosun.com/national/regional/2025/11/14/2OSHEOG2MJHTHHF34OB4M2ZNQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/14/2OSHEOG2MJHTHHF34OB4M2ZNQA/</guid>
-      <dc:creator>구미=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 08:53:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBLAWPRMRVGWXMXQSBFJQ3GRT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 경북 구미시 복합스포츠센터에서 열린 '박정희 대통령 탄신 108돌 문화행사'에서 AI 영상으로 복원된 박정희 전 대통령이 덕담하고 있다./구미시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박정희 대통령 탄생 107돌을 기념하는 문화 행사가 14일 오전 경북 구미에서 열렸다. 이날 행사에는 박근혜 전 대통령, 이철우 경북도지사, 김장호 구미시장과 일반 시민 등 3000여 명이 참석했다. &lt;br&gt;&lt;br&gt;2시간가량 이어진 행사에서 가장 관심을 모은 것은 인공지능(AI) 기술로 만든 박정희 대통령 영상 메시지였다. 구미시는 이번 행사를 앞두고 1966년 촬영된 박정희 대통령 사진을 토대로 AI 영상 을 제작했다. 2분가량 이어진 이 영상에서 박정희 대통령은 “모두 오랜만이오. 잘 지냈소”라는 인사로 시작했다. 이어 “내가 나라를 맡았을 땐 먹을 것도 희망도 없었소. 그저 잘살아 보자는 마음 하나로 버텼지, 국민이 일했고 기업이 뛰었고 젊은이가 땀을 흘렸소. 그게 바로 대한민국의 기적이었소”라고 말을 이어나갔다. 또 “임자들을 보니 마음이 놓이는구려. 우리에겐 아직 희망이 많소. 대한민국의 기적을 만드는 당신들, 그대들의 미소가 보기 좋구려”라고 말을 맺었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZHJ7N53ZJMQJNG6FYSDVFO7H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박근혜 전 대통령이 14일 경북 구미시 복합스포츠센터에서 열린 '박정희 대통령 탄신 108돌 문화행사'에서 참석자들과 인사를 하고 있다./구미시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이를 본 박근혜 전 대통령은 “(AI 영상으로) 뵈니 조금 낯설기도 했다”면서 “AI 영상을 준비하시느라 힘들고 고생 많았을 텐데 감사하다”고 웃어보였다. &lt;br&gt;&lt;br&gt;유족을 대표해서 한 인사말에서 박 전 대통령은 ”많은 시간이 흘렀어도 아버지를 잊지 않고 기억해 주신 여러분이 계셔서 마음 한편이 따뜻해진다”고 전했다. 이어 박 전 대통령은 “어렵고 힘들더라도 우리가 한마음으로 뭉치면 못 할 일이 없다는 것을 아버지는 가르쳐주셨다”며 “용기를 가지고 함께 이겨내기를 부탁드린다”고 덧붙였다. &lt;br&gt;&lt;br&gt;이날 행사를 준비한 김장호 구미시장은 “올해 문화행사는 대통령 리더십 특강, 사진 전시회 등 시민들이 함께 어울릴 수 있는 행사들로 구성했다”며 “박정희 대통령의 리더쉽과 철학을 미래세대에 제대로 전할 수 있도록 역사 자료관 증축 등의 노력을 이어 나갈 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중국 계좌로 北 해커에게 수천만원 송금...게임 보안 프로그램 해킹 파일 구매 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/14/A56WSIM65FELBP23C7ZX3DQTII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/A56WSIM65FELBP23C7ZX3DQTII/</guid>
-      <dc:creator>장윤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 08:30:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LBPHQYWQCGDDJWSQR7BYN34AOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;리니지 불법 사설 서버를 운영하던 사업가가 북한 해커와의 거래 혐의로 실형을 선고받고 항소심에서 법정구속됐다. &lt;br&gt;&lt;br&gt;14일 법조계에 따르면 13일 서울서부지법 형사1부(재판장 반정우)는 국가보안법 위반 혐의로 기소된 오모(39)씨에 대한 항소를 기각하고 징역 1년과 자격정지 1년을 선고한 원심 판단을 인정, 오씨를 법정 구속했다. &lt;br&gt;&lt;br&gt;오씨는 2014년부터 2015년까지 중국 메신저 ‘QQ’를 통해 북한 해커 ‘에릭’(북한 이름 오성혁)과 수차례 접촉했고, 리니지 사설 서버 운영을 위해 보안 프로그램을 무력화할 핵심 해킹 프로그램을 제공받았다. 오씨는 경쟁 사설 서버에 대한 해킹·디도스 공격 의뢰도 한 것으로 드러났다. &lt;br&gt;&lt;br&gt;에릭은 조선노동당 외화벌이 조직 39호실 산하 조선릉라도무역총회사 릉라도 정보센터 개발팀장으로 디도스 공격과 사이버 테러 관련 기능을 보유한 위험 인물로 알려졌다. 이 정보센터 본사는 북한 평양에, 지사는 중국 항주·단동·연길 등에 소재한다. 겉으로는 합법적 무역회사로 위장하고 있지만 실제로는 인터넷 온라인 게임의 자동사냥 프로그램 등 디도스 공격 등에 악용될 수 있는 불법프로그램을 제작·판매해 북한의 통치자금을 마련하는 창구로 활용되는 것으로 조사됐다.&lt;br&gt;&lt;br&gt;오씨는 거래를 이어가던 중 자신이 접촉한 해커가 외화벌이를 위해 중국에서 활동 중인 힘이 있는 북한 기관의 높은 지위에 있는 해커라는 사실을 알게 된 것으로 조사됐다. 오씨가 해킹 프로그램을 제공받는 대가로 건넨 금액은 약 2380만원이며, 이 돈은 중국 공상은행 계좌로 송금했다. &lt;br&gt;&lt;br&gt;리니지 불법 사설 서버는 수익성이 높은 것으로 알려져 있다. 캐릭터 성장이나 희귀 아이템 획득을 빠르게 설정해 현금 거래로 이어지게 할 수 있고, 이용자가 많아지면 유료 아이템 판매나 광고를 통한 추가 수익도 가능하다. 공식 서버보다 각종 설정을 자유롭게 바꿀 수 있다는 점에서도 인기를 끈다.&lt;br&gt;&lt;br&gt;작년 11월 1심에서 재판부는 “북한의 통치자금을 마련하는 북한 구성원과 교류하고 금품을 제공한 행위는 국가 안보에 중대한 위협을 가한다”며 “사기·상해·명예훼손 등 전과도 있어 준법의식이 현저히 결여되어 있는 것으로 보인다”고 밝혔다. 이번 항소심 재판부는 “양형 조건에 변화가 없고 1심의 양형이 합리적인 범위”라고 밝히며 양형을 유지했다. &lt;br&gt;&lt;br&gt;오씨는 요가복 브랜드 안다르 창업자 신애련 전 대표의 남편으로, 과거 안다르 이사로 재직하며 온라인 유통과 마케팅을 주도했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 신임 대검찰청 차장에 구자현 서울고검장…노만석 후임</title>
       <link>https://www.chosun.com/national/court_law/2025/11/14/TPMLZC23SZGVLDNJDXQUZCRJQQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/TPMLZC23SZGVLDNJDXQUZCRJQQ/</guid>
@@ -909,15 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QV6VTFFEJNGQBEA2463JZEB2IU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전 쇼트트랙 국가대표 김동성 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이혼 후 두 자녀에 대한 양육비를 지급하지 않아 재판을 받아온 전 쇼트트랙 국가대표 선수 김동성 씨에게 검찰이 징역 4개월을 구형했다.&lt;br&gt;&lt;br&gt;14일 수원지법 형사14단독 강영선 판사 심리로 열린 김씨의 양육비 이행확보 및 지원에 관한 법률 위반 혐의 사건 결심 공판에서 검찰은 “김씨가 부양 의무를 이행하지 않아 자녀들이 경제적, 정신적 피해를 입은 점을 참작했다”며 재판부에 이 같은 형을 선고해달라고 요청했다.&lt;br&gt;&lt;br&gt;김씨 측 변호인은 최후변론에서 “피고인은 반성하고 있다. 잘못한 것은 맞지만 악의적인 것은 아니다”라며 “막노동으로 생계를 유지하고 있는 피고인이 어떻게든 양육비를 지급할 계획이 있으니 선처해달라”고 했다.&lt;br&gt;&lt;br&gt;김씨는 최후진술에서 “여태까지 (양육비를) 못 준 것은 잘못한 게 맞다”면서도 현재 자신이 일용직으로 일하며 생계를 이어가고 있는 상황이라고 호소했다. &lt;br&gt;&lt;br&gt;김씨는 “지도자 자격증을 다시 받아 코치로 다시 자리 잡으려고 노력 중이다. 조금만 더 기간을 주시고 지켜봐 주시길 바란다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 2019년부터 정당한 사유 없이 전 부인 A씨가 양육하는 두 자녀의 양육비(1인당 매달 150만원)를 지급하지 않은 혐의로 불구속 기소됐다. 김씨가 미지급한 양육비는 9000여 만원이다. &lt;br&gt;&lt;br&gt;이 사건의 선고 기일은 다음 달 10일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희특검, ‘주가조작’ 양남희 웰바이오텍 회장 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/AE5CQRF6LFFT7NGQFSOTP7YVRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/AE5CQRF6LFFT7NGQFSOTP7YVRE/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 07:30:08 +0000</pubDate>
-      <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 14일 웰바이오텍 회장 양남희씨에 대해 구속영장을 청구할 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRGKYRYGQZTOZBSMFQTINDBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 김형근 특검보는 “양남희 회장에 대해 자본시장법 위반, 특정경제범죄가중처벌법상 배임, 업무상 횡령 혐의로 구속영장을 청구할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;특검은 지난 13일 법원에서 체포영장을 발부받아 양씨를 체포했다. 최근 관련 사건 피의자들이 도주한 사례 등 여러 사정을 종합할 때 양 회장에게 소환 통보를 하더라도 수사 기간이 끝날 때까지 출석에 불응하고 도주할 우려가 높다는 이유에서다.&lt;br&gt;&lt;br&gt;특검은 지난 7월 미국으로 출국하고 특검의 출석 요구에 불응하고 있는 웰바이오텍 부회장 박광남씨에 대해서도 인터폴 적색수배 및 여권 무효화 조치에 착수했다. &lt;br&gt;&lt;br&gt;삼부토건 관계사인 웰바이오텍은 우크라이나 재건 사업에 참여하는 것처럼 투자자들을 속여 주가를 띄우고 부당이득을 챙겼다는 의혹을 받는다. 특검은 삼부토건이 우크라이나 재건 사업 등을 이용해 주가를 인위적으로 부양할 때 웰바이오텍도 개입한 것으로 의심 중이다. &lt;br&gt;&lt;br&gt;앞서 특검은 지난달 27일 구세현 전 웰바이오텍 대표를 자본시장법 위반, 특정경제범죄가중처벌법상 배임, 증거은닉 및 범인도피 혐의로 구속영장을 청구했다. 법원은 같은 달 29일 “도망할 염려와 증거를 인멸할 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>주말까지 가을 날씨 이어져... 다음 주 서해안 ‘첫 눈’</title>
       <link>https://www.chosun.com/national/nie/2025/11/14/EJO3SYVQ4FGJDI4Y4LDGZBHHPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/14/EJO3SYVQ4FGJDI4Y4LDGZBHHPA/</guid>
@@ -936,24 +966,6 @@
       <content:encoded>윤석열 전 대통령이 지난 1월 경호처 간부들에게 “공수처가 밀고 들어오면 아작난다고 느끼게 위력 순찰을 하라”고 했다는 취지의 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;당시 경호처 경호본부에서 근무했던 이모씨는 14일 서울중앙지법 형사35부(재판장 백대현) 심리로 열린 윤 전 대통령의 체포 방해(특수공무집행방해) 사건 재판에 증인으로 출석해 이같이 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRL3LK7UTQREJJ3WK2YNT77JDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 6일 오전 서울 용산구 한남동 대통령 관저 정문에 차벽이 세워져 있다. 같은 달 3일 윤석열 전 대통령에 대한 체포 영장을 집행한 공수처는 대통령 관저 경내에서 안전상 이유로 집행을 중지하고 돌아섰다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 재판에서 지난 1월 11일 윤 전 대통령이 경호처 간부들과 식사를 하며 했던 말을 이씨가 사후에 휴대전화로 기록해둔 내용이 공개됐다. 여기엔 윤 전 대통령이 “(공수처가) 밀고 들어오면 아작난다고 느끼게 위력 순찰하고 언론에 (이 장면이) 잡혀도 문제없다”고 말했다는 내용이 담겼다. 이씨는 “정확하게 저 단어들을 쓴 것으로 기억한다. 무장한 채로 총기를 노출하는 것도 괜찮다는 의미로 말했다”고 했다.&lt;br&gt;&lt;br&gt;이씨가 기록한 메모에는 윤 전 대통령이 “경찰이 경호관을 상대하려면 100명이 필요하고, 총도 못 쓴다”는 내용도 담겼다. 당시 윤 전 대통령이 어떤 발언을 했느냐는 특검 질문에, 이씨는 “본인 생각에 경찰 100명이 와도 경호처 (인력) 1명을 못 당해낸다고 말했다”고 답했다.&lt;br&gt;&lt;br&gt;메모에는 ‘헬기를 띄운다. 여기는 미사일도 있다. 들어오면 위협 사격하고 ?를 부셔버려라’는 문구도 담겼다. 특검이 “’부숴버려라’ 대상이 뭐냐”고 묻자, 이씨는 “공수처와…”라고 답했다. 이씨는 “(윤 전 대통령이) 공수처와 경찰이 들어오는 것에 대해 얘기하는 중에 마지막에 쓴 표현”이라고 했다.&lt;br&gt;&lt;br&gt;이씨는 윤 전 대통령에 대한 공수처의 2차 체포 시도 있은 15일 전 경호처 간부·직원들이 모여 회의를 했다고 말했다. 이씨는 “당시 경호처 직원들 가운데 80~90%는 영장 (집행)을 막는 건 아닌 것 같다는 얘기가 나왔다”는 취지로 증언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>노만석 “검사 징계 중단해달라” 항소 포기 경위에는 묵묵부답</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/DCXTJCSQL5DEJF3NW5PEHWBT74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/DCXTJCSQL5DEJF3NW5PEHWBT74/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 02:00:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q45QWJ3CI5PQHHKH7ULWT6NRLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;14일 퇴임식을 마친 노만석 검찰총장 직무대행이 서울 서초구 대검찰청을 나서고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;노만석 검찰총장 직무대행이 14일 퇴임식에서 검찰의 ‘대장동 항소 포기’에 검사들이 반발하는 것과 관련해 “검찰의 기능과 정치적 중립성 등에 대한 전반적인 우려를 내부적으로 전한 것”이라며 “이를 항명이나 집단행동으로 보는 것은 안타깝다”고 밝혔다.&lt;br&gt;&lt;br&gt;노 대행은 이날 오전 10시 30분 대검찰청 대회의실에서 진행된 비공개 퇴임식에서 이같이 말했다. 노 대행은 지난 7일 ‘대장동 개발 비리’ 관련 민간업자 1심 판결에 대한 항소를 포기한 것과 관련해 검사들의 비판과 반발이 잇따르자 일주일 만에 직을 내려놓았다.&lt;br&gt;&lt;br&gt;노 대행은 이날 항소 포기를 결정한 구체적인 경위는 언급하지 않았다. 노 대행은 다만 “최근 일련의 상황에 대해 검찰을 대표하는 사람으로서, 검찰의 미래를 생각하는 마음으로 스스로 물러난다”고 말했다. 그는 그러면서 “일각에서 제기되는 검사들에 대한 징계 등 논의는 부디 멈추어 달라”고 했다.&lt;br&gt;&lt;br&gt;더불어민주당은 최근 항소 포기에 반발하는 검사들을 ‘항명’으로 규정하고, 이들을 파면할 수 있도록 하는 내용의 검사징계법 개정 추진에 나섰다. 노 대행이 법무부의 외압이나 정치적 고려를 해 항소를 포기한 것 아닌지 의문을 제기하는 검사들을 징계하겠다는 것이다.&lt;br&gt;&lt;br&gt;노 대행은 퇴임사에서 “형사 사법 체계의 중대한 변화로 국민이 겪을 불편에 대한 충분한 논의나 대비 없이, 단순히 검찰청을 폐지하는 것에만 몰두하는 답답한 상황이 지속되고 있다”고 했다. &lt;br&gt;&lt;br&gt;그는 이어 “형사 사법 체계 개편 논의에서 국민의 선택권은 존중돼야 한다”며 “국민들께서 일차적으로 수사를 진행했던 곳뿐 아니라, 법률 전문가인 검사가 있는 검찰에서 다시 한번 자신의 사건을 살펴봐 주기를 바라시지 않는지 진지하게 고민하고 반영될 필요가 있다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;정부가 추진하는 검찰청 폐지와 민주당 강경파가 주장하는 검사의 보완 수사권 박탈 등에 대해 반대 입장을 분명히 한 것이다.&lt;br&gt;&lt;br&gt;노 대행은 “모든 갈등을 봉합하고, 하나 된 검찰이 범죄로부터 국민을 지키는 본연의 역할을 다할 수 있도록 너그러운 마음으로 지켜보고 성원해달라”며 “인품과 실력, 덕망을 두루 갖춘 분이 오셔서 검찰 가족 여러분의 마음을 다독이고 조직을 잘 추스르기를 소망한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>술 먹고 대리기사 불렀더니…옆 테이블서 술 마시던 사람이었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/14/PQSW5A3MV5ASBBSQKTEMV4PLDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/PQSW5A3MV5ASBBSQKTEMV4PLDU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 02:28:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOXDHSWRZJA7NKTHBO4DB5OOAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰에 붙잡힌 A씨의 모습. /MBC 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리운전 기사가 음주 상태에서 고객의 차량을 운전하다가 경찰에 붙잡혔다. 해당 기사는 운전 전에 손님의 옆자리에서 술을 마셨던 것으로 드러났다. &lt;br&gt;&lt;br&gt;14일 인천 중부경찰서는 도로교통법상 음주운전 혐의로 50대 남성 A씨를 불구속 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 25일 오전 2시 20분쯤 경기 고양시에서 인천 영종국제도시까지 음주 상태로 30대 고객 B씨의 차량을 40㎞가량 대리운전한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 이 과정에서 제한속도 시속 100㎞ 고속도로에서 시속 150㎞로 과속 운전도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B씨의 신고를 받고 목적지에서 대기 중이었던 경찰이 음주 측정을 한 결과 A씨의 혈중알코올농도는 면허 정지 수치(0.03% 이상∼0.08% 미만)였다.&lt;br&gt;&lt;br&gt;B씨는 “대리기사를 부른 후 차 안에서 자고 있었는데 차가 휘청휘청해 깼다”며 “대리기사 얼굴을 보니 옆자리에서 술을 마시던 분이었다”는 취지로 경찰에 설명했다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 과거에도 음주운전으로 처벌을 받은 전력이 있었다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>本紙 장련성·신현종 기자 ‘이달의 보도사진상’ 수상</title>
       <link>https://www.chosun.com/national/people/2025/11/14/DTO27MN4UVE6PEV4VVV67I7PCI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/14/DTO27MN4UVE6PEV4VVV67I7PCI/</guid>
@@ -961,17 +973,6 @@
       <description/>
       <pubDate>Fri, 14 Nov 2025 00:28:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7EUNB7DX5AXXL6JN5RTSLPDRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 20일 오후 경기 가평군 조종면 신상리의 한 편의점이 폭우로 쓰러진 모습. 지반이 무너지면서 건물이 하천 물에 잠겼다. 이날 새벽 가평에는 시간당 최고 76㎜ 폭우가 쏟아졌다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사진기자협회는 2025년 3분기 이달의 보도사진상 수상작을 14일 발표했다. 제271회 뉴스 부문 우수상에 본지 장련성 기자의 ‘호우에 무너져내린 편의점’가, 제273회 뉴스 부문 우수상에는 신현종 기자의 ‘국가정보자원관리원 전산실 화재 현장 공개’가 선정됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CERBVHQXXVFMJBKXCQBMMGQIWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 28일 대전 유성구 국가정보자원관리원 화재로 인해 불에 탄 리튬이온 배터리가 소화수조에 담겨 있다. 이틀 전 무정전 전원장치(UPS)용 리튬이온 배터리 화재로 정부 전산 서비스가 대규모로 마비됐다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수능, 킬러 없었지만 작년보다 어려워</title>
-      <link>https://www.chosun.com/national/education/2025/11/14/LZUQGHYUY5GXJHIJIQRHRHXHRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/14/LZUQGHYUY5GXJHIJIQRHRHXHRY/</guid>
-      <dc:creator>최인준 기자, 김민기 기자, 오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 13 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7LIWGPLCRAZLE624UPSBDFKVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
-“고생했어 우리 딸”  13일 오후 대구 수성구 정화여고 앞에서 한 수험생 아버지가 대학수학능력시험을 치르고 나온 딸을 안아주고 있는 모습. 올해 수능에는 지난 2019학년도(59만4924명) 이후 7년 만에 가장 많은 총 55만4174명이 응시했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;13일 치러진 2026학년도 대학수학능력시험(수능)은 변별력 있게 출제됐던 작년 수능보다 어렵게 출제된 것으로 분석된다. 사교육의 도움을 받아야 풀 수 있는 이른바 ‘킬러 문항’은 없었지만, 많은 시간을 할애해야 풀리는 고난도 문항들이 곳곳에 배치돼 수험생들의 체감 난도를 높였다고 전문가들은 평가했다. 특히 국어와 영어 영역이 상당히 까다로웠다는 분석이 나왔다. &lt;br&gt;&lt;br&gt;올해 수능은 의대 모집 인원이 다시 줄었고 전체 수험생(55만4174명)이 2019학년도 이후 7년 만에 최다를 기록해 적정 변별력을 확보하는 게 관건이었다. 출산율이 높았던 ‘황금돼지띠’(2007년생)들이 올해 고3으로 수능을 보면서 재학생 수험생이 전년 대비 3만명 넘게 증가했다.&lt;br&gt;&lt;br&gt;김창원 수능 출제위원장(경인교대 교수)은 이날 정부세종청사에서 열린 브리핑에서 “국어, 영어, 수학 영역 모두에서 사교육에서 문제 풀이 기술을 익히고 훈련한 학생에게 유리한 문항은 배제했다”면서 “난도 조절이 잘 이뤄진 지난해 수능과 비슷한 기조로 출제했다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIOBLPVRXREXXOOOGX3AESBWKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 뉴스1
-수능 끝, 어디 놀러 갈까?  13일 오후 서울 구로구 신도림고등학교에서 수능 시험을 마치고 나온 학생들이 수험표를 손에 들고 휴대전화로 기념사진을 촬영하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;EBS 현장 교사단 총괄을 맡은 윤윤구 한양대사범대부고 교사는 “이번 수능의 전체 난도는 작년 수능과 유사한 수준이지만, 최상위권 변별을 위한 문항들이 작년보다 어렵게 출제돼 수험생들은 조금 어렵다고 느낄 것”이라고 말했다. &lt;br&gt;&lt;br&gt;작년 수능은 ‘역대급 불수능’으로 꼽혔던 재작년 수능만큼 어렵진 않았지만, 상위권 학생을 가려낼 수 있는 변별력을 갖췄다고 평가됐다. 올해는 작년보다 까다로운 문제가 더 많아 최상위권 변별력이 더 높아졌다고 전문가들은 보고 있다. EBS 교재에 나온 지문을 활용하거나 비슷한 문제를 출제하는 ‘EBS 연계율’은 올해 수능에서도 50%대를 유지했다. &lt;br&gt;&lt;br&gt;1교시 국어 영역은 지난해보다 어렵게 출제됐다는 평가가 나왔다. EBS에서 연계된 지문들이 다수 출제됐지만, 전반적으로 문제 푸는 데 시간이 오래 걸린 학생이 많았다는 분석이다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇국어 ‘독서’ 수학 ‘확률’ 까다로워… 최대 변수는 이공계 ‘사탐런’&lt;/b&gt;&lt;br&gt;&lt;br&gt;입시 전문가들은 독서 12번을 가장 까다로운 문제로 꼽았다. 12번 문항은 물리학의 열팽창과 관련된 여러 개념의 의미와 관계를 파악하고, ‘보기’의 상황을 알맞게 이해한 답을 고르는 문제다. 선형 열팽창 계수와 곡률, 곡률 반지름 등 과학 개념이 등장해 일각에선 “과학 배경지식을 갖춘 이과 학생에게 유리한 문제가 아니냐”는 지적도 나왔다. 하지만 EBS 국어 강사인 한병훈 덕산고 교사는 “12번은 특정 개념을 단편적으로 물어보는 게 아니라 개념들 간 관계를 파악할 수 있는지 보는 문항”이라며 “지문에 명확한 근거가 있어 과도한 추론을 요구하지 않기 때문에 킬러 문항은 아니라고 본다”고 설명했다. &lt;br&gt;&lt;br&gt;이만기 유웨이 교육평가연구소장은 “개념 내용을 지문에서 꼼꼼하게 찾아야 해서 시간이 오래 걸리고 난해하다고 느끼는 학생이 많았을 것”이라고 말했다. &lt;br&gt;&lt;br&gt;2교시 수학도 작년 수능보다 약간 어렵게 출제됐다는 분석이다. 공통 과목과 ‘미적분’ 난도는 작년과 대체로 비슷했지만, ‘확률과 통계’ ‘기하’는 어려웠다는 평가가 나왔다. EBS 수학 강사인 심주석 인천하늘고 교사는 “공교육 중심의 출제 기조는 유지하면서도 작년 수능보다 상위권 변별력을 확보하는 문항이 강화됐다”고 평가했다.&lt;br&gt;&lt;br&gt;난도가 높은 문항으로 공통 과목 22번(수학Ⅰ)과 21번(수학Ⅱ), ‘확률과 통계’ 30번, ‘미적분’ 30번, ‘기하’ 30번이 꼽혔다. 특히 함수의 극한에 대한 성질을 이해하고 주어진 조건을 정확히 해석하는 능력을 보는 21번 문항이 까다로웠다는 반응이 많았다. 김병진 이투스 교육평가연구소장은 “지난해 수능에 비해 어렵다고 느낀 학생이 다수 있었을 것”이라며 “공통 과목 문제를 풀 때 시간 조절을 잘했는지가 관건이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;3교시 영어는 작년 수능보다 어렵다는 평가가 많았다. 1등급 비율이 6.2%였던 작년 수능보다는 어렵고, 난도가 높았던 9월 모의 평가(4.5%)와는 비슷하거나 더 어려웠던 것으로 분석됐다. 영어는 2018년 절대 평가로 바뀌어서 원점수 90점 이상 받으면 모두 1등급이다. EBS 영어 강사 김예령 대원외고 교사는 “지나치게 복잡하고 어려운 지문은 배제하면서도 선택지의 오답 매력도(정답이 아닌 선택지가 정답처럼 보이도록 유도하는 것)를 전반적으로 높여 변별력을 확보했다”면서 “정확한 독해력을 요구하는 문항들이 중상위권 학생들의 성적을 결정할 것”이라고 말했다. 고난도 문항으로는 32·34번(빈칸 추론), 37번(글의 순서), 39번(주어진 문장의 위치) 등이 꼽혔다. &lt;br&gt;&lt;br&gt;올해 수능에서는 이른바 이공계 학생이 사회탐구 영역에 몰리는 ‘사탐런’ 현상이 대입의 최대 변수로 떠올랐다. 사탐런은 주요 상위권 대학이 자연계 수험생에게 내걸었던 과학탐구 응시 조건을 작년부터 폐지하면서 자연계 수험생이 상대적으로 학습 부담이 적은 사회탐구에 대거 응시한 것이다. 한국교육과정평가원에 따르면, 올해 수험생 가운데 사회 과목을 1개 이상 선택한 학생이 77.3%(41만1259명)로 작년 수능(62.1%)보다 15.2%포인트 늘어났다. 과학탐구만 선택한 수험생은 12만692명(22.7%)으로 7만명 가까이 줄었다. 과학탐구 응시생은 모집단 자체가 적어 좋은 등급을 받기 어려워졌고, 수능 최저 등급을 맞추는 것도 쉽지 않아진 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PTV3HRLXZGMZKRIEFEZA6ZV7Y.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “사회탐구에서 높은 등급을 따는 수험생이 많아지면 수시에서 최저 등급을 맞추는 학생도 늘어나서 결국 내신의 변별력이 커질 수 있다”면서 “변수가 많아 합격 예측이 어려운 상황”이라고 말했다. &lt;br&gt;&lt;br&gt;올해는 특히 최상위권 학생들의 경쟁이 치열할 것으로 보인다. 정부의 ‘의대 증원 정책’으로 2025학년도 1500명 정도 늘어났던 의대 모집 인원이 올해 다시 증원 이전 규모로 돌아갔기 때문이다. &lt;br&gt;&lt;br&gt;한국교육과정평가원은 17일까지 홈페이지에서 수능 문제와 정답에 대한 이의 신청을 받고, 최종 정답은 25일 오후 5시 발표한다. 수능 성적표는 12월 5일 배부한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
