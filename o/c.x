@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘대장동 추징 0원’ 남욱, 강남 땅 500억에 내놨다... 팔리면 시세차익 200억</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/16/QQZO6XOOZJDUBJN4L7P2HACZZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/16/QQZO6XOOZJDUBJN4L7P2HACZZI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 04:45:35 +0000</pubDate>
+      <content:encoded>이른바 ‘대장동 개발 비리’ 사건으로 1심에서 법정 구속된 민간업자 남욱씨가 최근 서울 강남구 역삼동의 땅을 부동산 시장에 매물로 내놓은 것으로 확인됐다. 남씨는 이 땅을 500억원에 내놓은 것으로 확인됐는데, 이 가격에 팔릴 경우 200억원을 벌 수 있다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TOYZSGU2DOYLCMFSTGNJZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남욱(천화동인 4호 소유주)./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 본지 취재를 종합하면, 남씨는 서울 강남구 역삼동 734-15 부지를 최근 팔기 위해 내놓았다. 이 땅은 과거 주유소로 운영되던 곳인데, 남씨가 대표로 있는 법인 ‘(주)엔에스제이피엠’이 2021년 4월 26일 매입했다. 이 시기는 대장동 개발 비리가 수면 위로 떠오르기 전이다. 현재는 40대를 한 번에 댈 수 있는 유료 주차장으로 운영되고 있다.&lt;br&gt;&lt;br&gt;엔에스제이피엠이 4년 7개월 전 이 땅을 산 가격은 300억원으로 알려졌다. 현재 구로세무서에서 해당 토지를 압류해둔 상태이나, 남씨 측이 내놓은 가격에 팔린다면 4년여 만에 200억원대 시세 차익을 얻게 되는 셈이다.&lt;br&gt;&lt;br&gt;법조계 안팎에선 “검찰의 항소 포기가 불러온 나비효과”라는 말이 이날 나왔다. 검찰은 대장동 사건 1심에서 남씨에게 1010억원 추징을 구형했는데, 법원은 남씨에게 징역 4년을 선고하면서도 추징금 구형은 받아들이지 않았다. 검찰이 항소를 했다면 형량 뿐만 아니라 추징금에 대해서도 다툴 수 있었지만, 항소를 포기하면서 추징금은 사실상 0원으로 확정됐다는 게 법조계 중론이다.&lt;br&gt;&lt;br&gt;이런 가운데 남씨 측은 검찰의 항소 포기가 확정된 이후 자신의 재산에 대한 추징 보전 해제 관련 절차를 문의하면서, 국가 배상 청구도 검토하겠다는 뜻을 드러냈다고 한다. 이에 대해 한동훈 전 국민의힘 대표는 지난 15일 오전 페이스북에 글을 올려 “공범 이재명 뒷배 믿고 ‘배째라’ 시전 중”이라고 비판했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, 서울구치소 찾아 尹 조사...‘이종섭 도피 의혹’ 추궁</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/16/F5GDBZ6MBBG3XK72SZUROEBCE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/16/F5GDBZ6MBBG3XK72SZUROEBCE4/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 04:30:00 +0000</pubDate>
+      <content:encoded>순직 해병 특검이 16일 윤석열 전 대통령에 대한 2차 조사를 서울구치소에서 진행 중이다. 지난 11일 윤 전 대통령 소환 조사에 이어 닷새 만에 재조사에 나선 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3WKOJRGRQWKZJVGQ3TMY3FMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 오후 1시 30분쯤 시작된 2차 조사에서 윤 전 대통령이 채 상병 사망 사건으로 공수처 수사를 받던 이종섭 전 국방장관을 호주 대사로 임명해 도피시키려 했다는 의혹을 집중 조사 중인 것으로 전해졌다. 특검의 방문 조사는 변호인단 요청에 따라 이뤄졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이종섭 도피 의혹 관련 범인 도피·직권남용 혐의 피의자 신분으로, 특검 측에서는 검찰에서 파견 나온 정현승 부장검사 등이 조사에 참여했다. &lt;br&gt;&lt;br&gt;이 전 장관 도피 의혹과 관련해 윤 전 대통령 측은 “이 전 장관의 전문성과 성과 등을 고려해 적임자로 호주대사에 임명했다”는 입장이다. &lt;br&gt;&lt;br&gt;한편 특검은 이날까지 윤 전 대통령에 대한 두 차례 조사를 끝으로 윤 전 대통령 등을 기소할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한동훈, 백해룡 ‘셀프 수사’ 주장에 “약 먹어야 할 사람에 칼 쥐어줘”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/16/Z3DYTM6YN5EQBORCQ5JJOABFEA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/16/Z3DYTM6YN5EQBORCQ5JJOABFEA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 16 Nov 2025 04:01:57 +0000</pubDate>
+      <content:encoded>한동훈 전 국민의힘 대표가 ‘세관 마약 연루 의혹’을 수사 중인 백해룡 경정을 둘러싼 논란을 두고 이재명 대통령을 향한 책임론을 제기했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJTDSMZQMU3DMMTDGU4DCZTDGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 전 대표는 16일 페이스북에 글을 올려 “약 먹어야 할 사람에게 칼을 쥐어준 건 이재명 대통령”이라며 “백해룡 쇼의 결과가 나오면 캐스팅 겸 감독인 이 대통령이 책임져야 한다”고 비판했다. 이는 세관 마약 연루 의혹을 수사하는 서울동부지검 검경 합동수사단(합수단)에 파견된 백 경정이 최근 자체 보도자료를 내고 합수단을 향해 수사 왜곡 의혹을 제기한 데 따른 발언이다.&lt;br&gt;&lt;br&gt;백 경정은 지난 14일 A4 용지 12장 분량의 보도자료에서 “합수단이 수감 중인 말레이시아 운반책들을 불러내 진술을 번복시키고 있다”고 주장하며 합수단 전체를 수사 대상으로 삼겠다는 입장을 밝혔다. 백 경정은 또 임은정 동부지검장이 ‘셀프 수사’ 우려가 있다며 백 경정을 수사 주체에서 제외한 ‘마약 수사 외압 의혹’도 수사하겠다고 했다.&lt;br&gt;&lt;br&gt;백 경정은 서울 영등포경찰서 형사과장으로 재직하던 2023년 말레이시아인 필로폰 밀수 사건을 맡아 인천세관 공무원이 연루됐다는 진술을 확보했다. 백 경정은 이를 확대 수사하려 했으나 당시 대통령실·검찰·경찰·국정원 등이 사건을 무마하려 외압을 행사했다는 의혹을 제기했다. 임 지검장은 백 경정이 경찰·관세청 간부들을 고위공직자범죄수사처(공수처)에 고발한 만큼, 백 경정이 같은 사안을 직접 수사하는 것은 이해 충돌 여지가 있다고 판단해 수사 주체에서 배제해 왔다.&lt;br&gt;&lt;br&gt;동부지검은 백 경정의 보도자료 배포를 두고 “동부지검과 협의된 공보가 아니다”라고 했다. 백 경정이 주장하는 수사 범위에 대해서도 “기존 입장과 달라진 게 없다”며 선을 그었다. 합수단의 팀장격인 백 경정이 합수단 차원이 아닌 개인 차원의 보도자료를 낸 것은 다소 이례적이라는 지적이 나온다.&lt;br&gt;&lt;br&gt;한편 백 경정은 지난 10월 15일 이 대통령 지시로 합수단에 합류했고, 동부지검은 백 경정에 수사 전결권을 부여했다. 한 전 대표는 같은 달 17일 페이스북에 글을 올려 “망상에 빠진 사람에게 칼을 주면서 묻지마 칼부림을 부추기는 것”이라며 백 경정에 수사 전결권을 쥐어 준 임 지검장을 비판했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한강버스 사고에 金총리 서울시 비판 가세 “안전성 심각한 우려”</title>
       <link>https://www.chosun.com/politics/goverment/2025/11/16/X5YO5KZCGFGOLHMY6PRASE5CLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/11/16/X5YO5KZCGFGOLHMY6PRASE5CLI/</guid>
@@ -901,24 +928,6 @@
       <content:encoded>주말인 15일과 16일엔 전국이 맑고 포근한 가을 날씨가 이어질 것으로 예고됐다. 일요일인 16일 오후부터 약한 비와 눈이 내리고 다음 주 초 전국 기온이 영하권으로 떨어지겠다. 충남과 호남 서해안 지역엔 ‘첫눈’도 예보됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRTCZBRGU2WIZLDMRRTIN3BGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초겨울 추위가 찾아온 10일 서울 종로구 광화문에서 두터운 옷차림을 한 시민들의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 기상청에 따르면, 15일 아침 최저기온은 영하 1도에서 영상 8도, 최고기온은 15~19도로 예보됐다. 일요일인 16일은 최저 영하 1도에서 영상 10도, 최고 14~20도로 평년(최저 0~9도, 최고 11~17도)과 비슷하거나 조금 높을 전망이다. 그러나 16일 오후부터는 한반도 북쪽을 지나는 저기압의 영향으로 수도권·강원권에 5㎜ 미만, 충청·전라권에 1㎜ 안팎의 비가 내리겠다. &lt;br&gt;&lt;br&gt;비가 지나간 뒤에는 겨울 추위가 찾아오겠다. 차가운 공기덩어리인 대륙고기압이 중국 북부 지방에서 서해를 거쳐 한반도로 내려오면서 기온이 크게 떨어질 전망이다. &lt;br&gt;&lt;br&gt;17일 오전에는 중부 대부분 지역의 최저기온이 0도 안팎까지 내려가고, 18일에는 찬 공기가 내륙 깊숙이 내려오면서 영하권을 기록할 것으로 보인다. 서울 등 중부 지역의 최저기온은 17일 0도에서 1도, 18일 영하 5도에서 영상 2도로 예상된다. 남부 지역도 0도 안팎까지 기온이 내려갈 것으로 예보됐다.&lt;br&gt;&lt;br&gt;17~18일에는 충남·호남 서해안 지역에 첫눈이 내릴 가능성도 있다. 북쪽에서 내려온 찬 공기가 서해의 상대적으로 따뜻한 해수면을 지나면서 ‘해기차’(바다와 공기의 온도 차)가 크게 나는 구간이 생기고, 이 과정에서 눈구름대가 만들어질 전망이다. 기상청은 “찬 바람도 강하게 불어 체감 온도는 더 내려갈 것으로 보인다”고 전망했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>李대통령이 임명할 첫 대법관 나온다... 노태악 대법관 후임 인선 착수</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/ZJHWAQPSYVH5RPUVE4BQLNHIWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/ZJHWAQPSYVH5RPUVE4BQLNHIWM/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 06:27:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E2PZDOXNR2NCCJE6T6LJYHI4R4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노태악 대법관. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내년 3월 임기(6년)를 마치고 퇴임하는 노태악(63·사법연수원 16기) 대법관의 후임 인선을 위한 절차를 시작한다. 이재명 대통령이 취임 후 처음 임명할 대법관이다.&lt;br&gt;&lt;br&gt;대법원은 오는 18일부터 28일까지 노 대법관 후임 제청 대상자 천거를 받는다고 14일 밝혔다. 노 대법관은 지난 2020년 김명수 전 대법원장 임명 제청으로 문재인 전 대통령이 임명했다. 당시 대법관에서 퇴임한 조희대 현 대법원장의 후임이었다.&lt;br&gt;&lt;br&gt;후임 대법관 천거 대상은 만 45세 이상이고 20년 이상 판사·검사·변호사 등 법조 경력을 갖춘 사람이다. 대법원은 천거 기간이 끝나면 심사에 동의한 천거 대상자의 명단과 학력, 주요 경력, 재산, 병역 등 정보를 공개하고 의견을 수렴한다. 심사 동의자 명단 및 관련 정보는 공개될 예정이다.&lt;br&gt;&lt;br&gt;이후 대법관후보추천위원회가 천거 대상자를 심사한 뒤 3명 이상 후보자를 추천하고, 조 대법원장은 이 가운데 1명을 이 대통령에게 임명 제청한다. 대법관 후보가 국회 인사 청문회와 본회의 표결을 통과하면 이 대통령이 임명하게 된다.&lt;br&gt;&lt;br&gt;이 대통령 임기 내에 이흥구(2026년), 천대엽·오경미(2027년),오석준(2028년)·서경환·권영준(2029년)·엄상필·신숙희(2030년 2월) 대법관 등 8명도 임기를 마치고, 조 대법원장도 2027년 정년(70세) 퇴임한다. 14명 대법관 중 10명이 바뀌는 것이다.&lt;br&gt;&lt;br&gt;한편, 대법원은 대법관후보추천위 비당연직 외부 위원 3명을 위촉하기 위해 18일부터 24일까지 법원 내·외부에서 추천을 받는다고 밝혔다. 조건은 학식과 덕망이 있고 각계 전문 분야에서 경험이 풍부한 사람으로, 변호사 자격이 없어야 한다. &lt;br&gt;&lt;br&gt;현행 법원조직법상 대법관후보추천위는 당연직 위원 6명(선임대법관, 법원행정처장, 법무부장관, 대한변호사협회장, 사단법인 한국법학교수회 회장, 사단법인 법학전문대학원협의회 이사장)과 대법관 아닌 법관 1명과 학식과 덕망이 있고 각계 전문 분야에서 경험이 풍부한 사람으로서 변호사 자격을 가지지 아니한 3명 등 비당연직 위원 4명으로 구성된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>캄보디아 피싱 조직 ‘마동석팀’ 몸캠 팀장, 1심서 징역 4년</title>
-      <link>https://www.chosun.com/national/incident/2025/11/14/Y7K44ZHGO5AWRE5KUPHCOHBEUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/14/Y7K44ZHGO5AWRE5KUPHCOHBEUE/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 06:38:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZDENBYGI3TINRYMYYDIZJYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울동부지법 형사11부(재판장 강민호)는 범죄 단체 가입 등 혐의로 기소된 강모(28)씨에게 14일 징역 4년을 선고하고 범죄 수익 1419만8000원 추징을 명령했다. 강씨는 캄보디아에 거점을 둔 보이스피싱 조직에서 음란 영상 통화를 녹화하고 이를 지인에게 유포하겠다고 협박해 돈을 뜯는 ‘몸캠 피싱팀’의 팀장으로 활동했다고 조사됐다. 그는 피해자들과의 영상 통화를 녹화하는 여성들을 관리하고, 대포통장 수급책으로 활동한 혐의를 받는다.&lt;br&gt;&lt;br&gt;강씨가 속한 ‘한야 콜센터’라는 이름의 조직은 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 작년 10월부터 지난 4월까지 피해자 11명으로부터 총 5억2700만원을 가로챈 것으로 드러났다. 조직은 수사·금융 기관을 사칭하는 ‘대검팀’, 악성 프로그램을 설치하게끔 유도한 뒤 계좌를 빼돌리는 ‘해킹팀’, 성매매 업소 실장을 사칭하는 ‘로맨스팀’ 등 범죄 수법에 따라 7개의 팀으로 나뉘어 운영됐다. 캄보디아에서 활동하던 조직원들은 비자 연장 등 문제로 잠시 한국에 들어왔다가 검거됐으며, 대부분 2030 MZ세대다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 단체의 존속과 유지를 위한 역할을 수행했고, 캄보디아에서 국내로 귀국한 후에도 구성원으로 적극 활동했다”며 “불법임을 인식하고도 캄보디아로 출국해 보이스피싱 범죄에 가담했다”고 했다. 이어 “전기통신 금융 사기 범죄는 불특정 피해를 양산하고 사회에 미치는 폐해가 심각하다”며 “외국에서의 범행 조직은 분업화돼 있고 범행이 고도화돼 적발이 어렵다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>공수처 1차 체포 불발 후 “尹, 경호처에 ‘밀고 들어오면 아작내라’” 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/11/14/KHVOXSYXXFA6VIOQPXTQ7LOBMQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/KHVOXSYXXFA6VIOQPXTQ7LOBMQ/</guid>
@@ -953,15 +962,6 @@
       <description/>
       <pubDate>Fri, 14 Nov 2025 02:28:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MOXDHSWRZJA7NKTHBO4DB5OOAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰에 붙잡힌 A씨의 모습. /MBC 보도화면&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대리운전 기사가 음주 상태에서 고객의 차량을 운전하다가 경찰에 붙잡혔다. 해당 기사는 운전 전에 손님의 옆자리에서 술을 마셨던 것으로 드러났다. &lt;br&gt;&lt;br&gt;14일 인천 중부경찰서는 도로교통법상 음주운전 혐의로 50대 남성 A씨를 불구속 입건했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 25일 오전 2시 20분쯤 경기 고양시에서 인천 영종국제도시까지 음주 상태로 30대 고객 B씨의 차량을 40㎞가량 대리운전한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 이 과정에서 제한속도 시속 100㎞ 고속도로에서 시속 150㎞로 과속 운전도 한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;B씨의 신고를 받고 목적지에서 대기 중이었던 경찰이 음주 측정을 한 결과 A씨의 혈중알코올농도는 면허 정지 수치(0.03% 이상∼0.08% 미만)였다.&lt;br&gt;&lt;br&gt;B씨는 “대리기사를 부른 후 차 안에서 자고 있었는데 차가 휘청휘청해 깼다”며 “대리기사 얼굴을 보니 옆자리에서 술을 마시던 분이었다”는 취지로 경찰에 설명했다. &lt;br&gt;&lt;br&gt;조사 결과 A씨는 과거에도 음주운전으로 처벌을 받은 전력이 있었다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수사 무마 대가로 뇌물수수 혐의… 도봉경찰서장 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/14/K5SJW2LXAFGRVAFZD3UO455WKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/K5SJW2LXAFGRVAFZD3UO455WKI/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 00:25:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJACOCQWWU5QCEDLXLXU6WACM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 마크. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 무마 대가로 가상자산 업자로부터 금품을 받은 혐의를 받는 현직 경찰서장이 구속됐다.&lt;br&gt;&lt;br&gt;수원지법 이차웅 영장전담 부장판사는 지난 13일 특정범죄 가중처벌 등에 관한 법률 위반(뇌물) 혐의를 받는 김용환 도봉경찰서장에 대한 영장실질심사를 진행한 뒤 “증거인멸 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;김 총경은 최근 가상자산 투자 사건 피의자 A씨로부터 여러 차례에 걸쳐 수천만 원을 건네받은 혐의를 받는다. 검찰은 A씨를 조사하는 과정에서 김 총경과 관련한 자금 흐름을 포착해 수사에 착수한 것으로 알려졌다. 수사를 무마해 주는 대가로 금품을 받았다는 것이 검찰 판단이다.&lt;br&gt;&lt;br&gt;김 총경은 “A씨에게 5000만원을 투자 개념으로 건넸고, 이자를 붙여 돌려받은 것”이라며 “수사 무마 의혹은 사실무근”이라고 반박했다.&lt;br&gt;&lt;br&gt;검찰은 신병을 확보한 김 총경을 상대로 추가 수사를 진행한 뒤 재판에 넘길 계획이다.&lt;br&gt;&lt;br&gt;경찰청은 김 총경에 대한 직위 해제를 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>本紙 장련성·신현종 기자 ‘이달의 보도사진상’ 수상</title>
