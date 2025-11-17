@@ -6,14 +6,34 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 이 대통령, 관봉권·쿠팡 의혹 상설특검에 안권섭 임명</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213187.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;안권섭 변호사&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Sun, 16 Nov 2025 23:12:02 -0000</pubDate>
+			<title>내란 특검, 노상원 개인정보법 위반 혐의에 징역 3년 구형</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213206.jpg" alt="123141.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;'12·3 비상계엄' 기획에 관여한 혐의로 구속된 노상원 전 국군정보사령관이 2024년 12월 24일 오전 서울 은평구 서울서부경찰서에서 검찰로 송치되고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 '2수사단' 구성과 관련한 노상원 전 국군정보사령관의 추가 기소 사건에서 실형을 구형했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사21부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7739"&gt;이현복&amp;nbsp;&lt;/span&gt;부장판사)는 11월 17일 노 전 사령관의 개인정보보호법 위반 및 특정범죄가중처벌법상 알선수재 등 혐의 결심 공판을 열었다(&lt;b&gt;2025고합901&lt;/b&gt;). 이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11135"&gt;장우성&lt;/span&gt;(사법연수원 34기) 특검보는 "징역 3년을 선고하고 2390만 원을 추징해달라"고 재판부에 요청했다.&lt;br /&gt;&lt;br /&gt;특검팀은 최종 의견에서  "피고인은 민간인인데도 전직 사령관의 지위를 이용해 현직 사령관과 대령들을 통해 대한민국 국가 안보 최전선에 있는 요원들의 실명, 학력, 특기 등 내밀한 정보를 수집했고, 단순 개인정보 누설이 아니라 국가 위기를 초래한 내란 사건의 사전 준비를 결행했다"며 이같이 밝혔다.&lt;br /&gt;&lt;br /&gt;재판부는 12월 15일 오후 2시에 1심 선고기일을 진행하겠다고 전했다.&lt;br /&gt;&lt;br /&gt;앞서 내란 특검팀은 6월 27일 부정선거 관련 의혹 수사단 구성을 목적으로 군사정보를 제공받은 혐의(개인정보호법 위반)로 노 전 사령관을 추가 기소하면서 법원에 추가 구속영장 발부를 요청했다. 법원은 앞서 기소돼 있던 노 전 사령관의 알선수재 혐의 사건과 병합해 구속영장을 발부한 바 있다. &lt;br /&gt;&lt;br /&gt;노 전 사령관은 민간인 신분이던 2024년 11월 부정선거 의혹을 수사할 '2수사단'을 구성하기 위해 문상호 전 정보사령관으로부터 정보사 소속 요원들에 대한 인적 정보 등 군사정보를 건네받은 혐의를 받는다. 같은 해 진급 청탁 명목으로 김봉규 정보사 대령과 구삼회 전 육군 2기갑여단장으로부터 2600만 원 상당 금품을 받은 혐의도 있다.</description>
+			<pubDate>Mon, 17 Nov 2025 04:30:22 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213187</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213187</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213187.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
+			<link>https://www.lawtimes.co.kr/news/213206</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213206</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213206.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>이재명 대통령, '관봉권 띠지·쿠팡 외압 의혹' 상설특검에 안권섭 변호사 임명</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213196.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;안권섭 변호사&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;관봉권 띠지 폐기와 쿠팡 퇴직금 불기소 외압 의혹 사건을 수사할 특별검사로&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3207"&gt;안권섭&lt;/span&gt;(사법연수원 25기) 법무법인 대륜 변호사가 임명됐다.&lt;br /&gt;&lt;br /&gt;대통령실은 17일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령이 전날 오후 안 변호사를 특검으로 임명했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;안 특검은 연세대 법학과를 졸업하고 같은 대학원에서 법학 석사학위를 받았다. 1996년 광주지검에서 첫 근무를 시작해 20여 년 동안 검사로 일했다. 법무부 법조인력과장, 춘천지방검찰청 차장검사, 용인분원 법무연수원장 등을 지냈다.&lt;br /&gt;&lt;br /&gt;안 특검은 2020년 변호사로 개업해 2025년 2월에는 법무법인 대륜의 대표총괄변호사로 이름을 올렸다. 하지만 실제로는 등기부상 대표변호사가 아니고 구성원변호사로도 등기돼 있지 않아 변호사법과 변호사 광고 규정 위반 가능성이 있다.&lt;br /&gt;&lt;br /&gt;관봉권 띠지 분실은 서울남부지검이 2024년 12월 건진법사 전성배 씨의 자택에서 현금다발 관봉권을 압수한 뒤 발행 정보가 적힌 띠지를 잃은 사건이다. 대검은 감찰과 수사를 거쳐 실무적 과실이었을 뿐 증거 은폐나 지시는 없었다고 법무부에 보고했다.&lt;br /&gt;&lt;br /&gt;쿠팡 불기소 외압 의혹은 2025년 4월 인천지검 부천지청이 쿠팡풀필먼트서비스(CFS)가 일용직 노동자의 퇴직금을 미지급한 사건에 내린 불기소 처분을 말한다. 당시 사건을 담당한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&lt;/span&gt;(36기) 부장검사는 상급자인&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&lt;/span&gt;(32기) 당시 지청장으로부터 불기소 압력을 받았다고 주장했다. 이 사건 역시 대검이 감찰에 나섰고 외압은 없었다고 결론 내렸다.&lt;br /&gt;&lt;br /&gt;상설특검은 특검보와 파견 검사, 수사관 등 30명 이내 규모로 꾸려진다. 수사 기간은 60일로 1회에 한해 30일 연장할 수 있다. 상설 특검은 별도의 특검법을 만드는 과정은 거치지 않고 가동한다.</description>
+			<pubDate>Mon, 17 Nov 2025 04:11:12 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213196</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213196</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213196.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>드라마 '김부장'의 좌천, 현실이라면?…"소송 시 승소 가능성 있어"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213144.jpg" alt="21314.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;서울 자가에 대기업 다니는 김 부장 이야기. 《사진=JTBC 공식 홈페이지 캡처》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;높은 시청률을 기록 중인 JTBC 드라마 ‘서울 자가에 대기업 다니는 김부장 이야기’에서 주인공 김낙수는 서울 본사 영업팀에서 일하다 충남 아산 공장 안전관리팀장으로 발령을 받았다. 갑자기 좌천된 것인데, 이 상황이 실제라면 법적으로 어떻게 판단될까.&lt;br /&gt;&lt;br /&gt;근로기준법 제23조는 사용자가 정당한 이유 없이 해고나 전직 등 불리한 처분을 하지 못하도록 규정한다. 대법원 판례(&lt;b&gt;2007두20157&lt;/b&gt;)에 따르면 판단 기준은 △업무상의 필요성(회사 측 사정)과 △근로자의 생활상 불이익(가족 부양, 주거 환경 등) 등이다. &lt;br /&gt;&lt;br /&gt;대법원은 은행이 직급별 근속 연수를 주요 기준으로 삼아, 후선 발령 대량 근로자를 선정해 인사 발령한 사건에서 “전직 처분 등이 정당한 인사권의 범위 내에 속하는지의 여부는 당해 전직 처분 등의 업무상의 필요성과 전직에 따른 근로자의 생활상 불이익을 비교·교량하고, 근로자가 속하는 노동조합(노동조합이 없으면 근로자 본인)과의 협의 등 그 전직 처분을 하는 과정에서 신의칙상 요구되는 절차를 거쳤는지를 종합적으로 고려하여 결정하여야 한다”고 판시했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27974"&gt;강서영&lt;/span&gt;(변호사시험 2회) &lt;b&gt;&lt;a href="http://www.onelawpartners.com/ko/" target="_blank"&gt;법무법인 원&lt;/a&gt;&lt;/b&gt; 변호사는 각 사건의 사실관계에 따라 승소 가능성이 달라지겠지만, “법원은 직무 변경으로 인해 발생하는 경력 단절 등 ‘생활상 불이익 정도’, 자격증 및 경력사항 등 직무 전환 적합성을 고려한 ‘업무상 필요성 정도’, 그리고 ‘당사자의 동의 여부’ 등을 종합적으로 고려한다”고 덧붙였다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6854"&gt;전준용&lt;/span&gt;(사법연수원 29기) &lt;b&gt;&lt;a href="http://www.donginlaw.co.kr/" target="_blank"&gt;법무법인 동인&lt;/a&gt;&lt;/b&gt; 변호사는 드라마 ‘김부장 이야기’의 사례라면, ①영업팀에서 안전관리팀으로 발령난 것은 업무 내용의 본질적 변경으로 볼 수 있고, ②서울에서 아산으로 발령나 현저한 생활상 불이익이 발생할 것을 예상할 수 있어 “부당 전직으로 인정될 수 있다”고 말했다. 그는 “소송이 제기되면 근로자가 승소할 가능성이 있다”고 말했다.&lt;br /&gt;&lt;br /&gt;다만 근로자 입장에서는 소송 제기가 자체가 부담이라 실제 소송까지 이어지는 경우는 많지 않다고 한다. 전 변호사는 “법리상으로는 법정 다툼까지 갈 수 있는 사안이지만, 취업 및 이직 실정을 고려할 때 현실적으로 쉽지 않을 것”이라고 했다.&lt;br /&gt;</description>
+			<pubDate>Mon, 17 Nov 2025 04:02:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213144</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213144</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213144.jpg</media:thumbnail>
+			<dc:creator>신나영 기자</dc:creator>
 		</item>
 		<item>
 			<title>【오늘의 국회일정】 2025년 11월 17일</title>
@@ -217,26 +237,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213151</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213151.jpg</media:thumbnail>
 			<dc:creator>법률신문 </dc:creator>
-		</item>
-		<item>
-			<title>사법제도 개편 공청회, 법학교수회·법조언론인클럽 등 공동 참여</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213135.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사법정책연구원과 법조언론인클럽이 법원행정처와 법률신문이 12월 9일부터 11일까지 서울 서초동 서울법원 종합청사 청심홀에서 공동 주최하는 ‘국민을 위한 사법제도 개편 - 방향과 과제’ 공청회에 참여한다. 한국법학교수회도 참여하기로 확정했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사법정책연구원은 2014년 대법원 산하 연구기관으로 설립됐다. 재판 및 사법 정책 분야에 관한 다양한 연구보고서를 발간하고 학술대회를 개최하는 사법부 대표 연구기관이다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9060"&gt;이승련&lt;/span&gt;(사법연수원 20기) 사법정책연구원장은 2005년 출범한 대통령 직속의 사법제도개혁 추진위원회에도 참여한 바 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2007년 5월 설립된 법조언론인클럽은 ‘법조 기사로서 쌓은 경험과 경륜을 바탕으로 우리 사회를 보다 밝게 만들어 보자’는 설립 취지에 맞춰 바람직한 법률 문화 창달을 위해 노력하는 단체다. 주요 법조 현안과 관련한 토론회와 세미나, 주요 법조 인사 초청 간담회 등을 개최해 왔다. 매년 법조 관련 보도로 법률 문화를 성숙시키는 데 기여한 기자들에게는 ‘올해의 법조언론인상’을, 법률 문화 발전에 기여한 법률가나 법률 단체들에게는 ‘올해의 법조인상’을 수여하고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국법학교수회는 2024년 창립 60주년을 맞은 한국 법학교수들의 모임이자 법정단체다. 학술 활동 증진, 법학 교육 발전, 법학계 및 법조 실무계의 협력, 법률 문화와 법치주의의 창달, 국가 발전에의 헌신을 정관상의 목적으로 표방 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;이번 공청회에서는 개선과 변화가 필요한 사법제도 전반에 대한 논의가 이뤄질 예정이다. 재판을 비롯한 현행 제도의 현황과 문제점을 살펴보면서 상고 제도 개편 방안에 대한 의견 수렴과 토론이 예정돼 있다. 공청회 마지막 날인 11일에는 100분 토론도 예정돼 있다. ‘사법부가 나아갈 길’을 주제로 종합 토론이 열린다. 좌장은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3170"&gt;김선수&lt;/span&gt;(17기) 전 대법관이다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;재경지법의 한 판사는 “사법제도 개편은 국가의 백년대계에 해당한다”며 “조금 늦은 감이 있지만 어떤 방향으로 개편되든 국민과 사회에 보탬이 돼야 한다”고 말했다. 중견 로펌의 한 변호사는 “법원은 물론 학계와 시민단체 등 다양한 전문가가 나와서 토론하는 자리가 될 것으로 보인다”며 “제도 개편의 필요성을 언급하는 쪽에서도 공청회에서 논의되는 내용을 고려했으면 한다”고 말했다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Nov 2025 19:59:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213135</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213135</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213135.jpg</media:thumbnail>
-			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>'시장에서 산업으로' … LES 2025, 아시아 최초 법률 박람회</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/213166.jpg" alt="1114.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/213166.jpg" alt="1114small.jpg" (style="opacity: 0;" height="0px" )="" /&gt;&lt;/p&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 100%;"&gt;      &lt;a href="https://image.lawtimes.co.kr/thumb/180/213166.jpg" alt="1114big.jpg" target="_blank"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213166.jpg" alt="1114small.jpg" style="width: 100%; height: auto;" /&gt;&lt;/a&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《클릭하여 크게보기》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;갈수록 치열해지는 법률 서비스 경쟁, 법조는 어디로 나아가야 할까. 12월 3일부터 5일까지 서울 양재동 aT센터에서 열리는 아시아 최초의 법률산업박람회 ‘&lt;b&gt;&lt;a href="https://lawexposeoul.com/" target="_blank"&gt;Law Expo Seoul 2025(LES 2025)&lt;/a&gt;&lt;/b&gt;’에서는 ‘Beyond Market, Toward Industry’를 주제로 법률 시장의 산업화 가능성을 조망한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;span style="font-weight: bold;" serial="5968"&gt;조원희&lt;/span&gt;(사법연수원 30기) &lt;b&gt;&lt;a href="https://dlglaw.co.kr/" target="_blank"&gt;법무법인 디엘지&lt;/a&gt;&lt;/b&gt; 대표변호사는 행사 첫날(3일) 법률시장의 현주소와 법조 산업화의 실현 방안에 대해 주제 발표한다. 그는 “법률가 역할의 ‘본질적 전환’”을 강조하며 “인구 감소, 내수 한계, 변호사 수 증가, 인공지능(AI) 서비스의 일반화에 따라 전통 자문수요 감소까지 맞물리며 법률 산업이 구조적 변곡점에 와 있다”고 보고 있다. 조 대표변호사는 한국 변호사들이 해외 대형 거래에서 더 큰 역할을 하고, 기업의 의사결정·준법·컴플라이언스까지 깊숙이 관여하는 ‘설계자이자 문제 해결사’로 재정의돼야 한다고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;미국계 로펌 스캐든의 랜스 A. 에체베리 파트너 변호사는 첫날 기조연설자로 나서 후발 주자였던 스캐든이 글로벌 로펌으로 성장한 이야기를 전한다. 스캐든은 미국의 법률 전문 매체 ‘아메리칸 로 이어’가 발표한 2024년 매출 기준 전 세계 200대 로펌 순위에서 5위에 올랐다. 36억7000만 달러의 매출을 올렸고, 변호사 1인당 매출도 200만 달러가 넘는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법조의 미래 경쟁력을 좌우할 기술과 경력 개발도 행사에서 다뤄진다. 아마존웹서비스(AWS)와 LG AI연구원이 제시하는 최신 리걸테크와 클라우드 활용 전략, 로펌·인하우스 조직이 적용할 수 있는 마케팅 및 업무 혁신 사례가 공개된다. 인하우스카운슬포럼(IHCF)과 함께하는 커리어 로드맵 세션에서는 변화하는 법률 산업 환경에 맞춘 역량 개발 방향과 전문직 생태계의 진로 전략을 소개한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;로앤굿은 일반 시민을 대상으로 무료 법률 상담을 진행한다. 소송비용 부담으로 법적 대응이 어려운 의뢰인을 위해 현장에서 소송 금융 지원 가능 여부도 검토할 예정이다.&lt;/p&gt;</description>
-			<pubDate>Fri, 14 Nov 2025 19:59:42 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213166</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213166</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213166.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
