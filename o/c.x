@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>천안 이랜드패션 물류센터 화재....60시간 만에 모두 꺼졌다</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/17/EK5W6SGQFVHNNDZFZARNGJGBWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/17/EK5W6SGQFVHNNDZFZARNGJGBWA/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Nov 2025 10:06:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TIODFME3TKYZTGQ4WGMBRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이랜드패션 물류센터 화재 사흘 째인 17일 충남 천안 동남구 화재현장에서 소방당국이 굴절·고가 사다리차를 이용해 잔불 진화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안 이랜드패션 물류센터에 난 불이 60시간 만에 꺼졌다.&lt;br&gt;&lt;br&gt;17일 충남소방본부는 이날 오후 6시 11분쯤 화재를 완전히 진화했다고 밝혔다. 이번 화재는 지난 15일 오전 6시 8분쯤 천안시 동남구 풍세면 이랜드패션 물류센터 건물 지상 4층에서 시작됐다. &lt;br&gt;&lt;br&gt;50분 만에 ‘대응 2단계’ 경보까지 발령해 화재 진압에 총력을 다했던 소방 당국은 9시간 30여 분 만인 당일 오후 3시 31분쯤 큰불길을 잡았다. 다행히 화재 이튿날인 지난 16일 오전 9시 11분쯤 대응 1단계까지 모두 해제됐으나, 사흘째 잔불 작업이 이어졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “쌓여 있는 적재물이 워낙 많아 진화에 애를 먹었는데 다행히 불이 더 확산하지 않고 완전히 끌 수 있었다”고 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>시화쓰레기 매립지가 정원으로…45만㎡ ‘새로숲’ 착공</title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/17/QGK7LZWHWRGYXGMBEHHDXCZ3ZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/17/QGK7LZWHWRGYXGMBEHHDXCZ3ZQ/</guid>
+      <dc:creator>안산=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Nov 2025 09:16:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDAZLGMNSTSOBSGQ2GGNZQGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기지방정원 ‘새로숲’ 조감도. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시에 있는 옛 시화쓰레기 매립지가 오는 2027년 축구장 63개 규모의 대형 정원으로 탈바꿈한다.&lt;br&gt;&lt;br&gt;경기도는 17일 안산시 상록구 본오동에서 ‘경기지방정원 새로숲 조성공사’ 착공식을 했다고 밝혔다. 새로숲은 경기도가 붙인 이 정원의 이름이다. ‘새로운 숲’, ‘다시 태어나는 자연’이라는 뜻으로, 과거 쓰레기와 오염의 공간이었던 안산시화 매립지를 생태문화의 거점으로 바꾼다는 메시지를 담았다고 한다.&lt;br&gt;&lt;br&gt;새로숲이 들어서는 부지는 1987년부터 1992년까지 경기 지역 8개 시군의 생활쓰레기를 매립하던 곳이었다. 1994년 매립 종료 이후 2016년 사후관리까지 마무리된 이후 빈 땅으로 남았다. 경기도는 이곳에 989억원을 투입해 대규모 정원을 조성하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TGNZUGM3TMZLFGY3TSNJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기지방정원 ‘새로숲’ 착공식. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정원을 만든다는 계획은 2016년에 처음 발표했지만, 각종 행정절차 등이 이어지면서 9년 만인 올해 첫 삽을 뜨게 됐다. 45만㎡ 부지에 정원을 조성하게 되는데, 내년 4월엔 정원 18만㎡와 바로 옆 안산갈대습지 40만㎡를 연계해 먼저 1단계 개방을 하기로 했다. 나머지 구역의 정원 시설 및 센터 건축을 완료해 2027년 전체 개원한다는 계획이다.&lt;br&gt;&lt;br&gt;주요 시설로는 정원 지원 센터, 방문자 센터 등이 있고, 교육·체험·휴식이 가능한 복합 정원으로 맞이 정원, 감상 정원, 휴식 정원, 기후 정원, 참여 정원 등을 조성하기로 했다.&lt;br&gt;&lt;br&gt;조성 과정에는 지역 농장과 정원 전문가, 시민 정원사 등 다양한 주체들도 참여하게 된다고 경기도는 설명했다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “정원 조성과 함께 안산갈대습지, 화성비봉습지 등 인근 생태 자원과 연계해 정원-습지-수변을 연결하는 복합 생태 벨트를 구축할 예정”이라며 “정원을 중심으로 한 교육 프로그램, 생태 투어, 정원 산업 박람회 등을 연계해 장기적으로는 정원 문화의 거점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘에어쇼 잠입’ 美전투기 무단 촬영한 대만인들, 2심서 징역형 집유</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/17/MOZU2FAHWFF43EYKNTUBEYGKTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/MOZU2FAHWFF43EYKNTUBEYGKTU/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 17 Nov 2025 08:41:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OM4X5RP6CRODVEEE2QEAGLJK3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 11일 경기도 평택시 주한미공군 오산기지에서 열린 '오산 에어 파워 데이 2025'에서 A-10 공격기가 시범비행을 마치고 착륙하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한 미군 공군기지 안에서 열린 에어쇼 행사장에서 기지 내부 시설과 전투기 등을 촬영한 혐의를 받는 대만인들이 항소심에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소7부(재판장 김병수)는 17일 60대 A씨와 40대 B씨 등 대만인 2명에 대한 군사기지 및 군사시설보호법 위반 등 혐의 사건 항소심 선고 공판을 열었다. 이날 재판부는 이들에게 각각 징역 1년 6개월에 집행유예 3년을 선고한 1심 판결을 유지했다. 재판부는 “원심 형이 지나치게 가벼워서 부당하다고 보이지 않는다”고 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 5월 10일 오전 10시쯤 경기 평택에 있는 주한 미군 오산공군기지(K-55)에서 열린 ‘2025 오산 에어쇼’ 현장에서 미군 장비와 시설을 무단 촬영한 혐의를 받는다. 행사 당일 미군 측은 중국과 대만 국적자에 대해 출입을 엄격하게 제한했는데, A씨 등은 한국인들과 뒤섞여 행사장에 몰래 입장한 뒤 전투기 등을 촬영한 것으로 조사됐다. 미군은 이미 이들을 세 차례나 출입 제지했지만, 보안망을 뚫고 들어온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 “사진을 수상하게 찍는 사람들이 있다”는 신고를 받고 출동한 경찰에 체포됐다. A씨 등은 관광 비자를 이용해 입국했으며, 행사가 끝나고 출국할 예정이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 당국이 이들의 카메라를 분석한 결과, 수백여 장의 사진이 발견됐는데, 이 중 군사기지 및 군사시설 보호법 위반 혐의를 적용할 수 있는 사진은 약 10여 장이었던 것으로 파악됐다. 사진이 외부에 유출되지는 않은 것으로 파악됐다. 이들은 “올해 퇴역하는 미 전투기 A-10에 대한 궁금증으로 사진을 찍으러 온 것”이라는 취지로 진술한 것으로 전해졌다. A-10은 이른바 ‘탱크 킬러’로 불리는 전투기로, 오산 공군기지에 배치돼 있다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인들은 군사시설에 들어갈 수 없고 군사시설에 대한 사진을 촬영해서는 안 된다는 사실을 사전에 알았던 것으로 보인다”며 “한 번 군사시설에 진입하려다 실패했음에도 군사시설에 들어갔을 뿐만 아니라 수많은 사진까지 촬영해 그에 합당한 처벌은 필요하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;다만 “피고인들은 취미 생활이나 관심의 대상을 촬영하기 위해 그곳에 들어갔다고 주장하고 있고 다른 불순한 목적을 가지고 있다고 볼 만한 자료는 발견되지 않았다”며 “체포 과정에서 찍었던 사진들이 모두 압수돼 유출되지 않은 것으로 보이고, 구금 기간 범행에 대해 반성할 충분한 기회가 있던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘검사장 평검사 전보 논란’ 박재억 수원지검장 사의 표명</title>
       <link>https://www.chosun.com/national/court_law/2025/11/17/FV7IFH7WVZBT7L3V6TS4XUEAUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/FV7IFH7WVZBT7L3V6TS4XUEAUA/</guid>
@@ -537,37 +564,6 @@
       <description/>
       <pubDate>Mon, 17 Nov 2025 00:20:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3GGNRRGNSDAZJXGAZTQZTCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 지난 14일 경기 과천시 정부과천청사 법무부로 출근을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정성호 법무부 장관이 ‘대장동 항소 포기’와 관련해 집단 행동에 나선 검사장들을 평검사로 인사 전보하는 방안에 대해 “법무부나 검찰이 안정되는 게 우선”이라고 17일 밝혔다.&lt;br&gt;&lt;br&gt;정 장관은 이날 오전 출근길에서 ‘검사장 18명의 징계를 검토 중이냐’고 묻는 취재진의 질문에 이렇게 답했다. 정 장관은 “특별히 드릴 말씀이 없다”면서도 “무엇이 가장 좋은 방법인지 고민 중”이라고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “이재명 대통령이 해외 순방 준비 중이고, 아시아태평양경제협력체(APEC) 성과도 관세 협상으로 잘 마무리됐다”며 “가장 중요한 건 경제 활력을 회복하는 것 아니겠나. 우리(법무부)도 같은 입장”이라고 했다. 검찰 반발 사태가 최우선 해결 과제가 아니라는 뜻으로 풀이된다.&lt;br&gt;&lt;br&gt;‘평검사 전보 조치가 사실상 강등이라는 내부 반발과 우려가 있다’는 질문에는 “딱히 그런 건 없는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;정부는 대장동 항소 포기에 반발해 입장문을 낸 검사장 18명에 대해 평검사로 전보 조처하는 방안을 유력하게 검토 중인 것으로 전해졌다. 검찰청법상 검사의 계급은 검찰총장과 평검사뿐이라 불가능하지 않다는 것이다. 그러나 일선 검찰청을 지휘하던 검사장을 평검사로 전보하는 것은 사실상 강등에 해당돼 내부 반발이 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 최측근 “김 여사, ‘건희2’ 휴대폰 한두 번 빌려 써”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/14/MJ3BG7JZXZCVJLKWEVDH5VPQ6Y/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 12:18:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WGY3DGMZTMMRUMU2WMZJYMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 이른바 '문고리 3인방' 중 한 명인 정지원 전 대통령실 행정관. 정 전 행정관은 건진법사 전성배 씨의 휴대전화에 '건희2'로 저장된 연락처의 실제 사용자로 알려졌다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 차명 휴대전화로 지목된 이른바 ‘건희2′에 대해 김 여사 측근 정지원 전 청와대 행정관이 “제가 사용하던 휴대전화고 김 여사가 한두 번 정도 빌려 사용했다”고 법정에서 증언했다. 건희2는 건진법사 전성배씨 등이 김 여사에게 통일교 현안 등 각종 청탁을 전달하는 메시지를 보낸 연락처다.&lt;br&gt;&lt;br&gt;정 전 행정관은 14일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 김 여사의 알선수재 등 사건 재판에 증인으로 나와 이같이 말했다. 정 전 비서관은 김 여사가 운영한 코바나컨텐츠 직원 출신으로 김 여사를 최측근에서 보좌한 인물이다. &lt;br&gt;&lt;br&gt;정 전 행정관은 ‘건희2’ 휴대전화는 본인이 사용하던 연락처로 이용 요금도 자신의 신용카드로 자동 결제해왔다고 증언했다. 건진법사 전씨는 “건희2로 연락하면 김 여사가 받았다”고 했으나 김 여사는 이 연락처의 실사용자가 정 전 행정관이라고 주장해왔다. &lt;br&gt;&lt;br&gt;이날 법정에서는 전씨가 건희2 휴대전화로 보낸 문자 내용이 공개됐다. 전씨는 8명의 이름과 대통령실 부서가 적힌 인사 청탁 목록을 첨부하고 ‘대통령 취임식 초청 부탁드립니다. 사모님한테 말씀드려서 꼭 해주시라고 당부한 겁니다’라고 보냈다. 전씨는 이 메시지에 ‘전부 이력서 부탁합니다’라는 답변을 받았고 ‘이력서 파일을 내가 못 보내서 처남한테 시켜서 비서한테 보낼게’라고 다시 답변을 보냈다. 정 전 행정관은 이를 김 여사에게 전달하지 않았다고 했다.&lt;br&gt;&lt;br&gt;김 여사가 건희2 휴대전화로 2022년 3월 대선 직후 윤영호 전 통일교 세계본부장과 통화한 녹취록도 공개됐다. 이에 따르면 윤 전 본부장이 “너무 축하드린다”고 하자 김 여사는 “이번에 애 많이 써줘서 감사하다”며 “이 번호는 좀 비밀리에 하는 번호”라고 답했다.&lt;br&gt;&lt;br&gt;특검 측은 “김 여사는 조사 당시 ‘증인과 자신이 공유하며 사용하기 위해 개통했고 중요한 내용이 있으면 당연히 보고했을 것’이라고 했는데 김 여사가 거짓 진술을 한 것이냐”고 추궁했다. 정 전 행정관은 “김 여사가 왜 그렇게 진술했는지 모르겠다”고 했다. &lt;br&gt;&lt;br&gt;한편, 정 전 행정관은 이날 김 여사가 통일교 층으로부터 받은 샤넬 구두 사진을 본 뒤 “(김 여사가) 한두 번 신은 것을 본 것 같다”고 하기도 했다. 샤넬 가방과 그라프 목걸이에 대해선 “착용한 것을 본 적 없다”고 했다. 김 여사에게 통일교 측의 명품 선물을 전달하고, 샤넬 매장에서 일부 상품을 직접 교환한 것으로 알려진 또 다른 측근 유경옥 전 행정관도 이날 증인으로 소환됐으나 불출석 사유서를 내고 법정에 나오지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한글 배우러 왔다가 쓰러진 태국인…배우 이영애 도움으로 귀국길</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/14/CMENLPWWRZFY5ESQI3BAN6MFBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/14/CMENLPWWRZFY5ESQI3BAN6MFBQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 14 Nov 2025 09:18:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3YEEVGJ4SJO6XIOVGXTJFETM3A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이영애. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이영애가 한국어를 배우러 한국에 왔다가 뇌출혈로 쓰러진 태국인 유학생을 위해 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;14일 전남대 구호봉사동아리 ‘리듬오브호프’ 등에 따르면, 전남대 언어교육원에서 한국어를 배우던 태국인 유학생 시리냐 씨는 지난 7월 숙소에서 쓰러진 채 발견됐다. 이후 경막하출혈 진단을 받고 지금까지 혼수상태에서 병원 치료를 받아왔다.&lt;br&gt;&lt;br&gt;시리냐 씨가 경제적 사정으로 치료와 귀국에 어려움을 겪고 있는 사실이 알려지자 ‘리듬오브호프’를 비롯한 학교 구성원들은 자발적으로 모금에 나섰다.&lt;br&gt;&lt;br&gt;당초 목표 모금 금액은 900만원이었으나, 학내 구성원과 시민 참여가 이어지며 두 배가 넘는 금액이 모였다.&lt;br&gt;&lt;br&gt;배우 이영애도 시리냐 씨의 안타까운 사연을 접하고 ‘리듬오브호프’에 1000만원을 기부했다.&lt;br&gt;&lt;br&gt;시리냐 씨는 대한항공 등의 도움을 받아 오는 15일 인천공항에서 항공편을 통해 고향인 태국으로 돌아갈 예정이다.&lt;br&gt;&lt;br&gt;모금에 참여한 배우 이영애는 “학생들이 이렇게 좋은 일을 해준 것에 대해서 오히려 감사하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>배정남 “남산 산책하다 시신 발견…49일간 술 뿌리고 노잣돈 묻어”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/17/ZDOWQCGDSZHJVN5ZCLCBY4A23U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/17/ZDOWQCGDSZHJVN5ZCLCBY4A23U/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Nov 2025 23:21:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6DNL4CA4RB6POD7HXP2YMKYQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 배정남./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 배정남이 과거 산책 도중 남성의 시신을 발견해 구급대원의 요청에 따라 초기 조치를 도왔던 경험을 털어놨다.&lt;br&gt;&lt;br&gt;배정남은 지난 16일 방송된 SBS ‘미운 우리 새끼’를 통해 영화 ‘파묘’의 자문위원으로 알려진 무속인을 찾아가 점을 보는 모습을 공개했다.&lt;br&gt;&lt;br&gt;배정남은 무속인이 “옆에 할아버지가 있다”고 말하자 몇 해 전 반려견 벨과 남산 산책을 하던 중 시신을 발견한 경험을 떠올렸다. &lt;br&gt;&lt;br&gt;그는 “처음에는 숲에서 누가 운동하는 줄 알았다”며 “뒤를 봤는데 순간 얼어버렸다”고 운을 뗐다. 곧바로 경찰에 전화한 배정남은 ‘남산에서 극단적 선택을 한 할아버지를 발견했다’고 신고했다.&lt;br&gt;&lt;br&gt;이어 그는 “119에도 전화했더니 나한테 빨리 줄을 풀어주라고 했다. 처음엔 못 하겠다고 했지만, 꼭 도와달라고 하길래 시도했다. 몸무게가 있으니 끈이 안 풀렸다. 미치겠더라. 나중엔 구급대가 와서 해결했지만 충격이 컸다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/25ONMPDHXFGO7FA5ENEOWZ7BBM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 배정남./SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충격적인 일이었지만 이후에도 반려견을 위해 이 산책로를 계속 다녀야 했다고 한다. &lt;br&gt;&lt;br&gt;배정남은 “벨의 산책을 위해 그 산책로를 포기할 수 없었다. 소주와 막걸리를 49일 동안 그 자리에 부었고, 땅속에 노잣돈도 묻어드렸다”고 덧붙였다.&lt;br&gt;&lt;br&gt;한편 배정남은 한 달 전 반려견 벨을 떠나보내고 펫로스 증후군을 앓아온 것으로 전해졌다. 이날 방송에서 무속인은 “나쁜 기운을 아기(벨)가 가면서 싹 가지고 갔다. 그러니 집에 갖고 있는 털도 보내달라”고 조언하기도 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/M7CHJB7K4ZDY5CPKTVRNAZTCKQ.jpg?auth=d56548fa9edbe8ac0b6b73cc6162733b5ecf5a343e486941292e95a1a810333b&amp;smart=true&amp;width=504&amp;height=378" type="image/jpeg" height="378" width="504">
-        <media:description type="plain">배우 배정남./인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>인터폴, 20년전부터 경고했다 “21세기형 노예제도” </title>
