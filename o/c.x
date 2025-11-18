@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>올해 마지막 A매치인데…홍명보호, 관중석은 ‘텅텅’</title>
+      <link>https://www.chosun.com/national/2025/11/18/Q7EAYUYX5RD55KLRDD7QC3DKQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/18/Q7EAYUYX5RD55KLRDD7QC3DKQ4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 13:33:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F3CNTAMRPNO7HNKNE7SCLWTBS4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 마포구 서울월드컵경기장에서 열린 남자축구 국가대표 A매치 평가전 대한민국과 가나의 경기 도중 관중석 곳곳이 비어있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍명보 감독이 이끄는 한국 축구대표팀이 올해 마지막 A매치에서도 흥행에 실패했다. &lt;br&gt;&lt;br&gt;홍명보호는 18일 오후 8시 서울월드컵경기장에서 열린 가나와의 친선경기에서 1대0으로 승리를 거뒀다. 하지만 관중석은 빈자리가 더 많았다. &lt;br&gt;&lt;br&gt;대한축구협회가 발표한 이날 경기 관중 수는 3만3256명이었다. 6만6000여명을 수용할 수 있는 서울월드컵경기장 기준으로 49.85%만 채워졌다. &lt;br&gt;&lt;br&gt;흥행 실패는 예고되어 있었다. 이날 경기 킥오프 3시간 전 잔여 입장권은 약 3만8000장이나 됐다. 경기 당일 1만장 가까이 취소표가 나왔기 때문이다. &lt;br&gt;&lt;br&gt;대표팀 관중 숫자가 적은 건 이번이 처음은 아니다. 지난달 14일 서울월드컵경기장에서 치른 파라과이와의 평가전에서는 2만2206명의 관중이 입장했다. 총수용 가능 인원의 3분의 1가량에 그쳤다. &lt;br&gt;&lt;br&gt;서울월드컵경기장에서 열린 A매치 관중이 3만명이 채 되지 않은 것은 2015년 10월 13일 자메이카와의 평가전(2만8105명) 이후 10년 만이었다. 한국 축구의 에이스 손흥민이 A매치에 데뷔한 2010년 이후로도 역대 최소 관중 기록이었다. &lt;br&gt;&lt;br&gt;추운 날씨와 대한축구협회를 향한 팬들의 불만이 복합적으로 작용한 결과라는 분석이다. 이날 경기 킥오프 시간인 오후 8시 기온은 1도, 체감온도는 영하 4도까지 떨어질 것으로 예상됐다. 갑자기 뚝 떨어진 기온에 취소표가 대거 발생한 것으로 풀이된다. &lt;br&gt;&lt;br&gt;여기에 홍 감독 선임 과정에서 불거진 여러 논란과 정몽규 회장이 이끄는 축구협회에 대한 팬들의 불신이 올해 마지막 A매치 흥행 실패로까지 이어졌다는 평가가 나온다. &lt;br&gt;&lt;br&gt;축구협회 관계자는 뉴시스에 “올해 개최되는 마지막 홈 경기를 경기장을 가득 메운 축구팬 여러분과 함께 하지 못해 매우 아쉽다”며 “한편으로는 갑작스럽게 찾아온 영하의 한파에도 경기장을 찾아주신 3만명 이상의 축구팬 여러분들께는 정말 감사하다”고 말했다. 이어 “협회 임직원 모두 다시 많은 축구팬들께서 경기장을 찾아 목청 높여 대표팀을 응원하고, 한국 축구에 대한 관심을 이어갈 수 있도록 대표팀 지원에 최선을 다하겠다”며 “보다 다양한 이벤트 마련을 위해서도 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충북 영동 종오리 농장서 고병원성 AI 발생...4000마리 살처분</title>
+      <link>https://www.chosun.com/national/2025/11/18/GCP6NK3DFRACNJ4M3VW6CMHVH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/18/GCP6NK3DFRACNJ4M3VW6CMHVH4/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 13:12:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KT7AJVL6YBMHVI6PSRVUCXZY4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 고병원성 조류인플루엔자(AI)가 발생한 충북 영동군 용산면 종오리 농장에서 방역당국이 종오리 4000마리를 살처분하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 영동군의 한 종오리(번식용 오리) 농장에서 고병원성 조류인플루엔자(AI·H5N1형)가 발생했다. 올겨울 가금 농장에서 여섯 번째, 오리 사육 농장에서는 첫 발생이다. &lt;br&gt;&lt;br&gt;고병원성 조류인플루엔자 중앙사고수습본부(중수본)는 18일 충북 영동군 소재 종오리 농장(4000여 마리)에서 고병원성 조류인플루엔자가 발생했다고 밝혔다. &lt;br&gt;&lt;br&gt;지난 17일 농장주가 산란율 저하로 가축방역 기관에 신고했고, 해당 농장의 종오리에 대한 정밀검사에서 고병원성 조류인플루엔자가 확인됐다. &lt;br&gt;&lt;br&gt;중수본은 초동대응팀을 투입해 농장 출입을 통제하고, 추가 확산 방지를 위한 종오리 4000마리를 살처분했다. 또 충북도 내 97개 농가에서 사육 중인 오리 100만마리에 대해서는 일시 이동 중지 명령도 내렸다.&lt;br&gt;&lt;br&gt;중수본은 이달 말까지 발생 농장 방역대 10㎞ 내 가금 농장 8개 농가 136만마리에 대해서 정밀검사를 실시할 계획이다.&lt;br&gt;&lt;br&gt;또 충북 전체 오리 농장(37호)과 전국 종오리 농장(85호)에 대해서도 25일까지 정밀검사를 실시한다. 위험 지역 내 오리 농장 중 이번 동절기 오리 사육 제한에 참여하지 않은 농장에 대해서도 방역 점검을 하기로 했다. &lt;br&gt;&lt;br&gt;전국 지방자치단체에는 긴급방역비 약 17억원을 배정하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“SKY도 예외없다” 학폭 가해자 4명 중 3명, 대입 불합격</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/18/T45KX4EGTFFYZOHBW4UK6B2MCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/T45KX4EGTFFYZOHBW4UK6B2MCE/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 12:11:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSWEZRTMJRWEZBQMMYTSZBYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 전국 134개 대학 가운데 절반이 학교폭력 이력을 입시 전형에 반영한 것으로 나타났다. 학폭 이력이 있던 지원자는 4명 중 3명 꼴로 불합격했다. 올해 입시에서는 모든 대학이 학폭 기록을 감점 요소로 반영하는 만큼 탈락 사례가 더 증가할 것으로 보인다. &lt;br&gt;&lt;br&gt;18일 국회 교육위원회 김영호 더불어민주당 의원실이 교육부로부터 받은 자료에 따르면, 지난해 전국 국공립‧사립대 61곳은 학교생활기록부 내 학폭 조치사항을 대입전형 평가에 반영했다. 국내 4년제 대학 총 193곳 가운데 자료를 제출한 134개 대학을 기준으로 집계한 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJFH56EYPJFCBF2O374WTY37BU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들 대학이 학폭 이력을 반영한 학생은 총 397명이고, 이 중 298명(75%)이 불합격 처리됐다. 수시 모집에서는 370명 중 272명이(73.5%), 정시 모집에서는 27명 중 26명(96.3%)이 불합격했다. 수능 성적 중심의 정시에서도 학폭 감점이 합격 당락에 결정적인 영향을 미친 것으로 풀이된다. &lt;br&gt;&lt;br&gt;가장 많은 학생이 탈락한 학교는 계명대였다. 수시에서 34명, 정시에서 4명이 학폭 이력을 이유로 불합격했다. 이어 경북대 22명, 경기대 19명 순이었다. &lt;br&gt;&lt;br&gt;서울 주요 대학에서도 불합격 사례가 확인됐다. 서울대는 정시에서 2명, 연세대는 수시에서 3명이 학폭 이력으로 감점을 받아 합격하지 못했다. 한양대(12명), 서울시립대(10명), 동국대(9명), 경희대‧건국대‧성균관대(각 6명) 등도 학폭 이력이 평가에 반영됐다. &lt;br&gt;&lt;br&gt;학폭 조치는 사안의 경중에 따라 1~9호로 나뉜다. 1호(서면사과), 2호(접촉‧협박‧보복 금지), 3호(학교 봉사)는 조치를 이행하면 학생부에 남지 않는다. 그러나 4호(사회봉사)와 5호(특별교육 이수 또는 심리치료)는 졸업 후 2년간 학생부에 기록된다. 6호(출석정지), 7호(학급 교체), 8호(전학)는 4년간, 9호(퇴학)는 영구적으로 기록된다. &lt;br&gt;&lt;br&gt;작년에는 학폭 반영이 대학 자율이었지만 올해는 모든 전형에서 의무화되는 만큼 탈락 사례는 더 증가할 것으로 예상된다. 앞서 교육부는 2023년 학교폭력 근절 종합대책을 발표하고 각 대학이 입시 전형에서 학폭 관련 조치 사항이 있는 지원자에게 불이익을 주도록 했다. 김 의원은 “학폭으로 다른 학생에게 상처를 남긴 학생은 책임을 져야 한다”며 “다만 갈등을 원만히 해결할 교육적 접근과 제도도 마련돼야 한다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대장동 항소 포기 후 사의’ 정진우 중앙지검장 “논란 속에 직 내려놔 마음 아파”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/18/NSQBSD6VIZHHNOE333AQYAZ4W4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/NSQBSD6VIZHHNOE333AQYAZ4W4/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 12:09:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDMNBXGRTDGMRRGQZDQOJXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진우 서울중앙지검장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 개발 비리’ 민간업자 사건 항소 포기 후 사의를 표명한 정진우(53·사법연수원 29기) 서울중앙지검장이 18일 “논란 속에 검사직을 내려놓게 돼 마음이 아프다”고 했다.&lt;br&gt;&lt;br&gt;정 지검장은 이날 검찰 내부망(이프로스)에 “검사 생활을 해 오면서 중심을 지키며 바르게 일하자는 마음으로 살아 왔다”며 이같이 말했다. 그러면서 “많은 과제를 남겨두고 검찰을 떠나게 돼 미안하고 마음이 무겁지만, 저보다 훌륭한 많은 후배가 더 나은 검찰을 만들어 갈 것이라고 믿는다. 늘 검찰을 응원하겠다”고 했다.&lt;br&gt;&lt;br&gt;또한 정 지검장은 “같은 길을 가는 검사·수사관·실무관 등 구성원분들과 깊은 동료애를 느끼면서 외롭지 않은 길을 걸어 온 것 같다”며 “많이 부족한 저는 이제 물러가지만, 조속히 조직이 안정되고 구성원들이 본연의 업무에 집중할 수 있게 되기를 바란다”고도 했다.&lt;br&gt;&lt;br&gt;정 지검장은 지난달 31일 김만배씨·남욱씨 등 대장동 민간업자 5명에 대한 1심 선고 후 기한이었던 지난 7일 대검찰청의 ‘불허’ 방침을 받아들여 항소를 포기했다. 논란이 확산하자 다음 날 사의를 표명했다. &lt;br&gt;&lt;br&gt;그는 다음 날인 8일 낸 입장문에서 "대검의 지휘권은 따라야 하고 존중되어야 한다. 중앙지검의 의견을 설득했지만 관철시키지 못했다. 대검의 지시를 수용하지만, 중앙지검의 의견이 다르다는 점을 명확히 하고 이번 상황에 책임을 지기 위해 사의를 표명했다”고 했다.&lt;br&gt;&lt;br&gt;정 지검장의 이같은 결정 과정에 대해 “항소 후 사퇴했어야 한다”는 비판이 나왔다.&lt;br&gt;&lt;br&gt;정 지검장은 경기 평택 출신으로 단국대사대부고와 서울대 법대를 졸업했다. 사법시험 합격 후 해군 법무관을 거쳐 2003년 인천지검에서 검사 생활을 시작했다. 법무부 국제형사과장·공안기획과장, 금융정보분석원(FIU) 파견 근무 등을 역임했고 문재인 정부 말인 2021년 7월 서울중앙지검 1차장으로 이동했다. 윤석열 정부 출범 첫 해인 2022년 6월 검사장 보직인 대검찰청 과학수사부장으로 승진했고, 춘천지검장, 서울북부지검장을 거쳤다. 이재명 정부 출범 후인 지난 7월 서울중앙지검장에 취임했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사법행정권 남용’ 양승태 前대법원장 2심 선고, 내년 1월로 연기... 7년 채워</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/18/RJJL2LWDTBG35NC3TJSQTKZMWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/RJJL2LWDTBG35NC3TJSQTKZMWU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 11:22:08 +0000</pubDate>
+      <content:encoded>이른바 ‘사법행정권 남용’ 사건 1심에서 무죄를 선고받은 양승태 전 대법원장의 2심 선고가 내년으로 미뤄졌다. 2019년 2월 시작된 이 사건 심리 기간은 7년을 채우게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PKU3Q52JRBH2MRTBPHXLU4RW4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양승태 전 대법원장이 지난 9월 3일 오전 서울 서초구 서울고등법원에서 열린 직권남용 권리 행사 방해 혐의 2심 결심 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 서울고법 형사14-1부(재판장 박혜선)는 양 전 대법원장과 박병대·고영한 전 대법관의 항소심 선고기일을 오는 26일에서 내년 1월 30일로 변경했다. 검찰은 지난 9월 항소심 결심 공판에서 양 전 대법원장에게 징역 7년을, 박 전 대법관에게 징역 5년을, 고 전 대법관에게 징역 4년을 구형했다. 1심 구형량과 같다.&lt;br&gt;&lt;br&gt;양 전 대법원장과 두 전직 대법관에게는 47가지 혐의가 적용됐고, 1심은 모두 무죄로 판단했다. 특히 양 전 대법원장이 상고법원 도입 등을 위해 박근혜 청와대와 거래하려는 목적으로 일제 강제동원 피해자 소송이나 전교조 법외(法外) 노조 소송에 개입했다는 ‘재판 개입’ 혐의에 대해 1심은 “검찰의 주장을 인정하기 어렵다”고 판단했다. &lt;br&gt;&lt;br&gt;원세훈 전 국정원장의 인터넷 ‘댓글 조작’ 사건에 개입하려 했다는 혐의에 대해서도 “위법한 직권남용으로 보기 어렵다”고 했다. 양 전 대법원장 등이 사법부에 유리한 방향으로 ‘옛 통합진보당 행정소송’ 관련 재판에 개입하려 했다는 혐의도 무죄로 판단됐다.&lt;br&gt;&lt;br&gt;이 밖에도 양 전 대법원장 등이 특정 성향을 가진 판사들을 ‘물의 야기 법관’으로 분류하고 원치 않는 곳으로 발령 내는 식의 인사 불이익을 줬다는 ‘판사 블랙리스트’ 혐의도 1심은 무죄로 판단했다. 불이익 인사 조치 자체는 인정되지만, 인사권자에게는 폭넓은 재량을 인정할 수 있다는 것이었다. &lt;br&gt;&lt;br&gt;또 양 전 대법원장이 진보 판사 모임인 국제인권법연구회 소모임 ‘인사모’(인권과 사법제도 소모임)의 와해를 시도했다는 혐의, ‘정운호 게이트’ 관련 판사 비위를 감추려고 검찰 수사 기밀을 수집하려 했다는 혐의, 공보관실 운영비를 불법 편성 및 집행했다는 혐의도 인정되지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘사의 표명’ 정진우 중앙지검장 “논란 속에 검사직 내려놔 마음 아파”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/18/7N2OHARPQZDBTFVSWKIPGLEIO4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/7N2OHARPQZDBTFVSWKIPGLEIO4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 11:19:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2GGYZYHA2DGOBVGUZGCZRTGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진우 서울중앙지검장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대장동 사건 1심 선고에 대한 항소 포기 결정에 책임을 지고 사의를 표명했던 정진우 서울중앙지검장이 18일 “검사 생활을 해오면서 중심을 지키며 바르게 일하자는 마음으로 살아왔다”고 했다. &lt;br&gt;&lt;br&gt;정 지검장은 이날 검찰 내부망인 이프로스에 올린 글에서 “마지막 지점에서 논란 속에 검사직을 내려놓게 돼 마음이 아프다”며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;정 지검장은 “2003년 4월 부푼 꿈을 안고 검사의 길에 들어선 이래로 쉼 없이 23년여를 달려왔다”며 “돌이켜보면 검사로서의 삶이 참 고단하기도 했지만, 한평생 옳다고 생각하는 것을 해나가면서 사는 삶에 보람을 느끼며 살아왔다”고 적었다. 이어 “같은 길을 가는 검사, 수사관, 실무관 등 구성원분들과 깊은 동료애를 느끼면서 외롭지 않은 길을 걸어온 것 같다”며 “조속히 조직이 안정되고 구성원들이 본연의 업무에 집중할 수 있게 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;그는 또 “많은 과제를 남겨두고 검찰을 떠나게 돼 미안하고 마음이 무겁습니다만, 저보다 훌륭한 많은 후배가 더 나은 검찰을 만들어 갈 것이라고 믿는다”며 “늘 검찰을 응원하겠다”고 했다. &lt;br&gt;&lt;br&gt;정 지검장은 오는 19일 자로 면직이 결정됐다. 지난 8일 사의를 표명한 지 11일 만이다. 앞서 정 지검장은 대장동 개발 비리 혐의 피고인 5명에 대한 항소를 포기한 것에 대해 “중앙지검의 의견을 설득했지만 관철하지 못했다”며 “대검의 지시를 수용하지만, 중앙지검의 의견이 다르다는 점을 분명히 하고 이번 상황에 책임을 지기 위해 사의를 표명했다”고 밝혔다. &lt;br&gt;&lt;br&gt;정 지검장은 18일 부장급 이상 검사들과 비공개 퇴임식을 가졌다. 별도 퇴임식은 열리지 않는다. 정 지검장은 이 자리에서 “마지막을 논란 속에 끝내게 되어 안타깝다. 어려운 과제가 산적한 때에 후배들에게 이렇게 끝내고 가서 미안하다”고 말한 것으로 전해졌다. 다만 대장동 사건 항소 포기 결정 과정이나 검찰청 폐지 등에 대한 발언은 하지 않은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 론스타 ISDS 취소 결정에서 한국 정부 승소... “기존 판정 배상액과 이자 모두 취소”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/18/YEBX4IRJBRDSBA2GBYG5VCQRVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/YEBX4IRJBRDSBA2GBYG5VCQRVE/</guid>
@@ -818,15 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NC5QUJKZCZE2XL6GQ5K7HAZ4HI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;에어프라이어로 밤을 구울 땐 겉면에 식용유를 발라 보자. 기름이 밤이 터지는 걸 막아준다. 밤 빛깔도 좋아진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 11월 18일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/17/V7NLHYV5RRGONNNLIXME3JYB4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/17/V7NLHYV5RRGONNNLIXME3JYB4I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 14:31:00 +0000</pubDate>
-      <content:encoded>전날보다 기온 5~10도 떨어지며 초겨울 추위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5HETBLNUVA2DNISHXAUZYK6ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘채 상병 수사 방해’ 의혹 前 공수처 부장검사들 구속 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/11/17/HLL3IXWKINGC5J2RTNUTHE3T4M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/HLL3IXWKINGC5J2RTNUTHE3T4M/</guid>
@@ -863,15 +908,6 @@
       <content:encoded>조은석 내란 특검팀이 윤재순 전 대통령실 총무비서관의 대통령실 인사 개입 정황을 포착하고 17일 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRQTEYZWGY4TIMZYGQ3GCY3BMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤재순 전 대통령비서실 총무비서관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 직권남용 혐의로 윤 전 비서관의 주거지 등을 압수 수색했다. 특검은 내란 수사를 진행하는 과정에서, 윤 전 비서관이 대통령실 인사 절차에 개입한 정황을 확인해 피의자로 입건한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 해당 인사 개입이 12·3 비상계엄 이전에 발생한 사안이지만, 내란 특검법상 수사 대상과 관련성이 있다고 판단해 수사에 나선 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이와 별개로 윤 전 비서관은 대통령실 PC를 초기화하는 등 증거인멸 혐의도 받고 있다. 그는 윤석열 전 대통령 탄핵 직후 열린 수석 비서관 회의에서, 대통령실 내 PC 전체를 초기화하는 계획안을 보고한 것으로 알려졌다. 이 혐의와 관련해서는 정진석 전 대통령실 비서실장도 고발된 상태다. &lt;br&gt;&lt;br&gt;특검은 이날 확보한 압수물을 분석한 뒤 조만간 윤 전 비서관을 소환해 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>천안 이랜드패션 물류센터 화재....60시간 만에 모두 꺼졌다</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/17/EK5W6SGQFVHNNDZFZARNGJGBWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/17/EK5W6SGQFVHNNDZFZARNGJGBWA/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 10:06:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2TIODFME3TKYZTGQ4WGMBRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이랜드패션 물류센터 화재 사흘 째인 17일 충남 천안 동남구 화재현장에서 소방당국이 굴절·고가 사다리차를 이용해 잔불 진화를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 천안 이랜드패션 물류센터에 난 불이 60시간 만에 꺼졌다.&lt;br&gt;&lt;br&gt;17일 충남소방본부는 이날 오후 6시 11분쯤 화재를 완전히 진화했다고 밝혔다. 이번 화재는 지난 15일 오전 6시 8분쯤 천안시 동남구 풍세면 이랜드패션 물류센터 건물 지상 4층에서 시작됐다. &lt;br&gt;&lt;br&gt;50분 만에 ‘대응 2단계’ 경보까지 발령해 화재 진압에 총력을 다했던 소방 당국은 9시간 30여 분 만인 당일 오후 3시 31분쯤 큰불길을 잡았다. 다행히 화재 이튿날인 지난 16일 오전 9시 11분쯤 대응 1단계까지 모두 해제됐으나, 사흘째 잔불 작업이 이어졌다.&lt;br&gt;&lt;br&gt;소방 관계자는 “쌓여 있는 적재물이 워낙 많아 진화에 애를 먹었는데 다행히 불이 더 확산하지 않고 완전히 끌 수 있었다”고 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>시화쓰레기 매립지가 정원으로…45만㎡ ‘새로숲’ 착공</title>
       <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/17/QGK7LZWHWRGYXGMBEHHDXCZ3ZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/17/QGK7LZWHWRGYXGMBEHHDXCZ3ZQ/</guid>
@@ -879,24 +915,6 @@
       <description/>
       <pubDate>Mon, 17 Nov 2025 09:16:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDAZLGMNSTSOBSGQ2GGNZQGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기지방정원 ‘새로숲’ 조감도. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안산시에 있는 옛 시화쓰레기 매립지가 오는 2027년 축구장 63개 규모의 대형 정원으로 탈바꿈한다.&lt;br&gt;&lt;br&gt;경기도는 17일 안산시 상록구 본오동에서 ‘경기지방정원 새로숲 조성공사’ 착공식을 했다고 밝혔다. 새로숲은 경기도가 붙인 이 정원의 이름이다. ‘새로운 숲’, ‘다시 태어나는 자연’이라는 뜻으로, 과거 쓰레기와 오염의 공간이었던 안산시화 매립지를 생태문화의 거점으로 바꾼다는 메시지를 담았다고 한다.&lt;br&gt;&lt;br&gt;새로숲이 들어서는 부지는 1987년부터 1992년까지 경기 지역 8개 시군의 생활쓰레기를 매립하던 곳이었다. 1994년 매립 종료 이후 2016년 사후관리까지 마무리된 이후 빈 땅으로 남았다. 경기도는 이곳에 989억원을 투입해 대규모 정원을 조성하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TGNZUGM3TMZLFGY3TSNJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기지방정원 ‘새로숲’ 착공식. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정원을 만든다는 계획은 2016년에 처음 발표했지만, 각종 행정절차 등이 이어지면서 9년 만인 올해 첫 삽을 뜨게 됐다. 45만㎡ 부지에 정원을 조성하게 되는데, 내년 4월엔 정원 18만㎡와 바로 옆 안산갈대습지 40만㎡를 연계해 먼저 1단계 개방을 하기로 했다. 나머지 구역의 정원 시설 및 센터 건축을 완료해 2027년 전체 개원한다는 계획이다.&lt;br&gt;&lt;br&gt;주요 시설로는 정원 지원 센터, 방문자 센터 등이 있고, 교육·체험·휴식이 가능한 복합 정원으로 맞이 정원, 감상 정원, 휴식 정원, 기후 정원, 참여 정원 등을 조성하기로 했다.&lt;br&gt;&lt;br&gt;조성 과정에는 지역 농장과 정원 전문가, 시민 정원사 등 다양한 주체들도 참여하게 된다고 경기도는 설명했다.&lt;br&gt;&lt;br&gt;경기도 관계자는 “정원 조성과 함께 안산갈대습지, 화성비봉습지 등 인근 생태 자원과 연계해 정원-습지-수변을 연결하는 복합 생태 벨트를 구축할 예정”이라며 “정원을 중심으로 한 교육 프로그램, 생태 투어, 정원 산업 박람회 등을 연계해 장기적으로는 정원 문화의 거점이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘에어쇼 잠입’ 美전투기 무단 촬영한 대만인들, 2심서 징역형 집유</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/17/MOZU2FAHWFF43EYKNTUBEYGKTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/MOZU2FAHWFF43EYKNTUBEYGKTU/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 08:41:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OM4X5RP6CRODVEEE2QEAGLJK3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 11일 경기도 평택시 주한미공군 오산기지에서 열린 '오산 에어 파워 데이 2025'에서 A-10 공격기가 시범비행을 마치고 착륙하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한 미군 공군기지 안에서 열린 에어쇼 행사장에서 기지 내부 시설과 전투기 등을 촬영한 혐의를 받는 대만인들이 항소심에서 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 형사항소7부(재판장 김병수)는 17일 60대 A씨와 40대 B씨 등 대만인 2명에 대한 군사기지 및 군사시설보호법 위반 등 혐의 사건 항소심 선고 공판을 열었다. 이날 재판부는 이들에게 각각 징역 1년 6개월에 집행유예 3년을 선고한 1심 판결을 유지했다. 재판부는 “원심 형이 지나치게 가벼워서 부당하다고 보이지 않는다”고 사유를 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 5월 10일 오전 10시쯤 경기 평택에 있는 주한 미군 오산공군기지(K-55)에서 열린 ‘2025 오산 에어쇼’ 현장에서 미군 장비와 시설을 무단 촬영한 혐의를 받는다. 행사 당일 미군 측은 중국과 대만 국적자에 대해 출입을 엄격하게 제한했는데, A씨 등은 한국인들과 뒤섞여 행사장에 몰래 입장한 뒤 전투기 등을 촬영한 것으로 조사됐다. 미군은 이미 이들을 세 차례나 출입 제지했지만, 보안망을 뚫고 들어온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 “사진을 수상하게 찍는 사람들이 있다”는 신고를 받고 출동한 경찰에 체포됐다. A씨 등은 관광 비자를 이용해 입국했으며, 행사가 끝나고 출국할 예정이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수사 당국이 이들의 카메라를 분석한 결과, 수백여 장의 사진이 발견됐는데, 이 중 군사기지 및 군사시설 보호법 위반 혐의를 적용할 수 있는 사진은 약 10여 장이었던 것으로 파악됐다. 사진이 외부에 유출되지는 않은 것으로 파악됐다. 이들은 “올해 퇴역하는 미 전투기 A-10에 대한 궁금증으로 사진을 찍으러 온 것”이라는 취지로 진술한 것으로 전해졌다. A-10은 이른바 ‘탱크 킬러’로 불리는 전투기로, 오산 공군기지에 배치돼 있다.&lt;br&gt;&lt;br&gt;이날 재판부는 “피고인들은 군사시설에 들어갈 수 없고 군사시설에 대한 사진을 촬영해서는 안 된다는 사실을 사전에 알았던 것으로 보인다”며 “한 번 군사시설에 진입하려다 실패했음에도 군사시설에 들어갔을 뿐만 아니라 수많은 사진까지 촬영해 그에 합당한 처벌은 필요하다고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;다만 “피고인들은 취미 생활이나 관심의 대상을 촬영하기 위해 그곳에 들어갔다고 주장하고 있고 다른 불순한 목적을 가지고 있다고 볼 만한 자료는 발견되지 않았다”며 “체포 과정에서 찍었던 사진들이 모두 압수돼 유출되지 않은 것으로 보이고, 구금 기간 범행에 대해 반성할 충분한 기회가 있던 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘검사장 평검사 전보 논란’ 박재억 수원지검장 사의 표명</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/17/FV7IFH7WVZBT7L3V6TS4XUEAUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/FV7IFH7WVZBT7L3V6TS4XUEAUA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 07:52:58 +0000</pubDate>
-      <content:encoded>검찰의 ‘대장동 사건’ 항소 포기와 관련해 집단 성명을 냈던 박재억 수원지검장이 17일 사의를 표명했다. 정부가 성명을 낸 검사장들을 평검사로 이동시키는 인사를 검토 중인 사실이 알려지자, 박 지검장이 스스로 거취를 정한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVWUVZFYQROYBG37O7KDBQTFJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박재억 수원지방검찰청 검사장이 지난달 23일 오전 서울 여의도 국회 법제사법위원회에서 열린 서울고등검찰청-서울중앙지방검찰청 등에 대한 국정감사에서 질의에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재에 따르면, 박 검사장은 이날 대검찰청과 법무부에 사의를 표명했다. 박 검사장은 심사숙고끝에 사의를 표명한 것으로 전해졌다. 법무부나 대검찰청에서 거취 표명과 관련한 연락을 받지는 않았다고 한다. 박 검사장은 이날 사직하겠다는 뜻을 밝히면서 “검찰 조직이 혼란에서 벗어나 빨리 안정을 찾으면 좋겠다”는 입장을 직간접적으로 나타낸 것으로 전해졌다.&lt;br&gt;&lt;br&gt;박 검사장은 지난 10일 검사장 18명과 함께 검찰 내부망에 '검찰총장 권한대행께 추가 설명을 요청드립니다’라는 제목의 글을 올렸다. 이들은 “노만석 전 검찰총장 직무대행이 밝힌 입장은 항소 포기의 구체적 경위와 법리적 이유가 전혀 포함돼 있지 않아 납득이 되지 않는다”며 “일선 검찰청의 공소 유지 업무를 책임지고 있는 검사장들은 검찰총장 직무대행께 항소 포기 지시에 이른 경위와 법리적 근거에 대한 상세한 설명을 다시 한번 요청한다”고 밝혔다.&lt;br&gt;&lt;br&gt;정부는 이 같은 검사장들의 집단 행동을 문제 삼아, 이들을 평검사로 전보하는 방안을 유력하게 검토하고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이날 박 검사장이 사의를 표명하면서 수원지검에서 출범할 예정이었던 마약범죄전담 합동수사본부(합수본)의 출범도 연기될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 운세]  11월 18일 화요일 (음력 9월 29일 辛卯)</title>
@@ -921,15 +939,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>공공소각장 한 곳도 못 짓고...‘수도권 쓰레기 직매립 금지’ 유예 없이 시행</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/17/L7QX6BJKOBFTFHRKHHLL3TIZZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/17/L7QX6BJKOBFTFHRKHHLL3TIZZA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 07:20:21 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYTEMTEGIZGIZTCGMZDENRXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 5월 인천 서구 검암동 인근 수도권매립지 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 수도권(서울·경기·인천) 지역에서 발생한 쓰레기를 한 번 태운 후 묻어야 하는 ‘직매립 금지’ 제도가 유예 없이 그대로 시행된다. 그러나 이 제도를 설계했을 때 기대했던 공공소각장 증설은 한 곳도 이뤄지지 않아, 일부 기초지자체는 쓰레기 처리에 문제가 생길 것으로 보인다.&lt;br&gt;&lt;br&gt;17일 기후에너지환경부 및 수도권 지자체로 구성된 4자 협의체는 정부서울청사에서 실무협의를 열고 수도권 생활폐기물 직매립 금지 제도를 내년 1월 1일부터 시행하기 위한 세부 기준을 마련하기로 했다.&lt;br&gt;&lt;br&gt;직매립 금지 제도는 종량제 봉투에 버리는 생활폐기물을 인천 수도권매립지에 그대로 묻지 않고, 한 번 태운 후 소각재만 묻도록 한 것이다. 2021년 환경부(현 기후부)가 시행규칙 개정을 통해 수도권은 2026년부터, 비수도권은 2030년부터 이 제도를 적용하기로 했다. &lt;br&gt;&lt;br&gt;당초 이 제도는 매립지 낭비를 줄이기 위해 추진됐다. 다만 쓰레기를 일단 태워야 하기 때문에, 수도권 지자체별로 공공소각장을 마련하는 것이 제도 시행의 ‘전제’였다. 그러나 기피 시설인 소각장을 짓는 데 각 지자체가 어려움을 겪으면서, 공공소각장 증설 없이 기초지자체들이 쓰레기를 태울 소각장을 찾아야 하는 상황이 됐다.&lt;br&gt;&lt;br&gt;서울시는 기존 마포소각장이 있는 상암동에 신규 마포소각장을 짓고, 이전 시설은 해체하는 방안을 2022년 10월에 발표했다가 행정소송에 걸려 추진이 멈춘 상황이다. 인천은 서구에 있던 청라광역소각장이 노후화 돼 수도권매립지 등에 새 소각장을 추진하고 있다.&lt;br&gt;&lt;br&gt;정부 관계자는 “시행 과정에서 수거 지연이나 적체가 발생하지 않도록 수도권 각 시·군의 대비 상황을 확인했고, 올해 안에 예외 적용 기준을 마련할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“또 과속 단속 과태료”… 도로 위 단속 카메라 뜯어낸 60대 벌금형</title>
       <link>https://www.chosun.com/national/regional/2025/11/17/3N4FWYZJB5BSXGDICOCX44BNAM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/17/3N4FWYZJB5BSXGDICOCX44BNAM/</guid>
@@ -946,15 +955,6 @@
       <description/>
       <pubDate>Mon, 17 Nov 2025 05:09:08 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N4VDPGYXYJPIHJMK7RRYEYOEPI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;17일 경기도 광명시의 한 거리에서 두꺼운 옷차림의 시민들이 뜨개옷 입은 가로수길을 걷고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초겨울 추위가 한반도를 강타하며 18일 전역에 한파(寒波)가 예고됐다. 올가을 들어 기온이 가장 크게 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;17일 기상청에 따르면, 중국 북부지방에서 확장하는 대륙고기압의 영향으로 18일 차가운 북풍(北風)이 내려오며 기온이 큰 폭으로 떨어지겠다. 18일 서울의 출근길 기온이 영하 4도까지 떨어지는 등 전국 최저기온은 영하 8도에서 영상 5도, 최고기온은 4~12도 수준에 머물겠다.&lt;br&gt;&lt;br&gt;수은주가 크게 떨어지는 것은 영하 15도 안팎의 한랭건조한 바람이 종일 불어오고, 해가 떨어진 밤사이 지표가 빠르게 차가워지기 때문이다. 이에 18일 전국 대부분 지역에서 전날보다 아침 기온이 5~10도 가량 큰 폭으로 내려가며 영하권에 머물 것으로 보인다.&lt;br&gt;&lt;br&gt;17일 밤 강원과 충북·경북·부산에는 한파주의보가 발효됐다. 한파주의보는 아침 최저기온이 전날보다 10도 이상 떨어져 영상 3도 이하를 보이고, 평년기온 보다 3도 이상 낮을 것으로 예상될 때 내려진다. 충남·전남·전북·제주에는 강풍주의보(순간풍속 시속 72km 이상)가 발효됐다.&lt;br&gt;&lt;br&gt;우리나라는 19일까지 찬 대륙고기압의 영향권에 들 것으로 보인다. 19일에도 최저 영하 6도에서 영상 4도, 최고 5~13도의 기온 분포를 보이겠다. 이후 20일부터는 중국 중부지방에서 동쪽으로 이동하는 고기압의 영향권에 들겠으나, 기온은 최저 영하 5도에서 영상 5도, 최고 8~15도로 여전히 춥겠다.&lt;br&gt;&lt;br&gt;초겨울을 방불케 한 날씨는 21일부터 기온이 소폭 오를 것으로 보이나, 주말인 22~23일에는 다시 기온이 내려갈 것으로 보인다. 늦가을에서 초겨울로 진입한 우리나라는 이달 말까지 최저기온이 영상권을 회복하진 못할 것으로 예상된다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘공수처 수사 방해’ 前 부장검사 2명 구속 심사 출석...이르면 오늘 밤 결정</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/17/VECAUTZ7YZEMZCKXEJ2ZT4LHIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/17/VECAUTZ7YZEMZCKXEJ2ZT4LHIU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 17 Nov 2025 02:27:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RU5ZZE32GZJ6FDFDGMT26J6TNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처의 '해병대원 순직 사건 수사 외압 의혹' 수사를 방해한 혐의를 받는 김선규 전 고위공직자범죄수사처 부장검사가 17일 오전 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고위공직자범죄수사처(공수처)의 ‘순직해병 수사 외압’ 사건 수사를 방해한 혐의를 받는 전직 공수처 부장검사들의 구속 여부가 이르면 17일 밤 결정된다. 남세진 서울중앙지법 영장 전담 부장판사는 이날 김선규 전 공수처 수사1부장검사와 송창진 전 수사2부장검사의 영장 실질 심사를 차례로 진행했다.&lt;br&gt;&lt;br&gt;김 전 부장검사는 작년 1~5월 공수처장 직무대행을, 송 전 부장검사는 공수처 차장 직무대행을 맡아 채 상병 사건 ‘수사 외압’ 의혹 수사를 지연하고 방해한 혐의(직권남용) 등을 받고 있다. 특검은 지난 13일 법원에 두 부장검사의 구속 영장을 청구하면서 “피의자들이 죄를 범했다고 의심할 만하고, 범죄가 중대하며, 증거를 인멸할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;김 전 부장검사는 작년 4월 순직 해병 수사외압 의혹 사건 관계자 소환 조사를 미룬 의혹을 받는다. 특검은 최근 공수처 관계자 참고인 조사에서 “김 전 부장검사가 작년 초 ‘4월 총선 전 채 상병 사건 관련자를 소환하지 말라’고 지시했다” “총선이 끝난 뒤 ‘채 상병 특검법’의 처리가 임박하자 ‘관련자 조사를 서두르라’고 지시했다”는 진술을 받았다.&lt;br&gt;&lt;br&gt;송 전 부장검사는 작년 3월 이종섭 전 국방장관의 주(駐)호주 대사 임명 당시 공수처에 출국금지 해제 지시를 내리고 이후 윤석열 전 대통령 등에 대한 통신영장 청구에 반대했다는 의혹을 받는다. 특검은 최근 공수처 관계자들로부터 “작년 3월 6일 송 전 부장검사가 수사팀에 이 전 장관의 출국 금지 해제를 지시했다”는 취지의 진술을 확보한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;특검이 공수처 수사 방해 의혹에 대해 영장을 청구한 것은 이번이 처음이다. 김 전 부장검사는 이날 영장 심사에 출석하면서 “총선 전 사건 관계자를 소환하지 말라고 지시한 것을 인정하나” “수사 외압을 행사했다는 의혹을 인정하나” 등 취재진 질문에는 답하지 않았다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
