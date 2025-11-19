@@ -13,6 +13,64 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>만취 여성 차에 태워 성추행한 유명 연예기획사 임원</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/19/DWCRYRK7QVHZTIOFPDSC32W5KA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/DWCRYRK7QVHZTIOFPDSC32W5KA/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 14:05:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OW75EDVNDQAPXGFCIOXD52K22M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취한 여성을 차에 태워 성추행하고 길가에 방치해 다치게 한 유명 연예기획사 임원이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 서초경찰서는 50대 연예기획사 임원 고모씨를 준강제추행·과실치상 혐의로 19일 불구속 송치했다고 밝혔다. 고씨는 지난 8월 강남구의 한 도로에서 술에 취한 여성을 차에 태워 성추행하고 길가에 내버려 둔 뒤 떠나 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;당시 여성은 방치된 지 약 1시간 30분 만에 행인 신고로 발견됐다. 이로 인해 뇌출혈과 두개골 골절, 시신경 손상 판정을 받고 결국 왼쪽 눈을 실명한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 앞서 고씨에 대해 두 차례 구속영장을 신청했으나 모두 기각된 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, ‘공흥지구 개발 특혜 의혹’ 金여사 오빠 구속영장 기각... “주된 혐의 소명 안돼”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/19/G6HYWQK7VBE27IBWV3TOMWCECM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/19/G6HYWQK7VBE27IBWV3TOMWCECM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 14:00:00 +0000</pubDate>
+      <content:encoded>이른바 ‘양평 공흥지구 개발 특혜’ 의혹 등 민중기 특별검사팀의 수사 선상에 오른 김건희 여사 오빠 김진우씨의 구속영장이 19일 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 정재욱 영장 전담 부장판사는 이날 오전 특정범죄가중처벌법상 국고손실 등 혐의를 받는 김씨의 구속영장 실질심사를 진행한 뒤 영장을 기각했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4TONTCGZSDANTBGY3GINZTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 오빠 김진우씨가 19일 서울 서울 서초구 서울중앙지법에서 열린 구속영장 실질심사를 마친 뒤 법원을 빠져나가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 부장판사는 “주된 혐의의 경우 의심을 넘어 충분히 소명되었다고 보기 어렵다”며 “나머지 혐의들에 대해선 피의자가 기본적인 사실관계를 인정하거나, 다툴 여지가 있다”고 했다. 또 “제출된 자료만으로는 증거를 인멸하거나 도주할 염려가 있다고 보기 어렵다”고도 했다.&lt;br&gt;&lt;br&gt;특검은 김 여사 일가가 실소유한 것으로 지목된 이에스아이엔디(ESI&amp;amp;D)가 양평 공흥지구 개발 과정에서 특혜를 받았다고 의심한다. 지난 2011~2016년 경기 양평군 공흥지구 일대 아파트 사업의 개발 부담금을 면제받았다는 게 의혹의 핵심이다.&lt;br&gt;&lt;br&gt;김씨에겐 김 여사가 인사 청탁을 대가로 받은 금품을 숨기거나 없앴다는 증거 인멸 혐의도 적용됐다. 특검은 지난 7월 압수 수색 당시 김씨의 장모 집에서 김상민(구속) 전 검사가 구입한 이우환 화백의 그림 ‘점으로부터(From Point) No.800298′가 발견된 전후 경위를 수사해 왔는데, 김 여사가 수수한 금품들을 김씨 집에 맡겨뒀고, 김씨가 특검 수사를 앞두고 이를 장모 집으로 옮겼을 가능성이 있다고 보고 있다.&lt;br&gt;&lt;br&gt;최씨가 운영하는 경기 양평군 소재 요양원과 김씨 사무실 등에서 이배용 전 국가교육위원장이 건넨 당선 축하 카드, 현직 경찰 간부 명단 등이 사라진 정황을 포착한 특검은 김 여사 일가가 증거를 일부러 인멸했다고 본다.&lt;br&gt;&lt;br&gt;김씨는 증거인멸 의혹에 대해 이 전 위원장이 건넨 카드는 자신이 찢었다고 진술한 것으로 알려졌다. 김씨는 “카드가 중요한 것인지 몰랐다”는 취지로 답했다고 한다. 경찰 간부 명단은 “문제가 될 것으로 보여 없앴다”는 취지로 말한 것으로 전해졌다. 최후진술에선 “김 여사, 윤석열 전 대통령과 저의 관계 때문에 편견을 갖지 말고 사안을 정확히 판단해 달라”며 약 5분간 발언한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>공공기관 여성 탈의실에 몰카… 40대 직원 붙잡혀</title>
+      <link>https://www.chosun.com/national/regional/2025/11/19/XAXW66MVQNDVNDZYFH5GU6BUTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/19/XAXW66MVQNDVNDZYFH5GU6BUTY/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description>공공기관 여성 탈의실에 몰래카메라를 설치한 40대가 경찰에 붙잡혔다.
+대구 동부경찰서는 성폭력 범죄의 처벌 등에 관한 특례법 위반 혐의로 40대 A씨를 불구속 입건했다고 19일 밝혔다.</description>
+      <pubDate>Wed, 19 Nov 2025 13:51:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공공기관 여성 탈의실에 몰래카메라를 설치한 40대가 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;대구 동부경찰서는 성폭력 범죄의 처벌 등에 관한 특례법 위반 혐의로 40대 A씨를 불구속 입건했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 자신이 근무하는 대구 지역의 한 공공기관 여성 탈의실 세면대에 볼펜형 몰래카메라를 설치한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;카메라엔 피해자 탈의실을 오가는 여성 직원 3명의 모습이 촬영된 것으로 조사됐다. 경찰은 현장 방범카메라(CCTV) 분석 등을 통해 A씨가 몰래카메라를 설치한 사실을 확인하고 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “호기심에 범행을 저질렀다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 구속영장을 신청했으나, 법원은 “범행을 인정하고 있다”는 등의 이유로 이를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 전남 신안 해상서 267명 탄 여객선 좌초</title>
+      <link>https://www.chosun.com/national/incident/2025/11/19/QBPO3463BZEQTCWQZ32OTW3CZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/19/QBPO3463BZEQTCWQZ32OTW3CZA/</guid>
+      <dc:creator>조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 12:03:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGKN3CMRSTSNJUHE3WGYZTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 8시 16분쯤 전남 신안군 장산면 족도에 260여명이 탑승한 여객선이 좌초돼 해경이 구조 작업을 벌이고 있다./목포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오후 8시 17분쯤 전남 신안군 장산도 남쪽 족도 해상에서 2만6546t급 여객선 ‘퀸제누비아2호’가 좌초됐다. 이 여객선에는 승객 246명과 선원 21명 등 267명이 타고 있었다.&lt;br&gt;&lt;br&gt;제주에서 전남 목포로 이동하던 이 여객선은 무인도인 족도 바위에 좌초됐다고 한다. 배 앞쪽이 족도 암초에 올라타 있는 상황이다. 왼쪽으로 15도 정도 기울어져 있으며, 물이 차거나 화재 징후는 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D22FS6MLKRL45JBBEYZP4QCKEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 19일 오후 전남 신안군 장산면 족도에서 승객 260여명을 태운 여객선이 좌초했다. /목포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경은 이날 오후 8시 44분 경비정 6척을 보내 구조 작업을 진행하고 있다. 해경 대원들은 이날 오후 8시 54분 여객선에 승선했으며, 승객들을 경비정에 태우고 목포 삼학부두로 이동하고 있다. 부상자 유무도 파악 중이다.&lt;br&gt;&lt;br&gt;해경 관계자는 “현재 침수 상태는 없는 것으로 확인했다”며 “경비정에 승객들을 태워 안전한 곳으로 이동하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OD2ZDN7DBJCZZI7IXF3BTCIRBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;승객 240여명을 태우고 전남 신안군 바다에서 좌초된 여객선이 해경에 의해 구조중이다/ 목포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;퀸제누비아2호는 최대 여객 정원 1010명, 적재용량 3552t 규모로 2021년 12월 10일 취역했다.최대 여객 정원은 1010명, 적재용량은 3552톤이다. 해경은 만조 때 배를 육지로 옮길 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VKJ2KNERPJBAVEMXLNQFFTOGYU.gif?auth=d3ab7ecfa763693bc2bb1d44d8f3cea06a8c3c3bc6618097765b8450bde69ceb&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">260여명을 태우고 전남 신안군 바다에서 좌초된 여객선이 해경에 의해 구조되고 있다.</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“또 지각하면 시말서... 못 살겠다” 전장연 시위 지하철 탄 시민의 울분</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/19/L5CJ6HMNBVEYHHBR2SNW6LNYRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/L5CJ6HMNBVEYHHBR2SNW6LNYRU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 12:56:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WTKNWXECURH6TPOZFPAFRN7LOE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 시민이 시위대를 향해 불만을 표출하는 모습이 담긴 영상. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 전국장애인차별철폐연대(전장연)의 지하철 탑승 시위로 출근길 혼란이 빚어진 가운데, 온라인에선 해당 지하철에 탄 한 시민이 “또 지각하면 시말서”라며 시위대를 향해 분노를 표출하는 영상이 확산했다. &lt;br&gt;&lt;br&gt;19일 인스타그램 등 소셜미디어에는 전날 전장연 시위로 열차 운행이 지연되면서 시민들의 불만이 하나둘 터져 나오는 모습이 담긴 영상이 퍼졌다. &lt;br&gt;&lt;br&gt;이를 보면, 한 남성 시민은 급기야 “지난주부터 뭔 짓이냐. 아, 진짜 못 살겠네”라며 고성을 질렀다. 이어 “오세훈(서울시장)한테 뭐라고 해라. 국회에서 통과가 안 된 걸 왜 여기 와서 이러냐”며 욕설과 함께 시위대를 향해 “열차에서 내리라”고 소리쳤다. 그러면서 “우리도 9시 출근해야 된다고. 9시에 시말서 쓰는 거 얼마나 짜증 나는지 아냐. 해명 다 해야 한다. 국회 가서 (시위) 하라”고 했다. 이 과정에서 다른 시민들은 “경찰 뭐 하냐. 빨리 내리게 하라” “이러면 아무도 지지 안 한다” 등 거들었다. &lt;br&gt;&lt;br&gt;한 영상은 하루 만에 조회 수가 110만회를 넘을 정도로 이목을 끌었다. 댓글도 약 770개 달렸다. 네티즌들은 “맨날 시위 때문에 회사에 지각할 것 같다고 말씀드리는 게 참 힘들다” “출퇴근 시간 외에는 시위하면 안 되는 건가” “시위하시는 분들도 힘들겠지만, 조치를 취해줬으면 하는 바람” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;한편 전날 전동 휠체어를 탄 40명 등 총 70여 명의 전장연 활동가는 “예산 없이 권리 없다” 등 구호를 외치며 내년도 장애인 권리 예산을 보장하라고 촉구했다.&lt;br&gt;&lt;br&gt;이 시위로 출근길 서울 일부 지하철이 운행을 중단하는 등 혼란이 빚어졌다. 서울교통공사에 따르면, 이날 오전 8시 33분부터 지하철 5호선 광화문역 상행선이, 8시 50분부터는 같은 역 하행선 열차가 전장연 시위로 무정차 통과 조치됐다. 4호선 길음역과 동대문역에서도 열차가 각각 25분간 무정차 통과하고 1시간 가까이 지연됐다. 올해 전장연 탑승 시위로 열차 무정차 조치가 이뤄진 건 이번이 일곱 번째다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>청와대 폭탄 테러 협박한 30대 구속… 공중협박죄 적용</title>
+      <link>https://www.chosun.com/national/regional/2025/11/19/MM6YNTXB2BAOXAB5RF7KGGP4QE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/19/MM6YNTXB2BAOXAB5RF7KGGP4QE/</guid>
+      <dc:creator>정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 10:26:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청와대에 폭탄테러를 하겠다고 협박 전화를 한 30대가 경찰에 구속됐다.&lt;br&gt;&lt;br&gt;전북경찰청은 공중협박 혐의로 30대 A씨를 구속해 조사 중이라고 19일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 15일 전북 익산의 한 군부대에 전화를 걸어 “청와대에 폭탄 테러를 하겠다”고 협박한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 경찰 조사에서 “국정원으로부터 감시당하고 있는데 경찰이 대응하지 않아 그런 전화를 했다”고 진술한 것으로 알려졌다. A씨는 무직인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;정부는 공연장 등 다중운집 장소나 특정 시설을 겨냥한 폭탄테러 협박이 잇따르자 지난 3월 형법에 ‘공중협박죄’를 신설했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 범행을 반성하지 않는 등의 이유로 구속영장을 신청했다”면서 “공중협박 범죄에 대해선 무관용 원칙으로 엄정 대응해 나갈 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>한국과 러시아 詩로 하나된 무대 </title>
       <link>https://www.chosun.com/national/people/2025/11/19/PQAKRJQLLBG7FKUOBLZR7VPO7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/19/PQAKRJQLLBG7FKUOBLZR7VPO7E/</guid>
@@ -892,15 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TY4FMUIEJVKDBAQEVHGYNABM7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 울산 남구 용잠동 한국동서발전 울산화력발전소 대형 구조물 붕괴현장에서 경찰, 국과수, 고용노동부, 산업안전보건공단이 합동 현장감식을 진행하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사상자 9명이 발생한 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고의 원인을 밝히기 위한 경찰 수사가 본격화됐다.&lt;br&gt;&lt;br&gt;울산경찰청 전담수사팀은 18일 경기남부경찰청 중대재해전담 과학수사팀, 국립과학수사연구원, 고용노동부, 산업안전보건공단 관계자 등 20여명과 함께 이날 오후 2시부터 3시간 동안 사고 현장에서 합동 감식을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;하태헌 울산경찰청 과학수사계장은 감식 후 현장 브리핑에서 “외부로 노출된 철골 기둥 중 취약화 작업이 이뤄진 부분을 중점적으로 확인했다”고 말했다.&lt;br&gt;&lt;br&gt;취약화 작업은 대형 구조물이 철거 때 쉽게 무너질 수 있도록 기둥과 철골 구조물 등을 미리 잘라놓는 것이다.&lt;br&gt;&lt;br&gt;감식팀에 따르면 사고가 난 보일러 타워 5호기를 받치고 있던 기둥 4개 중 1개만 일부가 노출된 상태였다. 감식팀은 중장비를 동원해 반쯤 매몰돼 있던 이 기둥을 들어낸 뒤 사전 취약화 작업 흔적을 집중적으로 살폈다.&lt;br&gt;&lt;br&gt;하 계장은 “현장 CCTV를 통해 확인한 붕괴가 시작된 기둥은 매몰된 상태라 외부로 노출된 다른 기둥에서 여러 군데 사각과 마름모로 잘려진 흔적을 확인했다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 취약화가 이미 끝났지만 붕괴하지 않은 보일러 타워 4호기와 붕괴한 5호기의 차이점도 들여다볼 계획이다. 경찰은 지난 11일 4, 6호기 발파에 앞서 4호기 타워 상태를 영상과 사진으로 기록해 남겨둔 상태다.&lt;br&gt;&lt;br&gt;또 작업지시서 역할을 하는 ‘구조검토서’ 자료도 확보해 실제 작업이 지시대로 이뤄졌는지도 조사할 계획이다. 하 계장은 “예로 10cm만 구멍을 뚫도록 돼 있는데 실제로는 20cm로 뚫리진 않았는지, 철판의 종류를 균일하게 사용했는지 등 모든 요소를 꼼꼼히 확인할 예정”이라며 “다만 붕괴 충격으로 철판과 철골이 심하게 찌그러져 있어 정확한 치수 측정이 쉽지는 않은 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;감식 시 추가 붕괴 우려에 대해선 “접근이 위험한 구간은 제외하고 상대적으로 안전한 부분에서만 감식했다”고 전했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 추가 감식에 필요한 철거작업은 약 1달간 소요될 전망이다.&lt;br&gt;&lt;br&gt;압수수색 등 강제 수사도 조만간 이어질 것으로 보인다. 사고 당시 현장 안전책임자와 작업 지시자 등 핵심 관계자 중 일부는 매몰자 수색 작업이 완료되면서 참고인 자격으로 소환돼 조사를 받았으며 추가 소환 조사도 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 합동 감식 결과, 관련자 진술, 공사 관련 서류 등을 종합해 사고 원인과 법 위반 여부를 확인할 방침이다.&lt;br&gt;&lt;br&gt;이번 해체 공사의 발주처인 동서발전, 시공사인 HJ중공업, 하도급업체인 코리아카코 등 공사 관련 모든 당사자를 대상으로 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;지난 6일 오후 2시 2분쯤 울산화력발전소에서는 보일러 타워 5호기가 무너져 9명이 매몰됐다. 2명은 살아서 구조됐으나 7명은 숨졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘무면허’ 운전 중 단속되자 경찰관 치고 줄행랑 40대 구속</title>
-      <link>https://www.chosun.com/national/2025/11/18/WW4QHIPKSZBWHEOLY6MKADW7OY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/18/WW4QHIPKSZBWHEOLY6MKADW7OY/</guid>
-      <dc:creator>김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 10:09:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23RX3AK2AEBRUUPMIYIY4DXKTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산남부경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태로 운전하다 교통 단속에 적발되자 현장에서 도주하며 경찰관을 다치게 한 40대 남성이 구속 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산 남부경찰서는 특수공무집행방해치상 및 도로교통법 위반(무면허) 혐의로 40대 남성 A씨를 구속 송치했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 31일 오후 4시 23분쯤 부산 수영구 남천동 한 도로에서 안전벨트를 매지 않고 운전하던 중 경찰의 정차 지시를 받자, 그대로 도주한 혐의를 받는다. 이 과정에서 당시 경찰관을 넘어뜨려 전치 2주의 상처를 입힌 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;도주한 A씨는 지인들의 도움으로 도피 생활을 이어갔다. 하지만 지인을 상대로 수사가 시작되는 등 경찰 추적이 이어지자 11월 4일 경찰에 자진 출석했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 앞서 음주운전으로 적발돼 집행유예 기간 중 무면허 상태에서 범행을 저지른 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 도주 기간 A씨를 차량에 태워 이동시켜 주거나 은신처를 마련해 준 지인 3명에 대해서도 범인도피·은닉 혐의로 검찰에 불구속 송치했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“尹, 체포영장 집행 전 ‘지지율 올라가니 설 명절까지만 버티라’ 해”... 경호처 간부 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/11/18/PYYTDX4OKVC6PJIHJJ7FUA4YUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/PYYTDX4OKVC6PJIHJJ7FUA4YUI/</guid>
@@ -910,33 +959,6 @@
       <content:encoded>윤석열 전 대통령이 지난 1월 고위공직자범죄수사처(공수처)의 2차 체포영장 집행을 앞두고 관저에 있던 대통령경호처 직원들에게 “나에 대한 지지율이 조금씩 올라가고 있기 때문에 설 명절까지만 잘 버틴다면 전부 해결될 것”이라는 취지로 말했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PANCRRECUNJXXMGQT5SF6VJ47Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처(공수처)가 지난 1월 3일 윤석열 당시 대통령 체포영장 집행을 시도하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지법 형사35부(재판장 백대현) 심리로 열린 윤 전 대통령의 특수공무집행방해 등 혐의 사건 재판에선 경호처 간부 김씨의 특검 진술조서 내용이 공개됐다. 이 조서에는 설 명절까지만 버티라는 취지의 발언을 비롯해, “체포영장은 불법 영장이기 때문에 경호처 직원들이 영장 집행을 막더라도 형사처벌을 받지 않는다”는 취지의 발언이 담겨 있다. &lt;br&gt;&lt;br&gt;앞서 지난 1월 3일 공수처의 첫 체포 시도가 무위에 그친 뒤, 같은 달 11일 경호처 직원들을 독려하기 위해 가진 오찬에서 윤 전 대통령이 이런 말을 했다는 게 김씨 설명이다.&lt;br&gt;&lt;br&gt;김씨는 같은 날 열린 경호처 간부 회의에서 “직원들이 (공수처의 체포 영장을 막는 것에 대해) 부정적으로 반감을 표했고 ‘차장님(김성훈) 자리를 내려놔라’ 했다. 격한 회의였다”고 증언했다. 경호처 직원들이 김 전 차장을 믿을 수 없다며 자리를 내려놓고 조직을 위해 결단을 내려야 하지 않느냐고 하는 상황이었다는 것이다.&lt;br&gt;&lt;br&gt;특검팀이 “윤 전 대통령이 (공수처가) ‘밀고 들어오면 아작난다고 느끼게 위력순찰을 해라’고 지시한 것을 들었느냐”고 묻자, 김씨는 “‘아작난다’는 표현은 정확히 (기억이 안 난다)”며 “여하튼 그런 취지로 말씀하셨다”고 답했다. 그는 “(공수처가) 들어오면 위협사격을 하라는 말을 들었느냐”고 묻는 말에는 “위협사격이 필요하지 않겠느냐는 취지로 이야기했다”고 했다.&lt;br&gt;&lt;br&gt;한편, 김씨는 공수처의 1차 체포 시도 이후 윤 전 대통령의 변호인이 경호처 직원들에게 “공수처가 발부받은 영장은 위법하다, 변호인을 선임해 주고 무료 변론해 주겠다. 관저로 들어오면 현행범으로 체포할 수 있다”는 얘기를 들은 적이 있다고도 증언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>추워지니 고개드는 로타바이러스... “영유아 위생 주의해야”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/11/18/EXNFQNLXB5FSZHYJMCBRRAAPOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/18/EXNFQNLXB5FSZHYJMCBRRAAPOY/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 09:18:12 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQAHB36ZUFG4ZGUYO7CN7BGJOE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 주로 발생하는&lt;b&gt; &lt;/b&gt;감염증인 로타바이러스와 노로바이러스의 환자가 최근 늘어나고 있다.&lt;br&gt;&lt;br&gt;18일 질병관리청에 따르면, 11월 첫째 주 발생한 그룹A형 로타바이러스 환자는 모두 54명으로 24명에 그쳤던 2주 전과 비교해 2배 가까이 늘었다. 이번에 관찰된 환자 수는 지난해 같은 기간의 34명보다도 58.8% 많은 수준이다. 노로바이러스는 11월 첫째 주 환자가 69명으로 2주 전(49명)보다 오름세를 보였다. 전년 동기(45명) 대비 53.3% 늘었다.&lt;br&gt;&lt;br&gt;로타와 노로는 모두 11~3월 추운 날씨에 주로 유행한다. 바이러스 감염에 따라 위장에 장염이 발생하는 감염병으로, 구토와 심한 설사가 동반되는 것이 공통점이다. 노로는 짧은(12~48시간) 잠복기를 거치고 발생한다는 점이 특징이며, 로타는 24~72시간의 잠복기를 거쳐 발생하지만 주로 영유아에게서 발생하고 고열도 동반한다. 둘 모두 항바이러스제가 따로 없어 증상에 맞춰 치료할 수밖에 없다. 대부분 회복되지만 드물게 심한 탈수로 사망할 수 있다.&lt;br&gt;&lt;br&gt;로타는 기저귀나 장난감 등에 묻은 오염물로 전파되기 쉽고, 노로는 오염된 음식·물을 통해 주로 옮겨간다. 이 때문에 로타는 신생아실이나 산후조리원, 어린이집 등에서 영유아들이 한꺼번에 감염되기도 한다. 노로는 겨울철에 주로 먹는 음식, 예컨대 굴 같은 음식이 깨끗하지 못할 경우 감염된다. 이 때문에 이런 감염증을 막기 위해서는 흐르는 물에 비누로 30초 이상 손을 씻고, 음식물을 익혀 먹으며, 환자가 사용한 공간이나 물품을 잘 소독하는 것이 중요하다.&lt;br&gt;&lt;br&gt;겨울철 감염증의 유행 속도 증가는 때 이른 추위가 찾아온 날씨 때문이라는 분석이다. 19일 날씨는 전국 대부분 지역에서 영하권 기온을 기록했던 전날에 이어 추운 날씨가 이어질 전망이다. 전국 대부분 지역에 얼음이 어는 갑작스러운 추위를 가져왔던 날씨는 20일쯤부터 평년 기온을 회복할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>변호사 10명 중 9명 “판결문 공개 범위 확대 찬성”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/18/NPX4ANEJGNHMNAIANNKTRGNJTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/NPX4ANEJGNHMNAIANNKTRGNJTA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 09:41:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TAMJXGU2TKZRVGQ3TGMJZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대한변호사협회 회관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회는 판결문 공개에 관한 법조계 설문조사 결과 전체 응답자 10명 중 9명이 판결문 공개 범위를 확대하는 데 찬성했다고 밝혔다.&lt;br&gt;&lt;br&gt;변협은 18일 서울지방변호사회 개업 회원을 대상으로 지난 9월 8~14일 온라인으로 실시한 ‘판결문 공개에 관한 설문조사’ 결과를 발표했다. 설문조사에 서울회 회원 2096명이 참여했다.&lt;br&gt;&lt;br&gt;조사에 따르면 전체 응답자의 94.2％가 판결문 공개 범위를 현행보다 확대하는 데 찬성했다. 그 이유로 ‘헌법상 재판 공개의 원칙 및 국민의 알 권리 보장’(34.9％), ‘소송 사건 참고를 위해’(30％), ‘공정한 재판에 도움’(24.1％) 등이 꼽혔다.&lt;br&gt;&lt;br&gt;판결문에 소송을 수행한 변호사의 성명과 소속을 공개하는 방안에 대해서도 응답자의 절반 이상인 61.9％가 찬성했다. ‘국민의 알 권리 측면에서 정보 제공의 필요성’(35.8％), ‘사건 수행에서의 책임성 강화’(34.9％) 등 순으로 꼽혔다. 다만 찬성 응답자의 59.5％는 변호사 성명·소속 공개를 원칙으로 하되 변호사의 요청 시 비공개로 할 수 있도록 하는 방식을 선호했다.&lt;br&gt;&lt;br&gt;반대로 변호사 성명·소속 공개에 반대하는 이유로는 ‘특정 사건과 관련해 변호사에 대한 낙인효과가 발생할 우려’(39.2％), ‘변호사 정보를 상업적으로 대량 수집해 판매하는 등 악용될 가능성이 발생할 우려’(32.1％) 등으로 나타났다.&lt;br&gt;&lt;br&gt;변호사와 비(非)변호사 간 판결문 공개 방식·범위를 달리하자는 문항에서는 응답자의 55.9％가 찬성했다. 그 이유로 ‘비변호사의 판결문 수집으로 인한 영리 목적 제재’(36.5％)가 가장 높게 나타났다.&lt;br&gt;&lt;br&gt;공개 방식에 대해서는 ‘변호사에게만 판결문을 공개하고 일반 국민에게는 비공개하는 방안’(37.6％)이 가장 많았고, ‘변호사에게만 수수료를 면제하거나 열람 횟수에 제한을 두지 않는 방안’(34.5％)이 뒤를 이었다.&lt;br&gt;&lt;br&gt;현재 판결문 방문 열람 제도의 적절성과 관련해서는 응답자의 94.8％가 개선이 필요하다고 답했다. 그 방법으로 ‘변호사에 한해 별도 인증제를 도입해 인터넷으로 판결문에 접근할 수 있는 권한이 필요하다는 의견’(40.4%), ‘방문 열람이 가능한 장소를 각급 법원 등으로 확대할 필요가 있다는 의견(27.6%)’이 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>총경 회의 참석 후 좌천된 총경, ‘헌법 존중 TF’ 경찰 조사팀장으로 귀환</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/FKCGZVRYFFBIDBXTL423WACVCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/FKCGZVRYFFBIDBXTL423WACVCU/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 09:18:33 +0000</pubDate>
-      <content:encoded>공무원들의 12·3 비상 계엄 가담 여부를 조사하는 ‘헌법 존중 정부 혁신 TF(태스크포스)’의 경찰 조사팀장에 황정인 총경이 내정된 것으로 확인됐다. 황 총경은 윤석열 정부 당시 경찰국 신설에 반발하는 ‘총경 회의’에 참석한 후 인사상 불이익을 본 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2P6WPNVQ7N3K2PNAO633FWGEFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황정인(오른쪽) 서산경찰서장이 지난 7월 범인 검거에 도움을 준 지역 주민에게 표창장을 수여하고 있다. /서산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 경찰청에 따르면 황 총경은 21일까지 구성될 경찰 조사단의 팀장 발령을 앞두고 있다. 헌법 존중 TF는 49개 부처 공무원의 계엄 가담 여부를 조사하기 위한 조직으로 국무총리실 및 각 부처 산하에 설치된다. 이 중에서도 합동참모본부, 검찰, 경찰, 기획재정부, 외교부 등 12개 기관이 ‘집중 점검 기관’으로 명시됐다. 이에 따라 각 부처당 10여 명 규모의 조사단이 구성될 예정인데, 경찰의 조사단을 황 총경이 이끌게 된 것이다. &lt;br&gt;&lt;br&gt;황 총경은 윤 정부의 경찰국 설치에 반대했다가 인사상 불이익을 겪은 인물이다. 서울경찰청 마약범죄수사대장이던 그는 2022년 7월 열린 총경 회의에 참석한 후 경찰수사연수원 교무계장으로 자리를 옮겼다. 통상 한 계급 아래인 경정급이 맡던 자리였다. 황 총경은 이후 충남경찰청 여성청소년과장을 거쳐 지난 3월 충남 서산경찰서장으로 부임했다.&lt;br&gt;&lt;br&gt;경찰청은 21일까지 황 총경을 필두로 조사팀 구성을 완료하고 경찰 공무원들의 계엄 가담 여부를 조사할 계획이다. 경찰청 관계자는 “감사를 맡는 감찰국과 인사 조치를 담당하는 기획조정국 등으로 조사팀이 구성될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>두 달 만에 인천대교에 다시 나타난 ‘드럼통’ 600개 </title>
       <link>https://www.chosun.com/national/national_general/2025/11/18/6AEMHJ6CEZAVFLCGCGHZEH2Z44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/6AEMHJ6CEZAVFLCGCGHZEH2Z44/</guid>
@@ -944,27 +966,6 @@
       <description/>
       <pubDate>Tue, 18 Nov 2025 08:40:36 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOLDPFTKOJLFBLIKXSD7622GBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천시 중구 인천대교 갓길에 주정차 방지용 드럼통(PE드럼)이 재설치 돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대교에서 최근 투신 사고가 잇따르자 두 달 만에 드럼통이 다시 설치됐다. &lt;br&gt;&lt;br&gt;인천대교 운영사는 주탑 부근 양방향 3㎞(각 1.5㎞) 구간 갓길에 플라스틱 드럼통 600여 개를 지난달 재설치했다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 코로나 시기였던 2022년 사망‧실종 사고가 급증하자 인천대교 측은 주탑 근처 갓길에 드럼통 1500개를 설치했다. 다리 위에 멈춰 서지 못하게 막는 조치였다. 하지만 교통사고 등 긴급 상황에서 차량 주정차를 위한 갓길 확보 필요성이 제기되면서 관계 기관 협의를 거쳐 지난 8월 모두 철거됐다. &lt;br&gt;&lt;br&gt;철거 직후인 올해 9월 사망‧실종 사고가 잇따랐다. 3명이 바다로 추락해 숨지고 1명이 실종됐다. 올 들어 인천대교에서 발생한 사망‧실종 사고 7건 중 4건이 9월에 집중되자 투신 방지 시설물 필요성이 다시 제기됐다. &lt;br&gt;&lt;br&gt;인천대교 운영사 관계자는 “유관 기관과 협의해 임시방편으로 다시 드럼통을 설치했다”며 “사고 위험 시간대에는 주탑 구간에 순찰차를 10분 단위로 정차시키며 예방 활동을 강화했다”고 전했다. &lt;br&gt;&lt;br&gt;국토교통부는 재원을 마련해 근본적인 대책인 추락 방지 시설 안전 난간을 내년까지 설치할 계획이다. 인천대교 주탑 일대 양방향 7~8㎞ 구간에 2.5m 높이로 안전 난간을 설치하는 방안을 검토 중이며 설치 비용은 80억원가량으로 추산됐다. &lt;br&gt;&lt;br&gt;인천대교 주탑의 높이는 해수면 기준 약 80m다. 아파트 20층 높이와 비슷하다. 다리 길이는 21.4㎞다. 인천대교에서는 2009년 개통 이후 현재까지 모두 90명이 투신했으며 이 중 67명이 사망하고 14명이 실종됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>70대 운전자 몰던 승용차 인도로 돌진...30대 母女 중상</title>
-      <link>https://www.chosun.com/national/incident/2025/11/18/LE4UGYF6SJCCZL5HK3LC4FCWIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/18/LE4UGYF6SJCCZL5HK3LC4FCWIQ/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 06:01:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B56Y5QBXS5BSHGL72UBCVTORR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 12시 23분쯤 인천 부평구 십정동 동암역 인근 인도로 돌진한 승용차. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 운전자가 몰던 승용차가 인도로 돌진해 30대 여성과 여성의 딸이 크게 다치는 사고가 발생했다. &lt;br&gt;&lt;br&gt;18일 인천 부평경찰서와 인천소방본부 등에 따르면 이날 오후 12시 23분쯤 인천 부평구 십정동 경인전철 동암역 인근 도로에서 70대 남성 A씨가 운전하던 승용차가 인도로 돌진했다. &lt;br&gt;&lt;br&gt;이 사고로 30대 여성 B씨가 심정지 상태로 119 구급대에 의해 병원으로 옮겨져 치료를 받고 있다. B씨와 함께 있던 딸 C(2)양도 다리 부위를 크게 다쳐 병원 치료를 받고 있다. &lt;br&gt;&lt;br&gt;운전자 A씨는 머리 부위를 다쳐 병원으로 옮겨져 치료 중이다. &lt;br&gt;&lt;br&gt;경찰은 교통사고처리특례법상 치상 혐의로 A씨를 입건한 상태다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 공영주차장 출구에서 주차비를 정산하다가 갑자기 인도 쪽으로 돌진한 것으로 보고 주변 방범카메라, 차량 블랙박스 영상 등을 토대로 구체적인 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자가 급발진을 주장하고 있지는 않다”며 “정확한 사고 경위를 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>촬영 중 쓰러진 김수용...귓불 사선 주름 ‘프랭크 징후’ 주목</title>
-      <link>https://www.chosun.com/national/people/2025/11/18/7NLEZDEAC5E7DH66TJL3LZDM3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/18/7NLEZDEAC5E7DH66TJL3LZDM3A/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 00:32:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3WMZJVMY3DQMBUGEZDGZLFGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김수용 귓볼 주름&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 김수용이 촬영 중 의식을 잃고 쓰러져 병원으로 이송된 이후, 그의 귓불에서 심혈관 질환의 전조일 수 있다는 징후가 보였다는 주장이 나왔다. &lt;br&gt;&lt;br&gt;김수용은 지난 14일 오후 경기 가평군의 한 장소에서 진행된 유튜브 콘텐츠 촬영 도중 갑작스럽게 쓰러졌다. 현장에 있던 동료들과 스태프들이 즉시 응급조치를 하고 119에 신고했으며, 출동한 소방 구급대가 심폐 소생술 등을 시행한 뒤 그를 구리 한양대병원으로 옮겼다.&lt;br&gt;&lt;br&gt;김수용의 소속사 미디어랩시소 관계자는 “현장에서 쓰러졌을 때 상당히 위중한 상태였으나, 응급 치료를 받으면서 다행히 의식을 회복했다”며 “가족이 곁에서 간호 중이며 정밀 검사를 준비하고 있다. 당분간 치료와 회복에 집중할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;소식이 전해진 뒤 온라인을 중심으로 김수용의 과거 사진 등에 남아 있는 귓불의 사선 주름이 재조명됐다. 단순한 노화 현상이 아니라 심혈관 질환과 연관된 경고 신호인 프랭크 징후일 수 있다는 주장이다.&lt;br&gt;&lt;br&gt;프랭크 징후는 1973년 미국 내과 의사 샌더스 T. 프랭크(Sanders T. Frank) 박사가 처음 보고한 현상으로, 한쪽 또는 양쪽 귓불에 45도 각도로 나타나는 대각선 주름을 가리킨다. 이 주름은 귓불 피부를 가로질러 외이도 입구 쪽으로 이어지는 형태를 보이며, 일반적으로 주름의 깊이가 귓불 전체 너비의 최소 3분의 1 이상일 때 의미 있는 징후로 본다.&lt;br&gt;&lt;br&gt;프랭크 징후는 한쪽 귀에만 나타날 수도 있고 양쪽 귓불에 모두 관찰될 수도 있는데, 양측성으로 나타날수록 심혈관 질환 위험과의 연관성이 더 강한 것으로 알려져 있다. 여러 연구에서는 이 징후가 관상동맥 질환, 심근경색, 말초혈관 질환, 뇌졸중 발생 위험 증가와 관계가 있다는 결과가 보고돼 왔다.&lt;br&gt;&lt;br&gt;이 주름 자체가 직접적으로 심장 질환을 유발하는 인과관계가 입증된 것은 아니다. 다만 귓불은 피부 아래에 미세혈관이 풍부하지만 말초 순환이 취약한 부위라는 점에서, 심장 혈관에 동맥경화가 진행될 때 심장에 산소와 영양을 공급하는 관상동맥뿐 아니라 귓불의 미세혈관에도 동시에 혈액 순환 장애가 생길 수 있다. 이 과정에서 귓불 조직의 탄력이 떨어지고 콜라겐·엘라스틴 섬유가 손상되면서 눈에 띄는 대각선 주름이 생긴다는 것이다.&lt;br&gt;&lt;br&gt;하지만 프랭크 징후는 심혈관 질환의 위험을 높이는 징후일 뿐, 질병 그 자체를 확진하는 ‘진단 도구’는 아니라는 게 전문가들 사이의 공통된 견해다. 나이가 들면 누구나 어느 정도 귓불에 주름이 생길 수 있어, 프랭크 징후의 존재만으로 심장 질환을 단정할 수는 없다. 그럼에도 프랭크 징후는 젊은 환자나 뚜렷한 증상이 없는 사람에게서 심혈관 질환의 잠재적 위험을 가늠해 볼 수 있는 간단하고 시각적인 참고 지표가 될 수 있다.&lt;br&gt;&lt;br&gt;이 때문에 프랭크 징후를 발견했다면 혈압, 콜레스테롤 수치, 혈당 검사 등 심장 검진을 받아보는 것이 권장된다. 특히 고혈압, 당뇨병, 흡연력, 가족력 등 위험 요인이 있는 사람이 귓불 주름까지 발견될 경우 심전도, 심장 초음파, 관상동맥 CT 등 정밀 검사를 고려하는 것이 바람직하다고 전문가들은 강조한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HA3WMZJVMY3DQMBUGEZDGZLFGU.jpg?auth=8bd9872a4d1605378334b66a240361570da15e6b76f7a46bc755c77ac6778f79&amp;smart=true&amp;width=720&amp;height=567" type="image/jpeg" height="567" width="720">
-        <media:description type="plain">김수용 귓볼 주름</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
