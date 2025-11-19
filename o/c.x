@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>한국과 러시아 詩로 하나된 무대 </title>
+      <link>https://www.chosun.com/national/people/2025/11/19/PQAKRJQLLBG7FKUOBLZR7VPO7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/19/PQAKRJQLLBG7FKUOBLZR7VPO7E/</guid>
+      <dc:creator>정병선 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 09:51:48 +0000</pubDate>
+      <content:encoded>한국과 러시아의 수교 35주년을 기념하는 알렉산드르 푸슈킨 시(詩) 낭송회가 18일 서울 중구 롯데호텔에서 열렸다. &lt;br&gt;&lt;br&gt;한국의 뿌쉬낀문화원(원장 김선명)과 주한 러시아대사관(대사 게우르기 지노비예프), 러시아 대외협력청, 루스키미르 재단이 공동 주최한 이번 행사는 냉각된 양국 관계 속에서도 문화 교류의 가닥을 잇는 자리로 주목받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y5AXRG4TMJCQFPSXY7QUVPHYZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;알렉산드르 푸슈킨을 기념하는 시 낭송회에 참석한 양국 인사들. 게오르기 지노비예프(앞줄 왼쪽 다섯 번째)와 이종걸 전 국회의원(여섯 번째), 우윤근 전 주러시아 대사(앞줄 오른쪽에서 세 번째), 이규형 전 주러시아 대사(뒷줄 오른쪽 두 번째) 등의 모습이 보인다./정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 행사는 이종걸 전 국회의원이 한용운 선생의 대표작 ‘님의 침묵’ 낭송을 시작으로 알렉세이 사베트코 주한 러시아 무역대표부 부부가 안나 아흐마토바의 시 ‘용기(무제스트보)’, 안나 스테벤코바 커뮤니케이션 컨설턴트가 콘스탄틴 시묘노프의 ‘나를 기다려줘, 내가 돌아갈테니(쥐지 미냐, 이 야 베르누시)’, 최은주 서울시립미술관장이 심훈의 ‘그날이 오면’을 차례로 낭독했다. &lt;br&gt;&lt;br&gt;한국과 러시아 근·현대 문학이 함께 울려 퍼지며 전쟁·상실·희망의 정서를 공유하는 무대로 꾸며졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AMAT3N7FFGMRCRSYB6YLRV6TE.png"&gt;&lt;figcaption&gt;&lt;small&gt;게오르기 지노비예프 주한 러시아 대사가 축사하고 있다./뿌쉬킨문화원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;푸슈킨 시 낭송회는 2015년 푸슈킨 페스티벌의 일환으로 출범해 올해 11회째를 맞았다. 단순한 문학 행사를 넘어 양국 문화 외교의 ‘상징 행사’로 자리 잡았다는 평가를 받는다.&lt;br&gt;&lt;br&gt;게오르기 지노비예프 주한 러시아대사는 축사에서 “한국과 러시아는 올해로 수교 35주년을 맞았지만 교류의 뿌리는 훨씬 깊다”며 “지난해는 극동 한인 이주 160주년, 조·러 우호통상조약 140주년을 기념한 바 있다”고 강조했다. 그는 또 “푸슈킨 시 낭송회는 양국 국민 모두가 친숙하게 느끼는 문학적 유산을 매개로 한 대표적 문화 행사”라며 “러시아에서도 K팝과 한국 영화가 큰 인기를 얻고 있고, 최근엔 문학까지 K컬처 전반적으로 확산되고 있다”고 전했다.&lt;br&gt;&lt;br&gt;김선명 뿌쉬낀문화원장은 “올 시 낭송회는 전쟁의 상흔을 기억하고 평화의 메시지를 전달하기 위한 기획이다”고 설명했다. 그는 “광복 80주년과 러시아의 전승 80주년을 맞는 해이기도 하다”며 “러시아-우크라이나 전쟁으로 피로가 깊어진 이 시대에 시가 줄 수 있는 위로를 전하고 싶었다”고 말했다. &lt;br&gt;&lt;br&gt;또 “낭송된 네 편의 시는 전쟁 속에서도 인간이 잃지 말아야 할 사랑과 희망을 담고 있다”며 “무엇보다 종전과 한·러 관계의 복원을 염원하는 뜻을 담았다”고 했다.&lt;br&gt;&lt;br&gt;러시아는 2011년 푸슈킨 탄생일인 6월 6일을 ‘러시아어의 날’로 제정했다. 동시에 루스키미르 재단을 통해 해외에 러시아센터를 세우고 문화·교육 프로그램을 지원하며 언어·문학 외교를 확대해왔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RCW5TXHRRDHNJWHO7O6AWXMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;푸슈킨 기념 시 낭송회에 참석한 지노비예프 대사와 우윤근 전 주러시아 대사가 참석자들과 담소를 나누고 있다./정병선 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;뿌쉬낀문화원은 이와 연계해 러시아어 백일장, 문학 강연 등을 포함한 ‘푸슈킨 페스티벌’을 꾸준히 이어오고 있다.&lt;br&gt;&lt;br&gt;한편 롯데호텔에서는 2013년 블라디미르 푸틴 대통령 방한 당시 그가 직접 참석한 가운데 ‘푸슈킨 동상’ 제막식이 열린 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대전서 18년간 아이 받아온 산부인과, 결국 “분만 진료 중단”</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/11/19/TICYUCHJAVFEHOLWU3T7ITBRJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/19/TICYUCHJAVFEHOLWU3T7ITBRJU/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 09:22:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYYTCBGC7JA6BDHLEGGGZRGRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;산부인과가 분만 중지 사실을 알리며 홈페이지에 올린 안내문/예담산부인과&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전 서남권에서 2007년부터 지역 산모 분만을 책임져 오던 한 산부인과 병원이 다음 달 19일부터 자연분만과 제왕절개 등 분만 진료를 중단키로 했다고 산모들에게 공지를 보냈다. 산부인과 학계는 점차 줄어드는 분만 건수로 병원을 유지하기 어려운 상황에서 최근 분만 과정과 얽힌 법정 분쟁이 이어지면서 분만 병원을 유지하려는 의사가 점차 줄어들고 있다고 지적한다.&lt;br&gt;&lt;br&gt;해당 병원은 입장문에서 “우리 병원은 2007년 개원한 이래 관저동·가수원동·진잠동 일대와 계룡시, 논산 지역의 분만을 18년간 담당해 왔다”며 “하지만 수년 전부터 출산율이 급격히 감소해 2024년 합계 출산율이 0.748명이 됐다. 낮은 출산율로 인한 어려운 상황에서도 이 지역 분만을 담당하려 노력했으나, 이제는 24시간 병원을 운영하기가 불가능한 상황에 이르렀다”고 전했다.&lt;br&gt;&lt;br&gt;병원은 “진료받고 계신 많은 산모 분께 끝까지 책임을 다하지 못한 점에서 고개 숙여 사과한다”면서 “검사 결과지를 요청해 주시면 전원하실 수 있게 신속하게 준비해 드리겠다”는 말도 덧붙였다. 그러면서 가까운 분만 가능한 병원의 목록을 첨부하기도 했다.&lt;br&gt;&lt;br&gt;해당 병원처럼 출생아 수 감소로 분만 병원 경영 자체가 어려운 경우는 이제 어렵지 않게 찾아볼 수 있다. 건강보험심사평가원이 지난해 이뤄진 분만을 지역별로 분석한 결과 251개 시·군·구 가운데 연간 분만 건수가 10건 미만인 곳이 38.6%인 97곳에 달했다. 애초에 분만 병원이 유지되기가 힘든 지역이 그만큼 많단 뜻이다. 실제 보건복지부가 지난해 분만이 이뤄진 병원을 확인한 결과 428곳으로 10년 전의 675개에 비해 36.6% 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;학계에선 출산율 감소 이외에도 갈수록 커지는 법적 리스크가 분만 병원을 유지하기 어렵게 만든다고 지적하고 있다. 실제 최근 분당서울대병원의 산부인과 교수와 전문의 한 명은 2018년 집도한 분만으로 소송을 당했고, ‘경미한 과실’이 있었단 이유로 법원으로부터 6억5000만원의 배상 판결을 받았다. 부산 지역 분만병원에서 일하는 한 의사는 “산과는 태어나는, 또는 태어날 아이가 잘못되면 아이의 여명(餘命)까지 고려해 법적 판결을 받게 되는데, 이럴 경우 부담이 다른 과에 비해 훨씬 커진다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>양주 요양원서 60대 환자 추락, 심정지... 경찰 수사 나서 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/19/WA5DDNTBKZCGFM5OBNKMHXA2ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/WA5DDNTBKZCGFM5OBNKMHXA2ZE/</guid>
+      <dc:creator>양주=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 08:57:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/766SQ3LOCZCDDN4Y7PL7RZO4Y4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양주경찰서./경기북부경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 양주의 한 요양원에서 60대 남성이 추락하는 사고가 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;19일 양주경찰서에 따르면 이날 오후 3시 10분쯤 60대 남성 A씨가 양주시 장흥면의 요양원 6층 창문에서 3층 테라스로 추락했다. &lt;br&gt;&lt;br&gt;A씨는 해당 요양원 환자로, 그는 머리 부위 등을 크게 다쳐 심정지 상태로 발견됐으며, 인근 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;현재까지 범죄 관련성은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 자세한 사고 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대통령실 광주공항 이전 중재안 제시…광주·전남·무안군 새국면</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/19/5UJXRQ677FBRPGB2RV5GTVYQ6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/5UJXRQ677FBRPGB2RV5GTVYQ6I/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 08:59:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EWKF4MXGUFJSXDYVNJCZUXMEII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 광주 광산구 광주공항에서 공군 제1전투비행단의 훈련기가 이륙 준비를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주 민간·군 공항 통합 이전을 두고 광주광역시와 전남도, 무안군, 대통령실이 만나 올해 안으로 6자 협의체를 본격 가동하기로 합의했다.&lt;br&gt;&lt;br&gt;광주시는 19일 “대통령실이 주관하는 광주 민·군 공항 이전 6자 협의체에 적극 참여해 무안군 지원 방안의 구체적 실행 로드맵을 마련하고, 대통령실과 광주시·전남도·무안군 3개 지자체 간 실무협의회에서 구체적으로 논의하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 서울에서 김용범 대통령실 정책실장, 강기정 광주시장, 김영록 전남지사, 김산 무안군수가 만나 광주 민·군 공항 통합 이전 현안과 쟁점을 논의하는 4자 사전 협의를 가졌다.&lt;br&gt;&lt;br&gt;광주 군 공항은 248만평(819만8000㎡) 규모로 1964년 현재 위치인 광주 광산구 부지에 세워졌다. 이때는 광주시 외곽이었지만, 도심이 성장하면서 민가가 인접한 위치가 되자 이전 사업이 추진됐다. 광주 군 공항은 연간 200만명이 이용하는 광주 민간 공항과 같은 부지를 사용하고 있다.&lt;br&gt;&lt;br&gt;코로나19 사태 이후 부침을 겪고 있는 무안국제공항 활성화를 위해 광주 민·군공항을 무안군으로 통합 이전하는 방안이 대두돼 왔지만, 전투기 소음 피해를 우려한 무안군민들의 반대로 진척을 이루지 못해왔다.&lt;br&gt;&lt;br&gt;이 때문에 광주시와 전남도, 무안군 등 이해관계가 얽힌 지자체 간 입장 차를 좁히기 위한 4자 회동을 한 것이다.&lt;br&gt;&lt;br&gt;대통령실은 이날 정부 마련 중재안을 제시했다. 무안군 지원 방안으로 국가산단 등 첨단 산업 기반 조성 등을 적극 추진하고, 호남고속철도 2단계 개통과 연계한 광주 민간공항의 무안 이전, 주민 지원 사업 재정 확보 등 방안이 담긴 것으로 전해졌다.&lt;br&gt;&lt;br&gt;중재안은 광주시와 전남도, 무안군, 기획재정부, 국방부, 국토교통부가 참여하는 6자 협의체를 통해 구체화될 것으로 예상된다. &lt;br&gt;&lt;br&gt;광주시는 6자 협의체를 통해 공적기금 활용, 금융비원 지원, 국가·공기업 참여 등 정부 차원의 공항 이전 재원 지원 방안을 확보할 방침이다.&lt;br&gt;&lt;br&gt;강기정 광주시장은 “지난 10여 년간 표류해 온 군 공항 이전 사업이 드디어 실행 국면에 접어들었다”며 “6자 협의체를 통해 실질적 성과를 이끌어 호남의 새로운 도약을 열 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EWKF4MXGUFJSXDYVNJCZUXMEII.jpg?auth=931ee0d01950e3f8605c223aeed0edd2fd76df8816aa4935fc2441200e4a9c19&amp;smart=true&amp;width=5055&amp;height=3402" type="image/jpeg" height="3402" width="5055">
+        <media:description type="plain">19일 광주 광산구 광주공항에서 공군 제1전투비행단의 훈련기가 이륙 준비를 하고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">조남수</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, ‘설탕 가격 담합 의혹’ 삼양사 대표·CJ제일제당 전 임원 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/19/BSB3JAF5QFG5HJ5NJWQBQV5D6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/19/BSB3JAF5QFG5HJ5NJWQBQV5D6M/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 08:46:15 +0000</pubDate>
+      <content:encoded>‘설탕 가격 담합 의혹’을 수사하는 검찰이 삼양사 대표와 CJ제일제당 전직 임원의 신병을 확보했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZHQCTNRRCDVOVEGQ6FZVSMLI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서초동에 위치한 서울중앙지방검찰청(앞),서울고등검찰청 /이명원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법은 19일 공정거래법 위반 혐의를 받는 삼양사 대표 최모씨와 CJ제일제당 식품한국총괄을 지낸 전 임원 김모씨에 대한 구속영장을 발부했다. 법원은 “증거인멸 우려가 있다”고 밝혔다. 삼양사 부사장 이모씨의 구속영장은 “방어권 보장이 필요하다”며 기각했다.&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 국내 3대 제당업체인 CJ제일제당·삼양사·대한제당이 담합해 설탕 가격을 과하게 올렸다는 의혹을 수사하고 있다. 검찰은 3곳이 수년간 담합해 가격을 조정해 온 규모가 조 단위에 이르는 것으로 보고 있다. &lt;br&gt;&lt;br&gt;검찰은 지난 9월 세 회사를 압수수색해 관련 자료를 확보했다. 최근에는 공정거래위원회에 고발 요청권을 행사해 고발장을 접수했고, 검사와 수사관을 공정위에 보내 압수수색도 진행했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난달 27일 CJ제일제당 본부장 박모씨와 삼양사 본부장 이모씨 등 임직원 4명의 구속영장을 청구했다. 그러나 법원은 “증거인멸과 도주 우려가 없다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 아파트 천장 공사하던 60대, 사다리서 떨어져 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/11/19/TFAUH2BS4RFO3JUHNHUXZET37U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/19/TFAUH2BS4RFO3JUHNHUXZET37U/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 09:06:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 낮 12시 2분쯤 부산 부산진구 한 아파트 지하 3층 주차장에서 사다리를 타고 올라가 천장 마감재 보수 작업을 하던 60대 남성 A씨가 중심을 잃고 바닥으로 추락했다.&lt;br&gt;&lt;br&gt;A씨는 약 5m 높이에서 떨어지며 머리를 다쳐 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 업체 관계자를 상대로 정확한 사고 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세부 향하던 여객기서 승객이 승무원 폭행</title>
+      <link>https://www.chosun.com/national/incident/2025/11/19/XZMS5MOHJVEL7CH5TTT2YCRQEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/19/XZMS5MOHJVEL7CH5TTT2YCRQEI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 08:33:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3GMOJXGRRDON3EGBRWGYZZHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진에어 항공기. 기사 내용과는 무관한 사진. /진에어&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;운항 중인 여객기 안에서 승객이 승무원을 폭행한 사건이 발생했다.&lt;br&gt;&lt;br&gt;19일 항공업계에 따르면, 지난 17일 오후 11시쯤 부산에서 이륙해 필리핀 세부로 향하던 진에어 여객기 LJ073편에서 승객 A씨가 승무원을 폭행했다.&lt;br&gt;&lt;br&gt;A씨는 다른 승객과 먼저 다툼이 있었고 이를 제지하던 승무원을 때렸다고 한다.&lt;br&gt;&lt;br&gt;폭행당한 승무원은 피를 흘리고 멍이 든 것으로 알려졌다. 항공사 측은 A씨를 진정시킨 뒤 별도 좌석에 격리했다.&lt;br&gt;&lt;br&gt;항공기는 비상착륙 없이 세부에 도착했고, A씨는 현지 공항경찰대에 인계됐다.&lt;br&gt;&lt;br&gt;항공보안법에 따르면 항공기 내에서 승무원 등을 폭행해 항공기와 승객 안전을 해친 경우 최대 징역 10년에 처할 수 있다. &lt;br&gt;&lt;br&gt;진에어 관계자는 “이번 사안은 항공 안전과 보안에 심각한 영향을 줄 수 있는 중대한 위법 사안으로 관련 법규에 따라 해당 승객에 대해 단호하게 법적 조치를 취할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국군예우사업회, 방송인 이혜성 등 홍보대사 위촉</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/19/OEYRCH5EIZGCLDXF6TJ66ZKJZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/OEYRCH5EIZGCLDXF6TJ66ZKJZY/</guid>
+      <dc:creator>조재희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 08:25:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ADZ727W5TSUOM7LV2B6FVAHFBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국군예우사업회 홍보대사로 위촉된 방송인 이혜성씨./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사단법인 국군예우사업회는 27일 서울 신길동 서울해군호텔에서 창립 대회를 열고 방송인 이혜성씨와 강아랑 캐스터 등 5명을 홍보대사로 위촉한다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;국군예우사업회는 군인에 대한 사회적 인식 제고와 복지 증진을 위해 설립된 국방부 소관 비영리법인(NGO)이다. ‘국군 영웅 감사 챌린지’, ‘국군의 날 어린이 그림 대회’, ‘소년병 알리기 캠페인’ 등을 펼치며 국군 예우 문화 확산에 힘쓰고 있다.&lt;br&gt;&lt;br&gt;홍보대사로 위촉되는 방송인 이혜성씨는 최근 들어 매주 수요일 방영되는 ‘KFN 그날군대이야기’ 진행을 맡아 군 장병의 정신전력 강화에 힘쓰고 있으며, ‘KBS 9시 뉴스’ 최장수 기상 캐스터인 강아랑씨는 국회방송 ‘국회라이브6′ 앵커로 활약하고 있다. 또 6·25 참전 용사를 비롯한 국가 유공자 등에게 누적 3억8000만원을 기부한 유튜버 ‘에이전트 H’ 황지훈씨도 이날 홍보대사로 위촉된다. 황씨는 해군 특수전전단 UDT/SEAL 출신으로 73만 구독자 유튜브 채널 ‘미션파서블’을 운영하고 있다. 이 밖에 2004년 아테네 올림픽 레슬링 종목에서 금메달을 딴 정지현씨, 구독자 166만에 이르는 유튜브 채널 ‘부읽남 TV’를 운영하는 ‘부읽남’ 정태익씨도 홍보대사로 위촉된다. &lt;br&gt;&lt;br&gt;국군예우사업회 관계자는 “방송·스포츠·디지털 플랫폼 등 다양한 영역에서 활동 중인 대중적 인사들의 참여를 통해 국군예우사업회의 취지와 메시지를 국민에게 효과적으로 전달하고, 군을 향한 존중과 감사 문화를 사회 전반으로 확산시키고자 한다”며 “대중적 신뢰도와 영향력, 군 관련 공감 능력 및 관심도 등을 고려해 홍보대사를 위촉하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰 ‘60억대 횡령·배임' 박현종 전 BHC 회장 불구속 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/11/19/4YIPSZU3IJBUPECZFASIXJR4FI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/19/4YIPSZU3IJBUPECZFASIXJR4FI/</guid>
@@ -861,24 +937,6 @@
       <content:encoded>공무원들의 12·3 비상 계엄 가담 여부를 조사하는 ‘헌법 존중 정부 혁신 TF(태스크포스)’의 경찰 조사팀장에 황정인 총경이 내정된 것으로 확인됐다. 황 총경은 윤석열 정부 당시 경찰국 신설에 반발하는 ‘총경 회의’에 참석한 후 인사상 불이익을 본 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2P6WPNVQ7N3K2PNAO633FWGEFA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황정인(오른쪽) 서산경찰서장이 지난 7월 범인 검거에 도움을 준 지역 주민에게 표창장을 수여하고 있다. /서산경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 경찰청에 따르면 황 총경은 21일까지 구성될 경찰 조사단의 팀장 발령을 앞두고 있다. 헌법 존중 TF는 49개 부처 공무원의 계엄 가담 여부를 조사하기 위한 조직으로 국무총리실 및 각 부처 산하에 설치된다. 이 중에서도 합동참모본부, 검찰, 경찰, 기획재정부, 외교부 등 12개 기관이 ‘집중 점검 기관’으로 명시됐다. 이에 따라 각 부처당 10여 명 규모의 조사단이 구성될 예정인데, 경찰의 조사단을 황 총경이 이끌게 된 것이다. &lt;br&gt;&lt;br&gt;황 총경은 윤 정부의 경찰국 설치에 반대했다가 인사상 불이익을 겪은 인물이다. 서울경찰청 마약범죄수사대장이던 그는 2022년 7월 열린 총경 회의에 참석한 후 경찰수사연수원 교무계장으로 자리를 옮겼다. 통상 한 계급 아래인 경정급이 맡던 자리였다. 황 총경은 이후 충남경찰청 여성청소년과장을 거쳐 지난 3월 충남 서산경찰서장으로 부임했다.&lt;br&gt;&lt;br&gt;경찰청은 21일까지 황 총경을 필두로 조사팀 구성을 완료하고 경찰 공무원들의 계엄 가담 여부를 조사할 계획이다. 경찰청 관계자는 “감사를 맡는 감찰국과 인사 조치를 담당하는 기획조정국 등으로 조사팀이 구성될 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>가수 인순이, 고려대 강연서 “아픔 두려워 말고 부딪히며 성장해야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/VJQYYCTQRZCRNFTOS2ZYAV4GUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/VJQYYCTQRZCRNFTOS2ZYAV4GUE/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 09:15:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XREJOUV6RFF3ZJJSGTIYPTMF6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동원(왼쪽) 고려대 총장과 김인순 해밀학교 이사장이 지난 17일 오후 고려대 본관에서 열린 '다문화사회 미래인재 양성 업무 협약식'에서 함께 협약서를 들고 있다./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아픔을 경험으로 바라보면 삶을 이끄는 힘이 되니 이를 두려워하지 말고 부딪히며 성장해야 합니다.”&lt;br&gt;&lt;br&gt;가수 인순이(본명 김인순)가 17일 오후 서울 고려대 운초우선교육관 대강당에서 열린 ‘세상을 바꾸는 리더’ 렉쳐 시리즈 연사로 나서 이같이 말했다. 이 시리즈는 고려대가 개교 120주년을 맞아 국내 유명 인사를 초청해 여는 강연으로, 이번에 9회째를 맞았다.&lt;br&gt;&lt;br&gt;이 강연에서 김씨는 혼혈로서 겪어온 차별과 상처, 콤플렉스를 담담하게 받아들일 것을 조언했다. 김씨는 “자신을 있는 그대로 받아들이는 태도가 성장으로 이어지는 첫걸음”이라며 “다문화 청소년으로서 느낀 외로움과 상처를 누구보다 잘 이해했기에 비슷한 어려움을 겪는 학생들에게 도움이 되고 싶었다”고 했다. &lt;br&gt;&lt;br&gt;김씨는 이러한 경험이 ‘비 온 뒤 맑게 갠 하늘’을 뜻하는 해밀학교 설립의 원동력이 됐다고 설명했다. 그는 지난 2013년부터 다문화가정 자녀들을 위한 해밀학교 이사장으로 활동해오고 있다. &lt;br&gt;&lt;br&gt;한편, 고려대는 강연에 앞서 본관 제1회의실에서 다문화 교육 협력을 위한 해밀학교와의 교육 협약(MOU)을 체결했다. 고려대는 해밀학교와 함께 멘토링 프로그램, 다문화 인재 성장 캠프 등 공동 프로그램을 운영하고, 다문화 가정 청소년의 학업 역량 강화와 진로 탐색을 적극 지원할 계획이다. &lt;br&gt;&lt;br&gt;김동원 고려대 총장은 “이번 협약을 통해 다양한 문화를 가진 학생들이 자신의 가능성을 마음껏 펼칠 수 있기를 바란다”며 “고려대는 학생들이 다문화 교육 기회 확대와 성장의 발판이 될 수 있도록 노력할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘혐오 표현’ 들어간 현수막 손본다…행안부 가이드라인 시행</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/T6F3YTXPPRAGRFO22BSAMV5U7I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/T6F3YTXPPRAGRFO22BSAMV5U7I/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 09:21:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T4TTAKJTO5HVZGWIALEKK5LWQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 수원시의 한 도로변에 정당 현수막들이 걸려 있다. 더불어민주당과 국민의힘 현수막 사이로 한 군소 정당이 이재명 대통령 측근인 김현지 대통령실 제1부속실장 관련 현수막을 걸어놨다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부가 차별이나 혐오 표현이 담긴 현수막을 제한하기 위한 가이드라인을 마련해 18일부터 시행한다고 밝혔다. 이재명 대통령이 “길바닥에 저질스럽고 수치스러운 내용의 현수막이 달려도 정당이 게시한 것이어서 철거를 못 한다”며 현수막 규제를 위한 법 개정을 지시한 지 일주일 만이다.&lt;br&gt;&lt;br&gt;행안부는 “국회에서 관련 법 개정을 논의 중이지만, 법률 개정까지 오래 걸리는 점을 고려해 현행 법령 테두리 안에서 적용할 수 있는 기준을 마련했다”며 “표현의 자유를 최대한 보장하되, 타인의 권리나 명예를 침해하거나 공중도덕이나 사회적 윤리에 어긋나는 표현에 대해서는 제한적 조치를 강구할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;가이드라인에 따르면 광고물 내용이 인간의 존엄과 가치를 부정하고 개인 인권을 침해하고, 민주주의를 왜곡·부정하거나 사회적 통합 저해를 유발해 피해 당사자 등이 민원을 제기할 경우 금지 광고물로 판단한다.&lt;br&gt;&lt;br&gt;금지 유형은 ▲ 범죄 행위를 정당화하거나 잔인하게 표현 ▲ 음란하거나 퇴폐적인 내용으로 미풍양속을 해칠 우려 ▲ 청소년의 보호·선도를 방해할 우려 ▲ 사행산업 광고물로 사행심을 부추기는 내용 ▲ 인종차별적 또는 성차별적 내용으로 인권침해 우려 ▲ 그 밖의 다른 법률에서 광고를 금지한 내용 등 6가지다.&lt;br&gt;&lt;br&gt;단어나 문구의 의미뿐만 아니라 전체적인 맥락을 고려해 종합적으로 금지 여부를 판단한다. 특히 특정 국가 등을 비하할 목적으로 허위 사실을 쓰거나 과장된 표현을 하면 ‘인권 침해’로 간주해 규제한다. 여성 차별, 남성 경멸, 성소수자 비하 등 편견이나 차별을 조장하는 표현도 규제를 받는다. &lt;br&gt;&lt;br&gt;금지 여부에 대한 판단은 1차적으로 담당 부서에서 실시하며, 판단이 어려운 경우엔 지자체 옥외 광고 심의위원회를 통해 종합적으로 검토한 후 처리한다. 법령 위반 광고물에 대해서는 관리자에게 제거 등 필요 조치를 명령하고, 명령을 따르지 않을 경우 ‘행정대집행법’에 따라 해당 광고물을 제거하거나 필요한 조치를 하고 그 비용을 청구할 수 있다.&lt;br&gt;&lt;br&gt;윤호중 행안부 장관은 “혐오 표현이 담긴 정당 현수막은 심각한 사회적 문제가 되고 있다”며 “가이드라인을 현장에서 적극적으로 적용해 국민 불편을 덜어드릴 수 있도록 지방정부와 함께 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>두 달 만에 인천대교에 다시 나타난 ‘드럼통’ 600개 </title>
       <link>https://www.chosun.com/national/national_general/2025/11/18/6AEMHJ6CEZAVFLCGCGHZEH2Z44/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/6AEMHJ6CEZAVFLCGCGHZEH2Z44/</guid>
@@ -888,51 +946,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UOLDPFTKOJLFBLIKXSD7622GBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 인천시 중구 인천대교 갓길에 주정차 방지용 드럼통(PE드럼)이 재설치 돼 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천대교에서 최근 투신 사고가 잇따르자 두 달 만에 드럼통이 다시 설치됐다. &lt;br&gt;&lt;br&gt;인천대교 운영사는 주탑 부근 양방향 3㎞(각 1.5㎞) 구간 갓길에 플라스틱 드럼통 600여 개를 지난달 재설치했다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 코로나 시기였던 2022년 사망‧실종 사고가 급증하자 인천대교 측은 주탑 근처 갓길에 드럼통 1500개를 설치했다. 다리 위에 멈춰 서지 못하게 막는 조치였다. 하지만 교통사고 등 긴급 상황에서 차량 주정차를 위한 갓길 확보 필요성이 제기되면서 관계 기관 협의를 거쳐 지난 8월 모두 철거됐다. &lt;br&gt;&lt;br&gt;철거 직후인 올해 9월 사망‧실종 사고가 잇따랐다. 3명이 바다로 추락해 숨지고 1명이 실종됐다. 올 들어 인천대교에서 발생한 사망‧실종 사고 7건 중 4건이 9월에 집중되자 투신 방지 시설물 필요성이 다시 제기됐다. &lt;br&gt;&lt;br&gt;인천대교 운영사 관계자는 “유관 기관과 협의해 임시방편으로 다시 드럼통을 설치했다”며 “사고 위험 시간대에는 주탑 구간에 순찰차를 10분 단위로 정차시키며 예방 활동을 강화했다”고 전했다. &lt;br&gt;&lt;br&gt;국토교통부는 재원을 마련해 근본적인 대책인 추락 방지 시설 안전 난간을 내년까지 설치할 계획이다. 인천대교 주탑 일대 양방향 7~8㎞ 구간에 2.5m 높이로 안전 난간을 설치하는 방안을 검토 중이며 설치 비용은 80억원가량으로 추산됐다. &lt;br&gt;&lt;br&gt;인천대교 주탑의 높이는 해수면 기준 약 80m다. 아파트 20층 높이와 비슷하다. 다리 길이는 21.4㎞다. 인천대교에서는 2009년 개통 이후 현재까지 모두 90명이 투신했으며 이 중 67명이 사망하고 14명이 실종됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>관광·산업·문화 융합 미래도시...‘거제 기업혁신파크’ 닻 올렸다</title>
-      <link>https://www.chosun.com/national/regional/yeongnam/2025/11/18/KMJ353ETAJGG5NG3DEMP7VO6FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/yeongnam/2025/11/18/KMJ353ETAJGG5NG3DEMP7VO6FM/</guid>
-      <dc:creator>거제=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 08:58:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNRDEODGMU3TMODFGI4GEMBUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 소노캄 거제에서 열린 '거제 기업혁신파크 성공추진 선포식'에서 참석자들이 기념 촬영을 하고 있다./경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 거제시 장목면 일대에 총사업비 1조5000억원이 투입되는 초대형 ‘기업혁신파크’ 조성 사업이 본격화된다. 경남도는 기업 주도의 자족 도시 조성을 시작으로, 거제를 남해안 관광 벨트의 중심이자 세계적인 관광 도시로 만들겠다는 계획이다.&lt;br&gt;&lt;br&gt;경남도와 거제시는 18일 거제 소노캄에서 ‘거제 기업혁신파크 성공 추진 선포식’을 열고 사업의 실행 의지를 공식화했다. 이날 행사에는 박완수 경남지사와 변광용 거제시장, 서일준 국회의원을 비롯해 사업 시행자인 ㈜그란크루세, 네이버클라우드, 다산네트웍스 등 주요 참여 기업 대표들이 참석했다.&lt;br&gt;&lt;br&gt;거제 기업혁신파크 사업은 국토교통부의 ‘기업도시개발사업’의 일환으로 추진된다. 기업이 주도해 산업·연구·관광·주거 기능이 복합된 도시를 개발하면, 정부가 세제 혜택과 규제 특례를 제공하는 방식이다. &lt;br&gt;&lt;br&gt;사업 대상지는 가덕신공항, 부산·진해신항과 인접한 거제시 장목면 구영리 일대 128만㎡에 조성될 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2WD3UEQIYJE5DKWPX5OLSLEYDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;거제 기업혁신파크 조감도. /경남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이곳에는 관광 시설뿐만 아니라 디지털·아트·교육·정주 기능이 결합된 ‘미래형 융합 도시’가 들어설 예정이다. 특히 최근 네이버클라우드가 투자를 확약함에 따라 인공지능(AI) 기반의 디지털 플랫폼이 접목된 스마트 관광 인프라가 구축될 것으로 기대를 모으고 있다.&lt;br&gt;&lt;br&gt;박완수 지사는 이날 선포식에서 “대한민국 최고의 역량을 갖춘 기업들과 함께하는 만큼 기업혁신파크에 대한 기대가 크다”며 “26년 만에 재개된 장목관광단지 사업을 단일 관광지 조성을 넘어, 문화·관광·교육·주거가 어우러진 대한민국 최고의 작품으로 만들어야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;향후 거제를 중심으로 한 남해안 관광 활성화도 기대했다. 박 지사는 “거제는 거가대교와 가덕신공항, 남부내륙철도 건설 등으로 이제 섬이 아닌 육·해·공 교통의 중심지로 부상하고 있다”며 “아름다운 자연환경에 세계적 품격을 더해 거제를 ‘대한민국의 보물 도시’로 키우겠다”고 말했다.&lt;br&gt;&lt;br&gt;변광용 거제시장은 “거제가 조선 산업을 넘어 첨단 미래 산업의 거점으로 도약하기 위해서는 기업혁신파크를 성공적으로 추진하는 것이 중요하다”며 “경남도와 함께 기업들이 성장과 혁신에 전념할 수 있도록 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt;이날 도와 시, 참여 기업들은 ‘성공 추진 선언문’을 낭독하며 역할 분담을 명확히 했다. 경남도는 국가 교통망 확충과 엑스포 유치 등을 통해 배후 지원에 나서고, 거제시는 행정적 지원을 약속했다. 사업자인 참여 기업들은 지속 가능한 민간 투자 등을 약속했다. &lt;br&gt;&lt;br&gt;경남도는 이번 거제 기업혁신파크를 시작으로 통영 복합해양레저관광도시 등 대규모 민간 프로젝트를 중심으로, 남해안을 세계적인 관광 벨트로 육성한다는 구상이다. 이를 위해 ‘남해안권 발전 특별법’ 제정과 ‘2040 남해안 미래해양엑스포’ 유치도 병행하고 있다.&lt;br&gt;&lt;br&gt;한편, 경남도와 거제시는 오는 2026년 국토교통부로부터 통합개발계획 승인을 받는 것을 1차 목표로 잡고 행정 절차에 속도를 낼 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 부동산 매매대금 탈세하려 위장 이혼까지 한 부부 기소</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/7M76N2PVZRGF7J2JQPIA5R6QQ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/7M76N2PVZRGF7J2JQPIA5R6QQ4/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 08:39:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPC5LEVSLTT7R4BHGMR24OUGBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부동산 매도 금액에 대한 세금을 피하기 위해 위장 이혼한 아내에게 부동산 매도금을 지급하는 방식으로 탈세를 저지른 부부가 재판에 넘겨졌다. 검찰은 직접 보완수사를 통해 경찰 단계에선 드러나지 않은 이들의 위장 이혼을 밝혀냈다고 한다. &lt;br&gt;&lt;br&gt;서울북부지검 조세범죄조사부(부장 이태협)는 조세범처벌법 위반 혐의로 남편 A(70)씨를 18일 구속 기소했다고 밝혔다. A씨의 범행을 방조한 혐의를 받는 아내 B(66)씨는 불구속 기소됐다.&lt;br&gt;&lt;br&gt;검찰에 따르면, 세무사 사무실 직원으로 근무한 적이 있던 A씨는 지난 2021년 10월부터 약 5개월간 양도소득세 등 8억원을 탈세하기 위해 부동산 2채를 매도하면서 받은 대금 21억원가량을 모두 현금화했다. 이후 이를 위장이혼한 B씨에게 위자료 등 명목으로 지급해 재산을 은닉한 혐의를 받는다. B씨는 체납처분을 피하기 위해 A씨의 범행을 알고도 현금화된 부동산 대금을 주거지에 보관해 은닉하는 방식으로 범행을 방조한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 부동산 매도 대금을 계좌로 받은 뒤 이 중 일부를 은행 현금자동입출금기(ATM)에서 160회에 걸쳐 인출한 것으로 조사됐다. 일부 대금은 수표로 인출한 뒤 자금세탁업자로 추정되는 제3자를 통해 현금화하기도 했다.&lt;br&gt;&lt;br&gt;특히 A씨는 처형 C씨와의 내연 관계를 B씨에게 들켜 이혼당하고 위자료 등을 지급했다는 취지로 주장했으나 검찰의 보완수사 결과 A씨가 C씨를 거짓 내연녀로 내세워 B씨와 위장이혼하고 재산을 은닉했다는 점이 드러났다. 검찰은 체납자와 관련자의 통신·계좌 내역을 분석하고 관련자를 조사해 부동산 매매대금 21억원가량의 은닉 과정을 밝혀냈다고 한다. &lt;br&gt;&lt;br&gt;검찰은 수사 과정에서 밝혀진 사실관계를 과세관청에 통보해 체납세액이 환수될 수 있도록 조치했다. 검찰 관계자는 “앞으로 피고인이 죄에 상응하는 처벌을 받을 수 있도록 공소유지에 만전을 기하는 한편 국가 재정의 근간을 훼손하고 부정한 방법으로 납세의무를 회피하는 조세범죄에 엄정하게 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘고교에 폭발물 설치’ 살해 협박…警,10대 고교생 사전 구속영장</title>
-      <link>https://www.chosun.com/national/incident/2025/11/18/G6QA5BOJCBGCJEDDYQKY6ZQND4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/18/G6QA5BOJCBGCJEDDYQKY6ZQND4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 08:20:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EDAKRFJWR6UYKCSVYANZTWYLQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 고등학교에 폭발물을 설치하고 학생들을 살해하겠다는 등의 협박 글을 잇따라 올린 10대 고등학생이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천경찰청 형사기동대는 공중협박, 위계에 의한 공무집행방해 등 혐의로 10대 A군에 대해 사전구속영장을 신청했다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난달 13일부터 21일까지 119 안전신고센터 홈페이지에 ‘인천 대인고등학교에 폭발물을 설치하고 학생들을 살해하겠다’는 등 내용의 협박 글을 총 7차례에 걸쳐 게시한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A군은 “c4랑 뇌산수은으로 만든 간이 폭탄 학교 곳곳에 설치했고, 하교 시간 이전에 폭발하도록 설정해뒀다”며 “공범 10명을 데리고 생존자를 살해하겠다”는 내용의 글을 119 안전신고센터 홈페이지에 올리기도 했다. &lt;br&gt;&lt;br&gt;A군은 협박 글의 인터넷 주소(IP) 확인이 어렵도록 가상사설망(VPN)을 사용해 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;그는 협박 글에 “절대 못 잡죠. VPN(가상사설망) 5번 우회하니까 아무고토(아무것도) 못하죠”라고 적었다. 등 경찰을 조롱하는 내용을 적기도 했다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 협박 글이 올라올 때마다 수색 작업을 벌여 학교에 폭발물이 없는 것을 확인했다. 학교는 협박 글이 게시되자 안전 확보를 위해 학생 500여 명을 하교시키기도 했다. &lt;br&gt;&lt;br&gt;인천경찰청은 집중 수사에 나서 A군을 용의자로 특정했고, 최근 자진 출석시켜 검거했다. &lt;br&gt;&lt;br&gt;A군은 “제3자가 했을 것이다. 나는 (범인이) 아니다”라며 범행을 부인하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사안이 중대하고 증거인멸 및 재범 우려가 높아 A군에 대한 사전 구속영장을 신청했다”며 “A군을 상대로 범행 동기와 추가 범행, 공범 등이 있는지 조사할 방침”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>과태료 부과했지만... 尹, 한덕수 前총리 재판 안 나간다</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/18/KLW5YSKRHFGL5LEKRZZUPIQQRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/18/KLW5YSKRHFGL5LEKRZZUPIQQRY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 07:35:09 +0000</pubDate>
-      <content:encoded>오는 19일 한덕수 전 국무총리의 내란 방조 등 혐의 재판에 증인으로 소환된 윤석열 전 대통령이 재판부의 과태료 부과 처분에도 불구하고 불출석하겠다는 의사를 재차 밝혔다. 함께 증인으로 소환된 김용현 전 국방부 장관과 이상민 전 행정안전부 장관은 출석할 예정이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGEN3EGRQTINZTGA4WEYRSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18일 법조계에 따르면, 윤 전 대통령은 전날 서울중앙지법 형사33부(재판장 이진관)에 불출석 사유서를 냈다. 윤 전 대통령은 앞서 지난 12일 증인으로 소환됐으나 불출석 사유서를 내고 법정에 나오지 않았다. 당시 재판부는 “정당화할 만한 사유가 아니라고 판단된다”며 과태료 500만원을 부과하고 구인영장을 발부했다.&lt;br&gt;&lt;br&gt;김 전 장관도 지난 12일 증인 소환에 응하지 않았다. 김 전 장관은 불출석 사유서에 “현재 진행 중인 재판만으로도 부담이 극심해 다른 재판의 증인 출석은 물리적으로 불가능하다”며 “장기 구속과 연이은 공판 출석으로 피로 누적이 지속되고 있다”고 적었다. 또 “피고인 재판이 확정되지 않은 상황에서 타 재판에서 증언을 강요받는 것은 헌법상 기본권 침해에 해당돼 형사소송법상 ‘증언 거부 사유’에 해당된다”고 주장했다.&lt;br&gt;&lt;br&gt;그러나 재판부는 “증인 출석과 증언 거부는 별개의 문제”라며 이를 받아들이지 않았다. 증언을 거부하더라도 일단 법정에는 출석하는 게 원칙이란 얘기다. 재판부는 김 전 장관에게도 과태료 500만원을 부과하고, 구인영장을 발부했다. 김 전 장관은 법정에 나와 증언을 거부할 것으로 전망된다.&lt;br&gt;&lt;br&gt;재판부는 지난 5일엔 이 전 장관을 증인으로 불렀으나, 이 전 장관은 “어제(4일) 오후 5시가 넘어 증인 소환 통보를 받았다”며 자신의 재판 준비를 이유로 소환에 응하기 어렵다는 뜻을 재판부에 밝혔다. 재판부는 이 역시 받아들이지 않고 앞선 두 사람과 같은 처분을 내렸다. 이 전 장관은 김 전 장관과 마찬가지로 19일 재판에 출석할 예정이라고 한다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개혁신당 이준석 의원실 보좌진, 성 비위 의혹 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/ST3MGEMFSVE6XMITFW6XABLK4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/ST3MGEMFSVE6XMITFW6XABLK4Q/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 07:43:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BZAFZWH5BNIKLI3E25GNU7YCWE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 17일 오전 서울 여의도 국회에서 열린 최고위원회의에서 발언을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 개혁신당 이준석 의원실 소속 보좌관이 성 비위 의혹으로 검찰에 송치된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;18일 경찰 등에 따르면 서울 영등포경찰서는 지난 10월 성 비위 의혹을 받는 보좌관 A씨를 서울남부지검에 송치했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 학업 등 일신상의 이유로 의원실에 사의를 표했다. 하지만 이 의원실로부터 의원면직 서류를 제출받은 국회사무처가 ‘검찰에 송치된 사건이 있어 의원 면직이 어렵다’는 취지로 거절한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현재 이 의원실은 A씨를 9급으로 강등해 국회사무처에 직권면직을 요청한 상태다.&lt;br&gt;&lt;br&gt;이 의원실 관계자는 “국회사무처에서 A씨의 검찰 송치 사실을 처음 알게 됐다”고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 의원실 측에 여성과 시비가 붙었을 뿐 억울하다는 취지의 입장을 전한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;한편 해당 비서관은 지난해 이 의원이 제22대 국회의원으로 활동을 시작하면서부터 함께 일해온 사이로 직급은 5급 선임비서관이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>70대 운전자 몰던 승용차 인도로 돌진...30대 母女 중상</title>
       <link>https://www.chosun.com/national/incident/2025/11/18/LE4UGYF6SJCCZL5HK3LC4FCWIQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/18/LE4UGYF6SJCCZL5HK3LC4FCWIQ/</guid>
@@ -940,15 +953,6 @@
       <description/>
       <pubDate>Tue, 18 Nov 2025 06:01:04 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B56Y5QBXS5BSHGL72UBCVTORR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;18일 오후 12시 23분쯤 인천 부평구 십정동 동암역 인근 인도로 돌진한 승용차. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;70대 운전자가 몰던 승용차가 인도로 돌진해 30대 여성과 여성의 딸이 크게 다치는 사고가 발생했다. &lt;br&gt;&lt;br&gt;18일 인천 부평경찰서와 인천소방본부 등에 따르면 이날 오후 12시 23분쯤 인천 부평구 십정동 경인전철 동암역 인근 도로에서 70대 남성 A씨가 운전하던 승용차가 인도로 돌진했다. &lt;br&gt;&lt;br&gt;이 사고로 30대 여성 B씨가 심정지 상태로 119 구급대에 의해 병원으로 옮겨져 치료를 받고 있다. B씨와 함께 있던 딸 C(2)양도 다리 부위를 크게 다쳐 병원 치료를 받고 있다. &lt;br&gt;&lt;br&gt;운전자 A씨는 머리 부위를 다쳐 병원으로 옮겨져 치료 중이다. &lt;br&gt;&lt;br&gt;경찰은 교통사고처리특례법상 치상 혐의로 A씨를 입건한 상태다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 공영주차장 출구에서 주차비를 정산하다가 갑자기 인도 쪽으로 돌진한 것으로 보고 주변 방범카메라, 차량 블랙박스 영상 등을 토대로 구체적인 사고 경위를 조사할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자가 급발진을 주장하고 있지는 않다”며 “정확한 사고 경위를 조사할 예정”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>오세훈, 세운4구역 시뮬레이션 예상도 공개…“숨 막히게 할 경관 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/18/ZVEQHHL225G5NGISJHPQ4ACXPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/18/ZVEQHHL225G5NGISJHPQ4ACXPM/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 18 Nov 2025 04:58:32 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 18일 서울 종묘 앞 세운4구역 재개발과 관련해 “시뮬레이션을 해보니 눈을 가리고 숨을 막히게 할 압도적 경관은 아니다”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CGDAEI77DFPVBHTYY5OBJ7DU5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 18일 서울 중구 서울시의회에서 열린 제333회 정례회 시정질문에 참석, 세운4구역 재개발과 관련된 자료를 들고 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 열린 333회 서울시의회 정례회 시정질문에서 국민의힘 김규남 시의원의 관련 질의에 세운4구역 재개발 예상도를 공개하며 이같이 말했다.&lt;br&gt;&lt;br&gt;이날 오 시장은 종묘 정전에서 세운지구가 있는 남쪽을 바라봤을 때의 예상도를 공개했다. 예상도 왼쪽에 세운지구 건물이 들어서 있는 모습이다.&lt;br&gt;&lt;br&gt;앞서 서울시는 지난달 30일 세운4구역의 높이 기준을 종묘 쪽은 55m에서 98.7m로, 청계천 쪽은 71.9m에서 141.9m로 완화했다. 이를 두고 국가유산청은 “세계유산법에 근거한 세계유산영향평가를 받아야 한다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;오 시장은 “이 그림이 종로변에 100m가 약간 안 되게, 청계천변에 150m가 약간 안 되는 높이로 지어질 때의 모습”이라며 “정전에 섰을 때 눈이 가려지느냐, 숨이 턱 막히느냐, 기가 눌리느냐”라고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 10일 김민석 국무총리는 종묘를 찾아 “종묘 바로 코앞에 고층 건물이 들어서면 종묘에서 보는 눈을 가리고, 숨을 막히게 하고, 기를 누르게 하는 결과가 되는 게 아닐까 하는 걱정이 든다”고 했는데, 이를 인용해 되물은 것이다.&lt;br&gt;&lt;br&gt;오 시장은 또 “총리는 국무조정실이 있어 부처 이기주의나 부처 간 갈등이 있을 때 이를 조정해야 한다”며 “왜 극한 갈등 국면에 오히려 화력을 보태는지 이해할 수 없었다. 지금이라도 대화와 토론을 통해 해결하길 원한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>촬영 중 쓰러진 김수용...귓불 사선 주름 ‘프랭크 징후’ 주목</title>
