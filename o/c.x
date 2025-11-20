@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부, ‘AI 석학’ 조경현 교수 등 우수인재들에 한국 국적 부여</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/20/J3AJXIPZ3BDDNA3PCHAXJVIJIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/J3AJXIPZ3BDDNA3PCHAXJVIJIY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 10:06:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AR3ETVOIBBEHLMJ3SKZN66STVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 조경현 뉴욕대 교수, 레자니아 샤하발딘 세종대 부교수, 푸다모아즈 선수. 법무부는 이들에게 대한민국 국적을 부여했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 ‘인공지능(AI) 석학’으로 꼽히는 조경현(40) 뉴욕대 교수 등 우수인재 21명이 한국 국적을 부여받았다.&lt;br&gt;&lt;br&gt;법무부는 20일 이진수 차관을 위원장으로 하는 국적심의위원회를 열고 과학·문화·체육 등 분야에서 탁월한 능력을 보유한 우수인재 21명에게 한국 국적을 부여하기로 했다고 밝혔다. 이중 특별귀화는 13명이고, 나머지 8명은 한국 국적을 잃었다가 이번에 회복하게 된 사례다.&lt;br&gt;&lt;br&gt;한국계 미국인인 조 교수는 카이스트 전산학과를 졸업한 후 핀란드 알토대에서 AI 전공으로 석·박사를 마친 뒤 신경망 기계 번역 알고리즘을 개발했다. 조 교수는 작년부터 2년 연속 ICLR(국제표현학습학회)에서 논문상을 수상하는 등 세계적인 AI 전문가로 꼽힌다. 2021년에는 국내 최고 권위 학술상인 ‘삼성호암상’ 공학상을 받았다.&lt;br&gt;&lt;br&gt;레자니아 샤하발딘(42) 세종대 부교수도 국적 부여 명단에 포함됐다. 샤하발딘 교수는 이란 출신으로 서울대와 세종대에서 박사후연구원 과정을 마치고 2019년부터 세종대에서 환경에너지공간융합학 교수직으로 재직하고 있다. 그는 글로벌 학술 정보 분석기관에서 발표한 세계 상위 2% 연구자 명단에 2020년부터 6년 연속 선정됐고, 지난해에는 세계 상위 1% 연구 자료 인용 연구자에도 선정됐다.&lt;br&gt;&lt;br&gt;체육 분야에서는 전국체전에서 레슬링 금메달을 딴 이집트 국적 푸다모아즈 아흐메드 압둘할림 나비하마드(21) 선수가 특별귀화 명단에 이름을 올렸다. 푸다모아즈 선수는 한국에서 나고 자랐지만 부모의 국적이 모두 한국이 아니어서 그동안 한국 국적을 얻지 못했다. 우리나라 국적법은 혈통주의를 기본 원칙으로 한다.&lt;br&gt;&lt;br&gt;우수인재 국적 부여 제도는 특정 분야에서 뛰어난 능력을 가져 국익에 기여할 것으로 인정되는 외국인에게 한국 국적을 부여하는 제도다. 2011년부터 시행돼 현재까지 총 428명이 한국 국적을 받았다.&lt;br&gt;&lt;br&gt;분야별로는 이공계 인재가 230명으로 절반이 넘고, 신산업·첨단기술(67명), 인문사회(60명) 순이다. 국적별로는 미국이 205명으로 가장 많고, 베트남(47명)과 중국(37명)이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 경찰, 이진숙 전 방송통신위원장 불구속 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/20/RXWRL4IBUFAUVJUYBQO2A3HCD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/RXWRL4IBUFAUVJUYBQO2A3HCD4/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 09:30:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DIYZZGEZTMYJXGE3DOMBZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 공직선거법 위반 등 혐의를 받는 이진숙 전 방송통신위원장을 불구속 상태로 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;서울 영등포경찰서는 지난 19일 국가공무원법과 공직선거법 위반 등 혐의를 받는 이진숙 전 방송통신위원장을 검찰에 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;이 전 위원장은 지난해 9월 한 보수 성향 유튜브에 출연해 정치적으로 편향된 발언을 하거나 사전 선거 운동을 한 혐의로 지난달 2일 자택에서 체포됐다. 구금 상태에서 두 차례 경찰 조사를 받았고, 지난 4일 체포적부심사를 거쳐 법원 명령으로 석방됐다.&lt;br&gt;&lt;br&gt;이후 이 전 위원장은 수사 책임자들을 직권남용 혐의로 검찰에 고발했다. 하지만 경찰은 법과 원칙에 따라 수사를 진행했다는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘시험점수 불만에’…아주대생, 조교에 커터칼 휘둘러 체포</title>
+      <link>https://www.chosun.com/national/incident/2025/11/20/CWXJCJBKBJFQJMIF33O4AXMNWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/20/CWXJCJBKBJFQJMIF33O4AXMNWA/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 09:20:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시험 채점 결과에 불만을 품은 아주대 학생이 조교에게 흉기를 휘둘러 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 수원영통경찰서는 20일 특수상해 및 특수재물손괴 혐의로 아주대학교 재학생 A씨를 현행범으로 체포해 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 3시 10분쯤 수원시 영통구 아주대 캠퍼스 내 한 건물에서 조교 B씨에게 커터칼을 휘둘러 갈비뼈 부위를 베이게 한 혐의를 받고 있다. B씨는 응급처치를 받았으며 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 조교를 공격하기 직전에는 교수 연구실에 들어가 가운을 찢는 등 소란을 피운 것으로 조사됐다. 경찰 조사에서 그는 “시험 채점 결과가 불만스러웠다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 범행 경위와 추가 피해 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>광고주협·온신협, 가짜뉴스 근절 위해 손잡았다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/20/76PUPTNUZRCGZMB6QZ75BYK3CM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/76PUPTNUZRCGZMB6QZ75BYK3CM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 09:26:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGWHYVK565HWTKRPH7ZUTOB6LI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국광고주협회-한국온라인신문협회가 업무 협약(MOU)을 체결하고 있다. 왼쪽부터 노승만 한국광고주협회 회장, 박학용 한국온라인신문협회 회장. /한국광고주협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국광고주협회가 20일 한국온라인신문협회와 ‘가짜뉴스 근절과 신뢰할 수 있는 콘텐츠 유통 환경 조성’을 위한 업무협약(MOU)을 체결했다. &lt;br&gt;&lt;br&gt;이번 협약에 따라 양 기관은 ▲가짜 뉴스 및 허위 정보 대응을 위한 공동 모니터링 체계 구축 ▲검증된 콘텐츠 확산을 위한 자율 규범 및 검증 기준 마련 ▲공동 캠페인, 세미나, 교육 프로그램 등 인식 제고 활동 ▲디지털 콘텐츠의 신뢰성 강화를 위한 시상 제도를 신설·운영하는 등 다양한 협력 방안을 추진하기로 했다.&lt;br&gt;&lt;br&gt;특히 광고주협회가 주관하는 ‘KAA 어워즈’에 ‘디지털 콘텐츠상’을 신설하기로 했다.온라인신문협회는 후보작 추천과 심사 기준 수립을, 광고주협회는 광고주의 브랜드 관점에서 콘텐츠의 가치 평가와 심사위원단 구성을 맡는다.&lt;br&gt;&lt;br&gt;양 기관은 향후 정기 실무협의체를 구성해 협력 방안을 구체화하고, 공동 세미나와 캠페인을 통해 ‘신뢰 기반의 콘텐츠 유통 문화’ 확산에 나설 예정이다.&lt;br&gt;&lt;br&gt;노승만 한국광고주협회 회장은 “이번 협약을 계기로 검증된 뉴스 콘텐츠 확산을 통해 가짜뉴스를 근절하고, 이를 기반으로 건강한 광고 생태계 조성에 적극 앞장서겠다”고 했다. &lt;br&gt;&lt;br&gt;박학용 한국온라인신문협회 회장은 “가짜뉴스 근절과 신뢰할 수 있는 뉴스 유통은 언론의 사회적 책임이자 공익적 과제”라며 “광고주협회와의 협력을 통해 건강한 디지털 저널리즘 생태계를 만들어가겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3년간 아들 학대해 살해한 친모, 2심도 징역 25년</title>
+      <link>https://www.chosun.com/national/regional/2025/11/20/FB4Z5V2DVJH7RGZI5LMDOV5QVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/20/FB4Z5V2DVJH7RGZI5LMDOV5QVM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 09:09:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 아들을 3년간 학대하다 살해한 혐의로 기소된 40대 친모가 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;부산고법 형사1부(재판장 김주호)는 20일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 등 혐의로 기소된 40대 여성 A씨에 대한 항소심 선고 공판에서 “공소사실은 모두 유죄로 인정되며, 양형도 원심에서 적정하게 적용했다”며 항소를 기각했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월부터 올 1월까지 이웃 주민 B씨와 함께 10대 아들 C군을 수차례 학대해 숨지게 한 혐의를 받는다. A씨는 일주일에 2~3회씩 나무 막대기로 C군을 폭행한 것으로 조사됐다. C군은 지난 2023년 폭행으로 급성 심부전증을 앓은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 C군이 사망하기 하루 전인 지난 1월 3일 오후 6시쯤 B씨와 통화하며 “죽자고 때려 정신을 차리게 하겠다”고 말했고, B씨는 “묶어라, 정말 반 죽도록 해야 된다”고 했다. 이후 A씨는 C군의 팔과 다리를 묶고 입을 테이프로 막은 뒤 7시간 동안 폭행을 가했다. A씨는 폭행 과정에서 C군의 허벅지와 무릎에 뜨거운 물을 붓는 등 가혹 행위도 했다. 다음 날 오전 1시쯤 C군이 몸이 늘어지는 등 증상을 보였으나 A씨는 이를 방치했다. C군은 결국 같은 날 오전 3시쯤 외상성 쇼크로 사망했다.&lt;br&gt;&lt;br&gt;한편 B씨도 현재 구속 기소돼 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2025 학교체육 대상 시상식 개최... 5개 분야 14개 부문 수상</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/20/HWYXCFP6AFB6DMI27VA7W3DTIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/HWYXCFP6AFB6DMI27VA7W3DTIY/</guid>
+      <dc:creator>장민석 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 08:36:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7OBXHSGINCDFOSDAELNIPKEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 학교체육 대상 수상자. / 스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 학교체육 대상 시상식이 20일 서울 중구 한국프레스센터에서 열렸다. &lt;br&gt;&lt;br&gt;2016년 교육부와 학교체육진흥회, 스포츠조선이 제정한 이 시상식은 올해 10회째를 맞았다. 올해는 역대 최다 규모인 110개교가 공모에 참가했다.&lt;br&gt;&lt;br&gt;이번 시상식은 체육 수업, 학교 스포츠 클럽, 학교 운동부, 특수 체육 교육, 여학생 축구 활성화 등 5개 분야 14개 부문(개인 12, 단체 2)으로 나눠 공모작 심사를 거친 뒤 가장 뛰어난 성과를 낸 교사와 학교를 선정해 교육부장관상(7개)과 주관단체장상(4개), 후원단체장상(3개)을 각각 수여했다.&lt;br&gt;&lt;br&gt;체육 수업 분야에서는 소유영(천안일봉초)·박양경(외솔중) 교사가 대상인 교육부장관상을 받는 영예를 안았다. 정용주(구미인덕초)·김민철(경기과학고) 교사는 최우수상을 수상했다. &lt;br&gt;&lt;br&gt;학교 스포츠 클럽 분야에서는 정진홍(영만초)·성강해(아산배방중) 교사가 대상의 주인공이 됐고, 문준기(성연초)·이휘재(선주고) 교사가 최우수상을 받았다.&lt;br&gt;&lt;br&gt;학교 운동부 분야에서는 유정현(신광중)·박태준(상문고) 교사가 각각 대상과 최우수상의 영예를 안았다.&lt;br&gt;&lt;br&gt;특수 체육 교육 분야에서는 이한숙(문흥초)·소대영(대구이룸고) 교사에게 각각 통합, 특수 부문 대상이 돌아갔다. &lt;br&gt;&lt;br&gt;여학생 축구 활성화 분야에서는 침산초와 불로중이 각각 초등, 중등 부문 대상(대한축구협회장상)을 받았다.&lt;br&gt;&lt;br&gt;각 분야 대상 수상자에게는 상패와 상금 100만원, 최우수상 수상자에게는 주관·후원단체장상 및 상금 50만원이 수여됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘검찰 복귀’ 3대 특검 검사 12명 중 김건희 특검이 9명</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/20/XRMLYLDKZRCSRAR6VUEX6QIOUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/XRMLYLDKZRCSRAR6VUEX6QIOUU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 20 Nov 2025 08:19:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGKY3GG44WKMJSHAYGGYTFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 KT빌딩에 마련된 김건희 특검팀 현판 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 3대 특검(김건희·내란·해병)에 파견됐던 검사 12명이 최근 검찰로 복귀한 것으로 20일 확인됐다.&lt;br&gt;&lt;br&gt;이 가운데 김건희 특검 파견 검사는 40명 중 9명이 복귀했다. 파견 인원의 4분의 1이 빠져나간 것이다. 3대 특검 중 복귀 인원이 가장 많다. 내란 특검에서는 56명 중 2명, 채상병 특검에서는 16명 중 1명의 파견 검사가 검찰로 돌아갔다.&lt;br&gt;&lt;br&gt;최근 정부가 검찰의 수사·기소 분리를 포함한 정부조직법 개편안을 공포한 뒤, 특검에서 수사·기소·공소유지를 모두 맡고 있는 파견 검사들 사이에서 “검찰로 복귀하겠다”는 목소리가 나왔다. &lt;br&gt;&lt;br&gt;김건희 특검에 파견된 검사 40명 전원은 지난 9월 민중기 특검에게 원대 복귀 의사를 공식 전달한 바 있다. 내란 특검의 일부 파견 검사들도 복귀를 논의한 것으로 알려졌다. 법조계에서는 오는 11월 말에서 12월 초 사이에 파견 검사들이 대거 복귀할 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>태인 체육장학금 수여식 개최...올해도 62명 장학생 선발</title>
       <link>https://www.chosun.com/national/people/2025/11/20/YMEDY7MSINELTKBWV65ZHYNI6M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/20/YMEDY7MSINELTKBWV65ZHYNI6M/</guid>
@@ -836,15 +899,6 @@
       <content:encoded>한국 정부가 미국계 사모펀드 론스타와의 국제투자분쟁(ISDS) 취소절차에서 승소할 수 있었던 이유는 원 판정에서 적법한 절차가 지켜지지 않았기 때문이라고 법무부가 19일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DCMJRMI2TKMRQMFSDOYTEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정홍식 법무부 국제법무국장이 19일 오후 경기도 과천시 중앙동 정부과천청사 내 법무부 청사에서 론스타 ISDS 취소 결정 선고 관련 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부 정홍식 국제법무국장은 이날 정부과천청사에서 진행된 브리핑에서 지난 18일 나온 국제투자분쟁해결센터(ICSID) 취소위원회의 판정 경위와 진행 과정을 자세히 밝혔다. &lt;br&gt;&lt;br&gt;정 국장은 “원 중재판정부가 대한민국이 당사자로 참여하지도 않은 하나금융과 론스타 간 국제상업회의소(ICC)의 국제상사중재 판정문을 주요 증거로 채택해 정부의 변론권 및 반대신문권을 박탈했다”며 “원 판정에는 ‘근본적 절차규칙의 중대한 위반’이 있음을 강력히 주장했다”고 설명했다.&lt;br&gt;&lt;br&gt;또 정부 측은 원 판정이 금융위원회가 2012년 하나금융 매각승인을 지연한 것이 자의적인 권한행사에 해당한다고 본 부분에 대해 “금융위의 위법행위가 특정되지 않았다”고 주장했다. 일부 주요 쟁점에 대해 중재판정부의 모순이 있다고도 했다.&lt;br&gt;&lt;br&gt;양측은 작년 4월부터 12월까지 서면 공방을 이어갔고, 지난 1월엔 영국 런던에서 사흘 간 열린 구술심리에 참여했다. 구술심리엔 한국 정부 측 관계자 10여 명이 참석했다. 심리에 참여한 권정우 공익법무관은 “모든 관계자들이 잠을 이루지 못할 정도로 많이 집중했다”며 “굉장히 짧고 힘든 기간이었지만 덕분에 이런 성과를 낼 수 있었다”고 소감을 밝혔다.&lt;br&gt;&lt;br&gt;취소위원회는 지난 9월 모든 절차를 종결한 뒤 약 2개월 만인 지난 18일 한국 정부의 손을 들어줬다. 취소 절차에 든 소송 비용 73억여 원도 론스타 측에 내라고 했다. 정 국장은 “론스타 측에 비용 지급을 요구하는 서신을 보내고, 지급하지 않을 시 강제집행 절차를 진행할 생각”이라고 했다.&lt;br&gt;&lt;br&gt;정 국장은 분쟁 절차에 참여한 검사들의 역할도 강조했다. 정 국장은 “이번 사건에선 13년 동안 거쳐 갔던 10여 명의 검사들을 주축으로 한 대응팀의 역할이 가장 컸다”며 “검사는 ‘정부 변호사’로서 소송전략 수립, 증거 수집 및 검토 국외 재판 참여 등 정부를 대리하는 로펌과 함께 사건을 직접 수행해 왔다”고 했다. 이어 “지난 2년 간 10여 명 남짓한 검사들과 부대끼며 일해보니 검사들은 국가와 국민을 위한 아주 소중한 공공(公共)이라는 생각을 갖게 됐다”며 “검사들이 국익 수호와 국고 유출 방지에도 전념하고 있음을 알아주기 바란다”고 했다. &lt;br&gt;&lt;br&gt;론스타 사건에 참여한 양준열 검사는 가장 어려웠던 점으로 미 워싱턴DC와의 시차를 꼽았다. 양 검사는 “ICSID가 있는 워싱턴DC 시간으로 각종 회의나 자료 제출 기한 등이 정해지기 때문에 한국에선 주로 새벽 시간대였다”면서 “밤 늦게 대기하는 경우도 많고, 항상 긴장을 늦출 수 없었다”고 했다. 조아라 국제투자분쟁과장은 “국내법에 명시된 절차를 취소위원회에 어떻게 전달하느냐가 생각보다 어려웠다”며 “이를 테면 ‘공소장 변경’ 같은 절차가 해외에도 있는지, 있다면 이를 뭐라고 말하는지를 설명하는 데 품이 많이 들었다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 론스타의 향후 행보를 주시하겠다는 방침이다. 앞서 론스타는 취소위원회 판정이 나온 후 새로운 소송 제기를 검토하겠다고 입장을 밝혔다. 이에 대해 정 국장은 “원 청구범위(약 6조9000억원)에 대해 제기하겠다는 건지, 이번에 취소된 4.6%에 대해서 하겠다는 것인지 명확치 않지만, 6조9000억원에 대해 제기한다면 조기각하를 신청할 수 있다”며 “각하 신청이 받아들여지면 소송비도 론스타 측이 부담해야 해 제기할 실익이 전혀 없다”고 했다. &lt;br&gt;&lt;br&gt;론스타는 2003년 9월 금융감독위원회(현 금융위원회)의 승인을 받아 외환은행을 약 1조4000억원에 인수했다. 이후 여러 회사와 매각 협상을 벌인 론스타는 2012년 하나금융에 외환은행을 매각해 약 4조7000억원(배당 포함)을 벌었다.&lt;br&gt;&lt;br&gt;이 과정에서 론스타는 한국 정부가 외환은행 매각 과정에 부당하게 개입해 46억7950만달러(약 6조9000억원)의 손해를 봤다며 2012년 11월 ICSID에 국제 중재를 제기했다. 론스타 측은 외환은행 매각 과정에서 한국 금융 당국이 매각 승인을 고의로 지연시켰고, 매각 대금을 인하하는 등 부당하게 개입했다고 주장했다.&lt;br&gt;&lt;br&gt;중재 판정부는 중재 제기 10년 만인 2022년 8월 론스타 측 청구를 일부 인용해 한국 정부에 손해배상금의 4.6%인 2억1650만달러(2890억여 원)를 지급하라고 판정했다. 판정부는 론스타가 외환은행을 하나금융에 매각할 때 정부가 늦게 승인한 것을 자의적 권한행사라고 봤다. 이후 양측이 이같은 판정에 불복해 취소 절차가 진행됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>서울 지하철 파업 수순… 1노조, 찬반투표서 84% 찬성률로 가결</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/19/4UGJPCACKVGXVEI7EBP3MTQERI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/4UGJPCACKVGXVEI7EBP3MTQERI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 08:04:16 +0000</pubDate>
-      <content:encoded>서울 지하철 1~8호선을 운영하는 서울교통공사의 1노조인 민주노총 산하 서울교통공사노동조합이 쟁의행위 찬반 투표를 진행한 결과 약 84%의 찬성률로 가결됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5XMYQHM4LR7QLOXXUJUA26PSBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 4일 서울 지하철 2호선 시청역에서 시민들이 지하철을 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사노동조합은 지난 14일부터 진행한 쟁의행위 찬반 투표 결과 찬성률 83.53%로 가결됐다고 19일 밝혔다. 1노조에 따르면, 이번 투표에는 전체 조합원 9130명 중 89%인 8087명이 참여했다. 이 중 6755명이 찬성표를 던졌다. 반대는 1319표였다.&lt;br&gt;&lt;br&gt;앞서 공사 2노조인 한국노총 소속 서울교통공사통합노조도 지난 14일부터 17일까지 쟁의행위 찬반 투표를 실시했다. 77.97%가 찬성해 가결됐다.&lt;br&gt;&lt;br&gt;이른바 ‘MZ노조’로 불리는 3노조 올바른노조는 21일까지 찬반 투표를 한다.&lt;br&gt;&lt;br&gt;1노조는 회의를 거쳐 오는 25일 기자회견을 열고 총파업 일자와 투쟁 방침 등을 발표한다는 계획이다.&lt;br&gt;&lt;br&gt;서울교통공사와 각 노조는 임금 인상과 신규 채용 규모 등을 놓고 교섭했지만 합의에 이르지 못했다. 각 노조는 교섭 결렬을 선언하고 쟁의행위 준비에 들어갔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>스타벅스서 전동휠 충전하는 손님...“전기차도 가져오겠네”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/19/OLZ5OOLIZFGTRECKJGETUH5MFU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/OLZ5OOLIZFGTRECKJGETUH5MFU/</guid>
@@ -854,29 +908,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W62OGFTGA5COLHK5WLMVDRIBOI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 스타벅스 이용객이 자리에서 전동휠을 충전하고 있다./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 손님이 스타벅스 매장에서 전동휠을 매장 콘센트에 꽂아 충전하는 모습이 포착돼 논란이 되고 있다. &lt;br&gt;&lt;br&gt;19일 한 온라인 커뮤니티에는 ‘스타벅스서 전동 휠 충전 포착, 충전은 어디까지?’라는 제목의 글과 함께 사진이 올라왔다. &lt;br&gt;&lt;br&gt;작성자 A씨는 “스벅에서 충전은 어디까지 할 수 있는 거냐”며 “전동휠 실내 충전은 너무 위험해 보인다”고 적었다.&lt;br&gt;&lt;br&gt;공개된 사진에는 매장 창가 테이블 아래 콘센트에 전동 휠 충전기가 꽂혀 있는 모습이 담겼다. 일부 네티즌은 “이런 사람들 때문에 모두 피해 본다” “절도나 다름없다” “조만간 선 가져와 전기차도 충전하겠네” 등의 비판적인 반응을 보였다. 다만 부피도 크지 않을 뿐더러 개인 휴대전화나 노트북을 충전하는 것과 차이가 없다는 의견도 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ECOZCJ5IZHWPOJWTEL6C4COGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;온라인에 올라온 스타벅스 '민폐' 이용 사례들. 칸막이를 쳐놓고 장시간 자리를 비우거나 프린터기를 연결해 사용했다. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카페에서 개인 전자기기를 들고 와 공부하거나 업무를 보는 ‘카공족’이 논란이 된 건 이번만이 아니다. 지난 6월 한 손님이 스타벅스 매장에서 개인용 칸막이를 세워두고 긴 시간 자리를 비워 논란이 됐다. 2023년 4월에도 국내 한 스타벅스 매장에 노트북과 사무용 모니터를 올려놓고 작업하는 손님의 모습이 공개됐다. 당시 이 손님은 두 테이블에 노트북과 모니터를 펼쳐 놓았고, 멀티탭까지 연결해 전기를 사용했다. &lt;br&gt;&lt;br&gt;결국 스타벅스는 지난 8월 매장 내 개인용 데스크톱과 프린터, 멀티탭, 칸막이 등의 사용을 제한하는 조치를 내렸다. 테이블 위에 개인 물품을 두고 장시간 자리를 비우거나, 다인석을 한 명이 독차지하는 행위도 다른 고객의 편의를 위해 금지했다. 스타벅스는 관련 안내문을 매장에 게시하고 금지 행위를 하는 고객에게는 매장 파트너(직원)가 직접 알리도록 했다.&lt;br&gt;&lt;br&gt;지난달에는 외부 음식 취식을 금지하는 조치도 내렸다. 스타벅스는 ‘외부 음식 취식 제한’ 안내문을 통해 “매장 내 외부 음식(푸드나 음료) 취식은 어렵다. 매장 내에서는 준비된 메뉴를 이용해 달라”라고 공지했다. 다만 유아의 이유식 섭취는 허용했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세]  11월 20일 목요일 (음력 10월 1일 癸巳)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/19/MMHNKVRENFHZXFFIQQN32KBAPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/MMHNKVRENFHZXFFIQQN32KBAPE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>제주항공 참사 공청회 예고… 유가족 “피해자 배제 독단적 강행” 반발</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/19/N3VCPUX4GVD57K5BAALMYZOIRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/19/N3VCPUX4GVD57K5BAALMYZOIRY/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 07:49:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSB37UBMDZN3XGPFFK2DFGOF7Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 6일 오후 전남 무안군 무안국제공항 활주로에서 12·29 무안공항 제주항공 여객기 참사 유가족협의회가 참사 희생자들의 넋을 위로하는 유등을 들고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항공철도사고조사위원회(항철위)가 12·29 제주항공 여객기 참사 공청회를 예고하자 유가족들이 “독단적 강행”이라며 반발하고 있다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회(이하 유가족협의회)는 19일 “국토교통부 소속 항철위가 사전 정보 공개 및 유가족과 협의 없이 공청회를 독단적으로 강행하려는 시도를 강력히 규탄한다”고 밝혔다.&lt;br&gt;&lt;br&gt;항철위는 내달 4~5일 서울 글로벌센터 국제회의장에서 중간 조사 결과 발표 성격의 12·29 제주항공 여객기 참사 사고 조사 공청회를 연다. 공청회는 12단계 항공기 사고 조사 절차 중 8단계 과정으로, 현재까지 조사한 사실관계 확인과 기술적 검증을 하는 절차다.&lt;br&gt;&lt;br&gt;유가족협의회는 “항철위 조사 결과를 믿을 수 없다”는 입장이다. 이들은 “항철위는 조사 대상인 국토부 산하 기관이라는 태생적 한계로 독립성에서 지속적인 문제를 노출했다”며 “정보 비공개, 일방적인 절차 진행, 비행기 잔해 증거물 방치, 현장 사진 촬영 금지 등 공정성 측면에서도 피해 당사자를 철저히 배제했다”고 지적했다.&lt;br&gt;&lt;br&gt;유가족협의회는 항철위가 국토부에서 독립할 때까지 모든 사고 원인 조사 활동의 잠정 중단을 요구했다. 또 유가족들에게 모든 정보를 투명하게 공개할 것도 요구했다.&lt;br&gt;&lt;br&gt;유가족협의회는 “이번 공청회 강행은 부실하고 편향된 조사 결과에 대한 면죄부를 얻기 위한 형식적 절차”라며 “항철위가 독립해 투명하고 공정한 조사를 할 수 있는 환경이 조성될 때까지 공청회, 중간보고 등 일체의 조사 활동을 즉시 잠정 중단할 것을 요구한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/OSB37UBMDZN3XGPFFK2DFGOF7Q.jpg?auth=7d06a4d70460f46a2c879aaec4653ee033772a6b21a0d3da98fcecdf2ef91f5f&amp;smart=true&amp;width=4992&amp;height=3329" type="image/jpeg" height="3329" width="4992">
-        <media:description type="plain">지난 10월 6일 오후 전남 무안군 무안국제공항 활주로에서 12·29 무안공항 제주항공 여객기 참사 유가족협의회가 참사 희생자들의 넋을 위로하는 유등을 들고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">LYJ</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>포스텍 철학과 교수, “수능 국어 17번 정답 없어” </title>
       <link>https://www.chosun.com/national/education/2025/11/19/BM7ONVXO65HI7ASPVHUTXW7XZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/19/BM7ONVXO65HI7ASPVHUTXW7XZQ/</guid>
@@ -884,15 +915,6 @@
       <description/>
       <pubDate>Wed, 19 Nov 2025 07:32:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EO36DLTIHBAK3FGWCH76UBN44I.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;/한국교육과정평가원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWKOBQGMYTCYRSGE4WKMRWGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/한국교육과정평가원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 2026학년도 수능 국어 영역에 오류 문항이 있다는 주장이 나왔다.&lt;br&gt;&lt;br&gt;19일 교육계에 따르면 이충형 포스텍 철학과 교수는 한 수험생 커뮤니티 게시판에 ‘국어 17번 문제 제기’라는 제목의 글을 통해 “수능 국어 시험에 칸트 관련 문제가 나왔다고 하기에 풀어 보았는데 17번 문항에 답이 없어 보였다”고 주장했다. &lt;br&gt;&lt;br&gt;이번 수능 국어 영역의 고난도 문항으로 꼽히는 17번은 독일 철학자 임마누엘 칸트의 인격 동일성에 관한 견해를 담은 지문을 읽고 푸는 문제였다. 두뇌에서 일어나는 의식을 스캔해 프로그램으로 재현한 경우, 본래의 자신과 재현된 의식은 동일한 인격이 아니라는 ‘갑’의 주장을 제시한 뒤 이를 이해한 반응으로 가장 적절한 것을 찾으라는 문제였다. &lt;br&gt;&lt;br&gt;한국교육과정평가원이 정답으로 제시한 3번은 ‘칸트 이전까지 유력했던 견해에 의하면 생각하는 나의 지속만으로는 인격의 동일성을 보장하지 않는다는 갑의 입장은 옳지 않겠군’이다.&lt;br&gt;&lt;br&gt;그러나 이충형 교수는 글을 통해 3번이 정답이 될 수 없다고 주장했다. &lt;br&gt;&lt;br&gt;지문엔 ‘칸트 이전까지 인격의 동일성을 설명하는 유력한 견해는 생각하는 나인 영혼이 단일한 주관으로서 시간의 흐름 속에 지속한다는 것이었다’는 문장이 나온다. 그런데 스캔 프로그램으로 의식이 재현되면 ‘단일한 주관’이라는 조건을 충족하지 않기 때문에, ‘생각하는 나의 지속만으로는 인격의 동일성을 보장하지 않는다’는 갑의 입장은 옳다는 게 이 교수의 주장이다. &lt;br&gt;&lt;br&gt;또 이 교수는 “개체 a와 b 그리고 속성 C에 대해 ‘a=b이고 a가 C면, b도 C다’를 통해 풀 수 있는 문제라 생각할 수 있지만, 이 풀이는 실제로는 잘못된 풀이”라고 했다. “갑은 ‘생각하는 나’에 대해서 말하고 있지 영혼에 대해서는 말하고 있지 않아서, ‘생각하는 나’와 영혼의 연결 고리가 필요하다”며 “지문에 등장하는 이 둘의 유일한 연결 고리는 ‘생각하는 나인 영혼’이라는 표현인데, 이는 지문과 보기 어디에도 나오지 않는다”고 했다. 논증을 간단하게 적용할 수 있는 게 아니란 것이다. &lt;br&gt;&lt;br&gt;수능 이의 신청은 지난 17일까지였다. 해당 문항에 대한 이의 신청은 10여 건 접수됐다. 평가원은 25일 최종 정답을 확정해 발표한다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주류 경고 문구 글자 크기 내년 9월부터 더 커진다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/11/19/CKEB4O5Q4FDBPAMEGA7KFMHNG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/19/CKEB4O5Q4FDBPAMEGA7KFMHNG4/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 07:35:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7Z74Z2MZJFJHJ7TSLRSBXI2LA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘경고: 지나친 음주는 뇌졸중, 기억력 손상이나 치매를 유발합니다. 임신 중 음주는 기형아 출생 위험을 높입니다.’&lt;br&gt;&lt;br&gt;이렇게 술병에 적힌 경고문 글자 크기가 내년 9월부터 확대된다. 문구 크기를 확대해 음주가 개인의 건강과 사회에 미치는 폐해에 대한 경각심을 키우자는 취지다. &lt;br&gt;&lt;br&gt;19일 보건복지부는 이런 내용의 국민건강증진법 시행규칙 일부 개정령안을 입법 예고했다고 밝혔다. &lt;br&gt;&lt;br&gt;이번 개정령안은 지난 3월 건강증진법 개정의 후속 조치다. 현재 술병에는 지나친 음주의 건강상 폐해와 임신 중 음주의 위험성에 대한 경고 문구만 표기돼 있는데, 법 개정으로 음주운전 내용이 추가됐다. 개정 법이 내년 3월 시행되는데, 동시에 전체 문구의 글자 크기도 키우기로 한 것이다. &lt;br&gt;&lt;br&gt;현재 경고문 글자 크기는 술병 용량 300mL 미만은 7포인트 이상, 300mL 이상은 9포인트 이상이다. 그런데 앞으론 300mL 이하는 10포인트 이상, 300mL 초과 500mL 이하는 12포인트 이상, 500mL 초과 1L 이하는 16포인트 이상, 1L 초과는 18포인트 이상으로 표시해야 한다. 용량별로 기준을 세분화하고 글자도 키운 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이동욱 경기의사회장, 응급실 뺑뺑이 사망 부산 고교생에 “병원들이 응급 조치 해 줬어야”</title>
@@ -913,15 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42TINBYMFSDQMRYHEZGMZRSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 19일 한덕수 전 국무총리의 내란 방조 혐의 등 사건 재판에 증인으로 출석한다. 변호인단은 이날 오후 3시쯤 “윤 전 대통령이 오후 4시 변호사 동석 하에 증인으로 법정에 출정할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한 전 총리 사건을 심리하는 서울중앙지법 형사33부(재판장 이진관)는 앞서 이날 오후 4시 윤 전 대통령을 증인으로 소환하면서 만일 출석하지 않으면 강제로 법정에 데려오는 구인영장을 집행하겠다고 예고했었다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 지난 5일 재판에 한 차례 증인으로 소환됐으나 불출석했고 과태료 500만원을 부과받았다. 이날 재판에도 건강 문제를 이유로 불출석 사유서를 제출하고 나오지 않겠다는 의사를 밝혔다가 입장을 바꿔 출석하기로 한 것이다. &lt;br&gt;&lt;br&gt;한편, 이날 윤 전 대통령의 배우자 김건희 여사는 같은 법원 형사27부(재판장 우인성)에서 열린 자신의 자본시장법·정치자금법 위반 등 사건에 출석해 재판을 받던 중 어지럼증을 호소해, 법정 뒤쪽 대기실에서 휠체어 형태의 들것에 기대고 앉아 재판에 참석하도록 조치됐다.&lt;br&gt;&lt;br&gt;이날 김 여사 재판에선 법원에 제출된 수사기록 등 문서를 법정에서 확인하는 서증 조사가 이뤄졌다. 김 여사 측 변호인은 건진 법사 청탁 의혹 관련한 서증 조사를 진행하던 중 재판부에 “피고인이 오전에 출정할 때도 어지러워서 몇 번 넘어졌다던데 지금 상태가 안 좋은 것 같다”며 “돌려보내면 어떨까 한다”고 요청했다. &lt;br&gt;&lt;br&gt;이후 김 여사는 오후 2시 50분쯤 휠체어 형태의 들것에 실려 법정 뒤쪽 구속피고인 대기실로 이동했다. 김 여사는 지난 7일 재판 중에는 건강 이상을 호소하며 퇴정했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>푸른줄까마귀왕나비 등 열대·아열대 곤충 25종 국내 첫 발견</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/19/VASWP42Q3NHSZCGJDESOQJTYW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/19/VASWP42Q3NHSZCGJDESOQJTYW4/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 05:21:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGLEUEOLY5LOZCQYHHA7FJVUII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립호남권생물자원관은 2021년부터 2024년까지 국내 섬에서 새로 발견된 곤충 절반 이상이 '열대·아열대 곤충'인 것으로 나타났다고 19일 밝혔다. 사진은 거제도에서 나타난 푸른줄까마귀왕나비의 모습. /국립호남권생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 국내 섬에서 새로 발견된 곤충 가운데 절반 이상이 ‘열대·아열대 곤충’인 것으로 나타났다. 한반도가 온대 기후에서 열대·아열대 기후로 빠르게 변화하고 있다는 방증이다.&lt;br&gt;&lt;br&gt;국립호남권생물자원관은 2021년부터 2024년까지 ‘섬·연안 생물자원 조사·발굴 연구’ 등으로 국내 섬에서 찾아낸 미기록 곤충 45종 중 25종이 열대·아열대성 곤충이라고 19일 밝혔다. 나머지 20종은 온대·냉대성 곤충이었다.&lt;br&gt;&lt;br&gt;‘미기록종’이란 다른 나라에 서식하는 것은 알려졌지만, 국내에선 처음 발견된 종을 말한다.&lt;br&gt;&lt;br&gt;새로 발견된 열대·아열대성 곤충은 제주에서 확인된 닮은모래가는납작벌레, 거제도에서 나타난 푸른줄까마귀왕나비 등으로 원래 일본 오키나와나 인도 등 적도에 가까운 저위도에 사는 종들이다.&lt;br&gt;&lt;br&gt;자원관 측은 “섬은 외래 생물이 처음 유입되는 지점이자 내륙으로 확산할 때 중간 거점”이라며 “온대 기후가 뚜렷한 국내에 열대·아열대성 곤충이 나타나는 것은 기후변화가 국내 생물다양성에 실질적으로 영향을 주고 있다는 점을 보여준다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title> 경북 의성서 노부부 흉기에 찔려 숨진 채 발견… 사위는 부산 모텔서 사망</title>
       <link>https://www.chosun.com/national/regional/2025/11/19/UCR23XCRDREJ3IYIAV672RIPXM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/19/UCR23XCRDREJ3IYIAV672RIPXM/</guid>
@@ -938,31 +951,6 @@
       <description/>
       <pubDate>Wed, 19 Nov 2025 05:42:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EY2TJDL3JRNLVKLAEGYZYLX3A4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;손흥민이 팬들에게 인사를 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;축구 선수 손흥민의 아이를 임신했다고 주장하며 금품을 갈취하려 한 여성의 재판에 손흥민이 직접 법정에 나와 증언했다.&lt;br&gt;&lt;br&gt;손흥민은 19일 서울중앙지법 형사20단독 임정빈 판사 심리로 열린 20대 여성 양모씨의 공갈·공갈 미수 혐의 공판에 증인으로 출석했다. &lt;br&gt;&lt;br&gt;이날 공판은 오전 10시쯤 시작해 약 50분간 진행된 뒤 마무리됐다. 재판은 비공개로 전환되면서 방청객과 취재진의 출입은 제한됐다. 재판을 마치고 나온 손흥민 측 대리인은 ‘협박·공갈에 대해 어떤 취지로 말했는지’ ‘향후 일정은 어떻게 되는지’ 등을 묻는 취재진 질문에 답하지 않은 채 법원을 떠났다.&lt;br&gt;&lt;br&gt;앞서 양씨는 지난해 6월 손흥민에게 태아 초음파 사진을 보내며 임신 사실을 폭로하겠다고 협박해 3억원을 받아낸 혐의를 받고 있다. 애초 다른 남성에게 임신 사실을 알리며 돈을 요구하려 했으나 반응이 미적지근하자, 두 번째 상대로 손흥민을 지목해 금품을 요구한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;양씨는 또 연인 관계였던 용모씨와 함께 올해 3∼5월에도 임신과 낙태 사실을 언론과 손흥민의 가족에게 알리겠다고 압박하며 7000만원을 추가로 받아내려다 미수에 그친 혐의도 있다.&lt;br&gt;&lt;br&gt;검찰은 올해 6월 양씨와 용씨를 구속 상태로 재판에 넘겼다. 양씨는 지난 7월 첫 재판에서 혐의를 일부 부인했다. 용씨는 8월 보석을 신청했으나 법원은 받아들이지 않았다. 재판부는 현재 양씨와 용씨의 재판을 분리해 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비싼 건 맞지만, 품질 월등해”...이경실, 달걀 가격 논란에 밝힌 입장 </title>
-      <link>https://www.chosun.com/national/people/2025/11/19/Q4WVFI4KDNHCHCXV2ZHBRG3IBE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/19/Q4WVFI4KDNHCHCXV2ZHBRG3IBE/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 02:56:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AHVHDCRW5AWQXIGZNCEQCRBRA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 이경실. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 이경실이 자신이 판매하는 달걀 제품의 가격 논란에 대해 직접 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이경실은 19일 인스타그램에 최근 불거진 ‘난각번호 4번란’ 논란에 대해 “일반적으로 4번 달걀 30구에 1만5000원인 것은 비싼 것이 맞지만, 우아란은 시중에서 판매되는 어떠한 달걀보다 월등히 품질이 좋으며, 가격에 걸맞은 가치를 갖추기 위해 연구하고 또 꾸준히 노력해 왔다”고 설명했다.&lt;br&gt;&lt;br&gt;그러면서 소비자 인식을 충분히 고려하지 못한 점은 사과했다. 그는 “소비자 입장에서는 식품을 고를 때 기준이 분명했을 텐데 양질의 달걀을 만든다는 자부심에 소비자의 마음까지 헤아리지 못했다”며 “진심으로 사과드린다”고 적었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PYMXG7MCURB3NI6TDGB6QH7YJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이경실 달걀./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이경실은 난각번호에 대한 설명도 덧붙였다. 그는 “난각에 표기된 1, 2, 3, 4번은 사육환경을 의미할 뿐 달걀의 품질 등급과는 무관하다”며 “‘우아란’이 높은 가격을 유지하는 이유는 사육환경이 아닌 원료와 사육방식의 차이 때문”이라고 주장했다. 이어 “고가 원료, 농장의 위생관리, 질병관리 등 신선도와 품질 유지를 위한 비용이 많이 투입된다”며 “난각번호 4번만 보고 품질을 판단할 수 없다”고 했다.&lt;br&gt;&lt;br&gt;품질을 강조하는 이유에 대해 “그만큼 품질 단위를 유지하는 것이 무척이나 어렵기 때문”이라며 “사육환경도 중요하지만 품질 또한 그에 못지않게 중요하다. 사실 누가 맞다의 문제가 아니라 사육환경 및 달걀을 판단하는 기준이 서로 다르기 때문에 발생한 문제라고 생각된다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKYRXVCLIVH2VBZEQ4PRL3GLXM.png"&gt;&lt;figcaption&gt;&lt;small&gt;‘우아란’을 판매하는 업체 ‘프레시티지’ 홈페이지가 일시적으로 폐쇄됐다./프레시티지 홈페이지.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;또한 “이번 일을 계기로 소비자는 난각번호로 좋은 계란과 나쁜 계란을 대부분 구분하고 있었다는 걸 알게 됐다”며 “4번 사육환경이라도 품질 차이가 크게 날 수 있다는 걸 이번 논란으로 인해 소비자에게 그 의미가 제대로 설명됐으면 하는 바람이다”고 했다. 마지막으로 “가족뿐 아니라 친지·지인들도 함께 먹는 요즘 품질 하나만큼은 첫 마음 그래도 지켜내겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이번 논란은 ‘우아란’이 난각번호 4번(기존 케이지)임에도 30구 기준 1만5000원으로 판매되며, 난각번호 1번(자연 방사) 달걀보다 비싸다는 지적이 온라인을 중심으로 확산하면서 불거졌다. 실제 자연 방사 달걀은 30구에 1만2000원대부터 판매되고 있다.&lt;br&gt;&lt;br&gt;논란이 커지자 판매 업체도 입장을 냈다. 업체 측은 “사육 환경의 중요성을 인지하고 있지만 모든 농가가 1번 환경을 갖추기는 어렵다”며 “개선이 필요한 4번 환경의 닭에게 좋은 원료를 공급해 양질의 달걀을 생산하는 것도 산업 발전을 위한 방법 중 하나”라고 했다.&lt;br&gt;&lt;br&gt;한편 ‘우아란’을 판매하는 업체 ‘프레시티지’ 홈페이지는 이날 “이 사이트는 준비중입니다”라는 안내만 띄워져 있으며, 네이버 쇼핑에 입점한 공식몰 역시 이날 기준 확인되지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TLVJI2N2DVBCTGWTAYL2NEKGZU.jpg?auth=263ca842e52afb3f385b4ac69b2ef07fbadb489e3a4c71e8fc65a04e7bd64712&amp;smart=true&amp;width=1440&amp;height=1080" type="image/jpeg" height="1080" width="1440">
-        <media:description type="plain">방송인 이경실이 판매하는 달걀에 난각번호 4번이 적혀 있다./뉴스1, 조혜련 인스타그램</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>중앙지검장에 박철우, 대검 반부패부장에 주민철 임명</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/19/X5GC7BERABG2TMSJMWN54QBMIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/19/X5GC7BERABG2TMSJMWN54QBMIE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 01:55:50 +0000</pubDate>
-      <content:encoded>박철우 대검 반부패부장이 19일 서울중앙지검장으로 임명됐다. 박 신임 검사장은 검찰의 ‘대장동 항소 포기’ 사태 당시 지휘부 보고 라인에 있으면서 항소 포기 결정에 관여했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JPSCHL4SQZKMTEUHYSVGYINNTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;18일 서울 서초구 대검찰청 청사 앞 검찰 깃발이 휘날리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 19일 대검 검사급에 대한 전보 인사를 발표했다. 서울고검 차장검사에는 정용환 서울고검 감찰부장이 임명됐다. 수원고검 검사장에는 이정현 법무연수원 연구위원이, 광주고검 검사장에는 고경순 법무연수원 연구위원이 임명됐다. 신임 대검 반부패부장직에는 주민철 중앙지검 중경2단 부장이 가게 됐다. &lt;br&gt;&lt;br&gt;중앙지검장 자리는 지난 8일 정진우 중앙지검장이 ‘대장동 항소 포기’ 사태와 관련해 사의를 표명한 뒤 빈 자리였다. 지난 17일엔 송강 광주고감장이 사의를 표명하면서 전국 고검 6곳 가운데 5곳의 고검장이 공석인 상태였다.&lt;br&gt;&lt;br&gt;법무부는 “이번 인사는 서울중앙지검장 사직 등으로 인해 발생한 결원을 충원해 검찰 조직의 안정을 도모하고 그와 함께 대검검사급 검사의 인적 쇄신도 함께 고려했다”고 했다. 부임일은 오는 21일이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBXIZF3AZVD5ZNOKZ3NUTST5YA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박철우 신임 서울중앙지검장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박 검사장은 평검사 때 울산·광주지검 특수부에서 근무했고, 문재인 정부 때 법무부 대변인, 서울중앙지검 2차장 등 요직을 지냈다. 윤석열 정부 들어서는 대구·부산고검 검사 등 한직에 머무르다가 이재명 정부 출범 후인 지난 7월 검사장급으로 승진했다.&lt;br&gt;&lt;br&gt;박 검사장은 항소 제기 시한이었던 지난 7일 중앙지검에 ‘항소 포기’를 지시한 바 있다. 대장동 수사·공판팀에 따르면 중앙지검은 항소 제기 방침을 대검 반부패부에 알렸으나, 당시 반부패부장이었던 박 검사장은 “재검토해 보라”며 사실상 항소 불허를 중앙지검에 통보했다. 자신에 대한 내부 비판에 박 검사장은 “수사팀이 반발할 수 있지만, 대검도 억울한 면이 많다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GBXIZF3AZVD5ZNOKZ3NUTST5YA.jpg?auth=7e9264bc18fc5a6b612fd4a1e4eea21736e147e51aaee39a10c52f8fa9e5c1a6&amp;smart=true&amp;width=560&amp;height=373" type="image/jpeg" height="373" width="560">
-        <media:description type="plain">박철우 신임 서울중앙지검장./뉴스1</media:description>
-      </media:content>
     </item>
   </channel>
 </rss>
