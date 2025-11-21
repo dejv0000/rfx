@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>해경 “무인도 좌초 여객선 항해사, 충돌 13초 전 섬 봤다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/6HXLHJNTHRGCNJUW3NBPLQPR6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/6HXLHJNTHRGCNJUW3NBPLQPR6U/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 09:06:46 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HL6XI5X6RAZDIRA4EEYDJPWFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 국립과학수사연구원이 목포에 입항한 퀸제누비아2호 선박의 충돌부분을 살피고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객 등 267명을 태우고 여객선이 좌초한 사건을 수사 중인 해경이 일등항해사가 무인도를 들이받기 13초 전에서야 섬을 확인한 것으로 파악했다.&lt;br&gt;&lt;br&gt;목포해양경찰서는 21일 “퀸제누비아2호 항해 데이터 기록 장치(VDR) 분석 결과 일등항해사는 좌초 약 13초 전 전방에 섬을 인지하고 조타수에게 타각 변경을 지시하는 음성이 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;퀸제누비아2호는 지난 19일 오후 4시 45분쯤 제주에서 승객 246명과 승무원 21명 등 267명을 태우고 목포를 향해 출항해 오후 8시 17분쯤 장산도 인근 무인도(족도)에서 좌초했다.&lt;br&gt;&lt;br&gt;해경에 따르면 사고 당시 근무 중이던 일등항해사 A(40대)씨와 인도네시아 국적 조타수 B(40대)씨는 자동 항법 장치를 족도 쪽으로 설정하고 운항하다 사고를 냈다.&lt;br&gt;&lt;br&gt;원칙대로라면 여객선이 족도에 도달하기 전 자동 항법 장치를 끄고 수동으로 방향을 바꿔야 했다. 해경 관계자는 “항해사가 족도 남쪽 1.6㎞쯤에서 수동 항해로 키를 90도 정도 동쪽으로 틀어서 방향을 전환하는 ‘변침’을 해야 했는데, 이를 그냥 지나친 것으로 파악됐다”고 설명했다.&lt;br&gt;&lt;br&gt;수사 결과 일등항해사 A(40대)씨는 휴대전화를 보며 딴짓을 하고 있었던 것으로 드러났다. A씨는 해경 조사 초기에 “충돌을 피하려고 조타기를 돌렸는데, 말을 듣지 않아서 변침이 늦어진 것”이라고 진술했다. 그러나 해경의 이어진 추궁에 “휴대전화로 뉴스를 보다가 수동 운항을 하지 못했다”고 실토했다고 한다.&lt;br&gt;&lt;br&gt;인도네시아 국적 조타수 B(40대)씨는 “사고 당시 조타기 앞에 있었다. 전방 견시는 1등 항해사의 업무이고, 지시를 받았을 때에는 섬이 눈앞에 있었다”는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;해경은 이날 A씨와 B씨에 대해 중과실치상 혐의로 구속영장을 신청했다. A씨 등은 수동으로 항해해야 하는 ‘협수로’ 구간에서 자동 항법 장치에 의존한 채 배를 몰아 여객선이 섬에 충돌하게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;해경은 퀸제누비아2호가 무인도에 충돌할 때까지 사고 위험을 감지하지 못한 목포 광역 해상 교통관제센터(VTS)에 대한 수사도 착수했다. 김성윤 목포 광역 VTS 센터장은 전날 “사고 당시 관제사 1명이 총 5척을 관제하고 있었고, 사고가 3분 만에 벌어져 빨리 문제를 알지 못했다”며 “(관제에) 미흡한 점이 있다”고 밝혔었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/2HL6XI5X6RAZDIRA4EEYDJPWFM.jpg?auth=2fcbbda0151525b7da0161772b930b0bb17b52a363d2933fc8f602eade93dd8a&amp;smart=true&amp;width=4724&amp;height=3015" type="image/jpeg" height="3015" width="4724">
+        <media:description type="plain">지난 20일 국립과학수사연구원이 목포에 입항한 퀸제누비아2호 선박의 충돌부분을 살피고 있다. /김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>윤우진 前용산세무서장 징역형 확정... 변호사법 위반 혐의</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/21/AT3XGCVZIBAC7PYFAETHOLIM5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/AT3XGCVZIBAC7PYFAETHOLIM5M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 08:36:34 +0000</pubDate>
+      <content:encoded>세무조사 무마를 대가로 부동산 개발업자들로부터 억대 금품을 받은 혐의로 재판에 넘겨진 윤우진 전 용산세무서장의 징역형이 대법원에서 확정됐다. 윤 전 서장은 한때 윤석열 전 대통령의 측근으로 알려진 윤대진 전 검사장의 친형이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5FSU3NH65JM3HB377TE6FDOHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤우진 전 용산세무서장,/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면, 대법원 3부(주심 이숙연 대법관)는 변호사법 위반 혐의를 받는 윤 전 서장에게 징역 10개월과 추징금 3219만원을 선고한 원심을 전날 확정했다. 윤 전 서장은 2017~2018년 인천 영종도의 부동산 개발업자 A씨 등 2명에게 세금 청탁·알선이나 대관비 명목으로 1억3000만원을 받은 혐의로 구속 기소됐다. 윤 전 서장은 A씨에게 “인천세무서장은 내 후배로 친하다” “세금 거의 안 나오게 해주겠다”는 식으로 친분을 과시한 것으로 조사됐다. 또 2020년 한 법무법인에서 법률 사무 알선 대가로 금품을 챙긴 혐의도 받았다.&lt;br&gt;&lt;br&gt;1심은 윤 전 서장이 세무 조사 청탁·알선의 대가로 받은 3000만원과 법률 사무 알선 대가로 받은 금품을 유죄로 인정해 징역 10개월을 선고했다. 1심은 “자신의 신분과 경력과 인맥을 이용해 세무 공무원에게 청탁·알선하는 명분으로 금품을 수수해 이익을 취득하는 등 죄책이 심히 무겁다”고 지적했다. 1억원 금품 수수 혐의는 입증되지 않았다고 보고 무죄를 선고했다. 2심 재판부와 대법원도 1심 판단이 맞다고 보고 상고를 기각했다.&lt;br&gt;&lt;br&gt;이 밖에도 윤 전 서장은 2004~2012년 세무사와 육류 수입업자에게 세무 조사를 축소하거나 무마해 주는 대가로 육류 수입업자 김모씨와 세무사 안모씨로부터 2억원을 받은 혐의(특정범죄가중처벌법상 뇌물 등)로 재판을 받고 있다. 1심은 지난 9월 징역 3년을 선고했고, 검찰과 윤 전 서장 모두 항소해 2심 재판이 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>BTS 진·백종원 투자 주류유통회사, ‘원산지 표기 위반 혐의’ 송치 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/21/XMQCPZYHINFZ5PNXZOYLGAYRCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/21/XMQCPZYHINFZ5PNXZOYLGAYRCM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 08:43:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWH6RDZ7F2LFINHJS6VKQKFH6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원(왼쪽)과 방탄소년단 진. /인스타그램 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 진과 백종원 더본코리아 대표가 함께 투자해 설립한 농업회사법인이 원산지 표시법 위반 혐의로 검찰에 넘겨진 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;국립농산물품질관리원 충남지원은 지난 9월 농업회사법인 백술도가 법인과 관계자 등을 농수산물의 원산지 표시 등에 관한 법률 위반 혐의로 송치했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;백술도가는 지니스램프가 제조한 주류 ‘IGIN 하이볼토닉’ 일부 제품에서 외국산 과일 농축액을 사용했지만, 온라인 판매 사이트에서는 원산지를 국산으로 일괄 표시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;제품 라벨의 원산지 표기에는 문제가 없었으나, 온라인 판매 사이트에서 일괄적으로 국산으로 표시한 것이 문제가 됐다.&lt;br&gt;&lt;br&gt;판매업체인 백술도가와 제조업체인 지니스램프는 진과 백종원 대표가 공동 투자해 설립한 회사다.&lt;br&gt;&lt;br&gt;지난 9월 온라인상에서 원산지 표시법을 위반했다는 의혹이 일면서 일부 누리꾼이 이를 고발 조치했다.&lt;br&gt;&lt;br&gt;당시 업체 측은 “온라인상에서만 실수로 잘못 표시했다”며 수정 조치한 바 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘내란 가담자 조사’ 정부TF, 대검도 구성... 구자현 총장 대행 지휘</title>
       <link>https://www.chosun.com/national/court_law/2025/11/21/HJLKPSSTBBBBRPNAB6OHHT7POY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/HJLKPSSTBBBBRPNAB6OHHT7POY/</guid>
@@ -861,24 +892,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7OBXHSGINCDFOSDAELNIPKEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 학교체육 대상 수상자. / 스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 학교체육 대상 시상식이 20일 서울 중구 한국프레스센터에서 열렸다. &lt;br&gt;&lt;br&gt;2016년 교육부와 학교체육진흥회, 스포츠조선이 제정한 이 시상식은 올해 10회째를 맞았다. 올해는 역대 최다 규모인 110개교가 공모에 참가했다.&lt;br&gt;&lt;br&gt;이번 시상식은 체육 수업, 학교 스포츠 클럽, 학교 운동부, 특수 체육 교육, 여학생 축구 활성화 등 5개 분야 14개 부문(개인 12, 단체 2)으로 나눠 공모작 심사를 거친 뒤 가장 뛰어난 성과를 낸 교사와 학교를 선정해 교육부장관상(7개)과 주관단체장상(4개), 후원단체장상(3개)을 각각 수여했다.&lt;br&gt;&lt;br&gt;체육 수업 분야에서는 소유영(천안일봉초)·박양경(외솔중) 교사가 대상인 교육부장관상을 받는 영예를 안았다. 정용주(구미인덕초)·김민철(경기과학고) 교사는 최우수상을 수상했다. &lt;br&gt;&lt;br&gt;학교 스포츠 클럽 분야에서는 정진홍(영만초)·성강해(아산배방중) 교사가 대상의 주인공이 됐고, 문준기(성연초)·이휘재(선주고) 교사가 최우수상을 받았다.&lt;br&gt;&lt;br&gt;학교 운동부 분야에서는 유정현(신광중)·박태준(상문고) 교사가 각각 대상과 최우수상의 영예를 안았다.&lt;br&gt;&lt;br&gt;특수 체육 교육 분야에서는 이한숙(문흥초)·소대영(대구이룸고) 교사에게 각각 통합, 특수 부문 대상이 돌아갔다. &lt;br&gt;&lt;br&gt;여학생 축구 활성화 분야에서는 침산초와 불로중이 각각 초등, 중등 부문 대상(대한축구협회장상)을 받았다.&lt;br&gt;&lt;br&gt;각 분야 대상 수상자에게는 상패와 상금 100만원, 최우수상 수상자에게는 주관·후원단체장상 및 상금 50만원이 수여됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘검찰 복귀’ 3대 특검 검사 12명 중 김건희 특검이 9명</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/XRMLYLDKZRCSRAR6VUEX6QIOUU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/XRMLYLDKZRCSRAR6VUEX6QIOUU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 08:19:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGKY3GG44WKMJSHAYGGYTFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 KT빌딩에 마련된 김건희 특검팀 현판 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 3대 특검(김건희·내란·해병)에 파견됐던 검사 12명이 최근 검찰로 복귀한 것으로 20일 확인됐다.&lt;br&gt;&lt;br&gt;이 가운데 김건희 특검 파견 검사는 40명 중 9명이 복귀했다. 파견 인원의 4분의 1이 빠져나간 것이다. 3대 특검 중 복귀 인원이 가장 많다. 내란 특검에서는 56명 중 2명, 채상병 특검에서는 16명 중 1명의 파견 검사가 검찰로 돌아갔다.&lt;br&gt;&lt;br&gt;최근 정부가 검찰의 수사·기소 분리를 포함한 정부조직법 개편안을 공포한 뒤, 특검에서 수사·기소·공소유지를 모두 맡고 있는 파견 검사들 사이에서 “검찰로 복귀하겠다”는 목소리가 나왔다. &lt;br&gt;&lt;br&gt;김건희 특검에 파견된 검사 40명 전원은 지난 9월 민중기 특검에게 원대 복귀 의사를 공식 전달한 바 있다. 내란 특검의 일부 파견 검사들도 복귀를 논의한 것으로 알려졌다. 법조계에서는 오는 11월 말에서 12월 초 사이에 파견 검사들이 대거 복귀할 수 있다는 관측이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태인 체육장학금 수여식 개최...올해도 62명 장학생 선발</title>
-      <link>https://www.chosun.com/national/people/2025/11/20/YMEDY7MSINELTKBWV65ZHYNI6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/20/YMEDY7MSINELTKBWV65ZHYNI6M/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 08:11:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ROMR64F4BVESVBNS6ZWWNCD6H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 충북 진천 국가대표선수촌에서 태인 체육장학금 수여식이 열렸다. 이상현 ㈜태인 대표(대한사이클연맹 회장·녹색 넥타이)과 장학생들이 기념 촬영을 했다. /㈜태인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한체육회와 ㈜태인이 20일 충북 진천 국가대표선수촌에서 ‘태인 체육장학금’ 수여식을 개최했다고 밝혔다.&lt;br&gt;&lt;br&gt;㈜태인 대표를 맡고 있는 이상현 대한사이클연맹 회장이 직접 참석해 62개 종목 학생 선수들에게 총 9300만원을 장학금으로 전달했다. 체육회는 올해부터 ‘태인 체육장학금’ 공식 후원을 맡아 행정 절차 등을 지원하고 있다.&lt;br&gt;&lt;br&gt;태인 체육장학금은 이인정 ㈜태인 회장(아시아산악연맹 회장)이 1990년 시작한 체육 전문 장학 사업이다. 올림픽 메달리스트 등으로 구성된 자문위원회가 심사를 거쳐 장학생을 선정한다. ㈜태인은 이날 전까지 총 741명에게 6억6000만원을 지원했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E75RWJKIVJE5RCO4H4ZPDWL26Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 이상현 ㈜태인 대표(대한사이클연맹 회장·왼쪽)와 태권도 장학생 서은수가 장학증서를 들어보이고 있다. /㈜태인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 장학생 대표로 나선 태권도 선수 서은수(안양 성문고)는 “장학금은 꿈을 향해 나아갈 수 있는 힘이자 믿음”이라며 “끊임없이 도전하고 성실하게 성장해 한국을 대표하겠다”고 말했다. 서은수는 지난달 중국 우시에서 열린 세계선수권대회 54kg급에서 금메달을 땄다.&lt;br&gt;&lt;br&gt;이상현 사이클연맹 회장은 “체육을 통해 도전과 열정의 가치를 전하고자 하는 취지로 시작된 태인 체육장학금이 체육계의 신뢰와 학생 선수들의 노력 덕분에 30년 넘게 이어질 수 있었다”며 “앞으로도 장학생들이 한계를 넘어 도전할 수 있도록 함께하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DZH3V3QXQ5CMBM2XIZ26I4CWKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;20일 태인 체육장학금 수여식에서 기념 촬영을 한 이상현 ㈜태인 대표(가운데)와 장학생들. /㈜태인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;체육회 김택수 선수촌장은 “태인 체육장학금 덕에 우리 체육의 미래를 이끌어 갈 학생들이 희망과 자신감을 얻을 수 있었다”며 “체육회도 선수들이 꿈을 이룰 수 있도록 적극적으로 지원하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, 도주한 도이치모터스 공범 체포</title>
       <link>https://www.chosun.com/national/court_law/2025/11/20/KJRHROP7YNF3BORQE6S67AWCWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/KJRHROP7YNF3BORQE6S67AWCWY/</guid>
@@ -895,15 +908,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 08:00:17 +0000</pubDate>
       <content:encoded>12·3 비상계엄 관련 의혹을 수사하는 조은석 내란특검팀이 한덕수 전 국무총리의 헌법재판관 후보자 미임명 의혹과 관련해 20일 김주현 전 대통령실 민정수석비서관을 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGGYLDMJRWKNTGMMYDKMZRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오후 3시쯤 김 전 수석을 피의자 신분으로 불러 조사 중이다. 특검팀은 최근 수사에서 한 전 총리가 대통령 권한대행이던 시기 헌법재판관을 임명하지 않은 과정에 김 전 수석이 연관된 정황을 포착한 것으로 전해졌다. 특검팀은 김 전 수석이 헌법재판관 미임명 과정에 개입했을 가능성을 의심하고 있다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 주말에도 황교안 전 국무총리의 ‘내란 선동’ 혐의와 관련해 김 전 수석을 소환 조사했다. 김 전 수석은 또 지난 7월과 9월 각각 ‘안가 회동 의혹’ ‘계엄 해제 표결 방해 의혹’ 등과 관련해 특검 조사를 받았는데, 이번이 네 번째 소환 조사다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“보이스피싱 대처, 이젠 자신 있어요”… 여수경찰, 범죄예방 교실 호평</title>
-      <link>https://www.chosun.com/national/regional/2025/11/20/SUVJ56B5DJFRFJ2AVBDTXNGRB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/20/SUVJ56B5DJFRFJ2AVBDTXNGRB4/</guid>
-      <dc:creator>여수=조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 07:52:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HZRV64PUSZCWDGGDNJTKMFSYSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 여수경찰서에서 탈북민을 대상으로 범죄예방 교실이 열리는 모습./여수경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“수상한 전화에 대한 대처 방법을 이제야 제대로 알게 됐습니다.”&lt;br&gt;&lt;br&gt;탈북민 조모씨는 최근 전남 여수경찰서에서 열린 범죄예방 교실에 참여한 뒤 이렇게 말했다. 그는 20일 “교육을 통해 구체적인 신고 절차를 알게 됐다”며 “앞으로 나뿐만 아니라 탈북민을 상대로 한 보이스피싱은 곧바로 신변보호관에서 신고해 도움을 받아볼 작정”이라고 말했다.&lt;br&gt;&lt;br&gt;여수경찰은 올해만 전남하나센터 소속 탈북민에게 6회에 걸쳐 범죄예방 교실을 열었다. 교육은 ‘보이스피싱·스미싱 등 신종 금융사기 예방법’ ‘가정폭력·성범죄 피해 시 신고 절차와 지원 제도’ ‘범죄 피해자 보호 제도와 심리·법률 상담 연계 방법’ 등을 알리는 내용으로 구성됐다.&lt;br&gt;&lt;br&gt;박규석 여수경찰서장은 “생활 속 범죄 예방 요령과 각종 지원 제도를 적극적으로 알렸다”며 “이런 교육을 통해 탈북민이 국내 정착 과정에서 벌어지는 사회적 고립과 정보 부족을 해소하길 바란다”고 말했다. 박 서장은 또 “무엇보다 탈북민이 스스로 범죄 피해를 예방하는 데 힘을 보탰다”고 말했다.&lt;br&gt;&lt;br&gt;여수경찰은 앞으로 범죄예방 교실 개최뿐만 아니라 경제적으로 어려운 취약 계층 탈북민 가정에 장학금도 전달할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>패스트트랙 충돌 전원 유죄... 국힘 6명 의원직은 유지</title>
