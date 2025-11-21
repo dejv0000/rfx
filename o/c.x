@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>화성 동탄에 고려대병원 생긴다...우선협상대상자 선정 </title>
+      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/21/E2OPHXVOBRDNXLCA7COZEPBEHE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/21/E2OPHXVOBRDNXLCA7COZEPBEHE/</guid>
+      <dc:creator>화성=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 12:58:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U42HVHK7CFHL3P4OT7Y4MNOKJM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 화성시 '동탄2신도시 내 종합병원 유치 패키지형 개발사업' 조감도. /화성시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 화성시 동탄2신도시 대규모 종합병원 개발 사업 우선협상대상자로 고려대학교의료원(고려중앙학원) 컨소시엄이 선정됐다.&lt;br&gt;&lt;br&gt;이날 화성시와 한국토지주택공사(LH)는 ‘화성동탄2 종합병원 유치 패키지형 개발 사업’의 우선협상대상자로 고려대 의료원이 포함된 컨소시엄을 선정했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;이 컨소시엄에는 고려대 의료원을 비롯해 우미건설, 한양건설, 미래에셋증권, 하나은행이 참여했다.&lt;br&gt;&lt;br&gt;고려대의료원 컨소시엄은 의료시설용지와 도시지원시설용지를 활용해 700병상 이상 규모의 종합병원과 회복기 재활병원, 노인복지주택, 오피스텔을 조성하겠다고 계획했다.&lt;br&gt;&lt;br&gt;이번 사업을 추진할 민간 사업자 공모에는 고려대의료원 컨소시엄과 순천향대의료원 컨소시엄이 각각 참여했다. 화성시 관계자는 “치열한 경쟁 가운데 LH가 평가위원회를 열어 사업계획 등을 평가한 끝에 고려대의료원 컨소시엄을 우선협상대상자로 최종 선정하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;이번 사업은 화성동탄2 택지개발지구 내 대형 종합병원을 유치하기 위해 의료 시설 용지와 주상 복합 용지를 패키지로 매각하는 형태로 추진됐다.&lt;br&gt;&lt;br&gt;화성시와 LH는 향후 의료기관 개설 허가 신청 및 보건복지부 협의를 거쳐 특수목적법인(SPC)을 설립하고, 단계적으로 사업을 추진해 나갈 계획이다. &lt;br&gt;&lt;br&gt;정명근 화성시장은 “대규모 종합병원 건립이 차질 없이 마무리될 수 있도록 행정력을 총동원해 지원하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 도이치 주가조작 공범 구속영장 청구...22일 영장심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/21/FVLH7YUGYNARPM5QJDV2L5VWQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/FVLH7YUGYNARPM5QJDV2L5VWQ4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 13:28:31 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 21일 도이치모터스 주가 조작 공범으로 지목된 이모씨에 대해 구속영장을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ASZWVZFIFIAJKJGZ6OQ7QYXAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;압수 수색 과정에서 도주한 도이치모터스 주가조작 사건 공범이 지난 20일 충주시 소재 휴게소에서 체포, 서울 광화문 김건희특검 조사실로 압송되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 언론 공지를 통해 “도이치모터스 주가조작 사건과 관련해 피의자 이모씨에 대해 금일 오후 자본시장법위반 혐의로 구속영장을 청구했다”고 밝혔다. 이씨의 구속 여부를 판단할 구속영장 실질심사는 오는 22일 오후 3시 서울중앙지법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;이씨는 도이치모터스 주가조작 관련 1차 작전 주포로 지목된 인물이다. 김 여사에게 ‘건진 법사’ 전성배씨를 소개해주기도 했다.&lt;br&gt;&lt;br&gt;앞서 이 사건을 수사한 검찰은 이씨가 직접 주식 거래를 한 증거가 없다는 등의 이유로 이씨를 기소하지 않았다. 검찰로부터 사건을 넘겨받은 특검은 이씨가 차명 계좌 등으로 거래한 정황을 포착해 수사 중이다.&lt;br&gt;&lt;br&gt;특검은 지난달 이씨에 대한 압수 수색에 나섰으나, 이씨가 현장에서 도주해 신병 확보에 실패했다. 특검은 법원으로부터 체포영장을 발부받아 지명수배를 내렸고, 도주 34일 만인 전날 오후 4시 9분쯤 충북 충주시 소재 국도변 휴게소 인근에서 이씨를 체포했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  11월 23일 일요일 (음력 10월 4일 丙申)</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/ZRVV7P5GVVEFVIADZBJEC2AFZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/ZRVV7P5GVVEFVIADZBJEC2AFZQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 13:39:27 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]  11월 22일 토요일(음력 10월 3일 乙未)</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/SMMWGAJK4FFQNM5B5N3JSXLW6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/SMMWGAJK4FFQNM5B5N3JSXLW6M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 13:37:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
       <title>해경 “무인도 좌초 여객선 항해사, 충돌 13초 전 섬 봤다”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/21/6HXLHJNTHRGCNJUW3NBPLQPR6U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/6HXLHJNTHRGCNJUW3NBPLQPR6U/</guid>
@@ -838,15 +874,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAHSYUEZAJMIVEGQU7HDEOPAOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 20일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 내란 재판에서 증인으로 출석한 홍장원 전 국가정보원 1차장과 12·3 비상계엄 당일 통화하면서 “싹 잡아들이라”고 한 대상이 누구인지를 두고 공방을 벌였다. 윤 전 대통령은 재판 막바지에 홍 전 차장에게 “헌법재판소에서부터 고생이 많다”며 “나도 해보니까 증언하는 게 참 힘듭디다”라고도 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 비상계엄 당일 윤 전 대통령에게 “이번 기회에 싹 다 잡아들여, 국정원에도 대공 수사권 줄 테니까 우선 방첩사를 도와 지원해”라는 지시를 받은 뒤에 여인형 전 방첩사령관과 통화하면서 이재명·한동훈 등 체포 명단을 듣고 받아 적었다고 주장해왔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 공판에서 홍 전 차장에게 “(계엄 당시는) 문재인 정부 때 반으로 줄었던 방첩사 수사 인원을 늘려가는 중이었다”며 “방첩사령부 지원 지시를 평소에 들어왔던 대통령의 관심사인 방첩사의 역량 강화 차원으로 받아들이지 못했느냐”고 했다. 이에 홍 전 차장은 “(윤 전 대통령이 말한) ‘싹 다 잡아들이라’는 건 반국가 세력이라고 이해했다”며 “이후 여 전 사령관이 체포조 명단을 불러줬는데, 이재명과 우원식이 반국가 단체는 아니지 않나”라고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 여 전 사령관이 불법적인 요청을 하는 걸 이상하게 여기지 않았느냐는 취지로도 질문했다. 그는 “여 전 사령관이 부탁한 위치추적은 통신사를 통해서 해야되고 영장 없이는 안 되는 것”이라며 “국정원은 수사권도 없고 경찰도 영장이 없으면 못하는데 지원하라는 얘길 듣고 ‘이 친구 완전 뭘 모르는 애 아냐? 수사의 ‘ㅅ’자도 모르고 어떻게 방첩사령관을 하냐’는 생각이 들지 않았느냐”고 물었다. 홍 전 차장은 고개를 끄덕이며 “들었다”고 했다.&lt;br&gt;&lt;br&gt;그러자 윤 전 대통령은 “검사 생활 20년 하고 검찰총장까지 지낸 대통령이 이런 걸 방첩사령관에게 시키고, 방첩사령관이 국정원에 부탁한다는 게 연결이 안 되지 않았느냐”고 질문을 이어갔다. 이에 홍 전 차장은 “그럼 여 전 사령관이 독자적 판단으로 체포하려고 한 거냐”라며 “대통령이 지시하지도 않았는데 일개 군 사령관이 이재명 야당 대표와 우원식 국회의장, 한동훈 여당 대표를 체포해서 방첩사에 구금해놓고 신문하겠다고 한 거냐”고 반문했다. 그러면서 “피고인, 부하한테 책임 전가하는 거 아니죠? 여인형이 왜 그런 요청을 한 겁니까?”라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이에 “위치 추적이 돼야 체포든 뭐든 할 텐데, 대통령이 수사를 모르는 사람도 아닌데 이상하다고 생각하지 않았느냐 묻는 것”이라고 했다. 홍 전 차장은 “평소같으면 영장이 필요하겠지만 이미 탈법, 초법 상황이라 못할 것 없다(고 생각했다)”고 답했다.&lt;br&gt;&lt;br&gt;한편, 이날 재판에서는 홍 전 차장이 여 전 사령관으로부터 체포 명단을 듣고 받아 적었다는 ‘홍장원 메모’에 관한 설전도 계속됐다. 윤 전 대통령 측 변호인은 메모가 2~3차례 수정된 점을 지적하면서 “증인은 각 메모의 명단이 동일하다고 했는데 가필해서 달라졌다는 것 아니냐”고 했다. 홍 전 차장은 직전 재판에서 “검찰 조사 이후 언론을 보고 생각나 ‘양정철’과 ‘조해주’ 이름을 명단에 추가했다”고 증언했었다. 홍 전 차장은 “다른 게 아니라 추가한 것”이라며 “기억 못하던 게 언론에서 나오면 연상 작용으로 기억이 난다. 두 이름도 그렇게 기억한 것”이라고 답했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법무부, ‘AI 석학’ 조경현 교수 등 우수인재들에 한국 국적 부여</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/J3AJXIPZ3BDDNA3PCHAXJVIJIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/J3AJXIPZ3BDDNA3PCHAXJVIJIY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 10:06:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AR3ETVOIBBEHLMJ3SKZN66STVU.png"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 조경현 뉴욕대 교수, 레자니아 샤하발딘 세종대 부교수, 푸다모아즈 선수. 법무부는 이들에게 대한민국 국적을 부여했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세계적 ‘인공지능(AI) 석학’으로 꼽히는 조경현(40) 뉴욕대 교수 등 우수인재 21명이 한국 국적을 부여받았다.&lt;br&gt;&lt;br&gt;법무부는 20일 이진수 차관을 위원장으로 하는 국적심의위원회를 열고 과학·문화·체육 등 분야에서 탁월한 능력을 보유한 우수인재 21명에게 한국 국적을 부여하기로 했다고 밝혔다. 이중 특별귀화는 13명이고, 나머지 8명은 한국 국적을 잃었다가 이번에 회복하게 된 사례다.&lt;br&gt;&lt;br&gt;한국계 미국인인 조 교수는 카이스트 전산학과를 졸업한 후 핀란드 알토대에서 AI 전공으로 석·박사를 마친 뒤 신경망 기계 번역 알고리즘을 개발했다. 조 교수는 작년부터 2년 연속 ICLR(국제표현학습학회)에서 논문상을 수상하는 등 세계적인 AI 전문가로 꼽힌다. 2021년에는 국내 최고 권위 학술상인 ‘삼성호암상’ 공학상을 받았다.&lt;br&gt;&lt;br&gt;레자니아 샤하발딘(42) 세종대 부교수도 국적 부여 명단에 포함됐다. 샤하발딘 교수는 이란 출신으로 서울대와 세종대에서 박사후연구원 과정을 마치고 2019년부터 세종대에서 환경에너지공간융합학 교수직으로 재직하고 있다. 그는 글로벌 학술 정보 분석기관에서 발표한 세계 상위 2% 연구자 명단에 2020년부터 6년 연속 선정됐고, 지난해에는 세계 상위 1% 연구 자료 인용 연구자에도 선정됐다.&lt;br&gt;&lt;br&gt;체육 분야에서는 전국체전에서 레슬링 금메달을 딴 이집트 국적 푸다모아즈 아흐메드 압둘할림 나비하마드(21) 선수가 특별귀화 명단에 이름을 올렸다. 푸다모아즈 선수는 한국에서 나고 자랐지만 부모의 국적이 모두 한국이 아니어서 그동안 한국 국적을 얻지 못했다. 우리나라 국적법은 혈통주의를 기본 원칙으로 한다.&lt;br&gt;&lt;br&gt;우수인재 국적 부여 제도는 특정 분야에서 뛰어난 능력을 가져 국익에 기여할 것으로 인정되는 외국인에게 한국 국적을 부여하는 제도다. 2011년부터 시행돼 현재까지 총 428명이 한국 국적을 받았다.&lt;br&gt;&lt;br&gt;분야별로는 이공계 인재가 230명으로 절반이 넘고, 신산업·첨단기술(67명), 인문사회(60명) 순이다. 국적별로는 미국이 205명으로 가장 많고, 베트남(47명)과 중국(37명)이 뒤를 이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 경찰, 이진숙 전 방송통신위원장 불구속 송치</title>
       <link>https://www.chosun.com/national/national_general/2025/11/20/RXWRL4IBUFAUVJUYBQO2A3HCD4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/RXWRL4IBUFAUVJUYBQO2A3HCD4/</guid>
@@ -854,15 +881,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 09:30:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4DIYZZGEZTMYJXGE3DOMBZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진숙 전 방송통신위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 공직선거법 위반 등 혐의를 받는 이진숙 전 방송통신위원장을 불구속 상태로 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;서울 영등포경찰서는 지난 19일 국가공무원법과 공직선거법 위반 등 혐의를 받는 이진숙 전 방송통신위원장을 검찰에 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;이 전 위원장은 지난해 9월 한 보수 성향 유튜브에 출연해 정치적으로 편향된 발언을 하거나 사전 선거 운동을 한 혐의로 지난달 2일 자택에서 체포됐다. 구금 상태에서 두 차례 경찰 조사를 받았고, 지난 4일 체포적부심사를 거쳐 법원 명령으로 석방됐다.&lt;br&gt;&lt;br&gt;이후 이 전 위원장은 수사 책임자들을 직권남용 혐의로 검찰에 고발했다. 하지만 경찰은 법과 원칙에 따라 수사를 진행했다는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘시험점수 불만에’…아주대생, 조교에 커터칼 휘둘러 체포</title>
-      <link>https://www.chosun.com/national/incident/2025/11/20/CWXJCJBKBJFQJMIF33O4AXMNWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/20/CWXJCJBKBJFQJMIF33O4AXMNWA/</guid>
-      <dc:creator>수원=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 09:20:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시험 채점 결과에 불만을 품은 아주대 학생이 조교에게 흉기를 휘둘러 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경기 수원영통경찰서는 20일 특수상해 및 특수재물손괴 혐의로 아주대학교 재학생 A씨를 현행범으로 체포해 조사하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오후 3시 10분쯤 수원시 영통구 아주대 캠퍼스 내 한 건물에서 조교 B씨에게 커터칼을 휘둘러 갈비뼈 부위를 베이게 한 혐의를 받고 있다. B씨는 응급처치를 받았으며 생명에는 지장이 없는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 조교를 공격하기 직전에는 교수 연구실에 들어가 가운을 찢는 등 소란을 피운 것으로 조사됐다. 경찰 조사에서 그는 “시험 채점 결과가 불만스러웠다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 범행 경위와 추가 피해 여부를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>광고주협·온신협, 가짜뉴스 근절 위해 손잡았다</title>
@@ -883,15 +901,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10대 아들을 3년간 학대하다 살해한 혐의로 기소된 40대 친모가 항소심에서도 중형을 선고받았다.&lt;br&gt;&lt;br&gt;부산고법 형사1부(재판장 김주호)는 20일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 등 혐의로 기소된 40대 여성 A씨에 대한 항소심 선고 공판에서 “공소사실은 모두 유죄로 인정되며, 양형도 원심에서 적정하게 적용했다”며 항소를 기각했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 1월부터 올 1월까지 이웃 주민 B씨와 함께 10대 아들 C군을 수차례 학대해 숨지게 한 혐의를 받는다. A씨는 일주일에 2~3회씩 나무 막대기로 C군을 폭행한 것으로 조사됐다. C군은 지난 2023년 폭행으로 급성 심부전증을 앓은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;A씨는 C군이 사망하기 하루 전인 지난 1월 3일 오후 6시쯤 B씨와 통화하며 “죽자고 때려 정신을 차리게 하겠다”고 말했고, B씨는 “묶어라, 정말 반 죽도록 해야 된다”고 했다. 이후 A씨는 C군의 팔과 다리를 묶고 입을 테이프로 막은 뒤 7시간 동안 폭행을 가했다. A씨는 폭행 과정에서 C군의 허벅지와 무릎에 뜨거운 물을 붓는 등 가혹 행위도 했다. 다음 날 오전 1시쯤 C군이 몸이 늘어지는 등 증상을 보였으나 A씨는 이를 방치했다. C군은 결국 같은 날 오전 3시쯤 외상성 쇼크로 사망했다.&lt;br&gt;&lt;br&gt;한편 B씨도 현재 구속 기소돼 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>2025 학교체육 대상 시상식 개최... 5개 분야 14개 부문 수상</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/20/HWYXCFP6AFB6DMI27VA7W3DTIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/HWYXCFP6AFB6DMI27VA7W3DTIY/</guid>
-      <dc:creator>장민석 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 08:36:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7OBXHSGINCDFOSDAELNIPKEME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 학교체육 대상 수상자. / 스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025 학교체육 대상 시상식이 20일 서울 중구 한국프레스센터에서 열렸다. &lt;br&gt;&lt;br&gt;2016년 교육부와 학교체육진흥회, 스포츠조선이 제정한 이 시상식은 올해 10회째를 맞았다. 올해는 역대 최다 규모인 110개교가 공모에 참가했다.&lt;br&gt;&lt;br&gt;이번 시상식은 체육 수업, 학교 스포츠 클럽, 학교 운동부, 특수 체육 교육, 여학생 축구 활성화 등 5개 분야 14개 부문(개인 12, 단체 2)으로 나눠 공모작 심사를 거친 뒤 가장 뛰어난 성과를 낸 교사와 학교를 선정해 교육부장관상(7개)과 주관단체장상(4개), 후원단체장상(3개)을 각각 수여했다.&lt;br&gt;&lt;br&gt;체육 수업 분야에서는 소유영(천안일봉초)·박양경(외솔중) 교사가 대상인 교육부장관상을 받는 영예를 안았다. 정용주(구미인덕초)·김민철(경기과학고) 교사는 최우수상을 수상했다. &lt;br&gt;&lt;br&gt;학교 스포츠 클럽 분야에서는 정진홍(영만초)·성강해(아산배방중) 교사가 대상의 주인공이 됐고, 문준기(성연초)·이휘재(선주고) 교사가 최우수상을 받았다.&lt;br&gt;&lt;br&gt;학교 운동부 분야에서는 유정현(신광중)·박태준(상문고) 교사가 각각 대상과 최우수상의 영예를 안았다.&lt;br&gt;&lt;br&gt;특수 체육 교육 분야에서는 이한숙(문흥초)·소대영(대구이룸고) 교사에게 각각 통합, 특수 부문 대상이 돌아갔다. &lt;br&gt;&lt;br&gt;여학생 축구 활성화 분야에서는 침산초와 불로중이 각각 초등, 중등 부문 대상(대한축구협회장상)을 받았다.&lt;br&gt;&lt;br&gt;각 분야 대상 수상자에게는 상패와 상금 100만원, 최우수상 수상자에게는 주관·후원단체장상 및 상금 50만원이 수여됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, 도주한 도이치모터스 공범 체포</title>
       <link>https://www.chosun.com/national/court_law/2025/11/20/KJRHROP7YNF3BORQE6S67AWCWY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/KJRHROP7YNF3BORQE6S67AWCWY/</guid>
@@ -899,15 +908,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 08:07:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEYDAYZWGY3TIYRRGQ2TOMRYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 KT빌딩에 마련된 김건희 특검팀 현판 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 20일 압수 수색 과정에서 도주한 도이치모터스 주가조작 사건 공범 이모씨를 충북 충주시 소재 휴게소 부근에서 체포했다고 밝혔다. 이씨는 김 여사에게 ‘건진 법사’ 전성배씨를 소개한 인물이다.&lt;br&gt;&lt;br&gt;이씨는 도이치모터스 사건 초반 김 여사와 연락을 주고 받으며 교류한 것으로 알려졌다. 앞서 이 사건을 수사한 검찰은 이씨의 공모 여부를 살펴봤으나, 직접 주식 거래를 한 증거가 없다는 이유 등으로 기소하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검 ‘헌법재판관 미임명 관여 의혹’ 김주현 전 민정수석 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/VPLKPG36MBF6HEDH2PIJNHI46M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/VPLKPG36MBF6HEDH2PIJNHI46M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 08:00:17 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 관련 의혹을 수사하는 조은석 내란특검팀이 한덕수 전 국무총리의 헌법재판관 후보자 미임명 의혹과 관련해 20일 김주현 전 대통령실 민정수석비서관을 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGGYLDMJRWKNTGMMYDKMZRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김주현 전 민정수석. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오후 3시쯤 김 전 수석을 피의자 신분으로 불러 조사 중이다. 특검팀은 최근 수사에서 한 전 총리가 대통령 권한대행이던 시기 헌법재판관을 임명하지 않은 과정에 김 전 수석이 연관된 정황을 포착한 것으로 전해졌다. 특검팀은 김 전 수석이 헌법재판관 미임명 과정에 개입했을 가능성을 의심하고 있다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 주말에도 황교안 전 국무총리의 ‘내란 선동’ 혐의와 관련해 김 전 수석을 소환 조사했다. 김 전 수석은 또 지난 7월과 9월 각각 ‘안가 회동 의혹’ ‘계엄 해제 표결 방해 의혹’ 등과 관련해 특검 조사를 받았는데, 이번이 네 번째 소환 조사다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>패스트트랙 충돌 전원 유죄... 국힘 6명 의원직은 유지</title>
