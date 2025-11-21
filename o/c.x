@@ -13,6 +13,55 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>마약 합동수사본부 21일 출범...합수본부장은 공석</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/21/TIOFADLOSNGRZADOYPXFIPUTNM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/TIOFADLOSNGRZADOYPXFIPUTNM/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 05:01:11 +0000</pubDate>
+      <content:encoded>수원지검에 설치된 범정부 마약 합동수사본부(합수본)가 21일 출범식을 가지고 본격 가동했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDDXXM4M5CPV35P2GDSD35XGNA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지검 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부와 대검이 추진한 합수본은 검경과 해경, 금융감독원, 국세청, 출입국외국인정책본부 등 마약 반입부터 공급 및 유통 과정에 관여하는 유관기관들이 전부 참여한다. 총 86명 규모 중 검찰은 42명, 경찰은 33명이다.&lt;br&gt;&lt;br&gt;대검찰청은 “최근 마약류 범죄가 범죄조직에 의해 비대면 방식으로 전환되면서 인터넷 접근이 용이한 젊은 층 범죄가 급증하는 등 사회 전반에 심각한 폐해가 발생하고 있으나, 기존 마약수사 체계로는 대응에 한계가 있었다”며 출범 배경을 설명했다. &lt;br&gt;&lt;br&gt;당초 본부장으로 유력하게 거론됐던 박재억 전 수원지검장이 지난 17일 사의를 표명해 본부장은 공백 상태다. 법무부는 곧 검사장급 검사를 합수본부장에 보임한다는 방침이다.&lt;br&gt;&lt;br&gt;합수본은 크게 검찰 중심의 제1부, 경찰 중심의 제2부로 나눠 운영된다. 제1부본부장은 신준호 전 대검 마약·조직범죄기획관(현 부산지검 1차장검사)이, 제2부본부장은 박헌수 인천경찰청 수사부장이 맡았다.&lt;br&gt;&lt;br&gt;두 부서 산하에 4개 검사실, 7개 수사팀, 1개 수사지원팀, 2개 특별단속팀을 뒀다. 수사지원팀과 특별단속팀이 정보 분석과 단속 등으로 사건을 인지하면 수사팀에서 수사에 착수하고, 검사실에선 사건을 송치받아 보완수사 등을 진행한다. &lt;br&gt;&lt;br&gt;이밖에도 범죄 예방팀과 해외파견 국제공조팀도 외부에서 합수단 활동을 돕는다.&lt;br&gt;&lt;br&gt;대검은 “합수본은 마약류 밀수·유통·소비에 이르는 모든 범죄를 철저히 차단해 국민이 마약으로부터 안전한 사회에서 평온한 일상을 누릴 수 있도록 최선을 다하겠다”라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>훔친 차로 주유까지… 하루에 2번 무면허 절도 운전한 50대 집유</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/YGOSVRSTXZGKPIIN3LRYGUVDEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/YGOSVRSTXZGKPIIN3LRYGUVDEU/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 04:51:52 +0000</pubDate>
+      <content:encoded>하루에 차량을 두 번이나 훔쳐 무면허 운전을 한 50대 남성에게 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LJONHU2N6MZR4T6XJSOHOKY3UA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지방법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울서부지법 형사11단독 허준서 부장판사는 지난달 23일 절도, 도로교통법 위반(무면허운전) 혐의를 받는 A(51)씨에 대한 선고기일을 열고 징역 8개월에 집행유예 2년을 선고했다. 보호관찰과 준법 운전 강의 40시간 수강도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 경기 부천시와 서울 마포구에서 잠겨있지 않은 승용차 문을 열고 들어가 내부에 있는 열쇠를 이용해 무면허로 34㎞가량 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 30일 오전 경기 부천시 오정구에 있는 한 옥외 주차장에서 1000만원 상당의 아반떼 승용차를 훔쳤다. A씨는 훔친 차량을 몰고 서울 서대문구 앞 도로까지 약 18㎞를 운전했다. 이어 A씨는 같은 날 오후 3시14분쯤 서울 마포구에 있는 한 주차장에서 8000만원 상당의 회사 소유 GV80 승용차를 훔쳤다. A씨는 이후 서울 서대문구까지 약 16㎞를 운전했다. A씨는 운전 도중에 기름이 떨어져 주유소를 방문하기도 했다&lt;br&gt;&lt;br&gt;A씨는 당시 운전면허가 취소돼 무면허 상태였다. A씨는 경찰 조사 과정에서 범행 경위 등을 묻는 질문에 ‘기억이 나지 않는다’는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피해 차량은 모두 피해자들에게 반환됐고 피고인은 집행유예 이상의 처벌을 받은 전력이 없다”며 “이 사건 범행은 피고인이 현재 앓고 있는 병증에서 비롯된 것으로 볼 여지가 있어 이에 대한 치료가 필요할 것으로 보인다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, 로저비비에 압수 수색...김기현 배우자 선물 관련</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/21/SVC2T6FB5FD6TF3HE7LSDYPCQQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/SVC2T6FB5FD6TF3HE7LSDYPCQQ/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 04:16:46 +0000</pubDate>
+      <content:encoded>김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 김 여사가 국민의힘 김기현 의원의 배우자로부터 프랑스 명품 브랜드 ‘로저비비에’ 손가방을 받았다는 의혹과 관련해 로저비비에 본사와 제품이 판매된 백화점을 압수 수색한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGKY3GG44WKMJSHAYGGYTFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 KT빌딩에 마련된 김건희 특검팀 현판 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 특검은 전날 서울 강남구에 있는 로저비비에 본사와 해당 브랜드 매장이 입점해 있는 서울 시내 백화점을 압수 수색해 구매자 명단과 매출 전표 등을 확보한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 2022년 3월 국민의힘 전당대회 이후 김 의원 배우자로부터 시가 180만원 상당의 로저비비에 손가방을 선물 받았다고 보고 있다. 특검은 김 여사가 당 대표 선거에 개입해 김 의원 당선을 도운 대가로 손가방을 받은 건 아닐지 의심 중이다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난 6일 김 여사의 서울 서초구 아크로비스타 자택을 압수 수색하는 과정에서 해당 손가방과 김 의원 배우자가 작성한 것으로 보이는 손편지를 발견했다. &lt;br&gt;&lt;br&gt;김 의원은 이에 대해 “여당 대표의 배우자로서 대통령 부인에게 사회적 예의 차원에서 선물한 것“이라며 ”대표로 당선된 저나 저의 아내가 윤 전 대통령 부부에게 청탁할 내용도 없었고, 그럴 이유도 없었다”고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴대전화 보다 ‘쾅’… 여객선 좌초 항해사·조타수 구속영장</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/RCGLLMUUPFGLFCO6P4FXPH5URE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/RCGLLMUUPFGLFCO6P4FXPH5URE/</guid>
+      <dc:creator>목포=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 04:22:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C6AWHHMXSNHP7HQRAVXNTVFIVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 목포 삼학여객터미널에 정박 중인 퀸제누비아2호 선체를 국립과학수사연구원이 감식하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해경이 전남 신안군 해상에서 무인도를 향해 배를 몬 일등항해사와 조타수를 상대로 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;전남 목포해양경찰서는 21일 중과실치상 혐의로 퀸제누비아2호 일등항해사 A(40대)씨와 인도네시아 국적 조타수 B(40대)씨에 대한 구속영장을 신청한다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 수동으로 항해해야 하는 ‘협수로’ 구간에서 자동항법장치에 의존한 채 배를 몰아 여객선이 섬에 충돌하게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;퀸제누비아2호는 지난 19일 오후 4시 45분쯤 제주에서 승객 246명과 승무원 21명 등 267명을 태우고 목포를 향해 출항했으나 오후 8시 17분쯤 장산도 인근 무인도(족도)에서 좌초했다. 승객은 사고 4시간여 만에 전원 구조됐다. 임신부를 포함한 30여 명이 병원으로 이송돼 치료받았다.&lt;br&gt;&lt;br&gt;수사 결과 일등항해사 A씨는 사고 당시 휴대전화를 보며 딴짓을 하고 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 해경 조사 초기에 “충돌을 피하려고 조타기를 돌렸는데, 말을 듣지 않아서 변침이 늦어진 것”이라고 진술했다. 그러나 해경의 이어진 추궁에 “휴대전화로 뉴스를 보다가 수동 운항을 하지 못했다”고 실토했다고 한다.&lt;br&gt;&lt;br&gt;B씨는 “사고 당시 조타기 앞에 있었다”는 취지의 진술을 한 것으로 전해졌다. 2만6546t급 여객선인 퀸제누비아 2호는 충돌 직전까지 22~23.4노트로 운항 중이었다. 시속으로는 40~43㎞로 정상 운항 속도였다.&lt;br&gt;&lt;br&gt;해경 관계자는 “항해사가 족도 남쪽 1.6㎞쯤에서 키를 90도 정도 동쪽으로 틀어서 방향을 전환하는 ‘변침’을 해야 했는데, 이를 그냥 지나친 것으로 파악됐다”며 “결국 여객선은 3분 만에 족도까지 직진해 충돌했다. 육지로 치면 달리던 자동차가 건물로 돌진한 셈”이라고 설명했다.&lt;br&gt;&lt;br&gt;해경은 여객선 책임자인 선장 C(60대)씨에 대해서도 과실이 있다고 보고 수사 중이다. 선원법 9조는 ‘항구를 출입할 때, 좁은 수로를 지나갈 때 등에 선장이 선박의 조종을 직접 지휘해야 한다’고 규정하고 있다.&lt;br&gt;&lt;br&gt;해경은 A·B씨의 휴대전화 포렌식을 통해 이들이 사고 당시 무슨 일을 하고 있었는지 규명할 방침이다. 또 이번 사고 전에도 자동항법장치를 켜고 사고 구간을 오갔는지도 수사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/C6AWHHMXSNHP7HQRAVXNTVFIVA.jpg?auth=079d6e82b44dfeac605bb3ca7507403b80a7b9ad65c919aac1cdeefa5143fcc7&amp;smart=true&amp;width=4724&amp;height=2823" type="image/jpeg" height="2823" width="4724">
+        <media:description type="plain">지난 20일 목포 삼학여객터미널에 정박 중인 퀸제누비아2호 선체를 국립과학수사연구원이 감식하고 있다. /김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>경찰, ‘학교에 폭발물 설치’ 협박 글 7차례 올린 고교생에 손해배상 청구</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/21/Y5QPK7E5XZB6VDZTPIDCUP7N5M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/Y5QPK7E5XZB6VDZTPIDCUP7N5M/</guid>
+      <dc:creator>인천=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 04:23:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUREZ33YUZCDKJYGNXX4WINC5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천경찰청 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 인천의 한 고등학교에 “폭발물을 설치했다”는 협박 글을 119 안전신고센터에 7차례에 걸쳐 게시한 혐의를 받는 10대 고등학생에게 손해배상을 청구하기로 했다.&lt;br&gt;&lt;br&gt;인천경찰청은 공중협박 및 위계에 의한 공무집행 방해 혐의를 받는 고등학생 A군을 상대로 손해배상 청구를 추진 중이라고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A군은 지난달 13일부터 21일까지 119 안전신고센터에 자신이 다니는 인천 서구 대인고등학교에 “폭발물을 설치했다” “공범과 함께 학생들을 살해하겠다”는 등 내용의 협박 글을 7차례에 걸쳐 올린 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 학교 재학생인 A군은 13일부터 17일까지 매일 협박 글을 올리면서 “VPN(가상사설망) 5번 우회하니까 아무고토(아무것도) 못하죠”라고 하는 등 경찰을 조롱하는 내용을 담기도 했다.&lt;br&gt;&lt;br&gt;학교는 안전 확보를 위해 학생 500여 명을 하교시키기도 했고, 경찰과 소방 당국은 교내를 수색하거나 순찰을 강화하는 등 조치를 해야 했다.&lt;br&gt;&lt;br&gt;경찰은 2023년 ‘신림역 살인예고 글’ 게시자에게 4300만원의 손해배상 책임이 인정된 법원 판례를 근거로, 이 사건도 엄정한 법적 책임을 물을 예정이다.&lt;br&gt;&lt;br&gt;경찰은 A군의 범행으로 직접 학교에 출동해 수색 작업을 벌이고 주변 순찰을 강화하면서 행정력이 낭비됐다고 했다. 경찰은 112 출동수당, 시간 외 수당, 출장비, 급식비, 동원 차량 유류비 등 손해배상액을 산정할 계획이다. 아직 구체적인 손해배상 청구액은 아직 확정되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이러한 행위는 학교, 경찰 등 공공기관의 대규모 대응 조치로 발생한 사회적 비용 등에 대한 손해배상 책임이 인정될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>’22명 사상’ 부천 제일시장 돌진 사고… 60대 피의자, 조작 실수 인정</title>
       <link>https://www.chosun.com/national/national_general/2025/11/21/PFYLYBEEAFFC7PQLICTPIDLOF4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/PFYLYBEEAFFC7PQLICTPIDLOF4/</guid>
@@ -872,15 +921,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘위법 경선운동’ 강명구 의원, 벌금 80만원 확정… 의원직 유지</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/PB2SG37ISZBKPKWMQOUGIT7VFI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/PB2SG37ISZBKPKWMQOUGIT7VFI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 04:18:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DFFWGJSJ7JJVVHNNV3KYWEMHCY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 강명구 의원이 지난 10월 서울 여의도 국회에서 열린 농림축산식품해양수산위원회 국정감사에서 질의를 하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 4·10 총선을 앞두고 당내 경선에서 공직선거법에서 정하지 않은 방식으로 경선 운동을 한 혐의로 기소된 강명구 국민의힘 의원에게 벌금 80만원이 대법원에서 최종 확정됐다. 공직선거법은 벌금 100만원 이상 확정 시 당선 무효가 되지만, 강 의원의 형은 그 기준에 미치지 않아 의원직을 유지하게 됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 공직선거법 위반 혐의로 기소된 강 의원에게 벌금 80만원을 선고한 원심을 상고 기각했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;강 의원은 작년 총선을 앞두고 3월 당내 경선 과정에서 지지를 호소하는 음성 녹음 파일을 당원 6413명에게 ARS 전화로 총 2만4710회 보내 공직선거법상 경선 운동 방법 위반 혐의를 받았다. 강 의원 측은 재판에서 “구미시 선거관리위원회(선관위)와 국민의힘으로부터 ARS를 이용할 수 있다는 답변을 받아 법 위반 사실을 알지 못했다”고 주장했으나 법원은 이를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;1·2심은 ARS 전화가 공직선거법상 허용된 당내 경선 운동 방법에 해당하지 않고, 강 의원 선거 캠프가 ARS 활용의 적법 여부를 구미시 선관위에 최종 확인하지 않았다는 점을 근거로 유죄를 인정했다. 1심 재판부는 벌금 80만원을 선고하며 “당내 경선은 실제 선거에 버금가는 중요성을 가지는데, ARS 음성 메시지를 발신한 인원수가 구미을 선거구의 전체 선거인 수에 비해 적지 않다”고 지적했다. 강 의원이 항소했지만 2심에서도 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>한상린 교수, 상전유통학술상 대상</title>
       <link>https://www.chosun.com/national/people/2025/11/20/WPTI6PJ5NFEU3LGV56OC2HCJR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/20/WPTI6PJ5NFEU3LGV56OC2HCJR4/</guid>
@@ -888,24 +928,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 04:20:25 +0000</pubDate>
       <content:encoded>롯데와 한국유통학회는 한상린 한양대 교수를 제7회 상전유통학술상 대상 수상자로 선정했다고 20일 밝혔다. 상전유통학술상은 유통학계 연구자들을 격려하기 위해 2019년 고(故) 신격호 롯데그룹 창업주의 호(상전)를 따서 만든 상이다. 김창주 일본 리츠메이칸대 교수와 허원무 인하대 교수는 학술 부문 최우수상, 이성호 국립한밭대 교수는 정책 부문 최우수상, 이태희 계명대 교수는 물류 부문 최우수상, 이예령 화성의과대 교수는 신진연구상을 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q4PL47XGKBDZ5I4Z47TT7U4UH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제7회 상전유통학술상 대상을 받은 한상린 한양대 교수. /롯데&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>역할 나눠 ‘뒷쿵’에 허위 사고 접수까지… 보험금 23억 빼돌린 일당 182명 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/20/IQOZ3QUSDVEG7I53TW2E4XLYTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/IQOZ3QUSDVEG7I53TW2E4XLYTU/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 03:04:48 +0000</pubDate>
-      <content:encoded>고의로 교통사고를 내고 보험금을 빼돌린 일당 182명이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울경찰청 광역수사단 형사기동대는 고의로 자동차 사고를 내거나 실제로 일어나지 않은 사고를 꾸며내 보험금 23억원을 빼돌린 일당 182명을 보험사기방지특별법 위반 등의 혐의로 검거하고, 이중 총책 4명을 구속 상태로 검찰에 넘겼다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 2020년 1월부터 2025년 4월까지 진로를 변경하는 차량을 고의로 추돌하는 방식, 가해·피해 차량 운전자로 역할을 나눠 후미 충돌 사고를 내는 방식, 실제로 발생하지 않은 사고를 허위로 접수하는 방식 등을 활용해 보험사기에 가담했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5Y5337V3AJBRPNBUFUG6NUZPGQ.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2023년 11월, 서울 서대문구 홍제동의 한 골목에서 일당이 허위로 교통사고를 내는 모습. /서울경찰청 광역수사단 형사기동대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총책들은 인터넷 카페와 소셜 미디어에 고액 알바 광고글을 올리며 ‘ㄱㄱ(공격·사고 가해차량)’, ‘ㅅㅂ(수비·사고 피해차량)’, ‘ㄷㅋ(뒷쿵·후미 추돌)’ 같은 은어를 사용해 가담자를 모집했다. 가담자 가운데 현재 활동 중인 경찰청 관리 대상 조직폭력배 3명도 포함돼 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DW37DDRCPNFW5LHAUATQV52KGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;‘ㄱㄱ’, ‘ㅅㅂ’ 등 은어를 사용해 보험사기 가담자를 모집하는 인터넷 카페 게시글. /서울경찰청 광역수사단 형사기동대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;총책들은 자동 삭제 기능이 있는 메신저 앱에서 범행 장소와 시간, 사고 유형을 미리 정한 뒤 가담자에게 “진로를 바꾸는 차량이 보이면 브레이크를 밟지 말고 그대로 들이받으라”는 식으로 지시했다. 일부 가담자들은 앞차와 뒷차 역할을 나눠 고의로 후미 충돌 사고를 낸 뒤 병원 진단서를 발급받아 보험금을 청구했다. 허위 사고 접수 수법도 동원됐다. 미리 정해둔 골목길에서 보행자와 운전자 역할을 나눠 허위 사고를 낸 뒤 병원 진단서를 발급받아 보험금을 청구했다.&lt;br&gt;&lt;br&gt;이들은 경미한 사고임에도 장기간 입원하거나, 한방병원 등 치료비가 많이 나오는 병원을 찾아가는 식으로 보험금 액수를 높였다. 보험금이 입금되면 가담자들은 미리 정해둔 비율(50~80%)대로 총책에게 계좌이체하거나 현금으로 건넸다. 경찰은 “총책 전원이 보험사 근무 경력을 갖고 있어 합의 시점과 병원 선택, 진단서 발급 등을 세밀하게 코치한 것으로 보인다”고 했다. 가담자 상당수는 빼돌린 보험금을 도박 자금이나 유흥비로 탕진한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난해 11월 금융감독원이 보험사기 의심 사례를 경찰에 제보하면서 수사가 시작됐다. 경찰은 사고 접수 기록과 블랙박스 영상, 통신·계좌 내역 등을 분석해 다수의 가담자와 공모해 반복적으로 보험금을 빼돌린 총책들을 특정해 검거했다.&lt;br&gt;&lt;br&gt;경찰은 “보험사기는 보험에 가입한 모든 국민의 보험료 인상으로 이어지는 중대한 범죄”라며 “실제 보험사기에 가담하지 않고 광고글만 올리거나 단순히 사람을 연결해 준 경우에도 개정 보험사기방지특별법에 따라 처벌받을 수 있다”고 강조했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>호반건설, ‘벌떼 입찰·일감 몰아주기’ 공정위 과징금 243억원 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/EOG3UYK4NJEDDB6324DUMQ4VAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/EOG3UYK4NJEDDB6324DUMQ4VAA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 02:59:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;호반건설이 총수 김상열 회장의 두 아들 회사에 일감 몰아주기를 했다며 공정거래위원회가 부과한 과징금 중 243억원이 대법원에서 20일 확정됐다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이흥구 대법관)는 이날 호반건설이 공정거래위원회 제재를 취소해달라며 낸 소송에서 “과징금 608억원 중 365억원을 취소하라”고 원고 일부 승소한 판결을 원심을 상고 기각으로 확정했다.&lt;br&gt;&lt;br&gt;공정위는 2023년 8월 호반건설이 계열사들을 동원해 두 아들 회사에 사업 기회를 제공하는 부당 내부거래를 했다며 시정 명령과 608억원의 과징금 처분을 내렸다. 이는 과거 삼성웰스토리(2249억원)와 SPC그룹(647억원)에 이어 부당 내부 거래로 부과된 과징금 중 세 번째로 큰 규모였다. &lt;br&gt;&lt;br&gt;공정위 조사에 따르면 호반건설은 2014~2017년 계열사 19곳에 입찰 신청금을 무이자로 빌려주고 ‘벌떼 입찰’을 시켜 23곳의 공공택지를 낙찰받았다. 이후 이 공공택지를 모두 김 회장의 두 아들이 지배하는 계열사 9곳에 전매하고 2조원 넘는 사업비를 무상으로 지급 보증하는 등 일감과 수익을 몰아준 것으로 조사됐다. 호반건설은 계열사가 시행하던 4곳 주택개발 사업 현장에서 차남 회사인 호반산업에 공사를 이관하기도 했다. 장남과 차남 회사 13곳은 시행 사업으로 5조8575억원의 분양 매출을 내고, 1조3587억원의 이익을 거둔 것으로 조사됐다. &lt;br&gt;&lt;br&gt;그러나 호반건설과 계열사들은 공공택지 가격은 공공기관이 정해서 고시고 이를 초과해 거래하는 것은 법적으로 금지돼있기 때문에 공급가격 그대로 전매한 것을 ‘이익을 주기 위해 싸게 넘긴 것으로 볼 수 없다’고 주장하면서 제재 처분에 불복해 행정소송을 냈다.&lt;br&gt;&lt;br&gt;지난 3월 서울고법은 “공정위가 지적한 4가지 위법 사항 중 공공택지 전매와 입찰 신청금 무이자 대여 행위 등 두 가지는 부당 지원이라고 보기 어렵다”며 이 부분에 대한 과징금 부과를 취소해야 한다고 판결했다. 다만 사업비 무상 지급보증과 공사 무상 이관에 대해선 “통상 관행을 벗어난 지원으로 공정한 경쟁을 저해하고, 특수관계인에게 부당 이익을 제공한 것”이라고 했다. &lt;br&gt;&lt;br&gt;대법원 판단도 같았다. 대법원은 “원심 판결에 공정거래법상 이익 제공 행위의 부당성에 관한 법리 등을 오해해 판결에 미친 영향을 잘못이 없다”며 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>캄보디아 피싱 조직에 대포통장과 휴대전화 제공… 폭력 조직원 59명 무더기 검거</title>
@@ -917,15 +939,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZTAYJRG42GKMRSHBSDAOLGMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대포물건 유통 조직도./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아 기반 피싱 조직에 대포 통장과 휴대전화를 공급한 폭력 조직원들이 무더기로 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원경찰청 형사기동대는 사기와 전자금융거래법 위반 등 혐의로 총책 A(28)씨 등 6명을 구속 송치하고, 조직원 53명을 불구속 송치했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 일당은 캄보디아 피싱 사기 조직에 대포 통장 191개와 스마트 뱅킹에 필요한 휴대전화를 건넨 혐의를 받고 있다. 이들이 제공한 대포 통장과 휴대전화는 지난해 12월부터 올해 4월까지 로맨스 스캠·투자 사기·군부대 사칭 노쇼 사기·납치 빙자 보이스피싱 등에 악용돼 63명이 37억5000만원의 피해를 본 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 건당 500만~1000만원을 받고 통장과 휴대전화를 공급해 10억원가량의 범죄 수익을 챙겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRGIZRSGZTGGYZWMVQWMNZQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대포 물건 배송하는 유통 조직원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰은 이들이 캄보디아 현지에서 피싱 조직에 대포 통장 등을 직접 전달하는 총책을 중심으로 관리책, 모집책 등으로 나눠 조직적으로 범행을 벌였다고 밝혔다.&lt;br&gt;&lt;br&gt;조직의 구성원 대부분은 지역 내 친분 관계가 두터운 20~30대 선후배와 지인들로 꾸려졌으며, 범행에서 빠지려는 기색을 보이면 협박까지 일삼은 것으로 드러났다.&lt;br&gt;&lt;br&gt;체포된 일부 조직원이 상부로부터 변호사 비용과 벌금 등의 지원을 받은 사실도 확인됐다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “대포 물건을 건네받은 캄보디아 피싱 조직 총책과 그 조직에 대한 수사를 이어나갈 방침”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“불로유 불치병 효과 있어”... 유튜브서 홍보한 여성, 무죄 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/20/RNZJP46E6RCGNKVEVDCM4JRPDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/RNZJP46E6RCGNKVEVDCM4JRPDQ/</guid>
-      <dc:creator>남양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 02:45:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYTQKGR2FAB5PTIUGDR3QUA2F4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 남양주지원/뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘허경영 우유’라고 불리는 ‘불로유’가 불치병 등에 효과가 있는 것처럼 홍보했더라도 식품표시광고법 위반에는 해당하지 않는다는 법원의 판단이 나왔다.&lt;br&gt;&lt;br&gt;20일 법조계에 따르면 의정부지법 남양주지원 형사4단독 권순범 판사는 식품표시광고법 위반 혐의를 받는 A(67)씨에게 무죄를 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 10월부터 2023년 3월까지 자신이 운영하는 유튜브 채널을 통해 불로유가 질병 예방과 치료에 효능이 있는 것처럼 홍보한 혐의를 받았다.&lt;br&gt;&lt;br&gt;그는 총 6차례에 걸쳐 “허경영 우유 실험해 보세요”, “불치병, 암 환자분 드셔보세요” 등라는 말로 홍보한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;불로유는 시중에 판매되는 우유에 허경영 국가혁명당 명예대표의 얼굴 스티커를 불이거나 이름을 쓴 종교시설 ‘하늘궁’의 영성 상품이다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 식품표시광고법을 위반한다고 판단, 불구속 기소했다.&lt;br&gt;&lt;br&gt;하지만 재판부는 A씨가 제조자나 판매자가 아니라는 취지로 무죄 판단을 내렸다.&lt;br&gt;&lt;br&gt;권 판사는 “A씨의 유튜브 홍보 행위가 시청자들의 건강을 해칠 수 있는 방법을 권한 것이어서 바람직하지 않다”면서도 “소비자를 전제로 한 것이 아니기 때문에 식품표시광고법 대상으로 보기 어렵다”고 판시했다. &lt;br&gt;&lt;br&gt;또 재판부는 A씨가 식품이 아닌 허경영이라는 인물 또는 스티커를 홍보한 것으로 보고 이 스티커가 식품위생법이 정한 기구, 용기, 포장 등이 아닌 점도 무죄 판단 이유로 들었다.&lt;br&gt;&lt;br&gt;앞서 A씨는 벌금 1천만원에 약식기소 됐으나 이에 불복하고 정식 재판을 청구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>신안 여객선 좌초 ‘과실’에 무게... “항해사 방향 전환 시기 놓쳤다”</title>
       <link>https://www.chosun.com/national/regional/2025/11/20/OKVF7TMKL5FZZPB6C7TXFVDID4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/20/OKVF7TMKL5FZZPB6C7TXFVDID4/</guid>
@@ -933,15 +946,6 @@
       <description/>
       <pubDate>Wed, 19 Nov 2025 23:52:31 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z4LKLHE2WNKNLBDBL7LJC4Y4O4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전남 신안군 무인도인 족도에 좌초된 대형 여객선이 20일 새벽 해경에 의해 이초되고 있다./목포해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 신안군 무인도에 좌초했다가 9시간여 만에 전남 목포 항구로 입항한 2만6000t급 대형 카페리 여객선 ‘퀸제누비아2호’가 사고 조사와 안전 점검 등을 이유로 운항을 잠정 중단한다. 목포해경은 20일 퀸제누비아2호의 좌초 사고 원인을 조사하기 위한 선체 조사를 시작한다.&lt;br&gt;&lt;br&gt;해경은 선체 안팎을 비추는 방범 카메라(CCTV)와 항해 기록 저장 장치 등을 확보해 정확한 사고 경위를 조사한다는 계획이다. 선체가 섬에 올라타듯 좌초된 만큼 앞으로 운항을 위한 안전 점검도 동시에 이뤄질 예정이다. &lt;br&gt;&lt;br&gt;해경은 과실에 무게를 두고 있다. 해당 항로는 선원 중 1등 항해사가 운항하는 구간이다. 선장은 조타실에 없었던 것으로 확인됐다. 선원 중 첫 사고 신고자도 1등 항해사로 확인됐다. 해경은 “목포로 입항하기 위해서는 족도에 이르기 전 약 90도에 가깝게 변침을 해야 하는데, 그 시점이 늦어지면서 족도에 부딪쳤다”는 1등 항해사 진술을 확보했다.&lt;br&gt;&lt;br&gt;해경 관계자는 “사고가 난 장산도 해역은 외해가 아닌 연안으로 수심과 항로 폭이 좁은 ‘협수로’라서 주의 깊은 항해가 요구되는 항로”라며 “통상 좁은 협수로에서 자동 항해를 하진 않는다”고 설명했다. 항해사의 졸음 운항이나 한눈을 팔았을 가능성이 제기된다. 해경은 선장과 항해사의 판단이 적절했는지를 들여다보고 있다.&lt;br&gt;&lt;br&gt;선사인 씨월드고속훼리 측은 조사와 점검이 완료될 때까지 운항을 잠정 중단하기로 하고 이날 정기 운항편을 결항한다고 공지했다. 선사 측은 또 이날 오전 후속 수습 작업을 시작했다.&lt;br&gt;&lt;br&gt;이날 오전 7시부터 승객들에게 여객선에 실려 있는 차량과 화물을 하선할 수 있도록 안내했다. 승객들은 관계 기관의 안전과 신원 확인 절차를 거쳐 차량과 수화물을 받게 된다.&lt;br&gt;&lt;br&gt;제주에서 승객 246명, 승무원 21명 등 267명을 태우고 목포를 향해 출발한 퀸제누비아2호는 승객들의 차량 118대도 함께 선적해 항해하던 중 무인도에 좌초됐다. 승객들은 전원 해경 구조정 등으로 구조됐으나 차량이나 화물을 두고 내린 탓에 여객선이 항구에 돌아올 때까지 선사 측이 제공한 숙소에 머물렀다. 여객선은 사고 발생 9시간 27분 만인 이날 오전 5시 44분쯤 목포시 삼학부두에 자력 입항했다.&lt;br&gt;&lt;br&gt;여객선에 타고 있던 승객들은 전원 무사히 구조됐으나 일부는 좌초 충격으로 가벼운 통증이나 신경 쇠약을 호소해 총 27명이 병원으로 이송됐다. 큰 부상은 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중앙지검장에 ‘항소 포기’ 관여한 박철우</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/TXB77ILZBZCJ7JOJ6RRK3RBYWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/TXB77ILZBZCJ7JOJ6RRK3RBYWA/</guid>
-      <dc:creator>김희래 기자, 김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 19 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGIAQGNHPJEEBHUPMQVUZUUEXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 신임 서울중앙지검장에 박철우 대검찰청 반부패부장이 임명됐다. 박 지검장은 최근 검사들의 집단 반발 사태를 불러온 ‘대장동 사건 항소 포기’ 과정에 관여한 핵심 인물로 지목됐는데, 이재명 대통령이 그를 전국 최대 검찰청의 수장으로 발령 낸 것이다.&lt;br&gt;&lt;br&gt;법무부는 이날 “대검 검사급(고검장·검사장) 검사 2명에 대한 신규 보임 인사와, 3명에 대한 전보 인사를 21일 자로 시행한다”며 “서울중앙지검장 사직 등으로 인해 발생한 결원을 충원해 검찰 조직의 안정을 도모하고, 대검 검사급 검사의 인적 쇄신도 함께 고려했다”고 밝혔다. &lt;br&gt;&lt;br&gt;그러나 검찰 안팎에서는 노만석 전 검찰총장 직무대행의 사퇴로 숨 고르기에 들어갔던 검찰 내부 반발이 되살아날 수 있다는 말이 나왔다. 문재인 정부 때 요직을 거치는 등 친여 성향으로 알려진 박 지검장은 중앙지검 대장동 수사·공판팀에 “항소를 재검토하라”고 지시한 것으로 알려졌다. 한 검찰 중간 간부는 “수사팀 반감이 엄청난 상황인데, 조직 안정화에 도움이 되는 인사인지 의문”이라고 했다. 다만 박 지검장은 “수사팀 주장과 사실관계가 다소 다른 부분이 있다”는 입장이다.&lt;br&gt;&lt;br&gt;박 지검장 이동으로 공석이 된 대검 반부패부장에는 주민철 중앙지검 중경2단 부장검사가 보임됐다. 서울고검 차장검사로는 정용환 서울고검 감찰부장이 임명됐다. 서울고검은 지난 15일 구자현 전 서울고검장이 대검 차장으로 이동하면서 고검장과 차장 등 지휘부가 비어 있는 상태였다.&lt;br&gt;&lt;br&gt;4개월간 공석으로 있었던 수원고검장에는 이정현 법무연수원 연구위원이, 최근 사의를 표명한 송강 광주고검장 후임에는 고경순 법무연수원 연구위원이 각각 임명됐다. 이·고 고검장 모두 친여 성향으로 분류되는 검사들로, 이번 인사로 검사장급에서 고검장급으로 승진 발령됐다. 법조계에서는 이번 인사를 두고 “대장동 사건 항소 포기 사태로 검찰이 어수선한 상황에서 정권이 친여 성향 검사들을 요직에 중용해 검찰을 장악했다”는 평가가 나왔다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“항소 포기 반발에 인사권으로 검찰 장악하려는 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;법무부가 지난 14일 구자현(52·사법연수원 29기) 대검찰청 차장검사 임명 인사를 발표한 데 이어 이날 서울중앙지검장, 대검 반부패부장, 수원고검장, 광주고검장, 서울고검 차장검사 등 주요 보직에 대한 인사를 실시하면서 ‘대장동 항소 포기 사태’ 12일 만에 검찰 지휘부는 새 진용을 갖추게 됐다. 인사의 가장 뚜렷한 특징은 친여 혹은 친정부 성향 검사들의 중용이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7PL6U36SQFARRM7HNFHNP4YREA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박철우(54·30기) 신임 서울중앙지검장을 비롯해 이번에 고검장이나 검사장으로 승진한 검사들은 모두 문재인 정부 당시 핵심 요직을 거쳤다. 검찰의 한 간부는 “항소 포기 사태로 검찰 내부에서 대대적인 반발이 일어난 것에 대해 대통령실과 법무부가 인사권을 통해 기강 잡기에 나선 것”이라며 “친여 성향 검사들을 전진 배치해 검찰 장악력을 높이려 한 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;박 지검장은 문재인 정부 때인 지난 2020년 9월 법무부 대변인을 맡아, 당시 추미애 법무장관의 입장을 대변했다. 이듬해에는 서울중앙지검 2차장으로 영전했다. 윤석열 정부 출범 후에는 중요 보직에서 밀려나 대구고검 검사, 부산고검 검사 등 좌천됐다가 지난 7월 이재명 정부 출범 후 첫 검찰 고위 간부 인사에서 검사장으로 승진해 대검 반부패부장을 맡았다.&lt;br&gt;&lt;br&gt;이정현(57·27기) 수원고검장도 지난 2020년 2월 서울중앙지검 1차장으로 부임해 당시 법무연수원 연구위원이던 한동훈 검사장이 연루된 ‘채널A 사건’ 수사를 지휘했다. 그는 그해 8월 검사장급인 대검 공공수사부장으로 승진했고, 윤석열 정부 들어 법무연수원 연구위원으로 전보됐다. 한양대 법대 출신인 고경순(53·28기) 광주고검장은 같은 학교 출신인 추미애 더불어민주당 의원이 법무장관으로 있을 때 검사장으로 승진했다. 고 고검장은 윤석열 정부 들어서는 법무연수원 연구위원으로 좌천됐다. 이·박 고검장은 모두 연구위원으로 근무하면서 연구 논문을 제때에 내지 않아 법무부에서 정직 등 징계를 받았다.&lt;br&gt;&lt;br&gt;정용환(50·32기) 서울고검 차장검사는 대장동 사건 수사가 본격화한 2021년 서울중앙지검 반부패 1부장을 맡아 유동규, 김만배씨 등을 기소한 ‘1차 수사팀’을 이끌었다. 그는 최근 대장동 항소 포기 사태와 관련해 “1차 수사팀은 의사 결정 과정에서 배제당했다”는 취지의 입장을 밝히며 “수사팀 만장일치로 항소를 결정했다”는 2차 수사팀 주장을 반박하기도 했다. 주민철(51·32기) 대검 반부패부장은 박범계 민주당 의원이 법무부 장관이던 2021년 7월 부장검사급 핵심 보직인 법무부 검찰과장을 지냈다. 이번 인사에선 부장검사에서 검사장급으로 파격 승진했다.&lt;br&gt;&lt;br&gt;법조계 일각에서는 이번 인사로 비게 된 법무연수원 연구위원 자리에 항소 포기 관련 항의 성명을 낸 검사장들을 내려보내는 후속 인사가 이어질 것이라는 관측이 나온다. 평검사로 강등하는 징계성 인사는 또 다른 반발과 논란을 부를 수 있는 만큼, 좌천 인사를 할 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
