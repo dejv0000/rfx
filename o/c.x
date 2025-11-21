@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>태극마크 달고 페달 밟는 최태호</title>
+      <link>https://www.chosun.com/national/people/2025/11/19/DIW4RYANXFC75MQ4YVCHCK2XY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/19/DIW4RYANXFC75MQ4YVCHCK2XY4/</guid>
+      <dc:creator>이태동 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 18 Nov 2025 15:43:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BYRVWR4MQJFATL63RR23JHCPEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;18세 사이클 기대주 최태호(&lt;b&gt;사진&lt;/b&gt;)가 2025-2026 트랙 사이클 단거리 국가대표로 선발됐다. 46년 만에 나온 최연소 국가대표다. 18세에 태극마크를 단 사이클리스트는 1979년 김영수(현 대한사이클연맹 수석부회장) 이후 최태호가 처음이다. &lt;br&gt;&lt;br&gt;대한사이클연맹은 지난 12일 경기력향상위원회를 열고 선수들의 국내외 대회 포인트를 집계해 2026년까지 활동할 성인 국가대표 명단을 발표했다. 최태호는 이 중 5명을 뽑는 트랙 단거리 부문에서 랭킹 1위로 태극마크를 달았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JUGDJW6QGNEHZAJDF4WVTUEGCU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세계 트랙 사이클 주니어 선수권에서 금 2개, 은 1개를 딴 최태호가 지난 8월 27일 오전 모교인 부천 중흥중 훈련실에서 메달을 들어고 포즈를 취했다. 입고 있는 무지개 무늬 저지는 우승자만 받는 특별 시상품이다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최태호는 지난 8월 네덜란드 아펠도른 세계 주니어 트랙 선수권 대회에서 한국 남자 최초로 2관왕(경륜·스프린트 개인)에 올랐다. 현재 주니어 스프린트 세계 랭킹 1위다. 지난달엔 칠레에서 열린 성인 세계선수권 1㎞ 독주 부문에서 1분00초465를 기록, 10년 만에 한국 신기록을 세웠다. &lt;br&gt;&lt;br&gt;현재 미국에 거주하며 훈련 중인 최태호는 “한국 사이클 최초 올림픽 금메달이란 꿈을 위해 앞으로도 시간을 낭비하지 않고 에너지를 쏟아붓겠다”고 말했다. 대한사이클연맹은 “사이클 유망주를 대상으로 UCI(국제사이클연맹)가 스위스에서 진행하는 ‘올림픽 프로젝트’에 최태호를 파견하는 등 지원을 아끼지 않겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#손기정아들이돌아본광복80년#어린이체육주의보</title>
       <link>https://www.chosun.com/national/weekend/2025/11/22/ACYQT6XT2NCTTEPJ42ELPLZW5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/11/22/ACYQT6XT2NCTTEPJ42ELPLZW5U/</guid>
@@ -917,15 +926,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 11:57:35 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQWCMDEMRSWKNRYGFSWCN3CHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 전경/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1400여 명이 듣는 교양수업에서 오픈채팅방을 통한 집단 부정행위가 드러나 논란이 됐던 고려대에서 또다시 부정행위 정황이 발견됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 고려대 공과대학의 한 전공수업에서는 20일 오전 10시 30분 수강생 80여명을 대상으로 온라인 퀴즈 시험이 실시됐다. 이전과 달리 학교 강의실에서 치러진 대면 시험이었다. &lt;br&gt;&lt;br&gt;하지만, 이 퀴즈는 답안을 제출한 뒤에도 결과를 확인하고 재응시를 할 수 있던 것으로 알려졌다. 이러한 허점을 파악한 수강생들은 틀린 문제를 확인하고 퀴즈를 반복적으로 응시한 것으로 전해졌다. 일부 학생들은 문제를 푸는 과정에서 챗GPT 같은 AI 프로그램을 사용하기도 했다고 한다. 이런 부정행위는 일부 수강생의 제보를 통해 알려졌다.&lt;br&gt;&lt;br&gt;이 수업을 담당했던 교수는 “다수의 학생들이 퀴즈를 반복 응시한 정황을 발견했다”며 “재시험을 볼 예정”이라고 공지했다. 시험에서 잇달아 부정행위가 발견된 고려대도 재발 방지 대책을 고심 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹 재판서 ‘싹 다 잡아들여’ 공방...洪 “이재명·우원식이 반국가단체냐"</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/20/M52BUFOFE5E2HI2VMGDLTMNXWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/20/M52BUFOFE5E2HI2VMGDLTMNXWI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 10:40:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IAHSYUEZAJMIVEGQU7HDEOPAOM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 20일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 내란 재판에서 증인으로 출석한 홍장원 전 국가정보원 1차장과 12·3 비상계엄 당일 통화하면서 “싹 잡아들이라”고 한 대상이 누구인지를 두고 공방을 벌였다. 윤 전 대통령은 재판 막바지에 홍 전 차장에게 “헌법재판소에서부터 고생이 많다”며 “나도 해보니까 증언하는 게 참 힘듭디다”라고도 했다.&lt;br&gt;&lt;br&gt;홍 전 차장은 비상계엄 당일 윤 전 대통령에게 “이번 기회에 싹 다 잡아들여, 국정원에도 대공 수사권 줄 테니까 우선 방첩사를 도와 지원해”라는 지시를 받은 뒤에 여인형 전 방첩사령관과 통화하면서 이재명·한동훈 등 체포 명단을 듣고 받아 적었다고 주장해왔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이날 공판에서 홍 전 차장에게 “(계엄 당시는) 문재인 정부 때 반으로 줄었던 방첩사 수사 인원을 늘려가는 중이었다”며 “방첩사령부 지원 지시를 평소에 들어왔던 대통령의 관심사인 방첩사의 역량 강화 차원으로 받아들이지 못했느냐”고 했다. 이에 홍 전 차장은 “(윤 전 대통령이 말한) ‘싹 다 잡아들이라’는 건 반국가 세력이라고 이해했다”며 “이후 여 전 사령관이 체포조 명단을 불러줬는데, 이재명과 우원식이 반국가 단체는 아니지 않나”라고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 여 전 사령관이 불법적인 요청을 하는 걸 이상하게 여기지 않았느냐는 취지로도 질문했다. 그는 “여 전 사령관이 부탁한 위치추적은 통신사를 통해서 해야되고 영장 없이는 안 되는 것”이라며 “국정원은 수사권도 없고 경찰도 영장이 없으면 못하는데 지원하라는 얘길 듣고 ‘이 친구 완전 뭘 모르는 애 아냐? 수사의 ‘ㅅ’자도 모르고 어떻게 방첩사령관을 하냐’는 생각이 들지 않았느냐”고 물었다. 홍 전 차장은 고개를 끄덕이며 “들었다”고 했다.&lt;br&gt;&lt;br&gt;그러자 윤 전 대통령은 “검사 생활 20년 하고 검찰총장까지 지낸 대통령이 이런 걸 방첩사령관에게 시키고, 방첩사령관이 국정원에 부탁한다는 게 연결이 안 되지 않았느냐”고 질문을 이어갔다. 이에 홍 전 차장은 “그럼 여 전 사령관이 독자적 판단으로 체포하려고 한 거냐”라며 “대통령이 지시하지도 않았는데 일개 군 사령관이 이재명 야당 대표와 우원식 국회의장, 한동훈 여당 대표를 체포해서 방첩사에 구금해놓고 신문하겠다고 한 거냐”고 반문했다. 그러면서 “피고인, 부하한테 책임 전가하는 거 아니죠? 여인형이 왜 그런 요청을 한 겁니까?”라고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 이에 “위치 추적이 돼야 체포든 뭐든 할 텐데, 대통령이 수사를 모르는 사람도 아닌데 이상하다고 생각하지 않았느냐 묻는 것”이라고 했다. 홍 전 차장은 “평소같으면 영장이 필요하겠지만 이미 탈법, 초법 상황이라 못할 것 없다(고 생각했다)”고 답했다.&lt;br&gt;&lt;br&gt;한편, 이날 재판에서는 홍 전 차장이 여 전 사령관으로부터 체포 명단을 듣고 받아 적었다는 ‘홍장원 메모’에 관한 설전도 계속됐다. 윤 전 대통령 측 변호인은 메모가 2~3차례 수정된 점을 지적하면서 “증인은 각 메모의 명단이 동일하다고 했는데 가필해서 달라졌다는 것 아니냐”고 했다. 홍 전 차장은 직전 재판에서 “검찰 조사 이후 언론을 보고 생각나 ‘양정철’과 ‘조해주’ 이름을 명단에 추가했다”고 증언했었다. 홍 전 차장은 “다른 게 아니라 추가한 것”이라며 “기억 못하던 게 언론에서 나오면 연상 작용으로 기억이 난다. 두 이름도 그렇게 기억한 것”이라고 답했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3년간 아들 학대해 살해한 친모, 2심도 징역 25년</title>
