@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>지평·영국 로펌 빌 앤 코, '2025 중동 건설시장: 변화하는 투자·법률 환경' 세미나 개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213358.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;19일 지평에서 열린 ‘2025 중동 건설시장 업데이트: 변화하는 투자·법률 지형’ 세미나. 《사진=법무법인 지평》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.jipyong.com/kr/main/main.php" target="_blank"&gt;법무법인 지평&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2162"&gt;김지홍&lt;/span&gt;·&lt;span style="font-weight: bold;" class="lawmanlink" serial="7965"&gt;이행규&lt;/span&gt;)은 11월 19일 서울 중구 회현동 지평 본사 그랜드센트럴 B동 3층 오디토리움에서 영국 로펌 Beale &amp; Co(빌 앤 코)와 공동으로 ‘2025 중동 건설시장 업데이트: 변화하는 투자·법률 지형’ 세미나를 개최했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;올 한 해 한국 건설사의 활동이 두드러졌던 중동 건설시장의 최신 비즈니스 및 법률 동향을 종합적으로 검토하고, 실무적 시사점을 함께 모색하는 자리였다. &lt;br /&gt;&amp;nbsp;&lt;br /&gt;패널토론으로 진행된 이번 세미나는 대한상사중재원(KCAB) 푸이키 엠마누엘 타(Pui-Ki Emmanuelle Ta) 사무총장의 인사말로 시작했다. &lt;br /&gt;&lt;br /&gt;김진희 지평 외국변호사가 좌장을 맡았으며, 패널에는 지평의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11335"&gt;류혜정&lt;/span&gt;(사법연수원 34기)·&lt;span style="font-weight: bold;" class="lawmanlink" serial="31001"&gt;김용길&lt;/span&gt;(변호사시험 3회) 변호사와 이용익 외국변호사, 빌 앤 코의 클레어 밀러(Claire Miller)·데이비드 나잇텍(David Nitek) 변호사가 참여했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;패널토론에서는 중동 건설시장의 투자 환경 및 전망, 시공사의 성공적인 프로젝트 수행을 위한 주요 과제, 중동 지역의 최신 법률 변화, 국제건설 중재에 대한 핵심 조언 등이 논의됐다.&lt;br /&gt;&lt;br /&gt;이후 질의응답 순서에서는 업계 관계자들의 질문이 이어졌으며, 이에 대해 패널들은 최신 현황과 사례를 바탕으로 답변했다. &lt;br /&gt;&amp;nbsp;&lt;br /&gt;지평 국제그룹장 김진희 외국변호사는 “급변하는 중동 건설시장의 사업환경과 법제 변화 속에서, 이번 세미나가 한국 기업들에게 필요한 실무적 인사이트를 제공하는 자리가 되었기를 바란다”라고 말했다.</description>
+			<pubDate>Fri, 21 Nov 2025 02:11:28 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213358</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213358</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213358.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>박철우 신임 서울중앙지검장 "항소포기 반발 이해…안정화 최선"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213355.jpg" alt="3242.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;박철우 신임 서울중앙지검장이 11월 21일 서울 서초구 서울중앙지방검찰청으로 들어서며 취재진 질문에 답하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="166"&gt;박철우&lt;/span&gt;(사법연수원 30기) 신임 서울중앙지검장이 '대장동 항소 포기'에 대한 내부 반발을 이해한다며 조직 안정화에 힘쓰겠다고 말했다.&lt;br /&gt;&lt;br /&gt;박 신임 지검장은 21일 오전 서울 서초구 서울중앙지검 첫 출근길에 기자들과 만나 "국민의 신뢰 회복과 검찰 구성원의 사기 진작이 모두 시급한 시기에 중책을 맡게 되어서 어깨가 너무 무겁다"며 "검찰 본연의 업무에 집중할 수 있게끔 조직 안정화에 최선을 다하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "반발한다는 그 검찰 구성원의 생각과 정서, 충분히 이해하고 공감한다"며 "다양한 의견을 많이 듣고 존중하겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;박 지검장은 더불어민주당이 항소 포기에 반발한 검사장 18명을 평검사로 전보하는 방안을 추진하는 데 대해서는 "반발하는 그 정서를 정치권에서도 좀 널리 이해 주셨으면 하는 게 제 소망"이라고 답했다.&lt;br /&gt;&lt;br /&gt;박 지검장은 11월 7일 대검찰청 반부패부장으로 재직 중 대장동 항소에 대해 중앙지검에 재검토를 지시한 것으로 알려졌다. 박 지검장은 이에 대해 "저에 대해 정확하지 않은 내용이 퍼져 있는 것 같다"고 말했다. 구체적인 내용은 밝히지 않았다.&lt;br /&gt;&lt;br /&gt;박 지검장은 대장동 범죄수익금 환수가 어렵게 됐다는 지적에 "오늘 담당 부서에 직접 보고도 받고 같이 연구해 보겠다. 최선을 다해야겠다"고 말했다.</description>
 			<pubDate>Fri, 21 Nov 2025 01:09:00 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<link>https://www.lawtimes.co.kr/news/213288</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213288</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213288.jpg</media:thumbnail>
-			<dc:creator>신나영 기자</dc:creator>
-		</item>
-		<item>
-			<title>동아대 로스쿨, 판사·검사·재판연구원 등 총 12명 배출</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213287.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;동아대 로스쿨 출신 2026년 검사, 로클럭 합격자들이 이해우(앞줄 오른쪽에서 네 번째) 총장 및 로스쿨 교수들과 기념촬영을 하고 있다. 《사진=동아대》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;동아대 로스쿨(원장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4675"&gt;송시섭&lt;/span&gt;)이 2026년 판사 1명, 검사 7명, 재판연구원 12명을 배출했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;동아대 로스쿨은 "개원 이래 최대 성과"라며 "지방대라는 여건과 입학정원 80명을 고려하면, 주목할 만한 결과"라고 강조했다.&lt;br /&gt;&lt;br /&gt;이해우 동아대 총장은 11월 12일 합격자들을 만난 자리에서 "우리 로스쿨이 역대 최다 공직 합격자를 배출한 것은 매우 고무적"이라며 “훌륭한 교수님들과 탁월한 재학생·졸업생들이 잘해줘서 우리 로스쿨을 명문으로 만들고 있다”고 말했다.&lt;br /&gt;&lt;br /&gt;이다교 검사 임용 예정자는 "학부 때부터 대학원까지 공부하는 동안 학교에서 많은 지원을 해줬다”며 “앞으로 부산과 동아대에 더 기여하는 사람이 되도록 최선을 다하겠다"고 말했다.</description>
-			<pubDate>Wed, 19 Nov 2025 13:16:28 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213287</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213287</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213287.jpg</media:thumbnail>
 			<dc:creator>신나영 기자</dc:creator>
 		</item>
 	</channel>
