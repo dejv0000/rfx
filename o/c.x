@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경남 진주 다가구 주택 화재… 20·30대 남성 2명 심정지</title>
+      <link>https://www.chosun.com/national/incident/2025/11/22/W7735JQ25RGULAGVJ7UBRNN62U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/22/W7735JQ25RGULAGVJ7UBRNN62U/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 02:47:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVTDAMRYMNSTOMZWMJRWINDEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주 상봉동 원룸 화재 현장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 진주의 한 다가구 주택에서 새벽 불이 나 거주자 2명이 심정지 상태에 빠졌다.&lt;br&gt;&lt;br&gt;22일 오전 4시 52분쯤 진주시 상봉동 한 4층짜리 다가구 주택 2층에서 화재가 발생했다. 불은 내부 가재도구를 태우며 연기가 급속히 퍼져 주민 8명이 급히 대피했다. 30대 남성 1명과 20대 남성 1명은 심정지 상태로 발견돼 병원으로 옮겨졌고, 50대 남성 1명도 연기 흡입으로 치료를 받고 있다.&lt;br&gt;&lt;br&gt;부상자 3명 모두 2층 거주자인 것으로 확인됐다.&lt;br&gt;&lt;br&gt;불은 보일러 등 가재도구와 56㎡를 태우고 약 40분 만에 꺼졌다. 소방 당국은 2층에서 불이 시작된 것으로 보고 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘스포츠 원로’ 故김운용 유족, 법인에 “이름 쓰지말라” 소송 냈지만... 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/22/C4CC5ZJDYJCONGKAQDB4DU74OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/22/C4CC5ZJDYJCONGKAQDB4DU74OI/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 02:10:14 +0000</pubDate>
+      <content:encoded>한국 스포츠계의 원로였던 고(故) 김운용 세계태권도연맹 초대 총재의 유족이 김 총재의 이름을 사용하지 말라며 사단법인을 상대로 소송을 냈으나 패소했다. 김 총재는 국기(國技)인 태권도 중흥과 스포츠 외교에 평생 헌신했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OQGV3I6OWFE2PCIHPXPZXRC7EM.png"&gt;&lt;figcaption&gt;&lt;small&gt;김운용 세계태권도연맹 초대 총재./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 법조계에 따르면, 서울중앙지법 민사61부(재판장 조희찬)는 지난달 24일 김 전 위원장의 장녀 혜원씨가 사단법인 김운용스포츠위원회 등을 상대로 제기한 ‘성명 등 사용금지 청구’ 소송에서 원고 패소로 판결했다. 김 전 위원장의 장녀 혜원씨는 사단법인의 1대 위원장인 아버지가 2017년 10월 별세한 뒤 그해 12월 2대 위원장에 선출됐고, 2020년 12월 임기 만료로 퇴임했다. 이후 김 총재 유족들은 사단법인 초대 이사인 A씨와 운영권을 두고 갈등을 겪었다.&lt;br&gt;&lt;br&gt;유족들은 A씨 등 사단법인 관계자들이 ‘주식회사 김운용스포츠위원회’를 설립한 것을 문제 삼으며 허락 없이 김 총재의 이름을 쓰지 말라는 취지의 민사소송을 제기했다. 사단법인과 A씨 측이 유명인의 이름이나 초상 등을 동의 없이 상업적 목적에 사용할 수 없도록 한 퍼블리시티권을 위반했다는 이유였다.&lt;br&gt;&lt;br&gt;그러나 재판부는 유족 측 주장을 받아들이지 않았다. 재판부는 “제출된 증거만으로는 피고 법인이 고인의 성명을 공정한 상거래 관행이나 경쟁 질서에 반하는 방법으로 사용했다고 보기 부족하다”고 판단했다. 또 “퍼블리시티권의 양도나 상속 가능성, 사후 보호 기간 등이 문제 되는 상황에서 관련 명문 규정 없이 물권과 유사한 퍼블리시티권을 인정할 수 없다”고도 했다.&lt;br&gt;&lt;br&gt;유족 측은 항소장을 냈다가 취하했고, 판결은 지난 11일 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>평년보다 포근한 주말... 큰 일교차에 건강 유의해야</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/11/22/IWRRQRI465FXPBE3LOU3N2O67A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/22/IWRRQRI465FXPBE3LOU3N2O67A/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 00:24:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGMMBQMYZWIOBYGFTDGZRWG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주말까지 평년보다 온화한 날씨 이어져/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일은 첫눈이 내린다는 절기 소설(小雪)이지만 평년보다 다소 포근한 날씨가 이어지겠다. 다만 일부 지역에서 아침 기온이 영하로 내려간 곳이 있고, 일교차가 큰 만큼 건강 관리에 유의해야겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면 이날 오전 8시 기준 주요 도시 기온은 서울 5.5도, 대전 2.2도, 광주 2.8도, 대구 2.4도, 부산 8.7도를 기록했다.&lt;br&gt;&lt;br&gt;경북 봉화군이 영하 3.2도, 강원 철원군이 영하 1도, 경기 파주시가 영하 1.3도를 기록하는 등 곳곳에서 영하권 아침 날씨를 보이기도 했다.&lt;br&gt;&lt;br&gt;예상되는 낮 최고 기온은 13~17도로 평년 8~15도보다 높은 수준이다.&lt;br&gt;&lt;br&gt;일요일인 23일에도 기온은 평년보다 높아 아침 최저 기온이 영하 1도~영상 9도로 예상되고, 낮 최고 기온도 영상 13~18도 수준일 것으로 보인다.&lt;br&gt;&lt;br&gt;주말 동안 일부 지방에선 아침 영하권 날씨가 이어지고, 낮과 밤의 기온 차가 15도 안팎으로 클 전망이다. 강원·경북 지역 해안과 산지 지역에선 매우 건조한 대기 상태가 이어질 예정이다. 강원 강릉시·동해시·삼척군과 경북 포항시·영덕군엔 전날부터 건조 특보가 내려졌다. 기상청은 바람도 약간 강하게 불어 작은 불씨가 큰 불로 번질 수 있으니 야외 활동 때 산불을 포함한 화재 예방에 유의하라고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EYJKIRHD7ZLG7M3FZTIRPXI7QQ.jpg?auth=215b7b34d0389084124b0fc84679419f54c8cabd039580c7ee91888a90c7439e&amp;smart=true&amp;width=3566&amp;height=2452" type="image/jpeg" height="2452" width="3566">
+        <media:description type="plain">[서울=뉴시스] 이영환 기자 = 주말까지 기온이 오름세를 보이며 평년보다 온화한 날씨가 예보된 21일 오후 서울울 중구 덕수궁에서 관광객들이 붉게 물든 단풍을 구경하고 있다. 2025.11.21. 20hwan@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">20hwan</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>흉기 든 강도 상해 입힌 나나 모녀, 정당방위 인정됐다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/22/GZL3RNVLUJHDZGQMXER25GCIRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/GZL3RNVLUJHDZGQMXER25GCIRU/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 23:42:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TN7TROS4BBEGZHJLZHAFFJWAS4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 '애프터스쿨' 출신 배우 나나. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 ‘애프터스쿨’ 출신 배우 나나(34·본명 임진아)가 자택 강도를 제압하는 과정에서 가한 상해가 정당방위로 인정됐다.&lt;br&gt;&lt;br&gt;구리경찰서는 특수강도상해 혐의로 구속된 30대 남성 A씨를 검찰에 구속 송치할 예정이라고 22일 밝혔다. 이번 사건에선 나나와 어머니가 A씨를 제압하며 가한 상해의 법적 성격, 즉 정당방위 인정 여부에 관심이 쏠렸다. 당시 A씨는 흉기를 든 채 침입했고, 이를 막으려 나나 모녀가 몸싸움을 벌였다. 이때 A씨는 흉기에 의한 턱 부위 열상을 입은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 피해자와 피의자 진술 등을 토대로 형법 제21조 제1항의 정당방위 여부를 검토했다. 이 조항은 ‘현재의 부당한 침해’로부터 자기 또는 타인의 법익을 방위하기 위한 행위가 ‘상당한 이유’가 있는 경우 성립한다고 규정하고 있다. 경찰은 나나 모녀에게 실질적인 침해가 있었고, 이를 방어하는 과정에서 A씨에게 심각한 상해를 가하지는 않아 정당방위에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 15일 오전 6시쯤 구리시 아천동에 있는 나나 집에 흉기를 들고 침입해 나나 모녀를 위협하고 상해를 가하며 돈을 요구한 혐의를 받는다. 그는 준비한 사다리를 타고 베란다까지 올라간 뒤 열려 있던 문을 통해 침입한 것으로 파악됐다. 비교적 왜소한 체격의 A씨는 집 안에서 나나의 어머니를 마주치자 목을 조르는 등 상해를 가했다.&lt;br&gt;&lt;br&gt;어머니의 비명을 들은 나나가 잠에서 깨 A씨를 막으려 나섰고, 몸싸움 끝에 모녀가 A씨 팔을 붙잡아 움직이지 못하게 한 뒤 경찰에 신고했다. 나나의 어머니는 부상으로 한때 의식을 잃기도 했으나 치료 후 회복했고 나나 역시 상처를 입어 치료를 받았다. 이후 나나가 특공무술 공인 4단 보유자였다는 사실도 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 무직이며 이른바 사생팬이거나 특정 연예인의 집을 노린 범행은 아니라고 전했다. 나나 모녀도 A씨와 일면식이 없다고 진술했다. A씨는 경찰 조사에서 “집에 아무도 없을 줄 알고 들어갔다”며 “연예인이 사는 곳인지 몰랐고 생활비가 부족해 범행했다”는 취지의 진술을 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>태극마크 달고 페달 밟는 최태호</title>
       <link>https://www.chosun.com/national/people/2025/11/19/DIW4RYANXFC75MQ4YVCHCK2XY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/19/DIW4RYANXFC75MQ4YVCHCK2XY4/</guid>
@@ -798,15 +838,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K5KHJZKBLBHSPEBON5AMDPIVT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 오후 10시 52분쯤 광주광역시 북구 동림동의 한 아파트 3층에 난 불을 소방대원들이 끄고 있다. /광주 북부소방서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 한 아파트에서 불이 나 경찰이 수사에 착수했다. 불을 지른 10대는 초기 경찰 수사에서 “휴대전화를 바꿔주지 않아 불을 질렀다”는 진술을 했다.&lt;br&gt;&lt;br&gt;광주 북부경찰서는 21일 집에 불을 지른 혐의(현주건조물방화)로 여중생 A양을 입건해 조사 중이다. 경찰에 따르면 A양은 전날 오후 10시 52분쯤 광주 북구 동림동의 한 아파트 3층 자신의 방에서 라이터를 이용해 침구류에 불을 붙인 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 주민 70여 명이 구조되거나 대피했고, 17명이 연기를 마셔 병원으로 이송됐다. 불로 A양 집이 타면서 소방서 추산 1211만원 상당 재산 피해도 났다. 소방당국은 현장에 출동해 20여 분 만에 불을 껐다.&lt;br&gt;&lt;br&gt;A양은 경찰 조사에서 “휴대전화를 바꾸고 싶은데 (부모가) 교체해주지 않아 불을 질렀다”는 취지의 진술을 한 것으로 전해졌다. 경찰은 소방당국와 함동감식 등을 통해 화재 원인과 경위를 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“단타 위주, 인맥 중심”... 저속노화 박사, 한국 R&amp;D 작심 비판</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/K57T3YRQ2BDZ7GZ2QO7PW5EGWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/K57T3YRQ2BDZ7GZ2QO7PW5EGWM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 00:26:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3WIYD4KTJFDVMDE4ZEU2IF7LM.png"&gt;&lt;figcaption&gt;&lt;small&gt;정희원 박사. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘저속 노화’ 대중화를 이끈 내과 전문의 정희원 박사가 국내 연구·개발(R&amp;amp;D) 구조를 “단타 위주” “인맥 중심”이라고 비판했다. &lt;br&gt;&lt;br&gt;21일 과학기술계에 따르면, 정 박사는 최근 자신의 유튜브에 ‘한국에 노벨 과학상 수상자가 없는, (아마도) 없을 이유’란 제목의 콘텐츠를 올려 “한국은 막대한 투자에도 톱다운, 단기 성과, 권위주의 등 장애 요인이 내재해 있다”며 “이런 한계를 극복하지 못하면 노벨 과학자 수상자 배출은 요원하다”고 했다. &lt;br&gt;&lt;br&gt;의사 과학자로 지난 12년간 연구 계획서를 쓰며 느낀 경험이라고 밝힌 그는 “노벨상이 목적이 될 수 없다”면서도 “노벨 과학상이 안 나오는 건 R&amp;amp;D 현실을 보여주는 한 단면”이라고 했다. 그러면서 “투자는 최고지만 성과는 낮다”고 했다.&lt;br&gt;&lt;br&gt;정 박사는 국내 R&amp;amp;D 투자가 연 20조원 이상으로 규모가 세계 상위권이지만, 성과 지표는 최하위권이라고 짚었다.&lt;br&gt;&lt;br&gt;이런 이유로 정 박사는 우선 한국의 R&amp;amp;D 환경이 단타 연구에만 몰두하고 장기 연구가 불가능한 구조인 점을 꼽았다. 한국 연구가 응용 기술 투자 위주로 3~5년 단타로 이뤄지고 있다며 “연구 과제에서 미흡(C)을 받으면 다시는 국책 과제를 못 하다 보니 100% 성공하고 있다”고 했다. 이어 “한 30년 연구를 깊게 파야 노벨상을 받는다”며 한 기사를 인용한 뒤 “실패를 감싸는 제도가 과학의 토대”라며 “한국도 장기적 구조로 바뀌어야 한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ALPVW6WE3NCYVORDMEJ4GMTHRE.png"&gt;&lt;figcaption&gt;&lt;small&gt;정 박사가 국내 연구개발(R&amp;D) 한계를 지적하고 있다. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;단기 성과를 내기 위해 연구 성과 평가도 해외에 외주를 줘 국내 학술지 질도 저하한다고 짚었다. 정 박사는 “임팩트 팩터(IF·피인용 지수)가 높은 해외 ‘네이처’ 이런 학술지는 게재료가 5000~7000달러(약 730만~1000만원)로 외화를 낸다”며 “이 논문이 해외에 실리면 소프트 파워를 잃는 것”이라고 했다. 아울러 “해외 에디터들이 당장 관심 있는 주제로만 연구가 이뤄진다”며 이 과정에서 국내 학술지에 투고가 없어 학술지 질은 떨어지고, 해외로 논문 게재료도 유출되는 악순환이 이어진다고 했다. &lt;br&gt;&lt;br&gt;정 박사는 현재 R&amp;amp;D 문제는 과거 담합 등으로 연구비를 나눠 먹던 고질적 관행을 극복하지 못해 일어나는 일들이라며 아직도 권력이 있는 연구자가 대형 과제를 수주하는 ‘연구비 헌터’ 현상이 있다고 했다. 그는 “윗분들이 떡을 크게 자르고, 네트워킹 잘하면 큰 떡이 떨어지고, 추진 역량을 돈으로 살 수 있고, 그럼 해 본 일이 많으니 또 돈을 딴다”며 “훌륭한 연구자들이 많지만, 그렇지 않은 분들도 있다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;이어 “대형 과제 위주로 하니 초기 투자를 안 해서 독립 연구자는 연구비를 못 딴다”며 “실력이 좋아도 과제를 못 따서 계속 못 딴다. 저 같은 비전임 연구자가 연구할 수 있는 과제가 10년간 현격히 줄었다”고 했다. &lt;br&gt;&lt;br&gt;정 박사는 “한국에서는 새로운 걸 하면 안 되고 제일 쉬운 건 해외에서 뜨는 걸 카피하는 것”이라며 “새로운 걸 제시하면 ‘그런 게 어디 있느냐’고 이야기하니 얼추 뜨는 걸 모사해서 치고 빠지기 수법으로 해야 한다”고 했다. &lt;br&gt;&lt;br&gt;끝으로 “한국의 신진 연구 지원도 초기 투자가 잘되지 않고 그때 유망한 주제에 집중하고 있다”며 “연배가 많은 교수가 갓 전임된 연구자 명의를 빌려 신진 연구를 쓰고, 신진조차도 유망 분야에서 네이처나 사이언스급 논문을 낸 연구자들이 주로 선정된다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>승무원 4명인데 승객은 3명… ‘눕코노미’로 소문난 괌 노선</title>
       <link>https://www.chosun.com/national/national_general/2025/11/21/JBOFBTYNCRHQRFRRWNPBCF5PY4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/JBOFBTYNCRHQRFRRWNPBCF5PY4/</guid>
@@ -823,15 +854,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 15:53:00 +0000</pubDate>
       <content:encoded>정부가 민주노총이 요구한 ‘노정(勞政) 협의체’를 만들겠다는 입장을 밝혔다. ‘사(使)’ 측은 빼고 정부가 노동계와 직접 대화하겠다는 것이다. 이에 따라 양대 노총의 입김이 앞으로 더 강해질 것이란 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZBZWEXNCFDZLPOR7JPBNGOQAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관은 20일 기자 간담회를 열고 “노정 간 불신이 있다는 민주노총 주장에 전적으로 공감한다”며 “협의회든 간담회든 끊임없이 만나고 대화하는 속에서 신뢰가 형성된다면 (대화) 형식의 수준이 높아질 것”이라고 했다. 이 같은 발언은 지난 9월 양경수 민주노총 위원장이 이재명 대통령을 만나 “불평등, 노동 문제 등을 해결하기 위해서 전면적인 노정 교섭을 제안한다”고 밝힌 데 대한 응답이란 해석이 나온다. 고용노동부 관계자는 “현재 노정 간 대화가 필요하다는 공감대가 있다”며 “오늘 발언은 노정 간 여러 층위의 대화가 진행될 수 있다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;노동부 안팎에서는 이미 노정 협의체 구성이 급물살을 타고 있다는 얘기가 나오고 있다. 양대 노총과 정부 실무자들이 논의 진행 방식, 의제와 관련한 협의도 진행한 것으로 알려졌다. 정부는 노정 협의체를 만들 경우 민주노총, 한국노총과 각각 별도의 대화 채널을 만들 것으로 전망된다. 이들이 요구하는 의제가 다르기 때문에 따로 소통하는 게 효율적이라고 판단한 데 따른 것이다.&lt;br&gt;&lt;br&gt;그러나 노정 협의체가 만들어지면 경영계의 목소리는 상대적으로 더 줄어들 수밖에 없다. 현재 노·사·정이 함께 논의하는 대통령 직속 경제사회노동위원회(경사노위)가 있지만, 민주노총은 참여하지 않아 반쪽짜리란 지적을 받고 있다. 한 경영계 관계자는 “현 경사노위 체제에서도 정부가 사실상 노 측 입장을 옹호하는 경우가 많아 ‘2대1’ 싸움을 하고 있는데, 노정 협의체까지 발족하면 경영계 의견이 전달되기가 더 어려워질 것”이라고 했다. 더욱이 민주노총은 지난달 경사노위 대신 국회에 만들어진 ‘사회적 대화 기구’에 26년 만에 참여해 여당과 직접 소통 채널을 열었다. 이런 상황에서 노정 협의체까지 가동되면 경사노위 기능 자체가 약화할 것이란 분석이 나온다. &lt;br&gt;&lt;br&gt;김 장관은 이날 최근 논란이 되고 있는 ‘새벽 배송’에 대해선 “(야간 노동은) 국제암연구소(IARC)가 2급 발암 물질로 규정할 정도로 해로운데 (새벽 배송이) 이를 감내해야만 할 정도의 서비스인지 공론화돼야 한다”며 “만약 유지돼야 할 서비스라고 한다면 이를 감내해야 할 노동자들을 어떻게 보호할지, 그 논의가 이어져야 할 것”이라고 말했다. 민주노총 택배노조 역시 IARC 분류를 근거로 ‘새벽 배송 제한’을 주장하고 있다. 그러나 이 분류는 직접적으로 암을 유발하는 게 아니라 ‘발암 가능성’을 뜻한다. 야간 노동과 함께 2급으로 분류된 것 중에는 돼지고기나 소고기 등 적색육, 65도 이상 뜨거운 음료 등 일상에서 매일 먹는 것도 포함돼 ‘야간 노동은 곧 2급 발암 물질’이란 논리는 비과학적이라는 반박도 나오고 있다.&lt;br&gt;&lt;br&gt;김 장관은 정년 연장과 관련해선 “연내 입법이 돼야 한다는 입장에는 변화가 없다”고 했다. 그러면서 “정년 연장은 청년들이 선호하는 대기업·공공 부문의 일자리에서 충돌한다”며 “이쪽에서 정년이 연장되면 기업 측에서는 청년 고용을 줄일 수밖에 없을 테니 ‘세대 상생형’으로 어떤 식으로든 타협점을 찾아내야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해경 발 빠른 초동 조치, 현장과 소통하며 구조 작전… 세월호 때와 달라</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/H6CUXRZRE5GP7GO4K2HG7EFUYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/H6CUXRZRE5GP7GO4K2HG7EFUYE/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 15:56:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3TOZLBMVQWIMDDHAYDGMBXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 8시 17분쯤 전남 신안군 장산면 족도에 267명이 탑승한 여객선이 좌초돼 해경이 구조 작업을 벌이고 있다. /해경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 오후 승객과 선원 267명을 태운 여객선 퀸제누비아 2호가 좌초된 전남 신안군 족도 인근은 2014년 세월호가 침몰한 지점에서 약 45㎞ 떨어진 지점이었다. 이날 사고 신고가 접수된 시각은 오후 8시 17분. 한 승객이 다급한 목소리로 “선수(뱃머리)가 섬에 올라탔다”고 했다. &lt;br&gt;&lt;br&gt;이명준(57·치안감) 서해지방해양경찰청장은 20일 본지 통화에서 “한밤중에 수백 명이 탑승한 대형 선박이 좌초됐다는 보고를 듣자마자 눈앞이 캄캄해졌다”며 “세월호 참사가 불현듯 떠올랐다”고 했다. 세월호는 2014년 4월 16일 전남 진도군 조도면 맹골수도를 지나던 중 침몰했다. 탑승자 476명 중 무려 304명이 희생됐다.&lt;br&gt;&lt;br&gt;11년 전과 달리 퀸제누비아 2호는 탑승객 전원이 구조됐다. 사고 발생 4시간 35분 만에 승객 246명이 구조돼 목포항으로 이송됐다. 이어 선박에 남아 있던 승무원 21명도 4시간 52분 뒤 무사히 구조됐다. 구조에 참여했던 사람들은 “해경의 발 빠른 구조 작전 덕분에 승객 전원이 생존할 수 있었다”고 평가했다.&lt;br&gt;&lt;br&gt;세월호 사고 때와는 초기 대응부터 달랐다. 해경은 사고 직후 신고자에게 다시 전화해 현장 상황을 파악했다. 그러고는 탑승자 전원에게 구명조끼를 입으라고 전파했다. 곧이어 경비함정 17척, 구조정 4척, 항공기 1대 등을 총출동시켰다. 배는 이미 왼쪽으로 15도 정도 기울어져 있었지만, 경비함정은 신고 접수 21분 만에 현장에 도착했다. 이 청장은 당시 상황에 대해 “사고 선박이 해경 구조정에 비해 워낙 커서 어느 지점에 배를 대고 구조 작업을 시작할지 판단하기가 쉽지 않았다”고 했다. &lt;br&gt;&lt;br&gt;해경은 승객들을 선박 내 차량 선적장으로 불러 모은 뒤, 구조정을 선박 꼬리 쪽에 있는 차량 출입구에 대고 구조 작업을 시작했다. 이 청장은 “현장을 눈으로 본 직원 판단을 믿고 구조 작전을 짰다. 소형정 4척으로 후미 램프 쪽에서 승객 10~20명씩을 ‘릴레이 방식’으로 교대로 태워 날랐다”고 했다.&lt;br&gt;&lt;br&gt;‘골든타임’을 놓치지 않기 위해 ‘매뉴얼’도 유연하게 적용했다. 이 청장은 “구조자에 대한 신분증 검사 등 신원 확인이 원칙인데, 일단 살리고 보자는 생각에 ‘머릿수만 세고 일단 태워라. 선(先)구조 후(後)신원 파악을 하라’고 지시했다”고 말했다. 이 청장은 “해상 재난을 대비한 훈련을 평소 꾸준히 해온 덕에 순발력 있는 초동 조치가 이뤄졌다”며 “탑승객들도 동요하지 않고 지시를 차분하게 따라줘서 별다른 인명 피해 없이 사고를 수습할 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘패스트트랙 충돌’ 유죄 국힘 6명 의원직은 유지</title>
@@ -904,28 +926,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 12:18:39 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XSQWJWCBNHZLXKNVHBFWKEDJRU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사25부(재판장 지귀연)이 서울 서초구 서울중앙지법 417호 법정에서 재판을 진행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령과 군·경 관계자들 내란 재판을 담당하는 서울중앙지법 형사25부(재판장 지귀연)가 내년 1월 중순 최후 변론을 3일에 걸쳐 듣겠다는 방침을 밝혔다. 형사 재판에서 변론을 마무리하며 검찰과 피고인 측이 최종 입장을 밝히는 결심(結審) 공판을 수일간 진행하는 것은 이례적이다.&lt;br&gt;&lt;br&gt;재판부는 20일 윤 전 대통령의 내란 우두머리 사건 재판 막바지에 “세 사건을 병합한 뒤 오는 1월 5, 7, 9일 최후변론과 PPT를 통해 최종적으로 얘기할 시간을 갖겠다”고 했다. 다만 증인신문 등 절차가 지연될 것을 대비해 1월 16일까지 예비로 기일을 잡아두기로 했다. 윤 전 대통령이 지난 1월 26일 기소된 이후 약 1년 만에 변론이 종결되는 것이다.&lt;br&gt;&lt;br&gt;앞서 재판부는 김용현 전 국방장관 등 전직 군 수뇌부 3명과 조지호 경찰청장 등 전·현직 경찰 지도부 4명의 내란 중요임무 종사 사건을 윤 전 대통령 재판과 병합한 뒤 마무리 절차에 돌입하겠다고 밝힌 바 있다. 결심 공판을 위한 기일을 3일 이상 지정한 것은, 피고인 8명의 입장과 쟁점이 다른 만큼 각자 최후 변론할 시간을 넉넉하게 주겠다는 취지로 읽힌다. 통상 결심 공판 이후 선고까지 한 달가량 걸리는 것을 감안하면, 2월 중순 법관 정기 인사 전에 1심 선고가 이뤄질 전망이다. &lt;br&gt;&lt;br&gt;한편, 재판부는 오는 26일 공판 준비기일을 별도로 진행해 내란죄 구성에 관한 검찰과 피고인 측의 법리 주장과 남은 증인별 입증 계획 등 향후 재판 계획을 정리하기로 했다. 또 같은 날 윤 전 대통령 측의 내란 특검법에 대한 위헌법률제청 신청에 대한 심문기일도 열겠다고 밝혔다. 윤 전 대통령 측은 재판 과정을 의무적으로 중계하는 등의 내용이 담긴 내란 특검법이 헌법에 어긋나는지 헌법재판소 심판을 받게 해달라며 지난달 재판부에 위헌법률제청 신청서를 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘상금 10억’ 안세영 “지갑 하나 샀다”... 소박한 소비 눈길</title>
-      <link>https://www.chosun.com/national/people/2025/11/20/QBC4I3D2LBGS3JKWE4WN5Q6SWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/20/QBC4I3D2LBGS3JKWE4WN5Q6SWQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 12:07:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VFFQVDITBBPHBM5EMECAVERVAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배드민턴 선수 안세영./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배드민턴 여자 단식 세계 랭킹 1위 안세영(23)이 상금만 10억원을 벌고도 여전히 소박한 소비 습관을 유지하고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;지난 19일 방송된 tvN ‘유 퀴즈 온 더 블럭’에는 안세영 선수가 게스트로 출연했다. 안세영은 8살 때 배드민턴을 시작해 23살이 된 지금까지 줄곧 선수 생활을 이어오고 있다. 올해에만 국제 대회 13개에 출전해 9번 우승, 승률 94%를 기록 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DHY2BFAYCRAZTAFEXNGR5ZUJF4.png"&gt;&lt;figcaption&gt;&lt;small&gt;배드민턴 선수 안세영./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 안세영은 이번 시즌 누적 상금이 10억원을 넘겼지만, 정작 본인을 위해 쓰는 돈은 거의 없다고 했다. 그는 “밥 먹을 때 언니들이 ‘돈 잘 버니까 쏴라’고 하면 흔쾌히 쏜다”며 “은사님들께 선물도 많이 하고 후배들한테 간식도 많이 산다”고 말했다. 이어 본인을 위해 쓴 지출이 있느냐는 질문에는 “딱히 사고 싶은 게 많지 않아서 최근에 지갑을 하나 바꾼 정도”라며 “동생을 꾸미는 맛이 있어서 머리부터 발끝까지 꾸며줬다. 남한테 선물했을 때 더 기쁨을 느끼는 편”이라고 했다.&lt;br&gt;&lt;br&gt;이를 들은 조세호는 두 사람을 향해 “두 분이 비슷하다. 각자 분야에서 압도적인 1위들 아니냐”고 말하며, 유재석에게 “형도 스스로에게는 크게 소비하지 않는 편 아니냐”고 묻기도 했다. 유재석은 “맞다. 나한테는 그렇게 크게 쓰는 일이 없다”며 안세영의 소비 습관에 공감했다.&lt;br&gt;&lt;br&gt;안세영은 인간관계에서 오는 고충도 털어놨다. 그는 “인간관계에서 스트레스를 많이 받는 편”이라며 “제가 단식 선수라서 혼자 하는 거에 익숙하다. 다른 사람들한테 말 한 번 붙이기도 조심스럽고 이분의 시간을 뺏는 건 아닌가라는 생각이 많이 들어서 사람을 대하는 게 어렵더라. 잘하는 게 배드민턴밖에 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 그는 앞으로의 목표에 대해 “항상 꾸준하게 좋은 성적을 내는 것”이라며 “앞으로도 다치지 않고 앞에 있는 대회부터 계속 우승을 쌓아가면 어느새인가 제가 또 기억에 남는 한 챕터를 만들지 않을까 한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UTRLEOI4XNHLTL6AJVNLI67GNQ.png?auth=dc7505e117a19f194ac2d907f7baa32595c61001e04f4747d1bc966cfee3b2e9&amp;smart=true&amp;width=320&amp;height=240" type="image/png" height="240" width="320">
-        <media:description type="plain">배드민턴 선수 안세영./tvN</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>고려대서 또 집단 부정행위 정황...“재시험 예정”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/20/OOJLUR55CRHKVGYCVKL5H4QDLY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/20/OOJLUR55CRHKVGYCVKL5H4QDLY/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 11:57:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQWCMDEMRSWKNRYGFSWCN3CHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고려대 전경/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1400여 명이 듣는 교양수업에서 오픈채팅방을 통한 집단 부정행위가 드러나 논란이 됐던 고려대에서 또다시 부정행위 정황이 발견됐다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 고려대 공과대학의 한 전공수업에서는 20일 오전 10시 30분 수강생 80여명을 대상으로 온라인 퀴즈 시험이 실시됐다. 이전과 달리 학교 강의실에서 치러진 대면 시험이었다. &lt;br&gt;&lt;br&gt;하지만, 이 퀴즈는 답안을 제출한 뒤에도 결과를 확인하고 재응시를 할 수 있던 것으로 알려졌다. 이러한 허점을 파악한 수강생들은 틀린 문제를 확인하고 퀴즈를 반복적으로 응시한 것으로 전해졌다. 일부 학생들은 문제를 푸는 과정에서 챗GPT 같은 AI 프로그램을 사용하기도 했다고 한다. 이런 부정행위는 일부 수강생의 제보를 통해 알려졌다.&lt;br&gt;&lt;br&gt;이 수업을 담당했던 교수는 “다수의 학생들이 퀴즈를 반복 응시한 정황을 발견했다”며 “재시험을 볼 예정”이라고 공지했다. 시험에서 잇달아 부정행위가 발견된 고려대도 재발 방지 대책을 고심 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>3년간 아들 학대해 살해한 친모, 2심도 징역 25년</title>
