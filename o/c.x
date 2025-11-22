@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>34일 도주 끝에 체포된 ‘도이치 주가 조작’ 공범 구속돼</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/22/7HL5AI5KURDS3NRN476NNB5EPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/22/7HL5AI5KURDS3NRN476NNB5EPA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 13:59:23 +0000</pubDate>
+      <content:encoded>차명 계좌를 이용해 ‘도이치모터스 주가 조작’에 가담한 혐의를 받는 김건희 여사 지인이 22일 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XK4EQDLGGFNV7PCWJ2YXOXYAAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희특검 사무실로 압송되는 도이치모터스 주가 조작 피의자 이모씨./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 소병진 부장판사는 이날 자본시장법 위반 혐의를 받는 공범 이모씨의 구속영장 청구서와 수사 기록 등을 검토한 뒤, “증거인멸 우려와 도망 염려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;이씨는 지난달 민중기 특별검사팀의 압수 수색 도중 도주해 34일 동안 도피를 이어왔다. 지난 20일 충북 충주시에 있는 한 휴게소에서 덜미를 잡혀 체포됐고, 특검은 서울 종로구 광화문 KT웨스트빌딩에 있는 조사실로 압송했다. 조사를 진행한 뒤 전날 구속영장을 청구했다. 이씨의 구속영장 실질심사는 이날 오후 3시로 예정돼 있었지만, 이씨는 영장 심사를 포기했다.&lt;br&gt;&lt;br&gt;이씨는 검찰 수사 단계에선 주가 조작에 직접 참여했다는 증거가 충분히 확보되지 않아 재판에 넘겨지지 않았지만, 특검은 이씨가 차명 계좌를 이용해 주가 조작에 가담했다고 의심한다.&lt;br&gt;&lt;br&gt;수사 과정에서 특검은 이씨와 김건희 여사가 오랜 기간 가깝게 지낸 정황도 확인한 상태다. 특히 이씨가 김 여사에게 ‘건진 법사’ 전성배씨를 소개한 정황이 담긴 문자 메시지를 확보했다. 전씨는 지난 2022년 4~7월 세 차례에 걸쳐 샤넬 가방과 그라프 목걸이 등 8293만원어치 명품을 통일교 현안 청탁과 함께 김 여사에게 건넨 혐의로 재판을 받고 있다. 김 여사도 같은 혐의로 기소돼 전씨와 따로 재판받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>건조특보 속 양양서 산불…주민 긴급 대피 권고 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/22/PO3MOTVBNJGARO2BA57PCXFD6M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/PO3MOTVBNJGARO2BA57PCXFD6M/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 13:15:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QRCPFBMRE5MZJOAOQUUQXZR5KU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 오후 6시 26분쯤 강원 양양군 서면 서림리에서 산불이 나 산림·소방 당국이 진화 중이다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 강원 양양군 서면 야산에서 불이 아래로 번지자 지자체가 인근 주민들에게 긴급 대피를 권고했다.&lt;br&gt;&lt;br&gt;양양군은 이날 오후 7시35분 재난안전문자를 통해 서림리·황이리·영덕리·갈천리·송천리 등 화재 인근 지역 주민들에게 마을회관 등으로 대피할 것을 안내했다.&lt;br&gt;&lt;br&gt;불은 앞서 오후 6시16분쯤 서림리의 한 펜션 인근 야산에서 발생했다.&lt;br&gt;&lt;br&gt;산림청과 강원도소방본부는 즉시 진화 작업에 나섰다. 당국은 진화 장비 93대와 인력 356명, 열화상 드론 등을 투입해 불을 끄고 있다. 하지만 야간 산불 특성상 시야 확보가 어렵고 인력 접근도 쉽지 않아 진화에 어려움을 겪는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;산불이 난 지역에는 현재 건조주의보가 발효 중이며, 초속 4∼5ｍ의 바람이 불고 있다. 불길은 바람을 타고 조침령 5부 능선 인근까지 500여ｍ 길이의 띠를 이뤄 아래로 번지고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;산림 당국은 내일 일출 시각인 오전 7시 15분께 헬기 13대를 투입해 진화에 나설 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강남 한복판서 회장 가족 위협해 돈 요구한 수행 기사 구속 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/22/ECFVLD42ZVGW3BH7BR3TA7BNMY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/ECFVLD42ZVGW3BH7BR3TA7BNMY/</guid>
+      <dc:creator>장윤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 22 Nov 2025 11:17:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KRBOYWLUBPJZ7NMYRYSQJXT5SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중소기업 회장 가족을 흉기로 위협해 금품을 뺏으려 한 수행기사가 구속됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 전일 중소기업 회장의 수행기사인 50대 남성 A씨를 특수강도 미수 혐의로 구속했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 19일 오후 6시쯤 강남구 역삼동에서 자신의 수행 대상인 30대 여성과 갓난아기를 차에 태우고 흉기로 위협해 현금을 요구한 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자들은 차량이 잠시 멈춘 틈을 타 달아난 뒤 경찰에 신고했다. 경찰은 A씨를 임의동행해 검거하고 3시간 여 만에 현장 주변에서 그가 버린 흉기를 발견했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘응급실 뺑뺑이 사망’ 부산 고교생, 14번 거절 당했다</title>
       <link>https://www.chosun.com/national/national_general/2025/11/22/4NNSYNQDHBF75LBNWAX3DXG7FY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/4NNSYNQDHBF75LBNWAX3DXG7FY/</guid>
@@ -849,15 +876,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 12월 무안공항에서 발생한 ‘제주항공 여객기’ 참사 관련 허위 사실을 유포하고, 희생자와 유족의 명예를 훼손한 유튜버들이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사항소1부(재판장 김종수)는 21일 정보통신망법상 명예훼손 혐의로 기소된 60대 남성 유튜버 A씨에게 항소심에서도 원심과 같은 징역 3년을 선고했다. 항소심 재판부는 “원심 판단이 잘못됐다고 보이지 않는다”며 “양형도 적절한 것으로 보인다”며 피고인 측의 항소를 기각했다.&lt;br&gt;&lt;br&gt;다만 같은 혐의로 기소된 80대 남성 유튜버 B씨에 대해서는 징역 1년에서 징역 8개월로 감형했다. 항소심 재판부는 “A씨에 비해 범행 가담 정도가 경미하고, 범죄 전력이 없는 점 등을 고려해 볼 때 원심의 형은 다소 무겁다고 보인다”고 판시했다.&lt;br&gt;&lt;br&gt;이들은 지난해 12월 30일부터 올해 1월 21일까지 무안항공에서 발생한 제주항공 여객기 참사와 관련 “사고는 실제로 발생하지 않았고 사고 영상은 컴퓨터 그래픽(CG)로 처리된 허위 영상”이라고 주장하는 허위 영상을 유튜브 등에 100여 차례 올려 피해자와 유족들의 명예를 훼손한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;특히 A씨는 세월호와 이태원 참사, 이재명 대통령 피습 사건 등이 조작됐다는 영상도 올렸으며, 이번 제주항공 참사가 당시 더불어민주당 이재명 대표가 사후에 조작했다는 등의 주장도 펼쳤다.&lt;br&gt;&lt;br&gt;A씨는 또 2014년 세월호 참사 직후 온라인 커뮤니티에 “세월호 일등 항해사는 국가정보원 요원”이라거나 “정부와 해양경찰이 자행한 학살극”이라는 허위 게시물을 올려 2018년 대법원에서 징역 1년 6개월을 확정받았다.&lt;br&gt;&lt;br&gt;1심 재판부는 지난 8월 “안타까운 사고를 두고 자신들의 이익을 위해 온갖 억측과 음모로 점철된 거짓 영상을 제작해 불특정 다수의 사람이 볼 수 있는 유튜브 채널 등에 허위 영상을 게시하는 등 죄질이 좋지 않다”며 A씨에게 징역 3년을, B씨에게 징역 1년을 각각 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인권위원장 “우크라 北 포로, 강제 송환 막아야” </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/6T5OGV627RARDHB67JRK54GERA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/6T5OGV627RARDHB67JRK54GERA/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 01:39:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;러시아-우크라이나 전쟁에서 생포된 북한군 포로 2명을 강제 송환해서는 안된다고 안창호 국가인권위원장은 밝혔다. &lt;br&gt;&lt;br&gt;안 위원장은 21일 성명서를 내고 “북한군 포로 송환 문제는 단순한 외교∙안보 사안이 아닌 개인의 생명이 직결된 중대한 인권 문제”라며 “강제 송환을 금지하고 인도적 보호가 필요하다”고 밝혔다. &lt;br&gt;&lt;br&gt;전쟁 포로에 관한 국제법 규정상 박해, 고문 등의 위험이 있는 국가로 개인이 강제 송환되는 것은 금지돼 있다. 그는 제네바 제3협약과 유엔(UN)의 ‘강제송환 금지의 원칙’을 들며 “북한군 포로의 의사에 따라 한국행이 이뤄질 수 있도록 우리 정부는 적극적으로 노력해야 한다”고 했다. &lt;br&gt;&lt;br&gt;이어 “정부는 관련 법령에 따라 그들에 필요한 보호와 지원을 제공할 것이라고 발표한 바 있다”고 말했다. 앞서 지난 2월 외교부는 “북한군은 헌법상 우리 국민”이라며 포로 송환 관련 개인의 자유의사 존중이 국제법과 관행에 부합할 뿐만 아니라, 본인의 의사에 반하여 박해받을 위협이 있는 곳으로 송환돼서는 안 된다”고 밝혔다. &lt;br&gt;&lt;br&gt;우크라이나군에 붙잡힌 북한군 2명은 한국행 희망 의사를 밝힌 것으로 전해졌다. 러시아 쿠르스크로 파병된 정찰∙저격수 북한군 리모(26)씨는 지난 2월 본지 인터뷰에서 “(한국행과 관련해) 80% 결심했다”고 했다. 지난 3월 국민의힘 유용원 의원과의 면담에서는 “우리 부모님과 만나기 위해 꼭 가고 싶어요”라며 “한국에 가게 되면 내가 바라는 권리대로 그렇게 할(살) 수 있을까요”라고 전했다.&lt;br&gt;&lt;br&gt;이에 안 위원장은 “북한군 포로가 국제법에 부합한 처우를 받을 수 있도록 정부가 유엔 및 국제적십자위원회(ICRC)에 철저한 감시를 요청해야 한다”고 촉구했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인제 기린면 산불 17시간만에 진화… 피해 면적 36ha 추정</title>
       <link>https://www.chosun.com/national/incident/2025/11/21/EBYL7EGSDJD7TELOUSTKSNQKSA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/21/EBYL7EGSDJD7TELOUSTKSNQKSA/</guid>
@@ -902,24 +920,6 @@
       <description/>
       <pubDate>Thu, 20 Nov 2025 22:25:26 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME5FOOSOVJRU4XOMMGHFPWD6QY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천공항 계류장 및 활주로에 대한항공과 아시아나항공 비행기의 모습이 보이고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 김해공항에서 부산~괌 등 일부 노선이 텅텅 빈 채로 운행되고 있다. 공정거래위원회 규제로 비인기 노선에서 공급 과잉이 발생했기 때문이다. &lt;br&gt;&lt;br&gt;국토교통부 항공통계에 따르면 지난 7일 괌에서 출발해 부산에 도착한 대한항공 KE2260편 여객기에는 승객 3명이 탑승했다. 여객기 전체 좌석은 180석 규모로, 일반적으로 기장과 부기장, 객실 승무원 4명 등 총 6명의 직원이 탑승한다. 승객보다 직원 숫자가 더 많았던 셈이다. &lt;br&gt;&lt;br&gt;지난 1일 부산에서 출발해 괌에 도착한 대한항공 여객기에도 승객 4명만 타고 있었고, 지난 2일에는 대한항공 부산~괌 항공편 승객을 모두 더해도 19명에 불과했다. &lt;br&gt;&lt;br&gt;다른 항공사 상황도 비슷하다. 현재 김해공항에서는 부산~괌 노선을 대한항공과 진에어가 하루 왕복 1편, 에어부산이 하루 왕복 2편을 운항한다. 11월 대한항공과 진에어, 에어부산의 부산~괌 노선 평균 탑승률은 10~20%에 불과했다. &lt;br&gt;&lt;br&gt;항공업계에서 괌 노선은 일명 ‘눕코노미’(옆 좌석이 모두 비어 누워서 갈 수 있는 이코노미 좌석)의 대명사로 불린다. 괌 여행의 인기는 떨어졌지만, 공정위 규제로 공급은 오히려 늘어났기 때문이다. 괌은 과거 대표 휴양지로 큰 사랑을 받았지만 숙박 시설 노후화, 환율 상승 여파로 비슷한 시간으로 갈 수 있는 휴양지인 베트남 푸꾸옥, 필리핀 보홀 등에 비해 인기가 크게 떨어졌다. &lt;br&gt;&lt;br&gt;이런 상황에서 공정위는 대한항공‧아시아나항공 기업 결합을 조건부 승인하며 대한항공, 아시아나항공, 진에어, 에어부산, 에어서울 등 5개 항공사의 일부 국제선 좌석 수를 2019년 대비 90% 이상 유지하는 조치를 10년간 의무화했다. 항공사들이 노선을 합병‧축소시켜 독과점으로 인한 운임 인상과 공급 축소 부작용을 억제하겠다는 의도였다. 하지만 이로 인해 항공사들은 비인기 노선으로 전락한 괌, 세부 노선 등을 코로나 이전 규모로 증편해야 했다. &lt;br&gt;&lt;br&gt;문제는 이런 노선 운영 제약이 지방 공항 활성화에 큰 악재로 작용하고 있다는 점이다. 탑승률 10% 수준의 비인기 노선을 의무적으로 운항하게 되면서 신규 노선 취항이 쉽지 않은 상황이다. 항공업계에서는 인천공항과 달리 김해공항은 대부분 비인기 노선이 규제를 받고 있기에 일률적인 제재를 다변화해야 한다고 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정부, 사측은 빼고 ‘노정 협의체’ 만든다</title>
-      <link>https://www.chosun.com/national/labor/2025/11/21/XYOFIROOB5E4RHH47AC2NMKMRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/11/21/XYOFIROOB5E4RHH47AC2NMKMRY/</guid>
-      <dc:creator>김아사 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>정부가 민주노총이 요구한 ‘노정(勞政) 협의체’를 만들겠다는 입장을 밝혔다. ‘사(使)’ 측은 빼고 정부가 노동계와 직접 대화하겠다는 것이다. 이에 따라 양대 노총의 입김이 앞으로 더 강해질 것이란 관측이 나온다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6ZBZWEXNCFDZLPOR7JPBNGOQAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영훈 고용노동부 장관은 20일 기자 간담회를 열고 “노정 간 불신이 있다는 민주노총 주장에 전적으로 공감한다”며 “협의회든 간담회든 끊임없이 만나고 대화하는 속에서 신뢰가 형성된다면 (대화) 형식의 수준이 높아질 것”이라고 했다. 이 같은 발언은 지난 9월 양경수 민주노총 위원장이 이재명 대통령을 만나 “불평등, 노동 문제 등을 해결하기 위해서 전면적인 노정 교섭을 제안한다”고 밝힌 데 대한 응답이란 해석이 나온다. 고용노동부 관계자는 “현재 노정 간 대화가 필요하다는 공감대가 있다”며 “오늘 발언은 노정 간 여러 층위의 대화가 진행될 수 있다는 뜻”이라고 했다.&lt;br&gt;&lt;br&gt;노동부 안팎에서는 이미 노정 협의체 구성이 급물살을 타고 있다는 얘기가 나오고 있다. 양대 노총과 정부 실무자들이 논의 진행 방식, 의제와 관련한 협의도 진행한 것으로 알려졌다. 정부는 노정 협의체를 만들 경우 민주노총, 한국노총과 각각 별도의 대화 채널을 만들 것으로 전망된다. 이들이 요구하는 의제가 다르기 때문에 따로 소통하는 게 효율적이라고 판단한 데 따른 것이다.&lt;br&gt;&lt;br&gt;그러나 노정 협의체가 만들어지면 경영계의 목소리는 상대적으로 더 줄어들 수밖에 없다. 현재 노·사·정이 함께 논의하는 대통령 직속 경제사회노동위원회(경사노위)가 있지만, 민주노총은 참여하지 않아 반쪽짜리란 지적을 받고 있다. 한 경영계 관계자는 “현 경사노위 체제에서도 정부가 사실상 노 측 입장을 옹호하는 경우가 많아 ‘2대1’ 싸움을 하고 있는데, 노정 협의체까지 발족하면 경영계 의견이 전달되기가 더 어려워질 것”이라고 했다. 더욱이 민주노총은 지난달 경사노위 대신 국회에 만들어진 ‘사회적 대화 기구’에 26년 만에 참여해 여당과 직접 소통 채널을 열었다. 이런 상황에서 노정 협의체까지 가동되면 경사노위 기능 자체가 약화할 것이란 분석이 나온다. &lt;br&gt;&lt;br&gt;김 장관은 이날 최근 논란이 되고 있는 ‘새벽 배송’에 대해선 “(야간 노동은) 국제암연구소(IARC)가 2급 발암 물질로 규정할 정도로 해로운데 (새벽 배송이) 이를 감내해야만 할 정도의 서비스인지 공론화돼야 한다”며 “만약 유지돼야 할 서비스라고 한다면 이를 감내해야 할 노동자들을 어떻게 보호할지, 그 논의가 이어져야 할 것”이라고 말했다. 민주노총 택배노조 역시 IARC 분류를 근거로 ‘새벽 배송 제한’을 주장하고 있다. 그러나 이 분류는 직접적으로 암을 유발하는 게 아니라 ‘발암 가능성’을 뜻한다. 야간 노동과 함께 2급으로 분류된 것 중에는 돼지고기나 소고기 등 적색육, 65도 이상 뜨거운 음료 등 일상에서 매일 먹는 것도 포함돼 ‘야간 노동은 곧 2급 발암 물질’이란 논리는 비과학적이라는 반박도 나오고 있다.&lt;br&gt;&lt;br&gt;김 장관은 정년 연장과 관련해선 “연내 입법이 돼야 한다는 입장에는 변화가 없다”고 했다. 그러면서 “정년 연장은 청년들이 선호하는 대기업·공공 부문의 일자리에서 충돌한다”며 “이쪽에서 정년이 연장되면 기업 측에서는 청년 고용을 줄일 수밖에 없을 테니 ‘세대 상생형’으로 어떤 식으로든 타협점을 찾아내야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘패스트트랙 충돌’ 유죄 국힘 6명 의원직은 유지</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/HD6C6G5SOZBAHARXF3BGF5LECI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/HD6C6G5SOZBAHARXF3BGF5LECI/</guid>
-      <dc:creator>김도연 기자, 한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 20 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>국회 선거법·공수처법 신속 처리 지정(패스트트랙) 처리 과정에서 빚어진 충돌 사건으로 기소된 국민의힘 나경원 의원, 송언석 원내대표 등 현역 의원 6명이 20일 법원에서 유죄가 인정돼 벌금형을 선고받았다. 다만 형량이 의원직 상실형(국회법 위반 500만원, 일반 형사 사건 금고형 이상)에 못 미쳐 이 형이 확정되더라도 의원직을 유지하게 된다. 함께 기소된 황교안 전 자유한국당 대표(현 자유와혁신 대표)와 전직 의원들도 벌금형을 선고받았지만 피선거권 박탈을 피하게 됐다.&lt;br&gt;&lt;br&gt;서울남부지법 형사11부(재판장 장찬)는 이날 특수공무집행방해, 국회선진화법(국회법) 위반 등 혐의로 기소된 나경원·황교안 등 26명에게 벌금형을 선고했다. 이 사건은 2019년 4월 민주당이 공수처 신설을 위해 정의당 등 친민주당 성향의 군소 정당이 원하는 선거법 개정(연동형 비례대표제)에 합의하고 밀어붙이자, 당시 야당이었던 자유한국당이 이를 저지하며 불거졌다. 나 의원 등은 당시 채이배 바른미래당 의원을 의원실에 감금하거나 국회 사무처 의안과 사무실, 국회 정치개혁특별위원회·사법개혁특별위원회 회의장을 점거한 혐의로 2020년 1월 기소됐다.&lt;br&gt;&lt;br&gt;재판부는 자유한국당 원내대표였던 나 의원에게 특수공무집행방해 등 혐의로 벌금 2000만원, 국회법 위반 혐의로 벌금 400만원을 선고했다. 송언석 현 국민의힘 원내대표는 특수공무집행방해 등 혐의로 벌금 1000만원, 국회법 위반 혐의로 벌금 150만원을 선고받았다. 국민의힘 김정재·윤한홍·이만희·이철규 의원은 특수공무집행방해로 벌금 400만~1000만원, 국회법 위반으로 각 150만원을 선고받았다. 특수공무집행방해는 금고(禁錮) 이상의 형이, 국회법 위반은 벌금 500만원 이상 형이 확정되면 의원직을 잃게 되고, 피선거권도 일정 기간 박탈된다. 재판부는 이날 선고 공판에서 “자유한국당 의원들은 숙의의 전당인 국회에서 물리력을 동원해 입법 활동을 방해했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇법조계 “사건 복잡하다 해도 이리 끌 재판인가”&lt;/b&gt;&lt;br&gt;&lt;br&gt;재판부는 이날 “국회가 과오를 반성하고 신뢰를 회복하고자 마련한 국회의 의사 결정 방식을 (국회) 구성원인 의원들이 스스로 위반한 첫 사례”라고 했다. 국회 의사 진행 과정에서 이른바 ‘동물 국회’란 말이 나올 정도로 물리력이 동원된 정치 행태를 개선하고자 국회가 국회선진화법(국회법 개정안)을 만들어 놓고도 폭력을 동원해 의사 진행을 방해한 만큼 처벌이 불가피하다는 취지다.&lt;br&gt;&lt;br&gt;이와 관련해 재판부는 “(피고인들은) ‘쟁점 법안’의 문제점을 지적하고 부당성을 공론화하려는 정치적 동기로 범행에 나선 것으로 보인다”고 했다. 민주당 등 범여권 정당의 일방 독주를 막으려고 물리력 행사에 나선 점을 참작했다는 취지다. 재판부는 “(패스트트랙) 사건 발생 이래 여러 차례의 총선과 지방선거 등을 거치며 피고인들에 대한 국민들의 정치적 평가도 어느 정도 이뤄졌다”고 했다. 이어 “국회 구성원들이 국민의 다양한 의사를 수렴하고 정책을 결정하는 성숙한 의정문화를 갖추지 못한 것에서 비롯한 것으로 보인다”고도 했다. 나 의원은 판결 후 기자들과 만나 “민주당의 독주를 막을 수 있는 최소한의 수단을 인정받았다”고 했다.&lt;br&gt;&lt;br&gt;이날 선고는 2019년 4월 패스트트랙 처리 과정에서 여야 의원·당직자 간 충돌이 발생한 지 6년 7개월 만에 나왔다. 정치권과 법조계에선 “사건이 아무리 복잡하더라도 재판이 이렇게 오랫동안 늘어진 건 이해하기 어렵다”는 지적이 나왔다. 재판부는 이날 “이 사건과 관련해 검사가 제출한 증거 수가 2000개가 넘고 증인 수가 50명이 넘었다”고 했다.&lt;br&gt;&lt;br&gt;이번 사건은 지난 2012년 도입된 국회선진화법 위반으로 처음 기소된 사례다. 당시 국회는 국회 의사 진행 과정에서 물리적 충돌을 원천 차단하자는 취지에서 국회선진화법을 도입했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>당시 함께 기소된 민주당 10명 28일 결심 공판</title>
