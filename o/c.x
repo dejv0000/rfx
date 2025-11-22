@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>노란봉투법에 ‘교섭 창구 단일화’ 담길 듯</title>
+      <link>https://www.chosun.com/national/labor/2025/11/20/AWJQMYNLWFD3VMGGGGTNVAZSEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/11/20/AWJQMYNLWFD3VMGGGGTNVAZSEY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 19 Nov 2025 15:54:00 +0000</pubDate>
+      <content:encoded>내년 3월 ‘노란봉투법’ 도입을 앞두고, 정부가 이를 위한 시행령에 원·하청 노조의 교섭 창구를 단일화할 수 있도록 하는 내용을 넣기로 했다. 정부는 다음 주에 이를 입법 예고할 예정이다. 그동안 노란봉투법을 둘러싸고 “이 법이 사(使) 측인 ‘사용자’의 범위를 지나치게 넓히면서 하청 업체가 많은 대기업이나 중견기업은 1년 내내 하청 업체들로부터 교섭 요구에 시달릴 것”이란 비판이 제기돼 왔는데, 이를 보완한다는 취지다. 하지만 경영계에선 “노란봉투법이 야기할 혼란을 막기엔 역부족”이란 입장을 보이고 있다. &lt;br&gt;&lt;br&gt;19일 본지 취재를 종합하면, 고용노동부가 준비한 시행령에는 원·하청 노조가 공동 교섭에 합의하지 못하면 교섭 창구 단일화 절차를 밟게 하는 내용이 포함됐다. ‘교섭 창구 단일화’는 복수 노조 등이 존재하는 사업장에서 교섭 대표를 정해 사용자와 교섭하도록 하는 제도다. 하지만 정부는 원청과 하청이 요구하는 근로 조건이 현격하게 차이가 나는 경우, 교섭 창구 단일화 적용을 하지 않고 하청 노조가 사 측과 개별 교섭(교섭 단위 분리)할 수 있도록 예외를 인정해준다는 방침이다. &lt;br&gt;&lt;br&gt;이에 대해 경영계는 “이것만으론 부족하다”는 반응이다. 노란봉투법이 시행되면 노조별로 이합집산이 이뤄지면서, 창구 단일화가 제대로 만들어지지 않을 가능성이 크다는 것이다. 또 일부 기업은 수천 개 하청업체와 일하고 있는데 특정 하청업체의 사용자(사 측)가 맞는지 여부를 가릴 기준이 불명확한 것도 문제로 꼽힌다. 한국경영자총협회 관계자는 “노란봉투법에서 ‘근로 조건에 실질적 지배력을 가지는 자’를 사용자로 규정했는데 이것이 사내 하청만 포함하는지 사외 하청 등까지 포괄하는지 애매한 부분이 너무 많다”고 했다. &lt;br&gt;&lt;br&gt;일단 정부는 혼란을 줄이기 위해 시행령 입법 예고 뒤 추후, 관련 매뉴얼(지침)도 내놓는다는 방침이다. 그러나 이는 법적 구속력이 약해 결국 대부분의 다툼이 법원으로 가는 소송전이 난무할 것이란 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 軍 성범죄 세 차례 겪은 女하사 “더 끔찍했던 건, 軍의 2차 가해”</title>
       <link>https://www.chosun.com/national/2025/11/23/XL2UVQXW6BFWPF6D37YOPQO6YY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/11/23/XL2UVQXW6BFWPF6D37YOPQO6YY/</guid>
@@ -850,15 +859,6 @@
       <description/>
       <pubDate>Fri, 21 Nov 2025 03:00:00 +0000</pubDate>
       <content:encoded>여러 사람이 참여 중인 단체 채팅방에 개인정보를 공개했더라도, 당사자가 개인정보 이용에 미리 동의했다면 누설자를 처벌할 수 없다는 대법원의 첫 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHUWC7V5FNJIZFQ52AAF5QLE5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 최근 개인정보보호법 위반 혐의로 기소된 행정사 A씨에게 벌금 30만원을 선고한 원심 판결을 깨고 사건을 서울중앙지법으로 돌려보냈다.&lt;br&gt;&lt;br&gt;이 사건은 A씨가 건설사로부터 주민피해보상을 받아오는 업무를 맡은 게 발단이 됐다. 서울 강남구 대치동의 한 아파트 단지 주민 280여 명의 개인정보를 제공받은 뒤, 2022년 4월 주민 단체 채팅방에 자신을 지적하는 입주자 3명의 실명과 거주 중인 동·호수 등 개인정보를 올려 개인정보를 누설했다는 게 혐의의 골자다.&lt;br&gt;&lt;br&gt;1심은 아파트 주민들이 이 단체 채팅방에서 자신의 이름이 아닌 익명 대화명을 사용한 점 등을 고려할 때, 개인정보를 누설한 혐의가 인정된다고 판단하고 벌금 50만원을 선고했다. 2심은 피해자 2명이 처벌 불원 의사를 밝힌 점을 고려해 벌금을 소폭 줄여 30만원을 선고했다.&lt;br&gt;&lt;br&gt;그러나 유죄 판단은 대법원에서 뒤집어졌다. 대법원은 “피해자를 비롯해 단체 채팅방에 들어간 주민들은 자신들의 실명과 동호수가 사용되는 데 대해 사전 동의했다고 보는 것이 타당하다”며 처벌할 수 없다고 설명했다. &lt;br&gt;&lt;br&gt;A씨는 2021년 3월과 2022년 4월 두 차례에 걸쳐 아파트 주민들에게 ‘인근 소음 피해 보상에 관한 조정 신청, 국가기관 탄원, 카카오톡 대화방 개설’ 등 피해 보상 업무와 관련한 동의서 작성을 요청했고, 피해자들이 동의했다는 게 대법원의 무죄 취지 판단 근거가 됐다. &lt;br&gt;&lt;br&gt;대법원은 이 밖에도 일부 주민이 자신의 의견을 개진하면서 스스로 실명과 동·호수를 밝힌 점, 다른 주민을 이 사건 단체 채팅방에 초대하면서 해당 주민의 실명과 동·호수를 언급하는 등으로 개인정보가 이미 공개된 점도 고려했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란특검, ‘헌법재판관 미임명’ 의혹 한덕수 전 총리 소환조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/21/YUFJNN5L45BXVHHSFZ2ZGIXKWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/YUFJNN5L45BXVHHSFZ2ZGIXKWE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 02:53:38 +0000</pubDate>
-      <content:encoded>내란 특검이 21일 한덕수 전 국무총리를 소환했다. 한 전 총리는 대통령 권한대행을 지냈던 작년 12월 국회가 추천한 헌법재판관 후보자들을 임명하지 않아 수사기관에 고발됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFQWEZLDGMYWINJXMY4DCZTGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 지난달 27일 오전 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 방조 혐의 4차 공판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 특검보는 이날 정례 브리핑에서 “한 전 총리가 오전 11시에 출석해서 현재 조사 중에 있다”고 밝혔다. 범죄 혐의는 헌법재판관 임명과 관련한 직무유기 및 직권남용 혐의다.&lt;br&gt;&lt;br&gt;국회는 작년 12월 26일 헌법재판관 후보자로 마은혁·정계선·조한창 후보를 추천했다. 당시 탄핵소추된 윤석열 전 대통령의 직무가 정지돼 한 전 총리가 대통령 권한대행을 맡고 있었다. 한 전 총리는 국회가 추천한 후보자들에 대한 합의가 이뤄지지 않았다는 이유로 임명을 미뤘다. 이후 한 전 총리도 탄핵소추되면서 대통령 권한대행직을 넘겨받은 최상목 당시 경제부총리가 세 후보자 중 정계선·조한창 후보를 임명했다. &lt;br&gt;&lt;br&gt;지난 3월 헌재에서 탄핵이 기각돼 업무에 복귀한 한 전 총리는 당시 퇴임을 앞둔 문형배 헌재소장 권한대행과 이미선 재판관의 후임으로 이완규 전 법제처장과 함상훈 서울고법 부장판사를 지명해 또다시 논란을 빚었다.&lt;br&gt;&lt;br&gt;이에 시민단체 등은 한 전 총리를 직무유기 등 혐의로 수시기관에 고발했다. 지난 6월 출범한 내란특검은 관련 사건을 경찰과 고위공직자범죄수사처 등으로부터 이첩받고 수사하고 있다. 특검은 이날 조사에서 재판관 후보자 미임명 및 지명 경위 등을 살필 방침이다.&lt;br&gt;&lt;br&gt;특검은 해당 건 외에도 기존 수사기관에서 이첩받은 사건들을 가급적 종결한다는 방침이다. 박 특검보는 “필요한 조사들은 진행한 뒤 혐의가 있으면 기소하고 없으면 종결할 예정”이라고 했다. 내란특검의 수사종료일은 내달 14일이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘고속도로 방음벽 공사 로비’... 우제창 前 의원, 징역 3년 6개월</title>
