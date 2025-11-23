@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>BTS 진·백종원 투자 주류유통회사, ‘원산지 표기 위반 혐의’ 송치 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/21/XMQCPZYHINFZ5PNXZOYLGAYRCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/21/XMQCPZYHINFZ5PNXZOYLGAYRCM/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 08:43:30 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BWH6RDZ7F2LFINHJS6VKQKFH6U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원(왼쪽)과 방탄소년단 진. /인스타그램 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 방탄소년단(BTS) 멤버 진과 백종원 더본코리아 대표가 함께 투자해 설립한 농업회사법인이 원산지 표시법 위반 혐의로 검찰에 넘겨진 사실이 뒤늦게 드러났다.&lt;br&gt;&lt;br&gt;국립농산물품질관리원 충남지원은 지난 9월 농업회사법인 백술도가 법인과 관계자 등을 농수산물의 원산지 표시 등에 관한 법률 위반 혐의로 송치했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;백술도가는 지니스램프가 제조한 주류 ‘IGIN 하이볼토닉’ 일부 제품에서 외국산 과일 농축액을 사용했지만, 온라인 판매 사이트에서는 원산지를 국산으로 일괄 표시한 혐의를 받는다.&lt;br&gt;&lt;br&gt;제품 라벨의 원산지 표기에는 문제가 없었으나, 온라인 판매 사이트에서 일괄적으로 국산으로 표시한 것이 문제가 됐다.&lt;br&gt;&lt;br&gt;판매업체인 백술도가와 제조업체인 지니스램프는 진과 백종원 대표가 공동 투자해 설립한 회사다.&lt;br&gt;&lt;br&gt;지난 9월 온라인상에서 원산지 표시법을 위반했다는 의혹이 일면서 일부 누리꾼이 이를 고발 조치했다.&lt;br&gt;&lt;br&gt;지니스램프 관계자는 “지난 10월 2일 지니스램프의 제품을 유통하는 판매유통사 온라인 표기 실수 담당 직원에 대한 검찰 송치가 진행됐다”며 “생산품인 아이긴(IGIN)은 모두 제품 자체 라벨 상세정보에 원산지를 정확하게 표시하고 있어 문제가 없지만, 온라인상 판매 페이지 게시 과정에서 다른 맛 제품의 상품 상세정보가 실수로 일부 기간 게시된 적이 있으며, 바로 시정 조치를 완료한 상태”라고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 대장동 항소 포기 항명 검사장들 ‘평검사 전보’ 조치 안 하기로...검사 이탈 최대</title>
       <link>https://www.chosun.com/national/court_law/2025/11/24/5BMPU7U4YNC27B77ZJCR6ML2H4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/5BMPU7U4YNC27B77ZJCR6ML2H4/</guid>
@@ -878,15 +887,6 @@
       <description/>
       <pubDate>Fri, 21 Nov 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2DMNZVMNSDMMZTGQ2WCNJQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;HD현대1%나눔재단이 제3회 HD현대아너상 대상에 정덕환씨를 선정했다. 정씨는 40여 년간 중증장애인 자립과 사회참여 확장에 기여한 공로를 인정받았다. /HD현대1%나눔재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;HD현대1%나눔재단은 제3회 HD현대아너상 대상에 40여 년간 중증 장애인 자립에 기여한 정덕환씨를 선정했다고 21일 밝혔다. HD현대아너상은 어려운 이웃을 위해 헌신하는 시민 영웅을 기리기 위해 제정됐다. 총상금은 3억5000만원이다.&lt;br&gt;&lt;br&gt;정덕환씨는 유도 국가대표 출신으로 부상을 당해 전신 마비 1급 장애 판정을 받은 뒤에도 1983년 직업 재활 시설 ‘에덴복지원(현 에덴복지재단)’을 설립해 현재까지 총 1303명의 일자리를 창출했다. 최우수상 단체 부문엔 암·희소 질환 환아(患兒)를 지원한 ‘한국백혈병어린이재단’과 이주 노동자·난민·다문화 가정을 도운 ‘라파엘클리닉’이 공동 선정됐다. 최우수상 개인 부문은 노숙인과 위기 청소년을 지원해 온 김하종 신부가 받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“떠난 당신, 문득문득 떠올라요”… 유가족의 편지</title>
-      <link>https://www.chosun.com/national/people/2025/11/22/YOLK52GEBJAMDIPZHB74S662FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/22/YOLK52GEBJAMDIPZHB74S662FM/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOORGEEEJBFF3MJOMVCWB7V6SU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“당신 생각에 힘들 때가 많아요. 문득문득 떠올라요. 무뚝뚝했지만 시장에 다녀와서 제 손에 꼭 쥐여주던 찹쌀도넛, 장날이면 꼭 사 오던 그 고등어 한 손. 별것 아닌 일상이었는데, 지금은 그 하나하나가 얼마나 소중했는지 몰라요.”&lt;br&gt;&lt;br&gt;김복연 할머니가 스스로 세상을 떠난 남편에게 편지를 썼다. 부부는 없는 살림이지만 잘 살아보려 노력했고, 남편은 80세 가까운 나이에 경비 일을 시작했다. 그런 와중에 교통사고를 당하자 “병원비 때문에 빚이 늘어가는데 어떻게 보고만 있느냐. 당신이라도 잘 살아야 한다”며 스스로 목숨을 끊었다고 한다. &lt;br&gt;&lt;br&gt;김 할머니의 편지는 보건복지부와 한국생명존중희망재단이 22일 ‘세계 자살 유족의 날’을 맞아 최근 펴낸 수기집에 담겼다. 올해 처음 발간한 수기집에는 자살한 이들의 유가족이 쓴 짧은 글 34편이 실렸다.&lt;br&gt;&lt;br&gt;유가족들은 가족이 떠난 후 남은 나날을 고통 속에 보냈다. 남편이 숨진 한 여성은 “하루라도 더 견딜 수 있게 술과 담배를 했지만, 모든 슬픔은 배가 돼 돌아왔다”며 “몇 년 동안 텅 빈 속을 공황장애와 조울증 약으로 채워가며 겨우겨우 하루씩 살아냈다”고 했다. 그는 “남편이 떠난 지 9년째 되는 해에야 유품을 태울 수 있었다”고 했다. “어느새 나도 떠난 사람처럼 극단적 선택을 하려 하더라”는 유족도 적지 않았다. &lt;br&gt;&lt;br&gt;딸을 떠나보낸 한 엄마는 “숨진 딸의 사후 행정 서류 처리를 위해 딸을 떠나보낸 순간을 반복해서 말해야 하는 시간, 어딜 가도 유사한 질문과 답변이 가슴속 상처를 후벼팠다”고 했다. &lt;br&gt;&lt;br&gt;가까운 사람이 스스로 삶을 마감했다는 사실, 그로 인해 뭉개진 속마음을 숨기는 경우도 많았다. 한 남성은 “가장의 무게에 참고 또 속으로 삭이며 집에서도 표현 못 하고 밖에서도 괜찮은 것처럼 지내다 힘들 때 바다에 가서 참았던 것을 쏟아냈다”고 했다. &lt;br&gt;&lt;br&gt;떠난 이들을 돕지 못했다는 자책도 유족을 괴롭힌다. 남편을 잃은 한 여성은 “마음이 힘들다는 것을 눈치 못 챈 내 자신이 미웠고, 왜 밝은 모습으로 숨기기만 했는지 남편이 미웠다”며 “본인 빼다 박은 아들이 눈에 밟혀서 그 먼 길을 어찌 갔을지, 그 마음이 얼마나 아팠을지 생각하면 가슴이 미어진다”고 했다.&lt;br&gt;&lt;br&gt;그럼에도 대부분의 유가족은 희망을 찾아 열심히 살겠다고 다짐했다. 한 유족은 “그 사람이 다 살지 못한 인생을 생각해서라도 더 열심히 살아야겠다는 결심을 하게 됐다”고, 다른 유족은 “시간의 터널을 조금씩 지나고 나니 세상이 다시 보인다”고 썼다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>요오드냐 아이오딘이냐… “과학 공부하는 딸과 싸웠다”</title>
