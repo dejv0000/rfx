@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>성심당 줄 안 서고 빵 사는 법?… 2시간에 유명빵집 돌아보는 ‘빵택시’ </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/2WJJOFD6HFFTBKQGHFPF5NB34M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/2WJJOFD6HFFTBKQGHFPF5NB34M/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 22:41:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPLOS4DCBZEO7NSUSRMZRYTMFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2시간 동안 대전의 유명 빵집을 둘러볼 수 있는 '빵택시' 내부. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 유명 빵집들을 택시를 타고 편하게 둘러볼 수 있는 이색 서비스가 등장했다. &lt;br&gt;&lt;br&gt;최근 ‘유튜버 김찌씨’는 ‘대전 빵택시’를 이용한 체험 후기를 통해 “좌석 앞부분에 테이블이 마련되어 있어 기사님께 건네받은 나이프와 포크로 택시 안에서 편하게 빵과 커피를 먹었다”며 “기사님의 빵 설명도 들으면 더 맛있게 음미할 수 있다”고 했다. &lt;br&gt;&lt;br&gt;그는 2시간 동안 택시 기사가 심혈을 기울여 고른 빵집 리스트 중 6곳을 방문했다. 특히 “어느 지점을 가도 줄을 서야 하는 성심당에서는 빵을 고르는 동안 기사가 대신 줄을 서주신다”고 했다. 이 투어는 2시간에 3만원이다. &lt;br&gt;&lt;br&gt;‘빵택시’를 운영하는 주인공은 안성우(63)씨다. 20여 년간 여행 업계에서 근무한 안씨는 일본 가가와현 ‘우동 택시’에서 아이디어를 얻어 ‘빵의 도시’ 대전에서 빵택시를 만들게 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDS6ULUGOBDF7JS7ZOXDSRKEXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 빵택시에 마련된 테이블과 기사 안성우씨가 직접 제작한 추천 코스 안내판. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내외 여행지를 답사하고 좋은 식당을 선별하며 여행 코스를 짰던 경험을 살려 안씨는 1년 6개월간 맛있는 빵집을 발굴해 냈다. 또한 빵집 간 거리와 이동 시간, 구매 시간을 고려해 효율적인 코스도 구상했다. 여기에 승객이 이동하면서 택시에서 빵을 먹을 수 있도록 비행기와 기차에 있는 접이식 테이블도 마련했다. &lt;br&gt;&lt;br&gt;안씨는 연합뉴스에 “서비스업은 고객의 만족도를 충족시키는 것이 제일 중요하다고 생각한다”며 “승객들이 택시를 탈 때 ‘돈값 했다’고 느꼈으면 좋겠다”고 했다. 그는 ‘빵택시’를 시범 운영하면서 앞으로 더 체계적이고 완벽한 모습으로 만들어나갈 예정이라고 했다. 안씨는 “빵택시가 더 커져서 언젠가는 일본 우동택시 기사들이 한국에 와서 빵택시를 타는 날이 오길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] “압수 수색 사전 심문제, 증거인멸 우려돼”... 대검, 연구 용역 보고서 펴내</title>
       <link>https://www.chosun.com/national/court_law/2025/11/25/MRFVM64HSJERFPWJPKWQKW7Q3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/MRFVM64HSJERFPWJPKWQKW7Q3E/</guid>
@@ -858,15 +867,6 @@
       <description/>
       <pubDate>Sun, 23 Nov 2025 04:43:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3TQNDDMUYGKY3DGM3WMODBMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 내린 지난 18일 전북 임실군 옥정호 붕어섬을 찾은 관광객들이 가을의 정취를 느끼고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11월 말까지 잦은 비·눈이 올 것으로 예상됐다. 24일 출근길에도 수도권과 강원·충청 곳곳에 비가 내리겠다.&lt;br&gt;&lt;br&gt;23일 기상청에 따르면, 24일 중국 발해만 부근에서 동쪽으로 이동하는 기압골의 영향으로 수도권과 강원·충청에 비가 내리겠다. 예상 강수량은 수도권·강원도 5㎜ 미만, 충청권 1㎜ 안팎으로 예보됐다.&lt;br&gt;&lt;br&gt;24일 아침 최저기온은 4~11도, 낮 최고기온은 14~19도로 예보돼 평년 수준을 보이겠다. 다만 남부지방 내륙을 중심으로 낮과 밤의 기온 차가 15도 안팎으로 클 것으로 보인다.&lt;br&gt;&lt;br&gt;25일에는 기압골의 영향으로 전국에 비가 예보됐다. 25일 예상 강수량은 전국에서 5~10㎜다. 강원산지와 전북산지, 제주산지에는 1㎝ 안팎의 눈이 내리는 곳도 있겠다.&lt;br&gt;&lt;br&gt;26일에는 북쪽에서 찬 바람이 내려오면서 전국 대부분 지역에서 기온이 영하권으로 떨어지겠다. 바람도 강하게 불면서 체감기온은 더 낮아질 것으로 보인다. 26일 최저기온은 영하 3도에서 영상 6도, 낮 최고기온은 8~14도로 예보됐다.&lt;br&gt;&lt;br&gt;27~28일에는 여전히 추운 가운데 27일 수도권과 강원영서·충청·전라권에 비가 내리겠다. 강원영서에는 눈이 내리는 곳도 있겠다. &lt;br&gt;&lt;br&gt;28일 비가 잠시 소강 상태를 보이겠으나, 29일에 다시 기압골의 영향으로 수도권과 강원영서·충청·전북에 비가 내리겠고, 강원영서 일부 지역엔 비가 눈으로 바뀌는 곳이 있겠다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘가맹점주에 연 15% 불법 대출’ 명륜진사갈비 대표 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/23/26FARXDDXBH4LNWUXNFLB3YL4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/23/26FARXDDXBH4LNWUXNFLB3YL4I/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 02:33:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3QSWJJU2CEEWEEASLS5I6MWIPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가맹점주에게 고금리로 불법 대출을 해줬다는 혐의를 받는 프랜차이즈 명륜진사갈비의 가맹본부 ‘명륜당’ 대표가 23일 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울시 민생사법경찰국은 유명 외식 프랜차이즈 가맹본부 대표 A씨를 지난 14일 대부업법 위반으로 검찰에 송치했다고 23일 밝혔다. 지자체가 가맹본부 대표를 불법 대부업 혐의로 검찰에 송치한 것은 전국에서 처음이다.&lt;br&gt;&lt;br&gt;명륜당 측은 2023년부터 작년 말까지 은행에서 연 3~4% 금리로 790억여 원을 빌린 뒤 자회사인 대부업체 12곳을 통해 가맹점주에게 돈을 빌려준 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들 대부업체는 연 12~15% 고금리로 가맹점주에게 돈을 빌려준 것으로 확인됐다. 가맹본부는 이 같은 방식으로 대출 상환금 99억원, 이자 56억원 등 총 155억원을 편법으로 수취한 것으로 나타났다.&lt;br&gt;&lt;br&gt;명륜당은 자회사인 A사에 연 4.6%로 자금 791억5000만원을 빌려주고, A사가 다시 대부업체 12곳에 연 4.6% 금리로 801억1000만원을 빌려주는 식으로 불법 대부를 했다.&lt;br&gt;&lt;br&gt;대부업체들은 2021년 11월부터 2023년 말까지 연 12~15% 고금리로 가맹점주에게 831억3600만원을 빌려준 것으로 확인됐다.&lt;br&gt;&lt;br&gt;수사 결과, 대부업체 12곳의 대표는 명륜당 전·현직 직원, 협력사 직원, 대표의 아내 등으로 확인됐다. 일부 업체를 제외하면 명륜당 대표가 지분을 100% 가지고 있었다.&lt;br&gt;&lt;br&gt;서울시는 명륜당이 대부업 등록을 하지 않고 자회사를 이용해 이익을 취한 것을 ‘미등록 불법 대부’에 해당한다고 봤다. 대부업법에 따르면, 미등록 불법 대부업을 한 사람은 10년 이하의 징역 또는 5억원 이하의 벌금에 처한다.&lt;br&gt;&lt;br&gt;김현중 서울시 민생사법경찰국장은 “불법 대부 수법이 지능화되고 있는 만큼 고강도 수사로 엄중히 대처하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일부터 보이스피싱 번호 즉시 차단된다…경찰·삼성·통신3사 협력</title>
