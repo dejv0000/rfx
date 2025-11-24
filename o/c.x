@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>속초 호텔서 20대 여성 투숙객 추락사… 경찰 “경위 조사 중”</title>
+      <link>https://www.chosun.com/national/incident/2025/11/24/WWGCSGROY5ELJIMDJGLT3O6XSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/24/WWGCSGROY5ELJIMDJGLT3O6XSQ/</guid>
+      <dc:creator>속초=정성원 기자</dc:creator>
+      <description>강원 속초시 한 호텔에서 20대 여성 투숙객이 추락해 숨진 사고가 발생했다.
+24일 낮 12시 40분쯤 강원 속초시 조양동 한 호텔 23층에서 20대 A씨가 창문 밖으로 추락했다.</description>
+      <pubDate>Mon, 24 Nov 2025 09:31:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IXTPU2E36NFJJG3W7RJQGIN4OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 속초시 한 호텔에서 20대 여성 투숙객이 추락해 숨진 사고가 발생했다.&lt;br&gt;&lt;br&gt;24일 낮 12시 40분쯤 강원 속초시 조양동 한 호텔 23층에서 20대 A씨가 창문 밖으로 추락했다. A씨는 7층 테라스에서 발견됐고, 발견 당시 이미 숨진 상태였다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>좌초 여객선 선장, 1000차례 사고해역 오갈 동안 조타실 안 갔다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/24/34KIYVKMFFFD5F3FA64VEDHXNI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/34KIYVKMFFFD5F3FA64VEDHXNI/</guid>
+      <dc:creator>목포=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 09:16:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2CQL33KGNHK7NJ2TH3UV5HZ3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 20일 국립과학수사연구원이 목포에 입항한 퀸제누비아2호 선박의 충돌부분을 살피고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객 등 267명을 태우고 무인도에 좌초한 여객선 ‘퀸제누비아2호’ 선장이 사고 해역을 1000여 차례 오가는 동안 조타실에 한 번도 가지 않았다는 해경 수사 결과가 나왔다.&lt;br&gt;&lt;br&gt;24일 목포해양경찰서에 따르면, 퀸제누비아2호 선장 A(60대)씨는 작년 2월 28일부터 지난 19일 좌초 사고가 날 때까지 1000여 차례 사고 해역을 오가는 동안 조타실에서 근무하지 않았다.&lt;br&gt;&lt;br&gt;퀸제누비아2호는 지난 19일 오후 8시 17분쯤 전남 신안군 장산도 인근 무인도(족도)에서 좌초했다. A씨는 이날 오후 4시 45분쯤 승객 246명과 승무원 21명 등 267명을 태우고 제주에서 출항할 때만 조타실에 나왔던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경은 여객선 직원 7명을 참고인 신분으로 불러 조사해 선장이 사고 해역에서 근무하지 않은 사실을 확인했다. 이 사고로 병원 치료를 받은 부상자는 78명이다.&lt;br&gt;&lt;br&gt;사고 당시 근무 중이던 일등항해사 B(40대)씨와 인도네시아 국적 조타수 C(40대)씨는 자동 항법장치를 족도 쪽으로 설정하고 운항하다 좌초했다. 수사 결과 B씨는 휴대전화를 보며 딴짓을 하다 사고를 낸 것으로 드러났다. B씨와 C씨는 중과실치상 혐의로 지난 22일 구속됐다.&lt;br&gt;&lt;br&gt;해경은 여객선 책임자인 선장 A씨에게도 과실이 있다고 보고 중과실치상·선원법 위반 혐의로 구속영장을 신청했다. 선원법 9조는 ‘항구를 출입할 때, 좁은 수로를 지나갈 때 등에 선장이 선박의 조종을 직접 지휘해야 한다’고 규정하고 있다. 좌초 사고가 난 해역은 바위섬과 암초가 많고 뱃길이 좁은 ‘협수로(狹水路)’다.&lt;br&gt;&lt;br&gt;해경은 해상 선박 사고 위험을 감시했어야 할 목포 광역 해상 교통관제센터(VTS) 관제사 D씨도 업무상 과실치상 혐의로 입건해 수사할 예정이다. 목포VTS는 선박 항로 이탈 알람이 꺼져 있어 퀸제누비아2호의 항로 이탈을 사고 전에 포착하지 못한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;김성윤 목포VTS 센터장은 “당시 관제사 1명이 총 5척을 관제하고 있었고, 사고가 3분 만에 벌어져 빨리 문제를 알지 못했다”며 “(관제에) 미흡한 점이 있다”고 했다. 다만 서해해경청은 “항로 준수 의무가 없는 길이 20m 선박의 빈번한 통항로 출입으로 항로 이탈 경보가 과도하게 울려 관제에 방해가 돼 항로 이탈 알람을 꺼놓은 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/S2CQL33KGNHK7NJ2TH3UV5HZ3M.jpg?auth=1985975a38220c6a0ba53f8ac38ff5600cddb0d0fdf36565809d60abb6735586&amp;smart=true&amp;width=4724&amp;height=2694" type="image/jpeg" height="2694" width="4724">
+        <media:description type="plain">지난 20일 국립과학수사연구원이 목포에 입항한 퀸제누비아2호 선박의 충돌부분을 살피고 있다. /김영근 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>내란 특검, 대법원에 공식 답변 요구…“내란 동조 의혹, 사실관계 확인 중” </title>
+      <link>https://www.chosun.com/national/court_law/2025/11/24/VIV3AA4X7JEGRD6AQCY3F4BBFA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/VIV3AA4X7JEGRD6AQCY3F4BBFA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 09:08:26 +0000</pubDate>
+      <content:encoded>내란 특검팀이 12·3 비상계엄 직후 대법원이 심야 긴급 회의를 연 경위를 확인하기 위해 법원행정처에 질의서를 보낸 것으로 24일 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSGIYZSGZQTENDGMVTGCYJXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;내란특검 박지영 특검보. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 내란 특검은 최근 대법원이 비상계엄이 선포된 지난해 12월 3일 새벽 긴급 회의를 연 이유와 회의 내용 등을 묻는 질의서를 법원행정처에 전달했다. &lt;br&gt;&lt;br&gt;이에 법원행정처는 “회의 당시 ‘계엄에 공감할 수 없다’는 이야기가 나왔고, 계엄이 선포된 상황에서 법원이 어떻게 대처해야 할지 파악하는 자리였다”는 취지로 답변한 것으로 전해졌다. 대법원이 계엄에 순응하거나 동조하기 위해 회의를 열었다는 의혹을 전면 부인한 것이다. &lt;br&gt;&lt;br&gt;앞서 지난달 군인권센터 임태훈 소장 등은 조희대 대법원장과 천대엽 법원행정처장을 내란 중요 임무 종사 혐의로 내란 특검에 고발했다. 대법원이 계엄에 협력하기 위해 긴급 회의를 열었다는 의혹을 제기한 것이다. 임 소장 등은 “대법원이 사전에 계엄을 인지하고 있다가 간부 회의를 지시한 것이 아닌지 등을 특검 수사를 통해 밝혀야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;법원행정처는 이 같은 의혹을 부인한 바 있다. 천대엽 법원행정처장은 지난달 열린 국회 국정감사에서 “(당시) 차장·실장들이 느닷없는 비상계엄 때문에 영문을 몰라 걱정돼 서로 전화로 ‘모여서 이야기하자’고 해서 행정처에 나와 이야기를 나눈 것”이라면서 “거기 모인 대다수 판사가 생각하기에 포고령에 (국회의) 기능을 정지시켰다는 것만 보더라도 명백한 위법이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XIDZEAVTLFNZPJW5UM7WVFASVA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전현희 3대특검 종합대응특위 총괄위원장을 비롯한 김병주, 이상윤, 장경태 의원 등이 24일 오후 서울 서초구 대검찰청 정문 앞에서 조희대 대법원장에 대한 특검 수사를 촉구하는 기자회견을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이날 민주당 의원들은 내란 특검 사무실을 항의 방문해 사법부에 대한 수사를 촉구했다. 민주당 3대 특검 종합 대응 특위 소속인 전현희 의원 등은 “사법부는 단순한 상황 파악 회의였다고 주장하지만 계엄 사령부에 사법권 이양을 협력하는 회의가 이뤄졌을 가능성이 농후하다”며 “특검은 심야 회의 관련 기록과 보고문건, 메신저 대화 등을 즉시 압수수색하라”고 밝혔다.&lt;br&gt;&lt;br&gt;내란 특검은 현재 사법부 고발 건과 관련해 사실관계를 확인 중이라는 입장이다. 특검 관계자는 이날 브리핑에서 “대법원에 대해 여러 가지 의혹 보도가 이뤄지고 있기 때문에 의혹에 대한 사실관계를 확인 중”이라며 “사실관계 확인을 해서 범죄로서의 구성이 가능하다면 당연히 수사해야 할 것이고, 혐의가 있는데 그걸 뭉갤 수는 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2030 남성들 “여성에게도 병역 의무를”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/24/XU6EEHVBVVGILEDJMGXJQXHWYY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/XU6EEHVBVVGILEDJMGXJQXHWYY/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 08:59:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4TCMDCGNTGMM3DGY2TCNDFMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;원민경 성평등가족부 장관이 서울 성동구 KT&amp;G 상상플래닛에서 열린 제3차 성평등 토크콘서트 '소다팝'에 참석해 청년 참가자들과 '사회진입기 청년의 성별 인식격차' 주제에 대해 토론하고 있다. /성평등가족부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“여성에게도 병역의 의무가 주어져야 한다.”&lt;br&gt;&lt;br&gt;“남성은 군대 가서 취업 기회를 많이 놓친다고 하는데, 그렇다고 대기업 입사 비율이 낮나.”&lt;br&gt;&lt;br&gt;지난 21일 성평등가족부 주최 ‘성평등 토크 콘서트’에선 2030 남녀가 ‘군대’ 문제를 둘러싸고 격론을 벌였다. 남성들은 “남자만 군대에 가는 건 문제”라고 했고, 여성들은 “여성들은 군대를 가고 싶어도 갈 수 없는 현실이 불합리하다”고 했다. &lt;br&gt;&lt;br&gt;성평등 토크 콘서트는 청년들의 성평등 인식 격차를 좁히기 위해 성평등부가 마련한 자리로, 다음 달까지 총 5차례 진행될 예정이다. 이날은 20~30대 19명(남성 7명, 여성 12명)이 참석했다. &lt;br&gt;&lt;br&gt;남성 참가자들은 군대 문제와 관련, “여성도 병역의 의무를 다해야 한다”고 주장했다. 30대 남성 김모씨는 “사회에서 남성들만 군대에 가도록 정해 버렸다”며 “장기적으로 본다면 여성에게도 병역의 의무가 주어져야 하고, 1년 6개월을 다 하진 않더라도 기초 군사 훈련 정도는 받아야 한다”고 말했다. &lt;br&gt;&lt;br&gt;또 다른 30대 남성 김모씨도 “군대가 성별의 문제라고 말하는 이유는 단순하다. 남성이 많이 가기 때문”이라며 “정말 싼값에 젊은이들을 데려다가 쓰고 있는데, 남성들이 억울하지 않도록 군대를 좋은 기회와 일자리로 접근할 수 있게 해 달라”고 했다.&lt;br&gt;&lt;br&gt;여성 참가자들은 “우리가 남성이 군대를 가야 한다고 결정한 것도 아닌데, 억울하다”고 했다. 30대 여성 오모씨는 “군대에 남성만 가도록 한 건 국가적 차원의 결정이었다. 여성들이 남성이 가야 한다고 주장한 게 아닌데, ‘너네도 군대 가서 한번 당해 보라’는 식의 생각이 많은 것 같아 억울하다”고 했다. 그는 “남성들이 군대를 가서 (취업과 관련한) 기회를 많이 놓치고 있다고 한다. 그럼 남성들의 대기업 입사 비율이 낮아야 하는데 그렇지 않다”고 했다.&lt;br&gt;&lt;br&gt;여성이 군대를 가고 싶어도 현재 군대 내 시설이 여성이 생활할 수 없는 환경이라는 지적도 제기됐다. 30대 여성 이모씨는 “우리나라 인구의 반 이상이 여성인데, 이들을 수용할 수 있는 시설이 군대에 갖춰져 있지 않다”며 “여성 입장에서 내 한 몸 지키기 위한 기술을 배우러 간다고 생각하면 군대 2년이 아깝지 않다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GQ4TCMDCGNTGMM3DGY2TCNDFMM.jpg?auth=7d86f428a6281f9f8acea7e8137f622d572f3f06080ffbf9cde521b5cb9159b7&amp;smart=true&amp;width=5184&amp;height=3456" type="image/jpeg" height="3456" width="5184">
+        <media:description type="plain">원민경 성평등가족부 장관이 서울 성동구 KT&amp;G 상상플래닛에서 열린 제3차 성평등 토크콘서트 '소다팝'에 참석해 청년 참가자들과 '사회진입기 청년의 성별 인식격차' 주제에 대해 토론하고 있다. /성평등가족부</media:description>
+        <media:credit role="author" scheme="urn:ebu">CHOIRagChulphoto</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>검찰, 익명 게시판 통해 계엄 가담자 제보받는다</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/24/4VIBS5BZVZGU7GK5ROD2PO5FTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/4VIBS5BZVZGU7GK5ROD2PO5FTY/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 08:17:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7GG6TKUCZRN6ZB4GYGSHEMB2TU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 서초구 대검찰청의 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청에 구성된 ‘헌법 존중 정부 혁신 태스크포스(TF)’가 다음 달 12일까지 12·3 비상계엄에 협조하거나 가담한 검찰 구성원들에 대한 제보를 받는다.&lt;br&gt;&lt;br&gt;TF는 24일 검찰 내부망(이프로스)에 올린 공지글을 통해 “비상계엄에 참여하거나, 공적인 지위를 이용해 물적·인적 자원을 동원하는 등 계엄에 협조한 행위에 대해 다음 달 12일까지 제보를 받겠다”고 밝혔다. 제보를 위한 익명 게시판이 별도로 마련되고, 전용 이메일로도 제보를 받을 예정이다.&lt;br&gt;&lt;br&gt;다만 TF는 ‘단순한 사적 자리에서의 발언’이나 ‘공사를 막론한 단순한 견해 표명’은 제보 대상에서 제외한다고 명시했다.&lt;br&gt;&lt;br&gt;TF의 단장은 구자현 검찰총장 직무대행이, 부단장은 김성동 대검 감찰부장이 맡는다. 검사들 외에도 변호사와 대학 교수 등 외부 위원이 합류해 10여 명 규모로 꾸려진다. TF는 제보 기간 종료 이후 사실관계 검증 절차에 착수할 전망이다.&lt;br&gt;&lt;br&gt;앞서 국무총리실은 지난 11일 TF 추진 계획을 발표하면서 내란의 사전 모의나 실행, 사후 정당화, 은폐는 ‘내란 참여’로, 내란의 일련의 과정에 물적·인적 지원을 도모하거나 실행한 것은 ‘내란 협조’로 보겠다고 했다. 또한 공직자가 ‘내란의 위법성’을 인지했는지 여부와 무관하게 조사하겠다고 했다. 이에 따라 검찰을 비롯한 각 국가기관 내에 TF가 설치돼 운영 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘인공태양 연구시설’ 전남이 품는다… 나주시, 우선협상대상자로 선정</title>
+      <link>https://www.chosun.com/national/regional/2025/11/24/V3LRQWKE2VAGXLKGCKLFXLMJJM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/24/V3LRQWKE2VAGXLKGCKLFXLMJJM/</guid>
+      <dc:creator>나주=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 08:22:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDFAWHKR5QDB54FPUADJJ7V4YY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;나주 인공태양 연구시설 유치위 출범식./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘꿈의 에너지’로 불리는 인공태양(핵융합) 연구시설 우선협상대상자로 전남 나주시가 선정됐다. 과학기술정보통신부는 ‘핵융합 핵심기술 개발 및 첨단 인프라 구축사업’ 부지 공모 결과 나주시를 우선협상대상자로 선정했다고 24일 밝혔다. 정부는 내달 3일까지 이의 신청 기간을 거친 뒤 최종적으로 부지를 확정할 예정이다. 사업비 1조2000억원을 투입해 2027년 착공, 2037년 완공할 계획이다.&lt;br&gt;&lt;br&gt;인공태양 연구시설은 나주시 왕곡면 에너지 국가산단 100만㎡ 이상 부지에 들어설 전망이다. 4차로 이상 진입로 개설이 가능하다. 일대 지반은 단단한 화강암으로 구성돼 있다. 과거 50년 동안 지진 등 자연재해가 전혀 없었다. &lt;br&gt;&lt;br&gt;나주는 한국전력공사, 670여개 전력 기자재 기업, 한국에너지공과대학교(켄텍) 등이 있어 산학연 집적성이 뛰어나다는 평가를 받았다. 이번 공모에는 나주시와 전북 군산시, 경북 경주시가 나섰다.&lt;br&gt;&lt;br&gt;핵융합 발전은 바닷물에서 얻는 중수소와 삼중수소를 연료로 삼아 구현한다. 이론적으로는 핵융합 연료인 수소 1g으로 석유 8t에 해당하는 에너지를 생산할 수 있다. 이산화탄소를 거의 배출하지 않아 고효율·친환경 에너지로 꼽힌다.&lt;br&gt;&lt;br&gt;전남도와 나주시는 핵융합 연구시설 유치로 지역 경제 파급 효과가 상당할 것으로 전망한다. 전문 인력 유입은 물론 관련 기업 집적 등으로 2050년까지 200개 이상 기업 유치와 최대 1만개 일자리 창출 등을 예상한다. &lt;br&gt;&lt;br&gt;김영록 전남지사는 “전남이 진정한 AI·에너지 수도로 도약하기 위한 마지막 퍼즐은 핵융합 연구시설 유치”라며 “2020년 다목적 방사광 가속기 공모 당시 전남의 유치 노력과 진정성이 결국 빛을 보게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>제주 우도서 승합차 관광객 향해 돌진 사고...2명 사망.10여 명 부상</title>
       <link>https://www.chosun.com/national/regional/2025/11/24/MUVRZOLW7FHVLM5RTFXFQ4UA3E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/24/MUVRZOLW7FHVLM5RTFXFQ4UA3E/</guid>
@@ -647,42 +710,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGJCQKAIWNACVM4MXRYKQ36GGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;프란츠 카프카 지음 l 이재황 옮김 l 출판사 문학동네 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;체코 출신 작가 프란츠 카프카가 1915년 발표한 소설 ‘변신’은 시작 부분이 유명합니다. “어느 날 아침 뒤숭숭한 꿈에서 깨어난 그레고르 잠자는 자신이 침대에서 한 마리의 흉측한 벌레로 변한 모습을 발견했다. 그는 철갑처럼 단단한 등껍질을 대고 누워 있었다.” 꿈 속이 아니라 정말로 벌레가 된 겁니다. &lt;br&gt;&lt;br&gt;영업 사원 그레고르는 직장에 지각하게 됐지만, 익숙하지 않은 벌레 몸이다 보니 침대에서 벗어나기조차 힘들었습니다. 회사에서 쫓겨나지 않아야 부모님과 여동생을 먹여 살릴 수 있다는 생각에, 애써봤지만 소용없었습니다. 그런데 이상하게도 가족들은 그레고르의 변신을 받아들이고 생계부터 걱정합니다. 집안에 벌레가 있으니 하숙하던 이들도 집을 나가고 가족들은 불편함을 느끼죠.&lt;br&gt;&lt;br&gt;여동생이 외칩니다. “내쫓아야 해요! 저것이 오빠라는 생각을 버리셔야 해요. 저것이 정말 오빠라면 우리가 자기와 같은 짐승과는 함께 살 수 없다는 것쯤은 벌써 알아차리고 제 발로 나가줬을 거예요.” 방에 갇혀 제대로 먹지도 못하며 고생하던 그레고르는 어떻게 됐을까요? 기력이 다해 결국 방에서 조용히 숨을 거둡니다. 그런데 가정부 할머니는 가족에게 이렇게 말하죠. “옆방의 저 물건(그레고르)을 어떻게 할지 걱정하지 않으셔도 된다니까요. 제가 이미 처리했거든요.” 죽은 채로 방바닥에 말라붙은 그레고르를 가정부 할머니가 빗자루로 쓸어 치웠다는 겁니다.&lt;br&gt;&lt;br&gt;가족이 슬퍼했을까요? 오히려 미래가 밝다고 느끼죠. 그사이 각자 새로운 일자리도 얻었고, 더 좋은 집으로 이사할 생각에 빠졌기 때문이지요. 소설 마지막 부분에서 교외로 나들이 간 가족은 행복해합니다. “목적지에 이르자 딸(그레고르의 여동생)이 제일 먼저 일어나 젊은 몸을 쭉 펴며 기지개를 켰을 때, 그들에게는 그 모습이 그들의 새로운 꿈과 아름다운 계획의 보증처럼 여겨졌다.”&lt;br&gt;&lt;br&gt;소설에는 그레고르가 왜 벌레로 변신했는지 나오지 않아요. 그가 벌레로 변했다는 것만 제외하면 세상은 예전과 다를 게 하나도 없지요. 가족들도 그레고르의 변신에 충격받지 않습니다. 그래서 이 이야기가 더욱 섬뜩하게 느껴지죠. 현실과 거리가 먼 변신을 사람들이 아무렇지도 않게 받아들입니다.. ‘내가 만일 그레고르라면?’ 또는 ‘그레고르의 가족이라면?’ 이런 질문이 자꾸 떠오릅니다.&lt;br&gt;&lt;br&gt;이 소설은 그레고르가 벌레로 변한 사건 자체보다, 사람일 때에도 이미 벌레처럼 취급받던 인간의 현실을 드러냅니다. 가족들에게 그레고르는 돈을 벌어다 주는 기계였고, 회사라는 기계의 부속품이었습니다. 세상은 그에게 일해서 돈 버는 역할만 요구했죠. 어쩌면 그레고르는 벌레가 돼서 그런 역할에서 벗어나고 싶어 했을지도 모릅니다. 이치에 어긋나며 이해하기 힘들고 의미를 찾기도 힘든 상황을 ‘부조리하다’고 말합니다. 카프카는 ‘변신’에서 단지 기괴한 사건이 아니라, 역할만 남고 인간성은 사라지는 현대 사회의 부조리를 그렸습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문으로 배우는 실용한자] 존망(存亡)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/11/24/MQIDUARQSRAUNOWVP64YVFFR2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/11/24/MQIDUARQSRAUNOWVP64YVFFR2Q/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DV56FP4TBA5NBXKZJLJ7OA5CA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 저울질하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/11/24/7HAUW6IOOBA7HAUKA3ZC2RXCZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/11/24/7HAUW6IOOBA7HAUKA3ZC2RXCZA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XM4ZC2QUNHHJCITBSA6K7DEV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 건강을 보살피다, 몸조리하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/11/24/VAHE3G7JFNG5DHMTO7UMFBQRTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/11/24/VAHE3G7JFNG5DHMTO7UMFBQRTU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUCPXNA7HJG53BMG7QIX4EYAQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2750] 신문은 스케치북</title>
-      <link>https://www.chosun.com/national/nie/2025/11/23/CJK3Q57MAFA2PE2ARSZ5TTUXXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/23/CJK3Q57MAFA2PE2ARSZ5TTUXXQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCY7JBO62NDW3AH24E3C4YBVCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[스피킹이 강해지는 영어] draw a blank</title>
       <link>https://www.chosun.com/national/nie/english/2025/11/24/K6AZMSU6UNAKFMBDVURT526BRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/11/24/K6AZMSU6UNAKFMBDVURT526BRY/</guid>
@@ -708,33 +735,6 @@
       <description/>
       <pubDate>Sun, 23 Nov 2025 14:32:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5MNFKHLXGBF6POJ45KDLBTQJ2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 대체로 흐리고 수도권·강원 곳곳 빗방울&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 11월 24일 월요일 (음력 10월 5일 丁酉)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/23/BXLTBDZEIZFXHKVKHAC7IGX7B4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/23/BXLTBDZEIZFXHKVKHAC7IGX7B4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 14:28:31 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>‘고래사냥’ ‘인간 시장’ 배우 남포동, 81세로 별세</title>
-      <link>https://www.chosun.com/national/people/2025/11/23/LTZ5FUIUY5B63BWLDAKWQXYGYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/23/LTZ5FUIUY5B63BWLDAKWQXYGYQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 13:34:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMVLAOKC3FNQNHQ35TLPQ5BTKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1970~1990년대 코믹한 감초 연기를 선보였던 원로배우 남포동(본명 김광일)./연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1970~1990년대 코믹한 감초 연기로 사랑받았던 원로 배우 남포동(본명 김광일)이 23일 81세로 별세했다.&lt;br&gt;&lt;br&gt;남포동은 1965년 코미디 영화 ‘나도 연애할 수 있다’로 데뷔한 뒤 ‘고래사냥’(1984), ‘겨울 나그네’(1986), ‘투캅스 2’(1996), ‘투캅스 3’(1998) 등에서 특유의 코믹한 연기로 사랑을 받았다.&lt;br&gt;&lt;br&gt;드라마 ‘인간 시장’(1988), ‘머나먼 쏭바강’(1993~1994), ‘인생은 아름다워’(2001) 등에서도 감초 역할로 출연했다. 2022년에는 영화 ‘감동주의보’에서 주인공의 할아버지 전종구 역을 맡아 다시 한 번 존재감을 드러냈다.&lt;br&gt;&lt;br&gt;고인은 2009년 간암 말기 진단을 받은 뒤 간 이식 수술을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;빈소는 의정부 을지대학교병원 장례식장 5호에 마련됐으며, 발인은 25일이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TIMZRGHGP5FNPAP7W2GPSOOBFU.jpg?auth=48da1fb01ce5ea3d6948879614345724c97f9b6fa1f0602608df1b67a40f354b&amp;smart=true&amp;width=1785&amp;height=1338" type="image/jpeg" height="1338" width="1785">
-        <media:description type="plain"> '감초 연기' 원로배우 남포동 별세…향년 81세
-    (서울=연합뉴스) 1970~1990년대 코믹한 감초 연기를 선보였던 원로배우 남포동(본명 김광일)이 23일 별세했다. 향년 81세.
-    사진은 지난 2015년 9월 제주 서귀포 예술의 전당에서 열린 '2015 서귀포 신스틸러 페스티벌'에 참석한 남포동의 모습. 2025.11.23 [연합뉴스 자료사진]
-    photo@yna.co.kr/2025-11-23 21:37:48/
-&amp;lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&amp;gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">사진부공용</media:credit>
-      </media:content>
     </item>
     <item>
       <title>남자는 돈, 여자는 외모... 4050 돌싱 ‘재혼 걸림돌’ 1위 </title>
