@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“병원비 필요해”... 지인들에게 4200만원 편취해 도박에 탕진한 20대 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/24/5WMAOPNKLJBLTAGLFA7PSOOOAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/5WMAOPNKLJBLTAGLFA7PSOOOAQ/</guid>
+      <dc:creator>부산=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 11:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTMOJTMVRTSOLEMUYDQMBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;군대 후임 등 11명의 지인에게 수천만원을 편취해 도박 자금으로 쓴 20대 남성이 구속 상태로 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;부산사하경찰서는 A(20대)씨를 사기 혐의로 구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 군대 후임과 중학교 동창 등에게 연락해 부친 병원비 등의 명목으로 11명에게서 4200만원을 받아 도박 자금으로 쓴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 군 복무를 마치고 일정한 직업 없이 생활하다 군대 생활 중 모은 3000만원과 부모님으로부터 받은 4000만원을 도박에 쏟아부었다. &lt;br&gt;&lt;br&gt;이후 돈이 부족해지자 이 같은 범행을 저지른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;지난 8월 말 사건을 접수한 경찰은 A씨를 추적해 이달 10일 경기 김포에서 그를 검거했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘미아리 텍사스’ 철거 돌입... 2200가구 아파트 단지로</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/24/UTLOVVK5DFED5BRPKUSTC34DFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/UTLOVVK5DFED5BRPKUSTC34DFE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 11:31:47 +0000</pubDate>
+      <content:encoded>서울 성북구의 성매매 업소 밀집 지역인 ‘미아리 텍사스’가 철거된다. 그 자리에는 최고 46층 2201가구 대단지 아파트가 들어선다. &lt;br&gt;&lt;br&gt;성북구는 24일 미아리 텍사스(하월곡동 88번지) 일대에 대한 철거 작업을 시작했다고 밝혔다. 미아리 텍사스는 1960년대 형성됐다. 서울역 앞과 종로3가 일대가 개발되면서 갈 곳을 잃은 성매매 업소들이 미아리 텍사스에 자리를 잡았다. 주소지는 성북구 하월곡동이지만 근처 미아리 고개의 이름을 따 미아리 텍사스로 불렸다. 1980년대엔 성매매 업소가 350여 개쯤 됐다. &lt;br&gt;&lt;br&gt;서울시는 2009년 미아리 텍사스 일대 5만6000㎡를 ‘신월곡 제1구역’으로 지정하고 재개발을 추진해왔다. 그러나 성매매 업주와 여성들이 반발하면서 사업이 지연됐다. 이에 성북구는 인센티브를 내걸었다. 가게 문을 닫는 성매매 업주에게는 ‘이사비’로 2000만~3000만원을 지급했다. 성매매 여성에게는 매달 210만원씩(최장 1년) ‘자활비’를 지원하기로 했다. 일부 업소에 대해선 조합이 명도 소송도 냈다.&lt;br&gt;&lt;br&gt;성매매 업소는 하나둘 빠져나가고 현재 4곳만 남았다. 성북구 관계자는 “내년 4월까지 성매매 업소를 전부 철거한 뒤 내년 하반기 재개발 공사에 들어갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;미아리 텍사스 자리에는 2201가구 대단지 주상복합 아파트가 들어선다. 이르면 2027년에는 동북선 경전철도 개통한다.&lt;br&gt;&lt;br&gt;이승로 성북구청장은 “미아리 텍사스 철거는 지역의 오랜 숙원 사업”이라며 “이 일대의 주거 환경이 획기적으로 개선될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GYYTMOBXME2DAYTFGJRWGYRZGM.jpg?auth=2503b92a9dd35b9a0641772914e112a0fce6323c85264a265ddae21255a8cc26&amp;smart=true&amp;width=540&amp;height=278" type="image/jpeg" height="278" width="540">
+        <media:description type="plain">서울시 성북구 하월곡동 성매매 밀집지인 ‘미아리 텍사스’, 현 신월곡1구역의 모습(왼쪽)과 재개발로 바뀌게 될 이 지역 조감도(오른쪽) / 사진, 자료 = 서울시</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>한덕수, 결심 전 재판서 “尹 계엄 만류했다...위헌·위법한 계엄 막지 못한 책임 느껴"</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/24/3ITQDK4PAZGLHI3XACJIN7A3BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/3ITQDK4PAZGLHI3XACJIN7A3BI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 10:42:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWIYTDMZRTGMTEGEYDGYZZGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12·3 비상계엄을 적극적으로 말리지 않은 혐의로 재판에 넘겨진 한덕수 전 국무총리가 24일 오전 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 방조, 내란 중요임무 종사 등 혐의 사건 속행 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한덕수 전 국무총리가 내란 재판에서 12·3 비상계엄 당시 윤석열 전 대통령의 계엄 선포를 만류했다고 주장했다. 결과적으로 계엄을 막지 못한 것에 대해 정치적·역사적 책임을 느낀다고도 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사33부(재판장 이진관)는 24일 한 전 총리의 내란 우두머리 방조 사건 재판을 열고 한 전 총리에게 직접 사실관계를 묻는 피고인 신문을 진행했다.&lt;br&gt;&lt;br&gt;한 전 총리는 지난해 12월 3일 밤 윤 전 대통령에게 ‘지금 들어와 달라. 주위에는 알리지 않았으면 좋겠다’는 전화를 받고 대통령실로 갔다. 한 전 총리는 이후 윤 전 대통령의 계엄 선포 계획을 듣고 “너무 깜짝 놀라서 ‘우리나라의 대외신인도가 떨어지고 경제가 정말 망가질 수 있다. 재고해달라’는 취지로 말했다”고 했다.&lt;br&gt;&lt;br&gt;한 전 총리는 계엄 선포 직전 국무회의를 소집한 것도 더 많은 국무위원을 통해 윤 전 대통령에게 반대 의견을 전하기 위해서라고 했다. 한 전 총리는 최상목 전 경제부총리에게 ‘당신도 (대통령 집무실에) 좀 들어가서 이야기를 해봐라’는 취지로 말했다고 했다. 이어 “최 전 부총리 등 연륜 있는 분들이 말씀해주는 게 좋지 않나 생각했고, 지금 생각해보면 저도 좀 더 열심히 합류해서 행동했으면 좋았겠다는 아쉬움을 갖고 있다”고 했다.&lt;br&gt;&lt;br&gt;한 전 총리는 최근 재판에서 공개된 대통령실 CCTV 영상에서 계엄 관련 문건을 챙겨 나오는 모습이 포착된 것에 대해서는 기억이 안 난다는 취지로 말했다. 한 전 총리는 “대통령으로부터 계엄에 대한 얘기를 듣고서부터는 어떤 경위를 거쳐 무슨 일을 했는지에 대한 기억이 부족하다”고 했다.&lt;br&gt;&lt;br&gt;한 전 총리는 앞서 헌법재판소에서 계엄과 관련해 위증한 혐의에 대해서도 인정했다. 특검팀이 “사후 계엄 선포문을 파쇄한 게 적절하지 못하다고 생각해서 위증했다고 (수사기관에) 진술했는데 맞느냐” 묻자, 한 전 총리는 “네”라며 “헌재에서 위증했다”고 답했다.&lt;br&gt;&lt;br&gt;한 전 총리는 이날 “국정을 총괄하는 국무총리로서 위헌·위법한 비상계엄을 막지 못한 데 대해 정치적인, 역사적인 책임을 느낀다”며 “계엄을 막지 못해 국민들에게 큰 어려움을 준 사안에 대해 큰 멍에로 안고 살아가도록 하겠다”고 말했다.&lt;br&gt;&lt;br&gt;재판부는 오는 26일 특검팀의 구형과 한 전 총리의 최후 진술을 듣는 결심 공판을 연다. 1심 선고는 내년 1월 21일 혹은 28일에 나올 전망이다. 일정대로라면 12·3 비상계엄이 형법상 내란인지에 대한 첫 법원 판단이 나오는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>속초 호텔서 20대 여성 투숙객 추락사… 경찰 “경위 조사 중”</title>
       <link>https://www.chosun.com/national/incident/2025/11/24/WWGCSGROY5ELJIMDJGLT3O6XSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/24/WWGCSGROY5ELJIMDJGLT3O6XSQ/</guid>
@@ -672,15 +702,6 @@
       <content:encoded>브라질 벨렝에서 열린 제30차 유엔 기후변화협약 당사국 총회(COP30)가 22일(현지 시각) 최대 관심사였던 ‘화석연료 퇴출 로드맵’에 대해 합의하지 못한 채 끝났다. 이를 놓고 “한국만 무리한 2035년 국가 온실가스 감축 목표(NDC) 공표에 이어, ‘탈(脫)석탄동맹’ 가입으로 스스로 족쇄를 채웠다”는 비판이 나온다. &lt;br&gt;&lt;br&gt;23일 기후에너지환경부에 따르면, COP30이 예정된 폐막일을 하루 늦추면서 ‘화석연료 퇴출 로드맵’ 논의를 이어갔지만 참여 국가들 간 이견을 좁히지 못했다고 한다. 이번 COP30은 뒤숭숭한 분위기에서 진행됐다. 탄소 배출량 기준 2위인 미국이 트럼프 정부 출범 후 파리협정 탈퇴와 함께 COP30에도 연방 정부 차원의 대표단을 보내지 않았고, 사우디아라비아·러시아 등은 화석연료 퇴출 이행안 마련에 반대해 최종 합의문에 ‘화석연료’라는 단어조차 들어가지 못했다.&lt;br&gt;&lt;br&gt;그럼에도 한국은 2035년까지 탄소 배출량을 2018년 대비 53~61% 감축한다는 목표를 공표한 데 이어, 늦어도 2040년까지 석탄 발전 퇴출을 목표로 한 ‘탈석탄동맹(PPCA)’에 가입했다. 비(非)산유국이면서 석탄 의존도가 높은 이 국가들은 PPCA에 가입하지 않고 있는데, 한국만 급발진한 것이다. &lt;br&gt;&lt;br&gt;COP는 내년에도 큰 진전을 이뤄내기 어려울 것이란 관측이 많다. 미국은 불참할 가능성이 높고, 중국·인도는 온실가스 배출의 ‘정점’ 시기가 아직 오지 않아 적어도 2030년까지 탄소를 배출할 것이기 때문이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[부음] 원로배우 남포동 별세</title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/11/24/3WAEUFE3QZF6LFTQRJN7WEZB5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/11/24/3WAEUFE3QZF6LFTQRJN7WEZB5I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FV5STM4HNE2JNSN22E7NAXUQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 남포동. /SBS플러스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 남포동(본명 김광일·81)이 23일 별세했다. 남포동은 ‘고래사냥’(1984), ‘겨울 나그네’(1986), ‘투캅스 시리즈’ 등 영화에 출연했다. 빈소는 의정부 을지대학교병원 장례식장 5호, 발인은 25일.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [식물 이야기] 바닷가 바위틈에서 자라는 국화, 독도 사진에서도 볼 수 있죠</title>
       <link>https://www.chosun.com/national/nie/2025/11/24/XPPMY2PRAVDSTN2B55GTVT5VSQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/24/XPPMY2PRAVDSTN2B55GTVT5VSQ/</guid>
@@ -691,16 +712,6 @@
 /김민철 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해국은 국화과에 속하는 여러해살이(2년 이상 사는 식물) 식물인데, 이름 그대로 바다의 국화라 할 수 있습니다. 해국도 꽃이 연보라색이에요. 3.5~4㎝ 크기로 피는데 중심부는 노란색입니다. 벌개미취나 쑥부쟁이와 같은 참취(Aster)속이라 꽃만 봐서는 구분하기 어렵습니다.&lt;br&gt;&lt;br&gt;해국의 특징 중 하나는 잎 양면에 보송보송한 털이 있다는 것입니다. 만져보면 부드러운 느낌이 참 좋습니다. 잎에 털이 많은 것은 거친 해풍을 견뎌야 하기 때문일 것입니다. 털이 바닷바람과 소금기로부터 잎을 보호해주는 것이죠. 주걱처럼 생긴 잎에는 날카롭지 않고 무딘 톱니가 있습니다.&lt;br&gt;&lt;br&gt;해국은 보통 바닷가에서, 그중에서도 바위틈에서 자랍니다. 높이는 30~60㎝ 정도로 큽니다. 흙도 물도 부족할 텐데 어떻게 바위틈에서 자라 그렇게 예쁜 꽃까지 피우는지 놀라울 따름입니다. 해국은 독도 전경 사진에서 가끔 볼 수 있습니다. 사진에서 바위틈에 핀 연보라색 꽃이 바로 해국입니다. 바위틈에서 자라지만 일반 흙에서도 물론 잘 자란답니다. 그래서 화단이나 정원에 심기도 합니다.&lt;br&gt;&lt;br&gt;해국은 꽃이 피어 있는(개화) 기간이 아주 깁니다. 늦여름 피기 시작해 늦게는 11월 말까지, 지역에 따라서는 12월에도 꽃을 볼 수 있습니다. 몇 년 전 8월 울릉도에 갔는데 바위틈에 해국이 일찍 핀 것을 보고 놀란 적이 있습니다. 대부분의 가을꽃이 질 즈음에도 해국은 싱싱한 꽃이 남아 있는 것을 보고 또 한 번 놀랍니다. 그래서 해국은 늦가을을 대표하는 꽃으로 손색이 없습니다.&lt;br&gt;&lt;br&gt;해국은 줄기가 겨울에도 죽지 않고 몇 년씩 견뎌 나무처럼 굵어지는 경우도 있습니다. 줄기 위쪽 상록 잎(사계절 내내 푸른 잎)은 겨울에도 남아 있을 정도로 오래갑니다. 그래서 해국은 나무라고도 풀이라고도 할 수 없어 반목본성(半木本性·반쯤 나무처럼 자라는 성질) 식물이라고 부릅니다.&lt;br&gt;&lt;br&gt;바다를 배경으로 만개한 해국 무리를 담으면 정말 멋진 사진이 나옵니다. 그래서 필자도 몇 번이나 해국을 담으려 해안가에 갔는지 모릅니다. 해국 사진은 기왕이면 바다가 나오게, 최소한 해변이 나오게 담아야 해국 본연의 느낌을 담을 수 있습니다. 올가을이 가기 전에 바닷가에 가면 꼭 한 번 연보라색 꽃에다 잎 양면에 보송보송한 털이 있는 해국을 찾아 눈맞춤을 해보기 바랍니다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[신문은 선생님] [뉴스 속 신화] 반짝이는 밤하늘은 신화 이야기 담긴 거대한 책이랍니다</title>
-      <link>https://www.chosun.com/national/nie/2025/11/24/FRLDZSSCVRADDB3ZCKDQROBZAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/24/FRLDZSSCVRADDB3ZCKDQROBZAU/</guid>
-      <dc:creator>김헌 서울대 인문학연구원 교수, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:40:00 +0000</pubDate>
-      <content:encoded>지난 21일이 태양계의 일곱째 행성인 천왕성을 관측하기에 가장 좋았던 날이었는데 알고 계셨나요? 태양계 행성은 모두 태양 주위를 타원 모양으로 돌고 있어요. 지구와 천왕성도 각자 궤도를 따라 움직이는데, 1년 중 하루 정도 지구가 태양과 천왕성 사이에 딱 들어오는 순간(충)이 생깁니다. 이때 지구와 천왕성은 1년 중 가장 가까워져요. 다만 천왕성의 공전 주기는 지구(1년)보다 훨씬 긴 84년이라서 충 날짜는 해마다 약 4일씩 뒤로 밀려요. 그래서 내년에는 11월 25일에 ‘충’이 일어날 예정이랍니다. &lt;br&gt;&lt;br&gt;천왕성(天王星)은 우리말로 ‘하늘의 왕 행성’이라는 뜻이에요. 천왕성의 영어 이름 ‘우라노스(Uranus)’를 한자로 옮긴 것이죠. 우라노스는 그리스 신화에 나오는 하늘의 신입니다. 천왕성뿐 아니라 다른 태양계 행성 이름도 모두 신화에서 따왔답니다. 오늘은 우리가 익숙하게 부르는 행성 이름 속에 어떤 신화 이야기가 담겨 있는지 살펴볼까요? &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXIDRYDJJRDNXKIINBCIGTKYFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태양계에서 가장 큰 행성인 목성이에요. 왼쪽 아래 보이는 두 개의 작은 원은 지구와 달의 크기를 목성과 비교해 보여준 것입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMZHP7MCQ5G4LCWWMRK4BJDHIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;목성의 위성들. 목성과 가까운 순서대로 왼쪽부터 이오, 유로파, 가니메데, 칼리스토예요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;태양계 행성은 왜 모두 신화 속 신들의 이름일까&lt;/b&gt;&lt;br&gt;&lt;br&gt;고대 그리스·로마인들은 밤하늘에 보이는 밝은 천체를 신처럼 성스럽게 여겼으며, 별들에 신의 이름을 붙여 매일 움직임을 관찰했습니다. 고대 그리스인들은 가장 빛나는 목성을 ‘제우스’라고 불렀어요. 목성이 하늘에서 가장 밝고 커서 하늘의 왕처럼 보였기 때문이지요.&lt;br&gt;&lt;br&gt;고대 그리스 철학자 플라톤의 제자인 필립포스가 쓴 것으로 추정되는 ‘에피노미스’라는 책에서도 목성을 ‘제우스의 별’이라고 칭합니다. 그러면서 토성은 크로노스(시간의 신), 붉게 빛나는 화성은 아레스(전쟁의 신), 아름답게 빛나는 샛별인 금성은 아프로디테(아름다움의 여신), 가장 빨리 도는 수성은 헤르메스(이동의 신)라고 불렀어요.&lt;br&gt;&lt;br&gt;이런 행성 이름이 로마 문명으로 넘어가면서 로마 신화 속 신들의 이름으로 바뀌었습니다. 갈릴레오는 목성을 라틴어로 ‘유피테르’라고 썼는데요. 그리스 신화의 최고 신 제우스는 로마 신화로 넘어오면서 이름이 유피테르로 바뀌어요. 크로노스(토성)는 ‘사투르누스(Saturn)’, 아레스(화성)는 ‘마르스(Mars)’, 아프로디테(금성)는 ‘베누스(Venus)’, 헤르메스(수성)는 ‘메르쿠리우스(Mercury)’로 바뀌었지요.&lt;br&gt;&lt;br&gt;천체망원경 발명 이후 천왕성과 해왕성, 그리고 지금은 태양계 행성에서 퇴출당한 명왕성까지 발견됐어요. 이 별들에도 신화 속 이름이 붙었지요. ‘천(天)왕성’은 그리스 신화 속 하늘의 신 ‘우라노스’ 이름을 가져왔고요. ‘해(海)왕성’은 바다의 신 포세이돈의 로마 신화 이름 ‘넵투누스’를, ‘명(冥)왕성’은 죽은 자들의 세계인 명계(冥界)의 신 하데스의 로마 신화 이름 ‘플루토’를 붙였어요.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3OMBTKUXBFEINLBLCPU55VAMYY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헤라(왼쪽 위)가 제우스(오른쪽 아래)와 암소로 변한 이오가 함께 있는 모습을 내려다보는 장면이에요. 16~17세기 네덜란드 화가 피터르 라스트만의 그림입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XU2OPEPVXVGT5IRLZY3CL6S5S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;곰으로 변한 칼리스토를 아들 아르카스가 화살로 쏘려는 장면. 16~17세기 네덜란드 판화가 헨드릭 홀치위스의 원작을 바탕으로, 그의 제자들이 제작한 판본입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;행성을 도는 위성 이름도 신화에서 따왔다고?&lt;/b&gt;&lt;br&gt;&lt;br&gt;갈릴레오가 목성을 도는 네 위성을 발견한 바로 다음 날인 1610년 1월 8일, 독일(당시 신성로마제국)에서 시몬 마리우스가 똑같은 것을 발견했대요. 단 하루 차이로 ‘최초 발견자’라는 명예를 놓친 것이죠. 그는 1614년 발표한 ‘목성의 세계’라는 책에서 네 위성에 이름을 붙여줬는데, 그 이름이 현재까지 공식 이름으로 사용되고 있어요. 이오, 에우로페(유로파), 가뉘메데스(가니메데), 칼리스토. 그리스·로마 신화에서 제우스가 사랑한 여성 세 명과 남성 한 명의 이름입니다.&lt;br&gt;&lt;br&gt;이오는 제우스의 뜨거운 사랑을 받은 여성입니다. 제우스의 아내 헤라가 두 사람이 함께 있는 모습을 보려는 순간, 제우스는 이오를 급히 암소로 바꿔버렸어요. 이를 수상하게 여긴 헤라는 암소를 빼앗듯 데려가고, 눈이 100개 달린 괴물 아르고스에게 감시를 맡겼지요. 제우스는 헤르메스를 보내 이오를 구하게 했고, 헤르메스는 감미로운 음악으로 아르고스를 잠들게 한 뒤 그의 목을 벴습니다. 이오는 아르고스가 죽은 뒤에도 헤라가 보낸 벌레에게 쫓겨 세계를 떠돌다, 이집트에 이르러서야 인간의 모습으로 돌아와 긴 고난을 마무리하게 됩니다.&lt;br&gt;&lt;br&gt;이 외에도 에우로페는 제우스가 황소로 변신해 데려간 페니키아의 공주이고, 가뉘메데스는 제우스가 독수리로 변신해 낚아 올린 아름다운 청년이었습니다. 에우로페는 크레타섬에서 미노스를 낳았고, 가뉘메데스는 올림포스 궁전에서 신들에게 신비로운 음료를 따라주는 시동(심부름을 하는 아이)이 됐어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H4VB5MK4MJDM7AYRIOOQW4U2IM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;16~17세기 독일의 천문학자 요한 바이어가 만든 별자리 책 '우라노메트리아'에 실린 오리온자리 그림이에요.
-/위키피디아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;별자리에 숨겨진 신화 이야기&lt;/b&gt;&lt;br&gt;&lt;br&gt;칼리스토는 훗날 밤하늘의 별자리와도 연결되는 인물입니다. 아르카디아 공주였던 칼리스토는 숲과 사냥, 달의 여신 아르테미스의 추종자였습니다. 남성을 멀리하던 칼리스토에게 접근하기 위해 제우스는 아르테미스로 변신했어요. 칼리스토는 가짜 아르테미스를 진짜로 생각하고 함께 지내다가 임신하게 돼요. 이 사실을 안 헤라는 분노하여 칼리스토를 곰으로 만들어 버렸죠. 칼리스토의 아들 아르카스는 사냥꾼이 됐는데, 곰으로 변한 엄마를 알아보지 못하고 화살을 겨눕니다. 이 모습에 놀란 제우스가 둘을 하늘로 올려보내 영원히 남는 별자리(큰곰자리·작은곰자리)가 되게 했어요.&lt;br&gt;&lt;br&gt;다른 별자리들도 신화 이야기를 담고 있지요. 예컨대 11월 말부터 겨울 하늘에는 아르테미스와 사랑했지만 아르테미스의 쌍둥이 오빠인 아폴론의 계략으로 목숨을 잃은 비운의 거인 오리온, 날개 달린 말 페가수스를 타고 활약한 영웅 페르세우스와 아내 안드로메다의 이야기 등이 별자리로 펼쳐지지요. 반짝이는 밤하늘은 신화 속 이야기가 담긴 거대한 책과 같답니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문은 선생님] [재밌다, 이 책!] 어느 날 아침, 벌레로 변한 주인공 가족들은 생계부터 걱정했죠</title>
       <link>https://www.chosun.com/national/nie/2025/11/24/CRLXYPY5WBA5JOPIXVFNYSSAUY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/24/CRLXYPY5WBA5JOPIXVFNYSSAUY/</guid>
@@ -708,15 +719,6 @@
       <description/>
       <pubDate>Sun, 23 Nov 2025 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FGJCQKAIWNACVM4MXRYKQ36GGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;프란츠 카프카 지음 l 이재황 옮김 l 출판사 문학동네 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;체코 출신 작가 프란츠 카프카가 1915년 발표한 소설 ‘변신’은 시작 부분이 유명합니다. “어느 날 아침 뒤숭숭한 꿈에서 깨어난 그레고르 잠자는 자신이 침대에서 한 마리의 흉측한 벌레로 변한 모습을 발견했다. 그는 철갑처럼 단단한 등껍질을 대고 누워 있었다.” 꿈 속이 아니라 정말로 벌레가 된 겁니다. &lt;br&gt;&lt;br&gt;영업 사원 그레고르는 직장에 지각하게 됐지만, 익숙하지 않은 벌레 몸이다 보니 침대에서 벗어나기조차 힘들었습니다. 회사에서 쫓겨나지 않아야 부모님과 여동생을 먹여 살릴 수 있다는 생각에, 애써봤지만 소용없었습니다. 그런데 이상하게도 가족들은 그레고르의 변신을 받아들이고 생계부터 걱정합니다. 집안에 벌레가 있으니 하숙하던 이들도 집을 나가고 가족들은 불편함을 느끼죠.&lt;br&gt;&lt;br&gt;여동생이 외칩니다. “내쫓아야 해요! 저것이 오빠라는 생각을 버리셔야 해요. 저것이 정말 오빠라면 우리가 자기와 같은 짐승과는 함께 살 수 없다는 것쯤은 벌써 알아차리고 제 발로 나가줬을 거예요.” 방에 갇혀 제대로 먹지도 못하며 고생하던 그레고르는 어떻게 됐을까요? 기력이 다해 결국 방에서 조용히 숨을 거둡니다. 그런데 가정부 할머니는 가족에게 이렇게 말하죠. “옆방의 저 물건(그레고르)을 어떻게 할지 걱정하지 않으셔도 된다니까요. 제가 이미 처리했거든요.” 죽은 채로 방바닥에 말라붙은 그레고르를 가정부 할머니가 빗자루로 쓸어 치웠다는 겁니다.&lt;br&gt;&lt;br&gt;가족이 슬퍼했을까요? 오히려 미래가 밝다고 느끼죠. 그사이 각자 새로운 일자리도 얻었고, 더 좋은 집으로 이사할 생각에 빠졌기 때문이지요. 소설 마지막 부분에서 교외로 나들이 간 가족은 행복해합니다. “목적지에 이르자 딸(그레고르의 여동생)이 제일 먼저 일어나 젊은 몸을 쭉 펴며 기지개를 켰을 때, 그들에게는 그 모습이 그들의 새로운 꿈과 아름다운 계획의 보증처럼 여겨졌다.”&lt;br&gt;&lt;br&gt;소설에는 그레고르가 왜 벌레로 변신했는지 나오지 않아요. 그가 벌레로 변했다는 것만 제외하면 세상은 예전과 다를 게 하나도 없지요. 가족들도 그레고르의 변신에 충격받지 않습니다. 그래서 이 이야기가 더욱 섬뜩하게 느껴지죠. 현실과 거리가 먼 변신을 사람들이 아무렇지도 않게 받아들입니다.. ‘내가 만일 그레고르라면?’ 또는 ‘그레고르의 가족이라면?’ 이런 질문이 자꾸 떠오릅니다.&lt;br&gt;&lt;br&gt;이 소설은 그레고르가 벌레로 변한 사건 자체보다, 사람일 때에도 이미 벌레처럼 취급받던 인간의 현실을 드러냅니다. 가족들에게 그레고르는 돈을 벌어다 주는 기계였고, 회사라는 기계의 부속품이었습니다. 세상은 그에게 일해서 돈 버는 역할만 요구했죠. 어쩌면 그레고르는 벌레가 돼서 그런 역할에서 벗어나고 싶어 했을지도 모릅니다. 이치에 어긋나며 이해하기 힘들고 의미를 찾기도 힘든 상황을 ‘부조리하다’고 말합니다. 카프카는 ‘변신’에서 단지 기괴한 사건이 아니라, 역할만 남고 인간성은 사라지는 현대 사회의 부조리를 그렸습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] draw a blank</title>
-      <link>https://www.chosun.com/national/nie/english/2025/11/24/K6AZMSU6UNAKFMBDVURT526BRY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/11/24/K6AZMSU6UNAKFMBDVURT526BRY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRZHQYZSZ5CBRMOFGLC3G3EVBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 옷장엔 신문지와 레몬 껍질</title>
