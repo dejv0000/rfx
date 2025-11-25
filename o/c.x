@@ -13,6 +13,87 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 성남시, 대장동 민간 업자 재산 목록 확보… 범죄 수익 돌려받기 착수</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/FCFMSY5Y5RFPPPA2SW6XWW6W4A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/FCFMSY5Y5RFPPPA2SW6XWW6W4A/</guid>
+      <dc:creator>박혜연 기자, 유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 09:29:17 +0000</pubDate>
+      <content:encoded>성남시가 대장동 민간업자들의 범죄 수익을 돌려받기 위한 절차에 본격 착수했다. 성남시가 검찰로부터 대장동 민간업자들의 재산 목록을 확보하면서, 검찰이 범죄 수익으로 보고 묶어둔 2070억원 규모 자산에 대한 가압류 신청 준비에 들어간 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D7VJMCA4M5EM3KQND6YQJX3FIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대장동 민간업자 화천대유 대주주 김만배씨(왼쪽), 남욱 변호사(오른쪽)/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 본지 취재를 종합하면, 성남시는 지난 20일 서울중앙지검에 대장동 민간업자들의 추징·보전 관련 형사재판 기록 열람과 재산 목록 제공을 요청했다. 서울중앙지검은 전날 성남시 측에 관련 재판 기록과 재산 목록을 전달한 것으로 확인됐다. 50여 쪽 분량의 재산 목록에는 민간업자들의 부동산, 계좌 정보 등이 포함된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;남욱 변호사와 김만배씨 등 민간업자들은 검찰의 대장동 사건 1심 항소 포기 이후, 검찰에 동결돼 있던 2070억원 상당의 재산을 풀어달라고 요구하는 방안을 검토 중이다. 성남시 측은 이들이 추징·보전 해제를 통해 자산을 회수하는 상황을 막기 위해, 가처분·가압류 신청 등을 검토하고 있다. 성남시 측은 검찰에서 확보한 재산 목록 등에 대한 분석을 마치는 대로 추가적인 법적 대응에 나서겠다는 입장이다.&lt;br&gt;&lt;br&gt;앞서 신상진 성남시장은 지난 19일 검찰의 항소 포기 결정과 관련해 정성호 법무부 장관, 이진수 법무차관, 노만석 전 검찰총장 직무대행, 정진우 전 서울중앙지검장 등을 고발했다. 신 시장은 당시 “범죄자들에게 이익을 몰아주고 시민들에게 피해를 끼친 결정 라인에 대해 민사상 손해배상 소송도 제기하겠다”면서 “범죄자들이 추징보전 해제를 요구하는 2070억원에 대해서도 재산 목록이 확보되는 대로 가처분 신청을 내겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 성남도시개발공사가 대장동 개발 비리로 입은 피해를 구제받기 위해 대장동 개발 사업 시행사 ‘성남의뜰’을 상대로 제기한 민사 소송(배당결의무효확인 소송)의 첫 재판은 내달 9일 수원지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘범죄도시 마석도’ 모티브 된 현직 경찰관, 음주운전으로 입건</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/5AP2YPBN6ZBZHDAPJPMRO4N2WQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/5AP2YPBN6ZBZHDAPJPMRO4N2WQ/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 09:27:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX7RBIZDWNCA5H5HYKCHC3S7N4.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울 수서경찰서. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영화 ‘범죄도시’에서 배우 마동석이 연기한 ‘마석도’ 역의 실제 모델로 알려진 현직 경찰관이 음주운전 사고를 낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;25일 경찰 등에 따르면 서울 수서경찰서는 전날 도로교통법상 음주운전 혐의로 수서경찰서 소속 A 경위를 입건했다.&lt;br&gt;&lt;br&gt;A 경위는 전날 오후 8시 30분쯤 술을 마시고 차량을 운전하다가 서울 강남구 도곡동 강남세브란스병원 인근에서 접촉사고를 낸 혐의를 받는다. 당시 A 경위의 혈중알코올농도는 면허취소 수준(0.08%)이었던 것으로 알려졌다. 사고로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;경찰은 구체적인 사건 경위를 조사 중인 한편, 수사와 별개로 A 경위를 직위해제하고 감찰을 진행하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>선거 공무원 동원 혐의 최윤홍 전 부산 부교육감 첫 재판</title>
+      <link>https://www.chosun.com/national/regional/2025/11/25/XIAUD4XEOJDEXHEH4MERPMPRWI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/25/XIAUD4XEOJDEXHEH4MERPMPRWI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 09:24:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZTIMRSGBRDAMRWGJSTIYJWMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최윤홍 전 부산시 교육청 부교육감. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4·2 부산시 교육감 재선거를 앞두고 교육청 직원들을 동원해 선거운동을 한 혐의로 기소된 최윤홍 전 부산교육청 부교육감이 25일 첫 공판에서 사실관계는 인정하면서도 죄가 성립하지 않는다는 취지로 주장했다.&lt;br&gt;&lt;br&gt;부산지법 형사6부(재판장 김용균)는 이날 지방교육자치에 관한 법률 위반 등 혐의로 기소된 최 전 부교육감과 A씨 등 부산시교육청 간부 4명의 첫 공판기일을 열었다.&lt;br&gt;&lt;br&gt;검찰 공소사실에 따르면, 최 전 부교육감은 부산시 교육감 재선거를 앞둔 지난 3월 A씨 등에게 선거운동 기획 참여를 요청한 혐의를 받는다. 이후 A씨 등은 부산 지역 과밀학급이나 특수학교 등에 관한 교육청 자료를 활용해 선거 관련 토론회 자료를 만들었다. 개인정보인 지역내 학교 교원 연락처를 확보한 뒤 선거 여론조사를 앞두고 지지 등을 호소하는 문자 메시지를 발송한 혐의도 있다.&lt;br&gt;&lt;br&gt;최 전 부교육감 측은 “수사 단계에서는 일부 부인했지만, 현재는 사실관계를 모두 인정한다”면서 “다만 법리적으로 죄가 성립하기 어렵다는 주장을 검토하고 있다. 추가로 의견서를 제출하겠다”고 했다.&lt;br&gt;&lt;br&gt;최 전 권한대행과 함께 기소된 A씨 등 부산시교육청 간부 3명도 비슷한 입장을 밝혔다. 다른 간부 B씨는 “공소사실을 모두 인정하고 깊이 반성한다”면서 선처를 호소했다.&lt;br&gt;&lt;br&gt;한편, 최 전 부교육감은 부산시교육청 부교육감으로 재직하다 지난해 12월 하윤수 전 교육감의 당선무효형이 확정되면서 권한대행을 맡았다. 이후 지난 2월 28일 공직에서 사퇴하고 후보로 출마했지만 낙선했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수능 이의 신청 51개 문항에... 평가원 “문제·정답 오류 없다”</title>
+      <link>https://www.chosun.com/national/education/2025/11/25/RXMZSSQGVRA7DPZHYESGBM4PME/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/25/RXMZSSQGVRA7DPZHYESGBM4PME/</guid>
+      <dc:creator>김민기 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 08:55:39 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYTAMZTMEYGCOJYGBSWKZBRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험일인 13일 부산 연제구 연제고등학교에서 수험생들이 시험 시작을 준비하고 있다/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국교육과정평가원이 2026학년도 대학수학능력시험(수능) 정답을 확정했다. 수험생과 학계에서 다양한 이의를 제기했지만 기존 정답에 문제가 없다고 결론 내린 것이다.&lt;br&gt;&lt;br&gt;평가원은 지난 13일부터 17일까지 접수된 이의 신청을 검토한 결과, 심사 대상인 총 51개 문항에 대해 모두 정답에 오류가 없다고 25일 발표했다.&lt;br&gt;&lt;br&gt;이번 수능에 접수된 이의 신청은 총 675건으로, 작년(342건)의 두 배에 달했다. 영어에 대한 이의 신청이 467건(69%)으로 가장 많았는데, 대부분 24번 문항에 집중됐다. 24번은 문화와 엔터테인먼트를 결합한 개념인 ‘컬처테인먼트’에 관한 지문을 제시하고 글의 내용을 가장 잘 담은 제목을 고르도록 하는 문항이다. 이의 신청자들은 평가원이 정답으로 제시한 2번에 있는 ‘Soul’이란 단어를 추정할 근거가 지문에 없어 정답이 아니라고 주장했다. 그러나 평가원은 “2번이 지문의 중심 내용을 가장 잘 담고 있는 것이 맞다”며 이의 제기를 받아들이지 않았다. 이 밖에 국어·사회탐구 이의 신청이 각각 82건, 수학 23건, 과학탐구 17건 등이었다.&lt;br&gt;&lt;br&gt;이번 수능은 이례적으로 학계 지적도 잇따랐다. 이병민 서울대 영어교육과 교수는 국어 3번 문항에 문제가 있다고 소셜미디어에서 주장했다. 해당 문항은 독해 이론인 ‘단순 관점’에 관한 지문을 읽고 푸는 문제였는데, 해당 이론을 10년 이상 연구한 전문가인 이 교수는 지문 자체가 잘못됐기에 평가원이 제시한 정답 외에도 다른 정답이 있다고 주장했다.&lt;br&gt;&lt;br&gt;국어 다른 문항에 대한 지적도 나왔다. 포스텍에서 철학을 가르치는 이충형 인문사회학부 교수는 독일 철학자 이마누엘 칸트에 관한 국어 17번 문항이 “정답이 없다”고 주장했다. &lt;br&gt;&lt;br&gt;하지만 이 문항들에 대해서도 평가원 측은 “오류가 없다”고 밝혔다. 3번 문항에 대해선 “지문은 ‘단순 관점’ 이론을 수능 국어 시험의 상황을 고려해 제시한 것으로, 지문을 바탕으로 정답을 하나로 고를 수 있다”고 했다. 17번 문항에 대해서도 “지문과 제시된 ‘보기’를 통해 정답을 하나로 확정할 수 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;평가원은 다음 달 5일 수험생에게 수능 성적을 통지할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, 前 검찰 지휘부에 ‘尹 석방 경위’ 질의서 발송 </title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/SXO37YYEMBDLPDIAGCW32R26B4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/SXO37YYEMBDLPDIAGCW32R26B4/</guid>
+      <dc:creator>유희곤 기자, 박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 09:32:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2N3JQRXL4HASIER3MGMLMDP3YI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 법원의 구속취소 청구 결정 후 석방된 지난 3월 8일 경기 의왕시 서울구치소에서 나와 지지자들에게 인사하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검이 법원의 구속 취소 결정에 따라 검찰이 지난 3월 윤 전 대통령을 석방하게 된 경위 등을 확인하는 질의서를 당시 검찰 지휘부에 보낸 것으로 25일 확인됐다.&lt;br&gt;&lt;br&gt;법조계에 따르면 최근 내란 특검은 지난 3월 당시 대검찰청 간부들에게 ‘즉시항고 관련 질의서’라는 제목의 문서를 이메일 등으로 보내 작성해 달라고 요청했다.&lt;br&gt;&lt;br&gt;특검은 전 대검 간부들에게 윤 전 대통령을 석방하게 된 경위, 내부 논의 과정, 법적 근거 등을 물었다. 또한 검찰이 신청한 윤 전 대통령 구속 기간 연장을 법원이 지난 1월 24일과 25일 잇따라 불허한 후 심우정 당시 검찰총장이 1월 26일 전국 검사장 회의를 소집한 과정 및 논의 과정도 질문에 포함된 것으로 전해졌다. 일부 관계자는 답변서를 특검에 보낸 것으로 확인됐다.&lt;br&gt;&lt;br&gt;검찰 특별수사본부는 검사장 회의가 끝나고 당일 윤 전 대통령을 내란 우두머리 혐의로 구속 기소했다. 그러나 2개월 만인 지난 3월 7일 서울중앙지법 형사25부(재판장 지귀연)는 윤 전 대통령 측이 청구한 구속 취소를 인용했다. 이에 심 전 총장은 이진동 대검 차장과 공공수사부장 등 참모 5명과 긴급회의를 열었다. &lt;br&gt;&lt;br&gt;대검 지휘부는 법원 결정에 이의를 제기하는 즉시항고를 하지 않고 윤 전 대통령을 석방할 수밖에 없다고 만장일치로 결론 내린 것으로 전해졌다. 법원의 구속집행정지 결정에 대한 검찰의 즉시항고가 위헌이라는 2012년 판례를 고려했다고 한다. 심 전 총장은 윤 전 대통령 사건을 수사한 검찰 특별수사본부와 의견을 주고받다가 3월 8일 오후 5시쯤 직접 석방을 지휘했다. &lt;br&gt;&lt;br&gt;이후 시민단체는 심 전 총장을 직권남용 등의 혐의로 고위공직자범죄수사처에 고발했고, 사건은 특검으로 이첩됐다. 특검은 이와 관련해 지난 9월 21일 심 전 총장을 불러 17시간 동안 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동부지검 ‘세관 마약 연루’ 합수단, 고광효 전 관세청장 소환조사</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/HXXGZU2Z7JCGDNOY65CSKDNRT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/HXXGZU2Z7JCGDNOY65CSKDNRT4/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 09:09:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3IKZIHBUANIWBG7RNXCVJ3RQ3E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고광효 전 관세청장이 지난 2023년 10월 국회 기획재정위원회의 관세청 등에 대한 국정감사에 출석해 답변하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약 연루 의혹’을 수사하는 서울동부지검 검경 합동수사단(합수단)이 지난 21일 고광효 전 관세청장을 참고인 신분으로 불러 조사한 것으로 파악됐다. 합수단이 백 경정이 지목한 외압 의혹 당사자를 불러 조사한 사실이 확인된 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 이날 오전 고 전 청장은 합수단에 출석해 관세청장 지위로 수사 외압을 행사했는지 여부 등을 조사받았다. 고 전 청장은 지난 2023년 인천공항 세관을 지나 마약을 밀수하려던 말레이시아 국적 피의자들이 “밀수에 세관 직원의 조력이 있었다”고 진술하면서 수사 대상이 됐다.&lt;br&gt;&lt;br&gt;합수단 조사는 ‘세관 마약 수사 외압 의혹’ 제기자인 백해룡 경정의 수사팀이 아닌 기존 합수팀에서 이뤄졌다고 한다. 앞서 백 경정은 ‘셀프 수사’ 우려로 외압 의혹 관련 수사 주체에선 제외된 바 있다.&lt;br&gt;&lt;br&gt;고 전 청장은 합수단 조사에서 “수사에 외압을 행사했다는 백 경정 주장은 소설에 가깝다”며 의혹을 부인한 것으로 전해졌다. 고 전 청장 측은 “관세청장은 경찰에 외압을 행사할 만한 위치가 아니다”라며 “고 전 청장이 외압을 공모할 만큼 용산(대통령실)과 경찰에 아는 사람도 없었고 그럴 상황도 아니었다”고 했다.&lt;br&gt;&lt;br&gt;합수단은 백 경정의 의혹 제기 후 고 전 청장이 휴대전화를 세 차례 교체한 경위에 대해서도 물은 것으로 전해졌다. 이에 대해 고 전 청장 측은 “당시 그럴 만한 사정이 있었던 점들을 다 설명하고 왔다”고 했다.&lt;br&gt;&lt;br&gt;동부지검 관계자는 고 전 청장 소환조사 등에 대해 “수사의 일부로 확인해줄 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;‘세관 마약 연루 의혹’ 합수팀은 지난 6월 경찰, 국세청, 금융정보분석원(FIU) 등 정부 기관 합동으로 출범해 8월 동부지검으로 이관됐다. 지난 10월에는 백 경정이 이끄는 수사팀이 신설되며 합수단으로 격상돼 수사를 이어오고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김태흠 “돔구장 건설 선거용 아냐… K-컬처 허브로 만들 것”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/25/YKFRGVPCZZB6PDS5OGHVXFL7ZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/25/YKFRGVPCZZB6PDS5OGHVXFL7ZI/</guid>
+      <dc:creator>홍성=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 08:57:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2XQHAUBZ75D53IIESTJ7DSYBVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 충남도의회 정례회에 참석한 김태흠 충남지사가 "돔구장을 K-컬쳐 허브로 만들겠다"고 밝혔다. /충남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김태흠 충남지사는 25일 충남도의회 정례회에서 천안아산 돔구장 건설 추진과 관련해 “선거용이라는 주장이 있는데, 선거용이라면 선거 때 하는 게 낫다”고 했다. &lt;br&gt;&lt;br&gt;김 지사는 최근 기자회견을 통해 돔구장 추진 계획을 밝힌 이유에 대해 “내년 전반기까지 용역 정도는 마쳐 어떻게 갈 것인지, 수익성은 어떻게 낼 것인지 등을 검토하고, 다음에 누가 와도 추진했으면 좋겠다는 생각 때문이었다”고 했다.&lt;br&gt;&lt;br&gt;앞서 지난 18일 김 지사는 기자회견을 열고 KTX천안아산역에서 도보로 10~20분 거리에 위치한 20만㎡ 부지에 5만석 이상 규모의 돔구장 건립 계획을 밝혔다. &lt;br&gt;&lt;br&gt;이와 관련해 충남도의회에서 ‘성급한 발표’ ‘선거용 계획’이라는 지적이 나오자 김 지사가 반박한 것이다.&lt;br&gt;&lt;br&gt;김 지사는 “천안아산 돔구장은 1년 반 전부터 각 분야 전문가 의견 수렴을 거쳐 준비한 사업”이라고 했다. 이어 2022년 한국문화관광연구원이 낸 자료를 언급하며 “BTS가 국내에서 정상적으로 콘서트를 할 때 1회 공연당 6197억~1조2207억원, 10회를 가정할 때 12조2068억원의 경제 효과와 1만815명의 고용 유발 효과가 있는 것으로 분석되고 있다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 “해외 돔구장에서 비티에스가 콘서트를 하면 5만 석에 가까우니 수익이 많이 나지만, 우리나라에서 하나밖에 없는 고척돔은 1만8000석, 실제적으로는 1만6000석 정도밖에 안 돼 제대로 공연하지 못하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “돔구장은 야구만 하는 것이 아니라 축구도 하고, 밑에 아이스링크도 넣고, 다양한 K-팝 공연을 할 수 있는 부분으로 가겠다”고 했다.&lt;br&gt;&lt;br&gt;천안아산을 돔구장 후보지로 결정한 이유는 “서울 외곽에 돔구장을 짓는다면 반대편에서 가는데 1시간 반에서 2시간이 걸린다”면서 “천안아산역은 대한민국의 중심지이고, 경부선과 호남선이 만나며, 수도권에서 1시간 내 올 수 있는 곳이기 때문”이라고 했다.&lt;br&gt;&lt;br&gt;돔구장이 건설되면 프로야구 30경기를 유치하겠다는 기존 발표에 대해서는 “이미 한국야구위원회(KBO)에 사전 질문해 가능하다는 이야기를 들었다”고 했다.&lt;br&gt;&lt;br&gt;김 지사는 1조원으로 추산되는 돔구장 건설 재원 마련과 관련해서는 “앞으로 용역 과정에서 다양한 전문가들의 의견을 듣고, 컨소시엄을 구성하거나 외국 자본을 끌어들이는 방법을 고민할 것”이라며 “국비나 도비, 시·군비에 의존하는 형태로 계획을 잡지 않겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 선거법 위반 혐의 손현보 목사에 징역 1년 구형 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/25/VLBJY4FJJFHJVLRNC3XKHQNWJU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/25/VLBJY4FJJFHJVLRNC3XKHQNWJU/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 08:50:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2TAYTCMJRDGMBZGNQWMOJQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;손현보 부산 세계로교회 목사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공직선거법 위반 혐의로 구속 상태에서 재판에 넘겨진 손현보 부산 세계로교회 목사에 대해 검찰이 징역형을 구형했다. 손 목사는 올 초 윤석열 전 대통령 탄핵 반대 집회를 열었던 개신교 단체 ‘세이브코리아’의 대표다.&lt;br&gt;&lt;br&gt;검찰은 25일 부산지법 형사6부(재판장 김용균) 심리로 열린 손 목사의 공직선거법 위반 등 혐의 결심 공판에서 징역 1년을 선고해 달라고 재판부에 요청했다. 검찰은 손 목사가 신도들에 대한 영향력을 행사해 선거 공정성을 해한 점을 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;공소사실에 따르면, 손 목사는 부산교육감 재선거를 앞둔 지난 3월 16일 부산 강서구 세계로교회 예배 자리에서 정승윤 후보의 당선을 돕기 위해 대담을 진행한 혐의를 받고 있다. 같은 달 20일 정 후보의 선거 사무실에서 ‘승리 기원 예배’를 갖고 마이크를 사용해 “우파 단일 후보를 찍어야 한다”고 발언한 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;대선을 앞둔 지난 5~6월 세계로교회에서 열린 기도회와 예배에서 네 차례에 걸쳐 목사 직위를 내세워 당시 이재명 후보의 낙선을 도모하고, 김문수 후보를 지지하는 발언을 한 혐의도 있다.&lt;br&gt;&lt;br&gt;부산지법은 지난 9월 8일 손 목사에 대해 도망의 염려(도주 우려)를 이유로 구속 영장을 발부했다. 이후 손 목사는 같은 달 24일 법원에 구속 적부 심사를 청구했지만, 법원은 이를 기각했다.&lt;br&gt;&lt;br&gt;최후 진술에서 손 목사는 “차별금지법을 주장했던 부산교육감이나 공공기관에 성소수자를 30% 임명하겠다는 이재명 대통령 후보의 발언에 대해서는 목사로서 비판할 수밖에 없고, 그 외에는 다른 이유가 없다”면서 “검찰에서 기소한 제 발언은 예배 시간에 일어난 일들이다. 이번 재판을 통해 종교적 자유와 표현의 자유가 축소된다면 큰 손해라고 생각한다”고 했다.&lt;br&gt;&lt;br&gt;1심 선고는 내년 1월 30일 오전 10시로 예정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법무부, 론스타에 소송비용 74억 요구 서신 발송...“신속히 환수할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/47WL7OEGDFDOFAXMJ3SDBA3YBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/47WL7OEGDFDOFAXMJ3SDBA3YBY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 08:34:21 +0000</pubDate>
+      <content:encoded>미국계 사모펀드 론스타와의 국제투자분쟁(ISDS) 취소절차에서 승소한 한국 정부가 25일 론스타 측에 소송 절차에 든 약 74억원을 요구하는 서신을 발송했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSDINDCMQ3DMMTDG4ZGEMZUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정홍식 법무부 국제법무국장이 지난 19일 경기도 과천시 중앙동 정부과천청사 내 법무부 청사에서 론스타 ISDS 취소 결정 선고 관련 브리핑을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 이날 “론스타 측에 ISDS 사건 취소절차에 사용한 비용 약 73억원 및 지난 2023년 정정결정에서 인정된 한국 정부 측 비용 약 8000만원과 그 이자 등 합계 약 74억원을 내달 18일까지 임의변제할 것을 촉구하는 서신을 대리인단을 통해 발송했다”고 밝혔다. &lt;br&gt;&lt;br&gt;지난 18일 국제투자분쟁해결센터(ICSID) 취소위원회는 양측의 취소 절차에서 한국 정부의 손을 들어주며 소송 비용 73억여 원도 론스타 측에 내라고 했다. 변제 기한은 선고일로부터 30일인 내달 18일까지다.&lt;br&gt;&lt;br&gt;법무부에 따르면 론스타 측은 약 2년 전 미 연방법원에 제기한 판정 집행소송도 자진 취하했다. 해당 소송은 론스타가 원 판정에서 인정된 배상금 약 2억1650만달러를 집행하기 위해 제기했었다. 법무부는 “한국 정부는 취소위원회에 ‘취소 절차가 종료될 때까지 원 판정의 집행이 정지돼야 한다’고 강력히 주장해 집행 정지 신청을 무조건부로 인용받았다”며 “취소절차가 진행되는 동안 론스타 측의 원 판정 강제집행 시도를 저지했다”고 설명했다.&lt;br&gt;&lt;br&gt;앞서 론스타는 2012년 11월 한국 정부가 외환은행 매각 과정에 부당하게 개입해 46억7950만달러(약 6조9000억원)의 손해를 봤다며 ICSID에 국제 중재를 제기했다. 중재 판정부는 2022년 8월 론스타 측 청구를 일부 인용해 한국 정부에 손해배상금의 4.6%인 2억1650만달러를 지급하라고 판정했다. 이후 양측이 판정에 불복해 취소 절차가 진행됐다.&lt;br&gt;&lt;br&gt;법무부는 “향후 최선을 다해 소송비용을 신속하게 환수해 국익 수호에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대구 달서구 한 어린이집에서 아동학대 의혹 신고… 경찰 “수사중”</title>
       <link>https://www.chosun.com/national/regional/2025/11/25/OXQO4XVC7NASNL46CLSGFRMQKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/25/OXQO4XVC7NASNL46CLSGFRMQKE/</guid>
@@ -870,99 +951,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/RJCI6RORKBFBPOCSTKFNROGSWI.JPG?auth=9f52781afb6309de2fb44ccc2dfd746915715781908979fb5189ca2a2d605d56&amp;smart=true&amp;width=2774&amp;height=1560" type="image/jpeg" height="1560" width="2774">
         <media:description type="plain">출근길 시민들.(뉴스1 DB)</media:description>
         <media:credit role="author" scheme="urn:ebu">김진환</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>‘국내 최대 텔레그램 성착취’ 총책 김녹완, 1심서 무기징역</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/24/UX6YJVMH5ND4NGP5ZW5OERVIWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/UX6YJVMH5ND4NGP5ZW5OERVIWI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 05:56:03 +0000</pubDate>
-      <content:encoded>국내 최대 텔레그램 성착취방 ‘자경단’을 운영한 총책 김녹완(33)이 24일 1심에서 무기징역을 선고받았다. 공범들에게도 징역형이 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사26부(재판장 이현경)는 이날 김녹완 등 11명의 아동청소년성보호법 위반 등 사건의 선고 공판을 열고, 김녹완에게 무기징역과 신상공개 10년, 위치추적 전자장치 30년 부착, 아동·장애인 관련 기관 취업제한 10년을 선고했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JKNIHD62KFHOZPBNSA5JSRRTZE.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 김녹완에 대해 “2020년 8월부터 지난 1월까지 4년 5개월에 걸쳐 범행을 반복했다”며 “포섭한 피해자에게 새로운 피해자를 데려오지 않으면 나체 사진을 유포할 것처럼 협박하는 등 다수의 피해자를 양산했다”고 질책했다.&lt;br&gt;&lt;br&gt;재판부는 김녹완이 피해자 16명을 강간하거나 유사강간했고, 그 중 아동·청소년이 14명인 점을 지적했다. 또 70여 명을 상대로 1700여 건의 아동·청소년 성착취물을 제작한 점, 피해자가 가담을 거부하면 이를 배포한 점도 불리한 양형 사유로 봤다.&lt;br&gt;&lt;br&gt;재판부는 이 밖에도 김녹완이 공범을 통해 피해자의 아버지에게 피해자의 성관계 모습이 담긴 영상을 전송하고, 피해자의 직장을 찾아가 협박한 점을 두고 “범행 수법이 매우 잔혹하고 악랄하다”며 “최근 우리 사회에서 유사한 범죄가 급속히 증가하고 있어 엄벌의 필요성이 매우 크다”고 했다. 또 “셀 수 없이 많은 범행을 저질렀고, 피해 회복도 대부분 이뤄지지 않았다”고 질타했다.&lt;br&gt;&lt;br&gt;다만 재판부는 검찰이 김녹완 등을 기소하며 적용한 범죄단체조직 및 활동 혐의는 무죄로 판단했다. 김녹완 주도로 운영된 자경단의 구성원들은 김녹완의 협박에 의해 범행에 가담하게 됐을 뿐, 범죄의 계획과 반복적 실행을 용이하게 할 정도로 체계화된 조직에 참여했다고 볼 수는 없다는 것이다.&lt;br&gt;&lt;br&gt;재판부는 이러한 점을 고려해 다른 10명의 공범에겐 징역 2~4년의 실형을 선고했다. 재판부는 “피고인들은 자신들의 나체 사진 등이 유포되는 것을 막기 위해 자신들이 포섭하는 피해자들이 자신들과 똑같이 성착취 등을 당할 것임을 알면서도 범행에 가담했다”고 지적했다. 다만 이들 중 5명은 미성년자이고 나머지 5명도 갓 성인이 된 어린 나이인 점을 고려했다고 밝혔다. 재판부는 구속 수감 중인 김녹완과 보석으로 풀려난 강모 등 2명만 구속하고, 나머지 9명은 법정구속하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정유라 “10년 칼 갈았다”... 한동훈·김어준 등에 소송 예고</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/TRC2BDPN6VGQBGTFTB6KBZZGFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/TRC2BDPN6VGQBGTFTB6KBZZGFU/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 06:13:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NQXE477BRXGKK6PUDDCSEZH3H4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정유연(개명 전 정유라)씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박근혜 정부 국정 농단 사건으로 복역 중인 최서원(개명 전 최순실)씨의 딸 정유연(개명 전 정유라)씨가 한동훈 전 국민의힘 대표, 방송인 김어준씨 등에 대한 대규모 소송을 예고했다. 최씨는 최근 안민석 전 더불어민주당 의원을 상대로 진행한 손해배상 청구 소송에서 일부 승소한 바 있다.&lt;br&gt;&lt;br&gt;정씨는 23일 페이스북을 통해 “안민석을 처벌하는 데 10년이 걸렸다. 승소 이후 향후 계획”이라면서 크게 9개 분야로 나눠 재심·손해배상·형사 고발 절차를 이어가겠다고 밝혔다.&lt;br&gt;&lt;br&gt;우선 정씨는 어머니 최씨의 재심을 준비 중이라면서 “어머니와 박근혜 전 대통령은 공동 정범으로, 어머니가 무죄가 되면 박 전 대통령도 자동 무죄가 된다”며 “뇌물죄가 무죄라면 탄핵도 무효”라고 했다.&lt;br&gt;&lt;br&gt;국가 상대 손해배상 청구 소송도 예고했다. 정씨는 “잘못된 판결과 거짓말로 어머니의 10년과 제 10년을 빼앗고, 재산을 압류해 10년간 괴롭게 살았다”면서 “오심에 의한 피해는 나라가 배상해야 할 사안이라 생각한다”고 했다.&lt;br&gt;&lt;br&gt;국정 농단 사건 당시 발언했던 국회의원들에 대해서도 민형사상 소송을 진행할 것이라고 했다. 그는 “유죄가 날지 무죄가 날지 몰라 안민석 하나만 진행했었는데 유죄가 났으니 발언 하나하나 고발한다”며 “추미애, 박영선, 이준석 등 현재 처벌 가능한 발언을 변호사가 찾아보고 있다”고 했다. &lt;br&gt;&lt;br&gt;일부 언론사, 유튜버, 소셜미디어 댓글 등에 대해서도 손해배상 청구 등 소송을 이어갈 것이라고 했다. 특히 “김어준, 주진우, 봉지욱 등 거짓말을 업으로 삼고 살아가는 X들에게는 정정 요청도 안 할 예정”이라며 “채널 터트려 버리는 게 최종 목표”라고 했다. &lt;br&gt;&lt;br&gt;정씨는 “장시호, 한동훈 등 국정 농단 사건에서 위증을 강요 및 실행한 사람들에 대한 형사 고소를 진행할 예정”이라고도 했다.&lt;br&gt;&lt;br&gt;또 “국제 인권위에 제소하여 국내의 부당한 우파 탄압 사례를 알릴 예정”이라며 “대장동, 화천대유와 국정 농단 사건의 연관성 관련 소송을 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;끝으로 “나를 적으로 돌린 것을 훗날 가장 큰 실수였다고 생각하는 사람이 비단 안민석만은 아니게 될 것”이라며 “올해 하려던 결혼도 미루고 이 싸움을 준비하고 있다. 10년간 간 칼이 얼마나 날카로운지 제대로 보여주겠다”고 했다.&lt;br&gt;&lt;br&gt;앞서 서울남부지법 민사항소3-2부(허일승·송승우·이종채 부장판사)는 지난 21일 손해배상 청구 소송 파기환송심에서 안 전 의원이 최씨에게 위자료 2000만원을 지급해야 한다고 판결했다. 재판부는 “최씨를 향한 비난 수위가 커지는 데 일조했고, 현재까지도 발언의 근거가 밝혀지지 않은 점을 볼 때 안 전 의원의 발언이 최씨의 명예에 큰 영향을 미쳤다”고 했다. 안 전 의원은 2016~2019년 여러 유튜브 채널과 방송에 출연해 “최씨가 은닉한 재산이 수조 원에 달한다” “스위스 비밀 계좌의 돈이 최씨와 관련 있다” 등의 발언을 한 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“불같은 남편도 아이 태어난 뒤 순한 양 됐죠”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/22/H7FKMI6A75BCPPFJRB52OFHQTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/22/H7FKMI6A75BCPPFJRB52OFHQTU/</guid>
-      <dc:creator>포항=노인호 기자, 포항=권광순 기자, 포항=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ECUH7BDVKNCYDFERFDSKUDKVOQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김동환 기자
-21일 경북 포항시 남구 만인당 체육관에서 ‘아이가 행복입니다 해피투게더 경북 in 포항’ 행사가 열렸다. ‘행복 육아 사진&amp;영상 공모전’ 수상자 가족들이 기념사진을 찍고 있다. 이번 행사는 22일까지 열린다. 22일에는 아이 다섯을 키우는 축구 스타 이동국이 토크쇼 무대에 선다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“아이들은 자기 숟가락을 물고 태어난다고 하잖아요. 경제적으로 힘들어서 고민이신 분들 아이를 낳아 보세요. 저도 사업 힘들 때 아이들 보면서 이겨 냈어요.”(‘행복 육아 사진&amp;amp;영상 공모전’ 최우수상 수상자 최민창씨)&lt;br&gt;&lt;br&gt;“아이가 태어난 뒤 불같은 남편 성격도 순한 양처럼 바뀌었어요.”(우수상 수상자 박미희씨) &lt;br&gt;&lt;br&gt;21일 ‘아이가 행복입니다. 해피투게더 경북 in 포항’ 행사가 열린 경북 포항시 만인당 실내체육관. 전국에서 온 가족 등 1000여 명이 공모전 수상자들의 소감에 박수를 쳤다. ‘아이가 행복입니다’는 2018년 조선일보가 시작한 저출생 극복 캠페인으로, 아이 낳은 가족을 격려하고 저출생 정책을 공유한다. 2022년부터는 서울뿐 아니라 경북 경주·안동·구미, 부산에서도 행사가 열렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZO7OX7QFEZA3DH7OSRLUO44NJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 김동환 기자
-21일 경북 포항시 만인당 실내체육관에서 ‘아이가 행복입니다 해피투게더 경북 in 포항’ 행사에 참석한 내빈과 수상자들이 기념 촬영을 하고 있다. 왼쪽부터 최은정 경북도 저출생여성정책실장, 정훈 학교안전공제중앙회 이사장, 이만희 국민의힘 국회의원, 주형환 저출산고령사회위원회 부위원장, 김학홍 경북도 행정부지사, ‘포항시 다자녀 유공 표창장’을 받은 김동균·조혜정씨 가족, ‘행복 육아 사진&amp;영상 공모전’ 대상 수상자 김양호·조연정씨 가족, 홍준호 조선일보 발행인, 이강덕 포항시장, 김일만 포항시의회 의장, 최한용 경북 포항교육지원청 교육장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 행사는 조선일보와 경북도·포항시가 공동 주최하고 저출산고령사회위원회·교육부·보건복지부·성평등가족부·학교안전공제중앙회·에듀조선이 후원했다.&lt;br&gt;&lt;br&gt;‘행복 육아 사진&amp;amp;영상 공모전’에는 2282가족이 사진·영상을 출품했다. 그중 여섯 가족이 이날 시상대에 올랐다. 김양호(39)·조연정(36)씨 가족은 ‘사랑이 한 명 더 늘었다’는 영상을 출품해 대상을 받았다. 첫째(7)와 둘째(5)가 올 6월 태어난 막내를 돌보는 모습을 담았다. 조씨는 “갑자기 생긴 셋째가 우리 가족 모두를 이어줬다”며 “사랑도 행복도 더 커졌다”고 했다. 그는 “셋째가 태어나기 전 친정어머니가 돌아가셨는데 어머니가 우리 가족에게 주고 간 선물 같다”고 했다. &lt;br&gt;&lt;br&gt;최민창(35)·김선아(33)씨 가족은 두 아이와 다음 달 출산 예정인 김씨의 행복한 모습을 담은 영상으로 영상 부문 최우수상을 받았다. 최씨는 상을 받은 뒤 “예전에 사업이 참 힘들었는데 아이들을 보며 견뎌 냈다”며 “우리 아이들 덕분에 사업이 다시 살아났다”고 했다. 그는 “셋째는 지역 사회에 이바지하는 인재로 키우겠다”고 했다. &lt;br&gt;&lt;br&gt;영상 부문 우수상은 양태현(42)·박미희(42)씨 가족과 이병희(33)·백경민(31)씨 가족이 받았다. 원래 ‘딩크족(자녀를 낳지 않는 부부)’이었다는 박씨는 “예전에는 돈과 명예가 행복의 척도였는데 아이를 낳고 난 이후 바뀌었다”며 “우리 딸 없는 세상은 미래가 없다”고 했다. &lt;br&gt;&lt;br&gt;사진 부문 최우수상은 ‘천고(팔)마비’를 출품한 조용한(43)·유미라(36)씨 가족이 받았다. 아빠 조씨가 세 아이를 양팔로 안고 목말 태운 모습을 찍은 사진이다. 유씨는 “아이를 낳으면 팔은 마비되지만 행복하다”며 “앞으로도 아이들과 함께하는 순간을 더 사랑하고 소중히 여기며 살겠다”고 했다. &lt;br&gt;&lt;br&gt;남수진(39)·서다영(35)씨 가족은 아빠 남씨가 네 자매와 동화책을 읽는 모습을 찍어 사진 부문 우수상을 받았다.&lt;br&gt;&lt;br&gt;김학홍 경북도 행정부지사는 축사에서 “경북은 지난해 전국 최초로 ‘저출생과의 전쟁’을 선포한 이후 정책을 150개 추진하고 있다”며 “내년에는 돌봄 현장에 인공지능(AI) 로봇을 투입하는 등 정책을 한 단계 더 업그레이드할 것”이라고 했다. 이강덕 포항시장은 “올해는 신혼부부, 청년이 부담 없이 살 수 있는 ‘천원주택’ 공급을 시작했다”며 “아이 낳고 키우기 좋은 포항을 만드는 데 최선을 다하겠다”고 했다. 홍준호 조선일보 발행인은 “아이 우는 소리가 들리지 않는 나라에는 희망이 없다”며 “아이 우는 소리가 그치지 않도록 함께 매진하자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/LTSLYF7EIZGGZBV3NJSSMR4XNA.JPG?auth=75aa504f1b4736a6781b7cea625cfc2622ac2b60dfe1a984eea4b56493f83479&amp;smart=true&amp;width=5161&amp;height=3521" type="image/jpeg" height="3521" width="5161">
-        <media:description type="plain">21일 경북 포항시 남구 만인당 체육관에서 '아이가 행복입니다 해피투게더 경북 in 포항' 행사에서 사진·영상 공모전 수상자 가족들이 함께 모여 기념 촬영을 하고 있다./ 김동환 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세]  11월 22일 토요일 (음력 10월 3일 乙未)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/SMMWGAJK4FFQNM5B5N3JSXLW6M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/SMMWGAJK4FFQNM5B5N3JSXLW6M/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 13:37:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>[오늘의 운세]  11월 23일 일요일 (음력 10월 4일 丙申)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/21/ZRVV7P5GVVEFVIADZBJEC2AFZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/21/ZRVV7P5GVVEFVIADZBJEC2AFZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 21 Nov 2025 13:39:27 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>고양 자동차검사소 화재... 진화 중 소방관 1명 심정지 상태로 이송 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/NCVBWDBAIBEQ7C7HOUTSFYIULM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/NCVBWDBAIBEQ7C7HOUTSFYIULM/</guid>
-      <dc:creator>고양=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 05:42:23 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/STPH4VPKQRHBDNE5ELLTPK2N6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 낮 12시쯤 경기 고양시 덕양구 행신동의 자동차검사소 3층에서 화재가 발생했다./경기도북부소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 고양의 한 자동차검사소에서 불이 나 이를 진압하던 소방관 1명이 심정지 상태로 쓰러졌다.&lt;br&gt;&lt;br&gt;24일 경기도북부소방재난본부에 따르면 이날 낮 12시쯤 고양시 덕양구 행신동의 한 자동차검사소 4층 건물 3층에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 펌프차 등 장비 20대와 인력 56명을 동원해 약 1시간 20분 만인 이날 오후 1시 20분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;이 과정에서 진화에 나섰던 40대 남성 A소방관이 심정지 상태로 발견돼 병원으로 옮겨졌다. 현재 치료 중인 A소방관은 심장 리듬은 회복됐지만 자발 순환이 안정된 상태는 아닌 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A소방관은 발견 당시 공기호흡기 면체를 착용해 화염과 열에 의한 부상은 없었다. &lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 손을 내밀다, (도움의) 손길을 내밀다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/11/17/IPBCG3OLORFG7FZMPRABVIX7BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/11/17/IPBCG3OLORFG7FZMPRABVIX7BA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 16 Nov 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YOLFA2EZRBH6BJPSHPZJBSYP4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘남극의 셰프’로 복귀한 백종원, 활동 중단 선언한 유튜브 영상 삭제</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/WAJH45SAZBAILAPMNSXKVX7DUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/WAJH45SAZBAILAPMNSXKVX7DUA/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 05:21:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQYWGYRQGAZWMZRZGNRDEMRSME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표가 지난 3월 28일 서울 서초구 스페이스쉐어 강남역센터에서 열린 정기 주주총회에서 참석해 주주들과 인사를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백종원 더본코리아 대표의 유튜브 채널에서 과거 방송 활동 중단을 선언한 영상이 사라지면서, 앞으로 그의 행보에 관심이 쏠리고 있다. 앞서 백 대표는 활동 중단 선언 6개월 만에 MBC 프로그램을 통해 국내 방송에 복귀한 바 있다.&lt;br&gt;&lt;br&gt;24일 기준 백종원 개인 유튜브 채널에서는 지난 5월 게시된 ‘처음부터 다시 시작하겠습니다’ 영상이 사라진 상태다. &lt;br&gt;&lt;br&gt;당시 원산지 표기 오류와 위생 관리 부실 등 각종 논란이 잇따라 불거지자, 백 대표는 영상을 통해 사과와 함께 방송 활동 중단을 선언했다. 백 대표는 영상에서 “모든 문제는 저에게 있다”며 “지금부터 저는 현재 촬영 중인 프로그램을 제외하고 모든 방송 활동을 중단하겠다”고 했다. “이제 방송인이 아닌 기업인 백종원으로서 저의 모든 열정과 온 힘을 오롯이 더본코리아의 성장과 가맹점주님들의 발전에 집중하도록 하겠다”고도 했다.&lt;br&gt;&lt;br&gt;백 대표는 지난 17일 방송된 MBC 새 예능 프로그램 ‘남극의 셰프’로 복귀했다. 방송 활동 중단 선언 약 6개월 만이었다. 이 프로그램은 출연진이 ‘명예 대원’ 자격으로 남극 세종과학기지를 방문해 대원들에게 따뜻한 한 끼를 대접하는 과정을 그린다. 백 대표는 방송에서 남극행을 결정한 배경에 대해 “대원들을 위해 내가 뭘 해 줄 수 있을까 (고민했다)”라며 “할 수 있으면 해야 한다. 약간의 사명감 같은 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 프로그램을 연출한 황순규 PD는 지난 3일 공개된 일문일답 인터뷰에서 ‘출연자의 개인 이슈가 방송에 영향을 미치지는 않았느냐’는 질문에 “‘남극의 셰프’는 출연자가 주인공인 요리 쇼가 아니다”라며 “작년 11월 촬영을 시작해 이미 완성된 작품으로, 방송을 앞두고 있었다”고 했다. 그러면서 “외부 상황에 의해 한 차례 방송이 연기된 데 이어 출연자 이슈가 생기면서 회사에서도 깊은 고민을 한 것으로 알고 있다”고 했다.&lt;br&gt;&lt;br&gt;백종원 유튜브 채널 제작진은 지난달 31일 “6년간 함께해 주신 시청자 여러분께 감사하다”라며 “11월 3일부터 더욱 풍성한 콘텐츠를 위해 순차적인 채널 코너 개편을 진행하겠다”고 밝힌 바 있다. ‘남극의 셰프’ 공개와 더불어 활동 중단을 선언한 영상까지 삭제되면서, 일각에선 백 대표가 다시 과거처럼 방송 활동을 이어 갈 것으로 보인다는 시각도 나온다. 백 대표가 심사위원을 맡은 넷플릭스 예능 ‘흑백요리사’ 시즌 2도 오는 12월 16일 공개를 앞두고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘천원 밥집에 기부’...경찰, ‘공직선거법 위반’ 한덕수 전 총리 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/4VKUGIXRF5BPHPXW5E264LWXKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/4VKUGIXRF5BPHPXW5E264LWXKM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 05:08:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CHAFEHGZ5PAPOOIBFN6ZL5XKM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 24일 오전 서울 서초구 서울중앙지법에서 열린 내란방조·위증 등 혐의 관련 11차공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조기 대선 국면에 광주광역시를 찾아 ‘1000원 밥집’에 사비로 후원한 한덕수 전 국무총리가 공직선거법 위반 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주경찰청 반부패·경제범죄수사대는 24일 공직선거법 위반 혐의로 한 전 총리를 불구속 송치했다고 밝혔다. &lt;br&gt;&lt;br&gt;한 전 총리는 지난 4월 15일 대통령 권한대행 시절 광주의 한 전통시장 내 1000원 백반집에 150만원 상당의 격려금을 사비로 전달한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;해당 식당은 어려운 이웃도 식사를 할 수 있도록 1000원에 백반을 파는 곳이다. 한 전 총리는 150만원을 인근 식재료 가게에 선결제하는 방식으로 식당에 격려금을 전달했다.&lt;br&gt;&lt;br&gt;광주경찰청은 지난 15일 한 전 총리를 소환 조사한 뒤 혐의가 인정된다고 보고 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;한 전 총리는 경찰 조사에서 “기부한 사실관계는 인정하나 법적으로는 죄가 안 된다고 생각한다”며 혐의를 부인하는 취지의 진술을 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;조국혁신당은 지난 5월 2일 한 전 총리가 대통령 선거 출마 선언을 하자 “출마 예정자 신분으로 개인 기부 사실을 홍보한 것은 공직선거법 제113조 위반”이라며 국가수사본부에 고발했다. 조기 대선 선거일(6월 3일)은 지난 4월 8일 정부서울청사에서 열린 국무회의에서 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7CHAFEHGZ5PAPOOIBFN6ZL5XKM.jpg?auth=1c49b8c687cab082678e77021f22832c23ad2b90a5d7b7bf0b26964361d09592&amp;smart=true&amp;width=2488&amp;height=1658" type="image/jpeg" height="1658" width="2488">
-        <media:description type="plain">한덕수 전 국무총리가 24일 오전 서울 서초구 서울중앙지법에서 열린 내란방조·위증 등 혐의 관련 11차공판에 출석하고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">kch0523</media:credit>
       </media:content>
     </item>
     <item>
