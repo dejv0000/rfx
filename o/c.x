@@ -13,6 +13,36 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“파산은 광고주가, 수습은 모델이”... 미미미누, 광고 업체 파산에 사과 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/YFHDHIRJ4FDM5MJ2ZKBMBDDUXY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/YFHDHIRJ4FDM5MJ2ZKBMBDDUXY/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 05:06:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HBMBNHQ35C6JGMRXDEDUZAGFI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/미미미누 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;입시·교육 콘텐츠를 다루는 유명 유튜버 미미미누(본명 김민우)가 광고했던 학습 애플리케이션 ‘파트타임스터디’의 운영사가 파산을 신청했다. 이에 미미미누는 “조금이나마 보탬이 되겠다”며 피해자들에게 금전적 지원을 하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;미미미누는 25일 영상을 통해 “제가 받았던 광고비 전액과 추가적인 금액을 피해자분들께 정식으로 전달해서, 지금 이 순간에도 잠 못 이루고 마음고생을 하고 계실 분들이 앞으로 쉽지 않은 싸움을 해 나가는 데 조금이나마 보탬이 되도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;파트타임스터디는 가입자가 보증금을 걸고 목표한 공부 시간을 달성하면 보증금에 추가금을 더해 돌려주는 공부 동기 부여 앱으로, 최근 해당 앱을 운영하던 ㈜스터디워크가 파산 절차를 진행한 것으로 파악됐다. 업체가 파산하면서 이용자의 예치금이 환급되지 않은 채 동결된 것으로 알려졌다. 보증금 규모는 1인당 10만~90만원 수준으로 알려졌고, 이런 피해를 주장하는 수험생들의 글이 온라인에 잇따르고 있다.&lt;br&gt;&lt;br&gt;미미미누는 광고를 진행하는 동안 파트타임스터디의 경영 악화를 전혀 눈치채지 못했다고 밝혔다. 그는 “작년 6월부터 지난달까지 두 차례 광고를 논의하면서 업체 대표님을 직접 대면하고 최대한 많은 자료들을 철저히 검수하며 진행해 왔으나, 경영 악화에 대한 조짐을 파산 직전까지 내부 이사님들에게조차 숨겨 왔다는 사실을 저 또한 파산 당일에서야 급작스러운 메일 한 통을 받고 알게 됐다”고 했다. 그러면서 “대표님을 비롯한 직원분들께 계속해서 연락을 시도했지만, 끝내 닿지 않았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LVB5GJGKCBGNFKIIRP4GJ4N2FM.png"&gt;&lt;figcaption&gt;&lt;small&gt;/파트타임스터디 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만 미미미누는 자신을 믿고 해당 앱을 이용한 피해 고객들을 위해 광고비를 반납하고 추가 지원금을 보태 도의적 책임을 지겠다는 입장이다. 그는 “저와 제 채널을 신뢰하고 해당 서비스를 이용하셨을 시청자분들께 최소한 저라도 최대한 빠르게 책임을 지는 것이 맞다고 생각했다”며 “즉시 피해자 단체 측에 연락해 정확한 증빙과 함께 약속한 금액을 최대한 빠르게 전달하도록 하겠다”고 했다. 그러면서 “다시 한 번 진심으로 사과드린다. 죄송하다”며 고개를 숙였다.&lt;br&gt;&lt;br&gt;현재 미미미누의 사과 영상에는 댓글 약 1900개가 달렸다. 네티즌들은 “광고주가 망해서 모델이 수습해 주는 상황이라니” “일부러 유명한 사람한테 광고 제안해서 책임 전가하는 거 아니냐” “수능 끝나자마자 ‘먹튀’하는 상황이라니” “수험생 돈 뜯어 먹고 파산 신청하는 거 보니 전형적인 사기 수법 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;한편 법인이 파산 절차에 들어가면 법원이 사건을 접수한 뒤 파산관재인을 선임하고 채권 신고 기간을 공고한다. 이때 피해 이용자들은 보증금, 입금 내역, 앱 이용 기록 등 채권을 입증할 자료를 제출해야 파산 절차에서 채권자로 인정돼 나중에 남은 자산을 나눠 받을 수 있다. 다만 회사 자산이 충분하지 않을 경우, 보증금 전액을 돌려받지 못하거나 일부만 배당받는 데 그칠 가능성도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“틀린 그림 찾기인 줄”… 독일 화가, 국내 사진작가 작품 표절 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/ALY2QJPVJZAR7JBHSARMSTMDSU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/ALY2QJPVJZAR7JBHSARMSTMDSU/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 03:44:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAU3IVFWTFFUVNAGXVXK25DERY.png"&gt;&lt;figcaption&gt;&lt;small&gt;각각 이경호 작가의 사진 작품(왼쪽)과 쿠나스 작가의 회화. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 독일 화가가 유명 갤러리 전시에 내건 그림이 국내 사진작가의 사진 작품과 지나치게 유사하다는 지적이 제기됐다. 국내 작가는 독일 화가 측에 설명을 요구한 상태다.&lt;br&gt;&lt;br&gt;25일 미술계에 따르면, 최근 독일 출신 현대미술 작가 프리드리히 쿠나스(Friedrich Kunath) 개인전에 전시된 그림이 국내에서 포토그래퍼 겸 비디오그래퍼로 활동 중인 이경호 작가의 사진 작품과 유사하다는 지적이 온라인에서 제기됐다.&lt;br&gt;&lt;br&gt;도마 위에 오른 작품은 이 작가의 사진 ‘Memories’(2022)와 쿠나스 작가의 회화 ‘We Can’t Afford To Stay The Same’(2025)이다. 두 작품을 비교해 보면, 배경과 구도 등이 유사하다. 모래사장 위에 서 있는 사람의 위치, 키 비율, 몸 방향, 다리 각도까지 거의 같을 뿐 아니라, 파도 라인이 끊기는 위치와 모래사장 기울기까지 같다. 특히 뒤쪽 큰 파도 능선, 앞쪽 부서지는 물결의 덩어리 모양 등 파도 형태마저 비슷하다. 색감에서만 차이를 보인다. 이 작가의 사진 작품은 전체적으로 노을빛 필터를 씌운 것 같은 따뜻한 느낌인 반면, 쿠나스 회화는 채도와 대비가 세게 올라간 모습이다.&lt;br&gt;&lt;br&gt;온라인에서는 쿠나스 작가의 표절 의혹이 제기됐다. 이 작가의 사진 작품이 최소 3년 먼저 촬영됐는데, 쿠나스 작가의 그림이 이 작가 작품과 지나치게 비슷하다는 것이다. 네티즌들은 “이런 걸 트레이싱(베껴 그리기)이라고 하지 않나” “빔 프로젝터 쏴서 그대로 위에 대고 그린 것 같다” “틀린 그림 찾기 난이도 최상” “해안선의 형태까지 같다” “표절까지가 현대미술 메시지인 건가” “한국 사진작가라고 별 파급력 없을 거라고 생각했나 싶다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;이와 관련, 이 작가는 지난 12일 스레드를 통해 “최근 일어난 프리드리히 쿠나스 작가 관련 이슈에 대해 응원해 주고 문의하는 분들이 많아서 글을 남기게 됐다”며 “현재 쿠나스의 매니저로부터 메일이 온 상태”라고 직접 입장을 밝혔다. 그러면서 “이 사건과 관련해 더 신중하고 단호하게 대응하기 위해 자세한 내용과 소식은 추후 전해 드리도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;표절 의혹이 제기된 쿠나스 작가의 작품은 미국 뉴욕의 유명 갤러리인 페이스 갤러리에 전시된 것으로 알려졌다. 이번 논란과 관련한 쿠나스 작가 측의 입장은 알려지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>춘천 감자빵 전 대표, 상표권 침해 ‘벌금 1000만원’</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/7TO45CSSFBH33PVTU5N7TJDTBQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/7TO45CSSFBH33PVTU5N7TJDTBQ/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>강원도 춘천의 대표 간식 ‘감자빵’을 만든 농업회사법인의 전 공동대표가 상표를 허락 없이 사용한 혐의로 벌금형을 선고받았다. 해당 법인은 청년 농부 부부가 함께 운영해 왔으며, 두 사람은 지난 7월 이혼했다.</description>
+      <pubDate>Tue, 25 Nov 2025 04:00:27 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRTKOBZGY4DSNRVMYYGGMRTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법.(뉴스1 DB)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 춘천의 대표 간식 ‘감자빵’을 만든 농업회사법인의 전 공동 대표가 상표를 허락 없이 사용한 혐의로 벌금형을 선고받았다. 해당 법인은 청년 농부 부부가 함께 운영해 왔으며, 두 사람은 지난 7월 이혼했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 상표법 위반 등 혐의로 기소된 A(34)씨에게 벌금 1000만원을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 5월 감자빵 상표권 일부를 양도받았지만 상표권 공유자이자 회사 공동 대표였던 B씨 등의 동의를 얻지 않은 채 2023년 7~8월 자신이 조합장으로 있는 영농조합 이름으로 “감자빵 공구 진행해 주실 셀러분을 찾습니다”라는 글을 인터넷에 게시했다. 이후 연락한 판매업자들에게 샘플을 보내면서 감자빵 포장 박스 등에 감자빵 상표등록번호와 같은 상표를 사용해 상표권을 침해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3RGRTT5PMMAAUNG4DDXYCFYZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천 감자빵./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 또 회사의 사내 이사 신분으로 정식 내부 절차를 거치지 않고, 회사가 보유한 ‘콩빵 제조 방법’ 특허의 출원인 명의를 임의로 변경해 자신을 공동 출원인으로 올린 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;박 판사는 “동의 없이 상표권을 사용했고, 사내 이사임에도 정당한 의사결정 절차를 거치지 않고 회사의 특허 출원인 명의를 변경해 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L3RGRTT5PMMAAUNG4DDXYCFYZE.jpg?auth=839e0260b575e191cb292d75a53940bae3c66ebf0f00a7d15c660d6c43e12682&amp;smart=true&amp;width=948&amp;height=583" type="image/jpeg" height="583" width="948">
+        <media:description type="plain">춘천 감자빵./뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>마약류 없는 마약 택배상자, 마약인 줄 알고 챙겼다면... 대법 “유죄” 첫 판단</title>
       <link>https://www.chosun.com/national/court_law/2025/11/25/U5NO2Z5AURBSFISMGVEXPEE2AI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/U5NO2Z5AURBSFISMGVEXPEE2AI/</guid>
@@ -890,16 +920,6 @@
       </media:content>
     </item>
     <item>
-      <title>현빈·손예진 청룡 ‘베스트 액터’상… 주연배우 부르는 말은 따로 있어요</title>
-      <link>https://www.chosun.com/national/education/2025/11/24/P36CP6MF4RAOJL5IUA66SABPMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/24/P36CP6MF4RAOJL5IUA66SABPMY/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 18:00:00 +0000</pubDate>
-      <content:encoded>배우 현빈과 손예진이 제46회 청룡영화상 시상식에서 남우주연상과 여우주연상을 나란히 받았지요. 46년 청룡영화상 역사상 ‘청룡 부부’ 탄생은 처음입니다. 이와 관련된 기사들에는 영화제와 시상식 관련 용어가 등장하는데요, 영어로는 어떻게 표현하는지 살펴보도록 하겠습니다.&lt;br&gt;&lt;br&gt;‘시상식’은 흔히 awards ceremony라고 합니다. 그리고 ‘남우주연상’은 Best Actor Award, ‘여우주연상’은 Best Actress Award라고 합니다. 최고 배우라는 의미에서 상 이름에는 Best가 붙여졌지만, 영화나 드라마의 남자 주연 배우를 일반적으로 지칭할 때는 남자 주연은 lead actor 또는 leading actor, 여자 주연 배우는 lead actress 또는 leading actress라고 합니다.&lt;br&gt;&lt;br&gt;그럼 조연 배우는 뭐라고 할까요. 주연 배우를 도와주는 역할을 한다고 해서 supporting actor 또는 supporting actress라고 부릅니다. 전체 출연진을 뭉뚱그려 말할 때는 cast라고 합니다.﻿&lt;br&gt;&lt;br&gt;두 사람은 2019년 드라마 ‘사랑의 불시착’ 출연 이후 연인이 돼 2022년 결혼했습니다. &lt;br&gt;&lt;br&gt;‘연인이 되다’는 become romantically involved 또는 start dating이라고 합니다. romantically involved는 ‘연애 관계에 들어가다’라는 의미로, 격식을 갖춰 표현할 때 자주 쓰입니다.&lt;br&gt;&lt;br&gt;영화 ‘하얼빈’으로 남우주연상을 수상한 현빈은 나라를 지키기 위해 헌신하신 수많은 분들과 감독·배우·제작진에게 먼저 감사를 표한다고 수상 소감을 밝혔습니다.&lt;br&gt;&lt;br&gt;‘수상하다’는 win an award 또는 receive an award라고 하고, ‘수상 소감’은 acceptance speech라고 하는데, acceptance는 ‘수락’이라는 뜻으로, 상을 수락하면서 하는 연설을 의미합니다.&lt;br&gt;&lt;br&gt;‘제작진’은 production crew 또는 production team이라고 합니다. crew는 원래 ‘선원들’을 의미했지만, 현재는 함께 일하는 팀을 폭넓게 지칭합니다.&lt;br&gt;&lt;br&gt;영화 ‘어쩔수가없다’는 최우수 작품상을 비롯해 감독상·여우주연상 등 6개 부문에서 수상했지요. 남우조연상은 영화 ‘어쩔수가없다’의 이성민, 여우조연상은 영화 ‘히든페이스’의 박지현이 차지했습니다. 563만 관객을 모으며 올해 최고 흥행작이 된 영화 ‘좀비딸’은 최다 관객상을 받았습니다.&lt;br&gt;&lt;br&gt;‘최우수 작품상’은 Best Picture Award 또는 Grand Prize라고 합니다. ‘남우조연상’은 Best Supporting Actor Award, ‘여우조연상’은 Best Supporting Actress Award라고 합니다.&lt;br&gt;&lt;br&gt;‘흥행작’은 Box Office Hit으로 표현합니다. box office는 극장의 ‘매표소’를 의미했지만, 현재는 영화의 상업적 성공을 나타내는 표현으로 널리 쓰입니다.&lt;br&gt;&lt;br&gt;‘최다 관객상’은 가장 인기를 끈 영화에 주는 상이라는 뜻에서 Most Popular Film Award이라고 하거나, 관객들이 가장 인기 있는 영화로 선택한 데 따른 상이라는 의미에서 Audience Choice Award(for Most Popular Film)이라고 합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/BQPS4IVITRBAVHTVHDDYD3HW3E.gif?auth=4a5cbc4dfb08423cda801b9d7d4eeb164d85c359fd10d9a1d97fd5ec14e1000f&amp;smart=true&amp;width=418&amp;height=314" type="image/jpeg" height="314" width="418"/>
-    </item>
-    <item>
       <title>수사 협조한 임기훈·이시원 해병특검, ‘기소 유예’ 처분</title>
       <link>https://www.chosun.com/national/court_law/2025/11/24/FT336RKFGFBU5ODKBMMP4562MQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/FT336RKFGFBU5ODKBMMP4562MQ/</guid>
@@ -916,24 +936,6 @@
       <description/>
       <pubDate>Sun, 23 Nov 2025 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCWHOWYM7VGPTACJ5KTW4WODII.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;올해 포스텍이 창의성과 잠재력을 두루 갖춘 학생 선발을 위해 수시 전형 시간을 기존 대비 4배 수준인 200분으로 늘렸다. 사진은 지난 22일 경북 포항시 포스텍을 찾은 수험생들이 수시 오리엔테이션을 듣기 위해 대강당으로 들어가는 모습./ 김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 22일 오전 8시 경북 포항시 포스텍 대강당. 포스텍 수시 1단계 서류 전형에 합격한 700여 명이 모여든 가운데, 강당 입구 곳곳엔 ‘전형 면접 안내 200분’이라 적힌 피켓이 곳곳에 있었다. 개인 면접 20분, 개인 과제 100분, 단체 과제 80분 등 총 3시간 20분짜리 장시간 전형을 안내하는 원형 그래프였다. 보통 15~20분이 걸리는 다른 대학의 면접 전형에 비하면 10배 수준이다. 식사·휴식 시간을 제외하고 200분이 걸리다 보니, 이날 오전에 도착한 수험생들은 어두워진 오후 5시가 돼서야 고사장 밖으로 나왔다.&lt;br&gt;&lt;br&gt;국내 대표 공과대학인 포스텍이 올해 학생 선발에서 대대적 변화를 줬다. 1년에 370명을 뽑는 포스텍은 가장 많은 학생(220명)을 선발하는 ‘일반전형Ⅰ’의 전형 시간을 기존 50~60분에서 200분으로 4배가량으로 늘렸다. 원래도 면접이 다른 대학보다 2~3배 길었는데, 더 확대한 것이다. 수능 성적을 반영하지 않는 이 전형은 내신도 서류 전형에서만 참고한다.&lt;br&gt;&lt;br&gt;문항 역시 다른 대학과 180도 달랐다. 일반적 문제 풀이식 문항이 아니라, 실제 문제 해결 능력을 검증하는 식이었다. 예컨대 놀이기구의 원리를 물리학적으로 설명토록 했고, 놀이공원을 운영할 때 ‘이윤 창출’과 장애인 등 ‘약자 배려’ 두 가치가 충돌할 때의 학생 생각을 물었다.&lt;br&gt;&lt;br&gt;기존에 없던 단체 과제(8인 1조)도 추가했다. 단체 과제에선 ‘달에서 자원이 발견된 상황’을 가정한 뒤 채굴·운송 등 기술력이 서로 다른 두 국가를 제시했다. 이어 학생들에게 두 국가가 어떻게 힘을 모아 자원을 가져올 수 있을지 협의토록 했다. 학생의 수학·과학 능력뿐 아니라 인문·사회 관련 소양과 소통 능력을 두루 보겠다는 취지다.&lt;br&gt;&lt;br&gt;이처럼 포스텍이 변화를 시도한 건, ‘인공지능(AI) 시대엔 시험 점수 1~2점보다 다양한 역량을 갖춘 학생 선발이 더 중요하다’는 취지에서다. 김성근 포스텍 총장은 “AI 시대에는 틀에 박혀 쳇바퀴 도는 학생을 키워낼 게 아니라 큰 방향을 잡을 수 있는 잠재력을 가진 학생을 선발해야 한다”며 “이번 전형은 우리 대학이 그동안 고민하고 내놓은 결과물”이라고 했다.&lt;br&gt;&lt;br&gt;포스텍은 채점을 둘러싼 공정성 시비를 없애기 위해 학생 1명당 교수 6명에게 평가를 받도록 했다. 학교 전임 교원 282명 중 학회나 해외 일정으로 불가피한 경우를 제외한 270명이 심사위원으로 투입됐다. 출제위원으로 나선 교수들은 지난 6월부터 20회 넘게 회의하면서 문제를 준비했다. 출제위원장인 김준원 기계공학과 교수는 “문제 출제를 위해 쓴 시간도 평년의 10배 수준”이라고 했다.&lt;br&gt;&lt;br&gt;학생들 역시 “짧은 면접에선 한 번 실수하면 만회할 수 없는데, 긴 시간 역량을 드러낼 수 있었다”며 긍정적 반응을 보였다. 이번 수시에서 포스텍과 서울대 자연대, 카이스트에 지원한 고3 박모(18)군은 “여러 교수님들에게 평가를 받을 수 있다는 점이 좋았다”고 했다. 지방 한 과학고 졸업 예정인 김모(17)양은 “단체 과제에선 과학 지식만큼이나 학생끼리 소통하는 능력도 많이 보는 시험이란 생각이 들었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화석연료 퇴출 로드맵 또 합의 못 한 유엔… 결국 한국만 ‘급발진’</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/24/WU2OYMAO4RDV3LTCBULZDHEYUY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/24/WU2OYMAO4RDV3LTCBULZDHEYUY/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 15:45:00 +0000</pubDate>
-      <content:encoded>브라질 벨렝에서 열린 제30차 유엔 기후변화협약 당사국 총회(COP30)가 22일(현지 시각) 최대 관심사였던 ‘화석연료 퇴출 로드맵’에 대해 합의하지 못한 채 끝났다. 이를 놓고 “한국만 무리한 2035년 국가 온실가스 감축 목표(NDC) 공표에 이어, ‘탈(脫)석탄동맹’ 가입으로 스스로 족쇄를 채웠다”는 비판이 나온다. &lt;br&gt;&lt;br&gt;23일 기후에너지환경부에 따르면, COP30이 예정된 폐막일을 하루 늦추면서 ‘화석연료 퇴출 로드맵’ 논의를 이어갔지만 참여 국가들 간 이견을 좁히지 못했다고 한다. 이번 COP30은 뒤숭숭한 분위기에서 진행됐다. 탄소 배출량 기준 2위인 미국이 트럼프 정부 출범 후 파리협정 탈퇴와 함께 COP30에도 연방 정부 차원의 대표단을 보내지 않았고, 사우디아라비아·러시아 등은 화석연료 퇴출 이행안 마련에 반대해 최종 합의문에 ‘화석연료’라는 단어조차 들어가지 못했다.&lt;br&gt;&lt;br&gt;그럼에도 한국은 2035년까지 탄소 배출량을 2018년 대비 53~61% 감축한다는 목표를 공표한 데 이어, 늦어도 2040년까지 석탄 발전 퇴출을 목표로 한 ‘탈석탄동맹(PPCA)’에 가입했다. 비(非)산유국이면서 석탄 의존도가 높은 이 국가들은 PPCA에 가입하지 않고 있는데, 한국만 급발진한 것이다. &lt;br&gt;&lt;br&gt;COP는 내년에도 큰 진전을 이뤄내기 어려울 것이란 관측이 많다. 미국은 불참할 가능성이 높고, 중국·인도는 온실가스 배출의 ‘정점’ 시기가 아직 오지 않아 적어도 2030년까지 탄소를 배출할 것이기 때문이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 옷장엔 신문지와 레몬 껍질</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/23/VLJQOYOZXFDC3M6DCTFLEODCE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/23/VLJQOYOZXFDC3M6DCTFLEODCE4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 23 Nov 2025 14:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3YCUV7SQVB33LUVNPBUB77YHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옷장에 신문지와 레몬 껍질을 함께 놓아 두자. 신문지는 옷장 내부의 습기와 냄새를 빨아들인다. 레몬 껍질은 천연 방향제 역할을 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김혜성 ‘부친 빚투’ 논란에 “김선생에 사과”</title>
