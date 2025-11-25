@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘불법 도박’ 개그맨 이진호 보완수사 후 검찰 재송치</title>
+      <link>https://www.chosun.com/national/incident/2025/11/25/GECTLSD47ZFWJP7NBGOCLKNEVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/25/GECTLSD47ZFWJP7NBGOCLKNEVA/</guid>
+      <dc:creator>김도균 기자, 강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 13:40:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYTSMJSMRQTEYZWGQ4GCODEMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인터넷 불법 도박 사실을 털어놓은 개그맨 이진호가 지난해 10월 22일 오후 서울 강남경찰서에 피의자 신분으로 출석 중인 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서가 개그맨 이진호(39)씨를 보완 수사한 끝에 지난 9월 그를 다시 검찰에 넘긴 것으로 25일 뒤늦게 알려졌다. 이씨는 인터넷 불법 도박사이트 등에서 수차례 도박에 참여한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 지난해 10월 이씨의 도박 혐의 등을 수사해 달라는 국민신문고 민원을 접수한 뒤 수사에 착수했다. 당시 이씨는 자신의 소셜미디어에 “2020년 인터넷 불법 도박사이트에서 게임을 시작하게 됐고, 감당하기 힘든 빚을 떠안게 됐다”고 했다.&lt;br&gt;&lt;br&gt;6개월의 수사 끝에 경찰은 지난 4월 15일 이씨를 검찰에 송치했지만, 같은 달 21일 검찰은 이씨가 이용한 도박 사이트와 관련자 계좌 등에 대한 수사를 보완하라고 요구했다.&lt;br&gt;&lt;br&gt;한편 이씨는 음주운전을 한 혐의로도 검찰 수사를 받고 있다. 그는 지난 9월 24일 새벽 인천시에서 경기 양평군까지 만취 상태로 운전한 혐의를 받는다. 당시 이씨의 혈중알코올농도는 면허 취소 수준(0.08％ 이상)이었던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 대선 TV 토론회서 ‘젓가락 발언’ 이준석 무혐의 처분</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/25/FAHHRH6RQFA6RNERGFMVEUJOTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/FAHHRH6RQFA6RNERGFMVEUJOTU/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 13:47:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4GENDCGNSDMN3GGNQTCYRQGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이준석 개혁신당 대표가 지난달 30일 서울 여의도 국회에서 열린 최고위원회의에서 모두발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대통령 선거 후보자 TV 토론회에서 여성 신체부위와 관련한 노골적 발언을 해 논란이 됐던 이준석 개혁신당 대표에 대해 경찰이 무혐의 처분을 내렸다.&lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대와 사이버수사대는 이 대표 관련 7건의 고발 사건에 대해 지난 18~21일 모두 불송치 결정했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;이 대표는 지난 5월 27일 대선 후보자 3차 TV 토론회에서 권영국 민주노동당 후보에게 질문하는 형태로 더불어민주당 이재명 당시 후보의 아들로 추정되는 네티즌의 과거 발언을 언급하며 비방을 시도한 혐의를 받는다. 이 대표는 당시 여성의 특정 신체 부위를 언급하며 성적 폭력을 가하는 행위를 구체적으로 묘사했다.&lt;br&gt;&lt;br&gt;이에 시민단체들은 이 대표를 공직선거법상 후보자 비방, 허위 사실 공표 등 혐의로 잇달아 고발했다.&lt;br&gt;&lt;br&gt;경찰은 이 대표의 발언을 허위로 단정하기 어렵다고 판단했다. 경찰이 작성한 수사 결과 통지서에는 “이 대표의 주장을 배척하기 어렵고 발언 당시 허위성 인식이 있었다고 단정할 수 없어 증거가 불충분하다”는 내용이 담겼다. 경찰은 또 이 대표의 발언이 불상의 고교생 욕설을 인용한 것으로 이재명 후보에 관한 사실이 아닌 만큼 비방죄도 성립하지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;수사 결과 통지서에는 “이준석 후보가 정치인이 가져야 할 여성 혐오에 대한 기준과 원칙에 대한 담론을 토론하고자 화두를 던진 것이란 취지로 주장했다”는 내용도 함께 담긴 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰은 “다만 이 사건들 중 서울청 사이버에서 수사해 21일 불송치 결정한 사건은 정보통신망법 위반과 아동복지법 위반 혐의가 추가로 포함돼 있어 국가수사본부에서 세부적으로 미흡한 점이 없는지 등을 검토 중이었으며, 아직 최종적인 검토가 완료되지 않은 사항”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰자문위 “보완수사 필요하나 수사권 남용 방지책도 마련해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/VVB5WI5NLJHPBDBJA6FLXA4HIM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/VVB5WI5NLJHPBDBJA6FLXA4HIM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 13:48:34 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/22TTOYZBVFJ4TM4EO6FKNXOH5E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 서초구 대검찰청 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 정책을 자문하는 전문가들이 ‘검찰 개혁’의 핵심 쟁점인 검찰의 보완수사권 유지 필요성 등에 공감하면서도 “엄격한 통제 방안을 함께 제시해 국민을 설득해야 한다”고 강조했다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대검찰청은 전날 검찰정책자문위원회 3차 회의를 열고 당정이 추진 중인 검찰 제도 개편에 대해 논의했다. 자문위원들은 경찰 수사의 미진하거나 잘못된 부분을 검사가 직접 바로잡는 검찰 보완수사와 경찰이 수사한 모든 사건을 공소청에 송치하는 ‘전건(全件) 송치’ 등 제도의 필요성에 대해 공감한 것으로 전해졌다. 내년 10월 초 검찰청 폐지가 예정된 상황에서 경찰 수사에 대한 검사의 통제가 여전히 필요하다고 본 것이다.&lt;br&gt;&lt;br&gt;다만 자문위원들은 검찰이 보완수사의 순기능만 강조할 것이 아니라 이를 뒷받침할 실증적 통계 등을 제시해야 한다고 지적했다. 실제 경찰이 송치한 사건 가운데 보완수사가 얼마나 어떻게 이뤄지고 있는지 구체적으로 입증해 국민을 설득해야 한다는 취지다.&lt;br&gt;&lt;br&gt;또한 검찰의 수사권 남용에 대한 우려를 감안해, 엄격한 검찰 내부나 외부 위원회 등을 통한 수사권 통제 방안을 마련해야 한다는 제안도 나왔다. 자문위원들은 “검찰에 대한 국민의 신뢰를 회복하는 것이 가장 절실하다”는 의견을 대검에 전달했다고 한다. &lt;br&gt;&lt;br&gt;대검 관계자는 “검찰 구성원과 학계, 법조 실무계, 시민사회의 의견을 경청해 자체적인 제도 개선 방안을 마련하고, 국민 권익 보호 관점에서 형사 사법 시스템이 설계될 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>산일전기, 고려대 공대에 발전기금 10억원 기부</title>
+      <link>https://www.chosun.com/national/people/2025/11/25/WHKXVVK7UFA4FGWTEZQWCJNDGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/25/WHKXVVK7UFA4FGWTEZQWCJNDGE/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 13:45:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WUGTH3WAZFDTROMEGNEXX2OOLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박동석(왼쪽) 산일전기 대표와 김동원(오른쪽) 고려대 총장이 지난 20일 고려대 본관 총장실에서 기부증서를 들고 있다./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 특수변압기 업체 산일전기(대표 박동석)로부터 공과대 발전기금 10억원을 기부받았다고 25일 밝혔다. 고려대 공과대는 이 기부금을 전력 분야 연구 장비 확충과 실험 시설 개선 등에 사용할 계획이다.&lt;br&gt;&lt;br&gt;지난 20일 고려대 본관 1층 총장실에서 열린 기부식에는 박동석(공학대학원 전기공학 07학번) 산일전기 박동석 대표, 김동원 고려대 총장, 장길수 고려대 공과대학장 등이 참석했다.&lt;br&gt;&lt;br&gt;이날 박 대표는 “전력 산업의 기술 발전을 위해서는 대학과 기업 간 긴밀한 협력이 필수적”이라며 “모교인 고려대가 글로벌 에너지 기술을 선도하는 대학으로 성장하기를 바라는 마음으로 기부를 결정했다”고 기부 소감을 밝혔다. 김 총장은 “이번 기부는 해당 분야 교육·연구 경쟁력 강화에 큰 힘이 될 것”이라며 “고려대는 기업과 함께 미래 에너지 산업을 선도할 인재를 양성하고 새로운 연구 성과를 창출할 수 있도록 적극 지원하겠다”고 화답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희, 작년 명품백 수사하자... “김혜경·김정숙은 왜 진척 없나”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/BLIHEZW3H5AR3AZXCR7CGIEX54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/BLIHEZW3H5AR3AZXCR7CGIEX54/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 12:31:53 +0000</pubDate>
+      <content:encoded>김건희 여사가 작년 5월 검찰이 자신에 대한 수사를 본격화하자 박성재 당시 법무장관에게 “김혜경·김정숙 여사 수사는 왜 잘 진행이 안 되냐”는 메시지를 보낸 것으로 25일 알려졌다. &lt;br&gt;&lt;br&gt;조은석 내란 특검팀은 김 여사와 박 전 장관이 주고받은 메시지를 확보해, 이런 상황이 윤석열 전 대통령의 비상계엄 선포 배경이 됐는지 살펴보고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZDKNRYHAZGEYTCMM4WCYRYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 9월 24일 서울 서초동 서울중앙지법에서 열린 김 여사의 특정범죄가중처벌법상 알선수재 및 자본시장법·정치자금법 위반 등 사건 첫 재판에 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검은 이날 해병대 특검과 전날(24일) 김건희 특검 사무실을 압수 수색해 김 여사의 휴대전화 자료 등을 확보했다. 김 여사는 작년 5월 15일 박 전 장관에게 “김혜경·김정숙 여사 수사는 왜 잘 진행이 안 되냐” “내 수사는 어떻게 되고 있나”는 장문의 텔레그램 메시지를 보냈다고 한다. 당시 검찰은 이재명 대통령 부인 김혜경 여사의 법인카드 의혹, 문재인 전 대통령 배우자 김정숙 여사의 ‘옷값 의혹’ 사건 등을 수사하고 있었다. 앞서 그해 5월 2일 이원석 당시 검찰총장은 김 여사의 ‘명품백 수수’ 의혹을 수사할 전담팀 구성을 지시했다. 법무부는 5월 13일 김 여사 수사 지휘 라인을 교체했는데, 김 여사가 법무부 인사 이틀 후 박 전 장관에게 메시지를 보낸 것이다. &lt;br&gt;&lt;br&gt;특검은 김 여사가 이원석 총장이 전담 수사팀 구성을 지시했는지, 김창진 당시 서울중앙지검 1차장검사가 필요하다고 보고했는지 등을 박 전 장관에게 묻는 메시지도 확보했다고 한다. 특검은 또 김 여사가 ‘명태균 공천 개입’ 의혹 관련 검찰 수사 보고서를 박 전 장관을 통해 받은 정황도 포착한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/VRJCTFK3TBEO5O5VASLBUUCELI.JPG?auth=b5742cbb8a7c3e5273480f85ce0274eb7e6ee2a5a69910eb534d16ca163e1c60&amp;smart=true&amp;width=3384&amp;height=1904" type="image/jpeg" height="1904" width="3384">
+        <media:description type="plain">김건희 여사가 지난 9월 24일 서울 서초동 서울중앙지법에서 열린 김 여사의 특정범죄가중처벌법상 알선수재 및 자본시장법·정치자금법 위반 등 사건 첫 재판에 출석하고 있다./뉴스1 ⓒ News1 사진공동취재단</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>경북 영덕서 50대 승강기 수리기사 끼임 사고로 숨져 </title>
+      <link>https://www.chosun.com/national/regional/2025/11/25/FVY5APLWZFHVLPUKFKAYOBQFZM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/25/FVY5APLWZFHVLPUKFKAYOBQFZM/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 12:16:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 오후 4시 40분쯤 경북 영덕군 축산면 한 건물에서 화물용 승강기를 수리하던 50대 남성 A씨가 승강기에 끼이는 사고가 발생했다. A씨는 소방 당국에 의해 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 승강기 유지보수업체 소속으로 혼자서 작업을 하다가 변을 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>헬스장 트레이너 2명, 선결제 6억 유도하고 잠적...경찰 수사</title>
+      <link>https://www.chosun.com/national/incident/2025/11/25/LZBG2QGZKBA5LENXULF7XD7P3E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/25/LZBG2QGZKBA5LENXULF7XD7P3E/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 11:39:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 헬스장에서 일하던 트레이너 2명이 회원들을 상대로 수억 원대 선결제를 유도한 뒤 잠적해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;부산 사하경찰서는 30대 남성 헬스트레이너 A씨 등 2명을 사기 혐의로 수사 중이라고 25일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨 등은 최근 5개월간 회원 40여 명을 상대로 강습 실적 미달로 도움이 필요하다며 선결제를 요구했다. 이들은 일단 실적을 채우고 언제든지 환불해 줄 수 있다며 수백만 원에서 수천만 원의 강습료 선결제를 요구했다.&lt;br&gt;&lt;br&gt;현재까지 파악된 피해 금액은 6억원 상당이라고 경찰은 전했다.&lt;br&gt;&lt;br&gt;A씨 등은 최근 회원들에게 헬스장을 그만둔다고 메시지를 보낸 뒤 휴대전화를 해지하고 잠적한 상태다.&lt;br&gt;&lt;br&gt;이들은 또 한 헬스트레이너에게 헬스장 취업을 미끼로 100만원 상당을 가로챈 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “헬스장 측도 뒤늦게 피해 사실을 알게 된 것으로 보이며, 피의자들에 대해 고소장을 제출한 상태다. 현재 헬스장 측이 환불 여부를 검토 중인 것으로 안다”면서 “피의자들이 전화번호를 바꾸고 잠적 중이다. 통신 수사 등을 통해 이들의 행적을 추적 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>도이치 1차 주포 “이종호, 金여사가 사건 다 챙겨본다고 해... 각별한 척했다”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/25/JSZG67EGP5C47G4VGTIT6PWWG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/JSZG67EGP5C47G4VGTIT6PWWG4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 10:36:06 +0000</pubDate>
+      <content:encoded>이종호 전 블랙펄인베스트 대표 재판에 증인으로 출석한 도이치모터스 주가 조작 ‘1차 주포’ 이정필씨가 “이 전 대표가 ‘김건희 여사가 사건을 챙겨보고 있으니 걱정 말라’고 했다”고 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3LZ6A3WM25H37FPRL3AUS2QEQA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 서울중앙지법 형사23부(재판장 오재용)는 이 전 대표의 변호사법 위반 혐의 재판을 열었다. 이 전 대표는 도이치모터스 주가 조작 재판이 진행 중이던 2022년 5월~2023년 2월 사이 이씨에게 “윤석열 전 대통령 부부에게 말해 집행유예가 나오도록 해주겠다”고 회유하는 등 모두 8390만원을 받아 챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이씨는 이 전 대표와 공범으로 재판받으며 자주 만나게 됐고, 이후 술자리에서 이 전 대표가 정계에 있는 사람들과 찍은 사진을 보여줬다고 했다. 이 전 대표가 이씨에게 ‘김건희 여사가 사건을 다 챙겨보고 있다. 걱정 말라’는 취지로 말했고, 사진 같은 것들을 휴대폰에서 보여줬기 때문에 당시에는 (이 전 대표의) 말을 믿었다는 것이다. 이씨는 이 전 대표가 김 여사와 “엄청 각별한 사이인 것처럼 했다”고도 증언했다.&lt;br&gt;&lt;br&gt;이씨는 2022년 5월 하순 이 전 대표가 ‘우리 재판에 도움 되는 사람으로부터 그림을 사야 한다’고 말하며 돈을 요구했다고 증언하기도 했다. 또 이 전 대표가 “재판에 관해 ‘걱정하지 말라, 집행유예 받게 해주겠다’는 취지로 얘기했다”고 말했다.&lt;br&gt;&lt;br&gt;이날 재판에선 이씨의 수행기사인 박모씨에 대한 증인신문도 진행됐다. 박씨는 이 전 대표가 이씨에게 ‘형이 이 정도까지 움직였으면 무조건 집행유예야. 형만 믿고 따라오면 돼’라고 말하는 것을 들은 적이 있다고 진술했다. 박씨는 이씨 지시로 이 전 대표를 수행한 적이 종종 있었고, 2022년 8월쯤 이 전 대표가 배우 박성웅씨나 수도권 지방법원의 부장판사와 술자리를 가지는 것을 목격했다고 진술했다.&lt;br&gt;&lt;br&gt;재판부는 내달 16일 공판에서 증거 조사 등을 진행하고 변동 사항이 없을 경우 재판을 마무리하겠다고 밝혔다. 다만 이 전 대표가 추가 기소될 경우 일정이 달라질 수 있다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통영 해상서 외국인 선원 1명 실종...해경 수색</title>
+      <link>https://www.chosun.com/national/incident/2025/11/25/LCTLMZGRSNFVNEGOOF4ER7NDWU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/25/LCTLMZGRSNFVNEGOOF4ER7NDWU/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 25 Nov 2025 10:24:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UGDC4QKYLNAGDDUEBP4LBX3CSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 실종자를 찾고 있다. /통영해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;굴 채취 작업을 마치고 입항하던 바지선에서 외국인 선원이 실종돼 해경이 수색에 나섰다.&lt;br&gt;&lt;br&gt;25일 경남 통영해양경찰서에 따르면, 이날 오전 경남 거제시 인근 해상에서 굴 채취 작업을 마치고 통영으로 복귀하던 동티모르 국적 30대 남성 선원 A씨가 실종됐다.&lt;br&gt;&lt;br&gt;당시 한국인 선장은 4.95t급 양식장 관리선을 타고, A씨와 인도네시아 국적 동료 20대 남성 B씨가 탑승한 바지선을 예인해 오전 9시 12분쯤 통영시 여차항에 도착했다.&lt;br&gt;&lt;br&gt;선장은 입항 직후 바지선에 있어야 할 A씨가 보이지 않자, 해경에 신고했다. 가로 5m, 세로 20m 크기의 바지선에는 A·B씨와 채취한 굴만 실려져 있었다고 한다. &lt;br&gt;&lt;br&gt;이들은 이날 오전 4시 20분부터 7시 50분까지 거제 해상에서 굴 채취 작업을 했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;해경은 현재 함정 3척을 투입해 야간 수색 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;해경 관계자는 “통영 해간도에서 A씨가 있었다는 B씨의 진술을 토대로 인근 해역을 집중 수색하고 있다”면서 “바다 쪽을 바라보고 있는 섬 CCTV 등을 통해 정확한 사고 경위 등을 조사 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 성남시, 대장동 민간 업자 재산 목록 확보… 범죄 수익 돌려받기 착수</title>
       <link>https://www.chosun.com/national/court_law/2025/11/25/FCFMSY5Y5RFPPPA2SW6XWW6W4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/FCFMSY5Y5RFPPPA2SW6XWW6W4A/</guid>
@@ -871,96 +955,6 @@
         <media:description type="plain">제주 우도에서 승합차 돌진사고로 2명이 심정지에 빠지고, 8명이 부상이 입었다.(독자 제공. 재판매 및 DB 금지)/뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>‘시진핑 현수막’ 찢은 尹 지지단체 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/DF5ZKL6HXFEYLHFGCDLZ7RCUVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/DF5ZKL6HXFEYLHFGCDLZ7RCUVY/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 08:06:49 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7V6TOJQ5D5MUFGXP6ME3YQJXL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 3일 서울 종로구에서 열린 자유대학 정부 규탄 집회에서 참가자들이 피켓을 들고  구호를 외치고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한중국대사관 인근 집회에서 시진핑 중국 국가주석 등의 얼굴이 인쇄된 현수막을 찢은 남성 4명이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 지난 14일 외국 사절을 모욕한 혐의로 20대 3명, 40대 1명 등 4명을 서울중앙지검에 불구속 송치했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령 지지단체 ‘자유대학’ 관계자인 이들은 지난 7월 22일 오후 8시쯤 서울 중구 주한중국대사관 인근에서 ‘부정선거 규탄·감시 집회’를 열고 시 주석과 다이빙 주한중국대사 등의 얼굴이 인쇄된 현수막을 찢은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;형법 제108조는 한국에 파견된 외국사절에 대해 모욕을 가하거나 명예를 훼손한 자를 3년 이하 징역 또는 금고에 처하도록 규정하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세]  11월 25일 화요일 (음력 10월 6일 戊戌)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/WBGRBYZWL5HQ5HB7T5NBWUCQDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/WBGRBYZWL5HQ5HB7T5NBWUCQDE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>‘명랑운동회 진행자’ 변웅전 전 의원 별세</title>
-      <link>https://www.chosun.com/national/people/2025/11/24/WBZ7SSRKBZHAXLM62IFURXMLWA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/24/WBZ7SSRKBZHAXLM62IFURXMLWA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 07:37:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MSKLJQYUUZERVJQSX4N4WMB6JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;환영사하는 신임 변웅전 자유선진당 대표&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘MBC 명랑운동회’ 등을 진행했던 아나운서 출신 정치인 변웅전 전 의원이 별세했다. &lt;br&gt;&lt;br&gt;24일 유족 등에 따르면 변 전 의원은 지난 23일 밤 서울 광진구 자양동 혜민병원에서 세상을 떠났다. 향년 85세다.&lt;br&gt;&lt;br&gt;변 전 의원은 충남 서산에서 태어났으며, 서산농고를 졸업하고 중앙대 심리학과 재학 중 1963년 중앙방송국(KBS) 아나운서가 됐다.&lt;br&gt;&lt;br&gt;변 전 의원은 1969년 MBC로 옮겨 ‘유쾌한 청백전’, ‘묘기대행진’, ‘명랑운동회’ 등을 진행하며 큰 인기를 얻었다. &lt;br&gt;&lt;br&gt;고인은 1995년 자유민주연합(자민련) 창당준비위원회 대변인을 맡으며 정계에 입문했다. 1996년 15대 총선을 시작으로 16, 18대 서산·태안 지역구에서 3선 의원이 됐다. 18대 국회에선 보건복지가족위원장을 맡았다. 2011년 자유선진당 대표를 맡은 것이 공식 활동의 마지막이었다.&lt;br&gt;&lt;br&gt;유족은 부인 최명숙씨와 2남(변지명·변지석) 등이 있다. 빈소는 서울아산병원 장례식장 35호실이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MSKLJQYUUZERVJQSX4N4WMB6JE.jpg?auth=79d7a7566b57006696c86fc658ebeeb3dbcf92d7373aa3e4dcd376562e608d29&amp;smart=true&amp;width=340&amp;height=255" type="image/jpeg" height="255" width="340">
-        <media:description type="plain">환영사하는 신임 변웅전 자유선진당 대표</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>특검, ‘도이치 주가 조작’ 공범 25일 재소환...구속 후 첫 조사 불출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/24/7SDOBWWIPFGOPG2QPGRSQDT244/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/7SDOBWWIPFGOPG2QPGRSQDT244/</guid>
-      <dc:creator>이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 06:06:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TMZLFGJRDINBUHA3WIYRYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 광화문 KT빌딩에 마련된 김건희 특검팀 현판 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사하는 민중기 특별검사팀이 25일 차명 계좌를 이용해 ‘도이치모터스 주가 조작’에 가담한 혐의를 받는 김 여사 지인 이모씨를 재소환한다. &lt;br&gt;&lt;br&gt;김형근 특검보는 24일 정례 브리핑에서 “금일 오후 특검에 소환 통보됐던 피의자 이모씨는 건강상 이유 등을 들어 불출석 사유서를 제출하고 출석에 불응했다”며 “특검은 내일 오전 다시 출석할 것을 통보했다”고 밝혔다. 특검은 25일 오후 2시에 이씨를 재소환할 계획이다.&lt;br&gt;&lt;br&gt;이씨는 지난달 특검 압수 수색 도중 도피해 34일간 도피를 이어오다 지난 20일 충북 충주시에 있는 한 휴게소에서 체포됐다. 특검은 이씨를 서울 종로구 광화문 KT웨스트빌딩에 있는 조사실로 압송한 후 지난 21일 구속영장을 청구했다. 이씨는 영장 심사를 포기했고, 22일 구속영장이 발부돼 구속됐다.&lt;br&gt;&lt;br&gt;특검은 이씨가 차명 계좌를 이용해 도이치모터스 주가 조작에 가담했다고 의심 중이다. 자본시장법 위반 혐의를 받는 이씨는 도이치모터스 주가조작 1차 시기인 2009년 12월~2010년 10월까지 김 여사의 한 증권사 계좌 관리를 맡은 것으로 알려졌다. 해당 사건을 수사한 검찰은 이씨에게 혐의가 없다고 보고 불기소했으나, 특검은 관련 사건을 검찰에서 넘겨받아 이씨를 입건했다.&lt;br&gt;&lt;br&gt;한편 특검은 이번 주 중 ‘양평군 공무원 강압 수사’ 관련 감찰 결과를 내놓을 방침이다. 양평 공무원 A씨는 지난달 2일 특검에서 ‘양평 공흥지구 개발 특혜’ 의혹과 관련해 피의자 신분으로 특검 조사를 받은 뒤 같은 달 10일 숨진 채 발견됐다. A씨가 특검 수사관들이 거짓 진술을 강요했다는 등의 메모를 남기고 스스로 목숨을 끊은 것이 알려지며 특검이 강압 수사를 벌인 게 아니냐는 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹 순직 해병 수사 외압’ 재판, 金여사 재판부로... 부부 모두 심리</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/24/XGONVL76EZC7XPENFHZFJF5KAU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/24/XGONVL76EZC7XPENFHZFJF5KAU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 07:31:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FJJKF2MBDCWGQWZNP4VJFNB44E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사27부 우인성 재판장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘순직 해병 수사 외압’ 사건으로 기소된 윤석열 전 대통령 재판을 서울중앙지법 형사27부(재판장 우인성)가 맡는 것으로 24일 확인됐다. 형사27부는 지난 9월부터 민중기 특별검사팀이 기소한 김건희 여사의 ‘도이치모터스 주가 조작’ 등 사건 재판을 심리하고 있다. 부부가 같은 재판부에서 재판을 받게 된 것이다.&lt;br&gt;&lt;br&gt;해병 특검은 지난 21일 고(故) 채수근 상병에 대한 해병대 수사단의 수사 결과를 변경하도록 외압을 행사한 혐의(직권남용) 등으로 윤 전 대통령, 이종섭 전 국방부 장관 등 12명을 재판에 넘겼다. 지난 7월 2일 수사를 개시한지 넉 달 반 만에 기소한 것이다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2023년 7월 19일 경북 예천군 수해 현장을 수색하던 채 상병이 숨진 채 발견된 이후, “임성근 전 해병대 1사단장 등 8명에게 업무상 과실치사 혐의를 적용해 경북경찰청에 이첩하겠다”는 내용의 해병대 수사단의 초동 수사 결과를 그해 7월 31일 보고받았다. 이후 윤 전 대통령은 “이런 일로 사단장을 처벌하면 대한민국에서 누가 사단장을 할 수 있겠느냐”며 격노하며 외압을 행사했다는 게 특검 수사 결과다.&lt;br&gt;&lt;br&gt;이 사건으로 재판에 넘겨진 사람은 모두 12명이다. 윤 전 대통령, 이 전 장관 외에 조태용 전 국가안보실장, 김계환 전 해병대 사령관, 사건 당시 국방부의 신범철(차관)·전하규(대변인)·허태근(정책실장)·유재은(법무관리관)·박진희(장관 군사보좌관)·김동혁(검찰단장)·유균혜(기획관리관)·이모(조직총괄담당관)씨다.&lt;br&gt;&lt;br&gt;한편 형사27부는 내달 중 김 여사 사건의 심리를 마친 뒤 결심 공판을 진행할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>골프 내기 이기려 몰래 ‘마약 음료’ 먹인 일당 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/TKAMJNJJXNGX3KBP4JGMN7VUPU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/TKAMJNJJXNGX3KBP4JGMN7VUPU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 06:57:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSDKM3CGE3TINDEMUZWGOJRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 건 스크린골프를 이기려 상대에게 필로폰 등 마약을 섞은 음료를 마시게 한 일당이 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울동부지법 형사5단독 양진호 판사는 지난 11일 마약류 관리에 관한 법률 위반과 상해 등 혐의로 기소된 50대 남성 A씨와 60대 남성 B씨에게 징역 1년 6개월을 선고하고 40시간의 약물중독 재활교육 프로그램 이수를 명령한 것으로 24일 알려졌다.&lt;br&gt;&lt;br&gt;이들은 수년 전 실내 스크린골프장에서 알게 된 50대 피해자 C씨에게 필로폰과 수면제 성분의 마약류 ‘로라제팜’을 몰래 먹여 돈을 뜯어내려 한 혐의를 받는다. 지난 4월 이들은 매 홀당 경기 결과에 따라 패자가 승자에게 부족한 타수에 해당하는 돈을 지급하는 방식으로 내기를 했다.&lt;br&gt;&lt;br&gt;하지만 내기 결과에 따라 돈을 배분하는 과정에서 다툼이 생기자, C씨에게 마약을 섞은 음료를 몰래 먹여 내기에서 이기기로 공모했다. 당시 A씨는 B씨에게 필로폰과 로라제팜을 건네받고 이를 꿀물과 섞어 C씨에게 마시도록 했다. 다만 C씨는 어지럼증과 환각 등 약물 중독 증상을 겪으면서도 내기에서 이긴 것으로 파악됐다.&lt;br&gt;&lt;br&gt;재판 과정에서 B씨 측은 A씨에게 마약을 제공한 사실을 인정하면서도 “필로폰을 피해자에게 사용할 것을 공모하지 않았고, A씨가 필로폰을 피해자에게 사용할 것도 몰랐다”고 주장했지만 이는 받아들여지지 않았다.&lt;br&gt;&lt;br&gt;재판부는 “B씨가 대가를 받지 않고 A씨에게 필로폰을 제공했고 범행 후에도 돈을 따지 못하자 A씨가 그날 잃은 돈의 절반 금액을 B씨에게 지급한 점 등을 고려하면 공모 관계가 인정된다”며 “B씨는 필로폰 투약 전과도 있다”고 지적했다. 그러면서도 “이들이 피해자와 합의해 피해자가 처벌을 원치 않는 점 등을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>불법 대부업으로 국내 외국인 근로자 등친 父子 일당</title>
-      <link>https://www.chosun.com/national/incident/2025/11/24/GLSE4ISCDJBEFLAM3VIHCNXCFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/24/GLSE4ISCDJBEFLAM3VIHCNXCFM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 06:47:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ACNNPR3DIJFNXLNW2LRWYEMWHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;A씨 일당이 불법 대출을 한 외국인 근로자가 대부 관련 계약서를 들고 있다. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 물정을 잘 알지 못하는 외국인 근로자들을 상대로 법정 이율보다 7배 높은 고리로 돈을 빌려주고, 이를 갚지 못하면 협박한 부자(父子) 등 일당 6명이 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;부산경찰청 반부패·경제범죄수사대는 대부업법과 채권추심법 등 위반 혐의로 대부업체 대표 30대 남성 A씨 등 3명을 구속 송치하고, 나머지 일당 3명을 불구속 송치했다고 24일 밝혔다. 또 외국으로 도주한 60대 남성 B씨에 대해 인터폴 적색수배를 내리고 행방을 쫓고 있다. &lt;br&gt;&lt;br&gt;A씨 등은 2022년 2월부터 올 7월까지 불법 대부업체를 운영하면서 외국인 9120명을 상대로 162억원을 빌려주고 최고 연 154%(법정 이자 연 최대 20%)에 달하는 이자를 적용해 55억원 상당의 부당이득을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨와 B씨는 부자관계로 드러났다. A씨는 국내에서 송금해 주고 불법추심 등 국내의 총책 역할을, B씨는 동남아 10여 개 국가에서 어학원을 차려 돈을 빌릴 외국인을 모집하는 역할을 각각 맡았다고 한다. 특히 B씨는 이 같은 범행을 저지른 뒤 수사받던 중 해외에 잠적한 상태에서 또 범행을 저질렀다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;피해자들은 대부분 태국, 캄보디아, 필리핀 등 동남아 지역에서 온 20~50대 남성이었다. 비전문 취업(E-9) 비자로 국내에 입국한 이들은 본국에 있는 가족의 병원비 등 급전이 필요해 돈을 빌렸던 것으로 조사됐다. 1인당 적게는 100만원, 많게는 500만원까지 빌렸다고 한다.&lt;br&gt;&lt;br&gt;A씨 일당은 국내 체류 중인 외국인 근로자들이 국내 금융기관을 이용해 대출받는 것에 익숙하지 않다는 점을 악용해 범행을 저지른 것으로 조사됐다. 특히 B씨는 해외에서 한국 어학원을 운영해 국내 취직을 원하는 외국인들의 네트워크를 구축하고, 현지인 브로커와 소셜미디어(SNS) 광고를 통해 피해자들을 모집했다.&lt;br&gt;&lt;br&gt;이들은 피해자들이 약정된 원리금을 제때 내지 않으면 “급여 등을 받을 수 없게 하겠다”라거나 “출입국 관리사무소에 신고하겠다” 등의 내용이 담긴 협박 우편물을 보냈다. 또 원리금 회수를 위해 외국인 채무자들이 휴대전화나 노트북 등 전자기기 등을 구매한 것처럼 꾸며 허위 매매 계약서를 만들고, 이 계약서로 법원에 지급 명령을 받아내기도 했다. &lt;br&gt;&lt;br&gt;법원의 지급 명령은 A씨 일당이 피해자들의 급여나 보험금 등을 압류할 수 있는 근거가 됐다고 한다. 이들은 이 같은 수법으로 1500차례에 걸처 50억원 이상의 지급 명령을 신청했다고 경찰은 밝혔다. 경찰 관계자는 “지급 명령서가 송달되고 이의 제기 없이 2주가 지나면 지급 명령이 확정된다. 피해자들은 이 같은 법체계를 잘 알지 못해 제때 대응하지 못했다”고 했다.&lt;br&gt;&lt;br&gt;경찰은 지난 4월 ‘국내 체류 외국인 근로자에게 불법 대부업을 한다’는 첩보를 입수해 수사에 착수했다. 경찰은 이들의 범죄 수익금 약 21억원을 기소 전 추징보전했고, 관할 세무서에 대부업으로 얻은 수익을 통보해 세금을 추징하도록 조치했다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “우리나라 이미지를 실추시키는 외국인 대상으로 한 불법 대부업자들에게 경종을 울리겠다”며 “해외로 도피한 B씨의 신병 확보를 위해 계속 수사를 이어 나갈 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올겨울 덜 춥다...한 차례씩 ‘기습한파’ 찾아와</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/24/25H3QZUMOBEOROIB3FKTZVUQ5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/24/25H3QZUMOBEOROIB3FKTZVUQ5U/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 06:35:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTKZBXGI3GKOJUGE3WKOJYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;출근길 시민들. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올겨울은 예년보다 덜 추울 것으로 예상됐다. 다만 ‘기습한파’가 한 차례씩 찾아와 기온이 널뛰기를 할 것으로 보인다.&lt;br&gt;&lt;br&gt;기상청은 24일 발표한 ‘3개월 전망’에서 다음달부터 내년 2월까지 각 월마다 평균기온이 평년보다 비슷하거나 높을 확률이 도합 80%라고 밝혔다. 우리나라를 비롯해 영국·미국 등 세계 11국 기상청 및 관계 기관이 제공하는 기후예측모델들도 올겨울 기온이 높을 확률이 53~59%라고 예측했다.&lt;br&gt;&lt;br&gt;겨울치고 대체로 포근할 것이란 예상이 나온 것은 겨울철 우리나라 기온에 영향을 주는 스칸디나비아 주변 해수면 온도가 가을부터 평년보다 높은 수준을 유지하고 있기 때문이다. 이렇게 되면 우리나라 부근에 고기압성 순환이 강화되는데, 고기압 영향권 안에 놓이는 시간이 길어질수록 찬 바람 유입이 적어지고, 기온은 올라가게 된다. 또 티베트의 눈 덮임이 예년보다 적어 더 넓은 지표 면적이 햇볕에 달궈지는 것도 이런 고기압성 순환을 강화시키는 요인이 될 것으로 보인다.&lt;br&gt;&lt;br&gt;다만 포근한 겨울을 보내다가 갑자기 기습한파가 찾아오는 등 기온 변동성은 클 것으로 보인다. 12월부터 내년 1월까지 찬 대륙고기압이 우리나라로 확장할 때가 있기 때문이다. 현재 렌츠·카라해에 있는 북극 해빙이 평년보다 매우 적은 상황인데, 해빙 면적이 적으면 우리나라 주변에 한 차례씩 저기압이 발달하면서 찬 북풍이 내려올 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RJCI6RORKBFBPOCSTKFNROGSWI.JPG?auth=9f52781afb6309de2fb44ccc2dfd746915715781908979fb5189ca2a2d605d56&amp;smart=true&amp;width=2774&amp;height=1560" type="image/jpeg" height="1560" width="2774">
-        <media:description type="plain">출근길 시민들.(뉴스1 DB)</media:description>
-        <media:credit role="author" scheme="urn:ebu">김진환</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>경찰 “통합대응단 출범 한 달 만에 피싱 신고 38%↓… 피해액도 감소세로 전환”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/24/GT7ENR3ACFDKBNSG4BXKII5ALU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/24/GT7ENR3ACFDKBNSG4BXKII5ALU/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 04:50:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZWIMBXMY2TAZJYGQ3GMMRRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 국가수사본부 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청이 지난달 범정부 ‘전기통신금융사기(보이스피싱) 통합대응단’ 출범 이후 피싱 관련 신고와 피해가 눈에 띄게 줄었다고 밝혔다. 다만 올해 전체 보이스피싱 피해액은 이미 1조원을 넘어선 데다 로맨스 스캠 등 신종 범죄 피해도 커, 중장기적 대응이 필요하다고 밝혔다.&lt;br&gt;&lt;br&gt;24일 박성주 경찰청 국가수사본부장은 이날 정례 기자간담회에서 “9월 4만3000여 건이던 피싱 범죄 신고 건수(112 신고 및 통합대응단 상담 포함)는 한 달 뒤인 10월 2만6000여 건으로 약 38% 감소한 것으로 집계됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;올해 7월과 10월을 비교하면 피해 감소 폭은 더 크다. 실제 금전 피해가 발생한 피싱 범죄 건수는 7월 5500여 건에서 10월 3300여 건으로 약 40% 줄었다. &lt;br&gt;&lt;br&gt;피해액 규모도 1월 1973억원에서 상승세를 이어가다 7월 2400억원으로 정점을 찍은 뒤, 10월에는 1784억원 수준으로 내려가며 감소세로 돌아섰다. 피해액 기준으로는 중국발(發) 피싱이 25%, 동남아시아발 신종 피싱은 32% 줄어든 것으로 분석됐다.&lt;br&gt;&lt;br&gt;이 같은 변화는 지난 9월 28일 서울 송파구 KT 사옥에 범정부 합동 보이스피싱 통합 대응단이 설치되고, 캄보디아 범죄 단지(일명 ‘웬치’)에서 활동하던 피싱 사기 피의자들에 대한 단체 송환 등 정부가 동원 가능한 수단을 총동원해 대응에 나선 영향으로 풀이된다.&lt;br&gt;&lt;br&gt;박 본부장은 “통합 대응단 출범 이후 365일 24시간 신고 접수·상담 체계를 갖추고, 상담 인력을 확충해 응대율도 98.2%까지 끌어올렸다”며 “피해 의심 전화번호 차단 등 추가적인 조치와 병행해 더 많은 피해를 사전에 막을 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;그럼에도 올해 전체 보이스피싱 피해 규모는 여전히 막대하다. 경찰에 따르면 올해 처음으로 보이스피싱 피해액은 1조원을 넘어섰고, 로맨스 스캠 등 신종 다중 사기 범죄 피해액도 7000억원에 이르는 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>여인형 “軍은 전·평시 계엄 훈련 한 적 없다... 무릎 꿇고 尹에게 설명” 법정 증언</title>
