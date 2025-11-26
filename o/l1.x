@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 내란 특검, 한덕수 전 국무총리에 징역 15년 구형 "대한민국에 다시는 불행한 역사 반복되지 않도록 해야"</title>
+			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/213500.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
+			<pubDate>Wed, 26 Nov 2025 05:38:29 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213500</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213500</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213500.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] '6000만 원 수수 혐의' 노웅래 전 의원, 1심서 무죄… "위법수집증거 배제"</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213496.jpg" alt="1231.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;불법 정치자금 6000만 원을 받은 혐의로 재판에 넘겨진 더불어민주당 노웅래 전 의원이 11월 26일 서울중앙지법에서 열린 1심 선고에 출석하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수천만 원대 뇌물과 불법 정치자금을 수수한 혐의로 재판에 넘겨진 노웅래 전 더불어민주당 의원이 검찰의 위법수집증거 제시를 이유로 1심에서 무죄를 선고받았다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사4단독&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1264"&gt;박강균&amp;nbsp;&lt;/span&gt;부장판사는 11월 26일 오전 정치자금법 위반 혐의를 받는 노 전 의원에게 무죄를 선고했다(&lt;b&gt;2023고단107&lt;/b&gt;). 법원은 공소사실과 관련돼 제출된 증거들이 형사소송법상 보호되는 피고인의 여러 가지 권리를 침해한다고 보아, 노 전 의원에게 돈을 건네준 혐의를 받는 사업가 박 모 씨의 아내 A 씨의 휴대전화에서 확보된 막대한 양의 정보인 '전자 정보'의 증거 능력을 인정하지 않았다.&lt;br /&gt;&lt;br /&gt;'전자 정보'는 이 사건이 개시된 결정적인 단서였다. 박 부장판사는 "'전자 정보'는 위법하게 수집된 것에 대한 2차 증거로, 수사 과정의 사정을 모두 고려하더라도 전자 정보에 대한 중대한 절차 위반의 인과관계가 인정된다"고 판단했다. 그러면서 "위법수집증거에 따라 수집된 박 모 씨와 A 씨의 진술 증거 등 2차 증거도 배제한다"고 설명했다.&lt;br /&gt;&lt;br /&gt;박 부장판사는 '전자 정보'에 대해 △해당 전자 정보는 다른 재판에서 다루는 전자 정보와 혼재돼 있었는데, 별도의 압수수색 영장의 발부 없이 수사기관이 전자 정보를 취득했고 △이후 A 씨로부터 임의제출 확인서를 제출받기는 했으나, 압수 대상이 되는 전자 정보의 범위가 명확히 특정되지 않았으며 △A 씨 자신도 형사처벌 대상이 될 수 있음을 알지 못한 상태에서 확인서를 제출했다고 말했다.&lt;br /&gt;&lt;br /&gt;판결 직후 노 전 의원은 "오늘의 판결은 정치 검찰에 대한 사법 정의의 승리였다"는 내용의 성명서를 냈다. 성명에서 노 전의원은 "윤석열 정부의 정치 검찰이 야당 정치인을 탄압하기 위해 기획한 노골적인 표적, 조작 수사 사건에서 무죄 판결을 받았다"며 "이제 정치 검찰은 바뀌어야 한다"고 주장했다. &lt;br /&gt;&lt;br /&gt;검찰은 결심 공판에서 노 전 의원에게 징역 4년과 벌금 2억 원, 추징금 5000만 원을 구형했다. &lt;br /&gt;&lt;br /&gt;노 전 의원은 2020년 2월에서 12월 물류센터 인허가 알선, 발전소 납품 사업·태양광 발전 사업 편의 제공 등의 명목으로 박 모 씨에게서 5차례에 걸쳐 총 6000만 원을 받은 혐의로 2023년 3월 불구속기소 됐다. 검찰은 이 가운데 일부는 총선 전 선거자금, 당 전당대회 선거비용 명목으로 건네진 것으로 판단했다.&lt;br /&gt;</description>
 			<pubDate>Wed, 26 Nov 2025 04:23:03 -0000</pubDate>
@@ -231,16 +241,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213456</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213456.jpg</media:thumbnail>
 			<dc:creator>법률신문 </dc:creator>
-		</item>
-		<item>
-			<title>[판결] 없는 마약 있다고 믿은 배달책 처벌</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213444.jpg" alt="345363.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=gemini 생성 이미지》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;마약 판매상의 지시를 받고 국제우편물을 '마약이 든 물건'으로 인식해 수거했다면, 그 상자에 실제로 마약이 들어 있지 않더라도 마약류 불법거래 방지에 관한 특례법(마약거래방지법) 위반으로 처벌할 수 있다는 대법원의 첫 판단이 나왔다.&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;&lt;p&gt;대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 10월 30일 마약거래방지법 등 혐의로 기소된 A 씨의 사건 상고심(&lt;b&gt;2025도9446&lt;/b&gt;)에서 피고인의 상고를 기각하고 유죄로 판단한 원심을 확정했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A는 2024년 7월 텔레그램을 통해 알게 된 마약 판매상의 지시를 받아 이른바 '드라퍼(배달책)' 역할로 국제우편물 상자를 수거했다. 판매상은 해외에서 마약을 들여온 뒤 장난감 포장 등에 은닉해 국내로 배송했고, A 씨는 판매상이 지정한 장소에서 상자를 찾아 이동하는 역할을 맡았다.      &lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이 상자는 인천공항세관에서 이미 장난감 내부에 숨겨진 마약이 적발·압수되고 난 뒤 남은 빈 상자였지만, A 씨는 내부에 마약이 있을 것으로 믿고 움직였다. A 씨는 "국제우편물 상자는 약물 등 마약으로 오인될 외관이 아니므로 마약류 불법거래 방지에 관한 특례법 제9조 제2항의 ‘약물 및 그 밖의 물품’에 해당하지 않는다"고 주장했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[쟁점]&lt;/b&gt;&lt;br /&gt;마약거래방지법 제9조 제2항의 '약물 또는 그 밖의 물품'에 국제우편물 상자 등 약물로 보이지 않는 물품도 포함되는지&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심은 징역 3년을 선고했다. 1심은 "마약거래방지법은 마약류와 관련된 불법행위를 조장하는 행위 등을 방지하는 등에 입법목적이 있다"며 "법이 규정한 ‘약물이나 그 밖의 물품’은 물품의 외관이 마약으로 오인될 수 있는 것으로 내용이나 성질을 제한하지 않는다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "A 씨는 우편물 상자 안에 마약류가 들어있다고 인식하면서 우편물 상자를 수거했다"며 "단지 우편물 상자만을 그 안의 내용물과 분리해 우편물 상자의 외관이 알약 등 마약으로 오인될 수 없다는 사정으로 위 법률이 적용될 수 없다고 볼 것은 아니"라고 판시했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심 판단도 같았다. 항소심은 "피고인이 국제우편물 상자에 들어있던 장난감 안에 마약류가 들어있다고 인식하고 이를 소지한 이상 마약거래방지법 제9조 제2항 위반죄에 해당한다"고 밝혔다.  &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단] &lt;/b&gt;&lt;br /&gt;대법원 상고를 기각했다. 대법원은 "마약거래방지법은 국제적으로 협력해 마약류와 관련된 불법행위를 조장하는 행위 등을 방지함으로써 마약류범죄의 진압과 예방을 도모함을 목적으로 한다"며 "이 사건 조항은 그러한 마약거래방지법의 입법 취지 및 목적 등을 고려해 행위자가 마약류범죄를 범할 목적으로 실제로는 마약류가 아닌 약물이나 그 밖의 물품을 마약류로 인식하고 양도·양수 또는 소지하는 경우를 처벌하고 있다"고 설명했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "이 사건 조항은 그 문언상 마약류 인식의 대상으로 ‘약물이나 그 밖의 물품’이라고 규정하고 있을 뿐, 그 물품의 형상, 성질 등을 제한하고 있지 않으므로, 어떠한 물품이라도 마약류로 인식됐다면 이 사건 조항에 해당하는 것으로 볼 수 있다"며 "은밀하게 이루어지는 마약류범죄의 특성상 일반적으로 마약류는 상자 등의 내부에 든 상태로 유통이 이루어지는 경우가 많은데, 이와 같은 경우에도 마약류 자체만 유통되는 경우와 비교해 그 행위의 위험성 및 처벌의 필요성 등에서 아무런 차이가 없다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;그러면서 "따라서 내부에 마약류가 존재한다고 인식하고 이를 양도·양수했으나 실제로는 상자 내부에 마약류가 존재하지 않는 경우에도 이 사건 조항을 위반한 행위로 봄이 타당하다"며 "공소사실을 유죄로 판단한 원심은 정당하고, 거기에 마약거래방지법 제9조 제2항 위반죄의 성립에 관한 법리를 오해한 잘못이 없다"고 판시했다.&lt;/p&gt;</description>
-			<pubDate>Tue, 25 Nov 2025 15:28:35 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213444</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213444</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213444.jpg</media:thumbnail>
-			<dc:creator>안재명 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
