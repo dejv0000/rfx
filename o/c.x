@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>변협, ‘감치 소동’ 김용현 변호인단 징계 조사 착수</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/26/UKUIAGH6EBGHZHLPP7E6RBD7KE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/UKUIAGH6EBGHZHLPP7E6RBD7KE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Nov 2025 04:51:17 +0000</pubDate>
+      <content:encoded>대한변호사협회가 최근 법정 소란으로 감치 선고를 받았던 김용현 전 국방부 장관 변호인단 소속 이하상 권우현 변호사에 대한 징계 조사에 착수했다고 26일 밝혔다. 전날 서울중앙지법이 법원 심리 방해, 재판장 인신공격 등을 이유로 두 변호사의 징계를 요청한 데 따른 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAVVN4NWWVOL7MGOATCNZRFHOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인단 소속 이하상(왼쪽) 변호사가 지난 1월 서울 서초구 한 공유오피스에서 기자 간담회를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두 변호사는 지난 19일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리 재판에서 소란을 피워 퇴정당했고, 이어 감치 15일을 선고받았다. 그러나 서울구치소가 인적사항 특정이 어렵다며 수용을 못해 그날 밤 석방됐다. 석방 직후 두 변호사는 유튜브 채널에 출연해 “주접 떨지 말고 재판이나 잘해라” “여러분이 (감치 재판 때) 재판장이 벌벌 떠는 걸 봤어야 한다”며 재판부를 노골적으로 비난했다.&lt;br&gt;&lt;br&gt;서울중앙지법은 지난 25일 변협에 징계 사유를 통보하면서 “재판장의 법정 질서 유지를 위한 퇴정 명령에도 이를 거부하는 등 법원의 심리를 방해해 감치 선고를 받았다”며 “유튜브 방송을 통해 재판장에 대한 욕설 등 인신공격적 발언을 수차례 반복했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 감치 선고를 내린 이진관 재판장은 지난 24일 한 전 총리 재판에서 기존 감치 결정을 재집하겠다고 밝혔다. 또 감치 재판 과정에서 드러난 법정 질서 위반 행위에 대해서도 별도의 감치 재판을 열겠다고 예고했다. 이에 두 변호사는 이 재판장을 직권남용 등 혐의로 고위공직자범죄수사처에 고소하고, 위자료 청구 소송까지 제기한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“딸배XX, 가정교육 못받았냐” 배달기사에 폭언 퍼부은 건보공단 직원</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/26/DAUZUGMTQVECDCCMZUZ3I47XFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/DAUZUGMTQVECDCCMZUZ3I47XFY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Nov 2025 04:59:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQPK3QKZXZBLDB6HQHGSMXF54Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 장소 재연 이미지. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달 기사가 국민건강보험공단의 한 지역본부에 음식을 배달한 뒤 손님에게 막말과 욕설을 들은 사연이 알려져 공분이 일고 있다. &lt;br&gt;&lt;br&gt;26일 국민건강보험공단 등에 따르면 배달 기사 A씨는 지난 24일 국민건강보험공단의 한 지역본부에 음식 배달을 한 뒤 여성 손님에게 음식을 왜 바닥에 뒀냐는 항의를 받았다. &lt;br&gt;&lt;br&gt;A씨는 당시 한 식당에서 1인분의 음식을 픽업해 공단 한 지역본부 6층 엘리베이터 옆에 놔뒀다. &lt;br&gt;&lt;br&gt;당시 손님의 요청 사항에는 ‘6층 엘리베이터 앞에 놔주세요’라고 적혀 있었고, 엘리베이터 옆에는 ‘택배 수령’, ‘배달 음료’라는 안내 표시가 벽에 붙어 있었다. &lt;br&gt;&lt;br&gt;A씨는 당연히 해당 안내 표시 밑에 배달 음식을 놓아야 하는 줄 알았고, 배달한 음식의 인증 사진을 찍은 뒤 현장을 떠났다.&lt;br&gt;&lt;br&gt;그런데 얼마 뒤 손님은 배달 플랫폼을 통해 “음식을 길바닥에 버리고 갔는데 사과를 하라”고 A씨에게 항의해왔다. 배달 장소 옆에 테이블이 놓여 있었는데 그곳에 배달 음식을 뒀어야 한다는 것이다. &lt;br&gt;&lt;br&gt;A씨는 “길바닥에 버린 게 아니다. 요청 사항에 테이블 위에 두고 가라는 내용은 없었다”고 항변했지만 소용이 없었다. &lt;br&gt;&lt;br&gt;언쟁이 계속되자 손님은 “가정교육 못 받았나. 누가 음식을 밑에 두나”라며 배달 기사를 비하하는 단어인 ‘딸배 XX’ 등의 막말과 욕설을 했다.&lt;br&gt;&lt;br&gt;통화가 끝난 뒤에도 손님은 배달 기사에게 문자 메시지를 보내 “기억력이 3초세요?” 등의 막말을 했다.&lt;br&gt;&lt;br&gt;국민건강보험공단 관계자는 조선닷컴과의 통화에서 “해당 직원은 인턴 직원으로 확인됐다”며 “본인도 현 상황에 대해 잘못을 인정한 상태”라고 했다. &lt;br&gt;&lt;br&gt;관계자는 “현재 양쪽 의견을 듣고 사실관계를 조사 중”이라며 “공단에서도 이번 사건을 심각하게 받아들이고 철저하게 대응할 예정이다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“서울소년원서 얼차려 등 가혹행위” 인권위에 진정 제기</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/26/37Z6M6R42NFSPBO3R3J3HTGKUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/37Z6M6R42NFSPBO3R3J3HTGKUA/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 26 Nov 2025 03:46:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUUTMYWFT5CQJKNXO7SAJIPQHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 10시 서울 중구 국가인권위원회 앞에서 인권단체가 '서울소년원 인권침해 진정 제기 기자회견'을 진행하고 있다. /김혜민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인권단체가 서울소년원에서 입소자에게 반복적으로 얼차려를 강요하는 등 가혹행위가 이뤄졌다고 주장하며 국가인권위원회(인권위)에 진정을 제기했다.&lt;br&gt;&lt;br&gt;공익법률센터 파이팅챈스, 공익인권변호사모임 희망을만드는법 등 인권단체 5곳은 26일 오전 10시 서울 중구 인권위 앞에서 ‘서울소년원 인권침해 진정 제기 기자회견’을 열고 서울소년원의 가혹행위에 대한 진정을 인권위에 제기했다.&lt;br&gt;&lt;br&gt;진정인을 대리하는 이한결 변호사에 따르면, 지난 6월 서울소년원에 수용된 A(16)군은 수용기간 동안 최소 6차례 이상 체벌 및 가혹행위를 겪었다. 기마자세와 비슷한 ‘성찰자세’를 1시간 가까이 강요받았고, 교사는 자세가 흐트러지면 발로 A군의 정강이를 밀어 넘어뜨리며 “다시!”를 외쳤다고 한다. 또 A군을 CCTV가 없는 곳으로 데려가 엎드려뻗쳐를 시킨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 변호사는 “소년원에서는 아직도 체벌이 ‘생활지도’라는 이름으로 당당하게 존재하고 있다”며 “인권위는 서울소년원에 수용된 아동에 대한 체벌을 즉각 중지할 것을 권고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘6000만원 수수 혐의’ 노웅래 前의원, 1심서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2025/11/26/Y6DO4K7IY5BETO7YZ6NKTUZJVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/Y6DO4K7IY5BETO7YZ6NKTUZJVE/</guid>
@@ -856,27 +883,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CAU3IVFWTFFUVNAGXVXK25DERY.png"&gt;&lt;figcaption&gt;&lt;small&gt;각각 이경호 작가의 사진 작품(왼쪽)과 쿠나스 작가의 회화. /스레드&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 독일 화가가 유명 갤러리 전시에 내건 그림이 국내 사진작가의 사진 작품과 지나치게 유사하다는 지적이 제기됐다. 국내 작가는 독일 화가 측에 설명을 요구한 상태다.&lt;br&gt;&lt;br&gt;25일 미술계에 따르면, 최근 독일 출신 현대미술 작가 프리드리히 쿠나스(Friedrich Kunath) 개인전에 전시된 그림이 국내에서 포토그래퍼 겸 비디오그래퍼로 활동 중인 이경호 작가의 사진 작품과 유사하다는 지적이 온라인에서 제기됐다.&lt;br&gt;&lt;br&gt;도마 위에 오른 작품은 이 작가의 사진 ‘Memories’(2022)와 쿠나스 작가의 회화 ‘We Can’t Afford To Stay The Same’(2025)이다. 두 작품을 비교해 보면, 배경과 구도 등이 유사하다. 모래사장 위에 서 있는 사람의 위치, 키 비율, 몸 방향, 다리 각도까지 거의 같을 뿐 아니라, 파도 라인이 끊기는 위치와 모래사장 기울기까지 같다. 특히 뒤쪽 큰 파도 능선, 앞쪽 부서지는 물결의 덩어리 모양 등 파도 형태마저 비슷하다. 색감에서만 차이를 보인다. 이 작가의 사진 작품은 전체적으로 노을빛 필터를 씌운 것 같은 따뜻한 느낌인 반면, 쿠나스 회화는 채도와 대비가 세게 올라간 모습이다.&lt;br&gt;&lt;br&gt;온라인에서는 쿠나스 작가의 표절 의혹이 제기됐다. 이 작가의 사진 작품이 최소 3년 먼저 촬영됐는데, 쿠나스 작가의 그림이 이 작가 작품과 지나치게 비슷하다는 것이다. 네티즌들은 “이런 걸 트레이싱(베껴 그리기)이라고 하지 않나” “빔 프로젝터 쏴서 그대로 위에 대고 그린 것 같다” “틀린 그림 찾기 난이도 최상” “해안선의 형태까지 같다” “표절까지가 현대미술 메시지인 건가” “한국 사진작가라고 별 파급력 없을 거라고 생각했나 싶다” 등 반응을 보였다.&lt;br&gt;&lt;br&gt;이와 관련, 이 작가는 지난 12일 스레드를 통해 “최근 일어난 프리드리히 쿠나스 작가 관련 이슈에 대해 응원해 주고 문의하는 분들이 많아서 글을 남기게 됐다”며 “현재 쿠나스의 매니저로부터 메일이 온 상태”라고 직접 입장을 밝혔다. 그러면서 “이 사건과 관련해 더 신중하고 단호하게 대응하기 위해 자세한 내용과 소식은 추후 전해 드리도록 하겠다”고 했다. &lt;br&gt;&lt;br&gt;표절 의혹이 제기된 쿠나스 작가의 작품은 미국 뉴욕의 유명 갤러리인 페이스 갤러리에 전시된 것으로 알려졌다. 이번 논란과 관련한 쿠나스 작가 측의 입장은 알려지지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>춘천 감자빵 전 대표, 상표권 침해 ‘벌금 1000만원’</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/25/7TO45CSSFBH33PVTU5N7TJDTBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/7TO45CSSFBH33PVTU5N7TJDTBQ/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>강원도 춘천의 대표 간식 ‘감자빵’을 만든 농업회사법인의 전 공동대표가 상표를 허락 없이 사용한 혐의로 벌금형을 선고받았다. 해당 법인은 청년 농부 부부가 함께 운영해 왔으며, 두 사람은 지난 7월 이혼했다.</description>
-      <pubDate>Tue, 25 Nov 2025 04:00:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFRTKOBZGY4DSNRVMYYGGMRTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법.(뉴스1 DB)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원도 춘천의 대표 간식 ‘감자빵’을 만든 농업회사법인의 전 공동 대표가 상표를 허락 없이 사용한 혐의로 벌금형을 선고받았다. 해당 법인은 청년 농부 부부가 함께 운영해 왔으며, 두 사람은 지난 7월 이혼했다.&lt;br&gt;&lt;br&gt;춘천지법 형사3단독 박동욱 판사는 상표법 위반 등 혐의로 기소된 A(34)씨에게 벌금 1000만원을 선고했다고 25일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 5월 감자빵 상표권 일부를 양도받았지만 상표권 공유자이자 회사 공동 대표였던 B씨 등의 동의를 얻지 않은 채 2023년 7~8월 자신이 조합장으로 있는 영농조합 이름으로 “감자빵 공구 진행해 주실 셀러분을 찾습니다”라는 글을 인터넷에 게시했다. 이후 연락한 판매업자들에게 샘플을 보내면서 감자빵 포장 박스 등에 감자빵 상표등록번호와 같은 상표를 사용해 상표권을 침해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3RGRTT5PMMAAUNG4DDXYCFYZE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천 감자빵./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 또 회사의 사내 이사 신분으로 정식 내부 절차를 거치지 않고, 회사가 보유한 ‘콩빵 제조 방법’ 특허의 출원인 명의를 임의로 변경해 자신을 공동 출원인으로 올린 혐의도 받고 있다.&lt;br&gt;&lt;br&gt;박 판사는 “동의 없이 상표권을 사용했고, 사내 이사임에도 정당한 의사결정 절차를 거치지 않고 회사의 특허 출원인 명의를 변경해 죄질이 좋지 않다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/L3RGRTT5PMMAAUNG4DDXYCFYZE.jpg?auth=839e0260b575e191cb292d75a53940bae3c66ebf0f00a7d15c660d6c43e12682&amp;smart=true&amp;width=948&amp;height=583" type="image/jpeg" height="583" width="948">
-        <media:description type="plain">춘천 감자빵./뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>마약류 없는 마약 택배상자, 마약인 줄 알고 챙겼다면... 대법 “유죄” 첫 판단</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/25/U5NO2Z5AURBSFISMGVEXPEE2AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/25/U5NO2Z5AURBSFISMGVEXPEE2AI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Nov 2025 03:00:00 +0000</pubDate>
-      <content:encoded>국제우편물 상자에 담긴 마약이 세관 적발로 제거된 채 상자 안에 담긴 다른 물건만 받았더라도 마약거래방지법 위반으로 처벌할 수 있다는 대법원 첫 판단이 나왔다. 마약류를 거래한다는 인식을 가지고 물건을 받아챙겼다면 실제 마약을 유통했을 때에 준하는 처벌이 필요하다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6D4KSG7ESVBGLCHEAKWAG5KCWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대법원 3부(주심 이숙연 대법관)는 최근 마약거래방지법 위반 등 혐의로 기소된 정모씨의 상고를 기각하고 원심이 선고한 징역 3년을 확정했다. 정씨는 마약류 판매상의 지시를 받고 지난해 7월 31일 경기 안산시 상록구 본오동 일대에서 장난감이 담긴 국제우편물 상자를 챙긴 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그런데 이 상자엔 실제 마약류가 들어있지는 않았다. 인천공항세관에서 이 상자 속에 담긴 마약류를 적발해 압수했기 때문이다. 정씨에겐 판매상의 지시를 받아 지난해 8월 MDMA(엑스터시) 842정(2526만원 상당)이 담긴 국제우편물 상자를 수거한 혐의도 적용됐지만, 정씨가 마약을 거래한 혐의로 처벌받을 수 있는지가 핵심 쟁점이 된 것이다.&lt;br&gt;&lt;br&gt;1심은 정씨의 ‘빈 상자 수거’를 유죄로 봤다. 마약거래방지법은 마약류와 관련된 불법행위를 조장하는 행위 등을 방지하는 것이 입법 목적이고, 마약류를 거래한다는 사실을 알고 상자를 챙겼다면 유죄로 볼 수 있다는 것이다. 정씨는 판매상과 텔레그램으로 마약류 거래에 대한 대화를 주고받은 것으로 조사됐다. 또 상자 안에 있는 장난감을 해체해 마약류를 찾으려 시도했다는 게 검찰 수사 결과다. 1심도 이러한 수사 결과를 받아들여 유죄를 선고했다.&lt;br&gt;&lt;br&gt;정씨는 ‘마약류가 없는 상자는 처벌 대상인 약물과 유사한 게 아니어서 처벌 대상이 되지 않는다’며 항소했으나, 2심은 정씨의 항소를 기각했다. 대법원도 이러한 원심 판단에 문제가 없다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>女선수 상체 감싼 감독, 성추행 논란에 “오해, 선수 보호한 것”</title>
       <link>https://www.chosun.com/national/national_general/2025/11/25/KDNOXK4MYBCMRHZPZZC5KA55TY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/25/KDNOXK4MYBCMRHZPZZC5KA55TY/</guid>
@@ -936,15 +942,6 @@
       <description/>
       <pubDate>Mon, 24 Nov 2025 15:52:00 +0000</pubDate>
       <content:encoded>‘노란봉투법’이 내년 3월부터 시행되면 사실상 노동위원회가 원·하청의 전반적인 교섭 과정을 좌우하게 된다. 원·하청 노조의 ‘교섭 단위 분리’는 물론, ‘교섭 의무 여부’를 따지는 사용자성 판단까지 모두 노동위가 정하기 때문이다. 이를 놓고 “행정부 소속 기관에 과도한 권한이 집중되는 것 아니냐”는 우려가 나오고 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDJ25ZEOM5EXPLT53YNFQXRUXY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박수근&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고용노동부가 24일 발표한 ‘노란봉투법’ 시행령 입법 예고안에 따르면, 노동위는 원·하청 노조 간 교섭 단위를 분리할 필요성이 있는지, 분리한다면 어떤 방식으로 나눌 것인지까지 정한다. 하청 노조끼리의 교섭 분리 여부와 분리 방식을 결정하는 것도 노동위의 권한이다. 준사법 행정기구인 노동위의 판단은 법원 판결과 유사한 효력을 가지기 때문에, 정부가 현장의 교섭 구조에 사실상 큰 영향을 주는 셈이다.&lt;br&gt;&lt;br&gt;노동위는 지방노동위와 중앙노동위로 구성되는데, 노동위의 결정이 특정 방향으로 이어질 것이란 우려가 많다. 2021년 중앙노동위는 CJ 대한통운 사건 때 “직접 고용 관계가 없어도 원청이 하청 근로자와 단체교섭을 해야 한다”는 결정을 처음 내린 적 있다. 당시 대법원에서도 인정하지 않았던 전향적 결정이었는데, 이 판정이 노란봉투법 논의의 배경이 됐다. 이때 중앙노동위원장이던 박수근 한양대 교수가 현 정부에서 중앙노동위원장으로 다시 내정됐다. 이에 경영계에선 “앞으로도 노동위 결정은 노동 친화적 방향으로 가지 않겠느냐”는 말들이 나온다.&lt;br&gt;&lt;br&gt;노동위 구성 자체가 구조적 한계를 안고 있다는 비판도 있다. 현재 중앙노동위의 경우 노동계와 경영계가 추천하는 위원 각 41명과 정부가 최종 임명하는 공익위원 65명으로 구성돼있다. 공익위원 비율이 높은 만큼 주요 결정에서 정부 입장이 반영될 가능성이 크다는 것이다. 전문성도 문제다. 건설 업계에서 주로 활동하는 노무사는 “노동위가 20일 안에 ‘사용자성’을 판단하도록 돼 있는데, 기업별·현장별 사정이 천차만별이라 기존 판례를 적용하기 어려운 경우가 상당수”라며 “사실상 서류만 보고 판단하는 기계적 결정이 쏟아질 가능성이 크다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>질병청 “올해 독감 유행 적어도 2주는 더 갈 듯”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/11/25/VB3KWZ76ZJGAXM43WUOPPH3I5A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/25/VB3KWZ76ZJGAXM43WUOPPH3I5A/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 24 Nov 2025 15:46:00 +0000</pubDate>
-      <content:encoded>예년보다 일찍 시작된 올해 독감(인플루엔자)이 적어도 2주 이상 더 이어질 전망이다. 특히 이 기간에 또 다른 독감 유형이 확산될 가능성 때문에 보건 당국이 예의 주시하고 있다. &lt;br&gt;&lt;br&gt;질병관리청은 24일 정례 브리핑을 갖고 “올해 독감 유행 주의보 발령(10월 17일) 이후 5주 연속 증가 양상을 고려해 향후 2주 이상 증가세 지속을 예상한다”고 밝혔다.&lt;br&gt;&lt;br&gt;문제는 다른 유형의 독감 바이러스가 이 기간에 추가로 확산될지 여부다. 그간 국내에서 유행해온 독감은 크게 3종류(A형 H1N1·A형 H3N2·B형)인데, 현재 유행 주의보가 내려진 독감은 A형 H1N1 바이러스 하나뿐이다. 이에 언제 나머지 두 유형이 확산될지 모른다는 게 보건 당국이나 전문가들의 설명이다. 엄중식 가천대 길병원 감염내과 교수는 “대부분의 독감 유행 절기에는 한 형태의 독감만 유행하는 것이 아니라, 순서를 바꿔가면서 여러 종류의 바이러스가 유행한다”며 “올해는 예방접종률도 여전히 낮아 10년 내 최대 수준 유행이 일어났던 작년보다 환자가 더 많이 발생할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;다른 유형의 독감 바이러스가 유행할 경우, 최근 독감에 한 번 걸렸던 사람도 다시 걸릴 수 있다. 흔히 독감에 걸리면 항체가 생겼다고 착각해 예방접종을 안 하는 경우가 많은데, 다른 유형의 독감 바이러스엔 여전히 취약하다. 하지만 미리 예방접종을 맞았다면, 다른 유형의 독감 바이러스를 예방할 가능성도 커진다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
