@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘음주운전·불법 숙박업’ 문다혜 2심서도 징역 1년 구형… “잘못 인정하고 반성”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/27/TVK6PWZA5BDNLO3GZAZVUCDSNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/TVK6PWZA5BDNLO3GZAZVUCDSNE/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 05:10:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WHWDHXPD2RP2HPI5IWFTMJISU4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;문다혜씨가 27일 오전 서울 서울서부지방법원에서 열린 항소심 1차 공판기일에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주운전과 불법 숙박업 혐의로 1심에서 벌금형을 선고받은 문재인 전 대통령의 딸 문다혜(42)씨에게 검찰이 2심에서 징역 1년을 구형했다.&lt;br&gt;&lt;br&gt;서울서부지법 형사항소2-3부(임기환 재판장)는 27일 도로교통법상 음주운전과 공중위생관리법 위반 혐의로 기소된 문씨에 대한 결심 공판을 진행했다.&lt;br&gt;&lt;br&gt;이날 검찰은 벌금 1500만원을 선고한 1심 판결을 파기하고 문씨에게 징역 1년을 선고해달라고 요청했다. 검찰은 1심에서도 징역 1년을 구형했었다.&lt;br&gt;&lt;br&gt;이날 문씨는 최후진술에서 “이 사건으로 피해를 본 피해자분들에게 사과드린다”며 “신중하지 못했던 점을 반성하며 앞으로는 동일한 잘못을 절대 반복하지 않겠다고 다짐한다”고 밝혔다. 문씨 측 변호인도 “피고인은 공소사실을 모두 인정하고 깊이 반성하고 있으며, 같은 일이 재발하지 않을 것”이라며 선처를 호소했다.&lt;br&gt;&lt;br&gt;이날 오전 11시 10분쯤 법원을 찾은 문씨는 항소 이유 등을 묻는 취재진에 답변 없이 법정으로 들어갔다. 재판이 끝난 뒤에도 묵묵부답으로 자리를 떴다.&lt;br&gt;&lt;br&gt;문씨는 지난해 10월 5일 용산구 이태원 해밀톤호텔 앞에서 만취 상태로 차를 몰며 차선을 바꾸다 뒤따라오던 택시와 부딪힌 혐의를 받는다. 사고 당시 문씨의 혈중알코올농도는 0.149%로 면허 취소 기준(0.08%)을 넘겼다.&lt;br&gt;&lt;br&gt;문씨는 또 영등포구 오피스텔과 양평동 빌라, 제주시 한림읍 협재리에 있는 단독주택을 불법 숙박업소로 운영해 약 5년간 합계 1억3천600만원의 수익을 낸 혐의도 받는다.&lt;br&gt;&lt;br&gt;선고 공판은 내년 1월 29일 오전 10시에 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한변, “與 법원조직 개정안, 사법부마저 정치권력에 예속시키려는 위헌적 시도”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/27/DDHGZO7TIJBIFAZMDDNCCG6ZCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/DDHGZO7TIJBIFAZMDDNCCG6ZCY/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 05:08:11 +0000</pubDate>
+      <content:encoded>더불어민주당 사법 행정 TF가 최근 발표한 법원조직법 개정안 초안에 대법원 법원행정처를 폐지하는 내용 등이 담긴 것에 대해 ‘한반도 인권과 통일을 위한 변호사 모임(한변)’은 27일 “사법부마저 정치 권력에 예속시키려는 위헌적 시도”라고 강하게 비판했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAZDMZJUMYYWMYLDHBSTEY3EGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전현희 더불어민주당 사법불신 극복·사법행정 정상화 TF 단장이 지난 25일 사법불신 극복과 사법행정 정상화를 위한 입법공청회에서 발언하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한변은 특히 사법 행정 TF 초안에 법원행정처를 폐지하는 대신, 비법관 최대 9명이 포함된 사법행정위원회를 신설하는 내용이 담긴 것을 문제 삼았다. 한변은 “재판 업무나 법원 내부 인사 행정에 경험도 전문성도 없는 사람들을 갑자기 법원의 인사 행정 조직의 정점에 배치한 것”이라며 “그것도 과반 이상 절대 다수가 되게 한다는 것은 특정 외부 세력으로 하여금 재판에 영향력을 행사하고 사법부를 장악하려는 목적에서 추진되고 있다는 합리적인 의심을 불러오기에 충분하다”고 했다. 이어 “사법부의 인사와 재판에 불순한 외부 입김이 유입되는 통로 역할을 충실히 수행하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;한변은 비법관이 과반인 사법행정위원회가 사법부의 인사 행정권을 행사하게 되면 ‘사법권은 법관으로 구성된 법원에 속한다’는 헌법 101조와, 대법원장에게 법관 임명권을 부여한 헌법 104조에 위배된다며 위헌적 시도라고 주장했다. 한변은 또 법원장 선출 때 각 법원 판사 회의가 추천한 법관 중 선출하게 하는 방안에 대해서도 “대법원장의 인사권을 본질적으로 제한한다”며 헌법에 반하는 것이라고 했다.&lt;br&gt;&lt;br&gt;한변은 “대한민국 역사에서 사법부 독립을 근본적으로 침탈하려는 시도는 그 어떤 정권 아래서도 없었다”면서 “그러나 작금에 이르러 삼권분립과 사법독립에 대한 유례없는 침해가 날로 극심해지고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원 “홍원식 전 남양유업 회장, 한앤코에 660억 배상해야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/27/AGRT4CD5HBDY3CHC6SVE4QLD6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/AGRT4CD5HBDY3CHC6SVE4QLD6Q/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 04:33:59 +0000</pubDate>
+      <content:encoded>국내 사모펀드(PEF) 운용사 한앤컴퍼니가 “홍원식 전 남양유업 회장이 2021년 경영권 지분을 제때 넘기지 않아 상당한 손해를 봤다”며 제기한 손해배상 소송에서 법원이 홍 전 회장에게 660억원을 배상하라고 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYGCNBWMZSWCYRTGQ3TAZBTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장 /뉴스1 ⓒ News1 신웅수 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사31부(재판장 남인수)는 27일 한앤컴퍼니가 홍 전 회장을 상대로 제기한 손해배상 청구 소송 1심에서 “홍 전 회장은 한앤컴퍼니에 660억원과 이에 대한 지연손해금을 지급하라”고 했다. 재판부는 소송 비용의 5분의 3도 홍 전 회장이 부담하도록 했다.&lt;br&gt;&lt;br&gt;한앤컴퍼니가 처음 홍 전 회장에게 청구한 손해배상금은 500억원이었으나, 소송 과정에서 구체적인 피해액을 재산정해 936억원으로 배상금을 올렸다.&lt;br&gt;&lt;br&gt;한앤컴퍼니와 홍 전 회장의 분쟁은 4년 전으로 거슬러 올라간다. 한앤컴퍼니는 2021년 5월 홍 전 회장 등 남양유업 오너 일가의 경영권 지분(53.08%)을 3100억원에 인수하는 주식 매매 계약을 체결했다. 그러나 그해 9월 홍 전 회장이 돌연 입장을 바꾸고 한앤컴퍼니 측에 계약 해지를 통보하면서 주식 인도를 거부했다. 이에 한앤컴퍼니는 “계약대로 지분을 넘겨달라”며 주식 양도 청구 소송을 냈고, 올해 1월 대법원이 한앤컴퍼니 손을 들어줬다. 소송 과정에서 이와 별도로 2022년 11월 한앤컴퍼니가 홍 전 회장에게 손해배상도 청구한 것이다.&lt;br&gt;&lt;br&gt;재판부는 이날 홍 전 회장이 경영권 지분 양도를 지체하면서 발생한 ‘오너 리스크’로 기업 가치가 떨어졌고 이로 인해 손해가 발생했다는 한앤컴퍼니 측 주장을 받아들였다고 밝혔다. 다만 한앤컴퍼니가 주식 매매 계약상 매매 대금을 운용해 이익을 얻을 수 있었던 기회를 잃은 부분에 대해서는 연 6% 상당의 손해만을 인정했다.&lt;br&gt;&lt;br&gt;한편 홍 전 회장의 부인과 손자를 상대로 한 손해배상 청구는 기각됐다. 재판부는 이들이 보유한 주식과 경영권 지분을 한앤컴퍼니에 이전하지 않음으로써 한앤컴퍼니가 입은 손해 사이에는 인과관계를 인정하기 어렵다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰 ‘청산가리 막걸리 살인 사건’ 진범 추적 재수사 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/27/UJTPX6CHOBHYDJZ6XSKDNSAFHQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/UJTPX6CHOBHYDJZ6XSKDNSAFHQ/</guid>
+      <dc:creator>무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 04:22:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KGK2NOR3CWSTVA3LYZBI566UOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 28일 오후 광주고등법원에서 '순천 청산가리 막걸리 살인사건'의 부녀가 16년 만에 '무죄'를 선고받은 후 심경을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청산가리 막걸리 사건의 진범으로 몰렸던 부녀가 16년 만의 재심에서 무죄를 선고받으면서 경찰의 재수사가 시작됐다.&lt;br&gt;&lt;br&gt;전남경찰청 형사기동대는 27일 “순천 청산가리 막걸리 살인 사건을 미제사건으로 분류하고 전담 수사팀에 배당해 진범을 찾는 재수사에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;광주고법 형사2부(재판장 이의영)는 지난달 28일 살인 및 존속살인 등 혐의로 기소된 아버지 A(75)씨와 딸 B(41)씨에 대한 재심 선고 공판에서 무죄를 선고했다. 14년 전 법원은 이들에게 각각 무기징역과 징역 20년을 선고했었다.&lt;br&gt;&lt;br&gt;순천 청산가리 막걸리 살인 사건은 2009년 7월 전남 순천 황전면의 한 마을에서 발생했다. 희망근로 현장에서 막걸리를 나눠 먹은 A씨의 아내 C씨 등 2명이 숨지고 2명이 중상을 입었다. 막걸리에서 독극물인 청산가리가 검출됐다.&lt;br&gt;&lt;br&gt;사건을 수사한 검찰은 “부적절한 관계였던 A씨 부녀가 공모해 C씨를 살해했다”고 발표한 뒤 기소했다.&lt;br&gt;&lt;br&gt;하지만 재심 재판부는 “피고인들이 검찰의 강압 수사에 허위로 범행을 자백했다. 부적절한 관계를 입증할 객관적 증거와 정황도 없다”며 무죄를 선고했다.&lt;br&gt;&lt;br&gt;경찰은 과거 수사 기록부터 다시 검토한다. 수사 기록 분량은 경찰이 초기 수사를 진행하다 검찰에 넘긴 기록 등을 포함해 19권에 달하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “당시 수사 과정에서 왜곡되거나 누락된 사안을 확인해 단서로 삼을 내용을 파악할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>이화영 재판 검찰 반발 왜?… ‘연어 술자리’ 핵심 관계자 증인신청 줄줄이 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/11/27/BICIGFS6CFFH7M6IGMLQVJWYCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/BICIGFS6CFFH7M6IGMLQVJWYCM/</guid>
@@ -802,15 +838,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQPK3QKZXZBLDB6HQHGSMXF54Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배달 장소 재연 이미지. /JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배달 기사가 국민건강보험공단의 한 지역본부에 음식을 배달한 뒤 손님에게 막말과 욕설을 들은 사연이 알려져 공분이 일고 있다. &lt;br&gt;&lt;br&gt;26일 국민건강보험공단 등에 따르면 배달 기사 A씨는 지난 24일 국민건강보험공단의 한 지역본부에 음식 배달을 한 뒤 여성 손님에게 음식을 왜 바닥에 뒀냐는 항의를 받았다. &lt;br&gt;&lt;br&gt;A씨는 당시 한 식당에서 1인분의 음식을 픽업해 공단 한 지역본부 6층 엘리베이터 옆에 놔뒀다. &lt;br&gt;&lt;br&gt;당시 손님의 요청 사항에는 ‘6층 엘리베이터 앞에 놔주세요’라고 적혀 있었고, 엘리베이터 옆에는 ‘택배 수령’, ‘배달 음료’라는 안내 표시가 벽에 붙어 있었다. &lt;br&gt;&lt;br&gt;A씨는 당연히 해당 안내 표시 밑에 배달 음식을 놓아야 하는 줄 알았고, 배달한 음식의 인증 사진을 찍은 뒤 현장을 떠났다.&lt;br&gt;&lt;br&gt;그런데 얼마 뒤 손님은 배달 플랫폼을 통해 “음식을 길바닥에 버리고 갔는데 사과를 하라”고 A씨에게 항의해왔다. 배달 장소 옆에 테이블이 놓여 있었는데 그곳에 배달 음식을 뒀어야 한다는 것이다. &lt;br&gt;&lt;br&gt;A씨는 “길바닥에 버린 게 아니다. 요청 사항에 테이블 위에 두고 가라는 내용은 없었다”고 항변했지만 소용이 없었다. &lt;br&gt;&lt;br&gt;언쟁이 계속되자 손님은 “가정교육 못 받았나. 누가 음식을 밑에 두나”라며 배달 기사를 비하하는 단어인 ‘딸배 XX’ 등의 막말과 욕설을 했다.&lt;br&gt;&lt;br&gt;통화가 끝난 뒤에도 손님은 배달 기사에게 문자 메시지를 보내 “기억력이 3초세요?” 등의 막말을 했다.&lt;br&gt;&lt;br&gt;국민건강보험공단 관계자는 조선닷컴과의 통화에서 “해당 직원은 인턴 직원으로 확인됐다”며 “본인도 현 상황에 대해 잘못을 인정한 상태”라고 했다. &lt;br&gt;&lt;br&gt;관계자는 “현재 양쪽 의견을 듣고 사실관계를 조사 중”이라며 “공단에서도 이번 사건을 심각하게 받아들이고 철저하게 대응할 예정이다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“서울소년원서 얼차려 등 가혹행위” 인권위에 진정 제기</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/37Z6M6R42NFSPBO3R3J3HTGKUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/37Z6M6R42NFSPBO3R3J3HTGKUA/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 03:46:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TUUTMYWFT5CQJKNXO7SAJIPQHQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오전 10시 서울 중구 국가인권위원회 앞에서 인권단체가 '서울소년원 인권침해 진정 제기 기자회견'을 진행하고 있다. /김혜민 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인권단체가 서울소년원에서 입소자에게 반복적으로 얼차려를 강요하는 등 가혹행위가 이뤄졌다고 주장하며 국가인권위원회(인권위)에 진정을 제기했다.&lt;br&gt;&lt;br&gt;공익법률센터 파이팅챈스, 공익인권변호사모임 희망을만드는법 등 인권단체 5곳은 26일 오전 10시 서울 중구 인권위 앞에서 ‘서울소년원 인권침해 진정 제기 기자회견’을 열고 서울소년원의 가혹행위에 대한 진정을 인권위에 제기했다.&lt;br&gt;&lt;br&gt;진정인을 대리하는 이한결 변호사에 따르면, 지난 6월 서울소년원에 수용된 A(16)군은 수용기간 동안 최소 6차례 이상 체벌 및 가혹행위를 겪었다. 기마자세와 비슷한 ‘성찰자세’를 1시간 가까이 강요받았고, 교사는 자세가 흐트러지면 발로 A군의 정강이를 밀어 넘어뜨리며 “다시!”를 외쳤다고 한다. 또 A군을 CCTV가 없는 곳으로 데려가 엎드려뻗쳐를 시킨 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 변호사는 “소년원에서는 아직도 체벌이 ‘생활지도’라는 이름으로 당당하게 존재하고 있다”며 “인권위는 서울소년원에 수용된 아동에 대한 체벌을 즉각 중지할 것을 권고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘6000만원 수수 혐의’ 노웅래 前의원, 1심서 무죄</title>
       <link>https://www.chosun.com/national/court_law/2025/11/26/Y6DO4K7IY5BETO7YZ6NKTUZJVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/Y6DO4K7IY5BETO7YZ6NKTUZJVE/</guid>
@@ -867,33 +894,6 @@
       <description/>
       <pubDate>Wed, 26 Nov 2025 02:22:57 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJHV2SJAANGHTJ2EZCR435COXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 홈페이지에 올라온 노꼬메오름 정상에서 불법 야영하는 사진./제주도 홈페이지&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도 서부 지역의 대표적 오름 중 하나인 제주시 애월읍 유수암리 노꼬메 오름 정상에서 불법 캠핑을 하고 취사까지 하는 얌체족이 늘고 있다.&lt;br&gt;&lt;br&gt;26일 제주도에 따르면 최근 제주도 홈페이지 ‘제주도에 바란다’에 “큰노꼬메 정상에 아침 일찍 올라가면 비박(비바크)하는 캠퍼가 제법 많고 밤새 술 먹고 고기 구워 먹는 사람도 있다”는 글이 올라왔다.&lt;br&gt;&lt;br&gt;‘노꼬메정상 캠핑’이라는 이 글의 작성자는 “날씨가 추워지면서 불도 사용하는 것 같은데, 자칫 잘못하면 산불 우려도 있고 화장실도 없는데 용변은 어디서 처리하나”라며 정상 데크에 설치된 텐트 사진들을 첨부했다.&lt;br&gt;&lt;br&gt;큰노꼬메·큰녹고뫼 등으로도 불리는 노꼬메 오름 정상 전망대에는 야간 경관이 좋다고 입소문이 나자 텐트를 치고 비바크(biwak)하는 사람이 많아졌다. 이들이 전망대와 주차장을 장시간 차지하는 바람에 다른 탐방객이 큰 불편을 겪고 있다.&lt;br&gt;&lt;br&gt;게시글 작성자는 또 “(노꼬메 인근) 작은노꼬메 주변에는 자전거와 오토바이, 말 등을 타는 사람들이 편백 숲, 상잣길을 많이 훼손하고 있다”며 “사람 외 탐방을 금지하는 푯말을 세워달라”고 요청했다.&lt;br&gt;&lt;br&gt;이에 대해 제주도는 노꼬메오름에서 캠핑과 취사 행위는 자연환경보전법과 산림보호법에 따라 불법이며 과태료 최대 100만원을 부과하는 등 강력하게 조치할 계획이라고 밝혔다.&lt;br&gt;&lt;br&gt;또 자연환경보전법 제40조에 근거해 오름 출입·취사·야영 행위 제한 고시 등 실질적 조치를 마련하고 있다고 제주도는 밝혔다.&lt;br&gt;&lt;br&gt;제주도는 현재 도내 오름에 67개 있는 산불감시초소에 산불감시원을 배치하고 산불 감시와 불법 캠핑, 취사, 쓰레기 투기 등을 감시하고 있다. &lt;br&gt;&lt;br&gt;제주도는 또 내년에 수립하는 ‘오름 보전 기본계획’에 자전거와 오토바이, 승마 이용을 금지하는 가이드라인을 마련할 수 있도록 논의할 계획이며, 숲길 등 산림 훼손에 대한 탐방객들의 책임 의식을 제고하는 방안도 추진할 계획이다. 이와 함께 ‘궷물-족은노꼬메-큰노꼬메 오름’ 일대에 탐방로 정비와 안전 시설을 확충할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘청담동 주식부자’ 이희진, 또 사기 혐의로 입건 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/WKDGP7OPBVDU3CXDRVQZQHUL4Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/WKDGP7OPBVDU3CXDRVQZQHUL4Q/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 02:14:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VQUTUAUYKB2DFWXAKUSTRGGDSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'청담동 주식부자' 이희진씨가 지난 2019년 서울 서초구 서울고등법원에서 열린 항소심 속행 공판에 출석하던 당시 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;130억여 원의 시세 차익을 불법으로 챙겨 실형을 선고받았던 ‘청담동 주식부자’ 이희진(39)씨가 또 다른 사기 혐의로 고소당했다.&lt;br&gt;&lt;br&gt;26일 경찰에 따르면 서울 강남경찰서는 지난 5월 이씨에 대한 고소장을 접수하고 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 혐의로 이씨를 입건해 수사 중이다. 이씨는 동업자인 암호화폐 ‘피카코인’ 발행사 대표 A씨에게 정산금 약 18억8000만원을 미지급한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 지난 2020년 미술품 조각투자에 사용할 코인을 공동 개발하기로 하고 계약을 체결했다. 하지만 이씨가 당초 합의한 수익금 정산 비율을 지키지 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이씨는 방송 등에 출연해 주식 투자 수익으로 산 고가의 부동산과 차를 자랑하며 ‘청담동 주식부자’로 명성을 날렸다. 그러다 인가를 받지 않은 투자자문 업체를 운영하며 시세 차익 약 130억원을 챙긴 혐의로 지난 2020년 2월 대법원에서 징역 3년 6개월이 확정됐다. 또 출소 후에도 피카코인을 비롯해 3개 코인을 발행·상장해 허위 홍보와 시세조종하는 방식으로 900억원 상당의 사기를 벌여 현재까지 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘감치 선고받고도 석방’ 김용현 전 장관 변호인 논란에 법무부 “입소 절차 개선”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/26/DEHOJW22Y5A5FENSLOR2LWUOAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/DEHOJW22Y5A5FENSLOR2LWUOAE/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 01:44:38 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WMZBRGVTDEZJQGY4TOMLFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관 변호인 이하상 변호사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 “감치 대상자의 신원정보가 일부 누락됐더라도 법원 재판으로 감치 대상자가 특정됐다면 법원 직원이 작성한 감치 대상자 확인서로 신원 확인을 완화하는 내용으로 절차를 개선했다”고 26일 밝혔다. 감치는 재판부가 법정에서 난동을 부리는 등 질서를 위반한 사람을 구치소 등에 가두는 조치다.&lt;br&gt;&lt;br&gt;법무부가 이날 발표한 감치 집행 대상자 입소 절차 개선 방안은 김용현 전 국방부 장관 변호인이 법정에서 소란을 피워 감치 선고를 받고도 풀려난 데 따른 것이다.&lt;br&gt;&lt;br&gt;지금까지 법무부는 교정시설 입소 대상자의 성명, 주민등록번호 등 신원 확인에 필요한 최소한의 정보를 확인한 후 관련 절차를 진행했다. 그러나 피의자 조사 등 형사 입건 절차 없이 진행되는 감치 재판은 인적 사항이 누락돼 입소 절차가 마무리되지 경우가 있었다.&lt;br&gt;&lt;br&gt;실제 김 전 장관 변호인도 신원정보가 누락돼 지난 19일 감치 선고를 받고도 수감되지 않았다. 김 전 장관 변호인단인 이하상·권우현 변호사는 당일 서울중앙지법 형사33부(재판장 이진관) 심리로 열린 한덕수 전 국무총리의 내란 방조 혐의 재판에 김 전 장관이 증인으로 출석하자 “김 전 장관과 증인석에 같이 앉게 해 달라”고 요청했다. 형사소송법상 범죄 피해자가 증인으로 신문받을 때는 가족이나 변호인 등 신뢰 관계에 있는 사람이 곁에 앉을 수 있게 하는 ‘신뢰 관계인 동석(同席)’ 신청을 할 수 있다.&lt;br&gt;&lt;br&gt;그러나 이진관 재판장은 “김 전 장관은 범죄 피해자가 아니다”라며 두 변호사의 동석을 허락하지 않았다. 이에 이·권 변호사는 계속 손을 들며 발언하려 했고, 이 재판장은 두 사람을 일단 퇴정시킨 다음, 한 전 총리 재판을 마치고 감치 재판을 별도로 열어 ‘감치 15일’을 선고했다.&lt;br&gt;&lt;br&gt;그런데 두 변호사는 이름과 주민등록번호 등 신원 확인 절차를 거부하면서 재판부는 이들의 인적 사항을 제대로 적지 못한 감치 집행장을 서울구치소에 보냈다. 이에 서울구치소 측은 “감치 집행에 필요한 대상자 주민등록번호 등 최소한의 정보도 없어 수용하기 어렵다”며 법원에 보완해 달라고 했지만, 법원은 “인적 사항을 더 확인할 방법이 없다”면서 석방 결정을 내렸다.&lt;br&gt;&lt;br&gt;이후 이·권 변호사는 유튜브에 출연해 욕설을 하며 이 재판장을 비난해 다시 논란이 됐다. 법원행정처는 지난 25일 두 사람을 법정모욕과 명예훼손 등의 혐의로 경찰에 고발했고, 이 재판장도 지난 24일 “기존 감치 결정은 집행할 예정이고, 감치 재판 중 법정 질서 위반 행위에 대해선 별도의 재판을 열겠다”고 했다.&lt;br&gt;&lt;br&gt;법무부는 “앞으로 형사절차가 공정하고 원활하게 진행될 수 있도록 관계 법규 및 제도를 지속적으로 점검하도록 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일제강점기 두고 “韓日 싸웠다”… 배우 송진우, 역사 왜곡 논란에 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/IBK7IENRYNA5JI7ZA6HRY3OHOM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/IBK7IENRYNA5JI7ZA6HRY3OHOM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 02:22:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S6WI4VMO5RGSLHZVWJZR3SCCGE.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 송진우. /‘354 삼오사' 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 송진우가 일제강점기 시절을 두고 “옛날에 둘이 싸웠어”라고 표현해 역사를 왜곡했다는 비판을 받자 사과했다. &lt;br&gt;&lt;br&gt;논란이 된 발언은 송진우가 지난 25일 유튜브 채널 ‘354 삼오사’에서 아이가 부모의 국적 때문에 주위로부터 혐오감이 생길 것을 우려해 역사적 사실을 정확히 이해시키고 있다는 점을 설명하는 과정에서 나왔다.&lt;br&gt;&lt;br&gt;일본 여성과 결혼한 송진우는 이 자리에서 “나는 와이프가 일본 사람인데 애들이 학교에 가면 역사를 배우지 않느냐”며 “어떤 애들은 돌 맞기도 하고, ‘일본 사람’ 하고 돌을 던졌다더라”고 했다. 이어 “이런 사례가 있으니까 와이프 입장에서도 걱정이 된다”며 “애들이 해코지하지 않을까 하는 게 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(아이에게) ‘아빠는 한국 사람이고 엄마는 일본 사람이다. 딸은 일본 사람이기도 하고 한국 사람이기도 해’라고 자기 정체성을 확실히 해줬다”고 했다. 그러면서 일제강점기를 겨냥한 듯 “‘옛날에 근데 둘이 싸웠어’ ‘옛날에 싸웠는데 지금은 아니야’ 이런 것을 (아이에게) 미리 좀 알려주고 있다”고 했다. 또 “선생님들이나 어른들의 케어(Care)가 중요한 것 같다”며 “그런 일이 안 벌어지게끔 선생님의 케어나 말 한마디나 이런 게 필요할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;영상이 공개된 후 일부 네티즌은 송진우가 언급한 ‘싸웠다’는 표현을 지적했다. 네티즌들은 “침략국을 미화시키는 것 아니냐” “일제강점기가 어떻게 양국이 싸운 것이냐” “식민지 된 걸 싸웠다고 하네” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;논란이 이어지자, 유튜브 제작진은 영상을 비공개 처리한 뒤 사과문을 공개했다. 제작진은 “출연자들의 발언이 마치 특정 사실을 왜곡하고, 잘못된 내용을 전달하는 것처럼 비치게 한 저희의 잘못”이라며 “‘한국과 일본이 싸웠다’는 표현은 일본의 침략이라는 역사적 사실을 축소하거나 왜곡하려는 의도가 전혀 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “당시 상황을 설명하는 과정에서 나온 발언이었지만, 편집 흐름상 단순 분쟁처럼 들릴 수 있는 뉘앙스로 전달됐다”며 “역사를 양비론적으로 보자는 의미가 아니었고, 다양한 사회적·역사적 상황을 바라볼 때 여러 관점을 이해하는 태도를 지니는 게 좋겠다는 의미를 일반적으로 설명하는 과정에서 나온 말이었다”고 했다. 그러면서 “저희의 잘못된 편집으로 그 본래의 취지가 충분히 전달되지 못했다”며 “설명 과정이 충분하지 않았고, 잘못된 편집으로 인해 출연자들의 발언이 잘못된 의미로 받아들여지게 전달됐다. 깊이 반성한다”고 했다.&lt;br&gt;&lt;br&gt;송진우도 제작진 사과문 댓글을 통해 사과했다. 그는 “신중하지 못한 언행으로 인해 많은 분들께 상처와 실망을 드린 점 진심으로 사과드린다”며 “‘역사를 잊은 민족에게 미래는 없다’라는 말의 무거움을 알고 있는 대한민국 국민이다. 그렇기에 역사를 왜곡하여 아이들을 교육하고, 보호하려는 의도는 전혀 없었다는 이야기부터 드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;송진우는 “다문화 가정 아이들 사이에서 부모의 국적 때문에 생긴 혐오감이 아이들에게 무분별한 폭력으로 이어지고 있다는 주변 이야기를 들었다”며 “그래서 ‘역사적 사실은 정확히 알고 이해하되, 어떤 상황에서도 폭력은 절대 해서는 안 된다’는 가르침을 주고 싶었다”고 했다. 이어 “그 과정에서 그래선 정말 안 됐지만 아이의 시선에 맞춰 설명하겠다는 의지가 앞서 ‘싸웠다’라는 잘못된 단어를 사용하게 됐다”며 “앞으로는 같은 실수를 반복하지 않도록 더욱 조심스럽고 신중하게, 그리고 사실만을 말씀드리겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 전국에 비·눈...내주 최저 -8도 강추위</title>
