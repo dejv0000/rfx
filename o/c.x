@@ -13,6 +13,81 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘패스트트랙 충돌’ 1심 벌금형 황교안·곽상도·김선동 등 일부 항소 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/27/HEJCHOYJBNH7BAZAPWHFIHD2VQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/HEJCHOYJBNH7BAZAPWHFIHD2VQ/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 09:30:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K5VEH6RUBBQNI235R5HBBHLVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황교안 전 국무총리가 2025년 11월 20일 서울 양천구 서울남부지방법원에서 열린 '국회 패스트트랙 충돌' 1심 선고 공판을 마친 후 나서고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민주당의 공직선거법·고위공직자범죄수사처법 신속 처리 지정 과정에서 발생한 국회 내 폭력 사태로 1심에서 벌금형을 선고받은 황교안 자유와혁신 대표, 이장우 대전시장, 곽상도·김선동·김성태·박성중 전 국민의힘 의원 등 피고인 일부가 항소했다.&lt;br&gt;&lt;br&gt;법조계에 따르면 황 전 대표와 이 시장, 전 국민의힘 의원 등 피고인 일부가 특수공무집행방해 등의 혐의 판결에 대해 27일 법원에 항소를 제기했다. 항소장 제출은 선고일로부터 7일 이내로 이날 자정까지 가능하다. &lt;br&gt;&lt;br&gt;이들 중 일부는 선고받은 형량이 검찰의 구형량보다 높았다. 지난 9월 열린 결심 공판에서 검찰은 재판부에 곽 전 의원에게 500만원, 김성태 전 의원에게 300만원, 김선동 전 의원에게 500만원, 박성중 전 의원에게는 300만원의 벌금형을 선고해달라고 요청했다. 이 시장에게는 500만원을 구형했다. 하지만 법원이 내린 벌금은 검찰의 구형량보다 높았다. &lt;br&gt;&lt;br&gt;일부 피고인이 항소할 경우, 항소한 이들의 부분만 항소심의 심판 대상이 되고 그 외 피고인은 형이 확정된다.&lt;br&gt;&lt;br&gt;한편 이날 서울남부지검은 “수사·공판팀 및 대검찰청과 심도 있는 검토와 논의를 거쳐 피고인 전원에 대해 항소를 제기하지 않기로 결정했다”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 4월 민주당이 공수처 신설을 위해 정의당 등 친민주당 성향의 군소 정당이 원하는 선거법 개정(연동형 비례대표제)에 합의하고 밀어붙이자, 당시 야당이었던 자유한국당이 이를 막는 과정에서 불거졌다.&lt;br&gt;&lt;br&gt;이에 대해 남부지검은 “범행 전반에 대해 유죄가 선고됐고 피고인들의 범행 동기가 사적 이익 추구에 있지는 않았다”며 “또 (재판이) 6년 가까이 장기화돼 분쟁을 최소화할 필요가 있다는 점 등을 종합적으로 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해병 특검, ‘박정훈 허위 구속영장 청구’ 군검사 2명 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/27/CEOCET2WAZBTHD7LFR4YQXTVTU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/CEOCET2WAZBTHD7LFR4YQXTVTU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:53:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSDENJRGFTGGZBSGRSTEZLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국방부 검찰단에서 박정훈 대령 항명 혐의 수사·기소를 맡았던 염보현 군검사와 김민정 전 보통검찰부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;순직 해병 특검이 박정훈 대령에 대해 허위 사실로 구속영장을 청구했던 전·현직 군검사 2명을 불구속 기소했다.&lt;br&gt;&lt;br&gt;특검은 27일 염보현 군검사와 김민정 전 국방부 검찰단 보통검찰부장에 대해 허위 공문서 작성·행사, 직권남용 감금 등 혐의로 재판에 넘겼다. 이들은 지난 2023년 8월 김동혁 전 국방부 검찰단장의 지시로 박 대령의 구속영장 청구서를 작성하면서 ‘윤석열 전 대통령의 격노와 수사 외압은 박 대령의 망상’이라는 거짓 내용을 담은 혐의를 받는다.&lt;br&gt;&lt;br&gt;박 대령에 대한 구속영장은 군사법원에서 기각됐지만, 박 대령은 영장실질심사 이후 기각 결정까지 약 6시간 46분간 감금됐다. 특검은 이들의 부당한 구속영장 청구로 인한 불법 감금으로 판단했다.&lt;br&gt;&lt;br&gt;앞서 특검은 이종섭 전 국방장관과 김 전 단장이 공모해 박 대령이 항명죄 등에 해당되지 않는 것을 알면서도 구속영장을 청구했다며 직권남용 감금 등 혐의로 불구속 기소했다. 특검은 염 검사 등이 상부의 구속영장 청구가 위법한 지시라는 것을 알면서도 적극 실행했다고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>휴양시설로 변신한 ‘폐교’... 충북도 우수 시책 인정 받아</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/27/NMTKRJHAMNCBXKAY4HLOA6VZII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/27/NMTKRJHAMNCBXKAY4HLOA6VZII/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:55:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CXRVDDLBTNCAJOQ4SMF7RFXMKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도가 폐교를 새활용해 새롭게 조성한 '농소막'이 지방시대위원회 주최 'NABIS(균형발전종합정보시스템) 균형발전 우수 콘텐츠' 시상식에서 최우수상인 지방시대위원장상을 수상했다./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도가 폐교를 새활용해 만든 농촌유휴시설인 ‘농소막’이 전국적인 균형발전 우수사례로 선정됐다. &lt;br&gt;&lt;br&gt;도는 27일 대통령 직속 지방시대위원회 주최로 서울 ENA 스위트 호텔에서 열린 ‘NABIS(균형발전종합정보시스템) 균형발전 우수 콘텐츠’ 시상식에서 최우수상인 지방시대위원장상을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;지방시대위원회는 시도에서 추진하는 균형발전사업 중 우수사례를 시상하고, 다양한 종류의 콘텐츠 제작 및 제공으로 홍보에 도움을 주고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q224RDX6A5ANBENURQB3Z24QWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북도가 폐교된 괴산군 대후초등학교를 새활용해 농촌체험시설로 만든 '농소막' 모습/충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농소막은 충북도가 괴산군 청천면 소재 대후폐교를 활용해 만든 가족형 농촌체험시설이다. 가족단위 휴양부터 워크숍, 문화행사까지 활용도가 높다는 평가를 받았다.&lt;br&gt;&lt;br&gt;도는 1993년 폐교된 이 학교를 22억을 들여 매입해 숙박시설(2인실 4개, 4인실 2개), 다목적 공간인 ‘다함께공간’, 캠핑사이트(5개), 잔디광장 등을 갖춘 휴양시설로 조성했다. &lt;br&gt;&lt;br&gt;강찬식 도 농업정책과장은 “민간위탁자로 선정된 지역 청년들과 함께 농소막을 지역의 명소로 만들어 지역소멸 위기를 타개하는 모델이 되도록 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“피해자 코스프레” 손흥민에 임신 협박한 여성, 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/27/WJMW57OLV5FUNEP2CKYLOIDIGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/WJMW57OLV5FUNEP2CKYLOIDIGI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:48:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ETUNAFZWNJB4CJ354AAY5G2AY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;축구 국가대표 손흥민을 상대로 돈을 받아내려해 공갈 혐의를 받는 양씨(왼쪽, 20대 여성)와 용씨(40대 남성). /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 축구 선수 손흥민(33)을 상대로 아이를 임신했다며 거액을 요구한 20대 여성에게 징역 5년을 선고해 달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;27일 서울중앙지법 형사20단독 임정빈 판사 심리로 열린 20대 여성 양모씨의 공갈 미수 혐의 결심 공판에서 검찰은 징역 5년을 구형했다. 함께 기소된 40대 남성 용모씨에게는 징역 2년을 구형했다. &lt;br&gt;&lt;br&gt;검찰은 “양씨는 위자료를 받은 것이라며 피해자 코스프레를 하지만, 실체적 진실과 100% 일치할 수 없다”며 “철저한 계획 범죄로 사안이 중대하고 죄질이 불량하며 피해자의 정신적 고통이 상당할 것으로 보인다”고 밝혔다. 용씨에 대해서는 “금원 갈취를 위해 15회에 걸쳐 협박하는 등 죄질이 극히 불량하다”며 “다만 수사 과정에 협조하고 미수에 그친 점을 참작해 달라”고 했다. &lt;br&gt;&lt;br&gt;양씨 측 변호인은 “계획 범행이 아니고, 협박해서 부당한 이익을 취한 것도 아니다”라며 “임신과 낙태에 대한 위자료로, 공갈의 의도가 없었다”고 했다. &lt;br&gt;&lt;br&gt;양씨는 최후 진술에서 “(임신 사실을 알렸을 당시) 오빠(손흥민)가 혼자 오라고 해서 갔지만 각서가 준비돼 있었다”며 “수술 인증 사진을 보내라고 해서 보냈고, 휴대폰을 없애라고 해서 없앴다”고 말하며 울먹였다. 이어 “손흥민의 피해를 막기 위해 노력했다”고 했다. &lt;br&gt;&lt;br&gt;용씨 측은 “깊이 반성하고 재범하지 않을 것을 다짐한다”며 선처를 요청했다. &lt;br&gt;&lt;br&gt;양씨는 작년 6월 손흥민에게 태아 초음파 사진을 보내며 임신 사실을 주장하고 3억원을 갈취한 혐의를 받는다. 남자친구인 용씨와 함께 올해 3~5월 임신과 낙태 사실을 언론에 폭로하겠다고 협박해 7000만원을 추가로 갈취하려다 미수에 그친 혐의도 있다. &lt;br&gt;&lt;br&gt;양씨는 최초 다른 남성에게 임신 사실을 알리며 금품을 요구하려 했으나 해당 남성이 별다른 대응을 하지 않자 손흥민에게 그의 아이를 임신한 것처럼 말하며 금품을 요구한 것으로 조사됐다. 또 양씨는 갈취한 돈을 모두 탕진해 생활고에 시달리게 되자 연인 관계가 된 용씨를 통해 재차 손흥민을 상대로 금품 갈취를 시도한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;검찰은 지난 6월 양씨와 용씨를 구속 상태로 재판에 넘겼다. 손흥민은 지난 19일 두 사람의 재판에 증인으로 출석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘의정부 아파트 공사현장 추락사고’...하청업체  책임자 등 3명 입건 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/27/655K5MZL2VDOJC3YWQYAXB2KTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/655K5MZL2VDOJC3YWQYAXB2KTI/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:46:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부의 DL 건설 공사 현장에서 발생한 근로자 추락 사망사고와 관련, 경찰이 책임자 3명을 입건했다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 DL건설 하청업체 관계자 등 3명을 업무상과실치사 혐의로 입건했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;앞서 지난 8월 8일 의정부시 신곡동의 DL 건설 아파트 신축 공사 현장에서 50대 근로자 A씨가 약 6층 높이에서 추락해 숨졌다. &lt;br&gt;&lt;br&gt;DL건설 하청업체 소속 근로자인 A씨는 아파트 외벽에 설치된 추락 방지용 그물을 제거하다가 떨어진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이에 경찰은 해당 사고와 관련해 지난 8월 20일 오전 DL건설 본사와 건설현장 사무실 등을 총 4곳을 대상으로 압수수색에 나섰다. &lt;br&gt;&lt;br&gt;현재까지 경찰은 압수수색으로 확보한 자료를 분석 중이다. 경찰 관계자는 “압수물이 방대해 신속하게 분석하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>본지 ‘우크라이나 북한군 포로 인터뷰’ 관훈언론상</title>
+      <link>https://www.chosun.com/national/people/2025/11/27/U5FTR6ZKSNGHLBSWHCIKNZGBSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/27/U5FTR6ZKSNGHLBSWHCIKNZGBSE/</guid>
+      <dc:creator>서보범 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:35:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S2KRTRDO3ZB7VPGYH6LPGL5CK4.png"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;관훈언론상 심사위원회(위원장 문창극·윤영철)가 2025년도 제43회 관훈언론상을 발표했다. 국제 보도 부문에 본지 정철환 파리 특파원이 보도한 ‘“북에서 포로는 변절, 한국 가고 싶다” 전장서 붙잡힌 북한군 인터뷰’ 기사가 수상했다. 우크라이나 전장에서 생포된 북한군 두 명을 단독 인터뷰한 세계적 특종으로 평가됐다.&lt;br&gt;&lt;br&gt;사회 변화 부문엔 동아일보의 ‘누락: 당신의 아파트는 안녕하신가요’, 권력 감시 부문엔 JTBC의 ‘건진법사 게이트 추적 및 핵심 당사자 연속 인터뷰’가 선정됐다. 부산MBC의 ‘최초 보고, 노인 성폭력 실태’는 지역 보도 부문에서, KBS 시사기획 창의 ‘2216편 추적 보고서 2부작’은 저널리즘 혁신 부문에서 수상했다. 시상식은 내달 23일 낮 12시 서울 중구 한국프레스센터 20층 국제회의장에서 열린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5BOVN6BRRRH43BCTQUNAWICJ3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2월 19일자 본지에 실린 정철환 파리 특파원의 '"북에서 포로는 변절, 한국 가고 싶다" 전장서 붙잡힌 북한군 인터뷰' 기사. &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5BOVN6BRRRH43BCTQUNAWICJ3I.jpg?auth=8a6b4b9fea3ed2d6d6b4b5741215b98429b2584fe698304aa8668601433d5a75&amp;smart=true&amp;width=2052&amp;height=1278" type="image/jpeg" height="1278" width="2052">
+        <media:description type="plain">지난 2월 19일자 본지에 실린 정철환 파리 특파원의 '"북에서 포로는 변절, 한국 가고 싶다" 전장서 붙잡힌 북한군 인터뷰' 기사. </media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>대구시티투어 버스 타고 과거로 여행을… 연말까지 특별노선 운영</title>
+      <link>https://www.chosun.com/national/regional/2025/11/27/EFFVTBI5XFF5RLPZGVL44MJEGI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/27/EFFVTBI5XFF5RLPZGVL44MJEGI/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:37:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VZ2TBGT3ZBHKHPLR4UU3T4KE3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시티투어 특별노선 '시간을 걷는 대구 K-투어' 포스터./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구시는 대구시티투어 특별노선 ‘시간을 걷는 대구 K-투어’를 오는 30일부터 12월 31일(매주 일요일 제외)까지 운영한다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;K-컬처와 레트로 감성을 동시에 즐길 수 있는 이번 특별노선은 대구의 역사적 깊이와 트렌디한 문화를 아우르는 중구 근대골목을 시작으로, 국립대구박물관, 대구도서관을 한 번에 둘러볼 수 있도록 구성했다. &lt;br&gt;&lt;br&gt;대구의 대표 도심 역사관광지인 근대골목에서는 겨울철을 대비해 실내 중심으로 구성한 ‘대구읍성영상관’과 이인성 예술체험공간 ‘아루스’에서 전시를 관람하고, 청라언덕 관광센터에서는 ‘슈링클스 키링 만들기’ ‘셀프 책갈피 만들기’등을 체험할 수 있다. &lt;br&gt;&lt;br&gt;또 1928년 진골목에 문을 열어 70년간 전통을 유지하고 있는 대구의 사랑방이자 명소인 ‘미도다방’에서는 인기 메뉴인 쌍화차와 옛날 과자를 덤으로 제공한다. 국립대구박물관에서는 고(故) 이건희 삼성 회장이 기증한 석조물 257점을 전시 중인 ‘모두의 정원’과 특별전 ‘알록달록 동자상’을 통해 한국 전통 예술의 아름다움을 만날 수 있다. 옛 미군부대(캠프워크 헬기장) 터에 건립한 대구도서관에선 대구의 역사와 지식 복합문화공간을 경험할 수 있다. &lt;br&gt;&lt;br&gt;특별노선은 대구시티투어 누리집(www.daegucitytour.com) 등을 통해 사전 예약 후 이용할 수 있다. 요금은 성인 1만원, 중·고등학생 8000원, 경로·어린이·장애인 6000원이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“이재명 두 아들 군 면제” 페북 글 올린 이수정, 재판행</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/27/6PSPWOVMRBG5RHKLNLZYG2FOMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/6PSPWOVMRBG5RHKLNLZYG2FOMI/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 08:29:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7LFCDWUV4XSNPL2XJARTYTZJSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이수정 국민의힘 경기 수원정 당협위원장. photo 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 대선을 앞두고 자신의 소셜미디어에 ‘이재명 대통령(당시 더불어민주당 대선후보)의 두 아들이 군 면제를 받았다’는 글을 게시한 혐의를 받는 이수정 국민의힘 수원정 당협위원장(경기대 교수)이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;27일 법조계에 따르면 수원지검 공공수사부(부장 김현우)는 지난 25일 이 위원장을 공직선거법(허위사실공표) 및 정보통신망법(명예훼손) 위반 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;이 위원장은 21대 대선을 앞뒀던 지난 5월 28일 자신의 페이스북 계정에 “이 후보와 두 아들이 모두 군대 면제를 받았다”는 글을 게시했다가 민주당에게 고발 당했다.&lt;br&gt;&lt;br&gt;해당 글 내용과 달리 이 대통령의 두 아들은 모두 병역의무를 이행했다.&lt;br&gt;&lt;br&gt;당시 이 위원장은 글을 올렸다가 곧 삭제한 뒤 “온라인에 떠도는 정보를 10초 정도 공유했다가 잘못된 정보임을 확인하고 즉시 삭제한 일이다. 용서해 달라”고 했었다.&lt;br&gt;&lt;br&gt;이 위원장은 이날 자신의 페이스북을 통해 “평생을 연구자로 살아온 사람으로서 경위 여하를 불문하고 생업의 일선에서 최선을 다하시는 국민 여러분께 송구할 따름”이라고 했다. 그는 또 “신속한 삭제와 사과는 제가 허위임을 알면서도 의도적으로 게시한 것이 아님을 명백히 보여준다 할 것”이라며 “저의 행위는 후보자의 자질을 검증하기 위한 문제 제기였을 뿐, 정당한 이유 없이 상대를 깎아내리려는 비방 행위가 아니었다”고도 했다.&lt;br&gt;&lt;br&gt;이 위원장은 “앞으로 법정에서 이러한 사실관계와 법리를 충실히 소명하고, 정당한 판단을 받을 수 있도록 최선을 다해 다투어 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>미술품 중개상 “김상민, 김건희가 그림 받고 엄청 좋아하셨다고 해”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/27/2GKHOPISB5A3ZB7IYPY5NYMG4I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/2GKHOPISB5A3ZB7IYPY5NYMG4I/</guid>
@@ -810,15 +885,6 @@
       </media:content>
     </item>
     <item>
-      <title>“퇴물 연예인, 1억은 땡겨” 녹취 공개… 최정원 ‘상간남 소송’ 승소</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/KHXHZDOSAVG5XLJWYT2AEE3FXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/KHXHZDOSAVG5XLJWYT2AEE3FXA/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:30:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SIG6CELRKFEZPGRFE6B56S2VQU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 UN 출신 가수 겸 배우 최정원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 UN 출신 배우 최정원(44)이 상간남 의혹 소송에서 승소했다. 최정원은 판결문과 녹취록을 공개하며 향후 허위 사실 유포 등 2차 가해에 대해 강경 대응할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;최정원은 26일 인스타그램에 전날 진행된 손해배상 판결 선고와 명예훼손 관련 형사 소송 결과를 게시하고 “오랜 심리 결과에 따른 법원 판결은 제기된 상간 의혹을 받아들이지 않았으며 저는 상간남이 아니라는 점이 판결을 통해 확인됐다”고 말했다.&lt;br&gt;&lt;br&gt;또 “A씨가 퍼뜨린 상간남 등 허위 주장은 사실이 아니고 A씨가 자기 배우자에게 퍼뜨리도록 지시한 ‘최정원이 금전을 요구하며 만남을 요구했다’는 내용 또한 허위”라며 “판결에서 이와 같은 허위 내용을 퍼뜨리도록 지시한 행위(명예훼손 교사)가 유죄로 인정됐다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “2022년 민사 소송을 앞둔 A씨가 자기 부인에게 최정원에 대한 명예훼손을 교사하는 과정에서 나눈 대화 일부”라며 짧은 녹취록을 공개하기도 했다. 여기엔 A씨가 “변호사가 소송하면 보통 3000만~4000만원인데, 저 XX(최정원) 나름 퇴물 연예인이니까 1억원까지는 땡겨낼 수 있다더라”고 말하는 음성이 담겼다.&lt;br&gt;&lt;br&gt;최정원은 “2심 법원은 A씨의 명예훼손, 명예훼손 교사, 협박 혐의에 대해 벌금 300만원의 유죄 판결을 선고했다. 그 외의 명예훼손과 불법 행위 관련 여러 고소 건도 진행 중”이라며 “거론된 식사 자리는 지인 간 단순한 만남이었고 부적절한 관계는 존재하지 않았다”고 강조했다.&lt;br&gt;&lt;br&gt;이어 “그동안 사실과 다른 주장들과 무분별한 추측으로 인해 많은 오해와 2차 가해가 이어져 왔다”며 “향후 발생하는 2차 가해, 허위 사실 유포, 왜곡된 소문에 대해서는 법적 조치를 취할 예정이다. 남아 있는 절차에도 성실히 임하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 A씨는 2023년 1월 자기 아내 B씨와 최정원이 불륜을 저질렀다고 주장하며 최정원을 상대로 1억원의 손해배상 청구 소송을 제기했다. 당시 최정원은 “B씨는 예전 연인도 아니었고 어릴 때부터 가족끼리 친하게 지낸 동네 동생일 뿐”이라며 의혹을 반박했다.&lt;br&gt;&lt;br&gt;이후 서울고등법원은 지난 9월 A씨와 B씨 부부의 이혼 소송 항소심에서 최정원과 B씨의 관계는 부정행위에 해당하지 않는다고 판시했다. 당시 재판부는 “오히려 피고(A씨)가 원고(B씨) 등에게 강압적인 태도로 일관함으로써 혼인 관계가 파탄에 이르렀다고 봄이 타당하다”고 봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경희대, 세계 상위 1% 연구자 4명 선정...국내 종합대학 3위</title>
       <link>https://www.chosun.com/national/education/2025/11/26/LH6PRONPDJETZAYG7JI5YZ7LZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/26/LH6PRONPDJETZAYG7JI5YZ7LZ4/</guid>
@@ -826,64 +892,6 @@
       <description/>
       <pubDate>Wed, 26 Nov 2025 08:43:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOA6FDT6FREEZH4FDFLUQM3SG4.png"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 사회과학 분야에 이름을 올린 경희대 스마트관광원 구철모·정남호 교수, 교차 분야의 생물학과 배진우 교수, 컴퓨터 과학 분야 컴퓨터공학부 홍춘선 고황명예교수./경희대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경희대학교는 스마트관광원 구철모, 정남호 교수, 생물학과 배진우 교수, 컴퓨터공학부 홍충선 고황명예교수가 클래리베이트 애널리틱스(Clarivate Analytics)가 선정하는 ‘2025 세계 상위 1% 피인용 우수 연구자(Highly Cited Researcher·HCR)’로 선정됐다고 26일 밝혔다. 국내 종합 사립대학 3위에 해당하는 결과다.&lt;br&gt;&lt;br&gt;클래리베이트 애널리틱스는 매년 웹 오브 사이언스(Web of Science)의 데이터베이스를 활용해 연구 분야별 논문 피인용 횟수 상위 1%에 해당하는 연구자를 HCR로 선정한다. 올해는 총 22개 분야에서 전 세계 60국, 1300여 기관 6868명이 HCR로 선정됐다. 국내에서는 연구자 76명이 선정됐다.&lt;br&gt;&lt;br&gt;구 교수와 정 교수는 사회과학(Social Science) 분야에 이름을 올렸다. 구 교수는 ‘스마트관광’의 개념과 범위를 세계 최초로 정의한 연구자로 꼽히며 정 교수는 정보 기술 관리, 관광 행동, 심리, 관광 정보 등의 분야에서 국내외 학술지에 논문 200여 편을 발표했다. &lt;br&gt;&lt;br&gt;배 교수는 비만·당뇨를 개선할 수 있는 장내 미생물을 밝혀내며 교차 분야(크로스필드·Cross-Field)에서 선정됐다. 컴퓨터 과학(Computer Science) 분야에 선정된 홍 교수는 국제 저명 학술지에 논문 300여 편을 발표하며, 지난해 세계에서 가장 권위 있는 전기·전자·컴퓨터·통신 분야 학회인 IEEE 석학회원으로 선정됐다.&lt;br&gt;&lt;br&gt;한편 경희대는 최근 발표된 ‘2026 THE 세계대학평가(THE World University Ranking)’에서 세계 252위·국내 종합대학 5위를 기록했으며, QS(Quacquarelli Symonds)가 발표한 ‘2026 QS 아시아대학평가(QS Asia University Ranking)’에서 아시아 39위·국내 사립대학 5위에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“헌법의 불안정은 곧 헌정의 불안정” 서울대 대학원 총동창회 ‘헌법학’ 대학사 포럼 개최 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/HS4ESXP2G5FPDITTARXSOWJOXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/HS4ESXP2G5FPDITTARXSOWJOXI/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:34:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCKNXVINL7P5DSM5EEYWDJCKPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 관악구 서울대학교 정문의 모습. 2024.5.21/뉴스1 ⓒ News1 김진환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;26일 오후 서울대 대학원 총동창회는 ‘학파와 학풍, 헌법학’을 주제로 제23회 총동창회 대학사 포럼을 개최했다.&lt;br&gt;&lt;br&gt;서울대 대학원 총동창회는 매년 1946년 개교 이후 서울대 교수, 연구진들의 학문적 연구와 시도를 되짚고 학문의 현재와 미래에 대한 제언을 내리는 대학사 포럼을 개최하고 있다. 지난해에는 경제학을 주제로 대학사 포럼을 개최했다.&lt;br&gt;&lt;br&gt;이날 기조 연설을 맡은 성낙인 전 서울대 총장(법과대학 명예교수)은 “대한민국 헌법의 불안정은 곧 헌정의 불안정을 의미한다”며 “권위주의 시절에는 ‘헌법도 법이냐’는 조소를 들었지만 헌법학 이론을 펼쳐온 서울대 법대 헌법학자들이 있었기에 민주화 이후 민주주의 시대에 한국 헌법학은 튼튼한 과실을 거둘 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;이어 성 전 총장은 “특히 헌법학은 각자가 학문적으로 헌법 철학을 정립하는 과정이 필요하다”면서 “로스쿨 시대에 접어들며 실무의 중요성이 예전보다 훨씬 강조되지만 헌법학의 학문적 특성에 비춰본다면 다른 법학 분야보다는 더 넓은 시야를 갖고 조망하고 관조하는 자세가 필요하다”고 제언했다.&lt;br&gt;&lt;br&gt;헌법 전문가인 이효원 서울대 법과대학 교수는 “2009년 법학전문대학원이 설립된 이후 헌법학 연구가 학문의 영역이 아니라 직업 전문가로서의 변호사를 양성하는 직업 교육의 대상으로 인식되는 경향이 있다”며 “하지만 로스쿨에서도 수험헌법학 이외에 헌법이론과 실무 교육을 병행해 헌법 이론의 연구가 판례에 영향을 미칠 수 있도록 해야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;이 교수는 “결국 로스쿨 체제에서의 헌법학은 일반 대학원에서 학문적인 성과를 만들어가야 하고 교수들의 노력이 필요하다”면서도 “또한 일반 학부 학생들에게 헌법 강의를 하는 것도 필요한 변화”라고 했다.&lt;br&gt;&lt;br&gt;또한 이 교수는 “대한민국 헌법학의 정체성을 구체화하고 우리 고유의 헌법이론을 확립해야 한다”며 “대한민국 헌법학은 외국과 구별되는 특수한 역사적 경험을 바탕으로 발전됐다. 그 규범력을 실질화해야 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QO7AYWLVUBCC7FYEYXXMUKESKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 오후 서울대학교 관악캠퍼스 법학전문대학원에서 서울대 대학원 총동창회가 '헌법학'을 주제로 대학사 포럼을 열었다./서울대 대학원 총동창회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원택 서울대 정치외교학부 교수는 “최근 정치는 대표자들이 모여 사회 갈등을 해소하고 문제를 해결하기보다는 최종적인 법적 해석을 받아 판단을 받으려 한다”며 “이로 인해 정치는 왜소해지고 사법부는 부담을 갖고, 정치가 사법부에 영향을 미치려 하기도 한다”고 했다. 한국의 정치의 사법화·사법의 정치화 현상을 비판한 것이다.&lt;br&gt;&lt;br&gt;강 교수는 “법적 판단의 정치적 파장과 사법부의 부담을 이해하는 교육이 필수적”이라며 “정치학과 헌법학의 학문 간 협력은 정치·사법적 균형이 흔들리는 오늘날 더욱 필요한 교육 방향이라고 생각한다”고 제언했다.&lt;br&gt;&lt;br&gt;한편 김대환 서울시립대 법학전문대학원 교수는 “변호사 시험의 합격이 지상 과제로 된 로스쿨 체제에서 순수한 이론적 학풍이나 학파를 형성하고 유지하는 것은 결코 쉬운 일이 아니다”라며 “헌법학으로서는 이론과 실무의 경계 저편에 새로운 전략을 수립할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;김 교수는 “단순한 판례 교육을 넘어 판례의 논증 과정을 해부하는 학풍으로 전환되어야 한다”며 “판례의 비평을 넘어선 입법학적, 정책학적 헌법학으로의 전환이 필요하다”고 제언했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘양복·셔츠·목도리 수수’… 공감TV 대표, 전직 기자 등 4명 벌금형</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/GAWWA2OFA5CQPCTZ42XXOQ34EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/GAWWA2OFA5CQPCTZ42XXOQ34EU/</guid>
-      <dc:creator>남양주=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:04:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JN6YNZWC67DN357NFEZ3ZB4EYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지법 남양주지원/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;후원자로부터 고가 맞춤 양복 등을 제공받은 혐의로 기소된 열린공감TV 대표와 전직 기자 등이 벌금형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사2단독 심재광 판사는 26일 부정 청탁 및 금품 등 수수의 금지에 관한 법률(청탁금지법) 위반 혐의를 받는 열린공감TV 대표인 A씨에게 벌금 1000만원을 선고했다.&lt;br&gt;&lt;br&gt;또 같은 혐의로 기소된 전직 기자 B씨에게는 벌금 800만원에 추징금 680만원이, 또 다른 전직 기자 C씨 등 2명에게는 벌금 300만원에 추징금 300만원이 선고됐다. &lt;br&gt;&lt;br&gt;이들에게 고가의 맞춤 양복을 선물한 후원자는 선고유예 처분을, A씨 등과 함께 고가의 양복을 받은 프리랜서 D씨는 청탁금지법 적용 대상에 해당하지 않는다는 판단에 따라 무죄를 선고받았다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2022년 4월 후원자로부터 300만원 상당의 맞춤 양복을 받은 혐의다. A씨는 양복 외에도 명품 셔츠와 목도리를 받은 혐의도 받는다. &lt;br&gt;&lt;br&gt;청탁금지법에 따르면 언론사로 등록된 기관의 기자 등 언론인은 1회 100만원 또는 매 회계연도 합산 300만원을 초과하는 금품을 수수하면 처벌된다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들의 범행은 언론의 공정성과 사회 일반의 신뢰를 저해하는 것으로써 죄질이 불량하다”며 “잘못을 뉘우치기보다 책임을 떠넘기고 부인하는 태도로 일관해 비난 가능성도 크다”고 했다.&lt;br&gt;&lt;br&gt;이 사건은 열린공감TV 구성원들의 내부 갈등이 불거지며 외부에 알려졌으며, 한 시민이 신고해 국가권익위원회를 거쳐 수사가 시작됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법정 모욕혐의 김용현 전 장관 변호인 수사 착수 “법정 소란, 사법질서 훼손”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/52ZS3QP2DVC6ZAWH3G5PLD6OGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/52ZS3QP2DVC6ZAWH3G5PLD6OGA/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:03:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5WJ5BGXGDDC5ZQKL75LEXDGVLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대통령 탄핵심판 증인 출석한 김용현 전 국방부장관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 김용현 전 국방부 장관의 변호인들이 법정을 소란케 하고 재판부를 모욕했다는 의혹과 관련해 수사에 착수했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 이날 법원행정처가 김 전 장관의 대리인인 이하상·권우현 변호사를 법정모욕 등 혐의로 고발한 사건이 서울 서초경찰서에 접수됐으며, 이를 서울경찰청 공공범죄수사대로 배당했다고 밝혔다. 경찰은 “법정 내 소란행위는 법원의 재판 기능과 사법절차의 안정성을 위협하고 헌법적 질서를 훼손하는 중대한 범죄”라며 “법치주의와 사법절차의 신뢰 보호를 위해 법과 원칙에 따라 신속하고 엄정하게 수사할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;이번 고발은 한덕수 전 국무총리의 내란 방조 재판에서 변호인들의 법정 소란과 이후 유튜브 방송에서의 조롱·비난 발언에서 비롯됐다. 천대엽 법원행정처장은 두 변호사를 법정모욕·명예훼손 혐의로 경찰에 고발했고, 서울중앙지법도 법원 심리를 방해하고 재판장을 인신공격했다는 이유로 대한변호사협회와 서울지방변호사회에 징계를 요청했다.&lt;br&gt;&lt;br&gt;두 변호사는 지난 19일 서울중앙지법 형사33부 심리에서 증인으로 출석한 김 전 장관의 ‘동석’을 요구했으나, 재판부가 “형사소송법상 범죄 피해자에 해당하지 않는다”며 불허하자 방청석에서 계속 발언을 시도하다 퇴장당했다. 재판부는 별도 감치 재판을 열어 감치 15일을 선고했지만, 두 사람이 신원 확인을 거부해 집행이 불능 상태가 되면서 석방됐다. 이들은 석방 당일 유튜브 채널 ‘진격의 변호사들’에 출연해 재판부를 조롱하는 발언을 이어갔고, 법원행정처는 이를 “사법 질서 전반에 대한 중대한 모욕”이라고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘꿈돌이’ 캐릭터 활용 반려동물 간식… ‘꿈돌이 닥터몽몽’ 내달 출시</title>
-      <link>https://www.chosun.com/national/regional/2025/11/26/BP7X3C6YPNGA7MLIA2D6KT6FEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/26/BP7X3C6YPNGA7MLIA2D6KT6FEI/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:08:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PRC6ZMUI4VCMJIOR7D6VYVKBEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전시는 26일 대전관광공사, 인섹트바이오텍과 '꿈돌이 닥터몽몽' 출시를 위한 공동브랜딩 업무협약을 체결했다. 왼쪽부터 박호용 인섹트바이오텍 대표, 이장우 대전시장, 김용원 대전관광공사 사장. /대전시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대전의 대표 캐릭터 ‘꿈돌이’를 활용한 반려동물용 간식이 다음달 출시된다.&lt;br&gt;&lt;br&gt;대전시는 26일 시청 응접실에서 대전관광공사, 인섹트바이오텍과 ‘꿈돌이 닥터몽몽’ 출시를 위한 공동 브랜딩 업무협약을 맺었다.&lt;br&gt;&lt;br&gt;꿈돌이 가족의 반려견인 몽몽이를 위한 간식이라는 의미를 담은 제품이다. 인섹트바이오텍이 개발한 자연 유래 단백질 분해효소 기술을 반려동물 간식 제조공정 단계에 적용해 기호성과 식감 등을 살린 것이 특징이다.&lt;br&gt;&lt;br&gt;인섹트바이오텍은 대전 대덕특구 내 한국생명공학연구원 출신 연구진이 2000년 설립한 바이오 벤처기업이다. 유성구 전민동에서 산업용 효소·사료첨가제·화장품 소재 등을 개발해 공급하고 있다.&lt;br&gt;&lt;br&gt;이장우 시장은 “반려동물 관련 산업은 미래 전략산업으로 빠르게 성장하고 있다”며 “대전의 바이오기업과 함께 하는 반려동물 간식은 대전다움의 새로운 방식이 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;꿈돌이 닥터몽몽은 다음달 중 꿈돌이와 대전여행, 꿈돌이 하우스, TJ마트 등 대전 내 공공 판매처와 인섹트바이오텍 공식 홈페이지에서 우선 판매될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“아버지 돌아가셨어요”… 가짜 문자로 120억원 뜯은 일당</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/S33IGFAFOBGW3KZIIQVOAHAVJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/S33IGFAFOBGW3KZIIQVOAHAVJU/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 05:39:01 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WK4KESECJFHNHBFYOCCURTOQCA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;악성앱 설치 링크가 포함된 가짜 청첩장, 과태료 고지서 등을 문자로 보내 개인정보를 빼내는 수법으로 120억원을 가로챈 스미싱 조직이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 중국인 총책 A씨 등 13명을 정보통신망법, 통신사기피해환급법 위반 등의 혐의로 검거하고 전원 송치했다고 26일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 지난 2023년 7월부터 2년간 청첩장, 부고장, 과태료 고지서 등으로 위장한 가짜 메시지를 악성 링크와 함께 보내는 ‘스미싱’ 방식을 사용한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨 등은 중국 상해를 거점으로 두고 활동했다. 피해자가 링크를 누르고 접속하면 휴대폰 권한을 빼앗아 그들의 명의로 된 휴대폰 유심을 개통했다. 이렇게 본인인증 수단을 확보한 뒤 피해자들의 금융계좌∙가상자산 거래소 계정에서 돈을 빼내는 수법을 사용했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/26TOS62LH5CXHOAP3ILBRLEPMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 현장에서 압수한 범행 도구./서울경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이런 방식으로 당한 피해자만 1000여명이다. 이들 중 다수는 디지털 기기에 익숙하지 않은 중∙장년층이다. 피해금액은 약 120억원으로 국내 최대 규모 스미싱 조직 사건이라고 경찰은 설명했다. &lt;br&gt;&lt;br&gt;경찰은 피해자 명의 휴대전화와 방범카메라 등을 추적해 수도권 아울렛 주차장에서 범행이 이뤄지는 것으로 파악했다. 차량 내에서 신분증 위조, 금융기관 앱 침입 등을 벌이던 일당을 현장에서 붙잡고 휴대전화 공기계 15대와 현금 4500만 원도 압수했다. 아울렛 주차장에서 범행한 이유에 대해 경찰은 “경찰 추적을 피할 목적도 있고, 차를 사무실로 쓰다 보니 화장실 이용 등 장점을 고려한 것으로 보인다”고 설명했다.&lt;br&gt;&lt;br&gt;경찰은 중국에서 범행을 지시한 해외 총책 2명에 대해 인터폴 적색수배 조치를 하는 등 국제공조 수사를 이어가고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/26TOS62LH5CXHOAP3ILBRLEPMA.jpg?auth=232c6c97ed5c1de50aa01607c77842b15e4fd7cf088b2c2ff1c02ee6b1809612&amp;smart=true&amp;width=1440&amp;height=1080" type="image/jpeg" height="1080" width="1440">
-        <media:description type="plain">경찰이 현장에서 압수한 범행 도구./서울경찰청</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세]  11월 27일 목요일 (음력 10월 8일 庚子)</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/VPBAEMUXBZCEJK7M4PIIATEAKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/VPBAEMUXBZCEJK7M4PIIATEAKI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>특검, 한덕수에 징역 15년 구형... “45년전 내란보다 더 국격 손상”</title>
@@ -902,15 +910,6 @@
       <description/>
       <pubDate>Wed, 26 Nov 2025 05:27:11 +0000</pubDate>
       <content:encoded>검찰이 설탕 가격을 담합해 3조원대 이익을 챙긴 제당업체 관련자들을 무더기로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDKYJZGQ4TCZBVHE2DIOJWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰이 '설탕 담합' 의혹을 받는 제당업체 관련자들을 26일 무더기 기소했다. 사진은 서울 도심의 한 대형마트에 설탕이 진열되어 있는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공정거래조사부(부장 나희석)는 26일 CJ제일제당·삼양사·대한제당의 설탕 가격 담합 사건과 관련해 총 13명을 기소했다고 밝혔다. 제일제당 전 대표 A씨와 삼양사 대표이사 B씨는 구속 기소됐고, 나머지 9명은 불구속 상태로 재판에 넘겨졌다. 소속 직원이 위법 행위를 하면 법인도 함께 처벌하는 양벌규정에 따라 CJ제일제당과 삼양사 법인도 기소됐다. 이들은 모두 공정거래법 위반 혐의를 받는다. 검찰 수사에 협조한 대한제당은 ‘리니언시(자진 신고자 감면 제도)’ 제도에 따라 재판에 넘겨지지 않았다.&lt;br&gt;&lt;br&gt;일명 ‘설탕 담합’이라 불리는 이 사건은 국내 설탕시장을 과점하는 제당 3사가 2021년 2월부터 올해 4월까지 약 4년 간 국내 설탕 가격 변동 여부와 변동 폭 등을 합의했다는 내용이다. 중앙지검은 “범행 기간 동안 설탕가격은 최고 66.7%까지 인상됐다가, 이후 원당가 하락요인이 발생했음에도 소폭 인하에 그쳤다”고 지적했다. 검찰이 파악한 담합 규모는 3조2715억원이다.&lt;br&gt;&lt;br&gt;담합의 결과로 설탕가격 상승률은 전체 물가지수 상승폭을 훨씬 웃돌았다. 중앙지검에 따르면 2020~2024년 설탕가격 상승률은 59.7%로, 같은 시기 물가지수 상승폭(14.18%)보다 4배 이상 높았다.&lt;br&gt;&lt;br&gt;검찰은 지난 9월 사건을 접수한 후 업체 및 관계자들에 대한 압수 수색을 해 관련 자료를 확보했다. 공정위에도 고발 요청권을 행사해 세 차례에 걸쳐 고발장을 접수했다. 지난 19일엔 A·B씨에 대한 구속영장이 발부돼 이들의 신병을 확보했다.&lt;br&gt;&lt;br&gt;중앙지검은 “향후에도 경쟁질서를 해쳐 국가 경제를 교란하는 각종 공정거래사범에 대해 법과 원칙에 따라 적극 대응하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조은석 특검 “檢, 감사원 수사요청서 공개하라”... 1심서 각하</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/26/HOONS5JVIJFW5OIZ6NY6GBN7DA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/HOONS5JVIJFW5OIZ6NY6GBN7DA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 05:33:43 +0000</pubDate>
-      <content:encoded>조은석 내란 특별검사가 감사위원 재직 당시 검찰을 상대로 감사원의 수사요청서를 공개하라며 낸 소송이 1심에서 각하됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FZNIREQ3D3AXN4LA5LLQKWAE4M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12·3 비상계엄 선포와 관련한 내란 사건을 수사하는 조은석 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12단독 공현진 부장판사는 조 특검이 서울중앙지검을 상대로 낸 정보공개 거부 처분 취소 소송에서 각하 판결했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;감사원은 지난 2023년 전현희 전 국민권익위원장(현 더불어민주당 의원)을 감사하는 과정에서 주심 감사위원이었던 조 특검이 감사보고서 일부를 임의로 삭제하고 의결을 지연시켰다며 검찰에 수사를 요청했다.&lt;br&gt;&lt;br&gt;이후 조 특검은 “감사원이 검찰에 제출한 수사요청서를 보여달라”며 서울중앙지검에 정보공개 청구했는데 받아들여지지 않자, 특검 임명 약 열흘 전인 지난 6월 5일 소송을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>제주 오름서 불법 야영에 고기도 구워 먹었다… 얌체 캠핑족에 몸살</title>
