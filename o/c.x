@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>여인형 “군인들한테 체포·검거는 입에 밴 말”… 체포조 운영 의혹 반박</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/27/3YBD4XL6LJHGRO4EF573O4IMAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/3YBD4XL6LJHGRO4EF573O4IMAE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 13:32:00 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 당시 ‘정치인 체포조’ 운영 의혹을 받는 여인형 전 방첩사령관이 27일 윤석열 전 대통령의 내란 혐의 재판에 증인으로 나와 해당 의혹을 반박하는 취지로 증언했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 전 대통령의 내란 우두머리 사건 재판을 열고 여 전 사령관을 재차 소환했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 이날 재판에서 체포조 운영 의혹과 관련해 “군인들은 체포, 검거, 공격해, 쳐부숴 같은 말은 입에 배어 있다”며 “저도 모르게 한 말이 있고, 저도 나중에 보니까 ‘이때 이런 말을 왜 썼지’ 싶은 말도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WMZLGGU2DMZJZGY4WMMTDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 내란 재판 증인 출석한 여인형&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측도 계엄 당시 체포조 운영은 없었다는 취지의 증언을 끌어내는 데 주력했다. 윤 전 대통령 측은 계엄 당시 체포 대상자를 들었다는 여 전 사령관, 김대우 전 방첩사 수사단장 등의 메모에 적힌 이름이 다소 차이가 있다는 점을 언급하면서 “한 사람으로부터 지시가 내려온 거면 명단이 같아야 하는데 여기저기 흘러다니는 것을 종합하다 보니 다른 것 아니냐”고 했다. 이에 여 전 사령관은 “(국방)장관한테 들었다. 끄적끄적 썼고 김대우한테 불러줬고 김대우는 돌아가서 화이트보드에 적어놨다”고 했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 또 계엄 당시 경찰과 국방부 조사본부에 100명씩을 요청한 것에 대해서 “엄청나게 당황해서 실수한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령도 직접 신문에 나섰다. 윤 전 대통령은 계엄 당시 국회 등에 대규모 군 병력을 투입할 의도가 없었다고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “계엄 전 강호필 대장을 합참 차장에서 지작사령관으로 보냈는데, 강 대장은 정무적으로 대통령의 시국에 대한 관점과는 다른 생각을 갖고 잇는 사람”이라면서 “계엄 전 (강 대장을) 육군 병력의 70%를 관할하는 지작사령관으로 보낸 건, 계엄을 하더라도 대규모 병력 투입은 안중에도 없었다는 걸 의미하지 않느냐”고 했다. 여 전 사령관도 “상식적으로 맞는다”며 동조했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 증인으로 나온 김봉식 전 서울경찰청장에게는 “국회에 (경찰) 300~700명으로 국회를 봉쇄하고 통제한다는 건 코미디 같은 얘기 아니냐”고 했다. 국회 봉쇄 조치를 하기에는 너무 적은 숫자라는 것이다. 김 전 청장은 “제대로 된 (국회) 차단과 봉쇄를 하려면 3500명은 필요하다”며 동조하는 취지로 답했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 계엄 당시 포고령 발동 후 일부 국회의원들의 출입이 제한된 점에 대해서도 언급했다. 윤 전 대통령 측은 “2차 출입 통제 당시 원래의 목적은 아니었지만 결과적으로 일부 의원들의 출입이 차단된 것은 맞는 걸로 보이는데, 계엄 해제 요구안이 가결되는 것을 막기 위한 의도로 (의원 출입을) 차단한 것은 아니지 않았나”고 물었다.&lt;br&gt;&lt;br&gt;김 전 청장은 이에 “그 당시에는 포고령을 따라야 하는지 말아야 하는지 논란이었다”며 “결과적으로 그 과정에서 국회의원들이 (국회에) 못 들어간 부분에 대해선 굉장히 후회되고 전적으로 제 판단에 문제가 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>44일 만에 싸늘한 주검으로... 청주 실종 50대 여성 前 연인 자백</title>
+      <link>https://www.chosun.com/national/incident/2025/11/27/G6O7VW6APFDRLJVXREY2DTDQRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/27/G6O7VW6APFDRLJVXREY2DTDQRQ/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 11:55:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONB2IXSRTBOXHOTEPCR6YUE5ZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난26일 오후 충북 충주호에서 장기 실종 여성의 SUV 차량이 인양되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 실종된 50대 여성 A씨가 실종 신고 44일 만에 싸늘한 주검으로 발견됐다. &lt;br&gt;&lt;br&gt;27일 충북경찰청 등에 따르면 이날 오후 8시쯤 음성군의 한 폐기물 업체에서 실종자 A씨의 시신이 발견됐다. 시신은 마대에 담겨 있었던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 경찰은 지난 26일 A씨를 살해한 혐의(폭행치사)로 전 연인 김모(54)씨를 긴급체포했는데, 김씨로부터 시신 유기 장소를 자백받았다. &lt;br&gt;&lt;br&gt;김씨는 경찰에 “A씨를 살해한 뒤 시신을 거래처에 유기했다”고 진술했고, 경찰은 김씨가 지목한 폐기물 업체를 수색해 A씨를 발견했다고 한다. &lt;br&gt;&lt;br&gt;A씨는 지난달 14일 오후 6시 30분쯤 청주시 흥덕구의 한 회사에서 자신의 SUV 차량을 타고 퇴근한 뒤 실종됐다. 이후 같은 달 16일 “혼자 사는 어머니와 낮에 통화한 이후 연락이 되지 않는다”는 자녀의 신고를 받은 경찰이 A씨 소재 파악에 나섰다. A씨의 실종 당일 저녁 휴대전화 위치값은 옥산면의 한 야산 일대로 나타났다.&lt;br&gt;&lt;br&gt;경찰은 김씨를 유력한 용의자로 지목하고 지난 26일 오전 11시 47분쯤 진천군 진천읍의 한 식당 주차장에서 그를 검거했다. 경찰은 김씨를 충북경찰청으로 압송해 구체적인 범행 경위와 A씨 소재 등을 추궁한 끝에 27일 범행을 자백받았다. 경찰은 A씨에 대한 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초미세먼지로 초과 사망한 사람 5년간 2800명</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/11/27/E6VCW3S36RARRBOBJBWC4CFJL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/27/E6VCW3S36RARRBOBJBWC4CFJL4/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 12:16:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY4TGMRQMFSDAY3FGUZTMMLBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 등 수도권 지역에 초미세먼지 주의보가 내려진 25일 오전 서울 시청역 일대에서 우산을 쓴 시민들이 비오는 출근길 발걸음을 옮기고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;초미세먼지(PM2.5)가 심장에 악영향을 끼칠 뿐 아니라, 국내에서 5년간 미세먼지로 인한 심장병 사망자가 2800명을 넘는다는 연구 결과가 나왔다.&lt;br&gt;&lt;br&gt;홍윤철 서울대병원 공공진료센터 교수 연구팀은 2016~2020년 서울 시내 초미세먼지 농도와 25세 이상 성인의 사망률 데이터 등을 토대로 대기오염 건강 영향 평가를 진행한 결과, 이 같은 사실을 확인했다고 27일 밝혔다. 연구 결과는 지난달 국제 학술지 ‘BMC 공중보건’에 게재됐다.&lt;br&gt;&lt;br&gt;이에 따르면 해당 기간 서울의 초미세먼지 연평균 농도는 23.5㎍(마이크로그램·100만분의 1g)/㎥을 기록했다. 환경부 기준치(15㎍/㎥)를 50% 이상 웃도는 양이다.&lt;br&gt;&lt;br&gt;해당 기간 25세 이상 허혈성 심장 질환 사망자는 1만971명이었는데, 연구팀은 이 중 초미세먼지 노출로 인한 ‘초과’ 사망자가 2861명인 것으로 추산했다. 허혈성 심장 질환은 심장에 혈액을 공급하는 통로 역할을 하는 관상동맥이 좁아지거나 심장 근육이 망가지는 질환이다. 협심증·심근경색이 여기에 속한다.&lt;br&gt;&lt;br&gt;연구팀의 추산에 따라 인구 10만명당 초과 사망률을 계산하면 38.6명에 이른다. 특히 45세 이상에선 56.2명, 65세 이상에선 139.8명이 초과 사망한 것으로 나타나 고령일수록 대기 오염에 취약한 것으로 나타났다. 연구팀은 초미세먼지 농도를 환경부 기준치(15㎍/㎥)까지 낮추면 5년간 25세 이상 허혈성 심장 질환 사망자를 837명 줄일 수 있을 것으로 추정했다. 연구팀은 “대기 중 초미세먼지 농도를 기준치로 낮추면 허혈성 심장 질환 사망을 8%가량 낮출 수 있을 것”이라며 “특히 고령화 사회에서 선제적인 대기질 개선은 공중 보건에 더 큰 이점을 가져올 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“도주 우려”... 포천서 16개월 영아 사망케 한 친모·계부 구속</title>
+      <link>https://www.chosun.com/national/incident/2025/11/27/KNNYLOYO2RHUDEGGKPYQ6CNTMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/27/KNNYLOYO2RHUDEGGKPYQ6CNTMA/</guid>
+      <dc:creator>김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 10:36:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S7IKEHF4G5O73B4VJTOOGXRMOA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 경기도 의정부시 가능동 의정부지방법원에서 아동학대살해 혐의로 구속영장이 청구된 친모 A(25)씨가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 포천에서 16개월 영아가 숨진 사건과 관련해 긴급 체포된 영아의 친모와 계부가 구속됐다. &lt;br&gt;&lt;br&gt;의정부지법은 27일 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 혐의를 받고 있는 친모 A(25)씨와 계부 B(33)씨에 대해 “도망할 염려가 있다”며 구속영장을 발부했다. 앞서 이들은 이날 오전 10시 30분부터 시작된 구속 전 피의자 심문(영장실질심사)에 출석하면서 모자와 마스크로 얼굴을 가린 채 고개를 숙였다. 이들은 “혐의 인정하시나”, “아기가 사망할 거라고 생각 못 했나”, “어떻게 자식을 학대했느냐” 등 취재진의 질문에 아무런 대답도 하지 않고 법원 안으로 들어갔다.&lt;br&gt;&lt;br&gt;두 사람은 지난 23일 오후 6시 42분쯤 경기 포천시 선단동 한 빌라에서 16개월 된 C양을 학대해 숨지게 한 혐의를 받고 있다. 당시 A씨는 “아이가 밥을 먹다가 숨을 쉬지 않는다”고 119에 신고했다. C양은 심정지 상태로 발견돼 병원으로 옮겨졌으나 치료 중 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY5C3UBCOBKJFHAMGQ2MLJRGVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오전 경기도 의정부시 가능동 의정부지방법원에서 아동학대살해 혐의로 구속영장이 청구된 계부 B씨(33)가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;병원 측은 C양의 몸 곳곳에서 여러 상흔을 확인하고 아동 학대 의심 신고를 했다. 경찰은 부검 결과 C양의 사인이 외상성 쇼크로 추정된다는 국립과학수사연구원 소견을 확보한 뒤 지난 25일 A씨와 B씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 전 남편 사이에서 C양을 낳았으며, 현재 임신 8개월 상태로 사실혼 관계인 B씨와 함께 거주 중인 것으로 조사됐다. A씨는 “키우는 개와 놀다 생긴 상처”라며 학대 혐의를 부인했고, 두 사람 모두 긴급 체포 이후에도 혐의를 인정하지 않고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“술타기 했다” “흉기 대신 빵칼 들었다”... 위증 사범 11명 기소</title>
+      <link>https://www.chosun.com/national/regional/2025/11/27/IUMGJMK2KNFTXM7FAOANVM2UTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/27/IUMGJMK2KNFTXM7FAOANVM2UTY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 27 Nov 2025 10:19:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VOA7XACD5BFTDIAIK2BYPANTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산지검 동부지청./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전 처벌을 피하고자 ‘술 타기’를 했다고 허위 증언을 시킨 변호사 사무장과 흉기 대신 빵칼을 들었다고 거짓 자백을 강요한 피고인 등 11명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 동부지청은 올 10~11월 위증과 위증교사 혐의를 받는 11명을 불구속 기소했다고 27일 밝혔다. 검찰이 최근 공판 과정에서 거짓으로 증언하는 위증 사범을 ‘사법 질서 방해 사범’으로 규정해 두 달간 집중 수사를 벌인 결과다.&lt;br&gt;&lt;br&gt;변호사 사무장인 A씨는 지인 B씨의 음주 사건을 수임한 뒤 그의 처벌을 피하기 위해 음주 측정 직전 술을 더 마시는 이른바 ‘술 타기’를 했다고 법정에서 허위로 증언할 것을 동석자들에게 교사한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;특수강도 사건의 피고인 C씨는 당시 범행 현장에 있었던 D씨에게 법정에서 흉기가 아닌 빵칼을 들었다는 거짓 진술을 시킨 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 외에도 마약과 불법 촬영, 보험 사기 등 총 7건의 사건에서 범행에 대해 거짓 증언을 시키고, 거짓 증언을 한 위증 사범들이 잇따라 검찰에 적발됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “국민의 신뢰와 공정성을 위협하는 사법 질서 방해 사범을 철저히 수사해 바르고 투명한 형사사법 체계가 확립될 수 있게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘패스트트랙 충돌’ 1심 벌금형 황교안·곽상도·김선동 등 일부 항소 </title>
       <link>https://www.chosun.com/national/national_general/2025/11/27/HEJCHOYJBNH7BAZAPWHFIHD2VQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/HEJCHOYJBNH7BAZAPWHFIHD2VQ/</guid>
@@ -782,25 +827,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBWGSUPEHFPNBC7PBE4UN7AF6M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;26일 서울 마포구 서울서부고용복지플러스센터에서 어르신이 일자리를 찾고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 노인들이 경제협력개발기구(OECD) 회원국 중 가장 늦게까지, 가장 많이 일하는 것으로 나타났다. ‘일하는 즐거움’보다는 ‘생존을 위한 몸부림’ 때문이라는 분석이 나온다. &lt;br&gt;&lt;br&gt;26일 국민연금연구원 오유진 주임연구원의 ‘국민연금과 고령자 노동 공급’ 보고서에 따르면 한국의 65세 이상 고용률은 37.3%(2023년 기준)로, OECD 평균인 13.6%를 훌쩍 뛰어넘어 회원국 중 1위를 기록했다. 한국보다 먼저 초고령 사회에 진입한 일본(25.3%)보다도 훨씬 높은 수치다. &lt;br&gt;&lt;br&gt;통계청 조사 결과 한국의 고령층이 희망하는 근로 연령은 평균 73.4세에 달했다. 이들이 계속 일하려는 가장 큰 이유는 ‘생활비에 보탬이 되기 위해서’(54.4%)였다. ‘일하는 즐거움’(36.1%)이나 ‘무료함 달래기’(4.0%)보다 생계형 근로의 비율이 압도적으로 높았다. &lt;br&gt;&lt;br&gt;보고서는 턱없이 부족한 공적연금 수준을 이러한 현상의 근본 원인으로 꼽았다. 2024년 기준 국민연금 평균 수령액은 약 66만원으로, 같은 해 1인 가구 월 최저생계비 134만원의 절반에도 미치지 못한다. 연금만으로는 생계 유지가 불가능하기 때문에 일을 손에서 놓을 수 없는 구조인 셈이다. &lt;br&gt;&lt;br&gt;법적 정년과 실제 퇴직 연령 사이의 괴리에서 오는 ‘소득 공백기’도 문제다. 현재 법적 정년은 60세지만, 주된 일자리에서의 평균 퇴직 연령은 52.9세(2025년 기준)에 불과하다. 반면 국민연금을 받기 시작하는 나이는 1961~64년생의 경우 63세, 1969년생 이후부터는 65세로 점차 늦춰지고 있다. 직장에서 물러난 뒤 연금을 받기까지 최소 10년 이상을 버텨야 한다는 의미다. &lt;br&gt;&lt;br&gt;오유진 주임연구원은 과거 해외 연구들이 ‘공적연금이 고령자의 근로를 줄이고 은퇴를 앞당긴다’고 결론 내린 것과 달리, 최근 한국 연구들의 결론은 ‘국민연금이 노동 공급을 감소시키는 효과가 없거나 미미하다’는 것이라고 밝혔다. 한국의 연금 급여액이 낮아 연금 수급 여부가 은퇴 결정에 결정적인 영향을 미치지 못하기 때문이다. &lt;br&gt;&lt;br&gt;한국의 고령자들은 연금이 있어도 일해야 하고, 연금이 나올 때까지 기다리기 위해서라도 일해야 하는 상황이다. 보고서는 “인구 감소로 인한 노동력 부족 문제를 해결하기 위해서라도 고령층 노동력을 적극적으로 활용해야 한다”고 제언했다. 단순히 정년을 연장하는 논의를 넘어 50대 초반에 주된 일자리에서 밀려나는 현실을 개선하고, 연금 수급 전까지의 소득 공백을 메울 수 있는 양질의 일자리 정책이 시급하다고 보고서는 지적했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>포천서 16개월 영아 사망… 경찰, 친모·계부 구속영장 신청</title>
-      <link>https://www.chosun.com/national/regional/2025/11/26/WDU24OTULZHBPF2SPFIZG2A4XA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/26/WDU24OTULZHBPF2SPFIZG2A4XA/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description>경기 포천에서 16개월 영아가 숨진 사건과 관련해 경찰이 친모와 계부에 대해 구속영장을 신청했다.
-경기북부경찰청 여성청소년수사계는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 혐의로 친모 A(25)씨와 계부 B(33)씨에 대해 구속영장을 신청했다고 26일 밝혔다.</description>
-      <pubDate>Wed, 26 Nov 2025 12:36:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 포천에서 16개월 영아가 숨진 사건과 관련해 경찰이 친모와 계부에 대해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;경기북부경찰청 여성청소년수사계는 아동학대 범죄의 처벌 등에 관한 특례법상 아동학대살해 혐의로 친모 A(25)씨와 계부 B(33)씨에 대해 구속영장을 신청했다고 26일 밝혔다.&lt;br&gt;&lt;br&gt;두 사람은 지난 23일 오후 6시 42분쯤 경기 포천시 선단동 한 빌라에서 16개월 된 C양을 학대해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;당시 A씨는 “아이가 밥을 먹다가 숨을 쉬지 않는다”고 119에 신고했다. C양은 심정지 상태로 발견돼 병원으로 옮겨졌으나 치료 중 숨졌다.&lt;br&gt;&lt;br&gt;병원 측은 C양의 몸 곳곳에서 여러 상흔을 확인하고 아동학대 의심 신고를 했다.&lt;br&gt;&lt;br&gt;경찰은 부검 결과 C양의 사인이 외상성 쇼크로 추정된다는 국립과학수사연구원 소견을 확보한 뒤 지난 25일 A씨와 B씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 전 남편 사이에서 C양을 낳았으며, 현재 임신 8개월 상태로 사실혼 관계인 B씨와 함께 거주 중인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 “키우는 개와 놀다 생긴 상처”라며 학대 혐의를 부인했고, 두 사람 모두 긴급 체포 이후에도 혐의를 인정하지 않고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이들 부부에 대한 구속 전 피의자 심문(영장실질심사)은 이르면 27일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>수원 권선구 중앙자동차매매단지서 불… 소방당국 “진화 중”</title>
-      <link>https://www.chosun.com/national/regional/2025/11/26/4YGZGJOK2VBQVDCPK7W5LH3WB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/26/4YGZGJOK2VBQVDCPK7W5LH3WB4/</guid>
-      <dc:creator>정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 12:13:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVCYKJYJUVF5HH6K3F7NB4GTQY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원중앙자동차매매단지 화재 현장/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시 권선구 자동차 매매 단지 건물에서 불이 나 소방 당국이 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;26일 오후 8시쯤 경기 수원시 권선구 수원중앙자동차매매단지에서 불이 났다는 신고가 119에 접수됐다.&lt;br&gt;&lt;br&gt;소방 당국은 80명의 인력과 27대의 장비를 투입해 불길을 잡고 있으나 다량의 연기가 발생해 진화에 어려움을 겪고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;수원시도 불이 나자 이날 오후 8시 16분쯤 인근을 지나는 차량과 시민들의 주의를 당부하는 재난 문자를 발송했다.&lt;br&gt;&lt;br&gt;경찰 등은 불을 끄는 대로 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘수사 외압’ 의혹 尹, 이종섭에게 “박정훈 체포하라” 지시 </title>
       <link>https://www.chosun.com/national/court_law/2025/11/26/BZFHPORZUFDYZHGXC7DXJ6WH6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/BZFHPORZUFDYZHGXC7DXJ6WH6A/</guid>
@@ -808,16 +834,6 @@
       <description/>
       <pubDate>Wed, 26 Nov 2025 10:24:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6Z423S4VHFDBZOFOI3TFI7OF3U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열(오른쪽) 전 대통령과 이종섭 전 국방장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 고(故) 채수근 상병 사망 사건 ‘수사 외압’ 의혹을 폭로한 박정훈(대령) 해병대 수사단장을 체포하라고 이종섭 전 국방장관에게 직접 지시한 것으로 순직 해병 특검이 파악했다. 이에 따라 국방부 검찰단은 박 대령에 대해 두 차례 체포영장을 청구했지만 군사법원에서 모두 기각됐다.&lt;br&gt;&lt;br&gt;26일 윤 전 대통령 등의 수사 외압 사건 공소장에 따르면, 윤 전 대통령은 지난 2023년 8월 14일 오전 10시쯤 이시원 당시 대통령실 공직기강비서관을 통해 이 전 장관에게 박 대령에 대한 체포영장 청구를 지시했다. 당시는 집단항명 수괴죄로 입건된 박 대령이 TV 방송에 출연해 채 상병 사건 처리에 상부의 외압이 있었다고 폭로하던 때였다. 특검은 박 대령의 수사 외압 주장으로 논란이 증폭되자 체포영장 청구에 나선 것이라고 판단했다.&lt;br&gt;&lt;br&gt;이 전 장관은 즉시 김동혁 전 국방부 검찰단장에게 체포영장 청구를 지시했고, 같은 날 오후 2시쯤 중앙지역군사법원에 체포영장 청구서가 접수됐다. 이 전 장관은 박 대령 체포영장 발부 여부를 8차례 확인하고, 이시원 전 비서관을 통해 윤 전 대통령에게 5차례 상황을 보고했다고 한다. 박 대령에 대한 1차 체포영장은 그날 늦은 밤 기각됐다. 윤 전 대통령은 이튿날인 8월 15일 아침 박 대령 체포영장 기각 사실을 보고받고 이 전 장관에게 후속 조치를 지시한 것으로 특검은 파악했다.&lt;br&gt;&lt;br&gt;이에 따라 이 전 장관은 김 전 단장에게 항명 사건 수사 경과와 향후 계획을 대통령실에 보고하라고 지시했다. 김 전 단장은 ‘수사 외압은 존재하지 않는다’ ‘박 대령 구속영장 청구 검토, 8월 종결(기소)’이라고 적은 보고서를 이 전 비서관에게 전달했다. 이후 군검찰단은 박 대령에 대한 2차 체포영장과 구속영장을 연달아 청구했지만 모두 기각됐다.&lt;br&gt;&lt;br&gt;특검은 “임성근 전 해병대 1사단장을 과실치사 혐의자에서 제외하라”는 취지의 윤 전 대통령의 지시가 위법·부당하다는 점도 공소장에 명시했다. 윤 전 대통령은 지난 2023년 7월 31일 국가안보실 회의에서 임 전 사단장에 과실치사 혐의를 적용한 해병대 수사단의 조사 결과를 보고받고 격노해 “이런 일로 사단장까지 처벌하면 누가 사단장을 할 수 있겠느냐”며 외압을 행사한 혐의(직권남용)를 받고 있다.&lt;br&gt;&lt;br&gt;이에 대해 특검은 “대통령은 국방장관에 대한 지휘·감독을 통해 군사경찰에 ‘엄정 수사’, ‘신속 수사’ 등 추상적·선언적 지시는 할 수 있다”면서도 “이를 넘어선 특정 사건에 대한 개별적·구체적 지시는 수사의 공정성 및 군사경찰 직무 수행의 독립성을 침해하는 것이라 허용되지 않는다”고 밝혔다. 설령 군통수권자라 하더라도 군 사건에서 특정인의 책임을 면하게 하거나 처벌에서 배제시킬 수는 없다고 본 것이다.&lt;br&gt;&lt;br&gt;다만 106쪽의 공소장에는 수사 외압 사건의 발단이 된 임 전 사단장의 ‘구명 로비’ 의혹 관련 내용은 담기지 않았다. 특검은 이종호 전 블랙펄인베스트 대표가 김건희 여사를 통해 구명을 부탁했다는 의혹, 보수 개신교계 인사들이 대통령실에 구명 로비를 했다는 의혹 등을 수사했지만 뚜렷한 증거나 혐의를 찾아내진 못한 것으로 전해졌다. 특검은 오는 28일 수사 기한 종료에 맞춰 최종 수사 결과를 발표할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연어 완전 양식 청신호… 양식 연어로 첫 인공 채란 성공</title>
-      <link>https://www.chosun.com/national/2025/11/26/FAL3O2J5QFCFPEX3YS3QUKM3QA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/11/26/FAL3O2J5QFCFPEX3YS3QUKM3QA/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description>수입 연어를 대체할 국내산 연어 양식에 청신호가 켜졌다. 
-경북도 수산자원연구원은 전량 수입에 의존하는 연어류를 국내산 양식 연어로 대체하기 위한 핵심 기술인 인공 채란에 처음으로 성공했다고 26일 밝혔다.</description>
-      <pubDate>Wed, 26 Nov 2025 10:07:10 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EPKH3W75FH65JHZC4CSOXTUYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북수산자원연구원은 최근 전량 수입에 의존하는 연어류를 국내산 양식 연어로 대체하기 위한 핵심 기술인 인공 채란에 처음으로 성공했다. 사진은 국내산 연어 양식 장면. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수입 연어를 대체할 국내산 연어 양식에 청신호가 켜졌다. &lt;br&gt;&lt;br&gt;경북도 수산자원연구원은 전량 수입에 의존하는 연어류를 국내산 양식 연어로 대체하기 위한 핵심 기술인 인공 채란에 처음으로 성공했다고 26일 밝혔다. 양식한 연어에서 인공 채란해 수정한 경우는 이번이 처음이다.&lt;br&gt;&lt;br&gt;26일 경북도에 따르면 국내산 연어는 산란을 위해 우리나라 하천을 회유하는 어종. 횟감과 초밥, 구이 등으로 식당이나 대형 마트에서 일반적으로 유통되는 수입 양식산인 대서양연어와는 다른 어류다. &lt;br&gt;&lt;br&gt;최근 연어 소비량이 급증해 국내에선 매년 4만t 이상의 노르웨이산 대서양연어를 수입하고 있다. 국내 연구기관과 일부 민간 양어장에서 수입산 연어를 국내산 양식 연어로 대체하기 위한 연구를 추진하고 있으나 재생산이 불가능한 대서양연어 수정란을 이식하기 때문에 양식을 위해 수정란을 계속 수입해야 했다.&lt;br&gt;&lt;br&gt;이에 따라 연구원은 연어 양식을 산업화하고자 2022년 민물고기연구센터에서 국내 하천에 회유한 연어에서 생산한 어린 연어를 확보해 담수 사육 후 점진적으로 해수에 적응시켜 관리했다. &lt;br&gt;&lt;br&gt;올해 전장 60㎝, 체중 2.5㎏ 정도의 성어로 성장시켰고 지난 10월부터는 인공 채란을 위해 적정 먹이, 사육 수온과 광주기를 조절해 성숙을 유도했다. 그 결과 현재까지 국내에서 처음으로 암컷 10마리에서 성숙란을 얻어 수정 후 관리하고 있다.&lt;br&gt;&lt;br&gt;연구원은 앞으로 국내산 연어 대규모 양식을 가능하게 하는 사육 및 번식 기술을 계속 연구할 계획이다. 또 여름 고수온기 연어가 생존할 수 있는 사육 수온(20도 이하)을 유지하기 위한 양식 시스템 등 국내에서 연어 양식의 경제성을 확보하기 위한 연구를 진행하기로 했다. &lt;br&gt;&lt;br&gt;최영숙 경북도 환동해지역본부장은 “포항에 들어서는 연어 스마트 양식 클러스터 건립 등 양식과 가공, 유통 기반 시설을 구축해 연어 산업을 육성하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>韓 “계엄 반대했지만 尹 막을 도리 없었다... 국민께 죄송” 최후진술</title>
@@ -872,19 +888,6 @@
       </media:content>
     </item>
     <item>
-      <title>무안공항 분향소 찾은 국토부 장관… 12·29 여객기 참사 유족 반발에 분향조차 못 해 </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/26/UGMZNCFLWJF6PHIY4QKOU2PMPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/26/UGMZNCFLWJF6PHIY4QKOU2PMPM/</guid>
-      <dc:creator>무안=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 08:41:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRW6LL5JVNOH5AR5ECC7HWY5QQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김윤덕(왼쪽) 국토교통부 장관이 26일 오후 전남 무안군 무안국제공항에서 12·29 무안공항 제주항공 여객기 참사 유가족들과 면담을 시도하다 국토부 항공철도조사위원회의 일방적 공청회 강행 중단을 촉구하는 유가족들의 항의를 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김윤덕 국토교통부 장관이 항공철도사고조사위원회(이하 사조위)의 공청회 개최에 반발하는 12·29 제주항공 여객기 참사 유가족들을 면담하기 위해 무안국제공항을 찾았지만, 분향소에 발도 들이지 못한 채 돌아갔다.&lt;br&gt;&lt;br&gt;김 장관은 26일 오후 4시 30분쯤 무안공항에 마련된 제주항공 여객기 사고 희생자 합동분향소를 찾았다. 유가족들은 ‘국토부 셀프 조사 즉각 중단하라’ ‘유가족과 불통하는 사조위 믿을 수 없다’ ‘공청회 강행 국가 폭력이다’는 글이 쓰인 손팻말을 들고 김 장관을 막아섰다.&lt;br&gt;&lt;br&gt;김유진 유가족협의회 대표는 김 장관에게 “사조위를 국토부에서 독립해달라는 유가족 요구를 들어주지도 않을 거면서 왜 왔냐. 공청회 강행할 거냐”고 물었다.&lt;br&gt;&lt;br&gt;사조위는 내달 4~5일 서울 글로벌센터 국제회의장에서 중간 조사 결과 발표 성격의 12·29 제주항공 여객기 참사 사고 조사 공청회를 연다. 공청회는 12단계 항공기 사고 조사 절차 중 8단계 과정으로, 현재까지 조사한 사실관계 확인과 기술적 검증을 하는 절차다.&lt;br&gt;&lt;br&gt;하지만 유가족협의회는 “사조위 조사 결과를 믿을 수 없다”며 공청회 개최를 반대한다.&lt;br&gt;&lt;br&gt;이들은 “사조위는 조사 대상인 국토부 산하 기관이라는 태생적 한계로 독립성에서 문제를 노출했다”며 “정보 비공개, 일방적인 절차 진행, 비행기 잔해 증거물 방치, 현장 사진 촬영 금지 등 공정성 측면에서도 피해 당사자를 철저히 배제했다”는 입장이다.&lt;br&gt;&lt;br&gt;김 장관은 유가족의 항의에 “현재 논의 중인 법률개정안이 통과되면 사조위가 그대로 국토부에서 총리실로 이관된다. 사조위가 그대로 총리실로 옮겨지는 것을 원하느냐”고 했다. 이어 “(국토부) 장관은 사조위에 가진 권한이 없다”고 덧붙였다. 장관이 사조위에 지시할 권한이 없기 때문에 공청회 개최를 막을 수 없다는 취지의 답변이었다.&lt;br&gt;&lt;br&gt;유가족들은 “권한이 없는데 왜 왔느냐” “공청회는 어쩔 거냐”면서 항의를 이어갔다. 김 장관은 유가족들의 항의가 거듭되자 약 3분 만에 분향소를 떠났다.&lt;br&gt;&lt;br&gt;김 장관은 유가족과 면담이 불발된 뒤 기자들 앞에서 “공청회 연기에 대해서는 제가 입장을 가질 수 없다”며 “사조위는 독립 기관이기 때문에 조사 내용에 (장관이) 어떤 의사를 비치는 게 불법적 행동”이라고 말했다.&lt;br&gt;&lt;br&gt;유가족협의회는 김 장관이 떠난 뒤 기자회견을 열고 “현재 사조위는 국토부에서 임명한 사조위 위원들이 국토부의 잘못을 스스로 조사하는 말이 안 되는 구조”라며 “앞에서는 장관직을 걸고 사조위를 독립시키겠다면서 뒤에서는 12·29 참사를 졸속으로 매듭짓는 이중적 행태를 규탄한다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “충분히 경청하겠다. 사조위는 독립적이라 어쩔 수 없다는 말은 수없이 들어온 기계적 답변의 반복일 뿐”이라며 “장관이 우리 요구를 외면하고 공청회 강행 의사를 유지하면 유가족들은 수단과 방법을 가리지 않고 맞설 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RRW6LL5JVNOH5AR5ECC7HWY5QQ.jpg?auth=e2e92415f95634932898833c669d14e50413d4bc61fe10420411a97f0e6c40f5&amp;smart=true&amp;width=4777&amp;height=3184" type="image/jpeg" height="3184" width="4777">
-        <media:description type="plain">김윤덕(왼쪽) 국토교통부 장관이 26일 오후 전남 무안군 무안국제공항에서 12·29 무안공항 제주항공 여객기 참사 유가족들과 면담을 시도하다 국토부 항공철도조사위원회의 일방적 공청회 강행 중단을 촉구하는 유가족들의 항의를 받고 있다. /뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">LEEYJ2578</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>경희대, 세계 상위 1% 연구자 4명 선정...국내 종합대학 3위</title>
       <link>https://www.chosun.com/national/education/2025/11/26/LH6PRONPDJETZAYG7JI5YZ7LZ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/26/LH6PRONPDJETZAYG7JI5YZ7LZ4/</guid>
@@ -892,15 +895,6 @@
       <description/>
       <pubDate>Wed, 26 Nov 2025 08:43:28 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LOA6FDT6FREEZH4FDFLUQM3SG4.png"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽부터 사회과학 분야에 이름을 올린 경희대 스마트관광원 구철모·정남호 교수, 교차 분야의 생물학과 배진우 교수, 컴퓨터 과학 분야 컴퓨터공학부 홍춘선 고황명예교수./경희대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경희대학교는 스마트관광원 구철모, 정남호 교수, 생물학과 배진우 교수, 컴퓨터공학부 홍충선 고황명예교수가 클래리베이트 애널리틱스(Clarivate Analytics)가 선정하는 ‘2025 세계 상위 1% 피인용 우수 연구자(Highly Cited Researcher·HCR)’로 선정됐다고 26일 밝혔다. 국내 종합 사립대학 3위에 해당하는 결과다.&lt;br&gt;&lt;br&gt;클래리베이트 애널리틱스는 매년 웹 오브 사이언스(Web of Science)의 데이터베이스를 활용해 연구 분야별 논문 피인용 횟수 상위 1%에 해당하는 연구자를 HCR로 선정한다. 올해는 총 22개 분야에서 전 세계 60국, 1300여 기관 6868명이 HCR로 선정됐다. 국내에서는 연구자 76명이 선정됐다.&lt;br&gt;&lt;br&gt;구 교수와 정 교수는 사회과학(Social Science) 분야에 이름을 올렸다. 구 교수는 ‘스마트관광’의 개념과 범위를 세계 최초로 정의한 연구자로 꼽히며 정 교수는 정보 기술 관리, 관광 행동, 심리, 관광 정보 등의 분야에서 국내외 학술지에 논문 200여 편을 발표했다. &lt;br&gt;&lt;br&gt;배 교수는 비만·당뇨를 개선할 수 있는 장내 미생물을 밝혀내며 교차 분야(크로스필드·Cross-Field)에서 선정됐다. 컴퓨터 과학(Computer Science) 분야에 선정된 홍 교수는 국제 저명 학술지에 논문 300여 편을 발표하며, 지난해 세계에서 가장 권위 있는 전기·전자·컴퓨터·통신 분야 학회인 IEEE 석학회원으로 선정됐다.&lt;br&gt;&lt;br&gt;한편 경희대는 최근 발표된 ‘2026 THE 세계대학평가(THE World University Ranking)’에서 세계 252위·국내 종합대학 5위를 기록했으며, QS(Quacquarelli Symonds)가 발표한 ‘2026 QS 아시아대학평가(QS Asia University Ranking)’에서 아시아 39위·국내 사립대학 5위에 올랐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 한덕수에 징역 15년 구형... “45년전 내란보다 더 국격 손상”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/26/XVBWFXHGLZDVVL3A7WSYCR6QJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/26/XVBWFXHGLZDVVL3A7WSYCR6QJA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 26 Nov 2025 05:37:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YRCQQCVECBFNDP35DGLR5CGVPU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 12·3 비상계엄을 적극적으로 말리지 않은 혐의로 재판에 넘겨진 한덕수 전 국무총리가 26일 오전 서울 서초구 서울중앙지방법원에서 열린 내란 우두머리 방조, 내란 중요임무 종사 등 혐의 사건 1심 결심 공판에 출석하기 위해 차량에서 내리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 불법 비상계엄 선포를 방조한 혐의로 불구속 기소된 한덕수 전 국무총리에게 내란 특검이 징역 15년을 구형했다. 12·3 비상계엄과 관련해 기소된 내란 사건 중 첫 구형이다.&lt;br&gt;&lt;br&gt;특검 측은 26일 서울중앙지법 형사33부(재판장 이진관)에서 열린 결심 공판에서 “12·3 비상계엄은 민주주의에 대한 테러”라며 “과거 45년 전 내란보다 더 막대하게 국격을 손상하고 국민에게 커다란 상실감을 줬다는 점에서 그 피해를 이루 헤아릴 수 없고 가늠하기도 어렵다”고 했다. 이어 “한 전 총리는 행정부의 2인자이자 총리로서 내란 사태를 막을 수 있는 사실상 유일한 사람이었는데도 ”며 구형 의견을 밝혔다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤 전 대통령의 비상계엄 선포를 보좌해 내란을 방조했다는 혐의 등으로 지난 8월 내란 특검에 기소됐다. 국회 봉쇄 등 비상계엄 계획의 위헌·위법성을 알고도 윤 전 대통령에게 국무회의 소집을 건의하고, 계엄 선포를 반대하거나 막으려고는 하지 않고 국무회의 의결 정족수를 채워 계획대로 선포할 수 있도록 도왔다는 것이 핵심 혐의다. 또 최초 계엄 선포문의 법률적 결함을 보완하기 위해 사후 계엄 선포문을 작성했다가 폐기하고(허위 공문서 작성·행사 등) 헌법재판소의 윤 전 대통령 탄핵 심판 과정에서 ‘계엄 선포문을 받거나 보지 못했다’는 취지로 거짓 증언한 혐의(위증)도 받고 있다.&lt;br&gt;&lt;br&gt;이와 관련, 한 전 총리는 작년 12월 3일 저녁 윤 전 대통령 집무실에서 처음 비상계엄 선포 계획을 듣고 ‘우리나라 대외 신인도가 떨어지고 경제가 망가질 수 있다’며 만류했다는 입장이다. 한 전 총리 측은 이날 최후 변론에서 “이미 계엄 선포를 결심한 대통령에게 반대 취지로 발언하는 것 외에 어떻게 저지할 수 있는지 헌법·법률상 의무가 없다”고 했다. 또 “비상계엄 선포가 곧 형법상 내란죄로 이어지는 것은 아니다”라며 “한 전 총리는 ’선포’ 외에 폭동 등 구체적 내란 행위에 대해 알지 못했다”고도 했다.&lt;br&gt;&lt;br&gt;특검 측은 1980년 5·17 쿠데타에 연루돼 내란 중요 임무 종사 혐의로 유죄 판결을 받았던 주영복 전 국방장관 사례를 들어 “법원은 징역 7년을 선고하면서 ‘다른 사람의 힘을 빌려 소임을 다하지 못했다고 변명하는 것은 하료의 일이고 지위가 높고 책임이 막중한 경우 변명이 용납되지 않는다’고 판시했다“며 ”마찬가지로 행정부 2인자였던 한 전 총리의 변명은 용서나 용납이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;한편, 특검은 애초 한 전 총리를 내란 우두머리죄의 방조범으로 기소했지만 재판부 요청에 따라 내란 중요 임무 종사죄를 추가해 공소장을 변경했다. 재판부는 두 혐의 중 하나를 선택해 유무죄를 판단하고 형량을 정할 수 있다. 형법상 내란 우두머리의 방조범은 10년 이상 50년 이하의 징역·금고형을, 내란 중요 임무 종사자는 사형·무기 또는 5년 이상의 징역·금고형에 처해진다. 한 전 총리 측은 이날 공소장 변경에 대해 “내란 방조와 중요 임무 종사는 범죄 구성 요건과 입증 대상이 완전히 다른데 구체적인 사실 관계 변경 없이 공소장을 변경한 것은 잘못됐다”고 했다.&lt;br&gt;&lt;br&gt;한 전 총리 1심 선고가 예정대로 오는 1월 말 내려질 경우 12·3 비상계엄이 내란인지에 대한 법원의 첫 판단이 한 전 총리 사건에서 나오게 된다. 법조계 일각에선 “윤 전 대통령의 내란 우두머리 혐의에 대한 결론이 나오기 전 종범(從犯)에 대한 평가가 먼저 나오는 건 순서가 맞지 않는다”는 지적도 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, ‘설탕 담합 의혹’ CJ제일제당·삼양사 임직원 11명 기소...담합액 3조원대</title>
