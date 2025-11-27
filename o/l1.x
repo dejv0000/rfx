@@ -6,6 +6,35 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[결정] 헌재, '尹 공수처 체포영장 불복' 권한쟁의심판 모두 각하</title>
+			<description>&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령이 12·3 비상계엄 선포 이후 고위공직자범죄수사처(공수처)의 체포영장 청구와 법원의 영장 발부에 반발해 낸 권한쟁의심판 청구가 모두 각하됐다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 11월 27일 윤 전 대통령 측이 공수처장과 서울서부지법 영장전담판사를 상대로 제기한 권한쟁의삼판청구(&lt;b&gt;2025헌라2&lt;/b&gt;)를 재판관 9인 전원일치 의견으로 각하 결정했다. 각하란 청구 내용의 옳고 그름을 따지지 않고, 심판 청구 자체가 법률이 정한 요건을 충족하지 못했다는 의미다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요]&lt;/b&gt;&lt;br /&gt;공수처는 2025년 1월 3일 윤 전 대통령에 대한 1차 체포영장 집행을 시도했으나 경호처·군 인력의 제지로 집행하지 못했다. 이후 1차 영장 유효기간 만료일(1월 6일)에 연장을 신청해, 다음날 2차 체포영장을 다시 발부받았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;윤 전 대통령 측은 영장 청구 및 발부 행위가 대통령의 권한을 침해하고, 특히 영장에 '형사소송법 제110조와 제111조의 적용은 예외로 한다'고 기재한 것은 대통령의 국군통수권을 침해하는 것이라고 주장했다. 대통령이 공수처장과 법관을 상대로 제기한 첫 권한쟁의심판이었다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[헌법재판소 판단]&lt;/b&gt;&lt;br /&gt;헌법재판소는 윤 전 대통령 측의 심판청구는 피청구인자격이 없는 공수처장을 상대로 한 청구로 부적법하다고 봤다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 "기록상 윤 전 대통령에 대해 체포 및 수색 영장을 청구한 주체는 공수처장이 아닌 수사처 검사"라며 "청구인이 공수처장에 대해 제기한 이 사건 청구 행위에 대한 심판청구는 피청구인적격이 없는 자를 상대로 한 청구로서 부적법"하다고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;공수처 검사를 상대로 한 것으로 우회해 해석하더라도 모두 대통령의 권한행사가 정지돼 있는 시점에 발생해 권한이 침해될 가능성이 없다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;헌재는 "권한의 침해란 피청구인의 처분 또는 부작위로 인한 청구인의 권한침해가 과거에 발생했거나 현재까지 지속되는 경우를 의미하고, 권한을 침해할 현저한 위험이란 아직 침해라고는 할 수 없으나 조만간 권한침해에 이르게 될 개연성이 상당히 높은 상황을 말한다"며 "청구인은 이 사건 행위들이 청구인의 권한인 계엄선포권 및 국군통수권을 침해한다고 주장하지만, 이 사건 행위들 및 그로 인해 발생한 후속조치들은 모두 청구인의 권한행사가 정지돼 있고 권한대행자가 대통령의 권한을 대행하고 있는 시점에 발생했으므로 이 사건 행위들로 인해 청구인의 권한이 침해될 가능성이 있다고 볼 수 없다"고 설명했다. &lt;/p&gt;</description>
+			<pubDate>Thu, 27 Nov 2025 08:38:48 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213577</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213577</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
+			<title>추경호 국민의힘 의원 체포동의안, 국회 본회의 가결</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213580.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;계엄 해제 의결을 방해한 혐의로 구속영장이 청구된 추경호 의원이 11월 27일 국회 본회의에서 자신의 체포동의안 표결에 앞서 신상발언을 하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;추경호 국민의힘 전 원내대표에 대한 체포동의 요구서가 11월 27일 국회 본회의를 통과했다. &lt;br /&gt;&lt;br /&gt;국회는 이날 오후 본회의를 열어 총 투표수 180표 중 찬성 172표, 반대 4표, 기권 2표, 무효 2표로 추 의원에 대한 체포동의안을 가결했다. 앞서 지난 9월 권성동 국민의힘 의원의 체포동의안이 가결된 데 이어 22대 국회에서 두 번째다. 국민의힘 의원들은 표결 직전 본회의장에서 퇴장했다. &lt;br /&gt;&lt;br /&gt;추 의원은 12·3 비상계엄 당시 계엄 해제 의결을 방해한 혐의(내란 중요임무 종사)로 내란 특별검사팀에 의해 구속영장이 청구됐다. 이후 추 의원은 법원의 영장실질심사를 받을 예정이다. &lt;br /&gt;&lt;br /&gt;표결에 앞서 추 의원은 신상발언을 통해 "저는 이미 불체포특권을 포기한다고 말씀드렸다"며 "제가 계엄해제 표결을 방해했다는 의혹은 아무런 근거 없는 악의적인 정치 공작"이라고 말했다. &lt;br /&gt;&lt;br /&gt;이어 "특검은 대규모 수사 인력을 반 년 가까이 동원했지만 계엄 공모를 입증하지도 표결을 방해받았다는 의원을 특정하지도 못했다"며 "미리 결론을 정해놓은 특검이 남긴 것은 단 하나 정치적 의도를 갖고 죄를 구성한 공작 수사였다는 자기 고백뿐"이라고 강조했다. 그러면서 "단언컨대 저에 대한 영장 청구는 국민의힘을 위헌 정당 해산으로 몰아가 보수정당의 맥을 끊어버리겠다는 내란몰이 정치공작"이라고 덧붙였다.  &lt;br /&gt;&lt;br /&gt;또한 그는 "탄압과 보복의 악순환을 끊어내지 않으면, 여야 국회의원 누구든 정쟁의 불행한 희생자가 될 수 있다"며 "저는 국민께 약속드린 대로 불체포특권을 포기하고, 당당하게 법리와 진실 앞에 서겠다"고 말했다.&lt;br /&gt;&lt;br /&gt;체포동의안 상정 직후 민주당 소속 의원들은 "내란을 사과하라"고 외치며 항의했다.  &lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6636"&gt;정성호&amp;nbsp;&lt;/span&gt;법무부장관도 이날 국회에 출석해 체포동의 요청 이유를 설명하면서 "추경호 의원은 의원들의 심의표결권 행사를 방해하는 등 비상 계획 해제를 막아 윤석열의 내란 혐의에 협력하여 내란 중요 임무에 종사했다"고 말했다. &lt;br /&gt;&lt;br /&gt;한편 이날 본회의에서는 여야는 체포동의안 외에도 민생법안인 전자금융거래법 일부개정안, 부산 해양수도 이전기관 지원에 관한 특별법, 철강산업 경쟁력 강화 특별법, 전통시장 육성법, 농자재 지원법, 국민연금법, 부패재산 몰수법 등 7개를 처리했다.&lt;br /&gt;</description>
+			<pubDate>Thu, 27 Nov 2025 08:36:35 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213580</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213580</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213580.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
+			<title>광장·한국우주항공산업협회, '제16회 우주항공 리더 조찬포럼' 개최</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213571.jpg" alt="123132123.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;발표하는 이인수 광장 변호사. 《사진= 법무법인 광장》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)은 11월 26일 서울 중구 태평로1가 한국프레스센터에서 한국우주항공산업협회(부회장 김민석)와 공동으로 ‘제16회 우주항공 리더 조찬포럼’을 개최했다.&lt;br /&gt;&lt;br /&gt;한국우주항공산업협회는 2024년 5월부터 ‘우주항공 리더 조찬포럼’을 정기적으로 개최하고 있다. 이번 포럼에는 우주항공 분야 기업 임원을 포함해 산·학·연 관계자 등이 참석했다. &lt;br /&gt;&lt;br /&gt;광장 우주항공산업팀&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="34514"&gt;이인수&lt;/span&gt;(변호사시험 4회) 변호사는 ‘우주항공법의 현황과 향후 과제’를 주제로 발표했다. 국제 우주항공법의 개관과 국내 우주항공법 현황을 설명하고, 항공우주산업개발촉진법과 우주개발진흥법을 중심으로 입법적 과제와 개선 방향을 살폈다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;이 변호사는 “우주항공을 다루는 단행법이 여럿 존재하지만 아직도 입법적 불비사항이 상당수 존재한다”며 “항공우주산업개발 촉진법과 우주개발 진흥법 사이 관계 정립에 대한 문제 제기가 꾸준히 이어졌다”고 설명했다. 그러면서 “최근 논의되는 우주항공기본법(가칭)에 대한 논의를 발전시켜 전반적으로 정비할 필요가 있다”고 했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;아울러 우주항공기본법이 우주항공 분야의 실체적인 규범으로서 기능하기 위해서는 개별법에 대한 총칙으로서 기능할 필요가 있다고 강조했다. 이 변호사는 “특히 우주법에서는 우주자원, 재사용 발사체, 우주폐기물 및 우주공간에 대한 규제, 감독 권한에 대한 근거가 마련돼야 한다”고 했다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;향후 예상되는 법적 분쟁 사례로는 △도심항공 활성화로 인한 소음공해 △소유권 침해에 대한 유지청구 △손해배상청구 △드론 활용으로 야기될 사생활의 비밀과 자유 침해 문제 △우주물체로 인한 사고와 관련된 과거 분쟁 등을 소개했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1958"&gt;김혁중&lt;/span&gt;(군법무관 9회) 광장 우주항공산업팀 팀장은 “우주항공법 분야는 기술과 밀접하게 관련돼 있어 법률가의 노력만으로 좋은 법제도를 만들어 나갈 수 없다”며 “특히 민간주도의 우주항공 시대에 있어서는 우주항공산업 종사자들의 경험과 아이디어가 우주항공법제에 충분히 반영돼야 한다”고 말했다.</description>
+			<pubDate>Thu, 27 Nov 2025 06:57:56 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213571</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213571</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213571.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>[속보] '사법행정권 남용 의혹' 사건 임종헌 전 법원행정처 차장, 2심 징역 2년에 집행유예 3년</title>
 			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/213575.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
 			<pubDate>Thu, 27 Nov 2025 05:55:22 -0000</pubDate>
@@ -67,11 +96,12 @@
 		</item>
 		<item>
 			<title>체코 대법원장, 공식 방한… 한국 사법 시스템 직접 살핀다</title>
-			<description>체코 공화국의 페트로 안갤로쉬(Petr Angyalossy) 대법원장이 11월 26일 입국해 일주일간 공식 방한 일정을 시작했다.&lt;br /&gt;&lt;br /&gt;2020년 5월 취임한 안갤로쉬 대법원장은 전자소송·AI 기술 도입을 적극 추진해 온 인물로, 한국 사법행정 운영 체계와 기술적 인프라를 직접 확인하기 위해 한국을 찾았다.&lt;br /&gt;&lt;br /&gt;안갤로쉬 대법원장은 27일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(사법연수원 13기) 대법원장을 예방하고 양국 사법 협력 강화를 위한 회담을 진행한다. 같은 날 서울동부지법, 28일 사법연수원과 대법원 전산정보센터를 각각 방문할 예정이다.&lt;br /&gt;&lt;br /&gt;2026년 9월 우리나라에서 열리는 아·태 대법원장회의와 유럽연합(EU) 대법원장회의와의 협력 확대 가능성도 함께 논의될 예정이다. EU 대법원장 네트워크는 아시아 국가 중 유일하게 한국을 2025년 연례 전체회의에 초청한 바 있다. &lt;br /&gt;&lt;br /&gt;대법원은 "체코 대법원장의 이번 방한을 통해 양국 간 사법 교류·협력이 한층 공고해지고, 국제적 법률 논의의 장을 마련하는 기회가 될 것"이라며 "양국 사법 당국 간의 지속적인 협력 관계를 발전시키는 중요한 기회가 될 것으로 기대한다"고 밝혔다.&lt;br /&gt;</description>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213539.jpg" alt="111.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=법원행정처 제공》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;체코 공화국의 페트로 안갤로쉬(Petr Angyalossy) 대법원장이 11월 26일 입국해 일주일간 공식 방한 일정을 시작했다.&lt;br /&gt;&lt;br /&gt;2020년 5월 취임한 안갤로쉬 대법원장은 전자소송·AI 기술 도입을 적극 추진해 온 인물로, 한국 사법행정 운영 체계와 기술적 인프라를 직접 확인하기 위해 한국을 찾았다.&lt;br /&gt;&lt;br /&gt;안갤로쉬 대법원장은 27일&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6022"&gt;조희대&lt;/span&gt;(사법연수원 13기) 대법원장을 예방하고 양국 사법 협력 강화를 위한 회담을 진행한다. 같은 날 서울동부지법, 28일 사법연수원과 대법원 전산정보센터를 각각 방문할 예정이다.&lt;br /&gt;&lt;br /&gt;2026년 9월 우리나라에서 열리는 아·태 대법원장회의와 유럽연합(EU) 대법원장회의와의 협력 확대 가능성도 함께 논의될 예정이다. EU 대법원장 네트워크는 아시아 국가 중 유일하게 한국을 2025년 연례 전체회의에 초청한 바 있다. &lt;br /&gt;&lt;br /&gt;대법원은 "체코 대법원장의 이번 방한을 통해 양국 간 사법 교류·협력이 한층 공고해지고, 국제적 법률 논의의 장을 마련하는 기회가 될 것"이라며 "양국 사법 당국 간의 지속적인 협력 관계를 발전시키는 중요한 기회가 될 것으로 기대한다"고 밝혔다.&lt;br /&gt;</description>
 			<pubDate>Thu, 27 Nov 2025 04:46:33 -0000</pubDate>
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/213539</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213539</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213539.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
 		</item>
 		<item>
@@ -210,35 +240,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213506</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213506.jpg</media:thumbnail>
 			<dc:creator>김지현 기자</dc:creator>
-		</item>
-		<item>
-			<title>'3조원 설탕 담합' CJ제일제당·삼양사 임직원 무더기 기소</title>
-			<description>3조 원 규모의 설탕 가격 담합 사건을 수사해온 검찰이 CJ제일제당과 삼양사, 두 회사의 임직원 11명을 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;서울중앙지검 공정거래조사부(부장검사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15790"&gt;나희석&lt;/span&gt;)는 26일 국내 설탕 시장을 과점하는 제당 3사(CJ제일제당·삼양사·대한제당)의 대규모 가격 담합 사건을 수사한 끝에 김모 전 CJ제일제당 식품한국총괄과 최모 삼양사 대표이사를 공정거래법위반죄로 구속기소하고 CJ제일제당 임직원 5명, 삼양사 임직원 6명을 같은 불구속기소했다고 밝혔다. &lt;br /&gt;&lt;br /&gt;2021년 2월부터 2025년 4월까지 국내 설탕 가격의 변동 여부와 폭, 시기를 사전에 합의하고, 다른 사업자와 공동으로 경쟁을 제한한 혐의를 받는다. &lt;br /&gt;&lt;br /&gt;검찰 수사 결과 제당 3사는 3조 2715억 원 규모의 담합을 벌인 것으로 확인됐다. &lt;br /&gt;&lt;br /&gt;검찰에 따르면 이들은 담합 발생 전 대비 설탕 가격을 최대 66.7%까지 인상했으며, 원재료인 원당 가격이 오를 때는 설탕 가격을 신속히 올리는 반면, 원당 가격이 하락할 때는 설탕 가격 인하폭을 최소화하는 방식으로 이익을 취했다. &lt;br /&gt;&lt;br /&gt;2021년 1월 원당가 386원이 2023년 10월 801원으로 오르는 동안 설탕 가격은 720원에서 1200원으로 인상됐다. 반대로 원당가가 801원에서 578원으로 떨어진 2025년 4월에는 설탕 가격이 1200원에서 1120원으로 소폭만 조정됐다.&lt;br /&gt;&lt;br /&gt;검찰은 이번 담합으로 식료품 물가 상승 부담이 고스란히 소비자에게 전가됐고, 원재료 가격 하락에 따른 가격 인하 혜택도 소비자에게 돌아가지 않았다고 판단했다.&lt;br /&gt;&lt;br /&gt;공정거래조사부는 직접 수사를 통해 강제수사 착수 두 달 만에 제당업체 대표급 임원 2명을 구속하며, "담합으로 서민 경제를 교란한 행위는 반드시 엄벌에 처한다"는 메시지를 시장에 전파했다.&lt;br /&gt;&lt;br /&gt;그간 담합 사건 수사는 국제적 추세와 달리, 법인에 대한 벌금형 처벌이나 실무자급 직원에 대한 소극적 조치에 그쳐 담합 근절에 실효성이 낮았다는 지적이 이어졌다.&lt;br /&gt;&lt;br /&gt;검찰은 이번 사건에서 압수수색과 관련자 조사 등을 통해 실무 임직원은 물론 담합에 직접 가담한 대표이사 등 고위직 임원의 범행까지 신속히 규명했다. 이에 따라 총 11명의 개인 가담자에 대해 공정거래위원회에 고발요청권을 행사했다.&lt;br /&gt;&lt;br /&gt;검찰은 이번 사건에서 수사와 공정거래위원회의 행정조사가 동시에 진행되는 점을 고려해, 수사 경과에 따라 공정위와 고발 범위 등을 협의하며 긴밀히 소통했다. 향후 공정위의 행정제재 절차 진행 과정에서 공소장 등 수사 자료를 제공해 행정제재가 차질 없이 진행될 수 있도록 지원할 계획이다.&lt;br /&gt;&lt;br /&gt;검찰은 앞으로도 기초 생필품 등 서민 물가에 직결되는 담합 범죄 근절과 공정 경쟁질서 회복을 위해 공정위와 상호 정보 공유 등 긴밀한 협력을 이어갈 방침이다.&lt;br /&gt;&lt;br /&gt;검찰 관계자는 "담합 범행에 주도적 으로 관여한 개인에 대해서는 계속 엄정 대응할 예정"이라며 "공정거래사범에 대해 법과 원칙에 따라 적극 대응하겠다"고 말했다.</description>
-			<pubDate>Wed, 26 Nov 2025 08:13:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213501</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213501</guid>
-			<dc:creator>우빈 기자</dc:creator>
-		</item>
-		<item>
-			<title>지음, 사우디·UAE·이라크·이란·일본 로펌과 MOU</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213499.jpg" alt="1212.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;왼쪽부터 배 유 오르비스 법률사무소 변호사, 김현종 법무법인 지음 변호사, 함단 알 샴시 하스 로펌 변호사, 모하메드 코퍼리 솔트 앤 어소시에이츠 변호사. 《사진=법무법인 지음》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://jieumlaw.com/" target="_blank"&gt;법무법인 지음&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11189"&gt;김현종&lt;/span&gt;)이 11월 26일 오전 10시 서울 강남구 신사동 지음 사무실에서 사우디아라비아·아랍에미리트(UAE)·이라크·이란·일본 로펌과 전략적 업무협약(MOU)을 체결했다. &lt;br /&gt;&lt;br /&gt;최근 한국 기업의 중동·중앙아시아 진출이 활발해지면서 글로벌 법률지원 협력을 강화하기 위해서다. 이재명 대통령의 11월 UAE·이집트·튀르키예 순방으로 사업 기회와 정부 차원의 투자·지원 확대가 예상되는 등 시장 전반의 긍정적인 흐름에 따라 체계적인 법률 지원에 나선다.&lt;br /&gt;&lt;br /&gt;이날 지음은 아랍에미리트(UAE)의 하스 로펌(HAS Law Firm), 이라크의 솔트 앤 어소시에이츠(Salt &amp; Associates), 일본의 오르비스 법률사무소(Orbis L.P.C.)와 업무협약을 체결하고, 기존에 협력 관계를 유지해온 사우디아라비아의 마쇼라 로펌(Mashora Law Firm)과 이란의 나미 어소시에이츠(Nami Associates)와의 파트너십을 재확인했다. 기존 협업 체계를 하나의 그룹 형태로 확대했다.&lt;br /&gt;&lt;br /&gt;이번 협약을 통해 각 로펌은 독립성과 전문성을 바탕으로 △중동 및 해외 프로젝트 법률지원 강화 △국제 분쟁·중재 공동 대응 체계 구축 △세미나 개최 등에서 협력하기로 했다.&lt;br /&gt;&lt;br /&gt;각 로펌은 중동·중앙아시아에 진출하는 외국 기업의 자문부터 여러 전문 분야의 법률지원을 제공한다. 하스 로펌(UAE)은 민사·상사·중재, 솔트 앤 어소시에이츠(이라크)는 국제 분쟁 대응에 관한 법률지원을 맡는다. 특히 이라크는 최근 컨슈머 프로덕트 시장 활성화로 기업의 진출 기회가 확대된 지역으로 평가받고 있다.&lt;br /&gt;&lt;br /&gt;마쇼라 로펌(사우디아라비아)은 국제 프로젝트, 나미 어소시에이츠(이란)는 인수합병(M&amp;A)·프로젝트·금융·지식재산(IP) 등의 분야에서 중추적 역할을 맡는다. 오르비스 법률사무소(일본)는 한국 기업의 일본 진출, 일본 기업의 중동 진출에 필요한 법률지원에 나선다. 이를 통해 지음과 함께 동북아 기업과 독립국가연합(CIS) 시장을 연결하는 교두보 역할을 수행할 예정이다.&lt;br /&gt;&lt;br /&gt;한편 이들은 26일 오후 서울경제진흥원 등이 주최하는 행사에서 ‘중동 및 CIS 해외진출 전략’을 주제로 강연을 진행하고, 향후 협업 체계 구축을 위한 일정을 이어간다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15200"&gt;김현종&lt;/span&gt;(사법연수원 39기) 지음 대표변호사는 “이번 협약을 통해 한국 기업의 해외 진출과 프로젝트 수행을 실질적으로 지원하고, 글로벌 법률 네트워크를 더욱 강화해 나가겠다”고 말했다.</description>
-			<pubDate>Wed, 26 Nov 2025 08:12:20 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213499</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213499</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213499.jpg</media:thumbnail>
-			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>SPL 평택공장 근로자 사망 사고 항소심, 내년 증인신문 진행</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213498.jpg" alt="12414.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;고용노동부와 경찰, 국립과학수사연구원 관계자 등이 2022년 10월 24일 합동 감식을 위해 경기 평택시 추팔산업단지 내 SPL 제빵 공장으로 들어서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;SPC그룹 계열사 SPL의 제빵 공장에서 발생한 근로자 사망 사고와 관련한 항소심에서 공판에서 증인 신문이 진행된다. 11월 26일, 공판을 심리한 수원지법 형사항소9부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14294"&gt;김준혁&amp;nbsp;&lt;/span&gt;부장판사)는 피고인 강동석 전 SPL 대표 측이 신청한 증인 3명을 2026년 1월 28일 신문하겠다고 밝혔다(&lt;b&gt;2025노1006&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;검찰이 양형 부당 등을 항소 이유로 주장하자, 피고인 측은 "(사고를 방지하기 위한) 주의 의무를 다했다"며 "재발방지대책 수립 의무를 지키지 않았다는 것도 법리적으로 다투겠다"고 맞섰다. 이어 검찰은 공소장 변경을 신청했다. 1심이 "2022년 10월 15일 근로자 사망 사고가 발생했을 때 SPL 안전보건관리책임자는 강 전 대표가 아닌 다른 피고인 임 모 씨였다"고 지적한 부분을 반영하겠다는 취지다. 피고인 측은 "검찰이 투망식으로 혐의 인정을 노린다"며 난색을 보이면서도 "따로 의견서를 제출하겠다"고 했다. &lt;br /&gt;&lt;br /&gt;2023년 8월, 검찰은 강 전 대표를 포함한 SPL 임직원 4명과 SPL 법인을 기소했다. 경기 평택시 SPL 제빵 공장에서 일하던 근로자가 소스 혼합기에 몸이 끼어 숨진 사고의 책임을 물은 것이다. 1심은 2025년 1월 강 전 대표에게 징역 1년과 집행유예 2년을 선고하고, 다른 피고인들에도 유죄 판결을 내렸다. 1심은 "강 전 대표가 SPL 경영책임자로서 중대재해처벌법상의 안전·보건 확보 의무를 위반했으며, 개별적인 사고에 관한 단편적 대책만 수립한 나머지 이 시건 혼합기에 대해선 별다른 조치를 취하지 않았다"고 판시했다.</description>
-			<pubDate>Wed, 26 Nov 2025 08:10:55 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213498</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213498</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213498.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
