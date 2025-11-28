@@ -6,6 +6,26 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>내란 특검, '정치관여' 조태용 전 국정원장 기소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213608.jpg" alt="131415.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;조태용 전 국가정보원장이 11월 11일 구속 전 피의자 심문(영장실질심사)을 받기 위해 서울 서초구 서울중앙지방법원에 들어서고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀)이 조태용 전 국가정보원장을 정치관여 혐의 등으로 기소했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="421"&gt;박지영&lt;/span&gt;(사법연수원 29기) 내란특검보는 28일 브리핑에서 "오늘 조 전 원장을 정치적 중립을 어기고 정치에 관여한 혐의로 공소 제기했다"고 밝혔다. 적용 혐의는 직무유기, 국정원법 위반, 위증, 증거인멸, 허위공문서작성 및 동행사, 국회에서의 증언 및 감정법 위반 등이다.&lt;br /&gt;&lt;br /&gt;조 전 원장은 계엄 당시 홍장원 전 국정원 1차장의 행적이 담긴 CCTV를 국민의힘에 제공했다는 의혹을 받는다. 윤석열 전 대통령에게서 정치인 체포 지시를 받았다는 홍 전 차장 증언을 깎아내리려 했다는 것이다. 또 비상계엄 선포와 정치인 체포 계획 등 국가안보 위협 상황을 인지하고도 국회에 보고하지 않아 국정원법에서 정한 의무를 위반한 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;박 특검보는 "국정원장은 특정 정파나 대통령 개인을 위한 자리가 아니다"라며 "조 전 원장은 폭동 행위가 발생하고 있음을 인지하고도 국정원장으로서 아무런 조치를 하지 않고, 직속 부하를 거짓말쟁이로 치부하고, 특정 정파의 이익을 대변하는 데 자리를 활용했다"고 말했다.&lt;br /&gt;&lt;br /&gt;특검은 조 전 원장에게 내란 관련 죄명은 적용하지 않았다. 박 특검보는 "내란 모의나 참여 등 중요임무종사 사정은 없었다"고 말했다.&lt;br /&gt;&lt;br /&gt;이어 "다만 본인이 인지한 정보를 탄핵심판 때 말했다면 진상규명과 내란 수습이 빨라지고 사회 갈등이 최소화됐을 것"이라며 "사실상 사후에 가담한 것으로 보이는데 이것이 죄를 구성하지는 않지만 양형에는 참고가 될 것"이라고 말했다.</description>
+			<pubDate>Fri, 28 Nov 2025 04:30:22 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213608</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213608</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213608.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
+			<title>STX 회계 부정 행정소송, 고의 은폐 여부로 공방</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213605.jpg" alt="1.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=STX 로고》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;종합상사 STX와 금융위원회 산하 증권선물위원회(이하 증선위) 간 소송에서 회계처리 기준 위반의 고의적 은폐 여부가 쟁점이 됐다. 11월 28일, 서울행정법원 행정1부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9396"&gt;양상윤&amp;nbsp;&lt;/span&gt;부장판사) 심리로 열린 변론(&lt;b&gt;2025구합54883&lt;/b&gt;)에서 STX 측은 "2023년 매각한 자회사 STX마린서비스가 이라크에서 진행하는 소송을 고의적으로 은폐할 이유가 없다"고 주장했고, 증선위 측은 "STX가 회계 부정을 인지했으며 고의적 은폐도 했다"고 맞섰다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10551"&gt;하태헌&amp;nbsp;&lt;/span&gt;&lt;b&gt;&lt;a href="https://www.shinkim.com/kor" target="_blank"&gt;법무법인 세종&lt;/a&gt;&lt;/b&gt; 변호사(사법연수원 33기)가 STX 측, 권성훈 법무법인 KCL 변호사(46기)가 증선위 측 소송대리인으로 출석했다. &lt;br /&gt;&lt;br /&gt;STX 측은 증선위 제재의 부당성을 입증하기 위해 전문가 의견서를 준비하고, 이라크 사정을 잘 아는 증인을 불러 신문하는 방안도 고려하겠다고 말했다. 재판부는 일단 변론을 이어가기로 한 뒤 2026년 3월 13일로 일정을 잡았다. &lt;br /&gt;&lt;br /&gt;증선위는 2025년 7월 STX에 박상준 대표 해임 권고와 직무 정지 6개월, 감사인 지정 3년을 비롯한 제재를 의결했다. STX가 2022~2023년 STX마린서비스의 이라크 소송을 회계에 반영하지 않아 회계기준을 어겼다는 이유 때문이다. 증선위는 "소송이 제기되면 재무제표 본문에 충당부채를 반영하거나 주석에 우발부채를 공시해야 하는데, STX가 고의로 충당·우발부채가 반영되지 않은 STX마린서비스 재무제표를 사용해 연결재무제표를 작성·공시했다"고 밝혔다. 누락된 충당·우발부채 액수는 2022년 975억7200만 원, 2023년 1분기 442억7500만 원이다. &lt;br /&gt;&lt;br /&gt;STX는 "STX마린서비스로부터 이라크 소송 내용을 공유받지 못했고, 고의적 은폐나 충당부채 반영 누락을 지시하지도 않았다"며 효력정지 가처분 신청과 함께 감리결과조치처분 취소소송을 제기했다. 2025년 8월, 서울행정법원 행정1부는 "증선위 제재로 STX가 회복하기 어려운 손해를 입을 가능성이 있다"며 가처분 신청을 인용했다.</description>
+			<pubDate>Fri, 28 Nov 2025 04:28:58 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213605</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213605</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213605.jpg</media:thumbnail>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
 			<title>광장, 결식우려 아동 위한 '2025 행복상자 프로젝트' 참여</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213597.jpg" alt="1232132.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;10월 26일 법무법인 광장에서 진행된 '2025 행복상자 프로젝트' 봉사활동.《사진=법무법인 광장》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 11월 26일 서울 중구 소공동 광장 신관 1층 아카데미아실에서, 연말을 맞아 결식우려 아동들을 위한 '2025 행복상자 프로젝트'에 참여했다.&lt;br /&gt;&lt;br /&gt;‘행복상자 프로젝트’는 사회공헌 플랫폼인 행복얼라이언스가 결식우려 아동들에게 건강한 일상과 미래를 응원하는 물품 꾸러미를 전달하는 프로젝트다.&lt;br /&gt;&lt;br /&gt;이날 광장 임직원 30여명은 행복얼라이언스의 ‘행복상자&amp;기초 생필품 패키지 지원’ 사업을 후원하고, 지원 물품을 직접 포장하는 봉사활동을 진행했다.&lt;br /&gt;&lt;br /&gt;겨울나기를 위한 필수품인 위생용품, 영양간식, 생활용품 등을 박스에 담아 포장하고 응원편지를 작성하는 등 따뜻한 나눔을 실천하는 시간을 가졌다.&lt;br /&gt;&lt;br /&gt;광장 공익활동위원회 박수정 비서지원부 과장은 “출산을 앞둔 임산부로서 생각보다 행복상자 포장이 어려웠는데 매우 보람된 일이었다”며 “행복상자를 받는 아이들을 생각하면서 포장을 했는데, 비록 작은 정성이지만 아이들에게 의미 있는 보탬이 되길 바란다”고 말했다.</description>
 			<pubDate>Fri, 28 Nov 2025 03:09:16 -0000</pubDate>
@@ -218,26 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213539</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213539.jpg</media:thumbnail>
 			<dc:creator>안재명 기자</dc:creator>
-		</item>
-		<item>
-			<title>이철규 국힘 의원 아들, 항소심서 징역형 집유로 감형</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213538.jpg" alt="123213.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;국민의힘 이철규 의원 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;마약 투약 혐의를 받는 이철규 국민의힘 의원 아들이 항소심에서 징역 2년 6개월의 실형을 선고한 원심판결을 깨고 집행유예를 선고받았다.&lt;br /&gt;&lt;br /&gt;서울고법 형사3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9082"&gt;이승한&amp;nbsp;&lt;/span&gt;부장판사)는 11월 27일 오전 마약류 관리에 관한 법률 위반 등 혐의로 기소된 이 의원의 아들 이 모 씨에 대한 항소심 선고 기일을 열었다. 이날 재판부는 실형을 선고한 원심판결을 파기하고 징역 2년 6개월에 집행유예 5년을 선고했다. 200시간의 약물중독 치료 강의 수강과 477만 원의 추징도 명령했다(&lt;b&gt;2025노2478&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;앞서 1심은 이 모 씨에게 2년 6개월의 실형을 선고했었다. &lt;br /&gt;&lt;br /&gt;재판부는 이 모 씨에 대해 "구속 이후 선고일(11월 27일)까지 약 7개월간 반성의 기회를 가졌고, 동종 전과가 없는 점"을 고려했다며 "이 모 씨가 자신의 잘못을 깊이 뉘우치며 재범하지 않을 것을 다짐하고 있고, 이 모 씨의 가족들이 선처 탄원을 한 점, 부양해야 할 어린아이가 있는 점, 이 모 씨의 법정 태도에 진정성이 있다고 보이는 점 등을 종합하면 원심의 형이 다소 무겁다고 판단했다"고 전했다. 재판부의 설명에 이 모 씨는 흐느끼며 우는 모습을 보이기도 했다.&lt;br /&gt;&lt;br /&gt;이 모 씨와 함께 재판에 넘겨진 지인 정모 씨에게는 징역 2년 6개월을 선고하며, 징역 3년을 선고한 원심보다 형을 줄였다. 이 모 씨의 배우자 임모 씨와 지인 권 모 씨에게는 원심의 판단을 유지했다. 이에 따라 배우자 임모 씨는 징역 2년 6개월에 집행유예 3년, 권 모 씨는 징역 3년에 집행유예 5년을 선고받았다. &lt;br /&gt;&lt;br /&gt;이 모 씨와 피고인들은 2024년 10월부터 2025년 2월까지 합성대마를 매수해 투약하고, 액상 대마 등의 마약류를 매수하려다가 미수에 그친 혐의로 재판에 넘겨졌다. 법원은 지난 4월 23일 도망할 염려가 있다는 이유로 이 모 씨와 정 모 씨에 대한 구속영장을 발부했다. 이후 경찰은 같은 달 28일 검찰로 사건을 송치했다. 검찰은 해당 사건을 강력부에 배당해 수사한 뒤 이들을 재판에 넘겼다.&lt;br /&gt;</description>
-			<pubDate>Thu, 27 Nov 2025 04:46:03 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213538</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213538</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213538.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>법원, 한앤코-홍원식 M&amp;A 지연 손해배상금 660억 인정</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213531.jpg" alt="208339.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;홍원식 전 남양유업 회장 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사모펀드(PEF) 운용사 한앤컴퍼니(한앤코)가 홍원식 전 남양유업 회장을 상대로 제기한 손해배상 소송 1심에서 일부승소했다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 민사31부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9850"&gt;남인수&lt;/span&gt;&amp;nbsp;부장판사)는 11월 27일 오전 한앤코가 홍 전 회장 등을 상대로 제기한 손해배상 소송 1심의 선고기일을 열고 원고 일부 승소 판결했다(&lt;b&gt;2022가합561772&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;이날 재판부는 "홍 전 회장 등은 한앤코에게 약 660억 원과 이에 대한 지연손해금을 지급해야 한다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;한앤코는 2021년, 남양유업 지분의 절반 이상에 대한 인수를 위한 주식 매매계약을 체결했다. 그러던 중 홍 전 회장 측이 중간에 계약을 해지하면서 주식양도를 거부하자 한앤코는 계약 이행 소송을 제기했다. 이에 2024년 1월 대법원은 한앤코 측의 손을 들어줬다. 그러나 주식양도 완료까지 32개월이 소요되면서 발생한 손해가 남아있었고, 한앤코는 이 기간 동안 남양유업의 현금성 자산이 700억 원 이상 감소했다며 손해배상 소송을 제기했다.</description>
-			<pubDate>Thu, 27 Nov 2025 04:40:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213531</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213531</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213531.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
