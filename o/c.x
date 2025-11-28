@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>편도 4차로 무단횡단한 보행자 쳐 숨지게 한 버스기사 무죄</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/WMRYZ6S2LZASVFXZSY625YWU5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/WMRYZ6S2LZASVFXZSY625YWU5I/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 22:58:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무단횡단하던 보행자를 쳐 사망에 이르게 한 시내버스 기사가 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;대전지법 형사9단독 고영식 판사는 29일 교통사고처리특례법상 치사 혐의로 기소된 시내버스 기사 A씨에게 무죄를 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 4월 24일 오전 9시 50분쯤 대전 중구 한 교차로 편도 4차로에서 무단횡단하던 보행자 B(65)씨를 치어 숨지게 한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;당시 A씨는 시속 50㎞인 도로에서 21㎞ 속도로 정상 운행했으며 교통법규를 위반한 사실이 없던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;국립과학수사연구원 감정에 따르면 A씨가 B씨를 인지한 시점부터 그를 친 시점까지의 시차는 0.87초로, 일반적인 운전자의 인지 반응 시간(1초)보다 짧았던 것으로 나타났다.&lt;br&gt;&lt;br&gt;재판부는 “피해자가 버스와 근접한 상태에서 갑자기 무단 횡단을 해 피고인으로서는 피해자를 곧바로 발견하기 어려웠을 것으로 보이고, 인지 후 충격하기까지 시간이 1초보다 짧으므로 사고를 회피하기 어려웠을 가능성을 배제하기 어렵다”며 “피고인에게는 이런 사태까지 예상하며 보행자 상황을 살피면서 안전하게 운전해야 할 업무상 주의의무가 있다고 단정하기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#바하밥집부부#일본미야기올레길</title>
       <link>https://www.chosun.com/national/weekend/2025/11/29/NK4L4MZ76ZEUHHYFRO7HUGNTMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/11/29/NK4L4MZ76ZEUHHYFRO7HUGNTMY/</guid>
@@ -870,16 +879,6 @@
       <description/>
       <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
       <content:encoded>더불어민주당의 공직선거법·고위공직자범죄수사처법 신속 처리 안건 지정(패스트트랙) 과정에서 발생한 충돌 사태로 1심에서 벌금형이 선고된 국민의힘 전현직 의원들에 대해 서울남부지검이 항소하지 않기로 했다고 27일 밝혔다. 이날은 항소 기한(선고일로부터 7일 이내) 마지막 날이다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 20일 나경원 의원과 송언석 원내대표 등 국민의힘 현역 의원 6명에게 벌금형을 선고했다. 다만 형량이 의원직 상실형(국회법 위반 500만원, 일반 형사 사건 금고형 이상)에 못 미쳐 의원직은 유지하게 됐다. 검찰은 나 의원에게 징역 2년을, 황교안 전 자유한국당 대표(현 자유와혁신 대표)에게 징역 1년 6개월을 각각 구형했었다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 4월 민주당이 공수처 신설을 위해 정의당 등 친여 성향의 군소 정당이 원하는 선거법 개정(연동형 비례대표제)에 합의하고 밀어붙이자, 당시 야당이었던 자유한국당이 이를 막는 과정에서 불거졌다. &lt;br&gt;&lt;br&gt;남부지검의 항소 포기에 대해 검찰 안팎에선 “이달 초 ‘대장동 개발 비리’ 사건의 2심을 앞두고 항소를 포기한 것을 의식한 것 아니냐”는 말이 나왔다. 법조계 한 관계자는 “이재명 대통령이 관련된 대장동 사건은 항소를 포기해 놓고 야당 의원들에 대한 항소만 제기할 경우, 검찰이 또다시 논란에 휩싸이고 비판받게 될 것을 우려한 것 아니겠느냐”고 했다.&lt;br&gt;&lt;br&gt;검찰과 피고인 모두 항소를 포기하면 1심에서 내린 벌금형이 확정된다. 다만 이날 나 의원과 황 전 대표, 윤한홍 의원, 곽상도·김선동·김성태·박성중 전 의원 등 일부가 법원에 항소장을 제출해 이들에 대한 항소심은 열리게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주올레 100회 완주한 올레꾼… “나에겐 암 치유한 생명의 길”</title>
-      <link>https://www.chosun.com/national/regional/2025/11/28/GXHJPY7PZVGMJE3KVNWIUQN5ZM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/28/GXHJPY7PZVGMJE3KVNWIUQN5ZM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>세 차례 암 선고를 받고도 제주 올레길을 100번 완주한 ‘올레꾼’이 탄생했다.&lt;br&gt;&lt;br&gt;사단법인 제주올레는 한창수(80·서울)씨가 제주 올레길을 100번 완주했다고 27일 밝혔다. 100회 완주자는 한씨가 최초다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLGSDLV23ZEABENSJBR6WTT2MY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 제주올레
-제주 올레길을 100회 완주한 한창수(80·왼쪽)씨와 서명숙 제주올레 이사장이 기념사진을 찍고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주 올레길은 제주도 명소를 잇는 총 437㎞ 도보 여행 코스다. 27개 코스로 구성된다. 코스 중간중간 도장을 찍어 완주한 사실을 인증한다. 한씨는 15년간 이 길을 100번 완주하며 약 4만3700㎞를 걸었다. 이는 지구 한 바퀴(4만75㎞)보다 긴 거리다.&lt;br&gt;&lt;br&gt;한씨는 2010년 4월 4일 생일에 올레길 걷기를 시작했다고 한다. 먼저 올레길을 완주한 딸을 보고 ‘나라고 못하겠나’ 하는 생각이 들었다고 한다. &lt;br&gt;&lt;br&gt;“처음에는 익숙하지 않아서 길을 많이 헤맸어요. 본격적으로 걸어보려고 제주도에 집도 구했어요.” &lt;br&gt;&lt;br&gt;걷는 기쁨을 조금씩 알아갈 때 암이란 시련이 찾아왔다. 2012년 흉선암에 이어 2013년 혈액암, 2014년 전립선암 진단을 받았다. 그는 “장기간 항암 치료를 받고 나니 체력이 너무 바닥나 서는 것조차 힘들었다”고 했다. 그때부터 그는 살기 위해 걸었다고 했다. 그리고 2017년 12월 21일 마침내 첫 완주증을 받았다. 올레길을 처음 걸은 지 7년 만이었다.&lt;br&gt;&lt;br&gt;그 이후로도 꾸준히 올레길을 걸었다. 그리고 지난 25일, 15년 7개월 21일 만에 100번째 완주를 달성했다. &lt;br&gt;&lt;br&gt;한씨는 “작년에 병원에서도 암 완치 판정을 받았다”며 “나에게 제주 올레길은 생명의 길이고, 나를 다시 살린 길”이라고 했다. &lt;br&gt;&lt;br&gt;그는 “지금도 매일 2만 보 이상 꾸준히 걷고 있다”며 “10년 안에 150번째 완주를 목표로 하고 있다”고 했다. &lt;br&gt;&lt;br&gt;안은주 제주올레 대표는 “100회 완주 기록도 대단하지만 오랜 시간 꾸준히 걸은 그 마음이 감동적”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“내 1억이 이웃엔 10억” 中企 기부액 8년새 2배</title>
