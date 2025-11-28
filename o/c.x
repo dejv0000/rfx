@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 11월 30일 일요일 (음력 10월 11일 癸卯)</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/28/UI23PGGARVHEJKKTQGYPUT2Q3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/UI23PGGARVHEJKKTQGYPUT2Q3Q/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 13:44:42 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 11월 29일 토요일 (음력 10월 10일 壬寅)</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/28/VXZCQO3FXFE5FBXKQF7PGPLI7Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/VXZCQO3FXFE5FBXKQF7PGPLI7Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 13:39:49 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 옥중 편지 “전한길, 하나님이 보낸 귀한 선물”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/28/JUTLEIYCKREGFLPBV4WID4BH3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/JUTLEIYCKREGFLPBV4WID4BH3I/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 12:49:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YULBGTWTMFCN5MNQBZHGA57URI.png"&gt;&lt;figcaption&gt;&lt;small&gt;한국사 강사 전한길씨가 관저에서 윤석열 전 대통령을 만났다. /전한길 뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국사 강사 출신 보수 유튜버 전한길씨가 윤석열 전 대통령의 옥중 편지를 공개했다.&lt;br&gt;&lt;br&gt;전씨는 28일 ‘전한길 뉴스’ 사이트를 통해 윤 전 대통령에게 받은 편지 내용을 공개했다. 이는 전씨가 먼저 보낸 편지의 답신으로, 서울구치소에 수감 중인 윤 전 대통령이 지난 26일 접견 중 작성한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;전씨가 공개한 편지 전문에 따르면, 윤 전 대통령은 “편지 잘 받았다. 저는 전 선생님이 하나님이 대한민국에 보내주신 귀한 선물이라 생각한다”며 “그래서 전 선생님의 안전과 건강을 지켜달라고 하나님께 아침, 저녁으로 늘 기도하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “해외 활동으로 힘드실 것으로 알고 있다. 하지만 하나님의 역사를 믿고, 모든 것을 하나님께 맡기며 공의로운 활동으로 평강과 기쁨을 찾는 것이 하나님의 영광을 드러내는 것이라 생각한다. 저 역시 옥중이지만 제가 할 일에 최선을 다하고 있다”고 했다.&lt;br&gt;&lt;br&gt;그는 “하나님은 이 나라를 절대 버리지 않을 것”이라며 “우리 모두가 지금 겪고 있는 이 시간이 고난 같지만 ‘고난 당하는 것이 내게 유익이라’ 하셨으니, 이는 하나님의 섭리가 허락하신 시간”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “그래서 저는 이 좁은 공간에서도 하나님께 감사하는 마음으로 지내며 기도하기를 쉬지 않고 있다”며 “저를 위해 늘 기도해주시는 전한길 선생님과 국민 여러분께 깊이 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “국민 여러분, 힘내시고 늘 건강하십시오. 자유대한민국을 위해, 여러분의 건강과 평안을 위해 하나님께 간절히 기도합니다”라고 했다. 그는 성경 구절 시편 119편 71절을 인용해 “고난 당한 것이 내게 유익이라 이로 말미암아 내가 주의 율례들을 배우게 되었나이다”라며 편지를 마무리했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 단독주택서 화재...30대 거주자 다쳐  </title>
+      <link>https://www.chosun.com/national/regional/2025/11/28/Z3CYACZKGRABNHWE6WNARNGJYE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/28/Z3CYACZKGRABNHWE6WNARNGJYE/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 10:55:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;28일 오후 6시 1분쯤 울산시 중구 남외동의 한 단독주택 2층에서 불이 났다.&lt;br&gt;&lt;br&gt;불이 난 주택에 사는 30대 주민 A씨가 창밖으로 뛰어내려 대피하는 과정에서 다리를 다쳐 병원으로 옮겨져 치료받고 있다.&lt;br&gt;&lt;br&gt;소방 당국은 인력 36명, 장비 13대를 동원해 약 17분 만에 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“누구 좋으라고 소환” “이첩 재검토하라”… 특검이 겨눈 ‘공수처 수뇌부’ 범죄</title>
       <link>https://www.chosun.com/national/court_law/2025/11/28/WEM4ASNT25DU7DAV2E2LZ4YLZM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/WEM4ASNT25DU7DAV2E2LZ4YLZM/</guid>
@@ -889,42 +925,6 @@
       <pubDate>Thu, 27 Nov 2025 08:00:00 +0000</pubDate>
       <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>“제가 엄마 차에 불질렀어요” 지하주차장 방화 20대 긴급체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/27/H5YDNRWZERAMPEF7UMV6XET7PQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/H5YDNRWZERAMPEF7UMV6XET7PQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 07:35:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TDBHWVQR75DCHCMBMLBCE7PTTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원시 아파트 지하주차장 화재 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 수원시 한 아파트 지하주차장에서 가족의 차량에 불을 지른 20대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;27일 수원권선경찰서는 현주건조물방화 등 혐의로 20대 남성 A씨를 긴급 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 6시 48분쯤 경기 수원시 권선구 고색동 한 아파트 지하주차장에 주차된 모친 소유 차량에 불을 지른 혐의다.&lt;br&gt;&lt;br&gt;주민 신고를 받고 출동한 소방 당국은 장비 18대와 인력 54명을 투입해 1시간 20여분 만에 화재를 진압했다.&lt;br&gt;&lt;br&gt;이 불로 A씨 모친 소유 차량이 전소했지만 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 만취 상태로 불을 지른 뒤 주차장 인근에 있다가 경찰에 검거됐다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “내가 엄마 차에 불을 질렀다”는 취지로 범행을 시인했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>보이스피싱·다단계 범죄 수익 몰수·추징 강화법 국회 통과</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/27/NMHJCUGQDBBTNJMJG4X7EK7SRU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/NMHJCUGQDBBTNJMJG4X7EK7SRU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 07:14:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFPJDBUTYRKBHNTVLHATICEKDE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 서울 여의도 국회에서 열린 제429회 국회(정기회) 제13차 본회의에서 부패재산의 몰수 및 회복에 관한 특례법 일부개정법률안이 가결되고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱·다단계·유사수신 등 불특정 다수를 대상으로 한 사기 범죄(특정사기범죄) 수익에 대한 몰수·추징과 피해자 환부를 강화하는 내용의 ‘부패재산의 몰수 및 회복에 관한 특례법(부패재산몰수법)’ 개정안이 27일 국회 본회의를 통과했다.&lt;br&gt;&lt;br&gt;개정안은 범죄피해자가 스스로 피해회복이 곤란한 경우 범죄수익(범죄피해재산)을 “필요적으로” 몰수·추징해 피해자에게 돌려주도록 하고, 범인이 범행 기간 중 취득한 재산이 범죄수익이라고 볼만한 상당한 개연성이 있다면 범죄수익으로 추정할 수 있으며, 몰수·추징의 집행을 위해 검사가 압수 수색 등 필요한 조치를 할 수 있도록 하는 내용을 담았다.&lt;br&gt;&lt;br&gt;기존에는 보이스피싱 범죄수익에 대한 몰수·추징이 “임의적으로” 이뤄져서 사건별로 혹은 법원별로 범죄피해액의 환부 여부가 달라질 수 있다는 지적이 있었다. 또한 피의자(피고인)가 특정사기범죄 범행을 하는 동안 취득한 재산이 범행과 관련있는지를 명확히 입증해야 했다. &lt;br&gt;&lt;br&gt;법무부 관계자는 “개정 부패재산몰수법이 시행되면 특정사기범죄 수익의 추적·환수의 실효성이 커져서 범죄 피해자 보호를 두텁게 할 수 있을 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “보이스피싱 등 주요 민생침해 사기 범죄 수익을 보다 철저히 환수해 피해자에게 환부할 수 있는 기반이 마련됐다”면서 “특정사기범죄 범행을 근절하고 피해자를 보호할 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘수원·평택 등 공군기지 촬영' 10대 중국인 2명...일반이적죄로 재판행 </title>
-      <link>https://www.chosun.com/national/court_law/2025/11/27/JW3TB4LKKZAXVESU7EMFLJZRTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/JW3TB4LKKZAXVESU7EMFLJZRTQ/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 07:13:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DMVXZ3KQKQFQZO3TOMAOOEIGVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'을지 자유의 방패(UFS·을지프리덤실드) 2025년 훈련'을 실시한 경기 평택시 주한미군 오산공군기지에서 F-16 전투기가 이륙 준비를하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수원·평택·청주 공군기지를 비롯해 인천·김포·제주 등 주요 국제공항 등을 돌며 전투기와 시설 등을 몰래 촬영하다 적발된 10대 중국인 2명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수원지검 공공수사부(부장 김현우)는 형법상 일반이적 등 혐의로 A군 등 중국 국적 고교생 2명을 구속 기소했다고 27일 밝혔다.&lt;br&gt;&lt;br&gt;수사 당국에 따르면, A군 등은 작년 하반기부터 올해 3월까지 한국에 각자 3차례, 2차례씩 국내로 들어와 주요 공군기지와 국제공항 등의 이·착륙 중인 전투기, 관제시설 등을 카메라로 수백장 촬영한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이들은 국내에 수일간 머물며 망원렌즈가 장착된 DSLR 카메라와 휴대전화를 갖고 여러 군사시설과 국제공항 부근을 돌아다니면서 사진을 찍은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들이 방문한 곳은 수원 공군기지, 평택 오산공군기지(K-55), 평택 미군기지(K-6), 청주 공군기지 등 한미 군사시설 4곳과 인천·김포·제주공항 등 주요 국제공항 3곳이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WYYGYREYMKKAN2GILBDRWPXV6E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지방검찰청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;범행 당시 전원이 켜지기는 하지만, 주파수가 제대로 잡히지 않는 상태의 무전기도 소지하고 있었던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;이들은 지난 3월 21일 오후 수원 공군기지 부근에서 이·착륙 중인 전투기를 무단으로 촬영하다가 이를 목격한 주민의 신고를 받고 출동한 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;경찰은 이들의 행적과 휴대전화 포렌식 등을 토대로 형법상 일반이적죄 혐의를 적용해 지난달 말 검찰에 넘겼다. 일반이적죄는 대한민국의 군사상 이익을 해하거나 적국에 군사상 이익을 공여한 자를 처벌하는 조항이다.&lt;br&gt;&lt;br&gt;A군 등은 조사에서 “평소 비행기 사진을 찍는 취미가 있다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘코인 업자 뇌물 수수’ 前 도봉서장 구속 기소...업자 5명도 재판행  </title>
-      <link>https://www.chosun.com/national/national_general/2025/11/27/PBTPVT5GLFCNTMJP7ZYRPU2WFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/27/PBTPVT5GLFCNTMJP7ZYRPU2WFY/</guid>
-      <dc:creator>수원=김수언 기자, 수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 07:04:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6URYBLRCOVBJXM5FBWRQH4Z2XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;코인 자금세탁 범행 구조./수원지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;코인 업자들로부터 뇌물을 받은 간부급 경찰관들이 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;수원지검 형사2부(부장 고은별)는 특정범죄 가중처벌 등에 관한 법률 위반 등 혐의로 전 도봉경찰서장인 A총경과 전 경찰청 소속 B경감을 구속 기소했다고 27일 밝혔다. &lt;br&gt;&lt;br&gt;이와 함께 검찰은 A총경 등에게 뇌물을 건네고 보이스피싱 피해금을 코인 등으로 자금세탁 해 준 코인업체 운영자 C씨와 대표이사 D씨 등 5명을 범죄수익은닉의 규제 및 처벌 등에 관한 법률 위반 혐의 등으로 기소했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6257QEMSNA65CNP7MZFSMO3NQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수사 편의 범행 구조./수원지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면 A총경은 지난 2022년 7월부터 작년 7월까지 수사 정보 및 편의 제공 등에 대한 대가로 C씨 등으로부터 총 7900만원을 받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A총경은 평소 알고 지내던 국내 가상자산거래소 관계자를 통해 C씨를 소개받았다. 이후 A총경은 C씨로부터 거래소 상장 예정인 코인에 대한 투자기회를 얻고 투자가 실패하더라도 원금은 보장해 주겠다는 약속을 받으면서 수사 정보와 편의 제공 등의 도움을 준 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A총경은 C씨를 수사하는 경찰서에 아는 경찰관이 있는지 문의하고 변호사를 소개해주는 등 수사에 대응하도록 도와주기도 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTZ7N32NEFAWTATXOG2GA3CDH4.png"&gt;&lt;figcaption&gt;&lt;small&gt;사설 코인 환전소./수원지방검찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;B경감은 작년 2월부터 올해 2월까지 C씨와 D씨로부터 수사 정보 및 편의 제공 등에 대한 대가로 10여 차례에 걸쳐 1000만원 상당의 금품과 향응을 제공받은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A총경으로부터 C씨와 D씨를 소개받은 B경감은 명품 지갑, 신발, 코트 등 자신이 원하는 구체적인 품목을 요구해 받은 뒤 사건 진행 상황을 확인해주거나 범행에 사용된 계좌의 지급 정지 해제를 요청하기도 한 것으로 확인됐다. &lt;br&gt;&lt;br&gt;C씨와 D씨 등은 작년 1월부터 10월까지 보이스피싱 피해금 등 총 2496억원을 코인 등으로 교환, 보이스피싱 조직에 전달한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;C씨는 과거 가상자산업체를 운영한 경험을 토대로 코인업계 종사자인 D씨 등을 영입했다. C씨가 보이스피싱 피해금을 현금으로 받으면 코인을 구매했고, 이를 D씨 등이 정상 매출이 발생한 것처럼 법인 계좌에 입금해 자금을 세탁하는 방식으로 범행을 이어갔다. &lt;br&gt;&lt;br&gt;검찰은 C씨 등의 범행으로 얻은 수익을 112억원으로 추정하고 있다. 검찰은 은닉 재산 추적을 통해 15억원 상당의 재산을 몰수·추징보전 조치했다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “신종기술을 바탕으로 진화하는 자금세탁 범죄와 공직비리 엄단에 힘을 쏟겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“강압적 언행 단정 못해”...김건희특검, 양평 공무원 ‘셀프 감찰’ 발표</title>
