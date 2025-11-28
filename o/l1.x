@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>광장, 결식우려 아동 위한 '2025 행복상자 프로젝트' 참여</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213597.jpg" alt="1232132.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;10월 26일 법무법인 광장에서 진행된 '2025 행복상자 프로젝트' 봉사활동.《사진=법무법인 광장》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.leeko.com/leenko/main.do?lang=KR" target="_blank"&gt;법무법인 광장&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3235"&gt;김상곤&lt;/span&gt;)이 11월 26일 서울 중구 소공동 광장 신관 1층 아카데미아실에서, 연말을 맞아 결식우려 아동들을 위한 '2025 행복상자 프로젝트'에 참여했다.&lt;br /&gt;&lt;br /&gt;‘행복상자 프로젝트’는 사회공헌 플랫폼인 행복얼라이언스가 결식우려 아동들에게 건강한 일상과 미래를 응원하는 물품 꾸러미를 전달하는 프로젝트다.&lt;br /&gt;&lt;br /&gt;이날 광장 임직원 30여명은 행복얼라이언스의 ‘행복상자&amp;기초 생필품 패키지 지원’ 사업을 후원하고, 지원 물품을 직접 포장하는 봉사활동을 진행했다.&lt;br /&gt;&lt;br /&gt;겨울나기를 위한 필수품인 위생용품, 영양간식, 생활용품 등을 박스에 담아 포장하고 응원편지를 작성하는 등 따뜻한 나눔을 실천하는 시간을 가졌다.&lt;br /&gt;&lt;br /&gt;광장 공익활동위원회 박수정 비서지원부 과장은 “출산을 앞둔 임산부로서 생각보다 행복상자 포장이 어려웠는데 매우 보람된 일이었다”며 “행복상자를 받는 아이들을 생각하면서 포장을 했는데, 비록 작은 정성이지만 아이들에게 의미 있는 보탬이 되길 바란다”고 말했다.</description>
+			<pubDate>Fri, 28 Nov 2025 03:09:16 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213597</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213597</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213597.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 11월 28일</title>
 			<description>&lt;b&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:30 문화체육관광위원회 전체회의(본관 506호)&lt;br /&gt;&lt;br /&gt;10:00 과학기술방송통신위원회 과학기술원자력법안심사소위원회(본관 628호)&lt;br /&gt;&lt;br /&gt;10:00 외교통일위원회 전체회의(본관 401호)&lt;br /&gt;&lt;br /&gt;11:00 기획재정위원회 조세소위(본관 430호)&lt;br /&gt;&lt;br /&gt;11:00 기획재정위원회 예산결산기금심사소위원회(본관 431호)&lt;br /&gt;&lt;br /&gt;14:00 기획재정위원회 전체회의(본관 430호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 진성준 의원실 등, 반복되는 참사 근절과 생명안전기본법 제정을 위한 시민 공청회(의원회관 제2간담회의실)&lt;br /&gt;&lt;br /&gt;09:30 신동욱 의원실 등, 상법개정과 기업의 대응 방안(의원회관 신관 제2세미나실)&lt;br /&gt;&lt;br /&gt;09:30 김용태 의원실 등, 연애와 결혼, 출산에 대한 새로운 생각 세미나(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;09:30 유용원 의원실 등, 해군창설 80주년, 강한해군·해양강국: 제9회 안보세미나(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;10:00 김태선 의원실 등, 동물 생추어리 법제화를 위한 토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 민형배 의원실 등, 문화수도 완성!: 아시아문화중심도시 3.0시대로 도약 국회토론회(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:00 박상혁 의원실 등, 제대군인 지원 현실화 방안 모색 간담회(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이주영 의원실 등, 중증 혈액암 더 나은 내일을 위한 정책 토론회(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;13:30 남인순 의원실 등, 초고령사회 인구감소지역 노인 통합돌봄 보장 방안: 제19차 노인인권포럼(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;14:00 이재관 의원실 등, 2025 「대학주도 창업과 국가균형성장」 전략 토론회(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 강선영 의원실 등, AI 중심 K-중소방산 글로벌 경쟁력 강화(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;14:00 김재원 의원실 등, K-컬처 300조원 시대, 문화콘텐츠 산업 육성을 위한 국회 정책 토론회(의원회관 제3간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 이학영 의원실 등, 국립공원과 지방자치단체의 상생협력 방안포럼(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;14:00 한지아 의원실, 국민 건강 증진을 위한 편의점 안전상비약 정책토론회(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 한정애 의원실 등, 통합물관리를 위한 물관리기본법 개정 방안은?: 국회 물포럼 제32차 토론회(의원회관 신관 제2세미나실)&lt;br /&gt;&lt;br /&gt;15:00 정희용 의원실 등, 제30차 UN 기후총회 협상 결과 및 향후 대응 과제: 기후협상 실무자 초청 국회 세미나(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:20 강경숙 의원, [학교급식법 개정안 발의 기자회견]&lt;br /&gt;&lt;br /&gt;09:40 모경종 의원, [인천 서구 청라소각장 검단 떠넘기기 이전 반대 기자회견]&lt;br /&gt;&lt;br /&gt;10:00 김주영 의원, [양대노총 공무직위원회법 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 전종덕 의원, [서민주거 안정과 전세사기 피해지원 에산 증액 반대하는 기획재정부 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;13:40 김현 의원, [더불어민주당 국민소통위원회 민주파출소 정례브리핑]&lt;br /&gt;&lt;br /&gt;14:00 임명희 대변인, [정치 현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Thu, 27 Nov 2025 22:36:39 -0000</pubDate>
@@ -227,16 +237,6 @@
 			<link>https://www.lawtimes.co.kr/news/213531</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213531</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213531.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
-		</item>
-		<item>
-			<title>'초코파이 절도 사건' 항소심서 무죄</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213528.jpg" alt="12312.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;민주노총 전북본부는 9월 30일 전북도청 앞에서 기자회견을 열고 "피해금 1천50원의 '초코파이 절도 사건'에 대해 무죄를 선고해달라"고 촉구하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;피해금 1050원의 '초코파이 절도 사건'에 항소심 재판부가 무죄를 선고했다.&lt;br /&gt;&lt;br /&gt;전주지법 형사2부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="15158"&gt;김도형&amp;nbsp;&lt;/span&gt;부장판사)는 11월 27일 오전 절도 혐의로 기소된 40대 A 씨의 항소심 선고기일에서 벌금 5만 원을 내린 원심을 뒤집고 무죄를 선고했다(&lt;b&gt;2025노613&lt;/b&gt;). &lt;br /&gt;&lt;br /&gt;검찰은 10월 30일 열린 결심 공판에서 A 씨에게 선고 유예를 내려달라고 요청했다. 선고유예는 비교적 가벼운 범죄에 대한 형의 선고를 미루고 2년간 다른 범죄를 저지르지 않으면 처벌을 면하게 한 제도다.&lt;br /&gt;&lt;br /&gt;앞서 전북 완주군의 한 물류회사의 보안업체 직원인 A 씨는 지난해 1월 18일 회사 사무실의 냉장고에 있던 450원짜리 초코파이와 600원짜리 커스터드를 꺼내먹은 혐의로 법정에 섰다.</description>
-			<pubDate>Thu, 27 Nov 2025 04:39:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213528</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213528</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213528.jpg</media:thumbnail>
 			<dc:creator>김지수 기자</dc:creator>
 		</item>
 	</channel>
