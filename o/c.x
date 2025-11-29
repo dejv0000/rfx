@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>드라마 ‘시그널’ 원로배우 이문수, 폐암 투병 중 별세</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 08:11:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34YC4MTW2NBYZFQV4IEPEGDLSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이문수./한국연극배우협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원로배우 이문수가 폐암 투병 중 76세 나이로 별세했다. &lt;br&gt;&lt;br&gt;29일 한국연극배우협회 등에 따르면 이문수는 전날 밤 경기 양평군 소재 병원에서 별세했다. 고인은 2022년 폐암이 발병해 그동안 치료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울예술전문대학을 졸업한 고인은 1989년 국립극단에 합류해 ‘시련’ ‘문제적 인간 연산’ ‘세일즈맨의 죽음’ ’1984′ ‘갈매기’ ‘리어왕’ 등 굵직한 작품에 출연했다.&lt;br&gt;&lt;br&gt;드라마와 영화에서도 꾸준히 활동했다. 2010년 영화 ‘헬로고스트’와 SBS 드라마 ‘대물’에 출연했으며, 2016년 tvN 드라마 ‘시그널’에서 선 굵은 연기를 선보였다.&lt;br&gt;&lt;br&gt;2010년에는 공로를 인정받아 문화체육관광부 장관표창을 수훈했다.&lt;br&gt;&lt;br&gt;빈소는 서울 한양대학교병원장례식장 2호실에 마련됐다. 발인은 12월 1일 오전 8시 20분, 장지는 에덴추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>11월 마지막 날, 수도권 미세먼지 ‘나쁨’...내주 영하 10도 강추위</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/11/29/NKOUIXNKAJE5DBW2IO6DF7UM2Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/29/NKOUIXNKAJE5DBW2IO6DF7UM2Y/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 07:07:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGIZRSMJQTMYTCMRRGMODGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초미세먼지 주의보 발령된 청주 무심천./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 30일 수도권의 공기질이 탁할 것으로 예보됐다. 12월 첫주인 내주 중반에는 강추위가 찾아올 전망이다.&lt;br&gt;&lt;br&gt;29일 기상청과 국립환경과학원에 따르면, 30일 수도권과 강원·충청권에서 미세먼지(PM10) 농도가 ‘나쁨’ 수준일 것으로 전망됐다. 내달 1일에는 공기가 더 탁해지면서 전국에서 미세먼지 농도가 ‘나쁨’ 수준을 보일 것으로 예상된다.&lt;br&gt;&lt;br&gt;30일 우리나라 북쪽을 통과하는 기압골의 영향으로 수도권과 강원영서에는 새벽까지 1㎜ 안팎의 비가 내리는 곳이 있겠고, 충북북부에는 0.1㎜ 미만의 빗방울이 떨어지겠다.&lt;br&gt;&lt;br&gt;30일 아침 최저기온은 2∼12도, 낮 최고기온은 13∼20도로 예보됐다. 남부지방을 중심으로 낮과 밤의 기온차가 10∼15도로 클 것으로 예상된다.&lt;br&gt;&lt;br&gt;내주 2일에는 북쪽에서 찬 바람이 내려오며 기온이 크게 떨어지면서 최저 영하 6도에서 영상 5도, 최고 0~10도의 분포를 보일 것으로 전망된다. &lt;br&gt;&lt;br&gt;내달 3~4일에는 최저기온이 영하 10도까지 떨어지며 올가을 이후 가장 추운 날을 보낼 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>헌재, ’50년 팔당 상수원 규제' 헌법소원 각하</title>
       <link>https://www.chosun.com/national/court_law/2025/11/27/RTXQVNKBFZFQZB7T3DZH2XFKHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/RTXQVNKBFZFQZB7T3DZH2XFKHM/</guid>
@@ -869,15 +887,6 @@
       <content:encoded>27일 추경호 국민의힘 의원에 대한 체포동의안이 국회 본회의에서 가결됐지만, 법조계에서는 “추 의원에 대한 구속영장이 발부되긴 쉽지 않을 것”이라는 전망이 우세하다. 추 의원에게 적용된 내란에 가담한 혐의와 관련해 직접적인 증거가 없어 법리적 다툼의 여지가 큰 상황이기 때문이다.&lt;br&gt;&lt;br&gt;특검 측은 지난 3일 구속영장을 청구하면서 추 의원에 대해 내란중요임무종사 혐의를 적용했다. 추 의원이 작년 12월 3일 비상계엄의 불법성을 인식하고도 국민의힘 의원들의 계엄 해제 요구안 표결을 방해하기 위해 의원총회 장소를 수차례 변경 공지하는 등 내란에 가담했다는 것이다. 특검은 그 근거로 계엄 당일 오후 11시 22분쯤 추 의원이 윤 전 대통령과 2분간 통화하며 ‘비상계엄에 협조해 달라는 취지의 전화를 받았다’고 주장하고 있다. 그러나 특검 측은 구체적인 통화 내용은 확보하지 못한 것으로 전해졌다. 추 의원 측은 “윤 전 대통령이 전화로 ‘계엄을 미리 알리지 못해 미안하다’고 했을 뿐”이라는 입장이다. &lt;br&gt;&lt;br&gt;특검 측은 작년 12월 4일 0시 3분, 추 의원이 국민의힘 의원들에게 “당사로 모이라”고 공지한 것도 추 의원이 내란에 가담한 정황으로 보고 있다. 당시 우원식 국회의장이 국회의원들에게 “본회의장으로 모여 달라”는 문자를 발송했지만, 추 의원이 이를 무시하고 국민의힘 의원들을 다른 곳으로 모이게 했다는 것이다. 이에 대해 추 의원 측은 “당시 경찰이 국회 출입을 전면 통제해 의원들을 당사에 모이게 한 것”이라고 했다. 실제 계엄 당일 오후 11시 37분 경찰은 국회 출입을 전면 통제했고 이튿날 새벽 1시 45분이 돼서야 국회 관계자들에 한해 출입을 제한적으로 허용했다.&lt;br&gt;&lt;br&gt;특히 특검은 추 의원이 12월 4일 새벽 국회 본회의장에 있던 한동훈 국민의힘 당대표에게 전화를 걸어 “밖으로 나와 달라”고 한 것도 내란 가담이라고 주장한다. 추 의원이 한 대표와 친한계 의원들을 본회의장 밖으로 빼내 표결을 방해하려고 했다는 것이다. 그러나 추 의원 측은 “한 대표에게 ‘당 입장을 의논하고 본회의장으로 올라가자’고 했을 뿐”이라며 “한 대표는 계엄 선포 직후 이미 ‘계엄이 위법하다’는 입장을 밝힌 상황이었다. 표결을 방해할 의도는 전혀 없었다”고 했다.&lt;br&gt;&lt;br&gt;특검은 또 추 의원의 증거인멸 우려 사유로 그가 지난 5월 휴대전화를 교체한 점을 꼽고 있다. 그러나 추 의원 측은 지난해 12월 경찰 수사 단계에서 이미 휴대전화에 대한 조사를 마쳤다는 입장이다.&lt;br&gt;&lt;br&gt;야권과 법조계에선 “국회의원의 면책특권에 대한 치열한 법리 다툼도 예상된다”는 말도 나왔다. 헌법 제45조는 ‘국회의원은 국회에서 직무상 행한 발언과 표결에 대해 국회 외에서 책임을 지지 아니한다’고 규정하고 있다. 추 의원이 계엄 해제 표결에 대해 누군가와 상의하거나 논의했다고 하더라도 국회의원 표결의 ‘부수적 행위’로서 면책 범위에 해당할 가능성이 높다는 것이다. 부장판사 출신 한 변호사는 “(추 의원의) 표결 방해가 죄가 되는지 의문인 데다, 특검 주장은 대체로 정황에 대한 해석에 기초하고 있다”며 “영장 심사에서 특검이 핵심 증거를 제시하지 못한다면, 구속은 물론 범죄 소명조차 쉽지 않을 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;다만 법조계 일각에선 특검 측이 수사 과정에서 아직 공개되지 않은 유의미한 증거나 관계자 진술을 확보했을 수 있다는 주장도 나온다. 계엄 선포 직후 7분 넘게 통화했던 한덕수 전 국무총리를 비롯해 함께 수사를 받은 관련자들이 특검에서 추 의원 혐의를 입증할 진술을 했을 가능성도 배제할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>교권 침해 논란에도… 중고생 희망 직업 1위는 ‘교사’</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/6SPTEHCF6NGT7FHZ4SX4UJ73VM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/6SPTEHCF6NGT7FHZ4SX4UJ73VM/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:17:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIZ4JDNRNWRQVTKD7HARW5VF7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교권 침해 문제가 지속되고 있지만, 중·고등학생 희망 직업 1위는 여전히 교사인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;교육부와 한국직업능력연구원은 27일 초·중·고 1,200개교의 학생·학부모·교원 총 3만7,408명을 온라인으로 조사한 ‘2025년 초·중등 진로 교육 현황조사’를 발표했다. 조사 기간은 지난 5월 16일부터 6월 13일까지였다.&lt;br&gt;&lt;br&gt;그 결과 중·고교생 희망 직업 1위는 교사로 나타났다. 중·고교생 희망 직업 1위인 교사는 이 조사가 국가승인통계가 된 2015년 이래로 줄곧 1위를 지키고 있다.&lt;br&gt;&lt;br&gt;구체적으로 중학생은 7.5%가 교사를 희망 직업으로 선택했다. 작년(6.8%) 대비 0.7%포인트(p) 상승한 수치다. 2∼5위는 운동선수(5.4%), 의사(3.6%), 경찰관·수사관(3.2%), 간호사(2.9%) 순이었다. 의사는 5.1%에서 3.6%로 1.5%포인트 하락했다.&lt;br&gt;&lt;br&gt;고등학생의 교사 희망 비율은 7.6%였다. 그리고 간호사(5.0%), 생명과학자 및 연구원(3.7%), 보건·의료 분야 기술직(2.9%), 경찰관·수사관(2.6%)이 차례로 뒤를 이었다. 작년 7위였던 생명과학자 및 연구원이 3위로, 11위였던 보건·의료 분야 기술직이 4위로 올라 눈길을 끈다.&lt;br&gt;&lt;br&gt;초등학생 희망 직업 1위는 운동선수(14.1%)였다. 2018년부터 8년 연속 1위 자리를 지켰다. 2위는 의사(6.6%)였고, 3위는 크리에이터(4.8%)가 차지했다. 4위는 교사(4.5%), 5위는 요리사·조리사(3.9%)로 조사됐다. 2∼5위 희망 직업 역시 작년과 순위가 같다.&lt;br&gt;&lt;br&gt;희망 직업이 없다는 학생 비율은 중학생이 40.1%로 가장 높았다. 이어 고등학생은 28.7%, 초등학생은 21.9%가 희망 직업이 없다고 답했다. 이 비율은 초등학생과 중학생에서 각각 1.5%포인트, 0.1%포인트 증가했으나, 고등학생에서는 0.3%포인트 감소했다. 희망 직업이 없다는 학생을 대상으로 그 이유를 조사한 결과 ‘내가 무엇을 좋아하는지 아직 잘 몰라서’(초 42.8%, 중 50.9%, 고 44.0%)라고 응답한 학생이 가장 많았다.&lt;br&gt;&lt;br&gt;고등학생을 대상으로 졸업 후 진로 계획을 물어본 결과 ‘대학 진학’ 희망 비율은 64.9%로 1년 전(66.5%)보다 다소 하락했다. 반면 ‘취업 희망’은 2.3%포인트 상승한 15.6%, ‘진로 미결정’은 0.8%포인트 하락한 11.2%로 각각 조사됐다. 졸업 후 창업을 희망하는 고등학생 비율은 3.3%로, 1년 전과 같았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, 양평 공무원 사망 ‘셀프 감찰’서 면죄부</title>
       <link>https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</guid>
@@ -926,15 +935,6 @@
       <description/>
       <pubDate>Thu, 27 Nov 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EGTFZ4XYZAXLJTZYLQPXHSAIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>여인형 “군인들한테 체포·검거는 입에 밴 말”… 체포조 운영 의혹 반박</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/27/3YBD4XL6LJHGRO4EF573O4IMAE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/27/3YBD4XL6LJHGRO4EF573O4IMAE/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 13:32:00 +0000</pubDate>
-      <content:encoded>12·3 비상계엄 당시 ‘정치인 체포조’ 운영 의혹을 받는 여인형 전 방첩사령관이 27일 윤석열 전 대통령의 내란 혐의 재판에 증인으로 나와 해당 의혹을 반박하는 취지로 증언했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 이날 윤 전 대통령의 내란 우두머리 사건 재판을 열고 여 전 사령관을 재차 소환했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 이날 재판에서 체포조 운영 의혹과 관련해 “군인들은 체포, 검거, 공격해, 쳐부숴 같은 말은 입에 배어 있다”며 “저도 모르게 한 말이 있고, 저도 나중에 보니까 ‘이때 이런 말을 왜 썼지’ 싶은 말도 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3WMZLGGU2DMZJZGY4WMMTDGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 내란 재판 증인 출석한 여인형&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤 전 대통령 측도 계엄 당시 체포조 운영은 없었다는 취지의 증언을 끌어내는 데 주력했다. 윤 전 대통령 측은 계엄 당시 체포 대상자를 들었다는 여 전 사령관, 김대우 전 방첩사 수사단장 등의 메모에 적힌 이름이 다소 차이가 있다는 점을 언급하면서 “한 사람으로부터 지시가 내려온 거면 명단이 같아야 하는데 여기저기 흘러다니는 것을 종합하다 보니 다른 것 아니냐”고 했다. 이에 여 전 사령관은 “(국방)장관한테 들었다. 끄적끄적 썼고 김대우한테 불러줬고 김대우는 돌아가서 화이트보드에 적어놨다”고 했다.&lt;br&gt;&lt;br&gt;여 전 사령관은 또 계엄 당시 경찰과 국방부 조사본부에 100명씩을 요청한 것에 대해서 “엄청나게 당황해서 실수한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령도 직접 신문에 나섰다. 윤 전 대통령은 계엄 당시 국회 등에 대규모 군 병력을 투입할 의도가 없었다고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “계엄 전 강호필 대장을 합참 차장에서 지작사령관으로 보냈는데, 강 대장은 정무적으로 대통령의 시국에 대한 관점과는 다른 생각을 갖고 잇는 사람”이라면서 “계엄 전 (강 대장을) 육군 병력의 70%를 관할하는 지작사령관으로 보낸 건, 계엄을 하더라도 대규모 병력 투입은 안중에도 없었다는 걸 의미하지 않느냐”고 했다. 여 전 사령관도 “상식적으로 맞는다”며 동조했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 증인으로 나온 김봉식 전 서울경찰청장에게는 “국회에 (경찰) 300~700명으로 국회를 봉쇄하고 통제한다는 건 코미디 같은 얘기 아니냐”고 했다. 국회 봉쇄 조치를 하기에는 너무 적은 숫자라는 것이다. 김 전 청장은 “제대로 된 (국회) 차단과 봉쇄를 하려면 3500명은 필요하다”며 동조하는 취지로 답했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 계엄 당시 포고령 발동 후 일부 국회의원들의 출입이 제한된 점에 대해서도 언급했다. 윤 전 대통령 측은 “2차 출입 통제 당시 원래의 목적은 아니었지만 결과적으로 일부 의원들의 출입이 차단된 것은 맞는 걸로 보이는데, 계엄 해제 요구안이 가결되는 것을 막기 위한 의도로 (의원 출입을) 차단한 것은 아니지 않았나”고 물었다.&lt;br&gt;&lt;br&gt;김 전 청장은 이에 “그 당시에는 포고령을 따라야 하는지 말아야 하는지 논란이었다”며 “결과적으로 그 과정에서 국회의원들이 (국회에) 못 들어간 부분에 대해선 굉장히 후회되고 전적으로 제 판단에 문제가 있었다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>44일 만에 싸늘한 주검으로... 청주 실종 50대 여성 前 연인 자백</title>
