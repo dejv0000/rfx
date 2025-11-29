@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“교통사고 났다”... 복귀하기 싫어 거짓 보고, 휴가 늘린 20대 군인 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/UFQW76PNJZF2ZGMD7ITDU6NPQY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/UFQW76PNJZF2ZGMD7ITDU6NPQY/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 09:44:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTQOBVMM2TAYZRG5STQMZYG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고(뉴스1 자료) ⓒ News1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴가 복귀 당일 교통사고를 당한 것처럼 거짓 보고해 휴가를 연장한 20대 군인이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;인천지법 형사18단독(부장 윤정)윤정)은 근무기피목적위계 및 위계공무집행방해 혐의로 기소된 A(23)씨에게 징역 4개월을 선고했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월 12일 오후 7시쯤 서울 도봉구 일대에서 지휘관인 포대장 B대위에게 전화로 “교통사고를 당해 수술 및 입원을 해야 하니 휴가를 추가해 달라”는 취지로 거짓말해 1일 휴가를 연장 받은 혐의를 받았다.&lt;br&gt;&lt;br&gt;동시에 A씨는 이 같은 거짓말을 함으로써 B대위의 인사관리에 관한 직무집행을 방해한 혐의도 있다.&lt;br&gt;&lt;br&gt;A씨는 범행 당일 자정까지 부대에 복귀해야 했지만 여자친구와 시간을 보내다 부대에 복귀하고 싶지 않아 이러한 범행을 저지른 것으로 확인됐다.&lt;br&gt;&lt;br&gt;범행을 공모한 A씨의 여자친구는 병원의 간호사인 척 가장, B대위에게 “교통사고로 A씨의 허리 인대가 늘어나고 무릎의 물혹이 터져 수술과 입원이 필요하다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 각 범행은 군 기강을 해이하게 하고, 병역 의무를 성실히 수행하고 있는 장병들의 사기를 저하하는 것으로 죄책이 가볍지 않다”고 판시했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전북 순창 야산서 화재 발생... 산림당국, 헬기 등 투입해 진화 중 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/X7M57SXQB5DO5CGEGYRDT67YEQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/X7M57SXQB5DO5CGEGYRDT67YEQ/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 09:32:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LIPDTALDZNAVZJGVQ3QRSKMOGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 순창 산불./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 오후 4시쯤 전북 순창의 한 야산에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;산림 당국은 산불진화차, 임차 헬기 등 장비 17대와 진화 인력 50명을 긴급 투입해 진화 작업을 벌이고 있다.&lt;br&gt;&lt;br&gt;불은산꼭대기에서 발생했으며 현재까지 인명피해는 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;현재 주불을 잡고 잔불 정리를 시작한 것으로 알려졌다. 산림 당국은 잔불 정리 후 화재 원인 등을 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 금정구 멧돼지 출몰에... 주민 2명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/UL2PXLEFURC3TPDKCIQMSK7Y6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/UL2PXLEFURC3TPDKCIQMSK7Y6I/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 08:41:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVBEITCFDBE45MOHY3MF467234.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포획된 멧돼지./금정경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 아파트 인근에서 멧돼지가 출몰해 시민 2명이 다쳤다. &lt;br&gt;&lt;br&gt;29일 금정경찰서에 따르면 이날 오후 2시 15분쯤 부산 금정구 청룡동의 한 아파트 지하주차장에서 멧돼지가 나타났다는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;멧돼지는 이 일대를 휩쓸고 다녔고 80대 주민 1명이 얼굴 등에 중상을 입었으며 60대 경비원도 오른쪽 다리에 경상을 입어 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;멧돼지는 오후 3시 1분쯤 경찰 등에 의해 포획됐다. 멧돼지의 무게는 120kg 정도 달했던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;관할 자치단체는 멧돼지 출현 신고가 접수되자 안전 안내 문자를 보내 인근 주민에게 “외출할 경우 안전에 유의해달라”고 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>드라마 ‘시그널’ 원로배우 이문수, 폐암 투병 중 별세</title>
       <link>https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</guid>
@@ -802,25 +829,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4GENJWGI2TGMRYGY4GEMZVGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 도로를 건너던 60대 보행자가 오토바이와 승용차 4대에 잇달아 치여 숨지는 사고가 났다. &lt;br&gt;&lt;br&gt;28일 부산경찰청에 따르면 전날 오후 8시30분쯤 부산 부산진구 백양대로에서 20대가 몰던 오토바이가 도로를 건너던 60대 남성을 들이받았다. 이어 SUV와 승용차 등 4대가 쓰러진 남성을 발견하지 못하고 차례로 밟고 지나갔다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스와 CCTV 등을 확보해 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자에 대해 주의 의무를 다했는지 등을 따져본 뒤 구체적인 혐의를 적용할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전 연인 살해 후 폐수조에 유기… 경찰, 50대 남성 구속영장 신청</title>
-      <link>https://www.chosun.com/national/regional/2025/11/28/T4AENN4A6VAEFEDGXEEOUHYVIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/28/T4AENN4A6VAEFEDGXEEOUHYVIQ/</guid>
-      <dc:creator>청주=정성원 기자</dc:creator>
-      <description>옛 연인을 살해한 뒤 시신을 마대에 담아 폐수처리조에 유기한 50대 남성에 대해 경찰이 구속영장을 신청했다.
-28일 충북경찰청에 따르면 이날 새벽 살인 혐의로 김모(54)씨에 대해 구속영장을 신청했다고 28일 밝혔다.</description>
-      <pubDate>Fri, 28 Nov 2025 01:05:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5GM4ZJYJNIG3LWWTTTYAIC7NA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 연인인 장기 실종 여성을 살해한 혐의로 긴급 체포된 김모씨가 지난 26일 오후 충북 충주호에서 경찰에 실종 여성의 차량을 유기한 지점을 밝힌 뒤 다시 호송되고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;옛 연인을 살해한 뒤 시신을 마대에 담아 폐수 처리조에 유기한 50대 남성에 대해 경찰이 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;충북경찰청은 살인과 사체유기 혐의로 김모(54)씨에 대해 구속영장을 신청했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;김씨는 지난달 14일 전 연인 A씨의 SUV에서 그가 다른 남성을 만난다는 사실을 알게 되자 격분해 흉기로 10여 차례 A씨를 찔러 살해했다. 그는 숨진 A씨를 마대에 넣은 뒤 평소 거래하던 충북 음성군 한 폐기물 처리 업체 오폐수 처리조에 빠뜨려 유기한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 지난달 14일 오후 6시 30분쯤 청주시 흥덕구 한 회사에서 자신의 SUV 차량을 타고 퇴근한 뒤 연락이 끊겼다. 이틀 뒤인 16일 “혼자 사는 어머니와 14일 낮에 통화한 이후 연락이 되지 않는다”는 자녀의 신고가 접수되면서 경찰이 소재 파악에 나섰다. &lt;br&gt;&lt;br&gt;이 과정에서 경찰은 지난 26일 폭행치사 혐의로 김씨를 긴급 체포했고, 조사 과정에서 범행 일체를 자백받았다. 이에 경찰은 김씨의 혐의를 폭행치사에서 살인으로 변경해 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;김씨에 대한 구속 전 피의자 심문(영장실질심사)은 이날 오후 2시 청주지법에서 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 광진구에 어린이병원 들어선다…서울 첫 ‘공공 기여’ 병원</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/L6NLIXJAOZHCXNEDDE3NPKXYWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/L6NLIXJAOZHCXNEDDE3NPKXYWI/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 01:07:05 +0000</pubDate>
-      <content:encoded>서울 광진구 자양동에 서울 첫 ‘공공 기여’ 어린이병원이 들어설 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EW3W52PAHZHY7EGZYWR6MGMILE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 광진구 자양동 '자양5구역'에 지을 예정인 어린이병원의 조감도. 서울 첫 '공공 기여' 어린이병원으로 짓는다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 지난 27일 도시재정비위원회를 열고 이 같은 내용의 ‘자양5 재정비 촉진 계획 결정안’을 통과시켰다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;자양5구역은 옛 우정사업정보센터가 있던 자리다. 2013년 센터가 나주로 이전하며 빈 땅이 됐다.&lt;br&gt;&lt;br&gt;서울시는 자양5구역 재개발 사업의 공공 기여 시설로 어린이병원을 짓기로 했다. 지난 5월 ‘서울시 도시계획조례’를 개정하면서, 서울시는 병원이나 산후조리원, 예식장 등도 공공 기여로 인정해주기로 했다. 조례 개정 이후 병원이 공공 기여 시설로 생기는 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;병원은 연면적 1만400㎡, 9층 규모로 짓는다. 소아·청소년을 위한 2차 병원으로 계획 중이다. 병상 규모는 약 80병상이며, 소아청소년과·소아내분비과 등 6개 과를 운영한다. 의사 11명, 간호사 21명 등 인력 89명을 배치할 예정이다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “공공 기여 시설인 만큼 부지 매입비와 건축비를 절감할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;한편 자양5구역에는 최고 49층 1699가구 아파트 단지가 들어선다. 이 중 429가구는 공공 주택이다. 지역 주민 누구나 이용할 수 있는 도서관과 산책로도 함께 만든다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>군인들 사라진 도시, 주민들 웃음도 사라졌다</title>
       <link>https://www.chosun.com/national/national_general/2025/11/28/3TNIDSVJ7BAGJGKU46HGE4S6GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/3TNIDSVJ7BAGJGKU46HGE4S6GI/</guid>
@@ -926,15 +934,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7U4XXUWKOFEEDJHOINFJKKHR3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박성원 기자
 한국과 미국 투어에서 통산 19승을 거둔 골프 스타 장하나가 지난 18일 서울 중구의 한 사무실에서 본지와 인터뷰를 진행했다. 그는 “하반기부터 부진에서 벗어나 현재는 옛 기량을 거의 회복했다”며 “내 골프 인생은 계속 전진 중”이라고 강조했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올 시즌 한국 여자 프로골프(KLPGA) 투어 26개 대회에 나와 컷 통과를 한 번도 하지 못했다. 벌어들인 상금은 ‘0원’. 내년 시드도 잃어버렸다.&lt;br&gt;&lt;br&gt;‘은퇴 수순 아니냐’는 얘기가 나오는 상황. 하지만 지난 18일 서울 숭례문 인근 사무실에서 만난 장하나(33)는 “시즌 때보다 요즘 라운드를 더 많이 나가요. 전지 훈련도 갈 거고요. 은퇴할 거면 골프채 창고에 박아놓고 쉬겠죠”라며 웃었다. 그는 “부진의 원인을 찾았고 기량을 거의 회복했다”며 “내 골프 인생은 계속 전진 중”이라고 했다.&lt;br&gt;&lt;br&gt;장하나는 KLPGA 투어에서 통산 15승(역대 5위)을 거뒀고, 상금 58억원(역대 2위)을 받은 스타다. ‘장타 소녀’란 별명이 붙을 만큼 호쾌한 드라이브샷을 앞세워 국내를 평정했고, 미국 LPGA 투어에 진출해 4승을 거뒀다. 2017년 국내 무대에 복귀한 뒤에도 7승을 추가했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BDRYFWG7QVE7ZEKTLTOVA67EFM.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하지만 2022년 중반 갑자기 샷이 흔들렸다. 티샷 정확도와 거리가 크게 하락했고, 아이언샷까지 연쇄적으로 영향을 미쳤다. 250야드를 넘나들던 드라이브샷 거리가 200야드 초반대까지 떨어졌다. 작년 평균 드라이브샷 거리가 201야드에 그쳤고, 올해는 208야드로 투어 115위다. 페어웨이 적중률, 그린 적중률 모두 최하위권에 머물렀다.&lt;br&gt;&lt;br&gt;장하나는 “선수 생활을 오래 하려고 파워풀한 스윙을 달래 치는 스윙으로 바꾼 게 잘못됐다”며 “내 스타일의 골프를 등졌다가 망한 케이스”라고 했다. “원래 기둥(스윙)은 놔둔 상태에서 나머지를 다듬었어야 했는데, 기둥을 뽑아버려 집이 완전히 무너진 거죠.”&lt;br&gt;&lt;br&gt;장하나는 드라이버 입스(갑자기 익숙한 동작을 제대로 수행하지 못하는 현상)까지 찾아와 고생이 심했다고 한다. 그는 “직장인들이 컴퓨터 자판 칠 때 ‘ㄱ’ 자가 어디 있는지 아니까 안 보고도 치지 않나. 그런데 손가락이 자판 위에 있어도 어떻게 눌러야 하는지조차 모르겠는 상황과 비슷하다”고 입스를 설명했다. 그는 “겁이 나서 티박스에 올라가기도 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/53ECOF3FHBFOFNFQAJBBSSY5LQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; KLPGA
 장하나가 지난 8월 KG 레이디스 오픈 1라운드에서 아이언샷을 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 8월부터 장하나는 잘못되어온 과정을 되돌려 나가기 시작했다. 스윙 궤도를 바꾸다가 리듬이 흐트러져 감을 잃어버렸다고 판단한 그는 일단 궤도는 신경 쓰지 않은 채 제대로 공을 맞히는 느낌부터 찾으려 했다. 리듬에 맞춰 자신 있게 스윙했다.&lt;br&gt;&lt;br&gt;장하나는 “원래 기량의 90% 이상 회복했다고 생각한다”고 했다. 실제로 그의 무기였던 장타가 서서히 돌아오는 것처럼 보인다. 시즌 첫 대회에선 드라이브샷 거리가 평균 170야드도 안 됐는데, 지난달 말 에쓰오일 챔피언십에선 평균 259야드를 기록했다. 그는 “눈으로 결과물이 보이니 자신감이 붙는다”고 했다. 쇼트 게임은 “전성기 때보다도 좋다”고 자부했다. 올 시즌 평균 퍼트 수가 29.49개로 8위. 그는 “‘이거 아니면 죽는다’는 생각으로 어프로치와 퍼트를 하기 때문”이라며 웃었다.&lt;br&gt;&lt;br&gt;수년간의 부진 탓에 장하나는 내년 정규 투어 시드가 없다. 최근 KLPGA가 ‘10년 연속 정규 투어 활동 선수’와 ‘누적 상금 25억원 이상 기록한 선수’ 중 일부에게 심사를 거쳐 ‘특별 시드’를 줬는데 통산 15승, 누적 상금 약 58억원의 장하나가 빠졌다. 미국 진출로 ‘10년 연속’ 조건을 채우지 못한 게 이유로 분석된다. 그는 “아쉽긴 하지만 서운하진 않다. 새로운 계기로 삼겠다”고 했다. 그가 국내에서 활동하려면 내년 3월 2부 투어 시드전에 출전해야 한다. 하지만 그는 구체적인 계획에 대해선 말을 아꼈다. 소속사 관계자는 “해외 투어에서 초청이 오고 있지만 우선 생각을 정리할 시간이 필요할 것”이라고 했다.&lt;br&gt;&lt;br&gt;베테랑 장하나는 신인처럼 열의를 드러냈다. “골프는 인생의 동반자이자 영원한 라이벌”이라며 “열정의 불씨가 활활 타오르도록 노력하고 있다”고 했다. 쉴 때는 골프 뉴스도 잘 보지 않아 LPGA에서 함께 활동했던 쩡야니(대만)가 지난달 12년 만에 우승컵을 든 소식도 뒤늦게 확인했다고 한다. 한때 세계 1위로 군림했던 쩡야니는 퍼트 입스로 바닥까지 떨어졌다가 기적처럼 부활했다. &lt;br&gt;&lt;br&gt;장하나는 “야니의 끈기에 놀랐고, 나 역시 언제든 부활할 수 있을 거라 믿고 있다”며 “꼭 우승이 아니더라도 내가 마음속에 세워둔 기준치를 넘어서고 싶다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 11월 28일</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/ZY36TH5USVDQPCO27S4CZEPMZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/ZY36TH5USVDQPCO27S4CZEPMZI/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5EGTFZ4XYZAXLJTZYLQPXHSAIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>44일 만에 싸늘한 주검으로... 청주 실종 50대 여성 前 연인 자백</title>
