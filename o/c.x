@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>백두산서 태극기 흔들던 유튜버, 中 입국 거부 당했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/Z4JFRCRZOREFTEC4DI2OB5TKAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/Z4JFRCRZOREFTEC4DI2OB5TKAY/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 00:45:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/254422PY7VAJJKMW3ZV6HMKLSA.png"&gt;&lt;figcaption&gt;&lt;small&gt;한 유튜버가 백두산 천지에서 태극기를 흔들자 이를 빼앗는 현지 관계자./유튜브 '시수기릿'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;백두산 천지에서 태극기를 흔들다 중국 공안의 제지를 받은 한국인 유튜버가 중국 입국을 거부당했다.&lt;br&gt;&lt;br&gt;유튜브 채널 ‘시수기릿’을 운영하는 A씨는 지난 26일 “결국 중국 입국을 거절당했다”는 제목의 영상을 통해 이런 사연을 전했다. 장자제를 여행하기 위해 지난 11일 중국에 갔지만 출입국 심사대에서 입국을 거부당해 그대로 귀국했다는 설명이다. &lt;br&gt;&lt;br&gt;그는 입국 거부 사유를 듣지 못했다고 한다. 다만 지난 7월 백두산 천지에서 태극기를 흔들며 애국가를 부르다 공안에 붙잡혀 조사를 받았던 게 원인이 됐을 것이라고 추측했다. &lt;br&gt;&lt;br&gt;A씨는 입국 심사대에서 조사실로 옮겨져 일행과 함께 소지품 검사를 받았다고 했다. A씨는 “이번엔 카카오톡과 유튜브까지 다 뒤져봤다. 카카오톡 비밀번호도 풀라고 하고 지난번보다 보안이 세졌다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “제 유튜브에 (백두산에서) 태극기를 흔든 영상이 남아 있었다”며 “화장실에 몰래 가서 두 번째 휴대전화로 지우려고 했는데 (공안이) 화장실 문을 못 잠그게 했다. 문을 반쯤만 닫아놓고 매니저에게 태극기 영상을 내리라고 했다”고 긴박했던 상황을 전했다.&lt;br&gt;&lt;br&gt;그러나 공안은 이미 태극기 영상을 알고 있었고 그에게 영상을 보여주면서 ‘너 아니냐’고 물었다고 한다. 입국을 거부당해 한국으로 돌아온 A씨는 “중국으로 가는 데 140만원, 오는 데 100만원 넘게 써 총 250만원을 날렸다”며 “비행기만 8시간 넘게 탔다. 정말 고생 많이 했다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 A씨는 지난 7월 백두산 천지에서 라이브 방송을 진행하며 태극기를 흔들고 애국가를 부르다 현지 관리인에게 제지당했다. 이 관리인은 A씨의 손에서 태극기를 낚아챘고, A씨는 “태극기를 가방에 넣어서 가져가겠다”고 요청했지만 끝내 돌려받지 못했다. 이 일로 A씨는 공안에게 조사를 받았고 ‘다시는 이런 행동을 하지 않겠다’는 각서를 썼다고 한다. 공안은 당시 A씨의 모든 소지품을 확인하고 휴대전화 속 사진을 검열한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, ‘수사 외압’ 의혹 문자 공개 사흘 후 “이제 이종섭 호주로 보내자”</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/29/5WLO5XOWVVE2NLZV5Y3775JVLM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/29/5WLO5XOWVVE2NLZV5Y3775JVLM/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 02:46:49 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSTEZBUGE4WMOJYMI4DIZJWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 이종섭 전 국방부 장관 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 해병대 수사단의 고(故) 채수근 해병 순직 사건 수사에 국방부가 외압을 행사한 정황이 담긴 문자메시지가 공개된 지 사흘 후 “이제 (국방부 장관이었던) 이종섭을 호주로 내보내자”고 한 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 순직 해병 특검은 범인도피, 직권남용, 국가공무원법 위반 등의 혐의로 지난 27일 윤 전 대통령을 기소하면서 이 같은 내용을 공소장에 적시했다.&lt;br&gt;&lt;br&gt;특검에 따르면, 윤 전 대통령이 이종섭 전 국방부 장관을 외국 대사로 보내겠다고 처음 언급한 것은 이 전 장관이 사의를 표명한 2023년 9월 12일 당일이자 야당이었던 더불어민주당이 이 전 장관의 탄핵을 추진하겠다고 밝힌 다음 날이었다. 국방부가 그해 7월 19일 실종자 수색 과정에서 숨진 채 해병 사건을 초동 수사한 해병대 수사단에 “임성근 전 해병대 1사단장 등은 피의자에서 제외하라”는 취지로 압력을 행사했다는 의혹이 불거졌을 때다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 조태용 당시 대통령실 국가안보실장에게 “야당이 탄핵을 하겠다고 해서 (이 전 장관) 본인이 사표를 쓰고 나갔는데, 적절한 시기에 대사라든지 일할 기회를 더 줘야 하지 않겠냐”고 했다. 조태용 전 실장이 주호주 대사 자리를 추천하자 윤 전 대통령은 “적절한 기회를 주자”고 했다.&lt;br&gt;&lt;br&gt;약 2개월이 지난 2023년 11월 16일, 항명 등의 혐의로 기소된 박정훈 해병대 수사단장 재판에서 박진희 전 국방부 군사보좌관이 그해 8월 1일 김계환 전 해병대 사령관에게 보낸 문자메시지가 공개됐다. 이 전 사단장 등 지휘 책임자는 수사 의뢰 대상자에서 제외하라는 취지였다. 다음 날 민주당은 “채 해병 사망 사건 수사 외압의 물증”이라며 정부와 여당에 특검을 본격적으로 요구했다.&lt;br&gt;&lt;br&gt;해병 특검은 이때부터 이 전 장관의 호주 대사 임명 절차가 본격화했다고 보고 있다. 특검은 공소장에 “윤 전 대통령은 자신의 지시를 이행한 이 전 장관이 수사를 받게 될 경우 지시자인 자신에게까지 수사가 미칠 수밖에 없음을 잘 알았기 때문에 이 전 장관을 국외로 내보내기로 마음먹었다”고 적시했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 지시를 받은 조태용 전 실장은 외교부 관계자에게 “이제 이종섭을 보내야겠다, 인사 프로세스를 준비하자, 기왕이면 빨리 보내라”는 취지로 지시했다고 한다. 호주 대사는 정년 이후에도 근무가 가능하고, 당시 호주 대사는 임기도 상당히 남아 있었고 연말 정기 인사 대상도 아니었다. &lt;br&gt;&lt;br&gt;그럼에도 장호진 전 외교부 1차관은 그해 12월 5일 외교부 인사담당자에게 “호주하고 모로코를 엮어서 빨리 (대사 인사를) 진행하라. 이번 주 내에라도 대통령실 인사비서관실에 상신하라. (2024년) 1월 내에 부임할 수 있도록 진행하라”고 지시했다.&lt;br&gt;&lt;br&gt;이 전 장관은 이 과정에서 외국어 능력 검정 점수를 제출하지 않은 채 심사위원 서명만 받아 ‘적격’ 결정을 받았다. 법무부 인사정보관리단의 인사 검증도 형식적으로 이뤄진 것으로 조사됐다. 이시원 당시 대통령실 공직기강비서관은 그나마 인사정보관리단이 검증보고서에 적은 “(채 해병 사건 관련) 장관 책임론, 논란 가능성은 남아있는 이슈”라는 문구마저 삭제하고 “검증 결과 : 문제없음”이라는 보고서를 최종 승인했다. 결국 이 전 장관은 호주에서 아그레망(주재국 부임 동의)을 받아 2024년 3월 4일 호주 대사로 임명됐다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관의 호주 출국 과정도 대통령실과 법무부가 불법적으로 개입했다고 보고 있다. 당시 이 전 장관은 고발장을 접수했던 고위공직자범죄수사처 신청으로 출국금지 상태였다. 윤 전 대통령은 2024년 3월 5일 이 전 비서관으로부터 이를 보고받고 “출국금지 해제에 시간이 필요하니 부임 일정을 2주 정도 연기하라”고 지시했다. 같은 날 이 전 장관은 ‘출국금지에 대한 이의신청서’를 법무부 출입국심사과에 제출했다.&lt;br&gt;&lt;br&gt;박성재 당시 법무부 장관은 다음 날인 3월 6일 이재유 당시 출입국·외국인정책본부장에게서 이 전 장관이 출국금지 해제를 신청했다는 보고를 받고 “개인적인 일로 나가는 것도 아니고 대통령이 호주 대사로 임명해서 나가는데 출국금지를 걸어서 나가지도 못하게 하는 것이 맞느냐” “풀어주면 되겠네”라며 출국금지 해제를 지시했다. 이에 이 전 본부장은 일선에 출국금지 해제를 긍정적으로 검토하는 보고서를 작성하도록 지시했다. 당시는 공수처에서 출국금지 해제에 관한 의견을 받지도 않았을 때였다.&lt;br&gt;&lt;br&gt;3월 7일, 공수처는 법무부에 “현재 수사 진행 중으로 적시 증거 확보와 소환 조사를 위해 출국금지 유지가 필요하다”는 취지의 의견을 보냈다. 그러나 박 전 장관은 “이 전 장관에 대한 출국금지를 해제하라”고 다시 지시했고, 다음 날인 3월 8일에도 출근길에 만난 취재진에게 같은 의견을 밝혔다. 특검은 박 전 장관의 언론 상대 발언이 당일 있었던 출국금지심의위원회 위원들에게 압력을 행사한 것으로 보고 박 전 장관 등도 범인도피 혐의로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘AI로 처방전 발급’ 불법 사이트 운영자 30대, 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/Q467B643KVFZ3HRONACFXIG3HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/Q467B643KVFZ3HRONACFXIG3HY/</guid>
+      <dc:creator>수원=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 02:30:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYTQNRRGQ3TSODGMU4GMYJSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부지방경찰청. 2019.10.18/뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI로 불법 처방전을 발급하는 사이트를 운영한 이가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기남부경찰청 반부패·경제범죄수사대는 보건범죄단속에 관한 특별조치법 위반 등 혐의로 30대 A씨를 지난달 말 불구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월부터 11월까지 AI와의 채팅을 통해 증상에 맞는 처방전을 발급해주는 취지의 사이트를 운영한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;또 그는 범행 과정에서 처방전의 정해진 양식에 따르기 위해 타 병원 관계자의 명의를 도용한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 경찰은 작년 10월 대한의사협회로부터 이 사이트에 대한 고발장을 받고 수사에 나섰다. &lt;br&gt;&lt;br&gt;A씨는 AI에 처방과 관련한 내용을 반복 학습시켰다고 홍보하며 이용자들을 모았다. 그는 의료계와 무관한 사업체에서 근무했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현행 보건범죄단속법 상 의료인이 아닌 자가 의료 행위를 업으로 삼지 못하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;일반적인 AI 진료 서비스는 이용자가 실제 병원을 방문하지 않더라도 의료인의 자문 또는 진단을 받는 방식으로 운영된다. &lt;br&gt;&lt;br&gt;하지만 A씨가 개설한 사이트는 의료인의 개입 없이 AI와 이용자 간 채팅 내용만을 기반으로 불법 처방전을 발급한 것으로 드러났다. &lt;br&gt;&lt;br&gt;해당 사이트에서는 이용료 명목으로 건당 300~600원 결제됐으며 총 140여건의 결제가 이뤄졌다. &lt;br&gt;&lt;br&gt;다만 이처럼 발급된 처방전은 통상적인 처방전과 달라 약국에서 약 구매까지 이뤄진 사례는 일부에 그친 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>별거 중 아내 이사 가자 “불 지른다” 부동산 협박한 60대男</title>
+      <link>https://www.chosun.com/national/incident/2025/11/29/CXUAWOUALZFTZGB3DKT7UTQV6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/29/CXUAWOUALZFTZGB3DKT7UTQV6Q/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 00:50:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동경찰서는 협박·현주건조물방화예비 혐의로 60대 남성 A씨를 현행범 체포 후 조사 중이라고 29일 밝혔다. A씨는 지난 27일 낮 강동구 상일동의 한 부동산에 찾아가 “이사 간 아내의 집 주소를 알려주지 않으면 휘발유로 불을 지르겠다”고 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 아내와 이혼을 준비하며 별거 중이었던 것으로 알려졌다. 부동산에서 아내의 주소를 알려주지 않자 A씨는 같은날 오후 1시 44분쯤 인근 주유소로 향했다. 그러나 신고를 받고 출동한 경찰에 의해 현행범 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장을 신청했다. 구속 전 피의자 심문(영장실질심사)은 이날 오후 3시 서울동부지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>금천구 내리막길서 냉동탑차 전도…운전자 사망</title>
+      <link>https://www.chosun.com/national/incident/2025/11/29/AHGQH3XGF5EMNBEVPJTTEKUYKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/29/AHGQH3XGF5EMNBEVPJTTEKUYKI/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 00:29:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDJCQWWUDREGRAZXGT6GWMAIPQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 28일 오후 10시 44분쯤 서울 금천구 시흥동의 한 도로에서 4.5t짜리 트럭이 전도돼 운전자 50대 남성이 사망하는 사고가 발생했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 금천구의 한 도로에서 냉동탑차가 전도돼 운전자가 사망했다.&lt;br&gt;&lt;br&gt;경찰 등에 따르면 28일 오후 10시 44분 서울 금천구 시흥동에서 50대 남성 운전자가 운전하던 4.5t짜리 냉동탑차 1대가 내리막길에서 옆으로 넘어지는 사고가 발생했다. 냉동 수산물을 싣고 부산에서 출발해 노량진으로 향하던 이 차량은 전봇대와 주차돼 있던 차량 3대를 잇따라 들이받았다.&lt;br&gt;&lt;br&gt;운전자는 현장에서 사망했다. 이외의 부상자는 없다고 한다. 사고 당시 차량 운전석은 종잇장처럼 찌그러졌고, 길바닥에는 짐칸에서 터져 나온 냉동 수산물이 흩뿌려져 있었다. 차량이 급히 멈추려 할 때 도로에 생기는 타이어 자국인 스키드마크도 남아있었다고 한다.&lt;br&gt;&lt;br&gt;사고가 난 도로는 경사가 심해 2.5t 이상 차량의 통행이 금지된 곳이다. 경찰은 블랙박스와 인근 감시카메라 등을 토대로 차량이 속도를 줄이지 못해 사고를 냈는지, 브레이크는 제대로 작동했는지 등 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정읍 교차로서 역주행... 외제차 충돌, 4명 사상 </title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/FJOJI7UCRFA3NDKIU3X2SBFHZQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/FJOJI7UCRFA3NDKIU3X2SBFHZQ/</guid>
+      <dc:creator>정읍=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 00:12:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N3UAOUCM6VGRXJDIWG33LDF5GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사고 난 람보르기니 승용차./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 정읍에서 역주행 사고가 발생해 1명이 숨지고 3명이 다쳤다.&lt;br&gt;&lt;br&gt;29일 소방당국 등에 따르면 이날 0시 28분쯤 전북 정읍시 북면의 한 교차로 인근에서 폭스바겐 승용차가 역주행을 하다가 주행 중이던 람보르기니 차량과 정면으로 충돌했다. &lt;br&gt;&lt;br&gt;이 사고로 폭스바겐에 타고 있던 20대 동승자가 숨졌다. 또 폭스바겐 운전자 A(30대)씨와 람보르기니 운전자와 동승자도 부상을 입고 병원으로 옮겨졌다. &lt;br&gt;&lt;br&gt;경찰은 양측 차량 운전자를 상대로 음주 여부를 포함한 정확한 사고 경위를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>편도 4차로 무단횡단한 보행자 쳐 숨지게 한 버스기사 무죄</title>
       <link>https://www.chosun.com/national/national_general/2025/11/29/WMRYZ6S2LZASVFXZSY625YWU5I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/WMRYZ6S2LZASVFXZSY625YWU5I/</guid>
@@ -778,15 +832,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HXFCQ2NTHVCAJLYNPHPBH7OZME.gif?auth=e9c20520a2420eb0c0136e3f83cddac1b90652f5fe1261653083e68d7b52c233&amp;smart=true&amp;width=436&amp;height=326" type="image/jpeg" height="326" width="436"/>
     </item>
     <item>
-      <title>1050원 초코파이 절도, 상식이 이겼다</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/XK5RWOPJLBFXNNZEC7LMQUPTQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/XK5RWOPJLBFXNNZEC7LMQUPTQU/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F5IPTQ2BTNDINH2QUQ7SMZWDV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘1050원 초코파이 절도’ 사건으로 1심에서 벌금형을 받아 직장을 잃을 위기에 처했던 보안 업체 직원 A(41)씨가 항소심에서 무죄를 선고받았다. &lt;br&gt;&lt;br&gt;전주지법 형사2부(재판장 김도형)는 27일 절도 혐의로 기소된 A씨에 대한 항소심 선고 공판에서 벌금 5만원을 선고한 원심을 깨고 무죄를 선고했다. A씨는 지난해 1월 18일 오전 4시 6분쯤 전북 완주군의 한 물류 회사 2층 사무실 냉장고에서 450원짜리 초코파이 1개와 600원짜리 카스타드 1개를 꺼내 먹은 혐의로 재판에 넘겨졌다. 물류 회사 소장 B씨가 방범 카메라 영상을 보고 “허락 없이 간식을 꺼내 갔다”며 신고했다. 검찰은 절도 액수가 1050원인 점 등을 감안해 A씨를 벌금 50만원에 약식 기소했다. 그러나 A씨는 “평소 사무실을 드나드는 탁송 기사들이 간식을 먹어도 된다고 했다”며 무죄를 주장하며 정식 재판을 청구했다. A씨는 유죄가 확정되면 현재 다니는 직장을 잃게 될 수 있었다고 한다. &lt;br&gt;&lt;br&gt;1심 재판을 맡은 전주지법 형사6단독 재판부는 A씨에게 벌금 5만원을 선고했다. 1심 판결이 알려지자 “이게 재판까지 갈 사안이냐” “국민 법 감정과 동떨어진 판결”이라는 등 지적이 나왔다. 이에 전주지검은 지난달 27일 시민위원회를 열었다. 참석한 시민 12명 대부분이 A씨를 처벌하는 것보다 기회를 주자는 의견을 냈다고 한다. 검찰도 이를 받아들여 항소심에서 이례적으로 선고유예를 구형했다. &lt;br&gt;&lt;br&gt;그런데 항소심 재판부는 “A씨의 동료 직원 39명이 절도 혐의로 수사를 받을 위험을 무릅쓰고 피고인과 동일하게 간식을 먹은 적이 있다는 취지의 진술서를 제출했다”며 무죄를 선고했다. 항소심 재판에 증인으로 나온 탁송 기사가 “새벽에 출근하면 물류 회사 직원들이 없기 때문에 준비된 간식을 자유롭게 먹었다”고 진술한 점 등을 참작했다고 한다. 재판부는 “설령 탁송 기사들에게 회사 간식을 처분할 권한이 없었다 하더라도, A씨 입장에서는 그들에게 권한이 있다고 착오할 만한 사정이 충분했다”며 “물건을 훔치려는 범죄 의도가 있었다고 단정하기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“이종섭 출국시켜 수사 방해” 尹 등 인사 라인 대거 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/11/28/XQNCEECZRNDO7FW4JJQU5TCSZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/XQNCEECZRNDO7FW4JJQU5TCSZQ/</guid>
@@ -809,15 +854,6 @@
       </media:content>
     </item>
     <item>
-      <title>군부대 이전 앞둔 철원 주민들 “눈앞이 캄캄… 주민 의견 배제돼”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/LNI4DUFMX5FOXHBCVLPJJBR4KA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/LNI4DUFMX5FOXHBCVLPJJBR4KA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>군부대 해체나 이전이 예고된 전방 지역은 위기감이 고조되고 있다. 국방부는 강원도 철원의 육군 제6보병사단(청성부대) 사령부와 예하 부대를 후방으로 이전하겠다는 계획을 추진하고 있다. 6사단이 경기 포천으로 완전히 이전하면 3사단 단독 체제로 전환되고, 병력은 절반 수준으로 줄어든다. 이미 6사단 예하 19여단은 포천으로 이동했고 공병대와 보급대 등 직할 부대도 순차적으로 떠나고 있다. 군 관계자는 “사단 사령부도 내후년쯤 포천으로 옮길 예정”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLA333Y4TRC3DH7UZD37DP3GEI.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주민들은 “갑작스러운 부대 이전 등으로 지역 경제가 침체에 빠질 텐데 정부 정책 결정 과정에서 주민들이 철처히 배제됐다”며 불만을 토로하고 있다. 이곳에서 4년째 한식당을 운영하는 김모(67)씨는 “지금도 장사가 힘든데, 손님의 절반을 차지하는 군인들까지 사라진다고 생각하면 눈앞이 캄캄하다”고 했다. 강원연구원이 발표한 ‘국방 개혁과 민군 상생’ 자료에 따르면, 강원 철원군에 주둔하는 6사단이 이전할 경우 철원군 지역 내 총생산(GRDP·2013년 기준)의 6.5%에 해당하는 916억2000만원의 소비 지출이 감소할 것으로 예상된다. &lt;br&gt;&lt;br&gt;이오성 국방개혁 반대 철원군투쟁위원회 부회장은 “지방 소멸이라는 사회적 문제가 심각한 상황에서 군부대까지 빠지면 악화 속도를 막기 어렵다”며 “국방 개혁안 수정 요구를 지속하고 있다”고 했다. 일부 주민들은 군부대 이전 반대 릴레이 시위를 열었다. 철원군은 부대가 떠난 지역에 공원 조성 사업 등을 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>법조계 “내란 가담 직접 증거 없어, 영장 발부 쉽지 않을 것”</title>
       <link>https://www.chosun.com/national/court_law/2025/11/28/ZHCC2PMOZVHLXLZDVO5DKX5FHE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/ZHCC2PMOZVHLXLZDVO5DKX5FHE/</guid>
@@ -836,24 +872,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DIZ4JDNRNWRQVTKD7HARW5VF7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴시스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교권 침해 문제가 지속되고 있지만, 중·고등학생 희망 직업 1위는 여전히 교사인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;교육부와 한국직업능력연구원은 27일 초·중·고 1,200개교의 학생·학부모·교원 총 3만7,408명을 온라인으로 조사한 ‘2025년 초·중등 진로 교육 현황조사’를 발표했다. 조사 기간은 지난 5월 16일부터 6월 13일까지였다.&lt;br&gt;&lt;br&gt;그 결과 중·고교생 희망 직업 1위는 교사로 나타났다. 중·고교생 희망 직업 1위인 교사는 이 조사가 국가승인통계가 된 2015년 이래로 줄곧 1위를 지키고 있다.&lt;br&gt;&lt;br&gt;구체적으로 중학생은 7.5%가 교사를 희망 직업으로 선택했다. 작년(6.8%) 대비 0.7%포인트(p) 상승한 수치다. 2∼5위는 운동선수(5.4%), 의사(3.6%), 경찰관·수사관(3.2%), 간호사(2.9%) 순이었다. 의사는 5.1%에서 3.6%로 1.5%포인트 하락했다.&lt;br&gt;&lt;br&gt;고등학생의 교사 희망 비율은 7.6%였다. 그리고 간호사(5.0%), 생명과학자 및 연구원(3.7%), 보건·의료 분야 기술직(2.9%), 경찰관·수사관(2.6%)이 차례로 뒤를 이었다. 작년 7위였던 생명과학자 및 연구원이 3위로, 11위였던 보건·의료 분야 기술직이 4위로 올라 눈길을 끈다.&lt;br&gt;&lt;br&gt;초등학생 희망 직업 1위는 운동선수(14.1%)였다. 2018년부터 8년 연속 1위 자리를 지켰다. 2위는 의사(6.6%)였고, 3위는 크리에이터(4.8%)가 차지했다. 4위는 교사(4.5%), 5위는 요리사·조리사(3.9%)로 조사됐다. 2∼5위 희망 직업 역시 작년과 순위가 같다.&lt;br&gt;&lt;br&gt;희망 직업이 없다는 학생 비율은 중학생이 40.1%로 가장 높았다. 이어 고등학생은 28.7%, 초등학생은 21.9%가 희망 직업이 없다고 답했다. 이 비율은 초등학생과 중학생에서 각각 1.5%포인트, 0.1%포인트 증가했으나, 고등학생에서는 0.3%포인트 감소했다. 희망 직업이 없다는 학생을 대상으로 그 이유를 조사한 결과 ‘내가 무엇을 좋아하는지 아직 잘 몰라서’(초 42.8%, 중 50.9%, 고 44.0%)라고 응답한 학생이 가장 많았다.&lt;br&gt;&lt;br&gt;고등학생을 대상으로 졸업 후 진로 계획을 물어본 결과 ‘대학 진학’ 희망 비율은 64.9%로 1년 전(66.5%)보다 다소 하락했다. 반면 ‘취업 희망’은 2.3%포인트 상승한 15.6%, ‘진로 미결정’은 0.8%포인트 하락한 11.2%로 각각 조사됐다. 졸업 후 창업을 희망하는 고등학생 비율은 3.3%로, 1년 전과 같았다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캄보디아 ‘코리아 전담반’ 첫 성과… 노쇼 사기 조직 한국인 17명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/UJGARZSHZJHULPODRAK4SFKCAQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/UJGARZSHZJHULPODRAK4SFKCAQ/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLDYSTRGIFDPNCLR3KNS7E4LDA.png"&gt;&lt;figcaption&gt;&lt;small&gt;캄보디아 시하누크빌에 있는 범죄 단지로 추정되는 건물 모습. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 소상공인들을 상대로 ‘노쇼(예약 부도) 사기’를 벌였던 한국인 범죄 조직원들이 한국 경찰과 캄보디아 정부 공조로 현지에서 붙잡혔다. 한국·캄보디아 합의에 따라 지난 10일 한국인 관련 사건을 전담하는 ‘코리아 전담반’이 출범한 이후 현지에서 사기 조직을 적발한 첫 사례다. &lt;br&gt;&lt;br&gt;캄보디아에 근거지를 둔 중국 범죄 조직들은 우리 국민을 대상으로 보이스피싱 등 각종 온라인 범죄를 저질러왔다. 이들은 현지에 ‘웬치’라고 불리는 거대 단지를 만들어 놓고 한국의 2030 청년들을 유인·감금해 범죄에 가담시키고 있다.&lt;br&gt;&lt;br&gt;경찰청은 27일 “캄보디아 당국과 공조해 이달 13일 (남부 항구 도시) 시아누크빌에 있는 노쇼 사기 조직의 본거지를 급습해 한국인 조직원 17명을 검거했다”고 했다. 한국인과 중국인 등이 섞여 있는 이 조직은 정부·공공기관이나 군부대를 사칭해 단체 회식 예약을 하거나 대형 용역 계약을 의뢰한 뒤, 이를 미끼로 관련 고가 물품을 위장 업체에서 대리 구매하도록 유도한 것으로 조사됐다. 이런 방식으로 올해 5월부터 1만5000명을 상대로 약 35억원을 가로챈 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 이번 검거 작전에서 국가정보원, 법무부 등과 협력했다고 밝혔다. 국정원은 지난 7월 시아누크빌의 폐쇄된 카지노 일대에서 한국인이 포함된 노쇼 사기 조직이 활동하는 정황을 포착해 한국인 조직원 신원과 금융 기록 등을 추적해 왔다. 이렇게 모은 정보는 ‘보이스피싱 정부합동수사단’에 넘겨져 인터폴 수배 등으로 이어졌다. &lt;br&gt;&lt;br&gt;정부는 이날 캄보디아 범죄 소굴인 ‘태자 단지’ 등에서 범죄 조직을 운영한 프린스그룹 등 범죄에 연루된 단체 132개와 개인 15명에 대한 제재도 발표했다. 캄보디아 등 동남아 지역 조직범죄에 대응한 우리 정부의 독자 제재는 이번이 처음이다. 외교부 당국자는 “우리 국민의 생명과 재산에 피해를 주는 초국가 범죄에 총력 대응해 왔다”며 “이번 독자 제재 역시 그러한 노력의 연장선”이라고 했다. &lt;br&gt;&lt;br&gt;보이스피싱 등 사기 범죄 수익에 대한 몰수·추징을 강화하는 내용의 부패재산몰수법 개정안도 이날 국회 본회의를 통과했다. 그간 법원 판단에 따라 몰수·추징 여부를 결정했지만, 이젠 필수로 바꾼다. 범죄 피해액에 대한 검사의 입증 책임도 대폭 완화했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[우리 지역 소식] 서울시 외</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/FNLIRQBUA5EMJFJHSDSWZGQHIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/FNLIRQBUA5EMJFJHSDSWZGQHIE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울시는 이경자 소설가, 강수진 국립발레단장 등 12명을 ‘서울시 문화상’ 수상자로 선정했다고 27일 밝혔다. 이 상은 1948년부터 서울의 문화예술 발전에 기여한 시민이나 단체에 수여하는 상이다. 올해 74회째다. 장애인 유튜버 김한솔씨와 황달성 금산갤러리 대표, 유은선 국립창극단 단장, 전기홍 서울시립대 음악학과 교수, 가수 양희은, 손대현 무형유산 칠장(옻칠) 보유자, 무용가 이루다도 수상자로 선정됐다. 단체는 한국연극인복지재단과 포르쉐코리아, MBC 라디오북클럽이 이름을 올렸다. 시상식은 다음 달 1일 열린다.&lt;br&gt;&lt;br&gt;대구시는 오는 30일부터 12월까지 ‘시간을 걷는 대구 K-투어’를 운영한다. 대구시티투어 버스의 ‘연말 특별 노선’이다. 중구 근대골목을 시작으로 국립대구박물관, 대구도서관 등을 한 번에 둘러볼 수 있다. 대구시는 “대구의 레트로 감성을 느껴볼 수 있는 코스가 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김건희특검, 양평 공무원 사망 ‘셀프 감찰’서 면죄부</title>
       <link>https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</guid>
@@ -861,15 +879,6 @@
       <description/>
       <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
       <content:encoded>민중기 특별검사팀이 수사 도중 강압 수사 피해를 호소하며 스스로 목숨을 끊은 경기 양평군 공무원 사망 사건과 관련해 “조사 당시 허위 진술 강요 등 규정 위반 사항을 발견하지 못했고, 강압적인 언행도 단정하기 어렵다”는 감찰 결과를 27일 밝혔다. 법조계에선 “시간만 끈 맹탕 감찰” “제 식구 감싸기 위한 셀프 감찰” 등의 평가가 나왔다.&lt;br&gt;&lt;br&gt;이 사건은 지난달 10일 ‘양평 공흥지구 개발 특혜’ 의혹으로 특검 조사를 받은 양평군청 사무관 A(57)씨가 숨진 채 발견되면서 불거졌다. 그가 생전 작성한 메모에 “계속되는 (특검 측) 회유와 강압에 지치고 힘들다” “수사관의 무시 말투와 강압에 전혀 기억도 없는 진술을 했다” 등의 내용이 담겨 있었던 것이다. A씨는 2016년 양평군 지가관리팀장으로 근무하며 김건희 여사 일가에게 특혜를 준 실무자로 지목된 인물이다.&lt;br&gt;&lt;br&gt;강압 수사 논란이 일자 특검은 지난달 17일 감찰에 착수했다. 심야 조사 제한, 강압적 언행 등 6개 항목으로 나눠 감찰한 결과, 특검은 “강압적 언행을 제외한 5개 항목은 규정 위반 사항을 발견할 수 없었다”며 “현 단계에선 강압적 언행 규정 역시 단정하기 어렵다”고 했다. 이에 따라 특검은 A씨를 조사한 수사관 3명을 업무에서 배제하고, 다음 달 1일 자로 파견 해제 요청을 했다. 검찰 출신 한 변호사는 “감찰 기능이 없는 곳에서 감찰을 하는 것 자체가 말이 안 되는 일”이라며 “결국 여론이 잠잠해지기를 기다려 셀프 면죄부를 준 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전국으로 확산되는 온라인 교육 플랫폼 ‘서울런’</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/ZYFHXZQGMZCCTFZAUWDHA6NUSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/ZYFHXZQGMZCCTFZAUWDHA6NUSY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>서울시의 온라인 강의 사이트인 ‘서울런’이 전국으로 확산하고 있다. 올 3월 강원 평창군이 서울런을 기반으로 ‘평창런’ 서비스를 시작한 데 이어 지난 19일부터는 경북 예천군이 ‘예천런’을 열었다. &lt;br&gt;&lt;br&gt;서울런은 서울시가 2021년 시작한 온라인 강의 사이트다. 유명 학원의 온라인 강의를 무료로 들을 수 있다. 진학 상담도 받을 수 있다. 저소득층 가정도 학원비 걱정 없이 유명 강사의 강의를 듣게 하자는 취지에서 시작했다. 메가스터디와 대성마이맥, 이투스 등이 사회 공헌 차원에서 참여했다. 지난 9월 기준 서울 학생 3만6000여 명이 서울런을 이용하고 있다.&lt;br&gt;&lt;br&gt;작년 6월 서울시 정책 설명회를 찾은 평창군, 예천군 공무원들이 요청해 평창런, 예천런도 탄생했다. 서울시 관계자는 “어차피 열려 있는 사이트를 공유하기만 하면 돼 흔쾌히 응했다”고 했다. &lt;br&gt;&lt;br&gt;평창에서는 초·중·고교생 220명이 평창런으로 강의를 듣는다. 중학생 곽모(15)양은 “평창에는 마땅한 학원이 없어 늘 혼자 공부했는데 평창런 덕분에 서울 강남 학원 강의를 듣고 있다”며 “얼마 전 한국사 시험에서 100점을 받았다”고 했다. 예천에선 중학생 200여 명이 예천런을 보고 있다. 평창군 관계자는 “서울런이 서울 내 교육 격차뿐 아니라 서울과 지방의 교육 격차도 완화하고 있다”며 “장기적으로 지역의 인구 유출을 막는 데도 도움이 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;서울시는 인천, 충북도, 경기 김포, 강원 태백 등과도 협의 중이다. 정진우 서울시 평생교육국장은 “도입을 원하는 지방자치단체가 있으면 직접 찾아가 설명회를 열 계획”이라고 했다. 국어, 영어, 수학, 한국사 등 과목뿐 아니라 예체능 강의도 열 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대장동 의식했나… 패스트트랙 사건도 검찰 “항소 안 해”</title>
@@ -891,16 +900,6 @@
 인천탁주  지난 20일 인천시 부평구의 인천탁주 생산 공장에서 정규성(뒷줄 오른쪽 둘째) 회장과 직원들이 주력 상품인 ‘소성주’를 들어 보이고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정규성(68) 인천탁주 회장은 “2010년 기부를 시작한 뒤부터 회사가 망할 지경까진 가지 않더라”며 “직원 월급도 올려주고, 설비 투자도 할 수 있음에 감사한다”고 했다. 1974년 설립된 인천탁주는 3대째 이어져온 인천의 탁주 제조사다. 현재 연매출은 100억여 원이고 직원 수는 30명이다. 이곳은 1990년대 말부터 10년 남짓 적자에 시달렸다. 정 회장은 “더는 못 버티겠다고 체념하던 2010년에 국내에 막걸리 붐이 일면서 갑자기 매출이 올랐다”며 “회사를 살려준 인천 시민들에게 눈물이 날 정도로 감사한 마음이 들어 그해부터 바로 기부를 시작했다”고 했다. 인천탁주의 주력 상품인 ‘소성주’는 인천 지역에서 90% 이상 팔린다. &lt;br&gt;&lt;br&gt;인천탁주는 2010년부터 매년 두 차례 인천의 한 부모 가정, 소년소녀 가장 등에 쌀 700~800㎏을 기부했고, 지역의 독거·저소득 할머니와 이주 여성에게 1인당 월 50만~100만원씩 생활비를 지급하는 ‘여성 더 드림’ 사업을 해왔다. 이런 식으로 지금까지 매년 평균 1억원씩, 지난 15년간 총 15억4300만원을 사회복지공동모금회 인천지회 등에 기부했다. 정 회장은 사랑의열매에 1억원 이상을 기부한 개인들의 모임인 ‘아너 소사이어티’에도 지난해 가입했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2FHGFS5ANBH3I7CD55LJ2WJ6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운호 기자 
 오토젠  지난 20일 경기도 시흥시에 있는 오토젠 부품 공장에서 임직원들이 ‘나눔명문기업’ 가입 기념 현판(앞줄 가운데)을 들어 보이고 있는 모습.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울의 자동차 부품사인 ‘오토젠’ 조홍신(52) 대표 역시 인터뷰에서 “사업은 고난의 연속이었다”며 “(IMF 외환 위기로) 납품을 하던 대우자동차가 2000년 부도가 났고, 2009년 GM 파산과 2009년과 2020년엔 쌍용차 법정관리까지 겪었다”고 했다. 조 대표는 “당시 직원들이 몇 년간 보너스도 받지 못하는 고통을 참아주지 않았다면 그 위기를 넘지 못했을 것”이라며 “기업의 버팀목은 직원 및 그 가족이 속한 지역사회라는 걸 그때 실감했다”고 말했다. 그의 부친은 오토젠 설립자인 조용선 전 회장이고, 모친은 사랑의열매 회장을 지낸 이연배 회장이다. &lt;br&gt;&lt;br&gt;1975년 설립된 오토젠은 선연장학재단을 설립해 2009년부터 지금까지 형편이 어려운 대학생과 고등학생 총 267명에게 5억6000만원의 장학금을 지급했다. 여기에 저소득층 의료비 지원 등을 합해 지금까지 총 7억3500만원 이상을 기부했다. 오토젠의 연매출은 인도 공장을 포함해 1000억원이고 임직원 수는 270명에 달한다. 조 대표뿐 아니라 부모님, 장녀까지 가족 4명이 아너 소사이어티 회원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OH35NE3AC5GHFDAXIFXQXEXDZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 고운호 기자
 빌라 드 아모르  지난 21일 강원도 원주에 있는 빌라 드 아모르 웨딩홀에서 김종태(앞줄 가운데) 회장과 임직원들이 사랑의열매 모형을 들고 기념 촬영을 하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;빌라 드 아모르는 매출 100억여 원에 직원이 25명 정도인 강원도 원주의 웨딩 업체다. 규모는 작지만, 강원도 제1호 ‘나눔명문기업’(2019년 가입)이기도 하다. 주로 웨딩홀을 활용해 공헌 활동을 한다. 경북 안동 출신인 김종태(58) 회장이 지난 2005년 어머니의 고향인 원주에서 설립했는데, 바로 2006년부터 매년 어버이날에 원주 관내 노인 1000여 명을 초청해 경로 잔치를 열고 있다. 연말엔 원주의 사회복지사 등 소외 계층을 돌보는 150~200명을 초청하기도 한다. 지역 고등학생과 대학생 장학금, 독거 노인 난방비 지원 등을 합쳐 2004년부터 지금까지 10억원을 기부했다. &lt;br&gt;&lt;br&gt;김 회장은 “어린 시절 홀어머니 밑에서 힘들게 자라서, 저의 1억원이 어려운 이웃에겐 10억원 이상의 가치가 된다는 걸 알고 있다”며 “코로나 등으로 사업이 힘들 때 일어설 수 있게 해준 지역 주민들에게 돌려주는 건 당연하다”고 했다. 아너 소사이어티 회원이기도 한 김 회장의 권유로 이 모임에 가입한 원주 기업인만 10명에 이른다. &lt;br&gt;&lt;br&gt;&lt;b&gt;☞나눔명문기업&lt;/b&gt;&lt;br&gt;&lt;br&gt;사랑의열매가 대한민국 나눔 문화를 이끌고 기업 사회 공헌의 새 역할 모델을 제시하기 위해 2019년 만든 ‘고액 기부 중견·중소기업’ 모임. 최초 2000만원 이상을 기부하고, 3년 내 1억원 이상 기부를 약정한다. 현재 총 687곳이 가입돼 있다.&lt;br&gt;&lt;br&gt;※사회복지공동모금회 공동기획&lt;br&gt;&lt;br&gt;문의 080-890-1212&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>박물관·미술관이 한곳에… 인천 ‘뮤지엄파크’ 내달 착공</title>
-      <link>https://www.chosun.com/national/regional/2025/11/28/3AC55R46UJBURD546RDBV55YAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/28/3AC55R46UJBURD546RDBV55YAI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>인천에 박물관과 미술관, 예술공원을 갖춘 복합문화시설인 ‘인천뮤지엄파크’가 생긴다. 다음 달 착공해 2028년 개관할 예정이다. 인천은 인구가 300만명이 넘는 광역시지만 전국 광역시 중 유일하게 시립미술관이 없다.&lt;br&gt;&lt;br&gt;27일 인천시에 따르면, 뮤지엄파크는 미추홀구 학익동 4만1170㎡(약 1만2000평) 부지에 지하 1층, 지상 2층 연면적 3만8889㎡ 규모로 만든다. 경기 과천에 있는 국립현대미술관과 비슷한 규모다. 총 예산은 2415억원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X424IVCKB5BCTMC5ZU4TDJWYXE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 인천시
-2028년 개관할 예정인 ‘인천뮤지엄파크’의 조감도. 박물관과 미술관, 공원이 어우러진 복합문화시설로 만든다. 다음 달 착공한다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유정복 인천시장은 “인천은 그동안 인구나 경제 규모에 비해 문화 시설이 부족했다”며 “뮤지엄파크가 생기면 서울이나 경기도에 가지 않고도 좋은 전시를 자주 볼 수 있게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;뮤지엄파크는 국내 최초로 박물관과 미술관, 예술공원을 합쳐 만든다. 한곳에서 역사 유물뿐 아니라 미술 작품도 볼 수 있는 것이다. 박물관과 미술관, 공원이 어우러진 네덜란드 암스테르담의 ‘뮈세윔 플레인’을 참고했다고 한다. 이를 위해 연수구 옥련동에 있는 인천시립박물관이 뮤지엄파크 안으로 이전한다. &lt;br&gt;&lt;br&gt;현재 인천시립박물관은 연면적 5800㎡ 규모로 서울역사박물관(2만974㎡)이나 경기도박물관(1만847㎡), 부산박물관(1만4797㎡) 등에 비해 작다. 인천시는 시립박물관을 뮤지엄파크 안으로 옮기면서 규모를 1만3126㎡로 키울 계획이다. 현재 박물관의 약 2.3배다.&lt;br&gt;&lt;br&gt;뮤지엄파크 착공을 앞두고 인천시립박물관은 28일 인천시청에서 ‘인천 뮤지엄파크, 박물관과 미술관 어떻게 상생할 것인가?’ 정책 포럼을 연다. 유홍준 국립중앙박물관장이 ‘박물관-미술관의 경계를 넘어선 새로운 뮤지엄의 실험’을 주제로 기조 강연을 한다. 김태익 인천시립박물관장은 “뮤지엄파크는 국내 최초로 박물관과 미술관이 합쳐진 융합 모델로 짓는다”며 “운영의 묘를 살리는 방안을 지금부터 고민해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>상금 0원 ‘짤순이’ 됐지만… “은퇴 NO, 부활 믿는다”</title>
