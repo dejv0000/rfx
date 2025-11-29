@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>계엄 1년 앞두고 서울 곳곳 집회…“내란특별재판부” vs “온리 尹”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/FEQZ3KMS6RCTZLUKWE6NFB3GN4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/FEQZ3KMS6RCTZLUKWE6NFB3GN4/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 10:16:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVRRV4ECMNBTPMPDAQSDVUPHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 강남구 테헤란로 일대에서 벨라도와 신자유연대 등 주최로 열린 집회에 참여해 행진하는 사람들의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 1년을 앞둔 주말, 서울 도심 곳곳에서 집회가 열렸다.&lt;br&gt;&lt;br&gt;29일 오후 서울 종로구 광화문 광장 인근에서는 자유통일당이 주최하는 ‘자유대한민국 회복을 위한 광화문 국민대회’가 열렸다. 전광훈 사랑제일교회 목사가 주축인 이 행사에는 경찰 비공식 추산 약 7000명이 참석했다. 이들은 ‘이재명 독재정권’ ‘국민이 심판한다’ 등 문구가 적힌 손팻말을 들고 종각사거리, 을지로1가, 대한문을 거쳐 광화문광장으로 돌아오는 경로로 행진했다.&lt;br&gt;&lt;br&gt;서초구 대법원 인근에서는 시민단체 촛불행동이 집회를 벌였다. 약 700명의 참가자는 “조희대 대법원장 탄핵” “내란특별재판부 설치” “국민의힘 해체”를 외치며 지하철 2호선 강남역 방향으로 행진했다. 일부 참가자는 윤 전 대통령 부부의 모습이 담긴 현수막을 내려치기도 했다. 비슷한 시간 강남구 테헤란로에서는 벨라도 등 유튜버를 중심으로 “오직 윤석열(Only Yoon)”을 주장하는 세력이 집결했다.&lt;br&gt;&lt;br&gt;한편, 교사노조연맹은 이날 오후 2시부터 4시까지 경복궁사거리와 광화문 월대 일대에 모여 교사들의 정당 가입을 허용할 것을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘7명 사상’ BMW 식당 돌진 사고... 국과수 “가속페달 밟아”</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/AULMGAELOJBINGBL5GIUEZPCUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/AULMGAELOJBINGBL5GIUEZPCUM/</guid>
+      <dc:creator>용인=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 10:59:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HDBOTVCIHU3BER2XPPNBSCCGLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 2시쯤 경기 용인시 수지구 상현동의 한 식당에 주행 중인 승용차가 돌진하는 사고가 났다./연합뉴스.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 용인에서 7명의 사상자를 발생시킨 용인 차량 돌진 사고와 관련, 운전자는 급발진을 주장했지만 급발진은 아니라는 취지의 국립과학수사연구 분석이 나왔다.&lt;br&gt;&lt;br&gt;29일 용인서부경찰서에 따르면 국과수는 지난 11일 “운전자가 감속 페달이 아닌 가속페달을 밟은 것으로 판단된다”고 사고 차량 결함 분석 결과를 경찰에 전달했다.&lt;br&gt;&lt;br&gt;앞서 지난 8월 1일 오후 2시쯤 용인시 수지구 상현역 인근의 한 식당으로 60대 남성 A씨가 몰던 BMW 차량이 식당 내부로 돌진했다. &lt;br&gt;&lt;br&gt;이 사고로 80대 여성 B씨가 크게 다쳐 병원으로 이송됐지만 끝내 숨졌으며 2명이 중상, 4명이 경상을 입는 등 총 6명이 다쳤다. &lt;br&gt;&lt;br&gt;이들 부상자는 모두 친인척 관계로 장례식을 마친 뒤 이 식당에 방문했다가 사고를 당한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;당시 사고는 A씨의 차량이 식당 앞 야외 주차장으로 진입하던 중 식당 건물로 그대로 돌진하면서 발생했다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “식당 주차장 차단기가 올라가자마자 차량이 급발진했다”는 취지로 진술한 바 있다.&lt;br&gt;&lt;br&gt;경찰은 국과수 분석 결과 등을 토대로 교통사고처리특례법 위반 혐의로 입건한 A씨를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“주사 맞으면 혈관 녹아”…박미선, 항암치료 과정 공개</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/SGI6SUSQ3JD27LH4E3UKF3NQKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/SGI6SUSQ3JD27LH4E3UKF3NQKU/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 10:56:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJM66YYHJRATBEKKTRHB6YM6SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박미선이 항암 치료 과정을 공개했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유방암 진단 이후 방송 활동을 중단했던 박미선이 “많은 환우분이 힘내시길 바라며 조금이라도 도움이 되길 바란다”며 자신의 투병 과정을 담은 유튜브 영상을 공개했다.&lt;br&gt;&lt;br&gt;지난 28일 유튜브 채널 ‘나는 박미선’에는 ‘[슬기로운 투병일기-1] 하루아침에 암 환자가 되다’라는 제목의 영상이 올라왔다. 영상에는 박미선이 지난해 12월 유방암 진단을 받은 뒤 올해 1월부터 항암 치료를 시작한 투병 과정이 담겼다. &lt;br&gt;&lt;br&gt;박미선은 항암 치료를 위해 삽입한 혈관 보호 장치 ‘케모포트’를 보여주며 “항암 주사를 맞으면 혈관이 녹는다”고 설명했다. &lt;br&gt;&lt;br&gt;곧이어 첫 항암 치료를 마친 박미선은 “병원에서 항암하고 약을 이것저것 많이 먹어서 아직까진 괜찮다. 입맛도 조금 있다”며 “단지 조금 어지럽고 혈압이 떨어졌는데 그 외엔 괜찮다”고 말했다.&lt;br&gt;&lt;br&gt;이후 박미선은 가족과 평범한 일상을 보냈다. 그는 “컨디션이 나쁘지 않아 동네 한 바퀴를 돌았다”며 “운동하고 열심히 잘 버티고 있다. 이런 경우가 많지 않다고 하는데 주사가 저한테 잘 맞는 거 같다”고 했다.&lt;br&gt;&lt;br&gt;고통스러운 순간도 있었다. 약 부작용으로 힘들었다는 박미선은 “어저께 죽다 살아났는데 오늘은 배 안 아프니까 살 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OKIDYB3TNFGMVE2XU66VB4YBW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박미선이 항암 치료 과정을 공개했다./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;항암 1차 9일차에는 “오늘은 컨디션이 최고다. 항암 2차 치료 2~3일 전 몸이 가장 좋을 때”라며 “살만하면 들어가서 또 죽어난다”고 말했다.&lt;br&gt;&lt;br&gt;영상 말미에서 그는 “월요일부터 항암 2차인데, 혹시라도 넘어지거나 다치면 치료가 안 되니까 집에서 조심히 지내려고 한다”고 했다.&lt;br&gt;&lt;br&gt;박미선은 같은날 자신의 소셜미디어(SNS) 계정을 통해 투병기 영상을 공개하게 된 계기를 밝혔다. &lt;br&gt;&lt;br&gt;그는 “생각도 안 했는데 너무 많은 분들이 힘을 얻었다고 얘기를 하셔서 딸이랑 소소하게 그간에 지내온 투병일기를 영상으로 올려봤다”며 “공감하시고 혹시라도 힘이 되실까 하고 유튜브에 올렸다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 박미선은 지난 1월 건강 문제로 방송 활동을 전면 중단했다. 이후 10개월 만인 지난 12일 tvN ‘유 퀴즈 온 더 블럭’에 출연했다. 그는 당시 “생존 신고하려고 나왔다”며 건강해진 근황을 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 공중화장실서 화재... 남성 1명 숨진 채 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/29/MJ5SZOUOX5FGJBDIPXWJGB5LGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/MJ5SZOUOX5FGJBDIPXWJGB5LGY/</guid>
+      <dc:creator>김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 29 Nov 2025 10:49:16 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTMOJTMVRTSOLEMUYDQMBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 공중화장실에서 신원을 알 수 없는 남성이 불에 타 숨진 채 발견돼 경찰이 조사에 나섰다.&lt;br&gt;&lt;br&gt;29일 경찰 등에 따르면 이날 오후 4시 11분쯤 대구 달서구 이곡동의 한 공중화장실에서 불이 나 10여분 만에 진화됐다.&lt;br&gt;&lt;br&gt;화재 현장에선 신원을 알 수 없는 남성 1명이 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;숨진 남성과 관련해 범죄 혐의점은 발견되지 않았다.&lt;br&gt;&lt;br&gt;경찰은 이 남성이 혼자 화장실에 들어가는 장면을 확인하고 정확한 사고 경위 등을 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“교통사고 났다”... 복귀하기 싫어 거짓 보고, 휴가 늘린 20대 군인 </title>
       <link>https://www.chosun.com/national/national_general/2025/11/29/UFQW76PNJZF2ZGMD7ITDU6NPQY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/UFQW76PNJZF2ZGMD7ITDU6NPQY/</guid>
@@ -820,15 +856,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CZ4A6ZDJVBKL7A7CDNM4RDM5YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월31일 경남 창원시 마산회원구 양덕동 한 2층짜리 건물 2층 바닥(1층 천장)이 무너지는 사고가 발생해 소방대원이 구조 작업을 하고 있다. 이 사고로 1명이 숨지고 3명이 다쳤다. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4명의 사상자가 발생한 경남 창원시 마산회원구 노후 건물 붕괴 사고와 관련해 경찰이 건물주를 검찰에 송치했다. 사전에 붕괴 조짐 등을 파악하고도 별다른 조치를 취하지 않았다는 이유다.&lt;br&gt;&lt;br&gt;마산동부경찰서는 업무상 과실치사상 혐의로 50대 A씨를 검찰에 불구속 송치했다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 마산회원구 양덕동의 한 2층 규모 노후 건물을 소유한 건물주로, 붕괴 사고 조짐이 있었음에도 안전 조치 이행 의무를 다하지 않아 세입자 4명을 죽거나 다치게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 사고 전 2~3개월 전부터 세입자에게 벽체 균열과 소음이 발생한다는 내용의 민원을 받고도 별다른 조치를 하지 않은 것으로 조사됐다. 현장 확인이나 안전 진단, 대피 안내 등을 하지 않은 것이다. A씨는 경찰 조사에서 이 같은 본인 과실을 시인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TPVVBNI4AIWWMXJRZRN35T5WDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월1일 오전 경남 창원시 마산회원구 양덕동 2층짜리 상가주택 붕괴 현장에서 국토안전관리원 관계자가 현장을 점검하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 7월 31일 오후 10시 46분쯤 창원시 마산회원구 양덕동에 있는 2층짜리 건물에서 2층 바닥(1층 천장)이 붕괴했다. 이 사고로 50대 중국 국적의 1층 식품 소매점 업주가 숨졌다. 또 2층에 있던 30대 등 가족 3명이 경상을 입었다.&lt;br&gt;&lt;br&gt;붕괴 사고가 난 건물은 지상 2층, 연면적 약 164㎡ 규모로, 1978년 2월 준공된 노후 건물이다. &lt;br&gt;&lt;br&gt;경찰은 국립과학수사연구원 등과 합동 감식을 해 이 붕괴 사고 원인을 철근 부식 등 건물 노후화로 추정했다. 감식 결과 등을 종합한 경찰은 건물주인 A씨가 안전 관리 의무를 소홀히 해 인명 피해가 발생했다고 판단했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>부산에서 길 건너던 60대… 오토바이, 승용차 등 잇달아 치여 사망 </title>
-      <link>https://www.chosun.com/national/regional/2025/11/28/27NWERSFFNAYTNHABL7BZLEYUQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/28/27NWERSFFNAYTNHABL7BZLEYUQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 01:25:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4GENJWGI2TGMRYGY4GEMZVGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 도로를 건너던 60대 보행자가 오토바이와 승용차 4대에 잇달아 치여 숨지는 사고가 났다. &lt;br&gt;&lt;br&gt;28일 부산경찰청에 따르면 전날 오후 8시30분쯤 부산 부산진구 백양대로에서 20대가 몰던 오토바이가 도로를 건너던 60대 남성을 들이받았다. 이어 SUV와 승용차 등 4대가 쓰러진 남성을 발견하지 못하고 차례로 밟고 지나갔다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스와 CCTV 등을 확보해 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자에 대해 주의 의무를 다했는지 등을 따져본 뒤 구체적인 혐의를 적용할 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>군인들 사라진 도시, 주민들 웃음도 사라졌다</title>
       <link>https://www.chosun.com/national/national_general/2025/11/28/3TNIDSVJ7BAGJGKU46HGE4S6GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/3TNIDSVJ7BAGJGKU46HGE4S6GI/</guid>
@@ -864,15 +891,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/HXFCQ2NTHVCAJLYNPHPBH7OZME.gif?auth=e9c20520a2420eb0c0136e3f83cddac1b90652f5fe1261653083e68d7b52c233&amp;smart=true&amp;width=436&amp;height=326" type="image/jpeg" height="326" width="436"/>
     </item>
     <item>
-      <title>“이종섭 출국시켜 수사 방해” 尹 등 인사 라인 대거 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/XQNCEECZRNDO7FW4JJQU5TCSZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/XQNCEECZRNDO7FW4JJQU5TCSZQ/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>순직 해병 특검이 27일 ‘이종섭 전 국방 장관의 주(駐)호주 대사 임명’ 의혹과 관련해 윤석열 전 대통령을 불구속 기소했다. 고(故) 채수근 상병 사망 사건 수사 외압 의혹으로 고위공직자범죄수사처(공수처)에 입건된 이 전 장관을 호주 대사로 내보내 수사를 방해했다며 직권남용·범인 도피 등 혐의를 적용했다. 특검은 윤 전 대통령 지시로 대사 임명과 출국 금지 해제에 관여한 박성재 전 법무 장관, 심우정 전 검찰총장(당시 법무 차관), 조태용 전 대통령실 국가안보실장, 이시원 전 공직기강비서관, 장호진 전 외교부 1차관도 함께 기소했다.&lt;br&gt;&lt;br&gt;해병 특검은 이 전 장관의 호주 대사 임명이 대통령 인사권의 한계를 벗어나 범인을 도피시킨 범죄로 판단했다. 특검은 이날 “윤 전 대통령은 이른바 ‘VIP 격노’ 당시 통화한 이 전 장관에 대한 공수처 수사가 본격화되자 자신도 수사 대상이 될 것을 우려했다”면서 “2023년 11월 야당의 채 상병 특검 요구가 거세지자 같은 달 19일 조 전 실장에게 이 전 장관의 호주 대사 임명을 지시했다”고 밝혔다. 윤 전 대통령 자신에게로 수사가 확대되는 것을 막으려고 공범인 이 전 장관을 도피시켰다는 주장이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I272VJLALFHYVGMDRJNVTRH2IA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 또 이 전 장관의 인사에 관여한 외교부, 출국 금지 해제에 관여한 법무부 고위 간부들이 조직적으로 범행에 가담했다고 보고 있다. 이들이 이 전 장관을 도피시켜 공수처 수사를 방해하려는 분명한 인식과 의도를 갖고 윤 전 대통령 지시에 따랐다는 것이다. 특검은 “당시는 이 전 장관의 호주 대사 임명을 ‘범인 도피’라고 비판하는 언론 보도가 쏟아졌다”며 “단순히 대통령의 지시를 소극적으로 이행한 게 아니라, 적극적으로 범행에 가담한 것으로 보인다”고 했다. 이시원 전 비서관의 경우, 인사 검증 과정에서 채 상병 관련 논란을 지우고 ‘문제없음’으로 결론 낸 정황이 드러나기도 했다.&lt;br&gt;&lt;br&gt;이날 특검 기소에 대해 법조계에선 “이 전 장관이 피고발인 신분이란 이유만으로 대통령의 인사권 행사를 범죄로 볼 수 있는지를 두고 재판에서 치열한 법리 다툼이 벌어질 것”이란 전망이 나왔다. 당시 이 전 장관을 수사하던 공수처는 입건 후 약 6개월간 단 한 차례도 소환하지 않은 채 출국 금지만 계속 연장하고 있었기 때문이다. &lt;br&gt;&lt;br&gt;현직 고법 판사는 “단순히 야당에 의해 고발됐다는 이유만으로 범인으로 상정하는 것은 무리한 해석”이라며 “범죄 성립 자체가 불분명하다”고 했다. 이 전 장관이 재판에 넘겨지지도 않은 상황에서 범인 도피 혐의를 적용하는 것은 무리하다는 취지다. 법조계 한 인사는 “특명 전권 대사에 대한 대통령 임명권을 너무 행정적으로 재단한 수사 결과”라며 “대통령이 범인을 도피시키기 위해 대사 임명을 했다는 논리 자체가 억지”라고 했다. &lt;br&gt;&lt;br&gt;윤 전 대통령 측은 “이 전 장관의 호주 대사 발탁은 방산 분야 전문성을 고려한 것으로, 대통령의 정상적인 인사권 행사”라는 입장이다. 반면 특검 관계자는 “당시 해외 공관장 임명과 관련한 통상적인 절차를 무력화하는 일들이 계속 벌어졌다. 수사 외압 의혹을 은폐하려고 이 전 장관을 도피시킨 것으로 보기에 충분하다”고 했다.&lt;br&gt;&lt;br&gt;한편, 특검은 이날 박정훈 대령의 구속영장을 청구했던 국방부 검찰단 염보현 군검사와 김민정 전 보통검찰부장도 허위 공문서 작성 등 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>글로컬 대학에 뽑혀 1000억 받는 학교들… 교육부 평가는 꼴찌</title>
       <link>https://www.chosun.com/national/education/2025/11/28/MT2M7H5E65DOVHNFDGYSO5JKAA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/11/28/MT2M7H5E65DOVHNFDGYSO5JKAA/</guid>
@@ -893,24 +911,6 @@
       <description/>
       <pubDate>Thu, 27 Nov 2025 15:55:00 +0000</pubDate>
       <content:encoded>27일 추경호 국민의힘 의원에 대한 체포동의안이 국회 본회의에서 가결됐지만, 법조계에서는 “추 의원에 대한 구속영장이 발부되긴 쉽지 않을 것”이라는 전망이 우세하다. 추 의원에게 적용된 내란에 가담한 혐의와 관련해 직접적인 증거가 없어 법리적 다툼의 여지가 큰 상황이기 때문이다.&lt;br&gt;&lt;br&gt;특검 측은 지난 3일 구속영장을 청구하면서 추 의원에 대해 내란중요임무종사 혐의를 적용했다. 추 의원이 작년 12월 3일 비상계엄의 불법성을 인식하고도 국민의힘 의원들의 계엄 해제 요구안 표결을 방해하기 위해 의원총회 장소를 수차례 변경 공지하는 등 내란에 가담했다는 것이다. 특검은 그 근거로 계엄 당일 오후 11시 22분쯤 추 의원이 윤 전 대통령과 2분간 통화하며 ‘비상계엄에 협조해 달라는 취지의 전화를 받았다’고 주장하고 있다. 그러나 특검 측은 구체적인 통화 내용은 확보하지 못한 것으로 전해졌다. 추 의원 측은 “윤 전 대통령이 전화로 ‘계엄을 미리 알리지 못해 미안하다’고 했을 뿐”이라는 입장이다. &lt;br&gt;&lt;br&gt;특검 측은 작년 12월 4일 0시 3분, 추 의원이 국민의힘 의원들에게 “당사로 모이라”고 공지한 것도 추 의원이 내란에 가담한 정황으로 보고 있다. 당시 우원식 국회의장이 국회의원들에게 “본회의장으로 모여 달라”는 문자를 발송했지만, 추 의원이 이를 무시하고 국민의힘 의원들을 다른 곳으로 모이게 했다는 것이다. 이에 대해 추 의원 측은 “당시 경찰이 국회 출입을 전면 통제해 의원들을 당사에 모이게 한 것”이라고 했다. 실제 계엄 당일 오후 11시 37분 경찰은 국회 출입을 전면 통제했고 이튿날 새벽 1시 45분이 돼서야 국회 관계자들에 한해 출입을 제한적으로 허용했다.&lt;br&gt;&lt;br&gt;특히 특검은 추 의원이 12월 4일 새벽 국회 본회의장에 있던 한동훈 국민의힘 당대표에게 전화를 걸어 “밖으로 나와 달라”고 한 것도 내란 가담이라고 주장한다. 추 의원이 한 대표와 친한계 의원들을 본회의장 밖으로 빼내 표결을 방해하려고 했다는 것이다. 그러나 추 의원 측은 “한 대표에게 ‘당 입장을 의논하고 본회의장으로 올라가자’고 했을 뿐”이라며 “한 대표는 계엄 선포 직후 이미 ‘계엄이 위법하다’는 입장을 밝힌 상황이었다. 표결을 방해할 의도는 전혀 없었다”고 했다.&lt;br&gt;&lt;br&gt;특검은 또 추 의원의 증거인멸 우려 사유로 그가 지난 5월 휴대전화를 교체한 점을 꼽고 있다. 그러나 추 의원 측은 지난해 12월 경찰 수사 단계에서 이미 휴대전화에 대한 조사를 마쳤다는 입장이다.&lt;br&gt;&lt;br&gt;야권과 법조계에선 “국회의원의 면책특권에 대한 치열한 법리 다툼도 예상된다”는 말도 나왔다. 헌법 제45조는 ‘국회의원은 국회에서 직무상 행한 발언과 표결에 대해 국회 외에서 책임을 지지 아니한다’고 규정하고 있다. 추 의원이 계엄 해제 표결에 대해 누군가와 상의하거나 논의했다고 하더라도 국회의원 표결의 ‘부수적 행위’로서 면책 범위에 해당할 가능성이 높다는 것이다. 부장판사 출신 한 변호사는 “(추 의원의) 표결 방해가 죄가 되는지 의문인 데다, 특검 주장은 대체로 정황에 대한 해석에 기초하고 있다”며 “영장 심사에서 특검이 핵심 증거를 제시하지 못한다면, 구속은 물론 범죄 소명조차 쉽지 않을 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;다만 법조계 일각에선 특검 측이 수사 과정에서 아직 공개되지 않은 유의미한 증거나 관계자 진술을 확보했을 수 있다는 주장도 나온다. 계엄 선포 직후 7분 넘게 통화했던 한덕수 전 국무총리를 비롯해 함께 수사를 받은 관련자들이 특검에서 추 의원 혐의를 입증할 진술을 했을 가능성도 배제할 수 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, 양평 공무원 사망 ‘셀프 감찰’서 면죄부</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/FMKRFL2WJ5B6ZJZJLYOJG3OKLU/</guid>
-      <dc:creator>이민경 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>민중기 특별검사팀이 수사 도중 강압 수사 피해를 호소하며 스스로 목숨을 끊은 경기 양평군 공무원 사망 사건과 관련해 “조사 당시 허위 진술 강요 등 규정 위반 사항을 발견하지 못했고, 강압적인 언행도 단정하기 어렵다”는 감찰 결과를 27일 밝혔다. 법조계에선 “시간만 끈 맹탕 감찰” “제 식구 감싸기 위한 셀프 감찰” 등의 평가가 나왔다.&lt;br&gt;&lt;br&gt;이 사건은 지난달 10일 ‘양평 공흥지구 개발 특혜’ 의혹으로 특검 조사를 받은 양평군청 사무관 A(57)씨가 숨진 채 발견되면서 불거졌다. 그가 생전 작성한 메모에 “계속되는 (특검 측) 회유와 강압에 지치고 힘들다” “수사관의 무시 말투와 강압에 전혀 기억도 없는 진술을 했다” 등의 내용이 담겨 있었던 것이다. A씨는 2016년 양평군 지가관리팀장으로 근무하며 김건희 여사 일가에게 특혜를 준 실무자로 지목된 인물이다.&lt;br&gt;&lt;br&gt;강압 수사 논란이 일자 특검은 지난달 17일 감찰에 착수했다. 심야 조사 제한, 강압적 언행 등 6개 항목으로 나눠 감찰한 결과, 특검은 “강압적 언행을 제외한 5개 항목은 규정 위반 사항을 발견할 수 없었다”며 “현 단계에선 강압적 언행 규정 역시 단정하기 어렵다”고 했다. 이에 따라 특검은 A씨를 조사한 수사관 3명을 업무에서 배제하고, 다음 달 1일 자로 파견 해제 요청을 했다. 검찰 출신 한 변호사는 “감찰 기능이 없는 곳에서 감찰을 하는 것 자체가 말이 안 되는 일”이라며 “결국 여론이 잠잠해지기를 기다려 셀프 면죄부를 준 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대장동 의식했나… 패스트트랙 사건도 검찰 “항소 안 해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/THJSE75LJVHMFOD6QMKGNGQZF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/THJSE75LJVHMFOD6QMKGNGQZF4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 27 Nov 2025 15:53:00 +0000</pubDate>
-      <content:encoded>더불어민주당의 공직선거법·고위공직자범죄수사처법 신속 처리 안건 지정(패스트트랙) 과정에서 발생한 충돌 사태로 1심에서 벌금형이 선고된 국민의힘 전현직 의원들에 대해 서울남부지검이 항소하지 않기로 했다고 27일 밝혔다. 이날은 항소 기한(선고일로부터 7일 이내) 마지막 날이다.&lt;br&gt;&lt;br&gt;앞서 1심은 지난 20일 나경원 의원과 송언석 원내대표 등 국민의힘 현역 의원 6명에게 벌금형을 선고했다. 다만 형량이 의원직 상실형(국회법 위반 500만원, 일반 형사 사건 금고형 이상)에 못 미쳐 의원직은 유지하게 됐다. 검찰은 나 의원에게 징역 2년을, 황교안 전 자유한국당 대표(현 자유와혁신 대표)에게 징역 1년 6개월을 각각 구형했었다.&lt;br&gt;&lt;br&gt;이 사건은 2019년 4월 민주당이 공수처 신설을 위해 정의당 등 친여 성향의 군소 정당이 원하는 선거법 개정(연동형 비례대표제)에 합의하고 밀어붙이자, 당시 야당이었던 자유한국당이 이를 막는 과정에서 불거졌다. &lt;br&gt;&lt;br&gt;남부지검의 항소 포기에 대해 검찰 안팎에선 “이달 초 ‘대장동 개발 비리’ 사건의 2심을 앞두고 항소를 포기한 것을 의식한 것 아니냐”는 말이 나왔다. 법조계 한 관계자는 “이재명 대통령이 관련된 대장동 사건은 항소를 포기해 놓고 야당 의원들에 대한 항소만 제기할 경우, 검찰이 또다시 논란에 휩싸이고 비판받게 될 것을 우려한 것 아니겠느냐”고 했다.&lt;br&gt;&lt;br&gt;검찰과 피고인 모두 항소를 포기하면 1심에서 내린 벌금형이 확정된다. 다만 이날 나 의원과 황 전 대표, 윤한홍 의원, 곽상도·김선동·김성태·박성중 전 의원 등 일부가 법원에 항소장을 제출해 이들에 대한 항소심은 열리게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“내 1억이 이웃엔 10억” 中企 기부액 8년새 2배</title>
