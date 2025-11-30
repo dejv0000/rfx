@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 쿠팡 내부 자료 확보… 유출 경로 추적</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/30/OLYF2XFQ6JDH7MX73CSYKAJFKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/OLYF2XFQ6JDH7MX73CSYKAJFKE/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 08:17:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMQH25PP3BDIZA4PFBNDQX2V2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡에서 3000만건이 넘는 대규모 정보 유출 사고가 발생한 것과 관련해 쿠팡이 이용자들에게 보낸 메시지./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3000만명이 넘는 쿠팡 고객의 개인정보가 유출된 사건과 관련해 경찰이 쿠팡 내부 자료를 확보했다. &lt;br&gt;&lt;br&gt;30일 본지 취재를 종합하면, 서울경찰청 사이버수사대는 쿠팡으로부터 서버 기록 등 내부 자료를 임의 제출 받아 분석 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유출 경로와 피해 규모를 정확하게 파악하는 중”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 쿠팡은 지난 25일 &lt;br&gt;&lt;br&gt;쿠팡은 지난 20일 입장문을 통해 “제3자가 고객 계정의 정보를 조회했다”며 “외부 침입 흔적은 없는 것으로 확인했다”고 밝혔다. 내부에서는 고객 정보를 조회한 사람이 과거 쿠팡에서 근무했던 중국 국적자인 정황을 포착했고, 경찰도 이에 대해 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당초 쿠팡은 지난 18일 약 4500개의 계정이 유출됐다고 발표했지만, 관련 당국의 조사 과정에서 노출 규모가 약 3370만개인 것으로 드러났다. &lt;br&gt;&lt;br&gt;쿠팡 측은 고객 이름, 이메일 주소, 배송지 주소록에 입력된 정보 등이 유출됐지만 결제 정보 등은 노출 대상에 포함되지 않았다고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마라톤 대회 중 트럭에 치인 20대 유망주, 끝내 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/11/30/WP5N5SXVN5AI5P3ZHN4N7OZGQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/11/30/WP5N5SXVN5AI5P3ZHN4N7OZGQM/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 09:16:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북지역에서 열린 역전 마라톤 대회에서 사고로 뇌사상태에 빠졌던 20대 선수가 끝내 숨졌다.&lt;br&gt;&lt;br&gt;30일 청주시 등에 따르면 청주시청 직장운동경기부 소속 20대 A씨는 이날 오전 1시 30분쯤 치료를 받던 병원에서 끝내 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 지난 10일 오전 10시쯤 옥천군 구간에서 진행된 한 마라톤대회에서 80대 B씨가 몰던 1t 포터 트럭에 치여 머리 등을 크게 다쳤다. 병원으로 옮겨진 A씨는 뇌사판정을 받고 연명 치료를 받아왔다.&lt;br&gt;&lt;br&gt;당시 주최 측과 경찰은 당시 편도 2차선 중 2차로만 차량 통행을 통제한 채 진행했고, 선수 연결구간에서 1차로를 달리던 B씨의 트럭이 갑자기 차선을 변경하면서 선두를 달리던 A씨를 치였다. 당시 차량의 속도는 시속 57㎞로 조사됐다. &lt;br&gt;&lt;br&gt;경찰 조사에서 B씨는 “사고 지점 전방 100m 정도에 떨어진 신호등을 보느라 A씨를 미처 보지 못했다”고 진술한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 숨지면서 교통사고처리특례법상 치사 혐의를 적용해 검찰에 불구속 송치할 예정이다.&lt;br&gt;&lt;br&gt;한편 A씨는 각종 마라톤 대회에서 우수한 성적을 거두며 유망주로 부상한 선수인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>초대형 산불 막는 국립공원 ‘산불지도’ 만든다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/11/30/TD4XU3JAWZF3HATMC4LD76SGCI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/30/TD4XU3JAWZF3HATMC4LD76SGCI/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 09:26:30 +0000</pubDate>
+      <content:encoded>기후변화로 산불이 대형화·장기화되는 가운데, 정부가 산불 대응 체계를 전면 개편하기로 했다. 지난 3월 역대 최대 피해를 낸 경북 산불 같은 ‘초대형 산불’을 막기 위해, 국립공원별 산불 확산 예측 지도를 만들고 대응 장비와 인력을 늘린다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 30일 이런 내용의 ‘국립공원 산불 대응 혁신 방안’을 발표했다. 산불을 최대한 예방하고, 산불이 나더라도 초기 단계에서 불길을 잡을 수 있는 능력을 강화한다는 취지다.&lt;br&gt;&lt;br&gt;이번 대책의 핵심 중 하나는 국립공원별 특성을 반영한 ‘산불 지도’를 만드는 것이다. 과거 산불 이력과 산불 위험도, 지형, 기상 정보 등을 종합해 불길이 어느 방향으로 이동할지 예측해 지도를 만들고, 소방 차량 진입로와 소방 헬기 접근 동선 등 구체적인 대응 계획도 마련한다. &lt;br&gt;&lt;br&gt;산불 관련 데이터를 미리 수집·분석한 뒤 산불이 났을 때 인공지능(AI)을 이용해 빠르게 진화하는 전략을 세우는 방안도 추진된다. 정부는 연기와 불꽃을 감지하는 ‘AI 산불 카메라’를 2030년까지 현재 18대에서 231대로 늘리기로 했다. 산불이 발생하면 즉시 현장 담당자와 소방 등 기관에 상황을 전달하는 ‘실시간 알림 체계’도 만든다.&lt;br&gt;&lt;br&gt;산불 확산을 막는 ‘방어 시설’도 강화된다. 국립공원 내 마을이나 사찰, 문화유산 등 피해 우려 지역 주변에는 활엽수림을 조성해 산불 확산 속도를 늦춘다. 활엽수는 침엽수보다 수분 함량이 높아 비교적 화염에 강하다. 이 외에도 인근 주민들이 초기 대응을 할 수 있도록 소화기를 지원하고, 옥외 소화전도 추가로 설치한다.&lt;br&gt;&lt;br&gt;입산객과 주민을 대상으로 하는 산불 예방 교육도 확대한다. 국립공원공단에 따르면 최근 10년간 국립공원에서 발생한 산불 84건 가운데 입산객 실화가 45건(54%), 주민 실화가 27건(32%)이었다. 산불 대부분이 ‘사람의 부주의’로 발생한 만큼 국립공원 입구 등에서 산불 예방 안내와 홍보 활동을 강화하겠다는 계획이다.&lt;br&gt;&lt;br&gt;현재 1대뿐인 국립공원 산불 진화 헬기를 2030년까지 4대로 늘려 어느 공원에서든 산불 발생 후 1시간 이내에 투입할 예정이다. 또한 대규모 산불에 대비해 국립공원공단에 재난·안전 전담 조직을 새로 만들고, 접근이 어려운 산악 지역 화재에 대응할 산불 전문 인력도 추가로 뽑는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 남구 대학교 실험실서 불...1명 병원 이송</title>
+      <link>https://www.chosun.com/national/incident/2025/11/30/UMAXEKWBOFGK5NKE25TTDY7YUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/30/UMAXEKWBOFGK5NKE25TTDY7YUM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 09:20:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YY3JTJSUDVGS7GOZRISUAJBKYE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 남구 한 대학교 실험실에서 발생한 화재 현장. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오후 2시 2분쯤 부산 남구 한 대학교 7층짜리 건물 4층 실험실에서 불이 났다.&lt;br&gt;&lt;br&gt;이 불로 실험실에 있던 50대 남성 1명이 얼굴 쪽에 1도 화상을 입고 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;불은 드라이 오븐과 실험실 내부 등을 태우고 300만원(소방 추산) 상당의 재산 피해를 내고 약 20분 만에 진화됐다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 알코올 유증기가 오븐에 의해 과열돼 불이 난 것으로 보고 정확한 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>걷기만 해도 보험료 10% 깎아준다...서울시, 손목닥터 9988 혜택 대폭 확대</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/30/7EEX5WXG4BF2DPMPDBBUJVIPEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/7EEX5WXG4BF2DPMPDBBUJVIPEE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 08:52:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSG6HRYM7FBEBLRLQU22PUBTT4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시의 시민 건강관리 앱인 ‘손목닥터9988’ 이용자들은 12월부터 일정 기준 이상 걸었을 때 일부 민간 보험료를 할인받을 수 있게 된다. 지하철이나 버스 등 대중교통에서 현금처럼 쓸 수 있는 마일리지도 받을 수 있다. 서울시는 30일 이 같은 내용의 ‘손목닥터9988 앱 개편안’을 발표했다. &lt;br&gt;&lt;br&gt;손목닥터9988은 시민 건강관리를 위해 서울시가 2021년 만든 앱이다. 하루 8000보 이상 걸으면 서울 시내 편의점·식당·서점 등에서 현금처럼 쓸 수 있는 포인트를 준다. 지난달 가입자가 250만명을 넘겼다. 서울 시민 넷 중 한 명은 이 앱을 사용하는 셈이다.&lt;br&gt;&lt;br&gt;이번 개편안에 따라 앞으로 앱 이용자는 보험료를 최대 10%까지 할인받을 수 있다. 한 달에 20일 이상, 하루 8000보 이상(70세 이상은 5000보) 걸으면 된다. 다만 현재 할인 대상은 교보라이프플래닛과 삼성생명, 한화생명 등 3사가 만든 질병 보험 상품 등 5종이다. 최장 5년까지 할인해준다. 서울시 관계자는 “앞으로 더 많은 보험사와 협력해 할인 상품을 늘려 갈 것”이라고 했다. &lt;br&gt;&lt;br&gt;대중교통 앱인 ‘티머니GO’와 연계한 교통비 할인 혜택도 신설됐다. 12월 한 달간 손목닥터9988 참여자가 티머니GO에 회원 정보를 최초로 연동하면 티머니GO 앱에서 교통비로 쓸 수 있는 1000마일리지를 준다. 17일부터는 하루 8000보를 채우면 무작위 추첨을 통해 최소 1마일리지, 최대 100만마일리지를 매일 받을 수 있다.&lt;br&gt;&lt;br&gt;포인트 지급 방식은 꾸준히 걷는 사람에게 더 많이 주는 방식으로 바뀐다. 지금까지는 하루 8000보를 걸으면 날마다 200포인트를 줬는데, 앞으로는 100포인트만 준다. 대신 일주일에 5일 이상 8000보를 걸으면 500포인트를 한 번에 추가 지급한다. 배종은 서울시 스마트건강과장은 “앞으로 혜택을 계속 추가해서 더 많은 시민이 확실하게 건강관리 습관을 가질 수 있도록 독려할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검, ‘헌법재판관 부실 검증 의혹’ 정진석 전 비서실장 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/30/36VAOQGIAJBETKETUHTIPB7FQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/36VAOQGIAJBETKETUHTIPB7FQU/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 30 Nov 2025 08:17:57 +0000</pubDate>
+      <content:encoded>조은석 내란특검팀이 30일 정진석 전 대통령실 비서실장을 헌법재판관 부실 검증 의혹과 관련해 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TEYZRGE4WENJUGUZWMOBSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진석 전 대통령실 비서실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오전부터 정 전 실장을 직권남용권리행사방해 혐의 피의자 신분으로 소환했다. 특검팀은 지난 4월 대통령 권한대행이던 한덕수 전 국무총리가 대통령 몫 헌법재판관 2명을 인사 검증 동의 하루 만에 지명해 인사 검증 담당자들의 직무 권한을 침해했다고 의심한다. 또 정 전 실장이 이 과정에 개입했는지 여부도 조사 중이다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤석열 전 대통령 탄핵 나흘 뒤인 4월 8일 문형배, 이미선 전 헌법재판관에 대한 후임자로 이완규 전 법제처장과 함상훈 서울고법 부장판사를 지명했다. 당시 헌법재판소는 재판관 지명 효력정지 가처분 신청을 인용해 실제 임명 절차는 진행되지 않았다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 이와 관련해 지난 21일과 20일 각각 한 전 총리와 김주현 전 대통령실 민정수석을 피의자 신분으로 불러 조사한 바 있다. 또 이원모 전 대통령실 공직기강비서관도 직권남용권리행사방해 혐의 피의자로 소환해 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘관봉권·쿠팡' 특검, 남부터미널역 인근에 사무실 마련...수사팀 구성에도 속도</title>
       <link>https://www.chosun.com/national/court_law/2025/11/30/XY24UW5D2NE6BO6MP6IVDMKCDY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/XY24UW5D2NE6BO6MP6IVDMKCDY/</guid>
@@ -821,33 +875,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2TQOLGMFRDGOJYHEZTCOBWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;YTN 상암동 사옥 전경./YTN 홈페이지 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송통신위원회가 YTN의 최대 주주를 민영 기업인 유진그룹으로 변경한 결정에 반발해 YTN 노동조합이 방통위를 상대로 제기한 소송에서 법원이 노조 손을 들어줬다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 “野 ‘내란 세력’으로 몰아 탄압…민주당, 진짜 헌정 파괴”</title>
-      <link>https://www.chosun.com/national/regional/seoul/2025/11/28/3FZSSTHFDNB5HBN6NNG7KEU2AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/11/28/3FZSSTHFDNB5HBN6NNG7KEU2AY/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 04:10:41 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 28일 “국민의힘을 내란 세력으로 몰아 야당을 탄압하려는 민주당의 시도야말로 진짜 헌정 파괴”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S3U3CAFAJ5C7BFN4X3EOCNHH5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 7월 10일 서울시청 집무실에서 본지와 인터뷰하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘민주당은 내란 몰이 야당 탄압을 즉각 중단해야 합니다’라는 글을 올리고 “민주당은 의회민주주의를 짓밟고 헌정 질서를 파괴하는 폭주의 끝이 국민의 준엄한 심판뿐이라는 것을 명심해야 한다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “계엄은 분명히 잘못된 결정이었고, 국민의힘은 비상계엄 사태로 이 무도한 세력에 정권을 내준 책임이 있다”며 “하지만 분명한 것은 국민의힘이 계엄을 공모하지 않았다는 사실”이라고 했다.&lt;br&gt;&lt;br&gt;이어 오 시장은 “반역자나 내란 세력으로 몰아 숙청하는 것은 독재 정권이 정적을 제거하기 위해 쓰는 전형적인 방식”이라며 “민주당이 지금 하고 있는 일이 바로 그것”이라고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “정청래 대표는 국민의힘 의원들을 향해 ‘내란 공범’ 운운하며 정당 해산 청구 협박까지 서슴지 않고 있다”며 “대한민국은 이재명 정권과 민주당의 소유물이 아니다. 우리 국민은 거대 권력에 대한 견제와 힘의 균형을 잘 알고 계신다”고 했다.&lt;br&gt;&lt;br&gt;한편 특검이 추경호 의원을 기소한 것에 대해선 “민주당의 내란 몰이에 부응하는 정치 기소, 야당 탄압 기소”라며 “사법부는 헌법 기관인 국회의원이 불구속 상태에서 방어권을 보장받으며 재판받을 수 있도록 해야 한다. 사법부의 현명한 판단을 기다리겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해병 특검, 기소 33명 중 구속은 단 1명… ‘구명 로비’ 의혹은 규명 못 해</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/5L47DODPJJD6RA2KMBATOAQSTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/5L47DODPJJD6RA2KMBATOAQSTU/</guid>
-      <dc:creator>방극렬 기자, 박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 02:17:18 +0000</pubDate>
-      <content:encoded>‘고(故) 채수근 상병 사망 사건 수사 외압’ 의혹 등을 수사한 이명현 순직 해병 특별검사가 28일 150일간의 수사를 마무리하고 최종 수사 결과를 발표했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYPI7DJPAFPGTHFYK2UJX5ZPVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;채상병 순직 사건 외압·은폐 의혹을 수사해온 이명현 순직해병 특별검사가 28일 서울 서초구 특검 사무실에서 열린 정례 브리핑에서 최종 수사 결과를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해병 특검은 채 상병 사건에 대한 윤석열 전 대통령의 이른바 ‘VIP 격노’ 등 수사 외압 의혹, 고위공직자범죄수사처(공수처)의 수사 방해 의혹, 이종섭 전 국방장관의 호주 대사 도피 의혹 등을 수사해 총 33명을 기소했다. 이 가운데 채 상병 사망에 대한 업무상 과실치사 혐의를 받는 임성근 전 해병대 1사단장 한 명만 구속 상태로 재판에 넘겼다. &lt;br&gt;&lt;br&gt;이명현 특검은 이날 최종 수사 결과를 발표하면서 “억울하게 세상을 떠난 해병의 죽음에 대해 책임이 있는 사람은 누구인지, 그 책임의 소재를 가리기 위한 수사에 권력 윗선의 압력이 어떻게 가해졌는지 밝히기 위해 출범했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “특검이 청구한 구속영장 등에 대한 서울중앙지법 영장 재판부의 과도한 기각은 아쉬움이 남는 부분”이라면서도 “특검 구성원 모두는 한 치의 의혹도 남기지 않겠다는 각오로 수사에 임했고, 주요 수사 대상 사건 대부분의 실체적 진실을 규명했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘정치 중립 의무 위반’ 조태용 전 국정원장 구속 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/TNGJFQEUTBBNPIKXJPUCWCGVPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/TNGJFQEUTBBNPIKXJPUCWCGVPQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 02:31:53 +0000</pubDate>
-      <content:encoded>조은석 내란 특검팀이 28일 조태용 전 국가정보원장을 구속 상태로 재판에 넘겼다. 특검은 조 전 원장에게 국가정보원법(정치 중립 의무) 위반, 직무 유기, 증거인멸, 허위 공문서 작성 및 행사 등 혐의를 적용했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4DCNLGHBSTKMDFGFQTKMBVHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조태용 전 국가정보원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박지영 내란 특검보는 이날 브리핑에서 “조 전 국정원장을 12·3 비상계엄 당시 국회에 대한 보고 의무를 위반하고 정치적 중립성을 지키지 않고 정치에 관여한 혐의 등으로 공소 제기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “국정원장은 특정 정파나 대통령 개인의 정치적 입지를 위한 자리가 아니고, 국민을 우선에 두고 국가의 안위를 지켜야 하는 자리”라며 “그럼에도 조 전 원장은 (비상계엄 당시) 방첩사의 정치인 체포 등을 지원하라는 윤석열 전 대통령의 지시를 받고 아무런 조치를 취하지 않았고, 그러한 사실이 드러나자 직속 부하를 거짓말쟁이로 치부했다”고 말했다.&lt;br&gt;&lt;br&gt;조 전 원장은 지난해 12월 3일 윤석열 전 대통령이 비상계엄을 선포하는 대국민 담화를 하기 전에 미리 계엄 선포 계획을 알았음에도 이를 국회에 보고하지 않은 혐의(직무유기) 등을 받는다. 홍장원 전 국정원 1차장으로부터 “계엄군이 이재명·한동훈 잡으러 다닌다”는 보고 등을 받고도 국회에 알리지 않은 혐의도 있다.&lt;br&gt;&lt;br&gt;또 홍 전 차장의 동선이 담긴 국정원 폐쇄회로(CC)TV 영상을 국민의힘 측에 우선 제공하고, 자신의 동선이 담긴 영상은 더불어민주당 측에 제공하지 않아 국정원법에 명시된 정치 관여 금지 의무를 위반한 혐의도 받는다.&lt;br&gt;&lt;br&gt;다만 내란 특검은 조 전 원장에게 내란 관련 혐의를 적용하지는 않았다. 조 전 원장이 윤 전 대통령의 내란 모의에 참여했거나 내란 행위에 직접 가담했다고 보기는 어렵다고 판단한 것이다.&lt;br&gt;&lt;br&gt;박 특검보는 “조 전 원장은 계엄 당시 홍 전 차장의 보고를 받고 내일 아침에 결정하자며 미루는 등 내란에 직접 참여하는 것에는 거부감이 있었던 것으로 보인다”며 “다만 체포 지시 등을 본인이 듣지 않은 것처럼 진술해 탄핵 심판 과정에서 사회 혼란을 야기했다. 본인이 인지한 정보를 사실대로 국민과 국회에 보고했다면 진상 규명과 사태 수습이 더 빨리 이뤄졌을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NCPPGW3WKNO75MSHURGIAWYSMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박지영 내란특검보가 28일 특검 사무실이 마련된 서울 서초구 고등검찰청 기자실에서 현안 관련 브리핑을 하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 조 전 원장에게 올해 1~2월 국회의 비상계엄 관련 국정조사와 헌법재판소의 윤 전 대통령 탄핵 심판에 출석해 거짓 증언을 하거나 허위 답변서를 써낸 혐의(위증·허위 공문서 작성 및 행사 등)도 적용했다.&lt;br&gt;&lt;br&gt;조 전 원장은 국회나 헌법재판소 등에서 비상계엄이 선포되기 전에 포고령 등 계엄 관련 문건을 보지 못했고, 다른 국무위원들이 문건을 받는 것도 보지 못했다고 밝힌 바 있다. 그러나 조 전 원장이 대통령 집무실에서 포고령 등으로 추정되는 문건을 받아 보고 양복 주머니에 넣는 모습이 집무실 CCTV에 찍혔다.&lt;br&gt;&lt;br&gt;아울러 조 전 원장은 윤 전 대통령과 홍 전 차장의 비화폰 정보 삭제에 관여했다는 혐의(증거인멸)도 받는다. 앞서 특검은 지난 7일 조 전 원장에 대한 구속 영장을 청구했고, 조 전 원장은 지난 12일 구속됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“그림은 신민아, 글은 김우빈”...두 사람이 직접 만든 청첩장 눈길</title>
       <link>https://www.chosun.com/national/people/2025/11/28/RFUB3GPL6RFC3I47LQVZATJZIE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/11/28/RFUB3GPL6RFC3I47LQVZATJZIE/</guid>
@@ -861,15 +888,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘통일교 1억원 수수’ 권성동, 12월 17일 변론 종결</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/H65TS7O7SJC27EKLPRZVTMCWJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/H65TS7O7SJC27EKLPRZVTMCWJY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 03:04:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGE4ZRBAMVO7LA5LTVCVUUPUNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 3일 서울 서초동 서울중앙지법에서 통일교로부터 불법 정치자금을 수수한 혐의 사건 1차 공판에 출석해 자리에 앉고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교로부터 불법 정치자금 1억원을 받은 혐의로 기소된 권성동 국민의힘 의원 재판이 다음 달 마무리된다. 통상 변론 종결 후 선고까지 한두 달 정도 걸리는 것을 고려하면 이르면 내년 1~2월쯤 1심 선고가 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 28일 권 의원의 정치자금법 위반 사건 재판을 열고 “오는 12월 17일에 양측 최종 의견과 최후 진술을 듣겠다”며 결심 공판을 진행하겠다고 밝혔다. 권 의원은 그날 최후 진술을 “10분 안에 끝내겠다”고 했다.&lt;br&gt;&lt;br&gt;권 의원은 20대 대선을 앞둔 2022년 1월 5일 윤영호 전 통일교 세계본부장을 만나 불법 정치자금 1억원을 받은 혐의로 구속 기소됐다.윤씨는 돈을 건네면서 “2022년 2월 통일교 행사에 윤석열 대선 후보가 참석하기를 희망한다”며 “통일교의 정책, 행사 등을 나중에 지원해주면, 통일교 신도들의 투표 및 통일교의 조직을 이용해 대선을 도와주겠다”고 말한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이날 재판은 증인으로 소환된 윤씨가 특검 증거 수집의 적법성을 먼저 따지지 않으면 증언을 거부하겠다고 밝히면서 1시간 만에 종료됐다. 권 의원에게 1억원을 건넨 혐의로 구속 기소된 윤씨는 앞서 자신의 보석 심문에서 권 의원에게 정치자금을 준 사실은 인정했으나 관련 증거가 서울남부지검에서 압수한 압수영장에 기재된 범죄 사실이지, 특검이 기소한 범죄 사실과 연관이 없어 ‘위법 수집 증거’라고 주장했었다. 이에 대해 특검 측은 서울남부지검 영장에 적시된 범죄사실과 범행 경위, 청탁 내용 등이 동일해 직접적인 관련성이 인정되는 만큼 적법한 증거라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>다이소, 고객에 무릎 꿇은 직원에 형사고소 지원?…알고 보니</title>
       <link>https://www.chosun.com/national/national_general/2025/11/28/4KEH2HOUCFAW3JM7JWXE5L42IY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/4KEH2HOUCFAW3JM7JWXE5L42IY/</guid>
@@ -879,15 +897,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIY25LOQCZGB7CI6XLDRVBJRBI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;다이소 직원이 고객에게 무릎을 꿇고 있는 장면. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남의 한 다이소 매장에서 뛰어다니는 아이를 제지했던 직원이 고객 항의에 무릎을 꿇은 사건이 알려져 공분이 일고 있는 가운데 다이소 측이 해당 직원의 형사고소를 지원하겠다는 입장을 밝혀 화제가 됐다. 하지만 다이소 본사 측은 “현재 구체적으로 결정된 사항은 없다”고 했다. &lt;br&gt;&lt;br&gt;28일 아성다이소 등에 따르면 지난 21일 전남의 한 다이소 매장에서 직원이 뛰어다니는 아이를 제지했다가 고객의 항의를 받고 사과하는 과정에서 무릎을 꿇었다. 이 사건은 소셜미디어와 온라인 커뮤니티 등을 통해 알려져 큰 화제가 됐다.&lt;br&gt;&lt;br&gt;온라인상에 공개된 영상을 보면 직원이 무릎을 꿇고 고객에게 “여기는 굉장히 위험하다”고 아이를 제지한 이유를 알렸다.&lt;br&gt;&lt;br&gt;이에 여성 고객은 “그래서 아까 제가 여기서 제지했다. 제지는 엄마가 한다”며 “직원이 뭔데요”라고 언성을 높였다. 여성 고객은 “뭔데 손님 아이한테 이리로 저리로 어? 일이나 하시지 계속 아이만 쳐다보고 계시고”라고 따졌다.&lt;br&gt;&lt;br&gt;결국 이를 보다 못한 다른 손님이 “그만하시라”며 여성 고객을 말리면서 영상은 끝난다.&lt;br&gt;&lt;br&gt;이후 다이소 고객만족실에는 해당 사건에 대한 조치를 해달라는 민원이 빗발쳤다고 한다.&lt;br&gt;&lt;br&gt;다이소 고객만족실은 최근 한 네티즌 민원에 “이미 본사에서도 (사건을) 인지해 전반적인 매장 서비스 점검 및 직원 보호 관련 부서를 통한 직원 케어 프로그램을 진행하고 있다”며 “피해 직원에게는 유급휴가와 전문 심리상담 지원, 필요시 업무 전환, 형사 고소 의지가 있을 경우 지원까지 약속드린다”고 답해 네티즌들의 큰 호응을 얻었다. &lt;br&gt;&lt;br&gt;다만, 다이소 본사 관계자는 조선닷컴과의 통화에서 “고객만족실 답변과 같이 직원 안전과 케어에 최선을 다할 것”이라면서도 “아직은 구체적으로 정해진 내용이 없다. 직원이 안정되면 본인이 원하는 방향에 따라서 최대한 지원을 할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;또 다이소 측은 여성 고객이 직원에게 무릎을 꿇으라고 강요한 적은 없었고, 직원이 고객에게 사과하는 과정에서 본인이 판단해서 무릎을 꿇은 것이라고 밝혔다. 여성 고객은 아이 제지 건 외에도 다른 건으로도 직원에게 항의했으며, 이 건에 대해서는 직원이 잘못을 인정하고 사과한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;관계자는 “해당 직원은 현재 유급 휴가 중”이라며 “일단 저희는 직원 안정이 최우선”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘2.3t 철판 추락 사고’ 현대重 사장, 집행유예 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/28/P7NIUI7FR5ECJACOZGEW23HOIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/P7NIUI7FR5ECJACOZGEW23HOIY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMTUYXMY3RFQJKDRUDHJV74WME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2021년 현대중공업 울산 조선소에서 40대 근로자가 2.3t짜리 철판에 깔려 숨진 사고와 관련해 안전조치를 제대로 하지 않은 혐의로 기소된 안전책임자에게 징역형 집행유예가 확정됐다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 업무상 과실치사와 산업안전보건법 위반 혐의로 재판에 넘겨진 HD현대중공업 조선해양사업부 대표 이모씨에게 징역 6개월에 집행유예 1년을 선고한 원심 판결을 지난달 확정했다고 28일 밝혔다. HD현대중공업 법인은 벌금 2000만원, 함께 재판을 받은 현장 관리자와 작업자 등 3명은 벌금 500만~800만원이 확정됐다.&lt;br&gt;&lt;br&gt;사고는 2021년 2월 울산 동구에 있는 현대중공업 조선해양사업부 작업장에서 일어났다. 외판(선체를 이루는 철판) 배열 작업장에서 2.3t 무게 외판이 떨어져 인근을 지나던 피해자를 덮쳤다. 이 외판은 한쪽이 곡면으로 되어 있어 무게중심을 잃기 쉬운 형태였는데, 이를 크레인으로 올려 받침대에 고정하는 작업 중에 사고가 벌어졌다. &lt;br&gt;&lt;br&gt;산업안전보건법은 중량물을 취급하는 작업을 할 때는 사업주가 낙하 위험을 예방할 수 있는 작업계획서를 작성하고 인근을 출입금지구역으로 설정하거나 작업자들에게 보호구를 착용하게 하는 등 위험 방지 조치를 하도록 규정하고 있다. 그런데 현장에서는 이 같은 안전조치가 미비했던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;1·2심은 모두 “중량물 취급 작업에서 낙하 위험은 충분히 예견 가능한데도 현장에 사고 방지를 위한 작업방법이 마련돼 있지 않았다”며 안전 책임자들에게 유죄를 인정했다. 특히 2심 재판부는 “대규모 제조업 사업장의 특성상 발생 가능한 모든 위험요인을 사전에 발견하고 그에 대한 안전조치를 강구하기에 현실적인 어려움이 있다”면서도 “적어도 이씨로서는 중량물을 취급하는 작업에서 산업재해 위험을 인식할 수 있었는데도, 이를 예방하기 위한 조치를 취하지 않았거나 그 조치가 부족했다고 보인다”고 했다. 대법원도 이 같은 원심 판단에 문제가 없다고 보고 회사 측 상고를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>국민의힘 대선 후보 경선 때 선거법 위반 혐의…檢, 유정복 시장 기소 </title>
       <link>https://www.chosun.com/national/incident/2025/11/28/J6BMQK5LEBHZTGW5PZHWPNVGZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/28/J6BMQK5LEBHZTGW5PZHWPNVGZU/</guid>
@@ -895,15 +904,6 @@
       <description/>
       <pubDate>Fri, 28 Nov 2025 02:43:34 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TIMRUMJSTSNTCG4YDOOLDGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 4월 인천 중구 자유공원에서 유정복 인천시장이 국민의힘 대선 경선 출마 기자회견을  하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21대 대통령 선거 국민의힘 후보 경선 과정에서 인천시 공무원들을 선거운동에 동원한 혐의를 받는 유정복 인천시장이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지방검찰청 형사6부(부장 인훈)는 공직선거법 위반 혐의로 유정복 인천시장과 인천시 전현직 공무원 3명 등 총 7명을 불구속 기소했다고 28일 밝혔다. &lt;br&gt;&lt;br&gt;유 시장은 지난 4월 국민의힘 대선 경선 후보로 활동하면서 인천시 공무원들을 동원해 불법 선거운동을 한 혐의 등을 받고 있다. &lt;br&gt;&lt;br&gt;유 시장과 함께 기소된 인천시 전현직 공무원들은 당시 공무원 신분을 유지하면서 유 시장을 수행하거나 행사 개최, 홍보 활동 등을 지원한 혐의를 받는다.&lt;br&gt;&lt;br&gt;유 시장은 기소된 전현직 공무원들과 함께 지난 4월 9~21일 자신의 개인 SNS에 대통령 선거와 관련, 당내 경선 운동, 대선 운동 홍보물 등 116건을 게시하고, 경선 당일인 4월 21일 10개 신문사에 자서전 사진과 정치 약력 등이 기재된 홍보성 광고를 게재한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;유 시장은 법에서 정하는 방법을 어기고 당내 경선 전날인 4월 20일엔 선거 슬로건이었던 ‘뜻밖의 승부’가 포함된 여론조사 참여 홍보 음성 메시지를 약 180만건 발송한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이번 사건과 관련해 경찰이 검찰에 송치한 피의자는 총 12명이다. 검찰은 이 가운데 5명에 대해선 가담 정도를 고려해 기소유예 등 처분했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주말 곳곳 비·눈과 함께 영하권 추위...내주 최저 ‘영하 10도’ 기온 뚝</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/28/BTB67QYX3BEZFBBMT4UV64SPVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/28/BTB67QYX3BEZFBBMT4UV64SPVA/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 01:31:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DFIGHQS3JPAZCDCN544E32DAA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;칼바람 속 영하권 날씨를 보인 28일 오전 서울 광화문 네거리에서 한 여성이 머플러로 얼굴을 감싼 채 출근길 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국에 약한 비·눈과 함께 영하권 강추위가 이어질 것으로 전망됐다. 12월 첫주인 내주에는 기온이 최저 영하 10도까지 떨어지며 본격적인 겨울의 서막을 알릴 예정이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 29일 우리나라 북쪽을 통과하는 기압골의 영향으로 수도권과 강원영서에 비나 눈이 내리겠다. 예상 강수량은 1㎜ 내외다.&lt;br&gt;&lt;br&gt;찬 바람이 내려오면서 29일 아침 최저기온은 영하 4도에서 영상 4도, 낮 최고기온은 9∼17도의 분포를 보이겠다. 찬 바람 탓에 전국 내륙을 중심으로 서리가 내리는 곳이 있겠고, 비나 눈이 얼어 빙판길과 도로 살얼음이 생길 수 있어 주의해야 한다.&lt;br&gt;&lt;br&gt;30일과 내달 1일에는 기온이 다시 소폭 오르겠으나, 화요일인 2일부터 수은주가 최저 영하 10도까지 크게 떨어지며 강추위가 찾아오겠다. 30일 기온은 최저 2~12도, 최고 13~19도 수준을 보이겠고, 내달 1일에는 최저 0~10도, 최고 6~15도로 예상된다. &lt;br&gt;&lt;br&gt;그러나 2일부터는 서울의 최저기온이 영하 6도까지 떨어지는 등 전국이 최저 영하 10도에서 영상 2도, 최고 0~12도를 보이며 추워지겠다. 특히 중부내륙을 중심으로 기온이 크게 떨어질 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“남의 여자친구랑 뭐 하시냐”... 성추행 의혹 장경태, 당시 영상 보니</title>
