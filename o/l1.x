@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[결정] "13세 미만 강제추행 5년 이상 유기징역 조항은 합헌"</title>
+			<description>13세 미만 미성년자를 상대로 강제추행을 저지른 경우, 벌금형 없이 5년 이상의 유기징역만 규정한 성폭력처벌법은 합헌이라는 헌법재판소 결정이 나왔다.&lt;p&gt;&amp;nbsp;  &lt;br /&gt;헌재는 11월 27일 재판관 9인 전원일치 의견으로 13세 미만 미성년자에 대한 강제추행죄에 대해 5년 이상의 유기징역에 처하도록 정한 '성폭력범죄의 처벌 등에 관한 특례법' 제7조 제3항이 헌법에 위반되지 않는다고 결정했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사건 개요]&lt;/b&gt;&lt;br /&gt;피고인들은 6~7세 여야들에게 갑자기 이마에 입맞춤을 하거나 엘리베이터 안에서 손을 쓰다듬듯이 만지는 듯한 행동을 했다. 이에 피고인들은 13세 미만 미성년자를 강제추행했다는 범죄사실로 기소됐고, 법원은 5년 이상의 유기징역에 처하도록 한 조항에 대해 위헌법률심판제청을 했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[헌재 결정]&lt;/b&gt;&lt;br /&gt;헌재는 합헌 결정했다. 헌재는 이번 결정을 통해 법정형 중 벌금형을 삭제해 5년 이상의 유기징역에 처하도록 한 조항에 대한 위헌 여부를 처음 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;   &lt;br /&gt;헌재는 "심판대상조항에 의해 처벌되는 '추행행위’에는 유형력 행사의 대소강약이 문제되지 않는 ‘기습추행’이나 신체의 접촉이 없는 추행행위, 성적인 목적이 없거나 유형력의 행사가 경미한 추행행위 등 다양한 유형의 추행행위가 포함되고, 심판대상조항은 이들을 모두 5년 이상의 유기징역으로 처벌하도록 규정하고 있기는 하다"며 다만 "13세 미만 미성년자는 아직 정신적·신체적 측면에서 충분히 성숙하지 않아 상대방의 추행행위가 가지는 위험성을 인식하고 이에 대항해 자신을 방어할 능력이 매우 부족하기 때문에, 경미한 추행행위라 하더라도 성적 정체성과 가치관을 형성해가는 13세 미만 미성년자에게 매우 부정적인 영향을 끼칠 수 있는바, 강제추행의 구체적 행위태양을 불문하고 비난가능성이 높다"고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "입법자가 성폭력범죄가 13세 미만 미성년자에게 미칠 수 있는 심각한 영향과 성폭력범죄로부터 13세 미만 미성년자를 더욱 두텁게 보호해야 한다는 국민 일반의 가치관과 법감정을 바탕으로 기존의 '징역형 또는 벌금형'의 선택형 체계에서는 13세 미만 미성년자에 대한 강제추행을 효과적으로 예방하기 어렵다는 형사정책적 측면을 고려해 심판대상조항에서 벌금형을 삭제한 것은 합리적 이유가 있다"며 "심판대상조항에서 정한 징역형의 하한은 5년이므로 행위자에게 그 불법의 정도나 행위태양에 비추어 정상을 참작할 만한 특별한 사정이 있는 때에는 법관이 정상참작감경을 통해 집행유예를 선고할 수도 있으므로 법원의 양형과정에서 구체적인 사정이 충분히 반영될 수 있다"고 설명했다. &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 30 Nov 2025 03:06:14 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213602</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213602</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] "자만추 알아?" 인턴 성희롱한 공공기관 부장, 법원 '해고 정당'</title>
 			<description>공공기관에서 직원들에게 상습적 성희롱을 한 상사를 해고한 처분은 정당하다는 법원의 판단이 나왔다.&lt;br /&gt;&lt;br /&gt;서울행정법원 행정12부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4333"&gt;강재원&amp;nbsp;&lt;/span&gt;부장판사)는 9월 25일, 공공기관 A사가 중앙노동위원회를 상대로 낸 부당해고구제재심판정 취소 소송(&lt;b&gt;2024구합72056&lt;/b&gt;)에서 원고 승소 판결했다. 성희롱 발언을 이어가고 지위를 이용해 직원들을 괴롭힌 것은 정당한 해고 사유라는 이유에서다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;공공기관 A사의 지사에서 부장으로 근무하던 B 씨는 직원들에게 성희롱과 직장 내 괴롭힘을 일삼았다는 이유로 해고를 당했다. 징계사유에 따르면 B 부장은 인턴 C 씨에게 “너 자고 만남 추구해?”라는 성적 언행을 한 것은 물론, 인턴 기간 중 “자신(B 부장)의 판단으로 C 씨가 정규직 전환이 되지 않을 수도 있다”며 위력을 행사하기도 했다. 그뿐만 아니라 B 부장은 같은 부서 소속 직원 D 씨에게도 “결혼했지만 연애 하고 싶다”고 말하면서 출근 시간 전 자신을 회사까지 데려다 달라고 하는 등 개인적인 부탁을 일삼은 것으로 조사됐다. B 부장에 대한 해고 통보에 전남지방노동위원회는 징계사유와 징계양정이 적법하다고 판단했지만, 재심판정을 내린 중앙노동위원회(이하 중노위)는 해고가 과도한 조치였다고 판단했다. 이에 A사는 중앙노동위원회장을 상대로 부당해고구제재심판정 취소 소송을 제기했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원 판단]&lt;/b&gt;&lt;br /&gt;재판부는 “중노위의 재심판정은 위법하다"”며 B 부장에 대한 해고의 정당성을 인정했다.&lt;br /&gt;&lt;br /&gt;재판부는 “C 씨와 D 씨의 진술에는 신빙성이 있고, 이들의 진술을 뒷받침하는 직장 동료들의 진술과 증거들도 있다”며 “이를 종합해서 볼 때 이 사건(B 부장의 해고에 대한) 징계 사유는 모두 인정된다”고 설명했다.&lt;br /&gt;&lt;br /&gt;특히 재판부는 같은 지사에서 근무한 동료들이 “B 부장은 C 인턴 바로 뒤에 서서 의자가 있으면 (가까이 갈 필요가 없는데도) 딱 붙어서 말한다”, “팔이나 어깨를 터치하는 것을 여러 차례 봤다”, “B 부장이 C 인턴에게 ’자만추‘를 언급하는 것도 들었다”, “B 부장이 D 씨에게 연락해 숙소를 같이 쓰면 ‘좋은 거 잡을 수 있다’는 식으로 이야기해서 성희롱이라고 생각한 적 있다” 등 증언한 것에 대해 신빙성이 높다고 봤다.&lt;br /&gt;&lt;br /&gt;재판부는 B 부장이 C 씨와 D 씨에게 한 성희롱에 대해 “일반적이고도 평균적인 사람으로 하여금 성적 굴욕감이나 혐오감을 느낄 수 있게 하는 발언에 해당된다”며 “그로 인해 해당 발언을 들은 피해자들은 성적 굴욕감과 수치심을 느꼈다고 진술한 사실도 인정되고, 직장 내 성희롱 행위에 해당된다고 보는 것이 타당하다”고 설명했다. &lt;br /&gt;&lt;br /&gt;직장 내 괴롭힘 쟁점에 대해서도 “직장에서의 지위 등의 우위를 이용해 업무상 적정 범위를 넘어 C 씨와 D 씨에게 정신적 고통을 주거나 근무 환경을 악화시키는 행위라고 할 것”이라고 판단했다.&lt;br /&gt;&lt;br /&gt;재판부는 △A사의 ‘임직원 행동강령’에 명확히 임직원의 성희롱과 성폭력 행위, 지위를 이용한 직장 내 괴롭힘 행위를 금지하고 있다는 점 △B 부장이 매년 2회 정도 A사에서 관련 교육을 받았던 점 △B 부장의 성희롱 횟수와 직장 내 괴롭힘 횟수가 적지 않고, 상당 기간 지속된 점 △C 씨와 D 씨 외에 다른 피해자들도 있었던 점 △B 부장이 진정으로 자신의 잘못을 인정하고 반성했다고 보기 어려운 점 등을 고려했다고 설명했다.</description>
 			<pubDate>Sun, 30 Nov 2025 00:08:50 -0000</pubDate>
@@ -226,16 +235,6 @@
 			<link>https://www.lawtimes.co.kr/news/213649</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213649</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213649.jpg</media:thumbnail>
-			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>안양범피, 2025 김장 나눔 행사</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213650.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;11월 26일 경기도 의왕시 내손동 힐링팜에서 진행된 '2025년 사랑의 김장 나눔 행사' 참여자들이 단체사진을 촬영하고 있다.《사진=안양범피》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;사단법인 안양지역범죄피해자지원센터(이사장 문승현, 이하 안양범피)는 11월 26일 '2025 사랑의 김장 나눔 행사'를 열었다. &lt;br /&gt;&lt;br /&gt;이날 행사에&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10061"&gt;하담미&lt;/span&gt;(사법연수원 32기) 수원지검 안양지청장과 안양지청 소속 검사들, 농협 안양시지부, 안양보호관찰소 등 관내 기관과 센터 상담·법률지원 위원 30여 명이 참여했다.&lt;br /&gt;&lt;br /&gt;이들은 관내 범죄피해자 가족 모임인 '울타리회' 회원과 범죄피해자들에게 김장 김치 1000kg을 전달했다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10061"&gt;하담미&amp;nbsp;&lt;/span&gt;지청장은 "따뜻하고 행복하게 겨울을 나길 바란다"고 했으며, 문승현 이사장은 "앞으로도 지역 내 유관기관 및 단체들과 적극적으로 협력해 범죄피해자 가족들의 일상회복을 위해 노력하겠다"고 말했다.</description>
-			<pubDate>Fri, 28 Nov 2025 12:52:54 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213650</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213650</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213650.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
 		</item>
 	</channel>
