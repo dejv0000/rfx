@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“야구배트로 죽일 듯 구타” 유튜버 수탉이 밝힌 납치 상황 </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/3FAOXDXY6RDKZFWQPFB3DIQ5UQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/3FAOXDXY6RDKZFWQPFB3DIQ5UQ/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 22:48:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VLJR53R7AVFH3EIDE76EIRCDYM.png"&gt;&lt;figcaption&gt;&lt;small&gt;송도서 납치돼 무차별 폭행을 당한 100만 유튜버 수탉의 피해 사진./JTBC '사건반장'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 송도국제도시의 한 아파트 지하 주차장에서 납치 및 폭행을 당했던 인기 게임 유튜버 수탉이 사건 발생 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;수탉은 1일 숲 채널을 통해 ‘오랜만입니다’라는 제목의 라이브 방송을 진행했다. 이날 수탉은 “많이 걱정하셨을 텐데 수술은 잘 끝났다”며 “많은 분들이 궁금해하시고 걱정해주셔서, 근황 겸 그날 어떤 일이 있었는지 전하기 위해 방송을 켰다”고 말문을 열었다.&lt;br&gt;&lt;br&gt;수탉은 지난 10월26일 오후 10시 40분쯤 인천시 연수구 송도동 모 아파트 지하 주차장에서 중고차 딜러였던 A씨 등 두 명에게 납치, 폭행당했다. 수탉은 과거 중고차를 구매하면서 A씨와 알게 됐다고 한다.&lt;br&gt;&lt;br&gt;그는 “출고된 지 2년 된 차를 시세 그대로 구매했었다. 처음 차를 구매하는 데까지는 문제가 없었다”며 “A씨가 작년에 ‘돈이 필요하니 빌려줄 수 있느냐’고 물어보더라. 차를 구매하는 데도 도움받았다고 생각해서 수천만원을 빌려줬다”고 했다. 이어 “그런데 변제일이 돼도 갚지 않았고, 4~5개월 지나서 돈을 돌려받게 됐다”며 “이후에 돈을 돌려받았으니, 이 차를 다시 팔게 되면 차량 이력을 정확히 알고 있는 딜러에게 맡기는 게 좋다고 생각했다. 그래서 올해 다시 연락했다”고 설명했다.&lt;br&gt;&lt;br&gt;수탉은 “기존 차량을 팔아달라고 맡겨뒀다. 원하는 차량을 구하기가 어려웠다. 매물을 홀딩시키기 위해서는 계약금이 필요하다고 해서 2억원을 건넸다”며 “순조롭게 진행되는 줄 알았는데 7월 말쯤 A씨가 잠수를 탔다”고 했다. 이후 수탉은 차량 계약이 진행되지 않은 점, 기존 차량에 대한 과태료와 통행료 미납 고지서가 잇따르는 점을 수상하게 여겨 항의했다. A씨가 변명으로 일관하며 답변을 회피하자, 수탉은 법적 대응을 예고했다.&lt;br&gt;&lt;br&gt;이후 A씨가 “직접 돈을 건네주겠다. 합의서를 작성하자”고 하자, 수탉은 “집 앞으로 오라”고 했다. 수탉은 “나에게 이런 일이 벌어질 거라고는 아무도 생각 못 한다. 사람도, 차량도 많은데 그 앞에서 무슨 짓을 하겠느냐고 생각했다”며 “주차장에도 솔직히 차량도 많고 블랙박스, CCTV도 많은데 거기서 범죄를 일으킨다는 건 상상도 안 했다”고 말했다.&lt;br&gt;&lt;br&gt;수탉이 주차장으로 내려가자, A씨는 운전석에 앉은 채 조수석 문만 열어 “돈이 가방에 있으니 들어와서 돈을 확인하고 합의서를 쓰라”고 했다. 수탉은 “뒷좌석이 유독 어둡길래 뒤를 봤는데 후드를 쓰고 마스크를 쓴 채로 목장갑을 낀 사람이 숨어서 누워 있었다”며 “소름이 끼치고 놀라서 바로 전화를 들고 112에 ‘목숨의 위협을 느끼고 있다. 빨리 와 달라’고 신고를 했다”고 당시 상황을 설명했다.&lt;br&gt;&lt;br&gt;그는 “이미 신고까지 한 상태이기 때문에 여기서 이들이 도망을 가거나 일이 마무리될 것이라고 생각했다”며 “‘이게 뭐 하는 거냐’고 실랑이를 하다가 구타를 당하기 시작했다. 야구배트로 죽일 듯이 때리더라”고 말했다. 그는 이 과정에서 저항하며 손에도 골절 등 부상을 입었다고 한다.&lt;br&gt;&lt;br&gt;수탉은 “차에 실려 가며 ‘너 돈 얼마 있느냐’ ‘OTP 카드 어디 있느냐’ ‘똑바로 얘기 안 하면 죽는다’ 등의 이야기를 했다”며 “그러면서 어떤 곳으로 이동했는데 누워 있는 상태여서 아무것도 안 보이고 몸에 힘이 안 들어왔다”고 했다. 이어 “그러던 와중에 갑자기 앞에서 차량 불빛이 비쳤다. ‘저게 뭐지, 택시인가’ 했는데 경찰차였던 것”이라며 “눈을 잘 못 떠서 소리로만 들었는데 경찰이 현장에서 범인들을 체포하고 구조될 수 있었다”고 했다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 당시 이들은 수탉을 차량에 태워 200㎞가량 떨어진 충남 금산군으로 이동한 것으로 조사됐다. 경찰은 수탉의 신고를 받고 차량을 추적해 4시간 만에 충남에 있던 A씨 일당을 현행범으로 체포했다. A씨 일당은 현재 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수천억 국가연구소 사업… 정부, 선정된 대학 4곳에 함구령 내리며 쉬쉬 왜?</title>
       <link>https://www.chosun.com/national/education/2025/12/02/NT5FSABB7RFZVCAVW3O6FUPGLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/02/NT5FSABB7RFZVCAVW3O6FUPGLA/</guid>
@@ -952,15 +961,6 @@
       <description/>
       <pubDate>Sat, 29 Nov 2025 00:50:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동경찰서는 협박·현주건조물방화예비 혐의로 60대 남성 A씨를 현행범 체포 후 조사 중이라고 29일 밝혔다. A씨는 지난 27일 낮 강동구 상일동의 한 부동산에 찾아가 “이사 간 아내의 집 주소를 알려주지 않으면 휘발유로 불을 지르겠다”고 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 아내와 이혼을 준비하며 별거 중이었던 것으로 알려졌다. 부동산에서 아내의 주소를 알려주지 않자 A씨는 같은날 오후 1시 44분쯤 인근 주유소로 향했다. 그러나 신고를 받고 출동한 경찰에 의해 현행범 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장을 신청했다. 구속 전 피의자 심문(영장실질심사)은 이날 오후 3시 서울동부지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원, YTN 민영화 원점으로 되돌렸다</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/29/ICXDUIOELZEOXIBKYUYAHNW4YU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/29/ICXDUIOELZEOXIBKYUYAHNW4YU/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 15:55:00 +0000</pubDate>
-      <content:encoded>방송통신위원회(현 방송미디어통신위원회)가 보도 전문 채널 YTN 최대 주주를 공기업에서 민간 기업인 유진그룹으로 변경하도록 승인한 것을 취소해야 한다는 법원 판단이 나왔다. ‘2인 체제’ 방통위 의결은 절차상 위법하다는 취지다.&lt;br&gt;&lt;br&gt;서울행정법원 행정3부(재판장 최수진)는 28일 YTN우리사주조합이 방통위를 상대로 낸 최다액 출자자 변경 승인 처분 취소 소송에서 원고 승소 판결했다. YTN 노조가 낸 소송은 원고 부적격으로 각하됐다.&lt;br&gt;&lt;br&gt;방통위는 작년 2월 한전KDN과 한국마사회가 보유한 YTN 지분(30.95%)을 사들인 유진그룹 계열인 유진이엔티에 대한 최대 주주 변경을 승인했다. 당시 방통위는 김홍일 위원장과 이상인 부위원장 2인 체제였다. 방통위법은 ‘방통위는 5인의 방통위원으로 구성하고, 2인 이상 요구로 회의를 소집해 재적 위원 과반수 찬성으로 의결한다’고 규정한다.&lt;br&gt;&lt;br&gt;쟁점은 ‘2인 체제’ 방통위 의결의 위법성 여부였다. 재판부는 “법에는 최소 재적 위원 수에 관한 명문 규정이 없지만, 헌법이 보장하는 방송의 자유, 공공성, 독립성을 보장하고자 하는 입법 취지를 종합해 고려해야 한다”며 “재적 위원이 2인뿐이라면 서로 다른 의견 교환은 가능할지라도 1인이 반대하면 의결이 불가능해 다수결 원리가 작동되기 어렵다”고 했다. 그러면서 “부득이 5인 미만이 재적하더라도, 합의제 기관으로 기능하려면 적어도 3인 이상이 재적해 의결이 이뤄져야 한다”고 했다.&lt;br&gt;&lt;br&gt;방통위의 항소 여부는 법무부가 대신 진행한다. 법무부는 최근 방송사들이 방통위의 제재 취소 청구 소송 1심에서 승소하자 항소를 포기한 바 있다. 이 사건에선 법무부가 항소를 포기하더라도, 보조 참가한 유진 측이 별도로 항소할 수도 있다. 유진 측은 “판결문을 검토해 항소를 적극적으로 결정하겠다”고 했다. 이날 판결이 그대로 확정되면 유진 측은 최대 주주 변경 재승인을 신청할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
