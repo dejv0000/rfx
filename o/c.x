@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>검찰 체포영장 집행 중... 40대 사기 혐의 피의자 도주</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/01/YSZG2D5DZVEHRKZY7D3QBJDYM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/YSZG2D5DZVEHRKZY7D3QBJDYM4/</guid>
+      <dc:creator>광주광역시=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 05:02:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4O4QCWSSKRFMLFT7HBZJS5RGTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주고등지방검찰청 전경. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사기 혐의 피의자가 검찰의 체포 과정에서 도주해 검경이 추적에 나섰다.&lt;br&gt;&lt;br&gt;1일 광주지검에 따르면, 이날 오전 10시 10분쯤 광주광역시 서구 치평동의 한 호텔에서 피의자 A(40대)씨가 검찰 체포영장 집행 도중 달아났다. A씨는 특정경제범죄가중처벌법상 사기 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 검찰 수사관에게 짐을 챙겨오겠다고 말한 뒤 차를 타고 도주한 것으로 전해졌다. 검찰 관계자는 “A씨가 도주할 때 다른 조력자의 도움을 받진 않았다”고 말했다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 광주를 벗어난 것으로 보고 행방을 추적 중이다. 경찰도 검찰 공조 요청을 받고 A씨의 행방을 쫓고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 감천항 입항 중 화물선 부두와 ‘쾅’...인명피해 없어</title>
+      <link>https://www.chosun.com/national/incident/2025/12/01/TW7VCNJZCZHITMHYEY6MDAV5YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/01/TW7VCNJZCZHITMHYEY6MDAV5YI/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 05:06:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6WHTCEEVSVGTZK45AYRUOMF2KY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사하구 감천항 3부두에 입항하던 화물선 A(1990t)호가 부두와 충돌했다. /부산해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 감천항에 입항하던 화물선이 부두와 충돌하는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1일 부산해양경찰서에 따르면, 이날 오전 11시 18분쯤 부산 사하구 감천항 3부두에서 화물선 A호(1990t)의 구상선수(수면 아래 공 모양으로 설계된 뱃머리)가 부두와 충돌했다.&lt;br&gt;&lt;br&gt;도선사의 신고를 받고 출동한 해경이 연안구조정을 보내 확인한 결과 A호 구상선수가 부두 안벽을 들이받은 뒤 우수관에 끼여 있는 상태였다. &lt;br&gt;&lt;br&gt;당시 A호에는 인도네시아 국적 선원 10명이 타고 있었다. 다행히 인명 피해나 해양 오염은 없었다고 한다.&lt;br&gt;&lt;br&gt;하지만 A호 구상선수 왼쪽 부분이 30~50㎝가량 금이 간 것으로 확인됐다. 또 우수관 시멘트와 철근 일부가 파손됐다.&lt;br&gt;&lt;br&gt;해경이 A호 선장을 상대로 음주 측정한 결과 음주 상태는 아니었던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;해경 관계자는 “A호를 좌현으로 접안하기 위해 후진해야 하는데 선박이 전진해 부두와 충돌했다는 선박 관계자 진술을 토대로 정확한 사고 원인을 조사하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“추워서”...만취해 남의 아파트 지하에 불 피운 30대 입건 </title>
+      <link>https://www.chosun.com/national/2025/12/01/6D5672XK5JEOLMRTIDA7TY6UWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/01/6D5672XK5JEOLMRTIDA7TY6UWM/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 04:46:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EFIZHO67GBCNFISMEEWHYVZVIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 아파트 지하에서 자려다가 춥다며 불을 지른 30대 남성이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;경남 창원중부경찰서는 일반물건 방화 혐의로 30대 남성 A씨를 불구속 입건했다고 1일 밝혔다. A씨는 지난달 29일 오전 7시 20분쯤 창원시 성산구의 한 아파트 지하 1층 계단 복도에서 술에 취해 자다가 추위에 잠을 깨자, 라이터로 소화기 받침대에 불을 지른 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 운동을 하려고 밖으로 나온 이 아파트 주민이 타는 냄새를 맡고, 지하 1층 계단 복도에서 쪼그려 앉아 불을 쬐던 A씨를 발견해 경찰에 신고했다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 사건이 발생한 아파트 단지 다른 동에 거주하고 있다. 전날 저녁부터 술을 마신 A씨는 만취 상태에서 자기 집을 찾지 못했고, 추위에 다른 아파트 동 지하 계단에서 잠을 청한 것으로 파악했다.&lt;br&gt;&lt;br&gt;기온이 떨어진 탓에 추위가 느껴지자, A씨는 몸을 녹이기 위해 소화기 받침대에 불을 지른 것으로 경찰은 보고 있다. 다행히 주변에 다른 인화성 물질이 없었지만, 주변에 배관 등이 있어 자칫 불길이 커졌을 경우 큰 피해로도 이어질 수 있었다. &lt;br&gt;&lt;br&gt;불은 소방 당국이 도착하기 전에 자체적으로 꺼진 것으로 전해졌다. 인명피해나 대피 인원은 없었고, 소화기 받침대가 절반 정도 탔다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “체포 당시 A씨에게서 술 냄새가 진동했다”며 “술을 깬 뒤 A씨에 대한 조사를 진행했고, 혐의를 확인하는 등 사건 경위를 조사했다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“한국 여행 즐거웠어요”…공항 모금함에 110만원 남기고 떠난 日여행객</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/01/SZJ323SSO5AUHLW6QFLXSY7ORI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/SZJ323SSO5AUHLW6QFLXSY7ORI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 04:48:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4GCYRXMI4TSNDDGU2DGMJVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김해공항 모금함에서 나온 손편지와 현금 다발. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본인 여행객으로 추정되는 익명의 기부자가 공항 모금함에 현금 110만원과 손편지를 남기고 간 사연이 알려졌다. &lt;br&gt;&lt;br&gt;1일 대한적십자사 부산지사에 따르면, 지난달 26일 김해국제공항 모금함에서 일본인 여행객으로 추정되는 익명의 기부자가 남긴 현금 110만원 상당의 지폐 다발과 손편지가 발견됐다.&lt;br&gt;&lt;br&gt;편지에는 일본어로 “한국 여행 즐거웠습니다. 돈이 남았는데 어려운 아이들을 위해 사용해 주세요”라는 글이 적혀 있었다.&lt;br&gt;&lt;br&gt;적십자사는 국제선 출국장 등 김해공항 7곳에 모금함을 설치해 두고 상반기와 하반기에 한 번씩 모금함을 개함한다.&lt;br&gt;&lt;br&gt;구정회 적십자사 부산지사 회장은 “익명의 기부자가 남겨주신 정성 어린 마음은 금액 이상의 큰 울림을 줬다”며 “기부금은 절망적인 상황에 놓인 이웃들에게 희망을 전하는 생명줄이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;모금함을 통해 모은 기부금은 사회적 약자와 재난 이재민을 돕는데 사용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>배에서 내리자마자… 우도서 승합차 돌진 3명 숨지고 10명 다쳐</title>
+      <link>https://www.chosun.com/national/regional/2025/11/25/6DJD2ENSUVCETENABBVHCRJBOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/25/6DJD2ENSUVCETENABBVHCRJBOM/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 24 Nov 2025 15:47:00 +0000</pubDate>
+      <content:encoded>제주 우도에서 60대 관광객이 몰던 렌터카가 갑자기 돌진해 3명이 숨지고 10명이 다쳤다.&lt;br&gt;&lt;br&gt;24일 제주소방안전본부 등에 따르면 이날 오후 2시48분쯤 제주시 우도면 천진항 근처에서 이모(63)씨가 몰던 흰색 스타리아 승합차가 관광객들을 향해 돌진했다. 승합차는 배에서 내리자마자 갑자기 돌진해 관광객들을 덮쳤다. &lt;br&gt;&lt;br&gt;이 사고로 길 가던 60대·70대 남성과 승합차에 타고 있던 60대 여성이 숨졌다. 구조대가 헬기에 태워 병원으로 이송했으나 결국 숨졌다. 2명은 중상, 8명은 경상을 입었다고 소방 당국은 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BA5YPVASRBEQXHIPSLGL4L53XU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 오후 2시 48분쯤 제주 우도에서 60대 운전자가 몰던 흰색 스타리아 승합차가 천진항 대합실 건물과 전봇대를 들이받고 멈춰선 모습. 차량이 형체를 알아보기 어려울 정도로 파손됐다. 대합실의 콘크리트 계단도 일부 깨졌다. 주차돼 있던 전동 카트는 창문이 깨지고 찌그러졌다.
+/우도 주민 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt; 차량은 약 150m를 질주한 뒤 천진항 대합실 건물과 전봇대를 들이받고 멈춰 섰다. 충격으로 대합실 외부의 콘크리트 계단이 일부 무너졌다. 사고 차량은 앞부분이 형체를 알 수 없을 정도로 파손됐다. 주차돼 있던 전동카트도 박살 났다. 경찰 관계자는 “차량이 배에서 내린 뒤 속도를 줄이지 않고 그대로 직진했다”고 말했다. 목격자들은 “차가 관광객들을 향해 엄청난 속도로 돌진했다” “대합실 앞이라 관광객이 북적이는 곳인데 순식간에 아수라장이 됐다”고 전했다.&lt;br&gt;&lt;br&gt;사고 차량에는 운전자 이씨 등 6명이 타고 있었다고 한다. 이씨는 당시 술을 마신 상태는 아니었던 것으로 파악됐다. 이씨는 경찰에서 급발진을 주장한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “운전자의 운전 미숙, 급발진 등 여부에 대해 조사하고 있다”고 했다. 경찰은 정확한 사고 원인을 밝히기 위해 국립과학수사연구원에 차량 감정을 의뢰했다.&lt;br&gt;&lt;br&gt;앞서 지난 13일 경기 부천 제일시장에선 1t 트럭이 돌진해 손님 4명이 숨지고 18명이 중경상을 입었다. 60대 트럭 운전자는 사고 직후 “브레이크가 듣지 않았다”며 급발진을 주장했지만 실제로는 브레이크 대신 가속페달을 밟은 것으로 조사됐다. 제주에선 렌터카 교통사고가 끊이지 않고 있다. 지난해 렌터카 교통사고 412건이 발생해 9명이 숨지고 641명이 부상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“충실한 심리·당사자 배려”...부산변호사회, 우수 법관 10명 선정 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/01/4AEC4EPLGVHGFJXGTGD2APHBVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/01/4AEC4EPLGVHGFJXGTGD2APHBVQ/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 04:32:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지방변호사회(회장 김용민)가 소속 변호사들이 참여한 2025년 법관 평가 결과를 1일 공개했다. 우수 법관은 총 10명, 하위 법관은 3명이 각각 선정됐다.&lt;br&gt;&lt;br&gt;법관 평가 제도는 법원의 공정한 재판 진행과 절차 엄수를 독려하고, 사법 관료주의에 대한 견제 장치 역할을 수행하는 목적에서 시행되고 있다. 이번 평가엔 부산변회 소속 변호사 563명이 참여했다. 20차례 이상 유효 평가를 받은 법관 113명을 대상으로 명단을 추렸다. &lt;br&gt;&lt;br&gt;부산 지역 법관 중 상위 평가를 받은 10명의 평균 점수는 91.36점으로 집계됐다. 특히 부산 동부지원 김주영 판사와 서부지원 차승우 판사는 3년 연속 상위 평가 법관으로 선정됐다. 부산고법 박운삼 판사와 부산지법 최영 판사도 2년 연속 상위 평가 법관으로 이름을 올렸다.&lt;br&gt;&lt;br&gt;이 외에도 김동희(부산 서부지원), 사경화(부산지법), 오세영(부산지법), 이진재(부산 서부지원), 장성욱(부산 서부지원), 최정원(부산가정법원) 법관 등이 상위 평가 법관으로 뽑혔다.&lt;br&gt;&lt;br&gt;상위 법관으로 선정된 한 판사는 사건의 쟁점을 정확히 파악하고 충분한 심리를 통해 실체적 진실을 발견하고자 노력했다고 한다. 또 적극적인 자세로 조정에 임하고, 당사자 쌍방을 배려하는 사려 깊은 대화로 성공적인 합의를 끌어냈다고 한다.&lt;br&gt;&lt;br&gt;하위 법관으로 선정된 5명의 평균 점수는 78.51점으로, 우수 법관 평균 점수에 비해 약 13점 낮았다.&lt;br&gt;&lt;br&gt;하위 법관으로 지적된 한 판사는 사건 파악이 전혀 되지 않은 상태에서 결심을 진행하거나 증거 자료 없이 판결문을 작성했다고 한다. 또 피고인에게 지나치게 감정적으로 대하며 훈계하거나 불이익을 주겠다는 의사를 내비쳤다는 지적이 있었다.&lt;br&gt;&lt;br&gt;부산변회는 상위 평가 법관에게는 평가 결과와 함께 ‘우수 법관 증서’를, 하위 평가를 받은 법관에게는 결과를 우편으로 개별 통지할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>두바이에 ‘유령 법인’… 1200억 불법 도박사이트 운영한 일당 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/01/VGTPPAGT4BAT7KZZ4SELNX42IY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/01/VGTPPAGT4BAT7KZZ4SELNX42IY/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>두바이에 거점을 두고 1200억원대 불법 도박 사이트를 운영한 일당이 경찰에 붙잡혔다.
+강원경찰청 형사기동대는 범죄단체 조직·가입·활동과 도박 공간 개설 등 혐의로 26명을 붙잡아 이 중 총책 A(32)씨 등 10명을 구속했다고 1일 밝혔다.</description>
+      <pubDate>Mon, 01 Dec 2025 04:24:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFNIXWHETFJXTHFQIYLNVXNQ3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;두바이에 거점을 두고 불법 도박사이트를 운영한 조직이 경찰에 붙잡힌 가운데 사진은 경찰이 압수한 현금과 휴대전화, 디지털 증거물. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;두바이에 거점을 두고 1200억원대 불법 도박 사이트를 운영한 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;강원경찰청 형사기동대는 범죄 단체 조직·가입·활동과 도박 공간 개설 등 혐의로 26명을 붙잡아 이 중 총책 A(32)씨 등 10명을 구속했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨 등은 지난 2021년부터 아랍에미리트(UAE) 두바이에 ‘유령 법인’을 세우고 약 4년간 1200억원 규모의 불법 도박 사이트 2개를 운영한 혐의를 받고 있다. 국제 사법 공조가 원활하지 않고, 자금 세탁이 용이하다는 점을 노려 UAE를 범행 근거지로 택한 것으로 경찰은 보고 있다.&lt;br&gt;&lt;br&gt;이들은 SNS와 유튜브 등을 통해 도박 사이트를 홍보했고, “고수익을 보장한다”며 모집한 조직원들을 두바이로 보내 현지 법인 직원으로 등재해 취업 비자를 받게 했다.&lt;br&gt;&lt;br&gt;조직 내부에는 직급 체계를 두고 하위 조직원이 윗선 지시를 어기지 못하도록 통제했으며, 실장급 조직원들이 팀원 여권을 관리하며 국내로 도주하지 못하게 한 것으로 조사됐다. 경찰의 추적을 피하기 위해 모든 지시는 텔레그램을 통해 이뤄졌다.&lt;br&gt;&lt;br&gt;경찰은 국민체육진흥공단으로부터 도박 범죄 제보를 받아 수사에 착수했고, 약 10개월간의 추적 끝에 일당을 검거했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “총책 등 주요 간부들의 범죄 수익금 60억8600만원을 기소 전 추징 보전했다”면서 “도박 범죄 척결을 위해 지속적인 단속을 벌일 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>현직 검사가 ‘검찰 실무’ 로스쿨 시험 문제 유출 논란…법무부 “재시험 결정”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/01/GVV627QV5NFZXARKVVFUSUC7EY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/GVV627QV5NFZXARKVVFUSUC7EY/</guid>
@@ -530,15 +595,6 @@
       <content:encoded>3조3000억원대 다단계 사기를 벌인 휴스템코리아 이상은 회장 등 관계자들이 무더기로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM4WGN3BGVSGKNTGMZRGGNDCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 위치한 서울중앙지방검찰청의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 형사4부(부장 이정화)는 지난 28일 피해자 약 20만명으로부터 합계 약 3조3000억원을 수신한 불법다단계 조직 휴스템코리아 이상은 회장 및 회사 간부, 플랫폼장(상위 모집책) 등을 사기·유사수신행위법위반 등 혐의로 기소했다고 30일 밝혔다. 재판에 넘겨진 관련자는 총 69명에 달한다.&lt;br&gt;&lt;br&gt;휴스템코리아는 2020년 5월부터 2023년 12월까지 영농조합법인을 가장한 다단계 유사 조직을 통해 거액의 돈을 뜯어낸 혐의를 받는다. 이 회장 등은 피해자들에게 농수축산업 및 쇼핑몰 사업 등을 운영해 투자금을 불린 뒤, 가상자산을 배당해 원금과 고수익을 보장하겠다고 홍보한 것으로 나타났다. 검찰 관계자는 “이 사건은 약 3년에 걸쳐 전국적으로 대규모의 피해자를 양산하여 서민들의 가정경제를 무너뜨린 불법다단계 사건”이라고 설명했다.&lt;br&gt;&lt;br&gt;검찰은 플랫폼장으로 활동한 피의자 2명이 수사를 받는 도중에도 다른 다단계 업체에서 재범을 저지른 사실도 파악했다. 검찰 관계자는 “(이들이) 7~18억원에 이르는 거액의 수익을 취득해 재범한 사실을 밝혀낸 후, 구속 기소함으로써 추가 범행 시도를 적극적으로 차단했다”고 했다.&lt;br&gt;&lt;br&gt;현재 이 회장은 1조원대 방문판매법 혐의와 관련해 파기환송 절차를 밟고 있다. 작년 1월 검찰은 가입자 약 10만명으로부터 약 1조1900억원을 수수한 혐의로 이 회장과 휴스템코리아 법인 등 10명을 기소했다. 작년 8월 1심 재판부는 이 회장에게 징역 7년과 벌금 10억원을 선고했다. 이후 항소심에서 검찰은 피해액을 기존 1조1900억원대에서 3조3000억원대로 확대한 공소장 변경을 신청했으나, 재판부는 이를 받아들이지 않고 항소를 기각했다.&lt;br&gt;&lt;br&gt;이에 지난 9월 대법원 3부(주심 이숙연 대법관)는 “2심은 검찰의 공소장 변경 신청을 받아들였어야 했다”며 원심을 깨고 사건을 서울고법으로 돌려보냈다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>울산 울주군 야산서 불...1시간30분 만에 주불 잡아</title>
-      <link>https://www.chosun.com/national/regional/2025/11/30/D3LRQSK2ABFNHHFWPGRXC6GFAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/30/D3LRQSK2ABFNHHFWPGRXC6GFAI/</guid>
-      <dc:creator>울산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 05:39:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OK4TALNJTNA25CRNKUWIGXFEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산 울주군 범서읍 중리 야산에서 발생한 불. /울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산 한 야산에서 산불이 발생했다. 소방 당국은 헬기 7대 등을 투입해 화재 발생 1시간 30여 분 만에 주불을 잡았다.&lt;br&gt;&lt;br&gt;30일 울산소방본부에 따르면, 이날 오전 11시 28분쯤 울산 울주군 범서읍 중리 야산에서 산불이 났다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방은 산불 진화 헬기 7대와 산불 진화 차량 28대, 대원 167명을 투입해 진화 작업에 나섰다.&lt;br&gt;&lt;br&gt;소방은 이날 낮 12시 55분쯤 주불을 진화한 뒤 잔불을 정리하고 있다.&lt;br&gt;&lt;br&gt;이 불로 인명 피해는 발생하지 않았으며 약 1ha의 임야가 소실된 것으로 추정된다.&lt;br&gt;&lt;br&gt;울주군은 산불 발생 55분 만에 재난안전문자를 보내 “연기 확산과 안전에 유의하고 인근 지역 주민은 대피해달라”고 당부했다.&lt;br&gt;&lt;br&gt;산림 당국은 진화 작업을 마치는 대로 정확한 피해 규모와 화재 원인을 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대구 한 다세대 주택서 母子 숨져… 경찰 “부검 예정”  </title>
       <link>https://www.chosun.com/national/regional/2025/11/30/6UZUU5FL7RBZFOBS3KYILNS5A4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/11/30/6UZUU5FL7RBZFOBS3KYILNS5A4/</guid>
@@ -548,15 +604,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AAVNIK7TITNWKU3NXYRFY3PICE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구의 한 다세대 주택에서 모자(母子)가 숨져 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;30일 경찰 등에 따르면, 지난 29일 오후 5시 37분쯤 대구 동구 불로동 한 다세대 주택 3층에서 이곳에 사는 여성 A씨가 숨진 채 발견됐다. 또 A씨의 아들인 영아 B군이 심정지 상태로 발견돼 병원으로 옮겼으나 숨졌다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 극단적 선택을 한 정황이 발견됐으며, 신고를 받고 출동한 소방관들이 현관문을 열고 들어가는 등 외부 침입 흔적은 발견되지 않았다고 밝혔다. 다만, B군의 사인을 밝히기 위해 부검을 진행할 예정이다. &lt;br&gt;&lt;br&gt;경찰은 “다양한 가능성을 염두에 두고 수사를 벌이고 있다”며 “자세한 내용은 수사 중인 상황이라 밝히기 어렵다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전국 최초로 쏘아 올린 경기도 ‘기후위성’ 궤도 안착</title>
-      <link>https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/30/FBLNZ6VFMNF7HESXD3CGELH62A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gyeonggi-incheon/2025/11/30/FBLNZ6VFMNF7HESXD3CGELH62A/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 05:37:25 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZRTSN3DMFRWKYZZHE2TGNZXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 29일 오전 3시 40분쯤 경기기후위성 1호기를 탑재한 미국 스페이스X의 팰컨9 로켓이 하늘로 솟아 오르고 있다. /경기도 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“3, 2, 1...발사!”&lt;br&gt;&lt;br&gt;지난 29일 오전 3시 44분. 이른 새벽 시간 경기 수원시 경기도서관 지하 1층 스튜디오에서 “우와”하는 함성과 박수 소리가 울렸다.&lt;br&gt;&lt;br&gt;이날 미국 캘리포니아 반덴버그 우주군기지에서 ‘경기기후위성 1호기(GYEONGGISat-1)’가 실린 스페이스엑스(SpaceX) 펠컨9 로켓이 무사히 하늘로 솟아올랐다. 경기기후위성은 경기도가 전국 지방자치단체 최초로 우주로 쏘아올린 기후관측용 인공위성의 이름이다. 발사 상황은 유튜브로 생중계됐다. &lt;br&gt;&lt;br&gt;발사 후 약 56분쯤이 지난 오전 4시 40분. 궤도에 들어선 로켓에서 경기기후위성 1호기가 사출(射出)됐다. 이후 1시간이 지난 후 정보 송수신에 성공했다.&lt;br&gt;&lt;br&gt;경기기후위성은 가로 20cm, 세로 20cm, 높이 40cm의 초소형 위성이다. ‘큐브위성’이라고도 불린다. 밥솥, 전자레인지 정도 크기인데 무게는 약 25kg에 불과하다. 경기도 관계자는 “작지만 기능은 알차다”고 했다. &lt;br&gt;&lt;br&gt;위성 안에는 고해상도 광학 카메라와 위성 운영 시스템이 모두 들어있다. 위성은 지구 표면에서 약 500km 상공에서 경기도 지역을 통과할 때 1회당 14x40km의 면적을 촬영한다. 위성은 홍수와 산불 등 자연재해로 인한 피해나 식생, 토지 변화 등을 한눈에 모니터링하는 역할을 한다. 위성은 탑재된 태양전지판으로 전력을 공급받는다. 앞으로 3년 간 임무를 수행하고, 수명이 다할 경우 지구로 떨어져 자동 폐기된다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYGKNDFMUYGEZDDGJSTKNZUGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 경기도서관 미디어스튜디오에서 열린 경기기후위성 발사 기념식. 사진 왼쪽부터 장벽진 사회자, 차성수 경기도 기후환경에너지국장, 박재필 나라스페이스 대표. /경기도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기기후위성은 온실가스 배출량 등 기후 관련 데이터와 고해상·고정밀 공간 정보를 수집해 각종 과학기반 정책에 쓰일 예정이다. 예를 들어 촬영된 위성사진으로 재난재해에 따른 피해 정도, 면적, 복구 현황 등을 쉽고 빠르게 파악하거나 산림 등 개발제한구역 내 불법행위, 토지이용현황을 탐지하는데도 활용할 수 있다. 또 주요 농작물의 재배지 위치와 현황 파악, 메탄가수 배출원 정밀 관측 등에도 쓸 수 있다.&lt;br&gt;&lt;br&gt;위성 발사는 작년 8월 김동연 경기지사가 “지방정부가 가속화되는 기후위기에 과학적으로 대응하겠다”고 밝히며 추진됐다.&lt;br&gt;&lt;br&gt;위성은 경기도가 민간업체인 나라스페이스와 함께 설계·제작했다. 이미 개발되거나 입증된 기술을 사용하는 민간 주도 방식이라, 상대적으로 적은 비용과 빠른 시간 안에 위성을 발사할 수 있었다고 한다. 경기기후위성은 총 3기로 구성된다. 이번에 발사한 1호기는 광학위성, 나머지 2기는 온실가스 관측위성이다. 위성 발사 및 운용에는 경기도 예산 45억원, 민간업체 예산 144억원 등 모두 189억원이 들었다. 내년에는 2호기(GYEONGGISat-2A)와 3호기(GYEONGGISat-2B)도 순차적으로 발사될 예정이다. &lt;br&gt;&lt;br&gt;위성체 안에는 추첨을 통해 선정된 도민 500명의 이름이 새겨져있다. 경기도 관계자는 “이제 우주에도 경기도가 있는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZDCZRVGAYDMNLGGEZTGMTCGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘경기기후위성’ 1호기 발사를 하루 앞둔 지난 25일 경기 수원시 영통구 경기신용보증재단 도민쉼터에 마련된 경기기후위성 임시상황실에서 시민들이 '경기기후위성' 모형을 살펴보고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도는 도청 옆 경기신용보증재단 도민쉼터에 ‘기후위성 임시상황실’도 운영하고 있다. 도민 누구나 경기기후위성 제작부터 발사까지의 과정과 기대 효과 등 설명을 한눈에 볼 수 있다.&lt;br&gt;&lt;br&gt;김 지사는 “위성으로 수집한 데이터는 기후위기의 과학적 대응뿐만 아니라 기후테크 산업 육성에도 커다란 전환점이 될 것”이라며 “지방정부 최초로 민간과 함께 쏘아올린 경기기후위성도 대한민국의 뉴 스페이스 시대를 함께 여는 ‘우주 동반자’가 되겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 위성 발사는 스페이스X의 미국 현지 사정으로 지난 12일에서 20일, 21일, 27일, 29일로 모두 4차례 미뤄지기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘쿠팡 정보 유출’, 중국인 소행인 듯… 경찰 수사중</title>
       <link>https://www.chosun.com/national/national_general/2025/11/30/J35OE2PQHRAITBHF3QUZ4I4Z4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/J35OE2PQHRAITBHF3QUZ4I4Z4A/</guid>
@@ -564,33 +611,6 @@
       <description/>
       <pubDate>Sun, 30 Nov 2025 03:38:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRTCMJYMU2WEMJQGY2DCYJXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구에 위치한 쿠팡 본사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3000만명이 넘는 쿠팡 고객의 개인정보가 유출된 것은 외부 해킹이 아닌 전 중국인 직원의 소행인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 지난 25일 쿠팡 측으로부터 이번 사태에 대한 고소장을 받아 수사에 착수했다. &lt;br&gt;&lt;br&gt;그러나 해당 직원이 외국 국적자인 데다 이미 퇴사해 한국을 떠난 것으로 전해지면서 수사가 난항을 겪을 수도 있다는 지적이 나온다. &lt;br&gt;&lt;br&gt;쿠팡은 지난 20일 입장문을 통해 “제3자가 고객 계정의 정보를 조회했다”며 “쿠팡 시스템과 내부망의 외부 침입 흔적은 없는 것으로 확인했다”고 밝혔다. &lt;br&gt;&lt;br&gt;유출된 정보는 고객 이름과 이메일, 전화번호, 주소, 일부 주문 정보 등이다. 신용카드 정보나 계좌번호 등 결제 정보에 대한 노출은 확인되지 않았다고 쿠팡은 밝혔다. &lt;br&gt;&lt;br&gt;앞서 쿠팡은 인터넷진흥원(KISA)에 사고를 신고하면서 고객 정보 노출은 이달 6일에 발생했고, 같은 달 18일에 이를 인지했다고 밝혔다. 하지만 신고 이후 경찰청 등 관련 당국의 조사가 진행되면서 이미 지난 6월부터 개인정보 노출이 이뤄졌으며 피해 고객 역시 3370만명에 달한다는 사실이 밝혀졌다. &lt;br&gt;&lt;br&gt;이와 관련해 과학기술정보통신부는 지난 29일 쿠팡에서 발생한 대규모 개인정보 유출 사고와 관련해 민관합동조사단을 구성해 사고 경위 파악과 재발 방지 대책 마련에 착수한다고 밝혔다. 개인정보보호위는 개인정보보호법상 안전조치 의무 위반사항이 확인될 경우 엄정 제재한다는 방침이다.&lt;br&gt;&lt;br&gt;쿠팡은 30일 개인정보가 유출된 고객들에게 보낸 문제메시지에서 “고객님께 심려를 끼쳐 드린 점에 대해 다시 한번 진심으로 사과의 말씀을 드린다”며 “쿠팡은 비정상 접근 경로를 즉시 차단했고 모니터링을 한층 강화했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“홈캠 털렸다”... 카메라 12만대 해킹∙판매한 4명 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/30/Y3GCSRJRJZFCFKA46FMHA2X6WY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/Y3GCSRJRJZFCFKA46FMHA2X6WY/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 03:15:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XPQNBLY4OZXDCHFGALHNLKDLUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰청 국가수사본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘홈캠’으로 불리며 가정집과 노래방 등 사업장에 설치된 IP(인터넷 프로토콜) 카메라 12만여대를 해킹해 성 착취물 수백개를 제작·판매한 피의자들이 검거됐다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부는 IP카메라 12만여대를 해킹해 만든 영상을 해외사이트에 판매한 4명을 검거했다고 30일 밝혔다. 조사 결과 이들은 공범이 아닌 각자 범행을 저지른 것으로 드러났다. &lt;br&gt;&lt;br&gt;피의자 A씨는 약 6만3000대의 IP카메라를 해킹해 545개의 성 착취물을 제작한 뒤 3500만원의 가상자산을 받고 해외사이트에 판매한 혐의를 받는다. 피의자 B씨는 약 7만대를 해킹해 648개의 불법촬영물을 제작∙판매했고 1800만원의 범죄 수익을 거뒀다. &lt;br&gt;&lt;br&gt;특정 해외사이트가 최근 1년간 게시한 영상의 약 62%는 이들이 판매한 것으로 드러났다. 현재 경찰은 해외 수사기관과 공조해 해당 사이트 운영자에 대한 법적 조치를 진행하고 있다. 또한 사이트를 통해 성 착취물을 구매∙시청한 이들에 대해서도 3명을 검거하는 등 수사를 진행 중이다. &lt;br&gt;&lt;br&gt;수사 과정에서 확인된 피해 장소는 가정집, 사업장 등 58개인 것으로 드러났다. 대부분 아이디와 비밀번호가 단순한 형태로 설정돼 있었던 것으로 확인됐다. 수사관은 피해 장소로 직접 방문하거나 전화를 통해 피해 사실을 통지했다. &lt;br&gt;&lt;br&gt;박우현 경찰청 사이버수사심의관은 “IP 카메라 해킹, 불법촬영물 등 성 착취물 관련 범죄는 피해자들에게 막대한 고통을 가하는 심각한 범죄”라며 “적극적인 수사를 통해 반드시 근절해 나가겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “13세 미만 아동 성추행범 징역 5년 이상 처벌은 합헌”... 개정 조항 첫 판단</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/30/CJP4MH7TCZBBHH6J7HC2FLMEYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/CJP4MH7TCZBBHH6J7HC2FLMEYI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 03:00:00 +0000</pubDate>
-      <content:encoded>13세 미만 미성년 아동을 성추행했을 경우 무거운 실형에 처하도록 한 현행 성폭력처벌법 조항은 합헌이라는 헌재의 첫 판단이 나왔다. 헌재는 8년 전 벌금형과 징역형을 규정한 옛 조항에 대해 합헌 판단을 내린 바 있는데, 2020년 법 개정을 통해 벌금형이 삭제된 조항에도 재차 합헌 판단을 내린 것이다.&lt;br&gt;&lt;br&gt;헌재는 의정부지방법원이 성폭력처벌법 제7조 제3항에 대해 직권으로 청구한 위헌법률심판제청 사건에서 최근 재판관 전원일치 의견으로 합헌 결정을 내렸다. 이 조항은 ‘13세 미만의 사람에 대하여 강제추행의 죄를 범한 사람은 5년 이상의 유기징역에 처한다’고 규정한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ3DAMZZMQ2DSNLCME3TGMBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;헌법재판소./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 공사업체 관리자인 A씨는 2021년 한 초등학교 내부 공사를 진행하던 중 화장실 앞에서 마주친 피해자 1명의 얼굴을 양손으로 잡고 왼쪽 눈가에 입맞춤을 하는 등 미성년 아동 3명에게 입맞춤을 한 혐의로 재판에 넘겨졌다. 피해자들의 나이는 6~7세였다. 또 다른 피고인 B씨는 2023년 엘리베이터 안에서 일면식이 없는 7세 피해자가 엘리베이터에 설치된 손잡이에 손을 걸치고 있는 것을 보고 오른손을 피해자의 왼쪽 손 위에 얹고 약 5~6회에 걸쳐 피해자의 손을 쓰다듬듯이 만지고 잡은 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;두 사건을 모두 심리하는 의정부지법 측은 헌재의 심판 대상이 된 조항에 대해 “강제추행으로 인정되는 행위 유형이 매우 광범위한데도 벌금형을 규정하지 않고 법정형의 하한을 징역 5년으로 규정하고 있다”며 “정상참작감경을 하더라도 최소 2년 6개월의 실형을 선고해야 해 책임과 형벌 간의 비례 원칙에 반한다”고 주장했다. 이 밖에도 “성적인 목적이 없는 추행과 그렇지 않은 추행 사이에는 죄질에 현격한 차이가 있다”며 “심판 대상 조항은 이를 모두 같은 것으로 보고 무겁게 처벌하도록 정하고 있어 평등 원칙에 반한다”고 지적했다.&lt;br&gt;&lt;br&gt;이에 대해 헌재는 “심판대상 조항은 다양한 유형의 추행 행위를 모두 5년 이상 유기징역으로 처벌하도록 규정하고 있기는 하다”면서도 “13세 미만 미성년자는 아직 정신적·신체적 측면에서 충분히 성숙하지 않아 상대방의 추행 행위가 가지는 위험성을 인식하고 이에 대항하여 자신을 방어할 능력이 매우 부족하다”고 했다. 추행 행위가 경미하더라도 미성년 피해자들에겐 매우 부정적인 영향을 끼칠 수 있다는 얘기다.&lt;br&gt;&lt;br&gt;헌재는 “13세 미만 미성년자에 대한 신체의 접촉이 호감의 표시로 받아들여지기도 했던 과거와는 다르다”며 “경미해 보이는 성적 행위라 하더라도 심각한 영향을 끼칠 수 있다는 것에 폭넓은 공감대가 형성돼 있다”고 짚었다. 이어 “13세 미만 미성년자에 대한 강제추행의 법정형이 지속적으로 상향되었음에도 범죄는 계속 증가하는 추세”라며 현행 조항은 합리적이라고 봤다. 특별한 사정이 있을 경우 법관이 집행유예를 선고할 수도 있어 양형 과정에서 구체적인 사정이 반영될 여지도 있다는 게 헌재 설명이다. &lt;br&gt;&lt;br&gt;심판 대상이 된 성폭력처벌법 제7조 제3항은 2020년 5월 현행법으로 개정되기 전엔 징역 5년 이상 유기징역이나 3000만~5000만원의 벌금형을 선고할 수 있다고 규정했다. 헌재는 2017년 12월 옛 조항에 대해 합헌 판단을 내린 바 있는데, 개정된 조항에도 같은 취지로 첫 판단을 내린 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경제지 사칭해 25억 투자금 가로챈 리딩방 대표 2심서 감형... 징역 6년</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/30/P3AHAXZSTFFHHMRITDTZ6IDBAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/P3AHAXZSTFFHHMRITDTZ6IDBAI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 02:55:42 +0000</pubDate>
-      <content:encoded>자신을 유명 경제지 팀장이라고 속여 투자자들로부터 25억원을 가로챈 혐의로 재판에 넘겨진 리딩방 대표가 항소심에서 감형 받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LDKO53ONWCAMWP3KT3UJGAYJUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고법 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 서울고법 형사5부(재판장 권순형)는 지난 13일 사기와 범죄단체조직, 범죄수익은닉규제법 위반 등으로 기소된 총책 A씨에게 징역 6년과 추징금 2억5000만원을 선고했다. 1심보다 1년이 줄어든 것이다. A씨와 함께 기소된 일당 10명 중 6명도 범죄 가담 정도에 따라 감형됐고, 나머지 4명에 대해서는 원심 판결이 유지됐다.&lt;br&gt;&lt;br&gt;재판부는 A씨가 반성하고 있는 점, 일부 피해자들과 합의한 점을 고려했다고 감형 이유를 밝혔다. 감형된 공범들에 대해서는 동종 전과가 없고 수사에 적극 협조했다는 점 등을 양형에 반영했다고 했다.&lt;br&gt;&lt;br&gt;A씨 일당은 2023년 10월부터 이듬해 3월까지 다섯달 동안 카카오톡 오픈채팅방에서 유명 경제지 팀장을 사칭하는 등 방법으로 투자자를 모은 것으로 조사됐다. 이렇게 피해자들을 모은 뒤 공모주 매매 대금 명목으로 25억원을 챙긴 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;이들은 대표와 본부장, 영업팀장 및 영업직원 등 역할을 분담하는 등 범행을 치밀하게 계획한 것으로 조사됐다. A씨는 자금세탁 조직을 통해 현금을 세탁해 나누는 역할을 맡았다. 또 다른 공범은 사기 대본과 피해자 인적사항이 담긴 자료를 확보해 전달하는 역할을 담당했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>경찰, 대선 이틀 전 “우리가 앞선다” 발언한 김문수 송치</title>
@@ -609,15 +629,6 @@
       <description/>
       <pubDate>Sun, 30 Nov 2025 02:38:39 +0000</pubDate>
       <content:encoded>자사의 동영상 서비스가 상위에 노출되도록 동영상 검색 알고리즘을 조작했다는 이유로 공정거래위원회가 네이버에 부과한 시정명령과 과징금 등 처분이 모두 취소돼야 한다는 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 대법원 1부(주심 서경환 대법관)는 네이버가 공정위를 상대로 낸 시정명령 및 과징금 납부 명령 취소소송에서 최근 원심의 원고 일부승소 판결을 깨고 원고 전부승소 취지로 사건을 서울고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTOYRWGE4TEZJQGI4TCZDCHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 분당구 네이버 사옥. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;공정위는 네이버가 2017년 8월 동영상 검색 알고리즘을 개편하면서 관련 정보를 자사 동영상 서비스인 네이버TV에만 제공하고, 경쟁사인 곰TV와 아프리카TV 등 업체에 왜곡해 전달한 것은 차별적 정보 제공에 해당한다고 판단했다. 또 네이버가 운영하는 ‘네이버TV 테마관’ 입점 영상에만 가점이 부여되도록 알고리즘을 설계해 다른 동영상보다 상위에 노출시킨 것도 부당하다고 봤다. 공정위는 이러한 네이버의 행위가 옛 공정거래법에서 금지하는 부당한 고객 유인 행위에 해당한다고 보고, 2021년 1월 시정명령과 과징금 3억원을 네이버에 부과했고, 네이버는 이에 불복해 과징금과 시정명령을 취소해달라는 소송을 제기한 것이다.&lt;br&gt;&lt;br&gt;서울고법은 두 가지 사유 중 네이버가 네이버TV 테마관 영상에만 가점을 부여한 건 “고객이 해당 상품이 실제보다 우수하다고 오인하게 만들어 부당하게 고객을 유인한 행위”라며 해당 부분에 대한 공정위 처분은 타당하다고 봤다. 다만 알고리즘 개편 사실을 경쟁사에 왜곡해 전달한 데 대해선 “차별적 정보 제공으로 고객을 부당하게 유인했다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;그러나 대법원은 공정위 처분을 모두 취소해야 한다고 판단한 것이다. 대법원은 “자기가 제공하는 동영상 서비스 또는 동영상을 언제나 다른 사업자가 제공하는 동영상 서비스 또는 동영상과 동등하게 대우할 의무가 인정된다고 보기 어렵다”고 했다. 검색 알고리즘이 소비자의 합리적 선택을 침해할 우려가 있거나 공정한 거래 질서를 훼손할 우려가 있는 경우에 위법성이 인정되는 것인데, 네이버TV 테마관 동영상을 상위로 올리게 한 알고리즘만으로 위법성이 인정된다고 보기 어렵다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 “오히려 네이버가 자사 제공 동영상 중에서도 네이버TV 테마관 동영상에만 가점을 부여했고, 해당 동영상의 경우 다른 동영상과 달리 추가적인 내부 심사를 거쳐 게재를 허용했다”며 “이처럼 품질을 담보할 수 있는 동영상에 대해 가점을 부여한 데에는 그 나름의 합리성 또는 소비자 편익의 증진 가능성이 인정될 여지가 있다”고 봤다.&lt;br&gt;&lt;br&gt;대법원은 또 부당한 고객 유인 행위가 성립하려면 경쟁 사업자의 것보다 ‘현저히 우량 또는 유리한 것’으로 오인시켜야 하는데, 이러한 현저성 요건도 성립되지 않는다고 봤다. 네이버TV의 동영상이 우위에 있다거나, 경쟁사 동영상이 뒤처진다는 소비자 인식이 존재한다고 볼 근거가 없다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인턴에게 “자고 만남 추구?” 묻고 신체 접촉·직장 내 괴롭힘까지... 법원 “해고 정당”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/30/A2ESGEAKKFD5TOCODEXKB4RL6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/A2ESGEAKKFD5TOCODEXKB4RL6A/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 02:30:00 +0000</pubDate>
-      <content:encoded>자신이 정규직 전환 평가를 맡고 있는 인턴에게 “자고 만남 추구하느냐”며 상습적인 성희롱과 직장 내 괴롭힘 행위를 한 직원에 대한 회사의 해고 처분은 정당하다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 서울행정법원 행정12부(재판장 강재원)는 한국부동산원이 중앙노동위원회위원장을 상대로 낸 부당해고구제 재심판정 취소소송에서 최근 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U3O4CJRXVCL2QVIJPSCSBJLIVA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 한국부동산원이 2023년 지사에서 근무하던 간부 A씨가 직장 동료 2명에게 ‘성희롱’과 ‘직장 내 괴롭힘’을 했다는 이유로 해고했다가 중노위에서 부당해고라는 판정을 받은 게 발단이 됐다. A씨의 구제 신청을 받은 지방노동위원회는 징계가 적법하다고 판단했으나, 중노위는 A씨의 일부 성적 언행만 징계사유로 인정하며 해고는 과하다고 봤다. 이에 부동산원은 중노위 판정의 취소를 요구하는 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;부동산원은 자체 조사 결과 A씨의 행위가 모두 징계 사유에 해당하고, 비위 행위 횟수와 지위, 반성하지 않는 태도 등을 고려해 징계 양정이 정당하다고 주장했다. A씨가 인턴에게 “너 ‘자고 만남’ 추구해?”라는 성적 발언을 하고 반복적으로 신체 접촉을 했다는 게 부동산원 자체 조사 결과다. 통상 ‘자만추’는 ‘자연스러운 만남 추구’를 줄여 부르는 것인데, 사회적으로 통용되는 의미와 달리 성희롱성 발언을 했다는 얘기다.&lt;br&gt;&lt;br&gt;A씨는 피해자인 인턴이 피해 사실을 신고하자 “자살하고 싶다”고 말하고, 피해자가 사는 곳으로 찾아와 사과를 받아달라고 카톡을 보내는 등 2차 가해를 벌인 것으로도 조사됐다. A씨는 이 피해자의 정규직 전환 평가를 담당하고 있었는데, 인턴 근무 기간 도중 “내 평가에 따라 정규직으로 전환되지 않을 수 있다”며 위력을 가하기도 했다고 한다. 이 밖에도 A씨는 같은 부서 대리에게 함께 숙박하자거나 “결혼은 했지만 연애를 하고 싶다” 등의 말을 했고, 마찬가지로 잦은 신체 접촉을 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건에서 인정되는 성희롱 횟수나 직장 내 괴롭힘 횟수가 적지 않고 상당 기간 지속됐다”며 “각 징계 사유의 불법성 내지 위법성이 상당히 크고, A씨가 진정으로 반성했다고 보기도 어렵다”며 부동산원 손을 들어줬다. 특히 재판부는 “피해자들의 진술이 신빙성이 있고 일관되며 이를 뒷받침하는 동료들의 진술이 있다”며 부동산원의 해고 판단 사유를 모두 인정했다.&lt;br&gt;&lt;br&gt;재판부는 “성희롱 및 직장 내 괴롭힘은 단순히 근로관계에서 발생하는 비위 행위로만 여길 것이 아니라 기본권 보호 관점에서 살펴볼 필요가 있다”며 “성희롱, 우월적 지위를 이용한 직장 내 괴롭힘은 근로자의 인격권을 침해하는 행위이므로 엄격하게 제재할 필요가 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[부음] 박민(前 KBS 사장, 前 문화일보 편집국장)씨 모친상</title>
@@ -670,15 +681,6 @@
       <description/>
       <pubDate>Sat, 29 Nov 2025 10:16:47 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVRRV4ECMNBTPMPDAQSDVUPHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 강남구 테헤란로 일대에서 벨라도와 신자유연대 등 주최로 열린 집회에 참여해 행진하는 사람들의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 1년을 앞둔 주말, 서울 도심 곳곳에서 집회가 열렸다.&lt;br&gt;&lt;br&gt;29일 오후 서울 종로구 광화문 광장 인근에서는 자유통일당이 주최하는 ‘자유대한민국 회복을 위한 광화문 국민대회’가 열렸다. 전광훈 사랑제일교회 목사가 주축인 이 행사에는 경찰 비공식 추산 약 7000명이 참석했다. 이들은 ‘이재명 독재정권’ ‘국민이 심판한다’ 등 문구가 적힌 손팻말을 들고 종각사거리, 을지로1가, 대한문을 거쳐 광화문광장으로 돌아오는 경로로 행진했다.&lt;br&gt;&lt;br&gt;서초구 대법원 인근에서는 시민단체 촛불행동이 집회를 벌였다. 약 700명의 참가자는 “조희대 대법원장 탄핵” “내란특별재판부 설치” “국민의힘 해체”를 외치며 지하철 2호선 강남역 방향으로 행진했다. 일부 참가자는 윤 전 대통령 부부의 모습이 담긴 현수막을 내려치기도 했다. 비슷한 시간 강남구 테헤란로에서는 벨라도 등 유튜버를 중심으로 “오직 윤석열(Only Yoon)”을 주장하는 세력이 집결했다.&lt;br&gt;&lt;br&gt;한편, 교사노조연맹은 이날 오후 2시부터 4시까지 경복궁사거리와 광화문 월대 일대에 모여 교사들의 정당 가입을 허용할 것을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>드라마 ‘시그널’ 원로배우 이문수, 폐암 투병 중 별세</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/66FACH4IFJAVDML5CSD7W7GWHY/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 08:11:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/34YC4MTW2NBYZFQV4IEPEGDLSI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이문수./한국연극배우협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;원로배우 이문수가 폐암 투병 중 76세 나이로 별세했다. &lt;br&gt;&lt;br&gt;29일 한국연극배우협회 등에 따르면 이문수는 전날 밤 경기 양평군 소재 병원에서 별세했다. 고인은 2022년 폐암이 발병해 그동안 치료를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울예술전문대학을 졸업한 고인은 1989년 국립극단에 합류해 ‘시련’ ‘문제적 인간 연산’ ‘세일즈맨의 죽음’ ’1984′ ‘갈매기’ ‘리어왕’ 등 굵직한 작품에 출연했다.&lt;br&gt;&lt;br&gt;드라마와 영화에서도 꾸준히 활동했다. 2010년 영화 ‘헬로고스트’와 SBS 드라마 ‘대물’에 출연했으며, 2016년 tvN 드라마 ‘시그널’에서 선 굵은 연기를 선보였다.&lt;br&gt;&lt;br&gt;2010년에는 공로를 인정받아 문화체육관광부 장관표창을 수훈했다.&lt;br&gt;&lt;br&gt;빈소는 서울 한양대학교병원장례식장 2호실에 마련됐다. 발인은 12월 1일 오전 8시 20분, 장지는 에덴추모공원이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>11월 마지막 날, 수도권 미세먼지 ‘나쁨’...내주 영하 10도 강추위</title>
