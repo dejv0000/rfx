@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘여론조사 대납 의혹’ 오세훈, ‘대장동 일당 중형’ 재판부가 심리한다</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/PBLK5LA7IRFPVL5OLYSS5KWD4Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/PBLK5LA7IRFPVL5OLYSS5KWD4Q/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 12:57:45 +0000</pubDate>
+      <content:encoded>2021년 서울시장 보궐선거를 앞두고 정치 브로커 명태균씨에게 여론조사를 의뢰한 뒤, 그 비용 3300만원을 제3자에게 대납하게 한 혐의로 기소된 오세훈 서울시장 사건이 2일 서울중앙지법 형사22부(재판장 조형우)에 배당됐다. 형사22부는 지난 10월 말 ‘대장동 개발 비리’ 일당 5명에게 중형을 선고하고 모두 법정 구속한 재판부다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUZGGZTEMNTDEYRTGFRTIZBRHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 1일 오후 서울시청 브리핑실에서 김건희 특검이 오 시장을 '명태균 여론조사비' 대납 혐의로 기소한 것과 관련해 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 서울중앙지법은 지난 1일 민중기 특별검사팀이 제출한 공소장을 접수한 뒤, 합의 재판부인 형사22부에 오 시장 사건을 배당했다. 형사22부는 선거·부패 전담 재판부다. 형사22부는 이 밖에도 업무상 과실치사상 등 혐의로 이명현 특별검사팀이 기소한 임성근 전 해병대 1사단장의 재판도 맡고 있다. 오는 4일 첫 정식 재판이 열린다.&lt;br&gt;&lt;br&gt; 형사22부는 2021년 10월 대장동 개발 비리 사건을 맡은 뒤 4년간 심리한 끝에 유동규 전 성남도시개발공사 기획본부장에게 징역 8년에 벌금 4억원을 선고하고 8억1000만원 추징을 명령했다. 화천대유 대주주 김만배씨는 징역 8년에 추징금 428억원을 선고받았다. 남욱(천화동인 4호 소유주)씨와 정영학(천화동인 5호 소유주) 회계사는 각각 징역 4년과 5년을 선고받았다. 공사 실무를 맡았던 정민용 변호사에겐 징역 6년에 벌금 38억원, 추징금 37억2200만원을 선고했다.&lt;br&gt;&lt;br&gt;특검팀은 공소장에서 “오 시장이 명씨에게 2021년 서울시장 보궐선거 관련 여론조사를 해 달라고 부탁했고, 선거 캠프 비서실장이었던 강철원 전 부시장에게 ‘명씨와 상의해 여론조사를 진행해 달라’는 취지로 지시했다”면서 “오랜 후원자 김한정씨에게는 여론조사에 필요한 비용을 지원해 달라고 요청했다”고 했다.&lt;br&gt;&lt;br&gt;명씨는 2021년 1월 22일부터 2월 28일까지 공표 3회·비공표 7회 등 총 10회에 걸쳐 실시한 여론조사 결과를 오 시장 측에 전달했고, 김씨는 그해 2월 1일부터 3월 26일까지 5차례에 걸쳐 여론조사 비용 3300만원을 명씨에게 대납했다는 게 특검 수사 결과다.&lt;br&gt;&lt;br&gt;오 시장은 “특검이 더불어민주당 하명에 기소를 강행했다”며 “민주당과 명태균이 한 몸이 되어 특검과 함께 ‘오세훈 죽이기’를 하겠다는 것”이라고 반발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“제가 그 경찰서 다녀요” 당근에서 만난 경찰 덕분에 ‘경찰 사칭 사기’ 피했다</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/XAWY3JI6PVFQXCIQU4YGHMWBUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/XAWY3JI6PVFQXCIQU4YGHMWBUY/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 13:12:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRJMN5YQGJHPZIVMXW5G5DLABE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 서울 구로구의 한 주택가에서 A씨와 B씨가 중고거래를 하고 있는 장면. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보이스피싱 조직에 속아 돈을 인출한 70대 여성이 중고 거래 현장에서 우연히 만난 진짜 경찰관 덕분에 가까스로 피해를 모면한 사연이 알려졌다. &lt;br&gt;&lt;br&gt;2일 경찰청 등에 따르면, 휴직 중인 강서경찰서 소속 30대 여성 경찰관 A씨는 지난달 중고 거래 플랫폼 ‘당근(옛 당근마켓)’으로 중고 물품을 판매하기 위해 70대 여성 B씨와 서울 구로구의 한 주택가에서 만나기로 했다.&lt;br&gt;&lt;br&gt;A씨는 약속 장소에 시간에 맞춰 도착했지만 B씨는 15분이 지나도 나타나지 않았다. &lt;br&gt;&lt;br&gt;약속 장소에 늦게 도착한 B씨는 “은행에 다녀오느라 늦었다”며 “강서경찰서에서 제 신분증이 도용됐다는 연락이 왔다. 돈을 인출해 놔야 한다더라”고 말했다.&lt;br&gt;&lt;br&gt;이에 A씨는 보이스피싱 범죄를 직감하고 “경찰이 돈을 뽑으라고 했냐”고 물었다.&lt;br&gt;&lt;br&gt;B씨는 “경찰이 돈을 다 인출해서 가지고 있으라고 했다”며 “아무한테도 말하지 말라고 했다”고 답했다.&lt;br&gt;&lt;br&gt;A씨는 “저도 사실은 경찰관이다. 심지어 강서경찰서 소속이다”라고 신분을 밝히며 “이거 보이스피싱 같다”고 알렸다.&lt;br&gt;&lt;br&gt;A씨는 현장에서 곧바로 강서경찰서에 전화를 걸어 피해자 전화기에 찍힌 번호와 같은 번호의 업무폰이 있는지 확인했지만 그런 번호의 업무폰은 없다는 답변을 받았다. &lt;br&gt;&lt;br&gt;해당 번호가 보이스피싱 번호인 것을 확인한 B씨는 A씨의 안내에 따라 인근 지구대에 가서 피해 사실을 신고했다.&lt;br&gt;&lt;br&gt;B씨는 “(보이스피싱범이) 저보고 몇 분 내로 집에 도착하느냐고 물어봤다”며 “(중고 거래에서 경찰관이 아닌) 일반인을 만났더라면 얼른 거래만 하고 집으로 왔을 거다. 그분을 만난 덕분에 보이스피싱을 당한 걸 알았다”고 했다.&lt;br&gt;&lt;br&gt;B씨는 “그날 바로 집으로 왔었으면 어떤 일이 있었을지 모르겠다. 그 사람들이 와서 나를 기다리고 있었을지도 모른다”며 A씨에게 감사 인사를 전했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘홈플러스 사태’ 김광일 대표 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/YDAHJ2R6ZVDETIVA7R6HZZHJPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/YDAHJ2R6ZVDETIVA7R6HZZHJPM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 12:46:23 +0000</pubDate>
+      <content:encoded>검찰이 이른바 ‘홈플러스 사태’와 관련해 김광일 홈플러스 대표(MBK파트너스 부회장)을 2일 소환한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5PO2WP6FSLHXTZ4CQ4V3L6FXI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김광일 MBK 파트너스 부회장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울중앙지검 반부패수사3부(직무대리 부장 김봉진)는 이날 김 대표를 특정경제범죄가중처벌법상 사기 및 자본시장법 위반 등 혐의 피의자로 소환해 조사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;홈플러스 사태는 홈플러스와 대주주 MBK파트너스가 신용 등급이 하락할 것을 알고도 대규모 단기채권을 발행·판매해 투자자에게 손실을 끼쳤다는 것이 핵심이다. 이 과정에서 기업 회생 신청까지 계획하고 이를 숨겼을 가능성을 검찰은 의심한다.&lt;br&gt;&lt;br&gt;이와 관련해 검찰은 지난 4월 28일 홈플러스와 MBK파트너스 본사를 압수 수색하며 수사를 본격화했다. 한국기업평가와 한국신용평가도 압수 수색했다. 한국기업평가·한국신용평가는 지난 2월 28일 홈플러스의 기업어음과 단기사채 신용등급을 ‘A3’에서 ‘A3-’로 강등했는데, 검찰은 홈플러스와 MBK가 신용등급 하락 1차 통보를 받은 2월 25일 이전에 이를 알고서도 채권을 발행해 투자자들에게 손실을 떠넘기려 했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“토스 ‘1원 인증’ 우리가 발명”...소송 낸 창업 멤버들 1심 패소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/G3JS2DSWHJBFPG3VBMBI64MWTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/G3JS2DSWHJBFPG3VBMBI64MWTY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 10:23:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSPRHDWA2RFS33YASSJV5H67BY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이승건 비바리퍼블리카 대표. /토스 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘토스’ 앱 운영사인 비바리퍼블리카가 ‘1원 인증’ 서비스 발명을 둘러싼 창업 멤버들과 소송 1심에서 승소했다. 재판부는 창업 멤버들이 1원 인증 발명 아이디어에 결정적인 역할을 했다는 증거가 없고 토스가 이 서비스로 독점적인 이익을 취한 것도 아니라고 판단했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사62부(재판장 이현석)는 비바리퍼블리카 창업 멤버 A씨와 B씨가 직무발명보상금 3억원씩 총 6억원을 지급하라며 비바리퍼블리카를 상대로 낸 소송 1심에서 최근 원고 패소 판결했다고 2일 밝혔다. A씨는 비바리퍼블리카 창업 초기인 2014년부터 2018년까지 최고운영책임자(COO)를 지냈고 B씨는 2013년부터 2015년 말까지 서버 개발자로 근무했다.&lt;br&gt;&lt;br&gt;두 사람은 토스의 ‘1원 인증’ 서비스 개발 과정에 참여해 2016년 창업자인 이승건 현 대표와 특허 출원에 발명자로 등록했다. 이후 퇴사한 뒤 2023년 공동 개발한 이 서비스로 비바리퍼블리카가 이익을 독점했다며 소송을 냈다.&lt;br&gt;&lt;br&gt;1원 인증은 토스가 2014년 간편 송금 서비스를 출시하며 함께 도입한 본인인증 방식이다. 토스가 사용자의 다른 은행 계좌로 1원을 보내면, 입금 메시지에 표시된 고유 문구로 인증하는 식이다. &lt;br&gt;&lt;br&gt;두 사람은 1원 인증 서비스 개발에 20%씩 기여도를 갖고 있다며 총 직무발명보상금을 330억여 원으로 추산하고, 발명자 지위를 확인받기 위해 일단 일부 금액만 우선 배상해달라고 하는 ‘명시적 일부 청구’ 방식으로 6억원의 소송을 냈다. 이 소송에서 발명자 지위를 인정받으면, 보상금 규모를 늘려 청구하려고 했었다.&lt;br&gt;&lt;br&gt;하지만 1심 재판부는 “A씨 등이 제출한 증거만으로 1원 인증 서비스의 발명자로 인정하기 부족하다”면서 비바리퍼블리카 측 손을 들어줬다. 1원 인증 발명에 앞서 비슷한 아이디어가 이미 시장에 소개됐고 유사 서비스가 다른 금융 플랫폼에서도 사용되고 있기 때문에 비바리퍼블리카가 독보적·배타적 이익을 얻고 있다고 보기도 어렵다고 재판부는 판단했다. 다만 판결이 확정된 것은 아니다. A씨 등은 1심 패소 후 판결에 불복해 항소했고 특허법원에 배당돼 심리를 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>진성여왕은 정말 문란한 ‘팜므 파탈’이었나</title>
+      <link>https://www.chosun.com/national/national_general/2025/11/12/ZUV3NUSKCJGN7KQ6ZVEQVNX6GE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/12/ZUV3NUSKCJGN7KQ6ZVEQVNX6GE/</guid>
+      <dc:creator>유석재 역사문화전문기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 11 Nov 2025 18:00:00 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;“젊은 미남자 2~3명을 몰래 끌어들여 음란한 짓을 하고, 그들에게 중요한 관직을 주어 나라의 정치를 맡겼다. 이로 말미암아 아첨하여 임금의 총애를 받게 된 사람들이 뜻을 마음대로 펴게 되어 뇌물이 공공연하게 행해지고, 상과 벌이 공정하지 못하여 나라의 기강이 무너지고 느슨해졌다.”&lt;br&gt;&lt;br&gt;한국사에서 보기 드문 이 사료는 정사(正史)인 ‘삼국사기’ 신라본기 중 51대 임금 진성여왕(재위 887~897) 2년인 888년의 상황이다. 그녀의 본명은 김만(金曼). 여성 군주에게 음란(淫亂)에 실정(失政) 혐의까지 씌워졌다. 신라에 존재했던 세 여왕 중 선덕여왕과 진덕여왕이 ‘통일의 기틀을 놓았다’고 평가된 반면 진성여왕은 망국을 초래한 ‘팜므 파탈’로 여겨졌다. 예를 들어 조선 초 ‘동국통감’은 관용구를 많이 써서 이렇게 평가했다.&lt;br&gt;&lt;br&gt;“진성은 음탕 방자함이 당나라 무조(측천무후)보다 더하여 나라의 기반을 잃게 되었으니, 여기서 신라에 망조가 들었다. 이로부터 뭇 도적이 마구 일어나게 되어… 백성은 도탄에 빠졌으며 강토는 날로 위축되었던 것이다.”&lt;br&gt;&lt;br&gt;공주였던 김만이 왕이 된 것은 부왕인 48대 경문왕(재위 846~875) 이후 왕위 계승에 문제가 생겼기 때문이었다. ‘임금님 귀는 당나귀 귀’ 설화의 주인공인 경문왕은 866년 이찬 윤흥의 반란을 진압하며 일족을 멸했다. 고위직 진골 귀족은 모두 왕족이었는데 그 왕족의 씨를 말렸다는 것이 된다. &lt;br&gt;&lt;br&gt;왕은 이후 주변의 어느 누구도 믿지 못했고 호위무사를 곁에 두지 않으면 잠을 잘 수도 없게 됐다. ‘당나귀 귀 임금’이라는 것은 언제 반란으로 목숨을 잃을지 몰라 벌벌 떨며 귀를 쫑긋 세워두던 가련한 군주의 형상화라고 할 수 있을 것이다.&lt;br&gt;&lt;br&gt;그런데 경문왕 사후 태자인 49대 헌강왕(재위 875~886)이 왕위에 올랐다. 그 유명한 처용 설화가 이때의 일이다. 헌강왕이 죽을 때 그 아들 요(훗날의 효공왕)는 서자인데다 어렸다. 헌강왕 동생이 50대 정강왕(재위 886~887)이 됐지만 즉위 1년 만에 죽었다. 정강왕에게는 아들도 남동생도 없었다. 신라 하대에 이르면 골품제는 족(族)과 가(家)로 분해돼 가문 내에서 왕위를 독점하려는 현상이 일어났다고 한다.&lt;br&gt;&lt;br&gt;정강왕은 이런 유언을 남겼다. “누이 만(曼)은 천성이 총명하고 민첩하며 골상이 남자와 비슷하니, 경들은 마땅히 선덕과 진덕의 옛일을 본받아 그를 왕위에 세우는 것이 좋겠다.” 이렇게 해서 200여 년 만에 여성 군주가 나오게 됐다.&lt;br&gt;&lt;br&gt;김만에겐 남편이 있었다. 각간 벼슬의 위홍이었다. ‘삼국사기’는 “왕은 평소 각간 위홍과 더불어 정을 통해 왔는데, 이때에 이르러 늘 궁궐에 들어와 일을 마음대로 처리했다”고 기록했다. ‘삼국유사’는 위홍을 ‘여왕의 남편(필·匹)이었다’고 했다.&lt;br&gt;&lt;br&gt;그런데 1972년 뜻밖의 사실이 밝혀졌다. 경문왕 때인 872~873년 황룡사 구층 목탑을 수리하고 그 내력을 기록한 ‘황룡사 구층목탑 찰주본기’를 사리함 안에 새겼는데 1964년 도굴당했다. 2년 뒤 다행히 되찾아 6년에 걸친 조사 끝에 74행 905글자를 판독할 수 있었다. 황룡사탑 중수 당시의 감독관 이름과 신분이 거기에 있었다. 왕의 동생 김위홍. 진성여왕 김만의 남편 위홍은 여왕의 삼촌이었던 것이다.&lt;br&gt;&lt;br&gt;이것은 뒤에 따져 보기로 하고, 여왕이 즉위 시점부터 나름대로 개혁을 하려고 했던 것은 주목할 필요가 있다. ‘대사면을 실시하고 여러 주와 군의 조세를 1년 동안 면제해 줬다’는 것이다. 민심 통합과 감세 조치였다.&lt;br&gt;&lt;br&gt;그러나 이것은 미봉책이었다. 여왕의 재위 3년째인 889년부터 파국이 시작됐다. 국고가 비자 지방에 세금을 독촉했는데 곳곳에서 반란이 일어났다. 881년에는 궁예의 군대가 지금의 강원도 지역을 휩쓸었고 892년에는 견훤이 지금의 광주인 무진주에 후백제를 세웠다. 남북국 시대(통일신라 시대)가 여왕의 재위 중에 끝나 버렸던 것이다.&lt;br&gt;&lt;br&gt;이때 김만은 당나라 유학파 관료 최치원이 올린 ‘시무책 10여 조’를 받아들여 개혁을 시도한 것으로 보인다. 그 내용은 중앙 집권의 강화, 골품을 초월한 인재 등용 등인 것으로 보이지만 귀족의 반대로 실행되지 못했다. 이미 타이밍을 놓친 것일 수도 있다. 실의한 최치원은 남쪽 바닷가를 떠돌았는데 그중 대표적인 곳이 그의 호 해운(海雲)에서 유래된 해운대다.&lt;br&gt;&lt;br&gt;‘삼국유사’를 자세히 보면 당시의 상황은 참담했다. 반란군이 도처에 들끓는 상황에서도 화랑들은 포석정에서 술판을 벌였다. 걸식하던 일반 농민이 부잣집 노비로 전락하는 일이 흔하게 일어났다. 국가 세수(稅收)가 감소할 수밖에 없었다.&lt;br&gt;&lt;br&gt;나라가 왜 이 지경에 이르렀단 말인가? &lt;br&gt;&lt;br&gt;귀족과 사찰의 대토지 경영, 소농의 몰락, 장기간의 평화로 인한 국민 정신의 타락, ‘통일’을 하고서도 한반도 수도를 옮기지 않았던 지역주의 폐쇄성, 골품제에서 소외당한 6두품의 불만 등이 신라 몰락의 원인으로 드는 요인이다. 그런데 김만이 개혁을 제대로 실행할 수 없었던 무능한 군주인 것은 맞는 것으로 보이지만, 이것을 그 한 사람에게만 돌리는 것은 온당한가? 아니다. 그것은 신라 하대(下代) 100여 년에 걸쳐 서서히 발생한 일이었고, 여왕의 대에 이르러 고름이 터졌다고 봐야 한다.&lt;br&gt;&lt;br&gt;김만에게 씌워진 ‘음란함’에 대해서도 이렇게 생각해 볼 여지가 있다. 만약 남성 군주가 두세 명의 ‘미소녀 후궁’을 거느리고 있었다면 어느 사가(史家)가 그것을 문제 삼았을까? 그리고 그것은 남편인 위홍이 사망한 뒤의 상황이었기 때문에 바람을 피운 것으로도 볼 수 없다. 물론 지금 기준으로 보면 미남자든 미소녀든 당치 않은 일이겠지만 말이다.&lt;br&gt;&lt;br&gt;삼촌이 남편이었던 것은 어떻게 봐야 하나? 당시 기준으로 근친혼은 그다지 이상한 일이 아니었다. 예를 들어 진흥왕의 아들 동륜태자는 자기 고모와 결혼했고, 김유신은 김춘추의 처남인 동시에 사위였다. 이렇게 근본 없어 보이는 족보가 만들어진 이유는 신라 왕족과 귀족들이 혈통의 순수성을 지키려고 했기 때문이었다.&lt;br&gt;&lt;br&gt;진성여왕의 ‘업적’으로서 한국사 과목에서 우리가 암기해야 하는 것도 있기는 있다. 각간 위홍과 대구화상에게 명해 향가집 ‘삼대목’을 편찬한 일이다. 그것이 ‘연회를 즐기던 군주가 당연히 만들었어야 하는 책’으로 본 적이 있다. 신라 사람들이 연회에서 부르던 노래는 당연히 향가였고, 세월이 흐르면서 조금씩 가사가 바뀌어 무엇이 맞는지 알기 어려웠을 것이다. 말하자면 ‘표준 노래방 가사집’을 편찬한 것이 아니었을까. 물론 이 역시 왕가와 화랑을 칭송하는 노래를 실었을 것이므로 왕권 강화를 위한 편찬이라 보는 사람도 있다. 기승전 왕권인가 싶기도 하지만. 선덕여왕의 첨성대는 현존하는 반면 진성여왕의 삼대목은 전해지지 않는다. 이 또한 김만에게는 약점인 셈이다.&lt;br&gt;&lt;br&gt;진성여왕이 참혹한 최후를 맞은 것은 아니었다. &lt;br&gt;&lt;br&gt;재위 11년째인 897년 6월, 김만은 이런 선언을 했다. “근년 이래로 백성은 곤궁하고 도적들은 벌떼같이 일어나니, 이는 내가 덕이 없는 탓이다. 어진 이에게 자리를 비켜 왕위를 양보하고자 하는 나의 뜻은 결정됐다.” 그는 큰오빠 헌강왕의 서자인 요에게 왕위를 물려주니 그가 52대 효공왕이었다(여왕의 기대와는 달리 어진 임금은 아니었고 그의 죽음으로 내물왕계 김씨 왕통이 끝났다). 물러난 김만은 해인사에 있었을 것으로 추정되는 북궁으로 들어가 6개월 뒤 그곳에서 세상을 떠났다.&lt;br&gt;&lt;br&gt;자신의 정치적 실패를 인정하고 하야를 통해 책임을 지는 모습을 보인 것이다. 신라 천년 역사 56명의 임금 중에서 스스로 왕위에서 물러난 임금은, 자신의 퇴위가 곧 국가 멸망을 의미했던 마지막 임금 경순왕을 제외하면 진성여왕이 유일했다. 귀족의 반란 와중에 사망했던 선덕여왕에 비하면 나은 점도 있었다. 마지막 뒷모습만큼은 나름대로 깔끔했다.&lt;br&gt;&lt;br&gt;하지만 신라 말 진성여왕의 존재는 “암탉이 울면 집안이 망한다더니” 같은 통념을 자극한 것은 아닌가 생각한다. 성리학의 나라인 조선 시대에는 여왕을 상상할 수 없었겠지만, 상대적으로 여권(女權)이 강했던 고려 시대에 단 한 명의 여왕도 나오지 않았던 건, 진성여왕의 실패와 무관하지 않았다고 봐야 하지 않을까.&lt;br&gt;&lt;br&gt;진성여왕 김만은 난세에 권좌에 올라 나름대로 상황을 타개하려 애썼으나 끝내 실패한 불행한 군주였다. 역사에서 그런 군주는 너무나 많았다. 만약 그가 남성이었다면 음란과 실정을 꾸짖은 사관의 야멸찬 붓끝이 조금은 누그러지지 않았을까. 김만의 퇴위 이후 이 땅에 여성 군주나 국가 원수는 출현하지 않았다. 1116년 간의 기록을 깬 사람은 박근혜 전 대통령이었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/32CLAVFH7BGM7CGIOA3DF2F4KM.png?auth=6e4b976d4a4215f71ced8c21293b567427ee32c0a862b940911abd0788f32554&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
+        <media:description type="plain">그래픽=조선디자인랩 권혜인</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>평창서 “고교 기숙사 폭파” 협박 메일...경찰 수사 착수</title>
+      <link>https://www.chosun.com/national/2025/12/02/EKMLAAGPXRGINE2G6ENE5G4LSE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/02/EKMLAAGPXRGINE2G6ENE5G4LSE/</guid>
+      <dc:creator>김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 11:27:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AOCIYPVX2BNILJHRZ5J7HPLZ7I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월1일 서울 광진구 구의초등학교에서 경찰들이 폭파 협박 FAX 접수 및 폭발물 해체 등 상황을 가정한 대테러 훈련을 하고 있다. 기사 내용과는 무관함. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 평창 한 고등학교 기숙사를 폭파하겠다는 협박 메일이 접수돼 학생들이 대피하고, 경찰이 수색을 벌이는 소동이 빚어졌다.&lt;br&gt;&lt;br&gt;2일 강원 교육 당국과 경찰에 따르면 이날 오전 11시 55분쯤 강원경찰청은 “평창군에 있는 한 고등학교 기숙사를 폭파하겠다”는 협박 메일을 접수하고 평창경찰서 인력을 해당 학교에 급파했다. &lt;br&gt;&lt;br&gt;경찰은 남학생 기숙사에 머물던 학생 36명을 별관 체육관으로 대피시키고, 기숙사에서 수색 작업을 벌였다. 수색 결과 폭발물 등 특이사항은 발견되지 않았다.&lt;br&gt;&lt;br&gt;이날 학교는 기말시험 기간으로 오전에 시험을 마친 학생 대부분이 귀가한 상황이었다고 한다.&lt;br&gt;&lt;br&gt;학교와 강원특별자치도교육청은 학부모와 전교생 250여명에게 안내 문자를 발송하고, 다음날 등교 시간을 오전 11시 30분으로 조정하고 시험 시간도 오후로 늦추겠다고 공지한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 경찰특공대와 탐지견을 투입해 학교 본관과 여학생 기숙사 등을 대상으로 정밀 수색을 벌이고 있다. 경찰은 IP 추적 등을 통해 협박 메일 발송자를 추적하고 있다.&lt;br&gt;&lt;br&gt;강원에서는 지난달 9일에도 평창 한 중학교에서 폭발물을 설치하고 학생들을 살해하겠다는 글이 인터넷 커뮤니티에 올라와 경찰이 학교 현장에 출동한 바 있다. 당시 별다른 특이 사항은 발견되지 않았다. 경찰은 동일범 소행 가능성 등 두 사건의 연관성에 대해서도 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>영하 35도 ‘얼음 공기’ 남하, 전국 꽁꽁 언다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/02/MKP35ABZY5A2ZAHJNOG6KKBWP4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/02/MKP35ABZY5A2ZAHJNOG6KKBWP4/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 11:03:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3WMNZZGMZTCMDFGVTDOZLBMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 대전 서구 한 횡단보도에서 시민들이 두꺼운 외투로 중무장 한채 신호를 기다리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영하 35도의 ‘얼음 바람’이 불어오면서 3일 전국이 꽁꽁 얼 것으로 예보됐다. 찬 바람 때문에 서울의 출근길 체감 온도는 영하 12도까지 떨어질 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 2일 밤부터 3일 오전까지 우리나라 대기 상층으로 영하 35도의 북극 공기를 품은 절리저기압이 통과하고, 중국 북부 지방에서 대륙 고기압이 세력을 확장하며 차가운 북풍이 쏟아져 들어와 수은주를 크게 떨어뜨리겠다. 3일 아침 최저기온은 영하 11도에서 영하 1도, 낮 최고기온은 영하 5도에서 영상 7도로 예보됐다.&lt;br&gt;&lt;br&gt;2일 오후 9시 서울·경기 대부분 지역과 충북·충남·경북 곳곳에 한파주의보가 발효됐다. 한파주의보는 아침 최저기온이 전날보다 10도 이상 떨어져 영상 3도 이하이고, 평년 기온보다 3도 이상 낮을 때 내려진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTINTGHE2WINLDGAZDGYTDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 17일 오전 서울 종로구 광화문네거리에서 시민들이 출근길 발걸음을 서두르고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일부터 4일 아침까지 충남·전북·제주에는 눈이 내리겠다. 해기차(바닷물과 대기의 온도 차)가 클수록 눈구름대가 잘 발달하는데, 2일과 3일에는 해기차가 25도 이상으로 크게 벌어질 전망이다. 특히 충남과 호남 서해안에 3일 새벽에서 오전까지 많은 눈이 쏟아질 것으로 보인다. 이 기간 예상 적설량은 제주 산지 3~10㎝, 충남 서해안과 호남 서해안 3~8㎝, 전북·광주·전남 내륙 1~5㎝ 등이다.&lt;br&gt;&lt;br&gt;4일 아침에는 수은주가 더 떨어지면서 기온이 최저 영하 14도에서 0도, 최고 1~10도의 분포를 보이겠다. 다만 오전부터 비교적 따뜻한 서풍이 불어오면서 추위는 점차 누그러질 전망이다.&lt;br&gt;&lt;br&gt;4일 오후부터 밤까지 수도권과 강원·충청·전북·경북에 비나 눈이 내리겠다. 예상 적설량은 경기 동부와 강원 1~5㎝, 서울 등 나머지 지역은 1㎝ 안팎이다. 서울은 눈발이 흩날리듯 약하게 내릴 것으로 예상되는데, 올겨울 첫눈으로 기록될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아파트 주차장 1시간 막은 람보르기니…“관리소에 항의하려고”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/YV3UXX5EUVAPZHESDEVUCGMQBM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/YV3UXX5EUVAPZHESDEVUCGMQBM/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 10:27:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7KT3EINXZBURKJFRCGHSRXLCQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 수원 소재 아파트에서 주차장 입구를 막은 람보르기니 차량. /온라인 커뮤니티&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 아파트 주민이 자신의 람보르기니 차량으로 주차장 입구를 1시간가량 막아 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;2일 수원영통경찰서는 업무방해 및 일반교통방해 혐의로 람보르기니 차주 20대 A씨를 형사 입건할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 이날 오후 1시 30분쯤 경기 수원시 영통구 소재 700세대 규모의 아파트 주차장 입구에 자신의 람보르기니 차량을 1시간가량 주차해 차량 통행을 방해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 아파트 입주민인 A씨는 방문 차량 출입 등록에 관한 문제를 놓고 아파트 관리사무소 측과 다투다 화를 참지 못하고 항의 표시로 이 같은 일을 벌인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 경찰관의 연락을 받고서야 차량을 이동시켰다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 사건 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조타실에 없었다...무인도 좌초 여객선 선장 구속</title>
       <link>https://www.chosun.com/national/2025/12/02/5N4TRZX7TJF5ZP4KR663MQMQ6Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/02/5N4TRZX7TJF5ZP4KR663MQMQ6Y/</guid>
@@ -807,24 +883,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/46MH6MXYHRKUCWPDWM2WDLBNEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인터파크커머스 CI./인터파크커머스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 대규모 미정산 사태를 일으킨 큐텐그룹 계열사 인터파크커머스가 사실상 파산 수순을 밟게 됐다.&lt;br&gt;&lt;br&gt;서울회생법원 회생3부(재판장 정준영 법원장)는 1일 인터파크커머스의 회생절차 폐지 결정을 공고했다. 재판부는 “채무자는 채무자의 사업을 청산할 때의 가치가 사업을 계속할 때의 가치보다 크다는 것이 명백하게 밝혀졌다”며 “법원이 정한 기간인 지난 11월 13일까지 회생계획안 제출이 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;인터파크쇼핑과 AK몰 등을 운영하는 인터파크커머스는 티메프(티몬·위메프)와 마찬가지로 큐텐그룹 계열사다. 작년 7월쯤 티메프가 판매 대금을 제때 정산하지 못해 대규모 환불 대란 사태가 일어나자 그 여파로 인터파크커머스 판매자와 고객도 이탈해 자금난을 겪게 됐다. 이에 지난 8월 법원에 회생 개시와 자율 구조조정 프로그램(ARS)을 신청했고 11월 회생절차가 개시됐으나 인수자를 찾지 못한 것으로 전해졌다. 회생절차 폐지 결정이 내려지면 재판부는 직권으로 파산을 선고할 수 있다.&lt;br&gt;&lt;br&gt;앞서 법원은 지난달 10일 위메프에 파산을 선고했다. 다만 티몬은 최근 신선 식품 새벽 배송 전문 기업 오아시스에 인수된 후 채권 대부분을 변제하고 영업 재개를 준비하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>캄보디아 범죄조직에 줄 대포통장 만든 20대, 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/12/01/3NF4PNNYFREVRCVW6LX5LC5TMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/01/3NF4PNNYFREVRCVW6LX5LC5TMM/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 09:08:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4XN5MNYKEVFEFMAV4XYXT5YMYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청이 범죄 조직으로부터 압수한 대포통장 등 범행 도구. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유령 법인과 법인 대포 통장을 만들 명의자들을 모집하고 관리한 20대 남성에게 법원이 징역형을 선고했다. 그가 속한 조직은 캄보디아 현지 범죄 조직에 수천만 원을 받고 법인 대포 통장을 판매한 것으로 드러났다.&lt;br&gt;&lt;br&gt;부산지법 형사3단독 심재남 부장판사는 공전자기록 등 불실기재 등 혐의로 기소된 20대 남성 A씨에게 징역 1년 6개월을 선고했다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 9일부터 6월 10일까지 유령 법인 11개를 설립하게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨가 속한 B 조직은 서울, 부산, 대전, 충남 등 전국 각지에 조직원을 두고 유령 법인 15개를 설립했다. 이 조직은 텔레그램에 ‘고수익 알바를 구한다’는 글을 올려 명의자를 모집한 뒤 연락이 오면 “대전에 있는 파인애플 공장에서 6개월 동안 일하면 1억원을 지급하겠다”고 속여 법인 계좌 명의를 넘기게 했다.&lt;br&gt;&lt;br&gt;이들은 이렇게 만든 법인 계좌 15개 중 4개를 캄보디아 프놈펜과 시아누크빌에서 활동하는 범죄 조직에 수천만 원을 받고 판매했다고 한다. 범죄 조직으로 넘어간 계좌는 사기 피해자 68명에게서 14억2000만원 상당을 가로채는 데 사용됐다.&lt;br&gt;&lt;br&gt;B 조직에서 A씨는 법인 명의자들을 모집하고 관리하는 역할을 맡았다. 다만 그가 만든 유령 법인 계좌들은 현지 범죄 조직에 판매되지 않았던 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “이 사건 범행은 범죄에 이용할 목적으로 유령법인을 설립하는 등 죄질이 불량하다”면서 “다만 A씨가 과거 아무런 범죄 전력이 없는 초범인 점을 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;한편, 부산경찰청 형사기동대는 B 조직의 국내 총책과 A씨 등 8명을 검거했다. 도주한 피의자에 대해선 인터폴 적색 수배를 요청했다. 경찰 관계자는 “초기에 A씨를 검거해 11개 대포법인 계좌가 범죄 조직에 유통되는 것을 사전에 막을 수 있었다”면서 “나머지 피의자들에 대해서도 끝까지 추적해 검거하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구세계마스터즈육상 조직위, 크레텍·아진산업과 공식 후원 협약</title>
-      <link>https://www.chosun.com/national/regional/2025/12/01/JBZD72DQDZDKHJRLMYYANPL63A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/01/JBZD72DQDZDKHJRLMYYANPL63A/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 08:55:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5FLXSBRLUZCFZNDEKIBYLDJMCM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구세계마스터즈육상조직위원회, 1일 크레텍·아진산업 공식 후원 협약 체결./대구시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026 대구세계마스터즈육상경기대회(WMAC) 조직위원회는 1일 대구경북 지역 기업인 크레텍, 아진산업과 공식 후원 협약을 체결했다. &lt;br&gt;&lt;br&gt;이번 후원 협약으로 두 기업은 대회가 마무리되는 내년 9월 3일까지 공식 후원사 지위를 갖게 된다. 또 공식 후원사 명칭 사용권, 후원사 마케팅 지원, 개·폐회식 초청, 후원사 전용 공간 제공, 감사패 수여 등 다양한 예우를 받는다. &lt;br&gt;&lt;br&gt;세계마스터즈육상경기대회(WMAC)는 35세 이상 생활 체육인이 참가하는 유일한 세계 육상 경기 대회로, 경쟁보다는 교류와 화합을 추구하는 순수 글로벌 스포츠 축제이다. 2026년 8월 22일부터 9월 3일까지 13일간 대구스타디움 등 4개 경기장에서 열린다. 대회 참가 신청은 오는 23일부터 내년 6월 23일까지 대회 공식 홈페이지(www.wmac2026.com)를 통해 할 수 있다. &lt;br&gt;&lt;br&gt;최영수 크레텍 대표이사 회장은 “4년간 대구육상연맹 회장을 역임하는 등 대구 육상 발전에 많은 애정을 가져왔다”며 “대회가 성공적으로 개최될 수 있도록 세심한 관심과 지원을 아끼지 않겠다”고 말했다. 서중호 아진산업 대표이사는 “세계마스터즈육상경기대회에 공식 후원사로 함께할 수 있어 기쁘게 생각하며, 이번 대회를 통해 대구의 매력을 전 세계인에게 널리 알릴 수 있기를 기대한다”고 전했다. &lt;br&gt;&lt;br&gt;대회 조직위원장인 김정기 대구시장 권한대행(행정부시장)은 “어려운 경제·산업 환경 속에서도 지역 기업들이 대회 후원에 나서는 만큼 대회가 성공적으로 개최되고, 기업 브랜드 가치 향상에도 도움이 되도록 온 힘을 다하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>지방채로 사들인 5·18 사적지 옛 적십자병원…“매년 수천만원 이자만 내”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/01/VGUGWZ5MWBDRRBY73OY7GDCFHM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/VGUGWZ5MWBDRRBY73OY7GDCFHM/</guid>
@@ -855,24 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4PYZASMARDWDH5XZDD7DJXYKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;양준혁./양신수산&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로야구 선수 출신 양준혁이 대방어 사업을 뛰어든 근황을 전했다.&lt;br&gt;&lt;br&gt;지난달 30일 방송된 KBS2 예능 프로그램 ‘사장님 귀는 당나귀 귀’에는 경북 포항에서 3000평 규모의 방어 양식장과 낚시터, 카페 등을 운영 중인 양준혁이 출연했다.&lt;br&gt;&lt;br&gt;연 매출 30억이라고 밝힌 양준혁은 “줄돔, 광어, 우럭, 전복 등의 사업을 다양하게 해봤다. 선수시절 벌었던 돈을 다 투자했는데 폭염 등 여러 이유로 망하기 직전이었다”면서 “방어를 만난 이후 어려움을 극복하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;현재 약 1만2000마리의 방어를 키우고 있다는 그는 “내가 키우는 방어에는 절대 돈을 아끼지 않는다”며 하루 사료값만 약 200만원이 들어간다고 설명했다. 이어 “최근 트럭을 새로 샀고, 물차도 필요해 주문해 놨다. 트럭이 약 4000만원, 물차가 1억8000만원 정도”라고 덧붙였다.&lt;br&gt;&lt;br&gt;양준혁은 “아직도 살 게 너무 많다. 삽, 크레인, 지게차, 수중모터도 바꿔야 한다”며 “프리미엄 대방어로 해외에 수출하는 것이 목표다. 실제 싱가포르에서 제안이 들어온 상태다. 구룡포를 살려서 ‘양준혁 관광단지’로 만드는 것이 최종 목표”라고 밝혔다.&lt;br&gt;&lt;br&gt;양준혁은 1993년 삼성 라이온즈 1차 지명으로 프로에 입단해 데뷔 첫해 신인상을 받았고, 이후 KBO 리그를 대표하는 타자로 활약했다. 2010년 은퇴한 뒤에는 해설위원과 방송인으로 활동을 이어왔으며, 2021년 재즈 가수 박현선과 결혼해 지난해 12월 딸을 얻었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>청주 장기 실종 여성 계획범죄 정황 ‘속속’… 범인 치밀한 은폐에 초동수사도 미흡 </title>
-      <link>https://www.chosun.com/national/incident/2025/12/01/VFNKWH4SAFDCFOZFH5NCFRKVCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/01/VFNKWH4SAFDCFOZFH5NCFRKVCI/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:32:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4UWE2A4IGREB3MZ65AXXXBMFD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주에서 한 달 넘게 실종됐던 50대 여성 살해 사건과 관련해 피의자 김모(54)씨가 번호판을 직접 위조하고 차량과 시신을 여러 차례 옮기는 등 치밀하게 범행을 은폐한 사실이 확인됐다. 사건 초기 실종 신고가 접수됐음에도 경찰이 2주 동안 강제 수사에 나서지 않아 초동대응에 허점이 있다는 비판도 제기된다.&lt;br&gt;&lt;br&gt;경찰에 따르면 김씨는 지난달 14일 저녁 귀가하던 피해자 A씨를 자택 앞에서 기다리고 있다가 함께 차량에 탑승했고, 오후 9~11시 사이 진천군 문백면 노상 주차장에서 말다툼 끝에 흉기로 살해한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이후 피해자 차량을 몰아 자신의 진천 공장으로 이동해 업무용 차량으로 시신을 옮긴 뒤, 피해자 차량은 청주 오근장동 노상에 숨겨두고 새벽 5시쯤 귀가했다.&lt;br&gt;&lt;br&gt;다음 날인 15일에는 A씨 차량을 청주 내수읍 거래처 공장으로 다시 옮겼고, 같은 날 오후에는 음성군 거래처 폐수 처리 시설에 시신을 유기했다. &lt;br&gt;&lt;br&gt;김씨는 이 과정에서 방범용 카메라를 피해 이동했으며, 비슷한 시기에 피해자 차량 번호판을 위조 번호판으로 교체한 정황도 드러났다.&lt;br&gt;&lt;br&gt;피해자 가족은 범행 이틀 뒤인 16일 실종 신고를 하며 김씨를 의심한다는 진술까지 했지만, 경찰은 휴대전화 위치 추적과 생활 반응 확인 등 기본적인 실종 수사만 진행한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨 휴대전화 전원이 꺼져 있었고 금융 거래도 없었지만, 경찰은 강제 수사에 착수하지 않았다. 경찰이 사건을 강력 범죄로 전환한 것은 신고 14일 뒤인 10월 30일이었다.&lt;br&gt;&lt;br&gt;경찰은 11월 11일 디지털 포렌식 결과 등을 토대로 김씨를 유력한 용의자로 특정했으나, 조사 신분은 ‘참고인’에 그쳤다. 이후에도 수사는 속도를 내지 못했다. &lt;br&gt;&lt;br&gt;그러자 충북경찰청은 지난 21일 형사기동대 52명으로 구성된 전담 수사팀을 꾸려 대대적인 수사에 나섰다. 김씨는 수사망이 좁혀지자 지난달 24일 피해자 차량을 충주호에 유기했다. 그는 차량을 버린 뒤 자전거를 타고 시내로 이동해 택시로 귀가한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;사건이 급물살을 탄 것은 11월 26일 피의자 거래처 탐문과정에서다.&lt;br&gt;&lt;br&gt;경찰은 김씨의 거래처 탐문 과정에서 “김씨가 얼마 전 차량 한 대를 맡긴 적 있다”는 진술을 확보했고, , 방범용 카메라 분석을 통해 충주호 차량 유기 장면을 확인했다. &lt;br&gt;&lt;br&gt;또 피해자 지인이 같은 날 “A씨가 김씨에게 신변 위협을 느꼈다”고 말하는 녹음파일도 확보하면서 당일 오전 김씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;경찰은 “초기 정보가 부족해 강제 수사 판단까지 시간이 걸렸다”고 설명했지만, 내부에서도 “수사 지연은 아쉬운 대목”이라는 평가가 나온다. &lt;br&gt;&lt;br&gt;경찰 수사 내용이 수시로 외부로 알려지면서 피의자가 수사망을 피해 자칫 사건이 미궁에 빠질 수도 있었다는 지적도 나온다. &lt;br&gt;&lt;br&gt;경찰은 김씨의 범행이 계획적이고 잔혹한 점을 고려해 신상정보 공개 여부를 검토 중이며, 프로파일러를 투입해 심리 상태와 사이코패스 성향(PCL-R)을 분석하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“치안 정책 시민의 손으로”... 대구경찰, 7일까지 설문 조사</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/QX3QUB2YPNEDJJFGHQS7MDU6UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/QX3QUB2YPNEDJJFGHQS7MDU6UQ/</guid>
-      <dc:creator>대구=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 08:17:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CDFEIEVOODL66WIGO5HRR77BNY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청 청사/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구경찰청이 대구 시민을 대상으로 치안 정책 수립을 위한 온라인 설문 조사를 실시한다고 1일 밝혔다. 설문 조사 기간은 7일까지다. 시민들이 생활 속에서 느끼는 전반적 안전 수준, 범죄 예방·대응, 수사, 집회·시위, 교통안전, 사회적 약자 보호, 시민 소통 및 홍보 등 7개 분야에 대한 시민 의견과 요구 사항 등을 수렴한다.&lt;br&gt;&lt;br&gt;설문 조사는 대구경찰청 및 대구 지역 9개 구·군 경찰서 홈페이지에 접속하면 뜨는 ‘2026 대구경찰 치안 정책 설문 조사’ 안내문을 통해 참여할 수 있다. 길거리에 부착된 포스터나 현수막 등 홍보물에 표기된 QR코드를 통해서도 참여 가능하다. 설문 참여자 100명을 선정해 허브차·마사지건·아메리카노 등 소정의 선물도 제공한다.&lt;br&gt;&lt;br&gt;설문 조사 결과는 연령·성별 등 인구 특성에 따른 분석을 거친 뒤 대구경찰청의 내년 중점 치안 과제 선정에 반영될 예정이다.&lt;br&gt;&lt;br&gt;김병우 대구경찰청장은 “이번 설문은 시민들이 필요로 하는 치안 현장의 요구 사항을 파악해, 경찰과 시민이 함께 안전한 대구를 만들기 위한 조사”라며 “대구 시민들의 의견이 치안의 기준이 될 수 있도록 많은 참여를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 운세]  12월 2일 화요일 (음력 10월 13일 乙巳)</title>
       <link>https://www.chosun.com/national/national_general/2025/12/01/4WCNSROFGBFN7LOJPBKB7D64JA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/4WCNSROFGBFN7LOJPBKB7D64JA/</guid>
@@ -883,28 +923,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>‘장기금지령’ 떨어졌던 탑골공원에 ‘금주령’까지...“모든 시민 찾는 공간 만들겠다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/BWPMTVHLVFCTJLBCZNTKSTJETQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/BWPMTVHLVFCTJLBCZNTKSTJETQ/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:12:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D3I4KLFTMRG6PJGVFS4BD7JO24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 오후 2시쯤 서울 종로구 탑골공원 북문 인근 거리에서 노숙인들이 길바닥에 둘러 앉아 소주와 막걸리를 나눠 마시고 있다. /김명진 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오후 1시 30분쯤 서울 종로구 탑골공원. 성인 남녀 7~8명이 길바닥에 주저앉아 김치를 안주로 막걸리와 소주를 나눠 마시고 있었다. 탑골공원 북문 일대를 관리하는 종로구청 직원이 “그만 마시고 자리를 파해라”라고 했지만 술판은 1시간 넘게 이어졌다. 만취한 이들끼리 시비가 붙어 서로에게 “서울구치소에나 가라” “죽여버리겠다”고 소리치며 싸우는 모습도 보였다. 이곳을 지나던 조민영(24)씨는 “여기는 외국인들도 많이 지나다니는 곳인데 서울의 이런 모습을 보여주기가 부끄럽다”라고 했다.&lt;br&gt;&lt;br&gt;앞으로 탑골공원에서 이 같은 거리 음주가 사라질 것으로 보인다. 서울 종로구는 지난달 20일 탑골공원 안팎을 ‘금주구역’으로 지정하고 12월 1일부터 내년 3월 말까지 일대 노숙인 등을 상대로 금주 계도에 나선다고 밝혔다. 뚜껑이 열린 술병을 소지하는 것이 금지되고, 텀블러나 보온병에 술을 옮겨 담아 마셔도 단속 대상이 된다. 내년 4월 1일부터는 과태료 10만원도 물린다. 종로구는 탑골공원 북문 담벼락에 이런 내용을 알리는 플래카드를 붙이고 탑골공원에 상주하는 노숙인들을 대상으로 안내 팸플릿도 배부했다.&lt;br&gt;&lt;br&gt;그러나 금주 계도 첫날에도 탑골공원 북문 일대는 술 냄새와 취객이 쏟은 토사물 냄새로 진동했다. 만취해 길바닥에 누워 자는 노숙자도 여럿이었다. 손지연(54)씨는 “4월부터 과태료 내는 거면 그 때까지는 마셔도 되지 않느냐”고 했다. 정운철(58)씨는 “얌전히 먹을 테니까 앞으로도 술을 계속 마시게 해줬으면 좋겠다”라고 했다. 종로구청 소속 단속 요원인 황석진(74)씨는 “계도만 할 수 있어서 술판은 당분간 계속 깔릴 것 같다”며 “최근에는 서울역 노숙자까지 탑골로 ‘원정 음주’를 오기 시작해 걱정”이라고 했다.&lt;br&gt;&lt;br&gt;탑골공원은 ‘노인과 노숙자들 성지(聖地)’로 불린다. 이곳에 있는 무료급식소에서 밥을 타먹으려는 노인·노숙자가 많을 땐 하루 500명씩 모인다. 원래는 북문 담벼락을 따라 장기판 20여 개도 깔려 있었다. 장기를 두거나 구경하러 오는 노인으로 붐볐다. 그러나 대낮 장기판이 밤에는 노숙자 술판이 됐다. 이 때문에 주취 소란 신고도 잦았다. 경찰에 따르면 지난해 탑골공원 북문 근처에서 접수된 112 신고는 1470건이다. 하루 4건꼴이다. 종로구는 탑골공원에서 벌어지는 음주 소란을 통제하기 위해 종로경찰서 협조를 받아 지난 7월 장기판을 철거하기도 했다.&lt;br&gt;&lt;br&gt;정문헌 종로구청장은 “탑골공원을 금주·금연 구역으로 철저하게 관리해 모든 시민이 편안하게 찾는 열린 공간으로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>12 ·29 여객기 참사 유족들 “셀프조사는 국가폭력, 공청회 중단하라”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/GRJXYRFILJFGHAWWQMNIY6DTXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/GRJXYRFILJFGHAWWQMNIY6DTXA/</guid>
-      <dc:creator>진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:35:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UUUQ5OJREZPFXDCBDPZCY6MTIY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회가 1일 서울 용산구 전쟁기념관 앞에서 항공철도사고조사위원회(항철위)의 공청회 중단과 조사기구 독립화를 촉구하는 삭발식을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 여객기 참사 유가족들이 항공철도사고조사위(이하 항철위)의 공청회 중단과 사고 조사 절차의 투명한 공개를 요구하며 대통령실 앞에서 삭발식과 밤샘 농성에 나섰다.&lt;br&gt;&lt;br&gt;12·29 무안공항 제주항공 여객기 참사 유가족협의회(이하 유가족협의회)는 1일 서울 용산 대통령실 앞에서 기자회견을 열고 “국토교통부 소속 항철위의 셀프 조사를 즉각 중단하고, 항철위는 국토부로부터 독립된 이후 재조사를 하라”고 밝혔다. 유가족 5명은 삭발식도 했다.&lt;br&gt;&lt;br&gt;국토부 항철위는 작년 12월 29일 승객 등 179명이 사망한 제주항공 여객기 참사 원인을 조사 중이다. 항철위는 내달 4~5일 서울 글로벌센터 국제회의장에서 중간 조사 결과 발표 성격의 공청회도 연다.&lt;br&gt;&lt;br&gt;하지만 유가족협의회는 “국토교통부는 이 참사의 가장 큰 책임자일 가능성이 높다. 항철위 조사관 역시 국토부 장관이 임명하는 공무원들로 독립적인 임무 수행이 사실상 불가능하다”며 항철위 조사를 불신한다.&lt;br&gt;&lt;br&gt;이 때문에 유가족들은 항철위가 국토부에서 독립한 뒤 참사 원인을 전면 재조사할 것을 요구하고 있다. 유가족의 바람대로 항철위를 국토부에서 분리하는 법률 개정안 심사도 진행 중이다.&lt;br&gt;&lt;br&gt;유가족협의회는 “4일 국회 국토교통위원회 국토법안심사소위원회에서 항철위를 국무총리실로 이관하는 ‘항공철도사고조사에관한법률’ 개정안이 의결될 예정이기 때문에 항철위와 국토부는 공청회를 중단해야 한다”고 지적했다.&lt;br&gt;&lt;br&gt;유가족협의회는 이날부터 항철위의 공청회가 연기될 때까지 대통령실 앞에서 노숙 농성을 이어간다.&lt;br&gt;&lt;br&gt;김유진 유가족협의회 대표는 “항철위는 1년 동안 우리의 정보공개 요구에 단 한 번도 성실히 답하지 않았다. 진실의 문을 굳게 잠근 채 시간이 가기만 기다렸다”며 “공청회, 중간 발표 등 모든 절차는 항철위 독립 후에 공정하게 진행하라”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/UUUQ5OJREZPFXDCBDPZCY6MTIY.JPG?auth=294ab285950de993466cd6fdc9b4fc03454f22284392c037edda7f2778c35be1&amp;smart=true&amp;width=5494&amp;height=3253" type="image/jpeg" height="3253" width="5494">
-        <media:description type="plain">12·29 무안공항 제주항공 여객기 참사 유가족협의회가 1일 서울 용산구 전쟁기념관 앞에서 항공철도사고조사위원회(항철위)의 공청회 중단과 조사기구 독립화를 촉구하는 삭발식을 하고 있다. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 허경 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>내란 특검, 尹 추가 구속영장 발부 요청, 12월 23일 심문 예정</title>
       <link>https://www.chosun.com/national/court_law/2025/12/01/MRPRJ7RPENARLNRKA6TODNYCBQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/MRPRJ7RPENARLNRKA6TODNYCBQ/</guid>
@@ -913,28 +931,6 @@
       <pubDate>Mon, 01 Dec 2025 07:37:15 +0000</pubDate>
       <content:encoded>‘평양 무인기 침투’ 등 외환 관련 의혹으로 추가 기소된 윤석열 전 대통령이 다시 구속 갈림길에 놓였다. 조은석 내란 특검팀이 법원에 추가 구속영장 발부를 요청하면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K55BPBYVJJH67NPI6OX7WRVFYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 노동신문 뉴스1
 작년 10월 북한 국방성이 공개한 ‘평양 침투 무인기’의 잔해.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사36부(재판장 이정엽)는 1일 윤 전 대통령, 김용현 전 국방부 장관, 여인형 전 방첩사령관의 일반이적 사건 공판 준비 기일을 열고 “내란 특검팀 요청에 따라 오는 23일 오후 2시 30분 구속에 관한 의견을 듣는 심문 기일을 진행하겠다”고 밝혔다. 윤 전 대통령의 구속 만료 시점이 내년 1월 18일로 한 달 앞으로 다가오자 특검팀이 추가 영장 청구에 나선 것이다.&lt;br&gt;&lt;br&gt;공범으로 기소된 김 전 장관의 구속 심문은 오는 12일, 여 전 사령관은 16일에 각각 열린다. 구속 심문은 비공개로 진행되며 중계도 허용되지 않는다.&lt;br&gt;&lt;br&gt;이번 일반이적 사건 첫 공판 기일은 내년 1월 12일 오전 10시 15분에 열린다. 재판부는 2월부터는 주 3회, 3월부터는 주 4회까지 재판을 진행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;재판은 상당 부분 비공개로 진행된다. 재판부는 “이 사건을 심리하는 데 다수의 국가 기밀이 노출될 것으로 예상된다”며 재판 공개 범위를 제한했다. 첫 공판에서는 피고인 인정신문과 국민참여재판 희망 여부만 공개하고, 이후 공판부터는 재판부가 당일 절차를 고지한 이후 비공개로 전환된다.&lt;br&gt;&lt;br&gt;피고인 측은 공소장 비닉 처리 범위가 넓고 촘촘한 재판 일정에 이의를 제기했다. 윤 전 대통령 측은 “검사는 내용과 기록을 모두 열람했는데 변호인에게는 비닉 처리해 제공하는 것은 방어권이 보장될 수 없는 상황”이라고 했다. 이어 “윤 전 대통령은 현재도 주 3회 재판을 하고 있는데, 주 4회까지 하면 방어를 할 수 없게 된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “내란 사건은 1월 초, 체포 방해 사건은 2월이면 종결된다”며 “추가 기소로 인해 재판 일정이 늘어나는 부분은 다른 재판부와 협의하겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 등은 계엄 선포 명분을 쌓기 위해 지난해 10~11월 평양 등에 무인기를 10여 차례 투입해 남북 간 무력 충돌 위험을 유도한 혐의를 받는다. 단순 군사작전 목적을 넘어 군사적으로 해를 끼쳤다는 것이 특검팀 판단이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쿠팡에 첫 단체 손배소 “20만원씩 배상하라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/01/H2NW3DKFPVHMXO5LKISTPGL5BQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/H2NW3DKFPVHMXO5LKISTPGL5BQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:43:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DSYJVHA2TAZTEGI3GGMLCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 서울 송파구에 위치한 쿠팡 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡 개인정보 유출 사태 피해자들이 첫 손해배상 청구 소송에 나섰다. 쿠팡 이용자 14명은 1일 쿠팡을 상대로 20만원의 위자료를 청구하는 소장을 서울중앙지법에 제출했다. 지난달 29일 대규모 유출 사실이 알려진 지 사흘 만이다. 이번 소송을 대리하는 법무법인 청은 “유출 범위가 확정될 때까지 기다렸다가는 피해 구제가 지연될 수 있어서 선제적으로 소송을 제기했다”고 밝혔다.&lt;br&gt;&lt;br&gt;원고들은 소장에서 “집 주소와 구매 이력이 유출되면서 이용자의 사생활 침해와 보이스피싱 등 2차 피해 가능성이 우려된다”고 주장했다. 소장에는 쿠팡의 개인정보 보호 관리 조치가 미흡했다는 점도 담겼다.&lt;br&gt;&lt;br&gt;이와 관련한 손해배상 소송은 더 확산할 조짐이다. 소송에 참여할 쿠팡 이용자를 모집하는 온라인 카페의 회원수가 급증하고 있고, 쿠팡에서 탈퇴했다는 인증을 하는 시민들도 늘고 있다. 김경호 법률사무소 호인 변호사도 피해자들을 모아 오는 24일 1인당 10만원의 위자료를 청구하는 손해배상 소송을 제기하겠다고 예고했다. 법조계에서는 이번에 유출된 고객 계정이 3370만개에 달하는 만큼, 개인정보 유출 사태와 관련한 국내 단체 소송 가운데 최대 규모가 될 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/76YX55YJTJANHGDTTUPNGXJDEU.jpg?auth=a78a8bfe5081984f81060568bb68abd590d4f5bf1f350bd8803bb555f6129b0c&amp;smart=true&amp;width=707&amp;height=397" type="image/jpeg" height="397" width="707">
-        <media:description type="plain">사회적 논란 지속되는 쿠팡</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
-      <title>金총리 “서울시장 선거 여론조사에서 이름 빼달라”</title>
-      <link>https://www.chosun.com/politics/goverment/2025/12/01/PPJX4MLLKVDGNKK4IMIOT4BNPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/12/01/PPJX4MLLKVDGNKK4IMIOT4BNPM/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:49:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7DZMO7TTNI6FD2BKM4YE7D4YQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 1일 오후 서울 여의도 중소기업중앙회에서 열린 중소기업 규제 합리화 현장 대화에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국무총리실이 김민석 국무총리를 내년 서울시장 선거 여론조사 대상에서 제외해 달라고 1일 요청했다.&lt;br&gt;&lt;br&gt;총리실은 이날 각 언론사와 여론조사 업체에 공문을 보내 “김 총리는 민생, 경제, 국민 안전 등 주요 국정 현안 대응에 전념하고 있다”며 “현 시점에 총리가 서울시장 선거 여론조사에 포함되는 것은 적절치 않다고 판단된다”고 했다. 그러면서 “서울시장 선거 관련 여론조사의 조사 대상에서 김 총리를 제외해 주실 것을 공식 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;총리실 관계자는 “김 총리가 서울시장 선거에 출마할 생각이 없다고 여러 차례 밝혔는데도 김 총리를 후보로 넣은 여론조사가 계속 이뤄지고 있다”며, 이번 공문 발송과 관련해 김 총리의 지시가 있었다고 설명했다.&lt;br&gt;&lt;br&gt;김 총리의 지시는 이날 오전 김어준씨가 운영하는 여론조사 업체 ‘여론조사꽃’이 김 총리와 오세훈 서울시장의 내년 서울시장 선거 가상 대결에서 김 총리가 앞선다는 조사 결과를 내놓은 직후 나왔다. 김 총리 지지율은 47.2%로, 오 시장 34.9%를 12.3%포인트 앞섰다. ‘투표할 인물이 없다’는 응답자가 14.9%, 모름·무응답은 1.9%, 그 밖의 인물은 1.1%였다. 여론조사꽃은 지난달 24일부터 27일까지 서울에 사는 18세 이상 3012명을 대상으로 가상 번호를 활용한 무선 전화 인터뷰 방식으로 조사를 시행했고, 응답률은 10.5%, 표본 오차는 95% 신뢰 수준에서 ±2.2%포인트였다고 주장했다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참고하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>매서운 초겨울 추위...내일 서울 출근길 체감기온 영하 5도</title>
