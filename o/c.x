@@ -13,6 +13,136 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>세계가 인정한 안동소주… 월영안동소주, 브뤼셀 국제주류품평회서 금상</title>
+      <link>https://www.chosun.com/national/2025/12/02/NYCONYU6IJDUXON4S5SGQ7X45M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/02/NYCONYU6IJDUXON4S5SGQ7X45M/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 03:14:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UD43EB2A6NDCNODTDID7T4NX2A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025 브뤼셀 국제주류품평회에서 금상을 수상한 월영안동소주. /회곡양조장.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 안동 소주가 국제주류품평회에서 금·은상을 잇따라 수상했다. &lt;br&gt;&lt;br&gt;회곡양조장 측은 최근 브뤼셀 국제주류품평회에서 월영안동소주가 금상(Gold Medal)을 수상했다고 2일 밝혔다. &lt;br&gt;&lt;br&gt;또 안동 지역 증류주인 민속주 안동소주, 안동 진맥소주, 진맥 소주 오크도 은상을 수상했다.&lt;br&gt;&lt;br&gt;브뤼셀 국제주류품평회는 전 세계 증류주를 맛·향·품질 기준으로 평가하는 국제대회다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LRJPO6ETPRGINNAUTRD3J6MVHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;경북 안동 회곡양조장의 '월영안동소주'가 브뤼셀 국제주류품평회)에서 금상 수상 인증서. /회곡양조장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;월영안동소주는 발효용 누룩을 만드는 입국(粒麴) 시설, 살균 시설, 저온 장고 등 체계적 숙성 시스템을 기반으로 장기간 숙성을 거쳐 완성되는 점에서 높은 평가를 받았다. &lt;br&gt;&lt;br&gt;100% 우리 쌀로 빚은 월영안동소주는 숙성 탱크를 여러 차례 옮겨가며 3년 이상 공을 들여야 완성된다고 한다. 43도 독주이지만 부드러운 목 넘김이 특징이다. 은은한 꽃·과일 향의 풍미에 뒷맛도 깔끔하다는 평가를 받고 있다. 염화시중(拈華示衆). 연꽃·연잎 문양을 모티브로 독자 개발한 도자기 병과 잔은 전통미와 고급스러움을 더해 브랜드 가치를 높였다.&lt;br&gt;&lt;br&gt;회곡양조장은 1902년 낙동강 나룻배가 오가는 회곡리 마을 어귀 주막에서 출발했다. 현재 권용복(56)씨가 4대째 전통을 이어오고 있다. &lt;br&gt;&lt;br&gt;권 대표는 “증류주의 맛을 결정짓는 숙성은 기술만으로 되는 것이 아니라 정성이 쌓여야 비로소 깊은 맛이 나온다”며 “이번 수상은 오랜 시간 지켜온 안동소주의 전통과 숙성 기술을 세계가 인정해 준 의미 있는 결과”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“유산 나눠줘” 요구 무시하자… 50㎝ 정글도 들고 누나 찾아간 막내</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/YXUAL3CVZNBPBOSD4BARBRRV4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/YXUAL3CVZNBPBOSD4BARBRRV4M/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 23:40:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6Z2CPKMHZF7JCPKBDGRQY6BL4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유산을 더 나눠 달라는 요구를 거절당하자 흉기를 들고 누나를 찾아간 50대 남성이 재판에 넘겨져 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;2일 법조계에 따르면 인천지법 형사9단독 정제민 판사는 살인예비와 공공장소 흉기 소지 혐의로 기소된 A(52)씨에게 징역 2년에 집행유예 3년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 18일 오후 인천의 한 아파트에서 누나 B(63)씨를 살해하려고 흉기를 미리 준비한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;이번 사건은 유산을 둘러싼 다툼에서 비롯됐다. 네 남매 중 막내인 A씨는 2017년 아버지가 사망하자 토지와 아파트를 다른 남매들과 같은 비율로 나눠 상속받았다. 그러나 A씨는 이후 아내가 보이스피싱 사기를 당해 생계가 어려워졌고, B씨와 매형 등에게 아파트 매도 대금을 나눠 달라고 요구했다.&lt;br&gt;&lt;br&gt;이 같은 요구에 누나가 응하지 않자 A씨는 협박성 발언까지 했다. “죽여 버릴 거야” “아파트 앞에서 기다리고 있겠다” 등의 음성 메시지를 여러 차례 남겼다.&lt;br&gt;&lt;br&gt;범행 당일에는 청테이프를 감고 길이 50㎝짜리 정글도를 든 채 B씨가 거주하는 아파트 공동 현관 앞에서 기다리기도 했다. 결국 A씨는 이날 신고를 받고 출동한 경찰에 체포됐다.&lt;br&gt;&lt;br&gt;정 판사는 “피고인은 피해자에 대한 살인 예비 범행을 저질러 죄책이 가볍지 않다”며 “폭력 범죄로 처벌받은 전력도 있다”고 했다. 다만 “피고인이 범행을 자백하고 잘못을 뉘우치고 있으며 피해자와도 합의했다”며 “생계가 어려운 상황에서 형제자매에게 도움을 청했다가 거절당하자 화가 나 범행한 것으로, 경위에 다소 참작할 사정이 있어 보인다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사람 소행 의심”… 대학 화단서 거꾸로 묻힌 고양이 사체 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/PX4XYDSNWRDKTOAQ3TNR7ACMOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/PX4XYDSNWRDKTOAQ3TNR7ACMOM/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 01 Dec 2025 23:57:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YAXUGJLVSVD23G2V7ME27NMZHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;죽은 채 발견된 고양이. /동물학대방지협회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 대학 캠퍼스 화단에서 골절된 고양이가 땅에 거꾸로 반만 묻힌 채 죽은 모습으로 발견돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;2일 부산 영도경찰서에 따르면, 영도구의 한 대학교 내 화단에 고양이 사체가 절반쯤 파묻혀 있다는 신고가 지난달 22일 오후 1시 20분쯤 접수됐다.&lt;br&gt;&lt;br&gt;발견 당시 고양이는 다리 하나가 부러진 상태였으며, 입안에는 피가 가득했던 것으로 알려졌다. 동물 단체 동물학대방지협회는 인스타그램을 통해 “(발견 당시) 고양이 입안은 피가 가득했고 다리 하나가 부러진 것으로 보였다”며 “단지 죽은 사체가 아니라 머리부터 몸통 반만 묻어 둔 것으로 보아 사람의 소행이 아닐까 강력한 의심이 든다”고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 동물 학대 범행 가능성을 두고 감식을 진행하고 있다. 경찰은 “주변 방범 카메라(CCTV) 영상 분석 등 수사를 진행하고 있다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검, 내란특검 압수수색…박성재-김건희 텔레그램 확보 목적</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/KKMXX6MB7BBIFE2GN67MAXLS4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/KKMXX6MB7BBIFE2GN67MAXLS4U/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 01:34:15 +0000</pubDate>
+      <content:encoded>김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 2일 조은석 내란 특검에 대한 압수 수색에 나섰다. 내란 특검이 가지고 있는 박성재 전 법무부 장관과 김 여사의 텔레그램 대화 내용 등 자료를 확보하겠다는 목적이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDGMRXGE4TKNBSHE3GEZRZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 법무부 장관이 지난해 10월 서울 여의도 국회 법제사법위원회에서 열린 법무부 국정감사에서 김건희 여사에 대한 질의를 받던 도중 굳은 표정을 보이고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 특검은 “2일 오전부터 내란 특검 등에 자료 확보를 위한 압수 수색을 진행하고 있다”고 밝혔다. 앞서 내란 특검은 박 전 장관과 김 여사의 휴대전화 등을 압수 수색해 통화 내역, 메시지 등을 확보했다. 이를 통해 특검은 박 전 장관이 김 여사 전화번호를 ‘김안방’이라는 이름으로 저장해둔 사실, 작년 5월 이원석 당시 검찰총장이 김 여사의 ‘명품백 수수’ 의혹을 수사할 전담팀 구성을 지시한 후 두 사람이 1시간 15분가량 통화한 사실 등을 확인했다. &lt;br&gt;&lt;br&gt;김 여사가 수사 무마를 청탁한 정황도 발견됐다. 당시 김 여사는 박 전 장관에게 “김혜경·김정숙 여사 수사는 왜 잘 진행이 안 되냐” “내 수사는 어떻게 되고 있나”라는 장문의 텔레그램 메시지를 보낸 것으로 알려졌다. 이후 법무부는 김 여사 수사 지휘 라인을 전원 교체했다. &lt;br&gt;&lt;br&gt;내란 특검은 이런 정황을 토대로 윤석열 전 대통령 부부와 박 전 장관이 ‘정치 공동체’로 긴밀하게 연결돼 있었다고 의심하고 있다. 이와 관련해 박 전 장관은 김 여사에게 청탁을 받고 검찰에 영향력을 행사한 혐의(청탁금지법 위반)로 내란 특검 수사를 받고 있다. 지난달 24일 내란 특검은 김건희 특검과 해병 특검을 압수 수색해 박 전 장관의 청탁 의혹과 관련한 자료를 확보했다.&lt;br&gt;&lt;br&gt;내란 특검은 윤 전 대통령이 비상계엄을 선포한 동기에 김 여사의 사법 리스크가 있었을 가능성도 살펴보고 있다. 윤 전 대통령의 계엄 선포 동기는 아직 구체적으로 드러나지 않은 상태다.&lt;br&gt;&lt;br&gt;이같은 내용을 언론 보도를 통해 확인한 김건희 특검도 해당 의혹을 수사하기로 했다. 특검 관계자는 지난달 28일 “필요한 절차를 신속하게 진행해 관련 의혹을 밝힐 계획”이라고 했다. 김건희 특검은 김 여사의 청탁 정황이 수사 대상을 정한 특검법 제2조 제1항 중 12·14·15호에 해당한다고 보고 있다. 12호는 김 여사가 윤 전 대통령의 지위나 대통령실 자원을 이용해 사적 이익을 추구했다는 의혹이다. 14호는 공무원이 수사를 고의로 지연·은폐하거나 증거를 인멸했다는 의혹, 15호는 윤 전 대통령이나 대통령실이 수사나 조사를 방해했다는 의혹이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘양평 고속도로 종점 변경’ 관여 의혹 국토부 공무원 특검 소환</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/2AT4W4EDMZH2TKTB3RVNVHRWTY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/2AT4W4EDMZH2TKTB3RVNVHRWTY/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 02:13:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDAOBYGE3WGMRUGAZDCZJQG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사팀이 서울~양평고속도로 노선 변경 의혹과 관련해 지난 7월 14일 국토교통부를 압수 수색하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀은 서울~양평 고속도로 노선 변경 의혹과 관련해 국토교통부 과장 김모씨를 2일 오전 10시부터 피의자로 불러 조사하고 있다고 밝혔다. &lt;br&gt;&lt;br&gt;김씨는 2022년 윤석열 전 대통령 당선 후 출범한 대통령직인수위원회 파견 근무를 했다. 특검은 2022년 3월 인수위가 김씨를 통해 양평 고속도로를 담당하는 국토부 직원들에게 “김 여사 일가 부동산이 포함된 곳으로 종점을 변경하라”고 지시한 것은 아닌지 수사 중이다. 양평 고속도로 종점은 당초 경기 양평군 양서면에서 윤석열 정부 출범 후 김 여사 일가 부동산이 있는 강상면으로 변경됐다.&lt;br&gt;&lt;br&gt;특검은 지난 10월 16일 김씨 주거지와 사무실 등을 압수 수색했다. 김씨는 양평 고속도로 사업을 담당했던 김모 서기관 등에게 전화하지도 않았고, 종점 변경에 관여하지도 않았다는 입장인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무인도 좌초 여객선 선장 영장실질심사 출석… 왜 조타실 없었나 묻자 “죄송하다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/NXUGLUPLX5HXRJ35ULKO76NSXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/NXUGLUPLX5HXRJ35ULKO76NSXQ/</guid>
+      <dc:creator>목포=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 02:17:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CMK5DNC4FAIRFJKB6IKRNU5FY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;승객 등 267명을 태우고 무인도에 좌초한 '퀸제누비아 2호' 여객선 선장 A(60대)씨가 2일 광주지법 목포지원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 뒤 법정을 떠나고 있다. /진창일 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객 등 267명을 태우고 무인도에 좌초한 여객선 ‘퀸제누비아 2호’ 선장이 구속 기로에 섰다.&lt;br&gt;&lt;br&gt;광주지법 목포지원은 2일 중과실치상 및 선원법 위반 혐의를 받는 퀸제누비아 2호 선장 A(60대)씨에 대한 구속 전 피의자 심문(영장실질심사)을 했다.&lt;br&gt;&lt;br&gt;퀸제누비아 2호는 지난달 19일 오후 8시 17분쯤 전남 신안군 장산도 인근 무인도(족도)에 좌초했다. 이 사고로 병원 치료를 받은 부상자는 78명이다.&lt;br&gt;&lt;br&gt;해경 수사 결과 여객선은 당시 조타실에서 근무 중이던 일등항해사 B(40대)씨와 인도네시아 국적 조타수 C(40대)씨가 자동 항법장치를 족도 쪽으로 설정하고 운항하다 좌초한 것으로 드러났다.&lt;br&gt;&lt;br&gt;B씨는 휴대전화를 보다 변침 지점을 놓쳐 사고를 냈다고 한다. B씨와 C씨는 중과실치상 혐의로 지난달 22일 구속됐다.&lt;br&gt;&lt;br&gt;해경은 여객선 책임자인 선장 A씨에게도 과실이 있다고 보고 중과실치상·선원법 위반 혐의로 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;선원법 9조는 ‘항구를 출입할 때, 좁은 수로를 지나갈 때 등에 선장이 선박의 조종을 직접 지휘해야 한다’고 규정하고 있다. 좌초 사고가 난 해역은 바위섬과 암초가 많고 뱃길이 좁은 ‘협수로(狹水路)’다.&lt;br&gt;&lt;br&gt;A씨는 사고 당일 오후 4시 45분쯤 여객선이 제주에서 출항할 때만 조타실에 나왔던 것으로 조사됐다. 그는 작년 2월 28일부터 지난달 19일 좌초 사고가 날 때까지 1000여 차례 사고 해역을 오가는 동안 조타실에서 근무하지 않았다고 한다. &lt;br&gt;&lt;br&gt;A씨는 영장실질심사 뒤 “왜 조타실에서 근무하지 않았냐” “승객들에게 미안하지 않느냐”는 취재진 질문에 “죄송하다”고 답한 뒤 법정을 떠났다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7CMK5DNC4FAIRFJKB6IKRNU5FY.jpg?auth=ee5459309895824b5a1782e07c30c68d52d0a4dd56f9cea04366d0445e3dfecb&amp;smart=true&amp;width=4000&amp;height=3000" type="image/jpeg" height="3000" width="4000">
+        <media:description type="plain">승객 등 267명을 태우고 무인도에 좌초한 '퀸제누비아 2호' 여객선 선장 A(60대)씨가 2일 광주지법 목포지원에서 열린 구속 전 피의자 심문(영장실질심사)을 마친 뒤 법정을 떠나고 있다. /진창일 기자</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>청년 백수 10명 중 3명 “취업 대신 창업할래요”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/ANG4XEQFTBGDLGHQXPKQ4KSYMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/ANG4XEQFTBGDLGHQXPKQ4KSYMI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 00:44:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQWM4JSNDVKKZP3YPQCEW36ERM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;취업준비생들이 취업상담을 하고 있다/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미취업 청년 10명 중 3명은 창업 의향이 높지만, 창업 환경에 대한 부정적 인식과 실패에 대한 부담 때문에 실제 창업으로 이어지지 못하고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;한국경제인협회(한경협)는 시장조사 전문 기관 모노리서치에 의뢰해 전국 미취업 청년 1002명을 대상으로 실시한 ‘미취업 청년의 창업 실태 및 촉진 요인 조사’ 결과를 2일 발표했다.&lt;br&gt;&lt;br&gt;조사에 따르면, 미취업 청년 가운데 향후 창업 의향이 ‘높다’는 응답은 27.6%였다. ‘보통’(37.8%)까지 포함하면 65.4%가 “창업 가능성을 배제하지 않는다”고 답했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W36OHTLWW5B2ZBBEUG2FOKGAME.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;창업 의향이 높다고 밝힌 응답자들이 꼽은 이유로는 ▲자신의 아이디어 실현(39.1%) ▲소득 증가 가능성(35.1%) 등 적극적 동기가 많았다. ‘취업이 어려워 어쩔 수 없이 창업에 관심을 갖는다’는 응답은 17.8%에 그쳤다. 이들이 관심을 두고 있는 업종은 외식·소매업 등 일반 서비스업이 55.4%로 가장 많았고, 지식 서비스업(22.1%), 인공지능(AI) 등 IT 기반 산업(9.1%)이 뒤를 이었다.&lt;br&gt;&lt;br&gt;다만 창업 환경에 대한 인식은 ‘부정적’이라는 응답이 50.8%로, ‘긍정적’(17.2%)의 약 3배였다. 창업에 대한 호감도를 묻는 질문에서 ‘높음’ 응답은 39.4%, ‘보통’은 43.2%였으나, 실제 창업 의향은 ‘높음’ 27.6%, ‘보통’ 37.8%로 집계됐다.&lt;br&gt;&lt;br&gt;시행 중인 창업 지원 정책 중에서는 ‘자금 및 인력 지원’이 창업 의향을 가장 크게 끌어올리는 요인으로 조사됐다. 해당 정책을 강화할 경우 창업 의향이 높아진다는 응답은 66.6%로, 모든 항목 중 가장 높은 효과를 보였다. 이어 ▲글로벌 진출 지원(55.6%) ▲창업 공간 지원(54.5%) ▲창업 관련 행사(53.3%) ▲창업 교육(52.3%) 순으로 의향 제고 효과가 큰 것으로 나타났다.&lt;br&gt;&lt;br&gt;AI 교육 확대 시 창업 의향을 묻는 말에는 전체 응답자의 과반(50.4%)이 창업 의향이 높아진다고 답했다. 다만 응답자 중 취업이나 창업을 위한 AI 활용 교육을 전혀 경험하지 않은 비율은 53.6%에 달했다.&lt;br&gt;&lt;br&gt;실패를 포용하는 기업가 정신 문화도 중요한 변수로 꼽혔다. ‘실패에 관대한 기업가 정신 문화가 확산될 경우 본인의 창업 의향이 높아질 것 같다’는 응답은 48.3%로, ‘그렇지 않다’(12.2%)의 약 4배였다. 실제로 창업을 고려하지 않는 이유를 묻는 질문에는 응답자의 절반이 ‘실패 리스크 부담’(50.0%)을 선택했다.&lt;br&gt;&lt;br&gt;정철 한경협 연구총괄대표 겸 기업가정신발전소장은 “한국 경제가 처한 저성장·저활력 위기를 돌파할 방법은 기업가 정신 확산”이라며 “특히 청년들이 실패를 두려워하지 않고 마음껏 도전할 수 있는 환경을 조성하기 위해 계속해서 힘쓸 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성남시가 가압류 신청한 대장동 일당 재산 규모, ‘5673억원’</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/DGLZCSD32NGLRLSCRWDGPPIEGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/DGLZCSD32NGLRLSCRWDGPPIEGA/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 00:33:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RKQ6DHYSUJC5JETIW4RZ2PYOLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대장동 일당 김만배, 남욱, 정영학./뉴스1· 장련성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성남시는 대장동 개발 비리 일당의 범죄수익 환수를 위해 이들에 대한 재산 가압류 신청을 법원에 냈으며, 규모는 5673억원에 달한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;이날 성남시에 따르면 성남도시개발공사는 지난 1일 화천대유자산관리 대주주 김만배와 남욱, 정영학 등 대장동 개발업자들의 부동산, 예금 등을 대상으로 모두 13건의 가압류 신청을 냈다. 성남시는 “이번 조치는 이들의 재산이 재판 과정에서 임의로 처분‧은닉되는 것을 사전에 차단해, 최종 승소 시 시민 피해를 실질적으로 회복하기 위한 선제적 대응”이라고 했다.&lt;br&gt;&lt;br&gt;대상 금액은 총 5673억원 규모로, 김만배 4000억원, 남욱 820억원, 정영학 646억9000만원, 유동규 6억7500만원 등이다. 성남시 관계자는 “예금채권, 부동산, 신탁수익권, 손해배상채권 등 다양한 형태의 범죄수익을 포괄했다”며 “대장동 비리로 형성된 자산 전반을 동결하려는 취지”라고 했다.&lt;br&gt;&lt;br&gt;특히 이번 가압류는 검찰이 포기한 대장동 일당의 범죄 수익 전반(택지 분양 배당금 4054억원, 아파트 등 분양 수익 3690억원, 자산 관리 위탁 수수료 140억원 등)에 대한 환수를 목표로 진행했다고 성남시는 밝혔다.&lt;br&gt;&lt;br&gt;성남시는 ‘부패재산의 몰수 및 회복에 관한 특례법’에 따른 ‘범죄피해재산 환부 청구’도 별도로 진행하고 있다. 성남시는 지난달 28일, 대장동 1심 재판부가 성남도시개발공사의 손해액으로 인정한 1128억원 전액에 대해 검찰에 환부 청구서를 접수했다고 밝혔다.&lt;br&gt;&lt;br&gt;환부 청구는 부패 범죄로 재산상 손해를 입은 대상이 재판에서 몰수·추징 대상으로 인정된 범죄 수익을 실제 피해자인 자신에게 돌려달라고 국가에 신청하는 절차다.&lt;br&gt;&lt;br&gt;성남시 관계자는 “민사소송을 통한 손해배상 청구와 함께, 형사 절차를 통한 범죄 수익 환부 청구를 병행함으로써 시민 피해 회복을 위한 통로를 다각화하고 있다”며 “이번 가압류 조치와 환부 청구는 대장동 비리로 성남시와 시민들이 입은 금전적 피해를 전액 환수하고, 범죄로 취득한 부당 이익을 결코 용인하지 않겠다는 강력한 의지를 보여주는 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TEYPMU5ZKNFEBKCWUYC4N3EEAI.jpg?auth=31928382882d04d6f3b000facaabe20e94d5a0ca6a8c154315032a2f4b977d70&amp;smart=true&amp;width=1200&amp;height=884" type="image/jpeg" height="884" width="1200"/>
+    </item>
+    <item>
+      <title>“태블릿PC 보도는 조작” 변희재, 명예훼손 혐의 항소심도 실형... 법정 구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/I4UUVR7EBZBHRMTAN6CLLA5JTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/I4UUVR7EBZBHRMTAN6CLLA5JTM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 01:37:14 +0000</pubDate>
+      <content:encoded>‘박근혜 국정 농단’ 사건의 핵심 증거였던 최서원(개명 전 최순실)씨의 태블릿PC 내용을 JTBC가 조작해 보도했다는 주장을 제기해 재판에 넘겨진 변희재씨가 2일 항소심에서 실형을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5N6JOVUGHWOGFC6DU37O73P55E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변희재씨./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소4-2부(재판장 엄철)는 2일 변씨 등 3명의 정보통신망법상 명예훼손 혐의 재판을 열고 변씨에게 징역 2년을 선고했다. 1심에서 같은 형을 선고받고 법정 구속됐다 보석으로 풀려난 변씨는 이날 보석이 취소돼 다시 구속됐다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “1심과 항소심 진행 과정에서 제출된 여러 자료 등을 종합해보면, JTBC가 태블릿PC 내용을 조작했다는 소명이 부족하다”며 “막연한 추측에 기반해 반복적으로 허위 사실을 주장한 것”이라고 했다. 이어 “변씨는 검사 주장처럼 자신의 잘못을 반성하지 않는 태도로 일관하고 있고, 8년간 진행된 재판에서 무분별하게 증거를 신청하는 등 소송을 지연할 목적이 있었다고도 보인다”고 했다. 다만 재판부는 “변씨가 무소불위로 행동한 점에 대해 변씨에게만 전적으로 책임을 돌리기는 어렵다고 판단한다”며 “항소를 기각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;변씨는 인터넷 매체 미디어워치와 자신의 저서 ‘손석희의 저주’ 등을 통해 “JTBC가 태블릿PC를 입수한 뒤 파일을 조작하고 최씨가 사용한 것처럼 보도했다”는 취지의 허위 사실을 유포해 JTBC와 손석희 전 사장 등의 명예를 훼손한 혐의로 미디어워치 기자 2명과 함께 2018년 6월 기소됐다.&lt;br&gt;&lt;br&gt;1심 재판부는 “변씨 등이 ‘허위’ ‘날조’ ‘조작’ 등 표현을 사용하며 JTBC가 조작 보도한다는 기사를 반복해 주장했고, 내용상 JTBC 보도 내용의 비판이나 견제 목적으로 기사를 작성했다고 보기 어렵다. 언론이 갖는 지위를 이용해 사실 확인을 하지 않고 반복적으로 허위 사실을 배포했다”며 그해 12월 징역 2년을 선고하고 법정 구속했다. 변 대표는 항소하고 이듬해 보석으로 풀려나면서 불구속 상태로 2심 재판을 받아왔다. 지난달 20일 선고 예정이었으나 변씨가 불출석해 선고기일이 한 차례 연기됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남들 먹을 때 먹고 크지”… 부산 금정구의원 행감 중 막말 논란</title>
+      <link>https://www.chosun.com/national/regional/2025/12/02/2QTQE5UZJFHLLFBWAJ6M7YVAJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/02/2QTQE5UZJFHLLFBWAJ6M7YVAJY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 01:44:08 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJSWEMZYMQ4TIYZVGRSTGZRXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;금정구의회 더불어민주당 조준영 의원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 한 기초의원이 행정사무감사 당시 질의응답 과정에서 구청 간부의 신체 특징과 관련한 막말을 했다가 논란이 커지자 사과문을 올렸다. &lt;br&gt;&lt;br&gt;2일 전국공무원노동조합 부산본부 금정구지부에 따르면, 지난달 29일 금정구의회 더불어민주당 조준영 의원이 노조 게시판에 사과문을 올렸다.&lt;br&gt;&lt;br&gt;조 의원은 “지난 행정사무감사 중 제가 한 발언으로 A과장님과 가족분들께 깊은 상처를 드린 점에 대해 진심으로 사과드린다”며 “특히 지방의회 의원으로서 공무원 여러분과 상호 존중의 관계를 유지하고 모범을 보여야 할 위치에 있음에도 불구하고, 오히려 상처를 드린 점에 대해 무거운 책임감을 느낀다”고 했다.&lt;br&gt;&lt;br&gt;조 의원이 이 같은 사과문을 작성한 건 최근 열린 금정구의회 행정사무감사에서 했던 발언 때문이다. 그는 한 구청 간부에게 “A과장님 잘 안 보입니다. 눈이라도 좀 마주치게 틀어 앉아 보이소”라고 말했고, A과장은 “예. 조금 틀어 앉았습니다”라고 답변했다. 그러자 조 의원은 “아 과장님, 남들 먹을 때 같이 좀 먹고 크지 뭐 했습니까”라며 키와 관련한 발언을 했다.&lt;br&gt;&lt;br&gt;당시 행정사무감사에는 구의원 5명과 공무원 등 20명 이상이 있었고, 이 회의는 중계 시스템을 통해 800여 명에 달하는 전 직원이 볼 수 있었다고 한다.&lt;br&gt;&lt;br&gt;이후 노조 게시판에는 ‘구의원 행정감사 중 간부 공무원 대상 신체 특성 비하 막말 논란’이라는 제목의 글이 올라왔고, 조 의원의 발언을 규탄하는 댓글이 이어졌다. 한 댓글에서는 “행정사무감사는 정책을 감시하라고 있는 것이지 공무원을 향해 비하, 조롱, 고함을 퍼붓는 갑질의 무대가 아니다”라면서 “공무원이라서 참아야 하는 시대는 끝났다”고 비판했다.&lt;br&gt;&lt;br&gt;조 의원은 이날 본지 통화에서 “현재 상처받은 분께 집중하고 있다. 추가적인 사과 형식에 관해서도 생각하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산시 선관위, 5일부터 공직선거법 위반 단속 강화 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/02/26ESOERUBJFGRKJUAD2CHQAWCE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/02/26ESOERUBJFGRKJUAD2CHQAWCE/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 01:41:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WCYLFGMYTEZDFGAYWCNRZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시선거관리위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시 선거관리위원회는 내년 6월 3일 실시하는 제9회 전국동시지방선거 180일 전인 5일부터 선거법 위반 사례를 지방자치단체와 정당, 입후보 예정자 등에게 안내하고 단속을 강화한다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;공직선거법은 선거일 전 180일부터 선거일까지 선거에 영향을 미치는 일정한 행위를 제한하거나 금지하고 있다.&lt;br&gt;&lt;br&gt;먼저 교육감을 포함한 지자체장은 사업 계획이나 추진 실적, 활동 상황을 알리기 위한 홍보물을 발행하거나 배부·방송하면 안 된다.&lt;br&gt;&lt;br&gt;주민자치센터가 개최하는 교양 강좌에 참석할 수 없고, 근무 시간에는 공공기관이 아닌 단체 등이 개최하는 행사에도 참석하면 안 된다.&lt;br&gt;&lt;br&gt;정당이나 후보자(입후보 예정자 포함)가 설립·운영하는 기관·단체·조직 또는 시설은 선거구민을 대상으로 선거에 영향을 미치는 행위를 하면 안 된다.&lt;br&gt;&lt;br&gt;기관·단체 등의 설립이나 활동 내용을 선거구민에게 알리기 위해 정당이나 후보자 명의나 명의를 유추할 수 있는 방법으로 선전해선 안 된다.&lt;br&gt;&lt;br&gt;부산시 선관위는 지자체장과 정당, 입후보 예정자, 관련 기관·단체 등이 선거법을 몰라 위반하는 일이 없도록 관련 법규와 주요 위반 사례를 적극적으로 안내하고, 공무원의 선거 관여 행위 등을 중점 단속할 방침이라고 했다.&lt;br&gt;&lt;br&gt;선관위는 사전 안내에도 위법 행위가 발생하면 디지털 포렌식이나 디지털 인증 서비스(DAS) 등 과학적 조사 기법 등을 활용해 엄중히 조치할 방침이다.&lt;br&gt;&lt;br&gt;선거법 문의와 위법 행위 신고는 전국 어디서나 1390번으로 하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 티눈 없애려다 의사 잘못에 발가락 절단… 법원 판단은?</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/DU3FYLQSNJFTTLXAJXIXVH7G7Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/DU3FYLQSNJFTTLXAJXIXVH7G7Q/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 01:37:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UB6DMRCIGOMMK5LPSRCMQVALEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 서울동부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발가락의 티눈을 잘못 치료한 뒤 방치해 결국 발가락을 절단하게 만든 의사가 환자에게 1600만여 원을 배상해야 한다는 법원 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울동부지법 민사4단독 신성욱 판사는 지난달 13일 환자 A(61)씨가 의사 B씨를 상대로 낸 손해배상 소송에서 이같이 판결했다. 소송 비용은 양측이 절반씩 부담하도록 했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 2월 왼쪽 새끼 발가락의 티눈을 치료하기 위해 서울 광진구에 있는 B씨 병원을 찾았다. B씨는 두 차례에 걸쳐 레이저 시술을 했는데, A씨는 시술 후 네 달 동안 여러 차례 통증을 호소하며 병원을 찾았다. B씨는 진통제와 항생제, 스테로이드 주사 등을 처방했지만 증상은 개선되지 않았다.&lt;br&gt;&lt;br&gt;결국 견디다 못한 A씨는 상급 병원으로 가고 싶다고 해 B씨에게 진료의뢰서를 받아 전원했고, 뒤늦게 만성 골수염 진단을 받고 발가락을 불가피하게 절단했다. 레이저 시술 이후 생긴 궤양이 악화된 데 따른 것으로 조사됐다. A씨는 여전히 종종 통증을 느끼며 걷기 불편한 상태라고 한다.&lt;br&gt;&lt;br&gt;법원은 진료 감정 결과 등을 바탕으로 의사 B씨의 배상 책임을 인정했다. 신 판사는 “A씨가 첫 시술을 받은 후 궤양이 생겼고, 석 달 넘게 호전되지 않았다”며 “B씨는 더 적극적인 검사와 치료를 할 필요가 있었다”고 했다. 이어 “그런데도 A씨가 궤양 및 골수염으로 발가락 절단까지 이르게 된 것은 B씨가 시술을 부주의하게 했거나, 시술 후 경과 관찰을 소홀히 한 것으로 봐야 한다”고 했다. A씨의 상처가 좀처럼 회복되지 않는 상황에서 B씨가 합병증이 생길 위험을 고려해 추가 조치를 취했어야 한다는 것이다.&lt;br&gt;&lt;br&gt;신 판사는 또 “B씨는 레이저 시술 전 궤양이나 골수염 등 발생 가능성을 전혀 설명하지 않았다”며 “시술 이후에도 병변(病變)을 관리하는 방법이나 궤양이 악화될 경우 조치하는 방법도 설명하지 않았다”고 지적했다. 의사로서 부작용과 주의점 등을 충분히 설명하지 않은 과실이 있다는 것이다.&lt;br&gt;&lt;br&gt;신 판사는 A씨가 정년(65세)까지 4년간 벌어들일 기대 수입 등을 계산해 배상액을 산정하고, 이 사건 시술 난이도 등을 고려해 B씨의 과실을 70%로 제한했다. B씨는 1심 판결에 항소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>스타벅스서 치킨에 소주 먹은 中 관광객…“얼굴 벌개진 채 떠들어”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/ZU4RMOIFI5DBFP4LGHIYHTY5YM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/ZU4RMOIFI5DBFP4LGHIYHTY5YM/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 00:27:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITSEP2SXWVFZDPVO4AV4A5YJLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 양평의 한 스타벅스 매장에서 치킨과 소주를 먹는 중국인 관광객 추정 손님들./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 한 스타벅스 매장에서 중국인 관광객으로 추정되는 손님들이 치킨과 소주를 먹는 모습이 포착됐다.&lt;br&gt;&lt;br&gt;지난 1일 한 인스타그램 계정에는 ‘스타벅스에서 소주·치킨 먹는 중국인들’이라는 제목으로 사진이 올라왔다.&lt;br&gt;&lt;br&gt;사진은 같은 날 오후 4시쯤 경기도 양평의 한 스타벅스 매장에서 촬영된 것으로 알려졌다. 사진에는 한 무리의 손님들이 매장 음료와 함께 소주와 치킨을 먹는 모습이 담겼다.&lt;br&gt;&lt;br&gt;이 모습을 직접 봤다는 제보자는 “6~7명의 중국인이 스타벅스에서 소주와 치킨을 뜯어 먹으면서 얼굴이 벌게진 채 웃고 떠들었다”고 전했다.&lt;br&gt;&lt;br&gt;스타벅스는 지난 10월부터 전국 매장에서 외부 음식 취식을 제한하고 있다. 그동안 스타벅스는 다른 커피 전문점과 달리 외부 음식에 비교적 관대한 입장이었으나, 일부 고객의 도 넘은 행태가 계속되면서 다른 고객이 불편을 겪자 뒤늦게 이 같은 조치를 내렸다.&lt;br&gt;&lt;br&gt;스타벅스 관계자는 “매장 파트너가 해당 고객에게 취식 금지 안내를 진행했으며 고객은 파트너 안내 후 바로 내용물을 치웠다”며 “외부 음식 반입 금지에 대해 대부분 고객분들이 준수하고 있으나, 일부 사각 지대에서의 일탈 행위에 보다 철저한 대응 가이드를 세울 예정”이라고 설명했다.&lt;br&gt;&lt;br&gt;이 글에는 “대단하다 상상조차 못 한 걸 중국인들은 한다” “대변 테러에 이젠 영업 방해까지” “보기 불쾌하다” 등의 비판 댓글이 잇따랐다.&lt;br&gt;&lt;br&gt;최근 국내 유명 관광 명소에서는 중국인 관광객들의 민폐 행동이 여러 차례 포착된 바 있다. 온라인 커뮤니티 등에는 경복궁 돌담 아래와 제주도 시내, 한라산국립공원 등에서 대·소변 등을 봤다는 목격담이 올라와 논란이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>軍검사 “장교 외박 지역 ‘2시간 내 복귀’ 제한은 행동 자유 침해” 헌법소원 냈지만... 헌재 “합헌”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/WDEYHBSUMFDM3IPUYROQ7Y7FY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/WDEYHBSUMFDM3IPUYROQ7Y7FY4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 00:26:18 +0000</pubDate>
+      <content:encoded>군 장교의 외출·외박 지역을 ‘2시간 이내 복귀할 수 있는 지역’으로 한정한 육군 병영생활 예규가 기본권을 침해한다며 군검사가 헌법소원을 냈지만, 이 예규는 합헌이라는 헌법재판소 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3CKIYMD2DBHWJKUORDLIMITK4E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로구 헌법재판소 전경./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 헌재는 육군 ‘제35보병사단 병영생활 예규’ 관련 조항에 대한 헌법소원 심판 청구를 지난달 27일 재판관 9인의 전원일치 의견으로 기각했다. 2021년 8월 육군 중위로 임관해 35사단 법무부 군검사로 임명된 청구인은 장교의 외출·외박 등 출타 가능 지역을 2시간 이내 복귀가 가능한 지역으로 제한한 조항이 일반적 행동의 자유, 거주·이전의 자유를 침해한다며 그해 10월 헌법소원을 냈다. 청구인은 이후 전역했으나, 헌재는 35사단을 비롯한 다른 부대에도 비슷한 규정이 있는 점을 들어 심판청구의 이익을 인정하고 본안 판단에 착수했다.&lt;br&gt;&lt;br&gt;헌재는 “교통과 통신의 발달로 2시간 이내에 복귀할 수 있는 지역이 과거에 비해 상당히 확장된 오늘날 그 밖의 지역으로의 외출·외박 제한이 지나치게 과도하다고 보기는 어렵다”며 과잉금지원칙을 위반했다는 주장을 받아들이지 않았다. 35사단은 육군 작전부대에 해당하고, 육군 작전부대들은 국토에 대한 광범위한 방위 임무를 수행 중이어서 소속 장교들은 긴급 상황 발생 시 투입되는 병력을 현장에서 지휘할 임무가 있다는 것이다. &lt;br&gt;&lt;br&gt;헌재는 “작전부대의 장성급 지휘관은 그와 같은 임무를 달성하기 위해 작전을 정상적으로 수행할 수 있는 병력을 확보할 필요가 있고, 이를 위해 평시에도 소속 장교의 외출·외박 지역을 제한할 필요가 있다”고 했다. 유사 상황 대비를 위한 것이라 외출·외박 지역 범위를 제한할 수밖에 없다는 것이다.&lt;br&gt;&lt;br&gt;헌재는 우리나라의 특수성에 대해서도 짚었다. 북한 및 여러 강대국과 인접한 우리나라의 지정학적 특수성, 국가안보라는 공익 등을 고려해야 한다는 것이다. 헌재는 “필요한 경우 장교들을 신속하게 부대로 복귀시키기 위해 외출·외박 지역에 일정한 제한을 가함으로써 얻을 수 있는 국가안전보장이라는 공익은 이 사건 예규 조항으로 인해 받게 되는 청구인의 일반적 행동의 자유 및 거주·이전의 자유에 대한 제한에 비해 월등히 크다”고 했다.&lt;br&gt;&lt;br&gt;청구인은 이 조항이 상위 법령의 위임 범위를 벗어나 기본권을 제한하고 있다며 법률유보원칙에 어긋난다는 주장도 펼쳤다. 법률유보원칙이란 국회 의결을 거친 법률을 통해서만 국민 권리를 제한할 수 있다는 내용이다. 심판대상 조항은 35사단에서 자체적으로 운영 중인 예규라 이에 해당하지 않는데도 기본권을 제한한단 얘기다. 상위법령인 군인복무기본법 47조 2항은 전시·사변 또는 이에 준하는 국가비상사태에 신속히 대응하기 위해 ‘필요한 경우’ 외출·외박을 제한할 수 있도록 정하고 있다. &lt;br&gt;&lt;br&gt;심판 대상 조항은 전시가 아닌 평시에도 출타 지역을 제한하는 점을 청구인 측은 문제 삼았지만, 헌재는 우리나라가 종전이 아닌 휴전 상태에 있고 접경 지역에서 군사적 분쟁이 다수 발생해온 점을 들어 제한이 필요하다고 봤다. 전쟁이 임박하지 않은 평시라 하더라도 국지도발에 대한 대처와 국가 중요 시설 방위 등 임무에 신속히 대응할 필요가 있다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“야구배트로 죽일 듯 구타” 유튜버 수탉이 밝힌 납치 상황 </title>
       <link>https://www.chosun.com/national/national_general/2025/12/02/3FAOXDXY6RDKZFWQPFB3DIQ5UQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/3FAOXDXY6RDKZFWQPFB3DIQ5UQ/</guid>
@@ -785,24 +915,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JQWU2C7IUVDZDFKNILMA4JJS2E.png"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김장훈. /이건송 영상미디어 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김장훈이 이재명 대통령과의 과거 인연을 공개해 화제가 되고 있다.&lt;br&gt;&lt;br&gt;김장훈은 지난달 28일 유튜브 채널 ‘매불쇼’에 출연해 이 대통령이 성남시장이던 시절에 만났다며 “대통령이 저를 형님이라고 불렀는데 그러지 말라고 했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 김장훈은 진행자가 ‘이 대통령과 동갑 아닌가’라고 묻자 “63년생 63세(만 62세), 토끼띠”라며 “대통령보다 한 살 많다”고 답했다. 이 대통령은 1964년생이다.&lt;br&gt;&lt;br&gt;김장훈은 “이 대통령을 성남시장 하던 시절에 봤었다. 그때 ‘독도’를 불러서 친해질 뻔했다”며 “내가 뭐라고 그랬냐면 ‘시장님하고 나하고 다 기가 세서 만나면 둘 다 좌파로 몰릴 수 있다. 우린 친해지지 말자’고 했다”고 전했다.&lt;br&gt;&lt;br&gt;김장훈은 “대통령이 저를 형님이라 부르길래 찾아봤더니 64년생이더라”며 “형님이라고 하지 말라고 했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;진행자가 “대통령은 우리나라의 어른 같은 느낌이다. 대통령보다 나이가 많다는 게 쉽지 않다”며 놀라자, 김장훈은 “나도 진짜 놀랐다. 이때까지 내가 살 거라는 생각조차 못 했다”고 했다.&lt;br&gt;&lt;br&gt;김장훈은 “나이 먹는 게 너무 좋다”며 “2년 뒤엔 지하철을 무료로 타고, 국민연금도 60만원 나온다. 이번 생은 다 주고 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;1991년 데뷔한 김장훈은 ‘나와 같다면’, ‘사노라면’ 등의 히트곡으로 사랑을 받았다. 김장훈은 ‘기부 천사’로 불리며 지금까지 200억원 이상을 기부한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“계엄 당시 국회 통제는 위헌·위법” 경찰청장 대행, 대국민 사과 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/2GG3IKI5GJFEPP6WQFXRJM7ZYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/2GG3IKI5GJFEPP6WQFXRJM7ZYU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 01:47:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVIZ66YYSRPUNDLME5JEOK6JLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재성 경찰청장 직무대행이 1일 서울 서대문구 경찰청에서 전국 경찰 지휘부 화상회의를 주재하며 12·3 비상계엄 당시 국회 출입을 통제한 경찰의 행위에 대해 대국민 사과를 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유재성 경찰청장 직무대행이 12·3 비상계엄 1주년을 앞두고 당시 경찰이 국회 출입을 통제한 것에 대해 대국민 사과를 했다. &lt;br&gt;&lt;br&gt;유 대행은 1일 서울 서대문구 미근동 경찰청사에서 열린 전국 경찰 지휘부 화상회의에 앞서 대국민 사과 입장문을 통해 “지난 12월 3일 밤 경찰은 국회 주변에서 국회의원의 출입을 통제했다”며 “당시 행위는 민주주의와 헌정 질서를 어지럽히고, 국민의 일상을 위협한 위헌·위법한 행위였다”고 했다.&lt;br&gt;&lt;br&gt;유 대행은 “일부 지휘부의 잘못된 판단으로 국민의 자유와 사회 질서를 지켜야 하는 경찰이 위헌적 비상계엄에 동원돼 국민께 큰 실망과 상처를 드렸다”며 “묵묵히 국민 곁을 지켜온 현장 경찰관들의 명예와 자긍심이 훼손됐다. 진심으로 사과드린다”고 했다.&lt;br&gt;&lt;br&gt;유 대행은 해당 발언을 한 후 자리에서 일어나 90도로 허리를 숙였다. 계엄 사태 이후 경찰청 차원의 공식 사과는 이번이 처음이다.&lt;br&gt;&lt;br&gt;유 대행은 “앞으로 경찰은 국민만을 바라보며 헌법 질서 수호를 기본 가치에 두고 경찰 업무를 수행하겠다”며 “국민에 대한 봉사자로서 공정과 중립을 지키고 헌법과 법률에 따라 직무를 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3DINZVHBQWKYZVHE3WEYZWMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재성 경찰청장 직무대행이 1일 오전 서울 서대문구 경찰청 무궁화회의실에서 열린 '전국 경찰 지휘부 화상회의'에서 모두발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이어 “어떠한 일이 있어도 위헌·위법한 행위에 대해 절대 협조하거나 동조하지 않겠다”며 “다시는 개별 지휘관의 위법, 부당한 지시가 현장에 여과 없이 전달되지 않도록 개선하겠다”고 했다.&lt;br&gt;&lt;br&gt;유 대행은 “경찰의 권한은 국민으로부터 위임받은 것임을 잊지 않고, 국민을 위해 행사될 수 있도록 경찰 활동 전반에 시민에 의한 통제 장치를 촘촘히 마련하겠다”며 “다시 한번 지난 과오에 대해 사과드린다. 다시는 그러한 일이 재발하지 않도록 지휘부부터 책임감 있게 변화하고, 국민으로부터 신뢰받기 위해 더욱 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편 조지호 경찰청장과 김봉식 전 서울경찰청장은 현재 내란 중요 임무 종사 혐의로 기소돼 재판을 받고 있다. 조 청장은 지난해 12월 12일 탄핵 소추되면서 직무 정지된 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산시, 신임 부산연구원장에 김영재 부산대 명예교수 임명 </title>
-      <link>https://www.chosun.com/national/regional/2025/12/01/TJKOXWDDINDV7PASRD7PZW5NXE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/01/TJKOXWDDINDV7PASRD7PZW5NXE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 01:47:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2GMOLCGE3WGYJSHA4TQMBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영재 신임 부산연구원장./부산시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 김영재 부산대 경제학부 명예교수를 부산연구원 제14대 원장으로 임명했다고 1일 밝혔다. 임기는 3년이다.&lt;br&gt;&lt;br&gt;김 신임 원장은 부산대 경제학과 조교수를 시작으로 20년 이상 부산대 교수로 재직해 왔다.&lt;br&gt;&lt;br&gt;지난 8월부터는 부산대 경제학과 명예교수로 강의와 연구를 이어왔다. 부산경제진흥원 비상임 이사, BNK부산은행 사외이사 등을 거쳤다.&lt;br&gt;&lt;br&gt;김 신임 원장은 “부산시민이 신뢰하는 거점 정책 연구기관으로 거듭나기 위해 노력하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대법 “잘못 걷은 세금이라도 바로 반환 안돼…행정소송 거쳐야”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/01/5IKNZ7S5ABAGVOFLZLRZ3HJA6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/5IKNZ7S5ABAGVOFLZLRZ3HJA6A/</guid>
@@ -853,114 +965,6 @@
       <description/>
       <pubDate>Sun, 30 Nov 2025 15:45:00 +0000</pubDate>
       <content:encoded>서울동부지검 검경 합동수사단(합수단)에 파견된 백해룡 경정이 마약 수사 은폐·축소 의혹을 밝혀내겠다며 검찰을 압수수색할 예정이라고 30일 밝혔다. 백 경정은 서울 영등포경찰서 형사과장으로 있던 2023년 9월 검거한 말레이시아인 운반책들의 범죄 혐의를 검찰이 알고도 수사하지 않고 덮었다는 의혹을 제기해왔다.&lt;br&gt;&lt;br&gt;백 경정은 이날 본지 통화에서 “검찰이 ‘마약 게이트’ 사건을 덮은 사실을 입증할 수사 기록을 확보하기 위해 대검찰청·서울중앙지검·인천지검 등에 대한 압수수색 영장 신청을 검토 중”이라고 했다. 백 경정은 “검찰이 (내가 신청한) 영장을 법원에 청구하지 않는다면 고위공직자범죄수사처로 가는 방법을 생각해볼 것”이라고 했다. 백 경정이 신청한 영장을 검찰이 반려할 경우, 공수처에 합수단 검사들을 고발할 수 있다는 취지로 해석됐다. 법조계에서는 “어떤 수사기관이 압수수색을 ‘예고’하느냐” “수사보다 ‘검찰이 수사를 방해한다’는 여론 조성을 염두에 둔 것 아니냐”는 말이 나왔다.&lt;br&gt;&lt;br&gt;백 경정은 임은정 동부지검장이 자신이 이끄는 경찰 수사팀(일명 ‘백해룡팀’) 수사를 방해하고 있다고도 했다. 그는 “영등포서 형사과장 재직 시절 수사 기록을 열람하게 해달라는 요청도 거부하고 있다”고 했다. 이에 대해 동부지검 관계자는 “백 경정이 수사 외압 의혹을 제기하면서 경찰·관세청 간부들을 공수처에 고발한 만큼, 그가 스스로 과거 문제를 수사하면 이해 충돌 문제가 있어 수사 기록 열람을 제한한 것”이라고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 임 지검장은 지난 28일 검찰 내부망에 해병 특검 수사 결과 보고서와 함께 ‘양심, 정의, 한 사람의 힘’이라는 제목의 글을 올렸다. 검찰 내부에서는 순직 해병대원 수사를 맡았던 박정훈 대령을 치켜세운 것이란 해석도 나왔다. 임 지검장과 박 대령은 작년 12월 한 시민단체가 백 경정에게 상을 주는 행사에 함께 참석했었지만, 이날 임 지검장은 백 경정에 대해선 언급하지 않았다. 백 경정이 지난 10월 “합동 수사팀은 불법 단체”라고 했을 때에도 임 지검장은 소셜미디어에 “합동 수사팀원들이 대견하다 못해 존경스럽다”고 했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 고구마는 냉장고 대신 실온에</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/30/CG47G4I4AZGETFPUJ5X6WXZ44I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/CG47G4I4AZGETFPUJ5X6WXZ44I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 14:33:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RAMTGZMQNBFVBL4LHDVPAPYBFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이철원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고구마는 신문지로 하나씩 감싸 바람이 잘 통하는 서늘한 곳에 보관해 보자. 냉장고에 넣어두면 조직이 상하고 수분도 빠져나가 식감이 푸석푸석해질 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 12월 1일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/30/L4RCDFCMJJEF3FTWLCF2S4SQAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/30/L4RCDFCMJJEF3FTWLCF2S4SQAM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 14:32:00 +0000</pubDate>
-      <content:encoded>새벽 경기내륙·강원영서 비나 눈&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EMFRVAHJVBBO3MGO3JAKPNQNL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내일 서울 지하철 ‘느릿느릿’... 출근 서두르세요, 첫차부터 ‘준법 투쟁’</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/30/JSZPBYAPYNHABIF3OPWP574AGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/JSZPBYAPYNHABIF3OPWP574AGA/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 12:12:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SNNBWWJUAVERDNRTFPEWWHIOH4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 11월 20일 지하철 1호선 서울역 승강장에서 서울교통공사 노조의 태업으로 열차 도착이 지연돼 대기 중인 시민들./이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1~8호선을 운행하는 서울교통공사의 1·2노조가 1일부터 이른바 ‘준법 투쟁’에 들어간다. 출퇴근 시간대 지하철 혼란이 예상된다.&lt;br&gt;&lt;br&gt;30일 서울교통공사 등에 따르면 민주노총 산하인 1노조와 한국노총 산하의 2노조는 12월 1일 첫차부터 준법 투쟁을 한다. 열차 출입문을 천천히 여닫거나 승강장에 최대한 오랫동안 머무르는 등의 방법을 쓴다. 노조에선 ‘원칙대로 운행하는 것’이라고 하지만, 평소엔 탄력적으로 운영해왔던 규정을 철저하게 지켜 운행 속도가 떨어지기 때문에 사측에선 이를 ‘태업’이라고도 한다. 서울교통공사 관계자는 “열차 운행 간격이 짧은 출퇴근길에 특히 지하철 혼잡도가 커질 우려가 있다”며 “중요한 일정이 있는 시민은 버스 등 다른 교통수단을 이용하는 게 좋다”고 했다.&lt;br&gt;&lt;br&gt;서울교통공사 노사는 내년도 임금·단체협약 교섭을 벌여왔으나 입장 차를 좁히지 못하고 있다. 노조는 임금을 3% 올리고, 상여금도 통상임금에 포함하라고 요구하고 있다. 반면 공사는 누적 적자가 심해 임금을 1.8%까지만 인상할 수 있다는 입장이다. 또 공사는 적자를 해결하기 위해 정원 감축 등 구조 조정이 필요하다고 주장하는 반면, 노조는 승무원 업무가 가중될 수 있기 때문에 오히려 신규 채용을 확대해야 한다고 맞서고 있다.&lt;br&gt;&lt;br&gt;서울교통공사엔 총 3개 노조가 있다. 1·2노조 소속이 전체 직원의 73.8%다. 3노조(올바른노조)는 태업에 동참하지 않는다. 다만 3개 노조 모두 “임금 협상이 최종 결렬될 경우 12월 12일 총파업에 돌입하겠다”고 예고했다.&lt;br&gt;&lt;br&gt;공사는 “사람이 많이 몰리는 역에는 인력을 추가 지원하고, 승강장에서도 정상 업무를 독려할 계획”이라며 “태업에 참여하지 않는 노조 조합원 중심으로 비상 근무조도 편성할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한국인 36%가 “나 혼자 산다”... 30대男·60대女 가장 많아</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/11/30/DZYM6F7CRJHZRJ7QF33G7UFTDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/11/30/DZYM6F7CRJHZRJ7QF33G7UFTDU/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 11:45:13 +0000</pubDate>
-      <content:encoded>지난해 혼자 사는 1인 가구가 전체 가구에서 차지하는 비율이 36%를 돌파한 것으로 나타났다. &lt;br&gt;&lt;br&gt;30일 보건복지부의 ‘통계로 보는 사회보장’에 따르면 지난해 국내 1인 가구는 804만5000가구로, 전체 가구 중 36.1%를 차지했다. 1인 가구 비율은 2010년만 해도 23.9%(414만2000가구)에 불과했는데, 15년 만에 12.2%포인트 늘어난 것이다. &lt;br&gt;&lt;br&gt;정부는 지금 추세라면 1인 가구가 2027년 855만3000가구, 2032년 926만6000가구, 2037년 971만4000가구로 늘어날 것으로 전망했다. 2042년 994만 가구로 정점을 찍은 이후에는 인구 감소 여파로 조금씩 줄어들 것으로 전망됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IRD4ACWIIZF2LBZLWTREMFBPRA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남성은 30대(87만8000가구), 20대 이하(71만6000가구), 50대(71만3000가구) 순서로 1인 가구가 많았다. 반면 여성은 60대(75만 가구), 20대 이하(71만4000가구), 70대(62만9000가구) 등 순서였다. &lt;br&gt;&lt;br&gt;시도별로 보면 서울의 1인 가구 비율이 39.9%로 가장 높았다. 이어 대전(39.8%), 강원(39.4%), 충북(39.1%) 순이었다. 비율이 낮은 곳은 울산(31.6%), 경기(31.7%), 인천(32.5%) 순이었다.&lt;br&gt;&lt;br&gt;한편 지난해 65세 이상 노인 인구는 1012만명으로, 관련 통계가 작성된 이후 처음으로 1000만명을 돌파했다. 전체 인구 중 노인이 차지하는 비율도 20.1%를 기록하며 ‘초고령화 사회’에 진입했다. 국제연합(UN)은 65세 이상 인구 비율이 20%가 넘는 경우를 ‘초고령화 사회’로 규정하고 있다. 반면 전국 어린이집은 2013년 4만3770곳에서 지난해 2만7387곳으로 급감했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 쿠팡 내부 자료 확보… 유출 경로 추적</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/30/OLYF2XFQ6JDH7MX73CSYKAJFKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/30/OLYF2XFQ6JDH7MX73CSYKAJFKE/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 08:17:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OMQH25PP3BDIZA4PFBNDQX2V2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡에서 3000만건이 넘는 대규모 정보 유출 사고가 발생한 것과 관련해 쿠팡이 이용자들에게 보낸 메시지./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3000만명이 넘는 쿠팡 고객의 개인정보가 유출된 사건과 관련해 경찰이 쿠팡 내부 자료를 확보했다. &lt;br&gt;&lt;br&gt;30일 본지 취재를 종합하면, 서울경찰청 사이버수사대는 쿠팡으로부터 서버 기록 등 내부 자료를 임의 제출 받아 분석 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “유출 경로와 피해 규모를 정확하게 파악하는 중”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 쿠팡은 지난 25일 &lt;br&gt;&lt;br&gt;쿠팡은 지난 20일 입장문을 통해 “제3자가 고객 계정의 정보를 조회했다”며 “외부 침입 흔적은 없는 것으로 확인했다”고 밝혔다. 내부에서는 고객 정보를 조회한 사람이 과거 쿠팡에서 근무했던 중국 국적자인 정황을 포착했고, 경찰도 이에 대해 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당초 쿠팡은 지난 18일 약 4500개의 계정이 유출됐다고 발표했지만, 관련 당국의 조사 과정에서 노출 규모가 약 3370만개인 것으로 드러났다. &lt;br&gt;&lt;br&gt;쿠팡 측은 고객 이름, 이메일 주소, 배송지 주소록에 입력된 정보 등이 유출됐지만 결제 정보 등은 노출 대상에 포함되지 않았다고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, ‘헌법재판관 부실 검증 의혹’ 정진석 전 비서실장 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/30/36VAOQGIAJBETKETUHTIPB7FQU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/36VAOQGIAJBETKETUHTIPB7FQU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 08:17:57 +0000</pubDate>
-      <content:encoded>조은석 내란특검팀이 30일 정진석 전 대통령실 비서실장을 헌법재판관 부실 검증 의혹과 관련해 소환해 조사 중이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TEYZRGE4WENJUGUZWMOBSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정진석 전 대통령실 비서실장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면, 특검팀은 이날 오전부터 정 전 실장을 직권남용권리행사방해 혐의 피의자 신분으로 소환했다. 특검팀은 지난 4월 대통령 권한대행이던 한덕수 전 국무총리가 대통령 몫 헌법재판관 2명을 인사 검증 동의 하루 만에 지명해 인사 검증 담당자들의 직무 권한을 침해했다고 의심한다. 또 정 전 실장이 이 과정에 개입했는지 여부도 조사 중이다.&lt;br&gt;&lt;br&gt;한 전 총리는 윤석열 전 대통령 탄핵 나흘 뒤인 4월 8일 문형배, 이미선 전 헌법재판관에 대한 후임자로 이완규 전 법제처장과 함상훈 서울고법 부장판사를 지명했다. 당시 헌법재판소는 재판관 지명 효력정지 가처분 신청을 인용해 실제 임명 절차는 진행되지 않았다.&lt;br&gt;&lt;br&gt;앞서 특검팀은 이와 관련해 지난 21일과 20일 각각 한 전 총리와 김주현 전 대통령실 민정수석을 피의자 신분으로 불러 조사한 바 있다. 또 이원모 전 대통령실 공직기강비서관도 직권남용권리행사방해 혐의 피의자로 소환해 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘관봉권·쿠팡' 특검, 남부터미널역 인근에 사무실 마련...수사팀 구성에도 속도</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/30/XY24UW5D2NE6BO6MP6IVDMKCDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/30/XY24UW5D2NE6BO6MP6IVDMKCDY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 30 Nov 2025 08:01:27 +0000</pubDate>
-      <content:encoded>안권섭(사법연수원 25기) 특별검사팀이 최근 서울 서초구 남부터미널역 인근에 특검 사무실 계약을 마친 것으로 30일 전해졌다. 지난 16일 임명된 안 특검은 조만간 수사관 인선 작업을 마무리하고 검찰의 ‘관봉권 띠지 분실 의혹’과 ‘쿠팡 수사 불기소 외압 의혹’에 대한 수사를 개시할 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F7PW3L54MZMANFTPRBMI6GDIKA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안권섭 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법조계에 따르면, 안 특검은 서울 서초구 센트로빌딩에 특검 사무실을 계약하고 입주를 준비 중이다. 이 빌딩은 지하철 3호선 남부터미널역 인근에 있는데, 서울중앙지법에서 도보로 약 20분이 걸리는 가까운 위치다.&lt;br&gt;&lt;br&gt;안 특검은 팀 구성에도 속도를 내고 있다. 그는 최근 대한변호사협회에 특검의 직무 수행을 보좌할 특별수사관 적임자를 추천해달라는 공문을 보낸 것으로 전해졌다. 특검보 2명도 12월 첫째주에 합류한다고 한다. 다만, 내란·김건희·순직해병 등 3대 특검에 파견된 검사 수만 100명 안팎에 이르는 상황이라 수사인력 확보에 다소 어려움을 겪고 있는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검법에 따르면, 안 특검은 20일간의 준비기간을 거쳐 최장 90일간 두 의혹을 수사하게 된다. 특검팀은 특검과 특검보 2명, 파견검사 5명, 파견공무원·특별수사관 각 30명 이내로 꾸려진다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>계엄 1년 앞두고 서울 곳곳 집회…“내란특별재판부” vs “온리 尹”</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/29/FEQZ3KMS6RCTZLUKWE6NFB3GN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/FEQZ3KMS6RCTZLUKWE6NFB3GN4/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 10:16:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SVRRV4ECMNBTPMPDAQSDVUPHSA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오후 서울 강남구 테헤란로 일대에서 벨라도와 신자유연대 등 주최로 열린 집회에 참여해 행진하는 사람들의 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 1년을 앞둔 주말, 서울 도심 곳곳에서 집회가 열렸다.&lt;br&gt;&lt;br&gt;29일 오후 서울 종로구 광화문 광장 인근에서는 자유통일당이 주최하는 ‘자유대한민국 회복을 위한 광화문 국민대회’가 열렸다. 전광훈 사랑제일교회 목사가 주축인 이 행사에는 경찰 비공식 추산 약 7000명이 참석했다. 이들은 ‘이재명 독재정권’ ‘국민이 심판한다’ 등 문구가 적힌 손팻말을 들고 종각사거리, 을지로1가, 대한문을 거쳐 광화문광장으로 돌아오는 경로로 행진했다.&lt;br&gt;&lt;br&gt;서초구 대법원 인근에서는 시민단체 촛불행동이 집회를 벌였다. 약 700명의 참가자는 “조희대 대법원장 탄핵” “내란특별재판부 설치” “국민의힘 해체”를 외치며 지하철 2호선 강남역 방향으로 행진했다. 일부 참가자는 윤 전 대통령 부부의 모습이 담긴 현수막을 내려치기도 했다. 비슷한 시간 강남구 테헤란로에서는 벨라도 등 유튜버를 중심으로 “오직 윤석열(Only Yoon)”을 주장하는 세력이 집결했다.&lt;br&gt;&lt;br&gt;한편, 교사노조연맹은 이날 오후 2시부터 4시까지 경복궁사거리와 광화문 월대 일대에 모여 교사들의 정당 가입을 허용할 것을 요구했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>11월 마지막 날, 수도권 미세먼지 ‘나쁨’...내주 영하 10도 강추위</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/11/29/NKOUIXNKAJE5DBW2IO6DF7UM2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/11/29/NKOUIXNKAJE5DBW2IO6DF7UM2Y/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 07:07:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGIZRSMJQTMYTCMRRGMODGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;초미세먼지 주의보 발령된 청주 무심천./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일요일인 30일 수도권의 공기질이 탁할 것으로 예보됐다. 12월 첫주인 내주 중반에는 강추위가 찾아올 전망이다.&lt;br&gt;&lt;br&gt;29일 기상청과 국립환경과학원에 따르면, 30일 수도권과 강원·충청권에서 미세먼지(PM10) 농도가 ‘나쁨’ 수준일 것으로 전망됐다. 내달 1일에는 공기가 더 탁해지면서 전국에서 미세먼지 농도가 ‘나쁨’ 수준을 보일 것으로 예상된다.&lt;br&gt;&lt;br&gt;30일 우리나라 북쪽을 통과하는 기압골의 영향으로 수도권과 강원영서에는 새벽까지 1㎜ 안팎의 비가 내리는 곳이 있겠고, 충북북부에는 0.1㎜ 미만의 빗방울이 떨어지겠다.&lt;br&gt;&lt;br&gt;30일 아침 최저기온은 2∼12도, 낮 최고기온은 13∼20도로 예보됐다. 남부지방을 중심으로 낮과 밤의 기온차가 10∼15도로 클 것으로 예상된다.&lt;br&gt;&lt;br&gt;내주 2일에는 북쪽에서 찬 바람이 내려오며 기온이 크게 떨어지면서 최저 영하 6도에서 영상 5도, 최고 0~10도의 분포를 보일 것으로 전망된다. &lt;br&gt;&lt;br&gt;내달 3~4일에는 최저기온이 영하 10도까지 떨어지며 올가을 이후 가장 추운 날을 보낼 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, ‘수사 외압’ 의혹 문자 공개 사흘 후 “이제 이종섭 호주로 보내자”</title>
-      <link>https://www.chosun.com/national/court_law/2025/11/29/5WLO5XOWVVE2NLZV5Y3775JVLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/29/5WLO5XOWVVE2NLZV5Y3775JVLM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 02:46:49 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSTEZBUGE4WMOJYMI4DIZJWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 이종섭 전 국방부 장관 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 해병대 수사단의 고(故) 채수근 해병 순직 사건 수사에 국방부가 외압을 행사한 정황이 담긴 문자메시지가 공개된 지 사흘 후 “이제 (국방부 장관이었던) 이종섭을 호주로 내보내자”고 한 것으로 29일 전해졌다.&lt;br&gt;&lt;br&gt;법조계에 따르면, 순직 해병 특검은 범인도피, 직권남용, 국가공무원법 위반 등의 혐의로 지난 27일 윤 전 대통령을 기소하면서 이 같은 내용을 공소장에 적시했다.&lt;br&gt;&lt;br&gt;특검에 따르면, 윤 전 대통령이 이종섭 전 국방부 장관을 외국 대사로 보내겠다고 처음 언급한 것은 이 전 장관이 사의를 표명한 2023년 9월 12일 당일이자 야당이었던 더불어민주당이 이 전 장관의 탄핵을 추진하겠다고 밝힌 다음 날이었다. 국방부가 그해 7월 19일 실종자 수색 과정에서 숨진 채 해병 사건을 초동 수사한 해병대 수사단에 “임성근 전 해병대 1사단장 등은 피의자에서 제외하라”는 취지로 압력을 행사했다는 의혹이 불거졌을 때다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 조태용 당시 대통령실 국가안보실장에게 “야당이 탄핵을 하겠다고 해서 (이 전 장관) 본인이 사표를 쓰고 나갔는데, 적절한 시기에 대사라든지 일할 기회를 더 줘야 하지 않겠냐”고 했다. 조태용 전 실장이 주호주 대사 자리를 추천하자 윤 전 대통령은 “적절한 기회를 주자”고 했다.&lt;br&gt;&lt;br&gt;약 2개월이 지난 2023년 11월 16일, 항명 등의 혐의로 기소된 박정훈 해병대 수사단장 재판에서 박진희 전 국방부 군사보좌관이 그해 8월 1일 김계환 전 해병대 사령관에게 보낸 문자메시지가 공개됐다. 이 전 사단장 등 지휘 책임자는 수사 의뢰 대상자에서 제외하라는 취지였다. 다음 날 민주당은 “채 해병 사망 사건 수사 외압의 물증”이라며 정부와 여당에 특검을 본격적으로 요구했다.&lt;br&gt;&lt;br&gt;해병 특검은 이때부터 이 전 장관의 호주 대사 임명 절차가 본격화했다고 보고 있다. 특검은 공소장에 “윤 전 대통령은 자신의 지시를 이행한 이 전 장관이 수사를 받게 될 경우 지시자인 자신에게까지 수사가 미칠 수밖에 없음을 잘 알았기 때문에 이 전 장관을 국외로 내보내기로 마음먹었다”고 적시했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 지시를 받은 조태용 전 실장은 외교부 관계자에게 “이제 이종섭을 보내야겠다, 인사 프로세스를 준비하자, 기왕이면 빨리 보내라”는 취지로 지시했다고 한다. 호주 대사는 정년 이후에도 근무가 가능하고, 당시 호주 대사는 임기도 상당히 남아 있었고 연말 정기 인사 대상도 아니었다. &lt;br&gt;&lt;br&gt;그럼에도 장호진 전 외교부 1차관은 그해 12월 5일 외교부 인사담당자에게 “호주하고 모로코를 엮어서 빨리 (대사 인사를) 진행하라. 이번 주 내에라도 대통령실 인사비서관실에 상신하라. (2024년) 1월 내에 부임할 수 있도록 진행하라”고 지시했다.&lt;br&gt;&lt;br&gt;이 전 장관은 이 과정에서 외국어 능력 검정 점수를 제출하지 않은 채 심사위원 서명만 받아 ‘적격’ 결정을 받았다. 법무부 인사정보관리단의 인사 검증도 형식적으로 이뤄진 것으로 조사됐다. 이시원 당시 대통령실 공직기강비서관은 그나마 인사정보관리단이 검증보고서에 적은 “(채 해병 사건 관련) 장관 책임론, 논란 가능성은 남아있는 이슈”라는 문구마저 삭제하고 “검증 결과 : 문제없음”이라는 보고서를 최종 승인했다. 결국 이 전 장관은 호주에서 아그레망(주재국 부임 동의)을 받아 2024년 3월 4일 호주 대사로 임명됐다.&lt;br&gt;&lt;br&gt;특검은 이 전 장관의 호주 출국 과정도 대통령실과 법무부가 불법적으로 개입했다고 보고 있다. 당시 이 전 장관은 고발장을 접수했던 고위공직자범죄수사처 신청으로 출국금지 상태였다. 윤 전 대통령은 2024년 3월 5일 이 전 비서관으로부터 이를 보고받고 “출국금지 해제에 시간이 필요하니 부임 일정을 2주 정도 연기하라”고 지시했다. 같은 날 이 전 장관은 ‘출국금지에 대한 이의신청서’를 법무부 출입국심사과에 제출했다.&lt;br&gt;&lt;br&gt;박성재 당시 법무부 장관은 다음 날인 3월 6일 이재유 당시 출입국·외국인정책본부장에게서 이 전 장관이 출국금지 해제를 신청했다는 보고를 받고 “개인적인 일로 나가는 것도 아니고 대통령이 호주 대사로 임명해서 나가는데 출국금지를 걸어서 나가지도 못하게 하는 것이 맞느냐” “풀어주면 되겠네”라며 출국금지 해제를 지시했다. 이에 이 전 본부장은 일선에 출국금지 해제를 긍정적으로 검토하는 보고서를 작성하도록 지시했다. 당시는 공수처에서 출국금지 해제에 관한 의견을 받지도 않았을 때였다.&lt;br&gt;&lt;br&gt;3월 7일, 공수처는 법무부에 “현재 수사 진행 중으로 적시 증거 확보와 소환 조사를 위해 출국금지 유지가 필요하다”는 취지의 의견을 보냈다. 그러나 박 전 장관은 “이 전 장관에 대한 출국금지를 해제하라”고 다시 지시했고, 다음 날인 3월 8일에도 출근길에 만난 취재진에게 같은 의견을 밝혔다. 특검은 박 전 장관의 언론 상대 발언이 당일 있었던 출국금지심의위원회 위원들에게 압력을 행사한 것으로 보고 박 전 장관 등도 범인도피 혐의로 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘AI로 처방전 발급’ 불법 사이트 운영자 30대, 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/29/Q467B643KVFZ3HRONACFXIG3HY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/29/Q467B643KVFZ3HRONACFXIG3HY/</guid>
-      <dc:creator>수원=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 02:30:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYTQNRRGQ3TSODGMU4GMYJSGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기남부지방경찰청. 2019.10.18/뉴스1 ⓒ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;AI로 불법 처방전을 발급하는 사이트를 운영한 이가 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기남부경찰청 반부패·경제범죄수사대는 보건범죄단속에 관한 특별조치법 위반 등 혐의로 30대 A씨를 지난달 말 불구속 송치했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 작년 8월부터 11월까지 AI와의 채팅을 통해 증상에 맞는 처방전을 발급해주는 취지의 사이트를 운영한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;또 그는 범행 과정에서 처방전의 정해진 양식에 따르기 위해 타 병원 관계자의 명의를 도용한 혐의도 있다.&lt;br&gt;&lt;br&gt;앞서 경찰은 작년 10월 대한의사협회로부터 이 사이트에 대한 고발장을 받고 수사에 나섰다. &lt;br&gt;&lt;br&gt;A씨는 AI에 처방과 관련한 내용을 반복 학습시켰다고 홍보하며 이용자들을 모았다. 그는 의료계와 무관한 사업체에서 근무했던 것으로 알려졌다. &lt;br&gt;&lt;br&gt;현행 보건범죄단속법 상 의료인이 아닌 자가 의료 행위를 업으로 삼지 못하도록 규정하고 있다. &lt;br&gt;&lt;br&gt;일반적인 AI 진료 서비스는 이용자가 실제 병원을 방문하지 않더라도 의료인의 자문 또는 진단을 받는 방식으로 운영된다. &lt;br&gt;&lt;br&gt;하지만 A씨가 개설한 사이트는 의료인의 개입 없이 AI와 이용자 간 채팅 내용만을 기반으로 불법 처방전을 발급한 것으로 드러났다. &lt;br&gt;&lt;br&gt;해당 사이트에서는 이용료 명목으로 건당 300~600원 결제됐으며 총 140여건의 결제가 이뤄졌다. &lt;br&gt;&lt;br&gt;다만 이처럼 발급된 처방전은 통상적인 처방전과 달라 약국에서 약 구매까지 이뤄진 사례는 일부에 그친 것으로 알려졌다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>별거 중 아내 이사 가자 “불 지른다” 부동산 협박한 60대男</title>
-      <link>https://www.chosun.com/national/incident/2025/11/29/CXUAWOUALZFTZGB3DKT7UTQV6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/11/29/CXUAWOUALZFTZGB3DKT7UTQV6Q/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 29 Nov 2025 00:50:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DOXPPDA5VNBZ7IQOU2CTBNN5PI.jfif"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동경찰서는 협박·현주건조물방화예비 혐의로 60대 남성 A씨를 현행범 체포 후 조사 중이라고 29일 밝혔다. A씨는 지난 27일 낮 강동구 상일동의 한 부동산에 찾아가 “이사 간 아내의 집 주소를 알려주지 않으면 휘발유로 불을 지르겠다”고 협박한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 아내와 이혼을 준비하며 별거 중이었던 것으로 알려졌다. 부동산에서 아내의 주소를 알려주지 않자 A씨는 같은날 오후 1시 44분쯤 인근 주유소로 향했다. 그러나 신고를 받고 출동한 경찰에 의해 현행범 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대한 구속영장을 신청했다. 구속 전 피의자 심문(영장실질심사)은 이날 오후 3시 서울동부지법에서 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
