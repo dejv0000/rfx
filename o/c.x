@@ -13,6 +13,92 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조타실에 없었다...무인도 좌초 여객선 선장 구속</title>
+      <link>https://www.chosun.com/national/2025/12/02/5N4TRZX7TJF5ZP4KR663MQMQ6Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/02/5N4TRZX7TJF5ZP4KR663MQMQ6Y/</guid>
+      <dc:creator>김준호 기자, 목포=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 10:09:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UIRDNU26BFO35MHRQGGQQXDNKE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전남 신안 해상에서 대형 여객선 퀸제누비아2호 좌초 사고를 낸 60대 선장 A씨가 2일 오전 전남 목포시 광주지방법원 목포지원에서 열리는 구속 전 피의자 심문(영장실질심사)를 받고 법원을 빠져 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;승객 등 267명을 태우고 무인도에 좌초한 여객선 ‘퀸제누비아2호’ 선장 A(60대)씨가 구속됐다. &lt;br&gt;&lt;br&gt;목포해양경찰서는 중과실치상 및 선원법 위반 혐의로 A씨를 구속했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;앞서 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 한 광주지법 목포지원은 “증거인멸과 도주 우려가 있다”며 구속영장을 발부했다. &lt;br&gt;&lt;br&gt;A씨는 지난달 19일 퀸제누비아2호 좌초 사고 당시 협수로(狹水路) 구간에서 조타실 지휘 의무를 방기한 혐의를 받는다. 당시 선박은 전남 신안군 장산도 인근 무인도(족도)에 좌초했다. 이 사고로 병원 치료를 받은 부상자는 78명이다. 모두 생명에는 지장이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;해경 조사 결과 A씨는 작년 2월 28일 퀸제누비아2호 취항 이후 사고가 난 지난달 19일까지 사고 해역을 1000여 차례 지나면서 단 한 번도 조타실로 나오지 않은 것으로 드러났다. 사고 당일에도 오후 4시 45분쯤 여객선이 제주에서 출항할 때만 조타실에 나온 것으로 조사됐다.&lt;br&gt;&lt;br&gt;선원법 9조는 ‘항구를 출입할 때, 좁은 수로를 지나갈 때 등에 선장이 선박의 조종을 직접 지휘해야 한다’고 규정하고 있다. 좌초 사고가 난 해역은 바위섬과 암초가 많고 뱃길이 좁은 협수로다. &lt;br&gt;&lt;br&gt;A씨는 영장실질심사 뒤 “왜 조타실에서 근무하지 않았냐” “승객들에게 미안하지 않느냐”는 취재진 질문에 “죄송하다”고 답한 뒤 법정을 떠났다. &lt;br&gt;&lt;br&gt;한편, 사고 당시 조타실에서 근무 중이던 일등항해사 B(40대)씨와 인도네시아 국적 조타수 C(40대)씨는 자동항법장치를 족도 쪽으로 설정하고 운항하다 좌초 사고를 낸 것으로 드러났다. B씨는 휴대전화를 보다 변침 지점을 놓쳐 사고를 냈다고 한다. 두 사람은 중과실치상 혐의로 앞서 구속 송치됐다. 해경은 또 항로 이탈 알람을 켜놓지 않은 사고 해역 관제사 D씨도 업무상 과실치상으로 입건해 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[단독] 법원행정처 “내란전담재판부, 본질적 위헌 소지”… 26쪽 추가 의견서 제출</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/02/TAWHH7BR7BDJRIAU7RMXRM3YDM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/TAWHH7BR7BDJRIAU7RMXRM3YDM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 10:04:01 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DCY3EMMZTGZDGGUZTONBSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 법안심사제1소위원장이 지난 1일 서울 여의도 국회에서 열린 제429회 국회(정기회) 법제사법위원회 제8차 법안심사제1소위원회에서 의사 진행을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 추진 중인 ‘내란전담재판부’ 설치법에 대해 최근 법원행정처가 “본질적 위헌 소지가 있다”는 취지의 의견서를 국회 법제사법위원회에 제출한 것으로 2일 확인됐다. 민주당이 전날(1일) 국회 법사위 법안소위에서 심사한 ‘윤석열·김건희 등의 국정농단 사건 진상규명을 위한 전담재판부 설치에 관한 법률안’에 대해 행정처가 지난달 28일 26쪽 분량의 의견서를 낸 것이다.&lt;br&gt;&lt;br&gt;이 법안은 윤석열 전 대통령 등의 사건을 전담할 내란전담재판부를 서울중앙지법·서울고법에 설치하고, 내란전담영장판사까지 두도록 했다. 더불어민주당 박찬대 의원이 지난 7월 특별재판부 형태의 법을 발의한 뒤, 같은 당 이성윤 의원이 ‘전담재판부’ 방식으로 다시 법안을 제출해 이번에 소위를 통과했다. 법원행정처는 두 법안에 대해 “형식적 차이가 있지만 본질은 동일하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇외부 인사가 관여하는 추천위원회… “사법권 독립 침해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;우선 행정처는 헌법이 정한 사법권 독립 등 핵심 원리를 침해하는 방식으로 법을 만들면 안 된다고 했다. 국민의힘 신동욱 의원실이 확보한 의견서에 따르면, 행정처는 “국회가 법관의 자격, 법원의 조직 등에 관한 입법 형성권을 가진다고 해서 그것이 아무런 한계 없이 입법자의 자의에 맡겨질 수는 없다”며 “사법권의 독립 등 헌법의 근본원리에 위반되거나 기본권의 본질적 내용을 침해해선 안 될 ‘헌법적 한계’가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 법무부 등이 전담 법관을 추천하도록 한 것에 대해 “외부 기관이 관여하는 것은 그 자체로 사법권의 외적 독립을 침해한다”고 지적했다. 특히 추천위원회가 선정한 후보를 대법원장이 1주일 내 그대로 임명하도록 한 조항에 대해서는 “대법원장의 인사권을 형식적으로 만들고, 헌법적 원리와 상충한다”고 했다. 일반 판사 인사 절차와 무관하게 전담 판사를 지정하는 구조 자체가 헌법상 사법부 조직 원리에 어긋난다는 취지다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“무작위 배당 원칙 훼손…특정 사건 겨냥 가능성”&lt;/b&gt;&lt;br&gt;&lt;br&gt;행정처는 사건 배당의 무작위성을 훼손하는 문제도 강조했다. 행정처는 “특정 사건에 대해 일정한 방향으로 판결이 선고되길 희망해 특정 성향이 있는 것으로 보이는 특정 법관에게 사건을 배당하도록 영향을 미치는 경우, 헌법상 공정한 재판을 받을 권리가 침해되고 재판의 독립을 실현할 수 없게 된다”고 했다.&lt;br&gt;&lt;br&gt;행정처는 의견서에서 일본의 ‘특별재판소 금지 원칙’, 독일의 ‘특별법원 금지 원칙’ 등 해외 사례까지 들었다. 일본은 혁명·내란 등 중대 범죄를 다루는 특별재판소조차 정치적 악용 가능성 때문에 금지하고 있다고 설명했다. 독일의 경우 개별 사건에 영향을 미치기 위한 법관 지정 자체를 금지한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“기존 전문재판부와 달라”… 민주당 주장 반박&lt;/b&gt;&lt;br&gt;&lt;br&gt;전담재판부가 법원이 운영하고 있는 ‘전문재판부’와 같아 위헌 문제가 없다는 민주당 주장에 대해서도 행정처는 본질적으로 다르다고 지적했다. 현행 전문재판부는 특정 분야에 대한 전문 지식과 경험을 활용해 부패·선거 등 특정 종류의 사건을 신속하고 적정하게 처리하기 위한 재판부다. 행정처는 전문재판부는 사건 무작위 배당을 통해 전담 사건을 배당하는 구조로 운영되고, 전담 사건만을 전속적으로 관할하지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “내란·외환 전담재판부는 이른바 3대 특검법에 의해 특정된 수사 대상 사건들만을 심판하도록 하기 위해 설치되는 것이고, 특별법에 따른 별도의 추천 및 임명 절차에 의해 구성돼 특정 개별 사건들을 심판할 법관을 사후에 임의적으로 결정하는 구조”라고 했다.&lt;br&gt;&lt;br&gt;내란전담재판부 설치법은 전날 법안소위를 거쳐 일부 내용이 수정됐다. 법무부와 판사회의, 헌법재판소가 추천한 인사들로 구성된 추천위원회가 내란전담재판부와 영장전담판사를 추천하고, 대법원장이 임명하는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡, 홈피서 사과문 슬쩍 빼고 ‘크리스마스 세일’ 광고 올렸다</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/UFEVQ4GIRNDQNPKWZILLV5WLQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/UFEVQ4GIRNDQNPKWZILLV5WLQA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 08:38:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BJGI6QRRJHCNCF5RCVMSYV4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 사과문이 사라진 쿠팡 홈페이지 모습. /쿠팡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡이 고객 3370만명의 개인정보 유출 사고를 일으킨 후 올린 사과문을 이틀 만에 슬그머니 내린 사실이 알려져 국회에서 질타를 받았다. &lt;br&gt;&lt;br&gt;2일 한민수 더불어민주당 의원은 국회 과학기술정보방송통신위원회(과방위) 긴급 현안질의에서 박대준 쿠팡 대표에게 전날 캡처한 쿠팡의 PC, 모바일 홈페이지를 보여주며 “쿠팡이 어떤 기업인지를 보여드리겠다”며 “사과 문구를 찾아보라”고 했다. &lt;br&gt;&lt;br&gt;한 의원이 공개한 사진을 보면 쿠팡 홈페이지와 모바일 애플리케이션(앱)에는 지난달 30일 게재한 사과문이 지난 1일까지 이틀간 게재되어 있다가 이날 모두 사라졌다. 사과문이 게재되어 있던 자리에는 크리스마스 빅세일(홈페이지) 광고 등이 게재돼 있었다.&lt;br&gt;&lt;br&gt;특히 쿠팡이 게재했던 사과문은 이용자들에게 잘 보이는 ‘팝업’ 형태가 아닌 광고 배너 형태였고, 제일 위쪽 구석에 있어서 잘 보이지가 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5T4N2TP3RGAVDP2DOGOS3BSI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 서울 여의도 국회 과학기술정보방송통신위원회에서 쿠팡 박대준 사장이 의원들의 질의에 답하고 있다. 최근 국내 최대 이커머스 업체 쿠팡에서 3370만 명의 개인정보를 유출된 사건이 발생했다. /박성원 기자  
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 의원은 “오늘 아침 9시 7분에는 이마저도 사라졌다”며 “이게 정상적인 기업의 모습이냐. 3000만명 넘는 국민이 불안에 떨고 있는데 장사 좀 더 하겠다고 이렇게 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 지적에 박 대표는 “저 사과문 내용만으로는 부족하고 현재 2차 피해를 불안해하시는 분들의 의견이 CS(고객 서비스)로 들어와서 별도 이메일 공지로 더 상세한 내용과 사과문을 보내려고 준비 중에 있었다”며 “좀 더 세심하게 신경 쓰도록 하겠다”고 답했다.&lt;br&gt;&lt;br&gt;한편 쿠팡은 지난달 29일 “고객 계정 3370만개가 무단으로 노출된 것으로 확인됐다”고 밝혔다. 쿠팡은 앞서 지난달 18일 고객 계정 약 4500개가 무단 유출됐다고 파악했는데, 피해 규모가 11일 만에 7500배 늘어났다. 경찰 등은 쿠팡을 퇴사한 중국인 개발자가 중국으로 건너가 쿠팡의 개인 정보를 빼돌린 것으로 보고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/52ONOZVQUFAQ5H3T42CP43HGQU.JPG?auth=3d93a4dbc97ad2d930fa7aad11c0a552ba3136c6796cc67f74e4dfcc39ad7dce&amp;smart=true&amp;width=4003&amp;height=2252" type="image/jpeg" height="2252" width="4003">
+        <media:description type="plain">박대준 쿠팡 대표이사가 2일 서울 여의도 국회 과학기술정보방송통신위원회에서 열린 쿠팡 침해사고 관련 현안 질의에서 고개 숙여 인사하고 있다. 2025.12.2/뉴스1 ⓒ News1 신웅수 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>인천대교 통행료, 18일부터 5500원에서 2000원으로 인하</title>
+      <link>https://www.chosun.com/national/regional/2025/12/02/VGYNFTYOBNHK3CR4QMO3AYRUY4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/02/VGYNFTYOBNHK3CR4QMO3AYRUY4/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 09:34:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYTGYJYHEZDKMLEG42DINZXGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천대교. /인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천국제공항이 있는 영종도와 인천 송도국제도시를 잇는 인천대교 통행료가 오는 18일부터 인하된다. &lt;br&gt;&lt;br&gt;2일 인천경제자유구역청 등에 따르면, 18일 오전 0시부터 인천대교 편도 통행료가 승용차 기준 5500원에서 2000원으로 63.6% 인하된다. &lt;br&gt;&lt;br&gt;중형차의 경우 9400원에서 3400원으로, 대형차는 1만2200원에서 4400원으로 각각 낮아진다. &lt;br&gt;&lt;br&gt;기획재정부 민간투자사업심의위원회는 지난달 25일 인천대교 민간투자사업 변경 실시협약을 의결하고, 통행료 인하를 결정했다. &lt;br&gt;&lt;br&gt;통행료 인하에 따른 인천대교 민간사업자의 손실은 한국도로공사와 인천국제공항공사가 공동 출자해 설립한 특수목적법인(SPC)이 보전하게 된다. &lt;br&gt;&lt;br&gt;지난 2009년 개통된 인천대교는 민자로 건설돼 통행료가 재정으로 만들어진 고속도로의 2.89배 수준에 달했다. 국내 민자고속도로 중 가장 비싸 요금 인하 필요성이 지속해서 제기됐다. &lt;br&gt;&lt;br&gt;국토교통부는 지난 2018년부터 전국 민자 고속도로 등의 통행료 인하 방안을 검토했고, 영종대교의 경우 지난 2023년 10월부터 상부 도로의 편도 통행료를 6600원에서 3200원으로, 하부 도로는 3200원에서 1900원으로 각각 인하했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘강제추행 혐의’ 작곡가 유재환, 벌금 500만원… 1심 불복 항소</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/S42Y3C5UZBA2BNTKAWCGUEZGC4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/S42Y3C5UZBA2BNTKAWCGUEZGC4/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 09:11:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OBBD2UZUOZL4BLT4CWMSBJL4LI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;작곡가 겸 방송인 유재환씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강제추행 혐의로 재판에 넘겨진 작곡가 겸 방송인 유재환(36)씨에게 법원이 벌금 500만원을 선고했다.&lt;br&gt;&lt;br&gt;서울남부지법 형사12단독 서영우 판사는 지난달 26일 강제추행 혐의를 받는 유씨에게 벌금 500만원을 선고하고 성폭력 치료프로그램 이수 40시간을 명령했다고 2일 밝혔다. 서 판사는 “처음 만난 피해자를 추행했으나 유사 범죄로 처벌받은 전력이 없는 점을 감안했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;유씨는 2023년 6월 ‘작곡비를 받지 않고 곡을 만들어 주겠다’는 취지의 글을 소셜미디어에 올린 뒤 알게 된 피해자를 강제추행한 혐의를 받는다. 다만 법조계에 따르면 유씨는 1심 선고에 불복하고 이날 법률대리인을 통해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;앞서 유씨는 작년 5월 인스타그램을 통해 “모든 게 저의 불찰이다. 불미스러운 사건에 대해 변명의 여지가 없다”면서도 “본의 아니게 몇몇 여성 지인분께 오해와 마음의 상처를 드려 정말 죄송하다”며 성추문 의혹을 부인하는 듯한 입장문을 낸 바 있다.&lt;br&gt;&lt;br&gt;당시 그는 “할 줄 아는 게 음악밖에 없어 자숙하고 음악으로 봉사하며 살겠다”고 사과했다. 그러나 얼마 안 가 온라인에선 유씨가 또 다른 여성에게 접근해 음악 작업을 제안했다는 폭로가 나와 대중의 비난을 받기도 했다.&lt;br&gt;&lt;br&gt;유씨는 2015년 MBC 예능 프로그램 ‘무한도전’ 영동고속도로 가요제 프로젝트에 출연하며 유명세를 탔다. 이후 여러 예능에 출연해 화제를 모았으나 ‘유씨가 무료 작곡을 해준다면서 현금을 편취하고 정작 작곡은 해주지 않았다’는 내용의 폭로가 이어지면서 사기 논란이 불거졌었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경북도, 4725억 투입해 그린바이오 산업 육성</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/PXWWDMUASJDDXNCTWVKNM37XRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/PXWWDMUASJDDXNCTWVKNM37XRU/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 09:09:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MF44WTKQ3REVNG3BTH4TXNDOJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 농림축산식품부의 그린바이오산업 육성 지구 공모에 최종 선정됐다고 2일 밝혔다. 그린바이오는 농산물 등에 생명 공학 기술을 적용해 부가가치를 창출하는 산업으로, 식품·천연물·미생물·곤충·종자·동물용 의약품 등 6개 분야로 구분된다. 경북도는 이 중 동물용 의약품·곤충·천연물 등 3개 분야를 중점적으로 육성할 방침이다.&lt;br&gt;&lt;br&gt;대상 지역은 경북 포항·안동·상주·의성·예천 5개 시군으로, 총 756㏊ 규모의 부지가 ‘그린바이오산업 혁신융합지구’로 조성된다. 전국 최대 규모다. 포항강소연구개발특구, 예천의 곤충양잠산업거점단지, 안동의 풍산농공단지 등 11개 기관 및 산업 단지가 포함된다. 융합 지구 내 기업에는 그린바이오 분야 국비 사업 참여 자격 등이 주어지고, 지자체는 지구 내 시설과 용지에 대해 수의 계약 방식의 민간 대부(貸付)를 할 수 있다.&lt;br&gt;&lt;br&gt;현재 융합 지구 내엔 33개 기업이 입주 중이며 90개 기업이 입주 및 투자 의향서를 제출했다. 경북도는 2031년까지 국·도비 4725억원을 투입해 지구 내 기업을 지원하고 산업 인프라를 구축할 방침이다. &lt;br&gt;&lt;br&gt;분야별로 거점 기관도 지정된다. 동물용의약품은 경북이 전국에서 유일하게 추진하는 그린바이오 분야로, 포항 그린백신실증지원센터를 중심으로 육성된다. 곤충 분야는 예천 곤충양잠산업거점단지를, 천연물은 안동의 경북바이오산업연구원을 기반으로 연구·개발이 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;그린바이오산업 혁신융합지구를 통해 연간 20개 이상의 스타트업이 생겨나고 2000여 명의 일자리 창출, 1조원 이상의 생산 유발 효과가 있을 것으로 경북도는 기대하고 있다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “그린바이오산업은 농업과 기업 간 새로운 상생 발전 모델이 될 것”이라며 “경북의 그린바이오 산업이 국가 산업의 선도 모델이 될 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>수도권 쓰레기 직매립 금지 예정대로 시행… ‘예외적 직매립’ 허용키로</title>
+      <link>https://www.chosun.com/politics/goverment/2025/12/02/BMHZPFERCBCLRDKLFK4DY3G67Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/12/02/BMHZPFERCBCLRDKLFK4DY3G67Q/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 08:50:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SRMTUBKFCBNNHIOSHDN4XPLFEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 서울 종로구 정부서울청사에서 열린 생활 폐기물 직매립 금지 이행 업무 협약식에서 참석자들이 기념 촬영을 하고 있다. 왼쪽부터 김태균 서울시 행정1부시장, 김동연 경기지사, 김민석 국무총리, 유정복 인천시장, 김성환 기후에너지환경부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부와 서울시·인천시·경기도가 수도권에서 수거한 쓰레기는 소각하지 않고 땅에 곧바로 묻는 것을 금지한 ‘직매립 금지’ 제도의 내년 1월 1일 시행을 재확인하고, 인천의 수도권 매립지에 쓰레기를 들일 때 매립지가 받는 수수료를 올리기로 했다.&lt;br&gt;&lt;br&gt;국무총리실에 따르면, 기후환경에너지부와 서울시, 인천시, 경기도는 2일 오후 정부서울청사에서 김민석 국무총리 주재로 ‘수도권 생활 폐기물 직매립 금지 제도의 원활한 시행을 위한 협약’을 맺었다. 협약식은 김민석 국무총리가 주재했고, 김성환 기후환경에너지부 장관과 유정복 인천시장, 김동연 경기지사, 김태균 서울시 행정1부시장이 참석했다.&lt;br&gt;&lt;br&gt;쓰레기 직매립 금지는 2015년 6월 환경부(현 기후부)와 서울시·인천시·경기도가 합의한 것으로, 생활 폐기물을 매립지에 곧바로 묻는 것을 금지하고, 태우고 남은 재만 묻도록 하는 것이다. 이후 2021년 7월 환경부는 폐기물관리법 시행규칙을 개정해 수도권은 2026년부터, 비수도권은 2030년부터 직매립을 금지했다. 그러나 공공 소각 시설 증설이 이뤄지지 않으면서, 일부 지방자치단체에서 ‘쓰레기 처리 대란’이 일어날 수 있다는 우려가 일었다. 직매립 금지가 임박하자 서울시와 경기도가 시행 유예를 주장했지만, 매립지를 가진 인천시가 반대해 시행 유예는 무산됐다.&lt;br&gt;&lt;br&gt;이와 관련해 총리실은 “기후부와 함께 지방정부 간 협의가 원만하게 진행되도록 입장 차이를 조정하고, 조정안 마련을 지원하는 중재 역할을 수행했다”고 밝혔다.&lt;br&gt;&lt;br&gt;그 결과로 나온 협약에 따르면, 기후부와 서울시·인천시·경기도는 “2026년 1월 1일부터 원칙적으로 수도권 지역 생활 폐기물 직매립 금지 제도를 시행한다”는 데 합의했다.&lt;br&gt;&lt;br&gt;그러면서도 “생활 폐기물의 안정적인 처리를 위해, 재난 발생 시, 폐기물 처리 시설 가동 중지 시 등 예외적인 상황에 대비한 안정화 장치를 법문(法文)화하는 등 과도기적 조치를 병행할 필요성에 공감한다”고 했다. 일상적인 직매립을 금지하되, 특정한 상황에서는 직매립을 허용할 길을 터놓기로 한 것이다. 그 기준은 4자가 협의해 만들고, 기후부가 연내에 법제화하기로 했다.&lt;br&gt;&lt;br&gt;이렇게 ‘예외적 직매립’을 허용하되, 그 양은 2029년까지 지속적으로 감축하기로 했다. 감축 대상과 목표의 세부 사항은 4자 간 협의와 수도권매립지공사법에 따른 운영위원회 심의를 통해 확정하기로 했다.&lt;br&gt;&lt;br&gt;수도권 매립지 생활 폐기물 반입 수수료는 인상을 추진하기로 했다. 수수료는 1톤(t)당 2021년 7만56원, 2022년 8만7608원, 2023년 9만7063원, 현재 11만6855원 등으로 지속적으로 인상돼 왔다. 추가 인상의 구체적인 범위는 내년 상반기까지 4자 간 협의와 수도권매립지공사법상 운영위원회 심의를 거쳐 확정하기로 했다.&lt;br&gt;&lt;br&gt;한편 서울시·인천시·경기도는 공공 소각 시설 확충에 총력을 다하고, 기후부는 관련 행정 절차 단축을 지원하며 국고 지원을 확대하기로 했다.&lt;br&gt;&lt;br&gt;김 총리는 “이번 협약은 수도권 폐기물 처리의 안정성을 확보하고 자원 순환 정책을 본격적으로 추진하기 위한 중요한 출발점”이라며 “정부는 중앙·지방정부 간 협력 체계를 흔들림 없이 유지해 폐기물 처리에 문제가 없도록 하겠다”고 했다.&lt;br&gt;&lt;br&gt;유정복 인천시장은 “직매립이 예외적인 경우, 불가피한 경우에 대해 우리 인천시가 명확하게 납득할 수 있도록 상황을 잘 조율해서 원칙적 직매립 금지가 잘 시행됐으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;김동연 경기지사는 “경기도는 공공 소각 시설이 부족한 상황이지만 2030년까지 모든 시설을 완비하려고 한다”며 “혹시 있을 수 있는 쓰레기 문제에 대해 수도권 주민 여러분께 걱정을 끼쳐 드리지 않도록 신경 쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;김태균 서울시 부시장은 “서울시 폐기물을 서울시 자체적으로 다 소각하기 위해 공공 소각 시설 건립을 열심히 노력하고 있다”고 했다. 그는 “다만 시간이 걸리는 문제라, (그동안은) 민간 소각 시설에서도 소각을 해야 한다”며 “이 부분에 대해 적극적인 협조와 이해를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;김성환 기후부 장관은 “쓰레기 소각장을 짓는 데 비용이 많이 들 뿐 아니라 시간도 8~10년씩 걸린다”며 “이 기간 행정 절차를 단축하고, 쓰레기 총량을 최대한 줄일 수 있도록 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡 이용자 37명, 개인정보위에 집단 분쟁 조정 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/02/6SPL6JFHBBAAFOG5MOWTNQXJ7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/6SPL6JFHBBAAFOG5MOWTNQXJ7E/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 08:32:56 +0000</pubDate>
+      <content:encoded>쿠팡 개인정보 유출 사건으로 피해를 본 쿠팡 이용자들이 손해배상을 요구하기 위해 2일 개인정보 분쟁 조정을 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YSRR2XLFLZE25GQ34QUW43QHFM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 11월 30일 오후 서울 중구 조선일보사에 쿠팡에서 배송한 택배 물류가 쌓여 있다. 휴대폰에 쿠팡 측이 보낸 개인정보 유출 관련 사과 문자 메세지가 떠있다. 3000만 명 넘는 쿠팡 이용자의 개인정보가 내부 직원에 의해 유출되면서 경찰이 수사에 착수했다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인정보보호위원회에 따르면, 쿠팡 이용자 37명은 이날 개인정보분쟁조정위원회에 개인정보 유출과 관련해 분쟁 조정을 신청했다.&lt;br&gt;&lt;br&gt;개인정보 분쟁 조정 제도는 개인정보 침해를 당한 국민의 피해를 구제하기 위한 제도다. 피해자가 사건을 접수하면 개인정보분쟁조정위원회가 심의해 결과를 낸다.&lt;br&gt;&lt;br&gt;앞서 지난 4월 발생한 SK텔레콤 개인정보 유출 사건 때도 이용자 3998명이 분쟁 조정을 신청해 “SKT가 신청인들에게 손해배상금 각 30만원씩 지급해야 한다”고 결정했다.&lt;br&gt;&lt;br&gt;이번 분쟁 조정 신청에 따라 분쟁조정위는 본격적인 심의에 들어갈 예정이다. 개인정보위 관계자는 “다만 SK텔레콤 때와 비슷하게 심의를 일시 정지할 가능성이 있다”고 했다.&lt;br&gt;&lt;br&gt;앞서 SK텔레콤 개인정보 유출 사건 다음 달인 5월 분쟁조정위는 소비자들의 분쟁 조정 신청을 받았지만, 각각 6월과 7월 이를 일시 정지했다. SK텔레콤에 대한 개인정보위 처분이 나올 때까지 기다려야 한다는 이유였다. 이후 8월 말 개인정보위 처분이 나오자 심의를 재개해 지난달 초 결론을 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>침대 낙상 사망 사고… 호출벨 설치 안 한 병원장 ‘벌금형’</title>
+      <link>https://www.chosun.com/national/regional/2025/12/02/U5Z4XG2HGNA7PCTRTRKL2YMBDY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/02/U5Z4XG2HGNA7PCTRTRKL2YMBDY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 02 Dec 2025 08:37:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지법 형사12단독 지현경 판사는 업무상 과실치상 혐의로 기소된 70대 병원장 A씨에게 벌금 500만원을 선고했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 9월 6일 경남 양산에 있는 자신의 병원에서 50대 환자 B씨의 낙상 사고 관련 호출벨과 낙상 피해 방지 시설물 등을 제대로 설치하지 않고, 당직 간호사에게 환자를 면밀히 간호하게 하지 않은 혐의 등으로 기소됐다.&lt;br&gt;&lt;br&gt;머리를 크게 다친 B씨는 ‘외상성 경막하출혈’ 진단을 받아 다른 병원에서 수술을 받았다. 결국 그는 의식을 되찾지 못했고, 지난해 5월 끝내 숨졌다. B씨의 사망진단서에 사망의 종류는 ‘외인사’, 사고의 종류는 ‘낙상’으로 기재돼 있었다고 한다.&lt;br&gt;&lt;br&gt;당시 B씨는 알코올 의존 증후군을 앓아 해당 병원에 입·퇴원을 반복했었다고 한다. 사고 전날에도 B씨는 만취 상태였고, 그의 아들이 입원시켰다.&lt;br&gt;&lt;br&gt;다음 날 새벽 간호사가 혈압을 측정하기 위해 B씨 침대의 난간을 내렸다. 이후 B씨는 침대에 앉아 간호사에게 받은 소변통에 소변을 봤고, 옷에 튄 소변을 처리하기 위해 침대에서 내려오다가 몸을 가누지 못해 넘어지면서 머리를 벽에 부딪혔다.&lt;br&gt;&lt;br&gt;법정에서 A씨 측은 “병원장으로서 간호사 행위를 일일이 지도·감독해야 할 의무가 없다”면서 “보호 난간이 있는 침대뿐 아니라 보호실에 CCTV와 벽면 패드 등을 설치해 병원장으로서 주의 의무를 다했다”고 주장했다.&lt;br&gt;&lt;br&gt;이에 재판부는 “당시 B씨는 혼자 침대에서 내려오거나 보행할 경우 낙상의 위험성이 상당한 상태였다”며 “A씨는 낙상 위험이 상당한 환자의 면밀한 간호에 대해서는 제대로 교육하고, 필요한 지도·감독을 다했다고 보긴 어렵다”고 했다.&lt;br&gt;&lt;br&gt;이어 “보호실에 폼블럭 일부분이 뜯겨 있음에도 이를 제때 보수하지 않았고, 일부 환자가 반복적으로 호출벨을 누를 가능성과 간호사들의 업무 편의 등을 이유로 호출벨을 설치하지 않는 등 주의의무를 다했다고 볼 수 없다”며 유죄를 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“전자제품 훔쳐갔다”… 전세 만료 후 세입자 무고한 50대 집주인 징역형</title>
       <link>https://www.chosun.com/national/regional/2025/12/02/7DNM3Q3Q7BGO7JNGE42BRTIQCA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/02/7DNM3Q3Q7BGO7JNGE42BRTIQCA/</guid>
@@ -851,85 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G7DZMO7TTNI6FD2BKM4YE7D4YQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김민석 국무총리가 1일 오후 서울 여의도 중소기업중앙회에서 열린 중소기업 규제 합리화 현장 대화에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국무총리실이 김민석 국무총리를 내년 서울시장 선거 여론조사 대상에서 제외해 달라고 1일 요청했다.&lt;br&gt;&lt;br&gt;총리실은 이날 각 언론사와 여론조사 업체에 공문을 보내 “김 총리는 민생, 경제, 국민 안전 등 주요 국정 현안 대응에 전념하고 있다”며 “현 시점에 총리가 서울시장 선거 여론조사에 포함되는 것은 적절치 않다고 판단된다”고 했다. 그러면서 “서울시장 선거 관련 여론조사의 조사 대상에서 김 총리를 제외해 주실 것을 공식 요청드린다”고 했다.&lt;br&gt;&lt;br&gt;총리실 관계자는 “김 총리가 서울시장 선거에 출마할 생각이 없다고 여러 차례 밝혔는데도 김 총리를 후보로 넣은 여론조사가 계속 이뤄지고 있다”며, 이번 공문 발송과 관련해 김 총리의 지시가 있었다고 설명했다.&lt;br&gt;&lt;br&gt;김 총리의 지시는 이날 오전 김어준씨가 운영하는 여론조사 업체 ‘여론조사꽃’이 김 총리와 오세훈 서울시장의 내년 서울시장 선거 가상 대결에서 김 총리가 앞선다는 조사 결과를 내놓은 직후 나왔다. 김 총리 지지율은 47.2%로, 오 시장 34.9%를 12.3%포인트 앞섰다. ‘투표할 인물이 없다’는 응답자가 14.9%, 모름·무응답은 1.9%, 그 밖의 인물은 1.1%였다. 여론조사꽃은 지난달 24일부터 27일까지 서울에 사는 18세 이상 3012명을 대상으로 가상 번호를 활용한 무선 전화 인터뷰 방식으로 조사를 시행했고, 응답률은 10.5%, 표본 오차는 95% 신뢰 수준에서 ±2.2%포인트였다고 주장했다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참고하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>옥주현, 미등록 기획사 운영 혐의로 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/2UTGTGJUVBBMDPA76QSCV7BZG4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/2UTGTGJUVBBMDPA76QSCV7BZG4/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:44:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TBSXIGS7BDMRA7Q432DJXDKE4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;뮤지컬 배우 옥주현. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 겸 뮤지컬 배우 옥주현(45)씨가 미등록 상태에서 연예 기획사를 운영한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기 남양주북부경찰서는 대중문화예술산업발전법 위반 혐의로 옥씨를 지난달 27일 불구속 송치했다고 1일 밝혔다. 옥씨는 자신이 설립한 연예 기획사 TOI엔터테인먼트(TOI)를 대중문화예술기획업자 등록 없이 운영한 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 국민신문고 등 고발이 이어졌고, 기획사 소재지가 남양주시 별내동인 점을 고려해 남양주북부경찰서가 수사해 왔다. 대중문화예술산업발전법에 따르면 대중문화예술기획업자가 등록 없이 영업할 경우, 2년 이하 징역이나 2000만원 이하 벌금형에 처할 수 있다.&lt;br&gt;&lt;br&gt;논란이 처음 불거졌을 때 TOI 측은 “회사 설립 초기인 3년 전 등록을 준비하며 온라인 교육까지 이수했으나, 이후 행정 절차에서 누락이 발생한 것으로 보인다”며 “법적 절차를 의도적으로 회피하거나 불법적으로 회사를 운영한 건 결코 아니다”라고 해명한 바 있다.&lt;br&gt;&lt;br&gt;TOI는 현재 문화체육관광부의 ‘대중문화예술기획업 일제 등록 계도 기간’에 기획업 등록을 완료한 것으로 전해졌다. 다만 경찰은 이전의 무등록 운영 사실이 확인돼 혐의가 인정된다고 판단했다며 “구체적인 범죄 사실은 밝힐 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>부산 목재 공방서 톱날에 다친 20대 수강생 숨져</title>
-      <link>https://www.chosun.com/national/incident/2025/12/01/3FCWRAAYM5G5ZHIWCVPHQU4EB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/01/3FCWRAAYM5G5ZHIWCVPHQU4EB4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:38:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSTOMZXGQ3DAZBVMU2TEMJUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산진경찰서 전경 ⓒ News1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 공방에서 수강생이 톱날에 목을 다쳐 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;1일 부산 부산진경찰서에 따르면, 이날 오후 1시 47분쯤 부산 부산진구 한 공방에서 20대 여성 수강생 A씨가 톱날에 크게 다쳐 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;얼굴과 목 등을 다친 A씨는 병원에서 치료를 받다가 이날 오후 3시 40분쯤 숨졌다.&lt;br&gt;&lt;br&gt;사고가 발생한 곳은 나무를 재료로 사용하는 공방으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>伊 신혼여행하던 한국 공무원 부부, 쓰러진 시민 구했다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/F47XM72OUJCDXCMWH3SGNML5DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/F47XM72OUJCDXCMWH3SGNML5DU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 06:48:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23QC6NMYWZDYBBAPSKNYU7DTCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 2일 이탈리아 밀라노 두오모 광장에서 쓰러진 시민에게 심폐소생술을 하고 있는 윤제헌 경감. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 공무원 부부가 이탈리아 신혼여행 중 유명 관광지 두오모 광장에서 쓰러진 50대 남성을 구한 사연이 알려져 화제다.&lt;br&gt;&lt;br&gt;1일 국무총리실 등에 따르면 국무조정실 안전환경정책관실 재난대응팀에서 파견 근무 중인 윤제헌(35·해양경찰 간부후보 67기) 경감은 지난달 2일 이탈리아 밀라노 두오모 광장에서 신혼여행을 즐기던 중 쓰러진 50대 남성을 목격하고 즉시 구호 조치에 나섰다. &lt;br&gt;&lt;br&gt;당시 광장엔 현지인과 관광객이 많았지만 쓰러진 남성을 보고 다들 당황한 듯 어찌할 바를 모르고 있었다. 패키지여행 중이던 윤 경감은 함께 여행하는 팀원들이 차후 일정에 차질을 빚을까 봐 잠시 망설였지만 곧장 인파를 뚫고 남성에게 달려갔다.&lt;br&gt;&lt;br&gt;윤 경감은 남성의 상태를 확인한 뒤 즉시 심폐 소생술(CPR)을 실시했고, 신고가 지연되지 않도록 아내와 주변인들에게 응급전화 요청을 맡겼다. 윤 경감의 아내 역시 고용노동부 소속 공무원이라 응급 상황 대처법을 잘 알고 있어 신속히 신고를 도왔다고 한다.&lt;br&gt;&lt;br&gt;윤 경감이 약 2∼3분간 CPR을 이어가던 중 현지 경찰과 구조대가 도착했으며 쓰러졌던 남성은 호흡을 되찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 경감은 뉴스1과의 인터뷰에서 “일단 사람을 살려야겠다는 생각으로 갔다”며 “해외 체류 중 우연히 마주한 상황에서 공무원으로서 당연한 조치를 했을 뿐이다. 대한민국 공무원 누구라도 그 상황이면 같은 행동을 했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 같은 사연은 주한 이탈리아 대사관에도 알려졌다. 에밀리아 가토 대사는 지난달 28일 윤 경감과 가족을 대사관으로 초대해 직접 감사 인사를 전했다. &lt;br&gt;&lt;br&gt;윤 경감은 “개인의 미담으로 보기보다, 해외에서 공직자가 기본 역할을 수행한 사례라고 봐달라”며 “특별한 용기는 아니다”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CHKRGWZZN5BPHNGCMKT64QIIJU.jpg?auth=2a7061e8b521f96d43fc1c864525542b76b3cf771d5bb23929c65923d39a4022&amp;smart=true&amp;width=383&amp;height=287" type="image/jpeg" height="287" width="383">
-        <media:description type="plain">지난달 2일 이탈리아 밀라노 두오모 광장에서 쓰러진 시민에게 심폐소생술을 하고 있는 윤제헌 경감. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>오세훈 “민주당 하명에 따른 정치적 특검” 기소에 반박</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/6KQVQ3QY7NH4VIE355PGOK2WCE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/6KQVQ3QY7NH4VIE355PGOK2WCE/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 06:00:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4DSN3EMFSTINBTGEZDGYJZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. 2025.11.8 /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여론조사 비용 대납 의혹으로 1일 재판에 넘겨진 오세훈 서울시장이 민중기 특별검사팀의 기소에 즉각 반발했다. 오 시장은 이날 보도자료를 통해 “특검이 민주당 하명에 기소를 강행했다”며 “민주당과 명태균이 한 몸이 되어 특검과 함께 ‘오세훈 죽이기’를 하겠다는 것”이라고 했다. &lt;br&gt;&lt;br&gt;오 시장은 또 “1년2개월 수사하고 휴대전화 8대를 포렌식 했지만 직접 증거는 단 하나도 찾지 못했다”며 “무리한 짜맞추기 기소”라고 했다. &lt;br&gt;&lt;br&gt;오 시장은 또 “명태균의 여론조사는 대부분 여론조사라고 간주할 수 없을 정도로 모든 것이 조작된 가짜였다, 이로 인해 명씨는 사기범죄로 고소됐다”며 “이에 대한 특검 수사결과는 하나도 없다”고 특검의 편향된 수사를 비판했다. &lt;br&gt;&lt;br&gt;앞서 민중기 특검은 명태균씨로부터 여론조사를 의뢰하고 그 비용을 대납하게 했다며 1일 오 시장을 기소했다. 특검은 “피고인 오세훈은 명태균에게 ‘서울특별시장 보궐선거 관련 여론조사’를 해달라는 취지로 부탁했다”고 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, 오세훈 시장 기소... 명태균 여론조사비 대납 혐의</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/01/2SEAZBYK6NAKVEOBSQBMOJK4OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/2SEAZBYK6NAKVEOBSQBMOJK4OE/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 05:30:00 +0000</pubDate>
-      <content:encoded>오세훈 서울시장이 ‘정치 브로커’ 명태균씨로부터 여론조사를 의뢰하고 그 비용을 대납하게 했다는 의혹을 수사 중인 민중기 특별검사팀이 1일 오 시장을 기소했다. 다만 명씨는 오 시장과 함께 재판에 넘겨지지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E3FXLZOQXZPSTAHBWRAU4572ZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 1일 서울 노원구 중계본동 일대에서 열린 백사마을 재개발사업 기공식에서 축사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검은 이날 오 시장과 강철원 전 서울시 정무부시장, 사업가 김한정씨 등을 정치자금법 위반 혐의로 기소했다고 밝혔다. 강 전 부시장은 2021년 4월 서울시장 보궐선거 당시 오 시장 캠프 비서실장을 지냈다. 김씨는 오 시장의 후원회장으로 여론조사 비용을 대신 지불했다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;특검은 “피고인 오세훈은 명태균에게 ‘서울특별시장 보궐선거 관련 여론조사’를 해달라는 취지로 부탁하고, 선거 캠프 비서실장인 피고인 강철원에게 명태균과 상의해 여론조사를 진행해 달라는 취지로 지시했다”며 “명태균은 피고인 오세훈의 부탁에 따라 2021년 1월 22일부터 그해 2월 28일까지 총 10회에 걸쳐 서울특별시장 보궐선거에 관한 여론조사를 진행하고, 피고인 강철원은 명태균과 연락하며 설문지를 주고받는 등 여론조사 진행을 상의했다”고 밝혔다.&lt;br&gt;&lt;br&gt;특검은 이어 “김씨는 2021년 2월 1일부터 그해 3월 26일까지 총 5회에 걸쳐 여론조사 비용 명목으로 합계 3300만원을 지급했다”고 적었다. &lt;br&gt;&lt;br&gt;앞서 특검은 지난달 8일 오 시장과 명씨의 대질 신문을 6시간가량 진행했다. 당시 명씨는 특검 조사 후 “(오 시장이) 기억이 안 난다고 한 부분이 너무 많았다”고 했다. 오 시장은 “5년 전 일을 소상하게 기억하는 게 오히려 어색한 일”이라고 말했다.&lt;br&gt;&lt;br&gt;특검은 이날 명씨는 기소하지 않았다. 특검 관계자는 명씨를 피의자로 전환하거나 기소할 계획이냐는 질문에 “이 사건의 본질은 김씨가 여론조사 비용을 대납한 것이고, 서울시와 강 전 부시장이 여론조사 결과를 받은 것인 만큼 명씨를 피의자로 전환할 수가 없다”고 했다. &lt;br&gt;&lt;br&gt;오 시장이 혐의를 부인하고 있고, 대질 신문에서도 양측의 입장이 대립한 것과 관련해서는 “관련자 진술뿐 아니라 물적·인적 증거를 종합해 혐의를 입증할 수 있다고 판단해 (오 시장을) 기소한 것”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장 측은 “오 시장이 강 전 부시장에게 지시한 걸 누가 들었다는 건지 모르겠다”며 “오 시장을 기소하며 명씨를 기소하지 않은 이유도 납득이 가지 않는다”고 했다. 오 시장은 명씨에게 여론조사를 의뢰하거나, 이에 바탕해 여론조사 결과를 받아본 적이 없다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/VQS7G434DNF6XIYMQSRG6EUAUA.jpg?auth=32fdd0cc46b855d4604b4aa8e4915a69096df9d8ef018e84b269c953cdf31995&amp;smart=true&amp;width=2944&amp;height=1656" type="image/jpeg" height="1656" width="2944">
-        <media:description type="plain">오세훈 서울시장이 27일 서울 여의도 국회 의원회관에서 열린 국민의힘 서울시당 주거사다리정상화특별위원회 정책토론회에서 발언하고 있다. 2025.11.27 /남강호 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">NAM.KANGHO</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>“학원 안 가도 돼요” 도로 연수, 이제 집 앞에서 받을 수 있다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/5ZJRVNVIUZAVPIVJ7DSKPI7VCI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/5ZJRVNVIUZAVPIVJ7DSKPI7VCI/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 06:14:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VUBVPX57VNPQRLCZVVEURZPI6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서대문구 경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오는 2일부터 집 앞에서도 운전학원의 도로 연수를 받을 수 있게 된다. 운전학원에 대한 규제가 완화되며 도로 연수 수강료도 대폭 낮아질 전망이다.&lt;br&gt;&lt;br&gt;경찰청은 오는 2일부터 개정된 도로교통법 시행령 및 시행규칙이 시행되면서 운전학원 강사가 직접 학원 차량을 몰고 수강생이 원하는 장소로 이동해 도로 연수를 할 수 있게 됐다고 1일 밝혔다.&lt;br&gt;&lt;br&gt;그동안 면허를 취득한 초보 운전자는 도로 연수를 받기 위해 직접 운전학원을 방문해 지문 등록과 수강 신청을 마친 뒤 교육을 받아야 했다. 이 때문에 등록된 운전학원 강사가 아닌 사설 강사에게 교육을 받는 불법 도로 연수가 만연했다. 불법 도로 연수의 경우 차량에 보조 브레이크 등이 장착되지 않아 사고 위험이 크고, 강사가 보험에 가입돼 있지 않을 경우 사고 시 제대로 된 보상을 받지 못하는 등의 문제가 있다.&lt;br&gt;&lt;br&gt;도로 연수 교육 차량 등에 대한 규제도 대폭 완화된다. 그동안 운전학원은 차량 도색·규격 기준 등이 엄격하게 적용되는 교육용 차량만 사용할 수 있었다. 그러나 규제 완화에 따라 추가 도색을 하지 않아도 되고, 기존 규격 기준에서 벗어나 경차·중형차·대형차 등 다양한 차종을 운용할 수 있게 됐다. 학원 운영비가 절감됨에 따라 10시간 기준 평균 58만원이었던 도로 연수 수강료도 대폭 낮아질 전망이다.&lt;br&gt;&lt;br&gt;김호승 경찰청 생활안전교통국장은 “수강생에게 최대한의 편의를 제공하고 교육비 부담을 최소화함으로써 초보 운전자가 안전하게 운전 교육을 받을 수 있는 환경을 조성하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“남의 여자친구랑 뭐 하시냐”... 성추행 의혹 장경태, 당시 영상 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/11/28/2JPNHQEH4ZHKHDJCUHTC6S45TY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/11/28/2JPNHQEH4ZHKHDJCUHTC6S45TY/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 28 Nov 2025 00:05:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KWJKX2HHZZCVREB6BKAKVYFBXU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 장경태 의원이 식당에서 목뒷덜미 부근을 잡힌 모습. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장경태 더불어민주당 의원이 성추행 혐의로 고소당한 가운데 고소인의 남자친구가 사건이 일어난 식당을 방문해 장 의원에게 강하게 항의했던 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;27일 경찰 등에 따르면, 고소인 A씨는 지난해 10월 서울 여의도의 한 식당에서 장 의원에게 성추행을 당했다고 주장하고 있다. 당시 저녁 술자리는 국회 의원실 보좌진들이 모인 자리였는데, A씨는 야당 국회의원 보좌진으로 알려졌다.&lt;br&gt;&lt;br&gt;이날 TV조선이 공개한 영상을 보면, 술자리에 뒤늦게 합류한 장 의원은 술에 취해 고개를 잘 가누지 못하는 A씨 옆에 앉아 몸을 상대방 쪽으로 기울였다. 이 영상은 당시 A씨의 남자친구가 현장을 찾았다가 휴대전화로 찍은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;이후 A씨의 남자친구는 “뭐 하시는데? 남의 여자친구랑 뭐 하시냐고”라며 강하게 항의했다. 이 과정에서 장 의원이 목뒷덜미 부근을 잡힌 모습도 포착됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EU7XG4UL6BHBXB6L5E3HBRAU24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경태 의원이 사건 당일 고소인 A씨 옆자리에 앉아있는 모습. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨는 지난 25일 경찰에 장 의원을 준강제추행 혐의로 고소했고, 사건을 이관받은 서울경찰청이 수사에 착수했다.&lt;br&gt;&lt;br&gt;A씨는 고소장에서 ‘상황을 제대로 인식하거나 대응할 수 없는 항거불능 상태였다’면서, ‘주변의 만류와 제지에도 불구하고 성추행을 했다’고 주장했다.&lt;br&gt;&lt;br&gt;장 의원은 소셜미디어를 통해 “허위, 무고에 대해 강력 대응하겠다”며 “전혀 사실이 아닌 허위 무고와 관련, 음해에 대해 법적 조치를 포함해 강력 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;장 의원은 기자들과 만나서는 “(A씨의) 남자친구라는 사람이 와서 행패를 부려 저는 그냥 바로 자리에서 일어났다”고 주장했다. &lt;br&gt;&lt;br&gt;장 의원은 TV조선 보도와 관련해선 28일 소셜미디어를 통해 “사건 다음날 저는 당시 자리를 함께했던 분들과 일상적인 안부 연락을 주고받았고, 심지어 그중 한 분은 그 남성의 폭력적 행동으로 인해 제게 벌어진 불미스러운 상황을 오히려 걱정해 주기까지 했다”라며“당시 현장에서 주변의 만류에도 불구하고, 폭력을 지속한 사람은 바로 그 남성”이라고 했다.&lt;br&gt;&lt;br&gt;조선닷컴은 이와 관련한 장 의원 측의 입장을 청취하기 위해 수차례 연락을 취해봤지만 연락이 닿지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 마지막 달동네 백사마을, 3178가구로 재개발 ‘첫 삽’</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/01/FJ5MLVDP4FAUZJAECUZYTFAPOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/01/FJ5MLVDP4FAUZJAECUZYTFAPOU/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 05:34:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVOQ2JF3GJI2VPBHNDPA5DWR3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;우원식 국회의장(오른쪽 여섯번째)과 오세훈 서울시장(왼쪽 일곱번째) 등 참석자들이 1일 서울 노원구 중계본동 일대에서 열린 백사마을 재개발사업 기공식에서 기념 사진을 찍고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘서울 마지막 달동네’로 불리는 노원구 백사마을을 3178가구 아파트 단지로 재개발하는 사업이 1일 첫 삽을 떴다. 2009년 사업을 처음 추진한 지 16년 만이다.&lt;br&gt;&lt;br&gt;서울시는 1일 노원구 백사마을 일대에서 ‘백사마을 재개발 사업 기공식’을 열었다고 밝혔다.&lt;br&gt;&lt;br&gt;백사마을은 불암산 자락에 있다. 주소가 ‘노원구 중계본동 산 104번지’라 백사마을이라는 이름이 붙었다. 1967년 청계고가 건설로 철거된 청계천 판자촌 주민들이 이곳으로 이주한 게 마을의 시초다. 이후 영등포나 용산 등에 살던 철거민들도 이주해 주민이 1100가구까지 늘었다. 동작구 ‘가마니촌’, 관악구 ‘승리촌’ 등 다른 달동네들이 1980년대부터 재개발되는 동안 이곳은 개발제한구역(그린벨트)으로 묶여 사업을 추진하기 어려웠다.&lt;br&gt;&lt;br&gt;서울시는 2008년 그린벨트를 풀고 본격적인 백사마을 재개발에 나섰다. 이듬해 이곳에 아파트 단지를 짓는 계획을 냈지만 사업성 부족 등으로 사업이 지지부진했다. 2022년부터 주민들과 소통하며 재개발 계획을 다시 짜기 시작해 올 4월 이를 확정했다.&lt;br&gt;&lt;br&gt;백사마을은 최고 35층 26동 3178가구 아파트 단지로 재개발한다. 이 중 565가구가 임대 주택이다. 서울시 관계자는 “일반 분양과 임대 주택을 구분할 수 없도록 둘을 섞는 방식으로 설계했다”고 말했다.&lt;br&gt;&lt;br&gt;서울시는 지난 5월부터 마을에 있던 집 1150채를 철거하는 공사에 들어갔다. 올 연말까지 철거 공사를 마치고 내년 상반기 착공할 계획이다. 2029년까지 완공해 입주를 마치는 게 서울시 목표다.&lt;br&gt;&lt;br&gt;오세훈 서울시장은 이날 기공식에서 “백사마을 재개발은 시민들의 쾌적한 주거 환경을 실현하기 위한 핵심 과제”라며 “착공부터 입주까지 모든 절차를 신속하고 투명하게 추진하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>매서운 초겨울 추위...내일 서울 출근길 체감기온 영하 5도</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/01/ARG7XQYRSBAWXICN5GE5J5X3J4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/01/ARG7XQYRSBAWXICN5GE5J5X3J4/</guid>
@@ -955,15 +962,6 @@
       <description/>
       <pubDate>Mon, 01 Dec 2025 02:50:45 +0000</pubDate>
       <content:encoded>현직 검사가 검사 선발의 관문으로 꼽히는 로스쿨 ‘검찰 실무’ 시험 문제를 일부 학교에서만 미리 알려줬다는 논란이 일자, 법무부가 1일 재시험을 실시하기로 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMZWKN3DHAZDSZLGGY4TENZRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고(뉴스1 자료) ⓒ News1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 29일 전국 로스쿨에서는 ‘검찰실무1′ 기말시험이 치러졌다. 검찰실무1 과목은 현직 검사가 각 로스쿨에 파견돼 강의하는 과목이다. 전국 로스쿨생이 한날 한시에 똑같은 문제로 시험을 치른다. 이 과목의 성적은 검찰 선발 과정에서 높은 비중으로 반영돼서, 사실상 검사 선발의 관문으로 여겨진다. &lt;br&gt;&lt;br&gt;그런데 시험이 치러진 직후 로스쿨생들 사이에서는 “일부 학교에 출강한 검사가 어떤 문제가 나올지 미리 알려줬다”는 논란이 퍼졌다. 강원대·성균관대·한양대에 출강한 한 현직 검사가 수업 도중 시험에 어떤 문제가 나올지를 집어줬다는 것이다.&lt;br&gt;&lt;br&gt;이 검사는 “이번 시험이 유독 어려우니 잘 보라”는 취지로 말하며, 수십 개 죄명 가운데 일부를 형광펜으로 표시하거나 구두로 읽어주며 사실상 출제 범위를 알려줬다고 전해진다. &lt;br&gt;&lt;br&gt;논란이 커지자 법무부는 이날 검찰실무1 과목에 대한 재시험을 실시하겠다고 밝혔다. 법무부는 “시험일 전 특정 학교에서 사전 협의된 시험 범위를 벗어나 ‘공소장 및 불기소장에 기재할 죄명에 관한 예규’ 수업이 진행되던 중 음영 등 중요 표시된 죄명이 학생들에게 제시되고, 일부가 실제 출제된 것으로 확인됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “전국 로스쿨에 출강하는 검사 교수들은 법무연수원 소속으로 모든 학교에 균일한 강의를 하기 위해 협의해 강의안을 마련하고 있다”며 “이번 사안은 협의한 범위를 벗어나 강의가 이뤄졌고, 평가의 공정성에 상당한 영향을 줄 수 있다고 판단해 재시험을 결정했다”고 설명했다. 법무부는 이르면 이날 중 재시험 날짜를 정해 학생들에게 안내할 방침이다.&lt;br&gt;&lt;br&gt;법무부는 사실 관계 등을 파악해 재시험을 결정했고, 경위를 추가로 파악해 해당 검사에 대해 감찰 등 조치를 취할지 검토하고 있다는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주운전 3번 하면 가중처벌 규정 ‘합헌’… 헌재 “재범 기간 제한 있어 윤창호법과 달라”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/01/3T4V6E7VXBAZLKN6AR4KE7ADDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/3T4V6E7VXBAZLKN6AR4KE7ADDI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 03:01:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRPL2WI3T5CZNNDV27TEQJWPKI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 대통령 탄핵심판 첫 변론준비기일이 열리는 2024년 12월 27일 서울 종로구 북촌로 헌법재판소 모습./전기병 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일정 기간 내 3차례 음주운전에 적발되면 가중처벌하는 구(舊) 도로교통법 조항은 헌법에 어긋나지 않는다는 헌법재판소 결정이 나왔다. &lt;br&gt;&lt;br&gt;헌재는 구 도로교통법 제148조의2 제1항 제1호에 대해 지난달 27일 재판관 9명의 전원 일치 의견으로 합헌 결정을 내렸다. 이 조항은 음주운전으로 3번째 적발되면 1~3년의 징역 또는 500만~1000만원의 벌금으로 처벌하도록 규정하고 있었고, 2018년 음주운전 재범 처벌을 강화하는 일명 ‘윤창호법’이 도입되면서 대체됐다.&lt;br&gt;&lt;br&gt;이번 헌법심판은 2015년과 2017년 2차례 음주운전으로 유죄가 확정된 A씨가 2018년 8월 면허 없이 혈중알코올농도 0.153% 상태로 운전해 3번째 위반으로 기소된 게 발단이 됐다. A씨는 이 조항을 적용 받게 되자 지난해 재판 과정에서 재판부에 위헌법률심판제청을 신청했고, 법원이 이를 받아들여 헌재에 제청했다.&lt;br&gt;&lt;br&gt;음주운전 횟수에 따라 가중처벌하는 법 조항은 여러 차례 개정됐다. 2011년 6월 도로교통법에 ‘음주운전을 3번 이상 한 경우 1~3년의 징역이나 500만~1000만원 이상 벌금형으로 가중처벌’하는 조항이 처음 생겼고, 이는 2018년 군 복무 중 휴가를 나왔던 윤창호씨가 음주운전 사고로 숨진 사건을 계기로 ‘음주운전을 2번 이상 하면 2~5년의 징역이나 1000만~2000만원의 벌금으로 처벌’하도록 강화됐다. &lt;br&gt;&lt;br&gt;그런데 개정된 가중처벌 조항(윤창호법)에 대해 2021년 헌재는 “과거 음주운전과 두 번째 음주운전 사이 아무런 시간적 제한을 두지 않아 책임에 비해 과도한 형벌을 규정한다”면서 위헌 결정을 내렸다. 해당 조항은 효력을 상실했고 2023년 7월 개정된 현행 도로교통법은 음주운전으로 벌금형 이상의 형이 확정된 날로부터 10년 이내에 다시 적발되면 가중처벌을 받도록 하고 있다.&lt;br&gt;&lt;br&gt;헌재는 심판 대상 조항은 2021년 당시 시행 중이던 윤창호법과는 사안이 다르다고 설명했다. 헌재는 “이 조항으로 가중처벌되는 경우는 전부개정 도로교통법이 시행된 2006년 6월 1일부터 다시 개정되기 전인 2018년 9월 27일까지 약 12년 4개월 사이에 3차례 음주운전에 적발됐을 경우에 해당한다”면서 “(윤창호법)선례와 달리 기간 제한이 있어 책임과 형벌 간의 비례원칙에 위배되지 않는다”고 했다.&lt;br&gt;&lt;br&gt;이어 “음주운전을 3번 이상 반복한 자는 주취 정도와 관계 없이 교통법규에 대한 준법정신이나 안전의식이 현저히 부족하다고 볼 수 있다”며 “3번 이상 음주운전자를 가중처벌하는 것은 합리적 이유가 있다”고 했다.&lt;br&gt;&lt;br&gt;다만 헌재 해석에 따르면 해당 조항은 A씨처럼 2006년 6월 1일부터 2018년 9월 27까지 12년 4개월의 기간 3번 이상 음주운전을 했고, 마지막 음주운전이 2011년 12월 9일 이후인 경우에만 적용되기 때문에, 이 조항으로 가중처벌되는 경우는 많지 않을 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“참돔 2㎏ 주문했는데 258g뿐”...믿고 찾은 단골 횟집에 분통</title>
