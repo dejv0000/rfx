@@ -13,6 +13,37 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>천대엽, 내란재판부 설치법에 “삼권분립 역사의 뒤안으로 사라져”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/03/7VDD5PI7GVHITHFO76D2AMQCSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/7VDD5PI7GVHITHFO76D2AMQCSI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Dec 2025 14:03:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7CO426J3KBJVXB7T2MAFWIHNVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천대엽 법원행정처장이 3일 서울 여의도 국회에서 열린 제429회 국회(정기회) 법제사법위원회 제16차 전체회의에서 의원들 질의에 답하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;천대엽 법원행정처장은 3일 더불어민주당이 추진하는 내란전담재판부 설치법이 시행되면 “87년 헌법 아래서 누렸던 삼권분립과 사법부 독립이 역사의 뒤안으로 사라질 수 있다”고 했다.&lt;br&gt;&lt;br&gt;천 처장은 이날 국회 법제사법위원회 전체회의에서 대법원이 내란전담재판부의 위헌성을 지적한 이유를 설명하면서 “처분적 법률(특정한 개인이나 사건을 대상으로 하는 법)이 원칙적으로 허용되지 않는 것처럼 처분적인 재판부 구성도 허용되지 않는다는 것이 선진 사법의 기본 원칙”이라고 했다. 또 “저는 모든 판사를 믿습니다만, 국민들이 볼 때 판사가 외부 구성원들에 의해 선정된다는 자체만으로 재판을 신뢰하지 않을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;내란전담재판부 설치법은 서울중앙지법과 서울고법에 12·3 비상계엄 관련 1·2심 사건을 맡을 전담 재판부를 설치하는 것이 골자다. 전담재판부 법관은 헌법재판소장·법무부장관·판사회의가 3명씩 추천한 위원 9명으로 구성된 후보추천위원회에서 2배수를 뽑으면 대법원장이 그 중에서 임명하도록 했다.&lt;br&gt;&lt;br&gt;천 처장은 “헌법재판소가 결국 이 법안에 대해 위헌 심판을 맡게 될 텐데 헌재소장이 추천권에 관여한다면 심판이 선수 역할을 하게 돼 ‘룰’에 근본적으로 모순이 생긴다”고 했다. 이어 “헌재소장과 직·간접적 관계에 있는 헌법재판관들이 재판(위헌심판)을 맡을 수 없게 된다면 ‘내란특별헌법재판부’도 만들어야 한다는 것이 이 법이 예정하고 있는 바”라고 했다. &lt;br&gt;&lt;br&gt;조희대 대법원장이 현재 내란 사건 재판부를 지정했다는 취지의 여당 의원들 주장에 대해 천 처장은 “대법원장님이 마치 개별 법관의 사무분담에 관여하는 것처럼 말씀하시는데 그렇지 않다”면서 “2009년 이른바 촛불 사건 배당으로 인해 사법파동이 벌어졌고, 그 때를 기점으로 중요한 사건에 대해 법원장이 지정하거나 임의 배당하는 제도가 없어지고 사무분담위원회에서 전적으로 법관들의 의사에 의해 법관을 지정하는 것이 모든 법원의 확립된 관행이 됐다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>동덕여대 “2029년부터 남녀 공학”... 학생 반발에 진통 예상</title>
+      <link>https://www.chosun.com/national/education/2025/12/03/7CWZVAYWUZBN3FOKKNCHRR2MRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/03/7CWZVAYWUZBN3FOKKNCHRR2MRM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Dec 2025 11:42:24 +0000</pubDate>
+      <content:encoded>동덕여대가 2029년 남녀 공학으로 전환을 결정했다. 심각한 인구 감소 속에서 대학의 미래 경쟁력을 키우기 위해선 남녀 공학 전환이 필요하다고 판단한 것이다. &lt;br&gt;&lt;br&gt;3일 김명애 동덕여대 총장은 입장문에서 “(남녀 공학 전환과 관련한) 공론화위원회에서 제출받은 (남녀 공학 전환) 결과를 수용하겠다”며 “공학 전환 이행은 현재 재학생이 졸업하는 2029년”이라고 밝혔다. &lt;br&gt;&lt;br&gt;동덕여대는 작년 11월 남녀 공학 전환을 논의했지만, 이에 반발한 학생들이 대학 본관을 점거하고 래커칠 시위를 벌이며 홍역을 겪었다. 이후 교수, 학생, 직원, 동문 등으로 구성된 공론화위원회를 꾸려 6개월가량 토론과 설문조사를 했다. 그 결과 공학 전환 찬성 의견이 토론(75.8%)과 타운홀 미팅(57.1%), 온라인 설문조사(51.8%) 등 모든 단계에서 높게 나왔다. 공론화위는 이런 결과를 바탕으로 2일 ‘공학 전환’ 추진을 대학에 권고했다. &lt;br&gt;&lt;br&gt;인구 감소 영향으로 여대에서 남녀 공학으로 전환하는 대학들이 계속 나오고 있다. 현재 전국 4년제 여대는 7곳으로, 동덕여대가 공학으로 전환하면 6곳(이화·숙명·성신·덕성·서울·광주여대)만 남는다. 과거 성심여대(현 가톨릭대)와 대구 효성여대(대구가톨릭대), 상명여대(상명대), 부산여대(신라대)가 남녀 공학으로 전환했다. 덕성여대와 성신여대는 전환을 시도했다가 학생들 반대에 막혀 무산됐다. &lt;br&gt;&lt;br&gt;동덕여대도 상당수 학생이 공학 전환에 반발하고 있어 실제 전환까지는 진통이 예상된다. 현재 동덕여대 총학생회 산하 중앙운영위원회는 “교수와 동문보다 학생 수가 많은데 공론화위에서는 학생의 의견을 다른 구성원과 동일한 비율로 반영해 학생 의견이 충분히 반영되지 않았다”며 반발하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/R5M2JSJDZRP6JLRF4FODTEPUV4.jpg?auth=64e4e126b2588c578225465cd73e25a7e6715ac710261da6696eb8edb4a0db5e&amp;smart=true&amp;width=5164&amp;height=3060" type="image/jpeg" height="3060" width="5164">
+        <media:description type="plain">[서울=뉴시스] 홍효식 기자 = 동덕여자대학교 공학 전환 타당성에 대한 외부 용역 결과 발표와 '공학 전환에 대한 8000 동덕인 의견 조사' 학생 총투표가 실시되는 3일 서울 성북구 동덕여대 모습. 2025.12.03. yesphoto@newsis.com</media:description>
+        <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>농민 울린 빈집 털이범...출소 5개월만에 또 범행</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/03/YY2AABIXKJGXVKCDUFY4UCJ2UU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/03/YY2AABIXKJGXVKCDUFY4UCJ2UU/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Dec 2025 12:50:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AINU74VX4735RABQZUHZMWUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;농촌 빈집을 돌며 1억원이 넘는 금품을 훔친 상습 빈집털이범이 붙잡혔다. &lt;br&gt;&lt;br&gt;충남 예산경찰서는 절도 혐의로 A(20대)씨를 구속 송치했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 10월부터 최근까지 두 달간 충남 예산과 서산의 농촌 마을에서 빈집만 골라 귀금속, 명품 의류, 현금 등 1억원이 넘는 금품을 훔친 혐의를 받는다. 피해를 입은 집만 18가구다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 그는 범행을 의심받지 않기 위해 마스크도 쓰지 않고 평범한 복장으로 마을 돌며 빈집을 확인했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;A씨는 동종 범죄로 복역 후 출소한 지 5개월 만에 또다시 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 일부 피해품을 회수하기는 했지만, 대부분은 생활비와 도박 자금으로 사용된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>12·3 비상계엄 1년 국회 앞 맞불 집회... “내란 세력 척결” vs “윤 어게인”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/03/H6OSLO6TBVGZ7KAFAAUWUYAQNM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/H6OSLO6TBVGZ7KAFAAUWUYAQNM/</guid>
@@ -857,19 +888,6 @@
       <content:encoded>찬 바람 내려오며 전국에 강추위&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TZCWHBEZ4NDJDPN3MMRKCCSEFU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>비대면 진료, 15년 만에 법제화...  10년 의무 ‘지역의사제’도 통과</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/02/JCVSFTKUYFGIROJC3E33KEK3HI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/02/JCVSFTKUYFGIROJC3E33KEK3HI/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Dec 2025 14:21:08 +0000</pubDate>
-      <content:encoded>지역 의대를 졸업한 뒤 해당 지역에서 10년간 의무적으로 일해야 하는 ‘지역의사제’ 도입 법안과 비대면 진료를 제도화하는 의료법 개정안이 2일 국회 본회의를 통과했다. &lt;br&gt;&lt;br&gt;지역의사제란 해당 지역에 최소 10년간 남아 의무적으로 일할 지역 의사를 별도의 입학 전형으로 뽑는 것이다. 신설 ‘지역의사의 양성 및 지원 등에 관한 법률‘(지역의사법)은 기존 의대 정원 안에서 일정 비율을 지역의사 전형으로 뽑되, 구체적인 비율은 대통령령으로 추후 정부가 다시 정하도록 했다. 지역의사로 선발되면 국가와 지방자치단체가 입학금과 등록금, 기숙사비 등의 학비를 지원한다. 대신 해당 지역에서 10년간 일해야 하고, 이를 어길 경우 시정 명령을 거쳐 의사 면허가 취소된다. &lt;br&gt;&lt;br&gt;군 복무 기간은 의무 복무 기간(10년)에 포함되지 않는다. 정부는 지역 의사가 해당 지역에서 정착할 수 있도록 주거 및 경력 개발은 물론 지역 국립대 병원에서의 수련, 해외 연수 등을 지원할 방침이다. &lt;br&gt;&lt;br&gt;비대면 진료의 법적 근거가 될 ‘의료법 개정안’도 국회 본회의를 통과했다. 비대면 진료는 코로나19 팬데믹 시기부터 5년 9개월 동안 운영됐으나 모두 시범 운영 형태였다. 비대면 진료 법안은 지난 2010년 처음 국회에 제출됐는데, 15년 만에 국회 문턱을 넘었다. &lt;br&gt;&lt;br&gt;개정안은 병원급이 아닌 의원급에서, 초진이 아닌 재진 환자 중심으로 비대면 진료가 이루어지는 것을 원칙으로 했다. 병원급 이상 비대면 진료는 희귀질환자나 교정시설 수용자 등 예외적인 경우에만 허용된다. 비대면 진료를 통해 마약류 의약품은 처방받을 수 없다.&lt;br&gt;&lt;br&gt;전공의 수련 환경을 개선하기 위한 법안도 통과돼 현재 36시간까지 허용되는 전공의의 ‘연속 수련 시간 상한’이 24시간으로 단축된다. 임신 중이거나 출산 1년 이내인 여성 전공의의 야간·휴일 근무도 제한된다. 지금까지는 담배에 포함되지 않았던 ‘액상 담배’를 담배에 포함시켜 규제하는 담배사업법 개정안, ‘경력 단절 여성’이라는 법적 용어를 ‘경력 보유 여성’으로 변경하는 내용의 양성평등기본법 개정안도 이날 국회를 통과했다. &lt;br&gt;&lt;br&gt;비행금지구역에서 대북전단 살포용 풍선 등 무인자유기구 비행을 금지하는 내용의 항공안전법 개정안도 본회의를 통과했다. 현행법상 2㎏ 미만 물건을 매달고 비행하는 장치는 무인자유기구에 포함되지 않아 2㎏ 미만 물건을 매단 대북전단 살포용 풍선은 제재를 받지 않았다. 하지만 이날 개정안 처리로 비행금지구역에서 외부에 매단 물건의 무게와 관계없이 무인자유기구를 비행하는 것이 금지되고 위반 시 처벌을 받게 된다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CLBZWSX76YYH4FE632DH23KQYM.jpg?auth=4ede4887864e36dadc98c6c86a57e8319a1fe31c915afd1c64ef24e0928c4727&amp;smart=true&amp;width=4308&amp;height=2824" type="image/jpeg" height="2824" width="4308">
-        <media:description type="plain">의료진이 코로나19 재택치료 환자와 비대면 진료를 하고 있다. 처방전을 전송받은 약국은 약을 조제해 환자에게 배송한다./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>‘여론조사 대납 의혹’ 오세훈, ‘대장동 일당 중형’ 재판부가 심리한다</title>
       <link>https://www.chosun.com/national/court_law/2025/12/02/PBLK5LA7IRFPVL5OLYSS5KWD4Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/02/PBLK5LA7IRFPVL5OLYSS5KWD4Q/</guid>
@@ -924,20 +942,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3DCY3EMMZTGZDGGUZTONBSG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 국회 법제사법위원회 법안심사제1소위원장이 지난 1일 서울 여의도 국회에서 열린 제429회 국회(정기회) 법제사법위원회 제8차 법안심사제1소위원회에서 의사 진행을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당이 추진 중인 ‘내란전담재판부’ 설치법에 대해 최근 법원행정처가 “본질적 위헌 소지가 있다”는 취지의 의견서를 국회 법제사법위원회에 제출한 것으로 2일 확인됐다. 민주당이 전날(1일) 국회 법사위 법안소위에서 심사한 ‘윤석열·김건희 등의 국정농단 사건 진상규명을 위한 전담재판부 설치에 관한 법률안’에 대해 행정처가 지난달 28일 26쪽 분량의 의견서를 낸 것이다.&lt;br&gt;&lt;br&gt;이 법안은 윤석열 전 대통령 등의 사건을 전담할 내란전담재판부를 서울중앙지법·서울고법에 설치하고, 내란전담영장판사까지 두도록 했다. 더불어민주당 박찬대 의원이 지난 7월 특별재판부 형태의 법을 발의한 뒤, 같은 당 이성윤 의원이 ‘전담재판부’ 방식으로 다시 법안을 제출해 이번에 소위를 통과했다. 법원행정처는 두 법안에 대해 “형식적 차이가 있지만 본질은 동일하다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇외부 인사가 관여하는 추천위원회… “사법권 독립 침해”&lt;/b&gt;&lt;br&gt;&lt;br&gt;우선 행정처는 헌법이 정한 사법권 독립 등 핵심 원리를 침해하는 방식으로 법을 만들면 안 된다고 했다. 국민의힘 신동욱 의원실이 확보한 의견서에 따르면, 행정처는 “국회가 법관의 자격, 법원의 조직 등에 관한 입법 형성권을 가진다고 해서 그것이 아무런 한계 없이 입법자의 자의에 맡겨질 수는 없다”며 “사법권의 독립 등 헌법의 근본원리에 위반되거나 기본권의 본질적 내용을 침해해선 안 될 ‘헌법적 한계’가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 법무부 등이 전담 법관을 추천하도록 한 것에 대해 “외부 기관이 관여하는 것은 그 자체로 사법권의 외적 독립을 침해한다”고 지적했다. 특히 추천위원회가 선정한 후보를 대법원장이 1주일 내 그대로 임명하도록 한 조항에 대해서는 “대법원장의 인사권을 형식적으로 만들고, 헌법적 원리와 상충한다”고 했다. 일반 판사 인사 절차와 무관하게 전담 판사를 지정하는 구조 자체가 헌법상 사법부 조직 원리에 어긋난다는 취지다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“무작위 배당 원칙 훼손…특정 사건 겨냥 가능성”&lt;/b&gt;&lt;br&gt;&lt;br&gt;행정처는 사건 배당의 무작위성을 훼손하는 문제도 강조했다. 행정처는 “특정 사건에 대해 일정한 방향으로 판결이 선고되길 희망해 특정 성향이 있는 것으로 보이는 특정 법관에게 사건을 배당하도록 영향을 미치는 경우, 헌법상 공정한 재판을 받을 권리가 침해되고 재판의 독립을 실현할 수 없게 된다”고 했다.&lt;br&gt;&lt;br&gt;행정처는 의견서에서 일본의 ‘특별재판소 금지 원칙’, 독일의 ‘특별법원 금지 원칙’ 등 해외 사례까지 들었다. 일본은 혁명·내란 등 중대 범죄를 다루는 특별재판소조차 정치적 악용 가능성 때문에 금지하고 있다고 설명했다. 독일의 경우 개별 사건에 영향을 미치기 위한 법관 지정 자체를 금지한다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“기존 전문재판부와 달라”… 민주당 주장 반박&lt;/b&gt;&lt;br&gt;&lt;br&gt;전담재판부가 법원이 운영하고 있는 ‘전문재판부’와 같아 위헌 문제가 없다는 민주당 주장에 대해서도 행정처는 본질적으로 다르다고 지적했다. 현행 전문재판부는 특정 분야에 대한 전문 지식과 경험을 활용해 부패·선거 등 특정 종류의 사건을 신속하고 적정하게 처리하기 위한 재판부다. 행정처는 전문재판부는 사건 무작위 배당을 통해 전담 사건을 배당하는 구조로 운영되고, 전담 사건만을 전속적으로 관할하지도 않는다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “내란·외환 전담재판부는 이른바 3대 특검법에 의해 특정된 수사 대상 사건들만을 심판하도록 하기 위해 설치되는 것이고, 특별법에 따른 별도의 추천 및 임명 절차에 의해 구성돼 특정 개별 사건들을 심판할 법관을 사후에 임의적으로 결정하는 구조”라고 했다.&lt;br&gt;&lt;br&gt;내란전담재판부 설치법은 전날 법안소위를 거쳐 일부 내용이 수정됐다. 법무부와 판사회의, 헌법재판소가 추천한 인사들로 구성된 추천위원회가 내란전담재판부와 영장전담판사를 추천하고, 대법원장이 임명하는 내용 등이 담겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>쿠팡, 홈피서 사과문 슬쩍 빼고 ‘크리스마스 세일’ 광고 올렸다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/02/UFEVQ4GIRNDQNPKWZILLV5WLQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/UFEVQ4GIRNDQNPKWZILLV5WLQA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Dec 2025 08:38:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7BJGI6QRRJHCNCF5RCVMSYV4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 사과문이 사라진 쿠팡 홈페이지 모습. /쿠팡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡이 고객 3370만명의 개인정보 유출 사고를 일으킨 후 올린 사과문을 이틀 만에 슬그머니 내린 사실이 알려져 국회에서 질타를 받았다. &lt;br&gt;&lt;br&gt;2일 한민수 더불어민주당 의원은 국회 과학기술정보방송통신위원회(과방위) 긴급 현안질의에서 박대준 쿠팡 대표에게 전날 캡처한 쿠팡의 PC, 모바일 홈페이지를 보여주며 “쿠팡이 어떤 기업인지를 보여드리겠다”며 “사과 문구를 찾아보라”고 했다. &lt;br&gt;&lt;br&gt;한 의원이 공개한 사진을 보면 쿠팡 홈페이지와 모바일 애플리케이션(앱)에는 지난달 30일 게재한 사과문이 지난 1일까지 이틀간 게재되어 있다가 이날 모두 사라졌다. 사과문이 게재되어 있던 자리에는 크리스마스 빅세일(홈페이지) 광고 등이 게재돼 있었다.&lt;br&gt;&lt;br&gt;특히 쿠팡이 게재했던 사과문은 이용자들에게 잘 보이는 ‘팝업’ 형태가 아닌 광고 배너 형태였고, 제일 위쪽 구석에 있어서 잘 보이지가 않았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5T4N2TP3RGAVDP2DOGOS3BSI4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오전 서울 여의도 국회 과학기술정보방송통신위원회에서 쿠팡 박대준 사장이 의원들의 질의에 답하고 있다. 최근 국내 최대 이커머스 업체 쿠팡에서 3370만 명의 개인정보를 유출된 사건이 발생했다. /박성원 기자  
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한 의원은 “오늘 아침 9시 7분에는 이마저도 사라졌다”며 “이게 정상적인 기업의 모습이냐. 3000만명 넘는 국민이 불안에 떨고 있는데 장사 좀 더 하겠다고 이렇게 하고 있다”고 했다.&lt;br&gt;&lt;br&gt;이 같은 지적에 박 대표는 “저 사과문 내용만으로는 부족하고 현재 2차 피해를 불안해하시는 분들의 의견이 CS(고객 서비스)로 들어와서 별도 이메일 공지로 더 상세한 내용과 사과문을 보내려고 준비 중에 있었다”며 “좀 더 세심하게 신경 쓰도록 하겠다”고 답했다.&lt;br&gt;&lt;br&gt;한편 쿠팡은 지난달 29일 “고객 계정 3370만개가 무단으로 노출된 것으로 확인됐다”고 밝혔다. 쿠팡은 앞서 지난달 18일 고객 계정 약 4500개가 무단 유출됐다고 파악했는데, 피해 규모가 11일 만에 7500배 늘어났다. 경찰 등은 쿠팡을 퇴사한 중국인 개발자가 중국으로 건너가 쿠팡의 개인 정보를 빼돌린 것으로 보고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/52ONOZVQUFAQ5H3T42CP43HGQU.JPG?auth=3d93a4dbc97ad2d930fa7aad11c0a552ba3136c6796cc67f74e4dfcc39ad7dce&amp;smart=true&amp;width=4003&amp;height=2252" type="image/jpeg" height="2252" width="4003">
-        <media:description type="plain">박대준 쿠팡 대표이사가 2일 서울 여의도 국회 과학기술정보방송통신위원회에서 열린 쿠팡 침해사고 관련 현안 질의에서 고개 숙여 인사하고 있다. 2025.12.2/뉴스1 ⓒ News1 신웅수 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>경북도, 4725억 투입해 그린바이오 산업 육성</title>
       <link>https://www.chosun.com/national/national_general/2025/12/02/PXWWDMUASJDDXNCTWVKNM37XRU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/PXWWDMUASJDDXNCTWVKNM37XRU/</guid>
@@ -964,16 +968,6 @@
       <description/>
       <pubDate>Tue, 02 Dec 2025 07:37:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QE3AFR5JBJCW7JEC26TPR5DLWQ.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 안재관 씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홀로 자신을 키워준 어머니를 돕기 위해 카페 등에서 일하던 스물둘 청년이 뇌사 장기기증으로 생명을 나눠주고 하늘로 떠났다.&lt;br&gt;&lt;br&gt;2일 한국장기조직기증원은 지난 10월 9일 대전 을지대학교병원에서 안재관(22)씨가 뇌사 장기기증으로 간장, 신장(양측)을 기증해 3명에게 생명을 나누고 하늘의 별이 되어 떠났다고 밝혔다.&lt;br&gt;&lt;br&gt;안씨는 지난 9월 24일 교통사고를 당해 급히 병원으로 이송됐으나, 의식을 회복하지 못하고 뇌사상태에 빠졌다. &lt;br&gt;&lt;br&gt;안씨의 가족들은 젊은 나이에 갑작스러운 사고로 세상을 떠나게 된 고인이 다른 사람의 몸에서 다시 숨 쉬며 이루지 못한 꿈을 이어가길 바라는 마음으로 장기기증을 결심했다.&lt;br&gt;&lt;br&gt;유족에 따르면 대전에서 2남 중 막내로 태어난 안씨는 활발하고 항상 잘 웃는 성격으로 주변 사람들을 잘 챙겨 어디에서나 칭찬받는 사람이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J6ANUJAEEVCY5G3HLWFQ7R5SDI.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;고(故) 안재관 씨. /한국장기조직기증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안씨는 고등학교를 졸업한 후 홀로 두 형제를 키워온 어머니를 돕고자 카페 일과 헬스트레이너 등 다양한 일을 해왔다. 안씨는 생업에 뛰어든 후에도 안정적인 직장을 구하고자 취업 준비를 병행해왔다.&lt;br&gt;&lt;br&gt;안씨의 어머니는 “아들아, 하늘에서 잘 지내고 있지? 내 옆에 네가 없다는 것이 믿어지지 않아서 순간순간 네 생각에 눈물만 나”라며 “이렇게 널 먼저 보내서 미안해. 그리고 사랑해! 재관아”라고 마지막 인사를 전했다.&lt;br&gt;&lt;br&gt;한국장기조직기증원 이삼열 원장은 “다른 생명을 살리기 위해 생명 나눔을 결정해 주신 안재관 님과 기증자 유가족에게 감사드린다”며 “기증자와 기증자 유가족이 나누어주신 따뜻한 사랑의 온기가 널리 퍼져나가길 희망하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 尹 추가 구속영장 발부 요청, 12월 23일 심문 예정</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/01/MRPRJ7RPENARLNRKA6TODNYCBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/01/MRPRJ7RPENARLNRKA6TODNYCBQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 01 Dec 2025 07:37:15 +0000</pubDate>
-      <content:encoded>‘평양 무인기 침투’ 등 외환 관련 의혹으로 추가 기소된 윤석열 전 대통령이 다시 구속 갈림길에 놓였다. 조은석 내란 특검팀이 법원에 추가 구속영장 발부를 요청하면서다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K55BPBYVJJH67NPI6OX7WRVFYI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 노동신문 뉴스1
-작년 10월 북한 국방성이 공개한 ‘평양 침투 무인기’의 잔해.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사36부(재판장 이정엽)는 1일 윤 전 대통령, 김용현 전 국방부 장관, 여인형 전 방첩사령관의 일반이적 사건 공판 준비 기일을 열고 “내란 특검팀 요청에 따라 오는 23일 오후 2시 30분 구속에 관한 의견을 듣는 심문 기일을 진행하겠다”고 밝혔다. 윤 전 대통령의 구속 만료 시점이 내년 1월 18일로 한 달 앞으로 다가오자 특검팀이 추가 영장 청구에 나선 것이다.&lt;br&gt;&lt;br&gt;공범으로 기소된 김 전 장관의 구속 심문은 오는 12일, 여 전 사령관은 16일에 각각 열린다. 구속 심문은 비공개로 진행되며 중계도 허용되지 않는다.&lt;br&gt;&lt;br&gt;이번 일반이적 사건 첫 공판 기일은 내년 1월 12일 오전 10시 15분에 열린다. 재판부는 2월부터는 주 3회, 3월부터는 주 4회까지 재판을 진행하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;재판은 상당 부분 비공개로 진행된다. 재판부는 “이 사건을 심리하는 데 다수의 국가 기밀이 노출될 것으로 예상된다”며 재판 공개 범위를 제한했다. 첫 공판에서는 피고인 인정신문과 국민참여재판 희망 여부만 공개하고, 이후 공판부터는 재판부가 당일 절차를 고지한 이후 비공개로 전환된다.&lt;br&gt;&lt;br&gt;피고인 측은 공소장 비닉 처리 범위가 넓고 촘촘한 재판 일정에 이의를 제기했다. 윤 전 대통령 측은 “검사는 내용과 기록을 모두 열람했는데 변호인에게는 비닉 처리해 제공하는 것은 방어권이 보장될 수 없는 상황”이라고 했다. 이어 “윤 전 대통령은 현재도 주 3회 재판을 하고 있는데, 주 4회까지 하면 방어를 할 수 없게 된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “내란 사건은 1월 초, 체포 방해 사건은 2월이면 종결된다”며 “추가 기소로 인해 재판 일정이 늘어나는 부분은 다른 재판부와 협의하겠다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령 등은 계엄 선포 명분을 쌓기 위해 지난해 10~11월 평양 등에 무인기를 10여 차례 투입해 남북 간 무력 충돌 위험을 유도한 혐의를 받는다. 단순 군사작전 목적을 넘어 군사적으로 해를 끼쳤다는 것이 특검팀 판단이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
