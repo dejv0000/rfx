@@ -13,6 +13,19 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“김수용 귓불주름은 노화 현상”… 흉부외과 교수가 밝힌 심근경색 전조증상은</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/4OGLUOFDQZC6PH4SPMB3XP4IFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/4OGLUOFDQZC6PH4SPMB3XP4IFE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 03 Dec 2025 22:40:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NK3DO5IU65EGNIKRE33Z3MFBEQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;김수용 귓볼 주름. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;귓불 주름이 심근경색의 전조증상일 수 있다는 견해가 온라인상에 퍼진 것과 관련 유명 흉부외과 전문의가 의학적 인과관계가 있다고 보기 어렵다는 의견을 밝혔다.&lt;br&gt;&lt;br&gt;유재석 아산병원 심장혈관흉부외과 교수는 지난 3일 tvN ‘유 퀴즈 온 더 블럭’에 출연했다. 유 교수는 드라마 ‘슬기로운 의사생활’ 흉부외과 김준완(정경호 분) 교수의 실제 모델로 알려진 인물이다.&lt;br&gt;&lt;br&gt;유 교수는 “심근경색은 돌연사 1위 질환”이라며 “심장에 혈액을 공급하는 관상동맥이 막혀서 심근이 괴사 되는 병이다. 최근에 식습관, 비만, 고지혈증, 당뇨, 흡연 등으로 젊은 층의 심근경색이 급증하는 추세”라고 말했다.&lt;br&gt;&lt;br&gt;이어 “심근경색 전에 협심증이 나타난다. 심장 혈관이 좁아져서 가슴이 조이는 듯한 통증이 있는 걸 협심증이라고 한다. 그렇게 되면 피가 가지 않는 부분이 괴사 된다”고 설명했다.&lt;br&gt;&lt;br&gt;아울러 심근경색의 골든타임이 2~3시간이라며 발생시 스텐트 삽입술 등 응급 치료가 중요하다고 덧붙였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BSEC3ZWBTZCHVFGGKWMJLQUPUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유재석 서울아산병원 심장혈관흉부외과 교수./tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 유튜브 촬영장에서 급성 심근경색으로 쓰러져 병원으로 이송된 김수용의 사례도 언급했다. 김수용은 심폐소생술을 받고 깨어났으며 이후 스텐트 시술을 받고 회복 중이다.&lt;br&gt;&lt;br&gt;앞서 이 소식이 알려지자 온라인상에서는 김수용의 최근 모습에서 귓불 주름이 깊은 것을 볼 수 있다며 이는 심근경색의 전조증상일 수 있다는 의견이 퍼졌다.&lt;br&gt;&lt;br&gt;유 교수는 “이번에 김수용 뉴스를 보면서 귓불 주름 이야기가 부각돼서 여러 논문과 자료를 찾아봤다. 이걸 처음 발견한 사람이 샌더스 프랭크 박사더라. 그래서 ‘프랭크 사인’이라고 이름 붙었다”며 “그러나 명확하게 의학적으로 원인과 결과가 되는 인과관계라고 말하기에는 조금 무리가 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “결국 귀에 주름이 생기는 건 노화의 한 현상이다. 귓불 주름이 있다고 해서 ‘내가 심혈관 질환이 있지 않을까’ 덜컥 겁먹을 필요는 없다”고 했다.&lt;br&gt;&lt;br&gt;심근경색 전조증상으로는 “역류성 식도염과 같은 흉통”을 꼽았다. 그러면서 “역류성 식도염은 물을 마시면 증상이 완화되지만, 심근경색은 통증이 사라지지 않는다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/BH5YYGPF3VDRNJH7W4PHGHX35M.jpg?auth=4812d0e610db4fc88710988987afef501c8b73edfeee24bd56281cc19548b384&amp;smart=true&amp;width=345&amp;height=259" type="image/jpeg" height="259" width="345">
+        <media:description type="plain">김수용 귓볼 주름</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>“경쟁사 비리 캐줘” 모사드 출신까지 고용, 첩보전 찍는 기업들</title>
       <link>https://www.chosun.com/national/national_general/2025/12/04/YQZZFLMXDZBXRHVN65ZACRGZYY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/YQZZFLMXDZBXRHVN65ZACRGZYY/</guid>
@@ -739,15 +752,6 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 00:40:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZTAOLBHFRDIMLFMNSTQMDBGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 3시 53분쯤 인천시 남동구 구월동 한 상가건물에서 화재가 발생했다./ 인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 한 상가 건물에서 원인을 알 수 없는 불이 나 70대 여성이 숨지고 소방 구조대원 1명이 다쳤다. &lt;br&gt;&lt;br&gt;3일 인천소방본부에 따르면 이날 오전 3시 53분쯤 인천 남동구 구월동 한 상가 건물 4층에서 불이 났다. &lt;br&gt;&lt;br&gt;이 불로 4층 거주자 A(여·76)씨가 숨지고, 구조대원 1명이 현장 낙하물에 왼쪽 팔을 다쳐 병원에서 치료를 받고 있다. &lt;br&gt;&lt;br&gt;소방 당국은 소방관 등 59명과 펌프차 등 장비 23대를 동원해 오전 4시 18분쯤 진화했다. 경찰과 소방 당국은 정확한 화재 원인과 피해 규모를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>밤사이 강릉원주대 기숙사서 불… 학생 1명 연기흡입</title>
-      <link>https://www.chosun.com/national/regional/2025/12/03/S4KDDZ5W3BGE5DP3DCR3NCWWRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/03/S4KDDZ5W3BGE5DP3DCR3NCWWRA/</guid>
-      <dc:creator>강릉=정성원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 00:03:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T5TM6ITVTBFOZOAWFM4ADST2B4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 강원 강릉시 강릉원주대 기숙사에서 불이 나 학생 400여명이 긴급 대피하는 소동이 빚어졌다./강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 3시 30분쯤 강원 강릉시 강릉원주대학교 기숙사 7층에서 불이 났다. 불은 스프링클러가 작동해 9분 만에 진화됐으나 학생 400여 명이 대피하는 소동이 벌어졌다. 또 A(19)씨가 연기를 마셔 인근 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>큐 잡은 2000년대생… ‘당구 女神’ 세대 교체</title>
