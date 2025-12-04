@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>올해 수능 영어,국어가 어려웠다... 만점자 지난해 절반인 5명</title>
+      <link>https://www.chosun.com/national/education/2025/12/04/7VP4NNCD4REY3HQVGAAOPHERUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/04/7VP4NNCD4REY3HQVGAAOPHERUY/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 05:04:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZTGIYJXMVRDCMRXMRSGIZBZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 대학수학능력시험일인 13일 오전 부산시교육청 22지구 제15시험장인 부산 연제구 연제고등학교에서 수험생들이 시험 시작을 준비하고 있다. (공동취재) 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 대학수학능력시험에서 5명이 만점을 받은 것으로 나타났다. ‘불수능’으로 불린 2024학년도 수능(1명)보다 늘었지만 지난해(11명)의 절반 수준이다. &lt;br&gt;&lt;br&gt;4일 한국교육과정평가원은 지난 11월 13일 열린 2026학년도 수능 채점 결과를 발표했다. 이번 수능 응시한 수험생은 49만3896명으로 재학생은 33만3102명, 졸업생과 검정고시 합격자 등은 16만794명이었다. 사회탐구만 응시한 수험생은 28만4535명, 과학탐구만 응시한 수험생은 10만8353명, 두 영역을 조합해 응시한 수험생은 8만1023명이었다. 수능 성적표는 5일 수험생에게 통지된다.&lt;br&gt;&lt;br&gt;이번 수능에서 가장 난도가 높았던 영어는 1등급 학생 비중이 전체의 3.11%(1만5154명)에 그쳤다. 현재의 문이과 통합형수능이 도입된 2022학년도 이후 가장 낮은 비중이다. 난도가 유독 높았던 2024학년도 수능(4.7%)보다 1.6%포인트나 낮고 작년(6.2%)과 비교해도 절반 수준이다. 이번에 사교육 업체들이 예상한 1등급 비율(대성학원 3.6%, 종로학원 3.8%, 메가스터디 4.3%)과 비교해도 1등급 비중이 낮게 나왔다. &lt;br&gt;&lt;br&gt;고난도 지문이 출제됐던 국어의 최고 표준점수는 147점으로 작년(139점)보다 8점 높았다. 표준점수는 응시 학생들의 성적 분포를 따져 매기는데, 시험이 어려울수록 최고 점수가 높게 나온다. &lt;br&gt;&lt;br&gt;입시가에선 수시 지원한 학생 중 영어 때문에 수능 최저 등급을 맞추지 못하는 수험생이 늘어날 것이라는 전망이 나온다. 나와. 정시로 이월되게 돼 정시 경쟁이 커지고, 최종적으로도 원하는 대학을 가지 못해 불가피하게 재수를 택하는 인원도 속출할 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세운상가 찾은 오세훈 “세운 바뀌는 게 해괴망측? 문화재 보존과 개발, 양립 가능해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/KPSGT37KAVBULFIVFGU4GI6O74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/KPSGT37KAVBULFIVFGU4GI6O74/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 03:56:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PTXLQYI4ZJIUXJTJCAURYFVMTM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 4일 종묘 경관 훼손 논란이 일고 있는 서울 종로구 세운재정비 촉진지구를 둘러보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 4일 서울 종로구 세운상가를 찾아 “마치 이곳을 서울시가 세운 계획대로 발전시키면 (종묘가) 세계유산에서 취소될 것처럼 선동하는 분들이 있다”며 “이건 정부의 올바른 자세가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 세운상가에서 세운4구역 토지주 100여 명과 진행한 간담회에서 “(세운상가 일대를) 세계적인 문화유산과 조화를 이루면서 얼마든지 멋지게 활기차게 발전시킬 수 있다”며 이렇게 말했다. 오 시장은 이날 간담회에서 토지주들이 개발이 지연되며 겪고 있는 경제적 어려움 등을 청취했다.&lt;br&gt;&lt;br&gt;오 시장은 “역사 유적과 문화재는 중요하다”며 “자랑할 수 있는 역사를 잘 드러내고 잘 보여드릴 수 있는 방안을 고민하고 있다. 하지만 보존 가치를 돋보이게 하는 것이 이런 개발과는 양립할 수 없는 것이냐는 다른 문제”라고 말했다. 그러면서 “정부가 ‘개발하는 것과 국가 유산을 잘 보존시키는 걸 얼마든지 조화를 이룰 수 있다. 그 방법을 함께 찾아보자’ 이렇게 말해야 한다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “(문화체육관광부는) 종묘에는 관심도 없다가, 장관이란 분이 ‘해괴망측하다’는 말씀을 했다”며 “정부가 반대할 수 있지만, 이 사업의 의미를 이해하고 공유하는 게 우선이지, 어느 날 갑자기 급발진해서 공격적으로 여러분 삶의 터전이자 재산인 이 지역을 바꾸는 것을 두고 해괴망측하다고 할 수 있느냐”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 그러면서 “서울은 대한민국의 중심이고 종로는 서울의 심장이다. 더 이상 종로를 이대로 둘 수 없다”면서 “종로가 다시 뛰어야 한다. 재생이 아니라 쇠락과 침체, 보존이 아니라 방치로 이어지는 그런 정책은 좌시하지 않겠다”라고 했다.&lt;br&gt;&lt;br&gt;앞서 최휘영 문체부 장관은 지난달 7일 서울시의 세운상가 고밀도 재개발 계획을 두고 “이게 무슨 해괴망측한 일인가”라며 “권한을 조금 가졌다고 해서 하고 싶은 대로 다 하겠다는 서울시의 발상과 입장을 저는 도저히 이해할 수 없다”고 비판했었다.&lt;br&gt;&lt;br&gt;오 시장은 전날에도 서울시 홈페이지에 ‘세운상가 재개발 이슈 총정리’ 영상을 올렸다. 그는 영상에서 “녹지가 턱없이 부족한 서울에 종묘~남산 녹지축이 생기면 세계 도시계획사에 획기적 성공 사례로 남을 것”이라며 “녹지생태도심을 통한 도시재창조는 녹지 갈증이 높은 서울시민을 위한 보편적 복지”라고 했다.&lt;br&gt;&lt;br&gt;서울시는 지난 10월 말 세운4구역 고도 제한을 완화한다는 재정비촉진계획 결정(변경)을 고시했다. 세운4구역은 종로와 청계천에 면해 있는데, 시는 4구역 고도 제한을 종로변 55m에서 98.7m로, 청계천변 71.9m에서 141.9m로 대폭 완화했다.&lt;br&gt;&lt;br&gt;문화체육관광부와 문화재청은 시의 계획대로 고층 건물이 들어서면 유네스코 세계문화유산인 종묘에서 바라보는 경관을 크게 훼손한다며 반대하고 있다. 여당인 더불어민주당도 오 시장의 사업 추진을 비판한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>해수부 부산 이전 맞춰… 정부세종청사 업무 공간 재배치</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/GTVP22BVJNEDNHSSU7GWYT2V34/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/GTVP22BVJNEDNHSSU7GWYT2V34/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 04:01:36 +0000</pubDate>
+      <content:encoded>행정안전부 정부청사관리본부가 정부세종청사에 있는 각 부처의 업무 공간을 재배치한다고 4일 밝혔다. 해양수산부가 이달 중 부산으로 사무실을 옮기는 데 따른 조치다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRTDOYRVGYYTSNZVGAZWEMDCGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 전경. 낮은 건물들을 구불구불 길게 늘어뜨려 하늘에서 용(龍) 모양으로 보일 수 있게 설계했다. /정부청사관리본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우선 기획재정부의 예산·기획 부서를 떼어내 다음 달 2일 출범하는 ‘기획예산처’는 내년 3월부터 해수부가 사용하던 세종청사 5동에 배치한다. 행안부 관계자는 “재정경제부 사무실이 있는 중앙동 인근으로 옮겨 외부 기관과 민원인의 방문 편의성을 높일 계획”이라고 했다. 현재 예산·기획 부서가 쓰고 있는 중앙동 공간에는 행정중심복합도시건설청 사무실이 들어선다.&lt;br&gt;&lt;br&gt;기존에는 산업통상부에 있어 산업부 건물인 13동에 사무실이 있던 ‘기후에너지환경부 에너지실’은 기후부가 주로 사용하는 6동으로 자리를 옮긴다.&lt;br&gt;&lt;br&gt;청사 외부 건물에 있는 고용노동부 산업안전보건본부는 차관급으로 격상된 점 등을 고려해 고용노동부가 있는 11동으로 이전한다. 중앙노동위원회는 11동에서 4동으로 옮긴다. 농림축산식품부 일부 부서는 4동에서 5동으로, 산업통상부 무역위원회는 11동에서 13동으로 이전한다.&lt;br&gt;&lt;br&gt;행안부는 이달 중 해수부가 부산으로 사무실을 옮기면 내년 3월 기획예산처, 내년 4월 행정중심복합도시건설청, 내년 5월 기후에너지환경부 에너지실 순서로 이전을 추진한다는 계획이다.&lt;br&gt;&lt;br&gt;김기영 정부청사관리본부장은 “세종청사 재배치로 기관별 사무 공간을 한데 모아, 부처 내 소통과 업무 효율성이 오를 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>大소개팅의 시대, 주선은 취미가 됐다...1인 결정사 유행</title>
       <link>https://www.chosun.com/national/national_general/2025/12/04/VRW2L2RFABGTLH6Z7WMGVA2X7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/VRW2L2RFABGTLH6Z7WMGVA2X7Y/</guid>
@@ -859,15 +886,6 @@
       <content:encoded>개인정보보호위원회가 3일 긴급 전체회의를 열고 쿠팡에 “개인정보 ‘노출’이 아닌 ‘유출’로 수정해 이용자들에게 개인정보 유출 여부를 다시 안내하라”고 의결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CF5GM7LR7RNGTLUMDL5QXHCO4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경희 개인정보보호위원장이 3일 서울 종로구 정부서울청사에서 열린 제25회 전체회의에서 의사봉을 두드리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인정보위 점검 결과, 쿠팡은 이용자들에게 ‘개인정보 노출 통지’라는 제목으로 “개인정보 일부가 노출되는 사고가 발생했다”고 안내했다. 개인정보보호법 34조에 따르면, 개인정보가 분실·도난·유출됐을 때 개인정보 처리자는 이용자에게 유출 관련 사항을 알려야 한다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “쿠팡이 개인정보 노출 통지를 보낸 것은 ‘유출’ 사실을 통지하지 않은 셈”이라고 했다.&lt;br&gt;&lt;br&gt;쿠팡은 또 유출 관련 내용을 홈페이지에 1~2일 정도만 공지했고, 공동 현관 비밀번호 등 유출 항목 일부를 누락한 것으로 확인됐다. 개인정보위는 쿠팡의 피해 예방 조치 안내가 소홀하고, 자체 대응과 피해 구제 절차 등이 미흡하다는 점도 지적했다.&lt;br&gt;&lt;br&gt;개인정보위는 이러한 점을 반영해 이날 전체회의에서 3가지 사항을 의결했다. 이에 따라 쿠팡은 개인정보 노출 통지를 ‘유출’ 통지로 수정하고 유출 항목을 모두 반영해 이용자들에게 다시 유출 사항을 알려야 한다. 홈페이지 초기 화면이나 팝업창 등에 일정 기간 이상 유출 내용을 공지하고, 추가적인 피해 예방 요령도 안내해야 한다. 지금까지 피해 방지 대책의 실효성을 검토하고 전담 대응팀도 확대 운영해야 한다.&lt;br&gt;&lt;br&gt;쿠팡은 개인정보위에 7일 이내에 조치 결과를 제출해야 한다. 개인정보위는 이행 상황을 지속적으로 점검한다는 방침이다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “쿠팡이 개인정보보호법을 위반한 사실을 확인하면 엄정 제재하고, 피해 확산과 재발 방지에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전자장치 부착 스토킹 가해자 실제 위치 피해자에게 제공된다 </title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/WHLVRJZCGFA2TFRB2TA6LSLWFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/WHLVRJZCGFA2TFRB2TA6LSLWFQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 02:08:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMIKU47EYKGMSS6GOW7EZGE2SI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도 과천 법무부 청사 전경. / 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 스토킹 범죄 가해자의 실제 위치를 피해자에게 제공하는 정책을 추진한다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;현재는 스토킹 가해자가 피해자에게 일정 거리 단위로 접근할 때 알려주는 ‘접근 정보 알림’이 운영되고 있는데, 구체적으로 어느 방향에서 접근하는지 피해자가 알기 어렵다는 한계가 있었다. &lt;br&gt;&lt;br&gt;이에 법무부는 스토킹 가해자가 일정 거리 이내로 접근했을 때, 피해자가 스마트폰으로 가해자의 실제 위치를 지도상에서 확인할 수 있도록 해 만일의 사태에 대비할 수 있도록 한다는 방침을 세웠다. &lt;br&gt;&lt;br&gt;이 같은 정책을 위한 법적 근거를 담은 전자장치 부착 등에 관한 법률 개정안이 지난 2일 국회 본회의를 통과했다. &lt;br&gt;&lt;br&gt;또한 법무부는 2024년 1월부터 시행한 스토킹 가해자 전자장치 부착 잠정 조치의 실효성을 높이기 위해 법무부 위치추적시스템과 경찰청 112 시스템을 연계하는 사업을 추진하고 있다. 내년까지 출동 경찰이 가해자의 실시간 이동 경로를 확인해 피해자를 보호할 수 있도록 한다는 목표를 세웠다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “스토킹 피해자의 안전한 일상을 위해 관계기관 간 협력 체계를 강화하고 실효성 있는 보호 대책을 지속적으로 추진하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사기죄 형량 ‘최대 30년’…형법 개정안, 국회 본회의 통과</title>
       <link>https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</guid>
@@ -941,15 +959,6 @@
       <content:encoded>민중기 특별검사팀의 수사 과정에서 세계평화통일가정연합(통일교)이 국민의힘뿐 아니라, 더불어민주당 소속 정치인에게도 교단 자금을 이용해 ‘쪼개기 후원’을 한 사실이 드러난 것으로 2일 확인됐다. 하지만 특검팀은 “민주당 후원금은 조직적 지시 여부가 드러나지 않았다”며 한학자 통일교 총재 등을 기소할 때 이 부분을 범죄 혐의에서 제외해 논란이 일고 있다. 법조계에서는 “야당 정치인만을 겨냥한 선택적 기소”라는 비판이 나온다.&lt;br&gt;&lt;br&gt;특검은 지난 10월 한 총재와 정원주 전 비서실장, 윤영호 전 세계본부장 등을 국민의힘 시도당 및 당협위원장 20명에게 1억4400만원을 여러 명의 이름으로 쪼개기로 후원한 혐의(정치자금법 위반)로 기소했다. 특검은 기소 당시 “한 총재는 2022년 3월 통일교 자금으로 국민의힘 광역시도당에 지원할 것을 지시했다”며 “윤 전 본부장은 총 2억1000만원을 5개 지구(지역 교구)에 보냈고, 이 중 1억4400만원이 국민의힘 측에 전달됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;이 과정에서 일부 지역에서 민주당 소속 전·현직 지방자치단체장에게도 후원금이 전달된 것으로 파악됐다. 호남 지역을 담당하는 통일교 관계자는 최근 특검 조사에서 “2022년 강기정 광주시장, 이용섭 전 광주시장, 김영록 전남도지사를 후원했다”는 취지로 진술했다고 한다. 통일교가 이들에게 후원한 금액은 수백만원대로 알려졌다. 경기·강원 지역을 담당하는 지구에서도 같은 해 이광재 당시 민주당 강원도지사 후보에게 후원했던 것으로 조사됐다. 통일교 관계자는 “당시 각 지역별로 현장 상황에 맞게 후원한 것으로 안다”고 했다.&lt;br&gt;&lt;br&gt;그러나 특검은 통일교가 민주당 정치인을 후원한 데 대해선 범죄 혐의가 없다고 판단했다. 특검 관계자는 “민주당에 흘러간 후원금이 교단 자금인지 확실치 않고, 설사 교단 자금이었다고 해도 윗선의 지시로 조직적으로 이뤄진 후원이라고 볼 증거가 부족하다”고 했다. 이에 대해 한 부장검사 출신 변호사는 “정치자금법상 법인이나 단체 자금을 이용해 정치인에게 기부하는 행위가 금지되는 만큼, 범죄 정황을 들여다볼 여지가 있는데도 특검이 의도적으로 배제한 것 같다”고 했다.&lt;br&gt;&lt;br&gt;이와 관련해 이재명 대통령은 2일 “정교분리는 정말 중요한 원칙인데 이를 어기고 종교 재단이 조직적·체계적으로 정치에 개입한 사례가 있다”며 “이는 헌법 위반 행위이자 매우 심각한 사안”이라고 했다. 국민의힘에 불법 정치 자금을 전달한 의혹을 받는 통일교를 염두에 둔 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대통령보다 셌던 ‘V0 김건희’… 경호처는 생일선물로 방탄 마이바흐 줬다</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/5KEJ4ABUL5F4FDU3MXNBJ4573Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/5KEJ4ABUL5F4FDU3MXNBJ4573Q/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Dec 2025 15:52:00 +0000</pubDate>
-      <content:encoded>김건희 여사는 20대 대통령 선거를 앞둔 2021년 12월 학력 위조 의혹과 관련한 대국민 사과 기자회견에서 “남편이 대통령이 돼도 아내 역할에만 충실하겠다”라고 했다. 그러나 12·3 비상계엄으로 윤석열 정권이 무너지고 특검이 가동되면서 김 여사가 윤 전 대통령에 버금가는 영향력을 행사하며 국정에 개입한 전모가 속속 드러나고 있다. 실제로 김 여사는 윤 전 대통령 재임 기간 내내 ‘V1’이라 불리는 남편보다 영향력이 세다는 뜻에서 ‘V0’라고 불렸다.&lt;br&gt;&lt;br&gt;김 여사가 경복궁 근정전 어좌(御座)에 앉았던 사례는 김 여사가 얼마나 절제력 없이 행동했는지를 보여주는 사례로 꼽힌다. 2023년 9월 김 여사 일행은 아랍에미리트(UAE) 국빈 행사 준비차 경복궁을 찾았다. 국보인 근정전은 평소 내부 출입이 금지된다. 그런데 궁능유적본부 산하 경복궁관리소는 김 여사를 ‘VIP’로 지칭하며 근정전 안까지 안내했는데, 김 여사가 돌출적으로 임금이 앉는 의자인 어좌에 앉았다는 것이다.&lt;br&gt;&lt;br&gt;김 여사가 작년 9월 세계 자살 예방의 날을 맞아 서울 마포대교를 순찰했을 때도 ‘대통령 행세’ 논란이 불거졌다. 당시 대통령실은 김 여사가 흰 셔츠에 바지 정장 차림으로 경찰에게 지시를 내리는 듯한 사진을 여러 장 공개했다. 그러자 김 여사가 선출된 권력이 아닌데도 공직자인 것처럼 행동한다는 부정적 평가가 뒤따랐다. &lt;br&gt;&lt;br&gt;김 여사는 자신이 운영했던 코바나콘텐츠 직원이었던 유경옥·정지원씨를 대통령실 행정관으로 채용해 수행비서처럼 거느렸다. 이들은 이른바 ‘김 여사 문고리’로 불리며 건진법사 전성배씨나 재미 목사 최재영씨 등이 김 여사에게 각종 금품을 전달하는 데 중간 다리 역할을 했다.&lt;br&gt;&lt;br&gt;김 여사는 국민의힘 당직자들을 여러 차례 서울 한남동 관저로 초청한 것으로도 알려졌다. 특히 22대 총선을 앞뒀던 2023년 11~12월 당직자들과 오찬을 하며 “어떻게 공천해야 선거에서 이길 수 있느냐”고 묻고, “정부의 성공을 위해 당이 잘해야 한다”는 취지로 당부한 것으로 전해졌다. 김 여사는 대통령 행정관들과 식사를 하면서는 누구 추천으로 대통령실에 들어왔는지 등도 물었다고 한다. 김 여사가 2023년 윤 전 대통령의 리투아니아 순방에 동행해 명품 쇼핑 논란이 일었을 때, 대통령실 청사 엘리베이터에서 이를 언급한 한 행정관에 대한 감찰을 시도했다는 증언도 있다.&lt;br&gt;&lt;br&gt;대통령실 소속 인력이 김 여사의 개인적 행사에 동원되기도 했다. 작년 9월 경호처는 생일을 맞은 김 여사에게 방탄 차량인 벤츠 마이바흐를 선물한 것으로 알려졌다. 마이바흐는 대통령 의전 차량으로 쓰이는 최고급 세단이다. 김 여사의 생일을 축하하기 위해 공권력이 쓰인 셈이다.&lt;br&gt;&lt;br&gt;이처럼 김 여사의 막강한 영향력이 공공연하게 드러나자 각종 청탁 역시 김 여사에게 쏟아졌다. 민중기 특검은 서희건설 이봉관 회장, 이배용 전 국가교육위원장, 서성빈 드론돔 대표, 김기현 국민의힘 의원 배우자 등이 각종 금품을 김 여사에게 건넨 의혹들을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>시민 의견 듣고 도로 손보니, 교통사고 확 줄었다</title>
       <link>https://www.chosun.com/national/national_general/2025/12/03/JZWV64TTDNETFNXDZLOBOXC76U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/JZWV64TTDNETFNXDZLOBOXC76U/</guid>
@@ -961,16 +970,6 @@
         <media:description type="plain">4일 서울 강남구 논현초등학교 인근에서 열린 서울교통 Re-디자인 프로젝트 관련 '속 시원한 교통 단속' 동행 취재에서 경찰들이 어린이보호구역 주변 음주운전 및 정지선 위반 등을 단속하고 있다./뉴시스</media:description>
         <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[오늘의 운세]  12월 3일 수요일 (음력 10월 14일 丙午)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/02/YJ5EEVZ4KNBXDLMFIB5GZQ6UWQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/02/YJ5EEVZ4KNBXDLMFIB5GZQ6UWQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>“사랑해, 재관아!” 홀어머니 위해 생업 뛰어들었던 스물둘 청년, 생명 나누고 하늘로</title>
