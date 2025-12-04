@@ -13,6 +13,71 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충남 태안 해상에서 7명 탄 어선 전복... 3명 구조, 1명 심정지 발견</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/VBKGVSN4Q5AMBATJDLH3CKSOCA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/VBKGVSN4Q5AMBATJDLH3CKSOCA/</guid>
+      <dc:creator>진창일 기자, 태안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 11:41:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NMY3GD7W4OPR6SI6YWEYQDKQV4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;태안해양경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안 앞바다에서 어선이 전복돼 해경이 인명수색에 나섰다.&lt;br&gt;&lt;br&gt;4일 태안해양경찰서 등에 따르면 이날 오후 6시 20분쯤 충남 태안 천리포 인근 해상에서 승선원 7명이 탄 9.77t 규모 어선이 전복됐다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;승선원 중 1명은 십리포 해안가에서 심정지 상태로 발견됐다. 해경은 현재까지 승선원 3명을 구조했고, 남은 3명에 대해 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;인명수색에는 경비함정 6척과 연안구조정 1척 등이 투입됐다. 해경 관계자는 “경비함정 등 가용세력을 비상소집해 인명구조에 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/NMY3GD7W4OPR6SI6YWEYQDKQV4.jpg?auth=df85e73ea81ece97c8aa6637c8406a26b7dc7a896e9ebc3f482d0b67c3be4964&amp;smart=true&amp;width=720&amp;height=470" type="image/jpeg" height="470" width="720">
+        <media:description type="plain">태안해양경찰서. /뉴시스</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>매서운 첫눈에 수도권 퇴근길 마비… “내일 출근길은 더 험난”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/DIQXZFK6VZEABPVOAZIPRVOS6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/DIQXZFK6VZEABPVOAZIPRVOS6A/</guid>
+      <dc:creator>고유찬 기자, 한영원 기자, 양인성 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 12:29:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/POGY3M5WONJVLOSR2YWJIBFSAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울·인천·경기·강원 등 4개 시도에 대설특보가 발효된 4일 서울 마포구 홍대 인근에서 제설작업이 완료되지 못한 도로에서 시민들이 언덕길 차를 밀고 있다. 그 옆으로는 빙판이 된 도로 위로 차와 오토바이가 지나고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;4일 오후 서울·인천·경기 등 수도권과 강원 일대에 갑작스레 눈이 쏟아지며 퇴근길 시민들의 발길이 묶였다. 기상청은 5일까지 강추위가 이어질 것으로 예상하며 “내일 출근길이 더 험난할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;서울 시내는 퇴근 시간대 눈이 급격히 쌓이면서 곳곳에서 차량 흐름이 크게 느려졌다. 버스는 예정 시각을 넘겨도 도착하지 않았고, 언덕길과 골목길에서는 차량들이 미끄러져 헛바퀴를 돌았다. 이날 오후 6시 30분 남대문세무서 앞 버스정류장에는 승객 40~50명이 몰렸다. 을지로에서 종로로 향하는 직장인 김모(30)씨는 “‘2분 후 도착’ 안내가 계속 떠도 버스가 오지 않는다”며 불편을 토로했다. 명동·종로 일대에서는 첫눈을 찍는 관광객과 귀가를 서두르는 시민이 뒤섞이며 혼잡이 빚어졌고, 종로3가의 15도 경사 주차장에선 승용차 한 대가 눈길에 미끄러지며 제자리만 맴돌았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W6TQV72MBBI4TGZKCUAJSXXZUE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;첫눈이 내린 4일 오후 서울 광화문사거리에서 퇴근길 시민들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시 교통정보시스템에 따르면 이날 오후 8시 20분 기준 서울 전체 평균 차량 속도는 시속 9㎞, 도심은 7.3㎞에 그쳤다. 서울시는 북부간선도로 양방향과 강변북로 일부 구간을 통제했고, 내부순환로는 전 구간 진입을 막았다. 삼청터널·인왕산길·남산길 등 8곳도 미끄럼 사고 우려로 봉쇄됐다. 시는 “인력 5052명과 제설장비 1145대를 투입해 제설·살포 작업을 진행 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;눈이 굵어진 오후 6시 이후 서울 도심 내 주요 환승역은 빠르게 혼잡해졌다. 시청역에서 만난 직장인 신유라(29)씨는 “지하철이 평소보다 붐벼 이동에 시간이 더 걸린다”고 했다. 서울역 버스환승센터 전광판에는 20~30분씩 지연된 버스 노선이 여러 개 표시되고 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FDJGL4N2RFMPHIGAANMHE3ZT24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울·인천·경기·강원 등 4개 시도에 대설특보가 발효된 4일 서울 마포구 홍대 인근에서 제설작업이 완료되지 못한 곳을 지나는 차량이 힘겹게 언덕길을 오르고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍대입구 일대에서는 제설이 늦어 차량들이 언덕길에서 잇따라 미끄러지는 모습이 보였다. 라이더 박성호(28)씨는 오토바이를 끌고 올라가며 “브레이크가 제대로 잡히지 않는다”고 말했다. 인근 분식집 업주 장모(45)씨는 “배달 기사들이 이동이 어렵다고 알려와 주문 처리가 지연되고 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 오후 7시 30분쯤 공덕역 6번 출구~효창공원 방면 백범로는 오르막 구간에 쌓인 눈으로 100여m 구간에서 정체가 이어졌다. 시민들이 차량을 밀다 넘어지는 모습도 목격됐다. 만리재고개 역시 차량이 속도를 내지 못해 정체가 지속됐다. 반면 공덕역 아파트 인근에서는 아이들이 썰매를 끌고 나와 눈사람을 만드는 등 대비되는 풍경도 연출됐다. 고령층은 빙판길을 피해 지팡이에 의지하며 천천히 이동했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7VM7U7JHEZIZVHEKKZUMXIQPWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울에 첫눈이 내린 4일 시민들이 서울 광화문 앞에서 첫눈 인증사진을 남기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여의도역 일대도 퇴근 인파로 혼잡했다. 바람이 강해 시민들은 역 내부로 서둘러 이동하는 모습이 보였다. 환경미화원 정삼인(60)씨는 “도로 곳곳이 미끄러워 작업에 어려움이 있다”고 했다. 오후 9시 이후 차도는 대부분 녹았지만, 인도는 염화칼슘과 흙이 뒤섞여 여전히 미끄러운 상태였다.&lt;br&gt;&lt;br&gt;강남권에서도 혼선은 이어졌다. 오후 8시 20분쯤 반포역 4번 출구 앞 사거리에서는 차량이 꼼짝 못한 채 거북이걸음을 했다. 쇼핑을 마친 김모(55)씨는 “이 정도면 내일 아침이 더 걱정된다”고 말했다. 고속터미널역 앞 가판대 상인은 “염화칼슘을 제때 뿌리지 않아 도로가 얼기 시작했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSGCOBWGU4TEODFGJSWKZBVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울·인천·경기·강원 등 4개 시도에 대설특보가 발효된 4일 서울 마포구 홍대 인근에서 퇴근길 차량들이 눈길에 큰 정체를 빚고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 수도권 4개 시도에 대설 특보가 발령되자 오후 6시부로 대설경보 단계를 ‘관심’에서 ‘주의’로 상향하고 중앙재난안전대책본부 1단계를 가동했다. 시간당 5㎝ 이상 눈이 내릴 때 발송되는 ‘대설 재난문자’도 수도권 전역에 전송됐다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “낮은 기온으로 눈이 녹지 않아 살얼음이 생길 가능성이 높다”며 “대중교통 이용을 권고한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5XJMIJWXXZBYFGIDY3ALERFDHU.gif?auth=66140be3a929c81b4890dc21b3e95ec05545dfa8921b18e9ac0b236495fbdf10&amp;smart=true&amp;width=500&amp;height=333" type="image/jpeg" height="333" width="500">
+        <media:description type="plain">폭설로 서울시내 차량과 사람들이 빙판길에서 퇴근을 서두르고 있다./ 연합뉴스 뉴시스- 짤1</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>동덕여대 공학 전환 둘러싸고 ‘칼부림 예고’ 올린 10대 여성 검거</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/TDRSWHIFQVFSXMFABLNTXN3BNU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/TDRSWHIFQVFSXMFABLNTXN3BNU/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 13:02:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY2DAYLBGU4DONBTGM2GCNRVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1일 동덕여대 정문에 붙은 대자보./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동덕여대의 남녀공학 전환 방침과 관련해 소셜미디어에 ‘칼부림 예고’ 글을 올린 10대 여성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 남대문경찰서는 4일 “경남경찰청과 공조해 마산에 거주하는 10대 여성 A씨를 공중협박 혐의로 검거했다”고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 3일 소셜미디어에 동덕여대를 겨냥해 영어로 ‘학교 갈 준비가 됐다’는 문장과 함께, 칼이 든 가방 사진을 게시한 혐의를 받고 있다. 남대문서는 ‘동덕여대 칼부림 예고 글이 온라인에 올라왔다’는 신고를 접수한 뒤 수사에 착수해 A씨를 협박글 작성자로 특정하고, 주거지 관할인 경남청에 공조를 요청해 검거했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 임의동행 과정에서 해당 글을 자신이 올린 사실을 대체로 인정한 것으로 전해졌다. 남대문서는 A씨의 신병 확보한 뒤 사건을 A씨 거주지 관할 마산경찰서로 이송해, 구체적인 범행 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;앞서 동덕여대는 총장 명의 입장문을 통해 2029학년도부터 동덕여대를 남녀공학으로 전환하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>잇단 파업 민주노총, 조합원 수도 줄었다</title>
+      <link>https://www.chosun.com/national/labor/2025/12/04/VODUADZYXFGBTMAD5X3Q5UAWCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/12/04/VODUADZYXFGBTMAD5X3Q5UAWCU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 12:41:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJG64PXLD5PPZKEPDZOAO3BJ4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(광주=뉴스1) 이승현 기자 = 광주시와 시민사회 등으로 구성된 '빛의 혁명 1년, 내란외환종식과 사회대개혁을 염원하는 광주공동체'가 3일 광주 동구 5·18민주광장에서 기자회견을 열고 내란 세력 단죄와 사회대개혁을 촉구하고 있다. 2025.12.3/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 민주노총 조합원 수가 전년 대비 8000여 명 줄고, 한국노총은 4만2000여 명 늘어난 것으로 나타났다. 민주노총은 앞서 지난 2020년 한국노총에 제1노총 자리를 내줬는데, 이후 조합원 수 차이가 갈수록 벌어지고 있다.&lt;br&gt;&lt;br&gt;고용노동부는 4일 이 같은 내용을 담은 ‘2024년 전국 노동조합 조직 현황’을 발표했다. 이에 따르면 지난해 민주노총 조합원 수는 전년보다 8036명 줄어든 107만8582명을 기록했다. 반면, 한국노총 조합원 수는 전년 대비 4만2227명 증가한 120만2389명으로 나타났다. 한국노총과 민주노총 조합원 수 차이는 2022년 2만명대에서 2023년 7만명대로 벌어진 상태였는데, 이번엔 12만명대로 격차가 더 확대됐다. 이 같은 현상에 대해 “공공·대기업이 상대적으로 많은 한국노총은 꾸준히 세를 불린 데 반해, 민주노총은 조합원 처우 개선과 상관없는 이념 중심의 정치 파업과 집회 등을 지속하며 조합원이 줄어든 것”이란 분석이 나온다. 양대 노총 등 총연합 단체에 가입하지 않은 조합원 수 역시 2023년 47만9758명에서 지난해 49만1672명으로 늘었다. &lt;br&gt;&lt;br&gt;다만, 내년 3월 노란봉투법 시행으로 이 같은 상황에 반전이 생길 가능성도 제기된다. 앞으로 하청 노조와 원청 업체의 교섭이 가능해지는 만큼, 작은 사업장들에서도 노조가 생겨나면서 한국노총과 민주노총 가입이 크게 증가할 수 있다는 게 전문가들의 대체적 견해다. 하청 업체 노조는 교섭 단위 구성뿐 아니라 원청 업체와의 교섭 대응 전략 수립에 한계가 있을 수밖에 없는데, 교섭력 강화를 위해 양대 노총에 들어갈 가능성이 크다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쌍방 車사고 상대 보험사에 자기부담금 청구 가능할까...대법, 공개 변론</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/04/KNOD5VW7DVAJ3F23CGJ26MY5JM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/04/KNOD5VW7DVAJ3F23CGJ26MY5JM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 11:45:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRF4JBJASJHE7C64SJI3KBWQII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방 과실로 자동차 사고가 났을 때 자기가 가입한 보험사에 내야 하는 ‘자기부담금’을 상대방 보험사에 구할 수 있는지를 놓고 벌어진 소송의 공개 변론이 4일 대법원에서 열렸다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 신숙희 대법관)는 이날 자동차보험 가입자 10명이 사고 상대 차량 보험사를 상대로 제기한 손해배상 청구 사건의 변론을 열었다. 대법원 전원합의체가 아닌 소부(小部)에서 공개 변론을 한 건 이번이 다섯 번째로, 작년 10월 ‘간호사 골수 채취’ 사건 이후 약 1년 2개월 만이다. &lt;br&gt;&lt;br&gt;원고들은 쌍방 과실 교통사고 후 자차 보험 계약에 따라 차량 수리비 중 자기부담금(한도 50만원)을 낸 뒤 이를 돌려받지 못하자 상대 차량 보험사를 상대로 배상하라며 소송을 냈다. 앞서 1·2심은 “원고들은 스스로 자기부담금을 부담하기로 하고 자기부담금 약정이 포함된 자차보험을 체결한 것”이라며 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;이번 소송의 쟁점은 자기부담금의 법적 성격을 ‘미전보 손해(보험금으로 충족되지 않고 남은 손해)’로 볼 수 있는지였다. 대법원 전합은 지난 2014년 “피보험자(가입자)는 보험자(보험사)로부터 수령한 보험금으로 전보되지 않고 남은 손해에 대해 제3자를 상대로 배상 책임을 이행하라고 구할 수 있고, 차액이 있을 때 비로소 보험자가 대신 청구할 수 있다”고 판시했다. 이에 따르면 자기부담금은 원래 가입자가 부담하는 것이지만, 이를 미전보 손해로 보면 가입자가 직접 상대 보험사에 청구할 수 있게 된다.&lt;br&gt;&lt;br&gt;대법원은 이날 양측 주장을 뒷받침하는 전문가를 불러 의견을 들었다. 원고 측 참고인으로 나온 김은경 한국외대 법학전문대학원 교수는 “자기부담금은 보험사가 지급하지 않기로 한 ‘면책’ 부분에 해당해 가입자가 먼저 상대 보험사에 배상을 청구할 권리가 있다”고 했다. 원고 측은 쌍방 과실 사고에서 ‘자차 선처리’ 방식으로 보험금을 지급하는 경우 특히 자기부담금을 청구할 수 있어야 한다고 주장했다. 자차선처리는 사고 초기 단계 과실 비율이 확정되지 않아도 일단 수리비를 지급하는 방식인데, 사실상 100% 과실 기준으로 자기부담금을 내야 해 실제 과실보다 더 많은 자기부담금을 부담하게 된다는 것이다. &lt;br&gt;&lt;br&gt;반면 보험사 측 참고인인 이성남 목포대 금융보험학과 교수는 “자기부담금을 제3자에게 모두 보전받게 되면 자기부담금 제도 자체가 사실상 사라져 도덕적 해이가 커진다”고 했다. 자기부담금 제도가 없어지면, 결국 보험료가 인상될 우려가 있다고 했다. 그러면서 “자기부담금 제도는 불필요한 청구를 억제하고 보험료를 안정시키려는 장치”라고 했다. 자차 선처리나 교차 처리(상대 차량 보험사가 먼저 내 차의 수리비를 지급) 등 보험금 처리 방식마다 자기부담금 액수가 달라지면 과실 비율 확정을 둘러싼 분쟁이 늘어난다는 점도 지적했다. &lt;br&gt;&lt;br&gt;대법원 2부는 이날 변론을 종결하고, 최종 토론을 거쳐 판결을 선고할 예정이다. 대법원은 이번 사건에서 보험업계 자기부담금 부과 근거가 적정한지도 판단할 것으로 보인다. 결론에 따라 과실비율 산정 등 보험업계 실무에 적지 않은 영향을 미칠 것으로 대법원은 내다봤다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전남 장성 육군 훈련장에서 폭발사고로 부사관 4명 부상</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/ANYAQO7QM5ADPOA2LIEM7IK7CQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/ANYAQO7QM5ADPOA2LIEM7IK7CQ/</guid>
+      <dc:creator>장성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 11:38:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA4TEOLDGJRTEZJZMVSGGYZSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 장성군의 한 육군 훈련장에서 폭발 사고가 나 부사관 4명이 부상을 입었다.&lt;br&gt;&lt;br&gt;4일 육군 등에 따르면 이날 오후 1시쯤 전남 장성군의 한 훈련장에서 훈련 중 폭발 사고가 발생했다. 실물 폭파 훈련 중 전기식 뇌관이 터지면서 사고가 난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 사고로 상사 1명과 중사 3명 등 부사관이 얼굴 등에 상처를 입어 구급차를 타고 병원으로 이송됐다. 부상자들은 생명에 지장은 없는 것으로 전해졌다. 군 당국은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/7KRKCIOOMX5QKH4IJK6YZO5MEM.jpg?auth=f3b086db679c21d62c2bba5f338b6b04435309083fee32cdb4b3f2f25a85125f&amp;smart=true&amp;width=650&amp;height=433" type="image/jpeg" height="433" width="650">
+        <media:description type="plain">119 구급대 출동 삽화</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
       <title>수도권·강원에 대설 특보…정부, 중대본 1단계 가동</title>
       <link>https://www.chosun.com/national/national_general/2025/12/04/2W2PAAKL5FAXBBK4GE7UPRWP6E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/2W2PAAKL5FAXBBK4GE7UPRWP6E/</guid>
@@ -887,16 +952,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GH6WNYQVUNJWDP5FUQSXR2LDHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 서울 서초구 대법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전국 각급 법원 대표 모임인 ‘전국법관대표회의’가 오는 8일 여당이 추진하는 법관 인사 제도 개편과 상고심 제도 개선 방안 등 ‘사법 개혁안’에 관한 입장을 표명할지 논의한다. 법관 대표들은 대법원 법원행정처를 상대로 최근 논란이 커진 ‘내란 전담 재판부’ 설치, ‘법 왜곡죄’ 도입 등에 대한 설명도 요청해 듣기로 했다.&lt;br&gt;&lt;br&gt;법관대표회의는 오는 8일 경기 고양시 사법연수원에서 하반기 정기회의를 개최하고 사법 행정과 법관 독립에 관한 주요 안건들을 논의한다고 3일 밝혔다. 이번 회의에는 법관 근무 평정에 외부 기관인 대한변호사협회의 평가를 반영하게 하는 법관 인사 제도 개편안과 대법관 증원 등 상고심 제도 개선안에 관한 두 가지 안건이 상정됐다. 모두 더불어민주당이 대법원의 이재명 대통령 선거법 사건 유죄 판결을 비판하며 내놓은 개혁안과 관련된 내용들이다.&lt;br&gt;&lt;br&gt;우선 대한변협의 평가를 법관 평정에 반영하는 개편안에 대해서는 반대하는 취지의 안건이 상정됐다. “단기적·정치적 논의나 일시적 여론에 따라 제도가 성급하게 개편되는 것은 바람직하지 않고, 재판의 공정성과 사법의 안정성을 훼손할 우려가 있다”는 것이다. 충분한 연구와 검토 없이 성급하게 제도를 바꾸는 것을 우려스럽다는 지적이 담겼다.&lt;br&gt;&lt;br&gt;민주당이 추진하는 대법관 증원 등 상고심 제도 개선에 관해선 “사실심 강화 방안이 함께 논의될 필요가 있고, 대법관 구성의 민주적 정당성 확보를 위한 대법관 후보 추천위원회의 제도 개선도 필요하다”는 안건이 상정됐다. “상고심 제도 개선 논의에 국민의 기대와 요구는 물론, 재판을 담당하는 법관들의 의견이 충분히 반영돼야 한다”는 내용도 포함됐다.&lt;br&gt;&lt;br&gt;다만 이날 상정된 안건은 회의에 참석한 법관 대표 과반이 찬성해야 법관대표회의의 공식 입장으로 발표할 수 있다. 안건 내용이 일부 수정 의결되거나, 정족수에 미치지 못해 부결될 가능성도 있다.&lt;br&gt;&lt;br&gt;한편, 법관 대표들은 이번 회의에서 민주당이 최근 추진하는 법원행정처 폐지, ‘내란 전담 재판부’ 설치, ‘법 왜곡죄’ 도입 등의 구체적 쟁점과 그에 관한 법원행정처의 입장도 듣는다. 법관대표회의는 “민주당이 발표한 법원행정처 폐지와 사법행정위원회 신설, 법관 징계 강화 등 ‘사법 개혁안’ 초안은 기존 사법행정 시스템에 큰 변화를 가져올 수 있는 중요한 사안”이라며 “사법행정과 법관 독립에 관한 의견 표명 기구인 법관대표회의에서도 검토할 필요가 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;법관 대표들은 법원행정처가 공유한 내용을 바탕으로 민주당 추진 법안에 대한 입장을 추가로 밝힐지 검토할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>폭행치사 징역 8년… “친분 없는 지인이 선배 행세” 황당 이유</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/EAR65LZFLFGTXGOMUJHLEDG3O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/EAR65LZFLFGTXGOMUJHLEDG3O4/</guid>
-      <dc:creator>춘천=정성원 기자</dc:creator>
-      <description>친분이 없는 지인이 선배 행세를 한다는 이유로 폭행해 숨지게 한 40대가 항소심에서 원심보다 더 무거운 형을 선고받았다.
-서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인 혐의로 기소된 A(47)씨에게 징역 4년을 선고한 원심을 깨고 징역 8년을 선고했다고 3일 밝혔다.</description>
-      <pubDate>Wed, 03 Dec 2025 08:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDEZDEHAZDQOJUGU2WCZBZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친분이 없는 지인이 선배 행세를 한다는 이유로 폭행해 숨지게 한 40대가 항소심에서 원심보다 더 무거운 형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인 혐의로 기소된 A(47)씨에게 징역 4년을 선고한 원심을 깨고 징역 8년을 선고했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 12월 21일 강원 춘천시 한 술집 인근에서 별다른 친분이 없는 B(55)씨가 선배 행세를 한다는 이유로 폭행해 의식 불명 상태에 빠뜨린 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰은 “사망을 의도한 폭행”이라며 A씨에게 살인미수 혐의로 적용했지만, 1심 재판부는 “A씨가 B씨를 살해할 만한 뚜렷한 동기가 있었다고 보기 어렵다”며 중상해죄만 인정해 징역 4년을 선고했다.&lt;br&gt;&lt;br&gt;검찰은 1심 이후 양형 부당 등을 이유로 항소했고, 항소심 도중 의식 불명 상태로 지내던 B씨가 숨지자 살인미수에서 살인 혐의로 공소장을 변경했다.&lt;br&gt;&lt;br&gt;하지만 항소심 재판부는 살인 혐의는 받아들이지 않았다. 폭행 동기나 경위, 피해자의 사망 시점 등을 종합할 때 사망 가능성을 예견했다고 단정하기 어렵다는 게 이유였다. 대신 폭행과 사망 사이 인과관계를 인정해 상해치사죄를 유죄로 판단했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피해자와 유가족으로부터 용서받지 못했고, 금전적으로나마 피해 회복을 위해 노력한 정황을 찾아볼 수 없다”면서 “B씨가 별다른 저항을 할 수 없는 상황에서 폭행해 사망에 이르게 한 것은 죄책이 매우 무겁다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>12·3 계엄 1년...尹 “국민께 마음의 상처와 불편 끼쳐 송구” 옥중 메시지</title>
       <link>https://www.chosun.com/national/court_law/2025/12/03/ZAJHBFHE4FC2TBRN6DTLH2QBCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/ZAJHBFHE4FC2TBRN6DTLH2QBCU/</guid>
@@ -904,24 +959,6 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 08:16:51 +0000</pubDate>
       <content:encoded>윤석열 전 대통령이 12·3 비상계엄 사태 1년을 맞아 “국민들께 마음의 상처와 불편을 끼쳐드려 송구한 마음을 금할 길이 없다”며 옥중 메시지를 냈다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J4NDJPUTWRI5DANLYKY4GAF7XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난달 19일 서울 서초구 서울중앙지방법원에서 열린 한덕수 전 국무총리의 내란 재판에 증인으로 출석했다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 윤 전 대통령 변호인단 배의철 변호사는 “대통령께서 접견에서 말씀하신 내용”이라며 ‘12·3 국민 여러분께 드리는 말씀’이라는 제목의 입장문을 공개했다.&lt;br&gt;&lt;br&gt;입장문에서 윤 전 대통령은 비상계엄을 “국정을 마비시키고 자유헌정질서를 붕괴시키려는 체제 전복 기도에 맞서, 국민의 자유와 주권을 지키기 위한 헌법 수호 책무의 결연한 이행”이라고 규정했다. 그러면서 “주권자인 국민이 깨어나 망국의 위기를 초래한 대의권력을 직접 견제하고, 주권 침탈의 위기를 직시하며 일어서달라는 절박한 메시지였다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 “민주당 의회 독재 권력은 무려 30차례 정부 인사를 탄핵했다”며 “부정 채용만 1200여 건에 달하고 투·개표의 해킹이 모두 가능한 것으로 파악되는 등 선관위의 공정성은 심각하게 위협받고 있었다”고 했다.&lt;br&gt;&lt;br&gt;계엄 사태로 군 관계자 등이 수사 대상이 된 상황도 언급했다. 윤 전 대통령은 “평생 국가를 위해 헌신한 군인들과 공직자들이 고초를 겪고 있다”며 “대통령의 정당한 명령에 따랐다는 이유로 이들이 탄압과 고통을 받는 일은 없어야 한다. 모든 책임은 군 통수권자였던 제게 있다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 현재 정부·여당이 추진 중인 각종 사법 정책을 거론하며 ‘법치의 붕괴’를 주장했다. 그는 “입법 독재에 이어 검찰청 해체, 4심제, 대법관 증원을 통한 사법부 장악, 대법원장 탄핵 협박, 내란 전담 재판부 설치 등 사법의 독립마저 무너뜨리는 독재의 폭주와 법치의 붕괴를 보고 있다”며 “대한민국의 자유, 법치, 주권 수호를 위해 다시 일어서야 할 때”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>미성년자 고용한 해운대 룸살롱… 고작 16세</title>
-      <link>https://www.chosun.com/national/regional/2025/12/03/STDVXUZWNBECBGN2M4ANQWWIHE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/03/STDVXUZWNBECBGN2M4ANQWWIHE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 08:12:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PQC4OLB7TT3MFL7Q76LVU6SWI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해운대경찰서 전경. / &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구에 있는 룸살롱이 미성년자를 고용했다가 경찰에 단속됐다.&lt;br&gt;&lt;br&gt;부산 해운대경찰서는 청소년보호법 위반 혐의로 해당 룸살롱을 단속해 업주 등을 상대로 조사할 예정이라고 3일 밝혔다.&lt;br&gt;&lt;br&gt;신고를 받은 경찰은 전날 오후 해당 룸살롱을 찾아가 미성년자 1명이 고용된 것을 확인했다. 미성년자는 16세인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;청소년보호법상 룸살롱이나 유흥주점 등 청소년 고용 금지 업소는 청소년을 고용하거나 서비스를 제공하도록 해서는 안 된다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “청소년이 일하는 것을 현장에서 확인했으며, 성매매 여부와 관련해서는 현장 적발이 필요해 확인할 수 없었다”면서 “미성년자를 고용한 경위를 수사할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>1·2인 가구 겨냥 ‘칠곡할매쌀’ 출시… 윤기, 탄력 좋아 밥맛 뛰어나</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/03/Y4YF6WLI6BCXNOLAF2H63DBRGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/Y4YF6WLI6BCXNOLAF2H63DBRGM/</guid>
-      <dc:creator>칠곡=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 08:09:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6YUEKINFQJCUXNBLWSNJU6WJTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;칠곡군 직원들이 칠곡할매쌀을 손에 들고 소개하고 있다./칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 칠곡군에서 1~2인 가구를 위해 쌀을 소량으로 포장한 제품인 ‘프리미엄 칠곡할매쌀(칠곡할매쌀)’을 출시했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;칠곡할매쌀은 하루 세 끼 분량(300g)의 쌀을 진공 포장해 한 손에 쥘 수 있는 팩처럼 만든 제품이다. 포장지의 칼집을 따라 자른 뒤 밥솥에 붓고 취사 버튼만 누르면 밥을 지을 수 있게 만들었다.&lt;br&gt;&lt;br&gt;칠곡군은 점차 늘어나는 1~2인 가구의 수요에 맞춰 칠곡할매쌀을 개발했다. 칠곡군의 1~2인 가구 수는 지난 11월 기준 3만9017세대로, 전체 가구(5만3505세대)의 73%를 차지한다. 군민 절반 이상이 1~2인 세대로 구성된 셈이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWO7565FUFHWZD4GB2COUFAD7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 3월 일본 니가타현에서 칠곡군 관계자들이 야이로물산의 포장지를 살펴보며 포장 디자인과 품질을 확인하고 있다./칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;칠곡할매쌀의 탄생 배경에는 일본 니가타현의 쌀 소비 문화가 자리하고 있다. 지난 3월 칠곡군과 지역 농협·농업기술센터 관계자들은 일본 쌀 ‘고시히카리’의 고장인 니가타현 출장을 통해 현지의 쌀 재배와 유통, 소비 문화를 체험했다. 이 과정에서 칠곡군이 주목한 것이 소포장 형태의 쌀 제품이었다. &lt;br&gt;&lt;br&gt;지선영 칠곡군농업기술센터 소장은 “대량의 쌀을 장기 보관하면 맛이 떨어지는데, 니가타현에선 산소 노출을 최소화한 진공 포장 기술로 적은 양의 쌀을 팔아 맛있는 밥맛을 유지했다”며 “1~2인 가구가 늘어나는 우리 지역에도 적합한 제품이라 개발하게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;일본 출장 이후 칠곡군은 지역 내 농가 40곳이 참여해 소포장 쌀을 개발하는 생산 단지를 조성했다. 제품의 기반이 되는 품종으로는 ‘미호쌀’이 선정됐다. 미호쌀은 찹쌀의 쫀득함과 멥쌀의 고슬함이 있고 윤기와 탄력이 좋아 밥맛이 뛰어난 품종으로 칠곡군을 비롯해 전국에서 재배되는 품종이다. &lt;br&gt;&lt;br&gt;품질 관리도 강화했다. 칠곡군농업기술센터에서는 농가에서 납품되는 쌀을 전량 DNA로 분석해 품종 순도와 단백질 함량 등을 검사해 합격 기준을 충족한 쌀만 제품에 활용했다. 경북과학대 라이즈사업단 포장기술연구센터엔 시간당 800개를 생산하는 진공 포장 라인을 설치해 농가와 공유했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSRZBS2EGVBOBBJRLOQFBMY4SY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소포장 형태의 칠곡할매쌀/칠곡군&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;칠곡할매쌀은 1팩 기준 300g이며 성인 1명이 세 끼를 먹을 수 있는 분량이다. 20팩으로 구성된 선물 세트는 한 달 치 식량이 된다. 칠곡군 지역 내 농협하나로마트와 경부고속도로 칠곡휴게소에서 우선 판매될 예정이다.&lt;br&gt;&lt;br&gt;김재욱 칠곡군수는 “앞으로는 음료수 박스 대신 칠곡할매쌀을 선물하는 문화가 정착될 것“이라며 ”국민들이 필요한 만큼 신선하고 맛있게 먹을 수 있는 쌀 문화를 만드는 데 칠곡이 앞장서겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내일 서울 첫눈, 눈발 약하게 흩날려</title>
@@ -943,24 +980,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>‘이재명 소년원 의혹 제기’ 강용석, 2심서 징역형 집유</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/WHI57ESP6NAXFASTB7W6GQKG5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/WHI57ESP6NAXFASTB7W6GQKG5E/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 07:51:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZGGOBSGU2TOZTCHFSGENBXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강용석 법무법인 넥스트로 대표변호사(왼쪽 사진)와 김세의 가로세로연구소 대표 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 대선을 앞두고 이재명 대통령(당시 더불어민주당 대통령 후보)이 소년원 출신이라는 등 허위사실을 퍼뜨린 혐의로 기소된 강용석 변호사에게 3일 항소심 법원이 징역형 집행유예를 선고했다. 강 변호사에게 벌금 1000만원을 선고한 1심보다 형량을 높였다. &lt;br&gt;&lt;br&gt;서울고법 형사6-1부(재판장 정재오)는 이날 강 변호사의 공직선거법 위반 사건 항소심에서 징역 1년에 집행유예 2년을 선고하고 40시간의 사회봉사를 명령했다. 함께 기소된 김세의 가로세로연구소 대표에게는 1심과 같이 벌금 700만원을 선고했다.&lt;br&gt;&lt;br&gt;강 변호사는 대선을 앞둔 2021년 5월 가세연 방송에 나와 이 대통령이 어린 시절 소년원에 다녀왔고 전과를 숨기기 위해 생년월일을 바꿨다는 의혹을 제기했다. 같은 해 11월 이 대통령의 부인 김혜경 여사가 낙상 사고를 당한 사실이 알려지자 강 변호사는 김 대표와 함께 ‘이 대통령이 불륜으로 낳은 혼외자가 있고 이 때문에 부부싸움을 하다 다친 것 아니냐’는 의혹을 언급하기도 했다.&lt;br&gt;&lt;br&gt;재판부는 강 변호사의 ‘소년원’ 관련 발언에 대해 1심의 무죄 판단을 뒤집고 유죄를 선고했다. 1심 재판부는 “이 대통령에게 좋지 않은 행적이 있다는 암시 내지 범죄 전력에 대한 의혹 제기일 뿐 구체적 사실 적시가 있다고 평가하기 어렵다”며 무죄라고 판단했다. 그러나 이날 항소심 재판부는 “강 변호사는 간접적·우회적으로 ‘이 대통령이 중·고교에 다녀야 할 시기에 소년원에 다녀왔다’는 허위 사실을 암시했다고 보는 것이 타당하다”며 “유튜브 시청자는 방송 내용을 의심없이 사실로 받아들여 이 대통령에 대한 평가 인식을 형성했을 가능성이 있다”고 했다. &lt;br&gt;&lt;br&gt;나머지 혐의에 대해선 1심 판단을 그대로 받아들였다. 앞서 1심 재판부는 강 변호사와 김 대표의 ‘혼외자’ 발언에 대해 “이유가 있는 의혹 제기라 볼 수 없다”며 “민감한 부분에 관해 별다른 사실 확인 절차를 거치지 않은 채 보도한 점 등 죄질이 나쁘다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주공항 국제여객수 300만명 눈앞...역대 최고치 갈아치웠다</title>
-      <link>https://www.chosun.com/national/regional/2025/12/03/WDJUK5CKF5BZTE4RSZCZ3AE6OI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/03/WDJUK5CKF5BZTE4RSZCZ3AE6OI/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 06:10:56 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WGY3FMIZDCYTEMQ3TGNZWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 제주국제공항 1층 도착장에서 '제주공항 국제선 여객 역대 최다 달성 기념식'이 열렸다./한국공항공사 제주공항&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제주국제공항 국제선 여객 수가 280만 명을 돌파하며 역대 최다치를 갈아치웠다.&lt;br&gt;&lt;br&gt;3일 한국공항공사 제주공항에 따르면 전날까지 집계된 올해 제주공항 국제선 여객 수는 총 280만2095명이다. 이는 역대 최다치로, 직전 기록은 2016년 274만 명이었다.&lt;br&gt;&lt;br&gt;공사는 연말까지 올해 제주공항 국제선 여객 수가 300만 명에 이를 것으로 예상하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4F6BVQWGNBWBLGYUIDVSSPPYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 제주공항은 5개국 18개 노선에 14개 외국항공사가 월 1380편을 운항하고 있다.&lt;br&gt;&lt;br&gt;제주 기점 주요 국제선을 보면 제주~중국(베이징·상하이·홍콩·칭다오·항조우·광저우·난징·닝보·선양·선전 등) 월 1208편으로 가장 많다. 이 노선에는 춘추·동방·길상·중국국제항공·북경수도항공이 여객기를 운항 중이다.&lt;br&gt;&lt;br&gt;다음으로 제주~대만(가오슝·타이중) 114회, 제주~싱가포르 44회, 제주~몽골·베트남(부정기) 등이다.&lt;br&gt;&lt;br&gt;장세환 한국공항공사 제주공항장은 “제주관광의 강점을 공항 운영에 적극 활용한 항공·관광 융합 마케팅과 해외 공항과의 직접적 협력이 맞물리며 국제선 여객 증가세가 뚜렷해졌다”며 “역대 최다 국제 여객 돌파를 계기로 제주공항이 아시아 대표 관광 거점공항으로 도약할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>3000원 내고 동파육·갈비탕…직장인들 부러움 산 ‘황제 점심’ 화제</title>
       <link>https://www.chosun.com/national/national_general/2025/12/03/LID7FOMWFFGMVJWOMNADHSLOTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/LID7FOMWFFGMVJWOMNADHSLOTI/</guid>
@@ -968,15 +987,6 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 06:16:55 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K7MAEOLJJG3DMLSMWN25VZFVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'직장에서 3000원씩 걷어서 해먹는 점심' 동파육./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고물가 시대에 직장 동료들과 3000원씩 모아 점심을 해 먹는 온라인 콘텐츠가 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 ‘보배드림’에는 ‘직장에서 3000원씩 걷어서 해 먹는 점심’이라는 타이틀의 시리즈 게시물이 올라오고 있다.&lt;br&gt;&lt;br&gt;지난해 9월부터 올라온 이 시리즈에는 ‘닭냉채 고추장새우마파두부’를 시작으로 족발, 김치찜, 갈비찜, 닭백숙, 돈가스, 제육쌈밥, 김밥, 떡볶이 등 다양한 점심 메뉴 사진이 포함됐다. 사진 속에는 재료 손질부터 조리, 상차림 등 전 과정이 담겼다. &lt;br&gt;&lt;br&gt;지금까지 올라온 관련 게시물만 400여 개다. 작성자는 한 아파트 관리 사무소에서 근무하는 직원으로 알려졌다. &lt;br&gt;&lt;br&gt;그는 “직원들과 점심을 만들어 먹는데, 한 끼당 3000원씩 걷어서 운영한다”고 했다. 이어 “요식업 경험은 없고 편의점 아르바이트만 하다가 시설 관리직으로 이직했지만, 점심 만드는 것이 즐거워 인터넷을 참고하며 메뉴를 고민하고 있다”고 했다.&lt;br&gt;&lt;br&gt;가장 최근 게시물은 지난달 26일 올린 동파육이다. 작성자는 동파육과 함께 데친 청경채, 무생채, 밥과 계란 등을 곁들여 동료 6~7명과 먹었다. 직원 생일 등 특별한 날에는 희망 메뉴를 받아 해 먹는다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RG4KHXF7FBMJEKUY7MOY4OKEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'직장에서 3000원씩 걷어서 해먹는 점심' 시리즈./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘3000원 점심’의 비결은 식재료 대량 구매였다. 작성자는 “한 끼만 3000원으로 맞추는 것은 어렵지만, 한 달 단위로 모으면 가능하다”며 “쌀은 아파트에서 제공하고, 김치는 별도로 모은 비용으로 구매한다. 양념과 재료를 대량으로 사서 최대한 가성비를 높인다”고 설명했다.&lt;br&gt;&lt;br&gt;또 설거지는 작성자를 제외한 직원들이 순번제로 담당하며, 휴가 시에는 보조 직원이 대신 요리하는 등 ‘3000원 점심’은 원칙에 따라 안정적으로 운영되는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 시리즈를 접한 네티즌들은 “이런 직장 다니고 싶다” “전에 다니던 회사도 비슷하게 운영하다가 얼마 못 갔는데 유지하는 게 대단하다” “요즘 국밥 한 그릇도 1만원이 넘는데 동료들 부럽다” 등의 반응을 보내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사기죄 형량 ‘최대 30년’…형법 개정안, 국회 본회의 통과</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 01:00:51 +0000</pubDate>
-      <content:encoded>법무부는 보이스피싱·투자리딩방 등 불특정 다수를 상대로 사기를 저질러 형법상 사기죄로 처벌될 경우 최대 징역 30년까지 처할 수 있도록 한 형법 개정안이 국회 본회의를 통과했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BJCELYBUBI3ZNMCCYKPI3DXIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 개정안은 사기죄의 법정형을 현행 ’10년 이하의 징역 또는 2000만원 이하의 벌금’에서 ’20년 이하의 징역 또는 5000만원 이하의 벌금’으로 상향하는 게 골자다.&lt;br&gt;&lt;br&gt;개정안이 시행되면 경합범 최고 형량은 징역 30년까지 올라간다. 법원은 다수의 범죄를 저지른 경우 경합범 가중 원칙에 따라 가장 중한 범죄 최고형의 50%를 가중할 수 있다.&lt;br&gt;&lt;br&gt;그동안 불특정 다수의 피해자들을 상대로 조직적 사기를 저질러도 피해자 1인당 피해액이 5억원을 넘지 않으면 특정경제범죄법에 따른 가중처벌이 어려웠다. 특정경제범죄법이 적용되면 징역 30년에서 최대 무기징역까지 처벌할 수 있으나, 피해규모가 수천억원대에 이르더라도 피해자 1인당 피해액이 5억원을 넘지 않으면 형법상 사기죄만 적용되기 때문이다. 이 경우 최대 징역 15년까지 선고할 수 밖에 없었다.&lt;br&gt;&lt;br&gt;이에 법무부는 형법상 사기죄의 법정형 상한을 기존 징역 10년에서 20년으로 상향하는 법 개정에 나서 가중 원칙에 따른 형법상 사기죄 최고 형량을 징역 30년으로 높였다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “이번 개정을 통해 서민들에게 심각한 피해를 주는 조직적 사기 범죄에 엄정하게 대응할 수 있는 계기가 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
