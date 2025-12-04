@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“이부진 아들 수능 한개 틀렸다나”…박선영 前진화위원장이 치켜세운 이유</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/05/UJKNZETMXNEJPLM364PE2XPS3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/UJKNZETMXNEJPLM364PE2XPS3I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 22:51:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWFS3JDLEWZHXUH3YHAOPVIFSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박선영 전 진실·화해를위한과거사정리위원회 위원장이 이부진 신라호텔 사장의 아들 교육관을 치켜세우는 소셜미디어(SNS) 글을 올렸다가 논란이 일자 “문제가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;박 전 위원장은 지난 4일 페이스북에 “교육에 관심 많은 엄마들의 단톡방에는 보름 가까이 ‘이부진’이 키워드다”라며 “휘문고 3학년인 이사장의 아들 임모군은 올해 수능을 1개 틀렸다나. 휘문중 다닐 때도 전교 1등을 놓치지 않았다더라”고 썼다.&lt;br&gt;&lt;br&gt;이어 “요즘 돈 좀 있다는 연예인이나 준재벌은 자식들을 너나없이 영어유치원부터 시작해 외국으로 보내려고 기를 쓴다”며 “그런데 돈이 없나, 인맥이 없나, 세상에 부러움 없을 삼성가 상속녀가 아들을 초중고 모두 한국에서 보냈다는 사실에 내가 다 고마울 정도다. 대학도 국내에서 보낼 거라네? 다들 보내고 싶어 하는 의대는 아니고”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “아무튼 이부진 사장, 맘에 든다. 이 사장 덕분에 부서져 내버린 우리 교육이 좀 제대로 섰으면 좋겠다”며 “이참에 대한민국 교육 좀 제대로 진단하고, 제대로 잡아보자”라고 덧붙였다.&lt;br&gt;&lt;br&gt;임군이 실제로 2026학년도 대학수학능력시험에서 우수한 성적을 거뒀는지는 확인되지 않았으나, 수능 성적 통지일(5일)을 하루 앞둔 이날 온라인상에서 임군의 수능 ‘가채점’ 성적은 뜨거운 화제였다. 임군이 국내 모대학의 특정 학과에 진학할 예정이라는 추측까지 더해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VH5BAZ2LZBNGXLWC3SRSAL27UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박선영 전 진실·화해를위한과거사정리위원회 위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서는 박 전 위원장이 진실화해위와 무관한 글을 쓴 배경을 두고 설왕설래도 이어졌다. 특히 내년 지방선거와 함께 치러지는 교육감 선거를 염두에 둔 글이 아니냐는 말이 나왔다. 박 전 위원장은 2018년, 2022년 서울시 교육감에 도전했던 이력이 있다.&lt;br&gt;&lt;br&gt;논란이 이어지자 박 전 위원장은 이날 늦은 오후 다시 페이스북에 글을 올렸다.&lt;br&gt;&lt;br&gt;박 전 위원장은 “졸지에 내가 삼성가의 소식통이 됐다”며 자신을 ‘재벌가 가십 소식통’이라고 표현한 한 매체를 겨냥했다.&lt;br&gt;&lt;br&gt;이어 “각종 교육 관련 사이트엔 엄마들이 어제부터 ‘○○고등학교 임모군이 수능 하나 틀렸단다. 의대는 안 간단다’라는 글이 수 백개씩 올라와 뜨겁다”며 “그런 사실도 모르면서 내가 이 글을 올렸다고, 내가 ‘삼성가의 소식통’이라고?”라고 반박했다.&lt;br&gt;&lt;br&gt;그는 “난 이부진 대표를 본 적도 없다. 소식통은커녕. 다만 이 나라의 무너진 교육 현실을 안타까워하는 사람으로서 사실을 있는 그대로 썼을 뿐”이라며 “진화위는 과거사를 정리하는 위원회다. 내가 설사 현직에 있다 해도 교육 문제에 대해서는 얼마든지 글을 쓸 수 있다. 하물며 나는 지금 현직도 아닌데, 뭐가 문제인가”라고 주장했다.&lt;br&gt;&lt;br&gt;박 전 위원장이 이끌었던 2기 진실화해위는 지난달 말 활동을 종료했다. 3기 진실화해위 출범을 위한 ‘진실·화해를 위한 과거사정리 기본법’은 3일 국회 법제사법위원회를 통과해 본회의 상정을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조세호, ‘조폭 고가 선물 수수’ 의혹 부인…“아는 사이일 뿐”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/05/7BV6GCZD2VALVMIE5RC3XIIVWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/7BV6GCZD2VALVMIE5RC3XIIVWE/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 22:00:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7TB4ELQDOIF7URFYZOBJ2Q5NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 조세호 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 조세호 측이 조직폭력배와의 연루설에 즉각 부인했다.&lt;br&gt;&lt;br&gt;조세호 소속사 A2Z엔터테인먼트는 지난 4일 온라인상에서 제기된 의혹과 관련해 “소셜미디어(SNS)에서 확산 중인 주장은 전혀 사실이 아니다”라며 “거론된 인물은 단순히 아는 사이일 뿐”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 한 SNS계정에는 조세호가 지방의 조직폭력배 핵심 인물로 지목되는 A씨와 친분을 유지하며 고가의 선물을 주고받았다는 주장과 함께 관련 사진이 올라왔다. 사진에는 A씨가 실질적 소유자인 프랜차이즈 식당 앞에서 찍은 조세호의 모습, A씨와 다정하게 찍은 조세호의 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;계정 운영자는 “조직폭력배 두목 A씨가 실질적 소유자인 프랜차이즈에 조세호가 자주 방문하나 보다”라며 “조세호는 반성하라. 지인이라는 핑계로 조직폭력배 일원이 운영하는 프랜차이즈 홍보해주고 거창 지역 최대 폭력 조직 실세인 A씨와 자주 어울려 다니면서 술 마시고 고가 선물 받고 국민 개그맨이 그래도 되는 거냐”고 했다.&lt;br&gt;&lt;br&gt;이 운영자는 A씨가 국내 최대 불법 자금 세탁에 연루된 인물이라는 주장까지 더해 파장을 키웠다.&lt;br&gt;&lt;br&gt;조세호는 2001년 SBS 6기 공채 개그맨으로 데뷔했으며 현재 다양한 예능프로그램에서 고정 출연자로 활발히 활동 중이다. 지난해 10월에는 9세 연하 비연인과 결혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서울서 차 타고 1시간… 자연 속 사무실은 어떠세요</title>
       <link>https://www.chosun.com/national/national_general/2025/12/05/DDLQZQBPUFBOXNTK7P6UVHWNQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/DDLQZQBPUFBOXNTK7P6UVHWNQE/</guid>
@@ -865,18 +883,6 @@
       </media:content>
     </item>
     <item>
-      <title>“경쟁사 비리 캐줘” 모사드 출신까지 고용, 첩보전 찍는 기업들</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/04/YQZZFLMXDZBXRHVN65ZACRGZYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/YQZZFLMXDZBXRHVN65ZACRGZYY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 15:54:00 +0000</pubDate>
-      <content:encoded>지난 2022년 국내 건설·엔지니어링 업계는 충격에 빠졌다. 업계 후발 주자인 A사가 중동의 한 나라에서 수조원 규모의 대형 국책 사업을 따냈기 때문이다. A사와 수주 경쟁을 벌였던 B사 경영진은 곧바로 A사가 수주에 성공한 경위 등을 파악하는 데 나섰다. 그런데 B사가 찾은 곳은 국내 대형 로펌도, 해외 유명 신용평가사도 아닌 외국 정보기관 출신이 세운 사설 첩보 수집 회사였다.&lt;br&gt;&lt;br&gt;B사의 의뢰를 받은 첩보 수집 회사는 중동 현지에 유령 에너지 투자 회사를 만들고 사업 발주처인 해당국 정부 고위 관계자들에게 접근했다. 식사를 겸한 면담 등을 통해 정부 관계자와 네트워크를 쌓아간 ‘요원’들은 몇 달 만에 결정적인 단서를 확보했다. A사와 발주처 고위 인사 간에 부정 거래 정황이 담긴 녹취를 입수한 것이다. 이를 바탕으로 B사는 A사와 물밑 협상을 벌였고 A사는 사업을 접기로 했다. 법조계 관계자는 “법정 싸움으로 가면 몇 년이 걸릴 일을 몇 달 만에 해결한 것”이라며 “기업 간 분쟁에서 ‘휴민트’(인적 정보) 첩보전이 치열해지는 이유”라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXVOXRWXGNH7LOULPTSRJMCBLA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국이 외국에 투자하는 해외직접투자 규모는 작년 기준 639억5000만달러(약 90조원)로 세계 10위권이다. 이런 가운데 기업 간 분쟁이 빈발하고 글로벌 소송전까지 벌어지면서 해외 첩보 수집 회사들이 한국 시장에 뛰어들고 있다. 작년 사설 국제 중재 기관인 싱가포르국제중재센터(SIAC)를 찾은 625명(법인 포함) 중 한국 출신이 295명(47%)으로 가장 많았다. 한국 기업이 해외에서 기소되거나 제재 대상이 되는 일도 늘고 있다. 한 국제 분쟁 컨설턴트는 “돈이 움직이는 곳에는 정보전(戰)이 벌어질 수밖에 없고, 한국이 해외 투자계에서 큰손으로 성장하면서 글로벌 첩보 수집 회사들이 주목하는 시장이 됐다”고 했다.&lt;br&gt;&lt;br&gt;한국 기업들은 그동안 해외 사업과 관련한 리스크 분석이 필요할 때 ‘크롤(Kroll)’ ‘컨트롤 리스크(Control Risks)’ 같은 외국 컨설팅 회사에 의뢰해왔다. 이 회사들은 주로 계약서나 재무제표, 보도자료 등 공개된 정보를 토대로 해외 투자 위험성 등을 검증한다. 그러나 이런 분석만으로는 해결이 어려운 기술 탈취, 담합 분쟁 등이 늘자 기업들이 첩보 수집 회사들을 찾기 시작했다.&lt;br&gt;&lt;br&gt;한 국제 첩보 수집 전문가는 “검경 수사권 조정 등으로 한국 검찰의 직접 수사 대상이 대폭 줄면서 경제·기업 관련 사건 수사가 일부 지체되는 현상을 겪는 것도 기업들이 첩보 수집 회사를 찾는 요인”이라고 했다. 기업 간 경쟁이 치열해지는 상황에서 경찰 등의 수사나 법원 재판을 기다리다가는 실기(失機)할 수 있다고 보고 기업들이 첩보 수집 회사에 의뢰해 사태 해결을 모색하고 있다는 얘기다. &lt;br&gt;&lt;br&gt;이런 흐름 속에 이스라엘 정보기관 모사드와 정보부대인 8200부대 출신 인사들이 설립한 블랙큐브도 최근 한국 시장에 발을 들인 것으로 전해졌다. 블랙큐브는 40년 가까이 앙골라를 통치한 조제 두스산투스 전 대통령의 딸 이사벨 두스산투스 재산 20억달러(약 2조9300억원) 중 상당 부분이 국고를 횡령해 조성된 정황을 지난 2019년 밝혀내 유명해졌다. 블랙큐브는 주앙 로렌수 정부의 의뢰를 받아 이사벨이 해외에 설립한 유령 회사와 차명 계좌 네트워크를 속속들이 찾아냈다. 2017년엔 멕시코 국영 석유 회사 페멕스와 법적 분쟁 중이던 멕시코 유전 시추 업체 의뢰를 받아 페멕스 임원들의 부패 증거를 확보했다. 영국 파이낸셜타임스(FT)는 최근 “(블랙큐브는) 온갖 방법으로 비밀스러운 정보를 입수해 (해당 국가의) 규제 기관 조사까지 이끌어내고 있다”며 “정보 기관에서 익혔던 첨단 첩보 기술을 수조 원의 기업 분쟁에 활용하고 있다”고 보도했다.&lt;br&gt;&lt;br&gt;한국에선 경영권 분쟁 상대가 해외에 은닉한 자산을 추적해 달라거나 기업 총수와 관련된 악성 루머를 퍼뜨리는 해외 서버 유튜버들을 추적해 달라는 의뢰, 합작을 하는 해외 파트너사의 부패·담합 여부를 파악해 달라는 의뢰 등이 들어온다고 한다. 블랙 큐브를 대리하는 미국 로펌 코브레앤킴의 이숭현 변호사는 “정보력의 격차가 분쟁의 승패를 좌우하는 시대가 됐다”며 “국내 기업의 해외 진출이 늘어날수록 다양한 루트를 통한 정보 수집 수요도 함께 커질 수밖에 없다”고 했다. 기업들이 법 테두리 안에서 경쟁사의 약점을 파고드는 ‘블랙(비밀 정보 수집) 활동’의 외주화가 활발해질 것이란 얘기다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/L2ESLNEOBZBH3DJWSVPYQWOBRA.png?auth=58bae435b36d120549e3f335421cec827fd39118f1bb43a5b46ba746c3990b30&amp;smart=true&amp;width=1203&amp;height=902" type="image/png" height="902" width="1203">
-        <media:description type="plain">그래픽=박상훈</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>“추경호, 尹과 2분 통화로 계엄 공모 가능한가” 영장 판사도 의문</title>
       <link>https://www.chosun.com/national/court_law/2025/12/04/3AU3QFKIKRFFHGABEJ75HSLDCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/04/3AU3QFKIKRFFHGABEJ75HSLDCU/</guid>
@@ -897,15 +903,6 @@
         <media:description type="plain">11월 6일 경기도 고양시 킨텍스에서 열린 2025 고양시 중장년 일자리 박람회에서 구직자들이 채용 정보를 살펴보고 있다./뉴스1</media:description>
         <media:credit role="author" scheme="urn:ebu">(고양=뉴스1) 김성진 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>연 1200만원에도 “가성비 높다”… 서울 사립초 입학 경쟁률 뛰어</title>
-      <link>https://www.chosun.com/national/education/2025/12/04/DZZ64MHUP5AB5AF35CXEYPKBSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/04/DZZ64MHUP5AB5AF35CXEYPKBSQ/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 15:54:00 +0000</pubDate>
-      <content:encoded>학령 인구가 줄어드는 가운데 올해 서울 지역 사립초 입학 경쟁률은 오히려 상승한 것으로 나타났다. 학생 맞춤형 교육에 대한 기대와 공립초보다 교육 시간이 길다는 점 등이 인기 요인으로 분석된다. &lt;br&gt;&lt;br&gt;3일 서울시교육청에 따르면, 지난달 실시한 서울 38개 사립초 2026학년도 신입생 모집에서 사립초 전체 입학 정원 3614명에 2만9488명이 몰려 평균 경쟁률 8.2대 1을 기록했다. 사립초 지원 학교 수를 최대 3곳으로 제한한 2024학년도 이후 가장 높은 수치였다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IYW676TXRNAYZE2PV6WF6RMC4I.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학비가 없는 국공립초와 달리 서울 지역 사립초 학비는 연간 1200만원에 달한다. 그런데도 맞벌이 부부들은 “나쁘지 않은 가성비”라고 입을 모은다. 사립초는 방과 후 프로그램 수준이 국공립초보다 높은 편이다. 영어·제2외국어부터 악기 연주, 골프·승마까지 다양한 프로그램을 운영한다. 덕분에 오후 4~5시까지 아이를 학교에 맡길 수 있어 ‘학원 뺑뺑이’를 안 시켜도 되는 점이 주요 인기 요인이라고 한다. &lt;br&gt;&lt;br&gt;사립초 선호 현상은 코로나 이후 크게 높아졌다. 코로나 시작 직전 모집한 2020학년도 서울 지역 사립초 평균 경쟁률은 2.1대 1에 불과했다. 그런데 코로나 기간 많은 학교가 코로나 확산을 막기 위해 온라인 수업을 시작했는데 공립초 수업에 대한 학부모 불만이 높았다. 이때 학부모들 사이에서 “공립초 수업은 부실한데 사립초는 수업의 질도 높고 교사들이 학생들을 꼼꼼하게 관리해 주더라”는 인식이 퍼졌다. 이후 사립초 경쟁률은 2021학년도 6.8대 1, 2022학년도 12대 1, 2023학년도 12.6대 1로 급등했다. 입학 경쟁이 과열되는 등 부작용이 있자 시교육청은 2024학년도부터 지원할 수 있는 학교를 3곳으로 제한했다. &lt;br&gt;&lt;br&gt;초등학생들을 대상으로 벌어지는 각종 사고도 사립초 인기에 영향을 끼쳤다. 최근 사립초 입학이 확정된 한 학부모는 “초등학교 건물에서 학생이 살해되고, 아이들 대상 납치 시도 범죄도 자주 생기는 걸 보고 등하교 모두 셔틀을 태워서 집까지 안전하게 데려다주는 사립초에 보내야겠다고 생각했다”고 말했다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “과거 사립초는 부유한 집안 자녀만 가는 곳이란 인식이 강했다면 이제는 중산층 맞벌이 부부들도 몰리게 됐다”면서 “아이에게 질 높은 교육을 시키고 싶어 하는 생각에다 돌봄 문제도 해결된다는 생각에서 인기가 높아진 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“김건희, 법 위에 서 있었다” 징역 15년·벌금 20억 구형</title>
