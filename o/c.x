@@ -13,6 +13,86 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>수도권·강원에 대설 특보…정부, 중대본 1단계 가동</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/2W2PAAKL5FAXBBK4GE7UPRWP6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/2W2PAAKL5FAXBBK4GE7UPRWP6E/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 09:58:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7XXXS6KR5RP6BD64K2VA3BNE5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울·인천·경기·강원 지역에 대설주의보가 발효된 4일 오후 서울 중구 거리에 눈이 내리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행정안전부는 4일 오후 6시부로 대설 위기 경보를 ‘관심’에서 ‘주의’로 상향하고, 중앙재난안전대책본부 1단계를 가동했다고 밝혔다. 서울, 인천, 경기, 강원 등 4시·도에 대설 특보가 내려진 데 따른 조치다.&lt;br&gt;&lt;br&gt;윤호중 중앙재난안전대책본부장은 퇴근길 교통 혼잡과 미끄러짐 사고 방지를 위해 제설 작업을 철저히 하고, 교통 상황과 감속 운행 등을 안내하도록 지시했다.&lt;br&gt;&lt;br&gt;또 지역 주민들이 제설제를 활용할 수 있도록 주요 구간 제설함에 제설제를 비치하고, 비닐하우스·축사 등 눈에 취약한 건물에 대한 안전 점검과 피해 예방 활동 강화를 지시했다.&lt;br&gt;&lt;br&gt;이 외에도 새벽이나 이른 아침에 대비해 독거 노인과 쪽방촌 주민 등의 안전 관리를 강화하고, 재난문자 등으로 기상 특보와 국민 행동 요령을 안내할 것도 지시했다.&lt;br&gt;&lt;br&gt;윤 본부장은 “국민께서도 기상 정보를 수시로 확인하고 안전한 낮에 제설 작업을 하는 등 행동 요령을 준수해 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KS64Y6P7KBJO5OJATH6FEQH3O4.jpg?auth=14127e728b792a42f02c2382da0ab0f51b0fb019e97a61a09ddf5ed56ab07131&amp;smart=true&amp;width=3984&amp;height=2656" type="image/jpeg" height="2656" width="3984">
+        <media:description type="plain">[서울=뉴시스] 최진석 기자 = 서울·인천·경기·강원 대설주의보 발효된 4일 서울 남산에 눈이 내리고 있다. 2025.12.04. myjs@newsis.com
+</media:description>
+        <media:credit role="author" scheme="urn:ebu">myjs</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘정치자금법 위반’ 황보승희 전 의원, 징역형 집행유예 확정</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/04/HQ3DUPWGTNHHHGBXLNKDBJJ65E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/04/HQ3DUPWGTNHHHGBXLNKDBJJ65E/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 10:12:27 +0000</pubDate>
+      <content:encoded>내연남에게 불법 정치자금을 받은 혐의 등으로 기소된 황보승희 전 국민의힘 의원에 대해 징역형 집행유예형이 최종 확정됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 정치자금법 위반, 청탁금지법 위반 등 혐의로 기소된 황보 전 의원과 내연남 정모씨에게 징역 1년, 집행유예 2년을 선고한 원심 판결을 그대로 유지했다고 4일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4GMZLDGE4DOMTGGUYWMODFMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;황보승희 전 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;황보 전 의원은 2020년 3월 국회의원 선거 예비 후보자 시절 정씨에게서 5000만원을 받아 경선 비용 등으로 사용한 혐의로 재판에 넘겨졌다. 또 국회의원에 당선된 2020년 4월부터 2021년 7월까지 정씨 자녀 명의로 임차한 서울 마포구 아파트에 보증금이나 월세를 내지 않고 거주하는 등 국회의원 신분으로 3200만원 상당의 이익을 얻은 혐의도 받았다. 정씨 회사 직원 명의의 신용카드로 98회에 걸쳐 6000만원 넘게 사용한 혐의도 있다.&lt;br&gt;&lt;br&gt;황보 전 의원 측은 정씨와 사실혼 관계에서 생활비 형태로 금품을 받은 것일 뿐, 정치자금으로 받은 것은 아니라고 주장해왔다. 그러나 1·2심 재판부는 이를 인정하지 않고 해당 자금이 국회의원 선거 비용으로 사용된 것으로 판단했다. 대법원 역시 이러한 판단을 그대로 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>함께 탈북했던 동생 살해 혐의로 50대 누나 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/12/04/HJ5VURDJJVA43GYSG6PFJYXTLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/04/HJ5VURDJJVA43GYSG6PFJYXTLY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 09:53:37 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;40대 탈북민이 숨진 사건을 수사 중인 경찰이 친누나를 용의선상에 올렸다.&lt;br&gt;&lt;br&gt;부산 기장경찰서는 4일 “살인 등 혐의로 50대 여성 A씨를 입건해 조사 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 29일 부산 기장군 자신의 아파트에서 40대 남동생 B씨를 숨지게 한 혐의를 받는다. 외출했다 집에 들어온 A씨가 거실에 누워 있던 B씨를 깨웠으나 반응이 없어 경찰에 신고했다고 한다.&lt;br&gt;&lt;br&gt;1차 검안 결과 B씨의 사인은 ‘경부 압박 질식사’였다. 경찰은 A씨 부부를 참고인으로 조사했으나 당시에는 “용의자로 특정할 증거가 없다”며 긴급 체포하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;그런데 며칠 뒤 C씨가 승용차에 유서를 남겨 놓고 숨진 채 발견됐다. A씨는 B씨의 죽음 직후 이어진 경찰 조사에서 “집에 남편 C(50대)씨가 잠을 자고 있었다”고 진술했던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;용의자를 특정하지 못해 오던 경찰은 최근 A씨를 피의자로 입건했다. B씨의 약물 검사에서 A씨가 복용하던 수면제와 동일한 약물이 검출된 것으로 전해졌다. A씨는 “함께 탈북한 동생을 죽일 이유가 없다”며 혐의를 부인하는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “방범 카메라(CCTV)와 각종 압수수색 자료를 분석하는 한편 주변 인물들을 상대로 수사 중”이라면서 “자세한 내용은 알려줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/N7HAQT6GONEHJIFM5RW4PCYYQ4.png?auth=8b48ca0aa14725a99ef29923bb111ac782a31390a78b7405e725a22d619acf43&amp;smart=true&amp;width=562&amp;height=288" type="image/png" height="288" width="562">
+        <media:description type="plain">경찰 로고./조선 DB</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>특검,김건희 금품수수 조사 3시간 만에 종료...여사 측 진술거부권 행사</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/04/U5DK3ZGER5GK7PMGMHXYTBI72M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/04/U5DK3ZGER5GK7PMGMHXYTBI72M/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 09:42:46 +0000</pubDate>
+      <content:encoded>4일 민중기 특별검사팀에 출석한 김건희 여사가 3시간 만에 조사를 마쳤다. 이날 특검은 김 여사의 각종 금품 수수 의혹에 대해 캐물었지만, 김 여사 측은 진술거부권을 행사한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3DSMRVGI3TEOJQG5QWEYTCMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사가 지난 3일 서울 서초구 서울중앙지방법원에서 열린 자본시장법 위반 혐의 결심 공판에 출석해 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 오후 2시부터 특검 조사를 받은 김 여사는 오후 5시 15분쯤 조사를 마치고 특검 사무실을 빠져나왔다. 서울남부구치소에 수감 중인 김 여사는 호송차를 타고 구치소로 돌아갔다.&lt;br&gt;&lt;br&gt;특검은 김 여사가 이봉관 서희건설 회장에게서 받은 6000만원대 반클리프앤아펠 목걸이, 이배용 전 국가교육위원장으로부터 받은 5돈짜리 금거북이, 사업가 서성빈씨가 선물한 5000만원대 바쉐론 콘스탄틴 시계 등을 받은 경위를 추궁했다고 한다. 이날 특검이 준비한 질문지는 42쪽 분량으로 알려졌다.&lt;br&gt;&lt;br&gt;여사 측은 청탁 의혹을 부인하는 입장이지만 별다른 해명을 하지 않은 것으로 알려졌다. 앞서 조사를 받기 전 김 여사 측 변호인은 “관련 자료를 보지 못해서 오늘 조사를 통해 수사 범위를 파악해 추후 대응할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;한편 특검은 오는 11일 김 여사를 다시 불러 조사할 예정이다. 특검 관계자는 “수사 기간이 오는 28일 종료되는 만큼 11일 조사에서 최대한 김 여사의 남은 의혹들을 다 조사할 방침”이라고 했다. 김 여사는 ‘종묘 차담회’ ‘해군 선상 파티’ ‘관저 이전’ 등 의혹도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>21대 대선 선거사범 918명 기소… ‘선거폭력·방해 사범’ 급증</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/04/YASUWVI7YRAC7H5JEDWPRJULZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/04/YASUWVI7YRAC7H5JEDWPRJULZI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 09:27:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7RHLYXPIJNGZPGWYEN7YKGUIEQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;21대 대선 사전투표를 하루 앞둔 지난 5월 28일 인천국제공항 1터미널 출국장에 마련된 사전투표소에서 관계자들이 사전투표 모의 시험을 하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대검찰청이 지난 6월 치러진 21대 대통령 선거 관련 범죄를 수사해 총 918명을 공직선거법 위반 등 혐의로 기소했다고 4일 밝혔다. 지난 20대 대선으로 기소된 선거 사범(609명)에 비해 50% 이상 증가했다.&lt;br&gt;&lt;br&gt;검찰은 공소시효 만료일인 3일까지 총 2925명을 입건해 918명을 기소했다. 이 중 10명은 구속 상태로 재판에 넘겨졌다. 입건 인원은 지난 2022년 3월 치러진 20대 대선의 2001명보다 46.2% 늘었다.&lt;br&gt;&lt;br&gt;대검은 “선거 사범이 대폭 증가한 이유는 선거폭력·방해 사범이 급증했기 때문”이라며 “선거폭력·방해 혐의로 총 1660명이 입건돼 전체 입건 인원의 56.8%를 차지했다”고 설명했다. 그 밖에 허위 사실 유포 등 흑색선전 사범이 336명(11.5%), 금품선거 사범이 95명(3.3%) 입건됐다.&lt;br&gt;&lt;br&gt;검찰은 배우자의 주민등록증을 이용해 투표용지를 출력한 뒤 배우자인 척 투표한 사전투표 사무원 A씨, 유세 차량에 올라가 선거 사무원을 폭행하고 마이크를 뺏으려 한 B씨 등을 구속 기소했다. A씨는 징역 1년에 집행유예 2년이, B씨는 징역 10개월이 확정됐다.&lt;br&gt;&lt;br&gt;대검은 “민주주의의 근간이 되는 선거 진행을 방해한 선거폭력·방해 사범에 대해선 엄정 대응해 총 8명을 구속 기소 했다”며 “재판이 진행 중인 사건은 공소 유지에 만전을 기하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법원, 정청래 대표 ‘1인 1표제’ 무효 가처분 기각</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/PU7ZFCG6XJFR7O5T4QQP3GLWQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/PU7ZFCG6XJFR7O5T4QQP3GLWQE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 08:46:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSDMNBVMNSDSZBRMYYTAOBSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정청래 더불어민주당 대표가 3일 서울 여의도 국회 의원회관에서 열린 12.3 내란 저지 1년 특별좌담회 '행동하는 K-민주주의'에서 인사말을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 더불어민주당 정청래 대표가 추진하는 ‘1인 1표제’는 정당성이 없다며 당원들이 낸 무효 확인 가처분 신청을 받아들이지 않았다. &lt;br&gt;&lt;br&gt;4일 서울남부지법 민사합의51부(부장 권성수)가 지난달 24일 당원 954명이 낸 ‘당헌·당규 개정안 의결 무효 확인’ 가처분 신청을 기각했다. &lt;br&gt;&lt;br&gt;정 대표가 추진하는 ‘1인 1표제’는 대의원과 권리당원의 표 가치를 현행 20대 1 이하에서 1대 1로 동등하게 변경하는 것을 말한다. 이날 민주당은 당무위원회를 열고 ‘1인 1표제’ 개정안에 대한 수정안을 5일 중앙위원회에 부의하는 안건을 만장일치(서면 44명, 현장 참석 14명)로 통과시켰다.&lt;br&gt;&lt;br&gt;법원에서 무효 확인 가처분 신청이 기각됨에 따라 민주당은 계획대로 오는 5일 중앙위원회를 열고 1인 1표제 도입을 위한 당헌·당규 개정안을 의결할 수 있게 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>방시혁 의장 주식 ‘추징보전’ 인용...하이브 주식 1568억원 동결</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/04/MCXR2LFWARDNXJFL4BMBYQABLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/MCXR2LFWARDNXJFL4BMBYQABLA/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 08:26:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RDPKPOXKYYLSKOFQZ4X5RXVW5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방시혁 하이브 의장이 지난 9월 15일 오전 자본시장법 위반 혐의(사기적 부정거래) 관련 조사를 받기 위해 마포구 서울경찰청 금융범죄수사대에 출석하며 취재진 질의에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 사기적 부정 거래 의혹을 받는 하이브 방시혁 의장에 대한 검찰의 ‘추징보전’ 청구를 받아들였다. &lt;br&gt;&lt;br&gt;지난달 19일 서울남부지법이 방 의장의 1568억원 상당 하이브 주식에 대해 기소 전 추징보전 청구를 인용한 것으로 알려졌다. 앞서 서울남부지검은 지난 10월 16일 방 의장이 보유한 주식에 대해 동결 조치해줄 것을 법원에 청구했다. ‘추징보전’이란 피의자가 확정 판결을 받기 전에 추징대상이 되는 재산을 임의로 처분하지 못하도록 하기 위한 조치다. &lt;br&gt;&lt;br&gt;하이브 관계자는 “추징보전은 통상적 절차로서 유무죄에 대한 판단이 아니다”라며 “조사 과정에 성실히 임하고 설명했으며, 수사기관의 판단을 기다리고 있다”고 했다. &lt;br&gt;&lt;br&gt;방 의장은 하이브 상장 전인 2019년 기존 하이브 투자자들에게 IPO 계획이 없다고 속인 뒤 하이브 사외이사 출신 측근들이 있는 사모펀드가 설립한 특수목적법인(SPC)에 지분을 팔도록 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;방 의장은 당시 지분 매각 차익의 30%를 넘겨받기로 사모펀드와 계약했고, 실제로 하이브 지분 매각 후 약 2000억원의 이익금을 정산받았다. 경찰은 방 의장의 이 같은 행위가 자본시장법상 부정 거래에 해당할 수 있다고 보고 수사를 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>1년 전 겨우 걷던 이봉주, 등 펴고 달렸다… “이건 기적, 불사조 같다”</title>
+      <link>https://www.chosun.com/national/people/2025/12/04/6KM4YO5VCJDHVJZXLI6NMRCQ2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/04/6KM4YO5VCJDHVJZXLI6NMRCQ2I/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 04 Dec 2025 08:21:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXSC6LMQ2RF6VBJZEI53NJWLII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강해진 모습으로 달리는 이봉주. /유튜브 채널 '션과 함께'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이유 모를 난치성 질환으로 고통받던 전 마라톤 선수 이봉주(55)가 건강한 근황을 알렸다.&lt;br&gt;&lt;br&gt;이봉주는 3일 공개된 가수 션의 유튜브 채널 ‘션과 함께’ 영상에 등장했다. 이날 션은 러너 20명을 초대해 릴레이 달리기에 도전했다. 한 명당 5㎞씩 순서대로 달려 하루 10만 보를 7시간 만에 성공시켜야 하는 이벤트로, 이봉주는 17번째 러너로 모습을 드러냈다.&lt;br&gt;&lt;br&gt;이봉주는 건강을 묻는 션의 말에 “지난주에도 베트남 가서 10㎞를 뛰고 왔다”며 자신감을 내비쳤다. 이어 모두의 응원을 받으며 출발한 이봉주는 중간중간 웃음을 보일 만큼 안정적으로 달렸다. 후반엔 숨이 가쁜 모습도 보였지만 페이스는 떨어지지 않고 유지됐다.&lt;br&gt;&lt;br&gt;이를 본 션은 “1년 전엔 천천히 걷는 것만 가능했는데 지금은 너무 건강해 보이신다”며 “처음 연락드렸을 때 10㎞를 60분 정도(6분대 페이스) 뛴다고 하셨는데, 지금 4분 25초대 페이스를 뛰고 계셔서 깜짝 놀랐다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VNMQM73XXVGGPP5563QGMDF4CU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;건강해진 모습으로 달리는 이봉주. /유튜브 채널 '션과 함께'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그러면서 “정말 대단하시다. 기적 같은 일”이라며 “얼마 전까지만 해도 움직이기 힘드셨는데, 재활로 움직이시고 지금은 저만큼 뛰신다는 게 진짜 ‘불사조’라고 표현하는 게 맞는 것 같다”고 감탄했다. 이날 이봉주는 4분 30초 페이스를 유지하며 5㎞를 22분 30초 만에 완주했다.&lt;br&gt;&lt;br&gt;앞서 이봉주는 2020년 1월 알 수 없는 통증에 시달리다가 근육 긴장 이상증이라는 난치병 판정을 받았다. 근육 수축과 긴장 정도를 조율하는 중추신경계에 이상이 생겨 발생하는 병이다. 본인 의지와 무관하게 신체 일부가 꼬이거나 반복적으로 움직이는 등의 증상이 나타난다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TD33G2DF6ZCW5J2ENQAJVJUMJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이봉주가 근육긴장이상증이라는 난치병 판정을 받은 후 모습. 등과 목이 앞으로 굽어 있다. /SBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 목이 비틀리고 기울어지는 사례가 많은데, 이봉주 역시 상체가 앞으로 구부러지고 목이 90도로 꺾이는 모습을 보였다. 지팡이 없이는 걷기조차 힘들어 휠체어를 타기도 했다. 그랬던 이봉주는 4년간의 꾸준한 재활과 가족의 보살핌 끝에 지금의 건강을 되찾을 수 있었다.&lt;br&gt;&lt;br&gt;올해 초엔 한 방송에 출연해 “지금은 많이 좋아졌다. 작년엔 4년 만에 5㎞를 완주했다”며 “아플 때는 정말 30분만이라도 내 몸으로 뛰고 싶다는 마음이 간절했는데, 지금은 아침마다 일어나 한두 시간씩 등산도 하고 달리기도 한다”고 말했다.&lt;br&gt;&lt;br&gt;이봉주는 1996년 애틀랜타 올림픽 은메달, 1998년 방콕 아시안게임 금메달, 2001년 보스턴 마라톤 우승, 2002년 부산 아시안게임 금메달 등 기록을 보유한 ‘국민 마라토너’다. 마라톤 한국 신기록 3회 달성이라는 대기록까지 보유하고 있으며 그의 2시간 7분 20초 기록은 24년째 깨지지 않고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인테리어 공사 소음이 부른 참극... 천안 아파트서 윗층 주민 살해</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/12/04/XPEAXK4KR5BGTBWDS6FYY4XJHA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/04/XPEAXK4KR5BGTBWDS6FYY4XJHA/</guid>
@@ -881,67 +961,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WGY3FMIZDCYTEMQ3TGNZWGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 제주국제공항 1층 도착장에서 '제주공항 국제선 여객 역대 최다 달성 기념식'이 열렸다./한국공항공사 제주공항&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 제주국제공항 국제선 여객 수가 280만 명을 돌파하며 역대 최다치를 갈아치웠다.&lt;br&gt;&lt;br&gt;3일 한국공항공사 제주공항에 따르면 전날까지 집계된 올해 제주공항 국제선 여객 수는 총 280만2095명이다. 이는 역대 최다치로, 직전 기록은 2016년 274만 명이었다.&lt;br&gt;&lt;br&gt;공사는 연말까지 올해 제주공항 국제선 여객 수가 300만 명에 이를 것으로 예상하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P4F6BVQWGNBWBLGYUIDVSSPPYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 한유진&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;현재 제주공항은 5개국 18개 노선에 14개 외국항공사가 월 1380편을 운항하고 있다.&lt;br&gt;&lt;br&gt;제주 기점 주요 국제선을 보면 제주~중국(베이징·상하이·홍콩·칭다오·항조우·광저우·난징·닝보·선양·선전 등) 월 1208편으로 가장 많다. 이 노선에는 춘추·동방·길상·중국국제항공·북경수도항공이 여객기를 운항 중이다.&lt;br&gt;&lt;br&gt;다음으로 제주~대만(가오슝·타이중) 114회, 제주~싱가포르 44회, 제주~몽골·베트남(부정기) 등이다.&lt;br&gt;&lt;br&gt;장세환 한국공항공사 제주공항장은 “제주관광의 강점을 공항 운영에 적극 활용한 항공·관광 융합 마케팅과 해외 공항과의 직접적 협력이 맞물리며 국제선 여객 증가세가 뚜렷해졌다”며 “역대 최다 국제 여객 돌파를 계기로 제주공항이 아시아 대표 관광 거점공항으로 도약할 수 있도록 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장수군, ‘농어촌 기본소득’ 시범사업 선정… 전 군민에 월 15만원 지급</title>
-      <link>https://www.chosun.com/national/regional/honam/2025/12/03/QP3VQDP7X5EZJJWWWZCCV42YBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/honam/2025/12/03/QP3VQDP7X5EZJJWWWZCCV42YBQ/</guid>
-      <dc:creator>장수=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 07:25:15 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EN37L3KDURSRVV6USL5L2ZKZY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장수군청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전북 장수군이 정부가 추진하는 ‘농어촌 기본소득 시범사업’ 대상지로 최종 선정됐다. 이에 따라 내년부터 2년간 장수군민 누구나 매달 15만원의 기본소득을 받게 된다.&lt;br&gt;&lt;br&gt;장수군은 3일 농림축산식품부의 농어촌 기본소득 시범사업 추가 공모에서 전남 곡성군, 충북 옥천군과 함께 대상지로 선정됐다고 밝혔다. 이번 사업은 지방소멸 위기에 대응하고 농어촌 지역의 기본소득 및 기본사회 실현을 목적으로 추진된다.&lt;br&gt;&lt;br&gt;이번 선정에 따라 장수군은 내년부터 2027년까지 2년간 전 군민을 대상으로 1인당 월 15만원(연 180만원)을 지역사랑상품권으로 지급한다. 지급 대상은 매년 약 2만 1000여 명으로 추산되며, 2년간 총 754억원의 예산이 투입될 예정이다.&lt;br&gt;&lt;br&gt;장수군은 이번 사업을 단순한 현금성 지원을 넘어 지역경제 활성화를 위한 마중물로 삼겠다는 계획이다. 지역화폐 순환 체계를 구축해 지역 내 소비를 촉진하고, 이를 통해 군민의 생활 안정 기반을 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;앞서 장수군은 2022년부터 기본소득 도입을 검토하며 관련 조례 제정, 전담 조직 구성, 군의회 동의 등 행정 절차를 단계적으로 밟아왔다. 또한 기본소득 분과 운영과 주민 서명 운동을 통해 지역 사회의 공감대를 형성하는 데 주력했다.&lt;br&gt;&lt;br&gt;특히 장수군은 91.9%에 달하는 높은 지역 화폐 가맹률을 바탕으로 실효성 있는 사업 추진을 자신하고 있다. 군은 주민 참여형 소비처 발굴, 행복 나눔터 로컬푸드 직매장, 이동 행복 마켓 등 다양한 소비 인프라를 연계해 ‘장수형 기본소득 특화 모델’을 개발할 예정이다.&lt;br&gt;&lt;br&gt;이번 선정 과정에서는 지역 정치권의 지원도 한몫했다. 박희승 의원을 비롯해 한병도 예결위원장, 이원택·윤준병 의원 등 도내 국회의원들이 관계 부처를 수차례 방문해 장수군 선정의 당위성을 강조하며 힘을 보탰다.&lt;br&gt;&lt;br&gt;최훈식 장수군수는 “이번 선정은 군민과 행정, 의회, 시민사회단체가 함께 만들어낸 값진 성과”라며 “기본소득을 통해 군민 삶의 질을 높이고 지역경제가 선순환하는 농어촌 기본소득의 성공적인 모델을 만들어 가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘6000만원 수수’ 1심 무죄 노웅래 사건 항소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/DOM64OQTTRHSNEVZUKQELTQTKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/DOM64OQTTRHSNEVZUKQELTQTKU/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 06:54:29 +0000</pubDate>
-      <content:encoded>검찰이 불법 정치자금 6000만원을 받은 혐의(정치자금법 위반)로 1심에서 무죄 판결을 받은 노웅래 전 더불어민주당 의원 사건을 3일 항소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O4OMYHUVGNLTXARAX7Z3CVORKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;사업가로부터 6000만원의 불법 정치자금 수수 혐의를 받는 노웅래 전 더불어민주당 의원이 지난달 26일 서울 서초구 서울중앙지방법원에서 열린 선고 기일에서 무죄 판결을 받은 뒤 법원을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검은 이날 “노웅래 전 의원의 뇌물수수 사건 1심 판결에 대한 항소장을 제출했다”고 밝혔다. 항소 이유에 대해선 “최근 디지털 증거의 확보 절차 적법성과 관련하여 재판부에 따라 판단이 엇갈리고 있어 통일적 기준이 필요하다는 점을 고려했다”고 설명했다. &lt;br&gt;&lt;br&gt;노 전 의원은 2020년 2~12월 물류센터 인허가 알선, 발전소 납품 사업·태양광 발전 사업 편의 제공 등의 명목으로 사업가 박모씨에게서 5차례에 걸쳐 6000만원을 받은 혐의로 2023년 3월 불구속 기소됐다. 돈을 건넨 박씨도 함께 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;법원은 지난달 26일 노 전 의원에게 무죄를 선고했다. 재판부는 검찰이 제출한 핵심 증거 대부분이 위법하게 수집됐다며 증거 능력을 인정하지 않았다. 당초 검찰은 이정근 전 민주당 사무부총장이 박씨로부터 10억원대 금품을 받은 사건을 수사하던 중 박씨 배우자의 휴대전화에서 이번 사건과 관련한 단서를 발견했다. 이후 검찰은 해당 휴대전화를 임의 제출받아 증거로 제출했는데, 재판부는 이 과정이 적법하게 이뤄지지 않았다고 봤다. 수사 중 다른 사건의 혐의점을 발견한 경우 별도의 압수 수색 영장을 받아 수사해야 하는데, 이 원칙을 지키지 않았다는 것이다. &lt;br&gt;&lt;br&gt;검찰은 재판부가 지적한 사항에 대해서도 살펴보겠다고 했다. 중앙지검은 “1심 판결문을 참고해 향후 압수 수색 등 수사 실무상 개선할 부분이 있는지도 검토할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;사업가 박씨는 노 전 의원에게 돈을 건넨 혐의는 무죄를 받았지만, 이정근 전 민주당 사무부총장이에게 선거 비용 등을 전달한 혐의 등에 대해선 유죄가 인정돼 징역 1년 5개월 실형을 선고받고 법정 구속됐다. 박씨 측도 이에 불복해 항소장을 제출했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“원통에 넣고 눌러”... 부산 유치원서 아동학대 의심 신고</title>
-      <link>https://www.chosun.com/national/incident/2025/12/03/EWC7E3NQZRADHLF4JFP66ROMXI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/03/EWC7E3NQZRADHLF4JFP66ROMXI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 06:11:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 강서경찰서는 강서구 한 유치원에서 수업 도중 교사가 아동을 학대했다는 신고가 접수돼 수사에 나섰다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;해당 유치원의 한 학부모는 “수업 중에 교사가 원생을 원통 매트에 가두고 다른 매트와 함께 몸으로 누르는 등 학대가 있었다”고 경찰에 신고한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;학대를 당한 아이는 눈 실핏줄이 터지고, 목과 어깨에 멍이 들었다고 한다.&lt;br&gt;&lt;br&gt;해당 유치원은 이날 오전 유치원 강당에서 학부모들을 상대로 관련 내용을 설명한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “학대 신고가 접수돼 입건 전 조사(내사)를 진행 중”이라면서 “증거가 확보되는 대로 부산경찰청 여성청소년범죄수사계로 이첩할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5ALTBIDVFUKNMMBUC3DAW356KM.jpg?auth=d4292654c38260ce504119830fa5cc32b55c6676b2630fb30c68f31ae38cf143&amp;smart=true&amp;width=3352&amp;height=2076" type="image/jpeg" height="2076" width="3352">
-        <media:description type="plain">경찰 로고. /뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">뉴스1</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>부산 기장군 한 물품보관 창고서 불... 인명 피해 없어</title>
-      <link>https://www.chosun.com/national/incident/2025/12/03/TDYNG37MRFETRO4DPAQYTC5KTI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/03/TDYNG37MRFETRO4DPAQYTC5KTI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 05:31:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HRJ4QCPJJNDSPKCBZYFZ7DTOBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 오전 부산 기장군 한 물품 창고에서 불이 나 소방 당국이 진화 작업을 벌이고 있다. /부산소방재난본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 오전 11시 14분쯤 부산 기장군 일광읍 한 물품 보관 창고에서 불이 났다.&lt;br&gt;&lt;br&gt;연기와 불꽃을 본 차량 운전자가 119에 신고하는 등 신고가 잇따랐다. 창고를 태우던 불은 인근 야산으로도 일부 번지기도 했다.&lt;br&gt;&lt;br&gt;불은 창고 내부 등을 태우고 1시간여 만에 진화됐다. 인명 피해는 없었다고 소방은 전했다.&lt;br&gt;&lt;br&gt;기장군은 “인근 주민은 사고 지점에서 먼 곳으로 이동하고, 차량은 우회하라”고 안전 안내 문자를 보내기도 했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 정확한 화재 원인을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원은 왜 추경호 구속영장을 기각했나</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/KAAUJGB725FADHMQY6ZNZRXCWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/KAAUJGB725FADHMQY6ZNZRXCWM/</guid>
-      <dc:creator>양은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 05:50:30 +0000</pubDate>
-      <content:encoded>‘내란특검’이 추경호 국민의힘 의원에 대해 청구한 구속영장이 3일 새벽 4시 50분 기각됐습니다. 서울중앙지법 이정재 영장전담 부장판사는 “본건 혐의와 법리에 대해 다툼의 여지가 있어 면밀하고 충실한 법정 공방을 거친 뒤 그에 합당한 판단 및 처벌을 하도록 함이 타당하다”고 했습니다. &lt;br&gt;&lt;br&gt;이 사건은 영장이 발부될 경우 민주당에서 국민의힘에 대해 ‘정당해산’ 빌미까지 줄 수 있는 사건이었습니다. 당시 여당 원내대표이던 추 의원에게 ‘내란중요임무종사자’ 혐의가 인정되면 국민의힘 전체를 ‘내란정당’으로 낙인찍을 계기가 될 수 있기 때문입니다. &lt;br&gt;&lt;br&gt;법조계에서는 영장 청구 당시부터 기각 가능성을 더 높이 점치기는 했습니다. 혐의구성이 어려운 데다 객관적 증거로 뒷받침할 수 있을지도 의문이었기 때문입니다. 법원 또한 ‘혐의와 법리에 대해 다툼의 여지가 있다’고 했습니다. &lt;br&gt;&lt;br&gt;‘혐의에 대해 다툼의 여지가 있다’는 법원은 영장을 기각하는 법원으로서도 매우 조심해서 쓰는 표현입니다. 자칫 수사 정당성 자체를 흔들 수도 있기 때문입니다. 여기에 더해 ‘법리’까지 쓴 것은 그만큼 법원도 이 사건 혐의 성립에 의심을 갖고 있다는 방증이기도 합니다. &lt;br&gt;&lt;br&gt;특검은 여당 원내대표이던 추 의원이 작년 12월 3일 비상계엄의 불법성을 인식하고도 국민의힘 의원들의 계엄 해제 요구 표결을 방해했다며 ‘내란중요임무종사자’ 혐의를 적용해 영장을 청구했습니다. &lt;br&gt;&lt;br&gt;당시 의원총회 장소를 국회에서 당사로, 다시 국회로 재변경하는 등 수차례 바꾼 것을 일종의 내란 가담 행위로 포섭한 것입니다. 추 의원이 당일 밤 11시 22분쯤 윤 전 대통령의 전화를 받은 뒤 장소를 여러 차례 바꿔 의원들의 계엄 해제 표결을 막았다는 것입니다.&lt;br&gt;&lt;br&gt;형법 87조의 내란죄는 ‘국토를 참절하거나 국헌을 문란할 목적으로 폭동한 자’를 가담 정도에 따라 처벌하고 있습니다. 단순한 폭동만으로는 부족하고 국가 기능을 마비시키는 등의 목적이 있어야 성립하는 ‘목적범’입니다. &lt;br&gt;&lt;br&gt;윤석열 전 대통령에게 적용된 죄명 중 가장 무거운 ‘수괴’는 사형 또는 무기징역, 무기금고로, 그리고 이 사건에서 적용된 내란중요임무종사자는 사형, 무기징역 또는 5년 이상 징역으로 처벌합니다. &lt;br&gt;&lt;br&gt;그런데 원내대표가 회의 장소를 수차례 바꾼 것을 두고 고도의 목적성이 필요한 내란죄로 볼 수 있을지 의문이라는 지적이 나왔습니다. 장소 변경에 대해 추 의원은 “경찰이 국회 출입을 전면 통제해 바꾼 것”이라고 하는데, 이 주장을 깰 만한 증거가 있는지 의문이라는 것입니다. &lt;br&gt;&lt;br&gt;이 사건에서 문제된 통화는 홍철호 전 정무수석 3분 23초(발신), 한덕수 전 총리 7분 33초(발신), 윤석열 전 대통령 2분(수신)입니다. 그런데 확보된 증거는 ‘통화 내역’이고 ‘통화 내용’이 아닙니다. &lt;br&gt;&lt;br&gt;특검은 윤 전 대통령과의 통화에서 표결 불참 협조 요청을 받은 정황을 의심하고 있습니다. 그러나 추 의원은 이 통화 내용은 윤 전 대통령이 ‘계엄 담화 내용을 미리 말하지 못해 미안하다’는 것이고 본회의장 이탈을 유도하는 것과는 무관하다는 입장입니다. &lt;br&gt;&lt;br&gt;영장 심사 직전의 보도 중에는 추 의원이 한덕수 전 총리로부터 계엄이 계획대로 진행될 것이라는 취지로 “걱정하지 마라”는 말을 듣고도 의원들에게 고의로 공유하지 않았다는 내용도 있습니다. 그러나 한 전 총리가 실제 “걱정하지 마라”고 했는지, 그 의미가 계엄이 계획대로 진행될 것이니 해제 표결에 참여하지 말라는 취지인지는 불분명합니다. &lt;br&gt;&lt;br&gt;유죄 입증 책임은 수사기관에 있기 때문에, 법원으로서는 설령 의심스러운 정황이 있더라도 통화 내역만으로는 ‘내란중요임무종사자’ 혐의가 소명됐다고 판단하기 어려웠을 것으로 보입니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/X3AU5UYFRVELRDWZ6362CRAMQY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=백형선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지금까지 내란중요임무종사자 혐의가 적용돼 기소된 사람들은 김용현 전 국방장관, 여인형 전 방첩사령관, 노상원 전 정보사령관, 김봉식 전 서울경찰청장 등입니다. 계엄 당일 출동한 군인, 경찰을 지휘한 인물들입니다. 이상민 전 행안부 장관은 언론사 등에 대한 단전, 단수 등을 지시한 혐의를 받고 있습니다. 당시 여당 원내대표였던 추 의원과는 범주가 다른 인사들입니다. &lt;br&gt;&lt;br&gt;아울러 국회의원의 표결 과정에 내란을 적용하는 게 무리라는 지적도 있었습니다. 국회의원의 표결은 국회에서 직무상 행한 발언과 더불어 헌법상 면책 특권 범위입니다. &lt;br&gt;&lt;br&gt;계엄 해제 안건에 대해서도 이론상 찬성, 반대 혹은 아예 표결에 참여하지 않는 의사표시도 가능합니다. 그런데 표결에 참여하지 않은 것을 ‘방해’의 결과물로 보고 그 과정의 행위를 내란 동조로 볼 수 있을지 의문이라는 것입니다. 실제 회의 장소 변경에도 불구하고 단독 과반수인 민주당 의원들만으로도 표결이 가능했고, 국민의힘 의원 18명도 표결에 참여했습니다. &lt;br&gt;&lt;br&gt;법원은 ‘면밀하고 충실한 법정 공방을 거친 뒤 그에 합당한 판단 및 처벌을 하도록 함이 타당하다’고 했습니다. 이는 추 의원이 법적으로 완전히 면책받을 수는 없음을 시사하는 대목이기도 합니다. &lt;br&gt;&lt;br&gt;추 의원이 회의 장소를 수차례 바꾼 것은 전체 의원을 본회의장으로 소집해 계엄 해제 표결을 하려 했던 우원식 국회의장에 대한 의사 진행 방해나 원내대표로서 의정 활동에 필요한 정보를 즉각 알리지 않은 부분은 문제 될 수 있습니다. &lt;br&gt;&lt;br&gt;하지만 이를 법정형이 사형까지 있는 내란죄로 의율하는 것은 차원이 다른 문제입니다. 그래서 법원이 ‘그에 합당한 판단 및 처벌’이라는 표현을 쓰지 않았을까 합니다. &lt;br&gt;&lt;br&gt;법원은 그러면서 “수사진행 경과와 출석 상황, 관련 증거의 수집 정도를 볼 때 추 의원에게 증거인멸 및 도망 염려가 있다고 보기는 어렵다”며 “추 의원을 구속해야 할 사유와 상당성을 인정하기 어렵다”고 했습니다. &lt;br&gt;&lt;br&gt;구속 사유는 크게 혐의의 상당성에 더해 주거 부정, 증거인멸, 도주 우려 중 한 가지가 인정돼야 합니다. 그런데 이 사건의 경우 혐의 자체에도 다툼의 여지가 있을 뿐 아니라 증거인멸이나 도주 우려도 인정하기 어렵다는 게 법원 판단입니다. 이미 수사가 상당히 진척됐고 통화 내역 등의 증거가 확보됐으며 추 의원이 소환을 피하거나 하지도 않았기 때문입니다. &lt;br&gt;&lt;br&gt;결과적으로 특검이 주장한 구속 사유 대부분이 인정되지 않은 셈입니다. 한 법조인은 “법원이 영장을 통째로 그은(기각한) 것”이라고 했습니다. &lt;br&gt;&lt;br&gt;이처럼 이 사건은 법리적으로 볼 때는 청구 당시부터 ‘기각’ 전망이 우세하긴 했습니다. 다만 민주당의 ‘법 왜곡죄’ 도입, 법원행정처 폐지 등 사법부 압박이 영장 발부 여부를 결정하는 데 변수가 될 수 있다는 견해도 있었습니다. 그러나 법원은 사건 자체로 판단해 ‘기각’ 결정을 내렸습니다. 이번 결정으로 민주당의 내란 몰이에는 제동이 걸렸습니다. 그 화풀이 대상이 법원이 될지, 그런 압박이 먹힐 수 있을지 앞으로 주목되는 부분입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/TKUQ7QYKMNFBPGICEVHYH2IM7I.png?auth=6368f03e906352fa1050e65d136f3b3631e117406f3763fafae000fee181bf8e&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
-        <media:description type="plain">그래픽=조선디자인랩 이연주</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>부산시, 국비 확보 10조원 시대 열었다… 전년 대비 6% 늘어</title>
-      <link>https://www.chosun.com/national/regional/2025/12/03/3OX7RNWNN5F77GRNUFKSWK6ADE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/03/3OX7RNWNN5F77GRNUFKSWK6ADE/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 06:32:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTDOOJSGJQWMZBWGJSTOZDDGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시청 전경. / 뉴스1  &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산시는 내년도 정부 예산안에서 역대 최대 국비 10조2184억원을 확보했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;이는 지난해 9조6363억원 대비 5821억원(6%) 늘어난 규모로 역대 최대다.&lt;br&gt;&lt;br&gt;가덕도신공항 건설 사업 예산 6889억원도 정부 원안대로 유지됐다. 경남으로부터 먹는 물 공급체계 구축 사업 설계비 19억2000만원이 포함됐다. &lt;br&gt;&lt;br&gt;국내 최초 도심형 금정산 국립공원 지정에 따른 관리운영비 34억원이 신규 반영됐고, 학장·감전2지구 자연재해 위험지 정비(27억여원), 낙동강 하굿둑 상류 대저수문 등 개선사업(50억원), 동천·부전천 비점오염 저감사업(75억원)도 증액됐다.&lt;br&gt;&lt;br&gt;문화·체육·관광 분야에서도 2028년 세계 디자인 수도 선정을 기념하는 글로벌 부산 디자인 페어 예산 6억원이 새로 반영됐고 아시아 콘텐츠 앤드 필름마켓 육성 예산(6억원)도 증액됐다.&lt;br&gt;&lt;br&gt;부산의 미래 신성장 동력인 난치성 질환·진단 치료 방사선 원료의약품 생산 및 개발사업비 30억원이 신규 배정돼 첨단 의료 산업 발전의 발판을 마련했다.&lt;br&gt;&lt;br&gt;자율주행 기반 스마트 항만 모빌리티 허브 구축에 19억여원, 항공우주 지역혁신 기반 구축에 20억원, 극한·극지 산업용 화합물 반도체 제조 인프라 구축에 20억원이 반영됐다.&lt;br&gt;&lt;br&gt;기존 역점 사업인 미래차 전용 플랫폼 지원 엑스알(XR) 기반 가상 모형 시스템 구축(36억원), 바이오매스 기반 비건 가죽 개발 및 실증 클러스터 구축(40억원) 예산도 증액돼 사업 추진에 탄력을 받는다.&lt;br&gt;&lt;br&gt;이와 함께 북구 덕천동 야외수영장 10억원, 부산 실내빙상장 4억여원, 범어사 사찰음식 체험관 건립 15억원 등 시민 삶 개선과 웰니스 관광 명소 조성 예산을 확보했다.&lt;br&gt;&lt;br&gt;부산시는 지역 국회의원들과 대정부 설득에 나서 정부안에 없던 핵심 사업 예산까지 추가로 확보했다고 설명했다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 “국회 심의 과정에서 끈질기게 정부를 설득한 부산지역 국회의원 18명에게 감사드린다”며 “국비 10조원 시대 개막은 부산의 새로운 시작을 알리는 신호탄으로 시민 행복 도시를 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>3000원 내고 동파육·갈비탕…직장인들 부러움 산 ‘황제 점심’ 화제</title>
       <link>https://www.chosun.com/national/national_general/2025/12/03/LID7FOMWFFGMVJWOMNADHSLOTI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/LID7FOMWFFGMVJWOMNADHSLOTI/</guid>
@@ -951,15 +970,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3K7MAEOLJJG3DMLSMWN25VZFVY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'직장에서 3000원씩 걷어서 해먹는 점심' 동파육./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고물가 시대에 직장 동료들과 3000원씩 모아 점심을 해 먹는 온라인 콘텐츠가 인기를 끌고 있다.&lt;br&gt;&lt;br&gt;온라인 커뮤니티 ‘보배드림’에는 ‘직장에서 3000원씩 걷어서 해 먹는 점심’이라는 타이틀의 시리즈 게시물이 올라오고 있다.&lt;br&gt;&lt;br&gt;지난해 9월부터 올라온 이 시리즈에는 ‘닭냉채 고추장새우마파두부’를 시작으로 족발, 김치찜, 갈비찜, 닭백숙, 돈가스, 제육쌈밥, 김밥, 떡볶이 등 다양한 점심 메뉴 사진이 포함됐다. 사진 속에는 재료 손질부터 조리, 상차림 등 전 과정이 담겼다. &lt;br&gt;&lt;br&gt;지금까지 올라온 관련 게시물만 400여 개다. 작성자는 한 아파트 관리 사무소에서 근무하는 직원으로 알려졌다. &lt;br&gt;&lt;br&gt;그는 “직원들과 점심을 만들어 먹는데, 한 끼당 3000원씩 걷어서 운영한다”고 했다. 이어 “요식업 경험은 없고 편의점 아르바이트만 하다가 시설 관리직으로 이직했지만, 점심 만드는 것이 즐거워 인터넷을 참고하며 메뉴를 고민하고 있다”고 했다.&lt;br&gt;&lt;br&gt;가장 최근 게시물은 지난달 26일 올린 동파육이다. 작성자는 동파육과 함께 데친 청경채, 무생채, 밥과 계란 등을 곁들여 동료 6~7명과 먹었다. 직원 생일 등 특별한 날에는 희망 메뉴를 받아 해 먹는다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RG4KHXF7FBMJEKUY7MOY4OKEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'직장에서 3000원씩 걷어서 해먹는 점심' 시리즈./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘3000원 점심’의 비결은 식재료 대량 구매였다. 작성자는 “한 끼만 3000원으로 맞추는 것은 어렵지만, 한 달 단위로 모으면 가능하다”며 “쌀은 아파트에서 제공하고, 김치는 별도로 모은 비용으로 구매한다. 양념과 재료를 대량으로 사서 최대한 가성비를 높인다”고 설명했다.&lt;br&gt;&lt;br&gt;또 설거지는 작성자를 제외한 직원들이 순번제로 담당하며, 휴가 시에는 보조 직원이 대신 요리하는 등 ‘3000원 점심’은 원칙에 따라 안정적으로 운영되는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 시리즈를 접한 네티즌들은 “이런 직장 다니고 싶다” “전에 다니던 회사도 비슷하게 운영하다가 얼마 못 갔는데 유지하는 게 대단하다” “요즘 국밥 한 그릇도 1만원이 넘는데 동료들 부럽다” 등의 반응을 보내고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, ‘진술 거부’ 김건희 피고인신문 중계 불허...결심 공판 진행키로</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/03/ZL3DNEPF2FCCPCPUNAO7NVYSMY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/ZL3DNEPF2FCCPCPUNAO7NVYSMY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 03 Dec 2025 02:10:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UAE7GGZYJZMGNL52ULXWU5MPFY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도이치모터스 주가조작과 명태균 공천개입, 통일교 청탁·뇌물 수수 의혹 혐의 등으로 구속기소 된 김건희 씨가 3일 서울 서초구 서울중앙지방법원에서 열린 자본시장법 위반 혐의 공판에 출석하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;도이치모터스 주가조작 등 혐의로 구속기소된 김건희 여사가 3일 재판에서 진행된 피고인신문에서 진술을 거부했다. 재판부는 앞서 김 여사 피고인신문 과정을 중계하겠다는 특검 측 신청을 허가했지만 김 여사가 아무 대답도 하지 않자 절차를 진행하는 것이 의미가 없다고 보고 중계를 허가하지 않기로 했다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 이날 김 여사의 자본시장법·정치자금법 위반 및 알선수재 사건 재판을 열었다. 김 여사는 이날 검정 바지 정장에 검정 코트 차림으로 법정에 나왔다. 흰 마스크와 뿔테 안경을 쓰고, 머리를 하나로 묶은 채 교도관의 부축을 받아 걸어 들어왔다.&lt;br&gt;&lt;br&gt;김건희 특검팀은 이날 피고인신문에서 김 여사에게 “2010년 이정필에게 수익 30~40%를 나눠주고 손실이 나면 보장받는 조건으로 16억원이 들어있는 계좌를 맡겼느냐” 등 3개 질문을 했으나 김 여사는 “진술을 거부하겠다”며 답하지 않았다.&lt;br&gt;&lt;br&gt;그러자 재판부는 “다 진술 거부하는데 이 정도만 하자”며 특검 측의 피고인신문 절차를 마무리했다. 이어 “실질적 내용이 없기 때문에 중계를 허가할 실익이 없다”며 “중계 신청을 불허한다”고 했다.&lt;br&gt;&lt;br&gt;한편, 재판부는 이날 결심 공판을 진행하고 검찰의 최종 의견과 구형, 피고인 측의 최종 변론과 김 여사의 최후 진술을 차례로 듣기로 했다. 김 여사와 관련된 각종 의혹을 수사하는 민중기 특검이 기소한 사건 중 김 여사 본인 재판이 가장 먼저 변론을 마치게 되는 것이다. &lt;br&gt;&lt;br&gt;재판부는 애초 이날 도이치모터스 주가조작 의혹의 또 다른 주포로 지목된 이모씨에 대한 증인신문을 진행하기로 했었지만 취소됐다. 이날 김 여사 측에서 이씨의 검찰 피의자신문조서를 증거로 채택하는 데 동의하면서 검찰이 이씨 증인 신청을 철회했다. 이씨는 소환장이 송달되지 않아 이날 법정에는 불출석했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사기죄 형량 ‘최대 30년’…형법 개정안, 국회 본회의 통과</title>
       <link>https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/03/TBJJ4CNFXZAU5JU3SL4LOWWPRA/</guid>
@@ -967,19 +977,6 @@
       <description/>
       <pubDate>Wed, 03 Dec 2025 01:00:51 +0000</pubDate>
       <content:encoded>법무부는 보이스피싱·투자리딩방 등 불특정 다수를 상대로 사기를 저질러 형법상 사기죄로 처벌될 경우 최대 징역 30년까지 처할 수 있도록 한 형법 개정안이 국회 본회의를 통과했다고 3일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BJCELYBUBI3ZNMCCYKPI3DXIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 개정안은 사기죄의 법정형을 현행 ’10년 이하의 징역 또는 2000만원 이하의 벌금’에서 ’20년 이하의 징역 또는 5000만원 이하의 벌금’으로 상향하는 게 골자다.&lt;br&gt;&lt;br&gt;개정안이 시행되면 경합범 최고 형량은 징역 30년까지 올라간다. 법원은 다수의 범죄를 저지른 경우 경합범 가중 원칙에 따라 가장 중한 범죄 최고형의 50%를 가중할 수 있다.&lt;br&gt;&lt;br&gt;그동안 불특정 다수의 피해자들을 상대로 조직적 사기를 저질러도 피해자 1인당 피해액이 5억원을 넘지 않으면 특정경제범죄법에 따른 가중처벌이 어려웠다. 특정경제범죄법이 적용되면 징역 30년에서 최대 무기징역까지 처벌할 수 있으나, 피해규모가 수천억원대에 이르더라도 피해자 1인당 피해액이 5억원을 넘지 않으면 형법상 사기죄만 적용되기 때문이다. 이 경우 최대 징역 15년까지 선고할 수 밖에 없었다.&lt;br&gt;&lt;br&gt;이에 법무부는 형법상 사기죄의 법정형 상한을 기존 징역 10년에서 20년으로 상향하는 법 개정에 나서 가중 원칙에 따른 형법상 사기죄 최고 형량을 징역 30년으로 높였다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 “이번 개정을 통해 서민들에게 심각한 피해를 주는 조직적 사기 범죄에 엄정하게 대응할 수 있는 계기가 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>시민 의견 듣고 도로 손보니, 교통사고 확 줄었다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/03/JZWV64TTDNETFNXDZLOBOXC76U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/03/JZWV64TTDNETFNXDZLOBOXC76U/</guid>
-      <dc:creator>강지은 기자, 김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 02 Dec 2025 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/47TCBKLQFRO3PO63NMJMQPFTWY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;4일 서울 강남구 논현초등학교 인근에서 열린 서울교통 Re-디자인 프로젝트 관련 '속 시원한 교통 단속' 동행 취재에서 경찰들이 어린이보호구역 주변 음주운전 및 정지선 위반 등을 단속하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1일 오후 7시 30분 서울 성동구 동부간선도로에서 내부순환도로로 진입하는 구간. 본지 기자를 태운 택시 기사 박모(63)씨는 “오늘따라 길이 안 막히네”라고 했다. 이곳은 출퇴근 시간만 되면 끼어드는 차량과 직진 차량이 뒤엉키는 상습 정체 구역이었다. 4개 차선 중 1개 차선만 내부순환도로로 진입할 수 있었기 때문이었다.&lt;br&gt;&lt;br&gt;그런데 지난달 13일 경찰이 1개였던 진입로를 2개로 늘리면서 인근 통행 속도가 시속 34㎞에서 44㎞로 29% 증가했다. 분홍색 유도선을 그려 운전자들 혼란도 줄였다. 박씨는 “이곳을 지날 때마다 급하게 차선을 바꾸는 차들과 충돌할까 봐 조마조마했는데 마음이 편해졌다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FOG3DULK4RG6XBDDB5TATIJVAU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청이 서울 시민들의 제안을 접수·반영해 교통 환경을 개선하는 ‘서울교통 리디자인(재설계)’ 프로젝트를 한 달간 시행하면서 교통사고와 부상·사망자가 대폭 감소한 것으로 2일 나타났다. 지난달 3일부터 30일까지 서울에서 발생한 교통사고는 2396건으로 2022~2024년 같은 기간 평균보다 13.1%(362건) 감소했다. 교통사고 부상자는 19.3%, 사망자도 33.3% 줄었다. 이는 경찰이 단속과 함께 ‘환경 개선’을 병행했기 때문이라는 분석이다. 시민들은 “무조건적인 단속보다 합리적인 도로 개선을 원한다”며 아이디어를 쏟아냈고, 경찰이 이를 적극 수용하면서 사고가 줄고 교통 흐름도 빨라졌다는 것이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 한 달간 서울 시민들이 제출한 제안은 총 1258건이다. 신호 주기 개선(207건)이 가장 많았고, 도로 개선(113건), 횡단보도 위치 변경(79건) 순이었다. 이 중 408건(32%)에 대해 경찰은 사고 위험이 있는 도로에 횡단보도·보행섬을 설치하는 등 즉각 조치를 취했다. 나머지 850건은 단기(1개월 이내), 중기(1~3개월), 장기(3개월 이상) 목표로 나눠 내년 6월까지 순차적으로 개선하겠다는 계획이다. &lt;br&gt;&lt;br&gt;2일 오전 10시 서울 광진구 군자역 사거리. 인근 주민 정모(67)씨가 숨을 헐떡거리며 지하철 5호선 군자역 3번 출구 계단을 올랐다. 유동 인구가 많은 곳인데도 횡단보도가 없어 길을 건너려는 주민들은 지하철역 출구를 거쳐야 한다. 정씨는 “카트를 끌고 장을 자주 보러 다니는데, 지하철역 계단을 이용할 때마다 너무 힘이 든다”며 “차가 안 다닐 때 무단 횡단을 할까 생각한 적도 여러 번”이라고 했다. 2009년부터 횡단보도를 놓아달라는 민원이 잇따랐고, 올해만 1400명이 서명 운동에 나섰다. 그러나 횡단보도를 설치하면 군자교와 동부간선도로까지 교통 정체가 악화될 것이란 우려가 컸다.&lt;br&gt;&lt;br&gt;서울경찰청은 이번 프로젝트를 시작하면서 광진구와 도로교통공단과 논의 끝에 교차로 동쪽 한 곳에만 횡단보도를 설치하는 절충안을 이끌어냈다. 횡단보도는 내년 6월 완공될 예정이다.&lt;br&gt;&lt;br&gt;경찰은 서울 중구의 한 아파트의 입구와 출구 구분이 쉽지 않아 역주행하는 차량이 많다는 민원을 접수한 뒤 아파트 출입 도로에 차량 유도 표시선을 설치했다. 횡단보도 대기 공간이 없어 보행자의 차량 사고 위험이 컸던 영등포구 고추말삼거리엔 보행섬을 설치했고, 서초구의 한 유치원 인근에 횡단보도를 설치했다. 용산역 앞 교차로에서 한강대교 방향으로 좌회전을 할 수 있도록 해 교통 체증을 줄였다. 서대문구 독립문역 사거리에선 퇴근 시간대인 오후 6시부터 8시까지 차량 신호 주기를 104초에서 100초로 4초 줄였다. 교차로에 진입하는 차량을 감소시켜 꼬리물기를 줄이기 위해서다.&lt;br&gt;&lt;br&gt;경찰은 교통 법규 위반 단속도 강화하고 있다. 지난 한 달간 출근길 얌체 운전, 오토바이 인도 주행 등 6713건을 적발했다. 과속 위험이 높은 서대문구 중산교 교차로와 북악스카이웨이에는 이달 말까지 단속 카메라를 추가 설치한다. 서울경찰청 교통 정책 담당 관계자는 “단속 강화와 함께 교통 문화와 도로 환경을 개선하려는 노력을 함께 해 가시적인 성과를 내겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/47TCBKLQFRO3PO63NMJMQPFTWY.jpg?auth=a53babcab51b48538fde96ad13c836570cdbccb6a095f40f1ff6201131b11127&amp;smart=true&amp;width=5610&amp;height=3397" type="image/jpeg" height="3397" width="5610">
-        <media:description type="plain">4일 서울 강남구 논현초등학교 인근에서 열린 서울교통 Re-디자인 프로젝트 관련 '속 시원한 교통 단속' 동행 취재에서 경찰들이 어린이보호구역 주변 음주운전 및 정지선 위반 등을 단속하고 있다./뉴시스</media:description>
-        <media:credit role="author" scheme="urn:ebu">yesphoto</media:credit>
-      </media:content>
     </item>
   </channel>
 </rss>
