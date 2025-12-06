@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>검찰청 폐지 후 공소청 가겠다는 검사 0.8%</title>
+			<description>내년부터 검찰청이 폐지되고 수사 기능을 중대범죄수사청(중수청)이 넘겨받는 가운데 현직 검사 중 0.8%만 중수청으로 자리를 옮길 의사가 있는 것으로 나타났다.&lt;br /&gt;&lt;br /&gt;6일 대검찰청 검찰제도개편 태스크포스(TF)가 지난달 5일부터 13일까지 검찰구성원 전체를 대상으로 진행한 검찰 제도 개편 관련 설문조사 결과에 따르면 검사 910명 중 77%(701명)가 공소청 근무를 희망했고, 0.8%(7명)만 중수청 근무를 희망한다고 응답했다. 18.2%는 결정을 하지 못했다고 했다.&lt;br /&gt;&lt;br /&gt;검사 외 직렬을 포함해 모든 검찰 구성원 5천737명 중에서도 공소청 근무 희망자가 59.2%(3396명)였고, 중수청 근무는 6.1%(352명), 미정 29.2%(1678명)를 기록했다.&lt;br /&gt;&lt;br /&gt;검사들은 공소청을 택한 이유(복수 응답 가능)로 ▲ 공소 제기 등 권한 및 역할 유지(67.4%) ▲ 검사 직위·직급 유지(63.5%) ▲ 근무 연속성 유지(49.6%) ▲ 중수청 이동 시 수사 업무 부담(4.4%) 등을 들었다.&lt;br /&gt;&lt;br /&gt;중수청을 택한 이유로는 ▲ 수사 업무 선호(0.7%) ▲ 전문적인 수사 분야 경험 기대(0.5%) ▲ 급여, 처우, 경향 교류 인사원칙 등 개선 기대(0.2%) 등이 꼽혔다.  &lt;br /&gt;&lt;br /&gt;공소청과 중수청이 신설됐을 때의 희망 근무기관으로 공소청을 택한 비율은 59.2%(3396명)다. 중수청 희망은 6.1%(352명), 미정은 29.2%(1678명)다. 공소청과 중수청의 역할이 분명하게 정해지지 않은 만큼 적지 않은 구성원들이 논의 과정을 지켜본 후 결정을 하겠다는 입장인 것으로 풀이된다.&lt;br /&gt;&lt;br /&gt;검사 외 직렬은 중수청 근무를 희망하는 이유로 중대범죄 수사 분야에서 전문성 발휘(5.3%), 단일화된 조직에서 승진 등 기회 확대(3.3%) 등을 기대했다.&lt;br /&gt;&lt;br /&gt;검찰 구성원 대부분은 보완수사권이 필요하다고 봤다. &lt;br /&gt;&lt;br /&gt;전체 응답자의 89.2%는 보완수사 요구권이 필요하다고 답했고, 검사의 보완수사권이 필요하다는 응답도 85.6%에 달했다.&lt;br /&gt;&lt;br /&gt;보완수사권이 필요한 이유로는 사경 수사 미비·부실 보완의 필요성이 81.1%로 가장 많았다. 공소제기 및 유지의 효율성은 67%, 사경의 인권침해 또는 위법 수사 시정이 필요하다는 의견도 55.6%였다. &lt;br /&gt;&lt;br /&gt;보완수사가 불필요하다고 한 응답자들은 수사·기소 분리 취지에 반함(4.4%), 경찰 수사 책임제 정착 필요(4.1%) 등을 이유로 들었다.&lt;br /&gt;&lt;br /&gt;검사의 보완수사 범위에 제한이 필요하다는 응답은 63.2%, 필요 없다는 답은 24.3%였다. 보완수사 방법에 제한을 둬야 한다는 비율은 61.7%, 두지 않아야 한다는 의견은 22.9%로 집계됐다.&lt;br /&gt;&lt;br /&gt;검사의 보완수사요구권이 필요하다는 응답자는 89.2%였으며, 3.5%는 부정적인 입장을 드러냈다. 이들 중 64.4%는 현행처럼 보완수사요구 횟수에 제한이 없어야 한다고 봤다. 횟수가 한정돼야 한다는 의견은 24.3%였다.&lt;br /&gt;&lt;br /&gt;검사가 요구한 보완수사 이행기간을 제한해야 한다는 응답자는 77.7%, 제약하면 안 된다는 비율은 10.4%다. 경찰이 보완수사요구를 제대로 따르고 있다고 보는 응답자는 13.5%에 불과했다.&lt;br /&gt;&lt;br /&gt;검사의 수사개시권이 필요하다는 응답도 65.7%다. 수사 개시가 필요한 분야(복수 응답 가능)는 수사기관 공무원들의 직무 관련 범죄(73.4%), 무고, 위증 등 사법질서 저해 사범(71.3%), 공정위, 금감원 등 기관 고발 사건(53.1%) 순이다.&lt;br /&gt;&lt;br /&gt;특별사법경찰에 대한 수사지휘권도 87.7%가 필요하다고 답했다.&lt;br /&gt;</description>
+			<pubDate>Sat, 06 Dec 2025 10:31:02 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213918</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213918</guid>
+			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
 			<title>'쿠팡 무혐의 외압 의혹' 엄희준 검사 "특검에 문지석 '무고' 혐의 수사 요청"</title>
 			<description>&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&lt;/span&gt;(사법연수원 32기) 광주고검 검사가 관봉권 띠지 폐기 의혹 및 쿠팡 퇴직금 불기소 외압의 진상규명을 위한 안권섭 특검에 수사 외압을 주장하고 있는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&lt;/span&gt;(36기) 광주지검 부장검사를 무고 혐의로 조사해 달라는 취지의 수사요청서를 제출했다. &lt;br /&gt;&lt;br /&gt;엄 검사는 6일 "본건 사실관계를 명백히 규명한 후&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&amp;nbsp;&lt;/span&gt;광주지검 부장검사를 무고죄로 엄중히 처벌해 줄 것을 요청한다"고 말했다.&lt;br /&gt;&lt;br /&gt;그러면서 "수사에 적극 협조할 것"이라며 "상설특검에서는 본건 사실관계를 명백히 규명한 후 문지석 검사를 무고죄로 엄중히 처벌해 줄 것을 요청한다"고 말했다.&lt;br /&gt;&lt;br /&gt;엄 검사는 인천지검 부천지청장으로 재직하던 지난 4월 쿠팡의 일용직 노동자 퇴직금 미지급 사건 관련 수사를 담당한&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&amp;nbsp;&lt;/span&gt;당시 형사3부장검사의 기소 의견을 묵살하고 무혐의 처분을 지시했다는 의혹을 받는다.&lt;br /&gt;&lt;br /&gt;문 검사는 엄 검사와 김동희 당시 차장검사가 4월 18일 대검찰청에 사건 관련 보고서를 제출하면서 혐의를 입증할 핵심 증거에 해당하는 쿠팡 관련 노동청 압수물 내용을 누락시켰다고 주장했다.&lt;br /&gt;&lt;br /&gt;엄 검사는 "김 검사는 2025년 4월 18일 대검에 노동청 압수물 내용과 문 검사의 입장까지 보고했다"며 "검찰 메신저 대화내역 등 그 객관적 증거자료가 그대로 남아있다"고 반박했다.&lt;br /&gt;&lt;br /&gt;문 검사에게 무혐의를 강요했다는 주장에 대해서도 "사건 처리 전 부장검사의 의견을 듣기 위해 2025년 3월 5일 김 검사, 문 검사와 함께 회의했다"며 "그 자리에서 문 검사는 쿠팡 사건을 무혐의하는 것에 동의했고 관련 메신저 내역이 남아있다"고 설명했다.&lt;br /&gt;&lt;br /&gt;엄 검사는 "그 후 문 검사는 2024년 4월 18일 다시 한번 쿠팡 사건을 무혐의하는 것에 동의했다"며 "이 역시 메신저 내역이 남아있다"고 덧붙였다.&lt;br /&gt;&lt;br /&gt;엄 검사는 "문 검사는 사전보고 규정을 무시한 채 독단적으로 압수수색을 진행한 혐의 등으로 대검에서 감찰을 받게 됐다"며 "문 검사는 지휘권자(&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&amp;nbsp;&lt;/span&gt;검사) 처벌받게 함으로써 자신에 대한 감찰 혐의를 면탈하려는 목적으로 허위의 사실로 무고한 것"이라고 주장했다.&lt;br /&gt;&lt;br /&gt;엄 검사는 "쿠팡 측과 아무런 관련이 없고 쿠팡 관련 사건 처리를 왜곡할 그 어떤 동기도 없다. 상설특검에서는 위와 같은 사정들을 모두 고려해 양측 모두에 대해 균형감 있는 공정한 수사를 진행해달라"고 요청했다. &lt;br /&gt;&lt;br /&gt;관봉권·쿠팡 특검은 이날 현판식을 열고 본격적인 수사를 시작했다.</description>
 			<pubDate>Sat, 06 Dec 2025 04:04:58 -0000</pubDate>
@@ -233,16 +242,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213881</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213881.jpg</media:thumbnail>
 			<dc:creator>이임성 법조윤리협의회 위원장</dc:creator>
-		</item>
-		<item>
-			<title>[포토] 내 마음의 풍경</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/213909.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;절정의 순간에 몸을 던진 단풍 위로 하얀 겨울이 소복하게 내렸다.&amp;nbsp;&lt;p style="text-align: left; "&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: right;"&gt;   &lt;b&gt;백성현 기자&amp;nbsp; &amp;nbsp;stwhite@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 05 Dec 2025 19:50:44 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213909</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213909</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213909.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
