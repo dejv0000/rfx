@@ -13,6 +13,47 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 12월 7일 일요일 (음력 10월 18일 庚戌)</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/06/J72NTJFFBZFN3F577KLI4BJIFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/06/J72NTJFFBZFN3F577KLI4BJIFE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Dec 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
+		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
+멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
+		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
+		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>‘연어·술파티 의혹 수사' 서울고검, ‘이화영 대북송금’ 증인 안부수 구속 영장</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/06/J7AJBGZOVBE5PP6TBP32OCAAGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/06/J7AJBGZOVBE5PP6TBP32OCAAGE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Dec 2025 07:47:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VXBNAL2KRPA7V36N42JJOBEH2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;북한 리종혁 조선아시아태평양평화위원회 부위원장(오른쪽)이 16일 오후 경기도 고양시 엠블호텔에서 열린 2018 아시아태평양의 평화·번영을 위한 국제대회에서 안부수 아태평화교류협회장과 대화를 나누고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쌍방울 대북 송금 사건 수사 과정에서 술자리 회유가 있었다는 의혹을 조사하는 서울고검이 안부수 아태평화교류협회장과 쌍방울그룹 전직 임원들에 대한 구속 영장을 청구했다.&lt;br&gt;&lt;br&gt;6일 법조계에 따르면 서울고검 ‘인권침해 점검 태스크포스(TF)’는 전날 안 전 회장과 방용철 전 쌍방울 부회장, 박모 전 쌍방울 이사 등에게 업무상 배임·횡령 등 혐의를 적용해 구속 영장을 청구했다. TF는 쌍방울 측이 안 회장을 재판 증인으로 매수하기 위해 딸을 특혜 채용하고 주거용 오피스텔을 제공하는 등 금전적 지원과 편의를 제공한 것으로 보고 배임액을 특정해 영장 청구서에 적시했다.&lt;br&gt;&lt;br&gt;안 전 회장은 경기도와 쌍방울그룹을 북한 고위 인사에 이어준 브로커로, 김성태 전 쌍방울 회장과 공모해 북한에 대북사업 로비 자금 5억원을 전달한 혐의(외국환거래법 위반) 등으로 지난 2월 2심에서 징역 1년 6개월을 선고받았다.&lt;br&gt;&lt;br&gt;그는 이화영 경기도 평화부지사가 대북송금 사건에서 유죄 판결을 받는 데 핵심 역할을 한 증인이기도 하다. 안 전 회장은 2022년 처음 구속됐을 때 수원지검 조사에서 쌍방울이 북한에 제공했다는 800만 달러는 주가 상승을 위한 것이었다고 했다가 2023년 4월 이 전 부지사 재판에서 ‘경기도 스마트팜 비용(500만 달러)와 이재명 당시 경기도지사의 방북 비용(300)이었다’고 증언을 바꿨다. &lt;br&gt;&lt;br&gt;TF는 안 전 회장 등의 신병을 확보한 뒤 이른바 ‘연어·술파티' 등 진술 회유 의혹으로 수사를 확대할 것으로 보인다. TF는 2023년 5월 수원지검이 쌍방울 대북 송금 사건을 수사하는 과정에서 조사실에 술과 연어회를 반입해 이 전 부지사와 김 전 회장 등에게 제공하고, 이재명 대통령에게 불리한 진술을 하도록 회유한 의혹을 감찰하고 있다. 지난 5일 서울고검 감찰부장 겸 TF 팀장으로 곽영환(사법연수원 33기) 수원고검 검사가 임명됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“회삿돈 3억, 전 남친에 송금”…박나래, 횡령 혐의로도 고발당해 </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/06/YZ4EOEA5IFGUVDUIKK4JQSBOYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/06/YZ4EOEA5IFGUVDUIKK4JQSBOYA/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Dec 2025 07:07:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZWMNLFMUYTSNZTGBTDANRUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘갑질 의혹’이 제기된 방송인 박나래가 전 매니저들로부터 횡령 혐의로도 고발당한 사실이 알려졌다. &lt;br&gt;&lt;br&gt;6일 일간스포츠 보도에 따르면, 전날 서울 강남경찰서에 접수된 고발장에는 1인 기획사인 앤파크의 실질적 대표 박나래가 전 남자 친구 C씨를 정식 직원인 것처럼 허위로 등재한 후 올해 1월부터 11월까지 11개월간 매월 급여를 지급했다는 내용 등이 담겼다. C씨에게 지급된 급여 총액은 4400여 만원이다.&lt;br&gt;&lt;br&gt;전 매니저들은 박나래가 지난 8월 C씨의 전세 보증금 마련을 위해 회사 명의의 계좌에서 3억여 원을 송금했다고도 주장했다. &lt;br&gt;&lt;br&gt;이들은 이 외에도 박나래가 올해 1월부터 지난 11월까지 개인 주택 관리비, 개인 물품 구매 등을 위해 회사 명의의 계좌에서 최소 1억원가량을 사용했다고 주장했다. &lt;br&gt;&lt;br&gt;박나래 소속사 측은 조선닷컴과의 통화에서 “전 남자 친구인 C씨는 정상적으로 회사에서 근무하며 급여를 받은 것이고, C씨에게 송금한 돈도 모두 정상적인 절차를 거쳐 송금된 것”이라며 “오히려 전 매니저들의 법인 자금 횡령을 포착해 규모를 파악 중이다. 곧 법적 절차를 밟을 것”이라고 했다. &lt;br&gt;&lt;br&gt;소속사 측은 “박나래가 급여도 전 직장보다 크게 높여주고, 같이 일본 여행도 다녀오고, 명품 시계도 선물하는 등 전 매니저들을 많이 아꼈다”며 “이번 일로 큰 충격을 받았다”고 했다. &lt;br&gt;&lt;br&gt;앞서 전 매니저들은 박나래가 직장 내 괴롭힘을 비롯해 폭언·특수상해, 대리 처방 심부름, 비용 미정산 등 여러 문제를 일으켰다고 주장했다. &lt;br&gt;&lt;br&gt;이에 박나래 측은 “박나래와 약 1년 3개월간 근무했던 직원 두 명은 최근 당사를 퇴사했고, 당사는 이에 따라 퇴직금을 정상적으로 지급했다”며 “그러나 퇴직금 수령 이후, 해당 직원들은 추가로 회사의 전년도 매출의 10%에 해당하는 금액을 요구했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “이들은 시간이 지날수록 새로운 주장들을 추가하며 박나래와 당사를 계속해서 압박했고, 이에 따른 요구 금액 역시 점차 증가해 수억 원 규모에 이르게 됐다”며 “박나래는 함께 일했던 직원들의 갑작스러운 퇴사와 이어지는 근거 없는 주장, 늘어나는 금품 요구, 언론을 통한 압박으로 인해 큰 심적 부담과 정신적 충격을 겪고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>가정싸움이 살인으로...남편 숨지게 한 60대 여성 긴급체포</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/06/7BY7KW7OWZFJ7CODFS7X4NRUA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/06/7BY7KW7OWZFJ7CODFS7X4NRUA4/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 06 Dec 2025 06:10:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;남편과 다투던 중 남편을 숨지게 한 60대 여성이 경찰에 긴급체포됐다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 살인 혐의로 60대 여성 A씨를 긴급체포해 조사하고 있다고 6일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 A씨는 지난 5일 오후 3시쯤 서울 강서구 등촌동 자택에서 남편 B씨(60대)를 둔기로 폭행한 뒤 목을 졸라 숨지게 한 혐의를 받는다. 당시 A씨는 남편과 부부싸움을 벌이던 중 범행을 저지른 것으로 전해졌다.&lt;br&gt;&lt;br&gt;가족의 신고를 받고 출동한 경찰은 같은 날 오후 7시 30분쯤 현장에서 A씨를 긴급체포했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사인을 규명하기 위해 국립과학수사연구원에 부검을 의뢰하고, A씨에 대한 구속영장 신청을 검토하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>검찰청 폐지 후 중수청 가겠다는 검사 0.8%뿐</title>
       <link>https://www.chosun.com/national/court_law/2025/12/06/ANS2Z6FNBRBULG3VJ5NVFKH7HE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/06/ANS2Z6FNBRBULG3VJ5NVFKH7HE/</guid>
@@ -882,24 +923,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3DAODCGVRGKZBYGMZGKOJUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치자금법 위반 혐의로 기소된 윤석준 대구 동구청장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선거관리위원회에 신고하지 않은 계좌에서 선거 비용을 지출한 혐의로 재판에 넘겨져 1심에서 당선 무효형이 선고된 윤석준 대구 동구청장이 항소심에서도 같은 형을 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사항소 2-1부(재판장 김정도)는 5일 윤 청장에 대한 정치자금법 위반 혐의 항소심 선고 공판에서 검찰과 윤 청장이 낸 항소를 모두 기각하고, 원심과 같은 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;선출직 공직자가 정치자금법 위반으로 100만원 이상의 벌금형이 확정되면 당선 무효가 된다. 윤 청장은 전국동시지방선거를 앞둔 지난 2022년 4월 8일 선거관리위원회에 신고하지 않은 본인 명의 계좌에서 선거 비용 5300만원을 받거나 지출한 혐의를 받고 있다. 이 금액 중 3400만원은 홍보 문자메시지 전송비로 지출됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 법령을 잘 몰라 생긴 단순 실수라고 주장하지만, 법령을 잘 몰랐던 것으로 보기 어렵다”며 “여러 사정에 비추어 보면 1심의 형이 너무 가볍거나 무거워 보이지 않고, 1심 이후 사정 변경이 전혀 없다”고 항소 기각 이유를 설명했다. &lt;br&gt;&lt;br&gt;선고 이후 윤 청장은 “동구 주민들에게 죄송하다”고 말했으며, 대법원 상고 여부에 대해서는 “판결문을 읽어보고 (판단하겠다)”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“학폭 처리 제대로 해달라”...둔기 들고 자녀 학교 찾은 학부모 </title>
-      <link>https://www.chosun.com/national/2025/12/05/YGYYXUDUWBEZ7HPAJRTFKAAFEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/05/YGYYXUDUWBEZ7HPAJRTFKAAFEI/</guid>
-      <dc:creator>진주=김준호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 02:01:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRWKMJQMNSTKYTGGNRGIZBXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;진주경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자녀의 학교 폭력 피해 처리 문제에 불만을 품은 학부모가 학교에 둔기를 들고 찾아갔다가 경찰 조사를 받게 됐다.&lt;br&gt;&lt;br&gt;경남 진주경찰서는 특수협박 혐의로 30대 남성 A씨를 불구속 입건했다고 5일 밝혔다. A씨는 지난 3일 낮 12시쯤 둔기를 소지한 채 진주의 한 초등학교를 방문해 복도에서 욕설한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 자녀의 학교 폭력 피해와 관련해 민원을 제기하는 과정에서 이 같은 일을 벌인 것으로 전해졌다. 자녀와 가해 학생과의 분리 조치 문제로 불만이 있었다고 한다. 다행히 다친 교사와 학생은 없었다. 당시 현장에 있던 교사가 경찰에 신고했다. &lt;br&gt;&lt;br&gt;경찰은 A씨 등을 상대로 정확한 사건 경위를 조사할 계획이다.&lt;br&gt;&lt;br&gt;현재 교육 당국은 A씨 자녀와 관련한 학교 폭력 문제에 대해 사실관계를 확인 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>해수부 가족동반 직원 부산 입주…관사 100채 확보 </title>
-      <link>https://www.chosun.com/national/regional/2025/12/05/P34ZQE2ZJRGMVMNWECDLOSUJ5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/P34ZQE2ZJRGMVMNWECDLOSUJ5U/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 02:19:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFFAGNZ3ERPNXLGE4KRTGQXDHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해양수산부가 이전할 부산 동구 협성타워(별관)에 해수부 간판이  설치돼 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산으로 이전하는 해양수산부 직원들의 이주가 5일부터 시작됐다. &lt;br&gt;&lt;br&gt;부산시는 이날부터 해양수산부 부산 이전에 대비해 시가 마련한 관사 100채에 해수부 직원 입주를 시작한다고 밝혔다.&lt;br&gt;&lt;br&gt;시는 앞서 지난달 28일 부산도시공사를 통해 아파트와 오피스텔 등 100채의 전세 계약을 체결한 상태다.&lt;br&gt;&lt;br&gt;박형준 부산시장은 이날 오후 부산진구 양정동 한 관사를 찾아 입주하는 해수부 두 가족의 전입 환영 행사를 할 예정이다.&lt;br&gt;&lt;br&gt;관사 입주 대상은 가족과 함께 부산으로 이전하는 해수부 직원이다.&lt;br&gt;&lt;br&gt;시는 해수부의 신속한 이전을 위해 약속한 관사 100채를 최우선 과제로 해결하려고 주택도시보증공사, 부산도시공사, 해수부와 협의해 입지 등을 결정했다.&lt;br&gt;&lt;br&gt;관사 100채는 부산진구 양정동 아파트와 오피스텔로 구성된 신축 단지에 있다. 동구 수정동 해수부 임시 청사까지 약 20분 안에 이동할 수 있는 접근성과 인근에 초등학교 등을 갖췄다고 시는 설명했다.&lt;br&gt;&lt;br&gt;관사는 전용면적 70∼76㎡의 아파트 83가구와 오피스텔 17가구다.&lt;br&gt;&lt;br&gt;사전 수요 조사와 입주 모집 결과 관사 100채 공급 계획에 해수부 직원 136명이 신청했다.&lt;br&gt;&lt;br&gt;박 시장은 “부산에서 편안하고 안정적으로 자리 잡도록 지원하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>장경태 고소인, 직접 방송 출연 “신체접촉 분명히 있었다”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/05/YGZSZ4B4FVGHLCWW3EI7XYTLB4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/YGZSZ4B4FVGHLCWW3EI7XYTLB4/</guid>
@@ -907,15 +930,6 @@
       <description/>
       <pubDate>Thu, 04 Dec 2025 23:55:56 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7YYLQ6XGFFGBCNUIC4HTRME54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송에 직접 출연한 고소인 A씨. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장경태 더불어민주당 의원을 준강제추행 혐의로 고소한 야당 여성 비서관이 직접 방송에 출연해 “신체 접촉이 분명히 있었다”고 주장했다. &lt;br&gt;&lt;br&gt;고소인 A씨는 4일 TV조선에 출연해 “국정감사 기간 중에 비서관들의 술자리가 있었는데 장경태 의원님이 오셨고, 제가 취해 있어서 몸을 잘 가누지 못했는데, 몸을 잘 가누지 못한 저의 신체 여러 곳을 추행했던 사건”이라며 “(신체 접촉은) 분명히 있었다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “전 남자친구가 상황을 목격하고 영상도 찍었고, 제가 고소장을 제출하기 전에 그 자리에 계시던 동료 비서관님들께도 확인을 받았다”며 “(당시 촬영된 영상에) ‘안 돼요’라는 말까지 녹음이 되어 있다. 술에 많이 취해 있긴 했지만 반사적으로 ‘안 된다’는 말이 나온 것 같다”고 했다. &lt;br&gt;&lt;br&gt;사건이 발생한 지 1년 만에 고소에 나선 이유에 대해서는 “당시에는 남자친구의 신상에 불이익을 주겠다고 해서 고소를 못 했었다”며 “권력이 있는 국회의원을 상대로 고소를 하는 것이 부담이 됐고, 고소를 했을 때 그 상황을 상상했을 때 너무 좀 무서웠다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “최근에 그 자리에 있던 선임비서관에게 성폭력을 당했다. 근데 그 선임비서관이 작년에 장경태 의원 사건도, 본인의 성폭력도 모두 제가 술을 마시고 문제를 일으켰기 때문이라고 비난을 했다고 들었다”며 “거기에 더해서 그 선임비서관이 다른 여성에게도 성범죄를 저지른 혐의가 있다는 사실을 알게 됐다. 저는 더 피해자가 늘면 안 되겠다는 생각이 들어서 용기를 내어 고소하게 되었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBUNWAW6ZFIFPHIQ6TZMQSHVWM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;장경태 더불어민주당 의원이 지난 2일 오전 서울 종로구 서울경찰청 민원실에서 고소인을 무고 및 폭행 등으로 고소·고발 전 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 의원이 ‘이번 사건의 본질은 데이트 폭력’이라고 주장한 것에 대해서는 “전혀 그런 사실이 없다. 제가 다음 날 숙취로 출근을 못 했는데 이걸 마치 감금이나 폭행을 당해 못 나온 것처럼 주장을 하시면서 데이트 폭력이라고 하시는데 그게 무고가 아닌가 하는 생각이 든다”고 했다. &lt;br&gt;&lt;br&gt;장 의원이 자신을 무고로 맞고소한 것에 대해서는 “전형적인 2차 가해 행태라고 본다. 장경태 의원님은 무고죄는 꽃뱀론이라고 비판을 하셨는데 왜 저는 거기에 해당하지 않는 거냐. 추행이 사실이 아니라면 비서관인 제가 무엇을 위해서 여당의 재선 의원을 상대로 고소하겠나”라고 했다. A씨는 지난해 10월 서울 여의도의 한 식당에서 장 의원에게 성추행을 당했다고 주장하고 있다. &lt;br&gt;&lt;br&gt;장 의원은 이날 페이스북을 통해 “대본에 따라 연출된 듯한 ‘녹화 인터뷰’”라며 “진실은 안중에도 없고, 정치인 장경태를 음해하려는 의도가 다분한 표적 보도다. 흔들리지 않겠다. 반드시 무고를 밝혀내겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 장 의원은 지난달 30일 기자회견을 통해 이번 사건의 본질은 고소인과 고소인의 남자친구간 ‘데이트폭력’이라고 주장하면서 고소인을 추행하지 않았다고 혐의를 부인했다. 그러면서 “이미 증거는 충분하다. 저는 무고, 폭행, 데이트 폭력, 불법 촬영 등 모든 불법에 대해 민형사상 책임을 끝까지 묻고 진실이 규명되도록 무관용 원칙으로 가능한 모든 조치를 다 하겠다”고 했다. &lt;br&gt;&lt;br&gt;장 의원은 지난 2일엔 서울경찰청 민원실을 찾아 고소인 A씨와 당시 현장에 있던 남자친구 B씨를 무고 등의 혐의로 맞고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희에 로저비비에 가방 선물’ 김기현 아내 특검 출석</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/HRBSM7HJIZC7LJLA7O6VIDW7IQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/HRBSM7HJIZC7LJLA7O6VIDW7IQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 01:25:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YXTCM3WRYZJJDG7PSA3XDALCNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 김기현 의원 배우자 이모씨가 5일 김건희 여사의 '로저비비에 클러치백 수수 의혹'을 수사하는 민중기 특별검사팀에 피의자 신분으로 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2023년 김건희 여사에게 260만원대 로저비비에 가방을 건넸다는 의혹을 받는 국민의힘 김기현 의원의 배우자 이모씨가 5일 김건희 특검에 출석했다.&lt;br&gt;&lt;br&gt;이씨는 이날 오전 10시 10분쯤 김건희 특검 사무실이 있는 서울 종로구 KT광화문빌딩 웨스트에 도착했다. 그는 ‘(김 여사에게) 로저비비에 가방을 왜 전달했나’ ‘김기현 의원의 당대표 선거 지원을 요청했나’ 등 취재진 질문에 답하지 않고 조사실로 들어갔다.&lt;br&gt;&lt;br&gt;이씨는 김 의원이 2023년 3월 국민의힘 전당대회에서 당대표로 당선된 뒤 260만원대 로저비비에 가방을 김 여사에게 선물한 것으로 알려졌다. 특검은 김 여사가 국민의힘 전당대회에 개입해 김 의원 당선을 돕고, 김 의원 측이 그 대가로 명품 가방을 제공했다고 의심하고 있다. &lt;br&gt;&lt;br&gt;반면 김 의원은 “여당 대표의 배우자(이씨)로서 대통령 부인에게 사회적 예의 차원에서 선물한 것”이라며 “대표로 당선된 저나 저의 아내가 윤 전 대통령 부부에게 청탁할 내용도 없었고, 그럴 이유도 없었다”고 주장하고 있다.&lt;br&gt;&lt;br&gt;특검은 지난달 20일 서울 강남구의 로저비비에 본사 및 매장이 입점한 서울시 한 백화점을 압수 수색해 구매자 명단과 매출 전표 등을 확보했다. 이보다 앞선 지난달 6일 김 여사의 서울 서초구 아크로비스타 자택 압수 수색 과정에서 해당 손가방과 이씨가 작성한 것으로 보이는 손편지를 발견한 데 따른 강제 수사였다.&lt;br&gt;&lt;br&gt;특검은 이씨를 조사한 후 지난 4일에 이어 11일 다시 피의자로 불러 조사하는 김 여사에게 관련 내용을 물어볼 것으로 보인다. 김기현 의원도 불러 조사할 수도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 한복판에 5만원권 쏟아져...시민들이 보인 행동은</title>
@@ -934,15 +948,6 @@
       <description/>
       <pubDate>Thu, 04 Dec 2025 22:51:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWFS3JDLEWZHXUH3YHAOPVIFSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 사장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박선영 전 진실·화해를위한과거사정리위원회 위원장이 이부진 신라호텔 사장의 아들 교육관을 치켜세우는 소셜미디어(SNS) 글을 올렸다가 논란이 일자 “문제가 없다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;박 전 위원장은 지난 4일 페이스북에 “교육에 관심 많은 엄마들의 단톡방에는 보름 가까이 ‘이부진’이 키워드다”라며 “휘문고 3학년인 이사장의 아들 임모군은 올해 수능을 1개 틀렸다나. 휘문중 다닐 때도 전교 1등을 놓치지 않았다더라”고 썼다.&lt;br&gt;&lt;br&gt;이어 “요즘 돈 좀 있다는 연예인이나 준재벌은 자식들을 너나없이 영어유치원부터 시작해 외국으로 보내려고 기를 쓴다”며 “그런데 돈이 없나, 인맥이 없나, 세상에 부러움 없을 삼성가 상속녀가 아들을 초중고 모두 한국에서 보냈다는 사실에 내가 다 고마울 정도다. 대학도 국내에서 보낼 거라네? 다들 보내고 싶어 하는 의대는 아니고”라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “아무튼 이부진 사장, 맘에 든다. 이 사장 덕분에 부서져 내버린 우리 교육이 좀 제대로 섰으면 좋겠다”며 “이참에 대한민국 교육 좀 제대로 진단하고, 제대로 잡아보자”라고 덧붙였다.&lt;br&gt;&lt;br&gt;임군이 실제로 2026학년도 대학수학능력시험에서 우수한 성적을 거뒀는지는 확인되지 않았으나, 수능 성적 통지일(5일)을 하루 앞둔 이날 온라인상에서 임군의 수능 ‘가채점’ 성적은 뜨거운 화제였다. 임군이 국내 모대학의 특정 학과에 진학할 예정이라는 추측까지 더해졌다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VH5BAZ2LZBNGXLWC3SRSAL27UU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;박선영 전 진실·화해를위한과거사정리위원회 위원장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일각에서는 박 전 위원장이 진실화해위와 무관한 글을 쓴 배경을 두고 설왕설래도 이어졌다. 특히 내년 지방선거와 함께 치러지는 교육감 선거를 염두에 둔 글이 아니냐는 말이 나왔다. 박 전 위원장은 2018년, 2022년 서울시 교육감에 도전했던 이력이 있다.&lt;br&gt;&lt;br&gt;논란이 이어지자 박 전 위원장은 이날 늦은 오후 다시 페이스북에 글을 올렸다.&lt;br&gt;&lt;br&gt;박 전 위원장은 “졸지에 내가 삼성가의 소식통이 됐다”며 자신을 ‘재벌가 가십 소식통’이라고 표현한 한 매체를 겨냥했다.&lt;br&gt;&lt;br&gt;이어 “각종 교육 관련 사이트엔 엄마들이 어제부터 ‘○○고등학교 임모군이 수능 하나 틀렸단다. 의대는 안 간단다’라는 글이 수 백개씩 올라와 뜨겁다”며 “그런 사실도 모르면서 내가 이 글을 올렸다고, 내가 ‘삼성가의 소식통’이라고?”라고 반박했다.&lt;br&gt;&lt;br&gt;그는 “난 이부진 대표를 본 적도 없다. 소식통은커녕. 다만 이 나라의 무너진 교육 현실을 안타까워하는 사람으로서 사실을 있는 그대로 썼을 뿐”이라며 “진화위는 과거사를 정리하는 위원회다. 내가 설사 현직에 있다 해도 교육 문제에 대해서는 얼마든지 글을 쓸 수 있다. 하물며 나는 지금 현직도 아닌데, 뭐가 문제인가”라고 주장했다.&lt;br&gt;&lt;br&gt;박 전 위원장이 이끌었던 2기 진실화해위는 지난달 말 활동을 종료했다. 3기 진실화해위 출범을 위한 ‘진실·화해를 위한 과거사정리 기본법’은 3일 국회 법제사법위원회를 통과해 본회의 상정을 앞두고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조세호, ‘조폭 고가 선물 수수’ 의혹 부인…“아는 사이일 뿐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/7BV6GCZD2VALVMIE5RC3XIIVWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/7BV6GCZD2VALVMIE5RC3XIIVWE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Dec 2025 22:00:22 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H7TB4ELQDOIF7URFYZOBJ2Q5NY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 조세호 ./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 조세호 측이 조직폭력배와의 연루설에 즉각 부인했다.&lt;br&gt;&lt;br&gt;조세호 소속사 A2Z엔터테인먼트는 지난 4일 온라인상에서 제기된 의혹과 관련해 “소셜미디어(SNS)에서 확산 중인 주장은 전혀 사실이 아니다”라며 “거론된 인물은 단순히 아는 사이일 뿐”이라고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 한 SNS계정에는 조세호가 지방의 조직폭력배 핵심 인물로 지목되는 A씨와 친분을 유지하며 고가의 선물을 주고받았다는 주장과 함께 관련 사진이 올라왔다. 사진에는 A씨가 실질적 소유자인 프랜차이즈 식당 앞에서 찍은 조세호의 모습, A씨와 다정하게 찍은 조세호의 모습 등이 담겼다. &lt;br&gt;&lt;br&gt;계정 운영자는 “조직폭력배 두목 A씨가 실질적 소유자인 프랜차이즈에 조세호가 자주 방문하나 보다”라며 “조세호는 반성하라. 지인이라는 핑계로 조직폭력배 일원이 운영하는 프랜차이즈 홍보해주고 거창 지역 최대 폭력 조직 실세인 A씨와 자주 어울려 다니면서 술 마시고 고가 선물 받고 국민 개그맨이 그래도 되는 거냐”고 했다.&lt;br&gt;&lt;br&gt;이 운영자는 A씨가 국내 최대 불법 자금 세탁에 연루된 인물이라는 주장까지 더해 파장을 키웠다.&lt;br&gt;&lt;br&gt;조세호는 2001년 SBS 6기 공채 개그맨으로 데뷔했으며 현재 다양한 예능프로그램에서 고정 출연자로 활발히 활동 중이다. 지난해 10월에는 9세 연하 비연인과 결혼했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“증거 못 내놓고 무리수”… 3대 특검 구속영장, 절반은 기각</title>
