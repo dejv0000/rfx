@@ -13,6 +13,63 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>무효 약정 믿고 가입했어도… 대법 “뒤늦은 분담금 반환 청구 불가”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/07/MZRKTJ7RNJHSTOOH2JDASP3YRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/07/MZRKTJ7RNJHSTOOH2JDASP3YRM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 03:14:34 +0000</pubDate>
+      <content:encoded>주택조합의 환불 보장 약정이 총회 결의를 거치지 않아 무효라 하더라도, 조합 사업이 이미 정상적으로 추진돼 왔다면 수년이 지난 뒤 이를 근거로 분담금 반환을 요구할 수 없다는 취지의 대법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OHAS3ZZDQJJEVOBRATHH3777II.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 서울 서초구 대법원. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 경남 창원의 한 지역 주택 조합원이던 장모씨 등이 조합에 납입금을 돌려달라며 낸 소송에서 원고 일부 승소한 원심 판결을 깨고 사건을 창원지법에 돌려보냈다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;장씨 등은 2015년 6월 분담금을 납부하며 조합가입계약을 체결했다. 이후 2016년 3월부터 2017년 11월까지 추가 분담금을 납부했고, 은행 대출을 받아 중도금까지 납입했다. 그러나 만기일까지 대출을 갚지 못하자, 연대보증을 섰던 조합이 이를 대신 갚았다.&lt;br&gt;&lt;br&gt;조합은 장씨 등을 상대로 구상금 청구 소송을 제기하는 한편 조합원 자격을 제명했다. 이에 장씨 등은 가입 당시 제시된 환불 보장 약정이 총회 결의를 거치지 않아 무효라며 계약을 취소하고 이미 납부한 분담금 반환을 요구하는 소송을 냈다.&lt;br&gt;&lt;br&gt;해당 약정에는 “2015년 12월까지 사업승인 신청을 접수하지 못할 경우 계약금 전액을 환불한다”는 내용이 포함돼 있었는데, 장씨 등은 이를 총회 의결 사항임에도 절차를 거치지 않아 효력이 없다고 주장했다.&lt;br&gt;&lt;br&gt;1·2심은 장씨 등의 주장을 받아들여 조합가입계약이 적법하게 취소됐다고 보고, 조합이 납부받은 분담금을 반환해야 한다고 판결했다.&lt;br&gt;&lt;br&gt;하지만 대법원에서 뒤집혔다. 재판부는 환불 약정이 총회 결의를 거치지 않아 무효라 하더라도, 조합 사업이 정상적으로 진행된 상황에서 제명된 조합원이 뒤늦게 분담금 반환을 요구하는 것은 ‘신의성실의 원칙’에 반해 허용될 수 없다고 판단했다.&lt;br&gt;&lt;br&gt;신의성실의 원칙은 계약과 같이 일정한 법률관계에서는 상대방의 신뢰에 어긋나지 않도록 성실하게 행동해야 한다는 원칙이다. ‘권리의 행사나 의무의 이행은 신의에 좇아 성실히 해야 한다’고 총칙편에 일반원칙으로 제시돼 모든 사인(私人)관계를 포괄적으로 규율하고 있다.&lt;br&gt;&lt;br&gt;대법원은 “조합원이 조합가입계약과 함께 환불보장약정을 체결하는 주된 목적은 계약의 목적 달성 실패로 인한 손해를 최소화하려는 것이지 분담금 반환을 절대적으로 보장받으려는 데 있다고 보기 어렵다”고 했다. 이어 “환불보장약정이 무효로 돼 환불받을 수 없게 됐더라도 약정과 계약의 궁극적 목적인 ‘신축 아파트 소유권 취득’에는 지장이 없는 경우가 있을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;대법원은 결국 사업승인이 이뤄져 환불보장약정의 목적이 달성되고 나아가 주택 건설 사업이 절차에 따라 정상적으로 진행되고 있다면 “이후 그 목적과 취지를 벗어나 환불보장약정의 무효나 그에 따른 조합가입계약의 무효 또는 취소를 주장하는 것은 신의성실의 원칙에 어긋나거나 권리의 남용이 될 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“원장 같아도 두 학원은 별개 사업장”… 법원, 부당해고 구제 소송 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/07/YIDOYBAZURFYTHOHZTZIIW7E3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/07/YIDOYBAZURFYTHOHZTZIIW7E3Q/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 03:11:46 +0000</pubDate>
+      <content:encoded>같은 원장이 운영하는 학원이더라도 장소와 근로자 등이 다르다면 하나의 사업장으로 볼 수 없다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GCYRZGQ2DMNJVHEZTAYTEG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울행정법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정12부(재판장 강재원)는 학원 강사 A씨가 중앙노동위원회(중노위) 위원장을 상대로 낸 부당해고 구제 재심 판정 취소 소송에서 원고 패소 판결했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 12월 서울의 한 보습학원에서 시간강사로 일했지만, 이듬해 2월 학부모 민원으로 해고 통보를 받았다. A씨는 부당해고를 당했다며 서울지방노동위원회에 구제를 신청했으나, 해당 학원이 상시 근로자 5인 미만 사업장이라는 이유로 각하됐다. 중노위 역시 같은 이유로 재심 신청을 기각했다. 상시 근로자 수가 5인 미만인 사업장은 근로기준법상 부당해고 금지와 같은 규정이 적용되지 않는다는 이유였다.&lt;br&gt;&lt;br&gt;A씨는 해당 학원의 원장이 25분 거리의 다른 학원을 운영하고 있고, 두 학원이 1.5km에 불과하고 동일한 취업규칙을 따르고 있다며 사실상 하나의 사업장이라고 주장했다. 그러면서 두 학원의 근로자를 합산하면 상시 근로자 5명을 넘기므로 부당해고 구제 대상이 된다고 했다.&lt;br&gt;&lt;br&gt;하지만 법원은 이를 받아들이지 않았다. 재판부는 “두 학원은 각각 사업자 등록이 돼 있고 장소가 분리돼 있다”며 “두 학원 소속의 시간강사 등 인적 구성이 동일하지 않고, 시간강사들은 각 학원을 특정해 근로계약을 체결했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “원고가 체결한 근로계약서에는 두 학원 사이에 인사 교류에 관한 내용이 포함돼 있지 않다”며 두 학원이 하나의 사업장이라고 인정하기 어렵다고 했다. 원고가 주장한 두 학원의 인원을 합산해 5인 이상 사업장으로 볼 수도 없다는 취지다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>창원 아파트 화재로 60대 부부 숨져…주민 130여 명 대피</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/65QA4LXNR5D6FKQ2GPWSTEET7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/65QA4LXNR5D6FKQ2GPWSTEET7U/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 02:12:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2WKNZSG5QWKZTEMU4TANDBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 2시 36분쯤 불이 나 60대 부부가 숨진 경남 창원시 마산합포구 월영동의 한 아파트. /창원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오전 2시 36분쯤 경남 창원시 마산합포구 월영동의 한 아파트 3층에서 불이 나 60대 부부가 숨지고 130여 명이 대피했다. &lt;br&gt;&lt;br&gt;이날 “아파트 3층에서 연기가 난다”는 신고를 받고 출동한 소방은 48명의 인원과 18대의 장비를 동원해 1시간 만인 오전 3시 38분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;불은 집안 내부 100㎡ 등을 모두 태워 소방서 추산 5500만원의 재산 피해를 냈다.&lt;br&gt;&lt;br&gt;불이 난 아파트는 22층 규모 건물로, 불이 시작된 호실은 16층까지 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;1990년대 지어진 이 아파트는 당시 기준으로 저층부에 스프링클러를 설치해야 하는 대상이 아니었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 전기적인 요인에 의한 화재로 추정하고, 경찰 등과 합동 감식을 통해 정확한 화재 원인을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>출소 1년만에 전자발찌 끊고 도주한 성범죄자, 징역 1년 8개월</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/07/LAZVE3OLWBE67NJQQMDHPLMHLI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/07/LAZVE3OLWBE67NJQQMDHPLMHLI/</guid>
+      <dc:creator>청주=정성원 기자</dc:creator>
+      <description>전자발찌를 끊고 도주한 성범죄자가 다시 철장 신세를 지게 됐다.
+청주지법 형사5단독 강건우 부장판사는 전자장치 부착 등에 관한 법률 위반 혐의로 기소된 A(46)씨에게 징역 1년 8개월을 선고했다고 7일 밝혔다.</description>
+      <pubDate>Sun, 07 Dec 2025 01:23:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKVLLYO2MACAHQI2M6O6T5DPKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경/뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전자발찌를 끊고 도주한 성범죄자가 다시 철장 신세를 지게 됐다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독 강건우 부장판사는 전자장치 부착 등에 관한 법률 위반 혐의로 기소된 A(46)씨에게 징역 1년 8개월을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 22일 충북 청주시 서원구 한 상가 지하에서 공업용 그라인더와 절단기를 이용해 발목에 부착된 전자발찌를 끊고 달아난 혐의를 받고 있다. 그는 대중교통을 이용해 경남 진주·김해를 거쳐 부산까지 이동하며 도주했으나 약 17시간 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2012년 경남의 한 대학교 기숙사에 침입해 다수의 여대생을 상대로 성폭행을 시도한 혐의 등으로 징역 12년과 전자장치 부착 10년 명령을 선고받고 지난해 출소했다.&lt;br&gt;&lt;br&gt;강 부장판사는 “출소 후 1년 남짓 만에 위치추적 전자장치를 절단하고 도주했다”면서 “사전에 범행을 계획까지 한 점을 감안하면 실형 선고가 불가피하다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>지인 흉기로 살해하려 한 40대… 항소심도 징역 4년</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/PUJKXBPIXNHJRDIG4VA3CFJ3TI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/PUJKXBPIXNHJRDIG4VA3CFJ3TI/</guid>
+      <dc:creator>춘천=정성원 기자</dc:creator>
+      <description>자신을 무시했다는 이유로 지인을 살해하려 한 40대가 항소심에서도 징역형을 선고받았다.
+서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인미수 혐의로 기소된 A(47)씨에게 원심과 같은 징역 4년을 선고했다고 7일 밝혔다.</description>
+      <pubDate>Sun, 07 Dec 2025 01:02:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2GEOJQGY2WKNBQGM2TCOBSHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;춘천지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신을 무시했다는 이유로 지인을 살해하려 한 40대가 항소심에서도 징역형을 선고받았다.&lt;br&gt;&lt;br&gt;서울고법 춘천재판부 형사1부(재판장 이은혜)는 살인미수 혐의로 기소된 A(47)씨에게 원심과 같은 징역 4년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 일용직 노동자 인력사무소에서 알게 된 지인 B(55)씨와 술을 마시던 중 흉기로 B씨의 목과 가슴 부위를 베어 살해하려 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨로부터 “술을 마시면서 일은 하지 않는다” “그래서 언제 돈 모으느냐”는 말을 듣자 이에 격분해 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;앞서 1심 재판부는 “피해자의 자상은 생명에 직접적 위험을 초래할 정도로 깊다”며 징역 4년을 선고했다. 검찰과 A씨는 양형 부당을 이유로 각각 항소했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 아직 피해자로부터 용서받지 못했고, 피해 회복을 위한 조치도 확인되지 않는다”면서 “양형을 달리 정할 만한 사정 변경을 찾기 어렵다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>말다툼 끝 지인 폭행해 숨지게 한 30대 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/5XD7LCRT5ND6LAMBME5PRNJJQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/5XD7LCRT5ND6LAMBME5PRNJJQI/</guid>
+      <dc:creator>청주=정성원 기자</dc:creator>
+      <description>지인을 폭행해 의식을 잃게하고도 뒤늦게 신고해 결국 숨지게 한 30대가 검찰에 구속 송치됐다.
+청주 흥덕경찰서는 상해치사 혐의로 30대 A씨를 구속 송치했다고 7일 밝혔다.</description>
+      <pubDate>Sun, 07 Dec 2025 00:58:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지인을 폭행해 의식을 잃게하고도 뒤늦게 신고해 결국 숨지게 한 30대가 검찰에 구속 송치됐다.&lt;br&gt;&lt;br&gt;청주 흥덕경찰서는 상해치사 혐의로 30대 A씨를 구속 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 30일 오후 3시 30분쯤 충북 청주시 흥덕구 자택에서 함께 살던 40대 B씨를 폭행해 숨지게 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그는 B씨가 시끄럽게 생활한다는 이유로 말다툼을 벌이다 이 같은 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 의식을 잃은 사실을 알고도 3시간이 훌쩍 지나서야 경찰에 신고했다. B씨는 병원으로 옮겨졌으나 결국 숨졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에서 “B씨가 이렇게 될 줄은 몰랐다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>수용자 폭력에 무력한 교도관들... 욕은 다반사, 침 뱉고 주먹질도</title>
       <link>https://www.chosun.com/national/2025/12/07/S3XEEXTT25HGFP2IDLJJ2SFUKE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/07/S3XEEXTT25HGFP2IDLJJ2SFUKE/</guid>
@@ -893,49 +950,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZDIMTBGRRWKNBWGJRDSNZRGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구시교육청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 지역 한 사립 고등학교 재학생들이 행정실 등에 침입해 교사와 학생의 개인 정보를 빼낸 사실이 드러나 대구시교육청이 감사를 벌이고 있다. 또 학교 측의 신고로 이들에 대한 경찰 수사도 진행 중이다. &lt;br&gt;&lt;br&gt;5일 대구시교육청에 따르면 토요일인 지난 9월 20일 오후 대구 북구의 한 사립 고등학교에서 이 학교 3학년 5명이 잠겨 있지 않은 이사장실을 통해 교장실과 행정실에 들어가 USB와 외장 하드 등 저장 장치를 훔쳤다. 이들이 훔쳐 나온 저장 장치에는 학생부 등 학생 개인 정보와 교사 50여 명의 주민등록번호, 인사 기록 등이 담긴 것으로 알려졌다. 유출된 학생부는 200여 부로 2000년 이전 자료라고 시교육청은 밝혔다.&lt;br&gt;&lt;br&gt;학교 측은 추석 연휴인 지난 10월 8일 자료를 훔친 학생 중 1명이 학교 방송부실에 나와 있다가 교사와 마주쳤고, 이를 추궁하는 과정에서 저장 장치를 훔친 사실을 확인했다. 이후 학교 측은 경찰에만 신고하고, 대구시교육청에는 알리지 않았다. &lt;br&gt;&lt;br&gt;이를 뒤늦게 알게 된 대구시교육청은 개인정보 등 민감한 내용 등을 암호화 처리하거나 별도 캐비닛 등에 관리하지 않는 등 부실하게 관리한 것으로 해당 학교에 대한 감사를 진행 중이다. &lt;br&gt;&lt;br&gt;대구시교육청 관계자는 “감사와 수사를 통해 학생들이 학생과 개인정보를 빼낸 이유와 경위, 유출 내용 등을 확인하고 있다”면서 “다만, 학생들이 빼낸 자료가 외부에 유출된 정황은 현재까지 없는 것으로 알고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>배우 조진웅, ‘강도·강간’ 소년범 출신 의혹… 소속사 “확인 중”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/LYH7LY4Q7NBVRLPWB3F3E2ASSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/LYH7LY4Q7NBVRLPWB3F3E2ASSQ/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 05:43:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGZUBABPYBBYTE6YNDRNWMW6XA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조진웅이 고등학생 시절 차량 절도 및 성폭행 등 혐의로 소년원에 송치됐었다는 의혹이 보도돼 논란이 일고 있다. 조진웅의 소속사 측은 “보도 내용의 사실 여부를 확인중”이라고 밝혔다. &lt;br&gt;&lt;br&gt;5일 연예 매체 디스패치는 “조진웅이 고등학교 2학년 때 형사재판을 받은 것으로 확인된다”며 “당시 혐의는 특가법상 강도 강간”이었다고 보도했다. &lt;br&gt;&lt;br&gt;이어 제보자의 말을 빌려 “조진웅 패거리들이 훔친 차량에서 성폭행을 시도했다”며 이 사건으로 조진웅이 소년원으로 송치돼 고등학교 3학년의 반을 교정기관에서 보냈다고 보도했다. &lt;br&gt;&lt;br&gt;조진웅이 무명배우로 활동할 당시 극단 동료를 폭행해 벌금형을 받았고, 음주운전을 하다 면허 취소 처분을 당한 전력이 있다는 의혹도 제기됐다. 디스패치는 조진웅이 본명인 조원준 대신 아버지의 이름인 조진웅으로 활동하고 있다면서 제보자들은 범죄 이력을 감추기 위해 이름을 바꾼 것 아니냐고 의심하고 있다고 보도했다. 다만 디스패치는 조진웅의 과거 형사 사건 의혹과 관련한 증거를 공개하지는 않았다. &lt;br&gt;&lt;br&gt;조진웅의 소속사 사람엔터테인먼트 측은 여러 언론에 “보도된 내용에 대해 사실 여부를 확인 중”이라며 “확인되는 대로 공식 입장을 밝히겠다”고 했다. &lt;br&gt;&lt;br&gt;조선닷컴은 이와 관련 소속사 측에 수차례 연락을 취해봤지만 답변을 받지 못했다. 소속사 관계자는 “현재 담당자가 모두 자리를 비웠다”고 했다. &lt;br&gt;&lt;br&gt;조진웅은 2004년 영화 ‘말죽거리 잔혹사’로 데뷔했으며, 영화 ‘암살’, ‘범죄와의 전쟁: 나쁜 놈들 전성시대’, 드라마 ‘시그널’ 등에 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조희대 “사법 개편 그릇되면... 국민에 되돌리기 어려운 피해”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/VJ5NYOS2YBEFDEJ3RREBXZD4SY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/VJ5NYOS2YBEFDEJ3RREBXZD4SY/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 05:28:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V34OMHSY2VKRVA74DI53PDMOUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 5일 서울 서초구 대법원에서 열린 전국법원장회의 정기회의에서 인사말을 하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조희대 대법원장은 5일 “사법제도가 그릇된 방향으로 개편된다면, 그 결과는 우리 국민에게 직접적이며 되돌리기 어려운 피해를 초래할 수 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;조 대법원장은 이날 서울 서초구 대법원에서 열린 정기 전국법원장회의 인사말에서 “사법제도는 국민의 권리를 보호하고 사회 질서를 유지하는 중대한 기능을 수행하는 만큼 한 번 제도가 바뀌면 그 영향이 사회 전반에 걸쳐 광범위하게, 그리고 오랜 세월 지속된다”며 이같이 말했다. &lt;br&gt;&lt;br&gt;이어 “사법제도 개편은 충분한 논의와 공론화 과정을 거친 뒤 이론과 실무를 갖춘 전문가 판단을 바탕으로 신중하게 이뤄지는 것이 바람직하다”고 했다. 이어 오는 9~11일 법원행정처와 법률신문이 공동 개최하는 ‘국민을 위한 사법제도 개편 공청회’에 관심과 참여를 당부했다.&lt;br&gt;&lt;br&gt;조 대법원장은 한편 “사법부는 올해 사회적 혼란 가운데서도 의미 있는 성과와 발전을 이룰 수 있었다”며 형사전자소송시스템 도입과 세종 국제 컨퍼런스 개최를 꼽았다. 이어 “내년도 사법부 예산이 상당 부분 증액됨으로써 법원 구성원의 각종 수당 부족 문제 개선을 비롯해 신속한 재판 지원, 회생법원 이전·설치, 사법부 공간 최적화, 안전한 법원 구현을 위한 보안 강화, 사회적 약자를 위한 차별없는 법원 구현 사업 등 핵심 과제를 보다 충실히 이행할 수 있게 됐다”며 “국회와 정부, 국민 여러분의 지속적인 관심과 지원 덕분”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DSB3A5MB4JLK5CGTGVWD6KIETY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 5일 서울 서초구 대법원에서 열린 전국법원장회의에 참석해 인사말을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 “최근 사법부를 향한 국민의 기대와 요구는 어느 때보다 크고 무겁다”며 “이럴 때일수록 ‘공정하고 신속한 재판을 통한 국민의 기본권 보장’이라는 헌법이 우리에게 부여한 사명을 묵묵히 수행해 내는 것만이, 국민으로부터 신뢰를 회복할 수 있는 유일한 길임을 다시금 마음에 새겨야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;그러면서 “법원장님들께서는 사법행정을 안정적으로 이끌어 주시어, 법원 구성원들이 각자의 역할에 충실할 수 있는 든든한 토대를 마련해 주시기 바라고, 사법부 구성원 여러분들께서도 헌법이 부여한 책무를 수행한다는 자긍심을 가슴에 새기고 맡은 바 소임에 최선을 다해주시기를 당부한다”고 했다.&lt;br&gt;&lt;br&gt;이날 법원장회의는 조 대법원장 인사말을 시작으로 개회했다. 법원장회의는 의장인 법원행정처장을 비롯해 대법원장을 제외한 전국 각급 법원장 37명과 법원도서관장, 사법연수원장 등 43명이 모이는 최고위 법관 회의체다. 이날 회의에서는 최근 더불어민주당 주도로 국회 법사법위원회를 통과한 내란전담재판부 설치와 법 왜곡죄 신설 등 사법부 압박 법안에 대한 대응 방안을 논의한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DWHKNEQKBVKZDLKE6NXCPHMB5M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 전국법원장회의가 열린 서울 서초구 대법원에서 법원장들이 회의장을 향하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/V34OMHSY2VKRVA74DI53PDMOUY.jpg?auth=c66329c2b4688a993358c2a2af3d73fbc0c09fad896774342b915469337939cf&amp;smart=true&amp;width=5658&amp;height=3000" type="image/jpeg" height="3000" width="5658">
-        <media:description type="plain">&lt;YONHAP PHOTO-5011&gt; 조희대 대법원장 전국법원장회의 인사말
-    (서울=연합뉴스) 한종찬 기자 = 조희대 대법원장이 5일 서울 서초구 대법원에서 열린 전국법원장회의 정기회의에서 인사말을 하고 있다. 2025.12.5
-    saba@yna.co.kr/2025-12-05 14:46:30/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
-        <media:credit role="author" scheme="urn:ebu">한종찬</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>부산 학교 111곳 급식 차질… 비정규직 노조 파업</title>
-      <link>https://www.chosun.com/national/regional/2025/12/05/XEZUP2F36JEJJCG2VJCEV52CSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/XEZUP2F36JEJJCG2VJCEV52CSQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 04:40:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIMOQGNIEVJNBET76MLPZFP2OY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;학교 비정규직 노동자들이 총파업에 돌입한 5일 한 초등학교에서 학생들이 대체식으로 점심을 먹고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5일 전국학교비정규직연대회의의 파업으로 부산 지역 일부 학교에서 빵과 우유를 제공하는 등 급식에 차질이 빚어졌다.&lt;br&gt;&lt;br&gt;부산시교육청에 따르면, 이날 조리사·조리실무사 777명과 특수실무원 86명, 영양사 24명 등 1058명이 파업에 참여했다. 조리사 등의 파업 참여로 급식에 차질을 빚는 학교는 전체 669곳 중 111곳으로 나타났다. 이들 학교에는 급식 대신 빵과 음료 등 대체식이 제공됐다.&lt;br&gt;&lt;br&gt;부산 지역 전체 교육공무직원은 1만2606명이다. 파업 참여율은 8.4%로 알려졌다.&lt;br&gt;&lt;br&gt;일부 초등 돌봄 직원들도 파업에 참여했지만, 초등 보살핌 늘봄교실 운영에는 차질이 없는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;부산시교육청 관계자는 “학교의 정상적인 교육 활동 지원을 위해 학교와 긴밀한 협조 체계를 구축해 파업에 대응하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전북서 8년 만에 수능 만점... “스마트폰 멀리하고 매일 책 한 권 읽었죠”</title>
-      <link>https://www.chosun.com/national/education/2025/12/05/OZSLWS4UDVBR7EBDWTCHFMUAFM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/05/OZSLWS4UDVBR7EBDWTCHFMUAFM/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 03:01:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ITBOEYP4ZVDB7NO5RHP7EKKAIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올해 수능에서 수능 전 과목 만점을 받은 이하진군이 도서관에서 칼 세이건의 책 '코스모스'를 들고 포즈를 취하고 있는 모습. 이군은 공부 비결로 스마트폰 대신 책에 빠져 살았던 것이 도움이 됐다고 꼽았다. /표태준 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전주 한일고에 재학 중인 이하진(18)군이 올해 수능 전 과목 만점을 받으며 전북에서 8년 만에 수능 만점자가 나왔다. 올해 수능은 어렵게 출시돼 만점자가 작년보다 6명 줄어든 5명에 불과한데, 3명이 서울이고 나머지 2명이 전북과 광주광역시에서 나왔다.&lt;br&gt;&lt;br&gt;5일 오전 전주 한일고에서 만난 이군은 ‘만점 비결이 뭐냐’는 질문에 망설임 없이 “독서”라고 답했다. 부모님이 모두 교육자인 이군은 초등학교 때부터 고교 입학 전까지 하루에 꼬박 책 한 권은 읽는 ‘독서왕’이었다고 한다. 이군은 “부모님 두 분 모두 독서를 많이 하시고 중요하게 생각하셔 자연스럽게 영향을 받은 것 같다”며 “고등학교 입학 전까지 스마트폰을 사주지 않으셨다 보니 집에서 남는 시간은 대부분 책을 읽으면서 보냈다”고 말했다. 이어 “책을 읽으면서 기른 독해력이 언어 영역 문제를 푸는 데 도움이 됐다. 다양한 배경 지식을 쌓을 수 있어 다른 과목 공부에도 쉽게 흥미를 느낄 수 있었다”고 말했다. &lt;br&gt;&lt;br&gt;인상 깊게 읽었던 책으로 이군은 국제수리과학 연구소장인 김민형 영국 에든버러대 석좌교수가 쓴 ‘수학이 필요한 순간’과 칼 세이건의 ‘코스모스’를 꼽았다. 수학과 과학이 인간의 삶과 어떻게 접목돼 있는지 두 책을 통해 이해하며 수학·과학 공부에 큰 흥미를 느꼈다는 것이다. 최근엔 수험 생활 해방감을 만끽하기 위해 영국 소설가 더글러스 애덤스의 코믹 SF 소설인 ‘은하수를 여행하는 히치하이커를 위한 안내서’를 읽고 있다고 한다.&lt;br&gt;&lt;br&gt;유명 자사고·특목고 출신 또는 이른바 ‘대치동 키즈’가 아니라 지역 일반고를 다니는 학생이 수능 만점을 받은 것은 흔치 않은 일이다. 이군은 “이제는 지방이라고 수능 공부에서 불리하지 않다고 본다”고 말했다. 그는 “요즘은 EBS 강의나 인터넷 강의가 잘돼 있고 좋은 수능 문제집도 많이 나와 있어 서울과 (교육의 질이) 차이가 크지 않은 것 같다”며 “특히 문제를 여러 방식으로 풀어보고 비슷한 문제를 직접 만들어 보는 공부 방식이 큰 도움이 됐다”고 말했다.&lt;br&gt;&lt;br&gt;이군은 중학교 때는 전교에서 15~25등 정도의 상위권이었지만, 고교에 올라와서 최상위권으로 뛰었다고 한다. 지난 5월에 본 모의고사에서도 만점을 받기도 했다. 이군은 비결로 ‘스스로 문제 만들기’를 꼽았다. 이군은 “수업 시간에 선생님이 강조하는 부분을 확인하고 시험에서 어떻게 문제를 출제할지 생각해봤다”며 “이렇게 만든 문제를 친구들에게 풀어보라고 하기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;이군은 학원 등 사교육에도 크게 의지하지 않은 편이다. 수학 점수를 확실히 굳히기 위해 수학 학원 한 곳을 다닌 게 전부라고 한다. 이군은 “자정부터 오전 7시까지 하루 7시간 충분히 잤으며, 학교에서 밤 10시에 야간자율학습이 끝나면 집에서는 공부 대신 게임 등을 하며 스트레스를 풀었다”고 했다. 이어 “스트레스와 건강관리가 중요하다고 생각해 학교나 집 이외 공간에서는 공부하지 않았다”고 했다. 이군은 쉬는 시간 역시 자투리 시간을 이용한 공부보다는 피아노 치기나 축구, 산책 등을 즐겼다고 한다.&lt;br&gt;&lt;br&gt;이군은 이번 수능에서 국어 영역을 가장 어렵게 느꼈다고 한다. 대학교수들이 “지나치게 어렵고 문제에 오류가 있다”고 공개 지적해 논란이 됐던 국어 영억 17번 임마누엘 칸트의 ‘인격 동일성’ 관련 문제가 이군에게도 고비였다. 이군은 “처음에 칸트 문제의 지문이 제대로 읽히지 않아 난감했지만, 어떻게든 노력해서 풀어내고 넘어갔다”며 “국어 영역을 망쳤다고 생각해 귀가 중 어머니 차에서 울컥했는데, 다행히 만점이었다”고 말했다.&lt;br&gt;&lt;br&gt;이군의 꿈은 내과 의사다. 이군은 수시 모집에서 서울대, 가톨릭대, 성균관대 의대를 지원했고, 현재 서울대 의대 면접만 본 상황이다. 이군은 “어렸을 때부터 천식과 비염을 심하게 앓아 호흡기 내과를 자주 다녀야 했다”며 “자연스레 내과에 대한 호기심이 생겼고 ‘사람 살리는 일과 가장 밀접한 과’라는 생각이 들어 내과 의사가 되기로 마음을 먹었다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>뜨거운 한반도, 난대·아열대 신종 식물 14종 확인...미기록종도 83종 발견</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/05/PA7AOYZ62RGBNMMYI4APJ72XTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/05/PA7AOYZ62RGBNMMYI4APJ72XTA/</guid>
@@ -954,15 +968,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3DAODCGVRGKZBYGMZGKOJUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치자금법 위반 혐의로 기소된 윤석준 대구 동구청장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선거관리위원회에 신고하지 않은 계좌에서 선거 비용을 지출한 혐의로 재판에 넘겨져 1심에서 당선 무효형이 선고된 윤석준 대구 동구청장이 항소심에서도 같은 형을 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사항소 2-1부(재판장 김정도)는 5일 윤 청장에 대한 정치자금법 위반 혐의 항소심 선고 공판에서 검찰과 윤 청장이 낸 항소를 모두 기각하고, 원심과 같은 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;선출직 공직자가 정치자금법 위반으로 100만원 이상의 벌금형이 확정되면 당선 무효가 된다. 윤 청장은 전국동시지방선거를 앞둔 지난 2022년 4월 8일 선거관리위원회에 신고하지 않은 본인 명의 계좌에서 선거 비용 5300만원을 받거나 지출한 혐의를 받고 있다. 이 금액 중 3400만원은 홍보 문자메시지 전송비로 지출됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 법령을 잘 몰라 생긴 단순 실수라고 주장하지만, 법령을 잘 몰랐던 것으로 보기 어렵다”며 “여러 사정에 비추어 보면 1심의 형이 너무 가볍거나 무거워 보이지 않고, 1심 이후 사정 변경이 전혀 없다”고 항소 기각 이유를 설명했다. &lt;br&gt;&lt;br&gt;선고 이후 윤 청장은 “동구 주민들에게 죄송하다”고 말했으며, 대법원 상고 여부에 대해서는 “판결문을 읽어보고 (판단하겠다)”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>장경태 고소인, 직접 방송 출연 “신체접촉 분명히 있었다”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/YGZSZ4B4FVGHLCWW3EI7XYTLB4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/YGZSZ4B4FVGHLCWW3EI7XYTLB4/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Dec 2025 23:55:56 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z7YYLQ6XGFFGBCNUIC4HTRME54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송에 직접 출연한 고소인 A씨. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장경태 더불어민주당 의원을 준강제추행 혐의로 고소한 야당 여성 비서관이 직접 방송에 출연해 “신체 접촉이 분명히 있었다”고 주장했다. &lt;br&gt;&lt;br&gt;고소인 A씨는 4일 TV조선에 출연해 “국정감사 기간 중에 비서관들의 술자리가 있었는데 장경태 의원님이 오셨고, 제가 취해 있어서 몸을 잘 가누지 못했는데, 몸을 잘 가누지 못한 저의 신체 여러 곳을 추행했던 사건”이라며 “(신체 접촉은) 분명히 있었다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “전 남자친구가 상황을 목격하고 영상도 찍었고, 제가 고소장을 제출하기 전에 그 자리에 계시던 동료 비서관님들께도 확인을 받았다”며 “(당시 촬영된 영상에) ‘안 돼요’라는 말까지 녹음이 되어 있다. 술에 많이 취해 있긴 했지만 반사적으로 ‘안 된다’는 말이 나온 것 같다”고 했다. &lt;br&gt;&lt;br&gt;사건이 발생한 지 1년 만에 고소에 나선 이유에 대해서는 “당시에는 남자친구의 신상에 불이익을 주겠다고 해서 고소를 못 했었다”며 “권력이 있는 국회의원을 상대로 고소를 하는 것이 부담이 됐고, 고소를 했을 때 그 상황을 상상했을 때 너무 좀 무서웠다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 “최근에 그 자리에 있던 선임비서관에게 성폭력을 당했다. 근데 그 선임비서관이 작년에 장경태 의원 사건도, 본인의 성폭력도 모두 제가 술을 마시고 문제를 일으켰기 때문이라고 비난을 했다고 들었다”며 “거기에 더해서 그 선임비서관이 다른 여성에게도 성범죄를 저지른 혐의가 있다는 사실을 알게 됐다. 저는 더 피해자가 늘면 안 되겠다는 생각이 들어서 용기를 내어 고소하게 되었다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DBUNWAW6ZFIFPHIQ6TZMQSHVWM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;장경태 더불어민주당 의원이 지난 2일 오전 서울 종로구 서울경찰청 민원실에서 고소인을 무고 및 폭행 등으로 고소·고발 전 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장 의원이 ‘이번 사건의 본질은 데이트 폭력’이라고 주장한 것에 대해서는 “전혀 그런 사실이 없다. 제가 다음 날 숙취로 출근을 못 했는데 이걸 마치 감금이나 폭행을 당해 못 나온 것처럼 주장을 하시면서 데이트 폭력이라고 하시는데 그게 무고가 아닌가 하는 생각이 든다”고 했다. &lt;br&gt;&lt;br&gt;장 의원이 자신을 무고로 맞고소한 것에 대해서는 “전형적인 2차 가해 행태라고 본다. 장경태 의원님은 무고죄는 꽃뱀론이라고 비판을 하셨는데 왜 저는 거기에 해당하지 않는 거냐. 추행이 사실이 아니라면 비서관인 제가 무엇을 위해서 여당의 재선 의원을 상대로 고소하겠나”라고 했다. A씨는 지난해 10월 서울 여의도의 한 식당에서 장 의원에게 성추행을 당했다고 주장하고 있다. &lt;br&gt;&lt;br&gt;장 의원은 이날 페이스북을 통해 “대본에 따라 연출된 듯한 ‘녹화 인터뷰’”라며 “진실은 안중에도 없고, 정치인 장경태를 음해하려는 의도가 다분한 표적 보도다. 흔들리지 않겠다. 반드시 무고를 밝혀내겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 장 의원은 지난달 30일 기자회견을 통해 이번 사건의 본질은 고소인과 고소인의 남자친구간 ‘데이트폭력’이라고 주장하면서 고소인을 추행하지 않았다고 혐의를 부인했다. 그러면서 “이미 증거는 충분하다. 저는 무고, 폭행, 데이트 폭력, 불법 촬영 등 모든 불법에 대해 민형사상 책임을 끝까지 묻고 진실이 규명되도록 무관용 원칙으로 가능한 모든 조치를 다 하겠다”고 했다. &lt;br&gt;&lt;br&gt;장 의원은 지난 2일엔 서울경찰청 민원실을 찾아 고소인 A씨와 당시 현장에 있던 남자친구 B씨를 무고 등의 혐의로 맞고소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>서울 한복판에 5만원권 쏟아져...시민들이 보인 행동은</title>
       <link>https://www.chosun.com/national/national_general/2025/12/05/AZNT3KRPTVGQVG27GGGTHTHZJY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/AZNT3KRPTVGQVG27GGGTHTHZJY/</guid>
@@ -970,15 +975,6 @@
       <description/>
       <pubDate>Fri, 05 Dec 2025 00:44:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYTFT72GU5DHPJCFEJRF5XCZ3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;길바닥에 뿌려진 5만원권./인스타그램 'kiki39n'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심 한복판에서 5만원권 지폐가 도로에 뿌려져, 이를 주워 경찰에 돌려줬다는 사연이 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;지난 2일 한 인스타그램 계정에는 “세상에 이런 일이, 바닥에 5만원이 있길래 보니까 차도에 5만원권이 엄청났다”며 “보니까 전체가 다 5만원권이었다”는 글이 사진과 함께 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “뭐에 홀린 듯 차도에 들어가서 막 주웠다”며 “차들도 다 멈춰서 기다려줬다”며 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;공개된 사진에는 길바닥에 다량의 5만원권이 흩어져 있고, 이를 줍는 시민들 모습과 경찰이 현금을 회수하는 장면까지 담겼다. A씨 역시 자신이 주운 5만원권을 모두 경찰에 반납했다고 했다. 그는 “누가 버스에서 뿌렸다고 한다. 차 안에 계신 운전자분이 경찰관분께 ‘저 뒤쪽에 훨씬 많아요!’라고 하셨다”고 덧붙였다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이 사건은 지난 2일 중구 을지로4가 부근에서 벌어졌다. 다만 게시글에서처럼 누군가 버스 안에서 현금을 뿌린 것은 아니고, 횡단보도를 건너던 행인이 실수로 1000만원이 넘는 돈을 흘린 것으로 조사됐다. 해당 시민은 범죄 혐의점이 없어 귀가 조치한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;다량의 현금이 한꺼번에 쏟아지는 소동은 이번이 처음이 아니다. 2016년 2월에는 청주의 한 아파트에서 주민 B씨가 베란다에서 카펫을 털다 650만원을 실수로 떨어뜨려 소동이 벌어졌다. 아파트 주민과 경비원이 떨어진 돈 가운데 580만원을 주워 B씨에게 돌려줬지만, 70만원은 끝내 회수되지 않았다. 2020년 10월에는 서울 서대문구의 한 아파트에서 주민 C씨가 홧김에 5만원권 120장(600만원)을 고층에서 창밖으로 집어던지는 일도 있었다.&lt;br&gt;&lt;br&gt;타인이 실수로 흘린 돈을 가져가면 ‘점유이탈물 횡령죄’로 처벌받을 수 있다. 형법 제360조는 유실물·표류물 또는 타인의 점유를 이탈한 재물을 횡령한 자를 1년 이하의 징역이나 300만원 이하의 벌금 또는 과료에 처하도록 규정하고 있다. 주인이 돈을 일부러 버린 경우에는 주워 가도 법적 처벌을 받지 않는다. 다만 돈을 뿌린 행위에 공공질서를 해칠 의도가 있었다면, 그 돈을 뿌린 사람은 별도의 처벌 대상이 될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>잇단 파업 민주노총, 조합원 수도 줄었다</title>
-      <link>https://www.chosun.com/national/labor/2025/12/04/VODUADZYXFGBTMAD5X3Q5UAWCU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/12/04/VODUADZYXFGBTMAD5X3Q5UAWCU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Dec 2025 12:41:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NJG64PXLD5PPZKEPDZOAO3BJ4A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(광주=뉴스1) 이승현 기자 = 광주시와 시민사회 등으로 구성된 '빛의 혁명 1년, 내란외환종식과 사회대개혁을 염원하는 광주공동체'가 3일 광주 동구 5·18민주광장에서 기자회견을 열고 내란 세력 단죄와 사회대개혁을 촉구하고 있다. 2025.12.3/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난해 민주노총 조합원 수가 전년 대비 8000여 명 줄고, 한국노총은 4만2000여 명 늘어난 것으로 나타났다. 민주노총은 앞서 지난 2020년 한국노총에 제1노총 자리를 내줬는데, 이후 조합원 수 차이가 갈수록 벌어지고 있다.&lt;br&gt;&lt;br&gt;고용노동부는 4일 이 같은 내용을 담은 ‘2024년 전국 노동조합 조직 현황’을 발표했다. 이에 따르면 지난해 민주노총 조합원 수는 전년보다 8036명 줄어든 107만8582명을 기록했다. 반면, 한국노총 조합원 수는 전년 대비 4만2227명 증가한 120만2389명으로 나타났다. 한국노총과 민주노총 조합원 수 차이는 2022년 2만명대에서 2023년 7만명대로 벌어진 상태였는데, 이번엔 12만명대로 격차가 더 확대됐다. 이 같은 현상에 대해 “공공·대기업이 상대적으로 많은 한국노총은 꾸준히 세를 불린 데 반해, 민주노총은 조합원 처우 개선과 상관없는 이념 중심의 정치 파업과 집회 등을 지속하며 조합원이 줄어든 것”이란 분석이 나온다. 양대 노총 등 총연합 단체에 가입하지 않은 조합원 수 역시 2023년 47만9758명에서 지난해 49만1672명으로 늘었다. &lt;br&gt;&lt;br&gt;다만, 내년 3월 노란봉투법 시행으로 이 같은 상황에 반전이 생길 가능성도 제기된다. 앞으로 하청 노조와 원청 업체의 교섭이 가능해지는 만큼, 작은 사업장들에서도 노조가 생겨나면서 한국노총과 민주노총 가입이 크게 증가할 수 있다는 게 전문가들의 대체적 견해다. 하청 업체 노조는 교섭 단위 구성뿐 아니라 원청 업체와의 교섭 대응 전략 수립에 한계가 있을 수밖에 없는데, 교섭력 강화를 위해 양대 노총에 들어갈 가능성이 크다는 것이다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 운세] 12월 5일 금요일 (음력 10월 16일 戊申)</title>
