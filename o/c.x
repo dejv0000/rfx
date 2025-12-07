@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>감사원 지적 누락해 예산 따낸 중앙선관위 직원 2명 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/12/07/EQIOTONRGVB3RI7LXM2ZNIG3HY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/07/EQIOTONRGVB3RI7LXM2ZNIG3HY/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 10:51:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중앙선거관리위원회 직원들이 감사원 지적을 고의로 누락한 채 예산요구서를 꾸며 제출한 혐의로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;경기남부경찰청 반부패·경제범죄수사대는 허위공문서작성 및 행사, 위계공무집행방해 혐의로 중앙선관위 직원 A씨 등 2명을 이달 초 검찰에 송치했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;감사원은 2023년 7월 감사를 통해 중앙선관위가 비상임위원에게 지급한 ‘공명선거추진활동수당’(위원장 매월 290만원, 위원 매월 215만원)에 법적 근거가 없다고 지적한 바 있다. 2019년에도 같은 취지로 “수당 지급을 중단하고 규칙을 개정하라”고 통보했다.&lt;br&gt;&lt;br&gt;하지만 A씨 등은 규칙 개정 이전인 2020년 기획재정부에 제출한 2021년도 예산 요구서에서 이러한 감사원 지적 사항을 기재해야 하는 의무가 있음에도 고의로 누락한 것으로 조사됐다. 이 예산은 국회와 기재부 심의를 그대로 통과했고, 중앙선관위는 감사원 지적 이후에도 2022년 11월까지 비상임위원 15명에게 총 6억5000만원을 지급한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;비상임위원 수당은 지난해 1월 선관위법 개정으로 지급 근거가 마련됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>삼척서 25인승 버스 도로 이탈…중상 3명·경상 6명</title>
+      <link>https://www.chosun.com/national/incident/2025/12/07/5ZME5LI5UBG6RHCHDVE5W2L7E4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/07/5ZME5LI5UBG6RHCHDVE5W2L7E4/</guid>
+      <dc:creator>김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 11:36:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGMNJYGU3DMMRUME3TEMJRMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차량. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 오후 강원 삼척에서 25인승 버스가 도로를 이탈하는 사고가 나 9명이 다쳤다.&lt;br&gt;&lt;br&gt;소방당국에 따르면, 이날 오후 4시 54분쯤 삼척시 원덕읍 임원항 인근 도로에서 달리던 버스가 도로 밖으로 벗어나며 사고가 발생했다. 이 사고로 60대 여성 A씨 등 승객 3명이 중상을 입었다. 6명은 통증 등을 호소해 병원에서 치료를 받고 있다. 사고 당시 버스에는 총 20명이 탑승한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 버스가 어떤 경위로 도로를 이탈했는지 목격자 진술과 차량 기록 등을 토대로 정확한 사고 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>박나래 ‘주사 이모’, 의사 가운 올리며 “나에 대해 뭘 안다고”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/07/CBOU5GCO7REETKMBAIV34TJ5BI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/07/CBOU5GCO7REETKMBAIV34TJ5BI/</guid>
@@ -945,24 +963,6 @@
       <description/>
       <pubDate>Fri, 05 Dec 2025 08:38:06 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EL4MLAYHQVFYPBJY6KB7VW2OKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;메이플은 최근 자신의 소셜미디어에 만삭 화보를 공개했다. /카카오톡&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기독교복음선교회(통칭 JMS) 정명석 총재의 성폭행 피해자 메이플(30)이 곧 출산을 앞둔 근황을 전했다. &lt;br&gt;&lt;br&gt;메이플은 최근 자신의 소셜미디어에 만삭 화보 사진을 올렸다. 그는 왼손 네 번째 손가락에 결혼반지를 끼고, 오른손에는 장미꽃을 든 채 자신의 배를 보며 웃고 있다. &lt;br&gt;&lt;br&gt;이와 관련 메이플은 “이 큰 배를 보면 진짜로 뿌듯하다”며 “엄마의 사랑과 희생을 절실히 깨닫고 내 몸의 능력에 감탄하고, 다음 단계가 정말 기대된다”고 밝혔다. 이어 “절대 애를 낳지 않겠다고 결심한 내가 결국 이 길을 가게 된 게 인생은, 그리고 인간은 알 수 없다는 것을 다시 한번 증명한다”고 했다. 그러면서 “결혼하자마자, 애를 갖고 싶다고 하자마자 바로 임신했다”며 “올해에는 결혼, 대법원 판결, 임신, 책 출판, 첫 미니 전시회까지. 뿌듯하다”고 했다. &lt;br&gt;&lt;br&gt;지난 1월 JMS 총재 정명석(80)은 메이플을 추행하거나 성폭행한 혐의 등으로 기소돼 대법원에서 징역 17년의 확정판결을 받았다. 당시 메이플은 “정의가 진짜 있다는 것을 알게 됐다”며 “모든 게 끝났으니 이제 새롭게 시작할 수 있을 거라 생각한다”고 소회를 밝혔다.&lt;br&gt;&lt;br&gt;이후 메이플은 아픔을 극복하고 자신의 행복을 찾기 위해 노력하고 있다. 지난 2월 수영 선수 출신 홍콩 가수 팡리선과 결혼했고, 8월에는 또 다른 피해를 막기 위해 자신의 경험을 담은 책 ‘흔적’을 출간했다. 10월에는 자신의 그림으로 작은 전시회를 열었다. 또한 12월 딸 출산을 앞두고 있다. &lt;br&gt;&lt;br&gt;메이플은 ‘출산을 앞둔 소식을 기사화해도 되겠냐’는 조선닷컴의 물음에 4일 “물어봐 주셔서 감사하다”며 “기쁜 소식이기에 보도되어도 괜찮다”고 답했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>환경미화원 상대 갑질…양양군 공무원 구속</title>
-      <link>https://www.chosun.com/national/regional/gangwon/2025/12/05/E7AIKB6RGJACFIXDVV33VCYQMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/gangwon/2025/12/05/E7AIKB6RGJACFIXDVV33VCYQMU/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 08:46:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WULJDAEZCBK4FCPEO4KIVBC6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양군 소속 7급 운전직 공무원 A씨가 5일 춘천지법 속초지원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경미화원을 상대로 갑질을 했다는 의혹을 받은 강원 양양군 공무원이 구속됐다.&lt;br&gt;&lt;br&gt;춘천지법 속초지원 배다헌 영장 전담 판사는 5일 강요와 폭행, 협박, 모욕 등 혐의를 받는 양양군 소속 7급 운전직 공무원 A씨에 대한 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;배 판사는 “증거인멸과 도주 우려가 있다”며 이같이 결정했다. &lt;br&gt;&lt;br&gt;이날 오후 법원에 출석한 A씨는 “아직도 장난이라고 생각하나” “혐의를 인정하나”라는 취재진 질문에 아무런 대답을 하지 않았다.&lt;br&gt;&lt;br&gt;A씨는 공무직과 기간제 근로자 신분인 환경미화원 3명에게 60차례에 걸쳐 강요하고, 60차례 폭행, 10차례 협박, 7차례 모욕 등 직장 내 괴롭힘을 했다는 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 이른바 ‘계엄령 놀이’를 하며 폭력을 행사하고, 청소차에 태우지 않고 출발해 달리게 하거나 특정 색상 속옷 착용도 강요했다.&lt;br&gt;&lt;br&gt;지난달 25일 피해자의 고소장을 접수한 경찰은 지난 2일 첫 소환조사를 마친 뒤 지난 3일 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [예쁜 말 바른 말] [421] ‘어깃장’과 ‘어긋장’</title>
-      <link>https://www.chosun.com/national/nie/2025/11/26/NCEQDIMJVZCT7FECRJX6J3AUFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/11/26/NCEQDIMJVZCT7FECRJX6J3AUFU/</guid>
-      <dc:creator>류덕엽 교육학 박사·전 서울 양진초 교장</dc:creator>
-      <description/>
-      <pubDate>Tue, 25 Nov 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRUUV4NVBF5PENETUJSKLUJYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 지역 주민이 (어깃장, 어긋장)을 놓으면서 송전선 건설 사업이 10년 가까이 지연됐다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말은 무엇일까요? 정답은 ‘어깃장’입니다.&lt;br&gt;&lt;br&gt;‘어깃장’은 남의 말이나 행동을 고의로 방해하거나 맞서기 위해 내세우는 반대되는 말이나 행동을 뜻합니다. ‘서로 길을 어긋나게 지나치다’라는 뜻의 동사 ‘어기다’의 어간에 ‘막대기’를 뜻하는 명사 ‘장(杖)’이 결합해 생긴 말입니다. &lt;br&gt;&lt;br&gt;널빤지로 문을 짤 때 이어붙인 나무판이 어그러지지 않도록 대각선으로 붙인 굵은 나무를 가리키는 건축 용어이기도 해요. 문짝에 대각선으로 나무를 박는 것은 비뚤어지고, 순순하지 않다는 부정적 의미를 떠올리게 하죠. 그래서 남을 고분고분 따르지 않고 버틸 때나 어떤 일을 어그러지게 하거나 방해하는 상황을 ‘어깃장을 놓다(치다)’라고 표현합니다.&lt;br&gt;&lt;br&gt;‘어긋나다’라는 말을 떠올리면서 ‘어긋장’으로 잘못 쓰는 경우가 있는데, 이는 강원·전남 지역의 방언이고, 경남 지역에서는 ‘어굿장’ ‘뻐글장’이라고 쓰기도 한대요. [어기짱] [어긷짱]이라고 발음이 나기 때문에 ‘어깃짱’ ‘어기짱’으로 쓰는 경우도 있는데 이 역시 틀린 표기예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문] &lt;/b&gt;&lt;br&gt;&lt;br&gt;- 그녀는 기자에게 자기가 원하는 대로 보도하지 않으면 인터뷰를 진행하지 않겠다며 어깃장을 놓았다.&lt;br&gt;&lt;br&gt;- 회의 중 사사건건 어깃장을 치며 진행을 방해하는 방청객에게 의장이 경고를 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>휴일에 학교 들어가 학생·교사 개인 정보 빼낸 고3… 경찰 “수사 중”</title>
