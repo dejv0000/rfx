@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“박나래 ‘주사이모’ 나왔다는 포강의대는 유령대학”…의사들 반발</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/08/2HZDXULGIZDRRNLEJPDWZDYQUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/08/2HZDXULGIZDRRNLEJPDWZDYQUY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 22:19:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BK26RXR6DBBQZMNAJB7XPEDEEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 박나래와 '주사 이모' A씨. /뉴스1, 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래(40)에게 불법 의료 행위를 했다는 의혹이 제기된 ‘주사이모’로 알려진 A씨가 자신이 내몽고 포강의과대학병원을 나왔다고 주장하자, 국내 의사단체가 “포강의대는 실체 없는 유령 의대”라며 진상 규명을 요구했다.&lt;br&gt;&lt;br&gt;공정한사회를바라는의사들의모임(공의모)은 7일 성명을 내고 “박나래씨의 ‘주사 이모’로 알려진 A씨는 불법 의료행위를 부인하며 인스타그램을 통해 자신이 ‘내몽고 포강의과대학병원에서 교수로 역임했다’고 주장했으나 확인 결과 ‘포강의과대학’이라는 의과대학은 존재하지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;공의모는 “내몽고는 중국 33개 성급 행정구역 중 하나다. 중국 의과대학 수는 집계 방식에 따라 162개에서 171개로 확인된다”며 “중국 의대 인증 단체인 전국개설임상의학전업적대학 자료에 따르면 현지에는 의과대학 162개가 있다. 내몽고에 위치한 의과대학은 내몽고의과대학, 내몽고민족대학 의과대학, 내몽고적봉의대(치펑의대), 내몽고포두의대(바오터우의대) 네 곳뿐”이라고 했다.&lt;br&gt;&lt;br&gt;또 공의모는 세계의학교육협회(WFME)가 운영하는 전 세계 학부 의학 교육 프로그램의 검색 데이터 베이스인 ‘월드 디렉토리 오브 메디컬 스쿨스’(World Directory of Medical Schools) 등 추가 근거도 제시했다. 이곳에서 확인되는 중국 171개 의과대학 등 다른 모든 집계에서도 내몽고 소재 의과대학은 위 네 곳 뿐이었으며, 포강의과대학은 어떤 명단에도 존재하지 않았다는 것이다.&lt;br&gt;&lt;br&gt;특히 공의모는 “중국 의과대학 졸업자는 한국 의사국가시험 응시 자격이 부여되지 않는다. A씨가 설령 중국에서 인정된 의대를 졸업하고 중국 의사면허를 가지고 있다 하더라도, 한국은 중국 의과대학 졸업자를 인정하지 않는다”며 “중국 의대 졸업자가 한국에서 의사면허를 취득하는 것은 원천적으로 불가능하며, 한국에서 의료행위를 한 경우 명백한 불법”이라고 지적했다.&lt;br&gt;&lt;br&gt;그러면서 “의사가 아니어도 ‘의대 교수’ 직함을 사용할 수는 있다. A씨가 해당 명칭을 사용했다 하더라도, 의사 신분 여부는 별도로 확인할 필요가 있다. 철저한 조사가 필요하다”고 밝혔다.&lt;br&gt;&lt;br&gt;박나래는 ‘주사이모’로 불리는 A씨에게 의료기관이 아닌 일반 가정집 등에서 수액을 맞거나 우울증 치료제를 대리 처방받는 등 불법의료 행위를 받았다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;이에 박나래 측은 “의사 면허가 있는 분에게 영양제 주사를 맞은 게 전부”라며 “스케줄이 바빠 힘들 때마다 왕진을 요청한 것”이라고 해명했다.&lt;br&gt;&lt;br&gt;박나래 측 해명에도 불법 의료 논란이 커지자 A씨도 인스타그램에 중국 내몽고 병원에서 의사 가운을 입고 찍은 사진을 올리며 “12~13년 전 내몽고라는 곳을 오가며 힘들게 공부했고, 내몽고 포강의과대학병원에서 내·외국인 최초로 최연소 교수까지 역임했다”고 주장했다. 다만 국내에서 의료 활동을 할 수 있는 정식 면허를 갖췄는지에 대해서는 구체적으로 밝히지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>통일교 본부장 “대선 때 양쪽에 정치자금 댔다”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/08/XUUJ7CFVAJENNFKWBEI3QK6M6Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/08/XUUJ7CFVAJENNFKWBEI3QK6M6Q/</guid>
@@ -843,19 +852,6 @@
       <description/>
       <pubDate>Fri, 05 Dec 2025 15:52:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;이상영&lt;/b&gt; 별세, &lt;b&gt;한경희&lt;/b&gt;·&lt;b&gt;한승희&lt;/b&gt; 前 국세청장 모친상=4일18시30분 삼성서울병원, 발인 7일6시, (02)3410-3151&lt;br&gt;&lt;br&gt;▲&lt;b&gt;조판규&lt;/b&gt; 前 HACCP 컨설팅 사업부 대표 별세, &lt;b&gt;조남석&lt;/b&gt; 술도가 제주바당 이사·&lt;b&gt;조남희&lt;/b&gt; 주식회사 파란공장 대표 부친상, &lt;b&gt;김민주 &lt;/b&gt;시부상, &lt;b&gt;조예후&lt;/b&gt;·&lt;b&gt;조해인&lt;/b&gt; 조부상=4일16시 서울아산병원, 발인 7일7시40분, (02)3010-2000&lt;br&gt;&lt;br&gt;▲&lt;b&gt;하평완&lt;/b&gt; 前 한국은행 은행국장 별세, &lt;b&gt;김정윤&lt;/b&gt; 남편상, &lt;b&gt;하경수&lt;/b&gt; 아이디언스 전무·&lt;b&gt;하정수&lt;/b&gt; 하나은행 차장 부친상=4일20시20분 신촌세브란스병원, 발인 7일8시, (02)2227-7500&lt;br&gt;&lt;br&gt;▲&lt;b&gt;한상명&lt;/b&gt; 별세, &lt;b&gt;신정숙&lt;/b&gt;·&lt;b&gt;신인숙&lt;/b&gt;·&lt;b&gt;신승근&lt;/b&gt; 래빗츠원 대표·&lt;b&gt;신봉근&lt;/b&gt; 정보통신산업진흥원 수석 모친상, &lt;b&gt;김영식&lt;/b&gt;·&lt;b&gt;윤우영&lt;/b&gt; 장모상, &lt;b&gt;유종원&lt;/b&gt;·&lt;b&gt;도병옥&lt;/b&gt; 시모상=5일10시20분 고대안암병원, 발인 7일13시, (02)923-4442&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>735억 번 복싱 챔피언, 4억 안 내 벨트 박탈?</title>
-      <link>https://www.chosun.com/national/people/2025/12/06/HJXP23DZ5VGZHGKGK7ODYMNECA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/06/HJXP23DZ5VGZHGKGK7ODYMNECA/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZMSFXYRTNMSZPAB4BWMIK5T2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 수퍼미들급 4대 기구 통합 챔피언에 오른 테런스 크로퍼드가 챔피언 벨트 여러 개를 뽐내고 있다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9월 13일(현지 시각) 미국 라스베이거스 얼리전트 스타디움에 7만여 관중이 들어찬 가운데 복싱 빅매치가 펼쳐졌다. 복싱 4대 기구(WBC·WBA·IBF·WBO) 수퍼미들급(76.2㎏) 통합 챔피언 카넬로 알바레스(35·멕시코)의 아성에 수퍼웰터급(69.85㎏) 챔피언 테런스 크로퍼드(38·미국)가 두 체급을 올려 도전한 것이다. 결과는 크로퍼드의 3대0 전원일치 판정승. 그는 알바레스의 챔피언 벨트를 모두 가져오며 새로운 수퍼미들급 통합 챔피언에 등극했다. 이 경기는 넷플릭스를 통해 약 4100만명의 복싱 팬들이 지켜봤다. &lt;br&gt;&lt;br&gt;그런데 경기가 끝난 지 약 80일이 흐른 지난 3일, 4대 기구 중 하나인 WBC(세계복싱평의회)가 크로퍼드의 챔피언 자격을 박탈했다. 이유는 그가 ‘타이틀 승인료(sanctioning fee)’를 내지 않았기 때문이다. 이 승인료는 챔피언 타이틀전을 치르는 복서가 주관 기구에 내는 일종의 수수료로, 보통 대전료와 상업 수익 등을 합한 총수익의 3%를 납부한다. 이 비용은 기구 운영비나 복서 복지를 위한 기금으로 조성되기도 한다. 크로퍼드나 알바레스처럼 세계 정상급 복서들은 수익 규모가 워낙 크기 때문에 3%를 다 내기보다 주관 기구와 협의를 통해 적정 수준의 금액을 부담하는 것이 관례다.&lt;br&gt;&lt;br&gt;WBC는 크로퍼드에게 그가 이번 대결로 벌어들인 것으로 알려진 5000만달러(약 735억원)의 0.6%인 30만달러(약 4억 4000만원)를 타이틀 승인료로 요구했다. 그러나 크로퍼드는 이 금액을 석 달 가까이 내지 않았고 WBC의 연락에도 응답을 하지 않아 챔피언 자격을 박탈했다는 게 WBC 측 설명이다.&lt;br&gt;&lt;br&gt;크로퍼드가 돈이 없어서 승인료를 내지 않은 것은 아니다. 이를 두고 수퍼스타와 복싱 기구 간의 자존심 싸움이라는 해석이 나온다. 크로퍼드는 자신의 소셜 미디어 라이브 방송을 통해 “다른 세 기구는 내가 제시한 금액을 그대로 받았다. WBC는 뭐가 더 잘났다고 더 많은 돈을 요구하는가”라며 “그딴 챔피언 벨트는 필요 없다”며 욕설까지 섞어 강하게 비난했다.&lt;br&gt;&lt;br&gt;정상급 복서와 경기 주관 기구가 타이틀 승인료를 두고 기싸움을 벌인 건 이번이 처음이 아니다. 미국의 전설적인 무패 복서 플로이드 메이웨더 주니어(48)는 2015년 매니 파키아오를 꺾고 WBO(세계복싱기구) 웰터급 챔피언에 올랐지만, WBO가 요구한 타이틀 승인료 20만달러(약 2억9000만원)를 내지 않았다. WBO는 승인료 미지급과 더불어 메이웨더가 WBC와 WBA에서 여러 체급 타이틀을 동시에 보유해 규정을 어겼다는 이유로 그의 벨트를 빼앗았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PZMSFXYRTNMSZPAB4BWMIK5T2Q.jpg?auth=bd1817efcb3aa3a0bd04d1f4323265207f9d01b42963c084c73c3f93eff3d72c&amp;smart=true&amp;width=4642&amp;height=3313" type="image/jpeg" height="3313" width="4642">
-        <media:description type="plain">지난 9월 수퍼미들급 4대 기구 통합 챔피언에 오른 테런스 크로퍼드가 챔피언 벨트 여러 개를 뽐내고 있다./AFP 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">HARRY HOW</media:credit>
-      </media:content>
     </item>
     <item>
       <title>와인 잔에 담긴 ‘그리스도의 피’</title>
