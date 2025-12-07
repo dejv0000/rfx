@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[속보] 이 대통령, 새 감사원장 후보에 김호철 변호사 선임</title>
+			<description>&lt;p&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/213919.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;</description>
+			<pubDate>Sun, 07 Dec 2025 04:24:08 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/213919</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213919</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213919.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 분담금 환불 약정 무효더라도 뒤늦은 반환요구 신의칙 위반</title>
 			<description>지역주택조합이 조합원에게 '기한 내 사업승인 신청을 못 하면 계약금을 환불하겠다'고 약정했더라도, 이후 사업이 정상적으로 진행되고 조합원이 상당 기간 추가 분담금까지 납부하며 계약을 유지해 왔다면 뒤늦게 약정 무효를 이유로 분담금 반환을 청구하는 것은 신의성실의 원칙에 반해 허용될 수 없다는 대법원 판결이 나왔다.&lt;p&gt;&amp;nbsp; &lt;br /&gt;대법원 민사1부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1308"&gt;마용주&amp;nbsp;&lt;/span&gt;대법관)는 11월 6일 조합원 A 씨 등이 B 지역주택조합을 상대로 제기한 납입금 반환 소송(&lt;b&gt;2025다212956·212957&lt;/b&gt;)에서 분담금 반환을 인정한 원심을 파기하고 사건을 창원지법으로 돌려보냈다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;A 씨 등은 2015년 B 조합에 가입해 분담금을 납부하고 조합으로부터 "2015년 12월까지 사업승인신청을 접수하지 못하면 환불한다"는 환불보장약정 확약서를 교부받았다. 그러나 사업승인 신청은 2016년 5월에 이루어졌다. 이후 중도금 대출과 연체, 조합의 대위변제가 이어지며 조합은 A 씨 등을 조합원에서 제명했다.&lt;/p&gt;&lt;p&gt;이에 A 씨 등은 "환불약정이 총회 결의 없이 이루어져 무효인데, 유효하다고 착오해 조합가입계약을 체결했다"며 "이는 중요 부분의 착오에 해당하므로 조합가입계약도 취소돼야 한다"며 납입금 반환을 청구했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1·2심은 원고 승소 판결했다. &lt;br /&gt;1·2심은 "환불보장약정은 조합원 분담금 반환을 전제로 하는 만큼 조합 재산을 감소시키는 효과가 있어 총유물 처분행위에 해당한다"며 "조합규약상 총회 의결사항인데 조합은 결의를 거치지 않았으므로 약정은 무효"라고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;이어 "조합원이 환불보장약정이 무효임을 알았다면 가입계약을 체결하지 않았을 것이고, 환불보장약정과 가입계약은 경제적·사실적으로 일체를 이루는 하나의 계약관계 약정이 무효이므로 전체 계약도 무효"라고 설명했다.&lt;br /&gt;수년간 환불을 요구하지 않다가 뒤늦게 취소·무효를 주장하는 것은 신의칙 위반이라는 조합의 주장에 대해서도 "약정 무효를 알 수 없었던 사정 등을 고려하면 신의칙 위반이라 보기 어렵다"고 판단했다&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원 판단은 달랐다. 대법원은 환불보장약정이 총회 결의 없는 총유물 처분행위로 무효가 될 수 있다는 점은 인정하지만, 사업이 정상적으로 진행됐고 조합원이 장기간 계약을 유지하며 추가 납입까지 한 사정이 있다면 사후적으로 계약 무효를 주장하며 전액 반환을 요구하는 것은 허용되지 않는다고 판단했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;재판부는 "조합원이 조합가입계약과 함께 환불보장약정을 체결하는 주된 목적은 조합가입계약의 목적 달성 실패로 인한 손해를 최소화하려는 것이지 분담금 반환을 절대적으로 보장받으려는 데 있다고 보기 어렵다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "조합원이 환불보장약정의 무효나 그에 따른 조합가입계약의 무효 또는 취소를 주장하지 않고 있는 동안 환불보장약정에서 환불의 소극적 조건으로 삼은 절차가 결국 이행돼 환불보장약정의 목적이 달성되고 나아가 주택건설사업이 무산될 우려 없이 절차에 따라 정상적으로 진행되고 있다면, 그 후 조합원이 환불보장약정의 목적과 취지를 벗어나 환불보장약정의 무효 및 그에 따른 조합가입계약의 무효 또는 취소를 주장하는 것은 신의성실의 원칙에 어긋나거나 권리의 남용이 될 수 있다"고 판시했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 07 Dec 2025 00:08:57 -0000</pubDate>
@@ -229,16 +239,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213893</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213893.jpg</media:thumbnail>
 			<dc:creator>한민아 기자</dc:creator>
-		</item>
-		<item>
-			<title>"중재는 이제 국가경쟁력"</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/213913.jpg" alt="345345.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;신현윤 대한상사중재원장·김준성 법무부 국제법무지원과 검사 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;“중재는 더 이상 분쟁 해결 방식이 아니라 국가 경쟁력입니다.”&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;신현윤(&lt;span style="color: #535353;"&gt;사진 왼쪽&lt;/span&gt;) 대한상사중재원장은 12월 4일 서울 서초구 양재동 aT센터에서 열린 ‘Law Expo Seoul 2025 (LES 2025)’ 행사에서 ‘소송에서 중재로’를 주제로 강연하면서 이 같은 시각을 제시했다. 신 원장은 “한국 기업이 해외에서 소모하는 중재 비용은 국가적 손실”이라며 “중재 산업의 육성은 단순한 제도 개선이 아니라 국가 손실을 줄이기 위한 경제 전략”이라고 강조했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국의 중재 시장은 선진국에 비해 규모나 활성화 정도에서 상당히 뒤쳐져 있다. 대한상사중재원에 따르면, 중재 신청 금액이 가장 컸던 2023년을 기준으로 보더라도 국내 사건은 314건, 국제 사건은 54건이 접수됐다. 규모는 총 1조5715억 원이었다. 이듬해(2024년)에는 중재 신청 건수가 349건으로 줄었고, 분쟁 금액은 7417억 원으로 전년 대비 반 토막 났다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;반면 세계적인 중재기관인 싱가포르국제중재센터(SIAC)에는 2023년 663건이 접수됐고, 분쟁 금액의 규모는 약 119억 달러(한화 15조5414억 원가량)로 한국과 10배 정도 차이를 보였다. 2024년에도 625건의 중재 신청이 있었고, 이 가운데 국제 사건은 566건으로 전체의 90%가 넘었다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;한국 중재 시장 발전을 위한 방안도 신 원장은 제시했다. 전직 대법관 등 고위 법관을 상임중재인으로 위촉해 전문성과 일관성을 강화하고, 공공기관의 중재 활용을 제도적으로 장려하기 위해 법무부와 협의 중이라고도 밝혔다. 그는 “공공기관 경영평가에 중재·조정을 포함한 대안적 분쟁해결(ADR) 활용도를 평가 항목에 반영하는 방안을 법무부와 논의하고 있다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법무부는 전문 인력을 확보하는 데도 노력하고 있다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="27321"&gt;김준성&lt;/span&gt;(사법연수원 44기·&lt;span style="color: #535353;"&gt;사진 오른쪽&lt;/span&gt;) 법무부 국제법무지원과 검사는 12월 3일 LES 2025에서 강연하면서 “론스타 사건은 한국 국제중재 역사에서 성공적 선례지만, 이를 얻기까지 13년이 걸렸다”며 “국제중재가 한 번 개시되면 수억 원에서 수조 원까지 혈세가 투입될 수 있는 만큼 전문 인력 확보가 필수”라고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;그는 법무부 국제법무국에서 운영하는 ‘청년 법조인 해외 진출 아카데미’와 ‘해외 파견 실무 과정 글로벌 펠로우십’을 소개했다. 김·장 법률사무소 등 대형 로펌 소속 변호사와 서울대 등 로스쿨 교수들이 국제중재 실무 중심 강의를 제공하는 과정이다. 아카데미를 수료하면 글로벌 펠로우십을 통해서 미국, 일본, 홍콩, 두바이, 독일 등 해외 로펌과 국제 기구 등에서 근무할 기회를 얻을 수 있다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;조한주 기자&amp;nbsp; &amp;nbsp;aweek@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;한민아 기자&amp;nbsp; &amp;nbsp;hma@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 05 Dec 2025 20:09:16 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/213913</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/213913</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/213913.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
