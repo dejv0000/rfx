@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박나래 ‘주사 이모’, 의사 가운 올리며 “나에 대해 뭘 안다고”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/07/CBOU5GCO7REETKMBAIV34TJ5BI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/07/CBOU5GCO7REETKMBAIV34TJ5BI/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 08:09:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BK26RXR6DBBQZMNAJB7XPEDEEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그우먼 박나래와 '주사 이모' A씨. /뉴스1, 인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그우먼 박나래(40)가 매니저 상대 갑질·횡령 폭로에 이어 불법 의료 행위를 받았다는 의혹이 제기된 가운데, 박나래에게 항우울제 등 약물을 공급했다는 일명 ‘주사 이모’ A씨가 직접 입을 열었다.&lt;br&gt;&lt;br&gt;A씨는 7일 인스타그램에 글을 써 “12~13년 전 내몽고라는 곳을 오가면서 힘들게 공부했고 내몽고 포강의과대학병원에서 내·외국인 최초로 최연소 교수까지 역임했다”며 “병원장님과 성형외과 과장님의 배려와 내몽고 당서기의 적극적인 도움으로 한국 성형센터까지 유치할 수 있었다”고 주장했다.&lt;br&gt;&lt;br&gt;이어 “센터장으로서 한국을 알리기 위해 방송 인터뷰와 강연도 마다하지 않았고 열심히 삶을 살았다”며 “그러다 2019년 말 코로나가 터졌고 내몽고의 모든 걸 포기할 수밖에 없었다. 몸도 마음도 아팠다”고 했다. 그러면서 박나래의 전 매니저를 겨냥해 “매니저야, 네가 나의 살아온 삶을 아냐. 나에 대해 뭘 안다고 나를 가십거리로 만드냐”고 했다.&lt;br&gt;&lt;br&gt;이 게시물에서 A씨는 의사 가운을 입은 사진 여러 장도 함께 게시했다. 수술복을 입고 집도 중인 것으로 보이는 사진도 있었다. 방송 인터뷰 화면을 찍은 영상과 강연 현장을 촬영한 모습도 추가했다. 다만 국내에서 의료 활동을 할 수 있는 정식 면허를 갖췄는지에 대해서는 구체적으로 밝히지 않았다.&lt;br&gt;&lt;br&gt;앞서 연예 매체 디스패치는 전날 박나래가 ‘주사 이모’ A씨에게 항우울제 등 약을 공급받았고 의료 기관이 아닌 A씨 자택이나 차량에서 주사 및 링거를 맞았다고 보도했다. 박나래가 해외 일정에 A씨를 동행하거나, 공항으로 A씨를 불러 수액을 맞은 적 있다고도 했다. A씨가 박나래 전 매니저에게 보낸 “처방전 모으고 있다” “(약을) 문고리에 해놓았음” 등 메시지도 공개됐다.&lt;br&gt;&lt;br&gt;다만 박나래 측은 “(주사 이모는) 의사 면허가 있는 의사분으로 알고 있다”며 “관련 보도들이 나와 저희도 더 확인하려고 하는데 그분과 아직 연락이 닿지 않았다”고 밝혔다. 해외 일정 동행을 두고도 “당시 가까운 지인으로서 해외 촬영 현장을 경험해보고 싶다고 해 따라갔던 건 사실이나, 촬영이나 의료 행위와는 무관한 개인적 일이었다”고 반박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/3KIT2MTMOVDANP4DN5OJZD36EY.jpg?auth=77afb3405cab7bf95571e29cf72b14863ce85ad73bc6249a8c8c6fd9e07255dc&amp;smart=true&amp;width=875&amp;height=656" type="image/jpeg" height="656" width="875">
+        <media:description type="plain">개그우먼 박나래와 '주사 이모' A씨. /뉴스1, 인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>월 100만원 이상 받는 국민연금 수급자 100만명 돌파... 제도 시행 37년 만 </title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/07/4TJ6AYC5YND5JOHOUQSTV4CJIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/07/4TJ6AYC5YND5JOHOUQSTV4CJIE/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 06:09:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TGLISZKQAWLS5ZGW6HQKZFB7JU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;역대 최고 수익률 실현한 국민연금&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금을 매달 100만원 이상 받는 가입자가 처음으로 100만명을 넘어섰다. 국민연금 제도가 1988년 시행된 지 37년 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6MLODY62XVDT5JBWX763FMNCNI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;7일 국민연금공단에 따르면, 올 8월 말 기준 국민연금을 월 100만원 이상 받는 수령자는 100만4147명으로 집계됐다. 이 중 99%가 일정 연령(현재 63세)에 도달했을 때 연금 수급을 시작하는 노령연금 가입자였다. 연금 제도가 도입된 지 40년을 향해가고, 이에 맞춰 가입자들의 납입 기간도 늘어나면서 월 수급액도 계속 증가하는 추세다. 납입 기간이 길수록 낸 보험료가 많아져, 나중에 받는 연금액 역시 커지기 때문이다. 월 100만원 이상 수급자는 지난 2016년만 해도 약 13만명이었지만, 2020년 34만명을 거쳐 지난해 약 86만명으로 증가했다. &lt;br&gt;&lt;br&gt;올 8월의 경우, 월 수령액 100만~130만원 미만이 43만5919명, 130만~160만원 미만이 26만2130명, 160만~200만원 미만이 22만1705명, 200만원 이상이 8만4393명으로 확인됐다. 특히 올해는 월 300만원 넘게 수령하는 가입자가 처음 나왔는데, 8월 기준으로 총 16명이 여기에 해당됐다. 이 중 최고액은 월 318만5040원으로 나타났다. &lt;br&gt;&lt;br&gt;300만원 이상 고액 수령자들은 연금 제도 시행 초기부터 가입해 30년 이상 보험료를 납입한 데다, 대부분 ‘노령연금 연기 제도’를 활용했다고 한다. 이는 연금이 나오기 시작하는 시점을 최대 5년까지 늦춰 받는 제도로, 이를 통해 수령액을 늘린 것이다. &lt;br&gt;&lt;br&gt;한편, 올해 가입하는 직장인(연금 보험료 9% 가정)이 노령연금을 100만원 이상 받으려면 직장 생활 30년 기준으로 월평균 소득액이 357만원을 넘어야 한다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[속보] 내란 특검, ‘계엄 해제 방해’ 추경호 불구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/07/C6XRRV4JUNAMFFPGGHJD5DK3AU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/07/C6XRRV4JUNAMFFPGGHJD5DK3AU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 07:08:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3TONLBMNQTANZUG4YWEMBQGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 해제 표결 방해 의혹을 받는 추경호 국민의힘 의원이 지난 2일 밤 서울 서초구 서울중앙지법에서 열린 구속영장 실질심사를 받은 후 대기 장소인 서울구치소로 향하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;추경호 국민의힘 의원이 12·3 비상계엄 당시 윤석열 전 대통령의 요청을 받아 국회의 계엄 해제 표결을 방해한 혐의 등으로 7일 불구속 기소됐다. 내란 특검이 청구한 추 의원 구속영장이 법원에서 기각된 지 나흘 만이다.&lt;br&gt;&lt;br&gt;내란 특검은 이날 추 의원을 내란 중요 임무 종사 혐의로 불구속 기소했다고 밝혔다. 특검은 추 의원이 당시 여당 원내대표로서 작년 12월 3일 계엄 선포 한 시간쯤 뒤인 밤 11시 22분 윤 전 대통령과 2분가량 통화하며 계엄 협조 요청을 받고, 이후 국민의힘 의원총회 장소를 여러 차례 바꿔 의원들의 계엄 해제 표결을 방해했다고 판단했다.&lt;br&gt;&lt;br&gt;박지영 특검보는 “피고인은 여당 원내대표로서 윤 전 대통령의 비상계엄 유지 의사를 조기에 꺾게 만들 수 있었던 유일한 사람이었음에도 윤 전 대통령의 계엄 유지 협조 요청을 받고 아무런 조치를 하지 않았다”고 했다. 이어 “(국회) 본회의 개의를 알고도 의원총회 소집 장소를 당사로 변경해 국회의원들의 발길을 돌리게 하고, 본회의장에 있던 의원에게는 ‘밖으로 나오라’는 메시지를 전달했다”며 “이는 윤 전 대통령이 군인과 경찰을 동원해 국회를 봉쇄하고 본회의장에 들어가는 의원들을 끌어내려는 행위를 한 것과 동일하게 평가될 수 있다”고 했다. 추 의원이 윤 전 대통령의 계엄 협조 요청을 받아들여 적극적으로 불법적인 비상계엄에 동조했다는 것이다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달 3일 같은 혐의로 추 의원 구속영장을 청구했지만 지난 3일 기각됐다. 법원은 “법리에 다툼의 여지가 있어 면밀하고 충실한 법정 공방을 거친 뒤 판단을 하는 것이 타당하다”고 했다. 추 의원 행위가 내란 중요 임무 종사로 인정될 만큼 소명이 이뤄지지 않았다고 본 것이다. 이에 대해 특검은 객관적으로 드러난 사실관계에 비춰보더라도 혐의를 적용하는 데 문제가 없다는 입장이다.&lt;br&gt;&lt;br&gt;박 특검보는 “추 의원은 (계엄 당시) 윤 전 대통령의 전화를 받고 ‘계엄을 빨리 해제해달라’고 말한 적이 없다”고 했다. 또 추 의원이 실질적으로 의원총회 개최를 할 의사도 없었다고 판단했다고도 했다.&lt;br&gt;&lt;br&gt;반면 추 의원은 계엄 당시 윤 전 대통령의 협조 요청을 받은 적 없다는 입장이다. 추 의원 측은 이날 입장문에서 “(구속영장 심질심사 당시) 영장 전담 판사는 계엄 선포 후 1시간 지나서야 윤 전 대통령과 단 2분 남짓 통화한 것 만으로 내란 중요 임무 종사라는 중범죄에 가담했다고 할 수 있는지 의문을 제기했다”며 “특검은 혐의를 소명하지 못해 구속영장 청구가 기각됐음에도 불구하고 아무런 추가 증거 없이 정치 기소를 강행했다”고 했다.&lt;br&gt;&lt;br&gt;특검은 또 이날 황교안 전 국무총리에 대해서도 내란 선동 특수공무집행 방해 혐의로 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 12월 8일 월요일 (음력 10월 19일 辛亥)</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/07/PPBOT7OMHBAYZNPYHDYOC3L55M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/07/PPBOT7OMHBAYZNPYHDYOC3L55M/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
+		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
+멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
+		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
+		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>1인 가구 40% 시대.. 송파구,‘나홀로족’위해 전국 최초 0.6L 음쓰 봉투 도입</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/07/FYK4ANZQ2FDUFJVBLJ63VHGW6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/07/FYK4ANZQ2FDUFJVBLJ63VHGW6A/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 06:31:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74G5XAG6VNB3BB5J6KBDUHHMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽이 서울 송파구에서 새로 제작해 시범 판매하는 0.6L 용량의 음식물쓰레기 봉투. 오른쪽의 1L 용량의 봉투에 비해 크기가 확연히 작다./송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구가 전국 지자체 최초로 0.6L 규격의 음식물쓰레기 종량제봉투를 오는 10일부터 시범 도입해 운영한다고 7일 밝혔다. 기존 최소 규격인 1L는 1인 가구가 혼자서는 한 번에 채우기 어렵고, 매번 버리기에는 낭비가 많은 크기라 새로 작은 크기로 만든 것이다. &lt;br&gt;&lt;br&gt;구 관계자는 “1L보다 작은 용량의 봉투가 필요하다는 주민들의 목소리를 구정에 적극 반영했다”고 했다. 최소단위가 0.6L인 이유에 대해서는 “쓰레기봉투 제작업체와 협의한 결과 0.5L는 음식물쓰레기를 담았을 때 봉투 입구가 제대로 다물어지지 않기 때문에 가장 작은 단위로 배출할 수 있는 최적용량으로 정했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UN4N7PZL5HM3FQPTTKBB3FPSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 0.6L 용량 음식물쓰레기 종량제봉투 제작 판매 시범사업 안내/송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;송파구의 1인 가구는 2024년 기준 총 8만9720명으로 서울 자치구에서 3번째로 많다. 전체 가구 수 중 1인 가구 비율도 33.5%로 높은 편이다. 행정안전부가 지난 5월 발간한 ‘2025 행정안전통계연보’에 따르면 우리나라 작년 1인 가구는 1012만 가구로 전체 가구 수의 36.1%였다.&lt;br&gt;&lt;br&gt;특히 송파구 내 1인 가구는 연립·다세대주택 거주 형태가 3만여 가구로 가장 많은데, 일반주택가의 음식물쓰레기는 아파트 등과 달리 전용 배출 용기에 종량제봉투를 담아 버리는 방식으로 처리된다. 이에 송파구는 1인 가구를 위한 맞춤형 봉투를 제작한 것이다. &lt;br&gt;&lt;br&gt;송파구는 내년 3월 31일까지 관내 1인 가구가 많은 일반 주택동인 방이2동, 송파1동, 삼전동, 잠실본동, 석촌동에서 0.6L 음식물쓰레기 봉투 판매를 시범적으로 진행한 뒤 확대 여부를 결정할 예정이다. 0.6L의 가격은 10매(한 묶음)당 600원으로 1L봉투보다 1매당 40원 저렴하다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>음주 운전 도중 차량 4대 들이받고 도주한 20대 입건</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/5KFYFJBCEZE3DJG7OPMSB6CZ6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/5KFYFJBCEZE3DJG7OPMSB6CZ6I/</guid>
+      <dc:creator>청주=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 05:30:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTDGYTDGQ2DSYRSHAZTIYRVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주상당경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주 상당경찰서는 음주 운전을 하다가 사고를 내고 도주한 혐의(도로교통법 위반 등)로 20대 남성 A씨를 불구속 입건해 조사하고 있다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 11시 15분쯤 청주시 서원구 모충동의 한 도로에서 승용차를 몰다가 주행 중인 차량 1대와 인근에 주차된 차량 3대를 잇달아 들이받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 피해 차량 운전자 1명이 다쳤으나, A씨는 사고를 낸 뒤 아무런 조치를 하지 않고 현장을 벗어났다가 약 1시간 30분 만에 경찰에 자수했다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준인 0.11%였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘기업 회생 전 임금 체불’ 신태양건설 대표에 징역형 집유</title>
       <link>https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</guid>
@@ -903,56 +965,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRUUV4NVBF5PENETUJSKLUJYU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정서용&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;* 지역 주민이 (어깃장, 어긋장)을 놓으면서 송전선 건설 사업이 10년 가까이 지연됐다. &lt;/b&gt;&lt;br&gt;&lt;br&gt;괄호 안에 들어갈 말은 무엇일까요? 정답은 ‘어깃장’입니다.&lt;br&gt;&lt;br&gt;‘어깃장’은 남의 말이나 행동을 고의로 방해하거나 맞서기 위해 내세우는 반대되는 말이나 행동을 뜻합니다. ‘서로 길을 어긋나게 지나치다’라는 뜻의 동사 ‘어기다’의 어간에 ‘막대기’를 뜻하는 명사 ‘장(杖)’이 결합해 생긴 말입니다. &lt;br&gt;&lt;br&gt;널빤지로 문을 짤 때 이어붙인 나무판이 어그러지지 않도록 대각선으로 붙인 굵은 나무를 가리키는 건축 용어이기도 해요. 문짝에 대각선으로 나무를 박는 것은 비뚤어지고, 순순하지 않다는 부정적 의미를 떠올리게 하죠. 그래서 남을 고분고분 따르지 않고 버틸 때나 어떤 일을 어그러지게 하거나 방해하는 상황을 ‘어깃장을 놓다(치다)’라고 표현합니다.&lt;br&gt;&lt;br&gt;‘어긋나다’라는 말을 떠올리면서 ‘어긋장’으로 잘못 쓰는 경우가 있는데, 이는 강원·전남 지역의 방언이고, 경남 지역에서는 ‘어굿장’ ‘뻐글장’이라고 쓰기도 한대요. [어기짱] [어긷짱]이라고 발음이 나기 때문에 ‘어깃짱’ ‘어기짱’으로 쓰는 경우도 있는데 이 역시 틀린 표기예요.&lt;br&gt;&lt;br&gt;&lt;b&gt;[예문] &lt;/b&gt;&lt;br&gt;&lt;br&gt;- 그녀는 기자에게 자기가 원하는 대로 보도하지 않으면 인터뷰를 진행하지 않겠다며 어깃장을 놓았다.&lt;br&gt;&lt;br&gt;- 회의 중 사사건건 어깃장을 치며 진행을 방해하는 방청객에게 의장이 경고를 내렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>술 마시고 운전하다 사고 낸 현직 경찰관 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/12/05/TYCRYAJ4HVC7XJZM7MKR7K7NEY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/05/TYCRYAJ4HVC7XJZM7MKR7K7NEY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 08:36:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTMOJTMVRTSOLEMUYDQMBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술을 마시고 운전하다 사고를 낸 현직 경찰관이 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;인천 중부경찰서는 도로교통법상 음주운전 혐의로 공항경찰단 소속 순경 30대 남성 A씨를 불구속 입건했다고 5일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 전날 오전 1시 35분쯤 인천시 중구 운서동의 한 도로에서 술을 마시고 운전하다가 중앙분리대를 들이받고, 신호 대기 중이던 택시를 추돌한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨의 당시 혈중알코올농도는 면허 정지(0.03% 이상~0.08% 미만) 수치였던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 직위 해제된 상태”라며 “추가 조사 등 후속 절차를 밟게 될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한양대, 국내 최초 ‘말레이시아 유학생 동문회’ 출범</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/YBOEMVLA6FGCXJVPKXLWFLACJY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/YBOEMVLA6FGCXJVPKXLWFLACJY/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 08:05:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4TANDEHE3DMOLCGA4DQYRYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일 말레이시아 쿠알라룸푸르 힐튼 호텔 센트럴볼룸에서 말레이시아 유학생 동문회 창립식이 열렸다./한양대학교&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대학교는 국내 대학 최초로 말레이시아 유학생 동문회를 창설했다고 5일 밝혔다. 중국 유학생 동문회에 이은 두 번째 해외 유학생 동문 조직 설립이다. 한양대는 “외국인 유학생을 유치하는 것에서 나아가 글로벌 동문 네트워크를 강화함으로써 체계적인 졸업생 관리에 힘쓰겠다”고 했다.&lt;br&gt;&lt;br&gt;지난달 29일 말레이시아 쿠알라룸푸르에서 열린 창립식에는 이기정 총장, 최중섭 대외협력처장, 김한성 국제처장을 비롯해 말레이시아 유학생 동문, 말레이시아 한인 동문, 재학생 등 약 140명이 참석했다. 이날 행사에서 이 총장은 “글로벌 동문 네트워크 강화는 세계 100위권 대학으로 진입하기 위한 핵심 전략”이라며 “재학생, 동문, 지역 사회가 함께 성장하는 선순환 구조를 말레이시아에서도 만들어 갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;한양대는 국내에서 유학생을 많이 유치하는 대학 중 하나다. 지난해에는 8000명 이상의 외국인 유학생이 입학했다. 1980년대부터 말레이시아 정부 장학사업(MARA·JPA)과 자체 장학 제도를 통해 현지 우수 인재를 꾸준히 유치해 왔다. 지난 30여 년간 400명이 넘는 말레이시아 유학생을 배출한 바 있다.&lt;br&gt;&lt;br&gt;초대 동문회장으로는 공과대학(Universiti Teknologi) 아미누딘 아바(Aminudin Aba) 교수가 선출됐다. 동문회는 향후 정기 모임, 직무 특강, 멘토링, 모교 방문 프로그램 등을 운영해 동문 간 연대를 강화하고, 동문 기업과 연계한 일자리 정보 공유와 현지 기관 협력 사업 발굴 등을 통해 한양대의 국제 경쟁력 강화에 기여하겠다는 계획을 밝혔다. 현지 사회에 기여하는 장학 및 사회공헌 활동도 추진할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검, ‘구속 후 조사 거부’ 웰바이오텍 전 대표 강제구인</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/MOG5S3HJHBCNDITUUZMBMSLXIQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/MOG5S3HJHBCNDITUUZMBMSLXIQ/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 08:01:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDMMZRMMYGMY3DHFTDGNLFMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구세현 전 웰바이오텍 대표가 지난 7월 13일 서울 종로구 윤석열 전 대통령 배우자 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀 사무실에 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 주가 조작 혐의로 구속 기소된 후 출석 요구에 응하지 않던 구세현 전 웰바이오텍 대표를 5일 강제 구인해 조사 중이다.&lt;br&gt;&lt;br&gt;법조계에 따르면 김건희 특검은 이날 오후 1시쯤 경기 의왕의 서울구치소에 수감 중인 구 전 대표에 대한 체포영장을 집행해 서울 종로구 KT광화문빌딩 웨스트의 사무실로 구 전 대표를 데려와 조사하고 있다.&lt;br&gt;&lt;br&gt;특검은 구 전 대표를 상대로 도주한 후 구속 기소된 이기훈 전 삼부토건 부회장을 도운 경위 등을 조사 중인 것으로 전해졌다. &lt;br&gt;&lt;br&gt;특검은 특정경제범죄 가중처벌법상 배임과 자본시장법 위반 혐의로 구 전 대표를 지난달 14일 구속 기소했다. 구 전 대표는 웰바이오텍 양남희 회장·박광남 부회장, 삼부토건 이일준(구속) 회장과 이기훈 전 부회장 등과 공모해 주가 조작으로 302억여 원의 부당이득을 취한 혐의를 받고 있다. 이들은 2022년 9월∼2023년 5월 웰바이오텍이 우크라이나 재건 사업에 참여하고, 짐바브웨에서 리튬 수입 사업을 할 것처럼 투자자를 속여 주가를 인위적으로 부양한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;구 전 대표는 재판에 넘겨진 후 건강상의 이유로 특검 출석 요구에 불응해 왔다. 특검이 체포 후 청구했던 양 회장의 구속영장은 지난달 16일 기각됐다. 박 부회장은 지난 7월 미국으로 출국한 후 귀국하지 않고 있어 인터폴 적색 수배가 내려지고 여권 무효화 조치도 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘8억대 뇌물’  전준경 민주연 前부원장 2심 징역 3년…1심보다 늘어</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/S2MRIDSMAVDFFIOQNSEQZQIRUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/S2MRIDSMAVDFFIOQNSEQZQIRUI/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 07:51:54 +0000</pubDate>
-      <content:encoded>백현동 개발 업자 등으로부터 8억원대 금품을 받은 혐의로 기소된 전준경(59) 전 민주연구원 부원장이 2심에서 징역 3년을 선고받았다. 1심(징역 2년 6개월)보다 형량이 다소 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDSNJSHA4WGMRRMJSTAOJXGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전준경 민주연구원 전 부원장 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 형사1부(재판장 윤성식)는 5일 뇌물수수·특정범죄가중처벌법상 알선수재 혐의로 기소된 전 전 부원장에게 징역 3년을 선고했다. 1심이 선고한 벌금 5200만원과 추징금 8억808만원은 유지됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인이 계속 자문 행위를 했다고 하는데 과연 여러 업체에 한 자문 행위가 합계 8억에 해당하는지 매우 의문스러울 수밖에 없다”며 “피고인이 지위를 이용해서 그러한 대가를 받았다고 볼 수밖에 없다”고 지적했다.&lt;br&gt;&lt;br&gt;전 전 부원장은 2015년 7월부터 2023년까지 국민권익위원회 비상임위원 등으로 재직하면서 부동산 개발업체 7곳으로부터 권익위 고충 민원 해결과 지자체 인허가 알선을 명목으로 7억8208만원과 고급 승용차를 받은 혐의로 지난해 4월 기소됐다. 이 중 1억여 원과 승용차는 백현동 개발 비리에 연루된 정바울 아시아디벨로퍼 회장이 건넨 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또 2017년 경기 안산시 신길온천 개발 사업과 관련한 업체의 권익위 고충 민원을 해결해 준 대가로 2600만원을 받은 혐의도 있다. 전 전 부원장은 2015∼2018년 권익위 비상임위원, 2020년 용인시정연구원장, 2021년 더불어민주당 싱크탱크 민주연구원의 부원장을 지냈다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 12월 6일 토요일 (음력 10월 17일 己酉)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/TMQ7Q7MVUJDOZMDEHJWUGDAKF4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/TMQ7Q7MVUJDOZMDEHJWUGDAKF4/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
-		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
-멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
-		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
-		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>휴일에 학교 들어가 학생·교사 개인 정보 빼낸 고3… 경찰 “수사 중”</title>
       <link>https://www.chosun.com/national/regional/2025/12/05/XTHKKS5LTNAMZJ2XHW7PI5WNCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/XTHKKS5LTNAMZJ2XHW7PI5WNCU/</guid>
@@ -969,15 +981,6 @@
       <description/>
       <pubDate>Fri, 05 Dec 2025 01:40:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PXKOX6T7GREAHDI2S7NC2XC3M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미기록종 '방울유령란'. /국립산림과학원 난대·아열대산림연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 난대·아열대 신종(新種) 식물이 14종 발견된 것으로 5일 확인됐다. 온난화 여파로 한반도가 뜨거워지면서 세계적으로 보고되지 않았던 난대·아열대 속성의 식물이 나타난 것이다.&lt;br&gt;&lt;br&gt;5일 국립산림과학원 난대·아열대산림연구소에 따르면, 2011년부터 올해 11월까지 15년 간 제주도와 남해안·울릉도 일대를 대상으로 난대·아열대 신종 및 미기록종 식물을 연구한 결과, 신종 14종과 미기록종 83종 등 총 97종이 새로 발견됐다. 신종은 세계적으로 처음 밝혀진 새로운 종, 미기록종은 다른 나라에 분포하는 것은 알려졌으나 우리나라에선 처음으로 기록되는 종을 의미한다. 알려졌으나 우리나라에선 처음으로 기록되는 종을 뜻한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B7PIX6ZJORCFRPP2BFT4GJJTO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신종 '울릉꽃장포'. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SYAQMXKCBVE5VJAMLKIMPB3SIQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;신종 '좀목포사초'. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보통 신종은 해당 식물이 발견된 지역명을 딴다. 울릉도 나리분지에서만 서식하는 것으로 확인된 ‘울릉꽃장포’는 울릉과 꽃장포(습기가 있는 바위에서 자라며 겨울을 이겨내고 여러해 생존하는 풀)를 합친 것이다. 지리산 노고단 등 바위가 많은 환경에서 자라는 ‘좀목포사초’는 기존 ‘목포사초’ 보다 크기가 작다는 의미로 앞에 ‘좀’이 붙었다. 제주 서귀포시 돈내코에서 발견된 ‘탐라까치수염’, 남해안에서 발견된 ‘남도분취’ 등도 지역이 담겨있다.&lt;br&gt;&lt;br&gt;미기록종은 해외에서 보고된 학명(學名)을 따르되, 이름만 듣고도 직관적으로 이해할 수 있도록 형태를 이름에 담는 경우가 많다. 제주시 구화읍 저수지에서 발견된 ‘가시연꽃’, 인도·말레이시아 등지에서 넘어온 하얗고 반투명한 ‘방울유령란’ 등이 대표적이다. ‘영주풀’ ‘긴영주풀’처럼 제주의 옛 지명인 영주를 딴 이름도 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ETF2MP7EYRA4TKEJUAI72J5LWY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;가시연꽃. /국립생물자원관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIVUSBRMFJDJHGYGMNOKXVIFC4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;긴영주풀. /국립산림과학원 난대·아열대산림연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;외래 열대·아열대 생물은 주로 제주도 같은 더운 섬으로 들어와 번식한 후 점차 내륙으로 진출하게 된다. 토종 생물도 내륙이 뜨거워지면서 서식 범위를 넓히게 된다. 우리나라에선 제주 서부 곶자왈에만 살던 ‘빌레나무’가 남부지방 전역으로 분포될 가능성이 커지고 있다. &lt;br&gt;&lt;br&gt;임은영 난대·아열대산림연구소 연구사는 “기후변화에 따라 우리나라 전역의 아열대화가 빠르게 진행되고 있어 새로운 식물종 연구를 통한 외래종 이입 관리, 토종 식물 보전 등 대책 수립이 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정치자금법 위반 혐의 윤석준 대구 동구청장… 항소심서도 당선무효형</title>
-      <link>https://www.chosun.com/national/regional/2025/12/05/JIPC76HIQFCT5G5DOKLYJOCA6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/JIPC76HIQFCT5G5DOKLYJOCA6Q/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 01:55:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3DAODCGVRGKZBYGMZGKOJUHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정치자금법 위반 혐의로 기소된 윤석준 대구 동구청장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;선거관리위원회에 신고하지 않은 계좌에서 선거 비용을 지출한 혐의로 재판에 넘겨져 1심에서 당선 무효형이 선고된 윤석준 대구 동구청장이 항소심에서도 같은 형을 선고받았다.&lt;br&gt;&lt;br&gt;대구지법 형사항소 2-1부(재판장 김정도)는 5일 윤 청장에 대한 정치자금법 위반 혐의 항소심 선고 공판에서 검찰과 윤 청장이 낸 항소를 모두 기각하고, 원심과 같은 벌금 200만원을 선고했다.&lt;br&gt;&lt;br&gt;선출직 공직자가 정치자금법 위반으로 100만원 이상의 벌금형이 확정되면 당선 무효가 된다. 윤 청장은 전국동시지방선거를 앞둔 지난 2022년 4월 8일 선거관리위원회에 신고하지 않은 본인 명의 계좌에서 선거 비용 5300만원을 받거나 지출한 혐의를 받고 있다. 이 금액 중 3400만원은 홍보 문자메시지 전송비로 지출됐다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 법령을 잘 몰라 생긴 단순 실수라고 주장하지만, 법령을 잘 몰랐던 것으로 보기 어렵다”며 “여러 사정에 비추어 보면 1심의 형이 너무 가볍거나 무거워 보이지 않고, 1심 이후 사정 변경이 전혀 없다”고 항소 기각 이유를 설명했다. &lt;br&gt;&lt;br&gt;선고 이후 윤 청장은 “동구 주민들에게 죄송하다”고 말했으며, 대법원 상고 여부에 대해서는 “판결문을 읽어보고 (판단하겠다)”라고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>서울 한복판에 5만원권 쏟아져...시민들이 보인 행동은</title>
