@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘기업 회생 전 임금 체불’ 신태양건설 대표에 징역형 집유</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 05:02:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 중견 건설사 ‘신태양건설’ 대표가 기업 회생 신청에 앞서 수개월간 현장 근로자들의 임금과 퇴직금을 체불한 혐의로 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 근로기준법과 근로자퇴직급여 보장법 위반 등 혐의로 기소된 안모 대표에게 징역 1년 6개월에 집행유예 2년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;안 대표는 작년 5~9월 근로자 18명의 임금과 퇴직금 등 2억1800여 만원을 체불한 혐의를 받는다. 체불이 발생한 현장은 경남 양산과 사천, 통영, 경북 경산, 강원 양양 등이다.&lt;br&gt;&lt;br&gt;관련법에는 근로자가 퇴직하면 14일 이내에 임금 등을 지급해야 하지만 안 대표는 일부 금액만 지급한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;심 부장판사는 “피고인이 자백하며 반성하고 있고, 체불된 임금과 퇴직금을 지급하기 위해 노력하고 있는 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;1995년 설립된 신태양건설은 토목, 건축, 주택 분야에서 업력을 쌓았다. 누리마루 APEC 하우스와 아미산 전망대 등을 시공하며 이름을 알렸다. 작년 시공능력 평가액 기준으로 부산에서 7위를 차지했다.&lt;br&gt;&lt;br&gt;하지만 경영난으로 작년 11월 부산회생법원에 기업 회생을 신청했고, 법원은 올 1월 회생 절차 개시를 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>만취 운전자가 몰던 승용차, 식당으로 돌진...인명 피해는 없어</title>
+      <link>https://www.chosun.com/national/incident/2025/12/07/PS3FRGEASZBQFJX6LDPBVGXOMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/07/PS3FRGEASZBQFJX6LDPBVGXOMM/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 04:30:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/23L5WIFSERF2FIU55UU7OMOSHM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 부산 기장군 장안읍 한 도로에서 60대 남성이 몰던 승용차가 식당으로 돌진하는 사고가 발생했다. /기장경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만취 상태로 차량을 몰다 상가로 돌진한 60대 남성이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;7일 부산 기장경찰서에 따르면, 이날 오전 5시 55분쯤 기장군 장안읍 한 도로에서 60대 남성 A씨가 몰던 승용차가 교통 표지판을 충돌한 뒤 식당으로 돌진했다. 이 사고로 인명 피해는 없었다고 한다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 A씨를 상대로 음주 측정을 실시한 결과, 그의 혈중알코올농도는 면허 취소 수치(0.08%&lt;i&gt; &lt;/i&gt;이상)를 넘어선 0.174%의 만취 상태였다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 도로교통법상 음주운전 혐의로 입건해 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>환자 태운 구급차, 전봇대 들이받아...구급대원 등 4명 경상</title>
+      <link>https://www.chosun.com/national/regional/2025/12/07/55CIKQU6DFCS5DLMTFDOHKASHY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/55CIKQU6DFCS5DLMTFDOHKASHY/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 04:20:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNABOTPENFAE5LZZM23PCLQX6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 8시 20분쯤 창원시 마산회원구 합성동 한 도로에서 환자를 태우고 달리던 119구급차가 인도 위 전봇대와 도로 표지판을 들이받는 사고가 나 구급대원 3명이 경상을 입었다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 환자를 태운 구급차가 전봇대를 들이받아 구급대원 등 4명이 이송됐다.&lt;br&gt;&lt;br&gt;7일 창원소방본부와 마산동부경찰서에 따르면, 이날 오전 8시 20분쯤 창원시 마산회원구 합성동 한 도로에서 환자를 태우고 달리던 119구급차가 인도 위 전봇대와 도로 표지판을 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 차량에 타고 있던 구급대원 3명이 경상을 입고, 60대 환자 1명이 병원에 이송됐다. 119구급차량도 파손됐다. 추가 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;당시 구급대원 3명은 인근 목욕탕에서 실신한 환자 1명을 태워 병원에 이동 중이었던 것으로 파악됐다. 이 환자는 접촉 사고가 난 지 6분 만에 인근 소방서 119구급차량이 출동해 병원으로 이송돼 치료를 받았다. &lt;br&gt;&lt;br&gt;구급차를 운전한 20대 구급대원은 경찰 조사에서 “전날부터 업무량이 많은 상태에서 집중도가 흐트러져 사고가 났다”는 취지로 진술했다. 음주 또는 무면허 운전 혐의는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 3교대로 근무한 이 구급대원은 지난 6일 오전 9시부터 이날 오전 9시까지 근무하기로 돼 있었다. 그는 전날부터 사고가 난 시각까지 총 10건의 사고 현장에 출동한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 관계자는 “이 대원은 전날 오후 4시쯤 산악 사고 현장에 출동했고, 이날 새벽 2시 30분쯤에는 마산합포구 월영동 아파트 화재에도 출동해 장시간 대기했다”며 “피로가 누적되면서 집중력이 흐트러져 사고가 난 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;다만 소방 당국은 이 대원이 출동한 10건의 사고가 대형 사고는 아니라 대기조가 투입되지는 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차단기 내려진 철길서 새마을호-승용차 충돌... 차량 운전자 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/07/B3FGH3KIJ5HATPNKBWUVQRACZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/07/B3FGH3KIJ5HATPNKBWUVQRACZE/</guid>
+      <dc:creator>보성=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 07 Dec 2025 04:07:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIYDMZBRMQ2DOMJVMY2DCOLEMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 보성경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;차단기가 정상 작동된 철도 건널목에서 열차와 차량이 충돌해 차량 운전자가 숨졌다.&lt;br&gt;&lt;br&gt;7일 전남 보성경찰서 등에 따르면, 이날 오전 9시 35분쯤 전남 보성군 조성면 한 철도 건널목에서 새마을호 1088호와 승용차가 충돌했다. 이 사고로 차량 운전자 A(60대)씨가 중상을 입고 병원으로 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 사고 당시 철도 건널목은 열차 진입에 앞서 차단기가 정상 작동됐던 것으로 확인했다.&lt;br&gt;&lt;br&gt;이 사고로 새마을호 열차 탑승자 중 부상자는 발생하지 않은 것으로 전해졌다. 경찰은 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GIYDMZBRMQ2DOMJVMY2DCOLEMU.jpg?auth=95c059720cd66618732a3dd6ea24247caa386ea96ab5f8efe408285ec31493c1&amp;smart=true&amp;width=4288&amp;height=2848" type="image/jpeg" height="2848" width="4288">
+        <media:description type="plain">전남 보성경찰서. /뉴스1</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>무효 약정 믿고 가입했어도… 대법 “뒤늦은 분담금 반환 청구 불가”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/07/MZRKTJ7RNJHSTOOH2JDASP3YRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/07/MZRKTJ7RNJHSTOOH2JDASP3YRM/</guid>
@@ -914,33 +953,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>지인 장애인 주차증 위조해 사용…40대 男, ‘징역형 집유’</title>
-      <link>https://www.chosun.com/national/regional/2025/12/05/QEQJCK4XQNEPLAT72OTWTPQFPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/QEQJCK4XQNEPLAT72OTWTPQFPE/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 07:44:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UI7VDPGFJ5G7D5MCCJMYIXFHSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직장 동료가 발급받은 장애인 전용 주차구역 주차 표지를 위조해 사용한 혐의로 재판에 넘겨진 40대 남성에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사1단독 박성인 부장판사는 공문서 변조 및 변조 공문서 행사 혐의로 기소된 A씨에게 징역 6개월에 집행유예 2년을 선고했다고 5일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 2023년 8월 한국산업안전보건공단 대구 서부지사 주차장에서 직장 동료에게 발급된 장애인 전용 주차구역 주차 표지에 자신의 차량 번호를 적은 뒤 지난 5월 30일 대구국제공항 공영 주차장 내 장애인 전용 주차구역에서 사용한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;박 부장판사는 “피고인이 이 사건 범행에 대해 깊이 반성하고 있는 점, 초범인 점, 과태료를 부과받은 점 등을 참작했다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 한동훈 증인신문 신청 철회… 추경호 주말 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/BUJF24TBSFAD7GS6ZJMECDR2O4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/BUJF24TBSFAD7GS6ZJMECDR2O4/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 07:12:38 +0000</pubDate>
-      <content:encoded>조은석 내란 특검팀이 한동훈 전 국민의힘 대표에 대한 증인신문을 철회했다. 특검은 추경호 국민의힘 의원의 ‘계엄 해제 표결 방해 의혹’을 밝히기 위해 한 전 대표의 진술을 들으려 했지만, 한 전 대표가 참고인 조사와 증인신문에 모두 응하지 않자 결국 증언 확보 시도를 접었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQWIZJXGNRTMYLGMU4DSNBZME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한동훈 전 국민의힘 대표가 3일 서울 여의도 국회도서관 인근 쪽문에서 12·3 비상계엄 1주년 기자회견을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사31단독 전은진 판사는 5일 한 전 대표에 대한 증인 신문을 열었다. 그러나 앞선 네 차례와 마찬가지로 이날도 한 전 대표가 출석하지 않아 증인신문은 진행되지 못했다.&lt;br&gt;&lt;br&gt;그러자 특검은 “증인은 수회 기일 동안 출석하지 않았는데 증인의 태도를 비춰보면 12월 14일까지로 예정된 특검의 수사 기간 내 증인이 출석해 증인 신문이 이뤄질 가능성은 희박하다”면서 “증인 한동훈에 대한 공판기일 전 증인신문 청구를 철회하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “모든 국민은 증인으로 출석해 증언할 법적 의무가 있고, 어떤 예외도 없다”며 “사법 절차에 따른 실체적 진실 발견은 헌법 유린 재발을 막기 위한 최소한의 절차임을 증인도 잘 알고 있을 것”이라고 했다. 출석 요구에 응하지 않은 한 전 대표를 우회적으로 비판한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZDKZJUGAYWIMJYGZRTOMJZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 해제 요구안 표결 방해 의혹을 받는 추경호 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 지난해 12월 3일 비상계엄이 선포되자, 추 의원이 의원총회 장소를 여러 차례 바꿔 국민의힘 의원들이 계엄 해제 표결에 참여하는 것을 방해한 혐의(내란 중요 임무 종사)로 수사하고 있다.&lt;br&gt;&lt;br&gt;특검은 한 전 대표가 쓴 책 ‘국민이 먼저입니다’에서 “장소의 혼돈으로 인해 (계엄 해제) 의결권을 행사하지 못해 아쉬움을 표한 분들이 있었다”는 대목을 단서로 수사했지만, 피해 의원을 특정하지는 못했다. &lt;br&gt;&lt;br&gt;이에 특검은 한 전 대표에게 직접 당시 상황을 묻기 위해 참고인으로 불렀지만, 한 전 대표는 응하지 않았다. 그러자 특검은 지난 9월 강제 절차인 공판 전 증인 신문을 청구했다. 법원이 한 전 대표에게 10차례 증인 소환장을 보냈지만 모두 폐문 부재로 전달되지 않았고, 네 차례 열린 증인신문 기일에도 한 전 대표는 출석하지 않았다. &lt;br&gt;&lt;br&gt;특검 관계자는 “추 의원에 대한 구속 영장 청구 단계에서 이미 충분한 소명이 이뤄졌다고 판단해, 한 전 대표의 증인신문을 유지하는 것이 아무런 실익이 없다는 판단 하에 철회를 결정했다”고 밝혔다.&lt;br&gt;&lt;br&gt;한편 특검은 이번 주말 추 의원을 불구속 기소할 방침이다. 특검 관계자는 “기소가 이뤄지면 구속 영장 청구서에 적시된 범죄 사실은 당연히 공소 사실에 포함된다”며 “적용 법조문을 추가할지는 내부적으로 논의 중”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>광주 유일 수능 만점자, 알고보니 미분함수 10초만에 풀었던 그 학생</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/05/MEB5A5SG3VCHDJOXBPQJZGFMGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/05/MEB5A5SG3VCHDJOXBPQJZGFMGU/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 07:28:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVHTJZ527FDMPH4GBAUACTQKTI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;최장우 군과 유튜버 ‘미미미누’. /유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 광주광역시 유일의 수능 만점자가 올해 초 한 유튜브에 출연해 뛰어난 수학 실력을 뽐냈던 당사자로 확인돼 화제가 되고 있다. &lt;br&gt;&lt;br&gt;5일 광주광역시교육청 등에 따르면 광주서석고등학교 3학년 인문계열 최장우군은 올해 수능에서 만점을 받았다. 올해 수능 만점자는 광주 1명, 서울 2명, 전북 1명 등 재학생 4명과 재수생 서울 1명 등 총 5명이다.&lt;br&gt;&lt;br&gt;최군은 현재 서울대학교 경제학과 수시 일반 전형에 지원했고, 최종 결과를 기다리고 있다.&lt;br&gt;&lt;br&gt;최군은 올해 1월 유튜버 ‘미미미누’가 광주 지역 학생들을 대상으로 진행한 길거리 수학 챌린지에 참여한 바 있다. 당시 최군은 “내신 1.00으로 전교 1등, 제50대 학생회장, 제14대 광주광역시 고등학교 학생회 의장”이라고 자신을 소개했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RRIXBRYQEBJ57AHA2CH5NQPVTU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5일 오전 광주 서구 서석고등학교에서 2026학년 대학수학능력시험에서 만점을 기록한 최장우 학생이 학생회의 축하를 받고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최군은 수학2에 도전하면서 원하는 분야는 “아무거나”라고 했다. 미분함수 문제 풀이에 나선 최군은 10초도 안 돼 ‘정답’을 외치고 답을 맞혔다. 최군은 두 번째 문제에도 거침없이 도전해 정답을 맞혀 주변을 놀라게 했다.&lt;br&gt;&lt;br&gt;최군은 수능 만점 비결에 대해 “학교 내신과 수능 공부를 분리해 생각하지 않고, 학교 교육에서 부족한 부분을 찾아 채우려고 노력했다”며 “학생회 회장, 광주광역시고등학교학생의회 의장 등으로 활동하며 다양한 경험을 한 것도 큰 도움이 됐다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>휴일에 학교 들어가 학생·교사 개인 정보 빼낸 고3… 경찰 “수사 중”</title>
       <link>https://www.chosun.com/national/regional/2025/12/05/XTHKKS5LTNAMZJ2XHW7PI5WNCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/05/XTHKKS5LTNAMZJ2XHW7PI5WNCU/</guid>
@@ -975,16 +987,6 @@
       <description/>
       <pubDate>Fri, 05 Dec 2025 00:44:13 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CYTFT72GU5DHPJCFEJRF5XCZ3A.png"&gt;&lt;figcaption&gt;&lt;small&gt;길바닥에 뿌려진 5만원권./인스타그램 'kiki39n'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 도심 한복판에서 5만원권 지폐가 도로에 뿌려져, 이를 주워 경찰에 돌려줬다는 사연이 온라인에서 화제가 되고 있다.&lt;br&gt;&lt;br&gt;지난 2일 한 인스타그램 계정에는 “세상에 이런 일이, 바닥에 5만원이 있길래 보니까 차도에 5만원권이 엄청났다”며 “보니까 전체가 다 5만원권이었다”는 글이 사진과 함께 올라왔다.&lt;br&gt;&lt;br&gt;작성자 A씨는 “뭐에 홀린 듯 차도에 들어가서 막 주웠다”며 “차들도 다 멈춰서 기다려줬다”며 당시 상황을 전했다.&lt;br&gt;&lt;br&gt;공개된 사진에는 길바닥에 다량의 5만원권이 흩어져 있고, 이를 줍는 시민들 모습과 경찰이 현금을 회수하는 장면까지 담겼다. A씨 역시 자신이 주운 5만원권을 모두 경찰에 반납했다고 했다. 그는 “누가 버스에서 뿌렸다고 한다. 차 안에 계신 운전자분이 경찰관분께 ‘저 뒤쪽에 훨씬 많아요!’라고 하셨다”고 덧붙였다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이 사건은 지난 2일 중구 을지로4가 부근에서 벌어졌다. 다만 게시글에서처럼 누군가 버스 안에서 현금을 뿌린 것은 아니고, 횡단보도를 건너던 행인이 실수로 1000만원이 넘는 돈을 흘린 것으로 조사됐다. 해당 시민은 범죄 혐의점이 없어 귀가 조치한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;다량의 현금이 한꺼번에 쏟아지는 소동은 이번이 처음이 아니다. 2016년 2월에는 청주의 한 아파트에서 주민 B씨가 베란다에서 카펫을 털다 650만원을 실수로 떨어뜨려 소동이 벌어졌다. 아파트 주민과 경비원이 떨어진 돈 가운데 580만원을 주워 B씨에게 돌려줬지만, 70만원은 끝내 회수되지 않았다. 2020년 10월에는 서울 서대문구의 한 아파트에서 주민 C씨가 홧김에 5만원권 120장(600만원)을 고층에서 창밖으로 집어던지는 일도 있었다.&lt;br&gt;&lt;br&gt;타인이 실수로 흘린 돈을 가져가면 ‘점유이탈물 횡령죄’로 처벌받을 수 있다. 형법 제360조는 유실물·표류물 또는 타인의 점유를 이탈한 재물을 횡령한 자를 1년 이하의 징역이나 300만원 이하의 벌금 또는 과료에 처하도록 규정하고 있다. 주인이 돈을 일부러 버린 경우에는 주워 가도 법적 처벌을 받지 않는다. 다만 돈을 뿌린 행위에 공공질서를 해칠 의도가 있었다면, 그 돈을 뿌린 사람은 별도의 처벌 대상이 될 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 12월 5일 금요일 (음력 10월 16일 戊申)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/04/UL3WAG7SUBG53B4JTJDNNMUM2U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/04/UL3WAG7SUBG53B4JTJDNNMUM2U/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 04 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;간밤에 좋은 꿈 꾸셨나요?&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
   </channel>
 </rss>
