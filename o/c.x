@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“조진웅 은퇴 안타깝다” 두둔했던 서승만…“경솔했다” 사과</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/09/NP2CRMHWVZGIFIOY6M77GJY47I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/09/NP2CRMHWVZGIFIOY6M77GJY47I/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Dec 2025 22:16:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZVQGLORGQJFIPHQ5JF3JMLJYEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;개그맨 서승만과 배우 조진웅./소셜미디어(SNS)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개그맨 서승만이 소년범 논란으로 은퇴를 선언한 배우 조진웅을 두둔했다가 입장을 바꿔 사과했다.&lt;br&gt;&lt;br&gt;서승만은 지난 8일 자신의 페이스북에 “조진웅이 연기를 그만둔대서 안타깝다고 포스팅을 했더니 후배가 당시 기사를 보내왔다”며 “근래 느껴보지 못한 배신감이고 내 나이가 무색할 지경”이라고 썼다.&lt;br&gt;&lt;br&gt;그러면서 “그냥 보이는 대로 믿고 말하는 대로 믿어주는 내 유치함이, 경솔함이 문제였다”며 “내 글로 상처 입었을 분께 사과드리고 싶다”고 했다.&lt;br&gt;&lt;br&gt;그는 “주연 하나로 (드라마) ‘시그널’ 팀이 받을 어려움은 또 어쩌나. 앞으로는 신중하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;조진웅은 소년범 전과가 뒤늦게 알려지자 지난 6일 “모든 질책을 겸허히 수용하고, 오늘부로 모든 활동을 중단한다”며 은퇴를 선언했다. &lt;br&gt;&lt;br&gt;그러자 일각에서는 이미 죗값을 치른 과거 잘못을 들춰내는 것은 과도하다는 옹호론이 제기됐다. 이는 문화계를 넘어 법조계, 종교계, 정치권까지 확산했다.&lt;br&gt;&lt;br&gt;서승만도 앞서 조진웅과 함께 찍은 사진을 올리며 “좋아하는 배우, 연기 잘하는 배우, 안타깝다. 어떤 여자는 불륜에 온갖 범죄를 저질러도 뻔뻔하게 기어 나오던데”라고 옹호성 글을 남겼다.&lt;br&gt;&lt;br&gt;1989년 MBC 개그콘테스트를 통해 개그맨으로 데뷔한 서승만은 몇 해 전부터 이재명 대통령과 더불어민주당을 공개 지지하며 친민주당계 유튜버로 활동하고 있다. 지난해 4·10 총선에서는 더불어민주당의 비례 위성정당인 ‘더불어민주연합’ 후보 24번으로 출마했으나, 더불어민주연합이 14명의 당선자를 내면서 낙선했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>손흥민 임신 협박 女, 1심서 징역 4년 선고</title>
       <link>https://www.chosun.com/national/court_law/2025/12/09/H4B4SNURNRFD5NRUBWESNOU4J4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/09/H4B4SNURNRFD5NRUBWESNOU4J4/</guid>
@@ -695,19 +704,6 @@
       <description/>
       <pubDate>Mon, 08 Dec 2025 01:16:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LO6YXUJZWNFHZMCIXWYRNTEBNI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스킨스쿠버 다이빙 장비. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북 포항 해상에서 야간에 스킨스쿠버 장비를 착용하고 해산물을 채취하던 40대 여성이 숨졌다. &lt;br&gt;&lt;br&gt;8일 경북소방본부와 포항해경 등에 따르면, 7일 오후 9시 41분쯤 포항시 청하면 청진1리 방파제 인근 해상에서 스킨스쿠버를 하던 40대 여성 A씨가 심정지 상태로 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;사고 당일 A씨는 스킨스쿠버를 하던 중 의식을 잃었다. 근처 방파제에 있던 한 낚시객이 A씨가 착용한 수중 랜턴이 물속에서 움직이지 않는 점을 수상히 여겨 A씨 일행에게 알렸고, 일행 중 1명이 수중 2.5~3m에서 움직이지 않던 A씨를 뭍으로 옮겼다. &lt;br&gt;&lt;br&gt;신고를 받고 현장에 출동한 119구조대가 심정지 상태인 A씨를 병원으로 이송했으나, A씨는 사망 판정을 받았다. &lt;br&gt;&lt;br&gt;당시 A씨는 스노클링과 슈트, 납 벨트를 착용한 뒤 바다 속에서 맨손으로 고동, 소라 등 어패류를 잡는 ‘해루질’ 중이었다. &lt;br&gt;&lt;br&gt;2020년 제정된 ‘수중 레저 안전 관리 규정’에 따라 야간에 수중 활동을 할 경우 1명 이상 안전 관리 요원이 동행해야 한다. 또 다이버는 발광 조끼나 띠 등 발광 장비를 부착해야 한다. 숨진 A씨는 이를 지키지 않은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;포항해경 관계자는 “현행법상 납 벨트 등을 착용한 뒤 해산물 채취하면 잠수 장비로 간주해 불법 행위가 된다”며 “행위자가 사망함에 따라 공소권 없음으로 처리할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>735억 번 복싱 챔피언, 4억 안 내 벨트 박탈?</title>
-      <link>https://www.chosun.com/national/people/2025/12/06/HJXP23DZ5VGZHGKGK7ODYMNECA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/06/HJXP23DZ5VGZHGKGK7ODYMNECA/</guid>
-      <dc:creator>김영준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZMSFXYRTNMSZPAB4BWMIK5T2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 수퍼미들급 4대 기구 통합 챔피언에 오른 테런스 크로퍼드가 챔피언 벨트 여러 개를 뽐내고 있다./AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9월 13일(현지 시각) 미국 라스베이거스 얼리전트 스타디움에 7만여 관중이 들어찬 가운데 복싱 빅매치가 펼쳐졌다. 복싱 4대 기구(WBC·WBA·IBF·WBO) 수퍼미들급(76.2㎏) 통합 챔피언 카넬로 알바레스(35·멕시코)의 아성에 수퍼웰터급(69.85㎏) 챔피언 테런스 크로퍼드(38·미국)가 두 체급을 올려 도전한 것이다. 결과는 크로퍼드의 3대0 전원일치 판정승. 그는 알바레스의 챔피언 벨트를 모두 가져오며 새로운 수퍼미들급 통합 챔피언에 등극했다. 이 경기는 넷플릭스를 통해 약 4100만명의 복싱 팬들이 지켜봤다. &lt;br&gt;&lt;br&gt;그런데 경기가 끝난 지 약 80일이 흐른 지난 3일, 4대 기구 중 하나인 WBC(세계복싱평의회)가 크로퍼드의 챔피언 자격을 박탈했다. 이유는 그가 ‘타이틀 승인료(sanctioning fee)’를 내지 않았기 때문이다. 이 승인료는 챔피언 타이틀전을 치르는 복서가 주관 기구에 내는 일종의 수수료로, 보통 대전료와 상업 수익 등을 합한 총수익의 3%를 납부한다. 이 비용은 기구 운영비나 복서 복지를 위한 기금으로 조성되기도 한다. 크로퍼드나 알바레스처럼 세계 정상급 복서들은 수익 규모가 워낙 크기 때문에 3%를 다 내기보다 주관 기구와 협의를 통해 적정 수준의 금액을 부담하는 것이 관례다.&lt;br&gt;&lt;br&gt;WBC는 크로퍼드에게 그가 이번 대결로 벌어들인 것으로 알려진 5000만달러(약 735억원)의 0.6%인 30만달러(약 4억 4000만원)를 타이틀 승인료로 요구했다. 그러나 크로퍼드는 이 금액을 석 달 가까이 내지 않았고 WBC의 연락에도 응답을 하지 않아 챔피언 자격을 박탈했다는 게 WBC 측 설명이다.&lt;br&gt;&lt;br&gt;크로퍼드가 돈이 없어서 승인료를 내지 않은 것은 아니다. 이를 두고 수퍼스타와 복싱 기구 간의 자존심 싸움이라는 해석이 나온다. 크로퍼드는 자신의 소셜 미디어 라이브 방송을 통해 “다른 세 기구는 내가 제시한 금액을 그대로 받았다. WBC는 뭐가 더 잘났다고 더 많은 돈을 요구하는가”라며 “그딴 챔피언 벨트는 필요 없다”며 욕설까지 섞어 강하게 비난했다.&lt;br&gt;&lt;br&gt;정상급 복서와 경기 주관 기구가 타이틀 승인료를 두고 기싸움을 벌인 건 이번이 처음이 아니다. 미국의 전설적인 무패 복서 플로이드 메이웨더 주니어(48)는 2015년 매니 파키아오를 꺾고 WBO(세계복싱기구) 웰터급 챔피언에 올랐지만, WBO가 요구한 타이틀 승인료 20만달러(약 2억9000만원)를 내지 않았다. WBO는 승인료 미지급과 더불어 메이웨더가 WBC와 WBA에서 여러 체급 타이틀을 동시에 보유해 규정을 어겼다는 이유로 그의 벨트를 빼앗았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/PZMSFXYRTNMSZPAB4BWMIK5T2Q.jpg?auth=bd1817efcb3aa3a0bd04d1f4323265207f9d01b42963c084c73c3f93eff3d72c&amp;smart=true&amp;width=4642&amp;height=3313" type="image/jpeg" height="3313" width="4642">
-        <media:description type="plain">지난 9월 수퍼미들급 4대 기구 통합 챔피언에 오른 테런스 크로퍼드가 챔피언 벨트 여러 개를 뽐내고 있다./AFP 연합뉴스</media:description>
-        <media:credit role="author" scheme="urn:ebu">HARRY HOW</media:credit>
-      </media:content>
     </item>
     <item>
       <title>“내면의 성채를 만들라”</title>
