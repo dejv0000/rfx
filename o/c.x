@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>7명 사망 울산화력 붕괴 사고… 경찰, 동서발전·HJ중공업 등 9명 입건</title>
+      <link>https://www.chosun.com/national/regional/2025/12/08/JMIGWLVF4FH5VMUHRMDAVO32KU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/08/JMIGWLVF4FH5VMUHRMDAVO32KU/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Dec 2025 05:06:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNSGGZRUGNRDGNTCGVRTKNJQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 18일 동서발전 울산화력발전소 붕괴 현장 합동 감식을 위해 경찰 등 감식팀 관계자들이 차에서 내리고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;작업자 7명이 숨진 한국동서발전 울산화력발전소 보일러 타워 붕괴 사고와 관련해 발전소 해체 공사 발주처와 원하청 관리·감독 실무자 9명이 입건됐다.&lt;br&gt;&lt;br&gt;울산경찰청은 해체 공사에 참여한 업체 3곳의 업무 담당자 9명을 업무상 과실치사상 혐의로 입건해 조사 중이라고 8일 밝혔다.&lt;br&gt;&lt;br&gt;발주처인 한국동서발전의 해체 공사 관련자 3명, 원도급 업체 HJ중공업의 공사 책임자 4명, 하도급 업체인 코리아카코 현장 책임자 2명이 각각 입건됐다. 경찰은 이들이 시방서나 안전관리계획서 등에 따라 철거 작업을 진행했는지 조사하고 있다.&lt;br&gt;&lt;br&gt;특히 발주처인 한국동서발전의 ‘4·5·6호기 해체공사 기술시방서’에는 ‘사전 취약화 작업은 최상층부터 하고, 상층 부재의 내장재 철거나 취약화 작업이 완료되기 전에는 아래층 주요 지지부재 취약화를 실시해선 안 된다’고 명시돼 있다. 취약화 작업은 대형 구조물이 철거 때 쉽게 무너질 수 있도록 기둥과 철골 구조물 등을 미리 잘라놓는 것이다.&lt;br&gt;&lt;br&gt;경찰은 이 시방서와 달리 실제 사고 현장에서는 취약화 작업이 위에서부터가 아니라 아래나 중간 부분부터 진행된 것으로 보고 있다. &lt;br&gt;&lt;br&gt;아래쪽부터 잘라낸 탓에 무게를 지지하지 못해 붕괴했을 가능성이 크다는 것이다.&lt;br&gt;&lt;br&gt;경찰은 이에 따라 해체 공사를 직접 한 코리아카코 측에는 시방서와 다르게 작업한 점, HJ중공업에는 시방서대로 현장 공사가 진행 중인지를 제대로 확인하지 않은 점, 동서발전에는 관리·감독을 제대로 하지 않은 점 등에 무게를 두고 수사를 벌이고 있다.&lt;br&gt;&lt;br&gt;앞서 경찰과 고용노동부는 HJ중공업 본사 등을 압수수색해 작업 관련 서류를 확보했다.&lt;br&gt;&lt;br&gt;지난 3일에는 추가 현장 조사를 실시해 붕괴한 보일러 타워 5호기 구조물의 치수를 측정하고, 취약화 작업을 위해 절단한 부분의 위치와 크기를 추가로 확인했다.&lt;br&gt;&lt;br&gt;경찰은 현장 조사와 압수수색을 통해 확보한 증거물과 관계자 조사 내용 등을 토대로 주의 의무 위반 혐의가 있다고 판단해 이번에 9명을 입건했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “추가로 공사 관계자 조사 등을 실시해 범죄 혐의가 확인될 경우 엄정하게 책임을 묻겠다”고 말했다.&lt;br&gt;&lt;br&gt;지난달 6일 울산화력발전소에서는 해체 작업 중이던 높이 63m 보일러 타워가 붕괴해 현장에서 일하던 작업자 9명 중 7명이 매몰돼 숨졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김기정 인터넷신문협회장·김호상 KT ENA 대표, 자랑스러운 한양 언론인상</title>
+      <link>https://www.chosun.com/national/people/2025/12/08/PGMA7JL4BVFFDMMGXOEPBJHWQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/08/PGMA7JL4BVFFDMMGXOEPBJHWQI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Dec 2025 04:46:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RLDFBFBFBECFGPZ5VXAT2ZZLQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김기정 한국인터넷신문협회장./한양대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한양대학교 언론정보대학원과 총동문회는 ’2025 자랑스러운 한양 언론인상' 수상자로 김기정 한국인터넷신문협회장과 김호상 KT ENA 대표이사를 선정했다고 8일 밝혔다.&lt;br&gt;&lt;br&gt;그동안 언론정보대학원 동문회 활동에 기여한 박정찬 전 연합뉴스·연합뉴스TV 사장과 금교돈 전 조선교육문화미디어 대표는 공로상을 받는다.&lt;br&gt;&lt;br&gt;시상식은 오는 9일 오후 7시 서울 성동구 한양대 동문회관 6층 헤리티지 홀에서 열린다.&lt;br&gt;&lt;br&gt;자랑스러운 한양 언론인상은 한양대 언론정보대학원 졸업생을 대상으로, 각 분야에서 다양한 활동을 펼치며 언론정보대학원을 빛낸 동문들에게 매년 주어진다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5IHIQ5HSZCFHA3M7CYJ6QXLOY.png"&gt;&lt;figcaption&gt;&lt;small&gt;김호상 KT ENA 대표이사./한양대 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대북송금 증언 회유 의혹’ 안부수 등 10일 구속 심사</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/08/S3SYR7EMN5D6ZHDHMXJHCL5OUU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/08/S3SYR7EMN5D6ZHDHMXJHCL5OUU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 08 Dec 2025 04:15:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ESTYIYX5HFA5DG3ZNOYQNSYWSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안부수 아태평화교류협회 회장&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쌍방울 불법 대북 송금’ 사건 핵심 증인인 안부수 아태평화교류협회 회장과 쌍방울 그룹 전직 임원들의 구속영장 실질 심사가 오는 10일 열린다. 서울중앙지법은 서울고검이 청구한 안 회장과 방용철 전 쌍방울 부회장, 박모 전 쌍방울 이사 등에 대한 구속 심사가 남세진 영장 전담 부장판사 심리로 10일 오전 10시 10분부터 차례로 진행된다고 8일 밝혔다. 안 회장 등의 구속 여부는 이르면 10일 밤이나 이튿날 새벽에 결정될 전망이다.&lt;br&gt;&lt;br&gt;앞서 서울고검 인권 침해 점검 태스크포스(TF)는 지난 5일 세 사람의 구속영장을 청구했다. 안 회장의 주요 혐의는 횡령이다. 방 전 부회장에겐 업무상 횡령, 박 전 이사에겐 위계공무집행방해 혐의 등이 적용됐다. &lt;br&gt;&lt;br&gt;안 전 회장은 경기도와 쌍방울그룹을 북한 고위 인사에 이어준 브로커로 알려졌다. 그는 2023년 1월 이화영 전 평화부지사의 대북 송금 사건 재판에 나와 “경기도와 연관성을 잘 알지 못한다”는 취지로 증언했다가, 3개월 뒤인 4월 재판에서 ‘이재명 지사 방북 비용을 쌍방울그룹에서 북한에 전달한 사실을 아느냐’는 검찰 질문에 “북측에서 500만달러를 요구했다가 200만 달러인지 300만달러로 낮췄다는 얘기를 북측 인사에게 들었다”고 말했다. 당시 쌍방울의 경기도 스마트팜 사업 비용 대납 과정에 대해서도 “2018년 11월 김성태 전 쌍방울 회장이 김성혜 조선아태평화위원회 실장 등과 자리에서 스마트팜을 해주기로 했다”고 증언했다.&lt;br&gt;&lt;br&gt;검찰은 이 부지사가 대북 송금 사건에서 유죄 판결을 받는 데 결정적 역할을 한 안 회장의 증언이 매수나 회유에 의해 나왔을 가능성이 높다고 보고 있다. 쌍방울그룹이 안 회장의 변호사비를 대납했고, 안 회장의 법정 증언이 번복되기 한 달 전쯤 쌍방울 측이 안 회장 딸에게 오피스텔 등 금품을 제공했다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘순직 해경’ 사고 과실 은폐 첫 재판… 법정에 선 해경들</title>
       <link>https://www.chosun.com/national/court_law/2025/12/08/IPDG2ELWIBES5MXEBIOYQ7U5K4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/08/IPDG2ELWIBES5MXEBIOYQ7U5K4/</guid>
@@ -677,33 +704,6 @@
       <description/>
       <pubDate>Sun, 07 Dec 2025 06:31:21 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/74G5XAG6VNB3BB5J6KBDUHHMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;왼쪽이 서울 송파구에서 새로 제작해 시범 판매하는 0.6L 용량의 음식물쓰레기 봉투. 오른쪽의 1L 용량의 봉투에 비해 크기가 확연히 작다./송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 송파구가 전국 지자체 최초로 0.6L 규격의 음식물쓰레기 종량제봉투를 오는 10일부터 시범 도입해 운영한다고 7일 밝혔다. 기존 최소 규격인 1L는 1인 가구가 혼자서는 한 번에 채우기 어렵고, 매번 버리기에는 낭비가 많은 크기라 새로 작은 크기로 만든 것이다. &lt;br&gt;&lt;br&gt;구 관계자는 “1L보다 작은 용량의 봉투가 필요하다는 주민들의 목소리를 구정에 적극 반영했다”고 했다. 최소단위가 0.6L인 이유에 대해서는 “쓰레기봉투 제작업체와 협의한 결과 0.5L는 음식물쓰레기를 담았을 때 봉투 입구가 제대로 다물어지지 않기 때문에 가장 작은 단위로 배출할 수 있는 최적용량으로 정했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UN4N7PZL5HM3FQPTTKBB3FPSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 송파구 0.6L 용량 음식물쓰레기 종량제봉투 제작 판매 시범사업 안내/송파구&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;송파구의 1인 가구는 2024년 기준 총 8만9720명으로 서울 자치구에서 3번째로 많다. 전체 가구 수 중 1인 가구 비율도 33.5%로 높은 편이다. 행정안전부가 지난 5월 발간한 ‘2025 행정안전통계연보’에 따르면 우리나라 작년 1인 가구는 1012만 가구로 전체 가구 수의 36.1%였다.&lt;br&gt;&lt;br&gt;특히 송파구 내 1인 가구는 연립·다세대주택 거주 형태가 3만여 가구로 가장 많은데, 일반주택가의 음식물쓰레기는 아파트 등과 달리 전용 배출 용기에 종량제봉투를 담아 버리는 방식으로 처리된다. 이에 송파구는 1인 가구를 위한 맞춤형 봉투를 제작한 것이다. &lt;br&gt;&lt;br&gt;송파구는 내년 3월 31일까지 관내 1인 가구가 많은 일반 주택동인 방이2동, 송파1동, 삼전동, 잠실본동, 석촌동에서 0.6L 음식물쓰레기 봉투 판매를 시범적으로 진행한 뒤 확대 여부를 결정할 예정이다. 0.6L의 가격은 10매(한 묶음)당 600원으로 1L봉투보다 1매당 40원 저렴하다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 운전 도중 차량 4대 들이받고 도주한 20대 입건</title>
-      <link>https://www.chosun.com/national/regional/2025/12/07/5KFYFJBCEZE3DJG7OPMSB6CZ6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/5KFYFJBCEZE3DJG7OPMSB6CZ6I/</guid>
-      <dc:creator>청주=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Dec 2025 05:30:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRTDGYTDGQ2DSYRSHAZTIYRVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 청주상당경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 청주 상당경찰서는 음주 운전을 하다가 사고를 내고 도주한 혐의(도로교통법 위반 등)로 20대 남성 A씨를 불구속 입건해 조사하고 있다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 5일 오후 11시 15분쯤 청주시 서원구 모충동의 한 도로에서 승용차를 몰다가 주행 중인 차량 1대와 인근에 주차된 차량 3대를 잇달아 들이받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이 사고로 피해 차량 운전자 1명이 다쳤으나, A씨는 사고를 낸 뒤 아무런 조치를 하지 않고 현장을 벗어났다가 약 1시간 30분 만에 경찰에 자수했다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준인 0.11%였던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 정확한 사건 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘기업 회생 전 임금 체불’ 신태양건설 대표에 징역형 집유</title>
-      <link>https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/4T63OMTD45B23M36HS34NS7RNY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Dec 2025 05:02:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산의 중견 건설사 ‘신태양건설’ 대표가 기업 회생 신청에 앞서 수개월간 현장 근로자들의 임금과 퇴직금을 체불한 혐의로 징역형의 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;부산지법 형사7단독 심학식 부장판사는 근로기준법과 근로자퇴직급여 보장법 위반 등 혐의로 기소된 안모 대표에게 징역 1년 6개월에 집행유예 2년을 선고했다고 7일 밝혔다.&lt;br&gt;&lt;br&gt;안 대표는 작년 5~9월 근로자 18명의 임금과 퇴직금 등 2억1800여 만원을 체불한 혐의를 받는다. 체불이 발생한 현장은 경남 양산과 사천, 통영, 경북 경산, 강원 양양 등이다.&lt;br&gt;&lt;br&gt;관련법에는 근로자가 퇴직하면 14일 이내에 임금 등을 지급해야 하지만 안 대표는 일부 금액만 지급한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;심 부장판사는 “피고인이 자백하며 반성하고 있고, 체불된 임금과 퇴직금을 지급하기 위해 노력하고 있는 점 등을 참작해 형을 정했다”고 판시했다.&lt;br&gt;&lt;br&gt;1995년 설립된 신태양건설은 토목, 건축, 주택 분야에서 업력을 쌓았다. 누리마루 APEC 하우스와 아미산 전망대 등을 시공하며 이름을 알렸다. 작년 시공능력 평가액 기준으로 부산에서 7위를 차지했다.&lt;br&gt;&lt;br&gt;하지만 경영난으로 작년 11월 부산회생법원에 기업 회생을 신청했고, 법원은 올 1월 회생 절차 개시를 결정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>환자 태운 구급차, 전봇대 들이받아...구급대원 등 4명 경상</title>
-      <link>https://www.chosun.com/national/regional/2025/12/07/55CIKQU6DFCS5DLMTFDOHKASHY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/07/55CIKQU6DFCS5DLMTFDOHKASHY/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 07 Dec 2025 04:20:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WNABOTPENFAE5LZZM23PCLQX6A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7일 오전 8시 20분쯤 창원시 마산회원구 합성동 한 도로에서 환자를 태우고 달리던 119구급차가 인도 위 전봇대와 도로 표지판을 들이받는 사고가 나 구급대원 3명이 경상을 입었다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 창원에서 환자를 태운 구급차가 전봇대를 들이받아 구급대원 등 4명이 이송됐다.&lt;br&gt;&lt;br&gt;7일 창원소방본부와 마산동부경찰서에 따르면, 이날 오전 8시 20분쯤 창원시 마산회원구 합성동 한 도로에서 환자를 태우고 달리던 119구급차가 인도 위 전봇대와 도로 표지판을 들이받았다.&lt;br&gt;&lt;br&gt;이 사고로 차량에 타고 있던 구급대원 3명이 경상을 입고, 60대 환자 1명이 병원에 이송됐다. 119구급차량도 파손됐다. 추가 인명 피해는 발생하지 않았다.&lt;br&gt;&lt;br&gt;당시 구급대원 3명은 인근 목욕탕에서 실신한 환자 1명을 태워 병원에 이동 중이었던 것으로 파악됐다. 이 환자는 접촉 사고가 난 지 6분 만에 인근 소방서 119구급차량이 출동해 병원으로 이송돼 치료를 받았다. &lt;br&gt;&lt;br&gt;구급차를 운전한 20대 구급대원은 경찰 조사에서 “전날부터 업무량이 많은 상태에서 집중도가 흐트러져 사고가 났다”는 취지로 진술했다. 음주 또는 무면허 운전 혐의는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방 당국에 따르면 3교대로 근무한 이 구급대원은 지난 6일 오전 9시부터 이날 오전 9시까지 근무하기로 돼 있었다. 그는 전날부터 사고가 난 시각까지 총 10건의 사고 현장에 출동한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;소방 관계자는 “이 대원은 전날 오후 4시쯤 산악 사고 현장에 출동했고, 이날 새벽 2시 30분쯤에는 마산합포구 월영동 아파트 화재에도 출동해 장시간 대기했다”며 “피로가 누적되면서 집중력이 흐트러져 사고가 난 것으로 보인다”고 말했다.&lt;br&gt;&lt;br&gt;다만 소방 당국은 이 대원이 출동한 10건의 사고가 대형 사고는 아니라 대기조가 투입되지는 않았다고 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>수용자 폭력에 무력한 교도관들... 욕은 다반사, 침 뱉고 주먹질도</title>
