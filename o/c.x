@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“피해 학생, 우울장애 진단까지”…키움 박준현, 학폭 처분 왜 바뀌었나</title>
+      <link>https://www.chosun.com/national/people/2025/12/10/XCVHQ44AEVBFXCG2OMM7XT7MII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/10/XCVHQ44AEVBFXCG2OMM7XT7MII/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 09 Dec 2025 22:50:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLIZQ2YBW2QTAJJ3IHFJQVF5VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;키움 박준현. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 한국프로야구(KBO) 신인 드래프트에서 전체 1순위로 키움 히어로즈에 지명된 충남 북일고 야구부 투수 박준현에 대한 학교폭력 처분 결과가 ‘학폭 아님’에서 ‘학폭 행위 인정’으로 뒤집혔다. &lt;br&gt;&lt;br&gt;피해 학생을 대리하는 법무법인 태광은 9일 보도자료를 통해 “이번 사건은 운동부라는 특수한 환경 내에서 발생한 지속적인 괴롭힘 사안을 행정심판 단계에서 적극적으로 다퉈 원심의 판단을 뒤집고 피해 학생의 억울함을 해소했다는 점에서 의미가 크다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “박준현은 2023년 2월부터 같은 야구부 소속인 피해 학생에게 지속적으로 심부름을 시키고 욕설하는 등 언어폭력을 행사해 왔다”며 “부원들 사이에서 집단 따돌림을 주도하는 등 괴롭힘의 수위가 심각했던 것으로 드러났다”고 했다. &lt;br&gt;&lt;br&gt;이로 인해 “피해 학생은 외상 후 스트레스 장애(PTSD)와 혼합형 불안 및 우울장애 진단을 받는 등 극심한 정신적 고통을 겪었으며 출전 기회를 박탈당하는 등 결과적으로 선수 생활을 지속하기 어려울 정도로 심각한 손해를 입게 됐다”고 설명했다. &lt;br&gt;&lt;br&gt;앞서 충남교육청 행정심판위원회는 천안교육지원청이 박준현에게 내렸던 ‘학폭 아님’ 처분을 취소하고 학폭 행위로 인정한 뒤 1호 처분인 서면사과 명령을 결정했다고 9일 밝혔다. 위원들은 박준현이 피해 학생에게 한 욕설 등이 정신적 피해를 입힐 수 있는 학폭 행위로 볼 수 있다고 판단했다. &lt;br&gt;&lt;br&gt;법무법인 태광은 “이번 행정심판 재결은 폐쇄적인 운동부 문화 속에서 은폐되기 쉬운 폭력 행위에 대해 엄정한 판단을 내린 사례”라며 “이번 사건이 단순한 승소를 넘어 학교 체육 현장에 만연한 학교 폭력 사건에 관한 경종을 울린 사건”이라고 했다. 이뿐만 아니라 “본 사건은 특히 학교 야구부의 팀 성적이 학생들의 진로에 중요한 요소로 작용해 에이스 선수의 비행을 방관하는 상황이 발생할 수밖에 없는 구조적인 문제가 있음을 알리고, 공정한 경쟁과 인권이 보장되는 건강한 스포츠 문화를 회복하는 계기가 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “이번 결과가 알려지자 해당 야구부 내 다른 피해 학생들의 연락과 제보가 잇따르고 있다”며 “향후 추가로 밝혀지는 피해 사례에 대해서도 적극적으로 대응해 피해 학생들의 권리 구제와 2차 가해 방지에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;박준현은 삼성 라이온즈 퓨처스 타격 코치 박석민(40)의 아들이다. 그의 아들인 박준현은 2026시즌 신인 드래프트에서 전체 1번으로 지명받아 키움 유니폼을 입었다. 입단 계약금은 7억원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조선 건축물 ‘관월당’ 한국에 돌려보낸 일본인에 대통령 표창</title>
       <link>https://www.chosun.com/national/people/2025/12/10/35RQ37HMGNHDPOPR5UREEEJQUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/10/35RQ37HMGNHDPOPR5UREEEJQUI/</guid>
@@ -942,15 +951,6 @@
       <description/>
       <pubDate>Mon, 08 Dec 2025 12:15:31 +0000</pubDate>
       <content:encoded>통일교 지역 관계자들이 국민의힘뿐 아니라 더불어민주당 관계자들과도 인연을 맺기 위해 노력했다는 증언이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KESVP2IS6VYXDP3GTG66OXW43E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 특검팀이 지난 7월 건진 법사 청탁 의혹 관련 경기 가평군 설악면 소재 통일교 본부를 압수수색한 가운데 신도들이 본부 입구에서 예배를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 8일 정치자금법·청탁금지법 위반 등 혐의로 구속기소된 한학자 총재와 정원주 전 총재 비서실장, 전 세계본부장 윤영호씨 등에 대한 2차 공판을 열었다.&lt;br&gt;&lt;br&gt;이날 공판에는 통일교의 지역 관계자 10명이 증인으로 출석했다. 통일교는 전국을 5개 지구로 나눠 지구장 제도를 운영하고 있다.&lt;br&gt;&lt;br&gt;서울 남부 지역에서 활동한 지역 관계자 강모씨는 ‘어떤 활동을 했냐’는 특검 측 질문에 “다양한 정치인들, 외부 조직과 인연을 맺기 위해 많은 노력을 했다”며 “더불어민주당에 있는 의원들과 계층에 계신 분들과도 만남을 했고 인연을 맺기 위해 노력했다”고 답했다. &lt;br&gt;&lt;br&gt;강씨는 특검 조사에서 일부 진술을 거부한 이유에 대해 “우리(통일교)가 보수 진영에만 국한돼 지원했다는 건 성립할 수 없다고 판단했다”고 답했다. 오해의 소지가 있을 것 같아 진술을 거부했다는 게 강씨 설명이다.&lt;br&gt;&lt;br&gt;이날 공판에선 지역 관계자들이 윤씨의 지시를 받아 후원금을 전달했다는 증언도 다수 나왔다. &lt;br&gt;&lt;br&gt;통일교에서 자금 지원 업무를 총괄한 조모씨는 5개 지구에 2억1000만원을 송금한 이유를 묻자 “윤씨로부터 국민의힘 섭외비 명목으로 나가라고 지시받았다”고 말했다. 대전·충청 지역에서 활동한 유모씨는 “2022년 3월 3지구(대전·충청)로 4000만원이 지급됐고, 교구 간부들에게 1000만원씩 나눠줬고 이를 (국민의힘) 시도위원장에게 나눠 기부했다”고 증언했다. 이후 윤씨로부터 “인연을 맺은 각 시도당 위원장들에게 축하 인사를 본부 대신 전해달라”는 메시지를 받았다고도 말했다. 경남 지역에서 활동한 박모씨는 “윤 전 본부장의 지시로 도당에 후원금 전달을 지시하라고 해서 했다.&lt;br&gt;&lt;br&gt;특검은 지난 10월 한 총재와 정 전 실장, 윤씨 등을 국민의힘 시도당 및 당협위원장 20명에게 1억4400만원을 여러 명의 이름으로 쪼개기로 후원한 혐의로 기소했다. 특검은 기소 당시 “윤씨가 총 2억1000만원을 5개 지구에 보냈고, 이 중 1억4400만원이 국민의힘 측에 전달됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>노상원 “특검이 허위진술 유도, 회유” vs 특검 “왜곡”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/08/5KOTHLOJNFH5DGWZQJK64AFHMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/08/5KOTHLOJNFH5DGWZQJK64AFHMA/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Dec 2025 11:09:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW5JMT62T3POAKSYWWRXSLCU3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보사령관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 내란 혐의 재판에 증인으로 출석한 노상원 전 정보사령관이 내란 특검 수사 과정에서 허위 진술을 요구받았다고 주장했다. 내란 특검이 개정 특검법에 신설된 ‘플리바게닝’ 조항을 근거로 윤 전 대통령 등에게 불리한 진술을 유도했다는 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 8일 윤 전 대통령의 내란 우두머리 혐의 재판을 열고 노 전 사령관을 증인으로 소환했다. 노 전 사령관은 이날 재판에서 “특검 조사 때 ‘윤 전 대통령과 관련해 명확히 증언해달라’는 것이 있었다”며 특검이 자신에게 플리바게닝 조항을 언급하며 허위 진술을 유도했다는 취지로 증언했다. 노 전 사령관은 “특검은 자신들에게 불리한 내용은 기록하지 않았다”며 “양평 공무원이 왜 (특검 수사 중) 자살했는지 이해되더라”고 했다.&lt;br&gt;&lt;br&gt;플리바게닝 조항은 죄를 저지른 사람이 자수하거나 타인을 고발할 때 수사·재판에서 다른 사람의 범죄를 규명하는 주요 진술·증언을 하면 형을 감경하거나 면제할 수 있도록 한 규정이다.&lt;br&gt;&lt;br&gt;윤 전 대통령 측은 개정 특검법에 플리바게닝 조항이 들어가기 전 이미 노 전 사령관에게 이 조항을 제시하며 윤 전 대통령 등에게 불리한 진술을 유도했다고 비판했다.&lt;br&gt;&lt;br&gt;변호인단은 이날 재판 직후 기자회견을 열어 “개정 특검법이 통과되기도 전에 특검팀은 플리바게닝 조항을 (노 전 사령관에게) 읽어주며 ‘윤 전 대통령과 김용현 전 국방장관 관련 중요한 사항을 진술하면 유리한 처분을 해주겠다’는 제안을 했다”며 특검이 불법 수사를 했다고 주장했다.&lt;br&gt;&lt;br&gt;내란 특검 측은 즉각 반박했다. 내란 특검은 “해당 조항은 내란 특검 수사의 특성을 고려해 특검 건의로 신설된 것”이라며 “법 개정 전후 내란 진상 규명을 위해 필요한 조항이라고 강조하면서 관련자들의 적극적인 협조를 공개적으로 부탁한 바 있다”고 밝혔다. 이어 “법 제도와 그 취지를 설명한 것을 두고, 허위 진술 강요 등을 운운하는 것은 실체를 왜곡하고 공소 유지를 방해하려는 행위”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰 “안부수, 쌍방울서 1억원 지원받아”…증언 번복 정황은 구속 영장서 빠져</title>
