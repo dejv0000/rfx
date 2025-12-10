@@ -13,6 +13,26 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘계엄령 놀이’로 환경미화원 괴롭힌 양양군 공무원 구속 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/12/10/PUFDWNOVNVHLJPE3OJ5O3FLXJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/10/PUFDWNOVNVHLJPE3OJ5O3FLXJY/</guid>
+      <dc:creator>속초=정성원 기자</dc:creator>
+      <description>환경미화원들에게 폭언과 폭행을 일삼아온 강원 양양군청 소속 7급 공무원이 검찰에 구속 송치됐다.
+강원 속초경찰서는 강요 등 혐의로 양양군청 소속 7급 운전직 공무원인 40대 A씨를 구속 송치했다고 10일 밝혔다.</description>
+      <pubDate>Wed, 10 Dec 2025 04:52:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WULJDAEZCBK4FCPEO4KIVBC6NE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강원 양양군 소속 7급 운전직 공무원 A씨가 지난 5일 춘천지법 속초지원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 나오고 있다. A씨는 환경미화원들에게 폭행·강요 등 직장 내 괴롭힘을 했다는 혐의를 받는다. /연합뉴스
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;환경미화원들에게 폭언과 폭행을 일삼아 온 강원 양양군청 소속 7급 공무원이 구속된 상태로 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;강원 속초경찰서는 강요 등 혐의로 양양군청 소속 7급 운전직 공무원인 40대 A씨를 구속 송치했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 “계엄령 놀이를 하자”며 환경미화원들을 폭행한 혐의를 받고 있다. 그는 자신이 투자한 주식의 주가가 떨어지면 “제물을 바쳐야 한다”며 쉼터에서 쉬고 있던 환경미화원들을 이불로 뒤집어씌운 뒤 발로 밟아 폭행했다고 한다.&lt;br&gt;&lt;br&gt;그는 “주가가 올라야 한다”며 빨간색 물건만 사용하도록 했고, 이를 어길 경우 폭행한 것으로 알려졌다. 또 피해자들은 “자신이 투자한 주식을 사라고 강요했다”고 주장했다.&lt;br&gt;&lt;br&gt;경찰은 지난달 24일 강요 혐의로 A씨를 입건했으며, 지난달 27일엔 양양군청과 그의 주거지 등을 압수수색했다.&lt;br&gt;&lt;br&gt;양양군은 논란이 불거지자 A씨를 직위 해제했으며, 행정안전부와 고용노동부 조사 결과에 따라 징계할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 연제구선관위, 내년 지방선거 입후보 예정자 2명 검찰 고발</title>
+      <link>https://www.chosun.com/national/regional/2025/12/10/NQ3ZGM26QZH25JPJOLOFUGT6K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/10/NQ3ZGM26QZH25JPJOLOFUGT6K4/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 10 Dec 2025 04:05:48 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4WCYLFGMYTEZDFGAYWCNRZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산시선거관리위원회. / 뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 연제구선거관리위원회는 내년도 제9회 전국동시지방선거를 앞두고 선거구민에게 기부 행위를 한 입후보 예정자 A씨와 B씨를 공직선거법 위반 등의 혐의로 검찰에 고발했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;선관위에 따르면 이들은 봉사 활동 명목으로 선거구민에게 재산상의 이익을 제공했는데, 자신들의 이름·사진 등이 나온 전단지나 명함 등을 나눠준 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;선관위 관계자는 “기부 행위 등 선거 관련 중대 범죄와 관련해 철저히 조사하고 엄중 조치할 예정”이라며 “위반 행위 발견 시 1390번으로 신고해달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 수천만명 정보 새나간 쿠팡 이틀째 압수수색</title>
       <link>https://www.chosun.com/national/national_general/2025/12/10/MJSRZOTBERCG3KAU7YE4BAAP6A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/10/MJSRZOTBERCG3KAU7YE4BAAP6A/</guid>
@@ -877,21 +897,6 @@
       <content:encoded>김건희 여사에게 디올백을 선물한 최재영 목사가 특검에 출석했다. 최 목사는 ‘검찰 부실 수사’ 의혹 관련 참고인 신분으로, 특검 조사를 받는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZWW2D5673JNPDB2CZTKWXMCAZM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 명품 가방을 선물한 것으로 알려진 최재영 목사가 9일 오전 서울 종로구 광화문 KT 빌딩에 위치한 김건희 특검에 참고인 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최 목사는 9일 오전 9시 20분쯤 서울 종로구 KT광화문빌딩에 모습을 드러냈다. 최 목사는 “김건희 부정부패 비리, 국정농단, 윤석열 정권 탄핵 시발점이 됐고 최초 문제제기를 했던 디올백 사건을 특검이 마무리되는 시점에 다시 확인하러 특검에 출두했다”고 했다. &lt;br&gt;&lt;br&gt;‘과거 서울중앙지검 조사 과정에서 본인의 진술이 누락되거나 축소됐다고 느꼈냐’는 취재진의 질문에 최 목사는 “김건희, 윤석열 눈치를 볼 수밖에 없는 수사관들 입장도 이해하지만 간과되거나 축소된 부분들도 없지 않아 있다”며 “그런 부분들도 소상하게 진술하거나 사실관계를 확인할 것”이라고 했다. 그러면서 “특검에 디올백 행방에 대해서도 문제제기하겠다”고 덧붙였다. &lt;br&gt;&lt;br&gt;이날 특검 사무실 빌딩에는 최 목사의 지지자들과 유튜버 10여 명이 “목사님 힘내십시오” “정의는 살아있다” 등 구호를 외치기도 했다.&lt;br&gt;&lt;br&gt;최 목사는 2022년 9월 서울 서초구 코바나컨텐츠 사무실에서 김 여사에게 디올백을 건넨 인물이다. 최 목사는 김 여사에게 디올백을 건네며 미국 민간외교사절단 행사 참여 요청, 김창준 전 미국 하원의원 국정자문위원 임명 등을 청탁했다고 주장한다.&lt;br&gt;&lt;br&gt;최 목사가 김 여사에게 디올백을 건넨 사실은 2023년 11월 인터넷 매체 서울의 소리가 해당 모습이 담긴 ‘몰래 카메라’ 영상을 공개하며 알려졌다. 서울의 소리는 해당 영상을 공개한 이후 김 여사를 청탁금지법 위반 혐의로 검찰에 고발했는데, 이를 수사한 중앙지검은 지난해 10월 직무 관련성이나 대가성이 없고 청탁금지법상 공무원 배우자를 처벌하는 규정이 없다며 김 여사를 불기소 처분했다. 당시 수사팀은 김 여사를 검찰청 조사실이 아닌 제3의 장소에서 조사해 ‘황제 조사’ 논란이 일기도 했다.&lt;br&gt;&lt;br&gt;특검은 최 목사에게 디올백을 선물한 경위, 검찰 조사 당시 상황 등을 물을 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>손흥민 임신 협박 女, 1심서 징역 4년 선고</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/09/H4B4SNURNRFD5NRUBWESNOU4J4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/09/H4B4SNURNRFD5NRUBWESNOU4J4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Dec 2025 15:49:00 +0000</pubDate>
-      <content:encoded>서울중앙지법 형사20단독 임정빈 판사는 8일 축구 국가대표 손흥민(33·LA FC) 선수의 아이를 임신했다고 협박해 3억원을 뜯어낸 혐의(공갈 및 공갈 미수)로 구속 기소된 20대 양모씨에게 징역 4년을 선고했다. 법원은 또 양씨와 함께 손흥민 선수에게 돈을 뜯어내려고 한 양씨의 남자친구 용모(40대)씨도 같은 혐의로 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;과거 손 선수와 교제했던 양씨는 작년 6월 “임신을 했다”며 태아 초음파 사진을 보내고 임신 사실을 폭로할 것처럼 협박해 손 선수로부터 3억원을 뜯어냈고, 이후 남자친구 용씨는 “언론과 가족에게 양씨의 임신 사실을 폭로하겠다”며 추가로 7000만원을 요구한 혐의로 구속 기소됐다.&lt;br&gt;&lt;br&gt;이에 대해 재판부는 “양씨는 임신 당시 의사에게 태아가 누구의 아이인지 확인한 바 없었고, 임신 중절 수술을 하거나 출산을 하는 경우 위험할 수 있다는 설명도 들은 바 없었다”면서 “유명인인 점을 노려 손 선수에게 큰 돈을 받아낸 것은 죄질이 나쁘다”고 했다. 공범 용씨에 대해선 “단순 협박이나 금전 요구에 그친 게 아니라, 손 선수가 유명인인 점을 이용해 언론과 광고사 등에 알리는 실행 행위로 나아갔다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/G7WAJ7LYABIYRCCGLTHHLET5DM.JPG?auth=ef98fbfa2ba4ba75b55faae76184e3265c98abf9bc714145a84ee1e7fbe3c7af&amp;smart=true&amp;width=4833&amp;height=3236" type="image/jpeg" height="3236" width="4833">
-        <media:description type="plain">(서울=뉴스1) 박세연 기자 = 축구 국가대표팀 주장 손흥민을 상대로 돈을 받아내려해 공갈 혐의를 받고 있는 양씨(20대 여성)가 17일 서초구 서울중앙지방법원에서 열린 구속 전 피의자심문(영장심사)에 출석하고 있다.
-
-양 씨는 지난해 6월 손흥민 측에 "아이를 임신했다"며 태아 초음파 사진을 보내고 이 사실을 폭로하겠다고 협박해 3억 원을 뜯어낸 혐의를 받는다. 양 씨가 주장하는 임신 시점은 손흥민 측 진술과 차이가 있는 것으로 알려졌다. 2025.5.17/뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박세연 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
       <title>대선前 통일교 행사 온 펜스, 尹뿐 아니라 위성락·김현종도 만났다</title>
       <link>https://www.chosun.com/national/court_law/2025/12/09/5KAFEERZKNDB3ESA3W5EZYNR2I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/09/5KAFEERZKNDB3ESA3W5EZYNR2I/</guid>
@@ -940,15 +945,6 @@
       <description/>
       <pubDate>Mon, 08 Dec 2025 15:53:00 +0000</pubDate>
       <content:encoded>내년 6·3 지방선거를 5개월여 앞두고 여야의 17개 시·도지사 후보군이 윤곽을 드러내고 있다. 민주당은 ‘내란 프레임’을 통해 서울·부산 등 핵심 지역의 탈환을 목표로 하는 반면, 국민의힘은 ‘반(反)이재명 전선’을 만들어 최대한 수성하겠다는 전략이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJAIJ77ILVBUNGAOJ7M2RGJZAI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇수도권&lt;/b&gt;&lt;br&gt;&lt;br&gt;최대 승부처는 서울이다. 국민의힘 오세훈 서울시장이 연임에 도전하는 가운데, 나경원 의원이 출마를 저울질 중이다. 민주당에서는 김영배·박주민·박홍근·서영교·전현희 의원이 이미 출마를 선언했거나 출마 예정이다. 박용진·홍익표 전 의원, 정원오 성동구청장도 조만간 출마 선언을 할 것으로 알려졌다. 조국혁신당 조국 대표는 당내 출마 요구가 강하고, 진보당 이상규 전 의원은 출마를 결심했다.&lt;br&gt;&lt;br&gt;경기도에서는 민주당 김동연 지사가 재선에 도전하는 가운데, 김병주·추미애·한준호 의원이 후보군으로 꼽힌다. 권칠승 의원도 곧 출마 선언을 한다. 양기대 등 전직 의원들도 여럿 이름이 오르내린다. 국민의힘에선 김문수 전 고용노동부 장관이 후보로 거론된다. 심재철·원유철·유승민 전 의원 등도 출마를 고려 중이다. &lt;br&gt;&lt;br&gt;인천에서는 국민의힘 유정복 시장이 3선을 노린다. 당내에선 이학재 인천국제공항공사 사장, 배준영·윤상현 의원 등이 경선에서 도전장을 내밀 것으로 보인다. 민주당은 정일영 의원이 출마를 선언했고 김교흥·박찬대 의원, 박남춘 전 시장과 이성만 전 의원이 출마 선언 시기를 조율 중이다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇영남권&lt;/b&gt;&lt;br&gt;&lt;br&gt;영남권 시·도지사 5곳은 2022년 지방선거 당시 국민의힘이 휩쓸었다. 민주당은 내년 선거에서 보수 텃밭인 영남 중 부산·경남 등 2곳 이상에서의 승리를 목표로 하고 있다. 국민의힘 역시 “한 곳도 뺏길 수 없다”는 입장이다.&lt;br&gt;&lt;br&gt;대구시장으로는 국민의힘에서 김상훈·유영하·윤재옥·주호영·최은석·추경호 의원이 후보로 거론된다. 이진숙 전 방송통신위원장도 후보군으로 꼽힌다. 민주당에선 홍의락 전 의원이 출마 뜻을 밝힌 가운데, 김부겸 전 국무총리의 출마 요구가 나온다.&lt;br&gt;&lt;br&gt;경북에서는 국민의힘 이철우 지사가 암 투병 중에도 3선 도전을 시사한 가운데, 송언석·임이자 의원이 출마를 준비하는 것으로 알려졌다. 김석기·김정재·이만희 의원과 최경환 전 경제부총리, 김재원 최고위원, 김주수 의성군수, 이강덕 포항시장 등도 거론된다. 민주당에서는 권오을 국가보훈부 장관, 권영세 전 안동시장, 오중기 전 청와대 선임행정관이 후보군이다.&lt;br&gt;&lt;br&gt;부산은 서울에 이어 최대 격전지다. 국민의힘에선 박형준 시장이 3선에 나서는 가운데, 김도읍·이헌승·조경태 의원 등이 도전장을 낼 가능성이 나온다. 민주당은 전재수 해양수산부 장관, 이재성 전 부산시당위원장, 박재호 전 의원이 후보군이다.&lt;br&gt;&lt;br&gt;울산은 국민의힘 김두겸 시장이 재선 도전 뜻을 밝혔고 박성민·서범수 의원 등이 후보군에 이름을 올렸다. 민주당은 이선호 대통령실 비서관, 송철호 전 시장, 성인수 전 울산시당위원장 등이 거론된다.&lt;br&gt;&lt;br&gt;경남은 국민의힘 박완수 지사가 재선에 도전할 전망이다. 김태호·윤영석 의원, 김성태·조해진 전 의원도 후보로 거론된다. 민주당에선 김경수 지방시대위원장과 김두관 전 지사 등이 당내 경선에서 맞붙을 가능성이 나온다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇호남권&lt;/b&gt;&lt;br&gt;&lt;br&gt;광주·전남·전북 등 민주당 텃밭을 두고는 범여권 내 양보 없는 싸움이 펼쳐질 전망이다. 광주에서는 민주당 강기정 시장이 재선 도전을 확실시하고 있고, 민형배·정준호 의원과 문인 북구청장, 이병훈 전 의원이 출마 뜻을 밝혔다. 이형석 전 의원도 출마를 고려 중이다. 조국혁신당은 서왕진 원내대표, 국민의힘은 안태욱 광주시당위원장과 박은식 전 동남을 당협위원장 등이 거론된다.&lt;br&gt;&lt;br&gt;전남은 민주당 김영록 지사가 3선 도전을 이미 선언했다. 신정훈·이개호·주철현 의원 등도 출마를 했거나 곧 할 예정이다. 국민의힘에선 이정현 전 대표, 김화진 전남도당위원장이 거론된다.&lt;br&gt;&lt;br&gt;전북에서는 민주당 김관영 지사가 재선에 도전한다. 국토교통부 장관인 김윤덕 의원, 통일부 장관인 정동영 의원도 주변에서 출마를 권유하고 있는 것으로 알려졌다. 안호영·이원택 의원, 정헌율 익산시장 등도 후보군이다. 국민의힘에서는 이용호·정운천 전 의원 등이 거론된다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇충청권 및 강원, 제주&lt;/b&gt;&lt;br&gt;&lt;br&gt;대전은 국민의힘 이장우 시장이 재선을 노리는 가운데, 윤창현·이은권 전 의원, 박경호 대덕 당협위원장 등이 경쟁자로 거론된다. 민주당에서는 장종태·장철민 의원과 허태정 전 시장이 출마를 준비 중인 것으로 알려졌다. 박범계·조승래 의원, 박병석 전 국회의장도 거론된다.&lt;br&gt;&lt;br&gt;세종은 국민의힘 최민호 시장이 재선에 나서는 게 확실시된다. 민주당에서는 이춘희 전 시장, 조상호 전 경제부시장 등이 출마 가능성이 나온다. 조국혁신당 황운하 의원도 출마를 고민하고 있다.&lt;br&gt;&lt;br&gt;충남에서는 국민의힘은 김태흠 지사가 연임 도전에 나선다. 민주당에서는 문진석·박수현·복기왕·어기구 의원 등이 거론되고 양승조 전 지사가 출마 의사를 밝혔다. 강훈식 대통령비서실장의 차출론도 나온다.&lt;br&gt;&lt;br&gt;충북에서는 국민의힘은 김영환 지사가 재선 도전 뜻을 밝혔고 조길형 충주 시장도 출마를 공식화했다. 엄태영·이종배 의원도 거론된다. 민주당은 노영민·도종환 전 의원, 신용한 지방시대위원회 부위원장 등이 후보군으로 꼽힌다.&lt;br&gt;&lt;br&gt;강원에서는 국민의힘 김진태 지사가 재선에 도전하는 가운데 유상범·이양수·이철규 의원이 출마를 저울질하고 있다. 민주당은 우상호 대통령실 정무수석과 이광재 전 지사의 출마설이 나온다.&lt;br&gt;&lt;br&gt;제주에선 민주당 오영훈 지사의 재선 도전이 유력하다. 문대림·위성곤 의원, 송재호 전 의원도 출마 가능성이 있다. 국민의힘은 김승욱 제주을 당협위원장, 문성유 전 한국자산관리공사 사장, 장성철 전 제주도당위원장 등이 거론된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“우리 동네는 안돼” 또 떠돌이 되는 탈북민 학교</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/09/NYDZ36PWSFHEFPLQWKVL5RVEAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/09/NYDZ36PWSFHEFPLQWKVL5RVEAM/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 08 Dec 2025 15:49:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2DYO6WH3JRAUPJDNHPB3OZ565I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 2일 찾은 서울 강서구 가양동의 여명학교 정문 모습. /한영원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구 가양동의 여명학교는 학교 간판을 찾기 어려웠다. 탈북 청소년 대안 학교인 여명학교는 지난 2023년 8월 폐교한 염강초등학교 자리로 이전했다. 하지만 건물 외벽엔 ‘염강초등학교’ 문구가 그대로 남아 있었고, 학교 이름은 정문 옆 담장에 조그맣게 붙어 있었다. ‘탈북민 학교가 우리 동네에 웬 말이냐’는 주민 반발을 우려해 이사도 한밤중에 했다. 운동장과 부대 시설을 사용하지 않고, 건물도 1·2층만 사용한다.&lt;br&gt;&lt;br&gt;여명학교는 내년 2월이면 부지 계약이 만료된다. 주민들 반발로 두 번 이사해 이곳에 겨우 자리를 잡았는데 또다시 자리를 옮겨야 하는 처지가 된 것이다. 조명숙 교장은 “대체 부지를 못 찾고 있다”며 “되도록 지금 자리에 오래 머물고 싶은데...”라고 했다.&lt;br&gt;&lt;br&gt;여명학교는 일반 학교에서 적응하지 못하는 탈북 청소년들을 위해 교회 23곳이 힘을 모아 2004년 9월 서울 봉천동 대로변의 상가 건물에서 문을 열었다. 학생 수가 늘어나 2008년 서울 중구 남산 건물로 이전했다. 2010년엔 서울교육청에서 정식 대안학교 인가도 받았다. 2019년 운동장이 있는 학교 건물을 짓기 위해 은평구 부지 매입을 추진했지만, 주민들이 거세게 반대해 무산됐다. 탈북민 혐오 문구가 적힌 현수막이 걸렸고, 이전 반대 민원이 구청에 잇따랐다고 한다. 서울교육청 도움으로 2023년 겨우 염강초 폐교 부지 임시 사용 허가를 받았다. 북한, 중국과 러시아 등에서 태어난 탈북 청소년 등 101명이 이곳에서 중고교 과정을 밟고 있다.&lt;br&gt;&lt;br&gt;여명학교는 조만간 서울시교육청에 계약 연장을 신청할 예정이다. 하지만 다른 기관이 현 건물에 들어올 가능성이 크다고 한다. 계약이 연장되더라도 2027년 2월이 되면 다른 거처를 마련해야 한다. 서울시교육청 내부 규정에 따라 부지 계약 연장은 한 번에 한해 1년 동안만 가능하기 때문이다. 서울 밖으로 옮길 경우 서울교육청이 인가한 정규 학력 인정이 취소돼 경기도로 옮길 수도 없다. 학교 관계자들은 “학생들이 이곳에서 적응해서 열심히 공부하고 있는데, 또다시 자리를 옮기면 스트레스를 받을 것”이라고 했다.&lt;br&gt;&lt;br&gt;조 교장은 “목숨을 걸고 탈북한 청소년들이 한국 사회에 적응해 대한민국 국민으로 살아가는 데 도움을 주는 교육 시설”이라며 “한국의 아이들로 봐줬으면 좋겠다”고 했다. 노진철 경북대 사회학과 교수는 “서울시·구청과 교육청이 부지 마련을 위해 주민과의 대화, 합의 기구를 마련하는 데 적극 나서야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘국가안보실 인사 개입’ 윤재순·임종득 기소</title>
