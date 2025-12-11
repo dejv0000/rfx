@@ -13,6 +13,73 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동북아생물보전대상에 윤성명 조선대 교수</title>
+      <link>https://www.chosun.com/national/people/2025/12/11/DNLX7W5QSNCZZBERUVVDC6UXRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/11/DNLX7W5QSNCZZBERUVVDC6UXRQ/</guid>
+      <dc:creator>김민철 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 10:18:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3AGOVGYJRB57GD3UXXG53N5RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤성명 조선대 생명과학과 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동북아생물다양성연구소(소장 현진오)는 제20회 동북아생물보전대상을 무척추동물 분류학자 윤성명(63) 조선대 생명과학과 교수에게 수여했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;윤 교수는 30여 년 동안 무척추동물 분류와 연구에 헌신해 가는채찍옆새우속 등 새로운 속(屬) 3속, 털손긴팔옆새우, 구멍넓은배장수노벌레, 두토막고리털갯지렁이 등 신종 55종, 긴꼬리투구새우, 털줄뾰족코조개벌레, 긴배물벼룩 등 한반도 미기록종 85종을 발굴했다. 미기록종은 이미 학계에 알려져 있지만 국내에서 처음 발견된 생물 종이다. &lt;br&gt;&lt;br&gt;선정위는 “수상자는 무척추동물 분류 및 계통 연구에 헌신해 한반도 생물 다양성 규명에 공헌했으며, 멸종 위기종 보전 분야에도 크게 기여해 대한민국 생물 다양성 연구와 보전에 큰 업적을 남겼다”고 밝혔다. 윤 교수는 한국동물분류학회 부회장, 회장, 감사를 역임했고 학회 학술지(ASED) 편집위원장을 맡았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “임금피크제 적용 시 출생월에 따른 성과급 차별 없어야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/11/UYZHVHJPFFGGDHGYTYG3UZNRMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/11/UYZHVHJPFFGGDHGYTYG3UZNRMM/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 09:59:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43W7DJNUYFE4P5BMN2Q3TYJHLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 임금피크제를 적용받는 직원의 출생월에 따라 성과급이 다르게 지급되는 것은 차별에 해당한다고 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 지난해 10월 이 같은 내용을 A사에 통지하고 시정을 권고했으나, A사는 권고를 받아들이지 않았다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A사는 전년도 업무에 따른 성과급을 매년 5월 급여를 기준으로 산정하고, 임금피크제 대상 직원에게는 임금 삭감률만큼 성과급을 줄여 지급한다. 이로 인해 임금피크제가 적용된 1~4월생 직원이 5~12월생 직원보다 적은 성과급을 받게 됐고, 1월생인 A사 직원은 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;인권위는 “전년도 업무에 대해 지급되는 성과급이 금년도 임금피크제 적용에 따라 삭감되는 것은 개인의 업무 성과 및 실적과 무관하다”며 이를 합리적인 이유 없는 차별 행위라고 판단했다. 또 A사에 공정한 성과급 책정 방안을 마련할 것 등을 권고했다.&lt;br&gt;&lt;br&gt;그러나 A사는 인권위의 권고 이후 1년이 지났음에도 이행 계획 등을 제출할 의사가 없다고 밝혔다. 이에 인권위는 A사가 권고를 불수용한 것으로 판단하고 국가인권위원회법에 따라 결정 내용을 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘엄마 중태’ 무면허 킥보드 사고… 대여 업체도 방조 혐의 입건</title>
+      <link>https://www.chosun.com/national/incident/2025/12/11/XMA37PQM6NCDLKJQ4UYEYRRASY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/11/XMA37PQM6NCDLKJQ4UYEYRRASY/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 09:06:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생이 몰던 전동 킥보드에 치여 30대 여성이 중태에 빠진 사고와 관련, 킥보드 대여업체 소속 임원과 해당 법인이 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 무면허 운전 방조 혐의로 전동 킥보드 대여업체 소속 임원 A씨와 해당 법인을 불구속 입건했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨와 소속 법인은 지난 10월 18일 전동 킥보드를 대여하는 과정에서 면허 소지 여부를 제대로 확인하지 않고 중학생 B양에게 대여해 무면허 운전을 방조한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;도로교통법은 개인형 이동장치(PM)인 전동 킥보드의 경우, 원동기 면허나 자동차 면허를 가진 사람만 사용할 수 있도록 규정하고 있다. &lt;br&gt;&lt;br&gt;경찰은 추가 조사를 거쳐 A씨와 킥보드를 운전한 B양 등 중학생 2명을 함께 검찰에 송치할 방침이다. &lt;br&gt;&lt;br&gt;우리나라에서 무면허 운전 방조 혐의로 킥보드 대여업체가 입건된 사례는 드문 경우로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사고와 관련해, 킥보드 대여업체 측에도 범죄 혐의점이 있다고 보고 입건했다”고 말했다. &lt;br&gt;&lt;br&gt;B양 등 중학생 2명은 앞서 지난 10월 18일 인천 연수구에서 전동킥보드를 타다 어린 딸과 길을 걷던 30대 여성을 치는 사고를 내 교통사고처리특례법상 치상과 도로교통법상 무면허 운전 등 혐의로 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;사고 당시 여성은 어린 딸에게 향하는 킥보드를 막아서다가 머리 등을 다쳐 중태에 빠졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사법 개편 토론회 “사법 개혁인지 사법 통제인지” “법원, 침몰 직전 난파선”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/11/FLMJFMANWNFXNMZ5YEEE5OVJWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/FLMJFMANWNFXNMZ5YEEE5OVJWE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 09:03:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NLH2UNXKT5FKVOKOMD2RXS4VUQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 서울 서초구 법원종합청사 청심홀에서 '국민을 위한 사법 제도 개편' 공청회 종합토론이 열렸다. /대법원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 개최한 ‘국민을 위한 사법 제도 개편’ 공청회 마지막 날인 11일 전직 대법관·헌법재판관 등 법조계 원로들이 모여 토론을 벌였다. 토론회 좌장을 맡은 김선수 전 대법관 등 토론자 6명은 대법관 증원 규모 등과 관련해 세부 내용에 대해선 의견이 갈렸지만 “사법 제도 개편 논의가 정치적 논쟁에서 벗어나야 한다”는 데 의견을 같이했다. 내란전담재판부와 법 왜곡죄 도입 등 ‘사법부 압박 법안’을 비판하는 목소리도 나왔다.&lt;br&gt;&lt;br&gt;서울대 법대 교수를 지낸 박은정 전 국민권익위원장은 “과거 사법 개혁 때는 사법 독립의 중요성과 전문가 집단에 대한 존중이 깔려 있었는데, 지금은 정치적 갈등이 고조된 시기에 사법부가 일방 압박을 받고 있다”며 “‘사법 개혁’인지 ‘사법 통제’인지 헷갈린다”고 했다. 다만 김선수 전 대법관은 “법원은 3·7 윤석열 전 대통령 구속 취소와 5·1 대법원의 이재명 대통령 공직선거법 사건 파기환송 판결로 암초를 만나 침몰 직전의 난파선이 됐다”며 “법원이 내란 극복에 적극적으로 임해야 국민 신뢰를 회복할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법관 증원, 4명·8명·12명 갈려&lt;/b&gt;&lt;br&gt;&lt;br&gt;토론에선 대법관 증원 방안을 두고 반대하는 입장과 4명·8명·12명 증원안 등으로 의견이 갈렸다. 조재연 전 대법관은 “단기간 내 대규모 증원은 사실심(1·2심) 약화와 정치적 논쟁 등 여러 문제가 있다”며 “필요하다면 4명 늘려 소부(小部) 하나를 더 만드는 게 적정하다”고 했다. &lt;br&gt;&lt;br&gt;문형배 전 헌법재판관은 상고 사건을 걸러내는 ‘상고심사제’와 변호사 강제주의 도입을 전제로 대법관 8명을 순차 증원하는 안을 제안했다. 김선수 전 대법관은 3년간 4명씩 12명 증원하는 민주당안에 찬성했다. 김 전 대법관은 “대법관을 두 배 가까이 늘리면 주심 사건이 절반으로 줄어 심층 심리가 가능하다”고 했다.1·2심 강화가 더 중요하다는 주장에 대해선 “똑같은 반박이 20년 전에도 있었다”며 “대법관 증원과 하급심 강화는 충돌하는 게 아니다. 동시에 추진해야 한다”고 했다. &lt;br&gt;&lt;br&gt;반면, 차병직 법무법인 클라스한결 변호사는 “대법관을 두 배로 늘려도 사건당 심리할 수 있는 시간이 1분 정도 늘어나는 데 그친다”며 “국민의 권리 구제가 두 배 효과를 낸다고 기대할 수 없다”고 반박했다. 법조 기자 출신인 심석태 세명대 저널리즘스쿨 교수도 “한정된 자원을 대법관 증원과 하급심 강화 어느 쪽에 쓸 것인지 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 판결에 헌법소원을 낼 수 있는 ‘재판소원’ 도입을 우려하는 목소리도 나왔다. 조재연 전 대법관은 “재판소원이 허용되면 헌재가 지금 대법원이 겪고 있는 문제(사건 적체)에 직면할 것”이라고 했고, 차병직 변호사도 “모든 사건이 헌법 쟁점화될 것”이라고 했다. 문형배 전 재판관도 “재판소원 제도가 있는 독일에서도 인용률이 1% 안팎에 그친다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“법원행정처 폐지되면 정치적 영향력 노출 위험”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 토론에서는 민주당이 추진 중인 내란전담재판부에 대한 우려도 나왔다. 박은정 전 위원장은 “실제 시행을 염두에 뒀다기보다 현재 비상계엄 관련 사건 재판부에 대한 압박용일 것”이라며 “내 사건 배당에 외부 인사가 관여하거나 정치권 입김이 들어오는 판사가 담당한다고 하면 재판 당사자로서 승복하기 어려울 것”이라고 했다. 차병직 변호사도 “법안을 수정·보완할 문제가 아니라 설치 자체가 문제”라고 했다. 문형배 전 재판관은 “사건 배당에 외부 인사가 관여하는 건 문제가 있지만, 내란 재판은 예외적 정당성을 인정할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;법 왜곡죄에 대해서는 비판적 시각이 주를 이뤘다. 차병직 변호사는 “정치 형법이 하나 더 생기는 것”이라고 했고 박은정 전 위원장은 “조문이 추상적이고 모호하게 만들어질 수밖에 없어 신중하게 접근해야 한다”고 했다. 법원행정처를 폐지하고 외부 인사가 참여하는 사법행정위원회에 법원 인사·예산을 맡기는 안에 대해 박은정 전 위원장은 “법관이 재판에 집중할 수 있게 행정 업무 부담을 줄여야 한다”면서도 “위원회 체제는 정치적 영향력에 노출될 수 있다”고 지적했다. &lt;br&gt;&lt;br&gt;이날까지 사흘간 진행된 이번 공청회는 대법원이 민주당 주도의 사법 제도 개편에 대해 법조계·학계·일반 국민 의견을 듣기 위해 마련했다. 앞서 이틀간 열린 공청회에서는 대법관 증원 등 상고제도 개편과 압수 수색 영장 사전 심문제 등 형사·사법 제도 개편 방향에 대한 논의가 이뤄졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“사랑의교회, 도로 원상 복구 안 해도 된다” 항소심 승소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/11/I5SOZUD2HNAXRCL5SITMTKZALE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/I5SOZUD2HNAXRCL5SITMTKZALE/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 08:47:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGGZRYMUZTCMBTHA2GGZDGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 사랑의 교회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예배당을 새로 지으면서 도로 지하를 쓰기 위해 구청 허가를 받았다가 법원 판결로 취소됐던 사랑의교회가 원상 복구를 안해도 된다는 항소심 판결이 11일 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구회근)는 이날 서울 서초구 대형 교회인 사랑의교회가 서초구를 상대로 낸 원상회복 명령 취소 소송 항소심에서 사랑의교회 패소로 판결한 1심을 뒤집고 “서초구의 원상회복 명령을 취소한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 소송은 지난 2010년 사랑의교회가 서초역 인근에 새 건물을 올리면서 시작됐다. 사랑의교회는 서초구에 도로 지하 공간을 사용할 수 있게 해달라고 신청했고 서초구는 건물 일부를 어린이집으로 기부채납 받는 등 조건으로 도로 지하 1077㎡를 쓰도록 ‘도로점용 허가’를 내줬다. 사랑의교회는 이 공간에 대강당과 주차장, 창고 등을 만들었다.&lt;br&gt;&lt;br&gt;그러자 서초구민 일부가 부당한 특혜라고 주장하면서 2011년 서울시에 감사를 청구했다. 서울시는 감사 결과 도로점용 허가 처분을 시정하라고 했지만 서초구가 받아들이지 않았고, 주민들은 2012년 “서초구가 내준 도로점용과 건축 허가를 취소해달라”며 주민소송을 냈다. &lt;br&gt;&lt;br&gt;주민소송 1·2심은 “도로점용이나 건축 허가 처분은 재산적 가치가 있는 물건이나 권리에 해당한다고 볼 수 없어 주민소송 대상이 아니다”라며 각하했다. 그러나 대법원은 2016년 “도로점용 허가는 주민소송 대상이 된다”는 취지로 파기환송했고 이후 파기환송심을 거쳐 2019년 재상고심에서 서초구의 도로점용 허가가 위법이라는 판결이 확정됐다. 서초구청은 대법원 판결에 따라 2020년 사랑의교회 측에 원상회복하라는 명령을 내렸다. 도로법상 도로점용허가가 취소되면, 원상 복구가 불가능하거나 부적당한 경우를 제외하고는 원상 복구를 해야 한다.&lt;br&gt;&lt;br&gt;앞서 작년 3월 1심은 서초구의 원상회복 명령에 문제가 없다며 사랑의교회 패소로 판결했다. 그러나 이날 2심 재판부는 “원상 복구가 부적당한 경우”라고 판단했다. 감정 결과 원상 복구를 위한 굴착 공사 과정에서 지반 침하 위험이 있고, 인근 노후 상하수도관이 파손 등으로 싱크홀이 생길 수 있다는 의견이 나왔기 때문이다. 또, 원상 복구를 하려면 사랑의교회 건물 지하 1~8층의 대강당·주차장·정화조 등 시설과 구조물을 철거해야 하는데 건물 하중을 지지하는 핵심 부재인 지하외벽 등을 철거하면 건물 안정성에도 문제가 생긴다는 의견도 제기됐다.&lt;br&gt;&lt;br&gt;재판부는 “이 도로 원상회복에는 최소 1120억3500만원의 비용과 50개월 이상의 공사 기간이 소요되고, 평소 유동 인구가 많은 인근에 장기간 교통 혼잡과 소음·분진 등 심각한 불편을 초래할 것이 예상된다”고 했다. 재판부는 또 “이 사건에서는 도로의 원상회복 기술적 난이도나 구체적인 위험성이 새롭게 인정됐기 때문에 관련 확정 판결의 기속력에 반한다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>층간소음에 위층 이웃 살해한 47세 양민준, 신상공개</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/11/TXBOEFUD4BFYPAGPK4PDFZEIKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/11/TXBOEFUD4BFYPAGPK4PDFZEIKU/</guid>
+      <dc:creator>예산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 08:32:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RF7FDLWZIJGWLHTGMFLJRDC3PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청은 11일 살인 등의 혐의를 받는 양민준(47)의 신상을 공개했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간소음에 불만을 품고 위층 주민을 살해한 양민준(47)의 신상 정보가 11일 공개됐다.&lt;br&gt;&lt;br&gt;충남경찰청은 이날 신상정보공개심의위원회를 열고 양민준의 이름, 나이, 사진 등을 충남경찰청 누리집에 30일간 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;심의위원들은 범행의 잔인성과 피해의 중대성, 피해자 유족의 의견 등을 종합적으로 고려해 신상정보를 공개하기로 의견을 모았다.&lt;br&gt;&lt;br&gt;특정 중대범죄 피의자 등 신상정보 공개에 관한 법률에 따르면 심의위의 결정에 피의자가 이의를 제기할 경우 공개 결정이 나더라도 5일간 유예기간을 둬야 하지만 양씨가 별도의 이의를 제기하지 않아 당일 공개됐다.&lt;br&gt;&lt;br&gt;양민준은 지난 4일 오후 2시 30분쯤 천안시 서북구 한 아파트에서 자신의 거주지 위층을 찾아가 70대 이웃 주민 A씨에게 흉기를 휘둘러 살해한 혐의(살인 등)를 받는다.&lt;br&gt;&lt;br&gt;당시 흉기에 다친 A씨는 아파트 관리사무소로 달아난 후 문을 잠갔다. 하지만 양민준은 자신의 승용차를 몰아 이곳으로 돌진해 문을 부순 후 A씨를 쫓아가 다시 흉기를 휘두른 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 구속된 양민준을 12일 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DFQFWXYE5VD75MMU3FEMZFEAOQ.jpg?auth=64f07572d09f3be7dad4baed5c3778acc4ae91378b23fe4a8e7a35384164250c&amp;smart=true&amp;width=353&amp;height=265" type="image/jpeg" height="265" width="353">
+        <media:description type="plain">충남경찰청은 11일 살인 등의 혐의를 받는 양민준(47)의 신상을 공개했다. /충남경찰청</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>특검 “‘편파수사’ 주장 강한 유감...특검법상 수사 대상 아냐”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/11/ZMYKJVTCCVATDFUDN4EBMBWP24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/ZMYKJVTCCVATDFUDN4EBMBWP24/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 08:20:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDKZBTGFRWGMJRHBRDQZBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 2일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막을 마친 뒤 발언을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특별검사팀이 ‘편파수사’ 의혹에 강한 유감을 표명했다. 특검은 통일교 전 세계본부장 윤영호씨로부터 ‘2022년 대선 전후로 여야 전현직 의원들에게 금품을 제공했다’는 진술을 확보했음에도 국민의힘 의원들만 선택적으로 수사했다는 지적을 받고 있다.&lt;br&gt;&lt;br&gt;박노수 특별검사보는 11일 정례 브리핑에서 "윤영호 전 본부장의 진술에서 언급된 대상은 특정 정당만의 정치인이 아니라 여야 정치인 5명이었다”고 말했다. 특검이 로비 의혹이 제기된 정치인 관련 내용을 공식적으로 확인한 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;박 특검보는 “특정 정당을 위한 편파수사란 말은 성립될 수 없다”고 했다. 그는 “윤 전 본부장의 진술 사안이 특검법상 수사 대상이 아니라는 점에 대해 수사팀 내 어떠한 이견도 없었다는 점을 다시 한번 강조한다”며 “이 사안에 대해 수사하지 않은 게 특정 정당을 위한 편파수사라는 취지의 보도나 주장이 잇따르는 데 강한 유감을 표한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;특검은 지난 8월 윤씨를 면담하는 과정에서 ‘여야 의원들을 모두 후원했다’는 내용의 진술을 확보했지만 정식 수사에 착수하지 않고 수사보고서에만 해당 내용을 남겼다. 사안을 인지했음에도 수사를 개시하거나 사건을 타 기관에 넘기지 않은 게 알려지자 특검의 조처를 두고 ‘선택적 수사’ ‘편파 수사’ 등 비판이 일었다. &lt;br&gt;&lt;br&gt;특검은 논란이 불거지자 사건을 윤씨의 진술을 들은 지 4개월 만인 지난 9일 경찰청 국가수사본부로 이첩했다. 특검 관계자는 이에 대해 “수사 기간 종료 후 (사건을) 일괄 이첩하려 했는데 예기치 않게 언론에 (내용이) 공개됐다”며 “비밀성이 상실됐기에 증거인멸 우려가 제기되는 상황이어서 이첩을 미룰 수 없게 됐다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘광주 도서관 신축 공사장 붕괴’ 작업자 4명 매몰... 1명 사망</title>
       <link>https://www.chosun.com/national/incident/2025/12/11/3J5CFIS4P5DAJKTWZWCT4E7FMA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/11/3J5CFIS4P5DAJKTWZWCT4E7FMA/</guid>
@@ -805,15 +872,6 @@
       <content:encoded>김건희 여사에게 청탁과 함께 금품을 건넨 혐의로 재판을 받는 통일교 전 세계본부장 윤영호씨가 10일 최후진술에서 특검의 위법수집증거 문제를 지적했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WU7LPITIHZE7NA3LEA22S6SFZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 통일교 세계본부장./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤씨는 이날 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 재판 최후 진술에서 “꼭 말씀드리고 싶다”며 특검의 위법수집증거를 문제 삼았다. 그는 “일련의 사건 과정들을 통해 적법 절차 수사의 중요성을 온몸으로 직접 체감했다”며 “아무리 특별한 정치적 국면에 있더라도 (적법 절차는) 우선적으로 존중돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;윤씨 측 변호인도 이날 최후변론에서 위법수집증거 문제를 언급했다. 변호인은 특검이 지난해 서울남부지검에서 청탁금지법 혐의로 압수한 증거를 폐기하지 않고 보관하고 있다가 윤씨를 추궁해 혐의와 관련 없는 범죄행위까지 기소했다고 지적했다. 변호인은 “특검은 김 여사에게 목걸이를 전달했다는 범죄 사실에 관해서만 영장을 발부받았기에 나머지 증거는 모두 폐기해야 하지만 그러지 않았다”며 “이는 형법에서 정한 영장주의 원칙에 위배된다”고 했다.&lt;br&gt;&lt;br&gt;윤씨가 특검이 수사에 사용된 증거를 위법하게 수집했다며 특검의 수사 방식에 문제를 제기한 것은 이번이 처음이 아니다. &lt;br&gt;&lt;br&gt;특검은 윤씨를 정치자금법·청탁금지법 위반 혐의 등으로 기소하며 윤씨의 아내이자 통일교 재정국장을 지낸 이모씨의 휴대전화에서 발견된 현금 상자 사진, 윤씨의 다이어리 메모 등을 압수했는데, 해당 증거는 국민의힘 권성동 의원을 정치자금법 위반 혐의로 구속기소하는 증거로 사용됐다. 특검은 해당 사진과 다이어리 기재 내용 등을 토대로 금품이 권 의원에게 전달됐다고 판단했다.&lt;br&gt;&lt;br&gt;윤씨는 특검이 제시한 증거가 증거 능력이 없다는 입장이다. 해당 증거는 남부지검이 ‘건진 법사’ 전성배씨와 김 여사 금품 의혹을 수사하기 위해 압수한건데, 특검이 이를 별건수사인 권 의원의 정치자금법 위반 혐의에 사용했기 때문이다.&lt;br&gt;&lt;br&gt;윤씨는 수사 과정에서 방어권을 보장받지 못했다는 점도 언급한 바 있다. 윤씨 측은 “방어권 행사를 위해 (윤씨가 특검에) 다이어리를 반환받아 확인할 수 있게 해달라고 요청했으나 특검은 9차례 조사를 모두 마친 후 공소 제기 직전에 다이어리 사본을 교부해줬다”며 “별건 범죄 사실들 중 일부에 대해선 조사 과정에서 아무런 질문이나 추궁도 하지 않은 채 공소를 제기했다”고 했다. 윤씨는 지난달 28일 권 의원 재판에 증인으로 나와 “위법 수집 증거에 대한 부분은 진술을 거부하는 게 제 재판에서 필요할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;특검은 청탁금지법 위반 혐의 사건과 권 의원 사건 사이에 관련성이 인정돼 문제가 없다는 입장이다. 통일교가 교단 관련 현안을 청탁하기 위해 관련자들에게 금품을 제공하는 과정에서 김 여사와 권 의원 모두에게 청탁하며 금품을 제공했기에 범행 동기와 경위가 동일하다는 것이다. &lt;br&gt;&lt;br&gt;반면 재판부는 윤씨 주장의 정당성을 따질 필요가 있다고 보고 서울남부지검 수사관 A씨를 증인으로 불러 심문하기도 했다. 특검은 “수사 절차는 모두 적법하게 진행됐다”며 증인 신청을 기각해달라고 했지만, 재판부는 A씨를 증인으로 채택했다. &lt;br&gt;&lt;br&gt;법조계에선 공정한 판결을 위해선 특검의 증거 수집 방식을 검토해봐야 한다는 지적이 나온다. 검찰 출신 변호사는 “수사 기관이 위법하게 수집한 증거는 법적으로 사용을 금지하고 있다”며 “죄가 인정되더라도 결정적인 증거가 위법하게 수집됐다면 유죄 판결을 내리기 어렵다”고 말했다.&lt;br&gt;&lt;br&gt;특검은 윤씨에 대해 정치자금법 위반 혐의 징역 2년, 청탁금지법 위반 등 나머지 혐의에 징역 2년 등 징역 4년을 구형했다. 선고는 내년 1월 28일에 이뤄진다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“차 빼달라” 요청에 만취 상태로 운전한 순경 직위 해제</title>
-      <link>https://www.chosun.com/national/regional/2025/12/10/BHNYFDRLNBAHJBFZ66UN6WTANY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/10/BHNYFDRLNBAHJBFZ66UN6WTANY/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Dec 2025 10:10:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2DCNLBHFTDIYJUG42DEMRTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산경찰청 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 현직 경찰관이 음주 상태로 차량 운전대를 잡았다가 적발돼 경찰 조사를 받고 있는 사실이 뒤늦게 알려졌다.&lt;br&gt;&lt;br&gt;10일 부산경찰청에 따르면, 부산경찰청 기동대 소속 순경 20대 A씨가 도로교통법(음주운전) 위반 혐의로 부산진경찰서에 입건됐다.&lt;br&gt;&lt;br&gt;A순경은 지난달 말 부산진구 한 골목에서 차량을 빼달라는 요청을 받고 음주 상태에서 차량을 운전한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰은 A순경을 상대로 음주 측정을 실시했다. 당시 A순경의 혈중알코올농도는 운전면허 취소(0.08%) 수준의 만취 상태였다.&lt;br&gt;&lt;br&gt;현재 그는 직위 해제된 상태다. 경찰은 수사가 마무리되면 A순경의 징계를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“조진웅이 이순신?” 미화 포스터 확산...네티즌 와글와글</title>
       <link>https://www.chosun.com/national/people/2025/12/10/ZYQCYY25MZHTVMEAPTBMOUFXFA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/10/ZYQCYY25MZHTVMEAPTBMOUFXFA/</guid>
@@ -836,15 +894,6 @@
       </media:content>
     </item>
     <item>
-      <title>김건희 특검, 여사에게 디올 선물한 21그램 대표 배우자 소환 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/10/4NZ4EFSZIFASDFB5BJBVYMZITA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/10/4NZ4EFSZIFASDFB5BJBVYMZITA/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Dec 2025 08:20:18 +0000</pubDate>
-      <content:encoded>김건희 여사의 각종 의혹을 수사 중인 민중기 특별검사팀이 10일 인테리어 업체 21그램 대표의 배우자를 소환했다. 21그램은 김 여사에게 명품을 선물하고 그 대가로 관저 공사 계약을 따냈다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZTEZTDMY2GIZBTMM3TMMTGME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀 관계자가 지난 8월 서울 성동구에 위치한 인테리어 업체 21그램 사무실로 들어가고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에 따르면 특검은 이날 오전 10시부터 21그램 대표의 배우자 조모씨를 청탁금지법 위반 등 혐의 피의자로 조사하고 있다. 특검은 조씨가 김 여사에게 디올 재킷 등을 선물하고 그 대가로 관저 공사를 수주했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;앞서 특검은 지난달 6일 김 여사 자택 아크로비스타를 압수 수색하면서 조씨가 김 여사에게 전달한 것으로 의심되는 디올 브랜드의 재킷 16벌과 벨트 7개, 팔찌 1개를 확보했다. 특검은 지난 8월에는 21그램 사무실도 압수 수색했다.&lt;br&gt;&lt;br&gt;21그램은 김 여사가 운영한 코바나컨텐츠 주최 전시회를 후원하고 코바나컨텐츠 사무실 설계·시공을 맡았던 업체로, 김 여사와의 친분이 있는 것으로 알려졌다. 특히 유씨는 유경옥 전 행정관이 김 여사가 ‘건진법사’ 전성배씨에게 받은 샤넬 가방 2개를 신발 1개와 가방 3개로 교환하는 과정에서 웃돈 200만원을 대신 결제해 준 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;한편 특검은 오는 11일 김 여사를 소환해 조씨로부터 디올 제품을 받은 경위 등을 캐물을 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내일 전국 눈·비...모레 영하권 추위에 빙판·도로 살얼음 주의</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/10/IECACJZKN5AU3HHJ4XQVSQZFP4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/10/IECACJZKN5AU3HHJ4XQVSQZFP4/</guid>
@@ -861,24 +910,6 @@
       <description/>
       <pubDate>Wed, 10 Dec 2025 08:54:18 +0000</pubDate>
       <content:encoded>개인정보보호위원회가 10일 전체회의를 열고 쿠팡에 “회원 탈퇴 절차를 간소화하라”고 의결했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYGMNJVHEZTOZJYMIZGMZRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정은 개인정보보호위원회 조사2과장이 10일 서울 종로구 정부서울청사에서 개인정보 보호조치 개선 권고에 관한 브리핑을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인정보위의 개인정보 처리 실태 점검 결과, 쿠팡은 회원들이 회원 탈퇴 메뉴를 찾기 어렵게 한 것으로 확인됐다. 회원 가입은 4단계 절차를 거치면 가능하지만 탈퇴는 8단계 절차를 거쳐야만 하는 등 탈퇴 절차도 복잡하게 운영해 왔다.&lt;br&gt;&lt;br&gt;이에 개인정보위는 쿠팡에 “탈퇴 절차를 간소화하고 이용자들이 쉽게 알 수 있도록 공개하라”고 촉구했다. 개인정보위 관계자는 “회원 탈퇴를 어렵게 한 것이 개인정보보호법 38조 4항 위반 소지가 있는 것으로 판단했다”고 말했다.&lt;br&gt;&lt;br&gt;이번 점검에선 쿠팡이 작년 11월 ‘제3자가 서버에 불법 접속했을 때 발생하는 손해에 책임을 지지 않는다’는 내용의 면책 규정을 추가한 사실도 확인됐다. 개인정보위는 이것이 개인정보보호법 29조와 39조를 위반한 것으로 보고 개선을 요구했다.&lt;br&gt;&lt;br&gt;한편 이날 회의에선 지난 3일 개인정보위의 긴급 의결에 따른 쿠팡 측의 조치 결과도 점검했다. 개인정보위는 앞서 지난 3일 쿠팡에 개인정보 ‘노출’이 아닌 ‘유출’로 수정해 이용자들에게 개인정보 유출 여부를 다시 안내할 것 등을 의결했다.&lt;br&gt;&lt;br&gt;점검 결과, 쿠팡은 개인정보 ‘노출’을 ‘유출’로 수정하고 홈페이지에 공지문을 게시하는 등 의결 사항을 일부 이행한 것으로 확인됐다. 그러나 개인정보위는 비회원 대상 구체적인 통지 계획을 제출하지 않은 점, 홈페이지 공지문의 접근성이 부족한 점 등을 확인해 개선을 요구했다.&lt;br&gt;&lt;br&gt;개인정보위는 또 쿠팡 측에 “자체 모니터링과 대응 체계를 강화하라”고 촉구했다. 쿠팡 계정 정보가 인터넷 등에 유통되고 있다는 신고를 접수한 데 따른 조치다.&lt;br&gt;&lt;br&gt;개인정보위 관계자는 “쿠팡의 법 위반 사항을 확인하면 엄정 제재하고, 2차 피해가 발생하지 않도록 예방 조치도 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전주 사료 첨가제 공장서 폭발 사고…3명 화상</title>
-      <link>https://www.chosun.com/national/incident/2025/12/10/GNY7XXWWORGM7M77INGUNNHHX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/10/GNY7XXWWORGM7M77INGUNNHHX4/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Dec 2025 08:48:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RMV4V2DY5ADFHD45NUBJLOCS4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;10일 오후 4시 34분쯤 전북 전주시 상림동에 있는 사료 첨가제 제조 공장에서 폭발 사고가 발생했다. 이 사고로 공장에서 일하던 30대 남성 A씨 등 3명이 부상을 입고 병원으로 이송됐다. &lt;br&gt;&lt;br&gt;A씨는 중상, 20대 남성과 50대 남성은 각각 경상을 입은 것으로 확인됐다. 소방 당국은 ‘폭발 사고가 났는데 환자 3명이 발생했다’는 신고를 받고 출동해 부상자들을 병원으로 옮겼다. &lt;br&gt;&lt;br&gt;소방 당국은 “이들은 화상을 입은 것으로 추정된다”며 “정확한 사고 원인과 피해 규모 등을 확인하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>직원 임금·퇴직금 미지급한 40대 대표… 징역형</title>
-      <link>https://www.chosun.com/national/regional/2025/12/10/YG4QTXITIFFRZO6G3TED4ZGNYM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/10/YG4QTXITIFFRZO6G3TED4ZGNYM/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Dec 2025 08:42:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2DINBWMZQTMOJUMNRTSNBQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구지법./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직원들의 임금과 퇴직금 6700여 만원을 제때 주지 않은 혐의로 재판에 넘겨진 소프트웨어 개발업체 대표에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사7단독 박용근 부장판사는 근로기준법 위반 등의 혐의로 기소된 40대 A씨에게 징역 6개월을 선고했다고 10일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 10월부터 6개월간 직원 3명의 임금 4841만원과 이들의 퇴직금 1880만원을 제때 주지 않은 혐의로 재판에 넘겨졌다. A씨는 과거에도 같은 혐의로 1차례 형사처벌을 받은 것으로 조사됐다.&lt;br&gt;&lt;br&gt;박 부장판사는 “현재까지 체불 임금과 퇴직금 변제가 이뤄지지 않고 있다”며 “이로 인해 근로소득에 의존해 생활하는 이들이 입은 경제적, 정신적 피해가 매우 큰 것으로 보이며, 피해자들이 엄벌을 탄원하고 있다”고 양형 이유를 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>이재명 칭찬 받은 정원오 “난 李대통령과 같은 ‘일잘러’…한강버스는 관광용으로"</title>
@@ -900,35 +931,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/AV2NVLJNP5DXVIVAWI5ZZ3UJBY.jpg?auth=78f247139eb6faf994375423cf084bd26cf5f426a211ee3a7f7b57e5cb8ca80e&amp;smart=true&amp;width=720&amp;height=540" type="image/jpeg" height="540" width="720">
         <media:description type="plain">답변하는 조지호 경찰청장</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>법무부, 인터폴 적색 수배자 등 2명 검거·국외 송환</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/10/B4OA5AYAQJFORDPIXSF7BTZG7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/10/B4OA5AYAQJFORDPIXSF7BTZG7M/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 10 Dec 2025 06:22:21 +0000</pubDate>
-      <content:encoded>법무부가 국내에서 장기간 숨어 지내던 인터폴 적색 수배자 등 태국인 2명을 검거해 본국에 송환했다고 10일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KOF2ALKRUNKLVGF5Y5RZHZA4AI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무장관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법무부에 따르면, A씨는 2014년 한국에 입국해 약 11년간 불법 체류하다 지난달 24일 경남 김해시 한림면 소재 숙소에서 검거됐다. B씨는 인터폴 적색 수배자로 2019년 입국 후 불법 체류하다 지난달 27일 강원도 평창군 소재 숙소에서 검거됐다. &lt;br&gt;&lt;br&gt;이들은 모두 수원출입국·외국인청에 의해 붙잡혔는데, 해외 취업 사기 혐의로 수배돼 있던 상태였다. 법무부는 “국민 안전을 위협하는 외국인 범죄자에 대해 엄정히 대응하고, 강제퇴거 및 국외호송을 지속 추진할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“피해 학생, 우울장애 진단까지”…키움 박준현, 학폭 처분 왜 바뀌었나</title>
-      <link>https://www.chosun.com/national/people/2025/12/10/XCVHQ44AEVBFXCG2OMM7XT7MII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/10/XCVHQ44AEVBFXCG2OMM7XT7MII/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Dec 2025 22:50:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLIZQ2YBW2QTAJJ3IHFJQVF5VM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;키움 박준현. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 한국프로야구(KBO) 신인 드래프트에서 전체 1순위로 키움 히어로즈에 지명된 충남 북일고 야구부 투수 박준현에 대한 학교폭력 처분 결과가 ‘학폭 아님’에서 ‘학폭 행위 인정’으로 뒤집혔다. &lt;br&gt;&lt;br&gt;피해 학생을 대리하는 법무법인 태광은 9일 보도자료를 통해 “이번 사건은 운동부라는 특수한 환경 내에서 발생한 지속적인 괴롭힘 사안을 행정심판 단계에서 적극적으로 다퉈 원심의 판단을 뒤집고 피해 학생의 억울함을 해소했다는 점에서 의미가 크다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “박준현은 2023년 2월부터 같은 야구부 소속인 피해 학생에게 지속적으로 심부름을 시키고 욕설하는 등 언어폭력을 행사해 왔다”며 “부원들 사이에서 집단 따돌림을 주도하는 등 괴롭힘의 수위가 심각했던 것으로 드러났다”고 했다. &lt;br&gt;&lt;br&gt;이로 인해 “피해 학생은 외상 후 스트레스 장애(PTSD)와 혼합형 불안 및 우울장애 진단을 받는 등 극심한 정신적 고통을 겪었으며 출전 기회를 박탈당하는 등 결과적으로 선수 생활을 지속하기 어려울 정도로 심각한 손해를 입게 됐다”고 설명했다. &lt;br&gt;&lt;br&gt;앞서 충남교육청 행정심판위원회는 천안교육지원청이 박준현에게 내렸던 ‘학폭 아님’ 처분을 취소하고 학폭 행위로 인정한 뒤 1호 처분인 서면사과 명령을 결정했다고 9일 밝혔다. 위원들은 박준현이 피해 학생에게 한 욕설 등이 정신적 피해를 입힐 수 있는 학폭 행위로 볼 수 있다고 판단했다. &lt;br&gt;&lt;br&gt;법무법인 태광은 “이번 행정심판 재결은 폐쇄적인 운동부 문화 속에서 은폐되기 쉬운 폭력 행위에 대해 엄정한 판단을 내린 사례”라며 “이번 사건이 단순한 승소를 넘어 학교 체육 현장에 만연한 학교 폭력 사건에 관한 경종을 울린 사건”이라고 했다. 이뿐만 아니라 “본 사건은 특히 학교 야구부의 팀 성적이 학생들의 진로에 중요한 요소로 작용해 에이스 선수의 비행을 방관하는 상황이 발생할 수밖에 없는 구조적인 문제가 있음을 알리고, 공정한 경쟁과 인권이 보장되는 건강한 스포츠 문화를 회복하는 계기가 되기를 바란다”고 했다. &lt;br&gt;&lt;br&gt;아울러 “이번 결과가 알려지자 해당 야구부 내 다른 피해 학생들의 연락과 제보가 잇따르고 있다”며 “향후 추가로 밝혀지는 피해 사례에 대해서도 적극적으로 대응해 피해 학생들의 권리 구제와 2차 가해 방지에 최선을 다하겠다”고 했다. &lt;br&gt;&lt;br&gt;박준현은 삼성 라이온즈 퓨처스 타격 코치 박석민(40)의 아들이다. 그의 아들인 박준현은 2026시즌 신인 드래프트에서 전체 1번으로 지명받아 키움 유니폼을 입었다. 입단 계약금은 7억원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“내란재판부 허용 땐 정치 하청 사법부 된다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/10/TRLOJ3QJBFBPTKQEMXYYPUUCEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/10/TRLOJ3QJBFBPTKQEMXYYPUUCEE/</guid>
-      <dc:creator>김은경 기자, 오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 09 Dec 2025 15:56:00 +0000</pubDate>
-      <content:encoded>대법원이 더불어민주당이 추진하는 ‘사법 제도 개편’에 대해 법조계·학계·일반 국민 의견을 듣기 위해 9일 공청회를 열었다. 전국 법원장과 법관회의에 이어 이 자리에서도 내란전담재판부 설치법 등에 대한 우려가 잇따랐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFTDAX7PUJBHXNQVQMDFUW4CA4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 박성원 기자
-천대엽 넥타이에 ‘자유·정의·평등’  
-9일 서울법원종합청사에서 열린 ‘국민을 위한 사법제도 개편 공청회’에서 천대엽 법원행정처장이 개회사를 하고 있다. 천 처장은 이날 ‘자유’ ‘평등’ ‘정의’ 등 한글이 쓰인 넥타이를 매고 나왔다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울 서초구 서울법원청사 청심홀에서 열린 ‘국민을 위한 사법제도 개편 공청회’에서 첫 주제 토론자로 나선 정지웅 경제정의실천시민연합 시민입법위원장(변호사)은 “정치적 사건일수록 더욱 엄격하게 무작위 배당 원칙을 지켜야 한다”며 “내란전담재판부 설치에 강력한 우려를 표한다”고 말했다. 그러면서 정 변호사는 “내란전담재판부를 허용하면 다음에는 ‘선거 사범 전담부’ ‘대형 재난 사건 전담부’를 만들라고 요구할 것”이라며 “그때마다 사법부는 정치권 요구에 따라 재판부를 만드는 ‘정치적 하청기관’으로 전락하고 말 것”이라고 했다.&lt;br&gt;&lt;br&gt;공청회에선 ‘재판 중계’의 부작용도 지적됐다. 지난 9월 민주당 주도로 국회를 통과한 이른바 ‘더 센 특검법’에 따라 10월 말부터 내란 재판 1심의 중계가 의무화됐다. 이 주제 발제를 맡은 유아람 인천지법 부장판사는 “요즘 ‘쩔쩔매는 재판장’이나 ‘부장판사 참교육’ 등 자극적 제목의 짧은 동영상(쇼츠)을 쉽게 찾아볼 수 있다”며 “왜곡된 동영상은 판사 개인에 대한 비난을 넘어 재판 전반에 대한 국민적 신뢰에 부정적 영향을 미친다”고 했다. 이에 대해 유승익 참여연대 사법감시센터 소장은 “지금의 재판 중계는 별다른 사전 검토 없이 특별법과 사회적 여론, 법원의 전격적 결정에 따라 ‘이벤트식’으로 이뤄졌다”고 지적하면서도 “재판 공개는 원칙적으로 직접 방청하는 것 이상으로 확대돼야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법관 증원이나 법원행정처 폐지 등 사법 제도를 바꿀 땐 속도 조절이 필요하다는 주문도 나왔다. 기우종 서울고법 인천원외재판부 판사는 “횡단보도를 설치하는 것만 해도 도로에 줄 긋고 신호등 세우기만 하면 되는 일이 아니라 차량 통행량과 보행자 동선, 인근 상가의 이해관계 등을 고려해야 한다”며 “하물며 사법 제도 개선에 심사숙고해야 함은 더할 나위 없다”고 말했다. 토론을 맡은 공두현 서울대 교수는 “지나치게 급격한 변화가 있을 때는 의도적인 부작용이 발생할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;이번 공청회는 이날부터 사흘간 열린다. 10일엔 대법관 증원 등 ‘상고심 제도’와 압수·수색과 구속 등 ‘형사사법 제도’ 개편 방안을 주제로 진행된다. 마지막 날인 11일에는 김선수 사법연수원 석좌교수(전 대법관)를 좌장으로, 조재연 성균관대 석좌교수(전 대법관)와 문형배 전 헌법재판관 등이 참석해 종합토론을 벌인다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>천차만별 도수 치료 가격… 내년부터 정부가 정한다</title>
