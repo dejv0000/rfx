@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘통일교 1억원 수수’ 권성동, 12월 17일 변론 종결</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/28/H65TS7O7SJC27EKLPRZVTMCWJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/28/H65TS7O7SJC27EKLPRZVTMCWJY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 28 Nov 2025 03:04:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AGE4ZRBAMVO7LA5LTVCVUUPUNA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;권성동 국민의힘 의원이 지난 3일 서울 서초동 서울중앙지법에서 통일교로부터 불법 정치자금을 수수한 혐의 사건 1차 공판에 출석해 자리에 앉고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교로부터 불법 정치자금 1억원을 받은 혐의로 기소된 권성동 국민의힘 의원 재판이 다음 달 마무리된다. 통상 변론 종결 후 선고까지 한두 달 정도 걸리는 것을 고려하면 이르면 내년 1~2월쯤 1심 선고가 이뤄질 전망이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성)는 28일 권 의원의 정치자금법 위반 사건 재판을 열고 “오는 12월 17일에 양측 최종 의견과 최후 진술을 듣겠다”며 결심 공판을 진행하겠다고 밝혔다. 권 의원은 그날 최후 진술을 “10분 안에 끝내겠다”고 했다.&lt;br&gt;&lt;br&gt;권 의원은 20대 대선을 앞둔 2022년 1월 5일 윤영호 전 통일교 세계본부장을 만나 불법 정치자금 1억원을 받은 혐의로 구속 기소됐다. 윤씨는 돈을 건네면서 “2022년 2월 통일교 행사에 윤석열 대선 후보가 참석하기를 희망한다”며 “통일교의 정책, 행사 등을 나중에 지원해주면, 통일교 신도들의 투표 및 통일교의 조직을 이용해 대선을 도와주겠다”고 했다는 의혹을 받는다.&lt;br&gt;&lt;br&gt;이날 재판은 증인으로 소환된 윤씨가 특검 증거 수집의 적법성을 먼저 따지지 않으면 증언을 거부하겠다고 밝히면서 1시간 만에 종료됐다. 권 의원에게 1억원을 건넨 혐의로 구속기소된 윤씨는 서울남부지검이 김건희 여사에게 목걸이를 전달했다는 범죄 사실(청탁금지법 위반)로 압수 수색 영장을 발부받았는데 이와 별개인 증거를 폐기하지 않고 특검에 그대로 전달했고, 특검이 이를 활용해 기소했다며 위법 수사라고 주장하고 있다. 이에 대해 특검 측은 서울남부지검 영장에 적시된 범죄사실과 범행 경위, 청탁 내용 등이 동일해 직접적인 관련성이 인정되는 만큼 적법한 증거라는 입장이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>과도한 신체 접촉 때문 아냐… 마라톤 김완기 감독, 1년6개월 자격정지</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/12/4YF6IWGGBZDTPDF2UXV6H2LH3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/4YF6IWGGBZDTPDF2UXV6H2LH3U/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 11 Dec 2025 22:27:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V7K77CUXVFQPINKDE6N4NLDEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 23일 열린 2025 인천국제마라톤대회에서 결승선을 통과한 이수민 선수가 부축하기 위해 감싸안는 김완기 감독의 손을 뿌리치고 있다. /KBS스포츠 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 열린 2025 인천 국제마라톤 대회에서 소속팀 선수에게 불필요한 신체 접촉을 했다는 논란에 휩싸였던 김완기 강원 삼척시청 육상팀 감독이 중징계를 받았다. &lt;br&gt;&lt;br&gt;삼척시체육회는 지난 10일 스포츠공정위원회를 열고 김 감독에 대해 직무태만, 직권남용, 인권침해, 괴롭힘을 이유로 자격정지 1년6개월 징계를 의결했다. 징계 효력은 징계 결정서를 받은 날부터 발생하며, 전달받고 7일 이내 재심을 청구할 수 있다. &lt;br&gt;&lt;br&gt;앞서 김 감독은 지난달 23일 열린 마라톤 대회에서 소속팀 선수 이수민이 가장 먼저 결승선을 통과한 직후 타월을 덮어주려는 과정에서 부적절한 신체 접촉이 있었다는 논란에 휩싸였다. 이수민이 자신의 상체를 감싼 김 감독의 손을 강하게 뿌리치는 모습이 고스란히 중계 화면에 잡혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRNESTONZFTVHPYSFLCK3VXV4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2025년11월 23일 열린 2025 인천국제마라톤대회에서 결승선을 통과한 이수민 선수가 부축하기 위해 감싸안는 김완기 감독의 손을 뿌리치고 있다. /KBS스포츠 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논란이 커지자 이수민은 지난달 25일 자신의 소셜미디어를 통해 “골인 직후 예상치 못한 강한 신체 접촉으로 인해 극심한 통증을 느꼈다”며 “저항해도 벗어나기 어려울 정도로 팔이 압박된 채 구속감을 느꼈다”고 밝혔다. 이어 “(김 감독은)저에게 논란이 있던 행동에 대한 사과도 없었으며 그 후로도 개인적·공식적인 어떤 사과나 연락도 전혀 없었다”고 했다. 다만 “이번 상황을 성추행이라고 단정하거나 주장한 적은 없다”며 “문제의 본질은 성적 의도 여부가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;이후 이수민 등 육상팀 전현직 선수 5명은 김 감독에 대해 스포츠공정위에 진정서를 제출했다. 성추행과 부적절한 신체 접촉 등의 내용은 진정 사유에 없었다. 김 감독의 평소 소통 방식과 언행, 대회 준비 과정에 대한 아쉬움, 계약 관련 내용 등이 담겼다. 이수민 등 선수 3명은 스포츠공정위에 출석해 이러한 내용에 대해 소명했다. &lt;br&gt;&lt;br&gt;김 감독은 징계 만료 시까지 선수, 지도자, 심판, 선수 관리 담당자, 단체 임원 등 체육계 관련 활동을 할 수 없다. 김 감독은 이달 말 계약 만료를 앞두고 있다. 최근 시 체육회를 방문해 구두 상으로 사퇴 의사를 전한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 서울지하철 1노조 임단협 타결…파업 철회</title>
       <link>https://www.chosun.com/national/national_general/2025/12/12/5U53XIDD2BDLBGCDX5IFI72ZLI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/5U53XIDD2BDLBGCDX5IFI72ZLI/</guid>
@@ -867,15 +885,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYDIMDDG4YWGMBYMNRDMN3BMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 11일 일제 강제 동원 피해자와 유족들이 일본제철을 상대로 낸 손해배상 청구 소송에서 원고 일부 승소 판결을 한 원심을 확정했다. 대법원 전원합의체가 2018년 강제 동원 피해자에게 손해배상 청구권이 있다고 최종 확정한 뒤 제기된 후속 소송에서 나온 첫 대법 판결이다.&lt;br&gt;&lt;br&gt;대법원 1부(주심 마용주 대법관)는 이날 일본제철이 사망한 강제 동원 피해자 정형팔씨의 자녀 4명에게 약 1억원을 배상하라고 한 원심 판결을 확정했다.&lt;br&gt;&lt;br&gt;정씨 자녀들은 “정씨가 1940~1942년 일본 이와테현 제철소에 끌려가 강제노동을 했다”며 2019년 4월 일본제철을 상대로 손해배상 소송을 냈다. 정씨 측 변호인단은 “정씨는 강제 동원으로 가족과 이별해 열악한 환경에서 위험한 노동에 종사했으며, 일본국이 패전할 때까지 강제노동을 했다”며 “일본제철의 행위는 당시 일본 정부의 불법적인 식민 지배 및 침략 전쟁의 수행과 직결된 반인도적인 불법행위에 해당한다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TQUBAJD5MRGQ3M3HIMCBHK2HMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;일본제철의 강제 동원 피해자 정형팔씨. /민족문제연구소&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건 1심은 “손해배상을 청구할 수 있는 권리가 이미 지났다”며 원고 패소로 판결했다. 민법상 손해배상 소송은 피해자가 손해를 알게 된 날부터 3년 또는 손해가 발생한 날로부터 10년 안에 내야 하는데, 피해자들은 이 기간이 지난 뒤 소송을 냈다는 것이다.&lt;br&gt;&lt;br&gt;그러나 2심은 손해배상 청구권이 소멸되지 않았다고 보고 일본제철의 배상 책임을 인정했다. 앞서 대법원 전원합의체가 2018년 일본 기업들이 강제 동원 피해자들에게 손해배상을 해야 한다고 본 ‘1차 소송’ 판결과, 이 손해배상 청구권은 2018년 전합 판결을 기준으로 소멸시효를 판단해야 한다는 ‘2차 소송’ 판결에 따른 것이다.&lt;br&gt;&lt;br&gt;정씨 자녀들처럼 2018년 전합 판결 이후 일본 기업을 상대로 손해배상을 청구한 강제 동원 소송을 ‘3차 소송’으로 분류된다. 이날 판결은 3차 소송 중 첫 번째 대법 확정 판결이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘이화영 연어·술 파티' 의혹 조사할 서울고검 감찰부장에 곽영환 검사</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/05/6NDQKM2GYVHWNPJ5BIA64RSSYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/05/6NDQKM2GYVHWNPJ5BIA64RSSYE/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 05 Dec 2025 11:32:58 +0000</pubDate>
-      <content:encoded>쌍방울 대북 송금 사건 수사 과정에서 ‘연어·술 파티’가 있었다는 의혹을 조사하는 서울고검 감찰부장에 곽영환(53·사법연수원 33기) 검사가 보임됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMMDCGBSDKYTCHAZDCMTGGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사가 지난 10월 23일 서울 여의도 국회 법제사법위원회에서 열린 서울고등검찰청·서울중앙지방검찰청 등에 대한 국정감사에 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고검 관계자는 5일 “시급히 처리해야 할 현안이 있다는 점 등을 고려해 오늘 자로 곽영환 검사가 신임 감찰부장으로 보임했다”고 밝혔다.&lt;br&gt;&lt;br&gt;서울고검 감찰부장은 검찰의 과잉·표적 수사나 인권 침해적 수사 관행 등을 점검하는 ‘인권침해 점검 태스크포스(TF)’ 팀장을 겸한다. 대검찰청은 검찰의 수사 관행에 대한 비판이 이어지자 지난 9월 서울고검에 이 TF를 설치했다. &lt;br&gt;&lt;br&gt;인권침해 점검 TF는 2023년 5월 수원지검이 쌍방울 대북 송금 사건을 수사하는 과정에서 조사실에 술과 연어회를 반입해 이화영 전 경기도 평화부지사와 김성태 전 쌍방울 회장 등에게 제공하고, 이재명 대통령에게 불리한 진술을 하도록 회유한 의혹을 감찰하고 있다. 신임 곽 부장은 해당 의혹의 사실관계를 규명하고 사건 처리에 속도를 낼 것으로 보인다.&lt;br&gt;&lt;br&gt;곽 부장이 임명되기 전까지는 정용환 전 서울고검 감찰부장이 이 사건을 맡아왔다. 그런데 지난달 19일 검찰 간부 인사로 정 전 부장이 서울고검 차장검사에 보임돼 고검장 직무대리를 맡게 되자, 감찰부장 자리가 공석이 됐다. 사회적 관심이 집중된 이 사건을 맡을 감찰부장 자리를 오래 비워둘 수 없다는 판단하에 후속 인사가 이뤄진 것으로 풀이된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>김치냉장고에 여친 시신 유기한 40대… 검찰, 무기징역 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/12/11/VZKM3XVUWNCJJAJFSFHGDUXQJU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/VZKM3XVUWNCJJAJFSFHGDUXQJU/</guid>
@@ -883,15 +892,6 @@
       <description/>
       <pubDate>Thu, 11 Dec 2025 02:50:32 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2GINZXGZSTMMJWMVSGCYTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 살해한 혐의를 받고 있는 A씨가 지난 9월 30일 전북 군산시 전주지방법원 군산지원에서 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 주식 투자 문제로 다투다 여자 친구를 살해하고 시신을 김치냉장고에 넣어 1년 가까이 숨겨온 혐의로 기소된 40대 남성에게 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 11일 전주지법 군산지원 형사1부(재판장 백상빈) 심리로 열린 A(41)씨의 살인 및 시체유기, 컴퓨터 등 사용 사기 사건 결심공판에서 “피고인은 오랜 기간 신뢰를 쌓아온 피해자를 배신한 뒤 잔혹하게 살해하고 그 이후 시신을 유기해 범행을 은폐했다”라며 이같이 요청했다. &lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “어리석은 행동으로 피해자와 유가족분들에게 씻을 수 없는 상처와 아픔을 드려서 너무 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 10월 20일 군산시 조촌동의 한 빌라에서 4년간 교제한 여자 친구 B씨를 목 졸라 살해하고 시신을 가방에 담아 김치냉장고에 1년쯤 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 김치냉장고를 구입한 후 B씨의 시신을 넣고, B씨가 살던 빌라에 그대로 보관해왔다. 시신이 1년 가까이 냉장고에 보관돼 있어 부패하지 않았다고 한다. &lt;br&gt;&lt;br&gt;A씨의 범행은 “언니와 1년 가까이 메신저로만 연락이 되고 전화를 받지 않는다”는 B씨 여동생의 실종 신고로 꼬리가 잡혔다. 실종 신고는 지난 9월 29일 정오쯤 이뤄졌다. 경찰은 곧바로 B씨 휴대전화로 통화를 시도했지만 받지 않았다. 그런데 B씨 휴대전화에서 ‘무사히 잘 있다’는 취지의 문자메시지가 경찰에 왔다. 이 메시지는 A씨가 보낸 것이다.&lt;br&gt;&lt;br&gt;이에 경찰은 ‘실종 신고 사건은 직접 통화하거나 만나서 생사를 확인해야 한다’고 답장을 했다. 이때 압박을 느낀 A씨는 동거하고 있는 여자 친구 C씨에게 대신 전화를 받아달라고 했고, C씨는 경찰 통화에서 “잘 지내고 있다”는 취지로 답했다.&lt;br&gt;&lt;br&gt;남자 친구의 행동에 이상함을 느낀 C씨는 이유를 물었고, A씨는 “내가 B씨를 죽였다”고 C씨에게 범행 전모를 털어놓았다고 한다. C씨는 곧바로 경찰에 신고했고, 출동한 경찰은 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1년 동안 B씨가 살고 있던 빌라 월세를 대신 내면서 범행을 숨긴 것으로 확인됐다. A씨는 실종 신고가 접수되기 전까지 B씨의 휴대전화로 B씨 가족과 문자메시지를 주고받았다. A씨는 B씨 명의로 대출을 받거나 보험을 해지한 뒤 받은 돈 8800만원 상당을 가로채는 등 추가 범행을 저지른 것으로 파악됐다. A씨는 경찰 조사에서 “주식 문제로 다투다 범행했다”고 진술했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쿠팡 개인정보 유출 수사, 오늘도 압수수색… 사흘째 강제수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/11/22TZ34AVFZDE5FYQCG42SXIUJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/11/22TZ34AVFZDE5FYQCG42SXIUJM/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 02:40:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYDQZLDGIZGINBQGY4TSZBXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡이 개인정보 유출 사고와 관련해 경찰이 압수수색을 진행한 지난 9일 서울 송파구 쿠팡 본사 앞에 쿠팡을 규탄하는 현수막이 걸려있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울경찰청이 대규모 개인정보 유출 사태와 관련해 사흘째 쿠팡 본사 압수수색을 이어가고 있다.&lt;br&gt;&lt;br&gt;서울경찰청 사이버수사대는 11일 오전 9시 40분쯤 서울 송파구에 있는 쿠팡 본사에 수사팀을 다시 투입해 3차 압수수색을 재개했다. 전날에는 오전 11시 15분부터 밤 9시까지 10시간 넘게 압수수색을 진행하는 등 이틀 동안 장시간 강제 수사를 이어왔다. 경찰은 “쿠팡이 보유한 전산 데이터와 내부 자료 규모가 방대해 확보와 분석에 시간이 많이 걸린다”고 했다.&lt;br&gt;&lt;br&gt;이번 압수수색은 수천만 개에 이르는 고객 계정 정보 유출 경위와 책임 주체를 규명하기 위한 것이다. 압수수색 영장에는 쿠팡 중국 국적 전직 직원이 정보통신망법상 정보통신망 침입·비밀누설 혐의를 받는 피의자로 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘통일교 의혹’ 김규환 전 의원 “윤영호와는 무관, 금품 수수 진술은 허위”</title>
