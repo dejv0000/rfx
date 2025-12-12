@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>고려대 로스쿨 교수 “조진웅, 성공적 교화돼…비행 청소년들 희망 될수도” </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/12/IFLK3Y66YFH6JPTSOQAG45QKGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/IFLK3Y66YFH6JPTSOQAG45QKGU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 13:59:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57PPPYBWNVH73AIIUGZA6QWLZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅은 과거 소년범 전력 논란에 연예계를 은퇴했다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법조계에서 소년범 출신 의혹을 인정하고 은퇴 선언을 한 배우 조진웅이 ‘비행 청소년들에게 희망이 될 수 있다’는 의견이 나온 사실이 뒤늦게 알려져 갑론을박이 벌어지고 있다. &lt;br&gt;&lt;br&gt;박경신 고려대학교 법학전문대학원 교수는 지난 10일 YTN라디오 ‘슬기로운 라디오생활’ 인터뷰에서 “과거의 잘못이 있더라도 새로운 기회를 주는 것은 매우 중요한 일”이라며 “저는 조진웅 씨가 반드시 은퇴해야 된다고 생각하지 않는다. 계속 연기할 수도 있다고 생각한다”고 말했다.&lt;br&gt;&lt;br&gt;박 교수는 “예를 들어 친일 행적 때문에 미당 서정주의 시를 국어 교과서에서 빼야 하느냐, 또는 그대로 둬야 하느냐 아직도 논란이 많다”며 “중요한 것은 그분의 친일 행적을 정확히 아는 거다. 그래서 조진웅 씨를 아직도 지지하는 분들은 계속 지지해야 된다고 생각을 한다. 조진웅 씨를 새로운 사실에 기초해서 비판할 사람은 비판할 수 있다. 저는 어느 쪽에 서 있지도 않다”고 했다. &lt;br&gt;&lt;br&gt;박 교수는 “조진웅 씨는 이미 성인이 되셨다. 그래서 어떻게 보면 제가 보기엔 이미 교화가 되셨다”며 “그래서 저는 조진웅 씨를 지지하는 분들, 새로운 사실에 놀란 분들. 이런 분들이 서로 자유롭게 토론을 할 수 있어야 한다고 생각을 한다. (조진웅이) ‘비행 청소년들에게 희망의 상징이 될 수 있다’ 그런 입장 충분히 이해를 하고 저도 그렇게 생각을 한다”고 했다. &lt;br&gt;&lt;br&gt;박 교수는 “저는 지금 범죄 피해자들 입장을 고려해서 최종적 판단을 유보하고 있다”면서도 “조진웅이 지금이라도 피해자들에게 진심으로 다시 사과하고 다시 용서를 빌어서 연기를 계속하겠다는 허락까지 받아서 연기를 계속 하셨으면 좋겠다”고 했다. &lt;br&gt;&lt;br&gt;이어 “저는 그런 기적 같은 일들이 일어나는 걸 봤고 가능하다고 본다”며 “지금 프로그램 하차시키고 홈페이지에서 흔적 지우고 있는데 이런 행위들이 생매장이고. 이렇게 하지 않도록 조진웅 씨를 지지하는 분들은 KBS, SBS에 전화를 해야 된다”고 했다. &lt;br&gt;&lt;br&gt;박 교수는 “저는 이게 사회적 합의가 불가능한 이슈라고 본다. 여기에 대해서 각자 다른 생각을 가질 수 있다는 것을 인정을 해야 된다”며 “(조진웅을 옹호하는 여론을) 진영론이라고 비난만 할 게 아니라 ‘저런 생각도 가질 수 있다’고 봐야 된다. 그런 토론을 하지 않고 곧바로 조진웅을 하차시키고 흔적을 지우는 방송사나 영화 제작사들이 도리어 반성을 해야 된다”고 했다. &lt;br&gt;&lt;br&gt;앞서 조진웅은 고등학생 시절 차량 절도 및 성폭행 등 혐의로 소년원에 송치됐었다는 의혹과 무명배우 시절 극단 동료를 폭행해 벌금형을 받았고, 음주운전을 한 전력이 있다는 의혹이 제기됐다. 조진웅은 성폭행 의혹은 강하게 부인했지만 나머지 의혹은 사실상 인정했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내란 특검 “한덕수, 헌법재판관 ‘하루 만에’ 검증한 뒤 지명”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/12/5RUUG3JIJ5B2JL55EAJESAXNKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/5RUUG3JIJ5B2JL55EAJESAXNKE/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 11:32:45 +0000</pubDate>
+      <content:encoded>한덕수 전 국무총리가 헌법재판관으로 추천할 만한 법조인을 보고받은 지 하루 만에 후보자를 지명한 것이 내란 특검 수사로 드러났다. 통상 법무부·경찰청·국가정보원 등을 거쳐 수주간 진행되는 인사 검증 절차를 하루 만에 끝내는 것은 물리적으로 불가능한데도, 제대로 된 검증 없이 지명을 강행했다는 것이 특검의 판단이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFSTGY3CHBSGGZJZHA3TGNJTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한덕수 전 국무총리가 지난달 26일 서울 서초동 서울중앙지법에서 열린 결심공판을 마치고 법원을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 본지가 확보한 공소장에 따르면, 윤석열 대통령이 지난 4월 4일 헌법재판소에서 파면되면서 대통령 권한대행을 맡은 한 전 총리는 사흘 뒤인 4월 7일 오전 김주현 전 대통령실 민정수석을 호출했다. 한 전 총리는 “내일 국무회의를 통해 대통령 몫의 헌법재판관 2명을 임명해야 한다. 어떤 사람을 임명할지 추천을 하라”고 지시했다고 한다. &lt;br&gt;&lt;br&gt;김 전 수석은 이완규 당시 법제처장과 함상훈 서울고법 부장판사를 포함한 법조인 10명의 이름을 불러줬고, 한 전 총리는 별다른 검토 없이 “이완규·함상훈을 헌법재판관으로 지명하도록 하겠다. 내일 오전 국무회의에서 둘을 지명할 수 있도록 신속하게 검증을 진행하라”고 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;김 전 수석은 이를 정진석 당시 대통령실 비서실장에게 보고한 뒤, 두 후보자에게 ‘수락하면 재판관 지명 절차가 진행될 예정’이라고 알렸다고 한다. 이 후보자는 즉시 수락했고, 함 후보자는 ‘생각할 시간을 달라’고 대답했다가 같은 날 오후 이원모 전 대통령실 공직기강비서관에게 재차 연락을 받고 수락한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이 전 비서관은 공직기강비서관실 행정관들에게 “오늘 중으로 두 후보자에 대한 인사 검증을 완료하라”고 지시했다고 한다. 그러자 한 행정관이 “당일에 결과를 만드는 것은 불가능하다”며 법무부 인사정보관리단의 검증, 경찰청 세평 조회 및 국가정보원 신원조사 의뢰는 생략하겠다고 보고했고, 이 전 비서관은 “그렇게 하라”고 지시한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;공직기강비서관실은 이날 오후 두 후보자로부터 개인정보제공동의서를 받았고, 밤 9시 50분쯤 국세청의 소득 및 납세 자료를 받은 것으로 조사됐다. 경찰청의 범죄 경력 조회 결과는 이날 받지 못했다고 한다. 그럼에도 공직기강비서관실은 과거 인사 검증 자료 등을 토대로 ‘(지명에) 문제 없다’는 결론으로 작성한 검증 보고서를, 이튿날 오전 7시쯤 이 전 비서관에게 보고했다. 경찰청 범죄 경력 조회는 그 이후인 오전 9시 11분에야 이뤄졌다. 한 전 총리는 같은 날 오전 9시쯤 담화문 작성을 지시했고, 약 1시간 뒤인 오전 10시 정부서울청사에서 헌법재판관을 지명했다.&lt;br&gt;&lt;br&gt;특검은 통상 법무부 인사정보관리단 검증에 2~3주, 경찰청 세평 조회에 약 1주, 국정원 신원 조사에 약 2주가 걸린다는 점을 들어 “하루 만의 인사 검증은 불가능하다는 점을 알면서도 이를 강행했다”고 판단했다. 외부에서는 인사 검증 착수 시점을 확인하기 어렵다는 점을 이용해 지명을 밀어붙였다는 것이다. &lt;br&gt;&lt;br&gt;특검은 한 전 총리 등이 윤 전 대통령이 파면되자, 헌법재판소에서 당시 계류 중이던 조지호 경찰청장 탄핵 심판 등 비상계엄 관련 사건에서 윤석열 정부에 유리한 판단을 유도하기 위해 헌법재판관 임명을 계획했다고 봤다. &lt;br&gt;&lt;br&gt;이에 특검은 지난 11일 한 전 총리를 비롯해 이와 같은 의사 결정 과정에 참여한 김 전 수석, 정 전 실장, 이 전 비서관을 직권남용 혐의로 불구속 기소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법관 심사대상자 39명 공개…이재명 무죄·파기환송심 판사 나란히</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/12/3LJQ4MI2ZVDHZH55MAPJ2GOXKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/3LJQ4MI2ZVDHZH55MAPJ2GOXKA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 10:57:22 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RLP3XEKLAZCD5L574UOZFQKPUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년 3월 3일 퇴임하는 노태악(사법연수원 16기) 대법관 후임 후보자 39명이 12일 공개됐다. 대법원은 “대법관 후보 천거를 받은 결과 94명이 천거됐고 그 중36명이 대법관 후보추천위원회 심사에 동의했다”며 이날 명단을 공개했다. 이 가운데 이재명 대통령이 처음 임명할 대법관이 나온다.&lt;br&gt;&lt;br&gt;법관이 36명이고 판사 출신 변호사가 1명, 법학전문대학원 교수가 2명이다. 법관 중에는 이재명 대통령의 공직선거법 2심에서 1심의 유죄 판결을 뒤집고 무죄를 선고한 정재오(25기) 서울고법 판사와 파기환송심 재판장을 맡아 대선 직전 기일을 연기한 이재권(23기) 서울고법 부장판사도 동시에 이름을 올렸다. &lt;br&gt;&lt;br&gt;현직 법관으로 홍동기(22기) 서울고법 수석부장판사와 구회근(22기)· 권순형(22기)·권혁중·남성민·심담·윤성식·황진구(이상 24기) 서울고법 부장판사와 김무신(24기)·손철우(25기)·원익선(26기) 고법판사가 이름을 올렸다. 홍 수석부장판사는 법원행정처 윤리감사심의관과 기획조정실장을 역임했고, 윤 고법부장판사는 법원행정처 기조실장과 공보관을 역임했다. 황 고법부장판사는 대법원 선임재판연구관과 수석재판연구관을 연달아 지냈다.&lt;br&gt;&lt;br&gt;법원장 중에선 설범식(20기) 광주고법원장과 정준영(20기) 서울회생법원장, 김국현(24기) 서울행정법원장 등이 포함됐다. 여성으로는 박순영(25기)·왕정옥(25기) 서울고법 판사와 김민기(26기) 수원고법 판사, 윤경아(26기) 서울남부지법원장이 이름을 올렸다.&lt;br&gt;&lt;br&gt;현직 법관 외에는 문재인 정부 시절 법무부 차관을 지낸 강성국(20기) 법무법인 지평 변호사와 하명호(22기) 고려대 법학전문대학원 교수, 신동훈(27기) 성균관대 교수가 심사대상자 명단에 들었다. &lt;br&gt;&lt;br&gt;대법관 추천위원장은 최재천 이화여대 명예교수가 맡는다. 김미연 유엔장애인권리위원회 위원장, 박귀천 이화여대 법학전문대학원 교수, 한지형 창원지법 마산지원 부장판사가 비당연직 추천위원으로 위촉됐고, 노태악 선임 대법관과 천대엽 법원행정처장, 정성호 법무부 장관, 김정욱 대한변호사협회장, 최봉경 한국법학교수회장, 홍대식 법학전문대학원협의회 이사장 등 6명이 당연직으로 참여한다.&lt;br&gt;&lt;br&gt;대법원은 오는 15일부터 29일까지 보름간 법원 안팎에서 39명에 대한 의견을 수렴할 예정이다. 추천위가 3명 이상의 후보자를 추리고, 조희대 대법원장은 그 중 한 명을 이 대통령에게 임명 제청한다. 심사동의자 39명 명단은 법원 홈페이지(www.scourt.go.kr) 대국민서비스에서 확인할 수 있다. 학력과 주요 경력, 재산, 병역, 형사 처벌 전력 등에 관한 정보도 확인할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>주말 전국에 ‘눈폭탄’ 쏟아진다…예상 적설량 최대 15㎝</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/12/NUVLTGAZQJAX5GJZXDOMZBXXRU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/NUVLTGAZQJAX5GJZXDOMZBXXRU/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 10:51:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CARVL5WOA5OGFBHY624RS2XRRQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;폭설 관련 이미지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 주말 전국적으로 많은 눈‧비가 예고됐다. 특히 중부지방엔 무거운 습설이 내릴 것으로 보여 시설물 관리에 유의해야 한다. &lt;br&gt;&lt;br&gt;12일 기상청에 따르면 내일(13일) 늦은 오후부터 서울 북부와 경기 북부내륙·남동부, 강원내륙·산지, 충북북부, 경북북부내륙·북동산지, 제주산지에 습설이 쏟아지겠다.&lt;br&gt;&lt;br&gt;습설은 습기를 머금어 건설보다 2~3배 가량 무겁고, 수분이 접착제 역할을 해 차곡차곡 쌓이는 특징이 있다. 습설로 인해 축사나 비닐하우스가 무게를 견디지 못하고 무너질 수 있다.&lt;br&gt;&lt;br&gt;예상 적설량은 △강원내륙·산지 5∼10㎝(강원내륙 최고 15㎝ 이상) △경기북부내륙·경기남동부·강원산지·충북중부·충북북부·제주도산지 3∼10㎝ △충북중부·충북북부·제주산지 3∼8㎝ △서울·경북북부내륙·경북북동산지 2∼7㎝ △인천·경기남서부·경기북부서해안·서해5도·대전·세종·충남내륙·충북남부·전북동부 1∼5㎝, 경남서부내륙 1∼3㎝ △대구와 경북중부내륙 1㎝ 안팎이다.&lt;br&gt;&lt;br&gt;14일에도 찬 북서풍이 상대적으로 따뜻한 서해 위를 지나면서 만들어진 구름대가 내륙으로 유입되면서 경기남부서해안과 충청, 호남, 경상서부내륙, 제주에 새벽부터 오후까지 비나 눈이 오겠다. &lt;br&gt;&lt;br&gt;이날 서울시는 오는 13일 오전 9시부터 강설 대응 2단계를 발령하고, 32개 제설기관 및 유관기관과 함께 제설 비상근무에 돌입한다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>윤영호, 권성동 재판 나와 “세간에 회자되는 진술 한 적 없어”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/12/YYDTC4NK2BHVXKZ27LFLRK4TL4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/YYDTC4NK2BHVXKZ27LFLRK4TL4/</guid>
@@ -877,33 +913,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMTMUBZENAWPDX7FY3J2QTTEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장인식 해양경찰청 차장/ 해양경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양경찰청은 11일 장인식(58) 해경 남해지방해양경찰청장이 해양경찰청 차장으로 승진했다고 밝혔다. &lt;br&gt;&lt;br&gt;장 차장은 이날 김용진 해양경찰청장이 면직 처리됨에 따라 12일 자로 해양경찰청청장 직무대행을 맡게 된다. &lt;br&gt;&lt;br&gt;김용진 청장은 앞서 지난 9월 갯벌에 고립된 노인을 구하던 고(故) 이재석(34) 경사가 숨진 사고와 관련해 사의를 표명했다. &lt;br&gt;&lt;br&gt;장 차장은 경남 창원고와 전북대 법학과를 졸업했다. 동대학원에서 법학 석사와 박사 학위를 받았다.&lt;br&gt;&lt;br&gt;1997년 경위 특채로 해경에 입문한 그는 해경 교육발전기획단장을 비롯해 해경 형사과장과 수사과장, 군산·여수해양경찰서장, 동해지방경찰청장, 해경 수사국장 등을 역임했다. &lt;br&gt;&lt;br&gt;이날 인사 발령에 따라 해경 기획조정관에는 임명길 치안감, 중부지방해경청장(전담직무대리)은 박재화 치안감, 서해지방해경청장은 백학선 치안감, 남해지방해경청장(전담직무대리)은 하만식 경무관, 동해지방해경청장에는 김인창 치안감이 12일 자로 부임한다.&lt;br&gt;&lt;br&gt;이명준 서해지방해경청장과 김성종 동해지방해경청장은 본청으로 복귀한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>동북아생물보전대상에 윤성명 조선대 교수</title>
-      <link>https://www.chosun.com/national/people/2025/12/11/DNLX7W5QSNCZZBERUVVDC6UXRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/11/DNLX7W5QSNCZZBERUVVDC6UXRQ/</guid>
-      <dc:creator>김민철 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 10:18:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3AGOVGYJRB57GD3UXXG53N5RQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤성명 조선대 생명과학과 교수&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동북아생물다양성연구소(소장 현진오)는 제20회 동북아생물보전대상을 무척추동물 분류학자 윤성명(63) 조선대 생명과학과 교수에게 수여했다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;윤 교수는 30여 년 동안 무척추동물 분류와 연구에 헌신해 가는채찍옆새우속 등 새로운 속(屬) 3속, 털손긴팔옆새우, 구멍넓은배장수노벌레, 두토막고리털갯지렁이 등 신종 55종, 긴꼬리투구새우, 털줄뾰족코조개벌레, 긴배물벼룩 등 한반도 미기록종 85종을 발굴했다. 미기록종은 이미 학계에 알려져 있지만 국내에서 처음 발견된 생물 종이다. &lt;br&gt;&lt;br&gt;선정위는 “수상자는 무척추동물 분류 및 계통 연구에 헌신해 한반도 생물 다양성 규명에 공헌했으며, 멸종 위기종 보전 분야에도 크게 기여해 대한민국 생물 다양성 연구와 보전에 큰 업적을 남겼다”고 밝혔다. 윤 교수는 한국동물분류학회 부회장, 회장, 감사를 역임했고 학회 학술지(ASED) 편집위원장을 맡았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “임금피크제 적용 시 출생월에 따른 성과급 차별 없어야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/11/UYZHVHJPFFGGDHGYTYG3UZNRMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/11/UYZHVHJPFFGGDHGYTYG3UZNRMM/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 09:59:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43W7DJNUYFE4P5BMN2Q3TYJHLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 임금피크제를 적용받는 직원의 출생월에 따라 성과급이 다르게 지급되는 것은 차별에 해당한다고 밝혔다.&lt;br&gt;&lt;br&gt;인권위는 지난해 10월 이 같은 내용을 A사에 통지하고 시정을 권고했으나, A사는 권고를 받아들이지 않았다고 11일 밝혔다.&lt;br&gt;&lt;br&gt;A사는 전년도 업무에 따른 성과급을 매년 5월 급여를 기준으로 산정하고, 임금피크제 대상 직원에게는 임금 삭감률만큼 성과급을 줄여 지급한다. 이로 인해 임금피크제가 적용된 1~4월생 직원이 5~12월생 직원보다 적은 성과급을 받게 됐고, 1월생인 A사 직원은 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;인권위는 “전년도 업무에 대해 지급되는 성과급이 금년도 임금피크제 적용에 따라 삭감되는 것은 개인의 업무 성과 및 실적과 무관하다”며 이를 합리적인 이유 없는 차별 행위라고 판단했다. 또 A사에 공정한 성과급 책정 방안을 마련할 것 등을 권고했다.&lt;br&gt;&lt;br&gt;그러나 A사는 인권위의 권고 이후 1년이 지났음에도 이행 계획 등을 제출할 의사가 없다고 밝혔다. 이에 인권위는 A사가 권고를 불수용한 것으로 판단하고 국가인권위원회법에 따라 결정 내용을 공개했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘엄마 중태’ 무면허 킥보드 사고… 대여 업체도 방조 혐의 입건</title>
-      <link>https://www.chosun.com/national/incident/2025/12/11/XMA37PQM6NCDLKJQ4UYEYRRASY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/11/XMA37PQM6NCDLKJQ4UYEYRRASY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 09:06:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TLMZ3HGGPFFCHL3O2JJB74EK7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천 연수경찰서./ 조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생이 몰던 전동 킥보드에 치여 30대 여성이 중태에 빠진 사고와 관련, 킥보드 대여업체 소속 임원과 해당 법인이 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 무면허 운전 방조 혐의로 전동 킥보드 대여업체 소속 임원 A씨와 해당 법인을 불구속 입건했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;A씨와 소속 법인은 지난 10월 18일 전동 킥보드를 대여하는 과정에서 면허 소지 여부를 제대로 확인하지 않고 중학생 B양에게 대여해 무면허 운전을 방조한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;도로교통법은 개인형 이동장치(PM)인 전동 킥보드의 경우, 원동기 면허나 자동차 면허를 가진 사람만 사용할 수 있도록 규정하고 있다. &lt;br&gt;&lt;br&gt;경찰은 추가 조사를 거쳐 A씨와 킥보드를 운전한 B양 등 중학생 2명을 함께 검찰에 송치할 방침이다. &lt;br&gt;&lt;br&gt;우리나라에서 무면허 운전 방조 혐의로 킥보드 대여업체가 입건된 사례는 드문 경우로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사고와 관련해, 킥보드 대여업체 측에도 범죄 혐의점이 있다고 보고 입건했다”고 말했다. &lt;br&gt;&lt;br&gt;B양 등 중학생 2명은 앞서 지난 10월 18일 인천 연수구에서 전동킥보드를 타다 어린 딸과 길을 걷던 30대 여성을 치는 사고를 내 교통사고처리특례법상 치상과 도로교통법상 무면허 운전 등 혐의로 경찰에 입건됐다. &lt;br&gt;&lt;br&gt;사고 당시 여성은 어린 딸에게 향하는 킥보드를 막아서다가 머리 등을 다쳐 중태에 빠졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사법 개편 토론회 “사법 개혁인지 사법 통제인지” “법원, 침몰 직전 난파선”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/11/FLMJFMANWNFXNMZ5YEEE5OVJWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/FLMJFMANWNFXNMZ5YEEE5OVJWE/</guid>
@@ -941,15 +950,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/QUKNHINIOFHV5HVQYGLIJ7W4QI.gif?auth=4ac4893023333095c08be702a810de5d75c60108136c584c8555fe24b07a2f1f&amp;smart=true&amp;width=500&amp;height=281" type="image/jpeg" height="281" width="500">
         <media:description type="plain">광주대표도서관 공사현장 붕괴사고- 짤1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>[속보] 신임 수원지검장에  김봉현...정지영·김남순·김종우 검사장 승진</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/QSHQF4AM2NC6NEUOUNCR37WALY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/QSHQF4AM2NC6NEUOUNCR37WALY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 07:53:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTEOLCGI2WGYRZMY4TMZJZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 신임 수원지검장에 김봉현...정지영·김남순·김종우 검사장 승진&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“오작동이겠지” 119가 구조신호 뭉갠 사이 80대 여성 불길 속 사망</title>
