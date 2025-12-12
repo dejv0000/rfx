@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>빈집 털려다 80대 노인 살해한 50대...2심도 징역 35년</title>
+      <link>https://www.chosun.com/national/regional/2025/12/12/T2PS66ESARAS5PBVV64MOCGS44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/T2PS66ESARAS5PBVV64MOCGS44/</guid>
+      <dc:creator>대전=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 05:08:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤에 금품을 훔치려고 단독주택에 침입했다가 발각되자 80대 집주인을 살해한 50대에게 항소심에서도 징역 35년이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 12일 강도살인 혐의로 기소된 송모(51)씨에게 1심 형량과 같은 징역 35년을 유지하고, 위치추적 전자장치 부착 20년도 명령했다.&lt;br&gt;&lt;br&gt;송씨는 지난 7월 14일 0시 40분쯤 금품을 훔치려고 충남 아산시 한 단독주택에 침입했다가 집주인 B(81)씨에게 발각되자 B씨의 목을 졸라 살해하고 현금 8만2000여 원과 지갑, 돼지저금통 등을 훔쳐 달아난 혐의로 재판에 넘겨졌다. 빈집을 노려 금품을 털려던 송씨는 집 앞에 주차된 차가 없고, 폭염에도 에어컨이 켜지지 않은 단독주택을 보고 집 안에 침입했다. 집 안에서 B씨를 보고 도주하려다 잠금장치가 여러 개 설치된 문을 열지 못하자 B씨를 살해하고 금품을 훔쳐 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송씨는 과거에 절도와 강도 혐의 등의 범죄로 여러 차례 실형을 선고받은 전력이 있고, 주거침입 강간죄로 복역 후 출소한 지 3년이 채 지나지 않은 시점에서 다시 범행을 저질렀다.&lt;br&gt;&lt;br&gt;1심 재판부는 “경제적 이득을 얻기 위해 소중한 생명을 빼앗아 죄책이 무겁고 여러 차례 범죄 전력에도 범행을 반복해 엄하게 처벌할 필요가 크다”며 송씨에게 징역 35년을 선고했다.&lt;br&gt;&lt;br&gt;항소심에선 재판부가 1심과 같은 형량을 유지하되 검사의 위치추적 전자장치 부착 명령 청구를 받아들였다.&lt;br&gt;&lt;br&gt;2심 재판부는 “살인죄를 다시 범할 위험성이 있다고 보여 검사의 위치추적 전자장치 부착명령 청구를 받아들인다”며 “나머지 양형 사유는 1심과 같다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 전재수 등 ‘통일교 로비 의혹’ 관련자 입건... 정식 수사 착수</title>
+      <link>https://www.chosun.com/national/incident/2025/12/12/56U57NBIXFH6LA32CW2UACNURM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/12/56U57NBIXFH6LA32CW2UACNURM/</guid>
+      <dc:creator>안상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 04:02:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2GIOBSHA4DONJTGM2DGMJTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교로부터 금품을 수수했다는 의혹이 제기된 전재수 해양수산부 장관이 11일 오전 'UN해양총회' 유치 활동을 마친 후 인천국제공항 제2여객터미널을 통해 귀국해 입장을 밝힌 후 공항을 빠져나가고 있다. (공동취재)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 정치권 인사의 통일교 금품 수수 의혹과 관련해 전재수 전 해양수산부 장관을 비롯한 관련 인물들을 피의자로 입건하며 정식 수사에 착수했다.&lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면, 경찰청 특별전담수사팀은 전날 전 전 장관과 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등 3명을 피의자로 입건했다. 수사팀은 이 3명에 대해 출국 금지 조치도 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 밖에 피의자로 추가 입건된 인물이 있는 것으로 알려졌지만, 경찰청 관계자는 “입건 여부를 확인해 줄 수 있는 단계가 아니다”라고 했다. 이번 의혹을 촉발한 윤영호 전 통일교 세계본부장이 특검팀에 이 3명과 함께 거명한 정치인으로는 정동영 통일부 장관과 나경원 국민의힘 의원이 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 9일 정치권 인사들의 통일교 금품 수수 의혹을 민중기 특검팀에서 이첩받고, 이날 23명 규모의 특별 전담 수사팀을 구성했다. 내란 특검에 파견됐던 박창환 국가수사본부 중대범죄수사과장이 복귀해 수사팀장을 맡았다. 수사팀은 전날 오후 서울구치소를 찾아 여야 의원들에게 금품을 제공했다고 진술한 윤영호 전 통일교 세계본부장을 3시간가량 접견해 조사했다. 금품 수수 당사자로 지목된 전·현직 의원들에 대한 소환 조사 일정도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽에 점주 혼자 있는 매점서 현금·차량 강탈한 40대 검거</title>
+      <link>https://www.chosun.com/national/regional/2025/12/12/R2IBIIOFUJHIHKGRASD45S4QEI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/R2IBIIOFUJHIHKGRASD45S4QEI/</guid>
+      <dc:creator>태안=우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 04:21:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매점에 혼자 있는 점주를 상대로 강도짓을 벌이고 도망친 40대가 이틀 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 태안경찰서는 강도 상해 등 혐의로 40대 A씨를 붙잡아 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오전 4시 40분쯤 태안군 한 펜션의 매점에서 점주인 50대 B씨에게 흉기를 휘두른 뒤 현금 약 50만원과 B씨 소유의 소형 레저용 차량을 훔쳐 달아난 혐의를 받는다. 다행히 B씨는 크게 다치지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상을 분석해 A씨 위치를 확인한 뒤 잠복 수사를 벌여 11일 오전 11시쯤 인천의 거주지에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 새벽 시간에 주인 혼자 근무하고 있는 점포를 노려 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>檢, ‘이상직 인사 특혜’ 조현옥 前 수석에 징역 1년 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</guid>
@@ -921,24 +948,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNQTOOJTGMYTAZJYGVRDQN3CGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 영등포경찰서는 지난 8월부터 이달 2일까지 대부업법, 채권추심법, 이자제한법 위반 혐의를 받는 불법대부조직 총책 2명을 비롯해 12명을 검거했다고 11일 밝혔다. 사진은 범행 당시 피해자들에게 전송된 문자 메시지./서울 영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1만2000%라는 살인적인 연이율을 적용해 무담보로 돈을 빌려주고 돈을 갚지 못하면 지인과 가족들에게 협박을 이어온 불법 대부업체 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;서울 영등포경찰서는 대부업법 위반 등의 혐의로 불법 대부업체 총책, 영업팀장 등 12명을 검거하고 이 중 4명을 구속했다고 11일 밝혔다. 총책 2명은 또 다른 대부업법 위반 혐의로 구치소에 수감 중이다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 지난해 6월부터 지난 10월까지 피해자 173명에게 5억2000만원을 빌려주고 4000~1만2000% 연이율을 붙여 부당이득을 얻은 혐의를 받는다. 조직 총책은 ‘돈을 잘 벌 수 있는 일’이라며 중고교 동창 등을 조직원으로 끌어들였고 대구 남구·달서구 일대 아파트를 임차해 범행을 벌인 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이들은 급전이 필요한 대학생, 주부, 실직자 등에게 무작위로 전화를 걸어 ‘무담보 대출’이라며 접근한 뒤 100만~500만원을 빌려줬다. 대출이 필요한 사람들의 정보가 담긴 데이터베이스(DB)를 텔레그램을 통해 불법으로 얻어 범행에 사용했다.&lt;br&gt;&lt;br&gt;피해자들은 담보 대신 자신의 사진과 지인들의 연락처를 일당에 제출해야 했다. 이후 피해자들이 원금과 이자를 갚지 못하면 지인들에게 “피해자가 유흥업소를 드나든다” “임신 중절비를 빌려놓고 잠적했다” 등의 허위 정보를 보내 악질 추심을 이어갔다. 이들은 피해자의 초등학생 자녀에게까지 협박 문자를 보낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;또한 인스타그램 등 소셜미디어에 차용증을 들고 있는 피해자의 사진, 허위 사실 등을 게시해 피해자들을 압박한 것으로 파악됐다. 일부 피해자는 악질 추심에 극단적 선택까지 시도했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U6XB3FJZCJC4JHHTNS42TH2WIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 경찰이 대구의 한 아파트 단지에 마련된 불법 대부업 조직 사무실에서 조직원들을 검거하고 있다./서울 영등포경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 일당은 가명, 대포폰은 물론 조직원마다 5~6개의 메신저 계정을 번갈아 사용하며 신분을 철저히 숨겼다. 수익금은 대포 계좌를 통해 받고 상품권과 현금 등으로 세탁한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 지난 8월 압수수색 영장을 발부받아 증거를 수집하고 현금 등을 압수했다. 현장에서 영업팀장과 영업팀원 등 5명을 검거해 검찰에 송치하기도 했으며 지난 2일에도 피의자 5명을 추가 검거했다. 경찰 관계자는 “앞으로도 경찰은 서민들을 상대로 하는 불법 대부업, 고리대금 행위, 채권 추심 범죄 근절을 위해 지속적인 수사 활동을 펼쳐갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>무안군 간부공무원 땅, 개발사업지에 포함… ‘알박기’ 의혹 </title>
-      <link>https://www.chosun.com/national/regional/2025/12/11/EEKNU4RI3REBRCIYBYIWZ6THOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/11/EEKNU4RI3REBRCIYBYIWZ6THOE/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 04:45:08 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XAY766KLKFCWBKUOKA5NTLO3YQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 9월 전남 무안군 해제면 무안황토갯벌랜드 탐방다리 개통식이 열렸다. 총 길이가 왕복 3km로 국내 최장이다./김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 무안군 간부 공무원이 소유한 땅이 관광지 개발 사업 부지에 포함돼 ‘알박기’ 의혹이 일고 있다.&lt;br&gt;&lt;br&gt;11일 무안군에 따르면 2022년부터 무안군 마갑산 일대에서 무안황토갯벌랜드 경관 산책로 조성사업이 추진 중이다. 올해 준공된 무안갯벌 탐방다리 종점인 마갑산 일대에 목재타워와 경관산책로 등을 조성하는 사업으로 2028년까지 국비 등 230억원이 투입된다.&lt;br&gt;&lt;br&gt;경관산책로는 설계용역을 시작했고, 목재타워도 내년부터 건설에 들어갈 예정이다. 그러나 무안군은 전체 사업부지의 22%가량인 1만9000㎡를 토지 소유주와 협의하지 못해 확보하지 못한 상태다.&lt;br&gt;&lt;br&gt;이 부지는 무안군 간부 공무원인 A씨와 그의 지인, 가족 등 3명이 소유한 것으로 알려졌다. 사업 승인 당시 2022년 해당 부지는 평당 7만여원이었지만, 현재는 땅값이 30% 올라 10만원을 선회하면서 시세 차익을 노린 ‘알박기’ 의혹이 제기되고 있다. 더욱이 A씨는 사업 승인 당시 지적재조사 부서에서 근무한 것으로 확인돼 미리 사업 내용을 알았을 것이라는 의구심은 커지고 있다. &lt;br&gt;&lt;br&gt;A씨는 “2016년 문중 땅을 처분하면서 다른 사람에게 팔 수 없어서 가족 등과 나눠 매입했다”며 “사업 승인 이후 구체적으로 땅이 수용된다는 얘기를 듣지 못했다”고 언론 등에 해명하고 있다. 무안군은 토지소유주와 보상 가격 문제 등으로 협의하지 못하자 해당 부지를 제외하고 사업을 추진한다는 방침이다.&lt;br&gt;&lt;br&gt;무안군 관계자는 “토지 수용을 위해 보상 가격을 제시했지만, 소유자와 원만한 협의를 이루지 못했다”며 “도로 등 국책사업이 아니어서 강제 수용은 할 수 없는 상황이어서 토지 소유주와 협의가 되지 않으면 경계에 담장을 치는 방법으로 제외하고 사업을 추진할 계획”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인공태양 연구시설’ 부지 나주 확정… 전남도·나주시 “에너지 대전환”</title>
-      <link>https://www.chosun.com/national/regional/2025/12/11/SMAW6VQESJBAHPISRW3UTNQYOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/11/SMAW6VQESJBAHPISRW3UTNQYOQ/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 05:03:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TMYZZGUZWGMRWGM3GMNZYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 나주에 들어서는 인공태양 연구시설 예상도./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘꿈의 에너지원’으로 불리는 ‘인공태양(핵융합) 연구시설’ 부지가 전남 나주로 최종 확정됐다. 연구시설 공사는 과기부 산하기관에서 주관하며 전남도와 나주시는 부지와 도로·전력 공급 등 기반 시설을 담당하게 된다.&lt;br&gt;&lt;br&gt;전남도와 나주시는 전담 부서 규모와 필요 업무 등을 협의하고 있으며 과기부·전남도·나주시 3자 업무협약을 준비하고 있다. 연구시설은 2027년 착공, 2036년 완공을 목표로 추진된다. &lt;br&gt;&lt;br&gt;사업비는 1조 2000억원 규모다. 인공태양 연구시설이 전남 나주에 구축되면 2000여명의 국내외 석학이 전남으로 유입되고, 200개 이상의 글로벌 기업 투자유치와 1만개 일자리 창출이 기대된다.&lt;br&gt;&lt;br&gt;전남도와 나주시는 합동으로 오는 16일 오후 3시 30분 나주종합스포츠파크 다목적체육관에서 ‘인공태양 연구시설 유치 환영 행사’를 열어 지역민들에게 감사를 표하고 앞으로 계획을 설명할 예정이다. 윤병태 나주시장은 “시민의 전폭적인 지지와 높은 주민 수용성이 결정적인 힘이 됐다”며 “인공태양 연구시설이 광주·전남 과학기술 산업을 혁신하고 빛가람 혁신도시에 이어 국가균형발전의 심장부가 될 것으로 기대한다”고 말했다.&lt;br&gt;&lt;br&gt;김규웅 전남도 대변인은 11일 환영문을 내고 “인공태양 연구시설의 전남 나주 유치는 결코 우연이 아니다”라며 “대한민국 에너지 수도로서 미래 첨단기술의 결정체인 인공태양 연구시설 유치에 선제적으로 차근차근 준비해 온 결과”라며 밝혔다. &lt;br&gt;&lt;br&gt;김 대변인은 “세계 유일의 에너지 특화 연구대학인 한국에너지공대, 한전 등 700여 에너지 기업, 단 한 건의 자연재해도 없는 안전한 부지, 열렬한 시도민 지지까지 준비된 노력과 탁월성이 정부와 과학계에 확고한 믿음을 심어줬다”고 말했다.&lt;br&gt;&lt;br&gt;앞서 전남도는 지난달 15일 과기부의 인공태양 부지 공모 계획이 발표된 이후 전담 테스크포스(TF)를 구성하고 나주 유치를 위해 도정 역량을 집중해 왔다. &lt;br&gt;&lt;br&gt;핵융합에너지란 태양에서 에너지가 만들어지는 원리를 모방해 중수소와 삼중수소의 핵융합 반응을 통해 에너지를 생산하는 것을 의미한다. 인공태양은 수소 1g으로 석유 8t에 해당하는 에너지를 생산할 수 있어 ‘꿈의 에너지’로 불린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>20년 미제 영월 영농조합 살인, 무죄 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/12/11/M6X4645PEJDP5OZVMJHWLNGUYI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/M6X4645PEJDP5OZVMJHWLNGUYI/</guid>
@@ -946,15 +955,6 @@
       <description/>
       <pubDate>Thu, 11 Dec 2025 03:53:04 +0000</pubDate>
       <content:encoded>여자친구와 내연관계에 있던 남성을 살해한 혐의로 1심에서 무기징역을 선고받았다가 2심에서 무죄를 받은 60대 남성에게 대법원이 최종 무죄를 확정했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 살인 혐의로 기소된 A(60)씨에게 무죄를 선고한 원심 판결을 확정했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDKOJVMQ3GCMRQMFQWGOJRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A(당시 39세)씨는 2004년 8월 9일 오후 강원 영월군 영월읍 한 영농조합 사무실에서 여자친구의 내연남이었던 영농조합 간부를 흉기로 찔러 살해한 혐의를 받았다. A씨는 여자친구가 내연남에 대해 “좋아한다”는 취지로 감정을 드러내자 적개심을 품고 피해자를 흉기로 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건은 수사 단계에서 결정적 증거가 부족해 20년간 장기 미제로 남았다가, 검찰이 족적 감정 등을 근거로 A씨를 범인으로 특정하면서 기소가 이뤄졌다.&lt;br&gt;&lt;br&gt;1심은 범행 현장에서 발견된 족적이 A씨의 것과 일치한다고 보고 무기징역을 선고했지만, 2심에서 뒤집혔다. 재판부는 “지문·DNA 등 보강 증거 없이 족적 감정만으로는 피고인을 범인으로 보기 어렵다”며 무죄를 선고했다. 간접 증거만으로 살인 사실이 증명됐다고 보기엔 부족하다는 취지였다. 대법원도 이런 원심 판단을 그대로 받아들였다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김치냉장고에 여친 시신 유기한 40대… 검찰, 무기징역 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/VZKM3XVUWNCJJAJFSFHGDUXQJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/VZKM3XVUWNCJJAJFSFHGDUXQJU/</guid>
-      <dc:creator>군산=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 02:50:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2GINZXGZSTMMJWMVSGCYTFGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;여자친구를 살해한 혐의를 받고 있는 A씨가 지난 9월 30일 전북 군산시 전주지방법원 군산지원에서 구속 전 피의자심문(영장실질심사)에 출석하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 주식 투자 문제로 다투다 여자 친구를 살해하고 시신을 김치냉장고에 넣어 1년 가까이 숨겨온 혐의로 기소된 40대 남성에게 무기징역을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 11일 전주지법 군산지원 형사1부(재판장 백상빈) 심리로 열린 A(41)씨의 살인 및 시체유기, 컴퓨터 등 사용 사기 사건 결심공판에서 “피고인은 오랜 기간 신뢰를 쌓아온 피해자를 배신한 뒤 잔혹하게 살해하고 그 이후 시신을 유기해 범행을 은폐했다”라며 이같이 요청했다. &lt;br&gt;&lt;br&gt;A씨는 최후 진술에서 “어리석은 행동으로 피해자와 유가족분들에게 씻을 수 없는 상처와 아픔을 드려서 너무 죄송하다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 10월 20일 군산시 조촌동의 한 빌라에서 4년간 교제한 여자 친구 B씨를 목 졸라 살해하고 시신을 가방에 담아 김치냉장고에 1년쯤 유기한 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 김치냉장고를 구입한 후 B씨의 시신을 넣고, B씨가 살던 빌라에 그대로 보관해왔다. 시신이 1년 가까이 냉장고에 보관돼 있어 부패하지 않았다고 한다. &lt;br&gt;&lt;br&gt;A씨의 범행은 “언니와 1년 가까이 메신저로만 연락이 되고 전화를 받지 않는다”는 B씨 여동생의 실종 신고로 꼬리가 잡혔다. 실종 신고는 지난 9월 29일 정오쯤 이뤄졌다. 경찰은 곧바로 B씨 휴대전화로 통화를 시도했지만 받지 않았다. 그런데 B씨 휴대전화에서 ‘무사히 잘 있다’는 취지의 문자메시지가 경찰에 왔다. 이 메시지는 A씨가 보낸 것이다.&lt;br&gt;&lt;br&gt;이에 경찰은 ‘실종 신고 사건은 직접 통화하거나 만나서 생사를 확인해야 한다’고 답장을 했다. 이때 압박을 느낀 A씨는 동거하고 있는 여자 친구 C씨에게 대신 전화를 받아달라고 했고, C씨는 경찰 통화에서 “잘 지내고 있다”는 취지로 답했다.&lt;br&gt;&lt;br&gt;남자 친구의 행동에 이상함을 느낀 C씨는 이유를 물었고, A씨는 “내가 B씨를 죽였다”고 C씨에게 범행 전모를 털어놓았다고 한다. C씨는 곧바로 경찰에 신고했고, 출동한 경찰은 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 지난 1년 동안 B씨가 살고 있던 빌라 월세를 대신 내면서 범행을 숨긴 것으로 확인됐다. A씨는 실종 신고가 접수되기 전까지 B씨의 휴대전화로 B씨 가족과 문자메시지를 주고받았다. A씨는 B씨 명의로 대출을 받거나 보험을 해지한 뒤 받은 돈 8800만원 상당을 가로채는 등 추가 범행을 저지른 것으로 파악됐다. A씨는 경찰 조사에서 “주식 문제로 다투다 범행했다”고 진술했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>맨손으로 빵 고르던 손님…“집게 써 달라” 부탁에 빵 집어 던지며 폭언</title>
