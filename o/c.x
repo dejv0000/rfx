@@ -13,6 +13,78 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>윤영호, 권성동 재판 나와 “세간에 회자되는 진술 한 적 없어”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/12/YYDTC4NK2BHVXKZ27LFLRK4TL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/YYDTC4NK2BHVXKZ27LFLRK4TL4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 10:13:50 +0000</pubDate>
+      <content:encoded>윤영호 전 통일교 세계본부장은 12일 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 국민의힘 권성동 의원의 정치자금법 위반 사건 재판에 증인으로 출석해 “지금 세간에 회자되는 부분은 제 의도와 전혀 (다르다)”며 “저는 그런 진술을 한 적이 없다”고 말했다. 다만 윤씨는 ‘세간에 회자되는 진술’이 무엇인지, 자신이 어떤 진술을 한 적이 없다는 것인지에 대해서는 구체적으로 밝히지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HFSTQMDFHBSTSNZVMQ2DSMLDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 통일교 세계본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이러한 윤씨의 증언은 권 의원 측 변호인 신문 과정에서 나왔다. 변호인이 “특검팀 조사를 받을 당시 기억나지 않는 것도 기억하는 것처럼 진술할 수밖에 없는 분위기였냐”고 묻자, 윤씨는 “그런 부분도 있었다. 제 기억이 왜곡됐을 수도 있고 충분히 복기하는 데 한계가 있었다”며 이 같이 말했다. 그는 ‘세간에 회자되는 진술을 한 적이 없다’고 한 데 이어 “그런 경우도 있고 그래서 좀 조심스럽다”고도 했다.&lt;br&gt;&lt;br&gt;윤씨는 변호인이 “증인(윤씨)과 피고인(권 의원) 사이에 뭔가를 주고받을 만한 인적 신뢰 관계가 있었느냐”고 묻자, “제가 여러 오해를 최근에도 받고 있는데, 지금 뉴스에도 많이 나오고 (있다)”며 “지금 이 케이스를 얘기하는 건 아니고, 제가 만난 적도 없는 분들에게 금품을 전달한다는 건 말이 안 된다”고 했다.&lt;br&gt;&lt;br&gt;윤씨는 이날 재판에서 2022년 대선을 앞두고 권 의원에게 현금 1억원을 제공했다는 혐의를 부인하는 취지의 증언도 했다. 변호인이 “(증인은) 수사기관 조사에서 ‘한학자 총재가 권 의원에게 갖다 주라며 돈을 줬다’고 했다”고 하자, 윤씨는 “조서에 담겨있지 않은 행간이 너무 많다”고 주장했다. 이어 “신문 과정에서 적힌 문자(텍스트) 외에 콘텍스트(맥락)가 너무 많다”며 “추가할 때도 있었고 기억이 안 난다고 얘기하기도 했다”고 말했다.&lt;br&gt;&lt;br&gt;이에 특검팀이 “(그렇다면) 권 의원에게 1억원을 준 것을 인정하지 않는다는 거냐”고 묻자, 윤씨는 “증언을 거부한다”고 했다. 특검팀이 “기존 진술을 번복하는 취지로 들린다”고 재차 말하자, 윤씨는 “누가 직접 줍니까. ‘배달 사고’라고 했는데 (그 내용은) 조서에 없다”고 했다. 특검팀은 윤씨가 조사 당시 ‘저도 배달 사고 나면 안 된다고 생각했고 확실히 전달됐는지 확인 문자도 했다’고 진술한 조서를 제시했다. 윤씨는 “그 ‘배달 사고’가 그게 아니잖아요”라고 했다. 이 과정에서 특검팀 검사와 윤씨 사이에 언성이 잠시 높아지기도 했다.&lt;br&gt;&lt;br&gt;윤씨는 다만 최근 자신의 재판에서 ‘한반도 평화 서밋’ 행사 준비 과정에서 “양쪽에 어프로치(접근)했고, 더불어민주당도 여러 차례 어프로치했다고 (특검에) 증언했다”고 진술한 부분에 대해서는 인정했다. 변호인이 “‘한반도 평화 서밋에서 국민의힘뿐만 아니라 민주당까지 저희들은 (한학자) 총재님이 결정하지 않으셨기 때문에 양쪽 다 저는 어프로치 했습니다’라고 했다”고 하자, 윤씨는 맞다는 취지로 답했다. 변호인이 “다 맞는 사실이냐고 물으니까 기본적으로 맞다고 (했다)”고 하자, 윤씨는 “네”라고 답했다.&lt;br&gt;&lt;br&gt;윤 전 본부장의 증인 신문이 끝난 뒤에는 그의 아내이자 통일교 세계본부 재정국장이었던 이모씨에 대한 신문이 이어졌다. 이씨는 2022년 1월 5일 현금이 든 상자를 준비해 사진으로 남겨둔 사실은 인정하면서도 관련 질문 대부분에 증언을 거부했다. 이씨는 “배우자(윤씨)가 관련 재판을 받고 있어 이번 법정에서는 증언 거부권을 사용하고 싶다. 법정에 서 있는 것만으로도 심리적으로 많이 어렵다”며 대부분의 질문에 답변을 피했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹, 박성재에게 “이원석 용퇴 요구했으나 거부하고 개겨” 메시지</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/12/YEPJNBOQ3VCXNBI2OKDKSYFSAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/YEPJNBOQ3VCXNBI2OKDKSYFSAQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 09:51:18 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령 부부가 작년 5월 검찰 지휘부의 대규모 인사 이후 박성재 당시 법무부 장관에게 ‘이원석 검찰총장의 용퇴를 요구했으나 거부하고 개기면서 인사를 하게 됐다’는 취지의 텔레그램 메시지를 보낸 것으로 나타났다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFTGMZLDGJQTOMJZGNSTCZBYGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성재 전 법무부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 조은석 내란특검팀이 국회에 제출한 박 전 장관의 내란 중요임무 종사 등 혐의 공소장에 따르면, 윤 전 대통령과 김건희 여사는 박 전 장관에게 작년 5월 15일 동일한 내용의 텔레그램 메시지를 전송했다.&lt;br&gt;&lt;br&gt;해당 메시지에는 “검사장급 인사가 전광석화처럼 이뤄졌고, 역대급이었다 보니 말들이 엄청 많다”며 “인사 배경과 관련해 용산(대통령실)이 4월 말이나 5월 초에 (검찰)총장의 업무실적, 능력, 자기 정치 등의 문제를 지적하며 용퇴를 요구했으나 총장이 거부하고 개기기로 하면서,,,,갑자기 중앙사장(서울중앙지검장)에게 영부인 명품백 사건 신속처리(5월) 등을 지시한 게 배경이 됐다는 얘기가 있다”는 내용이 담겼다. 다만 해당 텔레그램 메시지를 윤 전 대통령이 직접 작성했는지, 누군가로부터 받은 글을 단순 전달한 것인지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;공소장에는 또 김주현 당시 대통령실 민정수석이 작년 5월 30일 박 전 장관에게 “장관님 인사 실력이 워낙 훌륭하셔서 말끔하게 잘 된 것 같다. 감사하다”는 텔레그램 메시지를 전송했다는 내용도 담겼다.&lt;br&gt;&lt;br&gt;윤석열 정부 당시 검찰 지휘부 대거 교체 시점은 지난해 5월 13일이다. 이때 서울중앙지검과 대검찰청의 핵심 지휘부가 모두 교체됐는데, 이원석 당시 검찰총장이 명품백 수사 전담팀 구성을 지시한 지 11일 만이었다. 당시 도이치모터스 주가조작 사건과 명품백 수사 등 ‘김건희 여사 수사’를 맡고 있던 검찰 지휘부 교체 인사에 대통령실이 부적절하게 관여한 것으로 보이는 대목이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“아이들도 이별 준비가 필요해”… 이혼 엄빠들이 필수 시청하는 이 영상</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/12/JGEHXT4UHZGRHBYYZGBIOUGIL4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/JGEHXT4UHZGRHBYYZGBIOUGIL4/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 09:31:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TMEA2KID2NHSXC7RJPLD7X77YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 법원행정처 산하 ‘자녀 양육 안내 제도 개선 TF’가 올해 새로 제작한 ‘이혼 가정 자녀 교육 영상’. 미성년 아이가 있는 이혼 중인 부부들은 이 영상을 통해 자녀 양육 교육을 받아야 한다. /법원행정처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“엄마와 아빠는 지금 이혼을 준비해요. 우리에게도 ‘엄빠’의 이별을 준비할 시간이 필요해요.”&lt;br&gt;&lt;br&gt;12일 서울 서초구 대법원 회의실에서 공개된 ‘2025년 이혼 가정 자녀 교육 영상’의 핵심은 부모의 이혼을 갑작스럽게 맞닥뜨리게 된 아이들의 목소리였다. 이별의 또 다른 당사자인 아이들이 부모의 이혼 과정에서 마음이 다치지 않도록 엄마와 아빠가 신경 써야 한다는 취지다.&lt;br&gt;&lt;br&gt;미성년 자녀가 있는 이혼 부부들은 앞으로 법원에서 이 영상을 필수적으로 봐야 한다. 이혼 절차를 밟는 부부에게 자녀 양육 교육이 의무화된 것은 지난 2012년부터인데, 당시 만들었던 교육 영상이 13년 만에 새로 업데이트된 것이다.&lt;br&gt;&lt;br&gt;대법원 법원행정처 산하로 출범한 ‘자녀 양육 안내 제도 개선 TF’는 교육 영상과 애니메이션, PPT 자료 등을 새롭게 제작하고 이날 발표회를 열었다. 발표회에는 천대엽 법원행정처장과 이원형 서울가정법원장, 전국 법원의 가사 법관, 조사관, 자녀 양육 안내 담당자 등 70여 명이 참석했다.&lt;br&gt;&lt;br&gt;새 교육 영상은 실제 부모가 이혼하는 과정을 함께 겪은 미성년 자녀들의 사례를 각색한 재연 드라마 형식으로 만들어졌다. “내가 열심히 공부하고 착하게 지내면 엄마와 아빠가 예전처럼 잘 지낼 수 있지 않을까” 고민한 열 살 승민이의 사례, “아빠는 집을 갑자기 나가 버렸고, 엄마는 아빠 욕만 한다”며 상처받은 중학교 1학년 강이의 모습 등이 담겼다. 부모가 이혼을 두고 갈등하는 상황에서 소외된 자녀들이 종종 죄책감과 우울감에 빠지게 되는 점을 지적한 것이다.&lt;br&gt;&lt;br&gt;영상 말미에서는 “이혼으로 부부의 관계가 변하더라도 자녀에 대한 부모로서의 사랑과 책임은 계속되어야 한다”는 점도 강조됐다. TF 단장을 맡은 장진영 수원지법 여주지원장은 “미성년 자녀들은 부모의 이혼 선택으로 이별을 맞이할 수밖에 없게 되고, 이혼이 자신 때문이라고 생각하며 ‘내가 잘하면 이혼하지 않겠지’라고 기대하기도 한다”며 “부모의 이별을 마주한 아이들의 목소리에 귀를 기울일 필요가 있다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PB45BDWMRJAOBGEHTYAC4LYNIY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 서울 서초구 대법원 회의실에서 열린 ‘2025년 이혼 가정 자녀 교육 영상’ 발표회. 천대엽 법원행정처장과 이원형 서울가정법원장, 전국 법원의 가사 법관, 조사관 등 70여 명이 참석했다. /법원행정처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;발표회에 참석한 일선 가정법원 판사들은 “그간 이혼 재판을 하거나 면접교섭 사항을 정할 때 자녀의 의견을 듣지 않았던 건 아닌가 반성하게 됐다” “아동의 권리에 대해 한 번 더 생각하게 됐다”고 말했다. 새 교육 영상은 전국 법원에 배포되고 대법원 유튜브에도 공개될 예정이다. 대법원 관계자는 “전국 법원에서 진행되는 이혼 절차의 통일성과 전문성을 높이는 중요한 사법 기반 인프라가 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;천대엽 처장은 이날 개회사에서 “부부가 이혼하게 되면 법적인 관계는 깨지지만, 그럼에도 여전히 아이의 부모이다. 이혼이라는 사건을 통해 아이를 중심으로 하는 새로운 가족의 형태가 탄생하는 것”이라며 “부모의 노력으로 더 완전한 가족 관계가 될 수 있지 않을까 생각한다”고 말했다. &lt;br&gt;&lt;br&gt;이원형 법원장은 “이번 교육 자료가 이혼 과정에 있는 부모와 자녀가 가족 관계를 건강하게 재구조화하는 데 든든한 기반이 되리라 확신한다”며 “서울가정법원도 앞으로 미성년 자녀의 보호와 가정의 회복을 위해 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서귀포 해상 상선 선원 5명 추락...해경 전원 구조</title>
+      <link>https://www.chosun.com/national/regional/2025/12/12/IUYK3ATY3FDV7KMWB5DZCI5ASM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/IUYK3ATY3FDV7KMWB5DZCI5ASM/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 09:27:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2DSY3FMVRDIZTBMI2DEZLGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 오후 4시 47분쯤 서귀포항 남쪽 약 33㎞ 해상에서 8580톤급 상선 A 호(시에라리온 선적, 승선원 15명)에서 승선원 5명이 바다로 추락하는 사고가 발생했다./서귀포해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서귀포 남쪽 해상을 지나던 상선에서 승선원 5명이 바다에 빠지는 사고가 발생해 해경이 긴급 출동, 전원 구조했다.&lt;br&gt;&lt;br&gt;서귀포해양경찰서에 따르면 12일 오후 4시 47분쯤 서귀포항 남쪽 약 33㎞ 해상에서 상선 A호(8580t, 승선원 15명)에서 승선원 5명이 해상으로 추락했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;해경은 신고 접수 직후 경비함정 5척과 연안구조정 2척, 헬기 등을 사고 해역으로 급파하고, 인근의 선박에 구조협조 요청을 했다고 밝혔다.&lt;br&gt;&lt;br&gt;오후 5시 35분쯤 사고해역에 도착한 해경 헬기는 구명벌에 타고 있던 선원 5명을 승강 장치를 이용해 차례로 구조하기 시작했고, 오후 5시 52분쯤 전원 구조 완료했다.&lt;br&gt;&lt;br&gt;구조된 선원들은 모두 외국인이며, 건강에는 큰 이상이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;해경은 선원들의 해상 추락 원인 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“APEC 다음은 세계경주포럼”... 경북도, ‘정종섭·김재수·함성득’ 자문위원회 꾸렸다</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/12/K7NSOICRLNH3VMFQHENXUBUSRA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/K7NSOICRLNH3VMFQHENXUBUSRA/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 08:52:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWUCFVFX6RAWBKLCCK4BXF455U.png"&gt;&lt;figcaption&gt;&lt;small&gt;세계경주포럼 자문위원들이 이철우(앞줄 왼쪽 네번째) 경북지사와 함께 기념촬영을 하고 있다./경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 12일 세계경주포럼 자문위원회를 구성했다. 세계경주포럼은 경북도가 올해 경주시에서 열린 아시아태평양경제협력체(APEC) 정상회의를 계기로 지속 가능 성장·디지털 혁신·포용 경제 등 APEC 핵심 의제에 부합하는 문화산업 분야 정책과 협력 방안 등을 APEC 회원국들과 함께 논의하는 자리다. 자문위원들은 포럼의 비전, 목표, 운영 전반에 대한 전략과 방향을 제시할 예정이다.&lt;br&gt;&lt;br&gt;세계경주포럼 자문위원은 총 33명으로, 크게 국제 교류 분과·문화산업 분과 2개로 구성돼 있다. 공동 자문위원장은 정종섭 한국국학진흥원장·김재수 경북문화재단 대표이사·함성득 경기대 정치전문대학원장이 맡게 됐다.&lt;br&gt;&lt;br&gt;국제 교류 분과에선 김남일 경상북도문화관광공사 사장 등이, 문화산업 분과에선 어수웅 조선일보 논설위원과 유철균 경북연구원장 등이 자문위원으로 활동할 방침이다.&lt;br&gt;&lt;br&gt;경북도는 올해부터 2030년까지 단계적으로 세계경주포럼을 준비·추진할 방침이다. 내년까지는 포럼 공식 출범 및 기반 구축의 해로 삼아 창립 총회를 열고 정책 선언문 채택 등을 추진한다. 2027년부터 2029년까지는 포럼 정례화 및 문화산업 투자 유치를 목표로 매년 10월 세계경주포럼을 개최한다. 세계적 문화 기업과 투자사들도 초청할 예정이다. 2030년까지는 세계경주포럼을 각국 정상과 기업 CEO 등이 참여하는 정상급 회의로 만들겠다는 목표다. 세계경주포럼을 위한 내년 예산 21억원도 확보했다.&lt;br&gt;&lt;br&gt;이철우 경북도지사는 “세계경주포럼을 대한민국 문화 산업 경쟁력을 한 단계 올리는, 문화계의 다보스포럼으로 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>23명 사망 아리셀 화재…박순관 대표, 항소심서도 ‘혐의 부인’</title>
+      <link>https://www.chosun.com/national/incident/2025/12/12/VL7MYBJ3SBAVTG344TPPWS3MAU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/12/VL7MYBJ3SBAVTG344TPPWS3MAU/</guid>
+      <dc:creator>수원=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 09:03:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CUE5M32Z7LZXTHADCNEQP5SJEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박순관 아리셀 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23명의 사망자를 낸 아리셀 화재 참사와 관련해 중대재해처벌법 위반으로 1심에서 징역 15년을 선고받은 박순관 아리셀 대표가 항소심에서도 혐의를 부인했다.&lt;br&gt;&lt;br&gt;12일 수원고법 형사1부(재판장 신현일) 심리로 열린 항소심에서 박 대표 측 변호인은 “리튬 전지 제조상 결함 부분 예견 가능성, 열 감지기 설치 유무와 관련한 주의의무 위반, 안전보건교육 부분 위험성 평가 부분 등에서 사실 오인과 법리 오해를 주장한다”며 “양형이 과도하다”고 주장했다.&lt;br&gt;&lt;br&gt;재판부는 피고인 측이 신청한 일부 증인을 채택하고, 검찰이 신청한 증인들에 대해서는 입증 계획서를 받은 뒤 채택 여부를 결정하기로 했다. 또 양측에 법정 증언이 가능한 일차전지 분야 전문가 명단을 제출하라고 주문했다. 이날 방청석에는 유족 등 20여명이 참석했다.&lt;br&gt;&lt;br&gt;박 대표에게 내려진 징역 15년은 2022년 중대재해처벌법 시행 이후 선고된 최고 형량이다. 1심 재판부는 박 대표가 사업장의 경영책임자로서 안전보건 확보 의무를 위반했다고 판단했다.&lt;br&gt;&lt;br&gt;함께 기소된 박중언 아리셀 총괄본부장(박 대표 아들)도 1심에서 징역 15년을 선고받았다. 홍모 아리셀 상무·정모 한신다이아 대표 등 공범 2명에게는 징역 2년, 박모 안전보건관리자에게 금고 2년, 오모 생산파트장에게는 금고 1년이 각각 선고됐다. 회사 법인인 아리셀에는 벌금 8억원, 한신다이아·메이셀에 각 3000만원, 강산산업건설에 벌금 1000만원이 내려졌다. 직원 이모 씨는 무죄가 선고됐다.&lt;br&gt;&lt;br&gt;박 대표는 지난해 6월 화성시 서신면 아리셀 공장에서 발생한 대형 화재로 근로자 23명이 숨지고 8명이 다친 사건과 관련, 유해·위험 요인 점검 미이행, 중대재해 대비 매뉴얼 미비 등 안전보건 의무를 위반한 혐의로 기소됐다. 화재 희생자 23명 중 20명은 파견 근로자였다. &lt;br&gt;&lt;br&gt;다음 공판은 이달 19일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경남 양산서 상가로 SUV 돌진...1명 경상 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/12/RSDOCCVECRAOHCCDKT7H2J7EGM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/RSDOCCVECRAOHCCDKT7H2J7EGM/</guid>
+      <dc:creator>양산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 08:42:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EG5ZSCAOLRHIFGVXKT2FTFUHZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12일 낮 12시쯤 경남 양산시 물금읍 한 아파트 입구 사거리에서 물금역 방향으로 주행하던 SUV 차량이 상가로 돌진한 사고 현장. /독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮 경남 양산에서 SUV 차량이 상가로 돌진해 시민 1명이 다치는 사고가 났다.&lt;br&gt;&lt;br&gt;12일 경찰에 따르면 이날 낮 12시쯤 양산시 물금읍 한 아파트 입구 사거리에서 물금역 방향으로 주행하던 SUV 차량이 도로 우측 상가로 돌진했다. 차량은 휴대전화 대리점과 카페를 덮쳤다.&lt;br&gt;&lt;br&gt;다행히 휴대전화 대리점에는 사람이 없었고, 카페에는 사장인 20대 남성만 있었다. &lt;br&gt;&lt;br&gt;이 사고로 카페에 있던 20대 남성이 발목 부위에 경상을 입고 병원으로 이송됐다. 이 외에 인명 피해는 없었다. 차량과 상가 유리도 파손됐다. &lt;br&gt;&lt;br&gt;SUV 운전자 A씨는 음주나 무면허 운전은 아닌 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨가 당시 깜빡 졸았는지, ‘기억이 나질 않는다’는 취지로 진술했다”며 “운전 부주의로 인한 사고로 보고 정확한 사고 경위를 조사하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 교통사고처리특례법상 치상 혐의로 입건할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이장들 쌈짓돈 된 ‘송전탑·변전소 주변 마을 지원금’</title>
+      <link>https://www.chosun.com/politics/goverment/2025/12/12/57SVRYNUL5FP3JHUK5H2ZWVYJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/goverment/2025/12/12/57SVRYNUL5FP3JHUK5H2ZWVYJY/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 12 Dec 2025 08:37:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송전탑이나 변전소 주변 마을에 나오는 지원금을 일부 마을 대표들이 횡령하고 있었던 것으로 국민권익위원회 조사에서 드러났다.&lt;br&gt;&lt;br&gt;권익위는 송·변전설비 주변 마을에 지원하는 ‘주민 공동 사업 지원금’을 마을 대표들이 사적으로 사용한 사례를 확인해, 조사 보고서를 기후에너지환경부에 보냈다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;권익위는 송전설비주변법에 따라 한국전력이 송전탑이나 변전소 주변 마을에 지급하는 지원금을 주민 대표가 사적으로 사용한다는 신고가 권익위에 접수됐다. 이에 따라 권익위는 지원금을 받는 마을 5000여 곳 가운데 772곳을 대상으로 실태 조사를 진행했고, 148곳에서 지원금이 부적절하게 쓰인 사실을 확인했다.&lt;br&gt;&lt;br&gt;대구 달성군 A마을 대표는 지원금을 술집에서 3회에 걸쳐 198만원, 한정식집에서 2회에 걸쳐 72만원을 썼다. 마을과 무관한 지역에 있는 호텔에서도 2회에 걸쳐 129만원을 썼다. 영수증은 제출하지 않았고, 사용 목적과 인원도 밝히지 않았다.&lt;br&gt;&lt;br&gt;경북 영천시 B마을 대표는 2020년 7월 지원금으로 1600만원짜리 지게차를 구매했으나, 이를 마을 주민들과 공유하지 않고 독점 사용했다.&lt;br&gt;&lt;br&gt;경남 양산시 C마을 등 여러 마을은 지원금을 전용 계좌로 받지 않고, 마을 대표 개인 계좌로 받아 온 것으로 드러났다. 이에 따라 마을 대표의 개인적인 지출과 지원금의 집행이 구분되지 않았다.&lt;br&gt;&lt;br&gt;이런데도 한전은 지원금 집행에 대한 관리·감독을 소홀히 해, 지원금의 사적 사용이나 증빙 서류 미비를 막지 못하고 있다고 권익위는 지적했다.&lt;br&gt;&lt;br&gt;권익위는 한전에 적정하지 않게 집행된 지원금을 환수하도록 하고, 기후부에는 관리·감독 강화를 위해 실태 조사 결과 보고서를 이첩했다고 밝혔다.&lt;br&gt;&lt;br&gt;권익위 유철환 위원장은 “송·변전 설비 주변 주민 공동 사업 지원금은 그 제도의 취지에 맞게 마을 주민 전체에게 골고루 혜택이 돌아가도록 쓰여야 한다”며 “권익위는 앞으로도 정부의 각종 지원금이 그 목적에 맞게 적절히 집행되는지 지속적으로 살펴보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘가족간 경영권 분쟁’으로 비자금 조성 들통...부산 건설사 일가 유죄</title>
       <link>https://www.chosun.com/national/regional/2025/12/12/NLAWBQ5ATZFNZMIWYBH3W66OOM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/NLAWBQ5ATZFNZMIWYBH3W66OOM/</guid>
@@ -850,19 +922,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGGZRYMUZTCMBTHA2GGZDGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 사랑의 교회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예배당을 새로 지으면서 도로 지하를 쓰기 위해 구청 허가를 받았다가 법원 판결로 취소됐던 사랑의교회가 원상 복구를 안해도 된다는 항소심 판결이 11일 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구회근)는 이날 서울 서초구 대형 교회인 사랑의교회가 서초구를 상대로 낸 원상회복 명령 취소 소송 항소심에서 사랑의교회 패소로 판결한 1심을 뒤집고 “서초구의 원상회복 명령을 취소한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 소송은 지난 2010년 사랑의교회가 서초역 인근에 새 건물을 올리면서 시작됐다. 사랑의교회는 서초구에 도로 지하 공간을 사용할 수 있게 해달라고 신청했고 서초구는 건물 일부를 어린이집으로 기부채납 받는 등 조건으로 도로 지하 1077㎡를 쓰도록 ‘도로점용 허가’를 내줬다. 사랑의교회는 이 공간에 대강당과 주차장, 창고 등을 만들었다.&lt;br&gt;&lt;br&gt;그러자 서초구민 일부가 부당한 특혜라고 주장하면서 2011년 서울시에 감사를 청구했다. 서울시는 감사 결과 도로점용 허가 처분을 시정하라고 했지만 서초구가 받아들이지 않았고, 주민들은 2012년 “서초구가 내준 도로점용과 건축 허가를 취소해달라”며 주민소송을 냈다. &lt;br&gt;&lt;br&gt;주민소송 1·2심은 “도로점용이나 건축 허가 처분은 재산적 가치가 있는 물건이나 권리에 해당한다고 볼 수 없어 주민소송 대상이 아니다”라며 각하했다. 그러나 대법원은 2016년 “도로점용 허가는 주민소송 대상이 된다”는 취지로 파기환송했고 이후 파기환송심을 거쳐 2019년 재상고심에서 서초구의 도로점용 허가가 위법이라는 판결이 확정됐다. 서초구청은 대법원 판결에 따라 2020년 사랑의교회 측에 원상회복하라는 명령을 내렸다. 도로법상 도로점용허가가 취소되면, 원상 복구가 불가능하거나 부적당한 경우를 제외하고는 원상 복구를 해야 한다.&lt;br&gt;&lt;br&gt;앞서 작년 3월 1심은 서초구의 원상회복 명령에 문제가 없다며 사랑의교회 패소로 판결했다. 그러나 이날 2심 재판부는 “원상 복구가 부적당한 경우”라고 판단했다. 감정 결과 원상 복구를 위한 굴착 공사 과정에서 지반 침하 위험이 있고, 인근 노후 상하수도관이 파손 등으로 싱크홀이 생길 수 있다는 의견이 나왔기 때문이다. 또, 원상 복구를 하려면 사랑의교회 건물 지하 1~8층의 대강당·주차장·정화조 등 시설과 구조물을 철거해야 하는데 건물 하중을 지지하는 핵심 부재인 지하외벽 등을 철거하면 건물 안정성에도 문제가 생긴다는 의견도 제기됐다.&lt;br&gt;&lt;br&gt;재판부는 “이 도로 원상회복에는 최소 1120억3500만원의 비용과 50개월 이상의 공사 기간이 소요되고, 평소 유동 인구가 많은 인근에 장기간 교통 혼잡과 소음·분진 등 심각한 불편을 초래할 것이 예상된다”고 했다. 재판부는 또 “이 사건에서는 도로의 원상회복 기술적 난이도나 구체적인 위험성이 새롭게 인정됐기 때문에 관련 확정 판결의 기속력에 반한다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>층간소음에 위층 이웃 살해한 47세 양민준, 신상공개</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/11/TXBOEFUD4BFYPAGPK4PDFZEIKU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/11/TXBOEFUD4BFYPAGPK4PDFZEIKU/</guid>
-      <dc:creator>예산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 08:32:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RF7FDLWZIJGWLHTGMFLJRDC3PE.png"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청은 11일 살인 등의 혐의를 받는 양민준(47)의 신상을 공개했다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간소음에 불만을 품고 위층 주민을 살해한 양민준(47)의 신상 정보가 11일 공개됐다.&lt;br&gt;&lt;br&gt;충남경찰청은 이날 신상정보공개심의위원회를 열고 양민준의 이름, 나이, 사진 등을 충남경찰청 누리집에 30일간 공개하기로 결정했다.&lt;br&gt;&lt;br&gt;심의위원들은 범행의 잔인성과 피해의 중대성, 피해자 유족의 의견 등을 종합적으로 고려해 신상정보를 공개하기로 의견을 모았다.&lt;br&gt;&lt;br&gt;특정 중대범죄 피의자 등 신상정보 공개에 관한 법률에 따르면 심의위의 결정에 피의자가 이의를 제기할 경우 공개 결정이 나더라도 5일간 유예기간을 둬야 하지만 양씨가 별도의 이의를 제기하지 않아 당일 공개됐다.&lt;br&gt;&lt;br&gt;양민준은 지난 4일 오후 2시 30분쯤 천안시 서북구 한 아파트에서 자신의 거주지 위층을 찾아가 70대 이웃 주민 A씨에게 흉기를 휘둘러 살해한 혐의(살인 등)를 받는다.&lt;br&gt;&lt;br&gt;당시 흉기에 다친 A씨는 아파트 관리사무소로 달아난 후 문을 잠갔다. 하지만 양민준은 자신의 승용차를 몰아 이곳으로 돌진해 문을 부순 후 A씨를 쫓아가 다시 흉기를 휘두른 것으로 드러났다.&lt;br&gt;&lt;br&gt;경찰은 구속된 양민준을 12일 검찰에 송치할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/DFQFWXYE5VD75MMU3FEMZFEAOQ.jpg?auth=64f07572d09f3be7dad4baed5c3778acc4ae91378b23fe4a8e7a35384164250c&amp;smart=true&amp;width=353&amp;height=265" type="image/jpeg" height="265" width="353">
-        <media:description type="plain">충남경찰청은 11일 살인 등의 혐의를 받는 양민준(47)의 신상을 공개했다. /충남경찰청</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
-    </item>
-    <item>
       <title>특검 “‘편파수사’ 주장 강한 유감...특검법상 수사 대상 아냐”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/11/ZMYKJVTCCVATDFUDN4EBMBWP24/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/ZMYKJVTCCVATDFUDN4EBMBWP24/</guid>
@@ -884,29 +943,6 @@
       </media:content>
     </item>
     <item>
-      <title>[오늘의 운세] 12월 12일 금요일 (음력 10월 23일 乙卯) </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/11/U53XNDJYXRGXDMWIYAUROQVQYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/11/U53XNDJYXRGXDMWIYAUROQVQYY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
-		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
-멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
-		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
-		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>매몰 사고 광주도서관, 시공사 부도로 3개월 공사 중단했다 재개</title>
-      <link>https://www.chosun.com/national/incident/2025/12/11/4ARGSHPFPNEA5DLCLYO7UP5AAI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/11/4ARGSHPFPNEA5DLCLYO7UP5AAI/</guid>
-      <dc:creator>광주광역시=진창일 기자, 김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 07:22:52 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSGIYRZG5QTEMTGMI3GGYJZHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;11일 오후 1시 58분쯤 광주 서구 치평동(상무지구)의 광주대표도서관 공사 현장에서 레미콘 타설 중 붕괴 사고가 발생해 4명이 매몰, 소방당국이 구조작업을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오후 콘크리트 타설 중 붕괴 사고로 작업자 4명이 매몰된 것으로 추정되는 광주광역시 서구 ‘광주대표도서관’ 현장이 불과 3개월 전까지 공사가 중단됐던 곳으로 확인됐다. &lt;br&gt;&lt;br&gt;광주광역시 등에 따르면 사고가 발생한 광주대표도서관 건립 공사는 지난 6월 13일 공정률 66% 단계에서 공사가 일시 정지됐다.&lt;br&gt;&lt;br&gt;시공사 중 하나인 홍진건설의 모기업(영무토건)이 기업회생 절차에 들어가면서 공사가 전면 중단된 것이다. 이후 약 3개월 만인 지난 9월 25일 공사가 재개됐다. &lt;br&gt;&lt;br&gt;해당 현장은 광주 서구 치평동 상무소각장 부지 내(내방로 2)에 위치하며, 총사업비 516억원(국비 157억, 시비 359억)이 투입되는 공사다. 대지면적 1만4543㎡, 연면적 1만1286㎡에 지하 2층~지상 2층 규모로 지어질 예정이었다. &lt;br&gt;&lt;br&gt;이 건물은 2019년 국제현상설계공모를 통해 세르비아 건축가 브라니슬라프 레지치의 작품이 당선되며 주목받았다. 2022년 9월 착공해 터파기와 지하층 골조 공사를 마치고, 올해 3월부터 지상층 골조 공사가 진행 중이었다. &lt;br&gt;&lt;br&gt;시공사 측은 지난 6월부터 9월까지 3개월간 멈췄던 공사 기간을 만회해야 하는 상황이었다. 문서를 보면 향후 계획상 준공 목표일은 2026년 4월로 잡혀 있다. 공사 재개 시점(9월 25일)으로부터 준공까지 불과 7개월밖에 남지 않은 셈이다. &lt;br&gt;&lt;br&gt;경찰은 구조 작업이 마무리되는 대로 현장 소장 등 공사 관계자를 소환해 안전 수칙을 제대로 준수했는지 등을 집중 수사할 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 신임 수원지검장에  김봉현...정지영·김남순·김종우 검사장 승진</title>
       <link>https://www.chosun.com/national/court_law/2025/12/11/QSHQF4AM2NC6NEUOUNCR37WALY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/QSHQF4AM2NC6NEUOUNCR37WALY/</guid>
@@ -916,45 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTEOLCGI2WGYRZMY4TMZJZG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;[속보] 신임 수원지검장에 김봉현...정지영·김남순·김종우 검사장 승진&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김건희특검, ‘관저이전’ 의혹 김오진 전 차관 구속영장 청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/F6G4WUGANZHTBCZVC5AYJD3GRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/F6G4WUGANZHTBCZVC5AYJD3GRM/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 05:45:21 +0000</pubDate>
-      <content:encoded>‘대통령 관저 이전 특혜’ 의혹을 수사 중인 민중기 특별검사팀이 11일 김오진 전 국토교통부 1차관 등 관련자들에 대해 직권남용 등 혐의로 구속영장을 청구할 예정이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/K23WLDQ2ZBMTVDGQHGYNJB5HEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 의혹을 수사하는 민중기 특별검사팀의 박노수 특검보가 지난 4일 서울 종로구 KT광화문빌딩 웨스트에 마련된 사무실에서 브리핑을 하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박노수 특검보는 이날 정례 브리핑에서 “전 청와대 이전 TF 1분과장이자, 대통령비서실 관리 비서관 김오진, 1분과 소속 직원이자 대통령실 행정관 황승호에 대해 직권남용, 건설산업기본법 위반, 사기 등 혐의로 구속영장을 청구할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;김 전 차관은 당시 관저 이전 공사 업무를 총괄했던 인물이다. 해당 의혹은 윤석열 전 대통령 취임 후 대통령실과 관저를 이전하는 과정에서 인테리어 업체 21그램이 공사권을 따내는 과정에서 특혜를 받았다는 내용이다. 21그램은 김 여사가 운영한 코바나컨텐츠 주최 전시회를 후원하고 코바나컨텐츠 사무실 설계·시공을 맡았던 업체로, 대표인 김모씨가 김 여사와 친분이 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;또 특검은 이준석 개혁신당 대표에게 오는 12일 소환을 통보했다고도 했다. 박 특검보는 “이 대표는 2022년 실시된 제20대 대선, 8회 지방선거 및 제21대 국회의원 보궐선거 당시 윤 전 대통령의 공천 개입 정황을 알린 사실이 있다”며 “윤 전 대통령 등의 공천개입 의혹을 규명하기 위해선 이 대표의 진술에 대한 확인이 반드시 필요한 상황”이라고 소환 이유를 설명했다. 그러면서 “특검은 이 대표가 과거 국민의힘 당대표로서 수행한 공천 업무에 대한 국민적 의혹을 해소할 필요가 있는 점을 감안하여 12일에 출석할 것을 요청한다”고 했다.&lt;br&gt;&lt;br&gt;이에 대해 이 대표는 특검 브리핑 직후 입장문을 통해 특검 측 설명을 반박했다. 이 대표는 “일과 시간이 아닌 새벽, 심야, 공휴일 등 모든 가능한 시간대를 열어두고 출석 일정을 다각도로 제안했으며 변호인 입회가 보장된다면 즉시 조사에 응할 준비가 돼 있음을 분명히 전했다”며 “이러한 조율 노력에도 특검 측은 제안된 시간을 모두 거절한다는 입장만을 회신했다”고 했다.&lt;br&gt;&lt;br&gt;소환 통보에 불응한 한동훈 전 국민의힘 대표에 대해서도 재차 소환을 요구했다. 박 특검보는 “한 전 대표에 대해 오는 18일 참고인으로 출석할 것을 요구하는 출석요구서를 재차 발송했다”고 했다. 특검은 한 전 대표가 22대 국회의원 공천과 관련해 윤 전 대통령으로부터 김상민 전 검사를 공천해달라는 부탁을 받았는지 확인해야 한다는 입장이다. 그러나 한 전 대표는 ‘하청 특검’이라며 조사에 거부하겠다며 버티고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통일교 돈 받은 민주당 인사 폭로한다던 윤영호, 왜 침묵했나?</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/AIQTKIEGABGXBDPB3O2RKY4BCM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/AIQTKIEGABGXBDPB3O2RKY4BCM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 07:26:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R6CBMLCKL5ERFC4P63ZY6GJZFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'통일교 정교 유착' 의혹을 받는 윤영호 통일교 전 세계본부장이 지난 7월 30일 영장실질심사에 출석하기 위해 서울중앙지법에 출석하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀에 정치권 인사들에게 금품을 제공했다고 진술한 윤영호 통일교 전 세계본부장이 자신의 재판에서 금품을 받은 더불어민주당 정치인들을 폭로하겠다고 예고했다가 침묵한 데 대해 법조계와 정치권에서는 해석이 분분하다. 국민의힘은 “이재명 대통령의 ‘종교 재단 해산’ 발언이 ‘입틀막(입 틀어막기)’ 효과를 낸 것”이라고 비판했지만, 남은 수사와 재판 과정에서 윤영호씨가 추가 폭로를 할 가능성도 여전히 남아 있다.&lt;br&gt;&lt;br&gt;윤씨 측은 당초 지난 10일 열린 청탁금지법 위반 등 사건 결심 공판에서 금품을 받은 민주당 인사들의 실명을 공개하는 방안을 유력하게 검토했다. 윤씨가 지난 8월 특검 조사에서 “전재수 해양수산부 장관을 포함해 여야 유력 정치인 5명을 지원했다”고 진술했는데도, 특검이 국민의힘 지원 부분만 타깃으로 수사·기소한 것을 문제 삼은 것이다. 윤씨 측은 이와 관련한 성명서도 준비했던 것으로 알려졌지만, 정작 법정에 나와서는 민주당에 대한 언급을 하지 않았다.&lt;br&gt;&lt;br&gt;윤씨의 입장 변화에 대해 정치권 한 인사는 11일 “이 대통령이 최근 국무회의에서 통일교를 겨냥해 ‘종교 재단의 해산 방안을 검토하라’고 반복 지시한 것에 압박을 받을 수밖에 없었을 것”이라고 말했다. 여당 인사에게 뇌물과 불법 정치자금을 건넨 사실을 폭로하면, 통일교에 대한 보복성 제재와 해산 시도 등 전방위 압박이 가해질 수 있다는 점을 우려했다는 것이다. 통일교 관계자는 재판 직후 “대통령이 그렇게 때리면 한 발짝 물러서야 하지 않겠느냐”고 말했다.&lt;br&gt;&lt;br&gt;한 법조인은 “윤씨가 남은 수사와 재판, 통일교 전체의 이해관계를 고려해 팩트를 다 공개하지 않고 전략적으로 말을 아낀 것으로 보인다”고 말했다. 통일교의 ‘정교 유착’ 의혹 사건은 특검에서 경찰로 이첩돼 수사가 이어지고 있다. 윤씨는 이 사건 외에 정당법 위반 등 혐의로도 재판을 받고 있다. 이런 상황에서 수사기관과의 ‘플리바게닝(미국식 유죄 협상 제도)’으로 자신의 형량을 깎거나, 통일교가 입을 불이익을 최소화하기 위해 민주당 관련 진술 수위와 시점을 조절하고 있다는 뜻이다. 법조계 일각에선 “윤씨가 정부·여당을 향해 ‘언제든 추가 폭로할 수 있다’는 시그널을 보낸 것”이라는 말도 나온다.&lt;br&gt;&lt;br&gt;민중기 특검은 ‘편파 수사’ 논란을 부인하고 있다. 특검 관계자는 이날 “특정 정당을 위한 편파 수사라는 취지의 보도나 주장이 잇따르는 데 대해 강한 유감을 표한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GBQWCMLFGYYDCZBRMZRDKOBVMI.jpg?auth=9cccc82e73fc107726d07af649366c4496d809c356e0c99e5e8156ce62963bc8&amp;smart=true&amp;width=3199&amp;height=2018" type="image/jpeg" height="2018" width="3199">
-        <media:description type="plain">윤석열 전 대통령의 부인 김건희 여사에게 청탁할 목적으로 명품 가방과 목걸이를 전달한 혐의를 받는 윤영호 전 통일교 세계본부장. /뉴스1</media:description>
-      </media:content>
-    </item>
-    <item>
-      <title>“성격보단 외모” vs “외모보단 성격”…남녀 뒤바뀐 이상형</title>
-      <link>https://www.chosun.com/national/national_general/2025/06/15/NLMI47Q5ZVH7DNWKLPAAOAVNDU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/06/15/NLMI47Q5ZVH7DNWKLPAAOAVNDU/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 15 Jun 2025 01:25:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YKE6XAOYTRHB7G5V3SCECCYMPQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연애 상대를 고를 때 가장 중요하게 생각하는 요소로 남성은 ‘성격’을, 여성은 ‘외모’를 1순위로 꼽았다는 설문조사 결과가 나왔다.&lt;br&gt;&lt;br&gt;15일 소셜 디스커버리 서비스 ‘위피’를 운영하는 엔라이즈는 지난달 위피 사용자 1000명을 대상으로 실시한 ‘연애·결혼 가치관’ 설문조사 결과를 공개했다. 응답자의 과반은 25~34세였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3HMKSBM6KRGKDNUWYGCG4NDSKI.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조사에 따르면 ‘가장 중요한 이성 조건’을 묻는 질문에 남성은 ‘성격(73.1%)’을, 여성은 ‘외모(70.6%)’를 각각 1순위로 꼽았다. 일반적으로 알려진 ‘남성은 외모를, 여성은 성격을 본다’는 통념과는 상반된 결과다.&lt;br&gt;&lt;br&gt;이어 남성은 ‘외모(64.2%)’, ‘거리(37.1%)’를, 여성은 ‘성격(65.5%)’, ‘경제력(35.5%)’을 꼽았다.&lt;br&gt;&lt;br&gt;연애 의향에서도 성별 간 차이가 뚜렷하게 나타났다.&lt;br&gt;&lt;br&gt;남성은 ‘연애를 하고 싶고 적극적으로 노력하고 있다’는 응답이 49%로 가장 높았으나, 여성은 ‘연애를 하고 싶지만 적극적으로 노력하진 않는다’는 응답이 51.4%로 가장 많았다.&lt;br&gt;&lt;br&gt;연애를 하지 못하는 이유로는 남성은 ‘만날 기회가 없어서(63.8%)’, 여성은 ‘마음에 드는 사람을 못 만나서(58.9%)’를 주요 원인으로 꼽았다.&lt;br&gt;&lt;br&gt;결혼에 대한 인식도 성별에 따라 다르게 나타났다. ‘결혼을 꼭 하고 싶다’는 응답은 남성 54%, 여성 42.4%로 나타났다. ‘결혼을 해도 좋고 하지 않아도 좋다’는 의견은 남성 33.2%, 여성 38.4%였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L754RXQBLJAX5GYRBQY3MTDRN4.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;결혼을 주저하는 가장 큰 이유로는 남녀 모두 ‘경제적 부담’을 꼽았다. 특히 ‘결혼 비용, 신혼집 마련 등 경제적 부담’에 대한 응답률이 남성 62.8%, 여성 51.4%였다.&lt;br&gt;&lt;br&gt;아울러 ‘연애와 결혼을 위해 가장 개선하고 싶은 부분’에 대해서도 남성 43.7%, 여성 40.2%가 ‘경제적인 여유’를 1순위로 선택했다.&lt;br&gt;&lt;br&gt;경제적 안정에 대한 판단 기준에 대해서는 남성은 ‘미래 성장 가능성(44.4%)’을 가장 중요하게 생각한 반면, 여성은 ‘안정적인 직장(대기업, 공기업 등) 여부(46.2%)’를 중요하게 본다고 답했다. 남성은 미래 지향적 투자에, 여성은 현재의 안정성을 우선시하는 경향을 보인 셈이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>레저보트 타고 태안으로 밀입국 시도한 중국인 8명 실형 </title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/11/IBO7Q4W5ONEPNP7X3IYKSJOQOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/11/IBO7Q4W5ONEPNP7X3IYKSJOQOU/</guid>
-      <dc:creator>서산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 07:15:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQIS7PF7DFGMLHMV4UQSYU2XK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해경이 밀입국을 시도한 중국인 8명을 압송 중인 모습./태안해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 태안으로 레져보트를 이용해 밀입국을 시도한 중국인 8명에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;대전지법 서산지원 형사3단독 박현진 판사는 11일 출입국관리법 위반 등 혐의로 구속기소 된 중국인 8명 중 소형 보트를 마련한 뒤 밀입국자를 모집하는 등 범행을 주도한 3명에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;이들과 함께 밀입국을 시도한 5명에게는 징역 8개월이 선고됐다.&lt;br&gt;&lt;br&gt;이들은 지난 10월 5일 오전 10시쯤 중국 산둥성 웨이하이에서 레저보트(115마력·전장 7m·폭 3m)를 타고 출항해 태안군 인근 해역까지 약 350㎞를 항해, 밀입국을 시도했다. &lt;br&gt;&lt;br&gt;이들의 보트는 해안 경계를 맡은 육군 감시 장비에 적발됐고, 군과 해경이 출동해 6일 오전 1시 42분쯤 태안군 근흥면 가의도 북서방 22해리(약 40㎞) 해상에서 이들을 붙잡았다.&lt;br&gt;&lt;br&gt;박 판사는 “해경의 정선 요구에 응하지 않고 도주해 해상 안전에 상당한 위험을 초래했다”면서 “다만, 잘못을 인정하며 반성하고 있는 점, 부양할 가족이 있는 점, 밀입국한 목적(취업)을 달성하지 못한 점 등을 고려했다”고 밝혔다.&lt;br&gt;&lt;br&gt;법원은 또 지난해 10월 중국 산둥성 스다오항에서 1t급 보트를 타고 홀로 밀입국해 강원과 경북 등 배추밭에서 1년간 일해온 다른 중국인 1명에게는 징역 2년을 선고했다. 이 중국인은 과거에도 국내에서 불법 체류한 경험이 있었고, 당시 상해 범죄를 저질러 징역 10개월을 선고받아 복역한 뒤 강제 퇴거됐었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“오작동이겠지” 119가 구조신호 뭉갠 사이 80대 여성 불길 속 사망</title>
       <link>https://www.chosun.com/national/incident/2025/12/11/5SWDKXEX7VDK7J66TPWM3JMVMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/11/5SWDKXEX7VDK7J66TPWM3JMVMM/</guid>
@@ -962,15 +959,6 @@
       <description/>
       <pubDate>Thu, 11 Dec 2025 06:17:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSTGYLBMZSTEYJTGA3GMOJUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전북 김제시의 화재 현장./전북소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 노인이 혼자 사는 집에서 불이 나 자동 화재 감지 시스템이 작동했는데도 소방 당국의 안일한 판단으로 출동이 지연된 사실이 뒤늦게 알려졌다. 불길 속에서 구조를 기다리던 A(80대·여)씨는 싸늘한 주검으로 발견됐다. &lt;br&gt;&lt;br&gt;11일 전북도소방본부에 따르면 지난 6일 오전 0시 41분쯤 전북 김제시 용지면의 한 단독주택에서 화재가 발생했다. 이 집에는 홀로 사는 A씨를 위해 화재 시 자동으로 119에 신고하는 ‘응급안전안심서비스’ 장치가 설치돼 있었다. &lt;br&gt;&lt;br&gt;화재 당시 이 장치는 정확히 작동했고, 불길을 감지한 기계는 즉시 전북소방본부 119종합상황실로 신고를 접수했다. 하지만 상황실 근무자는 이 신고를 기계 오작동으로 판단했다. 당시 상황실은 곧바로 A씨와 통화를 시도했는데, A씨는 소방대원에게 ‘불이 안 꺼진다, 지금 무슨 소리가 난다, 캄캄해서 큰일 났다’고 상황을 설명했다고 한다. 하지만 근무자는 이를 화재가 아닌 다른 불빛으로 이해해 출동 지시를 내리지 않았다.&lt;br&gt;&lt;br&gt;소방 당국은 오판은 계속됐다. 최초 신고 4분 뒤인 0시 45분 시스템을 공동 관리하는 보건복지부 중앙센터가 소방 상황실로 전화를 걸어왔다. 복지부 측이 상황을 설명하며 출동 여부를 물었지만, 소방 관계자는 “오작동 가능성이 높다”며 출동하지 않겠다는 취지로 답했다.&lt;br&gt;&lt;br&gt;결국 소방차가 출동한 건 그로부터 8분이 더 지난 0시 53분이었다. “옆집에 불이 났다”는 이웃 주민의 119 신고가 접수된 뒤에야 출동에 나선 것이다. 소방대원들은 1시 3분쯤 현장에 도착했을 땐 주택은 이미 시뻘건 불길에 휩싸인 최성기(最盛期) 상태였다. 불은 1시간여 만에 꺼졌지만, A씨는 집 안에서 숨진 채 발견됐다. &lt;br&gt;&lt;br&gt;이번 사건을 두고 최초 기계 신고가 접수된 0시 41분에 소방이 즉각 출동했다면 결과는 달랐을지 모른다는 지적이 나왔다. 당시 상황 판단이 어려웠다면 A씨에게 “일단 집 밖으로 대피하라”는 요청을 하지 않은 것도 아쉬움으로 남는다. &lt;br&gt;&lt;br&gt;전북소방본부는 사건이 불거지자 고개를 숙였다. 소방본부는 설명 자료를 통해 “상황실의 안일한 판단으로 출동이 지연됐다”며 “유가족께 진심으로 사과드린다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “기기의 반복적 오작동 또한 상황 판단을 어렵게 한 요인”이라고 했다. 전북소방본부에 따르면 올해 11월 말까지 응급안전안심서비스로 접수된 신고 9271건 중 57.29%(5311건)가 오인 신고나 무응답이었다. 실제 화재로 이어진 경우는 0.23%(21건)다. &lt;br&gt;&lt;br&gt;전북소방 관계자는 “사실관계를 면밀하게 파악하기 위해 조사에 착수했으며, 조사 결과에 따라 엄중히 조치하겠다”며 “119 신고 접수 시 정확하게 상황을 판단할 수 있도록 신고 접수자 1인의 판단이 아닌 교차 확인을 통해 신고 내용을 상호 판단하는 절차를 강화하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>20년 미제 영월 영농조합 살인, 무죄 확정</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/M6X4645PEJDP5OZVMJHWLNGUYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/M6X4645PEJDP5OZVMJHWLNGUYI/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 03:53:04 +0000</pubDate>
-      <content:encoded>여자친구와 내연관계에 있던 남성을 살해한 혐의로 1심에서 무기징역을 선고받았다가 2심에서 무죄를 받은 60대 남성에게 대법원이 최종 무죄를 확정했다.&lt;br&gt;&lt;br&gt;대법원 3부(주심 이숙연 대법관)는 살인 혐의로 기소된 A(60)씨에게 무죄를 선고한 원심 판결을 확정했다고 11일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVRDKOJVMQ3GCMRQMFQWGOJRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대법원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A(당시 39세)씨는 2004년 8월 9일 오후 강원 영월군 영월읍 한 영농조합 사무실에서 여자친구의 내연남이었던 영농조합 간부를 흉기로 찔러 살해한 혐의를 받았다. A씨는 여자친구가 내연남에 대해 “좋아한다”는 취지로 감정을 드러내자 적개심을 품고 피해자를 흉기로 살해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 사건은 수사 단계에서 결정적 증거가 부족해 20년간 장기 미제로 남았다가, 검찰이 족적 감정 등을 근거로 A씨를 범인으로 특정하면서 기소가 이뤄졌다.&lt;br&gt;&lt;br&gt;1심은 범행 현장에서 발견된 족적이 A씨의 것과 일치한다고 보고 무기징역을 선고했지만, 2심에서 뒤집혔다. 재판부는 “지문·DNA 등 보강 증거 없이 족적 감정만으로는 피고인을 범인으로 보기 어렵다”며 무죄를 선고했다. 간접 증거만으로 살인 사실이 증명됐다고 보기엔 부족하다는 취지였다. 대법원도 이런 원심 판단을 그대로 받아들였다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>맨손으로 빵 고르던 손님…“집게 써 달라” 부탁에 빵 집어 던지며 폭언</title>
