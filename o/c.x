@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>기상청, 서울 대설 예비특보 해제...눈발 약해져</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/13/Z5NCVRSQBVDZDEJJXU46TEGDTI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/13/Z5NCVRSQBVDZDEJJXU46TEGDTI/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 09:24:54 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY3TEMBVGEYWGOBVGRQTENLBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 강원 인제군 한계령 일원에 많은 눈이 쌓여 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청이 13일 서울에 내렸던 대설 예비 특보를 오후 6시를 기해 해제했다. 예비 특보란 대설 주의보나 대설 경보 등 본래의 특보가 내려지기 전에, 이를 미리 예고하는 것이다. 당초 서울에 대설 특보가 발령될 것이라고 예고했지만, 일부 지역에선 이를 취소한 셈이다.&lt;br&gt;&lt;br&gt;기상청은 이날 오후 6시 “오늘 오후로 예고됐던 서울(동북권), 경기도 동두천, 양주, 의정부, 파주, 구리, 남양주, 하남의 대설 예비 특보는 발표 가능성이 낮아져 해제한다“고 밝혔다. 대설 예비 특보가 해제된 서울 동북권은 도봉구, 노원구, 강북구, 성북구, 동대문구, 중랑구, 성동구, 광진구 등이다. 나머지 지역은 예비 특보가 내려지지 않았었다.&lt;br&gt;&lt;br&gt;기상청은 “기압골에 동반된 구름대가 시간당 60km의 속도로 동남동진하고 있어, 서울을 비롯한 수도권북부는 강한 눈 구름대의 영향에서 차차 벗어나며 눈이 점차 약해지고 있다”고 했다. &lt;br&gt;&lt;br&gt;하지만 아직 경기도 광주, 양평, 강원도 태백, 영월, 정선군평지, 평창군평지, 횡성군, 강원남부산지, 원주, 전남 구례, 충남 계룡, 제주도 산지 등에는 여전히 대설 주의보가 발령된 상태다. &lt;br&gt;&lt;br&gt;기상청은 “오늘 밤까지 눈이 내려 쌓이는 곳이 있겠고, 밤사이 지면 온도가 낮은 지역에서는 비 또는 눈이 얼어 붙어 빙판길과 도로 살얼음이 나타나는 곳이 많겠다”며 “차량 운행에 각별히 유의해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;겠으니, 차량 운행 시 저속 운행 등 교통안전과 보행자 안전에 각별히 유의하기 바랍&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>10·20대가 꼽은 결혼 정책 1순위는 ‘결혼 자금 부담 완화’</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/13/6A4SJIBXYVEPVLZ2PAKLOAC47U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/13/6A4SJIBXYVEPVLZ2PAKLOAC47U/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 09:04:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZX3W6DC3RCQPGHM562HXYK6TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 중구 달개비에서 열린 저출산위 미래세대 국민WE원회 모습./저출산위 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년들이 저출생·고령화 극복을 위해 필요한 결혼 정책으로 ‘결혼 자금 부담 완화’를 1순위로 꼽았다. 고비용이 드는 결혼으로 인해 결혼하기 어려운 세태가 반영됐다는 해석이 나온다.&lt;br&gt;&lt;br&gt;저출산고령사회위원회는 13일 서울 중구 콘퍼런스하우스 달개비에서 ‘2025년 미래세대 국민위(WE)원회 활동 성과 보고회를 열고, 위원회의 우수 제안 9개를 공개했다.&lt;br&gt;&lt;br&gt;미래세대 국민위원회는 국민 목소리를 정책 수립 과정에 반영하려고 만든 위원회로, 올해는 10대와 20대 250명으로 구성돼 있다.&lt;br&gt;&lt;br&gt;위원회는 지난 9월 9개 주제에 걸쳐 24개의 정책 제안을 했는데, 저출산위는 이날 이 중 우수제안 8개를 발표했다.&lt;br&gt;&lt;br&gt;결혼 분야에서 1등으로 뽑힌 것은 ‘결혼 자금 부담 완화’ 정책이다. 결혼 준비 바우처를 지역화폐로 제공해 결혼 초기 부담을 줄여주자는 것이다. 위원회는 이 외에 신혼부부 맞춤형 공공주택 확대, 전국적인 금융상품 표준화 등의 제안도 발표했다.&lt;br&gt;&lt;br&gt;양육·돌봄·교육 분야 우수 제안으로는 ‘저출생과 미래사회’를 주제로 대학교 필수 강좌를 개설하자는 정책이 발표됐다. 인구문제에 대한 대국민 공감과 이해를 확산하자는 취지다.&lt;br&gt;&lt;br&gt;주거 분ㅇ야에서는 무자녀 가구가 아이를 가질 수 있도록, 유자녀 가정에 주택 공급 우선권을 주는 ‘유자녀 가구 주거 혜택’과 지방에 거주하며 수도권으로 출퇴근하는 신혼 가구에 교통비를 지원하는 ‘지방·수도권 거주지 분산’ 정책이 우수 제안으로 뽑혔다.&lt;br&gt;&lt;br&gt;청년들은 또 숙련된 노인 인력의 뎅이터베이스를 구축해 중소기업과 연결하고, 기업 규모별로 고령자 고용 의무화를 단계적으로 도입한 뒤 고령자를 계속 고용한 기업에 인센티브를 제공하자는 아이디어를 냈다.&lt;br&gt;&lt;br&gt;주형환 저출산고령사회위원회 부위원장은 “건의된 과제들은 관계 부처와 검토해 향후 인구정책에 충실히 반영하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대낮에 정류장 옆에서 음란행위…80대 男, 검찰 송치</title>
       <link>https://www.chosun.com/national/national_general/2025/12/13/IHIXCS5FWRCF5FAS46WFQPEK6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/13/IHIXCS5FWRCF5FAS46WFQPEK6I/</guid>
@@ -833,15 +851,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2GIOBSHA4DONJTGM2DGMJTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교로부터 금품을 수수했다는 의혹이 제기된 전재수 해양수산부 장관이 11일 오전 'UN해양총회' 유치 활동을 마친 후 인천국제공항 제2여객터미널을 통해 귀국해 입장을 밝힌 후 공항을 빠져나가고 있다. (공동취재)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 정치권 인사의 통일교 금품 수수 의혹과 관련해 전재수 전 해양수산부 장관을 비롯한 관련 인물들을 피의자로 입건하며 정식 수사에 착수했다.&lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면, 경찰청 특별전담수사팀은 전날 전 전 장관과 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등 3명을 피의자로 입건했다. 수사팀은 이 3명에 대해 출국 금지 조치도 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 밖에 피의자로 추가 입건된 인물이 있는 것으로 알려졌지만, 경찰청 관계자는 “입건 여부를 확인해 줄 수 있는 단계가 아니다”라고 했다. 이번 의혹을 촉발한 윤영호 전 통일교 세계본부장이 특검팀에 이 3명과 함께 거명한 정치인으로는 정동영 통일부 장관과 나경원 국민의힘 의원이 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 9일 정치권 인사들의 통일교 금품 수수 의혹을 민중기 특검팀에서 이첩받고, 이날 23명 규모의 특별 전담 수사팀을 구성했다. 내란 특검에 파견됐던 박창환 국가수사본부 중대범죄수사과장이 복귀해 수사팀장을 맡았다. 수사팀은 전날 오후 서울구치소를 찾아 여야 의원들에게 금품을 제공했다고 진술한 윤영호 전 통일교 세계본부장을 3시간가량 접견해 조사했다. 금품 수수 당사자로 지목된 전·현직 의원들에 대한 소환 조사 일정도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>새벽에 점주 혼자 있는 매점서 현금·차량 강탈한 40대 검거</title>
-      <link>https://www.chosun.com/national/regional/2025/12/12/R2IBIIOFUJHIHKGRASD45S4QEI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/R2IBIIOFUJHIHKGRASD45S4QEI/</guid>
-      <dc:creator>태안=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 04:21:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;매점에 혼자 있는 점주를 상대로 강도짓을 벌이고 도망친 40대가 이틀 만에 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남 태안경찰서는 강도 상해 등 혐의로 40대 A씨를 붙잡아 조사하고 있다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9일 오전 4시 40분쯤 태안군 한 펜션의 매점에서 점주인 50대 B씨에게 흉기를 휘두른 뒤 현금 약 50만원과 B씨 소유의 소형 레저용 차량을 훔쳐 달아난 혐의를 받는다. 다행히 B씨는 크게 다치지는 않은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 방범카메라(CCTV) 영상을 분석해 A씨 위치를 확인한 뒤 잠복 수사를 벌여 11일 오전 11시쯤 인천의 거주지에서 A씨를 체포했다.&lt;br&gt;&lt;br&gt;A씨는 새벽 시간에 주인 혼자 근무하고 있는 점포를 노려 범행한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨에 대해 구속영장을 신청할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>檢, ‘이상직 인사 특혜’ 조현옥 前 수석에 징역 1년 구형</title>
       <link>https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</guid>
@@ -858,15 +867,6 @@
       <description/>
       <pubDate>Fri, 12 Dec 2025 03:00:00 +0000</pubDate>
       <content:encoded>‘히로뽕’으로 불리는 마약류 필로폰을 분유통에 숨겨 미국에서 들여온 혐의로 기소된 주한미군에게 징역 6년이 확정됐다. 대법원 2부(주심 권영준 대법관)는 마약류관리법 위반 혐의로 기소된 주한미군 A씨에 대해 징역 6년을 유지한 원심 판결을 확정했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TOZBWGM4GMMBVMJQWCNRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 평택시 주한미군기지 캠프 험프리스에 미군 차량이 세워져 있는 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기도 평택 캠프 험프리스에서 근무하던 A씨는 공범 B·C씨와 함께 2021년 8월 군사우편을 이용해 필로폰 약 6.8kg(도매가 약 6억8000만원 상당)을 국내로 들여온 혐의로 기소됐다. 이들이 들여온 필로폰은 0.05g을 1회 투약분으로 계산할 경우 약 13만회 이상 투약할 수 있는 양이었다. 필로폰은 여러 개의 분유통에 나눠 담아 분유인 것처럼 위장한 상태였다. A씨는 자신의 거주지에서 코카인을 소지하고 투약한 혐의도 함께 받았다.&lt;br&gt;&lt;br&gt;A씨는 “택배 상자에 필로폰이 들어 있는 줄 몰랐다”며 필로폰을 수입하려는 의도가 없었다고 주장했다. 그는 B씨가 “아는 언니에게 분유를 선물하고 싶다”고 해 자신의 군사우편 주소를 알려주고 우편물을 대신 받아 전달해주려 했을 뿐이라고 했다. 상자 안에 필로폰이 아닌 분유 등이 들어 있는 줄 알았다는 것이다.&lt;br&gt;&lt;br&gt;하지만 1심은 A씨의 주장을 받아들이지 않았다. 재판부는 “선물을 대신 전달할 정도의 친밀한 관계도 아닌 B씨의 부탁을 받고, 아무런 의심 없이 주한미군이 아닌 외부인에게 군사우편 주소 사용을 허락한 것은 쉽게 납득하기 어렵다”고 지적했다. 필로폰이 분유인 것처럼 위장돼 있었던 점에 대해서도 “택배 상자가 A씨에게 전달되기 전에 (수사기관 등에) 발각될 경우 A씨의 것이라는 사실이 직접적으로 드러나지 않도록 하기 위한 대비책이었을 것으로 강하게 추론된다”고 했다. 재판부는 또 “해당 필로폰이 실제 국내에 유통됐다면 이로 인해 발생할 사회적 해악의 정도가 매우 컸을 것”이라며 A씨에게 징역 6년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 1심이 선고한 징역 6년이 너무 무겁다며 항소했으나, 항소심 재판부는 “원심의 양형은 피고인의 행위 책임에 비춰 너무 무겁다고 보기 어렵다”며 항소를 기각했다. 대법원도 이러한 판단을 그대로 유지했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김호중, 수감 중 합창 무대?… 소속사 “사실 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/ONZTL2O4UBALPDY7M53TBVVWPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/ONZTL2O4UBALPDY7M53TBVVWPQ/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 02:29:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DCODDMJSDGMBTGJQWCNBUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김호중. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 김호중이 세종문화회관에서 진행된 세진음악회에 소망교도소 합창단원 신분으로 무대에 올랐다는 보도에 대해 소속사가 “사실무근”이라며 즉각 반박했다.&lt;br&gt;&lt;br&gt;김호중 소속사는 11일 “김호중이 이날 세종문화회관에서 합창단 신분으로 무대에 올랐다는 것은 사실이 아니다”라며 “공연장 근처도 가지 않았다”고 했다.&lt;br&gt;&lt;br&gt;앞서 한 연예 매체는 이날 김호중이 서울 종로구 세종대로에 위치한 세종문화회관 대극장에서 진행된 세진음악회에서 소망교도소 합창단원 자격으로 무대에 올랐다고 보도했다. 김호중이 무대 위에서 다리를 저는 모습을 보였으며, 이 모습을 보고 눈물을 훔치는 팬들도 있었다는 내용이 담겼다.&lt;br&gt;&lt;br&gt;다만 소속사는 이 모든 내용이 사실이 아니라는 입장이다. 현재 기사 역시 삭제된 상태다.&lt;br&gt;&lt;br&gt;음주 교통사고를 내고 도주한 혐의 등으로 복역 중인 김호중은 성탄절 특사·가석방 대상에 오른 것으로 전해졌다. 수형자의 나이, 범죄 동기, 죄명, 교정 성적, 건강 상태, 생활 환경 등 재범 위험성을 고려해 일정 조건이 되면 관련 법에 따라 가석방 심사 대상에 자동으로 포함되기도 한다. 성탄절 특사를 앞두고 개최될 가석방 심사위원회에서 적격 판단을 받는 수형자는 오는 24일 석방될 예정이다. 다만 가석방 여부는 불투명한 상황이다.&lt;br&gt;&lt;br&gt;김호중은 작년 5월 서울 강남구 압구정동에서 술을 마신 상태로 차량을 몰다가 반대편 도로의 택시를 들이받고 달아났다. 이후 소속사 직원이 운전한 것처럼 허위 자수를 시킨 정황도 드러났다. 지난 4월 항소심에서 징역 2년 6개월을 선고받았으며, 상고를 포기하고 복역 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] ‘강등’ 정유미 검사장, 정성호 장관에 인사명령 취소 소송 제기</title>
