@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>울산 남구서 탱크로리와 승합차 정면 충돌… 6명 사상 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/13/QB2J5Q2B65B6VMOPLU3FSYEB24/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/13/QB2J5Q2B65B6VMOPLU3FSYEB24/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 02:49:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2DGYRUGM3TOYZUGM4GCNZYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;탱크로리와 승합차 정면 충돌해 6명의 사상자가 난 바커케미칼코리아 울산공장 앞 도로 현장./울산소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산에서 탱크로리 차량과 승합차가 정면 충돌해 1명이 숨지고, 5명이 크게 다쳤다. &lt;br&gt;&lt;br&gt;13일 울산소방본부에 따르면 이날 오전 6시 38분쯤 울산시 남구 바커케미칼코리아 울산공장 앞 도로에서 탱크로리 차량이 중앙선을 넘어 마주 오던 승합차와 충돌했다. 이 사고로 스타렉스에 타고 있던 40대 운전자가 심정지 상태로 병원에 이송됐으나 숨졌다. 나머지 5명도 중상을 입고 병원에서 치료 중이다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, 탱크로리 운전자는 음주운전이나 무면허는 아닌 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 차량 운전자와 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“변호사보다 잘 해결”... 돈 받고 고소장 등 대신 써준 사설탐정 벌금형</title>
+      <link>https://www.chosun.com/national/regional/2025/12/13/2ANYBDBE7VCAPF773G5LT5QVOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/13/2ANYBDBE7VCAPF773G5LT5QVOM/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 02:24:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SAND5NFNFFFPPGFHV2XOTY6QT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 연제구 거제동 부산지법 등 전경./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;돈을 받고 고소장 등 법률 문서를 대신 작성해 준 혐의로 기소된 30대 사설 탐정에게 벌금형이 선고됐다. &lt;br&gt;&lt;br&gt;13일 법조계 등에 따르면, 부산지법 형사6단독 김정우 판사는 변호사법 위반 혐의로 재판에 넘겨진 A씨에게 벌금 800만원을 선고했다. 디지털 포렌식 업체를 운영하는 A씨는 2022년 5월 의뢰인에게 “우리 업체가 민·형사 사건을 변호사보다 더 잘 해결할 수 있다”며 440만원에 탐정 계약을 맺었다. 이후 A씨는 직원을 통해 고객의 형사 고소 사건 고소장을 대신 작성하게 한 뒤 전달했다. 또 A씨는 같은 해 4월 또 다른 의뢰인에게 “증거 수집, 합의, 재판 등 민사소송과 관련한 모든 절차를 도와주겠다”고 제안한 뒤 330만원을 받았다. 이후 같은 해 5~10월 내용 증명서, 준비서면, 답변서 등 문서를 대신 작성해 준 혐의 등으로 재판에 넘겨졌다. 변호사 자격이 없는 사람이 금품을 받고 소송 등 법률적 사건과 관련된 문서를 작성해 주면 변호사법 위반으로 처벌된다.&lt;br&gt;&lt;br&gt;김 판사는 “피해를 모두 변제하고 합의했으며, 동종 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>英 BBC “한국 수능 영어는 미쳤다, 고대 문자 해독하는 것 같아”</title>
+      <link>https://www.chosun.com/national/education/2025/12/13/ZSDKO37ERNDKJLD423IUKKZPQA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/13/ZSDKO37ERNDKJLD423IUKKZPQA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 01:46:17 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TOZRVGI3TSOJTMYZDQOLEGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026학년도 해갓수학능력시험(수능)이 실시된 지난달 13일 인천 미추 인화여자고등학교에서 수험생들이 시험 시작을 기다리고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;영국 BBC방송이 한국의 대학수학능력시험(수능) 영어 영역 난이도가 ‘악명 높게 어렵다(notoriously difficult)’고 보도했다. BBC는 ‘직접 풀어 보라’며 올해 치러진 수능 시험의 독해 문항을 소개하기도 했다.&lt;br&gt;&lt;br&gt;BBC는 11일(현지 시각) “일부 학생들은 고대 문자를 해독하는 것에 비유하고, 또 다른 학생들은 미친(insane) 시험이라고 부른다”며 이같이 보도했다.&lt;br&gt;&lt;br&gt;BBC는 비디오 게임 용어와 관련한 올해 수능 영어 39번 문제를 그대로 실으며 “많은 이들이 이 문제를 포함해 여러 문항의 문장 구성 방식을 비판했다”고 전했다. 지문 자체가 “개념이나 아이디어를 제대로 전달하지 못하는 끔찍한 글쓰기”라거나 “책에서 맥락을 떼어낸 발췌문이어서 이해하기 어렵다”는 의견을 구체적으로 전한 것이다.&lt;br&gt;&lt;br&gt;BBC는 수능에 대해 “8시간 동안 이어지는 악명 높은 마라톤 시험”이라며 “대학 진학 여부뿐 아니라 취업, 소득, 미래의 인간관계까지 좌우할 수 있다”고 했다. 이어 “많은 청소년은 평생을 이 시험을 준비하며 보낸다”며 “일부는 네 살 무렵부터 학원이라는 사교육 기관에 다닌다”고 했다. 그러면서 “시험이 치러지는 하루 동안 전국적으로 활동이 멈춘다”며 “건설 공사나 항공편 운항, 군사 훈련이 중단된다”고 덧붙였다.&lt;br&gt;&lt;br&gt;BBC는 기사 말미에 칸트에 대해 다룬 올해 수능 영어 34번 지문을 덧붙이며 직접 문제를 풀어보라고 제안했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 만취운전자가 몰던 차량, 중앙분리대 충돌 후 화재 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/13/T53NBNQXEBCO7AVJ6QCEHJVA4I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/13/T53NBNQXEBCO7AVJ6QCEHJVA4I/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 01:00:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3WMZDGGVRDKZBTGZSGIMZUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 해운대구 우동 센텀교차로에서 술을 마신 채 승용차를 몰던 30대가 도로 중앙 분리대를 들이 받는 사고를 낸 현장./부산 해운대경찰서 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 해운대구 한 도로에서 술을 마신 30대 남성이 몰던 그랜저 승용차가 중앙 분리대를 들이받는 사고를 냈다. &lt;br&gt;&lt;br&gt;13일 경찰 등에 따르면, A씨는 이날 오전 1시 32분쯤 부산 해운대구 우동 센텀 교차로에서 술을 마신 채 그랜저 승용차를 몰다 도로 중앙 분리대를 들이받았다. 사고 충격으로 차량에 불이 났지만, 10여 분 만에 진화됐다. 추돌 사고 이후 A씨는 대피해 별다른 부상을 입지는 않았다고 한다. 사고 당시 A씨 혈중알코올농도는 면허 취소 수준(0.08% 이상)인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨를 도로교통법(음주운전) 위반 등의 혐의로 입건하고, 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주 도서관 붕괴 현장서 3번째 희생자 수습… 1명만 남아</title>
       <link>https://www.chosun.com/national/national_general/2025/12/13/JFYZTPTCQBDW3AUXLHDYVE74GI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/13/JFYZTPTCQBDW3AUXLHDYVE74GI/</guid>
@@ -845,16 +881,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/RO4WVNTNH5FRLIT4KBG4CVKHBQ.gif?auth=e45bde0649dfc4e3358b81252634372b785043d9382df6e1efe3448a183f7516&amp;smart=true&amp;width=1000&amp;height=563" type="image/jpeg" height="563" width="1000"/>
     </item>
     <item>
-      <title>“폭행·갑질·미정산“… 직장 내 괴롭힘, 영어로 신고하려면</title>
-      <link>https://www.chosun.com/national/education/2025/12/12/AKC6VCJRHBF3LE7FRI47HDZAKE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/12/AKC6VCJRHBF3LE7FRI47HDZAKE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>개그우먼 박나래의 전 매니저들이 박나래 소유 부동산에 1억원 규모의 가압류를 신청했다고 하지요. 재직 기간에 겪었다는 피해에 대한 손해배상 청구 소송도 제기할 예정이라고 합니다.&lt;br&gt;&lt;br&gt;‘가압류를 신청하다’는 file for a provisional attachment 또는 apply for a provisional seizure라고 합니다. 재산 처분을 막기 위한 사전 조치이지요. 이는 ‘손해배상 청구 소송(suit for damages)’을 앞두고 자산 동결을 위한 ‘예방 조치(preventive measure)’입니다. provisional은 ‘임시의’ ‘잠정적인’이라는 뜻의 형용사로, 라틴어 ‘provisio’(미리 준비함)에서 유래했습니다.&lt;br&gt;&lt;br&gt;attachment는 법률 용어로 ‘압류’를 뜻하고, ‘붙잡다’라는 동사 seize의 명사인 seizure는 ‘몰수’를 의미합니다.&lt;br&gt;&lt;br&gt;‘부동산’은 real estate 또는 real property라고 하지요. real은 여기서 ‘진짜의’가 아니라 ‘부동의’ ‘고정된’이라는 의미로, 라틴어 ‘res’(물건)에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘손해배상청구’는 claim for damage 또는 demand for compensation으로 표현합니다. damage는 법률 용어로 ‘손해배상금’을 뜻하며, compensation은 ‘보상’ ‘배상’을 의미합니다.&lt;br&gt;&lt;br&gt;‘소송을 제기하다’는 file a lawsuit 또는 bring a suit against로 표현합니다. file a lawsuit은 ‘소송을 제기하다’라는 의미의 구문으로, file은 ‘서류를 제출하다’라는 뜻이지요.&lt;br&gt;&lt;br&gt;전 매니저들은 박나래가 직장 내 괴롭힘을 비롯해 폭언, 특수상해, 병원 대리 예약과 대리 처방, 비용 미정산 등을 저질렀다고 주장하고 있습니다. &lt;br&gt;&lt;br&gt;‘직장 내 괴롭힘’은 workplace harassment 또는 workplace bullying이라고 합니다. ‘권력 불균형(power imbalance)’을 악용한 반복적 학대를 말하지요. harassment는 ‘괴롭힘’ ‘희롱’을 뜻하며, 고대 프랑스어 ‘harasser’(피곤하게 하다)에서 유래했습니다. bullying은 ‘집단 괴롭힘’ ‘왕따’를 말합니다.&lt;br&gt;&lt;br&gt;‘특수 상해’는 당하는 입장에선 special bodily injury 또는 aggravated bodily injury라고 하고, 상해를 가하는 기준에선 special assault 또는 aggravated assault로 표현하면 되겠습니다. aggravated는 ‘가중된’ ‘악화된’이라는 의미로, 위험한 도구나 흉기를 사용한 상해를 말합니다.&lt;br&gt;&lt;br&gt;‘대리 처방’은 proxy prescription 또는 surrogate prescription으로 표현합니다. proxy는 ‘대리인’ ‘대리’를 뜻하지요. 라틴어 ‘procuratio’(관리/대리)에서 유래한 단어입니다.&lt;br&gt;&lt;br&gt;미정산·미결제 비용은 unpaid expenses, unsettled reimbursements 또는 outstanding balance라고 합니다. 여기서 reimbursement는 ‘갚음’ ‘변제’ ‘상환’의 뜻이고, outstanding은 ‘뛰어난’ ‘두드러진’이 아니라 ‘아직 처리되지 않은’ ‘미지불된’의 의미로 쓰인 것입니다.&lt;br&gt;&lt;br&gt;박나래는 개인 심부름부터 각종 사적인 요청까지 상시적으로 했으며, 가족 관련 업무도 맡겼다고 합니다. 한 매니저는 술을 마시지 않는다는 이유로 폭언을 들었고, 술잔이 날아들어 상처를 입었다고 말합니다.&lt;br&gt;&lt;br&gt;‘개인 심부름’은 personal errand라고 합니다. ‘심부름하다’는 do an errand, go on an errand, run an errand 등으로 표현합니다.&lt;br&gt;&lt;br&gt;‘폭언’은 verbal abuse 또는 abusive language라고 합니다. verbal은 ‘말의’ ‘언어의’라는 뜻이고, abuse는 ‘학대’ ‘폭언’을 의미하며 라틴어 ‘abusus’(잘못된 사용)에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘폭언을 하다’는 verbally abuse라고 하거나 use abusive language 또는 give violent language라고 하고, ‘폭언을 듣다’는 be verbally abused로 표현하면 되겠습니다.&lt;br&gt;&lt;br&gt;전 매니저들은 업무 중 지출한 비용을 제때 지급받지 못했고, 일부 식재료비·주류 구입비 등이 미정산된 것도 있다고 주장합니다. 이들은 박나래에게 비용 정산을 요청하는 과정에서 명예훼손과 사문서위조로 고소하겠다는 협박을 받았다며 “손해배상 소송이 진행될 경우 재산 처분 가능성이 있어서 가압류를 신청하게 된 것”이라고 밝혔습니다. &lt;br&gt;&lt;br&gt;‘명예훼손’은 defamation, libel, slander라고 하지요. 그런데 조금씩 차이가 있습니다. defamation은 ‘명예훼손’을 총칭하며, libel은 ‘문서에 의한 명예훼손’, slander는 ‘구두에 의한 명예훼손’을 뜻합니다. &lt;br&gt;&lt;br&gt;‘사문서 위조’는 forgery of private documents 또는 falsification of private documents로 표현합니다. forgery는 원래 ‘단조하다’ ‘만들다’라는 의미에서 ‘위조하다’로 의미가 확장된 forge 동사의 명사형입니다.&lt;br&gt;&lt;br&gt;‘고소하다’는 file charges against 또는 press charges라고 하지요. ‘재산 처분’은 disposal of assets 또는 asset liquidation으로 표현합니다. disposal은 ‘처분’ ‘처리’를 뜻하며, dispose of는 ‘~을 처분하다’라는 의미의 구동사입니다. liquidation은 ‘청산’ ‘현금화’를 의미합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2AUAWKX5FVAYLHK32MJ3FP63G4.gif?auth=7ba12e6db7339402d8c444854b0647a2e451f580957d20adff469a1075e79cd6&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
-    </item>
-    <item>
       <title>“수능 1개 틀렸대” 이부진 사장 아들, 서울대 수시 합격…외삼촌 후배될까</title>
       <link>https://www.chosun.com/national/national_general/2025/12/12/MNM22SU4BRDM3EDR6X7VUKOQO4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/MNM22SU4BRDM3EDR6X7VUKOQO4/</guid>
@@ -940,34 +966,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/DGAPZ772VVC7ZLX6GG6ATZCWRU.jpg?auth=3134c3b98e331be23c7ca972a862e29e273bf9b29a628193ac1ff43dfc4b32d1&amp;smart=true&amp;width=3913&amp;height=2116" type="image/jpeg" height="2116" width="3913">
         <media:description type="plain">하와이 고등학교/윤상진 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>‘폭설 구름대 3종’ 덮친다… 주말 중부지방 대설주의보</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/12/AD5REUYU3JGGFITNTQZYVJXWFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/12/AD5REUYU3JGGFITNTQZYVJXWFQ/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D53DWANMABEEHOZPAZOML6K3WQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;묵호항 설경./박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘동해안 폭설’에 이어 이번 주말 수도권에 많은 눈이 예고됐다. 서울을 비롯한 중부지방에 대설특보가 발효될 전망이다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 11~12일 오전까지 강원·경북 동해안과 산지에 3~10㎝의 눈이 내리겠다. 동해안 폭설은 습기를 많이 머금어 무겁고 축축한 습설(濕雪) 형태로 내릴 것으로 보여 축사나 비닐하우스 붕괴 등 피해가 생길 수 있다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KB7NMCFOYVD5FMH24WEOHKHSR4.png"&gt;&lt;figcaption&gt;&lt;small&gt;/그래픽=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 13일 오전에는 전국에 5~10㎜의 비가 내릴 것으로 보인다. 이날 오후부터는 비가 눈으로 바뀌며 중부지방을 중심으로 밤까지 대설주의보(24시간 동안 새로 쌓인 눈이 5㎝ 이상)가 내려질 만큼 많은 눈이 쏟아지겠다. 예상 적설량은 수도권 1~8㎝, 강원도 5~10㎝, 충청권 1~8㎝, 경상권 1~5㎝, 전북 1~3㎝, 제주 산지 1~5㎝ 등이다. 늦은 오후 경기·강원·충북·제주 산지에는 시간당 1~3㎝의 강한 눈이 퍼부을 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BTVOE6J7AVB5XFDZ6BTWAGAYAM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시의회 별관 정동전망대에서 바라본 덕수궁 설경./박상훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11~13일 사흘간 이어지는 폭설은 한반도에 발생할 수 있는 3가지 유형의 대설이 함께 찾아온 결과다. 11~12일 동해안에 내린 많은 눈은 ‘동해안형 대설’이다. 찬 북풍 계열의 바람이 동해상을 지나며 수증기를 얻고, 이 공기가 태백산맥을 오르며 눈구름이 폭발적으로 발달하는 것이다. 강릉·동해·삼척 등 강원 영동에 집중 대설을 유발한다. &lt;br&gt;&lt;br&gt;13일은 ‘발해만형 대설(발해만 저기압)’과 ‘서해안형 대설’이 동시에 발생할 전망이다. 중국 발해만에서 형성되는 ‘발해만 저기압’은 우리나라 쪽으로 접근해 서해상을 통과하면서 따뜻한 남서풍을 밀어올리고, 이후 내려오는 찬 북풍이 남서풍과 충돌하며 많은 눈을 유발한다. 구름대가 광범위한 지역에 영향을 미치는 데다, 13일 오전까지는 아직 북풍이 내려오기 전이기 때문에 전국에 비가 내리는 것이다. 찬 바람은 북서쪽에서 내려오는 만큼 ‘바람길’의 입구에 해당하는 수도권 등에 주로 눈이 집중된다. 이날 오후에는 찬 바람이 내려오면서 ‘발해만 저기압’이 뿌리던 비가 눈으로 바뀌고, 서해상을 통해 ‘서해안형 대설’인 큰 눈구름대가 추가로 합세하며 적설량을 늘릴 것으로 보인다. ‘서해안형 대설’은 찬 북풍이 상대적으로 따뜻한 서해상을 통과하며 발달하는 눈구름대로, 좁은 지역에 짧은 시간 동안 강한 눈을 뿌리는 특징이 있다. 경기·충남·전북 서해안이 주로 영향을 받고, 서해상을 지나 수도권과 충청권에도 영향을 준다. 다만 이번 주말엔 발해만 저기압과 겹치며 눈 내리는 시간이 밤까지 길어질 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O7CN6XIJ5ZFOZNC34564GD3J3M.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주말까지 기온은 롤러코스터를 타듯 내림세와 오름세를 이어갈 전망이다. 12일 기온은 전날보다 5~10도가량 떨어진 최저 영하 8도에서 영상 4도, 최고 4~11도로 예보됐다. 인천·경기와 충남·전남·전북·광주엔 한파주의보(아침 최저기온이 전날보다 10도 이상 떨어져 영상 3도 이하로 내려갈 때)가 발효됐다. 하지만 13일에는 기온이 오르면서 최저 영하 4도에서 영상 6도, 최고 3~13도의 분포를 보이겠다. 14일에는 다시 기온이 소폭 떨어지면서 최저 영하 6도에서 영상 4도, 최고 1~9도로 예상된다. 다음 주 중반 이후에는 평년보다 높은 수준을 보이며 포근할 것으로 보인다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“사법 개혁인지 통제인지 헷갈린다” 진보 성향 법조인들도 비판</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/12/VVLFWV2IAJCPRLSZH5G6Z4KAUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/VVLFWV2IAJCPRLSZH5G6Z4KAUI/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:53:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QSPTWBCWUVFO5NML5SZWPGEK4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
-11일 오전 서울 서초구 서울법원종합청사에서 ‘국민을 위한 사법제도 개편 공청회’가 열렸다. 문형배 전 헌법재판관(왼쪽부터), 박은정 전 국민권익위원장, 김선수 전 대법관, 심석태 세명대 교수, 조재연 전 대법관, 차병직 변호사가 토론하고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 개최한 ‘사법 제도 개편’ 공청회 마지막 날인 11일 전직 대법관·헌법재판관 등 법조계 원로들이 모여 토론을 벌였다. 토론회 좌장을 맡은 김선수 전 대법관 등 토론자 6명은 대법관 증원 규모 등 세부적인 내용에선 의견이 갈렸지만, “사법 제도 개편 논의가 정치적 논쟁에서 벗어나야 한다”는 데 대해선 의견을 같이했다. 더불어민주당이 사법 제도 개편안을 속도전 벌이듯 밀어붙이는 데 대해 우려를 나타낸 것이다.&lt;br&gt;&lt;br&gt;문형배 전 헌법재판관은 토론에서 “분노는 사법 개혁의 동력이지만 내용이 될 순 없다”며 “민주당이 제시한 법안이 진정 ‘사법 개혁’을 실현할 수 있는 내용인지 묻고 싶다”고 말했다. 서울대 법대 교수를 지낸 박은정 전 국민권익위원장은 “과거 사법 개혁 때는 사법 독립의 중요성과 전문가 집단에 대한 존중이 깔려 있었는데, 지금은 정치적 갈등이 고조돼 사법부가 일방적인 압박을 받고 있다”며 “‘사법 개혁’인지 ‘사법 통제’인지 헷갈린다”고 했다. &lt;br&gt;&lt;br&gt;다만 김선수 전 대법관은 “법원은 3·7 윤석열 전 대통령 구속 취소와 5·1 대법원의 이재명 대통령 공직선거법 사건 파기환송 판결로 암초를 만나 침몰 직전의 난파선이 됐다”며 “내란 극복에 적극적으로 임해야 국민 신뢰를 회복할 수 있을 것”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OV4QY5TARRB7NPPWX5THNT3EXA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇대법관 증원, 4명·8명·12명 갈려&lt;/b&gt;&lt;br&gt;&lt;br&gt;대법관 증원 방안을 두고는 반대하는 입장과 4명·8명·12명 증원안 등으로 의견이 갈렸다. 조재연 전 대법관은 “단기간 내 대규모 증원은 사실심(1·2심) 약화와 정치적 논쟁 등 여러 문제가 있다”며 “필요하다면 4명을 늘려 소부(小部) 하나를 더 만드는 게 적정하다”고 했다. 문형배 전 재판관은 상고 사건을 걸러내는 ‘상고심사제’ 도입을 전제로 대법관 8명을 순차적으로 증원하는 안을 제안했다. 김선수 전 대법관은 3년간 4명씩 12명 증원하는 민주당안을 지지하는 의견을 냈다. 그는 “대법관을 두 배 가까이 늘리면 주심 사건이 절반으로 줄어 심층 심리가 가능해진다”고 했다.&lt;br&gt;&lt;br&gt;반면, 차병직 법무법인 클라스한결 변호사는 “대법관을 두 배로 늘려도 사건당 심리할 수 있는 시간은 1분 정도 늘어나는 데 그친다”며 “국민의 권리 구제가 두 배 효과를 낸다고 기대할 수 없다”고 반박했다. 법조 기자 출신인 심석태 세명대 저널리즘스쿨 교수도 “한정된 자원을 대법관 증원과 하급심 강화 어느 쪽에 쓸 것인지 판단해야 한다”고 했다.&lt;br&gt;&lt;br&gt;대법원 판결에 헌법소원을 낼 수 있는 ‘재판소원’ 도입을 우려하는 목소리도 나왔다. 조재연 전 대법관은 “재판소원이 허용되면 헌재가 지금 대법원이 겪고 있는 (사건 적체) 문제에 직면할 것”이라고 했고, 차 변호사도 “모든 사건이 헌법 쟁점화될 것”이라고 했다. 문형배 전 재판관도 “재판소원 제도가 있는 독일에서도 인용률이 1% 안팎에 그친다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“내란재판부, 당사자 승복 못 할 것”&lt;/b&gt;&lt;br&gt;&lt;br&gt;이날 토론에서는 민주당이 추진 중인 내란전담재판부에 대한 우려도 나왔다. 박은정 전 위원장은 “실제 시행을 염두에 뒀다기보다 현재 비상계엄 관련 사건 재판부에 대한 압박용일 것”이라며 “내 사건 배당에 외부 인사가 관여하거나, 정치권 입김이 들어오는 판사가 담당한다고 하면 재판 당사자들은 승복하기 어려울 것”이라고 했다. 차병직 변호사도 “법안을 수정·보완할 문제가 아니라 설치 자체가 문제”라고 했다. 반면 문형배 전 재판관은 “사건 배당에 외부 인사가 관여하는 건 문제가 있지만, 내란 재판은 예외적 정당성을 인정할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;법원행정처를 폐지하고 외부 인사가 참여하는 사법행정위원회에 법원 인사·예산을 맡기는 안에 대해 박은정 전 위원장은 “법관이 재판에 집중할 수 있게 행정 업무 부담을 줄여야 한다”면서도 “위원회 체제는 정치적 영향력에 노출될 수 있다”고 했다. &lt;br&gt;&lt;br&gt;이날까지 사흘간 진행된 이번 공청회는 대법원이 민주당 주도의 사법 제도 개편에 대해 법조계·학계·일반 국민 의견을 듣기 위해 마련했다. 앞서 이틀간 열린 공청회에서는 “사법의 정치화가 법치주의 퇴행으로 이어지고 있다”(공두현 서울대 교수), “내란전담재판부가 도입되면 사법부가 ‘정치적 하청 기관’으로 전락할 것”(정지웅 변호사) 등의 목소리가 나왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 12월 12일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/12/C37FGVMNT5HDRPOICOKHDTUVNE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/12/C37FGVMNT5HDRPOICOKHDTUVNE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4VXTE7HHS5EZTABPTZGA6B4BDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“사랑의교회, 도로 원상 복구 안 해도 된다” 항소심 승소</title>
