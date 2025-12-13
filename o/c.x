@@ -13,6 +13,68 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대낮에 정류장 옆에서 음란행위…80대 男, 검찰 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/13/IHIXCS5FWRCF5FAS46WFQPEK6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/13/IHIXCS5FWRCF5FAS46WFQPEK6I/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 07:00:06 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IGIHAZOU5FAIPJ3UOE7BIX4Y2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강서경찰서. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대낮에 버스 정류장 근처에서 음란 행위를 한 80대 남성이 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;서울 강서경찰서는 지난달 25일 공연음란 혐의를 받는 80대 남성 A씨를 불구속 송치했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 2일 강서구 염창동의 한 버스 정류장 인근에서 음란 행위를 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;범행 당시 거리에는 어린아이들도 있던 것으로 파악됐다.&lt;br&gt;&lt;br&gt;주민 신고를 받고 출동한 경찰은 현장 인근을 배회하는 A씨를 검거했다.&lt;br&gt;&lt;br&gt;경찰은 목격자들이 촬영한 영상 등을 근거로 A씨에게 혐의가 있다고 판단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>기상청 “수도권, 비가 눈으로 바뀌기 시작”...경기·강원 일부 지역 대설특보</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/13/ZFMZRRZCCFCZLMFP5N4OLPFBBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/13/ZFMZRRZCCFCZLMFP5N4OLPFBBA/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 07:15:26 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNYBO642LRPNNNYFTLSGFGFUIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 강원도 설악산 국립공원 일대에 눈이 쌓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청이 “수도권에 내리던 비가 점차 눈으로 바뀌며 내리고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;기상청은 13일 오후 3시 50분 “수도권은 눈이 쌓이는 지역이 많아지겠다”며 이같이 밝혔다. 이어 “서울 동북권, 경기 동부는 시간당 1~3㎝의 무거운 눈이 내리면서 대설특보를 발표할 가능성이 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 기상청은 경기도 연천·포천·가평, 강원도 철원·양구·춘천과 강원 북부·중부 산지, 양구평지, 홍천군 평지, 인제군 평지, 충남 계룡에 대설주의보를 내린 상태다. 대설주의보는 24시간 동안 새로 쌓인 눈이 5㎝ 이상일 때 발효된다.&lt;br&gt;&lt;br&gt;오후 4시까지 적설량은 대관령 1.2㎝, 북춘천 0.7㎝, 철원 0.3㎝, 파주 0.4㎝ 등이다. &lt;br&gt;&lt;br&gt;그러나 기온이 낮아지고 북쪽에서 강수 구름대가 남쪽으로 내려오면서 눈발이 거세질 것으로 보인다. &lt;br&gt;&lt;br&gt;기상청은 이미 이날 정오~오후 6시 경기도 파주·동두천·양주·의정부·구리·남양주·양평, 강원도 태백·영월·횡성·원주·화천·서울 등에 대설 예비 특보를 발령한 상태다. 이 시간 해당 지역에 대설 특보를 내릴 가능성이 있다는 뜻이다. &lt;br&gt;&lt;br&gt;오후 6시~자정까지는 경기도 하남·이천·여주·광주, 충북 괴산·충주·제천·음성·단양, 전북 무주, 경북 문경·영주·봉화 평지·제주도 등에 대설 예비 특보를 발령했다.&lt;br&gt;&lt;br&gt;예상 적설량은 경기 북부 내륙과 남동부 3~10㎝, 서울 2~7㎝, 강원도 5~15㎝ 이상, 충청권 1~8㎝, 전라권 1~7㎝ 등이다. &lt;br&gt;&lt;br&gt;기상청은 “대기 아래층과 지상의 미세한 기온 차이로 인해 같은 시·군·구 안에서도 적설 차이가 매우 크겠으니, 최신 기상 정보를 참고해 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>9년 달린 부산 명물 ‘산타 버스’, 민원으로 운영 중단</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/13/JJVXITXZJNG7HNLQ63V453UJUA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/13/JJVXITXZJNG7HNLQ63V453UJUA/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 07:50:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JCMQD6STDBDURCLDL7X2TN55P4.png"&gt;&lt;figcaption&gt;&lt;small&gt;부산 산타 버스. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겨울철 도심을 달리며 부산의 명물로 자리 잡았던 ‘산타 버스’가 안전상의 문제를 우려한 민원으로 인해 운영을 중단했다. &lt;br&gt;&lt;br&gt;12일 부산시 버스운송사업조합에 따르면 산타 버스 4개 노선(187번·508번·3번·109번)과 인형 버스(41번)의 시설물이 모두 철거됐다.&lt;br&gt;&lt;br&gt;산타 버스는 부산의 한 버스 기사가 연말 따뜻한 분위기를 전달한다며 버스 내부를 크리스마스 트리로 꾸민 걸 시작으로 수년간 이어져 왔다. 승객들의 호응으로 점차 노선과 참여 버스가 늘면서 부산의 명물으로 떠올랐다. 소셜미디어 등에서는 산타 버스에 탑승했다는 인증 글 등을 쉽게 찾아볼 수 있다. 버스 내부 장식은 현행 규정상 제한되는 사항이지만, 그간 버스 회사와 부산시는 좋은 취지에 공감해 운행을 지원해 온 것으로 전해졌다.&lt;br&gt;&lt;br&gt;이번 철거는 “산타 버스 내부 장식품이 화재 위험이 높다”는 민원에 따른 것으로 알려졌다. 일부 장식물이 솜이나 비닐 같은 가연성 소재로 만들어져 화재 시 취약하다는 취지였다. 결국 부산시는 해당 산타 버스를 운영하는 버스 회사에 철거를 요청했다고 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ME4RT7JJZG43CKT7JXZR7UGEU.png"&gt;&lt;figcaption&gt;&lt;small&gt;민원으로 내부 장식물을 철거하고 있는 모습. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9년간 산타 버스를 운영해 온 187번 버스 기사가 자신의 인스타그램 계정을 통해 직접 중단 소식을 공유하기도 했다. 그는 “시에서 민원 신고로 내·외부 장식을 전부 철거하라는 공문이 내려왔다”며 “회사에서도 어떻게든 할 수 있게끔 해 보려 노력했지만, 안전상의 민원이라 힘을 쓸 수가 없다더라”고 했다. 이어 “인기가 없을 땐 민원이 없었는데, 좋아하는 이들이 많아지고 유명해지니까 그만큼 싫어하는 이들도 많아졌다”며 “그동안 저와 저의 산타 버스를 사랑해 주시고 응원해 주신 분들께 대단히 감사드린다”고 했다.&lt;br&gt;&lt;br&gt;또 “퇴직 후 개인 버스를 사서 산타 버스를 만들어 어린이들에게 무료로 탑승하게 해 주고 선물도 주는 게 저의 바람이고 목표”라며 “그동안 감사했다”고 했다.&lt;br&gt;&lt;br&gt;산타 버스 운영 중단 소식에 네티즌들은 아쉬움을 토로했다. “매년 이맘때 산타 버스 사진 보며 대리 만족했는데 너무 안타깝다” “산타 버스를 보고 부산에 가고 싶단 생각이 들 정도로 홍보 효과도 크고 특별한 버스였는데 아쉽다” “작년에 차고지까지 가서 아이들 태워 주고, 올해는 저희 동네를 돌길래 탈 날을 기대했는데 세상이 각박하다” 등이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FDTYNQ7T3NECTMXSGPQFRLJQBQ.png?auth=c6bcc55dc6e03e4b6e56e5d7f38ed74e8d8ff59082f13f1f3c08ef1fdcf3303e&amp;smart=true&amp;width=833&amp;height=469" type="image/png" height="469" width="833">
+        <media:description type="plain">부산 산타 버스. /인스타그램</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>통일교 윤영호 ‘오락가락’ 진술…수사·재판에 파장 예상</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/13/VFVNB42OKRHCPMWO2ANFL2C3LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/13/VFVNB42OKRHCPMWO2ANFL2C3LQ/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 06:41:41 +0000</pubDate>
+      <content:encoded>통일교가 더불어민주당을 포함한 여야 정치인들에게 금품을 지원했다는 의혹의 단초를 제공한 윤영호 전 통일교 세계본부장이 최근 법정에서 “그런 말을 한 적 없다”고 말을 바꾸면서, 관련 수사와 재판에 파장이 예상된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQYTMMBRMM3GIOJSMVSTGZTGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤영호 전 통일교 세계본부장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤씨는 지난 5일 자신의 청탁금지법 위반 혐의 재판에서 “통일교는 국민의힘뿐만 아니라 더불어민주당 측도 지원했고, 이 내용을 특검에도 진술했다”고 말했다. 이전까지 윤씨가 국민의힘 인사들에게만 금품을 제공한 것으로 알려진 상황에서, 통일교가 민주당 인사들과도 접촉했다는 사실이 처음 공개된 것이다. 민중기 특별검사팀은 윤씨를 국민의힘 시도당 및 당협위원장 20명에게 1억4400만원을 불법 후원한 혐의로만 기소한 상태다.&lt;br&gt;&lt;br&gt;윤씨는 당시 법정에서 “2017년부터 2021년까지는 국민의힘보다 민주당과 더 가까웠다”며 “(통일교의 지원이) 한쪽(국민의힘)에 치우친 게 아니고, 문재인 정부 시절 인연이 많고 비서실장도 본 적이 있다”고 말했다.&lt;br&gt;&lt;br&gt;이후 윤씨가 지난 8월 민중기 특검팀과의 면담에서 “전재수 해양수산부 장관을 포함해 여야 유력 정치인 5명을 지원했다”고 진술한 사실이 알려지면서 논란이 커졌다. 특검이 이 같은 진술을 확보하고도 민주당 인사들은 수사하지 않았다는 ‘편파 수사’ 논란으로 번진 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JGCUHGVXNJDN3MZFX6IA3OFI2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 측으로부터 금품을 받았다는 의혹이 제기된 전재수 해양수산부 장관(왼쪽부터)과 임종성 전 더불어민주당 의원, 김규환 전 미래통합당 의원./뉴시스·연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤씨는 당시 전 장관이 민주당 의원이던 시절, 통일교의 숙원 사업이던 ‘한·일 해저터널 사업’ 관련 청탁과 함께 카르티에·불가리 명품 시계 2점과 현금 4000만원을 제공했다고 진술한 것으로 알려졌다. 또 임종성·김규환 전 의원에게는 총선을 앞두고 현금 수천만원을 건넸다고 했다.&lt;br&gt;&lt;br&gt;그러나 윤씨는 논란이 확산되자 태도를 바꾸는 모양새다. 그는 지난 10일 자신의 청탁금지법 위반 사건 결심 공판에서 금품을 받은 민주당 정치인들을 폭로하겠다고 예고했지만, 정작 법정에서는 민주당 관련 언급 없이 억울함만 호소했다.&lt;br&gt;&lt;br&gt;심지어 윤씨는 “민주당 지원 의혹”과 관련해 특검에 진술한 적 없다는 주장까지 내놨다. 윤씨는 지난 12일 권성동 국민의힘 의원의 정치자금법 위반 사건의 증인으로 나와 “세간에 회자되는 부분은 제 의도와 전혀 (다르다)”며 “저는 그런 진술을 한 적이 없다”고 말했다.&lt;br&gt;&lt;br&gt;권 의원 측 변호인이 “특검팀 조사를 받을 당시 기억나지 않는 것도 기억하는 것처럼 진술할 수밖에 없는 분위기였냐”고 묻자, 윤씨는 “그런 부분도 있었다. 제 기억이 왜곡됐을 수도 있고 충분히 복기하는 데 한계가 있었다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;이 같은 입장 변화에는 다음 달 28일 선고를 앞둔 자신의 정치자금법 위반 등 혐의 재판에 불리하게 작용할 수 있다는 판단과 함께, 경찰 수사가 본격화되면서 본인에게 책임이 돌아올 가능성을 의식한 점이 깔린 것으로 보인다. 민주당 지원 의혹을 제기할 경우 결국 자신이 불법 금품 공여자로 특정돼 추가 처벌을 받을 수 있다는 점을 뒤늦게 자각했다는 분석이다.&lt;br&gt;&lt;br&gt;수사를 넘겨받은 경찰로서도 부담이 커진 상황이다. 경찰은 지난 10일 특검에서 사건 기록을 넘겨받은 뒤 특별전담수사팀을 꾸렸다. 경찰은 전 전 장관과 임·김 전 의원 등 3명을 피의자로 입건하고 출국 금지 조치했다. 전 전 장관에게는 뇌물수수 혐의, 임·김 전 의원에게는 정치자금법 위반 혐의가 각각 적용됐다. 윤씨 역시 정치자금 또는 뇌물 불법 공여 혐의로 입건된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;다만 경찰은 현재 윤씨의 진술 외에 뚜렷한 물증을 확보하지 못한 상태다. 윤씨가 말을 바꾸면서 진술의 신빙성이 흔들릴 경우, 수사가 초기부터 난항을 겪을 수 있다는 우려가 경찰에서 나온다. 윤씨가 입을 여는 대가로 자신이나 가족에 대한 선처를 요구할 가능성도 배제할 수 없다. 윤씨 배우자인 전 통일교 세계본부 재정국장 이모씨는 현재 횡령 혐의로 경찰에 고소된 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/6AI65573RVHYPCANQSLNWDSQWA.jpg?auth=a05efc5ea1936399adb2cb90e2a68e33f85c9f3dda0b3bcac33ee63473401e74&amp;smart=true&amp;width=720&amp;height=405" type="image/jpeg" height="405" width="720">
+        <media:description type="plain">법정 향하는 윤영호 전 통일교 세계본부장</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>내란 특검, 김용현 전 국방장관 군기누설 등 혐의 추가 기소 </title>
+      <link>https://www.chosun.com/national/court_law/2025/12/13/T3HP2DNX3VCTZPFAWCHNHLVFMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/13/T3HP2DNX3VCTZPFAWCHNHLVFMM/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 05:28:14 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRGEMZVHBTDAOLGMEYDIOBUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용현 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내란 특검팀이 13일 김용현 전 국방부 장관을 군기누설 및 개인정보법 위반 혐의로 추가 기소했다. 수사 기한 종료를 이틀 앞두고 특검이 막바지 사건 처리에 속도를 내는 모습이다.&lt;br&gt;&lt;br&gt;특검에 따르면 김 전 장관은 ‘제2수사단’을 구성하기 위해 지난해 10~11월 문상호 전 정보사령관, 김봉규·정성욱 정보사 대령과 순차 공모해 정보사령부 요원 40여 명의 명단 등 인적 사항을 노상원 전 정보사령관에게 누설한 혐의를 받는다. 해당 명단에는 특수부대 HID 요원도 포함돼 있었다고 한다. &lt;br&gt;&lt;br&gt;당시 전역해 민간인 신분이었던 노 전 사령관에게 군 내부 정보를 넘긴 행위가 위법하다는 것이 특검의 판단이다.&lt;br&gt;&lt;br&gt;특검은 이들이 계엄 시 가동되는 합동수사본부의 합수단과 별도로, 부정선거 의혹 등을 수사하기 위한 제2수사단을 꾸리기 위해 정보사 소속 요원들의 인적 정보를 넘긴 것으로 보고 있다. 노 전 사령관은 민간인 신분으로 합수단 외에 이른바 ‘별동대’ 성격의 비선 조직인 제2수사단을 구성하려 한 혐의로, 문 전 사령관 등으로부터 정보사 요원들의 인적 정보 등 군사 기밀을 넘겨받은 혐의로 이미 재판을 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰·고용노동청, 광주대표도서관 시공사 등 업체 6곳 압수수색</title>
+      <link>https://www.chosun.com/national/regional/2025/12/13/2U2JSKBAL5CD5B4EXBQ6KW5PII/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/13/2U2JSKBAL5CD5B4EXBQ6KW5PII/</guid>
+      <dc:creator>노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 13 Dec 2025 05:30:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WLTTO3YV7JDERKCW5X5NL7KXHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시 서구 '광주대표도서관' 신축공사 붕괴 사고 현장./광주소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰과 노동 당국이 광주대표도서관 붕괴 사고와 관련해 13일 시공사인 A사 등에 대한 압수수색에 나섰다. &lt;br&gt;&lt;br&gt;광주경찰청과 광주고용노동청은 이날 광주대표도서관 시공사인 A사 등 공사 관련 업체 6곳에 수사관과 근로감독관 등을 보내 관련 서류와 관계자들의 휴대전화 압수 등에 나섰다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “확보한 압수물 분석과 관련자 추가 조사를 통해 사건 경위와 책임 소재를 철저히 규명할 방침”이라고 밝혔다. &lt;br&gt;&lt;br&gt;경찰은 현재까지 공사 관계자 5명을 조사하고 8명에 대해 출국 금지를 신청했다. &lt;br&gt;&lt;br&gt;이번 사건의 중대성을 고려해 현재 36명으로 운영 중인 전담수사팀을 15일부터 62명 규모의 ‘광주대표도서관 공사 현장 붕괴 사고 수사본부’로 격상해 운영할 계획이다. &lt;br&gt;&lt;br&gt;지난 11일 오후 1시 58분쯤 광주 서구 치평동 옛 상무소각장 부지 광주대표도서관 공사 현장에서 옥상층 콘크리트 타설 중 2층 지붕이 무너지면서 작업자 4명이 매몰돼 숨졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>잎 통째로 갈아 마시는 음료… 떫은맛 적고 위장 부담 덜해</title>
       <link>https://www.chosun.com/national/weekend/2025/11/22/XGCRUCWXGRAZ3BDZGYNJYCF5RM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/11/22/XGCRUCWXGRAZ3BDZGYNJYCF5RM/</guid>
@@ -848,15 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSWGMZSGIZDOOJYGE3GEYJSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성주 신임 국민연금공단 이사장. ⓒ News1 구윤성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 김성주 전 국회의원이 19대 국민연금공단 이사장으로 내정됐다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;김 신임 이사장은 공단 임원추천위원회의 추천과 복지부 장관의 제청을 거쳐 대통령의 재가를 받아 내정됐다. 임기는 15일부터 시작해 2028년 12월까지 3년간 이사장직을 맡게 된다.&lt;br&gt;&lt;br&gt;신임 이사장은 1964년생으로 서울대에서 국사학을 전공했고, 19대와 21대 국회의원으로 보건복지위원회에서 활동했다. 그는 2017년 11월부터 2020년 1월까지 16대 이사장을 역임하기도 했다. 이재명 정부 들어서는 국정기획위원회 국정기획분과 자문위원을 지냈다.&lt;br&gt;&lt;br&gt;복지부는 “신임 이사장이 국민연금 정책에 대한 전문성과 경험을 바탕으로 향후 연금 개혁과 연금공단 발전에 필요한 역량과 리더십을 발휘해 줄 것으로 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>구조활동 중 해경 순직... 영흥도 갯벌 야간 시간대 ‘출입통제’ 지정</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/2DPKISVZOZF5JP2RKS2PFXMS3M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/2DPKISVZOZF5JP2RKS2PFXMS3M/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 01:57:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BLJ6E6PUBBAQZFZSQPUP3TKVJU.png"&gt;&lt;figcaption&gt;&lt;small&gt;인천해양경찰서가 인천 옹진군 영흥도 내리 일대 갯벌을 출입통제장소(빨간색 선)로 지정했다. /인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해양경찰 고(故) 이재석 경사 순직 사고가 발생한 인천 옹진군 영흥도 내리 갯벌 일대가 ‘출입통제장소’로 지정됐다.&lt;br&gt;&lt;br&gt;인천해양경찰서는 12일 갯벌 고립 사고 등을 예방하기 위해 영흥도 내리 갯벌 일대를 출입통제장소로 지정한다고 공고했다. &lt;br&gt;&lt;br&gt;이번에 지정된 출입통제장소는 영흥도 하늘고래전망대와 꽃섬 일대 갯벌로, 내년 1월 12일부터 야간 시간대(일몰 후 30분~일출 전 30분) 사람들의 출입이 제한된다. 주의보 이상 기상 특보가 발효됐을 때도 드나들 수 없다. &lt;br&gt;&lt;br&gt;이를 어길 경우 연안 사고 예방에 관한 법률에 따라 100만원 이하의 과태료가 부과된다. &lt;br&gt;&lt;br&gt;인천해경은 내년 2월 28일까지 출입통제장소 지정 사실을 알리는 홍보·계도 기간을 운영하고, 3월 1일부터 단속에 나설 방침이다. &lt;br&gt;&lt;br&gt;인천 영흥도 내리 갯벌 주변에선, 지난 9월 해양경찰 이재석 경사가 갯벌에 고립된 중국 국적의 노인을 구조하다 순직하는 사고가 있었다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>동부지검 경고에도... 백해룡, 검찰 수사기록 공개</title>
       <link>https://www.chosun.com/national/national_general/2025/12/12/3XMXG7V5Z5F55DF5PFG2WDBASQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/3XMXG7V5Z5F55DF5PFG2WDBASQ/</guid>
@@ -884,24 +937,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6V7K77CUXVFQPINKDE6N4NLDEM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 23일 열린 2025 인천국제마라톤대회에서 결승선을 통과한 이수민 선수가 부축하기 위해 감싸안는 김완기 감독의 손을 뿌리치고 있다. /KBS스포츠 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 열린 2025 인천 국제마라톤 대회에서 소속팀 선수에게 불필요한 신체 접촉을 했다는 논란에 휩싸였던 김완기 강원 삼척시청 육상팀 감독이 중징계를 받았다. &lt;br&gt;&lt;br&gt;삼척시체육회는 지난 10일 스포츠공정위원회를 열고 김 감독에 대해 직무태만, 직권남용, 인권침해, 괴롭힘을 이유로 자격정지 1년6개월 징계를 의결했다. 징계 효력은 징계 결정서를 받은 날부터 발생하며, 전달받고 7일 이내 재심을 청구할 수 있다. &lt;br&gt;&lt;br&gt;앞서 김 감독은 지난달 23일 열린 마라톤 대회에서 소속팀 선수 이수민이 가장 먼저 결승선을 통과한 직후 타월을 덮어주려는 과정에서 부적절한 신체 접촉이 있었다는 논란에 휩싸였다. 이수민이 자신의 상체를 감싼 김 감독의 손을 강하게 뿌리치는 모습이 고스란히 중계 화면에 잡혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XNRNESTONZFTVHPYSFLCK3VXV4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;2025년11월 23일 열린 2025 인천국제마라톤대회에서 결승선을 통과한 이수민 선수가 부축하기 위해 감싸안는 김완기 감독의 손을 뿌리치고 있다. /KBS스포츠 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;논란이 커지자 이수민은 지난달 25일 자신의 소셜미디어를 통해 “골인 직후 예상치 못한 강한 신체 접촉으로 인해 극심한 통증을 느꼈다”며 “저항해도 벗어나기 어려울 정도로 팔이 압박된 채 구속감을 느꼈다”고 밝혔다. 이어 “(김 감독은)저에게 논란이 있던 행동에 대한 사과도 없었으며 그 후로도 개인적·공식적인 어떤 사과나 연락도 전혀 없었다”고 했다. 다만 “이번 상황을 성추행이라고 단정하거나 주장한 적은 없다”며 “문제의 본질은 성적 의도 여부가 아니다”라고 했다. &lt;br&gt;&lt;br&gt;이후 이수민 등 육상팀 전현직 선수 5명은 김 감독에 대해 스포츠공정위에 진정서를 제출했다. 성추행과 부적절한 신체 접촉 등의 내용은 진정 사유에 없었다. 김 감독의 평소 소통 방식과 언행, 대회 준비 과정에 대한 아쉬움, 계약 관련 내용 등이 담겼다. 이수민 등 선수 3명은 스포츠공정위에 출석해 이러한 내용에 대해 소명했다. &lt;br&gt;&lt;br&gt;김 감독은 징계 만료 시까지 선수, 지도자, 심판, 선수 관리 담당자, 단체 임원 등 체육계 관련 활동을 할 수 없다. 김 감독은 이달 말 계약 만료를 앞두고 있다. 최근 시 체육회를 방문해 구두 상으로 사퇴 의사를 전한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[속보] 서울지하철 1노조 임단협 타결…파업 철회</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/5U53XIDD2BDLBGCDX5IFI72ZLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/5U53XIDD2BDLBGCDX5IFI72ZLI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 21:14:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQWINDGHBRDMNJQGUZDONDDGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울교통공사 제1노조인 민주노총 산하 서울교통공사노조가 11일 서울 성동구 서울교통공사 본사에서 열린 본사에서 열린 서울지하철 노사 임금교섭 본회의에 참석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울교통공사 최대 노조인 서울지하철 1노조가 올해 임단협을 타결해 파업을 철회한다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 지하철 1노조 임단협 결렬…오늘 첫차부터 총파업 돌입</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/VUIYODRP2RESPH7F4NYBMAL7BE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/VUIYODRP2RESPH7F4NYBMAL7BE/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 18:50:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NTAOMI4VJRO5XJHPH3HLXRK4KQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 지하철 1∼8호선을 운영하는 서울교통공사 노조의 파업 예고를 하루 앞둔 11일 서울 중구 서울역에서 시민들이 지하철을 기다리고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 지하철 1~8호선을 운행하는 서울교통공사 노사간 임금·단체협약 교섭이 12일 결렬됐다. 이에 따라 노조는 이날 첫차부터 총파업에 나선다.&lt;br&gt;&lt;br&gt;1노조는 이날 오전 3시 30분쯤 사측과의 최종 교섭 결렬을 선언했다.&lt;br&gt;&lt;br&gt;양측은 전날 오후 1시 최종 교섭에 돌입했지만 40분 만에 정회했다. 이후 새벽까지 실무 교섭을 이어갔으나 입장 차이를 좁히지 못했다.&lt;br&gt;&lt;br&gt;1노조 관계자는 “인력 충원 문제는 노사 간 조정이 조금 됐지만, 사측이 휴가 제도 개악을 시도하고 기관사의 보수 체계를 개선하지 않으려 했다”며 “이대로는 직원 반발이 심할 것으로 판단했다”고 했다.&lt;br&gt;&lt;br&gt;공사 2노조인 서울교통공사통합노조와 3노조인 올바른노조는 아직 사측과 개별 교섭을 진행 중이다. 2·3노조는 실무 교섭 과정에서 사측과 어느 정도 접점을 찾은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울교통공사에는 민주노총 소속 서울교통공사노조(1노조)를 비롯해 한국노총 소속 서울교통공사통합노조(2노조), 이른바 ‘MZ노조’로 불리는 서울교통공사 올바른노조(3노조) 등 3개 노조가 있다. 서울교통공사노조 조합원 수가 전체의 약 57%로 가장 많다.&lt;br&gt;&lt;br&gt;서울교통공사 1노조가 파업에 돌입하면서 서울시는 지난 10일 발표한 비상 수송 대책을 시행한다.&lt;br&gt;&lt;br&gt;지하철은 출근 시간대 100% 운행률을 맞춰 평시와 동일하게 운행하고, 퇴근 시간대에는 총 운행률 88% 수준을 유지한다. 역사 내 시민 안전을 위해 평시의 80% 수준인 인력 1만3000명을 확보해 안전 관리에 나선다. 시내버스는 출퇴근 집중 배차 시간대를 각각 1시간씩 늘린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“늙었다고 늙은이처럼 살면 진짜 늙어”</title>
       <link>https://www.chosun.com/national/people/2025/12/12/2NPQZTYDEJFD3AAHPGLHXXQG2M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/12/2NPQZTYDEJFD3AAHPGLHXXQG2M/</guid>
@@ -912,15 +947,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/RO4WVNTNH5FRLIT4KBG4CVKHBQ.gif?auth=e45bde0649dfc4e3358b81252634372b785043d9382df6e1efe3448a183f7516&amp;smart=true&amp;width=1000&amp;height=563" type="image/jpeg" height="563" width="1000"/>
     </item>
     <item>
-      <title>“수능 1개 틀렸대” 이부진 사장 아들, 서울대 수시 합격…외삼촌 후배될까</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/MNM22SU4BRDM3EDR6X7VUKOQO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/MNM22SU4BRDM3EDR6X7VUKOQO4/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:52:42 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SFT2DZVFAMBOYMAX3JFHYJYYJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이부진 호텔신라 대표이사 사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이부진 호텔신라 사장의 장남 임동현군이 서울대 수시 모집에 합격한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;11일 서울대 등에 따르면, 임군은 2026학년도 서울대 수시 모집 전형에서 최종 합격했다. 임군은 서울대 경제학부에 지원한 것으로 알려졌다. 합격자 등록 기간은 오는 15~17일이다.&lt;br&gt;&lt;br&gt;앞서 임군은 2026학년도 대학수학능력시험에서 높은 점수를 받은 것으로 알려져 주목받았다. 이런 사실은 박선영 전 진실·화해를위한과거사정리위원회 위원장이 이달 초 소셜미디어에 “휘문고 3학년인 이부진 사장의 아들 임모군은 올해 수능을 1개 틀렸다나. 휘문중 다닐 때도 전교 1등을 놓치지 않았다더라”고 적으면서 알려지게 됐다. &lt;br&gt;&lt;br&gt;임군은 서울 강남구 휘문중·휘문고를 졸업했다. 중·고교 시절 내내 문과 전교 최상위권을 유지했고 특히 수학 성적이 뛰어났다고 한다. 이 사장은 아들 교육을 위해 2018년 주소지를 서울 용산구 이태원동에서 강남구 대치동으로 옮겼으며, 최근 다시 이태원으로 거주지를 이전했다. &lt;br&gt;&lt;br&gt;임군이 내년 서울대 26학번으로 입학하면 외삼촌인 이재용 삼성전자 회장의 후배가 된다. 이 회장은 서울대 동양사학과 87학번이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>집·직장서 도보 3분… 건강 톱3 과천·강남·서초엔 양재천 흐른다</title>
       <link>https://www.chosun.com/national/national_general/2025/12/12/VXANHYPMJRBNZHCO3QFFPMBI6I/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/VXANHYPMJRBNZHCO3QFFPMBI6I/</guid>
@@ -928,24 +954,6 @@
       <description/>
       <pubDate>Thu, 11 Dec 2025 15:58:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Q2L6YGMRONEX3MGDDSIV4EZIL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 8월 23일 오후 서울 강남구 개포동 양재천에서 시민들이 산책을 즐기고 있다./장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6RFM4MRQLNFZNAF2I73YQBAQWA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;11일 오전 8시 서울 강남구 도곡동에 있는 지하철 구룡역 인근 양재천은 고요했다. 차가운 공기를 가르며 달리는 사람들의 숨소리가 갈대숲 사이로 퍼져나갔다. 다리 아래 공터에는 50·60대 주민 10여 명이 스트레칭에 한창이었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZKW6QIKNCKRGJ7T4UXAN37GE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2025년 12월 11일 오후 서울 강남구 양재천에서 직장인들이 점심 식사를 마치고 산책하고 있다. /장련성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;시간이 흐르자 양재천의 모습은 시시각각 바뀌었다. 정오가 되자 인근 오피스 빌딩에서 쏟아져 나온 직장인들이 커피를 손에 들고 산책로를 채우면서 시끌벅적 해졌다. 이어폰을 끼고 책을 읽거나 홀로 풍경을 감상하는 사람들도 있었다. 직장인 최모(45)씨는 “점심 먹고 10분만 걸어도 머리가 맑아진다”며 “회사 바로 옆에 이런 공간이 있다는 건 행운”이라고 했다.&lt;br&gt;&lt;br&gt;해가 뉘엿뉘엿 넘어가자 유모차를 끄는 부부와 퇴근한 주민들이 자리를 채웠다. 벤치에 앉은 시민들이 노을을 감상했고, 하천변을 따라 걷는 연인들의 발길이 끊이지 않았다. 경기 과천에서 온 이진구(37)씨와 성현정(33)씨는 “서울 한복판에서 이런 풍경을 보며 여유를 즐길 수 있는 곳은 드물다”며 “화장실 등 편의시설도 잘 갖춰져 있어 자주 찾는다”고 했다.&lt;br&gt;&lt;br&gt;건강 전문가들은 “양재천은 과천, 강남·서초구 주민들이 언제든 밖으로 나가 산책을 즐기고 운동할 수 있는 환경을 제공한다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/65N4337BORGPRAH5QA4DZ4U7RQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양재천이 생활 건강에서 갖는 가장 큰 장점은 ‘접근성’이다. 한강공원 같은 도심 공원들은 대형 간선도로나 나들목을 통과해야 닿을 수 있다. 그러나 양재천은 주거지와 업무 지구에서 도보 3~5분이면 진입 가능하다. 강남구 주민 이모(55)씨는 “집 문만 열면 바로 산책로라 아침저녁으로 심심하면 나온다”며 “매일 찾는데도 매번 이런 ‘보물’이 어디있나 싶다”고 했다. 주변 공원과 산책길이 모두 양재천과 연결돼 있어 주민들은 “동네 길을 아무렇게나 걷다 보면 결국 양재천을 만나게 된다”고 했다. 도곡·매봉·학여울역 등 지하철역과 촘촘히 연결된 점도 유동 인구가 몰리는 요인이다.&lt;br&gt;&lt;br&gt;양재천을 다른 하천과 차별화하는 핵심 요소는 물가에서 제방 상단까지 이어지는 독특한 ‘3단 구조’다. 물과 맞닿은 하단 도로는 자전거 전용 도로고 중간 도로는 갈대와 수초가 어우러진 자연형 보행로다. 가장 높은 곳에 있는 상단 도로는 유모차와 노약자도 편히 걷는 평지 산책로다. 시민들이 이용 목적이나 보행 속도에 따라 서로 방해받지 않고 양재천을 즐길 수 있는 비결이다.&lt;br&gt;&lt;br&gt;양재천은 산책로를 넘어 ‘광역 교통망’ 역할도 수행한다. 탄천을 거쳐 한강과 인천 아라뱃길, 남양주 능내역까지 이어지는 양재천 자전거 도로는 ‘자출족’(자전거 출퇴근족)의 성지다. 직장인 강민수(36)씨는 “꽉 막힌 도로 위에서 스트레스를 받는 대신 페달을 밟으며 출근하는 것이 나의 건강 비법”이라고 했다. 고등학교 3학년 신동준(18)군은 “입시가 끝나 마음 편히 걸으러 나왔다”며 “학교 다닐 땐 이 길을 따라 등하교를 했고, 수업이 끝나면 친구들과 한강까지 걷곤 했다”고 말했다. &lt;br&gt;&lt;br&gt;계절마다 풍광이 달라지는 것도 양재천의 큰 매력이다. 여울과 모래톱, 저습지 등 다양한 수변 환경을 조성했고, 계절마다 다른 꽃과 풀을 촘촘히 심었다. 10년째 이곳을 기록 중인 사진작가 이학영(83)씨는 “봄의 벚꽃부터 여름의 버드나무, 가을의 낙엽과 겨울의 눈꽃까지 도시에서 계절의 변화를 이토록 뚜렷하게 느낄 수 있는 곳은 드물다”고 했다. 양재천과 함께 ‘양재천길’ 상권도 빠르게 성장하고 있다. 산책로를 따라 카페·식당·공방이 잇따라 들어서면서 젊은층 방문이 눈에 띄게 늘었다.&lt;br&gt;&lt;br&gt;양재천은 1995년 복원 당시부터 철저히 ‘자연형 하천’을 표방했다. 그 결과 이제는 세계가 주목하는 벤치마킹 대상이 됐다. 서울시 관계자는 “과거 우리가 미국이나 유럽의 사례를 참고했다면, 이제는 일본 지바현이나 미국 오리건주(州) 포틀랜드 등 해외 도시들이 양재천 모델을 연구하러 오는 ‘역(逆)벤치마킹’이 일어나고 있다”고 했다. 도심 속 흉물로 전락할 뻔했던 하천이 30년 만에 주민의 건강과 생활 양식을 바꾸고 도시의 품격을 높이는 공간으로 재탄생한 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李 “노동절, 공무원만 출근” 김영훈 “법정 공휴일 추진”</title>
-      <link>https://www.chosun.com/national/labor/2025/12/12/K57OB5E2FFBDNFAKMQUKX4H2U4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/12/12/K57OB5E2FFBDNFAKMQUKX4H2U4/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:57:00 +0000</pubDate>
-      <content:encoded>정부가 노동절의 법정 공휴일 지정을 추진한다. 1963년부터 ‘근로자의 날’로 불러온 명칭을 올 10월 ‘노동절’로 되돌린 데 이어, 이를 법정 공휴일로 격상하겠다는 것이다. 최근 불거진 새벽 배송 논란과 관련해선, 연속된 야간 노동을 제한하는 방안도 검토하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/56Q4JLNFY5FXLARJUFNYGFAUTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 11일 고용노동부 업무 보고에서 노동절을 언급하며 “법정 공휴일이 아니어서 금융기관은 다 쉬는데 공무원들만 출근한다”고 지적하자, 김영훈 노동부 장관은 “인사혁신처와 협의해 모든 일하는 시민들이 하루 격려할 수 있도록 법정 공휴일을 추진하고 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;이 대통령은 노동부의 야간 노동 건강 보호 대책을 보고받을 땐 “(이게) 사실은 쿠팡 때문”이라며 “밤 10시부터 오전 6시까지 심야 노동에서는 50% 할증인데, 밤 12시부터 4시까지는 할증을 더 올려주는 방법은 어떨까 싶다”고 했다. 야간 노동자를 쓰는 기업의 비용 부담을 늘려 야간 노동을 줄이도록 해보자는 의미로 보인다. 김 장관은 “야간 노동자의 휴식 시간을 보장하고, 연속 근무 일수를 제한하는 등의 건강권 기준을 마련하겠다”고 했다. &lt;br&gt;&lt;br&gt;이 대통령은 “포괄임금제가 악용돼 노동 착취 수단이 되고 있다”며 “노동부 지침 등으로 포괄임금제 적용을 명확하게 규정하는 방안을 검토하라”고도 지시했다. 포괄임금제는 실제 근로 시간을 따지지 않고 연장·야간·휴일 근로 수당을 사전에 일정액으로 정해주는 임금 제도다. 산재 인정 판정 기준에 대해서도 “너무 짜다”는 지적이 나왔다. 이 대통령은 “(2014년 미화원이던) 여동생이 새벽에 화장실에서 일하다 사망해 산재를 신청했었는데, (이를 인정) 안 해줘서 소송하다 졌다”며 “당한 사람 입장에서 보면 가혹한 일”이라고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 “바람직한 기업 문화를 만드는 게 중요한 것 같다”며 한화오션이 하청 업체에 성과급을 같은 비율로 지급하기로 한 사실도 공개했다. 한화가 외부에 발표하기 전인데, 이 결정이 노란봉투법 도입 효과임을 내세우려고 이 대통령이 이 자리에서 언급한 게 아니냐는 지적이 나온다. 재계 관계자는 “노란봉투법 시행으로 가장 두려운 게 바로 대기업의 하청 직고용인데, 단계적으로 현실화되고 있는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“민중기 특검, 민주당 관련 수사엔 소극적이었다”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/12/YULJ4UJIOZHIRE2JEQ3X4AWYLI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/YULJ4UJIOZHIRE2JEQ3X4AWYLI/</guid>
-      <dc:creator>박혜연 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 15:56:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZTDKZBTGFRWGMJRHBRDQZBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 2일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 특검 사무실에서 현판 제막을 마친 뒤 발언을 하고 있다. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교가 더불어민주당 핵심 인사들에게 두루 접근해 금품을 제공했다는 진술을 확보하고도 수사를 하지 않아 ‘편파 수사’ 논란이 일고 있는 민중기 특별검사팀이 당시 수사 필요성을 놓고 지휘부와 실무진의 기류가 미묘하게 달랐었다는 내부 증언이 나왔다. 이와 관련해 특검 관계자는 “특검이 (민주당 관련) 수사를 진행하지 않은 것이 특정 정당을 위한 편파 수사라는 취지의 보도나 주장이 잇따르는 데 대해 강한 유감을 표한다”면서 “(민주당 관련 의혹은) 특검법상 수사 대상이 아니었고, 수사팀 내 어떠한 이견도 없었다”고 밝혔다.&lt;br&gt;&lt;br&gt;그러나 본지 취재를 종합하면, 수사팀 내에서는 지난 8월 윤영호 통일교 전 세계본부장으로부터 “전재수 해양수산부 장관과 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등에게 수천만원 대 금품을 제공했다”는 진술이 나온 뒤 “여야를 가리지 않고 적극적으로 수사하자”는 의견이 나왔었다고 한다. 특히 전 장관의 경우 “‘한·일 해저터널 사업’ 관련 청탁을 하면서 현금 4000만원과 까르띠에·불가리 시계 2점을 줬다”는 구체적인 진술이 나왔기 때문에 수사해야 한다는 목소리가 컸다고 한다. 하지만 민 특검 등 지휘부는 구체적인 지시나 판단 없이 소극적인 모습을 보였던 것으로 전해졌다. 민주당에 대한 수사 여부를 놓고 특검 내부 기류가 엇갈렸다는 것이다.&lt;br&gt;&lt;br&gt;당시 수사팀의 한 검사는 “윤씨가 처음에는 간만 보려다가 차차 구체적인 정황을 말하기 시작했고, 그래서 적극적으로 진술을 받았다”고 했다. 또 다른 관계자는 “윤씨가 구속 기소될 무렵 한 검사가 ‘민주당도 돈 받았다는 진술이 있는데 (위에선) 왜 그쪽은 수사할 생각이 없는지 모르겠다’고 투덜거리기도 했다”고 말했다. &lt;br&gt;&lt;br&gt;다만 특검 내 갈등이 노골적으로 부딪히지는 않았었다고 한다. 특검 한 관계자는 “사실 특검법상 수사 대상이 애매해 공소 기각 가능성이 있다는 시각도 있었다”며 “그래서 팀장급 부장검사 2명이 소속 검찰청으로 파견 복귀하면서, 내사 사건 번호만 따놓고 사건을 경찰로 넘기자 했다”고 전했다. 그는 이어 “기류가 달랐던 것은 맞지만, 특검이 수사팀의 수사를 막은 것은 아니었다”고 했다. 특검에 파견됐다가 복귀한 한 검사는 “특검이 정치적으로 이용된다는 느낌을 받았을 때 파견 검사들이 다들 복귀하겠다고 나섰다. 민 특검도 돌려보내고 싶었을 것”이라고 했다. 이와 관련해 야당에서는 “민중기 특검을 특검해야 한다”는 목소리가 이어지고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>아이 업고 156.5㎞ ‘도장깨기’… MZ 부모 핫플된 서울둘레길</title>
