@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>동국대 인근 건물 앞 종이봉투서 심정지 신생아 발견… 베트남 유학생 산모 특정</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/14/NP2DVYCLFZAKXCOFUWVN4WBYBY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/14/NP2DVYCLFZAKXCOFUWVN4WBYBY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 11:32:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCN4NYBI2JNEJ7KYTY56YJRXKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중부경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 동국대학교 인근에서 종이 봉투에 담긴 신생아가 유기된 채 발견돼 경찰이 수사에 나섰다. 신생아는 심정지 상태로 발견돼 병원으로 옮겨졌지만 이송 직후 숨졌다.&lt;br&gt;&lt;br&gt;서울 중부경찰서는 14일 오후 6시 30분쯤 동국대학교 인근 건물에서 “종이 봉투에 신생아가 버려졌다”는 112 신고를 접수했다. 신고 지점은 동국대 캠퍼스 밖 기숙사 인근으로 전해졌다. 현장에 출동한 경찰과 소방 당국은 종이 봉투에 담긴 채 발견된 신생아를 인근 병원으로 긴급 이송했으나 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 유기한 사람을 베트남 국적의 유학생으로 특정했으며, 해당 유학생은 건강 상태가 좋지 않아 인근 병원에서 치료를 받는 것으로 전해졌다. 경찰은 치료를 마치는 대로 출산·유기 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>80대 노모 숨진 채 발견… 50대 아들 “전날 내가 뺨 때렸다” </title>
+      <link>https://www.chosun.com/national/regional/2025/12/14/V2A6R57HJRCADA7SLWUGX5QNOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/14/V2A6R57HJRCADA7SLWUGX5QNOU/</guid>
+      <dc:creator>김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 10:56:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE2WGYJZMY2TIYTEMFSDENDDME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용인동부경찰서. /경기남부경찰청 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;80대 노모가 집에서 숨진 채 발견돼 경찰이 50대 아들을 체포해 조사중이다.&lt;br&gt;&lt;br&gt;경기 용인동부경찰서는 14일 숨진 여성의 아들인 50대 A씨를 노인복지법 위반 혐의로 현행범 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 11시쯤 경찰에 “어머니가 이상하다”며 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨 신고로 용인시 처인구에 있는 A씨 주거지 주택으로 출동한 경찰은 80대인 어머니가 방에서 숨져 있는 것을 발견했다. A씨는 노모와 둘이 거주한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “전날 어머니를 때렸다”고 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 집 내부에 설치된 카메라(홈캠) 영상을 통해 A씨가 B씨 뺨을 세대 정도 때린 것을 확인한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 노모를 폭행한 이유를 조사하는 한편, 부검을 통해 B씨 사인을 확인해 A씨의 폭행이 노모가 사망에 이르게 된 데 영향을 미쳤는지 등을 확인할 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세진중공업, 베트남 칸호아성에 새 공장... 동남아 수요 대응</title>
+      <link>https://www.chosun.com/national/regional/2025/12/14/CFTBT74YYZBEBLCJUBSQFYCT3U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/14/CFTBT74YYZBEBLCJUBSQFYCT3U/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 11:16:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNSGEZTGGM3DEYTEGFTDEYTBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세진중공업은 지난 10일 베트남 칸호아성에서 윤지원 부사장과 니아 닌뚜이산업단지 대표 등이 참석한 가운데 닌뚜이 산업단지 입주 계약을 체결했다. /세진중공업&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세진중공업이 HD현대그룹의 동남아 생산기지 확장에 맞춰 베트남 현지 공장을 새로 짓는다.&lt;br&gt;&lt;br&gt;세진중공업은 베트남 칸호아성 닌뚜이(NinhThuy) 산업단지 입주 계약을 체결했다고 14일 밝혔다. &lt;br&gt;&lt;br&gt;닌뚜이 산업단지는HD현대중공업 자회사인 HD현대 베트남조선(HVS)과 물류 접근성이 뛰어난 핵심 거점이다. 고객사 바로 옆에서 기자재를 공급하는 구조가 완성되는 것이다. HD현대그룹은 최근 베트남·필리핀·인도 등 해외 생산기지 확장 전략을 진행하고 있다.&lt;br&gt;&lt;br&gt;부지 계약에는 윤지원 세진중공업 부사장, 진상호 HD현대베트남조선소 법인장, 쩐 민 치엔 칸호아성 경제구역 및 산업단지경영위원회 위원장, 찌 닌뚜이산업단지 운영사 탄옌그룹 회장 등이 참석했다.&lt;br&gt;&lt;br&gt;세진중공업은 새 공장이 지어지면 현지 생산량이 현재의 3배 이상으로 늘어날 것으로 기대하고 있다.&lt;br&gt;&lt;br&gt;세진중공업 관계자는 “닌뚜이 신규 공장은 차세대 친환경, 에너지 산업 수요까지 대응해 회사의 글로벌 경쟁력을 한 단계 끌어올릴 것”이라며 “고객사의 생산 전략 변화에 대응하고, 그룹 전체의 해외 매출 비중을 획기적으로 확대하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김성제 의왕시장, 골프연습장서 심정지... 병원 이송</title>
       <link>https://www.chosun.com/national/national_general/2025/12/14/UC6WMDBFFBATPBWCPI2XL3IVMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/14/UC6WMDBFFBATPBWCPI2XL3IVMU/</guid>
@@ -919,37 +946,6 @@
       <description/>
       <pubDate>Fri, 12 Dec 2025 08:37:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZ4YDGZIZUWP4B2N3RANFTJQAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정부세종청사 국민권익위원회 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송전탑이나 변전소 주변 마을에 나오는 지원금을 일부 마을 대표들이 횡령하고 있었던 것으로 국민권익위원회 조사에서 드러났다.&lt;br&gt;&lt;br&gt;권익위는 송·변전설비 주변 마을에 지원하는 ‘주민 공동 사업 지원금’을 마을 대표들이 사적으로 사용한 사례를 확인해, 조사 보고서를 기후에너지환경부에 보냈다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;권익위는 송전설비주변법에 따라 한국전력이 송전탑이나 변전소 주변 마을에 지급하는 지원금을 주민 대표가 사적으로 사용한다는 신고가 권익위에 접수됐다. 이에 따라 권익위는 지원금을 받는 마을 5000여 곳 가운데 772곳을 대상으로 실태 조사를 진행했고, 148곳에서 지원금이 부적절하게 쓰인 사실을 확인했다.&lt;br&gt;&lt;br&gt;대구 달성군 A마을 대표는 지원금을 술집에서 3회에 걸쳐 198만원, 한정식집에서 2회에 걸쳐 72만원을 썼다. 마을과 무관한 지역에 있는 호텔에서도 2회에 걸쳐 129만원을 썼다. 영수증은 제출하지 않았고, 사용 목적과 인원도 밝히지 않았다.&lt;br&gt;&lt;br&gt;경북 영천시 B마을 대표는 2020년 7월 지원금으로 1600만원짜리 지게차를 구매했으나, 이를 마을 주민들과 공유하지 않고 독점 사용했다.&lt;br&gt;&lt;br&gt;경남 양산시 C마을 등 여러 마을은 지원금을 전용 계좌로 받지 않고, 마을 대표 개인 계좌로 받아 온 것으로 드러났다. 이에 따라 마을 대표의 개인적인 지출과 지원금의 집행이 구분되지 않았다.&lt;br&gt;&lt;br&gt;이런데도 한전은 지원금 집행에 대한 관리·감독을 소홀히 해, 지원금의 사적 사용이나 증빙 서류 미비를 막지 못하고 있다고 권익위는 지적했다.&lt;br&gt;&lt;br&gt;권익위는 한전에 적정하지 않게 집행된 지원금을 환수하도록 하고, 기후부에는 관리·감독 강화를 위해 실태 조사 결과 보고서를 이첩했다고 밝혔다.&lt;br&gt;&lt;br&gt;권익위 유철환 위원장은 “송·변전 설비 주변 주민 공동 사업 지원금은 그 제도의 취지에 맞게 마을 주민 전체에게 골고루 혜택이 돌아가도록 쓰여야 한다”며 “권익위는 앞으로도 정부의 각종 지원금이 그 목적에 맞게 적절히 집행되는지 지속적으로 살펴보겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전자증거 보전 ‘최장 90일’...형사소송법 개정안 국회 통과</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/12/5H2WTET76VCOPOMI4XP2FBWHVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/5H2WTET76VCOPOMI4XP2FBWHVM/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 08:08:29 +0000</pubDate>
-      <content:encoded>수사단계에서 전자증거의 멸실, 변경을 방지하기 위해 검사와 사법경찰관이 전자증거 보전을 요청할 수 있는 제도가 도입된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TSNRWHA4TGMBQMQ4DSYZRGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법무부. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12일 법무부는 이 같은 내용이 담긴 형사소송법 개정안이 국회 본회의를 통과했다고 밝혔다. 개정안은 검사가 직권 또는 사법경찰관의 신청에 따라 정보통신서비스 제공자에게 전자증거 보전을 요청할 수 있도록 하고, 서비스 제공자는 전자증거 보전 조치를 즉시 취한 후 조치 결과를 검사 또는 사법경찰관에게 통보하는 내용을 담고 있다. 보전 요청 기간은 60일이며 30일 내에서 한 차례 연장이 가능하다. 전자증거 보전 요청제는 개정안 공포 후 6개월이 지난 날부터 시행된다.&lt;br&gt;&lt;br&gt;법무부는 “형사절차에 전자 증거 소멸 방지 제도가 없어 중요 전자증거가 삭제되거나 변경돼 수사에 차질을 빚는 사례가 적지 않았다”면서 “전자증거가 해외 플랫폼이나 서버에 보관되는 경우가 급증해 해외 소재 전자증거를 신속히 보전·확보할 필요성도 계속 제기됐다”고 설명했다.&lt;br&gt;&lt;br&gt;전자증거 보전 요청 제도 입법으로 국내외 플랫폼에서 단기간만 보관하는 로그 기록 자료 등의 소멸을 일시적으로 방지할 수 있게 됐다. 이번 개정안을 통해 온라인 단체 대화방을 매개로 한 디지털 성범죄, 금융 상품 리딩방 사기 및 개인 정보 침해 등 해킹 사건 증거를 보다 효과적으로 확보할 수 있을 것으로 기대된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 도서관 붕괴사고 매몰자 1명 위치 특정… “지하 1층서 작업”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/DXVJEYTNDJD2NO63WQTXJU6DDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/DXVJEYTNDJD2NO63WQTXJU6DDQ/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 07:55:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C75FIJXI2VGZRMESH7B4RJJT2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주대표도서관 붕괴사고 이틀째인 12일 소방대원들이 구조작업을 위한 지지대 설치 작업을 하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 공공 도서관 신축 공사 붕괴 사고 현장에서 매몰자를 수색 중인 구조당국이 지하층에서 근무했던 작업자 1명의 위치를 특정했다.&lt;br&gt;&lt;br&gt;광주소방본부는 12일 “공사 관계자로부터 아직 구조하지 못한 배관공 작업자 1명이 지하 1층에서 근무했다는 증언을 확보했다”고 밝혔다. 전날 오후 1시 58분쯤 광주 서구 치평동 옛 상무소각장 부지 광주대표도서관 공사 현장에서 콘크리트 타설 중 2층 지붕이 무너져 작업자 4명이 매몰돼 2명이 숨졌다.&lt;br&gt;&lt;br&gt;숨진 작업자 2명은 각각 옥상층에서 일하던 미장공 A(40대)씨와 지상 1층에서 일하던 철근공 B(70대)씨로 확인됐다. 이들은 붕괴된 사고현장 최하단에서 발견됐다.&lt;br&gt;&lt;br&gt;구조되지 못한 작업자 2명은 지상층에서 철근 작업을 한 근로자 1명과 지하층에 있던 배관공이었다. 구조대원들이 사고 당일부터 밤샘 수색 작업을 이어갔지만, 작업자 2명의 마지막 위치를 특정하지 못해 구조 작업에 난항을 겪었었다.&lt;br&gt;&lt;br&gt;소방 관계자는 “지하 배관공 매몰자와 함께 일하다 탈출한 동료로부터 작업 당시 상황을 확인한 결과 어느 정도 위치를 파악했다”고 전했다.&lt;br&gt;&lt;br&gt;붕괴 사고 현장은 철골 구조물의 추가 붕괴 가능성 때문에 이날 오전부터 구조 작업이 중단됐다. 뼈대를 드러낸 철골 구조물이 넘어지지 않도록 지지대를 설치하는 안정화 작업을 하고 있다.&lt;br&gt;&lt;br&gt;구조당국은 안정화 작업을 마치는 대로 수색을 재개할 방침이다. 중장비를 동원해 무너진 공사 자재를 긁어내고 철근 등을 잘라낸 뒤 치우는 작업을 반복하는 형태로 매몰자를 찾는다.&lt;br&gt;&lt;br&gt;가족들은 “시공사의 안전 불감증 때문에 인명 피해가 났다”며 분통을 터뜨리고 있다. 아직 구조되지 못한 작업자의 동생 C씨는 “붕괴 당시 형이 떨어지는 철근 자재에 맞아 쓰러진 것 같다”며 “어떻게 사람이 아래에 있는데 콘크리트를 지붕에 부을 수 있느냐”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/C75FIJXI2VGZRMESH7B4RJJT2Y.jpg?auth=9f6eb4a2c88f114ae10c584bd8a62215ed79d4e16c24a8d8806961407cb5d282&amp;smart=true&amp;width=4724&amp;height=3091" type="image/jpeg" height="3091" width="4724">
-        <media:description type="plain">광주대표도서관 붕괴사고 이틀째인 12일 소방대원들이 구조작업을 위한 지지대 설치 작업을 하고 있다. /김영근 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>[단독] ‘강등’ 정유미 검사장, 정성호 장관에 인사명령 취소 소송 제기</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/12/O4YR6CUZZFG4BKM7EQLNSW6Y3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/O4YR6CUZZFG4BKM7EQLNSW6Y3Q/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 02:25:02 +0000</pubDate>
-      <content:encoded>정유미 검사장(법무연수원 연구위원)이 12일 정성호 법무부 장관을 상대로 인사명령 처분 취소 청구 소송을 제기한다. 대검검사급(검사장) 보직에 있던 정 검사장이 전날(11일) 검찰 고위 간부 인사에서 대전고검 검사로 강등 발령난 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TQZTFMVRTCZDEGE3TGNBQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정유미 법무연수원 연구위원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 안팎에 따르면, 정 검사장은 이날 오후 서울행정법원에 인사명령 처분 취소 청구 소장을 접수할 예정이다. 정 검사장은 향후 소송에서 크게 세 가지 근거를 토대로 이번 인사가 위법하다고 주장할 것으로 알려졌다. &lt;br&gt;&lt;br&gt;첫째는 이번 인사가 대검검사급 이상 검사의 보직 기준을 규정한 ‘대검찰청 검사급 이상의 보직범위에 관한 규정(대통령령)’에 위배된다는 것이다. 검찰청법 28조는 대검검사급 이상 검사의 보직 기준을 대통령령에 위임하고 있는데, 대통령령에서 규정하고 있는 대검검사급 검사의 11개 보직 범위에는 고검 검사가 포함돼 있지 않기 때문이다. 대통령령에 열거된 대검검사급 검사의 보직은 검찰총장, 고검장, 대검 차장, 법무연수원장, 대검 검사, 법무부 기획조정실장, 법무실장, 검찰국장, 범죄예방정책국장, 감찰관, 출입국·외국인정책본부장, 지검장, 사법연수원 부원장, 법무연수원 기획부장, 고검 차장, 법무연수원 연구위원 등이다.&lt;br&gt;&lt;br&gt;둘째는 이번 인사가 검찰청법 30조에도 위배된다는 주장이다. 검찰청법 30조는 고검검사 등의 임용 자격에 대해 ‘28조에 해당하는 검사(대검검사급)를 제외한’이라고 규정하고 있는데, 정 검사장은 대검검사급 검사에 해당돼 별다른 근거 없이 그를 고검 검사로 임용하는 것은 위법하다는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 강등 인사와 관련해 감찰이나 징계 등 근거가 없다는 점도 문제 삼을 것으로 전해졌다. 만약 정 검사장이 징계를 받을 만한 행위를 했다면 정식으로 징계 절차를 밟아야 함에도, 그런 절차 없이 인사를 통해 강등 처분을 한 것은 공무원의 신분 보장 원칙을 위반한 위법한 처분이라는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 이날 “최근 검찰청 폐지, 대장동 사건 항소포기 등 일련의 사태에 대해 의견 표명을 한 바 있고, 이는 국민의 삶에 큰 영향을 미치는 형사사법체계의 대대적인 변화에 대해 공직자로서 우려를 표한 것이고, 검찰의 본질과 기능, 현재와 미래에 대해 법률가이자 검사의 한 사람으로서 의견을 개진한 것”이라며 “자신과 견해가 같지 않은 사람들을 억압하고 박해하는 이런 처분이 반복된다면 결국 모든 사람이 입을 다물고 침묵하게 되고 종국에는 우리의 민주주의가 위험에 처하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수산시장 가면 진짜인 줄 알 듯”... 기부하고 받은 전복 쿠션 화제</title>
