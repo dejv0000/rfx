@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“대통령이 위법 수법 공개”, 대통령 말 정면 반박한 인천공항 사장 </title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/14/BPXBFN5IDRFNZDEVBV3EEFALCY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/14/BPXBFN5IDRFNZDEVBV3EEFALCY/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 03:47:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZED4T4F7RJDSHGVN62N2KCWLAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이학재 인천국제공항공사 사장이 지난 12일 세종컨벤션센터에서 열린 국토교통부 등에 대한 업무보고에서 답변을 하고 있다. /KTV 유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 지난 12일 국토교통부 업무보고에서 ‘책 속에 외화를 끼워 넣어 밀반출’하는 범죄 수법을 거론한 것과 관련해, 이학재 인천공사사장이 14일 “인천공항을 30년 다닌 공사 직원들도 모르는 내용”이라며 “(대통령 발언으로) 내용이 알려졌고, 이를 방지하기 위해 대통령이 해법으로 제시한 100% 수화물 개장 검색을 하면 공항이 마비될 것”이라고 밝혔다. 공기업 사장이 이 대통령 발언을 정면으로 반박한 것이다. 윤석열 정부에서 임명된 이학재 사장은 국민의힘 3선 의원 출신이다. &lt;br&gt;&lt;br&gt;이 사장은 이날 자신의 페이스북에 “제가 지난 금요일 국토부 업무보고 자리에서 대통령님으로부터 써준 것만 읽는다. 임기가 언제까지냐, 업무파악도 못 한다는 등의 힐난을 당한 것은 두 가지”라며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이 사장은 “외화 밀반출과 관련해 책갈피에 숨긴 100달러짜리 여러 장을 발견할 수 있는가 질문을 받고 당황했고 실제로 답변하지 못했다”며 “불법 외화 반출은 세관의 업무이고, 인천공항공사의 검색업무는 칼, 송곳, 총기류, 라이터, 액체류 등 위해품목이다. 인천공항은 위해 물품 검색 과정에서 불법외화반출이 발견되면 세관에 인계한다”고 했다. &lt;br&gt;&lt;br&gt;그는 그러면서 “제가 확인한 바에 의하면 인천공항을 30년 다닌 인천공항공사 직원들도 보안검색분야 종사자가 아니면 책갈피 달러 검색 여부는 모르는 내용이었다”며 “이 일로 온 세상에 ‘책갈피에 달러를 숨기면 검색되지 않는다’는 사실이 알려졌으며, 이를 방지하기 위해 대통령님께서 해법으로 제시하신 100% 수화물 개장 검색을 하면 공항이 마비될 것”이라고 밝혔다. 100% 수화물 개장 검색은 승객의 수화물을 일일이 열어보는 것을 뜻하는 데, 현실적으로 이 방법은 불가능하다는 게 이 사장 반박이다.&lt;br&gt;&lt;br&gt;그는 이집트 후르가다 공항 입찰과 관련해서도 “대통령님은 후르가다 공항의 수요, 전망 등을 질문하셨는데 저는 구체적인 답변을 못 드리고 공항 입찰이 나올 것을 대비해 입찰을 준비하는 초기 단계라고 말씀을 드렸다”며 “대통령님은 모든 것을 알고 싶으셨겠지만, 아직 입찰도 안 나온 사업에 대해 수요조사 등을 할 수는 없는 사항이고, 저도 아직 보고를 못 받았다”고 했다.&lt;br&gt;&lt;br&gt;이를 두고 정치권에서도 이재명 대통령이 윤석열 정부에서 임명된 국민의힘 의원 출신 이 사장을 망신주기 한 것 아니냐는 지적도 나온다. 이 대통령은 이 사장이 즉각 대답하지 않을 때는 “지금 다른 데 가서 노시냐”고 했고, 이집트 공항 개발 사업을 언급하면서는 “저보다도 아는 게 없는 것 같다. 자료에 있는 것 말고는 아는 게 하나도 없다”고 했다. 내년 6월 임기가 만료되는 이 사장은 지방선거 출마설이 제기되고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>오세훈 “국토부 장관 만났지만…10·15 부작용 바로잡겠단 의지 안 보여”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/12/14/IMWTN2AV55H5DIMCCOGW4Y7CHU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/12/14/IMWTN2AV55H5DIMCCOGW4Y7CHU/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 03:39:10 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDMMZTHE4DOZRRMYYWIZRTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 14일 “최근 국토부 장관을 만나 현실을 분명히 전달했지만, 10·15 대책의 부작용을 바로잡겠다는 정부 의지를 찾아보기 어려웠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘결과가 해롭다면 그것은 곧 악정(惡政)입니다’라는 제목의 글을 올리고 “정부는 10·15 부동산 대책의 부작용을 더 이상 외면해서는 안 된다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “10·15 대책은 주거 안정을 내세웠지만 현실은 정반대”라며 “집을 마련하려는 실수요자의 숨통부터 조이고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “대출 한도는 급격히 줄였고, 규제 지역 확대와 각종 제한이 매매 시장의 문턱을 비정상적으로 높였다”며 “그 결과 거래는 얼어붙고 매매에서 밀려난 수요가 전세로 몰렸지만 이마저 말라버렸다. 주거 불안을 해소하기는커녕 부추긴 꼴”이라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “최근 국토부 장관을 만나 이 같은 현실을 분명히 전달했다”며 “공급 확대를 위해 가능한 모든 협조를 아끼지 않았고, 정비 사업의 속도를 높이고 도심 내 주택 공급을 늘리기 위해 노력하고 제안했다”고 했다.&lt;br&gt;&lt;br&gt;그러나 오 시장은 “안타깝게도 10·15 대책 부작용을 바로잡겠다는 정부 의지는 찾아보기 어려웠다”며 “공급 물량 확보를 위해 서울시에 협조를 요청하면서도 정작 시장을 왜곡하는 규제에 대해선 명확한 답을 내놓지 않았다”고 했다. 오 시장은 “그로 인한 부담이 시민들에게 고스란히 전가되고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;오 시장은 “정부에 다시 한번 요청한다”며 “지금이라도 현실을 직시하고 당장 손댈 수 있는 것부터 바꿔야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “핵심은 두 가지다. 정비 사업을 가로막는 과도한 규제를 완화하고, 실수요자를 투기꾼 취급하는 대출 정책도 즉각 전환해야 한다”며 “이 두 가지 없이는 ‘공급 확대’와 ‘주거 안정’은 그저 공허한 구호에 불과하다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 문재인 정부의 소득주도성장을 언급하며 “국민의 삶을 담보로 한 실험은 늘 같은 결말을 맞았다”며 “선의로 시작한 정책이어도 그 결과가 해롭다면 그것은 곧 악정이다. 이미 한 번 경험했다면 이번만큼은 달라야 하지 않겠느냐”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남현희, 전청조에 이용당했다”…사기방조 무혐의 결정문 공개</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/14/TGYG6KLFZ5FCBKWUCXRHHLNOVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/14/TGYG6KLFZ5FCBKWUCXRHHLNOVY/</guid>
+      <dc:creator>김자아 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 01:57:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IKXD3ROXDFBY5JDT4MKBQCUGM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남현희./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전청조의 사기를 방조했다는 등의 혐의를 받은 전 펜싱 국가대표 남현희(44)가 검찰의 불기소 결정서를 공개하며 혐의 없음 판단을 받았다고 밝혔다.&lt;br&gt;&lt;br&gt;남현희는 지난 13일 소셜미디어(SNS)에 서울동부지검의 특정경제범죄 가중처벌 등에 관한 법률 위반(사기) 방조, 범죄수익 은닉의 규제 및 처벌 등에 관한 법률 위반 혐의 불기소 결정문을 공개했다.&lt;br&gt;&lt;br&gt;결정문에 따르면 검찰은 “피의자가 전청조의 사기 범행이나 다른 범죄 행위를 인식했다기보다 전청조에게 이용당한 것이 더 가깝다”고 판단하며 남현희의 혐의를 입증할 증거가 충분치 않다고 봤다.&lt;br&gt;&lt;br&gt;손수호 법무법인 지혁 변호사도 자신의 SNS를 통해 “드디어 남현희 감독 사건 검찰 불기소 결정서를 받았다. 혐의 없음의 이유를 다시 한번 명확히 확인해줬다”고 밝혔다.&lt;br&gt;&lt;br&gt;이어 “‘전청조에게 이용당한 것’ ‘아이클라우드 비밀번호까지 제공받아 확인했음’ ‘전청조의 사기 전과, 경호원 급여 미지급, 사기 수사 진행 등을 알았음을 인정할 증거가 발견되지 않음’ 이렇게 민사도 끝났고 형사도 끝났다”고 했다.&lt;br&gt;&lt;br&gt;다만 손 변호사는 사건이 마무리된 이후에도 남현희를 향한 악성 댓글이 계속되고 있다고 지적했다.&lt;br&gt;&lt;br&gt;그는 “심각한 모욕 댓글이 여전히 많이 달린다. 최근 확인해보니, 매우 다양하고 창의적인 성적 비하 댓글이 전국 각지에서 무수히 올라왔다. 내용과 수위가 충격적”이라며 “명백한 범죄이며 처벌 대상이다. 자제를 부탁드린다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CD4AQDWBOWYVMCRV2IGC6SMOKQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'재벌 3세'를 사칭하며 사기 행각을 벌인 혐의를 받는 전청조 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 남현희는 2023년 8월 자신의 SNS를 통해 전청조와의 재혼을 발표했다. &lt;br&gt;&lt;br&gt;이후 전청조의 재벌 3세 사칭 및 사기 의혹 등이 불거졌고, 남현희도 전청조가 투자금 등을 모집하는 과정에 도움을 줬다는 의혹과, 범죄수익 중 일부가 남현희 측 계좌로 넘어가거나 남현희 명의 고급 주택·차량 임차에 사용됐다는 의혹 등을 받았다.&lt;br&gt;&lt;br&gt;전청조는 30억원대 사기 혐의와 남현희의 조카를 폭행한 혐의 등으로 지난해 11월 징역 13년형이 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정부 승인 안 받고 북한소설 22종 들여와 출판까지... 2심도 벌금형</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/14/5D7HDFH2DZHEJH3KRKXSELPMOU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/14/5D7HDFH2DZHEJH3KRKXSELPMOU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 03:12:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2WCNBSGVRDSMRSMNRTGMJQGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소8-3부(재판장 최진숙)는 정부의 승인을 받지 않고 북한 소설을 들여와 출판한 혐의를 받는 남북경총통일농사협동조합(통일농협) 정익현 이사장에게 최근 벌금 200만원을 선고했다. 1심이 선고한 벌금 300만원에서 액수가 소폭 줄었다.&lt;br&gt;&lt;br&gt;정 이사장은 2018∼2020년 통일부 장관 승인을 거치지 않고 3회에 걸쳐 북한 소설책이나 소설이 담긴 이동식 저장 매체(USB)를 국내로 반입한 혐의(남북교류협력법 위반)로 재판에 넘겨졌다. 남북교류법은 남북 간 물품을 반출·반입할 때는 거래 형태 및 대금 결제 방법 등에 관해 통일부 장관 승인을 받아야 한다고 규정한다. 정 이사장은 이를 피하기 위해 중국 업체를 중개인으로 끼고 북한 저작권사무국과 계약을 체결한 뒤 ‘동의보감’, ‘고구려의 세 신하’ 등 소설 총 22종을 국내로 들여온 것으로 조사됐다. 2020년 1월 통일부 승인 없이 기자회견을 연 뒤 ‘동의보감’을 권당 2만5000원에 판매하기도 했다.&lt;br&gt;&lt;br&gt;정 이사장은 재판에서 “중국 사업가에게서 받은 책은 중국의 물품이지 북한의 물품이 아니고, 미풍양속을 저해하거나 국가보안법에 위배되지 않으므로 반입 승인 대상이 아니다”라며 무죄를 주장했다. 그러나 1심은 “피고인은 통일부 장관의 승인을 받아야 한다고 인식하고 있었는데도 승인이 지체되고 그 조건이 부당하다고 판단해 반입 승인을 받지 않은 채 출판을 강행한 점이 인정된다”며 유죄로 판단했다. &lt;br&gt;&lt;br&gt;2심은 정 이사장이 서울 종로구에서 중개업체 사장을 만나 북한 소설책 9권을 받은 혐의는 무죄로 보고 벌금액을 줄였다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘쿠팡 외압 의혹’ 제기한 문지석 검사, 특검 2차 출석</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/14/MSPXDY6AGBCHTBVH3PYQMQ3Z7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/14/MSPXDY6AGBCHTBVH3PYQMQ3Z7U/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 03:14:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3DCMBSGMZWKMZTHE4DCOBUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘쿠팡 퇴직금 수사 외압’ 의혹을 제기한 문지석 광주지검 부장검사가 14일 오전 서울 서초구 안권섭 특검팀 사무실에 2차 참고인 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘쿠팡 퇴직금 수사 외압’ 의혹을 제기한 문지석 광주지검 부장검사가 14일 안권섭 특검팀에 출석해 두 번째 참고인 조사를 받았다. 지난 11일 약 14시간 동안 조사받은 지 사흘 만이다.&lt;br&gt;&lt;br&gt;문 부장검사는 이날 오전 9시 36분쯤 특검 사무실에 출석하면서 “(특검이) 작년 6월 3일 인천지검 부천지청에 부임한 뒤 일을 시간 순서대로 확인하고 있다”며 “이번 조사에선 지난 2월 21일부터 있었던 일을 조사하는 것으로 알고 있다”고 말했다. &lt;br&gt;&lt;br&gt;문 부장검사는 부천지청에서 쿠팡풀필먼트서비스가 취업규칙을 변경해 부당하게 일용직 노동자들의 퇴직금을 체불했다는 의혹을 수사 지휘했는데, 엄희준 당시 부천지청장이 수사에 외압을 가해 불기소 처분이 내려졌다고 주장하고 있다. 지난 2월 21일은 엄 전 지청장이 수사 주임검사를 따로 불러 쿠팡 사건을 ‘혐의 없음’ 의견으로 정리하라고 지시했다는 의혹이 제기된 날이다. &lt;br&gt;&lt;br&gt;지난 6일 출범한 특검은 문 부장검사에 대한 조사를 통해 당시 상황을 재구성하고 본격적인 수사에 필요한 증거 정리 작업에 나설 것으로 보인다.&lt;br&gt;&lt;br&gt;문 부장검사는 지난 5월 “엄 전 지청장과 김동희 전 차장검사가 핵심 증거를 의도적으로 누락하고 불기소를 지시했다”며 대검찰청에 감찰과 수사 의뢰를 요청했고, 지난 10월 국회 기후에너지환경노동위원회의 국정감사에서도 같은 의혹을 제기했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>29년 일하고 백혈병 걸린 소방관... 법원 “공무상 질병으로 봐야”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/14/CXAKXZO5QZHERDF5ZBRYI32JOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/14/CXAKXZO5QZHERDF5ZBRYI32JOQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 02:40:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSVNQ5GRJWVUVE4OZNY54RUV74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 양재동 가정·행정법원 전경./서울가정법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29년간 1000건이 넘는 화재 현장에 출동하면서 백혈병에 걸린 소방관에게 공무상 질병을 인정해야 한다는 법원 판단이 나왔다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면, 서울행정법원 행정8단독 문지용 판사는 소방관 A씨가 인사혁신처장을 상대로 낸 공무상 요양 불승인 처분 취소 소송에서 최근 A씨 승소로 판결했다. A씨는 29년 동안 소방공무원으로 근무하면서 화재 현장 출동 등 업무를 담당했고, 소방서 부서장, 당직 근무 책임자, 소방서장 등을 지냈다. 2021년 급성 골수성 백혈병 진단을 받고 요양급여를 청구했다. 그러나 인사혁신처는 A씨의 29년 경력 중 2년 2개월만 화재 진압 및 구조 업무를 수행했다고 보고 청구를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;이에 A씨는 “개인 보호 장구를 충분히 보급받지 못한 상태에서 화재 현장 출동 업무를 수행했고, 벤젠·포름알데히드 등 유해 물질에 지속적으로 노출됐고, 인사혁신처가 현장 출동으로 인정한 기간 이외에도 화재 현장을 지휘하면서 유해 물질에 노출됐다”며 처분을 취소해달라는 소송을 낸 것이다.&lt;br&gt;&lt;br&gt;재판부는 A씨의 현장 출동 건수 1431건 중 1047건을 인정하고, 근무 이력 대부분이 화재 진압 및 구조 업무에 해당한다고 봤다. 재판부는 “실제 출동 건수가 1047건에 미치지 못한다고 보더라도, 여러 사정에 비춰보면 원고가 적어도 수백 건의 화재 현장에 출동해 화재 진압 업무 등을 수행했음은 넉넉히 인정할 수 있다”며 A씨의 백혈병을 공무상 질병으로 인정했다.&lt;br&gt;&lt;br&gt;재판부는 또 “A씨가 소방공무원으로 근무하기 전 백혈병을 앓았던 적이 없다”며 “직업환경의학과 전문의도 ‘29년간 소방관으로 근무하면서 화재 진압 업무에 종사했다면 공무와 백혈병 사이에 업무 관련성이 있다’는 의견을 밝혔다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상조서비스 두고 벌어진 재향군인회-신협 소송... 대법, 신협 손 들어줘</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/14/ABY2YZAC65FMPMAA22B73HMBHA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/14/ABY2YZAC65FMPMAA22B73HMBHA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 02:53:02 +0000</pubDate>
+      <content:encoded>재향군인회가 설립한 상조회사와 신협중앙회가 맺은 장례서비스 제휴협정 보증계약 관련 소송에서 대법원이 재향군인회에 상조서비스 이행에 대한 보증 책임이 있다는 판단을 내렸다.&lt;br&gt;&lt;br&gt;14일 법조계에 따르면 대법원 2부(주심 엄상필 대법관)는 신협중앙회가 재향군인회를 상대로 낸 보증채무존재확인 소송에서 지난달 원심의 원고 패소 판결을 깨고 사건을 서울고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43DOOJUGYZWIODFMRRTQMZUMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 사건은 재향군인회가 설립한 상조회사인 재향군인회상조회가 2007년 신협중앙회와 장례서비스 제휴협정을 맺은 게 발단이 됐다. 신협중앙회가 조합원들을 상조회원으로 모집하고 가입 실적에 따라 수수료를 지급받는 내용이었다. 협정에 따라 2020년 말까지 신협중앙회를 통해 가입한 사람은 35만여 명이라고 한다. &lt;br&gt;&lt;br&gt;이 과정에서 상조회사의 안정성에 관한 조합원들의 불안감이 커지자 신협중앙회는 위험방지 조치를 요구했고, 재향군인회 측은 2008년 ‘재향군인상조회가 협약을 이행하지 못할 경우 재향군인회가 책임지고 이행하겠다’는 지급보증서를 신협중앙회에 보냈다.&lt;br&gt;&lt;br&gt;둘 사이의 갈등은 2020년 1월 재향군인회가 상조회 매각에 나서고, 결국 상조회사가 컨소시엄을 거쳐 보람상조에 매각되면서 불거졌다. 신협중앙회는 재향군인회를 상대로 지급보증서에 따른 보증채무의 존재를 확인하는 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 신협중앙회의 손을 들어줬으나, 2심은 “제휴협정에 따라 상조회사가 신협에 부담하는 채무는 (상조회원 모집) 수수료 등 지급 의무에 한정될 뿐 상조서비스를 이행할 채무는 인정되지 않는다”며 신협중앙회 패소로 판결했다. 지급보증서에 적힌 대로라면 재향군인회는 상조회사가 신협중앙회에 지는 ‘채무’의 이행을 보증한 것이지, ‘상조서비스의 이행’까지 보증한 건 아니라는 얘기다.&lt;br&gt;&lt;br&gt;그러나 대법원은 계약을 해석할 때에는 형식적인 문구에만 얽매여서는 안 되고 계약 당사자 사이의 진정한 의사가 무엇인지를 살펴봐야 한다며, 원심 판단을 수긍하기 어렵다고 했다. 재향군인회와 신협중앙회 사이에는 ‘상조서비스 이행 의무를 재향군인회가 보증한다’는 합의가 성립한 것으로 볼 수 있어, 재향군인회가 상조서비스 이행 의무에 대한 보증채무를 부담해야 한다고 본 것이다. 상조서비스 불이행에 따른 조합원의 피해를 막기 위해 신협중앙회가 질권 설정을 요청하자 재향군인회가 지급보증서를 작성해 교부한 점, 지급보증서에 첨부된 이사회 의결서에 ‘상조서비스 이행을 보증한다’고 기재된 점이 근거가 됐다.&lt;br&gt;&lt;br&gt;대법원은 원심 재판부가 신협중앙회 측에 충분한 의견진술 기회를 주지 않은 잘못이 있다고도 봤다. 실질적으로 상조서비스를 받는 것은 가입자이지 신협중앙회가 아니긴 하나, 재향군인회가 상조서비스 이행 의무를 보증한다는 의사를 신협중앙회에 알린 이상, 석명권을 적절히 행사해 신협중앙회 측 의견을 들었어야 했다는 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘루이비통’이 해경에 감사패 전달한 이유는? </title>
+      <link>https://www.chosun.com/national/regional/2025/12/14/7G7PE4E3ONGNXEC6BYSYGODMVY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/14/7G7PE4E3ONGNXEC6BYSYGODMVY/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 02:28:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTQNRYMJSTOYZXMM3GCOBRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;명품 브랜드 루이비통 관계자가 남해해경청에 감사패를 전달했다. /남해해경청 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명품 브랜드 ‘루이비통’이 자사의 짝퉁을 적발·압수한 남해해양경찰청에 감사패를 전달했다.&lt;br&gt;&lt;br&gt;남해해양경찰청은 지난 12일 마얀크 베이드 루이비통 아시아태평양 지식재산권 부문 책임자가 방문해 감사패를 전달했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;이번 감사패는 해경이 온라인쇼핑몰을 통해 명품 위조상품을 판매한 조직을 검거한데 따른 것이다.&lt;br&gt;&lt;br&gt;해경은 관세법, 상표법 등 위반 혐의로 4명을 검거하고 이 가운데 40대 밀수업자 A씨를 구속했다. 이들은 2023년부터 지난 5월까지 219회에 걸쳐 7565개의 중국산 위조 명품을 밀수한 뒤 온라인 쇼핑몰에 판매한 혐의를 받는다.&lt;br&gt;&lt;br&gt;이들은 중국에서 만든 가짜 명품을 항공 특송으로 수입해 대구에 있는 창고에 보관했다. 이들은 밀수 과정에서 여러 명의 명의를 이용해 개인이 신발, 의류를 주문하는 것처럼 위장했다.&lt;br&gt;&lt;br&gt;이후 온라인 쇼핑몰을 통해 주문이 들어오면 소비자에게 이를 판매했다. 이들이 밀수한 위조 명품 브랜드는 구찌, 루이비통, 샤넬, 에르메스, 디올 등 33개에 달한다고 해경 측은 밝혔다.&lt;br&gt;&lt;br&gt;품목은 가방, 신발, 의류, 향수 등 다양하다. 특히 향수에서는 인체에 유해한 성분이 검출됐다고 한다. 해경은 이들을 검거하는 과정에서 정품가 108억원 상당의 위조 명품 4100개를 압수했다. 압수물은 모두 폐기된다.&lt;br&gt;&lt;br&gt;앞서 지난 4일 명품브랜드 구찌도 남해해경청에 감사패를 전달했다.&lt;br&gt;&lt;br&gt;마얀크 베이드 루이비통 아시아태평양 지식재산권 부문 책임자는 “최근 유명 상표를 도용한 가품이 늘어 상품 가치가 손상되는 등 곤욕을 치르고 있다”며 “해양경찰의 강력한 단속 활동에 감사하다”고 했다.&lt;br&gt;&lt;br&gt;명성민 남해해경청 수사과장은 “효율적인 단속을 위해 민관 협력이 필수”라면서 “브랜드사에서도 관련 정보 제공 등 지식재산권 보호 활동에 동참해주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민주화단체 ‘기생충집단’ 비하 발언…창원시의원, 모욕혐의 송치</title>
+      <link>https://www.chosun.com/national/regional/2025/12/14/53JJOFR6XNDVVGJH37FQA6E5QY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/14/53JJOFR6XNDVVGJH37FQA6E5QY/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 02:12:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRWMYRXGE2TMZDCMI2TQYZYMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 민주화운동 단체를 ‘기생충 집단’이라고 비하해 논란을 빚은 남재욱 창원시의원이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;창원중부경찰서는 남 의원을 모욕 혐의로 지난 1일 검찰에 송치했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;경찰은 국민의힘 소속인 남 의원이 지난 6월 13일 창원시 마산합포구 대한민국 민주주의 전당에서 한 언론사와 인터뷰를 하며 경남 지역 민주화운동 단체를 겨냥해 ‘기생충 집단’이라고 발언한 것이 모욕죄에 해당한다고 봤다.&lt;br&gt;&lt;br&gt;남 의원은 민주화운동 단체 대표들에게 “과도한 행사비를 요구해 예산이 소요되고 있다”는 취지로 문자메시지 등을 보내기도 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;민주화운동 단체들은 남 의원을 명예훼손과 모욕, 직권남용권리행사방해, 업무방해 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;이후 조사를 이어온 경찰은 남 의원의 언론사 인터뷰 발언만 모욕 혐의를 적용해 검찰에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“덧셈·뺄셈 왜 못해“… 초1학년생에 ‘딱밤’ 교사, 벌금형</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/14/XI4PVNIRNRG7JEBYNHU4F7BZMI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/14/XI4PVNIRNRG7JEBYNHU4F7BZMI/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 14 Dec 2025 01:48:52 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학업 능력이 떨어진다는 이유로 초등학교 1학년생에게 벌을 주고 욕을 한 교사가 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;청주지법 형사2단독 신윤주 부장판사는 아동학대 혐의로 불구속 기소된 40대 여교사 A씨에게 벌금 200만원을 선고했다고 14일 밝혔다.&lt;br&gt;&lt;br&gt;충북 보은의 한 초등학교 1학년 담임교사인 A씨는 지난해 11월 교실에서 B군 등 학생 2명의 머리에 딱밤을 때리고, 앉았다 일어서기를 5∼10분간 시킨 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;A씨는 B군 등이 덧셈·뺄셈을 못하는 등 학습 내용을 잘 이해하지 못한다는 이유로 이 같은 벌을 내린 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 같은 달 교실에서 휴대전화 게임을 하는 B군에게 욕설한 혐의도 받는다.&lt;br&gt;&lt;br&gt;재판부는 공개적 체벌과 욕설로 교실 내 다른 학생들에게도 공포감을 주는 등 정서적 학대를 가했다고 판단했다.&lt;br&gt;&lt;br&gt;신 부장판사는 “피고인은 아동들의 학습 능력이 향상되길 바라는 마음에 의욕이 앞서 이 같은 행위에 이른 것으로 보인다”며 “범죄 전력이 없고, 오랜 기간 헌신적으로 교육자의 길을 걸어온 점 등을 유리한 정상으로 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>허구연, 현 정권에 찍혔다고?&lt;br&gt;KBO총재 자리 놓고 설왕설래 </title>
       <link>https://www.chosun.com/national/2025/12/14/YHVIVNU6YVB4ZFHPMVAGWDUTUA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/14/YHVIVNU6YVB4ZFHPMVAGWDUTUA/</guid>
@@ -851,60 +941,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNFMUP3TFBE45IEKUZNWSDMUVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=조선디자인랩 이연주&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내에 거주하는 20대 베트남 여성에게 성폭력 피해를 입히거나 2차 가해를 이어간 40대 남성과 이 남성의 전처가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대구지검 서부지청 형사2부(부장검사 김정은)는 강간치상 혐의로 베트남 국적의 A(40)씨를 구속 기소하고 A씨의 전처 B(39)씨를 보복 협박 등 혐의로 불구속 기소했다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난해 11월 6일 대구 달성군의 주거지에서 베트남 국적의 대학생 C(20)씨를 성폭행하기 위해 목을 조르는 등 전치 2주 상당의 피해를 입힌 혐의를 받고 있다. A씨는 외국인 근로자 고용 중개업을 하고 있었고, C씨는 작업 현장으로 가기 전 A씨 집에서 대기하다 피해를 입었다. &lt;br&gt;&lt;br&gt;C씨가 비명을 지르며 완강히 저항했고, A씨가 주춤한 틈을 타 피신하면서 성폭행은 미수에 그쳤다.&lt;br&gt;&lt;br&gt;범행 다음 날 C씨가 경찰에 고소장을 접수해 경찰 수사가 진행되자, 같은 해 12월 22일 당시 A씨의 아내였던 B씨가 C씨에게 “고소를 취하하지 않으면 네가 물건을 훔쳤다고 신고할 수 있다”며 협박하는 등 2차 가해를 이어갔다.&lt;br&gt;&lt;br&gt;검찰에 따르면 당시 경찰은 피의자로 A씨를 특정할 단서가 있었음에도 피의자 성명을 알 수 없다는 이유로 올해 3월 수사 중지 의견을 검찰에 보냈다. 검찰은 사건 기록을 토대로 A씨의 인적사항을 특정할 수 있다고 판단해 경찰에 시정 조치를 요구하고 직접 보완수사를 통해 A씨를 특정해 기소했다. 또 출국정지 및 구속 조치를 통해 A씨가 해외로 도피할 수 없도록 했다.&lt;br&gt;&lt;br&gt;수사 결과 A씨는 지난 2014년 경남 창원시에서 발생한 20대 베트남 여성 성폭행 사건의 범인과도 DNA가 일치하는 것으로 드러났다. 이 사건은 지역에서 10년 이상 미제로 남아 있었으나, A씨가 검거되면서 수사가 재개됐다.&lt;br&gt;&lt;br&gt;대구지검 관계자는 “A씨 등에 대해선 죄에 걸맞은 형벌이 선고되도록 하겠다”며 “앞으로도 보호의 사각지대에 있는 취약계층 피해자 보호에 최선을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>주점서 말다툼 끝에 지인 살해한 70대 ‘징역 17년’</title>
-      <link>https://www.chosun.com/national/incident/2025/12/12/3L7YHDUBIBFLFJUHSNI44A4QW4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/12/3L7YHDUBIBFLFJUHSNI44A4QW4/</guid>
-      <dc:creator>고양=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 06:33:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGYFSQZYOLW4ZSXVZRM25YBC6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주점에서 함께 술을 마시던 지인을 흉기로 찔러 숨지게 한 70대 남성이 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 고양지원 형사1부(부장 김희수)는 12일 살인 등 혐의로 구속기소 된 70대 남성 A씨에게 징역 17년을 선고하고, 형 집행 종료 후 5년간 보호관찰을 명령했다.&lt;br&gt;&lt;br&gt;재판부는 “살인은 사람의 생명을 빼앗는 중대한 범죄로 어떤 방법으로도 피해 회복이 불가능해 상응하는 처벌이 불가피하다”며 “피고인이 범행을 계획적으로 준비한 것으로 보이고, 범행 수법도 매우 잔혹하다”고 판시했다. 다만 고령인 점, 음주·정신과 약물 복용이 일부 영향을 미쳤을 가능성 등은 양형에 반영했다.&lt;br&gt;&lt;br&gt;앞서 검찰은 지난 10월 결심공판에서 “범행의 잔혹성과 재범 위험성을 고려하면 사회로부터의 장기 격리가 필요하다”며 징역 20년을 구형했다.&lt;br&gt;&lt;br&gt;A씨는 지난 6월 8일 오후 9시쯤 고양시 일산서구 일산동의 한 주점에서 지인인 50대 여성 B씨와 술을 마시다 말다툼을 벌였고, 격분해 흉기를 휘둘러 B씨를 숨지게 한 혐의로 재판에 넘겨졌다. 신고를 받고 출동한 경찰은 사건 직후 인근 풀숲에 숨어 있던 A씨를 현행범으로 체포했다.&lt;br&gt;&lt;br&gt;A씨는 재판 과정에서 “당시 심신미약 상태였다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전교조 해직 교사 특채’...김석준 부산교육감 ‘집행유예 2년’</title>
-      <link>https://www.chosun.com/national/regional/2025/12/12/4LHLJEVOFJEU5HSOTZT54JPK54/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/4LHLJEVOFJEU5HSOTZT54JPK54/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 06:07:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HBMJOVR3BJYNCWWR67QO4TUZA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;전교조 통일학교 해직 교사들을 특별 채용하도록 지시한 혐의로 기소된 김석준 부산시교육감이 12일 오후 부산 연제구 부산지방법원에서 열린 1심 선고 공판에서 징역 8월에 집행유예 2년을 선고받은 후 법정을 나서며 취재진 질문에 답하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전교조 통일학교 해직 교사를 특별 채용하도록 지시한 혐의로 재판에 넘겨진 김석준 부산시교육감이 징역형의 집행유예를 선고받아 직위 상실 위기에 처했다.&lt;br&gt;&lt;br&gt;부산지법 형사3단독 심재남 부장판사는 12일 직권남용권리행사방해 등 혐의로 기소된 김 교육감에게 징역 8개월에 집행유예 2년을 선고했다.&lt;br&gt;&lt;br&gt;김 교육감은 2018년 전교조 소속 해직 교사 4명을 특별채용 대상으로 내정하고 교원 인사 담당 공무원들에게 공개 경쟁을 가장해 특별 채용하도록 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;해당 교사들은 지난 2005년 10월 전교조 부산지부에 통일학교를 개설하고, 김일성과 공산당을 찬양하는 ‘현대조선력사’ 등을 강의했다가 국가보안법 위반죄로 징역형의 집행유예 선고를 받고 2009년 해직됐다. 이들의 형은 2013년 2월 확정됐다.&lt;br&gt;&lt;br&gt;해직 교사들을 특별 채용하기 위해서는 2016년 1월 6일 개정된 교육공무원임용령(특별 채용은 퇴직한 날로부터 3년 이내에만 가능)에 따라 2019년 1월 5일 전까지 절차를 마쳐야 했다. 2018년은 이들에 대한 특별채용이 가능한 마지막 해였다.&lt;br&gt;&lt;br&gt;검찰은 담당 공무원들이 김 전 교육감의 지시에 따라 이들 4명을 합격시키기 위해 결재를 빠뜨리거나, 형식적인 심사를 진행하는 등 공개경쟁 전형을 가장하면서 결국 위법·부당하게 이들을 특별채용한 것으로 봤다.&lt;br&gt;&lt;br&gt;재판부도 당시 시 교육청에서 진행한 특별 채용이 공개 채용에 해당하지 않는다고 판단했다.&lt;br&gt;&lt;br&gt;심 판사는 “특별 채용 공고 응시 원서 접수 기간이 매우 촉박해 해직 교사가 아닌 관련 사람이 지원하기 어려웠고 실제로 통일학교 해직 교사 4명만 지원했다”면서 “4명 중 1명이라도 탈락했다면 다수가 경쟁해 채용하는 방식이라고 볼 여지도 있겠지만 모두가 합격했다”고 했다. &lt;br&gt;&lt;br&gt;또 “채용 대상자 수가 대략 몇 명이나 되는지, 이들을 채용하는 것이 특별 채용 법률에서 규정한 요건을 충족하는지 등에 대한 검토도 제대로 이뤄지지 않았다”며 “피고인도 특별 채용 절차가 공개 채용에 어긋나는 것을 어느 정도 인식했던 것으로 보인다”고 했다. 이어 심 판사는 “피고인이 교원 임용권을 남용해 특별 채용 절차를 진행함으로써 실무자에게 의무 없는 일을 하게 했다”면서 “다만 사사로운 이익을 위해 진행한 것으로는 보이지 않는 점을 참작했다”고 판시했다.&lt;br&gt;&lt;br&gt;선출직 공무원인 김 교육감은 형사 사건으로 금고 이상의 형을 확정받으면 직을 잃게 된다. &lt;br&gt;&lt;br&gt;선고 이후 김 교육감은 “적법한 절차에 따라 채용을 진행했다. 재판부에서는 4명의 교사가 응모를 하고 4명이 모두 채용이 된 것에 초점을 둬 내정된 것 아니냐는 평가를 했다”면서 “항소심에서 이 사안과 관련해 분명히 억울함을 밝히겠다”고 했다. 내년 지방선거에 출마할 계획이냐는 질문에는 “아직 그것까지는 생각해보지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>개보위, 개인정보 반복 유출 기업에 ‘매출 최대 10%’ 징벌적 과징금 매긴다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/ROTO7UIURJC7NMGQVRO5EVNIGM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/ROTO7UIURJC7NMGQVRO5EVNIGM/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 05:46:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7YHML3LUONIN3N2GOWH2JZK64Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송경희 개인정보보호위원장이 12일 세종시 정부세종컨벤션센터에서 열린 과학기술정보통신부ㆍ개인정보보호위원회 업무보고에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;개인정보보호위원회가 앞으로 반복되거나 중대한 개인정보 보호법 위반 행위가 있었을 경우 전체 매출액의 최대 10%까지 과징금을 부과할 수 있는 징벌적 과징금 특례 도입을 추진한다.&lt;br&gt;&lt;br&gt;개보위는 12일 정부세종컨벤션센터에서 열린 대통령 업무 보고에서 이 같은 내용을 포함한 제재 체계 강화 방안을 발표했다.&lt;br&gt;&lt;br&gt;개보위는 그간의 사후 제재 중심 개인정보 수집 규제에서 벗어나 개인정보 보호 체계를 근본적으로 전환하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;개보위는 반복적이거나 중대한 법 위반에 대해서는 징벌적 과징금 특례를 신설해 강력한 억지력을 확보할 계획이다.&lt;br&gt;&lt;br&gt;앞으로 고의 또는 중과실, 피해 규모 등 특정 요건에 해당할 경우 과징금 상한을 기존 매출액의 3%에서 최대 10%까지 상향한다는 것이다.&lt;br&gt;&lt;br&gt;또 피해를 입은 국민이 금전적 보상을 요구할 수 있도록 개인정보보호법상 단체소송 요건에 ‘손해배상’을 추가하기로 했다.&lt;br&gt;&lt;br&gt;개인정보 보호법 위반에 따른 과징금 등을 국민 피해 회복에 활용할 수 있도록 가칭 ‘개인정보 피해회복 지원 기금’ 신설도 추진한다.&lt;br&gt;&lt;br&gt;개보위는 사고를 낸 기업이 자발적으로 시정 방안을 제시하고 이를 의결로 확정해 신속한 피해 회복을 도모하는 ‘피해회복형 동의의결 제도’도 도입할 방침이다.&lt;br&gt;&lt;br&gt;개선 필요성이 제기되고 있는 정보보호·개인정보 보호 관리체계(ISMS-P) 인증은 예비심사를 도입하고 현장 기술심사를 강화하는 등 사후 관리를 대폭 강화한다.&lt;br&gt;&lt;br&gt;앞으로 중대하거나 반복적인 법 위반이 확인될 경우에는 원칙적으로 인증을 취소한다. &lt;br&gt;&lt;br&gt;개보위는 대규모·민감정보를 처리하는 주요 기관을 대상으로 개인정보보호책임자(CPO) 지정 신고제도 도입할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>빈집 털려다 80대 노인 살해한 50대...2심도 징역 35년</title>
-      <link>https://www.chosun.com/national/regional/2025/12/12/T2PS66ESARAS5PBVV64MOCGS44/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/12/T2PS66ESARAS5PBVV64MOCGS44/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 05:08:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RCDUZU42UZDPPAYLO6U3F5GYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤에 금품을 훔치려고 단독주택에 침입했다가 발각되자 80대 집주인을 살해한 50대에게 항소심에서도 징역 35년이 선고됐다.&lt;br&gt;&lt;br&gt;대전고법 형사1부(재판장 박진환)는 12일 강도살인 혐의로 기소된 송모(51)씨에게 1심 형량과 같은 징역 35년을 유지하고, 위치추적 전자장치 부착 20년도 명령했다.&lt;br&gt;&lt;br&gt;송씨는 지난 7월 14일 0시 40분쯤 금품을 훔치려고 충남 아산시 한 단독주택에 침입했다가 집주인 B(81)씨에게 발각되자 B씨의 목을 졸라 살해하고 현금 8만2000여 원과 지갑, 돼지저금통 등을 훔쳐 달아난 혐의로 재판에 넘겨졌다. 빈집을 노려 금품을 털려던 송씨는 집 앞에 주차된 차가 없고, 폭염에도 에어컨이 켜지지 않은 단독주택을 보고 집 안에 침입했다. 집 안에서 B씨를 보고 도주하려다 잠금장치가 여러 개 설치된 문을 열지 못하자 B씨를 살해하고 금품을 훔쳐 달아난 것으로 조사됐다.&lt;br&gt;&lt;br&gt;송씨는 과거에 절도와 강도 혐의 등의 범죄로 여러 차례 실형을 선고받은 전력이 있고, 주거침입 강간죄로 복역 후 출소한 지 3년이 채 지나지 않은 시점에서 다시 범행을 저질렀다.&lt;br&gt;&lt;br&gt;1심 재판부는 “경제적 이득을 얻기 위해 소중한 생명을 빼앗아 죄책이 무겁고 여러 차례 범죄 전력에도 범행을 반복해 엄하게 처벌할 필요가 크다”며 송씨에게 징역 35년을 선고했다.&lt;br&gt;&lt;br&gt;항소심에선 재판부가 1심과 같은 형량을 유지하되 검사의 위치추적 전자장치 부착 명령 청구를 받아들였다.&lt;br&gt;&lt;br&gt;2심 재판부는 “살인죄를 다시 범할 위험성이 있다고 보여 검사의 위치추적 전자장치 부착명령 청구를 받아들인다”며 “나머지 양형 사유는 1심과 같다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 전재수 등 ‘통일교 로비 의혹’ 관련자 입건... 정식 수사 착수</title>
-      <link>https://www.chosun.com/national/incident/2025/12/12/56U57NBIXFH6LA32CW2UACNURM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/12/56U57NBIXFH6LA32CW2UACNURM/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 04:02:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM2GIOBSHA4DONJTGM2DGMJTMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교로부터 금품을 수수했다는 의혹이 제기된 전재수 해양수산부 장관이 11일 오전 'UN해양총회' 유치 활동을 마친 후 인천국제공항 제2여객터미널을 통해 귀국해 입장을 밝힌 후 공항을 빠져나가고 있다. (공동취재)/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 정치권 인사의 통일교 금품 수수 의혹과 관련해 전재수 전 해양수산부 장관을 비롯한 관련 인물들을 피의자로 입건하며 정식 수사에 착수했다.&lt;br&gt;&lt;br&gt;12일 경찰 등에 따르면, 경찰청 특별전담수사팀은 전날 전 전 장관과 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등 3명을 피의자로 입건했다. 수사팀은 이 3명에 대해 출국 금지 조치도 한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 밖에 피의자로 추가 입건된 인물이 있는 것으로 알려졌지만, 경찰청 관계자는 “입건 여부를 확인해 줄 수 있는 단계가 아니다”라고 했다. 이번 의혹을 촉발한 윤영호 전 통일교 세계본부장이 특검팀에 이 3명과 함께 거명한 정치인으로는 정동영 통일부 장관과 나경원 국민의힘 의원이 있다.&lt;br&gt;&lt;br&gt;경찰은 지난 9일 정치권 인사들의 통일교 금품 수수 의혹을 민중기 특검팀에서 이첩받고, 이날 23명 규모의 특별 전담 수사팀을 구성했다. 내란 특검에 파견됐던 박창환 국가수사본부 중대범죄수사과장이 복귀해 수사팀장을 맡았다. 수사팀은 전날 오후 서울구치소를 찾아 여야 의원들에게 금품을 제공했다고 진술한 윤영호 전 통일교 세계본부장을 3시간가량 접견해 조사했다. 금품 수수 당사자로 지목된 전·현직 의원들에 대한 소환 조사 일정도 검토 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘이상직 인사 특혜’ 조현옥 前 수석에 징역 1년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/ATVSD5O4MBGVPLNX63M5LEW2RQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 03:02:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TBNAB73WD5F67ANZJ7YYNZLMCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조현옥 전 청와대 인사수석비서관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문재인 정부 당시 이상직 전 더불어민주당 의원을 중소벤처기업진흥공단(중진공) 이사장으로 내정한 의혹을 받는 조현옥 전 청와대 인사수석에게 12일 검찰이 징역 1년을 구형했다. 조 전 수석은 “평생 비리를 멀리하고 사회 정의를 염두에 두며 일해왔다”며 “인사 업무를 하는 과정에서 부족한 부분은 있었을지언정 범죄 행위는 결코 하지 않았다”고 말했다. 조 전 수석의 1심 선고는 내년 1월 28일 내려진다.&lt;br&gt;&lt;br&gt;검찰은 이날 서울중앙지법 형사27부(재판장 우인성) 심리로 열린 조 전 수석의 직권남용 권리행사방해 사건 결심 공판에서 “조 전 수석은 대통령을 보좌해 공정하고 정당하게 인사를 관리하고 법률이 정한 인사 절차를 존중하고 지켜야 할 위치에 있었는데도 이를 정면으로 위배하는 위법을 저질렀다”고 구형 의견을 밝혔다.&lt;br&gt;&lt;br&gt;조 전 수석은 문재인 청와대 대통령비서실 인사수석비서관이던 2017년 12월 이 전 의원을 중진공 이사장으로 내정한 뒤, 담당자들에게 인사 절차를 하도록 지시한 혐의로 작년 기소됐다. 이 전 의원에게 중진공 이사장 직무수행계획서 등 도움이 될 만한 자료를 보내주게 해 특혜를 준 혐의도 있다. &lt;br&gt;&lt;br&gt;검찰은 이날 “조 전 수석의 범행으로 인해 이사장직에 지원한 10여명 후보자들은 들러리로 전락했고 임원추천위원회로부터 최종 추천된 나머지 후보자 2명도 인사검증조차 받지 못한 채로 탈락했다”며 “인사 개입을 넘어 공공기관장 인사에 대한 국민적 불신을 일으켰고 관계부처 공무원들에게 모욕감을 느끼게 했다”고 했다. &lt;br&gt;&lt;br&gt;또 &amp;nbsp;“수사 과정에서 모든 진술을 거부하고 수사에 철저히 불응하며 법정에서는 ‘내정이 아니라 순수한 의미의 추천’일 뿐이라거나 전 정권부터 해온 관행이라는 취지로 책임을 회피하고 전가했다”며 “엄정한 법의 심판이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;이에 조 전 수석 측 변호인은 “이 사건은 본래 문재인 전 대통령에 대한 뇌물 수수 의혹으로 수사가 시작됐고 조 전 수석은 본래 수사 대상이 아니었다”며 검찰 기소가 부당하다고 주장했다. 변호인은 “검사는 조 전 수석을 본래 수사 대상자들에 대한 수사와 재판의 수단으로 이용했다”며 “기소 자체가 조 전 수석을 수단화한 것으로서 인권을 침해하고 형사 사법의 절차적 정의를 훼손한 것”이라고 했다.&lt;br&gt;&lt;br&gt;문 전 대통령은 이 전 의원에게 딸 부부의 태국 체류비와 사위 급여 등 2억여 원을 받은 혐의(뇌물 등)로 지난 4월 기소됐다. 이 전 의원도 뇌물 공여 혐의로 함께 재판에 넘겨졌다. 문 전 대통령 사건은 같은 법원 형사21부(재판장 이현복)에서 공판준비 절차를 밟고 있다. 애초 검찰은 문 전 대통령 사건과 조 전 수석 사건 쟁점이 겹친다며 병합해 함께 심리해달라고 요청했지만 재판부가 받아들이지 않았다.&lt;br&gt;&lt;br&gt;조 전 수석 측은 직권남용 혐의도 전면 부인했다. 변호인은 특히 “공공기관법은 중기부장관이 대통령에게 중진공 이사장 후보자를 제청하기 전까지는 대통령이 인사에 개입할 수 없도록 규정하고 있다”며 “대통령조차 중진공 임원 인사에 개입할 법적 권한이 없는데, 대통령을 보좌한 조 전 수석에게 중진공 임원 인사에 대한 일반적 직무권한이 인정될 수는 없다”고 했다. 법적으로 중진공 이사장 인사의 독립성이 보장돼있기 때문에 외부에서 영향력을 행사했다면 ‘월권’으로 비난할 수 있어도 형사 처벌할 수는 없다는 얘기다.&lt;br&gt;&lt;br&gt;조 전 수석은 직접 최후 진술에 나서 “공공기관장 인사 업무는 저의 개인적 결정이나 수석실의 결정이 아니고 오로지 시스템에 의해 결정·시행됐다“고 말했다. 그는 ”별정직 공무원으로 10여년간 근무하며 법의 테두리 안에서 효율적으로 일하기 위해 노력했는데 2023년 이상직 사건에 연루돼 수사를 받고 기소됐다“며 ”2년간 수사와 재판을 받는 현실이 너무 가혹했다“고 했다. 그러면서 ”유죄 판결을 받는다면 노후대책인 공무원 연금도 받을 수 없게 된다”며 선처를 호소했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] ‘강등’ 정유미 검사장, 정성호 장관에 인사명령 취소 소송 제기</title>
       <link>https://www.chosun.com/national/court_law/2025/12/12/O4YR6CUZZFG4BKM7EQLNSW6Y3Q/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/12/O4YR6CUZZFG4BKM7EQLNSW6Y3Q/</guid>
@@ -912,37 +948,6 @@
       <description/>
       <pubDate>Fri, 12 Dec 2025 02:25:02 +0000</pubDate>
       <content:encoded>정유미 검사장(법무연수원 연구위원)이 12일 정성호 법무부 장관을 상대로 인사명령 처분 취소 청구 소송을 제기한다. 대검검사급(검사장) 보직에 있던 정 검사장이 전날(11일) 검찰 고위 간부 인사에서 대전고검 검사로 강등 발령난 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TQZTFMVRTCZDEGE3TGNBQMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정유미 법무연수원 연구위원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰 안팎에 따르면, 정 검사장은 이날 오후 서울행정법원에 인사명령 처분 취소 청구 소장을 접수할 예정이다. 정 검사장은 향후 소송에서 크게 세 가지 근거를 토대로 이번 인사가 위법하다고 주장할 것으로 알려졌다. &lt;br&gt;&lt;br&gt;첫째는 이번 인사가 대검검사급 이상 검사의 보직 기준을 규정한 ‘대검찰청 검사급 이상의 보직범위에 관한 규정(대통령령)’에 위배된다는 것이다. 검찰청법 28조는 대검검사급 이상 검사의 보직 기준을 대통령령에 위임하고 있는데, 대통령령에서 규정하고 있는 대검검사급 검사의 11개 보직 범위에는 고검 검사가 포함돼 있지 않기 때문이다. 대통령령에 열거된 대검검사급 검사의 보직은 검찰총장, 고검장, 대검 차장, 법무연수원장, 대검 검사, 법무부 기획조정실장, 법무실장, 검찰국장, 범죄예방정책국장, 감찰관, 출입국·외국인정책본부장, 지검장, 사법연수원 부원장, 법무연수원 기획부장, 고검 차장, 법무연수원 연구위원 등이다.&lt;br&gt;&lt;br&gt;둘째는 이번 인사가 검찰청법 30조에도 위배된다는 주장이다. 검찰청법 30조는 고검검사 등의 임용 자격에 대해 ‘28조에 해당하는 검사(대검검사급)를 제외한’이라고 규정하고 있는데, 정 검사장은 대검검사급 검사에 해당돼 별다른 근거 없이 그를 고검 검사로 임용하는 것은 위법하다는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 강등 인사와 관련해 감찰이나 징계 등 근거가 없다는 점도 문제 삼을 것으로 전해졌다. 만약 정 검사장이 징계를 받을 만한 행위를 했다면 정식으로 징계 절차를 밟아야 함에도, 그런 절차 없이 인사를 통해 강등 처분을 한 것은 공무원의 신분 보장 원칙을 위반한 위법한 처분이라는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 이날 “최근 검찰청 폐지, 대장동 사건 항소포기 등 일련의 사태에 대해 의견 표명을 한 바 있고, 이는 국민의 삶에 큰 영향을 미치는 형사사법체계의 대대적인 변화에 대해 공직자로서 우려를 표한 것이고, 검찰의 본질과 기능, 현재와 미래에 대해 법률가이자 검사의 한 사람으로서 의견을 개진한 것”이라며 “자신과 견해가 같지 않은 사람들을 억압하고 박해하는 이런 처분이 반복된다면 결국 모든 사람이 입을 다물고 침묵하게 되고 종국에는 우리의 민주주의가 위험에 처하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>光州 도서관 붕괴사고 피해자 어디에… “지하 2층 매몰 추정만”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/NNVSM65LRZC53EQBSDSHOJTCM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/NNVSM65LRZC53EQBSDSHOJTCM4/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 02:34:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RYD5HMBRLRDJFH3VWC46SSNR4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 광주광역시 서구 광주대표도서관 신축공사 붕괴사고 현장에서 구조대원들이 매몰된 작업자를 찾고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;구조당국이 광주광역시 공공 도서관 신축 공사 붕괴 사고 현장에서 아직 발견되지 않은 피해자 2명을 찾고 있지만, 매몰 지점이 특정되지 않아 수색·구조 작업에 난항을 겪고 있다.&lt;br&gt;&lt;br&gt;광주소방본부는 12일 “사고 현장은 지하 2층까지 완전히 무너진 상태로 매몰자들도 해당 지점에 있을 것으로 추정하고 수색 중”이라고 밝혔다.&lt;br&gt;&lt;br&gt;전날 오후 1시 58분쯤 광주 서구 치평동 옛 상무소각장 부지 광주대표도서관 공사 현장에서 콘크리트 타설 중 2층 지붕이 무너져 작업자 4명이 매몰돼 2명이 숨졌다.&lt;br&gt;&lt;br&gt;나머지 2명은 매몰된 지점이 확인되지 않았다. 소방당국은 앞서 구조 뒤 사망한 작업자 2명 모두 공사 현장 최하단부에서 발견했었다.&lt;br&gt;&lt;br&gt;소방당국은 “공사장 방범 카메라(CCTV)와 공사 관계자들 증언 등 종합해 매몰된 2명도 앞서 구조된 2명과 비슷한 지점에 있을 것으로 보고 있다”고 말했다.&lt;br&gt;&lt;br&gt;매몰자 수색 장기화 우려도 나온다. 소방 관계자는 “콘크리트는 손으로 만지면 부서지는 정도지만 각종 기자재와 철근, 구조물 등이 뒤엉켜 구조대원들이 일일이 절단하면서 수색하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;사고 현장에는 구조견도 투입됐지만, 인명 수색 반응은 감지되지 않은 것으로 전해졌다. 구조당국은 콘크리트 양생을 늦추기 위해 사고 현장에 물을 뿌리면서 구조 작업을 이어갈 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/RYD5HMBRLRDJFH3VWC46SSNR4I.jpg?auth=4747f6b75ad344ebc1d2eaa23ee2e97154152df855144467732816e8320dbb38&amp;smart=true&amp;width=4724&amp;height=3149" type="image/jpeg" height="3149" width="4724">
-        <media:description type="plain">지난 11일 광주광역시 서구 광주대표도서관 신축공사 붕괴사고 현장에서 구조대원들이 매몰된 작업자를 찾고 있다. /김영근 기자</media:description>
-        <media:credit role="author" scheme="urn:ebu">김영근 기자</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>새 국민연금공단 이사장에 김성주 전 의원</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/12/MDH3QFTYAFCHTKV3KWRRT5PNQA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/12/MDH3QFTYAFCHTKV3KWRRT5PNQA/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 01:56:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJSWGMZSGIZDOOJYGE3GEYJSHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성주 신임 국민연금공단 이사장. ⓒ News1 구윤성 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보건복지부는 김성주 전 국회의원이 19대 국민연금공단 이사장으로 내정됐다고 12일 밝혔다.&lt;br&gt;&lt;br&gt;김 신임 이사장은 공단 임원추천위원회의 추천과 복지부 장관의 제청을 거쳐 대통령의 재가를 받아 내정됐다. 임기는 15일부터 시작해 2028년 12월까지 3년간 이사장직을 맡게 된다.&lt;br&gt;&lt;br&gt;신임 이사장은 1964년생으로 서울대에서 국사학을 전공했고, 19대와 21대 국회의원으로 보건복지위원회에서 활동했다. 그는 2017년 11월부터 2020년 1월까지 16대 이사장을 역임하기도 했다. 이재명 정부 들어서는 국정기획위원회 국정기획분과 자문위원을 지냈다.&lt;br&gt;&lt;br&gt;복지부는 “신임 이사장이 국민연금 정책에 대한 전문성과 경험을 바탕으로 향후 연금 개혁과 연금공단 발전에 필요한 역량과 리더십을 발휘해 줄 것으로 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동부지검 경고에도... 백해룡, 검찰 수사기록 공개</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/12/3XMXG7V5Z5F55DF5PFG2WDBASQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/12/3XMXG7V5Z5F55DF5PFG2WDBASQ/</guid>
-      <dc:creator>강지은 기자, 김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 01:27:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTANTEMUYWENJVMQZTIMRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백해룡 경정이 지난 10월 27일 서울 여의도 국회에서 열린 법제사법위원회 대검찰청 등에 대한 국정감사에 출석해 의원 질의에 답변하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약 수사 외압’ 의혹을 수사 중인 서울동부지검 합동수사단(합수단)에 파견된 백해룡 경정이 12일 검찰 수사 기록을 공개했다. 동부지검은 “명백한 공보 규칙 위반“이라고 했다.&lt;br&gt;&lt;br&gt;이날 백 경정은 ‘2023년 대한민국 하늘 국경 공항은 뚫린 것이 아닌 열어줬다는 것’이라는 제목의 A4용지 18장 분량 보도 자료를 언론에 공개했다. 이 자료엔 말레이시아 마약 운반책들이 2023년 2월 인천공항과 김해공항에서 인천지검·중앙지검에 검거됐을 당시 찍힌 사진과 적발 보고서 등 검찰 수사 기록이 포함됐다. 동부지검 관계자는 “백 경정에게 검찰 수사 기록을 제공할 때 ‘절대 외부에 공개해선 안 된다’고 경고했었다”며 “공보 규칙 위반”이라고 했다. 동부지검은 지난 10일 이미 한 차례 경찰청에 “백 경정을 엄중히 조치해달라”는 취지의 공문을 보냈다.&lt;br&gt;&lt;br&gt;검경 합수팀은 지난 9일 백 경정 의혹이 “사실무근”이라는 수사 결과를 발표했다. 세관 직원이 마약 밀수를 도왔다는 운반책들의 진술이 허위였고, 백 경정 수사에 경찰·관세청 지휘부가 외압을 행사한 사실도 없었다는 것이다. 그러나 백 경정은 이날 “검찰이 말레이시아 운반책이 국내로 필로폰을 밀수입하는 데 세관이 가담한 정황을 확인하고 인지하고도 더 이상 수사를 하지 않고 방조한 정황을 곳곳에서 확인했다”는 주장을 되풀이했다. 2023년 영등포서 재직 당시 수사 과정을 다시 내세웠을 뿐 검경 합수팀 수사 결과를 반박할 만한 새로운 증거는 제시하지 않았다.&lt;br&gt;&lt;br&gt;또 백 경정은 “통신 자료 요청에 대한 결재가 나지 않아 수사를 진행하지 못하고 있다”고 했다. 통상 검경은 수사 시 필요한 인적 정보를 확보하기 위해 통신사에 가입자 정보를 요청한다. 이를 위해선 기관장 등의 승인이 필요하다. 경찰청이 “파견된 기관(동부지검)에서 승인을 받으라”며 결재를 거부해 통신 자료를 확보할 수 없다는 게 백 경정 주장이다. 그러나 동부지검 관계자는 “합수단 측에는 그에 관해 문의조차 하지 않았다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“수산시장 가면 진짜인 줄 알 듯”... 기부하고 받은 전복 쿠션 화제</title>
@@ -982,15 +987,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/DGAPZ772VVC7ZLX6GG6ATZCWRU.jpg?auth=3134c3b98e331be23c7ca972a862e29e273bf9b29a628193ac1ff43dfc4b32d1&amp;smart=true&amp;width=3913&amp;height=2116" type="image/jpeg" height="2116" width="3913">
         <media:description type="plain">하와이 고등학교/윤상진 기자</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>“사랑의교회, 도로 원상 복구 안 해도 된다” 항소심 승소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/11/I5SOZUD2HNAXRCL5SITMTKZALE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/11/I5SOZUD2HNAXRCL5SITMTKZALE/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 11 Dec 2025 08:47:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZGGZRYMUZTCMBTHA2GGZDGG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 사랑의 교회. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;예배당을 새로 지으면서 도로 지하를 쓰기 위해 구청 허가를 받았다가 법원 판결로 취소됐던 사랑의교회가 원상 복구를 안해도 된다는 항소심 판결이 11일 나왔다.&lt;br&gt;&lt;br&gt;서울고법 행정7부(재판장 구회근)는 이날 서울 서초구 대형 교회인 사랑의교회가 서초구를 상대로 낸 원상회복 명령 취소 소송 항소심에서 사랑의교회 패소로 판결한 1심을 뒤집고 “서초구의 원상회복 명령을 취소한다”고 판결했다.&lt;br&gt;&lt;br&gt;이 소송은 지난 2010년 사랑의교회가 서초역 인근에 새 건물을 올리면서 시작됐다. 사랑의교회는 서초구에 도로 지하 공간을 사용할 수 있게 해달라고 신청했고 서초구는 건물 일부를 어린이집으로 기부채납 받는 등 조건으로 도로 지하 1077㎡를 쓰도록 ‘도로점용 허가’를 내줬다. 사랑의교회는 이 공간에 대강당과 주차장, 창고 등을 만들었다.&lt;br&gt;&lt;br&gt;그러자 서초구민 일부가 부당한 특혜라고 주장하면서 2011년 서울시에 감사를 청구했다. 서울시는 감사 결과 도로점용 허가 처분을 시정하라고 했지만 서초구가 받아들이지 않았고, 주민들은 2012년 “서초구가 내준 도로점용과 건축 허가를 취소해달라”며 주민소송을 냈다. &lt;br&gt;&lt;br&gt;주민소송 1·2심은 “도로점용이나 건축 허가 처분은 재산적 가치가 있는 물건이나 권리에 해당한다고 볼 수 없어 주민소송 대상이 아니다”라며 각하했다. 그러나 대법원은 2016년 “도로점용 허가는 주민소송 대상이 된다”는 취지로 파기환송했고 이후 파기환송심을 거쳐 2019년 재상고심에서 서초구의 도로점용 허가가 위법이라는 판결이 확정됐다. 서초구청은 대법원 판결에 따라 2020년 사랑의교회 측에 원상회복하라는 명령을 내렸다. 도로법상 도로점용허가가 취소되면, 원상 복구가 불가능하거나 부적당한 경우를 제외하고는 원상 복구를 해야 한다.&lt;br&gt;&lt;br&gt;앞서 작년 3월 1심은 서초구의 원상회복 명령에 문제가 없다며 사랑의교회 패소로 판결했다. 그러나 이날 2심 재판부는 “원상 복구가 부적당한 경우”라고 판단했다. 감정 결과 원상 복구를 위한 굴착 공사 과정에서 지반 침하 위험이 있고, 인근 노후 상하수도관이 파손 등으로 싱크홀이 생길 수 있다는 의견이 나왔기 때문이다. 또, 원상 복구를 하려면 사랑의교회 건물 지하 1~8층의 대강당·주차장·정화조 등 시설과 구조물을 철거해야 하는데 건물 하중을 지지하는 핵심 부재인 지하외벽 등을 철거하면 건물 안정성에도 문제가 생긴다는 의견도 제기됐다.&lt;br&gt;&lt;br&gt;재판부는 “이 도로 원상회복에는 최소 1120억3500만원의 비용과 50개월 이상의 공사 기간이 소요되고, 평소 유동 인구가 많은 인근에 장기간 교통 혼잡과 소음·분진 등 심각한 불편을 초래할 것이 예상된다”고 했다. 재판부는 또 “이 사건에서는 도로의 원상회복 기술적 난이도나 구체적인 위험성이 새롭게 인정됐기 때문에 관련 확정 판결의 기속력에 반한다고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
