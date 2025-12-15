@@ -6,14 +6,54 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
-			<title>[속보] 법원, 노상원 전 정보사령관에 징역 2년 선고 … 내란 특검 첫 결과</title>
-			<description>&lt;p style="text-align: center; "&gt;   &lt;br /&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214177.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;br /&gt;&lt;/p&gt;&lt;br /&gt;</description>
-			<pubDate>Mon, 15 Dec 2025 06:10:57 -0000</pubDate>
+			<title>부산변회, '사랑의열매 희망 2026 나눔캠페인' 참여···성금 1000만 원 전달</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214184.jpg" alt="2.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12월 11일 부산 연제구 거제동 부산지방변호사회관 중회의실에서 성금 전달식을 진행한 뒤 기념촬영을 하고 있는 김용민 부산지방변호사회장(왼쪽). 《사진=부산변회》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;부산지방변호사회(회장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2751"&gt;김용민&lt;/span&gt;)가 12월 11일 부산 연제구 거제동 부산지방변호사회관 중회의실에서 연제구 거제1동 행정복지센터에 성금 1000만 원을 전달했다.&lt;br /&gt;&lt;br /&gt;이번 성금 전달식은 '사랑의열매 희망 2026 나눔캠페인'에 동참하기 위해 진행됐다. 성금은 지역 내 소외계층과 취약계층의 생계 지원과 복지 증진을 위해 사용될 예정이다.&lt;br /&gt;&lt;br /&gt;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2751"&gt;김용민&amp;nbsp;&lt;/span&gt;부산지방변호사회장은 "이번 나눔이 희망의 불빛이 되길 바란다"며 "부산변회는 앞으로도 지역사회의 울타리가 될 수 있도록 최선을 다하겠다"고 말했다.</description>
+			<pubDate>Mon, 15 Dec 2025 11:20:43 -0000</pubDate>
 			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214177</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214177</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214177.jpg</media:thumbnail>
+			<link>https://www.lawtimes.co.kr/news/214184</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214184</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214184.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>포항지청, 포항범방과 청소년 범죄 예방 교육···박진우 검사 강연</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214183.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12월 15일 경북 포항시 남구 지곡동 포항제철고에서 진행된 '청소년 준법 강의 및 학교폭력 예방 교육' 참석자들이 단체사진을 촬영하고 있다. 《사진=포항범방》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대구지검 포항지청(지청장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13256"&gt;최나영&lt;/span&gt;)과 범죄예방 포항지역협의회(회장 나주영)가 12월 15일 경북 포항시 남구 지곡동 포항제철고에서 1·2학년 학생 540여 명을 대상으로 '청소년 준법 강의 및 학교폭력 예방 교육'을 진행했다.&lt;br /&gt;&lt;br /&gt;이날&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="39119"&gt;박진우&lt;/span&gt;(변호사시험 10회) 대구지검 포항지청 검사가 강사로 초청돼 교육을 이끌었다. 박 검사는 강연을 통해 범죄 의식 개선과 경각심 고취 등 선제 대응의 중요성을 강조했다. &lt;br /&gt;&lt;br /&gt;그는 "학교폭력 예방을 위해 함께 노력해야 한다"며 "청소년들이 소중한 꿈과 미래를 위해 범죄를 저지르지 않길 바란다"고 말했다.</description>
+			<pubDate>Mon, 15 Dec 2025 11:19:54 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214183</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214183</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214183.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
+		</item>
+		<item>
+			<title>사단법인 온율, 제13회 성년후견세미나···'정신질환자 공공후견활동지원사업' 성과 점검</title>
+			<description>&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214176.jpg" alt="1.jpg" style="opacity: 0;" height="10px" /&gt;&lt;/p&gt;사단법인 온율(이사장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;)이 12월 16일 오후 2시 서울 성동구 성수동1가 헤이그라운드 성수시작점 지하 1층 브릭스에서 사회복지법인 한울정신건강복지재단, 사단법인 한국정신건강전문요원협회와 ‘제13회 온율 성년후견세미나’를 연다. 이번 세미나는 보건복지부 등이 후원한다.&lt;br /&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;세미나에서는 시범사업으로 운영 중인 ‘정신질환자 공공후견활동지원사업’의 성과를 점검하고, 2026년 본격적인 사업 시행을 앞두고 사업의 개선 과제를 논의한다. &lt;br /&gt;&lt;br /&gt;아울러 지역사회 정신질환자에게 맞춤형 후견 서비스를 제공하기 위한 ‘지역 중심 후견법인 발굴 및 양성 방안’을 주요 의제로 다룬다. 이를 통해 정신질환자의 자기결정권 실현과 자립 지원을 강화할 수 있는 방안을 모색할 예정이다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;정신질환자 공공후견활동지원사업은 2017년 정신건강복지법 시행 이후 무연고 중증 정신질환자의 후견인 선임 필요성에 따라 시작됐다. 2025년부터는 지역사회 정신질환자를 대상으로 확대 운영되고 있으며, 2026년 1월 2일 본사업 시행을 앞두고 있다.&lt;br /&gt;&amp;nbsp;&lt;br /&gt;온율은 2021년부터 사업 참여 법인 자문과 보건복지부 연구용역 수행 등을 통해 사업 발전에 기여해 왔으며, 2025~2026년 정신질환자 공공후견활동지원단 운영을 맡고 있다.&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214176.jpg" alt="2.jpg" /&gt;&lt;/p&gt;   &amp;nbsp;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Mon, 15 Dec 2025 07:34:33 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214176</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214176</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214176.jpg</media:thumbnail>
+			<dc:creator>서하연 기자</dc:creator>
+		</item>
+		<item>
+			<title>법원, 노상원 전 정보사령관에 징역 2년 선고 … 내란 특검 첫 결과</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214180.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;노상원 전 국군정보사령관. 《사진=연합뉴스》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;12·3 비상계엄 사태 당시 중앙선거관리위원회 수사를 맡을 별동 조직 '제2수사단'을 결성하고 군사정보를 불법으로 빼돌린 혐의를 받는 노상원 전 국군 정보사령관이 1심에서 징역 2년을 선고받았다. 12·3 비상계엄 관련 내란·외환을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="6160"&gt;조은석&amp;nbsp;&lt;/span&gt;특별검사팀(내란 특검팀) 기소 사건 중 첫 선고 결과다.&lt;br /&gt;&lt;br /&gt;서울중앙지법 형사21부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7739"&gt;이현복&amp;nbsp;&lt;/span&gt;부장판사)는 12월 15일 오후 개인정보보호법 위반, 특정범죄 가중처벌 등에 관한 법률 위반(알선수재) 등 혐의를 받는 노 전 사령관에 대한 1심 선고 기일을 열고 징역 2년의 실형을 선고했다. 추징금 2490만 원도 함께 명령했다(&lt;b&gt;2025고합901&lt;/b&gt;).&lt;br /&gt;&lt;br /&gt;이날 재판부는 선고 절차에 들어가기 전에 "이 사건은 작년 계엄 사태 이후 구성된 특검이 수사기소 한 사건 중 첫 번째 선고로, 수사 개시 이전 단계부터 전 국민의 관심을 받으면서 수사 하나하나 언론 보도된 사건"이라며 "그런 면에서 재판부는 이 사건의 공판 초기부터 어느 한쪽에 치우치거나 예단을 가지지 않고 법원의 중립 자세를 유지하기 위해 나름 노력했고, 사실인정 하나하나와 법률 판단 하나하나를 숙고하고 거듭해 오늘 최종 선고에 이르게 됐다"라고 설명했다.&lt;br /&gt;&lt;br /&gt;재판부는 공소사실에 대해 전부 유죄로 판단했다. 재판부는 "노 전 사령관은 민간인 지위에 있으면서도 현역 국방부 장관 군인 인사권자의 개인적인 관계를 내세워 절박한 심정인 후배 군인들의 인사에 관여하려고 시도했다"며 "계엄 상황 염두에 둔 준비행위로 수사단을 구성하면서 인사에 대해 도움받던 후배 군인들까지 주요 역할을 수행하도록 끌어들인 범행을 저질렀다"라고 설명했다.&lt;br /&gt;&lt;br /&gt;이어 "노 전 사령관의 범행은 아무런 실체적 요건을 갖추지 못한 계엄이 선포 단계까지 이를 수 있도록 하는 동력 중 하나가 됐다"며 "그로 인해 단순히 개인정보보호법 위반이나특정범죄 가중처벌 등에 관한 법률 위반 알선수재 범행의 죄책만으로 평가할 수 없는 위헌, 위법 비상계엄 선포라는 중대하고 엄중한 결과 야기했다"고 전했다. 노 전 사령관에게 엄중한 책임을 묻지 않을 수 없다는 설명도 덧붙였다.&lt;br /&gt;&lt;br /&gt;앞서 내란 특검팀은 11월 17일 노 전 사령관의 결심공판에서 징역 3년을 선고하고 2490만 원을 추징해달라고 재판부에 요청했다.&lt;br /&gt;&lt;br /&gt;노 전 사령관은 민간인 신분이던 2024년 11월 부정선거 의혹을 수사할 '2수사단'을 구성하기 위해 문상호 전 정보사령관으로부터 정보사 소속 요원들에 대한 인적 정보 등 군사정보를 건네받은 혐의를 받는다. 같은 해 진급 청탁 명목으로 김봉규 정보사 대령과 구삼회 전 육군 2기갑여단장으로부터 2600만 원 상당 금품을 받은 혐의도 있다.</description>
+			<pubDate>Mon, 15 Dec 2025 07:32:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214180</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214180</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214180.jpg</media:thumbnail>
 			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
+			<title>제주범방, '2025 한마음대회 및 송년의 밤'</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214178.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;정수진(오른쪽에서 세 번째) 제주지검장을 비롯한 행사 참석자들이 12월 10일 제주 제주시 오등동에서 열린 '2025 범죄예방을 위한 한마음대회 및 송년의 밤'에서 국민의례를 하고 있다. 《사진=제주범방》&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;법무부 청소년범죄예방위원 제주지역협의회(회장 고영두)가 12월 10일 제주 제주시 오등동에서 '2025 범죄예방을 위한 한마음대회 및 송년의 밤'을 열었다.&lt;br /&gt;&lt;br /&gt;대회에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="10217"&gt;정수진&lt;/span&gt;(사법연수원 33기) 제주지검장, 도내 유관기관장, 청소년범죄예방위원 등 총 250여 명이 참석했다. &lt;br /&gt;&lt;br /&gt;이날 유공위원 표창 전달식과 모범학생 장학금 전달식이 진행됐다. 장학금은 '학교폭력 STOP 즐겁고 건강한 학교 만들기 결연학교'로 선정된 도련초, 제주서중, 남녕고 학생 10명이 받았다. &lt;br /&gt;&lt;br /&gt;이어 '모범선도 사례 체험 수기공모전', '청소년범죄예방위원 모범선도 사례 수기공모전' 수상자들의 범죄예방활동 및 모범선도 사레 발표도 진행됐다.</description>
+			<pubDate>Mon, 15 Dec 2025 07:30:00 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214178</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214178</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214178.jpg</media:thumbnail>
+			<dc:creator>한민아 기자</dc:creator>
 		</item>
 		<item>
 			<title>[신간소식] 전대규 전 서울회생법원 부장판사, '채무자회생법' 제10판 출간</title>
@@ -194,46 +234,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214086</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214086.jpg</media:thumbnail>
 			<dc:creator>박수연 기자</dc:creator>
-		</item>
-		<item>
-			<title>"대법관 증원은 합리적인 대안" - 여연심 민변 사법센터 법원개혁소위원장</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214100.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;여연심 민변 사법센터 법원개혁소위원장 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상고제도 개편은 사실심 강화를 병행하며 현재의 제도를 최소한도로 변경하는 방식으로 점진적으로 이뤄져야 한다. 본격적인 개편을 위해선 대법원 심판의 현황을 투명하게 공개하며 국민을 설득하는 과정이 필수적이다. 법률 전문가뿐 아니라 비법조인이 참여해 상고심 과부하의 실태와 상고제한 필요성 여부에 대해 심도 있게 숙의해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상고 사건 증가와 적체로 상고제도 개편안 논의는 있어 왔지만 제기됐던 개편안은 변호사단체나 시민단체, 정치권의 지지를 받지 못했다. 현재의 제도가 장기간 지속되면서 나름의 균형을 찾아 심각한 제도적 문제 없이 운영되어 왔다는 점을 고려하면, 대법관 증원은 상고심 적체 문제나 과다한 심리불속행 판결 문제를 해결하기 위한 합리적인 대안이라고 평가할 수 있다. 본안 사건을 기준으로 3만6000건이라고 할 때 소부 합의가 월 2회 이뤄지는 점을 고려하면 1개 사건 처리에 1분이라는 결론이 나온다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관 증원은 상고심 과부하 상태를 해소하고 국민의 재판받을 권리를 실질적으로 보장하기 위한 방안이다. 그러나 종착점은 아니다. 증원을 통한 여력을 바탕으로, 대법원이 법령 해석의 통일성과 정책 법원의 기능을 충실히 수행할 수 있도록 개편 논의는 신뢰를 얻는 방식으로 지속해야 한다. 대법관이 두배로 증원된다고 하더라도 현재의 상고심 재판구조가 근본적으로 바뀐다고 보기는 어렵다. 증원하더라도 속도를 적절히 조절하고 계속적으로 영향을 검증하고 점검하는 방안으로 추진하는 것이 타당하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관 증원보다 하급심(사실심)을 충실화하는 것이 우선이라는 것은 옳은 주장이고 사법개혁의 방향성이 돼야 한다. 그러나 구체적인 제안이나 방향이 희박하다. 법관 증원과 처우 개선, 집중변론제도 등 변론제도 개선 등이 논의돼야 하나 예산과 장기간의 제도적 노력이 필요하다. 장기적인 개혁을 기다리는 동안 상고심 과부하 상태를 유지할 수는 없다. 대법관 증원안은 상고심이 안고 있는 구조적 문제를 해결하기 위한 단기적이고 현실적인 대응책으로서 상당한 타당성이 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2025년 5월 1일 이재명 당시 대선 후보에 대한 이례적으로 신속한 전원합의체 판결 등이 원인이 돼 사법개혁 필요성이 제기됐고 대법관 증원 논의에 불이 불었다. 정치권에서 있었던 대법관 증원 논의는 사법제도 개혁을 위한 것이라기보다는 정치적인 이해관계에 따른 것이라는 점은 분명해 보인다. 정치권은 대법관 증원 논의가 코트패킹(Court Packing)에 해당할 수 있다는 비판을 경청할 필요가 있다. 의도가 없더라도, 대법원이 최근 유죄 취지의 파기환송 판결을 했고 재판이 정지된 동안 대법관의 수를 대폭 늘리는 것은 재판의 독립성을 훼손할 위험성이 있다는 지적을 피하기 어렵다. 여당이 증원안을 찬성하는 이유가 사건 적체 해결을 위한 순수한 사법 개혁 목적임을 명확히 하고, 증원 과정(단계적 증원, 객관적 검증)을 투명하고 공정하게 진행함으로써 정치적 오해와 비판을 해소해야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박성동 기자&amp;nbsp; &amp;nbsp;dong@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;김지수 기자&amp;nbsp; &amp;nbsp;jskim@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 12 Dec 2025 20:17:34 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214100</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214100</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214100.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>"증원해도 1분 합의→2분될 뿐" - 이재묵 한국외대 정치외교학과 교수</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214101.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;이재묵 한국외대 정치외교학과 교수 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;사법부는 비선출 권력이지만 대통령제 민주주의의 권력 분립 구조에서 핵심적 위치와 위상을 차지한다. 사법 신뢰가 약해지면 자연스럽게 입법부(국회)와 정당이 사법개혁을 주도하려는 압력이 커지고, 이는 사법부 독립성 훼손 논란을 불러와 정치화된 사법개혁이라는 또 다른 문제를 초래해 근본적 문제 해결은 더 어려워진다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;상고제도 개선이 전체 심급 구조의 개편과 분리될 수 없어 상고제도 개편은 상급심에 대한 개혁에만 초점을 둘 것이 아니라 하급심을 포함한 사법제도 전반에 대한 총체적 재설계에 초점을 맞추어야 한다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법원 과부하 문제는 단순 인원 수 증가로 해결할 수 없다. 대법원의 ‘1분 재판’은 사건 폭증, 하급심 충실 심리 부족, 심리불속행 남용, 재판연구관 중심 운영 등에 따른 구조적 문제의 결과다. 구조가 그대로인 상태에서 단순 증원은 대법관 1인당 사건 검토 시간이 ‘1→2분’으로 늘어나는 것에 불과하다. 병목의 원인은 ‘사람 수’가 아니라 ‘상고 구조’에 있다. 중장기적 구조 개편 없이 증원만으로는 대법원의 공익적 기능 회복을 기대하기 어렵다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관의 대규모 증원으로 소부 확대·연합부 도입이 이뤄져 전원합의체가 더 열리기 어려워지면, 대법원 판례의 통일성이 약화되고 판결의 상징적 권위 역시 저하될 수 있다. 최고법원으로서 대법원이 수행해 온 견제·균형 기능을 약화시키는 결과로 이어질 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;특정 정권 시기와 맞물린 최고법원 조직에 대한 ‘급격한 증원’은 다수 국민과 반대 정파 사람들의 코트패킹(Court Packing) 의심을 강화해 사법 독립성과 제도 신뢰를 훼손시킬 수 있다. 대법관을 한 번에 12명 추가하는 것은 구조 개편이 아니라 지형 변경에 가깝다. 사법부 독립성 이미지를 훼손해 신뢰 하락, 인사권을 가진 행정부·국회와의 정치적 긴장 증폭, 대법원 판결의 정당성 자체가 ‘정치적 배경’으로 의심받게 될 우려가 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대법관 인적 다양성 확대는 헌정적·민주적 가치지만, ‘증원 시기·규모·절차’가 특정 정치적 맥락에서 추진될 경우 의미가 왜곡될 위험이 있다. 실제 목적과 무관하게 정치적 포장(Political Packaging)으로 의심받게 될 수 있어서다. 구성 확대가 특정 정파의 영향력 강화로 비쳐질 경우, 사법부의 중립성을 강화하기보다 사법부를 정치경쟁의 장으로 끌어들여 신뢰를 훼손할 수 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;《어떻게 민주주의는 무너지는가 (How Democracies Die)》&lt;/b&gt;에서 민주주의 퇴행의 위험을 경고한 스티븐 레비츠키(Steven Levitsky)와 다니엘 지블랫(Daniel Ziblatt)은 퇴행의 주요 징후로 선출된 지도자에 의한 사법부 길들이기를 거론했다. 이를 벗어나기 위해선 △초당적 합의(증원 규모와 시기에 대해 여야 간의 충분하고 진정한 정치적 합의) △사법부와의 협의(대법원 자체의 의견과 법원의 독립성을 존중하는 방식으로 개혁안을 설계) △인선 과정의 투명성(증원될 대법관의 인선 과정이 철저하게 투명하고 정치적 고려가 배제되어야 하며, 인적 다양성 확보에 초점) 등 정치적 조건이 필요하다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;박성동 기자&amp;nbsp; &amp;nbsp;dong@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;김지수 기자&amp;nbsp; &amp;nbsp;jskim@lawtimes.co.kr&lt;/b&gt;&lt;/p&gt;</description>
-			<pubDate>Fri, 12 Dec 2025 20:17:32 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214101</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214101</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214101.jpg</media:thumbnail>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>[그림 소풍] 복마중 no 13.</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214054.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;신미경&lt;/b&gt;&amp;nbsp; 복마중&amp;nbsp; no 13.&lt;br /&gt;80cm×100cm. acrlyic ink on embossed wood panel, swarovski 2025&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="text-align: left;"&gt;목판 위에 새기는 행복&lt;/p&gt;&lt;p style="text-align: left;"&gt;나는 복을 그린다. 그리고 복을 새긴다. 내가 새기는 복은 상징이 아니라 시간의 결이다.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;한 장의 나무판 위에 호랑이의 눈을 새길 때, 나는 용기의 복을 새기고,&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;토끼의 귀를 따라 선을 긋는 순간에는 부드러움의 복을 그린다.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;말의 갈기를 파낼 때는 나아감의 기운을,&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;모란의 잎사귀에 색을 얹을 때는 부귀의 염원을 담는다.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;한 칼, 한 색이 더해질 때마다 복은 이미지가 아닌 의식의 형태로 쌓여간다.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;목판의 선은 나의 마음이 지난 흔적이며, 그 위의 색은 세상과 나를 잇는 빛의 언어이다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;옛 사람들은 ‘수’와 ‘복’을 반복해 백 가지 복을 염원했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;그 정신이 오늘, 나의 손끝에서 다시 깨어난다. 호랑이, 새, 말, 토끼 - 저마다 다른 복의 이야기를 품고, 한 점 한 점은 흩어진 복을 모으는 여정이 된다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;복은 주어지는 것이 아니라, 발견하고 새기며 쌓아 올리는 것이다.&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;나의 작업은 그 복을 새기는 여정이며, 목판 위에 남은 시간의 흔적이자,&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;겹겹이 쌓인 행복의 결이다.&lt;/p&gt;</description>
-			<pubDate>Fri, 12 Dec 2025 20:09:40 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214054</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214054</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214054.jpg</media:thumbnail>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>워너브라더스 인수 '로펌 삼국지'</title>
-			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214106.jpg" alt="123.jpg" /&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;왁텔(워너브라더스 디스커버리)의 최종 상대는 스캐든(넷플릭스)일까 레이텀&amp;왓킨스(파라마운트 스카이댄스)일까.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;‘워너브라더스 인수전’이 쟁쟁한 글로벌 로펌들의 대리전으로도 화제다. 미디어 업계 역사상 최대 규모의 인수·합병(M&amp;A)으로 기록될 이번 거래에 먼저 포문을 연 쪽은 넷플릭스다. 720억 달러의 인수가를 제시한 넷플릭스의 법률 대리인은 스캐든(Skadden, Arps, Slate, Meagher &amp; Flom)이다. 스캐든은 미국의 법률 전문 매체 ‘Law.com’이 발표하는 ‘2025 Global 200’에서 매출 기준으로 5위에 오른 로펌이다. 2024년 기준으로 36억 달러의 매출을 올렸고, 변호사 1인당 매출도 200만 달러가 넘는다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;파라마운트는 넷플릭스에 맞서 인수가 1084억 달러를 제시하며 적대적 M&amp;A에 나섰다. 파라마운트 진영은 레이텀&amp;왓킨스(Latham &amp; Watkins)가 이끈다. 레이텀&amp;왓킨스는 스캐든보다 더 덩치가 크다. 2024년 70억 달러의 매출로 전 세계 2위에 올랐고, 변호사 1인당 매출도 195만 달러를 기록했다. 두 달 전 파라마운트에 최고법무책임자(Chief Legal Officer)로 합류한 마칸 델라힘(Makan Delrahim)도 레이텀&amp;왓킨스 파트너 변호사 출신이다. 퀸 엠마누엘(Quinn Emanuel Urquhart &amp; Sullivan)과 전통의 강호 크라바스(Cravath, Swaine &amp; Moore)도 파라마운트 진영에 힘을 보태고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;매물로 나왔지만, 워너브라더스도 호락호락하지 않다. 법률 대리인으로 왁텔(Wachtell, Lipton, Rosen &amp; Katz)을 내세웠다. 왁텔은 로펌 매출로만 보면 약 12억 달러로 스캐든이나 레이텀&amp;왓킨스에 미치지는 못하지만, 변호사 1인당 매출을 보면 450만 달러 수준으로 덩치 큰 두 로펌에 비해 두 배 이상의 생산성을 보여 준다. 뉴욕에서는 ‘로펌을 경영하려면 왁텔처럼 하라’는 말도 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;   &lt;b&gt;&lt;a href="https://www.law-lin.com/" target="_blank"&gt;법무법인 린&lt;/a&gt;&lt;/b&gt;의 주우혁 미국 변호사는 “워너브라더스 인수처럼 관심이 쏠리는 큰 기업의 M&amp;A는 풍부한 자본과 탄탄한 인력 구조를 갖춘 대형 로펌이 맡는다”며 “이런 거래는 방대한 재무·회계 자료, 소송 기록을 검토해야 하므로 그에 상응하는 인력 지원이 필수적”이라고 말했다. 주 미국 변호사는 “M&amp;A가 성사된 이후에는 내부 직원들의 처우 등을 둘러싼 새로운 소송들이 뒤따르기 마련”이라며 “사후적 소송을 예방하고 함께 처리할 수 있도록 다양한 분야에 뛰어난 전문성을 보유한 대형 로펌이 대리인으로 선호된다”고 했다. 그는 델라힘의 사례와 같은 인적 네트워크, 기존 수임 사건과의 이해관계 충돌 여부, 가격 경쟁력 등이 로펌 선정에 영향을 미쳤을 것이라는 분석도 내놨다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;워너브라더스 인수에 도널드 트럼프 미국 대통령의 입김이 들어갈지도 주목된다. 앞서 트럼프 대통령은 한 시상식에서 “넷플릭스가 워너브러더스를 인수하면 시장 점유율이 높아지고, 이는 문제가 될 수 있다”고 말한 바 있다. 워너브라더스는 케이블 뉴스 방송사 CNN의 모기업이기도 한데, 트럼프 대통령은 진보 성향으로 분류되는 CNN에 대한 비판적 견해를 갖고 있다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;트럼프 대통령의 맏사위 재러드 쿠슈너가 이끄는 어피니티 파트너스는 파라마운트가 이번 거래에 필요한 자산에 비의결권 투자자로 참여하고 있다는 점도 트럼프가(家)의 직간접적인 개입이 주목되는 이유다. 파라마운트가 워너브러더스를 인수하게 되면 트럼프 대통령 가족이 지분을 갖게 되기 때문이다. 트럼프 대통령은 12월 8일 “워너브러더스 거래와 관련해 쿠슈너(사위)와 별도로 대화를 나눈 적 없다”며 “넷플릭스도 파라마운트도 내 친구는 아니다”라고 선을 그은 바 있다.&lt;/p&gt;</description>
-			<pubDate>Fri, 12 Dec 2025 20:09:37 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214106</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214106</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214106.jpg</media:thumbnail>
-			<dc:creator>김지수 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
