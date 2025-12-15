@@ -13,6 +13,137 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 12월 16일 화요일 (음력 10월 27일 己未) </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
+		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
+멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
+		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
+		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>국가유공자 논란 ‘박진경 대령’ 추도비 옆 ‘바로 세운 진실’ 안내판 설치됐다</title>
+      <link>https://www.chosun.com/national/regional/2025/12/15/USAJM6LDVBEDLBRO54T3RVVMFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/USAJM6LDVBEDLBRO54T3RVVMFE/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 07:26:43 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2SXVBYWLBF5HAG6QJMUMQ64CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 등이 15일 박진경 대령 추도비 옆에 설치한 '바로 세운 진실' 안내판./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도와 제주4·3평화재단, 제주4·3희생자유족회는 15일 제주시 산록도로 한울공원 인근 도로변에 있는 고(故) 박진경 대령 추도비 옆에 ‘바로 세운 진실’ 안내판을 설치했다.&lt;br&gt;&lt;br&gt;제주도는 정부의 ‘제주4·3사건 진상조사보고서’ 등을 토대로 객관적 사실에 근거해 박진경 대령과 제주4·3의 역사적 사실을 바로 알리기 위해 안내판을 설치했다고 밝혔다.&lt;br&gt;&lt;br&gt;안내판에는 1945년 8월 광복 이후 정세와 1947년 3월 관덕정 경찰 발포 사건, 1948년 4월 무장봉기 등 시대 상황과 함께 1948년 5월 제주도에 들어온 박진경 대령의 약 40일간 행적, 박 대령을 암살한 문상길 중위와 손선호 하사의 이야기가 담겼다. &lt;br&gt;&lt;br&gt;박진경 대령은 제주에 주둔하던 9연대장으로 부임한 뒤 1948년 6월 18일 대령 진급 축하연을 마치고 숙소에서 잠을 자던 중 부하들에게 암살당했다.&lt;br&gt;&lt;br&gt;그에게 국가보훈부가 국가유공자 증서를 발급한 사실이 지난 10일 전해지자 제주 4·3희생자 유족 등은 양민 학살 책임자를 국가유공자로 인정했다고 반발했다.&lt;br&gt;&lt;br&gt;권오을 국가보훈부 장관이 지난 11일 제주를 방문해 사과했고, 15일에는 이재명 대통령이 국가보훈부에 박 대령에 대한 국가유공자 지정 취소를 검토하라고 지시했다. 이날 국방부는 박 대령을 국가유공자로 지정한 근거가 되는 무공훈장 서훈에 대한 재검토에 나선다고 밝혔다.&lt;br&gt;&lt;br&gt;제주의 박진경추도비는 애초 1952년 군경원호회 명의로 제주시 구도심 관덕정 경찰국 청사 내에 세워졌다가 1980년대 제주시 충혼묘지로 옮겨졌다. 2022년 제주국립호국원이 개원하면서 현재 한울공원 인근 도로변으로 이전됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희 특검 “尹 피의자 조사 17일에서 20일로 변경”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/15/T2LKZGPFUNCWNLQHN7YXCAZVIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/T2LKZGPFUNCWNLQHN7YXCAZVIU/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 07:30:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDSNJYMJRTIMBXMM4DMOBUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사와 공모한 혐의를 받는 윤석열 전 대통령을 오는 20일 오전 10시에 피의자로 불러 조사한다.&lt;br&gt;&lt;br&gt;김건희 특검은 “변론 준비가 필요하다는 변호인 요청에 따라 윤 전 대통령 소환 조사 일정이 17일에서 20일 오전 10시로 변경됐다”고 15일 밝혔다. &lt;br&gt;&lt;br&gt;특검과 윤 전 대통령 측은 당초 17일로 조사 일정을 합의했지만, 윤 전 대통령 측이 재판 일정으로 주중 조사가 어렵다며 조사일을 미뤄달라고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 김건희 여사와 함께 ‘정치 브로커’ 명태균씨로부터 2억7000여 만원어치 여론조사 결과를 무상으로 받은 혐의(정치자금법 위반), 김상민 전 부장검사로부터 1억4000만원 상당의 이우환 화백의 그림을 받은 혐의(특정범죄가중처벌법상 뇌물)를 받고 있다. 대선 후보였던 2021년 말 토론회에서 김 여사와 관련해 허위 사실을 공표한 혐의(공직선거법 위반)도 있다. &lt;br&gt;&lt;br&gt;이 밖에 특검은 윤 전 대통령을 상대로 김 여사가 2022년 대선 직후 이봉관 서희건설 회장, 이배용 전 국가교육위원장 등으로부터 청탁과 함께 받은 귀금속 등과 관련해 윤 전 대통령이 공모했는지도 확인할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난 7월 2일 수사를 개시한 김건희 특검이 윤 전 대통령을 조사하는 것은 이번이 처음이다. 특검은 7월 말부터 윤 전 대통령을 조사하려 했고, 체포영장까지 발부받아 윤 전 대통령을 강제 구인하려 했지만 윤 전 대통령이 강하게 거부해 조사하지 못했다.&lt;br&gt;&lt;br&gt;김건희 특검은 수사 기한이 오는 28일에 끝나는 만큼 윤 전 대통령에 대한 조사를 가급적 20일 하루에 마무리할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘심정지 발견’ 김성제 의왕시장, 의식 회복…“대화 가능”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/GAIBPFP3RBF23EE2AASX5VYIGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/GAIBPFP3RBF23EE2AASX5VYIGU/</guid>
+      <dc:creator>의왕=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 06:11:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XINSFVWW6XWOEHAC3PWVCGPYIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성제 경기 의왕시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 14일 심정지 상태로 발견돼 병원으로 옮겨져 치료를 받아온 김성제 경기 의왕시장이 하루 만에 의식을 되찾았다.&lt;br&gt;&lt;br&gt;이날 의왕시에 따르면 김 시장은 의식을 회복해 대화가 가능한 상태다. 시 관계자는 “현재 가족과 의사소통이 가능한 정도”라고 했다.&lt;br&gt;&lt;br&gt;김 시장은 전날 오후 4시 9분쯤 의왕시 학의동에 있는 자택 아파트단지 내 골프연습장에서 심정지 상태로 쓰러졌다. 당시 현장에 있던 다른 주민의 빠른 신고로, 119 구급대의 응급조치를 받으며 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;김 시장은 병원서 인공심폐장치인 에크모 시술과 스텐트를 삽입해 혈류를 개선하는 스텐트 삽입 치료 등을 받고 호흡과 맥박을 되찾았다. 그러나 전날까지는 의식은 찾지 못한 상태였다. 이날 오전 눈을 떴지만 의식이 명료한 상태는 아니었다.&lt;br&gt;&lt;br&gt;아직 김 시장에 대한 정밀 검진은 진행 중이다. 의왕시는 “병원측에서 ‘환자의 의식이 명료해 2~3주 이내 회복될 것으로 보인다’고 밝혔다”고 했다. &lt;br&gt;&lt;br&gt;한편, 김 시장은 1960년 전남 보성군 출신으로 제36회 행정고시에 합격한 뒤 국토해양부 과장, 건설교통부 서기관 등을 거쳐 제8·9대 의왕시장을 지냈다. 이후 지난 2022년 국민의힘 소속으로 제8회 전국동시지방선거에 출마해 3선 시장이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>K-패스, 정액권 도입해 환급액 늘려준다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/15/6335XDGVF5AG3D3UBWYWV6F4DU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/15/6335XDGVF5AG3D3UBWYWV6F4DU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 07:06:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4QUI4K7I5MJDPNKF6L3W7YPOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 지하철역에서 시민들이 개찰구를 통과하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통카드 이용료 일부를 환급해 주는 ‘K-패스’의 환급액이 늘어난다. 국토교통부 대도시권광역교통위원회는 K-패스에 정액권 개념을 합한 ‘모두의 카드’를 새로 도입한다고 15일 밝혔다. 미리 규정된 ‘월 기준 금액’을 넘긴 대중교통 요금 초과분을 모두 환급해 준다는 것이다.&lt;br&gt;&lt;br&gt;기존 K-패스는 월 15회 이상 대중교통(시내버스, 지하철, 광역버스, GTX 등)을 이용하는 경우 월 최대 60회까지 지출 금액의 일정 비율(20~53.3%)을 환급받을 수 있는 제도였다. 새롭게 도입되는 ‘모두의 카드’는 미리 마련된 ‘환급 기준 금액(수도권 일반 국민 월 6만2000원)’에 따라, 이를 넘은 초과 사용분은 모두 돌려주는 방식이다. 예컨대 서울에 사는 A씨가 교통카드 11만원어치를 썼다면 그동안은 2만2000원(20%)만 환급받을 수 있었지만, 앞으론 4만8000원(11만원-6만2000원)을 받을 수 있다. &lt;br&gt;&lt;br&gt;환급 기준 금액은 대중교통 인프라 구축 상황 등을 고려해 지역별로 차등 적용된다. 수도권, 일반 지방권, 우대·특별 지원 지역 등으로 나뉘는데 인구가 적은 지역일수록 기준 금액을 낮춰 환급받는 금액이 많도록 설계됐다. 수도권은 일반 6만2000원, 지방권은 5만5000원, 우대 지원 지역은 5만원, 특별 지원 지역은 4만5000원이다. 부산에 사는 B씨가 11만원어치 대중교통을 이용했을 경우엔 앞으로 5만5000원을 받을 수 있는 것이다. 청년, 어르신(65세 이상), 3자녀 이상, 저소득층의 경우 기준 금액이 더 낮아 환급 금액이 늘어난다.&lt;br&gt;&lt;br&gt;카드 종류는 일반형과 플러스형 두 가지로 구분되는데, 일반형은 1회 총 이용 요금(환승 금액 포함)이 3000원 미만인 수단에만 적용되고, 플러스형은 모든 수단에 대해 환급이 적용된다. 대신 플러스형의 환급 기준 금액이 더 높다.&lt;br&gt;&lt;br&gt;이용자는 별도의 카드를 발급받을 필요가 없고 기존의 K-패스 카드를 그대로 사용하면 된다. 국토부 관계자는 “기존의 K-패스 환급액과 새로 적용된 시스템을 통한 환급액 중 환급 혜택이 큰 방식이 자동 적용된다”며 “환급 금액은 K-패스 앱과 홈페이지 등에서 확인할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>2031년 부천 대장~홍대입구 27분이면 간다</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/15/QEX2ERSAA5FURLEB74DW7NFUNA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/15/QEX2ERSAA5FURLEB74DW7NFUNA/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 07:08:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y2TT5TJZ75K3VGMW3XNVRHKJX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 15일 경기도 부천시 오정대공원 축구장에서 열린 대장홍대선 착공 기념식에서 김동연 경기도지사가 축사하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부천 대장지구와 서울 홍대입구역을 잇는 ‘대장홍대선’이 15일 착공(着工)했다. 총사업비 2조1000억원이 투입되는 이 철도가 개통하면 부천 대장지구에서 홍대입구까지 이동 시간은 기존 50분(광역버스)에서 27분으로 절반 가까이 단축된다. 이에 따라 수도권 서부권 교통 체계가 크게 개선될 것으로 전망된다.&lt;br&gt;&lt;br&gt;국토교통부는 15일 부천 오정대공원에서 대장홍대선 광역철도 착공 기념식을 열었다. 부천 대장을 시작으로 부천 원종, 화곡, 가양, 홍대입구 등을 잇는 20㎞ 광역철도 노선인 대장홍대선은 착공 후 72개월간 공사를 진행해 2031년 개통하는 게 목표다. 국토부는 “그동안 철도 교통 소외 지역이었던 부천시 고강동(고강역), 서울 양천구 신월동(신월역), 고양 덕은지구(덕은역) 등에 철도역이 신설된다”고 했다.&lt;br&gt;&lt;br&gt;대장홍대선 착공은 지난 2021년 민자적격성 심사를 통과한 지 4년 만의 일이다. 통상 재정 사업의 예비타당성 조사나, 민자 사업의 민자적격성 심사 통과 후에도 5~6년 가량 걸리는 걸 감안하면 진행 속도가 빠른 편이다.&lt;br&gt;&lt;br&gt;이는 국내 최초로 BTO(수익형 민자 사업)와 BTL(임대형 민자 사업)을 결합한 ‘혼합형 민자 철도’ 사업 방식을 채택했기 때문이란 분석이다. BTO 방식은 민간이 시설을 건설·운영하며 이용료로 수익을 회수하는 구조고, BTL은 건설 후 정부에 임대해 임대료를 받는 식이다. 대장홍대선은 두 구조를 혼합해 정부와 민간(현대건설 컨소시엄) 모두가 재정 부담을 덜도록 설계됐다. 정부와 민간이 함께 자본을 투입해 공동 투자하고 임대 수익도 나눠 갖게 된다. 정부와 민간은 각각 1조원, 1조1000억원을 댔다. 건설업계 관계자는 “앞으로도 혼합형 민자 철도 방식으로 사업을 추진하는 곳이 늘어날 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘부정선거 수사단 선발’ 노상원, 1심 징역 2년</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/15/SSAIT5STMZBB7ITCDHIUEFWSDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/SSAIT5STMZBB7ITCDHIUEFWSDU/</guid>
+      <dc:creator>김은경 기자, 이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 05:54:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW5JMT62T3POAKSYWWRXSLCU3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보 사령관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘부정선거 수사단’을 꾸리기 위해 국군 정보사령부 요원들의 개인정보를 빼낸 혐의로 기소된 노상원(62) 전 정보사령관에게 1심에서 실형이 선고됐다. 조은석 내란 특별검사가 기소한 사건 중 처음 1심 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 이현복)는 이날 노 전 사령관의 개인정보보호법 위반과 알선수재 사건 선고 기일을 열고 징역 2년에 추징금 2490만원을 선고했다. 재판부는 “노씨 범행은 실체적 요건을 갖추지 못한 비상계엄이 선포 단계까지 이르게 하는 동력 중 하나가 됐다”며 “단순히 개인정보보호법 위반이나 알선수재 범행의 죄책을 넘어 위헌·위법한 비상계엄 선포라는 중대하고 엉뚱한 결과를 야기했다는 점에서 엄중한 책임을 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;노씨는 지난해 9~12월 이미 전역한 민간인 신분으로 부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’을 기획하면서 문상호 당시 정보사령관 등에게 정보사 요원 46명의 계급과 출신, 임관년도 등 인적 사항을 요구해 넘겨받은 혐의로 기소됐다. 재판부는 “노씨 범행은 계엄 선포 이전인 2024년 10월 중순 이전부터, 계엄 요건이 충족되는지 여부와 무관하게 특정 시점에 계엄 선포할 것을 계획하고 준비·수행하는 행위의 일환으로 이뤄진 것이라고 판단된다“며 ”이는 위헌적이고 위법한 행위”라고 했다. 다만 재판부는 노씨가 취득한 요원 명단이 노씨 외 군 외부로 유출된 것으로 보이지는 않고, 청탁 알선도 실패한 것으로 그친 점을 양형에 고려했다.&lt;br&gt;&lt;br&gt;노씨는 또 작년 8~10월 김봉규 전 정보사 중앙신문단장(대령)과 구삼회 육군 2기갑여단장(준장)에게 진급을 도와주겠다는 명목으로 현금 2000만원과 백화점상품권 600만원어치를 받은 혐의도 받는다. 이에 대해 재판부는 “김 대령과 구 준장의 진술의 신빙성이 인정되고 진술과 계좌 거래 내역이나 상품권 구매 내역 등 증거가 일치한다”며 “현금 1500만원과 상품권 600만원어치를 받은 사실이 인정되고 각 금품 모두 진급 청탁의 대가성이 인정된다”고 했다. &lt;br&gt;&lt;br&gt;12·3 비상계엄 사태의 ‘비선(祕線) 기획자’로 꼽히는 노씨는 김용현 전 장관 등과 함께 같은 법원 형사25부(재판장 지귀연)에서 내란 혐의로 별도 재판을 받고 있다. 이 재판은 윤석열 전 대통령의 내란 우두머리 사건과 이달 하나로 병합돼 내년 2월쯤 선고가 이뤄질 전망이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제주 반려동물 놀이시설·동물보호센터 문 열었다</title>
+      <link>https://www.chosun.com/national/regional/2025/12/15/YCU2C36IFREIRDKFIJN5G3UNT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/YCU2C36IFREIRDKFIJN5G3UNT4/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 06:53:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSTONTGGM3DQMBWGRTDGNBQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오영훈 제주지사가 15일 제주시 애월읍에 문을 연 제2동물보호센터를 둘러보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주시 애월읍 어음리에 반려동물 놀이공원과 제2동물보호센터가 15일 문을 열었다. &lt;br&gt;&lt;br&gt;놀이공원은 소형견과 대형견이 안전하게 뛰놀 수 있도록 구역을 분리하고 체험·휴식 기능을 강화해 반려 가족이 일상적으로 찾는 여가 공간으로 설계됐다. &lt;br&gt;&lt;br&gt;놀이공원 운영 시간은 한시적으로 수요일을 제외한 평일 오후 2∼4시, 토요일 오전 11시∼오후 1시이다. &lt;br&gt;&lt;br&gt;제2동물보호센터는 보호·재활·입양 기능을 강화한 전문 시설이다. 최대 300마리의 유기동물을 보호할 수 있는 보호실과 진료실·입원실·교육실 등을 갖췄다. 부지면적은 1만2027㎡이며 건축 연면적은 999.59㎡다. &lt;br&gt;&lt;br&gt;제주도는 올해 제2동물보호센터 운영 안정화와 프로그램 확대를 거쳐 내년 공설 동물장묘시설을 인근에 문을 열 예정이다. &lt;br&gt;&lt;br&gt;오영훈 제주지사는 이날 개소식에서 “제주는 반려동물 친화 도시로 꾸준히 나아가고 있다”며 “생애 전 주기를 아우르는 동물복지 체계를 완성할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “유기 동물 보호부터 재활·입양까지 더욱 촘촘하게 연결하고 반려 가족이 일상에서 함께 누릴 수 있는 공공 공간을 지속해 확충해 나가겠다”며 “사람과 동물이 함께 행복한 환경을 만드는 데 책임감을 갖고 적극 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt; 제주도는 ‘사람과 동물이 모두 행복한 반려동물 친화 도시 제주’를 비전으로 2024년 1월 ‘제주도 동물 복지 5개년 종합 계획’을 수립해 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰·노동청, 포스코 본사 합동 압수수색… 가스중독 사고 관련</title>
+      <link>https://www.chosun.com/national/2025/12/15/G74MSTYWXZF5NANK2IMWEWQ2GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/15/G74MSTYWXZF5NANK2IMWEWQ2GA/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 06:52:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTDMNZTG4ZDMYJXGUZWIOBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포스코 포항제철소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코 포항제철소 가스 중독 사고와 관련해 경찰과 노동 당국이 합동 압수 수색에 착수했다.&lt;br&gt;&lt;br&gt;경북경찰청 중대재해수사팀과 고용노동부 포항지청은 15일 오전 9시 10분부터 수사관과 근로감독관 40여 명을 투입해 포스코 포항 본사와 포항제철소 내 관련 공장과 외주 청소업체 사무실 등을 대상으로 동시다발적으로 압수 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;이번 압수 수색은 지난달 20일 포항시 남구 포스코 포항제철소 STS(스테인리스스틸) 4제강공장 현장에서 찌꺼기 청소 작업 중 발생한 복합 가스 중독 사고의 경위를 밝히고 안전 관리 체계 작동 여부를 확인하기 위한 것이다. &lt;br&gt;&lt;br&gt;수사 당국은 작업 일지와 지시서, 안전 교육 자료, 위험성 평가서, 도급·하도급 계약 자료 등 작업 관련 서류, 사고 전후 내부 보고 문건 등을 확보 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특히 사고 당시 청소 작업 공정과 현장 관리 실태, 원청과 하청 간 안전 관리 책임 분담 구조 등을 집중적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;수사 당국은 압수물 분석 결과에 따라 사고 책임자와 관련자들을 상대로 중대재해 처벌법, 산업안전보건법 위반 여부와 업무상 과실치사상 혐의 적용을 검토할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “압수 수색 과정에서 확보한 자료를 토대로 사고 경위와 안전 관리 책임 여부를 면밀히 살펴볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;지난달 20일 포항제철소 STS 4제강 공장에서 찌꺼기 청소를 하던 50대 용역업체 직원 2명과 현장에 있던 40대 포스코 직원 1명이 유해 가스를 마셔 중태에 빠졌다. 또 포스코 소방대 방재 팀원 3명도 구조 작업 중 유해 가스를 마셔 다쳤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성남시, ‘대장동 일당’ 재산 7건 가압류 인용...1066억 규모</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/15/FRFXG7C6DRFMFDAU4VGZGTMJXQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/FRFXG7C6DRFMFDAU4VGZGTMJXQ/</guid>
+      <dc:creator>성남=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 06:13:34 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USLILUOHHVF7PPIHJC5HSAQVIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배 , 유동규, 남욱 /뉴시스 ·뉴스1.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시는 대장동 개발 비리 사업과 관련해 “민간업자들의 재산을 동결해달라”며 법원에 낸 가압류·가처분 신청 건 14건 중 현재까지 7건이 인용됐다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이날 성남시에 따르면, 현재까지 남욱 변호사 420억 원(4건·부동산처분금지 가처분 1건 포함), 정영학 회계사 646억9000여만 원(3건) 등이 인용돼 1066억9000만 원이 가압류된 상태다.&lt;br&gt;&lt;br&gt;성남도시개발공사(성남도개공)는 지난 1일 서울중앙지법 등 5개 법원에 모두 14건의 가압류·가처분 신청을 냈다. 법원은 인용 결정 7건 외에 5건에 대해서는 담보제공 명령을 내렸고, 2건은 아직 아무런 결정을 내리지 않았다. 담보제공 명령은 사실상 가처분 인용을 위한 사전 준비 단계로, 가압류·가처분으로 생길 수 있는 채무자(민간업자들)의 손해를 보전하기 위해 법원이 채권자(성남도시개발공사)에게 담보를 제공하도록 명령하는 것이다.&lt;br&gt;&lt;br&gt;성남시는 “현재 가압류 인용 및 담보제공명령이 내려진 가액은 이미 총 5173억 원에 달한다”고 했다. 구체적으로 김만배 4100억 원(담보제공명령), 정영학 646억9000여만 원(인용), 남욱 420억 원(인용), 유동규 6억7500만 원(담보제공명령) 등이다.&lt;br&gt;&lt;br&gt;성남시 관계자는 “검찰의 대장동 사건 항소 포기로 인해 일부 피고인의 추징보전 해제 움직임이 있던 시점에 ‘범죄수익 반드시 환수’라는 강력한 의지를 보여준 것”이라며 “본안 소송에서도 반드시 승리해 대장동 범죄수익을 전액 시민의 품으로 돌려놓겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘주가 조작’ 양남희 웰바이오텍 회장 구속영장 재청구</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/15/W3EBLJNBNNATTJQWQELHAWRY7E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/W3EBLJNBNNATTJQWQELHAWRY7E/</guid>
+      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 05:56:15 +0000</pubDate>
+      <content:encoded>웰바이오텍의 주가 조작 의혹을 수사 중인 민중기 특별검사팀이 앞서 구속영장이 기각된 양남희 웰바이오텍 회장에 대해 구속영장을 다시 청구했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDCODFMRRWKZJQMM4DKMJRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 관계자는 15일 “지난 12일 양 회장에 대해 자본시장법 위반, 특경법상 배임, 업무상 횡령 혐의로 구속영장을 재청구했다”고 밝혔다. 양 회장에 대한 영장실질심사는 오는 18일 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;삼부토건 관계사인 웰바이오텍은 우크라이나 재건 사업에 참여하는 것처럼 투자자들을 속여 주가를 띄우고 부당이득을 챙겼다는 의혹을 받는다. 특검은 삼부토건이 우크라이나 재건 사업 등을 이용해 주가를 인위적으로 부양할 때 웰바이오텍도 개입한 것으로 의심하고 있다. 양 회장 등이 이 과정에서 미리 전환사채(CB)를 싸게 사놨다가 주가가 오른 뒤 내다 팔아 약 400억원의 시세 차익을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 특검은 양 회장에 대한 구속영장을 한 차례 청구했지만, 법원은 지난달 16일 “주요 혐의의 피의자 관여 여부, 이익 귀속 등에 대해 구속할 정도로 소명되지 않았고, 도주 및 증거인멸의 정도도 구속할 정도의 구체성이 부족하다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;특검은 이날 이준석 개혁신당 대표에 대한 소환 조사가 21일 오전 10시에 이뤄질 예정이라고 밝혔다. 특검 관계자는 “이 대표 측과 조율한 일정”이라고 설명했다. 특검은 이 대표를 상대로 2022년 치러진 20대 대선과 8회 지방선거, 21대 국회의원 보궐선거 당시 윤석열 전 대통령이 공천에 개입한 정황을 캐물을 예정이다.&lt;br&gt;&lt;br&gt;또 특검은 오는 17일 소환 조사가 예정된 윤 전 대통령 측과 소환 일자를 다시 조율 중이라고 밝혔다. 특검 관계자는 “(윤 전 대통령 측에서) 갑작스러운 변경 요청이 왔다”며 “날짜는 아직 협의 중인 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 ‘통일교 민주당 금품 수수’ 의혹을 수사 중인 경찰청 국가수사본부에서 이날 김건희 특검 사무실을 압수 수색한 것에 대해 특검 관계자는 “적법성 확보를 위해서 압수 수색을 온 것 같다”며 “이첩한 사건을 근거로 해서 이뤄진 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>모텔 세면대서 신생아 숨진 채 발견… 20대 母 “출산 후 씻기려다…”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/DCA7XIXIBZDK3GXUFIDCUD7GJI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/DCA7XIXIBZDK3GXUFIDCUD7GJI/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 05:31:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부 한 모텔에서 신생아가 숨진 채 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 아동학대 치사 혐의로 A씨(20대)를 입건해 조사 중이라고 15일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 지난 13일 오후 9시쯤 의정부시 한 모텔에서 “투숙객이 예정 시간에도 나오지 않아 들어가 봤더니 여성이 출산한 것 같다”는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받은 경찰이 현장을 확인하니 출산 직후의 여아가 화장실 세면대에서 심정지 상태로 발견됐다. &lt;br&gt;&lt;br&gt;함께 출동한 소방당국은 여아를 병원으로 이송했지만 결국 숨졌다. 당시 아이가 발견된 세면대에서는 물이 차 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;현장에 있던 20대 여성 A씨는 “혼자 모텔 방에서 출산을 했다”며 “아이를 씻기려 했다”고 경찰에 진술했다. &lt;br&gt;&lt;br&gt;경찰은 숨진 아이의 시신 부검을 의뢰하는 등 사건 경위를 조사 중이다. 경찰 관계자는 “아이의 사망이 과실로 인한 것인지, A씨에게 살해 의도가 있었는지 여부 등은 밝혀지지 않았다”며 “부검 결과 등을 토대로 정확한 사인에 대해서도 조사 중이다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>30대 성폭행 미수범, 징역10년형… “동종 범죄 전력, 죄질 나빠”</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/15/6R47L7R5DRHD3I4NZR5LTKXP5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/15/6R47L7R5DRHD3I4NZR5LTKXP5I/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 05:24:27 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃 매장 업주를 흉기로 찌르고 성폭행을 하려 한 30대에게 중형이 내려졌다. &lt;br&gt;&lt;br&gt;청주지법 충주지원 형사1부(지원장 김룡)는 15일 성폭력처벌법상 강도강간 등 혐의로 구속기소 된 30대 A씨에게 징역 10년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;또 신상정보 공개 10년·고지와 아동·청소년·장애인 관련 기관 취업 제한, 위치추적 전자장치 부착 15년도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 2일 충주의 한 상가 매장에 들어가 업주 B씨를 성폭행하려다 미수에 그친 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 범행 당시 격렬히 저항하는 B씨의 허벅지를 흉기로 찌르고, 이 모습을 휴대전화로 촬영하면서 돈을 요구한 혐의도 받는다. &lt;br&gt;&lt;br&gt;A씨는 이웃 매장 업주인 B씨가 자신에 대한 안 좋은 소문을 퍼뜨려 여자친구와 이별하게 됐다는 이유로 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 동종 범죄로 실형을 선고받은 전력이 있음에도 다시 유사한 범행을 저질러 죄질이 나쁘다”며 “피해자에 대한 피해 회복도 전혀 이뤄지지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 통일교 의혹 전재수 의원실 압수수색 ‘2시간 지연’…오전 도착 뒤 11시20분쯤 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/DKPFCLVOK5FRTEH4R2JMXCI4IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/DKPFCLVOK5FRTEH4R2JMXCI4IE/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 05:21:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4SMF7CKINGKRONZDUTTDOK63I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 정치권 인사들의 통일교 금품 수수 의혹과 관련해 첫 강제수사에 착수한 15일 국회의원회관 내 더불어민주당 소속 전재수 전 해양수산부 장관 사무실로 경찰 관계자들이 들어가고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교의 정치권 로비 의혹을 수사 중인 경찰이 15일 전재수 전 해양수산부 장관 의원실 압수수색을 위해 국회 의원회관에 도착하고도 실제 압수수색에 착수하기까지 2시간 넘게 걸린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰청 특별전담수사팀은 이날 오전 9시쯤 의원실 압수수색을 위해 국회 의원회관에 도착한 것으로 추정된다. 그러나 수사 인력이 의원실에 들어가 PC 파일 확보 등 압수수색을 진행한 시점은 오전 11시 20분쯤이었다.&lt;br&gt;&lt;br&gt;국회 의원실 압수수색은 통상 영장 집행에 앞서 국회의장실·국회사무처에 집행 사실을 통보하고, 출입·보안 절차 및 동선 협의를 거친 뒤 수사관이 의원실에 진입하는 방식으로 진행된다. 이 때문에 일반 현장 압수수색보다 착수 시점이 다소 늦어지는 경우가 종종 있다는 게 국회 안팎의 설명이다. &lt;br&gt;&lt;br&gt;다만 이날처럼 수사팀이 현장에 도착한 뒤에도 2시간 이상 지나서야 의원실에 들어가 본격적인 자료 확보에 착수한 건, 국회 특수성을 감안하더라도 통상적인 범위를 넘어선 지연으로 보인다는 지적이 제기된다.&lt;br&gt;&lt;br&gt;이 과정에서 변호인 등 강제수사에 대비하는 인력이 현장에 도착했고, 의원실 바깥에서 대기하던 일부 취재진은 내부에서 기계 작동 소리가 들렸다고 전하며 종이 파쇄기 가동 가능성을 제기하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 8월 무소속 이춘석 의원의 주식 차명거래 의혹 수사 때도 자택과 의원실 압수수색을 시차를 두고 진행해 “대비 시간을 준 것 아니냐”는 비판을 받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>前수방사령관 “尹 ‘나는 꼭 배신당한다’ 토로하며 한동훈 언급” 법정 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</guid>
@@ -531,15 +662,6 @@
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 서울 남산타워에서 내려다본 남산의 모습. 전날 진눈깨비가 내려 숲이 하얗게 변했다. 기상청은 15일 서울의 아침 기온이 영하 3도까지 떨어지는 등 전국 대부분 지역이 영하권에 들 것이라고 예상했다. 바람도 강하게 불어 체감 온도는 더 낮을 것이라고 기상청은 밝혔다. 기상청 관계자는 “이번 추위는 15일 낮부터 점차 풀릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“덕분에 짝퉁 잡아” 루이비통·구찌, 해경에 감사패</title>
-      <link>https://www.chosun.com/national/regional/2025/12/15/4QTE4IOBONGTHNVU36OFC4C3UQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/4QTE4IOBONGTHNVU36OFC4C3UQ/</guid>
-      <dc:creator>부산=김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:45:00 +0000</pubDate>
-      <content:encoded>지난 12일 부산 동구 남해해양경찰청에 한 외국인이 영문 감사패를 들고 찾아왔다. &lt;br&gt;&lt;br&gt;감사패에는 명품 브랜드 ‘루이비통’ 이름과 함께 ‘위조품과 전쟁, 지식재산권 보호에 대한 남해해경의 확고한 헌신에 깊은 감사를 드린다’고 쓰여 있었다. 감사패를 들고 온 사람은 마얀크 베이드 루이비통 아시아태평양 지식재산권 책임자였다. 그는 남해해경에 “위조품 때문에 브랜드 이미지가 손상돼 골치가 아팠는데 남해해경이 최근 위조품을 많이 압수했다”며 “어려운 일인데 정말 감사하다”고 했다.&lt;br&gt;&lt;br&gt;남해해경은 최근 상표법, 관세법 등 위반 혐의로 밀수업자 A(43)씨를 구속하고 공범 3명을 불구속 송치했다. 이들은 2023년부터 지난 5월까지 2년간 219차례에 걸쳐 중국산 위조 명품 7565개를 밀수해 온라인 쇼핑몰에 판매한 혐의를 받는다. 이들은 정품 가격의 3분의 1에 위조품을 팔았다고 한다. 국립과학수사연구원에 따르면, 향수 제품에선 인체에 유해한 성분도 검출됐다고 한다. 남해해경은 대구에 있는 창고를 덮쳐 루이비통, 구찌, 샤넬 등 위조 명품 4100개를 압수했다. 정품 시가로 치면 108억원 상당이다. &lt;br&gt;&lt;br&gt;이 일로 남해해경은 지난 4일 ‘구찌’에게서도 감사패를 받았다. 연달아 감사패를 받은 것이다. 명성민 남해해경 수사과장은 “명품 브랜드들이 이렇게 고마워할 줄 몰랐다”며 “앞으로도 지속적으로 단속하겠다”고 했다.&lt;br&gt;&lt;br&gt;루이비통은 2023년에도 인천에 있는 해양경찰청을 찾아 감사패를 전달한 적이 있다. 당시 해경은 정품 시가 1조5000억원 상당의 위조품을 밀수한 조직을 검거했다. 해경 단속 사상 역대 최대 규모였다.&lt;br&gt;&lt;br&gt;업계 관계자는 “요즘 기업들은 지식재산권을 지키기 위해 자체적으로 감시 조직을 운영하는 등 많은 비용을 투자하고 있지만 신통치 않은 경우가 많다”며 “위조품을 뿌리 뽑기 위해선 민·관 협력이 필요하다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“광주 ‘붕괴 사고’ 불씨는 건설업 불황… 지방엔 판박이 현장 수두룩”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/15/VWHBQRDMXVFUHBCPTXQAIRJPRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/VWHBQRDMXVFUHBCPTXQAIRJPRM/</guid>
@@ -552,117 +674,6 @@
         <media:description type="plain">[광주=뉴시스] 이영주 기자 = 김찬석 구일종합건설 대표이사가 13일 오후 광주 서구 치평동 광주대표도서관 붕괴사고 현장 주변에서 브리핑 도중 고개를 숙이며 사과하고 있다. 2025.12.13. leeyj2578@newsis.com</media:description>
         <media:credit role="author" scheme="urn:ebu">LEEYJ2578</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>‘영철버거’ 이영철씨 별세… 고려대, 고인 이름 장학금 신설키로</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/IZ5URMNUNFEIVHDJVYZ6ECEP2Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/IZ5URMNUNFEIVHDJVYZ6ECEP2Y/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I7YT6NYEWFFMTHMVMNIGJSTFJI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2015년 당시 경영난을 겪다가 학생들의 도움으로 재기했던 영철버거의 이영철 대표/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 안암동 고려대 앞에서 20년 가까이 1000원짜리 수제 버거를 팔아 고려대 명물이 된 ‘영철버거’ 사장 이영철(57)씨가 13일 오전 별세했다.&lt;br&gt;&lt;br&gt;고인은 아버지가 돌아가신 초등학교 4학년 때부터 중국집, 군복 공장 등을 전전했다. 신용 불량자가 된 그는 2000년 손수레를 끌고 고려대 앞에서 1000원짜리 버거를 만들어 팔기 시작했다. 핫도그빵 사이에 고기 볶음과 양배추, 소스 등을 넣은 ‘스트리트 버거’가 가성비 좋다는 소문이 났다.&lt;br&gt;&lt;br&gt;재료 값이 올랐을 때도 버거 가격은 올리지 않았다. 양배추와 청양고추 가격이 치솟아 버거 하나를 팔 때마다 수백 원 적자가 날 때도 있었다. 그러나 학생들과의 ‘1000원’ 약속은 지켰다. 2004년부턴 고려대에 수차례 2000만원씩 1억원 넘게 기부했다.&lt;br&gt;&lt;br&gt;그는 메뉴 고급화 등을 시도하다 2015년 경영난에 폐업했다. 그러자 고대생들이 영철버거 살리기에 나섰다. 당시 2500여 명의 고대생이 모금에 나서 6800만원이 모였다. 이를 토대로 영철버거는 재개업할 수 있었다.&lt;br&gt;&lt;br&gt;이번엔 병마가 그를 막아섰다. 고인은 지난해 7월 폐암 4기 진단을 받았다. 고대 재학생과 동문들 사이에선 애도의 글이 이어지고 있다. 그의 온라인 부고장엔 “주린 배를 채워주셨던 아버지 같은 분” “따뜻한 표정 평생 간직하겠다”는 글이 천 개 넘게 달렸다. &lt;br&gt;&lt;br&gt;14일 오후 찾은 서울 성북구 영철버거 앞에도 이씨를 기리는 꽃다발 10개가 놓여 있었다. 빈소 조문 이후 이곳을 찾았다는 고려대 경영학과 김현종(25)씨는 “군 복무를 할 때 군복을 입고 휴가를 나와 매장을 찾으면 사장님이 ‘고생한다’며 무료로 버거를 주셨다”고 했다. 김동원 고려대 총장은 이날 오후 4시 30분쯤 빈소를 방문해 조문했다.&lt;br&gt;&lt;br&gt;고려대는 장례식 비용을 전액 지원하고 고인의 이름으로 장학금을 신설하기로 했다. 빈소는 고대안암병원, 발인은 15일 오전 6시 30분. (02)923-4442&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[부음] 유정수 前 제일화재 감사 별세 외 </title>
-      <link>https://www.chosun.com/national/obituary-personnel/2025/12/15/5PWKRNVNSBAWVCTRFEVMKFEQBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/12/15/5PWKRNVNSBAWVCTRFEVMKFEQBQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:44:00 +0000</pubDate>
-      <content:encoded>▲&lt;b&gt;유정수&lt;/b&gt; 前 제일화재 감사 별세, &lt;b&gt;윤영숙&lt;/b&gt; 남편상, &lt;b&gt;유연규&lt;/b&gt; 서울신학대 사회복지학과 교수·&lt;b&gt;유현민&lt;/b&gt; 연합뉴스 요하네스버그 특파원 부친상, &lt;b&gt;변정원&lt;/b&gt; 시부상=13일3시21분 서울아산병원, 발인16일8시, (02)3010-2000 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;이화자&lt;/b&gt; 별세, &lt;b&gt;박형근&lt;/b&gt;·&lt;b&gt;박학근&lt;/b&gt;·&lt;b&gt;박상근&lt;/b&gt; 한국경제TV 총무부장·&lt;b&gt;박형심&lt;/b&gt;·&lt;b&gt;박형덕&lt;/b&gt; 모친상, &lt;b&gt;이용수&lt;/b&gt;·&lt;b&gt;박호근&lt;/b&gt; 장모상, &lt;b&gt;민정숙&lt;/b&gt;·&lt;b&gt;김은희&lt;/b&gt;·&lt;b&gt;이미화&lt;/b&gt; 시모상=13일22시30분 순천의료원, 발인 16일8시, (061)759-9090 &lt;br&gt;&lt;br&gt;▲&lt;b&gt;전공순&lt;/b&gt; 별세, &lt;b&gt;송민규&lt;/b&gt; 더파운더즈 커뮤니케이션실장·&lt;b&gt;송진규&lt;/b&gt; 모친상, &lt;b&gt;정재희&lt;/b&gt;·&lt;b&gt;황종현&lt;/b&gt; 시모상=13일9시 용인세브란스병원, 발인 16일6시30분, (031)678-7600 &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법인 기부금 4% 줄고 개인은 47% 늘었다</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/15/DKJLAPB7L5AM3N4D7VK2L47QXM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/15/DKJLAPB7L5AM3N4D7VK2L47QXM/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:44:00 +0000</pubDate>
-      <content:encoded>지난 10년간 일반 시민이 내는 기부금은 크게 늘어난 반면, 기업 등 법인이 내는 기부금은 오히려 줄어든 것으로 나타났다. 전체 기부금 규모가 늘었는데, 그 증가세는 개인 기부자가 이끌었다는 뜻이다.&lt;br&gt;&lt;br&gt;14일 보건복지부와 국세청에 따르면 개인과 법인이 낸 기부금은 2013년 12조4859억원에서 2023년 16조281억원으로 약 28% 늘었다. 기부금 총액은 2021년 15조5541억원을 기록한 뒤 이듬해 15조977억원으로 줄었지만, 2023년 다시 늘며 16조원을 넘어섰다. 이는 국세청에 신고된 개인·법인 기부금을 집계한 것이다.&lt;br&gt;&lt;br&gt;기부 주체별로 살펴보면 차이가 뚜렷하다. 개인 기부금은 2013년 7조8314억원에서 2023년 11조5445억원으로 47% 늘었다. 반면 법인 기부금은 같은 기간 4조6545억원에서 4조4836억원으로 오히려 4% 줄었다. 개인이 최근 10년간 기부금 증가분 대부분을 떠받친 것이다. &lt;br&gt;&lt;br&gt;개인 기부자가 늘어난 배경으로는 기부를 능동적으로 실천하는 사람이 증가하고 있다는 점이 꼽힌다. 아름다운재단 기부문화연구소는 “과거에는 기부의 주된 동기가 ‘동정심’이었다면, 최근에는 ‘사회적 책임감’으로 옮겨가는 추세”라고 분석했다. 또 기업의 경우 개인보다 경기 변동에 민감하기 때문에, 최근 경제 침체의 영향으로 기부가 줄어들고 있다는 해석이다. &lt;br&gt;&lt;br&gt;경제 규모에 비하면 기부가 오히려 줄었다는 분석도 나온다. 국내총생산(GDP) 대비 기부금 비율은 2013년 0.79%에서 2023년 0.67%로 낮아졌다. 2010년대 초반만 해도 0.8% 안팎을 유지했지만, 이후 하락세가 이어지며 0.7% 선도 무너진 것이다.&lt;br&gt;&lt;br&gt;정부는 기부 문화 확산을 위해 나눔 교육을 이어간다는 계획이다. 보건복지부는 매년 지역별로 나눔 교육을 실시하고, 이웃을 위해 헌신한 개인과 단체를 포상하는 ‘나눔국민대상’을 운영하고 있다. 기업을 대상으로 지역사회에 기여한 기업과 공공기관을 포상하는 ‘지역사회공헌 인정제’를 시행 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [꼭 읽어야 하는 고전] 신분 차별과 굶주림 사라진 세상 ‘최초의 한글 소설’에 담았어요</title>
-      <link>https://www.chosun.com/national/nie/2025/12/15/C52SIEWIXNHSHOVZT45C6T5XAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/12/15/C52SIEWIXNHSHOVZT45C6T5XAM/</guid>
-      <dc:creator>표정훈 출판평론가</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRRRRCI7SFD6HOHR7LOTO6NIMA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;허균 지음 l 김탁환 옮김 l 출판사 민음사 l 가격 1만2000원&lt;/b&gt;&lt;br&gt;&lt;br&gt;“아버님이 낳으시고 어머님이 기르신 은혜가 깊은데, 아버지를 아버지라 못하고 형을 형이라 못하니 어찌 사람이라 하겠습니까?” 최초의 한글 소설 ‘홍길동전’에서 주인공인 홍길동이 아버지에게 눈물을 흘리며 말하는 대목입니다. 그의 아버지는 오늘날 행정안전부 장관, 인사혁신처장에 해당하는 ‘이조판서’였습니다.&lt;br&gt;&lt;br&gt;하지만 아버지 홍 판서는 길동을 꾸짖어요. “재상 집안에 천한 종의 몸에서 태어난 자식이 너뿐이 아니거늘, 네 어찌 방자함이 이와 같으냐?” 총명하고 재주가 뛰어난 길동을 아버지는 왜 이렇게 꾸짖었을까요?&lt;br&gt;&lt;br&gt;길동의 어머니는 홍 판서 집의 종입니다. 종은 주인이 소유한 재산으로 여겨지는 천민 신분이지요. 조선 시대에 어머니가 천민인 사람은 서얼이라 불리며 차별받았습니다. 서얼은 과거 시험을 볼 자격이 없습니다. 능력이 뛰어나도 뜻을 펼칠 기회가 없는 것이죠. 울분이 쌓여 가던 길동은 홍 판서의 첩이 자신을 죽이려 보낸 자객을 죽이고 집을 떠납니다.&lt;br&gt;&lt;br&gt;길동은 도적 떼의 우두머리가 돼서 자신의 별명을 가난한 이를 살린다는 뜻의 ‘활빈당’이라 짓습니다. 그가 거느린 도적 떼의 이름이기도 하지요. 활빈당은 관리들이 부정하게 모은 재산을 빼앗아 가난한 사람들을 돕습니다. 길동은 모습을 감추거나 변신하는 둔갑법, 먼 거리를 빠르게 이동하는 축지법, 허수아비를 자신의 분신으로 만드는 분신술을 펼칩니다.&lt;br&gt;&lt;br&gt;나라에서는 길동을 잡으려 하지만 길동은 공중으로 날아올라 구름에 싸여 사라지고, 잡았다 싶으면 허수아비입니다. 길동은 제도라는 섬으로 들어가 농사에 힘쓰며 병사들을 훈련시킵니다. 요괴에게 붙잡힌 처자 둘을 구해내 혼인하여 가정을 이룬 길동은 율도국이라는 나라를 정복하고 자신이 왕이 돼서 30년 동안 다스립니다. &lt;br&gt;&lt;br&gt;저자 허균은 임진왜란 때 아내와 자식을 잃고 죽을 고비를 여러 번 넘겼습니다. 전쟁이 끝난 뒤에도 굶주린 백성은 고통받습니다. 임금은 그런 백성을 구할 뜻도 없어 보입니다. 힘 있는 사람들은 부정한 방법으로 욕심을 채우고 백성을 괴롭힙니다. 태어난 신분으로 사람을 차별하기도 합니다. 허균은 자신이 살던 조선의 모습을 ‘홍길동전’에 담았습니다.&lt;br&gt;&lt;br&gt;허균은 오늘날의 법무부장관과 검찰총장을 합친 것과 비슷한 형조판서까지 지냈지만, 역적으로 몰려 죽임을 당했습니다. 그는 어쩌면 홍길동이 되고 싶었는지도 모릅니다. 소설 마지막 부분에서 허균이 외칩니다. “아름답구나! 길동이 행한 일들이여! 자신이 원한 것을 흔쾌히 이룬 장부로다. 천한 어미 몸에서 태어났으나 가슴에 쌓인 원한을 풀어 버리고 한 몸의 운수를 당당히 이루었다.”&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [세계 미술관 산책] 해마다 도시 인구 3배 가까운 관광객이 찾는대요</title>
-      <link>https://www.chosun.com/national/nie/2025/12/15/Q7WDI7AIYVGQ3OUIY3NDJBJP74/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/12/15/Q7WDI7AIYVGQ3OUIY3NDJBJP74/</guid>
-      <dc:creator>이은화 미술평론가, 기획·구성=정해민 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:39:00 +0000</pubDate>
-      <content:encoded>지난 5일 건축 거장 프랭크 게리가 세상을 떠났습니다. 캐나다에서 태어나 미국을 중심으로 활동한 그는 20세기 건축의 흐름을 바꾼 인물로 평가받아요. 직선과 질서를 중시하던 기존의 건축 틀을 벗어나, 건물을 하나의 거대한 조각품처럼 다뤘거든요. 특히 티타늄이라는 금속 소재를 활용한 건축물을 많이 설계했어요.&lt;br&gt;&lt;br&gt;그중에서도 스페인 빌바오에 세워진 구겐하임 미술관은 그에게 세계적 명성을 안겨준 대표작으로 꼽힙니다. 이 미술관은 쇠락하던 회색빛 공업 도시의 운명을 바꾸기도 했습니다. 대체 이 미술관은 어떻게 그런 변화를 이끌었는지 우리 함께 살펴볼까요?&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NHEZWHSBXFAWNLVKN6OSIDXURU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;스페인의 빌바오 구겐하임 미술관이에요. 아래쪽에 루이즈 부르주아의 청동 거미 조각 '마망'이 보입니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;강변에서 시작된 기적 ‘빌바오 효과’&lt;/b&gt;&lt;br&gt;&lt;br&gt;스페인 안에 있지만 고유한 문화와 언어를 가진 바스크 지방에 위치한 빌바오는 한때 철광석 광산과 조선소로 번성했던 도시였어요. 그러나 1980년대 이후 철강 산업이 급격히 쇠퇴하면서 실업률은 35%까지 치솟았고, 스페인과 바스크 지방의 분리를 주장하는 사람들이 테러까지 일으키면서 도시는 빠르게 황폐해졌어요.&lt;br&gt;&lt;br&gt;1991년 바스크 지방은 도시 재생의 돌파구를 문화 산업에서 찾습니다. 1억달러(약 1477억원)가 넘는 돈을 투자해 미국 뉴욕 구겐하임 미술관의 분관을 세우기로 결정했어요. 컨테이너를 보관하는 장소였던 네르비온 강변에 도시를 대표할 미술관을 세우고, 그 주변을 문화 공간으로 탈바꿈하겠다는 계획이었지요. &lt;br&gt;&lt;br&gt;이 프로젝트를 맡은 이가 바로 프랭크 게리였어요. 그는 전투기와 우주 항공 설계에 사용되는 특수 설계 기술을 건축에 도입합니다. 무려 3만3000장의 티타늄 강판을 종이처럼 자르고 붙여 하나의 미술관을 거대한 조형물로 완성한 거예요. 미술관은 바라보는 각도에 따라 다른 모습을 드러내는데요. 옆에서 보면 우주선 같은데, 앞에서 보면 한 송이 꽃처럼 보여서 ‘금속으로 만든 꽃’이라는 별명도 얻었답니다. &lt;br&gt;&lt;br&gt;1997년 미술관이 개관하자 이 실험적인 건축물은 곧 빌바오의 랜드마크가 됐어요. 개관 후 10년간 빌바오 구겐하임 미술관을 다녀간 관람객은 986만명, 이들이 도시에 머물며 지출한 비용은 16억유로(약 2조1000억원)에 달했어요. 도시는 새로운 정체성을 얻었고, 시민들은 다시 자부심을 갖게 됐어요. 이 사례는 ‘문화가 도시 경쟁력을 높인다’는 뜻의 ‘빌바오 효과’라는 신조어까지 탄생시켰어요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6JEPAHSLBNCX5ONTBNIVYVVYM4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;미술관 앞에 있는 초대형 '강아지' 조각입니다. 이 작품은 3만8000송이 꽃으로 뒤덮여 있어요.
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;온몸으로 체험하는 조각들&lt;/b&gt;&lt;br&gt;&lt;br&gt;미술관 뒤편으로 가면 관람객은 거대한 거미 조각을 가장 먼저 만나게 돼요. 프랑스 미술가 루이즈 부르주아의 청동 조각 ‘마망(Maman)’이에요. ‘마망’은 프랑스어로 엄마를 뜻해요. 부르주아는 거미가 집을 짓고 알을 보호하는 모습을 보고 자신의 어머니를 떠올렸다고 해요. 이 작품은 두려운 모습을 하고 있지만, 사실은 작가가 어머니에게 바치는 작품이랍니다.&lt;br&gt;&lt;br&gt;도심 쪽에서 오는 관람객들은 미술관 앞에 있는 초대형 강아지 조각과 마주하게 됩니다. 높이 12m에, 3만8000송이 꽃으로 뒤덮여 있답니다. 미국 현대미술가 제프 쿤스의 1992년 작품 ‘강아지’로, 계절마다 꽃이 바뀌지요. 개관 때부터 미술관을 지켜온 이 강아지는 이제 빌바오를 상징하는 수호견처럼 여겨지며 시민들에게 많은 사랑을 받고 있답니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FAQH5QXOFRGO7B64QAOY7VFAYM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;104번 전시실에 있는 리처드 세라의 작품 '시간의 문제'. 관람객들은 철판 구조물 사이를 직접 걸어볼 수 있답니다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;미술관은 총 3개 층으로 이루어져 있어요. 1층에는 전시실과 카페, 레스토랑이 있고, 2·3층에는 기획 전시실과 소장품을 보여주는 상설 전시실이 있어요. 미술관 내부에서 관람객을 처음 맞이하는 곳은 아트리움이라 불리는 1층 중앙 홀이에요. 바닥에서 천장까지 무려 50m 높이예요. 여기서 여러 전시실이 원을 그리며 사방으로 뻗어 나간답니다.&lt;br&gt;&lt;br&gt;아트리움과 연결된 104번 전시실은 이곳에서 가장 큰 전시실이에요. 길이 130m, 폭 80m인 이 거대한 공간은 미국 조각가 리처드 세라의 작품을 위해 설계됐어요. 이곳에는 철판 구조물 사이를 직접 걸을 수 있는 설치 작품 ‘시간의 문제’가 전시돼 있어요. 단순한 타원에서 소용돌이 모양으로 이어지는 공간을 통과하며, 관람객들은 계속해서 변하는 시간과 공간을 체험하게 됩니다. 이 작품은 바로 이 전시실을 위해 특별히 제작된 거예요. 이처럼 특정 장소를 위해 제작된 작품을 ‘장소특정적 미술’이라고 불러요. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DVBTZVJC25DW5O2WD2NCNKCPZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;101번 전시실의 '빌바오를 위한 설치' 작품입니다. 제니 홀저가 빌바오 구겐하임 미술관 측의 의뢰를 받아 제작했죠.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;빌바오 구겐하임을 위해 탄생한 작품들&lt;/b&gt;&lt;br&gt;&lt;br&gt;1층 101번 전시실에 설치된 ‘빌바오를 위한 설치’ 역시 미술관이 미국 예술가 제니 홀저에게 의뢰해 탄생한 작품이에요. 바닥에서 천장까지 닿는 LED 전광판 9개에는 같은 의미를 가진 단어들이 영어, 스페인어, 바스크어로 번갈아 나타납니다. 전광판 앞면 단어들은 붉은빛을, 뒷면 단어들은 푸른빛을 내요. 이 단어들은 바닥에서 천장까지 재빠르게 오르내리며 전시실을 역동적으로 만들어 줘요. 바스크 문화가 더 넓은 세계로 나아가길 바라는 작가의 메시지를 담은 작품이지요. &lt;br&gt;&lt;br&gt;솔 르윗의 벽화 ‘208번 방을 위한 기하학적 형태’도 이 미술관을 위해 제작됐어요. 강렬한 색들이 벽면을 가득 채운 이 공간 안에 서 있기만 해도 압도되는 느낌이 들어요. 이렇게 빌바오 구겐하임 미술관에는 이곳에 와야만 볼 수 있는 특별한 작품이 많답니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2API2NIXZJA5RISSZHUUEIMFT4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;솔 르윗의 벽화 '208번 방을 위한 기하학적 형태'도 이 미술관을 위해 만들어졌답니다.
-/빌바오 구겐하임 미술관·이은화 평론가&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;35만명 사는 도시에 연간 100만명 몰려&lt;/b&gt;&lt;br&gt;&lt;br&gt;기획전 역시 큰 화제를 모으곤 합니다. 2001년 열린 이탈리아 패션 디자이너 조르조 아르마니의 회고전에는 50만명 이상 방문했고, 같은 해 열린 백남준 회고전에도 40만명이 넘는 관람객이 찾았어요. 35만명이 사는 도시라는 걸 감안하면 참으로 놀라운 숫자지요. 빌바오 구겐하임 미술관 덕분에 인구 35만명에 별다른 관광거리도 없던 공업 도시는, 해마다 100만명 이상이 찾는 세계적인 문화 관광 도시가 됐답니다. &lt;br&gt;&lt;br&gt;과감한 투자, 구겐하임이라는 유명한 미술관 브랜드, 프랭크 게리의 혁신적 건축, 그리고 수준 높은 소장품과 기획전이 맞물려 빌바오 구겐하임 미술관의 성공을 만들었습니다. 이는 또 문화와 건축을 통해 한 도시의 운명이 어떻게 바뀔 수 있는지도 보여줬어요. 오늘날 세계 곳곳의 도시들이 빌바오를 벤치마킹하려는 이유도 바로 이 가능성을 믿기 때문일 거예요.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문은 선생님] [산 이야기] 산·바다 경치 모두 누릴 수 있는 설악산, 대청봉 일출이 장관이래요</title>
-      <link>https://www.chosun.com/national/nie/2025/12/15/HAUPBUEQK5BILM7IQSL6EMR77Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/12/15/HAUPBUEQK5BILM7IQSL6EMR77Y/</guid>
-      <dc:creator>신준범 월간 산 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:39:00 +0000</pubDate>
-      <content:encoded>설악산을 사랑하는 사람들이 기다리는 날이 있습니다. 바로 산불 방지를 위한 탐방로 통제가 끝나는 12월 16일이죠. 국립공원공단은 건조해서 산불 위험이 높은 매년 봄∙가을에 국립공원 탐방로를 통제하는데, 올가을은 이 기간이 11월 15일부터 12월 15일까지였습니다.&lt;br&gt;&lt;br&gt;설악산 등산객의 절반 이상은 정상인 대청봉을 찾아요. 높이는 1708m로 설악산은 한라산(1950m), 지리산(1915m)에 이어 남한에서 셋째로 높습니다. 원래는 ‘봉우리가 푸르다’고 해서 청봉(靑峰)이라 불렀다고 해요. 20세기 들어 등산이 활발해지면서 정상부의 가장 높은 봉우리를 대청봉(大靑峰)으로, 그보다 낮은 봉우리를 중청봉∙소청봉으로 부르면서 지금의 이름이 생겼습니다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L7E7H7F6GVA57EWHTGN3I6ACBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;설악산 대청봉 정상에 오르면 산줄기와 동해 바다까지 볼 수 있습니다. 동해 수평선 아래에서 치솟는 일출이 특히 장관이랍니다.
-/조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대청봉은 이상적인 산 정상 모습을 하고 있어요. 정상에 바위가 있어 시야를 막는 나무가 없고 경치가 시원합니다. 뾰족하지 않고 조금 펑퍼짐한 형태라 사람들이 몰려도 터가 넉넉합니다. &lt;br&gt;&lt;br&gt;압권은 동해 바다입니다. 강원도 속초·양양의 망망대해를 볼 수 있어 산과 바다가 주는 경치의 즐거움을 모두 누릴 수 있습니다. 해돋이 산행지로도 인기가 높은데요. 바로 동해 수평선 아래에서 불끈 솟는 기운 넘치는 일출을 보려는 사람들이 몰리기 때문입니다. &lt;br&gt;&lt;br&gt;하지만 설악산 대청봉 일출을 보기는 쉽지 않아요. 정상을 오르는 최단 코스인 강원 양양군 서면의 남설악탐방지원센터에서 시작하는 산길(오색 코스)이 가팔라 거리에 비해 시간이 많이 걸리기 때문입니다. 게다가 겨울에는 새벽 4시부터 개방돼서 발이 무척 빠른 사람이 아니라면, 대청봉에 올랐을 땐 해가 떠오른 후일 가능성이 높습니다. 오색 코스는 5㎞이며 평균 4시간 정도 걸립니다.&lt;br&gt;&lt;br&gt;따라서 소청대피소(1450m)에서 하룻밤 자고 1시간만 야간 산행하여 대청봉에 오르는 방법을 추천합니다. 새벽 산행을 최소화할 수 있어 안전하지만, 주말에는 대피소 예약이 쉽지 않습니다.&lt;br&gt;&lt;br&gt;오색 다음으로 대청봉을 오를 때 탐방객들이 즐겨 찾는 코스는 바로 한계령입니다. 고개에서 산행을 시작할 수 있어서 급경사 구간이 오색에 비해 짧은 편이죠. 다만 정상까지 8㎞로 오색보다 3㎞ 길고 시간도 1시간 가량 더 걸립니다.&lt;br&gt;&lt;br&gt;곧 올 새해에는 취향에 맞는 탐방 코스를 골라 설악산의 정점 대청봉에서 동해 바다 위로 떠오르는 해돋이를 바라보는 건 어떨까요?&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 전환점을 맞이하다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/12/15/Q23EJ4YGDRCQPIZFCKMVJOM7HE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/12/15/Q23EJ4YGDRCQPIZFCKMVJOM7HE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2KYSU23TXNHQPECYJTNOJ7BD7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 지략(智略)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2025/12/15/WK5JHZMNVZHH7NXOJ3WT2MQ7CE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2025/12/15/WK5JHZMNVZHH7NXOJ3WT2MQ7CE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NKSNFIM4VNDOXGUNENMPUXMBTE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[스피킹이 강해지는 영어] a dime a dozen</title>
-      <link>https://www.chosun.com/national/nie/english/2025/12/15/HTYPEOZH5FAWJDHXZHTRTLD24I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/12/15/HTYPEOZH5FAWJDHXZHTRTLD24I/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHFULSSKSBEALNDZ4CDXPSPZEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2765] 알록달록 단어팔레트</title>
-      <link>https://www.chosun.com/national/nie/2025/12/15/HISYWJYSGZGIZCY5HRLLTFPGTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/12/15/HISYWJYSGZGIZCY5HRLLTFPGTM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7QQAB6BRSJFJHFLKNGEVFWIDII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 어두침침하다, 우중충하다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2025/12/15/7ZUOGD2QYZHPVNZFLSCWLKQSYE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2025/12/15/7ZUOGD2QYZHPVNZFLSCWLKQSYE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YD5JSC63IZBSDDYCFMC4EYOM5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>유휘성 전 조흥건설 대표, 고려대에 6억원 기부...누적 기부액 100억원 돌파</title>
-      <link>https://www.chosun.com/national/people/2025/12/15/43U2HCZUOVH77LO36HMFTHZJ2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/15/43U2HCZUOVH77LO36HMFTHZJ2A/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:00:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZQRGC2RFKBHZZKLELKDEVAHFIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유휘성(왼쪽) 전 조흥건설 대표와 김동원 고려대 총장이 지난 12일 서울 고려대 본관에서 열린 기부식에서 기부증서를 들고 있다./고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 유휘성(87·상학과 58학번) 전 조흥건설 대표로부터 ‘자연계 중앙광장 건립기금’ 6억원을 기부받았다고 15일 밝혔다. 2011년부터 고려대에 기부를 이어 온 유 전 대표는 이번 기부로 누적 기부금이 100억원을 돌파하게 됐다.&lt;br&gt;&lt;br&gt;한국전쟁 시기 충북 진천으로 피란해 장날마다 좌판을 도우며 생계를 유지해야 했던 유 전 대표는 “돈 벌며 공부하는 일이 얼마나 힘든지 알기에 어렵게 공부하는 학생들을 보면 마음이 쓰인다”며 “모교가 나를 키워 사회에 자리 잡게 했으니 반포지효(反哺之孝)”라고 기부 이유를 밝혔다.&lt;br&gt;&lt;br&gt;유 전 대표는 이전에도 경영대 신경영관 건립기금 10억원, 인성장학기금 및 인성기금 약 60억원, 의학발전기금·심혈관 질환 연구기금 등 전방위적 지원을 지속해왔다. 특히 지난 2017년에는 23억원 상당의 서울 잠원동 아파트를 통째로 기부하기도 했다.&lt;br&gt;&lt;br&gt;기부식은 지난 12일 오전 고려대 본관에서 열렸다. 김동원 고려대 총장은 “유휘성 교우님의 기부는 고려대 자연계 혁신 캠퍼스를 구축하는 데 중요한 전환점이 될 것”이라며 “학생과 연구자가 역량을 마음껏 펼칠 수 있는 환경을 조성하고, ‘인류 난제 해결 대학’이라는 고려대의 비전을 더 빠르게 실현하겠다”고 화답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[리빙포인트] 겨울 실내 청소엔 분무기</title>
@@ -681,15 +692,6 @@
       <description/>
       <pubDate>Sun, 14 Dec 2025 14:32:00 +0000</pubDate>
       <content:encoded>낮은 기온...빙판길 조심&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FMJXGN4IK5DNVAU2VULG7QWETY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>동국대 인근 건물 앞 종이봉투서 심정지 신생아 발견… 베트남 유학생 산모 특정</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/14/NP2DVYCLFZAKXCOFUWVN4WBYBY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/14/NP2DVYCLFZAKXCOFUWVN4WBYBY/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 11:32:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WCN4NYBI2JNEJ7KYTY56YJRXKA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중부경찰서/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 중구 동국대학교 인근에서 종이 봉투에 담긴 신생아가 유기된 채 발견돼 경찰이 수사에 나섰다. 신생아는 심정지 상태로 발견돼 병원으로 옮겨졌지만 이송 직후 숨졌다.&lt;br&gt;&lt;br&gt;서울 중부경찰서는 14일 오후 6시 30분쯤 동국대학교 인근 건물에서 “종이 봉투에 신생아가 버려졌다”는 112 신고를 접수했다. 신고 지점은 동국대 캠퍼스 밖 기숙사 인근으로 전해졌다. 현장에 출동한 경찰과 소방 당국은 종이 봉투에 담긴 채 발견된 신생아를 인근 병원으로 긴급 이송했으나 숨진 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 유기한 사람을 베트남 국적의 유학생으로 특정했으며, 해당 유학생은 건강 상태가 좋지 않아 인근 병원에서 치료를 받는 것으로 전해졌다. 경찰은 치료를 마치는 대로 출산·유기 경위 등을 조사할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>일반고 학생 대학 진학률, 서울이 제일 낮아</title>
