@@ -13,6 +13,46 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>정원오, 과거 폭행 전력 인정 “5·18 인식 차이로 다퉈”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/KXKHQ5OA3BEPZBFF2IIO4S7R3M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/KXKHQ5OA3BEPZBFF2IIO4S7R3M/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 09:25:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PT4FTLFB5KPBFB72345KJTZWA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;정원오 성동구청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유력한 서울시장 후보로 거론되는 더불어민주당 소속 정원오 서울 성동구청장이 30년 전 폭행 사건으로 처벌받은 전력이 있음을 인정하고 사과했다. &lt;br&gt;&lt;br&gt;정 구청장은 15일 페이스북을 통해 “30년 전 당시 민주자유당(현 국민의힘) 국회의원 비서관과 5·18 민주화운동에 대한 인식 차이로 다툼이 있었다”며 “그 과정에서 해당 비서관과 경찰관께 피해를 드린 사실이 있다”고 했다.&lt;br&gt;&lt;br&gt;정 구청장은 “이 사건은 불구속 입건 후 벌금으로 종결됐다. 사건 직후 당사자들께도 사과드리고 용서를 받았으며 화해로 마무리됐다”며 “저는 이 일을 제 삶의 한 부분으로 받아들이며 지금까지도 당시의 미숙함을 반성하는 반면교사로 삼고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “또한 해당 사건은 당시 언론을 통해 공개된 사안으로, 이를 선거 때마다 선관위에 신고하고 공개해 왔음을 함께 말씀드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;앞서 장예찬 여의도연구원 부원장은 정원오란 이름의 양천구청장 비서관이 1995년 지역 국회의원 비서관을 마구 때리고, 출동한 경찰관에게도 주먹을 휘둘러 구속됐다는 내용의 기사를 공유하며 “이 기사에 나온 정원오가 본인 맞느냐”고 했다.&lt;br&gt;&lt;br&gt;장 부원장은 “술 마시고 경찰도 때린 사람이 서울시장 후보? 얼마나 심한 주폭이면 구속이 되느냐”며 “술 취해서 경찰 때린 사람을 이재명 대통령이 칭찬한 것도 나라망신이다. 이런 범죄도 조진웅 감싸는 논리로 젊은 시절의 실수니까 봐줘야 하나?”라고 했다. &lt;br&gt;&lt;br&gt;정 구청장은 지난 8일 이재명 대통령에게 ‘공개 칭찬’을 받아 화제가 됐었다. 정 구청장은 당시 사건으로 불구속 입건된 뒤 벌금 300만원을 선고받은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 논란’ 전두환 손자, AI 웹툰에 가족사 그려</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/15/ZLVYWDCELRBWTEFH72LO6XHIX4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/ZLVYWDCELRBWTEFH72LO6XHIX4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 08:22:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYCXMUQOS76VSR7SQCMXSETYCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전 대통령 전두환의 손자 전우원씨가 '5·18유족, 피해자와의 만남' 행사에서 할아버지를 대신해 사죄하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 투약 혐의로 징역형 집행유예를 선고받은 고(故) 전두환 전 대통령의 손자 전우원씨가 소셜미디어(SNS)에 AI 웹툰을 공개했다. 작품은 가족 내 폭력과 방임, 질병, 학교 폭력, 고립된 유학 생활 등을 담고 있다. &lt;br&gt;&lt;br&gt;전씨는 지난 4일 인스타그램에 “정신을 놓은 것 같다”는 글을 남기고 첫 화를 올렸다. 웹툰의 주인공은 어린 양 ‘몽글이’로, 전씨가 자신을 투영한 캐릭터로 보인다. 작품 속에서 몽글이의 어머니는 순한 양으로 등장하는 반면, 조부모·아버지·새어머니로 표현된 인물들은 붉은 눈의 ‘검은 양’으로 그려져 위압적인 존재로 묘사된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PZHXBYE7SZH75AWER7PG6ZDNSE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전우원씨가 인스타그램을 통해 공개한 웹툰./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이야기는 몽글이의 탄생과 함께 어머니의 눈물이 일상이 되는 장면으로 시작한다. 이후 아버지로 묘사된 인물은 외도를 암시하는 말을 남기고 집을 떠나며, 외도 상대가 어머니에게 폭언을 퍼붓는 장면이 이어진다.&lt;br&gt;&lt;br&gt;가정이 무너져가는 과정과 함께 외할아버지의 사망 이후 어머니가 유방암·갑상선암·자궁경부암을 잇달아 진단받는 내용도 담겼다. 잦은 보호자 교체, 운전기사에게 학대당한 경험을 암시하는 내용도 나온다. 작품 속 몽글이는 일요일마다 ‘거대한 성’에서 심판을 받았고, 음식을 먹지 못했다는 이유로 화장실에 감금되거나 이동 중 멀미를 호소했다가 폭행을 당한 듯한 장면이 그려진다.&lt;br&gt;&lt;br&gt;몽글이가 아버지를 만나러 미국으로 건너간 이야기도 나온다. 몽글이는 아버지의 재혼 사실을 알게 된 뒤 망연자실하고, 아버지가 유학원을 매수해 비리로 학교에 입학시켰다는 의혹을 작품에 담았다.&lt;br&gt;&lt;br&gt;또 몽글이는 가족 관련 뉴스를 검색하다 조부의 과거사를 접한 뒤, 사람들이 자신을 괴롭히는 이유가 조부 때문일 수 있다는 생각을 했다고 토로한다. 현재 공개된 분량은 전씨의 미국 유학 시절까지다. 전씨는 앞으로도 연재를 이어가겠다고 밝힌 상태다.&lt;br&gt;&lt;br&gt;전씨는 2022년 10월부터 작년 3월까지 미국에 거주하며 LSD·대마·엑스터시 등을 상습 투약한 혐의로 재판에 넘겨졌다. 작년 4월 서울고법 형사1-3부는 마약류 관리에 관한 법률 위반(향정) 등 혐의로 기소된 전씨에게 1심과 같이 징역 2년 6개월에 집행유예 4년을 선고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/CFN47Y455JATZNLD6BCCHHNGQA.JPG?auth=1cc7a1b5044bf3f212a168bf0c9907338740abcda3cde51f03287eecd5af138f&amp;smart=true&amp;width=2185&amp;height=1639" type="image/jpeg" height="1639" width="2185">
+        <media:description type="plain">전 대통령 전두환의 손자 전우원씨가 31일 광주 서구 5·18기념문화센터에서 열린 '5·18유족, 피해자와의 만남' 행사에서 할아버지를 대신해 사죄하고 있다. . 2023.3.31/뉴스1 ⓒ News1 이수민 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">뉴스1 ⓒ News1 이수민 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>김건희, 건진 재판에 증인 불출석 과태료 300만원...구인장 발부</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/15/IZRXF44UCBEJVKTLXPCOQVEPYA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/IZRXF44UCBEJVKTLXPCOQVEPYA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 08:28:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRRTGZRWHA2DSODCGY3WMOLEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사(왼쪽)와 건진법사 전성배 씨 / 뉴스1 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사가 ‘건진 법사’ 전성배씨 재판에 증인으로 소환됐으나 출석하지 않아 과태료 처분을 받았다. 서울중앙지법 형사33부(재판장 이진관)는 15일 전씨의 알선수재 등 사건 재판에서 김 여사에게 증인 불출석에 따른 과태료 300만원을 부과했다.&lt;br&gt;&lt;br&gt;재판부는 오는 23일 김 여사를 강제로 법정에 데려오는 구인장을 집행해 증인 신문을 진행하기로 했다. 차질 없이 증인 신문이 이뤄지면 같은 날 변론을 종결하고 결심 절차를 진행할 예정이다.&lt;br&gt;&lt;br&gt;김 여사 측은 앞서 기저 질환인 저혈압으로 인한 실신과 불안 장애 등 건강상 이유로 증인 출석이 어렵다는 사유서를 제출했다. 사유서에는 ‘현실과 이상을 혼동해 과거 경험한 바에 대해 엉뚱한 얘기를 하는 경우가 많아지고 있다’ ‘의지와 무관하게 왜곡된 기억으로 잘못된 진술을 할 가능성이 높다’는 내용이 기재됐다.&lt;br&gt;&lt;br&gt;한편, 이날 김 여사의 최측근인 유경옥 전 청와대 행정관에 대한 증인 신문이 이뤄졌다. 유 전 행정관은 샤넬백을 교환하게 된 경위에 대해 “영부인이 ‘엄마가 준 건데 가서 가방을 바꿔다 줄 수 있겠냐’고 했다”며 “웨이팅 없이 갈 수 있는 곳을 알아보다가 청담동(샤넬 플래그십 매장)으로 가게 됐다”고 증언했다. &lt;br&gt;&lt;br&gt;유 전 행정관과 샤넬 매장에 동행했던 인테리어 업체 21그램 대표의 아내 조모씨도 증인으로 나왔다. 조씨는 가방 교환 이후 추가금 324만원을 결제한 것에 대해 “먼저 결제하면 (유 전 행정관이) 나중에 돈을 보내주겠다고 했다”면서 “2~3주 후 남편을 통해 현금으로 받았다”고 했다. 조씨는 이후 김 여사를 위해 디올 제품을 구매해준 적도 있다고 증언했다. 그는 “유 팀장(유 전 행정관)이 연락 와서 ‘여사님이 사고싶어 하는데 구매해줄 수 있느냐’고 해서 매장에 연락해 구매해줬고, 다음 날 통장으로 입금 받았다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대구 침산중 윈드오케스트라, 16일 정기연주회… 트럼페터 이현준 협연자로 나서 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/15/UORZ5KHIRRBK7FZVKUQUAFGDXA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/UORZ5KHIRRBK7FZVKUQUAFGDXA/</guid>
+      <dc:creator>대구=노인호 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 15 Dec 2025 08:31:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRTJL2JX3BHJBJ4OEBE2UUYETQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 침산중학교 학생들로 구성된 침산윈드오케스트라 공연 모습. /침산중&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침산윈드오케스트라 제9회 정기 연주회가 16일 오후 7시 30분 대구콘서트하우스 그랜드홀에서 열린다. &lt;br&gt;&lt;br&gt;침산중학교 학생들로 구성된 침산윈드오케스트라는 이번 정기 연주회에서 ‘Spring March’, ‘A Filvar Story’, 넷플릭스 영화 ‘케이팝 데몬 헌터스’ OST인 ‘골든(Golden)’, 하이든 트럼펫 협주곡(Trumpet Concerto in Eb Major Hob. Ⅶe:1) 등을 관객에게 선보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI2N5SZBWBBOJDQEVZCUDL7M6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;침산윈드오케스트라 정기연주회 포스터./침산중&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 정기 연주회 하이라이트는 ‘하이든 트럼펫 협주곡’으로, 대한민국을 대표하는 트럼페터 이현준이 협연자로 나선다. 그는 독일 함부르크 필하모닉 오케스트라의 트럼펫 종신 수석으로 활동하며, 국내를 넘어 세계 무대에서도 주목받는 연주자로 평가받고 있다. 하이든의 마지막 협주곡인 이 작품은 TV 프로그램 ‘장학퀴즈’, 드라마 ‘오징어 게임’의 배경 음악으로 사용되며 대중에게 널리 알려진 곡이다. &lt;br&gt;&lt;br&gt;연주회를 준비한 관악부장 김준우 학생은 “대한민국을 대표하는 트럼페터 이현준 선생님과 같은 무대에서 연주할 수 있다는 사실이 가슴 벅차고 영광스럽다”고 전했다. &lt;br&gt;&lt;br&gt;2011년 5월 창단한 침산윈드오케스트라는 2014년 대구시교육청 주최 제2회 창의체험동아리축제 공연 부문 대상, 올해 열린 제22회 춘천전국관악경연대회 중등부 1위인 ‘최우수상’을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[오늘의 운세] 12월 16일 화요일 (음력 10월 27일 己未) </title>
       <link>https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</guid>
@@ -548,18 +588,6 @@
       </media:content>
     </item>
     <item>
-      <title>“사후피임약 달라” “손발 저린다”… 응급실, 경증 환자가 다시 점령</title>
-      <link>https://www.chosun.com/medical/2025/12/15/PCJCDI7VA5GUZARSEQOMS5DNRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/medical/2025/12/15/PCJCDI7VA5GUZARSEQOMS5DNRE/</guid>
-      <dc:creator>천안=오경묵 기자, 김철중 의학전문기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2PVICFWT2FAR7MZFR33A5CFZ4U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;순천향대 천안병원 응급의료센터 모습. 야간 피크타임에는 환자들이 10분에 1명 꼴로 밀려 들었다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;평일 밤 9시, 충남 순천향대학교부속 천안병원 권역응급의료센터에 외관상 전혀 다친 곳이 없어 보이는 20대 여성 한 명이 찾아왔다. 환자 분류를 맡은 응급 구조사가 ‘어떤 증세가 있느냐. 어디가 아프냐’고 묻자, “사후 피임약 처방이 필요해서 왔다”고 했다. 병원 측은 이 여성에게 처방전을 주고 돌려보냈다. 잠시 뒤, 인근 소방서 119 구급대에서 전화가 걸려왔다. “30대 여성이 운동을 하다가 손발 저림과 어지럼증을 호소한다”는 내용이었다. 응급센터 측의 ‘환자 수용’ 결정에 이 여성은 119 구급차를 타고 약 10분 만에 도착했다. 검사 결과, 별다른 문제가 발견되지 않았다. 병원 측은 2시간 동안 ‘경과 관찰’을 한 뒤 이 환자를 집으로 보냈다.&lt;br&gt;&lt;br&gt;의정(醫政) 갈등 기간 감소했던 경증 환자의 응급실 방문이 다시 늘어나고 있다. 이곳 역시 충남 권역 응급 환자들의 최종 치료를 담당하는 의료 기관임에도 경증 환자들이 계속 밀려들었다. ‘응급실 뺑뺑이’가 연일 사회 문제로 이어지는 가운데, 본지는 이 권역응급의료센터에 24시간 상주하며 응급의료 실상을 알아봤다. 이 시간 동안 이곳을 찾은 응급 환자는 모두 103명. 이 중 중증으로 분류된 환자는 약 22%(23명) 정도였다. 의료진은 “작년만 해도 중증 환자이거나 중증은 아니더라도 응급 조치가 필요한 환자가 많았다면, 올해는 10명 중 7명 이상은 경증 환자”라며 “모기에 물려 가렵다면서 다짜고짜 응급실에 온 경우도 있었고, 지난달에는 선크림을 발랐다가 지우지 않고 잠들었는데 얼굴에 홍조가 생겼다며 온 사람도 있다”고 했다.&lt;br&gt;&lt;br&gt;기자가 저녁 8시쯤 응급실에 처음 들어갔을 때 환자가 있던 병상은 전체 22개 중 절반인 11개였다. 이 중에는 발열과 오한을 호소하거나, 수일째 변비를 호소하는 환자도 있었다. 대부분 경증과 중증 사이에 해당되는 KTAS(한국형 중증도 분류 체계) 3등급 환자였고, 즉시 처치가 필요한 KTAS 1등급(중증)으로 분류된 환자는 1명에 불과했다. &lt;br&gt;&lt;br&gt;10분에 1명꼴로 환자들이 밀려들면서 밤 11시가 되자, 병상 22개가 모두 환자로 채워졌다. 이에 응급실에 있던 의사 4명은 찾아온 환자들을 상대로 문진, 검사 의뢰, 검사 결과 확인, 처방 등을 반복하느라 정신이 없었다. 이한유 응급의료센터장은 “일단 KTAS 등급이 낮더라도 나중에 중증으로 확인되는 환자들이 나오기 때문에 그냥 바로 보내지 않고 경과 관찰을 해야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 와중에 응급실 한편에 놓인 스마트폰은 시도 때도 없이 울렸다. 주로 119구급대에서 걸려온 전화였다. 119 이송 문의나 인접 병원에서의 전원 문의는 ‘전용 휴대전화’로 문의 창구를 일원화해 진료 지원(PA) 간호사가 전담해 응대하고 있었다. 엄정찬 간호사는 “하루에 적게는 80통, 많게는 100통 넘는 전화가 온다”고 했다. 당진, 예산, 아산, 논산 등 인접 지역에서의 수용 문의가 많았는데, 일부는 광역응급의료상황실을 통해 경북 포항의 환자를 수용할 수 있는지 확인하기도 했다. 다만 이 병원도 치료 중인 중환자가 많아 이를 모두 수용하지 못했다.&lt;br&gt;&lt;br&gt;현재 국내 병원들은 이처럼 권역응급의료센터로 동네 경증 환자가 몰리고, 권역 밖 멀리서 중증 환자 수용 문의가 오고 있는 상황이다. 이 같은 엇박자는 경증 응급 환자를 봐줄 지역 응급의료기관 활동이 부족한 데다, 전국 42개 권역응급센터와 47개 상급종합병원의 응급센터 정보를 실시간으로 파악하는 시스템이 없기 때문이다.&lt;br&gt;&lt;br&gt;그런 만큼 중앙응급의료센터가 센터별 응급 수술 및 처치 의료진, 병상 상황 등 세밀한 응급의료 현황을 IT 네트워크 시스템으로 24시간 파악해 응급 환자 이송 배치를 총괄해야 한다는 지적이 나온다. 이를 토대로 중앙응급의료센터가 119와 공동으로 중증 응급 환자 처치 및 이송 배치에 신속하고 강력한 행정력을 발휘해야 한다는 것이다. 119구급대원이 병원 측에 수용 가능 여부를 물어보지 않고도 긴급 환자를 곧바로 병원에 이송할 수 있도록 한 법안들이 국회에 제출돼 있지만, 아직 담당 상임위에서 논의가 진행되지 않고 있다.&lt;br&gt;&lt;br&gt;응급센터 의료진 사이에선 “응급실 뺑뺑이는 소방청에 응급센터 정보가 없어서 생기는 일인 만큼, 응급의료 권위 기관이 주도하는 새로운 방식의 응급의료정보센터를 세우자”는 의견이 나온다. 또 경증 환자의 권역센터 방문을 줄이려면 지역 내 야간 진료기관을 활성화해야 한다는 지적도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2PVICFWT2FAR7MZFR33A5CFZ4U.jpg?auth=341380ce72ceb72b468603c9d5eafc79c2141e83e22aaa5ea4104c992cd33b01&amp;smart=true&amp;width=5360&amp;height=3583" type="image/jpeg" height="3583" width="5360">
-        <media:description type="plain">평일이던 지난 10월 29일 순천향대 천안병원 응급의료센터 모습. 야간 피크타임에는 환자들이 10분에 1명 꼴로 밀려 들었다./신현종 기자</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>여권 지지층도 백해룡파 vs 임은정파</title>
       <link>https://www.chosun.com/national/national_general/2025/12/15/T4HUPPG2WRFZPMM6SIQXIN57IM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/T4HUPPG2WRFZPMM6SIQXIN57IM/</guid>
@@ -577,16 +605,6 @@
       <description/>
       <pubDate>Sun, 14 Dec 2025 20:00:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JYTE43BICBHRVNMNDKIAQUHENY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 5년간 경찰이 국가보안법 위반 혐의로 검찰에 송치한 사람이 150명을 넘는 것으로 14일 나타났다. 범여권 의원들은 이달 초 국가보안법 폐지안을 발의했다. 그러나 경찰과 군 방첩 수사 기관에선 “북과 연계된 이적(利敵) 행위를 차단할 법적 근거가 사라질 수 있다”는 지적이 나온다.&lt;br&gt;&lt;br&gt;경찰청이 국민의힘 서범수 의원실에 제출한 자료를 보면 2021년부터 올해 11월까지 경찰이 검찰에 송치한 국가보안법 위반 사범은 151명이었다. 매년 30명 안팎 수준이었다. 이 가운데 북한의 지령을 받고 군사 기밀 또는 국가 기밀을 탐지·수집하거나 누설한 혐의(목적 수행)를 받는 사람은 15명이었다. 반국가단체인 북한을 찬양·고무하다가 적발된 사람은 67명이었다. 이적단체 구성·가입 혐의로 송치된 사람은 10명, 허가 없이 북한 지역에 출입했다가 잠입·탈출 혐의로 적발된 사람은 29명이었다. &lt;br&gt;&lt;br&gt;최근 법원의 국보법 위반 사건 재판에선 실형 선고가 이어지고 있다. 지난달 20일 서울중앙지법은 북한 해커와 함께 불법 도박 사이트 16개를 제작·분양한 조직 총책 김모씨에게 징역 5년에 자격정지 5년, 추징금 12억4700만원을 선고했다. 법원은 “북한 통치 자금으로 전용될 수 있는 금품 수수는 국가의 존립·안전과 자유민주적 기본 질서를 위태롭게 할 위험이 있다”고 했다. &lt;br&gt;&lt;br&gt;스포츠 브랜드 안다르 창업자의 남편 오모씨는 온라인 게임 사설 서버 운영 과정에서 북한 해커와 접촉해 해킹·디도스 공격을 의뢰하고 그 대가로 2380만원을 지급한 혐의로 지난달 14일 서울서부지법에서 징역 1년에 자격정지 1년을 선고받고 법정 구속됐다.&lt;br&gt;&lt;br&gt;전문가들은 “국보법 폐지는 국가를 지키는 최소한의 보호 장치를 스스로 해제하는 셈”이라고 했다. 장영수 고려대 법학전문대학원 명예교수는 “영국·미국·독일·프랑스 등 서구 선진국들도 국가 안보를 보호하기 위한 구체적인 법을 제정해 놨는데 북한과 엄연히 대치하고 있는 한국이 먼저 폐지하는 건 무슨 의도인지 이해하기 어렵다”고 했다. 국회 입법 예고 사이트에는 이날 기준 국보법 폐지에 반대하는 의견이 12만건 이상 접수됐다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고개 숙인 강용석 “가세연 ‘runaway train’이었다”</title>
-      <link>https://www.chosun.com/national/education/2025/12/15/TQAV242Z4ZAODMRWKKTPAJCH3U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/15/TQAV242Z4ZAODMRWKKTPAJCH3U/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>유튜브 채널 ‘가로세로연구소(가세연)’ 운영진이었던 강용석 변호사가 가수 김건모의 성폭행 의혹 제기 등 과거 활동에 대해 사과하며 가세연 참여를 후회한다고 말했다고 하지요. &lt;br&gt;&lt;br&gt;‘성폭행 의혹을 제기하다’는 raise allegations of sexual assault 또는 bring up accusations of sexual assault로 표현하면 되겠습니다. allegation은 ‘혐의’ ‘주장’을 뜻하며, 라틴어 ‘allegare’(진술하다/주장하다)에서 유래했습니다. 아시다시피 accusation은 ‘비난’ ‘고발’을 뜻하고, raise와 bring up은 ‘제기하다’라는 의미로 자주 사용되는 동사입니다.&lt;br&gt;&lt;br&gt;‘후회하다’는 regret 또는 feel remorse라고 표현하는데, regret은 단순한 후회를, remorse는 양심의 가책을 동반한 깊은 후회를 의미합니다.&lt;br&gt;&lt;br&gt;강 변호사는 최근 한 유튜브 채널을 통해 “가수 김건모씨 등 특정인을 집중적으로 물어뜯어 재기 불능 상태로 만든 건 너무 심했다”며 “생방송이고 (방송이 길어져서) 지겨우니까 농담 따먹기처럼 됐다”고 시인했습니다.&lt;br&gt;&lt;br&gt;‘집중적으로 물어뜯다’는 relentlessly attack 또는 viciously tear into로 뜻을 전하면 되겠습니다. tear into는 ‘맹렬히 비난하다, 공격하다’라는 의미의 구동사로, 여기서 tear는 ‘눈물’이 아니라 ‘찢다’ ‘구멍을 내다’라는 동사로 쓰인 것이고, 따라서 발음도 [tɪr]가 아니라 [ter]로 해야 합니다. relentlessly는 ‘가차 없이’라는 뜻으로 relent(누그러지다)의 반대 의미 부사입니다.&lt;br&gt;&lt;br&gt;‘물어뜯다’라는 어감을 최대한 살리고 싶으면 관용구 sink one’s teeth into가 가장 적합하겠습니다. 직역하면 ‘이로 물어서 ~안에 박히게 한다’는 뜻이니까요.&lt;br&gt;&lt;br&gt;‘재기 불능 상태’는 뭐라고 하면 될까요. beyond recovery 또는 unable to make a comeback이 적절하겠습니다. comeback은 ‘재기’ ‘복귀’라는 명사이지요. make a comeback은 ‘재기하다’라는 관용구입니다.&lt;br&gt;&lt;br&gt;‘생방송’은 live broadcast 또는 live streaming이라고 합니다. 인터넷 방송의 경우엔 streaming을 많이 사용하지요.&lt;br&gt;&lt;br&gt;강 변호사는 가세연 출연진인 김용호 씨가 극단적 선택을 한 것과 관련해선 “(당시 가세연은) 브레이크 없이 달려가는 느낌이었다. 속도를 어느 정도 지키든지 한번 멈추기도 하고 그랬어야 하는데 그냥 폭주 기관차였다”며 “끝도 없이 달려가다 끊어진 다리 밑으로 떨어진 것 같은 그런 느낌이 들었다. (가세연에 참여한 걸) 후회한다”고 말했습니다.&lt;br&gt;&lt;br&gt;자살을 완곡하게 표현하는 ‘극단적 선택’은 직설적으로 ‘자살을 저지르다’라는 뜻의 commit suicide로 하거나 ‘자신의 삶을 스스로 끊다’라는 의미에서 take one’s own life로 표현합니다. 사무적인 어투로는 die by suicide 또는 put oneself to death, 냉혹한 어감으로는 kill oneself 또는 die by one’s own hand 숙어를 쓰기도 합니다.&lt;br&gt;&lt;br&gt;‘브레이크 없이 달려가다’는 run without brakes 또는 go full speed ahead with no restraint로 표현할 수 있습니다. go full speed ahead는 ‘전속력으로 나아가다’라는 관용구입니다.&lt;br&gt;&lt;br&gt;‘폭주 기관차’는 runaway train 또는 out-of-control locomotive로 표현합니다. 여기서 runaway는 ‘달아난’ ‘가출한’이 아니라 ‘제멋대로 가는’ ‘제어가 안 되는’ ‘고삐 풀린’이라는 뜻의 형용사입니다.&lt;br&gt;&lt;br&gt;강 변호사는 “그동안 물의를 빚었던 여러 가지에 대해서 대단히 죄송하다”면서 “김건모 씨가 연락을 주면 따로 만나 사과의 말씀을 드리고 싶다. 앞으로는 욕 먹는 강용석에서 사랑받는 강용석으로 다시 태어나고 싶다”고 밝혔습니다.&lt;br&gt;&lt;br&gt;‘물의를 빚다’는 cause a scandal, cause controversy, stir up trouble 등으로 표현합니다. stir up은 ‘일으키다’ ‘야기하다’라는 의미의 구동사로, 원래는 ‘휘젓다’라는 뜻에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘다시 태어나다’는 직역하면 be reborn이지만, 여기에선 ‘새사람이 되다’라는 의미에서 turn over a new leaf로 표현하는 것이 적절하겠습니다. turn over a new leaf는 페이지 넘기듯 과거를 청산한다는 의미로, ‘새 출발을 하다’라는 뜻의 숙어입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2TAAI5JAD5BJTAEYIWWLHTDLGY.gif?auth=a9f2d82aabde2cda7961b53a3819321a2331cd9186cb3a6ed49c4ca9270f7d8c&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
     </item>
     <item>
       <title>아들 덕분에 수학과의 평생 오해를 풀었다</title>
@@ -611,15 +629,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/UD2WF5YBEVHXLIUQLQY7JPBCYM.gif?auth=45da7577689db43c44c15138a5ffb845ee76aa755f13478d17351e70aa5a9f36&amp;smart=true&amp;width=500&amp;height=282" type="image/jpeg" height="282" width="500">
         <media:description type="plain">성형외과 광고에 사용될 AI 모델 -짤1</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>응급실서 “환자 못 받아” 월 1만건… 의료 대란 前의 2배</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/15/7B3K3IBSTZEGDFAEVEO74AXSOY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/15/7B3K3IBSTZEGDFAEVEO74AXSOY/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>응급실에서 ‘환자를 더는 받을 수 없다’고 중앙응급의료센터에 공식 통보된 건수가 의료 대란 이전보다 2배가 넘는 것으로 집계됐다.&lt;br&gt;&lt;br&gt;14일 국회 보건복지위 소속 김선민(조국혁신당) 의원이 국립중앙의료원에서 받은 자료에 따르면, 올 1~8월 중앙응급의료센터 종합 상황판에 표출된 전국 응급실의 ‘진료 제한’ 메시지는 총 8만3181건(월평균 1만398건)에 달했다. 의료 대란 이전인 2023년 1~8월(총 3만9522건, 월평균 4940건)의 2배 넘는 수치다. 상황판에는 전국 응급실 병상 현황 등이 표시돼 있는데, 일시적으로 환자를 받지 못할 이유가 있으면 이처럼 ‘진료 제한’ 표시가 뜨게 돼 있다. 지난 9월 전공의 상당수가 복귀한 뒤 정부는 ‘의료 대란 종료’를 공식 선언했지만, ‘응급실 뺑뺑이’ 문제는 여전히 개선되지 않고 있는 것이다. &lt;br&gt;&lt;br&gt;응급실들이 ‘환자를 받을 수 없다’고 한 이유는 주로 ‘의료진 부족’ 때문이었다. 올 9~10월 진료 제한 메시지가 뜬 이유로는 ‘인력 부족’이 39.3%로 가장 많았다. 이어 ‘병실 부족’(7.6%), ‘장비 부족’(1.6%) 등의 순이었다.&lt;br&gt;&lt;br&gt;응급실이 환자를 받지 않으면서 거리가 먼 다른 지역 응급실까지 ‘원정 진료’를 가는 경우도 생기고 있다. 국립중앙의료원 중앙응급의료센터에 따르면, 지난해 세종 지역의 심근경색, 뇌졸중 등 28개 중증 응급 질환 환자가 세종 지역 응급실에 내원한 비율은 47.3%에 그쳤다. 세종에 사는 중증 응급 환자의 절반 이상이 세종이 아닌 다른 지역 응급실을 이용했다는 뜻이다. 전남 지역 중증 응급 환자가 전남 지역 응급실에서 치료받은 비율도 54.5%에 불과했다. 이어 충남 66%, 경북 69.1%, 충북 77.4%, 경남 78.9% 등의 순이었다. 반면 제주의 경우 이 비율이 94.6%에 달해 17개 지자체 중 가장 높았다. 섬이라는 특성이 반영된 것으로 해석된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>윤영호의 말 바꾸기… 대통령의 압박에 숨고르기?</title>
@@ -660,20 +669,6 @@
       <pubDate>Sun, 14 Dec 2025 15:45:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYVG7IPEWJGSNHX2KIUCJCQPAE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박성원 기자
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;14일 오전 서울 남산타워에서 내려다본 남산의 모습. 전날 진눈깨비가 내려 숲이 하얗게 변했다. 기상청은 15일 서울의 아침 기온이 영하 3도까지 떨어지는 등 전국 대부분 지역이 영하권에 들 것이라고 예상했다. 바람도 강하게 불어 체감 온도는 더 낮을 것이라고 기상청은 밝혔다. 기상청 관계자는 “이번 추위는 15일 낮부터 점차 풀릴 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“광주 ‘붕괴 사고’ 불씨는 건설업 불황… 지방엔 판박이 현장 수두룩”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/VWHBQRDMXVFUHBCPTXQAIRJPRM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/VWHBQRDMXVFUHBCPTXQAIRJPRM/</guid>
-      <dc:creator>광주광역시=진창일 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 14 Dec 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C75FIJXI2VGZRMESH7B4RJJT2Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 12일 광주광역시 서구 치평동 광주대표도서관 공사현장에서 소방대원들이 매몰자 구조작업을 하고 있다. /김영근 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;근로자 4명이 사망한 광주광역시 도서관 공사장 붕괴 사고에 대해 전문가들은 “지방 건설 산업의 총체적 부실 상황이 반영된 결과”라며 “단순 산재로 봐선 안 된다”고 했다. &lt;br&gt;&lt;br&gt;지난 11일 광주 서구 ‘광주대표도서관’ 신축 공사 현장에선 철골 구조물이 무너져 작업자 4명이 숨졌다. 경찰은 시공사가 구조물 접합 공사를 부실하게 했을 가능성 등을 조사하고 있다. 이 도서관은 길이 24m와 48m 철제 구조물을 이어 붙여 만드는데 접합 부분이 칼로 무를 자른 것처럼 매끈하게 끊어졌기 때문이다. 구조물 아래에 지지대를 설치하지 않고 작업한 사실도 드러났다. 숨진 근로자 4명은 모두 하도급업체 직원이었다.&lt;br&gt;&lt;br&gt;14일 광주시 등에 따르면, 광주대표도서관 신축 공사는 2022년 착공했다. 지난 6월 시공사 홍진건설의 모기업인 영무토건이 법정관리를 신청하면서 공사가 중단됐다. 지난 9월 공동 시공사인 구일종합건설이 홍진건설의 지분을 인수해 공사를 재개했지만 준공이 4개월가량 미뤄졌다. 광주시는 준공 시기를 올해 12월에서 내년 4월로 연기했다. 현재 영무토건은 법정관리 절차를 밟고 있고 홍진건설은 파산한 상태다. 구일종합건설은 충남 부여 지역의 중소 건설사로 지난해 시공능력평가 순위가 333위였다. 영무토건은 111위였다. 사고 현장을 확인한 송창영 광주대 건축공학과 교수는 “광주시가 내년 4월 준공할 예정이라고 했으나 현실적으로 어려워 보였다”며 “골조 공사도 1~2개월은 더 해야 하고 설비나 조경 등 공사도 3~4개월은 걸린다”고 말했다. 전문가들은 “시공사가 서두르다 부실 공사를 했을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4L26JFZ6ABGSZLDFOLK6RGFVKE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 13일 광주광역시 도서관 공사장 붕괴 사고 현장에서 구조대가 마지막 매몰자의 시신을 수습해 나오고 있다. 대원들이 구급차를 향해 경례하고 있다.
-/연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;설계도 7차례 변경됐다. 그 과정에서 광주시와 시공사는 구조물 아래에 지지대를 설치하는 방안도 검토했으나 채택하지 않은 것으로 파악됐다. 광주시는 “비용을 절감하고 공사 기간을 단축하기 위해 철제 구조물 안에 콘크리트를 채워 넣어 강도를 높이는 특허 공법을 선택했다”고 했다. &lt;br&gt;&lt;br&gt;전문가들은 “전국 곳곳에 비슷한 상황에 놓인 ‘판박이’ 공사장이 많아 부실 시공, 안전사고 발생 우려가 크다”고 했다. 최명기 대한민국산업현장교수단 교수는 “건설사들은 보통 자금난에 빠지면 직원을 줄이고 저가로 하도급을 준다”며 “돈을 아끼려고 품질이 떨어지는 자재를 쓰거나 시공을 날림으로 할 가능성도 있다”고 말했다. &lt;br&gt;&lt;br&gt;2023년 이후 고(高)금리와 자재값 인상, 인건비 상승 등 여파로 건설사들의 부도가 잇따르고 있다. 2022년 14곳이었던 부도 업체는 지난해 29곳으로 증가했다. 올해는 신동아건설과 삼부토건, 대저건설 등 중견 건설사들도 잇따라 법정관리를 신청했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJ7WAU7ZFRDN7GHTT5KWATIXUQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김성규&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지방 건설사들의 상황이 더 어렵다. 미분양 아파트 물량의 대부분이 지방에 쏠려 있기 때문이다. 전국의 미분양 아파트는 2021년 1만4000호에서 올 10월 6만9000호로 급증했다. 이 중 75%가 지방에 있다. 미분양이 넘치면 건설사들은 자금을 회수할 수 없어 돈줄이 막힌다. &lt;br&gt;&lt;br&gt;앞으로 전망도 어둡다. 주택산업연구원에 따르면 12월 전국 아파트 분양전망지수는 66.3으로 2023년 12월(61.5) 이후 가장 낮았다. 분양전망지수는 주택산업연구원이 주택 사업자를 대상으로 설문 조사한 결과다. 지수가 낮을수록 분양 전망을 부정적으로 본다는 뜻이다. 광주 지역은 44.4로 조사 대상 시·도 중 가장 낮았다. 한 달새 27포인트 떨어져 하락 폭도 가장 컸다. 광주 지역 건설업계 관계자는 “원래도 비관적인 전망이 많았는데 최근 시장이 완전히 얼어붙었다”고 했다.&lt;br&gt;&lt;br&gt;올해 광주 지역에선 영무토건뿐 아니라 유탑건설 등이 법정관리에 들어갔다. 모두 지역을 대표하는 건설사들이다. &lt;br&gt;&lt;br&gt;영무토건은 광주·전남에 기반을 둔 건설사로 1997년 서해토건으로 출발했다. ‘영무예다음’ 브랜드로 아파트 사업을 벌였다. 전국의 혁신도시에서 실적을 쌓았다. 영무토건도 미분양 충격을 피하지 못했다. 2020년 640억원이었던 공사 미수금이 지난해 994억원으로 불어나면서 결국 법정관리를 신청했다. 업계 관계자는 “영무토건이 전남 나주 혁신도시에 지식산업센터를 지었는데 분양이 안 돼 결국 물량을 떠안았다”며 “임대 사업을 했지만 세입자 보증금도 돌려주지 못하고 있다”고 했다. &lt;br&gt;&lt;br&gt;광주경찰청은 전날 구일종합건설 등을 대상으로 압수수색을 벌였다. 사고 원인 조사에 속도를 낸다는 계획이다. 국립과학수사연구원과 현장 검증도 할 예정이다. &lt;br&gt;&lt;br&gt;한편 광주시는 이번 사고와 관련해 “시공사에 공기를 단축하라고 압박한 적이 없다”며 “공사비도 증액해줬다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/7QRK6UVIYZPSZFIW445ACR7XDI.jpg?auth=ae0a459254fbf9138333e024c4009e833437642de26caf749d07028b9e062eaa&amp;smart=true&amp;width=6698&amp;height=4465" type="image/jpeg" height="4465" width="6698">
-        <media:description type="plain">[광주=뉴시스] 이영주 기자 = 김찬석 구일종합건설 대표이사가 13일 오후 광주 서구 치평동 광주대표도서관 붕괴사고 현장 주변에서 브리핑 도중 고개를 숙이며 사과하고 있다. 2025.12.13. leeyj2578@newsis.com</media:description>
-        <media:credit role="author" scheme="urn:ebu">LEEYJ2578</media:credit>
-      </media:content>
     </item>
     <item>
       <title>[리빙포인트] 겨울 실내 청소엔 분무기</title>
