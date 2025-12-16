@@ -13,6 +13,90 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>아내 몸에 구더기 방치한 육군 부사관…살인 혐의 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/HA4IVCFHNJGMNDY2A5ETG54WLY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/HA4IVCFHNJGMNDY2A5ETG54WLY/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 14:07:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AECOKZTIRNBZNA3DEKLSARNZ4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;아내 살인 혐의로 기소된 육군 부사관 A씨의 결혼사진(왼쪽), 사망한 아내가 머무르던 방의 상태. /SBS '그것이 알고싶다'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전신 오염과 피부 괴사에 이른 아내를 방치해 죽음에 이르게 한 혐의를 받는 육군 부사관이 살인 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;16일 육군에 따르면, 군 검찰은 전날 부사관 A씨를 살인 혐의로 기소했다. 앞서 육군 수사단이 A씨에 대해 중유기치사 혐의로 송치한 것과 비교해 형량을 높여 기소한 것이다. &lt;br&gt;&lt;br&gt;군 검찰은 부작위(마땅히 해야 할 행위를 하지 않음)에 의한 살인죄가 성립할 수 있다고 판단해 주의적 공소사실은 살인으로, 예비적 공소사실은 유기치사로 기소했다. &lt;br&gt;&lt;br&gt;지난달 17일 파주시 광탄면에서 “아내의 의식이 혼미하다”는 119 신고가 접수됐다. 구급대가 현장에 도착했을 때 A씨 아내는 전신이 오물에 오염된 상태였고, 하지 부위에서는 감염과 욕창으로 인한 피부 괴사까지 진행된 것으로 확인됐다. 상처에 적절한 치료가 이뤄지지 않아 구더기도 기어 다니고 있었던 것으로 알려졌다. A씨 아내는 병원에서 치료받던 중 숨졌다. &lt;br&gt;&lt;br&gt;A씨는 아내가 지난 8월부터 공황장애와 우울증으로 거동이 불편해진 뒤 온몸에 욕창이 생겼음에도 약 3개월간 병원 치료나 보호 조치를 하지 않은 것으로 조사됐다. 사망 후 고인이 A씨에게 쓴 편지에는 “병원 좀 데리고 가달라”고 부탁하는 내용이 적혀 있었고, 생전 쓴 다이어리에는 “죽고 싶다. 죽어야 괜찮을까”라는 내용 등이 담겼던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김용현 변호인단, 감치에 불복해 항고했지만... 법원 “원심 판단에 문제 없다” 모두 기각</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/16/JOTE6B7WDNEMPL6INVYIDZJRPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/JOTE6B7WDNEMPL6INVYIDZJRPA/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 12:55:53 +0000</pubDate>
+      <content:encoded>지난달 한덕수 전 국무총리 재판에 증인으로 출석했던 김용현 전 국방장관의 옆에 앉게 해달라며 법정에서 소란을 피운 변호인들이 법원의 감치 선고를 받아들일 수 없다며 항고했으나, 상급 법원이 이를 받아들이지 않은 이유가 상세히 공개됐다. 재판부는 특히 두 사람이 동석을 요청하며 제시한 ‘신뢰관계인 동석’ 제도를 적용할 수 없다는 원심 재판부 판단에 문제가 없다고 봤다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IA76RKOYTDTWPUBFZKSEQBFCHQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원이 있는 서울 서초구 서울법원종합청사.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 법조계에 따르면 서울고법 형사20부(재판장 홍동기)는 지난 10일 김 전 장관의 변호인 이하상·권우현 변호사가 낸 항고를 기각하면서 13쪽 분량 결정문을 통해 그 이유를 상세히 설명했다. 우선 재판부는 신뢰관계 동석 제도의 도입 취지를 살펴볼 때 이들의 동석을 불허한 서울중앙지법 형사33부(재판장 이진관)의 조치가 그 재량을 넘어서지 않았다고 봤다. 현행 형사소송법은 법원이 범죄로 인한 피해자를 증인으로 불러 신문할 때 피해자와 신뢰관계에 있는 자를 동석하게 할 수 있도록 규정한다. 지난달 19일 두 사람은 이 제도를 근거로 김 전 장관과 동석하겠다고 했는데, 이 재판장이 이를 받아들이지 않자 법정에서 소란을 피웠다. 두 사람은 이진관 재판장의 퇴정 명령을 거부하다 감치 15일을 선고받았다. &lt;br&gt;&lt;br&gt;항고를 심리한 재판부는 “이 규정은 범죄로 인한 피해자 증인신문 과정에서 피해자에 대한 2차 피해를 막기 위한 것”이라며 “종래 성폭력처벌법에만 규정돼 있던 제도를 일반 범죄 피해자에게 확장한 것”이라고 설명했다. 그러면서 “김 전 장관은 내란 중요 임무 종사 등 혐의로 기소됐을 뿐 범죄로 인한 피해자라고 할 수 없다”며 “신뢰 관계 동석권이 적용된다고 할 수 없다”고 봤다.&lt;br&gt;&lt;br&gt;재판부는 변호인들에 대한 감치 사유도 모두 인정된다고 판단했다. 다른 방청객들과 달리 방청권이 없는데도 퇴정 명령에 따르지 않은 점, 재판장의 제지에도 계속 발언을 이어간 점, 재판장의 감치 처분에 대해 “감치 처분해 주셔서 감사합니다”라고 말한 점 등을 고려하면 두 사람이 법정 질서 유지에 불응했다는 것이다.&lt;br&gt;&lt;br&gt;감치 재판이 절차적으로 위법했다는 변호인들의 주장도 재판부는 받아들이지 않았다. 재판부는 두 사람에 대해 “감치 재판 당시 변호인 조력을 받고 싶다는 말만 되풀이하며 인정신문 자체를 거부했다”며 “보조인을 선임할 때까지 재판을 연기해야 한다면 감치 재판이 지연될 우려가 있었다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>LG 휘센 에어컨 로고, 순금이었다…70만원 벌어간 고객</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/BAORPUSGPBCIRPRO6XH7GPQD6A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/BAORPUSGPBCIRPRO6XH7GPQD6A/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 13:12:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/I5547JLEKJCNXF2EG37JAOLF7Q.png"&gt;&lt;figcaption&gt;&lt;small&gt;과거 한정 판매됐던 LG전자 휘센 에어컨 로고가 순금으로 분석됐다. /유튜브 '링링언니'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;과거 LG전자에서 한정으로 판매한 ‘휘센’ 에어컨 로고가 순금이라는 사실이 알려져 화제가 되고 있다. &lt;br&gt;&lt;br&gt;금은방을 운영하는 유튜버 ‘링링언니’는 지난 11일 ‘에어컨에도 금이 있어요?’라는 제목의 영상을 올렸다. &lt;br&gt;&lt;br&gt;유튜버는 구겨진 금 조각들을 손에 들고 “이게 뭐냐”고 물었고, 고객은 “LG 휘센 에어컨에서 떼어낸 거다. 에어컨 정면에 붙어 있던 로고”라고 설명했다. 이어 “배송하는 아저씨가 금이라고 하고, 광고에서도 금이라고 했다”며 “당시에는 ‘이거 떼어가면 만원은 준다’고 했었다”고 말했다. &lt;br&gt;&lt;br&gt;유튜버는 금 조각들을 녹여 분석한 결과 순금으로 확인됐다고 밝혔다. 그는 고객에게 전화를 걸어 “18K도 아니고 순금이었다”며 “중량은 한 돈에 조금 못 미쳐서 71만3000원을 드리겠다”고 했다. &lt;br&gt;&lt;br&gt;이 영상이 조회 수 100만회를 넘어서며 화제가 되자 15일 또 다른 고객이 “영상을 보고 왔다”며 유튜버를 찾아왔다. 앞선 고객의 것보다 휘센(WHISEN) 로고가 더 온전히 남아 있었다. &lt;br&gt;&lt;br&gt;이 고객은 “예전에 이 로고를 떼서 동네 금 거래소에 갔더니 ‘보증서도 없고 금이 아닌 것 같다’고 하더라. 버릴까 싶어서 어딘가에 던져놨는데 영상이 뜬 걸 봤다”고 말했다. 로고를 깔끔하게 제거하는 방법으로는 낚시줄로 긁어내듯이 떼어내면 된다고 했다. &lt;br&gt;&lt;br&gt;이번 의뢰 역시 순금으로 분석됐다. 유튜버는 “무게가 1.02g이 나왔는데, 녹일 때 날아가는 금이 있다”며 “분석료를 제외하고 74만8000원을 받을 수 있다”고 했다. &lt;br&gt;&lt;br&gt;2005년 LG전자는 5년 연속 에어컨 세계 판매 1위를 기념해 선착순 1만명의 고객에게 순금 휘센 로고가 부착된 제품을 공급했다. 2008년에는 예술 작가의 서명을 새긴 순금 명판(1돈)이 적용된 휘센 에어컨 제품을 1만대 한정 판매했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘신태용 폭행 논란’ 울산 구단, 첫 공식입장 “부적절 행위 인지”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/KL3ZDGU3AVDAPKFEQXQ3KJLFT4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/KL3ZDGU3AVDAPKFEQXQ3KJLFT4/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 12:22:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVSTGNRVGNQTMYJZHFRDSZJUGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신태용 전 울산 HD 감독. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;프로축구 울산 HD가 신태용 전 감독의 선수 폭행 등 논란과 관련해 처음으로 공식 입장을 밝혔다. &lt;br&gt;&lt;br&gt;울산 구단은 16일 “대한축구협회로부터 받은 ‘울산 HD 선수단 및 전 감독 관련 논란에 대한 사실관계 확인 요청의 건’ 공문을 전날 회신했다”며 “그간 파악한 사실들과 선수 보호를 위해 취했던 조치들을 성실하게 설명했다”고 전했다. &lt;br&gt;&lt;br&gt;구단은 “폭행 논란 등 부적절한 행위가 있었던 점을 인지하고 이에 대한 조처를 해왔다”며 “선수들과의 면담을 통해 부적절한 행위에 대한 사실관계를 파악했고, 당사자에게 구두‧서면으로 주의와 개선을 요청했다. 나아가 시즌 중 감독과 계약을 해지하는 등 필요한 조치를 했다”고 설명했다. 이어 “앞으로도 상위 기관의 요청에 적극적으로 협조할 것이며 선수단을 비롯한 소속 구성원들을 위한 보호, 안전, 예방 활동을 이어가겠다”고 했다. &lt;br&gt;&lt;br&gt;구단은 또한 “소속 선수들을 향한 과도한 비난과 비방에 대해 예의 주시하고 있다”며 “심각한 사안에 대해서는 신중한 검토를 거쳐 필요시 추가적인 조치도 고려하고 있다”고 했다. &lt;br&gt;&lt;br&gt;신태용 감독이 올해 8월 울산 지휘봉을 잡은 지 약 2개월 만에 물러난 것을 전후로 선수들과 갈등이 있었다는 점이 알려지면서 잡음이 끊이지 않고 있다. &lt;br&gt;&lt;br&gt;선수들은 구단과 협의를 통해 시즌을 마친 뒤 입장을 밝히기로 했고, 정승현은 지난달 30일 최종전에서 신 감독에게 폭행당했으며 선수들이 부당한 대우를 받은 사례가 많다고 밝혔다. &lt;br&gt;&lt;br&gt;신 감독은 “폭행이나 폭언이 있었다면 감독을 하지 않겠다”고 반박했고, 정승현의 뺨을 치는 영상이 공개되며 논란이 이어졌다. 이에 대한축구협회는 울산 구단에 사실관계를 알려달라고 요청해 사실상 조사를 시작했고, 울산 구단이 회신을 보내면서 사실상 첫 입장을 밝히게 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, 뇌물수수 의혹 정성주 김제시장 8시간 소환 조사…무고 입장 되풀이 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/16/P6TPKKU75RCGVLOORDZYHIVZ4U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/P6TPKKU75RCGVLOORDZYHIVZ4U/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 12:59:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G43TOYLDG42TAMBUHEYGCYTFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;소환조사를 위해 전북경찰청에 들어오고 있는 정성주 김제시장./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 지인에게 대가성 금품을 받은 혐의를 받는 정성주(61) 전북 김제시장을 16일 소환조사했다.&lt;br&gt;&lt;br&gt;전북경찰청 반부패경제범죄수사대는 이날 오후 1시 15분쯤 뇌물수수 피의자 신분으로 정 시장을 불러 관련 경위를 조사했다.&lt;br&gt;&lt;br&gt;정 시장은 경찰 조사를 앞두고 취재진에게 “진실은 곧 밝혀질 것”이라며 “조사에 성실히 응하겠다”고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이날 금품수수 진위와 대가성 여부를 집중적으로 추궁했으나 정 시장은 “그런 돈 받은 적 없다”면서 혐의 대부분을 부인했다.&lt;br&gt;&lt;br&gt;정 시장은 뇌물 의혹을 처음 제기한 지인과의 대질 조사에서도 마찬가지로 자신은 무고하다는 입장을 되풀이한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;그는 8시간 가량 조사받은 뒤 이날 오후 9시 30분쯤 귀가했다.&lt;br&gt;&lt;br&gt;정 시장은 임기 초반인 2022∼2023년 두 차례에 걸쳐 특정 디자인업체에 일감을 주는 대가로 8300여만원을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;경찰은 관련 의혹이 담긴 진정서를 토대로 최근 김제시청과 해당 업체를 압수수색 하는 등 수사에 속도를 내고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “관련자 조사 내용과 확보한 증거물 등을 토대로 송치 여부를 정하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>80대 치매 노모 폭행해 숨지게 한 50대 구속…법원 “도주 우려”</title>
+      <link>https://www.chosun.com/national/regional/2025/12/16/BPPYZDB25FDUJCBMZXJMXSSICY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/BPPYZDB25FDUJCBMZXJMXSSICY/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 12:33:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZDMOLGGIZTIYLDHEZDOZJXMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 용인동부경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;치매를 앓고 있는 80대 노모를 지속적으로 폭행해 사망에 이르게 한 혐의를 받는 50대 아들이 구속됐다.&lt;br&gt;&lt;br&gt;경기 용인동부경찰서는 존속폭행치사, 노인복지법 위반 혐의로 A씨를 구속했다고 16일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난달 초부터 지난 13일까지 용인시 처인구 자택 내에서 어머니 B씨를 여러 차례에 걸쳐 주먹이나 발, 손바닥 등으로 폭행해 사망케 한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;A씨는 14일 오전 11시쯤 B씨가 방에서 숨져 있는 것을 발견하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;A씨는 출동한 경찰관에게 “전날 어머니를 때렸다”고 진술해 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰은 집 내부에 설치된 카메라(홈캠)에 저장돼 있는 한 달치 영상 분석을 통해 A씨가 신고 전날인 13일 오후 8시쯤 B씨의 뺨을 수차례 때리는 등 그동안 B씨를 지속해서 폭행한 정황을 확인했다.&lt;br&gt;&lt;br&gt;B씨의 시신에는 멍 자국은 물론 골절 부위도 있었다고 한다. 다만 골절의 경우 폭행에 의한 것인지, 심폐소생술(CPR) 등 구호 과정에서 생긴 것인지 알 수 없다고 경찰은 전했다.&lt;br&gt;&lt;br&gt;B씨의 시신을 부검한 국립과학수사연구원은 “현재로선 사인을 판단하기 어렵다”는 1차 구두 소견을 냈지만, 경찰은 A씨의 폭행과 B씨의 사망 간 연관성을 배제할 수 없다며 구속영장을 신청했다.&lt;br&gt;&lt;br&gt;법원은 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 “도주 우려가 있다”며 영장을 발부했다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 2015년부터 치매를 앓는 B씨와 함께 살다가 밥이나 약을 먹지 않는다는 이유로 학대한 것으로 보고 수사를 확대해 나갈 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“돈 때문에 결혼 미루지 않게…” 정선군, 신혼부부에 500만원 준다</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/RNTKJVDBAVHOVAKM3FN2IIWJAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/RNTKJVDBAVHOVAKM3FN2IIWJAQ/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 11:39:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L3ZR3A2DHZDKNC5G4666J7MDNU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=박상훈&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 정선군이 내년부터 결혼 장려금과 농어촌 기본소득을 지원한다. 지역 소멸을 막고 결혼 친화적 환경을 조성하기 위함이다. &lt;br&gt;&lt;br&gt;정선군은 내년부터 결혼 가구에 3년에 걸쳐 총 500만원을 지원하는 ‘결혼 장려금’ 제도를 시행한다고 16일 밝혔다. 혼인 신고 직후 200만원을 지급하고 1년 뒤 200만원, 2년 뒤 100만원을 주는 방식이다. 장려금은 지역 화폐인 와와페이로 지급한다. &lt;br&gt;&lt;br&gt;지원 대상은 45세 이하 결혼 가구다. 혼인 신고일로부터 6개월 이내 신청해야 하며, 부부 중 1명 이상은 혼인 신고일 1년 전부터 최초 지급 신청일까지 정선에 주민등록을 두고 실제 거주해야 한다. 재혼도 신청할 수 있지만, 과거 결혼 장려금을 받은 이력이 있거나 이혼 후 동일인과 재혼한 경우는 받을 수 없다. 결혼 이민자는 결혼 비자 발급일을 기준으로 신청하면 된다. &lt;br&gt;&lt;br&gt;3차 지급까지 단계별 요건을 충족하지 못하면 지원이 중단된다. 이혼하거나 정선군 외 지역으로 전출 등 거주 요건 미충족 시에도 지급이 중단된다. 허위 신청이나 부정한 방법으로 지원금을 받을 경우에는 전액 환수한다. &lt;br&gt;&lt;br&gt;이에 더해 군은 내년부터 모든 군민에게 매월 1인당 15만원씩 농어촌 기본소득을 지원한다. 정부가 농어촌 지역 소멸을 막고자 추진하는 농어촌 기본소득 시범 사업에 선정됨에 따라 진행하는 것이다. 내년부터 2027년까지 5년간 국비, 도비 등 1167억원의 예산을 투입해 연인원 6만4880명에게 기본소득을 지급한다. &lt;br&gt;&lt;br&gt;김덕기 가족행복과장은 “결혼을 준비하는 군민들이 경제적 부담 때문에 미래를 미루지 않도록 실효성 있는 지원을 마련했다”며 “안심하고 가정을 꾸릴 수 있는 지역으로 자리 잡도록 사업 추진에 최선을 다하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/L3ZR3A2DHZDKNC5G4666J7MDNU.png?auth=824e06b97fe2762ae61ba6a5181790a9c0e45d7b533be3aa355a7bab4012b1a6&amp;smart=true&amp;width=305&amp;height=549" type="image/png" height="549" width="305">
+        <media:description type="plain">일러스트=박상훈</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>통일교 간부 “경기·강원 국민의힘 인사들에게 후원금 건넸다”... 법정 증언</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/16/37XYCUCWPRBEJAXWKRWX22XCCM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/37XYCUCWPRBEJAXWKRWX22XCCM/</guid>
+      <dc:creator>이민준 기자, 김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 10:54:40 +0000</pubDate>
+      <content:encoded>지난 2022년 20대 대선 당시 통일교가 국민의힘 측에 2억여 원을 ‘쪼개기 후원’했다는 의혹과 관련해 “경기·강원 지역 국민의힘 인사들에게 후원금을 건넸다”는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRQWGN3FGU3TGZJYGM3DEMBQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 가평군 통일교 천원궁과 천정궁 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교 간부 정모씨는 이날 서울중앙지법 형사27부(재판장 우인성)에서 열린 한학자 통일교 총재의 정치자금법 위반 등 혐의 재판에 나와 20대 대선 당시 국민의힘 소속 정치인들에게 후원금을 건넨 정황을 상세히 설명했다. 특검 측은 정씨에게 특검 당시 진술 내용을 제시하면서 “유상범 의원에게 2000만원을 전달하려 했지만 무리라고 판단했다고 진술했고, 자신의 위에 있던 또 다른 간부 황모씨의 판단 하에 권성동 의원에게 100만원, 백경현 구리시장에게 100만원, 김진태 강원지사에게 500만원 등을 지원했다고 진술했는데, 이것이 맞느냐”고 물었다. 정씨는 “일부는 당시에 알았고, 사후에 알았던 것도 있다”고 답했다. 유 의원에게는 후원금을 주지 못했으나, 다른 인사들에게 전달된 것은 맞다는 취지다.&lt;br&gt;&lt;br&gt;정씨는 특검 측이 “통일교 차원에서 국민의힘에 기부금을 건넨 이유가 무엇이냐”는 질문에 “국민의힘에 영향력을 행사하기 위해서이지 않았을까”라고 답했다. 또 국민의힘 각 시도당에 건넬 돈이 통일교 측에서 지급된 배경에 대해 “윤영호 전 통일교 세계본부장의 지시라고 들었다”고 증언했다.&lt;br&gt;&lt;br&gt;이 같은 증언은 지난 8일 법정에서도 나온 바 있다. 정씨가 이날 언급한 황씨는 “김성원 당시 경기도당 위원장과 한기호 당시 강원도당 위원장의 선거운동 현장까지 갔지만, 자금을 전달하지는 못했다”고 말했다. 그 대신 권 의원과 김 지사, 백 시장에게 후원금을 건넨 사실은 맞다고 했다. 또 박형덕 동두천시장에게도 1000만원을 줬다고도 했다.&lt;br&gt;&lt;br&gt;이런 가운데 이날 법정에선 더불어민주당 인사들에게도 후원금을 건넸다는 통일교 간부 증언도 나왔다. 전라도 일대에서 국민의힘을 지지하더라도 큰 의미가 없어 여당과 야당에 같이 주는 게 옳다고 판단했다는 것이다. 통일교 간부 이모씨는 “강기정 광주시장과 이용섭 전 광주시장에게 후원금을 건넸느냐”는 특검 질문에 “제가 한 건 아니지만, 다른 관계자가 의견을 낸 것”이라며 후원 사실을 시인했다. “민주당 후원을 상부에 보고했느냐”는 특검 질문엔 “정확한 기억은 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>안세영, 3년 연속 세계 배드민턴 ‘올해의 여자 선수’ 뽑혀</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/HOMQBVKDM5D77KPIFEC62QORKY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/HOMQBVKDM5D77KPIFEC62QORKY/</guid>
+      <dc:creator>김영준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 11:00:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQTMNBXGY2TGMLFGU3TIYLDGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 BWF(세계배드민턴연맹) 시상식에서 올해의 여자 선수상을 받은 안세영(왼쪽). /BWF&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 배드민턴 간판 스타 안세영(23·삼성생명)이 BWF(세계배드민턴연맹) ‘올해의 여자 선수’로 선정됐다. 또 ‘선수들이 뽑은 올해의 여자 선수’로도 뽑혀 2관왕 영예를 안았다.&lt;br&gt;&lt;br&gt;여자 단식 세계 랭킹 1위인 안세영은 15일 중국 항저우에서 열린 BWF 갈라 어워즈에서 중국 왕즈이(2위), 천위페이(5위), 일본 야마구치 아카네(3위) 등을 제치고 올해의 여자 선수상을 받았다.&lt;br&gt;&lt;br&gt;안세영은 2023년 열린 항저우 아시안게임 금메달을 획득하면서 그해 처음 이 상을 받았고, 파리 올림픽 정상에 오른 지난해에 이어 올해 3년 연속 수상했다.&lt;br&gt;&lt;br&gt;이뿐만 아니라 ‘선수들이 뽑은 올해의 여자 선수’에도 이름을 올려 2관왕에 올랐다. 이 상은 지난해 처음 제정돼 안세영이 초대 수상자였는데 올해 2년 연속 수상했다.&lt;br&gt;&lt;br&gt;안세영은 올해 14차례 국제대회에서 여자 단식 선수 최초로 10승을 올리며 압도적인 활약을 펼쳤다. 17일 항저우에서 열리는 월드투어 파이널에서 우승한다면, 남녀 통틀어 단일 시즌 최다 우승 기록인 일본 모모타 겐토의 11승과 어깨를 나란히 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인천서 1살 아기 탄 SUV 전복 사고…4명 부상</title>
       <link>https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</guid>
@@ -841,20 +925,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BRTJL2JX3BHJBJ4OEBE2UUYETQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 침산중학교 학생들로 구성된 침산윈드오케스트라 공연 모습. /침산중&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침산윈드오케스트라 제9회 정기 연주회가 16일 오후 7시 30분 대구콘서트하우스 그랜드홀에서 열린다. &lt;br&gt;&lt;br&gt;침산중학교 학생들로 구성된 침산윈드오케스트라는 이번 정기 연주회에서 ‘Spring March’, ‘A Filvar Story’, 넷플릭스 영화 ‘케이팝 데몬 헌터스’ OST인 ‘골든(Golden)’, 하이든 트럼펫 협주곡(Trumpet Concerto in Eb Major Hob. Ⅶe:1) 등을 관객에게 선보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZI2N5SZBWBBOJDQEVZCUDL7M6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;침산윈드오케스트라 정기연주회 포스터./침산중&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 정기 연주회 하이라이트는 ‘하이든 트럼펫 협주곡’으로, 대한민국을 대표하는 트럼페터 이현준이 협연자로 나선다. 그는 독일 함부르크 필하모닉 오케스트라의 트럼펫 종신 수석으로 활동하며, 국내를 넘어 세계 무대에서도 주목받는 연주자로 평가받고 있다. 하이든의 마지막 협주곡인 이 작품은 TV 프로그램 ‘장학퀴즈’, 드라마 ‘오징어 게임’의 배경 음악으로 사용되며 대중에게 널리 알려진 곡이다. &lt;br&gt;&lt;br&gt;연주회를 준비한 관악부장 김준우 학생은 “대한민국을 대표하는 트럼페터 이현준 선생님과 같은 무대에서 연주할 수 있다는 사실이 가슴 벅차고 영광스럽다”고 전했다. &lt;br&gt;&lt;br&gt;2011년 5월 창단한 침산윈드오케스트라는 2014년 대구시교육청 주최 제2회 창의체험동아리축제 공연 부문 대상, 올해 열린 제22회 춘천전국관악경연대회 중등부 1위인 ‘최우수상’을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 12월 16일 화요일 (음력 10월 27일 己未) </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/QRMDVP2CMVCPPFWL45EL6LFHRQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
-		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
-멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
-		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
-		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>국가유공자 논란 ‘박진경 대령’ 추도비 옆 ‘바로 세운 진실’ 안내판 설치됐다</title>
       <link>https://www.chosun.com/national/regional/2025/12/15/USAJM6LDVBEDLBRO54T3RVVMFE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/USAJM6LDVBEDLBRO54T3RVVMFE/</guid>
@@ -862,33 +932,6 @@
       <description/>
       <pubDate>Mon, 15 Dec 2025 07:26:43 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P2SXVBYWLBF5HAG6QJMUMQ64CE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주도 등이 15일 박진경 대령 추도비 옆에 설치한 '바로 세운 진실' 안내판./제주도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도와 제주4·3평화재단, 제주4·3희생자유족회는 15일 제주시 산록도로 한울공원 인근 도로변에 있는 고(故) 박진경 대령 추도비 옆에 ‘바로 세운 진실’ 안내판을 설치했다.&lt;br&gt;&lt;br&gt;제주도는 정부의 ‘제주4·3사건 진상조사보고서’ 등을 토대로 객관적 사실에 근거해 박진경 대령과 제주4·3의 역사적 사실을 바로 알리기 위해 안내판을 설치했다고 밝혔다.&lt;br&gt;&lt;br&gt;안내판에는 1945년 8월 광복 이후 정세와 1947년 3월 관덕정 경찰 발포 사건, 1948년 4월 무장봉기 등 시대 상황과 함께 1948년 5월 제주도에 들어온 박진경 대령의 약 40일간 행적, 박 대령을 암살한 문상길 중위와 손선호 하사의 이야기가 담겼다. &lt;br&gt;&lt;br&gt;박진경 대령은 제주에 주둔하던 9연대장으로 부임한 뒤 1948년 6월 18일 대령 진급 축하연을 마치고 숙소에서 잠을 자던 중 부하들에게 암살당했다.&lt;br&gt;&lt;br&gt;그에게 국가보훈부가 국가유공자 증서를 발급한 사실이 지난 10일 전해지자 제주 4·3희생자 유족 등은 양민 학살 책임자를 국가유공자로 인정했다고 반발했다.&lt;br&gt;&lt;br&gt;권오을 국가보훈부 장관이 지난 11일 제주를 방문해 사과했고, 15일에는 이재명 대통령이 국가보훈부에 박 대령에 대한 국가유공자 지정 취소를 검토하라고 지시했다. 이날 국방부는 박 대령을 국가유공자로 지정한 근거가 되는 무공훈장 서훈에 대한 재검토에 나선다고 밝혔다.&lt;br&gt;&lt;br&gt;제주의 박진경추도비는 애초 1952년 군경원호회 명의로 제주시 구도심 관덕정 경찰국 청사 내에 세워졌다가 1980년대 제주시 충혼묘지로 옮겨졌다. 2022년 제주국립호국원이 개원하면서 현재 한울공원 인근 도로변으로 이전됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희 특검 “尹 피의자 조사 17일에서 20일로 변경”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/15/T2LKZGPFUNCWNLQHN7YXCAZVIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/T2LKZGPFUNCWNLQHN7YXCAZVIU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 07:30:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNTDSNJYMJRTIMBXMM4DMOBUMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 김 여사와 공모한 혐의를 받는 윤석열 전 대통령을 오는 20일 오전 10시에 피의자로 불러 조사한다.&lt;br&gt;&lt;br&gt;김건희 특검은 “변론 준비가 필요하다는 변호인 요청에 따라 윤 전 대통령 소환 조사 일정이 17일에서 20일 오전 10시로 변경됐다”고 15일 밝혔다. &lt;br&gt;&lt;br&gt;특검과 윤 전 대통령 측은 당초 17일로 조사 일정을 합의했지만, 윤 전 대통령 측이 재판 일정으로 주중 조사가 어렵다며 조사일을 미뤄달라고 한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 김건희 여사와 함께 ‘정치 브로커’ 명태균씨로부터 2억7000여 만원어치 여론조사 결과를 무상으로 받은 혐의(정치자금법 위반), 김상민 전 부장검사로부터 1억4000만원 상당의 이우환 화백의 그림을 받은 혐의(특정범죄가중처벌법상 뇌물)를 받고 있다. 대선 후보였던 2021년 말 토론회에서 김 여사와 관련해 허위 사실을 공표한 혐의(공직선거법 위반)도 있다. &lt;br&gt;&lt;br&gt;이 밖에 특검은 윤 전 대통령을 상대로 김 여사가 2022년 대선 직후 이봉관 서희건설 회장, 이배용 전 국가교육위원장 등으로부터 청탁과 함께 받은 귀금속 등과 관련해 윤 전 대통령이 공모했는지도 확인할 것으로 전해졌다.&lt;br&gt;&lt;br&gt;지난 7월 2일 수사를 개시한 김건희 특검이 윤 전 대통령을 조사하는 것은 이번이 처음이다. 특검은 7월 말부터 윤 전 대통령을 조사하려 했고, 체포영장까지 발부받아 윤 전 대통령을 강제 구인하려 했지만 윤 전 대통령이 강하게 거부해 조사하지 못했다.&lt;br&gt;&lt;br&gt;김건희 특검은 수사 기한이 오는 28일에 끝나는 만큼 윤 전 대통령에 대한 조사를 가급적 20일 하루에 마무리할 것으로 보인다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘심정지 발견’ 김성제 의왕시장, 의식 회복…“대화 가능”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/GAIBPFP3RBF23EE2AASX5VYIGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/GAIBPFP3RBF23EE2AASX5VYIGU/</guid>
-      <dc:creator>의왕=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 06:11:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XINSFVWW6XWOEHAC3PWVCGPYIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성제 경기 의왕시장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 14일 심정지 상태로 발견돼 병원으로 옮겨져 치료를 받아온 김성제 경기 의왕시장이 하루 만에 의식을 되찾았다.&lt;br&gt;&lt;br&gt;이날 의왕시에 따르면 김 시장은 의식을 회복해 대화가 가능한 상태다. 시 관계자는 “현재 가족과 의사소통이 가능한 정도”라고 했다.&lt;br&gt;&lt;br&gt;김 시장은 전날 오후 4시 9분쯤 의왕시 학의동에 있는 자택 아파트단지 내 골프연습장에서 심정지 상태로 쓰러졌다. 당시 현장에 있던 다른 주민의 빠른 신고로, 119 구급대의 응급조치를 받으며 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;김 시장은 병원서 인공심폐장치인 에크모 시술과 스텐트를 삽입해 혈류를 개선하는 스텐트 삽입 치료 등을 받고 호흡과 맥박을 되찾았다. 그러나 전날까지는 의식은 찾지 못한 상태였다. 이날 오전 눈을 떴지만 의식이 명료한 상태는 아니었다.&lt;br&gt;&lt;br&gt;아직 김 시장에 대한 정밀 검진은 진행 중이다. 의왕시는 “병원측에서 ‘환자의 의식이 명료해 2~3주 이내 회복될 것으로 보인다’고 밝혔다”고 했다. &lt;br&gt;&lt;br&gt;한편, 김 시장은 1960년 전남 보성군 출신으로 제36회 행정고시에 합격한 뒤 국토해양부 과장, 건설교통부 서기관 등을 거쳐 제8·9대 의왕시장을 지냈다. 이후 지난 2022년 국민의힘 소속으로 제8회 전국동시지방선거에 출마해 3선 시장이 됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>K-패스, 정액권 도입해 환급액 늘려준다</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/15/6335XDGVF5AG3D3UBWYWV6F4DU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/15/6335XDGVF5AG3D3UBWYWV6F4DU/</guid>
-      <dc:creator>김아사 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 07:06:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/R4QUI4K7I5MJDPNKF6L3W7YPOI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 지하철역에서 시민들이 개찰구를 통과하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통카드 이용료 일부를 환급해 주는 ‘K-패스’의 환급액이 늘어난다. 국토교통부 대도시권광역교통위원회는 K-패스에 정액권 개념을 합한 ‘모두의 카드’를 새로 도입한다고 15일 밝혔다. 미리 규정된 ‘월 기준 금액’을 넘긴 대중교통 요금 초과분을 모두 환급해 준다는 것이다.&lt;br&gt;&lt;br&gt;기존 K-패스는 월 15회 이상 대중교통(시내버스, 지하철, 광역버스, GTX 등)을 이용하는 경우 월 최대 60회까지 지출 금액의 일정 비율(20~53.3%)을 환급받을 수 있는 제도였다. 새롭게 도입되는 ‘모두의 카드’는 미리 마련된 ‘환급 기준 금액(수도권 일반 국민 월 6만2000원)’에 따라, 이를 넘은 초과 사용분은 모두 돌려주는 방식이다. 예컨대 서울에 사는 A씨가 교통카드 11만원어치를 썼다면 그동안은 2만2000원(20%)만 환급받을 수 있었지만, 앞으론 4만8000원(11만원-6만2000원)을 받을 수 있다. &lt;br&gt;&lt;br&gt;환급 기준 금액은 대중교통 인프라 구축 상황 등을 고려해 지역별로 차등 적용된다. 수도권, 일반 지방권, 우대·특별 지원 지역 등으로 나뉘는데 인구가 적은 지역일수록 기준 금액을 낮춰 환급받는 금액이 많도록 설계됐다. 수도권은 일반 6만2000원, 지방권은 5만5000원, 우대 지원 지역은 5만원, 특별 지원 지역은 4만5000원이다. 부산에 사는 B씨가 11만원어치 대중교통을 이용했을 경우엔 앞으로 5만5000원을 받을 수 있는 것이다. 청년, 어르신(65세 이상), 3자녀 이상, 저소득층의 경우 기준 금액이 더 낮아 환급 금액이 늘어난다.&lt;br&gt;&lt;br&gt;카드 종류는 일반형과 플러스형 두 가지로 구분되는데, 일반형은 1회 총 이용 요금(환승 금액 포함)이 3000원 미만인 수단에만 적용되고, 플러스형은 모든 수단에 대해 환급이 적용된다. 대신 플러스형의 환급 기준 금액이 더 높다.&lt;br&gt;&lt;br&gt;이용자는 별도의 카드를 발급받을 필요가 없고 기존의 K-패스 카드를 그대로 사용하면 된다. 국토부 관계자는 “기존의 K-패스 환급액과 새로 적용된 시스템을 통한 환급액 중 환급 혜택이 큰 방식이 자동 적용된다”며 “환급 금액은 K-패스 앱과 홈페이지 등에서 확인할 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>2031년 부천 대장~홍대입구 27분이면 간다</title>
@@ -909,15 +952,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RW5JMT62T3POAKSYWWRXSLCU3I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 정보 사령관&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이른바 ‘부정선거 수사단’을 꾸리기 위해 국군 정보사령부 요원들의 개인정보를 빼낸 혐의로 기소된 노상원(62) 전 정보사령관에게 1심에서 실형이 선고됐다. 조은석 내란 특별검사가 기소한 사건 중 처음 1심 판결이 나왔다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 이현복)는 이날 노 전 사령관의 개인정보보호법 위반과 알선수재 사건 선고 기일을 열고 징역 2년에 추징금 2490만원을 선고했다. 재판부는 “노씨 범행은 실체적 요건을 갖추지 못한 비상계엄이 선포 단계까지 이르게 하는 동력 중 하나가 됐다”며 “단순히 개인정보보호법 위반이나 알선수재 범행의 죄책을 넘어 위헌·위법한 비상계엄 선포라는 중대하고 엉뚱한 결과를 야기했다는 점에서 엄중한 책임을 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;노씨는 지난해 9~12월 이미 전역한 민간인 신분으로 부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’을 기획하면서 문상호 당시 정보사령관 등에게 정보사 요원 46명의 계급과 출신, 임관년도 등 인적 사항을 요구해 넘겨받은 혐의로 기소됐다. 재판부는 “노씨 범행은 계엄 선포 이전인 2024년 10월 중순 이전부터, 계엄 요건이 충족되는지 여부와 무관하게 특정 시점에 계엄 선포할 것을 계획하고 준비·수행하는 행위의 일환으로 이뤄진 것이라고 판단된다“며 ”이는 위헌적이고 위법한 행위”라고 했다. 다만 재판부는 노씨가 취득한 요원 명단이 노씨 외 군 외부로 유출된 것으로 보이지는 않고, 청탁 알선도 실패한 것으로 그친 점을 양형에 고려했다.&lt;br&gt;&lt;br&gt;노씨는 또 작년 8~10월 김봉규 전 정보사 중앙신문단장(대령)과 구삼회 육군 2기갑여단장(준장)에게 진급을 도와주겠다는 명목으로 현금 2000만원과 백화점상품권 600만원어치를 받은 혐의도 받는다. 이에 대해 재판부는 “김 대령과 구 준장의 진술의 신빙성이 인정되고 진술과 계좌 거래 내역이나 상품권 구매 내역 등 증거가 일치한다”며 “현금 1500만원과 상품권 600만원어치를 받은 사실이 인정되고 각 금품 모두 진급 청탁의 대가성이 인정된다”고 했다. &lt;br&gt;&lt;br&gt;12·3 비상계엄 사태의 ‘비선(祕線) 기획자’로 꼽히는 노씨는 김용현 전 장관 등과 함께 같은 법원 형사25부(재판장 지귀연)에서 내란 혐의로 별도 재판을 받고 있다. 이 재판은 윤석열 전 대통령의 내란 우두머리 사건과 이달 하나로 병합돼 내년 2월쯤 선고가 이뤄질 전망이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>제주 반려동물 놀이시설·동물보호센터 문 열었다</title>
-      <link>https://www.chosun.com/national/regional/2025/12/15/YCU2C36IFREIRDKFIJN5G3UNT4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/YCU2C36IFREIRDKFIJN5G3UNT4/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 06:53:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZSTONTGGM3DQMBWGRTDGNBQMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오영훈 제주지사가 15일 제주시 애월읍에 문을 연 제2동물보호센터를 둘러보고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주시 애월읍 어음리에 반려동물 놀이공원과 제2동물보호센터가 15일 문을 열었다. &lt;br&gt;&lt;br&gt;놀이공원은 소형견과 대형견이 안전하게 뛰놀 수 있도록 구역을 분리하고 체험·휴식 기능을 강화해 반려 가족이 일상적으로 찾는 여가 공간으로 설계됐다. &lt;br&gt;&lt;br&gt;놀이공원 운영 시간은 한시적으로 수요일을 제외한 평일 오후 2∼4시, 토요일 오전 11시∼오후 1시이다. &lt;br&gt;&lt;br&gt;제2동물보호센터는 보호·재활·입양 기능을 강화한 전문 시설이다. 최대 300마리의 유기동물을 보호할 수 있는 보호실과 진료실·입원실·교육실 등을 갖췄다. 부지면적은 1만2027㎡이며 건축 연면적은 999.59㎡다. &lt;br&gt;&lt;br&gt;제주도는 올해 제2동물보호센터 운영 안정화와 프로그램 확대를 거쳐 내년 공설 동물장묘시설을 인근에 문을 열 예정이다. &lt;br&gt;&lt;br&gt;오영훈 제주지사는 이날 개소식에서 “제주는 반려동물 친화 도시로 꾸준히 나아가고 있다”며 “생애 전 주기를 아우르는 동물복지 체계를 완성할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “유기 동물 보호부터 재활·입양까지 더욱 촘촘하게 연결하고 반려 가족이 일상에서 함께 누릴 수 있는 공공 공간을 지속해 확충해 나가겠다”며 “사람과 동물이 함께 행복한 환경을 만드는 데 책임감을 갖고 적극 지원하겠다”고 말했다.&lt;br&gt;&lt;br&gt; 제주도는 ‘사람과 동물이 모두 행복한 반려동물 친화 도시 제주’를 비전으로 2024년 1월 ‘제주도 동물 복지 5개년 종합 계획’을 수립해 추진하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰·노동청, 포스코 본사 합동 압수수색… 가스중독 사고 관련</title>
       <link>https://www.chosun.com/national/2025/12/15/G74MSTYWXZF5NANK2IMWEWQ2GA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/15/G74MSTYWXZF5NANK2IMWEWQ2GA/</guid>
@@ -927,24 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBTDMNZTG4ZDMYJXGUZWIOBXMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;포스코 포항제철소. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;포스코 포항제철소 가스 중독 사고와 관련해 경찰과 노동 당국이 합동 압수 수색에 착수했다.&lt;br&gt;&lt;br&gt;경북경찰청 중대재해수사팀과 고용노동부 포항지청은 15일 오전 9시 10분부터 수사관과 근로감독관 40여 명을 투입해 포스코 포항 본사와 포항제철소 내 관련 공장과 외주 청소업체 사무실 등을 대상으로 동시다발적으로 압수 수색을 벌이고 있다.&lt;br&gt;&lt;br&gt;이번 압수 수색은 지난달 20일 포항시 남구 포스코 포항제철소 STS(스테인리스스틸) 4제강공장 현장에서 찌꺼기 청소 작업 중 발생한 복합 가스 중독 사고의 경위를 밝히고 안전 관리 체계 작동 여부를 확인하기 위한 것이다. &lt;br&gt;&lt;br&gt;수사 당국은 작업 일지와 지시서, 안전 교육 자료, 위험성 평가서, 도급·하도급 계약 자료 등 작업 관련 서류, 사고 전후 내부 보고 문건 등을 확보 중인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특히 사고 당시 청소 작업 공정과 현장 관리 실태, 원청과 하청 간 안전 관리 책임 분담 구조 등을 집중적으로 들여다보고 있다.&lt;br&gt;&lt;br&gt;수사 당국은 압수물 분석 결과에 따라 사고 책임자와 관련자들을 상대로 중대재해 처벌법, 산업안전보건법 위반 여부와 업무상 과실치사상 혐의 적용을 검토할 방침이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “압수 수색 과정에서 확보한 자료를 토대로 사고 경위와 안전 관리 책임 여부를 면밀히 살펴볼 예정”이라고 했다.&lt;br&gt;&lt;br&gt;지난달 20일 포항제철소 STS 4제강 공장에서 찌꺼기 청소를 하던 50대 용역업체 직원 2명과 현장에 있던 40대 포스코 직원 1명이 유해 가스를 마셔 중태에 빠졌다. 또 포스코 소방대 방재 팀원 3명도 구조 작업 중 유해 가스를 마셔 다쳤다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>성남시, ‘대장동 일당’ 재산 7건 가압류 인용...1066억 규모</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/15/FRFXG7C6DRFMFDAU4VGZGTMJXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/FRFXG7C6DRFMFDAU4VGZGTMJXQ/</guid>
-      <dc:creator>성남=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 06:13:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/USLILUOHHVF7PPIHJC5HSAQVIM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배 , 유동규, 남욱 /뉴시스 ·뉴스1.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시는 대장동 개발 비리 사업과 관련해 “민간업자들의 재산을 동결해달라”며 법원에 낸 가압류·가처분 신청 건 14건 중 현재까지 7건이 인용됐다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;이날 성남시에 따르면, 현재까지 남욱 변호사 420억 원(4건·부동산처분금지 가처분 1건 포함), 정영학 회계사 646억9000여만 원(3건) 등이 인용돼 1066억9000만 원이 가압류된 상태다.&lt;br&gt;&lt;br&gt;성남도시개발공사(성남도개공)는 지난 1일 서울중앙지법 등 5개 법원에 모두 14건의 가압류·가처분 신청을 냈다. 법원은 인용 결정 7건 외에 5건에 대해서는 담보제공 명령을 내렸고, 2건은 아직 아무런 결정을 내리지 않았다. 담보제공 명령은 사실상 가처분 인용을 위한 사전 준비 단계로, 가압류·가처분으로 생길 수 있는 채무자(민간업자들)의 손해를 보전하기 위해 법원이 채권자(성남도시개발공사)에게 담보를 제공하도록 명령하는 것이다.&lt;br&gt;&lt;br&gt;성남시는 “현재 가압류 인용 및 담보제공명령이 내려진 가액은 이미 총 5173억 원에 달한다”고 했다. 구체적으로 김만배 4100억 원(담보제공명령), 정영학 646억9000여만 원(인용), 남욱 420억 원(인용), 유동규 6억7500만 원(담보제공명령) 등이다.&lt;br&gt;&lt;br&gt;성남시 관계자는 “검찰의 대장동 사건 항소 포기로 인해 일부 피고인의 추징보전 해제 움직임이 있던 시점에 ‘범죄수익 반드시 환수’라는 강력한 의지를 보여준 것”이라며 “본안 소송에서도 반드시 승리해 대장동 범죄수익을 전액 시민의 품으로 돌려놓겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘주가 조작’ 양남희 웰바이오텍 회장 구속영장 재청구</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/15/W3EBLJNBNNATTJQWQELHAWRY7E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/W3EBLJNBNNATTJQWQELHAWRY7E/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 05:56:15 +0000</pubDate>
-      <content:encoded>웰바이오텍의 주가 조작 의혹을 수사 중인 민중기 특별검사팀이 앞서 구속영장이 기각된 양남희 웰바이오텍 회장에 대해 구속영장을 다시 청구했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDCODFMRRWKZJQMM4DKMJRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 관계자는 15일 “지난 12일 양 회장에 대해 자본시장법 위반, 특경법상 배임, 업무상 횡령 혐의로 구속영장을 재청구했다”고 밝혔다. 양 회장에 대한 영장실질심사는 오는 18일 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;삼부토건 관계사인 웰바이오텍은 우크라이나 재건 사업에 참여하는 것처럼 투자자들을 속여 주가를 띄우고 부당이득을 챙겼다는 의혹을 받는다. 특검은 삼부토건이 우크라이나 재건 사업 등을 이용해 주가를 인위적으로 부양할 때 웰바이오텍도 개입한 것으로 의심하고 있다. 양 회장 등이 이 과정에서 미리 전환사채(CB)를 싸게 사놨다가 주가가 오른 뒤 내다 팔아 약 400억원의 시세 차익을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 특검은 양 회장에 대한 구속영장을 한 차례 청구했지만, 법원은 지난달 16일 “주요 혐의의 피의자 관여 여부, 이익 귀속 등에 대해 구속할 정도로 소명되지 않았고, 도주 및 증거인멸의 정도도 구속할 정도의 구체성이 부족하다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;특검은 이날 이준석 개혁신당 대표에 대한 소환 조사가 21일 오전 10시에 이뤄질 예정이라고 밝혔다. 특검 관계자는 “이 대표 측과 조율한 일정”이라고 설명했다. 특검은 이 대표를 상대로 2022년 치러진 20대 대선과 8회 지방선거, 21대 국회의원 보궐선거 당시 윤석열 전 대통령이 공천에 개입한 정황을 캐물을 예정이다.&lt;br&gt;&lt;br&gt;또 특검은 오는 17일 소환 조사가 예정된 윤 전 대통령 측과 소환 일자를 다시 조율 중이라고 밝혔다. 특검 관계자는 “(윤 전 대통령 측에서) 갑작스러운 변경 요청이 왔다”며 “날짜는 아직 협의 중인 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 ‘통일교 민주당 금품 수수’ 의혹을 수사 중인 경찰청 국가수사본부에서 이날 김건희 특검 사무실을 압수 수색한 것에 대해 특검 관계자는 “적법성 확보를 위해서 압수 수색을 온 것 같다”며 “이첩한 사건을 근거로 해서 이뤄진 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>前수방사령관 “尹 ‘나는 꼭 배신당한다’ 토로하며 한동훈 언급” 법정 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</guid>
@@ -952,28 +968,6 @@
       <description/>
       <pubDate>Mon, 15 Dec 2025 04:09:10 +0000</pubDate>
       <content:encoded>12·3 비상계엄 당시 국회에 병력을 출동시켰던 이진우 전 수도방위사령관이 “계엄 선포를 한 달가량 앞둔 시점에서 윤석열 전 대통령이 ‘나는 꼭 배신당한다’고 말하면서 한동훈 전 국민의힘 대표를 언급했다”고 법정에서 증언했다. 앞서 곽종근 전 특수전사령관은 윤 전 대통령이 지난해 국군의 날 행사 이후 뒤풀이 모임에서 한 전 대표를 가리키며 “잡아와라. 내가 총으로 쏴서라도 죽이겠다”고 증언했는데, 이와 일맥상통하는 말을 한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCB62VZRGDI23M2DFDOQV7YJUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 전 수도방위사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 사령관은 15일 서울중앙지법 형사25부(재판장 지귀연)에서 열린 윤 전 대통령의 내란 우두머리 혐의 재판에 증인으로 나와 윤 전 대통령이 한 전 대표를 이야기한 전후 정황을 설명하며 이같이 말했다. 이 전 사령관은 “작년 11월 9일 국방장관 공관 2층의 식당에서 김용현 전 국방장관, 곽종근 전 특수전사령관, 여인형 전 국군방첩사령관과 저녁 식사를 했고, 중간에 윤 전 대통령이 합류했다”며 “몸을 못 가눌 정도로 술을 많이 마신 윤 전 대통령이 ‘많은 사람에게 배신당한다’며 한 전 대표 이름을 호명했다”고 했다. 이어 이 전 사령관은 “윤 전 대통령이 11월 모임에서 ‘정책적으로 뭔가 추진하면 다 반대하고, 언론에서 부정적으로 바꿔 쓰니 뭘 해도 힘이 안 난다. 무조건 반대하는 것은 잘못 아니냐’는 취지로 말했다”고도 했다.&lt;br&gt;&lt;br&gt;다만 이 전 사령관은 곽 전 사령관이 지난해 10월 1일 국군의날 행사를 마친 뒤 있었던 모임에서 윤 전 대통령이 “한동훈을 잡아와라. 총으로 쏴서라도 죽이겠다”고 말했다고 증언한 데 대해선 “당시 저는 술을 마시지 않았는데 기억에 없다”고 했다. 당시 모임에서 윤 전 대통령이 시국에 대한 어려움을 털어놓지는 않았다는 게 이 전 사령관 주장이다.&lt;br&gt;&lt;br&gt;이 전 사령관은 지난해 11월 9일 모임에서 윤 전 대통령이 부정선거도 언급했다고 증언했다. 술을 마시던 도중 윤 전 대통령이 “선거를 믿을 수 없다”며 “국민들이 잘 믿지 못하게, 투명하게 운영되지 않고 있다”고 말했다는 것이다. 이 전 사령관은 “여 전 사령관이 ‘그런(선거) 거 진짜 잘 (운영)돼야 한다’며 선거관리위원회에 대해 이야기했다”고 말했다.&lt;br&gt;&lt;br&gt;이런 가운데 이 전 사령관은 비상계엄 선포를 미리 알지 못했다고 주장했다. 이 전 사령관은 비상계엄 선포 당일 오후 9시 46분 김 전 장관과 했던 통화에 대해 “관사에서 아내와 설거지를 하고 있었는데 (김 전 장관이) 상황이 발생할 수 있으니 부대에서 대기하라고 했다”며 “이유를 물어보지 못하고 알겠다고만 했다”고 증언했다. 이어 “당시 통화에서 김 전 장관이 비상계엄 관련 언급은 하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내란 특검, 조희대 불기소 “사법부 계엄 동조 의혹 사실 아냐” </title>
-      <link>https://www.chosun.com/national/court_law/2025/12/15/QLMBPYV2MZG6VN4V3ZAL53GLMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/QLMBPYV2MZG6VN4V3ZAL53GLMM/</guid>
-      <dc:creator>방극렬 기자, 김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 02:55:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTEYRWGNSGEMZRGY2GGNZWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 지난 11일 오전 서울 서초구 대법원으로 출근하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 관련 사건을 수사한 조은석 내란특검팀이 15일 사법부의 내란 가담 의혹에 대해 사실 무근이라고 밝혔다. 이와 관련해 내란 중요 임무 종사 혐의로 고발된 조희대 대법원장과 천대엽 법원행정처장, 윤석열 전 대통령 구속 취소 결정을 내린 지귀연 부장판사를 불기소했다.&lt;br&gt;&lt;br&gt;내란 특검 관계자는 이날 최종 수사 결과를 발표하며 “대법원이 비상계엄에 동조하거나 관여한 의혹은 사실 아닌 것으로 판단했다”고 말했다. 특검 관계자는 “계엄 당시 법원행정처 담당자, 계엄사령부 담당자를 모두 조사하고 통신 내역을 확인한 결과, 조 대법원장이나 천 처장 등이 계엄 관련 조치를 준비하거나 논의하기 위한 간부회의를 개최한 정황은 확인되지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;더불어민주당은 조 대법원장 등이 계엄 직후 대법원 긴급 회의를 열고 사법권을 계엄사령부로 이양하려 했다는 등 내란 동조 의혹을 제기했지만, 특검은 모두 사실이 아니라고 판단했다. 특검 관계자는 “조 대법원장은 계엄 선포 직후인 작년 12월 4일 0시 40분쯤, 천 처장은 같은 날 0시 50분쯤 대법원 청사에 도착했고 그 후 1시 3분 계엄이 해제됐다”며 “(계엄) 관련해서 논의가 된 게 없다”고 말했다. 특검은 또 대법원이 계엄사령부에 연락관 파견 요청을 받았지만 거부했다고 밝혔다.&lt;br&gt;&lt;br&gt;한편 특검은 내란 사건 재판장인 지 부장판사의 직권남용 혐의에 대해서도 불기소 처분했다. 친여 시민단체는 지 부장판사가 지난 3월 윤 전 대통령의 구속 취소 결정을 내린 것을 문제 삼아 고위공직자범죄수사처에 고발했고 특검이 이첩받아 수사해 왔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“비지니스석 샀는데 이코노미석 앉혀”…바비킴이 밝힌 기내난동 전말</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/F3RYOEGWRNAVJCJAFIW4JVVLDE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/F3RYOEGWRNAVJCJAFIW4JVVLDE/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 03:01:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A7EWUIPWPNEWPMTNB7NZPAGRPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 바비킴./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 바비킴이 10년 전 기내 난동 사건을 언급하며 재차 사과했다.&lt;br&gt;&lt;br&gt;바비킴은 15일 공개된 유튜브 채널 ‘피식대학’ 토크쇼 영상에 출연해 과거 비행기 난동 사건에 대해 “요약하자면 기내 승무원이 나를 비즈니스석으로 옮겨주지 않았다”며 입을 열었다.&lt;br&gt;&lt;br&gt;그는 “비즈니스석 티켓을 샀는데 이코노미석에 앉히더라”며 “속상한 마음에 와인을 마시다가 지나치게 마시게 됐고, 어느 순간 기억을 잃었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “기내에서 소란을 일으켰고 공격적인 태도를 보였던 것 같다”며 “그리고 다음 날 뉴스에 나왔다”고 했다.&lt;br&gt;&lt;br&gt;이를 들은 MC들은 “항공사 실수다” “바비킴의 잘못이 아니다” “너무 억울하다. 나 같아도 화가 났을 것” 등의 반응을 보이며 당시 상황에 공감했다.&lt;br&gt;&lt;br&gt;그러자 바비킴은 “난동을 부린 것은 사실”이라며 “사과드리고 싶다. 다시는 그런 일이 없었으면 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6CL4D5ZWLNA3XAWR3ROM57ZPJU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 바비킴./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 바비킴은 2015년 1월 개인 일정으로 미국 샌프란시스코로 향하던 국내 항공사 비행기에서 승무원과 갈등을 겪고 기내 난동을 벌였다는 혐의를 받았다.&lt;br&gt;&lt;br&gt;당시 바비킴은 항공사 카운터 직원의 실수로 자신의 여권 영문명인 ‘KIM ROBERT DO KYUN’가 아닌 동일한 비행기 승객 명단에 있던 ‘KIM ROBERT’라는 승객의 탑승권을 받은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;귀국 후 경찰 조사를 받은 바비킴은 항공보안법 위반 및 강제추행 혐의로 재판에 넘겨졌으며, 벌금 400만원과 성폭력 치료 프로그램 40시간 이수를 선고받았다.&lt;br&gt;&lt;br&gt;당시 바비킴 측은 “비즈니스석이 비어 있음에도 불구하고 좌석을 교체해 주지 않았다”고 설명한 한편 “이유를 불문하고 이 상황을 인지하고 깊은 사죄를 드린다”고 사과했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/QYPI4TZESNBBJAJUUNIOU2YRBY.jpg?auth=01138ae9399d994f5cd8ff2fc527d29601b37b94f1192b3d3fbde2b89344e33f&amp;smart=true&amp;width=583&amp;height=328" type="image/jpeg" height="328" width="583">
-        <media:description type="plain">가수 바비킴./유튜브</media:description>
-        <media:credit role="author" scheme="urn:ebu"/>
-      </media:content>
     </item>
     <item>
       <title>‘통일교 1억원 수수’ 권성동, 법원에 보석 청구</title>
