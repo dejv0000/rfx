@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 관저 이전’ 의혹 김오진 전 차관, 구속영장 발부...“증거 인멸 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/JVQ5XKSJR5CU5HOZRTREMPZRZY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/JVQ5XKSJR5CU5HOZRTREMPZRZY/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 22:34:04 +0000</pubDate>
+      <content:encoded>‘대통령실 관저 이전’ 의혹을 받는 김오진 전 국토교통부 차관에 대한 구속 영장이 17일 발부됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYCPN524YVJDVA6UXGMEZGYSKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김오진 전 국토교통부 1차관이 지난 16일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)를 마친 뒤 법정을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 민중기 특검팀은 “김 전 차관에 대한 구속영장은 증거를 인멸할 염려가 있다는 이유로 발부됐다”고 밝혔다. 같은 혐의를 받는 부하 직원 황모씨에 대한 구속영장도 발부됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장 전담 부장판사는 지난 16일 직권남용권리행사방해, 건설산업기본법 위반, 특정경제범죄가중처벌 등에 관한 법률상 사기 등 혐의를 받는 김 전 차관에 대한 구속영장 실질 심사를 진행했다. 김 전 차관은 2022년 당시 청와대 이전 TF의 1분과장으로 관저 이전을 총괄했고, 이후 대통령실 관리비서관을 지냈다. 황씨는 TF 1분과 소속이었다.&lt;br&gt;&lt;br&gt;김 전 차관은 당시 관저 이전 공사 업무를 총괄했던 인물이다. 해당 의혹은 윤석열 전 대통령 취임 후 대통령실과 관저를 이전하는 과정에서 인테리어 업체 21그램이 공사권을 따내는 과정에서 특혜를 받았다는 게 핵심이다. 21그램은 김 여사가 운영한 코바나컨텐츠 주최 전시회를 후원하고 코바나컨텐츠 사무실 설계·시공을 맡았던 업체로, 대표인 김모씨가 김 여사와 친분이 있는 것으로 알려졌다. 이런 탓에 21그램이 관저 공사를 따낸 과정에서 특혜가 있었던 게 아니냐는 논란이 불거졌었다.&lt;br&gt;&lt;br&gt;또 김 대표의 배우자 조모씨는 유경옥 전 대통령실 행정관이 ‘건진법사’ 전성배씨로부터 전달받은 샤넬백 2개를 다른 제품으로 교환하러 갔을 때 동행해 웃돈을 얹어준 인물이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘김건희 계좌 관리’ 이종호 “金에 3억짜리 수표 줬다”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/17/DZIP3SV64FEOHIJ4LDXBJC2MRM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/DZIP3SV64FEOHIJ4LDXBJC2MRM/</guid>
@@ -905,15 +914,6 @@
       <pubDate>Mon, 15 Dec 2025 15:48:00 +0000</pubDate>
       <content:encoded>서울 성동구의 1000세대 규모 아파트에 거주하는 김모(30)씨는 최근 주차 관리 앱을 확인하다가 황당한 일을 겪었다. 김씨 아파트는 세대별로 등록돼 있는 차량 이외에 외부 방문 차량은 매달 최대 72시간까지만 주차할 수 있도록 전용 앱에 ‘방문 차량 주차 시간’을 부여한다. 주차 공간이 한정돼 있기 때문이다. 방문 차량이 주차장에 들어가려면 각 세대가 세대별 비밀번호를 앱에 입력한 뒤 손님 차량 번호를 등록해놔야 한다. 그런데 김씨가 앱을 열어봤더니 사용하지도 않은 시간이 모두 차감돼 남은 시간이 ‘0시간’이라고 떴다.&lt;br&gt;&lt;br&gt;범인은 이웃 주민이었다. 주차장 CCTV를 들여다봤더니 김씨 세대 비밀번호를 쓴 차량이 주차장에 들어가는 모습이 찍혀 있었다. 각 세대 앱의 초기 비밀번호가 ‘1111’ 등으로 단순하게 설정된 점을 이용해 다른 입주민이 김씨네 주차 시간을 몰래 끌어다 쓴 것이다. 이른바 ‘주차 시간 도둑질’이다. 김씨는 “주차난이 얼마나 심각하면 이웃끼리 이런 촌극까지 벌어지나 싶어 씁쓸했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMJ7GW3NSVBEVH36OEPTUC2YZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 양천구의 한 아파트 단지 주차장. 주차할 자리를 찾지 못한 차량이 이중 주차를 한 모습이다.
 /이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 자동차 누적 등록 대수가 2600만대를 넘어서면서 전국 아파트 단지 곳곳에서 ‘주차 전쟁’이 벌어지고 있다. 국토교통부에 따르면 국내 등록 차량은 2630만대(작년 기준)로 5년 전보다 약 10% 늘었다. 한정된 부지에 차는 계속 늘어나다 보니 화단을 없애거나, 내 집을 두고 유료 주차장을 찾기도 한다. 아파트 커뮤니티 앱에선 “이번 달 주차 시간이 부족한데 남는 분 계시면 좀 빌려달라”는 글도 종종 올라온다. 주차 공간 부족이 낳은 신(新)풍속도다.&lt;br&gt;&lt;br&gt;서울 양천구에 거주하는 직장인 박모(27)씨는 “무조건 오후 6시 반 전에 들어오고 그 이후엔 저녁에 차를 아예 안 쓴다”고 했다. 이중 주차가 어려워 보이면 인근 공영 주차장에 차를 대고, 다음 날 아침 일찍 다시 가져오는 경우도 적지 않다. 내 집 주차장을 코앞에 두고도 ‘주차 난민’을 자처하는 셈이다. 목동의 한 아파트 관리사무소 관계자는 “이중 주차가 워낙 잦다 보니 경비원을 뽑을 때도 웬만한 SUV는 밀 수 있을 만큼 힘이 센지를 본다는 우스갯소리가 나온다”고 했다.&lt;br&gt;&lt;br&gt;인천 서구의 한 768가구 아파트는 주차 가능한 자동차 대수가 최대 433대지만, 등록된 차량은 600대가 넘는다. 관리사무소는 결국 지난달 21일 화단과 인도 폭을 줄여 주차 공간을 늘리는 방안을 주민 투표에 부쳤다. 주차 갈등은 입주민 간 ‘계급 갈등’으로도 번진다. 서울의 한 대단지 아파트에선 최근 좁은 평수에 살수록 주차비를 더 비싸게 내도록 주차비를 책정했다가 논란이 되자 철회했다.&lt;br&gt;&lt;br&gt;아파트 단지들은 우선 주차제 도입, 주차장 증설 등 갖은 자구책을 내놓고 있지만 늘어나는 차량 속도를 따라잡지 못하고 있다. 서울시 관계자는 “아파트 단지 내부 주차 공간 확충에는 분명한 한계가 있다”며 “인근 학교 운동장 등 지역 내 공공시설을 야간에 한해 주차 공간으로 활용하는 방안을 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘종이 봉투에 신생아 유기’ 베트남 여성 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/4L7I6YWYJVAIVF6QOMEFREZN2E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/4L7I6YWYJVAIVF6QOMEFREZN2E/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 15:48:00 +0000</pubDate>
-      <content:encoded>서울 필동 동국대 기숙사에서 출산한 직후 아기를 유기한 베트남인 유학생과 공범이 경찰에 붙잡혔다&lt;br&gt;&lt;br&gt;서울경찰청 여성청소년범죄수사계는 베트남 유학생인 20대 산모 A씨와 같은 국적의 유학생 20대 여성 B씨를 긴급 체포해 수사 중이라고 15일 밝혔다. A씨는 전날 오후 6시 30분 동국대 기숙사에서 아이를 출산한 뒤 인근에 신생아를 유기해 사망하게 한 혐의(아동학대살해)를 받고 있다. B씨는 당시 현장에서 유기를 돕는 등 A씨 범행에 가담한 혐의를 받는다.&lt;br&gt;&lt;br&gt;“종이 봉투에 신생아가 버려졌다”는 112 신고를 받고 출동한 경찰과 소방 당국은 현장에서 아기를 발견해 인근 병원으로 긴급 이송했지만 사망했다. 한 동국대 학생은 학교 내부 커뮤니티에 “A씨가 화장실에서 아기를 출산했다고 들었다”고 썼다.&lt;br&gt;&lt;br&gt;A씨는 이 대학 한국어교육원이 15일부터 여는 한국어 단기 연수 과정에 참가하기 위해 지난 12일 임신 상태로 입국했던 것으로 전해졌다. A씨는 체포 직후 근처 병원으로 옮겨져 치료받고 있다. 경찰은 A씨 등에 대한 구속 영장 신청을 검토하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>헌재, 18일 조지호 탄핵심판 선고… 기각돼도 새 경찰청장 임명할 듯</title>
