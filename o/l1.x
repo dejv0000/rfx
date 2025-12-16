@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>법무법인 한미, 전문팀에서 EB-5(미국 투자이민 프로그램) 통합 관리</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214202.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;미국 가족초청 및 취업 기반 영주권 취득 적체가 심화되면서 ‘투자 기반의 이민 카테고리(EB-5)’의 수요가 더욱 부상하고 있다. 한편, 현행 EB-5 제도가 한시법 종료 이후에도 유지될지는 여전히 불투명하며, 이후에는 현재 최소 80만불 투자금액의 인상, 심사 기준 강화, 한시법 연장 불승인 가능성 등 다양한 변화가 예상된다. 현행법은 2026년 9월 접수분까지 안정적으로 적용되므로, 이 시점까지 접수한 투자자는 현행법으로 보호받을 수 있다.&lt;br /&gt;&lt;br /&gt;EB-5 미국 투자이민 카테고리는 배우자와 미성년 자녀의 동반 영주권 취득이 가능하고, 국내 재산을 합법적으로 미국으로 이전할 수 있으며, 다른 이민 카테고리에 비해 상대적으로 빠른 절차 진행이 가능한 점에서 주목된다. 이러한 이유로 가족 단위의 미국 이주 혹은 미국 내 학위 과정 이후의 미국 거주를 고려하는 유학 신분인에게 매력적인 선택지로 평가된다.&lt;br /&gt;&lt;br /&gt;법무법인 한미의&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="2097"&gt;김철기&lt;/span&gt;(사법연수원 23기) 대표변호사는 “EB-5는 프로젝트 선정, 자금출처 소명, 원금 회수 가능성 등 장기간에 걸쳐 리스크 관리가 필요한 구조이기 때문에, 프로젝트의 안정성뿐 아니라 이민법 리스크까지 종합적으로 검토해줄 수 있는 전문가에게 의뢰하는 것이 중요하다”고 강조했다. 법무법인 한미는 한국과 미국 변호사가 미국 비자 취득 과정에서의 준비, 심사 대응, 리스크 관리까지 통합적으로 지원하고 있다는 점에서 높은 신뢰를 받고 있다. 미국 투자 이민과 관련한 문의는 법무법인 한미 홈페이지를 통해 가능하다.</description>
+			<pubDate>Tue, 16 Dec 2025 04:38:27 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214202</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214202</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214202.jpg</media:thumbnail>
+			<dc:creator>인터넷 기자</dc:creator>
+		</item>
+		<item>
 			<title>【오늘의 국회일정】 2025년 12월 16일</title>
 			<description>&lt;b&gt;◇상임위원회&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;10:00 과학기술정보방송통신위원회 전체회의(본관 627호)&lt;br /&gt;&lt;br /&gt;10:00 농림축산식품해양수산위원회 해양수산법안심사소위원회(본관 501호)&lt;br /&gt;&lt;br /&gt;10:00 12.29여객기참사진상규명과피해자및유가족의피해구제를위한특별위원회(본관 529호)&lt;br /&gt;&lt;br /&gt;11:00 행정안전위원회 전체회의(본관 445호)&lt;br /&gt;&lt;br /&gt;13:30 문화체육관광위원회 체육관광법안심사소위원회(본관 506호)&lt;br /&gt;&lt;br /&gt;14:00 행정안전위원회 법안심사제2소위원회(본관 445호)&lt;br /&gt;&lt;br /&gt;14:30 기후에너지환경노동위원회 전체회의(본관 622호)&lt;br /&gt;&lt;br /&gt;15:00 법제사법위원회 법안심사제1소위원회(본관 406호)&lt;br /&gt;&lt;br /&gt;15:00 정무위원회 법안심사제2소위원회(본관 604호)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;08:00 김태년 의원실, 경제는 민주당: 제36강: 2026년 경제전망 및 제언(의원회관 제1소회의실)&lt;br /&gt;&lt;br /&gt;09:30 김형동 의원실, 「AI시대, 시각장애인의 새로운 가능성」 정책 토론회(의원회관 신관 제3세미나실)&lt;br /&gt;&lt;br /&gt;10:00 박해철 의원실 등, “한국발전공사법 제정을 제안한다”: 정의로운 에너지 전환을 위한 발전공기업 재편방안(의원회관 제10간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 서범수 의원실 등, 경찰개혁의 과제 국회 토론회(의원회관 제2소회의실)&lt;br /&gt;&lt;br /&gt;10:00 정태호 의원실 등, 세계협동조합의 해 기념 국제학술대회(의원회관 대회의실)&lt;br /&gt;&lt;br /&gt;10:00 허종식 의원실, 인천 해상풍력, 우리에게 무엇을 주나? – 일자리와 이익공유(의원회관 제4간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이성권 의원실 등, 지방선거 D-6개월: 어떻게 해야 승리할 수 있나?(의원회관 제9간담회의실)&lt;br /&gt;&lt;br /&gt;10:00 이준석 의원실, 한국 택시서비스의 위기와 혁신방안: 자율주행시대(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;br /&gt;10:30 김희정 의원실 등, 시설보호 청소년의 교육기회 확대 방안 토론회(의원회관 신관 제2세미나실)&lt;br /&gt;&lt;br /&gt;11:00 서영교 의원실 등, 2025 전국 소공인 대토론회(의원회관 제8간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 김남근 의원실 등, (서울지역 패션봉제산업 활성화를 위한) 라벨갈이 문제점과 대응방안 모색 간담회(의원회관 신관 제1세미나실)&lt;br /&gt;&lt;br /&gt;14:00 백승아 의원실 등, 교육의 지역화 정책 토론회(의원회관 제6간담회의실)&lt;br /&gt;&lt;br /&gt;14:00 황정아 의원실 등, 양자인공지능과 미래산업 전환 토론회(의원회관 제7간담회의실)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇소통관 기자회견&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;09:00 김재섭 의원, [주거정책심의위원회 회의록 공개 관련 기자회견]&lt;br /&gt;&lt;br /&gt;09:20 이미선 대변인, [진보당 모두를위한서울특별위원회 정례브리핑]&lt;br /&gt;&lt;br /&gt;09:40 조배숙 의원, [국민의힘 사법정의수호 및 독재저지 특별위원회, 조은석 특검 수사결과 발표 관련 기자회견]&lt;br /&gt;&lt;br /&gt;10:20 안호영 의원, [용인 반도체 국가산단 재검토 및 초고압 송전탑 건설 반대 기자회견]&lt;br /&gt;&lt;br /&gt;10:40 김선교 의원, [고 정희철 양평 단월면장 유서 관련 기자회견]&lt;br /&gt;&lt;br /&gt;11:00 조배숙 의원, [형법 개정 없는 낙태약물 허가 규탄 기자회견]&lt;br /&gt;&lt;br /&gt;11:40 문정복 의원, [현안 관련 기자회견]&lt;br /&gt;&lt;br /&gt;13:20 박해철 의원, [공공재생에너지법 발의 기자회견]&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;&lt;br /&gt;</description>
 			<pubDate>Mon, 15 Dec 2025 22:36:43 -0000</pubDate>
@@ -222,15 +232,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/214131</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214131</guid>
-			<dc:creator>인터넷 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 12월 13일</title>
-			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇본회의&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇의원실 세미나&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;13:00 황운하 의원실 등, 내란종식을 넘어 사회대개혁으로: 윤석열 내란종식투쟁 1주년 기념 사회대개혁 심포지엄(의원회관 제1간담회의실)&lt;br /&gt;&lt;br /&gt;15:00 정연욱 의원실 등, 골목을 살려라: 우리 동네 최강수영(부산 도모헌)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Fri, 12 Dec 2025 22:30:06 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214128</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214128</guid>
 			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
