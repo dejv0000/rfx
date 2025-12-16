@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>민주당, 내란 전담재판부 2심부터 도입…추천권은 사법부로</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214209.jpg" alt="111.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;박수현 민주당 수석대변인이 12월 16일 국회에서 열린 비공개 의원총회를 마치고 회의 결과를 브리핑하고 있다. 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;   &lt;br /&gt;&lt;/p&gt;더불어민주당이 내란 전담재판부를 2심부터 도입하기로 했다. 재판부 추천 권한은 사법부에 주는 방향으로 법안을 수정하기로 했다. 위헌 소지 논란을 최소화하려는 조치로 풀이된다.&lt;p&gt;   &lt;br /&gt;민주당은 12월 16일 오후 비공개 의원총회를 열고 이 같은 내용을 골자로 한 내란 전담재판부 설치법 수정 방향에 의견을 모았다. 의총에서는 기존 법안에 대한 외부 로펌 자문 결과와 전문가·시민사회 의견 등이 함께 보고된 것으로 전해졌다. 박수현 민주당 수석대변인은 의총 뒤 기자들과 만나 “그동안 염려돼 왔던 부분들을 거의 없애는 방향으로 의총에서 결론 내렸다”면서 “위헌 소지를 없앴다”고 밝혔다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;법안 명칭도 변경된다. 기존 ‘12·3 윤석열 비상계엄 등에 대한 전담재판부 설치 및 제보자 보호 등에 관한 특별법’에서 ‘내란 및 외환에 관한 특별전담재판부에 관한 특별법’으로 잠정 결정했다. 특정 개인이나 사건을 대상으로 한 처분적 법률이라는 비판을 반영한 것이다. 박 수석대변인은 “처분적 법률이라는 점을 제거하기 위해 특정 사건 명칭을 빼고 일반화하는 것으로 방향이 정리됐다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;전담재판부 후보추천위원회 구성 방식도 수정된다. 법무부 장관, 헌법재판소 사무처장 등 외부 인사의 추천권은 제외하고, 사법부 내부 절차를 통해 구성하도록 했다. 대법관회의를 거쳐 대법원장이 임명하는 조항을 추가하는 방식이다. 박 수석대변인은 전담재판부 추천위원 구성에 대해 “외부 관여를 제외하고 내부에서 구성하는 방향으로 결론 내렸다”면서 “어느 곳에 명기할지는 모르겠지만, 최종적으로 구성을 대법관 회의를 거쳐 대법원장이 임명한다는 조항을 추가하기로 했다”고 말했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;내란 전담재판부 도입 시점과 관련해선 “2심부터 적용하기로 했다”고 말했다. 앞서&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9300"&gt;이재명&amp;nbsp;&lt;/span&gt;대통령과 민주당 정청래 대표, 김병기 원내대표는 12월 9일 만찬 회동을 갖고 내란 전담재판부를 2심부터 적용하고 법무부 장관의 재판부 추천위원 추천권을 제외하는 방향으로 내란 전담재판부 설치법을 수정하는 방향에 공감대를 이룬 것으로 알려졌다.&lt;/p&gt;&lt;p&gt;   &lt;br /&gt;다만 내란·외환 혐의 피고인 구속기간을 형사소송법상 구속기간(6개월)의 2배인 1년으로 하고 사면·복권을 제한하는 조항에 대해선 “오늘 언급이 적절하지 않고 최종 성안 때 보고 하겠다”고만 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법안 처리 시점은 이달 22~24일이 될 전망이다. 박 수석대변인은 “2차 필리버스터 기간(22~24일)에 처리할 것은 상수로 틀림없다”고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;민주당은 이날 의총 결정 사항을 토대로 당론 추인 절차를 거쳐 해당 법안을 본회의에 상정할 예정이다. 박 수석대변인은 “오늘 의총은 최종 당론 추인 절차 마친 것이 아니다”라며 “이제 원내대표를 중심으로 정책위와 함께 최종안을 성안해서 다시 당론 발의 과정 거치게 될 것”이라고 설명했다. 이에 대해 김현정 민주당 원내대변인은 “당론 추인 절차는 21일 또는 22일 본회의 전에 의총 열어서 하기로 했다”고 전했다.&lt;/p&gt;</description>
+			<pubDate>Tue, 16 Dec 2025 08:07:18 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214209</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214209</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214209.jpg</media:thumbnail>
+			<dc:creator>김지현 기자</dc:creator>
+		</item>
+		<item>
 			<title>[속보] 법원, 인터파크커머스 파산 선고…회생 신청 1년 4개월만</title>
 			<description>&lt;p style="text-align: center; "&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214206.jpg" alt="lawtimes.jpg" style="text-align: start;" /&gt;&lt;/p&gt;</description>
 			<pubDate>Tue, 16 Dec 2025 06:39:32 -0000</pubDate>
@@ -225,15 +235,6 @@
 			<link>https://www.lawtimes.co.kr/news/214099</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214099</guid>
 			<dc:creator>서하연 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 국회일정】 2025년 12월 14일</title>
-			<description>&lt;b&gt;◇국회의장&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;br /&gt;17:00 대한민국 제헌국회의원 유족회 창립 30주년 기념식(글래드호텔 볼룸홀)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;◇본회의&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;본회의(본회의장)&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;span style="font-size: 14px;"&gt;※ 상기 일정은 사정에 따라 변경될 수 있습니다.&lt;/span&gt;&lt;/b&gt;</description>
-			<pubDate>Sat, 13 Dec 2025 22:38:23 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214129</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214129</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
