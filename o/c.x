@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>인천서 1살 아기 탄 SUV 전복 사고…4명 부상</title>
+      <link>https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</guid>
+      <dc:creator>김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 09:57:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KO2UFUO4A5CGFPPVS3AWRNQP2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전복된 SUV. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 2시3분쯤 인천시 부평구 부평동 교차로를 달리던 스포츠유틸리티차(SUV)와 세단이 부딪쳤다.&lt;br&gt;&lt;br&gt;이 사고로 SUV가 전복돼 50대 운전자와 동승자인 1살 아기가 다쳤다. 세단 운전자와 동승자도 목 부위 등에 통증을 호소해 모두 4명이 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 교차로에서 신호 위반으로 인해 사고가 난 것으로 보고 구체적인 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “부상자는 모두 생명에는 지장이 없다”며 “사고 현장 CCTV와 차량 블랙박스 등을 확인하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산서 의식 저하 10세 아이, 병원 12곳서 수용 거절 당해</title>
+      <link>https://www.chosun.com/national/regional/2025/12/16/Z66D4OMC5NC7VFNAMQVZB3VOPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/Z66D4OMC5NC7VFNAMQVZB3VOPA/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 08:59:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437IAEBS4VZVOZFMZUZODK35TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 소아과에서 의식을 잃고 쓰러진 10세 아이가 10차례 넘게 수용을 거부당하면서 심정지 상태에 이르는 등 목숨이 위태롭다. &lt;br&gt;&lt;br&gt; 16일 부산소방재난본부 등에 따르면, 전날 오전 10시 1분쯤 부산 사하구 한 소아청소년과 의원에서 A(10)양이 감기 증상으로 수액을 맞던 중 의식 저하 증세를 보였다.&lt;br&gt;&lt;br&gt;의사의 신고를 받고 출동한 소방 당국은 신고 접수 11분 만인 오전 10시 12분쯤 의원에 도착했다. 소방 당국이 전원을 위해 대학병원 등 12곳에 연락했지만, 모두 소아 병상이 부족하다는 등의 이유로 수용을 거부당했다고 한다.&lt;br&gt;&lt;br&gt;이후 부산진구 한 종합병원에서 수용하겠다고 밝혔다. 이 과정에서 A양에게 심정지가 발생했고, 도착한 병원에서 응급 처치를 받은 A양은 다행히 맥박과 혈압이 돌아왔다고 한다. &lt;br&gt;&lt;br&gt;하지만 A양은 의식을 회복하지 못했고 이날 오전 11시 37분쯤 부산진구에 있는 한 대학병원으로 옮겨져 현재 치료를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국이 현장에 도착한 순간부터 3차 병원 이송까지 1시간 20분가량 소요된 것이다.&lt;br&gt;&lt;br&gt;지난 10월에도 부산에서 비슷한 일이 있었다. 건물에서 추락한 한 고등학생이 1시간 넘게 이송할 병원을 찾지 못하다 심정지에 빠졌고 결국 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>민노총, 하남시청 내부 무단 진입 시도…경찰, 집시법 위반 여부 검토</title>
+      <link>https://www.chosun.com/national/incident/2025/12/16/WGDAIG6SURDEPKJTUIKUZC532A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/16/WGDAIG6SURDEPKJTUIKUZC532A/</guid>
+      <dc:creator>하남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 08:56:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BV6RADSLGJ3KIR7JOMOO3PAQUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;*첨부용*경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 외부 집회만 신고한 민노총 조합원들이 하남시청 내부에 무단 진입을 시도해, 경찰이 집회·시위법 위반 여부를 검토하고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이날 오후 3시쯤 시청을 찾은 인원은 민주노총 공공운수노조 경기지역본부 소속 조합원과 하남시립예술단 지회(시립합창단·시립미술단 등) 관계자 등 약 50명이다. 이들은 시청 2층 내부 복도에서 장시간 대기하며 시 관계자와의 면담을 요구했다. 2층에는 시장실을 비롯해 통합 국장실이 있다.&lt;br&gt;&lt;br&gt;경찰은 상황이 격화될 가능성이 있다고 판단해 1개 중대, 약 100명의 병력을 투입했다. 현장은 해산 조치 직전까지 이어진 것으로 전해졌다. 이 과정에서 시청 방호 업무를 수행하던 직원 1명이 조합원들이 이동하는 과정에서 밀려 넘어지며 경미한 부상을 입었다. 경찰 관계자는 “의도적인 폭행은 아닌 것으로 보인다”면서도 “폭행 혐의 적용 여부를 포함해 관련 법률 위반 가능성을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 민노총 측이 외부 집회에 대해서만 집회 신고를 했고, 시청 내부에서 다수 인원이 집단으로 대기한 행위가 집회·시위법 위반이나 업무방해 등에 해당하는지 여부를 들여다보고 있다고 설명했다. 현재까지 연행자는 없는 상태다.&lt;br&gt;&lt;br&gt;이날 현장에 참여한 하남시립합창단 노조는 지난 2023년부터 예술노동자의 처우 개선을 요구하며 쟁의를 이어오고 있다. 공연 기회 확대 등을 둘러싸고 하남문화재단과의 갈등도 계속되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>태국인 아내 얼굴에 끓는 물 부은 40대, 구속</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/PZL6GWGE2FGGBJGA4GPMABZVEE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/PZL6GWGE2FGGBJGA4GPMABZVEE/</guid>
+      <dc:creator>의정부=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 08:50:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/233OTVKSNVPHRFVQA245C2OZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-2539&gt; 고개 숙인 '태국인 아내 특수상해' 40대&#13;
+    (의정부=연합뉴스) 심민규 기자 = 16일 오전 경기도 의정부시 가능동 의정부지방법원에서 특수상해 혐의로 구속영장이 청구된 40대 남성 A씨가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다. A씨는 지난 3일 의정부시 호원동의 한 아파트에서 잠들어 있던 30대 태국인 아내 B씨의 얼굴과 목 등에 커피포트로 끓인 물을 부은 혐의를 받는다. 2025.12.16 &#13;
+    wildboar@yna.co.kr/2025-12-16 10:36:39/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 남자를 만날까봐 태국인 아내 얼굴에 끓는 물을 부은 40대 남성이 구속됐다. &lt;br&gt;&lt;br&gt;의정부지법은 특수상해 혐의를 받는 A씨에 대해 “도망 염려가 있다”며 구속 영장을 발부했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;법원은 이날 오전 10시 30분부터 사전영장이 청구된 A씨에데 대한 구속 전 피의자 심문(영장실질심사)을 진행했다. &lt;br&gt;&lt;br&gt;오전 9시 50분쯤 법원에 도착한 A씨는 마스크를 착용한 채 아무런 말 없이 경찰과 함께 법정으로 들어갔다. 심사를 마친 A씨는 “아내에게 왜 그런 행동을 했느냐”, “피해자에게 할 말은 없느냐”는 취재진의 질문에 답하지 않은 채 호송차에 올라 유치장에 입감됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 정오 의정부시 호원동의 한 아파트에서 잠을 자고 있던 자신의 태국인 아내 B(30대)씨의 얼굴에 끓는 물을 부은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 B씨를 서울 성동구의 한 화상 전문병원에 데려갔고, 병원 측은 폭행이 의심된다며 같은 날 오후 9시 경찰에 신고했다. 신고를 접수한 성동경찰서는 의정부경찰서에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “다른 남자를 만날까봐 얼굴을 못생기게 만들고 싶었다”며 B씨가 자신을 떠나는 것을 막기 위해 범행을 저질렀다는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 B씨는 태국인 지인의 SNS를 통해 사건을 전했고, 태국 매체 더 타이거 등 현지 언론이 이를 보도하며 사건이 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>추위 속 아역 챙긴 에스파 카리나...난로 양보·어부바 사진 ‘훈훈’</title>
+      <link>https://www.chosun.com/national/people/2025/12/16/ESBLPDN5ZFGHPHGQANJC2JLSDQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/16/ESBLPDN5ZFGHPHGQANJC2JLSDQ/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 09:10:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HKLBPEBTJGPBFFOQCZSNEAAVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 에스파 카리나가 아역배우를 챙기고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 에스파 카리나의 미담이 온라인을 통해 전해졌다. 추운 날씨 속 촬영 현장에서 아역 배우를 살뜰히 챙기며 난로까지 내어줬다는 내용이다. &lt;br&gt;&lt;br&gt;15일 아역 배우 임시현의 어머니 A씨는 자신의 인스타그램을 통해 카리나와 함께 돌고래유괴단 신우석 감독의 작품에 참여한 후기를 남겼다.&lt;br&gt;&lt;br&gt;A씨는 “카리나 님과 촬영했다고 동네방네 자랑하고 싶어서 입이 근질근질했다”면서 “촬영 내내 추운데도 시현이 추울지 걱정해 주고, 자기 난로도 시현이 해 주라고 챙겨줬다”고 적었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5GRGSWV7JAVJNK4GHVKXFYQ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 에스파 카리나가 아역배우를 챙기고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 공개된 사진에는 카리나가 아이의 곁을 쫓아다니며 돌보며, 손을 잡고 함께 뛰어가는 모습이 담겼다. 또한 카리나가 쭈그리고 앉아 아이와 눈을 맞추거나 아이를 등에 업은 모습도 포착됐다. &lt;br&gt;&lt;br&gt;A씨는 “시현이가 컨디션이 잘 안 따라줬는데도 촬영 끝까지 너무 잘 챙겨줬다”면서 “촬영 당일이 시현이 생일이었는데, 생일 선물이 카리나 님과의 촬영이었다고 하더라”고 덧붙였다.&lt;br&gt;&lt;br&gt;두 사람이 호흡한 작품은 신우석 감독이 연말을 맞아 선보인 오리지널 콘텐츠 ‘신우석의 도시동화’다. 임시현은 극 중 빈첸시오로 변우석 아역을, 카리나는 변우석의 어머니 역할을 맡았다. 이 작품에는 아이브 장원영, 배우 박희순, 문소리 등도 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>李 대통령 “지역의사·공공의사 나중에 다 사라질 것"</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/16/WRBGAKEHAZEZBDAXPCWGRKHHGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/16/WRBGAKEHAZEZBDAXPCWGRKHHGE/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 09:09:57 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5UMHLVUDFODRDTKS3YLB3OKQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 용산구 서울역 대합실에서 설치된 텔레비전에서 이재명 대통령의 보건복지부 등에 대한 업무보고 생중계 영상이 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 정부가 도입을 추진 중인 지역의사제·공공의사에 대해 “(그건) 문제가 생긴 부분을 채워 넣는 방법”이라며 “문제가 생긴 원인을 제거해야 되는 것이 정상”이라고 말했다. 지역·필수 의료의 인력난 등을 해결하기에 두 제도로는 한계가 있다는 취지의 발언이다.&lt;br&gt;&lt;br&gt;이 대통령은 16일 보건복지부로부터 업무보고를 받으며 “원인을 제거해야 하는 것 아니냐”며 이같이 말했다. 이어 “힘들더라도 뭉개고 넘어갈 것이 아니고 지역 의사니 공공의사니 막 해서 의사를 보충하면 뭐 하겠냐”며 “나중에 시간 지나면 (의사들이) 도로 사라질 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;현 정부는 지역과 필수 의료 분야에 의사가 모자라는 문제를 해결하기 위해 지역의사제 도입과 공공의대로 불리는 공공의료사관학교 설립을 추진 중이다. 지역의사제는 지방 의대 정원의 일정 비율을 해당 지역에서 졸업 후 10년간 일하는 조건을 달아 뽑는 것이고, 공공의료사관학교는 공공 의료 분야에서 일할 의사를 양성하는 전문 교육 기관이다.&lt;br&gt;&lt;br&gt;이 대통령은 그러나 지역·필수 의료의 인력난의 핵심 원인으로 ‘낮은 보상’과 ‘의료 사고에 대한 소송 위험’을 꼽았다. 그러면서 “다른 방식으로는 해결이 안 된다. 보상을 올려줘야 한다”고 했다. 정은경 복지부 장관이 “고평가돼 있는 수가는 낮추고, 저평가돼 있는 수가는 올리는 조정 작업을 진행하고 있다”고 하자 “손톱만큼만 해서는 안 된다”고 했다. 필수 의료 분야 등에 대해선 의사에게 주어지는 보상을 대폭 높여야 한다는 취지의 주문을 한 것이다.&lt;br&gt;&lt;br&gt;이 대통령은 “경증에 대해서는 (건강보험) 보상이 너무 크다”고도 했다. ‘경증 환자에 대한 건강보험 보상을 줄여 이를 중증 환자에 대한 보상 강화 재원으로 써야 한다’는 취지의 주문이다. 이 대통령은 “중병에 걸려 치료 못 받고 죽는 상황을 맞이하느냐, 감기 치료할 때 좀 더 부담하는 것을 감수하느냐를 합리적으로 판단해야 한다”며 “(건강) 보험료를 계속 올릴 수도 없고, 안 해도 될 지출은 좀 줄이자는 얘기를 복지부 장관이 설득을 많이 해 보라”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 응급 환자와 119구급대가 치료할 병원을 찾아 헤매는 이른바 ‘응급실 뺑뺑이’ 문제에 대한 해결책도 복지부에 요구했다. 이 대통령은 “현실은 지금도 몇 시간씩 뺑뺑이를 돌다가 (환자가) 죽잖느냐”며 “이걸 어떻게 해결할 것이냐. 대책이 뭐냐”고 정 장관에게 따져물었다. 그러면서 “응급실 뺑뺑이 문제는 별도 보고를 국무회의에서 해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘학교에 폭발물 설치했다’ 협박 글 반복해 올린 10대, 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2025/12/16/LQ2QWVZ2DFGL3NIYZY6G3LZUVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/16/LQ2QWVZ2DFGL3NIYZY6G3LZUVA/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 09:00:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFVL2UWTEDQH52VZUVLB53KB6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭발물 설치 신고가 접수된 인천 서구의 한 고등학교에 출동한 소방 당국. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 다니는 학교에 폭발물을 설치했다는 등의 협박 글을 수차례에 걸쳐 반복해 게시한 10대가 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지검 형사6부(부장 인훈)는 공중협박, 위계에 의한 공무집행 방해 등 혐의로 A(17)군을 구속 기소했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 “A군이 단순히 재미나 휴교를 목적으로 반복해 범행한 점, A군의 범행으로 경찰과 구청, 군, 소방 당국의 행정력이 낭비된 점 등을 고려했다”고 기소 이유를 설명했다. &lt;br&gt;&lt;br&gt;A군은 지난 10월 13일부터 21일까지 자신이 다니고 있는 인천시 서구의 한 고등학교에 폭발물을 설치했다는 등의 협박 글을 7차례에 걸쳐 119안전신고센터에 게시한 혐의를 받고 있다. A군은 협박 글에 자신을 잡지 못하는 경찰을 조롱하는 내용을 쓰기도 했다. &lt;br&gt;&lt;br&gt;A군의 협박 글로 인해 학교 측은 수차례에 걸쳐 학생 500여 명을 하교하도록 했고, 경찰과 소방 당국이 출동해 교내 수색과 순찰 등 조치를 했다. &lt;br&gt;&lt;br&gt;A군은 앞서 지난 9∼10월 경기 광주와 충남 아산, 광주광역시 지역의 중고등학교와 철도역 등을 대상으로 폭발물 설치 협박 글을 쓴 것으로 조사되는 등 총 13건의 협박 글을 올린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A군은 자신이 협박 글을 쓰지 않았다고 주장하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “불특정 다수에게 불안감을 일으키는 공중 협박 범죄에 대해 엄정 대응하겠다”고 말했다. &lt;br&gt;&lt;br&gt;한편 경찰은 A군의 범행으로 행정력이 낭비됐다고 보고 손해배상 청구 소송을 제기할 예정이다. 경찰은 112 출동 수당, 시간 외 수당, 출장비, 급식비, 동원 차량 유류비 등 손해배상 청구액을 산정하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>李대통령 “탈모 치료제 건보 적용 검토하라”</title>
       <link>https://www.chosun.com/national/welfare-medical/2025/12/16/HQC7DOZIO5ELZLVZQ7O4YK7NIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/16/HQC7DOZIO5ELZLVZQ7O4YK7NIY/</guid>
@@ -879,33 +945,6 @@
       <content:encoded>웰바이오텍의 주가 조작 의혹을 수사 중인 민중기 특별검사팀이 앞서 구속영장이 기각된 양남희 웰바이오텍 회장에 대해 구속영장을 다시 청구했다고 15일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSDCODFMRRWKZJQMM4DKMJRMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검 관계자는 15일 “지난 12일 양 회장에 대해 자본시장법 위반, 특경법상 배임, 업무상 횡령 혐의로 구속영장을 재청구했다”고 밝혔다. 양 회장에 대한 영장실질심사는 오는 18일 이뤄질 예정이다.&lt;br&gt;&lt;br&gt;삼부토건 관계사인 웰바이오텍은 우크라이나 재건 사업에 참여하는 것처럼 투자자들을 속여 주가를 띄우고 부당이득을 챙겼다는 의혹을 받는다. 특검은 삼부토건이 우크라이나 재건 사업 등을 이용해 주가를 인위적으로 부양할 때 웰바이오텍도 개입한 것으로 의심하고 있다. 양 회장 등이 이 과정에서 미리 전환사채(CB)를 싸게 사놨다가 주가가 오른 뒤 내다 팔아 약 400억원의 시세 차익을 챙긴 혐의를 받는다.&lt;br&gt;&lt;br&gt;앞서 특검은 양 회장에 대한 구속영장을 한 차례 청구했지만, 법원은 지난달 16일 “주요 혐의의 피의자 관여 여부, 이익 귀속 등에 대해 구속할 정도로 소명되지 않았고, 도주 및 증거인멸의 정도도 구속할 정도의 구체성이 부족하다”며 받아들이지 않았다.&lt;br&gt;&lt;br&gt;특검은 이날 이준석 개혁신당 대표에 대한 소환 조사가 21일 오전 10시에 이뤄질 예정이라고 밝혔다. 특검 관계자는 “이 대표 측과 조율한 일정”이라고 설명했다. 특검은 이 대표를 상대로 2022년 치러진 20대 대선과 8회 지방선거, 21대 국회의원 보궐선거 당시 윤석열 전 대통령이 공천에 개입한 정황을 캐물을 예정이다.&lt;br&gt;&lt;br&gt;또 특검은 오는 17일 소환 조사가 예정된 윤 전 대통령 측과 소환 일자를 다시 조율 중이라고 밝혔다. 특검 관계자는 “(윤 전 대통령 측에서) 갑작스러운 변경 요청이 왔다”며 “날짜는 아직 협의 중인 상황”이라고 했다.&lt;br&gt;&lt;br&gt;한편 ‘통일교 민주당 금품 수수’ 의혹을 수사 중인 경찰청 국가수사본부에서 이날 김건희 특검 사무실을 압수 수색한 것에 대해 특검 관계자는 “적법성 확보를 위해서 압수 수색을 온 것 같다”며 “이첩한 사건을 근거로 해서 이뤄진 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>모텔 세면대서 신생아 숨진 채 발견… 20대 母 “출산 후 씻기려다…”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/DCA7XIXIBZDK3GXUFIDCUD7GJI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/DCA7XIXIBZDK3GXUFIDCUD7GJI/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 05:31:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BOVA5Y5FYNDPRGAQW6B2KEJALQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기북부경찰청 전경./김은진기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 의정부 한 모텔에서 신생아가 숨진 채 발견돼 경찰이 수사에 나섰다. &lt;br&gt;&lt;br&gt;경기북부경찰청은 아동학대 치사 혐의로 A씨(20대)를 입건해 조사 중이라고 15일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 지난 13일 오후 9시쯤 의정부시 한 모텔에서 “투숙객이 예정 시간에도 나오지 않아 들어가 봤더니 여성이 출산한 것 같다”는 신고가 접수됐다. &lt;br&gt;&lt;br&gt;신고를 받은 경찰이 현장을 확인하니 출산 직후의 여아가 화장실 세면대에서 심정지 상태로 발견됐다. &lt;br&gt;&lt;br&gt;함께 출동한 소방당국은 여아를 병원으로 이송했지만 결국 숨졌다. 당시 아이가 발견된 세면대에서는 물이 차 있었던 것으로 파악됐다. &lt;br&gt;&lt;br&gt;현장에 있던 20대 여성 A씨는 “혼자 모텔 방에서 출산을 했다”며 “아이를 씻기려 했다”고 경찰에 진술했다. &lt;br&gt;&lt;br&gt;경찰은 숨진 아이의 시신 부검을 의뢰하는 등 사건 경위를 조사 중이다. 경찰 관계자는 “아이의 사망이 과실로 인한 것인지, A씨에게 살해 의도가 있었는지 여부 등은 밝혀지지 않았다”며 “부검 결과 등을 토대로 정확한 사인에 대해서도 조사 중이다”라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>30대 성폭행 미수범, 징역10년형… “동종 범죄 전력, 죄질 나빠”</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/15/6R47L7R5DRHD3I4NZR5LTKXP5I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/15/6R47L7R5DRHD3I4NZR5LTKXP5I/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 05:24:27 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7J4T6KTWKBDWTAAGIE74JXUW6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;청주지법 전경. /신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이웃 매장 업주를 흉기로 찌르고 성폭행을 하려 한 30대에게 중형이 내려졌다. &lt;br&gt;&lt;br&gt;청주지법 충주지원 형사1부(지원장 김룡)는 15일 성폭력처벌법상 강도강간 등 혐의로 구속기소 된 30대 A씨에게 징역 10년을 선고했다고 밝혔다.&lt;br&gt;&lt;br&gt;또 신상정보 공개 10년·고지와 아동·청소년·장애인 관련 기관 취업 제한, 위치추적 전자장치 부착 15년도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월 2일 충주의 한 상가 매장에 들어가 업주 B씨를 성폭행하려다 미수에 그친 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 범행 당시 격렬히 저항하는 B씨의 허벅지를 흉기로 찌르고, 이 모습을 휴대전화로 촬영하면서 돈을 요구한 혐의도 받는다. &lt;br&gt;&lt;br&gt;A씨는 이웃 매장 업주인 B씨가 자신에 대한 안 좋은 소문을 퍼뜨려 여자친구와 이별하게 됐다는 이유로 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 동종 범죄로 실형을 선고받은 전력이 있음에도 다시 유사한 범행을 저질러 죄질이 나쁘다”며 “피해자에 대한 피해 회복도 전혀 이뤄지지 않은 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 통일교 의혹 전재수 의원실 압수수색 ‘2시간 지연’…오전 도착 뒤 11시20분쯤 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/DKPFCLVOK5FRTEH4R2JMXCI4IE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/DKPFCLVOK5FRTEH4R2JMXCI4IE/</guid>
-      <dc:creator>구아모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 05:21:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4SMF7CKINGKRONZDUTTDOK63I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 정치권 인사들의 통일교 금품 수수 의혹과 관련해 첫 강제수사에 착수한 15일 국회의원회관 내 더불어민주당 소속 전재수 전 해양수산부 장관 사무실로 경찰 관계자들이 들어가고 있다. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교의 정치권 로비 의혹을 수사 중인 경찰이 15일 전재수 전 해양수산부 장관 의원실 압수수색을 위해 국회 의원회관에 도착하고도 실제 압수수색에 착수하기까지 2시간 넘게 걸린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;경찰청 특별전담수사팀은 이날 오전 9시쯤 의원실 압수수색을 위해 국회 의원회관에 도착한 것으로 추정된다. 그러나 수사 인력이 의원실에 들어가 PC 파일 확보 등 압수수색을 진행한 시점은 오전 11시 20분쯤이었다.&lt;br&gt;&lt;br&gt;국회 의원실 압수수색은 통상 영장 집행에 앞서 국회의장실·국회사무처에 집행 사실을 통보하고, 출입·보안 절차 및 동선 협의를 거친 뒤 수사관이 의원실에 진입하는 방식으로 진행된다. 이 때문에 일반 현장 압수수색보다 착수 시점이 다소 늦어지는 경우가 종종 있다는 게 국회 안팎의 설명이다. &lt;br&gt;&lt;br&gt;다만 이날처럼 수사팀이 현장에 도착한 뒤에도 2시간 이상 지나서야 의원실에 들어가 본격적인 자료 확보에 착수한 건, 국회 특수성을 감안하더라도 통상적인 범위를 넘어선 지연으로 보인다는 지적이 제기된다.&lt;br&gt;&lt;br&gt;이 과정에서 변호인 등 강제수사에 대비하는 인력이 현장에 도착했고, 의원실 바깥에서 대기하던 일부 취재진은 내부에서 기계 작동 소리가 들렸다고 전하며 종이 파쇄기 가동 가능성을 제기하기도 했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 8월 무소속 이춘석 의원의 주식 차명거래 의혹 수사 때도 자택과 의원실 압수수색을 시차를 두고 진행해 “대비 시간을 준 것 아니냐”는 비판을 받은 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>前수방사령관 “尹 ‘나는 꼭 배신당한다’ 토로하며 한동훈 언급” 법정 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/15/NOQHLFTYTVH2JE2PA2TDETUV5M/</guid>
@@ -913,24 +952,6 @@
       <description/>
       <pubDate>Mon, 15 Dec 2025 04:09:10 +0000</pubDate>
       <content:encoded>12·3 비상계엄 당시 국회에 병력을 출동시켰던 이진우 전 수도방위사령관이 “계엄 선포를 한 달가량 앞둔 시점에서 윤석열 전 대통령이 ‘나는 꼭 배신당한다’고 말하면서 한동훈 전 국민의힘 대표를 언급했다”고 법정에서 증언했다. 앞서 곽종근 전 특수전사령관은 윤 전 대통령이 지난해 국군의 날 행사 이후 뒤풀이 모임에서 한 전 대표를 가리키며 “잡아와라. 내가 총으로 쏴서라도 죽이겠다”고 증언했는데, 이와 일맥상통하는 말을 한 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HCB62VZRGDI23M2DFDOQV7YJUY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이진우 전 수도방위사령관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 사령관은 15일 서울중앙지법 형사25부(재판장 지귀연)에서 열린 윤 전 대통령의 내란 우두머리 혐의 재판에 증인으로 나와 윤 전 대통령이 한 전 대표를 이야기한 전후 정황을 설명하며 이같이 말했다. 이 전 사령관은 “작년 11월 9일 국방장관 공관 2층의 식당에서 김용현 전 국방장관, 곽종근 전 특수전사령관, 여인형 전 국군방첩사령관과 저녁 식사를 했고, 중간에 윤 전 대통령이 합류했다”며 “몸을 못 가눌 정도로 술을 많이 마신 윤 전 대통령이 ‘많은 사람에게 배신당한다’며 한 전 대표 이름을 호명했다”고 했다. 이어 이 전 사령관은 “윤 전 대통령이 11월 모임에서 ‘정책적으로 뭔가 추진하면 다 반대하고, 언론에서 부정적으로 바꿔 쓰니 뭘 해도 힘이 안 난다. 무조건 반대하는 것은 잘못 아니냐’는 취지로 말했다”고도 했다.&lt;br&gt;&lt;br&gt;다만 이 전 사령관은 곽 전 사령관이 지난해 10월 1일 국군의날 행사를 마친 뒤 있었던 모임에서 윤 전 대통령이 “한동훈을 잡아와라. 총으로 쏴서라도 죽이겠다”고 말했다고 증언한 데 대해선 “당시 저는 술을 마시지 않았는데 기억에 없다”고 했다. 당시 모임에서 윤 전 대통령이 시국에 대한 어려움을 털어놓지는 않았다는 게 이 전 사령관 주장이다.&lt;br&gt;&lt;br&gt;이 전 사령관은 지난해 11월 9일 모임에서 윤 전 대통령이 부정선거도 언급했다고 증언했다. 술을 마시던 도중 윤 전 대통령이 “선거를 믿을 수 없다”며 “국민들이 잘 믿지 못하게, 투명하게 운영되지 않고 있다”고 말했다는 것이다. 이 전 사령관은 “여 전 사령관이 ‘그런(선거) 거 진짜 잘 (운영)돼야 한다’며 선거관리위원회에 대해 이야기했다”고 말했다.&lt;br&gt;&lt;br&gt;이런 가운데 이 전 사령관은 비상계엄 선포를 미리 알지 못했다고 주장했다. 이 전 사령관은 비상계엄 선포 당일 오후 9시 46분 김 전 장관과 했던 통화에 대해 “관사에서 아내와 설거지를 하고 있었는데 (김 전 장관이) 상황이 발생할 수 있으니 부대에서 대기하라고 했다”며 “이유를 물어보지 못하고 알겠다고만 했다”고 증언했다. 이어 “당시 통화에서 김 전 장관이 비상계엄 관련 언급은 하지 않았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 국방부 SW 납품 견적 부풀려 53억원 빼돌린 일당 기소</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/QCMHR4SL6RHRRBDX7X3PYULCMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/QCMHR4SL6RHRRBDX7X3PYULCMA/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 05:14:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QPC5LEVSLTT7R4BHGMR24OUGBQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국방부에 소프트웨어(SW) 납품 견적을 부풀리는 방법으로 국가보조금을 빼돌린 일당이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울북부지검 국가재정범죄합동수사단(이태협 단장 직무대리)은 특정경제범죄 가중처벌법 및 범죄수익은닉규제법 위반 등 혐의로 SW 제조업체 A사 관계자 등 13명을 기소했다고 15일 밝혔다. 3명은 구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;이들은 국방부 산하기관이나 직할부대가 발주하는 데이터베이스 운영 SW 구매사업을 낙찰받으며 지난해 5월부터 지난 4월까지 53억원을 빼돌린 혐의를 받는다. 이들은 허위 견적서로 생긴 차액을 하청업체들에 기술지원비를 지급하는 것으로 가장했다. 기술지원비가 객관적인 가격산정이 어렵다는 점을 악용한 것이다. 일당은 이 돈을 동남아 등 여행 비용이나 국내 유흥주점에서 탕진한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;이 과정에서 A사의 전 국방 부문 영업대표 B씨는 국방부 직할부대 업무 담당자에게 배우자 명의의 허위 급여나 여행경비 명목으로 4400만원의 뇌물을 제공한 혐의도 드러났다.&lt;br&gt;&lt;br&gt;지난해 11월 관련 첩보를 입수한 검찰은 5월부터 압수수색을 하는 등 수사에 착수해 범행 전모를 밝혀냈다. 또 15억원에 달하는 범죄수익 세탁을 차단하고 피고인들의 재산을 추징보전했다.&lt;br&gt;&lt;br&gt;검찰은 “조달청 ‘나라장터’에 올라온 소프트웨어 등 고가 제품 발주와 관련해 대금이 제대로 지급됐는지와 같은 사후 점검이 필요하다는 취지의 제도 개선을 건의할 예정”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>음주 사고 무마하려고 목격자에 돈 건넨 40대 운전자, 징역 1년</title>
-      <link>https://www.chosun.com/national/regional/2025/12/15/AU6BEJJSPRASPONXDTJYBGHP2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/15/AU6BEJJSPRASPONXDTJYBGHP2Q/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 04:45:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNIX6FXLJN37HT6NVV4UEU2GK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허 상태에서 음주 운전을 하다 사고를 낸 뒤 목격자에게 금품을 건넨 40대에게 징역형이 선고됐다. &lt;br&gt;&lt;br&gt;대구지법 형사10단독 노종찬 부장판사는 도로교통법 위반(음주 운전) 등 혐의로 기소된 A씨에게 징역 1년을 선고했다고 15일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3월 29일 오후 6시 20분쯤 무면허 상태로 대구 서구 자신의 집에서 북구 침산로까지 약 7.4㎞ 구간을 운전하고, 같은 날 오후 11시 4분쯤 혈중알코올농도 0.109%의 술에 취한 상태로 4.6㎞를 운전한 혐의로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;음주 운전 중 주차된 차량을 추돌하는 사고를 낸 A씨는 주변에 있던 목격자들에게 돈을 건넸다가 이후 경찰에 자수한 것으로 알려졌다. A씨는 앞서 2022년 6월에도 음주 운전으로 징역형의 집행유예형을 선고받은 것으로 조사됐다. &lt;br&gt;&lt;br&gt;재판부는 “A씨는 자수한 부분을 강조하지만, 돈을 받은 목격자들의 추가 요구 정황이 보이자 이뤄진 행동으로 보이는 만큼 자수 감경은 하지 않고, 유리한 양형 요소로 판단했다”며 “혈중알코올농도 수치도 높고 주차된 차량을 충격하는 사고를 일으켜 음주 운전의 위험성이 현실화된 점 등을 종합하면 엄벌이 불가피하다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내란 특검, 조희대 불기소 “사법부 계엄 동조 의혹 사실 아냐” </title>
@@ -953,24 +974,6 @@
         <media:description type="plain">가수 바비킴./유튜브</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>화성 공장 공사현장서 화재... 2명 부상, 진화 중 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/FQTQDNQ3CRD6LDZGXME5A46CVY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/FQTQDNQ3CRD6LDZGXME5A46CVY/</guid>
-      <dc:creator>화성=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 02:17:08 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSDIZDDHE3TAMTFMQ3TSOBZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;[사건사고] 화재 불 119&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;화성 한 공장 공사 현장에서 화재가 발생해 2명이 다쳤다. &lt;br&gt;&lt;br&gt;15일 경기도소방재난본부에 따르면 이날 오전 10시 23분쯤 화성시 방교동 일대 공장 리모델링 공사 현장에서 불이 났다. &lt;br&gt;&lt;br&gt;“공사 중인 공장에서 화재가 났다”는 목격자의 신고를 받고 출동한 소방 당국은 인력 81명과 장비 33대 등을 동원해 불을 끄고 있다. 이 불로 2명이 화상을 입는 등 다쳤으며 30명이 자력 대피했다. &lt;br&gt;&lt;br&gt;소방 당국은 불을 끄는 대로 정확한 화재 원인 등을 조사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>그래도 먹어야 하는 이유</title>
-      <link>https://www.chosun.com/national/weekend/2025/12/13/7PISZUSJXNCE3O2KHXOKLOWVCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/12/13/7PISZUSJXNCE3O2KHXOKLOWVCQ/</guid>
-      <dc:creator>김영미 산악인</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 15:37:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM5D5H3XWBAUVDU75R6NO3HYYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한국에서 동결 건조해 가져간 소불고기를 끓이자 잘게 부서져 죽처럼 됐다. /김영미 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;(2024.11.19.화 / 운행 12일 차 / 누적 거리 218.31㎞ / 해발고도 795m)&lt;br&gt;&lt;br&gt;매일이 전쟁이다. 12일이 지났는데도 남극이 익숙해지지 않는다. 아침에 눈을 뜰 때 느끼는 피로는 체감상 한 달쯤은 쌓인 것 같았다. 화이트아웃(눈보라 등으로 주변이 온통 하얗게 보이는 현상)과 블리자드를 온몸으로 맞고 나니 슬슬 몸이 신호를 보내기 시작했다. 20년 넘게 원정을 다니며 입술이 부르튼 건 처음이다. 아직 1500㎞가 넘게 남았는데 벌써 무너지는 건가? 부르튼 입술에는 피딱지가 생겨 아침이면 입술 위아래가 들러붙어 있었다. 물을 마시려고 입을 벌리면 다시 피가 흘렀다. &lt;br&gt;&lt;br&gt;밥을 먹기 힘들다. 오늘 아침에만 두 번을 토했다. 나흘 넘게 구토를 했다. 2년 전 남극점 원정 때에도 초반에 여러 날을 토했다. 2년 전과 마찬가지로 남극의 환경에 아직 몸이 적응하지 못해 음식을 받아들이지 못하는 것이라 여겼다. 그런데 오늘 아침은 좀 유난했다. &lt;br&gt;&lt;br&gt;알람 소리에 눈을 뜨자마자 어제저녁 끓여 넣은 보온병의 물 한 모금을 마셨다. 물이 위에 닿자마자 속에 있는 음식물을 모두“웩웩웨~엑” 거리며 토해냈다. 피가 얼굴에 쏠렸고 안압이 올라 눈물이 주르륵 흘렀다. 노란 위액까지 쏟아질 것 같았다. 남극에 갖고 간 메뉴는 소불고기와 돼지 제육볶음이다. 두 가지 메뉴로 70일 내내 같은 식사를 준비했다. 서양식 원정 식량인 파스타나 프라이드 라이스보다는 한식이 좋아 바이칼 호수 원정부터 지난 남극점 원정까지 두 차례 테스트를 거쳤다. 마장동에서 수입 냉동육을 박스로 구입해 식당에서 직접 조리했다. 동결 건조 공장에서 일주일간 급속 냉동 건조해 한 끼에 130g씩 분리해 담아 온 것들이다. 한 번도 문제없이 잘 먹었고 이번에도 같은 준비를 했다.&lt;br&gt;&lt;br&gt;원래 어제저녁 메뉴가 돼지고기였지만 속이 불편해 오늘 아침에 먹을 소고기를 미리 먹었다. 아침 식사용으로 돼지고기를 끓였다. 눈뜨자마자 토한 상태라 식욕이 없었다. 15분 넘게 누워 있다가 식어버려 다시 데웠다. 다시 끓여도 돼지고기에 수분이 없어 종이를 씹는 느낌이다. 절반쯤 먹었는데 두 번째 구토가 올라왔다. 같은 가게에서 구입해 같은 과정을 거쳐 준비해 온 소고기는 멀쩡한데 돼지고기를 먹으면 계속 토했다. 며칠 전부터 설사도 시작됐다. &lt;br&gt;&lt;br&gt;그냥 무심히 지나쳤던 준비 과정들이 떠올랐다. 처음 고기를 가지고 식당에 갔을 때, “돼지고기의 상태가 좋지 않다”는 얘기를 듣고 고깃집 사장님께 상황을 설명했다. “바람이 들어서 그렇다”고 했다. 무슨 뜻인지 물었는데 더 이상의 답이 없었다. 이 표현은 냉동실에 오래 있었거나 신선도가 떨어진다는 의미다. 바이칼과 남극점 때와 같은 정육점에서 고기를 샀다. 식당에서 조리한 고기를 다음 날 새벽 곧장 강릉의 동결 건조 공장으로 가져갔다. 이곳에서도 “돼지 제육 메뉴에서 시큼한 냄새가 난다”고 했다. 하지만 나는 고기를 다시 사서 조리할 시간이 없었다. “설마 상했겠어?”라고 넘겼다. 그리고 재포장을 위해 푼타아레나스에서 음식을 개봉했을 때 군내가 진동했다. 냄새는 참고 먹을 수 있다고 생각했다. 푼타에서 원정용 음식을 찾기 어려워 대안도 없었다. 여러 차례 경고와 신호를 보내왔지만, 출국 직전 나는 너무 바쁘고 처리할 일이 많았다. 지금까지와 마찬가지로 문제 될 일이 없을 것이라 믿고 넘겼다. 너무 억울한 마음이 들고 주의 깊지 못했던 나 자신도 한심스러웠다. &lt;br&gt;&lt;br&gt;갑자기 구토가 쏠려 먹던 밥그릇에 일부를 토했다. 물 한 모금으로 입안의 잔여 토사물을 헹궈냈다. 밥그릇의 토사물을 걷어내고는 볶음 고추장을 비벼 남은 밥을 마저 먹었다. 오늘 걸어야 할 거리를 따라잡기 위한 ‘연료 주입’이다. 지난 시간에 연연할 에너지조차 아까웠다. 중요한 건 여기서 후회해 봤자 달라질 건 없다는 사실이었다. 앞으로 나아가는 수밖에 없었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘통일교 1억원 수수’ 권성동, 법원에 보석 청구</title>
