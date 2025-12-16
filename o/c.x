@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 류희림 ‘민원사주’ 의혹 방미심위 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/16/5YX3QRHGEND67HOML5VHNDFLTE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/5YX3QRHGEND67HOML5VHNDFLTE/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 05:10:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CKENT5HO3CU3S3SOIBKPRKPEJA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류희림 전 방송통신심의위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 ‘민원사주’ 의혹을 받는 류희림 전 방송통신심의위원장 위원장에 대한 강제 수사에 나섰다. &lt;br&gt;&lt;br&gt;서울경찰청 공공범죄수사대는 이날 오전 서울 양천구 방송통신미디어심의위원회 사무실 등에 대한 압수수색을 진행 중이라고 밝혔다. 류 전 위원장이 사용했던 위원장실과 부속실, 민원팀 서버 등이 압수수색 대상이다. 이번 압수수색은 류 전 위원장의 업무방해·직권남용 혐의를 수사하는 과정에서 필요하다는 이유로 진행됐다. &lt;br&gt;&lt;br&gt;류 전 위원장은 가족·지인 등에게 온라인 매체 뉴스타파에서 보도한 ‘김만배-신학림 인터뷰’ 녹취록을 인용한 언론사 보도들을 심의해달라는 민원을 100건 이상 제기하도록 하고, 본인이 직접 심의에 참여했다는 의혹을 받는다. &lt;br&gt;&lt;br&gt;이 의혹은 공익 제보를 통해 공개됐는데, 류 전 위원장이 내부 감사 등을 실시해 당시 공익 제보자에게 불이익 조치를 준 것 아니냐는 논란이 일었다. 실제 경찰은 지난 7월 류 전 위원장의 민원 사주 의혹을 폭로한 내부 제보자들을 개인정보보호법 위반과 정보통신망법 위반 혐의 등으로 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;하지만 지난 9월 이 사건을 넘겨받은 서울남부지검에서 경찰에 재수사를 요청하면서 현재는 서울경찰청이 사건을 받아 재수사를 진행하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘김건희 계좌 관리인’ 이종호 측 “金에게 3억 수표로 줬다”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/16/GBKUVFOXTVEQZM5YMNJQVHRJOA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/GBKUVFOXTVEQZM5YMNJQVHRJOA/</guid>
@@ -966,15 +975,6 @@
       <description/>
       <pubDate>Sat, 13 Dec 2025 09:04:14 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LZX3W6DC3RCQPGHM562HXYK6TI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 서울 중구 달개비에서 열린 저출산위 미래세대 국민WE원회 모습./저출산위 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;청년들이 저출생·고령화 극복을 위해 필요한 결혼 정책으로 ‘결혼 자금 부담 완화’를 1순위로 꼽았다. 고비용이 드는 결혼으로 인해 결혼하기 어려운 세태가 반영됐다는 해석이 나온다.&lt;br&gt;&lt;br&gt;저출산고령사회위원회는 13일 서울 중구 콘퍼런스하우스 달개비에서 ‘2025년 미래세대 국민위(WE)원회 활동 성과 보고회를 열고, 위원회의 우수 제안 9개를 공개했다.&lt;br&gt;&lt;br&gt;미래세대 국민위원회는 국민 목소리를 정책 수립 과정에 반영하려고 만든 위원회로, 올해는 10대와 20대 250명으로 구성돼 있다.&lt;br&gt;&lt;br&gt;위원회는 지난 9월 9개 주제에 걸쳐 24개의 정책 제안을 했는데, 저출산위는 이날 이 중 우수제안 8개를 발표했다.&lt;br&gt;&lt;br&gt;결혼 분야에서 1등으로 뽑힌 것은 ‘결혼 자금 부담 완화’ 정책이다. 결혼 준비 바우처를 지역화폐로 제공해 결혼 초기 부담을 줄여주자는 것이다. 위원회는 이 외에 신혼부부 맞춤형 공공주택 확대, 전국적인 금융상품 표준화 등의 제안도 발표했다.&lt;br&gt;&lt;br&gt;양육·돌봄·교육 분야 우수 제안으로는 ‘저출생과 미래사회’를 주제로 대학교 필수 강좌를 개설하자는 정책이 발표됐다. 인구문제에 대한 대국민 공감과 이해를 확산하자는 취지다.&lt;br&gt;&lt;br&gt;주거 분ㅇ야에서는 무자녀 가구가 아이를 가질 수 있도록, 유자녀 가정에 주택 공급 우선권을 주는 ‘유자녀 가구 주거 혜택’과 지방에 거주하며 수도권으로 출퇴근하는 신혼 가구에 교통비를 지원하는 ‘지방·수도권 거주지 분산’ 정책이 우수 제안으로 뽑혔다.&lt;br&gt;&lt;br&gt;청년들은 또 숙련된 노인 인력의 뎅이터베이스를 구축해 중소기업과 연결하고, 기업 규모별로 고령자 고용 의무화를 단계적으로 도입한 뒤 고령자를 계속 고용한 기업에 인센티브를 제공하자는 아이디어를 냈다.&lt;br&gt;&lt;br&gt;주형환 저출산고령사회위원회 부위원장은 “건의된 과제들은 관계 부처와 검토해 향후 인구정책에 충실히 반영하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>기상청 “수도권, 비가 눈으로 바뀌기 시작”...경기·강원 일부 지역 대설특보</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/13/ZFMZRRZCCFCZLMFP5N4OLPFBBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/13/ZFMZRRZCCFCZLMFP5N4OLPFBBA/</guid>
-      <dc:creator>곽래건 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 13 Dec 2025 07:15:26 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CNYBO642LRPNNNYFTLSGFGFUIE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;13일 강원도 설악산 국립공원 일대에 눈이 쌓여 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기상청이 “수도권에 내리던 비가 점차 눈으로 바뀌며 내리고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;기상청은 13일 오후 3시 50분 “수도권은 눈이 쌓이는 지역이 많아지겠다”며 이같이 밝혔다. 이어 “서울 동북권, 경기 동부는 시간당 1~3㎝의 무거운 눈이 내리면서 대설특보를 발표할 가능성이 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이날 오후 4시 기준 기상청은 경기도 연천·포천·가평, 강원도 철원·양구·춘천과 강원 북부·중부 산지, 양구평지, 홍천군 평지, 인제군 평지, 충남 계룡에 대설주의보를 내린 상태다. 대설주의보는 24시간 동안 새로 쌓인 눈이 5㎝ 이상일 때 발효된다.&lt;br&gt;&lt;br&gt;오후 4시까지 적설량은 대관령 1.2㎝, 북춘천 0.7㎝, 철원 0.3㎝, 파주 0.4㎝ 등이다. &lt;br&gt;&lt;br&gt;그러나 기온이 낮아지고 북쪽에서 강수 구름대가 남쪽으로 내려오면서 눈발이 거세질 것으로 보인다. &lt;br&gt;&lt;br&gt;기상청은 이미 이날 정오~오후 6시 경기도 파주·동두천·양주·의정부·구리·남양주·양평, 강원도 태백·영월·횡성·원주·화천·서울 등에 대설 예비 특보를 발령한 상태다. 이 시간 해당 지역에 대설 특보를 내릴 가능성이 있다는 뜻이다. &lt;br&gt;&lt;br&gt;오후 6시~자정까지는 경기도 하남·이천·여주·광주, 충북 괴산·충주·제천·음성·단양, 전북 무주, 경북 문경·영주·봉화 평지·제주도 등에 대설 예비 특보를 발령했다.&lt;br&gt;&lt;br&gt;예상 적설량은 경기 북부 내륙과 남동부 3~10㎝, 서울 2~7㎝, 강원도 5~15㎝ 이상, 충청권 1~8㎝, 전라권 1~7㎝ 등이다. &lt;br&gt;&lt;br&gt;기상청은 “대기 아래층과 지상의 미세한 기온 차이로 인해 같은 시·군·구 안에서도 적설 차이가 매우 크겠으니, 최신 기상 정보를 참고해 달라”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>반경 2km 안에 의원 225곳… 당뇨·고혈압 잡은 부산 동래</title>
