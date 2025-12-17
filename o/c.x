@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>오세훈 “李대통령, 겉핥기식 질의로 서울 도시 개발 계획 폄훼”</title>
+      <link>https://www.chosun.com/national/regional/seoul/2025/12/17/2JNJSNEFORHUNNSH56OJRIF2K4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/seoul/2025/12/17/2JNJSNEFORHUNNSH56OJRIF2K4/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 04:58:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FY6YIC42T5JIBBAJ2RQBUS5I34.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 4일 서울 종로구 세운재정비 촉진지구를 방문해 주민들과 간담회를 하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 17일 종묘 앞 세운지구 개발과 관련, 이재명 대통령을 향해 “공무원들에게 ‘모르면서 아는 척하는 것이 더 나쁘다’고 했으면서, 정작 (대통령은) 수박 겉핥기식 질의로 서울시의 미래 도시 전환 노력을 폄훼했다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 이날 페이스북에 ‘모르면서 아는 척하지 맙시다’라는 제목의 글을 올리고 “어제 대통령 업무 보고에서 세운지구 개발과 관련한 질의 과정을 지켜보며, 서울의 미래 도시 개발이라는 중대한 의제가 이토록 가볍게 다뤄질 수 있는지 개탄을 금할 수 없었다”며 이같이 말했다.&lt;br&gt;&lt;br&gt;오 시장은 “대통령은 툭 던지듯 질문하고, 국가유산청장은 마치 서울시가 종묘 보존에 문제를 일으킨 듯 깎아내렸다”며 “법령을 개정해 세계유산영향평가로 세운지구 개발을 막을 수 있다고 과장해 단정했다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국가유산청장의 ‘법으로 규제하겠다’는 발언은 강북 지역을 포함한 서울 전역의 개발을 주저앉힐 수 있는 매우 중대한 사안”이라며 “서울시가 추진하는 ‘다시, 강북 전성시대’ 비전과도 정면으로 충돌한다”고 했다.&lt;br&gt;&lt;br&gt;또 오 시장은 “국가유산청이라는 특정 정부 기관의 편향적 시각으로 도시 계획을 좌지우지하는 것은 권한 남용”이라며 “도시의 역사·유산을 지키는 일과 도시를 발전시키는 일은 제로섬 관계가 아니다”라고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “저는 강북의 꿈을 가로막고 서울의 혁신을 방해하는 시도는 시민과 함께 분명히 맞서 싸우겠다”며 “더 이상 서울의 퇴행은 없어야 한다”고 했다.&lt;br&gt;&lt;br&gt;이어 “정부는 본질을 왜곡하는 일방적 주장으로 서울시를 몰아갈 것이 아니라 문제를 풀 수 있는 합리적 대안을 함께 모색해야 한다”며 “필요하다면 합동 시뮬레이션 등 과학적이고 객관적인 검증을 거쳐 국가유산청과 충분히 협의할 수 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그는 “서울의 미래는 멈출 수 없다”며 “서울이 가야 할 길은 역사의 가치를 보존하며 도시 경쟁력도 최대한 끌어올리는 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산 오페라하우스 건설 현장서 40대 작업자 추락해 숨져</title>
+      <link>https://www.chosun.com/national/incident/2025/12/17/UP62T4Y4GZATZFNTHGRRRGCND4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/17/UP62T4Y4GZATZFNTHGRRRGCND4/</guid>
+      <dc:creator>부산=권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 04:53:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5RPGZXNFVBEKZOJX5YTRF2DSVE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 중구 오페라하우스 추락 사고 현장. /부산경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 오페라하우스 건설 현장에서 작업자가 10m 아래로 떨어져 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;17일 부산 중부경찰서에 따르면, 이날 오전 9시 10분쯤 부산 중구 오페라하우스 건설 현장에서 40대 남성 작업자 A씨가 지붕 데크 설치 작업을 하던 중 10m 아래로 떨어졌다.&lt;br&gt;&lt;br&gt;A씨는 심정지 상태로 병원에 이송됐지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 공사 관계자 등을 상대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>광주공항 무안 이전 큰 틀서 합의...무안공항 명칭은 ‘김대중 공항’으로 변경 검토</title>
       <link>https://www.chosun.com/national/national_general/2025/12/17/IXGFTI25JBEEBFLZCNHLFIBBWE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/IXGFTI25JBEEBFLZCNHLFIBBWE/</guid>
@@ -889,15 +907,6 @@
       <content:encoded>통일교와 정치권 유착 의혹을 수사하는 경찰이 구치소에 수감된 한학자 통일교 총재를 17일 조사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBUYYURR6BKUNHS2U4SDZAJ55I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 여의도 국회 의원회관 내 전재수 전 해양수산부 장관 사무실에서 통일교 금품 수수 의혹과 관련해 압수수색을 마친 경찰 관계자들이 압수품을 옮기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 경찰 등에 따르면 경찰청 국가수사본부 특별전담수사팀은 17일 한 총재가 수감된 서울구치소에서 한 총재를 접견 조사할 예정이다. &lt;br&gt;&lt;br&gt;윤영호 전 통일교 세계본부장은 지난 8월 민중기 특별검사팀에 복수의 여야 정치인에게 금품을 전달했다고 진술했다. 이를 수사하기 위해 국수본에 꾸려진 경찰 수사팀은 지난 10일 특검팀에서 통일교 관련 사건 기록을 넘겨받아 수사에 착수했고, 이튿날 진술 신빙성 등을 따지기 위해 윤 전 본부장을 접견 조사했다. 그러나 윤 전 본부장은 지난 12일 재판에서 “그렇게 진술한 적이 없다”고 말을 바꿨다. &lt;br&gt;&lt;br&gt;경찰은 15일 통일교 천정궁과 서울본부, 구치소의 한 총재 및 윤영호 전 통일교 세계본부장 수용실, 전재수 전 해양수산부 장관 등 피의자 사무실과 주거지 등 10여 곳을 압수수색했다. 16일에는 전날에 이어 민중기 특별검사팀 사무실에 대해서도 자료를 제출받기 위해 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;현재 통일교 금품 수수 혐의로 입건된 정치인은 전재수 전 해양수산부 장관, 임종성 전 더불어민주당 의원, 김규환 전 미래통합당 의원 등이다. 전 전 장관은 뇌물수수·정치자금법 위반 혐의로, 나머지 두 사람은 정치자금법 위반 혐의로 입건됐다. 경찰은 한 총재와 윤 전 본부장도 뇌물공여 혐의로 입건했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“조진웅, 대한민국이 자랑할 모범사례인데 못 죽여 안달”…인권연대 사무국장 주장 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/ZKKOMBI5ZVEAXF3ONIR5YAUHTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/ZKKOMBI5ZVEAXF3ONIR5YAUHTA/</guid>
-      <dc:creator>김자아 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 00:44:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57PPPYBWNVH73AIIUGZA6QWLZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 조진웅. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 시절 ‘소년범’ 전력 사실을 일부 인정하며 연예계를 은퇴한 배우 조진웅(49·본명 조원준)을 두고, 인권 전문가가 “강도·강간을 저질렀다면 교도소에 갔을 것”이라고 주장했다.&lt;br&gt;&lt;br&gt;오창익 인권연대 사무국장은 지난 10일 유튜브 채널 ‘김용민TV’ 라이브 방송에 출연해 디스패치의 조진웅 소년범 전력 보도에 “의혹이 많다”며 신빙성에 의문을 제기했다.&lt;br&gt;&lt;br&gt;우선 “보도에 따르면 (조진웅이) 고등학교 2학년 때 강도·강간을 저질렀다고 하는데 이 대목이 가장 이해가 안 된다”고 했다.&lt;br&gt;&lt;br&gt;그는 “강도·강간은 죄질이 정말 나쁜 범죄”라며 “실제 강도·강간 범죄는 자주 일어나지 않는다. 2024년 데이터에 따르면 1년 동안 대한민국에서 벌어진 강도·강간 범죄가 다섯 건이다. 살인보다 훨씬 적은 것”이라고 말했다.&lt;br&gt;&lt;br&gt;이어 “고등학교 2학년 또는 3학년생이 강도·강간을 저질렀는데 소년원에 보내는 경우는 없다. 형사처벌 대상이기 때문이다. 1994년은 2025년보다 훨씬 소년범에 대해 엄격하게 처벌할 때”라며 디스패치의 보도에 대해 “못 믿겠다”고 했다.&lt;br&gt;&lt;br&gt;또 “본인(조진웅)도 소속사를 통해서 ‘성범죄는 없었다’라고 이야기하고 있지 않나. 그러니까 이건 진실 관계를 좀 따져 봐야 된다”며 “실제로 수사 기록을 보거나 판결문을 본 게 아니라 전언 정도가 있었던 것 같다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YDOUW37OCRE77A5UGHMDJKZVCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오창익 인권연대 사무국장./유튜브&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 국장은 “한 사람의 인생을 그야말로 망가뜨릴 수 있는 어마어마한 보도를 했다”며 “유명인과 공인은 다르다. 조진웅 배우는 공인이 아니다. 유명인일 뿐이다”라고도 주장했다.&lt;br&gt;&lt;br&gt;이어 공인은 직무 관련성이 있다면 사생활을 검증해볼 수 있다면서도 “유명인의 사생활이나 전과 기록을 들여다볼 근거는 어디에도 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “조진웅이 독립 운동이나 민주적 의제에 민감했던 배우지 않나. 그래서 ‘한 번 혼내주자, 버르장머리 고쳐주자, 이왕이면 내쫓아보자’라는 욕구가 있었던 것 같다”고 주장했다.&lt;br&gt;&lt;br&gt;끝으로 오 국장은 “소년들은 변화 가능성이 많다”며 “조진웅이 정말 소년원 출신이어도 유명한 배우로 성공적으로 성장했다면, 대한민국이 자랑할 모범 사례인 거다. 소년 보호와 가정 교육이 잘됐다는 성공 사례인데 이 사람을 못 죽여 안달이 날 수 있나. 답답하고 화가 난다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>전재수 의원실 140분 ‘늦장 압수수색’… 그 사이 파쇄기 소리 들렸다</title>
       <link>https://www.chosun.com/national/court_law/2025/12/16/QRLNQXWVTRGSNMUSN5WW3ZU5RU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/QRLNQXWVTRGSNMUSN5WW3ZU5RU/</guid>
@@ -972,16 +981,6 @@
         <media:description type="plain">14일 경남 창원시 진해구의 한 병원 응급실 입구에 토요일 오후 1시 이후 주말·공휴일 응급실 진료 불가를 알리는 안내문이 게시돼 있다./김동환 기자</media:description>
         <media:credit role="author" scheme="urn:ebu">김동환 기자</media:credit>
       </media:content>
-    </item>
-    <item>
-      <title>[핫코너] 아파트 주차난에… 방문차량 시간 제한 두고, 화단 없애고</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/6F5XV56IUNEYDGSN2FIBAT4VAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/6F5XV56IUNEYDGSN2FIBAT4VAA/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 15:48:00 +0000</pubDate>
-      <content:encoded>서울 성동구의 1000세대 규모 아파트에 거주하는 김모(30)씨는 최근 주차 관리 앱을 확인하다가 황당한 일을 겪었다. 김씨 아파트는 세대별로 등록돼 있는 차량 이외에 외부 방문 차량은 매달 최대 72시간까지만 주차할 수 있도록 전용 앱에 ‘방문 차량 주차 시간’을 부여한다. 주차 공간이 한정돼 있기 때문이다. 방문 차량이 주차장에 들어가려면 각 세대가 세대별 비밀번호를 앱에 입력한 뒤 손님 차량 번호를 등록해놔야 한다. 그런데 김씨가 앱을 열어봤더니 사용하지도 않은 시간이 모두 차감돼 남은 시간이 ‘0시간’이라고 떴다.&lt;br&gt;&lt;br&gt;범인은 이웃 주민이었다. 주차장 CCTV를 들여다봤더니 김씨 세대 비밀번호를 쓴 차량이 주차장에 들어가는 모습이 찍혀 있었다. 각 세대 앱의 초기 비밀번호가 ‘1111’ 등으로 단순하게 설정된 점을 이용해 다른 입주민이 김씨네 주차 시간을 몰래 끌어다 쓴 것이다. 이른바 ‘주차 시간 도둑질’이다. 김씨는 “주차난이 얼마나 심각하면 이웃끼리 이런 촌극까지 벌어지나 싶어 씁쓸했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMJ7GW3NSVBEVH36OEPTUC2YZ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 양천구의 한 아파트 단지 주차장. 주차할 자리를 찾지 못한 차량이 이중 주차를 한 모습이다.
-/이태경 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 자동차 누적 등록 대수가 2600만대를 넘어서면서 전국 아파트 단지 곳곳에서 ‘주차 전쟁’이 벌어지고 있다. 국토교통부에 따르면 국내 등록 차량은 2630만대(작년 기준)로 5년 전보다 약 10% 늘었다. 한정된 부지에 차는 계속 늘어나다 보니 화단을 없애거나, 내 집을 두고 유료 주차장을 찾기도 한다. 아파트 커뮤니티 앱에선 “이번 달 주차 시간이 부족한데 남는 분 계시면 좀 빌려달라”는 글도 종종 올라온다. 주차 공간 부족이 낳은 신(新)풍속도다.&lt;br&gt;&lt;br&gt;서울 양천구에 거주하는 직장인 박모(27)씨는 “무조건 오후 6시 반 전에 들어오고 그 이후엔 저녁에 차를 아예 안 쓴다”고 했다. 이중 주차가 어려워 보이면 인근 공영 주차장에 차를 대고, 다음 날 아침 일찍 다시 가져오는 경우도 적지 않다. 내 집 주차장을 코앞에 두고도 ‘주차 난민’을 자처하는 셈이다. 목동의 한 아파트 관리사무소 관계자는 “이중 주차가 워낙 잦다 보니 경비원을 뽑을 때도 웬만한 SUV는 밀 수 있을 만큼 힘이 센지를 본다는 우스갯소리가 나온다”고 했다.&lt;br&gt;&lt;br&gt;인천 서구의 한 768가구 아파트는 주차 가능한 자동차 대수가 최대 433대지만, 등록된 차량은 600대가 넘는다. 관리사무소는 결국 지난달 21일 화단과 인도 폭을 줄여 주차 공간을 늘리는 방안을 주민 투표에 부쳤다. 주차 갈등은 입주민 간 ‘계급 갈등’으로도 번진다. 서울의 한 대단지 아파트에선 최근 좁은 평수에 살수록 주차비를 더 비싸게 내도록 주차비를 책정했다가 논란이 되자 철회했다.&lt;br&gt;&lt;br&gt;아파트 단지들은 우선 주차제 도입, 주차장 증설 등 갖은 자구책을 내놓고 있지만 늘어나는 차량 속도를 따라잡지 못하고 있다. 서울시 관계자는 “아파트 단지 내부 주차 공간 확충에는 분명한 한계가 있다”며 “인근 학교 운동장 등 지역 내 공공시설을 야간에 한해 주차 공간으로 활용하는 방안을 검토하고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
