@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“호기심에” 제주항서 ‘광란의 드리프트’ 벌인 관광객</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/18/MEAG3VVNJZCR7JWXMWMJNCOP7U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/MEAG3VVNJZCR7JWXMWMJNCOP7U/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 23:12:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH4EATLZ2RH6VG365PYD32G7OE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;11월 26일 제주시 제주항 인근 도로에서 이른바 '드리프트' 주행을 하며 난폭운전을 한 20대 관광객이 경찰에 붙잡혔다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 제주항 인근 도로에서 이른바 ‘드리프트’를 하며 난폭 운전을 한 20대 운전자가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;제주동부경찰서는 도로교통법상 난폭운전 혐의로 20대 내국인 관광객 A씨를 입건해 조사하고 있다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 26일 오후 9시 15분쯤 제주시 제주항 5부두 앞 도로에서 렌터카를 몰고 급가속과 급제동을 반복하며 한자리에서 잇따라 회전하는 이른바 ‘드리프트’ 주행을 하며 난폭 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 영상을 보면, 차량이 4~5차례 거칠게 회전하며 굉음이 울리고 타이어 마찰로 발생한 연기가 주변을 뒤덮는 모습이 담겼다. &lt;br&gt;&lt;br&gt;경찰은 CCTV 분석 등을 통해 차량 번호를 특정한 뒤 압수수색을 거쳐 A씨를 검거했다. 사건 당시에는 고가의 외제차로 벌인 일이라고 알려졌으나 조사 결과 국산차였다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “차량 통행이 없어 호기심으로 드리프트를 했다”고 진술한 것으로 알려졌다. 경찰은 A씨를 불구속 송치할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김장연 삼화페인트공업 회장 별세</title>
       <link>https://www.chosun.com/national/obituary-personnel/2025/12/18/EVFMRKUQXFARFMXUIMIG5M443U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2025/12/18/EVFMRKUQXFARFMXUIMIG5M443U/</guid>
@@ -853,15 +862,6 @@
       <description/>
       <pubDate>Wed, 17 Dec 2025 00:05:40 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YCCJWTVG7BPARL7HZMMQH77AKY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유홍준 국립중앙박물관장이 16일(현지시간) 워싱턴 DC의 한국문화원에서 강연하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유홍준 국립중앙박물관장은 최근 이재명 대통령이 언급해 주목받고 있는 ‘환단고기’에 대해 민족적 열등의식이 반영된 자기만족적 사관이라고 평가했다. &lt;br&gt;&lt;br&gt;유 관장은 16일 미국 워싱턴DC의 한국문화원에서 열린 강연 행사 도중 이 대통령의 환단고기 발언을 거론하며 “대통령이 ‘환빠’(환단고기 사관을 지지하는 사람들) 이야기를 했던 것은 그 사관을 지지해서가 아니고 ‘그 골치 아픈 환빠를 동북아역사재단은 어떻게 대처하고 있느냐’고 물어본 것이었다”고 했다.&lt;br&gt;&lt;br&gt;유 관장은 “우리 국립중앙박물관도 그 환빠 때문에 얼마나 고생하는지 모르겠다”며 “옛날 고조선이 세계를 지배했다는 이야기인데, 그것을 우리가 따라야 되겠는가”라고 했다. &lt;br&gt;&lt;br&gt;유 관장은 “역사로 증명해야 하는 시기에 자신들의 민족적 열등의식을 그냥 상상력으로 해서 자기만족했던 사관이 환빠”라며 “대통령은 ‘동북아역사재단은 그런 것을 어떻게 대처하겠느냐’고 물어본 것”이라고 재차 강조했다.&lt;br&gt;&lt;br&gt;앞서 이 대통령은 지난 12일 정부 업무 보고 때 박지향 동북아역사재단 이사장에게 환단고기를 언급하며 “동북아 역사 재단은 특별한 관심이 없는 모양이다”라고 발언해 정치권에서 논란이 됐다.&lt;br&gt;&lt;br&gt;환단고기는 단군 이전에 환국이라는 국가가 존재했고, 고대 한민족 영토는 한반도를 넘어 시베리아, 중앙아시아 등 유라시아 대륙 대부분에 걸쳐 있었다는 주장을 싣고 있는 책이다. &lt;br&gt;&lt;br&gt;대통령실은 논란이 일자 “이 대통령의 환단고기 관련 발언은 이 주장에 동의한 게 아니다”라고 해명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹 관저 이전’ 의혹 김오진 전 차관, 구속영장 발부...“증거 인멸 염려”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/17/JVQ5XKSJR5CU5HOZRTREMPZRZY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/JVQ5XKSJR5CU5HOZRTREMPZRZY/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 22:34:04 +0000</pubDate>
-      <content:encoded>‘대통령실 관저 이전’ 의혹을 받는 김오진 전 국토교통부 차관에 대한 구속 영장이 17일 발부됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TYCPN524YVJDVA6UXGMEZGYSKU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김오진 전 국토교통부 1차관이 지난 16일 서울 서초구 서울중앙지방법원에서 열린 구속 전 피의자 심문(영장실질심사)를 마친 뒤 법정을 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 민중기 특검팀은 “김 전 차관에 대한 구속영장은 증거를 인멸할 염려가 있다는 이유로 발부됐다”고 밝혔다. 같은 혐의를 받는 부하 직원 황모씨에 대한 구속영장도 발부됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장 전담 부장판사는 지난 16일 직권남용권리행사방해, 건설산업기본법 위반, 특정경제범죄가중처벌 등에 관한 법률상 사기 등 혐의를 받는 김 전 차관에 대한 구속영장 실질 심사를 진행했다. 김 전 차관은 2022년 당시 청와대 이전 TF의 1분과장으로 관저 이전을 총괄했고, 이후 대통령실 관리비서관을 지냈다. 황씨는 TF 1분과 소속이었다.&lt;br&gt;&lt;br&gt;김 전 차관은 당시 관저 이전 공사 업무를 총괄했던 인물이다. 해당 의혹은 윤석열 전 대통령 취임 후 대통령실과 관저를 이전하는 과정에서 인테리어 업체 21그램이 공사권을 따내는 과정에서 특혜를 받았다는 게 핵심이다. 21그램은 김 여사가 운영한 코바나컨텐츠 주최 전시회를 후원하고 코바나컨텐츠 사무실 설계·시공을 맡았던 업체로, 대표인 김모씨가 김 여사와 친분이 있는 것으로 알려졌다. 이런 탓에 21그램이 관저 공사를 따낸 과정에서 특혜가 있었던 게 아니냐는 논란이 불거졌었다.&lt;br&gt;&lt;br&gt;또 김 대표의 배우자 조모씨는 유경옥 전 대통령실 행정관이 ‘건진법사’ 전성배씨로부터 전달받은 샤넬백 2개를 다른 제품으로 교환하러 갔을 때 동행해 웃돈을 얹어준 인물이기도 하다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘김건희 계좌 관리’ 이종호 “金에 3억짜리 수표 줬다”</title>
