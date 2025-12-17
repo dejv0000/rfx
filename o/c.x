@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘신생아 유기’ 20대 베트남 유학생 구속...“도망 염려”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/QUBY3Z3LGBEQBBRPXTI3ZYMPYI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/QUBY3Z3LGBEQBBRPXTI3ZYMPYI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 13:40:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MLSFCOZZ5UXEKVDZCLAI7Q6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;신생아를 유기해 숨지게 한 혐의를 받는 20대 베트남 유학생이 17일 경찰에 구속됐다. 서울중앙지법 이정재 영장 전담 부장판사는 이날 아동학대살해 혐의를 받는 산모 A씨에 대한 구속영장 실질 심사를 진행한 뒤 “도망할 염려가 있다”며 영장을 발부했다. &lt;br&gt;&lt;br&gt;다만 출산을 도운 베트남 국적의 친구 B씨에 대해선 “구속 사유와 상당성을 인정하기 어렵다”며 영장을 기각했다. 이 부장판사는 “피의자와 관련자의 진술이나 문자메시지 내역 등에 비춰볼 때 사전 공모나 범죄 고의에 관한 소명이 부족하다”며 “사안이 중한 만큼 불구속 상태에서 방어권을 충분히 행사할 수 있게 할 필요성이 있다”고 했다. 또 “증거자료 대부분이 수집돼, 정당한 방어권 행사 범위를 넘어 증거를 인멸할 우려가 있다고 보기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;A씨는 지난 14일 서울 중구 동국대학교 인근 건물 앞에 갓 출산한 신생아를 종이봉투에 담아 유기해 숨지게 한 혐의를 받는다. B씨는 당시 출산을 도와 범행에 가담한 혐의를 받고 있다. 두 사람은 한국어 단기 연수 과정을 듣기 위해 최근 입국한 것으로 전해졌다. “아기가 버려져있다”는 신고를 받고 출동한 경찰이 아기를 병원으로 옮겼지만 결국 숨졌다. 경찰은 정확한 사인을 확인하기 위해 부검을 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>女속옷 훔친 남성은 그대로... 피해자들만 이사 가고 직장 포기</title>
+      <link>https://www.chosun.com/national/2025/12/17/AVV7ODUF7JCKTB3CNVF7MV4LPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/17/AVV7ODUF7JCKTB3CNVF7MV4LPU/</guid>
+      <dc:creator>안동=권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 12:22:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LNTUQUZKUVA5HL62Z3PLK74GY4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 27일 자정쯤 경북 안동의 한 아파트에 괴한이 침입하고 있다. 그가 3층에서 4층 사이 복도 창문을 통해 피해자가 사는 집으로 침입하기까지 시간은 단 15초였다. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 오전 대구지방법원 안동지원 1호 법정. 20대 여성 2명이 사는 아파트 베란다를 통해 수차례 침입해 속옷을 뒤진 혐의로 불구속 기소된 A(37)씨에게 검찰이 징역 2년을 구형하자 그는 고개를 떨궜다. 검찰은 “죄질이 불량하고 이 사건으로 피해자들이 상당한 고통을 받았다”며 구형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;앞서 경찰은 A씨에 대해 스토킹처벌법 위반 및 주거침입, 절도미수, 주거수색 등 혐의로 두 차례 구속영장을 신청했다. 하지만 모두 기각됐고 스토킹처벌법상 잠정조치인 유치장 구금 신청도 기각됐다. &lt;br&gt;&lt;br&gt;이날 방청석 한편에선 피의자 A씨의 얼굴을 계속 지켜보며 수시로 한숨을 쉬는 이가 있었다. 피해 여성 B(28)씨였다. &lt;br&gt;&lt;br&gt;그는 불안한 표정으로 동행한 아버지의 손을 꼭 잡고 있었다. B씨는 “피의자를 직접 보는 것만으로도 무섭지만 같은 아파트 뒷동에 사는 범인을 개인정보보호라는 이유로 얼굴이나 신상조차 알 수 없는 불안한 현실에 자기방어적 차원에서 법정에 온 것”이라고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 구속영장실질심사에서 피해 여성들과 격리를 위해 이사 가거나 직장도 그만둘 의사를 밝혔다. 하지만 현재 해당 주소지에 여전히 거주하고 직장도 다니는 것으로 밝혀졌다. &lt;br&gt;&lt;br&gt;이날 재판장이 “거주지에 살고 있느냐”는 질문에 A씨는 “피해 여성들이 이사할 때까지 모텔 등에서 지내다가 이사 후 다시 집으로 들어갔다”고 해명했다. &lt;br&gt;&lt;br&gt;이날 최후 진술에서 A씨는 “피해자들에게 정말 죄송하고 깊이 반성하고 있다”며 “합의나 공탁 등을 통해 피해자들의 피해 복구에 노력 중이다”고 했다.&lt;br&gt;&lt;br&gt;그러나 B씨 등 피해 여성들은 전날 재판부에 피의자에게 엄중한 처벌을 요구하는 탄원서를 제출했다. 주로 고통의 나날을 보내고 있다는 내용이다. &lt;br&gt;&lt;br&gt;요약하면 피의자는 사건 당일 3차례나 자신의 아파트에 침입해 속옷을 뒤적이며 하나하나 살펴보고 냄새를 맡는 등 세탁할 속옷마저 주머니에 넣어 챙겨가는 명백한 성적 범죄라고 했다. &lt;br&gt;&lt;br&gt;사건 이후 수시로 찾아오는 불안감에 대인기피증, 직장을 그만둔 후 금전적 피해에 이르기까지 이들의 삶을 송두리째 앗아간 내용도 담겼다. &lt;br&gt;&lt;br&gt;이러한 상황에도 피의자는 “술에 취해 기억나지 않는다”는 진술로 반성 없이 회피하는 모습을 보이고 있어 엄벌이 필요하다고 적었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HVHJMUMJN5CBFKGAEIJDQHK2Y4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 5월 27일 자정쯤 경북 안동의 한 아파트를 무단침입한 피의자 A씨가 피해자의 옷장을 뒤지고 있는 모습이 홈캠에 찍혔다. /피해 여성 B씨 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사건은 지난 5월 27일 새벽 0시 57분쯤 발생했다. 안동의 한 아파트를 무단침입한 피의자 A씨가 피해 여성의 옷장을 뒤지는 등 속옷을 찾는 모습이 고스란히 가정용 방범카메라에 찍혔다. &lt;br&gt;&lt;br&gt;경찰 조사 결과 범인의 주거지는 피해자 아파트 바로 뒷동, 직선거리로 30m에 불과하다. &lt;br&gt;&lt;br&gt;경찰은 사건 발생 이후 피해 여성들이 자신의 집을 놔두고 지인 집을 전전하자 스마트워치를 지급하고 숙소도 마련해 줬지만, 이들의 불안감을 해소하진 못했다. &lt;br&gt;&lt;br&gt;피의자는 아직 해당 아파트에 거주하고 직장도 다니지만, 피해 여성들만 이사 가고 직장도 포기한 불편한 사건이 됐다. &lt;br&gt;&lt;br&gt;이날 법정을 떠나는 B씨의 아버지는 “사건 이후 딸이 계속 불안한 삶을 살고 있다”며 “주거침입 후 변태적 행동만으로 잠재적 성범죄자로 볼 수 있도록 피해자 위주의 사법 체계가 필요하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조영탁 IMS 대표 구속적부심 기각...구속 상태 유지</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/TB6G77ZA5NFOFC7WEBTYCXWDPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/TB6G77ZA5NFOFC7WEBTYCXWDPM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 12:43:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU3TOYZZHBSWCZBYG5SWGYLGMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조영탁 IMS모빌리티 대표가 지난 8월 20일 오전 서울 종로구에 마련된 김건희 특검팀(특별검사 민중기) 사무실로 2차 소환조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사와 친분을 내세워 대기업과 금융사에서 보험성 투자를 받았다는 의혹이 제기된 조영탁 IMS 모빌리티 대표가 구속을 취소해달라며 낸 구속적부심 청구가 17일 법원에서 기각됐다. 이에 따라 조 대표는 계속 구치소에 수감된 상태로 수사를 받게 된다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사1-3부(재판장 조정래)는 이날 오후 조 대표에 대한 구속적부심 심문을 진행한 뒤 기각 결정을 내렸다. 구속적부심은 피의자가 구속 필요성을 다시 따져달라고 요청하면 법원이 다시 심사하는 절차다. &lt;br&gt;&lt;br&gt;조 대표는 특정경제범죄가중처벌법상 배임·횡령과 외부감사법 위반, 증거은닉교사 등 혐의로 지난 6일 구속됐다. IMS모빌리티는 2023년 6월 사모펀드인 오아시스에쿼티파트너스를 통해 카카오모빌리티와 신한은행 등으로부터 약 184억원의 투자를 받았는데 이 과정에서 김 여사 측근 김씨가 IMS 설립에 관여하고 투자 유치에도 참여했다는 의혹이 제기되면서 특검 수사 대상이 됐다. 조 대표는 IMS모빌리티가 투자금 일부로 자사 구주를 사들이는 과정에서 35억원을 횡령하고 32억원의 배임 행위를 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 여사 관련 의혹을 수사하는 민중기 특검은 앞서 지난 9월 조 대표 구속 영장을 청구했다가 기각되자, 이달 조 대표가 현직 기자에게 매달 돈을 주고 우호적 기사를 쓰도록 한 혐의(배임증재)를 추가해 다시 구속 영장을 청구했다. 법원은 “증거를 인멸할 염려가 있다”며 조 대표를 구속했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“폭발물 설치했다” 이틀만에 또... 경찰, 카카오 사옥 수색 중</title>
+      <link>https://www.chosun.com/national/incident/2025/12/17/CKRI32WTXRFC7L4KL5WJATUL6Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/17/CKRI32WTXRFC7L4KL5WJATUL6Q/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 12:44:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQTQNBYGBQTSOJTMY4GKYZSMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 오후 경기 성남시 분당구 카카오 판교 아지트에서 경찰 관계자들이 건물을 통제하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오 판교아지트 건물에 폭발물을 설치했다는 글이 올라와 경찰이 수색 중이다. &lt;br&gt;&lt;br&gt;경기 분당경찰서는 17일 오후 7시 4분쯤 경기 성남시 분당구 카카오 판교아지트 건물에 또다시 폭발물 설치 협박 신고가 접수됐다. 경찰은 경력 40여명을 투입해 건물을 수색하고 있다. &lt;br&gt;&lt;br&gt;사측은 카카오 CS센터(고객센터) 사이트에 “이틀 전과 거의 흡사한 형태로 ‘폭발물이 설치됐다”는 내용의 글이 올라왔다고 신고를 한 것으로 전해졌다. 의심신고 접수 직후 카카오 측은 직원 안전을 위해 근무 중인 직원을 대상으로 퇴근을 공지했다. &lt;br&gt;&lt;br&gt;앞서 지난 15일 자신을 모 고교 자퇴생이라고 밝힌 A씨는 앞서 오전 7시 10분과 12분 두 차례에 걸쳐 CS 센터 게시판을 통해 카카오 판교아지트 건물에 사제 폭발물을 설치했다는 내용을 게시했다. 또 회사 고위 관계자를 특정하며 사제 총기로 살해하겠다고도 했다. 그러면서 그는 100억원을 계좌로 송금할 것을 요구했다.&lt;br&gt;&lt;br&gt;당시 경찰특공대와 군 폭발물처리반(EOD) 등 관계기관이 출동해 폭발물 설치 여부를 확인했으나 폭발물 등 위험성은 확인되지 않았다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “이틀 전 게시글 작성자와 동일인 여부는 아직 확인되지 않았다”며 “A씨가 ‘누군가 명의를 도용한 것 같다’고 주장하고 있어 실제 글쓴이를 추적 중”이라고 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“도난사건 때 매니저 개인정보 넘긴 의혹”… 박나래 前 남친 고발당했다 </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/17/5S3O5VW6INEDBK75QBPP5G4NIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/5S3O5VW6INEDBK75QBPP5G4NIE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 11:55:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MM3DQMLDGM3DIMDGG4YTSMRSGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래./ 유튜브 '백은영의 골든타임'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래의 전 남자친구 A씨가 매니저들의 개인정보를 불법 수집해 수사기관에 넘겼다는 의혹을 받고 네티즌으로부터 고발당했다. &lt;br&gt;&lt;br&gt;17일 경찰 등에 따르면 서울 용산경찰서는 A씨가 개인정보보호법을 위반했다는 취지의 고발장을 접수했다. 고발장에는 성명불상의 A씨 외에 공범 등도 피고발인으로 적시됐다.&lt;br&gt;&lt;br&gt;A씨는 박나래의 자택에서 도난 사건이 발생했던 지난 4월 매니저 2명과 스타일리스트 1명에게 근로계약서를 작성하겠다는 이유로 이름, 주민등록번호, 주소 등 개인정보를 자필로 받아 간 뒤 이를 도난 사건 참고자료로 경찰에 제출했다는 의혹을 받고 있다. &lt;br&gt;&lt;br&gt;이 같은 주장은 유튜브 채널 ‘연예 뒤통령 이진호’를 통해 알려졌다.&lt;br&gt;&lt;br&gt;이후 한 네티즌은 이 유튜브에서 언급된 의혹을 조사해 달라며 경찰에 고발장을 제출한 것으로 전해졌다. 이날 온라인 커뮤니티에도 “A씨와 함께 관여자를 특정하기 위해 성명 불상인 교사·방조 등 공범을 서울 용산경찰서에 고발했다. 이날 수사에 착수했다는 사실을 알린다”는 글이 올라왔다.&lt;br&gt;&lt;br&gt;박나래는 전 매니저들이 박나래에게 폭언, 특수폭행, 상시 대기, 개인 심부름 등의 갑질 피해를 당했다고 폭로하며 각종 분쟁에 휩싸였다. 박나래의 전 매니저들은 지난 5일 그를 특수상해·허위 사실 적시 명예훼손·정보통신망법 위반(명예훼손) 등 혐의로 강남경찰서에 고소했다. 용산경찰서는 박나래가 전 매니저들을 공갈 미수 혐의로 고소한 사건을 수사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/DABTB7P3LBD6DLLWDXGCBGSFII.png?auth=3e516f37a15eb68423c21c1181e1d18ea6f51ef9659bc6328781ddc8262efac8&amp;smart=true&amp;width=251&amp;height=189" type="image/png" height="189" width="251">
+        <media:description type="plain">방송인 박나래가 유튜브 채널 &amp;#39;백은영의 골든타임&amp;#39;을 통해 입장을 발표했다. photo 유튜브 &amp;#39;백은영의 골든타임&amp;#39; 캡처</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>‘교통사고 후 도주’ 가수 김호중, 성탄절 가석방 심사 “부적격”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/4XPJNTPBBZGVZNJJPEAMQ45S5Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/4XPJNTPBBZGVZNJJPEAMQ45S5Y/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 11:52:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFQWIYJZMI3DONRTHE3GGMZVGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;트로트 가수 김호중 씨. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교통사고를 낸 후 도주한 혐의로 수감 중인 트로트 가수 김호중씨가 가석방 심사에서 부적격 판정을 받았다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 법무부 가석방심사위원회는 이날 회의를 열고 김씨를올 성탄절 가석방 대상에 포함하지 않기로 결정했다. 김씨 외에 이날 적합 판정을 받은 수형자는 오는 24일 가석방된다. &lt;br&gt;&lt;br&gt;김씨는 작년 5월 음주운전을 하다가 교통사고를 내고 도주한 혐의로 구속 기소돼 지난 4월 항소심에서 징역 2년 6개월 실형을 선고받았다. 김씨가 항소를 포기해 형은 확정됐다.&lt;br&gt;&lt;br&gt;형법은 형이 확정된 유기징역 수형자가 형기의 3분의 1이 지나면 가석방을 할 수 있도록 정하고 있다. 가석방심사위원회는 위원장인 법무부 차관 포함 5명 이상 9명 이하 위원으로 구성되고, 적격, 부적격, 보류, 신중검토로 구분해 가석방 적격 심사를 한다. 김씨는 이달 초 성탄절 가석방 심사 대상에 포함된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;한편 김씨는 형 확정 후인 지난 8월 서울구치소에서 국내 유일의 민영교도소인 소망교도소로 이감됐다. 이 과정에서 소망교도소 교도관 A씨가 김씨에게 “이감을 도와줬다”는 거짓 주장을 하며 4000만원을 요구한 사실이 확인됐다. 법무부는 지난달 소망교도소에 A씨를 형사 고발하고 중징계 조치하라고 지시했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/KZ74JVIKCFE73P52PAAC2VXVVA.JPG?auth=c9386ae2a140231592451f25b6ccc7fde07d21598d4d5fb60cb943502eb54e08&amp;smart=true&amp;width=2446&amp;height=1835" type="image/jpeg" height="1835" width="2446">
+        <media:description type="plain">'음주 뺑소니' 혐의를 받는 트로트 가수 김호중 씨. 2024.5.31/뉴스1 ⓒ News1 박정호 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">jungho2035@gmail.com</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>법무부, 김호중에 4000만원 요구한 교도관 고발·징계조치</title>
+      <link>https://www.chosun.com/national/court_law/2025/11/21/3ZLNAHMR4ZEVNBDSTKWQZP6Q3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/11/21/3ZLNAHMR4ZEVNBDSTKWQZP6Q3I/</guid>
+      <dc:creator>유희곤 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 21 Nov 2025 06:35:48 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5SWMNBUG42GENJQMQ3WCZBQHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 김호중씨가 2024년 5월 31일 서울 강남경찰서에서 검찰로 구속 송치되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 21일 가수 김호중씨에게 4000만원을 달라고 한 소망교도소 교도관 A씨를 뇌물 요구·공갈 미수 및 청탁금지법 위반 혐의로 형사 고발하고 중징계 조치도 하라고 소망교도소에 명령했다고 밝혔다.&lt;br&gt;&lt;br&gt;법무부는 지난 9월 말쯤 A씨가 김씨에게 금전을 요구한 정황이 있다는 소망교도소 측 보고를 받고 서울지방교정청(광역특별사법경찰팀)에 진상 조사를 지시했다. 조사 결과 A씨에 대한 의혹은 사실로 조사됐고, A씨의 협박 행위도 추가로 확인됐다.&lt;br&gt;&lt;br&gt;김씨는 A씨의 요구를 들어주지 않으면 남은 수감 생활이 힘들어질 수 있다고 생각해 다른 교도관에게 관련 내용을 알린 것으로 전해졌다. 다만 김씨는 A씨에게 돈을 건네지는 않았고, 김씨 이감을 도왔다는 A씨 주장도 사실이 아닌 것으로 조사됐다. A씨가 김씨에게 요구한 금액은 당초 3000만원으로 알려졌으나 진상 조사 결과 이보다 1000만원이 더 많은 것으로 확인됐다.&lt;br&gt;&lt;br&gt;김씨는 작년 5월 교통사고를 내고 도주한 혐의로 구속 기소돼 지난 4월 항소심에서 징역 2년 6개월 실형을 선고받았다. 김씨가 항소를 포기해 형은 확정됐고, 지난 8월에는 서울구치소에서 소망교도소로 이감됐다. 소망교도소는 국내 유일의 민영교도소로 일반 교도소보다 처우가 좋은 것으로 알려져 있다. 정원 400명 중 결원이 발생하면 다른 교정시설 수감자를 대상으로 서류·면접을 거쳐 입소자를 뽑는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘통일교 의혹’ 김건희·권성동·윤영호, 모두 내달 28일 선고 ‘운명의 날’</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/KYDBFDSX7VCZTNGUGEL5MGRJOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/KYDBFDSX7VCZTNGUGEL5MGRJOQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 11:04:55 +0000</pubDate>
+      <content:encoded>서울중앙지법 형사27부(재판장 우인성)는 통일교와 유착 관계에 있다는 혐의로 재판에 넘겨진 김건희 여사와 권성동 국민의힘 의원, 그리고 두 사람에게 금품과 정치자금을 건넨 윤영호 전 통일교 세계본부장 3명의 1심 선고를 내년 1월 28일 하루에 진행하기로 결정했다. 법조계에선 “운명의 날”이란 말이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TCMJTMVRTGZJQMQ3WMMLFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사와 권성동 국민의힘 의원, 윤영호 전 통일교 세계본부장 재판을 심리한 우인성 부장판사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;재판부는 17일 권 의원의 ‘통일교 1억원 수수’ 의혹 사건 결심 공판을 진행한 뒤, 내년 1월 28일 오후 3시 선고하겠다고 밝혔다. 앞서 이 재판부는 같은 날 오후 2시 10분 ‘도이치모터스 주가 조작’ 및 ‘명태균 공천 개입’과 ‘건진법사·통일교 청탁’ 의혹을 받는 김 여사 1심 선고를 진행하기로 했고, 오후 3시엔 김 여사에게 샤넬 가방 2개와 그라프 다이아몬드 목걸이를 건넨 혐의를 받는 윤씨의 선고를 열겠다고 했었다. 윤씨를 중심으로 한 통일교와 국민의힘 측 인사들의 유착 관계에 대한 법원의 판단이 동시에 나오는 셈이다.&lt;br&gt;&lt;br&gt;특검은 지난 3일 김 여사에게 징역 15년과 벌금 20억원, 추징금 9억5000여 만원을 선고해 달라고 재판부에 요청했다. 그동안 대한민국 법 위에 서서 사법 시스템을 무력화시켰고, 선거의 공정성과 대의민주주의 시스템을 무너뜨렸다는 것이다.&lt;br&gt;&lt;br&gt;특검은 권 의원에게 이날 징역 4년과 추징금 1억원을 구형했다. “권 의원은 중진 국회의원으로서 헌법 가치를 수호하고 국민의 권익 보호에 힘써야 할 막중한 책무가 있는데도 특정 종교 단체와 결탁해 1억원이라는 거액을 수수했다”며 “헌법 가치를 훼손하고 국민 신뢰를 저버렸다”고 했다.&lt;br&gt;&lt;br&gt;의혹의 핵심인 윤씨에게 특검은 지난 11일 징역 4년을 구형했다. “윤씨는 통일교의 세력 확장과 자신의 영향력을 확대하기 위해 정치 세력과 결탁했다”며 “대의민주주의를 훼손하는 중대한 범죄를 저질렀다”고 특검은 구형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘대선 전 이재명 반대 연설’ 유동규, 선거법 위반 혐의로 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/17/UEIJIYEEN5DFPNVSU2SXQZ5SWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/UEIJIYEEN5DFPNVSU2SXQZ5SWA/</guid>
+      <dc:creator>안양=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 17 Dec 2025 10:43:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVCPIEGYP5BRJCHGRXHINPNKDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유동규 전 성남도시개발공사 기획본부장이 2025년 10월 31일 서울 서초구 서울중앙지방법원에서 열린 1심 선고 공판에 출석하고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성남 대장동 개발 비리 의혹으로 1심서 징역형을 선고받고 구속된 유동규씨가 지난 대선을 앞둔 당시 더불어민주당 후보였던 이재명 대통령에 대해 부정적인 연설을 한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;17일 법조계에 따르면 수원지검 안양지청 형사3부(부장 황진아)는 지난달 12일 공직선거법 위반 혐의로 유씨를 불구속 기소했다.&lt;br&gt;&lt;br&gt;유씨는 지난 6월 치러진 21대 대선을 앞둔 4월 7일과 16일 과천시 중앙선거관리위원회 앞 집회 현장에서 이 대통령에 대한 부정적인 연설을 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 공식 선거운동 기간이 아닌 같은달 14일 서울 여의도에서 확성 장치를 이용해 홍준표 전 대구시장을 지지한 혐의도 있다. 당시 홍 전 시장은 국민의힘 대선 후보로 출마를 선언했었다. 유씨는 또 이 자리에서 이 대통령에 대한 반대 발언을 하기도 했다.&lt;br&gt;&lt;br&gt;앞서 시민단체는 “유씨가 대선에 개입하려는 시도를 노골적으로 드러냈고, 이재명 후보에 대해 사실과 다른 악의적 허위사실을 대중 앞에 공표했다”며 경찰에 고발장을 냈다.&lt;br&gt;&lt;br&gt;유 전 본부장의 선거법 위반 혐의 사건 첫 재판은 내년 1월 14일 오후 2시 수원지법 안양지원에서 열린다. &lt;br&gt;&lt;br&gt;유씨는 대장동 개발 비리 의혹(특정경제범죄 가중처벌법상 배임 등 혐의) 으로 지난 10월 31일 서울중앙지법에서 징역 8년 및 벌금 4억원, 추징 8억1000만원을 선고받고 법정구속 됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>경찰, 기동대·기동순찰대 줄여 보이스피싱·마약 대응 강화한다</title>
       <link>https://www.chosun.com/national/national_general/2025/12/17/UJKEGKX2BVACJMRMDQHJQBNKLE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/UJKEGKX2BVACJMRMDQHJQBNKLE/</guid>
@@ -855,15 +944,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQTMNBXGY2TGMLFGU3TIYLDGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 BWF(세계배드민턴연맹) 시상식에서 올해의 여자 선수상을 받은 안세영(왼쪽). /BWF&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국 배드민턴 간판 스타 안세영(23·삼성생명)이 BWF(세계배드민턴연맹) ‘올해의 여자 선수’로 선정됐다. 또 ‘선수들이 뽑은 올해의 여자 선수’로도 뽑혀 2관왕 영예를 안았다.&lt;br&gt;&lt;br&gt;여자 단식 세계 랭킹 1위인 안세영은 15일 중국 항저우에서 열린 BWF 갈라 어워즈에서 중국 왕즈이(2위), 천위페이(5위), 일본 야마구치 아카네(3위) 등을 제치고 올해의 여자 선수상을 받았다.&lt;br&gt;&lt;br&gt;안세영은 2023년 열린 항저우 아시안게임 금메달을 획득하면서 그해 처음 이 상을 받았고, 파리 올림픽 정상에 오른 지난해에 이어 올해 3년 연속 수상했다.&lt;br&gt;&lt;br&gt;이뿐만 아니라 ‘선수들이 뽑은 올해의 여자 선수’에도 이름을 올려 2관왕에 올랐다. 이 상은 지난해 처음 제정돼 안세영이 초대 수상자였는데 올해 2년 연속 수상했다.&lt;br&gt;&lt;br&gt;안세영은 올해 14차례 국제대회에서 여자 단식 선수 최초로 10승을 올리며 압도적인 활약을 펼쳤다. 17일 항저우에서 열리는 월드투어 파이널에서 우승한다면, 남녀 통틀어 단일 시즌 최다 우승 기록인 일본 모모타 겐토의 11승과 어깨를 나란히 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인천서 1살 아기 탄 SUV 전복 사고…4명 부상</title>
-      <link>https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/3GJQUN6BSFAVXLUTRFC2D4LKTQ/</guid>
-      <dc:creator>김미희 기자 </dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 09:57:16 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KO2UFUO4A5CGFPPVS3AWRNQP2Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전복된 SUV. /인천소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 오후 2시3분쯤 인천시 부평구 부평동 교차로를 달리던 스포츠유틸리티차(SUV)와 세단이 부딪쳤다.&lt;br&gt;&lt;br&gt;이 사고로 SUV가 전복돼 50대 운전자와 동승자인 1살 아기가 다쳤다. 세단 운전자와 동승자도 목 부위 등에 통증을 호소해 모두 4명이 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰은 교차로에서 신호 위반으로 인해 사고가 난 것으로 보고 구체적인 사고 경위를 조사할 예정이다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “부상자는 모두 생명에는 지장이 없다”며 “사고 현장 CCTV와 차량 블랙박스 등을 확인하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>부산서 의식 저하 10세 아이, 병원 12곳서 수용 거절 당해</title>
       <link>https://www.chosun.com/national/regional/2025/12/16/Z66D4OMC5NC7VFNAMQVZB3VOPA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/16/Z66D4OMC5NC7VFNAMQVZB3VOPA/</guid>
@@ -871,36 +951,6 @@
       <description/>
       <pubDate>Tue, 16 Dec 2025 08:59:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/437IAEBS4VZVOZFMZUZODK35TQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차 삽화. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산 한 소아과에서 의식을 잃고 쓰러진 10세 아이가 10차례 넘게 수용을 거부당하면서 심정지 상태에 이르는 등 목숨이 위태롭다. &lt;br&gt;&lt;br&gt; 16일 부산소방재난본부 등에 따르면, 전날 오전 10시 1분쯤 부산 사하구 한 소아청소년과 의원에서 A(10)양이 감기 증상으로 수액을 맞던 중 의식 저하 증세를 보였다.&lt;br&gt;&lt;br&gt;의사의 신고를 받고 출동한 소방 당국은 신고 접수 11분 만인 오전 10시 12분쯤 의원에 도착했다. 소방 당국이 전원을 위해 대학병원 등 12곳에 연락했지만, 모두 소아 병상이 부족하다는 등의 이유로 수용을 거부당했다고 한다.&lt;br&gt;&lt;br&gt;이후 부산진구 한 종합병원에서 수용하겠다고 밝혔다. 이 과정에서 A양에게 심정지가 발생했고, 도착한 병원에서 응급 처치를 받은 A양은 다행히 맥박과 혈압이 돌아왔다고 한다. &lt;br&gt;&lt;br&gt;하지만 A양은 의식을 회복하지 못했고 이날 오전 11시 37분쯤 부산진구에 있는 한 대학병원으로 옮겨져 현재 치료를 받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국이 현장에 도착한 순간부터 3차 병원 이송까지 1시간 20분가량 소요된 것이다.&lt;br&gt;&lt;br&gt;지난 10월에도 부산에서 비슷한 일이 있었다. 건물에서 추락한 한 고등학생이 1시간 넘게 이송할 병원을 찾지 못하다 심정지에 빠졌고 결국 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>민노총, 하남시청 내부 무단 진입 시도…경찰, 집시법 위반 여부 검토</title>
-      <link>https://www.chosun.com/national/incident/2025/12/16/WGDAIG6SURDEPKJTUIKUZC532A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/16/WGDAIG6SURDEPKJTUIKUZC532A/</guid>
-      <dc:creator>하남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 08:56:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BV6RADSLGJ3KIR7JOMOO3PAQUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;*첨부용*경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 외부 집회만 신고한 민노총 조합원들이 하남시청 내부에 무단 진입을 시도해, 경찰이 집회·시위법 위반 여부를 검토하고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이날 오후 3시쯤 시청을 찾은 인원은 민주노총 공공운수노조 경기지역본부 소속 조합원과 하남시립예술단 지회(시립합창단·시립미술단 등) 관계자 등 약 50명이다. 이들은 시청 2층 내부 복도에서 장시간 대기하며 시 관계자와의 면담을 요구했다. 2층에는 시장실을 비롯해 통합 국장실이 있다.&lt;br&gt;&lt;br&gt;경찰은 상황이 격화될 가능성이 있다고 판단해 1개 중대, 약 100명의 병력을 투입했다. 현장은 해산 조치 직전까지 이어진 것으로 전해졌다. 이 과정에서 시청 방호 업무를 수행하던 직원 1명이 조합원들이 이동하는 과정에서 밀려 넘어지며 경미한 부상을 입었다. 경찰 관계자는 “의도적인 폭행은 아닌 것으로 보인다”면서도 “폭행 혐의 적용 여부를 포함해 관련 법률 위반 가능성을 검토 중”이라고 했다.&lt;br&gt;&lt;br&gt;경찰은 민노총 측이 외부 집회에 대해서만 집회 신고를 했고, 시청 내부에서 다수 인원이 집단으로 대기한 행위가 집회·시위법 위반이나 업무방해 등에 해당하는지 여부를 들여다보고 있다고 설명했다. 현재까지 연행자는 없는 상태다.&lt;br&gt;&lt;br&gt;이날 현장에 참여한 하남시립합창단 노조는 지난 2023년부터 예술노동자의 처우 개선을 요구하며 쟁의를 이어오고 있다. 공연 기회 확대 등을 둘러싸고 하남문화재단과의 갈등도 계속되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>태국인 아내 얼굴에 끓는 물 부은 40대, 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/PZL6GWGE2FGGBJGA4GPMABZVEE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/PZL6GWGE2FGGBJGA4GPMABZVEE/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 08:50:51 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/233OTVKSNVPHRFVQA245C2OZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;YONHAP PHOTO-2539&gt; 고개 숙인 '태국인 아내 특수상해' 40대&#13;
-    (의정부=연합뉴스) 심민규 기자 = 16일 오전 경기도 의정부시 가능동 의정부지방법원에서 특수상해 혐의로 구속영장이 청구된 40대 남성 A씨가 구속 전 피의자 심문을 위해 법정으로 이동하고 있다. A씨는 지난 3일 의정부시 호원동의 한 아파트에서 잠들어 있던 30대 태국인 아내 B씨의 얼굴과 목 등에 커피포트로 끓인 물을 부은 혐의를 받는다. 2025.12.16 &#13;
-    wildboar@yna.co.kr/2025-12-16 10:36:39/
-&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다른 남자를 만날까봐 태국인 아내 얼굴에 끓는 물을 부은 40대 남성이 구속됐다. &lt;br&gt;&lt;br&gt;의정부지법은 특수상해 혐의를 받는 A씨에 대해 “도망 염려가 있다”며 구속 영장을 발부했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;법원은 이날 오전 10시 30분부터 사전영장이 청구된 A씨에데 대한 구속 전 피의자 심문(영장실질심사)을 진행했다. &lt;br&gt;&lt;br&gt;오전 9시 50분쯤 법원에 도착한 A씨는 마스크를 착용한 채 아무런 말 없이 경찰과 함께 법정으로 들어갔다. 심사를 마친 A씨는 “아내에게 왜 그런 행동을 했느냐”, “피해자에게 할 말은 없느냐”는 취재진의 질문에 답하지 않은 채 호송차에 올라 유치장에 입감됐다.&lt;br&gt;&lt;br&gt;A씨는 지난 3일 정오 의정부시 호원동의 한 아파트에서 잠을 자고 있던 자신의 태국인 아내 B(30대)씨의 얼굴에 끓는 물을 부은 혐의를 받는다.&lt;br&gt;&lt;br&gt;A씨는 범행 후 B씨를 서울 성동구의 한 화상 전문병원에 데려갔고, 병원 측은 폭행이 의심된다며 같은 날 오후 9시 경찰에 신고했다. 신고를 접수한 성동경찰서는 의정부경찰서에 사건을 넘겼다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “다른 남자를 만날까봐 얼굴을 못생기게 만들고 싶었다”며 B씨가 자신을 떠나는 것을 막기 위해 범행을 저질렀다는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 B씨는 태국인 지인의 SNS를 통해 사건을 전했고, 태국 매체 더 타이거 등 현지 언론이 이를 보도하며 사건이 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>추위 속 아역 챙긴 에스파 카리나...난로 양보·어부바 사진 ‘훈훈’</title>
-      <link>https://www.chosun.com/national/people/2025/12/16/ESBLPDN5ZFGHPHGQANJC2JLSDQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/16/ESBLPDN5ZFGHPHGQANJC2JLSDQ/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 09:10:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HKLBPEBTJGPBFFOQCZSNEAAVM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 에스파 카리나가 아역배우를 챙기고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그룹 에스파 카리나의 미담이 온라인을 통해 전해졌다. 추운 날씨 속 촬영 현장에서 아역 배우를 살뜰히 챙기며 난로까지 내어줬다는 내용이다. &lt;br&gt;&lt;br&gt;15일 아역 배우 임시현의 어머니 A씨는 자신의 인스타그램을 통해 카리나와 함께 돌고래유괴단 신우석 감독의 작품에 참여한 후기를 남겼다.&lt;br&gt;&lt;br&gt;A씨는 “카리나 님과 촬영했다고 동네방네 자랑하고 싶어서 입이 근질근질했다”면서 “촬영 내내 추운데도 시현이 추울지 걱정해 주고, 자기 난로도 시현이 해 주라고 챙겨줬다”고 적었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J5GRGSWV7JAVJNK4GHVKXFYQ4I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;그룹 에스파 카리나가 아역배우를 챙기고 있는 모습./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 공개된 사진에는 카리나가 아이의 곁을 쫓아다니며 돌보며, 손을 잡고 함께 뛰어가는 모습이 담겼다. 또한 카리나가 쭈그리고 앉아 아이와 눈을 맞추거나 아이를 등에 업은 모습도 포착됐다. &lt;br&gt;&lt;br&gt;A씨는 “시현이가 컨디션이 잘 안 따라줬는데도 촬영 끝까지 너무 잘 챙겨줬다”면서 “촬영 당일이 시현이 생일이었는데, 생일 선물이 카리나 님과의 촬영이었다고 하더라”고 덧붙였다.&lt;br&gt;&lt;br&gt;두 사람이 호흡한 작품은 신우석 감독이 연말을 맞아 선보인 오리지널 콘텐츠 ‘신우석의 도시동화’다. 임시현은 극 중 빈첸시오로 변우석 아역을, 카리나는 변우석의 어머니 역할을 맡았다. 이 작품에는 아이브 장원영, 배우 박희순, 문소리 등도 출연했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>李 대통령 “지역의사·공공의사 나중에 다 사라질 것"</title>
@@ -912,24 +962,6 @@
       <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E5UMHLVUDFODRDTKS3YLB3OKQA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;16일 오후 서울 용산구 서울역 대합실에서 설치된 텔레비전에서 이재명 대통령의 보건복지부 등에 대한 업무보고 생중계 영상이 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 정부가 도입을 추진 중인 지역의사제·공공의사에 대해 “(그건) 문제가 생긴 부분을 채워 넣는 방법”이라며 “문제가 생긴 원인을 제거해야 되는 것이 정상”이라고 말했다. 지역·필수 의료의 인력난 등을 해결하기에 두 제도로는 한계가 있다는 취지의 발언이다.&lt;br&gt;&lt;br&gt;이 대통령은 16일 보건복지부로부터 업무보고를 받으며 “원인을 제거해야 하는 것 아니냐”며 이같이 말했다. 이어 “힘들더라도 뭉개고 넘어갈 것이 아니고 지역 의사니 공공의사니 막 해서 의사를 보충하면 뭐 하겠냐”며 “나중에 시간 지나면 (의사들이) 도로 사라질 것”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;현 정부는 지역과 필수 의료 분야에 의사가 모자라는 문제를 해결하기 위해 지역의사제 도입과 공공의대로 불리는 공공의료사관학교 설립을 추진 중이다. 지역의사제는 지방 의대 정원의 일정 비율을 해당 지역에서 졸업 후 10년간 일하는 조건을 달아 뽑는 것이고, 공공의료사관학교는 공공 의료 분야에서 일할 의사를 양성하는 전문 교육 기관이다.&lt;br&gt;&lt;br&gt;이 대통령은 그러나 지역·필수 의료의 인력난의 핵심 원인으로 ‘낮은 보상’과 ‘의료 사고에 대한 소송 위험’을 꼽았다. 그러면서 “다른 방식으로는 해결이 안 된다. 보상을 올려줘야 한다”고 했다. 정은경 복지부 장관이 “고평가돼 있는 수가는 낮추고, 저평가돼 있는 수가는 올리는 조정 작업을 진행하고 있다”고 하자 “손톱만큼만 해서는 안 된다”고 했다. 필수 의료 분야 등에 대해선 의사에게 주어지는 보상을 대폭 높여야 한다는 취지의 주문을 한 것이다.&lt;br&gt;&lt;br&gt;이 대통령은 “경증에 대해서는 (건강보험) 보상이 너무 크다”고도 했다. ‘경증 환자에 대한 건강보험 보상을 줄여 이를 중증 환자에 대한 보상 강화 재원으로 써야 한다’는 취지의 주문이다. 이 대통령은 “중병에 걸려 치료 못 받고 죽는 상황을 맞이하느냐, 감기 치료할 때 좀 더 부담하는 것을 감수하느냐를 합리적으로 판단해야 한다”며 “(건강) 보험료를 계속 올릴 수도 없고, 안 해도 될 지출은 좀 줄이자는 얘기를 복지부 장관이 설득을 많이 해 보라”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 응급 환자와 119구급대가 치료할 병원을 찾아 헤매는 이른바 ‘응급실 뺑뺑이’ 문제에 대한 해결책도 복지부에 요구했다. 이 대통령은 “현실은 지금도 몇 시간씩 뺑뺑이를 돌다가 (환자가) 죽잖느냐”며 “이걸 어떻게 해결할 것이냐. 대책이 뭐냐”고 정 장관에게 따져물었다. 그러면서 “응급실 뺑뺑이 문제는 별도 보고를 국무회의에서 해 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘학교에 폭발물 설치했다’ 협박 글 반복해 올린 10대, 구속 기소</title>
-      <link>https://www.chosun.com/national/incident/2025/12/16/LQ2QWVZ2DFGL3NIYZY6G3LZUVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/16/LQ2QWVZ2DFGL3NIYZY6G3LZUVA/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 09:00:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OFVL2UWTEDQH52VZUVLB53KB6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭발물 설치 신고가 접수된 인천 서구의 한 고등학교에 출동한 소방 당국. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 다니는 학교에 폭발물을 설치했다는 등의 협박 글을 수차례에 걸쳐 반복해 게시한 10대가 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지검 형사6부(부장 인훈)는 공중협박, 위계에 의한 공무집행 방해 등 혐의로 A(17)군을 구속 기소했다고 16일 밝혔다. &lt;br&gt;&lt;br&gt;검찰은 “A군이 단순히 재미나 휴교를 목적으로 반복해 범행한 점, A군의 범행으로 경찰과 구청, 군, 소방 당국의 행정력이 낭비된 점 등을 고려했다”고 기소 이유를 설명했다. &lt;br&gt;&lt;br&gt;A군은 지난 10월 13일부터 21일까지 자신이 다니고 있는 인천시 서구의 한 고등학교에 폭발물을 설치했다는 등의 협박 글을 7차례에 걸쳐 119안전신고센터에 게시한 혐의를 받고 있다. A군은 협박 글에 자신을 잡지 못하는 경찰을 조롱하는 내용을 쓰기도 했다. &lt;br&gt;&lt;br&gt;A군의 협박 글로 인해 학교 측은 수차례에 걸쳐 학생 500여 명을 하교하도록 했고, 경찰과 소방 당국이 출동해 교내 수색과 순찰 등 조치를 했다. &lt;br&gt;&lt;br&gt;A군은 앞서 지난 9∼10월 경기 광주와 충남 아산, 광주광역시 지역의 중고등학교와 철도역 등을 대상으로 폭발물 설치 협박 글을 쓴 것으로 조사되는 등 총 13건의 협박 글을 올린 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A군은 자신이 협박 글을 쓰지 않았다고 주장하는 것으로 알려졌다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “불특정 다수에게 불안감을 일으키는 공중 협박 범죄에 대해 엄정 대응하겠다”고 말했다. &lt;br&gt;&lt;br&gt;한편 경찰은 A군의 범행으로 행정력이 낭비됐다고 보고 손해배상 청구 소송을 제기할 예정이다. 경찰은 112 출동 수당, 시간 외 수당, 출장비, 급식비, 동원 차량 유류비 등 손해배상 청구액을 산정하고 있다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>李대통령 “탈모 치료제 건보 적용 검토하라”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/16/HQC7DOZIO5ELZLVZQ7O4YK7NIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/16/HQC7DOZIO5ELZLVZQ7O4YK7NIY/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 05:20:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4IPNJYO4KJIBNE3L3PZWNNXGPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 16일 정부세종컨벤션센터에서 열린 보건복지부(질병관리청)·식품의약품안전처 업무보고에서 발언하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 탈모 치료제에 대한 건강보험 급여 적용 검토를 보건복지부에 지시했다.&lt;br&gt;&lt;br&gt;16일 이 대통령은 보건복지부·식품의약품안전처·질병관리청 업무 보고에서 복지부의 보고를 받은 후 “젊은 사람들이 보험료만 내고 혜택은 못 받고 억울하다고 생각하는 경우가 있는 것 같다”며 이같이 지시했다.&lt;br&gt;&lt;br&gt;이 대통령은 20대 대선 당시 자신이 공약으로 탈모 치료제 건보 적용을 내세웠던 사실을 언급하며 정은경 복지부 장관에게 현재 적용되지 않는 이유를 물었다. 정 장관은 “생명이 오가는 의학적 치료와는 연관성이 떨어지기 때문에 건보 적용이 안 되고, 미용적인 시술로 보는 부분에 대해선 비급여 진료가 이뤄지고 있다”고 답했다.&lt;br&gt;&lt;br&gt;이에 이 대통령은 “옛날에는 (탈모 관련 시술을) 미용으로 봤는데 요즘은 (탈모를) 생존의 문제로 받아들이는 것 같다”며 “비용이 얼마나 드는지 (급여 적용) 횟수 제한을 하든지 총액 제한을 하든지 검토해 봤으면 좋겠다”고 말했다. 그는 또 “건보 급여가 적용되면 약가도 내려간다고 하니 검토해 달라”고 주문했다.&lt;br&gt;&lt;br&gt;이 대통령이 탈모 치료 급여화에 대한 지시를 한 것은 청년층이 건보 혜택을 받지 못한다는 지적이 나오고 있기 때문이다. 이와 관련해 이 대통령은 비만 치료제의 건보 적용 여부도 물었다. 정 장관이 “(비만 치료제에 대해선) 이제 급여 적정성 검토를 진행해야 하는 상황”이라고 답하자 이 대통령은 “청년들의 소외감이 너무 커져서 하는 얘기다. 세대 간 보험료 혜택 (차이는) 고민을 해야 할 것 같다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘25억 체납’ 최은순, 부동산 공매 추진에 “일단 절반 내겠다”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/16/JKRVJTQJ5VCETK5MQESODX7TCM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/JKRVJTQJ5VCETK5MQESODX7TCM/</guid>
@@ -937,33 +969,6 @@
       <description/>
       <pubDate>Tue, 16 Dec 2025 06:36:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQZWEYJQMQYDCOLDMI3GMMBQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사의 모친 최은순씨가 지난 4일 오전 서울 종로구 KT광화문빌딩 웨스트에 마련된 김건희특검 사무실에 피의자 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시가 25억원대 과징금을 내지 않은 김건희 여사의 모친 최은순(79)씨의 부동산에 대한 공매를 추진하자, 최씨 측은 16일 “절반이라도 내겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;이날 경기도와 성남시에 따르면, 최씨는 최종 납부 시한인 전날(15일)까지 성남시에 내야 할 체납 과징금 25억500만원을 내지 않았다.&lt;br&gt;&lt;br&gt;앞서 성남시는 최씨 측에 “체납 과징금을 납부하지 않으면 압류 부동산에 대해 공매에 들어가겠다”고 알렸다. 공매는 공공기관이 체납으로 인한 압류 재산을 강제로 처분하는 것이다.&lt;br&gt;&lt;br&gt;김동연 경기도지사도 지난 4일 “최씨의 체납은 그 죄질이 아주 나쁘다. 성남시와 함께 최후 일정을 통첩했다”며 “과징금을 납부하지 않으면 부동산 공매 절차에 반드시 들어가 조세 정의를 살리겠다”고 했다.&lt;br&gt;&lt;br&gt;최씨가 끝내 과징금을 내지 않자, 성남시는 이날 공매를 위한 내부 행정 절차에 들어갔다. 그러자 최씨 측은 성남시에 “체납액의 절반 수준인 13억 정도만 일단 납부하고자 한다”는 의사를 밝힌 것으로 전해졌다. 체납액이 일부 납부되면 공매 절차는 일단 중단된다. 과징금에 대한 가산세는 붙지 않는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/E6WYEELN4RQLQACWO7EY3ZDG3M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통장잔고증명서 위조 등의 혐의를 받고 있는 윤석열 대통령의 장모 최은순 씨가 지난해 5월 14일 서울 송파구 서울동부구치소에서 가석방되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성남시 관계자는 “일단 납부 의사를 밝혀 기다리고 있는 상황”이라며 “실제로 이뤄지지 않으면 한국자산관리공사에 공매를 의뢰하게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;한편 최씨는 행정안전부가 발표한 ‘고액·상습 체납자 명단’에 체납액 전국 1위로 이름을 올렸다. 최씨는 지방자치단체에 과징금이나 변상금 등을 내지 않은 ‘지방 행정 제재·부과금 체납자’에 해당하는데, 올해 처음 공개된 사람 중에서 액수가 가장 컸다. 최씨는 2013년 성남시 중원구 도촌동 땅 55만3231㎡를 차명으로 매입하는 등 ‘부동산 실명법’을 위반해 과징금을 부과받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“진술 강요∙모욕 있었다“... 인권위 ‘양평군 공무원 사건’ 결정문 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/6DG2HZMFMJDZHGDC3DPVF2F6BA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/6DG2HZMFMJDZHGDC3DPVF2F6BA/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 07:58:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNDY72XXBJDV7EHDRPYTIFGKJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사가 지난 7월 서울 종로구 KT광화문빌딩에 마련된 특검 사무실에서 현판 제막식을 가졌다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀 조사를 받은 후 스스로 목숨을 끊은 경기 양평군청 공무원 A(57)씨가 수사 과정에서 인권 침해를 당했다는 국가인권위원회의 판단 근거가 담긴 결정문이 16일 공개됐다. &lt;br&gt;&lt;br&gt;인권위는 결정문에서 “고인이 남긴 21장의 유서는 증거 능력이 있어 보인다”며 “유서, 유족 및 참고인 진술을 종합해볼 때 (수사 과정에서) 진술 강요와 회유, 모욕 등이 있었을 개연성이 높다”고 밝혔다. &lt;br&gt;&lt;br&gt;이번 결정은 지난 1일 전원위원회에서 의결된 사안이다. A씨는 ‘양평 공흥지구 특혜’ 의혹으로 김건희 특검의 수사를 받은 뒤 숨진 채 발견됐다. 그가 남긴 자필 메모가 공개되면서 특검팀의 강압 수사 의혹이 불거지자 인권위는 지난 10월 직권 조사에 착수했다. 조사 결과 인권위는 수사 과정에서 인권 침해가 있었다고 보고, A씨를 조사했던 특검 파견 경찰관 4명 중 1명을 직권남용 혐의로 검찰에 고발하고, 나머지 3명에 대해서도 검찰에 수사를 의뢰하기로 했다.&lt;br&gt;&lt;br&gt;인권위가 따진 부분은 크게 두 가지다. A씨가 작성한 메모 및 유서의 증거 능력과 특검 조사 과정에서의 인권침해 여부다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇메모 및 유서를 증거로 인정할 수 있나&lt;/b&gt;&lt;br&gt;&lt;br&gt;우선 인권위는 A씨가 자필 메모와 유서를 직접 작성했는지 살펴봤다. 앞서 지난 10월 김선교 국민의힘 의원은 자신의 페이스북을 통해 메모를 공개했다. ‘특검팀 조사를 받은 날, 회유와 강압에 지치고 힘들다’ 등의 내용이 적혀 있었다. 인권위는 A씨가 김 의원의 보좌관에게 메모를 건네는 장면이 찍힌 방범 카메라(CCTV)를 확보했다. 또한 경기남부경찰청의 유서 필적 감정 결과를 통해 A씨가 직접 썼다고 판단했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DGOEENLBPN2INHCSZ2F2XZ5XOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 특검 수사를 받다가 숨진 경기 양평군 공무원 측 박경호 변호사가 기자회견을 열고 숨진 공무원이 직접 작성한 메모를 공개하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유서에 적힌 내용과 주변인의 진술도 일치했다. A씨는 유서에 ‘짜여진 각본에 당한 것 같다’며 회유와 강압으로 거짓 진술을 한 자신을 자책하는 내용을 담았다. 그가 사망한 직후 유족이 양평경찰서에 진술한 조서에 따르면, 생전 A씨는 유족에게 “수사관이 12시간 넘게 공갈과 협박을 하면서 회유하려고 했다”며 “정신이 몽롱한 나머지 그 사람들이 하는 말을 내가 그대로 인정하는 식으로 진술하고 있었다”고 말했다고 한다. &lt;br&gt;&lt;br&gt;A씨가 남긴 유서는 첫 조사를 받고 돌아온 날인 10월 3일부터 사망 전날인 9일까지 작성됐다. 인권위는 유서 우측 하단에 적힌 날짜와 시간을 미뤄봤을 때, A씨가 거짓말을 적을 시간적·심리적 여유도 없었을 뿐더러 그의 기억이 왜곡됐을 가능성도 적다고 봤다. &lt;br&gt;&lt;br&gt;이를 통해 인권위는 A씨가 작성한 유서를 ‘특히 신빙할 수 있는 상태’(특신상태)에서 작성됐다고 판단했다. 형사소송법 314조는 진술자가 사망한 경우에도 그의 진술이 특신상태임이 증명되면 증거로 사용할 수 있도록 한다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇특검 조사 과정에서 인권침해 있었나&lt;/b&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C3R3B7WP6ZAHPDMC62VJUTHA7E.png"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회가 16일 발표한 '경기 양평군청 공무원 사망 사건' 관련 결정문에 첨부된 자료./국가인권위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;형사소송법 제200조는 ‘(피의자에게) 불필요하게 여러 차례 출석 요구를 하지 않아야 한다’고 정하고 있다. 그러나 특검팀은 A씨에게 출석을 다섯 차례나 요구했다. 지난 8월 20일 첫 출석 요구를 한 뒤 네 번이나 미룬 것이다. 그가 처음으로 조사를 받은 날짜는 10월 2일이다. 출석일자를 변경하는 구체적인 사유도 안내하지 않았다고 한다. A씨의 유서에는 ‘조사가 계속 연기되면서 몸이 피폐해지고 사는 게 사는 게 아니었다’는 내용이 적혀 있었다. &lt;br&gt;&lt;br&gt;인권위는 ‘장시간 조사 제한’을 위반한 정황도 발견했다고 적시했다. 첫 특검 출석날 A씨의 전체 조사 시간은 14시간 37분. 이 중 휴식시간과 조서열람시간 등을 제외한 실제 조사시간만 8시간 48분이었다. A씨는 유서에 “심야조사에 들어간다는데 이 자리를 벗어나고 싶은 생각밖에 없다”며 괴로운 심경을 적었다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TEYRYGIZGIYZVMRTDEYLGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민중기 특별검사팀 조사를 받은 후 숨진 경기 양평군 공무원 유서./전국공무원노동조합&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인권위는 강압수사 의혹을 부인하는 수사관의 주장에 대해 신빙성이 부족하다고 봤다. 인권위가 확보한 A씨의 유족과 특검팀 수사를 받은 양평군청 직원의 진술을 종합해 보면 수사 과정에서 강요와 회유, 모욕 등이 있었을 가능성이 높다는 것이다. 또한 A씨는 유서에 ‘타겟은 김선교 의원이니 시킨 거라 이야기해라’ ‘협조해주면 봐주겠다’ 등의 내용을 수차례 반복 기재했다. 인권위는 유서가 구체적이고 일관됐으며 외부 정황과도 부합한다고 판단했다. &lt;br&gt;&lt;br&gt;&lt;b&gt;◇인권위가 ‘직권남용’이라 본 이유는?&lt;/b&gt;&lt;br&gt;&lt;br&gt;형법 123조는 ‘공무원이 직권을 남용해 사람으로 하여금 의무 없는 일을 하게 하거나 사람의 권리행사를 방해한 때에는 5년 이하의 징역, 10년 이하의 자격정지 또는 1000만원 이하의 벌금에 처한다’고 규정하고 있다. 공무원의 직무행위가 직권남용에 해당하는지 여부는 그 행위의 목적, 직권 행사가 허용되는 법령상의 요건을 충족했는지 등 여러 요소를 고려해 결정된다.&lt;br&gt;&lt;br&gt;인권위가 직권남용으로 고발하기로 한 수사관은 A씨의 주 조사관인​ B씨였다. A씨의 유서에는 B씨의 이름 석 자가 수차례 언급된다. ‘B가 와서 무시하고 다그친다’ ‘아니라고 해도 계속 진술을 강요한다’ 등의 내용이다. &lt;br&gt;&lt;br&gt;인권위는 “B씨는 자신의 권한을 남용해 고인에게 의무 없는 진술을 강요했다고 볼 수 있다”며 “이는 객관적으로 사건을 수사해 진실을 밝히고자 하는 경찰공무원으로서의 직무를 일탈한 직권남용죄에 해당한다고 판단한다”고 밝혔다. 아울러 B씨의 행위에도 불구하고 제지하지 않은 수사관 3명은 직무상 의무를 태만했다고 봤다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5VP52OSSFNKNJN2TKNXLID6HBE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1일 오후 서울 중구 국가인권위원회에서 전원위원회가 진행되고 있는 모습. 인권위는 이날 양평 공무원 사망 사건과 관련한 직권조사 결과 보고서를 의결했다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인권위는 지난 1일 전체회의를 열어 양평군 공무원 사망 사건 직권조사 결과 보고서를 찬성 6명, 반대 3명으로 의결했다. 특검팀은 강압적 분위기나 회유는 없었다는 입장을 밝혔지만 인권위는 그와 배치되는 결과를 내놓은 것이다. 인권위 관계자는 “직권남용으로 고발하기로 한 경찰관 1명에 대해선 범죄 혐의점이 어느 정도 소명됐다고 봤고, 나머지 3명은 수사 필요성이 있다고 판단했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘데이트 폭력’ 끝에 동거녀 사망…30대 남성 항소심도 징역 4년 </title>
-      <link>https://www.chosun.com/national/court_law/2025/12/16/N7AH6T2SNZD3FOQEAYUW3RSASI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/N7AH6T2SNZD3FOQEAYUW3RSASI/</guid>
-      <dc:creator>전주=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 06:32:21 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RIFG3TNLCBHNFLVN75OUOVHNJE.png"&gt;&lt;figcaption&gt;&lt;small&gt;전주지법 청사 전경. /전주지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;동거 중이던 30대 여성을 상습 폭행하고, 폭행을 피해 창문으로 피신한 피해자를 추락하게 해 숨지게 한 혐의로 기소된 30대 남성이 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;전주지법 형사3-3 항소부(재판장 정세진)는 16일 폭행치사·상해 등 혐의로 기소된 A(33)씨의 항소심에서 검사와 피고인의 항소를 기각하고 징역 4년을 선고한 원심을 유지했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2021년 11월부터 동거를 시작한 여자친구 B(33)씨에게 수차례에 걸쳐 폭행과 상해를 가한 혐의로 기소됐다. A씨는 양손으로 B씨 목을 졸라 얼굴 실핏줄이 터지고 목에 자국이 남을 정도로 폭행을 가한 것으로 조사됐다. B씨는 주먹으로 얼굴과 갈비뼈 등을 맞아 늑골 폐쇄성 골절 및 염좌, 안면부 타박상 등의 상해를 입었다. B씨는 ‘니가 이렇게 또 날 죽이려 들지 몰랐어’ ‘나는 제발 때리지 말라고 살려달라고 너한테 빌었어’ 등의 문자를 보내며 죽을 것 같은 공포심을 호소해왔던 것으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨의 폭력은 1년 넘게 이어졌고 2023년 1월 6일 밤엔 B씨가 숨지는 사건이 발생했다. A씨는 이날 말다툼 중 화가 나 욕설과 함께 B씨의 목 부위를 밀쳤고, B씨는 방으로 도망가 문을 잠갔다. 하지만 A씨는 주방에서 포크와 젓가락을 가져와 잠긴 방문을 열었고, 이에 공포를 느낀 B씨는 폭우가 내리는 상황에서 4층 높이 창문 밖, 폭 20㎝의 외부 창틀 위에 엉거주춤 서서 숨었다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 숨어있는 것을 알아채고 창문을 밀어젖혔고, 이로 인해 B씨는 1층 바닥으로 추락해 숨졌다. A씨는 B씨가 창틀에 있었던 걸 몰랐다고 주장했으나 1심과 2심 재판부 모두 피고인의 행위로 피해자가 사망에 이르렀다고 판단했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 “피고인은 1심과 2심에서 피해자를 위해 형사 공탁했지만, 유족은 이를 수령하지 않겠다는 뜻을 밝혔다”며 “이 사건은 피해자가 사망하는 돌이킬 수 없는 중대한 결과가 발생했으므로 형을 가볍게 변경할 사정이 없어 보인다”고 항소 기각 사유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘통일교 로비 의혹’ 관련 한학자 총재 조사한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/16/6II4VGVHDFCUFODZ6RI6N7DRAA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/16/6II4VGVHDFCUFODZ6RI6N7DRAA/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 01:51:26 +0000</pubDate>
-      <content:encoded>통일교와 정치권 유착 의혹을 수사하는 경찰이 구치소에 수감된 한학자 통일교 총재를 17일 조사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PBUYYURR6BKUNHS2U4SDZAJ55I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;15일 서울 여의도 국회 의원회관 내 전재수 전 해양수산부 장관 사무실에서 통일교 금품 수수 의혹과 관련해 압수수색을 마친 경찰 관계자들이 압수품을 옮기고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;16일 경찰 등에 따르면 경찰청 국가수사본부 특별전담수사팀은 17일 한 총재가 수감된 서울구치소에서 한 총재를 접견 조사할 예정이다. &lt;br&gt;&lt;br&gt;윤영호 전 통일교 세계본부장은 지난 8월 민중기 특별검사팀에 복수의 여야 정치인에게 금품을 전달했다고 진술했다. 이를 수사하기 위해 국수본에 꾸려진 경찰 수사팀은 지난 10일 특검팀에서 통일교 관련 사건 기록을 넘겨받아 수사에 착수했고, 이튿날 진술 신빙성 등을 따지기 위해 윤 전 본부장을 접견 조사했다. 그러나 윤 전 본부장은 지난 12일 재판에서 “그렇게 진술한 적이 없다”고 말을 바꿨다. &lt;br&gt;&lt;br&gt;경찰은 15일 통일교 천정궁과 서울본부, 구치소의 한 총재 및 윤영호 전 통일교 세계본부장 수용실, 전재수 전 해양수산부 장관 등 피의자 사무실과 주거지 등 10여 곳을 압수수색했다. 16일에는 전날에 이어 민중기 특별검사팀 사무실에 대해서도 자료를 제출받기 위해 압수수색에 나섰다.&lt;br&gt;&lt;br&gt;현재 통일교 금품 수수 혐의로 입건된 정치인은 전재수 전 해양수산부 장관, 임종성 전 더불어민주당 의원, 김규환 전 미래통합당 의원 등이다. 전 전 장관은 뇌물수수·정치자금법 위반 혐의로, 나머지 두 사람은 정치자금법 위반 혐의로 입건됐다. 경찰은 한 총재와 윤 전 본부장도 뇌물공여 혐의로 입건했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
