@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[속보] 헌재, 조지호 경찰청장 파면...재판관 전원일치</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 05:15:51 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>소속 모델 수차례 성폭행… 성인 화보 제작사 전 대표, 징역 10년</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/18/IZFSQ5WUANF5FHFB776NOCFE7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/IZFSQ5WUANF5FHFB776NOCFE7M/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 05:00:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWCMZYMVRGIZTEMU3TQZJTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성인 화보 제작사를 운영하면서 소속 모델들을 성폭행하거나 불법 촬영하는 등 혐의로 재판에 넘겨진 전직 대표에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사2부(재판장 류준구)는 피감독자 간음과 강제추행 등 혐의로 기소된 성인 화보 제작사 전 대표 A(50)씨에 대해 징역 10년을 선고했다. 또 40시간의 성폭력 치료 프로그램 이수와 출소 후 10년간 아동·장애인 관련기관 취업 제한을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 아동·청소년의 성보호에 관한 법률상 성 착취물 제작과 무고 등 혐의로 A씨와 함께 기소된 B씨에게 징역 1년을 선고하고, 40시간의 성폭력 치료 프로그램 이수와 아동·장애인 관련기관에 3년간 취업하지 못하도록 했다. &lt;br&gt;&lt;br&gt;재판부는 A씨에 대해 “피해자 진술이 수사기관에서 법정에 이르기까지 일관돼 신빙성이 있다”며 “자신이 운영하는 회사의 파급력을 이용해 피해자들에게 강제 추행, 위력 간음 등을 하면서 아동 성 착취물까지 제작하는 등 범행이 중대하고 변태적인 점 등을 고려했다”고 했다. 이어 “범행 부인을 넘어 피해자들을 허위로 고소해 무고했다”며 “피해자들에게 가해자가 죄책에 상응하는 처벌을 받는다는 걸 일깨워줄 필요가 있다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;B씨에 대해선 “A씨가 제작한 아동 성 착취물을 향후 활용 목적으로 회사 컴퓨터에 보관하는 등 죄질이 매우 나쁘다”며 “수사 과정에서 A씨를 도와 휴대전화를 은닉하고, 피해자들과 합의하지 않은 점 등을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2020년 2월부터 2023년 6월까지 경기 부천시의 호텔 등지에서 자신의 지위를 이용해 제작사 소속 모델 5명과 성관계를 하고 다른 모델 6명을 강제로 추행한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨 등은 2023년 1월 성인 화보 테스트를 빌미로 미성년자 성 착취물을 촬영하고 영상 11개를 갖고 있던 혐의도 받는다. &lt;br&gt;&lt;br&gt;B씨는 지난 1월 A씨의 성범죄 사건 무마를 위해 피해자를 비롯한 16명을 경찰에 허위 고소한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>카카오·네이버·KT 이어 삼성전자도 폭파 협박...이재용 회장 위협 글까지</title>
+      <link>https://www.chosun.com/national/incident/2025/12/18/F6R4XQKI7VCO7OA4GTFI35FFV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/F6R4XQKI7VCO7OA4GTFI35FFV4/</guid>
+      <dc:creator>성남=김현수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 04:25:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시 분당구에 있는 카카오·네이버·KT 사옥에 이어 삼성전자에 대한 폭파 협박 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;18일 경찰에 따르면, 이날 오전 10시 50분쯤 “성남 분당구 정자동 KT 분당사옥에 사제 폭탄 40개를 설치했다”는 내용의 협박 글이 KT 고객센터를 통해 접수됐다는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;KT 측 신고를 받고 출동한 경찰과 소방당국은 경찰 30여 명과 소방차 9대를 투입해 현장 수색을 벌였으나, 현재까지 폭발물 등 특이사항은 발견되지 않아 모두 철수한 것으로 전해졌다. KT는 별도의 재택근무나 원격근무 전환 조치는 하지 않았다.&lt;br&gt;&lt;br&gt;조사 결과, 해당 협박 글은 온라인 간편 가입 신청 과정에서 작성된 것으로 파악됐다. 작성자는 자신을 특정 인물로 밝힌 것으로 알려졌으나 경찰은 명의 도용 가능성이 크고 실제 위험성은 낮다고 판단해 별도 폭발물 수색 없이 사측에 자체 방호 강화를 요청했다.&lt;br&gt;&lt;br&gt;같은 날 오전 11시 29분쯤에는 카카오 CS센터 게시판에 “삼성전자 수원시 영통구 본사를 폭파하고, 이재용 회장을 사제 총기로 쏴 죽이겠다”는 협박 글이 올라왔다는 신고도 접수됐다. 글쓴이는 자신의 이름을 특정 이름으로 기재했으나, 다른 신상 정보는 밝히지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난 15일과 17일에는 카카오 판교 아지트에 사제 폭발물을 설치했다는 협박 글이 카카오 고객센터에 잇달아 게시됐고, 18일에는 네이버 사옥을 대상으로 한 유사한 폭파 협박 신고도 접수됐다.&lt;br&gt;&lt;br&gt;협박 글 작성자로 지목된 인물은 경찰 조사에서 “명의를 도용당한 것 같다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김건희특검, ‘디올백 무혐의’ 서울중앙지검 압수 수색</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/18/RBA23VSTAFGJPHLKFUVXUYT3LQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/RBA23VSTAFGJPHLKFUVXUYT3LQ/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 04:52:24 +0000</pubDate>
+      <content:encoded>검찰의 ‘김건희 여사 봐주기 수사’ 의혹을 수사 중인 민중기 특별검사팀이 18일 서울중앙지검에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 서울중앙지검 청사 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지 취재를 종합하면 특검은 이날 오전부터 서울중앙지검 형사1부 등에 검사와 수사관을 보내 관련 자료를 확보하고 있다. 이날 강제 수사는 김 여사의 디올백 수수 사건을 담당한 수사팀을 대상으로 이뤄진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;디올백 수수 사건은 재미 교포 최재영 목사가 2022년 9월 코바나컨텐츠 사무실을 방문해 김 여사에게 300만원 상당의 디올백을 건넸다는 내용이다. 최 목사가 이 과정을 손목시계형 몰래카메라로 촬영한 영상이 2023년 11월 공개되며 처음 알려졌다. 이후 서울중앙지검 형사1부는 김 여사의 해당 사건에 대한 수사에 착수했고, 10개월여 만인 작년 10월 김 여사를 무혐의 처분했다. 당시 수사팀은 “대통령 직무와 관련이 없고, 청탁금지법에 공직자 배우자 처벌 규정도 없다”며 이유를 설명했다. &lt;br&gt;&lt;br&gt;그러나 윤석열 전 대통령의 재임 기간 동안 검찰이 김 여사를 무혐의 처분해 ‘봐주기 수사’를 한 것이 아니냐는 의혹이 제기됐다. 이같은 의혹을 수사 중인 특검은 지난 9일 최 목사를 참고인 신분으로 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘이화영 술파티 위증’ 사건 법관 기피신청 기각에 즉시항고</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/18/6X23AGS5A5ARRCBEJVMHLYEEDI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/6X23AGS5A5ARRCBEJVMHLYEEDI/</guid>
+      <dc:creator>수원=김수언 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 04:08:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYDGNTFMZSGCNZVGI2WEZRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사(왼쪽)가 지난 10월 14일 서울 여의도 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에서 의원 질의를 마친 후 자신의 대북 송금 사건을 수사했던 박상용 법무연수원 교수를 지나치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“검사 조사실에서 연어 술 파티가 있었다”고 국회서 위증한 혐의를 받는 이화영 전 경기도 평화부지사의 재판서 검찰이 낸 법관 기피신청 기각되자, 검찰이 즉시항고했다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 수원지검은 전날(17일) 법관 기피 신청을 기각한 수원지법 결정에 대해 즉시항고장을 제출했다. 법관 기피신청은 ‘불공평한 소송을 진행할 우려가 있을 때’, 소송을 진행 중인 법관(재판부)을 바꿔달라는 것이다. 검찰의 즉시항고에 따라, 이 사건은 수원고법에서 심리를 하게 될 전망이다.&lt;br&gt;&lt;br&gt;검찰의 법관 기피 신청은 지난달 25일 있었다. 이날 수원지법 형사11부(재판장 송병훈)는 이 전 부지사의 국회증언감정법·정치자금법 위반 등 사건의 10차 공판준비기일을 열었다. 이 자리에서 재판부는 검찰이 신청한 증인 64명 중 6명을 채택하고, 나머지 58명을 기각했다.&lt;br&gt;&lt;br&gt;이에 검찰 측은 “재판부가 채택한 소수의 증인만으로 공소사실을 입증하라고 한 것은 사실상 입증 활동 포기를 지휘한 것”이라고 했다. 당시 수원지검 소속 검사 4명은 “소송 지휘를 따를 수 없어 퇴정하겠다”며 기피 신청 의사를 밝힌 후 재판부에 고개 숙여 인사하고 법정을 나갔다.&lt;br&gt;&lt;br&gt;이후 재판부는 “검사가 재판장에 대해 한 기피 신청 결과를 보기 위해 기피 재판 확정 전까지 소송 진행을 정지한다”고 밝혔다.&lt;br&gt;&lt;br&gt;기피 신청 사건을 심리한 수원지법 형사12부(재판장 박건창)는 지난 9일 기각 결정을 내리면서, “본안 사건과 관련한 담당 재판장의 소송지휘권 등의 행사가 어느 일방에 편파적이었다고 평가할 만한 사정을 찾기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;기피 신청 기각에 대해선 항고, 재항고할 수 있어 최종 판단이 나올 때까지 보통 수개월이 걸리기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 이 사건은 이달 15~19일 5일 동안 일반 국민이 배심원으로 평결에 참여하는 국민참여재판으로 진행할 예정이었다. 그러나 검찰의 기피 신청 접수로 재판 절차가 멈췄고, 이 일정도 무기한 연기됐다.&lt;br&gt;&lt;br&gt;이른바 ‘검사 퇴정 사건’은 이재명 대통령이 사건 발생 이튿날(지난달 26일) “(퇴정 검사들을) 엄정히 감찰하라”고 지시하면서 논란이 됐다. 이 감찰은 수원고검이 맡아서 하고 있다.&lt;br&gt;&lt;br&gt;이 전 부지사의 변호인들은 지난달 27일 “검사들이 사법 절차를 방해하고 법원의 권위를 훼손한 것”으로, 퇴정한 검사들을 법정모욕죄 및 직무유기죄로 처벌해달라며 국가수사본부에 고발장을 냈다.&lt;br&gt;&lt;br&gt;한편, 이 전 부지사는 작년 10월 국회 청문회에 증인으로 나와 “2023년 5∼6월쯤 검찰청에서 연어 술 파티가 있었다”는 취지로 위증한 혐의를 받는다. 2021년 7월 민주당 대선 경선 후보였던 이재명 대통령을 위해 김성태 전 쌍방울 회장에게 ‘쪼개기 후원금’을 내도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대법원, 내란전담재판부 예규 만들기로...무작위 배당 원칙</title>
       <link>https://www.chosun.com/national/court_law/2025/12/18/WSTGGECTZBBYPNAPCNQHLELXXQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/WSTGGECTZBBYPNAPCNQHLELXXQ/</guid>
@@ -857,42 +902,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PWDS6NHOEBB6DI5FWGEOJUBDZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 21일 서울 여의도 국회의사당 앞에서 AI 디지털 교과서 발행사와 개발사 임직원 2000여명이 AI 교과서 폐지에 반대하는 집회를 하고 있다. /조인원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;감사원이 윤석열 정부가 충분한 준비 없이 ‘인공지능(AI) 디지털 교과서’ 도입을 추진해 교육 현장에 혼란을 초래했다고 비판하는 감사 보고서를 내놨다.&lt;br&gt;&lt;br&gt;AI 교과서 도입은 윤석열 정부가 2022년 7월 공개한 120대 국정 과제와 연관돼 추진된 사업이었다. 당시 정부는 “AI 등 신기술을 활용한 교육 혁신으로 미래 핵심 역량을 갖춘 인재를 양성하겠다”며 “AI 기반 학력 진단 시스템으로 맞춤형 진단·학습을 지원하고, 학생의 특성에 맞게 기초 학력을 밀착 지원하겠다”고 했다. 당시 정부는 학생들이 디지털 교과서로 학습을 하면 개인별 학습 이력 데이터가 축적되고, 이를 AI가 분석해 학생들에게 다시 각자의 수준에 맞는 학습 자료가 제공되는 체계를 구상했다.&lt;br&gt;&lt;br&gt;그러나 감사원은 17일 공개한 감사 보고서에서 AI 교과서가 윤 정부 국정 과제의 일환으로 추진됐다는 언급 없이 “교육부는 이주호 장관이 2022년 11월 7일 취임하면서 AI 디지털 교과서 도입을 지시해 2023년 1월 5일 2025년부터 (AI 교과서를) 단계적으로 도입한다는 계획을 발표했다”고 했다. 그러면서 “교육부가 외부 의견 수렴 없이 7차례 내부 회의만 거쳐 2025년 AI 교과서 도입을 결정했다”고 지적했다. 특히 “AI 교과서를 사용할 학생, 학부모, 교사 등 당사자로부터 AI 교과서 도입 여부, 도입 시기, 의무 도입 여부 등에 대한 의견 수렴은 전무했다”고 했다.&lt;br&gt;&lt;br&gt;AI 교과서 제작에 뛰어든 기업들에게는 AI 교과서가 모든 학교가 반드시 교과서로 채택해야 하는 것인지, 아니면 원하는 학교만 교과서로 채택하는 것인지가 중요했다. 이에 따라 AI 교과서 시장 규모가 크게 달라질 것이었기 때문이다. 감사원에 따르면, 기업들은 교육부에 AI 교과서를 모든 학교에 의무적으로 도입시킬 것인지 여부를 지속적으로 문의했으나, 교육부는 2023년 9월까지도 확실한 답을 내놓지 않았다.&lt;br&gt;&lt;br&gt;교육부 실무자들은 AI 교과서 도입 여부를 각 학교가 자율적으로 결정할 수 있게 하는 것으로 하고 AI 교과서 도입을 준비 중이었다. 그러나 이주호 당시 교육부 장관은 ‘기업들의 의문을 명확히 정리하라’고 지시했고, 지시를 받은 교육부 관계자가 2023년 10월 기업들과의 간담회에서 ‘AI 교과서는 모든 학교가 의무 선정해야 하는 대상’이라고 말했다. 그때부터 AI 교과서는 모든 학교가 의무적으로 도입하도록 하는 방향으로 추진됐다고 감사원은 지적했다.&lt;br&gt;&lt;br&gt;2023년에 AI 교과서를 2025년부터 전면 도입하려고 보니, AI 교과서 개발을 마치고 시범 운영을 해볼 시간이 없었다. 이에 따라 교육부는 AI 교과서가 개발돼 검정을 통과하는 대로 이를 실제 수업에 곧바로 사용하고, 그 결과에 따라 AI 교과서를 수정·보완하는 ‘현장 적합성 검토’를 도입 후 6개월간 하는 것으로 방침을 바꿨다.&lt;br&gt;&lt;br&gt;그러나 AI 교과서를 개발하는 기업들이 개발 기간이 촉박하다는 의견을 내 개발 기간이 3개월 연장됐고, AI 교과서 개발과 검정(檢定)은 지난해 11월에야 끝났다. 그러다 보니 현장 적합성 검토가 전혀 이뤄지지 못했다고 감사원은 지적했다.&lt;br&gt;&lt;br&gt;교육부는 AI 교과서를 개발하는 기업들에 AI 교과서가 갖춰야 하는 기술적인 요건도 제때 제시하지 못했다고 감사원은 비판했다. 감사원에 따르면, 교육부는 AI 교과서 ‘기술 기준’을 제시하지 않은 상태에서 기업들이 AI 교과서 제작에 일단 뛰어들게 했고, 2023년 12월에야 기술 기준을 내놨다. 그러다 보니 기업들은 제작하던 AI 교과서를 뒤늦게 나온 기술 기준에 따라 재설계해야 했고, 개발 일정에 차질을 빚거나 품질 저하를 호소했던 것으로 나타났다.&lt;br&gt;&lt;br&gt;AI 교과서는 각 학교가 과목별로 특정 교과서를 구독하고 이에 대한 구독료를 AI 교과서 제작 기업에 정기적으로 내는 방식이었다. 그런데 교육부는 AI 교과서 도입을 결정했으면서도 여기에 필요한 구독료 예산은 추계조차 하지 않았고, 시·도교육청에 구독료를 부담시키겠다고 일방 통보했다. 각 시·도교육청이 협의를 요청했으나 교육부는 요청을 묵살했다.&lt;br&gt;&lt;br&gt;감사원은 감사 과정에서 교육부에 AI 교과서가 올해부터 모든 학교에 의무적으로 도입됐을 경우 시·도교육청이 매년 부담해야 하는 구독료를 추계하도록 했다. 그 결과 구독료는 올해 3361억원에서 내년 5421억원, 2027년에는 8634억원, 2028년에는 1조732억원으로 불어나는 것으로 나타났다.&lt;br&gt;&lt;br&gt;감사원은 교육부에 “앞으로 AI 교과서 같은 새로운 형태의 교과서를 도입할 때에는 우선 시범 운영을 실시해 효과성을 검증하고 문제점을 미리 점검하도록 하며, 시범 운영 대신 현장 적합성 검토를 하기로 했다면 교사들이 학교 수업 현장에서 충분히 적용·검토해 문제점을 점검하고 반영한 후 도입하도록 하라”며 주의를 줬다. “AI 교과서 사업 등 지방 교육 재정에 부담을 주는 사업을 추진할 때는 필요 재원을 검토하고 (재원 조달 방안을) 시·도교육청과 충분한 협의를 거쳐 정하라”고도 했다.&lt;br&gt;&lt;br&gt;AI 교과서 도입은 사실상 무산된 상태다. 교육부가 지난해 말 AI 교과서 의무 도입을 추진하자 당시 야당이었던 더불어민주당은 AI 교과서를 ‘교육 자료’로 격하시키고 정식 교과서가 되는 것을 금지하는 초·중등교육법 개정안을 국회에서 통과시켰고, 이에 따라 교육부는 일단 올해에는 AI 교과서 도입 여부를 각 학교가 선택하도록 했다. AI 교과서 금지 법안은 지난 1월 최상목 당시 대통령 권한대행이 거부권(재의 요구권)을 행사하면서 폐기됐으나, 이재명 정부 출범 직후인 지난 8월 새 법안이 의결됐고 이 대통령이 이를 법률로 공포했다. 이에 따라 AI 교과서는 교과서 지위를 잃었다. 이때까지 AI 교과서 도입 사업에는 총 1조4093억원이 투입됐다.&lt;br&gt;&lt;br&gt;AI 교과서 도입에 대한 감사는 지난 2월 국회에서 민주당 주도로 감사 요구안이 가결되면서 이뤄진 것이다. 국회법에 따라 국회가 감사 요구를 의결하면 감사원은 해당 사안을 무조건 감사해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>스쿨존 제한속도 30→20㎞로 강화?… 온라인서 퍼진 정보, 알고 보니</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/4TKQAXWEKBEFTFWLV7RVBYQH6A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/4TKQAXWEKBEFTFWLV7RVBYQH6A/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 02:13:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UBSLX6T4PNG4DJQAG2QVYKE4SQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;최근 온라인상에 확산한 교통 법규 관련 거짓·과장 정보. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;온라인상에 내년부터 스쿨존 제한 속도가 강화된다는 등의 내용이 담긴 거짓·과장 정보가 확산하자, 경찰청이 직접 ‘팩트체크’ 보도 자료를 내고 주의를 요구했다.&lt;br&gt;&lt;br&gt;경찰청은 16일 보도 자료를 내고 “개정 계획이 있거나 개정 중이 아닌, 허위 사실이거나 과장된 내용”이라며 “정확한 정보를 제공해 국민 불안을 해소하겠다”고 했다.&lt;br&gt;&lt;br&gt;경찰청이 이런 보도 자료를 낸 건 최근 온라인상에 확산한 ‘가짜 뉴스’ 때문이다. 앞서 온라인 커뮤니티와 소셜미디어 등에는 내년부터 스쿨존 제한 속도를 30㎞/h에서 20㎞/h로 일괄 하향하고, 전동 킥보드(PM) 운전 연령을 현 만 16세 이상에서 만 18세로 상향하는 등의 내용이 담긴 카드 뉴스가 유포됐다. 음주 운전 단속 기준을 혈중알코올농도 0.02%로 강화하고, 택시 승차를 거부할 경우 자격 정지 처분을 내린다거나, 고령 운전자 운전면허 갱신 기준을 강화한다는 등의 내용이 포함되기도 했다. &lt;br&gt;&lt;br&gt;이에 경찰은 이런 정보가 허위이거나 과장됐다며, 문항별로 ‘팩트 체크’에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CPIBI3XCYVAYJKXQUIPQDIKCYI.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 온라인에 퍼진  내용에 대해 문항별로 '팩트체크'에 나섰다. /경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우선 경찰은 스쿨존 제한 속도를 법적으로 변경할 계획이 없다며, 이미 도로교통법에 따라 일부 구간만 시속 20㎞로 제한하는 것이 가능하다고 설명했다. 또 PM 운전 가능 연령 상향이나 음주 운전 단속 기준 강화, 불법 주차 단속을 위한 차주 전화번호 제공, 자전거 도로 주정차 시 즉시 견인 조치도 고려하지 않고 있다고 했다. 아울러 신규 번호판 도입이나 고령 운전자 갱신 주기를 3년으로 단축하는 연령을 현행 75세에서 70세로 낮춘다는 것 역시 허위라고 했다.&lt;br&gt;&lt;br&gt;다만 횡단보도 접근 시 무조건 일시 정지해야 한다는 내용은 현재 스쿨존 내 신호기가 설치되지 않은 횡단보도 앞에서는 보행자 여부와 관계없이 일시 정지해야 하므로 일부 사실이라고 했다. 인공지능(AI) 무인 단속 확대에 대해서도 “현재 무인 단속 장비는 속도, 신호, 고속도로 버스전용차로 위반 등을 단속 중”이라며 “꼬리물기의 경우 지난 1일부터 서울시 강남구 국기원사거리에서 3개월 시범 운영 간 확대 예정”이라고 일부 사실이라고 했다. 다만 “차로 변경 및 안전거리 위반 행위까지 무인 단속을 확대할 계획은 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주도민 “외국인 카지노, 관광객 증가·소비 지출 도움”</title>
-      <link>https://www.chosun.com/national/regional/2025/12/17/ZHW6W2OHEFE3LARANS4EKTT4AM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/17/ZHW6W2OHEFE3LARANS4EKTT4AM/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 02:16:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQZGCNBZHFSGMNBZGBSWGOBUGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 외국인 전용 카지노./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주도민 절반 이상은 외국인 전용 카지노가 외국인 관광객 수 증가와 소비 지출 증가에 도움을 준다고 생각하는 것으로 나타났다.&lt;br&gt;&lt;br&gt;제주도는 제주도민 1000명을 대상으로 ’2025 제주 외국인 전용 카지노 도민 인식 조사’를 실시했다고 17일 밝혔다.&lt;br&gt;&lt;br&gt;조사 결과 카지노가 미치는 영향 중 외국인 관광객 수 증가에 ‘그렇다’는 응답이 50.4%, ‘그렇지 않다’ 19.1%, 관광객 체류 기간 증가에는 ‘그렇다’ 51.8%, ‘그렇지 않다’ 18.9% 등 주요 항목 모두에서 긍정 응답 비율이 부정 응답보다 높게 나타났다.&lt;br&gt;&lt;br&gt;외국인 관광객 소비 지출 증가에 영향을 준다고 응답한 비율도 ‘그렇다’ 56.4%, ‘그렇지 않다’ 16.9%로 나타났다. 제주도민의 일자리 창출(51.3%), 제주도의 재정 수입 증대(50.4%) 등에 긍정적인 영향을 준다는 응답도 절반을 넘었다.&lt;br&gt;&lt;br&gt;카지노 사업자가 우선해야 할 사회공헌 분야로는 ‘청년 일자리 창출 지원 사업’이 3년 연속 가장 높은 비중을 차지했다. 이어 제주 지역 학생 인재 양성 지원 사업과 마을 발전 지원 사업 순으로 조사됐다.&lt;br&gt;&lt;br&gt;정책 방향에 관한 의견은 규제 강화가 39.5%, 지원 강화가 30.8%로 나타났다. 이는 산업의 건전성 확보를 위한 규제와 지역 경제 활성화를 위한 지원이 균형 있게 추진되기를 바라는 것으로 분석됐다.&lt;br&gt;&lt;br&gt;카지노 산업에 대한 부정적 인식도 있었다. 도박 심리 증가와 청소년 교육 환경 침해, 지역 이미지 훼손 등 사회적 우려가 존재해 경제적 기여와 위험 요소가 공존하는 산업 특성이 반영됐다.&lt;br&gt;&lt;br&gt;제주도가 외국인 전용 카지노를 직접 관리·감독한다는 사실을 알고 있는 도민은 42.2%로 비교적 낮아 감독 체계에 대한 정보 제공 강화도 필요할 것으로 보인다.&lt;br&gt;&lt;br&gt;제주도는 이번 조사 결과를 바탕으로 카지노 산업 정보 제공 체계를 강화하고 지역사회 기여를 확대하며 사회적 우려 예방을 위한 정책을 지속적으로 추진해 나갈 계획이다.&lt;br&gt;&lt;br&gt;김양보 제주도 관광교류국장은 “카지노 산업의 투명성과 책임성을 강화하고 사회적 우려를 최소화해 청년과 지역사회에 실질적인 도움이 되는 산업 구조를 구축해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>길고양이 안전고깔에 넣고 학대… 20대 男, 징역형 집유</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/17/WJPFWQRUSFDI5IEY2FSYK3377E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/WJPFWQRUSFDI5IEY2FSYK3377E/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 02:29:48 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YNILJCX7JFD45GMW2UMC6ZEV4E.png"&gt;&lt;figcaption&gt;&lt;small&gt;길고양이 학대 모습이 담긴 CCTV 영상 캡쳐./동물자유연대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;길고양이를 안전고깔(러버콘)에 넣고 학대해 숨지게 한 20대 남성에게 징역형의 집행유예가 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사16단독 이수웅 부장판사는 동물보호법 위반 혐의로 기소된 A(22)씨에게 징역 6개월에 집행유예 2년을 선고했다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;이 판사는 또 A씨에게 80시간의 사회봉사와 40시간의 동물학대 재범 예방 강의 수강을 명령했다. &lt;br&gt;&lt;br&gt;A씨는 지난 6월 27일 오후 11시 53분쯤 인천 중구 신흥동의 한 도로에서 길고양이를 붙잡아 인근에 있던 안전고깔 안에 넣어 움직이지 못하게 한 다음, 주먹으로 때리고 발로 밟는 등 학대해 숨지게 한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 길고양이를 가둔 안전고깔에 불을 붙이고, 쓰러진 고양이를 인근 화단에 버린 것으로 조사됐다. &lt;br&gt;&lt;br&gt;이 판사는 “피고인은 길고양이를 발로 짓밟는 등 잔인한 방법으로 죽였다”며 “죄질이 매우 좋지 않다”고 했다. 이어 “자신의 잘못을 인정하고 있고, 동종 범죄나 벌금형을 초과하는 처벌을 받은 적이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 민중기 특검 직무유기 사건 공수처로 이첩</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/R2E3Y4HAYNA3RFC7YJOG7RIHCA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/R2E3Y4HAYNA3RFC7YJOG7RIHCA/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 02:37:12 +0000</pubDate>
-      <content:encoded>여당 정치인들의 통일교 금품 수수 의혹을 수사하는 경찰이 민중기 특별검사의 직무유기 고발 사건을 고위공직자범죄수사처로 이첩했다. 민 특검은 윤영호 통일교 전 세계본부장을 수사하는 과정에서 여당 정치인들에게도 금품을 제공했다는 진술을 지난 8월 받고도 수사에 착수하지 않아, 네 달간 수사를 뭉갰다는 비판을 받는다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QNDY72XXBJDV7EHDRPYTIFGKJQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령의 부인 김건희 여사 의혹 관련 사건을 맡은 민중기 특별검사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 경찰에 따르면 경찰청 국가수사본부 특별전담수사팀은 민 특검과 수사팀에 대해 직무유기 혐의로 접수된 고발 사건을 지난 16일 공수처로 이첩했다. 국민의힘은 지난 11일 통일교 금품수수 의혹과 관련해 민중기 특검과 수사팀을 직무유기 혐의로 서울경찰청에 고발했고 특별수사팀이 이를 넘겨받았다.&lt;br&gt;&lt;br&gt;경찰이 이 사건을 공수처에 이첩한 이유는 피고발인에 민중기 특검과 수사팀에 파견된 검사들이 포함돼 있기 때문으로 전해졌다. 이에 따라 이 사건이 공수처 수사 범위에 포함되는지 공수처의 유관 해석을 받아보겠다는 것이다.&lt;br&gt;&lt;br&gt;다만 공수처가 이 사건을 실제로 넘겨받아 수사할지는 미지수다. 공수처가 이 사건이 수사 범위에 포함되지 않는다며 사건을 돌려보낼 수도 있다는 것이다. 경찰은 사건이 돌아올 경우 민 특검에 대해 정식으로 수사에 착수할 방침인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>박세리 부친, ‘사문서 위조 국제골프학교 추진’ 혐의로 징역형 집유</title>
       <link>https://www.chosun.com/national/national_general/2025/12/17/HM4B4WWWAJB5XK4KFGAUMW5P5M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/HM4B4WWWAJB5XK4KFGAUMW5P5M/</guid>
@@ -922,15 +931,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/WC3FNB3IT5F4XDSRBBYAONKXBI.jpg?auth=07d6f133e4d46f9d7c39f348f5cdc374207add5a8946aedb1e14c0ff27b8e899&amp;smart=true&amp;width=860&amp;height=479" type="image/jpeg" height="479" width="860">
         <media:description type="plain">방송인 조세호와 김나영./MBC ‘세바퀴’</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>檢, 백해룡이 신청한 세관·검찰 압수수색 영장 반려</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/6TRCDB7RMFBWRNKM5BXKSI2Z6Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/6TRCDB7RMFBWRNKM5BXKSI2Z6Q/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 01:03:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2CAV556CH5CLLLFEQTI5WM6PJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백해룡 경정과 임은정 동부지검장./뉴스1·뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘세관 마약 수사 외압 의혹’을 수사 중인 서울동부지검 합동수사단(합수단)이 백해룡 경정이 세관·검찰 등에 대해 신청한 압수수색 영장을 지난 16일 모두 반려했다. 백 경정은 17일 동부지검의 영장 불청구 결정서를 언론에 공개하며 반발하고 나섰다.&lt;br&gt;&lt;br&gt;이날 배포된 결정서에 따르면, 동부지검은 백 경정이 제시한 압수수색 영장 신청 사유에 대해 “수긍하기 어려운 추측 외 근거가 전혀 없다”고 했다. 앞서 지난 9일 백 경정은 인천공항세관·김해세관·서울본부세관과 대검찰청·서울중앙지검·인천지검 등 6곳에 대한 압수수색 영장을 신청한 바 있다.&lt;br&gt;&lt;br&gt;동부지검은 ‘마약 밀수범의 공범을 알고도 검찰이 방조했다’는 백 경정 주장에 대해 “2023년 2월 5일 밀수범을 검거하면서 (검찰이) 공범의 존재를 알았다는 사실이 먼저 소명돼야 한다”며 “해당 밀수범은 세관의 ‘사전 승객 정보 시스템(APIS)’를 통해 검거된 것으로 당시 검찰이 공범의 존재를 당연히 알았다고 보기 어렵다”고 했다. 이어 “막연한 추측 외에 검찰이 운반책들과 공모해 고의로 마약 밀수 범행을 방조했다거나 직무를 유기했다는 사실을 뒷받침할 자료가 없다”고 했다.&lt;br&gt;&lt;br&gt;동부지검은 세관에 대한 압수수색 사유에 대해서도 백 경정의 소명이 부족하다고 판단했다. 동부지검은 “지난 9일 혐의없음 처분한 사건의 범죄사실과 중복되므로 동일한 피의자들에 대한 중대한 인권침해인 이중, 중복수사에 해당한다”며 “수사를 총괄하는 서울동부지검장이 이 사건에 대해 공정 의무, 이해충돌 우려 등을 이유로 백 경정팀의 수사 대상이 아님을 명확히 지시했음에도 이를 위반한 수사에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;또 마약이 숨겨진 나무도마가 세관을 통과한 것에 대해서도 “마약을 숨긴 특송품이 통관됐다는 사실 외에 검사관들이 나무도마에 마약이 숨겨진 사실을 알면서도 고의로 이를 통관시켰다고 볼 만한 어떠한 근거도 없고 실패한 단속을 넘어 성공한 공모로 나아갔음을 인정할 어떠한 증거도 없다”고 했다.&lt;br&gt;&lt;br&gt;백 경정은 이날 별도 입장문을 내고 “검찰이 마약 운반책의 자백은 무시하고 영상자료는 감추고 변명만 늘어놓고 있다”며 “합수단장은 수사가 아닌 재판을 하는 것”이라고 반발했다. 그러면서 “말레이시아 조직원 36명의 입출국 시 영상과 필로폰 은닉 나무도마 물품수입 신고서, 운반책들의 APIS 지정 및 해제 이력 등을 ”구구절절 여러 말 할 것 없이 공개하라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>김건희특검, ‘로저비비에’ 선물 김기현 의원 자택·의원실 압수 수색</title>
