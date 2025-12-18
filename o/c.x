@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“곰팡이 3000마리 거주”...당근에 나온 역세권 쓰리룸 매물 화제</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/18/GV2KVBGXRVHVFEWV5WQ4ALV2G4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/GV2KVBGXRVHVFEWV5WQ4ALV2G4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 13:43:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4UXKDJEMFCBDPIBT4EPXDG3GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중고거래 플랫폼 당근마켓에 올라온 '역세권 쓰리룸 빌라' 매물 글./X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고 거래 플랫폼 당근에 2800만원짜리 ‘역세권 쓰리룸 빌라’가 “곰팡이 3000마리 거주 중”이라는 설명과 함께 올라오며 온라인에서 화제다.&lt;br&gt;&lt;br&gt;18일 여러 온라인 커뮤니티와 소셜미디어(SNS)에는 ‘당근에 올라온 미친 부동산 매물’이라는 제목의 글이 확산됐다. 해당 글에는 매물 화면을 캡처한 사진이 함께 첨부됐다. 관련 글은 이날 오전 기준 조회 수 230만회를 넘기며 폭발적인 관심을 끌었다. &lt;br&gt;&lt;br&gt;사진 속 작성자는 “단돈 2800만원에 역세권 스리룸 구옥 빌라 매매”라고 소개하며 “곰팡이 3000마리 거주 중”이라는 설명을 달았다. 또 “내부 수리 잘하시는 분이 매수해 가달라”고 적었다.&lt;br&gt;&lt;br&gt;공개된 내부 사진에서는 벽면 곳곳에 곰팡이가 번져 검은색 벽지처럼 보였고, 바닥도 심하게 벗겨진 상태였다. 해당 매물은 인천 부평에 있는 역세권 빌라로, 방 3개 구조와 교통 접근성을 장점으로 내세웠다.&lt;br&gt;&lt;br&gt;이를 본 네티즌의 반응은 엇갈렸다. 네티즌들은 “폐가 수준인데 저걸 파냐” “3000마리 수준이 아니다. 흉가다” “창고로도 못 쓰겠다” “드라마 ‘지옥’ 세트장 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;반면 다른 네티즌들은 “리모델링할 시간과 여윳돈이 있으면 싸게 먹힐 듯” “가격이 저렴하기 때문에 상태 안 좋은 건 어느 정도 감안해야 한다” “역세권에 저 정도 가격이면 수리해서 살 만하다” “재개발 확정 지역이면 리모델링 후 거주도 나쁘지 않다” 등의 긍정적인 의견을 내놨다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>페이커 “머스크가 제안한 AI와 대결, 이길 수 있다”</title>
+      <link>https://www.chosun.com/national/people/2025/12/18/ZZDQV6KRHRG3NGSBO37TQSB2SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/18/ZZDQV6KRHRG3NGSBO37TQSB2SI/</guid>
+      <dc:creator>양승수 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 11:58:37 +0000</pubDate>
+      <content:encoded>e스포츠의 ‘GOAT(Greatest Of All Time·역대 최고 선수)’로 꼽히는 ‘페이커’ 이상혁(29)이 “사실상 T1에서 남은 프로 생활 전부를 보낼 것이라 생각한다”며 2029년까지 계약을 연장한 소회를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GGMRTHBSDIMLFGYZGIZRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LCK T1팀 주장 이상혁(페이커)이 18일 서울 종로구 롤파크 LCK(리그 오브 레전드 챔피언스 코리아) 아레나에서 열린 기자 간담회에서 포토타임을 갖고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2013년 T1에 입단한 그는 일명 ‘롤드컵’으로 불리는 ‘리그 오브 레전드(LoL·롤) 월드 챔피언십’에서 6차례 우승한 레전드다. 지난달 롤드컵 우승으로 대회 3연패(連覇) 위업도 이뤘다. T1과 4년 재계약을 맺으며 17년간 한 팀에 몸담게 된 그는 18일 서울 종로구 그랑서울에서 열린 기자 간담회에서 “T1은 금전적 보상 외에도 내게 중요한 것들을 많이 챙겨줬다”며 “개인적으로는 이 팀에서 4년 동안 팬들에게 더 좋은 영감을 주고 싶었다”고 말했다. &lt;br&gt;&lt;br&gt;이상혁은 프로게이머로는 노장에 속하는 나이이지만, 오래 선수 생활을 이어가겠다는 의지도 밝혔다. 그는 “나이가 들더라도 어느 정도 기량을 유지할 수 있다는 걸 보여준다면 의미가 있을 것”이라고 했다. 우리 사회에서 ‘롤 모델’로 통한다는 얘기에는 “팬들에게 보답하기 위해 스스로 관리하는 것이 내 책임”이라며 “부담이라기보다는 축복이라 생각한다”고 답했다. &lt;br&gt;&lt;br&gt;이상혁은 최근 일론 머스크가 제안한 인공지능(AI) 모델 그록과의 대결에도 기대감을 나타냈다. 그는 “AI나 빅테크 기업이 게임 산업에 관심을 갖는 건 긍정적”이라며 “체스는 AI에 정복당한 지 오래됐지만 그래도 내년 대결에서는 저희가 이기지 않을까 생각이 든다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“의대 갈래요” SKY 수시 등록 포기자, 5년 새 최고치</title>
+      <link>https://www.chosun.com/national/education/2025/12/18/S4JB5FK3XVGYDKA7RFZZXYF7AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/18/S4JB5FK3XVGYDKA7RFZZXYF7AA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 11:00:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRW7P2PRB3HJWF5IPM2CSHYMSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 의과대학 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대입 수시 모집에서 이른바 SKY(서울대·고려대·연세대) 대학에 최초 합격하고도 등록을 포기한 수험생이 2400명을 넘긴 것으로 나타났다. 최상위권 수험생들의 의약학 계열 쏠림이 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;18일 종로학원에 따르면 2026학년도 서울대·연세대·고려대 수시 모집 최초 합격자 가운데 중복 합격으로 인한 등록 포기자는 2415명으로 집계됐다. 세 대학 수시에서 등록 포기자가 2400명대를 기록한 것은 최근 5년 중 가장 높은 수치다. 수시는 총 6회 지원이 가능하다. 수시 최초 합격 이후 등록을 하지 않았다는 것은 중복 합격한 다른 대학을 택했다는 뜻이다.&lt;br&gt;&lt;br&gt;대학별로 보면 서울대 131명, 연세대 1025명, 고려대 1259명이 등록을 포기했다. 특히 연세대와 고려대는 등록 포기 인원이 수시 모집 정원의 각각 46.3%, 46.6%에 달했다.&lt;br&gt;&lt;br&gt;계열별로는 자연 계열에서 등록 포기자가 1305명으로 전년보다 4.9%(61명) 증가했다. 최근 5년 기준으로 자연계열 최초 합격자 가운데 등록 포기 비율이 가장 높았던 해로 집계됐다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “2026학년도 의대 모집 정원 축소에도 여전히 SKY 대학 자연계열에서 상당 부분 의학계열 중복합격으로 인해 빠져나간 것으로 추정된다”며 “여전히 의학계열 선호도가 높은 수준을 유지하고 있는 것으로 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>여의도역 공사장 붕괴 이어, 잠실대교 공사장선 크레인 전도… 1명 심정지</title>
       <link>https://www.chosun.com/national/incident/2025/12/18/QJ5EOCGOOZF7DFOUGDLI2ULMNQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/QJ5EOCGOOZF7DFOUGDLI2ULMNQ/</guid>
@@ -906,33 +933,6 @@
       <description/>
       <pubDate>Wed, 17 Dec 2025 07:20:03 +0000</pubDate>
       <content:encoded>검찰이 8년 동안 한국전력공사가 발주한 6700억원 규모의 설비 장치 입찰에 담합한 업체 임직원들에 대한 신병 확보에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V3YQCNN6CRJKBPJUFZYJ2PM2DQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 15일 서울 서초구 서울중앙지방검찰청에 직원들이 오가고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;17일 본지 취재를 종합하면 서울중앙지검 공정거래조사부(부장 나희석)는 지난 15일 LS일렉트릭, 일진전기 등 전력기기 제조·생산업체 임직원 5명에 대해 공정거래법 위반 혐의로 구속영장을 청구했다. 함께 담합 혐의를 받는 HD현대일렉트릭 등 일부 업체는 이번 영장 청구 대상에서 제외됐다. &lt;br&gt;&lt;br&gt;이들은 한국전력이 2015~2022년 가스절연개폐장치 구매를 위해 실시한 6700억원 규모의 일반경쟁·지역제한 입찰 134건에서 사전에 물량을 배분하기로 합의하고 차례로 낙찰받은 혐의를 받는다. 가스절연개폐장치는 발전소나 변전소에 설치돼 과도한 전류를 신속히 차단해 전력 설비를 보호하는 장치다. &lt;br&gt;&lt;br&gt;공정위는 이들 업체가 벌인 담합 규모가 약 5600억원이라고 봤지만, 검찰에선 담합액을 이보다 많은 6700억원대로 파악한 것으로 알려졌다. 검찰은 업체 간 담합이 전기요금 상승으로 이어졌다고 의심한다.&lt;br&gt;&lt;br&gt;앞서 공정거래위원회는 담합에 참여한 총 10개 사업자에 작년 12월 시정명령과 과징금 391억원을 부과하기로 했다. 이 중 6개 사업자를 고발하면서 검찰 수사가 시작됐다. 검찰은 지난 10월 이들 업체와 사건 관계자들을 압수 수색하며 본격적인 수사에 나섰다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘백현동 수사무마 금품 수수’ 곽정기, 2심서 징역형 집행유예</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/17/F3ZTHJCHFJBRVDCIAUR2TOXGPQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/17/F3ZTHJCHFJBRVDCIAUR2TOXGPQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 07:31:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FR3CYADQGQLDYRUCPRVDU5DLOY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 총경 출신 곽정기 변호사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘백현동 개발 비리 의혹’ 수사를 무마해주겠다며 의뢰인에게 거액을 받은 혐의로 기소된 경찰 총경 출신 곽정기(사법연수원 33기) 변호사에게 2심 법원이 징역형 집행유예를 선고했다.&lt;br&gt;&lt;br&gt;서울고법 형사6-3부(재판장 이예슬)는 17일 변호사법 위반 혐의를 받는 곽 변호사에게 징역 2년 6개월에 집행유예 4년을 선고했다. 곽 변호사는 1심에서 벌금 1000만원을 받았는데 항소심에서 더 무거운 형을 받게 됐다. 이날 재판부는 “피고인은 고위 경찰 간부였던 전관 경력을 이용해 사건을 수임하고 대가를 지급받았다”며 “사회적 신뢰를 훼손하고 ‘전관예우’ 등 그릇된 인식을 사회 전반에 만연하게 해 비난 가능성이 높다”고 지적했다. &lt;br&gt;&lt;br&gt;곽 변호사는 2022년 6~7월 백현동 개발비리 의혹으로 경찰 수사대상이 된 정바울 아시아디벨로퍼 회장으로부터 사건 수임료 7억여 원을 받은 뒤 이와 별도로 ‘경찰 윗선에 인사를 해야 한다’며 청탁 명목으로 현금 5000만원을 받아 챙긴 혐의를 받는다. 곽 변호사는 경찰청 특수수사과장과 서울경찰청 지능범죄수사대장을 지내고 2019년 변호사로 개업했다. 이후 과거에 같이 근무했던 현직 박모 경감에게 밥과 술을 사주거나 골프 접대를 해주면서 경찰 수사 단계 사건을 소개받은 것으로 조사됐다. 곽 변호사는 정 대표 사건을 소개해준 박 경감에게 수표로 400만원을 준 혐의도 받고 있다. &lt;br&gt;&lt;br&gt;앞서 1심 재판부는 5000만원을 받은 혐의는 무죄로 보고 박 경감에게 소개료를 준 혐의만 유죄로 판단했다. 정 대표 증언에 신빙성이 부족하다는 이유였다. 그러나 이날 2심 재판부는 “곽 변호사는 추가 수임료라면서 변호사 계약서 수임료를 수정하거나 재작성하지 않았고 수임료로 지급받은 7억7000만원과 달리 5000만원에 대해선 회계 처리하지 않았다”며 “수사책임자 인사 명목과 로비 자금으로 현금 5000만원을 받은 사실이 인정된다”고 했다. 한편, 박 경감은 곽 변호사에게 소개료를 받은 등 혐의로 함께 기소돼 이날 1심과 같이 벌금 100만원과 추징금 635억여 원을 선고받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, 보이스피싱범 목소리 공개 수집 나선다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/OW3CVISEZJEUHHXU2SKYI62G6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/OW3CVISEZJEUHHXU2SKYI62G6I/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 06:38:25 +0000</pubDate>
-      <content:encoded>경찰이 보이스피싱 피해를 줄이기 위해 보이스피싱범의 목소리 정보를 제보받는 캠페인에 나섰다. 경찰청은 제일기획과 함께 18일부터 내년 2월 11일까지 8주간 보이스피싱 목소리 제보 캠페인 ‘보이스 원티드’를 진행한다고 17일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4DQYZWMFQTIZLBMNRGGYJTGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제일기획과 경찰청이 기획한 보이스피싱 목소리 제보 캠페인 '보이스 원티드(voice wanted)' 포스터. /제일기획&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 보이스피싱 범죄 유형은 갈수록 다양해졌고, 수법도 교묘해지고 있다. 여기에 더해 쿠팡과 통신사 등에서 대규모로 개인정보가 유출됨에 따라 이를 이용한 2차 피해가 발생할 가능성도 커지고 있다. 이에 따라 경찰이 보이스피싱 범인의 목소리 정보를 수집해 데이터베이스로 만들고, 이를 통해 범죄자 특정에 나서기로 한 것이다. 경찰 관계자는 “보이스피싱범이 경찰·검찰은 물론 은행 직원, 카드 배송기사 등 다양한 신분을 사칭하지만, 이들의 목소리 지문(성문)은 바꿀 수 없다는 데 착안했다”고 했다. &lt;br&gt;&lt;br&gt;이에 따라 경찰청은 제일기획과 협업해 보이스피싱 수법을 국민들에게 알리고 범인의 목소리를 제보받기 위한 가상 수배 전단 포스터를 제작했다. 특히 최근 집중적으로 신고된 보이스피싱 범죄 수법 6개 유형을 추렸다. 주요 수법은 검찰 사칭, 저리 대출 빙자, 납치 빙자, 카드 배송 빙자, 마사지업소 사칭, 수사관 사칭 등이다. &lt;br&gt;&lt;br&gt;이들 포스터에는 경찰청 산하 전기통신금융사기 통합대응단 홈페이지에 접속할 수 있는QR 코드가 포함돼 있다. 보이스피싱 시도를 당했거나 실제 피해를 입은 국민은 QR 코드를 통해 홈페이지에 접속해서 자신과 통화한 보이스피싱범의 음성 파일을 제보할 수 있다. 이렇게 보이스피싱범의 음성 데이터를 확보해 범인 특정과 범죄 조직 확인 등에 사용하겠다는 게 경찰의 계획이다.&lt;br&gt;&lt;br&gt;경찰은 이런 포스터 총 1만4000부를 인쇄·배포하고, 전국 259개 경찰관서 알림 게시판과 소셜미디어 등에서도 배포한다. 향후 금융기관, 통신사 등과도 협업해 캠페인을 적극적으로 알린다는 계획이다. 유재성 경찰청장 직무대행은 “이번 캠페인에 국민 전체가 참여함으로써 보이스피싱으로부터 안전한 ‘안심 공동체 실현’에 도움이 될 것으로 기대한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>원룸 4채로 138억 전세 사기 친 공범 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/NJZ2RWRMXNATZLXLFCIBNQTMIE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/NJZ2RWRMXNATZLXLFCIBNQTMIE/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 06:37:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77IHNI2VP7UCHG4P3L43NGBXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법 입구/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘무자본 갭투자’로 사들인 원룸 4채로 138억원의 전세 사기를 친 일당이 징역형을 선고받았다. 이들은 1심에서 징역 10년을 선고받은 임대업자 A씨의 공범들이다. &lt;br&gt;&lt;br&gt;서울남부지법 형사12단독 서영우 판사는 사기 혐의로 기소된 B씨에게 징역 3년을 선고했다. B씨는 주범 A씨의 배우자이자 건물주다. 재판부는 배우자 A씨가 복역 중이기 때문에 B씨가 재산 처분 등의 업무를 담당하는 것이 피해 회복 관점에서 도움이 된다고 판단해 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;이 밖에 건물 관리를 담당한 C씨에게는 징역 3년을, 공갈 혐의로 기소된 D씨에게는 징역형 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;이들은 지난 2017년 2월부터 2023년 10월까지 서울 영등포구·금천구·동작구 등에서 세입자 155명에게서 전세보증금 135억원과 전세자금 대출금 3억원을 빼돌린 혐의를 받는다. ‘깡통 전세’를 놓고 보조금을 받아 매매 대금을 충당했다.&lt;br&gt;&lt;br&gt;한편 앞서 주범 A씨는 1심 판결에 불복했으나 지난 7월 2심에서 기각됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“조세호가 소개한 男, 며칠 뒤 사기로 구속”...김나영, 과거 발언 재조명</title>
