@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>여의도역 공사장 붕괴 이어, 잠실대교 공사장선 크레인 전도… 1명 심정지</title>
+      <link>https://www.chosun.com/national/incident/2025/12/18/QJ5EOCGOOZF7DFOUGDLI2ULMNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/QJ5EOCGOOZF7DFOUGDLI2ULMNQ/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 08:34:35 +0000</pubDate>
+      <content:encoded>잠실대교 남단 나들목 공사 현장에서 크레인이 전도돼 작업자 1명이 깔리는 사고가 18일 발생했다.&lt;br&gt;&lt;br&gt;소방 등에 따르면, 이날 오후 3시 20분쯤 서울 송파구 잠실대교 남단 나들목 연결체계 공사 현장에서 27t 크레인이 넘어지며 작업자 A(66)씨가 깔렸다. A씨는 심정지 상태로, 소방은 42명을 투입해 A씨를 구조 중이다.&lt;br&gt;&lt;br&gt;송파구는 사고 발생 후 안전 문자를 통해 “크레인 전도로 인해 올림픽대로 강일IC와 잠실역 방향 진입 구간에서 교통혼잡이 발생했으니 해당 구간을 우회해달라”고 공지했다.&lt;br&gt;&lt;br&gt;이날 오후 1시 22분쯤에는 서울 여의도역 인근 신안산선 공사 현장에서 철근이 무너져 작업자 1명이 사망하고 6명이 경상을 입었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의대 정원 결론도 안 났는데... 전남道 “최소 100명, 대통령실과 합의” 발표 논란</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/18/5ZXZGP6S6ZETDCRBCOMA3EY4LE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/18/5ZXZGP6S6ZETDCRBCOMA3EY4LE/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 09:15:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RXWJOH6QH5BWZOG7X3XGELKOIA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 17일 광주에서 열린 '전남 통합대학 국립의대 대학 신설 추진 간담회'에서 (왼쪽부터) 송하철 국립목포대 총장, 김영록 전남도지사, 김용범 대통령 정책실장, 이병운 국립순천대 총장이 기념사진을 촬영하고 있다./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 전체 ‘의대 정원’ 규모가 정해지지도 않은 상황에서, 전남도가 2027년 신설되는 ‘전남 통합대 국립의대’ 정원을 최소 100명 이상 배정하기로 대통령실과 합의했다고 발표해 논란이 일고 있다. 특정 의대에 정원 100명을 새로 배정하면 다른 의대에서 그만큼의 정원을 축소하거나, 아예 의대 정원 전체를 늘려야 하는 상황이어서 의료계의 반발도 예상된다.&lt;br&gt;&lt;br&gt;앞서 전남도는 지난 17일 배포한 보도자료에서 “김용범 대통령실 정책실장 주재로 김영록 전남지사, 송하철 국립목포대 총장, 이병운 국립순천대 총장이 회동을 갖고 ‘전남 통합대 국립의대’를 2027학년도에 신설토록 하고, 정원을 최소 100명 이상 배정하는 것으로 합의했다”고 밝혔다.&lt;br&gt;&lt;br&gt;2027년 의대 정원 문제는 의료 분야 전문가들이 주축인 ‘의료 인력 추계위원회’가 이달 중으로 국내에 필요한 미래 의사 수 추산을 모두 마치면, 이를 토대로 주무 부처인 보건복지부가 내년 1월쯤 최종 결정하도록 돼 있다. 아직 추계위도 결과를 내놓지 않은 상태인데, 특정 의대 정원 수가 결정됐다고 나온 셈이다.&lt;br&gt;&lt;br&gt;‘최소 100명’이라는 규모도 논란거리다. 현재 전국 40개 의대 중 정원 100명을 넘는 학교는 11곳 뿐이다. 이른바 빅5 병원을 부속·협력 병원으로 둔 의대 중에서도 가톨릭대(93명), 성균관대(40명), 울산대(40명)는 정원이 100명이 되지 않는다. 100명 이상 정원을 가진 의대가 생겨나면 초대형 의대 하나가 새로 생기는 셈이다. 이 정도 인원을 새로 배정하기 위해 다른 의대의 정원을 줄인다면 해당 의대들의 반발은 당연히 따라올 전망이다. 만약 별도의 정원을 만들어 전체 정원을 늘린다면 지난 정부 의정 갈등의 뇌관이었던 ‘의대 증원’ 문제를 맞닥뜨릴 수밖에 없게 된다. 추계위 위원 중 한 명은 “추계위에선 특정 대학의 정원 관련 얘기는 전혀 오간 적이 없다”며 “복지부에선 추계위 추산과 별도의 정원으로 생각하는 것으로 보이는데 이 역시 반발이 예상된다”고 말했다.&lt;br&gt;&lt;br&gt;전남도의 발표에 주무 부처인 보건복지부와 교육부는 당황스러워하고 있다. 복지부 관계자는 “전남도의 발표를 앞두고 대통령실에서 사전에 얘기된 게 전혀 없다”며 “아직 전남 지역은 물론, 의대 정원 관련해선 정해진 게 전혀 없다”고 했다. 교육부도 2027년 신설은 승인 행정 절차 상으로 어렵다는 취지로 대통령실에 이미 보고를 한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;의료계에선 김 실장이 내년 광주시장이나 전남도지사 출마를 염두에 두고 해당 지역의 민심을 미리 살핀 것 아니냐는 지적도 나온다. 김 실장은 최근 지방선거 출마 관련 질문에 “저와는 무관한 일”이라고 했지만, 정치권 등에선 출마설이 꾸준히 제기되고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정희원 스토킹 혐의’ 前직원 측 “지위 기반 성적 폭력…저작물 무단 이용”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/18/HKZS7FDCHJEQBI6Q7VRYWCM7SI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/HKZS7FDCHJEQBI6Q7VRYWCM7SI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 18 Dec 2025 08:25:14 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M7ZBD7RRPZF7NK4MLNFL4XGND4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 초대 건강총괄관으로 위촉된 정희원 박사. /서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정희원 저속노화연구소 대표가 함께 일했던 연구원 A씨를 스토킹 혐의로 고소한 가운데, A씨 측이 공식 입장을 발표했다. A씨 측은 저작권 논의를 정 대표가 거부했고, 문제 해결을 위해 직접 찾아간 것을 정 대표가 스토킹으로 신고했다고 주장했다. &lt;br&gt;&lt;br&gt;A씨의 법률 대리인은 18일 입장문을 통해 “본 사안은 스토킹이 아닌, 고용·지위 기반 관계에서 발생한 위력에 의한 성적인 폭력 문제”라며 “사용자가 자신의 지위를 이용해 반복적으로 성적인 요구를 했고, 피해자는 해고가 두려워 요구에 응할 수밖에 없었다”고 했다. &lt;br&gt;&lt;br&gt;A씨 측은 정 대표의 추천과 영향력 아래 위촉연구원 계약을 맺고 일했지만, 실제로는 연구 지원 외에 정 대표 개인 소셜미디어(SNS) 계정의 기획·운영, 저속노화 관련 온라인 커뮤니티의 개설·관리 업무까지 맡았다고 밝혔다. 해당 커뮤니티에는 약 7만명이 가입돼 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨 측은 근무 기간 전반에 걸쳐 정 대표가 자신의 성적 욕구와 취향에 맞는 특정 역할 수행을 “지속적으로 요구”했다고도 했다. 요구는 A씨의 근무 기간 전반에 걸쳐 시시때때로 반복적으로 이루어졌고, 장소 또한 병원 연구실·숙박업소·피해자 주거지 등 여러 공간에 걸쳐 있었다는 주장이다. &lt;br&gt;&lt;br&gt;A씨 측은 “이러한 요구를 수용하는 것이 싫었지만, 해고가 두려워 응할 수밖에 없었다”며 “A씨가 거부 의사를 표시하자 정 대표는 자살 가능성, 사회적 낙인, 해고 가능성 등을 언급하며 피해자의 의사결정 능력을 사실상 압도했다. 이는 명백한 위력에 의한 성적 요구”라고 밝혔다.&lt;br&gt;&lt;br&gt;정 대표가 언급한 ‘이혼 종용’ 주장에 대해서도 반박했다. A씨 측은 “피해자가 정 대표에게 이혼을 요구한 사실은 없으며, 오히려 정 대표가 배우자와 처가에 대한 불만과 비난을 지속적으로 토로해 A씨가 이를 멈춰달라고 요청한 적이 있다”고 했다. 그러면서 이혼 요구를 거론한 정 대표의 발언은 사실 왜곡이며 “전형적인 2차 가해”라고 주장했다. &lt;br&gt;&lt;br&gt;저작권 문제도 제기됐다. A씨 측은 “피해자가 작성한 원고가 사전 동의 없이 정 대표의 단독 저서에 그대로 사용됐다”며 “이는 단순한 참고나 편집상의 유사성 문제가 아니라, 저작물이 무단으로 이용된 사안임을 객관적 자료로 입증할 수 있다”고 밝혔다. 저작권 논의를 정 대표가 거부했고, 문제 해결을 위해 직접 찾아간 것을 정 대표가 스토킹으로 신고했다는 취지다.&lt;br&gt;&lt;br&gt;경찰 신고 이후 내려진 잠정 조치와 관련해서는 “법원이 스토킹 사실을 인정했다는 의미가 아니다”라며 “신고가 접수되면 절차상 이뤄지는 임시적 조치에 불과하다”고 했다. 스토킹 혐의가 확정된 것처럼 해석되는 것은 부당하다는 주장이다.&lt;br&gt;&lt;br&gt;A씨 측은 “자극적인 공방이나 사생활 폭로를 원하지 않는다”면서도 “사건의 본질을 개인적 갈등이나 스토킹 프레임으로 축소하는 것은 심각한 왜곡”이라고 했다. 이어 “사실관계를 왜곡한 주장과 일방적 언론 대응이 이어지고 있는 가운데, A씨는 더 이상 입장 표명만으로 문제를 정리할 수 없다고 판단하고 있으며 저작권 침해, 무고, 명예훼손 등과 관련한 형사 고소를 포함한 법적 대응에 나설 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;정 대표는 앞서 17일 입장문을 통해 A씨가 지난해 9월부터 자택을 찾아오거나 협박성 편지를 보내는 등 괴롭힘이 이어졌다며 스토킹 혐의로 고소할 예정이라고 밝혔다. 다만 지난해 3월부터 올해 6월 사이 A씨와 일시적 교류가 있었던 사실은 인정하면서도, ‘저속노화’ 개념은 자신이 만들었고 저서 집필에 A씨가 상당 부분 참여했다는 주장도 사실이 아니라고 반박했다.&lt;br&gt;&lt;br&gt;정 대표는 A씨가 수차례 애정을 표현했고, 차량 동승 중 운전 중인 상황에서 일방적 신체 접촉이 있었다고 주장했다. 또 A씨가 마사지를 해주겠다며 본인이 예약한 숙박업소로 데려가 신체 접촉을 시도한 사실은 있으나, 성관계 등 육체적 관계는 없었다고 밝혔다.&lt;br&gt;&lt;br&gt;정 대표는 서울대 의대를 졸업하고 서울아산병원 노년내과에서 근무했던 의사로, 방송과 강연 등을 통해 ‘저속노화 식단’을 알리며 인지도를 얻었다. 현재 저속노화연구소 대표를 맡고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>철도노조, 23일부터 총파업 예고</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/18/JR6Z6P7TNVDWNHJBH5JNZNLPDQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/18/JR6Z6P7TNVDWNHJBH5JNZNLPDQ/</guid>
@@ -908,24 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/77IHNI2VP7UCHG4P3L43NGBXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지법 입구/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘무자본 갭투자’로 사들인 원룸 4채로 138억원의 전세 사기를 친 일당이 징역형을 선고받았다. 이들은 1심에서 징역 10년을 선고받은 임대업자 A씨의 공범들이다. &lt;br&gt;&lt;br&gt;서울남부지법 형사12단독 서영우 판사는 사기 혐의로 기소된 B씨에게 징역 3년을 선고했다. B씨는 주범 A씨의 배우자이자 건물주다. 재판부는 배우자 A씨가 복역 중이기 때문에 B씨가 재산 처분 등의 업무를 담당하는 것이 피해 회복 관점에서 도움이 된다고 판단해 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;이 밖에 건물 관리를 담당한 C씨에게는 징역 3년을, 공갈 혐의로 기소된 D씨에게는 징역형 집행유예를 선고했다. &lt;br&gt;&lt;br&gt;이들은 지난 2017년 2월부터 2023년 10월까지 서울 영등포구·금천구·동작구 등에서 세입자 155명에게서 전세보증금 135억원과 전세자금 대출금 3억원을 빼돌린 혐의를 받는다. ‘깡통 전세’를 놓고 보조금을 받아 매매 대금을 충당했다.&lt;br&gt;&lt;br&gt;한편 앞서 주범 A씨는 1심 판결에 불복했으나 지난 7월 2심에서 기각됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>KPGA 前 임원, ‘직장 내 괴롭힘’으로 징역 8개월 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/AMP4IZOVGZASTJOGKI5MWSQHM4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/AMP4IZOVGZASTJOGKI5MWSQHM4/</guid>
-      <dc:creator>이태동 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 06:50:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YT7CDTYOKBQ2QSR3SA3XHTEV4A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KPGA 노조원들이 지난 8월 서울 서대문구 사무실에서 'KPGA 부당징계 및 언론탄압 실태 폭로' 기자회견'을 열었다. /KPGA 노조&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘직장 내 괴롭힘’ 가해자로 인정돼 한국프로골프협회(KPGA)에서 해임당한 전직 임원이 법원에서도 실형을 선고받았다. &lt;br&gt;&lt;br&gt;서울동부지법 형사5단독 양진호 판사는 지난 16일 강요, 모욕, 정보통신망법 위반 등 혐의로 재판에 넘겨진 KPGA 전 임원 A씨에게 징역 8개월을 선고했다고 KPGA 노조가 17일 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;양 판사는 “A씨는 직장 내 권력 관계를 이용해 반복적으로 범행을 저질렀고, 피해자에게 심각한 고통을 가했다”고 양형 이유를 밝혔다. 다만 방어권 보장 차원에서 법정 구속은 하지 않았다. &lt;br&gt;&lt;br&gt;KPGA 프로 출신인 임원 A씨는 장기간 직원 B씨에게 욕설, 신변 위협, 인신 공격 등을 이어온 사실이 작년 말 노조를 통해 드러났다. B씨가 사내에 먼저 피해 사실을 알린 뒤 노조가 올 1월 A씨를 형사 고소했고, A씨는 지난 7월 협회에서 해임됐다. &lt;br&gt;&lt;br&gt;노조는 “A씨는 각서를 강요하고, 부당하게 퇴사 압박을 가했으며, 과도하게 경위서·시말서 등을 받아내고 노조 탈퇴를 종용한 일도 있다”고 밝혔다. &lt;br&gt;&lt;br&gt;노조는 이 사건이 알려진 이후 자체 전수 조사 결과를 통해 직원 10여 명이 비슷하게 직장 내 괴롭힘 피해를 본 것으로 확인했다고 밝혔다. 이들 중 일부는 현재도 정신과 치료를 이어가고 있다고 한다. &lt;br&gt;&lt;br&gt;일부 직원은 경위서·시말서가 근거가 돼 견책, 해고 등 징계를 받기도 했다고 노조는 주장했다. 협회에서 해고된 일부 직원은 지난 9월 경기지방노동위원회에 부당해고 구제 신청을 했고, 다음 달로 예정된 판정을 기다리고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연매협 “박나래 행위, 고질적인 악습…사실이면 모든 조치 취할 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/17/HHRXKVFO5REWTAXGERCEJPYW5M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/17/HHRXKVFO5REWTAXGERCEJPYW5M/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 06:26:43 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N5WH56Q23FHFTL5I5N5FHZWHZA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래가 매니저에 대한 갑질과 불법 의료행위 의혹에 휩싸인 것과 관련, 한국연예매니지먼트협회(연매협)가 철저한 조사를 촉구하는 입장문을 냈다.&lt;br&gt;&lt;br&gt;사단법인 연매협 특별기구 상벌조정윤리위원회는 17일 입장문을 통해 “박나래 행위는 대중문화예술산업 풍속과 질서를 흐트러뜨리고 업계 발전을 저해하는 심각한 행위”라며 “깊은 우려와 유감을 표명한다”고 했다.&lt;br&gt;&lt;br&gt;위원회는 박나래의 전 매니저들이 4대 보험에 가입되어 있지 않았다는 주장에 대해서는 “충분히 수습할 수 있는 기회가 있었음에도 불구하고 이를 현명하게 해결하지 못한 것은 박나래 측의 불법적이고 부정적인 책임 회피”라며 “수사기관을 통해 박나래 매니저들이 어떠한 사유로 4대 보험에 가입하지 않은 것인지 철저한 조사가 이뤄져야 할 것”이라고 했다.&lt;br&gt;&lt;br&gt;박나래가 전 매니저들에게 사적 심부름을 강요하고, 폭언·폭행 등이 있었다는 의혹에 대해서는 “업계에서 반드시 사라져야 할 고질적인 악습”이라며 “사실로 밝혀진다면 협회 차원에서 가능한 모든 조치를 강력하게 취할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;위원회는 “연예인은 대중 관심과 사랑으로 인해 활동하고 수익이 발생한다. 공인으로서 책임감이 크다”며 “책임지고 자숙하는 행동이 충분히 선행되지 않은 상태에서 연예활동을 지속하는 것은 자제해야 한다. 이번 일을 계기로 매니저와 연예인 관계가 올바로 정립될 수 있도록 노력할 것”이라고 했다.&lt;br&gt;&lt;br&gt;최근 박나래의 전 매니저들은 박나래가 직장 내 괴롭힘을 비롯해 폭언·특수상해, 대리 처방 심부름, 비용 미정산 등 여러 문제를 일으켰다고 주장했다.&lt;br&gt;&lt;br&gt;박나래는 지난 8일 입장문을 통해 “웃음과 즐거움을 드리는 개그맨으로서 더 이상 프로그램과 동료들에게 피해를 줄 수 없다고 판단했다”며 “모든 문제가 명확히 해결되기 전까지 방송 활동을 중단하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“조세호가 소개한 男, 며칠 뒤 사기로 구속”...김나영, 과거 발언 재조명</title>
       <link>https://www.chosun.com/national/people/2025/12/17/HXNEKKQG3BDS3PW3VSJ77NBNZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/17/HXNEKKQG3BDS3PW3VSJ77NBNZI/</guid>
@@ -945,16 +954,6 @@
       <description/>
       <pubDate>Wed, 17 Dec 2025 00:24:52 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WT7G3KUIMBKSNMAOOVQPF4GMJA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;김기현 국민의힘 의원이 지난달 20일 서울 여의도 국회 의원회관에서 열린 울산국제정원박람회법안 입법 공청회에서 인사말을 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 각종 의혹을 수사 중인 민중기 특별검사팀이 17일 국민의힘 김기현 의원 자택과 의원실에 대한 압수 수색에 나섰다. &lt;br&gt;&lt;br&gt;특검은 이날 오전부터 김 의원 자택과 의원실 등에 수사관들을 보내 압수 수색을 벌이고 있다. 압수 수색 영장에는 김 의원이 배우자 이모씨의 청탁금지법 위반 혐의 공범으로 적시된 것으로 알려졌다. 이씨는 2023년 3월 8일 국민의힘 당대표 선거에서 김 의원이 당선된 이후 김 여사에게 프랑스 명품 브랜드 ‘로저비비에’ 손가방을 선물한 혐의를 받는다.&lt;br&gt;&lt;br&gt;특검은 지난달 6일 윤석열 전 대통령 부부가 살던 서울 서초구 아크로비스타를 압수 수색하는 과정에서 김 의원 부인 이모씨가 선물한 ‘로저비비에’ 손가방을 확보했다. 손가방과 함께 이씨가 작성한 것으로 추정되는 ‘김기현 의원의 당대표 당선을 도와주셔서 감사하다’는 취지의 메모도 함께 발견됐다. 특검은 지난 5일 이씨를 청탁금지법 위반 혐의 피의자 신분으로 소환조사한 바 있다. &lt;br&gt;&lt;br&gt;특검은 김 의원 측이 당대표 선거 지원 등 청탁 대가로 손가방을 전달한 건 아닐지 수사 중이다. 특검은 2023년 3월 전당대회를 앞두고 김 여사가 ‘건진 법사’ 전성배씨를 통해 통일교 쪽에 당원 가입을 통한 전당대회 지원을 요청했고, 원래 당대표로 밀던 권성동 의원이 출마를 포기하자 김 의원을 내세웠다고 보고 있다. &lt;br&gt;&lt;br&gt;이에 대해 김 의원은 지난 8일 언론에 입장을 내고 “제 아내가 2023년 3월 국민의힘 전당대회에서 제가 당대표로 당선된 후 김 여사에게 손가방 1개를 선물한 사실이 있다고 한다”면서도 “제 아내가 신임 여당 대표의 배우자로서 대통령의 부인에게 사회적 예의 차원에서 선물을 하고, 덕담 차원의 간단한 인사말을 기재한 메모를 동봉했다고 한다”며 청탁용 선물이 아니라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>반백년 봉사 펼친 老의사… 마지막 목표도 ‘나누는 삶’</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/17/BCOIHCAVYNAJTCQ2SY46ABRAPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/17/BCOIHCAVYNAJTCQ2SY46ABRAPE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 16 Dec 2025 15:41:00 +0000</pubDate>
-      <content:encoded>“잘 죽는 거예요. 그러려면 후회가 덜 생기게끔 (다른 사람들에게) 베풀고 노력해야죠. 그리고 후배들에게 봉사할 수 있는 기회나 여건을 잘 만들어주는 겁니다.”&lt;br&gt;&lt;br&gt;이향애(79) 서울 성북구의사회 회장(이향애정형외과 원장)은 ‘앞으로 남은 목표가 무엇이냐’는 질문에도 ‘봉사’를 언급했다. 그는 최근 열린 ‘제60회 전국여성대회’에서 50여 년 간 국내·외를 오가며 의료 봉사를 실천해 온 공로로 ‘용신봉사상’을 받았다. 이 상은 소설 ‘상록수’의 실제 모델이자 여성 농촌 운동가인 최용신 여사의 뜻을 기려, 희생적 봉사 활동을 펼친 여성에게 주는 상이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RHRQJFZGNVDNRN4I7XUIJRVWEE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이향애 서울 성북구의사회 회장이 지난 8일 자신의 병원에서 본지와 인터뷰하는 모습. 그는 ‘전국여성대회’에서 50여 년간 국내외를 오가며 의료 봉사를 실천해 온 공로로 ‘용신봉사상’을 받았다.
-/박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대 의대 출신인 이 회장은 가정의학과 전문의이자, 국내 제1호 여성 정형외과 전문의다. 그는 “1970년대 초반 NMC(국립중앙의료원)에서 인턴을 했는데, 당시 병원에선 ‘닥터 리(이 회장 지칭)는 손도 빠르고 응급 대처 능력이 좋으니 산부인과를 가라’고 했다”며 “그 당시엔 여성이 외과적 소질을 보이면 산부인과로 가라던 시절이었다”고 했다. 하지만 그는 정형외과를 택했다. 이 회장은 “원래 내가 그림에 관심이 많고 창조적인 작업을 좋아하는데, 사지의 힘줄과 혈관을 꿰매고 재건하는 정형외과가 그림 그리는 과정과 닮아 그렇게 매력적이었다”며 “시험을 쳐서 당당히 (1976년) 정형외과 전문의가 됐다”고 했다. 이후엔 가정의학과 전문의 자격(1988년)도 추가로 땄다.&lt;br&gt;&lt;br&gt;의료 봉사는 의대생이던 1960년대 말부터 시작했지만, 봉사의 매력에 빠진 건 1971년 레지던트 1년 차 때 무(無)의촌 지역 근무가 계기였다고 한다. 당시엔 전문의 시험에 응시하려면 ‘무의촌 6개월 근무’가 법적 의무였다. 이 회장은 “충남 당진 합덕에서 유일한 의사로 6개월간 근무하며, 의료 환경이 열악한 전혀 다른 세상이 있다는 걸 알게 됐다”고 했다. 이때부터 누구에게나 차별 없이 도움을 줘야겠다는 생각을 마음속에 품었다. &lt;br&gt;&lt;br&gt;이 회장은 이후 경로당 순회 진료, 쪽방촌 거주민 봉사, 독거 노인 의료 지원 등 다양한 활동을 펼쳐왔다. 다 셀 수 없을 정도다. 지난 2000년대 말 손수 조직한 고려대의대 의료봉사회를 통해 진행한 공식 봉사 활동만 140회를 넘는다. 북한 개성공단과 금강산 인민병원에서 방문 진료를 보는가 하면, 2008년 중국 쓰촨성 대지진과 2012년 필리핀 나보타스 태풍 피해 때도 현장 의료 봉사에 나섰다. &lt;br&gt;&lt;br&gt;그는 ‘가장 기억에 남는 봉사 활동’으로 개성공단 방문 진료를 꼽았다. 그는 “초코파이 하나를 받기 위해 새벽 4시부터 나왔던 북측의 한 여공이 넘어져 다리가 부러졌는데, 당시 개성공단 병원에 북측 담당 의료진이 부족해 내가 이 여공의 다리를 치료해줬다”며 “그런데 그 이후로 북측 간부들이 몰려와서 ‘나도 좀 봐주시라요’라고 부탁하는 통에 정신이 없었다”고 했다. &lt;br&gt;&lt;br&gt;이 회장의 요즘 관심은 중국 동포 외국인 노동자나 북한 이주민, 다문화 가정 같은 사회적 약자라고 한다. 그는 “이제 의료봉사는 돌봄이 필요한 계층을 명확히 찾아내 꾸준한 도움을 주는 방향으로 발전해야 한다”며 “최근엔 노년층도 건강 관리 방법을 몰라 건강을 악화시키고 있는 경우가 많은데 예방 차원에서 체계적인 건강 관리에 대한 교육도 병행해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
