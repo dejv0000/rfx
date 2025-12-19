@@ -13,6 +13,74 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 12월 21일 일요일 (음력 11월 2일 甲子)</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/20/PUO6MWHI6ZGKBN3J6LLU7JV7VY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/20/PUO6MWHI6ZGKBN3J6LLU7JV7VY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 13:41:57 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
+		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
+멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
+		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
+		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>정성호 “李대통령, 교도소서 인기... 가석방 30% 늘려서"</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/6EAL5KRCJJFQVB4MCX7VWWLA2M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/6EAL5KRCJJFQVB4MCX7VWWLA2M/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 13:23:48 +0000</pubDate>
+      <content:encoded>정성호 법무 장관이 19일 열린 법무부 업무 보고에서 이재명 대통령을 향해 “교도소 안에서 인기가 좋으시다”고 말해 그 배경에 관심이 쏠린다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BHJZ3PDJFNMDTF5GZZFUSIOANU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 19일 서울 종로구 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 미소 짓고 있다./대통령실&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정 장관이 이렇게 말한 배경은 이 대통령이 취임 후 가석방을 30% 정도 늘렸기 때문이라고 한다. 이 대통령은 “교정 시설 부족 문제는 직설적으로 말하면 교도소를 더 짓자는 말이지 않나”라고 정 장관에게 물었다. 이에 정 장관은 “현재 계획된 것을 다 합쳐도 5000명 이상을 늘리지 못하고 있다. 당장 너무 급하다”고 답했다. &lt;br&gt;&lt;br&gt;그러자 이 대통령은 “세상을 정화해서 덜 구속시킬 연구를 해야 한다”고 말했는데, 정 장관은 “보고드린 대로 성범죄자, 마약 범죄자, 디지털 범죄자가 많이 늘고 있다”며 “이상 동기 범죄도 늘고 있다”고 답했다. 구속 수감 인원이 늘어날 수밖에 없다는 얘기다.&lt;br&gt;&lt;br&gt;이에 이 대통령이 “가석방해주기도 어려운 사람들이다 이거죠?”라고 묻자, 정 장관은 “가석방도 대통령님 취임 후에 30% 늘린 것”이라며 이 대통령이 인기가 좋다고 너스레를 떤 것이다. 그러자 이 대통령은 “국민들께서 제가 (범죄자들을) 많이 풀어줬다고 오해할 수도 있다”고 했고, 정 장관은 “철저하게 재범 가능성을 판단해 (가석방 결정을) 하고 있다”고 답했다.&lt;br&gt;&lt;br&gt;이 대통령은 “처벌이라는 게 응보 효과와 일반 예방 및 특별 예방 효과 등을 노리고 하는 것인데 피해자가 없거나 피해를 충분히 회복해 피해자가 처벌을 더 이상 원치 않는 상태, (범죄자가) 충분히 반성하고 있어서 국가적 손실만 발생하는 상태이면 특별히 심사해서 석방해주는 게 가석방 제도”라고 설명했다. 그러면서 “그런 게 제 지시 사항이었다는 것을 지금 국민께 설명해 드린 것”이라고 했다.&lt;br&gt;&lt;br&gt;이에 정 장관은 “그렇게 운영하고 있다”며 “그래서 피해자가 있는 범죄에 대해서는 가석방 시 피해자에게 알려주고 반대하면 하지 않고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“너무 짧다” “설치미술이냐”… 마곡 5m 무빙워크 논란</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/ELB4J5W7RFHIHLS6W2Y7G2NOGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/ELB4J5W7RFHIHLS6W2Y7G2NOGQ/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 12:40:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JWIUBZ7KIFEOXJHIS6LXLFTKTA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;마곡 무빙워크. /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강서구 마곡역과 마곡나루역을 잇는 지하 공공 보행로에 설치된 길이 5m의 무빙워크가 논란이 되고 있다. 온라인에선 이동 거리가 지나치게 짧아 실용성이 없다며 ‘세금 낭비’에 불과하다는 의견이 주를 이루고 있다.&lt;br&gt;&lt;br&gt;다만 강서구는 해당 무빙워크는 민간사업자가 시공한 것으로 세금이 전혀 투입되지 않았으며, 사업자가 제시한 의견이 반영돼 공공도로 구간에만 설치되도록 결정됐다고 해명했다. 또 설치 구간에 대한 최종 결정 권한은 서울시에 있어 구로서는 그 결정을 따를 수밖에 없었다는 입장이다.&lt;br&gt;&lt;br&gt;지난 16일 서울 생활·여가 정보를 다루는 한 소셜미디어 계정에는 ‘이렇게 짧은 무빙워크 처음 본다’는 제목의 영상과 글이 올라왔다.&lt;br&gt;&lt;br&gt;여기에는 마곡역~마곡나루역 지하 공공 보행로가 지나치게 짧아 실용성이 없다는 취지의 내용이 담겼다. 작성자는 “이용하는 사람은 물론 드물었고, 이에 관해 강서구청에 민원도 들어오고 있는 상황”이라며 “여러분은 이 짧은 무빙워크에 대해 어떻게 생각하시냐”고 물었다.&lt;br&gt;&lt;br&gt;이 게시물은 사흘 만에 조회 수가 180만회를 넘고, 댓글도 450개 이상 달릴 정도로 화제를 모았다. 대부분 네티즌은 비판적인 반응을 보였다. ‘세금 낭비’라는 의견이 주를 이뤘다. “저걸 누가 타냐. 세금 낭비 아니냐” “매일 지나가면서 보지만, 작동도 안 한다” “설치미술이냐” “집 앞인데 볼 때마다 어이가 없다고 생각했다” “탁상행정의 결과” “지난주 마곡 갔을 때 봤는데, 짧아서 그냥 걸어갔다” 등이다.&lt;br&gt;&lt;br&gt;앞서 지난 9월 18일 강서구 홈페이지 ‘구청장에게 바란다’ 게시판에 이를 지적하는 글이 올라오기도 했다.&lt;br&gt;&lt;br&gt;자신을 ‘마곡 지하 통로 완공 결과를 보고 큰 실망을 하고 있는 강서구민’이라고 소개한 임모씨는 “당연히 여의도역에서 IFC몰 가는 무빙워크나 오목교역에서 현대백화점 가는 무빙워크를 상상했는데, 마곡은 몇 m도 되지 않는 무빙워크가 흉물스럽게 설치돼 있다”며 “그마저 작동도 안 한다”고 했다.&lt;br&gt;&lt;br&gt;임씨는 “아마 설치된 구간은 공공의 부지여서 설치한 거고, 나머지 구간은 민간 분양사에서 사적인 이익을 위해 설치하지 않은 거라고 추측된다”며 “문제는 왜 아무도 이런 비합리적인 결과를 예상하지 못하고 미리 방지하지 못했냐는 것”이라고 했다. 그러면서 “분양 조건에 넣든지, 사전에 협의만 됐어도 좋았을 것”이라며 “온전히 강서구의 책임은 아닐지도 모르겠지만, 일말의 책임은 있지 않을까 한다”고 했다. &lt;br&gt;&lt;br&gt;이와 관련, 강서구는 “해당 무빙워크는 민간사업자가 시공한 것으로, 강서구의 세금이 전혀 투입되지 않았다”고 했다. &lt;br&gt;&lt;br&gt;무빙워크 설치 배경에 대해선 “주민들의 이동 편의 증진을 최우선으로 고려해 최대한 무빙워크를 설치해 줄 것을 서울시 건축위원회에 의견을 제시했다”며 “그러나 서울시 건축위원회는 지하상가 활성화 및 방화물 기능 유지 문제 등 사업자가 제시한 의견을 반영해 공공도로 구간에만 무빙워크를 설치하는 것으로 결정됐다”고 했다. 그러면서 “무빙워크 설치 구간에 대한 최종 결정 권한은 서울시 건축위원회에 있고, 강서구는 서울시 건축위원회의 결정을 따를 수밖에 없었다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열 ‘체포 방해’ 사건, 내년 1월 16일 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/16/Y7VDCYFJOBEQFHVBZFAOSGNCM4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/16/Y7VDCYFJOBEQFHVBZFAOSGNCM4/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 16 Dec 2025 01:41:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYYGIMLGGEZTQZLFGMZTIMRRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초구 서울중앙지법에서 열린 특수공무집행방해, 직권남용 권리행사방해 등 혐의 사건 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령의 국무위원 계엄 심의·의결권 침해 혐의 등을 심리하는 재판부가 내년 1월 16일 선고하겠다는 계획을 밝혔다. 윤 전 대통령이 12·3 비상계엄과 관련해 기소된 4개 재판 가운데 처음 1심 선고가 나오는 것이다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사35부(재판장 백대현)는 16일 윤 전 대통령의 특수공무집행방해 등 사건 속행 공판을 열고 “늦어도 오는 26일 변론을 종결하고 내년 1월 16일에는 선고해야 할 것으로 보인다”고 했다. 재판부는 내란 특검이 기소한 사건의 1심 판결 선고를 6개월 내 하도록 규정한 내란 특검법 조항을 언급하면서 “특검 공소 제기가 7월 19일로, 내년 1월 19일 이전에는 선고가 나야 한다”고 했다.&lt;br&gt;&lt;br&gt;이 재판부는 윤 전 대통령이 지난 1월 고위공직자범죄수사처(공수처)의 체포 영장 집행을 저지한 혐의를 비롯해 ‘계엄 국무회의’ 불참 국무위원에 대한 심의·의결권 침해, 허위 계엄 선포문 사후 작성·폐기, 비화폰 기록 삭제, 계엄 관련 허위 공보 등 5가지 혐의를 심리한다.&lt;br&gt;&lt;br&gt;박억수 특검보는 “구속 기간 내 선고를 결정해주신 재판부에 감사의 말씀을 드린다”며 “특검법 취지에 맞춰 선고 기일을 지정한 것에 따라 재판이 종료될 수 있도록 마지막까지 최선을 다해 역할하겠다”고 밝혔다. 윤 전 대통령의 구속 기한은 내년 1월 18일 만료된다.&lt;br&gt;&lt;br&gt;반면 윤 전 대통령 측 변호인은 “이 사건은 다른 재판부에서 진행 중인 내란 우두머리 사건 결과에 따른 사실을 전제로 선고돼야 하지 않나 생각한다”고 했다. 윤 전 대통령 역시 “내란 우두머리 재판에서 (비상계엄이) 내란에 해당하지 않는다는 결과가 나오면 국무위원 심의권 침해라는 혐의 자체가 허물어진다”면서 “특검법상 선고 기한 도 중요하지만 재판의 전제가 되는 (사건의) 심리 결과를 고려하시는 것이 마땅하지 않나 의견을 개진한다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이에 대해 “계엄 선포 자체가 내란에 해당하는지, 불법인지는 이 사건의 쟁점이 아닌 것으로 판단된다”며 “반드시 이 부분에 다른 재판부 판단을 보고 따라갈 필요가 없다고 판단된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정유미 검사장 “대장동 항소 포기, 검사들의 영혼 팔아먹는 행위” </title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/LQTVJDD2MRBKFC4DMCODH2NTQE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/LQTVJDD2MRBKFC4DMCODH2NTQE/</guid>
+      <dc:creator>양은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 11:59:36 +0000</pubDate>
+      <content:encoded>최근 검사장급인 법무연수원 연구위원(대검 검사급)에서 대전고검 검사(고검 검사급)로 강등 발령된 정유미 검사장이 인사 배경으로 꼽히는 대장동 사건 항소 포기에 대해 “검사들의 영혼을 팔아먹는 행위”라고 강하게 비판했다. &lt;br&gt;&lt;br&gt;정 검사장은 19일 조선일보 유튜브 ‘판읽기’에 출연해 최근 이뤄진 강등 인사에 대한 소회를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5H22C7TU3ZNFBLCLAMZN3ARLPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대검검사급(검사장) 보직에 있던 정유미 법무연수원 연구위원이 고검검사급(차장·부장검사) 보직인 대전고검 검사로 강등 발령난 것과 관련해 정성호 법무부 장관을 상대로 인사명령 처분 취소 청구 소송을 제기하기 위해 12일 서울 서초구 서울행정법원에 도착해 취재진 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그는 법무부가 지난 11일 인사에서 자신에 대한 강등 발령 배경으로 “부적절한 표현으로 내부 구성원들을 반복적으로 비난하며 조직의 명예와 신뢰를 실추시킨 대검 검사를 고검 검사로 발령했다”고 밝힌 것과 관련, “다른 사람 얘기인 줄 알았다”며 “(법무부가 밝힌 인사 이유를 듣고) 딱 떠오르는 사람이 있었다”고 했다. 다만 그는 해당 인물이 누구인지는 밝히지 않았다. &lt;br&gt;&lt;br&gt;정 검사장은 전날 정성호 법무장관이 강등 인사를 두고 “인사권자의 재량 범위”라고 한 데 대해서도 “법령 위반이고, 재량 범위를 넘어섰다”고 반박했다. &lt;br&gt;&lt;br&gt;그는 “검사 직무는 국민에게 미치는 영향이나 정치적 파장이 크기 때문에 인사가 정치에 휘둘리지 않도록 인사권자의 재량 범위를 법으로 정했다”며 “검찰청법에 대검 검사·고검 검사의 임용 요건을 두고, 대통령령에도 대검 검사급이 갈 수 있는 자리를 한정적으로 열거하고 있다”고 했다.&lt;br&gt;&lt;br&gt;검찰청법 28조는 검사장급에 해당하는 대검 검사급 이상의 보직 기준을 대통령령에 위임하고 있는데, 대통령령에 규정된 대검 검사급 검사의 11개 보직 안에는 고검 검사가 포함돼 있지 않다. 11개 보직은 검찰총장, 고검장, 대검 차장, 법무연수원장, 대검 검사, 법무부 기획조정실장, 법무실장, 검찰국장, 범죄예방정책국장, 감찰관, 출입국·외국인 정책본부장, 지검장, 사법연수원 부원장, 법무연수원 기획부장, 고검 차장, 법무연수원 연구위원 등이다. &lt;br&gt;&lt;br&gt;정 검사장은 “법무연수원 기획부장에 계셨던 분을 검사장으로 보내는 것은 인사권자 재량 범위 안에 있지만 법령을 넘어서 다른 데로 보내면 당연히 법 위반이고 재량 범위를 넘어선 것”이라고 했다. &lt;br&gt;&lt;br&gt;또한 검찰청법 30조는 고검 검사 등의 임용 자격에 대해 ‘28조에 해당하는 검사(대검 검사급)를 제외한’이라고 규정하고 있어 대검 검사급인 정 검사장을 고검 검사로 발령 낸 것은 위법하다는 주장이다. &lt;br&gt;&lt;br&gt;정 검사장은 강등 발령의 주요 이유로 꼽히는 대장동 사건 항소 포기와 관련, “힘겹게 버티고 있는 검사들의 영혼을 팔아먹은 행위”라고 했다. &lt;br&gt;&lt;br&gt;그는 “검사들은 내외로 가해지는 압박을 버텨가면서 오늘도 한 그루의 사과나무를 심는 심정으로 일한다. 사과나무를 언급한 검사들을 다 모아놓으면 전국이 다 사과밭이 될 것”이라며 “그런 마음으로 힘겹게 버티고 있는데 (수뇌부가) 어느 한순간 검사들의 영혼을 팔 생각을 하고, 그런 결정을 하는 데 있어 검사들의 의견을 묵살했다”고 했다. &lt;br&gt;&lt;br&gt;앞서 정 검사장은 대장동 사건 항소 포기를 주도한 노만석 당시 총장 대행을 두고 검찰 내부 게시판에 “검찰 역사를 통틀어 가장 치욕적으로 굴복한 검사”라고 썼다. &lt;br&gt;&lt;br&gt;정 검사장은 이날 방송에서 자신을 ‘친윤(親尹)’ 검사로 지칭하는 데 대해 “친소 관계를 언급할 정도의 인연도 없다. 마치 잘 익은 토마토를 던지는 것 같다”고 했다. 던져 놓고 “토마토 묻었다”며 손가락질하는 모양새라는 것이다. &lt;br&gt;&lt;br&gt;아울러 최근 자신 때문에 공황장애를 겪었다고 주장한 임은정 동부지검장에 대해 “휴가철에 제 근무지에 놀러 올 정도로 가까운 사이였다”며 오래된 인연을 밝혔다. &lt;br&gt;&lt;br&gt;이와 관련한 자세한 내용은 조선일보 유튜브 ‘판읽기’에서 볼 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조진웅 출연 ‘시그널2’ 공개 여부는… 제작진, 공식 입장 발표</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/PX5RBAD6HJA2TIVD2VJOXM2F2I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/PX5RBAD6HJA2TIVD2VJOXM2F2I/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 10:37:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KCAIEXPXIBA37OPK6UFI7SX7N4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;시그널 조진웅. /tvN&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 조진웅의 은퇴 선언으로 tvN 드라마 ‘두 번째 시그널’(시그널2) 공개 여부가 불투명해진 가운데, 제작진이 “최적의 방안을 찾겠다”는 첫 공식 입장을 내놨다.&lt;br&gt;&lt;br&gt;tvN은 19일 입장문을 통해 “‘두 번째 시그널’은 10년을 기다려 주신 시청자 여러분을 향한 마음을 담아 2026년 하절기 공개를 목표로 정성을 다해 준비해 온 작품”이라며 “현재의 상황을 마주한 저희 역시 시청자 여러분의 실망과 걱정에 깊이 공감하며, 무겁고 애석한 마음”이라고 했다.&lt;br&gt;&lt;br&gt;이어 “‘두 번째 시그널’은 기획부터 제작에 이르기까지 수많은 스태프와 배우, 관계자들이 함께한 작품”이라며 “드라마가 지닌 가치를 지키기 위해 다소 시간이 걸리더라도 작품과 시청자 여러분을 위한 최적의 방안을 찾기 위해 모든 노력을 기울이겠다”고 했다.&lt;br&gt;&lt;br&gt;이번 입장은 지난 5일 조진웅이 청소년 시절 범죄를 저질러 소년보호처분을 받았다는 의혹이 제기된 지 약 2주 만에 나왔다. 방영 취소까지 점쳐지던 상황에서 이 같은 입장 발표는 시기를 미루더라도 추후 공개 가능성은 열어두겠다는 의미로 풀이된다. 조진웅이 드라마 핵심 인물을 맡은 만큼 촬영분을 들어내거나 재촬영하기 쉽지 않은 상황으로 알려졌다.&lt;br&gt;&lt;br&gt;‘두 번째 시그널’은 2016년 인기를 끈 tvN 드라마 ‘시그널’의 후속작으로, 당초 2026년 공개 예정이었다. 김은희 작가가 각본을 쓴 이 드라마는 무전기를 통해 과거와 현대가 소통하며 미제 사건을 풀어가는 내용이다. 10년 만의 후속작인 데다 김은희 작가는 물론 김혜수, 조진웅, 이제훈 등 시즌1의 주역들이 그대로 참여해 화제를 모았다. 조진웅은 시즌1에서 과거의 ’이재한 형사’로 출연했다. &lt;br&gt;&lt;br&gt;한편 조진웅은 지난 6일 청소년 시절 범죄 의혹이 불거진 지 하루 만에 은퇴를 선언했다. 당시 조진웅은 “과거 불미스러운 일로 인해 저를 믿고 응원해 주신 모든 분들께 실망을 드린 점 머리 숙여 사과드린다”며 “저는 이 모든 질책을 겸허히 수용하고, 오늘부로 모든 활동을 중단, 배우의 길에 마침표를 찍으려 한다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>성평등가족부 “내년 임금공시제 근거 마련”</title>
+      <link>https://www.chosun.com/national/education/2025/12/19/C6SB6QWAIFBVNMPGBXTIVFDU5I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/19/C6SB6QWAIFBVNMPGBXTIVFDU5I/</guid>
+      <dc:creator>최인준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 10:57:15 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/377DPT5M6BJWVMZYYZ6GFOGMP4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 원민경 성평등가족부 장관이 19일 서울 종로구 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성평등가족부가 고용평등 임금공시제 도입을 위해 내년 중 법적 근거를 마련하고 공시 시스템을 구축하기로 했다. 디지털 성범죄 대응을 강화하기 위해 인력 확충과 시스템 고도화도 함께 추진할 계획이다.&lt;br&gt;&lt;br&gt;원민경 성평등가족부 장관은 19일 열린 대통령 업무 보고에서 “노동 시장 전반에 공정과 성평등의 기준을 세워나가는 고용평등 임금공시제를 도입하겠다”고 밝혔다. 현재 공공 부문을 중심으로 운영되는 ‘성별근로공시제’를 2027년에 민간까지 확대하는 ‘고용평등 임금공시제’로 개선한다는 것이다.&lt;br&gt;&lt;br&gt;성평등부는 또 현 정부 국정 과제인 성평등 거버넌스 개편의 일환으로 양성평등정책담당관을 전 부처로 확대하기로 했다. 현재 8개 부처에만 담당관이 있다. 현 양성평등기본법을 성평등기본법으로 전부 개정하는 방안도 검토한다. 양성평등위원회 개편 등 거버넌스 강화, 용어 정비 등을 포함한다.&lt;br&gt;&lt;br&gt;디지털 성범죄 대응을 강화하기 위해 불법 촬영물 탐지·삭제 지원 시스템을 고도화한다. 현재 33명 수준인 중앙 디지털성범죄피해자지원센터 인력을 내년 43명까지 늘릴 계획이다.&lt;br&gt;&lt;br&gt;원 장관은 이날 업무 보고 후 열린 사후 브리핑에서 임신 중단 약물 도입에 대한 부처 입장을 묻는 이재명 대통령 질문에 “이미 많은 여성이 임신 중단 약물을 사용하고 있는 상황”이라며 “임신 중단 약물에 대해 식품의약품안전처에서 안전성에 대한 확인을 통해 여성들이 건강권 유지를 위해 불법적인 일을 하지 않도록 머리를 맞대야 한다”고 했다.&lt;br&gt;&lt;br&gt;원 장관은 현행 14세 미만인 촉법소년 연령 하향에 대한 부처 입장을 묻는 이 대통령 질문에 “숙고가 필요하다”고 답했다. 이날 함께 업무 보고에 나선 정성호 법무부 장관이 “각종 범죄자의 연령이 낮아지고 있고 가장 심각한 것은 마약 범죄다. 단순한 선도만으로는 안 되는 게 아닌가 고민하고 있다”며 하향에 대해 찬성 입장을 밝힌 것과 대조적이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 강남 한복판서 ’10중 추돌‘… 車 뒤엉켜 퇴근길 아수라장</title>
       <link>https://www.chosun.com/national/incident/2025/12/19/STG423YYU5ASTNWQ2CBOBTK7QM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/STG423YYU5ASTNWQ2CBOBTK7QM/</guid>
@@ -907,42 +975,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>기숙사 실내 흡연 징계한 숭실대...공고문에 ‘중국’ 국적 공개 논란</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/15/BD4S4NKF2NCAVPTDU3YKGC6MA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/15/BD4S4NKF2NCAVPTDU3YKGC6MA4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 15 Dec 2025 13:47:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V7QBVZIB6JE6THBTEHV656D6RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 숭실대 레지던스홀에 부착된 징계 공고문./숭실대 에브리타임&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;숭실대가 기숙사 규정을 어긴 중국인 유학생을 징계하는 과정에서 공고문에 국적을 적시해 비판을 받고 있다. &lt;br&gt;&lt;br&gt;15일 대학가에 따르면 숭실대 레지던스홀은 지난 8일 기숙사 내 흡연 규정을 두 차례 이상 위반한 학생 2명에게 강제 퇴사 처분을 내렸다. 공고문에는 징계 일자와 처분 내용, 위반 사유가 담겼다. 학생들의 이름과 호실은 일부만 공개됐지만, 국적은 ‘중국’으로 표기됐다. &lt;br&gt;&lt;br&gt;숭실대 기숙사 규정상 실내 흡연은 벌점 18점에 해당하며, 2회 이상 적발되면 퇴사 조치가 가능하다고 알려졌다. 해당 학생들은 흡연 사실이 두 차례 이상 확인돼 징계를 받은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;하지만 징계 사유와 직접 관련이 없는 국적 표기가 공고문에 포함되면서 문제가 불거졌다. 통상 대학 기숙사 공지에서는 실명 공개를 피하거나 신상 정보를 최소화하는데, 이번 공고는 국적이 구체적으로 드러나면서 곧바로 학생 커뮤니티를 통해 확산됐다. 공고문이 대학 생활 플랫폼 ‘에브리타임’ 숭실대 자유게시판 등으로 퍼지자, 온라인에서는 중국인 유학생을 겨냥한 비판이 나오기도 했다. &lt;br&gt;&lt;br&gt;숭실대 측은 국적 표기 자체가 문제가 될 수 있다는 점은 인정했다. 숭실대 측은 “공고문에 국적을 표기한 것에 대해 문제 삼을 수 있다고 생각한다”고 했다. 다만 “특별한 의도를 가지고 중국 유학생을 망신 주기 위한 목적으로 국적을 게시한 것은 아니었다”며 “이 같은 조치는 기숙사 내 흡연으로 인한 화재 사고 예방하기 위함이었다”고 전했다. &lt;br&gt;&lt;br&gt;학교 측은 앞으로 유사한 공지를 할 때 기숙사 내 징계와 직접 관련된 정보만 제한적으로 표기하겠다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘김건희 봐주기 의혹’ 박성재·심우정·이창수 압수 수색...이창수는 22일 소환</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/WQEHCFCLZRDCVCAKTKYKVGV4GI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/WQEHCFCLZRDCVCAKTKYKVGV4GI/</guid>
-      <dc:creator>김나영 기자, 이민경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 05:38:24 +0000</pubDate>
-      <content:encoded>18일 민중기 특별검사팀이 박성재 전 법무부 장관, 심우정 전 검찰총장, 이창수 전 서울중앙지검장 등에 대한 압수 수색에 나섰다. 특검은 오는 22일에는 이 전 지검장을 소환한다고 밝혔다. 이들은 검찰의 ‘김건희 여사 봐주기 수사’ 의혹을 받고 있다. 특검은 김 여사 수사를 직접 담당했던 검사들도 함께 부를 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BNXZWRRKDFBJBPLZAFSI6DZ2XY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;작년 10월 국회 국정감사장에서 이창수(오른쪽) 당시 서울중앙지검장이 조상원 서울중앙지검 4차장과 대화하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박노수 특검보는 18일 정례 브리핑에서 “검찰의 디올백 수수와 도이치모터스 주가조작 사건의 무혐의 처분 당시 법무부 장관, 대통령실 민정수석, 검찰총장, 서울중앙지검장, 서울중앙지검 제4차장 등에 대한 압수 수색을 진행하고 있다”며 이같이 밝혔다. 이날 압수 수색 대상자는 총 8명으로 알려졌다.&lt;br&gt;&lt;br&gt;박 특검보는 이 전 검사장 소환 통보 사실을 밝히며 “지난 12월 초에 있었던 압수 수색을 통해 확보한 자료를 확인하기 위해 조사가 반드시 필요하다”고 설명했다. 이창수 전 검사장은 서울중앙지검이 두 사건을 수사하고 무혐의 처분을 내렸을 당시 중앙지검장을 지낸 최종 책임자였다. 이 전 검사장은 직권남용 혐의 피의자 신분인 것으로 알려졌다. &lt;br&gt;&lt;br&gt;특검은 도이치모터스 사건 수사 실무를 담당한 검사 1명에 대해서도 오는 22일 오전 10시에 출석하라는 내용의 출석요구서를 보냈다. 다만 이 전 검사장 등의 출석 여부는 아직 확정되지 않았다고 한다.&lt;br&gt;&lt;br&gt;지난 12월 초 중앙지검과 대검 등을 압수 수색한 데 이어 이날도 강제 수사에 나선 이유에 대해 특검 관계자는 “당시 확보한 자료를 분석한 결과 추가 자료를 확보할 필요성이 있었다”고 했다. 특검은 이날 중앙지검 외에도 이들의 사무실과 차량 등을 압수 수색한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 남은 기간 동안 봐주기 수사 의혹을 최대한 조사한다는 계획이다. 특검 관계자는 “현실적으로 (기간 내에) 수사를 종결하긴 어려운 것이 사실”이라며 “남은 10일 정도 기간 동안 최대한 노력을 기울여서 할 것”이라고 했다. 그러면서 “종결이 안 되면 법에 따라 국가수사본부에 이첩할 예정”이라고 했다. 오는 28일 수사 기간이 만료되는 특검은 다음날인 29일 최종 수사 결과를 발표할 예정이다.&lt;br&gt;&lt;br&gt;한편 특검은 김 여사에게 로저비비에 가방을 선물한 의혹을 받는 국민의힘 김기현 의원과 소환 일정을 조율 중이라고 했다. 특검은 전날인 지난 18일 김 의원의 자택과 국회의원실 등을 압수 수색해 관련 자료를 확보했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소 부리듯 쟁기 매달고 “밭 갈아”… 70대 지적장애인 학대한 이웃</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/S7CPBWGIDBGIRKUQCZ3OWZU6FM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/S7CPBWGIDBGIRKUQCZ3OWZU6FM/</guid>
-      <dc:creator>문지연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 07:03:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGZSBC6K4JOENHVNLOFA5ILWEI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중증 지적 장애를 앓는 이웃에게 쟁기를 매달아 농사일을 강요한 70대 남성에게 법원이 징역형의 집행유예를 선고했다. 피고인의 학대는 30년간 이어진 것으로 알려졌으나, 오래전 범행을 특정할 수 없어 공소사실에는 최근 두 건만 포함됐다.&lt;br&gt;&lt;br&gt;청주지법 형사4단독 강현호 판사는 장애인복지법 위반 혐의로 구속 기소된 70대 남성 A씨에게 징역 1년 6개월에 집행유예 3년을 선고했다고 18일 밝혔다. 사회봉사 80시간과 장애인 관련 기관 취업 제한 3년도 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 2023년 4월과 5월 두 차례에 걸쳐 3급 지적 장애인인 70대 이웃 B씨에게 밭일을 강요한 혐의로 재판에 넘겨졌다. 혼자 사는 B씨에게 욕설과 폭언을 퍼부으며 위협했고, 심지어는 소를 부리듯 B씨에게 쟁기를 매달아 밭을 갈게 했다. B씨 명의의 농업인 카드로 면세유 120만원어치를 사 가로채기도 했다.&lt;br&gt;&lt;br&gt;A씨는 1995년부터 약 30년간 B씨에게 밭일을 시킨 것으로 전해졌다. 그러나 구체적인 날짜와 행위 등을 특정할 수 없어 모든 학대가 범죄 사실에 포함되지는 못했다고 한다.&lt;br&gt;&lt;br&gt;강 판사는 “피고인의 범행으로 피해자가 오랜 기간 정신적·육체적 고통을 겪었을 것으로 보이고 장래 활동에도 여러 지장이 초래될 것으로 보인다”고 지적했다. 다만 “피해자와 합의한 점, 기소된 노동 강요 행위가 두 차례에 불과한 점 등을 종합해 형을 정했다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고교학점제 개편안 공개...선택 과목은 출석률만 반영</title>
-      <link>https://www.chosun.com/national/education/2025/12/18/YLECWIKWCVAV3EWXD4NU4FEASQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/18/YLECWIKWCVAV3EWXD4NU4FEASQ/</guid>
-      <dc:creator>김민기 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 06:36:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNUTV3KT6JPD7BKTTVWJNJTN5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원장이 18일 서울 종로구 정부서울청사에서 열린 제63차 국가교육위원회 전체회의에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 학점제와 관련해 선택 과목의 경우 출석률만 충족하면 학점 이수를 하도록 하는 개편안이 마련됐다.&lt;br&gt;&lt;br&gt;국가교육위원회(국교위)는 18일 제63차 회의를 열고 ‘고교 학점제 관련 국가 교육과정 수립·변경 행정 예고(안)’를 공개했다. 중장기 교육 정책을 설계하는 대통령 직속 기구인 국교위는 올해 안으로 고교 학점제 개편안을 마련하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이날 안에 따르면, 초·중등학교 교육과정 총론의 고등학교 교육과정 편성·운영 기준에서 ‘이수 기준은 출석률과 학업 성취율을 반영한다’는 표현이 ‘이수 기준은 출석률, 학업 성취율 중 하나 이상을 반영하되, 교육 활동 및 학습자 특성을 고려하여 설정한다’는 내용으로 변경된다. 이수 기준이 완화된 것이다. 국교위는 공통 과목의 학점 이수 기준은 출석률과 학업 성취율을 반영하고, 선택 과목의 학점 이수 기준은 출석률만을 반영하도록 교육부에 권고한다고 밝혔다. 창의적 체험 활동의 학점 이수 기준은 출석률을 반영한다는 내용도 권고 사항에 담겼다. &lt;br&gt;&lt;br&gt;국교위는 또 최소 성취 수준 보장 지도 관련 후속 조치도 교육부에 권고한다. ‘학업 성취율 미도달, 학점 미이수 학생에게 교육부나 각 교육청이 직접 운영하는 온라인 학교 등을 포함해 다양한 이수 기회를 제공해야 한다’는 내용이다. 또 ‘최소 성취 수준 보장 지도에 참여한 교원에게 보상 방안을 마련한다’는 내용도 권고 사항에 담았다.&lt;br&gt;&lt;br&gt;이날 행정 예고(안)는 20일간 행정 예고 기간을 거쳐, 내년 3월 새 학기부터 적용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재, 조지호 경찰청장 파면...재판관 전원일치</title>
       <link>https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</guid>
@@ -950,33 +982,6 @@
       <description/>
       <pubDate>Thu, 18 Dec 2025 05:15:51 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대법원, 내란전담재판부 예규 만들기로...무작위 배당 원칙</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/WSTGGECTZBBYPNAPCNQHLELXXQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/WSTGGECTZBBYPNAPCNQHLELXXQ/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 02:58:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJSJ5FCJ3VPR5ABB4OY7DZPQ6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내란전담재판부를 설치하는 내용의 내부 지침을 만들기로 했다.&lt;br&gt;&lt;br&gt;대법원은 18일 대법관 행정회의를 열고 ‘국가적 중요사건에 대한 전담재판부 설치 및 심리절차에 관한 예규’를 제정하기로 했다고 밝혔다. 대법원 예규는 대법원이 업무 기준을 마련하기 위해 정하는 행정 규칙이다.&lt;br&gt;&lt;br&gt;이번 예규는 형법상 내란·외환죄와 군형법상 반란죄 사건을 전담해 집중 심리하는 전담재판부를 설치하는 내용을 담았다. 사건 배당은 종전처럼 무작위로 하되 배당 받은 재판부를 전담재판부로 지정한다는 게 골자다. &lt;br&gt;&lt;br&gt;또 전담재판부로 지정되면 내란 등 사건만 전담해 집중 심리할 수 있도록 기존에 맡고 있던 사건들은 전부 다른 재판부로 재배당하는 것을 원칙으로 했다. 만약 관련 사건이 접수될 경우 관계 재판부들 협의를 거쳐 배당하고 관련 사건을 제외한 새 사건은 맡지 않도록 했다.&lt;br&gt;&lt;br&gt;대법원은 “사법부 스스로 신속하고 공정한 재판을 위한 조치를 취해야 한다는 법원 안팎의 요구에 따른 것”이라고 예규를 제정한 배경을 밝혔다. 최근 12·3 비상계엄 관련 1심 재판들이 마무리 단계에 접어들자, 항소심을 맡게 될 서울고법에서도 법원행정처에 “재판 예규로 집중심리재판부 운영 등 사무 분담·사건 배당 기준을 명확히 설정할 필요가 있다”고 요청했다고 한다. 대법원은 “법원행정처에서는 신속한 재판지원을 위해 종래 검토하던 방안에 서울고법 요청을 더해 예규안을 마련했다”고 했다.&lt;br&gt;&lt;br&gt;이 예규는 행정예고를 거쳐 시행된다. 대법원은 “국가적 중요 사건 항소심이 본격 시작되기 전에 시행될 예정”이라고 했다. 비상계엄 관련 내란·외환 사건 가운데 한덕수 전 국무총리 1심 재판이 내년 1월 21일 가장 먼저 선고될 예정이다. 윤석열 전 대통령의 내란 우두머리 재판과 김용현 전 국방장관 등 군 관계자, 조지호 경찰청장 등 경찰 관계자들 내란 중요 임무 종사 혐의 재판은 1월 중순 변론이 종결될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“운전석서 술 냄새가...” 부산서 승객 신고로 숙취 운전 마을버스 기사 적발</title>
-      <link>https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 03:29:17 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 마을버스 운전 기사가 숙취 운전을 하다 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;부산 영도경찰서는 50대 남성 마을버스 운전 기사 A씨를 도로교통법상 음주운전 혐의로 입건해 조사하고 있다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 7시 25분쯤 부산 영도구 한 도로에서 음주 상태로 마을버스를 운전한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 버스에 타고 있던 한 승객이 “기사에게 술 냄새가 나는 것 같다”고 112에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 A씨에 대해 혈중알코올농도를 측정한 결과, 운전면허 정지(0.03% 이상~0.08% 미만) 수준으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 전날 저녁 술을 마셨다고 한다. 하지만 출근 전 회사에서 자체적으로 실시한 음주 측정에선 정상 판정을 받아 버스를 운행할 수 있었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 “A씨를 상대로 정확한 경위 등을 조사하고 있다”며 “마을버스 회사의 음주 측정기에 이상이 없는지도 살펴보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>다시 울리는 건배사, 올해 식당 예약은 이미 마감</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/CHCJ632N5NBXZFYHTHWZVIWL4U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/CHCJ632N5NBXZFYHTHWZVIWL4U/</guid>
-      <dc:creator>장윤 기자, 고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 15:54:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ID2NKGKO5GP5C3TY6G27XBH74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남구의 한 중견 기업에 다니는 김나연(29)씨의 12월 달력은 회사 송년회 일정으로 빽빽하다. 부서 전체 회식과 팀 모임, 예전 부서 동료 모임까지 12월 하순에만 세 건이 잡혔다. 김씨는 “입사하고 제대로 된 송년회를 해본 기억이 없는데 올해는 단톡방에 송년회 참석 여부를 묻는 글이 올라오자마자 다들 경쟁하듯 참석하겠다고 하더라”고 했다.&lt;br&gt;&lt;br&gt;연말 직장가 주변 식당가에 모처럼 활기가 돌고 있다. 2020년 코로나 팬데믹과 작년 말 계엄, 치솟는 물가 등으로 몇 년간 숨죽였던 송년회 문화가 올해 부활 움직임을 보이면서다. 서울 종로구의 한 대기업에 다니는 송모(28)씨는 “작년 계엄 사태로 송년회를 미뤘는데 무안 제주항공 참사까지 겹쳐 그마저도 취소됐다”며 “올 연말엔 다 같이 모여 한잔하자는 분위기”라고 했다.&lt;br&gt;&lt;br&gt;MZ세대들 사이에선 회식이 ‘악습’으로 꼽히기도 했다. 잔 돌리기 문화나 상사들의 ‘라떼는’식 훈계에 대한 거부감이 작용했다. 그러나 올해는 2030 직장인들도 회식에 적극적이라고 한다. 이런 분위기에 호응하는 회사도 있다. &lt;br&gt;&lt;br&gt;글로벌 제약사 아스트라제네카는 크리스마스 시즌에 맞춰 송년회 드레스 코드를 빨강·초록색으로 정했다. 대기업 과장인 50대 A씨는 “후배들이 송년회를 준비한다며 부서에 앙케이트 질문을 돌리더라”고 했다. 서울 여의도의 한 대기업에 근무하는 한 직장인은 커뮤니티 ‘블라인드’에 “부서 송년회 장소로 서울역 인근 파티 공간을 추천해달라”는 글을 올렸다.&lt;br&gt;&lt;br&gt;서울 도심 식당가는 모처럼 찾아온 연말 대목에 분주한 분위기다. 본지가 이번 주 초 광화문 식당 10곳에 전화했더니 한 곳을 제외한 모든 식당의 목·금요일 예약이 마감됐다. 광화문에서 이탈리안 식당을 운영하는 김모(47)씨는 “12월 목·금요일 저녁 예약은 월초에 이미 마감됐다”고 했다. 종로구 한 한식당 주인은 “작년 연말엔 계엄 정국으로 종로 일대에서 집회가 계속돼 공을 쳤는데 올해는 상황이 다르다”고 했다.&lt;br&gt;&lt;br&gt;최철 숙명여대 소비자경제학과 교수는 “송년회 부활 분위기는 지난 몇 년간 멀어진 관계를 다시 잇는 흐름”이라며 “대면 모임을 통해 안정감과 소속감을 되찾으려는 심리가 작용한 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
