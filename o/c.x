@@ -13,6 +13,138 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>대선 앞둔 통일교 회의서...“여야 공천권 받아야” “2027년 대권 도전”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:08:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZGIMRRMYZGMYLBMVSWCMJRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치자금 제공 혐의를 받는 한학자 통일교(세계평화통일가정연합) 총재가 지난 17일 오후 서울 종로구 김건희 특검팀(특별검사 민중기) 사무실에서 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 대선을 앞두고 통일교 내부에서 “여야 국회의원 공천권을 받고 기반을 만들어 2027년 대권에 도전한다”는 논의가 이뤄진 정황이 법정에서 공개됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성) 심리로 19일 열린 한학자 통일교 총재와 윤영호 전 통일교 세계본부장 등의 정당법 위반 사건 재판에서는 통일교 세계본부 신통일한국처장 엄모씨에 대한 증인신문이 이뤄졌다. 이 재판은 통일교가 20대 대선 당시 국민의힘 시·도당에 쪼개기 후원을 하는 등 정교유착을 시도했다는 의혹을 다룬다.&lt;br&gt;&lt;br&gt;특검팀은 증인신문 중 엄씨가 작성한 2021년 10월 14일 자 통일교 대륙회장 회의록을 공개했다. 회의록에 따르면 윤 전 본부장과 당시 각 지역교구(지구) 회장 등 통일교 고위 간부들 11명이 참여한 가운데 당시 서울·인천 지역을 관할하던 1지구회장 주모씨는 “우리 목표는 청와대 보좌진으로 들어가는 것”이라며 “여든 야든 국회의원 공천권을 줘야 한다. 그러려면 정책 투표수 자금이 있어야 한다”고 말했다. 또 “잘못 선택하면 큰일난다. 1~2월 중 선택을 해야 하는데 정말 신중하게 가야 한다. 그렇지 않으면 역풍을 맞을 수밖에 없다”고도 발언했다.&lt;br&gt;&lt;br&gt;영남 지역 관할 5지구 회장이었던 박모씨도 회의에서 “국회의원 공천권, 청와대 입성의 기반을 이루려면 결코 쉽지 않다. 2027년까지 이렇게 가면 대권 도전도 가능하지 않겠는가”라고 했다. 엄씨는 회의에서 이 같은 논의가 있었는지 묻는 특검팀 질문에 “기억이 나지 않지만 기록상 맞는 것 같다”고 답했다. &lt;br&gt;&lt;br&gt;엄씨는 “통일교에서 국회 정치에 진출하려는 것이었나”는 특검팀 질문에 “모든 사람의 의견일지는 모르겠지만 주씨 개인 의견이 아닐까 싶다”고 했다. 종교단체인 통일교 회의에서 ‘대선’이나 ‘청와대’, ‘국회의원 공천권’ 같은 얘기가 나온 배경에 대해선 “당시 윤영호 본부장이 추진하던 정책에 맞춰 지구장들이 계획을 고민하고 논의하던 상황”이라며 “본부장이 매월 서밋을 진행하며 통일교 영향력이 사회 전반에 미칠 수 있도록 노력하고 있었다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세] 12월 20일 토요일 (음력 11월 1일 癸亥)</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/YMA422FKUZE57F2INFG7JPUXGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/YMA422FKUZE57F2INFG7JPUXGE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
+		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
+멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
+		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
+		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>李 “법무부, 가장 중요한 부처...국민 신임 저버리지 않았으면” </title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/4Y2NUCZZBFDUBLE6CPZJKPOZIU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/4Y2NUCZZBFDUBLE6CPZJKPOZIU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 07:30:24 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHGPY7ZP5VNPPKTQQNIZBNSI2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 19일 서울 종로구 정부서울청사 별관에서 부처별 무보고에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 19일 “법무부는 국가 법질서를 유지하기 위해 공권력을 행사하는 중요 기관”이라며 “법무부가 국민의 신임을 저버리지 않았으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 정부서울청사에서 열린 법무부·대검찰청·성평등가족부 업무보고에 앞서 “법무부는 모두가 잘 아는 것처럼 국가 법질서를 책임지는 가장 중요한 부처 중 하나”라며 이렇게 말했다.&lt;br&gt;&lt;br&gt;이 대통령은 그러면서 “법무부는 국가의 공인된 폭력을 제도적으로 행사하는 곳”이라며 “최대한 절차적으로 정당해야 하고 결과 역시 정당해야 한다”고 했다.&lt;br&gt;&lt;br&gt;여성가족부에서 이름을 바꾼 성평등가족부에 대해서는 “국민 사이에 평등 정책을 제대로 시행하는 중요한 기관”이라며 “꽤 오랫동안 국가기관으로 취급을 제대로 받지 못한 측면이 있다. 지금부터라도 주어진 역할을 잘하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>구자건 J&amp;K 산업 대표, 고려대에 1억원...누적 기부액 3억1000만원</title>
+      <link>https://www.chosun.com/national/people/2025/12/19/L5FBH7XWBZAJVP5ODJ5E2GWYKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/19/L5FBH7XWBZAJVP5ODJ5E2GWYKM/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:22:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5THLR7UYBD3HOXBWDBXILDIO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자건 J&amp;K 산업 대표/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 구자건(물리학과 66학번) J&amp;amp;K 산업 대표가 지난 11일 자연계 중앙광장 건립 기금으로 1억원을 기부했다고 밝혔다. 지난 1998년부터 고려대에 기부를 이어 온 구 대표는 이번 기부로 개인과 부인 최경애씨, J&amp;amp;K 산업의 누적 기부금이 3억1000만원을 넘어서게 됐다.&lt;br&gt;&lt;br&gt;구 대표는 지난 1998년 100주년 기념관 건립기금으로 100만원을 낸 것을 시작으로 지금까지 30차례 넘게 고려대에 기부를 해왔다. 100주년기념관 건립기금과 교우회 장학금 등 다양한 기부를 해왔다고 고려대는 설명했다. 구 대표는 작년 12월에도 부인 최씨와 함께 자연계 중앙광장 건립 기금 1억원을 기부한 바 있다.&lt;br&gt;&lt;br&gt;그는 이번 기부에 대해 “기부는 드러내기보다는 이어가는 것이 중요하다고 생각해 조용히 진행하게 됐다”며 “학생들이 머무르고 소통하는 공간이 더 나은 배움의 환경으로 이어지길 바라는 마음”이라고 소감을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인천 선미도 해상에서 어선 전복… 4명 구조, 1명 수색 중</title>
+      <link>https://www.chosun.com/national/incident/2025/12/19/6KQ7QVBIWRFIPAU3LFSTIJVKNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/6KQ7QVBIWRFIPAU3LFSTIJVKNE/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:30:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IZS27RF2FH7NNQKWHZAIXAP3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 2시 14분쯤 인천 옹진군 선미도 북쪽 13㎞ 해상에서 전복된 어선 주변을 해양경찰이 수색하고 있다./ 인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 선미도 인근 해상에서 어선이 전복돼 해양경찰이 구조에 나섰다. &lt;br&gt;&lt;br&gt;19일 인천해양경찰서에 따르면, 이날 오후 2시 14분쯤 인천시 옹진군 선미도 북쪽 13㎞ 해상에서 승선원 5명이 탄 7.9t급 어선이 전복됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정과 공기부양정, 인천구조대, 항공기 등을 현장에 투입해 구조 작업을 진행하고 있다. &lt;br&gt;&lt;br&gt;해경 관계자는 “승선원 5명 중 4명은 인근 선박에서 구조했다”며 “나머지 1명은 수색하고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCEEKZKPLBDFNJ73YN4YHHKYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;선미도 인근 해상 전복사고 위치도./인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위원장 “국군포로·납북자·억류자 즉각 송환 이뤄져야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/VIF33XMLURDQLLWHVYYSOUL2XI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/VIF33XMLURDQLLWHVYYSOUL2XI/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 07:10:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTWYL7M7CVOAHDJBBDECY2L7XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안창호 국가인권위원회(인권위) 위원장이 북한을 향해 국군 포로와 납북자, 억류자를 즉각 송환할 것을 촉구했다.&lt;br&gt;&lt;br&gt;안 위원장은 19일 성명을 내고 “21년 연속으로 유엔총회에서 북한인권결의가 채택된 것을 환영한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;지난 18일 제80차 유엔총회에서는 대한민국을 포함한 61개국이 공동 제안국으로 참여한 북한인권결의가 채택됐다. 참여국들은 결의를 통해 국군 포로, 납북자, 억류자의 즉각적인 송환과 북송된 탈북 임산부에 대한 강제 낙태 및 영아 살해 중단 등을 북한에 촉구했다.&lt;br&gt;&lt;br&gt;이에 대해 안 위원장은 “북한에서 중대한 인권 침해가 오랫동안 지속되고 있는 점에 대해 깊은 우려를 표한다”며 “아직 고국으로 돌아오지 못한 국군 포로는 물론 납북자, 억류자를 즉각 송환할 것, 그리고 이들 중 사망자가 있다면 유해를 발굴해 송환할 것을 강력히 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;또 안 위원장은 “향후에도 북한의 인권 상황에 획기적인 변화가 없다면 우리 정부가 지속적으로 공동제안국으로 참여하기를 요청한다”며 “인권위 역시 북한 주민의 실질적인 인권 개선을 위해 국제사회와의 협력을 강화하는 데 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정보사 요원 명단 유출’ 노상원 前정보사령관, 1심 실형에 항소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/AP7FAGQ7JVABTAGOCMLFFFHRYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/AP7FAGQ7JVABTAGOCMLFFFHRYM/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:31:30 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MFTDQMBXMU2DMZJVMU3TMYJVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;노상원 전 국군정보사령관이 지난 8일 서울중앙지법에서 열린 윤석열 전 대통령의 내란 우두머리, 직권남용 권리행사방해 혐의 사건 속행 공판에서 증인 신문에 답하고 있다. /서울중앙지법&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 ‘부정선거 수사단’을 꾸리기 위해 국군정보사령부 요원들의 개인정보를 빼낸 혐의로 1심에서 징역 2년을 선고받은 노상원(63) 전 정보사령관이 19일 판결에 불복해 항소했다. 노 전 사령관에게 징역 4년을 구형한 내란 특검도 항소하면서 사건은 항소심 판단을 받게 됐다.&lt;br&gt;&lt;br&gt;노 전 사령관은 지난해 9~12월 이미 전역한 민간인 신분으로 부정선거 의혹을 수사할 비선 조직인 ‘제2수사단’을 기획하면서 문상호 당시 정보사령관 등에게 정보사 요원 46명의 계급과 출신, 임관년도 등 인적 사항을 요구해 넘겨받은 혐의를 받는다. 또 작년 8~10월 김봉규 전 정보사 중앙신문단장(대령)과 구삼회 육군 2기갑여단장(준장)에게 진급을 도와주겠다는 명목으로 현금 2000만원과 백화점 상품권 600만원어치를 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사21부(재판장 이현복)는 지난 16일 노 전 사령관의 혐의를 모두 유죄로 보고, 징역 2년에 추징금 2490만원을 선고했다. 재판부는 “노씨 범행은 실체적 요건을 갖추지 못한 비상계엄이 선포 단계까지 이르게 하는 동력 중 하나가 됐다”며 “단순히 개인정보보호법 위반이나 알선수재 범행의 죄책을 넘어 위헌·위법한 비상계엄 선포라는 중대하고 엉뚱한 결과를 야기했다는 점에서 엄중한 책임을 묻지 않을 수 없다”고 했다.&lt;br&gt;&lt;br&gt;다만 재판부는 노씨가 취득한 요원 명단이 노씨 외 군 외부로 유출된 것으로 보이지는 않고, 청탁 알선도 실패한 것으로 그친 점을 양형에 고려했다고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>패션 디자이너 행세하며 로맨스 스캠…檢, 20대 男 구속 기소</title>
+      <link>https://www.chosun.com/national/incident/2025/12/19/4I4VXXW5ANCZ5AYQNXDOWHOE7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/4I4VXXW5ANCZ5AYQNXDOWHOE7M/</guid>
+      <dc:creator>부천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:18:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6IVS37UEW5PKFMWDD3UGJZI6TE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;검찰 로고./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;데이트 애플리케이션에서 만난 여성을 속여 700여 만원을 가로챈 20대 남성이 검찰의 보완 수사를 거쳐 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천지검 부천지청 형사3부(부장 유지연)는 사기 혐의로 A(27)씨를 구속 기소했다고 19일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 5~6월 데이트 애플리케이션을 통해 만난 여성 B씨를 속여 700만원을 받아 가로챈 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 ‘유명 브랜드에 근무하는 패션 디자이너’라고 거짓말을 하고 “부모님 가게를 고쳐야 해 급전이 필요하다”며 돈을 뜯어낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 경찰이 송치한 사건을 보완 수사해 로맨스 스캠 사기임을 파악했다. 이후 다른 피해자가 A씨에 대한 고소장을 제출해 경찰이 수사하고 있다는 사실을 확인하고 A씨의 구속영장을 청구했다. 검찰은 A씨가 구속 전 피의자 심문(영장실질심사)에 출석하지 않자, 검거팀을 구성해 지난 11일 자택에서 붙잡아 영장을 집행했다. &lt;br&gt;&lt;br&gt;A씨는 지난해 사기죄로 1심에서 실형 선고를 받은 뒤, 항소심에서 집행유예로 풀려난 것으로 조사됐다. &lt;br&gt;&lt;br&gt;검찰은 다른 피해자가 더 있는 것으로 보고 추가로 수사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김해국제공항 국제선 여객 1000만명 돌파...지방공항 최초</title>
+      <link>https://www.chosun.com/national/regional/2025/12/19/DYPGLAQOQBBXNGG6YG7MP3WWZA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/19/DYPGLAQOQBBXNGG6YG7MP3WWZA/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:34:57 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7HTE66QVFVIILOKLXDJNLZU6BE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오전 부산 강서구 김해국제공항 국제선 확충터미널에서 열린 '김해공항 국제여객 1000만 명 달성 기념행사'에서 남창희 한국공항공사 김해공항장, 허남식 부산시 신공항추진본부장, 민홍철 의원 등 참석자들이 터치버튼 퍼포먼스를 하고 있다. /뉴스1
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김해국제공항 국제선 여객 이용자가 처음으로 1000만명을 넘어섰다. &lt;br&gt;&lt;br&gt;부산시는 19일 기준 김해국제공항 국제선 여객 1000만명을 돌파했다고 밝혔다.&lt;br&gt;&lt;br&gt;1976년 김해국제공항 개항 이후 최대이자 지방공항 역대 최초다. 국제선 여객 직전 최다 기록은 2018년 987만명이었다. &lt;br&gt;&lt;br&gt;부산시에 따르면 주당 운항 편수는 현재 42개 도시 1546편으로, 2018년 말 41개 도시 1306편 대비 118%가량 늘었다. 이는 코로나19 이전으로 국제선 여객 수요와 운항 편수가 완전히 회복했다는 의미라고 시는 설명했다.&lt;br&gt;&lt;br&gt;올해는 지방공항 최초로 중앙아시아 중·장거리 직항 노선인 부산∼타슈켄트, 부산∼알마티 등 2개 노선을 신설했다.&lt;br&gt;&lt;br&gt;김해공항 국제선 확장터미널의 미해결 과제였던 신설 입국장의 세관·출입국·검역(CIQ) 인력 증원을 위해 내년 관세청 14명, 법무부 7명을 증원하기로 했다. &lt;br&gt;&lt;br&gt;세관·출입국·검역기관이 기존 입국장 운영 시간을 탄력적으로 조정해 올해 신설한 제2출국장을 지난 12일부터 조기 운영하고 있다.&lt;br&gt;&lt;br&gt;한국공항공사는 국제선 여객 1000만명 돌파를 축하하려고 이날 오전 김해공항 국제선 확충터미널에서 기념행사를 열었다.&lt;br&gt;&lt;br&gt;김해공항은 인도네시아 직항노선, 튀르키예 등 유럽노선과 중동을 비롯한 미주 장거리 신규노선 개발 등을 통한 국제노선의 다변화를 추진할 계획이다. &lt;br&gt;&lt;br&gt;남창희 한국공항공사 김해공항장은“김해공항 발전을 위해 힘써주신 지자체와 지역사회의 도움이 있었기에 가능했다”며 “앞으로도 최고의 안전과 최상의 서비스를 실천하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘변호사법 위반’ 이종호, 보석 청구 또 기각... 내년 2월 1심 선고</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/7YPHZV556BBQ3LLYQA3IZNUPOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/7YPHZV556BBQ3LLYQA3IZNUPOQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:14:01 +0000</pubDate>
+      <content:encoded>‘도이치모터스 주가 조작’ 사건의 1차 주포에게 “집행유예를 받도록 해주겠다”며 8390만원을 뜯어낸 혐의로 구속 기소된 이종호 전 블랙펄인베스트 대표가 법원에 보석을 청구했으나 받아들여지지 않았다. 이 전 대표는 김건희 여사의 증권 계좌를 관리한 인물이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA3GIMZTGZRTIMBSG5STAY3EG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이종호 전 블랙펄인베스트 대표./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사23부(재판장 오세용)는 19일 이 전 대표가 청구한 보석을 기각하고, 구속을 유지하기로 결정했다. 지난 10월에도 이 전 대표는 보석을 청구했다가 기각됐는데, 이번에도 같은 결정을 받은 것이다.&lt;br&gt;&lt;br&gt;이 전 대표는 “법률적 다툼의 여지가 있다”고 지난 16일 보석 심문에서 주장했다. 이 사건 수사가 김건희 특검법에 규정된 수사 대상에 해당되지 않는다는 것이다. 또 “유죄를 선고받고 법정 구속되는 한이 있더라도, 선고기일 전까지 석방된 상태에서 다른 재판을 준비할 수 있는 기회를 달라”고 호소했다. 이 전 대표는 해병 특검 수사 도중 지인에게 휴대전화를 부숴 버리게 했다는 증거인멸교사 혐의로 약식기소됐는데, 무죄를 주장하며 정식재판을 청구한 상태다.&lt;br&gt;&lt;br&gt;특검은 결심에서 징역 4년과 추징금 8390만원을 구형했고, 이 전 대표는 별건 수사로 인한 절차적 하자를 주장하며 공소 기각을 호소했다. 선고는 내년 2월 13일 열린다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘총책 마동석’ 캄보디아 보이스피싱 조직 팀장 징역 6년</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/5TT74PGSBBCD7KEBS445TYFGKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/5TT74PGSBBCD7KEBS445TYFGKM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:10:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QJRPXAZOUZCKDEOV7MM2SOILHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울동부지법. /김도균 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;캄보디아에 거점을 두고 활동한 보이스피싱 조직의 ‘로맨스팀’ 관리자가 1심에서 중형을 선고받았다.&lt;br&gt;&lt;br&gt;19일 서울동부지법 형사15부(재판장 김양훈)는 범죄단체 가입 등 혐의로 기소된 정모(29)씨 등 5명에 대한 선고기일을 열었다. 이날 재판부는 로맨스 스캠(연애 빙자 사기)을 담당하는 팀의 관리자 정씨에게 가장 높은 형량인 징역 6년을 선고하고 추징금 5352만2000원을 명령했다. 정씨와 함께 기소된 다른 조직원들에게도 징역 3년 6개월~4년의 실형이 내려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인들은 보이스피싱 범죄를 목적으로 결성된 단체에 가입해 각자 역할을 분담했다”며 “범행으로 인한 피해 규모와 회복 정도 등을 종합했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;이들이 속했던 ‘한야 콜센터’는 ‘마동석(영화배우 이름)’이란 활동명을 쓰는 중국계 외국인 총책의 주도로 작년 10월부터 지난 4월까지 피해자 11명에게서 총 5억2700만원을 가로챈 것으로 조사됐다. 일당은 캄보디아에 거점을 두고 로맨스 스캠과 공공·수사 기관 사칭 등 수법으로 범행을 벌였다. 조직원 대부분이 20·30으로 비자 연장 등 문제로 잠시 한국에 들어왔다 검거됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>부산공동어시장 현대화사업 19일 첫삽...2029년 준공 목표</title>
+      <link>https://www.chosun.com/national/regional/2025/12/19/2NBC7F2UCJDGJNLT3X2B3C6HHI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/19/2NBC7F2UCJDGJNLT3X2B3C6HHI/</guid>
+      <dc:creator>부산=김미희 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:22:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VGTSBZIZ5IFTAWJVYE5DRZYNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 부산 서구 부산공동어시장에서 열린 현대화사업 착공식에서 박형준 부산시장, 최현호 해양수산부 수산정책실장, 노동진 수협중앙회장, 정연송 부산공동어시장 대표이사 등 참석자들이 착공 퍼포먼스를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최대 수산물 위판장인 부산공동어시장의 현대화를 위한 착공식이 19일 열렸다. &lt;br&gt;&lt;br&gt;사업이 완료되면 부산공동어시장은 콜드체인 시설과 물류 자동화시스템을 갖춘 위생·선진적 밀폐형 위판장으로 재탄생한다.&lt;br&gt;&lt;br&gt;사업의 시행자는 부산공동어시장 조합공동사업법인이다.&lt;br&gt;&lt;br&gt;부지 면적은 6만4247㎡, 연면적은 6만천971㎡다. 총사업비는 2422억원으로 국비가 70% 지원되며 나머지는 시비 20%, 자부담 10%로 각각 충당한다.&lt;br&gt;&lt;br&gt;해수부는 부산공동어시장이 국내 위판 물량의 큰 비중을 차지하는 점을 고려해 공사 중에도 위판 기능을 유지할 수 있도록 했다. 사업 구역을 3개로 나눠 단계별로 철거와 신축 공사를 진행하고 사업 구역 내 대체 위판장도 조성할 예정이다.&lt;br&gt;&lt;br&gt;부산공동어시장은 앞으로 수산물 산지 위판장에서 중앙도매시장으로 전환된다. 사업 기간은 47개월로 오는 2029년 말 준공된다.&lt;br&gt;&lt;br&gt;국비를 지원하는 만큼 시장의 공공성을 강화할 수 있도록 부산시가 관리·감독을 맡는다.&lt;br&gt;&lt;br&gt;부산공동어시장은 국내 최대 규모의 산지 위판장으로 1973년 개장 이후 재정비하지 않아 시설이 노후화했으며 위생에 대한 지적도 계속됐다.&lt;br&gt;&lt;br&gt;부산공동어시장의 지난해 수산물 위판량은 12만6000t이다. 이 중 고등어는 7만4000t으로 국내 위판량의 62%를 차지한다.&lt;br&gt;&lt;br&gt;앞서 2010년 해수부(당시 농림수산식품부)는 관계기관과 업무협약을 체결하며 부산공동어시장 현대화의 추진 기반을 마련했으나 설계 내용, 사업비 등을 놓고 갈등이 일어 설계가 중단되는 등 난항을 겪었다.&lt;br&gt;&lt;br&gt;해수부는 지난해 8월 부산시, 부산공동어시장 조합공동사업법인과 협의체를 구성해 이해관계자 간 이견을 해소했고 같은 해 9월 최종적으로 합의한 설계안을 마련했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘수십억 횡령’ 박수홍 친형, 2심 징역 3년6개월에 법정구속</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/5Q2HI6F2CJANHF3UVREAHG4O6I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/5Q2HI6F2CJANHF3UVREAHG4O6I/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 06:06:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMNTDGIZDQZTBMUYGEYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍씨의 소속사를 운영하면서 수십억원을 횡령한 혐의로 재판에 넘겨진 친형이 1심에 이어 항소심에서도 실형을 선고받았다. 1심과 달리 항소심은 박씨에게 도주 우려가 있다며 법정 구속했다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 19일 특정경제범죄가중처벌법상 횡령 혐의로 기소된 박진홍씨에게 징역 3년 6개월을 선고했다. 함께 기소된 배우자 이모씨에 대해서는 1심 무죄 판결을 뒤집고 징역 1년 6개월에 집행유예 2년, 사회봉사 120시간을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 유명 연예인의 가족으로 고소인(박수홍) 수익을 사적 부를 축적하는 데 사용해 신뢰를 배반했다”며 “도덕적 해이 등 윤리적 논란을 불러일으켜 악영향을 미쳤다”고 지적했다. 이어 “피고인은 고소인에게 최초로 문제 제기를 받았을 때 진지한 노력 없이 문제 상황을 외면했다”며 “긴 시간이 지나 객관적 증거가 부족하다는 점에 기대 상황을 외면했다”고도 비판했다.&lt;br&gt;&lt;br&gt;박수홍은 지난 2021년 4월 친형 부부를 횡령 혐의로 고소했다. 검찰은 이들이 지난 2011년부터 2021년까지 10년간 박수홍의 매니지먼트를 전담하면서 회삿돈과 박수홍의 개인 자금 등 총 61억7000만원을 횡령한 혐의로 기소했다. 이후 중복된 내역 등을 제외해 40억원대로 공소장 내용을 변경했다.&lt;br&gt;&lt;br&gt;1심은 지난해 2월 박씨에게 징역 2년을 선고했고, 이씨에겐 무죄를 선고했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시 “‘남산 곤돌라 패소’ 판결 납득 어렵다…즉시 항소”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/OFPHHSSVANFF7AM2XU2ERCE55Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/OFPHHSSVANFF7AM2XU2ERCE55Y/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 05:57:30 +0000</pubDate>
+      <content:encoded>서울시가 19일 법원의 남산 곤돌라 관련 ‘도시관리계획 변경 결정 처분 취소’ 판결에 대해 “즉시 항소하겠다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMCJW47I3BEADE4ECOMNAZATDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남산 곤돌라 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 이날 남산케이블카를 운영하는 한국삭도공업 등이 서울시를 상대로 낸 도시관리계획 변경 결정 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이에 대해 서울시는 “이번 판결은 도시관리계획 결정 과정에서 서울시가 지킨 절차적 정당성과 법률상 요건을 충분히 반영하지 못했다”며 “항소심에서 도시관리계획 변경의 적법성, 정책의 필요성과 공익성을 명확히 입증할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 서울시는 이번 소송과 별개로 공원녹지법 시행령 개정을 통해 곤돌라 사업을 계속해서 추진한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시는 앞서 2023년 6월 지하철 4호선 명동역 인근 남산예장공원과 남산 정상을 잇는 ‘남산 곤돌라’ 계획을 발표했다. 최대 10명이 탈 수 있는 캐빈 25대를 운영해 832m 구간을 5분 만에 올라갈 수 있게 한다는 계획이었다.&lt;br&gt;&lt;br&gt;지난해 9월 착공식을 열고 공사에 들어갔으나, 그 직후 한국삭도공업 등이 ‘곤돌라 공사를 중단해 달라’는 취지의 행정소송과 가처분 신청을 냈다. 같은 해 10월 서울행정법원이 가처분 신청을 인용하면서 공사가 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] ‘與 선거법·공수처법 강행 충돌’ 박범계·박주민 벌금형 선고유예...의원직 유지</title>
       <link>https://www.chosun.com/national/national_general/2025/12/19/NLUY4DX6PVDY7AOU3R6XIVAWSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/NLUY4DX6PVDY7AOU3R6XIVAWSU/</guid>
@@ -749,24 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDQNBYMEZGKYTEGVTDQMTGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. / 유튜브 백은영의 골든타임 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박나래가 무면허자에게 링거 주사 등을 맞았다는 의혹과 관련해 박나래가 처벌받기 어렵다는 전문가 의견이 나왔다.&lt;br&gt;&lt;br&gt;왕진 전문 의료인인 기승국 대한예방의학과의사회 회장은 지난 16일 YTN라디오 ‘슬기로운 라디오생활’에서 박나래 처벌 가능성에 대해 “환자는 원칙적으로 처벌받지 않는다”고 답했다.&lt;br&gt;&lt;br&gt;기 회장은 “실제로 제가 돌아다니다 보면 주사 아줌마나 주사 이모 이런 분들이 꽤 많이 있다고 들었다”며 “수많은 사람이 이런 걸 이용하고 있지만 처벌받았다는 얘기는 들어본 적 없는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그는 “환자가 단순 수혜를 넘어 무면허 의료 행위를 적극적으로 돕거나 요청한 경우에 한해 방조범이나 교사범으로 성립할 수 있다는 게 법적 논의의 핵심 쟁점”이라면서 “주사 이모나 링거 이모는 박나래씨가 아니더라도 불법 의료 행위를 이미 하고 돌아다닌 분들이기 때문에 이 정도라면 박나래씨가 방조나 교사에 이르렀다고 보기는 어렵지 않을까 생각한다”고 했다. &lt;br&gt;&lt;br&gt;기 회장은 박나래가 주사 이모를 자택 또는 호텔로 불러 수액을 맞았다는 의혹에 대해 “‘왜 저렇게까지 수액을 맞아야 하는가’ 굉장히 의심이 들었다”고 했다. 이어 “예방의학적 관점에서 보면 (수액은) 영양 결핍자가 아니면 효과가 거의 없다”며 “그것만을 전문으로 왕진·방문 진료를 하고 있다면 과연 정상적인 의료인일까 의심이 든다”고 했다.&lt;br&gt;&lt;br&gt;왕진 요건에 대해선 “의료인이 의료기관 안에서만 해야 하지만, 환자·보호자나 요청 혹은 지방자치단체장 등의 요청에 따른 예외도 있다”며 박나래 역시 환자나 보호자의 요청에 따른 왕진이었을 거라고 추측했다.&lt;br&gt;&lt;br&gt;박나래는 최근 전 매니저들의 폭로로 갑질 논란에 휘말렸다. 이 과정에서 박나래가 의료 기관이 아닌 곳에서 의사가 아닌 이른바 ‘주사 이모’에게 수액을 맞았다는 등 의료 서비스를 받았다는 의혹이 나왔다. 이와 관련해 임현택 전 대한의사협회 회장은 마약류 관리에 관한 법률 위반(향정) 및 의료법, 약사법 위반 등의 혐의로 박나래와 A씨를 검찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전국 어린이·노인·장애인 보호구역, 홈페이지에서 한눈에 본다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/5CBRDMTQCFDVDGI5H3KG5BJSX4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/5CBRDMTQCFDVDGI5H3KG5BJSX4/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 05:19:18 +0000</pubDate>
-      <content:encoded>전국 곳곳의 어린이·노인·장애인 등 보호구역을 한눈에 볼 수 있는 홈페이지가 개설됐다. 전국 지방자치단체들이 제각기 관리하던 보호구역 실태를 홈페이지를 통해 손쉽게 확인하고, 학부모도 어린이 보호구역 근처 울타리 설치 등 개선 요청을 간편하게 할 수 있게 됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4DMY3EGQ3GEMDCHEYTQZRWGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의 한 초등학교 앞 어린이보호구역. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청은 이런 기능을 하는 ‘보호구역 통합관리시스템’ 홈페이지(www.safetyzone.go.kr)을 18일 공개했다. 이 홈페이지에선 전국 보호구역 위치와 관리 상태 등을 한눈에 확인할 수 있다.&lt;br&gt;&lt;br&gt;지자체 공무원과 일반 국민들은 이 홈페이지에서 다양한 관리 업무나 시설 개선 요청도 손쉽게 할 수 있다. 공무원들은 관내 보호구역 지정·해제, 시설 등 통계 관리, 실태조사 결과 등록 등의 조치를 취할 수 있다. 학부모 등 국민들은 학교, 주민센터 등 인근에 방호 울타리나 무인단속장비 등 시설이 부족할 경우 이를 설치해달라고 하는 등 개선 요청을 할 수 있다.&lt;br&gt;&lt;br&gt;경찰청 김호승 생활안전교통국장은 “보호구역 통합관리시스템 구축으로 보호구역에 대한 체계적인 관리가 가능해지고, 어린이 등 교통약자의 사고 예방에도 이바지할 것”이라며 “국민들의 많은 관심과 이용을 바란다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘인보사 사태’ 피해 본 소액주주들... 손배소 냈지만 1심서 패소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/HIZFGRLYBZDC7HTVYVGYEXDUFY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/HIZFGRLYBZDC7HTVYVGYEXDUFY/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 05:18:38 +0000</pubDate>
-      <content:encoded>코오롱그룹 계열사인 코오롱티슈진이 개발한 골관절염 유전자 치료제 ‘인보사케이주(인보사)’ 성분 조작 사태로 손실을 본 소액 주주들이 손해배상 소송을 냈지만 1심에서 패소했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3MLSFCOZZ5UXEKVDZCLAI7Q6HM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 전경.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 민사30부(재판장 김석범)는 김모씨 등 소액 주주 총 192명이 코오롱티슈진과 코오롱생명과학 등을 상대로 낸 합계 67억원 규모의 손해배상 청구 소송에서 18일 원고 패소로 판결했다.&lt;br&gt;&lt;br&gt;인보사는 코오롱티슈진이 세계 최초로 개발한 골관절염 유전자 치료제다. 1999년부터 약 18년간 2000억원 이상을 투입해 2017년 11월 국내에서 세계 최초로 판매를 시작했다. 그런데 2019년 미국 식품의약국(FDA)의 3차 임상 중 이 약의 핵심 성분명이 코오롱 측이 신고한 것과 다르다는 게 알려지면서 문제가 생겼다. &lt;br&gt;&lt;br&gt;코오롱 측은 국내 허가 과정에서 식약처에 주성분을 ‘연골 유래 세포’라고 보고했는데, 실제 주성분은 ‘신장 유래 세포’였던 것이다. 식약처는 허가를 취소하고 코오롱 측을 형사 고발했고, 이후 인보사의 국내 생산과 판매 모두 중단돼 법적 분쟁이 시작됐다. 주가 역시 급락했고 주주들은 “코오롱은 인보사 주성분이 바뀐 사실을 알고도 허위 공시를 했다”며 같은 해 8월 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;그러나 이날 1심 재판부는 소송 제기 6년여 만에 코오롱 측에 손해배상 책임이 없다고 판단한 것이다. 재판부는 “성분이 달라진다고 해도 효능이 달라지거나 특별히 유해성이 달라지지 않았다”며 “투자를 판단하는 데 주요한 사항을 거짓 기재하거나 누락한 것은 아니다”라고 판단했다.&lt;br&gt;&lt;br&gt;이 사태로 형사재판에 넘겨진 이웅열 코오롱그룹 명예회장은 지난해 11월 1심에서 무죄를 선고받았다. 당시 재판부는 코오롱 측이 고의로 성분을 속이거나, 성분이 다르다는 것을 알면서도 은폐한 것이 아니라고 판단했다. 또 이 회장이 2015년 FDA의 ‘임상 중단 명령’ 등을 일부러 숨긴 채 상장을 하거나, 투자를 유치한 혐의도 인정하지 않았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재, 조지호 경찰청장 파면...재판관 전원일치</title>
       <link>https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</guid>
@@ -774,15 +888,6 @@
       <description/>
       <pubDate>Thu, 18 Dec 2025 05:15:51 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>소속 모델 수차례 성폭행… 성인 화보 제작사 전 대표, 징역 10년</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/IZFSQ5WUANF5FHFB776NOCFE7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/IZFSQ5WUANF5FHFB776NOCFE7M/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 05:00:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWCMZYMVRGIZTEMU3TQZJTGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;성인 화보 제작사를 운영하면서 소속 모델들을 성폭행하거나 불법 촬영하는 등 혐의로 재판에 넘겨진 전직 대표에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사2부(재판장 류준구)는 피감독자 간음과 강제추행 등 혐의로 기소된 성인 화보 제작사 전 대표 A(50)씨에 대해 징역 10년을 선고했다. 또 40시간의 성폭력 치료 프로그램 이수와 출소 후 10년간 아동·장애인 관련기관 취업 제한을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 아동·청소년의 성보호에 관한 법률상 성 착취물 제작과 무고 등 혐의로 A씨와 함께 기소된 B씨에게 징역 1년을 선고하고, 40시간의 성폭력 치료 프로그램 이수와 아동·장애인 관련기관에 3년간 취업하지 못하도록 했다. &lt;br&gt;&lt;br&gt;재판부는 A씨에 대해 “피해자 진술이 수사기관에서 법정에 이르기까지 일관돼 신빙성이 있다”며 “자신이 운영하는 회사의 파급력을 이용해 피해자들에게 강제 추행, 위력 간음 등을 하면서 아동 성 착취물까지 제작하는 등 범행이 중대하고 변태적인 점 등을 고려했다”고 했다. 이어 “범행 부인을 넘어 피해자들을 허위로 고소해 무고했다”며 “피해자들에게 가해자가 죄책에 상응하는 처벌을 받는다는 걸 일깨워줄 필요가 있다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;B씨에 대해선 “A씨가 제작한 아동 성 착취물을 향후 활용 목적으로 회사 컴퓨터에 보관하는 등 죄질이 매우 나쁘다”며 “수사 과정에서 A씨를 도와 휴대전화를 은닉하고, 피해자들과 합의하지 않은 점 등을 고려했다”고 했다. &lt;br&gt;&lt;br&gt;A씨는 지난 2020년 2월부터 2023년 6월까지 경기 부천시의 호텔 등지에서 자신의 지위를 이용해 제작사 소속 모델 5명과 성관계를 하고 다른 모델 6명을 강제로 추행한 혐의로 기소됐다. &lt;br&gt;&lt;br&gt;A씨 등은 2023년 1월 성인 화보 테스트를 빌미로 미성년자 성 착취물을 촬영하고 영상 11개를 갖고 있던 혐의도 받는다. &lt;br&gt;&lt;br&gt;B씨는 지난 1월 A씨의 성범죄 사건 무마를 위해 피해자를 비롯한 16명을 경찰에 허위 고소한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>카카오·네이버·KT 이어 삼성전자도 폭파 협박...이재용 회장 위협 글까지</title>
@@ -830,15 +935,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZGCNRXMU2DGNTBMQYGIYJZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 명품 가방을 선물한 것으로 알려진 최재영 목사가 9일 오전 서울 종로구 광화문 KT 빌딩에 위치한 김건희 특검에 참고인 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 고가의 가방 등을 건넨 최재영 목사가, ‘미국 국적’ 신분으로 불법 선거운동을 한 혐의 등으로 1심서 벌금 2000만원을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 여주지원 형사1부(재판장 안재훈)는 18일 최 목사의 공직선거법 위반 혐의에 대해선 벌금 1500만원을 선고하고, 명예훼손 혐의에 대해선 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;최 목사는 선거 운동을 할 수 없는 미국 국적자 신분임에도 작년 4·10 국회의원 선거를 앞두고 경기 여주·양평 지역구에 더불어민주당 후보로 출마했던 최재관 지역위원장의 선거 운동을 도운 혐의로 불구속 기소됐다. 현행법상 대한민국 국민이 아닌 자는 국회의원선거에서 선거 운동을 할 수 없다. 최 목사는 재미교포로, 대한민국 영주권도 없다.&lt;br&gt;&lt;br&gt;그는 같은해 6월 24일 다른 선거법 위반 등 혐의로 경기남부경찰청에서 조사받기 위해 출석했을 당시, 국민의힘 이철규 의원에 대해 “이 의원이 절 ‘디올백 사건과는 무관한 선거법 위반 혐의로 엮은 것은 상당히 큰 실수”라고 말하는 등 이 의원의 명예를 훼손한 혐의도 있다.&lt;br&gt;&lt;br&gt;재판부는 최 목사의 선거법 위반 혐의에 대해 “피고인은 국회의원 선거운동을 할 수 없는 외국인인데도 시국강연회에 강사로 나서 민주당과 민주당 여주양평지역위원장을 지지하는 선거 관련 발언을 여러 차례 한 사실이 인정되고, 강연회 개최에 관여한 피고인들도 모두 유죄가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 작년 3월 최 목사가 여주 시국강연회에서 이철규 의원으로부터 “‘김건희 여사가 공천을 받으면서 한 사람당 얼마를 받는다는 얘기를 했다’라는 취지의 발언을 들었다”고 말해 이 의원의 명예를 훼손한 혐의에 대해선 무죄로 판단했다. 재판부는 “비방 목적과 동기가 발견되지 않고, 구체적 사정도 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “외국인 신분인데 적극적으로 선거운동을 하며 선거 관련 발언을 해 죄질이 가볍지 않고, 피해자와 합의가 되지 않은 점, 총선에서 여주양평지역구 민주당 후보가 낙선해 선거 영향이 제한적이었던 점 등을 양형에 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQWIMTBGIYDCZBWGAZWEM3CGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 여주지원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 최 목사와 함께 선거법 위반 혐의로 함께 기소된 여현정 양평군의원에게는 벌금 1000만원, 최 위원장에게는 벌금 90만원, 시민단체 관계자 등 4명에게는 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;이들은 선고 직후 취재진에 “공익과 시민의 알 권리 차원에서 한 것인데 가혹한 판결”이라며 “항소하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 최 목사는 지난 9일 김 여사와 관련한 검찰의 부실 수사 의혹을 수사 중인 민중기 특별검사팀에 참고인 신분으로 출석해 조사를 받았다. 최 목사는 2022년 9월 김 여사에게 디올백을 건넨 당사자로, 이듬해 11월 인터넷 매체 서울의소리가 이 모습이 담긴 ‘몰래카메라’ 영상을 공개하면서 불법 청탁 의혹이 제기됐다. 최 목사는 자신이 김 여사에게 미국 민간외교사절단 행사 참여 요청, 김창준 전 미국 하원의원 국정자문위원 임명과 국립묘지 안장 등을 청탁했다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘황의조 수사정보 유출’ 경찰관 1심 무죄→2심 실형</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/GQBQFNARU5A33GP3WV4VCCYJDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/GQBQFNARU5A33GP3WV4VCCYJDA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 03:42:38 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXZJNY4VNDAC6MJ5WP5LEJKKD4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 촬영 혐의로 기소된 황의조가 징역 1년 집행유예 2년을 선고받았다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가대표 출신 축구선수 황의조(33)의 ‘불법 촬영 사건’ 수사 과정에서 압수 수색 정보를 유출한 혐의로 기소된 현직 경찰관에게 항소심에서 실형이 선고됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소4-3부(재판장 윤원묵)는 18일 공무상 비밀누설죄 혐의를 받는 조모(45)씨의 항소심에서 무죄를 선고한 원심을 파기하고 징역 1년을 선고했다. 재판부는 “압수 수색은 범죄 수사 과정에 있어 핵심적인 국가 기능”이라며 “현직 경찰관 신분으로 변호사와 결탁해 수사 비밀을 누설한 행위는 공권력에 대한 신뢰를 심하게 훼손한 것으로 엄중한 책임을 물을 필요가 있다”고 했다. 다만 현직 경찰관 신분으로 구속 사유가 크지 않고 형이 확정될 때까지 방어권을 보장할 필요가 있다고 판단해 법정 구속은 하지 않았다.&lt;br&gt;&lt;br&gt;조씨는 서울경찰청 사이버수사대에서 근무하던 작년 1월 아는 변호사에게 자신이 속한 팀의 황의조 사건 압수 수색 일정을 유출한 혐의로 재판에 넘겨졌다. 이 정보는 브로커를 거쳐 황의조 측에 전달된 것으로 조사됐다. 황의조 측은 당시 “한 브로커가 수사팀만 알 수 있는 압수 수색 장소와 일시 등을 알려주면서 수사 무마 대가로 금전을 요구했다”며 경찰에 수사관 기피 신청서를 내기도 했다. 다만 조씨는 수사 정보에 대한 대가로 금품 등을 받지는 않은 것으로 나타났다. 현재는 직위해제된 상태다.&lt;br&gt;&lt;br&gt;지난 1월 1심 법원은 “조씨가 압수 수색 정보를 누설했다는 의심이 들지만 확신에 이를 정도로 범죄가 증명되지 않았고 조씨에게 누설 동기나 목적이 분명하지 않다”면서 무죄를 선고했다. 그러나 이날 항소심 재판부는 조씨와 변호사의 관계나, 브로커와 황씨 측의 대화 내용 등에 비춰봤을 때 조씨가 수사 정보를 유출한 범인이 맞는다고 판단했다. 재판부는 “조씨 지인 변호사와 브로커의 통화 기록을 봤을 때 (압수 수색) 직전·직후로 연결되는 통화 기록이 있다”고 했다. 또 “조씨가 황의조 형수를 조사하는 사이버수사대의 수사 진행 상황을 궁금해한 정황도 있고, 조사 과정에서 말을 바꾸기도 했다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 그러면서 “수사 정보 유출로 인해 황의조 수사팀은 기피 신청을 당하는 등 수개월간 힘들게 쌓아온 수사의 신뢰성과 공정성에 타격을 받았고, 당시 수사에 관여했던 상당수 다른 경찰관들은 수사 대상이 되는 등 조씨는 동료 경찰관들에게 상당한 고통을 안겨줬다”고 지적했다. 다만 재판부는 조씨가 초범이고 실제 압수 수색 영장 집행에 지장을 주지는 않은 점을 참작해 형을 정했다.&lt;br&gt;&lt;br&gt;한편, 황의조는 2022년 6~9월 여성 2명의 동의 없이 여러 차례 성관계 영상을 촬영한 혐의로 지난해 재판에 넘겨졌고 1, 2심에서 징역 1년에 집행유예 2년이 선고됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“운전석서 술 냄새가...” 부산서 승객 신고로 숙취 운전 마을버스 기사 적발</title>
       <link>https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</guid>
@@ -857,69 +953,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSMHGHEQN75D2TWHMNJ5GRNUWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 최고 체감기온이 38도 이상으로 오를 때 ‘폭염중대경보’가 발령된다. ‘열대야주의보’와 ‘극한호우 긴급재난문자’가 신설되고, 지난 여름 강릉 가뭄과 같은 사태를 방지하기 위한 ‘통합 기상가뭄 정보’도 제공된다.&lt;br&gt;&lt;br&gt;기상청은 18일 이같은 내용이 담긴 ‘2026년 주요 정책 추진 계획’을 발표했다. 기후변화로 극한 기상과 기상 재난이 잦아지면서 이에 대응하기 위해 기존 특보 체계 등을 크게 손본 것이 골자다.&lt;br&gt;&lt;br&gt;폭염특보가 17년 만에 바뀐다. 최고 체감 기온에 따라 ‘폭염주의보’ ‘폭염경보’ 두 단계로 나누던 이전 특보에 ‘폭염중대경보’라는 더 센 경보가 추가된다. 바깥 활동이 온열 질환으로 이어질 수 있다는 강력한 메시지를 주는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGSA7PBMLRBBBN7PYTVBEAQJG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 여름 강원 철원군 갈말읍의 한 도로에서 소방대원들이 침수된 승용차를 이동시키고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤잠 못 이루는 열대야에도 특보를 발령해 대비할 수 있게 된다. 열대야(밤 최저기온 25도 이상)가 이틀 이상 지속될 것으로 예상될 때 ‘열대야주의보’가 내려진다. 다만 폭염특보와 달리 열대야는 세분화 없이 주의보만 발령된다. 강원 강릉 등 일부 지역에서 밤 최저기온이 30도를 넘는 ‘초열대야’가 발생하고 있으나 흔한 현상은 아니기 때문이다.&lt;br&gt;&lt;br&gt;시간당 100㎜ 이상 ‘극한 호우’가 쏟아질 때 ‘극한호우 긴급재난문자’가 해당 지역에 발송된다. 현재는 시간당 80㎜ 이상 비가 내릴 때 ‘호우 긴급재난문자’가 발송되고 있는데, 지난 여름부터 시간당 100㎜ 이상의 비가 빈번해지자 상위 단계 재난문자를 새로 만든 것이다.&lt;br&gt;&lt;br&gt;정부의 재생에너지 확대 기조에 따라 태양광·풍력발전에 영향을 미치는 ‘일사’와 ‘풍량’에 대한 정보를 담은 ‘재생에너지 기상 서비스’도 시작돼 발전량을 예측할 수 있게 된다. 기상청은 ‘재생에너지 자원지도’를 내년 12월까지 개발해 풍력발전 입지 선정도 지원하겠다는 계획이다. 바람이 일정하게 부는 곳을 찾아 입지 선정에 도움을 주겠다는 취지다.&lt;br&gt;&lt;br&gt;제한 급수를 겪을 정도로 극심했던 지난 여름 ‘강릉 가뭄’과 같은 사태를 방지하기 위한 ‘통합 기상가뭄 정보’도 내년 6월부터 제공된다. &lt;br&gt;&lt;br&gt;이미선 기상청장은 “인공지능(AI) 기반의 기상·기후 수치모델 개발 등으로 예보 정확도를 높일 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘통일교 금품 수수’ 의혹 제기된 전재수 민주당 의원, 경찰 출석한다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/ZMVUY6WGAJENDDJXGSISI5IIBQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/ZMVUY6WGAJENDDJXGSISI5IIBQ/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 02:42:54 +0000</pubDate>
-      <content:encoded>통일교로부터 수천만원의 현금과 명품 시계 등을 받았다는 의혹이 제기된 전재수 민주당 의원이 19일 경찰에 출석한다. 금품을 받았다는 의혹이 제기된 정치인 중 실제 경찰 조사를 받는 것은 전 의원이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME4TIMBSGYZWINRWGE4WKYTBHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교로부터 금품을 수수한 의혹을 받는 전재수 더불어민주당 의원이 지난 15일 경찰의 압수수색이 종료된 서울 여의도 국회의원회관 의원실에서 나서 취재진에게 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정치권의 통일교 금품 수수 의혹을 수사하는 경찰청 국가수사본부는 이날 오전 전 의원을 소환해 조사하는 것으로 전해졌다. 전 의원은 통일교로부터 한일 해저터널 등 청탁을 받으며 금품을 수수한 혐의를 받는다.&lt;br&gt;&lt;br&gt;지난 15일 경찰은 전 의원의 자택, 의원실 등에 대해 압수 수색을 실시했다. 영장에는 전 의원에 대해 “통일교로부터 현금 2000만원 및 1000만원 상당의 시계 1점을 수수했다”는 혐의가 적시됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 전 의원을 소환해 현금을 주고받은 정황 등에 대해 집중적으로 추궁할 전망이다. 경찰은 지난 17일 한 총재에 대한 구치소 조사에서도 전 의원의 뇌물수수 혐의에 대해 집중해서 물은 것으로 전해졌다. 경찰은 18일 오전에는 통일교 2인자이자 한 총재의 전 비서실장이었던 정원주 전 실장도 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;전 장관이 통일교 행사에 참석하는 등 적극적으로 교류해 온 정황도 드러나고 있다. 2018년 5월에는 부산 벡스코에서 통일교가 주최한 ‘2018년 희망전진결의대회’에 참석해 한학자 총재와 와인을 마시며 사진을 찍었고, 2020년 3월에는 통일교 계열 관계자들과 한학자 통일교 총재 자서전을 들고 사진을 촬영했다. &lt;br&gt;&lt;br&gt;2019년 11월 전 의원의 출판기념회 직후 통일교 측이 전 의원의 책 500권을 구입해 편법 지원했다는 의혹도 제기됐다. 전 의원은 이런 의혹들에 대해 “의원실 확인 결과 해당 도서는 출판사를 통해 정상적으로 구매된 것”이라며 “통일교로부터 그 어떠한 불법적인 금품 수수도 없었다”는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘돈봉투 수수’ 민주당 전현직 의원들, 2심서 무죄로 뒤집혔다</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/XYGBC4Q6C5CNFJ2F6SGLZHLPVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/XYGBC4Q6C5CNFJ2F6SGLZHLPVI/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 01:25:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CB2WM56WTBGYJLBXPU3ZS6HX5Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전당대회 돈봉투 수수 혐의로 재판에 넘겨진 윤관석(왼쪽부터) 전 의원, 허종식 더불어민주당 의원, 임종성 전 의원이 18일 서울 서초구 서울고법에서 열린 정당법 위반 2심 선고에서 무죄를 선고 받은 뒤 법정을 나서고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘더불어민주당 전당대회 돈봉투’ 사건으로 기소된 허종식 의원과 윤관석·임종성 전 의원이 18일 항소심에서 무죄를 선고받았다. 1심은 세 명에게 징역형 집행유예를 선고했는데, 핵심 증거인 ‘이정근(전 민주당 사무부총장) 녹음 파일’이 위법하게 수집된 증거에 해당한다고 항소심이 판단하면서 판단이 뒤집어졌다.&lt;br&gt;&lt;br&gt;서울고법 형사2부(재판장 김종호)는 이날 세 전현직 의원의 선고 공판을 열고 모두 무죄를 선고했다. 이 사건은 송영길 전 민주당 대표(현 소나무당 대표)가 2021년 5월 전당대회에서 당대표로 선출되기 직전 윤 전 의원을 통해 동료 의원들에게 돈봉투를 살포했다는 것인데, 항소심 재판의 쟁점은 수사의 단초가 된 이 전 부총장 휴대전화 속 녹음 파일을 증거로 쓸 수 있는지 여부였다. &lt;br&gt;&lt;br&gt;검찰은 2022년 이 전 부총장이 각종 알선·청탁을 빌미로 10억원대 금품을 받은 개인 비리를 수사하는 과정에서 이 전 부총장이 임의 제출한 휴대전화 3대 속 돈봉투 관련 대화 내용이 담긴 녹취록을 발견해 수사에 착수했는데, 검찰은 “이 전 부총장에게 휴대전화 속 녹음 파일 등을 다른 사건 수사에 사용해도 좋다는 확인을 받았다”며 적법한 증거에 해당한다고 주장했다.&lt;br&gt;&lt;br&gt;그러나 항소심은 “이 전 부총장은 1심에 증인으로 출석했을 당시 자신의 휴대전화 3대 안에 이 사건 금품 수수 관련 내용이 있다고 인식하지 못했다고 증언했다”며 “휴대전화 3대의 임의 제출 관련 압수 조서 등에도 이씨의 알선수재 등 혐의 사건만 기재돼 있다”고 지적했다. 돈봉투 사건 수사를 위해 적법하게 압수한 증거가 아니라는 얘기다.&lt;br&gt;&lt;br&gt;항소심은 “이러한 증거를 배제하면, 1심에서 유죄 근거로 삼은 증거 상당 부분이 배제된 것이고, 남은 증거들은 공소사실을 뒷받침하기에 충분하지 않다”며 “원심 판결을 파기하고 피고인들에게 모두 무죄를 선고한다”고 했다.&lt;br&gt;&lt;br&gt;이같은 판단은 이날 처음 나온 것은 아니다. 세 전현직 의원과 같이 돈봉투를 수수한 혐의로 기소된 이성만 전 의원도 이정근 녹취록에 대한 항소심 재판부의 증거배제 결정에 따라 지난 9월 항소심에서 무죄를 선고받았다. 이 사건 정점에 있는 송영길 전 대표도 1심에서 돈봉투를 살포한 혐의는 무죄를 받았다. 다만 윤 전 의원의 경우 돈봉투를 조성한 혐의로 기소된 사건에서 이 전 부총장 녹음 파일이 증거로 인정돼 작년 10월 대법원에서 징역 2년을 확정받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>가격 낮춰 수입 신고해 관세 등 30억원 포탈… 해외직구 구매 대행업자 3명 송치</title>
-      <link>https://www.chosun.com/national/incident/2025/12/18/P2Y5DLN3MVDGBIWQKCPK6DYEAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/P2Y5DLN3MVDGBIWQKCPK6DYEAY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 02:25:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZASKPE4UBEIJLLQNALKYDLNISQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천본부세관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;해외 유명 상표 의류와 가방 등을 국내로 들여오면서 수입 가격을 허위로 신고하는 등 방법으로 수십억 원의 세금을 포탈한 해외직구 구매 대행업자들이 세관 당국에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천본부세관은 관세법 위반 혐의로 해외직구 구매 대행업자 40대 남성 A씨 부부와 30대 여성 B씨 등 3명을 입건해 검찰에 송치했다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;독일에 사는 A씨 부부는 지난 2019년 9월부터 지난해 4월까지 유명 상표 의류와 가방 등 4만8656개를 구입해 국내로 보내면서, 제품 가격을 실제보다 낮게 신고하는 등의 방법으로 관세와 부가가치세 등 세금 30억6000만원을 포탈한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;영국에 사는 B씨는 2020년 3월부터 올해 10월까지 영국에서 패션 잡화 등 2157개 물품을 구입해 국내로 보내는 과정에서 같은 방법으로 세금 9000만원을 내지 않은 혐의를 받는다. &lt;br&gt;&lt;br&gt;A씨 등은 실제 가격보다 낮춰 수입 신고해 제품에 부과되는 관세와 부가가치세를 줄이거나 미화 150달러 이하 본인 사용 물품의 경우 관세가 면제되는 ‘목록통관제도’를 활용해 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;이들은 국내에서 해외 직구를 요청한 구매자들에게 물품 대금과 관세, 부가가치세 등 세금이 모두 포함된 금액을 미리 받은 뒤, 수익을 더 남기기 위해 이런 방법으로 범행한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;인천세관 관계자는 “해외 직구 대행업자의 관세 포탈 행위는 국가 재정 손실뿐만 아니라 국내 소비자에 대한 기만 행위”라며 “해외 직구 소액 면세 제도를 악용한 불법 행위 등에 대해 철저히 단속하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>자율주행하면서 범죄 현장 감시...제주에 ‘AI 치안드론’ 뜬다</title>
-      <link>https://www.chosun.com/national/regional/2025/12/18/NFERYUTWC5H6ZEJFY4YW6CBURI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/18/NFERYUTWC5H6ZEJFY4YW6CBURI/</guid>
-      <dc:creator>오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 02:11:10 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2DMZJTG4YDMZBSMIYTIOJXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인공지능(AI) 기술을 접목한 제주자치경찰 치안 드론 가상 이미지./제주자치경찰위원회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제주에서 전국 최초로 인공지능(AI) 기술을 접목한 치안 드론이 뜬다.&lt;br&gt;&lt;br&gt;제주자치경찰위원회는 내년부터 ‘AI 치안 드론’을 본격 운영한다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;치안 드론은 자치경찰 분야에 AI 기술을 접목한 첫 사례로, 과학기술정보통신부 ‘스마트 빌리지 보급 및 확산사업’으로 예산 10억원이 투입됐다.&lt;br&gt;&lt;br&gt;자치경찰위는 이번 치안 드론 도입을 통해 연간 100여 명이 산간과 해안 지역에서 실종되는 제주에서 발 빠른 대처가 가능해졌다고 설명했다.&lt;br&gt;&lt;br&gt;치안 드론은 실종자의 옷 색상 등 인상착의와 일치하는 사람을 정확히 인식해 관제요원에게 알린다. 또 드론이 순찰 코스를 자율 비행하다가 감귤을 훔치는 것을 발견하면 즉시 알람을 울리고, 스피커 안내방송·관제상황실 통보 등 절도범 검거에 필요한 조치를 스스로 작동한다.&lt;br&gt;&lt;br&gt;또 심장질환 등으로 쓰러진 요구조자를 발견하거나 지역 축제 등에서의 인파 밀집 상황을 감지하는 등에도 활용이 가능하다.&lt;br&gt;&lt;br&gt;치경찰위는 치안 드론 시범 운영 후 내년 ‘AI 치안안전순찰대’를 구성해 자치경찰 업무에 활용할 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>쌍둥이 출산율 세계 2위 한국... 보건사회硏 “산모·태아 건강 위해 줄일 필요”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/18/BFBSHR6V5NEEZAGDCR45I5F4YQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/18/BFBSHR6V5NEEZAGDCR45I5F4YQ/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 01:36:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ2GKMBXHFSTSNLGMYYDKOLGGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 26일 경기도 고양시 CHA의과학대학교 일산차병원 신생아실에서 간호사가 신생아를 돌보고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국에서 쌍둥이(다태아)의 임신·출산이 급격히 늘고 있는 가운데, 산모와 태아에게 위험이 수반될 수 있는 쌍둥이 출산을 줄일 수 있도록 정책이 전환돼야 한다는 지적이 나왔다.&lt;br&gt;&lt;br&gt;한국보건사회연구원은 18일 ‘다태아 정책 현황과 시사점’ 보고서에서 “쌍둥이 출산은 산모와 태아에게 고위험을 수반하는데, 산모와 태아의 건강을 보호하고 쌍둥이 임신을 낮추기 위한 정책적 노력이 상대적으로 미흡하다”고 지적했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JRLACM3CHZCILCCBSYA2XB7PYA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;보고서에 따르면 국내 전체 출생아 중 쌍둥이가 차지하는 비율은 2015년 3.7%(1만6166명)에서 지난해 5.7%(1만3461명)로 증가했다. 이 중 세쌍둥이 이상의 고차 다태아가 차지하는 비율은 2.4%(392명)에서 3.4%(457명)로 늘었다.&lt;br&gt;&lt;br&gt;한국의 쌍둥이 출산율은 지난해 기준 분만 1000건당 28.8건이다. 세계 다태아 출생 데이터(HMBD)에 포함된 나라 중 그리스(29.5건)에 이어 둘째로 높았고, HMBD 국가 평균(15.5건)의 두 배에 이르는 수준이었다.&lt;br&gt;&lt;br&gt;고차 다태아 출산율은 분만 1000건당 0.67건으로 HMBD 국가 중 가장 높았고, 평균(0.2건)의 3배를 넘어섰다.&lt;br&gt;&lt;br&gt;보고서는 세계 다른 나라들의 쌍둥이 출산율이 줄어드는 것과 달리 한국은 늘어나는 점이 특이하다고 분석했다. 이에 대해 “출산 연령이 상승하고 의료 보조 생식 기술은 발전하는 가운데, 한 번의 임신·출산을 통해 두 자녀를 동시에 낳고 양육하려는 ‘출산 편의주의’가 한국의 독특한 현상”이라고 지적했다.&lt;br&gt;&lt;br&gt;한국의 산모 평균 출산 연령은 2015년 32.2세에서 지난해 33.7세로 높아졌다. 특히 쌍둥이 산모 평균 출산 연령은 35.3세로 단태아 산모(33.6세)보다 높다. 난임 시술 환자 수도 2018년 12만1038명에서 지난해 16만1083명으로 7년 새 33% 증가했다.&lt;br&gt;&lt;br&gt;보고서는 “정책이 출산 이후 고위험 신생아에 대한 의료적 개입과 경제적 지원, 출산 이후 일회성 경제적 지원에 편중됐다”며 “임신 전 단계에서 건강권을 보장하고, 쌍둥이 임신율을 낮추기 위한 정책을 강화해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“호기심에” 제주항서 ‘광란의 드리프트’ 벌인 관광객</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/MEAG3VVNJZCR7JWXMWMJNCOP7U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/MEAG3VVNJZCR7JWXMWMJNCOP7U/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 23:12:57 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZH4EATLZ2RH6VG365PYD32G7OE.gif"&gt;&lt;figcaption&gt;&lt;small&gt;11월 26일 제주시 제주항 인근 도로에서 이른바 '드리프트' 주행을 하며 난폭운전을 한 20대 관광객이 경찰에 붙잡혔다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한밤중 제주항 인근 도로에서 이른바 ‘드리프트’를 하며 난폭 운전을 한 20대 운전자가 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;제주동부경찰서는 도로교통법상 난폭운전 혐의로 20대 내국인 관광객 A씨를 입건해 조사하고 있다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난달 26일 오후 9시 15분쯤 제주시 제주항 5부두 앞 도로에서 렌터카를 몰고 급가속과 급제동을 반복하며 한자리에서 잇따라 회전하는 이른바 ‘드리프트’ 주행을 하며 난폭 운전한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 영상을 보면, 차량이 4~5차례 거칠게 회전하며 굉음이 울리고 타이어 마찰로 발생한 연기가 주변을 뒤덮는 모습이 담겼다. &lt;br&gt;&lt;br&gt;경찰은 CCTV 분석 등을 통해 차량 번호를 특정한 뒤 압수수색을 거쳐 A씨를 검거했다. 사건 당시에는 고가의 외제차로 벌인 일이라고 알려졌으나 조사 결과 국산차였다. &lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “차량 통행이 없어 호기심으로 드리프트를 했다”고 진술한 것으로 알려졌다. 경찰은 A씨를 불구속 송치할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[단독] 서울대, 국제처 신설 “해외 우수 인재 확보”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/DHRO7TVWPZCSDEHYJ4OGEKU4I4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/DHRO7TVWPZCSDEHYJ4OGEKU4I4/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 20:02:00 +0000</pubDate>
-      <content:encoded>서울대가 내년 초 글로벌 연구·학생 교류 등을 담당하는 ‘국제처(處)’를 신설하기로 했다. 기존 4처(교무·연구·학생·기획처)로 이뤄진 서울대 본부 조직에 국제처를 포함시켜 국제화 정책의 ‘사령탑’으로 만들겠다는 계획이다. 초대 국제처장에는 김태균 국제대학원 교수가 내정된 것으로 17일 전해졌다.&lt;br&gt;&lt;br&gt;교내 최고 의사 결정 기구인 서울대 이사회는 지난달 글로벌 인재를 유치·관리하고 국제 교류를 운영하는 국제협력본부를 국제처로 승격하는 안을 통과시켰다. 신설되는 국제처는 신사업 기획 기능이 대폭 확대된다. 미국·일본·유럽 등의 명문 대학과의 공동 연구를 확대하고 학생들의 교류 프로그램을 늘린다. 외국인 교원 유치를 위한 행정 지원과 비자 발급·은행 업무 등 일상 생활 지원 기능도 강화할 예정이다.&lt;br&gt;&lt;br&gt;서울대가 국제화 정책을 본격 강화하기로 한 건 최근 도널드 트럼프 미 행정부의 유학생 차단 정책으로 미국 내 인재 유출이 가속화하고 있기 때문이다. 미국의 우수 인재들을 확보할 기회라고 판단하고 본격 ‘인재 유치전’에 뛰어들겠다는 계획이다. 서울대의 한 보직 교수는 “국제처 신설로 사업 예산과 인력을 대폭 늘리기로 해 글로벌 인재 유치와 국제 교류 운영 사업에 탄력을 얻을 것”이라고 했다.&lt;br&gt;&lt;br&gt;그간 서울대는 국제화 역량이 정체 상태를 벗어나지 못한다는 지적을 받았다. 지난 20년간 서울대는 경직된 국립대학교의 인사 시스템을 극복하고 외국인 전임 교원 초빙에 적극 나섰지만 제자리걸음이다. 전체 교원 대비 외국인 전임 교원의 비율은 약 5%다. 서울대가 최근 김민전 국민의힘 의원실에 제출한 자료를 보면 최근 5년간 서울대에 재직 중인 외국인 전임 교원은 2021년부터 최근까지 110여 명 수준에 머물렀다. 이들의 평균 근속 기간도 10년을 넘기지 못하고 있다.&lt;br&gt;&lt;br&gt;최근 서울대의 국제화 지수는 연세대, 고려대에도 밀리고 있다. 영국 대학 평가 기관 QS의 올해 아시아 대학 순위에서 서울대는 17위로 연세대(11위), 고려대(12위)보다 낮았다. 이 순위는 대학의 연구·교육·외국 교원 고용 등을 종합적으로 평가하는데, 국제화 지표 비중이 20%다. 대학알리미 공시 자료에 따르면 올해 연세대·고려대의 외국인 학생 수는 4000명대였지만 서울대는 1300여명이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>외국인 기능공, 지자체가 ‘자체 비자’로 뽑는다</title>
       <link>https://www.chosun.com/national/regional/2025/12/18/DUZF2EPHLVHYXINFMSGELU4TZQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/18/DUZF2EPHLVHYXINFMSGELU4TZQ/</guid>
@@ -928,33 +961,6 @@
       <pubDate>Wed, 17 Dec 2025 15:57:00 +0000</pubDate>
       <content:encoded>울산과 경남은 ‘광역형 비자(E-7-3)’ 제도를 활용해 외국인 근로자를 충원하고 있다. 광역자치단체가 자체 기준을 세워 지역 산업에 맞는 외국인 근로자를 뽑는 비자 제도다. 올해부터 2년간 시범 운영한다.&lt;br&gt;&lt;br&gt;조선업 메카인 울산과 경남은 2년간 베트남, 태국, 우즈베키스탄, 인도네시아 등 4국에서 용접공, 도장공 등 980명을 뽑아 조선소 현장에 배치할 계획이다. 울산 440명, 경남 540명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBAYJHWLBBEV7LENTPHHZKS3GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경남도
 지난 15일 ‘광역형 비자’로 입국한 인도네시아 도장공 26명이 김해국제공항에서 기념 사진을 찍고 있다. 이들은 다음달부터 경남 거제 한화오션 조선소에서 일한다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 26일 베트남 용접공 49명이 광역형 비자로 입국해 울산 HD현대중공업에서 일하고 있다. 지난 15일에는 한화오션 거제조선소에서 일할 인도네시아 도장공 26명이 입국했다.&lt;br&gt;&lt;br&gt;기존 ‘특정활동 비자(E-7)’와 달리 경력, 학력 조건을 완화하는 대신 조선업 기술과 한국어 능력 검증을 강화했다. 강기중 울산시 정책기획관은 “근로자가 해외에서 쌓은 경력은 검증하기 쉽지 않았다”며 “조선 현장에서 꼭 필요한 기능을 갖춘 인재를 데려올 수 있는 기준을 정했다”고 했다. &lt;br&gt;&lt;br&gt;울산시와 HD현대중공업은 아예 베트남, 우즈베키스탄 등 현지에서 ‘맞춤형 외국인 근로자’를 양성하고 있다. 3~6개월간 용접, 도장 등 조선업 기술과 한국어를 가르친다. &lt;br&gt;&lt;br&gt;경남도는 조선업 명장, 한국어 교수 등으로 자체 검증단을 꾸렸다. 검증단이 현지에서 외국인 근로자들의 실무 능력을 확인한 뒤 선발하고 있다. 경남도 관계자는 “조선업은 위험한 업무가 많아 기업들이 한국어 능력을 갖춘 인재를 원한다”며 “한국어능력시험(TOPIK) 1급 수준인 근로자만 뽑고 있다”고 말했다.&lt;br&gt;&lt;br&gt;광역형 비자는 두 지자체가 법무부에 요청해 도입한 것이다. 최근 조선업 호황으로 주문량이 크게 늘었으나 일할 사람을 구하기 어렵기 때문이다. 조선·해양산업 인적자원개발위원회(ISC)에 따르면, 지난해 조선업 근로자의 미충원율은 14.7%로 전체 산업 평균(8.3%)의 2배 수준이다. 울산시는 2027년까지 조선업에 근로자 1만 3000명이 더 필요할 것으로 보고 있다. 울산시 관계자는 “청년들이 조선업은 고되고 위험하다고 생각해 기피한다”며 “당장 수주 물량을 쳐내고, 인건비가 싼 중국에 밀리지 않으려면 외국인 인력 확보가 시급하다”고 말했다. 경남도 관계자는 “그동안 많은 외국인이 들어와 조선업 현장에서 일하고 있지만, 용접·도장·전기 등 필수 분야의 인력난은 여전히 심각하다”며 “광역형 비자가 대안이 되고 있다”고 말했다.&lt;br&gt;&lt;br&gt;광역형 비자에 반대하는 목소리도 있다. ‘울산 동구 살리기 주민대회 조직위원회’는 지난달 울산시와 고용노동부에 “외국인 근로자 고용을 확대하는 광역형 비자 사업을 폐기하라”는 내용의 탄원서를 냈다. 주민 6500여명이 서명했다. 이들은 “외국인 근로자가 늘어나면서 조선업이 비정규직 중심 산업으로 고착화되고 있다”며 “우리나라 조선업의 기술력도 떨어질 가능성이 있다”고 주장했다. 이어 “인력난을 해소하려면 내국인 숙련공을 계속 고용하고 원·하청 구조를 합리적으로 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전체 근로자 17% 불과한 대기업이 육아휴직 60% 차지</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/CQ3PCPEZDZHOXCZ5EXM3ALYVWE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/CQ3PCPEZDZHOXCZ5EXM3ALYVWE/</guid>
-      <dc:creator>정석우 기자, 윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 15:56:00 +0000</pubDate>
-      <content:encoded>작년에 육아를 이유로 휴직한 직장인이 역대 가장 많았지만, 휴직자를 대체할 인력이 부족한 상당수 중소기업 직원에게 육아휴직은 여전히 ‘그림의 떡’과 같다. &lt;br&gt;&lt;br&gt;17일 국가데이터처에 따르면, 작년 육아휴직자 10명 중 6명인 12만5079명(60.7%)은 직원 수 300명 이상 기업에 근무하고 있었다. 이어 직원 수 5~49명(18.7%), 50~299명(15%) 등의 기업에 일하는 순이었다. 직원이 4명 이하인 영세 사업장은 이 비율이 5.2%에 그쳤다. 남성 육아휴직에 한정하면 직원 수 300명 이상 직장인 비율이 67.9%에 달했다. 우리나라 전체 직장인 가운데 300인 이상 기업에서 일하는 비율은 17.2%(올해 9월 기준)에 그친다. 육아휴직 혜택이 대기업 직장인에게 집중된 셈이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NPTD56G3FNBTHKGYBSVRPBFMDU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;육아휴직이 도입된 1988년에 비해서는 눈에 띄게 육아휴직이 늘고 있지만, 아빠·엄마 3명 중 2명은 아이가 태어났을 때 바로 육아휴직을 쓰지는 못하고 있다. 2024년생 아이를 낳은 부모 가운데 그해 실제 육아휴직에 들어간 경우는 34.7%에 그쳤다. 나머지 65.3%는 육아휴직을 쓰지 않았다는 뜻이다. 작년에 엄마가 된 직장인 가운데서도 27.9%가 육아휴직을 쓰지 않았다.&lt;br&gt;&lt;br&gt;가장 큰 이유로는 소득 문제와 인력 공백이 꼽힌다. 육아휴직으로 급여가 줄어드는 부담이 크고, 소규모 기업 근로자들은 한 사람이 빠졌을 때 생기는 업무 공백이 커 눈치를 볼 수밖에 없는 구조인 것이다. 고용노동부는 올해 들어 육아휴직 급여 상한액을 월 150만원에서 250만원으로 올리고, 내년부터는 대체 인력을 뽑은 영세 사업장에 지원하는 지원금도 기존 월 120만원에서 최대 140만원으로 인상하는 등 대책 마련에 나섰다.&lt;br&gt;&lt;br&gt;농어민 등 자영업자와 프리랜서 등은 아예 육아휴직 사각지대다. 육아휴직 자체가 회사원만 쓸 수 있는 제도이기 때문이다. 육아휴직 급여는 회사와 직원이 낸 고용보험 기금에서 지급된다. 자영업자나 프리랜서가 아이를 키우려 일을 쉬려면 일 자체를 그만두는 수밖에 없다. 이재명 정부는 ‘소상공인·자영업자 육아수당 신설’을 국정 과제로 내세우고 있다. 보건사회연구원에 따르면, 자영업자 등에게 육아휴직 급여를 주려면 연간 2438억~6710억원의 예산이 든다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“향후 5~6년이 결혼·출산 인센티브 확대할 골든 타임”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/BVWXTM7GINCOPGRDIH2YM6JYNQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/BVWXTM7GINCOPGRDIH2YM6JYNQ/</guid>
-      <dc:creator>김승현 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 15:56:00 +0000</pubDate>
-      <content:encoded>육아 휴직을 눈치 보지 않고 가게 되는 등 일·가정 양립 제도가 자리 잡으면서 출생아 수가 2년 연속 늘고 있다. 올해 합계 출산율(여성 한 명이 낳을 것으로 예상되는 아이 수)도 4년 만에 0.8명대로 올라설 수 있다는 전망이 나온다. &lt;br&gt;&lt;br&gt;17일 국가데이터처에 따르면, 올 들어 9월까지 출생아 수는 19만1040명으로 전년 동기 대비 7% 증가했다. 이 추세가 이어질 경우 출생아가 3.6% 늘어난 작년에 이어 2년 연속으로 출생아 수가 늘어난다. 출생아 수는 2016~2023년 8년 연속 감소했었다. 결혼 자체를 꺼리는 비혼(非婚)주의와 ‘아이를 낳는 여성은 직장에서 불이익을 본다’는 인식이 확산했기 때문이다. &lt;br&gt;&lt;br&gt;하지만 코로나로 결혼을 미루다 2022년 여름~2023년 봄 결혼한 이른바 ‘엔데믹(풍토병화) 커플’이 1~2년 시차를 두고 아이를 낳기 시작한 데다 중앙정부와 지자체가 결혼·출산 인센티브를 늘리기 시작하면서 상황이 달라지기 시작했다. 출생아 수는 작년 7월부터 올해 9월까지 1년 3개월 연속 늘었다. 2010년 3월~2011년 8월(1년 6개월) 이후 가장 긴 기간 출생아 수가 늘어난 것이다.&lt;br&gt;&lt;br&gt;2023년 0.72명까지 떨어졌던 합계 출산율도 지난해 0.75명으로 2015년 이후 9년 만에 처음 반등했다. 저출산고령사회위원회가 추정하는 올해 합계 출산율은 0.79명이지만, 출생아 증가세가 이어질 경우 2021년(0.81명) 이후 4년 만에 처음으로 0.8명을 넘어설 수 있다는 전망도 나온다. &lt;br&gt;&lt;br&gt;최근 출생아 수 증가세는 2차 베이비붐 세대(1964~1974년생)의 자녀인 2차 에코붐 세대(1991~1995년생)가 본격적으로 아이를 낳는 30대 초반에 진입한 영향이 크다. 이들은 매년 70만명 넘게 태어났다. 양준석 가톨릭대 교수는 “1990년대 초중반생 효과가 걷히면 다시 출산율이 낮아질 가능성이 크다”며 “향후 5~6년이 결혼과 출산 인센티브를 확대할 골든타임”이라고 했다. 출생아 수는 내년에 서른이 되는 1996년생(69만1226명)부터 60만명대로 내려앉았고, 2001년생부터는 50만명대, 2002년생부터는 40만명대로 줄었다. 2020년생부터는 20만명대다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검의 ‘통일교 편파 수사’ 사건… 경찰, 공수처로 넘겨</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/76E24QGQZBDHBE3Q5NUM5CQMRI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/76E24QGQZBDHBE3Q5NUM5CQMRI/</guid>
-      <dc:creator>김희래 기자, 이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 15:55:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4DKM3CGFRTEYRTMFSWMNZZGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰이 세계평화통일가정연합(통일교)의 정치권 불법 지원 의혹에 대해 전방위적인 압수수색에 나선 15일 서울 여의도 국회 전재수 더불어민주당 의원실에 수사관들이 압수수색을 위해 들어서고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 민중기 특별검사의 ‘통일교 편파 수사’ 의혹 사건을 고위공직자범죄수사처(공수처)로 이첩했다고 17일 밝혔다. 민 특검과 함께 경찰에 고발된 특검 수사팀 검사들은 공수처 수사 대상이라는 것이다. 하지만 공수처도 이 사건을 바로 배당하지 않고 수사 여부를 검토 중이라고 한다. 공수처가 특검을 수사할 법적 근거가 없다며 사건을 다시 경찰로 보낼 수도 있는 상황이다. 법조계에선 민감한 사건을 맡기 싫은 경찰과 공수처가 서로 ‘사건 떠넘기기’에 나섰다는 지적이 나온다. &lt;br&gt;&lt;br&gt;통일교 정치권 로비 의혹을 수사하는 경찰청 국가수사본부는 이날 “민 특검과 검사 등에 대한 직무유기 혐의 고발 사건을 지난 16일 관련 규정에 따라 공수처에 이첩했다”고 밝혔다. 앞서 국민의힘은 지난 11일 민 특검이 지난 8월 윤영호 전 통일교 세계본부장에게서 문재인 정부 때 더불어민주당 의원들에게도 금품을 줬다는 진술을 받고도 수사하지 않았다며 고발했다. &lt;br&gt;&lt;br&gt;경찰이 이 사건을 공수처에 이첩한 이유는 고발 대상에 특검 파견 검사들이 포함돼 있기 때문이다. 공수처법에 따르면 검사는 공수처의 수사 대상이고, 공수처 외 다른 수사 기관이 검사의 범죄 혐의를 발견한 경우 사건을 공수처에 이첩해야 한다. 하지만 특검이 공수처 수사 대상에 포함되는지에 대해선 명확한 규정이 없다. 공수처 관계자는 이날 “내부 논의를 통해 수사 착수 여부를 결정할 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇해병 특검에 기소된 오동운… 김건희 특검에 칼날 겨눌까&lt;/b&gt;&lt;br&gt;&lt;br&gt;공수처 입장에서는 민중기 특검에 대한 수사를 나섰다가 성과를 내지 못할 경우 여야 양쪽으로부터 ‘무리한 수사’ 또는 ‘봐주기 수사’라는 비판을 받을 수 있다. 공수처가 민 특검을 수사해 재판에 넘긴다고 하더라도 논란이 불거질 수 있다. 공수처법은 특검을 공수처 수사 대상으로 명시하고 있지 않은데, 법원이 이를 근거로 공소를 기각할 우려가 있기 때문이다. 공수처가 이 사건을 경찰로 반송할 가능성도 배제할 수 없는 것이다. 경찰은 사건이 되돌아올 경우 민 특검에 대한 정식 수사에 착수할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LT2ZIUFBUBDRPOBN5CQNAKK36Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;다만, 오동운 공수처장은 지난 10월 국회 국정감사에 참석해 “현행법상 특검이 공수처 수사 대상인지 명확하지 않지만, 법 해석의 논란을 없애기 위해 특검도 수사 대상으로 특정해야 한다”고 말했다. 당시 오 처장은 송창진 전 공수처 부장검사가 ‘고(故) 채수근 상병 사망 사건 수사 외압’ 의혹과 관련해 국회 위증 혐의로 고발된 사건을 대검찰청에 이첩하지 않고 수사를 뭉갠 혐의로 순직 해병 특검과 소환 일정을 조율하던 때였다. 이후 오 처장은 직무유기 혐의로 특검 수사를 받고 불구속 기소됐는데, 이번엔 같은 혐의를 받는 민 특검의 수사를 지휘할 상황에 놓인 것이다.&lt;br&gt;&lt;br&gt;법조계에서는 경찰이 부담이 큰 사건을 손도 대지 않고 공수처에 떠넘겼다는 지적이 나왔다. 검찰 출신 한 변호사는 “원칙적으로 경찰은 특검을 수사할 수 있고, 공수처 수사 대상인 검사들 사건은 따로 분리해 이첩할 수 있다”며 “이 대통령이 임명한 장관급 특검을 수사하는 데 부담을 느껴 공을 공수처로 넘긴 것 아니겠느냐”고 했다. 경찰이 검사들 고발 사건만 넘기지 않고 민 특검 사건까지 통째로 공수처에 보낸 것은 정무적 결정이라는 것이다. 다른 법조인은 “경찰이 ‘살아 있는 권력’을 제대로 수사할 수 있을지에 대한 우려가 있었는데 현실이 된 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>다시 울리는 건배사, 올해 식당 예약은 이미 마감</title>
