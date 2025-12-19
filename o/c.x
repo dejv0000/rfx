@@ -13,6 +13,95 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[단독] 강남 한복판서 ’10중 추돌‘… 車 뒤엉켜 퇴근길 아수라장</title>
+      <link>https://www.chosun.com/national/incident/2025/12/19/STG423YYU5ASTNWQ2CBOBTK7QM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/STG423YYU5ASTNWQ2CBOBTK7QM/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 09:15:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S63SULUJ4BCLHIACZFT6G36K24.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 서울 강남구 강남구청역 인근에서 시내버스가 승용차 10대를 들이받는 사고가 발생한 가운데 피해 승용차 승객이 유리창으로 빠져나고 있다./ 독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;19일 오후 5시 30분쯤 서울 강남구 7호선 강남구청역에서 10중 추돌 교통사고가 발생했다. 이 사고로 6명이 다쳐 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;경찰에 따르면 버스가 정차 중인 승용차를 충돌하며 사고가 발생했다. 목격자들도 “버스가 차를 들이받아 연쇄적인 충돌이 발생했다”고 했다. 사고로 통행이 중단된 도로 한복판에서 창문을 통해 부서진 차량에서 빠져나오는 사람도 있었다.&lt;br&gt;&lt;br&gt;병원으로 이송된 부상자들은 모두 가벼운 부상을 입은 것으로 알려졌다. 경찰 조사 결과 60대 남성 버스 운전자는 음주 상태는 아니었다.&lt;br&gt;&lt;br&gt;퇴근 시간대에 사고가 벌어지면서 일대는 극심한 교통 체증이 빚어졌다. 소셜미디어에선 “차가 도통 움직이질 않는다” “퇴근길이 꽉 막혔다”는 반응이 나오고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “자세한 사고 경위를 조사할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/O3SUX72IVZE4VMIBBLZLY4T67E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 서울 강남구 강남구청역 인근에서 시내버스가 승용차 10대를 들이받는 사고가 발생 퇴근길 도로가 아수라장으로 변했다./ 독자제공/&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WWXFCQTZDRFQTLBG5DJ337RH2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 서울 강남구 강남구청역 인근에서 시내버스가 승용차 10대를 들이받는 사고가 발생한 가운데 사람들이 옆문이 열리지 않자 트렁크를 통해 사람을 구출하고 있다./ 독자제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/O3SUX72IVZE4VMIBBLZLY4T67E.jpg?auth=0b08c6bc846df4262e6a9472fa3abd5a715dbf840f76e7fdd880009af8b0a107&amp;smart=true&amp;width=2057&amp;height=1102" type="image/jpeg" height="1102" width="2057">
+        <media:description type="plain">19일 오후 서울 강남구 강남구청역 인근에서 시내버스 한대가 승용차 10대를 들이받는 사고가 발생해 피해 차량들이 서있다. 경찰은 사고 원인을 조사중이다./ 독자제공/</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>李 “마약 수사할 독립 관청 필요...수사·기소 분리 문제로 꼬여 있다"</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/MCEEGS5IEFDWRDJBJKQKV4AHBU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/MCEEGS5IEFDWRDJBJKQKV4AHBU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 09:27:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HA2DSY3CHFSWEYJWGU3TCOBTMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 19일 서울정부청사에서 열린 법무부·성평등가족부 업무보고에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 마약 수사를 위한 독립 관청이 필요하다고 19일 밝혔다. 수사·기소 분리 원칙에 따라 수사 기관 간 역할이 나눠지더라도 마약 수사는 일원화된 조직에서 전담할 필요가 있다는 취지로 풀이된다.&lt;br&gt;&lt;br&gt;이 대통령은 19일 법무부·대검찰청·성평등가족부 업무보고에서 마약범죄 정부합동수사본부 운영상황을 보고받은 뒤 “마약 수사는 일반 사범 수사하듯 될 일이 아닌 것 같다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;이 대통령은 “마약 수사는 전담 기구가 필요할 것 같은데 검찰과 경찰 정보 공유가 잘 안된다는 걸 보니 하나의 조직과 시스템이 만들어져야 할 것 같다”고 했다. 이어 “수사권 조정 분리 이슈 때문에 저도 판단을 잘 못하겠더라”라며 “정리할 필요가 있는 것 같다. 좀 꼬여 있다”고 했다.&lt;br&gt;&lt;br&gt;이날 성상헌 법무부 검찰국장은 “지금 마약 합수부는 수사·기소 분리 취지를 반영해 검사실에서는 직접 수사 개시하고 있지 않다”며 “경찰에서 수사 개시한 사건에 대해 영장을 통제하고 송치 개념으로 사건을 받아 보완 수사 후 기소하는 구조를 갖고 있다”고 설명했다. 그러자 이 대통령은 “그건 좀 기형적으로 보인다”며 “법무부에서 (독립 관청화) 안을 내보시라”고 했다. 정성호 법무부 장관 역시 “완전히 일원화된 독립 조직으로 돼야 하지 않나 한다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/GMZDONLCGA3TSZTFGY2TQMZYMU.jpg?auth=269eabdcd3a08fd5f4c286f8ed4a18d4fed8e0a4484873b9e2ddbd9effa345ed&amp;smart=true&amp;width=3000&amp;height=2000" type="image/jpeg" height="2000" width="3000">
+        <media:description type="plain">이재명 대통령이 19일 서울 종로구 정부서울청사 별관에서 열린 외교부(재외동포청)·통일부 업무보고에서 발언하고 있다. (대통령실 제공. 재판매 및 DB 금지) 2025.12.19/뉴스1 ⓒ News1 허경 기자</media:description>
+        <media:credit role="author" scheme="urn:ebu">kwonminam</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>李 “교통범칙금, 서민만 제재 효과... 재력에 따라 차등 부과 검토하라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/HHIFCEANHZEEDAIIGXHQODNEKQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/HHIFCEANHZEEDAIIGXHQODNEKQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:32:22 +0000</pubDate>
+      <content:encoded>이재명 대통령은 19일 열린 법무부 업무 보고에서 교통 범칙금 등을 재력에 따라 차등 부과하는 방안을 검토하라고 법무부에 지시했다. 범칙금 부과에 따른 제재 효과가 재력이 있는 사람에게는 약해 공정하지 못하다는 것이다.&lt;br&gt;&lt;br&gt;이 대통령은 정성호 법무장관에게 “교통 범칙금을 5만원이나 10만원을 낸다고 하면, 서민에게는 제재 효과가 있다”면서도 “일정한 재력이 되는 사람은 10장을 받아도 상관이 없어서 위반을 저지른다는 말이 있다”고 했다. 이어 “재력에 따라 차등을 두자”며 “제재 효과가 누구한테는 있고, 누구한테는 없는데 공정하지 못하다”고 했다. 정 장관은 “검토해보겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MNTDAMJUGM3DOZTFMVSDIOBXGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 19일 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 정성호 법무부 장관에게 질문하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대통령은 이른바 ‘초코파이 절도’ 사건에 대해 “이런 걸 왜 기소했느냐”고 구자현 검찰총장 직무대행에게 묻기도 했다. 구 대행은 “피해자인 회사에서 강한 처벌을 희망한다는 의사를 표시했고, 화해가 이뤄지지 않다 보니 기소를 하게 됐다”고 밝혔다. 또 기소된 피고인이 전과가 있었던 점도 고려했다고 구 대행은 밝혔다. 이에 이 대통령은 “기소유예 처분을 내리기엔 어려운 점이 있었을 것 같다”며 “제도적으로 처벌 가치가 없으면 기소하지 않는 방법을 만들어야 하지 않겠느냐”고 했다. 구 대행도 “저희들에게도 경미한 범죄를 돌아보는 계기가 됐다”고 했다. 초코파이 사건은 전북의 한 물류 회사 경비원이 지난해 1월 회사 사무실 냉장고에서 초코파이 1개와 커스터드 1개를 꺼내 먹었다가 절도 혐의로 기소돼 1심에서 벌금 5만원을 선고받은 사건이다. 항소심 재판에서 무죄가 선고됐고, 검찰은 이달 초 상고를 포기했다.&lt;br&gt;&lt;br&gt;이 대통령은 상소 제도에 대한 개선이 필요하다는 의견도 냈다. “검사들 입장에선 원래 하던 일”이라면서도, “당하는 쪽에선 엄청나게 괴로운 일”이라는 게 이 대통령의 지적이다. 이 대통령은 “본질적으로는 폭력”이라며 “일본에 비하면 상소율이 너무 높다는 지적이 있다. 합당하게 잘 판단해 달라”고 했다. 이어 구 대행에게 “검찰청 업무라는 것 자체가 국민에게 신체적 구속을 가하거나, 인생 자체를 재단할 수 있는 엄청난 권한”이라며 “공정하고 투명하게, 객관적으로 행사되도록 각별히 신경 써 달라”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TZCQWJM3ZLZ7LEAJTPT5ZHQNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무 장관이 19일 서울 종로구 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 답변하고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한편 이 대통령은 자본시장법 위반 등 금융·증권 관련 범죄에 대해선 엄단해야 한다는 뜻을 밝혔다. 이 대통령은 “지금까지는 너무 많이 방치돼 있어서, 걸리면 재수가 없는 거고, 통상적으로는 안 걸린다는 믿음이 있었던 것 같다”며 “많이 좋아지고 있는 것 같지만, 숨어서 하는 범죄다 보니 알 수가 없다”고 했다. &lt;br&gt;&lt;br&gt;또 마약 투약 재소자의 치료·재활에 대해 이 대통령은 “다른 기관 업무 보고를 받다 발견한 것인데, 단순 투약자의 재활 치료가 실제로는 거의 안 된다고 한다”며 애로 사항이 있는지 물었다. 이에 정성호 장관은 “전문가가 부족하다”며 “마약 투약은 정신 질환으로 이어질 수 있는데, 전체 교정 시설 내 정신과 전문의는 1명밖에 없다”고 했다. 이 대통령은 서면으로 보고를 받은 뒤 추가 검토를 하겠다고 했다.&lt;br&gt;&lt;br&gt;정성호 장관은 이날 업무 보고에서 전세 사기 범죄 엄단을 위해 사기죄의 법정형을 상향하고, 보이스피싱 범죄 엄단에 검찰 수사 역량을 총동원하고 있다고 밝혔다. 또 금융·증권 범죄의 양형 기준을 강화하고, 범죄 수익을 철저히 환수할 수 있도록 조직과 제도를 강화 중이라고 했다. 마약 범죄에 대해선 “합동수사본부가 수사와 행정력을 집중 투입하고 있고, 치료·재활을 확대해 중독을 벗어나도록 돕겠다”고 했다. 이 밖에도 과도한 형사처벌 규정을 손질해 합리적 체계를 구축하겠다고 했다. &lt;br&gt;&lt;br&gt;구자현 대행은 “인지 수사 총량을 줄여 민생 범죄 수사에 역량을 집중하겠다”며 “중대 재해 및 민생 침해 범죄를 엄벌하고, 부당한 범죄 수익은 철저히 박탈해 피해자에게 돌려주겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUHIOCWJNZM7LJAFNQM7W76EMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자현 검찰총장 직무대행이 19일 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 이재명 대통령 질문에 답하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>5만원권 위조지폐 9100여 장 제작 ‘코인 거래’ 시도한 일당 적발</title>
+      <link>https://www.chosun.com/national/regional/2025/12/19/XGWOAJZAARFYTCV34YSKPNXGDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/19/XGWOAJZAARFYTCV34YSKPNXGDU/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:36:38 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4BI7KUSEMFF7ZILKMF5QI5UW64.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충남경찰청 전경. /충남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;5만원권 위조지폐 수천 장을 만들어 코인 거래에 사용하려 한 일당이 경찰에 붙잡혔다.&lt;br&gt;&lt;br&gt;충남경찰청은 통화 위조, 사기 혐의로 40대 A씨와 30대 B씨를 구속 송치하고, 공범인 30대 C씨에 대한 수사를 벌이고 있다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, 이 일당은 지난해 9월 충남 아산시 천안아산역 앞에서 가방에 넣은 5만원권 위조지폐 다발을 주고 가상 화폐 스테이블 코인을 받는 거래를 하려다가 미수에 그친 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;조사 결과, 이들은 컬러 프린터로 인쇄한 뒤 도구를 이용해 수작업하는 방식으로 5만원권 위조지폐 9188매(4억5940만원 상당)를 만들고 이를 이용해 가상 화폐 거래를 하기로 공모한 뒤, 온라인을 통해 코인 투자자를 물색했다. 이들이 만든 지폐 상태가 조잡한 것을 알아본 코인 투자자가 이들과 거래를 거부했고, 이후 경찰에 신고하면서 이들의 범행이 발각됐다.&lt;br&gt;&lt;br&gt;수사에 착수한 경찰은 지난해 10월과 11월 A씨와 C씨를 검거했지만, B씨는 캄보디아로 도주한 상태였다.&lt;br&gt;&lt;br&gt;경찰은 국제형사경찰기구(인터폴)에 체포영장 발부 피의자에게 내리는 국제 수배인 적색 수배를 요청하는 한편, 수사를 지속해 지난 11월 5일 중국에서 인천공항으로 입국한 B씨를 현장에서 체포했다.&lt;br&gt;&lt;br&gt;사회에서 만난 지인 사이였던 이들은 “무직 상태로 생활비가 필요해서 범행했다”고 경찰에 진술했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨와 B씨는 구속 송치했고, C씨는 구속영장이 기각돼 현재 불구속 입건 상태에서 보완 수사를 진행 중”이라며 “수사가 마무리되는 대로 C씨에 대한 구속영장을 다시 신청할 방침”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘롯데 불법자문’ 민유성 前산업은행장 항소심서 감형... 징역형 집행유예</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/NFD27JA6JFHX5LW6K57OF6SNRQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/NFD27JA6JFHX5LW6K57OF6SNRQ/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:39:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGIM3CGUZGIMBSGY3DMZJRGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;민유성 전 산업은행장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사항소8-2부(재판장 최해일)은 롯데그룹 경영권 분쟁 과정에서 변호사가 아님에도 법률 자문을 한 혐의로 기소된 민유성(71) 전 산업은행장에게 19일 징역 2년에 집행유예 4년, 추징금 3억9000만원을 선고했다. 1심은 징역 3년과 추징금 198억원을 선고했는데, 형량과 추징금 모두 크게 줄어든 것이다.&lt;br&gt;&lt;br&gt;항소심 재판부는 1심과 달리 민 전 행장이 신동빈 롯데그룹 회장의 형인 신동주 SDJ코퍼레이션 회장(전 일본 롯데홀딩스 부회장)의 경영권 회복을 위해 맺은 자문 계약을 법률적 계약으로 인정하지 않았다. 재판부는 “경영 자문 용역 계약이 법률 계약이라는 검사 측 주장을 받아들이지 않는다”며 “형사·행정 사건의 계획을 수립했다는 것도 법률 계약으로 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;주요 혐의에 대한 판단이 무죄로 뒤집어지면서, 추징금 역시 변호사를 선정하는 등 소송을 위한 총괄 업무를 한 부분만 인정돼 크게 줄어든 것이다.&lt;br&gt;&lt;br&gt;민 전 행장은 2015년 10월~2017년 8월 변호사가 아닌데도 신동빈 롯데그룹 회장과 경영권을 다투던 신동주 전 부회장의 법률 사무를 봐주고 198억원을 받은 혐의로 기소됐다. 민 전 행장은 재판 과정에서 혐의를 전면 부인했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“콩GPT 국장” 李 콕 집어 칭찬했는데… 오류에 송미령 장관 직접 해명</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/ZFNXUIBMFBHQFCFFAJQWUKFSZ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/ZFNXUIBMFBHQFCFFAJQWUKFSZ4/</guid>
+      <dc:creator>박선민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:25:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2BK6ZZ3GSRND7I67BCV4NTXUGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 11일 세종시 정부세종컨벤션센터에서 열린 '희망찬 농업·농촌, 모두가 행복하게 일하는 나라' 농림축산식품부(농촌진흥청·산림청)-고용노동부 업무보고에서 발언하고 있다. /연합뉴스 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;막힘없는 답변으로 이재명 대통령이 업무 보고 ‘우수 사례’로도 꼽은 변상문 농림축산식품부 식량정책국장 발언에 일부 오류가 있었던 것으로 확인됐다. ‘콩GPT 국장’이라는 별명까지 얻으며 화제를 모았지만, 수치 등 사실관계에 틀린 부분이 있는 것으로 확인된 것이다. 결국 송미령 농식품부 장관이 직접 해명에 나섰다.&lt;br&gt;&lt;br&gt;송 장관은 18일 페이스북과 인스타그램 등 자신의 소셜미디어를 통해 “(식량국장이) 질문을 이해하고 답하는 과정에서 일부 혼선이 있었다”며 “대통령실은 답변 내용의 사실관계를 확인하고 일부 오류를 파악했다. 저도 대통령님께 직접 보고드렸다”고 했다.&lt;br&gt;&lt;br&gt;앞서 변 식량국장은 지난 11일 업무 보고에서 이 대통령이 유전자변형식품(GMO) 콩 수입량이나 국내 콩 생산량 및 자급도 등을 묻자 “100만 톤”, “8만3000톤”, “식용으로만 보면 37% 자급하고 있다” 등 즉각적으로 수치를 언급해 답변하며 주목받았다.&lt;br&gt;&lt;br&gt;이후 이 대통령은 이런 변 식량국장의 답변을 업무 보고 ‘우수 사례’로 지목해 칭찬했다. 강유정 대통령실 대변인은 지난 15일 브리핑에서 “식량국장은 이른바 ‘콩GPT’라는 별명을 얻으며 세간의 주목을 끌었다”며 “AI처럼 정확한 수치를 바로 답하는 전문성으로 국민 신뢰를 높이고, 자신이 맡은 공무에 대해 높은 책임 의식을 보여줬다는 평가”라고 했다.&lt;br&gt;&lt;br&gt;다만 농업계 일각에서 변 식량국장의 답변에 일부 오류가 있다는 지적이 나왔다. 콩 생산량을 실제보다 적게 답변했다는 것이다. 아울러 식량국장이 수입 옥수수 중 사료용은 GMO이고, 전분당용은 비유전자변형식품(Non-GMO)이라고 답한 점도 사실과 완전하게 일치하지는 않는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZTINRWGBRGEZBSGI2WIZJRMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;변상문 농식품부 식량국장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 송 장관은 변 식량국장 답변에 착오가 있었다는 점을 인정하며 직접 정정에 나섰다.&lt;br&gt;&lt;br&gt;우선 송 장관은 “식량국장이 올해 콩 생산량이 8만3000톤으로 예상된다고 답했는데, 국산 콩 생산량은 16만~17만톤으로 예상된다”며 “대통령께서 국내 콩 생산량을 물으셨지만, 식량국장은 질문을 가공식품에 국산 콩이 어느 정도 소비되는지를 물으신 것으로 이해하고 답변한 것”이라고 했다.&lt;br&gt;&lt;br&gt;아울러 “수입되는 식용 옥수수는 전분당용으로 모두 Non-GMO라고 답변했는데, 제과·제빵용은 Non-GMO가 맞지만 옥수수유와 전분당 시럽 일부는 GMO가 사용될 수 있다”며 “다만 가공 후 유전자 조작 성분이 남아 있지 않아 GMO 미표시 대상”이라고 했다. 그러면서 “수입되는 식용 옥수수가 완전히 Non-GMO인 것으로 설명된 점이 있는데, 더욱 철저한 관리로 국민의 안전을 지키겠다”고 했다. &lt;br&gt;&lt;br&gt;또 “채유용 대두 수입량을 100만톤으로 말씀드렸으나, 정확히는 작년 기준 91만톤”이라며 “2022년에는 99만톤으로 약 100만톤에 이른 적도 있었다”고 했다.&lt;br&gt;&lt;br&gt;송 장관은 “시나리오 없는 업무 보고 생중계 현장, 그 긴장되는 상황에서 본인의 업무에 대한 책임감으로 주저하지 않고 손을 들고 대답한 담당자의 태도에 대해 칭찬을 주신 것으로 생각된다”며 “금번 업무 보고를 통해 주시는 다양한 말씀을 경청해 정책 개선의 기회로 삼겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이상덕 하나이비인후과병원 병원장, ‘자랑스러운 전문병원인상’ 대상</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/19/QZZKL3K4DZCCDN7VW5FC237PKM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/19/QZZKL3K4DZCCDN7VW5FC237PKM/</guid>
+      <dc:creator>곽래건 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:29:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JH3LFF3RBZE6FNUNSGYCXX7JRU.png"&gt;&lt;figcaption&gt;&lt;small&gt;이상덕 하나이비인후과병원 병원장/ 하나이비인후과병원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한전문병원협회(회장 윤성환)는 19일 제6회 ‘KJ국제 자랑스러운 전문병원인상’ 대상에 하나이비인후과병원 이상덕 병원장을 선정해 시상했다. &lt;br&gt;&lt;br&gt;이 병원장은 지난 2021년부터 3년간 대한전문병원협회 회장을 역임한 뒤 현재 명예회장을 맡고 있다.&lt;br&gt;&lt;br&gt;협회 측은 이 병원장이 협회가 태동하던 시기부터 조직 구성의 초석을 다지는 등 협회 출범에 큰 기여를 했다고 설명했다. 이 병원장은 협회 회장으로 재직하며 전문병원 지정 기준 및 운영 체계를 개선하고, 디지털 혁신위원회와 윤리위원회를 설치했다. &lt;br&gt;&lt;br&gt;이 병원장은 “우리나라 의료 체계가 정상화되려면 중간 허리 역할을 하는 전문병원이 의료의 질과 서비스 마인드 양면에서 더욱 성장해 국민의 신뢰를 얻어야 한다”면서 “앞으로도 전문병원 제도 발전을 위해 헌신하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘200억대 횡령·배임' 홍원식 前 남양유업 회장에 징역 10년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/19/QS2JZCG45BD6ZN65EW45VZNESA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/QS2JZCG45BD6ZN65EW45VZNESA/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:23:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6UWKS6J37WPCOUO3AMRMJDUUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 200억원대 횡령·배임 혐의로 기소된 홍원식 전 남양유업 회장에게 징역 10년을 구형했다. 홍 전 회장의 1심 선고는 내년 1월 26일에 내려진다.&lt;br&gt;&lt;br&gt;검찰은 19일 서울중앙지법 형사21부(재판장 이현복)에서 열린 결심 공판에서 특정경제범죄가중처벌법 위반(횡령·배임) 혐의를 받는 홍 전 회장에게 징역 10년과 추징금 약 43억원을 선고해달라고 요청했다. 함께 기소된 전 남양유업 중앙연구소장과 전직 대표이사 등에게도 징역 2~5년을 구형했다.&lt;br&gt;&lt;br&gt;홍 전 회장은 남양유업을 운영하며 납품업체들로부터 거래 대가로 수십억원을 받고 친인척이 운영하는 업체를 거래 중간에 끼워넣어 100억원대 손해를 입힌 혐의로 작년 12월 구속기소됐다. 납품업체 대표를 회사 감사로 임명한 후 급여를 되돌려받고, 법인카드를 사적으로 유용한 혐의도 있다. 지난 2021년 남양유업 ‘불가리스’ 제품이 코로나 억제 효과가 있는 것처럼 허위 홍보하고 관련 수사가 시작되자 증거 인멸을 지시한 혐의도 받는다.&lt;br&gt;&lt;br&gt;홍 전 회장은 작년 12월 구속됐다가 지난 5월 보석금 1억원을 내고 풀려나 불구속 상태에서 재판을 받고 있다. 재판부는 보석 조건으로 주거지 제한과 증인이나 공동 피고인 접촉 제한 등을 부과했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>인권위 “교도소 내 과도한 CCTV 감시는 사생활 침해”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/19/IEOLMJCAQRCAJFUH5JTMLRFQMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/IEOLMJCAQRCAJFUH5JTMLRFQMQ/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 19 Dec 2025 08:22:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43W7DJNUYFE4P5BMN2Q3TYJHLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 교도소에서 합리적 이유 없이 폐쇄회로(CC)TV로 수용자를 24시간 동안 감시한 것을 사생활 침해라 판단하고, CCTV 감시를 최소한의 범위에서 시행할 것을 권고했다.&lt;br&gt;&lt;br&gt;인권위는 지난 10월 16일 이 같은 내용을 A교도소장에게 권고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;폭행 혐의로 A교도소에 30일간 금치된 한 수용자는 자살할 우려가 없음에도 24시간 동안 CCTV로 감시를 받는 등 기본권을 침해당했다며 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;A교도소는 이에 대해 “사고 예방을 위해 CCTV를 설치하고 자살 등의 우려가 큰 경우에만 영상으로 관찰을 하고 있다”며 “당시 수용자가 심적 흥분 상태를 보여 돌발적 행동에 의한 자해 및 자살의 우려가 크다고 판단했다”고 답했다.&lt;br&gt;&lt;br&gt;그러나 인권위는 수용자가 자신의 혐의를 부인하거나 과도한 불만을 표시한 것을 ‘자살 우려가 크다’고 해석한 것은 자의적일 수 있고, 수용자를 CCTV로 감시할 필요성이 충분하지 않았다고 판단했다.&lt;br&gt;&lt;br&gt;이에 인권위는 “A교도소가 수용자의 사생활과 비밀의 자유를 침해했다”며 CCTV 감시는 충분한 심사를 거쳐 최소한의 범위에서 시행할 것을 A교도소에 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대선 앞둔 통일교 회의서...“여야 공천권 받아야” “2027년 대권 도전”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</guid>
@@ -854,33 +943,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RNUTV3KT6JPD7BKTTVWJNJTN5I.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;차정인 국가교육위원장이 18일 서울 종로구 정부서울청사에서 열린 제63차 국가교육위원회 전체회의에서 모두발언을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고교 학점제와 관련해 선택 과목의 경우 출석률만 충족하면 학점 이수를 하도록 하는 개편안이 마련됐다.&lt;br&gt;&lt;br&gt;국가교육위원회(국교위)는 18일 제63차 회의를 열고 ‘고교 학점제 관련 국가 교육과정 수립·변경 행정 예고(안)’를 공개했다. 중장기 교육 정책을 설계하는 대통령 직속 기구인 국교위는 올해 안으로 고교 학점제 개편안을 마련하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;이날 안에 따르면, 초·중등학교 교육과정 총론의 고등학교 교육과정 편성·운영 기준에서 ‘이수 기준은 출석률과 학업 성취율을 반영한다’는 표현이 ‘이수 기준은 출석률, 학업 성취율 중 하나 이상을 반영하되, 교육 활동 및 학습자 특성을 고려하여 설정한다’는 내용으로 변경된다. 이수 기준이 완화된 것이다. 국교위는 공통 과목의 학점 이수 기준은 출석률과 학업 성취율을 반영하고, 선택 과목의 학점 이수 기준은 출석률만을 반영하도록 교육부에 권고한다고 밝혔다. 창의적 체험 활동의 학점 이수 기준은 출석률을 반영한다는 내용도 권고 사항에 담겼다. &lt;br&gt;&lt;br&gt;국교위는 또 최소 성취 수준 보장 지도 관련 후속 조치도 교육부에 권고한다. ‘학업 성취율 미도달, 학점 미이수 학생에게 교육부나 각 교육청이 직접 운영하는 온라인 학교 등을 포함해 다양한 이수 기회를 제공해야 한다’는 내용이다. 또 ‘최소 성취 수준 보장 지도에 참여한 교원에게 보상 방안을 마련한다’는 내용도 권고 사항에 담았다.&lt;br&gt;&lt;br&gt;이날 행정 예고(안)는 20일간 행정 예고 기간을 거쳐, 내년 3월 새 학기부터 적용될 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘삶의 질 향상’, ‘성장동력 확보’…인천시, 외로움돌봄국, 농수산식품국 등 신설</title>
-      <link>https://www.chosun.com/national/regional/2025/12/18/S4SQNLL6CZANHK4TD652VYJ7RI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/18/S4SQNLL6CZANHK4TD652VYJ7RI/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 06:49:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDMOJZMU4TQZLBGEYWCZLGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천시청./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시가 시민 삶의 질 향상과 미래 성장동력 확보를 위한 조직 개편을 단행한다. &lt;br&gt;&lt;br&gt;인천시는 내년 1월 9일 자로 조직을 개편한다고 18일 밝혔다. &lt;br&gt;&lt;br&gt;시는 우선 외로움돌봄국을 신설한다. 외로움 돌봄국은 노인과 청년, 장애인 등 대상별로 추진되던 각종 정책과 사업을 하나로 묶어 기획·조정하는 역할을 맡게 된다. &lt;br&gt;&lt;br&gt;또 사회 서비스, 의료·요양 돌봄, 지역 기반 돌봄 자원을 연결하면서 돌봄 사각지대를 최소화하는 기능을 담당한다. &lt;br&gt;&lt;br&gt;국가데이터처에 따르면 인천시 1인 가구는 2020년 이후 연평균 6%씩 증가해 지난해 말 기준 전체 가구 형태의 32.5%를 차지하고 있다. 특히 25∼34세(20.7%)와 60∼69세(19.1%)의 1인 가구 비율이 높다. &lt;br&gt;&lt;br&gt;인천시는 이번 개편을 통해 농축산, 수산, 식품 산업을 총괄하는 ‘농수산식품국’도 신설한다. 지역 농어업의 지속 가능성을 확보하고, 농수산식품의 생산부터 가공과 유통, 소비에 이르기까지 전 분야에 대한 종합적인 지원 체계를 구축하는 게 주된 역할이다. 농수산식품에 바이오 기술을 접목한 ‘그린바이오’ 등 신성장 동력 확보를 위한 지원 사업도 추진한다. &lt;br&gt;&lt;br&gt;인천시는 이 외에 섬 지역 물 복지 강화를 위한 ‘영종옹진수도사업소’와 해상 풍력 등 신재생에너지 산업 육성을 위한 ‘신재생에너지과’, 인공지능(AI) 관련 사무를 총괄하는 ‘AI과’ 등도 신설한다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “이번 조직 개편으로 외로움과 돌봄, 안전, 지역 산업 등 시민 일상과 직결된 문제에 더욱 체계적으로 대응하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>법원 접근 금지 풀리자 아내 찾아가 살해… 60대 男, ‘징역 27년’</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/B5T3KDDRI5C77HWBJA62GNJRGU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/B5T3KDDRI5C77HWBJA62GNJRGU/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 06:25:47 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ENIHG67MTFOFJEIR6AODN77U7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원의 접근금지 명령이 종료된 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가정폭력에 따른 법원의 접근 금지 명령 기간이 끝난 지 일주일 만에 아내를 찾아가 흉기로 살해한 60대 남성에게 중형이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 형사16부(재판장 윤이진)는 18일 살인 혐의로 구속 기소된 중국 국적 60대 A씨에 대한 선고 공판을 열고, A씨에게 징역 27년을 선고했다. 또 6년간의 보호관찰을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 갈등이 있던 아내를 협박해 법원으로부터 임시 조치 결정을 받고, 2차례에 걸쳐 연장 조치를 받았음에도 모든 책임을 피해자에게 떠넘기며 살해했다”며 “노트북을 가지러 왔다고 만남을 거부하던 피해자를 속여 문을 열도록 한 다음 숨겨온 흉기로 피해자의 얼굴 등을 20여 차례 가격해 살해하는 등 계획적이고 범행 방법이 잔인해 죄책 또한 매우 무거워 엄벌이 불가피하다”고 했다. &lt;br&gt;&lt;br&gt;이어 “피해자 유족은 상당한 정신적 충격과 슬픔 속에서 살아가고 있는 것으로 보인다”며 “피고인이 범행을 인정하고 있는 점, 국내에서 형사처벌을 받은 전력이 없는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;검찰은 지난달 A씨의 결심 공판에서 무기징역을 구형하고 3년간의 보호관찰과 20년간의 위치추적 전자장치(전자발찌) 부착 등을 명령해 달라고 요청했다. &lt;br&gt;&lt;br&gt;A씨는 지난 6월 19일 오후 4시 30분쯤 인천시 부평구의 한 오피스텔 현관 앞에서 60대 아내 B씨를 흉기로 수차례 찔러 살해한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 앞서 지난해 12월 특수협박으로 B씨 주변 100m 이내 접근 금지와 연락 제한 등 법원의 임시 조치 명령을 받았다. A씨는 조치 기간이 끝난 뒤 일주일 만에 범행했다. &lt;br&gt;&lt;br&gt;A씨는 사건 발생 사흘 전과 범행 전날 아내를 찾아간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 지난 6월 구속 전 피의자심문(영장실질심사)을 받기 위해 법원에 출석하면서, ‘돌아가신 아내에게 할 말이 없느냐’는 취재진 질문에 “나는 잘했다고 여긴다”고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>왕진 전문의, 박나래 주사이모 논란에 “원칙적으로 환자 처벌 안받아”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/RNW7XT7BXJHDJEDOEFMZZWBTOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/RNW7XT7BXJHDJEDOEFMZZWBTOE/</guid>
-      <dc:creator>최혜승 기자 </dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 05:24:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDQNBYMEZGKYTEGVTDQMTGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래. / 유튜브 백은영의 골든타임 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박나래가 무면허자에게 링거 주사 등을 맞았다는 의혹과 관련해 박나래가 처벌받기 어렵다는 전문가 의견이 나왔다.&lt;br&gt;&lt;br&gt;왕진 전문 의료인인 기승국 대한예방의학과의사회 회장은 지난 16일 YTN라디오 ‘슬기로운 라디오생활’에서 박나래 처벌 가능성에 대해 “환자는 원칙적으로 처벌받지 않는다”고 답했다.&lt;br&gt;&lt;br&gt;기 회장은 “실제로 제가 돌아다니다 보면 주사 아줌마나 주사 이모 이런 분들이 꽤 많이 있다고 들었다”며 “수많은 사람이 이런 걸 이용하고 있지만 처벌받았다는 얘기는 들어본 적 없는 것 같다”고 했다.&lt;br&gt;&lt;br&gt;그는 “환자가 단순 수혜를 넘어 무면허 의료 행위를 적극적으로 돕거나 요청한 경우에 한해 방조범이나 교사범으로 성립할 수 있다는 게 법적 논의의 핵심 쟁점”이라면서 “주사 이모나 링거 이모는 박나래씨가 아니더라도 불법 의료 행위를 이미 하고 돌아다닌 분들이기 때문에 이 정도라면 박나래씨가 방조나 교사에 이르렀다고 보기는 어렵지 않을까 생각한다”고 했다. &lt;br&gt;&lt;br&gt;기 회장은 박나래가 주사 이모를 자택 또는 호텔로 불러 수액을 맞았다는 의혹에 대해 “‘왜 저렇게까지 수액을 맞아야 하는가’ 굉장히 의심이 들었다”고 했다. 이어 “예방의학적 관점에서 보면 (수액은) 영양 결핍자가 아니면 효과가 거의 없다”며 “그것만을 전문으로 왕진·방문 진료를 하고 있다면 과연 정상적인 의료인일까 의심이 든다”고 했다.&lt;br&gt;&lt;br&gt;왕진 요건에 대해선 “의료인이 의료기관 안에서만 해야 하지만, 환자·보호자나 요청 혹은 지방자치단체장 등의 요청에 따른 예외도 있다”며 박나래 역시 환자나 보호자의 요청에 따른 왕진이었을 거라고 추측했다.&lt;br&gt;&lt;br&gt;박나래는 최근 전 매니저들의 폭로로 갑질 논란에 휘말렸다. 이 과정에서 박나래가 의료 기관이 아닌 곳에서 의사가 아닌 이른바 ‘주사 이모’에게 수액을 맞았다는 등 의료 서비스를 받았다는 의혹이 나왔다. 이와 관련해 임현택 전 대한의사협회 회장은 마약류 관리에 관한 법률 위반(향정) 및 의료법, 약사법 위반 등의 혐의로 박나래와 A씨를 검찰에 고발했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[속보] 헌재, 조지호 경찰청장 파면...재판관 전원일치</title>
       <link>https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/KLN2CHFMGRHH3C5XNXZTDPIM5U/</guid>
@@ -888,33 +950,6 @@
       <description/>
       <pubDate>Thu, 18 Dec 2025 05:15:51 +0000</pubDate>
       <content:encoded>&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카카오·네이버·KT 이어 삼성전자도 폭파 협박...이재용 회장 위협 글까지</title>
-      <link>https://www.chosun.com/national/incident/2025/12/18/F6R4XQKI7VCO7OA4GTFI35FFV4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/F6R4XQKI7VCO7OA4GTFI35FFV4/</guid>
-      <dc:creator>성남=김현수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 04:25:30 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 성남시 분당구에 있는 카카오·네이버·KT 사옥에 이어 삼성전자에 대한 폭파 협박 신고가 접수돼 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;18일 경찰에 따르면, 이날 오전 10시 50분쯤 “성남 분당구 정자동 KT 분당사옥에 사제 폭탄 40개를 설치했다”는 내용의 협박 글이 KT 고객센터를 통해 접수됐다는 신고가 들어왔다.&lt;br&gt;&lt;br&gt;KT 측 신고를 받고 출동한 경찰과 소방당국은 경찰 30여 명과 소방차 9대를 투입해 현장 수색을 벌였으나, 현재까지 폭발물 등 특이사항은 발견되지 않아 모두 철수한 것으로 전해졌다. KT는 별도의 재택근무나 원격근무 전환 조치는 하지 않았다.&lt;br&gt;&lt;br&gt;조사 결과, 해당 협박 글은 온라인 간편 가입 신청 과정에서 작성된 것으로 파악됐다. 작성자는 자신을 특정 인물로 밝힌 것으로 알려졌으나 경찰은 명의 도용 가능성이 크고 실제 위험성은 낮다고 판단해 별도 폭발물 수색 없이 사측에 자체 방호 강화를 요청했다.&lt;br&gt;&lt;br&gt;같은 날 오전 11시 29분쯤에는 카카오 CS센터 게시판에 “삼성전자 수원시 영통구 본사를 폭파하고, 이재용 회장을 사제 총기로 쏴 죽이겠다”는 협박 글이 올라왔다는 신고도 접수됐다. 글쓴이는 자신의 이름을 특정 이름으로 기재했으나, 다른 신상 정보는 밝히지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난 15일과 17일에는 카카오 판교 아지트에 사제 폭발물을 설치했다는 협박 글이 카카오 고객센터에 잇달아 게시됐고, 18일에는 네이버 사옥을 대상으로 한 유사한 폭파 협박 신고도 접수됐다.&lt;br&gt;&lt;br&gt;협박 글 작성자로 지목된 인물은 경찰 조사에서 “명의를 도용당한 것 같다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김건희특검, ‘디올백 무혐의’ 서울중앙지검 압수 수색</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/RBA23VSTAFGJPHLKFUVXUYT3LQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/RBA23VSTAFGJPHLKFUVXUYT3LQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 04:52:24 +0000</pubDate>
-      <content:encoded>검찰의 ‘김건희 여사 봐주기 수사’ 의혹을 수사 중인 민중기 특별검사팀이 18일 서울중앙지검에 대한 압수 수색에 나섰다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구에 있는 서울중앙지검 청사 전경./조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 본지 취재를 종합하면 특검은 이날 오전부터 서울중앙지검 형사1부 등에 검사와 수사관을 보내 관련 자료를 확보하고 있다. 이날 강제 수사는 김 여사의 디올백 수수 사건을 담당한 수사팀을 대상으로 이뤄진 것으로 알려졌다.&lt;br&gt;&lt;br&gt;디올백 수수 사건은 재미 교포 최재영 목사가 2022년 9월 코바나컨텐츠 사무실을 방문해 김 여사에게 300만원 상당의 디올백을 건넸다는 내용이다. 최 목사가 이 과정을 손목시계형 몰래카메라로 촬영한 영상이 2023년 11월 공개되며 처음 알려졌다. 이후 서울중앙지검 형사1부는 김 여사의 해당 사건에 대한 수사에 착수했고, 10개월여 만인 작년 10월 김 여사를 무혐의 처분했다. 당시 수사팀은 “대통령 직무와 관련이 없고, 청탁금지법에 공직자 배우자 처벌 규정도 없다”며 이유를 설명했다. &lt;br&gt;&lt;br&gt;그러나 윤석열 전 대통령의 재임 기간 동안 검찰이 김 여사를 무혐의 처분해 ‘봐주기 수사’를 한 것이 아니냐는 의혹이 제기됐다. 이같은 의혹을 수사 중인 특검은 지난 9일 최 목사를 참고인 신분으로 불러 조사한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, ‘이화영 술파티 위증’ 사건 법관 기피신청 기각에 즉시항고</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/6X23AGS5A5ARRCBEJVMHLYEEDI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/6X23AGS5A5ARRCBEJVMHLYEEDI/</guid>
-      <dc:creator>수원=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 04:08:32 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYDGNTFMZSGCNZVGI2WEZRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이화영 전 경기도 평화부지사(왼쪽)가 지난 10월 14일 서울 여의도 국회 법제사법위원회에서 열린 법무부 등에 대한 국정감사에서 의원 질의를 마친 후 자신의 대북 송금 사건을 수사했던 박상용 법무연수원 교수를 지나치고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“검사 조사실에서 연어 술 파티가 있었다”고 국회서 위증한 혐의를 받는 이화영 전 경기도 평화부지사의 재판서 검찰이 낸 법관 기피신청 기각되자, 검찰이 즉시항고했다.&lt;br&gt;&lt;br&gt;18일 법조계에 따르면 수원지검은 전날(17일) 법관 기피 신청을 기각한 수원지법 결정에 대해 즉시항고장을 제출했다. 법관 기피신청은 ‘불공평한 소송을 진행할 우려가 있을 때’, 소송을 진행 중인 법관(재판부)을 바꿔달라는 것이다. 검찰의 즉시항고에 따라, 이 사건은 수원고법에서 심리를 하게 될 전망이다.&lt;br&gt;&lt;br&gt;검찰의 법관 기피 신청은 지난달 25일 있었다. 이날 수원지법 형사11부(재판장 송병훈)는 이 전 부지사의 국회증언감정법·정치자금법 위반 등 사건의 10차 공판준비기일을 열었다. 이 자리에서 재판부는 검찰이 신청한 증인 64명 중 6명을 채택하고, 나머지 58명을 기각했다.&lt;br&gt;&lt;br&gt;이에 검찰 측은 “재판부가 채택한 소수의 증인만으로 공소사실을 입증하라고 한 것은 사실상 입증 활동 포기를 지휘한 것”이라고 했다. 당시 수원지검 소속 검사 4명은 “소송 지휘를 따를 수 없어 퇴정하겠다”며 기피 신청 의사를 밝힌 후 재판부에 고개 숙여 인사하고 법정을 나갔다.&lt;br&gt;&lt;br&gt;이후 재판부는 “검사가 재판장에 대해 한 기피 신청 결과를 보기 위해 기피 재판 확정 전까지 소송 진행을 정지한다”고 밝혔다.&lt;br&gt;&lt;br&gt;기피 신청 사건을 심리한 수원지법 형사12부(재판장 박건창)는 지난 9일 기각 결정을 내리면서, “본안 사건과 관련한 담당 재판장의 소송지휘권 등의 행사가 어느 일방에 편파적이었다고 평가할 만한 사정을 찾기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;기피 신청 기각에 대해선 항고, 재항고할 수 있어 최종 판단이 나올 때까지 보통 수개월이 걸리기도 한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DLQFVJMSAB5FCHXXT57N2SZBZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원법원종합청사. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당초 이 사건은 이달 15~19일 5일 동안 일반 국민이 배심원으로 평결에 참여하는 국민참여재판으로 진행할 예정이었다. 그러나 검찰의 기피 신청 접수로 재판 절차가 멈췄고, 이 일정도 무기한 연기됐다.&lt;br&gt;&lt;br&gt;이른바 ‘검사 퇴정 사건’은 이재명 대통령이 사건 발생 이튿날(지난달 26일) “(퇴정 검사들을) 엄정히 감찰하라”고 지시하면서 논란이 됐다. 이 감찰은 수원고검이 맡아서 하고 있다.&lt;br&gt;&lt;br&gt;이 전 부지사의 변호인들은 지난달 27일 “검사들이 사법 절차를 방해하고 법원의 권위를 훼손한 것”으로, 퇴정한 검사들을 법정모욕죄 및 직무유기죄로 처벌해달라며 국가수사본부에 고발장을 냈다.&lt;br&gt;&lt;br&gt;한편, 이 전 부지사는 작년 10월 국회 청문회에 증인으로 나와 “2023년 5∼6월쯤 검찰청에서 연어 술 파티가 있었다”는 취지로 위증한 혐의를 받는다. 2021년 7월 민주당 대선 경선 후보였던 이재명 대통령을 위해 김성태 전 쌍방울 회장에게 ‘쪼개기 후원금’을 내도록 한 혐의도 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>대법원, 내란전담재판부 예규 만들기로...무작위 배당 원칙</title>
@@ -926,15 +961,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DJSJ5FCJ3VPR5ABB4OY7DZPQ6A.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원이 내란전담재판부를 설치하는 내용의 내부 지침을 만들기로 했다.&lt;br&gt;&lt;br&gt;대법원은 18일 대법관 행정회의를 열고 ‘국가적 중요사건에 대한 전담재판부 설치 및 심리절차에 관한 예규’를 제정하기로 했다고 밝혔다. 대법원 예규는 대법원이 업무 기준을 마련하기 위해 정하는 행정 규칙이다.&lt;br&gt;&lt;br&gt;이번 예규는 형법상 내란·외환죄와 군형법상 반란죄 사건을 전담해 집중 심리하는 전담재판부를 설치하는 내용을 담았다. 사건 배당은 종전처럼 무작위로 하되 배당 받은 재판부를 전담재판부로 지정한다는 게 골자다. &lt;br&gt;&lt;br&gt;또 전담재판부로 지정되면 내란 등 사건만 전담해 집중 심리할 수 있도록 기존에 맡고 있던 사건들은 전부 다른 재판부로 재배당하는 것을 원칙으로 했다. 만약 관련 사건이 접수될 경우 관계 재판부들 협의를 거쳐 배당하고 관련 사건을 제외한 새 사건은 맡지 않도록 했다.&lt;br&gt;&lt;br&gt;대법원은 “사법부 스스로 신속하고 공정한 재판을 위한 조치를 취해야 한다는 법원 안팎의 요구에 따른 것”이라고 예규를 제정한 배경을 밝혔다. 최근 12·3 비상계엄 관련 1심 재판들이 마무리 단계에 접어들자, 항소심을 맡게 될 서울고법에서도 법원행정처에 “재판 예규로 집중심리재판부 운영 등 사무 분담·사건 배당 기준을 명확히 설정할 필요가 있다”고 요청했다고 한다. 대법원은 “법원행정처에서는 신속한 재판지원을 위해 종래 검토하던 방안에 서울고법 요청을 더해 예규안을 마련했다”고 했다.&lt;br&gt;&lt;br&gt;이 예규는 행정예고를 거쳐 시행된다. 대법원은 “국가적 중요 사건 항소심이 본격 시작되기 전에 시행될 예정”이라고 했다. 비상계엄 관련 내란·외환 사건 가운데 한덕수 전 국무총리 1심 재판이 내년 1월 21일 가장 먼저 선고될 예정이다. 윤석열 전 대통령의 내란 우두머리 재판과 김용현 전 국방장관 등 군 관계자, 조지호 경찰청장 등 경찰 관계자들 내란 중요 임무 종사 혐의 재판은 1월 중순 변론이 종결될 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘美국적으로 선거 운동’ 최재영 목사, 선거법 위반 등 혐의로 벌금 2000만원</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/MNFEKFX5XBFIRK3U3IVB5SS6BI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/MNFEKFX5XBFIRK3U3IVB5SS6BI/</guid>
-      <dc:creator>여주=김수언 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 03:49:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEZGCNRXMU2DGNTBMQYGIYJZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사에게 명품 가방을 선물한 것으로 알려진 최재영 목사가 9일 오전 서울 종로구 광화문 KT 빌딩에 위치한 김건희 특검에 참고인 신분으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사에게 고가의 가방 등을 건넨 최재영 목사가, ‘미국 국적’ 신분으로 불법 선거운동을 한 혐의 등으로 1심서 벌금 2000만원을 선고받았다.&lt;br&gt;&lt;br&gt;수원지법 여주지원 형사1부(재판장 안재훈)는 18일 최 목사의 공직선거법 위반 혐의에 대해선 벌금 1500만원을 선고하고, 명예훼손 혐의에 대해선 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;최 목사는 선거 운동을 할 수 없는 미국 국적자 신분임에도 작년 4·10 국회의원 선거를 앞두고 경기 여주·양평 지역구에 더불어민주당 후보로 출마했던 최재관 지역위원장의 선거 운동을 도운 혐의로 불구속 기소됐다. 현행법상 대한민국 국민이 아닌 자는 국회의원선거에서 선거 운동을 할 수 없다. 최 목사는 재미교포로, 대한민국 영주권도 없다.&lt;br&gt;&lt;br&gt;그는 같은해 6월 24일 다른 선거법 위반 등 혐의로 경기남부경찰청에서 조사받기 위해 출석했을 당시, 국민의힘 이철규 의원에 대해 “이 의원이 절 ‘디올백 사건과는 무관한 선거법 위반 혐의로 엮은 것은 상당히 큰 실수”라고 말하는 등 이 의원의 명예를 훼손한 혐의도 있다.&lt;br&gt;&lt;br&gt;재판부는 최 목사의 선거법 위반 혐의에 대해 “피고인은 국회의원 선거운동을 할 수 없는 외국인인데도 시국강연회에 강사로 나서 민주당과 민주당 여주양평지역위원장을 지지하는 선거 관련 발언을 여러 차례 한 사실이 인정되고, 강연회 개최에 관여한 피고인들도 모두 유죄가 인정된다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 작년 3월 최 목사가 여주 시국강연회에서 이철규 의원으로부터 “‘김건희 여사가 공천을 받으면서 한 사람당 얼마를 받는다는 얘기를 했다’라는 취지의 발언을 들었다”고 말해 이 의원의 명예를 훼손한 혐의에 대해선 무죄로 판단했다. 재판부는 “비방 목적과 동기가 발견되지 않고, 구체적 사정도 없다”고 했다.&lt;br&gt;&lt;br&gt;재판부는 “외국인 신분인데 적극적으로 선거운동을 하며 선거 관련 발언을 해 죄질이 가볍지 않고, 피해자와 합의가 되지 않은 점, 총선에서 여주양평지역구 민주당 후보가 낙선해 선거 영향이 제한적이었던 점 등을 양형에 고려했다”고 판시했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVQWIMTBGIYDCZBWGAZWEM3CGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;수원지법 여주지원 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 최 목사와 함께 선거법 위반 혐의로 함께 기소된 여현정 양평군의원에게는 벌금 1000만원, 최 위원장에게는 벌금 90만원, 시민단체 관계자 등 4명에게는 벌금 500만원을 각각 선고했다.&lt;br&gt;&lt;br&gt;이들은 선고 직후 취재진에 “공익과 시민의 알 권리 차원에서 한 것인데 가혹한 판결”이라며 “항소하겠다”고 했다.&lt;br&gt;&lt;br&gt;한편, 최 목사는 지난 9일 김 여사와 관련한 검찰의 부실 수사 의혹을 수사 중인 민중기 특별검사팀에 참고인 신분으로 출석해 조사를 받았다. 최 목사는 2022년 9월 김 여사에게 디올백을 건넨 당사자로, 이듬해 11월 인터넷 매체 서울의소리가 이 모습이 담긴 ‘몰래카메라’ 영상을 공개하면서 불법 청탁 의혹이 제기됐다. 최 목사는 자신이 김 여사에게 미국 민간외교사절단 행사 참여 요청, 김창준 전 미국 하원의원 국정자문위원 임명과 국립묘지 안장 등을 청탁했다고 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“운전석서 술 냄새가...” 부산서 승객 신고로 숙취 운전 마을버스 기사 적발</title>
       <link>https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/18/QSHT55ORSJG4DFAZEIEQZ5SMRI/</guid>
@@ -942,25 +968,6 @@
       <description/>
       <pubDate>Thu, 18 Dec 2025 03:29:17 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 마을버스 운전 기사가 숙취 운전을 하다 경찰에 적발됐다.&lt;br&gt;&lt;br&gt;부산 영도경찰서는 50대 남성 마을버스 운전 기사 A씨를 도로교통법상 음주운전 혐의로 입건해 조사하고 있다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 이날 오전 7시 25분쯤 부산 영도구 한 도로에서 음주 상태로 마을버스를 운전한 혐의를 받는다.&lt;br&gt;&lt;br&gt;해당 버스에 타고 있던 한 승객이 “기사에게 술 냄새가 나는 것 같다”고 112에 신고했다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 경찰이 A씨에 대해 혈중알코올농도를 측정한 결과, 운전면허 정지(0.03% 이상~0.08% 미만) 수준으로 확인됐다.&lt;br&gt;&lt;br&gt;A씨는 전날 저녁 술을 마셨다고 한다. 하지만 출근 전 회사에서 자체적으로 실시한 음주 측정에선 정상 판정을 받아 버스를 운행할 수 있었다고 한다.&lt;br&gt;&lt;br&gt;경찰은 “A씨를 상대로 정확한 경위 등을 조사하고 있다”며 “마을버스 회사의 음주 측정기에 이상이 없는지도 살펴보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년부터 ‘폭염중대경보’ ‘열대야주의보’ 신설</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/18/T3QHCFT4JRESVHNW4NMFRGUXUI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/18/T3QHCFT4JRESVHNW4NMFRGUXUI/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 02:46:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSMHGHEQN75D2TWHMNJ5GRNUWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년부터 최고 체감기온이 38도 이상으로 오를 때 ‘폭염중대경보’가 발령된다. ‘열대야주의보’와 ‘극한호우 긴급재난문자’가 신설되고, 지난 여름 강릉 가뭄과 같은 사태를 방지하기 위한 ‘통합 기상가뭄 정보’도 제공된다.&lt;br&gt;&lt;br&gt;기상청은 18일 이같은 내용이 담긴 ‘2026년 주요 정책 추진 계획’을 발표했다. 기후변화로 극한 기상과 기상 재난이 잦아지면서 이에 대응하기 위해 기존 특보 체계 등을 크게 손본 것이 골자다.&lt;br&gt;&lt;br&gt;폭염특보가 17년 만에 바뀐다. 최고 체감 기온에 따라 ‘폭염주의보’ ‘폭염경보’ 두 단계로 나누던 이전 특보에 ‘폭염중대경보’라는 더 센 경보가 추가된다. 바깥 활동이 온열 질환으로 이어질 수 있다는 강력한 메시지를 주는 것이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MGSA7PBMLRBBBN7PYTVBEAQJG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 여름 강원 철원군 갈말읍의 한 도로에서 소방대원들이 침수된 승용차를 이동시키고 있다. /강원소방본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;밤잠 못 이루는 열대야에도 특보를 발령해 대비할 수 있게 된다. 열대야(밤 최저기온 25도 이상)가 이틀 이상 지속될 것으로 예상될 때 ‘열대야주의보’가 내려진다. 다만 폭염특보와 달리 열대야는 세분화 없이 주의보만 발령된다. 강원 강릉 등 일부 지역에서 밤 최저기온이 30도를 넘는 ‘초열대야’가 발생하고 있으나 흔한 현상은 아니기 때문이다.&lt;br&gt;&lt;br&gt;시간당 100㎜ 이상 ‘극한 호우’가 쏟아질 때 ‘극한호우 긴급재난문자’가 해당 지역에 발송된다. 현재는 시간당 80㎜ 이상 비가 내릴 때 ‘호우 긴급재난문자’가 발송되고 있는데, 지난 여름부터 시간당 100㎜ 이상의 비가 빈번해지자 상위 단계 재난문자를 새로 만든 것이다.&lt;br&gt;&lt;br&gt;정부의 재생에너지 확대 기조에 따라 태양광·풍력발전에 영향을 미치는 ‘일사’와 ‘풍량’에 대한 정보를 담은 ‘재생에너지 기상 서비스’도 시작돼 발전량을 예측할 수 있게 된다. 기상청은 ‘재생에너지 자원지도’를 내년 12월까지 개발해 풍력발전 입지 선정도 지원하겠다는 계획이다. 바람이 일정하게 부는 곳을 찾아 입지 선정에 도움을 주겠다는 취지다.&lt;br&gt;&lt;br&gt;제한 급수를 겪을 정도로 극심했던 지난 여름 ‘강릉 가뭄’과 같은 사태를 방지하기 위한 ‘통합 기상가뭄 정보’도 내년 6월부터 제공된다. &lt;br&gt;&lt;br&gt;이미선 기상청장은 “인공지능(AI) 기반의 기상·기후 수치모델 개발 등으로 예보 정확도를 높일 계획”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>외국인 기능공, 지자체가 ‘자체 비자’로 뽑는다</title>
-      <link>https://www.chosun.com/national/regional/2025/12/18/DUZF2EPHLVHYXINFMSGELU4TZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/18/DUZF2EPHLVHYXINFMSGELU4TZQ/</guid>
-      <dc:creator>울산=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 17 Dec 2025 15:57:00 +0000</pubDate>
-      <content:encoded>울산과 경남은 ‘광역형 비자(E-7-3)’ 제도를 활용해 외국인 근로자를 충원하고 있다. 광역자치단체가 자체 기준을 세워 지역 산업에 맞는 외국인 근로자를 뽑는 비자 제도다. 올해부터 2년간 시범 운영한다.&lt;br&gt;&lt;br&gt;조선업 메카인 울산과 경남은 2년간 베트남, 태국, 우즈베키스탄, 인도네시아 등 4국에서 용접공, 도장공 등 980명을 뽑아 조선소 현장에 배치할 계획이다. 울산 440명, 경남 540명이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KBAYJHWLBBEV7LENTPHHZKS3GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 경남도
-지난 15일 ‘광역형 비자’로 입국한 인도네시아 도장공 26명이 김해국제공항에서 기념 사진을 찍고 있다. 이들은 다음달부터 경남 거제 한화오션 조선소에서 일한다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난달 26일 베트남 용접공 49명이 광역형 비자로 입국해 울산 HD현대중공업에서 일하고 있다. 지난 15일에는 한화오션 거제조선소에서 일할 인도네시아 도장공 26명이 입국했다.&lt;br&gt;&lt;br&gt;기존 ‘특정활동 비자(E-7)’와 달리 경력, 학력 조건을 완화하는 대신 조선업 기술과 한국어 능력 검증을 강화했다. 강기중 울산시 정책기획관은 “근로자가 해외에서 쌓은 경력은 검증하기 쉽지 않았다”며 “조선 현장에서 꼭 필요한 기능을 갖춘 인재를 데려올 수 있는 기준을 정했다”고 했다. &lt;br&gt;&lt;br&gt;울산시와 HD현대중공업은 아예 베트남, 우즈베키스탄 등 현지에서 ‘맞춤형 외국인 근로자’를 양성하고 있다. 3~6개월간 용접, 도장 등 조선업 기술과 한국어를 가르친다. &lt;br&gt;&lt;br&gt;경남도는 조선업 명장, 한국어 교수 등으로 자체 검증단을 꾸렸다. 검증단이 현지에서 외국인 근로자들의 실무 능력을 확인한 뒤 선발하고 있다. 경남도 관계자는 “조선업은 위험한 업무가 많아 기업들이 한국어 능력을 갖춘 인재를 원한다”며 “한국어능력시험(TOPIK) 1급 수준인 근로자만 뽑고 있다”고 말했다.&lt;br&gt;&lt;br&gt;광역형 비자는 두 지자체가 법무부에 요청해 도입한 것이다. 최근 조선업 호황으로 주문량이 크게 늘었으나 일할 사람을 구하기 어렵기 때문이다. 조선·해양산업 인적자원개발위원회(ISC)에 따르면, 지난해 조선업 근로자의 미충원율은 14.7%로 전체 산업 평균(8.3%)의 2배 수준이다. 울산시는 2027년까지 조선업에 근로자 1만 3000명이 더 필요할 것으로 보고 있다. 울산시 관계자는 “청년들이 조선업은 고되고 위험하다고 생각해 기피한다”며 “당장 수주 물량을 쳐내고, 인건비가 싼 중국에 밀리지 않으려면 외국인 인력 확보가 시급하다”고 말했다. 경남도 관계자는 “그동안 많은 외국인이 들어와 조선업 현장에서 일하고 있지만, 용접·도장·전기 등 필수 분야의 인력난은 여전히 심각하다”며 “광역형 비자가 대안이 되고 있다”고 말했다.&lt;br&gt;&lt;br&gt;광역형 비자에 반대하는 목소리도 있다. ‘울산 동구 살리기 주민대회 조직위원회’는 지난달 울산시와 고용노동부에 “외국인 근로자 고용을 확대하는 광역형 비자 사업을 폐기하라”는 내용의 탄원서를 냈다. 주민 6500여명이 서명했다. 이들은 “외국인 근로자가 늘어나면서 조선업이 비정규직 중심 산업으로 고착화되고 있다”며 “우리나라 조선업의 기술력도 떨어질 가능성이 있다”고 주장했다. 이어 “인력난을 해소하려면 내국인 숙련공을 계속 고용하고 원·하청 구조를 합리적으로 개선해야 한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>다시 울리는 건배사, 올해 식당 예약은 이미 마감</title>
