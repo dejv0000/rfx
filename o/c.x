@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹, 김건희특검 첫 조사 8시간 반 만에 종료… 6개 혐의 부인</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/20/WRHNQEVDP5EDTIPAOH3BVG4STI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/WRHNQEVDP5EDTIPAOH3BVG4STI/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 11:21:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNR5TSUV7NI4NGZ2LAHWQXVGTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 20일 오후 서울 종로구 민중기 특별검사팀 사무실에서 첫 피의자 조사를 마치고 법무부 호송차를 타고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 20일 윤석열 전 대통령에 대한 첫 피의자 조사를 8시간 반 동안 진행하고 종료했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시부터 오후 6시 30분까지 윤 전 대통령을 상대로 조사를 진행하고 조서 열람 등 절차를 마쳤다.&lt;br&gt;&lt;br&gt;특검은 정치자금법 위반, 뇌물 등 6개 범죄 혐의에 대해 집중적으로 캐물으며 미리 준비한 160여 쪽 분량의 질문지를 모두 소화한 것으로 전해졌다. 윤 전 대통령 측은 조사 내내 혐의를 대체로 부인했다고 한다. 윤 전 대통령 변호인단은 “윤 전 대통령은 진술 거부권 행사 없이 아는 부분에 대해 성실히 답변했다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 ‘정치 브로커’ 명태균씨로부터 2억7000여 만원어치 여론조사 결과를 무상으로 받고 2022년 6월 국회의원 보궐선거 공천에 개입한 혐의, 김상민 전 부장검사로부터 공직 임명 등을 대가로 1억4000만원 상당의 이우환 화백 그림을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 2022년 대선 직후 김 여사를 통해 이봉관 서희건설 회장, 이배용 전 국가교육위원장 등으로부터 금거북이와 명품 시계 등을 수수한 혐의, 2021년 말 대선 토론회에서 김 여사와 관련해 각종 허위 사실을 공표한 혐의도 있다.&lt;br&gt;&lt;br&gt;특검은 수사 기한이 일주일 정도밖에 남지 않은 만큼, 윤 전 대통령에 대한 조사를 마무리하고 김 여사와 함께 기소할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“왜 부탁 거절해”...망치로 딸 포르쉐 부순 아빠</title>
       <link>https://www.chosun.com/national/regional/2025/12/20/ISHHACE6DNCEXIMT4ASRCBBUKI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/20/ISHHACE6DNCEXIMT4ASRCBBUKI/</guid>
@@ -954,15 +963,6 @@
       <pubDate>Thu, 18 Dec 2025 15:53:00 +0000</pubDate>
       <content:encoded>윤석열 전 대통령이 18일 군사법원에 증인으로 출석해 군 관계자들에 대해 “제가 내린 결정에 따라 할 일을 한 사람들인데 참 미안하다”고 했다. 윤 전 대통령은 이날 서울 용산 중앙지역군사법원에서 진행된 곽종근 전 특전사령관, 여인형 전 방첩사령관, 이진우 전 수방사령관, 문상호 전 정보사령관의 내란중요임무종사 혐의 재판에 증인으로 처음 출석했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AC5BTDNOQZA4VFIMT75OPUF2SM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
 윤석열 전 대통령이 18일 내란 중요 임무 종사 혐의 재판에 증인으로 출석하기 위해 서울 용산구 중앙지역군사법원에 들어서고 있다.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 65세 생일을 맞은 윤 전 대통령은 “제가 아는 군 간부들과 경찰 관계자들이 법정에 나오는 것을 보니 참 안타깝다”며 “재판이 끝나고 구치소로 돌아가 상당히 밤늦게까지 기도를 많이 했다”고 말했다. 군사법원은 서울 용산 대통령실과 같은 울타리를 쓰는 국방부 경내에 있다. 윤 전 대통령의 용산 방문은 국회의 탄핵소추안 가결로 직무가 정지된 지난해 12월 이후 약 1년 만으로 알려졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 최근 방첩사가 비상계엄에 동원됐던 인원 181명을 인사 조치한 것과 관련, “방첩사는 이 일에 관여한 것도 별로 없다”며 “이러한 것을 빌미로 국가 안보 핵심 기관을 무력화해서는 안 된다고 생각한다”고 말했다. 또 김용현 전 장관을 통해 국회와 선관위에 군을 투입하라고 지시한 것은 인정하면서도 정치인 체포나 국회 계엄 해제 표결 방해, 총기 사용 승인 등 제기된 의혹은 모두 사실이 아니라고 반박했다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 “나라의 위태로운 상황에 대해 국민에게 북을 친다는 개념으로 계엄을 한 것”이라며 “길어도 반나절이나 하루를 못 갈 것이라고 생각하고 있었다”고 했다. 윤 전 대통령은 ‘두 번, 세 번 계엄하면 된다’고 발언했다는 의혹에 대해서는 “그런 얘기를 누가 들었다고 하는데 현실적으로 말이 안 되는 얘기”라며 “그런 말한 기억이 없다”고 했다. 체포 명단에 대해서는 “보도를 보고 김용현 전 장관에게 물어봤다”고 답했다.&lt;br&gt;&lt;br&gt;이날 윤 전 대통령은 군 검찰이 증인으로 출석한 자신에게 사실상 피고인 신문을 진행하고 있다며 수차례 답변을 거부했다. 군 검찰이 신문 과정에서 ‘내란 우두머리’라고 부르자 “내가 내란 우두머리로 기소된 사람이지, 내란의 우두머리인가”라고 했다. 윤 전 대통령의 증인 신문은 이날로 끝날 예정이었지만 윤 전 대통령이 형사재판 변호인 접견 일정을 이유로 조기 퇴정을 요청하면서 오는 30일 증인 신문을 다시 하기로 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 12월 19일</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/3ZGZ3436BFAMVCJLEHQTRVGQJU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/3ZGZ3436BFAMVCJLEHQTRVGQJU/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWPQOJESEJBUVKPLC3ZVJN6UII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
