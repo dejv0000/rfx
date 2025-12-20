@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘尹 관저이전 의혹’ 김오진 前 국토차관, 구속 후 첫 특검 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/20/6HNFKVUCTNBALBKTSJDFIBGKDU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/6HNFKVUCTNBALBKTSJDFIBGKDU/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 04:39:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TFRSVDC7U5KHJOYGWYJTQ2KDQQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김오진 전 국토교통부 차관. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대통령실 관저 이전’ 의혹으로 구속된 김오진 전 국토교통부 차관이 20일 민중기 특별검사팀에 출석했다. 구속 이후 첫 번째 피의자 조사다.&lt;br&gt;&lt;br&gt;김 전 차관은 이날 오전 10시 법무부 호송차를 타고 서울 종로구 KT광화문빌딩 웨스트의 특검 사무실에 도착해 조사받고 있다.&lt;br&gt;&lt;br&gt;‘대통령 관저 이전’ 의혹은 김 여사와 가까운 김모씨가 대표로 있는 21그램이 지난 2022년 대통령 관저 이전 공사를 수주하며 특혜를 받았다는 것이다. 김 전 차관은 당시 청와대 관저 이전 공사 업무를 총괄하고, 이후 대통령실 관리비서관과 국토부 차관 등을 지냈다.&lt;br&gt;&lt;br&gt;김 전 차관은 지난 17일 직권남용, 건설산업기본법 위반, 특정경제범죄가중처벌법상 사기 등 혐의로 구속영장이 발부됐다.&lt;br&gt;&lt;br&gt;김 전 차관 측은 구속영장 실질심사에서 공사 업체를 선정할 때 ‘윗선’에서 21그램을 강하게 추천했다고 말한 것으로 전해졌다. 또한 추천에는 사실상 김 여사의 의중이 반영된 것으로 추정됐다고 하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>서정욱 변호사 “김건희, 계엄 정당하다 생각...남편에 ‘너’라고 안 해”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/20/6WQOV55Q3FDU3ONBYTJHNZSRGQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/6WQOV55Q3FDU3ONBYTJHNZSRGQ/</guid>
@@ -843,15 +852,6 @@
       <description/>
       <pubDate>Fri, 19 Dec 2025 00:56:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HAYWIY3DHA2TGYZRMMZDOMBYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 지원 의혹을 받는 전재수 더불어민주당 의원이 지난 15일 오후 서울 여의도 국회의원회관에서 경찰의 의원실 압수수색과 관련 취재진을 향해 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 통일교의 정치권 로비·금품 수수 의혹과 관련해 전재수 전 해양수산부 장관을 19일 소환 조사했다. 금품을 받았다는 의혹을 받는 정치인 피의자들 가운데 첫 소환 조사다.&lt;br&gt;&lt;br&gt;전 의원은 이날 오전 9시 53분쯤 서울 서대문구 경찰청에 출석하며 ‘한·일 해저터널 청탁 대가로 현금 2000만원과 시계 한 점을 받았다’는 주장에 대해선 “사실이 아니다”라며 “한·일 해저터널은 부산의 미래를 팔아먹는 것이고 일본이 이익을 보는 구조라 저는 일관되게 반대해 왔다. 이것은 제 정치적 신념”이라고 주장했다. &lt;br&gt;&lt;br&gt;이어 “정치적 험지 부산에서 세 번 떨어지고 네 번째 만에 당선됐다”며 “그런 제가 현금 2000만원과 시계 한 점으로 고단한 인내의 시간을 맞바꿨다는 게 말이 되느냐”고 주장했다. 전 의원은 “차라리 현금 200억과 시계 100점이라고 하라”며 “저는 통일교로부터 그 어떠한 불법적인 금품 수수도 없었다는 말씀을 다시 한번 분명하고 강력하게 드린다”고 했다. “한학자 총재를 만난 적이 있느냐” “경찰 조사에서 어떤 점을 소명할 계획이냐”는 취재진 질문에는 따로 답하지 않았다. &lt;br&gt;&lt;br&gt;경찰은 전 의원이 2018년 무렵 통일교 측에서 현금 2000만원과 1000만원 상당의 불가리 시계 1점을 받았다는 의혹과 관련해 실제 금품 전달이 있었는지, 전달 경위와 대가성 여부를 집중적으로 들여다볼 방침이다. 경찰은 특히 금품이 통일교 측 숙원 사업으로 거론돼 온 한·일 해저터널 추진 등과 맞물려 청탁성 대가로 오갔는지를 의심하고 있는 것으로 전해졌다. 통일교 산하 재단이 2019년 전 의원 책 500권(약 1000만원 상당)을 구매했다는 의혹도 조사할 방침이다.&lt;br&gt;&lt;br&gt;경찰은 앞서 지난 15일 전 의원의 자택과 국회 의원실, 통일교 본산인 경기 가평 천정궁과 서울본부 등 총 10곳을 압수수색해 휴대전화·PC 등 전산 자료와 회계·내부 문건 등을 확보했다. 전날에는 천정궁에서 통일교 국제 행사 관련 자료를 추가로 임의 제출받아, 일부 정치인의 행사 참석·축전 발송 정황을 확인하는 작업도 병행하는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>공수처, 검사 4명 신규 임용...출범 4년 만에 정원 채워</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/19/V3OJ3O5JD5D7FENAELD42QOOD4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/V3OJ3O5JD5D7FENAELD42QOOD4/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 00:48:52 +0000</pubDate>
-      <content:encoded>고위공직자범죄수사처(공수처)가 19일 평검사 4명을 신규 임용했다고 밝혔다. 이로써 공수처 검사 정원 25명이 모두 채워졌는데, 지난 2021년 출범 이후 4년이 지나서야 조직 기능이 정상화된 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDKZBSHA4GEZJXGQZWIOJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공수처는 “오는 22일 자로 평검사 4명을 신규 임용했다”며 “출범 이후 처음으로 검사 정원(처·차장 포함) 25명을 전원 충원하게 됐다”고 밝혔다. 구체적인 공수처 검사 정원은 처장, 차장, 부장검사 4명, 부부장검사 1명, 평검사 18명 등 25명이다.&lt;br&gt;&lt;br&gt;이번에 신규 임용된 검사는 노흥섭 대전유성경찰서 경감(변호사시험 4회), 김준환 법무법인 세종 변호사(변시 6회), 정수진 공수처 수사관(변시 7회), 이재영 법무법인 지평 변호사(변시 9회) 등이다. &lt;br&gt;&lt;br&gt;오동운 공수처장은 “고도의 수사력을 요구하는 고위공직자범죄 사건들을 다루면서 수사 인력 부족으로 수사 진척에 일부 어려움이 있었다”며 “검사 정원을 다 채운 만큼 수사 성과를 가속화할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[단독] 전장연, 李정부에 ‘대선 청구서’… 지하철 시위 급증</title>
