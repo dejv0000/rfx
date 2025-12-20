@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“왜 부탁 거절해”...망치로 딸 포르쉐 부순 아빠</title>
+      <link>https://www.chosun.com/national/regional/2025/12/20/ISHHACE6DNCEXIMT4ASRCBBUKI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/20/ISHHACE6DNCEXIMT4ASRCBBUKI/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 08:06:46 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RE5YLO7VRNDWXEOVVJF6KLYAWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부탁을 거절했다는 이유로 딸의 포르쉐 승용차를 망치로 내리쳐 부순 혐의 등으로 재판에 넘겨진 50대에게 실형이 선고됐다.&lt;br&gt;&lt;br&gt;인천지법 형사1단독(이창경 부장판사)은 특수재물손괴, 특수협박 등 혐의로 기소된 A(52)씨에게 징역 1년 선고와 함께 40시간의 가정폭력 치료프로그램 이수를 명령했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 7월21일 오후 3시30분쯤 인천 부평구 부평동의 한 도로에서 망치를 들고 딸 B(30)씨 소유의 흰색 포르쉐 승용차 운전석 유리창을 수차례 내리쳐 깨뜨려 1500만원 상당의 수리비가 들도록 손괴한 혐의로 기소됐다.&lt;br&gt;&lt;br&gt;A씨는 B씨가 자신의 부탁을 거절하고 전화를 기분 나쁘게 끊은 것에 화가 나서 차량을 부순 것으로 조사됐다. 그는 망치를 손에 든 채 B씨를 향해 휘두르는 등 위협한 혐의로도 기소됐다.&lt;br&gt;&lt;br&gt;이어 A씨는 112신고를 받고 출동한 경찰관의 턱을 머리로 들이받거나 순찰차 내부에 설치된 격벽을 발로 걷어차 25만8500원 상당의 수리비가 들도록 손괴하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘尹 관저이전 의혹’ 김오진 前 국토차관, 구속 후 첫 특검 조사</title>
       <link>https://www.chosun.com/national/court_law/2025/12/20/6HNFKVUCTNBALBKTSJDFIBGKDU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/6HNFKVUCTNBALBKTSJDFIBGKDU/</guid>
@@ -834,15 +843,6 @@
       <pubDate>Wed, 17 Dec 2025 15:50:00 +0000</pubDate>
       <content:encoded>이달 초 수도권을 중심으로 폭설이 내려 눈이 5㎝ 이상 쌓였어요. 당시 일부 지역에선 눈이 빠르게 쌓이면서 교통 대란이 발생했었죠. 이런 상황을 막기 위해 도로에는 제설제를 뿌립니다. 제설제로 쓰이는 물질에는 소금이라 불리는 염화나트륨이 있고, 좀 더 추울 때 사용하는 염화칼슘이나 염화마그네슘도 있습니다.&lt;br&gt;&lt;br&gt;우리나라에선 가격이 저렴한 소금을 많이 사용해요. 소금은 습기를 빨아들이는 성질이 있어서, 주변 공기에서 수분을 흡수해 눈 표면에 물이 생기게 해요. 이렇게 생긴 물에 소금이 섞이면 물이 어는 온도가 내려가 도로가 얼지 않게 하는 원리랍니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZSRSJBEBYFBOZD2S22TUHD2PQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 연합뉴스
 지난 4일 서울 종로구청 관계자들이 제설 작업을 위해 소금을 준비하고 있어요.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;제설제로 사용하는 소금은 기온에 따라 사용하는 양이 달라져요. 온도가 낮아질수록 소금의 효율이 떨어지기 때문입니다. 예를 들어 영하 1도일 때 소금 10g으로 눈 260g을 녹일 수 있지만, 영하 7도일 때 소금 10g으로 눈 90g밖에 녹이지 못합니다. 그래서 영하 6도 이하로 내려가면 소금에 모래를 섞거나 다른 제설제를 추가해요. 영하 9도 이하에서는 염화칼슘을, 영하 13도 이하에서는 염화마그네슘을 제설제로 사용합니다.&lt;br&gt;&lt;br&gt;제설제는 종류마다 잘 작동하는 온도가 달라요. 염화마그네슘, 염화칼슘, 염화나트륨 순으로 더 낮은 온도에서도 열을 내는 발열 성능이 좋아요. 소금인 염화나트륨은 값이 싸고 구하기 쉬워 날씨가 많이 춥지 않을 때 주로 쓰입니다. 더 추운 날에는 염화칼슘이나 염화마그네슘을 사용해요. 염화칼슘은 소금보다 눈을 녹일 때 열을 더 많이 내 아주 추운 날에도 효과가 있고, 염화마그네슘은 그보다 더 낮은 온도에서도 눈을 녹일 수 있어 강추위에 쓰입니다. 다만 염화칼슘과 염화마그네슘은 가격이 소금의 2~3배 이상으로 더 비싼 편이에요.&lt;br&gt;&lt;br&gt;제설을 효과적으로 하려면 눈이 오기 전과 후에 모두 소금을 뿌려줘야 해요. 눈이 내리기 전에 도로에 소금을 뿌리면 땅 표면과 눈 사이에 소금층이 만들어져 나중에 눈을 제거하기가 더 쉬워지며 눈이 녹아 얼음이 생기는 것을 막아줍니다. 눈이 내린 후 소금을 도로에 뿌리면 녹은 눈이 재차 얼어 블랙 아이스가 되는 것을 막아주며, 땅의 마찰력을 높여 사고를 줄여줍니다. 제설할 땐 소금을 얇고 고르게 뿌려주면 제설 효과가 높아져요. 습기가 많아 무거운 눈(습설)인 경우에는 소금 양도 늘려야 하며, 기계 제설을 함께해주면 효과가 높아집니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>이철우 “계엄 사과? 선거 떨어지는 사람들이 하는 이야기”</title>
-      <link>https://www.chosun.com/politics/assembly/2025/12/19/JBA42SJRBFEHDGXMPNR6KVXMOE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/12/19/JBA42SJRBFEHDGXMPNR6KVXMOE/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 01:05:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44TCZDDMNSTQMRVMI3WCZBXMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북지사가 지난 11일 경북도청에서 “내년 지방선거에서 3선 도지사에 도전하겠다”고 말했다./경상북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민의힘 이철우 경북지사는 당이 윤석열 전 대통령의 12·3 비상 계엄에 대해 사과해야 한다는 당내 목소리에 대해 19일 “그것은 선거에 매일 떨어지는 사람들이 하는 이야기”라며 “장동혁 대표 중심으로 똘똘 뭉쳐 나가자”고 말했다.&lt;br&gt;&lt;br&gt;이 지사는 이날 오전 SBS라디오 ‘김태현의 정치쇼’와 한 인터뷰에서 “선거는 자석하고 똑같아서, 힘센 자석이 있으면 (유권자들이) 다 따라붙는다. 중도는 없다. 중도라는 것은 양쪽이 다 힘이 없어 보이니까 여기 지지도 못하고, 저기 지지도 못하는 것”이라며 이같이 말했다.&lt;br&gt;&lt;br&gt;이 지사는 이어서 “(당이) 똘똘 뭉쳐서 나가도 지금 힘이 부치는데, 우리끼리 안에서 ‘중도를 당겨야 한다’며 탄핵이 어떻다, 계엄이 어떻다 할 여유가 없다”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 “계엄은 대통령 선거에서 (국민의힘이 지면서) 국민 심판이 끝났다”고도 했다. 그러면서 “사과는 승자가 하는 것인데, 다 죽어가는 사람이 무슨 사과를 하느냐”며 “그래서 장동혁 (대표) 중심으로 똘똘 뭉쳐서 나가자”고 했다.&lt;br&gt;&lt;br&gt;이 지사는 “우리 당 내부에서 이렇게 소란이 일어나고 자꾸 파벌이 생기면 망한다”며 “(장 대표에게) ‘안에서 자꾸 헛소리하는 사람 다 잘라라’라는 이야기를 했는데, 아직 자르지도 못하고 있더라”고 했다. 진행자가 ‘한동훈 전 대표와 이른바 친한계를 다 자르라는 이야기인가’라고 묻자 이 지사는 “친한계인지, 친중계인지 모르지만, 자꾸 바람 빼는 소리 하는 사람들은 안 된다”고 했다.&lt;br&gt;&lt;br&gt;진행자는 ‘그러면 윤석열 전 대통령 문제는 어떻게 해야 하느냐, ‘윤 어게인’ 해야 하느냐, 아니면 ‘윤 네버’ 해야 하느냐”고 물었다. 그러자 이 지사는 “(전) 대통령이 재판받는데 도와줄 것 있으면 도와드리고 해야 하지, 칼로 무 자르듯이 자르는 것은 있을 수 없는 일”이라고 했다. 그러면서도 “(윤 전 대통령은) 당원이 아닌데, 당원 아닌 사람을 우리가 이래라저래라 할 필요가 뭐 있느냐”고 했다.&lt;br&gt;&lt;br&gt;한편 이 지사는 지난 5월 혈액암 진단을 받았으나 이달 11일 3선 도전 의사를 밝혔다. 이 지사는 “신기하게도 4개월 만에 암세포가 거의 사라졌다”며 “암은 완치가 없으니까 재발 방지를 위해 면역 강화 치료만 하고 있는데, 한 달에 한 번 주사 맞으면 끝이라 건강에는 특별한 문제가 없다”고 주장했다.&lt;br&gt;&lt;br&gt;이 지사는 “제가 건강이 회복되지 않았는데 도지사를 한 번 더 하겠다고 하면 도민과 국민에 대한 예의가 아니지만, 의사도 건강이 회복됐다고 인정하고, ‘이 정도는 기적’이라고 했다”고 주장했다. 이 지사는 그러면서 “제가 이 기적을 산에 갖다 바치겠느냐”며 “할 일이 태산같이 남아 있다. 그래서 한 번 더 하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>전재수 “차라리 200억·시계 100점이라 하라”…통일교 금품수수 의혹 소환조사</title>
