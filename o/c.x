@@ -13,6 +13,60 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서정욱 변호사 “김건희, 계엄 정당하다 생각...남편에 ‘너’라고 안 해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/20/6WQOV55Q3FDU3ONBYTJHNZSRGQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/6WQOV55Q3FDU3ONBYTJHNZSRGQ/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 03:21:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4YTSNBZMVRGMZJUMFRWIOJQGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사가 21대 대통령 선거일인 지난 6월 3일 오전 서울 서초구 원명초등학교에 마련된 투표소로 이동하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령 측과 가깝다고 알려진 서정욱 변호사가 “김건희 여사도 ‘비상계엄이 정당했다’는 입장”이라고 주장했다. 김 여사가 계엄 선포를 한 윤 전 대통령에게 ‘너 때문에 다 망쳤다’며 화를 냈다는 이야기도 사실이 아니라고 했다.&lt;br&gt;&lt;br&gt;서 변호사는 19일 YTN 라디오 ‘김준우의 뉴스정면승부’에 출연해 “윤 전 대통령의 가족이나 변호인들에게 물어보니 (부부 싸움을 했다는 것은) 전혀 사실이 아니다”며 이같이 말했다. 조은석 내란특검팀은 “계엄을 선포했을 때 윤 전 대통령과 김 여사가 심하게 싸웠다” “김 여사가 (윤 전 대통령에게) ‘너 때문에 다 망쳤다’며 굉장히 분노했다”는 김 여사 측근들의 진술을 확보했다고 밝혔는데, 이를 반박한 것이다.&lt;br&gt;&lt;br&gt;서 변호사는 “남의 부부 싸움 규명하는 것이 특검이 할 일이냐”며 “김 여사도 ‘계엄이 정당했다’는 데 윤 전 대통령과 입장이 똑같다”고 했다. 이어 “김 여사도 계엄에 대해서 비판적이거나 후회하는 것이 아니라는 것을 제가 확인했다. 김 여사는 계엄을 몰랐지만 (윤 전 대통령과) 부부 싸움하고 한 건 아니다”고 말했다.&lt;br&gt;&lt;br&gt;김 여사가 윤 전 대통령에 대해 평소 ‘너’라고 지칭하지도 않았다고 서 변호사는 주장했다. 서 변호사는 “저는 깜짝 놀란 게 ‘너’라는 말”이라며 “대통령 되고 나서는 (김 여사가) ‘우리 대통령’ 이러지 ‘너’라고 하는 것은 말도 안 된다. 윤 전 대통령을 완전히 졸장부로 만드는 것”이라고 했다. 그러면서 “진짜 특검의 여론 몰이인 것”이라고 했다.&lt;br&gt;&lt;br&gt;진행자가 “당선되기 전에는 (김 여사가) 오빠라고 했던 게 맞는 거냐”고 묻자, 서 변호사는 “옛날엔 부부 싸움도 하고 했겠지만, 대통령 되고 나서는 깍듯하게 존중해 준다는 것이 팩트”라고 답했다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 김 여사가 계엄을 같이 모의하지 않았다고 하면서도, 김 여사의 사법 리스크 해소가 계엄 선포의 배경이 됐을 수는 있다고 했다. 특검 관계자는 “(윤 전 대통령의) 비상계엄 동기와 목적은 권력의 독점과 유지”라며 “여기에 본인과 배우자의 사법 리스크 해소는 포함돼 있다고 본다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 종로구 평창동 단독주택서 불…70대 남성 1명 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/20/BN4CZ6LZUFFTFCK2ZETVB4ZAGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/20/BN4CZ6LZUFFTFCK2ZETVB4ZAGY/</guid>
+      <dc:creator>김영우 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 01:43:38 +0000</pubDate>
+      <content:encoded>20일 서울 종로구 평창동의 단독주택에서 불이 나 70대 남성이 숨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;119 소방 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;소방 당국에 따르면 이날 오전 7시 29분쯤 서울 종로구 평창동의 단독주택에서 불이 났다. 이 불로 집에 혼자 살고 있던 70대 남성이 현장에서 숨졌다.&lt;br&gt;&lt;br&gt;신고를 받고 출동한 소방 당국은 인력 73명과 장비 18대를 투입해 오전 10시 18분쯤 불을 완전히 껐다. 사망한 남성 이외에 추가 인명 피해는 없는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 정확한 화재 원인을 조사한다는 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>윤석열, 김건희특검 첫 출석… 尹측 “아내 금품 수수, 전혀 몰라”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/20/Q32ONAZYAVEETGPPKYEGKQMW74/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/Q32ONAZYAVEETGPPKYEGKQMW74/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 00:34:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRTCN3EGM2TQYZZGM3DIODGMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초구 서울중앙지법에서 열린 체포 방해 혐의 등 사건 첫 공판에 출석하고 있다. /사진공동취재단&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;윤석열 전 대통령이 20일 김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀에 피의자로 조사받기 위해 처음 출석했다.&lt;br&gt;&lt;br&gt;특검은 이날 윤 전 대통령을 상대로 김 여사와 함께 저지른 정치자금법 위반, 뇌물 등 6개 범죄 혐의에 대해 조사할 예정이다. 윤 전 대통령이 탑승한 호송차는 오전 9시 10분쯤 특검 사무실에 도착했고, 조사는 오전 10시부터 진행된다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 ‘정치 브로커’ 명태균씨로부터 2억7000여 만원어치 여론조사 결과를 무상으로 받고 2022년 6월 국회의원 보궐선거 공천에 개입한 혐의, 김상민 전 부장검사로부터 공직 임명 등을 대가로 1억4000만원 상당의 이우환 화백 그림을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 2022년 대선 직후 김 여사를 통해 이봉관 서희건설 회장, 이배용 전 국가교육위원장 등으로부터 금거북이와 명품 시계 등을 수수한 혐의도 조사 대상이다. 대선 후보였던 2021년 말 토론회에서 김 여사와 관련해 각종 허위 사실을 공표한 혐의도 있다.&lt;br&gt;&lt;br&gt;특검은 윤 전 대통령을 상대로 김 여사의 귀금속 수수 사실을 알았는지, 범행을 공모했는지 등을 집중적으로 조사할 방침이다.&lt;br&gt;&lt;br&gt;윤 전 대통령의 변호인인 유정화 변호사는 이날 취재진이 “(윤 전 대통령이) 김 여사의 귀금속 수수 사실을 인지했느냐”고 묻자 “전혀 인지하지 못했다”고 답했다. 김기현 국민의힘 의원의 아내가 김 여사에게 프랑스 명품 ‘로저비비에’ 가방을 선물했는지도 알지 못했다고 했다.&lt;br&gt;&lt;br&gt;이배용 전 위원장 임명 과정에서 윤 전 대통령이 김 여사와 협의했는지에 대해 유 변호사는 “협의 같은 건 없었다. 청탁 같은 거 자체를 들은 바가 없다”고 했다.&lt;br&gt;&lt;br&gt;지난 7월 2일 수사를 개시한 민중기 특검이 윤 전 대통령을 조사하는 것은 이번이 처음이다. 특검은 7월 말부터 윤 전 대통령을 조사하려 했고, 체포영장까지 발부받아 강제 구인하려 했다. 그러나 윤 전 대통령이 강하게 거부해 조사하지 못했다.&lt;br&gt;&lt;br&gt;특검은 수사 기한이 오는 28일에 끝나는 만큼 윤 전 대통령에 대한 조사를 가급적 이날 마무리하고, 김 여사와 함께 기소할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중학생 아들 버리고 딸 3명 데리고 몰래 이사한 친모</title>
+      <link>https://www.chosun.com/national/regional/2025/12/20/NXQSQLWV5BG6LGUVGCFJJAM3MI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/20/NXQSQLWV5BG6LGUVGCFJJAM3MI/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 01:14:07 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EPQ5DRNVFJAIPO2V6LXFZ6LEDI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원/조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중학생 아들만 남겨둔 채 나머지 자식들과 함께 몰래 이사를 간 40대 친모가 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;청주지법 형사5단독(강건우 부장판사)은 아동복지법상 유기·방임 혐의로 기소된 40대 여성 A씨에게 징역 10개월에 집행유예 2년을 선고하고, 40시간의 아동학대 재범 예방 강의 수강을 명령했다고 20일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 3월 세 들어 살던 청주시 흥덕구의 한 단독주택 2층에 아들 B(16)군을 남겨둔 채 딸 3명과 함께 다른 주택 1층으로 이사한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;그는 B군에게 사전에 이사한다는 사실을 알려주지 않았고, 집을 옮긴 뒤에는 휴대전화 번호까지 바꾸며 이사한 곳을 철저히 숨긴 것으로 조사됐다.&lt;br&gt;&lt;br&gt;A씨는 이사 당일 기존 집 주인에게 “아들은 내일 집에서 내보내달라”는 문자를 보내기도 했다. B군은 난방이 끊긴 기존 주거지에서 3일 동안 식사조차 제대로 못 하며 지내다가 집주인에게 우연히 발견되면서 경찰에 인계됐다.&lt;br&gt;&lt;br&gt;강 부장판사는 “범행 경위와 사후 정황 등에 비춰 죄책을 가볍게 볼 수 없고, 비난 가능성 역시 상당 부분 존재한다고 판단된다”며 “다만 피고인이 피해 아동 외에도 세 딸을 책임져야 하는 입장에 있고, 오래전부터 생활고에 시달리고 있었던 점 등을 종합해 형을 정했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>비 내리는 토요일 포근, 일요일은 기온 뚝</title>
+      <link>https://www.chosun.com/national/transport-environment/2025/12/20/45CTDTGFYNCKTACASEUYRXO6IU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/20/45CTDTGFYNCKTACASEUYRXO6IU/</guid>
+      <dc:creator>김아사 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 00:57:39 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ3TMNRXMJQTIODEHBRWKMRTHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;비가 오는 횡단보도를 걷는 시민들/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;토요일인 20일 전국 대부분 지역에 비가 내리겠다. 비는 늦은 오후 중부 지방을 시작으로 밤사이 차차 그칠 것으로 전망된다. 토요일은 평년 보다 기온이 높지만, 일요일엔 기온이 뚝 떨어지며 춥겠다.&lt;br&gt;&lt;br&gt;20일 예상 강수량은 제주도 5~20㎜, 전남 해안 5~10㎜, 광주·전남내륙·전북·부산·울산·경남 5㎜ 안팎, 서울·인천·경기·강원 내륙과 산지·대전·세종·충남·충북, 대구·경북은 5㎜ 미만이다. &lt;br&gt;&lt;br&gt;아침 최저 기온은 영하 1도에서 영상 11도, 낮 최고 기온은 영상 8~19도로 평년(최저 영하 9도~영상 2도, 최고 영상 2~10도)보다 높겠다. 서울은 9~11도, 대전 5~13도, 광주 7~16도, 부산은 12~19도를 기록하겠다.&lt;br&gt;&lt;br&gt;비가 그친 뒤 밤부터 기온이 내려가, 21일 일요일엔 기온이 5~10도가량 내려갈 것으로 전망된다. 전국 대부분 지역에 바람이 시속 55㎞ 안팎으로 강하게 불어 체감온도는 더욱 낮겠다. 일요일 아침 최저 기온은 영하 6도에서 영상 5도, 낮 최고 기온은 영상 1~8도로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>마약 취해 포르쉐 몰다 6중 추돌 20대 ‘징역 5년’</title>
+      <link>https://www.chosun.com/national/regional/2025/12/20/NRJYJGMMFJDSVEJ4VFXZN6ESYU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/20/NRJYJGMMFJDSVEJ4VFXZN6ESYU/</guid>
+      <dc:creator>오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 20 Dec 2025 00:56:08 +0000</pubDate>
+      <content:encoded>사&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FM6QZV45TJCIRNPN3EKOGHRFDI.png"&gt;&lt;figcaption&gt;&lt;small&gt;마약 운전자가 운전하다 사고난 포르쉐./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약에 취해 포르쉐 차량을 몰다 경찰이 따라오자 도주하는 과정에서 6중 추돌사고를 낸 20대가 징역 5년을 선고받았다.&lt;br&gt;&lt;br&gt;의정부지법 형사 9단독(김보현 판사)은 특정범죄가중처벌등에 관한 법률 위반(도주치상), 마약류관리에 관한 법률 위반(향정) 등 혐의로 기소된 20대 남성 A씨에 대해 징역 5년 형을 선고했다.&lt;br&gt;&lt;br&gt;재판부에 따르면 A씨는 지난 6월 11일 오전 양주시의 한 모텔에서 필로폰을 투약했다. 이후 오후 3시 20분쯤 의정부시 호국로에서 포르쉐를 몰다 A씨가 휴대전화를 사용하는 모습을 본 경찰에 적발됐다. A씨는 정지 명령을 무시하고 차를 몰고 도주하기 시작했고 곧 신호 대기 중인 트럭을 들이받았다. 사고 이후에도 계속 차를 몰던 A씨의 차량은 싼타페, 스포티지, 레이를 잇달아 들이받았고, 사고 여파로 레이가 앞으로 밀리며 봉고차도 들이받았다.&lt;br&gt;&lt;br&gt;A씨의 차량은 이후에도 주행하다 SUV 차량을 들이받은 후에야 멈췄다. 경찰에 A씨는 붙잡힌 후에도 도주를 시도하기도 했다.&lt;br&gt;&lt;br&gt;현장 조사 결과 음주는 감지되지 않았으나 마약 간이 검사에서는 양성 반응이 나왔고, 수사 결과 A씨가 이전에도 수차례 마약을 투약하거나 소지한 사실이 드러났다.&lt;br&gt;&lt;br&gt;재판부는 “필로폰을 투약한 상태로 타인의 차량을 운전하다가 교통경찰관의 지시에 불응해 도주했고 그 과정에서 6대의 차량을 들이받는 교통사고를 내고 사고 수습을 하지 않은 채 재차 도주하려다 검거됐다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#세계최고요리사페란아드리아#개인정보포비아</title>
       <link>https://www.chosun.com/national/weekend/2025/12/20/VVBZ65Y4TBFNVAYYEX7UR7WWMU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/12/20/VVBZ65Y4TBFNVAYYEX7UR7WWMU/</guid>
@@ -800,24 +854,6 @@
       <content:encoded>고위공직자범죄수사처(공수처)가 19일 평검사 4명을 신규 임용했다고 밝혔다. 이로써 공수처 검사 정원 25명이 모두 채워졌는데, 지난 2021년 출범 이후 4년이 지나서야 조직 기능이 정상화된 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEYDKZBSHA4GEZJXGQZWIOJUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고위공직자범죄수사처. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 공수처는 “오는 22일 자로 평검사 4명을 신규 임용했다”며 “출범 이후 처음으로 검사 정원(처·차장 포함) 25명을 전원 충원하게 됐다”고 밝혔다. 구체적인 공수처 검사 정원은 처장, 차장, 부장검사 4명, 부부장검사 1명, 평검사 18명 등 25명이다.&lt;br&gt;&lt;br&gt;이번에 신규 임용된 검사는 노흥섭 대전유성경찰서 경감(변호사시험 4회), 김준환 법무법인 세종 변호사(변시 6회), 정수진 공수처 수사관(변시 7회), 이재영 법무법인 지평 변호사(변시 9회) 등이다. &lt;br&gt;&lt;br&gt;오동운 공수처장은 “고도의 수사력을 요구하는 고위공직자범죄 사건들을 다루면서 수사 인력 부족으로 수사 진척에 일부 어려움이 있었다”며 “검사 정원을 다 채운 만큼 수사 성과를 가속화할 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>안권섭 특검 ‘관봉권 띠지 분실 의혹’ 관련 한국은행 수색 영장 집행</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/19/7EJYPTRKPJAF7AG3RCUHQVQQSY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/7EJYPTRKPJAF7AG3RCUHQVQQSY/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 00:03:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYGMZRSHBSDAMJWGJSDGNRZGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안권섭 특별검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰의 ‘관봉권 띠지 분실 의혹’을 수사하는 안권섭 상설특검팀이 19일 한국은행에 대해 수색·검증영장을 집행했다. 특검팀이 지난 6일 수사를 개시한 이후 강제수사에 나선 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;특검팀은 이날 오전 9시쯤부터 한국은행 발권국에 검사와 수사관들을 보내 수색·검증영장을 집행 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;특검팀은 이번 영장 집행이 한국은행 관봉권(제조권·사용권)의 제조·정사(분류)·보관·지급과 관련한 제반 정보를 확인하기 위한 수색·검증 차원이며 압수 계획은 없다고 밝혔다.&lt;br&gt;&lt;br&gt;한국은행이 발행하는 관봉권 돈다발에 사용되는 띠지와 스티커 등이 이번 수사 사건에서 문제가 된 만큼 이와 관련한 정보를 파악하고 확인하기 위한 취지다.&lt;br&gt;&lt;br&gt;앞서 서울남부지검은 지난해 12월 건진법사 전성배 씨의 자택을 압수수색해 5000만원어치 한국은행 관봉권을 포함한 현금다발을 확보했으나, 수사 과정에서 띠지와 스티커를 분실해 출처를 밝히지 못했다.&lt;br&gt;&lt;br&gt;이에 정성호 법무부 장관 지시로 대검찰청이 감찰에 착수한 뒤 수사로 전환했으나 외압은 없었다고 자체 결론 내렸고, 이와 관련한 의혹을 다시 규명하기 위해 상설특검이 출범했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘주가 조작’ 혐의 양남희 웰바이오텍 회장 구속영장 또 기각</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/19/QPUSBNY46BDUNNOEPJKCWGORLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/QPUSBNY46BDUNNOEPJKCWGORLU/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 23:28:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWEYRVG4ZWIYRUHA2GGOLGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주가 조작 혐의를 받는 양남희 웰바이오텍 회장의 구속영장이 19일 다시 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 이정재 영장전담 부장판사는 지난 18일 양 회장에 대한 영장실질심사(구속 전 피의자 심문) 후 이날 특검이 앞서 청구한 양 회장의 구속영장을 기각했다.&lt;br&gt;&lt;br&gt;이 부장판사는 “종전 구속영장 기각 후 추가로 수집·제출된 증거자료를 종합해 보더라도 범죄 혐의에 대해 다툼의 여지가 있어 구속에 이를 정도로 충분히 소명되었다고 보기 부족하다”고 했다. 또한 “피의자의 주거 및 직업, 가족관계, 수사기관 및 법원에의 출석상황, 현재까지의 수사진행현황 등의 사정에 비추어 보더라도 현 단계에서 피의자를 구속해야 할 필요성 및 상당성을 인정하기 어렵다”고 했다.&lt;br&gt;&lt;br&gt;양 회장은 자본시장법 위반, 특정경제범죄 가중처벌법상 배임, 업무상 횡령 혐의를 받고 있다. 삼부토건 관계사인 웰바이오텍이 2023년 5월 우크라이나 재건 사업에 참여할 것처럼 속여 주가를 인위적으로 부양한 다음, 미리 샀던 전환사채(CB)를 매도해 약 400억원의 시세 차익을 챙긴 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;그러나 법원은 특검이 청구한 양 회장의 구속영장을 잇따라 기각했다. 김건희 특검은 도주 우려가 있다며 지난달 양 회장을 체포한 후 첫 번째 구속영장을 청구했지만 법원은 지난달 16일 “주요 혐의의 피의자 관여 여부, 이익 귀속 등에 대해 구속할 정도로 소명되지 않았고, 도주 및 증거 인멸의 정도도 구속할 정도의 구체성이 부족하다”고 했다. &lt;br&gt;&lt;br&gt;특검은 보강 수사 후 한 달 만에 양 회장의 구속영장을 다시 청구했지만 법원은 이번에도 범죄 혐의가 정확히 소명되지 않았다며 기각했다.&lt;br&gt;&lt;br&gt;김건희 특검은 수사 기한이 오는 28일인 만큼, 양 회장을 불구속 기소할 것으로 예상된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 전장연, 李정부에 ‘대선 청구서’… 지하철 시위 급증</title>
       <link>https://www.chosun.com/national/national_general/2025/12/19/BCTCMZXXSJDZ7ERU6IXOCAJ3SM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/BCTCMZXXSJDZ7ERU6IXOCAJ3SM/</guid>
@@ -927,42 +963,6 @@
       <description/>
       <pubDate>Thu, 18 Dec 2025 15:50:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CWPQOJESEJBUVKPLC3ZVJN6UII.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정성호 법무장관, ‘YTN 민영화 승인 취소’ 판결에 항소포기 지휘</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/18/UYG3J3DMQBD6JF5MD57OLXC4EQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/18/UYG3J3DMQBD6JF5MD57OLXC4EQ/</guid>
-      <dc:creator>김나영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 14:19:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME3DAZLGMYYDKNBYGZTDIMBZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 18일 서울 여의도 국회에서 열린 제430회 국회(임시회) 법제사법위원회 제2차 전체회의에서 의원 질의에 답하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원의 ‘YTN 민영화 승인 취소’ 판결에 대해 정부가 항소하지 않기로 결정했다고 18일 밝혔다.&lt;br&gt;&lt;br&gt;정성호 법무부 장관은 이날 자신의 페이스북에 “지난달 28일 선고된 ‘YTN 민영화 승인 취소 판결’과 관련해, 방송미디어통신위원회의 항소 포기를 지휘했음을 알린다”고 적었다. 정 장관은 “이번 결정은 윤석열 정부 당시 방통위가 기형적인 ‘2인 체제’ 하에서 YTN 최대주주를 유진이엔티로 변경한 의결이 절차적으로 부적법했다는 법원의 판단을 존중한 것”이라고 했다.&lt;br&gt;&lt;br&gt;앞서 서울행정법원 행정3부(재판장 최수진)는 지난달 28일 YTN우리사주조합이 방통위를 상대로 낸 최다액 출자자 변경 승인 처분 취소 소송에서 원고 승소 판결했다. ‘2인 체제’ 방통위 의결은 절차상 위법하다는 취지다.&lt;br&gt;&lt;br&gt;정 장관은 “그동안 YTN 민영화는 윤석열 대통령이 민간 기업을 내세워 언론을 장악하는 ‘우회적 언론장악’의 일환 아니냐는 의혹을 받아왔다”며 “실제로 최근 특검을 통해 2022년 윤석열 부부와 밀접한 관계를 맺어온 ‘건진법사’ 전성배 씨가 통일교 측과 YTN의 민간 인수를 위한 구체적인 계획을 논의한 문자가 드러나며, 의혹이 점차 사실로 확인되고 있다”고 했다.&lt;br&gt;&lt;br&gt;정 장관은 “비록 소송 참가인인 유진 측의 단독 항소로 재판은 계속되겠으나, 이번 결정이 언론의 독립과 적법절차의 준수가 민주주의의 근간임을 천명하고, 모든 권력은 이를 존중해야 함을 재확인하는 계기가 되길 바란다”고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“곰팡이 3000마리 거주”...당근에 나온 역세권 쓰리룸 매물 화제</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/18/GV2KVBGXRVHVFEWV5WQ4ALV2G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/18/GV2KVBGXRVHVFEWV5WQ4ALV2G4/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 13:43:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4UXKDJEMFCBDPIBT4EPXDG3GA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중고거래 플랫폼 당근마켓에 올라온 '역세권 쓰리룸 빌라' 매물 글./X(옛 트위터)&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중고 거래 플랫폼 당근에 2800만원짜리 ‘역세권 쓰리룸 빌라’가 “곰팡이 3000마리 거주 중”이라는 설명과 함께 올라오며 온라인에서 화제다.&lt;br&gt;&lt;br&gt;18일 여러 온라인 커뮤니티와 소셜미디어(SNS)에는 ‘당근에 올라온 미친 부동산 매물’이라는 제목의 글이 확산됐다. 해당 글에는 매물 화면을 캡처한 사진이 함께 첨부됐다. 관련 글은 이날 오전 기준 조회 수 230만회를 넘기며 폭발적인 관심을 끌었다. &lt;br&gt;&lt;br&gt;사진 속 작성자는 “단돈 2800만원에 역세권 스리룸 구옥 빌라 매매”라고 소개하며 “곰팡이 3000마리 거주 중”이라는 설명을 달았다. 또 “내부 수리 잘하시는 분이 매수해 가달라”고 적었다.&lt;br&gt;&lt;br&gt;공개된 내부 사진에서는 벽면 곳곳에 곰팡이가 번져 검은색 벽지처럼 보였고, 바닥도 심하게 벗겨진 상태였다. 해당 매물은 인천 부평에 있는 역세권 빌라로, 방 3개 구조와 교통 접근성을 장점으로 내세웠다.&lt;br&gt;&lt;br&gt;이를 본 네티즌의 반응은 엇갈렸다. 네티즌들은 “폐가 수준인데 저걸 파냐” “3000마리 수준이 아니다. 흉가다” “창고로도 못 쓰겠다” “드라마 ‘지옥’ 세트장 아니냐” 등의 반응을 보였다. &lt;br&gt;&lt;br&gt;반면 다른 네티즌들은 “리모델링할 시간과 여윳돈이 있으면 싸게 먹힐 듯” “가격이 저렴하기 때문에 상태 안 좋은 건 어느 정도 감안해야 한다” “역세권에 저 정도 가격이면 수리해서 살 만하다” “재개발 확정 지역이면 리모델링 후 거주도 나쁘지 않다” 등의 긍정적인 의견을 내놨다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>페이커 “머스크가 제안한 AI와 대결, 이길 수 있다”</title>
-      <link>https://www.chosun.com/national/people/2025/12/18/ZZDQV6KRHRG3NGSBO37TQSB2SI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/18/ZZDQV6KRHRG3NGSBO37TQSB2SI/</guid>
-      <dc:creator>양승수 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 11:58:37 +0000</pubDate>
-      <content:encoded>e스포츠의 ‘GOAT(Greatest Of All Time·역대 최고 선수)’로 꼽히는 ‘페이커’ 이상혁(29)이 “사실상 T1에서 남은 프로 생활 전부를 보낼 것이라 생각한다”며 2029년까지 계약을 연장한 소회를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ME2GGMRTHBSDIMLFGYZGIZRQME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;LCK T1팀 주장 이상혁(페이커)이 18일 서울 종로구 롤파크 LCK(리그 오브 레전드 챔피언스 코리아) 아레나에서 열린 기자 간담회에서 포토타임을 갖고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2013년 T1에 입단한 그는 일명 ‘롤드컵’으로 불리는 ‘리그 오브 레전드(LoL·롤) 월드 챔피언십’에서 6차례 우승한 레전드다. 지난달 롤드컵 우승으로 대회 3연패(連覇) 위업도 이뤘다. T1과 4년 재계약을 맺으며 17년간 한 팀에 몸담게 된 그는 18일 서울 종로구 그랑서울에서 열린 기자 간담회에서 “T1은 금전적 보상 외에도 내게 중요한 것들을 많이 챙겨줬다”며 “개인적으로는 이 팀에서 4년 동안 팬들에게 더 좋은 영감을 주고 싶었다”고 말했다. &lt;br&gt;&lt;br&gt;이상혁은 프로게이머로는 노장에 속하는 나이이지만, 오래 선수 생활을 이어가겠다는 의지도 밝혔다. 그는 “나이가 들더라도 어느 정도 기량을 유지할 수 있다는 걸 보여준다면 의미가 있을 것”이라고 했다. 우리 사회에서 ‘롤 모델’로 통한다는 얘기에는 “팬들에게 보답하기 위해 스스로 관리하는 것이 내 책임”이라며 “부담이라기보다는 축복이라 생각한다”고 답했다. &lt;br&gt;&lt;br&gt;이상혁은 최근 일론 머스크가 제안한 인공지능(AI) 모델 그록과의 대결에도 기대감을 나타냈다. 그는 “AI나 빅테크 기업이 게임 산업에 관심을 갖는 건 긍정적”이라며 “체스는 AI에 정복당한 지 오래됐지만 그래도 내년 대결에서는 저희가 이기지 않을까 생각이 든다”라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“의대 갈래요” SKY 수시 등록 포기자, 5년 새 최고치</title>
-      <link>https://www.chosun.com/national/education/2025/12/18/S4JB5FK3XVGYDKA7RFZZXYF7AA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/18/S4JB5FK3XVGYDKA7RFZZXYF7AA/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 11:00:53 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FRW7P2PRB3HJWF5IPM2CSHYMSQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내의 한 의과대학 모습. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026학년도 대입 수시 모집에서 이른바 SKY(서울대·고려대·연세대) 대학에 최초 합격하고도 등록을 포기한 수험생이 2400명을 넘긴 것으로 나타났다. 최상위권 수험생들의 의약학 계열 쏠림이 영향을 미친 것으로 보인다.&lt;br&gt;&lt;br&gt;18일 종로학원에 따르면 2026학년도 서울대·연세대·고려대 수시 모집 최초 합격자 가운데 중복 합격으로 인한 등록 포기자는 2415명으로 집계됐다. 세 대학 수시에서 등록 포기자가 2400명대를 기록한 것은 최근 5년 중 가장 높은 수치다. 수시는 총 6회 지원이 가능하다. 수시 최초 합격 이후 등록을 하지 않았다는 것은 중복 합격한 다른 대학을 택했다는 뜻이다.&lt;br&gt;&lt;br&gt;대학별로 보면 서울대 131명, 연세대 1025명, 고려대 1259명이 등록을 포기했다. 특히 연세대와 고려대는 등록 포기 인원이 수시 모집 정원의 각각 46.3%, 46.6%에 달했다.&lt;br&gt;&lt;br&gt;계열별로는 자연 계열에서 등록 포기자가 1305명으로 전년보다 4.9%(61명) 증가했다. 최근 5년 기준으로 자연계열 최초 합격자 가운데 등록 포기 비율이 가장 높았던 해로 집계됐다. &lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “2026학년도 의대 모집 정원 축소에도 여전히 SKY 대학 자연계열에서 상당 부분 의학계열 중복합격으로 인해 빠져나간 것으로 추정된다”며 “여전히 의학계열 선호도가 높은 수준을 유지하고 있는 것으로 볼 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
