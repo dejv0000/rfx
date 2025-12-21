@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘백종원 측이 공익제보자 색출’은 허위보도… 법원 “3000만원 배상하라”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/22/KHNF3DEIXRDATJ7IVMVQOKOCZU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/KHNF3DEIXRDATJ7IVMVQOKOCZU/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 23:00:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GJRGMYZUGNSDGNTBGE2GCNTBMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;백종원 더본코리아 대표. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더본코리아가 자사를 건축법 위반 혐의로 고소한 공익 제보자의 신상을 문의했다는 보도가 허위이므로 이를 보도한 모 일간지 기자들이 백종원 대표와 더본코리아에 손해배상금 3000만원을 지급하라는 판결이 나왔다. &lt;br&gt;&lt;br&gt;22일 법조계에 따르면 서울남부지법 민사21단독 김창현 부장판사는 지난 11일 백 대표와 더본코리아가 모 일간지 기자 A씨 등 2명을 상대로 낸 손해배상 청구 소송에서 “A씨 등은 공동으로 더본코리아에 2000만원, 백 대표에게 1000만원을 지급하라”며 원고 일부 승소 판결했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2월 보도한 더본코리아의 건축법 위반 관련 기사에서 “더본코리아 측은 경찰에 공익 제보한 제보자에 대해 신상을 문의한 것으로 드러나 한심한 기업 윤리를 드러냈다”고 적었다. 이 내용은 3시간 뒤 ‘경찰에 제보 내용을 정보공개 신청한 사실이 드러나 한심한 기업 윤리를 드러냈다’로 수정됐다. &lt;br&gt;&lt;br&gt;2주 뒤에는 더본코리아의 요청에 따라 ‘민원 내용을 확인하기 위하여 담당자로부터 안내받은 절차에 따라 소장 중 혐의사실에 해당하는 부분으로 특정해 정보공개를 청구한 것이고, 이는 경찰 조사에 대응함에 있어 통상적‧일반적으로 수반되는 절차에 불과하다’는 반론 보도문이 게재됐다. &lt;br&gt;&lt;br&gt;백 대표와 더본코리아는 “이 보도로 인해 명예가 훼손됐다”며 기자 2명을 상대로 손해배상 소송을 청구했다. A씨 등은 “공익신고자의 제보를 토대로 보도한 것”이라고 맞섰다. &lt;br&gt;&lt;br&gt;재판부는 A씨 등이 허위 사실을 적시해 백 대표와 더본코리아의 명예를 훼손했다고 판단했다. 김 부장판사는 “해당 기사에서 ‘한심한 기업 윤리를 드러냈다’고 단정적으로 표현했고, 이 기사 이후 인터넷 커뮤니티에는 ‘한심하다’ 등 부정적 댓글이 다수 게시됐다”며 “허위 사실을 보도해 더본코리아에 대한 사회적 평가가 침해됐고, 이로 인해 재산 이외의 무형적 손해를 입혔다”고 봤다. 이어 “방송인인 백 대표는 해당 기사에 ‘더본코리아 백종원’ ‘백종원 운영 더본코리아’처럼 혼용해 기재돼 정신적 고통을 받았을 것”이라고 설명했다. &lt;br&gt;&lt;br&gt;다만 “백 대표의 사회적 인지도 등에 비춰 보면 해당 기사는 사회적으로 많은 관심을 받는 사안에 대한 국민의 알 권리 등을 위해 작성된 것으로 볼 여지는 있어 보인다”며 “기사 내용과 표현 방법, A씨 등이 사실 확인을 위해 기울인 노력의 정도 등을 고려해 손해배상금 액수를 정했다”고 밝혔다. &lt;br&gt;&lt;br&gt;원고 측 소송 대리인인 백광현 변호사(법무법인 바른)는 “허위 보도 때문에 더본코리아 측이 제보자의 신상을 색출해 보복하려는 회사와 대표이사로 낙인찍혀 심각한 수준의 비난과 조롱의 대상이 됐다”며 “더본코리아의 주가 하락과 백 대표의 명예와 신용 실추가 회복하기 어려울 정도라는 점을 고려해 손해배상 금액이 산정된 것으로 보인다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“내 주말수당 삭제”… 남양주시의 한 글자 변경 ‘꼼수’</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/22/WCPMDX5ESND4BOX4AXLJTOU2AI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/WCPMDX5ESND4BOX4AXLJTOU2AI/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 22:08:40 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2S37SY246NAATM3EPJE5Z3BFC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주시가 노동자의 동의를 받지 않고 토요일 근무 관련 취업규칙을 바꿨다가 행정지도 처분을 받게 됐다. &lt;br&gt;&lt;br&gt;22일 남양주시 공무직노조 등에 따르면 시는 2019년 취업규칙 중 토요일 근무를 ‘무급휴일’에서 ‘무급휴무일’로 변경 적용했다. &lt;br&gt;&lt;br&gt;한 글자 차이일 뿐이지만, 받는 수당은 달라진다. ‘무급휴일’에 일하면 평일 근무시간과 상관없이 수당 1.5배를 받을 수 있으나, ‘무급휴무일’의 경우 1.5배의 수당을 받으려면 통상 주 40시간의 소정근로시간을 채워야 한다는 조건이 붙는다. 만약 평일에 연차나 반차를 썼다면 토요일에 추가로 근무했어도 1.5배 수당을 받기 어려운 구조다. &lt;br&gt;&lt;br&gt;남양주시 공무직 노조 측은 “무급휴무로 적용될 경우 주중에 사정이 생겨 40시간을 채우지 못하면 토요일 근무 1.5배 수당을 못 받게 될 가능성이 있다”며 “노동자에게 명백하게 불이익”이라고 했다. &lt;br&gt;&lt;br&gt;지난 6월 이를 인지한 노조는 시청 측에 이의를 제기했지만 받아들여지지 않았고, 결국 고용노동청 의정부지청에 진정을 냈다. 남양주시는 이런 취업규칙 변경 사실을 알리지 않은 이유에 대해 “노동자에게 불이익한 변경이 아니어서 신고할 필요가 없었다”고 주장했다. &lt;br&gt;&lt;br&gt;하지만 이 사안을 조사한 고용노동청 의정부지청은 “남양주시가 취업 규칙을 변경하며 무급휴일을 무급휴무일로 변경한 것은 취업규칙 불이익 변경으로 인정된다”고 보고 과태료 처분을 내렸다. 또한 “취업규칙을 불이익 변경했음에도 근로자 과반으로 조직된 노동조합 또는 근로자 과반수의 동의를 받지 않은 사실도 확인됐다”며 시청에 대해 행정지도할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>디지털 해킹 전쟁에서 멜라토닌 다이어트까지...</title>
       <link>https://www.chosun.com/national/2025/12/22/SZXWHJAV7VBWLI2URYCDPVW5RY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/22/SZXWHJAV7VBWLI2URYCDPVW5RY/</guid>
@@ -784,15 +802,6 @@
       <content:encoded>서울 남산에 곤돌라를 설치하려던 서울시 계획에 제동이 걸렸다. 서울시가 곤돌라를 설치하기 위해 땅의 용도를 바꾼 것이 위법하다는 1심 판결이 나왔기 때문이다. 서울시는 “즉시 항소하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;남산에는 민간 회사가 64년째 ‘남산 케이블카’를 독점 운영하고 있는데, 독점 상황이 당분간 계속될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/626EX5OKVBCLBH2NWH6RTNAIDQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=양인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 19일 남산 케이블카를 운영하는 한국삭도공업 등이 서울시를 상대로 낸 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;한국삭도공업은 1962년부터 남산 중턱과 정상을 오가는 케이블카를 운영하고 있다. 대한제분 사장이었던 한석진씨가 사업권을 받았으나 사업 종료 시한을 따로 정하지 않아 한씨 가족이 대를 이어 운영하고 있다. 이 때문에 수시로 특혜 시비가 일었다. 이재명 대통령도 지난 16일 국무회의에서 “왜 특정 개인이 수십 년간 특혜를 누리느냐”고 했다.&lt;br&gt;&lt;br&gt;서울시는 2023년 6월 남산 곤돌라 건설 계획을 발표했다. 남산 케이블카와 별도로 남산예장공원과 남산 정상을 잇는 새 노선을 설치하겠다는 내용이다. 2025년 개통이 목표였다. &lt;br&gt;&lt;br&gt;서울시는 작년 8월 곤돌라 기둥을 설치할 땅의 용도구역을 도시자연공원구역에서 근린공원으로 변경하고 공사에 들어갔다. 도시자연공원구역에는 높은 구조물을 설치할 수 없어서다. &lt;br&gt;&lt;br&gt;그러자 한국삭도공업 등은 서울시의 용도구역 변경 결정이 위법하다며 집행정지 신청과 취소 소송을 냈다. 작년 10월 법원이 집행정지 신청을 받아들이면서 공사가 중단됐고, 이날 취소 소송까지 한국삭도공업이 승소하면서 공사 재개가 불투명해졌다.&lt;br&gt;&lt;br&gt;이날 재판부는 서울시가 공원녹지법이 정한 요건을 갖추지 않고 도시자연공원구역을 해제했다고 판단했다. 서울시는 “도시자연공원구역을 변경한 것이지 해제한 것이 아니다”라며 “곤돌라 건설의 공익성을 무시한 판결”이라고 했다. 이어 “공원녹지법 시행령을 개정해 사업을 계속 추진할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘주토피아 2’ 571만 관객 돌파… 올해 국내 박스오피스 1위</title>
-      <link>https://www.chosun.com/national/people/2025/12/20/7XRM3LNK5VDFVNFVVMZUCFNEWI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/20/7XRM3LNK5VDFVNFVVMZUCFNEWI/</guid>
-      <dc:creator>백수진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RB5R5ETWCNDGHEJZRNABFSK2QE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt; 월트디즈니컴퍼니코리아&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;디즈니 애니메이션 ‘주토피아 2’가 올해 국내 최고 흥행작이 됐다. 월트디즈니 컴퍼니 코리아에 따르면 ‘주토피아 2’는 개봉 23일째인 18일 누적 관객 수 571만명을 돌파하며 국내 박스오피스 1위에 올랐다. 이전까지 1·2위였던 ‘극장판 귀멸의 칼날: 무한성편’(568만명)과 ‘좀비딸’(563만명)은 한 계단씩 밀려났다. 국내에서 디즈니 애니메이션이 연간 박스오피스 정상을 차지한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;‘주토피아 2’는 토끼 경찰 주디와 그의 파트너인 여우 닉이 위험천만한 사건을 추적하는 모험기로 전 세계에서 흥행 돌풍을 일으키고 있다. 지난 15일 기준 글로벌 매출 11억3667만달러(약 1조6805억원)를 돌파하며 올해 개봉한 할리우드 영화 중 최고 흥행작이 됐다. 글로벌 박스오피스에서는 중국 애니메이션 ‘너자2’에 이어 2위를 기록 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘9세 6개월’… 바둑 최연소 입단 기록 63년 만에 깨졌다</title>
       <link>https://www.chosun.com/national/people/2025/12/20/WPNSIDQO75ERVIFTR6YPHDJBYQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/20/WPNSIDQO75ERVIFTR6YPHDJBYQ/</guid>
@@ -827,15 +836,6 @@
       <description/>
       <pubDate>Fri, 19 Dec 2025 15:52:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYGAXRQ2IRBDBJGWP7G5QGOM7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한전문병원협회(회장 윤성환)는 19일 제6회 ‘KJ국제 자랑스러운 전문병원인상’ 대상에 하나이비인후과병원 이상덕 병원장을 선정, 시상했다. 이 협회는 이 병원장이 4기 회장으로 일하면서 전문병원 지정 기준 및 운영체계를 개선하고, 디지털 혁신위원회, 윤리위원회 신설로 전문 병원에 대한 신뢰도를 높였다고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 날씨] 2025년 12월 20일</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/20/XL3BVJJU55BAHIP2BJZ3PYH5KE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/20/XL3BVJJU55BAHIP2BJZ3PYH5KE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CJM75LJIIFG2NBX2ZDKSD5F3RM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>혼자 살고 싶지만 고립은 싫어… ‘현대판 하숙’ 찾는 2030</title>
