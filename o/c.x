@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>송명달 전 해수부 차관, 여의도연구원 신임 이사로 선임</title>
+      <link>https://www.chosun.com/national/regional/2025/12/21/EUDL4E57GVCAXOS2ZF4OOXFA54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/21/EUDL4E57GVCAXOS2ZF4OOXFA54/</guid>
+      <dc:creator>권광순 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 12:30:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AKLD5GIPU5JPFFZVOGSFKI7SPA.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;송명달 전 해양수산부 차관. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송명달(59) 전 해양수산부 차관이 최근 여의도연구원 신임 이사로 선임됐다.&lt;br&gt;&lt;br&gt;송 전 차관은 1995년 제39회 행정고시에 합격해 해양수산부에서 차관을 지냈다. 박근혜 대통령 비서실 행정관, 국토교통부 규제개혁법무담당관, 재경부 관광물류과장 등 주요 부처에서 실무를 맡았다. 또 여수세계박람회 조직위원회 민자사업과장으로 활동하며 대규모 국가 프로젝트를 주도하기도 했다. &lt;br&gt;&lt;br&gt;주중 한국대사관 1등 서기관으로 근무하며 외교 현장을 경험했고, 경제자유구역기획단에서 국토개발과 지역 균형발전 전략에도 참여했다. 현재 경북대 특임교수와 새영주정책연구소장으로 활동하고 있다. &lt;br&gt;&lt;br&gt;경북 영주가 고향인 송 전 차관은 내년 6월 지방선거에서 영주시장 출마를 준비 중이다. 송 전 차관은 “풍부한 네트워크와 경험을 토대로 지역 현안을 국가 정책과 연계하는 데 앞장서겠다”고 말했다.&lt;br&gt;&lt;br&gt;여의도연구원은 국민의힘 정책 싱크탱크로, 국가 전략과 보수정책 수립을 총괄하는 기관이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>법무부 “지난 9월 가석방 30% 증가했지만 일시적... 제도 개선”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/21/DSBKOJCQDVAX3CSELIJZ37OAGA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/21/DSBKOJCQDVAX3CSELIJZ37OAGA/</guid>
@@ -38,15 +47,6 @@
       <description/>
       <pubDate>Sun, 21 Dec 2025 09:13:21 +0000</pubDate>
       <content:encoded>윤석열 전 대통령이 지난 20일 특검 첫 대면 조사에서 김건희 여사의 각종 금품 수수 의혹에 대해 “개입한 적 없다”고 말한 것으로 파악됐다. 윤 전 대통령은 “당시에는 전혀 알지 못했고, 나중에 논란이 된 이후 김 여사가 ‘빌린 것’이라고 하기에 그렇구나 생각했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRTINBZMRRDSOJYGEZTCOBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 윤 전 대통령은 전날 특검 피의자 조사에서 진술을 거부하지 않고 각종 의혹에 대해 “개입한 적 없다”며 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2022년 6월 지방선거 전후로 국민의힘 공천에 개입했다는 의혹에 대해 “국민의힘 중진 의원들이 나서지 말라고 했고, 개입한 적 없다”는 입장을 밝혔다고 한다. 특검은 윤 전 대통령과 김 여사가 2022년 지방선거와 국회의원 보궐선거, 지난해 총선 등에서 부당한 영향력을 행사했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;김 여사가 서희건설 이봉관 회장, 이배용 전 국가교육위원장 등으로부터 청탁 대가로 금품을 수수했다는 의혹에 대해서도 혐의를 부인한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 이 회장 측이 김 여사에게 6000만원대 반클리프 목걸이를 건네며 사위인 박성근 전 총리 비서실장의 임명을 청탁했다는 의혹에 대해 “이 회장은 1년에 한 번 열리는 국가조찬기도회에서 본 사이일 뿐 사적으로 연락하는 관계가 아니다”라고 설명했다. 박 전 실장의 임명 경위에 대해선 “모르는 내용이며, 아마 행정안전부의 인재 풀에 있던 인물이라 인사검증팀에서 정식 절차를 거쳐 검토했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장이 2022년 김 여사에게 5돈짜리 금거북이를 건네고 초대 국가교육위원장에 임명됐다는 의혹에 대해선 “이 전 위원장은 이미 인수위원회 내부적으로 장관급 인사로 추천을 많이 받았던 인물”이라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 이날 윤 전 대통령을 상대로 김 여사와 공모한 혐의를 받는 정치자금법 위반, 뇌물 등 범죄 혐의에 대해 조사했다. 특검은 수사 기한이 오는 28일에 끝나는 만큼 윤 전 대통령 진술과 각종 증거 등을 종합해 수사 종료 전 윤 전 대통령 부부를 기소할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>사상 처음 서울대 ‘고시반’ 연다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/21/5C4SW5DQLZEAPB2MWZRUCJHB3Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/21/5C4SW5DQLZEAPB2MWZRUCJHB3Q/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Dec 2025 09:27:50 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TEOLDGY4GKZJQGAYDINLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교가 개교 이래 처음으로 ‘고시반’을 운영하기로 했다. 5급 공무원 시험을 준비하는 재학생이 대상이다. &lt;br&gt;&lt;br&gt;서울대가 내년부터 ‘5급 공채 준비반’을 운영한다. 계속되는 취업난 속 행정고시·기술고시 등을 준비하는 학생들 사이에서 일명 ‘고시반’을 설치해 달라는 요구가 늘어난 탓이다. &lt;br&gt;&lt;br&gt;이미 기존에 서울대 행정대학원은 5급 공채 준비반인 ‘서연재’를 운영해왔다. 행정대학원은 지난 18일 “서울대학교 학부생을 대상으로 서연재를 확대 운영함으로써 5급 공채 시험을 준비하는 학부생들을 지원하고자 한다”고 공지했다. 20명 이내 학생을 선발해 5급 공채 관련 특강 수강 기회를 주고, 열람실 내 지정 좌석도 제공한다. 신청은 오는 24일까지다. &lt;br&gt;&lt;br&gt;한편 서울대는 그간 고시반 설치 요구를 ‘대학 설립 목적과 어긋난다’는 이유로 수용하지 않았다. 지난 3월 한 교내 행사에서도 유홍림 서울대 총장은 “대학은 단순히 학생이 공직자가 되도록 지원해주기보다 학생들이 공직자로서 필요한 역량을 기르도록 도와야 한다”며 고시반 운영에 부정적인 입장을 밝힌 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“살기 싫다” 112 신고 후 출동 경찰관에게 흉기 든 40대 실형 </title>
