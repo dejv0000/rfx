@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>법무부 “지난 9월 가석방 30% 증가했지만 일시적... 제도 개선”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/21/DSBKOJCQDVAX3CSELIJZ37OAGA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/21/DSBKOJCQDVAX3CSELIJZ37OAGA/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 09:44:23 +0000</pubDate>
+      <content:encoded>법무부는 21일 “정성호 법무장관의 ‘가석방 확대’ 지시 이후 일시적으로 가석방 인원이 약 30% 증가했지만, 현행 가석방 제도 등으로 인해 더 이상의 가석방 인원 증가를 기대하기 어려운 상황”이라고 밝혔다. &lt;br&gt;&lt;br&gt;전날(20일) 송영훈 변호사가 자신의 페이스북을 통해 정 장관이 지난 19일 대통령 업무 보고 때 “가석방도 지금 대통령님 취임 이후 한 30% 늘려준 겁니다”라고 발언한 것에 대해 “엉터리 통계로 허위 보고를 했다”고 주장한 데 따른 것으로 보인다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5TZCQWJM3ZLZ7LEAJTPT5ZHQNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정성호 법무부 장관이 19일 서울 종로구 정부서울청사 별관에서 열린 법무부(대검찰청)·성평등가족부 업무보고에서 답변하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 법무부는 “지난 9월 가석방 출소 인원은 1218명이었다”며 “이는 지난 5~8월 월평균 가석방 인원(936명) 대비 약 30% 증가한 수치”라고 밝혔다. 지난 8월 정성호 법무장관은 교정 시설 과밀 수용 문제를 해소하기 위해 ‘가석방 확대’를 지시했는데, 그 직후인 9월을 기준으로 앞선 5~8월의 월평균 가석방 인원을 비교하면, 가석방 인원이 30%가량 증가한 것이 맞는다는 취지다.&lt;br&gt;&lt;br&gt;앞서 송 변호사는 이재명 대통령이 취임한 6월부터 지난 11월까지의 가석방 인원(6229명)과 이 대통령 취임 전인 작년 12월부터 올해 5월까지의 가석방 인원(6233명)을 비교해 정 장관의 발언이 허위라고 주장했다. 이 대통령 취임 후 가석방 인원은 되레 4명이 줄었다는 것이다.&lt;br&gt;&lt;br&gt;그는 “올해 6~11월을 작년 같은 기간(6148명)과 비교해서도 가석방 인원은 81명 늘어났을 뿐”이라고도 했다. 이와 관련해 법무부는 올해 9월과 직전 4개월의 월평균 가석방 인원만을 비교해 수치가 약 30% 증가했다고 본 것이다.&lt;br&gt;&lt;br&gt;다만 법무부는 이 같은 가석방 증가 효과가 일시적이었다는 점은 사실상 인정했다. 법무부 관계자는 이날 “엄격한 현행 제도 탓에 가석방 인원 증가는 다음 달 가석방 심사대상 감소로 이어져 더 이상의 가석방 인원 증가를 기대하기 어렵고, 수용률이 130%를 상회하는 상황이 반복되고 있다”고 했다. 그러면서 “문제점을 근본적으로 개선하기 위해 지난 11월 ‘2026년 가석방 확대안’을 마련했고, 내년부터 가석방 확대를 더욱 적극적으로 시행할 예정”이라고 덧붙였다.&lt;br&gt;&lt;br&gt;이에 따라 법무부는 올해 1032명 수준이었던 월평균 가석방 허가인원을 내년 1340명으로 약 30% 상향했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>류중일 전 감독 부인 “前 며느리 코스프레 교복서 남성 정액 검출”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/21/CLXYG5KVFJGO3NO6WNUY5MG6XU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/21/CLXYG5KVFJGO3NO6WNUY5MG6XU/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 08:21:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA4WMODFGY2WCZRVGRSGENRYHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류중일 전 한국 야구 국가대표팀 감독./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;류중일 전 국가대표 감독의 배우자가 교사로 재직하던 중 학생과 부적절한 관계를 맺은 전 며느리 관련 청원의 배경과 관련 자료를 추가로 공개했다. &lt;br&gt;&lt;br&gt;20일 류 전 감독의 배우자 배모(62)씨가 한 인터넷 커뮤니티를 통해 전 며느리 관련 입장문을 공개했다. 배씨는 “이번 사안은 두 집안의 사적 분쟁이나 감정 싸움을 하려는 목적이 아니다”라며 “본질은 여교사와 학생 간 부적절한 관계로 인한 성범죄 의혹, 그 과정에서 동행한 손자에 대한 아동 학대 문제, 그럼에도 이를 제대로 다루지 못한 사법 판단과 법의 허점에 대한 사회적 문제 제기”라고 주장했다. &lt;br&gt;&lt;br&gt;배씨는 남편인 류 전 감독이 전 며느리와 관련해 국민 청원을 올린 배경에 대해 “사법부와 교육 당국에 제도적 보완을 요구하기 위한 것”이라고 했다. 이어 “상대 측 민원 제기로 청원 내용이 다수 수정돼 사건의 전후 맥락이 일부 삭제됐지만, 법의 허점을 바로잡아야 한다는 취지 자체는 유지되고 있다”고 했다. &lt;br&gt;&lt;br&gt;앞서 지난 4일 류 전 감독은 국회 국민동의청원 게시판에 ‘고3 제자와 부적절한 관계를 맺은 전 며느리를 처벌해달라’는 내용의 청원 글을 올렸다. 하지만 이후 전 며느리 A씨 측에서 “이혼 소송에 영향을 줄 수 있다”며 해당 청원 내용에 이의를 제기했고, 류 전 감독 측은 지난 18일 구체적인 사실관계를 생략한 새로운 청원 글을 올렸다. 현재 동의 수는 1373명이다. &lt;br&gt;&lt;br&gt;이날 입장문에서 배씨는 전 며느리 A씨의 코스프레 교복·속옷 주문 내역서와 DNA 감정 결과도 공개했다. 그는 “코스프레 교복에서 나온 정액은 DNA 간접 대조 결과 남학생의 것으로 확인됐고, 국립과학수사연구원 역시 사설 감정과 동일한 결과를 통보했다”고 했다. A씨가 입었던 코스프레 교복과 속옷을 두고 류 전 감독 측에서 맡긴 사설 검증과 국과수 검증이 일치했다는 의미다. 다만 현재 A씨와 만났던 남학생이 DNA 검사를 거부하고 있어 코스프레 교복에서 나온 정액이 남학생의 것인지는 확인되지 않았다. &lt;br&gt;&lt;br&gt;앞서 서울남부지검은 지난달 14일 아동학대처벌법과 아동복지법 위반 혐의를 받는 A씨에게 혐의가 없다고 보고 불기소 결정을 내렸다. 지난 3일 류 전 감독 아들은 검찰 결정에 불복해 항고장을 제출했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 “김 여사 금품 수수 전혀 몰라...빌렸다길래 그렇구나 생각해”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/21/UVPIOUUTXNE7ZIY52MWZPKAGG4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/21/UVPIOUUTXNE7ZIY52MWZPKAGG4/</guid>
+      <dc:creator>이민경 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 09:13:21 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령이 지난 20일 특검 첫 대면 조사에서 김건희 여사의 각종 금품 수수 의혹에 대해 “개입한 적 없다”고 말한 것으로 파악됐다. 윤 전 대통령은 “당시에는 전혀 알지 못했고, 나중에 논란이 된 이후 김 여사가 ‘빌린 것’이라고 하기에 그렇구나 생각했다”고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFRTINBZMRRDSOJYGEZTCOBYGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석해 자리하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 법조계에 따르면 윤 전 대통령은 전날 특검 피의자 조사에서 진술을 거부하지 않고 각종 의혹에 대해 “개입한 적 없다”며 혐의를 부인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 2022년 6월 지방선거 전후로 국민의힘 공천에 개입했다는 의혹에 대해 “국민의힘 중진 의원들이 나서지 말라고 했고, 개입한 적 없다”는 입장을 밝혔다고 한다. 특검은 윤 전 대통령과 김 여사가 2022년 지방선거와 국회의원 보궐선거, 지난해 총선 등에서 부당한 영향력을 행사했다고 의심하고 있다.&lt;br&gt;&lt;br&gt;김 여사가 서희건설 이봉관 회장, 이배용 전 국가교육위원장 등으로부터 청탁 대가로 금품을 수수했다는 의혹에 대해서도 혐의를 부인한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;윤 전 대통령은 이 회장 측이 김 여사에게 6000만원대 반클리프 목걸이를 건네며 사위인 박성근 전 총리 비서실장의 임명을 청탁했다는 의혹에 대해 “이 회장은 1년에 한 번 열리는 국가조찬기도회에서 본 사이일 뿐 사적으로 연락하는 관계가 아니다”라고 설명했다. 박 전 실장의 임명 경위에 대해선 “모르는 내용이며, 아마 행정안전부의 인재 풀에 있던 인물이라 인사검증팀에서 정식 절차를 거쳐 검토했을 것”이라고 했다.&lt;br&gt;&lt;br&gt;이 전 위원장이 2022년 김 여사에게 5돈짜리 금거북이를 건네고 초대 국가교육위원장에 임명됐다는 의혹에 대해선 “이 전 위원장은 이미 인수위원회 내부적으로 장관급 인사로 추천을 많이 받았던 인물”이라고 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 이날 윤 전 대통령을 상대로 김 여사와 공모한 혐의를 받는 정치자금법 위반, 뇌물 등 범죄 혐의에 대해 조사했다. 특검은 수사 기한이 오는 28일에 끝나는 만큼 윤 전 대통령 진술과 각종 증거 등을 종합해 수사 종료 전 윤 전 대통령 부부를 기소할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사상 처음 서울대 ‘고시반’ 연다</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/21/5C4SW5DQLZEAPB2MWZRUCJHB3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/21/5C4SW5DQLZEAPB2MWZRUCJHB3Q/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 09:27:50 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TEOLDGY4GKZJQGAYDINLFGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울대 정문 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울대학교가 개교 이래 처음으로 ‘고시반’을 운영하기로 했다. 5급 공무원 시험을 준비하는 재학생이 대상이다. &lt;br&gt;&lt;br&gt;서울대가 내년부터 ‘5급 공채 준비반’을 운영한다. 계속되는 취업난 속 행정고시·기술고시 등을 준비하는 학생들 사이에서 일명 ‘고시반’을 설치해 달라는 요구가 늘어난 탓이다. &lt;br&gt;&lt;br&gt;이미 기존에 서울대 행정대학원은 5급 공채 준비반인 ‘서연재’를 운영해왔다. 행정대학원은 지난 18일 “서울대학교 학부생을 대상으로 서연재를 확대 운영함으로써 5급 공채 시험을 준비하는 학부생들을 지원하고자 한다”고 공지했다. 20명 이내 학생을 선발해 5급 공채 관련 특강 수강 기회를 주고, 열람실 내 지정 좌석도 제공한다. 신청은 오는 24일까지다. &lt;br&gt;&lt;br&gt;한편 서울대는 그간 고시반 설치 요구를 ‘대학 설립 목적과 어긋난다’는 이유로 수용하지 않았다. 지난 3월 한 교내 행사에서도 유홍림 서울대 총장은 “대학은 단순히 학생이 공직자가 되도록 지원해주기보다 학생들이 공직자로서 필요한 역량을 기르도록 도와야 한다”며 고시반 운영에 부정적인 입장을 밝힌 바 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“살기 싫다” 112 신고 후 출동 경찰관에게 흉기 든 40대 실형 </title>
+      <link>https://www.chosun.com/national/regional/2025/12/21/CPT3H57O2RFUHGHPIQL4WMNYQU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/21/CPT3H57O2RFUHGHPIQL4WMNYQU/</guid>
+      <dc:creator>울산=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 09:07:45 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/DO2PNAXEGANSXXZVDEDDP2JWFI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산지법 전경. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;출동한 경찰관을 흉기로 위협하고, 시비가 붙은 행인을 때리는 등의 혐의로 재판에 넘겨진 40대에게 실형이 선고됐다. &lt;br&gt;&lt;br&gt;울산지법 형사 9단독 김언지 판사는 특수공무집행방해와 폭행 혐의 등으로 재판에 넘겨진 A씨에게 징역 1년을 선고했다고 21일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 울산 남구 한 식당에서 “살기 싫다”며 112에 신고한 뒤 경찰이 출동하자 흉기로 찌를 듯이 위협한 혐의를 받는다.&lt;br&gt;&lt;br&gt;또 이에 앞서 지난 7월에는 남구 한 도로에서 이날 처음 보는 40대 남성 B씨에게 담배를 달라고 했다가 시비가 붙자 “내가 조직폭력배 사주를 받고 왔다. 죽여버리겠다”며 주먹으로 B씨를 때리고 휴대전화 액정을 파손한 혐의도 받는다. &lt;br&gt;&lt;br&gt;김 판사는 “위험한 물건을 들고 경찰관을 위협하고, 별다른 이유도 없이 생면부지의 사람을 때리고 재물까지 파손해 죄책이 가볍지 않다”며 “다만, 반성하는 점과 동종 전과가 없는 점을 참작했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“먼길 왔구나, 많이 먹으렴”… 생태관광 명소 된 ‘독수리 식당’ </title>
       <link>https://www.chosun.com/national/2025/12/21/66PI6UZQT5ERFBFVE6FPUIXMVE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/21/66PI6UZQT5ERFBFVE6FPUIXMVE/</guid>
@@ -869,15 +914,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/T6UWKS6J37WPCOUO3AMRMJDUUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;홍원식 전 남양유업 회장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 200억원대 횡령·배임 혐의로 기소된 홍원식 전 남양유업 회장에게 징역 10년을 구형했다. 홍 전 회장의 1심 선고는 내년 1월 26일에 내려진다.&lt;br&gt;&lt;br&gt;검찰은 19일 서울중앙지법 형사21부(재판장 이현복)에서 열린 결심 공판에서 특정경제범죄가중처벌법 위반(횡령·배임) 혐의를 받는 홍 전 회장에게 징역 10년과 추징금 약 43억원을 선고해달라고 요청했다. 함께 기소된 전 남양유업 중앙연구소장과 전직 대표이사 등에게도 징역 2~5년을 구형했다.&lt;br&gt;&lt;br&gt;홍 전 회장은 남양유업을 운영하며 납품업체들로부터 거래 대가로 수십억원을 받고 친인척이 운영하는 업체를 거래 중간에 끼워넣어 100억원대 손해를 입힌 혐의로 작년 12월 구속기소됐다. 납품업체 대표를 회사 감사로 임명한 후 급여를 되돌려받고, 법인카드를 사적으로 유용한 혐의도 있다. 지난 2021년 남양유업 ‘불가리스’ 제품이 코로나 억제 효과가 있는 것처럼 허위 홍보하고 관련 수사가 시작되자 증거 인멸을 지시한 혐의도 받는다.&lt;br&gt;&lt;br&gt;홍 전 회장은 작년 12월 구속됐다가 지난 5월 보석금 1억원을 내고 풀려나 불구속 상태에서 재판을 받고 있다. 재판부는 보석 조건으로 주거지 제한과 증인이나 공동 피고인 접촉 제한 등을 부과했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>인권위 “교도소 내 과도한 CCTV 감시는 사생활 침해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/IEOLMJCAQRCAJFUH5JTMLRFQMQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/IEOLMJCAQRCAJFUH5JTMLRFQMQ/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 08:22:45 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/43W7DJNUYFE4P5BMN2Q3TYJHLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회(인권위)가 교도소에서 합리적 이유 없이 폐쇄회로(CC)TV로 수용자를 24시간 동안 감시한 것을 사생활 침해라 판단하고, CCTV 감시를 최소한의 범위에서 시행할 것을 권고했다.&lt;br&gt;&lt;br&gt;인권위는 지난 10월 16일 이 같은 내용을 A교도소장에게 권고했다고 19일 밝혔다.&lt;br&gt;&lt;br&gt;폭행 혐의로 A교도소에 30일간 금치된 한 수용자는 자살할 우려가 없음에도 24시간 동안 CCTV로 감시를 받는 등 기본권을 침해당했다며 인권위에 진정을 제기했다.&lt;br&gt;&lt;br&gt;A교도소는 이에 대해 “사고 예방을 위해 CCTV를 설치하고 자살 등의 우려가 큰 경우에만 영상으로 관찰을 하고 있다”며 “당시 수용자가 심적 흥분 상태를 보여 돌발적 행동에 의한 자해 및 자살의 우려가 크다고 판단했다”고 답했다.&lt;br&gt;&lt;br&gt;그러나 인권위는 수용자가 자신의 혐의를 부인하거나 과도한 불만을 표시한 것을 ‘자살 우려가 크다’고 해석한 것은 자의적일 수 있고, 수용자를 CCTV로 감시할 필요성이 충분하지 않았다고 판단했다.&lt;br&gt;&lt;br&gt;이에 인권위는 “A교도소가 수용자의 사생활과 비밀의 자유를 침해했다”며 CCTV 감시는 충분한 심사를 거쳐 최소한의 범위에서 시행할 것을 A교도소에 권고했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>대선 앞둔 통일교 회의서...“여야 공천권 받아야” “2027년 대권 도전”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/L4ESFJ6STBBPRD3XRZKQNT2NIY/</guid>
@@ -887,38 +923,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZGIMRRMYZGMYLBMVSWCMJRMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불법 정치자금 제공 혐의를 받는 한학자 통일교(세계평화통일가정연합) 총재가 지난 17일 오후 서울 종로구 김건희 특검팀(특별검사 민중기) 사무실에서 나오고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2022년 대선을 앞두고 통일교 내부에서 “여야 국회의원 공천권을 받고 기반을 만들어 2027년 대권에 도전한다”는 논의가 이뤄진 정황이 법정에서 공개됐다. &lt;br&gt;&lt;br&gt;서울중앙지법 형사27부(재판장 우인성) 심리로 19일 열린 한학자 통일교 총재와 윤영호 전 통일교 세계본부장 등의 정당법 위반 사건 재판에서는 통일교 세계본부 신통일한국처장 엄모씨에 대한 증인신문이 이뤄졌다. 이 재판은 통일교가 20대 대선 당시 국민의힘 시·도당에 쪼개기 후원을 하는 등 정교유착을 시도했다는 의혹을 다룬다.&lt;br&gt;&lt;br&gt;특검팀은 증인신문 중 엄씨가 작성한 2021년 10월 14일 자 통일교 대륙회장 회의록을 공개했다. 회의록에 따르면 윤 전 본부장과 당시 각 지역교구(지구) 회장 등 통일교 고위 간부들 11명이 참여한 가운데 당시 서울·인천 지역을 관할하던 1지구회장 주모씨는 “우리 목표는 청와대 보좌진으로 들어가는 것”이라며 “여든 야든 국회의원 공천권을 줘야 한다. 그러려면 정책 투표수 자금이 있어야 한다”고 말했다. 또 “잘못 선택하면 큰일난다. 1~2월 중 선택을 해야 하는데 정말 신중하게 가야 한다. 그렇지 않으면 역풍을 맞을 수밖에 없다”고도 발언했다.&lt;br&gt;&lt;br&gt;영남 지역 관할 5지구 회장이었던 박모씨도 회의에서 “국회의원 공천권, 청와대 입성의 기반을 이루려면 결코 쉽지 않다. 2027년까지 이렇게 가면 대권 도전도 가능하지 않겠는가”라고 했다. 엄씨는 회의에서 이 같은 논의가 있었는지 묻는 특검팀 질문에 “기억이 나지 않지만 기록상 맞는 것 같다”고 답했다. &lt;br&gt;&lt;br&gt;엄씨는 “통일교에서 국회 정치에 진출하려는 것이었나”는 특검팀 질문에 “모든 사람의 의견일지는 모르겠지만 주씨 개인 의견이 아닐까 싶다”고 했다. 종교단체인 통일교 회의에서 ‘대선’이나 ‘청와대’, ‘국회의원 공천권’ 같은 얘기가 나온 배경에 대해선 “당시 윤영호 본부장이 추진하던 정책에 맞춰 지구장들이 계획을 고민하고 논의하던 상황”이라며 “본부장이 매월 서밋을 진행하며 통일교 영향력이 사회 전반에 미칠 수 있도록 노력하고 있었다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 운세] 12월 20일 토요일 (음력 11월 1일 癸亥)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/YMA422FKUZE57F2INFG7JPUXGE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/YMA422FKUZE57F2INFG7JPUXGE/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;div style="width: 100% ; max-width: 616px; margin: 0 auto; padding: 18px 0; border-top: 1px solid #9C9C9C; border-bottom: 1px solid #9C9C9C;"&gt;
-		&lt;div style="font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; font-size: 18px; font-style: normal; font-weight: 400; line-height: 1.5; display: block; margin: 0; margin-bottom: 10px; word-break: keep-all; text-align: left;"&gt;오늘 같은 날, 조선멤버십 가입하기 좋은 날입니다!&lt;br&gt;
-멤버십에 가입하면 전용몰 상품 구매시 상품가 10%만큼 현금처럼 결제할 수 있는 7000포인트를 매달 드립니다. 이번 달까지 가입하면 5000포인트를 추가로 드립니다!&lt;/div&gt;
-		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
-		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>李 “법무부, 가장 중요한 부처...국민 신임 저버리지 않았으면” </title>
-      <link>https://www.chosun.com/national/court_law/2025/12/19/4Y2NUCZZBFDUBLE6CPZJKPOZIU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/4Y2NUCZZBFDUBLE6CPZJKPOZIU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 07:30:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LHGPY7ZP5VNPPKTQQNIZBNSI2M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이재명 대통령이 19일 서울 종로구 정부서울청사 별관에서 부처별 무보고에서 발언하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이재명 대통령이 19일 “법무부는 국가 법질서를 유지하기 위해 공권력을 행사하는 중요 기관”이라며 “법무부가 국민의 신임을 저버리지 않았으면 좋겠다”고 했다.&lt;br&gt;&lt;br&gt;이 대통령은 이날 정부서울청사에서 열린 법무부·대검찰청·성평등가족부 업무보고에 앞서 “법무부는 모두가 잘 아는 것처럼 국가 법질서를 책임지는 가장 중요한 부처 중 하나”라며 이렇게 말했다.&lt;br&gt;&lt;br&gt;이 대통령은 그러면서 “법무부는 국가의 공인된 폭력을 제도적으로 행사하는 곳”이라며 “최대한 절차적으로 정당해야 하고 결과 역시 정당해야 한다”고 했다.&lt;br&gt;&lt;br&gt;여성가족부에서 이름을 바꾼 성평등가족부에 대해서는 “국민 사이에 평등 정책을 제대로 시행하는 중요한 기관”이라며 “꽤 오랫동안 국가기관으로 취급을 제대로 받지 못한 측면이 있다. 지금부터라도 주어진 역할을 잘하길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>구자건 J&amp;K 산업 대표, 고려대에 1억원...누적 기부액 3억1000만원</title>
-      <link>https://www.chosun.com/national/people/2025/12/19/L5FBH7XWBZAJVP5ODJ5E2GWYKM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/19/L5FBH7XWBZAJVP5ODJ5E2GWYKM/</guid>
-      <dc:creator>김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 06:22:36 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C5THLR7UYBD3HOXBWDBXILDIO4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;구자건 J&amp;K 산업 대표/고려대&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대는 구자건(물리학과 66학번) J&amp;amp;K 산업 대표가 지난 11일 자연계 중앙광장 건립 기금으로 1억원을 기부했다고 밝혔다. 지난 1998년부터 고려대에 기부를 이어 온 구 대표는 이번 기부로 개인과 부인 최경애씨, J&amp;amp;K 산업의 누적 기부금이 3억1000만원을 넘어서게 됐다.&lt;br&gt;&lt;br&gt;구 대표는 지난 1998년 100주년 기념관 건립기금으로 100만원을 낸 것을 시작으로 지금까지 30차례 넘게 고려대에 기부를 해왔다. 100주년기념관 건립기금과 교우회 장학금 등 다양한 기부를 해왔다고 고려대는 설명했다. 구 대표는 작년 12월에도 부인 최씨와 함께 자연계 중앙광장 건립 기금 1억원을 기부한 바 있다.&lt;br&gt;&lt;br&gt;그는 이번 기부에 대해 “기부는 드러내기보다는 이어가는 것이 중요하다고 생각해 조용히 진행하게 됐다”며 “학생들이 머무르고 소통하는 공간이 더 나은 배움의 환경으로 이어지길 바라는 마음”이라고 소감을 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>인천 선미도 해상에서 어선 전복… 4명 구조, 1명 수색 중</title>
       <link>https://www.chosun.com/national/incident/2025/12/19/6KQ7QVBIWRFIPAU3LFSTIJVKNE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/6KQ7QVBIWRFIPAU3LFSTIJVKNE/</guid>
@@ -926,15 +930,6 @@
       <description/>
       <pubDate>Fri, 19 Dec 2025 06:30:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2IZS27RF2FH7NNQKWHZAIXAP3E.png"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 2시 14분쯤 인천 옹진군 선미도 북쪽 13㎞ 해상에서 전복된 어선 주변을 해양경찰이 수색하고 있다./ 인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천 선미도 인근 해상에서 어선이 전복돼 해양경찰이 구조에 나섰다. &lt;br&gt;&lt;br&gt;19일 인천해양경찰서에 따르면, 이날 오후 2시 14분쯤 인천시 옹진군 선미도 북쪽 13㎞ 해상에서 승선원 5명이 탄 7.9t급 어선이 전복됐다. &lt;br&gt;&lt;br&gt;해경은 경비함정과 공기부양정, 인천구조대, 항공기 등을 현장에 투입해 구조 작업을 진행하고 있다. &lt;br&gt;&lt;br&gt;해경 관계자는 “승선원 5명 중 4명은 인근 선박에서 구조했다”며 “나머지 1명은 수색하고 있다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BCEEKZKPLBDFNJ73YN4YHHKYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;선미도 인근 해상 전복사고 위치도./인천해양경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위원장 “국군포로·납북자·억류자 즉각 송환 이뤄져야”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/VIF33XMLURDQLLWHVYYSOUL2XI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/VIF33XMLURDQLLWHVYYSOUL2XI/</guid>
-      <dc:creator>김혜민 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 07:10:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CTWYL7M7CVOAHDJBBDECY2L7XI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;안창호 국가인권위원회(인권위) 위원장이 북한을 향해 국군 포로와 납북자, 억류자를 즉각 송환할 것을 촉구했다.&lt;br&gt;&lt;br&gt;안 위원장은 19일 성명을 내고 “21년 연속으로 유엔총회에서 북한인권결의가 채택된 것을 환영한다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;지난 18일 제80차 유엔총회에서는 대한민국을 포함한 61개국이 공동 제안국으로 참여한 북한인권결의가 채택됐다. 참여국들은 결의를 통해 국군 포로, 납북자, 억류자의 즉각적인 송환과 북송된 탈북 임산부에 대한 강제 낙태 및 영아 살해 중단 등을 북한에 촉구했다.&lt;br&gt;&lt;br&gt;이에 대해 안 위원장은 “북한에서 중대한 인권 침해가 오랫동안 지속되고 있는 점에 대해 깊은 우려를 표한다”며 “아직 고국으로 돌아오지 못한 국군 포로는 물론 납북자, 억류자를 즉각 송환할 것, 그리고 이들 중 사망자가 있다면 유해를 발굴해 송환할 것을 강력히 촉구한다”고 했다.&lt;br&gt;&lt;br&gt;또 안 위원장은 “향후에도 북한의 인권 상황에 획기적인 변화가 없다면 우리 정부가 지속적으로 공동제안국으로 참여하기를 요청한다”며 “인권위 역시 북한 주민의 실질적인 인권 개선을 위해 국제사회와의 협력을 강화하는 데 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 남산 곤돌라 사업 제동...법원 “남산 용도구역 변경 취소”</title>
