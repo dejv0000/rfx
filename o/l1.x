@@ -6,6 +6,15 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 클리오의 '누디즘'은 식별 중요 부분인 상표의 요부</title>
+			<description>화장품 업체 클리오의 등록 상표인 '누디즘(NUDISM)'은 상표의 식별 기능을 수행하는 상표의 요부라는 대법원 판단이 나왔다. 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8024"&gt;이흥구&amp;nbsp;&lt;/span&gt;대법관)는 11월 20일 화장품 제조업체 A 사 대표 B 씨의 상표법 위반 상고심 사건에서 무죄를 선고한 원심을 파기하고 사건을 서울중앙지법으로 돌려보냈다(&lt;b&gt;2024도8174&lt;/b&gt;)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;화장품 제조·판매업체인 A 사는 2020년 2~3월 클리오가 등록한 상표 '누디즘(NUDISM)'과 유사한 문구가 포함된 립스틱을 제조·판매했다. 문제 된 제품은 'CATALIC Narcisse Nudism Holic Matte Lipstick'이라는 영문 표기를 사용해 11번가 등 오픈마켓에서 광고·판매됐다. 이 중 'Nudism' 부분이 클리오의 등록상표 NUDISM과 유사해 상표권 침해 혐의로 재판에 넘겨졌다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심은 'NUDISM'이 일반 수요자에게 강한 인상을 주는 식별력 있는 부분으로 상표의 요부에 해당한다며 유죄를 인정했다. 그러나 항소심은 문제 된 사용상표 전체를 기준으로 볼 때 요부는 'CATALIC'에 해당하고, 'Nudism' 부분은 다른 구성요소들과 결합된 부수적 표현에 불과하다고 판단했다. 항소심은 'CATALIC'을 기준으로 등록상표와 대비하면 외관·호칭·관념이 유사하지 않다며 무죄를 선고했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원의 결론은 달랐다. 대법원은 'CATALIC'뿐 아니라 'Nudism' 역시 각각 독립된 식별력을 가진 요부에 해당한다고 판단했다. 특히 'Nudism'은 색조 화장품에서 흔히 쓰이는 '누드(nude)'와 구별되는 표현으로, 일상적으로 사용되는 용어가 아니고 일반 수요자가 그 의미를 쉽게 관념하기도 어렵다는 점에서 식별력이 인정된다고 봤다.&lt;br /&gt;&lt;p&gt;반면 'Holic', 'Matte', 'Lipstick' 등은 상품의 성질이나 질감을 직감하게 하는 표현으로 상대적으로 식별력이 없거나 미약하다고 판단했다. 대법원은 또 문자상표의 유사 여부 판단에서는 호칭의 중요성이 크다며, 'CATALIC'이 대문자로 강조돼 있다는 사정만으로 이를 유일한 요부로 단정할 수는 없다고 판단했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;대법원은  "이 사건 등록상표와 표장이 유사한 이 사건 사용상표를 립스틱에 사용할 경우 일반 수요자나 거래자로 하여금 상품의 출처에 관해 오인·혼동을 일으키게 할 염려가 있다"며  "이 사건 사용상표가 피해 회사의 이 사건 등록상표와 유사하지 않다고 보아 상표권 침해행위에 관한 고의 여부 등에 대해 나아가 심리하지 않은 채 피고인들이 피해자의 상표권을 침해하지 않았다고 판단한 것은 상표권 침해에 관한 법리를 오해한 것"이라고 밝혔다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;</description>
+			<pubDate>Sun, 21 Dec 2025 21:07:44 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214291</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214291</guid>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 육상 사고에 '해상 운송' 적용 안 돼</title>
 			<description>해운사 직원의 잘못된 컨테이너 온도 설정으로 육상 운송에서 사고가 난 경우, 해상 운송의 위험을 고려해 배상 부담을 덜어주는 상법 규정을 적용해선 안 된다는 대법원 판단이 나왔다. 11월 13일, 대법원 민사2부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="651"&gt;박영재&amp;nbsp;&lt;/span&gt;대법관)는 DB손해보험이 HMM 등을 상대로 낸 구상금 청구 소송에서 HMM의 배상 책임을 제한한 원심 판결을 깨고, 사건을 서울고법으로 돌려보냈다(&lt;b&gt;2025다211111&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;DB손해보험은 두산로보틱스와 미국 수출용 로봇 암(Robot Arm) 20대에 대해 운송 과정에서 발생하는 손해를 보상하는 보험 계약을 체결했다. HMM은 두산로보틱스의 운송 대행사로부터 해상 운송을 위탁받았고, 육상 운송에 필요한 컨테이너도 제공했다.&lt;p&gt;   &lt;br /&gt;2022년 9월, 두산로보틱스는 로봇 암을 인천항에 보냈다. 로봇 암은 육로를 통해 부산항으로 이동한 뒤 배에 실려 미국 시카고로 갈 예정이었다. 문제는 온도 설정이었다. HMM 직원의 잘못으로 영상 18도였어야 할 컨테이너 온도가 영하 18도로 맞춰졌다. 로봇 암 20대 가운데 15대가 손상됐다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;2023년 4월, DB손해보험은 두산로보틱스에 보험금 71만4270달러를 지급했다. 두 달 후 DB손해보험은 HMM 등을 상대로 구상금 소송을 제기했다. HMM은 “컨테이너 제공도 해상 운송의 일부”라며 해상운송인의 배상 책임을 제한하는 상법 제797조 제1항이 적용돼야 한다고 주장했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 “사고가 해상 운송에서 발생했다고 보기 어렵다”며 HMM의 주장을 받아들이지 않았다.&lt;/p&gt;&lt;p&gt;&amp;nbsp; &lt;br /&gt;항소심은 1심과 달리 HMM의 배상 책임이 제한된다고 판단했다. 항소심 재판부는 “HMM의 컨테이너 제공과 온도 설정 모두 운송에 따르는 행위로서 화물을 수령하거나 보관하는 행위의 일부”라고 판단했다. 해상 운송의 연장선상에서 사고가 발생했기에 상법 제797조 제1항이 적용된다는 취지다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 원심(항소심)이 해상 운송인의 배상 책임 제한에 관한 법리를 오해했다며 사건을 파기환송했다. 대법원은 “해상 운송은 육상 운송과 달리 고유한 위험이 있고, 손해액 역시 클 수 있어 해상 운송인의 배상 책임을 제한할 필요가 있다”면서도 “HMM의 컨테이너 제공과 잘못된 온도 설정이 해상 운송인으로서 운송물을 수령하거나 보관하는 행위에 해당한다고 볼 수 없고, 해상 운송에 수반되는 고유한 위험으로 보기도 어렵다”고 판시했다.&lt;/p&gt;</description>
 			<pubDate>Sun, 21 Dec 2025 00:09:56 -0000</pubDate>
@@ -229,16 +238,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214325</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214325.jpg</media:thumbnail>
 			<dc:creator>신나영 기자</dc:creator>
-		</item>
-		<item>
-			<title>한국국가법학회 제33대 회장에 김남욱 송원대 교수</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214326.jpg" alt="214326.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김남욱 송원대 교수&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한국국가법학회는 지난 12월 5일 광주 남구 송하동에 있는 송원대학교에서 정기총회를 열고 김남욱 송원대 철도운전경영학과 교수를 제33대 신임 회장으로 선출했다. 임기는 2025년 1월부터 1년이다.&lt;br /&gt;&lt;br /&gt;김 신임 회장은 조선대학교 대학원 법학과에서 법학석사와 법학박사 학위를 취득했다. 한국공법학회를 비롯해 한국환경법학회, 한국토지공법학회, 한국행정법학회 등 주요 학회에서 부회장을 역임했으며, 한국환경법학회와 한국토지공법학회에서는 학술상을 수상했다.&lt;br /&gt;&lt;br /&gt;김 신임 회장은 “앞으로 국가법 관련 연관 학회와의 연합 학술대회를 통해 학술 교류를 확대하고, 에너지·기후환경 문제와 인구 감소, 지방 소멸 대응 등 국가법의 주요 현안을 심도 있게 다루겠다”며 “우리 사회의 공존·상생·지속가능한 발전에 기여하는 학회를 만들겠다”고 말했다.&lt;br /&gt;&lt;br /&gt;한국국가법학회는 국가법학 연구를 기반으로 1992년 설립된 학술단체다. 한국연구재단 등재학술지인 ‘국가법연구’를 발간하고 있다.&lt;br /&gt;</description>
-			<pubDate>Fri, 19 Dec 2025 12:06:41 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214326</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214326</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214326.jpg</media:thumbnail>
-			<dc:creator>조한주 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
