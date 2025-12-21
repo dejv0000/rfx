@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>尹 방어권으로 경찰 수사 받게 된 인권위원장</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/21/HJIGWLBWEBAYZIK7M2KGW5W4NY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/21/HJIGWLBWEBAYZIK7M2KGW5W4NY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 04:19:17 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령에 대한 방어권 보장 안건을 의결했다는 이유로 고발된 안창호 국가인권위원장 등에 대해 경찰청 국가수사본부가 수사를 이어갈 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TED4DEV5FRPHDEHKBDGFLH3AV4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;안창호 국가인권위원회 위원장이 지난 10일 오전 서울 중구 안중근의사기념관에서 열린 2025 인권의날 기념식에 참석하려다가 시민단체에 의해 입장을 저지당해 발길을 돌리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;21일 경찰 등에 따르면 비상계엄 관련 내란·외환 혐의를 수사한 조은석 특별검사팀은 안 위원장과 김용원 인권위 상임위원 등이 내란 선전·선동 혐의로 고발당한 사건을 최근 국수본에 이첩한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;인권위는 지난 2월 윤석열 전 대통령의 탄핵 심판 방어권을 보장해야 한다는 취지의 안건을 상정해 가결했다. 이에 시민단체들은 지난 7월 안 위원장과 김 위원 등을 내란 선동·선전 등 혐의로 특검에 고발했다. 근거 없는 의혹을 제기하고 헌법재판소와 법원, 수사기관을 압박해 재판 및 수사에 영향을 미치려 했다는 이유였다. 내란 특검이 이를 직접 수사하지 않고 경찰에 넘긴 것이다.&lt;br&gt;&lt;br&gt;앞서 내란 특검은 180일간의 수사 과정에서 이첩·인지·고발된 249건 중 215건을 처리하고 34건을 국가수사본부로 이첩했다고 밝혔다. 이 중 10건은 심우정 전 검찰총장에 대한 고발이 중복된 사건이었다. &lt;br&gt;&lt;br&gt;이외 한국사 강사 전한길씨와 손현보 세계로교회 목사가 내란 선전·선동 등 혐의로 고발된 사건도 국수본으로 이첩됐다. 경찰은 국가수사본부 내에 설치한 특별수사본부를 통해 특검에서 이첩된 사건을 수사할 계획이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘수능 대박’ 이부진 아들 다닌 휘문고도 2년 연속 미달... “내신 5등급제로 자사고 인기 하락”</title>
+      <link>https://www.chosun.com/national/education/2025/12/21/FYCWKFZ7IVH2BAALR4JN5E7NE4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/21/FYCWKFZ7IVH2BAALR4JN5E7NE4/</guid>
+      <dc:creator>표태준 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 04:31:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZGEZBVGBRTGZDGMIYGMZLCHA.gif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 대치동 학원가 모습. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;내년도 자율형사립고(자사고) 지원자 수가 올해보다 10% 이상 감소한 것으로 나타났다. 휘문고 등 일부 자사고는 모집 정원을 채우지 못했다. 내신 5등급제가 시행되며 상위권 학생이 몰리는 자사고보다 상대적으로 성적을 받기 수월한 학교를 선택한 탓으로 분석된다.&lt;br&gt;&lt;br&gt;21일 종로학원에 따르면, 2026학년도 전국 32개 자사고 지원자는 올해 대비 10.1% 감소한 1만2786명으로 집계됐다. 경쟁률도 1.22대 1로 올해(1.36대 1) 보다 낮아졌다. 그간 자사고 지원자 수는 2023학년도 1만4527명, 2024학년도 1만4050명, 2025학년도 1만4228명으로 비슷한 수준을 유지해왔다.&lt;br&gt;&lt;br&gt;2026학년도 전국 단위 자사고 지원자 수는 총 4214명이고 경쟁률은 1.22대 1로 올해(1.36대 1)보다 낮아졌다. 가장 경쟁률이 높은 곳은 2.62대 1을 기록한 하나고로 나타났다. 그다음 외대부고(2.31대 1), 현대청운고(1.79대 1), 민사고(1.73대 1), 상산고(1.65대 1) 순이다.&lt;br&gt;&lt;br&gt;해당 시도 거주자만 모집하는 지역 자사고의 지원자는 총 8572명이고 경쟁률은 1.09대 1로 올해 경쟁률(1.21대 1)보다 역시 낮아졌다. 서울 이화여고가 420명 모집에 608명이 지원해 1.45대 1로 경쟁률이 가장 높았다. 그러나 731명이 몰렸던 올해 경쟁률(1.74대 1)에 비하면 떨어졌다.&lt;br&gt;&lt;br&gt;그다음은 대전대신고(1.38대 1), 대구 계성고(1.36대 1), 신일고(1.34대 1), 배재고(1.3대 1) 순이었다. &lt;br&gt;&lt;br&gt;부산 부일외고(0.95대 1), 대전대성고(0.9대 1), 안산동산고(0.78대 1), 양정고(0.86대 1), 세화여고(0.85대 1), 경희고(0.77대 1), 휘문고(0.5대 1) 등은 지원자 수가 모집 정원을 넘지 못했다.&lt;br&gt;&lt;br&gt;교육계에서는 유명 정치인과 기업인 등을 다수 배출한 서울 강남구에 있는 휘문고가 자사고 중 경쟁률이 가장 낮아 주목받고 있다. 휘문고는 올해도 모집 정원을 다 채우지 못했다. 올해 수능에서 1개만 틀린 것으로 알려져 화제가 됐던 이부진 호텔신라 사장의 아들 임동현군도 휘문고를 다니고 있다.&lt;br&gt;&lt;br&gt;반면 전국 28개 외고 지원자는 8105명으로 전년도 대비 5.6% 증가했다. 전국 8개 국제고도 지원자가 전년도 대비 0.2% 소폭 늘어난 2188명을 기록했다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “자연계 중심으로 편성 운영돼 상위권 학생이 몰리는 자사고는 내신 5등급제로 인한 내신 취득 부담으로 지원자가 감소한 것으로 보인다”며 “외고와 국제고는 문·이과 완전 통합으로 2028학년도부터 의대 등 이공계 진학의 문이 확대돼 지원자가 늘어난 것으로 분석된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>14시간 조사 마친 전재수 “어떤 금품수수도 없어”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/21/7XYPCUVBLVDMNF2GSSG6VXNFAE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/21/7XYPCUVBLVDMNF2GSSG6VXNFAE/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 21 Dec 2025 04:04:12 +0000</pubDate>
+      <content:encoded>통일교로부터 금품을 수수했다는 의혹이 제기된 전재수 민주당 의원이 경찰에 출석해 조사를 받았다. 통일교 정치권 로비 의혹과 관련해 여당 정치인이 경찰 조사를 받은 것은 전 의원이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQJWXLWY4VAOBNCKJEOKCI35DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 전재수 의원이 지난 19일 오전 서울 서대문구의 경찰청 국가수사본부에 출석하고 있다. /박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 의원은 19일 오전 9시 53분쯤 통일교 금품 수수 의혹을 수사하는 경찰청 국가수사본부에 도착했다. 전 의원은 14시간이 지난 20일 오전 0시 20분쯤 조사를 마치고 나왔다. &lt;br&gt;&lt;br&gt;조사를 마친 전 의원은 “하나하나 말씀드릴 수는 없지만, 성실한 태도로 조사를 받았다”며 “통일교 측으로부터 그 어떠한 금품 수수도 없었다는 점을 다시 한번 분명히, 강력히 말씀드린다”고 했다. 이외 ‘통일교 측이 저서 500권을 산 것은 문제가 없다는 입장이냐’ ‘천정궁을 방문한 적이 아예 없는 것이냐’ 등의 질문에 대해선 “죄송하다”고 말한 뒤 차량을 타고 현장을 떠났다. &lt;br&gt;&lt;br&gt;전 의원은 2018년 무렵 통일교로부터 한·일 해저터널 관련 청탁과 함께 현금 2000만원과 1000만원 상당의 명품 시계 1점을 수수해, 뇌물수수와 정치자금법 위반 혐의를 받고 있다. 경찰은 전 의원과 함께 통일교에서 금품을 수수했다는 의혹이 제기된 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등도 이른 시일 내에 소환해 조사할 방침이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“변호사의 세무대리 업무 제한은 합헌”…헌재, 7대2 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/12/21/BX72IXWL6JFYFEQBGPE65YZAEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/21/BX72IXWL6JFYFEQBGPE65YZAEE/</guid>
@@ -883,33 +910,6 @@
       <description/>
       <pubDate>Fri, 19 Dec 2025 06:22:45 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3VGTSBZIZ5IFTAWJVYE5DRZYNE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;19일 오후 부산 서구 부산공동어시장에서 열린 현대화사업 착공식에서 박형준 부산시장, 최현호 해양수산부 수산정책실장, 노동진 수협중앙회장, 정연송 부산공동어시장 대표이사 등 참석자들이 착공 퍼포먼스를 하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국내 최대 수산물 위판장인 부산공동어시장의 현대화를 위한 착공식이 19일 열렸다. &lt;br&gt;&lt;br&gt;사업이 완료되면 부산공동어시장은 콜드체인 시설과 물류 자동화시스템을 갖춘 위생·선진적 밀폐형 위판장으로 재탄생한다.&lt;br&gt;&lt;br&gt;사업의 시행자는 부산공동어시장 조합공동사업법인이다.&lt;br&gt;&lt;br&gt;부지 면적은 6만4247㎡, 연면적은 6만천971㎡다. 총사업비는 2422억원으로 국비가 70% 지원되며 나머지는 시비 20%, 자부담 10%로 각각 충당한다.&lt;br&gt;&lt;br&gt;해수부는 부산공동어시장이 국내 위판 물량의 큰 비중을 차지하는 점을 고려해 공사 중에도 위판 기능을 유지할 수 있도록 했다. 사업 구역을 3개로 나눠 단계별로 철거와 신축 공사를 진행하고 사업 구역 내 대체 위판장도 조성할 예정이다.&lt;br&gt;&lt;br&gt;부산공동어시장은 앞으로 수산물 산지 위판장에서 중앙도매시장으로 전환된다. 사업 기간은 47개월로 오는 2029년 말 준공된다.&lt;br&gt;&lt;br&gt;국비를 지원하는 만큼 시장의 공공성을 강화할 수 있도록 부산시가 관리·감독을 맡는다.&lt;br&gt;&lt;br&gt;부산공동어시장은 국내 최대 규모의 산지 위판장으로 1973년 개장 이후 재정비하지 않아 시설이 노후화했으며 위생에 대한 지적도 계속됐다.&lt;br&gt;&lt;br&gt;부산공동어시장의 지난해 수산물 위판량은 12만6000t이다. 이 중 고등어는 7만4000t으로 국내 위판량의 62%를 차지한다.&lt;br&gt;&lt;br&gt;앞서 2010년 해수부(당시 농림수산식품부)는 관계기관과 업무협약을 체결하며 부산공동어시장 현대화의 추진 기반을 마련했으나 설계 내용, 사업비 등을 놓고 갈등이 일어 설계가 중단되는 등 난항을 겪었다.&lt;br&gt;&lt;br&gt;해수부는 지난해 8월 부산시, 부산공동어시장 조합공동사업법인과 협의체를 구성해 이해관계자 간 이견을 해소했고 같은 해 9월 최종적으로 합의한 설계안을 마련했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘수십억 횡령’ 박수홍 친형, 2심 징역 3년6개월에 법정구속</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/19/5Q2HI6F2CJANHF3UVREAHG4O6I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/19/5Q2HI6F2CJANHF3UVREAHG4O6I/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 06:06:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZDMNTDGIZDQZTBMUYGEYZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박수홍./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박수홍씨의 소속사를 운영하면서 수십억원을 횡령한 혐의로 재판에 넘겨진 친형이 1심에 이어 항소심에서도 실형을 선고받았다. 1심과 달리 항소심은 박씨에게 도주 우려가 있다며 법정 구속했다.&lt;br&gt;&lt;br&gt;서울고법 형사7부(재판장 이재권)는 19일 특정경제범죄가중처벌법상 횡령 혐의로 기소된 박진홍씨에게 징역 3년 6개월을 선고했다. 함께 기소된 배우자 이모씨에 대해서는 1심 무죄 판결을 뒤집고 징역 1년 6개월에 집행유예 2년, 사회봉사 120시간을 선고했다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 유명 연예인의 가족으로 고소인(박수홍) 수익을 사적 부를 축적하는 데 사용해 신뢰를 배반했다”며 “도덕적 해이 등 윤리적 논란을 불러일으켜 악영향을 미쳤다”고 지적했다. 이어 “피고인은 고소인에게 최초로 문제 제기를 받았을 때 진지한 노력 없이 문제 상황을 외면했다”며 “긴 시간이 지나 객관적 증거가 부족하다는 점에 기대 상황을 외면했다”고도 비판했다.&lt;br&gt;&lt;br&gt;박수홍은 지난 2021년 4월 친형 부부를 횡령 혐의로 고소했다. 검찰은 이들이 지난 2011년부터 2021년까지 10년간 박수홍의 매니지먼트를 전담하면서 회삿돈과 박수홍의 개인 자금 등 총 61억7000만원을 횡령한 혐의로 기소했다. 이후 중복된 내역 등을 제외해 40억원대로 공소장 내용을 변경했다.&lt;br&gt;&lt;br&gt;1심은 지난해 2월 박씨에게 징역 2년을 선고했고, 이씨에겐 무죄를 선고했었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시 “‘남산 곤돌라 패소’ 판결 납득 어렵다…즉시 항소”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/OFPHHSSVANFF7AM2XU2ERCE55Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/OFPHHSSVANFF7AM2XU2ERCE55Y/</guid>
-      <dc:creator>김영우 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 05:57:30 +0000</pubDate>
-      <content:encoded>서울시가 19일 법원의 남산 곤돌라 관련 ‘도시관리계획 변경 결정 처분 취소’ 판결에 대해 “즉시 항소하겠다”고 입장을 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UMCJW47I3BEADE4ECOMNAZATDU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남산 곤돌라 조감도. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울행정법원 행정6부(재판장 나진이)는 이날 남산케이블카를 운영하는 한국삭도공업 등이 서울시를 상대로 낸 도시관리계획 변경 결정 처분 취소 소송에서 원고 승소로 판결했다.&lt;br&gt;&lt;br&gt;이에 대해 서울시는 “이번 판결은 도시관리계획 결정 과정에서 서울시가 지킨 절차적 정당성과 법률상 요건을 충분히 반영하지 못했다”며 “항소심에서 도시관리계획 변경의 적법성, 정책의 필요성과 공익성을 명확히 입증할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;한편 서울시는 이번 소송과 별개로 공원녹지법 시행령 개정을 통해 곤돌라 사업을 계속해서 추진한다는 방침이다.&lt;br&gt;&lt;br&gt;서울시는 앞서 2023년 6월 지하철 4호선 명동역 인근 남산예장공원과 남산 정상을 잇는 ‘남산 곤돌라’ 계획을 발표했다. 최대 10명이 탈 수 있는 캐빈 25대를 운영해 832m 구간을 5분 만에 올라갈 수 있게 한다는 계획이었다.&lt;br&gt;&lt;br&gt;지난해 9월 착공식을 열고 공사에 들어갔으나, 그 직후 한국삭도공업 등이 ‘곤돌라 공사를 중단해 달라’는 취지의 행정소송과 가처분 신청을 냈다. 같은 해 10월 서울행정법원이 가처분 신청을 인용하면서 공사가 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[속보] ‘與 선거법·공수처법 강행 충돌’ 박범계·박주민 벌금형 선고유예...의원직 유지</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/19/NLUY4DX6PVDY7AOU3R6XIVAWSU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/19/NLUY4DX6PVDY7AOU3R6XIVAWSU/</guid>
-      <dc:creator>김도연 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 05:15:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AQOCQRKGRDP3HNZ4NPWWEG5GM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 박범계(왼쪽)·박주민 의원이 지난달 28일 서울남부지법에서 열린 ‘국회 패스트트랙 충돌 사건’ 1심 결심 공판이 끝난 뒤 입장을 밝히고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 남산 곤돌라 사업 제동...법원 “남산 용도구역 변경 취소”</title>
