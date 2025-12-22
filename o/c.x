@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>옷에 피묻힌 채 편의점에 ‘벌러덩’… 10대 택시도둑 CCTV 보니 </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/DPYZWF2QBRFLTETVDPRWS5ZUOM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/DPYZWF2QBRFLTETVDPRWS5ZUOM/</guid>
+      <dc:creator>이가영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 22 Dec 2025 22:22:09 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/54FGSQSMDBGKZOD32TRHCUVDQY.gif"&gt;&lt;figcaption&gt;&lt;small&gt;지난 10월 24일 새벽 대전의 한 편의점에 10대 남성이 들어와 계산대에 드러눕고 있다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;무면허‧음주 상태로 택시를 훔쳐 달아나다 주차된 차를 들이받고 도주한 10대가 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;대전둔산경찰서는 도로교통법 위반(무면허 운전‧음주운전 등) 및 절도, 공무집행방해 등 혐의로 A(19)씨를 구속 송치했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 10월 24일 새벽 시간 대전 서구 갈마동에서 영업이 종료된 택시에 무리하게 탑승했다. ‘영업이 끝났다’는 택시 기사의 말에 화가 나 실랑이를 벌이다 기사가 운전석에서 잠시 내린 틈을 타 택시를 훔쳐 달아났다. 그는 2㎞ 가량 훔친 택시를 몰다 서구 월평동 한 아파트 단지에 주차된 차량과 나무를 잇따라 들이받고는 편의점에 숨어들었다. &lt;br&gt;&lt;br&gt;당시 CCTV 영상을 보면 A씨는 헐레벌떡 편의점으로 뛰어 들어오더니 계산대로 직행해 벌렁 드러눕는다. 피를 흘리면서 “아버지가 나를 해치려고 한다”며 숨어들었다고 한다. 하지만 정작 점주가 “뭘 도와줄까요?”라고 말하자 그는 편의점을 빠져나갔다. 이후 경찰에 현행범으로 체포됐다. A씨는 만취 상태에서 “경찰이 죄도 없는 나를 쫓고 있다”며 112 신고까지 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VMWFORNKJVGRHEZWC4DGXNZG4A.gif"&gt;&lt;figcaption&gt;&lt;small&gt;A(19)씨는 택시를 훔쳐 달아난 혐의로 혅장에서 체포됐다. /TV조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;A씨의 범행은 이뿐만이 아니었다. 경찰 조사 결과 A씨는 택시를 훔쳐 달아나기 직전 근처에서 다른 사람과 시비가 붙어 폭행 사건에도 연루돼 있던 것으로 확인됐다. 또한 음주운전 전력으로 면허가 취소된 상태에서 무면허‧음주운전을 했던 것으로 조사됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Z3GGYGRGPZBR5M2TAG7WMJSACQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전둔산경찰서는 도로교통법 위반(무면허 운전‧음주운전 등) 및 절도, 공무집행방해 등 혐의로 A(19)씨를 구속 송치했다고 23일 밝혔다. /둔산경찰서 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘일하는 총리’의 귀환을 맞는 열도...노인들에게 약이 위험한 이유</title>
       <link>https://www.chosun.com/national/2025/12/23/K3ZE457EWRHNPHVQ7VBQ7JWNQE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2025/12/23/K3ZE457EWRHNPHVQ7VBQ7JWNQE/</guid>
@@ -930,15 +939,6 @@
       <description/>
       <pubDate>Sun, 21 Dec 2025 00:55:46 +0000</pubDate>
       <content:encoded>이준석 개혁신당 대표가 21일 김건희 특검에 출석했다. 이 대표가 특검에 출석하는 것은 이번이 처음으로, 특검은 이 대표를 상대로 윤석열 전 대통령의 공천 개입 의혹을 캐물을 예정이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67E3TD2MBVKY7LZR5EO6JXKQVQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;국민의힘 대표 당시 당 공천 과정에 개입했다는 의혹을 받는 이준석 개혁신당 대표가 21일 서울 종로구 KT 광화문빌딩에 마련된 김건희 특검(특별검사 민중기) 사무실에 피의자 조사를 받기 위해 출석하며 입장을 밝히고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 대표는 이날 오전 9시 50분쯤 서울 종로구 광화문 KT웨스트빌딩에 있는 특검 사무실에 업무 방해 혐의 피의자 신분으로 출석했다. 그는 출석하며 “2022년에 윤 전 대통령이 저를 어떻게 대했는지 대부분의 국민들이 다 알고 있다”며 “저랑 윤석열 대통령을 공범으로 엮는 건 굉장히 무리한 시도”라고 했다.&lt;br&gt;&lt;br&gt;‘부당한 공천이 없었다는 입장은 그대로냐’는 취재진의 질문에 이 대표는 “당 대표가 공천 개입을 한다는 것은 그 자체로 언어 모순”이라며 “그런 일이 전혀 없다”고 했다. 그러면서 “저는 일관되게 의심스러운 공천 정황이 있었다는 말을 해왔고, 특검에 지금까지도 자료 제출 등을 성실히 해 왔다”며 “다만 그것이 범죄의 구성 요건에 해당하는지는 법률가들이 알아서 할 일”이라고 했다. 사무실로 들어가면서는 “제가 지금까지 했던 것처럼 있는 그대로 이야기해 드리겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;이 대표는 지난 2022년 6월 지방선거 및 국회의원 등 재·보궐 선거가 치러질 당시 국민의힘 당 대표였다. 이 대표는 국민의힘 대표 시절, 윤 전 대통령이 서울 강서구청장과 포항시장 등의 공천에 개입하려 했다고 주장한 바 있다. 이 대표는 윤 전 대통령이 공천에 개입하려 한 내용이 담긴 통화 녹음이 있다며 “서울 어떤 구청장 공천은 ‘지금 있는 사람들이 경쟁력 없으니까 (다른 사람) 주는 게 좋지 않냐’는 말씀하신 게 있다”는 윤 전 대통령의 구체적인 발언을 언급하기도 했다.&lt;br&gt;&lt;br&gt;특검은 지난 7월 28일과 30일 이 대표의 주거지와 국회의원 사무실 등에 대한 압수 수색을 벌였다. 당시 영장에는 이 대표가 윤 전 대통령 부부와 국민의힘 공천 업무를 방해했다는 혐의가 적시된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;특검은 이 대표에게 윤 전 대통령이 공천에 개입했는지를 조사할 예정이다. 앞서 특검은 지난 12일 이 대표를 불러 조사할 계획이었으나 양측의 조율이 이뤄지지 않아 불발됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>尹, 김건희특검 첫 조사 8시간 반 만에 종료… 6개 혐의 부인</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/20/WRHNQEVDP5EDTIPAOH3BVG4STI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/20/WRHNQEVDP5EDTIPAOH3BVG4STI/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Sat, 20 Dec 2025 11:21:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UNR5TSUV7NI4NGZ2LAHWQXVGTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 20일 오후 서울 종로구 민중기 특별검사팀 사무실에서 첫 피의자 조사를 마치고 법무부 호송차를 타고 나오고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사의 각종 의혹을 수사하는 민중기 특별검사팀이 20일 윤석열 전 대통령에 대한 첫 피의자 조사를 8시간 반 동안 진행하고 종료했다.&lt;br&gt;&lt;br&gt;특검은 이날 오전 10시부터 오후 6시 30분까지 윤 전 대통령을 상대로 조사를 진행하고 조서 열람 등 절차를 마쳤다.&lt;br&gt;&lt;br&gt;특검은 정치자금법 위반, 뇌물 등 6개 범죄 혐의에 대해 집중적으로 캐물으며 미리 준비한 160여 쪽 분량의 질문지를 모두 소화한 것으로 전해졌다. 윤 전 대통령 측은 조사 내내 혐의를 대체로 부인했다고 한다. 윤 전 대통령 변호인단은 “윤 전 대통령은 진술 거부권 행사 없이 아는 부분에 대해 성실히 답변했다”고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 ‘정치 브로커’ 명태균씨로부터 2억7000여 만원어치 여론조사 결과를 무상으로 받고 2022년 6월 국회의원 보궐선거 공천에 개입한 혐의, 김상민 전 부장검사로부터 공직 임명 등을 대가로 1억4000만원 상당의 이우환 화백 그림을 받은 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;지난 2022년 대선 직후 김 여사를 통해 이봉관 서희건설 회장, 이배용 전 국가교육위원장 등으로부터 금거북이와 명품 시계 등을 수수한 혐의, 2021년 말 대선 토론회에서 김 여사와 관련해 각종 허위 사실을 공표한 혐의도 있다.&lt;br&gt;&lt;br&gt;특검은 수사 기한이 일주일 정도밖에 남지 않은 만큼, 윤 전 대통령에 대한 조사를 마무리하고 김 여사와 함께 기소할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“정부가 성과급 약속 어겼다” 철도노조, 23일부터 총파업</title>
