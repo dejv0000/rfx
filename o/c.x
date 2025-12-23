@@ -13,6 +13,69 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김제서 스쿨버스·트럭 충돌, 초등생 등 12명 중경상</title>
+      <link>https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</guid>
+      <dc:creator>김제=김정엽 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 10:02:29 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG7YEG7PX5NN3BD4FNPEDFED74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 전북 김제시 백산면 한 교차로에서 초등학생 통학용 버스와 윙바디 화물차량이 부딪혀 소방대원들이 사고 수습에 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하굣길 초등학생들을 태운 스쿨버스가 교차로에서 대형 화물차와 충돌하는 아찔한 사고가 발생했다. 이 사고로 버스에 타고 있던 학생과 교사 등 13명이 중경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;23일 전북소방본부 등에 따르면, 이날 오후 4시 26분쯤 전북 김제시 백산면 상정리 돌제 교차로에서 초등학교 스쿨버스와 윙바디 화물 트럭이 부딪히는 사고가 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;사고 당시 스쿨버스에는 하교 중이던 초등학생 11명과 운전자 1명, 교사 1명 등 총 13명이 타고 있었다. &lt;br&gt;&lt;br&gt;소방 당국은 사고 발생 13분 만인 오후 4시 39분 현장에 도착, 절단기 등 구조 장비를 동원해 본격적인 구조 작업에 착수했다. 소방 당국이 현장에 도착했을 때 교사 1명과 학생 2명이 찌그러진 차체 사이에 끼어 있었다고 한다. 나머지 학생들과 운전자는 사고 직후 자력으로 대피했다. 소방 당국은 오후 4시 57분쯤 차 안에 고립됐던 3명을 전원 구조하는 데 성공했다.&lt;br&gt;&lt;br&gt;이번 사고로 인한 인명 피해는 현재까지 총 12명으로 집계됐다. 부상자 전원은 스쿨버스 탑승자로 확인됐다. 소방 당국에 따르면 40대 여성 교사 1명과 초등학생 5명 등 총 6명이 중상을 입었으며, 30대 남성 운전자와 학생 5명 등 6명은 경상을 입어 인근 병원으로 분산 이송돼 치료받고 있다. 화물 트럭 운전자와 학생 1명은 큰 부상을 입지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스 영상과 목격자 진술 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 추가 구속 심사 종료...“내란전담부법, 위헌제청 신청할 것”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/23/OXEU5IMWP5E7FDO5BHD5VOTY7A/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/OXEU5IMWP5E7FDO5BHD5VOTY7A/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 09:17:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUCAWWOVZNG3JEZ7PIE74K36E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 명분을 쌓기 위해 평양에 무인기를 투입한 혐의로 기소된 윤석열 전 대통령이 23일 법원의 구속 심사에 출석해 내란 특검팀과 공방을 벌였다. 한편 윤 전 대통령 변호인단은 이날 국회를 통과한 내란전담재판부 설치법에 대해 위헌법률심판 제청을 신청하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 서울중앙지법 형사36부(재판장 이정엽) 심리로 열린 2시간20분간의 구속 심사가 끝난 뒤 브리핑을 열고 “내란전담재판부 설치법은, 특별재판부를 금지한 헌법에 반한다”며 “위헌법률심판 제청 신청 등을 포함한 중대 결심을 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;내란 특검은 앞서 윤 전 대통령을 외환(일반이적) 혐의로 기소하고 내달 18일 1심 구속 만기 전 추가로 구속해 달라고 재판부에 요청했다. 형사소송법상 1심 구속 기간은 최대 6개월이지만, 피고인이 다른 혐의로 기소돼 구속 필요성이 인정되면 법원이 심사를 거쳐 직권으로 구속영장을 발부할 수 있다. &lt;br&gt;&lt;br&gt;내란 특검팀은 이날 심사에서 “은밀히 진행된 비정상적 군사 작전이라는 사건의 특수성상 진술을 짜 맞출 우려가 커 증거인멸 위험이 농후하다”며 구속 필요성을 강조했다. 또 “다른 사건에서 이미 증거인멸 우려로 구속된 이후 바뀐 사정이 없고, 법정에서 하급자에게 책임을 전가하는 피고인의 태도에 비춰 오히려 구속 필요성이 가중된다”고 주장했다. 이날 심사에 특검팀에서는 박억수 특검보 등 6명이 참석했다.&lt;br&gt;&lt;br&gt;반면 윤 전 대통령 측은 “무인기 투입은 북한의 오물 풍선 등에 대응하기 위한 정상적 군사 작전으로, 일반이적죄가 성립하지 않는다”고 주장했다. 북한 오물 풍선 대응은 대통령의 통치 행위로 사법심사 대상이 될 수 없다는 것이다. 또 특검 주장대로 비상계엄 명분 쌓기가 목적이었다면 이는 ‘내란 준비 행위’인데 따로 떼어 일반이적죄로 기소한 것은 ‘이중 기소’라고도 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 직접 “재판에 불출석하거나 증거를 인멸하고, 공범이나 관련자를 회유할 우려도 없다”고 말한 것으로 전해졌다. 또 “기본적인 대북 정책 기조는 ‘전략적 인내’였다”며 “김용현 전 국방장관에게도 화생방 공격 등 국가안보에 중대한 위해가 없는 한 사전 검토 없는 군사행동은 하지 말라는 취지로 말했다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 도널드 트럼프 미국 대통령과 통화한 일화를 꺼내며 기소의 부당성을 주장하기도 했다. 윤 전 대통령은 작년 11월 트럼프 당시 당선인과 약 10분간 통화했는데, 트럼프가 먼저 오물 풍선 얘기를 꺼내자 “추가로 화생방 도발이나 인명 피해가 발생하지 않으면 괜찮다. 대통령의 최대 임무는 전쟁을 막는 것”이라고 답했다고 했다. 전쟁 억지를 최대 임무로 여겼는데 적국에 군사상 이익을 줬다는 일반이적죄를 적용하는 건 부당하다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 특검과 윤 전 대통령 양측에 오는 12월 30일까지 추가 의견서 제출을 요구했다. 윤 전 대통령의 추가 구속 여부는 그 이후에 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>아산 디스플레이 공장서 끼임 사고로 1명 숨져</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/23/WCTXOMUWDRGNDMOTK7EUCROG5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/23/WCTXOMUWDRGNDMOTK7EUCROG5E/</guid>
+      <dc:creator>아산=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 09:12:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQTGNZVGNRDAMDCMYZTCYTBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 아산 삼성디스플레이 공장에서 협력업체 직원이 기계에 끼어 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 23일 오후 12시 30분쯤 아산시 탕정면 삼성디스플레이 아산2캠퍼스에서 A(60대)씨가 작업 중 기계에 끼이는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 다쳐 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;협력사 소속 직원인 A씨는 이날 생산 라인 관련 설비 보완·점검 작업을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 사고 현장 부분 작업 중지 명령을 내리고 사고 조사에 착수했다. &lt;br&gt;&lt;br&gt;노동 당국 관계자는 “원·하청 모두 중대재해처벌법 적용 업체로 파악됐다”면서 “정확한 사고 경위와 함께 산업안전보건법 및 중대재해처벌법 위반 여부를 수사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘탈북민’ 대신 ‘북향민’으로 변경?…통일부 “조속한 시일 내 결론”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/ZCPHUEJP7VDF7IAEAR2LUKRGUI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/ZCPHUEJP7VDF7IAEAR2LUKRGUI/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 09:01:04 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWCOJYMUZWGMLDHA4WCNRZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정동영 통일부 장관. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일부가 현재 사용 중인 ‘북한이탈주민’이나 ‘탈북민’ 용어를 ‘북향민(北鄕民)’으로 변경하는 방안을 신속하게 결정해 추진할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;23일 통일부 당국자는 언론 브리핑에서 탈북민 호칭 변경 추진 경과에 관한 질문에 “조속한 시일 내에 결론을 내서 (추진)해 나갈 계획”이라고 답했다.&lt;br&gt;&lt;br&gt;앞서 정동영 통일부 장관은 지난 19일 이재명 대통령에게 내년 업무계획을 보고하면서 ‘북향민’ 표현을 사용했다.&lt;br&gt;&lt;br&gt;정 장관은 “탈북자를 북향민으로 명칭을 변경하는 안에 대한 의견을 수렴 중”이라며 “탈북민들 전원이 기존 명칭, 탈북자라는 명칭에 대한 강한 거부감을 표시하는 것이 사실”이라고 말했다.&lt;br&gt;&lt;br&gt;이에 이 대통령과 김민석 총리도 업무 보고 당시 탈북민 대신 북향민 용어를 썼다.&lt;br&gt;&lt;br&gt;통일부는 이미 간부회의 등 내부적으로는 북향민 용어를 사용하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정 장관은 지난 9월 경기권 통일플러스센터 개관식 축사에서도 “북한이탈주민이 제일 싫어하는 단어가 ‘탈(脫)’자”라며 “탈북, 어감도 안 좋다. ‘이북에 고향을 두고 오신 분들’이라 해서 ‘북향민’이 제일 (지지가) 많은 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>누범·집유 중 술 먹고 운전하면 차 뺏는다</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/23/4RNKISQT3FEAPOITEYM7PVQBAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/4RNKISQT3FEAPOITEYM7PVQBAM/</guid>
+      <dc:creator>방극렬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 08:30:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTAZTCGE2GCNRUGA2DANDFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 인천 중구 월미도 인근 도로에서 인천중부경찰서 경찰이 연말연시 음주 운전 집중 단속을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전으로 재판을 받고 있거나 집행유예나 누범(累犯) 기간에 술을 마시고 운전한 경우 차량이 몰수된다. 음주 운전 재범률이 10년째 40%를 웃도는 상황에서, 상습적인 범행을 원천 차단하기 위해 엄벌에 나서는 것이다.&lt;br&gt;&lt;br&gt;대검찰청은 23일 경찰청, 법무부 범죄예방정책국과 협력해 이 같은 내용의 ‘음주 운전 근절을 위한 종합 대책’을 수립, 시행한다고 밝혔다. &lt;br&gt;&lt;br&gt;대검은 우선 음주 운전자의 차량을 압수·몰수하는 기준을 강화했다. 형 집행 종료나 면제 후 3년이 지나지 않은 누범 또는 집행유예 기간이나, 음주 운전으로 재판 중인 상황에서 다시 음주 운전을 한 경우 차량을 압수·몰수한다. 5년 내 음주 운전 전력이 있는 사람이 혈중알코올농도 0.2% 이상 상태에서 다시 음주 운전을 해도 차량을 압수·몰수한다. &lt;br&gt;&lt;br&gt;검찰은 그간 음주 운전으로 사망 사고를 내거나, 세 차례 이상 음주 운전 전과가 있는 사람이 다시 음주 운전을 하는 등의 경우에만 차량을 몰수했다. 지난 2023년 7월부터 지난달 30일까지 총 349대가 몰수된 것으로 집계됐다.&lt;br&gt;&lt;br&gt;검찰은 또 음주 운전자에 대한 법원의 처벌이 낮은 점을 감안해 구형량을 높이기로 했다. 특히 대법원 양형 기준에 가중 처벌 요인으로 명시된 ‘음주 운전으로 도로 교통에 위험을 유발한 경우’ ‘공무 수행에 지장을 초래한 경우’ 등을 재판에서 적극 입증해 엄벌에 처할 방침이다. 이 밖에 상습·재범 음주 운전자에 대해선 집행유예 기간 동안 보다 엄격한 보호관찰 등을 통해 적극 관리하기로 했다.&lt;br&gt;&lt;br&gt;정부가 음주 운전 단속 강화에 나선 건 지난 10년간 음주 운전 재범률이 좀처럼 낮아지지 않고 있기 때문이다. 경찰청 통계에 따르면 작년 한 해 음주 운전 단속에 적발된 사람은 11만7091명으로 10년 전인 2015년(24만3100명) 대비 51.8% 감소했다. 최근 5년간 음주 운전 사망자 수도 287명(2020년)에서 138명(2024년)으로 줄었다. 그러나 재범률은 작년(43.84%)과 2015년(44.42%)이 큰 차이가 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;대검 관계자는 “음주 운전 차량의 몰수는 재범을 원천적으로 차단하는 가장 유효한 조치”라며 “앞으로도 음주 운전 범죄에 적극 대응해 근절할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>사실혼 관계 남성 흉기로 살해한 60대 女, 구속 송치</title>
+      <link>https://www.chosun.com/national/incident/2025/12/23/ZNGWNMMEYNGUNOARSSITLCNVTM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/23/ZNGWNMMEYNGUNOARSSITLCNVTM/</guid>
+      <dc:creator>인천=이현준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 08:26:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYWMZLGGM4GMYZSGE2GINZQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사실혼 관계의 70대 남성에게 흉기를 휘둘러 살해한 60대 여성이 검찰에 넘겨졌다. &lt;br&gt;&lt;br&gt;인천 중부경찰서는 살인 혐의로 A(여·61)씨를 구속해 검찰에 송치했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 18일 오전 4시쯤 인천시 중구 운북동의 한 빌라에서 사실혼 관계인 B(71)씨를 흉기로 여러 차례 찔러 숨지게 한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;A씨는 범행 후 직접 112에 전화를 걸어 “사람이 죽었다”고 신고했으며, 현장에 출동한 경찰은 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;A씨는 경찰에 “B씨와 술을 마시다 경제적인 어려움 등을 이유로 다투다 범행했다”고 진술한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “B씨는 과다 출혈로 숨졌다는 소견을 국립과학수사연구원으로부터 받았다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>참여연대 “김병기, 대한항공 숙박권 수수 의혹 스스로 밝혀야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/4YUWWEZA5VC5ZARUJBVJSZX5DM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/4YUWWEZA5VC5ZARUJBVJSZX5DM/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 08:24:04 +0000</pubDate>
+      <content:encoded>김병기 더불어민주당 원내대표가 대한항공으로부터 호텔 숙박권을 무상으로 제공받았다는 의혹과 관련해 참여연대가 김 원내대표가 스스로 의혹을 밝히고 나설 것을 촉구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MKPOSPUIOFM3NBLVKQSJPYPC3Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 원내대표가 23일 서울 여의도 국회에서 원내대표 회동을 위해 이동하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;참여연대는 23일 논평을 내고 “‘다른 의원실처럼 (숙박권이) 보좌직원에게 전달돼 보좌진과 함께 사용했고 구체적인 취득 경위는 모른다’는 김 원내대표의 주장은 어불성설”이라며 “(숙박권은) 직무 관련자에게 받은 금품으로 청탁금지법 위반 가능성이 크고 정치적, 윤리적 책임도 피할 수 없다”고 밝혔다.&lt;br&gt;&lt;br&gt;참여연대는 또 “김 원내대표는 의혹이 제기된 당사자로서 관련 사실을 명명백백히 밝혀라“라며 ”국회는 즉각 윤리특별위원회를 구성해 김 원내대표가 밝힌 ‘다른 의원실’이 누구인지, 국회 국토교통위원회와 정무위원회 소속 국회의원들의 청탁금지법과 이해충돌방지법 위반 여부를 철저히 조사해야 한다”고 주장했다.&lt;br&gt;&lt;br&gt;앞서 지난 22일 언론 보도를 통해 김 원내대표가 지난해 11월 대한항공에서 받은 호텔 숙박 초대권으로 2박 3일간 165만 원 상당의 최고급 객실과 서비스를 이용했다는 의혹이 제기됐다. &lt;br&gt;&lt;br&gt;김 원내대표는 지난 2022년 7월부터 지난해 5월까지 국회 국토교통위 소속이었다. 올해 6월까지는 정무위에서 활동하기도 했다. 당시 국토위에선 대한항공과 아시아나항공 합병 건을, 정무위에선 대한항공 마일리지 문제를 논의했기 때문에 청탁금지법 위반 소지도 함께 거론되고 있다.&lt;br&gt;&lt;br&gt;한편 김 원내대표는 해당 의혹에 대해 “특정 상임위의 여야 다른 의원실처럼 의원실로 대한항공 숙박권이 보좌 직원에게 전달돼 보좌진과 함께 사용했던 것으로 기억하는데, 구체적인 취득 경위는 모른다”고 해명했다. 23일 국회 원내대책회의 이후 취재진이 해당 의혹에 대해 묻자 “‘적절하지 못했다’ 이런 이야기를 듣고 싶은 건가”라며 “맞아요. 됐어요?”라고 답하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>吳측 “지선 끝난 뒤 재판 진행 원해”... 법원 “6개월 안에 끝내야”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/23/ED3PZPFF4ZF2LFOJD5V2ATUMKM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/ED3PZPFF4ZF2LFOJD5V2ATUMKM/</guid>
@@ -832,25 +895,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DAMZSG43GKNJZMVSTANZRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청 청사 전경./ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고수익을 미끼로 고객·지인으로부터 수백억 원을 가로챈 50대 여성이 구속됐다. &lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 고객으로부터 247억원을 가로챈 혐의(특가법 위반)로 A(50대·여)씨를 구속했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨의 범행은 증권사 직원이라서 쉽게 가능했다. 그는 2022년 11월∼2025년 8월 증권사에 근무하고 있는 점을 내세워 고객이나 지인 등 11명에게서 투자금 명목으로 돈을 모았다. 이들에게 받은 돈만 247억원에 달한다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 피해자들에게 “직원 전용 투자상품이나 기업 단기대출 상품 등에 투자하면 한 달에 3∼5％의 수익금을 지급하겠다”고 속이며 자신 계좌로 입금을 유도했다. &lt;br&gt;&lt;br&gt;그러나 피의자가 근무했던 증권사에는 직원 전용 상품은 존재하지 않았다. A씨는 피해자들로부터 입금받은 돈을 다른 금융 상품에도 투자하지 않은 것으로 밝혀졌다. A씨가 증권사 직원이라서 피해자들이 감쪽같이 속은 것이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 피해자들에게 받은 돈 대부분을 생활비 등 개인 용도로 사용했다”며 “투자금 회수를 요구하는 피해자들에겐 돌려막기 용도로 사용했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>전 연인 살해 후 시신 유기한 김영우, 구속 기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/22/M4KABMMHJBAINFQLXLH4WI5LTE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/22/M4KABMMHJBAINFQLXLH4WI5LTE/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 09:47:03 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OCUJ3F54WNB2FBRA4YV6AZQFBU.png"&gt;&lt;figcaption&gt;&lt;small&gt;청주 실종 여성 살해 피의자 김영우(54). /충북경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 연인을 살해한 후 시신을 유기한 청주 실종 여성 살해범 김영우(54)가 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;청주지검은 살인·시체 유기 혐의 등으로 김영우를 구속 기소했다고 22일 밝혔다. 검찰은 또 김영우의 재범 위험성이 높다고 보고 전자장비 부착 명령과 보호 관찰 명령도 함께 청구했다.&lt;br&gt;&lt;br&gt;김영우는 지난 10월 14일 오후 9시쯤 충북 진천군 문백면 한 노상 주차장에 주차된 전 연인 A(50대)씨의 차량에서 그가 다른 남성을 만난다는 데 격분해 흉기로 10여차례 찔러 숨지게 한 혐의를 받는다.&lt;br&gt;&lt;br&gt;진천에서 오폐수처리 업체를 운영하는 김영우는 범행 이후 A씨의 시신을 자신의 차량에 옮겨 싣고 다니다 이튿날 거래처인 음성군 한 업체 내 오폐수처리조에 유기했다. &lt;br&gt;&lt;br&gt;경찰은 김영우의 자백을 받아 실종 44일 만에 A씨의 시신을 수습했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “김영우가 죄에 상응하는 처벌을 받을 수 있도록 공소 유지에 만전을 기하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>홍천까지 기차 달린다… 용문~홍천 광역철도 예타 통과</title>
-      <link>https://www.chosun.com/national/regional/2025/12/22/LOGOBQF5RRH5VEKJOVDR5VPKDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/22/LOGOBQF5RRH5VEKJOVDR5VPKDY/</guid>
-      <dc:creator>홍천=정성원 기자</dc:creator>
-      <description>강원 홍천 지역 주민들의 100년 숙원이 마침내 현실로 다가왔다.
-강원 홍천군은 용문~홍천 광역 철도 조성 사업이 기획재정부 제12차 재정사업평가위원회 심의를 거쳐 예비타당성 조사에 최종 통과했다고 22일 밝혔다.</description>
-      <pubDate>Mon, 22 Dec 2025 09:14:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVWAZGI5UBCGTJS2FJZD6OPYUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;용문~홍천 광역철도 조기 착공 염원 조형물 /홍천군 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강원 홍천 지역 주민들의 100년 숙원이 마침내 현실로 다가왔다.&lt;br&gt;&lt;br&gt;강원 홍천군은 용문~홍천 광역 철도 조성 사업이 기획재정부 제12차 재정사업평가위원회 심의를 거쳐 예비타당성 조사에 최종 통과했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;용문~홍천 광역 철도는 서울 청량리역에서 경기 양평군 용문역을 잇는 경의중앙선을 홍천까지 연장하는 사업이다. 총 연장 32.7㎞로, 사업비는 1조995억원 규모다.&lt;br&gt;&lt;br&gt;철도가 개통되면 버스로 45분가량 걸리던 용문까지 이동 시간이 24분으로 단축되고, 서울 청량리역까지는 1시간 30분대 접근이 가능해진다. 개통 목표 시점은 2034년이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BKMKZNIIYRECJG5SWJREMPV55U.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;홍천은 그동안 철도망이 닿지 않는 강원도 유일의 지자체로, 철도 유치는 홍천 군민들의 오랜 염원이었다.&lt;br&gt;&lt;br&gt;이 사업은 2007년 한 차례 예비타당성 조사까지 진행됐으나 경제성 부족을 이유로 무산된 바 있다. 이후 18년 만에 다시 추진돼 예타 문턱을 넘었다.&lt;br&gt;&lt;br&gt;홍천군 관계자는 “용문~홍천 광역철도는 홍천의 미래 신성장 동력을 이끌 핵심 기반시설”이라며 “예비타당성조사라는 큰 관문을 넘은 만큼 조속한 착공으로 이어질 수 있도록 후속 절차에 적극 대응하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>군용철교, 돛단배, 지게꾼… 1900년대 초 개항기 인천 촬영 영상 공개</title>
       <link>https://www.chosun.com/national/regional/2025/12/22/BQDACCYSJFGEDBNJ4DAXNX5ZH4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/22/BQDACCYSJFGEDBNJ4DAXNX5ZH4/</guid>
@@ -869,24 +913,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRGEZJXGU4DAZJZMRQTKMTDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;22일 경남 익명의 나눔천사가 경남사회복지공동모금회에 남기고 간 성금과 손편지./경남사회복지공동모금회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;22일 오후 1시쯤. 경남사회복지공동모금회(모금회)에 발신자 번호 표시가 제한된 전화 한 통이 걸려 왔다. 직원들이 급히 사무실 밖을 나가 보니 모금회 사무국 모금함 뒤에 현금 5352만7670원과 함께 손편지가 놓여 있었다. &lt;br&gt;&lt;br&gt;손편지에는 “다사다난했던 한 해가 저물어 간다”며 “난치병으로 힘겹게 투병 중인 환자와 가족들에게 조금이나마 도움이 되길 바란다”는 내용이 적혀 있었다. &lt;br&gt;&lt;br&gt;또 “내년에는 우리 이웃들이 웃고 즐겁고 행복한 날들이 더 많아지길 예수 그리스도의 이름으로 기도드린다”고 했다. &lt;br&gt;&lt;br&gt;경남모금회에는 매년 이맘때쯤이면 온정을 담은 ‘천사’의 선물이 도착한다. 몇 년째 신분을 철저히 숨겨 직원들도 누군지 모른다. 연말이나, 사회적인 이슈가 생길 때마다 같은 방식으로 기부금을 전해올 뿐이다. &lt;br&gt;&lt;br&gt;경남모금회 직원들은 이날 성금 역시 손편지 필체, 발신자 번호 표시 제한 전화 등을 근거로 같은 기부자라고 보고 있다. &lt;br&gt;&lt;br&gt;얼굴 없는 천사의 선행은 지난 2017년부터 시작됐다. 이웃 돕기 성금으로 약 2억5900만원 기부를 시작으로 매년 연말 수천만원을 기부했다. 또 2022년 서울 이태원 참사, 2023년 튀르키예·시리아 지진과 호우 피해, 경기 화성 공장 화재 등 때도 그는 손편지와 함께 거금을 냈다. &lt;br&gt;&lt;br&gt;이날까지 총 누적 기부 금액은 약 7억4600만원에 달한다. 성금에 10원짜리 동전까지 들어있는 걸 보면 매년 기부를 위해 적금을 넣는 것으로 추정된다. &lt;br&gt;&lt;br&gt;경남모금회는 이날 성금을 기부자의 뜻대로 난치병 환자와 취약 계층을 위한 지원 사업에 사용할 예정이다.&lt;br&gt;&lt;br&gt;경남모금회 관계자는 “매년 크리스마스와 연말연시를 앞두고 이어지는 익명의 나눔이 지역사회에 큰 울림을 주고 있다”며 “기부자의 뜻이 도움이 필요한 이웃들에게 온전히 전달될 수 있도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>참을걸, 베풀걸, 즐길걸... 연말 떠올리는 ‘3대 후회’ [고혜련의 삶이 있는 풍경] (7)</title>
-      <link>https://www.chosun.com/national/weekend/2025/12/13/CZ5YOTTI7FGZTEY7ZDBQYWQKE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/weekend/2025/12/13/CZ5YOTTI7FGZTEY7ZDBQYWQKE4/</guid>
-      <dc:creator>고혜련 칼럼니스트</dc:creator>
-      <description/>
-      <pubDate>Fri, 12 Dec 2025 15:39:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/V62RQGD7S5DGPGFGDAV6YXPWQI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/게티이미지뱅크&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;침잠의 계절, 추운 겨울이 다시 찾아왔다. 푸르고 무성했던 나무들이 벌거벗은 창밖을 내다보며 지난 한 해를 자꾸 되돌아보게 된다. 마치 인간에게 그런 기회를 주기 위해 하늘이 짜놓은 4계절용 각본 같다. 그러면서 보다 나은 또 한 해를 맞이하라고.&lt;br&gt;&lt;br&gt;“껄·껄·껄이 뭐게?” 누군가 한 모임에서, 연말이면 출몰하는 퀴즈를 내겠단다. “그게 뭔 소리? 노인네 웃음소리야?” 여럿이 몇 가지를 답이라 내놨지만 친구는 계속 고개를 젓는다. 결국 그의 응답은 “참을걸·베풀걸·즐길걸”의 준말이란다. 한 해가 저무는 이때 누구나 겪는 ‘3대 후회’ 목록이라나? 고개가 끄덕여졌다. 그중 내게 가장 후회막급인 것은 ‘베풀걸’이다. ‘베풀걸’은 상대가 있고 돌이킬 수도 없는 것이니 더 그렇다. 특히 다신 만날 수 없는 부모님에 대한 불효를 지적하는 소리로 들려 한숨이 절로 나오는 최악의 후회 목록이다.&lt;br&gt;&lt;br&gt;친정어머니가 가끔 혼자 말을 하셨었다. “암, 누구나 그때가 돼야 알지, 모른다 몰라!” 난 그 자조 어린 말씀을 ‘노인네 푸념’ 정도로 대충 넘겼다. 그다음에도 되풀이되길래 여쭸다. 당신 어머니에 대한 죄책감이란다. ‘90이 넘은 노인이 30년 전 돌아가신 당신 어머니를 그리워하고 마음 아파하다니 참!’ 하고 무시했다. 당신이 말씀했던 ‘그때’가 내게 도달한 걸까? 나 역시 몇 해 전, 돌아가신 어머니가 내 가슴속을 떠나지 않고 사무쳐온다. 또 그때 그 말씀이 남편과 사별해 24년을 홀로 사신 절박한 외로움과 딸자식의 무정함에 대한 서운함을 떨쳐버리려는 자위용이었음을 새삼 깨치게 됐다. 그 이후 어머니는 요양병원, 대학병원 응급실을 전전하다 결국 12월 31일 혼자 눈을 감으셨다. 직장 일은 이미 그만뒀지만 잡생각에 나는 여전히 초조·분주했던 것이다. 늙은 어머니의 외로움, 병든 몸은 인생사 통과의례인 양 여겨 별일이 아니었던 거다.&lt;br&gt;&lt;br&gt;불과 얼마 전 돌아가신 시어머니에 대한 죄책감도 후회막급이다. 며느리라는 이유로 더 무관심했던 것. 경제적 여유가 나았던 그분은 의사·간호사가 상주하는 고가의 실버타운에서 10여 년 머무셨다. 별세 3년 전에는 당신 공간에 간병인도 두고 친구인 양 지내셨으니 더 모른 척했다. 며느리가 자주 들르면 간병인도 불편하고 말년에 시어머니 통장에 관심이 있어서라는 오해를 살 수도 있다는 주위 조언이 그럴싸해서였다. 그러나 장례식 후 실버타운에서 대기자의 후속 입주를 위해 급히 실어 온 유품을 정리하면서 가족이 자주 찾지 않는 환자의 안위는 간병인에게 달려 있다는 것을 말해주는 물증들이 속속 나왔다. 그곳에서 3끼 식사와 청소, 취미 프로그램 등 웬만한 것을 다 공급받는 어머니 방안 3면 벽장은 온갖 물건들로 넘쳤다. 상표를 떼지도 않은 옷·화장품·건강식품과 한약재 등. 어머니의 각종 통장을 정리하고 짐 속에서 나온 그분의 일기식 메모를 받아보면서 죄책감에 얼어붙었다. 자주 바뀌는 간병인들과 방문자들의 환심을 사기 위해 어머니가 얼마나 노력했는가를, 여기저기 불필요한 물건을 구입해 그 대금을 얼마나 많이 부쳐줬는가를 알게 됐다. 간병인이 제멋대로 나들이를 하면서 낯선 이를 품앗이로 대충 들여도 내색도 못 하셨던 것이다. 어렵고 무서워서. 속죄의 마음으로 메모를 보면서 눈물이 절로 흘렀다. &lt;br&gt;&lt;br&gt;이런 류의 후회는 인생의 반면교사다. 물론 또 잊고 반복하리라. 후회의 연속은 이미 수천 년간 유전돼 온 인생사 고질병이란 불길한 예감도 든다. 두 번의 막급한 아픔을 겪은 내가 이제 좀 성숙해져 내년엔 그런 자책에서 벗어나길 바란다. “후회는 집착이며 지금을 놓친 마음의 결과다. 다 털어내고 지금에 감사하며 가진 걸 베푸는 자세만이 나와 세상을 따뜻하게 하는 힘을 길러준다”는 한 스승님의 말씀대로 애써보련다. 더 참고 베풀리라! 인간에게 모두 주어진 ‘그때’가 내게도 성큼성큼 다가오고 있는 거다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>무면허·음주 운전에 사고 낸 10대 잡고보니 ‘택시 도둑’ </title>
-      <link>https://www.chosun.com/national/regional/2025/12/22/B5A3HKABBRGM7N3GR4IUVIM5KA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/22/B5A3HKABBRGM7N3GR4IUVIM5KA/</guid>
-      <dc:creator>대전=우정식 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 08:46:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4GEXC5HOZAC5NA5TDDI7RQ23U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;택시를 훔쳐 무면허·음주 운전을 하다 주차된 차를 들이받고 도주한 남성이 검찰에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전둔산경찰서는 도로교통법 위반(무면허 운전·음주 운전 등) 및 절도, 공무집행 방해 등 혐의로 A(19)씨를 구속 송치했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 10월 24일 오전 1시쯤 대전 서구 갈마동에서 영업이 종료된 택시에 무리하게 탑승한 뒤 택시 기사와 실랑이를 하다가 기사가 운전석에서 잠시 내리자 택시를 훔쳐 타고 달아난 혐의를 받는다.&lt;br&gt;&lt;br&gt;그는 훔친 택시를 몰다가 서구 월평동의 한 아파트 단지에 주차된 차와 나무를 들이받고 달아났다. 이어 출동한 경찰을 발견한 뒤 근처 편의점에 숨어 있던 A씨는 거리로 다시 나오다 경찰에 현행범으로 체포됐다.&lt;br&gt;&lt;br&gt;경찰 조사 결과 A씨는 택시를 훔쳐 타고 달아나기 직전 근처에서 다른 사람과 시비가 붙어 폭행 사건에도 연루된 것으로 파악됐다.&lt;br&gt;&lt;br&gt;A씨는 음주운전 전력으로 면허가 취소된 상태에서 훔친 택시로 무면허·음주운전을 했던 것으로 조사됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 운세] 12월 23일 화요일 (음력 11월 4일 丙寅)</title>
       <link>https://www.chosun.com/national/national_general/2025/12/22/GXMQQNDYONALVH7G4EP3M4XNDI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/GXMQQNDYONALVH7G4EP3M4XNDI/</guid>
@@ -899,33 +925,6 @@
 		&lt;!-- url_start --&gt;&lt;a style="border-bottom: none; text-decoration: none; font-family: Noto Sans KR,AppleSDGothic,apple sd gothic neo,noto sans korean,noto sans korean regular,noto sans cjk kr,noto sans cjk,nanum gothic,malgun gothic,dotum,arial,helvetica,MS Gothic,sans-serif !important; color: #376DC8; font-size: 18px; font-weight: 700; display: block; line-height: 1.5; text-align: left;word-break: keep-all;" target="_top" href="https://members.chosun.com/membership/benefit/index.html?utm_source=online&amp;utm_medium=notice&amp;utm_campaign=membership&amp;utm_content=fortune1"&gt;조선멤버십 혜택 보기 →&lt;/a&gt;&lt;!-- url_end --&gt;
 		&lt;style&gt; @media (prefers-color-scheme: dark) { .text--blue--scribe{color: #1b9fff !important;} } &lt;/style&gt;&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>대통령집무실·국회 들어설 세종시 국가상징구역 마스터플랜 확정</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/22/BXWGIX3YMNAUDA7W4TOPGTKMHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/22/BXWGIX3YMNAUDA7W4TOPGTKMHQ/</guid>
-      <dc:creator>세종=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 07:42:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AQOJXPGYIRB2TFGVFUDO35E4ZU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 국가상징구역 조감도. /행정중심복합도시건설청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대통령 세종집무실과 국회세종의사당이 들어서는 세종시 국가상징구역 조성을 위한 밑그림이 그려졌다.&lt;br&gt;&lt;br&gt;행정중심복합도시건설청(행복청)은 한국토지주택공사(LH)와 공동으로 추진한 ‘국가상징구역 마스터플랜 국제공모’의 최종 당선작으로 에이앤유디자인그룹건축사사무소의 ‘모두가 만드는 미래’를 선정했다고 22일 밝혔다.&lt;br&gt;&lt;br&gt;당선작은 행복도시의 자연 경관을 우리 고유의 풍경인 ‘산수’로 해석해 대한민국을 대표하는 국가적 풍경을 구현한 것으로 평가받았다.&lt;br&gt;&lt;br&gt;특히 국가상징구역을 관통하는 도로(절재로) 일부를 지하화하고, 그 상부를 시민 공간인 ‘모두를 위한 언덕’으로 조성해 북측의 세종집무실과 남측의 국회세종의사당을 하나의 축으로 연계한 것이 심사위원들로부터 높은 점수를 받았다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W5DUE3QWINDTXM2DS7CEQZATJ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 국가상징구역 시민공간 조감도. /행정중심복합도시건설청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;당선작은 앞서 진행된 국민 참여 투표에서도 13개 팀 중 5위를 차지했다.&lt;br&gt;&lt;br&gt;구자훈 심사위원장은 “국가 상징성과 시민 일상을 통합적으로 설계한 점을 높게 평가했다”면서 “세종이 지향하는 행정수도 위상과 국가 균형 발전의 비전을 설득력 있게 공간화한 점이 인상적이었다”고 밝혔다.&lt;br&gt;&lt;br&gt;행복청은 이번 당선작을 토대로 국가상징구역 조성을 위한 후속 절차에 착수한다. ‘국가상징구역 마스터플랜 구체화 용역’을 추진해 당선작의 공간 구조와 시설 배치 등을 법정 도시계획에 반영하고, 2026년까지 시민 공간 등 주요 시설 조성을 위한 세부 실행 계획을 수립한다는 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/B5A5QNI6RZBMNHB3KCXX4T5I7Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;세종시 국가상징구역 종합계획도. /행정중심복합도시건설청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행복청과 국회사무처는 대통령 세종집무실과 국회세종의사당의 건축 설계 공모도 각각 추진할 계획이다.&lt;br&gt;&lt;br&gt;강주엽 행복청장은 “마스터플랜 당선작이 확정되면서 세종시가 실질적인 행정수도로 완성하기 위해 한 걸음 더 나아가게 됐다”고 말했다.&lt;br&gt;&lt;br&gt;세종시는 앞으로 국가상징구역 조성이 차질 없이 진행될 수 있도록 행복청 및 관계기관과 긴밀히 협력하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;최민호 세종시장은 “국가상징구역은 단순한 건축물의 집합체가 아닌 대한민국의 미래 100년을 설계하는 상징적 공간”이라며 “대한민국의 행정과 입법이 한 공간에서 조화를 이루며 국민에게 열린 공간으로 활용될 것”이라고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 도심 총성 소동… 무슨 연유로 자기 머리에 가스총 쐈나 </title>
-      <link>https://www.chosun.com/national/2025/12/22/NVWCTWFCVVCFNM7DOBCB7ELTVI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/22/NVWCTWFCVVCFNM7DOBCB7ELTVI/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 07:04:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LGYHD4Y3RRPKPFHGDUDQTFAZXQ.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;호신용 가스총. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 도심의 한 건물에서 40대 보험사 직원이 호신용 가스총을 자신의 머리에 발사해 병원 치료를 받고 있다. &lt;br&gt;&lt;br&gt;22일 대구 중부경찰서에 따르면 이날 오전 9시쯤 중구 삼덕동의 한 보험사 건물 10층에서 A씨가 호신용 가스총을 자신의 관자놀이에 발사했다. &lt;br&gt;&lt;br&gt;폐쇄회로(CC)TV 영상에는 오전 7시 50분쯤 건물 지하 주차장에 주차한 뒤 9층으로 이동한 후 비상구 계단에 머무르다 10층으로 올라가 A씨 스스로에게 가스총을 쏜 것으로 확인됐다. &lt;br&gt;&lt;br&gt;사고 당시 쇼크로 의식을 잃은 A씨는 인근 병원으로 이송돼 치료를 받고 있으며 생명에는 지장이 없는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 낱개로 탄환을 6발까지 넣을 수 있는 리볼버식 권총 모양의 호신용 가스총을 사용했으며 법적 허가를 받아 개인 소유 총기인 것으로 확인됐다. &lt;br&gt;&lt;br&gt;대낮부터 총성이 울리면서 건물 안에 있던 시민들은 놀란 가슴을 쓸어내렸다. 사고 당시 “빵” 소리에 놀라 건물에서 뛰쳐나온 한 시민이 피를 흘린 채 쓰러져 있는 A씨를 발견하고 경찰에 신고했다.&lt;br&gt;&lt;br&gt;호기심인지 자살 충동인지, 당시 A씨가 심경에 어떤 변화가 있었는지, 왜 자신에게 총을 쏴 자해한 이유는 아직 밝혀지지 않은 상태다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사고가 난 가스총은 폭음 소리와 함께 가스가 분사되기 때문에 치명상을 입힐 정도는 아니다”며 “A씨 치료가 마무리되면 구체적인 사고 경위와 동기 등을 조사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>올 겨울 저체온증 사망자 첫 발생…질병청 “고령층 겨울철 건강관리 유의해야”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/22/TEUF7XIUCZE67JWUWR2K77XYUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/22/TEUF7XIUCZE67JWUWR2K77XYUE/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 03:57:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FNM2E3NS6FJF5GUXNEVGOSEQPE.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;절기상 동지인 22일 오전 서울의 최저 기온이 -5.9도까지 떨어진 가운데, 광화문사거리에서 출근길 시민들이 발걸음을 재촉하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이번 겨울 저체온증으로 인한 사망자가 처음으로 발생했다. &lt;br&gt;&lt;br&gt;22일 질병관리청은 이달 1~18일까지 한랭질환 응급실 감시체계를 운영한 결과, 63명의 한랭질환자가 신고됐다고 밝혔다. 특히 지난 18일 전남 장성에서 80대 여성이 한랭질환으로 사망한 것으로 신고됐다. 한랭질환 응급실 감시체계는 전국 응급의료기관 500여곳을 대상으로 내년 2월 28일까지 시행된다.&lt;br&gt;&lt;br&gt;한랭질환은 추위가 직접 원인이 돼 인체에 피해를 줄 수 있는 질환이다. 저체온증, 동상, 동창 등이 대표적이다. 18일까지 신고환자 중 93.7%가 저체온증이고, 68.3%는 65세 이상 고령자다.&lt;br&gt;&lt;br&gt;질병청은 “고령자는 체온유지 기능이 약한 민감군으로, 날씨가 추운 경우 실외활동을 자제해야 한다”며 “만성질환자의 경우 급격한 온도 변화에 증상이 악화될 수 있어 주의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;한랭질환 예방을 위해서는 외출 전 체감온도를 확인하고, 외출 시 내복이나 얇은 옷을 겹쳐 입어야 한다. 장갑, 목도리, 모자, 마스크 등을 착용하면 옷으로 가려지지 않는 부위에서 열이 빠져나가는 것을 막을 수 있다.&lt;br&gt;&lt;br&gt;한랭질환 증상이 나타날 경우 가능한 한 빨리 의사의 진찰을 받고, 따뜻한 장소로 이동해야 한다. 옷이 젖었다면 전부 벗고 담요나 다른 옷으로 몸을 따뜻하게 해야 한다. 동상 부위가 있다면 37~38도의 따뜻한 물에 담그면 도움이 된다.&lt;br&gt;&lt;br&gt;임승관 질병관리청장은 “추위에 취약한 고령층과 만성질환자분들은 한파 대비 건강수칙을 잘 숙지하고 준수해줄 것을 거듭 당부한다”며 “특히 한파 특보 발령 시 외출 등 야외활동에 대한 자제가 필요하며, 보호자들께서도 고령의 어르신들이 한파에 노출되지 않도록 각별히 살펴봐 달라”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>철도노조 23일부터 총파업 예고, ‘조폐공사’ 때문이라는데</title>
