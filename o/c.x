@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘사실상 강등’ 정유미 “대장동 항소 포기, 검찰 명예심에 상처”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/23/OI7FM34JPVEV3IPAE7C73ALCGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/OI7FM34JPVEV3IPAE7C73ALCGE/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 13:04:32 +0000</pubDate>
+      <content:encoded>지난 인사에서 고검검사로 사실상 강등된 정유미 검사장이 “대장동 항소 포기 사건은 검찰 구성원의 자존감과 명예심에 큰 상처를 입힌 것”이라며 이를 비판한 것은 징계 사유가 되지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;23일 정 검사장은 인사명령 처분 취소 소송 집행정지를 심리 중인 서울행정법원 행정5부(재판장 이정원)에 이 같은 내용이 담긴 준비서면을 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VJYSVPJGJJ2RNV32KB3ZUZU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정유미 검사장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 제출한 준비서면에서 정 검사장은 “인사 당시 법무부의 보도자료에 담긴 ‘업무 수행 등에 있어 검찰의 정치적 중립성·공정성에 대한 오해를 불러일으키고, 부적절한 표현으로 내부 구성원들을 반복적으로 비난하여 조직의 명예와 신뢰를 실추시킨 행위’가 어떤 것을 뜻하는지 명확하지 않다”고 주장했다. 이어 “아무래도 신청인(정 검사장)이 검찰 내부 게시판 등을 통해 검찰과 관련한 이슈에 지속해서 의견을 개진한 것이 그 이유가 아닌가 짐작해 볼 따름”이라고 했다. 정 검사장은 최근 검찰 내부망에 이른바 ‘대장동 항소 포기 사태’를 두고 당시 검찰 지휘부를 비판하거나, 임은정 서울동부지검장의 행보를 지적하는 글을 올린 바 있다.&lt;br&gt;&lt;br&gt;특히 정 검사장은 노만석 전 검찰총장 직무대행의 사퇴로 이어진 ‘대장동 항소 포기’ 사건에 대해 “검찰 구성원들의 자존감과 명예심에 큰 상처를 입혔고, 많은 검사들이 적극적으로 의견을 밝힌 바 있다”며 “당시 동료 검사들이 (검찰 내부망) 게시판에 올렸던 글을 첨부하니, 검사들의 의견 표출이 정치적이거나 부적절한 처신이었는지, 아니면 검사로서 조직 수뇌부의 잘못에 대해 정당하게 제시할 수 있는 의견의 표출이었는지 판단해 달라”고 했다.&lt;br&gt;&lt;br&gt;이어 정 검사장은 법무부의 인사 처분에 대해 “인사권을 휘둘러 검사들의 침묵을 강요하고 정당한 비판을 억압한 것”이라며 “정치적이고 비민주적인 행태라는 비판을 받아야 마땅할 것”이라고 했다. 잘못 설계된 제도의 추진, 기존 제도와 시스템의 섣부른 변형, 개별 사건에 대한 이례적이고 무원칙한 처분 등 이슈가 생겼을 경우 적극적이고 건전하게 비판과 토론을 행하는 것이 민주주의를 지킬 수 있는 방법이지 않냐는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 지난 22일 법원에서 열린 집행정지 심문에 직접 나와 이 같은 의견을 개진했다. 재판부는 2주 이내 집행정지 여부를 결정할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>쿠팡 개인정보 유출 피해자 1666명, 집단분쟁조정 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/TZPGAIOKK5F4TNY7QEUSQNXGCQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/TZPGAIOKK5F4TNY7QEUSQNXGCQ/</guid>
+      <dc:creator>고유찬 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 11:23:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSWGZRUGZQTSODDGEZDGNLFME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡이 개인정보 유출 사고와 관련해 경찰이 압수수색을 진행한 9일 서울 송파구 쿠팡 본사 앞에 쿠팡을 규탄하는 현수막이 걸려있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡의 개인정보 유출로 피해를 입은 소비자 1666명이 집단분쟁조정 절차에 들어간다.&lt;br&gt;&lt;br&gt;참여연대와 한국소비자연대는 23일 개인정보보호위원회 산하 개인정보분쟁조정위원회에 쿠팡 개인정보 유출 사건과 관련한 2차 집단분쟁조정 신청서를 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 분쟁조정에는 1차 신청자 618명과 2차 신청자 1048명 등 모두 1666명이 참여할 예정이다. 이들은 개인정보 유출로 인한 피해에 대해 보상과 재발 방지 대책 마련을 요구하고 있다.&lt;br&gt;&lt;br&gt;신청자들은 개인정보보호법에 따라 쿠팡이 와우멤버십 회원에게는 1인당 50만원을 지급하고 일반 회원과 탈퇴 회원에게는 각각 30만원을 지급해야 한다고 주장했다. 또 개인정보 유출을 막기 위한 기술적·관리적 보호 조치를 강화하고 그 내용을 개인정보분쟁조정위원회에 보고할 것을 요구했다.&lt;br&gt;&lt;br&gt;참여연대는 피해자들이 개별적으로 분쟁조정이나 소송에 나서지 않으면 실질적인 구제를 받기 어려운 구조라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>길 건너던 80대 남성, 덤프트럭에 치여 사망</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/NPJFZLFREFDWTNQDJVHCSWXFJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/NPJFZLFREFDWTNQDJVHCSWXFJA/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 11:43:20 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YANOIVEDCREFMEBURZ2HG5I56E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에서 길을 건너던 80대 노인이 덤프트럭에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 23일 오후 12시 30분쯤 종로구 낙원상가 인근 사거리에서 좌회전하려던 덤프트럭이 횡단보도를 건너던 80대 남성을 들이받았다. 트럭에 치인 남성은 현장에서 사망했다.&lt;br&gt;&lt;br&gt;운전자는 사고 직후 현장을 떠났지만 이후 경찰의 연락을 받고 종로경찰서에 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;운전자는 음주 상태는 아닌 것으로 파악됐으며, 경찰 조사에서 ‘사람을 친 줄 몰랐다’는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 “방범 카메라와 블랙박스를 분석해 자세한 사고 경위를 조사 중”이라며 “보행자의 무단횡단 여부 등은 조사를 통해 확인해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“무단 합사 철폐” 日 강제징용 유족, 야스쿠니 신사 상대 국내 첫 소송</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/23/4FINTPOMTFFJBEJ2LSPYHAMJPU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/4FINTPOMTFFJBEJ2LSPYHAMJPU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 11:46:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2DYM2ITEBL7JI6FVY5GV2MYSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야노 히데키 강제동원 문제해결과 과거청산을 위한 공동행동 사무국장이 23일 서울 서초구 민주사회를 위한 변호사 모임 사무실에서 열린 야스쿠니 한국인 합사 철폐 소송 제소 기자회견에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 야스쿠니(靖國) 신사에 2차 세계대전 A급 전범들과 무단 합사(合祀)된 한국인 군인·군속 유족들이 일본 정부와 신사를 상대로 소송에 나섰다. 유족들은 25년간 일본에서 여러 차례 ‘합사를 철폐하라’고 다퉈왔으나 일본 법원이 번번이 받아들이지 않자 한국 법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;민족문제연구소·태평양전쟁피해자보상추진협의회와 민주사회를위한변호사모임 소송 대리인단은 23일 서울중앙지법에 일제에 강제 동원돼 희생된 10명의 군인·군속 유족을 대리해 일본 정부와 야스쿠니 신사를 상대로 무단 합사 철폐 소송을 냈다. 유족들은 야스쿠니 신사가 관리하는 사망자 명부에서 희생자 이름을 삭제하고 일본 정부와 야스쿠니 신사가 8억8000만원의 손해배상금을 지급하라고 요구하고 있다. &lt;br&gt;&lt;br&gt;야스쿠니 신사는 메이지 유신 이후 일본에서 벌어진 내전과 일제가 일으킨 전쟁에서 숨진 246만6000여 명을 추모하는 곳이다. 이 중 21만3000위가 태평양전쟁과 관련됐고, 도조 히데키 전 총리 등 태평양전쟁 A급 전범 14명도 합사돼 있다. &lt;br&gt;&lt;br&gt;아시아·태평양전쟁에 강제 징집돼 전선에서 사망한 조선인 희생자도 합사됐다. 대리인단은 “야스쿠니 신사는 희생자들을 무단 합사하고 오늘날까지 이를 유지하고 있다”며 “유족 의사에 반하는 특정 종교·이념 체계의 추모 구조에 희생자를 편입시키고 유지하는 것은 계속적 인격권 침해”라고 했다.&lt;br&gt;&lt;br&gt;유족들은 희생자들이 전쟁으로 죽음에 내몰린 뒤에도 일본의 ‘천황을 위한 전몰자’ 서사에 동원되고 있다는 입장이다. 대리인단은 “유족들은 희생자들이 식민지 지배와 침략 전쟁의 피해자였다는 역사적 진실 위에 유족이 원하는 방식으로 온전히 추모할 권리를 회복하고자 한다”고 했다. &lt;br&gt;&lt;br&gt;유족들은 2001년부터 일본 사법부에 합사 철폐와 일본 정부의 배상을 요구하는 소송을 이어왔다. 그러나 세 차례 소송에서 모두 패소하자 국내 법원을 상대로 소송을 냈다. 대리인단은 최근 ‘일본군 위안부’ 피해 생존자들이 일본을 상대로 한 국내 소송에서 승소한 것도 주요한 배경이 됐다고 설명했다. &lt;br&gt;&lt;br&gt;지금까지는 한 국가 법원이 다른 국가의 공권력 행사에 대해 재판할 수 없다는 국제법상 ‘국가 면제’ 원칙을 이유로 소송 제기가 어려웠다. 그런데 2023년 서울고법은 위안부 피해자들이 일본 정부를 상대로 제기한 소송 항소심에서 일본의 배상 책임을 인정하고 “일본이 한국 영토 안에서 한국민에게 저지른 불법 행위에 대해서는 국가 면제를 인정하지 않는 내용의 국제 관습법이 있다고 보는 것이 타당하다”고 했다. 일본 정부가 상고하지 않으면서 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;원고 대표인 유족 이희자(82)씨는 이날 “아버지를 강제로 끌고 가 죽게 만들어 놓고 일본을 위해 돌아가셨다며 야스쿠니에 합사시켰다니 모욕감과 치밀어 오르는 분노를 참을 수 없다”고 했다. 이씨 아버지는 1944년 일제에 군속으로 강제 동원된 뒤 이듬해 중국 광시성에서 사망해 야스쿠니 신사에 무단 합사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>내년 ‘한국형 주치의’ 제도 첫발... 50세 이상부터 시작</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/23/6CGQN6NBIVGBTMMCYNT6UJQLJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/23/6CGQN6NBIVGBTMMCYNT6UJQLJE/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 10:35:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSVJXZR6KJECPE3CUSX7RJZXQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부는 23일 오후 건강보험정책심의위원회(건정심)를 열고 한국형 주치의 제도 도입 등을 논의했다. /보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 사는 동네 병원에서 일상적인 진료를 종합적으로 받고 건강을 관리할 수 있는 ‘한국형 주치의’ 사업이 내년 50대 이상부터 시범 도입된다. 이재명 정부 국정과제이기도 한 주치의 제도를 도입하려면 지역사회 1차 의료기관끼리의 협조와 실제 국민의 신뢰가 있어야 하는데, 이런 시스템이 현장에서 돌아갈 수 있는지를 확인하는 작업을 정부가 시작한 셈이다.&lt;br&gt;&lt;br&gt;보건복지부는 23일 건강보험정책심의위원회를 열고 ‘지역사회 1차의료 혁신 시범사업’을 내년부터 시행하기로 했다. 주치의 제도에 참여가 가능할 만큼 의료 환경이 갖춰진 지역을 선정해 3년간 시범사업을 운영한다. 시범 지역에서 주치의 제도를 활용할 수 있는 환자는 내년엔 50세 이상만 해당하지만 내후년(2027년)부턴 아동 등 다양한 환자로 대상을 확대한다.&lt;br&gt;&lt;br&gt;주치의 제도는 초고령화, 만성질환 증가 등에 대응해 예방적·지속적 건강관리가 필요하다는 지적에 따라 필요성이 꾸준히 제기돼왔다. 특히 의료 환경이 부족한 지역에서 만성 질환 환자의 중증화를 막기 위해선 이런 제도가 필요하다는 목소리가 이어졌다.&lt;br&gt;&lt;br&gt;시범 사업에 참여하는 환자는 등록한 의원에서 건강검진 결과나 평소 상태에 맞춘 관리 계획을 제공받고, 필요하면 등록한 의원 외의 적정 의료기관에 연계돼 필요한 치료를 받을 수 있다. 이를 위해 원하는 의원들끼리는 서로 연계한 의료 활동을 펼칠 수도 있다. 예컨대, 동네 내과 의사가 평소에 건강을 살펴주다가 정형외과적 진료가 필요하면 동네의 또 다른 정형외과로 환자를 인계해 줄 수 있게 된다. 만약 여러 과목의 진료가 모두 가능한 의료기관이 해당 지역에 있다면 이 기관은 거점 지원 기관 역할을 맡는다.&lt;br&gt;&lt;br&gt;여러 의료기관의 연계를 위해 복지부는 기존 행위별 수가(의료 서비스의 대가) 대신 ‘통합 수가’를 도입할 예정이다. 원래라면 의료기관들은 의료 서비스를 한 번 제공할 때마다 수가를 받는데, 이런 방식이 아니라 지속적인 서비스에 대해 수가를 준다는 것이다.&lt;br&gt;&lt;br&gt;환자들은 본인 부담 비용을 얼마나 낼지 아직 결정되지 않았다. 복지부 관계자는 “1년 단위 관리 개념이라 보통 구독료를 생각하면 월별, 분기별 (지급이) 될 수 있는데 어떻게 지불할 것인지는 정해 놓지는 않았다”며 “주치의와 환자 간 합의가 돼야 하는데 의견을 들어보고 방향을 정할 수 있을 것 같다”고 밝혔다.&lt;br&gt;&lt;br&gt;환자가 주치의 제도에 들어가고 구독료를 낸다고 해서 그 외 병원에 갈 수 없는 것은 아니다. 주치의를 통해 평소 건강 관리를 하긴 하지만, 만약 더 큰 병원에 가서 진료를 받고 싶다면 동네 병원 아닌 다른 곳으로 갈 수도 있다.&lt;br&gt;&lt;br&gt;다만 의료기관들이 연계해서 환자를 볼 경우 각 병원들에 수가를 어떤 비율로 나눠서 줄지, 어떤 과목이나 어떤 환자에 무게 중심을 두고 제도를 이어나갈지 등에 대해서는 아직 정해지지 않았다. 복지부 관계자는 “시범 사업은 1차 의료기관들이 얼마나 참여할지, 이들 간의 연계가 실제로 이뤄질지, 환자들이 이들을 믿고 꾸준히 방문하게 될지를 확인하는 과정이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>김제서 스쿨버스·트럭 충돌, 초등생 등 12명 중경상</title>
       <link>https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</guid>
@@ -849,34 +894,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7KVKDCFXUNBHPAUIEZFCRPRCTY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박안수 전 육군참모총장. /남강호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 당시 계엄사령관으로 임명됐던 박안수 전 육군참모총장이 22일 윤석열 전 대통령의 내란 혐의 재판에 증인으로 출석해 계엄사령부 포고령에 ‘처단’이라는 단어가 있어 놀랐었다고 증언했다. &lt;br&gt;&lt;br&gt;박 전 총장은 이날 서울중앙지법 형사합의25부(재판장 지귀연)에서 열린 윤 전 대통령의 내란 우두머리 혐의 재판에 증인으로 출석해 계엄 선포 당일 합동참모본부(합참) 전투통제실에서 윤 전 대통령의 대국민담화를 시청하면서 계엄 선포를 처음 알았다고 주장했다.&lt;br&gt;&lt;br&gt;박 전 총장은 계엄 선포 직후 김용현 전 국방부 장관 주재로 열린 전군 주요지휘관 회의 직후에 계엄사령관에 임명됐다면서 “회의를 마친 뒤 김 전 장관으로부터 ‘포고령 1호’라고 적힌 문건을 건네받았다. 법적 검토를 해야 한다고 건의하자 이 문건에 대해 ‘법적 검토가 완료됐다’는 설명을 들었다”고 증언했다.&lt;br&gt;&lt;br&gt;박 전 총장은 특히 ‘전공의를 비롯하여 파업 중이거나 의료현장을 이탈한 모든 의료인은 48시간 내 본업에 복귀하여 충실히 근무하고 위반 시는 계엄법에 의해 처단한다’는 내용의 포고령 5호를 보고 놀랐다고 진술했다.&lt;br&gt;&lt;br&gt;박 전 총장은 “포고령을 읽어보면서 (마음에) 걸린 게 ‘처단’이라는 단어가 있었다”며 “이건 또 뭐냐 해서 놀라서 다시 읽어봤다. 계엄법에 의해 처벌하고 단죄하는 의미인가 보다, 군대에서 쓰는 용어는 아닌데 하면서 그건 한번 짚고 넘어갔다”고 했다.&lt;br&gt;&lt;br&gt;이어 “(군 지휘관들 사이에서) 법적 검토에 대한 이야기가 나왔는데 맥락을 짚을 전문가는 사실 없었다”며 “검토를 거쳤다는 말에는 수긍했지만 무거운 느낌은 받았다. 이게 진짜 맞는 건가 했다. 당연히 윗분들이 하는 거니까 하는 생각은 있었지만 이게 옳다, 그르다 그건 잘 몰랐다. 무거운 감이 있어서 (포고령을) 자꾸 돌려봤다”고 했다. &lt;br&gt;&lt;br&gt;박 전 총장은 포고령이 발령된 직후 윤 전 대통령이 비화폰으로 전화를 걸어 “‘포고령이 하달되었나요’라고 물었다”며 “(조지호 당시) 경찰청장에게도 포고령이 하달된 사실을 알려 주라고 했다”고 증언했다. &lt;br&gt;&lt;br&gt;박 전 총장은 “경찰청장에게 전화를 하려고 했는데 청장 전화번호가 없었다. 합참 지통실이니까 (아는 사람이 있을 줄 알고) 주변에 물어봤는데 아무도 몰랐다. 어쩔 수 없이 김용현 전 장관에게 부탁해 전화번호를 받아 연락했다”고 했다. &lt;br&gt;&lt;br&gt;당시 자신이 경찰청장에게 전화해 국회를 차단해달라고 요청했다는 의혹에 대해서는 “그런 취지의 말은 없었다”고 했다. &lt;br&gt;&lt;br&gt;박 전 총장은 ‘2차 계엄 시도 의혹’은 부인하면서도 비상계엄 해제 의결 직후 상황에 대해 윤 전 대통령이 법령집을 꼼꼼하게 살펴봤다고 진술했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>법원, 박나래 자택 가압류 절차 돌입… “담보제공 명령”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/22/K2WHTAXILBDE7DJKX5XO45CP2A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/K2WHTAXILBDE7DJKX5XO45CP2A/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 12:14:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MLV56MOJ4BEHFAKJRU44IAE2E4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래씨. /유튜브 ‘백은영의 골든타임'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법원이 방송인 박나래(40)씨의 서울 용산구 자택에 대해 담보제공 명령을 내리며 가압류 인용 절차에 돌입했다. 담보제공 명령은 가압류 신청인 측에 일정 규모의 공탁금을 먼저 지급하도록 하는 조치다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 서울서부지법은 지난 19일 박씨 소유 자택에 대한 1억원 상당의 가압류 신청을 낸 박씨의 전 매니저 A씨 등에 담보제공 명령을 내리고 공탁금을 지급하라고 했다. 이는 통상 법원이 가압류 신청을 인용하기 전에 밟는 과정이다. 전 매니저 측이 법원이 제시한 기한 내에 담보를 제공하면, 박씨의 자택은 가압류될 예정이다.&lt;br&gt;&lt;br&gt;앞서 지난 3일 A씨 등 전 매니저 2명은 재직 당시 박씨로부터 폭언·특수상해 등 직장 내 괴롭힘을 당했다며 서울서부지법에 부동산 가압류를 신청했다. 박씨 측은 이를 부인하며 A씨 등을 공갈 혐의로 경찰에 고소했다.&lt;br&gt;&lt;br&gt;한편 현재 박씨는 매니저 갑질 논란 외 무면허자에게 불법 의료 처치를 받았다는 이른바 ‘주사 이모’ 의혹까지 불거지며 모든 방송 프로그램에서 하차한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울고법 “형사재판부 2개 이상 늘린다”... 내란전담재판부 구성 채비</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/22/OVAIHMJKE5AKVLCLRR5VXQPWZA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/22/OVAIHMJKE5AKVLCLRR5VXQPWZA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 10:14:13 +0000</pubDate>
-      <content:encoded>서울고등법원은 22일 전체판사회의를 열고 형사재판부를 2개 이상 늘리기로 결의했다고 밝혔다. 앞서 대법원이 지난 18일 제정 계획을 밝힌 ‘국가적 중요 사건에 대한 전담재판부 설치 및 심리 절차에 관한 예규’에 따른 후속 절차로, 내란·외환 관련 사건 항소심을 전담하게 될 전망이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/NOM7BD2YNNMOJGYDFMSZDYWUDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원./뉴시스
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울고법 소속 법관 152명 중 122명이 참석한 이날 전체판사회의에선 내란사건 집중심리 재판부의 도입 취지 및 내용, 현재 행정 예고 중인 대법원 예규의 주요 내용에 대한 설명이 있었다고 서울고법 측은 밝혔다. 또 현재 본회의에 상정돼 있는 내란·외환·반란 범죄 등의 형사 절차에 관한 특례 법안의 내용과 전담재판부 관련 준비 상황 등을 설명했다고 한다.&lt;br&gt;&lt;br&gt;서울고법은 전체판사회의에서 재판부 증부를 결의한 만큼, 구체적인 전담재판부의 숫자와 구성 절차 및 시기 등을 향후 사무분담위원회에서 결정할 계획이다. 또 본회의에 상정돼 있는 ‘내란 전담 재판부 설치법’에 대해선 “본회의를 통과할 경우 시행 시기에 따라 전체판사회의, 사무분담위원회 등을 거쳐 전담재판부 구성 절차가 진행될 것으로 보인다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울고법은 지난 19일 보도자료를 내고 “총 16개의 형사재판부를 구성하되, 2~3개의 재판부를 전담 재판부로 지정할 계획”이라고 밝힌 바 있다. 재판부 구성원 등을 결정할 사무분담심의위원회는 내년 1월 전담재판부 수를 확정한 뒤, 1월 말로 예정된 법관 정기 인사 직후 재판부 형태를 확정할 계획이다. 내년 2월 중순엔 법관들을 재판부에 배치할 예정이다.&lt;br&gt;&lt;br&gt;서울고법은 전담재판부 구성 및 지정의 공정성 확보를 위해 법관들로부터 제척 또는 회피 사유가 있는지 여부를 파악하기로 했다. 이를 통해 사건을 맡는 것이 부적절하다고 판단되는 재판부를 제외한 뒤 무작위 배당을 실시할 방침이다.&lt;br&gt;&lt;br&gt;재판부를 늘리기 위한 사전 준비도 진행되고 있다. 법원행정처는 내년 1월 1일자로 재판부에 배치될 참여관 4명과 주무관 3명을 서울고법에 추가로 배치하는 인사를 냈다. 속기사와 법정경위 등 인력도 증원 절차가 진행 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘호화 출장’ 접대받은 경찰공제회 직원들 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/22/J3QWMLVZFRCXDOHD56ZSDTHPTU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/J3QWMLVZFRCXDOHD56ZSDTHPTU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 10:12:34 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GY3TKYJZGIZTOOLDMFTDSMBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 마포경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰공제회(공제회) 직원들이 해외 운용사 주최 투자설명회에 참석하며 ‘호화 출장’ 접대를 받은 혐의로 경찰 수사를 받고 있는 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울 마포경찰서는 공제회 대체투자본부 팀장급 직원 A씨와 과장급 직원 B씨를 청탁금지법 위반 혐의로 수사 중이라고 22일 밝혔다. 대체투자본부는 경찰 복지 기금으로 사모주식이나 채권, 부동산 등의 자산에 투자하고 관리하는 조직이다.&lt;br&gt;&lt;br&gt;A씨는 작년 1월과 6월, 두 차례에 걸쳐 해외 운용사가 주최한 투자설명회에 참석해 각각 960만원과 1220만원 상당의 항공기 비즈니스클래스 왕복권, 5성급 호텔 숙박권을 제공받은 혐의를 받는다. B씨 역시 작년 3월 일주일에 걸쳐 약 1470만원의 항공권과 숙박권을 제공받은 정황이 드러났다. 경찰은 공제회 차장급 직원인 C씨가 지난 2023년 11월 다녀온 투자설명회 관련 항공비·숙박비 내역 등도 들여다보고 있다.&lt;br&gt;&lt;br&gt;현행 청탁금지법은 공직자 등이 직무 관련 여부 및 명목에 관계없이 동일인으로부터 1회에 100만원 또는 회계연도에 300만원을 초과하는 금품 등을 받거나 요구하지 못하도록 규정하고 있다. 다만 이들은 공제회 자체 채용 절차를 거친 직원들로, 현직 경찰 신분은 아니다.&lt;br&gt;&lt;br&gt;한편 수사를 받고 있는 직원들이 현재도 관련 업무를 계속 맡고 있는 것으로 확인됐다. 공제회 측은 “향후 결과에 따라 엄중히 문책하고 조치할 계획”이라고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>건진법사 “윤석열 부부, 고마워할 줄 몰라...신세 지고 무시했다”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/22/42MUIELPABHFVJFBROZRYUMXZI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/22/42MUIELPABHFVJFBROZRYUMXZI/</guid>
@@ -884,24 +901,6 @@
       <description/>
       <pubDate>Mon, 22 Dec 2025 09:57:03 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GEZDMNLFGAZTONJQGJSTGMTFMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'건진 법사' 전성배씨./ 뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘건진 법사’ 전성배씨가 22일 법정에서 “윤석열 전 대통령 부부는 고마움을 전혀 모르는 사람들”이라고 말했다. 전씨는 김건희 여사와 친분을 내세워 통일교 등 각계에서 여러 청탁과 함께 금품을 수수한 혐의로 구속기소돼 재판을 받고 있다.&lt;br&gt;&lt;br&gt;전씨는 이날 서울중앙지법 형사33부(재판장 이진관)에서 열린 박창욱 경북도의원의 정치자금법 위반 혐의 사건 재판에 증인으로 나와 이렇게 말했다. 이 재판에서는 박 의원이 2022년 6월 지방선거를 앞두고 브로커 김모씨를 통해 전씨에게 공천을 청탁한 혐의를 다룬다.&lt;br&gt;&lt;br&gt;전씨는 이날 “윤 전 대통령 취임과 동시에 제가 언론에 비춰지면서 언론사들이 저희 집을 습격하다시피했다”며 “그런데 (윤 전 대통령 부부가) 저와는 관계 없다며 선을 그어 인연이 끊어졌다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;특검 측이 “2022년 7월 김 여사에게 통일교에서 받은 샤넬백을 전달했는데, 인연이 끊어졌다고 할 수 있느냐”고 묻자 전씨는 “윤 전 대통령 취임 이후 저는 아예 전화를 수신 거부했다”며 “김 여사와 전화 통화가 어쩌다 한 번 될 때 그런 얘기를 한 것”이라고 했다.&lt;br&gt;&lt;br&gt;전씨는 그러면서 “이 사람들은 고마워할 줄 모른다”면서 “당시 (김 여사는) 정신과 약을 먹고 건강이 좋아지면 통화하고 안 좋으면 아예 안 했다”고 했다. 이어 “정신 좀 차리면 고맙다고는 해줘야 할 것 아니냐”며 “신세 져놓고 쌩을 까냐(무시하냐), 실질적으로 유대 관계를 유지한 적은 없다”고 말했다. 특검 검사가 “그 사람들이 고마워할 줄 모른다는 말이냐”고 하자 “그렇다”고 답했다.&lt;br&gt;&lt;br&gt;“윤 전 대통령 부부가 왜 고마워해야 하느냐”는 특검 측 질문에는 “제 입장에선 저 사람들(윤 전 대통령 부부)에게 한 가지 잘해준 게 인생의 변화를 일으켰다고 생각한다”고 했다. 또 “힘들 때 어느 누구에게 말 못할 이야기가 있는데 내가 김건희를 많이 받아줬다”며 “그 사람들이 잘 돼야 나도 잘 된다는 생각에 힘든 얘기만 해도 받아주려고 했었다”고 말했다. &lt;br&gt;&lt;br&gt;이어 “서울남부지검에서 압수수색할 때 집에도 못 들어가고 밖에서 고생을 하면서도 짐이 되지 않겠다는 마음이었는데 저들은 고마워하는 게 전혀 없었다”고 했다. 전씨는 “저는 누구에게 도움 안 받아도 금전 문제가 없는 사람인데, 나중에는 이상한 사람 취급을 하더라”라며 “상대하지 말았어야 하는데 사람이 정이 있다보니, 그들에게 조그마한 기대를 갖고 있었던 것 같다”고 했다. 그러면서 “저 사람들에게 무시당할 정도 행동하지 않았는데 저들은 나를 무시했다”며 “제가 무시당한 만큼 대가를 받으라고 했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>고수익 미끼로 고객 속여 247억 가로챈 50대 女 구속</title>
-      <link>https://www.chosun.com/national/2025/12/22/EW2UDCYEWZD3VIXCA6XJEXCVC4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/22/EW2UDCYEWZD3VIXCA6XJEXCVC4/</guid>
-      <dc:creator>권광순 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 09:36:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2DAMZSG43GKNJZMVSTANZRGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구경찰청 청사 전경./ News1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고수익을 미끼로 고객·지인으로부터 수백억 원을 가로챈 50대 여성이 구속됐다. &lt;br&gt;&lt;br&gt;대구경찰청 반부패·경제범죄수사대는 고객으로부터 247억원을 가로챈 혐의(특가법 위반)로 A(50대·여)씨를 구속했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;경찰에 따르면 A씨의 범행은 증권사 직원이라서 쉽게 가능했다. 그는 2022년 11월∼2025년 8월 증권사에 근무하고 있는 점을 내세워 고객이나 지인 등 11명에게서 투자금 명목으로 돈을 모았다. 이들에게 받은 돈만 247억원에 달한다. &lt;br&gt;&lt;br&gt;경찰 조사 결과, A씨는 피해자들에게 “직원 전용 투자상품이나 기업 단기대출 상품 등에 투자하면 한 달에 3∼5％의 수익금을 지급하겠다”고 속이며 자신 계좌로 입금을 유도했다. &lt;br&gt;&lt;br&gt;그러나 피의자가 근무했던 증권사에는 직원 전용 상품은 존재하지 않았다. A씨는 피해자들로부터 입금받은 돈을 다른 금융 상품에도 투자하지 않은 것으로 밝혀졌다. A씨가 증권사 직원이라서 피해자들이 감쪽같이 속은 것이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “A씨는 피해자들에게 받은 돈 대부분을 생활비 등 개인 용도로 사용했다”며 “투자금 회수를 요구하는 피해자들에겐 돌려막기 용도로 사용했다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>군용철교, 돛단배, 지게꾼… 1900년대 초 개항기 인천 촬영 영상 공개</title>
-      <link>https://www.chosun.com/national/regional/2025/12/22/BQDACCYSJFGEDBNJ4DAXNX5ZH4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/22/BQDACCYSJFGEDBNJ4DAXNX5ZH4/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 09:02:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63FB5OUQ5RLBJIGAO7XNV4K42M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1908년 촬영된 것으로 추정되는 인천항 주변 영상 캡쳐./ 인천시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1900년대 초 개항기 인천항의 모습을 촬영한 영상 자료가 22일 공개됐다. 이 자료는 인천의 옛 풍경과 주민 생활상을 담은 영상 가운데 가장 오래된 것으로 알려졌다. &lt;br&gt;&lt;br&gt;인천시가 이날 공개한 영상은 총 6분 31초 분량으로, 지금의 인천 중구 항동 1가 한국기독교 100주년 기념탑 일대와 항동4가 인천시 건축사회 주변을 촬영한 것으로 분석된다. &lt;br&gt;&lt;br&gt;영상에선 당시 월미도 스탠더드 오일 창고(현 전통공원)와 일본인들이 만든 월미도 군용철도, 정박 중인 돛단배, 쌀과 목재 등을 나르는 지게꾼 등의 모습을 확인할 수 있다.&lt;br&gt;&lt;br&gt;영상 초반부엔 서울 돈의문(서대문) 밖 모습도 볼 수 있는데, 인천시는 수도 서울과 전국의 개항장을 소개하려는 목적에서 촬영한 것으로 추정했다. &lt;br&gt;&lt;br&gt;이 영상은 프랑스 파리에 있는 민간 영상 자료원인 ‘시네마테크 프랑세즈’가 소장하고 있던 것으로, 지난해 한국영상자료원이 발견했다. 1908년 2~4월 사이 프랑스인이 촬영한 것으로 추정되고 있다. &lt;br&gt;&lt;br&gt;인천시는 한국영상자료원에서 영상 사용권을 받을 예정이다. 인천시는 이 영상에 인공지능(AI) 기술을 접목해 현재의 모습과 비교할 수 있는 콘텐츠를 만들어 공개할 계획이다. &lt;br&gt;&lt;br&gt;인천시 관계자는 “이번 영상 자료는 인천시립박물관이 갖고 있는 1920년대 자료보다 10년 이상 앞서 촬영된 것으로 보인다”며 “개항 이후 인천항 일대의 모습과 다양한 사람들의 모습을 생생하게 볼 수 있는 의미 있는 자료라고 평가된다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>5000만원 성금에 손편지...올해도 찾아온 ‘얼굴 없는 천사’ </title>
