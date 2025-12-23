@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>서부지법, ‘1·19 폭동 백서’ 발간… “사회 근간 부정한 것”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/WLWYWPVLPBBKREGSNCMXICV5NU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/WLWYWPVLPBBKREGSNCMXICV5NU/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 04:33:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RGIMBYGBSWEYLDG5RDCOJVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 19일 새벽 윤석열 전 대통령에 대한 구속영장이 발부되자 서울서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 발생한 서울서부지법 집단 난동 사건을 다룬 백서가 발간된다.&lt;br&gt;&lt;br&gt;서울서부지법 백서발간위원회는 당시 사건의 전 과정과 재발 방지책 등을 정리한 ‘서울서부지법 1·19 폭동 사건 백서’를 발간했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이번 백서는 사건 발생 과정과 피해 상황부터 법원과 관계기관의 대응, 재발 방지를 위한 과제를 종합적으로 담았다. 특히 시위대의 법원 청사 난입 전후 상황과 법원의 대응을 시간 순으로 정리해 향후 유사 사태 발생 시 대응 사례로 활용할 수 있도록 했다.&lt;br&gt;&lt;br&gt;김태업 서부지법원장은 발간사에서 “1·19 폭동은 다름을 인정하고 존중하면서 함께 사는 세상을 추구해 온 우리 사회의 근간을 부정하는 것으로 사법 시스템에 대한 중대한 침탈”이라며 “이번 백서가 폭동을 기억하고, 유사한 사태를 대비하고 수습하는 데 도움이 되기를 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;백서는 이달 중 정부기관과 국회, 공공도서관 등에 배포될 예정이며 법원도서관 홈페이지에서도 일반 열람이 가능하다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 19일 윤석열 전 대통령에 대한 구속영장이 발부되면서 격분한 지지자들은 서부지법에 난입했다. 이들의 난동으로 청사 내부와 각종 기물이 파손됐고 출동한 경찰들도 부상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, ‘양평고속道 의혹’ 국토부 서기관 개인 비리에 징역 5년 구형</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/23/HCQLAY5AL5BDNEFAQ7GJAMFFFU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/HCQLAY5AL5BDNEFAQ7GJAMFFFU/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 04:27:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGIZRTGAZTKNDFGFSTAZBQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 서울-양평고속도로 노선 변경 과정에 김 여사와 그 일가가 부당하게 개입했다는 의혹과 관련해 지난 7월 14일 세종시에 있는 국토교통부 등에 대한 압수수색을 진행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 국토교통부의 국도 공사 과정에서 뒷돈을 받고 사업상 특혜를 준 혐의로 기소된 국토부 서기관에게 징역 5년을 구형했다. &lt;br&gt;&lt;br&gt;특검팀은 서울중앙지법 형사22부(재판장 조형우)에서 열린 김모 서기관의 특정범죄가중처벌법상 뇌물 혐의 결심 공판에서 징역 5년과 벌금 1억원을 선고하고 3600만원을 추징해달라고 요청했다. 특검팀은 앞서 양평고속도로 종점 변경 의혹을 수사하던 중 김 서기관의 이번 비리 혐의를 포착해 수사한 뒤 재판에 넘겼다. &lt;br&gt;&lt;br&gt;김 서기관은 2023년 6월~2024년 11월 용역업체가 국도 옹벽 공사 용역을 맡을 수 있도록 특혜를 준 대가로 업체 대표에게 현금 3500만원과 골프용품 상품권 100만원을 받은 혐의를 받았다. 특검팀은 “이 사건은 도로 건설이라는 국책 사업의 공정성을 저해하고 시장 질서를 침해했다”며 “장기간 청렴 의무를 저버리고 공무원의 지위를 남용해 저지른 범행의 동기와 수법이 매우 불량하다”고 했다. &lt;br&gt;&lt;br&gt;김 서기관은 최후 진술에서 “공직사회의 청렴성과 공정성을 훼손한 데 무거운 책임감을 느낀다”며 “묵묵히 소임을 다하는 공무원의 명예와 자긍심에 씻을 수 없는 상처를 안겨 죄송하다”고 말했다. 김 서기관의 1심 선고는 내년 1월 22일에 나온다.&lt;br&gt;&lt;br&gt;김 서기관은 국토부 도로정책과에 근무하던 2022년 서울-양평 고속도로 사업에 대한 타당성 조사를 하던 용역업체들에 ‘대안 노선을 검토하라’고 지시한 인물이다. 특검팀은 김 서기관이 이듬해 5월 서울-양평 고속도로 사업에서 종점을 김 여사 일가 땅이 몰려 있는 경기도 양평군 강서면으로 변경하는 과정에 관여했다고 의심하고 있지만, 이번 사건 공소사실에는 포함되지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경찰, ‘전현무 차량 링거 투약’ 의혹 수사 착수</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/UCCE4PCZGNB47JEYD2IOJXFMEU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/UCCE4PCZGNB47JEYD2IOJXFMEU/</guid>
+      <dc:creator>강지은 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 04:26:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIOHAHKHJRMCTH4VPUHM3CRWZY.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 전현무씨./스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서가 방송인 전현무(48)씨의 차량 내 링거 투약 의혹에 대한 수사에 착수했다고 23일 밝혔다. 전씨가 차 안에서 링거를 맞는 모습이 담긴 방송 화면이 최근 재조명되자 당시 링거 투약이 적법한 진료 절차에 따른 것인지 확인해달라는 내용의 진정이 국민신문고에 접수돼 경찰이 수사에 나선 것이다.&lt;br&gt;&lt;br&gt;이 의혹은 방송인 박나래(40)씨가 의료 면허 없는 이모씨로부터 불법 시술을 받았다는 주장이 제기된 이후 불거졌다. 2016년 박씨와 함께 출연했던 한 예능에서 전씨가 차량 좌석에 앉아 한쪽 팔에 링거를 맞고 있는 사진이 방송됐다. 당시엔 바쁜 일정 속에서도 촬영을 이어가는 모습으로 비춰졌었다. 그러나 최근 박씨와 친분이 있다고 알려진 가수 키, 유튜버 입짧은햇님 등이 비의료인에게 주사 시술을 받았다는 의혹으로 활동을 중단하면서 해당 장면이 다시 주목을 받았다.&lt;br&gt;&lt;br&gt;전씨 소속사 SM C&amp;amp;C는 지난 19일 “처치의 마무리를 제외한 모든 의료 행위는 병원 내에서 의료진의 판단과 처방에 따라 진행됐다”며 “불법적인 의료 행위는 전혀 없었다”는 입장을 밝혔다. 이어 “현재 제기되는 의혹은 당시의 전체적인 상황과 맥락이 충분히 전달되지 않은 상태에서 일부 장면만 부각되며 비롯된 오해”라고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 의혹의 사실 관계를 따져 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘제주 생태계 寶庫’... 곶자왈 보호 지정 고향사랑기부금 조기 달성</title>
+      <link>https://www.chosun.com/national/regional/2025/12/23/EOKJVKN6CZEA3H6TOUBJRGRQVA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/23/EOKJVKN6CZEA3H6TOUBJRGRQVA/</guid>
+      <dc:creator>제주=오재용 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 04:06:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4TEMZXG4ZDINDCMEZTENLFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주곶자왈도립공원./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘무분별한 개발로 훼손이 우려되는 제주 생태계의 보고(寶庫) 곶자왈을 살려주세요.’&lt;br&gt;&lt;br&gt;제주도는 고향사랑기부제 지정 기부 사업으로 지난 5월부터 추진한 ‘곶자왈 보호 모금’이 목표액 10억원을 달성했다고 23일 밝혔다. 당초 모금 기간은 내년 6월까지로, 목표 기간보다 6개월 앞당겨 마감됐다.&lt;br&gt;&lt;br&gt;이번 모금은 개발로 훼손 위기에 놓인 사유 곶자왈을 매입해 공공자원으로 보존하기 위해 추진됐다. ‘제주 지하수의 원천인 제주시 곶자왈을 살려주세요’, ‘무분별한 개발로 사라지는 서귀포시 곶자왈을 살려주세요’ 등을 주제로 2건의 모금 사업이 진행됐다.&lt;br&gt;&lt;br&gt;제주도는 이번에 조성된 10억원으로 약 5㏊의 사유 곶자왈을 매입할 계획이다. 매입된 곶자왈은 영구 보전된다. &lt;br&gt;&lt;br&gt;곶자왈은 숲을 뜻하는 제주어 ‘곶’과 덤불을 뜻하는 ‘자왈’이 합쳐진 제주 사투리이다. 화산활동으로 다양한 바위와 돌, 동·식물이 공존하며 독특한 생태계가 유지되고 있는 지대를 말한다. 빗물이 지하로 스며드는 통로로, 세계에서 유일하게 열대 북방한계 식물과 한대 남방한계 식물이 공존하는 생태계의 보고로 알려져 있다.&lt;br&gt;&lt;br&gt;제주도는 기부자들에게 감사의 뜻을 표하기 위해 곶자왈 매입지에 기부자 명판도 설치할 예정이다. 또 기부자에게는 ‘탐나는 제주패스’가 제공돼 기부 당일부터 1년간 성산일출봉 등 제주 공영관광지 31곳에 무료 또는 50% 할인 혜택으로 입장할 수 있다. 또 민영관광지 할인과 한라산탐방예약제(1일 30명) 혜택도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인권위 “전역 예정자 복학 제한은 행복추구권 침해”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/23/OWECMA6ESJAFBIRMO4AEXXQ2AY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/OWECMA6ESJAFBIRMO4AEXXQ2AY/</guid>
@@ -806,24 +842,6 @@
       <content:encoded>인천과 서울, 경기 남양주 등을 잇는 수도권광역급행철도(GTX)-B 인천 구간에 정거장 1개가 추가로 건설된다. &lt;br&gt;&lt;br&gt;인천시는 국가철도공단이 최근 진행한 GTX-B 추가 정거장 신설 타당성 검증에서 비용편익(B/C) 분석값이 기준치 1을 넘는 1.03으로 나와 추진이 공식 확정됐다고 22일 밝혔다. 타당성 검증 결과 정거장이 추가로 설치되면 전 구간 일평균 이용 수요가 3010명 증가할 것으로 예상됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4ZKGN4YWCNDVLLYY23HNQPCNCU.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천시는 이번 타당성 검증 결과가 공식 통보됨에 따라 내년 말 GTX-B 사업을 추진하는 민간 시행자와 내년 말 최종 위·수탁 협약 체결을 목표로 관련 행정 절차를 밟을 계획이다. &lt;br&gt;&lt;br&gt;이번 추가 정거장은 GTX-B 기점인 인천 송도 인천대입구역과 인천시청역 사이인 인천 연수구 청학사거리 인근에 조성된다. 이번 추가 정거장 조성을 위한 사업비는 2540억원으로 추산되며, 원인자 부담 원칙에 따라 인천시가 설계비와 공사비 전액을 부담하게 된다. 인천시는 광역철도망 효율을 높이고 수혜 지역을 넓히기 위해 추가 정거장 신설을 추진해왔다. &lt;br&gt;&lt;br&gt;인천시는 GTX-B 본선의 2031년 개통 일정에 맞추려면 연내 추가 정거장 설계를 시작해야 할 것으로 보고 지난달 한국지방행정연구원(LIMAC) 타당성 조사 절차를 시작한 상태다. &lt;br&gt;&lt;br&gt;유정복 인천시장은 “GTX-B는 인천과 수도권을 20분대 생활권으로 연결하는 핵심 교통 인프라로, 이번 추가 정거장 건설은 도시 경쟁력 강화를 이끄는 전환점이 될 것”이라고 말했다.&lt;br&gt;&lt;br&gt;GTX-B는 인천대입구역(송도)∼인천시청역∼부평역∼부천종합운동장역∼신도림역∼용산역∼서울역∼청량리역∼남양주 마석 82.8㎞ 구간에 건설될 예정이다. 총사업비는 6조8478억원 규모로, 민자 4조2894억원과 재정 2조5584억원이 투입된다. &lt;br&gt;&lt;br&gt;이 가운데 민자 구간은 송도~용산과 상봉~마석 등 총 62.8㎞로, 지난 8월 국토교통부에 통합 착공계가 제출됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘법카 유용’ 조현범, 항소심서 징역 2년…1년 감형</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/22/AAHAWKQ4NJBZBKAPXCA7WZ5ILA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/22/AAHAWKQ4NJBZBKAPXCA7WZ5ILA/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 06:35:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/SLKEJDJSIXT3KCRATG5VZV7ZEY.png"&gt;&lt;figcaption&gt;&lt;small&gt;조현범 한국앤컴퍼니그룹 회장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;200억원대 횡령·배임 혐의로 1심에서 실형이 선고돼 법정 구속된 조현범 한국앤컴퍼니그룹 회장이 항소심에서 감형을 받았다. 서울고법 형사13부(재판장 백강진)는 22일 특정경제범죄가중처벌법 위반(횡령·배임)과 배임수재 등 혐의로 기소된 조 회장 항소심에서 징역 3년을 선고한 원심 판결을 깨고 징역 2년을 선고했다.&lt;br&gt;&lt;br&gt;조 회장은 약 200억원 규모 회삿돈을 횡령·배임한 혐의로 2023년 기소됐다. 한국타이어와 한국앤컴퍼니 등 계열사 법인카드를 지인에게 사용하도록 하고, 개인적으로 사용할 차량 5대를 계열사 명의로 구입하거나 리스한 혐의, 이사·가구비용을 회삿돈으로 결제한 혐의, 회사 소속 운전기사에게 배우자를 전속 수행하게 한 혐의 등을 받았다. &lt;br&gt;&lt;br&gt;자신이 대주주로 있는 계열사 MKT(한국프리시전웍스)에 유리한 조건으로 타이어 몰드 생산 거래를 해 131억원의 이득을 몰아줬다는 혐의와 계열사 자금 50억원을 제대로 된 회수 계획 없이 지인 회사에 빌려준 혐의도 있었다. 앞서 1심 재판부는 대부분 횡령·배임 혐의를 유죄로 판단하고 MKT 부당지원 혐의만 무죄로 판단했다.&lt;br&gt;&lt;br&gt;항소심 판단이 달라진 부분은 지인 회사에 계열사 자금 50억원을 함부로 빌려준 배임 혐의(특정경제범죄가중처벌법상 배임)다. 1심은 이 부분을 유죄로 판단했지만 항소심 재판부는 “개인적 동기가 있었던 것으로 보이기는 하지만 이사회 등 절차를 거쳤고 이자도 받았으며 우선매수권을 통한 담보 실행 가능성과 담보 가치도 인정된다”고 판단했다. 이어 “객관적으로 상당하고 합리적인 채권 회수 조치가 있었던 이상 경영상 판단의 범주에 포함될 수 있다”면서 무죄를 선고했다.&lt;br&gt;&lt;br&gt;항소심 재판부는 법인카드를 사적으로 사용하고 지인에게 아파트와 차량을 제공하게 했다는 등의 업무상 배임 혐의에 대부분에 대해 1심과 같이 유죄로 판단했다. 재판부는 “총수인 피고인이 회사 자금과 자산을 순전히 개인적 목적으로 사용한 것으로, 회사에 대한 충실의무를 위반한 전형적인 배임 행위”라며 “장기간 반복된 점에서 비난 가능성이 크다”고 했다.&lt;br&gt;&lt;br&gt;법인 차량을 개인적으로 이용했다는 혐의에 대해 조 회장은 항소심에서 “타이어 회사 회장으로서 차량을 직접 운행하며 성능을 시험하고 개발 방향을 점검하기 위한 목적이었다”고 주장했지만 인정되지 않았다. 재판부는 “그 결과가 회사의 중요한 의사결정이나 개발 지침으로 환류됐다고 볼 만한 자료나 기록이 전혀 없다”며 “수억원대 사용 이익에 비춰 보면 회사 공식 업무라기보다 사실상 개인적 이용으로 보는 것이 타당하다”고 했다.&lt;br&gt;&lt;br&gt;MKT에 대한 부당지원·사업기회 유용 혐의에 대해선 “MKT와 타이어 몰드 거래에 이용된 이른바 ‘신단가 테이블’은 원가 분석과 시뮬레이션을 거쳐 마련된 합리적인 가격 체계로 보이고, 한국타이어가 MKT에 특별히 유리한 조건으로 거래했다고 보기 어렵다”며 1심의 무죄 판단을 유지했다. &lt;br&gt;&lt;br&gt;재판부는 양형에 관해 “기업 경영의 투명성과 공정성을 침해하고 사회와 시장의 신뢰를 배반한 범행으로 엄중한 처벌이 불가피하다”면서도, 일부 배임 혐의가 무죄로 바뀐 점을 고려해 감형했다. 재판부는 “총수 개인의 신속한 의사결정 필요성보다 기업 지배구조의 투명성과 사회적 신뢰 회복이라는 공익적 가치가 우선한다”며 “노골적으로 회사 재산을 이용해 사익을 추구한 경영자를 다시 경영 일선에 복귀시키는 것은 기업 문화와 지속 가능성에 부정적 영향을 미친다”고 지적했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>연대·가톨릭대·고대 의대, 올해 수시 최초 합격자 중 90명 등록 안 해... “상위권 의대 중복 합격 늘어난 영향”</title>
-      <link>https://www.chosun.com/national/education/2025/12/22/FEOKSD5XENC4FIG27DD3D2YLJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/22/FEOKSD5XENC4FIG27DD3D2YLJE/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 06:29:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G4ZWKOBUGYZTSZBSMUZTONDDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 의과대학. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;올해 연세대와 가톨릭대, 고려대 의대에 수시 모집으로 최초 합격했지만 등록하지 않은 학생이 최근 5년 새 최고치를 기록한 것으로 나타났다.&lt;br&gt;&lt;br&gt;22일 종로학원이 2026학년도 수시 1차 추가 합격자를 공개한 의대를 분석한 결과, 연세대와 가톨릭대, 고려대 등 서울권 주요 의대 3곳의 추가 합격자는 총 90명이었다. 1차 추가 합격자는 수시에 최초로 합격한 지원자 중 등록하지 않은 인원만큼 충원된다. &lt;br&gt;&lt;br&gt;2022학년도엔 해당 의대 3곳의 수시 1차 추가 합격자가 총 88명이었는데, 2023학년도 85명, 2024학년도 70명으로 줄었다. 그러다 작년 2025학년도 때 84명으로 증가했고, 올해는 90명으로 더 늘어 최근 5년 새 최고치를 기록했다.&lt;br&gt;&lt;br&gt;학교별로 살펴보면, 올해 연세대 의대는 28명(수시 모집 인원의 44.4%), 가톨릭대 의대는 23명(41.1%), 고려대 의대는 39명(58.2%)의 추가 합격자가 발생했다. 서울대는 5년 연속으로 수시 최초 합격자 가운데 등록하지 않은 학생이 한 명도 없었다.&lt;br&gt;&lt;br&gt;임성호 종로학원 대표는 “작년 의대 모집 인원이 1500명 늘어나면서 내신 최상위권 학생들이 대거 의대에 합격하고 올해 재수에 도전하지 않았다”며 “그로 인해 올해 위 3개 대학에 지원한 학생들이 상위권 의대에 중복 합격한 사례가 늘어난 것으로 분석된다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>경찰, “목 긁힌 뒤 죽은 듯 누운 이재명” 발언 안철수 불송치</title>
       <link>https://www.chosun.com/national/national_general/2025/12/22/3XI44O2Z6FE5JCTKXESNFJ3LGY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/3XI44O2Z6FE5JCTKXESNFJ3LGY/</guid>
@@ -933,15 +951,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CIQNM6PFBRPH7FXFOFCJDVSQQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;총파업을 하루 앞둔 22일 서울역 모습./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시가 23일 전국철도노동조합 파업에 대비해 비상 수송 대책을 마련했다고 22일 밝혔다. &lt;br&gt;&lt;br&gt;우선 코레일 파업으로 수도권 광역전철 운행률 감소로 지하철 승객이 급증할 것을 대비해 지하철 전동차 5편성을 비상대기한다. &lt;br&gt;&lt;br&gt;또 광역 간 이동 불편을 최소화하기 위해 지하철 1·3·4호선 열차운행을 18회 추가 운영할 예정이다. 서울교통공사가 증회운행하는 구간은 1호선 서울역~청량리, 3호선 구파발~오금, 4호선 당고개~사당 구간이다. 시는 증회 운행으로 일일 3만6000명의 추가수송이 가능해질 것으로 예상했다. &lt;br&gt;&lt;br&gt;시내버스는 344개 일반노선의 출·퇴근 집중배차 시간대를 늘려 평소보다 1시간씩 연장한다. 기존 출근 집중배차 시간대인 오전 7~9시를 오전 6~9시로 늘리고, 퇴근 집중배차시간대도 평소 5~7시에서 파업 시 오후 5~8시로 연장한다는 것이다. &lt;br&gt;&lt;br&gt;앞서 철도노조는 오는 23일 오전 9시부터 파업을 하겠다고 예고한 바 있다. 성과급 정상화 등을 요구하며 고속철도 KTX의 경우 70% 이하, 수도권 전철은 70% 이상의 운행률을 유지할 것으로 예상된다. 정부는 합동 비상 대책 본부를 22일 오전 9시부터 운영한다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>“내 주말수당 삭제”… 남양주시의 한 글자 변경 ‘꼼수’</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/22/WCPMDX5ESND4BOX4AXLJTOU2AI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/22/WCPMDX5ESND4BOX4AXLJTOU2AI/</guid>
-      <dc:creator>이가영 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 21 Dec 2025 22:08:40 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2S37SY246NAATM3EPJE5Z3BFC4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선일보DB &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 남양주시가 노동자의 동의를 받지 않고 토요일 근무 관련 취업규칙을 바꿨다가 행정지도 처분을 받게 됐다. &lt;br&gt;&lt;br&gt;22일 남양주시 공무직노조 등에 따르면 시는 2019년 취업규칙 중 토요일 근무를 ‘무급휴일’에서 ‘무급휴무일’로 변경 적용했다. &lt;br&gt;&lt;br&gt;한 글자 차이일 뿐이지만, 받는 수당은 달라진다. ‘무급휴일’에 일하면 평일 근무시간과 상관없이 수당 1.5배를 받을 수 있으나, ‘무급휴무일’의 경우 1.5배의 수당을 받으려면 통상 주 40시간의 소정근로시간을 채워야 한다는 조건이 붙는다. 만약 평일에 연차나 반차를 썼다면 토요일에 추가로 근무했어도 1.5배 수당을 받기 어려운 구조다. &lt;br&gt;&lt;br&gt;남양주시 공무직 노조 측은 “무급휴무로 적용될 경우 주중에 사정이 생겨 40시간을 채우지 못하면 토요일 근무 1.5배 수당을 못 받게 될 가능성이 있다”며 “노동자에게 명백하게 불이익”이라고 했다. &lt;br&gt;&lt;br&gt;지난 6월 이를 인지한 노조는 시청 측에 이의를 제기했지만 받아들여지지 않았고, 결국 고용노동청 의정부지청에 진정을 냈다. 남양주시는 이런 취업규칙 변경 사실을 알리지 않은 이유에 대해 “노동자에게 불이익한 변경이 아니어서 신고할 필요가 없었다”고 주장했다. &lt;br&gt;&lt;br&gt;하지만 이 사안을 조사한 고용노동청 의정부지청은 “남양주시가 취업 규칙을 변경하며 무급휴일을 무급휴무일로 변경한 것은 취업규칙 불이익 변경으로 인정된다”고 보고 과태료 처분을 내렸다. 또한 “취업규칙을 불이익 변경했음에도 근로자 과반으로 조직된 노동조합 또는 근로자 과반수의 동의를 받지 않은 사실도 확인됐다”며 시청에 대해 행정지도할 예정이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 전재수 책 500권 사준 단체 대표는 윤영호</title>
       <link>https://www.chosun.com/national/court_law/2025/12/22/LKQFBF3KUFCTLJULICUBKPLZRY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/22/LKQFBF3KUFCTLJULICUBKPLZRY/</guid>
@@ -950,15 +959,6 @@
       <pubDate>Sun, 21 Dec 2025 20:00:00 +0000</pubDate>
       <content:encoded>전재수 더불어민주당 의원의 책 500권을 구매한 통일교 계열 단체의 대표는 윤영호 전 통일교 세계본부장이었던 것으로 21일 확인됐다. 책 구매를 결정하고 결재한 최종 책임자가 윤씨였던 것이다. 앞서 민중기 특별검사팀 조사에서 윤씨는 전 의원에 대한 금품 로비는 “천정궁에서 이뤄진 것으로 안다”는 식으로 진술했는데, 자신이 관여한 정황이 드러난 셈이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 통일교 유관 기관인 효정문화원은 2019년 11월 전 의원이 펴낸 책 ‘따뜻한 숨’ 500권을 구매하기 위해 예산 1000만원을 지출한다는 품의서를 올렸다. 품의서 최종 결재권자인 당시 효정문화원장은 윤영호씨였다. 통일교 한 관계자는 “윤씨는 출교 조치 전까지 통일교 세계본부장과 총재 비서실 사무총장, 천주평화연합(UPF) 본부장, 효정문화원장 등 총 4개 직책을 맡고 있었다”고 했다. 효정문화원은 효정국제문화재단 산하의 비영리 단체로, 유니버설발레단 등 문화예술 단체를 지원하는 사업을 주로 한다. 윤씨는 2017년부터 2023년까지 이곳 원장을 지냈다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZXMBAGMYRVBLDH7CL6CW6ZNBSU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 윤씨는 지난 8월 특검팀 면담에서 “전재수 의원과 임종성 전 민주당 의원, 김규환 전 미래통합당 의원 등 정치인들이 천정궁에 다녀간 것으로 안다” “이들이 천정궁에서 현금과 명품 시계 등 수천만원대 금품을 받았다고 들었다”는 등의 진술을 했다. 통일교와 민주당 인사와의 유착을 의심케 하는 진술이었다. 다만 그는 이러한 로비에 자기가 직접 관여했는지는 말을 아꼈다고 한다. 윤씨 조사에 관여한 특검 관계자는 “본인이 직접 건넨 것이 아니어서 그런지 진술이 구체적이지는 않았다”고 전했다. &lt;br&gt;&lt;br&gt;당시 특검은 효정문화원도 압수수색했다. 하지만 효정문화원이 전 의원 책을 구매한 사실은 특검이 사건을 경찰 국가수사본부에 넘긴 뒤에 알려졌다. 법조계 한 인사는 “특검이 윤씨 진술을 전문(傳聞) 진술로 치부했거나 민주당 관련 수사는 하지 않으려고 눈을 감은 것이란 의구심을 낳는다”고 했다.&lt;br&gt;&lt;br&gt;민중기 특검팀은 민주당과 달리, 국민의힘의 유착 의혹을 수사할 때는 태도가 180도 달랐다는 증언이 쏟아지고 있다. 지난 7월 민 특검팀 조사를 받은 통일교 간부 A씨는 본지에 “특검 검사에게 황당한 질문을 받았고, 내가 한 답변과 다른 답변을 조서에 남기기도 했다”고 했다. 특검 검사가 한학자 총재를 엮기 위해 질문과 답변을 왜곡했다는 주장이다.&lt;br&gt;&lt;br&gt;A씨 주장은 이렇다. 특검 검사가 “통일교는 어떤 사람이 정치 지도자가 되길 바라느냐”고 물어 “하늘을 경외하고 하나님을 믿는 양심적인 지도자가 나오길 바란다”고 답했더니, 검사가 “통일교는 참부모(문선명·한학자 총재)와 통일교를 지지하는 대통령이나 국회의원이 되길 바라겠네요”라고 되물었다고 한다. 이에 A씨가 “그러면 좋지만 우리는 하나님을 믿고 양심적인 지도자가 나오면 좋다”라고 답했는데, 조사를 마칠 때쯤 조서를 보니 “통일교는 참부모를 따르는 사람이 국회의원과 대통령이 되길 바란다”고 적혀 있었다는 것이다. A씨는 “하나님이라는 말을 쏙 빼고 참부모를 넣어놨길래 ‘내가 말한 것과 다르지 않으냐’고 지적하니, 검사가 ‘말장난 하냐’며 면박을 줬다”며 “지치고 힘들어서 결국 조서 수정을 포기했다”고 했다.&lt;br&gt;&lt;br&gt;비슷한 시기 민중기 특검의 조사를 받은 통일교 호남 담당자 B씨도 “교인들에게 ‘진영 논리에 상관없이 우리 뜻을 잘 전할 사람을 뽑아야 한다’고 말했다고 진술했는데, 검사가 ‘호남에서 진영 논리와 상관없이라고 말하는 건 사실상 국민의힘을 지지하라는 뜻 아니냐’고 되물었다”며 “사실상 국민의힘 지원을 지시했다는 답을 유도하는 것 같았다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 경찰은 지난 19일 전재수 의원을 피의자 신분으로 불러 14시간이 넘게 조사했다. 전 의원은 경찰 조사를 마치고 나와 기자들에게 “통일교 측으로부터 그 어떠한 금품 수수도 없었다는 점을 다시 한번 분명히, 강력히 말씀드린다”고 했다. “통일교 측이 저서 500권을 산 것은 문제가 없다는 입장이냐” 등 질문에는 “죄송하다”며 자리를 피했다.&lt;br&gt;&lt;br&gt;한편 민중기 특검은 지난 20~21일 민중기 특검은 윤석열 전 대통령과 이준석 개혁신당 대표를 연이어 소환 조사했다. 특검은 20일 정치자금법 위반, 뇌물수수 등 6개 혐의를 받는 윤 전 대통령을 8시간 30분간 조사하며 김건희 여사가 통일교 등으로부터 명품백 등 금품을 받고, 국회의원 선거 공천 과정에 개입한 사실을 미리 알고 있었는지 등을 집중 캐물은 것으로 전해졌다. 이튿날 이 대표 조사에서는 그가 윤 대통령과 함께 2022년 지방선거와 국회의원 재·보궐 선거 때 공천에 개입했는지 여부를 조사했다. 민 특검의 수사 기간은 오는 28일까지다.&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/NY7UPYOL65DOPIIIEAIXYTMWPU.jpg?auth=fe59a1f8f396286a1b7f1a7d7385ce467b60c8a82d2dd862a67c19e73f0abbf6&amp;smart=true&amp;width=606&amp;height=341" type="image/jpeg" height="341" width="606"/>
-    </item>
-    <item>
-      <title>“정부가 성과급 약속 어겼다” 철도노조, 23일부터 총파업</title>
-      <link>https://www.chosun.com/national/labor/2025/12/20/QJIKVDSDZNBCDOH5MVJ5KHMH7Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/labor/2025/12/20/QJIKVDSDZNBCDOH5MVJ5KHMH7Q/</guid>
-      <dc:creator>윤상진 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 19 Dec 2025 15:54:00 +0000</pubDate>
-      <content:encoded>코레일(한국철도공사) 1노조인 전국철도노조가 23일부터 총파업 돌입을 예고했다. ‘성과급 정상화’를 요구하는 철도노조는 원래 지난 11일부터 파업을 할 예정이었지만, 바로 하루 전날(10일) 정부와 잠정 합의안이 마련되면서 파업 계획을 유보한 상태였다. 하지만 불과 열흘도 안 돼 다시 파업을 예고한 것이다. &lt;br&gt;&lt;br&gt;철도노조는 19일 서울역 앞에서 기자회견을 열고 “정부의 ‘성과급 정상화’ 약속 위반으로 합의는 파기될 예정”이라며 “정부의 입장 변화가 없다면 23일 오전 9시부터 총파업에 돌입하겠다”고 밝혔다. 다만 철도노조가 파업을 하더라도 평소 열차 운행률의 70% 정도는 계속 유지된다는 게 사측인 코레일의 설명이다. 이와 함께 코레일은 24시간 비상 대책 본부를 가동해 열차 운행 관리에 나설 방침이다. &lt;br&gt;&lt;br&gt;철도노조가 문제 삼는 건 성과급 지급 기준이다. 성과급 기준이 ‘기본급의 100%’인 다른 공공기관들과 달리, 코레일은 ‘기본급의 80%’인데 이를 100%로 올려달라고 요구하고 있다. 코레일은 지난 2010년 정부가 공공기관 임금 체계를 개편할 때, 정부의 요청 자료를 노조 파업 등으로 1년 가량 늦게 제출해 이같은 성과급 패널티를 적용받고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
   </channel>
 </rss>
