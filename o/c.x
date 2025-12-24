@@ -13,6 +13,24 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조지호 “계엄 해제 직후 尹, ‘덕분에 빨리 끝났다’ 말해”…법정서 증언</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/24/ES4336Z5LJE6HHICUPTPGTARJA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/ES4336Z5LJE6HHICUPTPGTARJA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 09:26:37 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 해제 직후 윤석열 전 대통령이 조지호 전 경찰청장에게 “덕분에 (계엄이) 빨리 잘 끝났다”고 말했다는 법정 증언이 나왔다.&lt;br&gt;&lt;br&gt;조 전 청장은 24일 서울중앙지법 형사25부(재판장 지귀연) 심리로 열린 윤 전 대통령의 내란 우두머리 사건 공판에 증인으로 출석해 “윤 전 대통령이 ‘덕분에 (계엄이) 빨리 잘 끝났어’라고 말했다”고 증언했다. 그는 계엄 해제 이후 윤 전 대통령이 전화해 “조 청장 수고했어”라고 말했고, 이에 “대통령님 죄송합니다”라고 답하자 이 같은 말을 했다고 설명했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBRWIOBUMQ2TGNDDMM2DKMTFGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 전 경찰청장이 24일 오전 서울 서초구 서울중앙지법에서 열린 윤석열 전 대통령의내란 우두머리 혐의 재판에 증인으로 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 전 청장은 계엄 당일인 지난해 12월 3일 오후 7시 20분 서울 종로구 삼청동 대통령 안가에서 김봉식 전 서울경찰청장과 함께 윤 전 대통령, 김용현 전 국방장관을 만나 계엄 선포 계획을 전달받았다고 증언했다. 이 자리에서 계엄 관련 문건도 받았다고 했다.&lt;br&gt;&lt;br&gt;그는 “윤 전 대통령이 (계엄 선포) 시간은 구체적으로 말하지 않았지만, 계엄을 선포한다는 말은 했다”며 “‘경찰이 중요하니 치안 유지를 잘해달라’고도 했다”고 말했다. 특검팀이 당시 윤 전 대통령이나 김 전 장관에게 의견을 밝혔는지를 묻자, 조 전 청장은 “발언 기회가 주어지지 않았다”고 답했다. 이후 김 전 장관에게 계엄 관련 A4 문건을 건네받았다고 했다.&lt;br&gt;&lt;br&gt;조 전 청장은 윤 전 대통령이 계엄 선포를 실행에 옮길 것이라고는 생각하지 않았다고 했다. 그는 “30년 이상 공직 경험으로 봤을 때 계엄은 불리하다고 판단했다”며 “중앙부처에서 오래 근무한 상식으로 볼 때 이번 계엄은 해프닝으로 끝날 가능성이 크다고 생각했다”고 말했다.&lt;br&gt;&lt;br&gt;특검팀이 “대통령이 말했기 때문에 강행할 수도 있지 않을까 하는 생각은 없었느냐”고 묻자, 조 전 청장은 “그런 생각이 전혀 없었다면 거짓말”이라고 답했다. 다만 그는 “당일 밤 9시 50분 김 전 장관으로부터 ‘계엄 선포가 늦어진다’는 전화를 받고 속으로 ‘그럼 그렇지, 이게 되겠어’라고 생각했다”고 덧붙였다. 이후 윤 전 대통령은 그날 밤 10시 27분 계엄을 선포했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“월담 의원 체포 지시” 증언... 尹 측은 부인&lt;/b&gt;&lt;br&gt;&lt;br&gt;조 전 청장은 계엄 당일 윤 전 대통령이 국회로 담을 넘어 들어가는 의원들을 불법으로 보고 체포하라는 지시를 했다고 주장했다. 그는 계엄 선포 이후 윤 전 대통령으로부터 모두 6차례 전화를 받아 이 같은 지시를 받았다고 했다.&lt;br&gt;&lt;br&gt;조 전 청장은 “처음에는 ‘국회를 통제해달라’고 했지만 ‘법률적 근거가 없어 안 된다’고 했다”며 “이후에는 ‘국회 담이 워낙 낮아 쉽게 월담할 수 있고, 월담하는 의원들은 불법이니 체포하라’고 했다”고 말했다.&lt;br&gt;&lt;br&gt;이에 대해 윤석열 전 대통령 변호인단은 “객관적 정황과 전혀 부합하지 않는다”며 재판 종료 뒤 반박 입장문을 냈다. 변호인단은 “윤 전 대통령과의 통화가 이뤄진 시간대에는 경찰이 이미 국회의원과 국회 관계자들의 출입을 허용하고 있었다”며 “당시 현장은 의원들이 담을 넘어 들어갈 수밖에 없는 상황이 아니었고, 실제로 그런 필요성이나 긴급성도 존재하지 않았다”고 주장했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“체포할 건데 위치추적”… 여인형 요청 증언&lt;/b&gt;&lt;br&gt;&lt;br&gt;계엄 당시 여인형 전 방첩사령관이 조 전 청장에게 전화해 경찰 100명을 지원해달라고 요청했다는 증언도 나왔다.&lt;br&gt;&lt;br&gt;조 전 청장은 “여 전 사령관이 본인이 합수본부장을 맡을 것이라며 ‘경찰 안보수사요원 100명을 지원해달라’고 했고, 사람 이름을 부르며 메모해달라고 했다. 체포할 건데 위치 추적을 해달라고 했다”고 증언했다. 당시 여 전 사령관이 추가로 위치 추적 명단을 언급하며 “‘한동훈(전 국민의힘 대표) 추가입니다’라고 말했다”고도 했다.&lt;br&gt;&lt;br&gt;이날 조 전 청장은 증언거부권을 행사하지 않았다. 그는 그 이유에 대해 “증언을 거부해야 할 이유도 없고, 제가 잘못한 건 당연히 벌을 받아야 한다”며 “사실을 왜곡하거나 책임을 피할 생각은 없다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>통일교, 전재수에 시계 사줬나… 경찰, 불가리코리아 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/OBUJCWP3X5FZJOHSWI2UOM7YEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/OBUJCWP3X5FZJOHSWI2UOM7YEM/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 08:49:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LQJWXLWY4VAOBNCKJEOKCI35DE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 19일 오전 더불어민주당 전재수 의원이 서울 서대문구 경찰청에 출석하고 있다./박성원 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 전재수 전 해양수산부 장관의 이른바 ‘불가리 시계 전달 의혹’과 관련해 불가리코리아를 압수 수색하고 구매 내역 추적에 나섰다. 통일교 측 인사가 2018년 전후 불가리 시계를 구매해 전 전 장관에게 전달했는지 확인하기 위한 조치다.&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별전담수사팀은 23일 불가리코리아를 압수 수색해 제품 구매 이력과 거래 기록 등 자료 확보를 시도했다고 24일 밝혔다. 경찰은 확보 자료를 토대로 실제 구매·전달 경로를 확인하는 데 수사력을 집중하고 있다.&lt;br&gt;&lt;br&gt;다만 현재까지 해당 시계의 실물은 확보하지 못한 것으로 전해졌다. 경찰은 이번 압수 수색 결과를 바탕으로 전 전 장관에게 적용된 뇌물수수 혐의의 성립 여부를 검토하는 한편, 공소시효 등도 고려해 수사를 이어갈 방침이다. 정치자금법 위반 혐의와 비교해 뇌물수수 혐의는 공소시효가 상대적으로 길다는 점도 염두에 두고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;전 전 장관은 통일교 측으로부터 불법적인 금품을 받은 바 없다며 혐의를 전면 부인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘가격 10분의 1’ 싸게 팔더니… 알리·테무 판매 제품, 전부 가짜 판명</title>
       <link>https://www.chosun.com/national/national_general/2025/12/24/7WAJWULH4FAUVNG2KN5RZQ357E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/7WAJWULH4FAUVNG2KN5RZQ357E/</guid>
@@ -923,24 +941,6 @@
       <description/>
       <pubDate>Tue, 23 Dec 2025 06:21:09 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRSWIYRZGZRDSZJVGI3TOYRWHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 민간 사격장에서 20대 남성이 자신이 쏜 총에서 발사된 실탄에 맞아 숨졌다. &lt;br&gt;&lt;br&gt;23일 인천 연수경찰서 등에 따르면, 전날 오후 5시 14분쯤 인천 연수구 송도동의 한 민간 사격장에서 A(21)씨가 실탄에 맞았다.&lt;br&gt;&lt;br&gt;이 사고로 머리 부위를 크게 다친 A씨는 그 자리에서 숨진 것으로 파악됐다. &lt;br&gt;&lt;br&gt;A씨는 우울증과 조현병을 앓던 중 혼자 사격장에 간 것으로 알려졌다. &lt;br&gt;&lt;br&gt;A씨가 숨진 민간 사격장은 인터넷 등엔 ‘이색 데이트 장소’로 홍보되고 있다. 관련 법에선 만 14세 미만 미성년자와 음주자, 심신 상실자, 위해 발생 우려자 등의 이용을 제한하고 있으나 A씨는 별다른 제한 없이 사격장을 이용한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 A씨가 자신을 향해 실탄을 발사한 것으로 보고 정확한 사건 경위를 조사할 계획이다. 또 해당 사격장의 영업을 무기한 정지하고, 운영상 과실이 있는지 추가로 조사할 방침이다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “사격장 측을 상대로 입건 전 조사(내사)를 하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>4년간 ‘6건’ 기소한 공수처, 389억원 들여 독립청사 신축</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/23/3UETSVPARND67IYZRNPUQGMQ3A/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/3UETSVPARND67IYZRNPUQGMQ3A/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 06:10:03 +0000</pubDate>
-      <content:encoded>고위공직자범죄수사처(공수처)가 2030년 입주를 목표로 정부과천청사 인근에 독립 청사를 마련한다. 출범 4년 만에 독립 청사 신축 계획을 본격화한 것으로, 예상 총사업비는 389억원이다. 법조계 일각에서는 “공수처가 출범 이후 보여준 성과에 비해 막대한 예산을 들이는 것 같다”는 반응이 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A72NT7ML5WDSY6JIDXQRT6DLU4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;공수처 전경 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;23일 공수처 관계자는 정례 브리핑에서 “기본·실시설계를 거쳐 2027년쯤 공수처 독립 청사의 착공이 이뤄질 전망”이라며 “신청사 입주는 2030년으로 예상한다”고 밝혔다.&lt;br&gt;&lt;br&gt;공수처 독립 청사 설계안에 따르면, 신청사는 정부과천청사 앞 국유지 주차장 부지에 연면적 1만1487㎡, 지하 1층∼지상 3층 규모로 들어선다. 공수처는 2021년 출범 이후 다른 기관들과 함께 정부과천청사 5동의 2·3층과 5층 일부를 사무실로 사용해왔다. 수사기관임에도 업무 공간이 독립되지 않아 보안 유지 등에 어려움이 있었다는 것이 공수처 입장이다.&lt;br&gt;&lt;br&gt;다만 공수처가 출범 이후 뚜렷한 수사 성과를 내지 못한 점은 독립 청사 신축 과정에서 적잖은 부담이 될 것으로 보인다. 국회에 제출된 국정감사 자료를 보면, 공수처는 2021년 공식 출범한 이후 올해 8월까지 총 8건의 구속영장을 청구해 2건밖에 발부받지 못했다. 같은 기간 직접 기소한 사건도 6건에 그쳤다. &lt;br&gt;&lt;br&gt;법조계 한 인사는 “매년 150억원 안팎의 예산을 쓰면서도 수사 성과가 턱없이 부족했다”며 “무려 389억원을 들인 공수처 청사 신축을 여론이 반길지 의문”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김영환 충북지사 “대전·충남 통합, 정치적 목적 안 돼”… 조건부 찬성</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/23/S2ZW44FETRBVNHUCHIHWZEFHE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/23/S2ZW44FETRBVNHUCHIHWZEFHE4/</guid>
-      <dc:creator>신정훈 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 05:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYAYJCJZIFHRJFLCCMWXV2ANRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사가 23일 오전 충북도청 브리핑룸에서 기자간담회를 갖고 대전·충남 행정통합과 관련해 충북도 입장을 밝히고 있다./충북도제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영환 충북지사가 급물살을 타고 있는 대전·충남 행정 통합 논의와 관련해 조건부 찬성 입장을 밝혔다.&lt;br&gt;&lt;br&gt;대전·충남 행정 통합 논의는 수도권 집중 심화와 지방 소멸 위기에 대한 문제의식 속에서 최근 속도를 내고 있다. 정부가 ‘5극 3특’ 국가 균형 발전 구상을 국정 과제로 추진하면서, 기존 광역자치단체 체제를 넘어 초광역 단위로 경쟁력을 키워야 한다는 공감대가 확산된 데 따른 것이다. &lt;br&gt;&lt;br&gt;행정안전부가 내년 7월 1일 통합을 목표로 전담 태스크포스(TF)를 설치·운영하기로 하면서 논의는 정부 차원의 검토 단계로 접어들었다는 평가가 나온다.&lt;br&gt;&lt;br&gt;김 지사는 23일 오전 충북도청 브리핑룸에서 기자간담회를 열고 “대전·충남 행정 통합은 수도권 일극 체제를 극복하고 국가 균형 발전을 촉진한다는 점에서 기본적으로 찬성한다”고 말했다.&lt;br&gt;&lt;br&gt;다만 그는 “행정 통합 논의는 이미 출범한 충청광역연합이라는 초광역 협력의 틀 안에서 이뤄져야 한다”며 “이를 선거를 겨냥한 정치적 목적이나 단기적 계산으로 접근해서는 안 된다”고 강조했다.&lt;br&gt;&lt;br&gt;김 지사는 행정 통합 논의를 충북 도약의 기회로 삼겠다는 전략도 함께 제시했다. 그는 “국정과제인 ‘5극 3특’ 기조를 적극 활용해 첨단 전략 산업, 공항·물류, 광역 교통 분야에서 충청권 성장 엔진 역할을 확대할 것”이라며 “충북은 이미 성장 기반을 갖춘 만큼 위기감을 느끼며 위축될 필요는 없다”고 했다.&lt;br&gt;&lt;br&gt;세종시와의 협력 구상도 밝혔다. 김 지사는 “세종시는 행정중심복합도시라는 특수성과 성격이 뚜렷해 물리적인 행정 통합은 현실적으로 어렵다”면서도 “돔구장 공동 건립을 포함한 문화·체육 인프라 협력 등 새로운 연대와 발전 전략을 마련해 실행해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;지역 정·관계에서도 긍정적인 반응이 이어지고 있다. 송기섭 진천군수는 “수도권에 맞서 충청권 경쟁력을 높이기 위한 결단”이라며 “지금이야말로 충북이 제 목소리를 내고 정당한 대우를 받을 수 있는 골든타임”이라고 평가했다.&lt;br&gt;&lt;br&gt;충북 출신인 신용한 대통령 직속 지방시대위원회 부위원장도 전날 기자들과 만나 “충북은 통합 논의의 흐름을 지켜보며 대의명분과 실리를 냉정하게 따져 소외되지 않고 실질적 이익을 확보할 방안을 찾으면 된다”고 말했다.&lt;br&gt;&lt;br&gt;한편 행정안전부는 부처 자치혁신실 산하에 대전·충남 행정 통합 태스크포스(TF)를 설치해 제도적·재정적 쟁점을 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>관봉권·쿠팡 특검, 쿠팡풀필먼트 압수수색</title>
