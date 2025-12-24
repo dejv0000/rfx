@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘언론사 단전·단수 지시’ 이상민 前행안장관 보석 기각… 계속 구속 재판</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/24/P3IEMXNOZZFYPGT2CS5ZEPIMGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/P3IEMXNOZZFYPGT2CS5ZEPIMGU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 05:11:58 +0000</pubDate>
+      <content:encoded>12·3 비상계엄 당시 특정 언론사에 대한 단전·단수 지시를 전달한 혐의로 재판을 받고 있는 이상민 전 행정안전부 장관의 보석 청구가 24일 기각됐다.&lt;br&gt;&lt;br&gt;서울중앙지법 형사32부(재판장 류경진)는 내란 중요 임무 종사, 직권남용, 위증 등 혐의로 구속 기소된 이 전 장관의 보석 청구를 받아들이지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MRSDKNJXGA4TKNZYMVRTAOBWGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;12·3 비상계엄 당시 특정 언론사 단전·단수를 지시한 혐의로 구속 기소된 이상민 전 행정안전부 장관이 지난 10월 17일 오전 서울 서초구 서울중앙지법에서 열린 첫 공판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 전 장관은 지난 8월 1일 구속돼 같은 달 19일 구속 상태로 재판에 넘겨졌다. 구속 직후 구속적부심을 청구했으나 기각됐고, 이달 16일 다시 보석을 청구했다. 법원은 19일 약 30분간 비공개로 보석 심문을 진행한 뒤 기각 결정을 내렸다.&lt;br&gt;&lt;br&gt;이 전 장관은 경찰청과 소방청에 특정 언론사를 상대로 단전·단수 지시를 전달하는 등 윤석열 전 대통령의 내란 범죄에 순차적으로 가담한 혐의를 받는다. 또 지난 2월 헌법재판소의 윤 전 대통령 탄핵 심판에 증인으로 출석해 “단전·단수 지시를 대통령으로부터 받은 적 없고, 소방청 등에 전달하지도 않았다”고 거짓 증언한 혐의도 적용됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>중증외상 생존율 늘었지만 장애율 75% 육박... 고령화에 추락·미끄러짐 사고도 급증</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/24/J4A4T4OELZFEJAO23IU3LY6MKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/24/J4A4T4OELZFEJAO23IU3LY6MKA/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 05:10:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GDUHOSEODGZZCMKF6M3V3AGL4Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 권역외상센터 의료진들이 이송된 중증외상환자를 수술하고 있다./국립중앙의료원 유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국의 중증 외상 환자들의 생존율이 높아지고 있는 가운데, 정작 생존 이후 심각한 장애를 얻는 비율은 높아지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;24일 질병관리청이 발표한 ‘2024년 중증 손상 및 다수 사상 조사 통계’에 따르면 지난해 중증 외상 환자는 8170명이었다.&lt;br&gt;&lt;br&gt;지난해 통계만 보면 외상 환자 수나 성별 비율(남성 73.1%·여성 26.9%) 등 추이는 예년과 크게 다르지 않았다. 하지만 중증 외상 환자의 사망률을 뜻하는 치명률이 54.7%를 기록하며 2016년의 60.5%보다 줄어드는 추세를 보였다. 치명률은 2019년 52.2%까지 내려갔다가 2022년까지 잠깐 오름세를 보였으나, 2023년과 지난해 2년 연속 54.7%를 기록하며 전반적인 내림세를 기록하고 있다.&lt;br&gt;&lt;br&gt;문제는 장애율이다. 환자가 퇴원할 때 장애를 얻게 된 비율이 2016년 62.8%에서 74.9%로 크게 치솟았다. 이 수치는 2019년 61.2%로 잠시 개선되는 듯했으나 이후 매년 오르고 있다. 환자가 식물인간이 되거나 퇴원할 때 중증 장애인이 되는 비율을 뜻하는 중증 장애율도 2016년 29.3%에서 지난해 30.8%로 올랐다.&lt;br&gt;&lt;br&gt;지난해 중증 외상의 또 다른 특징은 고령층 관련 사고가 늘었다는 것이다. 중증 외상의 주요 원인을 살펴보면 운수 사고(47.8%), 추락·미끄러짐(44.5%)이 특히 많았는데, 특히 추락·미끄러짐은 2016년 33.5%에서 10%포인트 늘어났다. 질병청은 “생활 환경과 고령 인구 증가 등 사회적 요인이 반영됐음을 예상할 수 있다”고 분석했다.&lt;br&gt;&lt;br&gt;실제 인구 분포별로도 이런 경향은 드러났다. 중증 외상 환자 중 60대의 분포가 22.1%로 전체 연령 중 가장 많았다. 전년 22.7%보단 소폭 줄었지만 2016년 18.3%에서는 크게 늘어난 모습을 보였다. 같은 기간 70대도 15.6%에서 16.1%로 늘었으며, 80대 이상은 6.5%에서 11.5%로 두 배 가까이 늘었다.&lt;br&gt;&lt;br&gt;중증 외상으로 손상된 부위는 머리(41.6%)가 가장 많았으며, 흉부(33.4%), 하지(13.5%) 등이 뒤를 이었다. 중증 외상 환자가 권역 외상센터로 이송된 비율은 2016년 15%에서 꾸준히 증가해 지난해엔 46.9%를 기록했다. 지역 응급의료센터로 주로 이송되던 중증 외상 환자가 권역 외상센터로 가는 비율이 늘었다는 것은 권역 외상센터의 역할과 중요성이 커지고 있음을 의미한다는 분석이다.&lt;br&gt;&lt;br&gt;임승관 질병청장은 “치명률은 감소했지만 높아지는 장애율을 개선하기 위해서는 생존 이후 치료와 재활을 위한 정책적 보완이 필요하다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이하늬, 기획사 미등록 혐의로 송치...소속사 “등록 완료”</title>
+      <link>https://www.chosun.com/national/people/2025/12/24/2RVMJBW4BZCPJBUYWM2IAG4DGU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/24/2RVMJBW4BZCPJBUYWM2IAG4DGU/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 04:19:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/2HWU2LEXKJFDHKCMHFV46TTTEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 이하늬./넷플릭스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 이하늬가 대중문화예술기획업 미등록 혐의로 검찰에 넘겨진 것과 관련, “정식 등록을 완료했다”고 밝혔다.&lt;br&gt;&lt;br&gt;이하늬 소속사 호프프로젝트는 24일 “호프프로젝트는 대중문화예술산업발전법 제26조 제1항에 따라 대중문화예술기획업 등록을 완료했으며, 지난 10월 28일 등록증을 정식으로 수령했다”며 “향후 진행 중인 관련 절차에도 성실히 임할 예정”이라고 밝혔다. &lt;br&gt;&lt;br&gt;앞서 서울 강남경찰서는 전날 이하늬와 남편 장모씨, 법인 호프프로젝트를 대중문화예술산업발전법 위반 혐의로 서울중앙지검에 불구속 송치했다. &lt;br&gt;&lt;br&gt;논란이 된 법인 호프프로젝트는 이하늬가 2015년 설립한 주식회사 하늬에서 출발했다. 회사는 2018년 주식회사 이례윤으로, 2022년 9월 주식회사 호프프로젝트로 사명을 바꿨다. 2023년 1월까지 이하늬가 대표이사와 사내이사를 맡았고, 현재는 남편이 대표를, 이하늬가 사내이사를 맡고 있다. &lt;br&gt;&lt;br&gt;지난 9월 이 회사가 대중문화예술기획업 등록 없이 운영돼 왔다는 사실이 뒤늦게 알려지면서 논란이 불거졌다. 당시 이하늬는 소속사를 통해 “호프프로젝트는 대중문화예술기획업 등록 의무에 대해 충분히 인지하지 못해 등록 절차를 진행하지 못했다”며 “최근 해당 사실을 확인한 이후 전문가의 자문을 받아 관련 규정에 따라 절차를 진행하고 있으며, 조속히 계도 기간 내 등록을 완료할 예정”이라고 해명했다. &lt;br&gt;&lt;br&gt;현행 대중문화예술산업발전법에 따르면 법인이나 개인사업자가 대중문화예술기획업을 영위하려면 등록 절차를 거치도록 규정하고 있으며, 미등록 영업 시 2년 이하 징역 또는 2000만원 이하 벌금에 처할 수 있다.&lt;br&gt;&lt;br&gt;이하늬는 올해 초 국세청의 세무조사를 받고 60억원 상당의 세금을 추가로 납부한 사실이 알려져 논란이 일었다. 당시 언론 보도를 통해 탈세 의혹이 제기되자 이하늬 소속사는 “이번 세무조사 결과에 따른 소득세 부과 처분은 법인 사업자를 보유한 아티스트의 소득을 법인세와 소득세 중 어느 세목으로 납부해야 하는지에 대한 법 해석 차이에서 비롯된 것”이라고 설명했다.&lt;br&gt;&lt;br&gt;소속사는 “이하늬는 본업인 연기 활동과 더불어 매니지먼트에서 수행하거나 관리해 줄 수 없는 국악 공연, 콘텐츠 개발 및 제작, 투자 등 다양한 활동을 수행하기 위해 호프프로젝트(법인)를 설립해 운영해 왔다”며 “최근 세무조사 과정에서 연예 활동 수익이 법인 사업자의 매출로써 법인세를 모두 납부했더라도 그 소득은 법인 수익으로 법인세 납부의 대상이 아니라 개인 소득으로 소득세 납부의 대상이 돼야 한다는 과세 관청의 해석이 있었다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “이에 따라 소득세 추가 부과 처분이 내려졌으며, 이하늬는 이를 전액 납부했다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“남자로 태어났으면”…정동원, 내년 2월 해병대 자원입대</title>
+      <link>https://www.chosun.com/national/people/2025/12/24/QFXJ4R2ZHZAK5MXUOPFHQ2X7AA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/24/QFXJ4R2ZHZAK5MXUOPFHQ2X7AA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 04:47:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2TIYTGMU4TEMTBHFTGGMBQMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 정동원./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;가수 정동원(18)이 고등학교 졸업 후 해병대에 입대할 예정이다. &lt;br&gt;&lt;br&gt;소속사 쇼플레이엔터테인먼트는 24일 “정동원이 고등학교를 졸업한 뒤 내년 2월 23일 해병대에 입대한다”고 밝혔다. &lt;br&gt;&lt;br&gt;이어 “입소 당일에는 별도의 공식 행사를 진행하지 않을 예정”이라며 “입소식은 다수의 장병 및 가족들이 함께하는 자리인 만큼, 현장 방문은 삼가시기를 정중히 부탁드린다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “정동원이 건강하게 국방의 의무를 마치고 더욱 성숙한 모습으로 여러분 곁에 돌아올 수 있도록 따뜻한 응원을 부탁한다”고 당부했다.&lt;br&gt;&lt;br&gt;현재 서울공연예술고등학교에 재학 중인 정동원은 입대 의사를 이미 공개적으로 밝혀온 바 있다. &lt;br&gt;&lt;br&gt;정동원은 개인 유튜브 채널을 통해 해병대 지원 계획을 알렸고, 지난 6월에는 해병대 출신인 가수 겸 배우 오종혁을 만나 군 생활 전반에 대한 조언을 듣는 모습도 공개했다.&lt;br&gt;&lt;br&gt;당시 영상에서 정동원은 “남자로 태어났으면 멋있게 (군대에) 다녀오고 싶다”며 “아버지도 707특임대를 나오셔서 군대 이야기를 많이 해주셨다”고 말했다.&lt;br&gt;&lt;br&gt;정동원은 2019년 데뷔했으며, 2020년 TV조선 오디션 프로그램 ‘내일은 미스터트롯’에서 최종 5위를 기록하며 대중적인 인지도를 얻었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘내란전담재판부 특별법’ 규탄… 한변, 29일 대법원 앞 시국선언 예고</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/24/KNMXEBLLBZAERGOVQWHHCHUWSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/KNMXEBLLBZAERGOVQWHHCHUWSI/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 04:35:51 +0000</pubDate>
+      <content:encoded>여당 주도로 국회를 통과한 ‘내란전담재판부 특별법’을 규탄하는 시국선언 기자회견이 오는 29일 오전 11시 서울 서초구 대법원 정문 앞에서 열린다.&lt;br&gt;&lt;br&gt;한반도 인권과 통일을 위한 변호사 모임(한변)은 24일 “민주당 정권의 사법 정의 침탈 시도를 규탄한다”며 기자회견 개최를 예고했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTDKMJZHBRDSMDBHA4WKYZYMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;19일 서울 서초구 대법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한변은 국회가 지난 23일 본회의에서 ‘내란전담재판부 특별법’을 통과시킨 데 대해 “위헌 법률이라는 비판과 야당의 반대에도 기어이 입법을 강행했다”고 주장했다.&lt;br&gt;&lt;br&gt;또 최근 국회 법제사법위원회를 통과한 ‘법 왜곡죄’ 신설 법안, 대법관을 26명까지 늘리는 대법관 증원안, 재판에 대한 헌법소원을 허용하는 헌법재판소법 개정안 등을 거론하며 “이러한 위헌적인 법안들이 입법돼 시행되고 정치권력의 사법부에 대한 행패가 계속된다면 우리 사회의 사법 정의는 회복 불능으로 파괴돼 재판과 사법부의 독립은 붕괴될 것”이라고 했다. 이어 “법치가 무너지고 민주주의가 무너지고 종내에는 자유 대한민국도 무너지게 될 것”이라고 했다.&lt;br&gt;&lt;br&gt;한변은 또 “민주당은 공공연히 대법원장의 사퇴를 요구하고, 대법원장을 국회에 불러 모욕하며 일부러 대법정에 난입해 법과 사법부의 권위를 의도적으로 짓밟으려 했다”며 “이런 반민주적이고 반역적인 사법 정의 침탈을 시도하는 세력들은 누구든지 민주주의의 후퇴와 국가적 혼란에 대해 전적으로 책임을 져야 할 것이며, 역사의 단죄 역시 피할 수 없을 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[속보] 고려아연 손 들어준 법원...영풍·MBK ‘신주발행금지’ 가처분 기각</title>
       <link>https://www.chosun.com/national/court_law/2025/12/24/BHFAQIFG55H77JJM4QFC6D4TQ4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/BHFAQIFG55H77JJM4QFC6D4TQ4/</guid>
@@ -855,51 +900,6 @@
       <description/>
       <pubDate>Tue, 23 Dec 2025 05:44:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OYAYJCJZIFHRJFLCCMWXV2ANRM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사가 23일 오전 충북도청 브리핑룸에서 기자간담회를 갖고 대전·충남 행정통합과 관련해 충북도 입장을 밝히고 있다./충북도제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영환 충북지사가 급물살을 타고 있는 대전·충남 행정 통합 논의와 관련해 조건부 찬성 입장을 밝혔다.&lt;br&gt;&lt;br&gt;대전·충남 행정 통합 논의는 수도권 집중 심화와 지방 소멸 위기에 대한 문제의식 속에서 최근 속도를 내고 있다. 정부가 ‘5극 3특’ 국가 균형 발전 구상을 국정 과제로 추진하면서, 기존 광역자치단체 체제를 넘어 초광역 단위로 경쟁력을 키워야 한다는 공감대가 확산된 데 따른 것이다. &lt;br&gt;&lt;br&gt;행정안전부가 내년 7월 1일 통합을 목표로 전담 태스크포스(TF)를 설치·운영하기로 하면서 논의는 정부 차원의 검토 단계로 접어들었다는 평가가 나온다.&lt;br&gt;&lt;br&gt;김 지사는 23일 오전 충북도청 브리핑룸에서 기자간담회를 열고 “대전·충남 행정 통합은 수도권 일극 체제를 극복하고 국가 균형 발전을 촉진한다는 점에서 기본적으로 찬성한다”고 말했다.&lt;br&gt;&lt;br&gt;다만 그는 “행정 통합 논의는 이미 출범한 충청광역연합이라는 초광역 협력의 틀 안에서 이뤄져야 한다”며 “이를 선거를 겨냥한 정치적 목적이나 단기적 계산으로 접근해서는 안 된다”고 강조했다.&lt;br&gt;&lt;br&gt;김 지사는 행정 통합 논의를 충북 도약의 기회로 삼겠다는 전략도 함께 제시했다. 그는 “국정과제인 ‘5극 3특’ 기조를 적극 활용해 첨단 전략 산업, 공항·물류, 광역 교통 분야에서 충청권 성장 엔진 역할을 확대할 것”이라며 “충북은 이미 성장 기반을 갖춘 만큼 위기감을 느끼며 위축될 필요는 없다”고 했다.&lt;br&gt;&lt;br&gt;세종시와의 협력 구상도 밝혔다. 김 지사는 “세종시는 행정중심복합도시라는 특수성과 성격이 뚜렷해 물리적인 행정 통합은 현실적으로 어렵다”면서도 “돔구장 공동 건립을 포함한 문화·체육 인프라 협력 등 새로운 연대와 발전 전략을 마련해 실행해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;지역 정·관계에서도 긍정적인 반응이 이어지고 있다. 송기섭 진천군수는 “수도권에 맞서 충청권 경쟁력을 높이기 위한 결단”이라며 “지금이야말로 충북이 제 목소리를 내고 정당한 대우를 받을 수 있는 골든타임”이라고 평가했다.&lt;br&gt;&lt;br&gt;충북 출신인 신용한 대통령 직속 지방시대위원회 부위원장도 전날 기자들과 만나 “충북은 통합 논의의 흐름을 지켜보며 대의명분과 실리를 냉정하게 따져 소외되지 않고 실질적 이익을 확보할 방안을 찾으면 된다”고 말했다.&lt;br&gt;&lt;br&gt;한편 행정안전부는 부처 자치혁신실 산하에 대전·충남 행정 통합 태스크포스(TF)를 설치해 제도적·재정적 쟁점을 검토할 방침이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서부지법, ‘1·19 폭동 백서’ 발간… “사회 근간 부정한 것”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/23/WLWYWPVLPBBKREGSNCMXICV5NU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/WLWYWPVLPBBKREGSNCMXICV5NU/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 04:33:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5RGIMBYGBSWEYLDG5RDCOJVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 19일 새벽 윤석열 전 대통령에 대한 구속영장이 발부되자 서울서부지법에 지지자들이 진입해 난동을 부리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 1월 발생한 서울서부지법 집단 난동 사건을 다룬 백서가 발간된다.&lt;br&gt;&lt;br&gt;서울서부지법 백서발간위원회는 당시 사건의 전 과정과 재발 방지책 등을 정리한 ‘서울서부지법 1·19 폭동 사건 백서’를 발간했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;이번 백서는 사건 발생 과정과 피해 상황부터 법원과 관계기관의 대응, 재발 방지를 위한 과제를 종합적으로 담았다. 특히 시위대의 법원 청사 난입 전후 상황과 법원의 대응을 시간 순으로 정리해 향후 유사 사태 발생 시 대응 사례로 활용할 수 있도록 했다.&lt;br&gt;&lt;br&gt;김태업 서부지법원장은 발간사에서 “1·19 폭동은 다름을 인정하고 존중하면서 함께 사는 세상을 추구해 온 우리 사회의 근간을 부정하는 것으로 사법 시스템에 대한 중대한 침탈”이라며 “이번 백서가 폭동을 기억하고, 유사한 사태를 대비하고 수습하는 데 도움이 되기를 기대한다”고 밝혔다.&lt;br&gt;&lt;br&gt;백서는 이달 중 정부기관과 국회, 공공도서관 등에 배포될 예정이며 법원도서관 홈페이지에서도 일반 열람이 가능하다.&lt;br&gt;&lt;br&gt;앞서 지난 1월 19일 윤석열 전 대통령에 대한 구속영장이 발부되면서 격분한 지지자들은 서부지법에 난입했다. 이들의 난동으로 청사 내부와 각종 기물이 파손됐고 출동한 경찰들도 부상을 입었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘양평고속道 의혹’ 국토부 서기관 개인 비리에 징역 5년 구형</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/23/HCQLAY5AL5BDNEFAQ7GJAMFFFU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/HCQLAY5AL5BDNEFAQ7GJAMFFFU/</guid>
-      <dc:creator>김은경 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 04:27:23 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBSGIZRTGAZTKNDFGFSTAZBQHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김건희 여사 관련 의혹을 수사하는 민중기 특별검사팀이 서울-양평고속도로 노선 변경 과정에 김 여사와 그 일가가 부당하게 개입했다는 의혹과 관련해 지난 7월 14일 세종시에 있는 국토교통부 등에 대한 압수수색을 진행하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김건희 여사 관련 의혹을 수사하는 민중기 특검팀이 국토교통부의 국도 공사 과정에서 뒷돈을 받고 사업상 특혜를 준 혐의로 기소된 국토부 서기관에게 징역 5년을 구형했다. &lt;br&gt;&lt;br&gt;특검팀은 서울중앙지법 형사22부(재판장 조형우)에서 열린 김모 서기관의 특정범죄가중처벌법상 뇌물 혐의 결심 공판에서 징역 5년과 벌금 1억원을 선고하고 3600만원을 추징해달라고 요청했다. 특검팀은 앞서 양평고속도로 종점 변경 의혹을 수사하던 중 김 서기관의 이번 비리 혐의를 포착해 수사한 뒤 재판에 넘겼다. &lt;br&gt;&lt;br&gt;김 서기관은 2023년 6월~2024년 11월 용역업체가 국도 옹벽 공사 용역을 맡을 수 있도록 특혜를 준 대가로 업체 대표에게 현금 3500만원과 골프용품 상품권 100만원을 받은 혐의를 받았다. 특검팀은 “이 사건은 도로 건설이라는 국책 사업의 공정성을 저해하고 시장 질서를 침해했다”며 “장기간 청렴 의무를 저버리고 공무원의 지위를 남용해 저지른 범행의 동기와 수법이 매우 불량하다”고 했다. &lt;br&gt;&lt;br&gt;김 서기관은 최후 진술에서 “공직사회의 청렴성과 공정성을 훼손한 데 무거운 책임감을 느낀다”며 “묵묵히 소임을 다하는 공무원의 명예와 자긍심에 씻을 수 없는 상처를 안겨 죄송하다”고 말했다. 김 서기관의 1심 선고는 내년 1월 22일에 나온다.&lt;br&gt;&lt;br&gt;김 서기관은 국토부 도로정책과에 근무하던 2022년 서울-양평 고속도로 사업에 대한 타당성 조사를 하던 용역업체들에 ‘대안 노선을 검토하라’고 지시한 인물이다. 특검팀은 김 서기관이 이듬해 5월 서울-양평 고속도로 사업에서 종점을 김 여사 일가 땅이 몰려 있는 경기도 양평군 강서면으로 변경하는 과정에 관여했다고 의심하고 있지만, 이번 사건 공소사실에는 포함되지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>경찰, ‘전현무 차량 링거 투약’ 의혹 수사 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/23/UCCE4PCZGNB47JEYD2IOJXFMEU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/UCCE4PCZGNB47JEYD2IOJXFMEU/</guid>
-      <dc:creator>강지은 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 04:26:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EIOHAHKHJRMCTH4VPUHM3CRWZY.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 전현무씨./스포츠조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강남경찰서가 방송인 전현무(48)씨의 차량 내 링거 투약 의혹에 대한 수사에 착수했다고 23일 밝혔다. 전씨가 차 안에서 링거를 맞는 모습이 담긴 방송 화면이 최근 재조명되자 당시 링거 투약이 적법한 진료 절차에 따른 것인지 확인해달라는 내용의 진정이 국민신문고에 접수돼 경찰이 수사에 나선 것이다.&lt;br&gt;&lt;br&gt;이 의혹은 방송인 박나래(40)씨가 의료 면허 없는 이모씨로부터 불법 시술을 받았다는 주장이 제기된 이후 불거졌다. 2016년 박씨와 함께 출연했던 한 예능에서 전씨가 차량 좌석에 앉아 한쪽 팔에 링거를 맞고 있는 사진이 방송됐다. 당시엔 바쁜 일정 속에서도 촬영을 이어가는 모습으로 비춰졌었다. 그러나 최근 박씨와 친분이 있다고 알려진 가수 키, 유튜버 입짧은햇님 등이 비의료인에게 주사 시술을 받았다는 의혹으로 활동을 중단하면서 해당 장면이 다시 주목을 받았다.&lt;br&gt;&lt;br&gt;전씨 소속사 SM C&amp;amp;C는 지난 19일 “처치의 마무리를 제외한 모든 의료 행위는 병원 내에서 의료진의 판단과 처방에 따라 진행됐다”며 “불법적인 의료 행위는 전혀 없었다”는 입장을 밝혔다. 이어 “현재 제기되는 의혹은 당시의 전체적인 상황과 맥락이 충분히 전달되지 않은 상태에서 일부 장면만 부각되며 비롯된 오해”라고 했다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “해당 의혹의 사실 관계를 따져 보고 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘제주 생태계 寶庫’... 곶자왈 보호 지정 고향사랑기부금 조기 달성</title>
-      <link>https://www.chosun.com/national/regional/2025/12/23/EOKJVKN6CZEA3H6TOUBJRGRQVA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/23/EOKJVKN6CZEA3H6TOUBJRGRQVA/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 04:06:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MY4TEMZXG4ZDINDCMEZTENLFGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주곶자왈도립공원./조선일보DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘무분별한 개발로 훼손이 우려되는 제주 생태계의 보고(寶庫) 곶자왈을 살려주세요.’&lt;br&gt;&lt;br&gt;제주도는 고향사랑기부제 지정 기부 사업으로 지난 5월부터 추진한 ‘곶자왈 보호 모금’이 목표액 10억원을 달성했다고 23일 밝혔다. 당초 모금 기간은 내년 6월까지로, 목표 기간보다 6개월 앞당겨 마감됐다.&lt;br&gt;&lt;br&gt;이번 모금은 개발로 훼손 위기에 놓인 사유 곶자왈을 매입해 공공자원으로 보존하기 위해 추진됐다. ‘제주 지하수의 원천인 제주시 곶자왈을 살려주세요’, ‘무분별한 개발로 사라지는 서귀포시 곶자왈을 살려주세요’ 등을 주제로 2건의 모금 사업이 진행됐다.&lt;br&gt;&lt;br&gt;제주도는 이번에 조성된 10억원으로 약 5㏊의 사유 곶자왈을 매입할 계획이다. 매입된 곶자왈은 영구 보전된다. &lt;br&gt;&lt;br&gt;곶자왈은 숲을 뜻하는 제주어 ‘곶’과 덤불을 뜻하는 ‘자왈’이 합쳐진 제주 사투리이다. 화산활동으로 다양한 바위와 돌, 동·식물이 공존하며 독특한 생태계가 유지되고 있는 지대를 말한다. 빗물이 지하로 스며드는 통로로, 세계에서 유일하게 열대 북방한계 식물과 한대 남방한계 식물이 공존하는 생태계의 보고로 알려져 있다.&lt;br&gt;&lt;br&gt;제주도는 기부자들에게 감사의 뜻을 표하기 위해 곶자왈 매입지에 기부자 명판도 설치할 예정이다. 또 기부자에게는 ‘탐나는 제주패스’가 제공돼 기부 당일부터 1년간 성산일출봉 등 제주 공영관광지 31곳에 무료 또는 50% 할인 혜택으로 입장할 수 있다. 또 민영관광지 할인과 한라산탐방예약제(1일 30명) 혜택도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인권위 “전역 예정자 복학 제한은 행복추구권 침해”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/23/OWECMA6ESJAFBIRMO4AEXXQ2AY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/OWECMA6ESJAFBIRMO4AEXXQ2AY/</guid>
-      <dc:creator>한영원 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 03:43:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BN3VUJDDZXMKSZT5UEXLEVV5HE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국가인권위원회 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국가인권위원회가 연가를 사용해 수업 참여가 가능한 전역 예정자의 복학을 제한하는 것은 행복추구권 침해라는 판단을 내놨다. &lt;br&gt;&lt;br&gt;인권위는 지난 4일 연가를 사용하면 학기 초 출석이 가능한 전역 예정자의 복학을 불허한 대학에 제도 개선을 권고했다고 23일 밝혔다. &lt;br&gt;&lt;br&gt;사회복무요원으로 복무한 진정인 A씨는 2026학년도 2학기 복학을 준비하던 중 학교로부터 복학이 불가하다는 통보를 받았다. ‘학기 1/3 시점 이전 전역 예정자만 복학이 가능하다’는 학교 규정 때문이었다. 하지만 A씨는 1, 2년 차 연가(총 28일)를 연속으로 사용하면 개강 직후부터 수업 참여가 가능한 상태였다. 병무청 또한 사회복무요원이 연가를 사용해 복학 가능 기한 이전에 출석할 수 있으면 복학이 가능하다고 안내해 왔다. &lt;br&gt;&lt;br&gt;A씨의 진정에 대학 측은 “복학 기준은 이미 명확히 고지된 내규”라며 “전역 예정일이 학기 1/3 시점 이후라면 연가 사용 여부와 무관하게 복학을 허용하기 어렵다”는 입장을 밝혔다. &lt;br&gt;&lt;br&gt;인권위 아동권리위원회는 “병역법 제73조와 병무청 지침은 학사 일정에 지장이 없는 범위에서 사회복무요원의 복학을 보장하고 있다”며 “대학이 ‘학기 1/3 시점 이전 전역 예정’ 기준만을 절대적 요건으로 삼아 진정인의 복학을 불허한 것은 자의적 규정 운영”이라고 봤다. &lt;br&gt;&lt;br&gt;이에 인권위는 해당 대학 측에 사회복무요원으로 복무 중인 학생들의 학업 중단을 최소화할 수 있도록 학사 규정을 개선하도록 권고했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“챗GPT에 무슨 질문했니?” AI 활용 기록 안 내면 학교 수행평가 ‘0점’ 받는다</title>
