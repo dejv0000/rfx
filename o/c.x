@@ -13,6 +13,72 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>몽골대사관 직원, 강남서 음주운전하다 3중 추돌 사고</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/DKOROFFVAFGNJHKBHDJPLERWTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/DKOROFFVAFGNJHKBHDJPLERWTQ/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 13:41:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;주한몽골대사관에서 근무하는 직원이 강남에서 음주 상태로 운전하다 3중 추돌 사고를 일으켜 경찰에 입건됐다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 도로교통법상 음주운전 등의 혐의로 몽골대사관 행정 직원 A씨를 입건했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;몽골 국적의 A씨는 지난 12일 오전 6시쯤 강남구 신사역 부근 대로에서 음주 상태로 3중 추돌 사고를 낸 혐의를 받는다. 동승자는 없었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;당시 A씨의 혈중알코올농도는 면허 취소 수준이었다. 사고를 당한 앞 차 운전자 2명은 모두 경상을 입은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 외교관이 아니지만 주재국의 형사처벌 절차를 면제받도록 한 면책특권 대상이다. 경찰은 현장에서 신분 확인 후 A씨를 귀가 조치했다. 면책특권을 행사하면 현행범 체포가 불가하고 처벌할 수도 없다.&lt;br&gt;&lt;br&gt;경찰은 조만간 A씨를 조사하는 한편 몽골대사관에서 면책특권 행사 여부를 회신받아 검찰 송치 여부를 결정할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>교사·학생 딥페이크 합성… 성 착취물 제작한 고등학생 </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/Y7ZGRXLC6JBLVGO4K3RWTDJU4M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/Y7ZGRXLC6JBLVGO4K3RWTDJU4M/</guid>
+      <dc:creator>인천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 12:33:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE4TKY3GGU2DMNDFME3GCNJUMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;딥페이크로 교사와 학생들의 성 착취물을 제작한 고등학생이 경찰에 붙잡혔다. &lt;br&gt;&lt;br&gt;인천 연수경찰서는 성폭력범죄의 처벌 등에 관한 특례법상 허위 영상물 편집 혐의로 고등학생 2학년 A군을 불구속 입건했다고 24일 밝혔다. &lt;br&gt;&lt;br&gt;A군은 지난 2022년부터 올해까지 인공지능(AI)을 이용한 딥페이크 기술로 교사 2명과 학생 등 10명의 얼굴을 나체 사진에 합성하는 등 성 착취물을 제작한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 A군 휴대전화의 디지털 포렌식을 통해 100장 이상의 성 착취물을 확인한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “피해자들 일부는 조사를 했으며 정확한 범죄 기간, 성 착취물 유포 등에 대한 추가 조사를 이어갈 계획”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>홈플러스, ‘익스프레스 분리 매각 후 M&amp;A’ 회생안 제출 예정</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/24/4NGJCKGRKZGVDJZBAB6RPTW3OI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/4NGJCKGRKZGVDJZBAB6RPTW3OI/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 11:18:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TQM3BG5SWIMDEGE2GGYLGMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8일 서울 시내 한 홈플러스 매장의 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기업회생 절차를 밟고 있는 홈플러스가 기업형 슈퍼마켓(SSM) 사업부인 ‘홈플러스 익스프레스’를 분리 매각한 뒤 회생 인가 이후 인수·합병(M&amp;amp;A)을 추진하기로 했다.&lt;br&gt;&lt;br&gt;서울회생법원 회생4부(재판장 정준영 법원장)가 24일 진행한 협의회에서 홈플러스 관리인 자격으로 참석한 김광일 MBK파트너스 부회장과 조주연 홈플러스 대표, 이성진 전무이사는 ‘홈플러스 익스프레스 사업부 분리 매각’과 ‘회생 인가 후 M&amp;amp;A’를 핵심으로 하는 구조혁신형 회생계획안을 마련해 오는 29일 법원에 초안을 제출하겠다고 밝혔다. 이들은 “이후 주요 채권자와 노조 등 이해관계인들과 협의를 거쳐 수정·보완한 최종안을 도출하겠다”고 했다.&lt;br&gt;&lt;br&gt;홈플러스는 지난 3월 기업회생 절차에 들어간 뒤, 6월부터 법원 허가를 받아 인가 전 M&amp;amp;A를 추진해왔다. 그러나 지난달 실시한 공개 경쟁입찰에 아무도 참여하지 않으면서 인수자 찾기에 난항을 겪어왔다. 이 때문에 29일 회생계획안 제출 기한까지 적절한 해법을 마련하지 못할 경우 청산될 가능성까지 거론돼 왔다. 법원은 홈플러스가 제시한 분리 매각과 단계적 M&amp;amp;A 구상이 실질적인 회생 가능성을 높일 수 있을지 면밀히 검토할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, ‘라임 사태 몸통’ 김봉현 불법 정치자금 전달 혐의 1심 무죄에 항소</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/JT2WBK6VZNB5ZBVBNH4X2GUM6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/JT2WBK6VZNB5ZBVBNH4X2GUM6U/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 12:34:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KR2XC3YHR7XQNZLOMZ5PQWBZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'라임 사태'의 핵심인 김봉현 전 스타모빌리티 회장/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 이른바 ‘라임 사태’의 몸통으로 지목된 김봉현 전 스타모빌리티 회장의 정치자금법 위반 혐의 1심 무죄에 불복해 항소장을 제출했다. &lt;br&gt;&lt;br&gt;법조계에 따르면, 서울남부지검은 24일 정치자금법 위반 혐의를 받는 김 전 회장의 1심 재판부에 항소장을 제출했다. &lt;br&gt;&lt;br&gt;이날은 항소장을 낼 수 있는 마지막 날이었다. 이 사건 선고는 지난 17일 이뤄졌는데, 형사 사건은 선고일로부터 7일 내 항소를 제기해야 한다.&lt;br&gt;&lt;br&gt;앞서 서울남부지법 형사12단독 서영우 판사는 김 전 회장과 이강세 전 스타모빌리티 대표에게 무죄를 선고했다. 김 전 회장 등은 2016년 기동민 전 더불어민주당 의원, 이수진 더불어민주당 의원, 김영춘 전 해양수산부 장관, 국회의원 전 예비후보 김모씨에게 총 1억6000만원대 상당 불법 정치 자금을 전달한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “김 전 회장과 이 전 대표의 공여 혐의 중 기 전 의원과 김 전 장관에 대한 부분에 대해서만 항소를 제기했다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘입틀막’ 정보망법 통과에... 참여연대 “李, 재의요구권 행사해야”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/T65BZOEF2BFNDM3USTL7ZWI7SY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/T65BZOEF2BFNDM3USTL7ZWI7SY/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 12:01:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3GIYRSGZRDMMZSGYZDEYZRGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;24일 서울 영등포구 국회에서 열린 제430회 국회 제2차 본회의에서 정보통신망 이용촉진 및 정보보호 등에 관한 법률 일부개정법률안(대안)이 가결되고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;참여연대가 24일 더불어민주당 주도로 국회를 통과한 정보통신망법 개정안에 대해 법안의 내용과 취지 등이 모두 부적절하다며 “이재명 대통령은 재의요구권을 행사해야 한다”고 밝혔다.&lt;br&gt;&lt;br&gt;참여연대는 이날 성명문을 내고 “(개정안은) 상임위원회 대안 수정, 법사위의 월권적 수정, 본회의 상정 전 수정안 제출 등 수정이 거듭되며 졸속 입법이란 것이 드러났음에도 결국 본회의에서 통과된 것”이라며 “국가가 나서 허위조작정보 여부를 판단하고 유통 여부를 결정하겠다는 취지 자체가 부적절하다”고 비판했다.&lt;br&gt;&lt;br&gt;이어 “자신에게 불리한 내용의 표현물에 대해 무차별적인 고소고발과 소송이 이어지면서 언론사들은 논란이 될 사안에 대해 외면하거나 침묵을 강요당할 것”이라며 “사기업인 플랫폼에게조차 광범위한 삭제와 계정 차단 권한을 주면 논란이 되는 표현물은 무조건 차단할 가능성이 높다”고 경고했다.&lt;br&gt;&lt;br&gt;참여연대는 “표현의 자유와 국민의 알 권리 침해는 민주주의의 위기로 이어질 수 있다”며 이 대통령이 재의요구권을 행사할 것을 촉구했다.&lt;br&gt;&lt;br&gt;더불어민주당이 ‘허위 조작 정보 근절법’으로 명명한 이번 개정안은 불법 정보와 허위·조작 정보를 정보통신망 내에서 유통하는 행위를 금지하고, 이런 정보를 고의 또는 중과실로 퍼뜨려 타인에게 손해를 끼친 경우 징벌적 손해배상 책임을 물을 수 있도록 하는 조항을 담고 있다.&lt;br&gt;&lt;br&gt;언론계와 시민단체의 반발 속에 ‘공공의 이익을 위한 정당한 비판이나 감시 활동’은 손해배상 청구 대상에서 제외하는 특칙이 법안에 들어갔으나, 애초 논의 과정에서 거론됐던 사실적시 명예훼손죄 폐지 등의 요구는 최종안에 반영되지 않았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울경찰청장, 성탄절 앞두고 특별방범활동 현장 점검</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/2SXF4FXI7NDX5KDGBXRWEDMYPA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/2SXF4FXI7NDX5KDGBXRWEDMYPA/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 12:21:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAZTQYZRGEZTINZRHBSTGYZYHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박정보 서울경찰청장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;박정보 서울경찰청장이 성탄절을 하루 앞둔 24일 특별방범활동 현장을 점검했다.&lt;br&gt;&lt;br&gt;박 청장은 이날 오후 서울 마포구 ‘홍대 관광특구’를 방문해 다중운집에 따른 안전사고와 범죄 취약 요소를 직접 살폈다. 이번 점검은 지난 22일부터 내년 1월 4일까지 진행되는 ‘연말연시 특별방범활동’의 일환이다. 박 청장을 비롯해 김완기 마포경찰서장, 기동순찰대, 마포구 자율방범대 대원 등이 합동 순찰을 돌며 현장을 점검했다. &lt;br&gt;&lt;br&gt;최근 서울경찰청은 연말을 앞두고 발생 위험이 높아지는 인파 사고 예방에 총력을 기울이고 있다. 주요 관광지와 축제장 등 다중운집지역 34곳에 기동순찰대 48개 팀 340명이 집중 배치됐다. 집회·시위 관리에 투입되던 경찰관기동대 일부도 민생치안 현장에 투입됐다. 이날 방문한 마포구 관광특구 외에도 유흥시설이 밀집한 강남권, 음주운전 사고 다발지역 등이 주요 점검 지역이다.&lt;br&gt;&lt;br&gt;이날 박 청장은 순찰을 마무리한 뒤 “연말연시의 설렘이 불안감으로 바뀌지 않도록 가용 경력을 총 동원해 시민들께서 안심할 수 있는 치안환경을 만들겠다”며 “시민들이 붐비는 곳 뿐만 아니라, 보이지 않는 구석 구석까지 정성을 다해 세밀하게 제반 취약 요인을 제거해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>용이 된 문무왕이 반겨주네... 국내 최초 신라 미디어아트 전시관 가보니</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/24/2L7EQF73ZBFEVJPCGDSAKBP4NI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/2L7EQF73ZBFEVJPCGDSAKBP4NI/</guid>
+      <dc:creator>경주=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 24 Dec 2025 11:16:27 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5ULYJHNLRZFXZJVOEGPCV5YYCI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;7번째 전시관인 '신단수'의 모습. 홀 중앙에 신단수가 세워져 있고, 전시관 벽면에는 신라의 사계절이 그려진다./덱스터스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;24일 오후 경북 경주시 보문단지의 미디어아트 전시관인 ‘플래시백 계림’에 들어서자 신라의 난생설화(卵生說話)를 뜻하는 거대한 알이 관람객을 맞았다. 화면에 비친 알은 달이 되었다가 다시 새가 되어 하늘로 솟구치며 날아갔다. 액운을 물리치는 붉은 문(홍살문)을 넘으면 악귀를 깔고 앉은 녹유신장상을 볼 수 있다. 신장상 앞에 서면 관람객의 그림자가 악귀 모양으로 변하는데, 방을 나서는 순간 효과음과 함께 사라진다. 녹유신장이 관람객의 악귀를 떼어냈다는 의미를 담은 연출이다.&lt;br&gt;&lt;br&gt;천년고도(千年古都) 경주에 옛 신라 시대의 문화를 체험할 수 있는 몰입형 전시관이 조성됐다. 경북문화관광공사가 지난달 392억원 규모로 유치한 플래시백 계림이다. APEC 정상회의 이후로도 경주를 찾는 관광 수요를 늘리고자 APEC 무대였던 보문단지 일대에 조성됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AMORD2MQJBAV3LCUDU7MO4OVPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;6번째 전시관인 '거서간'. 우물인 나정 옆에서 말과 알이 발견됐고, 그 알에서 박혁거세가 태어났다는 설화를 토대로 조성됐다./이승규 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 신라 설화 주제로 한 최초의 미디어아트&lt;/b&gt;&lt;br&gt;&lt;br&gt;플래시백 계림은 5620㎡(1700평)에 층고가 최고 11m에 달하는 몰입형 미디어아트 전시관이다. 아시아 최고 수준의 시각 특수 효과 기술 회사인 덱스터 스튜디오가 제작·공동 연출·기술 구현 총괄을 담당했고, 넷플릭스 드라마 ‘오징어 게임’, 영화 ‘파묘’ 등의 음향을 담당했던 스튜디오 라이브톤 및 문화유산기술연구소가 참여했다.&lt;br&gt;&lt;br&gt;전시관은 총 13개 구역이며, 모든 전시관이 신라의 설화와 문화 유산을 바탕으로 한 콘텐츠로 구성돼 있다. 가령 ‘삼신산’ 관은 삼국유사에서 김유신을 위기에서 구한 신라의 세 여신 나력·골화·혈례가 머물던 산을 미디어아트로 구현했다. 삼신산의 형태는 남산과 토함산 등 경주 지역의 실제 명산(名山)을 참조했다. 관람객은 시간의 흐름에 따라 여명이 밝고 노을이 지는 삼신산의 풍경을 시작으로 번개와 눈이 몰아치는 모습과 오로라 현상을 관람할 수 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/D56YAVTZDZBALDS3KAN4V5M5JQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;삼신산/덱스터스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;삼신산을 넘어가면 신라 시조 박혁거세가 태어난 우물인 ‘나정’이 있다. 삼국사기에 따르면 나정 옆 숲속에서 말과 큰 알이 발견됐는데, 이 알에서 태어난 아이를 근처 6부(6촌)의 사람들이 길러 임금으로 삼았다는 기록이 있다. 나정 관에는 이 기록을 토대로 우물을 둘러싼 기둥 6개가 세워졌다. 관람객 6명이 동시에 기둥에 손을 대면 빛이 나정으로 모아진 뒤 맞은편 전시관인 ‘거서간’에서 말과 알이 빛나며 박혁거세의 탄생을 의미하는 그래픽이 연출된다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇ 신라 금관, 용이 된 문무왕도 구현 &lt;/b&gt;&lt;br&gt;&lt;br&gt;신라 설화에 등장하는 용과 금관을 비롯한 신라 유물도 곳곳에서 볼 수 있다. 석탈해 이사금의 아버지 함달파가 용왕이었다는 설화를 소재로 한 ‘함달파와 28용궁’ 관은 아쿠아리움 형태로 연출돼 용궁을 배경으로 토끼와 거북이, 용 등이 헤엄치는 모습이 구현돼 있다. ‘용이 지키는 바다’ 관에선 대왕암을 배경으로 나라를 지키는 용으로 변한 문무왕이 몰아치는 파도와 함께 관람객들을 향해 돌진한다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WY6WZ5H4FFFDTKEGABTH2NIZPY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/덱스터 스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;만파식적을 비롯해 신라 왕실의 보물을 간직했다는 ‘천존고’ 관에선 고화질 그래픽으로 구성된 천마총 금관과 금제 관식, 계림로 보검 등 8개 보물을 관람할 수 있다. 이 밖에 11m 층고에 설치된 ‘신단수’ 관에선 신라의 사계절을 모두 체험할 수 있다.&lt;br&gt;&lt;br&gt;덱스터 스튜디오 관계자는 “플래시백 계림은 신라의 신화와 문화를 주제로 한 국내 최초의 몰입형 미디어아트”라며 “우수한 특수효과와 음향을 통해 관람객들이 신라시대로 시간 여행을 떠난 듯한 경험을 할 수 있을 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQ2MK2J3VVAXVCR5GFBXQBIVW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천존고의 천마총 금관/덱스터스튜디오&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/TILX4ENXEFAKBD3Q4SANBERKJ4.gif?auth=9478a9c3aa6d629072d709263c095e2f417dfe99a6dab93e9780d04b1649d32b&amp;smart=true&amp;width=480&amp;height=270" type="image/jpeg" height="270" width="480">
+        <media:description type="plain">미디어아트 전시관인 ‘플래시백 계림’의 7번째 전시관 '신단수'의 모습. 홀 중앙에 신단수가 세워져 있고, 전시관 벽면에서는 신라의 사계절을 관람할 수 있다. /덱스터스튜디오</media:description>
+      </media:content>
+    </item>
+    <item>
       <title>조지호 “계엄 해제 직후 尹, ‘덕분에 빨리 끝났다’ 말해”…법정서 증언</title>
       <link>https://www.chosun.com/national/court_law/2025/12/24/ES4336Z5LJE6HHICUPTPGTARJA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/ES4336Z5LJE6HHICUPTPGTARJA/</guid>
@@ -835,24 +901,6 @@
       <content:encoded>지난 인사에서 고검검사로 사실상 강등된 정유미 검사장이 “대장동 항소 포기 사건은 검찰 구성원의 자존감과 명예심에 큰 상처를 입힌 것”이라며 이를 비판한 것은 징계 사유가 되지 않는다고 주장했다.&lt;br&gt;&lt;br&gt;23일 정 검사장은 인사명령 처분 취소 소송 집행정지를 심리 중인 서울행정법원 행정5부(재판장 이정원)에 이 같은 내용이 담긴 준비서면을 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VJYSVPJGJJ2RNV32KB3ZUZU3A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정유미 검사장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 19일 제출한 준비서면에서 정 검사장은 “인사 당시 법무부의 보도자료에 담긴 ‘업무 수행 등에 있어 검찰의 정치적 중립성·공정성에 대한 오해를 불러일으키고, 부적절한 표현으로 내부 구성원들을 반복적으로 비난하여 조직의 명예와 신뢰를 실추시킨 행위’가 어떤 것을 뜻하는지 명확하지 않다”고 주장했다. 이어 “아무래도 신청인(정 검사장)이 검찰 내부 게시판 등을 통해 검찰과 관련한 이슈에 지속해서 의견을 개진한 것이 그 이유가 아닌가 짐작해 볼 따름”이라고 했다. 정 검사장은 최근 검찰 내부망에 이른바 ‘대장동 항소 포기 사태’를 두고 당시 검찰 지휘부를 비판하거나, 임은정 서울동부지검장의 행보를 지적하는 글을 올린 바 있다.&lt;br&gt;&lt;br&gt;특히 정 검사장은 노만석 전 검찰총장 직무대행의 사퇴로 이어진 ‘대장동 항소 포기’ 사건에 대해 “검찰 구성원들의 자존감과 명예심에 큰 상처를 입혔고, 많은 검사들이 적극적으로 의견을 밝힌 바 있다”며 “당시 동료 검사들이 (검찰 내부망) 게시판에 올렸던 글을 첨부하니, 검사들의 의견 표출이 정치적이거나 부적절한 처신이었는지, 아니면 검사로서 조직 수뇌부의 잘못에 대해 정당하게 제시할 수 있는 의견의 표출이었는지 판단해 달라”고 했다.&lt;br&gt;&lt;br&gt;이어 정 검사장은 법무부의 인사 처분에 대해 “인사권을 휘둘러 검사들의 침묵을 강요하고 정당한 비판을 억압한 것”이라며 “정치적이고 비민주적인 행태라는 비판을 받아야 마땅할 것”이라고 했다. 잘못 설계된 제도의 추진, 기존 제도와 시스템의 섣부른 변형, 개별 사건에 대한 이례적이고 무원칙한 처분 등 이슈가 생겼을 경우 적극적이고 건전하게 비판과 토론을 행하는 것이 민주주의를 지킬 수 있는 방법이지 않냐는 것이다.&lt;br&gt;&lt;br&gt;정 검사장은 지난 22일 법원에서 열린 집행정지 심문에 직접 나와 이 같은 의견을 개진했다. 재판부는 2주 이내 집행정지 여부를 결정할 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>쿠팡 개인정보 유출 피해자 1666명, 집단분쟁조정 착수</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/23/TZPGAIOKK5F4TNY7QEUSQNXGCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/TZPGAIOKK5F4TNY7QEUSQNXGCQ/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 11:23:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZSWGZRUGZQTSODDGEZDGNLFME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;쿠팡이 개인정보 유출 사고와 관련해 경찰이 압수수색을 진행한 9일 서울 송파구 쿠팡 본사 앞에 쿠팡을 규탄하는 현수막이 걸려있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;쿠팡의 개인정보 유출로 피해를 입은 소비자 1666명이 집단분쟁조정 절차에 들어간다.&lt;br&gt;&lt;br&gt;참여연대와 한국소비자연대는 23일 개인정보보호위원회 산하 개인정보분쟁조정위원회에 쿠팡 개인정보 유출 사건과 관련한 2차 집단분쟁조정 신청서를 제출했다고 밝혔다.&lt;br&gt;&lt;br&gt;이번 분쟁조정에는 1차 신청자 618명과 2차 신청자 1048명 등 모두 1666명이 참여할 예정이다. 이들은 개인정보 유출로 인한 피해에 대해 보상과 재발 방지 대책 마련을 요구하고 있다.&lt;br&gt;&lt;br&gt;신청자들은 개인정보보호법에 따라 쿠팡이 와우멤버십 회원에게는 1인당 50만원을 지급하고 일반 회원과 탈퇴 회원에게는 각각 30만원을 지급해야 한다고 주장했다. 또 개인정보 유출을 막기 위한 기술적·관리적 보호 조치를 강화하고 그 내용을 개인정보분쟁조정위원회에 보고할 것을 요구했다.&lt;br&gt;&lt;br&gt;참여연대는 피해자들이 개별적으로 분쟁조정이나 소송에 나서지 않으면 실질적인 구제를 받기 어려운 구조라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>길 건너던 80대 남성, 덤프트럭에 치여 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/23/NPJFZLFREFDWTNQDJVHCSWXFJA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/NPJFZLFREFDWTNQDJVHCSWXFJA/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 11:43:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YANOIVEDCREFMEBURZ2HG5I56E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 종로경찰서. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 종로구에서 길을 건너던 80대 노인이 덤프트럭에 치여 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;경찰에 따르면 23일 오후 12시 30분쯤 종로구 낙원상가 인근 사거리에서 좌회전하려던 덤프트럭이 횡단보도를 건너던 80대 남성을 들이받았다. 트럭에 치인 남성은 현장에서 사망했다.&lt;br&gt;&lt;br&gt;운전자는 사고 직후 현장을 떠났지만 이후 경찰의 연락을 받고 종로경찰서에 출석해 조사를 받았다.&lt;br&gt;&lt;br&gt;운전자는 음주 상태는 아닌 것으로 파악됐으며, 경찰 조사에서 ‘사람을 친 줄 몰랐다’는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 “방범 카메라와 블랙박스를 분석해 자세한 사고 경위를 조사 중”이라며 “보행자의 무단횡단 여부 등은 조사를 통해 확인해야 한다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“무단 합사 철폐” 日 강제징용 유족, 야스쿠니 신사 상대 국내 첫 소송</title>
       <link>https://www.chosun.com/national/court_law/2025/12/23/4FINTPOMTFFJBEJ2LSPYHAMJPU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/4FINTPOMTFFJBEJ2LSPYHAMJPU/</guid>
@@ -860,24 +908,6 @@
       <description/>
       <pubDate>Tue, 23 Dec 2025 11:46:44 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2DYM2ITEBL7JI6FVY5GV2MYSY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;야노 히데키 강제동원 문제해결과 과거청산을 위한 공동행동 사무국장이 23일 서울 서초구 민주사회를 위한 변호사 모임 사무실에서 열린 야스쿠니 한국인 합사 철폐 소송 제소 기자회견에서 발언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;일본 야스쿠니(靖國) 신사에 2차 세계대전 A급 전범들과 무단 합사(合祀)된 한국인 군인·군속 유족들이 일본 정부와 신사를 상대로 소송에 나섰다. 유족들은 25년간 일본에서 여러 차례 ‘합사를 철폐하라’고 다퉈왔으나 일본 법원이 번번이 받아들이지 않자 한국 법원에 소송을 냈다.&lt;br&gt;&lt;br&gt;민족문제연구소·태평양전쟁피해자보상추진협의회와 민주사회를위한변호사모임 소송 대리인단은 23일 서울중앙지법에 일제에 강제 동원돼 희생된 10명의 군인·군속 유족을 대리해 일본 정부와 야스쿠니 신사를 상대로 무단 합사 철폐 소송을 냈다. 유족들은 야스쿠니 신사가 관리하는 사망자 명부에서 희생자 이름을 삭제하고 일본 정부와 야스쿠니 신사가 8억8000만원의 손해배상금을 지급하라고 요구하고 있다. &lt;br&gt;&lt;br&gt;야스쿠니 신사는 메이지 유신 이후 일본에서 벌어진 내전과 일제가 일으킨 전쟁에서 숨진 246만6000여 명을 추모하는 곳이다. 이 중 21만3000위가 태평양전쟁과 관련됐고, 도조 히데키 전 총리 등 태평양전쟁 A급 전범 14명도 합사돼 있다. &lt;br&gt;&lt;br&gt;아시아·태평양전쟁에 강제 징집돼 전선에서 사망한 조선인 희생자도 합사됐다. 대리인단은 “야스쿠니 신사는 희생자들을 무단 합사하고 오늘날까지 이를 유지하고 있다”며 “유족 의사에 반하는 특정 종교·이념 체계의 추모 구조에 희생자를 편입시키고 유지하는 것은 계속적 인격권 침해”라고 했다.&lt;br&gt;&lt;br&gt;유족들은 희생자들이 전쟁으로 죽음에 내몰린 뒤에도 일본의 ‘천황을 위한 전몰자’ 서사에 동원되고 있다는 입장이다. 대리인단은 “유족들은 희생자들이 식민지 지배와 침략 전쟁의 피해자였다는 역사적 진실 위에 유족이 원하는 방식으로 온전히 추모할 권리를 회복하고자 한다”고 했다. &lt;br&gt;&lt;br&gt;유족들은 2001년부터 일본 사법부에 합사 철폐와 일본 정부의 배상을 요구하는 소송을 이어왔다. 그러나 세 차례 소송에서 모두 패소하자 국내 법원을 상대로 소송을 냈다. 대리인단은 최근 ‘일본군 위안부’ 피해 생존자들이 일본을 상대로 한 국내 소송에서 승소한 것도 주요한 배경이 됐다고 설명했다. &lt;br&gt;&lt;br&gt;지금까지는 한 국가 법원이 다른 국가의 공권력 행사에 대해 재판할 수 없다는 국제법상 ‘국가 면제’ 원칙을 이유로 소송 제기가 어려웠다. 그런데 2023년 서울고법은 위안부 피해자들이 일본 정부를 상대로 제기한 소송 항소심에서 일본의 배상 책임을 인정하고 “일본이 한국 영토 안에서 한국민에게 저지른 불법 행위에 대해서는 국가 면제를 인정하지 않는 내용의 국제 관습법이 있다고 보는 것이 타당하다”고 했다. 일본 정부가 상고하지 않으면서 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;원고 대표인 유족 이희자(82)씨는 이날 “아버지를 강제로 끌고 가 죽게 만들어 놓고 일본을 위해 돌아가셨다며 야스쿠니에 합사시켰다니 모욕감과 치밀어 오르는 분노를 참을 수 없다”고 했다. 이씨 아버지는 1944년 일제에 군속으로 강제 동원된 뒤 이듬해 중국 광시성에서 사망해 야스쿠니 신사에 무단 합사됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>내년 ‘한국형 주치의’ 제도 첫발... 50세 이상부터 시작</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/23/6CGQN6NBIVGBTMMCYNT6UJQLJE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/23/6CGQN6NBIVGBTMMCYNT6UJQLJE/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 10:35:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RSVJXZR6KJECPE3CUSX7RJZXQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;보건복지부는 23일 오후 건강보험정책심의위원회(건정심)를 열고 한국형 주치의 제도 도입 등을 논의했다. /보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 사는 동네 병원에서 일상적인 진료를 종합적으로 받고 건강을 관리할 수 있는 ‘한국형 주치의’ 사업이 내년 50대 이상부터 시범 도입된다. 이재명 정부 국정과제이기도 한 주치의 제도를 도입하려면 지역사회 1차 의료기관끼리의 협조와 실제 국민의 신뢰가 있어야 하는데, 이런 시스템이 현장에서 돌아갈 수 있는지를 확인하는 작업을 정부가 시작한 셈이다.&lt;br&gt;&lt;br&gt;보건복지부는 23일 건강보험정책심의위원회를 열고 ‘지역사회 1차의료 혁신 시범사업’을 내년부터 시행하기로 했다. 주치의 제도에 참여가 가능할 만큼 의료 환경이 갖춰진 지역을 선정해 3년간 시범사업을 운영한다. 시범 지역에서 주치의 제도를 활용할 수 있는 환자는 내년엔 50세 이상만 해당하지만 내후년(2027년)부턴 아동 등 다양한 환자로 대상을 확대한다.&lt;br&gt;&lt;br&gt;주치의 제도는 초고령화, 만성질환 증가 등에 대응해 예방적·지속적 건강관리가 필요하다는 지적에 따라 필요성이 꾸준히 제기돼왔다. 특히 의료 환경이 부족한 지역에서 만성 질환 환자의 중증화를 막기 위해선 이런 제도가 필요하다는 목소리가 이어졌다.&lt;br&gt;&lt;br&gt;시범 사업에 참여하는 환자는 등록한 의원에서 건강검진 결과나 평소 상태에 맞춘 관리 계획을 제공받고, 필요하면 등록한 의원 외의 적정 의료기관에 연계돼 필요한 치료를 받을 수 있다. 이를 위해 원하는 의원들끼리는 서로 연계한 의료 활동을 펼칠 수도 있다. 예컨대, 동네 내과 의사가 평소에 건강을 살펴주다가 정형외과적 진료가 필요하면 동네의 또 다른 정형외과로 환자를 인계해 줄 수 있게 된다. 만약 여러 과목의 진료가 모두 가능한 의료기관이 해당 지역에 있다면 이 기관은 거점 지원 기관 역할을 맡는다.&lt;br&gt;&lt;br&gt;여러 의료기관의 연계를 위해 복지부는 기존 행위별 수가(의료 서비스의 대가) 대신 ‘통합 수가’를 도입할 예정이다. 원래라면 의료기관들은 의료 서비스를 한 번 제공할 때마다 수가를 받는데, 이런 방식이 아니라 지속적인 서비스에 대해 수가를 준다는 것이다.&lt;br&gt;&lt;br&gt;환자들은 본인 부담 비용을 얼마나 낼지 아직 결정되지 않았다. 복지부 관계자는 “1년 단위 관리 개념이라 보통 구독료를 생각하면 월별, 분기별 (지급이) 될 수 있는데 어떻게 지불할 것인지는 정해 놓지는 않았다”며 “주치의와 환자 간 합의가 돼야 하는데 의견을 들어보고 방향을 정할 수 있을 것 같다”고 밝혔다.&lt;br&gt;&lt;br&gt;환자가 주치의 제도에 들어가고 구독료를 낸다고 해서 그 외 병원에 갈 수 없는 것은 아니다. 주치의를 통해 평소 건강 관리를 하긴 하지만, 만약 더 큰 병원에 가서 진료를 받고 싶다면 동네 병원 아닌 다른 곳으로 갈 수도 있다.&lt;br&gt;&lt;br&gt;다만 의료기관들이 연계해서 환자를 볼 경우 각 병원들에 수가를 어떤 비율로 나눠서 줄지, 어떤 과목이나 어떤 환자에 무게 중심을 두고 제도를 이어나갈지 등에 대해서는 아직 정해지지 않았다. 복지부 관계자는 “시범 사업은 1차 의료기관들이 얼마나 참여할지, 이들 간의 연계가 실제로 이뤄질지, 환자들이 이들을 믿고 꾸준히 방문하게 될지를 확인하는 과정이 될 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>김제서 스쿨버스·트럭 충돌, 초등생 등 12명 중경상</title>
-      <link>https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/23/VU3OEI4MLNDFLJUQKVHEZTZCMM/</guid>
-      <dc:creator>김제=김정엽 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 10:02:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG7YEG7PX5NN3BD4FNPEDFED74.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 오후 전북 김제시 백산면 한 교차로에서 초등학생 통학용 버스와 윙바디 화물차량이 부딪혀 소방대원들이 사고 수습에 나서고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;하굣길 초등학생들을 태운 스쿨버스가 교차로에서 대형 화물차와 충돌하는 아찔한 사고가 발생했다. 이 사고로 버스에 타고 있던 학생과 교사 등 13명이 중경상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;23일 전북소방본부 등에 따르면, 이날 오후 4시 26분쯤 전북 김제시 백산면 상정리 돌제 교차로에서 초등학교 스쿨버스와 윙바디 화물 트럭이 부딪히는 사고가 발생했다는 신고가 접수됐다.&lt;br&gt;&lt;br&gt;사고 당시 스쿨버스에는 하교 중이던 초등학생 11명과 운전자 1명, 교사 1명 등 총 13명이 타고 있었다. &lt;br&gt;&lt;br&gt;소방 당국은 사고 발생 13분 만인 오후 4시 39분 현장에 도착, 절단기 등 구조 장비를 동원해 본격적인 구조 작업에 착수했다. 소방 당국이 현장에 도착했을 때 교사 1명과 학생 2명이 찌그러진 차체 사이에 끼어 있었다고 한다. 나머지 학생들과 운전자는 사고 직후 자력으로 대피했다. 소방 당국은 오후 4시 57분쯤 차 안에 고립됐던 3명을 전원 구조하는 데 성공했다.&lt;br&gt;&lt;br&gt;이번 사고로 인한 인명 피해는 현재까지 총 12명으로 집계됐다. 부상자 전원은 스쿨버스 탑승자로 확인됐다. 소방 당국에 따르면 40대 여성 교사 1명과 초등학생 5명 등 총 6명이 중상을 입었으며, 30대 남성 운전자와 학생 5명 등 6명은 경상을 입어 인근 병원으로 분산 이송돼 치료받고 있다. 화물 트럭 운전자와 학생 1명은 큰 부상을 입지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 차량 블랙박스 영상과 목격자 진술 등을 토대로 정확한 사고 경위를 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>尹 추가 구속 심사 종료...“내란전담부법, 위헌제청 신청할 것”</title>
@@ -889,15 +919,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YPUCAWWOVZNG3JEZ7PIE74K36E.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령이 지난 9월 26일 서울 서초동 서울중앙지법에서 열린 특수공무집행방해 혐의 재판에 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;12·3 비상계엄 선포 명분을 쌓기 위해 평양에 무인기를 투입한 혐의로 기소된 윤석열 전 대통령이 23일 법원의 구속 심사에 출석해 내란 특검팀과 공방을 벌였다. 한편 윤 전 대통령 변호인단은 이날 국회를 통과한 내란전담재판부 설치법에 대해 위헌법률심판 제청을 신청하겠다고 밝혔다.&lt;br&gt;&lt;br&gt;윤 전 대통령 변호인단은 이날 서울중앙지법 형사36부(재판장 이정엽) 심리로 열린 2시간20분간의 구속 심사가 끝난 뒤 브리핑을 열고 “내란전담재판부 설치법은, 특별재판부를 금지한 헌법에 반한다”며 “위헌법률심판 제청 신청 등을 포함한 중대 결심을 하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;내란 특검은 앞서 윤 전 대통령을 외환(일반이적) 혐의로 기소하고 내달 18일 1심 구속 만기 전 추가로 구속해 달라고 재판부에 요청했다. 형사소송법상 1심 구속 기간은 최대 6개월이지만, 피고인이 다른 혐의로 기소돼 구속 필요성이 인정되면 법원이 심사를 거쳐 직권으로 구속영장을 발부할 수 있다. &lt;br&gt;&lt;br&gt;내란 특검팀은 이날 심사에서 “은밀히 진행된 비정상적 군사 작전이라는 사건의 특수성상 진술을 짜 맞출 우려가 커 증거인멸 위험이 농후하다”며 구속 필요성을 강조했다. 또 “다른 사건에서 이미 증거인멸 우려로 구속된 이후 바뀐 사정이 없고, 법정에서 하급자에게 책임을 전가하는 피고인의 태도에 비춰 오히려 구속 필요성이 가중된다”고 주장했다. 이날 심사에 특검팀에서는 박억수 특검보 등 6명이 참석했다.&lt;br&gt;&lt;br&gt;반면 윤 전 대통령 측은 “무인기 투입은 북한의 오물 풍선 등에 대응하기 위한 정상적 군사 작전으로, 일반이적죄가 성립하지 않는다”고 주장했다. 북한 오물 풍선 대응은 대통령의 통치 행위로 사법심사 대상이 될 수 없다는 것이다. 또 특검 주장대로 비상계엄 명분 쌓기가 목적이었다면 이는 ‘내란 준비 행위’인데 따로 떼어 일반이적죄로 기소한 것은 ‘이중 기소’라고도 주장했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 직접 “재판에 불출석하거나 증거를 인멸하고, 공범이나 관련자를 회유할 우려도 없다”고 말한 것으로 전해졌다. 또 “기본적인 대북 정책 기조는 ‘전략적 인내’였다”며 “김용현 전 국방장관에게도 화생방 공격 등 국가안보에 중대한 위해가 없는 한 사전 검토 없는 군사행동은 하지 말라는 취지로 말했다”고 했다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 도널드 트럼프 미국 대통령과 통화한 일화를 꺼내며 기소의 부당성을 주장하기도 했다. 윤 전 대통령은 작년 11월 트럼프 당시 당선인과 약 10분간 통화했는데, 트럼프가 먼저 오물 풍선 얘기를 꺼내자 “추가로 화생방 도발이나 인명 피해가 발생하지 않으면 괜찮다. 대통령의 최대 임무는 전쟁을 막는 것”이라고 답했다고 했다. 전쟁 억지를 최대 임무로 여겼는데 적국에 군사상 이익을 줬다는 일반이적죄를 적용하는 건 부당하다는 취지다.&lt;br&gt;&lt;br&gt;재판부는 특검과 윤 전 대통령 양측에 오는 12월 30일까지 추가 의견서 제출을 요구했다. 윤 전 대통령의 추가 구속 여부는 그 이후에 나올 전망이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>아산 디스플레이 공장서 끼임 사고로 1명 숨져</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/23/WCTXOMUWDRGNDMOTK7EUCROG5E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/23/WCTXOMUWDRGNDMOTK7EUCROG5E/</guid>
-      <dc:creator>아산=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 09:12:19 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GZQTGNZVGNRDAMDCMYZTCYTBMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119구급차. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 아산 삼성디스플레이 공장에서 협력업체 직원이 기계에 끼어 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면 23일 오후 12시 30분쯤 아산시 탕정면 삼성디스플레이 아산2캠퍼스에서 A(60대)씨가 작업 중 기계에 끼이는 사고가 발생했다.&lt;br&gt;&lt;br&gt;이 사고로 A씨가 다쳐 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;협력사 소속 직원인 A씨는 이날 생산 라인 관련 설비 보완·점검 작업을 하던 중 사고를 당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰과 고용노동부는 사고 현장 부분 작업 중지 명령을 내리고 사고 조사에 착수했다. &lt;br&gt;&lt;br&gt;노동 당국 관계자는 “원·하청 모두 중대재해처벌법 적용 업체로 파악됐다”면서 “정확한 사고 경위와 함께 산업안전보건법 및 중대재해처벌법 위반 여부를 수사할 방침”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘탈북민’ 대신 ‘북향민’으로 변경?…통일부 “조속한 시일 내 결론”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/23/ZCPHUEJP7VDF7IAEAR2LUKRGUI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/ZCPHUEJP7VDF7IAEAR2LUKRGUI/</guid>
@@ -907,15 +928,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZWCOJYMUZWGMLDHA4WCNRZGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정동영 통일부 장관. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일부가 현재 사용 중인 ‘북한이탈주민’이나 ‘탈북민’ 용어를 ‘북향민(北鄕民)’으로 변경하는 방안을 신속하게 결정해 추진할 것이라고 밝혔다. &lt;br&gt;&lt;br&gt;23일 통일부 당국자는 언론 브리핑에서 탈북민 호칭 변경 추진 경과에 관한 질문에 “조속한 시일 내에 결론을 내서 (추진)해 나갈 계획”이라고 답했다.&lt;br&gt;&lt;br&gt;앞서 정동영 통일부 장관은 지난 19일 이재명 대통령에게 내년 업무계획을 보고하면서 ‘북향민’ 표현을 사용했다.&lt;br&gt;&lt;br&gt;정 장관은 “탈북자를 북향민으로 명칭을 변경하는 안에 대한 의견을 수렴 중”이라며 “탈북민들 전원이 기존 명칭, 탈북자라는 명칭에 대한 강한 거부감을 표시하는 것이 사실”이라고 말했다.&lt;br&gt;&lt;br&gt;이에 이 대통령과 김민석 총리도 업무 보고 당시 탈북민 대신 북향민 용어를 썼다.&lt;br&gt;&lt;br&gt;통일부는 이미 간부회의 등 내부적으로는 북향민 용어를 사용하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;정 장관은 지난 9월 경기권 통일플러스센터 개관식 축사에서도 “북한이탈주민이 제일 싫어하는 단어가 ‘탈(脫)’자”라며 “탈북, 어감도 안 좋다. ‘이북에 고향을 두고 오신 분들’이라 해서 ‘북향민’이 제일 (지지가) 많은 것 같다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>누범·집유 중 술 먹고 운전하면 차 뺏는다</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/23/4RNKISQT3FEAPOITEYM7PVQBAM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/4RNKISQT3FEAPOITEYM7PVQBAM/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 08:30:27 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5QTAZTCGE2GCNRUGA2DANDFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11일 인천 중구 월미도 인근 도로에서 인천중부경찰서 경찰이 연말연시 음주 운전 집중 단속을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;음주 운전으로 재판을 받고 있거나 집행유예나 누범(累犯) 기간에 술을 마시고 운전한 경우 차량이 몰수된다. 음주 운전 재범률이 10년째 40%를 웃도는 상황에서, 상습적인 범행을 원천 차단하기 위해 엄벌에 나서는 것이다.&lt;br&gt;&lt;br&gt;대검찰청은 23일 경찰청, 법무부 범죄예방정책국과 협력해 이 같은 내용의 ‘음주 운전 근절을 위한 종합 대책’을 수립, 시행한다고 밝혔다. &lt;br&gt;&lt;br&gt;대검은 우선 음주 운전자의 차량을 압수·몰수하는 기준을 강화했다. 형 집행 종료나 면제 후 3년이 지나지 않은 누범 또는 집행유예 기간이나, 음주 운전으로 재판 중인 상황에서 다시 음주 운전을 한 경우 차량을 압수·몰수한다. 5년 내 음주 운전 전력이 있는 사람이 혈중알코올농도 0.2% 이상 상태에서 다시 음주 운전을 해도 차량을 압수·몰수한다. &lt;br&gt;&lt;br&gt;검찰은 그간 음주 운전으로 사망 사고를 내거나, 세 차례 이상 음주 운전 전과가 있는 사람이 다시 음주 운전을 하는 등의 경우에만 차량을 몰수했다. 지난 2023년 7월부터 지난달 30일까지 총 349대가 몰수된 것으로 집계됐다.&lt;br&gt;&lt;br&gt;검찰은 또 음주 운전자에 대한 법원의 처벌이 낮은 점을 감안해 구형량을 높이기로 했다. 특히 대법원 양형 기준에 가중 처벌 요인으로 명시된 ‘음주 운전으로 도로 교통에 위험을 유발한 경우’ ‘공무 수행에 지장을 초래한 경우’ 등을 재판에서 적극 입증해 엄벌에 처할 방침이다. 이 밖에 상습·재범 음주 운전자에 대해선 집행유예 기간 동안 보다 엄격한 보호관찰 등을 통해 적극 관리하기로 했다.&lt;br&gt;&lt;br&gt;정부가 음주 운전 단속 강화에 나선 건 지난 10년간 음주 운전 재범률이 좀처럼 낮아지지 않고 있기 때문이다. 경찰청 통계에 따르면 작년 한 해 음주 운전 단속에 적발된 사람은 11만7091명으로 10년 전인 2015년(24만3100명) 대비 51.8% 감소했다. 최근 5년간 음주 운전 사망자 수도 287명(2020년)에서 138명(2024년)으로 줄었다. 그러나 재범률은 작년(43.84%)과 2015년(44.42%)이 큰 차이가 없는 것으로 나타났다.&lt;br&gt;&lt;br&gt;대검 관계자는 “음주 운전 차량의 몰수는 재범을 원천적으로 차단하는 가장 유효한 조치”라며 “앞으로도 음주 운전 범죄에 적극 대응해 근절할 것”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘10나노 D램 기술’ 中 빼돌린 삼성전자 전 임원 등 10명 기소</title>
       <link>https://www.chosun.com/national/court_law/2025/12/23/7PBFMDQVEJDFHPUWEXRFIBOWR4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/7PBFMDQVEJDFHPUWEXRFIBOWR4/</guid>
@@ -923,15 +935,6 @@
       <description/>
       <pubDate>Tue, 23 Dec 2025 08:05:12 +0000</pubDate>
       <content:encoded>삼성전자가 세계 최초로 개발한 반도체 기술을 중국 업체에 빼돌린 혐의를 받는 삼성전자 전직 임직원들이 무더기로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/URJQOC5TDJJ4TKYDATPXKF74YU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김윤용 서울중앙지검 정보기술범죄수사부 부장검사가 23일 서초구 서울고등검찰청 기자실에서 '세계 1위 K반도체 국가핵심기술 국외 유출사건' 수사결과를 발표하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 정보기술범죄수사부(부장 김윤용)는 23일 산업기술보호법 위반(국가핵심기술국외유출) 등 혐의로 삼성전자 임원 출신 A씨 등 5명을 구속 기소하고, 연구원 출신 5명을 불구속 기소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 삼성전자에서 중국 반도체 업체인 창신메모리로 이직한 2016년부터, 삼성전자의 핵심 반도체 기술이 중국으로 유출했다는 단서를 포착해 지난해 1월 직접 수사에 나섰다. 삼성전자 연구원 출신 B씨는 2016년 9월 창신메모리로 직장을 옮기면서 삼성전자의 ‘10나노대 D램 공정 정보’를 종이 12장에 옮겨 적는 방식으로 유출한 혐의를 받는다. &lt;br&gt;&lt;br&gt;B씨는 컴퓨터에서 파일을 복사하거나 휴대전화로 촬영하면 쉽게 적발될 수 있다고 보고, 약 600단계에 이르는 D램 제조 공정과 설비 정보를 직접 필기한 것으로 조사됐다. 이는 삼성전자가 5년간 약 1조6000억원을 투자해 세계 최초로 개발한 핵심 기술이었다.&lt;br&gt;&lt;br&gt;검찰은 이들이 위장 회사를 설립하고 사무실을 주기적으로 옮기는 한편, “항상 주변에 국가정보원이 있다고 생각해서 행동하라”는 지침을 공유하는 등 조직적으로 기술 유출을 저질렀다고 봤다. 출국 금지나 체포 등 위급한 상황이 발생하면 ‘하트 4개’ 암호를 동료들에게 전파하도록 하는 등 자체적으로 행동 강령을 마련해 단속에 대비한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;창신메모리는 이렇게 빼돌린 기술을 토대로 2023년 중국 최초이자 세계에서 네 번째로 10나노대 D램 양산에 성공했다. 검찰은 이번 유출로 삼성전자의 지난해 추정 매출 감소액만 5조원에 달하며, 국가 경제 전체의 피해는 수십조원에 이를 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, ‘대장동 개발 비리’ 추징 보전 풀어달라는 김만배 재판부에 “안 된다” 의견서 제출</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/23/D226R52GKZDVFKE4Q33YAXU7OM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/23/D226R52GKZDVFKE4Q33YAXU7OM/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 06:22:06 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7AEF7ZJJXRFRTLV4MIBALGALZI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김만배&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘대장동 개발 비리’ 민간업자인 김만배씨가 검찰의 추징 보전으로 묶인 재산을 풀어달라고 법원에 요청한 데 대해 검찰이 “해제해서는 안 된다”는 의견서를 제출했다.&lt;br&gt;&lt;br&gt;23일 법조계에 따르면 서울중앙지검은 김씨가 지난 5~11일 청구한 몰수 및 부대보전 취소와 추징보전 취소 소송과 관련해 서울고법에 “해제하지 말아달라”는 취지의 의견서를 냈다.&lt;br&gt;&lt;br&gt;검찰은 대장동 개발 비리 민간업자 사건 1심 재판부가 지난 10월 31일 김씨에게 징역 8년과 추징금 428억원을 선고한 만큼 추징보전을 유지할 필요가 있다고 한 것으로 전해졌다. 1심이 김씨의 이해충돌방지법 위반 혐의를 무죄로 판단했지만, 배임죄 범죄사실과 연결되는 만큼 추징할 수 있는 범죄수익이라는 점은 달라지지 않는다는 것이다. 또한 검찰은 2017년 항소 포기 사건에서 대법원이 징역형은 감형하면서도 추징액은 늘려 확정한 대법원 판례도 근거로 제시한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;반면 김씨는 검찰이 법원에 추징 보전을 청구해 인용될 수 있었던 법적 근거인 이해충돌방지법 위반 혐의를 1심 재판부가 무죄로 선고했고, 검찰이 항소를 포기해 불이익변경 금지의 원칙에 따라 이해충돌방지법 위반이 유죄로 선고될 가능성은 없는 만큼 추징 보전을 해제해야 한다는 입장이다. &lt;br&gt;&lt;br&gt;서울중앙지검은 또 다른 대장동 민간 업자인 남욱 변호사의 추징 보전 해제 청구 재판부에도 같은 취지의 의견서를 낼 것으로 전망된다. 남 변호사는 1심에서 징역 4년을 선고받았지만, 추징금은 0원이 선고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>인천 민간 사격장에서 실탄 맞은 20대 男 숨져</title>
