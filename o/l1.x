@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>KCAB 송년회에 AI 강연, 법률 환경 변화에 분쟁 해결 기구 역할은</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214450.jpg" alt="12121.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;2025년 12월 22일 KCAB 서울 본원에서 이진 엘박스 대표가 강의하고 있다. 《사진 제공 =KCAB》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한상사중재원(원장 신현윤, 이하 KCAB)이 지난 12월 22일 서울 강남구 삼성동 KCAB 서울 본원에서 송년회를 열었다. 이날 KCAB는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;(사법연수원 38기) 엘박스 대표를 초청해 'AI 기술 발전에 따른 법률 전문가의 업무 변화' 강연도 진행했다.&lt;br /&gt;&lt;br /&gt;KCAB 관계자는 "이번 강연은 AI 시대의 법률 환경 변화를 짚어보고 분쟁 해결 기구로서 KCAB의 역할을 모색하기 위해 마련했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;강연을 마친 뒤 서울 강남구 삼성동 오크우드호텔에서 송년 만찬이 이어졌다. KCAB는 "중재원은 앞으로도 변화하는 법률 환경 속에서 전문성과 신뢰를 바탕으로 보다 나은 분쟁해결 서비스를 제공하기 위해 지속적으로 고민하고 준비해 나가겠다"라고 밝혔다.</description>
+			<pubDate>Wed, 24 Dec 2025 13:13:30 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214450</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214450</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214450.jpg</media:thumbnail>
+			<dc:creator>김지수 기자</dc:creator>
+		</item>
+		<item>
 			<title>[단독] 대한상사중재원, AI 활용 전자 중재 도입 속도 낸다</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 320px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214442.jpg" alt="34536737.jpg" style="width: 320px; height: 213px;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; font-size: 14px; line-height: 1.6em;"&gt;《사진=대한상사중재원 로고》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한상사중재원(KCAB)이 인공지능(AI) 기술을 접목한 차세대 중재 시스템 도입에 속도를 낸다. &lt;br /&gt;&lt;br /&gt;12월 24일 법률신문 취재를 종합하면, KCAB는 최근 2026년 정부 보조금 예산 편성 과정에서 '전자 중재 구축'과 관련된 예산을 확보했다. 확보한 예산의 목표는 AI를 활용한 전자 중재 구축이다. KCAB 관계자는 "내년도 정부 보조금 예산에서 AI를 핵심으로 하는 전자 중재 구축 예산을 확보했다"고 했다.&lt;p&gt;&lt;br /&gt;앞서 KCAB는 국제중재규칙을 전면 개정해 2026년 1월 1일부터 시행하기로 했다. 개정규칙에는 디지털 전환 흐름을 반영한 전자 절차 활용 명문화 조항이 들어있다. 절차적 효율성을 위한 전자적 교신과 전자 서류 접수, 전자 증거 제시 등 기술활용을 권장하는 규정도 신설됐고, AI 기능을 포함한 정보기술 도구 사용 시 고려사항과 가이드라인에 관한 협의권고 조항도 추가됐다.  &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</description>
 			<pubDate>Wed, 24 Dec 2025 10:43:10 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214402</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214402.jpg</media:thumbnail>
 			<dc:creator>법률신문 </dc:creator>
-		</item>
-		<item>
-			<title>율촌 기독교 신우회, 성탄절 연합 예배</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214435.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;12월 23일 법무법인 율촌의 기독교 모임 신우회가 개최한 '성탄절 연합 예배'. 《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.yulchon.com/ko/main/main.do" target="_blank"&gt;법무법인 율촌&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="7573"&gt;강석훈&lt;/span&gt;)의 기독교 모임인 신우회가 12월 23일 서울 강남구 삼성동 파르나스타워 39층에서 ‘성탄절 연합 예배’를 열었다.&lt;br /&gt;&lt;br /&gt;이날 행사에는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8490"&gt;윤세리&lt;/span&gt;(사법연수원 10기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13183"&gt;윤용희&lt;/span&gt;(35기),&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16606"&gt;표정률&lt;/span&gt;(38기) 율촌 변호사와 이인용 고문 등 전·현직 기독 법조인 등 50여 명이 자리해 예수 그리스도의 탄생을 찬양하는 시간을 가졌다.&lt;br /&gt;&lt;br /&gt;대표 기도를 맡은&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16650"&gt;맹주한&lt;/span&gt;(38기) 변호사는 “치열한 법률 시장 가운데 여러 길을 고군분투하며 모색하고 있는 율촌의 경영진과 직원들에게 지혜와 명철을 주시길 바란다”며 “협업의 가치를 실현할 수 있도록 함께하겠다”고 율촌의 발전에 대한 소망을 전했다. 설교는 최화용 월계순복음교회 목사가 맡았다.&lt;br /&gt;&lt;br /&gt;&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214435.jpg" alt="2.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=백성현 기자》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;한편 이날 행사에서는 신우회 회원 약 20명의 특송도 진행됐다. 이들은 ‘고요한 밤 거룩한 밤’ 등 성탄절 찬양 메들리를 준비해 참석자들과 성탄절의 의미와 감사를 나눴다.&lt;br /&gt;&lt;br /&gt;이후 위기 임신 여성 등을 돕는 생명단체인 여성소망센터에 대한 후원 시간과 식사와 교제의 시간이 이어졌다.&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;율촌의 신우회는&amp;nbsp;&lt;span class="lawmanlink" serial="985" style="font-weight: bold;"&gt;우창록&lt;/span&gt;(6기) 변호사,&amp;nbsp;&lt;span class="lawmanlink" serial="8490" style="font-weight: bold;"&gt;윤세리&lt;/span&gt;(10기) 변호사, 이인용 고문 등을 포함해 100여 명이 함께하고 있는 기독교 모임 단체다. 매주 목요일 점심마다 정기 모임을 가진다.&lt;/p&gt;</description>
-			<pubDate>Tue, 23 Dec 2025 12:49:30 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214435</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214435</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214435.jpg</media:thumbnail>
-			<dc:creator>신나영 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
