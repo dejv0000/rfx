@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 대법 "위법 수집된 휴대전화 포렌식 자료 기초한 법정 자백도 위법 수집 증거"</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214383.jpg" alt="34536373.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=어도비스톡》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;수사기관이 영장 범위를 벗어나 확보한 휴대전화 녹음파일의 증거능력을 인정할 수 없다면, 이를 제시받고 이루어진 피고인들의 법정 자백도 증거능력이 없다는 대법원 판결이 나왔다.&lt;p&gt;   &lt;br /&gt;대법원 형사3부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 11월 20일 뇌물수수·뇌물공여 혐의로 기소된 환경컨설팅업체 대표 A 씨와 지방자치단체 공무원 B 씨 등 사건 상고심에서, 피고인들에 대한 유죄를 인정한 원심 판결을 파기하고 사건을 부산고법으로 돌려보냈다(&lt;b&gt;2023도12127&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;환경부 특사경이 확보한 휴대전화 통화 녹음 및 메시지의 증거능력이 쟁점이 됐다. 당초 특사경은 업체 대표 A 씨의 환경시험검사법 위반(측정치 조작) 혐의를 수사하기 위해 영장을 발부받아 휴대전화를 압수했다. 그러나 포렌식 과정에서 영장 기재 혐의와는 전혀 무관한 뇌물 수수 정황이 담긴 녹음파일 73건 등을 발견했다.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심 및 항소심은 위법하게 수집된 녹음파일 자체의 증거능력은 부정하면서도, 피고인들이 법정에서 스스로 범행을 인정한 자백은 증거능력이 있다고 보아 유죄를 선고했다. 수사기관의 위법행위와 피고인의 법정 진술 사이의 인과관계가 희석되거나 단절됐다고 본 것이다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;하지만 대법원은 피고인들의 법정진술과 증인 진술 역시 증거능력이 없다고 판단했다. 대법원은 1차적 증거 수집 과정의 위법성이 중대하며, 피고인들의 법정 진술이 위법하게 수집된 증거와 밀접하게 연관돼 있다고 보았다.&lt;br /&gt;&lt;br /&gt;대법원은 "수사기관이 위법하게 수집한 1차적 증거가 수사개시의 단서가 되었거나 사실상 유일한 증거 또는 핵심증거이고 위법의 정도 역시 상당할뿐더러, 피고인이 수사기관에서 1차적 증거를 제시받거나 1차적 증거의 내용을 전제로 신문받은 바가 있다면, 특별한 사정이 없는 이상 피고인의 법정진술도 1차적 증거를 직접 제시받고 한 것과 다름없거나 적어도 1차적 증거의 존재를 전제로 한 것으로 볼 수 있다"고 판시했다.&lt;br /&gt;&lt;br /&gt;이어 이 사건의 구체적 정황에 대해 "피고인들에 대한 뇌물공여 및 뇌물수수 관련 수사는 위법하게 수집된 전자정보를 기초로 개시됐다"며 "이 사건 전자정보가 없었다면, 피고인들에 대한 수사가 진행되거나 공소제기되기 어려웠을 것이고, 따라서 피고인들과 증인들이 법정에서 피고인 또는 증인으로서 진술하게 되지도 않았을 것으로 보인다"고 지적했다.&lt;br /&gt;&lt;br /&gt;그러면서 대법원은 "피고인들과 증인들의 각 법정진술은 위법하게 수집된 이 사건 전자정보에 기초한 2차적 증거들로, 절차 위반행위와 인과관계의 희석 또는 단절을 인정할 특별한 사정이 존재한다는 점에 관한 검사의 증명이 없는 이상 증거능력이 부정돼야 한다"며 밝혔다.&lt;br /&gt;&lt;br /&gt;또 피고인들이 수사 과정에서 해당 자료를 제시받은 점을 지적하면서, "피고인들이 공소사실 기재 행위를 전부 또는 일부 인정하는 듯한 법정진술을 하게 된 직접적 원인은 다름 아닌 위법하게 수집된 이 사건 전자정보였던 것으로 볼 수 있다"고 판시했다.&lt;/p&gt;</description>
+			<pubDate>Thu, 25 Dec 2025 00:07:04 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214383</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214383</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214383.jpg</media:thumbnail>
+			<dc:creator>안재명 기자</dc:creator>
+		</item>
+		<item>
 			<title>KCAB 송년회에 AI 강연, 법률 환경 변화에 분쟁 해결 기구 역할은</title>
 			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214450.jpg" alt="12121.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: left; font-size:14px; line-height: 1.6em"&gt;2025년 12월 22일 KCAB 서울 본원에서 이진 엘박스 대표가 강의하고 있다. 《사진 제공 =KCAB》&lt;/figcaption&gt;   &lt;/figure&gt;&lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;대한상사중재원(원장 신현윤, 이하 KCAB)이 지난 12월 22일 서울 강남구 삼성동 KCAB 서울 본원에서 송년회를 열었다. 이날 KCAB는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="16136"&gt;이진&lt;/span&gt;(사법연수원 38기) 엘박스 대표를 초청해 'AI 기술 발전에 따른 법률 전문가의 업무 변화' 강연도 진행했다.&lt;br /&gt;&lt;br /&gt;KCAB 관계자는 "이번 강연은 AI 시대의 법률 환경 변화를 짚어보고 분쟁 해결 기구로서 KCAB의 역할을 모색하기 위해 마련했다"고 밝혔다.&lt;br /&gt;&lt;br /&gt;강연을 마친 뒤 서울 강남구 삼성동 오크우드호텔에서 송년 만찬이 이어졌다. KCAB는 "중재원은 앞으로도 변화하는 법률 환경 속에서 전문성과 신뢰를 바탕으로 보다 나은 분쟁해결 서비스를 제공하기 위해 지속적으로 고민하고 준비해 나가겠다"라고 밝혔다.</description>
 			<pubDate>Wed, 24 Dec 2025 13:13:30 -0000</pubDate>
@@ -226,16 +236,6 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214407</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214407.jpg</media:thumbnail>
 			<dc:creator>신나영 기자</dc:creator>
-		</item>
-		<item>
-			<title>보내는 마음, 맞이하는 마음</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;&lt;img src="https://image.lawtimes.co.kr/thumb/180/214402.jpg" alt="1.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;신동권  일출-신망애(日出-信望愛)  45x53cm. 캔버스 위에 아크릴&lt;/figcaption&gt;      &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center; "&gt;&lt;b&gt;보내는 마음, 맞이하는 마음&lt;/b&gt;&lt;/p&gt;&lt;p style="text-align: left; "&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;2025년의 거대한 격랑을 뒤로하고 2026년 ‘붉은 말의 해’ 병오년(丙午年)의 새벽을 맞이합니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;역동적으로 대지를 달리는 적토마처럼 새해에 다시 뜨거운 활력과 새로운 질서가 힘차게 솟구치기를 소망합니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;대한민국 법조는 검찰청 폐지와 사법제도 개편이라는, 유례없는 대전환의 문턱에 서 있습니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법치주의의 근간이 흔들릴 수 있다는 우려와 새로운 사법 정의에 대한 기대가 교차하는 혼돈의 시기입니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;법률신문은 법조의 ‘공기(公器)’로서, 변화의 파도를 거스르지 않고 수용하되 격랑 속에서도 중심을 잃지 않는 법조의 나침반이 되겠습니다.&amp;nbsp;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;떠오르는 태양처럼 어둠을 걷어내고 올바른 길을 비추는 소임을 다하겠습니다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;75년 세월 변함없이 법률신문을 지켜주신 독자 여러분께 존경과 감사를 전하며, 새해에도 법치의 최전선에서 함께 호흡하겠습니다.&lt;/p&gt;</description>
-			<pubDate>Tue, 23 Dec 2025 19:59:18 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214402</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214402</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214402.jpg</media:thumbnail>
-			<dc:creator>법률신문 </dc:creator>
 		</item>
 	</channel>
 </rss>
