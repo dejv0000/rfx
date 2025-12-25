@@ -13,6 +13,101 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>순직해병 특검에 “임대료 2배 내라”…건물주, 명도소송 제기</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/25/GEAKWUIBWZGLVH4N5POZCIWROI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/25/GEAKWUIBWZGLVH4N5POZCIWROI/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 07:16:50 +0000</pubDate>
+      <content:encoded>이명현 순직해병 특검팀이 사용하던 사무실 건물주로부터 “사무실에서 나가달라”는 취지의 명도소송을 당한 사실이 25일 확인됐다. &lt;br&gt;&lt;br&gt;수사 기한 연장으로 특검이 사무실을 한 달 더 사용해야 하는 상황에서 건물주가 임대료를 두 배로 올려달라고 요구했고, 특검이 이를 거부하자 소송전으로 번진 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRDAOJYGJRGEZDFG44GCZRRHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;해병대원 순직사건 관련 의혹을 수사해 온 순직해병특검팀 이명현 특별검사가 11월 28일 서울 서초구 해병특검 사무실에서 150일의 수사 일정을 마무리하며 최종 수사 결과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 본지 취재에 따르면, 해병 특검팀이 사용하던 서울 서초구 교대역 인근 사무실의 건물주는 지난 11월 5일 이명현 특검을 상대로 퇴거를 요구하는 명도소송을 제기했다.&lt;br&gt;&lt;br&gt;사건의 발단은 특검 수사 기간 연장이었다. 국회는 지난 9월 3대 특검법을 개정해 특검의 수사 기간을 한 달씩 늘렸다. 이에 따라 해병 특검의 수사 기한은 당초 10월 28일에서 한 달 더 늘어났고, 사무실 사용 기간도 기존 계약보다 한 달 연장해야 하는 상황이 됐다.&lt;br&gt;&lt;br&gt;이 과정에서 건물주는 계약 연장의 조건으로 기존 임대료의 두 배인 월 1억8000여만 원을 요구한 것으로 전해졌다. 해당 사무실은 지하 4개 층과 지상 7개 층 규모로, 특검은 층당 약 100평을 월 9000여만 원에 빌려 사용해 왔다.&lt;br&gt;&lt;br&gt;특검 측은 “국가 예산을 집행하는 사안인데 인상률이 너무 높다”며 건물주에게 임대료를 두 배로 올려 내기는 어렵다는 입장을 전달했다고 한다. 그러자 건물주는 11월 이후 발생한 임대료와 공과금 등의 세금계산서를 발행하지 않은 채 명도소송을 법원에 제기했다. &lt;br&gt;&lt;br&gt;이번 소송은 이명현 특검 개인을 피고로 한 민사소송이다. 사무실 계약이 이명현 특검 개인 명의로 체결돼 있어, 국가 소송이 아닌 일반 민사소송으로 진행되는 것이다.&lt;br&gt;&lt;br&gt;특검은 이미 수사 기한을 마치고 기존 사무실에서 나왔고, 공소 유지 등을 위해 서울 서초역 인근 흰물결빌딩으로 사무실을 이전했다. 기존 건물에 대해서도 명도를 마친 상태다. 건물주의 세금계산서 미발부로 납부하지 못했던 11월 임대료 등은 특검팀이 법원에 공탁했다.&lt;br&gt;&lt;br&gt;특검 관계자는 “이미 사무실을 비운 상황이라 현 시점에서 명도소송 자체의 실익은 크지 않다고 보고 있다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>무안공항 ‘슬픈 크리스마스’… 유족들 “참사 원인 규명 전까지 공항 지킬 터”</title>
+      <link>https://www.chosun.com/national/regional/2025/12/25/CMWZ3JHJKRCFZHY46GOVKZUZAQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/25/CMWZ3JHJKRCFZHY46GOVKZUZAQ/</guid>
+      <dc:creator>무안=조홍복 기자, 무안=진창일 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 07:08:29 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJSTW6CGAFCFTCJRCW5M2OGZMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안군 무안국제공항 2층 대합실에 마련된 유족 텐트촌./조홍복 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 정오 무렵 전남 무안군 무안국제공항에 눈보라가 사선으로 휘몰아쳤다. 이 공항 2층 대합실에 1년 동안 뿌리내린 텐트(재난 구호 쉘터)촌에도 성탄절이 화제에 올랐다. &lt;br&gt;&lt;br&gt;“메리 크리스마스! 눈이 내리네요.” &lt;br&gt;&lt;br&gt;무안 제주항공 참사 유가족 10여 명이 안부 인사를 건넸다. 유족들은 순번을 정해 지난해 12월 29일 참사 이후 텐트 40여 동을 지키고 있다. 서로 ‘공항 쉘터 지킴이’라 부른다. ‘참사 362일째 너무나 가슴이 아파요’가 쓰인 입간판이 눈에 띄었다. 한 유족은 “1년이 지나도록 정확한 참사 원인은 규명되지 않았다”고 했다.&lt;br&gt;&lt;br&gt;오는 29일 179명이 숨진 ‘12·29 무안공항 제주항공 여객기 참사’ 1주기를 맞는다. 유가족협의회와 국토교통부, 전남도, 광주광역시, 무안군 등은 합동으로 이날 무안공항에서 ‘1229 여객기 참사 1주기’ 추모식을 연다. 공항은 추모식 준비에 분주한 모습이었으나, 유족들은 차분하게 텐트촌을 지키고 있었다. &lt;br&gt;&lt;br&gt;유족의 일상은 참사와 함께 멈춰버렸다. 김성철(53)씨는 지난 6월 직장을 그만뒀다. 11년간 몸담은 부산 안전화 제조 공장이었다. 참사로 아내와 딸을 잃고 밀려드는 슬픔을 견딜 수 없어 공항 생활을 시작한 것이다. 모녀는 두 번째 일본 여행에서 주검으로 돌아왔다. 그는 앞서 지난 4월 복직했으나 시도 때도 없이 울음이 터져 나왔다. “팀원들에게 도움이 못 되나 싶어 사표를 낼 수밖에 없었어요.” 그는 “진실이 드러날 때까지는 공항을 떠날 수 없다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3UFYAQPARFFGZMKLGNVWJCWVBY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남 무안군 무안국제공항에서 여는 1주기 추모식을 준비하는 25일 모습./조홍복 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고재승(43)씨는 부모를 잃었다. 은퇴 뒤 서울에서 노후를 보내던 아버지가 광주·전남에 사는 직장 동료와 함께 무안공항에서 태국 여행을 갔다가 변을 당했다. 용산역에서 배웅한 게 마지막이었다. 고씨는 지난 6월부터 토목 설계 회사에 휴직계를 냈다. 그는 “5살 아들이 비행기를 볼 때마다 ‘할아버지와 할머니는 언제 내려오느냐’ 한다”고 말했다.&lt;br&gt;&lt;br&gt;무안공항은 사고 이후 1년간 폐쇄됐다. 내년 이른 재개항은 어려운 상황이다. 1층과 2층을 잇는 ‘추모의 계단’에는 수천 장의 손편지가 빼곡하게 붙어 있었다. “아빠, 거기선 춥지 마” “지켜주지 못해 미안해” 등 절절한 글이 적혀 있었다. 1층 대합실 합동 분향소에는 희생자 179명의 위패와 일부 영정이 놓여 있었다. 환하게 웃는 젊은 부부와 2021년생 아이 영정 앞에는 장난감과 바나나 우유, 캐러멜 등 아이 간식이 놓여 있었다. &lt;br&gt;&lt;br&gt;다른 영정 옆에는 ‘너희가 우리 곁을 떠난 지 어느덧 1년이 되었구나. 그놈의 새떼는 다시 돌아왔다. 그런데 너희는 언제 돌아오느냐? 저 하늘 구름에 저 하늘 별빛에 물어도 대답을 들을 수가 없구나’라는 추모 글이 적혀 있었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TG3UPCZIGRCY3PVTU3THRYGNEA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오전 전남 무안국제공항 2층 대합실에 오는 29일 열리는 참사 1주기 추모식장이 설치돼 있다./조홍복 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;참사 1년이 됐으나 처벌받은 책임자는 아직 없다. 검찰에 송치되거나 기소된 사례도 없다. &lt;br&gt;&lt;br&gt;수사단을 꾸린 경찰은 잠정적으로 이번 참사 원인을 단순 과실이 아닌 조류 관리 미흡, 공항 운영 소홀, 지침에 맞지 않는 콘크리트 둔덕 설치 등이 복합적으로 작용한 결과로 추정하고 있다. 불구속 입건한 피의자는 모두 44명이다. 국토부 전·현직 관계자가 20명으로 절반에 육박한다. 경찰은 지난 16일 항공철도사고조사위원회(사조위)를 압수수색했다. 여기서 확보한 증거물 분석을 위해 수사팀 인원을 기존 9명에서 26명으로 늘렸다. &lt;br&gt;&lt;br&gt;대형 참사로 키운 시설은 로컬라이저(착륙 유도 시설)가 설치된 콘크리트 둔덕이었다. 지난 4월 국토부는 전국 공항 7곳 로컬라이저 시설(9개)을 올해 안에 부러지기 쉬운 재질로 재설치할 것이라 했다. &lt;br&gt;&lt;br&gt;현재 공사가 완료된 곳은 포항경주공항, 광주공항 2곳이다. 여수공항은 이달 말, 김해공항과 사천공항은 내년 2월 각각 공사가 끝난다. 제주공항은 내년 8월 착공이 예정돼 있다. 무안공항은 설계는 끝났지만 유족과 협의 후에 착공할 예정이다. 국민권익위원회는 지난 23일 무안공항 로컬라이저가 공항·비행장 시설과 이착륙장 설치 기준과 공항안전 운영 기준을 모두 위반했다고 지적하기도 했다.&lt;br&gt;&lt;br&gt;앞서 제주항공 2216편이 태국 방콕에서 출발해 2024년 12월 29일 오전 9시 3분쯤 무안공항에 착륙 도중 활주로를 넘어 로컬라이저 콘크리트 둔덕과 충돌해 폭발했다. 탑승자 181명 중 동체 후미 승무원 2명을 제외한 179명이 숨졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 운세]12월 26일 금요일 (음력 11월 7일 己巳)</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/DOMYRYQHQZG2BDWKL76NNL2SXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/DOMYRYQHQZG2BDWKL76NNL2SXM/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 08:00:00 +0000</pubDate>
+      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;&lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>특검 “쿠팡 퇴직금 사건 무혐의 압박”…엄희준·김동희 검사 영장에 명시</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/25/BUBVXNJKPRB5VAG2YD3OUN25CU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/25/BUBVXNJKPRB5VAG2YD3OUN25CU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 06:30:30 +0000</pubDate>
+      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹 등을 수사하는 안권섭 특별검사팀이 엄희준 광주고검 검사(전 인천지검 부천지청장)와 김동희 부산고검 검사(전 부천지청 차장검사)의 압수수색 영장에 “담당 검사에게 무혐의 처분을 압박해 수사권 행사를 방해했다”는 내용을 담은 것으로 25일 확인됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZTEMTCGRRGMNBSMIZTGYRYGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;엄희준 광주고검 검사가 지난 10월 23일 서울 여의도 국회 법제사법위원회에서 열린 서울고등검찰청·서울중앙지방검찰청 등에 대한 국정감사에서 의원 질의에 답변하고 있다. 왼쪽은 문지석 광주지검 부장검사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검팀은 전날 엄 검사와 김 검사의 사무실을 각각 압수수색했다. 압수수색 영장에는 두 사람을 ‘직권남용’ 혐의 피의자로 명시했다. 특검은 두 사람이 쿠팡의 퇴직금 미지급 사건을 무혐의로 종결하도록 주임 검사였던 신가현 인천지검 부천지청 검사를 압박해 의무에 없는 일을 하게 했다고 판단했다. &lt;br&gt;&lt;br&gt;특검팀은 또 엄 검사와 김 검사가 문지석 부장검사에게도 무혐의 처분을 결재하도록 압박했고, 이로 인해 문 검사가 사건을 수사할 권리를 방해받았다고 영장에 적었다. &lt;br&gt;&lt;br&gt;특검팀은 김 검사에게 공무상 비밀누설 혐의도 적용했다. 김 검사가 쿠팡 측 변호를 맡았던 권선영 변호사에게 친분 관계를 바탕으로 압수수색 등 수사 정보를 미리 알려줬다는 혐의다. 특검은 이와 관련해 권 변호사의 주거지도 압수수색 대상에 포함했다. 특검은 전날 참고인 신분으로 문 검사와 신 검사의 사무실도 압수수색했다.&lt;br&gt;&lt;br&gt;엄 검사와 김 검사는 올해 초 쿠팡의 퇴직금 미지급 의혹을 수사하던 문 검사에게 무혐의 처분을 하라고 압박한 혐의를 받는다. 앞서 고용노동부 부천지청은 지난 1월 쿠팡의 퇴직금 미지급 사건을 기소 의견으로 검찰에 송치했지만, 인천지검 부천지청은 지난 4월 불기소 처분을 내렸다.&lt;br&gt;&lt;br&gt;당시 사건을 맡았던 문 검사는 지난 10월 국회 국정감사에서 “엄 전 지청장과 김 전 차장이 무혐의 처분을 압박했다”고 주장했다. 문 검사는 자신과 주임 검사가 쿠팡의 취업 규칙 변경이 불법이라는 의견을 냈지만, 김 검사 등이 “무혐의가 명백한 사건”이라며 회유했다고 했다.&lt;br&gt;&lt;br&gt;또 부천지청이 대검찰청에 사건을 보고하는 과정에서 ‘일용직 제도 개선’ 등 핵심 증거 문건이 의도적으로 누락됐고, 압수수색 등 수사 기밀이 쿠팡 측에 유출됐다는 의혹도 제기했다. 엄 검사는 문 검사의 주장이 모두 허위라며 특검에 무고 혐의 수사를 요청한 상태다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>술 취해 잠든 여성 ‘찰칵’… 상습 몰카범 항소심서 집행유예</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/S7UINNRFWZESPDCEBFB2LU6HWM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/S7UINNRFWZESPDCEBFB2LU6HWM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 05:42:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSDWKIWX5VQCJL74EYN5Q5R44I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울서부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;휴대전화로 술에 취해 잠든 여성의 신체를 무단 촬영하는 등 ‘몰카’를 일삼은 남성이 항소심에서 징역형 집행유예를 선고받았다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면 서울서부지법 형사항소1부(재판장 반정우)는 성폭력범죄의 처벌 등에 관한 특례법 위반 혐의로 기소된 A씨에게 징역 8개월에 집행유예 2년을 선고했다. 사회봉사 160시간과 성폭력 치료 강의 40시간 수강도 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 2023년 5월 서울 마포구의 한 호텔에서 피해 여성이 술에 취해 잠들자 그의 신체를 무단 촬영한 혐의를 받는다. A씨는 같은 달 총 5차례에 걸쳐 동일한 방식으로 피해 여성 신체를 촬영한 것으로 나타났다.&lt;br&gt;&lt;br&gt;또 같은 해 9월 서울 서대문구의 한 공용화장실에선 여성 전용칸 칸막이 위로 휴대전화를 들이밀어 또 다른 피해자 모습을 촬영한 것으로도 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “범행의 죄질이 매우 좋지 않고 비난 가능성도 크다”면서도 “피고인이 범행을 모두 인정하며 반성하는 태도를 보이고 있고, 피해 회복을 위해 피해자 B씨에게 총 700만원을 형사공탁했으며 C씨에게는 800만원을 지급하고 원만히 합의한 점을 고려했다”고 양형 이유를 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 학생 18% “학교 폭력·청소년 범죄 심각”… 언어 폭력 가장 많아</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/CAGXLR63WZD4RDX575EPTBOHJY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/CAGXLR63WZD4RDX575EPTBOHJY/</guid>
+      <dc:creator>구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 07:35:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W4FR74NMZIBTTHVCP3MJPAPJ2U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울경찰청/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 학생 10명 중 2명꼴이 학교폭력·청소년 범죄를 “심각하다”고 느끼는 것으로 나타났다. &lt;br&gt;&lt;br&gt;서울경찰청은 25일 ‘서울 공감형 학교 맞춤 예방시스템’ 구축 결과를 발표했다. 서울경찰청이 7~9월 학생·교사 등 6만7097명을 대상으로 진행한 설문에서 ‘우리 학교의 학교폭력 또는 청소년 범죄가 얼마나 심각한가’라는 질문에 “심각하다”고 답한 학생은 17.9%(매우 심각 5%, 약간 심각 12.9%)였다. &lt;br&gt;&lt;br&gt;학교급별로는 중학생(20%)이 가장 높았고, 초등학생(17%), 고등학생(11%) 순이었다. 학교폭력을 “경험하거나 목격한 적이 있다”는 응답은 11.2%(자주 2.7%, 가끔 8.5%)로 조사됐다. &lt;br&gt;&lt;br&gt;피해 유형은 언어폭력이 30.3%로 가장 많았고, 집단따돌림(19.3%), 신체폭력(19.2%), 성폭력(12.3%) 등이 뒤를 이었다. 학생들이 꼽은 ‘범죄 노출’ 이유는 또래친구 영향(48.7%)이 가장 컸고, SNS 영향(20.4%), 호기심(16.5%) 순이었다. &lt;br&gt;&lt;br&gt;서울경찰청은 이런 설문 결과와 경찰 신고, 학교폭력대책심의위원회 접수 사건 등을 학교별로 묶어 분석한 뒤, 학교전담경찰관(SPO)의 예방활동을 학교별로 다르게 설계하는 방식으로 대응하겠다는 계획이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘마약 투약 혐의’ 황하나… 경찰, 구속영장 신청</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/ODACDJLI4NGADPCDSPZQVFHA4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/ODACDJLI4NGADPCDSPZQVFHA4Y/</guid>
+      <dc:creator>과천=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 05:31:53 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N375CT6O7RHMPHJTZASB7P3NSM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;남양유업 창업주 외손녀 황하나씨/KBS&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;마약 혐의로 해외 도피했다 체포된 남양유업 창업주의 외손녀 황하나(37)씨에 대해 경찰이 구속영장을 신청했다. &lt;br&gt;&lt;br&gt;경기 과천경찰서는 마약류 관리에 관한 법률 위반 혐의를 받는 황씨에 대해 이날 중 구속영장을 신청했다고 25일 밝혔다. &lt;br&gt;&lt;br&gt;구속 전 피의자 심문(영장실질심사) 일정은 아직 정해지지 않았다. 이르면 오는 26일 진행될 전망이다. &lt;br&gt;&lt;br&gt;황씨는 지난 2023년 7월 서울 강남에서 필로폰을 지인 등 2명에게 주사기를 이용해 투약한 혐의를 받고 있다. 황씨는 수차례 마약 투약 혐의 등으로 복역했다.&lt;br&gt;&lt;br&gt;황씨는 마약 혐의로 경찰에 수사 선상에 오르자 그해 12월 태국으로 출국했다.&lt;br&gt;&lt;br&gt;경찰은 황씨가 해외로 도주해 수사를 더 이상 진행하지 못하게 되자 작년 5월 인터폴에 청색 수배(소재 파악)를 요청하고, 여권을 무효화했다.&lt;br&gt;&lt;br&gt;이후 황씨는 캄보디아로 밀입국해 지내온 것으로 전해졌다. 그러다 황씨는 최근 변호사를 통해 경찰에 자진 출석하겠다는 뜻을 밝혔고, 경찰은 체포 절차에 돌입했다.&lt;br&gt;&lt;br&gt;황씨는 전날 오전 7시 50분 인천국제공항을 통해 한국에 입국했다.&lt;br&gt;&lt;br&gt;경찰은 황씨가 국내에서 저지른 범죄뿐만 아니라 국외 도피 과정에서 위법 행위에 대해서도 수사할 방침이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“오빠, 연인 사이엔...” 도지사 직인 찍힌 공문에 이런 문구가 왜</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/VMG4XJPECNEX5BY2STDDC6HTWQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/VMG4XJPECNEX5BY2STDDC6HTWQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 07:11:15 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5HWXDHUVBDUFHUBGZCIOTHRLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충청북도가 시·군에 배포한 공문에서 문제가 된 '붙임' 부분. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충청북도가 도지사 직인을 찍어 발송한 공문에 연인 간 대화로 보이는 사적 문구가 포함돼 논란이다. 도는 직원의 의도치 않은 실수가 있었다며 향후 엄격한 관리를 약속했다.&lt;br&gt;&lt;br&gt;25일 충북도 등에 따르면, 도는 전날 내년도 스마트 축산 장비 패키지 보급 사업과 관련한 공문을 도내 11개 시군에 배포했다. 여기에는 사업 변동 사항을 알리는 내용이 담겨 있는데, 문제는 하단 ‘붙임’ 목록에 적힌 장문이었다. 연인 간 대화 내용으로 보이는 이 글엔 “연인 사이에는 집에 잘 들어갔는지 서로 알고 잠드는 게 맞다” “연애뿐만 아니라 결혼해서도 중요하다” “오빠에게 노력해 달라고 부탁했다” 등의 문장이 쓰여 있었다.&lt;br&gt;&lt;br&gt;이 공문은 상급자 결재를 거쳐 도지사 직인까지 찍혀 시군에 배포됐다. 이후 공문을 촬영한 사진이 온라인으로 확산했고, 네티즌들 사이에선 결재 체계가 허술한 것 아니냐는 비판이 제기됐다. “저런 글이 쓰여 있었다는 것보다, 결정권자들이 저걸 제대로 읽어 보지도 않고 통과시켰다는 게 더 큰 문제”라는 댓글도 이어졌다.&lt;br&gt;&lt;br&gt;뒤늦게 사실관계를 파악한 도는 공문을 작성한 직원의 의도하지 않은 실수가 있었다고 해명했다. 개인 메신저로 보내려던 내용을 복사하는 과정에서 문제의 문구가 공문에도 붙여넣기됐다는 것이다. &lt;br&gt;&lt;br&gt;또 공문은 워드(WORD) 프로그램으로 작성됐는데, 흰색 글씨로 처리돼 전자문서상 보이지 않았던 탓에 팀장과 과장 결재에서 걸러지지 않았다고 한다. 그러나 공문을 받은 시·군 측이 한글(HWP) 프로그램으로 공문을 열자, 문구가 검은색으로 변환돼 나타났다.&lt;br&gt;&lt;br&gt;도 관계자는 “불미스러운 일이 발생하게 돼 유감스럽게 생각한다”며 “재발 방지를 위해 직원들의 근태 관리를 점검하고, 전산 시스템으로 유사 상황을 걸러낼 수 있는 방안도 강구하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>대법 “비리 의혹 신고자 명예훼손 성남시·은수미 등 5000만원 배상”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/25/BDJJBHH3FFDURKWWMIXQYNS5GA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/25/BDJJBHH3FFDURKWWMIXQYNS5GA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 05:24:38 +0000</pubDate>
+      <content:encoded>비리 의혹을 제기한 전직 비서관의 경력을 삭제하고 명예를 훼손한 은수미 전 경기 성남시장과 성남시 공무원들이 수천만원을 배상해야 한다는 판결이 대법원에서 확정됐다.&lt;br&gt;&lt;br&gt;25일 법조계에 따르면, 대법원 2부(주심 오경미 대법관)는 은 전 시장 비서실에서 근무했던 전직 비서관 A씨가 성남시와 은 전 시장, 성남시 전 공보비서관 B씨를 상대로 낸 손해배상 청구 소송의 상고심에서 원고 일부 승소 판결을 유지한 원심을 ‘심리불속행 기각’으로 확정했다. 이 사건이 상고심 심리 대상에 해당하지 않는다고 보고, 별도 심리 없이 상고를 기각한 것이다.&lt;br&gt;&lt;br&gt;이에 따라 성남시와 은 전 시장은 공동으로 2500만원을, 성남시와 B씨는 공동으로 2500만원을 각각 배상하게 돼, 총 배상액은 5000만원이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU2GGYZRGQ4DEMZXGJSDEMJVHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;은수미 전 경기 성남시장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 소송은 은 전 시장 선거 캠프에서 활동했던 A씨가 2020년 4월 성남시 채용 비리 의혹을 경찰에 신고하고, 같은 해 11월 이를 국민권익위원회에 다시 신고하면서 시작됐다. 이후 A씨는 2021년 1월 경찰이 은 전 시장의 정치자금법 위반 사건과 관련한 수사 정보를 유출하는 대가로 사업상 이권 등을 요구했다는 의혹에 대해서도 국민권익위원회에 추가로 신고했다.&lt;br&gt;&lt;br&gt;전직 공보비서관이었던 B씨는 이후 성남시 출입 기자들에게 A씨에 대해 ‘재직 시절 공무원들에게 폭력과 갑질, 폭언, 욕설을 했다’ ‘업무는 민원 상담과 경호였는데 사찰과 녹취, 경찰 접선 등을 했다’는 취지의 문자를 보냈고, 해당 내용은 실제 기사로 보도됐다.&lt;br&gt;&lt;br&gt;성남시 인사행정과는 2021년 2월 A씨를 겨냥해 “최근 임기제 공무원 경력증명서에 담당 직위와 업무가 채용 당시 업무 분야와 다르게 기재돼 있는 등 경력증명서 발급 시스템상 일부 허점이 드러났다”며 경력증명서 발급 제도를 개선하겠다는 취지의 보도자료를 배포했다. 같은 달 A씨가 발급받은 경력증명서에는 그의 업무가 ‘현장 민원 상담과 경호’로만 기재됐다.&lt;br&gt;&lt;br&gt;이에 대해 A씨는 “명예를 훼손하고 공익신고·제보의 가치를 떨어뜨리기 위해 경력을 왜곡하고 삭제했다. 이는 직업인으로서의 인격권과 직업선택의 자유를 침해한 행위”라며 은 전 시장과 B씨 등을 상대로 손해배상 소송을 제기했다.&lt;br&gt;&lt;br&gt;1심은 은 전 시장이 A씨의 주요 경력을 삭제하고 A씨의 주장을 흠집내려는 의도가 있었던 것으로 보인다고 판단했다. 재판부는 “피고(은수미)는 성남시 재직 당시 원고(A씨)의 경력에 관한 주장을 공격하고 신뢰도를 낮추기 위해 인사행정과 공무원들을 통해 경력증명서에서 원고가 실제로 담당했던 업무를 사실과 다르게 삭제했다”며 “이는 원고의 인격권을 침해하는 불법 행위에 해당한다”고 밝혔다.&lt;br&gt;&lt;br&gt;재판부는 B씨에 대해서도 공익 신고자인 A씨를 공격하고 흠집 내는 내용의 기사를 작성하도록 기자들에게 권유하거나 유도했다고 봤다. 재판부는 “원고의 사회적 평가를 침해할 가능성이 있을 정도로 구체적인 사실을 공연히 적시해, 원고의 인격적 가치에 대해 사회적으로 받는 객관적 평가를 침해하는 명예훼손 행위에 해당한다”고 했다.&lt;br&gt;&lt;br&gt;은 전 시장 측은 1심 판결에 불복해 항소했으나, 2심 재판부도 1심 판단에 잘못이 없다고 보고 항소를 기각했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/O7CFLOWB22CZRAC5MRF7MHDILA.jpg?auth=b67d27f0fae1dda70a0f037f6fd95be3936d63a9834e35b6cb95594461730b89&amp;smart=true&amp;width=2526&amp;height=1866" type="image/jpeg" height="1866" width="2526">
+        <media:description type="plain">정치자금법 위반 혐의로 기소돼 1심에서 벌금 90만원을 선고받은 은수미 성남시장이 2020년 2월 6일 경기도 수원시 영통구 수원고등법원에서 열린 항소심 선고공판을 마치고 나오고 있다. /연합뉴스</media:description>
+        <media:credit role="author" scheme="urn:ebu">연합뉴스</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>[리빙포인트] 우산 사용 후엔 바셀린</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/23/JT6R2AHCTJCBDJG6TG4MTKH544/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/23/JT6R2AHCTJCBDJG6TG4MTKH544/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 23 Dec 2025 14:33:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6KOB62FWFFD53OZRAJK2FILLFE.png"&gt;&lt;figcaption&gt;&lt;small&gt;/일러스트=양진경&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;우산을 사용한 뒤엔 우산살이 접히는 부분에 바셀린을 얇게 발라보자. 마르지 않은 빗물 때문에 생기는 녹을 기름막이 막아준다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘집단 트라우마’ 개념, 이 사람이 만들었다</title>
       <link>https://www.chosun.com/national/incident/2025/12/19/Q367YBSVOFGXZHFHE72YKXX7TU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/19/Q367YBSVOFGXZHFHE72YKXX7TU/</guid>
@@ -786,33 +881,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OQFTA2L75PSXMDWH4QBQBX4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모·형 살해한 30대 구속심사 출석./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포에서 부모와 형 등 일가족 3명을 살해한 30대 남성에게 무기징역이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 여현주)는 24일 존속살해와 살인 혐의로 기소된 A(36)씨에 대한 선고 공판에서 무기징역을 선고했다. 재판부는 또 A씨에게 15년간 위치추적 전자장치(전자발찌) 부착을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 부모를 폭행하고 형이 훈계하려고 자신을 폭행하자 아버지와 형을 살해한 뒤, 귀가한 어머니마저도 살해했다”며 “피해자 숫자, 피고인과의 관계 등을 종합하면 사형을 구형한 검사 의견도 수긍할 부분이 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이어 “피고인의 생명을 박탈하기보다는 사회에서 격리해 숨진 가족들에게 속죄하는 마음으로 수감 생활을 하도록 하는 것이 낫다고 판단했다”며 “먼저 가신 피고인의 형이나 부모가 어떻게 생각할까 하는 부분 등 여러 가지 고민 끝에 결론을 냈다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;검찰은 지난 10월 A씨의 결심 공판에서 “부모와 형제를 찔러 잔인하게 살해해 사회와 영구 격리할 필요가 있다”며 사형을 구형하고, 10년간 위치추적 전자장치(전자발찌)를 부착하도록 해달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 10일 경기 김포시 하성면의 한 단독주택에서 60~70대 부모와 30대 친형 등 3명을 흉기로 찔러 살해한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 당일 오전 11시쯤 아버지와 형을, 오후 1시쯤 외출 뒤 집에 돌아온 어머니를 흉기로 찌른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 범행 다음 날인 11일 오전 10시 54분쯤 “집 앞에 핏자국이 있다”는 A씨 어머니 지인의 신고를 받고 현장에 출동해 집에서 자고 있던 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;프리랜서로 웹사이트 제작 일을 하던 A씨는 일감이 없어 지난 6월 중순부터 부모 집에서 함께 생활한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 사건 당일 자신을 걱정하는 말을 한 부모를 폭행하다가 형에게 맞자 악감정을 품고 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>경찰, 한학자·윤영호 재차 조사… 산하 단체 관계자도 피의자로 소환</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/24/CH6QYE7S75ERNG6ZAF7UX44FFE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/CH6QYE7S75ERNG6ZAF7UX44FFE/</guid>
-      <dc:creator>이기우 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 01:38:50 +0000</pubDate>
-      <content:encoded>통일교의 정치권 로비 의혹을 수사 중인 경찰이 통일교 한학자 총재와 윤영호 전 세계본부장을 구치소에서 접견 조사한다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRRDGMZWGZSDINLFGI3TMMRXGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 가평 통일교 '천정궁'. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 특별전담수사팀은 24일 오전 경기 의왕 서울구치소를 찾아 한 총재와 윤 전 본부장을 뇌물공여 및 정치자금법 위반 피의자 신분으로 조사할 계획이다. 이들은 2018~2020년쯤 전재수 전 해양수산부 장관과 더불어민주당 임종성 전 의원, 미래통합당 김규환 전 의원에게 수천만 원 상당의 현금과 명품 시계 등을 전달한 혐의를 받는다.&lt;br&gt;&lt;br&gt;경찰은 지난 11일 윤씨를, 17일 한 총재를 각각 1차 조사했고 23일 윤씨에 대해 2차 조사를 실시했다. 한 총재를 비롯한 통일교 측은 윤씨의 정치인 금품 제공 진술에 대해 “윤씨 개인의 일탈”이라는 입장이다. 경찰은 이날 오전에는 한 총재를, 오후에는 윤씨와 한 총재를 조사한다. 이에 따라 오후에는 두 사람의 대질 조사가 이뤄질 가능성도 있다.&lt;br&gt;&lt;br&gt;경찰은 또 이날 오전 통일교 산하 단체 천주평화연합(UPF)의 송광석 전 회장을 정치자금법 위반 등 피의자 신분으로 소환해 조사 중이다. 송씨는 UPF와 국회의원 지원 조직인 세계평화국회의원연합(IAPP) 회장을 지냈다. 2008년 18대 총선에 통일교가 창당한 평화통일가정당의 인천 계양을 국회의원 후보로 출마하기도 했다.&lt;br&gt;&lt;br&gt;수사팀은 송씨가 한 총재나 윤씨 등과 함께 여야 정치인들과 관계를 맺고 후원금을 보내는 등의 일을 하는 데 깊이 개입한 핵심 인물로 보고 있다. 수사팀은 지난 15일 통일교 압수수색에서 송씨가 2019년 당시 여야 정치인 10여 명에게 100만~200만원씩을 후원한 내역을 확보하고 이에 대해 수사 중인 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘1100억원대 아트테크 사기’ 서정아트센터 대표 구속</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/24/ELRVT25GX5BMPIBGTGQBDEYYMA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/ELRVT25GX5BMPIBGTGQBDEYYMA/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 01:34:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PPOSJDOOG3LRMZV4RHYRLJVRA4.gif"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구에 위치한 서정아트센터 서울갤러리. /주간조선&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1100억원대 규모의 다단계 금융사기 의혹을 받는 유명 미술 갤러리 ‘서정아트센터’ 대표가 구속됐다.&lt;br&gt;&lt;br&gt;24일 서울경찰청 형사기동대는 특정경제범죄 가중처벌법상 사기, 유사수신행위법 위반 등 혐의로 갤러리 대표 이모(44)씨를 지난 22일 구속했다고 밝혔다.&lt;br&gt;&lt;br&gt;이씨는 2010년대 중반부터 미술작품을 구매해 센터에 1년간 맡기면 전시회·광고·협찬 등 수익으로 매달 0.8~1%의 정산금을 지급하겠다며 투자자를 끌어모은 뒤, 800여명으로부터 약 1100억원을 가로챈 혐의를 받는다.&lt;br&gt;&lt;br&gt;이씨는 계약 기간이 끝난 뒤 작품이 팔리지 않으면 갤러리가 재매입해 투자 원금을 보장하겠다고 했으나 이 또한 지켜지지 않은 것으로 알려졌다. 이씨는 지난 5월부터 돌연 수익금 지급을 중단한 상태다.&lt;br&gt;&lt;br&gt;피해자들의 고소로 수사에 착수한 경찰은 지난 6월 서정아트센터 사무실과 수장고, 이씨의 자택 등을 압수수색했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>화장실 비밀번호 바뀌자 격분… 부동산 운영자 협박한 50대 징역형</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/24/HYEROFFDYVCZJKWGTLZQG5O46M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/HYEROFFDYVCZJKWGTLZQG5O46M/</guid>
-      <dc:creator>고유찬 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 01:18:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HE3TAYJXMQ4DSYTBGAZDINZUGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;자신이 이용하던 건물 화장실의 비밀번호를 변경했다는 이유로 건물 부동산 운영자를 협박한 남성이 실형을 선고받았다.&lt;br&gt;&lt;br&gt;서울북부지법 형사합의13부(재판장 나상훈)는 지난 8월 19일 협박 및 보복협박 혐의로 A씨에게 징역 1년을 선고했다.&lt;br&gt;&lt;br&gt;A씨는 지난 5월 23일 오후 서울 성북구의 한 건물에서 부동산을 운영하는 B씨를 협박한 혐의로 기소됐다. 평소처럼 건물 화장실을 이용하려다 비밀번호가 바뀐 사실을 알게 된 A씨는 B씨에게 전화를 걸어 욕설을 퍼붓고, 이후에도 살해를 암시하는 내용의 문자메시지를 반복적으로 보낸 것으로 조사됐다.&lt;br&gt;&lt;br&gt;신변의 위협을 느낀 B씨가 경찰에 신고했지만, A씨는 반성의 태도를 보이지 않았다. A씨는 서울 종암경찰서에서 조사를 받은 다음 날까지 모두 9차례에 걸쳐 B씨와 가족을 해치겠다는 전화와 문자메시지를 보냈고, 경찰 조사 다음 날에는 해당 부동산을 다시 찾아가 고성을 지르며 고소 취하를 요구했다.&lt;br&gt;&lt;br&gt;재판부는 “경찰 조사를 받는 와중에도 협박 문자를 보내고, 다음 날 직접 찾아가 고소 취하를 종용하는 등 범행을 반복했다”며 “범행 경위와 수법, 범행 후 태도 등을 볼 때 죄질이 매우 불량하다”고 밝혔다. 다만 A씨가 평소 정신질환을 앓고 있어 충동적 성향이 범행에 영향을 미친 점은 양형에 참작했다고 설명했다.&lt;br&gt;&lt;br&gt;A씨는 해당 건물에서 노숙 생활을 하던 것으로 알려졌다. 앞서 아동학대 혐의로 집행유예를 선고받은 전력이 있으며, 재물손괴와 업무방해, 명예훼손·모욕 등 동종 범죄로 여러 차례 벌금형을 받은 전과도 있는 것으로 드러났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>송파 올림픽아파트서 화재… 2명 심정지 이송</title>
       <link>https://www.chosun.com/national/national_general/2025/12/24/P5AMZQUDGZG3DHTHSPKF4FTKJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/P5AMZQUDGZG3DHTHSPKF4FTKJE/</guid>
@@ -858,15 +926,6 @@
       </media:content>
     </item>
     <item>
-      <title>초중고 수행평가 때 ‘AI 활용’ 안 밝히면 부정행위</title>
-      <link>https://www.chosun.com/national/education/2025/12/24/AJV5VLI52VC6LLI5SBATGDZJYY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/24/AJV5VLI52VC6LLI5SBATGDZJYY/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:45:00 +0000</pubDate>
-      <content:encoded>앞으로 초·중·고 학생들은 수행평가에서 인공지능(AI)이 만들어낸 답변을 그대로 제출하거나 AI에 어떤 도움을 받았는지 밝히지 않을 경우 부정행위로 처리될 수 있다.&lt;br&gt;&lt;br&gt;교육부는 이런 내용의 ‘수행평가 시 AI 활용 관리 방안’을 23일 발표했다. 최근 초·중·고교와 대학에서 AI를 활용한 과제물 관리가 논란이 되자 교육부가 가이드라인을 만든 것이다. 시·도교육청은 이 방안을 내년 3월 새 학기부터 학교 현장에 적용할 예정이다.&lt;br&gt;&lt;br&gt;이번 방안은 학생이 AI를 어디까지 활용할 수 있는지 지침을 주는 데 방점이 찍혀 있다. 우선 교육부는 ‘AI 활용 3대 원칙’을 세웠다. ‘수업·평가에서 보조적으로 활용할 수 있으나 평가의 공정성·신뢰성을 훼손하지 않도록 해야 한다’ ‘교사가 직접 학생의 활동을 관찰할 수 있는 평가를 통해 학생의 독자적 사고에 따른 결과물이 반영돼야 한다’ ‘AI 활용이 금지되는 행위를 명확히 하고 이를 학생·학부모에게 사전 안내한다’ 등이다.&lt;br&gt;&lt;br&gt;이에 따라 앞으로 학생들은 수행평가에서 AI를 자료 조사, 데이터 분석 등 보조 도구로 활용할 수 있다. 하지만 모든 과제를 AI로 만들어 그대로 제출하는 행위는 금지된다. 또한 AI를 보조 도구로 이용했을 때에도 어떤 AI 모델을 이용했는지, AI에 무슨 질문을 입력해 어떤 결과를 얻었는지, 얻은 결과를 어떻게 반영했는지 등 활용 과정을 함께 제출해야 한다. 이를 어길 시에도 부정 행위로 처리될 수 있다. &lt;br&gt;&lt;br&gt;이날 서울시교육청도 ‘초중고 AI 교육 종합계획’을 발표했다. 서울교육청은 현재 시범 운영 중인 ‘AI 서·논술형 평가지원 시스템’을 2027년에 전체 학교로 확대하기로 했다. AI가 학생이 써낸 서·논술형 답안도 수초 만에 분석해 평가하고 적절한 피드백까지 제공하는 시스템이다. 그간 학교는 교사의 업무량이 크게 증가할 것을 우려해 서·논술형 평가 확대를 꺼렸다. 그러나 AI가 채점 업무를 충분히 보조할 수 있는 수준까지 올라오며 이런 한계를 극복할 수 있을 것으로 시교육청은 보고 있다. 이에 시교육청은 이 시스템 도입과 함께 중·고등학교 서·논술형 평가 비율을 현행 25%에서 2027학년도 30%, 2028학년도 40%, 2029학년도 50%로 늘릴 계획이다.&lt;br&gt;&lt;br&gt;교육청은 또 내년부터 매년 1학기 말 초등학교 5학년, 중학교 2학년, 고등학교 1학년 학생을 대상으로 ‘AI·디지털 리터러시(문해력) 진단검사’를 시행한다. 학생의 AI 기술 이해도 등을 측정해 수준에 맞는 교육을 제공하겠다는 것이다. 예컨대 ‘AI에게 내일 날씨를 물었을 때 AI가 답하기 위해 거치는 과정을 올바른 순서로 배치하시오’ 같은 문제가 출제된다고 한다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>사법부도 언론도 與가 쥐고 흔든다</title>
       <link>https://www.chosun.com/politics/assembly/2025/12/24/WXGLX3RZ7BCVFKVFLRZ4IOKUTA/</link>
       <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/12/24/WXGLX3RZ7BCVFKVFLRZ4IOKUTA/</guid>
@@ -883,60 +942,6 @@
       <description/>
       <pubDate>Tue, 23 Dec 2025 15:50:00 +0000</pubDate>
       <content:encoded>내란전담재판부 설치법이 23일 국회를 통과하면서 윤석열 전 대통령 등의 내란 사건을 도맡는 전담재판부가 조만간 법원에 꾸려질 전망이다. 현재 1심이 진행되는 사건의 경우 항소심부터 전담재판부를 설치·적용하도록 돼 있다. 내란 관련 사건 대부분은 1심이 진행 중이라서 전담재판부도 2심인 서울고법에 설치될 예정이다. 법원 내부에서는 내년 1월 말쯤 내란전담재판부를 설치해 윤 전 대통령의 체포 방해 사건(내년 1월 16일 1심 선고) 등을 맡기는 방안이 유력하게 거론되고 있다.&lt;br&gt;&lt;br&gt;서울고법은 내란전담재판부 법안이 국무회의를 거쳐 공포·시행되면 판사회의를 다시 개최해 전담재판부의 수와 구성 요건, 사건 배당 방식 등을 정할 방침이다. 판사회의가 기준을 마련하면, 사무분담위원회는 일주일 내에 전담재판부를 지정한 뒤 판사회의 의결을 받아야 한다. 사실상 판사회의가 재량으로 내란전담재판부 운영 방식을 결정할 수 있는 것이다.&lt;br&gt;&lt;br&gt;서울고법 내부에선 “공정한 재판의 전제가 되는 ‘무작위 배당’ 원칙에 따라 전담재판부를 설치·운영해야 한다”는 여론이 높다. 한 서울고법 부장판사는 “내란 관련 사건이 접수되면 기존 형사 재판부 14곳과 새로 추가될 재판부 2~3곳을 합쳐 무작위로 배당한 뒤, 해당 재판부를 전담재판부로 지정하면 된다”며 “이런 방식으로 운영하면 위헌·위법적인 요소가 크게 줄고, 대법원이 발표한 전담재판부 예규 취지와도 맞는다”고 말했다. 향후 내란 관련 사건들이 1심 선고 후 줄줄이 접수되면, 서울고법이 전담재판부 1~2개를 추가로 설치할 수도 있다.&lt;br&gt;&lt;br&gt;법조계에선 국회가 사후적 입법으로 특정 사건 재판부 구성에 관여해 위헌 요소가 여전히 남아 있다는 지적도 나온다. 윤 전 대통령 측은 이날 “이재명 대통령이 내란전담재판부 설치법에 대해 거부권을 사용하지 않으면 ‘중대 결심’을 할 수 있다”고 했다. 이 법안에 대해 위헌법률심판이 제청되거나 헌법소원이 제기되면 결국 헌법재판소가 위헌 여부를 가리게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>통일교 前 회계 책임자 소환… 경찰, 금품 수수 수사 속도전</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/24/O6PDNII6HVBBJDWV6SEBU362PY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/O6PDNII6HVBBJDWV6SEBU362PY/</guid>
-      <dc:creator>이기우 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:46:00 +0000</pubDate>
-      <content:encoded>경찰청 국가수사본부 통일교 로비 의혹 수사팀이 23일 전 통일교 세계본부 총무처장 조모씨를 참고인으로 불러 10시간 가까이 조사했다. 조씨는 윤영호 전 통일교 세계본부장의 지시를 받아 통일교 자금 출납 업무를 했었다. 윤씨는 민중기 특검팀 면담에서 전재수 더불어민주당 의원 등이 2018~2020년 통일교에서 금품을 받았다고 진술했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NEQCV6VNRBB3PJV5VKAR2ARFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이와 관련해 경찰은 조씨에게 통일교의 정치 후원금 집행 내역 등을 집중 조사했다. 경찰은 또 2019년 통일교 산하 단체 천주평화연합(UPF) 계좌를 통해 여야 정치인 10여 명에게 후원금 명목으로 100만원씩 입금된 것을 확인하고 비용 처리 방식 등을 물었다고 한다. 통일교가 같은 해 열린 국제 행사 ‘월드 서밋 2019’에 당시 문재인 대통령을 초대하기 위해 청와대 인사들을 접촉한 정황도 ‘TM(True Mother·참어머니라는 뜻으로 한학재 총재를 지칭)’ 보고 문건에 담긴 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 이날 서울구치소에 수감 중인 윤씨도 지난 11일에 이어 다시 조사했다. 경찰은 오는 24일 한학자 통일교 총재와 윤씨를 다시 조사할 예정이다. 경찰은 윤씨 아내이자 통일교 재정국장을 지낸 이모씨가 개인 카드로 수차례에 걸쳐 약 20억원을 결제하고, 이를 통일교 본부에서 보전받은 의혹도 수사 중이다. 경찰은 이씨가 윤씨와 공모해 이런 방식으로 조성한 비자금 중 일부를 정치권 로비에 사용했는지 의심하고 있다. &lt;br&gt;&lt;br&gt;한편 윤씨는 이날 고위공직자범죄수사처(공수처) 조사도 받았다. 공수처는 “민주당에도 교단 돈이 갔다”는 윤씨 진술을 듣고도 관련 수사를 하지 않은 민중기 특검의 편파 수사(직무유기) 혐의를 수사 중이다.&lt;br&gt;&lt;br&gt;이런 가운데 공수처는 이날 389억원을 들여 2030년 정부과천청사 인근에 독립 청사를 마련할 계획이라고 밝혔다. 공수처는 2021년 출범 후 정부과천청사를 다른 기관과 함께 사용했다. 이에 대해 지난 5년간 기소 사건이 단 6건에 그칠 정도로 실적이 저조했던 공수처에 400억원 가까운 혈세를 투입하는 것은 부적절하다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>반도체 핵심 기술 빼돌린 삼성 前임직원 10명 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/24/SR45RWXXERDULB6GFLSK75XPOQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/SR45RWXXERDULB6GFLSK75XPOQ/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:46:00 +0000</pubDate>
-      <content:encoded>서울중앙지검 정보기술범죄수사부(부장 김윤용)는 삼성전자가 세계 최초로 개발한 반도체 기술을 중국 업체에 빼돌린 혐의(산업기술보호법 위반)로 삼성전자 임원 출신 A씨 등 5명을 구속 기소하고, 연구원 출신 5명을 불구속 기소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;검찰은 A씨가 삼성전자에서 중국 반도체 업체인 창신메모리로 이직한 2016년부터, 삼성전자의 핵심 반도체 기술이 중국으로 유출한 단서를 잡고 지난해 1월 수사에 나섰다. 삼성전자 연구원 출신 B씨는 2016년 9월 창신메모리로 직장을 옮기면서 삼성전자의 ‘10나노대 D램 공정 정보’를 종이 12장에 옮겨 적는 방식으로 유출한 혐의를 받는다. B씨는 컴퓨터에서 파일을 복사하거나 휴대전화로 촬영하면 적발될 수 있다고 보고, 약 600단계에 이르는 D램 제조 공정과 설비 정보를 직접 필사한 것으로 조사됐다. B씨가 베껴 적은 정보는 삼성전자가 5년간 약 1조6000억원을 투자해 세계 최초로 개발한 핵심 기술이었다.&lt;br&gt;&lt;br&gt;검찰은 이들이 위장 회사를 설립하고 사무실을 주기적으로 옮기는 한편, “항상 주변에 국가정보원이 있다고 생각해서 행동하라”는 지침을 공유하는 등 조직적으로 기술 유출 범행을 했다고 봤다. 출국 금지나 체포 등 위급한 상황이 발생하면 ‘하트 4개’ 암호를 동료들에게 전파하도록 하는 등 행동 수칙을 마련해 단속에 대비한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;창신메모리는 이렇게 빼돌린 기술을 토대로 2023년 중국 최초이자 세계에서 네 번째로 10나노대 D램 양산에 성공했다. 검찰은 이번 유출로 삼성전자의 지난해 추정 매출 감소액만 5조원, 국가 경제 전체의 피해는 수십조원에 이를 것으로 내다봤다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>헌재 “정인이 얼굴 공개는 공익 부합”… ‘그알’ PD 기소유예도 취소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/24/VWVSF4CKQBBWNPAYSGR26N5N2M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/VWVSF4CKQBBWNPAYSGR26N5N2M/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:46:00 +0000</pubDate>
-      <content:encoded>헌법재판소는 ‘정인이 사건’을 보도한 SBS ‘그것이 알고싶다’ 담당 PD에 대해 검찰이 내린 기소유예 처분을 재판관 전원일치로 취소했다고 23일 밝혔다.&lt;br&gt;&lt;br&gt;정인이 사건은 양부모의 학대로 생후 16개월 영아가 입양 271일 만에 사망한 사건이다. SBS는 2021년 1월 이를 보도했다. 이후 한 시민단체는 방송에서 정인이의 얼굴 사진과 생년월일 등이 공개됐다며 담당 PD를 고발했다. 검찰은 2023년 6월 아동학대처벌법상 보도금지의무 위반 혐의는 인정하되 재판에 넘기지는 않는 기소유예 처분을 했다. 하지만 담당 PD는 이 같은 처분이 평등권과 행복추구권을 침해한다며 그해 9월 헌법소원을 청구했다.&lt;br&gt;&lt;br&gt;헌재는 “이 사건 방송이 지속적, 반복적으로 이뤄지는 아동학대 범죄의 잔혹성을 고발하고, 예방 방안 등을 공론화하려는 공익적 목적으로 제작됐다”며 기소유예 처분을 취소한다고 결정했다. 헌법재판소법 제68조에 따르면, 공권력의 행사 또는 불행사로 기본권을 침해받은 자는 재판을 제외하고는 헌법소원 심판을 청구할 수 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>주식 차명거래 혐의 이춘석 검찰 송치</title>
-      <link>https://www.chosun.com/national/2025/12/24/U3QFBQS7KJGH3JDHVOH3FWDLYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/24/U3QFBQS7KJGH3JDHVOH3FWDLYQ/</guid>
-      <dc:creator>김도균 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:46:00 +0000</pubDate>
-      <content:encoded>서울경찰청 금융범죄수사대가 23일 주식 차명 거래 혐의로 수사해 온 무소속 이춘석(4선·전북 익산갑) 의원을 서울남부지검에 기소 의견으로 넘겼다. 이 의원은 주식을 보좌관 명의 등으로 거래해 금융실명법·전자금융거래법 위반 등 혐의가 적용됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3WMVTRNDXZHXFDL5BWOB5HEK5U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 의원은 현역 의원 및 국회 사무총장 시절 수년간 보좌진 명의 증권 앱으로 12억원을 투자해 주식을 거래한 혐의를 받는다. 이 의원에게 계좌를 빌려준 보좌관 A씨도 기소 의견(금융실명법 위반 및 증거인멸 교사 혐의)으로 검찰에 넘겼다. A씨의 서류 파기 지시를 받고 이를 이행한 보좌진 B씨도 증거인멸 혐의로 함께 검찰에 송치됐다.&lt;br&gt;&lt;br&gt;경찰은 이 의원이 세비, 출판기념회 수익금과 경조사비 등을 통해 주식 대금을 충당한 것으로 파악했다. 그런데 이 의원이 최근 4년간 공직자윤리위원회에 신고한 재산은 4억원대다. 경찰 수사 결과, 이 의원은 지인들에게 100만원이 넘는 경조사비를 4차례 받은 사실이 드러나 청탁금지법 위반 혐의도 받는다. 공직자로서 3000만원 이상 주식을 보유하고도 매각하거나 백지신탁하지 않은 혐의(공직자윤리법 위반)도 적용됐다.&lt;br&gt;&lt;br&gt;이 의원은 이재명 정부의 인공지능(AI) 정책을 담당하는 국정기획위원회 경제2분과장을 맡았었다. 이 때문에 미공개 정보 활용 투자 의혹이 불거졌지만, 경찰은 관련 단서를 찾지 못했다고 한다. 이 의원은 12억원을 다수 종목에 분산하는 방식으로 단타 매매를 해왔으나, 원금의 90% 이상을 잃은 것으로 알려졌다. &lt;br&gt;&lt;br&gt;이 의원은 더불어민주당 소속으로 법제사법위원장을 하던 지난 8월 국회 본회의 도중 스마트폰을 이용해 보좌관 명의로 주식을 거래하는 모습이 언론사 카메라에 포착돼 파문이 일었고, 민주당은 그를 제명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>일회용품, 장례식장서도 금지… 배달용기는 정해진 재질만 사용</title>
-      <link>https://www.chosun.com/national/transport-environment/2025/12/24/VXJYEOBRGNBQTBTQERIEHAVPRE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/24/VXJYEOBRGNBQTBTQERIEHAVPRE/</guid>
-      <dc:creator>박상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GAYTGNBYMVSGENJQHA2WEN3CHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울의료원의 일회용품 없는 장례식장. /서울시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞으로 장례식장에서 일회용 수저나 종이컵을 쓸 수 없고, 택배 박스 안에는 배송되는 물건을 제외한 공간이 절반을 넘으면 안 된다. 카페에선 컵값을 따로 내고, 빨대는 요청 시에만 받을 수 있다. 배달 음식 용기는 일회용품을 쓸 수 있지만, 재활용성을 높이기 위해 재질과 두께·색상이 규격화된다. 하지만 이를 놓고 “혼란을 초래할 뿐 아니라, 종이 빨대처럼 무리한 규제를 추진하다가 다시 취소되는 것 아니냐”는 지적이 적지 않다.&lt;br&gt;&lt;br&gt;기후에너지환경부는 23일 이 같은 내용의 ‘탈(脫)플라스틱 종합 대책’ 방안을 발표했다. 기후부 관계자는 “일단 내년은 유예 기간으로 운영하고, 2027년부터 시행하는 게 목표”라고 했다. 이를 통해 2023년 771만t이던 국내 폐플라스틱 발생량을 2030년 약 700만t으로 낮춘다는 계획이다. 원래 2030년 전망치가 1012만t에 달하는데, 이를 약 30% 줄이겠다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YX425E7ZAVHJRIS5D2E572UWIA.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=김현국&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장례식장에선 테이블에 까는 비닐과 일회용 수저, 종이컵 등을 쓸 수 없게 된다. 삼성서울병원 등 일부 대형 병원 장례식장에서 자발적으로 운영 중인 일회용품 사용 금지를 아예 강제하겠다는 것이다. 카페 등 매장에서 일회용 컵에 음료를 받으면 100~200원의 컵값을 따로 받고, 빨대도 소비자가 요청할 때만 제공하도록 했다. 택배 포장을 할 땐 박스 안에 남는 공간이 50%를 넘으면 안 되고, 완충재를 감싸는 것 외엔 추가 포장도 금지된다. 비닐 완충재는 빈 공간 산정 때 포함되지 않고, 종이 완충재만 일부 인정해 준다.&lt;br&gt;&lt;br&gt;플라스틱 일회용품의 재질·색상 등을 규제해 재활용성이 높은 플라스틱만 유통되도록 유도하는 안도 담겼다. 이렇게 되면 재생 원료 확보가 원활해져 200만t의 플라스틱 감축 효과를 볼 수 있다고 한다. 그동안 규제가 없었던 배달 음식 용기는 ‘에코(친환경) 디자인’이란 이름으로 재질과 두께·색상 등이 통일된다. 보통 배달 용기는 PP(폴리프로필렌) 재질인데, 색상이 다양할 뿐 아니라 PP 외에 다른 재질이 섞일수록 고품질 재활용이 어려웠다. 이에 용기를 단색·단일 재질로 통일하고, 뜨거운 음식을 담아도 견딜 수 있는 최소한의 두께로 제작해 불필요한 플라스틱 사용을 줄이겠다는 것이다.&lt;br&gt;&lt;br&gt;이번 정부 정책은 전 세계적으로도 가장 강력한 ‘EU(유럽연합)식 규제’를 따른다. EU는 ‘일회용 플라스틱 지침’을 만들어 일상생활에서 플라스틱을 몰아내는 데 초점을 맞추고 있다. 독일은 포장재법에 따라 일회용품 생산 시 단일 재질을 유도하고, 프랑스는 재질·색상 등을 세부적으로 규제한다.&lt;br&gt;&lt;br&gt;하지만 이번 정책을 둘러싸고 “국민 일상생활에 불편을 초래할 것”이란 우려가 나온다. 장례식장에서 일회용품을 못 쓰게 되면 조문객 접대에 필요한 그릇과 수저를 일일이 설거지해야 하는 상황이 생길 수 있다. 정부는 2021년에도 식기 세척기 등이 갖춰진 장례식장을 대상으로 일회용품 사용 금지를 시행한 적이 있다. 그러나 장례식장들이 규제 대상에서 빠지기 위해 오히려 세척 장비를 없애 큰 효과를 보지 못했고, 제도 시행을 유예했다. 빨대도 매장에 비치해 놓으면 소비자들이 알아서 가져갈 수 있는데, 소비자들이 별도로 요청할 때만 꺼내서 줄 수 있도록 해 매장 직원과 소비자만 번거로워질 것이란 관측도 나온다.&lt;br&gt;&lt;br&gt;무리하게 일회용품 규제를 추진했다가 제자리로 돌아간 과거 사례가 반복될 거란 지적도 있다. 정부는 축·수산물이나 국물 있는 음식을 포장할 때 쓰는 PVC(폴리염화비닐) 소재 랩을 대형 마트 등에서 쓰지 못하도록 규제했다가 업계 반발에 규제를 사실상 취소했다. 또 플라스틱 빨대 대신 종이 빨대를 쓰게 하거나 편의점·제과점 등에서 비닐봉지를 못 쓰게 한 규제도 “탁상행정”이라는 비판과 함께 철회했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>최교진 “교사들, 정치 SNS글에 ‘좋아요’ 정도는 보장돼야”</title>
-      <link>https://www.chosun.com/national/education/2025/12/24/VEZ2UDA2WZCRRCFL4LL6GCG6OE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/24/VEZ2UDA2WZCRRCFL4LL6GCG6OE/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:45:00 +0000</pubDate>
-      <content:encoded>“교사들이 정치 관련해 소셜미디어에 댓글을 달거나 ‘좋아요’를 누르는 정도의 최소한 의견 표명은 기본적으로 보장돼야 한다.”&lt;br&gt;&lt;br&gt;최교진 교육부 장관은 22일 정부세종청사에서 가진 취임 100일 기자 간담회에서 교사들의 정치 참여 확대에 대해 이런 입장을 밝혔다. 최 장관은 “투표권을 가진 일부 고3 학생들은 정부 정책에 관한 찬반 토론도 할 수 있어야 하는데 (이를 지도해야 할) 교사들은 매우 조심스러워하는 분위기”라며 “일반 국민에게 허용되는 수준의 표현을 교사에게만 과도하게 제한하는 것은 바람직하지 않다”고 했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KZ3HQYH6ABE7JNX2CBOX75Q4M4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;교사의 ‘정치 활동 허용’은 이재명 정부가 국정 과제로 추진하고 있다. 더불어민주당은 지난해 7월 정당법·교육공무원법·사립학교법 개정안 등 ‘교원 정치 참여 기본권 보장 7법’을 발의했다. 현재 초·중·고 교사들은 헌법에 명시된 ‘교육의 정치적 중립성’ 조항에 따라 정치 활동을 할 수 없는데, 법 개정을 통해 사실상 전면 허용하겠다는 것이다. 여권이 추진 중인 교사 정치 참여 관련 법 개정안에는 교사의 정당 가입을 허용하고, 휴직 상태로 교육감 등 선거에 출마할 수 있다는 내용이 담겨 있다. &lt;br&gt;&lt;br&gt;정치권도 힘을 실어주고 있다. 정청래 민주당 대표는 지난 9월 한국노총과 만난 자리에서 “(교사가) 페이스북에 ‘좋아요’도 못 누르는 현실은 너무 후진적”이라며 “관련 법안을 이른 시일 내 처리하겠다”고 밝혔다. 전성환 대통령실 경청통합수석도 지난 21일 교사 정치 기본권 보장을 요구하며 단식 농성 중인 박영환 전교조 위원장과 만나 “교원의 정치 기본권 보장은 이재명 대통령의 공약이자 국정 과제이고, 이에 대한 대통령의 의지는 변함이 없다”고 했다. 하지만 여당이 발의한 교사 정치 참여 보장 법안들은 여야 간 의견 차이로 인해 현재 국회 상임위에 계류 중이다. &lt;br&gt;&lt;br&gt;최 장관은 올해 수능 시험이 지나치게 어렵게 출제되면서 제기된 수능 제도 개편·폐지 주장에 대해선 “인공지능(AI) 3대 강국을 목표로 하는 나라에서 오지선다형의 줄 세우기는 불필요한 경쟁이라는 국민적 공감대가 있다”며 “하지만 수능은 대입과 직접 연결되는 문제여서 (개편·폐지는) 전 국민적 합의가 필요하다”고 했다. 그는 또 “고교학점제 도입 이후 고교 교육과 대입 제도가 어떻게 연결돼야 하는지, 대학이 어떤 기준으로 학생을 선발할 것인지에 대한 사회적 합의가 먼저 이뤄져야 한다”며 “학생·학부모·교사 모두가 예측 가능하다고 느끼는 대입 제도를 만드는 것이 중요하다”고 말했다. &lt;br&gt;&lt;br&gt;최 장관은 학교 폭력처럼 학생의 교권 침해 이력을 학교생활기록부에 기재하는 안과 관련해선 “학생부 기재가 오히려 교사들을 더 힘들게 할 수 있다는 의견도 많아서 아직 확정하지 않고 있다”며 “대학 진학 영향 등 학부모들이 예민하게 받아들이는 측면도 있어 더 면밀히 살펴야 한다”고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[김철중의 생로병사] 스마트폰 얕보지 마세요, 손에 쥔 ‘최초의 병원’입니다</title>
