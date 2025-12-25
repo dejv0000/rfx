@@ -13,6 +13,34 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“30초 거리가 5분” “압사 직전”... 크리스마스 명동 구름인파 대혼잡</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/CKBUD7KSSJE3BJVGSOHKHUNU3Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/CKBUD7KSSJE3BJVGSOHKHUNU3Y/</guid>
+      <dc:creator>김수아 기자, 구아모 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 13:28:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6LH4KNQF3REZNG2WY7CGXFEZOU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 크리스마스를 맞아 서울 중구 명동 거리에 시민과 관광객이 몰린 가운데, 경찰이 인파 통제를 하고 있다. 명동 일대는 연말 분위기를 즐기려는 인파로 북적이며 이동에 어려움을 겪는 모습도 보였다./김수아 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;25일 크리스마스를 맞아 서울 중구 명동 일대에는 연인과 친구, 가족 단위 시민들이 대거 몰리며 하루 종일 북적였다. 명동역 인근부터 신세계백화점 본점 앞까지 이어진 거리에는 발 디딜 틈 없이 인파가 이어졌고, 곳곳에서는 인파 사고에 대한 우려의 목소리도 나왔다.&lt;br&gt;&lt;br&gt;이날 오후 5시 30분쯤 서울 지하철 4호선 명동역은 성탄절을 즐기기 위해 몰려든 시민들로 발 디딜 틈이 없었다. 지하철 역사 안에서는 “현재 5번, 6번 출구가 혼잡하오니 다른 출구를 이용해 달라”는 안내 방송이 반복해서 흘러나왔다. 에스컬레이터 앞에 서 있던 서울교통공사 지하철 보안관은 시민들의 동선을 정리하며 “두 줄로 서 달라”고 연신 외쳤다.&lt;br&gt;&lt;br&gt;특히 명동역 5번과 6번 출구 인근에는 인파가 집중됐다. 출구 주변에는 경찰 기동대와 구청 직원들이 배치돼 시민들의 이동을 안내하고 있었지만, 쏟아지는 인파에 비해 배치 인원이 적어 보인다는 지적도 나왔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TIHKDA46RBEZZNUCGPQQT6Y2GQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;크리스마스를 앞둔 25일 오후 서울 중구 신세계백화점 본점 앞에 시민들이 몰려 인파가 몰렸다./김수아 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;명동을 찾은 시민 상당수는 신세계백화점 외관 장식을 배경으로 사진을 찍으려고 이곳을 찾았다고 입을 모았다. 그러나 전광판 주변에 인파가 몰리면서 이동 자체가 쉽지 않았다는 반응이 나왔다. 일산에서 왔다는 최가영(19)씨는 “수능을 마치고 친구 두 명과 사진을 찍으려고 30분 넘게 기다리고 있다”며 “신세계백화점 앞에 10분 정도 서 있었는데, 뒤를 돌아보니 빠져나올 수 없을 정도로 사람이 몰려 있었다”고 말했다.&lt;br&gt;&lt;br&gt;명동 곳곳에는 구청 직원과 경찰, 그리고 구청이 고용한 안전 관리 요원이 배치돼 있었다. 특히 사거리나 차도와 인도가 겹치는 구간을 중심으로 인력이 집중됐다. 르메르디앙 호텔 인근 사거리에서 만난 한 요원은 차량이 지나갈 때마다 “차 지나갑니다” “가장자리로 붙어서 이동해 달라” “차량 이동 중이니 잠시 멈춰 달라”고 소리를 높였다.&lt;br&gt;&lt;br&gt;신세계백화점 주변의 혼잡은 쉽게 해소되지 않았다. 경기 의정부에서 명동을 찾은 정혜성(21)씨는 “신세계백화점 앞은 압사당하기 직전이라는 생각이 들 정도로 통제가 안 됐다”고 말했다. 함께 온 서지후(21)씨도 “관리 인력이 있기는 한데 사람이 너무 많아 목소리가 묻히는 느낌이었다”며 “마이크라도 있어야 할 것 같다”고 했다. 서씨는 “30초면 갈 수 있는 거리도 5분은 걸렸다”며 “힘들게 빠져나왔다”고 덧붙였다.&lt;br&gt;&lt;br&gt;외국인 관광객들도 인파에 놀라는 모습이었다. 멕시코에서 왔다는 바바라 샤페르(24)씨는 “멕시코에서는 휴일에 대부분 집에 머물러 거리가 비어 있는데, 한국에서는 이렇게 많은 사람이 한곳에 모이는 모습을 처음 봤다”며 “굉장히 놀랐다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EGQUOJZDG5CGFB44UDQTVQCMJY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;25일 오후 서울 중구 명동의 한 무인 사진 부스 앞에 시민들이 길게 줄을 서 있다. /김수아 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/EIEPPSOK45GKLPLIXBNLAQKG7U.gif?auth=d4499c91ecace91c3c31f5729317cf410237c917e51b32ef65472767f6ac2f73&amp;smart=true&amp;width=600&amp;height=337" type="image/jpeg" height="337" width="600"/>
+    </item>
+    <item>
+      <title>96세 노모 때린 60대 아들… “처벌 말아달라” 母 탄원에도 실형</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/JP3LF6YS6RALBLN74W2ZRAKKLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/JP3LF6YS6RALBLN74W2ZRAKKLQ/</guid>
+      <dc:creator>문지연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 11:47:17 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/S5CKTTN567L6QCIFBIE3NWZO7M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 마크. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;90대 노모를 폭행하고 흉기로 위협한 60대 아들에게 법원이 실형을 선고했다.&lt;br&gt;&lt;br&gt;의정부지법 남양주지원 형사4단독 권순범 판사는 특수존속 폭행과 노인복지법 위반 혐의로 기소된 A(60)씨에게 징역 2년을 선고했다고 25일 밝혔다. 노인 관련 기관 취업 제한 3년도 함께 명령했다.&lt;br&gt;&lt;br&gt;A씨는 지난 9월 25일 오후 10시쯤 경기 남양주시 자택에서 함께 살던 어머니 B(96)씨가 수면제를 복용한 상태로 움직이다 넘어져 다치자, B씨를 때리고 목을 조르며 흉기로 위협한 혐의를 받는다. A씨는 이튿날에도 B씨가 수면제를 먹은 뒤 이동하다 넘어졌다는 이유로 목을 조르고 손날로 목을 때리는 폭행을 가했다.&lt;br&gt;&lt;br&gt;재판 과정에서 B씨는 아들에 대한 처벌을 원하지 않는다는 내용의 처벌 불원서를 제출했다. 그러나 재판부는 피해자의 인지 능력이 매우 떨어진 것으로 보이는 점과 처벌 불원서에 첨부된 인감증명서가 대리인에 의해 발급된 점 등을 들어 그 효력을 인정하지 않았다.&lt;br&gt;&lt;br&gt;A씨의 동종 전과도 양형에 반영됐다. A씨는 2002년에도 존속상해 등 혐의로 징역 3년을 선고받은 바 있다. 또 보복 협박 등 혐의로 실형을 살다 2022년 10월 출소한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;재판부는 “피고인은 자신을 방어할 능력이 전혀 없는 고령의 노모를 폭행해 죄책이 무겁다”며 “존속상해로 실형을 선고받은 전력이 있고 동종 폭력 범죄로 인한 누범 기간 중 다시 범행한 점, 폭행 등 범행으로 수십 차례 처벌받은 전력이 있는 점을 고려했다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>경희대·외대앞서 110억대 전세사기… 50대 임대업자에 징역 10년 구형</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/25/C5OSPC6TPREQFKP4KJUQ6NA5TQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/25/C5OSPC6TPREQFKP4KJUQ6NA5TQ/</guid>
+      <dc:creator>최하연 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 25 Dec 2025 11:01:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUYWCMZUMVSTAYRTMQ3DKZDEMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울북부지법. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 동대문구 대학가에서 110억원대 전세사기를 벌인 50대 남성에게 중형이 구형됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 23일 서울북부지법 형사합의13부(재판장 나상훈) 심리로 열린 결심 공판에서 특정경제범죄가중처벌법상 사기 등의 혐의로 재판에 넘겨진 김모(58)씨에 대해 징역 10년을 구형했다.&lt;br&gt;&lt;br&gt;검찰은 “100명이 넘는 다수 임차인에게 전세사기를 저질렀고, 임대차 계약을 위조해 금융기관에 대출을 받는 등 죄질이 불량하다”고 구형 이유를 밝혔다. 김씨는 최후 변론에서 “내 생각보다 큰 고통을 겪는 사람이 많을 것 같다”며 “피해를 최소화할 수 있도록 모든 노력을 다하겠다”고 했다.&lt;br&gt;&lt;br&gt;김씨는 경희대·한국외대 등 대학들이 위치한 동대문구 일대에 다수의 부동산을 소유한 임대업자로, 피해자들에게 분양 대금보다 높게 전세계약을 체결하고 보증금을 반환하지 않는 수법으로 114억원을 가로챈 혐의를 받는다. 피해 임차인은 100명 이상으로 대부분 대학생인 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김씨는 지난해 9월 구속됐고 같은 해 10월 재판에 넘겨졌다. 김씨에 대한 선고 공판은 내년 1월 27일 열릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>순직해병 특검에 “임대료 2배 내라”…건물주, 명도소송 제기</title>
       <link>https://www.chosun.com/national/court_law/2025/12/25/GEAKWUIBWZGLVH4N5POZCIWROI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/25/GEAKWUIBWZGLVH4N5POZCIWROI/</guid>
@@ -872,15 +900,6 @@
       <content:encoded>대법원이 의왕시의회의 ‘시장 비서 여론조작 의혹’ 행정사무조사를 막아달라며 의왕시장이 낸 소송을 받아들이지 않았다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 박영재 대법관)는 김성제 경기 의왕시장이 의왕시의회를 상대로 제기한 재의결 무효 확인 소송에서 원고 청구를 기각했다고 24일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44DQMZXGQZGKYJZGRTDSY3DGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김성제 경기 의왕시장이 지난 1일 시의회 제2차 정례회에서 '2026년 시정연설'을 하고 있다. /의왕시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 소송은 의왕시 정책소통실장이 다른 사람의 아이디를 이용해 아파트 입주민 전용 온라인 커뮤니티에 접속한 뒤, 시정에 비판적인 글에 반박 댓글을 단 사건에서 비롯됐다. 댓글을 단 공무원은 정보통신망법 위반으로 유죄가 확정됐고, 시에서 견책(경고) 징계를 받았다. 이후 의왕시의회는 징계 처분 수위의 적정성과 여론조작에 대한 의왕시장의 관여 여부 등을 조사하겠다며 ‘의왕시장 비서 사이버 여론조작’ 행정사무조사 계획서를 의결했다.&lt;br&gt;&lt;br&gt;의왕시장은 해당 안건이 지자체 사무에 해당하지 않는다며 재의를 요구했지만, 시의회가 원안대로 재의결하자 “재의결은 무효”라며 소송을 제기했다. 지방자치법에 따라 재의결 무효 확인 소송은 대법원 단심으로 판단하게 됐다.&lt;br&gt;&lt;br&gt;대법원은 시의회의 손을 들어줬다. 대법원은 “이 사건 행정사무조사는 정책소통실장의 비위 행위 자체를 조사하는 것이 아니라, 비위 행위에 따른 징계 처분의 수위가 적정한지, 시장이 해당 비위 행위에 관여했는지 등을 조사 대상으로 삼고 있다”며 지방자치법이 정한 지자체의 사무에 해당한다고 판단했다.&lt;br&gt;&lt;br&gt;대법원은 또 “이 사건 행정사무조사는 시장의 인사권에 대해 견제 범위 내에서 소극적, 사후적으로 개입하는 것에 불과하다”며 “시장의 고유 권한을 침해하거나 권력 분립 원칙을 위반하지 않았다”고 했다. 이어 “행정사무조사의 성격이나 관련 형사 사건 판결에서 드러난 구체적 사정에 비춰볼 때, 해당 조사가 공익을 현저히 해친다고 보기 어렵다”고 덧붙였다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>김포서 부모·형 등 일가족 3명 살해…30대 무기징역</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/24/UOOFOIV7ZNG7HDUYPB76QT74M4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/UOOFOIV7ZNG7HDUYPB76QT74M4/</guid>
-      <dc:creator>부천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 01:53:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4OQFTA2L75PSXMDWH4QBQBX4TA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부모·형 살해한 30대 구속심사 출석./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 김포에서 부모와 형 등 일가족 3명을 살해한 30대 남성에게 무기징역이 선고됐다. &lt;br&gt;&lt;br&gt;인천지법 부천지원 형사1부(재판장 여현주)는 24일 존속살해와 살인 혐의로 기소된 A(36)씨에 대한 선고 공판에서 무기징역을 선고했다. 재판부는 또 A씨에게 15년간 위치추적 전자장치(전자발찌) 부착을 명령했다. &lt;br&gt;&lt;br&gt;재판부는 “피고인은 부모를 폭행하고 형이 훈계하려고 자신을 폭행하자 아버지와 형을 살해한 뒤, 귀가한 어머니마저도 살해했다”며 “피해자 숫자, 피고인과의 관계 등을 종합하면 사형을 구형한 검사 의견도 수긍할 부분이 있다”고 했다. &lt;br&gt;&lt;br&gt;재판부는 이어 “피고인의 생명을 박탈하기보다는 사회에서 격리해 숨진 가족들에게 속죄하는 마음으로 수감 생활을 하도록 하는 것이 낫다고 판단했다”며 “먼저 가신 피고인의 형이나 부모가 어떻게 생각할까 하는 부분 등 여러 가지 고민 끝에 결론을 냈다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;검찰은 지난 10월 A씨의 결심 공판에서 “부모와 형제를 찔러 잔인하게 살해해 사회와 영구 격리할 필요가 있다”며 사형을 구형하고, 10년간 위치추적 전자장치(전자발찌)를 부착하도록 해달라고 재판부에 요청했다. &lt;br&gt;&lt;br&gt;A씨는 지난 7월 10일 경기 김포시 하성면의 한 단독주택에서 60~70대 부모와 30대 친형 등 3명을 흉기로 찔러 살해한 혐의로 구속 기소됐다. &lt;br&gt;&lt;br&gt;A씨는 당일 오전 11시쯤 아버지와 형을, 오후 1시쯤 외출 뒤 집에 돌아온 어머니를 흉기로 찌른 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 범행 다음 날인 11일 오전 10시 54분쯤 “집 앞에 핏자국이 있다”는 A씨 어머니 지인의 신고를 받고 현장에 출동해 집에서 자고 있던 A씨를 긴급 체포했다. &lt;br&gt;&lt;br&gt;프리랜서로 웹사이트 제작 일을 하던 A씨는 일감이 없어 지난 6월 중순부터 부모 집에서 함께 생활한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 사건 당일 자신을 걱정하는 말을 한 부모를 폭행하다가 형에게 맞자 악감정을 품고 범행한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>송파 올림픽아파트서 화재… 2명 심정지 이송</title>
       <link>https://www.chosun.com/national/national_general/2025/12/24/P5AMZQUDGZG3DHTHSPKF4FTKJE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/24/P5AMZQUDGZG3DHTHSPKF4FTKJE/</guid>
@@ -924,24 +943,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/VVCWVEO5SVCDJNMKO2KYRO2KG4.png?auth=9359bce66d0290068993ee2ca6f1ed227cc241d4751f4eade66a6d915128047a&amp;smart=true&amp;width=2560&amp;height=1440" type="image/png" height="1440" width="2560">
         <media:description type="plain">일러스트=조선디자인랩 권혜인·Midjourney</media:description>
       </media:content>
-    </item>
-    <item>
-      <title>사법부도 언론도 與가 쥐고 흔든다</title>
-      <link>https://www.chosun.com/politics/assembly/2025/12/24/WXGLX3RZ7BCVFKVFLRZ4IOKUTA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/politics/assembly/2025/12/24/WXGLX3RZ7BCVFKVFLRZ4IOKUTA/</guid>
-      <dc:creator>김경필 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:56:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G5TGKOLDGEZTQN3GGYZGCZLBGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;23일 서울 여의도 국회에서 열린 제430회국회(임시회) 제2차 본회의에서 '12·3 윤석열 비상계엄 등에 대한 전담재판부 설치 및 제보자 보호 등에 관한 특별법안(대안)에 대한 수정안'이 가결되고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국회는 23일 더불어민주당 주도로 ‘내란전담재판부 설치법’을 통과시켰다. 이 법은 추진 과정에서 각종 위헌 논란이 불거졌고, 민주당은 여러 차례 법안을 수정했다. 이런 가운데 민주당은 표현의 자유 침해 논란이 있는 ‘허위 조작 정보 근절법’(정보통신망법 개정안)을 본회의에 상정했다. 집권 여당의 입법이 번번이 위헌 논란에 휘말리는 것은 문제가 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;내란전담재판부 설치법은 내란·외환·반란죄 사건에 대해 서울중앙지법(1심)과 서울고법(2심)에 각각 2개 이상의 전담재판부를 설치하는 내용이다. 재판부 구성은 사실상 각 법원의 판사회의가 주도하게 된다. 애초 민주당은 진보 성향 법관들이 주도하는 전국법관대표회의가 전담재판부 구성에 관여하는 법안을 추진했으나, 위헌이라는 지적에 내용을 바꿨다. 다만 법조계와 학계에서는 이날 통과된 법안에 대해서도 “재판부 무작위 배당 원칙을 훼손해 위헌 소지가 있다”는 평가가 나온다. &lt;br&gt;&lt;br&gt;민주당이 본회의에 상정해 24일 표결할 예정인 허위 조작 정보 근절법도 위헌 주장이 제기됐다. 이 법은 언론사나 유튜버가 불법, 허위 조작 정보를 인터넷에 올릴 경우 손해액의 5배까지 배상하게 하고, 악의·반복적 유포로 판단되면 최대 10억 원의 과징금을 부과하는 내용이다. 민주당은 위헌 논란이 일자 막판 수정을 통해 허위 조작정보 유통 금지 조건을 ‘타인에게 손해를 가할 목적’, ‘공익 침해’ 등으로 엄격히 했다. 하지만 언론계는 여전히 “언론 통제법”이라며 반발하고 있다. 국민의힘도 표현의 자유를 침해하는 ‘수퍼 입틀막법’이라며 이날 필리버스터(무제한 토론)에 나섰다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>첫 내란전담재판부 내달 서울고법 설치</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/24/RONCW3MIM5FKNIT4FMWMKGHFSE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/24/RONCW3MIM5FKNIT4FMWMKGHFSE/</guid>
-      <dc:creator>방극렬 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 15:50:00 +0000</pubDate>
-      <content:encoded>내란전담재판부 설치법이 23일 국회를 통과하면서 윤석열 전 대통령 등의 내란 사건을 도맡는 전담재판부가 조만간 법원에 꾸려질 전망이다. 현재 1심이 진행되는 사건의 경우 항소심부터 전담재판부를 설치·적용하도록 돼 있다. 내란 관련 사건 대부분은 1심이 진행 중이라서 전담재판부도 2심인 서울고법에 설치될 예정이다. 법원 내부에서는 내년 1월 말쯤 내란전담재판부를 설치해 윤 전 대통령의 체포 방해 사건(내년 1월 16일 1심 선고) 등을 맡기는 방안이 유력하게 거론되고 있다.&lt;br&gt;&lt;br&gt;서울고법은 내란전담재판부 법안이 국무회의를 거쳐 공포·시행되면 판사회의를 다시 개최해 전담재판부의 수와 구성 요건, 사건 배당 방식 등을 정할 방침이다. 판사회의가 기준을 마련하면, 사무분담위원회는 일주일 내에 전담재판부를 지정한 뒤 판사회의 의결을 받아야 한다. 사실상 판사회의가 재량으로 내란전담재판부 운영 방식을 결정할 수 있는 것이다.&lt;br&gt;&lt;br&gt;서울고법 내부에선 “공정한 재판의 전제가 되는 ‘무작위 배당’ 원칙에 따라 전담재판부를 설치·운영해야 한다”는 여론이 높다. 한 서울고법 부장판사는 “내란 관련 사건이 접수되면 기존 형사 재판부 14곳과 새로 추가될 재판부 2~3곳을 합쳐 무작위로 배당한 뒤, 해당 재판부를 전담재판부로 지정하면 된다”며 “이런 방식으로 운영하면 위헌·위법적인 요소가 크게 줄고, 대법원이 발표한 전담재판부 예규 취지와도 맞는다”고 말했다. 향후 내란 관련 사건들이 1심 선고 후 줄줄이 접수되면, 서울고법이 전담재판부 1~2개를 추가로 설치할 수도 있다.&lt;br&gt;&lt;br&gt;법조계에선 국회가 사후적 입법으로 특정 사건 재판부 구성에 관여해 위헌 요소가 여전히 남아 있다는 지적도 나온다. 윤 전 대통령 측은 이날 “이재명 대통령이 내란전담재판부 설치법에 대해 거부권을 사용하지 않으면 ‘중대 결심’을 할 수 있다”고 했다. 이 법안에 대해 위헌법률심판이 제청되거나 헌법소원이 제기되면 결국 헌법재판소가 위헌 여부를 가리게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[김철중의 생로병사] 스마트폰 얕보지 마세요, 손에 쥔 ‘최초의 병원’입니다</title>
