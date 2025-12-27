@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>상설특검, ‘쿠팡 퇴직금 미지급’ 피해자 소환 조사</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/27/GB3QR3GTHBBXRGQFVLHO3NS3IQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/27/GB3QR3GTHBBXRGQFVLHO3NS3IQ/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 04:59:50 +0000</pubDate>
+      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹 등을 수사하는 안권섭 특별검사팀이 쿠팡 물류센터에서 일용직으로 약 1년 5개월 근무하고도 퇴직금을 받지 못한 피해자 A씨를 소환해 조사했다. A씨는 앞서 쿠팡 사건을 수사한 검찰이 무혐의 처분을 내리자 이에 불복해 항고한 바 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MEZWMMRYGA2GEMJYMJTDMNJSGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 중구 쿠팡 물류센터 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;27일 법조계에 따르면, 특검팀은 경기 부천시의 쿠팡 물류센터에서 일용직으로 근무하며 상품 포장 및 출고 업무를 맡았던 A씨를 지난 26일 참고인 신분으로 불러 조사했다.&lt;br&gt;&lt;br&gt;A씨는 2022년 11월부터 지난해 4월까지 약 1년 5개월간 근무했지만 퇴직금을 한 푼도 받지 못했다. 근무 기간 중 2023년 7월과 10월에 각각 2주씩 쉬었다는 이유였다.&lt;br&gt;&lt;br&gt;쿠팡 물류센터 운영 자회사인 쿠팡풀필먼트서비스(CFS)는 개정 취업규칙에 ‘1년 이상 근무했더라도 중간에 4주 평균 주당 근로시간이 15시간 미만인 기간이 있으면 계속근로기간(재직 기간)을 다시 1일부터 계산한다’는 규정을 새로 포함시켰다. 이 규정 때문에 A씨의 재직 기간은 중간에 공백이 생길 때마다 처음부터 다시 계산됐다.&lt;br&gt;&lt;br&gt;퇴직금은 1년 이상 계속 근무한 근로자에게 지급되는데, A씨의 경우 실제 근무 기간이 1년을 넘겼음에도 재직 기간이 1년 미만으로 계산돼 퇴직금 지급 대상에서 제외된 것이다.&lt;br&gt;&lt;br&gt;이 사건을 처음 수사한 인천지검 부천지청은 올해 4월 “CFS의 취업규칙 변경은 적법하다”며 불기소 결정을 내렸다. A씨는 이에 불복해 항고장을 냈다. 이후 10월 당시 수사 책임자였던 문지석 부장검사가 국회 국정감사에서 수사 외압이 있었다고 폭로하면서 사건이 공론화됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>충주서 외조모 둔기로 살해한 30대 긴급 체포</title>
       <link>https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</guid>
@@ -901,15 +910,6 @@
       <pubDate>Sun, 21 Dec 2025 18:00:00 +0000</pubDate>
       <content:encoded>유튜브 구독자 50만명을 보유한 이지훈 변호사가 매니저 갑질과 불법 의료 시술 논란에 휩싸인 박나래의 대응 방식에 대해 “문제 의식이 없다” “사리 분별을 못 한다” “뇌 기능이 멈춘 것”이라고 지적했습니다. 이와 관련된 기사에 나오는 논란·대응 관련 용어와 표현을 살펴보겠습니다.&lt;br&gt;&lt;br&gt;‘논란에 휩싸이다’는. be embroiled in controversy 또는 be caught up in a scandal로 표현하면 되겠습니다. embroil은 프랑스어 ‘embrouiller’(뒤섞이게 하다)에서 유래한 단어로, ‘휘말리게 하다, 말려들게 하다’는 의미입니다.&lt;br&gt;&lt;br&gt;“뇌 기능이 멈춘 것”은 당황해서 혼란스러운 상태라면 brain fog를 써서 비유할 수 있겠으나, 여기서는 Her brain has shut down으로 직역해서 강조하는 것이 적절하겠습니다.&lt;br&gt;&lt;br&gt;이 변호사는 ‘지팔지꼰 지인지조의 정석 박나래, 이것이 바로 나래식?’이라는 제목의 영상을 통해 “일이 깔끔하게 해결될 때까지 활동 중단을 선언했고, 그 근거로 전 매니저들과 오해가 쌓였으나 만나서 풀었다는 입장문을 냈다”며 “이런 식으로 하면 안 된다”고 말했습니다. ‘지팔지꼰’은 ‘지(제) 팔자 지(제)가 꼰다’, ‘지인지조’는 ‘지(제) 인생 지(제)가 조진다’의 줄임말로, 본인 스스로 운명이나 처지를 꼬이게 하고 인생을 망치는 행위를 뜻합니다.&lt;br&gt;&lt;br&gt;‘스스로 인생을 망치다’는 ruin one’s own life 또는 be one’s own worst enemy라고 하면 되겠습니다. be one’s own worst enemy는 ‘자신이 자신의 최악의 적이 되다’, 즉 스스로 문제를 만들어낸다는 관용구입니다. &lt;br&gt;&lt;br&gt;‘활동 중단을 선언하다’는 announce a suspension of activities 또는 declare a hiatus로 의미 전달을 할 수 있겠습니다. hiatus는 라틴어 ‘hiare’(입을 벌리다)에서 유래해 ‘갈라진 틈’이나 ‘공백’ ‘중단’을 뜻합니다. suspend는 아시다시피 ‘매달다’에서 파생된 ‘중단하다’ ‘정지시키다’라는 동사이지요.&lt;br&gt;&lt;br&gt;이 변호사는 “오해가 쌓였다며 전 매니저들과 합의하러 나간 자리에서 음주 상태로 노래방에 가자고 했다는 얘기를 들었다”며 “사안의 엄중함을 모르고 얼렁뚱땅 넘어가려 하면 문제가 더 커진다. 화해한 적이 없는데 가해자가 화해했다고 발표하면, 될 화해도 물 건너간다”고 지적했습니다.&lt;br&gt;&lt;br&gt;‘음주 상태로’는 under the influence of alcohol 또는 in an intoxicated state로 표현합니다. intoxicated는 ‘취한’이라는 형용사로, 라틴어 ‘intoxicare’(독을 넣다)에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘사안의 엄중함’은 the gravity of the matter 또는 the seriousness of the issue로 표현하면 되겠습니다. 라틴어 ‘gravitas’(무게/중요성)에서 유래한 gravity는 일반적으로 ‘중력’이라는 뜻으로 쓰이지만, 여기에서는 사안·사태의 ‘중대함’ ‘엄중함’이라는 의미이지요.&lt;br&gt;&lt;br&gt;‘얼렁뚱땅 넘어가다’는 ‘대충 넘기다, 회피하다’라는 의미에서 brush off 또는 gloss over라는 표현이 적절합니다. brush off는 ‘털어버리다, 무시하다’, gloss over는 ‘~을 대충 넘기다, 얼버무리다’라는 뜻의 구동사입니다. &lt;br&gt;&lt;br&gt;‘물 건너가다’는 ‘기회를 놓치다, 무산되다’라는 뜻에서 fall through 또는 go down the drain으로 의역해주는 것이 적절하겠습니다. fall through는 ‘무산되다’ ‘실패하다’, go down the drain은 ‘물거품이 되다’라는 의미의 관용구입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/ATQNJNEIQNG77APMS4YN5XMULE.gif?auth=ca3fdb0181138f603ad9880fb958f09f76531f11f9264fb880ebd8c059fb6188&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
-    </item>
-    <item>
-      <title>전현무, 사생활 담긴 처방전까지 공개…의협 “그래도 위법 소지”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/26/SC5IQ2ZP4BEYTEGGKOSJLUTF4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/26/SC5IQ2ZP4BEYTEGGKOSJLUTF4I/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Dec 2025 06:19:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5UYPEPXRBELJEGR5O6ZGTZFCY.png"&gt;&lt;figcaption&gt;&lt;small&gt;2016년 방송된 MBC '나 혼자 산다' 방송에서 전현무가 차량에서 링거를 맞는 듯한 모습이 포착됐다. /MBC&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 전현무가 ‘차량 내 불법 링거’ 의혹과 관련해 진료기록부 등을 공개하며 해명에 나섰지만 의료계에서는 여전히 위법 소지가 있다는 지적이 나왔다. &lt;br&gt;&lt;br&gt;26일 의료계에 따르면 대한의사협회 김성근 대변인은 최근 한 방송과의 인터뷰에서 “주사 처방을 의사가 했고 진료 행위를 병원에서 했어도, 주사를 자기 차에서 맞는 것은 기본적으로 안 되는 것”이라고 지적했다.&lt;br&gt;&lt;br&gt;의사 판단에 따랐더라도 처치의 마무리를 의료인이 하지 않고, 의료기관이 아닌 곳에서 처치를 받는 것은 위법 소지가 있다는 것이다. &lt;br&gt;&lt;br&gt;다만 의료법상 처벌 대상은 의료인이고, 공소시효가 이미 지난 사건이기 때문에 전현무가 처벌받을 가능성은 낮다.&lt;br&gt;&lt;br&gt;앞서 전현무는 2016년 ‘나 혼자 산다’ 방송에서 차량 안에서 링거를 맞는 장면이 최근 재조명되자 사생활이 담긴 내밀한 진료기록부 등을 공개하며 해명에 나섰다. &lt;br&gt;&lt;br&gt;전현무 소속사 측은 “해당 진료는 인후염·후두염·위식도 역류 등의 진단에 따른 항생제, 소염제, 위장약 중심의 치료였으며, 수액은 치료를 보조하기 위한 의료 행위의 일환”이라며 “위 자료들을 통해 당시 전현무 씨의 의료 처치는 의료진의 판단하에 의료기관에서 이루어진 적법한 진료 행위의 연장선이었음을 말씀드린다”고 했다.&lt;br&gt;&lt;br&gt;그러나 서울 강남경찰서는 지난 23일 전현무의 차량 내 링거 투약 의혹에 대한 수사에 착수했다고 밝혔다.&lt;br&gt;&lt;br&gt;최근 연예계에서는 방송인 박나래를 시작으로 그룹 샤이니의 키, 유튜버 입짧은햇님 등이 의료인 면허가 없는 이른바 ‘주사 이모’ 이모 씨로부터 불법 의료 서비스를 받았다는 논란에 휘말려 잇달아 활동을 중단했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[속보] 김건희특검, ‘관저 이전 특혜’ 김오진 前차관 구속기소</title>
