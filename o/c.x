@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>특검, ‘웰바이오텍 주가조작’ 양남희 회장 기소… “시장질서 파괴”</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/27/5MT3RJNZQRCLHNK6UHIWMBI2AM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/27/5MT3RJNZQRCLHNK6UHIWMBI2AM/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 10:11:27 +0000</pubDate>
+      <content:encoded>민중기 특검팀은 27일 삼부토건 관계사인 웰바이오텍 주가조작에 가담한 혐의로 양남희 회장을 기소했다고 밝혔다. 양 회장과 주가조작을 공모한 이기훈 전 부회장도 같은 혐의로 추가 기소됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GMYWEYRVG4ZWIYRUHA2GGOLGMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남구 웰바이오텍 본사 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;양 회장과 이 전 부회장은 2023년 5월 웰바이오텍이 우크라이나 재건 사업에 참여하는 것처럼 허위·과장된 보도자료를 배포해 투자자들을 속인 뒤 주가를 끌어올리고, 주식을 고가에 매도해 약 215억원 상당의 부당이득을 챙긴 혐의(자본시장법 위반)를 받는다. 웰바이오텍 주가조작 사건은 범행 수법이 삼부토건 사건과 유사해 닮은꼴로 언급된다.&lt;br&gt;&lt;br&gt;특검팀은 “주가조작 사범들이 허위 정보 등을 이용해 주가를 부양한 뒤 시세차익을 통해 막대한 부당이득을 취했다”며 “대한민국 자본 시장의 신뢰와 질서를 파괴하는 중대한 범죄”라고 했다.&lt;br&gt;&lt;br&gt;이들은 또 웰바이오텍이 보유한 약 160억원 상당의 전환사채(CB)를 공정가액보다 훨씬 낮은 가격에 차명인들에게 넘겨 약 305억원 상당의 재산상 이익을 취득하게 하고, 그와 같은 금액의 손해를 회사에 끼친 혐의(특경법상 배임)도 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울 암사동 다세대주택서 방화 추정 화재…5명 병원 이송</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/27/7FLCE3AFD5AT5JJ2IFJAAYZUMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/27/7FLCE3AFD5AT5JJ2IFJAAYZUMA/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 10:08:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;소방 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울 강동구 암사동의 한 다세대주택에서 방화로 추정되는 화채가 발생해 5명이 부상을 입고 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올해 마지막 토요일도 도심 집회…“이재명 구속” vs “내란 청산”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/27/OAI2UNIGEVGCBHDYCVSCVCTS44/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/27/OAI2UNIGEVGCBHDYCVSCVCTS44/</guid>
+      <dc:creator>김병권 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 09:57:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FF4IU7F2T5C4PCCMUNVRQWA4CY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;27일 오후 서울 종로구 동화면세점 인근에서 열린 대한민국바로세우기국민운동본부(대국본) 주최 보수 집회/유튜브 캡처&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2025년의 마지막 토요일인 27일에도 서울 도심 곳곳에서 보수와 진보 진영의 집회가 열렸다.&lt;br&gt;&lt;br&gt;전광훈 사랑제일교회 목사가 주축인 대한민국바로세우기국민운동본부(대국본)는 이날 오후 1시 종로구 동화면세점 인근에서 집회를 열었다. 최대 7000명(경찰 비공식 추산)의 참가자들은 태극기와 성조기를을 흔들며 “이재명을 구속하라”고 외쳤다. 무대에 오른 전 목사는 “검찰청을 해체하면 범인은 누가 잡느냐”고 했다. &lt;br&gt;&lt;br&gt;진보성향 시민단체 촛불행동은 이날 오후 4시 서초구 대법원 인근에서 ‘제171차 촛불대행진’ 집회를 열었다. 이날 모인 500여 명(경찰 비공식 추산)의 참가자들은 ‘조희대를 탄핵하라’ ‘국민의힘 해체하라’등이 적힌 손팻말을 흔들었다.&lt;br&gt;&lt;br&gt;윤미향 전 의원은 연단에 올라 “내란특검은 피의사실을 인정할 뚜렷한 증거가 없다며 조희대 대법원장의 내란 중요 임무 종사 혐의 사건을 무혐의 처리했다”며 “사법부의 철밥통이 우리를 더 춥게 만든다”고 말했다.&lt;br&gt;&lt;br&gt;참가자들은 집회 종료 후 지하철 2호선 강남역 인근까지 행진을 벌인다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 삼부토건 이기훈 ’55일 도주' 도운 코스닥 상장사 회장 구속 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/27/BBYRY4QLANBV5NZKYY3P4H2AWA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/27/BBYRY4QLANBV5NZKYY3P4H2AWA/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 09:51:25 +0000</pubDate>
+      <content:encoded>민중기 특검팀은 27일 ‘삼부토건 주가조작’ 사건과 관련해 구속 기소된 이기훈 전 부회장의 도주를 도운 코스피 상장사 이모 회장을 범인 은닉, 범인 도피 혐의로 구속 기소했다고 밝혔다. 이 회장과 공모한 공범 6명도 같은 혐의로 불구속 기소됐다.&lt;br&gt;&lt;br&gt;특검은 “이미 범인도피, 범인은닉 등 사법 방해 행위에 대해 엄정 대처할 것을 천명한 바 있다”며 “그러한 방침에 따라 주요 도피자를 끝까지 추적해 체포 및 구속 기소했고, 범인 도피를 도운 공범들을 범인은닉 혐의로 1명을 구속 기소하고 6명을 불구속 기소햇다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYWCZBRMM3TIODCMQYDKYTDGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'삼부토건 주가조작' 사건으로 수사받다가 도주한 이기훈 전 삼부토건 부회장 겸 웰바이오텍 회장. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이 회장 등은 구속 심사를 앞두고 도주한 이 전 부회장의 도주를 도운 혐의를 받는다. 이 전 부회장은 지난 7월 구속영장 실질심사에 출석하지 않고 잠적했다가 도주 55일 만에 전남 목포에서 검거됐다.&lt;br&gt;&lt;br&gt;특검팀에 따르면, 이 회장은 지난 7월 16일 서울에서 경기 포천시에 있는 자신의 별장으로 이 전 부회장을 데려가 이틀간 은신하도록 했다. 이후 17일에는 별장에서 경기 가평군의 한 펜션으로 옮겨 19일까지 숨어 지내게 했으며, 이 과정에서 수사기관에 발각되지 않도록 위치 추적을 방해한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;또 다른 공범 A씨는 19일 서울로 올라온 이 전 회장을 차량으로 전남 무안군의 한 사무실로 이동시켜 수사기관의 추적을 피하도록 도왔다. 공범 A·B씨는 7월 21일 이 전 부회장과 함께 대포폰을 나눠 사용하며 비밀 연락망을 구축한 뒤, 7월 22일부터 8월 10일까지 전남 신안군의 한 민박을 시작으로 전남 목포시 오피스텔, 경북 울진군 펜션, 경남 하동군 펜션, 전남 목포시 사무실 등으로 옮겨가며 이 전 부회장의 도주를 도왔다. 이후에는 전남 목포시의 한 원룸을 임차해 숨어 지낼 수 있도록 했다. 이 전 부회장은 도주 끝에 9월 10일 수사기관에 체포됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>특검, 김건희에 ‘로저비비에 가방 선물’ 김기현 의원 부부 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/27/CS7D5QS3DFESVOM54VAXFLG2LU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/27/CS7D5QS3DFESVOM54VAXFLG2LU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 09:00:28 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMYDQNBVGE2DSODGGIYGIYJSGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김기현 국민의힘 의원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;민중기 특검팀이 27일 당대표 당선 지원에 대한 답례로 윤석열 전 대통령의 배우자 김건희 여사에게 ‘로저비비에’ 가방을 준 혐의를 받는 김기현 국민의힘 의원 부부를 불구속 기소했다.&lt;br&gt;&lt;br&gt;특검팀에 따르면, 김 의원과 그의 배우자 이모씨는 2023년 3월 17일 윤 전 대통령의 직무와 관련하여 김 여사에게 267만원 상당의 로저비비에 클러치백 1개를 제공한 혐의(청탁금지법 위반)를 받는다. 특검은 “이 사건은 공당의 당대표가 당대표 당선에 대한 대가로 대통령의 부인에게 명품 가방을 제공한 권력형 비리 사건”이라고 했다. 그러면서 “대한민국 정치사에서 고질적으로 반복돼 온 대통령의 여당 대표 경선 개입 정황을 확인했다”며 “이는 대통령의 정치적 중립 의무 위반 및 당정분리 파괴 등 정당 민주주의를 훼손하는 중대한 범죄”라고 했다.&lt;br&gt;&lt;br&gt;다만 특검팀은 윤 전 대통령 부부에 대해 뇌물 수수 혐의는 적용하지 않았다. 특검팀은 “한정된 수사 기간과 관련자들의 수사 비협조로 김 의원 부부의 명품 가방 제공 경위, 청탁 또는 대가성 유무, 대통령 개입 여부 등 윤 전 대통령 부부의 뇌물 수수 혐의에 대해서는 경찰청 국가수사본부에 이첩해 추가 수사할 예정”이라고 했다. &lt;br&gt;&lt;br&gt;민중기 특검팀의 수사 기간은 오는 28일 종료된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>대전 아파트 화재로 형제 숨져... 동생은 집안, 형은 입구서 발견</title>
       <link>https://www.chosun.com/national/regional/2025/12/27/2F2ISEG5PFCERIBC2CIYPLCMIY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/27/2F2ISEG5PFCERIBC2CIYPLCMIY/</guid>
@@ -899,16 +944,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/27PBQJLQDJEXJKGMZ2K4NJFWW4.gif?auth=37a19385fd0a93e1a4f012445e32b5bee8a3036be418464503b40e35ae92b166&amp;smart=true&amp;width=414&amp;height=310" type="image/jpeg" height="310" width="414"/>
     </item>
     <item>
-      <title>얼굴에 화상 입은 아내와 ‘수상한 남편’ 영어로는?</title>
-      <link>https://www.chosun.com/national/education/2025/12/19/WMSQ3ZSCPJD33KZ6UEOSTP3RQY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/19/WMSQ3ZSCPJD33KZ6UEOSTP3RQY/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 18 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>잠들어 있는 태국인 아내 얼굴에 끓는 물을 부어 화상을 입힌 40대 한국인 남편 A씨가 상해 혐의로 경찰에 붙잡혔다지요.&lt;br&gt;&lt;br&gt;‘끓는 물을 붓다’는 pour boiling water입니다. pour는 ‘붓다’ ‘따르다’라는 동사, boiling은 boil(끓다)의 현재분사형으로 여기서는 ‘끓는’이라는 형용사 역할을 합니다.&lt;br&gt;&lt;br&gt;‘화상을 입히다’는 inflict burns라고 합니다. inflict는 라틴어 ‘infligere’(때리다/가하다)에서 유래했으며, ‘고통이나 피해를 가하다’라는 의미입니다. burn은 ‘화상’이라는 명사로도, ‘태우다’라는 동사로도 쓰입니다.&lt;br&gt;&lt;br&gt;A씨는 의정부시 아파트에서 잠자던 30대 태국인 아내 B씨의 얼굴에 끓는 물을 부은 뒤 서울 성동구의 한 화상 전문병원에 데려갔고, 이를 수상하게 여긴 병원 관계자가 경찰에 신고했습니다.&lt;br&gt;&lt;br&gt;‘수상하게 여기다’는 find suspicious 또는 regard as suspicious라고 하면 되겠습니다. suspicious는 라틴어 ‘suspicere’(의심하며 보다)에서 유래했습니다. suspicious behavior는 ‘수상한 행동’, suspicious circumstances는 ‘의심스러운 상황’을 뜻하지요.&lt;br&gt;&lt;br&gt;A씨는 경찰에 “다른 남자를 만날까 봐 얼굴을 못생기게 만들고 싶었다”며 “아내가 자신을 떠나는 것을 막기 위해 범행을 저질렀다”고 주장했다고 합니다. 경찰은 증거 등을 확인한 뒤 구속영장을 신청했습니다.&lt;br&gt;&lt;br&gt;‘못생기게 만들다’는 disfigure 또는 make ugly라고 표현할 수 있겠습니다. disfigure는 ‘외모를 손상시키다’ ‘추하게 만들다’라는 뜻의 동사입니다.&lt;br&gt;&lt;br&gt;이 사건은 아내 B씨와 B씨의 지인이 페이스북에 관련 내용 게시물을 올리면서 드러났다고 합니다. B씨는 남편 A씨를 상대로 법적 조치를 취하기 위해 통역 서비스 등의 도움이 필요하다는 내용의 글을 게재했고, 그의 지인은 치료 상황 등을 공유하며 후원을 요청하는 등 경과를 누리꾼들에게 전했다고 합니다.&lt;br&gt;&lt;br&gt;‘드러나다’라는 뜻의 단어 중 reveal은 라틴어 ‘revelare’(베일을 벗기다)에서 유래한 ‘드러내다’ ‘밝히다’라는 뜻의 동사로, disclose, divulge, unveil, uncover, expose 등으로 바꿔 표현할 수도 있겠습니다.&lt;br&gt;&lt;br&gt;‘통역 서비스’는 interpretation service 또는 translation service라고 합니다. interpretation은 ‘통역’을 의미하며, interpreter는 ‘통역사’를 말하지요. translation은 흔히 ‘번역’을 뜻하고, translator는 ‘번역가’를 지칭하지만, 맥락에 따라 ‘통역’ ‘통역사’의 뜻으로 쓰이는 경우도 있습니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/65QZLYFF4RFCNMMZZPNJKLG654.gif?auth=fb0cecf4884ea5a26f0159723e0b9268ed153eb6d951c3854a1bfb4056dcd6e1&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
-    </item>
-    <item>
       <title>‘서해 공무원 피살 은폐’ 의혹, 서훈·박지원·서욱 1심 무죄</title>
       <link>https://www.chosun.com/national/court_law/2025/12/26/OMCHI7E5YZCYLPYYLLFQFQF7CQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/26/OMCHI7E5YZCYLPYYLLFQFQF7CQ/</guid>
@@ -922,26 +957,6 @@
       </media:content>
     </item>
     <item>
-      <title>지적 장애인에 쟁기 매달고 수십년 착취… ‘소처럼 부리다’ 영어로는</title>
-      <link>https://www.chosun.com/national/education/2025/12/24/VYWGXK3PEFEPZB6CO4XK4MEBXA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/24/VYWGXK3PEFEPZB6CO4XK4MEBXA/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 23 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>청주의 한 농촌에서 중증 지적 장애를 가진 이웃에게 소처럼 쟁기를 매달아 자신의 밭을 갈게 하는 등 강제로 농사일을 시킨 70대가 징역형의 집행유예를 선고받았습니다. 이와 관련된 기사들에 나오는 장애인 학대·착취 및 형사 처벌 관련 용어와 표현을 살펴보겠습니다.&lt;br&gt;&lt;br&gt;‘중증 지적 장애’는 severe intellectual disability라고 표현합니다. intellectual은 ‘지적·지능적인’이라는 뜻이지요. disability와 함께 쓰여 지적 장애를 가리키고, severe는 ‘중증의’라는 증상 정도를 나타냅니다.&lt;br&gt;&lt;br&gt;‘강제로 ~시키다’는 force someone to do something 또는 compel someone to do로 번역해 줍니다. compel은 라틴어 ‘compellere’(함께 몰아가다)에서 유래해 강제성을 강하게 나타냅니다.&lt;br&gt;&lt;br&gt;청주지법은 장애인복지법 위반 등 혐의로 구속 기소된 70대 남성 A씨에게 징역 1년 6개월에 집행유예 3년을 선고하고, 80시간의 사회봉사와 3년간 장애인 관련 기관 취업 제한을 명령했습니다. A씨는 지난 2023년 4월과 5월 두 차례에 걸쳐 홀로 사는 3급 지적장애인인 이웃 B(70대)씨를 욕설과 폭언으로 위협해 소를 부리듯 B씨에게 강제로 쟁기를 매달아 밭을 갈게 한 혐의로 재판에 넘겨졌습니다.&lt;br&gt;&lt;br&gt;A씨는 또 B 씨 명의로 발급받은 농업인 면세유 카드로 120만원 상당의 면세유를 구입해 가로채기도 했습니다. A씨는 1995년부터 수십 년간 B씨에게 밭일을 시킨 것으로 전해졌지만, 구체적인 날짜와 행위 등이 구체적으로 확인되지 않아 범죄 사실에는 포함시키지 못했다고 합니다.&lt;br&gt;&lt;br&gt;‘수십 년간 ~ 시키다’는 exploit over decades라고 표현하면 적절하겠습니다. exploit은 ‘착취하다’라는 뜻이지요. 약점을 이용해 갈취해 가며 이득을 취한다는 의미입니다.&lt;br&gt;&lt;br&gt;이번 경우와 같은 ‘강제 노역’은 forced labor라고 합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/2JK6GEVCT5HCLPVFH6ACPXN73A.gif?auth=ef0036d27e3ff59367b501973878f0a7bf0a38e182219a4319544f9b9af53531&amp;smart=true&amp;width=400&amp;height=300" type="image/jpeg" height="300" width="400"/>
-    </item>
-    <item>
-      <title>숙취 운전으로 면허 정지된 버스 기사… 면허 취소는 영어로?</title>
-      <link>https://www.chosun.com/national/education/2025/12/23/YBTB4REYRJEZPPO7GQKVR46BFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/23/YBTB4REYRJEZPPO7GQKVR46BFQ/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 22 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>부산에서 마을버스 운전 기사가 숙취 운전을 하다 경찰에 적발됐다지요. 영도경찰서는 지난 18일 오전 7시 25분쯤 50대 남성 마을버스 운전 기사 A씨를 도로교통법상 음주 운전 혐의로 입건했다고 합니다.&lt;br&gt;&lt;br&gt;‘숙취 운전’은 전날 마신 술이 체내에 남아 있는 상태에서 운전하는 것을 말하지요. 그래서 ‘숙취’라는 뜻의 hangover를 써서 driving with a hangover이라고 하거나 전날부터 이어진 음주 운전이라는 의미에서 drunk driving from the night before로 표현합니다. hangover는 동사구 ‘hang over’(위에 걸려 있다)에서 유래했습니다. 술기운이 다음 날까지 남아 있다는 의미로 이어진 것이지요.&lt;br&gt;&lt;br&gt;해당 버스에 타고 있던 한 승객이 “운전석에서 술 냄새가 나는 것 같다”고 112에 신고했다고 합니다. 신고를 받고 출동한 경찰이 A씨의 혈중알코올농도를 측정한 결과, 운전면허 정지(0.03% 이상~0.08% 미만) 수준으로 확인됐습니다.&lt;br&gt;&lt;br&gt;‘신고하다’는 report 또는 call in으로 표현합니다. report는 라틴어 ‘reportare(다시 가져오다)’에서 유래했으며, ‘보고하다, 신고하다’는 의미입니다. call in은 ‘전화로 신고하다’라는 뜻의 구동사입니다.&lt;br&gt;&lt;br&gt;A씨는 전날 저녁에 술을 마셨다고 합니다. 그리고 다음 날인 이날 아침 출근한 뒤 회사에서 자체적으로 실시한 음주 측정에선 정상 판정을 받아 버스 운행에 나섰다고 합니다.&lt;br&gt;&lt;br&gt;‘자체적으로 실시하다’는 conduct internally 또는 carry out in-house로 표현합니다. conduct는 ‘실시하다, 수행하다’라는 의미이고, in-house는 ‘내부에서, 자체적으로’라는 뜻입니다. carry out은 ‘실행하다, 수행하다’라는 구동사입니다.&lt;br&gt;&lt;br&gt;경찰은 “A씨를 상대로 정확한 경위 등을 조사하고 있다”며 “마을버스 회사의 음주 측정기 이상 여부도 살펴보고 있다”고 밝혔습니다.&lt;br&gt;&lt;br&gt;‘이상 여부를 살펴보다’는 check for malfunction으로 표현해주면 되겠습니다. malfunction은 ‘오작동, 고장’을 뜻하며, ‘mal’(나쁜)과 ‘function’(기능)이 결합된 단어입니다. &lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/5DZRNQ5SBZD4JGH6HHIALXXK3I.gif?auth=fe1230864241e5b645d87aeaa918e8ab4dff8f6f7f08b639bdc1abe78ac1fb13&amp;smart=true&amp;width=424&amp;height=318" type="image/jpeg" height="318" width="424"/>
-    </item>
-    <item>
       <title>“추운 날 걱정돼서 와봤다”… 오세훈, 서울역 노숙인들 만나 위로</title>
       <link>https://www.chosun.com/national/national_general/2025/12/26/NHGC5Q43VJC7NGBZWROOGSMI7E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/26/NHGC5Q43VJC7NGBZWROOGSMI7E/</guid>
@@ -949,26 +964,6 @@
       <description/>
       <pubDate>Fri, 26 Dec 2025 01:34:23 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBSEGLTTFNGOLPBIAD53EWGSW4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 25일 서울역광장 인근 지하보도에서 노숙인을 만나 대화를 나누고 있다. /서울시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오세훈 서울시장이 성탄절인 25일 서울역광장과 인근 지하보도를 방문해 노숙인을 비롯한 취약계층 시민들의 안전을 살폈다. &lt;br&gt;&lt;br&gt;서울시에 따르면, 오 시장은 이날 오후 서울역 희망지원센터를 찾아 거리노숙인 상담원들을 격려하고, 서울역광장과 인근 지하보도에서 노숙인들의 안전 상황을 직접 확인했다.&lt;br&gt;&lt;br&gt;오 시장은 이후 서울역파출소를 방문해 노숙인 보호 활동과 관련한 현장의 애로사항을 청취했다.&lt;br&gt;&lt;br&gt;오 시장은 “오늘이 올해 들어 가장 추운 날씨라 서울역 인근에 계신 분들이 걱정돼 현장을 직접 둘러봤다”며 “이런 날일수록 현장에서 관리하는 분들의 역할이 무엇보다 중요한 만큼 좀 더 세심하게 관심을 기울여 주시길 바라고, 서울시도 한파 피해가 없도록 시민 안전관리와 사전예방 조치를 한층 강화하겠다”고 말했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM4TEOJZMRQWKNZXMIZTSNTDMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 25일 서울역광장 인근 지하보도를 찾아 한파 대비 거리노숙인 보호 현장을 점검하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 전날(24일)에는 한파 대응 상황 보고를 받고 “이번 주 강한 한파가 예상되는 만큼, 시민 안전관리 및 사전예방 대책을 강화해달라”고 긴급 지시했다.&lt;br&gt;&lt;br&gt;이와 관련, 서울시는 한파로 인한 시민 피해를 최소화하기 위해 24시간 한파 종합지원 상황실을 가동 중이라고 밝혔다.&lt;br&gt;&lt;br&gt;서울시는 노숙인 및 거리 취약계층 보호를 위해 현장 순찰과 상담을 강화하고, 응급 잠자리 제공과 방한용품 지원을 확대한다. 독거 어르신과 장애인 등 돌봄이 필요한 시민을 대상으로 안부를 확인하고 응급 상황 발생 시 신속 대응이 가능하도록 관련 기관과의 협조체계도 유지할 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>9살짜리 바둑 프로기사 탄생… ’역대 최연소’는 영어로?</title>
-      <link>https://www.chosun.com/national/education/2025/12/25/LCCN5RULORBEXE3UPTFJBA4UUE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/25/LCCN5RULORBEXE3UPTFJBA4UUE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 25 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>한국 바둑 사상 역대 최연소 입단자가 탄생했습니다. 올해 9세 6개월인 유하준군이 바둑 프로 기사 자격을 획득하면서 최연소 입단 기록을 경신했습니다. &lt;br&gt;&lt;br&gt;‘역대 최연소’는 the youngest ever 또는 the youngest in history라고 표현하면 되겠습니다. ever는 ‘지금까지, 역사상’이라는 의미로 최상급과 함께 쓰여 ‘역대 최고’라는 어감을 살려줍니다.&lt;br&gt;&lt;br&gt;‘입단자’는 바둑에서 프로 기사가 된 사람을 말하므로 new professional player 또는 newly admitted professional이라고 하면 되겠습니다. 여기서 admitted는 ‘입회한’ ‘입단한’이라는 의미로 쓰입니다.&lt;br&gt;&lt;br&gt;한국기원은 유하준(9)과 표현우(12)가 입단 자격을 획득했다고 발표했지요. 만 9세 6개월 12일 만에 프로 기사가 된 유하준은 1962년 조훈현 9단이 9세 7개월 5일의 나이로 세웠던 역대 최연소 입단 기록을 63년 만에 넘어섰습니다.&lt;br&gt;&lt;br&gt;‘자격을 획득하다’는 obtain qualification 또는 earn qualification으로 풀어줍니다. obtain은 라틴어 ‘obtinere’(손에 넣다)에서 유래해 ‘얻다, 획득하다’라는 의미의 대표적 동사로 쓰이게 됐습니다. earn은 원래 ‘벌다’라는 뜻이지만, ‘노력해서 얻다’라는 어감이 들어간 동사로도 많이 쓰입니다.&lt;br&gt;&lt;br&gt;‘기록을 세우다’는 set a record 또는 establish a record라고 합니다. 그리고 ‘기록을 경신하다’ ‘갈아치우다’는 break a record라고 하는 게 가장 적절합니다. break는 원래 ‘깨다’라는 뜻이지만, 기록을 깨뜨려 새로운 기록을 만든다는 의미에서 ‘경신하다’로 쓰입니다. ‘shatter a record’라는 구문을 쓰기도 합니다. 이 경우에 shatter는 ‘산산이 부수다’라는 뜻으로, break보다 훨씬 더 크게 기록을 앞지르는 경우를 묘사할 때 사용합니다.&lt;br&gt;&lt;br&gt;유하준 초단은 “최종국 중반 패싸움에서 이득을 본 뒤 입단을 확신했다”며 “신진서 9단처럼 강한 전투력을 가진 프로기사가 되고 싶다”고 포부를 밝혔습니다. 유하준·표현우 초단의 입단으로 한국기원 소속 프로기사는 총 456명(남자 366명·여자 90명)이 됐다고 합니다.&lt;br&gt;&lt;br&gt;일반적 의미로 ‘이득을 보다’는 gain an advantage, benefit from으로 표현하는데, 유하준 초단이 여기서 말한 뜻을 살리자면 ‘유리한 위치를 얻다’라는 뜻의 gain an advantage로 표현하는 것이 맞겠습니다. 아시다시피 benefit/profit from은 일반적인 의미에서 ‘~로부터 이익을 얻다’이지요.&lt;br&gt;&lt;br&gt;‘포부를 밝히다’는 reveal one’s aspirations 또는 state one’s ambitions라고 옮겨주면 말뜻이 제대로 전달되겠습니다. 여기서 aspiration은 ambition과 같은 ‘야망’ ‘포부’를 뜻합니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/6CDPXZ2HUVA4ZGJV77ENVFL75M.gif?auth=96e57ba7376487bf06f372b08bf0d13629e4ba1158cb83eb7027b224d6270487&amp;smart=true&amp;width=362&amp;height=272" type="image/jpeg" height="272" width="362"/>
-    </item>
-    <item>
-      <title>유부남 협박한 유흥주점 여종업원… ‘불륜’은 영어로?</title>
-      <link>https://www.chosun.com/national/education/2025/12/25/CGYICVT6KNCL5IA3TE3NLNTCPE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/25/CGYICVT6KNCL5IA3TE3NLNTCPE/</guid>
-      <dc:creator>윤희영 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 18:00:00 +0000</pubDate>
-      <content:encoded>유부남 손님을 협박해 돈을 뜯어낸 유흥주점 여종업원에게 벌금형이 선고됐습니다. 도대체 어떻게 된 일일까요.&lt;br&gt;&lt;br&gt;부산지법은 스토킹 범죄의 처벌 등에 관한 법률 위반과 폭력행위 등 처벌에 관한 법률 위반(공동공갈) 혐의로 기소된 30대 여성 A씨에게 벌금 500만원을 선고하고 40시간 스토킹 치료 프로그램 이수를 명령했습니다.&lt;br&gt;&lt;br&gt;‘벌금형’은 법률 용어로 a fine 또는 monetary penalty라고 하지요. ‘~ 이수를 명령하다’는 order completion of ~ 또는 mandate attendance at ~으로 표현합니다. mandate는 ‘명령하다’라는 강제성을 가진 동사입니다.&lt;br&gt;&lt;br&gt;A씨는 2023년 11월부터 유흥주점 손님으로 만난 B씨와 교제하다가 B씨의 휴대전화에 있던 아내·딸·친모 등 가족 연락처를 몰래 저장한 후 1000만원을 주지 않으면 교제 사실을 가족들에게 알리겠다고 협박하기 시작했다고 합니다.&lt;br&gt;&lt;br&gt;‘~라는 사실을 알게 되다’는 흔히 come to know that ~ 또는 find out that ~이라는 구문을 이용하는 게 가장 무난하겠습니다.&lt;br&gt;&lt;br&gt;‘몰래 저장하다’는 secretly save 또는 surreptitiously copy라고 하면 되겠지요. surreptitiously는 ‘은밀히’라는 부사로, 라틴어 ‘subripere’(몰래 빼앗다)에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘A하지 않으면 B하겠다’는 threaten to B unless A라는 구문을 이용하면 됩니다. &lt;br&gt;&lt;br&gt;불륜 사실이 가족에게 알려지는 게 두려웠던 B씨는 다섯 차례에 걸쳐 1000만원을 A씨 계좌로 송금했다고 합니다. 그런데 A씨는 돈을 받고 나서도 보름간 19차례에 걸쳐 B씨 가족 휴대전화로 메시지·부호·그림 등을 보냈다고 하네요.&lt;br&gt;&lt;br&gt;‘불륜 사실’은 extramarital affair 또는 infidelity라고 표현합니다. extramarital은 ‘결혼 외의’ ‘혼외’라는 뜻이지요. infidelity는 라틴어 ‘infidelis’(불충실한)에서 나온 단어로, ‘불신’ ‘불륜’을 직격하는 적확한 단어입니다.&lt;br&gt;&lt;br&gt;‘계좌로 송금하다’는 transfer money to an account 또는 wire money into an account라고 하지요. wire는 ‘송금하다’라는 구동사로 가장 자주 쓰입니다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/CGDCIBNWIFG7BHHZRUYS5EFXYI.gif?auth=2096ebc37f4e6979b107327742a54d371305e85f70ef0a5d7d1bd73eb7520c00&amp;smart=true&amp;width=432&amp;height=324" type="image/jpeg" height="324" width="432"/>
     </item>
   </channel>
 </rss>
