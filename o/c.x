@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>김병기 배우자 ‘업무추진비 사적 유용’ 의혹...경찰, 고발장 접수</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/28/CKKYJZ6R4RD7LDGMZEAHX5MLQM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/28/CKKYJZ6R4RD7LDGMZEAHX5MLQM/</guid>
+      <dc:creator>김도연 기자</dc:creator>
+      <description/>
+      <pubDate>Sun, 28 Dec 2025 04:35:26 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFQTOZRYGQ2DCMZTGRSTGYLGHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김병기 더불어민주당 원내대표가 24일 서울 여의도 국회에서 열린 최고위원회의에서 생각에 잠겨 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김병기 더불어민주당 원내대표의 배우자가 과거 지역구 의회 부의장의 업무 추진비 법인 카드를 사적으로 썼다는 의혹이 제기됐다. 경찰은 해당 의혹을 수사해 달라는 내용의 고발장을 접수했다.&lt;br&gt;&lt;br&gt;서울 동작경찰서는 28일 업무상 횡령, 허위 공문서 작성 등의 혐의를 받는 김 원내대표의 배우자와 동작구 의회 부의장, 업무 추진비 관계자 등에 대한 고발장을 접수했다.&lt;br&gt;&lt;br&gt;고발인은 김 원내대표 배우자의 업무 추진비 법인 카드 사적 유용 의혹에 대한 언론 보도를 인용하며 관련 사건을 수사해 달라고 고발장을 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;김 원내대표는 이 의혹에 대해 이미 수사기관에서 ‘혐의 없음’으로 종결했다고 해명했다. 고발인은 “전 보좌진의 재반박을 보면 새롭게 공개된 자료를 포함해 다시 수사할 필요가 있다”고 주장했다.&lt;br&gt;&lt;br&gt;한편 지난 26일에는 김 원내대표가 대한항공에서 받은 호텔 숙박 초대권을 이용하고 공항 편의를 제공받았다는 의혹과 관련한 고발장도 경찰에 제출됐다. 이 사건은 서울 영등포경찰서에 배당됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“아들과 절연은 네 탓” 며느리 흉기로 찌른 80대 남성… 항소심도 징역 3년</title>
       <link>https://www.chosun.com/national/court_law/2025/12/28/CO2WGE74HRFBHCX7KZWLBSX55Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/28/CO2WGE74HRFBHCX7KZWLBSX55Y/</guid>
@@ -896,15 +905,6 @@
       <description/>
       <pubDate>Fri, 26 Dec 2025 11:19:03 +0000</pubDate>
       <content:encoded>루이비통 가방을 수선해 새로운 제품으로 만든 ‘리폼 제품’이 상표권을 침해하는지 여부를 두고 대법원이 26일 공개 변론을 열었다. 대법원 전원합의체가 아닌 대법관 4명으로 구성된 소부 사건의 공개 변론이 열린 것은 이날이 여섯 번째다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCJAIX2M7SZK6L4QANXECYN7MQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 시내 한 루이비통 매장 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대법원 2부(주심 권영준 대법관)는 이날 오후 2시 서울 서초구 대법원 제1호 소법정에서 공개 변론을 열었다. 원고인 루이비통 측과 피고인 리폼 업자 측 소송 대리인을 비롯해 양측 주장을 뒷받침하는 전문가들이 참고인으로 나왔다. 리폼 업자 이모씨도 이날 법정에 출석했다.&lt;br&gt;&lt;br&gt;이번 사건은 루이비통이 리폼 업체를 상대로 상표권 침해 금지 및 손해배상 소송을 내면서 시작됐다. 루이비통은 리폼 업체에서 새롭게 만든 다른 형태의 가방이나 지갑에도 여전히 루이비통의 로고가 박혀 있어, 상표권이 침해됐다는 입장이다. 1·2심도 리폼 행위가 상표권 침해에 해당한다며 루이비통의 손을 들어줬다. 이에 이씨가 상고하면서 대법원 판단을 받게 된 것이다.&lt;br&gt;&lt;br&gt;해당 소송의 쟁점은 명품 가방 소유자로부터 대가를 받고 가방을 리폼해 다른 형태의 가방 또는 지갑을 만든 행위도 상표권 침해 행위가 되는지 여부다. 원고 측 참고인으로 나온 정태호 경기대 사회과학대학 교수는 “장래 교환가치를 가지고 유상으로 유통될 가능성이 있다면 상표법상 상품에 해당한다”고 주장했다. 명품을 소유한 본인이 스스로 리폼을 했다면 상표적 사용이 아니지만, 업자가 상품의 동일성을 해하는 정도의 리폼으로 또 다른 제품을 만들어냈다면 상표적 사용에 해당한다는 것이다. 정 교수는 “소송 대상이 된 리폼 제품은 이미 업자가 주문자에게 상품을 인도하는 등의 방법으로 유통해 상거래가 이뤄졌다”며 상표법상 상품에 해당한다는 의견을 냈다. 반면 리폼업자 측 참고인으로 나온 윤선희 한양대 법학전문대학원 명예교수는 “리폼 제품은 소유자의 개인적 사용을 위한 것”이라며 “상표권은 이미 소진돼 침해라고 볼 수 없다”고 했다.&lt;br&gt;&lt;br&gt;리폼 업자 측은 독일 연방대법원 등 외국에서는 ‘소유자의 개인적 사용 목적의 리폼’과 ‘리폼 업자의 판매 목적의 리폼’을 구분해 전자의 경우 상표권 침해에 해당하지 않는다는 점을 제시했다. 개인적 사용 목적을 위해 리폼한 것은 그 제품을 소유자에게 반환하는 것이라 유통으로 볼 수 없고, 이에 따라 상표권 침해로 볼 수 없다는 얘기다.&lt;br&gt;&lt;br&gt;이 사건 결론에 따라 상표권의 권리 범위, 리폼 행위의 허용 여부 및 그 범위 등 상표권 관련 실무에 적지 않은 영향을 미칠 것으로 보인다. 주심을 맡은 권영준 대법관은 서울대 민법 교수 출신으로, 국내 민법 분야 최고 전문가 중 한 명으로 불린다. 사법시험(35회)에 수석 합격했고, 법무부 민법개정위원회 실무위원으로 민법 개정 작업에 참여했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장경태 ‘성추행 의혹’ 공방 격화…고소인 전 남친, 명예훼손 혐의로 맞고소</title>
-      <link>https://www.chosun.com/national/incident/2025/12/26/JMCDF3UAYREKNKCD4R7W3T26EM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/incident/2025/12/26/JMCDF3UAYREKNKCD4R7W3T26EM/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Dec 2025 10:04:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNQTINLFHEZGGMRQGNSTEYZRGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;장경태 더불어민주당 의원이 2일 오전 서울 종로구 서울경찰청 민원실에서 자신을 성추행 의혹으로 고발한 고소인을 무고 및 폭행 등으로 고소·고발 후 생각에 잠겨 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;더불어민주당 장경태 의원이 성추행 의혹과 관련해 추가 고소를 당했다. &lt;br&gt;&lt;br&gt;26일 경찰 등에 따르면, 장 의원을 성추행 혐의로 고소한 여성의 전 남자친구 A씨는 이날 장 의원을 명예훼손 혐의 등으로 서울경찰청에 고소했다. 앞서 장 의원은 이 사건을 “고소인 남자친구의 데이트 폭력 사건”이라고 규정하며 반격에 나섰는데, 당사자가 “허위 사실로 명예를 훼손했다”고 맞선 것이다.&lt;br&gt;&lt;br&gt;야당 의원실 여성 비서관 B씨는 지난달 경찰에 장 의원을 준강제추행 혐의로 고소했다. 작년 10월 서울 여의도 국회 인근 식당에서 장 의원으로부터 추행을 당했다는 내용이다. 당시 현장에는 B씨의 남자친구였던 A씨도 있었고, 언론 제보 영상에는 A씨가 장 의원 멱살을 잡고 강하게 항의하는 모습이 담겼다. 장 의원은 관련 의혹에 대해 “사실이 아니다”라며 B씨를 무고 혐의로, 현장에 있던 당시 남자친구 A씨를 무고·폭행·통신비밀법 위반 혐의로 맞고소·고발한 상태다.&lt;br&gt;&lt;br&gt;B씨 측은 이번 고소에서 “장 의원이 기자회견과 언론 인터뷰를 통해 사실과 다른 내용을 유포하며 사건의 본질을 왜곡했다”며 “피해자를 가해자로 몰아가는 2차 가해이자 명백한 허위사실 유포”라고 주장했다. &lt;br&gt;&lt;br&gt;장 의원은 앞서 지난달 30일 기자회견을 열고 “이번 사안은 고소인의 남자친구가 연인 관계에서 벌어진 폭력 사건을 정치적으로 왜곡한 것”이라며 의혹을 전면 부인했다. &lt;br&gt;&lt;br&gt;A씨는 이에 대해 장 의원이 자신을 ‘데이트 폭력 가해자’로 지목했지만 폭행을 저지른 사실이 없으며, 오히려 자신의 신분과 직장이 공개돼 명예를 훼손당했다고 주장했다. A씨는 “직장에 감찰을 요구한 것은 국회의원의 지위를 이용해 일반 공무원을 압박하는 보복성 행태”라고 했다.&lt;br&gt;&lt;br&gt;경찰은 앞서 해당 남성을 참고인 신분으로 불러 당시 술자리 상황과 영상 촬영 경위 등을 조사한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘서해 피살 은폐’ 서욱·박지원·서훈 무죄... “고인 명복을 빈다”</title>
