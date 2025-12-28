@@ -6,6 +6,24 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>[판결] 디지털자산 받고 북한에 군사기밀 유출 시도한 거래소 대표, 실형 확정</title>
+			<description>디지털 자산을 받고 북한에 군사 기밀을 유출하려 한 디지털 자산 거래소 대표 이 모 씨에게 실형이 확정됐다. 11월 20일, 대법원 형사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9051"&gt;이숙연&amp;nbsp;&lt;/span&gt;대법관)는 국가보안법 위반 혐의로 기소된 이 씨에게 징역 4년, 자격정지 4년을 선고한 원심 판결을 확정했다(&lt;b&gt;2025도14060&lt;/b&gt;).&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;검찰은 2022년 4월 이 씨를 국가보안법 위반 혐의로 재판에 넘겼다. 검찰에 따르면 이 씨는 북한 공작원으로 추정되는 A 씨로부터 두 차례에 걸쳐 60만 달러 상당의 디지털 자산을 받고 포섭됐다. 2021년 7월~2022년 3월, 이 씨는 A 씨 지령을 받고 군사 기밀 유출을 시도했다. 이 씨는 포이즌 탭(Poison Tab)으로 불리는 이동식 저장 장치(USB) 형태의 해킹 장비 부품을 구입해 북한 공작원이 원격으로 프로그래밍할 수 있도록 지원하기도 했다. 공판 과정에서 이 씨는 디지털 자산 오토프로그램 개발을 위해 A 씨에게 팀 뷰어 프로그램을 통한 원격 작업을 부탁했을 뿐이고, 해킹 장비라거나 국가보안법상 편의를 제공하는 물건이라는 인식을 전혀 하지 못했다고 주장했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심 판단]&lt;/b&gt;&lt;br /&gt;1심은 이 씨가 국가보안법상 편의 제공을 했다며 징역 4년, 자격정지 4년을 선고했다. 1심 재판부는 "이 씨는 A 씨가 북한 공작원이라는 사실을 미필적으로나마 인식한 상태에서, 원격 통신장치를 제작하고 관련 코딩을 지원했다"며 "자신의 행위가 국가의 존립·안전이나 자유민주적 기본질서에 실질적 해악을 미칠 구체적이고 명백한 위험성이 있다는 점을 인식했다고 봄이 타당하다"고 밝혔다. &lt;br /&gt;&lt;br /&gt;항소심은 1심 판결을 유지했다. 항소심 재판부는 "원격 통신장치에 조립된 부품들이나 노트북 저장 매체에서 발견된 파일들의 기능, 통신장치를 분석한 경찰청 디지털증거분석관의 의견 등에 비춰 보면 원격 통신장치가 완성될 경우 포이즌 탭 기능을 할 수 있는 것으로 판단된다"며 "이 씨의 행위가 국가보안법상 편의 제공에 해당한다는 원심(1심) 판단은 정당한 것으로 수긍할 수 있다"고 했다. &lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원은 "원심(항소심) 판단에 자유심증주의의 한계를 벗어나거나 국가보안법 위반(편의 제공)죄의 성립에 관한 법리를 오해한 잘못이 없다"며 검찰과 이 씨의 상고를 기각하고, 원심 판결을 확정했다.</description>
+			<pubDate>Sun, 28 Dec 2025 00:07:41 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214386</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214386</guid>
+			<dc:creator>이상우 기자</dc:creator>
+		</item>
+		<item>
+			<title>[판결] '교비 횡령' 이인수 전 수원대 총장, 임원취임 승인취소 정당</title>
+			<description>서울행정법원 행정4부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9835"&gt;김영민&lt;/span&gt;&amp;nbsp;부장판사)는 이인수 전 수원대 총장과 최서원 전 이사장이 교육부장관을 상대로 제기한 임원취임 승인취소처분 취소소송(&lt;b&gt;2022구합71851&lt;/b&gt;)에서 10월 31일 이 전 총장 패소 판결했다. 최 전 이사장의 손은 들어줬다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실관계]&lt;/b&gt;&lt;br /&gt;이 전 총장은 수원대에 걸린 여러 소송에 쓴 소송비용 7500만 원을 법인회계가 아닌 교비회계에서 지출해 업무상 횡령, 사립학교법 위반 혐의로 2020년 9월 벌금 1000만 원이 확정됐다.&lt;br /&gt;&lt;br /&gt;이 전 총장은 2013년부터 2년 동안 받은 기부금 5500여만 원을 교비회계가 아닌 법인회계로 납부하게 해 업무상 배임 혐의로 수사를 받기도 했다. 이 전 총장의 부인 최 전 이사장도 공범으로 수사받았지만 2019년 수원지검에서 기소유예 처분을 받았다.&lt;br /&gt;&lt;br /&gt;교육부는 2022년 4월 이 전 총장에게 교비·인사 비리가 상당하다며 임원취임 승인취소 처분을 내려 5년 동안 학교법인 임원으로 복귀하지 못하게 막았다. 이 전 총장의 부인 최서원 전 이사장에게도 같은 처분을 했다.&lt;br /&gt;&lt;br /&gt;이 전 총장은 교비회계로 지출할 수 있는 소송비용 범위가 불명확하고, 사용한 교비회계는 법인회계에서 지출해 이미 메꿨다며 교육부 처분은 재량권을 일탈·남용한 것이라고 주장했다. 이 전 총장의 배임 혐의에는 2024년 6월 수원지방법원에서 징역 2년에 집행유예 3년의 형이 선고됐다.&lt;br /&gt;&lt;br /&gt;최 전 이사장은 이 전 총장의 배임에 가담하지 않아 임원취임 승인취소 처분 사유가 없다고 주장했다. 이에 두 사람은 교육부를 상대로 행정소송을 제기했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[법원판단]&lt;/b&gt;&lt;br /&gt;재판부는 "사립학교법 시행령 제13조 제2항은 교비회계 세출은 학교교육에 직접 필요한 경비로 명확히 규정하고 있다"며 "소송비용은 교비회계에서 부담할 비용이 아님은 이 전 총장도 충분히 알 수 있었을 것"이라고 판단했다.&lt;br /&gt;&lt;br /&gt;교비회계를 채워넣었다는 주장에는 "현저히 부당한 행위가 상당 기간 반복된 점에 비춰볼 때 반환조치가 됐다는 사정만으로 이 사건 처분이 위법하다고 볼 수 없다"고 했다. 또 "원고가 5년 이내 다시 수원대 임원이 될 수 없는 불이익을 입더라도 학교 운영 정상화와 재발을 방지해야 할 공익이 더 크다"고 봤다.&lt;br /&gt;&lt;br /&gt;재판부는 최 전 이사장의 주장은 받아들였다. 이 전 총장과 공모했다고 볼 증거가 부족하다는 이유에서다. 최 전 이사장에 대한 조사결과 처분서에는 최 전 이사장이 구체적으로 어떻게 관여했는지 전혀 기재돼 있지 않고, 이는 기소유예 결정서에도 마찬가지였기 때문이다.&lt;br /&gt;&lt;br /&gt;재판부는 공모가 인정된다고 해도 최 전 이사장에 내린 처분은 위법하다고 판단했다. 사립학교법에 따라 시정이 어려운 사정이 명백하면 시정요구를 생략할 수 있는데(제20조의2 제2항), 이를 반대로 해석하면 시정이 가능한 상황에서는 시정요구를 반드시 해야 하기 때문이다.&lt;br /&gt;&lt;br /&gt;재판부는 기부금이 법인회계에서 교비회계로 전출돼 원상회복됐기 때문에 시정이 가능한 상황이었고 시정요구를 건너뛴 교육부의 처분은 위법하다고 설명했다.</description>
+			<pubDate>Sun, 28 Dec 2025 00:07:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214483</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214483</guid>
+			<dc:creator>박성동 기자</dc:creator>
+		</item>
+		<item>
 			<title>(이번주 법조 일정) 12월 29 ~ 1월 2일</title>
 			<description>&lt;b&gt;△12월 29일(월)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란주요임무종사 등 혐의' 김용현 전 국방부 장관 외 2명 36차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 조지호 전 경찰청장 외 3명 43차 공판(오전 10시)&lt;br /&gt;-서울중앙지법, '내란우두머리 등 혐의' 윤석열 전 대통령 38차 공판(오전 10시)&lt;br /&gt;-법무부, 보완수사 및 재심업무 우수 검사-보검찰수사관 표창(오전 10시 30분, 정부과천청사 법무부)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△12월 30일(화)&lt;/b&gt;&lt;br /&gt;-서울중앙지법, '내란중요임무종사 등 혐의' 조지호 전 경찰청장 외 3명 5차 공판준비기일(오전 10시)&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△12월 31일(수)&lt;/b&gt;&lt;br /&gt;&lt;b&gt;&lt;br /&gt;△1월 1일(목)&lt;/b&gt;&lt;br /&gt;-신정 &lt;br /&gt;&lt;b&gt;&lt;br /&gt;△1월 2일(금)&lt;/b&gt;&lt;br /&gt;-2026년 대법원 시무식(오전 10시, 대법원 2층 중앙홀)&lt;br /&gt;-법무법인 바른, 신년하례식 및 바른의인상 시상식(오전 10시 30분, 서울 강남구 대치동 바른빌딩 15층 강당)&lt;br /&gt;-서울중앙지법, '내란주요임무종사 등 혐의' 김용현 전 국방부 장관 외 2명 8차 공판준비기일(오전 10시)</description>
 			<pubDate>Sat, 27 Dec 2025 22:08:16 -0000</pubDate>
@@ -216,24 +234,6 @@
 			<category>news</category>
 			<link>https://www.lawtimes.co.kr/news/214448</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214448</guid>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>김건희 특검, '공흥지구 개발' 김선교 의원 등 6명 기소</title>
-			<description>김건희 여사의 각종 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 김선교 국민의힘 국회의원과 김 여사 가족 등 6명을 재판에 넘겼다.&lt;br /&gt;&lt;br /&gt;특검은 12월 24일 김 의원과 김 여사의 모친 최은순 씨, 오빠 김진우 씨, 전 양평군 주민지원과장, 현직 양평군 공무원 1명을 불구속 기소했다고 밝혔다.&lt;br /&gt;&lt;br /&gt;김 의원은 양평 공흥지구 도시개발사업 중 최 씨와 김 씨의 청탁을 받고 두 공무원에게 도시개발사업 개발부담금 감면을 지시한 의혹을 받는다. 최 씨가 운영하는 회사 ESI&amp;D에는 약 22억 원 상당의 이익을 안기고 영평군에는 같은 액수의 손해를 입힌 배임 혐의다.&lt;br /&gt;&lt;br /&gt;최 씨와 김 씨는 지역신문기자 A에게 법인카드 594만 원을 사용하게 하고, 급여 2억 4300만 원을 지급해 업무상 횡령이 적용됐다. 두 사람은 이 기자를 통해 공무원들에게 로비하려 했다. 기자는 변호사법 위반 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;김 씨는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13751"&gt;김상민&lt;/span&gt;(사법연수원 35기) 전 검사의 청탁금지법위반 증거인 이우환 화백 그림을 장모의 주거지에 숨겨 증거은닉 혐의도 추가됐다.</description>
-			<pubDate>Wed, 24 Dec 2025 06:50:49 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214446</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214446</guid>
-			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>쿠팡 특검, 김동희·엄희준 검사 강제수사·쿠팡 사무실은 이틀째 압수수색</title>
-			<description>쿠팡의 퇴직금 미지급 수사무마 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="3207"&gt;안권섭&amp;nbsp;&lt;/span&gt;특별검사팀이 인천지검 소속이었던 검사들을 압수수색했다. 쿠팡 사무실도 이틀째 압수수색 중이다.&lt;br /&gt;&lt;br /&gt;특검은 12월 24일 부천지청 차장검사였던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11577"&gt;김동희&lt;/span&gt;(사법연수원 34기) 부산고검 검사, 부천지정창이었던 광주고검&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&lt;/span&gt;(32기) 검사, 쿠팡 퇴직금 사건 주임검사인 부천지청&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="33205"&gt;신가현&lt;/span&gt;(47기) 검사의 사무실을 압수수색하고 있다고 밝혔다.&lt;br /&gt;&lt;br /&gt;올해 초 쿠팡 퇴직금 사건을 수사하던&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14771"&gt;문지석&lt;/span&gt;(36기) 부장검사는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="11577"&gt;김동희&lt;/span&gt;,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="9758"&gt;엄희준&amp;nbsp;&lt;/span&gt;검사가 무혐의 처분하라고 압력을 행사했다고 주장했다. 두 검사는 직권남용 혐의를 받는다.&lt;br /&gt;&lt;br /&gt;특검은 전날에도 서울 송파구에 있는 쿠팡 본사와 쿠팡풀필먼트 사무실, 비밀사무실로 불리는 쿠팡 강남 사무실을 압수수색했다. 본사와 풀필먼트 사무실은 이틀째 압수수색을 이어가고 있다.&lt;br /&gt;&lt;br /&gt;특검은 엄성환 쿠팡풀필먼트 전 대표이사도 전날 압수수색했다. 엄 전 대표는 근로자퇴직급여보장법 위반 혐의 피의자 신분이다. 2023년 5월 쿠팡 노동자들에게 불리하게 취업규칙을 바꿔 퇴직금을 체납한 의혹을 받는다.</description>
-			<pubDate>Wed, 24 Dec 2025 06:49:08 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214445</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214445</guid>
 			<dc:creator>박성동 기자</dc:creator>
 		</item>
 	</channel>
