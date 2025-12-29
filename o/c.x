@@ -13,6 +13,49 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>이철우 경북지사 “5대 첨단 산업 육성해 경북 번영 이끈다”</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/29/HD7Q3A4QXZAQDA6FWMIBD4RT7M/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/29/HD7Q3A4QXZAQDA6FWMIBD4RT7M/</guid>
+      <dc:creator>안동=이승규 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Dec 2025 13:49:32 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQTONZSGIZDQM3EMIZDQYTEHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이철우 경북도지사. /경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경북도가 2026년부터 인공지능(AI)·반도체 등 첨단 산업으로 시·군을 연계해 발전 효율성을 높일 방침이다. 아시아태평양경제협력체(APEC) 정상회의 이후를 대비해 관광 콘텐츠와 인프라도 개선한다는 계획이다.&lt;br&gt;&lt;br&gt;경북도는 29일 도청에서 2026년 5대 도정 운영 방향에 대한 설명회를 열었다. 내년 핵심 과제는 ‘5대 첨단산업 연합도시’다. 시·군을 산업별로 분류한 뒤, 강점을 모아 전체 산업 발전을 유도하겠다는 취지다.&lt;br&gt;&lt;br&gt;포항·경주·안동 등은 인공지능(AI) 및 반도체 연합도시로, 구미·김천·영주 등은 방산 연합도시로 묶는 식이다. 상주·의성·예천 등은 바이오, 영천·경산·칠곡 등은 미래차, 영덕·울진 등은 에너지 연합도시로 구성한다.&lt;br&gt;&lt;br&gt;이와 별도로 경북투자청과 경북도산업투자공사 등을 설립해 첨단산업 환경을 개선하고 대규모 투자를 유치할 방침이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/57NBZFJFKBFIDD5PX7XKXIQD5E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;5대 첨단산업 연합도시 구상안/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇시·군 경계 허문 ‘메가테크 연합’, 영남권 아우르는 복안도&lt;/b&gt;&lt;br&gt;&lt;br&gt;정부의 지역 균형 발전 전략에 맞춘 ‘영남권 공동 발전 정책’도 본격화한다. 경산과 울산을 잇는 고속도로와 대구·경북·부산·울산·경남 지역을 묶는 초광역 전철망을 구축하고, 포항의 영일만항과 부산항을 연계해 영남 지역의 내륙과 해양을 하나의 생활·경제권역으로 통합할 계획이다. 대구경북신공항 건설과 영일만항 확장도 추진한다.&lt;br&gt;&lt;br&gt;문화·관광 분야에서는 ‘3+1 세계 역사 문화 관광 수도’ 정책을 선보인다. APEC 기념관 건립, 보문단지 새 단장, 신라통일 평화정원 조성 등 이른바 ‘포스트 APEC’ 사업을 도내 전역으로 확산한다. 한글·한복·한지·한식·한옥 등 ‘5한(韓)’과 세계문화유산을 바탕으로 문화콘텐츠를 개발하며, 백두대간과 낙동강, 동해 등 경북 지역의 자연 환경을 활용한 관광 전략도 추진한다. 체류형 관광 여건을 개선하기 위해 22개 시군별로 최소 1곳씩 고급 호텔을 유치하고, 특색 있는 지역 음식도 브랜드화할 방침이다. &lt;br&gt;&lt;br&gt;농업 분야에서는 마을별로 특화된 영농 모델을 개발해 청년 중심의 농촌 경제 활성화와 일자리 창출을 목표로 한다. 산림 경영 특구 5곳을 시범 조성하고 스마트팜, 스마트 과수원 등을 육성할 예정이다. 해양수산 분야에서도 스마트 양식장, 관광 체험 어촌 등이 도입된다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PJYBY7J2CBFJVLA7E7BSQFS27M.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 도정 방향 중 영남권 공동발전안/경북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“결국은 민생”… 저출생과 전쟁 시즌 3 돌입&lt;/b&gt;&lt;br&gt;&lt;br&gt;경북도가 2024년부터 시작한 인구 대책인 ‘저출생과 전쟁’은 시즌 3로 접어든다. 저출생에 고령화, 청년, 외국인 정책도 결합해 미래 인구 변화에 대비하겠다는 취지다. 인구 구조 변화에 대응하는 총괄 조직을 신설하고 연구 기관과 전문가, 대학 등과 함께 저출생을 대비하는 ‘인구 대응 경북 협의체’도 출범한다. 산불·산사태·집중호우 등 3대 자연재해에 대한 대응 체계도 강화한다.&lt;br&gt;&lt;br&gt;이와 별도로 경북도는 2025년의 대표 성과로 APEC 성공적 개최, 산불 피해 극복, 전국 유일 청렴도 1등급 달성 등을 꼽았다. &lt;br&gt;&lt;br&gt;이철우 경북도지사는 “올해는 도민의 지지 덕분에 위기를 기회로 바꾼 희망의 역사를 썼다”며 “내년에도 메가테크 연합도시와 영남권 초광역 협력 등을 통해 경북의 번영을 이끌겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산 아파트 쓰레기 산에서 숨진 70대... 월남전 참전용사였다</title>
+      <link>https://www.chosun.com/national/regional/2025/12/29/3TXIRVS3WFHHRKLVNOUVSIRCFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/29/3TXIRVS3WFHHRKLVNOUVSIRCFY/</guid>
+      <dc:creator>울산=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Dec 2025 11:03:45 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JLFV7C2KLNL55BRLWGLBQAKG54.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;29일 오전 울산 남구 달동의 한 아파트 복도에 쓰레기 산이 쌓여 있다. 이 아파트에서는 전날 오후 6시 56분쯤 저장 강박 증세를 보이던 70대 남성이 화재로 숨졌다. 소방 당국은 쓰레기 정리와 함께 진화 작업을 벌인 끝에 약 7시간 45분 만에 불을 완전히 껐다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 28일 울산 남구 한 아파트에서 화재로 숨진 70대가 저장강박증을 앓던 베트남전 참전 유공자였다는 사실이 밝혀졌다.&lt;br&gt;&lt;br&gt;29일 울산소방본부와 울산 남구 등에 따르면 전날 오후 6시 56분쯤 남구 달동의 10층짜리 아파트 7층에서 발생한 화재로 70대 A씨가 숨지고 주민 50여 명이 대피했다.&lt;br&gt;&lt;br&gt;숨진 A씨는 월남전에 참전한 국가유공자로, 매달 45만 원 상당의 보훈 수당을 받으며 20년 가까이 이 아파트에서 홀로 지내온 것으로 파악됐다.&lt;br&gt;&lt;br&gt;화재 당시 현장에 출동한 소방대원들이 현관문을 개방하자 성인 남성 키 높이만큼 쌓인 ‘쓰레기 산’이 가로막고 있었다고 한다. 집 내부에는 생활 폐기물과 고물, 폐가전 등이 입구부터 가득 차 있어 소방대원들이 진입로 확보에 큰 어려움을 겪은 것으로 전해졌다.&lt;br&gt;&lt;br&gt;소방 당국은 인력 104명과 장비 30대를 투입했으나, 내부에 적치된 막대한 양의 쓰레기를 일일이 치우며 불을 꺼야 했던 탓에 완진까지 상당한 시간이 소요됐다. 불은 발생 약 7시간 45분 만인 29일 오전 2시 40분쯤 완전히 꺼졌다.&lt;br&gt;&lt;br&gt;구조대 진입 당시 A씨는 거실에 쌓인 쓰레기 더미 위에서 심정지 상태로 발견됐다. 곧바로 인근 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;이웃 주민과 관리사무소 등에 따르면 A씨는 수년 전부터 집 안에 물건을 쌓아두는 저장강박 의심 증세를 보였다.&lt;br&gt;&lt;br&gt;관리사무소 측이 몇 해 전 비용을 들여 쓰레기를 치우고 도배까지 새로 해줬으나, 이후 다시 쓰레기가 쌓이기 시작했고 A씨가 주변의 도움을 완강히 거부해 온 것으로 알려졌다.&lt;br&gt;&lt;br&gt;관할 지자체인 남구와 행정복지센터 역시 민원을 접수하고 A씨를 설득하려 했으나, 현행법상 당사자가 거부할 경우 강제로 주거지에 개입하거나 폐기물을 수거할 법적 근거가 없어 관리에 한계가 있었던 것으로 드러났다.&lt;br&gt;&lt;br&gt;노후 아파트라 소방 시설이 미비했던 것도 피해를 키운 원인으로 지목된다. 불이 난 아파트는 스프링클러를 설치하지 않아도 됐던 1996년에 사용승인을 받았다. 당시 소방시설법은 아파트는 16층 이상인 층에만 스프링클러를 설치하도록 돼 있었다. &lt;br&gt;&lt;br&gt; 이 때문에 화재 초기 자동 소화 설비가 작동하지 않아 불길이 번지는 것을 막지 못했다.&lt;br&gt;&lt;br&gt;경찰과 소방당국은 정확한 화재 원인과 재산 피해 규모를 조사중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/JLFV7C2KLNL55BRLWGLBQAKG54.jpg?auth=89ca078d7732e5ecfda814691a9ca2595dbac57b459ad3f5027a6e0d830ac473&amp;smart=true&amp;width=4000&amp;height=2252" type="image/jpeg" height="2252" width="4000">
+        <media:description type="plain">&lt;YONHAP PHOTO-3787&gt; 울산 아파트 화재 현장에 쌓인 쓰레기 산
+    (울산=연합뉴스) 장지현 기자 = 29일 오전 울산 남구 달동의 한 아파트 복도에 쓰레기 산이 쌓여 있다. 지난 28일 오후 6시 56분께 이 아파트에서 발생한 화재로 저장 강박 증세를 보이던 70대 주민이 사망했다. 소방 당국은 쓰레기 정리와 함께 진화 작업을 벌인 끝에 약 7시간 45분 만에 불을 완전히 껐다. 2025.12.29
+    jjang23@yna.co.kr/2025-12-29 17:09:20/
+&lt;저작권자 ⓒ 1980-2025 ㈜연합뉴스. 무단 전재 재배포 금지, AI 학습 및 활용 금지&gt;</media:description>
+        <media:credit role="author" scheme="urn:ebu">장지현</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>조지호 “정치인 위치 추적 요청한 여인형, 미친 놈이라 생각” 법정 증언</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/29/W3NF7DYW5BGQJG52XX2XI4VHQ4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/29/W3NF7DYW5BGQJG52XX2XI4VHQ4/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Dec 2025 12:30:30 +0000</pubDate>
+      <content:encoded>조지호 전 경찰청장이 지난해 12·3 비상계엄 선포 직후 정치인들의 위치 추적을 요청한 여인형 전 방첩사령관을 ‘미친 놈’이라고 생각했다고 법정에서 증언했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GI2TANDFGRRDQODEGNRDAN3GGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조지호 전 경찰청장이 24일 서울 서초구 서울중앙지법에서 윤석열 전 대통령의 내란 우두머리 혐의 속행 공판에 증인으로 출석해 증언하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 전 청장은 29일 서울중앙지법 형사25부(재판장 지귀연)에서 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에 증인으로 나와 이같이 말했다. 조 전 청장은 비상계엄 선포 직후인 작년 12월 3일 오후 10시 30분쯤 여 전 사령관에게 텔레그램 전화를 받은 사실을 인정하면서, 여 전 사령관이 안보수사요원 100명 지원을 비롯해 정치인 체포조 지원, 이재명 대통령 등 정치인 체포를 위해 위치 파악 등을 요청했다고 밝혔다. 이를 두고 비상계엄이 해제된 12월 4일 새벽 6시쯤 박현수 당시 행정안전부 경찰국장과 통화하면서 ‘여 전 사령관을 미친 놈이라고 생각했다’는 취지로 말했다는 것이다. &lt;br&gt;&lt;br&gt;이와 관련해 조 전 청장은 “여 전 사령관이 수사에 대해 잘 모르시는구나 생각했다”고 말했다. 여 전 사령관에게 전화로 위치 추적 요청을 받았을 때 “어렵다고 말씀을 드렸다”며 “법원이 발부한 영장이 있어야 하는데, 그게 지금은 안 된다고 설명을 드렸다”고 했다. 납득하기 어려운 요청을 여 전 사령관이 했다는 얘기다.&lt;br&gt;&lt;br&gt;조 전 청장은 방첩사에게 정치인 체포조 등 지원을 요청받고 “보내주세요”라고 말했다는 윤승영 전 경찰청 국가수사본부 수사기획조정관 진술에 대해선 “준비만 하자고 했다”며 부인했다. 윤 전 조정관에게 방첩사 측 요청 보고를 받은 뒤 “준비만 하시지요”라고 답했다는 것이다. 윤 전 조정관 측 변호인은 “윤 전 조정관은 증인이 말을 더듬는 목소리로 ‘사복 차림으로 보내세요’라고 말했다고 기억한다”고 지적했는데, 조 전 청장은 “전혀 맥락에 맞지 않는다”고 했다. 그러면서 “체포 지시가 적법하다면 당연히 협조해야 하는데, 윤 전 조정관의 보고만 받고 적법 여부를 판단할 수 없었다”고 했다.&lt;br&gt;&lt;br&gt;이런 가운데 윤 전 대통령 측은 윤 전 대통령이 계엄 당시 ‘월담하는 의원들을 체포하라’고 지시했다는 조 전 청장의 법정 증언을 놓고 공방을 벌였다. 윤 전 대통령과 조 전 청장은 계엄 선포 후 해제 전까지 총 6차례 통화했는데, 이 중 5번의 통화가 이뤄졌을 때는 국회의원들이 정상적으로 국회에 진입하고 있었고, 마지막 통화가 이뤄진 4일 오전 0시 48분엔 이미 대다수 국회의원이 국회로 들어가 체포를 지시할 이유가 없었다는 게 윤 전 대통령 측 주장이다. 이에 조 전 청장은 “‘체포해라’ ‘불법이다’를 말씀하신 건 정확하게 기억한다”며 “‘월담’이라는 단어를 쓰셨는지는 확실하게 기억나지는 않지만, 의원들을 체포하라고 말씀하신 걸로 기억한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 재판부는 오는 30일 윤 전 대통령의 내란 우두머리 재판과 김용현 전 국방장관, 조 전 청장 등의 내란 중요 임무 종사 재판을 병합하겠다고 했다. 앞서 재판부는 세 사건을 병합한 뒤 내달 5·7·9일 사흘에 걸쳐 결심 절차를 진행하겠다고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>尹 ‘허위사실 공표’·김건희 ‘매관매직’, 같은 재판부에 배당</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/29/WNOYIHQB2RF7RGXSUC4LT3N5ZE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/29/WNOYIHQB2RF7RGXSUC4LT3N5ZE/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Mon, 29 Dec 2025 12:16:22 +0000</pubDate>
+      <content:encoded>윤석열 전 대통령의 대선 후보 시절 허위 사실 공표 의혹과 김건희 여사의 매관매직 의혹을 한 재판부가 심리하게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBTGIYLFMFRTANZQMU2TSZBYMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;윤석열 전 대통령과 김건희 여사. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 법조계에 따르면, 윤 전 대통령의 공직선거법 위반 사건과 김 여사의 특정범죄가중처벌법상 알선수재 사건이 서울중앙지법 형사21부(재판장 이현복)에 배당됐다. 이 재판부는 부정선거 의혹을 수사할 ‘제2수사단’을 구성한 혐의로 기소된 노상원 전 정보사령관의 개인정보보호법 위반 사건 1심을 심리했던 재판부다.&lt;br&gt;&lt;br&gt;윤 전 대통령은 대선 후보였던 2021년 12월과 2022년 1월 토론회 등에서 윤대진 전 검사장의 친형인 윤우진 전 용산세무서장에게 변호인을 소개해준 사실이 없고, 건진 법사 전성배씨 역시 김 여사가 아닌 당 관계자로부터 소개받았으며 김 여사와 함께 만난 적도 없다고 허위 사실을 공표한 혐의를 받는다.&lt;br&gt;&lt;br&gt;김 여사는 2022년 3월 15일~5월 20일 이봉관 서희건설 회장에게서 1억380만원 상당의 명품 귀금속, 이배용 전 국가교육위원장에게서 265만원 상당의 금거북이 등을 받은 혐의를 받고 있다. 또 서성빈 드론돔 회장에게서 3990만원 상당의 명품 시계, 최재영 목사에게서 540만원 상당의 명품 가방을 받은 혐의도 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘양평 공흥지구 의혹’ 金여사 모친·오빠, 尹과 같은 재판부 배당</title>
       <link>https://www.chosun.com/national/court_law/2025/12/29/FXZRLFRB7NCZTB3RGANHYFCZZU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/29/FXZRLFRB7NCZTB3RGANHYFCZZU/</guid>
@@ -713,15 +756,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWMNIME5ORJIDGS3XNF332DFG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유철환 국민권익위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친부모가 기르기 어려운 상황에 놓인 아동을 대신 돌보는 위탁 가정이 다자녀 혜택을 받을 수 있게 될 것으로 전망된다.&lt;br&gt;&lt;br&gt;국민권익위원회는 위탁 가정이 전기·철도·공항 이용과 관련해 공공요금 다자녀 감면 혜택을 받을 수 있도록 관계 기관에 제도 개선을 권고했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;가정 위탁 제도는 친부모의 사망이나 실종, 학대 등으로 자녀가 정상적으로 양육될 수 없게 된 경우, 법령이 정하는 기준에 맞는 가정에 일정 기간 양육을 위탁하는 제도이다. 지난해 기준 아동 9477명이 위탁 가정에서 자라고 있다.&lt;br&gt;&lt;br&gt;권익위는 “중앙정부와 지방정부는 저출산 위기 극복을 위해 다자녀 가구에 대한 공공요금 혜택을 늘리고 있지만, 정작 아이를 실제 양육하고 있는 위탁 가정은 친부모·친자녀 관계가 아니라는 이유로 혜택에서 제외되는 경우가 많았다”고 지적했다.&lt;br&gt;&lt;br&gt;권익위는 앞서 2019년 도시가스와 지역난방 요금 감면 대상에 위탁아동을 포함하라고 권고했고, 관계 기관들이 관련 제도를 개선했다. 그러나 전기 요금과 철도 운임, 공항 주차장 주차 요금을 비롯한 다른 공공 요금과 관련해서는 여전히 위탁 아동이 ‘자녀 수’에 포함되지 않아, 위탁 아동을 다수 키우는 가정이나 친자녀와 위탁 아동을 함께 키우는 가정이 다자녀 혜택을 받지 못하고 있다고 권익위는 지적했다.&lt;br&gt;&lt;br&gt;이에 권익위는 전기 요금 다자녀 할인, KTX·SRT 다자녀 회원 운임 할인, 공항 주차 요금 다자녀 할인의 ‘자녀’ 범위에 위탁 아동을 포함하라고 한국전력공사와 한국철도공사, SR, 한국공항공사, 인천국제공항공사에 권고했다. 또 이런 요금 감면 제도가 실제로 쓰일 수 있도록 각사 홈페이지에 관련 기능을 탑재하라고 권고했다. 관계 기관들은 내년 말까지 관련 제도를 개선하기로 했다.&lt;br&gt;&lt;br&gt;유철환 국민권익위원장은 “아이를 사랑으로 품은 위탁 부모와 아동이 각종 복지 정책에서 소외되지 않도록 이번 제도 개선안을 마련했다”며 “앞으로도 권익위는 취약 계층과 복지 사각지대를 꼼꼼히 살피는 제도 개선을 이어가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[오늘의 날씨] 2025년 12월 27일</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/27/PYSZ5IVEIJHNVDYVL2VLHT7EGA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/27/PYSZ5IVEIJHNVDYVL2VLHT7EGA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Fri, 26 Dec 2025 15:52:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/72Y6NM76FNGAFFUIXONWSSY6YM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>“딱밤으로 기절시켜”... 경찰, 햄스터 학대한 작성자 수사</title>
       <link>https://www.chosun.com/national/national_general/2025/12/29/FNNFTAAU4BFQPPCWCBW2TQCG7M/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/29/FNNFTAAU4BFQPPCWCBW2TQCG7M/</guid>
@@ -903,24 +937,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>분만 가능한 동네 병원 10년 새 절반으로 뚝</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/28/PUE6QZ2EHJF2TP7PNGDRKPANFQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/28/PUE6QZ2EHJF2TP7PNGDRKPANFQ/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Dec 2025 06:11:46 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GRM2XP36KJP5FLML7HS4LHVS3Y.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;저출생 여파로 전국의 산부인과 병원이 분만 진료를 잇달아 포기하고 있는 지난해 1월 부산의 한 병원에서 분만과 관련된 산과 진료를 종료한다는 안내문이 붙어 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;최근 10년간 분만할 수 있는 의료 기관이 30% 넘게 줄어든 가운데, 그중에서도 접근성이 높은 ‘동네 산부인과’는 절반 수준으로 급감한 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 건강보험공단과 건강보험심사평가원의 통계 연보에 따르면, 지난해 말 기준 전국에서 분만이 가능한 요양 기관은 445개로 확인됐다. 이는 10년 전인 2014년의 675개보다 34.1% 줄어든 수치다.&lt;br&gt;&lt;br&gt;전체적인 분만 가능 의료 기관의 감소세 속에 의원급 산부인과의 감소 폭은 더 컸다. 분만 가능한 의원급 의료 기관은 2014년 376개에서 지난해 178개로 52.7% 줄었다.&lt;br&gt;&lt;br&gt;의료계에서는 저출생과 저수가 등 분만 병원 운영 환경이 나빠지는 상황에서 의료 분쟁 위험 등 새로운 요인까지 겹치면서 산부인과들이 폐업 위기에 내몰리고 있다고 토로한다. 특히 산부인과는 의료 사고가 발생할 경우 신생아의 여명(餘命)을 고려해 고액의 배상금이 산정되는 경우가 많아 부담이 매우 큰 것으로 알려졌다.&lt;br&gt;&lt;br&gt;지역별로는 수도권 외 지역에서의 산부인과 감소가 두드러졌다. 지난해 기준 전국 17개 시도에서 분만 가능한 기관이 가장 적은 곳은 광주와 울산, 세종이었다. 세 지역 모두 분만 가능 기관이 각각 7개씩만 운영되고 있었다. 제주가 9개로 그다음이었다.&lt;br&gt;&lt;br&gt;특히 광주는 2014년 분만 가능한 의료기관이 21개였으나 3분의 1로 줄어들었다. 울산은 11개에서 7개로 줄었다. 세종은 2014년 2개에서 지난해 7개로 전국 17개 시도 중 유일하게 증가했다.&lt;br&gt;&lt;br&gt;감소 폭으로 따지면 대구가 50% 감소하면서 가장 크게 줄었다. 10년 전엔 38개였으나 19개로 줄어들었기 때문이다. 대전이 31개에서 16개로 줄면서 48.4%의 감소 폭을 보였고, 전북이 34개에서 20개로 줄며 41.2%의 분만 의료기관이 사라졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>아픈 몸 이끌고 폐지 주워 30만원 기부… 경주 70대의 조용한 나눔 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/28/QETJUYGTNVAFZMYNT4HULCZ4G4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/28/QETJUYGTNVAFZMYNT4HULCZ4G4/</guid>
-      <dc:creator>경주=이승규 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Dec 2025 05:51:33 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GM3WINJYMRQTMZRYG5TDEZDCHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경북 경주시 성건동에 사는 한 70대 여성이 폐지를 팔아 모은 30만 원을 어려운 이웃을 위해 써달라며 성건동행정복지센터에 전달해 마음을 훈훈하게 하고 있다./경주시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기초생활수급자로 폐지를 모은 70대 여성이 어려운 이웃을 위해 써달라며 30만원을 기부했다.&lt;br&gt;&lt;br&gt;경북 경주시는 성건동에 거주하는 A씨가 행정복지센터를 찾아 30만원을 기부했다고 28일 밝혔다. A씨는 지난 4월에도 “산불 피해 주민들을 위해 써달라”며 폐지를 팔아 모은 10만 3830원을 비닐봉투에 넣어 기부했다. &lt;br&gt;&lt;br&gt;A씨는 기초생활수급자로 지난 당뇨와 괴사성 혈관염 등을 앓고 있으나, 꾸준히 폐지를 모은 뒤 기부를 이어가고 있다. A씨는 “국가와 이웃들로부터 받은 도움을 조금이라도 돌려드리고 싶었다”며 “몸이 조금 고달파도 이 성금이 누군가에게 따뜻한 밥 한끼와 난방비로 쓰일 수 있다면 그걸로 족하다”고 했다.&lt;br&gt;&lt;br&gt;경주시는 A씨의 성금을 경북사회복지공동모금회의 희망 2026 나눔캠페인을 통해 지역 내 어려운 이웃에게 전달할 예정이다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>학령인구 감소에 최근 10년 학교 391곳 문 닫아</title>
       <link>https://www.chosun.com/national/education/2025/12/28/3B4HEF5R2RCGVJS3Z7XDYRHG7Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/28/3B4HEF5R2RCGVJS3Z7XDYRHG7Y/</guid>
@@ -928,15 +944,6 @@
       <description/>
       <pubDate>Sun, 28 Dec 2025 06:54:19 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YJMJRBMUSGIZYLTQFTXVRBKVDY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산광역시 부산진구 주원초등학교 운동장 모습. 이 학교는 최근 폐교했다. / 조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;학령인구 감소로 최근 10년간 전국 초·중·고 학교 391곳이 문을 닫은 것으로 나타났다.&lt;br&gt;&lt;br&gt;28일 진선미 민주당 의원실이 교육부로부터 받은 ‘폐교재산 현황(공립학교)’ 자료에 따르면, 최근 10년간 가장 많은 학교가 문을 닫은 지역은 경북(74곳)이었다. 이어 전남(59곳), 강원(51곳), 경기(43곳), 경남(39곳) 순이었다. 저출생으로 학령인구가 줄며 지방에 있는 학교들이 빠르게 사라지는 추세다. 올해 폐교한 학교는 전국 49곳에 달했다.&lt;br&gt;&lt;br&gt;최근에는 서울에서도 문을 닫는 학교가 속속 생겨나는 추세다. 2020년 전까지 서울에서 문을 닫은 공립학교는 1999년 폐교한 오곡국민학교가 유일했다. 그러나 학령인구 감소로 2020년 염강초와 공진중 2곳이 문을 닫더니 2023년 화양초 1곳, 2024년 덕수고, 도봉고, 성수공업고 3곳이 추가로 폐교했다.&lt;br&gt;&lt;br&gt;교육부는 2030년까지 학교 107곳이 문을 닫을 것으로 예상하고 있다. 올해 약 502만명인 초·중·고 학생 수는 2030년이면 약 408만명으로 줄어들 전망이다.&lt;br&gt;&lt;br&gt;유치원과 어린이집도 빠르게 줄어드는 추세다. 유치원은 2022년 8562개에서 올해 8140개로 3년 만에 422개가 줄었다. 공립유치원은 5113개에서 5071개로 42개 줄었고, 사립유치원은 3446개에서 3066개로 380개 감소했다. 어린이집은 올해 2만6085개로 3년 전인 2022년 3만923개에 비해 4838개가 줄어든 것으로 나타났다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>檢, 의료용 마약사범 41명 적발...의사 등 6명 구속기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/28/JLYWQDE7PZC2NK5BTEFIGEP2EU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/28/JLYWQDE7PZC2NK5BTEFIGEP2EU/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Dec 2025 05:47:42 +0000</pubDate>
-      <content:encoded>서울중앙지검이 의료용 마약류 오남용과 불법 유통 범죄에 대해 집중 단속을 벌인 결과 올 한 해 마약사범 총 41명을 입건해 24명을 재판에 넘겼다고 28일 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PI3ALAYAXFDE4GEZ6ZC3D6YUHI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지검 청사 전경. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 서울중앙지검 강력범죄수사부(부장 이태순)는 “환자에게 프로포폴을 불법 투약하고 8억원 상당의 범죄수익을 취득한 의사를 구속기소하는 등 올 한 해 의사 3명, 약사 1명, 유통사범 17명, 투약사범 20명을 적발했다”며 “이 중 의사 1명과 최상위 공급책 5명을 구속기소하고, 나머지 의사와 약사, 투약사범 등 18명은 불구속 기소했다”고 밝혔다. 검찰은 재활·치료 등을 통해 사회 복귀가 가능하다고 판단되는 투약사범 13명에 대해서는 기소유예 처분을 내렸다. 또 적발된 마약사범 중 4명에 대해서는 아직 처분이 결정되지 않아 기소중지 상태에 있다고 덧붙였다.&lt;br&gt;&lt;br&gt;검찰이 발표한 주요 단속 사례를 보면, 의사 A씨는 2021년 3월부터 작년 5월까지 환자 62명에게 미용 시술을 빙자해 프로포폴을 989회 투약하고 8억원 상당의 수익을 챙겼다. 또 의사 B씨는 2018년 1월부터 작년 5월까지 수면제와 다이어트약 등 마약류 2만여 정을 800여 회에 걸쳐 타인 명의로 처방했다. 약사 D씨는 이 과정에서 타인의 인적 사항을 B씨에게 제공한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;의사 C씨는 2023년 4월부터 작년 12월까지 환자들에게 75회에 걸쳐 프로포폴을 투약한 뒤 진료 기록을 조작하고 5억원을 받아 챙겼다. 그는 특히 투약 후 의식을 잃은 여성 피해자를 상대로 성범죄를 저지른 혐의도 받는다.&lt;br&gt;&lt;br&gt;‘제2의 프로포폴’로 불리는 에토미데이트를 불법 유통한 조직도 적발됐다. 의약품 도매업자와 중간 공급책 등은 가짜 피부과 의원을 차려 해외 수출을 가장한 뒤 약물을 빼돌려 출장 주사 방식으로 판매하며 10억원대 범죄 수익을 올린 것으로 파악됐다.&lt;br&gt;&lt;br&gt;서울중앙지검은 지난해 2월 의료용 마약전문 수사팀을 출범시키고 집중 단속을 벌여왔다. 검찰 관계자는 이날 “서울중앙지검은 최근 의료용 마약전문 수사팀을 2개 팀으로 확대하고, 식약처와 상시 공조 체계를 구축해 단속 역량을 한층 강화했다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“학폭 안 봐준다” 진짜였네… 전북대, 수시 모집 지원자 18명 전원 불합격 처리</title>
