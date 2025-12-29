@@ -6,6 +6,16 @@
 		<link>https://www.lawtimes.co.kr/news</link>
 		<language>ko</language>
 		<item>
+			<title>장정주 화우 변호사 '수입규제대응 공로' 산업통상부장관 표창 수상</title>
+			<description>&lt;p style="text-align: center;"&gt;   &lt;img src="https://image.lawtimes.co.kr/thumb/180/214502.jpg" alt="1.jpg" /&gt;&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;b&gt;&lt;a href="https://www.hwawoo.com/kor/main?lang=ko" target="_blank"&gt;법무법인 화우&lt;/a&gt;&lt;/b&gt;(대표변호사&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8808"&gt;이명수&lt;/span&gt;)는 12월 23일 서울 강남구 삼성동 코엑스에서 열린 산업통상부 주관 민·관 합동 무역장벽 대응 협의회 시상식에서 화우 통상산업팀 소속&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="14697"&gt;장정주&lt;/span&gt;(사법연수원 36기) 변호사가 ‘수입규제 대응 유공 장관 표창’을 수상했다고 29일 밝혔다.&lt;br /&gt;&lt;br /&gt;화우는 장 변호사가 한국 정부와 중소·중견기업들이 미국 무역확장법 제232조 조사 및 관세 부과 조치 등 각종 수입규제에 대응하는 과정에서 미국 정부의 수입규제 조치를 분석하고 대응 전략을 제시하는 등 다수의 자문을 제공해 온 점이 높이 평가됐다고 설명했다. 외국의 규제 조치에 효과적으로 대응하고 국내 기업의 수출에 기여한 공로를 인정받았다는 것이다.&lt;br /&gt;&lt;br /&gt;이와 함께 국내 기업들을 대상으로 미국 인플레이션감축법(Inflation Reduction Act·IRA), 유럽연합(EU) 공급망 실사지침, 에코디자인 규정, 포장폐기물 규정 등 주요 무역규제 조치를 분석하고 대응 방안에 대한 자문을 제공한 점, 미국 정부의 상계관세 연례 재심 절차에서 한국 정부를 대리해 온 점도 수상 사유로 꼽혔다.&lt;br /&gt;&lt;br /&gt;장 변호사는 순천고와 고려대 서어서문학과를 졸업하고 2004년 제46회 사법시험에 합격했다. 변호사 개업 이후인 2007년 외교통상부 사무관으로 임관해 2018년까지 외교통상부 국제법규과, 산업통상자원부 FTA상품과 및 통상분쟁대응과 등에서 근무했다.</description>
+			<pubDate>Mon, 29 Dec 2025 04:21:37 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214502</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214502</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214502.jpg</media:thumbnail>
+			<dc:creator>조한주 기자</dc:creator>
+		</item>
+		<item>
 			<title>[판결] 임대인·임차인 모두 가입한 화재보험사… "임차인에 구상 못해"</title>
 			<description>화재 사고로 건물주에게 보험금을 지급한 보험사가 해당 건물의 임차인을 상대로 구상권을 행사할 수 없다는 대법원 판결이 나왔다. 임차인이 동일한 보험사에 ‘화재배상책임보험’을 가입했다면, 보험사가 구상권 채권자인 동시에 배상 의무를 지는 채무자의 지위를 겸하게 돼 권리가 소멸한다는 취지다.&lt;p&gt;대법원 민사3부(주심&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1287"&gt;노경필&amp;nbsp;&lt;/span&gt;대법관)는 11월 20일 A 보험사가 B 씨를 상대로 낸 구상금 청구 소송 상고심(&lt;b&gt;2024다324200&lt;/b&gt;)에서 원고 승소 판결한 원심을 파기하고 사건을 서울중앙지법에 환송했다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[사실 관계]&lt;/b&gt;&lt;br /&gt;A 보험사는 2022년 건물 소유주 C 씨와 화재보험 계약을 체결했다. 같은 건물에서 식자재 도소매업을 하던 임차인 B 씨 역시 A 보험사와 화재배상책임 특약이 포함된 보험 계약을 맺은 상태였다.&lt;/p&gt;&lt;p&gt;2022년 8월 B 씨가 운영하던 마트 내에서 원인을 알 수 없는 화재가 발생해 건물이 소실됐다. 이에 A 보험사는 건물주 C 씨에게 임차인 보험금 명목으로 약 5억 원을, 소유자 보험금 명목으로 약 2억 원을 지급했다. 이후 A 보험사는 "건물주에게 지급한 소유자 보험금 2억 원은 임차인의 과실로 발생한 손해를 대신 갚은 것이니, 임차인 B 씨가 이를 반환해야 한다"며 구상금 소송을 냈다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[하급심]&lt;/b&gt;&lt;br /&gt;1심과 항소심은 임차인 B 씨의 손해배상 책임을 전체 손해의 60~70%로 제한하면서도, 보험사가 건물주에게 지급한 소유자 보험금 중 임차인의 책임 비율에 해당하는 금액을 구상할 수 있다고 판단해 원고 일부 승소 판결을 내렸다.&lt;br /&gt;&lt;b&gt;&lt;br /&gt;[대법원 판단]&lt;/b&gt;&lt;br /&gt;대법원의 판단은 달랐다. 대법원은 "임차인 보험계약에 피고의 손해배상책임을 보상하는 책임보험이 포함되어 있다면, 보험사는 소유자 보험금 지급을 이유로 임차인에게 보험자대위권을 행사하기 어렵다"고 판시했다.&lt;/p&gt;&lt;p&gt;재판부는 "보험사가 소유자 보험금을 지급함으로써 임차인에 대해 가지게 되는 손해배상채무는, 임차인이 가입한 책임보험의 보험자로서 보험사가 부담해야 할 채무와 연대채무 관계에 있다"며 "보험사가 채권자인 동시에 채무자가 되므로 혼동으로 인해 그 권리가 소멸하는 것과 비슷한 현상이 생긴다"고 설명했다.&lt;/p&gt;&lt;p&gt;&lt;br /&gt;이어 "임차인이 보험사에 구상금을 지급하더라도 다시 보험사에 책임보험금 지급을 청구할 수 있게 되는데, 이는 소송경제에 반하는 순환소송을 인정하는 결과가 된다"며 "결국 반환해야 할 돈을 청구하는 것은 신의성실의 원칙에 비추어 보더라도 타당하지 않다"고 덧붙였다.&lt;/p&gt;</description>
 			<pubDate>Mon, 29 Dec 2025 00:30:12 -0000</pubDate>
@@ -97,6 +107,16 @@
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214489</guid>
 			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214489.jpg</media:thumbnail>
 			<dc:creator>우빈 기자</dc:creator>
+		</item>
+		<item>
+			<title>김건희 특검, '매관매직·양평고속도로' 등 의혹 18명 기소</title>
+			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214480.jpg" alt="6367.jpg" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;김건희 여사 《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;김건희 여사의 각종 의혹을 수사하는&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1017"&gt;민중기&amp;nbsp;&lt;/span&gt;특별검사팀(김건희 특검팀)이 12월 26일 이른바 '매관매직 의혹'으로 김 여사와 뇌물공여자 등 7명을 재판에 넘겼다. 서울-양평고속도로 종점부를 변경한 공무원 등 7명도 기소했다. 특검은 수사기한 종료를 이틀 앞두고 이날만 18명을 기소했다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 이날 김 여사와 이봉관 서희건설 회장, 로봇개 사업가 서성빈 씨,&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="13751"&gt;김상민&lt;/span&gt;(사법연수원 35기) 전 검사, 이배용 전 국가교육위원장과 비서, 최재영 목사 등 7명을 기소했다고 발표했다.&lt;br /&gt;&lt;br /&gt;특검팀에 따르면, 이 회장은 1억 380만 원 상당 귀금속을, 서 씨는 3990만 원 상당 손목시계를, 김 검사는 1억 4000만 원 상당 이우환 화백의 그림을, 이 전 위원장은 265만 원 상당 금거북이와 세한도를, 최 목사는 540만 원 상당 명품 가방을 제공했다.&lt;br /&gt;&lt;br /&gt;특검팀은 이 회장과 서 씨는 사업상 도움을 청탁했다고 보고 있다. 특히 이 회장은 사위&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="1038"&gt;박성근&amp;nbsp;&lt;/span&gt;변호사의 인사를 청탁한 혐의를 받는다. 박 변호사는 국무총리 비서실장으로 임명됐다. 김 검사는 공천을, 이 전 위원장은 국가교육위원장직을, 최 목사는 공직을 청탁함 혐의다.&lt;br /&gt;&lt;br /&gt;김 여사는 남편의 권한을 이용해 고가의 선물을 받고 청탁을 들어줘 특정경제가중처벌법상 알선수재와 청탁금지법 위반 혐의가 적용됐다.&lt;br /&gt;&lt;br /&gt;이 전 위원장의 비서 박모 씨는 김 여사와 관련된 휴대전화 메시지를 삭제하라는 지시를 받고 이를 실행해 증거인멸 혐의를 받는다. 이 전 위원장은 증거인멸 교사 혐의다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 서울-양평 고속도로 타당성평가 용역업체에 종점을 바꾸게 압력을 행사한 직권남용 권리행사방해 혐의로 국토교통부 서기관 1명과 한국도로공사 직원 2명을 기소했다. 서기관과 사무관은 용역이 미완성됐는데도 허위조서를 작성해 용역 잔금 3억 3000여만 원이 지급되게 해 업무상 배임, 사기, 허위공문서 작성과 행사 혐의로 재판에 넘겨졌다. 용역업체 직원 2명은 특검의 압수수색 때 증거를 숨긴 혐의가 적용됐다.&lt;br /&gt;&lt;br /&gt;김건희 특검팀은 이외에도 '대통령 관저 이전 특혜' 의혹으로 김오진 전 국토교통부 1차관과 전직 대통령비서실 행정관, 김태영 21그램 대표를 직권남용과 사기 등 혐의로 이날 기소했다.&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="8480"&gt;윤석열&amp;nbsp;&lt;/span&gt;전 대통령을 공직선거법상 허위사실공표 혐의로 기소했다.&lt;br /&gt;&lt;br /&gt;28일 수사기한이 끝나는 김건희 특검은 29일 종합수사결과를 발표한다.</description>
+			<pubDate>Fri, 26 Dec 2025 12:28:26 -0000</pubDate>
+			<category>news</category>
+			<link>https://www.lawtimes.co.kr/news/214480</link>
+			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214480</guid>
+			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214480.jpg</media:thumbnail>
+			<dc:creator>박성동 기자</dc:creator>
 		</item>
 		<item>
 			<title>김건희 특검, '매관매직·양평고속도로' 등 의혹 18명 기소</title>
@@ -213,25 +233,6 @@
 			<link>https://www.lawtimes.co.kr/news/214456</link>
 			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214456</guid>
 			<dc:creator>박성동 기자</dc:creator>
-		</item>
-		<item>
-			<title>LG 상속소송 내년 2월 선고</title>
-			<description>&lt;div class="cheditor-caption-wrapper" style="text-align: center;"&gt;   &lt;figure class="cheditor-caption" style="background-color: #f0f0f0; max-width: 600px; margin: 0px auto; display: inline-block; width: 600px;"&gt;      &lt;img src="https://image.lawtimes.co.kr/thumb/180/214432.jpg" alt="1.jpg" style="text-align: center;" /&gt;      &lt;figcaption class="cheditor-caption-text" style="margin: 10px; text-align: center; font-size: 14px; line-height: 1.6em;"&gt;《사진=연합뉴스》&lt;/figcaption&gt;   &lt;/figure&gt;   &lt;/div&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;2년 반째 이어져 온 LG그룹 상속 소송 1심 결론이 내년 2월 나온다. 12월 23일, 서울서부지법 민사11부(재판장&amp;nbsp;&lt;span style="font-weight: bold;" class="lawmanlink" serial="4191"&gt;구광현&amp;nbsp;&lt;/span&gt;부장판사)는 LG가(家) 세 모녀와 구광모 LG그룹 회장 간 상속 회복 청구 소송 변론을 마친 뒤 2026년 2월 12일 이 사건(&lt;b&gt;2023가합31228&lt;/b&gt;)에 대해 선고하겠다고 밝혔다. 재판부는 양측에 2026년 1월 23일까지 서면을 제출하라고도 요청했다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;세 모녀는 고(故) 구본무 LG그룹 선대 회장의 아내 김영식 여사와 두 딸 구연경 LG복지재단 대표, 구연수 씨다. 이날 세 모녀 측은 “구 회장에게 경영 재산을 물려준다는 구본무 선대 회장의 유지 메모는 존재하지 않았을 가능성이 크다”고 주장했다. 경영 재산은 LG그룹 경영과 연관된 ㈜LG 주식과 계열사 주식, 해당 주식에서 파생된 배당금을 의미한다.&lt;/p&gt;&lt;p style="text-align: left;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: left;"&gt;구 회장 측은 “원고들은 2018년 12월 상속 분할 협의를 마친 후 4년 3개월이나 지난 2023년 2월에야 소송을 냈다”며 뒤늦은 문제 제기일 뿐 아니라 제척 기간도 지났다고 강조했다. 이어 “하범종 LG그룹 경영지원부문장(사장)을 비롯해 복수의 증인이 일관되게 구본무 선대 회장의 유지 메모가 존재한다고 증언한다”며 “유지 메모는 상속 분할 협의서 작성, 상속세 신고 등이 마무리된 다음 구 선대 회장의 다른 개인적 문서와 함께 폐기됐고, 이는 전혀 이상한 일이 아니다”고 했다.&lt;/p&gt;</description>
-			<pubDate>Thu, 25 Dec 2025 23:07:27 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214432</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214432</guid>
-			<media:thumbnail>https://image.lawtimes.co.kr/thumb/180/214432.jpg</media:thumbnail>
-			<dc:creator>이상우 기자</dc:creator>
-		</item>
-		<item>
-			<title>【오늘의 법조】 2025년 12월 26일</title>
-			<description>&lt;p style="text-align: center;"&gt;&lt;b&gt;[법원]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'자본시장과 금융투자업에 관한 법률위반 혐의' 이일준 삼부토건 회장 외 2명 8차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'특수공무집행방해 등 혐의' 윤석열 전 대통령 16차 공판&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오전 10시 15분, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'직권남용권리행사방해 등 혐의' 서해 피격사건 관련 서훈 전 국정원장 외 4명 선고&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 서울중앙지법&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷'상표권침해금지 등 사건(2024다311181)' 소부 공개변론&lt;/b&gt;&lt;/p&gt;&lt;p&gt;-오후 2시, 대법원 1호 법정&lt;/p&gt;&lt;br /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;hr style="border-width: 2px 0px 0px; border-color: lightgray;" /&gt;&lt;p&gt;&lt;br /&gt;&lt;/p&gt;&lt;p style="font-weight: 700; text-align: center;"&gt;&lt;b&gt;[오늘의 PICK]&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;&lt;br /&gt;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷ "위법 수집된 휴대전화 포렌식 자료 기초한 법정 자백도 위법 수집 증거"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;수사기관이 영장 범위를 벗어나 확보한 휴대전화 녹음파일의 증거능력을 인정할 수 없다면, 이를 제시받고 이루어진 피고인들의 법정 자백도 증거능력이 없다는 대법원 판결이 나왔다.&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/214383" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;▷ 법원 "고려아연 2.8조 유상증자, 美 정부가 원한 것으로 보여"&lt;/b&gt;&lt;/p&gt;&lt;p&gt;미국 제련소 투자와 대규모 유상증자를 둘러싼 영풍·MBK파트너스와 고려아연 간 분쟁에서 1심이 고려아연의 손을 들어줬다. 1심은 ""미 정부가 크루서블JV를 통해 고려아연 지분을 확보하는 방식으로 협력 관계를 공고히 하길 원했기에, 신주 발행을 포함한 거래 구조가 완성됐다고 보인다"고 했다.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&lt;span style="color: #994c00; background-color: #ffe5cc;"&gt;&lt;b&gt;&lt;a href="https://www.lawtimes.co.kr/news/214451" target="_blank"&gt;☞ 기사보기 ☜&lt;/a&gt;&lt;/b&gt;&lt;/span&gt;&lt;/p&gt;&lt;p style="text-align: center;"&gt;&amp;nbsp;&lt;/p&gt;</description>
-			<pubDate>Thu, 25 Dec 2025 22:39:26 -0000</pubDate>
-			<category>news</category>
-			<link>https://www.lawtimes.co.kr/news/214455</link>
-			<guid isPermaLink="true">https://www.lawtimes.co.kr/news/214455</guid>
-			<dc:creator>인터넷 기자</dc:creator>
 		</item>
 	</channel>
 </rss>
