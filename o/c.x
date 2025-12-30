@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>스토킹 범죄 사건, 3년간 28% 증가</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</guid>
+      <dc:creator>오주비 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 10:39:12 +0000</pubDate>
+      <content:encoded>경찰에 입건된 스토킹 범죄 사건이 최근 3년간 28% 증가한 것으로 나타났다. 스토킹 범죄자는 남성이 여성의 3배로 많았지만, 갈수록 여성 비율이 늘어나는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDHYO3NGWFDD3ON2OHDKIECHPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 성평등가족부는 이런 내용이 담긴 ‘2025년 여성폭력통계’를 발표했다. 통계에 따르면, 지난해 스토킹 범죄 입건 건수는 1만3533건이었다. 2022년(1만545건), 2023년(1만2048건) 대비 각각 28%, 12% 증가했다. &lt;br&gt;&lt;br&gt;지난해 스토킹 범죄자 가운데 남성이 76.2%로 여성(23.8%)을 크게 앞질렀다. 하지만 여성 비율도 2022년 18.8%에서 2023년 20.5% 등으로 꾸준히 늘어나는 추세다. 스토킹 범죄자 중 43.2%는 전·현 애인, 7.5%는 전·현 배우자로 친밀한 관계가 많았다. &lt;br&gt;&lt;br&gt;배우자나 애인 등 친밀한 관계에서 폭력을 저질러 검거된 이들은 지난해 5만7973명으로 전년(6만2692명) 대비 7.5% 줄었다. &lt;br&gt;&lt;br&gt;반면, 친밀한 관계에서 살인이나 치사를 저지른 경우는 지난해 219명으로, 전년(205명)보다 6.8% 증가했다. 살인·치사를 저지른 범죄자 가운데 남성 비율이 75.8%로 여성(24.2%)보다 크게 높았다. 여성은 소수였지만, 2023년 39명에서 지난해 53명으로 36% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>신은경 9517만원, 이진호 2884만원 건보료 안냈다…고액 체납자 명단에</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/30/767A7D3CXNDOFJZCEHVHKKRYPM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/767A7D3CXNDOFJZCEHVHKKRYPM/</guid>
+      <dc:creator>김가연 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 12:23:51 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y66KL3ISRVBYBKDL5VCGMIXSBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신은경, 방송인 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단이 공개한 4대 사회보험료 고액·상습 체납자 명단에 배우 신은경(52)과 방송인 이진호(39)의 이름이 포함됐다.&lt;br&gt;&lt;br&gt;공단은 30일 공단 홈페이지에 4대 사회보험료 고액·상습 체납자 1만3449명의 인적사항을 공개했다.&lt;br&gt;&lt;br&gt;인적사항 공개 대상자는 지난해 12월 31일 기준으로 납부 기한이 1년 지난 건강보험료 1000만원 이상, 연금보험료 2000만원 이상, 고용·산재보험료 5000만원 이상을 체납한 자다. 공개된 인적사항은 체납자의 성명, 상호(법인인 경우 명칭과 대표자 성명), 나이, 업종·직종, 주소, 체납액 종류·금액 등이다.&lt;br&gt;&lt;br&gt;공단은 지난 3월 31일 제1차 보험료정보공개심의위원회에서 공개 예정자 2만9660명을 추려 6개월 이상 소명 기간을 주고 보험료 납부를 독려한 뒤, 이달 18일 제2차 심의위원회를 열어 공개 대상자를 확정했다. 올해 공개 대상자는 전년(1만3688명) 대비 약 1.7% 줄었다. 보험료별로 살펴보면 건강보험 체납자가 1만444명, 국민연금이 2424명, 고용·산재보험이 581명이다.&lt;br&gt;&lt;br&gt;이날 공개된 명단에는 신은경과 이진호도 포함됐다. 신은경은 2014년 2월부터 2021년 10월까지 78개월간 건강보험료를 체납한 것으로 나타났다. 체납액은 9517만원이다.&lt;br&gt;&lt;br&gt;이진호는 2023년 4월부터 2023년 12월까지 9개월간 2884만원의 건강보험료를 납부하지 않았다.&lt;br&gt;&lt;br&gt;신은경과 이진호는 이와 관련한 입장을 발표하지는 않았다. 신은경은 지난해 종영한 SBS 드라마 ‘7인의 부활’에서 열연을 펼쳤으며, 현재 출연 중인 작품은 없다. 이진호는 불법 도박 혐의로 자숙 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>충남 천안·충북 진천에서 고병원성 조류인플루엔자 확진</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/30/MGRNDUOYOJGOXK6L34YX5FVGLQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/30/MGRNDUOYOJGOXK6L34YX5FVGLQ/</guid>
+      <dc:creator>김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 12:09:58 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHPMXXUJPFPLNLOPELX53AVCKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고병원성 조류인플루엔자(AI) 발생 농장에 내걸린 출입통제 안내문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남과 충북에서 고병원성 조류인플루엔자(AI)가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;고병원성 조류인플루엔자 중앙사고수습본부(중수본)는 충남 천안시 소재 산란계 농장(9만4000여 마리)과 충북 진천군 소재 종오리 농장(7800여 마리)에서 고병원성 AI가 발생했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이번 동절기 27번째, 28번째 고병원성 AI 확진 사례다. 중수본은 해당 농장에 대해 출입을 통제하고 살처분, 역학조사 등 방역 조치에 나섰다.&lt;br&gt;&lt;br&gt;또 전국 산란계 관련 농장과 시설 및 차량에 대해 24시간 일시 이동 중지 명령을 내렸다. 종오리 발생 계열사 오리 관련 농장과 시설, 차량 등에 대해서도 같은 조치가 내려졌다.&lt;br&gt;&lt;br&gt;방역 당국은 방역 지역(고병원성 AI 발생 농장 반경 10㎞ 이내) 내 가금 농장과 발생 농장을 방문한 사람 또는 차량이 출입한 농장 시설·차량에 대해 정밀검사를 실시할 예정이다. &lt;br&gt;&lt;br&gt;오리에서의 감염 개체 조기 검출을 위해 발생 계열사 오리 계약 사육 농장에 대한 일제검사도 진행된다.&lt;br&gt;&lt;br&gt;이번에 고병원성 AI가 발생한 두 농장은 앞서 고병원성 AI가 발생한 방역 지역 밖이다.&lt;br&gt;&lt;br&gt;이에 중수본은 고병원성 AI가 발생한 시·군에 대해 방역 지역뿐 아니라 관내 모든 가금농장에 대한 소독, 검사 등 방역 관리 강화를 강조했다.&lt;br&gt;&lt;br&gt;중수본 관계자는 “전국의 가금농장에서는 한파에 대비해 소독시설 동파 방지 등 방역 수칙을 준수해야 한다”면서 “폐사 증가, 산란율 저하 등 고병원성 AI 주요 증상뿐 아니라 경미한 증상이 확인돼도 방역 당국에 신속히 신고하는 자세가 필요하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘층간소음 불만’ 위층 주민 살해한 양민준 구속기소</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/30/ZSXN6TEEPNAPFAQ3OODSTU2YUM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/30/ZSXN6TEEPNAPFAQ3OODSTU2YUM/</guid>
+      <dc:creator>천안=김석모 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 10:37:55 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDGYJXGE3TOODDMI3WIZTBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안 층간소음 살인 피의자 양민준. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간 소음을 이유로 위층 이웃을 살해한 양민준(47)이 30일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 천안지청은 살인 및 특수재물손괴 혐의를 받는 양민준을 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;양민준은 지난 4일 오후 2시 30분쯤 천안시 서북구 한 아파트에서 자신의 거주지 위층을 찾아가 70대 이웃 주민 A씨에게 흉기를 휘둘러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;다친 A씨는 아파트 관리사무소로 달아나 문을 잠갔다. 하지만 양민준은 범행을 멈추지 않고 자신의 승용차로 관리사무소로 돌진, 문을 부순 후 A씨를 쫓아가 다시 흉기를 휘둘렀다. &lt;br&gt;&lt;br&gt;검찰은 양민준이 범행 도구를 미리 준비했고, 도망친 A씨를 쫓아가 공격한 점 등으로 미뤄 우발적 범행이 아닌 사회적 약자인 노인을 대상으로 저지른 계획 범죄라고 판단했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후 재판에서 피고인에게 죄에 상응하는 중형이 선고되도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘피고인 윤석열’ 특검 호칭에 “검사 선배인데 예우 갖추라” 변호인단 반발</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 10:33:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DQG76LWXD3TJYWR7R6Y4BESTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 윤석열 전 대통령, 김용현 전 국방장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 서울중앙지법 형사25부 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에서 한때 윤 전 대통령 호칭을 두고 특검팀과 변호인 측이 신경전을 벌였다. 이날 재판에서는 김용현 전 국방장관에 대한 증인신문이 진행됐다.&lt;br&gt;&lt;br&gt;특검팀이 질의 중 윤 전 대통령을 ‘피고인 윤석열’로 지칭하자, 윤 전 대통령 변호인단은 “국가 최고 통수권자이던 전직 대통령이자 검사 선배에게 예우를 지키지 않았다”고 항의했다. 특검팀은 “공소장에 적힌 정식 명칭”이라며, 변호인단이 불필요한 소송 지연 전략을 펼친다고 맞섰다. 재판부는 “특검팀의 호칭에 문제가 없다”며 절차를 이어갔으나, 변호인단이 재차 문제를 재기하자 결국 호칭을 ‘피고인’으로 정리했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇金 “상징적 계엄, 작은 힘 되려 노력”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 윤 전 대통령이 포고령에 대해 “이건 상징적인 것”이라고 언급했다고 증언했다. 당시 윤 전 대통령이 “국민 불편을 최소화해야 한다” “통금(통행금지)은 빼는 게 좋겠다”고 말하면서 이같이 언급했다고 한다.&lt;br&gt;&lt;br&gt;김 전 장관은 또 윤 전 대통령이 지금까지 했던 계엄과 다르게 하고 싶다며 경종을 울리고 싶다는 뜻을 밝혔다고도 증언했다. 그는 계엄 선포 전 윤 전 대통령이 “내가 하고자 하는 계엄은 지금까지 했던 계엄과 다르게 하고 싶다. 경종을 울리고 싶다’고 말했다고 전했다. 이어 “적당히 야당과 타협하며 편하게 대통령을 하면 좋겠지만, 그것은 국민에 대한 배신이라고 생각한다”며 “어떤 불이익을 당하더라도 국민에게 부끄럽지 않은 대통령이 되고 싶다’는 취지의 발언도 했다고 증언했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“한덕수 지시 문건에 장관 통솔하란 취지 내용 담겨”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 계엄 당시 국무회의에서 한덕수 전 국무총리에게 전달한 지시 문건에 각 부처 장관들을 통솔하라는 취지의 내용이 담겨 있었다고 증언했다. 다만 해당 문건과 관련해 윤 전 대통령으로부터 사전 지침을 받은 건 없었다고 했다.&lt;br&gt;&lt;br&gt;특검팀이 “한 전 총리에게 준 문건에는 어떤 내용이 있었느냐”고 묻자, 김 전 장관은 “너무 오래돼 기억하기 어렵다’면서도 “각 부처 장관들에게서 계엄 관련 업무를 인계받으라는 내용이 있었던 것으로 기억한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 재판부는 이날 윤 전 대통령의 내란 우두머리 사건과 김 전 장관, 조지호 전 경찰청장의 내란 중요 임무 종사 혐의 사건을 병합했다. 재판부는 다음 달 9일 변론을 종결한 뒤, 법관 정기인사 이전인 내년 2월 중 1심 선고를 내릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>친족간 재산범죄도 처벌 가능… 친족상도례 폐지</title>
       <link>https://www.chosun.com/national/court_law/2025/12/30/KIDG53Q6W5ERPBWHNDJOSQXUNY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/KIDG53Q6W5ERPBWHNDJOSQXUNY/</guid>
@@ -871,24 +916,6 @@
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
-      <title>부산구치소서 동료 재소자 폭행해 살해한 3명, 재판행</title>
-      <link>https://www.chosun.com/national/regional/2025/12/29/TBQDMHOQ7RA3JD2S3H7JIJNWKA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/29/TBQDMHOQ7RA3JD2S3H7JIJNWKA/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 07:44:11 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TNRXZ2KJRE4IGCIRXU2JFRCBQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 강서구 부산지검 서부지청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산구치소에서 20대 재소자를 폭행해 살해한 혐의를 받는 수용자 3명이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;부산지검 서부지청 인권·여성·강력전담부(부장 신기련)는 부산구치소 수감자 A(22)씨와 B(21)씨, C(28)씨를 살인 등 혐의로 기소했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;검찰에 따르면, A씨 등은 지난 8월부터 동료 재소자였던 D(24)씨를 위생 문제와 실수를 트집 잡아 상습적으로 폭행했다. 이들은 또 지난 9월 7일 오후 2시 40분쯤 바지와 수건 등으로 눈을 가린 뒤 D씨의 복부를 수차례 폭행했다. D씨는 이날 오후 5시 7분쯤 숨졌다.&lt;br&gt;&lt;br&gt;B씨와 C씨는 왜소한 체격을 가진 D씨를 지속적으로 괴롭혔던 것으로 조사됐다. 특히 이들은 폭행 흔적이 남지 않는 목 부위를 때리거나 목을 팔로 감아 기절시키는 범행을 반복했던 것으로 드러났다.&lt;br&gt;&lt;br&gt;폭력조직 칠성파 소속인 A씨는 8월 하순쯤 입소해 B·C씨와 함께 부채나 밥상 모서리로 발톱을 찍어 빠지게 하는 등 가혹 행위를 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰은 이들이 D씨가 숨지기 3~4일 전부터 식사도 제대로 하지 못하는 등 극도로 쇠약해진 상태에서도 폭행을 이어갔고, 이를 숨기려고 D씨가 의무실에도 가지 못하게 한 점 등에 비춰 살인의 고의가 있다고 판단했다.&lt;br&gt;&lt;br&gt;또 D씨가 이전에도 수용실에서 폭행을 당해 다른 수용실로 옮겨져 ‘지속 관찰 필요’ 보고가 됐음에도 구치소 실무자들에게 이 같은 사실이 공유되지 않는 등 구치소 관리가 미흡했다고 검찰은 설명했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “구치소엔 ‘폭행 피해 우려자 지정’ 제도가 있었지만 제대로 시행되지 않았다. 또 인원 점검이나 신체 검사에서도 실질적인 점검이 이뤄지지 않았다”고 했다. 이어 “유사 범죄 재발 방지를 위해 법무부 관련 부서에 이 같은 내용을 통보했다. 또 피고인들에게 죄에 상응하는 중형이 선고될 수 있도록 공소 유지에 만전을 기하겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>국민연금 올해 수익률 20% ‘역대 최대’…기금 260조 불어났다</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/29/NPURNQPIRFE7TOJTYOWTAUBUDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/29/NPURNQPIRFE7TOJTYOWTAUBUDA/</guid>
-      <dc:creator>김명일 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 07:38:14 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRDIOLCMFSGENJZMQZWGMBZMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국민연금 관련 이미지. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민연금이 올해 국내외 증시 강세에 힘입어 역대 최고치인 약 20%의 수익률을 기록할 것으로 예상됐다. &lt;br&gt;&lt;br&gt;29일 보건복지부는 “올해 국민연금 기금수익률(12월 잠정치 기준)이 약 20%를 기록할 것으로 예상된다”며 “이는 1988년 국민연금 제도 도입 이래 가장 높은 수치로, 작년 수익률 15%를 상회하는 성과”라고 밝혔다. &lt;br&gt;&lt;br&gt;이 같은 성과는 대부분 국내외 주식에서 비롯됐다. 자산군별 수익률을 잠정치 기준으로 살펴보면, 국내 주식 약 78%, 해외 주식 약 25%, 대체투자 약 8%, 해외 채권 약 7%, 국내 채권 약 1% 순으로 높았다. 대체투자 공정가치 평가가 반영된 최종 수익률은 내년 2월에 발표될 예정이다. &lt;br&gt;&lt;br&gt;역대 최대 기금 운용 성과에 따라 기금 규모도 증가했다. 12월 잠정치 기준 국민연금 기금은 1473조원으로, 지난해 말 1213조원 대비 약 260조원 증가(+21.4%)했다. 이는 2024년 연금급여 지출 44조원의 약 5.9배에 해당하는 규모로, 기금수익 증가가 국민연금의 재정 안정성 강화로 이어지고 있는 것으로 나타났다.&lt;br&gt;&lt;br&gt;정부는 향후 보험료율 조정에 따라 보험료 수입이 늘면 기금 규모가 더 커져 자산 운용도 적극적으로 할 수 있을 것으로 전망했다.&lt;br&gt;&lt;br&gt;정부는 자산 배분 체계 개선, 전문 운용인력을 포함한 인프라 확충 등을 통해 수익률을 연 4.5%(장기추계 기준)에서 연 5.5%로 올린다는 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>충북도, 오송에 ‘5만 석 돔구장’… 정부 연계·자체 추진 투 트랙</title>
       <link>https://www.chosun.com/national/regional/chungcheong/2025/12/29/HEURKYXOUFGXFPAFRAKYSCHHWU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/29/HEURKYXOUFGXFPAFRAKYSCHHWU/</guid>
@@ -896,15 +923,6 @@
       <description/>
       <pubDate>Mon, 29 Dec 2025 07:26:27 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBRGIZLCG42WGMZVGZTGIMJZMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영환 충북지사가 29일 충북도청 브리핑룸에서 충북형 돔구장 건립 구상을 밝히고 있다./충북도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북도가 청주 오송에 대규모 다목적 돔구장을 건설하기 위한 추진 방안을 내놨다. 정부의 대형 돔구장 건설 계획과 보조를 맞추는 동시에, 자체 계획을 병행 가동하는 이른바 ‘투 트랙(Two-track) 전략’이다. &lt;br&gt;&lt;br&gt;김영환 충북지사는 29일 도청 브리핑룸에서 기자회견을 열고 “현재 진행 중인 용역 결과를 토대로 청주시·세종시와 함께 돔구장의 규모와 기능, 사업 방식, 정부 정책 연계 방안 등을 종합 정리해 충청권 광역형 돔구장 로드맵을 마련하겠다”고 밝혔다. &lt;br&gt;&lt;br&gt;돔구장 건설은 김 지사가 중점 과제로 추진해 온 사업 중 하나이다.&lt;br&gt;&lt;br&gt;충북도는 최근 문화체육관광부가 스포츠와 공연 기능을 결합한 5만 석 규모의 돔구장을 국가 차원에서 검토하겠다는 방침을 밝히면서 더욱 속도를 내고 있다. &lt;br&gt;&lt;br&gt;도는 청주시 오송읍을 정부 구상에 가장 부합하는 최적 입지로 전면에 내세우고 있다. KTX 오송역과 청주국제공항, 경부·중부·중부내륙 고속도로망이 집중된 교통 요충지로, 수도권과 세종·대전·충청 전역에서 2시간 이내 접근이 가능하다는 점을 강점으로 꼽는다. 충북도는 “광역 활용을 전제로 한 정부 정책 취지에 가장 부합하는 입지”라고 강조한다.&lt;br&gt;&lt;br&gt;충북도의 전략은 정부 지원 여부와 무관하게 자체 추진을 멈추지 않겠다는 데 있다. 정부가 오송을 돔구장 입지로 선정해 국비 사업으로 함께 추진하는 시나리오를 기대하면서도, 중앙정부 결정에만 의존하지 않고 기존 계획을 그대로 추진하겠다는 것이다.&lt;br&gt;&lt;br&gt;도는 이미 지난 3월부터 돔구장 건설을 염두에 두고 준비에 착수한 상태고, 김 지사는 야구 선수 출신인 박노준 우석대학교 총장과 돔구장 건설의 경제성과 운영 방안, 연고 구단 유치 가능성 등을 논의해 왔다. 지난 7월에는 독일 겔젠키르헨의 복합 문화 체육 시설 ‘펠틴스 아레나(VELTINS-Arena)’를 직접 방문해 현지 실사와 벤치마킹도 진행했다.&lt;br&gt;&lt;br&gt;‘충북형 다목적 돔구장 기본 구상 및 타당성 조사’ 용역도 이미 진행 중이다. 내년 2월 말까지 개발 여건 분석, 적정 규모와 기능 설정, 운영 모델과 재원 조달 방식, 경제적 파급 효과 등을 종합적으로 검토한다&lt;br&gt;&lt;br&gt;충북도가 구상하는 돔구장은 프로야구 경기뿐 아니라 국제 스포츠 행사, 대형 공연·전시를 아우르는 복합 문화·체육 인프라다. 최소 6000억원 이상이 소요될 것으로 예상되지만, 김 지사는 “중요한 것은 비용이 아니라 경제성”이라고 밝혔다 &lt;br&gt;&lt;br&gt;최근 64조원을 넘긴 투자 유치 실적과 청주공항 이용객 증가, 오송 컨벤션센터(OSCO)의 성장 등을 근거로 실현 가능성을 설명했다. 단순한 정치적 선언이 아니라 수치와 여건을 바탕으로 한 판단이라는 점을 강조한 것이다.&lt;br&gt;&lt;br&gt;운영 방식에서도 차별화를 꾀하고 있다. 김 지사는 “연고 없는 구장은 만들지 않겠다”고 밝히며, 프로야구단 유치와 지속 가능한 수익 구조를 동시에 염두에 둔 운영 모델을 구상하고 있다.&lt;br&gt;&lt;br&gt;충북도는 앞으로 청주시와 함께 전담 태스크포스(TF)를 구성하고, 범도민 돔구장 건립 추진위원회를 발족해 공감대 확산에도 나설 계획이다. &lt;br&gt;&lt;br&gt;김 지사는 “돔구장은 단순한 체육 시설을 넘어 지역의 문화·관광·산업 경쟁력을 끌어올리는 미래형 인프라”라면서 “청주시·세종시와 긴밀히 협력해 문체부 정책 방향에 부합하는 최적의 입지와 실행력을 바탕으로 충청권은 물론 대한민국을 대표하는 돔구장을 완성해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“연대 선수 부모 사랑 못 받은 듯” 고려대, 고연전 해설자 막말 논란 공식 사과</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/29/X6VJNWCKWZFB3OA6DO4BLNL5LQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/29/X6VJNWCKWZFB3OA6DO4BLNL5LQ/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 04:30:04 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G2TTXC7SMZ2OWT5NYX4E37GJK4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;고연전 해설 논란 유튜브 화면 캡처.&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고려대가 지난 9월 열린 2025년 정기 고려대학교·연세대학교 친선경기대회(이하 고연전) 야구 중계 과정에서 발생한 부적절한 발언 논란과 관련해 연세대에 공식 사과했다.&lt;br&gt;&lt;br&gt;고려대는 지난 24일 공식 사과문을 내고 “고연전 야구 중계방송 중 객원 해설위원의 부적절한 발언으로 연세대 야구부와 구성원들께 상처와 불쾌감을 드린 점 깊이 사과드린다”며 “이번 일로 실망을 느끼셨을 고려대 구성원들께도 죄송한 마음을 전한다”고 밝혔다. &lt;br&gt;&lt;br&gt;고려대는 “이번 사안을 ‘교류와 소통의 자리에서 존중과 배려의 가치를 충분히 실현하지 못한 사례’로 규정하고, 방송 제작 전 과정의 검수 강화 및 해설위원·관계자 교육 확대 등 재발 방지 대책을 즉시 시행하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;연세대는 이를 수용하며 “정기전은 단순한 경쟁을 넘어 우정과 협력을 나누는 전통의 장”이라며 “이번 일을 양교가 오랜 시간 이어온 정기전 문화를 다시 한번 성찰하는 계기로 삼겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 지난 9월 19일 고려대 교육방송국 유튜브 채널에는 같은 날 열린 연세대와의 야구 경기 중계 영상이 게시됐다. 해당 중계에서 객원 해설위원은 몸을 풀고 있는 연세대 선수를 두고 “가정 환경이 중요하다. 부모님에게 사랑을 못 받은 것 같다”며 “혹시 나를 어떻게 하지 않을까, 사기 치는 건 아닐까 하는 의심과 불만이 태생적이다. 오죽했으면 연대를 갔겠느냐”는 취지의 발언을 해 조롱 논란이 일었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>편파·강압 논란 남기고… 180일 수사 끝낸 민중기 특검</title>
@@ -932,15 +950,6 @@
       </media:content>
     </item>
     <item>
-      <title>안전관리 소홀로 현장 노동자 숨져… 포스코이앤씨 벌금 1000만원</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/29/4ZZBF4N32FANVD6YYQWDQ35HWM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/29/4ZZBF4N32FANVD6YYQWDQ35HWM/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 01:08:44 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GUZGENDFMNTDCOJUG43TGNZVG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;법원 로고./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인천의 한 재개발 공사 현장에서 30대 노동자가 추락해 숨진 사고와 관련, 공사를 수주한 포스코이앤씨와 하청업체 등이 벌금형을 선고받았다. &lt;br&gt;&lt;br&gt;인천지법 형사 9단독 정제민 판사는 산업안전보건법 위반 등 혐의로 기소된 포스코이앤씨와 이 회사 소속 현장소장 A(60)씨에게 각각 벌금 1000만원을 선고했다고 29일 밝혔다. 정 판사는 또 산업안전보건법 위반과 업무상과실치사 혐의로 재판에 넘겨진 하청 업체 2곳과 임원 2명에게 각각 벌금 500만원과 700만원을 선고했다. &lt;br&gt;&lt;br&gt;A씨 등은 지난 2021년 8월 9일 인천 부평구의 한 주택 재개발 정비사업 공사장에서 안전관리를 소홀히 해 인명사고를 낸 혐의로 기소됐다. 당시 현장에서 타워크레인 작업을 하던 하청업체 소속 B(33)씨는 이동식 크레인 줄걸이(물건을 들어 올리는 장치)를 해체하고 사다리를 내려오던 중 21m 높이에서 추락해 병원으로 옮겨졌으나 숨졌다. &lt;br&gt;&lt;br&gt;B씨가 내려오던 사다리에는 안전 난간이 설치돼 있지 않았고, 추락을 막을 수 있는 안전대를 걸어 사용할 수 있는 설비도 없었던 것으로 조사됐다. 또 타워 크레인 설치 매뉴얼에 따라 작업 계획서를 쓰고 이에 맞춰 작업해야 하지만 지켜지지 않은 것으로 파악됐다. &lt;br&gt;&lt;br&gt;공사를 수주한 포스코이앤씨는 타워 크레인 임대업체와 21억원 상당의 용역 계약을 맺었고, 이 업체는 숨진 B씨가 소속된 타워 크레인 설치·해체 업체에 하도급을 줬다. 법원은 공사 도급인인 포스코이앤씨와 소속 현장 소장이 작업 계획서에 쓰인 타워 크레인의 설치 순서에 오류가 있는데도 제대로 확인하지 않는 등 안전 조치 의무를 제대로 이행하지 않았다고 판단했다.&lt;br&gt;&lt;br&gt;정 판사는 “피고인들은 추락할 위험이 있는 공사 현장에서 안전 난간 등을 설치할 의무가 있음에도 이를 게을리했다”며 “피해자가 숨지는 중대한 결과가 초래돼 책임이 무겁다”고 했다. 이어 “일부 피고인들이 범행을 자백하고 반성하는 점, 피해자 유족과 합의한 점, 피해자가 사다리를 불안정한 자세로 내려간 것도 사고 발생의 한 원인으로 볼 수 있는 점 등을 고려했다”고 양형 이유를 설명했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>민주당 원내대표와 보좌진의 폭로전…‘공짜 숙박권’은 영어로?</title>
       <link>https://www.chosun.com/national/education/2025/12/29/OXERU4FYWZCCTKSDLSQMZMWHMY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/29/OXERU4FYWZCCTKSDLSQMZMWHMY/</guid>
@@ -949,16 +958,6 @@
       <pubDate>Sun, 28 Dec 2025 18:00:00 +0000</pubDate>
       <content:encoded>더불어민주당 김병기 원내대표가 자신의 사생활 의혹 보도와 관련, “제보자는 과거 함께 일했던 전직 보좌 직원”이라며, “교묘한 언술로 공익제보자 행세를 하고 있다”고 주장했습니다. &lt;br&gt;&lt;br&gt;김 원내대표는 “2024년 12월 4일 계엄 사태 다음날 6명의 보좌 직원이 만든 ‘여의도 맛도리’라는 비밀 대화방을 알게 됐다”며 “가식적인 겉웃음 뒤에서 내란을 희화화하고, 여성 구의원을 도찰해 성희롱하고, 차마 입에 담긴 어려운 말로 저와 가족을 난도질하고 있었다”고 말했습니다.&lt;br&gt;&lt;br&gt;일반적인 ‘제보자’는 informant 또는 tipster라고 하지요. informant는 정보를 제공한다는 동사 inform에서 나온 단어입니다. 이에 비해 ‘공익 제보자’는 whistleblower라고 하는데, 경찰이 호루라기를 불어 경고하듯 조직 내 부정을 외부에 알리는 사람을 가리킵니다.&lt;br&gt;&lt;br&gt;‘전직 보좌 직원’은 former aide 또는 ex-staff member로 표현하면 되겠습니다. aide는 ‘보좌관/보좌 직원’이라는 뜻으로 프랑스어에서 유래했으며, 정치인이나 고위 공직자를 돕는 직원을 의미합니다.&lt;br&gt;&lt;br&gt;김 원내대표는 “12월 9일 6명 보좌 직원에게 직권면직을 통보했다”면서 “그들은 피해자이고 저는 가해자라는 왜곡된 서사는 용납할 수 없다”며 자신의 결백과 억울함을 하소연했습니다.&lt;br&gt;&lt;br&gt;‘직권 면직’은 dismissal by authority 또는 discretionary dismissal이라고 합니다. dismissal은 ‘해고/면직’, discretionary는 ‘재량의/임의의’라는 의미이지요.&lt;br&gt;&lt;br&gt;김 원내대표는 대한항공에서 받은 호텔 숙박 초대권에 대해선 “반환하겠다”, 베트남 방문 당시 대한항공으로부터 공항 의전 편의를 제공받았다는 의혹에 대해서는 “사실이 아니다”라고 주장했습니다.&lt;br&gt;&lt;br&gt;‘숙박 초대권’은 complimentary hotel voucher 또는 free accommodation pass라고 합니다. complimentary는 ‘무료의/무상으로 제공되는’, voucher는 ‘이용권/쿠폰’을 말하지요.&lt;br&gt;&lt;br&gt;‘의전 편의’는 protocol courtesies 또는 VIP treatment로 표현합니다. protocol은 그리스어 ‘protokollon’(첫 장에 붙이는 용지)에서 유래했으며, ‘의전/외교 규약’을 뜻합니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/XWJMBYP4IBF2PJUAJWTTEU2IV4.gif?auth=4b87579c4f3352a367eb295365018eab4bbc68da6a98ba36d643ec458087744a&amp;smart=true&amp;width=438&amp;height=328" type="image/jpeg" height="328" width="438"/>
-    </item>
-    <item>
-      <title>[오늘의 운세] 12월 29일 월요일 (음력 11월 10일 壬申)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/28/A6XGM2Z3VFABRCL7DVDIK27QN4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/28/A6XGM2Z3VFABRCL7DVDIK27QN4/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Sun, 28 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;p&gt;&lt;div class="chosun_unse"&gt;&lt;iframe src="https://image.chosun.com/arc/unse_iframe.html" frameborder="0" scrolling="no" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;&lt;/div&gt;&lt;style&gt;.chosun_unse{position:relative;width:100%;height:350px;box-sizing:border-box}.chosun_unse&gt;iframe{position:absolute;top:0;left:0;width:100%;height:100%;overflow-y:hidden}@media all and (max-width:1024px){.chosun_unse{height:350px}}@media all and (max-width:1023px){.chosun_unse{height:350px}}@media all and (max-width:528px){.chosun_unse{height:270px}}@media all and (max-width:384px){.chosun_unse{height:190px}}&lt;/style&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;img align="left" class="unse" src="http://news.chosun.com/img/200305/article/12ani01.gif"&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
   </channel>
 </rss>
