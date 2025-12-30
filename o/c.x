@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>경찰, 한학자 통일교 총재 등 ‘쪼개기 후원’ 혐의로 송치</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/30/WYBNFUFLOFHCLPRQMSYNU6OPEY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/WYBNFUFLOFHCLPRQMSYNU6OPEY/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 04:28:54 +0000</pubDate>
+      <content:encoded>통일교의 정치권 로비 의혹을 수사하고 있는 경찰이 정치인들에게 불법으로 쪼개기 후원을 한 혐의를 받는 한학자 통일교 총재와 통일교 간부들을 검찰에 넘겼다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE2TEZBVMQ2GGYZXGBSTQZTDG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재의 전 비서실장 정원주씨가 지난 28일 오전 서울 서대문구 경찰청 중대범죄수사과로 조사를 받기 위해 출석하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부 특별전담수사팀은 29일 한 총재, 윤영호 전 통일교 세계본부장, 정원주 전 통일교 총재 비서실장과 송광석 전 천주평화연합 회장 등을 정치자금법 위반 혐의로 검찰에 송치했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;이들은 2019년 초 여야 정치인들에게 불법으로 후원금을 전달한 혐의를 받는다. 경찰은 이들이 개인 명의로 후원금을 지급한 뒤 통일교 법인으로부터 돈을 보전받는 식으로 범행을 저질렀다고 보고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 한 총재를 지난 17일과 24일 조사했고, 윤 전 본부장에 대해선 지난 26일 체포영장을 집행해 구치소에서 강제 조사했다. 또 지난 24일과 26일 송 전 회장을 두 차례 불러 한학자 총재 등 정치권 로비에 대한 윗선 개입 여부를 추궁했고, 28일에는 정 전 실장을 조사했다. 지난 18일 1차 조사에선 참고인 신분이었던 정 전 실장은 두 번째 조사 때는 피의자 신분으로 전환됐다. &lt;br&gt;&lt;br&gt;수사팀은 이들의 정치자금법 위반 혐의 공소시효가 얼마 남지 않았다고 보고 이들 사건부터 송치한 것으로 전해졌다. 정치자금법 위반 혐의의 공소시효는 7년이다. &lt;br&gt;&lt;br&gt;경찰은 2018년 말 통일교로부터 현금 2000만원과 1000만원 상당의 명품 시계를 받은 혐의를 받는 전재수 민주당 의원에 대해선 수사를 이어가고 있다. 그러나 공소시효가 얼마 남지 않은 상태에서 물증 확보에 난항을 겪는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>현직 검사 “검찰청 폐지 법안, 기본권 침해” 헌법소원 청구</title>
       <link>https://www.chosun.com/national/court_law/2025/12/30/4X2DZJ3FYJEN3MJYSISSUNCYJQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/4X2DZJ3FYJEN3MJYSISSUNCYJQ/</guid>
@@ -937,15 +946,6 @@
       <description/>
       <pubDate>Mon, 29 Dec 2025 01:17:20 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UWMNIME5ORJIDGS3XNF332DFG4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;유철환 국민권익위원장. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;친부모가 기르기 어려운 상황에 놓인 아동을 대신 돌보는 위탁 가정이 다자녀 혜택을 받을 수 있게 될 것으로 전망된다.&lt;br&gt;&lt;br&gt;국민권익위원회는 위탁 가정이 전기·철도·공항 이용과 관련해 공공요금 다자녀 감면 혜택을 받을 수 있도록 관계 기관에 제도 개선을 권고했다고 29일 밝혔다.&lt;br&gt;&lt;br&gt;가정 위탁 제도는 친부모의 사망이나 실종, 학대 등으로 자녀가 정상적으로 양육될 수 없게 된 경우, 법령이 정하는 기준에 맞는 가정에 일정 기간 양육을 위탁하는 제도이다. 지난해 기준 아동 9477명이 위탁 가정에서 자라고 있다.&lt;br&gt;&lt;br&gt;권익위는 “중앙정부와 지방정부는 저출산 위기 극복을 위해 다자녀 가구에 대한 공공요금 혜택을 늘리고 있지만, 정작 아이를 실제 양육하고 있는 위탁 가정은 친부모·친자녀 관계가 아니라는 이유로 혜택에서 제외되는 경우가 많았다”고 지적했다.&lt;br&gt;&lt;br&gt;권익위는 앞서 2019년 도시가스와 지역난방 요금 감면 대상에 위탁아동을 포함하라고 권고했고, 관계 기관들이 관련 제도를 개선했다. 그러나 전기 요금과 철도 운임, 공항 주차장 주차 요금을 비롯한 다른 공공 요금과 관련해서는 여전히 위탁 아동이 ‘자녀 수’에 포함되지 않아, 위탁 아동을 다수 키우는 가정이나 친자녀와 위탁 아동을 함께 키우는 가정이 다자녀 혜택을 받지 못하고 있다고 권익위는 지적했다.&lt;br&gt;&lt;br&gt;이에 권익위는 전기 요금 다자녀 할인, KTX·SRT 다자녀 회원 운임 할인, 공항 주차 요금 다자녀 할인의 ‘자녀’ 범위에 위탁 아동을 포함하라고 한국전력공사와 한국철도공사, SR, 한국공항공사, 인천국제공항공사에 권고했다. 또 이런 요금 감면 제도가 실제로 쓰일 수 있도록 각사 홈페이지에 관련 기능을 탑재하라고 권고했다. 관계 기관들은 내년 말까지 관련 제도를 개선하기로 했다.&lt;br&gt;&lt;br&gt;유철환 국민권익위원장은 “아이를 사랑으로 품은 위탁 부모와 아동이 각종 복지 정책에서 소외되지 않도록 이번 제도 개선안을 마련했다”며 “앞으로도 권익위는 취약 계층과 복지 사각지대를 꼼꼼히 살피는 제도 개선을 이어가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“딱밤으로 기절시켜”... 경찰, 햄스터 학대한 작성자 수사</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/29/FNNFTAAU4BFQPPCWCBW2TQCG7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/29/FNNFTAAU4BFQPPCWCBW2TQCG7M/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 00:50:20 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HXKFET6XUFFNVD2PJBIUSYCNX4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 성동경찰서./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;햄스터를 비좁은 우리에 합사시킨 뒤 학대하는 과정을 담은 글이 온라인 커뮤니티에 올라와 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 성동경찰서는 지난 9일 동물자유연대로부터 게시글 작성자 A씨를 동물보호법 위반 혐의로 처벌해달라는 고발장을 접수했다고 29일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난 3월부터 이달까지 햄스터, 기니피그, 피그미다람쥐 등 여러 종류의 동물을 학대한 혐의를 받는다. &lt;br&gt;&lt;br&gt;그는 햄스터가 동족을 포식하는 습성을 가져 합사하면 서로 공격해 다치거나 죽을 수 있다는 사실을 알면서도 수개월간 비좁은 우리에 합사해 키운 것으로 전해졌다. &lt;br&gt;&lt;br&gt;합사한 동물들이 이상행동을 보이면 “개조한다”며 딱밤을 때려 기절시키는 등의 학대 행위도 적혀있던 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이같은 사실은 A씨가 피가 나거나 쓰러진 동물들의 모습을 촬영해 네이버 카페 등 온라인 커뮤니티에 올리고 SNS에서 실시간으로 방송하면서 알려졌다. &lt;br&gt;&lt;br&gt;A씨는 ‘무분별하게 합사시켜서는 안 된다’고 조언하는 글에 “이미 저승길 보냈어요”라고 댓글을 달기도 했다. A씨의 학대 행위가 알려지면서 2000여명이 그를 엄중하게 처벌해달라는 취지의 탄원서를 경찰에 제출한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;고발인 조사를 마친 경찰은 곧 사실관계 확인에 나설 예정이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>민주당 원내대표와 보좌진의 폭로전…‘공짜 숙박권’은 영어로?</title>
