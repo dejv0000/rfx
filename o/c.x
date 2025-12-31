@@ -13,6 +13,42 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘교사와 4억 문항 거래 혐의’ 현우진 “적법한 절차 따라 보수 지급” </title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 09:56:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI3TGNBZHA2DGM3EMJSTCYRSGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;현우진./메가스터디&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;거액을 주고 수학능력시험 모의고사 문항 등을 부정하게 거래했다는 혐의로 재판에 넘겨진 ‘일타 강사’ 현우진(38)이 “수능 문제를 유출하거나 거래한 사실은 없다”고 공개적으로 입장을 밝혔다. &lt;br&gt;&lt;br&gt;현우진은 31일 메가스터디 홈페이지를 통해 “수능 문제를 유출해 거래한 것처럼 보도하고 있지만 사실이 아니다”라며 이같이 밝혔다. &lt;br&gt;&lt;br&gt;다만 현직 교사 신분의 EBS 저자와 문항 거래가 있었느냐는 질문에 대해서는 사실이라고 인정했다. 현우진은 “문항 공모, 외부 업체를 포함해 다양한 문항 수급 채널 중 하나였을 뿐”이라며 “교사라는 이유로 프리미엄을 지급한 사실은 없다”고 했다. 이어 “문항을 제공한 교사들은 이미 시중 교재 집필 이력이 활발한 분들이었고, 오롯이 문항의 완성도를 기준으로 평가해 구매했다”고 설명했다.&lt;br&gt;&lt;br&gt;그는 현직 교사와의 문항 거래 자체가 부적절하다는 지적에 대해 “독점 계약이 아니었고, 해당 교사들은 이미 EBS와 시중 출판, 교과서 집필 등에 활발히 참여하던 인물들이었다”며 “적법한 절차에 따라 보수를 지급했다”고 말했다. 그러면서 “교사들로부터 이와 관련해 문제 제기를 받은 적도 없었고, 동일한 기준 아래 문항 확보가 이뤄졌다”고 덧붙였다.&lt;br&gt;&lt;br&gt;일각에서 제기된 ‘사교육 카르텔’ 의혹에 대해서도 부인했다. 현우진은 “카르텔이라는 표현이 무색할 정도로 인원이 적다”며 “현직 교사 3인을 두고 학연·지연에 기반한 카르텔로 보는 것은 무리”라고 했다. 이어 “문항 수급을 위해 무리한 절차를 밟은 적도 없다”고 했다.&lt;br&gt;&lt;br&gt;공교육 교사가 문항을 공급함으로써 특정 학생들에게만 이익이 돌아간다는 지적에 대해서도 사실이 아니라고 반박했다. 그는 “메가스터디는 전국 단위 수험생을 대상으로 온라인 교육을 하는 곳으로, 회원 가입만 하면 누구나 교재를 구매할 수 있다”며 “킬링캠프 모의고사 역시 강의 구매 없이 온라인으로 구매 가능했고 외부 판매도 진행돼 특정 집단에만 제공된 자료는 아니다”라고 설명했다.&lt;br&gt;&lt;br&gt;한편 검찰은 지난 30일 ‘일타강사’ 현우진과 조정식(43)을 현직 교사들에게 금품을 제공한 뒤 문항을 받은 혐의(청탁금지법 위반 등)로 불구속 기소했다.&lt;br&gt;&lt;br&gt;서울중앙지검 형사7부는 현우진이 2020~2023년 현직 교사 3명에게 문항을 만들어 달라며 약 4억원을 지급한 것으로 보고 있다. 조정식도 같은 기간 현직 교사 등에게 약 8000만원을 건네 문항을 받은 혐의를 받는다. 조정식에게는 EBS 교재 발간 전 문항을 미리 제공받으려 한 혐의(배임 교사)도 적용됐다. 검찰은 서울 강남 대형 입시학원인 시대인재와 강남대성도 같은 혐의로 기소했다. 교사는 직무와 관련 없이 한 사람에게 1회 100만원, 연간 300만원 이상 받으면 청탁금지법 위반이 적용되며, 교사에게 이같이 금품을 준 사람도 마찬가지다.&lt;br&gt;&lt;br&gt;현우진은 미국 스탠퍼드대 수학과를 졸업한 뒤 2010년 서울 대치동 학원가에서 강의를 시작했다. 문·이과 통합 기준 최다 온라인 수강생을 보유한 대표적인 일타 강사로, 연봉이 수백억 원대에 이르는 것으로 알려져 있다. 조정식은 메가스터디 소속 영어 강사로, tvN 예능 프로그램 ‘유 퀴즈 온 더 블록’ 출연을 통해 대중적 인지도도 쌓았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>檢, 3년 전 음주운전자 보완수사 거쳐 불구속 기소</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/DV5JUIJU65AOVGMGW55CP4X4IE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/DV5JUIJU65AOVGMGW55CP4X4IE/</guid>
+      <dc:creator>김병권 기자, 임희재 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 10:09:05 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIWWN2ZBW2EV7Z2KMSW46TRPEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년 전 만취 상태로 운전을 하다가 건물을 들이받은 음주운전자가 검찰의 보완수사 끝에 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 인권보호부(부장 김종필)은 지난 30일 도로교통법위반(음주운전) 혐의를 받는 A씨를 불구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 7월 9일 혈중알코올농도 0.206%의 만취 상태로 운전을 하다 건물을 들이받은 혐의를 받는다. A씨는 경찰 조사에서 ‘차량 내 집 열쇠를 찾던 중 실수로 가속페달을 밟았다’고 주장했고 당시 경찰은 이를 받아들여 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;3년이 지나 최근 사건을 넘겨받은 검찰은 재수사를 요청했고, 경찰은 이번엔 기소 의견으로 사건을 송치했다. 이후 검찰은 직접 폐쇄회로(CC)TV 영상 등 증거에 대한 보완수사를 거쳐 혐의를 입증한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 서울남부지검 형사6부(부장 이경민)는 하수도 보강 공법을 선정하는 과정에서 특정 업체에 특혜를 주고 뇌물을 받았다는 혐의(부정처사 후 수뢰)로 송치된 전직 서울 시내 A 구청 과장급 공무원에게는 보완수사를 거쳐 지난 30일 무혐의 처분을 내린 바 있다.&lt;br&gt;&lt;br&gt;이 공무원은 2018년 한 업체에 특혜를 준 뒤 이듬해 퇴직하고 약 2000만원을 수수한 혐의로 2023년 검찰에 넘겨졌다. 당시 공법 선정에 관여한 중요 참고인에 대한 조사가 이뤄지지 않아 검찰이 보완수사를 요구했으나 경찰 측에서 조사 없이 기소 의견으로 재송치를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 검찰은 보완수사를 통해 직접 주요 참고인을 조사했고, 선정 과정에서 특정 업체에 유리하도록 영향력이 행사되진 않았다는 판단을 내렸다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후에도 철저한 사법통제 역할 및 형사 사건의 실체적 진실 발견이라는 검찰 본연의 업무를 충실히 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 공무원은 2019년 한 업체에 특혜를 주고 2천만원&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘통일교 쪼개기 후원’ 송광석 기소... 검찰, 한학자는 보완 수사 요구</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 08:30:49 +0000</pubDate>
+      <content:encoded>검찰이 여야 정치인 11명에게 불법 정치 자금을 건넨 혐의를 받는 통일교 핵심 관계자 송광석 전 천주평화연합(UPF) 회장을 31일 불구속 기소했다. 경찰이 송 전 회장 등을 검찰에 넘긴 지 하루 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMNLDGBRTGZTCMVRDGNLBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송광석 전 천주평화연합(UPF) 회장(사진 왼쪽)이 경찰 조사를 받기 위해 지난 26일 오후 서울 서대문구 경찰청 청사에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 송봉준)는 이날 정치자금법 위반 혐의를 받는 송 전 회장을 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;송 전 회장은 통일교 관련 단체인 천주평화연합 단체의 자금 1300만원을 여야 국회의원 11명에게 쪼개기 후원한 혐의를 받는다. 검찰은 다만 송 전 회장과 함께 공범으로 송치된 한학자 총재와 윤영호 전 통일교 세계본부장, 정원주 전 총재 비서실장 등에 대해서는 경찰에 보완 수사를 요구했다.&lt;br&gt;&lt;br&gt;한 총재 등 3명에 대한 공소시효는 내년 1월 2일까지지만, 송 전 회장이 기소되면서 이들에 대한 공소시효도 함께 정지됐다. 경찰은 전날 송 전 회장 등 4명을 검찰에 송치한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, 구치소서 불법 성기 확대 시술한 MZ 조폭 기소</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/31/5HURL26USBCUXBYK2IZH2IKBLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/5HURL26USBCUXBYK2IZH2IKBLU/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 08:44:45 +0000</pubDate>
+      <content:encoded>구치소에서 함께 생활하던 수감 동기에게 강제로 불법 성기 확대 시술을 한 이른바 ‘MZ 조폭’이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YU3ODIX5DBOQVMTBXZVE3LOZ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 19일 서울 서초구 서울중앙지검의 검찰 로고가 보이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공판4부(부장 정대희)는 31일 폭력행위 등 처벌에 관한 법률·의료법 위반 혐의를 받는 조직폭력배 출신 A(32)씨 등 4명을 불구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 특수협박죄 등으로 형이 확정돼 구치소에서 생활하던 중, 같이 지내던 수감 동기 B(27)씨에게 “말을 듣지 않으면 왕따를 시키겠다”며 겁을 주면서 반항을 억압한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 함께 지내던 다른 수감 동기들에게 성기 시술 방법을 상세히 알려준 뒤, B씨의 음경에 이물질을 주입하는 방식으로 강제로 성기 확대 시술을 한 혐의를 받는다. 또 다른 수감 동기는 교도관의 감시를 피할 수 있도록 거울로 망을 보며 범행을 도운 혐의를 받는다. 이들의 범행으로 B씨는 음경 농양 등 중한 상해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 B씨가 성기에 약물을 주입했다면서 염증을 호소하며 검찰에 형 집행정지를 신청하자, 그 경위에 의문을 품고 직접 수사에 나섰다. 검찰에 따르면, 사회에서 조직폭력배로 활동한 A씨 등은 폐쇄적인 수용 시설 내에서 위세를 과시하고 지위를 공고히 하기 위해 조직적으로 동료 수용자에게 가혹행위를 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자 B씨에게 치료비 지원 등 피해자 보호 조치를 실시했다”며 “수용 시설 내에서 발생한 조직적 폭력과 불법 의료행위에 대해 엄정하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>정성호 법무장관 “올해 검찰개혁 토대 마련...새로운 검찰로 거듭나자”</title>
       <link>https://www.chosun.com/national/court_law/2025/12/31/CRNPCDZSRFHKRPK3BNDRZQPX34/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/CRNPCDZSRFHKRPK3BNDRZQPX34/</guid>
@@ -860,15 +896,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJANNNROYJBW3DZC2JCGPTAXPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 중소벤처기업인증원과 인천교통공사 관계자들이 인권경영시스템(HRMS) 인증서와 인증 현판을 들고 기념촬영을 하고 있다. /중소벤처기업인증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중소벤처기업인증원(이하 인증원)은 인천교통공사가 ‘인권경영시스템(HRMS)’ 인증을 획득했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;인권경영시스템 인증은 인권 존중 정책을 수립하고 국제 기준에 부합하는 실행 체계를 갖춘 조직에 부여된다. 인증원이 UN 국제인권선언과 국가인권위원회 공공기관 인권경영 가이드라인 등을 토대로 만들어 2023년부터 운용하고 있다. 지금까지 화성시, 코레일 등 40여 개 공공기관이 인권경영시스템 인증을 획득했다.&lt;br&gt;&lt;br&gt;인증원은 인천교통공사의 경우, 2018년 인권경영을 도입하고 인권 침해 구제 절차 구축, 인권경영 간담회·특강 등 다양한 활동을 한 부분이 높게 평가됐다고 강조했다. &lt;br&gt;&lt;br&gt;엄진엽 중소벤처기업인증원 원장은 “인천교통공사가 도시철도 운영 기관 중 가장 선도적인 모범 공공기관으로 도약하길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>함안 제지공장서 50대 근로자 500㎏ 철제 발판에 깔려 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/3VGV247TPJEZ3PWGWSR2PNOMTM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/3VGV247TPJEZ3PWGWSR2PNOMTM/</guid>
-      <dc:creator>함안=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 06:56:26 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA3TEODGMVRDAMTFMVSTGNJRMU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 오전 9시 50분쯤 경남 함안군 칠서공단 한 제지공장에서 50대 근로자가 무게 500kg 철제 발판에 깔려 숨지는 사고가 났다. &lt;br&gt;&lt;br&gt;경남 함안경찰서에 따르면 당시 A씨는 공장 안에서 철제 발판을 설치하던 작업을 하고 있었다. 그러던 중 약 5m 높이 천장 크레인에 연결돼 있던 무게 500kg짜리 철제 발판이 A씨를 덮쳤다.&lt;br&gt;&lt;br&gt;A씨는 머리 등을 크게 다쳐 병원으로 이송됐으나 숨졌다.&lt;br&gt;&lt;br&gt;당시 공장에서는 철제 발판 양쪽을 줄(슬링 벨트)로 천장 크레인에 매달아 옮기던 중이었다. 그러나 알 수 없는 이유로 구조물과 천장 크레인에 연결된 한쪽 줄이 끊어지면서 사고가 난 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 공장 관계자 등을 상대로 정확한 사고 원인을 조사중이다.&lt;br&gt;&lt;br&gt;노동부도 중대재해처벌법·산업안전보건법 위반 여부 등을 확인하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>내년 2월부터 ‘재판기록 예약제’ 전국 법원 시행… 소상공인 파산 지원도 확대</title>
       <link>https://www.chosun.com/national/court_law/2025/12/30/RPPSIFCKO5DL5AUO6QFMNVEBCU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/RPPSIFCKO5DL5AUO6QFMNVEBCU/</guid>
@@ -876,24 +903,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 06:51:52 +0000</pubDate>
       <content:encoded>일부 법원에서 자체 실시하고 있는 재판기록 열람·복사 예약 신청 제도가 내년 2월 1일부터 전국 각급 법원으로 전면 확대 시행된다. 대법원은 이런 내용을 포함한 ‘2026년 상반기 달라지는 사법 제도’를 30일 발표했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MIZGGNBXMU4TSYRYGMZTOMLDMM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;그동안 재판장 허가나 비실명 처리가 필요한 재판기록의 경우, 또는 담당 재판부가 재판 중일 때 열람·복사를 신청하면 대기 시간이 길어지거나 당일 처리가 어려운 사례가 적지 않았다. 이로 인해 민원인이 법원을 다시 방문해야 하는 불편도 발생했다.&lt;br&gt;&lt;br&gt;대법원은 “특히 원격지 법원을 찾았다가 당일 열람·복사가 불가능한 상황이 발생하면 민원인이 감수해야 할 시간과 비용 부담이 컸다”며 “향후 제도 시행에 따라 이러한 문제점이 상당 부분 해소돼 국민의 재판기록 열람·복사 편의에 기여할 수 있을 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇‘연매출 3억 이하 소상공인’ 개인파산 지원 확대&lt;/b&gt;&lt;br&gt;&lt;br&gt;내년 2월 1일부터 ‘연 매출 3억원 이하’ 소상공인도 개인파산·개인회생 사건에서 변호사 비용과 송달료, 파산관재인 선임 비용 등을 지원받을 수 있다. 파산관재인은 법원이 선임해 파산자의 재산을 대신 관리하고 처분해 채권자들에게 공평하게 나눠주는 역할을 한다. 대법원은 “경제적 어려움을 겪는 소상공인 채무자의 개인도산 절차 접근성을 높여 재기를 돕는 데 기여할 것 것”이라고 했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇가등기권리자, 이제 ‘최고서’ 받기 쉬워진다&lt;/b&gt;&lt;br&gt;&lt;br&gt;내년 1월 1일부터는 가등기권리자 관련 전산 시스템이 개선된다. 경매 절차에서 집행법원 담당자가 이해관계인 명단에 가등기권리자를 입력하면, 현황조사명령서에 가등기권리자 현황이 자동으로 표시되도록 바뀐다. 가등기권리자는 앞으로 부동산 소유권이나 다른 권리를 취득할 수 있도록 미리 가등기를 해둔 사람을 말한다. 대법원은 “가등기권리자에 대한 최고서(통지서) 수령 가능성을 높일 수 있어 가등기권리자의 권리를 실질적으로 보장할 것으로 예상된다”고 했다.&lt;br&gt;&lt;br&gt;이밖에 미성년 시기 자녀에 대한 부양 의무를 저버린 부모는 상속권을 갖지 못하도록 하는 일명 ‘구하라법’도 내년 1월부터 시행된다. 또 내년 3월에는 대전·대구·광주에 회생법원이 새로 설치돼 모든 고등법원 권역에 회생법원이 들어서게 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울시, 한강버스 지적사항 개선... “내년 1월 전구간 운항 재개”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/4GC2G4FRXBCQPIMGFEK7RVHSGI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/4GC2G4FRXBCQPIMGFEK7RVHSGI/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 05:56:49 +0000</pubDate>
-      <content:encoded>서울시는 행정안전부의 ‘한강버스 안전관리 실태 합동 점검’에서 나온 지적 사항을 개선하고 조치 결과를 행안부에 제출했다고 30일 밝혔다. 앞서 행안부는 지난달 21~26일 합동 점검을 진행해 총 120건의 지적사항을 서울시에 고지했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PH6Z2W7YDRKEFNOGM6TFB3ZKPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한강버스가 서울 영등포구 여의도선착장에 들어서고 있는 모습./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시는 120건의 지적사항(규정 위반 28건, 유지관리 미흡 39건, 개선 권고 53건) 중 89건(규정 위반 21건, 유지관리 미흡 23건, 개선 권고 45건)은 개선했고 30건은 내년 3월까지 개선할 계획이다. 나머지 1건은 내년 말까지 조치한다.&lt;br&gt;&lt;br&gt;구체적으로 보면, 선착장 분야 지적사항 가운데 28건은 내년도 예산을 집행해 3월 말까지 조치할 계획이다. 선착장 난간을 높이고 간격을 조정하는 것 등이다.&lt;br&gt;&lt;br&gt;항로·비상대응 분야 지적사항 가운데 해결되지 않은 2건(교각등 추가 설치 등)은 내년 3월 말 개선한다는 목표다.&lt;br&gt;&lt;br&gt;선박 접·이안 시 선장이 선착장과 승객 동선을 직접 확인할 수 있도록 선박 내 감시카메라 모니터를 설치하라는 지적은 내년도 선박 정기 검사 때 순차적으로 반영하기로 했다.&lt;br&gt;&lt;br&gt;서울시는 “정부 지적 사항에 더해 자체적인 운항 안전성 확보 방안을 마련했다”며 “최종적인 항로 점검 운항을 시행한 후 내년 1월 중 한강버스 전 구간 운항을 재개할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;박진영 서울시 미래한강본부장은 “시민들이 더욱 안심하고 이용할 수 있는 수상교통 환경을 만들겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“재판 전 접견 못해”... 부산변호사회 국가 상대 손배소 제기</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/K7BYYCIUGVER7K3OG7GE6GVXA4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/K7BYYCIUGVER7K3OG7GE6GVXA4/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 06:29:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4PBGVFWUL5GMTHZD7VSF3KTROU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김용민 부산지방변호사회 회장이 30일 구치소 변호인 접견권 실태조사 및 공익소송 기자회견에서 발언하고 있다. /권태완 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산지방변호사회(부산변회)가 “구속된 수감자들에 대해 변호인 접견권이 충분히 보장되지 않는다”며 국가를 상대로 소송을 제기했다. 접견 관련 문제로 집단소송을 제기한 것은 부산변회가 처음이다.&lt;br&gt;&lt;br&gt;부산변회는 30일 대한민국을 상대로 3900만원 상당의 손해배상 소송장을 부산지법에 제출했다고 밝혔다. 소송에는 부산변회 소속 회원 39명이 참여했다. 손해배상 금액은 1인당 100만원으로 책정했다. 부산변회 관계자는 “접견권 침해 횟수와 침해 정도 등 피해 범위를 구체화할 예정”이라면서 “추후 손해배상액이 증액될 것으로 보인다”고 했다.&lt;br&gt;&lt;br&gt;부산변회에 따르면, 2021년 5월 법무부는 구치소·교도소 등 교정 시설의 변호인 접견 신청을 온라인 직접 예약 방식으로 일원화했다. 이전에는 이메일이나 팩스로 접견 신청서를 제출한 뒤 일정을 확정받는 방식이었다. 당일 신청·접견도 가능했다. 빈 접견실이 있다면 사실상 언제든 수감자와 접견이 가능했다.&lt;br&gt;&lt;br&gt;하지만 현재는 당일 접견 신청이 불가능하다. 긴급한 경우에는 교정 시설 재량으로 당일 신청을 받지만, 이마저도 구체적인 기준이 없다고 부산변회는 지적했다. 또 접견 예약 신청은 30분 단위로 가능하고, 그마저도 오후 5시까지로 제한돼 과거보다 접견을 하기가 어려워졌다고 한다.&lt;br&gt;&lt;br&gt;이와 관련해 부산변회가 최근 소속 회원 255명을 상대로 설문을 진행한 결과, 약 84%가 ‘과거에 비해 접견 과정이 불편해졌다’고 응답했다. 접견 신청일부터 실제 접견이 이뤄지기까지 걸린 시간이 ‘6일 이상’이라고 답한 회원이 전체 회원의 67%인 171명이었다.&lt;br&gt;&lt;br&gt;부산변회 관계자는 “지역마다 차이가 있지만 부산에서 유독 접견이 어렵다는 목소리가 많다. 부산구치소의 과밀 문제로 추정된다”고 했다. 실제로 이날 부산변회 소속 변호사가 부산구치소에 접견 신청을 진행했으나, 내년 1월 12일까지 접견 예약이 가득 차 있어 불가능했다. &lt;br&gt;&lt;br&gt;부산변회는 부산구치소의 접견 관련 문제가 잇따라 제기되고 있다고 했다. 한 변호사는 접견 예약이 어려워 피고인을 접견하지도 못한 채로 공판 기일에 출석하는 경우가 잦다고 했다. &lt;br&gt;&lt;br&gt;또 의뢰인 의사와 상관없이 변호인이 관할 법원에 항소장을 제출하는 사례도 있는 것으로 알려졌다. 1심 선고 이후 기한 내에 항소장을 제출해야 하지만 그 사이 접견 예약이 불가능해 일단 항소장부터 법원에 낸 뒤 의뢰인에게 항소 의사를 확인하는 것이다.&lt;br&gt;&lt;br&gt;김용민 부산변회 회장은 “현행 제도가 헌법상 보장된 기본권인 ‘변호인 접견권’을 과도하게 침해한다”면서 “조속한 제도 개선을 촉구하는 차원에서 대한민국을 상대로 손해배상 청구 소송을 제기하게 됐다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>현직 검사 “검찰청 폐지 법안, 기본권 침해” 헌법소원 청구</title>
@@ -912,15 +921,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 01:55:59 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDSZJVGJRTOZTGGEZWGN3FMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올리버쌤. /유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;높은 세금과 부족한 의료 서비스 등을 지적하며 미국 생활을 포기하겠다고 밝혀 이목을 끈 구독자 225만 유튜버 올리버쌤이 한국 의료 복지 시스템에 무임승차하려 한다는 일각의 비판을 받자 “한국행을 결정한 적 없다”고 반박했다.&lt;br&gt;&lt;br&gt;올리버쌤은 28일 자신의 유튜브 채널을 통해 “저희 가족이 한국의 의료 시스템을 무임승차하겠다는 것처럼 오해를 빚어 부정적인 댓글을 많이 받고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “저희는 미국 텍사스에 처한 저희 가족 상황을 영상으로 공유하고 고민을 나누었을 뿐, 구체적인 행방 결정을 내린 적도, 한국을 언급한 적도 없다”며 “이미 정말 어려운 시기를 보내고 있기에 날 선 댓글이 더 마음 아프게 느껴진다”고 했다.&lt;br&gt;&lt;br&gt;앞서 올리버쌤은 지난 26일 공개한 ‘한국인 와이프와 미국 이민 8년 차… 이제는 진짜 포기합니다’라는 제목의 영상을 통해 8년 만에 미국 생활을 포기한다고 밝혔다. 이유로는 높은 세금과 빈번해진 자연재해, 부족한 의료 서비스 등을 들었다. 특히 의료 서비스와 관련해 월 400만원에 가까운 의료보험료를 내고도 적절한 의료 서비스를 받지 못하고 있다고 토로했다. 올리버쌤은 “인플레이션, 특히 병원 문제 때문에 마음을 확실히 먹었다”며 “이 이민 생활을 끝내야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;올리버쌤은 미국인 유튜버로, 한국에서 영어 강사로 활동하다 2018년 미국 텍사스로 돌아갔다. 2016년 한국인 아내와 한국에서 결혼식을 올렸다.&lt;br&gt;&lt;br&gt;한국에서 활동한 적이 있는 데다 아내가 한국인이라는 점 때문에 올리버쌤이 가족과 한국으로 돌아올 것이라는 확인되지 않은 이야기가 퍼졌고, 이에 ‘건강보험 무임승차’ 논란이 일었다. 올리버쌤이 영상에서 미국 의료 시스템에 불만을 강하게 제기한 만큼 의료 복지가 상대적으로 잘 갖춰진 한국에 오려는 것 아니냐는 의견이 일부 네티즌 사이에서 나온 것이다. &lt;br&gt;&lt;br&gt;피부양자 자격으로 건강보험료를 내지 않는 경우에도 건강보험 혜택을 받을 수 있다는 점 때문에 외국인 및 재외국민 건강보험 무임승차 논란은 지속되온 바 있다. 다만 제도적 허점을 이용한 사례가 잇달아 적발되면서, 작년 4월부터 외국인은 원칙적으로 국내에 6개월 이상 거주해야 피부양자 자격을 취득할 수 있도록 요건이 강화됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘전재수 시계’ 1000만원 넘나… 가격 따라 공소시효 달라져</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/47EDIBPKBFCIJJ257N3JHEZ75Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/47EDIBPKBFCIJJ257N3JHEZ75Y/</guid>
-      <dc:creator>김명진 기자</dc:creator>
-      <description/>
-      <pubDate>Mon, 29 Dec 2025 15:47:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GA2TGZBVGU3TQOJXGBRWGYRQMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;통일교 금품수수 의혹을 받는 더불어민주당 전재수 의원이 지난 19일 서울 서대문구 경찰청 국가수사본부로 조사받기 위해 출석하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통일교의 정치권 로비 의혹을 수사하는 경찰이 통일교 측이 더불어민주당 전재수 의원에게 전달했다는 ‘불가리’ ‘까르띠에’ 시계의 가액(價額)을 산정하는 데 집중하고 있는 것으로 29일 알려졌다. 시곗값이 1000만원을 넘느냐, 아니냐에 따라 공소시효가 달라진다고 보기 때문이다.&lt;br&gt;&lt;br&gt;경찰은 전 의원을 2018년 무렵 통일교 측으로부터 현금 2000만원과 1000만원 상당의 불가리 명품 시계 1점을 받은 정치자금법 위반 및 뇌물 수수 혐의로 입건했다. 지난 8월 윤영호 전 통일교 세계본부장이 특검 조사에서 “통일교 측이 ‘한일 해저터널 건설’ 관련 청탁을 하며 전 의원에게 현금 4000만원과 1000만원 상당의 불가리·까르띠에 시계 2점을 전달한 것으로 안다”고 진술한 것이 수사 단서가 됐다. 사건이 특검에서 경찰로 넘어온 뒤, 전 의원의 금품 수수 혐의 총액이 절반가량 줄어든 데 대해 경찰은 별다른 입장을 밝히지 않고 있다.&lt;br&gt;&lt;br&gt;이번 수사의 가장 큰 문제는 금품 수수 시점이 불명확해 공소시효가 지났을 수 있다는 점이다. 윤씨 진술대로 2018년 금품이 전달됐다면, 정치자금법 위반죄는 이미 공소시효 7년이 지났거나 오는 31일로 시효가 만료된다. &lt;br&gt;&lt;br&gt;다만 뇌물죄의 경우 금액에 따라 공소시효가 달라진다. 1억원 이상이면 15년, 3000만~1억원은 10년, 3000만원 미만이면 7년의 공소시효가 적용된다. 이 때문에 경찰이 시곗값이 1000만원을 넘는지, 아닌지 확인하고 있는 것이다. 박성주 경찰청 국가수사본부장은 최근 기자간담회에서 “공소시효가 있어 사건을 받은 후 하루도 쉬지 않고 수사 중”이라고 했다.&lt;br&gt;&lt;br&gt;통일교 간부들이 작성했다는 이른바 ‘TM(True Mother·참어머니라는 뜻으로 한학재 총재를 지칭) 보고’ 문건을 보면, 전 의원이 통일교 측과 면담한 날짜가 ‘2018년 12월 27일’ ‘2019년 1월 7일’ 등으로 특정돼 있지만, 이때 금품이 전달됐는지는 확인되지 않았다.&lt;br&gt;&lt;br&gt;시곗값이 1000만원이 넘는다는 사실을 입증하면, 경찰은 공소시효 압박에서 벗어날 가능성이 커진다. 금품 수수 총액이 3000만원(현금 2000만원+시계 1000만원)을 넘으면 특정범죄가중처벌법이 적용돼 공소시효가 10년으로 길어지기 때문이다. 경찰은 지난 23일 불가리코리아·까르띠에코리아 본사를 압수 수색해 관련 자료를 확보했다. 경찰 고위 관계자는 “통일교가 구매한 시계 금액, 전 의원에게 전달된 시점 등 기초 사실을 명확하게 따져보면서 공소시효 도과 여부를 판단하고 있다”고 전했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘과 톱급’ 학생들도 몰려온다... 대학가에 부는 철학과 열풍</title>
