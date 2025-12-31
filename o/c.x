@@ -13,6 +13,82 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>조폭 잡는 검사… ‘범죄와의 전쟁’ 모델, 조승식 前 대검 강력부장 별세</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 12:43:28 +0000</pubDate>
+      <content:encoded>영화 ‘범죄와의 전쟁’ 속 검사 캐릭터의 모델로 알려진 조승식 전 대검찰청 강력부장이 지난 30일 새벽 별세했다. 향년 73세.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7DDILPA2M6X56PCB7YRSIU4XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조승식 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 홍성 출신인 조 전 부장은 대전고·서울대 법대를 졸업하고 1977년 제19회 사법시험에 합격했다. 1979년 검사 생활을 시작해 대검찰청 강력부장과 마약·조직범죄부장, 형사부장 등을 거치며 ‘조폭 잡는 검사’로 불렸다. &lt;br&gt;&lt;br&gt;조 전 부장은 1981년 전주지검 군산지청에서 근무하면서 ‘조폭과의 전쟁’을 시작했다. 주요 부임지마다 유명 조폭을 소탕해 조폭들이 그를 ‘악질 검사’라고 부른다는 말이 나올 정도였다. &lt;br&gt;&lt;br&gt;1990년 5월에는 서울 동부이촌동의 한 사우나 앞에 실탄을 장전한 권총을 차고 잠복해 있다가 당대 최고의 범서방파 조폭 두목 김태촌씨의 허리춤을 붙잡아 체포했다. 그는 당시 “경찰이 총을 쏘면 과잉 대응 논란이 끊이지 않았다. 내가 직접 현장 상황을 판단해서 총을 쏠지 말지 결정하되 이후 책임을 지려 그랬다”고 권총을 차고 간 이유를 설명했다.&lt;br&gt;&lt;br&gt;조 전 부장은 영화 ‘범죄와의 전쟁’ 속 강골 검사 조범석의 모델로도 알려져 있다. 영화 제작 과정에서 감독이 여러 차례 그를 찾아가 조언을 구한 것으로 알려졌다. 조 전 부장은 조폭 수사에 매진한 이유에 대해 “나쁜 놈들이기 때문”이라고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;이 외에도 호남 조폭 대부로 불린 이육래, 마카오 원정 도박 조직 두목 이석권 등 다수의 유명 조폭을 검거했다. 검찰 재직 당시 검도 6단으로 조직 내 ‘최고수’로 꼽혔고, 명예 7단으로도 위촉됐다. 검사장으로 승진해 대검 참모로 근무할 때 강력부장 사무실에는 미니 야구방망이와 칼을 둘 정도로 ‘강력통’ 검사로서의 자부심이 강했다는 평가다. &lt;br&gt;&lt;br&gt;2008년 검사에서 퇴직한 뒤로는 변호사로 활동했다. 퇴직 당시 인터뷰에서 조 전 부장은 “그동안 멋있는 조폭이 있는지 찾아봤지만 제대로 남자다운 사람은 못 봤다”며 “조폭은 평소에는 신사인 척하지만, 금전적 이권을 놓고 싸움이 붙으면 못된 근성이 나온다. 돈을 벌 때 공짜로 벌기 때문에 씀씀이도 크다”고 했다. &lt;br&gt;&lt;br&gt;2016년 최순실 국정농단 사건을 수사할 특별검사 후보로 박영수 변호사와 함께 추천됐으나, 본인이 고사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;유족으로 아들 조용빈·조용준씨 등이 있다. 빈소는 서울성모병원. 발인은 2일 4시 30분. (02)2258-5940&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘치과의사’ 이수진, 치과 폐업 후 근황 “고양이 치료비 걱정할 줄은…”</title>
+      <link>https://www.chosun.com/national/people/2025/12/31/XFZEOYSTANCX5B52KBHCWTKZLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/31/XFZEOYSTANCX5B52KBHCWTKZLA/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 12:48:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2LV5323GZB33NHA45CRHN2NBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘동안 치과의사’로 유명한 크리에이터 이수진(58)./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘동안 치과의사’로 알려진 크리에이터 이수진(58)이 치과 폐업 이후 생활고를 겪고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이수진은 지난 30일 인스타그램에 “58살을 맞이하는 기분?”이라는 글을 사진과 함께 올렸다. 그는 “나도 내가 이 나이에 버스 타고 다니며 고양이 치료비 걱정할 줄 꿈에도 몰랐다”며 “열심히 살지 않은 적은 거의 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “나도 지난 세월 무슨 일 있었던 건지 모르겠다. 추락하는 데엔 날개가 없다고, 공중 부양하다가 땅속으로 꺼져버렸다. 겨우 기어 나와 하나님만 바라보고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “이런 나를 아직도 응원해 주고 기도해 주는 분들이 있다는 데에 감사한다”며 “건강이 좋지 않아 빨리 끝났으면 했지만, 아직 이 땅에서 세월 보내고 있으니 올인할 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;서울대 치과대학 출신인 이수진은 서울 강남에서 치과를 운영해왔으나 지난해 5월 폐업했다. 그는 당시 “최근 출소한 스토커의 지속적인 스토킹으로 치과를 폐업하게 됐다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;폐업 당시 그는 라이브 방송을 통해 “안전이 우선이다. 다른 스토커도 있어서 경찰에 신고하느라 정신이 없다”며 “잘 견디는 척하는 거다. (신경) 안정제를 먹을 때도 있다. 매일 집에서 지낸다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>제2경인고속도로서 차량 3대 추돌... 1명 사망·1명 부상</title>
+      <link>https://www.chosun.com/national/regional/2025/12/31/7PAX6YQKYZFJDEK72ZIH73OEGY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/7PAX6YQKYZFJDEK72ZIH73OEGY/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 13:03:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSIDVVV3GZHV3GCL3XZIG4YJGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안양시 제2경인고속도로에서 추돌 사고가 발생해 1명이 숨지고, 1명이 다쳤다.&lt;br&gt;&lt;br&gt;31일 소방 당국 등에 따르면, 이날 오후 8시 4분쯤 경기 안양시 만안구 제2경인고속도로 석수 나들목 인근에서 공항 버스와 승합차, SUV 등 차량 3대가 잇따라 부딪혔다.&lt;br&gt;&lt;br&gt;이 사고로 승합차에 불이 붙으면서 전소됐고, 운전자는 미처 빠져나오지 못해 숨졌다고 한다. 또 SUV 운전자는 경상을 입고 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;공항버스에는 외국인 승객 6명이 타고 있었으나 부상자는 없는 것으로 알려졌다. 소방 당국은 장비 14대와 대원 등 38명을 투입해 차량 화재를 20여 분 만에 진화했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘왕따’ 누명 벗은 김보름 은퇴...“포기하지 않은  선수로 기억되길”</title>
+      <link>https://www.chosun.com/national/people/2025/12/31/SAESXBIV7JDFDCOY42HLDNA5D4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/31/SAESXBIV7JDFDCOY42HLDNA5D4/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 11:13:46 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GNRWMNJQHBSWEMBUMM3DSZRVMY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;평창 올림픽 여자 매스스타트 결승 경기에서 은메달을 땄던 김보름./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2018 평창 동계올림픽 스피드스케이팅 여자 매스스타트 은메달리스트 김보름(32)이 은퇴를 선언했다.&lt;br&gt;&lt;br&gt;김보름은 지난 30일 인스타그램에 “열한 살에 처음 스케이트를 시작해 2010~2024년 국가대표로 얼음 위에 서며 인생의 대부분을 보냈다”며 “올해를 마지막으로 선수 생활을 마무리하고 은퇴를 결정했다”고 남겼다.&lt;br&gt;&lt;br&gt;그는 “어린 시절 얼음 위에 처음 발을 디뎠던 날부터 스케이트는 제 삶의 전부였다. 꿈을 따라 멈추지 않고 달려오며 올림픽, 아시안게임, 세계선수권이라는 값진 무대와 소중한 순간들을 만날 수 있었다”고 했다. &lt;br&gt;&lt;br&gt;이어 “선수 생활은 여기서 마무리하지만 스케이트를 향한 마음은 여전히 제 안에 남아 있다”며 “운동을 통해 배운 마음가짐으로 새로운 곳에서도 흔들림 없이 제 길을 가겠다”고 덧붙였다. &lt;br&gt;&lt;br&gt;김보름은 “많은 어려움과 좌절 속에서도 끝까지 포기하지 않았던 선수로 기억된다면 그것으로 충분하다”며 글을 마무리했다.&lt;br&gt;&lt;br&gt;1993년생인 김보름은 2007년 쇼트트랙 선수 생활을 시작했다. 2010년 롱트랙(스피드스케이팅)으로 전향하고 두각을 나타냈다. 그는 2011년 카자흐스탄 아스타나-알마티 동계 아시안게임 여자 3000ｍ에서 은메달을 목에 걸며 이름을 알렸다.&lt;br&gt;&lt;br&gt;이후 김보름은 2012년 도입된 매스스타트 종목에서 성과를 냈다. 2017년 강릉에서 열린 국제빙상경기연맹(ISU) 종목별 세계선수권대회 여자 매스스타트에서 금메달을 따내며 정상급 반열에 올랐고, 2018년 평창 동계올림픽에선 여자 매스스타트가 처음 정식 종목으로 채택된 가운데 은메달을 획득했다.&lt;br&gt;&lt;br&gt;다만 평창 올림픽 당시 여자 팀추월에선 이른바 ‘왕따 주행’ 논란이 불거지며 비난을 받았다. 동료 선수 노선영을 일부러 뒤처지게 했다는 의혹이 제기되면서 여론이 악화됐고, ‘국가대표 자격 박탈’을 요구하는 청와대 국민청원에는 60만명 넘게 동의했다. &lt;br&gt;&lt;br&gt;이후 문화체육관광부 특별 감사 결과 고의성은 없었다는 결론이 나왔고, 김보름의 결백이 드러났다. 김보름은 허위 주장으로 피해를 봤다며 제기한 손해배상 소송에서도 일부 승소했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>검찰, ‘고교동창 채용’ 이정선 광주교육감 불구속 기소</title>
+      <link>https://www.chosun.com/national/regional/2025/12/31/UAUWMV57KRB2RPR5PU2XORHV3I/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/UAUWMV57KRB2RPR5PU2XORHV3I/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 11:28:25 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/63KIJBQYNFLVXGL2S45MHU5I6Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이정선 광주시교육감이 11일 오전 광주 동구 광주지방법원에서 열린 구속 전 피의자 심문(영장실질심사)을 마치고 나오고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이정선 광주시교육감이 자신의 고등학교 동창을 감사관으로 채용하기 위해 부당한 압력을 행사한 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;광주지검 반부패·강력수사부(부장 김진용)는 31일 직권남용권리행사방해 등 혐의로 이 교육감을 불구속 기소했다.&lt;br&gt;&lt;br&gt;이 교육감은 2022년 광주시교육청 감사관 채용 과정에서 자신의 고교 동창인 특정 후보자가 최종 선발되도록 부당 개입한 혐의를 받고 있다. 이번 사건은 교사 단체 등의 의혹 제기로 촉발됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 3월 이 교육감과 광주시교육청 등을 압수수색하며 직접 수사에 착수했다. 이후 검찰은 이달 10일 이 교육감에 대한 사전구속영장을 청구했으나 법원은 이를 기각했다.&lt;br&gt;&lt;br&gt;이 교육감 측은 지난해 9월 경찰에서 불송치(혐의 없음)로 종결됐던 사건을 뒤늦게 자체 수사로 전환했다며 검찰 수사의 위법성을 주장해 왔다. 검찰 수사의 적법성 여부는 이 교육감 측 재항고 제기로 현재 대법원에서 판단 중이다. &lt;br&gt;&lt;br&gt;한편 2022년 당시 시교육청 감사관 채용 실무를 담당했던 사무관(팀장급)은 면접 후보자 간 순위가 바뀌도록 평가위원들에게 점수 수정을 요구한 혐의(위계에 의한 공무집행 방해 등)로 재판에 넘겨져 1심에서 징역 1년 6개월의 실형을 선고받았다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>80대 파킨슨병 환자, 창원한마음병원에 1억 기부</title>
+      <link>https://www.chosun.com/national/people/2025/12/31/KWNBHQLGOJB2FBQB555WSQKH2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/31/KWNBHQLGOJB2FBQB555WSQKH2Q/</guid>
+      <dc:creator>창원=김주영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 11:30:47 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6VXH4LAEDVE7LJMKMOVSIMT5JE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;31일 창원한마음병원에서 열린 기부금 전달식을 마치고 최경화 창원한마음병원 이사장과 이춘자(오른쪽)씨가 기념촬영을 하고 있다. /창원한마음병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;파킨슨병을 앓고 있는 80대 여성이 한식당 등을 해 번 돈 1억 원을 병원에 기부했다.&lt;br&gt;&lt;br&gt;경남 창원한마음병원은 환자 이춘자(80·사진)씨가 “나보다 형편이 어려운 파킨슨병 환자들을 위해 써달라”며 1억 원을 기부했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;창원에 살고 있는 그는 8년전쯤 퇴행성 뇌 질환인 파킨슨병을 진단받은 뒤 이 병원에서 치료를 받고 있다. &lt;br&gt;&lt;br&gt;이씨는 1945년 함경남도 흥남에서 10남매 중 막내로 태어났다. 6·25전쟁 때 가족과 부산 영도로 피란했다. 부산과 창원에서 한식당 등을 운영하며 돈을 벌었다. 현재는 거동이 힘들어 치료에만 전념하고 있다.&lt;br&gt;&lt;br&gt;이씨는 “파킨슨병은 완치가 어려워 한번 발병하면 치료비가 계속 든다”며 “형편이 어려운 노인들은 나보다 더 힘들 것 같아 도움이 되고자 기부를 결심했다”고 말했다.&lt;br&gt;&lt;br&gt;병원은 이씨 기부금에 병원 매칭 펀드로 1억 원을 보태 총 2억 원을 취약 계층 치료비로 쓰기로 했다. &lt;br&gt;&lt;br&gt;최경화 창원한마음병원 이사장은 “환자인 기부자가 더 어려운 환자를 위해 뜻 깊은 기부를 해주셔서 너무 감사하다”며 “책임감 있는 진료로 보답하겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JPJX2KRIJENRKD6CGXO3FEVHE.png"&gt;&lt;figcaption&gt;&lt;small&gt;31일 창원한마음병원에서 열린 기부금 전달식에 병원 관계자들이 참여해 기념촬영을 하고 있다. /창원한마음병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/FQ6SLL6GIZHYHKTU2PHE2W5PSI.jpg?auth=3020f6c4457d6f15cb7f167cf4ec25273e46622f6c9ac44a4d87c0d50797791b&amp;smart=true&amp;width=2048&amp;height=1152" type="image/jpeg" height="1152" width="2048">
+        <media:description type="plain">31일 창원한마음병원에서 열린 기부금 전달식에서 최경화 이사장(왼쪽)과 이춘자씨가 기념촬영을 하고 있다. /창원한마음병원</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>전남 보성서 60대 남성 무궁화호 열차에 치여 숨져</title>
+      <link>https://www.chosun.com/national/regional/2025/12/31/ZAANKFCNJBBZ5B7NX4W44YMS6E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/ZAANKFCNJBBZ5B7NX4W44YMS6E/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 11:40:18 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5R7LF3QMRE7FBK2JXN76BVT3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 출동 일러스트. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 보성군의 한 철로에서 60대 남성이 무궁화호에 치여 숨졌다.&lt;br&gt;&lt;br&gt;31일 경찰과 소방당국 등에 따르면, 이날 오후 5시 58분쯤 전남 보성군 득량면 예당역 인근 철로에서 60대 남성 A씨가 무궁화호 열차에 치였다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대원들에 의해 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;열차는 광주송정역을 출발해 전남 순천으로 향하던 중이었으며, 이 사고로 1시간가량 열차 운행이 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>차에서 다투다 여친 목졸라 살해... 고속도로변에 버린 20대 구속</title>
+      <link>https://www.chosun.com/national/regional/2025/12/31/FOWTKCTBVFGOPDMSOXXRZPL4TM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/FOWTKCTBVFGOPDMSOXXRZPL4TM/</guid>
+      <dc:creator>권태완 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 10:17:35 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼하던 연인을 살해한 뒤 시신을 고속도로에 유기한 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 살인 및 시체유기 혐의를 받는 A씨를 구속했다고 31일 밝혔다. 법원은 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 오후 9시 40분쯤 경기 안산시 단원구 선부동 한 주택가에 주차한 자신의 차량에서 연인인 20대 여성 B씨의 목을 졸라 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이어 A씨는 그대로 차를 몰아 포천의 고속도로 갓길 인근에 B씨의 시신을 유기한 혐의도 있다. 그는 범행 후 친구인 C씨에게 “여자 친구를 때렸는데 숨을 쉬지 않는다”고 알렸고, C씨는 이를 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 신고자 조사를 위해 C씨의 집을 찾았다가 C씨 집에 있던 A씨를 발견, 임의동행했다. 이후 경찰은 범행 사실을 자백한 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “한 달째 교제 중인 B씨와 말다툼을 벌이다 범행을 저질렀다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 범행 경위를 조사하는 한편, B씨의 시신을 부검해 사인을 밝힐 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>‘교사와 4억 문항 거래 혐의’ 현우진 “적법한 절차 따라 보수 지급” </title>
       <link>https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</guid>
@@ -814,15 +890,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3TEYJSGAYTKMJZMVSTOMZXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전북 전주 '얼굴없는 천사가' 놓고 간 돈 상자./전주시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연말이면 성금을 몰래 놓고 사라지는 전북 전주 ‘얼굴 없는 천사’가 올해도 어김없이 찾아왔다. 지난해 12월 누적 성금 10억원을 돌파하고 나서 올해에도 성금을 놓고 간 것이다. 그의 선행은 올해로 26년째다. 올해 액수는 현재 확인하고 있다.&lt;br&gt;&lt;br&gt;30일 전주시에 따르면 이날 오후 3시 43분쯤 노송동주민센터에 한 중년 남성의 전화가 걸려 왔다. 이 남성은 자신의 신분을 밝히지 않은 채 성금을 놓고 갔다. 천사의 선행은 올해까지 26년째, 27차례에 걸쳐 이어지게 됐다.&lt;br&gt;&lt;br&gt;전주시는 천사의 뜻에 따라 성금을 노송동 지역의 소년소녀가장과 홀로 사는 노인 등 어려운 계층을 위해 쓸 예정이다. 천사는 2000년 4월 ‘어려운 이웃을 위해 써달라’며 58만4000원이 든 돼지저금통을 놓고 간 것을 시작으로 매년 수백만 원에서 수천만 원씩을 놓고 갔다. 자신의 이름과 얼굴을 전혀 드러내지 않아 ‘얼굴 없는 천사’로 불린다.&lt;br&gt;&lt;br&gt;성금은 생활이 어려운 노송동 주민과 학생에게 연탄, 쌀, 장학금으로 전달됐다. 2019년에는 노송동 주민센터 인근에 놓고 간 6000여만원을 도난당하는 우여곡절을 겪었지만, 기부는 이어지고 있다.&lt;br&gt;&lt;br&gt;전주시는 천사의 뜻을 기리기 위해 노송동 주민센터 일대 도로를 ‘얼굴 없는 천사 도로’로 조성하고 ‘얼굴 없는 천사비’를 세웠다. 주민들도 10월 4일을 ‘천사의 날’로 지정해 나눔 행사를 펼치고 있다. 전주시는 100년 후 전주의 보물이 될 것이라는 취지에서 ‘미래 유산’으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘제빵공장 끼임 사망 사고’ 샤니 전 대표 등 관계자 5명, 재판행</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/P6B6MTXNYZCQ3FEOQL2V6SEGHQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/P6B6MTXNYZCQ3FEOQL2V6SEGHQ/</guid>
-      <dc:creator>성남=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:10:39 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4JJFTTGN43ODYAP3C24VC6MGZQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2023년 8월 16일 오전 경기 성남시 중원구 샤니 제빵공장의 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 2023년 SPC 계열사인 샤니 제빵공장에서 근로자가 끼임 사고로 숨진 것과 관련, 안전 관리를 제대로 하지 않은 샤니의 전 대표이사 등 관계자들이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;수원지검 성남지청은 중대재해처벌법위반 혐의로 샤니의 전 대표이사 A씨와, 산업안전보건법위반 및 업무상과실치사 혐의로 전 센터장 B씨 등 5명을 불구속 기소했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨 등은 2023년 8월 8일 경기 성남시 중원구 샤니 제빵공장에서 50대 여성 근로자가 반죽기계에 끼여 숨진 사고와 관련해 안전보건관리체계를 구축하지 않은 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;앞서 숨진 근로자는 2인 1조로 원형 스테인리스 통에 담긴 반죽을 리프트 기계로 올려 다른 반죽 통으로 옮기는 작업을 하던 중 사고를 당했다. &lt;br&gt;&lt;br&gt;샤니 제빵공장 측은 끼임 사고가 빈번하게 발생했음에도 그에 따른 재발 방지 대책을 수립하지 않고 관련 설비에 대해 위험성 평가를 제대로 실시하지 않은 것으로 드러났다. &lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 중대산업재해 사건에 대해 근로자의 생명과 신체의 보호라는 중대재해처벌법의 입법취지가 충실히 실현될 수 있도록 엄정히 대응하겠다”며 “피고인들의 죄질에 상응하는 처벌이 이뤄질 수 있도록 공소유지에 만전을 기하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[오늘의 운세] 12월 31일 수요일 (음력 11월 12일 甲戌)</title>
       <link>https://www.chosun.com/national/national_general/2025/12/30/2ZBT5UU3GZEVLF6CCBWA5B53S4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/2ZBT5UU3GZEVLF6CCBWA5B53S4/</guid>
@@ -831,69 +898,6 @@
       <pubDate>Tue, 30 Dec 2025 08:00:00 +0000</pubDate>
       <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" alt="" height="420" width="800"/&gt;&lt;p&gt;&lt;img style="float:left; width:120px; height:60px;" src="https://news.chosun.com/img/200305/article/12ani01.gif" alt="쥐"&gt;&lt;/p&gt;</content:encoded>
       <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
-      <title>응급실 수용률 100% 이끄는 중앙응급의료센터... “AI로 병원 정보 파악 더 세밀해질 것”</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/30/R77M37WTPVBCFMAMOYLCSBAR7M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/30/R77M37WTPVBCFMAMOYLCSBAR7M/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:11:13 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5U5N7AK4PFDLRGNSZBFNYCKQUA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;국립중앙의료원 중앙응급의료센터 중앙응급의료상황실/보건복지부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;119에 신고가 접수됐다. 63세 남성, 의식을 잃고 집에서 쓰러져 있는 환자를 집주인이 발견했다고 했다. 119가 출동해 확인한 그는 혈압이나 혈당 등 다른 활력 징후는 괜찮았지만 의식이 돌아오지 않고 있었다. 정확히 왜 쓰러졌는지에 대한 판단이 어려우니 이미 10곳이 넘는 병원은 그를 받기 어렵다는 대답을 했다. 그렇게 길에서 시간을 보내는 게 답답했던 구급대는 국립중앙의료원 중앙응급의료센터 광역응급의료상황실(이하 광역상황실)에 공동 대응을 요청했다. 광역상황실은 119 구급대가 병원을 찾지 못한 응급환자의 병원을 찾아 이송을 돕는 역할을 하는 곳이다.&lt;br&gt;&lt;br&gt;광역상황실은 이미 구급대가 전화를 한 병원 중에서 1차 검사가 가능한 곳을 물색했다. 원인만 파악되면 치료가 가능한 다른 병원으로 옮겨주겠다는 약속과 함께였다. 그렇게 인근 병원에 도착한 환자는 뇌 컴퓨터 단층 촬영(CT)을 통해 뇌출혈 판정을 받았고, 신경외과 진료가 가능한 병원으로 옮겨졌다.&lt;br&gt;&lt;br&gt;이는 광역상황실에 실제 접수된 응급실 미수용 중증응급환자의 병원 선정 과정을 재구성한 내용이다. 보건복지부가 운영하는 광역상황실은 환자의 전원과 중증응급환자의 병원 선정을 관장하는 곳이다. 특히 최근 이른바 ‘응급실 뺑뺑이’라 불리는 응급실 환자 미수용 사례가 잇달아 발생하는 가운데, 광역상황실의 역할은 더욱 주목받고 있다.&lt;br&gt;&lt;br&gt;29일 찾은 서울 중구 중앙응급의료센터의 서울·인천 광역상황실에선 4명의 직원들이 모두 병원들에 전화를 돌리고 있었다. 서울 시내 한 병원에서 치료가 불가능하다고 판단된 환자가 생기자 해당 환자를 치료할 수 있는 새로운 병원을 찾기 위한 전화였다. 이들 앞에 놓인 12개의 TV 화면에는 실시간 응급실·중환자실 병상 가동률과 119구급시스템에서 병원 선정을 기다리고 있는 환자의 상태가 한눈에 표시되고 있었다.&lt;br&gt;&lt;br&gt;광역상황실과 소방청이 운영하는 구급상황관리센터의 가장 큰 차이는 광역상황실이 중증응급환자 위주로만 다룬다는 것이다. 전원이 필요할 만큼 작은 응급실에선 보기 어려운 환자나 ‘병원 전 응급 환자 분류(pre-KTAS)’ 기준 1~3등급 환자들이 광역 상황실의 몫이다.&lt;br&gt;&lt;br&gt;광역 상황실의 최대 장점은 병원 수용률이 100%에 이른다는 것이다. 김정언 중앙응급의료상황실장은 “중앙응급의료센터는 지난 20년간 응급의료기관을 평가하고 이들의 서비스를 강화하고 응급실을 방문하는 사람들이 적절한 처치를 받을 수 있도록 환경을 개선해 온 기관이다. 응급의료 기관들도 센터에 대한 이해도가 높고 신뢰도도 높을 수밖에 없다”며 “그렇기 때문에 센터 산하의 광역 상황실에서 환자를 받아야 한다고 설득했을 때는 응급의료기관에서 적극적으로 따라올 수밖에 없다”고 설명했다. 특정 환자를 받았을 때 치료할 수 있는지 스스로에 대한 역량을 의심하던 기관들도 광역 상황실이 지정해주면 ‘우리 병원이 최선이구나’라는 믿음을 가진다는 취지다.&lt;br&gt;&lt;br&gt;광역 상황실의 직원들은 최소 3명에서 많게는 5명씩 3교대로 환자의 병원 선정과 전원을 돕는 역할을 한다. 병원에 대한 수요가 생기면 모든 직원이 다 달려들어 전화하는 데 몰입한다. 상주하는 상황의사의 지휘 아래 어떤 병원에 먼저 전화를 할지부터, 환자가 몰릴 경우 어떤 환자부터 병원을 잡아줘야 할지가 결정된다. 이런 절차를 거쳐 통상 8번의 전화를 하면 환자가 가야 할 병원이 결정된다.&lt;br&gt;&lt;br&gt;그러나 병원의 신뢰를 바탕으로 움직이는 광역 상황실에도 여전히 한계는 있다. 병원들이 상황실로 보내는 정보가 수시로 갱신되긴 하지만 이런 정보가 현장 상황을 모두 담지는 못하기 때문이다. 김 실장은 “응급의료 상황판에 적힌 병상 등은 현재 가용한 응급의료 자원 정보에 대해 알려주는 1차 지표”라면서도 “실제로 당장 환자 진료가 가능한지는 응급실에 있는 의사들이 판단해야 할 요소가 있다”고 말했다. 병상이 남았다고 표시되더라도 모든 의료진이 심정지 등 특정 환자에 투입됐다거나, 갑자기 한꺼번에 중증 환자가 몰려 추가 환자를 받을 경우 진료가 지연될 가능성이 있다는 것이다.&lt;br&gt;&lt;br&gt;이런 문제를 해결하기 위해 정부는 상황판을 고도화할 수 있는 연구·개발(R&amp;amp;D) 작업에 몰두하고 있다. 자동화 인공지능(AI)을 도입해 특정 병원에서 어떤 질환의 진료가 가능하다는 수준을 넘어 현재 병원마다 어떤 수준의 의료진이 있고, 어떤 시술을 얼마나 능숙하게 할 수 있는지 등 세부 지표까지 실시간으로 파악할 수 있도록 하는 게 목표다.&lt;br&gt;&lt;br&gt;직접 신고를 받지 않는 광역 상황실이 당장 도움이 필요한 환자에게 서비스를 제공할 수 있도록 119구급상황센터와 연계를 활성화해야 한다는 점도 새로운 과제다. 현재는 pre-KTAS 기준 1~3등급(전체 5등급) 환자 중 119에서 공동 대응을 요청한 환자만 광역 상황실이 관여하도록 돼 있다. 이 때문에 광역 상황실 전체 업무의 90% 이상은 병원 간 전원에 쏠려 있다. 현장에서 발생한 중증 응급 환자의 병원을 찾는 일에서 광역 상황실이 마음껏 역량을 발휘하지 못하고 있다는 뜻이다. 복지부 관계자는 “광역상황실과 119구급상황센터의 업무가 일부 중복되는 형태로 운영되는 것은 사실”이라며 “양 기관의 업무 조율이 향후 과제”라고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“스페이스X 투자하자”...캄보디아서 19억원 가로챈 보이스피싱 일당 검거</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/KGWZ6QN3DNG33BIBBMUMCSIUKI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/KGWZ6QN3DNG33BIBBMUMCSIUKI/</guid>
-      <dc:creator>조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:23:46 +0000</pubDate>
-      <content:encoded>캄보이아에 거점을 두고 로맨스 스캠과 투자 사기를 벌여 19억원을 가로챈 보이스피싱 조직이 정부 합동수사단에 적발됐다.&lt;br&gt;&lt;br&gt;서울동부지검 보이스피싱 범죄 정부합동수사단(합수단)은 통신사기피해환급법 위반 등의 혐의로 보이스피싱 조직원 11명을 구속 기소하고, 2명을 불구속 기소했다고 30일 밝혔다. 중국인 총책은 현재 추적 중이다. &lt;br&gt;&lt;br&gt;해당 조직은 캄보디아 포이펫에 거점을 두고 활동했다. 지난해 12월부터 올해 10월까지 피해자들로부터 뜯어낸 금액은 약 19억3000만원이다. &lt;br&gt;&lt;br&gt;범행 수법은 치밀했다. 조직원들은 젊은 여성인 척 행세하기 위해 사칭할 여성의 신상정보와 사진, 동영상 등을 서로 공유했다. 피해자와 나눌 대화 대본도 준비한 것으로 나타났다. 이들은 여성인 척 피해자들에게 접근해 “일론 머스크가 이끄는 미국 우주 기업 스페이스X 어플에 투자하면 큰 수익을 얻을 수 있다”며 투자를 유도했다. 해당 어플은 이들이 미리 만들어둔 가짜였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JDFD66DZEFETJOLJJP7AFQZDTY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 김영재&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이들은 적발 이후 자신들이 취업사기 피해자라고 주장했다. 그러나 합수단은 이들의 진술이 허위라고 판단했다. &lt;br&gt;&lt;br&gt;이번 수사는 국가정보원이 캄보디아 현지에서 활동 중인 조직에 대한 범죄 정보를 수집해 즉시 합수단에 제공하면서 시작됐다. 이후 검찰과 경찰, 출입국·외국인정책본부가 지난 4월부터 약 8개월간 합동수사를 거쳤고 한국인 조직원 20명의 신원을 특정했다. &lt;br&gt;&lt;br&gt;합수단은 중국인 총책과 나머지 조직원 7명에 대해 계속 추적 수사 중이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>한학자 통일교 총재 등 4명, ‘쪼개기 후원’ 혐의로 검찰 송치</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/GM6RBADZXVE7LJZKODF745ZJ4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/GM6RBADZXVE7LJZKODF745ZJ4M/</guid>
-      <dc:creator>이기우 기자, 유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:26:04 +0000</pubDate>
-      <content:encoded>통일교 로비 의혹을 수사하는 경찰이 한학자 통일교 총재와 주요 간부 등 4명을 검찰에 넘겼다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G44DKODEMQZDQOLDMMZGKYTBME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한학자 통일교 총재. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰청 국가수사본부의 통일교 특별수사팀은 29일 한 총재와 윤영호 전 세계본부장, 정원주 전 총재 비서실장, 송광석 전 천주평화연합(UPF) 회장을 정치자금법 위반 혐의로 서울중앙지검에 송치했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면 이들은 2019년 1월 당시 여야 의원 총 11명에게 각각 100만~300만원씩을 불법 후원한 혐의를 받는다. 후원 자체는 개인 명의로 각 정치인들의 후원 계좌에 정상적으로 입금됐지만, 경찰은 이것이 실제로는 통일교 자금을 이용한 쪼개기 후원이었다고 보고 있다. 경찰은 한 총재와 윤 전 본부장 등이 이런 불법 후원을 공모 또는 지시한 것으로 보고 있다. &lt;br&gt;&lt;br&gt;다만 경찰은 후원금을 받은 당시 의원 11명에 대해선 혐의를 적용하지 않기로 했다. 경찰 관계자는 “각 의원실 회계 책임자 등을 소환해 조사한 결과 내린 판단”이라고 했다.&lt;br&gt;&lt;br&gt;이 사건은 앞서 민중기 특별검사팀이 이첩한 전재수 민주당 의원 등의 현금과 명품 시계 등 수수 의혹과는 별개의 사건이다. 경찰은 지난 15일 통일교 천정궁 등에 대한 압수 수색을 실시하고, 압수물을 분석하던 도중 이 사건을 인지해 수사에 나섰다. &lt;br&gt;&lt;br&gt;경찰 관계자는 “공소시효 만료가 며칠 앞으로 다가와 시급하게 통일교 관계자들을 송치한 것”이라고 했다. 정치자금법 위반시 공소시효는 7년이다. 경찰은 후원금 지급 시기를 2019년 1월로 보고 있어, 내년 초가 되면 공소시효가 만료된다. &lt;br&gt;&lt;br&gt;사건을 넘겨받은 서울중앙지검은 공공수사2부(부장 송봉준)에 사건을 배당하고 한 총재 등을 기소할지 검토 중이다. 수사를 맡은 송봉준 부장검사는 금융 및 선거 분야 수사 전문가로 분류되고, 김건희 특검에 파견됐다가 최근 복귀했다.&lt;br&gt;&lt;br&gt;한편 전 의원의 금품 수수 의혹 역시 현금과 시계를 받은 시점이나 시계 가격 등에 따라 공소시효가 만료될 수 있다는 우려가 커지고 있다. 경찰 관계자는 “최대한 사실 관계를 규명하기 위해 수사 중”이라고 했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>장기자랑에 직원 참여 강요한 요양원… 과태료 처분 결정</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/GRMYDB4QCBFDPG2QCTO6J6M2EY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/GRMYDB4QCBFDPG2QCTO6J6M2EY/</guid>
-      <dc:creator>인천=이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:44:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LLHZEAX3TLNEDOBWW75OILMS5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;중부지방고용노동청./ 뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;직원들에게 장기자랑 참여를 강요한 요양원 시설장이 과태료 처분을 받게 됐다. &lt;br&gt;&lt;br&gt;중부지방고용노동청은 인천의 한 요양원 시설장 A씨에 대해 과태료 처분을 하기로 했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 지난해 12월 인천노인복지시설협회 주관 행사 당시 요양원 직원 7명에게 장기자랑 참여를 강요했다는 의혹을 받았다. &lt;br&gt;&lt;br&gt;이들 직원은 연장 근무수당 없이 춤 연습에 강제로 동원됐거나 행사 당일 연차 사용을 강요받았다고 주장한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;중부노동청은 현장 조사와 전문위원회 자문 등을 거쳐 A씨의 행위가 근로기준법상 직장 내 괴롭힘 성립 요건에 해당한다고 최근 판단했다. 근로기준법은 직장 내 괴롭힘이 인정될 경우, 당사자에게 1000만원 이하의 과태료를 부과할 수 있도록 규정하고 있다. &lt;br&gt;&lt;br&gt;중부고용청 관계자는 “전문위원회 판단 결과에 따라 요양원에 과태료를 부과할 예정”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“김장 김치 나만 적게 줬다” 마을회관 불 지른 60대 체포</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/A7SI3M6BMBBAPPRRZ2QWJEAIQE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/A7SI3M6BMBBAPPRRZ2QWJEAIQE/</guid>
-      <dc:creator>남해=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:46:24 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GIZWMNLGMY3WKYZWMYZGIMBZGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남 남해군 고현면의 한 마을회관에 불을 낸 혐의로 60대 남성이 체포됐다.&lt;br&gt;&lt;br&gt;30일 남해경찰서와 소방 당국에 따르면 전날 오전 10시쯤 남해군 고현면의 한 마을회관에서 불이 났다. &lt;br&gt;&lt;br&gt;경찰에 따르면 이 불은 마을 주민인 60대 A씨가 낸 것으로 조사됐다. 경찰은 A씨를 공용건조물방화죄로 입건해 조사중이다. A씨는 화장지에 불을 붙인 뒤, 회관 내에 있던 안마 의자에 던져 불을 낸 것으로 알려졌다.&lt;br&gt;&lt;br&gt;불은 마을회관 75㎡와 가재도구 등을 태우고 2000만 원 상당의 재산 피해를 냈다. 인명피해는 없었다. 당시 주민 신고를 받고 출동한 119가 20여분 만에 불을 껐다.&lt;br&gt;&lt;br&gt;A씨는 경찰에 마을에서 나눠준 김장 김치의 양이 다른 주민들 것보다 자신의 것이 적어 화가 났다는 취지로 진술했다. 또 평소 마을 주민들이 자신을 무시해 왔다고 진술했다.&lt;br&gt;&lt;br&gt;경찰은 현장에서 목격자 진술 등에 따라 A씨를 체포했으며 이날 구속영장도 신청했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[굿모닝 멤버십] 당신은 하루키입니까, 에코입니까</title>
-      <link>https://www.chosun.com/national/2025/12/25/KON2LJPQARCR3NOZD2EM7NADCQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/2025/12/25/KON2LJPQARCR3NOZD2EM7NADCQ/</guid>
-      <dc:creator>이위재 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 24 Dec 2025 20:48:01 +0000</pubDate>
-      <content:encoded>&lt;b&gt;📌굿모닝 멤버십!☀️ 오늘의 키워드&lt;/b&gt;&lt;br&gt;&lt;br&gt;보수의 십계명 ˚ 대통령 후보 정주영 ˚ 중국 위기론 ˚ 글쓰기 루틴 ˚ 재테크 핵심 과제&lt;br&gt;&lt;br&gt;오늘 멤버십에서 확인할 이야기입니다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;🙏 &lt;b&gt;‘보수의 십계명’ 필독 권장‼️&lt;/b&gt;&lt;br&gt;&lt;br&gt;헤리티지 재단 창립자, 에드윈 퓰너는 전세계 보수의 ‘표준’을 세운 인물이라고 볼 수 있습니다. 보수가 정권을 잡으면 어떤 행정을 펼쳐야 하는가, 보수 정부의 ‘바이블’을 만든 사람입니다. 그가 이렇게 말합니다. &lt;br&gt;&lt;br&gt;“보수를 하나의 틀에 가두지 말고, 보수 신념을 자랑스러워 하라.”&lt;br&gt;&lt;br&gt;그의 보수는 배타적이지 않았고, 신념은 단단했지만 닫혀 있지 않았습니다…✨🙂‍↕️&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com//politics/diplomacy-defense/2025/12/25/BLFYETJWUNHNZBEEDJDOF3Y3HY/" target="_self" rel="" title="https://www.chosun.com//politics/diplomacy-defense/2025/12/25/BLFYETJWUNHNZBEEDJDOF3Y3HY/"&gt;&lt;u&gt;움츠러들지 말라… 보수주의자임을 자랑스러워하라&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;👔 &lt;b&gt;대통령 후보 정주영&lt;/b&gt;&lt;br&gt;&lt;br&gt;현대그룹을 일군 정주영 회장, 굳이 대통령 선거에 출마해 비난도 들었습니다. 왜 그랬을까요? 그에게 대통령 출마는 피할 수 없는 숙명이었기 때문입니다.&lt;br&gt;&lt;br&gt;👨‍💼: 정치권의 나눠먹기와 국가 재정을 좀먹는 포퓰리즘 정책을 남발하는 악순환을 반드시 끊어야 한다. 한국 경제를 떠받쳐온 근로자의 의욕, 기업인의 도전 정신, 그리고 국가 발전을 바라는 국민의 집단적 지혜를 한데 모을 수 있다면 정치 역시 바꿀 수 있다.&lt;br&gt;&lt;br&gt;즉, 그에게 임기 5년짜리 대통령은 ‘권력을 누리는 자리’(❌) ‘역사의 물꼬를 트는 마지막 일감’(⭕) &lt;br&gt;&lt;br&gt;그러나, 1992년 대선에 출마하면서 ‘3당 합당’의 벽을 만나고, 이후 정주영 회장에게는 고난이 찾아오는데…🤔&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com//economy/industry-company/2025/12/25/XLJ2MBPYCJGTTPQPBQFCIXNM74/" target="_self" rel="" title="https://www.chosun.com//economy/industry-company/2025/12/25/XLJ2MBPYCJGTTPQPBQFCIXNM74/"&gt;&lt;u&gt;“여의도 정치인만 치워버리면 나라가 잘 될 것”&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;🤑 &lt;b&gt;중국 경제 위기론, 진짜일까? 💸&lt;/b&gt;&lt;br&gt;&lt;br&gt;최근 수년간 서방 세계에서 반복적으로 제기된 중국 경제 위기론.&lt;br&gt;&lt;br&gt;부동산 부실에서 촉발될 금융 위기, 천문학적으로 불어난 지방정부 부채, 과도한 기업 부채는 중국 위기설의 단골 메뉴였습니다.&lt;br&gt;&lt;br&gt;그런데…웬걸요❓중국의 5년 평균 성장률은 세계 평균을 웃돌았습니다. 중국은 이미 전 세계 럭셔리 소비 1위 시장이며, 자동차·전기차·노트북·스마트폰 소비에서도 세계 최대 규모를 차지합니다. 미·중 무역 전쟁은 2018년 시작돼 8년째 이어지고 있지만, 중국 경제는 그 기간 동안 단 한 번도 역성장을 기록하지 않았습니다. 세계 최강국의 통상·기술·금융 압박을 동시에 견뎌낸 국가는 지금까지 중국이 유일무이합니다.&lt;br&gt;&lt;br&gt;중국은 위기이고 한국은 안전하다 식의 외면은&lt;br&gt;&lt;br&gt;… NO❕&lt;br&gt;&lt;br&gt;중국을 극복하고 싶다면, 먼저 정확히 이해해야 합니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com//economy/int_economy/2025/12/25/ZNMRGIT3INCRVFNCXMIBXX3YHQ/" target="_self" rel="" title="https://www.chosun.com//economy/int_economy/2025/12/25/ZNMRGIT3INCRVFNCXMIBXX3YHQ/"&gt;&lt;u&gt;미국과 무역전쟁 8년째... 망하기는커녕 더 강력해진 중국의 ‘비결’은&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;✏️‘작가의 비법’ 중 하나, ‘글쓰기 루틴’ &lt;/b&gt;&lt;br&gt;&lt;br&gt;모든 작가에겐 자신만의 글쓰기 습관이 있습니다.&lt;br&gt;&lt;br&gt;무라카미 하루키: 매일 정해진 시간에 기상해 일정 시간 동안 정해진 분량의 글을 씁니다. 이를 테면 ‘회사원형 작가’ 같은 거죠.&lt;br&gt;&lt;br&gt;움베르토 에코: 정해진 규칙은 없어요. 저는 정해진 스케줄을 따르는 게 불가능해요. 어떨 때는 전혀 써야 할 필요를 느끼지 못하지요.&lt;br&gt;&lt;br&gt;독자가 곽아람 작가(겸 기자)에게 글 쓰는 방식을 물었습니다. 굳이 따지자면, 에코 쪽에 가깝다고 했습니다. 쓰고 싶은 마음이 생길 때까지 기다렸다가, 그 순간이 오면 그때부터 앉아서 쓰기 시작한다고요.&lt;br&gt;&lt;br&gt;🤓 그렇다면…곽 기자는 어떻게 꾸준히 글을 쓰는 걸까요? 독자의 순수한 궁금증입니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com//culture-life/book/2025/12/25/NLD4KAG2P5G47IREUUC424GTHU/" target="_self" rel="" title="https://www.chosun.com//culture-life/book/2025/12/25/NLD4KAG2P5G47IREUUC424GTHU/"&gt;&lt;u&gt;하루키보단 에코에 가까운 나의 글쓰기&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;🪙 한 해를 마무리하며, 해야 할 재테크 핵심 과제&lt;/b&gt;&lt;br&gt;&lt;br&gt;🐎 2026년 ‘붉은 말의 해’ 병오년(丙午年)을 1주일 앞두고,&lt;br&gt;&lt;br&gt;올 한해 어떤 선택을 했고, 그 결과는 어땠는지 차분히 점검할 때죠 ✔️&lt;br&gt;&lt;br&gt;내년에 말처럼 날렵하게 달리기 위해서는, 달려야 할 방향을 한 번 더 확인해봐야 합니다.&lt;br&gt;&lt;br&gt;올해가 가기 전에 꼭 챙겨야 할 재테크 핵심 과제 10가지를 정리했습니다.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/2025/12/25/WWTCUC5STFBA7O7ITYEJWYIJ3Q/" target="_self" rel="" title="https://www.chosun.com/economy/2025/12/25/WWTCUC5STFBA7O7ITYEJWYIJ3Q/"&gt;&lt;u&gt;비과세 저축·상생 페이백·항공마일리지·스케일링...마감 며칠 안 남았어요&lt;/u&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;☞&lt;/b&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;💡&lt;b&gt; 오늘의 시리즈&lt;/b&gt;&lt;br&gt;&lt;br&gt; &lt;a href="https://www.chosun.com/membership/" target="_self" rel="" title="https://www.chosun.com/membership/"&gt;멤버십&lt;/a&gt;에서 더 깊이 읽어보세요!&lt;br&gt;&lt;br&gt;#보수의십계명 #대통령후보정주영 #중국위기론 #글쓰기루틴 #재테크핵심과제&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>인천교통공사, ‘인권경영 시스템(HRMS)’ 인증</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/TN2BFYYOG5B4DFUFGFKXXG5WJ4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/TN2BFYYOG5B4DFUFGFKXXG5WJ4/</guid>
-      <dc:creator>이현준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:33:02 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UJANNNROYJBW3DZC2JCGPTAXPA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 중소벤처기업인증원과 인천교통공사 관계자들이 인권경영시스템(HRMS) 인증서와 인증 현판을 들고 기념촬영을 하고 있다. /중소벤처기업인증원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;중소벤처기업인증원(이하 인증원)은 인천교통공사가 ‘인권경영시스템(HRMS)’ 인증을 획득했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;인권경영시스템 인증은 인권 존중 정책을 수립하고 국제 기준에 부합하는 실행 체계를 갖춘 조직에 부여된다. 인증원이 UN 국제인권선언과 국가인권위원회 공공기관 인권경영 가이드라인 등을 토대로 만들어 2023년부터 운용하고 있다. 지금까지 화성시, 코레일 등 40여 개 공공기관이 인권경영시스템 인증을 획득했다.&lt;br&gt;&lt;br&gt;인증원은 인천교통공사의 경우, 2018년 인권경영을 도입하고 인권 침해 구제 절차 구축, 인권경영 간담회·특강 등 다양한 활동을 한 부분이 높게 평가됐다고 강조했다. &lt;br&gt;&lt;br&gt;엄진엽 중소벤처기업인증원 원장은 “인천교통공사가 도시철도 운영 기관 중 가장 선도적인 모범 공공기관으로 도약하길 바란다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내년 2월부터 ‘재판기록 예약제’ 전국 법원 시행… 소상공인 파산 지원도 확대</title>
