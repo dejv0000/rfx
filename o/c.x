@@ -13,6 +13,215 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[굿모닝 멤버십] ‘적토마’의 힘찬 기운을 여러분께 드립니다 </title>
+      <link>https://www.chosun.com/national/2026/01/01/BDPMVSTIUFF7NLGEF6NUUBTTVE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/01/BDPMVSTIUFF7NLGEF6NUUBTTVE/</guid>
+      <dc:creator>조선일보 멤버십</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0000</pubDate>
+      <content:encoded>📌&lt;b&gt;오늘의 키워드&lt;/b&gt; &lt;br&gt;&lt;br&gt;헤리티지의 성공비결 ˚ 소 떼 방북의 큰 그림 ˚ 중국의 1조 달러 흑자 ˚ 천재와 노력파의 차이&lt;br&gt;&lt;br&gt;오늘 멤버십에서 확인할 이야기입니다. ✉️&lt;br&gt;&lt;br&gt;&lt;b&gt;☀️굿모닝! 조선멤버십 회원님들, 새해 복 많이 받으세요! 🙇‍♂️&lt;/b&gt;&lt;br&gt;&lt;br&gt;🐴 드디어 2026년, 찬란한 붉은 태양이 떠올랐습니다. 올해는 60년 만에 돌아온다는 ‘적토마(赤兎馬)’의 해, 병오년(丙午年)입니다. &lt;br&gt;&lt;br&gt;하루에 천 리를 달린다는 전설 속의 명마, 적토마처럼! 올 한 해 회원님들께서 뜻하는 모든 소망이 거침없이 질주하고, 뜨거운 열정으로 성취하는 한 해가 되기를 진심으로 기원합니다.&lt;br&gt;&lt;br&gt;👣 그 힘찬 도움닫기를 위해, 새해 첫날 아침도 어김없이 굿모닝 멤버십이 찾아왔습니다. 말을 탈 때에는 고리 모양의 발걸이에 발을 올리고 탑니다. 이를 ‘&lt;b&gt;등자(鐙子)’&lt;/b&gt;라 일컫죠. 등자는 단순한 발판에 불과해보일지 몰라도, 발을 말에 단단히 고정함으로써 유목민들에게 두 손의 자유를 선사한 획기적인 발명품으로 평가받습니다. 역사학자들은 “등자는 달리는 말 위에서 활을 쏘는 등 연계 동작을 할 수 있도록 만들었다. 등자가 세계 전쟁사의 흐름을 바꿔놓았다”고 주장하기도 합니다. 조선멤버십은 올해 회원님들께서 더 멀리, 더 빠르게 달릴 수 있도록 ‘지식의 등자’가 되어드리겠습니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UEUCIIEESFO4JE7KZLEOHROPJU.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;(고양=뉴스1) 장수영 기자 = ※ 이 사진은 1월 1일자 조간신문 제작을 위해 사전 배포합니다. 온라인(포털)에서는 12월 31일 18시부터 사용 가능합니다.&#13;
+&#13;
+2026년 희망찬 병오년(丙午年) 붉은 말의 해가 다가왔다.  &#13;
+&#13;
+지난 10일 경기 고양시 원당종마목장에서 한국마사회 승마단 방시레 선수가 말과 함께 힘찬 도약을 펼치고 있다. &#13;
+&#13;
+다사다난했던 2025년은 뒤로하고 병오년 새해에는 국민 모두가 각자 희망하는 바를 이루기 위한 도약의 해가 되길 기원해 본다. 2025.12.31/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;⚡ “진보도 배워야 한다”… 워싱턴 접수한 헤리티지의 비밀&lt;/b&gt;&lt;br&gt;&lt;br&gt;🏛️ 미국의 보수 싱크탱크 &lt;b&gt;헤리티지재단(The Heritage Foundation)&lt;/b&gt;. 레이건 행정부 시절 정책의 산실이었고, 지금도 워싱턴에서 가장 영향력 있는 조직으로 꼽힙니다. 오죽하면 반대편인 진보 진영조차 “헤리티지를 벤치마킹해야 한다”고 입을 모을 정도였죠.&lt;br&gt;&lt;br&gt;도대체 비결이 뭘까요❔ 학자들의 점잖은 연구소? 아닙니다. 그들은 마치 ‘언론사‘처럼 움직였습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;⏱️ “대통령 담화 15시간 뒤, 반박 보고서 배포”&lt;/b&gt; 헤리티지의 핵심 무기는 ‘신속 대응(Quick Response)’이었습니다. 카터 대통령이 정책을 발표하면, 불과 15시간 만에 22쪽짜리 반박 보고서를 만들어 상·하원 의원 전원에게 뿌렸습니다. 타이밍을 놓치지 않는 정보력, 그리고 의원들이 읽기 쉽게 만든 전달력. 이것이 헤리티지가 워싱턴 정가에서 여전히 ‘최강 싱크탱크’로 뽑히는 이유입니다. &lt;br&gt;&lt;br&gt;타임지 기자 출신을 부사장으로 영입해 연구원들에게 “학자가 아닌 기자처럼 생각하라”고 주문한 일화는 유명합니다. 아무리 좋은 정책 아이디어도 시기를 놓치면 휴지 조각이나 다름없죠. 우리 실패의 이면을 살펴볼 때, 결정적인 ‘타이밍’을 놓치고 있는 건 아닐까요…🤔&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/politics/diplomacy-defense/2026/01/01/R365EKLTFVFXLGW2YWKMD2GARE/" target="_self" rel="" title="https://www.chosun.com/politics/diplomacy-defense/2026/01/01/R365EKLTFVFXLGW2YWKMD2GARE/"&gt;진보 진영에 악몽을 선사한 최강 싱크탱크&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WVLARPYREREBHHIVG5D3377UCY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 권혜인&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1998년, 전 세계 외신이 한반도를 주목했습니다. 83세의 노구(老軀)를 이끌고 소 떼 500마리와 함께 휴전선을 넘은 한 남자. 바로 故 정주영 현대그룹 회장입니다.&lt;br&gt;&lt;br&gt;당시엔 그저 ‘고향에 대한 향수’나 ‘파격적인 이벤트’ 정도로 여겨졌지만, 사실 그 안에는 훨씬 더 거대하고 &lt;b&gt;치밀한 셈법&lt;/b&gt;이 숨겨져 있었습니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;💎 북한에 묻힌 ‘보물’을 알아본 유일한 사업가&lt;/b&gt; 정 회장은 북한을 단순히 ‘도와줘야 할 대상’이 아니라 ‘기회의 땅’으로 봤습니다. “남한의 자본·기술력에 북한의 우수한 노동력과 막대한 지하자원(철광석, 희토류 등)이 합쳐진다면, 일본과 중국을 수십 년 따돌릴 수 있다”는 확신이 있었죠. 남북 경제 협력은 덧셈이 아니라 ‘곱하기’라는 것이 그의 지론이었습니다.&lt;br&gt;&lt;br&gt;최근 일각에서 제기되는 ‘두 국가론’에 대해 우려의 목소리가 높습니다. 자칫 북한을 영원한 타국으로, 중국의 영향권 아래로 밀어 넣는 실책이 될 수도 있다는 지적입니다.&lt;br&gt;&lt;br&gt;통일은 비용이 아니라 미래를 위한 가장 확실한 투자라고 역설했던 정주영 회장. 2026년 새해에는 그의 혜안을 빌려와야 할지도 모릅니다. 👀&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/industry-company/2026/01/01/DQ6HIQXOQVHYZCTFSEUEWNQM4A/" target="_self" rel="" title="https://www.chosun.com/economy/industry-company/2026/01/01/DQ6HIQXOQVHYZCTFSEUEWNQM4A/"&gt;정주영의 ‘소 떼 방북’은 허망했다? 그는 두 가지를 봤다 &lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QYQMVQJVRRC2ZPOON4ZANP3GNQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;정주영 현대그룹 회장이 1998년 10월 27일 오전 통일대교 부근에 마련된 환송행사장에서 소의 고삐를 잠시 쥐고 포즈를 취하고 있다./조선일보 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“어머니는 제가 위대한 사람이 될 운명이라 믿으셨습니다.” 테라 사태의 주범, &lt;b&gt;권도형&lt;/b&gt;이 보낸 반성문의 일부입니다. 가상화폐 ‘테라·루나 폭락 사태’는 권도형이 공동 설립한 테라폼랩스가 2019년 발행한 가상 화폐 ‘테라(테라USD)’와 이를 보조하는 ‘루나’의 가격이 2022년 5월부터 폭락하며 전 세계 투자자에게 큰 피해를 입힌 사건입니다. 그는 부모가 설계한 엘리트 코스만 밟아온 ‘고기능 천재’였지만, 결국 사기꾼으로 전락해 감옥에 갇혔습니다. 위대해져야 한다는 강박은 있었지만, ‘무엇을 위해’ 위대해야 하는지는 몰랐던 탓입니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;🎸 반면, 이 청년은 달랐습니다.&lt;/b&gt; 부모의 반대에도 브라질로 축구 유학을 떠났다가, 재능의 한계를 느끼고 가수로 전향한 &lt;b&gt;가수 우즈(WOODZ)&lt;/b&gt;. 수많은 오디션 탈락, 그룹 해체, 한한령 등 온갖 ‘억까’를 당했지만, 그는 꺾이지 않았습니다. 오히려 군대에서 부른 자작곡이 역주행하며 데뷔 10년 만에 최고의 전성기를 맞았습니다.&lt;br&gt;&lt;br&gt;권도형이 ‘오만함’에 갇혀 무너질 때, 우즈는 ‘실패’를 자양분 삼아 단단해졌습니다. 2026년 새해, 회원님들께서는 어떤 길을 걷고 싶으십니까? 🐎 만들어진 꽃길을 걷다 시들어버린 천재와, 잡초처럼 밟힐수록 더 단단해진 스타의 이야기. MZ세대의 성공법을 기사에서 만나보세요. 🔎&lt;br&gt;&lt;br&gt;&lt;a href="https://www.chosun.com/economy/market_trend/2026/01/01/Z4FOS35ZVJBK3PGXERLYRD3XE4/" target="_self" rel="" title="https://www.chosun.com/economy/market_trend/2026/01/01/Z4FOS35ZVJBK3PGXERLYRD3XE4/"&gt;권도형 vs. 우즈로 본 MZ세대 성공법&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/LN6P665A75GCPJHOXP5W3GNUWU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;KBS '불후의 명곡' 국군의 날 특집에 출연한 우즈 조승연
+/유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;☞&lt;/b&gt;&lt;a href="https://members.chosun.com/membership/join/index.html" target="_self" rel="" title="https://members.chosun.com/membership/join/index.html"&gt;&lt;b&gt;조선멤버십 회원 되시려면 여기 누르세요.&lt;/b&gt;&lt;/a&gt;&lt;br&gt;&lt;br&gt;💡 &lt;b&gt;오늘의 시리즈&lt;/b&gt; &lt;a href="https://www.chosun.com/membership/" target="_self" rel="" title="https://www.chosun.com/membership/"&gt;멤버십&lt;/a&gt;에서 더 깊이 읽어보세요! &lt;br&gt;&lt;br&gt;#헤리티지재단 #정주영회장 #소떼방북 #차이나퍼즐 #미중무역전쟁 #권도형반성문 #우즈성공신화 #MZ세대성공법&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/34RC6LXE2JAGZESWM6O2OQFBMY.png?auth=eb7814a3ac5a0143aea8b8eb0b7e4651f54b42bb1ba776db9c75363eb9a3ccca&amp;smart=true&amp;width=1600&amp;height=1200" type="image/png" height="1200" width="1600"/>
+    </item>
+    <item>
+      <title>그 ‘꼬마 정동원’ 해병대 입대…’병역 의무’는 영어로?</title>
+      <link>https://www.chosun.com/national/education/2026/01/01/BWEUGONKONESNLNCFWGY636RWY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/01/BWEUGONKONESNLNCFWGY636RWY/</guid>
+      <dc:creator>윤희영 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 18:00:00 +0000</pubDate>
+      <content:encoded>2020년 TV조선 ‘내일은 미스터트롯’을 통해 스타덤에 오른 가수 정동원(18)이 고등학교를 졸업한 직후인 내년 2월 23일 해병대에 자원 입대한다고 합니다. 이와 관련된 기사들에 나오는 병역·입대 관련 용어와 표현을 살펴볼까요.&lt;br&gt;&lt;br&gt;‘자원 입대하다’는 voluntarily enlist라고 하면 되겠습니다. enlist는 ‘en-’(안으로)과 ‘list’(명단)가 결합돼 ‘군대 명단에 이름을 올리다’, 즉 ‘입대하다’라는 의미로 쓰입니다. 현역 복무 의무자 소집에 따라 징집되는 것은 be drafted 또는 be conscripted라고 하지요. ‘징집을 기피하다’는 ‘회피하다’라는 동사 dodge를 써서 dodge the draft라고 합니다.&lt;br&gt;&lt;br&gt;정동원 측은 “입소식은 다수의 장병 및 가족들이 함께하는 자리인 만큼 별도의 공식 행사는 하지 않을 예정”이라며 팬들에게 “현장 방문은 삼가 주시기를 정중히 부탁드린다”고 밝혔습니다. 그러면서 “정동원이 건강하게 국방의 의무를 마치고 더욱 성숙한 모습으로 여러분 곁에 돌아올 수 있도록 따뜻한 응원을 부탁한다”고 당부했습니다.&lt;br&gt;&lt;br&gt;‘장병’은 ‘장교와 병사’를 합쳐 이르는 말이니까 service members 또는 military personnel로 통칭합니다. personnel은 프랑스어에서 온 단어로 ‘인원’ ‘직원’을 의미하는데, 군대 용어로는 ’병력’ ‘장병’을 뜻합니다.&lt;br&gt;&lt;br&gt;‘국방의 의무’ ‘병역 의무’는 보통 military service라고 하는데, ‘의무’를 특정하고 싶으면 military duty, mandatory military duty 또는 military service obligation이라고 하면 되겠습니다. mandatory는 ‘의무적인’ ‘강제적인’이라는 뜻으로, 라틴어 ‘mandatum’(명령)에서 유래했습니다.&lt;br&gt;&lt;br&gt;‘의무를 마치다’는 complete one’s service 또는 fulfill one’s duty라고 하면 되겠습니다. fulfill은 ‘이행하다’ ‘완수하다’라는 의미로, ‘full’(가득)과 ‘fill’(채우다)이 결합해 ‘모든 것을 완전히 끝내다’라는 뜻을 품게 됐습니다.&lt;br&gt;&lt;br&gt;현재 서울공연예술고등학교에 재학 중인 정동원은 앞서 “남자로 태어났으면 멋있게 군대에 다녀오고 싶다”며 해병대 지원 입대 의사를 공개적으로 밝히고 “아버지도 707특임대를 나오셔서 군대 이야기를 많이 해주셨다”고 말했다고 합니다.&lt;br&gt;&lt;br&gt;‘해병대’는 Marine Corps, ‘해병대원’은 Marine이라고 하지요. 일반 명사임에도 앞 글자를 대문자로 쓰는 경우가 많습니다. marine은 ‘바다의’ ‘해양의’라는 의미이고, corps는 프랑스어에서 유래한 단어로 ‘군단’ ‘부대’를 뜻하지요. 여기서 한 가지 유념해야 할 것은 corps 발음은 ‘코프스’가 아니라 ‘코어[kɔː(r)]’라는 사실입니다.&lt;br&gt;&lt;br&gt;‘재학 중이다’는 be currently enrolled in 또는 be attending으로 표현하면 적절하겠습니다. enroll은 ‘en-’(안으로)과 ‘roll’(명부)이 결합되어 ‘등록하다, 입학하다’라는 의미입니다. 앞서 언급된 enlist와 같은 구조이지요.&lt;br&gt;&lt;br&gt;‘특임대’는 특수 임무를 수행하는 부대라는 의미에서 special forces unit 또는 special mission unit이라고 하면 되는데, 대테러 특수부대인 ‘707특임대’는 고유 명사로 공식 명문 표기를 ‘707th Special Mission Group’으로 하고 있습니다.&lt;br&gt;&lt;br&gt;‘공개적으로 밝히다’는 publicly announce 또는 openly reveal로 표현하면 됩니다. announce는 라틴어 ‘annuntiare’(알리다)에서 유래했고, reveal은 ‘revelare’(베일을 벗기다)에서 왔습니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/5K3CC3PI5VF7PB3V6NZMQF5Z6Y.gif?auth=80095ef8b946b83ccc75873c0fc8a11608dac69ca33eff51b2d1ec827f1a4f2d&amp;smart=true&amp;width=440&amp;height=330" type="image/jpeg" height="330" width="440"/>
+    </item>
+    <item>
+      <title>2026 조선일보 4대 기획</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/XWZUJFZ7BNERBLPLDZXJY7VRJE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/XWZUJFZ7BNERBLPLDZXJY7VRJE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:52:00 +0000</pubDate>
+      <content:encoded>2026년 병오년(丙午年)을 맞아 조선일보가 새로운 기획으로 독자 여러분을 찾아갑니다. ‘초고령화 사회’ 대한민국의 건강 불평등, 유례없는 저출생, 세대 간 빈부 격차 등 대한민국이 직면한 문제를 진단하고 해법을 모색합니다. 세계가 열광하는 K컬처의 활약상과 나아갈 길도 제시합니다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AKO7226Q5CCZJAWD7DX7BJ4BA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;대한민국을 건강하게&lt;/b&gt;&lt;br&gt;&lt;br&gt;서울대학교와 조선일보는 ‘대한민국 건강 지도 및 건강 공동체 캠페인’을 시작합니다. 유홍림 서울대 총장과 방준오 조선일보 사장은 31일 서울대 관악캠퍼스에서 국민의 건강권을 지키고 지속 가능한 사회를 만들기 위해 협력한다는 내용의 업무협약(MOU)을 체결했습니다. 전국 252개 기초자치단체별 ‘한국 건강 지수(KHI)’를 바탕으로 지자체별 맞춤형 ‘건강 컨설팅 프로젝트’를 추진합니다. 의료 개혁 연재도 함께 시작합니다. 각 분야 전문가 9인으로 미래의료 혁신위원회를 구성해 한국 의료가 가야 할 방향을 모색합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;아이가 행복입니다 시즌 9&lt;/b&gt;&lt;br&gt;&lt;br&gt;조선일보는 저출생 극복을 위해 합계 출산율이 1명 밑으로 떨어졌던 2018년부터 ‘아이가 행복입니다’ 캠페인을 진행해왔습니다. 올해도 매주 지면을 통해 출산율 반등에 성공한 일터와 지자체 등을 찾아 비결을 소개합니다. ‘저출생 시대 신명문가(新名門家)’를 찾고 우리 주변의 아기 탄생 소식도 알립니다. 하반기에는 저출생 극복을 위해 노력한 기업·공공기관·개인을 발굴해 시상합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;다시 청년이 꿈꾸는 나라&lt;/b&gt;&lt;br&gt;&lt;br&gt;청년이 꿈꾸기를 멈추면 대한민국의 미래도 멈춥니다. 부모보다 가난한 세대가 돼가는 20·30 청년들이 마주한 현실을 입체적으로 조명하는 기획을 준비했습니다. 취직부터 내 집 마련까지 부(富)의 사다리가 끊어진 요즘 청년이 처한 현실을 분석하고 세대 격차를 극복할 해법을 모색합니다.&lt;br&gt;&lt;br&gt;&lt;b&gt;우리가 몰랐던 K&lt;/b&gt;&lt;br&gt;&lt;br&gt;지난해 ‘케이팝 데몬 헌터스’를 통해 한국을 바라보는 세계의 시선에 우리 스스로가 놀랐습니다. ‘한국다움(Koreanness)’이 얼마나 매력적인지 우리도 몰랐습니다. ‘골든’을 따라 부르는 이들이 K푸드를 즐기고 K뷰티 상품으로 자기를 꾸밉니다. 한국을 체험하려는 발길도 이어지고 있습니다. 생생한 K컬처 진화 현장을 찾아 독자 여러분께 소식을 전해드립니다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>의사 인력 추계, 과학적으로 하겠다더니… 李정부도 주먹구구</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/01/01/O4CC5ACVBRHV3AHRCD276TPYH4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/01/O4CC5ACVBRHV3AHRCD276TPYH4/</guid>
+      <dc:creator>곽래건 기자, 조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:46:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MVQWGNBRMM4DON3FGBTGMYTBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김태현 의사인력수급추계위원장이 30일 서울 종로구 정부서울청사에서 제12차 의사인력수급추계위원회 회의 결과를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;의사인력 수급추계 위원회가 지난 30일 회의를 끝으로 “2040년까지 최대 1만1136명의 의사가 부족하다”는 논의 결과를 내놨지만, ‘졸속 발표’라는 비판이 끊이지 않고 있다. 필요한 미래 의사 규모를 과학적으로 정하려고 추계위를 구성하고도, 기한 내 결과 발표에만 급급해 제대로 된 검증 없이 어설픈 수치를 제시했다는 것이다. 추계위 내 일부 위원들 사이에선 “대학교 학부생의 보고서 수준” “과학적인 모델링이라고 보기 어렵다”는 얘기까지 나온다. &lt;br&gt;&lt;br&gt;추계위는 마지막 회의 때 미래 의사 수요와 공급을 둘러싼 예측 모델 논의를 진행하면서, 모델을 어떻게 하면 더 정교하게 보완할지보다 어떤 모델을 선택할지 투표하는 데 시간을 대부분 할애한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;31일 본지 취재 결과, 추계위에선 2040년에 몇 명의 의사가 공급될 것인지에 대해선 별 이견이 없었다고 한다. 논란이 된 건 필요한 의사 수를 추계하는 모델이었다. 회의 때 총 3가지 모델을 채택했는데, 모델마다 내놓은 필요한 의사 수 예측치가 크게 달랐다. 주로 비(非)의료계 추천을 받은 추계위원들은 2040년 필요한 의사 수를 14만9273명으로 예측한 모델을 지지했다. 나머지 두 개는 필요한 의사 수를 훨씬 적게 예상한 모델들이었다. 하지만 추계위는 이날 3가지 모델을 모두 채택했다. 그래서 2040년 부족한 의사 수 추계가 ‘5704~1만1136명’으로 광범위하게 나오게 됐다. 12월 8일 추계위는 “2040년 최대 1만8700명의 의사가 부족하다”는 중간 결과를 논의했는데, 약 3주 만에 부족한 의사 수가 7000명 이상 줄어들게 된 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7BMNELGC5AUZBVSFNTUQXBEGQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=정인성&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이에 “주먹구구식이었던 윤석열 정부 때와 뭐가 다른지 모르겠다”는 지적도 나온다. 윤 정부 때는 의대 정원 2000명 증원을 추진하면서 “2035년 의사가 1만5000명 부족하기 때문”이라는 근거를 제시했다. 최근 감사원 감사에 따르면, 윤 정부는 이 근거를 만들기 위해 ‘2035년 의사 1만1527명이 부족하다’는 보고서를 쓴 국책연구원 출신에게 다시 계산을 시켰다. ‘현재도 의사가 부족한데 이런 점이 반영되지 않았다’는 이유였다. 이후 ‘의료 취약 지역에 의사 4786명이 부족하다’는 연구 결과가 나오자 윤 정부는 이 숫자와 기존 연구 전망치(1만1527명)를 합쳐 ‘2035년 의사가 1만6313명 부족하다’는 결론을 만들었다.&lt;br&gt;&lt;br&gt;이뿐만이 아니다. 이날 추계위에서 다뤘던 주요 쟁점 중 하나는 미래에 필요한 의사 수요를 어떻게 측정하느냐였다. 이를 계산하려면 의사가 실제로 1년 중 얼마나 근무하는지, 하루에 몇 시간 일하는지를 알 수 있는 데이터가 필요하다. 하지만 추계위는 관련 데이터가 없어 대신 입원 횟수 등을 기반으로 한 ‘의료 이용량’을 끌어다 썼다. &lt;br&gt;&lt;br&gt;여기에다 AI(인공지능) 도입에 따른 생산량 변화와 워라밸을 중시하는 젊은 의사들이 일을 적게 하려는 추세도 제대로 반영하지 않았다. 추계위는 경제협력개발기구(OECD)의 연구 보고서를 근거로 ‘AI 도입이 의사 생산성을 6% 향상시킨다’는 시나리오를 내놨지만, 이는 의사만이 아니라 보건의료 분야 전체의 생산성에 대한 내용이었다. 또 별다른 근거 없이 2040년 의사들의 근무 일수는 지금보다 5% 줄어들 것이라고 가정했다. 한 추계위 관계자는 “AI 발달로 의사가 덜 필요하다는 주장과, 의사 근무 일수가 줄어 의사가 더 필요하다는 양쪽의 주장을 적당히 섞어 ‘영향이 없다’는 결론을 억지로 만들어낸 것”이라고 했다.&lt;br&gt;&lt;br&gt;이런 결정 과정은 해외 사례와 대조적이다. 일본만 해도 의사 수요를 임상과 비임상으로 분리한 다음, 임상에 대해선 현장 조사를 통해 입원 수요, 외래 수요까지 따진다. 병상별로 의사가 어느 정도 필요한지, 외래 환자는 어느 정도인지, 외래 환자 규모 대비 의사는 얼마나 필요한지 등도 감안한다. 영국은 의료 인력을 추계할 때 의대협의회뿐 아니라 감사원까지 나선다. 전에 발표한 자료를 보면, 외래 환자 첫 방문률, 응급실 방문 증가율, 대기 명단에 올랐지만 진료를 못 받은 환자 비율까지 분석에 포함됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/MVQWGNBRMM4DON3FGBTGMYTBG4.jpg?auth=d23cd1ffdef7bb1988ce0532c167377a56c693416dec1e2e6ac68ce3e5f867a5&amp;smart=true&amp;width=6000&amp;height=4000" type="image/jpeg" height="4000" width="6000">
+        <media:description type="plain">김태현 의사인력수급추계위원장이 30일 서울 종로구 정부서울청사에서 제12차 의사인력수급추계위원회 회의 결과를 발표하고 있다. /뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">·</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>한국 돌아온 천연기념물 고니</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/NZHJ66ATWBHOJARZYEUQAO7PVQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/NZHJ66ATWBHOJARZYEUQAO7PVQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:44:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7ZCPDIEU4NF7HNZUMQS3LG2XXQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자
+&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오후 부산 사하구 을숙도에 천연기념물 고니 떼가 모여 있다. 겨울 철새인 고니는 주로 시베리아, 알래스카에서 번식한 뒤 동북아시아에서 겨울을 난다. 우리나라엔 매년 10월에서 이듬해 3월까지 머문다. 낙동강 하구의 을숙도나 경남 창원 주남저수지 등에서 볼 수 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>법관 직무 만족도 4년새 17%p 급락</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/01/OMUNZGLNNZCBZOSLXYCWORTUKU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/01/OMUNZGLNNZCBZOSLXYCWORTUKU/</guid>
+      <dc:creator>오유진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:44:00 +0000</pubDate>
+      <content:encoded>현직 법관들의 직무 만족도가 4년 새 17%포인트 하락했다는 조사 결과가 31일 나왔다. 법원 내부에선 “작년부터 극심해진 정치권 등의 ‘사법부 흔들기’ 탓에 법관들의 자존감이 상당히 떨어졌음을 보여주는 조사 결과”란 해석이 나왔다.&lt;br&gt;&lt;br&gt;대법원 산하 사법정책연구원이 2024년 10~11월 전국 1·2심 법원에서 근무하는 법관 940명을 대상으로 설문조사를 한 결과, ‘법관으로서 직업적 삶에 만족한다’는 응답은 68.0%로 2020년 조사 때(85.4%)보다 17.4%포인트 떨어졌다. ‘매우 만족’ 응답은 15.4%로 2020년 27.4%의 절반 정도에 머물렀다. 법관 직업에 대한 만족 요인으로는 ‘직무의 독립성과 자율성’이 가장 많이 꼽혔고, 뒤이어 ‘사회적 영향력과 공익에의 기여’, ‘직업의 안정성’ 등 순이었다. 불만족 요인으로는 ‘불충분한 보수 수준’, ‘근무의 고된 강도’, ‘가정·개인 생활의 희생’ 등의 순으로 꼽혔다. 이런 조사 결과는 사법정책연구원이 지난 9월 발행한 ‘재판 실무현황 및 법관 근무여건에 관한 실증적 연구’ 보고서에 담겼다.&lt;br&gt;&lt;br&gt;이번 조사에선 2020년 조사 때 법관 직무 불만족 요인 1~3순위에 포함되지 않았던 ‘불충분한 보수 수준’이 1순위로 꼽혔다. 이를 두고 법조계에선 “법관들이 갖고 있던 사회적 명예와 자긍심이 떨어지면서 경제적 문제에 민감해진 것 아니냐”는 말이 나왔다. 한 고법 부장판사는 “초임 시절엔 자긍심으로 힘든 업무를 버텼지만, 최근 정치권 압박 속에 법원에 대한 자부심이 떨어졌다”며 “30년째 재판을 해왔는데 ‘내가 뭐 하려고 지금까지 남아 있나’ 하는 생각이 든다”고 말했다. 다른 판사는 “외부의 부당한 공격과 비난에 법관이 노출돼선 안 된다”고 했다. 이번 조사에 참여한 법관들도 재판에 대한 과도한 공격 등 법원을 향한 비판 수위가 높아지고 직업적 자긍심이 실추되는 것이 정년 근무를 어렵게 만든다고 답했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새해 첫날 전국 꽁꽁… 해돋이는 잘 보여요</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/01/F67JE5CMVVEXTCDLH3CRUARLNE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/01/F67JE5CMVVEXTCDLH3CRUARLNE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:44:00 +0000</pubDate>
+      <content:encoded>영하 16도의 한파 속에서 새해를 여는 첫 태양은 여느 해보다 선명하겠다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 중국 북부 지방에서 확장하는 대륙 고기압의 영향으로 찬 바람이 내려오면서 1일 아침 최저기온이 영하 16~영하 4도, 낮 최고기온은 영하 7~영상 3도로 전국이 한겨울 추위를 겪을 전망이다. 서울은 영하 11도, 체감온도가 영하 14도까지 떨어질 것으로 예보됐다. &lt;br&gt;&lt;br&gt;1일 해돋이는 전국 대부분 지역에서 볼 수 있을 전망이다. 고기압 영향권에서 구름이 거의 끼지 않고, 찬 바람이 미세먼지를 씻어내기 때문이다. 1일 서울에 오전 7시 47분 첫 해가 고개를 내미는 등 해돋이 시각은 중부지방 오전 7시 40~47분, 남부지방 오전 7시 32~41분, 제주 7시 38분 등으로 예상된다.&lt;br&gt;&lt;br&gt;이번 한파는 한동안 이어질 전망이다. 수도권과 강원·충북·대구 전역, 충남·전북·경북 일부 지역에는 한파특보가 내려졌다. 경기 북부와 강원 영서·경북 북부는 한파경보(이틀 이상 최저기온 영하 15도 이하), 나머지 특보 지역은 한파주의보(이틀 이상 최저기온 영하 12도 이하)가 발효됐다. 특보는 주말인 3~4일까지 대부분 지역에서 유지될 전망이다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘정치권 로비’ 前 통일교 비서실장 집 압수수색</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/X32XCJ6SSJCYPJQHIJDFT32V6U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/X32XCJ6SSJCYPJQHIJDFT32V6U/</guid>
+      <dc:creator>이기우 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:44:00 +0000</pubDate>
+      <content:encoded>통일교의 정치권 금품 로비 의혹을 수사 중인 경찰청 국가수사본부 전담수사팀이 31일 경기 가평군에 있는 정원주 전 통일교 총재 비서실장 자택을 압수 수색했다. 경찰은 더불어민주당 전재수 의원과 임종성 전 의원, 미래통합당 김규환 전 의원 등이 2018~2020년 통일교에서 현금과 명품 시계 등 금품을 수수했다는 혐의를 수사 중이다. &lt;br&gt;&lt;br&gt;경찰은 이날 압수 수색에서 이와 관련한 물증을 확보하려 한 것으로 알려졌다. 경찰은 전 의원 등이 가평군 천정궁을 방문해 한학자 통일교 총재에게 금품을 받은 것으로 의심한다. 그런데 한 총재를 오랫동안 가까이에서 보좌한 정씨가 이를 알고 있거나 관련 내용을 기록했을 가능성이 있다고 경찰은 보는 것이다.&lt;br&gt;&lt;br&gt;한편 서울중앙지검은 지난 29일 경찰이 정치자금법 위반 혐의로 송치한 송광석 전 천주평화연합(UPF) 회장을 불구속 기소했다. 검찰은 경찰이 송씨와 함께 송치한 한학자 총재와 윤영호 전 세계본부장, 정원주씨에 대해선 보완 수사를 요구했다. 이들은 2019년 초 여야 정치인 11명에게 통일교 자금 총 1300만원을 불법적으로 후원한 혐의를 받는다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조승식 前 대검 강력부장 별세</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/01/B54ORLRNPFAEZBY6YM46Q4BXTQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/01/B54ORLRNPFAEZBY6YM46Q4BXTQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GWBU3YUIJZDOZH5MNANVO2A7MM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조승식(73) 전 대검 강력부장이 30일 별세했다. 1990년 범서방파 두목 김태촌씨를 체포하는 등 영화 ‘범죄와의 전쟁’ 속 검사의 실제 모델로 알려졌다. 유족으로 아들 조용빈·조용준씨 등이 있다. 빈소는 서울성모병원. 발인은 2일 4시 30분. (02)2258-5940&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[오늘의 날씨] 2026년 1월 1일</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/01/FUACSMZ43FAARI74WA6AN33GBI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/01/FUACSMZ43FAARI74WA6AN33GBI/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>전국 날씨 맑지만… 강한 바람과 한파&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67YR7M56NJB2VNVPDR72LJZE6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>박성혁 한국관광공사 사장</title>
+      <link>https://www.chosun.com/national/people/2026/01/01/VRIXSNGKVNEQTPGV45ZA5OW46Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/01/VRIXSNGKVNEQTPGV45ZA5OW46Y/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AHK5KQ5DRBO5MGFVZCH4VFDGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문화체육관광부는 한국관광공사 사장에 박성혁 제일기획 자문역이 31일 자로 임명됐다고 밝혔다. 박 사장은 제일기획에서 독일법인장, 유럽총괄장, 북미총괄장, 글로벌부문장(부사장)을 역임했다. 임기는 3년.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이시형 한국외교협회 회장</title>
+      <link>https://www.chosun.com/national/people/2026/01/01/3IIIQFEG6BDCRC75XKF4HVJ45U/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/01/3IIIQFEG6BDCRC75XKF4HVJ45U/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IOET52OE2ZGSDLAC4HAVGGZ7BQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;한국외교협회 신임 회장에 이시형 전 한국국제교류재단(KF) 이사장이 2일 취임한다. 외무고시 14회 출신의 이 회장은 외교통상부 통상교섭조정관, 주경제협력개발기구(OECD) 대표부 대사 등을 역임했다. 외교협회는 7일 외교협회 신년회를 한국프레스센터에서 개최한다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[부음] 김기옥 별세 외    </title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/01/01/OTPHQPYOQBHFPO2LZ4WVWJNGFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/01/OTPHQPYOQBHFPO2LZ4WVWJNGFY/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>&lt;b&gt;▲김기옥&lt;/b&gt; 별세, &lt;b&gt;이재은&lt;/b&gt; 前 충주MBC 사장·&lt;b&gt;이제일&lt;/b&gt; 모친상, &lt;b&gt;이기상&lt;/b&gt; 채널A 기자·&lt;b&gt;이기백 &lt;/b&gt;조선영상비전 카메라 감독 조모상=31일2시 일산백병원, 발인 2일10시, (031)910-7444&lt;br&gt;&lt;br&gt;▲&lt;b&gt;서상린&lt;/b&gt; 별세, &lt;b&gt;문귀수&lt;/b&gt; 남편상, &lt;b&gt;서윤정&lt;/b&gt;·&lt;b&gt;서소욱 &lt;/b&gt;대구경북과학기술원 연구원·&lt;b&gt;서원교&lt;/b&gt; 부친상, &lt;b&gt;손대성&lt;/b&gt; 연합뉴스 대구경북취재본부 차장·&lt;b&gt;강대천&lt;/b&gt; 잇츠센서 대표 장인상=31일0시10분 대구시민전문장례식장, 발인 2일6시, (053)961-4444&lt;br&gt;&lt;br&gt;&lt;b&gt;▲지영춘&lt;/b&gt; 별세, &lt;b&gt;지승환&lt;/b&gt; KBS창원방송총국 촬영 기자·&lt;b&gt;지선후&lt;/b&gt; 부친상=30일23시20분 경북 영천국화원전문장례식장, 발인 2일8시, (054)331-4444 &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[인사] 헌법재판소 외</title>
+      <link>https://www.chosun.com/national/obituary-personnel/2026/01/01/42YMFDAOEVBOHDJKVRIWCBRTWE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/obituary-personnel/2026/01/01/42YMFDAOEVBOHDJKVRIWCBRTWE/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
+      <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇실장(1급) 보임▷심판지원실장 박준희◇이사관(2급) 승진·국장 신규보임▷기획재정국장 하태진◇국장(2급) 전보▷국제협력국장 정영주▷심판정보국장 신승훈▷행정관리국장 최혁◇국장(3급) 보임▷도서총괄심의관 김인숙◇부이사관(3급) 전보▷홍보담당관 이진석▷국립외교원 파견 이은영◇부이사관(3급) 승진▷심판사무과장 김병섭▷총무과장 조진훈◇과장 전보▷재정기획과장 윤정경▷평가감사과장 이영준▷법제과장 이상모▷정보보호과장 유준영▷청사관리과장 조기영▷자료조사과장 김규필▷통일교육원 파견 용상선◇과장 신규보임▷AACC지원과장 김기필▷심판민원과장 임영선▷정보화기획과장 조영진▷기획행정과장 이찬주◇서기관(4급) 승진▷심판민원과 김소영▷정보화기획과 김선미▷기획행정과 이상진◇서기관(4급) 전보▷평가감사과 황해훈▷국제과 최성훈▷심판지원총괄과 이수정▷심판사무과 이석준▷인사과 김도훈▷헌법재판연구원 교육팀 천미영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;농림축산식품부&lt;/b&gt;◇과장급 승진▷농촌소득에너지정책관실 농업재해지원팀장 최종순▷농림축산검역본부 기획조정과장 강순례▷국립농산물품질관리원 농업경영체과장 남기헌◇과장급 전보▷정책기획관실 혁신행정담당관 오재협▷농촌정책국 농산업전략기획단장 문지영▷농산업혁신정책관실 빅데이터전략팀장 박재화▷농촌소득에너지정책관실 농촌탄소중립추진팀장 김신재▷유통소비정책관실 원예경영과장 조민경▷농림축산검역본부 식물검역부 수출지원과장 박경희▷농림축산검역본부 동식물위생연구부 바이러스질병과장 김재명▷농림축산검역본부 동식물위생연구부 세균질병과장 조윤상▷국립농산물품질관리원 충북지원장 손경문&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기후에너지환경부&lt;/b&gt;◇실장급 승진▷중앙환경분쟁조정피해구제위원장 서흥원▷2050탄소중립녹색성장위원회 사무차장 홍동곤◇국장급 전보▷수자원정책관 송호석▷물환경정책관 김은경▷한강유역환경청장 이승환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;◇실장급 전보▷주택공급추진본부장 김영국▷대변인 김헌정▷기획조정실장 남영우▷국토도시실장 정의경▷대도시권광역교통위원회 상임위원 박지홍▷중앙토지수용위원회 상임위원 이상주◇국장급 전보▷공항정책관 이상헌▷철도국장 김태병▷행정중심복합도시건설청 도시계획국장 안석환▷새만금개발청 개발전략국장 윤진환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;해양수산부&lt;/b&gt;◇국장급 전보▷국립수산물품질관리원장 조일환◇과장급 전보▷정보화담당관 김성국&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가데이터처&lt;/b&gt;◇과장급 전보▷행정자료관리과장 김미애▷스마트조사센터장 조윤구▷경인지방데이터청 수원사무소장 송요성▷동북지방데이터청 조사지원과장 김오승▷동북지방데이터청 강원지방데이터지청장 홍연권▷동북지방데이터청 안동사무소장 이주원▷동남지방데이터청 울산사무소장 김선조&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇국장급 전보▷인천지방국세청장 박종희▷국세청 감사관 지성▷개인납세국장 박정열▷서울지방국세청 송무국장 공석룡▷국제거래조사국장 김오영▷중부지방국세청 징세송무국장 윤창복▷조사3국장 강종훈▷부산지방국세청 징세송무국장 이태훈◇과장급 전보▷국세청 정책보좌관 신민섭▷인사기획과장 이상원▷운영지원과장 최원수▷정보보호담당관 손유승▷인공지능혁신담당관 전승한▷심사2담당관 정필규▷역외정보담당관 송윤정▷국제협력담당관 이상훈▷법무과장 안형태▷체납분석과장 유지민▷소득세과장 손채령▷세정홍보과장 권오흥▷공익법인·연구개발지원과장 김광민▷원천세과장 김태수▷자본거래관리과장 남아주▷조사2과장 오미순▷국제조사과장 민회준▷장려세제과장 정상수▷소득자료관리과장 정해동▷국세외수입징수기획과장 박성무▷상호합의담당관 이슬▷서울지방국세청▷감사관 강동훈▷운영지원과장 이슬▷소득재산세과장 최승일▷법인세과장 강정훈▷송무2과장 최은경▷조사1국 조사2과장 최성영▷조사1국 조사3과장 배일규▷조사3국 조사관리과장 임형태▷조사3국 조사3과장 하신행▷조사4국 조사2과장 김태훈▷국제조사1과장 권동철▷국제조사2과장 임영미▷성동세무서장 이광섭▷중부세무서장 박재신▷서대문세무서장 주현철▷은평세무서장 고병재▷마포세무서장 최병구▷강서세무서장 홍용석▷구로세무서장 허양원▷금천세무서장 허준영▷관악세무서장 권석현▷삼성세무서장 최원봉▷반포세무서장 김일환▷서초세무서장 유영▷역삼세무서장 정헌미▷동대문세무서장 김태수▷중랑세무서장 김재산▷도봉세무서장 윤명덕▷송파세무서장 이인우▷중부지방국세청 운영지원과장 성혜진▷정보화관리팀장 김민기▷체납추적과장 육규한▷조사2국 조사관리과장 조수진▷조사2국 조사1과장 김현승▷조사3국 조사2과장 권경환▷분당세무서장 고영일▷안산세무서장 임상훈▷동안산세무서장 이창수▷동화성세무서장 성병모▷성남세무서장 조창우▷구리세무서장 김정태▷시흥세무서장 함민규▷기흥세무서장 엄인찬▷인천지방국세청 계양세무서장 박형민▷연수세무서장 정승태▷김포세무서장 김영기▷부천세무서장 양순석▷고양세무서장 서원식▷동고양세무서장 변희경▷광명세무서장 김지훈▷대전지방국세청 성실납세지원국장 최지은▷서대전세무서장 오원균▷북대전세무서장 장성우▷천안세무서장 이완희▷아산세무서장 이정민▷광주지방국세청 조사1국장 고근수▷징세송무국장 강병수▷조사2국장 이봉근▷광주세무서장 김시형▷북광주세무서장 백계민▷광산세무서장 장영수▷군산세무서장 강신웅▷전주세무서장 박임선▷북전주세무서장 전강식▷나주세무서장 박현주▷대구지방국세청 조사1국장 장우정▷성실납세지원국장 이상걸▷조사2국장 황남욱▷동대구세무서장 윤재복▷서대구세무서장 임종철▷남대구세무서장 이병탁▷부산지방국세청 감사관 황동수▷운영지원과장 고동환▷조사1국 조사관리과장 연제민▷서부산세무서장 이재영▷부산진세무서장 송진호▷해운대세무서장 이석중▷부산강서세무서장 정도식▷마산세무서장 황순민▷창원세무서장 손해수▷양산세무서장 최만석◇과장급 승진▷중부지방국세청 조사1국 조사2과장 김주연▷춘천세무서장 강찬호▷영월세무서장 윤소영▷삼척세무서장 장영일▷강릉세무서장 김일도▷인천지방국세청 포천세무서장 고광덕▷대전지방국세청 동청주세무서장 안경민▷영동세무서장 이화명▷보령세무서장 김완구▷홍성세무서장 정민기▷예산세무서장 김장년▷광주지방국세청 서광주세무서장 홍영표▷남원세무서장 손병양▷해남세무서장 이승철▷순천세무서장 구자은▷대구지방국세청 포항세무서장 김유신▷영덕세무서장 박준배▷구미세무서장 왕성국▷상주세무서장 김주식▷영주세무서장 박규동▷부산지방국세청 법인세과장 박창오▷송무과장 김성민▷조사1국 조사1과장 최재명▷조사1국 조사3과장 유민희▷조사2국 조사관리과장 이승규▷조사2국 조사1과장 성병규▷수영세무서장 남용우▷통영세무서장 박찬웅▷국세공무원교육원 교육지원과장 강민성▷교육운영과장 윤지환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;동북아역사재단&lt;/b&gt;◇실장&amp;lt;독도실&amp;gt;▷홍성근◇소·팀장&amp;lt;연구정책실&amp;gt;▷한일연구소장 서종진&amp;lt;독도실&amp;gt;▷독도연구소장 김영수&amp;lt;운영관리실&amp;gt;▷회계팀장 이경미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 중앙의료원&lt;/b&gt;▷의무부총장 겸 중앙의료원장 이정재▷특임 중앙의료원장 서유성▷전략기획본부장 박형기&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 서울병원&lt;/b&gt;▷병원장 이성진▷진료부원장 장재영▷연구부원장 김태형&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇기획조정실▷경영분석팀장 권오웅▷전략기획팀장 김용범◇사무처▷구매팀장 선홍규◇인재경영실▷조직문화팀장 문희영 ▷인재개발팀장 최상기◇제중원보건개발원▷행정팀장 양영규◇치과대학▷행정팀장 김한영◇세브란스병원▷입원원무팀장 장석진▷기획예산팀장 손종영▷법무팀장 이정환▷사무팀장 이영호▷입원간호3팀장 김정연◇강남세브란스병원▷헬스체크업 경영팀장 박호진▷영상의학팀장 김동필◇용인세브란스병원▷외래응급간호팀장 박성혜◇연세암병원▷기획경영팀장 박만우◇재활병원▷경영지원팀장 서영근◇세브란스병원▷입원간호2팀 101병동파트장 박승진▷진단검사의학팀 채혈파트장 김선경 ▷가정전문간호사실 파트장 송인자▷진단검사의학팀 혈액학파트장 박정용▷진단검사의학팀 암병원진단검사파트장 이상연◇재활병원▷간호팀 71병동파트장 이민정◇연세암병원▷입원간호1팀 15병동파트장 안성은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;건국대학교&lt;/b&gt;◇서울캠퍼스▷부동산대학원장 겸 부동산과학원장 심교언▷캠퍼스타운사업센터장 겸 예비창업패키지사업센터장 황희성▷경영대학 행정실장 겸 경영전문대학원 행정실장 겸 경영대학원 행정실장 최미연▷상허교양대학 행정실장 겸 KU자유전공학부 행정실장 정수영▷외국인학생센터장 김병수▷출판문화사업팀장 남기열▷공학대학원 행정실장 겸 정보통신대학원 행정실장 김응태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성신여대&lt;/b&gt;▷교육문제연구소장 조윤정▷기초과학연구소장 고병준▷건강과학연구소장 천주영▷로컬디자인정책연구소장 이원호&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] take a toll on~</title>
+      <link>https://www.chosun.com/national/nie/english/2026/01/01/3L3L3HG7DVBWHJUNZLMRB6RKBA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/01/3L3L3HG7DVBWHJUNZLMRB6RKBA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FIN4VIBLZALFCCDTKM4M5PUHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[매일매일 중국어 한마디] 옛것이 가지 않으면, 새것이 오지 않는다</title>
+      <link>https://www.chosun.com/national/nie/chinese/2026/01/01/HTUBMY3JF5H45CZPMJIVTXVU4E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/01/01/HTUBMY3JF5H45CZPMJIVTXVU4E/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GYUKOXYWRDPRMJCDP4GV7I2WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[두근두근 뇌 운동] [2777] 열려라, 단어창고</title>
+      <link>https://www.chosun.com/national/nie/2026/01/01/UEYL6D4DQZBEZHI3JEBQFRR6HA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/01/UEYL6D4DQZBEZHI3JEBQFRR6HA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA5EL6IH4VHR5MZVZLSASIF5IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[신문으로 배우는 실용한자] 허무맹랑(虛無孟浪)</title>
+      <link>https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2HTT3OTTRFPNBVL5A55EC4QQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[입에 착착 붙는 일본어] 무병장수를 빌다</title>
+      <link>https://www.chosun.com/national/nie/japanese/2026/01/01/R4PGPSB4URAKDIRO7KMMHG7ETM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/01/01/R4PGPSB4URAKDIRO7KMMHG7ETM/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NGRC5U5ZVH5XOSQTWHOCIFLBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“올해는 잘되자” “건강하자” “경기 나아지길”… 시민들 새해 소망 외쳤다</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/VYXNNP6ODBEMZHRBKIXAAND5YI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/VYXNNP6ODBEMZHRBKIXAAND5YI/</guid>
+      <dc:creator>고유찬 기자, 이건 기자, 임희재 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:01:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OT7SFZPJWBK2TGMXS52WR427O4.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울시 광화문에서 신년 카운트다운 쇼가 펼쳐지고 있다. 2026.1.1/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 오전 0시 서울 종로구 보신각에서 제야의 종 타종과 함께 2026년 병오년 새해가 밝았다. 한겨울 추위에도 보신각과 광화문 일대에는 수만 명의 시민이 모여 새해의 시작을 함께했다.&lt;br&gt;&lt;br&gt;이날 33번의 묵직한 종소리가 울려 퍼지자 시민들은 환호성을 질렀다. 가족과 연인, 친구와 함께 현장을 찾은 시민들은 서로에게 “건강하자” “잘 버텨보자”는 덕담을 건네며 새해를 맞았다. 스마트폰을 들어 사진과 영상을 남기며 이 순간을 기록하는 모습도 곳곳에서 보였다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/APWJIBW3ZND2ZHLPDFJUJJEYL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 새해를 맞이한 1일 서울 종로구 보신각 타종행사에서 시민들이 기념사진을 찍고 있다. /이건 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;여자친구와 함께 제야의 종소리를 들으러 온 해킹·보안 전문가 이모(28)씨는 “보안 사고 소식을 접할 때마다 마음이 무겁다”며 “새해에는 이런 사고가 조금이라도 줄고, 새로운 기술을 계속 공부하며 스스로를 더 발전시킬 수 있기를 바란다”고 말했다. 크리스마스 기간 광화문마켓에서 팝업스토어를 운영했다는 캐릭터 디자이너 한모(28)씨는 “제가 만든 캐릭터와 브랜드를 더 많은 사람들이 알아봐 줬으면 좋겠다”며 “작업의 성과가 하나둘 드러나는 해가 됐으면 한다”고 했다.&lt;br&gt;&lt;br&gt;가족 단위 방문객도 적지 않았다. 가족과 함께 광화문광장을 찾은 박다혜(10)양은 “내년에 누군가에게 본보기가 되는 사람이 되고 싶다”며 “학교에서 반장에도 도전해 보고 싶다”고 말했다. 함께 온 박건후(8)군은 “내년에는 축구팀에서 제일 잘하는 선수가 되고 싶고, 영어 시험에서 100점도 맞고 싶다”며 웃었다.&lt;br&gt;&lt;br&gt;인천 서구 금곡동에서 남편과 두 자녀와 함께 온 배경희(45)씨는 “올해 경기가 좋지 않아 직장에서 어려움을 겪었다”며 “새해에는 경기가 나아지고 가족 모두 건강했으면 좋겠다”고 말했다. 서울 양천구에서 외손자 김이산(11)군과 함께 온 손동수(76)씨는 “지나간 일은 다 잊고 새해에는 행복한 일만 있었으면 한다”며 “손주가 학교생활을 잘 해주길 바란다”고 전했다.&lt;br&gt;&lt;br&gt;진로와 취업을 앞둔 청년들도 각자의 목표를 밝혔다. 서울 종로구에서 왔다는 장윤서(17)양은 “고3에 올라가는 만큼 영화과 진학을 목표로 열심히 준비하고 싶다”고 말했다. 부산 동래구에서 온 박성운(19)씨와 서울 양천구에서 온 김서영(20)씨는 “학점과 토익을 잘 챙겨 원하는 회사에 취업하는 게 새해 목표”라고 했다.&lt;br&gt;&lt;br&gt;서울 송파구에서 온 정다연(23)씨는 “말띠라서 그런지 올해는 제 해가 될 것 같다”며 “IT업계에 취업한 만큼 일에 빠르게 적응하고 팀에 활력을 주는 구성원이 되고 싶다”고 말했다. 그는 “개인적으로는 연애도 하고 싶다”며 웃었다. 성균관대 학생인 성서현(23)씨와 윤지민(22)씨는 “작년에 이어 올해도 함께 보신각에서 새해를 맞게 됐다”며 “각자 인생의 전환점이 되는 해가 됐으면 좋겠다”고 입을 모았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M4GGQYCVVFBWPP2P6B4S7WVH4Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 새해를 맞이한 1일 서울 종로구 보신각 타종행사에 많은 시민들이 참석하고 있다./임희재 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;행사 전부터 광화문마켓 일대에 있던 시민들이 세종대왕 동상 방향으로 이동하는 등 인파가 몰렸지만, 현장에서는 질서 있는 이동이 이어졌다. 곳곳에서 “뛰지 마세요” “천천히 이동해 주세요”라는 안내가 반복적으로 나왔다.&lt;br&gt;&lt;br&gt;경찰은 이날 제야의 종 행사에 최대 10만 명의 인파가 몰릴 가능성을 염두에 두고 대규모 안전 관리 대책을 마련했다. 18개 기동대를 포함해 1500여 명의 현장 관리 인력을 투입했고, 안전 펜스를 설치해 행사 구간을 12개 구역으로 나눠 구역별 수용 인원을 제한했다. 특정 구역에 인파가 집중될 경우에는 현장 통제를 통해 인원을 분산시켰다.&lt;br&gt;&lt;br&gt;교통과 대중교통 운영도 대폭 조정됐다. 보신각 주변을 경유하는 시내버스 47개 노선은 31일 오후 6시부터 다음 날 오전 7시까지 우회 운행했고, 지하철 1호선 종각역은 31일 오후 11시부터 1월 1일 오전 1시까지 무정차 통과했다. 서울교통공사는 종각역과 광화문역 등 인근 9개 역사에 평소보다 130여 명 늘어난 총 160명의 직원을 배치해 승객 안내와 질서 유지를 지원했다.&lt;br&gt;&lt;br&gt;경찰은 연말연시 인파가 집중되는 종로구 일대 교통 통제도 강화했다. 31일 오후 6시부터 1월 1일 오전 7시까지 교통경찰관 400명과 교통순찰대 싸이카 10대를 투입해 종로와 우정국로, 청계북로를 전면 통제했다. 종로는 종로2가교차로~서린교차로, 청계북로는 청계2가교차로~모전교교차로, 우정국로는 광교교차로~공평교차로 구간이 통제 대상이었다.&lt;br&gt;&lt;br&gt;시민들은 비교적 차분한 분위기 속에서 새해를 맞았다. 서울 성북구에서 왔다는 서유복(65)씨는 “건설업 경기가 많이 힘들었다”며 “새해에는 경기가 살아나 서민들도 조금은 여유를 찾았으면 좋겠다”고 말했다. 용인 처인구에서 온 박영혜(47)씨도 “경기가 풀려 모두가 조금 더 풍족해지길 바라는 마음으로 이곳을 찾았다”며 “아이들이 목표한 길을 잘 걸어가길 바란다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/OT7SFZPJWBK2TGMXS52WR427O4.JPG?auth=2d285007bc8e895b1c5421f51f80f49f1b841d9788cbc8823d5f1cfdcc22276e&amp;smart=true&amp;width=5694&amp;height=3796" type="image/jpeg" height="3796" width="5694">
+        <media:description type="plain">(서울=뉴스1) 박정호 기자 = 다사다난했던 2025년의 마지막 날인 31일에서 2026년 '붉은 말의 해' 병오년(丙午年) 새해인 1일로 넘어가는 자정녁 서울시 광화문에서 신년 카운트다운 쇼가 펼쳐지고 있다. 
+
+2025년 마지막 밤과 2026년 첫 순간을 하나로 이은 카운트다운과 신년 메시지, 새해 소망 등 미디어아트는 광화문과 세종 파빌리온, 대한민국역사박물관, KT 사옥, 일민미술관, 동아일보, 세광빌딩, 코리아나호텔, 선광빌딩 등 9개 건물에 표출됐다.  2026.1.1/뉴스1</media:description>
+        <media:credit role="author" scheme="urn:ebu">(서울=뉴스1) 박정호 기자</media:credit>
+      </media:content>
+    </item>
+    <item>
+      <title>‘환자 사망’ 양재웅 병원, 3개월 업무 정지 처분</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/OPIXXLBQGRDZRJWWJZL5VXOFZI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/OPIXXLBQGRDZRJWWJZL5VXOFZI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 15:23:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHBGXRRVYAXGFXRYSH4IT6U53A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 겸 정신건강의학과 전문의 양재웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신건강의학과 전문의이자 방송인인 양재웅(43)이 운영하는 병원이 환자 사망 사고와 관련해 3개월 업무 정지 처분을 받았다.&lt;br&gt;&lt;br&gt;경기 부천시보건소는 최근 양재웅이 운영하는 부천 모 병원에 대해 내년 1월 1일부터 3월 31일까지 업무 정지 처분을 내렸다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;병원 측은 이번 처분에 따르겠다는 의견서를 부천시보건소에 제출했으며, 입원 환자들은 모두 전원 조치된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난해 5월 이 병원에 다이어트 중독 치료를 위해 입원했던 30대 여성 A씨가 입원 17일 만에 장폐색으로 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;유족은 A씨가 입원 기간 부당한 격리와 강박을 당했고, 그 과정에서 필요한 의료 조치를 받지 못해 숨졌다고 주장하며 양재웅을 포함한 병원 관계자들을 고소했다.&lt;br&gt;&lt;br&gt;이와 관련해 병원에서 근무하던 40대 주치의 B씨와 간호사·간호조무사 등 5명은 업무상 과실치사 등의 혐의로 지난달 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰 조사 결과, 이들은 A씨에게 투여한 항정신병 약물의 부작용을 제대로 살피지 않고, 통증을 호소하는 A씨를 안정실에 감금하거나 손발을 결박한 뒤 방치한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>조폭 잡는 검사… ‘범죄와의 전쟁’ 모델, 조승식 前 대검 강력부장 별세</title>
       <link>https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</guid>
@@ -701,42 +910,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IJP74HXQIJEJXKDLTDKCNEWMLE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[두근두근 뇌 운동] [2776] 로꾸거 암송클럽</title>
-      <link>https://www.chosun.com/national/nie/2025/12/31/BBER5INKLRCC3DTAIINT7WAP24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2025/12/31/BBER5INKLRCC3DTAIINT7WAP24/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XR4HA3BR2VDHHEEQ6KQLD746SA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 내년에도 잘 부탁드립니다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2025/12/31/425PUMAM7REYREY4G4CYMBUOIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2025/12/31/425PUMAM7REYREY4G4CYMBUOIY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/JICD2ODY5BAGFOLPHWMZFQJCAA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[리빙포인트] 장갑 벗은 뒤 뒤집어 두세요 </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/PSIU6T7DDBESFDXYFHGDLR6DDY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/PSIU6T7DDBESFDXYFHGDLR6DDY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 14:32:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/L4DGEIGNIFFMBBNLX7HUVPQZBY.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=이진영·Midjourney&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사용한 장갑은 안감이 바깥으로 나오게 뒤집은 뒤 통풍이 잘 되는 곳에서 말려보자. 안쪽에 밴 땀이 마르면서 냄새가 덜 남는다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의날씨] 2025년 12월31일</title>
-      <link>https://www.chosun.com/national/education/2025/12/30/EIOSWSK7ZNCHFA7NWSZMJ34ZZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/30/EIOSWSK7ZNCHFA7NWSZMJ34ZZQ/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 14:31:00 +0000</pubDate>
-      <content:encoded>전국 가끔 구름 많음&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HUS3E2O4MVDQFEW76FZDHOYR2E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>스토킹 범죄 사건, 3년간 28% 증가</title>
       <link>https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</guid>
@@ -746,33 +919,6 @@
       <content:encoded>경찰에 입건된 스토킹 범죄 사건이 최근 3년간 28% 증가한 것으로 나타났다. 스토킹 범죄자는 남성이 여성의 3배로 많았지만, 갈수록 여성 비율이 늘어나는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDHYO3NGWFDD3ON2OHDKIECHPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 성평등가족부는 이런 내용이 담긴 ‘2025년 여성폭력통계’를 발표했다. 통계에 따르면, 지난해 스토킹 범죄 입건 건수는 1만3533건이었다. 2022년(1만545건), 2023년(1만2048건) 대비 각각 28%, 12% 증가했다. &lt;br&gt;&lt;br&gt;지난해 스토킹 범죄자 가운데 남성이 76.2%로 여성(23.8%)을 크게 앞질렀다. 하지만 여성 비율도 2022년 18.8%에서 2023년 20.5% 등으로 꾸준히 늘어나는 추세다. 스토킹 범죄자 중 43.2%는 전·현 애인, 7.5%는 전·현 배우자로 친밀한 관계가 많았다. &lt;br&gt;&lt;br&gt;배우자나 애인 등 친밀한 관계에서 폭력을 저질러 검거된 이들은 지난해 5만7973명으로 전년(6만2692명) 대비 7.5% 줄었다. &lt;br&gt;&lt;br&gt;반면, 친밀한 관계에서 살인이나 치사를 저지른 경우는 지난해 219명으로, 전년(205명)보다 6.8% 증가했다. 살인·치사를 저지른 범죄자 가운데 남성 비율이 75.8%로 여성(24.2%)보다 크게 높았다. 여성은 소수였지만, 2023년 39명에서 지난해 53명으로 36% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>신은경 9517만원, 이진호 2884만원 건보료 안냈다…고액 체납자 명단에</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/767A7D3CXNDOFJZCEHVHKKRYPM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/767A7D3CXNDOFJZCEHVHKKRYPM/</guid>
-      <dc:creator>김가연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 12:23:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/Y66KL3ISRVBYBKDL5VCGMIXSBQ.png"&gt;&lt;figcaption&gt;&lt;small&gt;배우 신은경, 방송인 이진호. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;국민건강보험공단이 공개한 4대 사회보험료 고액·상습 체납자 명단에 배우 신은경(52)과 방송인 이진호(39)의 이름이 포함됐다.&lt;br&gt;&lt;br&gt;공단은 30일 공단 홈페이지에 4대 사회보험료 고액·상습 체납자 1만3449명의 인적사항을 공개했다.&lt;br&gt;&lt;br&gt;인적사항 공개 대상자는 지난해 12월 31일 기준으로 납부 기한이 1년 지난 건강보험료 1000만원 이상, 연금보험료 2000만원 이상, 고용·산재보험료 5000만원 이상을 체납한 자다. 공개된 인적사항은 체납자의 성명, 상호(법인인 경우 명칭과 대표자 성명), 나이, 업종·직종, 주소, 체납액 종류·금액 등이다.&lt;br&gt;&lt;br&gt;공단은 지난 3월 31일 제1차 보험료정보공개심의위원회에서 공개 예정자 2만9660명을 추려 6개월 이상 소명 기간을 주고 보험료 납부를 독려한 뒤, 이달 18일 제2차 심의위원회를 열어 공개 대상자를 확정했다. 올해 공개 대상자는 전년(1만3688명) 대비 약 1.7% 줄었다. 보험료별로 살펴보면 건강보험 체납자가 1만444명, 국민연금이 2424명, 고용·산재보험이 581명이다.&lt;br&gt;&lt;br&gt;이날 공개된 명단에는 신은경과 이진호도 포함됐다. 신은경은 2014년 2월부터 2021년 10월까지 78개월간 건강보험료를 체납한 것으로 나타났다. 체납액은 9517만원이다.&lt;br&gt;&lt;br&gt;이진호는 2023년 4월부터 2023년 12월까지 9개월간 2884만원의 건강보험료를 납부하지 않았다.&lt;br&gt;&lt;br&gt;신은경과 이진호는 이와 관련한 입장을 발표하지는 않았다. 신은경은 지난해 종영한 SBS 드라마 ‘7인의 부활’에서 열연을 펼쳤으며, 현재 출연 중인 작품은 없다. 이진호는 불법 도박 혐의로 자숙 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>충남 천안·충북 진천에서 고병원성 조류인플루엔자 확진</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/30/MGRNDUOYOJGOXK6L34YX5FVGLQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/30/MGRNDUOYOJGOXK6L34YX5FVGLQ/</guid>
-      <dc:creator>김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 12:09:58 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VHPMXXUJPFPLNLOPELX53AVCKY.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;고병원성 조류인플루엔자(AI) 발생 농장에 내걸린 출입통제 안내문. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남과 충북에서 고병원성 조류인플루엔자(AI)가 잇따라 발생했다.&lt;br&gt;&lt;br&gt;고병원성 조류인플루엔자 중앙사고수습본부(중수본)는 충남 천안시 소재 산란계 농장(9만4000여 마리)과 충북 진천군 소재 종오리 농장(7800여 마리)에서 고병원성 AI가 발생했다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;이번 동절기 27번째, 28번째 고병원성 AI 확진 사례다. 중수본은 해당 농장에 대해 출입을 통제하고 살처분, 역학조사 등 방역 조치에 나섰다.&lt;br&gt;&lt;br&gt;또 전국 산란계 관련 농장과 시설 및 차량에 대해 24시간 일시 이동 중지 명령을 내렸다. 종오리 발생 계열사 오리 관련 농장과 시설, 차량 등에 대해서도 같은 조치가 내려졌다.&lt;br&gt;&lt;br&gt;방역 당국은 방역 지역(고병원성 AI 발생 농장 반경 10㎞ 이내) 내 가금 농장과 발생 농장을 방문한 사람 또는 차량이 출입한 농장 시설·차량에 대해 정밀검사를 실시할 예정이다. &lt;br&gt;&lt;br&gt;오리에서의 감염 개체 조기 검출을 위해 발생 계열사 오리 계약 사육 농장에 대한 일제검사도 진행된다.&lt;br&gt;&lt;br&gt;이번에 고병원성 AI가 발생한 두 농장은 앞서 고병원성 AI가 발생한 방역 지역 밖이다.&lt;br&gt;&lt;br&gt;이에 중수본은 고병원성 AI가 발생한 시·군에 대해 방역 지역뿐 아니라 관내 모든 가금농장에 대한 소독, 검사 등 방역 관리 강화를 강조했다.&lt;br&gt;&lt;br&gt;중수본 관계자는 “전국의 가금농장에서는 한파에 대비해 소독시설 동파 방지 등 방역 수칙을 준수해야 한다”면서 “폐사 증가, 산란율 저하 등 고병원성 AI 주요 증상뿐 아니라 경미한 증상이 확인돼도 방역 당국에 신속히 신고하는 자세가 필요하다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘층간소음 불만’ 위층 주민 살해한 양민준 구속기소</title>
-      <link>https://www.chosun.com/national/regional/chungcheong/2025/12/30/ZSXN6TEEPNAPFAQ3OODSTU2YUM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2025/12/30/ZSXN6TEEPNAPFAQ3OODSTU2YUM/</guid>
-      <dc:creator>천안=김석모 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 10:37:55 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSDGYJXGE3TOODDMI3WIZTBG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;천안 층간소음 살인 피의자 양민준. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;층간 소음을 이유로 위층 이웃을 살해한 양민준(47)이 30일 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;대전지검 천안지청은 살인 및 특수재물손괴 혐의를 받는 양민준을 구속 기소했다고 밝혔다.&lt;br&gt;&lt;br&gt;양민준은 지난 4일 오후 2시 30분쯤 천안시 서북구 한 아파트에서 자신의 거주지 위층을 찾아가 70대 이웃 주민 A씨에게 흉기를 휘둘러 살해한 혐의를 받는다.&lt;br&gt;&lt;br&gt;다친 A씨는 아파트 관리사무소로 달아나 문을 잠갔다. 하지만 양민준은 범행을 멈추지 않고 자신의 승용차로 관리사무소로 돌진, 문을 부순 후 A씨를 쫓아가 다시 흉기를 휘둘렀다. &lt;br&gt;&lt;br&gt;검찰은 양민준이 범행 도구를 미리 준비했고, 도망친 A씨를 쫓아가 공격한 점 등으로 미뤄 우발적 범행이 아닌 사회적 약자인 노인을 대상으로 저지른 계획 범죄라고 판단했다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후 재판에서 피고인에게 죄에 상응하는 중형이 선고되도록 최선을 다하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘피고인 윤석열’ 특검 호칭에 “검사 선배인데 예우 갖추라” 변호인단 반발</title>
       <link>https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</guid>
@@ -780,124 +926,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 10:33:18 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DQG76LWXD3TJYWR7R6Y4BESTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 윤석열 전 대통령, 김용현 전 국방장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 서울중앙지법 형사25부 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에서 한때 윤 전 대통령 호칭을 두고 특검팀과 변호인 측이 신경전을 벌였다. 이날 재판에서는 김용현 전 국방장관에 대한 증인신문이 진행됐다.&lt;br&gt;&lt;br&gt;특검팀이 질의 중 윤 전 대통령을 ‘피고인 윤석열’로 지칭하자, 윤 전 대통령 변호인단은 “국가 최고 통수권자이던 전직 대통령이자 검사 선배에게 예우를 지키지 않았다”고 항의했다. 특검팀은 “공소장에 적힌 정식 명칭”이라며, 변호인단이 불필요한 소송 지연 전략을 펼친다고 맞섰다. 재판부는 “특검팀의 호칭에 문제가 없다”며 절차를 이어갔으나, 변호인단이 재차 문제를 재기하자 결국 호칭을 ‘피고인’으로 정리했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇金 “상징적 계엄, 작은 힘 되려 노력”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 윤 전 대통령이 포고령에 대해 “이건 상징적인 것”이라고 언급했다고 증언했다. 당시 윤 전 대통령이 “국민 불편을 최소화해야 한다” “통금(통행금지)은 빼는 게 좋겠다”고 말하면서 이같이 언급했다고 한다.&lt;br&gt;&lt;br&gt;김 전 장관은 또 윤 전 대통령이 지금까지 했던 계엄과 다르게 하고 싶다며 경종을 울리고 싶다는 뜻을 밝혔다고도 증언했다. 그는 계엄 선포 전 윤 전 대통령이 “내가 하고자 하는 계엄은 지금까지 했던 계엄과 다르게 하고 싶다. 경종을 울리고 싶다’고 말했다고 전했다. 이어 “적당히 야당과 타협하며 편하게 대통령을 하면 좋겠지만, 그것은 국민에 대한 배신이라고 생각한다”며 “어떤 불이익을 당하더라도 국민에게 부끄럽지 않은 대통령이 되고 싶다’는 취지의 발언도 했다고 증언했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“한덕수 지시 문건에 장관 통솔하란 취지 내용 담겨”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 계엄 당시 국무회의에서 한덕수 전 국무총리에게 전달한 지시 문건에 각 부처 장관들을 통솔하라는 취지의 내용이 담겨 있었다고 증언했다. 다만 해당 문건과 관련해 윤 전 대통령으로부터 사전 지침을 받은 건 없었다고 했다.&lt;br&gt;&lt;br&gt;특검팀이 “한 전 총리에게 준 문건에는 어떤 내용이 있었느냐”고 묻자, 김 전 장관은 “너무 오래돼 기억하기 어렵다’면서도 “각 부처 장관들에게서 계엄 관련 업무를 인계받으라는 내용이 있었던 것으로 기억한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 재판부는 이날 윤 전 대통령의 내란 우두머리 사건과 김 전 장관, 조지호 전 경찰청장의 내란 중요 임무 종사 혐의 사건을 병합했다. 재판부는 다음 달 9일 변론을 종결한 뒤, 법관 정기인사 이전인 내년 2월 중 1심 선고를 내릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>친족간 재산범죄도 처벌 가능… 친족상도례 폐지</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/KIDG53Q6W5ERPBWHNDJOSQXUNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/KIDG53Q6W5ERPBWHNDJOSQXUNY/</guid>
-      <dc:creator>유희곤 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:57:21 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WODZUHNADVJUBPAFRUXIQC4DZM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 국회 본회의에서 형법 일부개정법률안이 통과되고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;법무부는 친족 범위에 관계없이 친족 간 재산 범죄는 고소가 있으면 처벌할 수 있는 내용을 담은 형법 개정안이 30일 국회 본회의를 통과했다고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 헌법재판소는 직계혈족·배우자·동거친족·동거가족 또는 그 배우자 사이에 벌어진 재산 범죄는 형을 면제하는 형법 제328조 제1항이 “재판절차진술권을 침해한다”며 작년 6월 27일 헌법불합치 결정을 했다.&lt;br&gt;&lt;br&gt;이에 정부는 친족 범위와 상관없이 친족 간 재산 범죄는 친고죄로 일원화하는 내용으로 형법 개정을 추진했다. 해당 조항은 헌법불합치 선고 시점부터 개정이 완료될 때까지 발생한 경과 사건에도 소급 적용된다. 이를 위해 법 시행일로부터 6개월까지 관련 사건에 대해 고소할 수 있다는 특례 조항도 개정안에 담겼다.&lt;br&gt;&lt;br&gt;법무부 관계자는 “친족상도례 제도 개선으로 친족 간 재산 범죄의 자율적 해결을 도모하면서도, 피해자의 재판절차진술권을 최대한 보호할 수 있을 것으로 예상한다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 군위서 SUV 차량과 화물트럭 충돌… 1명 사망, 3명 부상</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/PFNDVE6FBJDGXLLZZVH3HXHNE4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/PFNDVE6FBJDGXLLZZVH3HXHNE4/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:44:05 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CSQN4GJA3VCFPLS5ACQTFMDSN4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오후 1시 58분쯤 대구 군위군 효령면 간동삼거리에서 무쏘와 5t화물트럭이 충돌하는 사고가 발생했다. 사진은 사고가 난 5t화물트럭 모습./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 군위군 한 도로에서 SUV 차량과 5t 화물트럭이 충돌해 1명이 숨지고, 3명이 다쳤다. &lt;br&gt;&lt;br&gt;30일 대구소방안전본부에 따르면, 이날 오후 1시 58분쯤 대구 군위군 효령면 간동삼거리 인근에서 SUV 차량과 5t 화물트럭이 충돌했다. 이 사고로 50대 1명이 숨지고, 40대와 60대 3명은 인근 병원으로 옮겨져 치료를 받고 있다. &lt;br&gt;&lt;br&gt;경찰은 두 차량 중 한 대가 중앙선을 침범해 사고가 난 것으로 보고 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“서열 가리자”… 흉기 휘두른 여고생 긴급 체포</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/DDFYTNAXVRF67LFWJ7HXV7AJSI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/DDFYTNAXVRF67LFWJ7HXV7AJSI/</guid>
-      <dc:creator>윤성은 기자, 조민희 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:44:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTSMJWGNTGKMLCMEYDANRVGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 강남경찰서. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고등학교 여학생 두 명이 다투던 도중 한 명이 흉기를 휘두르는 사건이 발생해 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;서울 강남경찰서는 지난 28일 특수상해 혐의로 10대 A양과 폭행 혐의로 또다른 10대 B양을 검거해 조사 중이라고 30일 밝혔다. &lt;br&gt;&lt;br&gt;A양은 지난 28일 오후 7시 50분쯤 강남구 논현동에서 B양과 다투다 숨겨뒀던 흉기로 그의 뒷목을 찌른 것으로 알려졌다. 범행 직후 A양은 사용한 흉기를 인근에 버리고 도주하다 경찰에게 긴급 체포됐다. &lt;br&gt;&lt;br&gt;두 사람은 소셜미디어를 통해 알게 된 사이로 이전에도 다툼이 있었다고 한다. 이후 ‘한 번 더 서열을 가리자’며 다시 만나 싸움을 일으킨 것으로 전해졌다. &lt;br&gt;&lt;br&gt;B양은 사건 직후 병원으로 이송됐으나 생명에는 지장이 없는 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 자세한 사건 경위를 조사할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>삼청교육대 퇴소 후 스스로 목숨 끊어... 대법 “국가, 유족에 배상해야”</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/FWJ4WT2TN5B3HJL4OFOE7Y77WA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/FWJ4WT2TN5B3HJL4OFOE7Y77WA/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:33:24 +0000</pubDate>
-      <content:encoded>삼청교육대에서 퇴소한 뒤 스스로 목숨을 끊은 피해자의 유족이 국가를 상대로 낸 손해배상 소송에서 대법원이 국가의 책임을 인정하는 취지의 판결을 내렸다. 원심은 삼청교육대에서 겪은 일로 죽음에 이르렀다는 인과관계를 인정하기 어렵다고 했지만, 이를 뒤집은 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MZRTGYRXGNQWMMBVGI2DSYTBGQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;1980년 8월12일 제5공화국 집권 초기에 실시된 삼청교육대에서 훈련을 받고 있는 입소생들의 모습. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 법조계에 따르면, 대법원 3부(주심 노경필 대법관)는 삼청교육대 피해자 A씨의 유족 4명이 국가를 상대로 청구한 손해배상 소송에서 원고 패소로 판결한 원심을 파기하고 사건을 서울고법에 돌려보냈다.&lt;br&gt;&lt;br&gt;통신케이블공으로 일하던 A씨는 1980년 8월 부산에서 경찰에 연행된 뒤, 육군 부대에서 삼청교육대 순화교육을 받고 그해 10월쯤 퇴소했다. A씨는 퇴소 직후 한 병원에서 진료를 받았고, 그해 12월 정신분열증 진단을 받았다. 당시 병원에서 발급한 소견서를 보면, A씨는 ‘환청·환시 등으로 충동적, 공격적 행동과 사고의 장애 등 정신분열증 증세로 입원 치료 중에 있고, 향후 장기간 치료를 요할 것으로 사료된다’는 내용이 적혀 있다. A씨는 이후에도 수년간 정신분열증으로 치료를 받았고, 요양원에 입원해 있던 1986년 스스로 목숨을 끊은 채 발견됐다.&lt;br&gt;&lt;br&gt;대법원은 “A씨가 삼청교육대 입소 전 직장을 다니며 정상적인 사회 활동을 하고 있었고, 건강 상태도 비교적 양호했다”며 “퇴소 직후부터 자살에 이르기까지 5년 6개월 동안 정신질환에 시달렸고, 여러 차례 치료를 받았음에도 호전되지 못한 것으로 보인다”고 했다. 그러면서 “민사 분쟁에서의 인과관계는 의학적·자연과학적 인과관계가 아니라 사회적·법적 인과관계”라며 “반드시 의학적·자연과학적으로 명백히 증명되어야 하는 것이 아니다”라고 했다. 국가의 불법행위로 정신질환이 발생했고, 심신상실 내지 정신착란 상태나 정상적인 인식능력 등이 현저히 저하돼 자살에 이르렀다고 추단할 수 있다면 인과관계가 있다고 볼 수 있다는 것이다.&lt;br&gt;&lt;br&gt;대법원은 “원심 판단에는 국가의 불법행위로 발병한 정신질환과 자살 사이의 상당인과관계에 관한 법리를 오해하여 필요한 심리를 다하지 않거나 논리와 경험 법칙을 위반하여 자유심증주의 한계를 벗어남으로써 판결에 영향을 미친 잘못이 있다”며 파기환송했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>함께 탈북한 남동생 살해 혐의 50대 누나 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/SCZDNGFDPZDWDMU4PNVXF4XRMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/SCZDNGFDPZDWDMU4PNVXF4XRMU/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:01:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;함께 탈북해 국내에 정착한 남동생을 살해한 혐의를 받는 탈북민 여성이 구속됐다.&lt;br&gt;&lt;br&gt;부산지법 동부지원 어준혁 영장전담 부장판사는 30일 살인 혐의를 받는 50대 여성 A씨에 대한 구속 전 피의자 심문(영장실질심사)에서 “증거인멸 우려가 있다”며 구속영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 8월 29일 오후 8시쯤 부산 기장군 한 아파트에서 40대 남동생 B씨를 숨지게 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;당시 A씨는 “외출하고 돌아오니 동생이 움직이지 않았다”고 진술했다.&lt;br&gt;&lt;br&gt;이에 경찰은 주변 인물 등을 용의선상에 두고 수사를 벌여오다 최근 A씨를 피의자로 입건했다.&lt;br&gt;&lt;br&gt;1차 검안 결과 남동생의 사인은 ‘경부 압박 질식사’였다. 이후 진행된 약물 검사에서 A씨가 복용하던 수면제와 같은 성분이 검출된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;A씨는 “함께 탈북한 동생을 죽일 이유가 없다”며 혐의를 강하게 부인하고 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “여러 가지 수사 상황을 종합해 결론을 내렸다. 조만간 수사를 마무리한 뒤 검찰에 송치할 예정”이라면서 “살해 방법 등 구체적인 수사 내용에 대해선 알려줄 수 없다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>정신 건강 심각한 학생, 부모 동의 없어도 학교장이 치료받게 한다 </title>
-      <link>https://www.chosun.com/national/education/2025/12/30/HZJFLYTDHJF27LJJB6VI423W2Q/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2025/12/30/HZJFLYTDHJF27LJJB6VI423W2Q/</guid>
-      <dc:creator>표태준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 09:08:09 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/H5YTBVSOTFHKRNHVRIWSODY2W4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;지난 9월 고등학생 A군은 부모와 갈등, 교우 관계 스트레스 등을 이유로 우울감을 겪다 자살을 시도했다. 다행히 A군은 자살 시도와 동시에 정부의 청소년 온라인 상담 플랫폼 ‘다 들어줄 개’에 고민 글을 남겼다. 상담사가 즉시 경찰에 신고했고, 출동한 경찰관이 자해 중인 A군을 발견해 병원으로 옮겨 최악의 상황은 피했다. &lt;br&gt;&lt;br&gt;중학생 B양도 친구 관계 문제로 괴로워하다가 지난 6월 탈출구로 자해를 시작했다. 소셜미디어에서 자해 방법을 검색해 따라 하기 시작한 게 계기였다고 한다. 자해 강도가 점점 심해지던 B양은 정부 상담 플랫폼의 추천으로 심리 치료를 받고 있다.&lt;br&gt;&lt;br&gt;A군과 B양처럼 우울감과 외로움, 불안을 호소하며 자살을 시도하는 학생이 많아지고 있다. 둘은 다행히 정부 상담 시스템을 이용해 최악의 상황을 면했지만, 올해(10월 말 기준)만 초·중·고 학생 193명이 스스로 목숨을 끊었다. 고등학생이 117명으로 가장 많았고, 중학생은 71명, 초등학생도 5명이 자살했다. 2015년(93명)보다 두 배 넘게 늘었고, 역대 최고치를 기록한 작년(221명)을 넘을 가능성도 점쳐진다. &lt;br&gt;&lt;br&gt;학생의 마음 건강 지표가 빠르게 악화하자 교육부는 30일 ‘학생 마음 건강 지원 개선 방안’을 발표했다. 이번 방안은 우울감 확산이나 낙인 효과 등을 우려해 주로 학교별로 조심스럽게 이뤄졌던 대책을 체계화하고 공론화하는 데 초점을 맞췄다. &lt;br&gt;&lt;br&gt;우선, 앞으로 학교가 진행하는 학생 마음 건강 상담 기록 양식이 통일되고, 학교는 그 기록을 교육부가 관리하는 전산 시스템에 등록해야 한다. 그간 학생 상담 기록은 상담사들이 별도 기준 없이 작성해 내용과 형식이 제각각이었다. 보관 지침도 없었다. 또 학생이 전학을 가거나 상급 학교에 진학하면 상담 기록이 전달되지 않았다. 이 때문에 자살 징후가 있는 학생에 대한 즉각적인 대처가 이뤄지지 않는다는 지적이 있었는데, 앞으론 학생·학부모의 동의를 받아 상담 기록을 학교끼리 공유하기로 했다. &lt;br&gt;&lt;br&gt;정부는 또 2030년까지 모든 학교에 전문 상담 인력을 배치한다. 현재 전국의 초·중·고교 1만2348곳에 배치된 상담 인력은 총 8013명. 임용을 통과한 상담 교사가 5169명, 상담 자격증을 갖춘 상담사가 2844명이다. 앞으로 상담 인력을 1만명 가까이로 늘려 ‘상담 사각지대’를 완전히 해소하겠다는 것이다. 일부 소규모 학교는 상담사 1명이 여러 곳을 맡는 방식으로 상담을 하게 된다. &lt;br&gt;&lt;br&gt;특히 내년부터 학부모 동의가 없어도 필요한 경우 학교장이 학생에게 상담과 치료를 받게 할 수 있다. 지금까지는 아이의 정신 건강 상태가 심각해 학교에서 치료나 상담을 권해도 학부모가 동의하지 않으면 방치할 수밖에 없었다. 교육부는 이를 해결하기 위해 지난 4월 초중등교육법을 개정해 상담 결과에 따라 학교장이 직접 상담·치료 지원을 할 수 있도록 법적 근거를 마련했고, 내년 3월 시행된다. &lt;br&gt;&lt;br&gt;현재 모든 초·중·고교생이 3년마다 받는 ‘정서·행동 특성 검사’ 주기를 1년 또는 2년으로 줄이는 방안도 검토한다. 위기 징후 학생을 빨리 발견하기 위해서다. 병원 진료비만 지원하던 ‘학생 마음바우처’ 지원 범위를 외부 기관 상담비로 확대한다.&lt;br&gt;&lt;br&gt;자살 학생이 급증한 지역은 교육부가 직접 현장 점검에 나서고 컨설팅도 지원한다. 중앙 부처가 시·도에서 발생한 학생 자살 사건을 직접 챙기는 것은 이례적인 일이다. 그간 교육부는 지역 분위기가 악화되고 시·도교육청의 자치권을 침해한다는 이유로 학생 자살 사건에 직접 개입하는 일이 거의 없었다. 교육부 관계자는 “학교·지역의 문제로 두기엔 학생 자살 문제가 너무 심각해졌다는 판단에 중앙 부처 차원의 종합 대책을 내놓은 것”이라며 “내년 초 학생마음건강지원법을 제정해 법적인 근거도 조속히 마련할 것”이라고 밝혔다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>“광주·전남 행정통합 곧바로 추진”... 강기정 광주시장, 공동추진기획단 제안</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/2NC5VVWWWNG4HMUHRPYGG3WJSQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/2NC5VVWWWNG4HMUHRPYGG3WJSQ/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:37:29 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZP3NXWFEBRPLDOOPZ7XJDV34AQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주시장이 30일 광주시청 기자실에서 차담회를 열고 광주·전남 행정 통합을 '지금 바로' 추진하겠다는 입장을 표명하고 있다./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;강기정 광주광역시장이 전남도와 공동으로 행정 통합 추진단을 구성해 ‘지금 바로’ 행정 통합을 추진하겠다는 입장을 밝혔다. 경우에 따라서는 내년 통합 단체장 선출이나 임기 단축도 감수하겠다는 의지를 표명했다.&lt;br&gt;&lt;br&gt;강 시장은 30일 광주시청에서 기자간담회를 열고 “이재명 정부가 광주·전남에 기회를 주고자 할 때, 그 기회를 붙잡는 것이 지금 우리가 해야 할 일”이라며 “4년 후도, 다음도 아닌 바로 지금이 통합을 추진할 때”라고 말했다.&lt;br&gt;&lt;br&gt;강 시장은 그동안 행정 통합의 전 단계로 ‘선(先) 기능 통합, 후(後) 행정 통합’ 기조 아래 산업·교통·인재를 연계하는 광주·전남 광역연합을 추진해 왔다. 최근 통합을 둘러싼 여건이 급변하고 있다고 진단했다.&lt;br&gt;&lt;br&gt;특히 이날 김영록 전남지사도 행정 통합 추진을 공식화했다. 이재명 정부가 ‘5극 3특 체제’를 통한 국가 균형 발전 전략 아래 행정 통합에 대한 강한 지지 의사를 밝힌 만큼 부강한 광주·전남을 위한 ‘기회의 창’이 열렸다고 판단했다.&lt;br&gt;&lt;br&gt;강 시장은 “지금 추진 중인 ‘광주·전남 광역연합’은 절차를 밟아 빠르게 출범시키고, 동시에 행정 통합 절차도 추진되길 바란다”며 “전남이 광주·전남 행정 통합 추진 기획단 구성을 결심한 만큼, 광주도 뜻을 같이해 전남도와 ‘공동 추진 기획단’ 구성을 논의하겠다”고 밝혔다. 이어 강 시장은 “‘광주·전남 5극 3특 행정 통합 특별법’이 내년 초에 통과돼 7월 1일에 행정 통합이 실현되는 법적 토대가 갖춰지고 정부 의지만 분명하면, 시도민을 설득하겠다”며 내년 지방선거 광주·전남 통합 단체장 선출도 감수하겠다는 입장을 표명했다.&lt;br&gt;&lt;br&gt;강 시장은 또 “대전·충남 통합이 주춤하면 광주·전남이 1호 행정 통합이 될 수 있게 적극적으로 행정 통합에 나서겠다”며 “통합 시기는 앞으로 유동적이지만, 전남이 나선 만큼 이에 호응해 지금 바로 행정 통합을 추진해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;유력한 광주시장 후보 중 한 명으로 꼽히는 민형배 의원이 제시한 2030년 행정 통합 추진 로드맵 등에 대해서는 “대통령 임기를 고려하면 2030년은 너무 늦다”며 “법적 토대 등이 구축되면 가장 이른 시일 내에 해야 하고, 이에 맞춰 현직 광역 단체장의 임기는 중요치 않다고 생각한다”고 밝혔다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSGCZTGMRQTEYTBG42TSYTFGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김영록 전남지사./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 김영록 전남지사는 이날 오전 “정부와 힘 있는 대통령이 (행정 통합에) 적극적으로 나서 주겠다는 시기는 앞으로 또 온다는 보장이 없다”며 “광주·전남 행정 통합을 위해 추진기획단을 만들어 준비하겠다”고 밝혔다. 광주시는 이에 대해 “오늘 밤에라도 당장 전남도와 만나 ‘공동 추진기획단’ 구성을 논의하고자 한다. 연락을 기다리겠다”고 말했다.&lt;br&gt;&lt;br&gt;정준호(광주 북구갑) 의원도 별도의 입장문을 내 “김영록 전남지사와 강기정 광주시장이 행정 통합을 위한 공동 추진 기획단 구성에 뜻을 모은 것을 환영한다”며 “정청래 대표에게 당 차원에서 광주·전남 행정 통합 태스크포스(TF) 구성을 건의하고, 2월 국회에서 특별법을 처리하도록 사즉생의 각오로 노력하겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>어도어, 뉴진스 다니엘 손배소… ‘하이브-민희진’ 재판부 배당</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/NYP5B3L2ZVGI7FUVPOHV2NEICQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/NYP5B3L2ZVGI7FUVPOHV2NEICQ/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:20:34 +0000</pubDate>
-      <content:encoded>어도어가 뉴진스 멤버 다니엘에게 전속계약 해지를 통보하며 제기한 위약벌 및 손해배상 청구 소송이 서울중앙지법 민사31부(재판장 남인수)에 배당됐다. 어도어는 전날(29일) 다니엘과 그의 가족, 민희진 전 어도어 대표를 상대로 약 431억원 상당의 손해배상을 청구했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GFSTKYLFGUYTAOLEHAYWEYRUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;뉴진스 멤버 다니엘. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 뉴진스 멤버들은 하이브와의 갈등으로 해임된 민 전 대표의 복귀 등을 요구했으나 받아들여지지 않자, 지난해 11월 어도어가 전속계약을 위반했다며 계약 해지를 통보했다. 이에 어도어는 뉴진스와의 전속계약은 여전히 유효하다며 같은 해 12월 전속계약 유효확인 소송을 제기했다. 법원은 1심에서 어도어의 손을 들어줬다. 이후 뉴진스 멤버 전원은 소속사로 복귀하겠다는 뜻을 밝혔다.&lt;br&gt;&lt;br&gt;그러나 어도어가 지난 29일 다니엘에게 전속계약 해지를 통보하면서 뉴진스 5인 완전체 복귀는 무산됐다. 어도어는 “다니엘은 뉴진스 멤버이자 어도어 소속 아티스트로서 함께하기 어렵다고 판단해 전속계약 해지를 통보했다”고 밝혔다. 어도어는 이와 함께 위약벌 및 손해배상 청구 소송도 제기했다.&lt;br&gt;&lt;br&gt;서울중앙지법 민사31부는 하이브가 민 전 대표 등을 상대로 제기한 주주간 계약 해지 확인 소송과, 민 전 대표 등이 하이브를 상대로 낸 260억원대 풋옵션(주식매수청구권) 행사 관련 소송도 심리하고 있다.&lt;br&gt;&lt;br&gt;하이브는 지난해 8월 민 전 대표를 대상으로 주주간 계약을 해지했다고 밝혔다. 이후 민 전 대표는 같은 해 11월 어도어 주식에 대한 풋옵션을 행사하겠다고 밝혔다. 이에 대해 하이브 측은 풋옵션 행사 시점에 이미 주주간 계약이 해지된 상태였다고 주장하고 있다. 반면 민 전 대표 측은 풋옵션 행사 당시 계약이 해지됐다고 볼 수 없으며, 주주간 계약 해지 확인 소송 자체도 불필요하다는 입장이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대한변협, ‘변호사 마음치유센터’ 출범... 변호사 심리상담 지원</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/X3A4UEHL5ZGZ5M7OWCBAEWP6AU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/X3A4UEHL5ZGZ5M7OWCBAEWP6AU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:21:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4NGBDFGBD5JF23O2NEI2KPJBLM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대한변호사협회./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대한변호사협회는 30일 ‘변호사 마음치유센터’를 개설한다고 밝혔다. 협회 회원들의 높은 업무강도, 감정노동, 사건 관련 스트레스 등에 체계적으로 대응하겠다는 것이다.&lt;br&gt;&lt;br&gt;변협은 회원 다수의 찬성이 있어 마음치유센터를 열게 됐다고 밝혔다. 지난 5월 전국 회원을 대상으로 설문조사를 실시한 결과 응답 회원의 95%가 감정적 어려움을 겪은 경험이 있고, 84%는 마음치유센터를 이용할 의향이 있다고 한 것이다.&lt;br&gt;&lt;br&gt;변협은 마음치유센터에서 전체 회원의 심리상태를 객관적 지표로 측정해 직무 스트레스와 조직 건강도를 진단하는 ‘조직 진단’을 무료로 실시하겠다고 밝혔다. 진단 결과 집중관리가 필요할 경우 그 대상을 선제적으로 파악해 맞춤형 개선 솔루션도 제공할 계획이다.&lt;br&gt;&lt;br&gt;상담 예약은 협회 전용 채널을 이용해 온라인으로 간편히 할 수 있다는 게 변협 설명이다. 상담 방식도 대면과 비대면 모두 가능하다.&lt;br&gt;&lt;br&gt;변협은 회원들이 부담 없이 상담을 받을 수 있도록 3회 상담료를 전액 지원할 방침이다. 추가 상담을 할 경우 회원 특별가로 받을 수 있다.&lt;br&gt;&lt;br&gt;변협 관계자는 “모든 상담 과정은 철저한 비밀 보장과 익명성을 원칙으로 운영된다”며 “감정 노동으로부터 회원을 보호하고 실질적인 심리적 안전망을 구축할 수 있도록 최선을 다해 지원할 것”이라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>예비 경찰관 순환식 체력검사 체험하세요... 경남경찰청 무료 개방</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/W4XXABHVVNEWZAGCKDYB4PPEIY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/W4XXABHVVNEWZAGCKDYB4PPEIY/</guid>
-      <dc:creator>창원=김주영 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:17:51 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KVHXIX4KKVANZCIPXXUZAO2A5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 경남경찰청 상무관에서 경찰 공무원 시험 준비생이 이날부터 무료 개방된 순환식 체력 검사를 체험하고 있다. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남경찰청은 내년부터 모든 경찰관 채용에 도입되는 순환식 체력검사를 앞두고 실제 시험과 동일한 체험을 할 수 있는 부스를 무료 개방한다고 30일 밝혔다.&lt;br&gt;&lt;br&gt;순환식 체력검사는 범인 추격과 제압, 긴급 구조 등 실제 현장에서 대응하는 능력을 평가하기 위한 시험이다. 무게 4.2㎏의 조끼를 입고 장애물 달리기, 장대 허들넘기, 당기기·밀기, 구조하기, 방아쇠 당기기가 이어지는 코스를 6바퀴 도는데 4분 40초 내에 완주해야 통과할 수 있다.&lt;br&gt;&lt;br&gt;경찰 관계자는 “경남도내에는 체력 검사를 할 수 있는 학원이 없다”며 “경찰 공무원 시험 준비생들은 타지역 사설 학원으로 가거나 비싼 체험 비용을 내야하는 상황”이라고 말했다.&lt;br&gt;&lt;br&gt;경찰은 이 같은 현실을 고려해 지난 9월부터 체험 부스 개방을 추진했다.&lt;br&gt;&lt;br&gt;경남경찰청 상무관에서는 이날 실제 순환식 체력검사 준비생들을 대상으로 부스를 개방했다.&lt;br&gt;&lt;br&gt;이어 내년 2월 27일까지 매주 화·목요일 중 하루를 지정해 체험 부스를 운영할 계획이다. 인스타그램 경남경찰청 공식 계정을 통해 회차별로 선착순 40명을 신청 받아 운영한다.&lt;br&gt;&lt;br&gt;김종철 경남경찰청장은 “국민의 생명과 안전을 지키는 일은 물론 도민들이 필요로 하는 것을 세심히 챙기는 경찰이 되겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GK4P5DZ3LVBLBKRQ6ADVQXEVLU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 경남경찰청 상무관에서 경찰 공무원 시험 준비생이 이날부터 무료 개방된 순환식 체력 검사를 체험하고 있다. /경남경찰청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>특검, ‘쿠팡 취업규칙 변경’ 근로감독관 참고인 조사</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/KF2G5LFAVNE73MX55TXUWBBBHA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/KF2G5LFAVNE73MX55TXUWBBBHA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:14:59 +0000</pubDate>
-      <content:encoded>‘쿠팡 퇴직금 수사 외압’ 의혹 등을 수사하는 안권섭 특별검사팀이 쿠팡의 취업 규칙 변경을 승인한 근로감독관을 30일 소환했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ONS4BGZVERLPTNXW6TXIOHCLMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 21일 오전 서울 송파구 쿠팡 본사에 쿠팡 로고가 보이고 있다./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 고용노동부 서울동부지청 소속 근로감독관 A씨를 참고인으로 불러 조사했다. A씨는 쿠팡의 취업 규칙 변경을 심사·승인한 인물이다.&lt;br&gt;&lt;br&gt;특검은 쿠팡이 2023년 5월 근로자들에게 불리하게 취업 규칙을 변경해, 사실상 상근 근로자에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 의혹을 수사하고 있다.&lt;br&gt;&lt;br&gt;당시 쿠팡은 퇴직금 지급 규정을 ‘일용직 근로자도 1년 이상 근무하는 경우 주당 근로 시간이 15시간 미만인 기간만 제외’에서 ‘1년 이상 근무하고 주당 근로 시간이 15시간 이상인 경우’로 바꿨다. 근무 기간 중 하루라도 주당 근로 시간이 15시간보다 적은 때가 생기면, 그날부터 퇴직금 산정 기간을 다시 계산하도록 한 것이다. 이로 인해 이른바 ‘퇴직금 리셋 규정’이라는 지적이 나왔다.&lt;br&gt;&lt;br&gt;고용노동부 서울동부지청은 당시 이 규정에 문제가 없다고 보고 변경을 승인했다. 특검은 A씨를 상대로 취업규칙 변경 심사 과정에서의 내부 논의 내용을 조사하고, 취업 규칙 변경 승인이 적절했는지 등을 확인한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편 특검은 지난 16일 쿠팡의 퇴직금 미지급 사건을 기소 의견으로 인천지검 부천지청에 송치한 중부지방고용노동청 부천지청 근로감독관을 참고인으로 불러 조사했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>전주 ‘얼굴 없는 천사’ 올해도 찾아왔다</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/TTWGQMXME5EFFON4YNLXU4T5YM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/TTWGQMXME5EFFON4YNLXU4T5YM/</guid>
-      <dc:creator>조홍복 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 07:38:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU3TEYJSGAYTKMJZMVSTOMZXG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;30일 오후 전북 전주 '얼굴없는 천사가' 놓고 간 돈 상자./전주시 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;연말이면 성금을 몰래 놓고 사라지는 전북 전주 ‘얼굴 없는 천사’가 올해도 어김없이 찾아왔다. 지난해 12월 누적 성금 10억원을 돌파하고 나서 올해에도 성금을 놓고 간 것이다. 그의 선행은 올해로 26년째다. 올해 액수는 현재 확인하고 있다.&lt;br&gt;&lt;br&gt;30일 전주시에 따르면 이날 오후 3시 43분쯤 노송동주민센터에 한 중년 남성의 전화가 걸려 왔다. 이 남성은 자신의 신분을 밝히지 않은 채 성금을 놓고 갔다. 천사의 선행은 올해까지 26년째, 27차례에 걸쳐 이어지게 됐다.&lt;br&gt;&lt;br&gt;전주시는 천사의 뜻에 따라 성금을 노송동 지역의 소년소녀가장과 홀로 사는 노인 등 어려운 계층을 위해 쓸 예정이다. 천사는 2000년 4월 ‘어려운 이웃을 위해 써달라’며 58만4000원이 든 돼지저금통을 놓고 간 것을 시작으로 매년 수백만 원에서 수천만 원씩을 놓고 갔다. 자신의 이름과 얼굴을 전혀 드러내지 않아 ‘얼굴 없는 천사’로 불린다.&lt;br&gt;&lt;br&gt;성금은 생활이 어려운 노송동 주민과 학생에게 연탄, 쌀, 장학금으로 전달됐다. 2019년에는 노송동 주민센터 인근에 놓고 간 6000여만원을 도난당하는 우여곡절을 겪었지만, 기부는 이어지고 있다.&lt;br&gt;&lt;br&gt;전주시는 천사의 뜻을 기리기 위해 노송동 주민센터 일대 도로를 ‘얼굴 없는 천사 도로’로 조성하고 ‘얼굴 없는 천사비’를 세웠다. 주민들도 10월 4일을 ‘천사의 날’로 지정해 나눔 행사를 펼치고 있다. 전주시는 100년 후 전주의 보물이 될 것이라는 취지에서 ‘미래 유산’으로 선정했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 12월 31일 수요일 (음력 11월 12일 甲戌)</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/2ZBT5UU3GZEVLF6CCBWA5B53S4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/2ZBT5UU3GZEVLF6CCBWA5B53S4/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" alt="" height="420" width="800"/&gt;&lt;p&gt;&lt;img style="float:left; width:120px; height:60px;" src="https://news.chosun.com/img/200305/article/12ani01.gif" alt="쥐"&gt;&lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/4MTFRYWHBJA7XOKKF7G7JPLX5U.png?auth=4651b5b20b5d4901424204d1456faee02e4b064ff509db23945deabf4404c8ef&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
     </item>
     <item>
       <title>내년 2월부터 ‘재판기록 예약제’ 전국 법원 시행… 소상공인 파산 지원도 확대</title>
@@ -916,15 +944,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 03:21:30 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXVQCPEK3FKYTFXS7P7RMGVP5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰청 폐지를 담은 정부조직법 개편안 시행을 앞두고, 현직 검사가 해당 법안이 기본권을 침해한다며 헌법재판소에 헌법소원 심판을 청구했다. 검찰청 폐지 법안을 두고 현직 검사가 직접 헌재 판단을 구한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 김성훈 청주지검 검사는 검찰청 폐지와 중대범죄수사청(중수청) 설치를 골자로 한 정부조직법 개정안 제35조 제2항 등이 공무담임권을 침해한다며 지난 29일 헌법소원 심판을 청구했다.&lt;br&gt;&lt;br&gt;김 검사는 해당 법안이 검사의 헌법상 수사권 행사를 방해한다고 주장했다. 그는 청구서에서 “헌법은 검사에게 ‘강제수사에 대한 수사권’을 부여하고 있다”며 “검사를 공소청에 속하게 해 검사로부터 수사권을 완전히 박탈하는 것은 헌법이 검사에게 부여한 수사권을 박탈하는 것”이라고 했다. 이어 “헌법이 검사에게 부여한 기능과 권한을 행사하는 것을 방해해 공무담임권을 침해한다”고 했다.&lt;br&gt;&lt;br&gt;김 검사는 또 “수사권이 박탈돼 수사권, 수사지휘권을 행사하지 않는 검사는 헌법이 검사직에 부여하는 본질적인 기능과 권한이 없는 직책으로 헌법이 예정하는 검사제도의 검사가 아니라 이와 별개의 직책인 공소관에 해당한다”며 “설령 공소관이 검사라는 명칭을 사용한다 하더라도 헌법이 보장하는 검사제도의 검사는 아니라는 사실에는 변함이 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “검찰청을 폐지하고 검사를 공소청에 속하게 해 검사로부터 수사권을 완적히 박탈하는 것은 헌법이 규정하는 검사제도를 폐지하는 것”이라며 “헌법이 예정하는 검사직으로부터 배제해 검사직에서 배제하는 방법으로 청구인의 공무담임권을 침해했다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “본건 심판 대상은 비록 아직 효력을 발생하기 이전이지만 그 침해의 발생이 현재 확실하고, 현재의 시점에서 청구인이 불이익을 입게 될 것을 충분히 예측할 수 있기 때문에 기본권 침해가 인정된다”고도 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘미국 생활 포기’ 올리버쌤, 韓 건보 무임승차 논란에 “한국행 결정 아냐”</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/ACDENVTC7BC75IK7TQARM7XBII/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/ACDENVTC7BC75IK7TQARM7XBII/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 01:55:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MUYDSZJVGJRTOZTGGEZWGN3FMI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;올리버쌤. /유튜브 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;높은 세금과 부족한 의료 서비스 등을 지적하며 미국 생활을 포기하겠다고 밝혀 이목을 끈 구독자 225만 유튜버 올리버쌤이 한국 의료 복지 시스템에 무임승차하려 한다는 일각의 비판을 받자 “한국행을 결정한 적 없다”고 반박했다.&lt;br&gt;&lt;br&gt;올리버쌤은 28일 자신의 유튜브 채널을 통해 “저희 가족이 한국의 의료 시스템을 무임승차하겠다는 것처럼 오해를 빚어 부정적인 댓글을 많이 받고 있다”고 했다.&lt;br&gt;&lt;br&gt;이어 “저희는 미국 텍사스에 처한 저희 가족 상황을 영상으로 공유하고 고민을 나누었을 뿐, 구체적인 행방 결정을 내린 적도, 한국을 언급한 적도 없다”며 “이미 정말 어려운 시기를 보내고 있기에 날 선 댓글이 더 마음 아프게 느껴진다”고 했다.&lt;br&gt;&lt;br&gt;앞서 올리버쌤은 지난 26일 공개한 ‘한국인 와이프와 미국 이민 8년 차… 이제는 진짜 포기합니다’라는 제목의 영상을 통해 8년 만에 미국 생활을 포기한다고 밝혔다. 이유로는 높은 세금과 빈번해진 자연재해, 부족한 의료 서비스 등을 들었다. 특히 의료 서비스와 관련해 월 400만원에 가까운 의료보험료를 내고도 적절한 의료 서비스를 받지 못하고 있다고 토로했다. 올리버쌤은 “인플레이션, 특히 병원 문제 때문에 마음을 확실히 먹었다”며 “이 이민 생활을 끝내야 할 것 같다”고 했다.&lt;br&gt;&lt;br&gt;올리버쌤은 미국인 유튜버로, 한국에서 영어 강사로 활동하다 2018년 미국 텍사스로 돌아갔다. 2016년 한국인 아내와 한국에서 결혼식을 올렸다.&lt;br&gt;&lt;br&gt;한국에서 활동한 적이 있는 데다 아내가 한국인이라는 점 때문에 올리버쌤이 가족과 한국으로 돌아올 것이라는 확인되지 않은 이야기가 퍼졌고, 이에 ‘건강보험 무임승차’ 논란이 일었다. 올리버쌤이 영상에서 미국 의료 시스템에 불만을 강하게 제기한 만큼 의료 복지가 상대적으로 잘 갖춰진 한국에 오려는 것 아니냐는 의견이 일부 네티즌 사이에서 나온 것이다. &lt;br&gt;&lt;br&gt;피부양자 자격으로 건강보험료를 내지 않는 경우에도 건강보험 혜택을 받을 수 있다는 점 때문에 외국인 및 재외국민 건강보험 무임승차 논란은 지속되온 바 있다. 다만 제도적 허점을 이용한 사례가 잇달아 적발되면서, 작년 4월부터 외국인은 원칙적으로 국내에 6개월 이상 거주해야 피부양자 자격을 취득할 수 있도록 요건이 강화됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘과 톱급’ 학생들도 몰려온다... 대학가에 부는 철학과 열풍</title>
