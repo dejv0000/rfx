@@ -13,6 +13,51 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>박나래 ‘주사 이모’ 출국 금지...무면허 의료행위 의혹</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/IQSUYIAJOVE3PDOUKONDUKUZCU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/IQSUYIAJOVE3PDOUKONDUKUZCU/</guid>
+      <dc:creator>조민희 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 05:11:44 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZTMZBXHFSTKYJZGVQWCMJUHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 박나래./유튜브 채널 '백은영의 골든타임'&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;방송인 박나래의 불법 의료행위 의혹을 수사 중인 경찰이 이른바 ‘주사 이모’라 불리는 여성의 출국을 금지했다.&lt;br&gt;&lt;br&gt;31일 경찰에 따르면 서울 강남경찰서는 의료법∙약사법 위반과 마약류관리법상 향정 등의 혐의를 받는 이모씨를 출국 금지했다. &lt;br&gt;&lt;br&gt;이씨는 국내 의사 면허를 취득하지 않은 비의료인인 것으로 알려졌다. 오피스텔과 차량에서 박씨에게 수액 주사를 놓는 등 불법으로 의료시술을 한 혐의를 받는다. &lt;br&gt;&lt;br&gt;앞서 서울서부지검은 지난 16일 이씨에 대한 임현택 전 대한의사협회 회장의 고발장을 접수한 뒤 사건을 경찰로 이송한 바 있다.&lt;br&gt;&lt;br&gt;유명 유튜버 ‘입짧은햇님’과 그룹 ‘샤이니’ 멤버 키 또한 이씨로부터 진료를 받은 사실을 인정하고 방송 활동을 중단한 상태다.&lt;br&gt;&lt;br&gt;한편 박씨는 매니저 2명에게 폭행과 각종 갑질을 했다는 혐의 등으로도 경찰에 입건된 상태다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title> “수도계량기 헌옷으로 감싸세요” 서울시, 1일 동파 경계 단계 발령</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/YSYJ6DAKNFEETEAAVZMEYISIAY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/YSYJ6DAKNFEETEAAVZMEYISIAY/</guid>
+      <dc:creator>김수경 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 05:05:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ4WGMZUMJSWINRWMZRDEY3EMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시설공단 강남수도관리소 관계자가 동파된 수도계량기 교체 작업을 하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해를 맞는 내달 1일 최저기온이 영하 11도로 떨어질 것으로 예보되면서 이날 오전 9시부터 서울시가 수도계량기 ‘동파 경계’ 단계를 발령한다고 31일 밝혔다. ‘동파 경계’ 단계는 관심·주의·경계·심각 등 총 4단계 동파 예보제 중 3단계에 해당한다. 최저기온이 영하 10도 미만으로 이틀 이상 연속 예보된 경우 발령한다. &lt;br&gt;&lt;br&gt;시는 특히 “복도식 아파트나 공사 현장의 경우 수도계량기함이 외부에 직접 노출돼 있어 동파 발생 가능성이 높다”며 “수도계량기함에 헌옷이나 솜 등 보온재를 채우고, 외출 시 물을 살짝 흘려두는 것이 중요하다”고 동파 예방 방법을 안내했다.&lt;br&gt;&lt;br&gt;서울시에 따르면 올겨울 발생한 수도계량기 동파 건수는 29일 기준으로 총 433건이다. 아파트 344건, 공사 현장 32건, 단독·연립주택 41건 등이다. 시는 수도계량기가 깨졌거나 부풀어 오르는 등 동파가 의심되면, 신속히 120다산콜센터나 관할 수도사업소, 아리수 사이버고객센터에 신고할 것을 당부했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김병기 각종 의혹, 서울경찰청이 넘겨받아 직접 수사</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/4HTCTBXOM5G65JTHJHTRBSHVEM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/4HTCTBXOM5G65JTHJHTRBSHVEM/</guid>
+      <dc:creator>김도균 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 05:05:12 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GQ2DQNLEMNSGGNJYHBRTCNZYGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;더불어민주당 김병기 의원이 30일 서울 여의도 국회에서 열린 원내대책회의에서 본인과 가족을 둘러싼 각종 특혜·갑질 의혹에 대해 입장을 밝혔다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경찰이 더불어민주당 김병기 의원과 관련한 각종 고발 사건들을 서울경찰청으로 모아 통합 수사할 예정이다.&lt;br&gt;&lt;br&gt;본지 취재를 종합하면, 31일 서울경찰청 공공범죄수사대는 김 의원의 대한항공 호텔 숙박권 무상사용 의혹에 대한 고발 사건을 영등포경찰서에서 넘겨받았다.&lt;br&gt;&lt;br&gt;또 국가정보원에서 근무하며 알게 된 사실을 김 의원 보좌진에게 전달한 김 의원의 장남에 대한 고발 사건도 같은 날 서초경찰서에서 이첩받았다.&lt;br&gt;&lt;br&gt;더불어민주당 강선우 의원의 지역 보좌관이 2022년 지방선거 당시 김경 시의원으로부터 1억원을 전달받고, 이를 강 의원과 김 의원이 상의했다는 의혹 역시 공공범죄수사대에 배당됐다. 이날 공공범죄수사대는 김 의원의 ‘쿠팡 오찬 의혹’ 고발인 조사를 진행하며 수사를 본격화했다.&lt;br&gt;&lt;br&gt;김 의원은 최근 각종 의혹이 잇따라 불거지자 30일 원내대표직을 사퇴했다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>국가검진에서 실시하던 가슴 X선 검사, 2027년부터는 50세 이상에게만 실시</title>
+      <link>https://www.chosun.com/national/welfare-medical/2025/12/31/ZWAZUYTVBBF5XKVY6SN7RRJ63Y/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/31/ZWAZUYTVBBF5XKVY6SN7RRJ63Y/</guid>
+      <dc:creator>조성호 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 03:56:54 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WYKKZGMGIJHEHJDF5JSLI6VWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의료진이 흉부 엑스레이 영상을 판독하고 있는 모습./서울대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20세 이상 국민이 국가건강검진을 받을 때 기본적으로 실시했던 흉부 방사선(X선) 검사의 대상이 2027년부턴 50세 이상으로 대폭 축소된다. 그간 폐결핵을 찾기 위해 해오던 흉부 X선 검사이지만 젊은 층에서는 발견율이 크게 떨어져 비용 대비 효용이 떨어진다는 지적이 나온 데 따른 것이다.&lt;br&gt;&lt;br&gt;보건복지부는 국가건강검진위원회를 열고 이런 내용의 ‘국가건강검진 흉부 방사선 검사 개선 방안’을 심의했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;그간 국가건강검진에서의 흉부 X선 검사의 목적은 폐결핵 발견이었다. 그러나 현재 한국의 폐결핵 유병률(성인 인구 중 환자 비율)이 0.04%에 불과하고 ‘검진으로 인한 이득’과 ‘비용 효과성’ 등 주요 국가건강검진 원칙을 충족하지 못해 검사 효과 대비 비용이 크다는 지적이 제기됐다. 실제 2023년 국가건강검진에서 폐결핵 발견율은 0.03%에 불과했는데, 검진 비용은 1426억원으로 전체 검진 비용의 21%에 달하기도 했다.&lt;br&gt;&lt;br&gt;이에 따라 복지부는 현재 20세 이상 전 국민을 대상으로 하는 흉부 엑스레이 검사를 위험도가 높고 상대적으로 유병률이 높은 50세 이상을 대상으로 실시하기로 했다. 다만 20~49세에서도 고위험 직업군에 종사한다면 한시적으로 검사를 지원하기로 했다. 고위험 직업군은 감염병 관리 취약 사업장 근무 직종과 호흡기 유해인자 취급 직종 등 70개다.&lt;br&gt;&lt;br&gt;이번 개편 사항은 2027년 국가건강검진부터 반영된다. 검진 대상자 데이터 구축과 관련 고시 개정 등을 위해 1년의 준비과정이 필요하다는 설명이다.&lt;br&gt;&lt;br&gt;이형훈 복지부 2차관은 “앞으로도 의학·과학적 근거에 기반해 검진 항목의 타당성을 주기적으로 검토하고 국민 건강관리에 더 효과적인 검진체계를 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>JMS 정명석 ‘여신도 성범죄’ 증거 인멸 도운 경찰관, 재판행</title>
+      <link>https://www.chosun.com/national/national_general/2025/12/31/5E45E5Q35BDE7AX5S3ZWO5GW3Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/5E45E5Q35BDE7AX5S3ZWO5GW3Q/</guid>
+      <dc:creator>성남=김은진 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 04:07:03 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UPV7YRZ3FFETBMUE5UR3HTWWJ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;수원지방검찰청 성남지청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정명석 기독교복음선교회(JMS) 총재에 대한 성범죄 수사가 시작되자 정씨 측의 증거 인멸을 도운 경찰관이 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;수원지검 성남지청 형사3부(부장 강명훈)는 증거 인멸 교사 혐의로 경찰관 A씨를 불구속 기소했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 2022년 4월 교단 관계자들과 화상 회의에 참석해 신도들에게 휴대전화 교체를 설득하는 등 증거 인멸을 교사한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 현직 경찰관으로서 수사 지식을 내세웠고, 실제 교주 수행원 등은 휴대전화를 교체한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;JMS 총재 정씨는 2018년 2월부터 2021년 9월까지 충남 금산군 진산면 월명동 수련원 등에서 23차례에 걸쳐 홍콩 국적 여신도 메이플(30)을 추행하거나 성폭행하고, 호주 국적 여신도 에이미(31)와 한국인 여신도를 성추행한 혐의로 기소돼 올해 1월 대법원에서 징역 17년 확정 판결을 받았다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>인권위 “국군병원, 장병 자살 충동 신호 기록으로 남겨야”</title>
       <link>https://www.chosun.com/national/national_general/2025/12/31/U33W5WG5S5FX7PIHHBXSO3NCPM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/U33W5WG5S5FX7PIHHBXSO3NCPM/</guid>
@@ -801,18 +846,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OXVQCPEK3FKYTFXS7P7RMGVP5A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰청 폐지를 담은 정부조직법 개편안 시행을 앞두고, 현직 검사가 해당 법안이 기본권을 침해한다며 헌법재판소에 헌법소원 심판을 청구했다. 검찰청 폐지 법안을 두고 현직 검사가 직접 헌재 판단을 구한 것은 이번이 처음이다.&lt;br&gt;&lt;br&gt;30일 법조계에 따르면 김성훈 청주지검 검사는 검찰청 폐지와 중대범죄수사청(중수청) 설치를 골자로 한 정부조직법 개정안 제35조 제2항 등이 공무담임권을 침해한다며 지난 29일 헌법소원 심판을 청구했다.&lt;br&gt;&lt;br&gt;김 검사는 해당 법안이 검사의 헌법상 수사권 행사를 방해한다고 주장했다. 그는 청구서에서 “헌법은 검사에게 ‘강제수사에 대한 수사권’을 부여하고 있다”며 “검사를 공소청에 속하게 해 검사로부터 수사권을 완전히 박탈하는 것은 헌법이 검사에게 부여한 수사권을 박탈하는 것”이라고 했다. 이어 “헌법이 검사에게 부여한 기능과 권한을 행사하는 것을 방해해 공무담임권을 침해한다”고 했다.&lt;br&gt;&lt;br&gt;김 검사는 또 “수사권이 박탈돼 수사권, 수사지휘권을 행사하지 않는 검사는 헌법이 검사직에 부여하는 본질적인 기능과 권한이 없는 직책으로 헌법이 예정하는 검사제도의 검사가 아니라 이와 별개의 직책인 공소관에 해당한다”며 “설령 공소관이 검사라는 명칭을 사용한다 하더라도 헌법이 보장하는 검사제도의 검사는 아니라는 사실에는 변함이 없다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “검찰청을 폐지하고 검사를 공소청에 속하게 해 검사로부터 수사권을 완적히 박탈하는 것은 헌법이 규정하는 검사제도를 폐지하는 것”이라며 “헌법이 예정하는 검사직으로부터 배제해 검사직에서 배제하는 방법으로 청구인의 공무담임권을 침해했다”고 했다.&lt;br&gt;&lt;br&gt;아울러 “본건 심판 대상은 비록 아직 효력을 발생하기 이전이지만 그 침해의 발생이 현재 확실하고, 현재의 시점에서 청구인이 불이익을 입게 될 것을 충분히 예측할 수 있기 때문에 기본권 침해가 인정된다”고도 주장했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>현빈·손예진 부부, 또 2억원 기부… 올해만 5억원</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/ZNS245CZYFADXGZE3VTBEAZAO4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/ZNS245CZYFADXGZE3VTBEAZAO4/</guid>
-      <dc:creator>박선민 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 02:19:41 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/EJZZOIECTZBCRA2XQGV3O2ERA4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;제46회 청룡영화상 시상식이 19일 여의도 KBS홀에서 열렸다. 여우주연상을 수상한 손예진이 남편 현빈과 포옹하고 있다. 정재근 기자 cjg@sportschosun.com/2025.11.19/&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;배우 현빈·손예진 부부가 연말을 맞아 삼성서울병원에 2억원을 기부했다.&lt;br&gt;&lt;br&gt;30일 현빈 소속사 VAST엔터테인먼트에 따르면, 기부금은 소아·청소년 환자들과 경제적 어려움을 겪는 저소득층 성인 환자들의 치료비로 쓰인다.&lt;br&gt;&lt;br&gt;현빈·손예진 부부는 “치료받는 환자분들과 가족분들께 조금이나마 도움이 되기를 바라는 마음”이라고 했다.&lt;br&gt;&lt;br&gt;부부는 올해 초에도 아산병원과 삼성병원 소아청소년과 및 산부인과 발전기금으로 각각 1억5000만원씩, 총 3억원을 후원한 바 있다. 당시 두 사람은 “건강하게 자라고 있는 제 아이를 볼 때마다 그렇지 못한 아이들 생각에 왜인지 모를 부채의식이 든다”며 “아무쪼록 아픈 아이들이 본연의 해맑은 모습으로 돌아가 건강히 세상을 밝혀 주길 바란다”고 했다.&lt;br&gt;&lt;br&gt;이외에도 부부는 거의 매년 의료 지원을 비롯한 나눔 활동을 하고 있다. 작년 1월에는 소아·청소년 환자와 미혼모 가정 지원 등을 위해 1억5000만원을 기부했으며, 2022년에는 동해안 지역에서 발생한 대형 산불로 고통을 겪는 주민을 위해 성금 2억원을 내기도 했다.&lt;br&gt;&lt;br&gt;현빈과 손예진은 1982년생 동갑내기 부부로, 2022년 3월 결혼해 같은 해 11월 아들을 출산했다. 지난달에는 청룡영화상 역사상 처음으로 부부가 나란히 남우주연상과 여우주연상을 받아 화제를 모았다. 당시 현빈은 ‘하얼빈’으로, 손예진은 ‘어쩔수가없다’로 수상했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/GE2DSNZZGRSWKM3GMNTDCMZRGI.jpg?auth=4846b097a74187c029fbd9f040c7fc95585c3935359757754548223c6ac3090b&amp;smart=true&amp;width=700&amp;height=550" type="image/jpeg" height="550" width="700">
-        <media:description type="plain">손예진(왼쪽) 현빈 / 뉴스1 DB</media:description>
-      </media:content>
-    </item>
-    <item>
       <title>‘업무상 횡령’ 최성해 전 동양대 총장, 징역 4개월·집행유예 1년 확정</title>
       <link>https://www.chosun.com/national/court_law/2025/12/30/LKRETPRLCJEZJIARJHAMLSEGEE/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/LKRETPRLCJEZJIARJHAMLSEGEE/</guid>
@@ -831,15 +864,6 @@
       <content:encoded>‘쌍방울 대북 송금 사건’ 수사 과정에서 제기된 연어·술파티 회유 의혹을 조사하는 서울고검이 당시 수사 검사였던 박상용 검사를 30일 참고인으로 불러 조사하고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/C2FFLWXSTNMJHCD7NTZTCY4YGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;박상용 법무연수원 교수가 10월 27일 오후 서울 여의도 국회에서 열린 법제사법위원회의 대검찰청에 대한 국정감사에서 질의에 답하고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰에 따르면 서울고검 인권 침해 점검 태스크포스(TF)는 이날 오전 10시부터 박 검사를 참고인으로 조사하고 있다. 검찰이 현직 검사를 피의자로 소환해 조사할 권한이 없어, 우선 참고인 신분으로 불러 사실관계를 확인하는 절차를 밟고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;서울고검은 쌍방울 대북 송금 사건을 수사하는 과정에서 진술 회유가 있었는지 등을 중심으로 당시 상황 전반을 확인하고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;연어·술파티 회유 의혹은 2023년 5월 17일 수원지검에서 이화영 전 경기도 평화부지사와 김성태 전 쌍방울 그룹 회장, 방용철 전 쌍방울 부회장 등을 조사하는 과정에서 연어와 소주 등을 반입해 준 뒤 이들을 회유하려 했다는 내용이다. 이 전 부지사가 지난해 4월 법정에서 이러한 정황을 폭로하면서 의혹이 제기됐다. 당시 수원지검 수사팀은 자체 조사 결과를 토대로 이 전 부지사의 주장이 사실이 아니라고 반박했다. &lt;br&gt;&lt;br&gt;이후 법무부는 지난 9월 진상 조사에서 실제 술과 음식 등이 제공된 정황을 확인했다며 감찰 착수를 지시했다. 서울고검은 감찰 과정에서 범죄 단서를 포착해 수사로 전환했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>‘취업 사기 조사받는 중에도’... 도박 자금 마련 사기 벌인 30대</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/YJG77GO2AVGLPBIO7JLDMJ73XE/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/YJG77GO2AVGLPBIO7JLDMJ73XE/</guid>
-      <dc:creator>의정부=김은진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 01:54:31 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KJP4VWZRWNFM7JCKFKLYV6EPUI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의정부지검./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;취업 사기로 수사를 받는 중에도 도박 자금을 마련하기 위해 사기 행각을 벌인 30대 남성이 구속 상태로 재판에 넘겨졌다. &lt;br&gt;&lt;br&gt;의정부지검 형사1부(부장 이정민)는 사기 혐의로 A씨를 구속 기소했다고 30일 밝혔다. &lt;br&gt;&lt;br&gt;검찰에 따르면 A씨는 16명의 피해자들로부터 보증금 등을 명목으로 총 1290만원을 가로챘다. &lt;br&gt;&lt;br&gt;그는 네이버 밴드에 ‘건설현장 유도원’을 채용한다는 허위 게시글을 올린 후 이를 보고 연락한 피해자들에게 보증금, 예치금 등을 명목으로 1인당 30만~50만원을 뜯어낸 것으로 조사됐다. &lt;br&gt;&lt;br&gt;피해 신고를 접수한 경찰은 16명의 피해자를 대상으로 조사를 진행, 검찰에 불구속 송치했다. &lt;br&gt;&lt;br&gt;이후 검찰의 보완수사를 통해 A씨가 수사를 받는 중에도 인터넷 도박 자금, 피해금에 대한 이른바 ‘돌려막기’ 자금을 마련하기 위해 같은 수법으로 범행을 저질렀던 것으로 드러났다. &lt;br&gt;&lt;br&gt;이에 검찰은 10명에 대한 추가 범행을 적발해 A씨를 구속시켰다. A씨가 10명으로부터 가로챈 피해금은 481만원이다. &lt;br&gt;&lt;br&gt;이로써 A씨가 취업 사기로 26명에게 가로챈 피해금만 1771만원에 이른다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “앞으로도 서민을 울리는 취업사기 범행의 근절을 막기 위해 지속적으로 노력하겠다”고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>기후변화의 과속...최근 30년 여름 25일 길어지고, 겨울 22일 짧아져</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/30/HDWOCHMYRNG3NHAJETVS2ULKAI/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/30/HDWOCHMYRNG3NHAJETVS2ULKAI/</guid>
@@ -847,33 +871,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 02:50:07 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/G42GEZDEHFQTMYJTHAZTIYTFHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 8월 4일 전남 무안군 무안읍 한 아파트 주차장이 폭우에 침수된 모습. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;기후변화가 빠르게 진행되면서 2020년대 들어 한반도 기온이 0.9도 가량 상승한 것으로 나타났다. 1910년대부터 2010년대까지 100년 간 1.9도가 상승했는데, 5년 여 만에 50년 치가 올라간 셈이다.&lt;br&gt;&lt;br&gt;기상청이 30일 발표한 ‘우리나라 113년 기후변화 분석 보고서’에 따르면, 1912년부터 2024년까지 113년간 연평균기온은 10년당 0.21도씩 상승해 총 2.8도가 올라갔고, 2024년 기준 14.8도를 기록했다. 한반도는 해마다 뜨거워지고 있어서 “올여름이 인생에서 가장 시원한 여름”이라는 말이 현실이 됐다.&lt;br&gt;&lt;br&gt;1912년부터 2024년까지 분석은 1904∼1911년 근대적인 기상 관측을 시작한 6개 지점(인천·목포·부산·서울·대구·강릉) 관측자료를 토대로 이뤄졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/OSMHGHEQN75D2TWHMNJ5GRNUWA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;폭염. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇여름 25일 길어지고, 겨울 22일 짧아져&lt;/b&gt;&lt;br&gt;&lt;br&gt;1912년부터 1940년까지 ‘과거 30년’과 2015년부터 2024년까지 ‘최근 30년’을 비교하면 여름은 25일 길어지고 겨울은 22일 짧아졌다.&lt;br&gt;&lt;br&gt;과거 30년 평균 98일이었던 여름(일 평균 기온이 20도 이상 올라간 뒤 다시 떨어지지 않는 첫날부터 끝날)은 최근 30년 평균 123일로 25일 늘었다. 최근 10년(2015∼2024년)만 평균을 내면 130일로 더 길었다.&lt;br&gt;&lt;br&gt;겨울(일 평균 기온이 5도 미만으로 내려간 뒤 다시 올라가지 않는 첫날부터 끝날)은 과거 30년 평균 109일에서 최근 30년 평균 87일로 22일 감소했다. 최근 10년 평균은 86일이었다.&lt;br&gt;&lt;br&gt;봄(일 평균 기온이 5도 이상으로 올라간 뒤 다시 떨어지지 않은 첫날부터 끝날)은 여름처럼 최근 30년(평균 90일)이 과거 30년(85일)보다 5일 길었다. 가을(일 평균 기온이 5도 미만으로 내려간 뒤 다시 오르지 않은 첫날부터 끝날)은 겨울처럼 최근 30년(평균 65일)에 과거 30년(73일)보다 8일 짧아졌다.&lt;br&gt;&lt;br&gt;1912~2024년 연평균 기온은 12.9도였다. 기온은 10년마다 0.21도씩 올랐다. 연평균 기온을 연대별로 보면 1910년대 12.0도에서 2010년대 13.9도로 100년간 1.9도 오른 뒤 2020년대 14.8도로 단기간 0.9도 급상승했다. 기후변화가 최근 들어 가파르게 진행되고 있다는 뜻이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/QC2K42ZBWQ6FGYK2USR4E6JGFE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난해 8월28일 오후 제주시 이호해수욕장에서 도민과 관광객들이 더위를 쫓고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇심해지는 ‘밤 더위’&lt;/b&gt;&lt;br&gt;&lt;br&gt;낮 더위보다 밤 더위가 심해지고 있다. 최저기온(10년마다 0.25도 상승) 상승세가 최고기온(10년마다 0.14도 상승)보다 가팔랐다.&lt;br&gt;&lt;br&gt;밤의 온난화가 낮보다 강하게 이뤄졌다는 뜻이다. 폭염일(일 최고기온이 33도 이상인 날)은 113년간 10년마다 0.22일 늘어나 증가세가 뚜렷하지 않았지만, 열대야일(밤 최저기온이 25도 이상인 날)은 10년에 1.1일씩 늘어났다. &lt;br&gt;&lt;br&gt;특히 최근 30년 열대야일은 평균 17.4일로, 과거 30년(평균 8.4일)보다 9일이나 늘었다. 최근 10년으로만 좁히면 평균 열대야일은 23.8일에 달했다. 열대야는 1970∼1980년대만 해도 제주와 남해안 일부를 중심으로 나타났으나 2010년대 서쪽 지역 전역으로 확대됐고 2020년대 들어선 전국에서 발생하고 있다.&lt;br&gt;&lt;br&gt;‘도시 열섬’으로 인해 열대야는 비도시 보다 도시 지역에서 더 뚜렷하게 증가하고 있다. 전국에 기상관측망이 확충된 1973년 이후 관측이 연속해서 이뤄진 59개 지점 관측자료로 분석한 결과를 보면, 도시 지역 증가세가 10년에 2.17일로 비도시 지역(10년에 0.85일)을 압도했다.&lt;br&gt;&lt;br&gt;도시 지역 열대야일은 1970년대 5.1일에서 2020년대 17.1일, 비도시 지역은 2.9일에서 8.0일로 다른 폭으로 증가하면서 도시와 비도시 열대야일 차는 같은 기간 2.2일에서 9.1일로 커졌다. 반면 폭염일 증가세는 도시와 비도시 간 차이가 크지 않았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KYZ64FKS65GQFGMJAFDAIWIWCE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 7월 17일 새벽 충남 서산시 성연면 오사삼거리가 폭우로 잠겨 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;◇강수량은 증가했는데 비오는 날은 줄어...집중호우↑&lt;/b&gt;&lt;br&gt;&lt;br&gt;1912년부터 2024년까지 113년간 강수 양태를 보면 연강수량은 10년마다 17.83㎜씩 증가했는데 강수일(일강수량이 0.1㎜ 이상인 날)은 10년에 0.68일씩 줄었다. 한 번 쏟아질 때 더 많이 쏟아졌다는 것이다.&lt;br&gt;&lt;br&gt;일강수량을 구간별로 나눠서 살펴보면 ’30㎜ 이상 80㎜ 미만인 날‘은 10년에 0.16일, ’80㎜ 이상인 날’은 0.08일 늘어나 증가세가 뚜렷했다. ’10㎜ 이상 30㎜ 미만인 날’과 ’10㎜ 미만인 날’은 10년에 0.01일 늘거나 2.78일 감소했다. 한 번 퍼부을 때 많은 양이 내렸다는 뜻이다. 1시간 최다 강수량이 50㎜ 이상인 날도 10년마다 0.04일 늘어났다.&lt;br&gt;&lt;br&gt;기상청은 “최근 기후변화가 심화하고 있다”고 경고하면서 “기후변화를 철저히 감시하고 원인을 규명하는 데 최선을 다하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>대구 달성군 다가구 주택서 화재… 2명 부상, 10명 대피</title>
-      <link>https://www.chosun.com/national/regional/2025/12/30/UCKP7D6CIVEVFC6AUH2WT4YJ4I/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/30/UCKP7D6CIVEVFC6AUH2WT4YJ4I/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 01:56:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BMZZXYL5QBDN7NECD4XKYK5RAY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;불이난 대구 달성 다가구 주택./대구소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군 한 다가구 주택에서 불이 나 2명이 다치고, 10명이 대피했다. &lt;br&gt;&lt;br&gt;30일 대구소방안전본부에 따르면, 이날 오전 5시 18분쯤 대구 달성군 화원읍 한 4층짜리 다가구 주택 2층에서 원인을 알 수 없는 불이 났다. 이 불로 이곳에 사는 50대 남성 2명이 부상을 입어 인근 병원으로 이송돼 치료를 받고 있다. 주민 10명은 스스로 대피했다. &lt;br&gt;&lt;br&gt;불이 나자 소방 당국은 장비 26대, 인력 74명을 투입해 오전 5시 52분쯤 불을 모두 껐다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 정확한 화재 원인과 피해 규모를 조사 중이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>중앙지법, 尹·군경 수뇌부 내란 재판 하나로 병합</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/P5524TIZHRDC3FAJMGC6R6T5KM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/P5524TIZHRDC3FAJMGC6R6T5KM/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 02:16:07 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/KF2L2CAMR5CENHQFRRSVFZ76ME.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;서울중앙지법 형사25부 재판장인 지귀연 부장판사./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지법 형사25부(재판장 지귀연)는 30일 윤석열 전 대통령과 김용현 전 국방장관, 조지호 전 경찰청장 등 군경 수뇌부의 내란 혐의 재판을 하나로 병합했다. 내달 결심 공판 진행을 앞두고 심리에 속도를 내겠다는 것이다.&lt;br&gt;&lt;br&gt;윤석열 전 대통령은 지난 1월 말 내란 우두머리 혐의로 기소돼 재판을 받아왔다. 김용현 전 국방장관은 노상원 전 정보사령관, 김용군 전 국방부 조사본부 수사본부장(예비역 육군 대령)과 함께 재판을 받아왔다. 조 전 청장은 김봉식 전 서울경찰청장, 윤승영 전 국가수사본부 수사기획조정관, 목현태 전 서울경찰청 국회경비대장과 함께 재판을 받아왔다. 재판부는 윤 전 대통령 사건과 군 수뇌부 사건, 경찰 수뇌부 사건 세 갈래로 재판을 나눠 심리해 왔다. 그러나 각 재판 핵심이 작년 12·3 비상계엄으로 동일한 점, 내란죄 구성요건 등 쟁점이 유사한 점을 고려해 재판을 하나로 합친 것이다.&lt;br&gt;&lt;br&gt;이날 병합에 따라 재판부는 오는 2월 중 윤 전 대통령 등 8명의 내란 혐의 1심 선고를 진행할 계획이다. 비상계엄이 내란죄에 해당하는지 여부에 대한 법원의 첫 판단이 나오는 것이다. 이날 법정에는 윤 전 대통령, 김 전 장관, 노 전 사령관, 김 전 청장, 윤 전 조정관, 목 전 경비대장 등 6명이 출석했다.&lt;br&gt;&lt;br&gt;한편 재판부는 이날 김 전 장관을 증인으로 소환해 신문하고 있다. 재판부는 이날 김 전 장관 증인신문을 마친 뒤, 내달 5·7·9일 사흘에 걸쳐 결심 공판을 열 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울 곳곳 해넘이 행사에 22만 인파 운집 예상…경찰 3000명 투입해 총력 대응</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/FBEWDNLY2RHOPPFU6P4VSY2WNY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/FBEWDNLY2RHOPPFU6P4VSY2WNY/</guid>
-      <dc:creator>안상현 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 02:39:37 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU4DMYTBHA3GMMJXGNRGCNTBGU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 1월 1일 서울 종로구 보신각에서 열린 제야의 종 타종행사를 찾은 시민들이 타종 장면을 바라보고 있다. (공동취재)2025.1.1/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;송년·신년 행사로 인해 오는 31~1일 서울 곳곳에 대규모 인파가 운집할 전망이다. 서울 경찰은 대규모 인력을 투입한 안전 지원 대책을 마련한다는 방침이다.&lt;br&gt;&lt;br&gt;서울경찰청은 31일부터 내년 1월 1일 이틀간 서울 시내에서 열리는 29개 행사에 총 22만여 명의 인파가 운집할 것으로 예상된다고 30일 밝혔다. 이에 따라 서울청은 안전 관리 계획을 수립하고 기동대 31개 부대 등 경찰관 총 3063명을 인파 밀집 예상 지역에 집중 배치하는 방식으로 총력 지원 체계를 구축하기로 했다.&lt;br&gt;&lt;br&gt;특히, 사람이 많이 몰리는 서울 종로구 보신각 타종행사의 경우 안전 펜스로 행사 구간을 12개 구역으로 나누고, 나뉜 공간에 제한 인원을 초과하지 못하도록 통제할 예정이다. 당일 종로 일대 도로는 차량이 통제되고, 지하철 역시 행사 종료 시간대 종각역을 무정차 통과한다.&lt;br&gt;&lt;br&gt;또한 서울 중구 ‘명동 신세계백화점 카운트다운 쇼 행사’로 인해 소공로인 한국은행 교차로부터 퇴계로1가 교차로까지 도로가 통제된다. ‘동대문 DDP 서울라이트 행사’로 장충단로인 을지로6가 교차로에서 청계6가 교차로까지 참가 인원 증가에 따라 도로 일부 또는 전면을 통제할 방침이다.&lt;br&gt;&lt;br&gt;서울경찰청 관계자는 “서울 지역 각 자치구별로 DDP·중앙우체국·롯데월드타워·아차산·하늘공원 등에서 진행되는 해넘이·해맞이 행사 등 총 29건에 대해서도 자치구 안전 관리 대책에 최대한 협조해 시민들 안전에 소홀함이 없도록 할 예정”이라고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘미국 생활 포기’ 올리버쌤, 韓 건보 무임승차 논란에 “한국행 결정 아냐”</title>
