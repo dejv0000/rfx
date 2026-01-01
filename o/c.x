@@ -13,6 +13,15 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>충주서 외조모 둔기로 살해한 30대... 경찰, 영장 신청</title>
+      <link>https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</guid>
+      <dc:creator>우정식 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 27 Dec 2025 03:24:41 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/J3CVVV3PUCJMOJBBIUGNQ5MPAI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;충북 충주경찰서&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충북 충주경찰서는 외조모를 살해한 혐의(존속살해)로 30대 남성 A(38)씨를 긴급 체포해 조사 중이라고 27일 밝혔다.&lt;br&gt;&lt;br&gt;경찰에 따르면, A씨는 지난 26일 오전 충주시 교현동의 한 아파트에서 함께 살던 외조모 B(89)씨를 둔기로 때려 살해한 혐의를 받고 있다. &lt;br&gt;&lt;br&gt;그는 당일 오후 8시 40분쯤 아파트를 방문한 부모의 설득 끝에 경찰에 직접 신고했다. A씨는 신고 당시 “할머니가 죽여달라고 해서 죽였다”는 취지로 말한 것으로 알려졌다. 그러나 A씨는 체포 이후 경찰 조사에선 정확한 범행 경위를 진술하지 않고 있는 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰은 시신의 상태로 미뤄 A씨가 당일 오전 B씨를 살해한 것으로 추정하고 있다.&lt;br&gt;&lt;br&gt;A씨는 B씨와 이 아파트에서 단둘이 거주해온 것으로 파악됐다. &lt;br&gt;&lt;br&gt;경찰은 이날 A씨에 대해 구속영장을 신청하고, 정확한 범행 경위를 추궁하고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>꼭대기에 세계 최고 184m 전망대… 영종도~청라 ‘제3연륙교’ 5일 개통</title>
       <link>https://www.chosun.com/national/regional/2026/01/02/AQ5C6CSRCFDNVD42OTR4XI6U4A/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/02/AQ5C6CSRCFDNVD42OTR4XI6U4A/</guid>
@@ -929,15 +938,6 @@
       <description/>
       <pubDate>Wed, 31 Dec 2025 10:09:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIWWN2ZBW2EV7Z2KMSW46TRPEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년 전 만취 상태로 운전을 하다가 건물을 들이받은 음주운전자가 검찰의 보완수사 끝에 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 인권보호부(부장 김종필)은 지난 30일 도로교통법위반(음주운전) 혐의를 받는 A씨를 불구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 7월 9일 혈중알코올농도 0.206%의 만취 상태로 운전을 하다 건물을 들이받은 혐의를 받는다. A씨는 경찰 조사에서 ‘차량 내 집 열쇠를 찾던 중 실수로 가속페달을 밟았다’고 주장했고 당시 경찰은 이를 받아들여 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;3년이 지나 최근 사건을 넘겨받은 검찰은 재수사를 요청했고, 경찰은 이번엔 기소 의견으로 사건을 송치했다. 이후 검찰은 직접 폐쇄회로(CC)TV 영상 등 증거에 대한 보완수사를 거쳐 혐의를 입증한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 서울남부지검 형사6부(부장 이경민)는 하수도 보강 공법을 선정하는 과정에서 특정 업체에 특혜를 주고 뇌물을 받았다는 혐의(부정처사 후 수뢰)로 송치된 전직 서울 시내 A 구청 과장급 공무원에게는 보완수사를 거쳐 지난 30일 무혐의 처분을 내린 바 있다.&lt;br&gt;&lt;br&gt;이 공무원은 2018년 한 업체에 특혜를 준 뒤 이듬해 퇴직하고 약 2000만원을 수수한 혐의로 2023년 검찰에 넘겨졌다. 당시 공법 선정에 관여한 중요 참고인에 대한 조사가 이뤄지지 않아 검찰이 보완수사를 요구했으나 경찰 측에서 조사 없이 기소 의견으로 재송치를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 검찰은 보완수사를 통해 직접 주요 참고인을 조사했고, 선정 과정에서 특정 업체에 유리하도록 영향력이 행사되진 않았다는 판단을 내렸다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후에도 철저한 사법통제 역할 및 형사 사건의 실체적 진실 발견이라는 검찰 본연의 업무를 충실히 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 공무원은 2019년 한 업체에 특혜를 주고 2천만원&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘통일교 쪼개기 후원’ 송광석 기소... 검찰, 한학자는 보완 수사 요구</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 08:30:49 +0000</pubDate>
-      <content:encoded>검찰이 여야 정치인 11명에게 불법 정치 자금을 건넨 혐의를 받는 통일교 핵심 관계자 송광석 전 천주평화연합(UPF) 회장을 31일 불구속 기소했다. 경찰이 송 전 회장 등을 검찰에 넘긴 지 하루 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMNLDGBRTGZTCMVRDGNLBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송광석 전 천주평화연합(UPF) 회장(사진 왼쪽)이 경찰 조사를 받기 위해 지난 26일 오후 서울 서대문구 경찰청 청사에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 송봉준)는 이날 정치자금법 위반 혐의를 받는 송 전 회장을 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;송 전 회장은 통일교 관련 단체인 천주평화연합 단체의 자금 1300만원을 여야 국회의원 11명에게 쪼개기 후원한 혐의를 받는다. 검찰은 다만 송 전 회장과 함께 공범으로 송치된 한학자 총재와 윤영호 전 통일교 세계본부장, 정원주 전 총재 비서실장 등에 대해서는 경찰에 보완 수사를 요구했다.&lt;br&gt;&lt;br&gt;한 총재 등 3명에 대한 공소시효는 내년 1월 2일까지지만, 송 전 회장이 기소되면서 이들에 대한 공소시효도 함께 정지됐다. 경찰은 전날 송 전 회장 등 4명을 검찰에 송치한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>검찰, 구치소서 불법 성기 확대 시술한 MZ 조폭 기소</title>
