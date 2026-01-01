@@ -13,6 +13,45 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>새해둥이 2명…강남차병원서 출생한 ‘쨈이·도리’</title>
+      <link>https://www.chosun.com/national/people/2026/01/01/AHHDUGO3FZADPD76H3K4DGS7DQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/01/AHHDUGO3FZADPD76H3K4DGS7DQ/</guid>
+      <dc:creator>오경묵 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Jan 2026 11:54:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/F65MRL25WVD4NKLXDVXFGNPMBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2026년 병오년(丙午年) 새해 첫 날인 1일 서울 강남차여성병원에서 윤성민 씨(왼쪽)가 부인 황은정 씨 사이에서 태어난 쨈이(태명,여아)를, 정동규 씨가 부인 황혜련 씨 사이에서 태어난 도리(태명,여아)를 품에 안고 있다. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2026년 병오년이 시작된 1월 1일 0시 정각, 서울 강남차여성병원에서 ‘새해둥이’ 2명이 동시에 태어났다.&lt;br&gt;&lt;br&gt;제왕절개로 태어난 몸무게 2.88㎏의 여아 ‘쨈이’(태명)와, 자연분만으로 태어난 몸무게 3.42㎏의 여아 ‘도리’(태명)가 그 주인공이다. 차병원에 따르면 두 아기와 산모 모두 건강한 상태다.&lt;br&gt;&lt;br&gt;쨈이의 엄마·아빠인 황은정(37)·윤성민(38) 부부는 “결혼 4년 차에 오랫동안 기다리던 첫째 아기가 새해 첫날 선물처럼 찾아와줘서 너무 기쁘다”며 “고생한 아내와 새벽까지 함께해 준 의료진에게 감사하다”고 했다. &lt;br&gt;&lt;br&gt;도리는 황혜련(37)·정동규(36) 부부의 둘째 아이다. 아빠 정씨는 “첫째 아이가 지어준 태명을 가진 둘째가 새해 첫 아기로 태어나 정말 특별하고 의미가 있다”며 “건강하게 둘째를 출산한 아내에게 ‘고생했고 고맙다’는 말을 꼭 하고 싶다”고 했다.&lt;br&gt;&lt;br&gt;우리나라 합계출산율(여성 1명이 평생 낳을 것으로 예상되는 평균 출생아 수)은 2015년 1.24명에서 2023년 0.72명까지 지속적으로 떨어졌다가, 2024년 0.75명으로 9년 만에 반등한 상태다. 최근 월별 통계인 지난해 10월 합계출산율은 0.81명으로 전년 동월 대비 0.02명 늘었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>3400만원 오토바이 족쇄 채우자 밀린 세금 완납한 고액 체납자</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/01/G6UV3P7RFZCHJBLZJF7PY3DRPE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/G6UV3P7RFZCHJBLZJF7PY3DRPE/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Jan 2026 12:06:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BVURFWEEI5ELPGJNX2I72GVABM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청이 발견한 고액 체납자의 수입 오토바이./경기도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고가의 수입 오토바이를 몰면서도 세금을 내지 않은 고액 체납자들이 과세 당국에 덜미를 잡혔다. &lt;br&gt;&lt;br&gt;경기도는 100만원 이상 장기 체납한 개인·법인 소유 이륜자동차에 대한 전수조사를 실시해 총 2억7000만원의 체납 세금을 징수했다고 31일 밝혔다. &lt;br&gt;&lt;br&gt;도는 이륜자동차의 경우 체계적으로 체납 처분이 이뤄지지 않는 사례를 확인했다. 이에 작년 8월부터 체납자 591명이 소유한 이륜자동차 723대를 확인하고, 11월까지 약 4개월간 지자체 합동으로 체납자 주소지·사업장 탐문수색과 현장 징수 활동을 벌였다. &lt;br&gt;&lt;br&gt;그 결과 실제 소재가 확인된 이륜자동차는 338대였다. 적발된 이륜자동차 중에는 미국산 할리데이비슨 등 고가 수입 이륜차도 다수 포함됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PIKIJLI35VGXRKRHTWSOKIF3IA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기도청이 발견한 고액 체납자의 수입 오토바이./ 경기도청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사례로는 경기도 동두천시에 거주하는 A씨는 2021년부터 취득세 등 약 600만원을 체납해 왔다. 현장 징수팀이 A씨의 주소지 겸 사업장을 직접 탐문한 결과 이탈리아산 수퍼벨로체(신차 가격 약 3400만원)를 보유한 사실이 확인됐다. 징수팀이 적발한 이륜자동차에 족쇄를 채우자, 체납자는 밀린 세금을 전액 냈다. &lt;br&gt;&lt;br&gt;남양주시에 거주하는 B씨는 자동차세 등 12건, 150만원을 2019년부터 장기 체납했다. 징수팀은 체납자의 주소지 탐문수색 과정에서 중고 시세 약 2400만원에 거래되는 고가 이륜자동차 KTM 890 어드벤처 R 랠리를 발견했다. B씨 역시 이륜자동차 압류 조치에 체납액 전액을 납부했다.&lt;br&gt;&lt;br&gt;징수팀은 현장 납부 독려와 압류 조치를 통해 총 2억7000만원을 거두어들였다. 자진 납부를 거부한 체납자 소유 이륜자동차 1대를 즉시 공매 처분했다. &lt;br&gt;&lt;br&gt;노승호 경기도 조세정의과장은 “남은 이륜자동차 385대도 계속 조사해 끝까지 책임을 묻겠다”며 “조세 회피 행위에는 엄정하게 대응하고, 성실 납세자가 존중받는 조세 질서를 확립해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/PIKIJLI35VGXRKRHTWSOKIF3IA.jpg?auth=738bd99749f3211c3bf1587b2252fb8e785201a4cebbf9338ebe75b063c19d13&amp;smart=true&amp;width=813&amp;height=1098" type="image/jpeg" height="1098" width="813">
+        <media:description type="plain">경기도청이 발견한 고액 체납자의 수입 오토바이./ 경기도청</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>“해돋이 보러왔다가”... 70대 여성 교통사고로 숨져</title>
+      <link>https://www.chosun.com/national/incident/2026/01/01/UMRYXA6LNVEAZFWZESVRZOVK5E/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/incident/2026/01/01/UMRYXA6LNVEAZFWZESVRZOVK5E/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Jan 2026 11:44:21 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/WRLP7PKFBJGAVF5P2GEG3KQNPM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 구급차/신정훈 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 첫날 해돋이를 보기 위해 길을 걷던 70대 여성이 차에 치여 숨지는 사고가 발생했다. &lt;br&gt;&lt;br&gt;1일 오전 5시 55분쯤 경북 영덕군 남정면 한 국도에서 갓길을 걷던 70대 여성이 달리던 승용차에 치였다. &lt;br&gt;&lt;br&gt;사고로 크게 다친 여성은 출동한 구급대에 의해 인근 병원으로 옮겨졌지만 숨졌다. &lt;br&gt;&lt;br&gt;숨진 여성은 해돋이를 보기 위해 현장을 찾았다가 사고를 당한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국은 운전자와 목격자 등을 상대로 정확한 사고 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>전 연인 흉기 위협, 3000만원 강탈한 외국인 검거</title>
+      <link>https://www.chosun.com/national/regional/chungcheong/2026/01/01/A7TAK4GHBZFCZBUE6I37OFGYFY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/chungcheong/2026/01/01/A7TAK4GHBZFCZBUE6I37OFGYFY/</guid>
+      <dc:creator>신정훈 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Jan 2026 10:48:31 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전 연인을 흉기로 위협하고 금품을 빼앗은 외국인기 붙잡혔다. &lt;br&gt;&lt;br&gt;충북 진천경찰서는 특수강도 혐의로 카자흐스탄 국적의 20대 A씨를 긴급 체포했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;그는 이날 오후 3시 40분쯤 진천군 덕산읍에 있는 같은 국적의 전 여자친구 집을 찾아가 그를 흉기로 위협하고 현금 3000만원을 빼앗은 혐의를 받는다.&lt;br&gt;&lt;br&gt;피해자 신고를 받고 출동한 경찰은 방범카메라 등을 분석해 그를 추적했고, 범행 2시간여 만에 청주에서 검거했다. &lt;br&gt;&lt;br&gt;경찰은 정확한 범행 경위를 조사하고 있다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[단독] 서울 관악구 어린이공원 인근서 칼부림… 10대 남성 검거, 2명 부상</title>
       <link>https://www.chosun.com/national/national_general/2026/01/01/L7GKVMRSQNDSPECRE4FOYIPBCQ/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/L7GKVMRSQNDSPECRE4FOYIPBCQ/</guid>
@@ -848,24 +887,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI4GCNDBHE4GCOJQGFRTCNDEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;인천대교 갓길에 설치된 드럼통./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정부가 국내 최장 해상 교량인 인천대교에서 사망 사고가 잇따르자 추락 방지용 안전 난간을 설치하기로 했다. &lt;br&gt;&lt;br&gt;국토교통부는 인천대교에 ‘안전사고 예방 시설물’(안전 난간)을 설치하기로 하고 내년 초 설계를 시작할 예정이라고 31일 밝혔다. &lt;br&gt;&lt;br&gt;국토부는 인천대교 주탑 구간 양방향 7~8㎞ 구간에 2.5m 높이의 안전 난간을 설치하는 방안을 검토 중이다. 구체적인 내용은 설계 과정에서 결정될 예정이다. 내년 하반기 설치를 목표로 하고 있다. &lt;br&gt;&lt;br&gt;80억~100억원 규모로 추산되는 사업비는 인천대교 통행료 수입의 일부로 충당된다. &lt;br&gt;&lt;br&gt;국토교통부 관계자는 “안전 난간 설치 시 교량 안전성 등에 문제가 없다는 결과를 얻었다”며 “내년 하반기 설치를 계획하고 있다”고 말했다. &lt;br&gt;&lt;br&gt;인천대교에선 사망 사고가 잇따라 갓길에 드럼통을 설치하고 차량 정차 등 상황 발생 시 대교 운영사 측에서 출동해 확인하는 조치 등을 취했으나 예방에 한계가 있다는 지적이 있었다. &lt;br&gt;&lt;br&gt;인천대교에선 지난 2009년 개통 이후 최근까지 86명이 사망한 것으로 파악됐다. &lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>오세훈 신년사 “서울의 중심축인 강북, 새로운 성장 거점으로” </title>
-      <link>https://www.chosun.com/national/national_general/2025/12/31/3IICQ26IGFEOFIMZBGBXO2NLZU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/3IICQ26IGFEOFIMZBGBXO2NLZU/</guid>
-      <dc:creator>최연진 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 01:08:11 +0000</pubDate>
-      <content:encoded>오세훈 서울시장은 31일 ‘2026년 신년사’에서 “2026년 서울은 주저하지 않고 나아가되 큰 방향은 결코 잃지 않는 도시, 혁신을 향해 속도를 내면서도 시민의 삶을 놓치지 않는 도시로 다시 한번 힘차게 도약하겠다”고 했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3PC4KL6AWFOCFLUUVEHPJYHHQ4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장./연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;오 시장은 2026년 서울시정 방향에 대해 “서울의 판을 다시 짜고, 성장의 방향을 바로 세우며, 삶의 기반을 흔들림 없이 지키는 것”이라고 했다. &lt;br&gt;&lt;br&gt;새해 핵심 화두로는 ‘다시, 강북 전성시대’와 ‘주택 공급’을 내세웠다. 오 시장은 “강북이 살아야 서울이 커지고, 서울이 커져야 대한민국이 전진한다”며 “서울의 중심축인 강북을 활성화하고, 균형을 넘어 새로운 성장 거점으로 발전시켜 ‘다시, 강북 전성시대’를 열겠다”고 했다. 그러면서 “신호탄인 세운지구 복합 개발을 통해 이 지역을 역사와 미래가 공존하는 창의적 도심으로 재탄생시키겠다”며 “일터와 삶터, 여가와 녹지가 어우러진 강북 대전환의 상징 공간으로 만들겠다”고 했다. &lt;br&gt;&lt;br&gt;서남권 대개조 계획도 내놨다. 오 시장은 “서남권 준공업지대를 혁신해 일과 여가, 문화와 녹지가 조화를 이루는 직(職)·주(住)·락(樂) 중심”으로 변화시키겠다며 “서울은 동서남북 각자의 강점을 살려 서로를 끌어주고 밀어주는 도시, 함께 커지고 함께 책임지는 하나의 수도로 나아갈 것”이라고 했다.&lt;br&gt;&lt;br&gt;주택 공급과 관련, 오 시장은 “올해 2만 3천 호 착공을 비롯해 2031년까지 총 31만 호를 공급 약속을 반드시 완수해 주택 가격의 불안을 공급의 안정으로 풀겠다”고 했다. &lt;br&gt;&lt;br&gt;오 시장은 “글로벌 경쟁력과 디지털 혁신, 시민 안전이 함께 작동하는 미래 지속 가능성을 설계하는 도시, 위기에 강하고 변화에 앞서는 서울을 통해 ‘진정한 미래특별시’를 만들겠다”고 했다. 이를 위해 용산은 동북아 비즈니스 허브로, 잠실은 전시·마이스(MICE) 거점으로, 한강은 산업·문화·관광·일상이 공존하는 글로벌 브랜드 공간으로 조성할 계획이라고 밝혔다. &lt;br&gt;&lt;br&gt;또 그 어떤 정책보다도 시민의 생명과 안전을 지키겠다고 강조했다. 오 시장은 “‘청년·여성·노인’의 분류를 넘어 ‘심야노동청년’, 부모와 자녀를 동시에 돌보며 일까지 병행하는 ‘더블케어 여성’, ‘1인 가구 노인’ 등 필요한 돌봄과 지원이 제때, 정확히 닿도록 도시 안전망을 더 촘촘하게 재편하겠다”고 했다.&lt;br&gt;&lt;br&gt;오 시장은 “2026년도 흔들리지 않고 시민의 기대와 신뢰를 나침반 삼아 힘차게 전진하겠다”며 “미래특별시 도약을 향한 영광스러운 길을 시민과 함께 힘차게 걷겠다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새벽 구로구 단독주택서 불...70대 男 사망</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/31/TPSCP5TDPZHMPESAOGVT3ODALI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/TPSCP5TDPZHMPESAOGVT3ODALI/</guid>
-      <dc:creator>윤성우 기자, 김병권 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 23:55:28 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MHVNB2B2WJHGXODIDACQLHGZVI.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;소방 로고/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;31일 오전 2시 14분쯤 서울 구로구 가리봉동 2층짜리 단독주택에서 화재가 발생했다.&lt;br&gt;&lt;br&gt;주택 1층에서 시작된 이 불로 70대 남성 1명이 숨졌고, 다른 70대 남성 1명이 가벼운 화상을 입고 병원으로 이송됐다. 사상자 두 명은 화재가 발생한 쉐어하우스에 함께 살던 지인 관계였던 것으로 알려졌다. 인근 주택에 있던 3명은 스스로 대피했다.&lt;br&gt;&lt;br&gt;소방 당국은 인력 72명과 장비 22대를 투입해 화재 발생 1시간여 만인 오전 3시 24분쯤 불을 완전히 껐다.&lt;br&gt;&lt;br&gt;소방 당국과 경찰은 정확한 화재 원인을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>100년간 1.9도 오른 한반도, 5년만에 0.9도 상승</title>
       <link>https://www.chosun.com/national/transport-environment/2025/12/31/FZEPSNNNABHFPHWPOR532HL4DA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2025/12/31/FZEPSNNNABHFPHWPOR532HL4DA/</guid>
@@ -932,24 +953,6 @@
       <description/>
       <pubDate>Tue, 30 Dec 2025 15:42:00 +0000</pubDate>
       <content:encoded>도널드 트럼프 미국 대통령과 대립각을 세운 할리우드 스타 조지 클루니와 그의 가족이 프랑스 시민권을 취득했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PD7WPYCKQZDEPMZLSWXVLJJXYQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;29일 AFP 통신에 따르면 클루니와 레바논계 영국인 인권 변호사인 아내 아말 클루니, 두 자녀가 프랑스 시민권을 얻었다. 클루니는 미국과 프랑스의 이중 국적자가 됐다.&lt;br&gt;&lt;br&gt;클루니는 이달 초 프랑스의 사생활 보호법을 칭찬하며 파파라치로부터 가족을 보호할 수 있다고 언급했다. 그는 또한 오랫동안 민주당을 지지해 온 할리우드의 진보 성향 인사로 통한다. 지난 3월 한 인터뷰에서 트럼프 대통령이 언론 자유를 탄압한다고 비판하기도 했다. 트럼프 대통령은 이후 자신의 소셜미디어를 통해 클루니를 “2급 영화배우이자 실패한 정치 인사”라고 부르며 비난했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>스토킹 범죄 사건, 3년간 28% 증가</title>
-      <link>https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/30/SUX6Y5NCTJABTH4KWB3QIFWHVM/</guid>
-      <dc:creator>오주비 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 10:39:12 +0000</pubDate>
-      <content:encoded>경찰에 입건된 스토킹 범죄 사건이 최근 3년간 28% 증가한 것으로 나타났다. 스토킹 범죄자는 남성이 여성의 3배로 많았지만, 갈수록 여성 비율이 늘어나는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VDHYO3NGWFDD3ON2OHDKIECHPY.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=조선디자인랩 정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 성평등가족부는 이런 내용이 담긴 ‘2025년 여성폭력통계’를 발표했다. 통계에 따르면, 지난해 스토킹 범죄 입건 건수는 1만3533건이었다. 2022년(1만545건), 2023년(1만2048건) 대비 각각 28%, 12% 증가했다. &lt;br&gt;&lt;br&gt;지난해 스토킹 범죄자 가운데 남성이 76.2%로 여성(23.8%)을 크게 앞질렀다. 하지만 여성 비율도 2022년 18.8%에서 2023년 20.5% 등으로 꾸준히 늘어나는 추세다. 스토킹 범죄자 중 43.2%는 전·현 애인, 7.5%는 전·현 배우자로 친밀한 관계가 많았다. &lt;br&gt;&lt;br&gt;배우자나 애인 등 친밀한 관계에서 폭력을 저질러 검거된 이들은 지난해 5만7973명으로 전년(6만2692명) 대비 7.5% 줄었다. &lt;br&gt;&lt;br&gt;반면, 친밀한 관계에서 살인이나 치사를 저지른 경우는 지난해 219명으로, 전년(205명)보다 6.8% 증가했다. 살인·치사를 저지른 범죄자 가운데 남성 비율이 75.8%로 여성(24.2%)보다 크게 높았다. 여성은 소수였지만, 2023년 39명에서 지난해 53명으로 36% 증가했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘피고인 윤석열’ 특검 호칭에 “검사 선배인데 예우 갖추라” 변호인단 반발</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/30/J7RGRPOWYFCWXPQRTH2J73EON4/</guid>
-      <dc:creator>오유진 기자</dc:creator>
-      <description/>
-      <pubDate>Tue, 30 Dec 2025 10:33:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4DQG76LWXD3TJYWR7R6Y4BESTQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;(왼쪽부터) 윤석열 전 대통령, 김용현 전 국방장관. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;30일 서울중앙지법 형사25부 심리로 열린 윤석열 전 대통령의 내란 우두머리 혐의 재판에서 한때 윤 전 대통령 호칭을 두고 특검팀과 변호인 측이 신경전을 벌였다. 이날 재판에서는 김용현 전 국방장관에 대한 증인신문이 진행됐다.&lt;br&gt;&lt;br&gt;특검팀이 질의 중 윤 전 대통령을 ‘피고인 윤석열’로 지칭하자, 윤 전 대통령 변호인단은 “국가 최고 통수권자이던 전직 대통령이자 검사 선배에게 예우를 지키지 않았다”고 항의했다. 특검팀은 “공소장에 적힌 정식 명칭”이라며, 변호인단이 불필요한 소송 지연 전략을 펼친다고 맞섰다. 재판부는 “특검팀의 호칭에 문제가 없다”며 절차를 이어갔으나, 변호인단이 재차 문제를 재기하자 결국 호칭을 ‘피고인’으로 정리했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇金 “상징적 계엄, 작은 힘 되려 노력”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 윤 전 대통령이 포고령에 대해 “이건 상징적인 것”이라고 언급했다고 증언했다. 당시 윤 전 대통령이 “국민 불편을 최소화해야 한다” “통금(통행금지)은 빼는 게 좋겠다”고 말하면서 이같이 언급했다고 한다.&lt;br&gt;&lt;br&gt;김 전 장관은 또 윤 전 대통령이 지금까지 했던 계엄과 다르게 하고 싶다며 경종을 울리고 싶다는 뜻을 밝혔다고도 증언했다. 그는 계엄 선포 전 윤 전 대통령이 “내가 하고자 하는 계엄은 지금까지 했던 계엄과 다르게 하고 싶다. 경종을 울리고 싶다’고 말했다고 전했다. 이어 “적당히 야당과 타협하며 편하게 대통령을 하면 좋겠지만, 그것은 국민에 대한 배신이라고 생각한다”며 “어떤 불이익을 당하더라도 국민에게 부끄럽지 않은 대통령이 되고 싶다’는 취지의 발언도 했다고 증언했다.&lt;br&gt;&lt;br&gt;&lt;b&gt;◇“한덕수 지시 문건에 장관 통솔하란 취지 내용 담겨”&lt;/b&gt;&lt;br&gt;&lt;br&gt;김 전 장관은 계엄 당시 국무회의에서 한덕수 전 국무총리에게 전달한 지시 문건에 각 부처 장관들을 통솔하라는 취지의 내용이 담겨 있었다고 증언했다. 다만 해당 문건과 관련해 윤 전 대통령으로부터 사전 지침을 받은 건 없었다고 했다.&lt;br&gt;&lt;br&gt;특검팀이 “한 전 총리에게 준 문건에는 어떤 내용이 있었느냐”고 묻자, 김 전 장관은 “너무 오래돼 기억하기 어렵다’면서도 “각 부처 장관들에게서 계엄 관련 업무를 인계받으라는 내용이 있었던 것으로 기억한다”고 말했다.&lt;br&gt;&lt;br&gt;한편 재판부는 이날 윤 전 대통령의 내란 우두머리 사건과 김 전 장관, 조지호 전 경찰청장의 내란 중요 임무 종사 혐의 사건을 병합했다. 재판부는 다음 달 9일 변론을 종결한 뒤, 법관 정기인사 이전인 내년 2월 중 1심 선고를 내릴 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>현직 검사 “검찰청 폐지 법안, 기본권 침해” 헌법소원 청구</title>
