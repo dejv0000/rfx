@@ -13,6 +13,43 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>[오늘의 운세] 1월 4일 일요일 (음력 11월 16일 戊寅)</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/03/KJ7COVNWLJHPDGTESPGJPYHBMA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/KJ7COVNWLJHPDGTESPGJPYHBMA/</guid>
+      <dc:creator>한소평</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 13:46:07 +0000</pubDate>
+      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/2LZZQML6OJBITPXHEQORH4PUUM.gif?auth=5f05c3ac3af7209b10f115bbf8056cd1f3e8c142299c2f82c12698398f2be6ea&amp;smart=true&amp;width=120&amp;height=60" alt="" height="60" width="120"/&gt;&lt;p&gt;子36년생 학수고대했던 소식 언제 오려나. 48년생 세상에는 천 갈래 길이 있다. 60년생 숫자 3,8과 푸른색이 행운 부른다. 72년생 발현 양상에 따라 대응을 달리해야. 84년생 주변 여건 미흡해도 스스로 맞춰 가라. 96년생 명검도 갈고닦지 않으면 녹슨다. &lt;/p&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
+    </item>
+    <item>
+      <title>공개 사과 무색...또 음주운전한 현직 강원도의원 </title>
+      <link>https://www.chosun.com/national/2026/01/02/GJBNOJJMN5HLNCO7BXOVMWFDOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/02/GJBNOJJMN5HLNCO7BXOVMWFDOQ/</guid>
+      <dc:creator>김준호 기자, 원주=정성원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 11:45:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/6AVVWH4RLZDVRFIZKKNFR7KYBU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;류인출 강원도의원. /강원도의회&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2024년 음주운전으로 공개 사과까지 했던 현직 강원도의원이 면허 정지 수준의 음주 상태로 운전대를 잡았다가 사고를 내고 경찰에 적발됐다. &lt;br&gt;&lt;br&gt;2일 강원 원주경찰서에 따르면 류인출 도의원을 도로교통법상 음주운전 혐의로 불구속 입건해 조사하고 있다.&lt;br&gt;&lt;br&gt;류 의원은 지난달 23일 오후 11시쯤 원주시 단구동 아파트 인근 도로에서 술에 취한 채 운전하다가 주차된 차량과 접촉 사고를 낸 혐의를 받는다. 주차된 차 안에는 탑승자가 없어 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;적발 당시 류 의원의 혈중알코올농도는 면허 정지(0.03% 이상~0.08% 미만) 수준이었던 것으로 전해졌다.&lt;br&gt;&lt;br&gt;류 의원은 이번 음주 접촉 사고 직후 소속 정당인 더불어민주당을 탈당한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 류 의원은 지난 2024년 10월에도 원주시 단구동 한 음식점에서 자택까지 약 1㎞ 가량 음주 운전을 했다가 적발된 바 있다. 당시 사건으로 벌금 500만원의 약식명령을 받았다. &lt;br&gt;&lt;br&gt;도의회 윤리특별위원회는 회기 중 음주 운전을 한 점에 대해 류 의원에게 ‘공개회의에서 사과’ 징계 처분을 내렸다. 류 의원은 지난해 3월 강원도의회 임시회에서 “부적절한 행동으로 도의회 위상과 품위에 누를 끼친 점 진심으로 사과드린다”며 “이런 일이 재발하지 않도록 각별히 조심하겠다”고 사과했었다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>이창용 “원화, 곧 휴지 조각? 국내 유튜버들만 하는 소리”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/02/EE45AO34E5HYDJCL4TBFYZPQPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/EE45AO34E5HYDJCL4TBFYZPQPQ/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 10:23:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MMZTQYJVGVSTMZLBGMZDGNZTGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;이창용 한국은행 총재가 2일 오전 서울 중구 한국은행에서 열린 시무식에서 신년사를 발표하고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이창용 한국은행 총재는 원화 약세(고환율) 현상이 장기화되고 있는 것과 관련, “국내에서만 유튜버들이 원화가 곧 휴지 조각이 된다고들 한다”고 했다.&lt;br&gt;&lt;br&gt;이 총재는 2일 한국은행 기자실에서 기자들과 만나 “국내에서만 유일하게 ‘1500원 간다’는 얘기가 나온다”며 “해외 투자은행들은 1480원 수준의 환율이 너무 높다고 생각한다. 대체로 1400원 초반 정도로 (전망하는) 보고서가 나온다”고 했다.&lt;br&gt;&lt;br&gt;이 총재는 환율이 기대 심리에 의해 상승하고 있다며 “내국인 기대가 환율 상승을 크게 드라이브하고 있다. 얼마를 적정 환율이라 얘기하기는 어렵지만, 상당히 많은 부분이 달러인덱스와 괴리돼서 올라가는 건 기대가 작동하기 때문”이라고 분석했다.&lt;br&gt;&lt;br&gt;이 총재는 외환시장 안정을 위한 국민연금 역할론을 언급하며 “국민연금이 거시적 영향을 고려한다면 해외 투자를 줄이는 것은 너무나 당연하다”고 했다.&lt;br&gt;&lt;br&gt;이어 “국민연금이 자기들이 외채를 발행하게 해주고 그걸 통해서 외환시장에 주는 영향을 줄이겠다고 하는데 그것도 좋은 방법이라 생각한다”며 “캐나다의 경우 이런 방식으로 20%의 환헤지 효과를 보고 있다”고 말했다. &lt;br&gt;&lt;br&gt;이로 인해 국민연금의 수익률이 떨어질 것이라는 우려에 대해서는 “(서학 개미처럼) 국민연금도 거시적 영향을 고려하지 않고 수익률만 높이려 하면 (해외 투자를 하는 것이) 각자 합리적 방향이겠지만, 큰 틀로 봤을 때 나라 전체에는 합리적이지 않을 수 있다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해 공무원 유족 “부분 항소? 장난하나…검찰 고발할 것” </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/02/DN5U2D4XNBDO5KX2S6CNP6ZXV4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/DN5U2D4XNBDO5KX2S6CNP6ZXV4/</guid>
+      <dc:creator>김명일 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 11:03:13 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HEYDIMDEGM4DAMBWGYYTOMBXME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘서해 공무원 피격 사건’ 해양수산부 공무원 故이대준 씨의 친형 이래진 씨. /뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;검찰이 1심에서 전부 무죄가 선고된 ‘서해 공무원 피살 사건’ 중 일부 혐의에 대해서만 항소를 하기로 결정한 것에 대해 피해자 고(故) 이대준씨의 친형 이래진씨는 “부분 항소는 항소 포기와 마찬가지”라고 했다. &lt;br&gt;&lt;br&gt;이씨는 2일 소셜미디어를 통해 “부분 항소? 장난하느냐?”며 “국가가 국민의 생명을 포기한 중범죄인데 죄를 묻지 않는 것이 국가의 역할인 것인지 강력하게 항의한다”고 했다. &lt;br&gt;&lt;br&gt;이씨는 “국가의 안보를 책임지는 자들이 범죄를 저질러도 정치적이라는 논리를 들어 무죄라며 대통령과 총리, 여당 대표까지 거든 국정 농단은 국가의 권리를 포기한 사태를 만들었다”며 “스스로 국가이기를 포기한 이번 항소 포기는 책임을 물을 중대한 범죄”라고 했다. &lt;br&gt;&lt;br&gt;그러면서 “오늘 검찰의 결정은 용납할 수 없어 관련자 전원을 고발할 것”이라며 “검찰의 꼼수 부분 항소 결정은 절대 받아들일 수 없으며 즉각 전원 항소하라”고 했다. &lt;br&gt;&lt;br&gt;검찰은 항소 기한 만료일인 이날 당초 제기한 혐의 중 서훈 전 청와대 국가안보실장과 김홍희 전 해양경찰청장이 숨진 공무원과 유족의 명예를 훼손했다는 혐의에 대해서만 항소를 제기했다고 밝혔다. 구체적으로는 해경의 1~3차 수사 결과 발표 브리핑과 관련, 서 전 실장과 김 전 청장의 허위 공문서 작성 및 행사, 명예훼손, 사자 명예훼손 혐의에 대해서만 항소한 것이다. 핵심 쟁점에 해당하는 직권남용 관련 혐의는 모두 항소 범위에서 제외됐다. 이에 따라 박지원 전 국가정보원장과 서욱 전 국방부 장관 등 나머지 피고인들은 무죄가 확정됐다. &lt;br&gt;&lt;br&gt;서울중앙지검은 “증거 관계와 관련 법리를 면밀히 검토하고 대검과의 협의를 거쳐 월북 여부가 불분명한 상황에서 자진 월북한 것으로 오인될 수 있는 수사 결과를 발표하고 이로 인해 망인과 유족의 명예를 훼손했다는 부분 등에 대해 항소를 제기했다”며 “나머지 부분에 대해서는 항소의 실익 등을 고려해 항소를 제기하지 않기로 했다”고 했다.&lt;br&gt;&lt;br&gt;서해 공무원 피살 사건은 해양수산부 공무원이던 고(故) 이대준씨가 지난 2020년 9월 서해에서 북한군에 피격·소각됐지만, 서훈 전 청와대 국가안보실장 등 당시 문재인 정부 안보 라인 관계자들이 이를 은폐했다는 의혹이다. 검찰은 고위 공직자들이 남북 관계 악화를 우려해 피살 사실을 고의적으로 축소 및 은폐했다고 판단해 2022년 12월 이들을 직권남용 등 혐의로 기소했다. &lt;br&gt;&lt;br&gt;하지만 지난달 1심 재판부는 “(월북 여부) 판단 시기가 섣부르거나 내용이 치밀하지 못했다고 비판할 수는 있어도, 특정 결론을 정해 놓고 회의를 하거나 수사한 정황을 찾아볼 수 없다”며 관련자 전원에게 무죄 판결을 내렸다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“징역 22년도 가볍다”...檢, 살인미수 스토커 1심 판결에 항소 </title>
       <link>https://www.chosun.com/national/2026/01/02/36A5Q7FKKZDQPIKHYLJLORGXFY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/2026/01/02/36A5Q7FKKZDQPIKHYLJLORGXFY/</guid>
@@ -774,25 +811,6 @@
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MI2WGMBTMY2DIMTEMFQTKMBWHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구고법·지법 청사 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;술에 취해 대통령 선거 후보자의 현수막을 훼손한 혐의로 재판에 넘겨진 대학생들에게 법원이 벌금형의 선고를 유예했다. &lt;br&gt;&lt;br&gt;대구지법 형사12부(재판장 정한근)는 공직선거법 위반 혐의로 기소된 A씨 등 대학생 3명에게 벌금 50만원 형의 선고를 유예했다고 1일 밝혔다. 선고유예는 범죄 혐의는 인정되지만 그 정도가 가볍거나 참작할 만한 사유가 있을 때 2년 동안 형의 선고를 유예하는 것으로, 사고 없이 유예 기간이 끝나면 형의 선고를 면해 준다. &lt;br&gt;&lt;br&gt;이들은 지난해 5월 30일 오전 2시 8분쯤 경북 경산시 하양읍 행정복지센터 입구에 게시된 21대 대통령선거 더불어민주당 이재명 후보자의 현수막을 태운 혐의로 기소됐다. 같은 대학교에 재학 중인 이들은 학교 축제에서 술을 마신 뒤 PC방으로 이동하던 중 우발적으로 범행을 저지른 것으로 조사됐다.&lt;br&gt;&lt;br&gt;재판부는 “범행을 인정하고 잘못을 반성하고 있으며 원활한 선거 사무 관리 등에 영향을 미치려는 의도나 목적은 전혀 없었던 것으로 보이는 점 등을 고려했다”고 양형 이유를 밝혔다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>대구 달성군, 올해 청년 자격증 응시료 지원 사업 확대</title>
-      <link>https://www.chosun.com/national/regional/2026/01/01/SCZMTQ2N35BJTGA4OJE6YEUW24/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/01/SCZMTQ2N35BJTGA4OJE6YEUW24/</guid>
-      <dc:creator>대구=노인호 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 08:04:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJQTKMRYMI2DSMLGMZSTSNZVGI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대구 달성군 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;대구 달성군은 올해 청년 자격증 응시료 지원 사업 예산을 전년 대비 3배로 증액했다고 1일 밝혔다. &lt;br&gt;&lt;br&gt;달성군은 지난해 5월 지역 청년들의 경제적 부담을 덜어주고 취업 경쟁력을 강화하기 위해 청년 자격증 응시료 지원 사업을 시작했다. 시행 첫해 총 254명이 혜택을 받았고, 신청이 조기 마감될 정도로 좋은 반응을 얻었다. 이에 달성군은 올해 관련 예산을 전년 대비 3배로 증액했다. &lt;br&gt;&lt;br&gt;지원 대상은 신청일 기준 달성군에 6개월 이상 거주하는 19세에서 39세 이하(2007년생~1987년생)의 미취업 청년이다. 지원 대상 시험은 어학, 한국사, 국가기술 및 전문자격증으로, 지원금은 연 1회 최대 10만원(응시료 합산 총액)까지다. 예산이 소진되면 사업은 조기 종료된다. 신청은 1일부터 11월 30일까지 달성군청 홈페이지(www.dalseong.daegu.kr)를 통해 하면 된다. &lt;br&gt;&lt;br&gt;최재훈 달성군수는 “자격증 응시료 지원 사업을 통해 더 많은 달성군 청년이 취업 시장에서 경쟁력을 갖출 수 있기를 바란다”며 “앞으로도 지역 청년이 안정적으로 성장할 수 있도록 다양한 정책을 지속 발굴해 지원하겠다”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[오늘의 운세] 1월 2일 금요일 (음력 11월 14일 丙子)</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/01/HGDIGEMYMJHHNKWZQSM234VQUA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/HGDIGEMYMJHHNKWZQSM234VQUA/</guid>
-      <dc:creator>한소평</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 08:00:00 +0000</pubDate>
-      <content:encoded>&lt;img src="https://www.chosun.com/resizer/v2/2LZZQML6OJBITPXHEQORH4PUUM.gif?auth=5f05c3ac3af7209b10f115bbf8056cd1f3e8c142299c2f82c12698398f2be6ea&amp;smart=true&amp;width=120&amp;height=60" alt="" height="60" width="120"/&gt;&lt;p&gt;子36년생 한 곳 집중 투자보다 분산 투자를 고려. 48년생 방심은 원숭이도 나무에서 떨어지게 한다. 60년생 시운 타고 움직이니 결과 좋다. 72년생 추측하지 말고 현실 직시. 84년생 같은 실수를 되풀이하지 않게 경계. 96년생 내 선택을 남에게 양보하지 마라. &lt;/p&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/HSODKZ63WZAXBHMW2TI672NLB4.png?auth=ba587455ef9b6e29d44e8b035903c5f5aea3c45618c63f8c67ccc42f5a7ec75f&amp;smart=true&amp;width=800&amp;height=420" type="image/png" height="420" width="800"/>
-    </item>
-    <item>
       <title>18만원짜리 호텔 케이크, 직접 만드니 재료비 3만원? 유튜버 영상 화제</title>
       <link>https://www.chosun.com/national/national_general/2026/01/01/K6QVM7VOUNBS3BLUAVGLISX32E/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/K6QVM7VOUNBS3BLUAVGLISX32E/</guid>
@@ -804,24 +822,6 @@
         <media:description type="plain">신라호텔의 대표 케이크인 '화이트 홀리데이'(왼쪽)와 유튜브 '제로비'가 재현한 케이크./ 신라호텔·유튜브</media:description>
         <media:credit role="author" scheme="urn:ebu"/>
       </media:content>
-    </item>
-    <item>
-      <title>부산 시·구의원  3명 공직선거법 위반 혐의로 수사받아</title>
-      <link>https://www.chosun.com/national/regional/2026/01/01/44NS2ISYN5FVNNCUKV3DFZEXYQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/01/44NS2ISYN5FVNNCUKV3DFZEXYQ/</guid>
-      <dc:creator>부산=권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 06:33:59 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FKRQML42YQRGTTGH2SHUTIID7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 사상경찰서 전경./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;부산에서 현직 시의원과 구의원이 공직선거법 위반 혐의로 경찰 수사를 받고 있는 것으로 확인됐다.&lt;br&gt;&lt;br&gt;부산 사상경찰서는 부산시의회 소속 시의원 1명과 사상구의회 소속 구의원 2명에 대해 공직선거법 위반 혐의로 수사 중이라고 1일 밝혔다. 부산선거관리위원회가 기부 행위 위반 혐의로 이들을 부산지검에 고발했고, 지역 경찰서로 사건이 이첩됐다.&lt;br&gt;&lt;br&gt;A시의원은 지난 추석 때 사무실 직원들에게 개당 2만5000원짜리 과일 상자 5개를 선물한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;B구의원도 추석 때 1만8000원 상당의 쌀 8포대를 사무실 직원 등에게 선물한 혐의를 받는다. C구의원도 이와 유사한 불법 기부 행위 혐의로 조사받고 있는 것으로 알려졌다.&lt;br&gt;&lt;br&gt;공직선거법에 따르면 선거구 안에 있는 사람은 물론, 선거구 밖에 있더라도 그 선거구민과 연고가 있는 자에게 금전, 물품을 제공하는 것은 불법이다.&lt;br&gt;&lt;br&gt;앞서 지난달 부산 연제구선거관리위원회는 공직선거법 위반 혐의로 제9회 전국동시지방선거 입후보 예정자 2명을 검찰에 고발했다. 이들은 봉사 활동 명목으로 선거구민에게 재산상 이익을 제공했는데, 자신의 이름·사진 등이 나온 전단지, 명함 등을 나눠준 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제주 임산부 헬기 이송중 넷째 출산... 산모·아기 모두 건강</title>
-      <link>https://www.chosun.com/national/regional/2026/01/01/FLBJHNYJTBD3RFN7MZUZXM2EYU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/01/FLBJHNYJTBD3RFN7MZUZXM2EYU/</guid>
-      <dc:creator>제주=오재용 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 05:59:25 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3GHY7MNTZZBWLEMYOE6XYGWVPE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;제주지역 임산부가 1일 경남 지역 병원으로 응급 이송 중 소방 헬기인 한라매에서 출산했다./제주소방안전본부&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 첫날 양막이 파열된 산모가 헬기 응급 이송 중 무사히 아이를 출산했다.&lt;br&gt;&lt;br&gt;1일 제주소방안전본부에 따르면 이날 1시 17분쯤 소방헬기 한라매로 이송 중이던 30대 산모 A씨가 무사히 아이를 순산했다.&lt;br&gt;&lt;br&gt;A씨는 앞서 이날 오전 11시 30분쯤 제주시의 한 산부인과에서 양막 파열로 응급수슬이 필요하다는 의료진 판단에 따라 경남 삼성창원병원으로 이송 중이었다.&lt;br&gt;&lt;br&gt;산모는 임신 30주차로 이날 태어난 아기는 넷째로, 여자 아이인 걸로 알려졌다.&lt;br&gt;&lt;br&gt;소방 당국은 “현재 산모와 신생아 모두 건강한 상태”라고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>내연차→전기차 바꾸면 보조금 100만원 더 준다</title>
