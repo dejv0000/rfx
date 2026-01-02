@@ -13,6 +13,33 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>유홍림 서울대 총장 “내년까지 AI 대학원 설립 추진… 국제화 정책 강화”</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/02/E5GNQUQGOZBLBJMJ3ZOICYWCYM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/E5GNQUQGOZBLBJMJ3ZOICYWCYM/</guid>
+      <dc:creator>김혜민 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 04:13:19 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5OXBQHRYNZYXRCOSNDFKLIWRXM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;유홍림 서울대 총장. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유홍림 서울대 총장이 내년까지 서울대 AI 대학원을 설립하겠다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;유 총장은 이날 신년사를 발표하고 “AI 네이티브 캠퍼스를 목표로 나아가겠다”며 “2027년 개원을 목표로 AI 대학원 설립을 추진하겠다”고 했다. 이에 더해 “AI 가이드라인을 마련하고, 생성형 AI 캠퍼스 라이선스를 도입해 교육과 연구에 적절히 활용할 수 있게 하겠다”고 했다.&lt;br&gt;&lt;br&gt;유 총장은 국제화 정책을 본격 강화하겠다는 목표도 밝혔다. 그는 “교육·연구·공헌·행정 전 분야에서의 국제화를 강화해야 한다”며 “올해 출범한 국제처는 대학 전체를 아우르는 실질적 국제화의 추진 체계가 될 것”이라고 했다. 서울대는 내년 초 글로벌 연구·학생 교류 등을 담당하는 국제처를 신설하고 미국·유럽 등 해외 우수 인재들을 적극적으로 확보하겠다는 방침이다.&lt;br&gt;&lt;br&gt;또 유 총장은 교수 성과에 따라 연봉을 차등 지급하는 ‘성과연봉제’ 추진에 대해 “성과중시 연봉제가 대학의 경쟁력을 높임과 동시에 교수님들의 교육과 연구 환경을 개선하는 데 기여할 수 있도록 계속 정비하고 확충해 나가겠다”고 했다.&lt;br&gt;&lt;br&gt;이어 유 총장은 “올해는 최초의 국립대학으로 출범한 서울대가 개교 80주년을 맞이하는 뜻깊은 해”라며 “서울대가 ‘대전환의 시대를 이끌어가는 학문공동체’로서 자랑스러운 역사를 이어갈 수 있도록 용기와 지혜를 발휘하자”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>세초 한파 주말까지...내일 서울 체감 -11도</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/02/C7WCIV3NIJHMXNDVZT6X7GEGKE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/02/C7WCIV3NIJHMXNDVZT6X7GEGKE/</guid>
+      <dc:creator>박상현 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 04:10:56 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HW7Q3EZ7YJLXBKDWGDR4637KXA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한파가 기승을 부리고 있는 2일 경기도 안산시 단원구 바닷가 갯벌이 얼어 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;세초 한파가 주말까지 이어지겠다. ‘냉동실 추위’는 내주 풀릴 것으로 예상된다.&lt;br&gt;&lt;br&gt;기상청에 따르면, 토요일인 3일 북쪽 찬 바람의 영향으로 서울의 아침 수은주가 최저 영하 9도, 체감온도는 영하 11도까지 떨어지는 등 전국이 춥겠다. 전국 최저기온은 영하 14도에서 영하 1도, 최고기온은 0~도로 예보됐다. 수도권 및 강원·충북·대전 전역과 충남·전북·경북·부산·울산 일부 지역에는 한파특보가 발효됐다.&lt;br&gt;&lt;br&gt;일요일인 4일에도 최저 영하 11도의 강추위가 이어지겠으나, 오후부터는 찬 바람이 그치며 차츰 날이 풀리기 시작해 다음 주(5~11일)에는 기온이 평년 수준을 회복할 것으로 보인다. 한파특보도 4일을 기해 해제될 것으로 전망된다. &lt;br&gt;&lt;br&gt;다만 1월 초~중순이 겨우내 가장 추운 기간이라 내주에 기온이 오르더라도 아침에는 영하권으로 쌀쌀하겠고, 낮동안만 영상권으로 다소 포근하겠다.&lt;br&gt;&lt;br&gt;3일까지 눈이 예고된 울릉도·독도에는 5~15㎝의 눈이 쌓이겠고, 제주산지와 중산간도 3~15㎝의 적설을 기록하겠다. 2일까지 눈과 비가 내린 호남을 중심으로는 빙판과 도로 살얼음이 생길 수 있어 주의가 필요하다. 다음 주 내륙에는 큰 눈·비 소식 없이 전국이 대체로 맑겠으며, 7~8일 오전 제주에는 비나 눈이 예고됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>[스피킹이 강해지는 영어] a hard nut to crack</title>
+      <link>https://www.chosun.com/national/nie/english/2025/12/31/OO6W537A4VFRTHJRGTCSZBBMSQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2025/12/31/OO6W537A4VFRTHJRGTCSZBBMSQ/</guid>
+      <dc:creator>조선일보</dc:creator>
+      <description/>
+      <pubDate>Tue, 30 Dec 2025 15:34:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PQRC7KH4CVHVDPPTAZAETLKSDM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>“AI 트레이딩으로 고수익” 1200억대 사기단 중형 확정…추징은 0원</title>
       <link>https://www.chosun.com/national/court_law/2026/01/02/LK5WIU4ESZFHXIRVIEOCAPXLVM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/LK5WIU4ESZFHXIRVIEOCAPXLVM/</guid>
@@ -847,15 +874,6 @@
       <content:encoded>전국 날씨 맑지만… 강한 바람과 한파&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/67YR7M56NJB2VNVPDR72LJZE6Y.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>박성혁 한국관광공사 사장</title>
-      <link>https://www.chosun.com/national/people/2026/01/01/VRIXSNGKVNEQTPGV45ZA5OW46Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/01/VRIXSNGKVNEQTPGV45ZA5OW46Y/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5AHK5KQ5DRBO5MGFVZCH4VFDGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;문화체육관광부는 한국관광공사 사장에 박성혁 제일기획 자문역이 31일 자로 임명됐다고 밝혔다. 박 사장은 제일기획에서 독일법인장, 유럽총괄장, 북미총괄장, 글로벌부문장(부사장)을 역임했다. 임기는 3년.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>이시형 한국외교협회 회장</title>
       <link>https://www.chosun.com/national/people/2026/01/01/3IIIQFEG6BDCRC75XKF4HVJ45U/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/01/3IIIQFEG6BDCRC75XKF4HVJ45U/</guid>
@@ -881,24 +899,6 @@
       <description/>
       <pubDate>Wed, 31 Dec 2025 15:41:00 +0000</pubDate>
       <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇실장(1급) 보임▷심판지원실장 박준희◇이사관(2급) 승진·국장 신규보임▷기획재정국장 하태진◇국장(2급) 전보▷국제협력국장 정영주▷심판정보국장 신승훈▷행정관리국장 최혁◇국장(3급) 보임▷도서총괄심의관 김인숙◇부이사관(3급) 전보▷홍보담당관 이진석▷국립외교원 파견 이은영◇부이사관(3급) 승진▷심판사무과장 김병섭▷총무과장 조진훈◇과장 전보▷재정기획과장 윤정경▷평가감사과장 이영준▷법제과장 이상모▷정보보호과장 유준영▷청사관리과장 조기영▷자료조사과장 김규필▷통일교육원 파견 용상선◇과장 신규보임▷AACC지원과장 김기필▷심판민원과장 임영선▷정보화기획과장 조영진▷기획행정과장 이찬주◇서기관(4급) 승진▷심판민원과 김소영▷정보화기획과 김선미▷기획행정과 이상진◇서기관(4급) 전보▷평가감사과 황해훈▷국제과 최성훈▷심판지원총괄과 이수정▷심판사무과 이석준▷인사과 김도훈▷헌법재판연구원 교육팀 천미영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;농림축산식품부&lt;/b&gt;◇과장급 승진▷농촌소득에너지정책관실 농업재해지원팀장 최종순▷농림축산검역본부 기획조정과장 강순례▷국립농산물품질관리원 농업경영체과장 남기헌◇과장급 전보▷정책기획관실 혁신행정담당관 오재협▷농촌정책국 농산업전략기획단장 문지영▷농산업혁신정책관실 빅데이터전략팀장 박재화▷농촌소득에너지정책관실 농촌탄소중립추진팀장 김신재▷유통소비정책관실 원예경영과장 조민경▷농림축산검역본부 식물검역부 수출지원과장 박경희▷농림축산검역본부 동식물위생연구부 바이러스질병과장 김재명▷농림축산검역본부 동식물위생연구부 세균질병과장 조윤상▷국립농산물품질관리원 충북지원장 손경문&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기후에너지환경부&lt;/b&gt;◇실장급 승진▷중앙환경분쟁조정피해구제위원장 서흥원▷2050탄소중립녹색성장위원회 사무차장 홍동곤◇국장급 전보▷수자원정책관 송호석▷물환경정책관 김은경▷한강유역환경청장 이승환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;◇실장급 전보▷주택공급추진본부장 김영국▷대변인 김헌정▷기획조정실장 남영우▷국토도시실장 정의경▷대도시권광역교통위원회 상임위원 박지홍▷중앙토지수용위원회 상임위원 이상주◇국장급 전보▷공항정책관 이상헌▷철도국장 김태병▷행정중심복합도시건설청 도시계획국장 안석환▷새만금개발청 개발전략국장 윤진환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;해양수산부&lt;/b&gt;◇국장급 전보▷국립수산물품질관리원장 조일환◇과장급 전보▷정보화담당관 김성국&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가데이터처&lt;/b&gt;◇과장급 전보▷행정자료관리과장 김미애▷스마트조사센터장 조윤구▷경인지방데이터청 수원사무소장 송요성▷동북지방데이터청 조사지원과장 김오승▷동북지방데이터청 강원지방데이터지청장 홍연권▷동북지방데이터청 안동사무소장 이주원▷동남지방데이터청 울산사무소장 김선조&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇국장급 전보▷인천지방국세청장 박종희▷국세청 감사관 지성▷개인납세국장 박정열▷서울지방국세청 송무국장 공석룡▷국제거래조사국장 김오영▷중부지방국세청 징세송무국장 윤창복▷조사3국장 강종훈▷부산지방국세청 징세송무국장 이태훈◇과장급 전보▷국세청 정책보좌관 신민섭▷인사기획과장 이상원▷운영지원과장 최원수▷정보보호담당관 손유승▷인공지능혁신담당관 전승한▷심사2담당관 정필규▷역외정보담당관 송윤정▷국제협력담당관 이상훈▷법무과장 안형태▷체납분석과장 유지민▷소득세과장 손채령▷세정홍보과장 권오흥▷공익법인·연구개발지원과장 김광민▷원천세과장 김태수▷자본거래관리과장 남아주▷조사2과장 오미순▷국제조사과장 민회준▷장려세제과장 정상수▷소득자료관리과장 정해동▷국세외수입징수기획과장 박성무▷상호합의담당관 이슬▷서울지방국세청▷감사관 강동훈▷운영지원과장 이슬▷소득재산세과장 최승일▷법인세과장 강정훈▷송무2과장 최은경▷조사1국 조사2과장 최성영▷조사1국 조사3과장 배일규▷조사3국 조사관리과장 임형태▷조사3국 조사3과장 하신행▷조사4국 조사2과장 김태훈▷국제조사1과장 권동철▷국제조사2과장 임영미▷성동세무서장 이광섭▷중부세무서장 박재신▷서대문세무서장 주현철▷은평세무서장 고병재▷마포세무서장 최병구▷강서세무서장 홍용석▷구로세무서장 허양원▷금천세무서장 허준영▷관악세무서장 권석현▷삼성세무서장 최원봉▷반포세무서장 김일환▷서초세무서장 유영▷역삼세무서장 정헌미▷동대문세무서장 김태수▷중랑세무서장 김재산▷도봉세무서장 윤명덕▷송파세무서장 이인우▷중부지방국세청 운영지원과장 성혜진▷정보화관리팀장 김민기▷체납추적과장 육규한▷조사2국 조사관리과장 조수진▷조사2국 조사1과장 김현승▷조사3국 조사2과장 권경환▷분당세무서장 고영일▷안산세무서장 임상훈▷동안산세무서장 이창수▷동화성세무서장 성병모▷성남세무서장 조창우▷구리세무서장 김정태▷시흥세무서장 함민규▷기흥세무서장 엄인찬▷인천지방국세청 계양세무서장 박형민▷연수세무서장 정승태▷김포세무서장 김영기▷부천세무서장 양순석▷고양세무서장 서원식▷동고양세무서장 변희경▷광명세무서장 김지훈▷대전지방국세청 성실납세지원국장 최지은▷서대전세무서장 오원균▷북대전세무서장 장성우▷천안세무서장 이완희▷아산세무서장 이정민▷광주지방국세청 조사1국장 고근수▷징세송무국장 강병수▷조사2국장 이봉근▷광주세무서장 김시형▷북광주세무서장 백계민▷광산세무서장 장영수▷군산세무서장 강신웅▷전주세무서장 박임선▷북전주세무서장 전강식▷나주세무서장 박현주▷대구지방국세청 조사1국장 장우정▷성실납세지원국장 이상걸▷조사2국장 황남욱▷동대구세무서장 윤재복▷서대구세무서장 임종철▷남대구세무서장 이병탁▷부산지방국세청 감사관 황동수▷운영지원과장 고동환▷조사1국 조사관리과장 연제민▷서부산세무서장 이재영▷부산진세무서장 송진호▷해운대세무서장 이석중▷부산강서세무서장 정도식▷마산세무서장 황순민▷창원세무서장 손해수▷양산세무서장 최만석◇과장급 승진▷중부지방국세청 조사1국 조사2과장 김주연▷춘천세무서장 강찬호▷영월세무서장 윤소영▷삼척세무서장 장영일▷강릉세무서장 김일도▷인천지방국세청 포천세무서장 고광덕▷대전지방국세청 동청주세무서장 안경민▷영동세무서장 이화명▷보령세무서장 김완구▷홍성세무서장 정민기▷예산세무서장 김장년▷광주지방국세청 서광주세무서장 홍영표▷남원세무서장 손병양▷해남세무서장 이승철▷순천세무서장 구자은▷대구지방국세청 포항세무서장 김유신▷영덕세무서장 박준배▷구미세무서장 왕성국▷상주세무서장 김주식▷영주세무서장 박규동▷부산지방국세청 법인세과장 박창오▷송무과장 김성민▷조사1국 조사1과장 최재명▷조사1국 조사3과장 유민희▷조사2국 조사관리과장 이승규▷조사2국 조사1과장 성병규▷수영세무서장 남용우▷통영세무서장 박찬웅▷국세공무원교육원 교육지원과장 강민성▷교육운영과장 윤지환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;동북아역사재단&lt;/b&gt;◇실장&amp;lt;독도실&amp;gt;▷홍성근◇소·팀장&amp;lt;연구정책실&amp;gt;▷한일연구소장 서종진&amp;lt;독도실&amp;gt;▷독도연구소장 김영수&amp;lt;운영관리실&amp;gt;▷회계팀장 이경미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 중앙의료원&lt;/b&gt;▷의무부총장 겸 중앙의료원장 이정재▷특임 중앙의료원장 서유성▷전략기획본부장 박형기&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 서울병원&lt;/b&gt;▷병원장 이성진▷진료부원장 장재영▷연구부원장 김태형&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇기획조정실▷경영분석팀장 권오웅▷전략기획팀장 김용범◇사무처▷구매팀장 선홍규◇인재경영실▷조직문화팀장 문희영 ▷인재개발팀장 최상기◇제중원보건개발원▷행정팀장 양영규◇치과대학▷행정팀장 김한영◇세브란스병원▷입원원무팀장 장석진▷기획예산팀장 손종영▷법무팀장 이정환▷사무팀장 이영호▷입원간호3팀장 김정연◇강남세브란스병원▷헬스체크업 경영팀장 박호진▷영상의학팀장 김동필◇용인세브란스병원▷외래응급간호팀장 박성혜◇연세암병원▷기획경영팀장 박만우◇재활병원▷경영지원팀장 서영근◇세브란스병원▷입원간호2팀 101병동파트장 박승진▷진단검사의학팀 채혈파트장 김선경 ▷가정전문간호사실 파트장 송인자▷진단검사의학팀 혈액학파트장 박정용▷진단검사의학팀 암병원진단검사파트장 이상연◇재활병원▷간호팀 71병동파트장 이민정◇연세암병원▷입원간호1팀 15병동파트장 안성은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;건국대학교&lt;/b&gt;◇서울캠퍼스▷부동산대학원장 겸 부동산과학원장 심교언▷캠퍼스타운사업센터장 겸 예비창업패키지사업센터장 황희성▷경영대학 행정실장 겸 경영전문대학원 행정실장 겸 경영대학원 행정실장 최미연▷상허교양대학 행정실장 겸 KU자유전공학부 행정실장 정수영▷외국인학생센터장 김병수▷출판문화사업팀장 남기열▷공학대학원 행정실장 겸 정보통신대학원 행정실장 김응태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성신여대&lt;/b&gt;▷교육문제연구소장 조윤정▷기초과학연구소장 고병준▷건강과학연구소장 천주영▷로컬디자인정책연구소장 이원호&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[신문으로 배우는 실용한자] 허무맹랑(虛無孟浪)</title>
-      <link>https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/W2HTT3OTTRFPNBVL5A55EC4QQE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[입에 착착 붙는 일본어] 무병장수를 빌다</title>
-      <link>https://www.chosun.com/national/nie/japanese/2026/01/01/R4PGPSB4URAKDIRO7KMMHG7ETM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/japanese/2026/01/01/R4PGPSB4URAKDIRO7KMMHG7ETM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3NGRC5U5ZVH5XOSQTWHOCIFLBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>“올해는 잘되자” “건강하자” “경기 나아지길”… 시민들 새해 소망 외쳤다</title>
