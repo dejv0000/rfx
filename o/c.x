@@ -13,6 +13,112 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>“AI 트레이딩으로 고수익” 1200억대 사기단 중형 확정…추징은 0원</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/02/LK5WIU4ESZFHXIRVIEOCAPXLVM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/LK5WIU4ESZFHXIRVIEOCAPXLVM/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 03:00:00 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TVJSDLZBHVEXHCFM767YZNPGIU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대법원 청사. /김지호 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인공지능(AI) 트레이딩 프로그램으로 고수익을 보장한다고 속여 1200억원대 투자금을 끌어모은 ‘팝콘소프트’ 경영진 전원에게 실형이 확정됐다. 다만 사기 피해자들이 민사소송을 통해 투자금을 돌려받을 수 있다는 이유 등으로 범죄 수익을 국가가 환수하는 추징은 이뤄지지 않게 됐다.&lt;br&gt;&lt;br&gt;대법원 2부(주심 엄상필 대법관)는 특정경제범죄가중처벌법상 사기 및 유사수신규제법 위반 혐의로 기소된 팝콘소프트 의장 이모씨와 대표 안모씨, 회장 오모씨에게 각각 징역 12년을 선고한 원심 판결을 확정했다고 2일 밝혔다. 팝콘소프트 법인은 벌금 5000만원을 내게 됐다.&lt;br&gt;&lt;br&gt;이씨 등은 2022년 3월~2023년 7월 전국 각지에서 설명회를 열고 자신들이 개발한 ‘AI 트레이딩 프로그램’을 통해 국내외 선물 거래에 투자하면 원금의 15% 수익을 보장하고, 다른 투자자를 소개하면 수당도 지급한다고 속여 3만여 회에 걸쳐 투자금 1203억원을 받은 혐의로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;수사 결과 실제로는 안정적인 트레이딩 수익을 낸 적이 없었고, 신규 투자자의 자금으로 기존 투자자에게 수익금을 지급하는 전형적인 ‘폰지 사기’ 구조였다. 이른바 AI 트레이딩 프로그램 역시 사람이 조건을 설정하면 자동 매매하는 알고리즘 트레이딩에 불과한 것으로 드러났다.&lt;br&gt;&lt;br&gt;앞서 1심은 “범행 횟수와 피해 규모가 천문학적이고 일부 피해자는 극단적 선택에 이르기도 했다”며 의장 이씨에게 징역 12년, 대표 안씨와 회장 오씨에게 각각 징역 14년 등 중형을 선고했다. 세 사람이 편취한 범죄 수익 총 117억원에 대한 추징도 함께 명령했다.&lt;br&gt;&lt;br&gt;항소심은 1심과 같이 이들의 범행을 유죄로 판단하면서도 안씨와 오씨 형을 각각 징역 12년으로 낮추고 범죄 수익 추징 명령은 전부 취소했다. 항소심 재판부는 “피해자들이 민사적으로 손해배상이나 투자금 반환을 청구할 수 있는 구조라면 부패 재산 몰수·추징 요건이 충족됐다고 보기 어렵다”고 했다. &lt;br&gt;&lt;br&gt;피해자들이 이미 법원에 배상명령을 신청하기도 했고, 피해자들이 계좌 거래 내역 등을 근거로 재산 반환이나 손해배상 청구 소송을 낼 수 있기 때문에 부패재산몰수법에 따른 추징 요건인 ‘피해 회복이 심히 곤란한 경우’에 해당하지 않는다는 것이다. 검찰이 추징금을 취소한 것이 잘못됐다며 상고했으나 대법원은 “원심 판단에 논리와 경험의 법칙을 위반한 잘못이 없다”며 그대로 확정했다. &lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>강도 제압했더니 살인미수 역고소… 나나 측 “반인륜적 행위” </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/02/MMKTCXML5RBWDEVP7D3BA4AU54/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/MMKTCXML5RBWDEVP7D3BA4AU54/</guid>
+      <dc:creator>최혜승 기자 </dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:18:11 +0000</pubDate>
+      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MYZGCNBYGU4DMY3EGU3WGMDEHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;배우 겸 가수 나나. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;자택에 침입한 무장 강도를 몸싸움 끝에 제압한 배우 겸 가수 나나(본명 임진아)가 가해자 A씨에게 역고소를 당했다. &lt;br&gt;&lt;br&gt;2일 나나 소속사 써브라임 측은 “나나에 대한 강도상해 사건에서 수사기관의 철저한 수사를 통해 A씨의 범죄 사실이 명확히 확인된 바 있다”면서도 “A씨는 어떠한 반성의 태도 없이 나나 배우를 상대로 별건의 고소를 제기했다”고 알렸다.&lt;br&gt;&lt;br&gt;나나 측에 따르면 A씨는 살인미수와 특수상해 혐의로 나나를 고소했다.&lt;br&gt;&lt;br&gt;소속사는 “A씨는 피해자가 유명인이라는 점을 악용하여 반인륜적인 행위로 2차 피해를 야기하고 있는 상황”이라며 “특히 흉기로 무장한 가해자의 범행 과정에서 나나 배우와 그 가족은 심신에 걸쳐 심각한 피해를 입었고 그로 인한 육체적, 정신적 고통은 현재까지도 이어지고 있다”고 했다.&lt;br&gt;&lt;br&gt;그러면서 “소속 아티스트의 권익 보호를 최우선 가치로 삼고 있으며, 본 사안과 관련하여 가해자에 대한 민·형사상 일체의 모든 법적 조치를 강구할 예정”이라며 “앞으로도 아티스트가 더 이상의 피해를 입지 않도록 끝까지 책임 있는 자세로 대응해 나가겠다”고 했다. &lt;br&gt;&lt;br&gt;앞서 작년 11월 15일 오전 6시쯤 구리시 아천동의 나나의 자택에 흉기를 든 강도가 침입하는 사건이 발생했다. A씨는 준비한 사다리를 타고 베란다까지 올라간 뒤, 잠기지 않은 문을 열고 들어가 나나 어머니의 목을 조르는 등 다치게 한 것으로 파악됐다. 이후 나나 모녀는 몸싸움 끝에 A씨의 팔을 붙잡아 제압한 뒤 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰과 소방 당국이 출동했을 당시, 턱 부위를 다친 A씨는 병원으로 이송돼 치료를 받았다. 경찰은 남성이 흉기에 턱을 다친 것과 관련해 나나 모녀의 정당방위에 해당한다고 판단했다. A씨는 경찰 조사에서 “연예인이 사는 곳인지 몰랐고 생활비가 필요해 범행을 저질렀다”는 취지로 진술한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;경기 구리경찰서는 작년 11월 24일 30대 남성 A씨를 특수강도상해 혐의로 구속 송치했다.&lt;br&gt;&lt;br&gt;나나 소속사 측은 “강도의 공격으로 나나 배우의 어머니는 심각한 부상으로 의식을 잃는 상황을 겪었으며, 나나 배우 역시 위기 상황을 벗어나는 과정에서 신체적 부상을 입었다”고 전했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XMRUAI26CGHSTWCDKFAYDPBB7U.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;가수 겸 배우 나나 /인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/XMRUAI26CGHSTWCDKFAYDPBB7U.jpg?auth=9b363ab1e205b75ca2cf0065f78ca36e16301e1fb0afc03a4cc2f5bf035726da&amp;smart=true&amp;width=642&amp;height=931" type="image/jpeg" height="931" width="642">
+        <media:description type="plain">가수 겸 배우 나나 /인스타그램</media:description>
+      </media:content>
+    </item>
+    <item>
+      <title>[단독] 상사에게 성추행 당한 카카오 여직원, 스스로 목숨 끊어</title>
+      <link>https://www.chosun.com/economy/tech_it/2026/01/02/23XXHKVLCNFCPFMIEDP2A4N354/</link>
+      <guid isPermaLink="true">https://www.chosun.com/economy/tech_it/2026/01/02/23XXHKVLCNFCPFMIEDP2A4N354/</guid>
+      <dc:creator>김강한 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:48:33 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVSTSNZSHEYGEYTDG44WGNBRGY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경기 성남시 분당구 카카오 판교아지트의 모습. 2024.7.24/뉴스1 ⓒ News1 김영운 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카카오 여직원이 사내에서 성추행을 당한 뒤 스스로 목숨을 끊는 일이 발생했다.&lt;br&gt;&lt;br&gt;2일 인터넷 업계에 따르면 카카오 여직원 A씨가 지난달 28일 스스로 목숨을 끊은 것으로 알려졌다. 인터넷 업계 관계자는 “A씨는 직장에서 상사에게 지속적으로 성추행을 당해왔던 것으로 안다”면서 “A씨는 장기간 휴가 중이었는데 우울감과 수치심 등으로 극단적인 선택을 한 것 같다”고 말했다. &lt;br&gt;&lt;br&gt;A씨의 빈소는 경기도 한 장례식장에 마련됐고 지난달 31일 발인했다. 카카오 노조와 유족 측은 향후 대응을 논의하고 있는 것으로 알려졌다. 정신아 카카오 대표도 A씨와 관련해 사내 메신저에 추모 글을 올렸다고 한다. &lt;br&gt;&lt;br&gt;카카오는 지난해 11월 성추행 가해자인 B씨에게 정직 3개월 처분을 내렸고, B씨는 지난달 5일 퇴사한 것으로 알려졌다. 카카오 관계자는 “같은 회사 직원에게 이런 일이 발생해 안타깝다”면서 “카카오 동료 직원들이 가해자의 행위에 공분하고 있다”고 말했다. 또 다른 관계자는 “즉각 퇴사 조치를 하지 않고 정직 처분을 한 것이 문제”라며 “가해자와 피해자를 같은 직장에서 일하게 하는 게 말이 되느냐”고 말했다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>상설특검, 대검 압수 수색...‘관봉권 의혹’ 감찰 자료 확보 나서</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/BV7ATN7OFJF77N6ONSQN4R4Z2Q/</guid>
+      <dc:creator>김나영 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:36:07 +0000</pubDate>
+      <content:encoded>‘관봉권 띠지 분실’ 의혹 등을 수사하는 안권섭 특별검사팀이 2일 대검찰청에 대한 압수 수색에 나섰다. 해당 사건과 관련한 검찰 내부 자료를 확보하기 위한 차원이다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZDIN3FGU2TAMLEGY4DKZLFHE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울 서초구 대검찰청에 검찰 깃발이 휘날리고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특검은 이날 “오전 10시쯤 관봉권 및 쿠팡 사건 관련자들의 검찰 내부망 메신저 기록 등을 확보하기 위하여 대검찰청에 대한 압수 수색에 착수했다”고 밝혔다.&lt;br&gt;&lt;br&gt;앞서 서울남부지검은 2024년 12월 ‘건진법사’ 전성배씨의 자택을 압수 수색해 5000만원어치 한국은행 관봉권을 포함한 현금다발을 확보했으나, 수사 과정에서 띠지와 스티커를 분실해 출처를 밝히지 못했다. 그러자 검찰에서 의혹을 은폐하기 위해 해당 증거를 고의로 없앴다는 의혹이 제기됐다.&lt;br&gt;&lt;br&gt;해당 의혹을 감찰한 대검은 작년 10월 “실무상 과실은 있었으나 지휘선의 증거 은폐 지시는 없었다”는 취지의 결과를 발표했다. 그러나 법무부는 대검의 감찰 결과를 검토한 끝에 추가 조사가 필요하다고 보고 상설특검을 통해 다시 조사에 나서기로 했다.&lt;br&gt;&lt;br&gt;한편 특검은 쿠팡이 2023년 5월 근로자들에게 불리하게 취업 규칙을 변경해 사실상 상근에 해당하는 일용직 노동자들에게 퇴직금을 제대로 지급하지 않았다는 의혹과, 엄희준 광주고검 검사가 이에 대한 수사에 외압을 가했다는 의혹도 수사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>조희대 대법원장 “재판 중계되는 엄중한 시기… 오해 없도록 언행 유의해야”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/02/XQW56AOJRVAX5GLVRO5HQ4SHOQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/XQW56AOJRVAX5GLVRO5HQ4SHOQ/</guid>
+      <dc:creator>김은경 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:58:43 +0000</pubDate>
+      <content:encoded>조희대 대법원장이 2일 “재판 중계 방송까지 도입돼 우리의 말 한마디, 행동 하나에 국민의 모든 눈과 귀가 집중된 적은 드물다”며 법원 구성원들에게 신중한 처신과 공정한 재판 진행을 주문했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZRXJLPNWOJAATCLLMSX2DKMWNU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조희대 대법원장이 2일 서울 서초구 대법원 청사에서 열린 2026년도 시무식에서 발언하고 있다. /대법원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;조 대법원장은 이날 서초구 대법원에서 열린 시무식에서 “국민적 관심이 집중되는 다수 사건이 법원의 판단을 기다리고 있다”며 “국민의 시선과 관심이 사법부에 집중되는 가운데 사법부 책무가 그 어느 때보다도 무겁고 엄중한 시기에 서 있다”고 말했다.&lt;br&gt;&lt;br&gt;이어 “이런 시기일수록 재판을 담당하는 법관의 말 한마디와 절차 진행은 물론, 민원인을 응대하는 태도 하나가 사법부 신뢰와 직결된다”며 “불필요한 오해를 초래하거나 사법부의 권위와 독립을 스스로 훼손하는 일이 없도록 각별히 유념해 달라”고 당부했다.&lt;br&gt;&lt;br&gt;사법 제도 개편에 대해선 “사법 제도는 국민의 권리에 직접적이고 중대한 영향을 미치는 만큼, 개편 논의가 국민을 위한 방향으로 이루어질 수 있도록 전 과정을 면밀하게 검토하겠다”고 말했다. 또 “국민을 위한 정당하고 합리적인 변화의 요구는 겸허히 받아들여, 국민이 진정으로 신뢰할 수 있는 사법부를 만들기 위해 끊임없이 노력하겠다”고 덧붙였다.&lt;br&gt;&lt;br&gt;사법부의 고질적 과제인 ‘재판 지연 해소’도 강조했다. 조 대법원장은 “누적된 재판 지연을 해결하기 위해 지난 2년간 시행해 온 법관 사무 분담 장기화와 법원장 재판 업무 담당 등 노력을 지속해 나가겠다”고 했다. 또 “향후 5년간 증원되는 법관을 사실심(1·2심)에 배치하고 장기 미제 사건을 전담 처리하는 재판부를 운영하는 등 한정된 사법 자원을 효율적으로 활용하겠다”고 했다.&lt;br&gt;&lt;br&gt;‘미래 사법 시스템 구축’에 대한 의지도 밝혔다. 조 대법원장은 “인공지능(AI) 기반 재판 지원 모델 개발을 통해 업무 효율성을 높이고, 조건부 구속영장 제도 및 압수·수색 영장 대면 심리 제도 도입 등 형사 사법 제도 개선을 지속 추진하겠다”고 했다. &lt;br&gt;&lt;br&gt;조 대법원장은 3월로 예정된 대전·대구·광주회생법원 개원과 해사국제상사법원 설립을 지원하는 등 “신속하고 전문적인 사법서비스 제공을 위해 전문법원의 확대를 지속적으로 추진해 나가겠다”고도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>울산시·경남도 새해 조직개편 통해 역점사업 선점 노린다 </title>
+      <link>https://www.chosun.com/national/2026/01/02/UUJ57MXTK5G47C6HKIHQGK4CSI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/2026/01/02/UUJ57MXTK5G47C6HKIHQGK4CSI/</guid>
+      <dc:creator>창원=김준호 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 02:09:42 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GE4TINRVMUYDQMBQMFQTCZBTG4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;울산시청 /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;울산과 경남도가 새해 첫날부터 조직 개편을 통해 역점 사업에 박차를 가한다. &lt;br&gt;&lt;br&gt;울산시는 ‘인공지능(AI) 수도 울산’을 목표로 새해 AI수도추진본부를 출범했다고 2일 밝혔다.&lt;br&gt;&lt;br&gt;AI수도추진본부는 AI 정책 수립과 산업 육성, 지역 인재 양성, 인프라 구축, 미래형 첨단 도시 등을 총괄하는 지휘 본부 역할을 맡는다. &lt;br&gt;&lt;br&gt;1국 2과 체제로, AI산업전략과와 미래첨단도시과로 구성된다. 시는 조직 실효성을 확보하고, AI 정책을 체계적으로 추진하기 위해 개방형 직위의 추진본부장 공개 모집에 나서 과학기술정보통신부 출신 김형수 부이사관을 임용했다. &lt;br&gt;&lt;br&gt;울산시는 추진본부를 중심으로 울산정보산업진흥원, 울산과학기술원(UNIST), 한국전자통신연구원(ETRI), SK, 현대자동차, HD현대중공업 등과 함께 AI 집적단지 조성 방안을 마련할 계획이다. &lt;br&gt;&lt;br&gt;김두겸 울산시장은 이날 시장실에서 2026년 1호 결재로 울산형 소버린 AI 집적단지 조성 추진 계획에 서명했다. 소버린 AI는 특정 기술이나 기업에 대한 의존성 문제를 해소할 수 있는 자주적 AI 모델로, 중요 산업 데이터의 외부 유출을 방지하는 시스템이다. &lt;br&gt;&lt;br&gt;울산시 관계자는 “울산형 소버린 AI 집적 단지 조성을 통해 지역 주력 산업의 국제 경쟁력을 높이고, AI 수도에 걸맞은 산업 생태계를 단계적으로 구축해 나가겠다”고 말했다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GVRWMN3DMQ4TCYTBGQZTOMDFGA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;경남도청. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경남도는 새해 조직 개편을 통해 공공기관이전추진단을 신설했다. 김순희 서기관을 단장으로, 11명 정원이다. 지난해까지 도청 서부청사에 있는 균형발전본부 아래 균형발전단 내 공공기관이전파트 3명이 일하던 것에서 규모를 3배 이상으로 키운 셈이다. 공공기관이전추진단은 이재명 정부가 국정 과제로 내건 ‘2차 공공기관 이전’에 맞춰 기존 균형발전단이 맡던 공공기관 이전·혁신도시 지원 업무를 넘겨받고, 2차 공공기관 유치 전략을 세우는 역할을 한다. &lt;br&gt;&lt;br&gt;앞서 경남도는 지난해 9~10월 수도권에 있는 공공기관 381곳을 검토해 목표 기관 64곳을 발굴했다. 경남연구원과 함께 이전 전략 수립을 위한 용역도 벌였다. 도는 지역 전략 산업인 우주·항공·방산·제조 등과 관련한 기관과 1차 공공기관 11곳과 연계되는 기관으로 이전 추진 공공기관을 압축하고 있다.&lt;br&gt;&lt;br&gt;정부는 지역 균형 발전을 위한 2차 공공기관 지방 이전 국정 과제를 확정했으며, 9월까지 ‘2차 공공기관 이전 실행 지원 용역’을 마친 후 로드맵을 수립할 예정이다. 2027년부터 청사 임차와 공동 청사 건립 등을 통해 단계적 공공기관 이전을 추진할 것으로 알려졌다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>김영록 전남지사·강기정 광주시장, 5·18 묘역서 행정통합 추진 선언</title>
+      <link>https://www.chosun.com/national/regional/2026/01/02/45576XKPQRHA3MWXT23Y4QOJIE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/02/45576XKPQRHA3MWXT23Y4QOJIE/</guid>
+      <dc:creator>광주광역시=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:39:02 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GYZTENBTGAZDGNRYMM2GGNBVME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 광주 북구 국립 5·18 민주묘지 민주의문 앞에서 강기정 광주시장(오른쪽)과 김영록 전남지사가 광주·전남 대통합 추진 공동선언문을 발표하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;김영록 전남지사와 강기정 광주시장이 2일 광주·전남 행정 통합 추진을 공식 선언했다. 강 시장과 김 지사는 이날 오전 광주 국립 5·18 민주묘지에서 새해 합동 참배를 하고 ‘광주·전남 통합 지방정부 추진 공동 선언문’을 발표했다. 두 단체장은 선언문에서 “광주·전남 대부흥의 새 역사를 열어가기 위해 양 시·도의 대통합을 곧바로 추진하기로 선언한다”고 밝혔다.&lt;br&gt;&lt;br&gt;이들은 “양 시·도는 AI·에너지 대전환 시대, 남부권 반도체 벨트의 중심축이자 대한민국 미래 핵심 거점으로 도약할 수 있는 역사적 전기를 맞고 있다”며 “특히 이재명 정부에서는 통합 시·도에 대해 서울특별시에 준하는 지위와 조직 특례를 부여하고, 교부세 추가 배분 및 공공기관 우선 이전 등 과감한 인센티브를 계획하고 있어, 지금이야말로 광주·전남이 대통합의 길로 나아갈 수 있는 절호의 기회”라고 했다.&lt;br&gt;&lt;br&gt;이어 “시·도 통합의 시너지 효과를 극대화하기 위해 정부의 과감한 재정·권한 이양과 특례 확보에 최선을 다한다”며 “미래지향적인 성장동력을 확보해 지역발전과 시·도민 복리를 최대한 증진할 수 있도록 상호 존중과 신뢰를 바탕으로 공동 추진하기로 한다”고 했다.&lt;br&gt;&lt;br&gt;광주시와 전남도는 광주·전남 행정구역 통합과 맞춤형 특례를 담은 통합 지방자치단체 설치 특별법 제정을 추진하기로 했다. 특별법에는 통합 지방정부가 국가 행정권한과 재정권한 이양을 통해 연방제 국가에 준하는 실질적 권한과 기능을 확보할 수 있는 특례조항을 반영한다.&lt;br&gt;&lt;br&gt;시·도는 행정구역 통합의 실무협의를 위해 동수로 구성하는 ‘광주·전남 통합추진협의체’를 설치하고, 전남 부지사와 광주 부시장을 당연직으로 하는 4명의 공동대표를 두기로 했다. 시·도의회와 주민 의견 수렴을 거쳐 통합안을 확정하고, 조속히 통합을 추진할 계획이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HBQTEZLCHBRTAYTEGFTDQZJTGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;강기정 광주시장(왼쪽)과 김영록 전남도지사가 2일 광주 북구 운정동 국립5·18민주묘지를 찾아 헌화하고 있다./뉴스1 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;통합안을 토대로 특별법 최종안을 만들어 오는 2월 국회에 제출하고 나서 의결되면, 이후 올해 6월 지방선거까지 행정구역(선거구) 조정 등을 거쳐 통합 시장을 뽑고 7월 ‘광주·전남 초광역특별자치도’ 출범을 목표로 하고 있다.&lt;br&gt;&lt;br&gt;김 지사는 선언문 발표 이후 “이른 시일 안에 통합을 이루고 가능한 6월 지방선거에서 통합 선거를 통해 통합 단체장을 뽑고, 7월 1일부터는 전남·광주 대통합 새로운 역사를 가야 한다”고 말했다. 강 시장도 지난해 12월 30일 기자간담회에서 “특별법이 통과돼 7월 1일에 행정통합이 실현되는 법적 토대가 갖춰지고 정부 의지만 분명하면, 시도민을 설득하겠다”며 지방선거 광주·전남 통합 단체장 선출도 감수하겠다는 입장을 밝혔다.&lt;br&gt;&lt;br&gt;광주·전남 행정통합은 김 지사가 지난해 12월 30일 실장·국장 정책회의에서 “광주·전남 행정통합을 위해 추진기획단을 만들겠다”고 언급하면서 본격화됐다. 강 시장도 같은 날 기자간담회에서 광주시와 전남도가 ‘행정 통합 추진단’을 공동으로 구성하고 곧바로 행정 통합을 추진하겠다고 화답하면서 급물살을 탔다. 이재명 대통령도 이날 엑스(X·옛 트위터)에 광주·전남의 행정 통합 가능성을 거론하며 “쉽지 않아 보였던 광역단체 통합이 조금씩 속도를 내고 있다”고 했다.&lt;br&gt;&lt;br&gt;두 지자체는 2020년에도 통합을 시도했으나 실패했다. 당시 이용섭 시장이 통합을 제안했다. 하지만 광주 군 공항 이전 문제가 발목을 잡았다. 광주는 군 공항을 이전 전제 조건으로 내세웠고, 전남도에선 “군 공항 떠넘기기 아니냐”는 여론이 형성됐다. 갈등이 고조되면서 행정 통합 논의는 흐지부지됐다.&lt;br&gt;&lt;br&gt;이번엔 다르다. 공항 문제 해결로 신뢰가 회복됐다. 두 지역 갈등 핵심이었던 광주 군·민간 공항 무안 이전 문제가 20년 만에 해결의 실마리를 찾았기 때문이다. 두 지자체장은 “지금이 통합의 골든타임”이라며 통합에 강한 의지를 보이고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/ZE2FZVPYBVD2JDDLNUA6XPRDLI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전남도청사./전남도&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;앞서 정부와 광주시, 전남도 등 6자 협의체는 지난해 12월 17일 광주 군·민간 공항을 무안국제공항으로 이전하기로 합의했다. 무안공항을 김대중 공항으로 명칭 변경하고, 서남권 거점 공항으로 육성하는 내용이다. 특히 무안군에 1조원 규모를 지원하기로 했다.&lt;br&gt;&lt;br&gt;한 몸이었던 전남도와 광주시는 1986년 11월 광주가 직할시로 승격되면서 행정적으로 완전히 분리됐다. 광주직할시는 지방자치제를 시행한 1995년 광주광역시로 변경됐다. 당시 두 지자체는 행정적으로 분리됐으나 전남도가 여전히 광주 동구 현 국립아시아문화전당 자리에 머물러 있어 정서적으로 가까웠다. 그러다 2005년 10월 전남도가 전남 무안군 삼향읍으로 이전하면서 물리적으로 완전히 분리됐다. 이때부터 경제·행정적 이해관계가 완전히 갈리게 됐다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5HQMJKLIORE33OO4PL74ABOMAQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;광주광역시청사./광주광역시&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽에 소동 벌이고 주민 때려 시야 장애... 래퍼 비프리, 항소심서 징역형 확정</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/02/ZQQETLKBSVEHTDGFXLVWXJBVLU/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/ZQQETLKBSVEHTDGFXLVWXJBVLU/</guid>
+      <dc:creator>이민준 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 01:08:43 +0000</pubDate>
+      <content:encoded>래퍼 비프리(39·본명 최성호)가 아파트 주민을 폭행해 시야 장애를 입힌 혐의로 1심에 이어 항소심에서도 실형을 선고받았다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CQBHHLQ6JHOHDCW6IPC5S6OGVI.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;래퍼 비프리(39·본명 최성호)./뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일 법조계에 따르면, 서울고법 형사3부(재판장 이승한)는 지난해 11월 25일 상해 혐의를 받는 최씨에게 원심판결과 같은 징역 1년 4개월을 선고했다. &lt;br&gt;&lt;br&gt;최씨는 2024년 6월 28일 새벽 서울 중구 한 아파트 앞에서 주민을 주먹으로 때려 바닥에 넘어뜨리고 시야 장애를 입힌 혐의로 기소됐다. 최씨는 사건 당일 아파트 정문에서 경비원과 출입 차단기 문제로 실랑이를 벌이며 오토바이 경적을 울리고 큰 소리로 욕설을 퍼부었다고 한다.&lt;br&gt;&lt;br&gt;이에 1층에 살던 피해자가 “시끄럽다”고 항의하자 최씨는 “나오라”고 소리쳤고, 밖으로 나온 피해자의 얼굴 등을 폭행한 것으로 조사됐다. 피해자는 이 폭행으로 안면부 열상, 삼각 골절과 함께 전치 8주의 우안 외상성 시신경 병증으로 시야 장애를 입게 됐다.&lt;br&gt;&lt;br&gt;1심은 최씨가 전과 6회가 있는 점 등을 들어 “비난 가능성이 크다”면서도 “피고인이 자신의 행동을 일부 인정하면서, 앞으로는 자신이 작사한 노래 ‘마법의 손’ 가사처럼 폭력을 행사하지 않으며 살겠다고 다짐하는 점은 유리한 정상으로 고려했다”고 밝혔다. 항소심도 원심 판단에 문제가 없다고 보고 검찰과 최씨의 항소를 기각했다. 양측이 상고하지 않아 이 판결은 확정됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
+      <media:content url="https://www.chosun.com/resizer/v2/UZ4JQSJNORCBLPSINSBOGB2YQY.jpg?auth=2deb3567e1c43d565a606585c906ae4d25667f6ded34dc73efdba47e259c943b&amp;smart=true&amp;width=512&amp;height=384" type="image/jpeg" height="384" width="512">
+        <media:description type="plain">비프리</media:description>
+        <media:credit role="author" scheme="urn:ebu"/>
+      </media:content>
+    </item>
+    <item>
+      <title>새해 첫 출근날, 전장연 시위로 1호선 시청역·남영역 무정차 통과</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/02/QRZKMVQKABEDRN3XJ7RE44MTXM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/QRZKMVQKABEDRN3XJ7RE44MTXM/</guid>
+      <dc:creator>한영원 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 00:35:23 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GU4TGYJZGFTDSZTGGQ2DQOLEMQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;전국장애인차별철폐연대(전장연)가 2일 오전 8시부터 지하철 1호선 남영역에서 시위 중이다. /전장연 유튜브 캡쳐&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;새해 첫 출근 날인 2일 전국장애인철폐연대의 지하철 시위로 서울 지하철 1호선 시청역과 남영역을 지나는 열차가 무정차 통과 중이다. &lt;br&gt;&lt;br&gt;한국철도공사에 따르면 이날 오전 8시 15분쯤부터 서울지하철 1호선 남영역 상·하행선 열차가 모두 무정차 운행 중이다. 1호선 시청역도 9시 1분쯤부터 하행선(서울역 방향) 열차가 무정차 통과하고 있다. &lt;br&gt;&lt;br&gt;전장연은 이날 오전 8시부터 남영역과 시청역 일대에서 ‘68차 출근길 지하철 탑시다’를 진행했다. 이들은 “2026년 지방선거를 앞두고 각 지방자치단체가 교통약자법에 명시된 장애인 이동권을 보장해야 한다”고 주장했다. 다행히 이날 출근길 지하철 시위로 인한 인명 피해는 없었다.&lt;br&gt;&lt;br&gt;서울교통공사는 “1호선 특정 장애인 단체 시위가 예정돼 있어 열차 운행이 상당 시간 지연될 수 있다”며 “상황에 따라 해당 역을 무정차 통과할 예정”이라고 안내했다. &lt;br&gt;&lt;br&gt;전장연은 이날 오전 10시 30분부터 서울시청 동편에서 ‘2026년 전장연 신년 투쟁 선포 결의 대회 및 장애인 권리 쟁취 행진’을 연다. 이어 오전 11시 30분부터는 서울 중구 국가인권위원회 건물 앞에서 ‘장애 해방 열사 우동민 15주기 추모제’도 진행할 예정이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서울시민 57% ‘오세훈 못한다’지만… 47%는 “지방선거서 야당 당선돼야”</title>
+      <link>https://www.chosun.com/politics/opinion-poll/2026/01/02/A6EWAT3WXFGNROFI63VWFFDIMQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/politics/opinion-poll/2026/01/02/A6EWAT3WXFGNROFI63VWFFDIMQ/</guid>
+      <dc:creator>김경필 기자</dc:creator>
+      <description/>
+      <pubDate>Thu, 01 Jan 2026 23:24:49 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWO3EZLI6RKFDKJUPE5NZEHGHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 1일 서울 여의도 국민의힘 중앙당사에서 열린 신년 인사회에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민을 대상으로 한 여론조사에서 오세훈 서울시장의 시 운영에 대한 부정 평가가 높은 것으로 조사됐다. 그러면서도 6·3 지방선거에서 이재명 정부 견제를 위해 야당 후보가 많이 당선돼야 한다고 답한 서울시민이 여당 후보가 당선돼야 한다고 답한 시민보다 조금 더 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;뉴스1이 여론조사 업체 엠브레인퍼블릭에 의뢰해 지난달 26~27일 서울시에 사는 18세 이상 803명을 대상으로 조사한 결과에 따르면, 오 시장의 시 운영을 부정적으로 평가한 응답자는 57%로, 긍정 평가한 응답자 33%보다 24%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 10%였다.&lt;br&gt;&lt;br&gt;오 시장이 추진하는 한강버스 사업과 종묘 주변 재개발 계획에 대해서도 반대 여론이 각각 67%, 63%에 달했다.&lt;br&gt;&lt;br&gt;그러나 6·3 지방선거에서 ‘현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다’는 응답자는 47%로, ‘현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다’는 응답자 45%보다 2%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 8%였다.&lt;br&gt;&lt;br&gt;지역별로 보면, 정부 지원론은 서울 25개 자치구 가운데 성동·광진·동대문·중랑·성북·강북·도봉·노원 등 8구에서 우세했다. 나머지 17구에서는 정부 견제론이 앞섰다.&lt;br&gt;&lt;br&gt;연령별로 보면, 40·50대에서는 정부 지원론이, 나머지 연령대에서는 정부 견제론이 우세했다. 40대는 57%가 여당 후보, 37%가 야당 후보가 많이 당선돼야 한다고 답했다. 50대는 62%가 여당 후보, 35%가 야당 후보가 많이 당선돼야 한다고 했다. 60대에서는 51%가 야당 후보를, 48%가 여당 후보를 지지해 야당 후보 지지가 3%포인트 많았다. 30대에서는 48%가 야당, 42%가 여당을 지지해 6%포인트 차이가 났다. 10·20대는 51%가 야당 당선, 35%가 여당 당선을 기대해 16%포인트 차이가 났다. 70대 이상에서는 64%가 야당 후보가 많이 당선돼야 한다고 답해, 여당 후보가 많이 당선돼야 한다는 응답자 24%보다 40%포인트 많았다.&lt;br&gt;&lt;br&gt;이번 조사는 지난달 26~27일 이틀간 서울시에 사는 18세 이상 803명을 대상으로 무선 전화 인터뷰 방식으로 진행됐다. 응답률은 10.1%, 표본 오차는 95% 신뢰 수준에서 ±3.5%포인트였다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘통일교 쪼개기 후원’ 송광석 기소... 검찰, 한학자는 보완 수사 요구</title>
+      <link>https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/CZ4623KUOJDNBKNMEAYCYXEKDA/</guid>
+      <dc:creator>박혜연 기자</dc:creator>
+      <description/>
+      <pubDate>Wed, 31 Dec 2025 08:30:49 +0000</pubDate>
+      <content:encoded>검찰이 여야 정치인 11명에게 불법 정치 자금을 건넨 혐의를 받는 통일교 핵심 관계자 송광석 전 천주평화연합(UPF) 회장을 31일 불구속 기소했다. 경찰이 송 전 회장 등을 검찰에 넘긴 지 하루 만이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MU2TMNLDGBRTGZTCMVRDGNLBHA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;송광석 전 천주평화연합(UPF) 회장(사진 왼쪽)이 경찰 조사를 받기 위해 지난 26일 오후 서울 서대문구 경찰청 청사에 들어서고 있다. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공공수사2부(부장 송봉준)는 이날 정치자금법 위반 혐의를 받는 송 전 회장을 불구속 상태로 재판에 넘겼다.&lt;br&gt;&lt;br&gt;송 전 회장은 통일교 관련 단체인 천주평화연합 단체의 자금 1300만원을 여야 국회의원 11명에게 쪼개기 후원한 혐의를 받는다. 검찰은 다만 송 전 회장과 함께 공범으로 송치된 한학자 총재와 윤영호 전 통일교 세계본부장, 정원주 전 총재 비서실장 등에 대해서는 경찰에 보완 수사를 요구했다.&lt;br&gt;&lt;br&gt;한 총재 등 3명에 대한 공소시효는 내년 1월 2일까지지만, 송 전 회장이 기소되면서 이들에 대한 공소시효도 함께 정지됐다. 경찰은 전날 송 전 회장 등 4명을 검찰에 송치한 바 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>충주서 외조모 둔기로 살해한 30대... 경찰, 영장 신청</title>
       <link>https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/27/X2EFBAPUUBFL3KJOPU5XLHWJKA/</guid>
@@ -777,33 +883,6 @@
       <content:encoded>▲&lt;b&gt;헌법재판소&lt;/b&gt;◇실장(1급) 보임▷심판지원실장 박준희◇이사관(2급) 승진·국장 신규보임▷기획재정국장 하태진◇국장(2급) 전보▷국제협력국장 정영주▷심판정보국장 신승훈▷행정관리국장 최혁◇국장(3급) 보임▷도서총괄심의관 김인숙◇부이사관(3급) 전보▷홍보담당관 이진석▷국립외교원 파견 이은영◇부이사관(3급) 승진▷심판사무과장 김병섭▷총무과장 조진훈◇과장 전보▷재정기획과장 윤정경▷평가감사과장 이영준▷법제과장 이상모▷정보보호과장 유준영▷청사관리과장 조기영▷자료조사과장 김규필▷통일교육원 파견 용상선◇과장 신규보임▷AACC지원과장 김기필▷심판민원과장 임영선▷정보화기획과장 조영진▷기획행정과장 이찬주◇서기관(4급) 승진▷심판민원과 김소영▷정보화기획과 김선미▷기획행정과 이상진◇서기관(4급) 전보▷평가감사과 황해훈▷국제과 최성훈▷심판지원총괄과 이수정▷심판사무과 이석준▷인사과 김도훈▷헌법재판연구원 교육팀 천미영&lt;br&gt;&lt;br&gt;▲&lt;b&gt;농림축산식품부&lt;/b&gt;◇과장급 승진▷농촌소득에너지정책관실 농업재해지원팀장 최종순▷농림축산검역본부 기획조정과장 강순례▷국립농산물품질관리원 농업경영체과장 남기헌◇과장급 전보▷정책기획관실 혁신행정담당관 오재협▷농촌정책국 농산업전략기획단장 문지영▷농산업혁신정책관실 빅데이터전략팀장 박재화▷농촌소득에너지정책관실 농촌탄소중립추진팀장 김신재▷유통소비정책관실 원예경영과장 조민경▷농림축산검역본부 식물검역부 수출지원과장 박경희▷농림축산검역본부 동식물위생연구부 바이러스질병과장 김재명▷농림축산검역본부 동식물위생연구부 세균질병과장 조윤상▷국립농산물품질관리원 충북지원장 손경문&lt;br&gt;&lt;br&gt;▲&lt;b&gt;기후에너지환경부&lt;/b&gt;◇실장급 승진▷중앙환경분쟁조정피해구제위원장 서흥원▷2050탄소중립녹색성장위원회 사무차장 홍동곤◇국장급 전보▷수자원정책관 송호석▷물환경정책관 김은경▷한강유역환경청장 이승환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국토교통부&lt;/b&gt;◇실장급 전보▷주택공급추진본부장 김영국▷대변인 김헌정▷기획조정실장 남영우▷국토도시실장 정의경▷대도시권광역교통위원회 상임위원 박지홍▷중앙토지수용위원회 상임위원 이상주◇국장급 전보▷공항정책관 이상헌▷철도국장 김태병▷행정중심복합도시건설청 도시계획국장 안석환▷새만금개발청 개발전략국장 윤진환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;해양수산부&lt;/b&gt;◇국장급 전보▷국립수산물품질관리원장 조일환◇과장급 전보▷정보화담당관 김성국&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국가데이터처&lt;/b&gt;◇과장급 전보▷행정자료관리과장 김미애▷스마트조사센터장 조윤구▷경인지방데이터청 수원사무소장 송요성▷동북지방데이터청 조사지원과장 김오승▷동북지방데이터청 강원지방데이터지청장 홍연권▷동북지방데이터청 안동사무소장 이주원▷동남지방데이터청 울산사무소장 김선조&lt;br&gt;&lt;br&gt;▲&lt;b&gt;국세청&lt;/b&gt;◇국장급 전보▷인천지방국세청장 박종희▷국세청 감사관 지성▷개인납세국장 박정열▷서울지방국세청 송무국장 공석룡▷국제거래조사국장 김오영▷중부지방국세청 징세송무국장 윤창복▷조사3국장 강종훈▷부산지방국세청 징세송무국장 이태훈◇과장급 전보▷국세청 정책보좌관 신민섭▷인사기획과장 이상원▷운영지원과장 최원수▷정보보호담당관 손유승▷인공지능혁신담당관 전승한▷심사2담당관 정필규▷역외정보담당관 송윤정▷국제협력담당관 이상훈▷법무과장 안형태▷체납분석과장 유지민▷소득세과장 손채령▷세정홍보과장 권오흥▷공익법인·연구개발지원과장 김광민▷원천세과장 김태수▷자본거래관리과장 남아주▷조사2과장 오미순▷국제조사과장 민회준▷장려세제과장 정상수▷소득자료관리과장 정해동▷국세외수입징수기획과장 박성무▷상호합의담당관 이슬▷서울지방국세청▷감사관 강동훈▷운영지원과장 이슬▷소득재산세과장 최승일▷법인세과장 강정훈▷송무2과장 최은경▷조사1국 조사2과장 최성영▷조사1국 조사3과장 배일규▷조사3국 조사관리과장 임형태▷조사3국 조사3과장 하신행▷조사4국 조사2과장 김태훈▷국제조사1과장 권동철▷국제조사2과장 임영미▷성동세무서장 이광섭▷중부세무서장 박재신▷서대문세무서장 주현철▷은평세무서장 고병재▷마포세무서장 최병구▷강서세무서장 홍용석▷구로세무서장 허양원▷금천세무서장 허준영▷관악세무서장 권석현▷삼성세무서장 최원봉▷반포세무서장 김일환▷서초세무서장 유영▷역삼세무서장 정헌미▷동대문세무서장 김태수▷중랑세무서장 김재산▷도봉세무서장 윤명덕▷송파세무서장 이인우▷중부지방국세청 운영지원과장 성혜진▷정보화관리팀장 김민기▷체납추적과장 육규한▷조사2국 조사관리과장 조수진▷조사2국 조사1과장 김현승▷조사3국 조사2과장 권경환▷분당세무서장 고영일▷안산세무서장 임상훈▷동안산세무서장 이창수▷동화성세무서장 성병모▷성남세무서장 조창우▷구리세무서장 김정태▷시흥세무서장 함민규▷기흥세무서장 엄인찬▷인천지방국세청 계양세무서장 박형민▷연수세무서장 정승태▷김포세무서장 김영기▷부천세무서장 양순석▷고양세무서장 서원식▷동고양세무서장 변희경▷광명세무서장 김지훈▷대전지방국세청 성실납세지원국장 최지은▷서대전세무서장 오원균▷북대전세무서장 장성우▷천안세무서장 이완희▷아산세무서장 이정민▷광주지방국세청 조사1국장 고근수▷징세송무국장 강병수▷조사2국장 이봉근▷광주세무서장 김시형▷북광주세무서장 백계민▷광산세무서장 장영수▷군산세무서장 강신웅▷전주세무서장 박임선▷북전주세무서장 전강식▷나주세무서장 박현주▷대구지방국세청 조사1국장 장우정▷성실납세지원국장 이상걸▷조사2국장 황남욱▷동대구세무서장 윤재복▷서대구세무서장 임종철▷남대구세무서장 이병탁▷부산지방국세청 감사관 황동수▷운영지원과장 고동환▷조사1국 조사관리과장 연제민▷서부산세무서장 이재영▷부산진세무서장 송진호▷해운대세무서장 이석중▷부산강서세무서장 정도식▷마산세무서장 황순민▷창원세무서장 손해수▷양산세무서장 최만석◇과장급 승진▷중부지방국세청 조사1국 조사2과장 김주연▷춘천세무서장 강찬호▷영월세무서장 윤소영▷삼척세무서장 장영일▷강릉세무서장 김일도▷인천지방국세청 포천세무서장 고광덕▷대전지방국세청 동청주세무서장 안경민▷영동세무서장 이화명▷보령세무서장 김완구▷홍성세무서장 정민기▷예산세무서장 김장년▷광주지방국세청 서광주세무서장 홍영표▷남원세무서장 손병양▷해남세무서장 이승철▷순천세무서장 구자은▷대구지방국세청 포항세무서장 김유신▷영덕세무서장 박준배▷구미세무서장 왕성국▷상주세무서장 김주식▷영주세무서장 박규동▷부산지방국세청 법인세과장 박창오▷송무과장 김성민▷조사1국 조사1과장 최재명▷조사1국 조사3과장 유민희▷조사2국 조사관리과장 이승규▷조사2국 조사1과장 성병규▷수영세무서장 남용우▷통영세무서장 박찬웅▷국세공무원교육원 교육지원과장 강민성▷교육운영과장 윤지환&lt;br&gt;&lt;br&gt;▲&lt;b&gt;동북아역사재단&lt;/b&gt;◇실장&amp;lt;독도실&amp;gt;▷홍성근◇소·팀장&amp;lt;연구정책실&amp;gt;▷한일연구소장 서종진&amp;lt;독도실&amp;gt;▷독도연구소장 김영수&amp;lt;운영관리실&amp;gt;▷회계팀장 이경미&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 중앙의료원&lt;/b&gt;▷의무부총장 겸 중앙의료원장 이정재▷특임 중앙의료원장 서유성▷전략기획본부장 박형기&lt;br&gt;&lt;br&gt;▲&lt;b&gt;순천향대 서울병원&lt;/b&gt;▷병원장 이성진▷진료부원장 장재영▷연구부원장 김태형&lt;br&gt;&lt;br&gt;▲&lt;b&gt;연세대 의료원&lt;/b&gt;◇기획조정실▷경영분석팀장 권오웅▷전략기획팀장 김용범◇사무처▷구매팀장 선홍규◇인재경영실▷조직문화팀장 문희영 ▷인재개발팀장 최상기◇제중원보건개발원▷행정팀장 양영규◇치과대학▷행정팀장 김한영◇세브란스병원▷입원원무팀장 장석진▷기획예산팀장 손종영▷법무팀장 이정환▷사무팀장 이영호▷입원간호3팀장 김정연◇강남세브란스병원▷헬스체크업 경영팀장 박호진▷영상의학팀장 김동필◇용인세브란스병원▷외래응급간호팀장 박성혜◇연세암병원▷기획경영팀장 박만우◇재활병원▷경영지원팀장 서영근◇세브란스병원▷입원간호2팀 101병동파트장 박승진▷진단검사의학팀 채혈파트장 김선경 ▷가정전문간호사실 파트장 송인자▷진단검사의학팀 혈액학파트장 박정용▷진단검사의학팀 암병원진단검사파트장 이상연◇재활병원▷간호팀 71병동파트장 이민정◇연세암병원▷입원간호1팀 15병동파트장 안성은&lt;br&gt;&lt;br&gt;▲&lt;b&gt;건국대학교&lt;/b&gt;◇서울캠퍼스▷부동산대학원장 겸 부동산과학원장 심교언▷캠퍼스타운사업센터장 겸 예비창업패키지사업센터장 황희성▷경영대학 행정실장 겸 경영전문대학원 행정실장 겸 경영대학원 행정실장 최미연▷상허교양대학 행정실장 겸 KU자유전공학부 행정실장 정수영▷외국인학생센터장 김병수▷출판문화사업팀장 남기열▷공학대학원 행정실장 겸 정보통신대학원 행정실장 김응태&lt;br&gt;&lt;br&gt;▲&lt;b&gt;성신여대&lt;/b&gt;▷교육문제연구소장 조윤정▷기초과학연구소장 고병준▷건강과학연구소장 천주영▷로컬디자인정책연구소장 이원호&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[스피킹이 강해지는 영어] take a toll on~</title>
-      <link>https://www.chosun.com/national/nie/english/2026/01/01/3L3L3HG7DVBWHJUNZLMRB6RKBA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/english/2026/01/01/3L3L3HG7DVBWHJUNZLMRB6RKBA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4FIN4VIBLZALFCCDTKM4M5PUHY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[매일매일 중국어 한마디] 옛것이 가지 않으면, 새것이 오지 않는다</title>
-      <link>https://www.chosun.com/national/nie/chinese/2026/01/01/HTUBMY3JF5H45CZPMJIVTXVU4E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese/2026/01/01/HTUBMY3JF5H45CZPMJIVTXVU4E/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/5GYUKOXYWRDPRMJCDP4GV7I2WM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>[두근두근 뇌 운동] [2777] 열려라, 단어창고</title>
-      <link>https://www.chosun.com/national/nie/2026/01/01/UEYL6D4DQZBEZHI3JEBQFRR6HA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/nie/2026/01/01/UEYL6D4DQZBEZHI3JEBQFRR6HA/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:34:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UA5EL6IH4VHR5MZVZLSASIF5IU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[신문으로 배우는 실용한자] 허무맹랑(虛無孟浪)</title>
       <link>https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/nie/chinese_character/2026/01/01/UAB5N2HPZRHKBKKXUJEG7BHZLA/</guid>
@@ -837,24 +916,6 @@
       </media:content>
     </item>
     <item>
-      <title>‘환자 사망’ 양재웅 병원, 3개월 업무 정지 처분</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/01/OPIXXLBQGRDZRJWWJZL5VXOFZI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/01/OPIXXLBQGRDZRJWWJZL5VXOFZI/</guid>
-      <dc:creator>정아임 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 15:23:21 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/HHBGXRRVYAXGFXRYSH4IT6U53A.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;방송인 겸 정신건강의학과 전문의 양재웅. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;정신건강의학과 전문의이자 방송인인 양재웅(43)이 운영하는 병원이 환자 사망 사고와 관련해 3개월 업무 정지 처분을 받았다.&lt;br&gt;&lt;br&gt;경기 부천시보건소는 최근 양재웅이 운영하는 부천 모 병원에 대해 내년 1월 1일부터 3월 31일까지 업무 정지 처분을 내렸다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;병원 측은 이번 처분에 따르겠다는 의견서를 부천시보건소에 제출했으며, 입원 환자들은 모두 전원 조치된 것으로 알려졌다.&lt;br&gt;&lt;br&gt;앞서 지난해 5월 이 병원에 다이어트 중독 치료를 위해 입원했던 30대 여성 A씨가 입원 17일 만에 장폐색으로 숨지는 사고가 발생했다.&lt;br&gt;&lt;br&gt;유족은 A씨가 입원 기간 부당한 격리와 강박을 당했고, 그 과정에서 필요한 의료 조치를 받지 못해 숨졌다고 주장하며 양재웅을 포함한 병원 관계자들을 고소했다.&lt;br&gt;&lt;br&gt;이와 관련해 병원에서 근무하던 40대 주치의 B씨와 간호사·간호조무사 등 5명은 업무상 과실치사 등의 혐의로 지난달 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;검찰 조사 결과, 이들은 A씨에게 투여한 항정신병 약물의 부작용을 제대로 살피지 않고, 통증을 호소하는 A씨를 안정실에 감금하거나 손발을 결박한 뒤 방치한 것으로 파악됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>조폭 잡는 검사… ‘범죄와의 전쟁’ 모델, 조승식 前 대검 강력부장 별세</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/6IYMX3JP3RBGJAO77TEGR24C4Y/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 12:43:28 +0000</pubDate>
-      <content:encoded>영화 ‘범죄와의 전쟁’ 속 검사 캐릭터의 모델로 알려진 조승식 전 대검찰청 강력부장이 지난 30일 새벽 별세했다. 향년 73세.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/U7DDILPA2M6X56PCB7YRSIU4XM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;조승식 변호사&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;충남 홍성 출신인 조 전 부장은 대전고·서울대 법대를 졸업하고 1977년 제19회 사법시험에 합격했다. 1979년 검사 생활을 시작해 대검찰청 강력부장과 마약·조직범죄부장, 형사부장 등을 거치며 ‘조폭 잡는 검사’로 불렸다. &lt;br&gt;&lt;br&gt;조 전 부장은 1981년 전주지검 군산지청에서 근무하면서 ‘조폭과의 전쟁’을 시작했다. 주요 부임지마다 유명 조폭을 소탕해 조폭들이 그를 ‘악질 검사’라고 부른다는 말이 나올 정도였다. &lt;br&gt;&lt;br&gt;1990년 5월에는 서울 동부이촌동의 한 사우나 앞에 실탄을 장전한 권총을 차고 잠복해 있다가 당대 최고의 범서방파 조폭 두목 김태촌씨의 허리춤을 붙잡아 체포했다. 그는 당시 “경찰이 총을 쏘면 과잉 대응 논란이 끊이지 않았다. 내가 직접 현장 상황을 판단해서 총을 쏠지 말지 결정하되 이후 책임을 지려 그랬다”고 권총을 차고 간 이유를 설명했다.&lt;br&gt;&lt;br&gt;조 전 부장은 영화 ‘범죄와의 전쟁’ 속 강골 검사 조범석의 모델로도 알려져 있다. 영화 제작 과정에서 감독이 여러 차례 그를 찾아가 조언을 구한 것으로 알려졌다. 조 전 부장은 조폭 수사에 매진한 이유에 대해 “나쁜 놈들이기 때문”이라고 밝힌 바 있다. &lt;br&gt;&lt;br&gt;이 외에도 호남 조폭 대부로 불린 이육래, 마카오 원정 도박 조직 두목 이석권 등 다수의 유명 조폭을 검거했다. 검찰 재직 당시 검도 6단으로 조직 내 ‘최고수’로 꼽혔고, 명예 7단으로도 위촉됐다. 검사장으로 승진해 대검 참모로 근무할 때 강력부장 사무실에는 미니 야구방망이와 칼을 둘 정도로 ‘강력통’ 검사로서의 자부심이 강했다는 평가다. &lt;br&gt;&lt;br&gt;2008년 검사에서 퇴직한 뒤로는 변호사로 활동했다. 퇴직 당시 인터뷰에서 조 전 부장은 “그동안 멋있는 조폭이 있는지 찾아봤지만 제대로 남자다운 사람은 못 봤다”며 “조폭은 평소에는 신사인 척하지만, 금전적 이권을 놓고 싸움이 붙으면 못된 근성이 나온다. 돈을 벌 때 공짜로 벌기 때문에 씀씀이도 크다”고 했다. &lt;br&gt;&lt;br&gt;2016년 최순실 국정농단 사건을 수사할 특별검사 후보로 박영수 변호사와 함께 추천됐으나, 본인이 고사한 것으로 알려졌다. &lt;br&gt;&lt;br&gt;유족으로 아들 조용빈·조용준씨 등이 있다. 빈소는 서울성모병원. 발인은 2일 4시 30분. (02)2258-5940&lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt; &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘치과의사’ 이수진, 치과 폐업 후 근황 “고양이 치료비 걱정할 줄은…”</title>
       <link>https://www.chosun.com/national/people/2025/12/31/XFZEOYSTANCX5B52KBHCWTKZLA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2025/12/31/XFZEOYSTANCX5B52KBHCWTKZLA/</guid>
@@ -862,15 +923,6 @@
       <description/>
       <pubDate>Wed, 31 Dec 2025 12:48:46 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N2LV5323GZB33NHA45CRHN2NBA.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;‘동안 치과의사’로 유명한 크리에이터 이수진(58)./인스타그램&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘동안 치과의사’로 알려진 크리에이터 이수진(58)이 치과 폐업 이후 생활고를 겪고 있다고 밝혔다.&lt;br&gt;&lt;br&gt;이수진은 지난 30일 인스타그램에 “58살을 맞이하는 기분?”이라는 글을 사진과 함께 올렸다. 그는 “나도 내가 이 나이에 버스 타고 다니며 고양이 치료비 걱정할 줄 꿈에도 몰랐다”며 “열심히 살지 않은 적은 거의 없었다”고 했다.&lt;br&gt;&lt;br&gt;이어 “나도 지난 세월 무슨 일 있었던 건지 모르겠다. 추락하는 데엔 날개가 없다고, 공중 부양하다가 땅속으로 꺼져버렸다. 겨우 기어 나와 하나님만 바라보고 있다”고 덧붙였다.&lt;br&gt;&lt;br&gt;그러면서 “이런 나를 아직도 응원해 주고 기도해 주는 분들이 있다는 데에 감사한다”며 “건강이 좋지 않아 빨리 끝났으면 했지만, 아직 이 땅에서 세월 보내고 있으니 올인할 뿐”이라고 했다.&lt;br&gt;&lt;br&gt;서울대 치과대학 출신인 이수진은 서울 강남에서 치과를 운영해왔으나 지난해 5월 폐업했다. 그는 당시 “최근 출소한 스토커의 지속적인 스토킹으로 치과를 폐업하게 됐다”고 밝힌 바 있다.&lt;br&gt;&lt;br&gt;폐업 당시 그는 라이브 방송을 통해 “안전이 우선이다. 다른 스토커도 있어서 경찰에 신고하느라 정신이 없다”며 “잘 견디는 척하는 거다. (신경) 안정제를 먹을 때도 있다. 매일 집에서 지낸다”고 말하기도 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>제2경인고속도로서 차량 3대 추돌... 1명 사망·1명 부상</title>
-      <link>https://www.chosun.com/national/regional/2025/12/31/7PAX6YQKYZFJDEK72ZIH73OEGY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/7PAX6YQKYZFJDEK72ZIH73OEGY/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 13:03:31 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GSIDVVV3GZHV3GCL3XZIG4YJGU.png"&gt;&lt;figcaption&gt;&lt;small&gt;일러스트=정다운&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 안양시 제2경인고속도로에서 추돌 사고가 발생해 1명이 숨지고, 1명이 다쳤다.&lt;br&gt;&lt;br&gt;31일 소방 당국 등에 따르면, 이날 오후 8시 4분쯤 경기 안양시 만안구 제2경인고속도로 석수 나들목 인근에서 공항 버스와 승합차, SUV 등 차량 3대가 잇따라 부딪혔다.&lt;br&gt;&lt;br&gt;이 사고로 승합차에 불이 붙으면서 전소됐고, 운전자는 미처 빠져나오지 못해 숨졌다고 한다. 또 SUV 운전자는 경상을 입고 인근 병원으로 이송됐다.&lt;br&gt;&lt;br&gt;공항버스에는 외국인 승객 6명이 타고 있었으나 부상자는 없는 것으로 알려졌다. 소방 당국은 장비 14대와 대원 등 38명을 투입해 차량 화재를 20여 분 만에 진화했다.&lt;br&gt;&lt;br&gt;경찰은 정확한 사고 경위 등을 조사 중이다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>‘왕따’ 누명 벗은 김보름 은퇴...“포기하지 않은  선수로 기억되길”</title>
@@ -904,24 +956,6 @@
       </media:content>
     </item>
     <item>
-      <title>전남 보성서 60대 남성 무궁화호 열차에 치여 숨져</title>
-      <link>https://www.chosun.com/national/regional/2025/12/31/ZAANKFCNJBBZ5B7NX4W44YMS6E/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/ZAANKFCNJBBZ5B7NX4W44YMS6E/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 11:40:18 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/P5R7LF3QMRE7FBK2JXN76BVT3Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;119 출동 일러스트. /조선DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;전남 보성군의 한 철로에서 60대 남성이 무궁화호에 치여 숨졌다.&lt;br&gt;&lt;br&gt;31일 경찰과 소방당국 등에 따르면, 이날 오후 5시 58분쯤 전남 보성군 득량면 예당역 인근 철로에서 60대 남성 A씨가 무궁화호 열차에 치였다.&lt;br&gt;&lt;br&gt;A씨는 신고를 받고 출동한 119구급대원들에 의해 인근 병원으로 옮겨졌지만 숨졌다.&lt;br&gt;&lt;br&gt;경찰은 목격자 등을 상대로 정확한 사고 경위를 조사 중이다.&lt;br&gt;&lt;br&gt;열차는 광주송정역을 출발해 전남 순천으로 향하던 중이었으며, 이 사고로 1시간가량 열차 운행이 중단됐다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>차에서 다투다 여친 목졸라 살해... 고속도로변에 버린 20대 구속</title>
-      <link>https://www.chosun.com/national/regional/2025/12/31/FOWTKCTBVFGOPDMSOXXRZPL4TM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/regional/2025/12/31/FOWTKCTBVFGOPDMSOXXRZPL4TM/</guid>
-      <dc:creator>권태완 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 10:17:35 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/N7HAQT6GONEHJIFM5RW4PCYYQ4.png"&gt;&lt;figcaption&gt;&lt;small&gt;경찰 로고./조선 DB&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;말다툼하던 연인을 살해한 뒤 시신을 고속도로에 유기한 20대 남성이 구속됐다.&lt;br&gt;&lt;br&gt;경기 시흥경찰서는 살인 및 시체유기 혐의를 받는 A씨를 구속했다고 31일 밝혔다. 법원은 이날 A씨에 대한 구속 전 피의자 심문(영장실질심사)을 열고 구속 영장을 발부했다.&lt;br&gt;&lt;br&gt;A씨는 지난 28일 오후 9시 40분쯤 경기 안산시 단원구 선부동 한 주택가에 주차한 자신의 차량에서 연인인 20대 여성 B씨의 목을 졸라 살해한 혐의를 받고 있다.&lt;br&gt;&lt;br&gt;이어 A씨는 그대로 차를 몰아 포천의 고속도로 갓길 인근에 B씨의 시신을 유기한 혐의도 있다. 그는 범행 후 친구인 C씨에게 “여자 친구를 때렸는데 숨을 쉬지 않는다”고 알렸고, C씨는 이를 경찰에 신고했다.&lt;br&gt;&lt;br&gt;경찰은 신고자 조사를 위해 C씨의 집을 찾았다가 C씨 집에 있던 A씨를 발견, 임의동행했다. 이후 경찰은 범행 사실을 자백한 A씨를 긴급 체포했다.&lt;br&gt;&lt;br&gt;A씨는 경찰 조사에서 “한 달째 교제 중인 B씨와 말다툼을 벌이다 범행을 저질렀다”는 취지로 진술한 것으로 알려졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨를 상대로 자세한 범행 경위를 조사하는 한편, B씨의 시신을 부검해 사인을 밝힐 계획이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘교사와 4억 문항 거래 혐의’ 현우진 “적법한 절차 따라 보수 지급” </title>
       <link>https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2025/12/31/VBMIEMSI5JF6HPQH2C2LZVPLD4/</guid>
@@ -938,37 +972,6 @@
       <description/>
       <pubDate>Wed, 31 Dec 2025 10:09:05 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FIWWN2ZBW2EV7Z2KMSW46TRPEY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울남부지검/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3년 전 만취 상태로 운전을 하다가 건물을 들이받은 음주운전자가 검찰의 보완수사 끝에 불구속 상태로 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;서울남부지검 인권보호부(부장 김종필)은 지난 30일 도로교통법위반(음주운전) 혐의를 받는 A씨를 불구속 기소했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 지난 2022년 7월 9일 혈중알코올농도 0.206%의 만취 상태로 운전을 하다 건물을 들이받은 혐의를 받는다. A씨는 경찰 조사에서 ‘차량 내 집 열쇠를 찾던 중 실수로 가속페달을 밟았다’고 주장했고 당시 경찰은 이를 받아들여 불송치 결정을 내렸다. &lt;br&gt;&lt;br&gt;3년이 지나 최근 사건을 넘겨받은 검찰은 재수사를 요청했고, 경찰은 이번엔 기소 의견으로 사건을 송치했다. 이후 검찰은 직접 폐쇄회로(CC)TV 영상 등 증거에 대한 보완수사를 거쳐 혐의를 입증한 것으로 전해졌다.&lt;br&gt;&lt;br&gt;한편, 서울남부지검 형사6부(부장 이경민)는 하수도 보강 공법을 선정하는 과정에서 특정 업체에 특혜를 주고 뇌물을 받았다는 혐의(부정처사 후 수뢰)로 송치된 전직 서울 시내 A 구청 과장급 공무원에게는 보완수사를 거쳐 지난 30일 무혐의 처분을 내린 바 있다.&lt;br&gt;&lt;br&gt;이 공무원은 2018년 한 업체에 특혜를 준 뒤 이듬해 퇴직하고 약 2000만원을 수수한 혐의로 2023년 검찰에 넘겨졌다. 당시 공법 선정에 관여한 중요 참고인에 대한 조사가 이뤄지지 않아 검찰이 보완수사를 요구했으나 경찰 측에서 조사 없이 기소 의견으로 재송치를 한 것으로 전해졌다. &lt;br&gt;&lt;br&gt;이에 검찰은 보완수사를 통해 직접 주요 참고인을 조사했고, 선정 과정에서 특정 업체에 유리하도록 영향력이 행사되진 않았다는 판단을 내렸다고 한다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “향후에도 철저한 사법통제 역할 및 형사 사건의 실체적 진실 발견이라는 검찰 본연의 업무를 충실히 수행하겠다”고 했다.&lt;br&gt;&lt;br&gt;이 공무원은 2019년 한 업체에 특혜를 주고 2천만원&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>검찰, 구치소서 불법 성기 확대 시술한 MZ 조폭 기소</title>
-      <link>https://www.chosun.com/national/court_law/2025/12/31/5HURL26USBCUXBYK2IZH2IKBLU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2025/12/31/5HURL26USBCUXBYK2IZH2IKBLU/</guid>
-      <dc:creator>박혜연 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 08:44:45 +0000</pubDate>
-      <content:encoded>구치소에서 함께 생활하던 수감 동기에게 강제로 불법 성기 확대 시술을 한 이른바 ‘MZ 조폭’이 재판에 넘겨졌다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/YU3ODIX5DBOQVMTBXZVE3LOZ2I.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난 11월 19일 서울 서초구 서울중앙지검의 검찰 로고가 보이고 있다. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울중앙지검 공판4부(부장 정대희)는 31일 폭력행위 등 처벌에 관한 법률·의료법 위반 혐의를 받는 조직폭력배 출신 A(32)씨 등 4명을 불구속 기소했다고 밝혔다. &lt;br&gt;&lt;br&gt;A씨는 특수협박죄 등으로 형이 확정돼 구치소에서 생활하던 중, 같이 지내던 수감 동기 B(27)씨에게 “말을 듣지 않으면 왕따를 시키겠다”며 겁을 주면서 반항을 억압한 것으로 조사됐다. &lt;br&gt;&lt;br&gt;A씨는 함께 지내던 다른 수감 동기들에게 성기 시술 방법을 상세히 알려준 뒤, B씨의 음경에 이물질을 주입하는 방식으로 강제로 성기 확대 시술을 한 혐의를 받는다. 또 다른 수감 동기는 교도관의 감시를 피할 수 있도록 거울로 망을 보며 범행을 도운 혐의를 받는다. 이들의 범행으로 B씨는 음경 농양 등 중한 상해를 입은 것으로 파악됐다.&lt;br&gt;&lt;br&gt;검찰은 B씨가 성기에 약물을 주입했다면서 염증을 호소하며 검찰에 형 집행정지를 신청하자, 그 경위에 의문을 품고 직접 수사에 나섰다. 검찰에 따르면, 사회에서 조직폭력배로 활동한 A씨 등은 폐쇄적인 수용 시설 내에서 위세를 과시하고 지위를 공고히 하기 위해 조직적으로 동료 수용자에게 가혹행위를 한 것으로 조사됐다.&lt;br&gt;&lt;br&gt;검찰 관계자는 “피해자 B씨에게 치료비 지원 등 피해자 보호 조치를 실시했다”며 “수용 시설 내에서 발생한 조직적 폭력과 불법 의료행위에 대해 엄정하게 대응하겠다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘尹 임명’ 저출산위 부위원장도 사의... 靑 “국무회의 참가 말라” 통보하자 결단</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/31/L7FC34LD25H2NO2KHIUB6NLYJM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/31/L7FC34LD25H2NO2KHIUB6NLYJM/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 05:27:22 +0000</pubDate>
-      <content:encoded>&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MQ4TKMRXMJSTKOBXHEZWMNRWME.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;주형환 저출산고령사회위원회 부위원장이 지난 5월 서울 종로구 정부서울청사에서 열린 인구비상대책회의에서 발언을 하는 모습./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;유철환 국민권익위원장이 사퇴한 데 이어 주형환 대통령직속 저출산고령사회위원회(이하 저고위) 부위원장도 사의를 표명한 것으로 확인됐다. 윤석열 정부에서 임명됐던 두 사람은 최근 청와대로부터 “국무회의에 참석하지 말라”는 취지의 통보를 받고 사퇴 압박을 받았다고 한다.&lt;br&gt;&lt;br&gt;31일 저고위 등에 따르면 주 부위원장은 전날 청와대에 사의를 전달한 것으로 알려졌다. 유 위원장이 전날 사의를 표명했다는 사실이 알려진 이후 주 부위원장도 거취에 대한 결단을 내린 것으로 해석된다.&lt;br&gt;&lt;br&gt;주 부위원장의 임기는 내년 2월까지였다. 윤석열 정부는 기획재정부 1차관과 산업통상부 장관을 지낸 정통 관료 출신인 주 부위원장을 임명한 이후 그를 국무회의에 참석시켰다. 원래 국무회의 참석 대상이 아니었던 저고위 부위원장을 국무회의에 참석시키면서 윤석열 정부가 인구 문제에 그만큼 관심이 많다는 뜻으로 해석됐다.&lt;br&gt;&lt;br&gt;다만 주 부위원장은 이달 초 청와대로부터 ‘국무회의 참석 대상이 아니다’라는 취지의 통보를 받았다. 이후 지난 9일 국무회의부터 불참해 왔다. 같은 통보를 받은 것으로 알려진 유철환 위원장이 30일 사의 표명을 했고, 이재명 대통령은 이날 오후 재가했다. 청와대 관계자는 “장관 등 필참자 외에는 논의 사안 등을 고려해 국무회의 유동적으로 배석자가 결정된다”며 “권익위원장은 필참자가 아니기 때문에 안건 등에 따라 배석 여부가 결정된다”고 설명했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-      <media:content url="https://www.chosun.com/resizer/v2/MQ4TKMRXMJSTKOBXHEZWMNRWME.jpg?auth=86d3ed03efa1ad0af018af48974185a211d399d2837147840298140b570a5f7f&amp;smart=true&amp;width=4501&amp;height=3095" type="image/jpeg" height="3095" width="4501">
-        <media:description type="plain">주형환 저출산고령사회위원회 부위원장이 지난 5월 서울 종로구 정부서울청사에서 열린 인구비상대책회의에서 발언을 하는 모습./뉴스1</media:description>
-        <media:credit role="author" scheme="urn:ebu">·</media:credit>
-      </media:content>
-    </item>
-    <item>
-      <title>국가검진에서 실시하던 가슴 X선 검사, 2027년부터는 50세 이상에게만 실시</title>
-      <link>https://www.chosun.com/national/welfare-medical/2025/12/31/ZWAZUYTVBBF5XKVY6SN7RRJ63Y/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2025/12/31/ZWAZUYTVBBF5XKVY6SN7RRJ63Y/</guid>
-      <dc:creator>조성호 기자</dc:creator>
-      <description/>
-      <pubDate>Wed, 31 Dec 2025 03:56:54 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/7WYKKZGMGIJHEHJDF5JSLI6VWM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;의료진이 흉부 엑스레이 영상을 판독하고 있는 모습./서울대병원&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;20세 이상 국민이 국가건강검진을 받을 때 기본적으로 실시했던 흉부 방사선(X선) 검사의 대상이 2027년부턴 50세 이상으로 대폭 축소된다. 그간 폐결핵을 찾기 위해 해오던 흉부 X선 검사이지만 젊은 층에서는 발견율이 크게 떨어져 비용 대비 효용이 떨어진다는 지적이 나온 데 따른 것이다.&lt;br&gt;&lt;br&gt;보건복지부는 국가건강검진위원회를 열고 이런 내용의 ‘국가건강검진 흉부 방사선 검사 개선 방안’을 심의했다고 31일 밝혔다.&lt;br&gt;&lt;br&gt;그간 국가건강검진에서의 흉부 X선 검사의 목적은 폐결핵 발견이었다. 그러나 현재 한국의 폐결핵 유병률(성인 인구 중 환자 비율)이 0.04%에 불과하고 ‘검진으로 인한 이득’과 ‘비용 효과성’ 등 주요 국가건강검진 원칙을 충족하지 못해 검사 효과 대비 비용이 크다는 지적이 제기됐다. 실제 2023년 국가건강검진에서 폐결핵 발견율은 0.03%에 불과했는데, 검진 비용은 1426억원으로 전체 검진 비용의 21%에 달하기도 했다.&lt;br&gt;&lt;br&gt;이에 따라 복지부는 현재 20세 이상 전 국민을 대상으로 하는 흉부 엑스레이 검사를 위험도가 높고 상대적으로 유병률이 높은 50세 이상을 대상으로 실시하기로 했다. 다만 20~49세에서도 고위험 직업군에 종사한다면 한시적으로 검사를 지원하기로 했다. 고위험 직업군은 감염병 관리 취약 사업장 근무 직종과 호흡기 유해인자 취급 직종 등 70개다.&lt;br&gt;&lt;br&gt;이번 개편 사항은 2027년 국가건강검진부터 반영된다. 검진 대상자 데이터 구축과 관련 고시 개정 등을 위해 1년의 준비과정이 필요하다는 설명이다.&lt;br&gt;&lt;br&gt;이형훈 복지부 2차관은 “앞으로도 의학·과학적 근거에 기반해 검진 항목의 타당성을 주기적으로 검토하고 국민 건강관리에 더 효과적인 검진체계를 만들겠다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>태클 안돼! 보디 체크 금지!...지구촌 곳곳 사로잡은 신종 스포츠 </title>
