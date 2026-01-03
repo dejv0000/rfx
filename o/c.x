@@ -13,6 +13,96 @@
       <link>https://www.chosun.com</link>
     </image>
     <item>
+      <title>‘권장량 4배’…트럼프, 아스피린 고용량 복용법 논란</title>
+      <link>https://www.chosun.com/national/welfare-medical/2026/01/03/OA7EFXEKMJB6HA6DCM4GJZRHPQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/03/OA7EFXEKMJB6HA6DCM4GJZRHPQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 02:40:03 +0000</pubDate>
+      <content:encoded>도널드 트럼프 미국 대통령이 최근 20년 넘게 매일 325㎎의 아스피린을 복용해 왔다고 밝힌 가운데, 의료계에선 “이 복용법을 계속하다간 오히려 부작용이 생길 수 있다”는 우려가 커지고 있다. 특히 고령자에겐 아스피린을 고용량으로 복용하는 것이 더욱 위험하다는 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TAU4VNYXVBHE5HJOBGRTYS3IVU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;도널드 트럼프 미국 대통령이 작년 12월 2일 워싱턴DC 백악관에서 열린 국무회의 도중 오른손 두 손가락을 관자놀이에 댄 채 눈을 감고 있다. 이날 트럼프는 각료들의 보고가 이어질 때마다 눈을 감은 채 10~15초간 움직이지 않으면서 건강 이상설에 불을 붙였다. /AFP 연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;2일(현지 시각) 뉴욕타임스(NYT)에 따르면, 트럼프 대통령은 언론 인터뷰에서 20년 넘게 매일 325㎎의 아스피린을 복용하고 있다고 밝혔다. 심장마비와 뇌졸중을 일으킬 수 있는 혈전 형성을 예방하기 위한 목적이라는 설명이다. &lt;br&gt;&lt;br&gt;그러나 325㎎은 통상 심혈관 질환 예방에 쓰이는 저용량 아스피린(81㎎)의 네 배에 해당하는 고용량으로, 의료계에선 부작용이 나타날 수 있다는 지적이 나온다. 최근 연구 결과 중에선 아스피린이 심장병 병력이 없는 사람들에게 출혈이나 암 등 부작용에 따른 사망 위험을 높일 수 있다는 결과도 있다는 것이다.&lt;br&gt;&lt;br&gt;아스피린은 혈소판이 서로 달라붙는 것을 억제해 혈전 생성을 줄이는 항혈소판제다. 혈전이 심장이나 뇌혈관을 막으면 심근경색이나 뇌졸중으로 이어질 수 있기 때문에, 이미 심혈관 질환 병력이 있는 환자에게는 재발을 막기 위한 약물로 사용돼 왔다. &lt;br&gt;&lt;br&gt;문제는 병력이 없는 일반 성인이 아스피린을 장기간 복용할 경우, 혈소판 작용을 억제하는 아스피린의 효과 때문에 내부 출혈 위험이 더 커질 수 있다는 점이다. 미국심장학회(ACC)와 미국심장협회(AHA) 등 의료단체들은 심장마비나 뇌졸중 병력이 없는 고령자가 예방을 목적으로 아스피린 복용을 시작하거나 정기 복용하는 것을 권고하지 않는다. 고령자는 혈관이 약하기 때문에 출혈 위험이 더욱 높다는 것이다.&lt;br&gt;&lt;br&gt;트럼프 대통령의 경우 80세의 고령이면서 심근경색이나 뇌졸중 병력이 없는 것으로 알려져 있지만, 오히려 고용량으로 복용을 이어가고 있는 것이다.&lt;br&gt;&lt;br&gt;최근 트럼프 대통령은 아스피린 부작용 탓에 건강 이상설에 휘말리기도 했다. 오른손등에 큰 멍 자국이 포착된 것이다. 일각에서 ‘비타민 결핍’ 등 다양한 추측이 제기되자 백악관은 ‘아스피린 복용’ 때문이라고 설명했다. 아스피린의 대표적인 부작용은 내부 출혈과 멍이 쉽게 드는 현상이다. &lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>새벽 아파트서 방화 추정 화재… 주민 80명 대피, 3명 병원 이송</title>
+      <link>https://www.chosun.com/national/regional/2026/01/03/K3PTYCP5TNHPLLELFFDDNONJA4/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/regional/2026/01/03/K3PTYCP5TNHPLLELFFDDNONJA4/</guid>
+      <dc:creator>광주광역시=조홍복 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 02:10:37 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/3TOQ3PXDS5CGHJW6SHHR5V23S4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;광주광역시 한 아파트에서 방화로 추정되는 불이 나 경찰이 수사에 나섰다.&lt;br&gt;&lt;br&gt;3일 광주 북부경찰서 등에 따르면, 이날 오전 4시 1분쯤 광주 북구 운암동 아파트 5층 한 가구에서 불이 났다. 60대 부부와 친인척 50대 A씨 등 3명이 화상을 입거나 연기를 마셔 인근 병원으로 옮겨져 치료받고 있다.&lt;br&gt;&lt;br&gt;또 아파트 입주민 80명이 긴급 대피했고, 5명이 단순 연기 흡입으로 현장에서 처치를 받았다. 세대 안을 모두 태운 불은 소방 당국에 의해 1시간여 만에 모두 꺼졌다.&lt;br&gt;&lt;br&gt;경찰은 A씨가 라이터를 이용해 불을 질렀다는 주민 진술을 토대로 방화에 무게를 두고 정확한 경위 등을 조사하고 있다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>정승제, 현우진·조정식 여파? 인터뷰 돌연 취소...“개인 사정”</title>
+      <link>https://www.chosun.com/national/people/2026/01/03/52WQEYDRRNFBHPR7YRM42JKHUY/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/03/52WQEYDRRNFBHPR7YRM42JKHUY/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 02:09:11 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XW5JSD5A5FNMFAHQGCJKUWCZXM.JPG"&gt;&lt;figcaption&gt;&lt;small&gt;수학강사 정승제./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;수학 일타 강사 정승제가 6일 예정됐던 언론 인터뷰를 돌연 취소했다.&lt;br&gt;&lt;br&gt;티캐스트 E채널 &amp;lt;인생 때려잡기: 정승제 하숙집&amp;gt;은 2일 “정승제의 부득이한 개인 사정으로 6일 인터뷰를 취소하게 됐다. 너른 양해 부탁드린다”고 밝혔다. 정승제는 당초 프로그램 홍보를 위해 취재진과 만날 예정이었으나, 인터뷰를 나흘 앞두고 취소한 것이다.&lt;br&gt;&lt;br&gt;이 예능은 정승제가 분필 대신 밥주걱을 잡고 ‘어른이 하숙생’들의 인생 고민을 듣고 위로하는 과정을 담았다. 개그맨 정형돈은 ‘하숙집 학생주임’으로, 배우 한선화는 ‘하숙집 살림꾼’으로 출연한다.&lt;br&gt;&lt;br&gt;정승제의 인터뷰 취소는 이번이 두 번째다. 정승제는 영어 일타 강사 조정식과 함께 채널A &amp;lt;성적을 부탁해 티처스&amp;gt;에 출연 중인데, 지난해 6월 조정식의 문항 거래 의혹이 불거졌을 때도 인터뷰를 취소한 바 있다. 당시 인터뷰는 정승제, 조정식 없이 제작진만 참석했다.&lt;br&gt;&lt;br&gt;이 때문에 이번 취소 역시 최근 사교육계 문항 거래 의혹과 연관된 것 아니냐는 관측이 나온다. 지난달 30일 ‘일타 강사’ 현우진과 조정식 등이 현직 교사들에게 금품을 제공한 뒤 문항을 받은 혐의(청탁금지법 위반 등)로 불구속 기소됐다. 이를 두고 정승제가 사교육계 문항 거래 관행 관련 질문이 나올 가능성을 우려해 인터뷰를 피한 것 아니냐는 추측도 나오고 있다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>올겨울 첫 한강 결빙...지난해보다 37일 빨라</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/03/I44IUGXDMVALPMB5METI3YQYFE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/03/I44IUGXDMVALPMB5METI3YQYFE/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 01:28:31 +0000</pubDate>
+      <content:encoded>지난 연말부터 이어진 한파의 영향으로 올겨울 들어 첫 한강 결빙이 관측됐다. 올해 한강 결빙은 평년보다 7일, 지난겨울보다 37일 빠른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/PW3KTUQ2NZAA5NV5YFQN3WEPO4.jpeg"&gt;&lt;figcaption&gt;&lt;small&gt;3일 한강대교 교각 상류 100m 위치에 있는 직사각형 구간이 얼음으로 덮여 있는 모습. 얼음에 강물이 보이지 않는 때를 결빙으로 기록한다./기상청&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 기상청은 최근 차가운 대륙 고기압의 영향으로 추위가 지속되며 이날 올겨울 처음으로 한강이 얼었다고 발표했다. 평균적으로 한강은 1월 10일 무렵 어는데, 올해는 연초부터 맹추위가 몰아치며 이른 시기에 결빙된 것이다. 작년보다는 37일이 빨랐다. 지난해엔 ‘따뜻한 겨울’이 이어지다 늦추위로 인해 2월 9일에서야 한강이 처음 얼었다. &lt;br&gt;&lt;br&gt;한강은 보통 닷새 이상 일 최저기온이 영하 10도 이하에 머무르고 일 최고기온이 영하인 수준의 추위가 나타나면 결빙된다. 한강 결빙 관측은 1906년에 시작됐다. 결빙이 가장 빨랐던 해는 1934년 12월 4일이었고, 관측되지 않은 해도 9차례가 있었다.&lt;br&gt;&lt;br&gt;한강 결빙은 서울 동작구와 용산구를 잇는 한강대교 교각 상류 100m 위치에 설정한 직사각형 구간이 완전히 얼음으로 덮여 강물이 보이지 않는 때를 말한다. 결빙은 관측 담당자가 한강대교가 지나는 노들섬 관측 지점에서 직접 눈으로 확인하고 기록을 남긴다.&lt;br&gt;&lt;br&gt;한강 결빙 관측일은 점점 늦어지는 추세다. 1906년에서 1940년대까지는 평균적으로 12월 20일 전후 시작됐지만, 1960년대 이후엔 12월 말에서 1월 10일 전후 얼고 있다. 최근 10년 사이엔 결빙이 되지 않은 해가 두 차례(2019∙2021년) 있었고, 당일 얼었다가 녹아버려 결빙 일수가 0일인 해도 네 차례(2014∙2016∙2018∙2023년) 있었다. 하지만 올해는 예년보다 일찍 찾아온 한파로 일찍부터 한강이 언 것이다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>14명 사상 ‘종각역 돌진’ 70대 택시기사 긴급체포··· 모르핀 검출 </title>
+      <link>https://www.chosun.com/national/national_general/2026/01/03/G4BEGYC7VFH7DEHJG5UUQWDZGE/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/G4BEGYC7VFH7DEHJG5UUQWDZGE/</guid>
+      <dc:creator>김명진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 01:20:36 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/XYI3WNPGURCTNKAQ3SD7VKKQ5Q.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;2일 오후 6시5분쯤 서울 종로구 종각역 근처 도로에서 70대 운전자가 몰던 택시 1대가 앞서 가던 차량을 추돌한 뒤 횡단보도를 덮쳤다. 119 구조대원 등이 현장을 수습하고 있다./뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;사망자 1명, 부상자 13명이 발생한 서울 지하철 1호선 종각역 차량 돌진 사고를 낸 70대 남성이 3일 경찰에 긴급 체포됐다. 사고를 낸 택시 기사는 간이 시약 검사에서 약물 양성 반응이 나온 것으로 확인됐다.&lt;br&gt;&lt;br&gt;서울경찰청은 이날 오전 3시 15분 택시 기사 A씨를 교통사고처리특례법(치사상) 혐의로 체포했다고 밝혔다.&lt;br&gt;&lt;br&gt;A씨는 전날 오후 6시 5분쯤 전기차 택시를 몰다 알 수 없는 이유로 급가속을 하며 횡단보도 신호등 기둥, 승용차 2대와 잇달아 부딪쳤다.&lt;br&gt;&lt;br&gt;이 사고로 횡단보도 신호를 기다리던 보행자 6명이 택시에 치였고 이 가운데 40대 여성 1명이 숨지는 등 14명의 사상자가 발생했다. &lt;br&gt;&lt;br&gt;A씨는 약물 간이 검사에서 마약성 진통제인 모르핀 성분이 검출됐다. 경찰은 국립과학수사연구원에 정밀 검사를 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>서해 공무원 유족 측 “檢, 항소권력을 특정인 보호하는 데 써”</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/03/D2JVW7MLPVDTTM5ZCGCKVCLVYQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/03/D2JVW7MLPVDTTM5ZCGCKVCLVYQ/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 01:01:26 +0000</pubDate>
+      <content:encoded>‘서해 피살 공무원’ 유족 측 변호인이 “검찰이 항소권이란 권력을 특정 고위 공직자를 보호하는 수단으로 사용했다”고 3일 밝혔다. 전날(2일) 검찰이 ‘서해 공무원 피살 은폐’ 사건의 1심 무죄 판결에 대해 항소하면서 피고인과 혐의를 선별해 ‘부분 항소’한 데 따른 것이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/GBQWEMLEMU4DGMBRMFSDCZBUGE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;'서해 공무원 피살 사건' 은폐 시도 및 '월북 몰이' 혐의로 기소된 서훈 전 국가안보실장(왼쪽부터), 박지원 전 국가정보원장, 서욱 전 국방부 장관. /뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 유족 측 변호를 맡은 김기윤 변호사는 입장문을 통해 “피고인 서훈 및 김홍희에 대해서는 일부 항소가 이뤄졌으나 박지원 전 국가정보원장(현 국회의원)과 서욱 전 국방장관을 포함한 중요 피고인들에 대해서는 무죄 판단이 그대로 확정되는 결과가 초래됐다”며 이같이 밝혔다.&lt;br&gt;&lt;br&gt;김 변호사는 “대통령, 국무총리, 여당 당대표 등 정치권 고위 인사들이 해당 사건의 기소 자체를 공개적으로 비판해 온 상황과 맞물려 검찰의 반쪽짜리 항소는 법리적인 판단이 아닌 정치적 압박에 따른 것으로 볼 수밖에 없다”며 “지난해 9월 국회에서 박지원 의원이 정성호 법무부 장관에게 ‘검찰은 반드시 공소를 취소해야 한다’고 공개적으로 발언한 사실이 있는데, 이번 항소에서 박 의원이 제외된 것이 법리적 판단에 따른 것인지, 아니면 정치적 압박에 의한 것인지 검찰 스스로가 답해야 한다”고 말했다.&lt;br&gt;&lt;br&gt;그는 특히 “형사소송법에서 민사소송과 달리 고소인이나 피해자에게 항소권을 부여하지 않고 검사에게만 항소권을 부여한 이유는 검사가 공익의 대표자로서 형벌권 행사의 적정성을 판단할 것이라고 신뢰하기 때문”이라며 “이번 반쪽짜리 항소는 검사가 과연 형사소송법상 공익의 대표자로서의 역할을 충실히 수행하고 있는지 중대한 의문을 낳는다”고 했다.&lt;br&gt;&lt;br&gt;전날 서울중앙지검은 ‘서해 공무원 피살 은폐’ 사건의 피고인 5명 중 서훈 전 청와대 국가안보실장, 김홍희 전 해양경찰청장 등 2명에 대해서만 항소했다. 서해 공무원에 대한 ‘월북 몰이’ 관련 서훈·김홍희 두 사람의 허위 공문서 작성·행사, 명예훼손 등 혐의에 대해서만 항소한 것이다. 이에 따라 2020년 9월 해양수산부 공무원이 서해에서 북한군에 피살·소각된 사실을 은폐하기 위해 국정원과 국방부 첩보를 삭제하도록 지시한 혐의로 기소된 박지원 전 원장, 서욱 전 장관, 노은채 전 국정원장 비서실장은 무죄가 확정됐다.&lt;br&gt;&lt;br&gt;검찰은 지난 2022년 12월 서훈 전 실장 등 5명을 기소했으나, 1심 재판을 맡은 서울중앙지법은 지난달 26일 “증거가 부족하다”며 5명 모두에게 무죄를 선고했다. 이에 이재명 대통령과 김민석 국무총리 등이 1심 무죄 판결 직후 “조작 기소”라며 사실상 항소 포기를 압박했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>‘1분 빨랐던 수능벨’ 사건…수험생 배상액 2심서 200만원 늘어</title>
+      <link>https://www.chosun.com/national/court_law/2026/01/03/ZR4TG6C4YFGELMJEG5WZXFIDAM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/03/ZR4TG6C4YFGELMJEG5WZXFIDAM/</guid>
+      <dc:creator>김희래 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 00:25:55 +0000</pubDate>
+      <content:encoded>2024학년도 대학수학능력시험 당시 시험 종료를 알리는 고사장 벨이 1분 일찍 울린 사고와 관련해 국가가 수험생들에게 지급해야 하는 손해배상액이 항소심에서 200만원 늘었다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/UDLCGLHLIZIBLP5GWKOCM5ZARE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울고등법원. /뉴시스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 법조계에 따르면, 서울고법 민사14-1부(남양우 홍성욱 채동수 고법판사)는 2023년 겨울 당시 서울 성북구 경동고에서 수능시험을 치른 수험생 42명이 국가를 상대로 낸 손해배상 청구 소송에서 국가가 수험생들에게 1심보다 200만원을 추가 지급하라고 최근 판결했다.&lt;br&gt;&lt;br&gt;지난해 3월 1심 재판부가 인정한 배상액은 수험생 1인당 100만~300만원이었는데, 2심 판결로 1인당 배상액은 300만~500만원으로 늘었다. &lt;br&gt;&lt;br&gt;재판부는 “대학수학능력시험의 중요성, 당시 원고들의 연령 등에 비춰봤을 때 이 사건 불법행위로 인해 원고들이 겪은 혼란은 상당히 컸을 것으로 보인다”고 했다. 다만 재판부는 “제출한 증거만으로는 이 사건으로 원하던 대학에 진학하지 못해 재수 등을 하게 됐다는 것과 같은 구체적인 추가 손해가 발생했다고 인정하기는 어렵다”고 판단했다. &lt;br&gt;&lt;br&gt;앞서 2023년 11월 16일 경동고에서 치러진 수능 1교시 국어 시간 때 시험 종료 벨이 1분 일찍 울리는 사고가 발생했다. 경동고는 수동 타종 시스템을 쓰고 있었는데, 경동고 담당 감독관이 시간을 오인해 벌어진 일이었다. &lt;br&gt;&lt;br&gt;당시 경동고 측은 2교시 후 다시 국어 시험지를 배부해 1분 30초 동안 답안지에 답을 옮겨 적을 시간을 추가로 제공했다. 이에 1심은 손해배상을 청구한 수험생 43명 중 41명에게는 300만원, 2명에게는 100만원을 배상액으로 인정했고, 2심에서는 항소한 42명의 수험생에 대한 배상액을 늘렸다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>한파 주춤한 일요일…낮 최고기온 10도까지 올라</title>
+      <link>https://www.chosun.com/national/transport-environment/2026/01/03/LFADA3QYFBC33F67EQLPQMXTNQ/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/03/LFADA3QYFBC33F67EQLPQMXTNQ/</guid>
+      <dc:creator>윤상진 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 00:25:03 +0000</pubDate>
+      <content:encoded>연말·연초 맹추위가 이어지는 가운데, 일요일인 4일에는 추운 날씨가 한층 누그러지며 낮 최고기온이 10도까지 오르겠다. 전국 아침 최저기온은 영하 10도~영상 2도, 낮 최고기온은 1∼10도로 예보됐다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/MJTGGMLEGJSTENLCMY2DKNRSGM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;/뉴스1&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;3일 기상청에 따르면, 일요일 오후부터 찬바람이 그치며 날이 차츰 풀리겠고, 다음 주(5∼11일)에는 기온이 평년 수준으로 회복될 전망이다. 하지만 1월 초중순은 1년 중 가장 추운 시기라 기온이 오르더라도 아침엔 영하권 날씨가 이어지겠다.&lt;br&gt;&lt;br&gt;4일 전국은 대체로 흐리다가 오후부터 수도권과 강원도에서 차차 맑아지겠다. 충남 서해안에는 비나 눈이 내리겠고, 경기 남부 서해안 지역과 전북에는 0.1㎝ 미만의 눈발이 날리겠다. 예상 적설량은 충남 서해안 1㎝ 미만이다.&lt;br&gt;&lt;br&gt;미세먼지는 서울·경기 남부를 비롯한 중부권 일부 지역이 ‘나쁨’, 그 밖의 지역은 ‘좋음’∼‘보통’으로 예보됐다.&lt;br&gt;&lt;br&gt;4일까지 강원 산지와 동해안엔 순간풍속 55㎞/h 안팎의 강풍이 불겠다. 당분간 동해안 지역엔 너울에 의한 높은 물결이 백사장에 강하게 밀려오거나 방파제를 넘는 곳이 있겠으니, 시설물 관리와 해안가 안전사고에 유의해야 한다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“면허 반납하면 줄었다”...10년 새 급증한 고령자 사고 해법은</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/03/BYVXWQZWZJDIPPXGVBEH4D6QQI/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/BYVXWQZWZJDIPPXGVBEH4D6QQI/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Sat, 03 Jan 2026 00:22:59 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/TCGOOAJ4VFGYFJUVTCLVLZO5PM.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;대전 동구 도로교통공단 대전운전면허시험장 강의실에서 75세 이상 운전자들이 ‘고령 운전자 교통안전교육’을 받고 있다. /신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;고령화로 65세 이상 고령 운전자가 유발한 교통사고가 늘어나는 가운데, 고령자 운전면허 자진 반납이 사고 감소에 효과가 있다는 분석이 나왔다.&lt;br&gt;&lt;br&gt;3일 서울연구원이 최근 발간한 연구 보고서 ‘고령 운전자 운전면허 자진 반납 지원 사업의 효과 분석과 발전 방안’에 따르면, 서울에서 고령 운전자가 유발한 교통사고는 2015년 4158건으로 전체의 9.9%였으나 2024년에는 7275건으로 21.7%를 차지했다.&lt;br&gt;&lt;br&gt;고령자 운전면허 소지자도 크게 늘었다. 2015년 49만명이던 고령자 운전면허 소지자는 2024년 95만명으로 두 배 가까이 급증했다. 2015년 가장 많은 교통사고를 유발한 연령대는 50대(1만559건)였지만, 2024년에는 60대(7663건)가 가장 많았다.&lt;br&gt;&lt;br&gt;고령자 사고 증가는 단순히 고령 운전자가 늘어난 데 그치지 않았다. 고령 운전자는 평균적으로 더 많은 사고를 냈고, 사망자가 발생하는 심각한 사고 비율도 높았다. 면허 소지자 수 대비 교통사고 발생 건수를 의미하는 사고율은 2024년 고령자가 0.77%로 비고령자 0.47%보다 65%가량 높았다.&lt;br&gt;&lt;br&gt;치사율도 차이가 났다. 교통사고 100건당 사망자 수를 뜻하는 치사율은 2024년 고령자 0.91명, 비고령자 0.57명이었다. 2015년 서울 전체 교통사고 사망자 375명 중 고령자 교통사고 사망자는 62명(16.3%)이었는데, 2024년에는 전체 사망자가 212명으로 줄었음에도 고령자 교통사고 사망자는 66명으로 비중이 30%까지 뛰었다.&lt;br&gt;&lt;br&gt;서울시는 고령자가 면허를 자진 반납하도록 유도하는 정책을 2019년부터 운영해 왔으며, 2024년까지 누적 12만2135명이 면허를 반납했다. 연구원은 정책 시행 전후 효과를 준 이중차분모형(Quasi-DID)으로 분석한 결과, 서울에서 면허를 반납한 고령자의 비율이 높은 지역일수록 다른 지역보다 고령자 사고율이 낮았다고 밝혔다.&lt;br&gt;&lt;br&gt;구체적으로 면허 반납 비율이 1%포인트 늘어나면 고령자의 사고율이 평균 0.02142%포인트 감소했다. 이를 2024년 고령자 면허 소지자 94만9000명에 적용하면 총 203건의 고령자 유발 사고가 줄어드는 효과가 있다는 결론이 나왔다.&lt;br&gt;&lt;br&gt;연구원은 “면허 반납 제도가 단순한 고령자 복지 정책이 아니라 교통사고 예방 중심의 실질적 정책 수단으로 작동하고 있음을 의미한다”며 “반납 정책이 고령자 교통사고 저감에 명확한 정량적 효과를 갖는 것으로 평가된다”고 밝혔다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
+      <title>“황당할 정도로 티 난다”...장애인 주차구역 손그림 표지 논란</title>
+      <link>https://www.chosun.com/national/national_general/2026/01/03/IYSVXKRU3ZDSVAJVT3J23YVSRM/</link>
+      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/03/IYSVXKRU3ZDSVAJVT3J23YVSRM/</guid>
+      <dc:creator>정아임 기자</dc:creator>
+      <description/>
+      <pubDate>Fri, 02 Jan 2026 23:24:16 +0000</pubDate>
+      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/73JLHZTXPVER7IIDBF27LMO5RY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;한 운전자가 그린 장애인 사용 자동차 표지./보배드림&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;장애인 전용 주차 구역에 주차하기 위해 ‘장애인 사용 자동차 표지’를 직접 그려 차량에 붙인 운전자의 모습이 포착돼 논란이 되고 있다.&lt;br&gt;&lt;br&gt;지난달 31일 한 온라인 커뮤니티에는 ‘장애인 표지 그려서 사용한 자의 최후’라는 제목의 글이 올라왔다. 제보자가 공개한 사진에는 흰색 종이에 직접 그린 듯한 장애인 표시와 ‘장애인 차량’이라는 문구가 적힌 종이가 차량 앞 유리에 부착돼 있었다.&lt;br&gt;&lt;br&gt;‘장애인 사용 자동차 표지’는 관할 주민센터에서만 발급받을 수 있으며, 위조할 경우 처벌 대상이 된다. 그럼에도 해당 운전자는 표지를 직접 만들어 붙인 것으로 드러났다. 제보자는 “엉성하게 자른 종이에 그림을 대충 그려 붙여놨더라”며 “4~5번 신고했지만, 차주는 ‘장애인 차량 맞다. 신고해도 상관없다’며 당당했다”고 전했다.&lt;br&gt;&lt;br&gt;이를 본 네티즌들은 “너무 어이가 없어서 장난인지 진심인지 구별도 안 된다” “신용카드도 그려서 사용할 사람이다” “초등학생 그림 같다” 등의 반응을 보였다.&lt;br&gt;&lt;br&gt;현행법상 장애인 전용 주차 구역에 불법 주차할 경우 과태료 10만원이 부과된다. 또 장애인 자동차 표지를 위·변조하거나 부정 사용하면 최대 200만원의 벌금형에 처해질 수 있다. 실제로 지난해 6월 경남 진주경찰서는 장애인 전용 주차 구역 불법행위 특별 단속을 벌여 장애인 표지를 부정 사용한 혐의로 40대 남성 등 34명을 적발해 과태료 처분을 의뢰했다.&lt;br&gt;&lt;br&gt;</content:encoded>
+    </item>
+    <item>
       <title>[아무튼, 주말]#샘터55년만의쉼표#골드러시어디까지해봤니</title>
       <link>https://www.chosun.com/national/weekend/2026/01/03/72WER3OVE5BCPBG2FAS7KMYFMM/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/weekend/2026/01/03/72WER3OVE5BCPBG2FAS7KMYFMM/</guid>
@@ -711,15 +801,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/RWO3EZLI6RKFDKJUPE5NZEHGHU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;오세훈 서울시장이 지난 1일 서울 여의도 국민의힘 중앙당사에서 열린 신년 인사회에서 인사말을 하고 있다. /연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;서울시민을 대상으로 한 여론조사에서 오세훈 서울시장의 시 운영에 대한 부정 평가가 높은 것으로 조사됐다. 그러면서도 6·3 지방선거에서 이재명 정부 견제를 위해 야당 후보가 많이 당선돼야 한다고 답한 서울시민이 여당 후보가 당선돼야 한다고 답한 시민보다 조금 더 많은 것으로 나타났다.&lt;br&gt;&lt;br&gt;뉴스1이 여론조사 업체 엠브레인퍼블릭에 의뢰해 지난달 26~27일 서울시에 사는 18세 이상 803명을 대상으로 조사한 결과에 따르면, 오 시장의 시 운영을 부정적으로 평가한 응답자는 57%로, 긍정 평가한 응답자 33%보다 24%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 10%였다.&lt;br&gt;&lt;br&gt;오 시장이 추진하는 한강버스 사업과 종묘 주변 재개발 계획에 대해서도 반대 여론이 각각 67%, 63%에 달했다.&lt;br&gt;&lt;br&gt;그러나 6·3 지방선거에서 ‘현 정부를 견제하기 위해 야당 후보가 많이 당선돼야 한다’는 응답자는 47%로, ‘현 정부를 지원하기 위해 여당 후보가 많이 당선돼야 한다’는 응답자 45%보다 2%포인트 많았다. 잘 모르겠다고 답하거나 아예 답하지 않은 사람은 8%였다.&lt;br&gt;&lt;br&gt;지역별로 보면, 정부 지원론은 서울 25개 자치구 가운데 성동·광진·동대문·중랑·성북·강북·도봉·노원 등 8구에서 우세했다. 나머지 17구에서는 정부 견제론이 앞섰다.&lt;br&gt;&lt;br&gt;연령별로 보면, 40·50대에서는 정부 지원론이, 나머지 연령대에서는 정부 견제론이 우세했다. 40대는 57%가 여당 후보, 37%가 야당 후보가 많이 당선돼야 한다고 답했다. 50대는 62%가 여당 후보, 35%가 야당 후보가 많이 당선돼야 한다고 했다. 60대에서는 51%가 야당 후보를, 48%가 여당 후보를 지지해 야당 후보 지지가 3%포인트 많았다. 30대에서는 48%가 야당, 42%가 여당을 지지해 6%포인트 차이가 났다. 10·20대는 51%가 야당 당선, 35%가 여당 당선을 기대해 16%포인트 차이가 났다. 70대 이상에서는 64%가 야당 후보가 많이 당선돼야 한다고 답해, 여당 후보가 많이 당선돼야 한다는 응답자 24%보다 40%포인트 많았다.&lt;br&gt;&lt;br&gt;이번 조사는 지난달 26~27일 이틀간 서울시에 사는 18세 이상 803명을 대상으로 무선 전화 인터뷰 방식으로 진행됐다. 응답률은 10.1%, 표본 오차는 95% 신뢰 수준에서 ±3.5%포인트였다. 자세한 사항은 중앙선거여론조사심의위원회 홈페이지를 참조하면 된다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>[단독] 법원 “수사 필요성 이유로 무작정 ‘출국 금지’ 연장하면 안 돼”</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/02/YSKFCKWVRNHNPKA56NC6XO4UMU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/YSKFCKWVRNHNPKA56NC6XO4UMU/</guid>
-      <dc:creator>이민준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 20:00:00 +0000</pubDate>
-      <content:encoded>한국과 미국을 오가며 회사를 운영 중인 30대 중반의 사업가 최모씨는 지난 2024년 10월 출국하려다 공항에서 발길을 돌려야 했다. 가상화폐 사기 사건을 수사하던 검찰이 최씨가 연루됐다고 보고 출국 금지 조치를 해놨기 때문이다.&lt;br&gt;&lt;br&gt;검찰이 이 사건 수사를 시작한 것은 그해 6월. 대검찰청이 최씨가 가상화폐 플랫폼을 만든다고 속여 투자자들에게 170억원을 가로챘다는 수사 첩보를 서울남부지검에 보냈고, 남부지검은 3개월 뒤 최씨를 출국 금지 조치했다. 이후 검찰은 최씨를 참고인으로 두 차례 조사한 뒤, 1년 넘게 출국 금지 상태를 유지했다. 현행법에서 수사 중일 때 출국 금지 기간은 최장 1개월인데, 수사 필요에 따라 매달 연장할 수 있도록 돼 있다.&lt;br&gt;&lt;br&gt;미국 영주권자인 최씨는 1년 이상 해외에 머물 경우 영주권이 박탈될 수 있는 데다 미국에서 회사 2곳을 운영하고 있어 피해가 막대한 상황이었다. 이에 최씨는 지난해 2월 법무장관을 상대로 출국 금지 처분 취소 소송을 냈고, 법원은 “헌법상 기본권을 심각하게 침해한다”며 최씨의 손을 들어줬다. 수사기관의 무분별한 출국 금지 조치에 제동을 건 것이다.&lt;br&gt;&lt;br&gt;서울고법 행정1-2부(재판장 차문호)는 지난해 10월 말 최씨에 대한 법무부의 출국 금지 연장은 위법하다고 판결했다. 재판부는 “(검찰이) 조사 종료 시기를 예정하거나 조사 일정을 제시하지도 않으면서 언제가 될지도 모르는 조사 종료 시까지 장기간 출국 금지를 유지하는 것은 헌법상 보장되는 자유를 현저하게 침해한다”고 판시했다. 재판부는 또 “최씨는 1년 넘는 출국 금지로 헌법상 기본권을 심각하게 침해받고, 사업 운영에도 어려움을 겪고 있을 것으로 예상된다”며 “출국의 자유는 헌법이 기본권으로 보장한 거주·이전의 자유에 해당해 그 제한은 필요 최소한에 그쳐야 한다”고 했다. 앞서 1심이 출입국관리법을 근거로 “장기간 수사가 필요하다면 출국 금지 기간을 연장할 수 있다”고 한 판단을 뒤집은 것이다. 이 판결은 법무부가 상고를 포기하면서 최근 확정됐다.&lt;br&gt;&lt;br&gt;이처럼 무작정 ‘발 묶기’식의 출국 금지는 지난해 3대 특검 수사 때도 여러 차례 논란이 됐다. 반년 동안 출국이 금지됐던 원희룡 전 국토교통부 장관이 대표적이다. 김건희 특검은 ‘서울~양평 고속도로 노선 변경 특혜’ 의혹과 관련해 작년 7월 수사 착수 직후 원 전 장관을 출국 금지한 뒤 5차례나 출국 금지를 연장했다. 하지만 지난달 28일 수사를 종료할 때까지 원 전 장관을 소환 한 번 하지 않고 사건을 경찰에 넘겼다. &lt;br&gt;&lt;br&gt;해병 특검은 한동훈 전 국민의힘 대표가 이종섭 전 국방장관의 ‘주(駐)호주 대사 임명 도피’ 의혹에 관여했는지 확인해야 한다며 3개월간 그를 출국 금지했으나, 조사 한 번 하지 않고 ‘무혐의’ 처분으로 종결했다. 서초동의 한 변호사는 “경영 실패로 배임 혐의로 수사받던 기업 대표가 검찰의 출국 금지 때문에 해외 기업의 인수 제안 미팅에 참석하지 못했다”며 “검찰에 출장 일정을 설명했는데도 출국 금지를 풀어주지 않아 계약이 물거품이 된 일도 있다”고 했다. &lt;br&gt;&lt;br&gt;법조계에선 “수사기관의 출국 금지 남발을 견제할 장치를 마련해야 한다”는 말이 나온다. 차장검사 출신 김종민 변호사는 “출국 금지는 검찰·경찰이 요청하면 무조건 받아들여지는 분위기”라며 “대상자가 무혐의를 받더라도 수사기관은 아무런 책임을 지지 않으니까 수사의 편의를 위해 출국부터 금지하고 보는 것”이라고 했다. 부장판사 출신 함석천 변호사는 “3개월 이상 출국 금지를 연장할 때 법원의 심문을 받도록 하는 방안을 검토해볼 만하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>[단독] 눈이 사라진다... ‘無雪 지역’ 남부→중부 빠르게 북상</title>
       <link>https://www.chosun.com/national/transport-environment/2026/01/02/325FWGGXMFCRTEVRMLVEXGEBGY/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/02/325FWGGXMFCRTEVRMLVEXGEBGY/</guid>
@@ -768,43 +849,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <content:encoded>지난 31일 오후 강원 춘천 엘리시안 강촌 스키장. 본격적인 스키 시즌인데도 길이 460m 상급자 코스는 바리케이드가 쳐져 있어 이용이 불가능했다. 슬로프엔 아직 눈이 다 쌓이지 않아 군데군데 갈색 풀이 드러나 있었다. 이 코스는 보통 크리스마스 무렵이면 이용할 수 있었지만, 이번에 처음으로 해를 넘겨 운영을 시작할 계획이다. 올겨울 눈이 거의 내리지 않은 데다, 따뜻한 날씨가 이어지며 인공 눈을 깔기도 어려웠기 때문이다. &lt;br&gt;&lt;br&gt;다른 스키장도 사정은 비슷하다. 전북 무주 덕유산 리조트 스키장은 5년 전부터 슬로프 운영 면(面) 수를 23면에서 18면으로 줄였다. 추운 날씨가 짧아지면서 인공 눈을 만들기 어려워지자, 이용객이 적은 코스부터 운영을 중단한 것이다. 올해는 슬로프 개장 속도가 더 늦어져, 지난 시즌보다 2~3면을 적게 열고 있다고 한다.&lt;br&gt;&lt;br&gt;‘따뜻한 겨울’이 일상이 되면서 눈과 추운 날씨가 필수적인 스키장은 존폐 위기에 몰렸다. 겨울에도 영상으로 기온이 올라가는 시간이 늘어나면서 해마다 스키장 개장은 늦어지고, 눈을 유지하는 데 드는 비용도 크게 늘고 있다. 한국스키장경영협회에 따르면 10년 전만 해도 전국 스키장의 평균 영업 일수는 100일 안팎, 길게는 140일까지 운영됐다. 그러나 지난해 대부분 스키장은 80~90일만 문을 열었다. 10년 새 평균 영업 일수가 약 15% 줄어든 것이다.&lt;br&gt;&lt;br&gt;또 다른 문제는 낮 동안 눈이 녹는 경우가 늘면서 인공 눈을 다시 깔아야 하는 날이 많아졌다는 점이다. 이렇게 되면 눈 관리 비용이 크게 늘어날 뿐만 아니라 설질(雪質)도 나빠진다. 녹았다 얼기를 반복한 눈은 밀가루처럼 고운 눈이 아니라, 설탕처럼 까칠하고 딱딱한 얼음 알갱이로 변한다. 한 스키업계 관계자는 “최근 겨울 날씨가 따뜻해지면서 10년 전보다 눈 관리 비용이 30% 정도 늘었다”며 “눈이 쉽게 녹으면서 ‘눈 상태가 왜 이렇느냐’는 고객 불만도 조금씩 늘어나는 추세”라고 했다.&lt;br&gt;&lt;br&gt;강원 지역을 대표하는 겨울 축제도 기후 변화 앞에 멈춰 서고 있다. 인제군은 최근 ‘인제 빙어축제’를 취소했다. 겨울 기온이 높아 호수가 충분히 두껍게 얼지 않았기 때문이다. 1998년부터 이어져 온 이 축제는 최근 3년 연속 취소돼 지역 경제도 침체되고 있다. &lt;br&gt;&lt;br&gt;평창군도 행사장 얼음이 충분히 얼지 않았다는 이유로 1일 개막 예정이던 ‘평창 송어축제’를 9일로 연기했다. 평창군 관계자는 “장기적으로는 얼음 위 낚시 대신 수상 낚시 축제로 전환하거나, 아예 다른 형태의 축제를 만드는 방안도 검토하고 있다”고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>팔로어만 30억명… 56국 인플루언서 서울 총출동</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/U4F44QC6S5FO5JUQPNNG7OJZ4M/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/U4F44QC6S5FO5JUQPNNG7OJZ4M/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:50:00 +0000</pubDate>
-      <content:encoded>“서울에서 K뷰티를 완전히 누리고 있어요(I am fully enjoying K beauty stuff here)!”&lt;br&gt;&lt;br&gt;지난 31일 우즈베키스탄에서 온 뷰티 인플루언서 ‘사이다’는 자신의 인스타그램에 한국 화장품 수십 개를 늘어놓은 1분 분량의 짧은 영상(숏츠)을 올렸다. 영상에서 그는 화장품을 하나하나 들어 보이며 “색깔이 정말 예쁘다. 세계적으로 K뷰티가 인기인 이유가 있다”고 했다. 그러자 ‘한국 제품에 흥미가 생긴다’ ‘한국 립글로스는 정말 좋다’ 등의 댓글이 달렸다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/4TVZ42RPYZFWJCFFAWXCV4EFRQ.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;지난달 29일부터 나흘간 서울 동대문디자인플라자에서 열린 인플루언서 박람회 ‘2025 서울콘’ 무대.
-/서울경제진흥원 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;인스타그램 등 팔로어가 460만인 태국의 인플루언서 ‘묵워라닛’은 서울시 마스코트 해치와 함께 찍은 셀카와 닭강정, 동대문디자인플라자(DDP) 등 사진을 올렸다. 특히 K팝 콘서트 사진을 올리자 순식간에 1만명 이상이 ‘좋아요’를 눌렀다.&lt;br&gt;&lt;br&gt;지난달 29일부터 이달 1일까지 나흘간 열린 인플루언서 박람회 ‘2025 서울콘(SeoulCon)’에 56국 인플루언서 3567팀이 참여해 서울의 문화를 전 세계에 알렸다. 인플루언서는 사실상 ‘1인 미디어’로 활동하는 유명 유튜버 등을 말한다. 서울경제진흥원(SBA)은 2023년부터 이들을 초청하고 있다. 올해로 3회째다.&lt;br&gt;&lt;br&gt;통상 수천만 구독자를 가진 인플루언서를 초청하려면 예산이 적잖이 들지만, 이 행사엔 모든 인플루언서가 참가비를 받지 않고 왔다고 한다. 게다가 서울콘뿐 아니라 편의점 먹방, 화장품 체험 등의 한국 관련 콘텐츠를 추가로 올렸다. 김현우 SBA 대표는 “유행에 민감한 인플루언서에게 서울은 그 자체로 매력적인 콘텐츠”라고 했다.&lt;br&gt;&lt;br&gt;SBA 관계자는 “이번에 서울을 찾은 이들의 팔로어를 모두 합하면 30억명이 넘는다”고 했다. 이들은 뷰티, 패션, 게임 등 다양한 콘텐츠를 다룬다. 유튜브 등 구독자가 8740만명인 일본의 ‘잇세이’는 “서울은 패션, 음악, 음식 같은 여러 매력을 한꺼번에 찾을 수 있는 도시”라며 “나도 올 때마다 한국이 더 좋아져서 자꾸 영상을 올리게 된다”고 했다. 프랑스 인플루언서 ‘위앰 이드벨라’는 유창한 한국어로 “한국에 한 번 놀러 왔다가 반해서 최근엔 아예 서울로 이사를 왔다”고 했다. &lt;br&gt;&lt;br&gt;1일 0시엔 서울콘에 참여한 인플루언서 1000여 명과 시민 4000여 명, 다이나믹듀오 등 K팝 가수들이 DDP에 모여 한국말로 “새해 복 많이 받으세요”라고 외쳤다. 한국어 새해 인사가 인플루언서들의 소셜미디어 계정을 통해 실시간으로 퍼져나간 것이다.&lt;br&gt;&lt;br&gt;김현우 대표는 “서울콘을 확대해 전 세계에 서울을 더욱 효과적으로 알릴 것”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>서울에서 부산에서 “붉은 말의 해, 기운 받으러 왔어요”</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/3K7FO57TD5HTDOUS627JP62PAY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/3K7FO57TD5HTDOUS627JP62PAY/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/FYHWLTCRYJENFDJM7EOZWSEBLY.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;연합뉴스&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/A4AUIIA6M5GMPGS5XGILXECBEU.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;김동환 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;‘붉은 말의 해’ 2026년 병오년(丙午年)의 첫 해가 힘차게 떠올랐다. 1일 아침 서울 영등포구 선유교를 찾은 시민들이 둥그런 해를 스마트폰에 담고 있다(위쪽). 이날 아침 부산 해운대해수욕장에는 새해 일출을 보려는 인파가 몰렸다. 추운 날씨에도 시민과 관광객이 백사장을 가득 메웠다.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카페·병원선 ‘無향’이 새 에티켓</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/OMMSNFHPOVDJLAHM47JVNEU6XY/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/OMMSNFHPOVDJLAHM47JVNEU6XY/</guid>
-      <dc:creator>최하연 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/M5YFX2F4NBEYNHFVXAWQV4RIL4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;부산 기장군의 한 스터디카페에 붙어 있는 '향수·섬유 탈취제 사용 금지' 안내문. /독자 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;경기 광주시에서 스터디 카페를 하는 조모(48)씨는 최근 매장에 ‘타인에게 불쾌감을 줄 수 있으니 진한 향수를 쓰는 건 유의해달라’는 내용의 공지문을 붙였다. 공부하러 왔는데 향수 냄새 탓에 집중하기 어렵다는 손님들 민원이 쏟아졌기 때문이다. 최근엔 손님끼리 서로 ‘향수를 뿌렸으면 나가달라’는 메모를 주고받다 다투는 일도 있었다. 부산 기장군의 한 스터디 카페는 최근 향수, 섬유 탈취제는 사용을 금한다는 안내문을 붙였다.&lt;br&gt;&lt;br&gt;몸에서 풍기는 향(香)이 공공 ‘에티켓’ 문제로 떠올랐다. 향수 시장이 급성장하면서, 개인 취향이었던 향기가 공공장소에서 ‘민폐’가 되는 상황이 빚어지고 있다. 시장조사 업체 유로모니터에 따르면, 국내 향수 시장 판매액은 2020년 5935억원에서 지난해 1조1060억원으로 배 가까이 늘었다.&lt;br&gt;&lt;br&gt;그만큼 향수 제품에 대한 반감도 커지고 있다. 시민단체 환경정의가 작년 전국 성인 1008명을 대상으로 실시한 설문조사에서 51%가 “공공장소에서 타인의 향으로 두통, 메스꺼움 등 건강 이상을 겪은 경험이 있다”고 했다. 응답자의 88%는 “병원·사무실·학교 등을 정책적으로 무향(無香) 공간으로 지정할 필요가 있다”고 했다.&lt;br&gt;&lt;br&gt;서울 강남구 청담동의 한 고급 일식당은 온라인 예약창에 ‘향수를 과도하게 뿌린 손님은 퇴점 조치될 수 있다’는 공지를 올리고 있다. 손님들 사이에서 “과도한 향 때문에 맛에 온전히 집중하기 어렵다”는 항의가 이어지면서다. 서울의 일부 병원은 의료진의 향수 사용을 제한하는 규정을 도입했다. 서울 중형 병원의 한 간호사는 “예민한 환자를 감안해 향수를 뿌리고 출근하면 안 된다는 공지가 얼마 전 의료진에 내려왔다”고 했다.&lt;br&gt;&lt;br&gt;해외에선 향기를 ‘공해’로 규정하는 움직임도 나타나고 있다. 일본에선 지나친 향이 타인에게 해가 된다는 뜻인 ‘향해(香害)’라는 신조어가 2020년 일본어 사전에 등재됐다. 캐나다 보건 당국도 2010년대부터 직장에선 향 제품 사용을 자제하라고 권고하고 있다. 임종한 인하대 직업환경의학과 교수는 “공공장소 향기와 관련한 자율적 기준이나 배려 문화 조성을 위한 사회적 논의가 필요하다”고 했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘서해 피살 은폐’도 항소 포기? 檢 지휘부 “보완하라” 지시만</title>
-      <link>https://www.chosun.com/national/court_law/2026/01/02/SCZRXOO6JJENVB62FTVBSVZFZQ/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/court_law/2026/01/02/SCZRXOO6JJENVB62FTVBSVZFZQ/</guid>
-      <dc:creator>김희래 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:45:00 +0000</pubDate>
-      <content:encoded>검찰 지휘부가 최근 선고된 ‘서해 공무원 피살 은폐’ 사건 1심 무죄 판결에 대해 항소할지를 고심하고 있다. 이 사건의 항소 시한은 2일이다. 서울중앙지검 수사팀은 이미 지휘부에 항소해야 한다는 방침을 보고했다. 하지만 박철우 중앙지검장은 수사팀에 1심 판결을 추가 분석해 보고하라고 지시하면서 1일까지도 결론이 나지 않은 것으로 알려졌다. 법조계에선 검찰이 항소를 포기할 경우 작년 11월 검찰의 ‘대장동 사건 항소 포기’ 사태 때와 같은 논란이 다시 불거질 수 있다는 전망이 나온다.&lt;br&gt;&lt;br&gt;중앙지검 수사팀은 지난달 26일 서울중앙지법 형사25부가 서훈 전 청와대 국가안보실장, 박지원 전 국가정보원장, 서욱 전 국방부 장관 등 관련 피고인 5명에게 모두 무죄를 선고한 직후 항소 방침을 정했다. 수사팀은 지난달 29일 중앙지검 공공수사1부장과 3차장을 거쳐 박철우 지검장에게 이런 방침을 보고했다고 한다. 그런데 박 지검장은 1심 무죄 판결 이유 등을 더 분석해 다시 보고하라고 수사팀에 지시했다고 한다. 이후 수사팀이 지난달 30일 추가 보고서를 제출했지만 박 지검장은 1일까지도 결재하지 않은 것으로 알려졌다.&lt;br&gt;&lt;br&gt;검찰 안팎에선 검찰 지휘부가 항소를 망설이고 있다는 말이 나온다. 재판부가 검찰이 제기한 공소 사실 25개 전부에 대해 “증거가 부족하다”고 판결한 터라 항소 포기 쪽으로 기운 것 아니냐는 얘기다. 무죄 판결 직후 이재명 대통령이 “(검찰이) 없는 사건을 만들고, 있는 증거를 숨기고, 사람을 감옥에 보내려고 시도하는 게 말이 되느냐”며 사실상 서해 사건 항소 포기를 공개적으로 요구한 점도 이런 관측에 무게를 더하고 있다. &lt;br&gt;&lt;br&gt;그러나 서해 사건은 전직 국정원장 등 정부 고위 공직자가 피고인인 사건이라 검찰이 항소하더라도 남소(濫訴)가 아니란 의견도 있다. 검사장 출신 한 변호사는 “고위 공직자들의 형사재판은 공직 수행의 적법성 등을 따져 권력 통제 기준을 마련하는 것”이라며 “검찰이 상급심 판단을 다시 구하는 것은 공익성을 인정할 수 있다”고 했다. 법조계에선 1심 재판부가 해양수산부 공무원이 2020년 9월 북한군에 피격·소각된 사실, 문재인 전 대통령이 사건 보고를 받고 26시간이 지나서야 국민에게 알린 사실, 국방부와 국정원이 관련 첩보와 보고서를 대량 삭제한 사실 등을 인정한 만큼 검찰이 항소해야 한다는 주장도 나온다. &lt;br&gt;&lt;br&gt;이런 가운데 피격 공무원 유족 측은 2일 국회에서 항소 촉구 기자회견을 한 뒤 국제사회 관심을 촉구하는 내용의 서신을 도널드 트럼프 미국 대통령에게 보낼 예정이다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>술자리 늘 때, 경찰은 일이 늘었다… 밤마다 ‘취객과의 전쟁’</title>
       <link>https://www.chosun.com/national/national_general/2026/01/02/5BRSIRDI3JCPJDYLJ7LEBSSBI4/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/5BRSIRDI3JCPJDYLJ7LEBSSBI4/</guid>
@@ -819,34 +863,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
 &lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;이날 만난 경찰관들은 연말에 외국인까지 몰리면서 업무 부담이 가중되고 있다고 했다. 이태원파출소의 한 경찰관은 “외국인들은 소통이 잘 안 되는 데다 연락할 지인도 없어 술이 깨기 전엔 귀가시키는 게 불가능하다”고 했다. 서울의 한 경찰서 관계자는 “자칫 중요한 사건에 대응을 제대로 못 할 수 있다는 우려도 크다”고 했다. 경찰 내부에선 술에 만취해 식당 영업이나 경찰 업무를 방해하는 행위에 대해선 엄정하게 조치할 수 있는 내부 규정 마련이 시급하다는 여론이 커지고 있다.&lt;br&gt;&lt;br&gt;취객들이 호흡 곤란이나 교통사고 등으로 사망하는 일도 늘면서 주취자를 보호할 수 있는 시설과 의료 인력을 확충해야 한다는 지적도 나온다. 지난 2023년 전국에서 최초로 설치된 부산시 주취해소센터에 따르면 작년 한 해 주취해소센터에서 보호 조치를 받은 취객은 575명이다. 이곳에선 경찰관 2명과 응급구조사 자격을 갖춘 소방관 1명이 3교대로 24시간 근무하고 있다. 보호 취객 중 호흡 곤란 등 건강 이상이 발견돼 즉시 응급실로 이송한 사례는 72건이었다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>독거노인, 월 소득 인정액 247만원 이하면 기초연금</title>
-      <link>https://www.chosun.com/national/welfare-medical/2026/01/02/NK2HFXJCZBFZLDQQKGSKL7VTOU/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/welfare-medical/2026/01/02/NK2HFXJCZBFZLDQQKGSKL7VTOU/</guid>
-      <dc:creator>오경묵 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>올해부터 65세 이상 노인 가운데 혼자 사는 단독 가구는 월 소득 인정액이 247만원 이하면 기초연금을 받을 수 있다. 월 소득 인정액은 근로소득뿐 아니라 주택·토지·예금 등의 재산도 소득으로 환산해 계산한다. &lt;br&gt;&lt;br&gt;보건복지부는 올해 기초연금 선정 기준액을 단독 가구 월 247만원, 부부가구 월 395만3000원으로 결정했다고 1일 밝혔다. 둘 다 지난해보다 8.3% 올랐다. &lt;br&gt;&lt;br&gt;기초연금은 65세 이상 노인 가운데 소득 하위 70%에게 지급한다. 노인 가구의 월 소득 인정액이 선정 기준액보다 적으면 받을 수 있다. 올해 선정 기준액이 오른 것은 65세 이상 노인의 소득이 늘어난 영향이 크다. 공적 연금 소득이 7.9%, 사업 소득이 5.5% 올랐고, 주택·토지의 자산 가치도 각각 6%, 2.6% 상승했다.&lt;br&gt;&lt;br&gt;기초연금은 본인이 직접 신청해야 받을 수 있다. 기초연금 신청 대상은 올해 65세가 되는 1961년생부터다. 대상자는 주소지 관할과 상관없이 전국 읍·면·동 행정복지센터나 국민연금공단 지사, 인터넷 홈페이지 복지로(www.bokjiro.go.kr)에서 신청할 수 있다. 기존에 기초연금을 받던 사람은 추가 신청을 하지 않아도 된다. 올해 연금액은 최대 34만9360원이다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>카이스트 AI 단과대, 정원 100명에 지원자 6명</title>
-      <link>https://www.chosun.com/national/education/2026/01/02/4XIG6AJCR5FHHIGYBGWPC2GP5U/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/education/2026/01/02/4XIG6AJCR5FHHIGYBGWPC2GP5U/</guid>
-      <dc:creator>최인준 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>정부가 AI(인공지능) 인재 양성을 목표로 내세운 4대 이공계 특성화 대학(과학기술원)의 ‘AI 단과대’ 설립 사업이 시작부터 삐걱거리고 있다. AI 단과대는 생성형 AI 개발과 관련된 국가 정책·전략을 전문적으로 연구하는 학부를 가리킨다. 카이스트(한국과학기술원)가 올 3월, 울산·대구·광주과기원이 각각 2027년 3월 설립을 추진 중이지만, 정부가 충분한 준비 없이 밀어붙이면서 4대 과기원은 학생·교수진 확보 등에 어려움을 겪고 있다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/BJPQY72C4RGNNI5TWMGRVJOXKE.png"&gt;&lt;figcaption&gt;&lt;small&gt;그래픽=이진영&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;카이스트 AI 단과대는 지난달 정원 100명을 목표로 학부 1학년생을 모집했지만, 지원자는 단 6명에 그쳤다. 신입생들이 ‘무전공’으로 입학하는 카이스트는 1학년 말에 학생들이 세부 전공을 신청한다. 그런데 정부가 AI 단과대 설립 발표를 학생들의 전공 신청 기간(12월 1~19일) 도중인 지난달 11일에 한 것이다. 이미 상당수 학생이 다른 전공을 택해 AI 단과대에 지원할 1학년생이 거의 없었다고 한다. 그나마 AI 단과대 내 4개 학과 중 AI컴퓨팅학과에는 지원자가 있었지만, 나머지 3개 학과(AI시스템·AI미래·AI전환학과)에는 한 명도 없었다. 대학 측 역시 학생 모집 전 교수진이나 커리큘럼을 확정하지 못한 상태였다. 한 학생은 “어떤 교수님들한테 무엇을 배울지가 중요한데, 관련 정보 없이 학부 이름만 있었다”며 “많은 학생이 주저할 수밖에 없었을 것”이라고 했다. &lt;br&gt;&lt;br&gt;일단 카이스트는 복수 전공·부전공, 전과 등을 통해 목표한 정원을 앞으로 채워나가겠다는 입장이다. 지난달 말에서야 AI 단과대 학부장과 4개 학과의 학과장 인선을 마치고, 기존 AI 관련 전공 교수들을 AI 단과대의 겸임 교원으로 임명했다. &lt;br&gt;&lt;br&gt;내년 3월 AI 단과대 출범을 목표로 삼은 다른 3개 과기원도 사정은 마찬가지다. 비록 준비 시간이 1년 더 남았지만, 최대 관건인 교수진 확보에 어려움을 겪고 있다. 구체적인 학생 모집 규모나 커리큘럼이 정해지지 않은 데다, 상대적으로 약한 인지도 탓에 해외에서 교수를 데려오기도 쉽지 않다. 한 과기원 고위 관계자는 “요즘 AI, 반도체 전공 교수는 몸값이 너무 높아 국내 대기업도 영입하기 힘든데, 이들을 지방에 있는 대학에서 데려오기는 정말 어려운 상황”이라고 했다. 이들과 카이스트는 지난달 초 청와대 주도로 미국 실리콘밸리와 뉴욕, 오스틴 등 3개 지역을 각각 방문해 홍보 부스를 차려 놓고 AI 분야 교수, 연구원 영입을 시도했지만 큰 성과는 없었다고 한다. 기존에 있던 AI 관련 전공인 전산학부, 전기전자공학부 등과 차별화된 커리큘럼을 마련하는 것도 풀어야 할 과제다.&lt;br&gt;&lt;br&gt;이뿐만이 아니다. AI 단과대 설립에 필요한 핵심 과제들 역시 아직 별다른 진척 없이 초기 논의 단계 수준이다. 정부는 아직 생성형 AI 연구·개발을 위한 핵심 인프라로 꼽히는 GPU(그래픽 처리 장치) 확보와 대규모 전력 확충 계획도 세우지 않았다. &lt;br&gt;&lt;br&gt;그런 만큼 과기계에선 “정부의 무리한 정책 추진이 문제”라는 지적이 나온다. 학부 과정을 새로 설립하려면 준비 기간이 통상 2년 이상 걸리는데, AI 단과대 설립을 속도전으로 밀어붙였다는 것이다. 실제로 정부가 각 과기원에 AI 단과대 설립 지시를 내린 건 지난해 7~8월쯤으로 알려졌다. &lt;br&gt;&lt;br&gt;한 정부 출연 연구소 관계자는 “중국 칭화대, 미국 퍼듀대 등 해외 대학도 AI 단과대를 도입했지만, 대부분 기존 AI 연관 전공 학부와 통합하는 방식을 통해 시행착오를 줄였다”며 “수개월 만에 제로베이스에서 단과대 하나를 뚝딱 만들라는 발상 자체가 탁상 행정이자 전시 행정”이라고 했다. &lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>새해 소망 담아… 웃통 벗고 ‘붉은 말’처럼 질주</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/F6NZA4FXOFGUNIEPETPMNECOLM/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/F6NZA4FXOFGUNIEPETPMNECOLM/</guid>
-      <dc:creator>조선일보</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:44:00 +0000</pubDate>
-      <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/CLRD37IFLRAOTOYEP5OIS4YZF4.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;신현종 기자
-&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;1일 대전 엑스포과학공원에서 출발한 ’2026 선양 맨몸 마라톤’ 참가자들이 달리고 있는 모습. 이들은 자신의 맨몸에 새해 소망을 적었다. 올해로 10년째인 이 대회는 ‘새해 시작’을 상징하는 숫자 1에 맞춰 매년 1월 1일 오전 11시 11분 11초에 출발해 7㎞를 달린다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>출고 3년 넘은 내연차, 전기차로 바꾸면 보조금 최대 680만원</title>
       <link>https://www.chosun.com/national/transport-environment/2026/01/02/5FWN3CBR2FH77EFJSU2PELF3IA/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/transport-environment/2026/01/02/5FWN3CBR2FH77EFJSU2PELF3IA/</guid>
@@ -856,16 +872,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <content:encoded>올해부터 내연차를 팔거나 폐차해 전기차로 바꾸면 정부로부터 최대 680만원(중형차 기준)의 보조금을 받는다. &lt;br&gt;&lt;br&gt;기후에너지환경부는 이런 내용이 담긴 ‘2026년 전기차 구매 보조금 개편안’을 1일 공개했다. 전기차 보조금은 ‘국고 보조금’과 각 지자체가 주는 ‘지방 보조금’으로 나뉘는데, 이날 개편안은 국고 보조금에 관한 것이다. 가장 큰 변화는 출고 3년 이상 된 내연차를 팔거나 폐차하고 전기차를 사면 ‘전환 지원금’으로 100만원을 주는 것이다. 예컨대 서울에서 내연차를 팔고 전기차를 사면 기존 국고 보조금(580만원), 지방 보조금(지난해 하반기 기준 50만원)에 전환 지원금(100만원)까지 총 730만원을 받게 된다. &lt;br&gt;&lt;br&gt;다만 국내 승용차 교체 주기가 15년 안팎이란 점을 감안할 때, 3년밖에 타지 않은 사실상 새 차를 팔고 또 다른 새 차를 사도록 유도하는 것이 친환경이냐는 비판이 나오고 있다. 또 폐차가 아니라 단순 매각에도 지원금을 주면 내연차 감소 자체에는 큰 효과를 못 볼 거란 지적도 있다.&lt;br&gt;&lt;br&gt;전기차 구매를 망설이게 하는 ‘전기차 화재’에 대한 대책도 바뀐다. 정부는 3월 ‘무공해차 안심 보험’을 출시하고, 6월부터 이 보험에 가입하지 않은 제조사는 보조금을 못 받도록 했다. 전기차가 주차 혹은 충전 중 불이 나 타인의 차량이나 건물 등에 피해를 입혔을 때, 이 보험에 가입된 차량을 구입한 사람은 최대 100억원까지 보상 한도를 보장받게 된다. 그러나 보험의 보장 기간을 ‘신차 출고 후 3년’으로 짧게 잡아, 전기차 신차의 가치가 출고 3년 만에 크게 떨어질 수 있다는 지적이 나온다.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
-      <title>체험관·공방으로 쓰던 한옥 7채, 서울 신혼부부에 공급하기로</title>
-      <link>https://www.chosun.com/national/national_general/2026/01/02/FUTYYO3YYFELNKOUUSGW7QNQYI/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/national_general/2026/01/02/FUTYYO3YYFELNKOUUSGW7QNQYI/</guid>
-      <dc:creator>김수경 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:43:00 +0000</pubDate>
-      <content:encoded>서울 종로구 북촌한옥마을의 한옥이 신혼부부용 공공임대주택으로 변신한다.&lt;br&gt;&lt;br&gt;서울시는 1일 종로구와 성북구에 신혼부부를 위한 한옥 공공임대주택을 공급한다고 밝혔다. 이번에 공급하는 물량은 총 7가구다. 종로구 북촌한옥마을 6가구, 성북구 보문동 1가구다. 원래 공방이나 한옥 체험 시설로 활용하던 집을 개조해 신혼부부용으로 꾸몄다. 서울시가 한옥을 개조해 공공임대주택으로 공급하는 건 이번이 처음이다.&lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/AXKEZPHHLVBYXDM7DWY52LJ7RE.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;서울시가 신혼부부를 위해 서울 종로구와 성북구에 공급하는 한옥 공공 임대주택.
-/서울시 제공&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;겉으로 보기엔 전통 기와집이지만 내부는 현대식으로 꾸몄다. 신혼부부가 살기 좋게 화장실을 리모델링하고 창호와 벽지를 교체했다. &lt;br&gt;&lt;br&gt;아파트와 달리 집마다 구조가 다르다. 방 1개와 마루, 화장실로 구성된 ‘1.5룸 한옥’부터 대가족이 살 수 있는 방 4개짜리 한옥까지 있다. 텃밭과 장독대, 마당이 있어 도심 속 전원 생활을 즐길 수 있는 한옥도 있다. 7가구 중 종로구 원서동에 있는 한옥은 창덕궁 담장 옆이라 창덕궁의 아름드리 나무를 감상할 수 있다. 7가구 모두 지하철역과 가까워 도심으로 출퇴근하기 편하다고 서울시는 설명했다.&lt;br&gt;&lt;br&gt;서울시 관계자는 “요즘 신혼부부들의 취향이 갈수록 다양해지고 있다”며 “좀 더 다양한 공공임대주택을 공급하기 위해서 한옥 공공임대주택을 공급하기로 했다”고 했다. &lt;br&gt;&lt;br&gt;한옥 신혼부부 공공임대주택은 임대료가 주변 시세의 60~70% 수준으로 저렴하고 최장 10년까지 살 수 있다. 아이를 낳으면 10년 뒤 서울 ‘미리내집’에 우선 입주할 수 있다.&lt;br&gt;&lt;br&gt;미리내집은 서울시의 신혼부부 장기 전세 주택이다. ‘내 집을 (싼값에) 미리 마련한다’는 뜻이다. 서울시가 2024년 저출생 문제를 극복하기 위해 만들었다. 서울 강동구 올림픽파크포레온 등 재건축 아파트를 중심으로 공급하고 있다. &lt;br&gt;&lt;br&gt;서울시 관계자는 “한옥 공공임대주택에 입주하는 신혼부부는 한옥에 이어 미리내집 10년까지 최장 20년을 집 걱정 없이 살 수 있다”고 했다.&lt;br&gt;&lt;br&gt;지난달 30일 입주자 모집공고를 냈고 오는 15~16일 입주 신청을 받는다. 12일에는 원서동 한옥에서 설명회도 연다. &lt;br&gt;&lt;br&gt;최진석 서울시 주택실장은 “내년부터는 서울 시내에 새로 조성하는 한옥마을마다 10여 가구씩 공공임대 한옥을 꾸준히 공급할 것”이라고 말했다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
       <title>‘핑퐁’ 소리에 근심도 날아가죠… 85세 ‘라지볼 전도사’</title>
       <link>https://www.chosun.com/national/people/2026/01/02/LBZE6U6VVRFFXIMSAW3U5KFZSU/</link>
       <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/02/LBZE6U6VVRFFXIMSAW3U5KFZSU/</guid>
@@ -873,15 +879,6 @@ Wiener Staatsoper/Michael Poehn&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&
       <description/>
       <pubDate>Thu, 01 Jan 2026 15:40:00 +0000</pubDate>
       <content:encoded>&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/VWEKFALW45ET5EKHD7PT7PYA6E.png"&gt;&lt;figcaption&gt;&lt;small&gt;권오언씨가 지난달 충북 충주에서 라지볼 시범을 보이며 웃고 있다. 나이보다 훨씬 젊어 보이는 그는 “친구들 사이에서 ‘네가 제일 오래 살겠다’는 말을 듣는다”고 했다./신현종 기자&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;“탁구인데, 정확히는 탁구가 아니죠. 하하!”&lt;br&gt;&lt;br&gt;지난달 충북 충주 향군회관 탁구장에서 권오언(85)씨가 또래 동호인 10여 명과 함께 구슬땀을 흘리며 탁구채를 힘차게 휘둘렀다. 1941년생인 권씨는 “우리가 하는 건 일본에서 노인들을 위해 개발한 라지볼”이라며 탁구공, 아니 라지볼을 들어 보였다.&lt;br&gt;&lt;br&gt;“일반 탁구공보다 지름은 4㎜ 정도 큰데 무게는 조금(0.3g) 더 가벼워요.” 일반 탁구공보다 회전이 적은 라지볼은 공의 궤적이 단순해 초보자나 시니어 세대도 쉽게 칠 수 있다. 네트도 일반 탁구보다 2㎝ 높고, 경기는 3세트 만에 끝난다.&lt;br&gt;&lt;br&gt;초등학교 교장을 지낸 권씨는 탁구장에서 100m쯤 떨어진 단독주택에서 산다. 그의 집 지하 차고에는 탁구공을 자동으로 날려주는 탁구 로봇과 탁구대가 놓여 있었다. 그는 “거의 매일 탁구장에 가는 데도 성에 안 차 혼자 연습을 한다”면서 “탁구 로봇에 200만원 정도 거하게 투자했다”며 웃었다.&lt;br&gt;&lt;br&gt;‘라지볼 전도사’로 불리는 권씨는 40년 넘게 탁구와 연을 이어왔다. 그는 1979년 당시 고3이던 첫째 딸을 백혈병으로 떠나보냈다. 이어 권씨의 부친과 모친마저 연이어 세상을 떠나자 권씨와 아내는 우울에 갇혔다. “저는 그래도 학교에 나가 일을 했지만, 하루 종일 집에 있던 아내는 정말 힘들어했죠.”&lt;br&gt;&lt;br&gt;그때 옆집에 살던 이웃이 매일 아침 권씨의 아내를 탁구장으로 데려갔다. 아내는 탁구를 치며 조금씩 웃음을 되찾았고, 권씨도 자연스럽게 탁구채를 잡았다. 권씨는 “돌이켜보면 탁구가 아내와 나를 살려준 거나 다름없다. 지금은 건강 지킴이 노릇을 해준다”고 했다.&lt;br&gt;&lt;br&gt;권씨는 2003년 교직에서 물러난 뒤 본격적으로 탁구의 매력에 빠졌다. 요즘도 아침에 일어나 신문을 읽고 아내를 탁구장에 데려다준 다음 오후에 탁구장에 나가 라지볼을 즐기는 규칙적인 생활을 유지하고 있다. 탁구에 대한 열정은 지역 사회 활동으로 이어져 충주시 라지볼 동호회장, 충북 탁구협회장 등을 맡기도 했다.&lt;br&gt;&lt;br&gt;권씨는 퇴직 후 가끔 친구들과 등산을 했고, 지금은 주변에서 골프를 하라고 권유할 때마다 손사래를 치며 “탁구가 제일 좋다”고 말한다. 권씨는 “10여 년 전 무릎에 인공관절 시술을 받았는데, 등산이 무릎에 무리가 된 것 같아 후회된다”며 “지금도 오래 걷는 건 힘든데, 라지볼은 땀 날 정도로 치고 힘들면 앉아서 쉬엄쉬엄 할 수 있으니 참 좋다”고 했다. 공에 회전이 덜 걸리고 천천히 넘어오니 부상 위험도 적다고 한다.&lt;br&gt;&lt;br&gt;권씨는 “탁구는 날씨와 상관없이 즐길 수 있고 노년에 필요한 근력을 키워준다”며 “동호회 사람들과 커피도 마시고 종종 전도 부쳐 먹으며 얘기 나누는 게 큰 즐거움”이라고 했다. “충주시와 자매결연을 맺은 일본 가나가와현의 도시와 교류전을 만들었어요. 지금도 한 해는 우리가 일본에 가고, 다음 해는 일본 노인들이 충주에 와서 같이 라지볼을 합니다.”&lt;br&gt;&lt;br&gt;권씨는 요즘 동창회에 가면 “네가 제일 오래 살 것 같다”는 덕담을 듣는다고 한다. 그는 “다행히 당뇨나 혈압도 없는데, 앞으로 이렇게 5년 정도는 더 라지볼을 칠 수 있으면 원이 없겠다”며 웃었다.&lt;br&gt;&lt;br&gt;</content:encoded>
-    </item>
-    <item>
-      <title>‘톰과 제리’ 성우 송도순 별세</title>
-      <link>https://www.chosun.com/national/people/2026/01/02/SYGC2ALRBVEZFLZG2YU6GI7URA/</link>
-      <guid isPermaLink="true">https://www.chosun.com/national/people/2026/01/02/SYGC2ALRBVEZFLZG2YU6GI7URA/</guid>
-      <dc:creator>김광진 기자</dc:creator>
-      <description/>
-      <pubDate>Thu, 01 Jan 2026 15:40:00 +0000</pubDate>
-      <content:encoded>교통방송(TBS) 라디오 진행자이자 애니메이션 ‘톰과 제리’의 목소리로 친숙한 성우 송도순(77)씨가 지난해 12월 31일 지병으로 별세했다.&lt;br&gt;&lt;br&gt;황해도에서 태어난 송씨는 중앙여고를 거쳐 중앙대 연극영화학과에 입학했다. 1967년 대학 재학 중 동양방송(TBC) 성우로 입사했다. &lt;br&gt;&lt;br&gt;&lt;figure&gt;&lt;img align="center" src="https://cloudfront-ap-northeast-1.images.arcpublishing.com/chosun/IFVD3V37UBG2THHEH3O2HXB42E.jpg"&gt;&lt;figcaption&gt;&lt;small&gt;&lt;/small&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;br&gt;&lt;br&gt;특히 MBC에서 방영된 미국 애니메이션 ‘톰과 제리’ 해설을 맡아서 특유의 또렷하고 개성 있는 목소리로 대표적인 여성 성우로 자리매김했다. 이 밖에 ‘101마리 달마시안’ ‘내 친구 드래곤’ 등 여러 애니메이션에서도 목소리를 남겼다. &lt;br&gt;&lt;br&gt;‘싱글벙글쇼’ ‘저녁의 희망가요’ ‘명랑콩트’ 같은 라디오 프로그램 진행자로도 맹활약했다. 1990~2007년 성우 배한성과 함께 TBS ‘함께 가는 저녁길’을 이끌며 ‘똑소리 아줌마’라는 별명을 얻었다. 라디오와 TV를 넘나들며 ‘산다는 것은’ ‘사랑하니까’ ‘달수 시리즈’ ‘간이역’ 등 방송 드라마에 출연했다. ‘세바퀴’ ‘공감토크쇼 놀러와’ 같은 TV 예능 프로그램에도 출연했다.&lt;br&gt;&lt;br&gt;송씨는 1975년 대한민국 방송대상 라디오 부문 대상을 받았고, 2020년에는 보관문화훈장을 수훈했다. 2015년에는 한국관광 명예홍보대사로 위촉됐다. &lt;br&gt;&lt;br&gt;유족은 남편 박희민씨와 아들 박준혁·박진재씨, 며느리 채자연·김현민씨. 빈소는 서울아산병원 장례식장, 발인은 3일 오전 6시 20분.&lt;br&gt;&lt;br&gt;</content:encoded>
     </item>
     <item>
       <title>[오늘의 날씨] 1월 2일</title>
